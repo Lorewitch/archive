@@ -609,20 +609,36 @@
 
 
     .artifact-toolbar .volume-strip {
-      display: flex;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 10px 14px;
+      display: grid;
+      grid-template-columns: 1fr;
+      align-items: stretch;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .artifact-toolbar .mode-button {
+      width: 100%;
+      min-height: 46px;
+      justify-content: center;
+    }
+
+    .artifact-toolbar .toolbar-label {
+      margin-top: 2px;
     }
 
     .artifact-toolbar .volume-scroll {
-      flex: 1 1 360px;
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
+      width: 100%;
+      min-width: 0;
       overflow: visible;
       padding: 0;
       scrollbar-width: none;
+    }
+
+    .artifact-toolbar .volume-scroll button {
+      flex: 0 1 auto;
     }
 
     .artifact-toolbar .volume-scroll::-webkit-scrollbar {
