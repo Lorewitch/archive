@@ -192,6 +192,16 @@ def is_placeholder_note(text: str) -> bool:
         "заметка к первому тому",
         "заметка ко второму тому",
         "заметка к третьему тому",
+        "общий комментарий по сету",
+        "кому посвящён",
+        "кому посвящен",
+        "связи с регионом/персонажами/событиями",
+        "связи с регионом персонажами событиями",
+        "заметка к цветку",
+        "заметка к перу",
+        "заметка к часам",
+        "заметка к кубку",
+        "заметка к короне",
         "заметки пока не заполнены",
     ]
     return any(marker in cleaned for marker in placeholder_markers)
@@ -271,6 +281,83 @@ def parse_notes(notes_text: str) -> dict[str, Any]:
         general = ""
 
     return {"general": general, "byVolume": by_volume}
+
+
+
+def artifact_note_key_from_heading(title: str) -> str | None:
+    lower = title.strip().lower()
+    for key, hints in ARTIFACT_PART_HINTS.items():
+        if any(hint.lower() in lower for hint in hints):
+            return key
+    return None
+
+
+def parse_artifact_notes(notes_text: str) -> dict[str, Any]:
+    """Parse ## NOTES for artifact sets.
+
+    Supported structure:
+    ### Общие заметки Лороведьмы
+    text...
+
+    ### Заметки по частям
+    #### Цветок жизни
+    text...
+    #### Перо смерти
+    text...
+    """
+    cleaned = notes_text.strip()
+    if not cleaned or is_placeholder_note(cleaned):
+        return {"general": "", "byPart": {}}
+
+    general_lines: list[str] = []
+    by_part: dict[str, str] = {}
+    current_part: str | None = None
+    current_lines: list[str] = []
+    in_general_block = False
+
+    def flush_part() -> None:
+        nonlocal current_part, current_lines
+        if current_part is None:
+            return
+        text = "\n".join(line.rstrip() for line in current_lines).strip()
+        if text and not is_placeholder_note(text):
+            by_part[current_part] = text
+        current_part = None
+        current_lines = []
+
+    for raw_line in cleaned.splitlines():
+        line = raw_line.rstrip()
+        stripped = line.strip()
+
+        heading = re.match(r"^#{3,6}\s+(.+?)\s*$", stripped)
+        if heading:
+            title = heading.group(1).strip()
+            key = artifact_note_key_from_heading(title)
+            if key:
+                flush_part()
+                current_part = key
+                in_general_block = False
+                continue
+
+            flush_part()
+            title_lower = title.lower()
+            in_general_block = any(word in title_lower for word in ["общ", "general"])
+            # Structural headings like "Заметки по частям" are not public text.
+            continue
+
+        if current_part is not None:
+            current_lines.append(line)
+        else:
+            if stripped or in_general_block:
+                general_lines.append(line)
+
+    flush_part()
+
+    general = "\n".join(line.rstrip() for line in general_lines).strip()
+    if is_placeholder_note(general):
+        general = ""
+
+    return {"general": general, "byPart": by_part}
 
 
 def normalized_book_subtype(meta: dict[str, str]) -> str:
@@ -388,7 +475,7 @@ def build_artifact(path: Path) -> dict[str, Any]:
         "languages": languages_from_text(text_by_lang=text_by_lang),
         "parts": parts,
         "text": text_by_lang,
-        "notes": parse_notes(sections.get("NOTES", "")),
+        "notes": parse_artifact_notes(sections.get("NOTES", "")),
     }
 
 def normalized_weapon_type(meta: dict[str, str]) -> str:
