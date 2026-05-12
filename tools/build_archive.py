@@ -39,7 +39,7 @@ def split_sections(body: str) -> dict[str, str]:
     current: str | None = None
     for line in body.splitlines():
         header = re.match(r"^##\s+([A-Z]+)\s*$", line.strip())
-        if header and header.group(1) in LANG_HEADERS or (header and header.group(1) in {"NOTES", "INTERNAL"}):
+        if header and (header.group(1) in LANG_HEADERS or header.group(1) in {"NOTES", "INTERNAL"}):
             current = header.group(1)
             sections[current] = []
             continue
@@ -90,11 +90,20 @@ def split_volumes(section_text: str, lang: str) -> dict[int, dict]:
 
 
 def parse_notes(notes_text: str) -> dict:
-    # Минимально сохраняем заметки как общий блок. При желании позже разделим по томам.
     cleaned = notes_text.strip()
     if not cleaned or "сюда можно писать" in cleaned.lower():
         return {"general": "", "byVolume": {}}
     return {"general": cleaned, "byVolume": {}}
+
+
+def meta_int(meta: dict, key: str, fallback: int) -> int:
+    value = meta.get(key, "").strip()
+    if not value:
+        return fallback
+    try:
+        return int(value)
+    except ValueError:
+        return fallback
 
 
 def build_book(path: Path) -> dict:
@@ -108,8 +117,10 @@ def build_book(path: Path) -> dict:
         "zh": meta.get("title_zh", ""),
     }
 
-    per_lang = {lang: split_volumes(sections.get(label, ""), lang)
-                for label, lang in LANG_HEADERS.items()}
+    per_lang = {
+        lang: split_volumes(sections.get(label, ""), lang)
+        for label, lang in LANG_HEADERS.items()
+    }
     all_numbers = sorted({n for volumes in per_lang.values() for n in volumes.keys()})
     volumes = []
     for number in all_numbers:
@@ -124,18 +135,26 @@ def build_book(path: Path) -> dict:
                 "ru": per_lang["ru"].get(number, {}).get("text", ""),
                 "en": per_lang["en"].get(number, {}).get("text", ""),
                 "zh": per_lang["zh"].get(number, {}).get("text", ""),
-            }
+            },
         })
 
     languages = [lang for lang in LANGS if any(v["text"].get(lang) for v in volumes)]
     tags = [tag.strip() for tag in meta.get("tags", "").split(",") if tag.strip()]
 
+    # These fields are used by the archive UI. Keep them in both the full book JSON
+    # and the index JSON so cards can show icons and split books into subsections.
+    icon = meta.get("icon", "").strip()
+    subtype = meta.get("subtype", meta.get("book_type", "book_series")).strip() or "book_series"
+
     return {
         "id": book_id,
         "category": meta.get("category", "books"),
+        "subtype": subtype,
+        "book_type": subtype,
+        "icon": icon,
         "title": title,
         "region": meta.get("region", ""),
-        "volume_count": int(meta.get("volume_count") or len(volumes) or 1),
+        "volume_count": meta_int(meta, "volume_count", len(volumes) or 1),
         "tags": tags,
         "languages": languages,
         "volumes": volumes,
@@ -161,6 +180,9 @@ def build() -> None:
         index.append({
             "id": book["id"],
             "category": book["category"],
+            "subtype": book.get("subtype", "book_series"),
+            "book_type": book.get("book_type", "book_series"),
+            "icon": book.get("icon", ""),
             "title": book["title"],
             "region": book["region"],
             "volume_count": book["volume_count"],
