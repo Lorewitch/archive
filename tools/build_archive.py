@@ -488,11 +488,81 @@ def normalized_item_group(meta: dict[str, str]) -> str:
     return value if value in ITEM_GROUPS else "misc"
 
 
+
+
+def material_index_keys(meta: dict[str, str]) -> list[int]:
+    indexes: set[int] = set()
+    for key in meta:
+        match = re.match(r"material_(\d+)_(?:id|ru|en|zh|icon)$", key)
+        if match:
+            indexes.add(int(match.group(1)))
+    return sorted(indexes)
+
+
+def normalize_material_key(value: str, fallback: str) -> str:
+    value = value.strip().lower()
+    if value:
+        value = re.sub(r"[^a-z0-9_\-]+", "_", value).strip("_")
+    return value or fallback
+
+
+def material_title_match(title: str, material: dict[str, Any]) -> bool:
+    title_clean = re.sub(r"\s+", " ", title.strip().lower())
+    if not title_clean:
+        return False
+    candidates = [material.get("key", "")]
+    candidates.extend(str(material.get("title", {}).get(lang, "")) for lang in LANGS)
+    for candidate in candidates:
+        candidate_clean = re.sub(r"\s+", " ", str(candidate).strip().lower())
+        if candidate_clean and (candidate_clean == title_clean or candidate_clean in title_clean or title_clean in candidate_clean):
+            return True
+    return False
+
+
+def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> list[dict[str, Any]]:
+    materials: list[dict[str, Any]] = []
+    for number in material_index_keys(meta):
+        fallback_key = f"material_{number}"
+        key = normalize_material_key(meta.get(f"material_{number}_id", ""), fallback_key)
+        materials.append({
+            "key": key,
+            "title": {
+                "ru": meta.get(f"material_{number}_ru", ""),
+                "en": meta.get(f"material_{number}_en", ""),
+                "zh": meta.get(f"material_{number}_zh", ""),
+            },
+            "icon": meta.get(f"material_{number}_icon", "").strip(),
+            "text": {"ru": "", "en": "", "zh": ""},
+        })
+
+    # Optional descriptions can be written as ### material title in each language section.
+    for label, lang in LANG_HEADERS.items():
+        blocks = split_subsections(sections.get(label, ""))
+        for order, block in enumerate(blocks):
+            target: dict[str, Any] | None = None
+            for material in materials:
+                if material_title_match(block["title"], material):
+                    target = material
+                    break
+            if target is None and order < len(materials):
+                target = materials[order]
+            if target is not None:
+                target["text"][lang] = block["text"]
+
+    return materials
+
+
+def item_entry_type(meta: dict[str, str]) -> str:
+    return (meta.get("entry_type") or meta.get("item_type") or "item").strip() or "item"
+
 def build_generic(path: Path, category: str) -> dict[str, Any]:
     meta, body = parse_meta_and_body(read_text(path))
     sections = split_top_sections(body)
     entry_id = meta.get("id") or slug_from_path(path)
     text_by_lang = {lang: sections.get(label, "").strip() for label, lang in LANG_HEADERS.items()}
+
+    entry_type = item_entry_type(meta) if category == "items" else "entry"
+    materials = parse_enemy_materials(meta, sections) if category == "items" and entry_type == "enemy_drops" else []
 
     entry: dict[str, Any] = {
         "id": entry_id,
@@ -513,6 +583,11 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         entry["type"] = entry["weapon_type"]
     if category == "items":
         entry["item_group"] = normalized_item_group(meta)
+        entry["entry_type"] = entry_type
+        if materials:
+            entry["materials"] = materials
+            entry["material_count"] = len(materials)
+            entry["languages"] = languages_from_text(text_by_lang=text_by_lang)
 
     return entry
 
@@ -567,6 +642,16 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "title": item.get("title", {}),
         "region": item.get("region", ""),
         "item_group": item.get("item_group", "misc"),
+        "entry_type": item.get("entry_type", "item"),
+        "materials": [
+            {
+                "key": material.get("key", ""),
+                "title": material.get("title", {}),
+                "icon": material.get("icon", ""),
+            }
+            for material in item.get("materials", [])
+        ],
+        "material_count": item.get("material_count", len(item.get("materials", []))),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
     }
