@@ -24,5 +24,29 @@
       "en",
       "zh"
     ]
+  },
+  {
+    "id": "02_the_tale_of_qoyllor_and_ukuku",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/02_the_tale_of_qoyllor_and_ukuku.webp",
+    "title": {
+      "ru": "История о Койллор и Укуку",
+      "en": "The Tale of Qoyllor and Ukuku",
+      "zh": "奎伊露和乌库库的故事"
+    },
+    "region": "Натлан",
+    "volume_count": 1,
+    "tags": [
+      "Натлан",
+      "Койллор",
+      "Укуку"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
   }
 ]
