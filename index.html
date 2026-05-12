@@ -2499,11 +2499,40 @@ function bindArtifactDetail(artifact) {
   });
 }
 
+function localizedEntryText(item) {
+  const text = item?.text;
+  const description = item?.description;
+
+  if (text && typeof text === "object") {
+    return text[state.lang] || text.ru || text.en || text.zh || "";
+  }
+  if (description && typeof description === "object") {
+    return description[state.lang] || description.ru || description.en || description.zh || "";
+  }
+  return text || description || "";
+}
+
+function genericNotes(item) {
+  const notes = item?.notes;
+  if (!notes) return "";
+  if (typeof notes === "string") return cleanPublicNote(notes);
+  return cleanPublicNote(notes.general || "");
+}
+
 function renderGenericDetail(item, config) {
   if (!item) {
     renderError("Запись не найдена.");
     return;
   }
+
+  const text = localizedEntryText(item) || "Текст этой записи будет добавлен позже.";
+  const noteText = genericNotes(item);
+  const notesBlock = noteText ? `
+    <div class="notes">
+      <div class="notes-title">Заметки Лороведьмы</div>
+      <div class="notes-body">${markdownToHtml(noteText)}</div>
+    </div>
+  ` : "";
 
   app.innerHTML = `
     <section class="page-card book-page">
@@ -2513,12 +2542,28 @@ function renderGenericDetail(item, config) {
         <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
       </div>
       <article class="text-card">
-        <div class="prose">${markdownToHtml(item.text?.ru || item.description?.ru || item.text || item.description || "Текст этой записи будет добавлен позже.")}</div>
+        <div class="volume-title generic-title">
+          <div class="volume-title-main"><h3>${config.id === "weapons" ? "Описание" : "Текст"}</h3></div>
+          <div class="lang-control" aria-label="Язык текста">
+            <span class="toolbar-label">Язык</span>
+            <div class="lang-switch">
+              ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
+            </div>
+          </div>
+        </div>
+        <div class="prose">${markdownToHtml(text)}</div>
+        ${notesBlock}
       </article>
     </section>
   `;
 
   document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id, null, state.subsection));
+  document.querySelectorAll("[data-lang]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.lang = button.dataset.lang;
+      preserveScrollRender(() => renderGenericDetail(item, config));
+    });
+  });
 }
 
 function preserveScrollRender(renderFn) {
