@@ -101,18 +101,27 @@
     }
 
     .brand {
-      display: flex;
-      align-items: center;
-      gap: 14px;
+      display: grid;
+      gap: 8px;
+      justify-items: center;
       margin-bottom: 26px;
+      text-align: center;
+    }
+
+    .brand-head {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      min-width: 0;
     }
 
     .brand-mark {
       display: grid;
       place-items: center;
       flex: 0 0 auto;
-      width: 72px;
-      height: 72px;
+      width: 56px;
+      height: 56px;
       border-radius: 10px;
       background: rgba(246, 242, 235, .68);
       box-shadow: 0 12px 22px rgba(91, 74, 62, .18);
@@ -135,9 +144,10 @@
     }
 
     .brand-subtitle {
-      margin-top: 5px;
       color: var(--muted);
       font-size: 13px;
+      line-height: 1.35;
+      text-align: center;
     }
 
     .nav {
@@ -726,10 +736,10 @@
 
       .mobile-brand img {
         display: block;
-        width: 32px;
-        height: 32px;
+        width: 24px;
+        height: 24px;
         object-fit: contain;
-        flex: 0 0 32px;
+        flex: 0 0 24px;
       }
 
       .app {
@@ -871,10 +881,10 @@
       }
 
       .mobile-top {
-        min-height: 58px;
+        min-height: 56px;
         gap: 8px;
-        padding-top: 9px;
-        padding-bottom: 9px;
+        padding-top: 8px;
+        padding-bottom: 8px;
       }
 
       .mobile-brand {
@@ -1165,11 +1175,11 @@
   <div class="app">
     <aside class="sidebar" id="sidebar">
       <div class="brand">
-        <div class="brand-mark"><img src="assets/icons/logo_icon_05.png" alt="Логотип Библиотеки Лороведьмы"></div>
-        <div>
+        <div class="brand-head">
+          <div class="brand-mark"><img src="assets/icons/logo_icon_05.png" alt="Логотип Библиотеки Лороведьмы"></div>
           <div class="brand-title">Библиотека<br>Лороведьмы</div>
-          <div class="brand-subtitle">публичная база игровых текстов</div>
         </div>
+        <div class="brand-subtitle">публичная база игровых текстов</div>
       </div>
       <nav class="nav" id="nav"></nav>
       <div class="sidebar-note">Левое меню содержит только разделы. Списки книг, оружия и предметов открываются в центральной части архива.</div>
