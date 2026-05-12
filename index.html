@@ -384,6 +384,10 @@
       --catalog-columns: minmax(240px, 1.8fr) minmax(220px, 1.1fr) minmax(160px, .8fr);
     }
 
+    .catalog-row.cols-items-enemy {
+      --catalog-columns: minmax(240px, 1.55fr) minmax(260px, 1.45fr) minmax(150px, .8fr) minmax(140px, .7fr);
+    }
+
     .catalog-row:last-child {
       border-bottom: 0;
     }
@@ -1035,6 +1039,21 @@
 
       .catalog-row.item > div:not(:first-child) {
         display: none;
+      }
+
+      .entry-material-preview {
+        display: flex;
+      }
+
+      .material-chip {
+        font-size: 12px;
+        padding: 5px 7px;
+      }
+
+      .material-chip img {
+        width: 22px;
+        height: 22px;
+        flex-basis: 22px;
       }
 
       .group-grid {
@@ -1724,6 +1743,16 @@ const ITEM_GROUPS = [
   ["misc", "Прочее", "То, что не вошло в остальные категории."]
 ];
 
+const ENEMY_DROP_GROUPS = ["weekly_bosses", "world_bosses", "common_enemies"];
+
+function isEnemyDropGroup(group) {
+  return ENEMY_DROP_GROUPS.includes(group);
+}
+
+function isEnemyDropEntry(item) {
+  return item?.entry_type === "enemy_drops" || (isEnemyDropGroup(item?.item_group) && Array.isArray(item?.materials) && item.materials.length > 0);
+}
+
 const ARTIFACT_PART_LABELS = {
   flower: { ru: "Цветок жизни", en: "Flower of Life", zh: "生之花" },
   plume: { ru: "Перо смерти", en: "Plume of Death", zh: "死之羽" },
@@ -1799,9 +1828,14 @@ const SECTIONS = [
     defaultGroup: "misc",
     filter: "region",
     filterLabel: "Все регионы",
-    columns: ["Название", "Регион", "Языки"],
+    columns: () => isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион", "Языки"] : ["Название", "Регион", "Языки"],
     empty: "В этой категории пока нет предметов.",
-    row: item => [
+    row: item => isEnemyDropGroup(state.subsection) ? [
+      renderTitleCell(item),
+      renderMaterialsCell(item),
+      escapeHtml(item.region || "—"),
+      renderLangPills(item.languages)
+    ] : [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
       renderLangPills(item.languages)
@@ -1818,6 +1852,8 @@ const state = {
   readAll: false,
   artifactPart: "flower",
   artifactReadAll: false,
+  itemMaterial: "",
+  itemReadAll: false,
   filters: {
     books: { query: "", filter: "all", sort: "asc" },
     artifacts: { query: "", filter: "all", sort: "asc" },
@@ -1995,13 +2031,32 @@ function renderTitleCell(item) {
   const iconMarkup = icon
     ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
+  const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
   return `
     <div class="entry-title-cell">
       ${iconMarkup}
       <div class="entry-title-text">
         <div class="book-title">${escapeHtml(titleOf(item, "ru"))}</div>
         <div class="book-subtitle">${escapeHtml(subtitles)}</div>
+        ${materialsPreview}
       </div>
+    </div>
+  `;
+}
+
+function materialTitle(material, lang = "ru") {
+  return material?.title?.[lang] || material?.title?.ru || material?.title?.en || material?.title?.zh || material?.name || material?.key || "Материал";
+}
+
+function renderMaterialsCell(item) {
+  const materials = Array.isArray(item?.materials) ? item.materials : [];
+  if (!materials.length) return "—";
+  return `
+    <div class="material-list">
+      ${materials.map(material => {
+        const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy">` : "";
+        return `<span class="material-chip">${icon}<span>${escapeHtml(materialTitle(material, "ru"))}</span></span>`;
+      }).join("")}
     </div>
   `;
 }
@@ -2132,7 +2187,12 @@ function searchableText(item) {
     item.rarity,
     item.source,
     item.related,
-    ...(item.tags || [])
+    ...(item.tags || []),
+    ...(Array.isArray(item.materials) ? item.materials.flatMap(material => [
+      materialTitle(material, "ru"),
+      materialTitle(material, "en"),
+      materialTitle(material, "zh")
+    ]) : [])
   ].join(" ").toLowerCase();
 }
 
@@ -2155,8 +2215,9 @@ function filteredEntries(config) {
 }
 
 function catalogRow(item, config) {
+  const rowClass = config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   return `
-    <div class="catalog-row item cols-${config.id}" data-entry-id="${escapeHtml(item.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
+    <div class="catalog-row item ${rowClass}" data-entry-id="${escapeHtml(item.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
       ${config.row(item).map(cell => `<div>${cell}</div>`).join("")}
     </div>
   `;
@@ -2195,11 +2256,13 @@ function renderCatalogTable(config) {
   const filterState = state.filters[config.id];
   const sortUp = filterState.sort === "asc" ? "active" : "";
   const sortDown = filterState.sort === "desc" ? "active" : "";
+  const columns = typeof config.columns === "function" ? config.columns() : config.columns;
+  const rowClass = config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
 
   return `
     <div class="catalog-table" id="catalog-table">
-      <div class="catalog-row head cols-${config.id}">
-        ${config.columns.map((column, index) => index === 0 ? `
+      <div class="catalog-row head ${rowClass}">
+        ${columns.map((column, index) => index === 0 ? `
           <div>
             <button class="sortable-head" id="sort-title" type="button" aria-label="Сортировать по названию">
               <span>${escapeHtml(column)}</span>
@@ -2519,6 +2582,123 @@ function genericNotes(item) {
   return cleanPublicNote(notes.general || "");
 }
 
+
+function localizedMaterialText(material) {
+  const text = material?.text;
+  if (text && typeof text === "object") return text[state.lang] || text.ru || text.en || text.zh || "";
+  return text || "";
+}
+
+function renderEnemyDropsDetail(item, config) {
+  const materials = Array.isArray(item.materials) ? item.materials : [];
+  if (!materials.length) {
+    renderGenericDetail(item, config);
+    return;
+  }
+
+  if (!materials.some(material => material.key === state.itemMaterial)) {
+    state.itemMaterial = materials[0].key;
+  }
+
+  app.innerHTML = `
+    <section class="page-card book-page">
+      <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(groupLabel(config, state.subsection) || config.title)}»</button>
+      <div class="page-head">
+        <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
+        <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
+      </div>
+
+      <div class="reader-toolbar artifact-toolbar" aria-label="Материалы противника">
+        <div class="volume-strip" aria-label="Материалы">
+          <button class="mode-button ${state.itemReadAll ? "active" : ""}" id="toggle-item-read-all" type="button">${state.itemReadAll ? "Читать по материалам" : "Читать все материалы"}</button>
+          <div class="parts-row">
+            <span class="toolbar-label">Материалы</span>
+            <div class="volume-scroll">
+              ${materials.map(material => `<button type="button" data-item-material="${escapeHtml(material.key)}" class="${!state.itemReadAll && state.itemMaterial === material.key ? "active" : ""}">${escapeHtml(materialTitle(material, state.lang))}</button>`).join("")}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="reader-text-area">${renderEnemyMaterialsTextArea(item)}</div>
+
+      <details class="catalog-meta">
+        <summary>Сведения для каталога и фильтров</summary>
+        <div class="catalog-meta-body">
+          <div><strong>Категория:</strong> ${escapeHtml(groupLabel(config, item.item_group) || "—")}</div>
+          <div><strong>Регион:</strong> ${escapeHtml(item.region || "—")}</div>
+          <div><strong>Материалов:</strong> ${escapeHtml(item.material_count || materials.length)}</div>
+          <div><strong>Языки:</strong> ${(item.languages || []).map(langLabel).join(" · ")}</div>
+          <div class="tag-list">${(item.tags || []).map(tag => `<span class="tiny-pill">#${escapeHtml(tag)}</span>`).join("")}</div>
+        </div>
+      </details>
+    </section>
+  `;
+
+  bindEnemyDropsDetail(item, config);
+}
+
+function renderEnemyMaterialsTextArea(item) {
+  const materials = Array.isArray(item.materials) ? item.materials : [];
+  const selectedMaterials = state.itemReadAll ? materials : materials.filter(material => material.key === state.itemMaterial);
+  const generalNote = cleanPublicNote(item.notes?.general || "");
+
+  return selectedMaterials.map((material, index) => {
+    const title = escapeHtml(materialTitle(material, state.lang));
+    const text = localizedMaterialText(material) || localizedEntryText(item) || "Описание материала будет добавлено позже.";
+    const languageControl = index === 0 ? `
+      <div class="lang-control" aria-label="Язык текста">
+        <span class="toolbar-label">Язык</span>
+        <div class="lang-switch">
+          ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
+        </div>
+      </div>
+    ` : "";
+    const iconMarkup = material.icon ? `<img class="material-card-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy">` : "";
+    const notesBlock = index === 0 && generalNote ? `
+      <div class="notes">
+        <div class="notes-title">Заметки Лороведьмы</div>
+        <div class="notes-body">${markdownToHtml(generalNote)}</div>
+      </div>
+    ` : "";
+
+    return `
+      <article class="text-card artifact-text-card" id="item-material-${escapeHtml(material.key)}">
+        <div class="volume-title">
+          <div class="volume-title-main material-card-head">${iconMarkup}<h3>${title}</h3></div>
+          ${languageControl}
+        </div>
+        <div class="prose">${markdownToHtml(text)}</div>
+        ${notesBlock}
+      </article>
+    `;
+  }).join("");
+}
+
+function bindEnemyDropsDetail(item, config) {
+  document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id, null, state.subsection));
+
+  document.getElementById("toggle-item-read-all")?.addEventListener("click", () => {
+    state.itemReadAll = !state.itemReadAll;
+    preserveScrollRender(() => renderEnemyDropsDetail(item, config));
+  });
+
+  document.querySelectorAll("[data-item-material]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.itemMaterial = button.dataset.itemMaterial;
+      state.itemReadAll = false;
+      preserveScrollRender(() => renderEnemyDropsDetail(item, config));
+    });
+  });
+
+  document.querySelectorAll("[data-lang]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.lang = button.dataset.lang;
+      preserveScrollRender(() => renderEnemyDropsDetail(item, config));
+    });
+  });
+}
+
 function renderGenericDetail(item, config) {
   if (!item) {
     renderError("Запись не найдена.");
@@ -2650,7 +2830,11 @@ async function render() {
   if (state.entryId) {
     renderLoading("Открываю запись…");
     const item = await getGenericDetail(config.id, state.entryId);
-    renderGenericDetail(item, config);
+    if (config.id === "items" && isEnemyDropEntry(item)) {
+      renderEnemyDropsDetail(item, config);
+    } else {
+      renderGenericDetail(item, config);
+    }
     return;
   }
 
