@@ -622,15 +622,25 @@
       justify-content: center;
     }
 
+    .artifact-toolbar .parts-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      width: 100%;
+      min-width: 0;
+    }
+
     .artifact-toolbar .toolbar-label {
-      margin-top: 2px;
+      flex: 0 0 auto;
+      margin: 0;
     }
 
     .artifact-toolbar .volume-scroll {
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
-      width: 100%;
+      flex: 1 1 auto;
+      width: auto;
       min-width: 0;
       overflow: visible;
       padding: 0;
@@ -643,6 +653,17 @@
 
     .artifact-toolbar .volume-scroll::-webkit-scrollbar {
       display: none;
+    }
+
+    @media (max-width: 640px) {
+      .artifact-toolbar .parts-row {
+        align-items: flex-start;
+        gap: 8px;
+      }
+
+      .artifact-toolbar .toolbar-label {
+        padding-top: 10px;
+      }
     }
 
     .text-card {
@@ -2260,9 +2281,11 @@ function renderArtifactDetail(artifact) {
       <div class="reader-toolbar artifact-toolbar" aria-label="Управление чтением сета артефактов">
         <div class="volume-strip" aria-label="Части сета">
           <button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>
-          <span class="toolbar-label">Части</span>
-          <div class="volume-scroll">
-            ${parts.map(part => `<button type="button" data-artifact-part="${escapeHtml(part.key)}" class="${!state.artifactReadAll && state.artifactPart === part.key ? "active" : ""}">${escapeHtml(artifactPartTitle(part, state.lang))}</button>`).join("")}
+          <div class="parts-row">
+            <span class="toolbar-label">Части</span>
+            <div class="volume-scroll">
+              ${parts.map(part => `<button type="button" data-artifact-part="${escapeHtml(part.key)}" class="${!state.artifactReadAll && state.artifactPart === part.key ? "active" : ""}">${escapeHtml(artifactPartTitle(part, state.lang))}</button>`).join("")}
+            </div>
           </div>
         </div>
       </div>
