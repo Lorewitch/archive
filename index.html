@@ -111,13 +111,19 @@
       display: grid;
       place-items: center;
       flex: 0 0 auto;
-      width: 48px;
-      height: 48px;
+      width: 56px;
+      height: 56px;
       border-radius: 10px;
-      background: linear-gradient(145deg, #5B4A3E, #8A8077);
-      color: #F6F2EB;
-      font-size: 24px;
-      box-shadow: 0 12px 22px rgba(91, 74, 62, .24);
+      background: rgba(246, 242, 235, .68);
+      box-shadow: 0 12px 22px rgba(91, 74, 62, .18);
+      overflow: hidden;
+    }
+
+    .brand-mark img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      display: block;
     }
 
     .brand-title {
@@ -176,10 +182,11 @@
     }
 
     .nav-icon {
-      width: 25px;
-      flex: 0 0 auto;
-      text-align: center;
-      font-size: 19px;
+      display: block;
+      width: 26px;
+      height: 26px;
+      flex: 0 0 26px;
+      object-fit: contain;
     }
 
     .sidebar-note {
@@ -717,6 +724,14 @@
         text-overflow: ellipsis;
       }
 
+      .mobile-brand img {
+        display: block;
+        width: 24px;
+        height: 24px;
+        object-fit: contain;
+        flex: 0 0 24px;
+      }
+
       .app {
         display: block;
         width: 100%;
@@ -1143,14 +1158,14 @@
 <body>
   <div class="mobile-top">
     <button class="menu-button" id="open-menu" type="button">☰ Разделы</button>
-    <div class="mobile-brand"><span>📚</span><span>Библиотека Лороведьмы</span></div>
+    <div class="mobile-brand"><img src="assets/icons/logo_icon_05.png" alt=""><span>Библиотека Лороведьмы</span></div>
   </div>
   <div class="drawer-backdrop" id="drawer-backdrop"></div>
 
   <div class="app">
     <aside class="sidebar" id="sidebar">
       <div class="brand">
-        <div class="brand-mark">📚</div>
+        <div class="brand-mark"><img src="assets/icons/logo_icon_05.png" alt="Логотип Библиотеки Лороведьмы"></div>
         <div>
           <div class="brand-title">Библиотека<br>Лороведьмы</div>
           <div class="brand-subtitle">публичная база игровых текстов</div>
@@ -1185,10 +1200,10 @@ async function getBookById(id) {
 }
 
 const SECTIONS = [
-  { id: "books", icon: "📚", title: "Книги", description: "Игровые книги, записки и многотомные серии." },
-  { id: "artifacts", icon: "🏺", title: "Артефакты", description: "Сеты артефактов и связанные тексты." },
-  { id: "weapons", icon: "⚔️", title: "Оружие", description: "Оружие, истории и описания." },
-  { id: "items", icon: "🎒", title: "Предметы", description: "Материалы, квестовые предметы и прочее." }
+  { id: "books", icon: "assets/icons/03_book_icon.png", title: "Книги", description: "Игровые книги, записки и многотомные серии." },
+  { id: "artifacts", icon: "assets/icons/04_cup_icon.png", title: "Артефакты", description: "Сеты артефактов и связанные тексты." },
+  { id: "weapons", icon: "assets/icons/01_weapon_icon.png", title: "Оружие", description: "Оружие, истории и описания." },
+  { id: "items", icon: "assets/icons/02_inventory_icon.png", title: "Предметы", description: "Материалы, квестовые предметы и прочее." }
 ];
 
 const state = {
@@ -1245,7 +1260,7 @@ function parseHash() {
 function renderNav() {
   nav.innerHTML = SECTIONS.map(section => `
     <button class="nav-item ${state.section === section.id ? "active" : ""}" type="button" data-section="${section.id}">
-      <span class="nav-left"><span class="nav-icon">${section.icon}</span>${section.title}</span>
+      <span class="nav-left"><img class="nav-icon" src="${section.icon}" alt="" loading="lazy">${section.title}</span>
       <span>›</span>
     </button>
   `).join("");
