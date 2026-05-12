@@ -712,6 +712,94 @@
       font-size: 12px;
     }
 
+
+
+    .group-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 14px;
+      margin-top: 18px;
+    }
+
+    .group-card {
+      display: grid;
+      gap: 10px;
+      align-content: start;
+      min-height: 150px;
+      padding: 18px;
+      border: 1px solid rgba(91, 74, 62, .18);
+      border-radius: var(--radius-card);
+      background: rgba(246, 242, 235, .80);
+      cursor: pointer;
+      text-align: left;
+      transition: transform .16s ease, background .16s ease, border-color .16s ease, box-shadow .16s ease;
+    }
+
+    .group-card:hover,
+    .group-card:focus-visible {
+      transform: translateY(-1px);
+      border-color: rgba(91, 74, 62, .32);
+      background: rgba(246, 242, 235, .96);
+      box-shadow: var(--shadow-soft);
+      outline: none;
+    }
+
+    .group-card-title {
+      color: #211B17;
+      font-size: 19px;
+      font-weight: 920;
+      line-height: 1.18;
+      letter-spacing: -.025em;
+    }
+
+    .group-card-meta {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .entry-title-cell {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .entry-icon {
+      display: block;
+      width: 42px;
+      height: 42px;
+      flex: 0 0 42px;
+      object-fit: contain;
+      border-radius: 8px;
+      background: rgba(203, 191, 175, .24);
+    }
+
+    .entry-icon.placeholder {
+      display: grid;
+      place-items: center;
+      color: var(--soft);
+      font-size: 18px;
+      font-weight: 900;
+    }
+
+    .catalog-subhead {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      margin: -6px 0 18px;
+    }
+
+    .catalog-subhead .back-link {
+      margin: 0;
+    }
+
+    .catalog-subtitle {
+      color: var(--muted);
+      font-size: 14px;
+      text-align: right;
+    }
+
     .drawer-backdrop {
       display: none;
     }
@@ -864,6 +952,36 @@
       .catalog-row.item > div:not(:first-child) {
         display: none;
       }
+
+      .group-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+      }
+
+      .group-card {
+        min-height: auto;
+        padding: 15px;
+      }
+
+      .catalog-subhead {
+        display: grid;
+        align-items: start;
+      }
+
+      .catalog-subtitle {
+        text-align: left;
+      }
+
+      .entry-title-cell {
+        gap: 10px;
+      }
+
+      .entry-icon {
+        width: 38px;
+        height: 38px;
+        flex-basis: 38px;
+      }
+
 
       .book-title {
         font-size: clamp(17px, 3.5vw, 20px);
@@ -1269,14 +1387,21 @@ const WEAPON_TYPES = [
   ["polearm", "Древковое"]
 ];
 
-const ITEM_TYPES = [
-  ["weapon_ascension", "Материалы возвышения оружия"],
-  ["talent_material", "Материалы талантов"],
-  ["boss_drop", "Лут с боссов"],
-  ["local_specialty", "Диковины, растения и минералы"],
-  ["world_material", "Предметы открытого мира"],
-  ["quest_item", "Квестовые предметы"],
-  ["other", "Прочее"]
+const BOOK_GROUPS = [
+  ["book_series", "Книжные серии", "Многотомные книги и полноценные книжные циклы."],
+  ["notes", "Записки", "Игровые записки, письма, заметки и короткие тексты."]
+];
+
+const ITEM_GROUPS = [
+  ["weekly_bosses", "Еженедельные боссы", "Материалы и тексты, связанные с еженедельными боссами."],
+  ["world_bosses", "Мировые боссы", "Лут и материалы мировых боссов."],
+  ["common_enemies", "Обычные противники", "Материалы с обычных противников."],
+  ["talent_leveling", "Материалы талантов и уровней", "Книги талантов, материалы развития и повышения уровней."],
+  ["weapon_materials", "Материалы оружия", "Материалы возвышения и прокачки оружия."],
+  ["teyvat_resources", "Ресурсы Тейвата", "Растения, руды, диковины и собираемые ресурсы."],
+  ["food_potions", "Еда и зелья", "Блюда, ингредиенты, зелья и расходники."],
+  ["useful_items", "Полезные предметы", "Инструменты, гаджеты и практичные предметы."],
+  ["misc", "Прочее", "То, что не вошло в остальные категории."]
 ];
 
 const SECTIONS = [
@@ -1284,12 +1409,15 @@ const SECTIONS = [
     id: "books",
     icon: "assets/icons/03_book_icon.png",
     title: "Книги",
-    description: "Полный каталог книжных серий, игровых записок и текстов на разных языках. Выбери книгу из списка — карточка откроется здесь же, в центральной части архива.",
+    description: "Книжные серии, записки и игровые тексты на разных языках.",
     data: () => BOOKS,
+    groups: BOOK_GROUPS,
+    groupField: "subtype",
+    defaultGroup: "book_series",
     filter: "region",
     filterLabel: "Все регионы",
     columns: ["Название", "Регион", "Томов", "Языки"],
-    empty: "Книги пока не добавлены.",
+    empty: "В этом подразделе пока нет текстов.",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
@@ -1306,7 +1434,7 @@ const SECTIONS = [
     filter: "region",
     filterLabel: "Все регионы",
     columns: ["Название", "Регион", "Частей", "Языки"],
-    empty: "Артефакты пока не добавлены. Структура уже готова: поиск, сортировка по названию и фильтр по региону.",
+    empty: "Артефакты пока не добавлены.",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
@@ -1324,7 +1452,7 @@ const SECTIONS = [
     filterLabel: "Все типы",
     fixedOptions: WEAPON_TYPES,
     columns: ["Название", "Тип", "Редкость", "Языки"],
-    empty: "Оружие пока не добавлено. Для этого раздела вместо регионов заложен фильтр по типу оружия.",
+    empty: "Оружие пока не добавлено.",
     row: item => [
       renderTitleCell(item),
       escapeHtml(labelFromOptions(item.weapon_type || item.type, WEAPON_TYPES) || item.weapon_type || item.type || "—"),
@@ -1336,24 +1464,26 @@ const SECTIONS = [
     id: "items",
     icon: "assets/icons/02_inventory_icon.png",
     title: "Предметы",
-    description: "Материалы, лут, диковины, руды, квестовые предметы и прочие игровые тексты.",
+    description: "Большой каталог материалов, ресурсов, лута, еды, зелий и полезных предметов.",
     data: () => ITEMS,
-    filter: "item_type",
-    filterLabel: "Все категории",
-    fixedOptions: ITEM_TYPES,
-    columns: ["Название", "Категория", "Связь / регион"],
-    empty: "Предметы пока не добавлены. Для большого раздела заложена сортировка по категориям: материалы оружия, материалы талантов, лут с боссов, диковины, предметы мира и квестовые предметы.",
-    structureNote: "Для предметов основной фильтр — <strong>категория</strong>, а не регион. Регион лучше хранить как дополнительное поле: он пригодится для поиска, но не должен ломать общую структуру раздела.",
+    groups: ITEM_GROUPS,
+    groupField: "item_group",
+    defaultGroup: "misc",
+    filter: "region",
+    filterLabel: "Все регионы",
+    columns: ["Название", "Регион", "Языки"],
+    empty: "В этой категории пока нет предметов.",
     row: item => [
       renderTitleCell(item),
-      escapeHtml(labelFromOptions(item.item_type || item.category_type || item.type, ITEM_TYPES) || item.item_type || item.type || "—"),
-      escapeHtml(item.region || item.source || item.related || "—")
+      escapeHtml(item.region || "—"),
+      renderLangPills(item.languages)
     ]
   }
 ];
 
 const state = {
   section: "books",
+  subsection: null,
   entryId: null,
   lang: "ru",
   volume: 1,
@@ -1396,14 +1526,25 @@ function labelFromOptions(value, options) {
   return options.find(([key]) => key === value)?.[1] || "";
 }
 
+function iconFor(item) {
+  return item?.icon || item?.image || item?.icon_path || "";
+}
+
 function renderTitleCell(item) {
   const en = titleOf(item, "en");
   const zh = titleOf(item, "zh");
   const subtitles = [en, zh].filter(Boolean).join(" · ");
+  const icon = iconFor(item);
+  const iconMarkup = icon
+    ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy">`
+    : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
   return `
-    <div>
-      <div class="book-title">${escapeHtml(titleOf(item, "ru"))}</div>
-      <div class="book-subtitle">${escapeHtml(subtitles)}</div>
+    <div class="entry-title-cell">
+      ${iconMarkup}
+      <div class="entry-title-text">
+        <div class="book-title">${escapeHtml(titleOf(item, "ru"))}</div>
+        <div class="book-subtitle">${escapeHtml(subtitles)}</div>
+      </div>
     </div>
   `;
 }
@@ -1417,18 +1558,56 @@ function closeMenu() {
   document.body.classList.remove("menu-open");
 }
 
-function setRoute(section, entryId = null) {
+function groupKeys(config) {
+  return (config.groups || []).map(([key]) => key);
+}
+
+function isKnownGroup(config, value) {
+  return Boolean(value && groupKeys(config).includes(value));
+}
+
+function groupValue(item, config) {
+  const value = item?.[config.groupField] || item?.book_type || item?.subtype || item?.item_group || item?.category_type || item?.type || config.defaultGroup;
+  return value || config.defaultGroup;
+}
+
+function groupLabel(config, key) {
+  return (config.groups || []).find(([value]) => value === key)?.[1] || key;
+}
+
+function setRoute(section, entryId = null, subsection = null) {
+  const config = getSectionConfig(section);
   state.section = section;
+  state.subsection = subsection;
   state.entryId = entryId;
   closeMenu();
-  window.location.hash = entryId ? `#/${section}/${entryId}` : `#/${section}`;
+
+  if (entryId && subsection) {
+    window.location.hash = `#/${section}/${subsection}/${entryId}`;
+  } else if (entryId) {
+    window.location.hash = `#/${section}/${entryId}`;
+  } else if (subsection) {
+    window.location.hash = `#/${section}/${subsection}`;
+  } else {
+    window.location.hash = `#/${section}`;
+  }
   render();
 }
 
 function parseHash() {
   const parts = window.location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
-  state.section = parts[0] || "books";
-  state.entryId = parts[1] || null;
+  const section = parts[0] || "books";
+  const config = getSectionConfig(section);
+  state.section = section;
+  state.subsection = null;
+  state.entryId = null;
+
+  if (config.groups && isKnownGroup(config, parts[1])) {
+    state.subsection = parts[1];
+    state.entryId = parts[2] || null;
+  } else {
+    state.entryId = parts[1] || null;
+  }
 }
 
 function renderNav() {
@@ -1444,11 +1623,19 @@ function renderNav() {
   });
 }
 
+function collectionForCatalog(config) {
+  let rows = config.data();
+  if (config.groups && state.subsection) {
+    rows = rows.filter(item => groupValue(item, config) === state.subsection);
+  }
+  return rows;
+}
+
 function optionsFor(config) {
   if (config.fixedOptions) return config.fixedOptions;
   if (config.filter === "region") {
     const values = new Set();
-    config.data().forEach(item => {
+    collectionForCatalog(config).forEach(item => {
       String(item.region || "")
         .split(",")
         .map(region => region.trim())
@@ -1479,6 +1666,9 @@ function searchableText(item) {
     titleOf(item, "zh"),
     item.region,
     item.type,
+    item.subtype,
+    item.book_type,
+    item.item_group,
     item.item_type,
     item.weapon_type,
     item.category_type,
@@ -1493,7 +1683,7 @@ function filteredEntries(config) {
   const filterState = state.filters[config.id];
   const query = filterState.query.trim().toLowerCase();
 
-  const rows = config.data().filter(item => {
+  const rows = collectionForCatalog(config).filter(item => {
     const queryOk = !query || searchableText(item).includes(query);
     const filterOk = itemMatchesFilter(item, config, filterState.filter);
     return queryOk && filterOk;
@@ -1513,6 +1703,34 @@ function catalogRow(item, config) {
       ${config.row(item).map(cell => `<div>${cell}</div>`).join("")}
     </div>
   `;
+}
+
+function renderGroupSelector(config) {
+  const groups = config.groups || [];
+  app.innerHTML = `
+    <section class="page-card catalog-page">
+      <div class="page-head">
+        <h1>${escapeHtml(config.title)}</h1>
+        <p class="lead">${escapeHtml(config.description)}</p>
+      </div>
+      <div class="group-grid">
+        ${groups.map(([key, label, description]) => {
+          const count = config.data().filter(item => groupValue(item, config) === key).length;
+          return `
+            <button class="group-card" type="button" data-group="${escapeHtml(key)}">
+              <span class="group-card-title">${escapeHtml(label)}</span>
+              <span class="group-card-meta">${escapeHtml(description || "")}</span>
+              <span class="tiny-pill">${count} записей</span>
+            </button>
+          `;
+        }).join("")}
+      </div>
+    </section>
+  `;
+
+  document.querySelectorAll("[data-group]").forEach(button => {
+    button.addEventListener("click", () => setRoute(config.id, null, button.dataset.group));
+  });
 }
 
 function renderCatalogTable(config) {
@@ -1541,15 +1759,21 @@ function renderCatalogTable(config) {
 function renderCatalog(config) {
   const filterState = state.filters[config.id];
   const options = optionsFor(config);
+  const subsectionTitle = state.subsection ? groupLabel(config, state.subsection) : "";
 
   app.innerHTML = `
     <section class="page-card catalog-page">
       <div class="page-head">
-        <h1>${escapeHtml(config.title)}</h1>
-        <p class="lead">${escapeHtml(config.description)}</p>
+        <h1>${escapeHtml(subsectionTitle || config.title)}</h1>
+        <p class="lead">${escapeHtml(subsectionTitle ? config.description : config.description)}</p>
       </div>
 
-      ${config.structureNote ? `<div class="section-structure">${config.structureNote}</div>` : ""}
+      ${config.groups && state.subsection ? `
+        <div class="catalog-subhead">
+          <button class="back-link" id="back-groups" type="button">← Назад к разделам</button>
+          <div class="catalog-subtitle">${escapeHtml(config.title)} / ${escapeHtml(subsectionTitle)}</div>
+        </div>
+      ` : ""}
 
       <div class="toolbar">
         <label class="search" aria-label="Поиск">
@@ -1568,6 +1792,7 @@ function renderCatalog(config) {
     </section>
   `;
 
+  document.getElementById("back-groups")?.addEventListener("click", () => setRoute(config.id));
   bindCatalog(config);
 }
 
@@ -1585,11 +1810,11 @@ function toggleSort(config) {
 
 function bindCatalogRows(config) {
   document.querySelectorAll("[data-entry-id]").forEach(row => {
-    row.addEventListener("click", () => setRoute(config.id, row.dataset.entryId));
+    row.addEventListener("click", () => setRoute(config.id, row.dataset.entryId, state.subsection));
     row.addEventListener("keydown", event => {
       if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
-        setRoute(config.id, row.dataset.entryId);
+        setRoute(config.id, row.dataset.entryId, state.subsection);
       }
     });
   });
@@ -1629,7 +1854,7 @@ function bindCatalog(config) {
 function renderBookDetail(book) {
   app.innerHTML = `
     <section class="page-card book-page">
-      <button class="back-link" id="back-books" type="button">← Назад к каталогу книг</button>
+      <button class="back-link" id="back-books" type="button">← Назад к списку</button>
 
       <div class="page-head">
         <h1>${escapeHtml(titleOf(book, "ru"))}</h1>
@@ -1717,7 +1942,7 @@ function renderGenericDetail(item, config) {
     </section>
   `;
 
-  document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id));
+  document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id, null, state.subsection));
 }
 
 function preserveScrollRender(renderFn) {
@@ -1728,7 +1953,7 @@ function preserveScrollRender(renderFn) {
 }
 
 function bindBookDetail(book) {
-  document.getElementById("back-books")?.addEventListener("click", () => setRoute("books"));
+  document.getElementById("back-books")?.addEventListener("click", () => setRoute("books", null, state.subsection));
 
   document.getElementById("toggle-read-all")?.addEventListener("click", () => {
     state.readAll = !state.readAll;
@@ -1773,10 +1998,16 @@ async function render() {
   renderNav();
   const config = getSectionConfig();
 
+  if (!state.entryId && config.groups && !state.subsection) {
+    renderGroupSelector(config);
+    return;
+  }
+
   if (state.section === "books" && state.entryId) {
     renderLoading("Открываю книгу…");
     try {
       const book = await getBookById(state.entryId);
+      if (!state.subsection) state.subsection = groupValue(book, config);
       renderBookDetail(book);
     } catch (error) {
       renderError(error.message || "Не удалось открыть книгу.");
