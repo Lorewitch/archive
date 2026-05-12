@@ -20,7 +20,6 @@ catalyst    — катализатор
 
 ## RU
 
-### Описание
 Длинный лук, изготовленный из древнего белого дерева. В далёком прошлом он принадлежал правителю ледовиков севера.
 
 ### История
@@ -71,7 +70,6 @@ catalyst    — катализатор
 
 ## EN
 
-### Description
 A longbow carved from ancient whitewood, once, in ages past, wielded by the Jack Frost King of the northern lands.
 
 ### Story
@@ -116,7 +114,6 @@ And held to the hope that the one who had set the Jack Frost here might also, on
 
 ## ZH
 
-### 描述
 由古老的白木打造而成的长弓，在遥远的过去曾属于北境的霜精之王。
 
 ### 故事
