@@ -153,8 +153,6 @@
     .nav {
       display: grid;
       gap: 8px;
-      padding-bottom: 18px;
-      border-bottom: 1px solid rgba(91, 74, 62, .18);
     }
 
     .nav-item {
@@ -200,10 +198,12 @@
     }
 
     .sidebar-legal {
-      margin-top: 16px;
-      padding-top: 14px;
-      border-top: 1px solid rgba(91, 74, 62, .18);
-      color: var(--muted);
+      margin-top: 18px;
+      padding: 13px 14px;
+      border: 1px solid rgba(91, 74, 62, .18);
+      border-radius: var(--radius-control);
+      background: rgba(203, 191, 175, .42);
+      color: var(--accent);
       font-size: 11.5px;
       line-height: 1.48;
     }
@@ -214,6 +214,11 @@
 
     .sidebar-legal p:last-child {
       margin-bottom: 0;
+    }
+
+    .sidebar-legal strong {
+      color: #211B17;
+      font-weight: 900;
     }
 
     .content {
@@ -662,8 +667,7 @@
     }
 
     .notes,
-    .catalog-meta,
-    .footer-note {
+    .catalog-meta {
       border-radius: 10px;
     }
 
@@ -707,16 +711,6 @@
       flex-wrap: wrap;
       gap: 7px;
     }
-
-    .footer-note {
-      margin-top: 20px;
-      padding: 16px 18px;
-      background: var(--accent);
-      color: var(--surface);
-      font-size: 12px;
-    }
-
-
 
     .group-grid {
       display: grid;
@@ -1317,10 +1311,13 @@
         top: 8px;
         bottom: 8px;
         left: 8px;
-        width: min(430px, calc(100vw - 16px));
+        width: min(500px, calc(100vw - 16px));
         max-width: calc(100vw - 16px);
-        padding: 16px;
+        height: calc(100dvh - 16px);
+        max-height: calc(100dvh - 16px);
+        padding: 12px;
         border-radius: 16px;
+        overflow-y: auto;
       }
 
       .brand {
@@ -1341,12 +1338,11 @@
       }
 
       .nav {
-        gap: 6px;
-        padding-bottom: 12px;
+        gap: 5px;
       }
 
       .nav-item {
-        padding: 10px 12px;
+        padding: 8px 11px;
       }
 
       .nav-left {
@@ -1360,10 +1356,10 @@
       }
 
       .sidebar-legal {
-        margin-top: 12px;
-        padding-top: 12px;
-        font-size: 10.8px;
-        line-height: 1.42;
+        margin-top: 10px;
+        padding: 10px 11px;
+        font-size: 10px;
+        line-height: 1.34;
       }
     }
 
@@ -1372,7 +1368,7 @@
 <body>
   <div class="mobile-top">
     <button class="menu-button" id="open-menu" type="button">☰ Разделы</button>
-    <div class="mobile-brand"><img src="assets/icons/logo_icon_05.png" alt=""><span>Библиотека Лороведьмы</span></div>
+    <div class="mobile-brand"><img src="assets/icons/logo_icon_05.webp" alt=""><span>Библиотека Лороведьмы</span></div>
   </div>
   <div class="drawer-backdrop" id="drawer-backdrop"></div>
 
@@ -1380,7 +1376,7 @@
     <aside class="sidebar" id="sidebar">
       <div class="brand">
         <div class="brand-head">
-          <div class="brand-mark"><img src="assets/icons/logo_icon_05.png" alt="Логотип Библиотеки Лороведьмы"></div>
+          <div class="brand-mark"><img src="assets/icons/logo_icon_05.webp" alt="Логотип Библиотеки Лороведьмы"></div>
           <div class="brand-title">Библиотека<br>Лороведьмы</div>
         </div>
         <div class="brand-subtitle">публичная база игровых текстов</div>
@@ -1476,7 +1472,7 @@ const ITEM_GROUPS = [
 const SECTIONS = [
   {
     id: "books",
-    icon: "assets/icons/03_book_icon.png",
+    icon: "assets/icons/03_book_icon.webp",
     title: "Книги",
     description: "Книжные серии, записки и игровые тексты на разных языках.",
     data: () => BOOKS,
@@ -1496,7 +1492,7 @@ const SECTIONS = [
   },
   {
     id: "artifacts",
-    icon: "assets/icons/04_cup_icon.png",
+    icon: "assets/icons/04_cup_icon.webp",
     title: "Артефакты",
     description: "Каталог сетов артефактов: названия, регионы, игровые описания и тексты на разных языках.",
     data: () => ARTIFACTS,
@@ -1513,7 +1509,7 @@ const SECTIONS = [
   },
   {
     id: "weapons",
-    icon: "assets/icons/01_weapon_icon.png",
+    icon: "assets/icons/01_weapon_icon.webp",
     title: "Оружие",
     description: "Каталог оружия с делением по типу: одноручное, двуручное, луки, катализаторы и древковое.",
     data: () => WEAPONS,
@@ -1531,7 +1527,7 @@ const SECTIONS = [
   },
   {
     id: "items",
-    icon: "assets/icons/02_inventory_icon.png",
+    icon: "assets/icons/02_inventory_icon.webp",
     title: "Предметы",
     description: "Большой каталог материалов, ресурсов, лута, еды, зелий и полезных предметов.",
     data: () => ITEMS,
