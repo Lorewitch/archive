@@ -1,5 +1,7 @@
 # id: 01_teyvat_travel_guide
 # category: books
+# subtype: book_series
+# icon: assets/icons/books/01_teyvat_travel_guide.webp
 # title_ru: Путеводитель по Тейвату
 # title_en: Teyvat Travel Guide
 # title_zh: 提瓦特游览指南
@@ -8,24 +10,6 @@
 # tags: книги, Мондштадт, Ли Юэ, Инадзума, путеводитель
 # status: draft
 
-<!--
-КАК ЗАПОЛНЯТЬ:
-1. Один такой файл = одна книжная серия.
-   Например: «Принцесса-кабанчик» целиком, даже если у неё 7 томов.
-
-2. Если книга однотомная, оставь только «Том 1 / Vol. 1 / 卷一».
-
-3. Если томов больше, копируй блоки:
-   ### Том 2
-   ### Vol. 2
-   ### 卷二
-
-4. Не меняй заголовки ## RU, ## EN, ## ZH, ## NOTES.
-   По ним потом можно автоматически собрать базу.
-
-5. Если языка пока нет, оставь раздел пустым и напиши:
-   [нет текста]
--->
 
 ## RU
 
@@ -35,39 +19,32 @@
 Специальный выпуск географического журнала Тейвата - путешествие Алисы в Мондштадт
 
 Ущелье Дадаупа
-
 Расположенные в этой долине три лагеря хиличурлов весьма многочисленны. Если в центре долины построить огромную вращающуюся шарообразную тюрьму и заключить в ней всех окрестных хиличурлов, то производимой этой конструкцией энергии, вероятно, хватило бы на то, чтобы все мельницы Мондштадта работали от неё пять лет! А если самых старых и самых слабых хиличурлов смалывать на мельнице и скармливать сильным, вероятно, можно получить ещё больше энергии, и, кто знает, может быть, мощности хватит и для того, чтобы легко запитать завод, подобный тем, что работают в Снежной!
 Мне кажется, это полностью осуществимо.
 Но, когда я поделилась своими мыслями с госпожой Лизой, она долго и задумчиво смотрела на меня, а потом элегантно сменила тему разговора.
 
 Утёс Звездолова
-
 Надо сказать, Анемо Архонт - довольно неорганизованное божество. Если бы я была Архонтом, я бы не потерпела, чтобы мои земли так небрежно выглядели! Если в подходящем месте разместить довольно много бомб, даже такая громада, как утёс Звездолова, может обрушиться, и тогда пейзажи Мондштадта тоже будут гораздо аккуратнее выглядеть.
 Жаль, что тот хитрый капитан прямо отверг моё предложение, да ещё и посоветовал держаться подальше от утёса Звездолова.
 
 Долина Ветров
-
 Это единственная равнина в окрестностях Мондштадта, и в центре её растёт исключительно огромный дуб. Говорят, отсюда Венесса [sic] вознеслась на небеса. Я долго искала повсюду вокруг дерева, но так и не нашла ничего похожего на пусковое устройство.
 Я использовала несколько местных хиличурлов для проверки своих гипотез, но они в лучшем случае долетали до охотничьих домиков в Спрингвейле. Сплошное разочарование.
 
 Побережье Сокола
-
 Из-за неудачных экспериментов в Спрингвейле случилась паника, и госпожа Джинн из Ордо Фавониус распорядилась присматривать за мной. Я только и могу теперь, что слоняться по побережью Сокола, но здесь тоска смертная, и кроме кружащих в небе орлов да надутых Анемо слаймов нет ничего интересного... А самое невыносимое то, что мне ничего нельзя делать!
 С другой стороны, скаут, которой поручили следить за мной, хорошо поиграла с детьми.
 
 Шепчущий лес
-
 Ещё один лес в окрестностях Мондштадта. Эта скаут Эмбер очень хорошо его знает. Эмбер носит с собой очень интересную взрывающуюся игрушку, и, если бы я её усовершенствовала, она могла бы разнести в пыль весь этот лес и даже пошатнуть окрестные скалы.
 Кажется, моё предложение её напугало, но взрывающаяся мягкая игрушка - это действительно прекрасная идея, которая раньше не приходила мне в голову.
 В следующий раз надо обязательно попробовать.
 
 Каньон светлой короны [sic]
-
 Наконец-то избавилась от соглядатая из Ордо Фавониус и на северо-западном берегу Сидрового озера нашла этот каньон. Древние охранные заграждения всё ещё стоят тут, но солдаты Короля Штормов, охранявшие этот переход, давно исчезли. Ветра времени оставили здесь лишь абсолютно безмозглых хиличурлов и охранные механизмы.
 Эксперимент с хиличурлами, управляющими охранными механизмами, тоже потерпел крах. Древние механизмы рассыпались, привязанные же сверху хиличурлы... Зрелище не для слабонервных. Половина местных руин тоже была уничтожена.
 
 Логово Ужаса Бури
-
 Каньон Светлой короны [sic] выходит на эти руины старинного города, построенного своенравным Королём Штормов Декарабианом. Город построен в форме кольца. Кажется, у каждого местного жителя было своё место между внутренним и внешним кольцами. В центре располагалась очень высокая башня, служившая резиденцией Королю Штормов.
 Величественные руины бессердечного короля, пытавшегося управлять жизнями своих подданных, теперь никого не интересуют.
 Чтобы люди могли удобно подниматься в башню, я взорвала несколько галерей. Получилось неплохо, руины теперь выглядят ещё более древними.
@@ -78,27 +55,23 @@
 Специальный выпуск географического журнала Тейвата - путешествие Алисы в Ли Юэ
 
 Тростниковые острова
-
 Северный приток реки Бишуй превратил это место в болото. Если взглянуть от Каменных врат на юг, то можно увидеть, что всё пространство, насколько хватает глаз, укрыто тростником. И далеко на юге можно разглядеть постоялый двор прямо на горе. Постоялый двор «Ваншу» - самая высокая точка на Тростниковых островах. Ещё южнее можно увидеть долину Гуйли и каменный лес Гуюнь далеко над морем. На крыше постоялого двора обычно сидит странный паренёк - я никогда не слышала, чтобы он говорил.
 Обеды на постоялом дворе «Ваншу» всегда щедрые, а кухня прекрасно оборудована - просто мечта алхимика.
 Кстати, об алхимии. У меня появилось несколько новых идей по поводу катализатора для взрывчатки. Если всё пройдет гладко, я задержусь здесь на несколько дней, а потом отправлюсь в долину Гуйли.
 
 Долина Гуйли
-
 Я добралась до долины Гуйли на несколько дней раньше, чем планировала.
 В древних книгах сказано, что до Войны Архонтов в долине Гуйли процветала торговля.
 Местные лисы и дикие зяблики очень красивы, шерсть и перья у них блестящие. Говорят, эти хулиганы поедают подношения, которые местные из Ли Юэ приносят в жертву Гео Архонту. Любопытно, пахнет ли их мясо фруктами при готовке? Может, мне стоит здесь поохотиться.
 Хотя на дороге строго с контрольно-пропускными пунктами, стража на них приветлива. Я сделала несколько лекарственных средств из местных трав и вылечила заикание одного из стражников. Правда, у снадобья оказался маленький побочный эффект - он стал неконтролируемо подражать речи всех, кого встречал, вплоть до интонаций.
 
 Заоблачный предел
-
 Говорят, где-то на вершинах Заоблачного предела, среди облачных морей скрыта обитель Адептов. Многие собиратели трав из Ли Юэ некогда видели призрачные очертания этой обители. По моему опыту, если наесться определённых грибов, то тоже можно увидеть такие видения.
 Местный рельеф очень необычен: множество огромных каменных столбов выглядят так, будто место им под землёй, а не здесь. Под землёй же здесь располагается огромный резервуар с водой. Интересно, если всю воду оттуда перекачать в море, погрузится ли Заоблачный предел под воду, как однажды в прошлом?
 Мой спутник, господин Чжун Ли, обычно предельно серьёзен, но после того как я высказала ему свои мысли, он почему-то не может перестать смеяться.
 Исключительно странный человек.
 
 Отмель Яогуан
-
 Говорят, отмель Яогуан часто укрыта туманами и порой они настолько густы, что ничего и на расстоянии вытянутой руки не видно. Но я, к сожалению, не успела до того, как туман рассеялся. Что ж, очень жаль.
 На берегу было так много красивых ракушек. Интересно, многие ли из них застали Войну Архонтов? Я сделала из этих ракушек ожерелье, но потом тот глупый рыбак на постоялом дворе просто сел на него и раздавил, раскрошил своим задом все ракушки, ни одной не осталось...
 И мне же потом пришлось возместить ему расходы на лечение, потому что он порезался обломками тех ракушек.
@@ -106,7 +79,6 @@
 Но когда третий прототип моей самоходной раковины вышел из-под контроля и взорвался, старушка решила, что больше не хочет спасать меня из воды.
 
 Каменный лес Гуюнь
-
 Это место, где Гео Архонт некогда победил морского монстра. Вогнанные в морское дно, сломанные в нескольких местах, огромные каменные копья тем не менее до сих пор возвышаются над водной гладью. Их формы шестигранной призмы, созданные под влиянием Гео энергии, очень занимательны. Если смотреть сверху, то кажется, будто эти призмы тщательно расставлены кем-то, чтобы в море сложился особый узор. Может быть, все эти сброшенные в море копья на самом деле были дурной шуткой Гео Архонта?
 Господин Чжун Ли из гавани Ли Юэ, кажется, хорошо знаком с местными легендами, но я никогда не видела, чтобы он приходил сюда. Отсюда можно увидеть постоялый двор «Ваншу» вдалеке. Думаю, тот странный юноша, которого я встретила в прошлый раз, до сих пор смотрит в эту сторону.
 Местные артерии земли очень занимательны, здесь они ещё более активны и хаотичны, чем в других частях Ли Юэ... Возможно, некая непоколебимая сила до сих пор пульсирует на дне океана, скрытая толщами воды. Вероятно, тот побеждённый морской монстр до сих пор ползает в морских глубинах.
@@ -182,39 +154,32 @@ A magazine by the Adventurers' Guild. Each issue introduces great sceneries acro
 Teyvat Geographic Special Edition – Alice's Mondstadt Diaries
 
 Dadaupa Gorge
-
 The three hilichurl tribes Meaty tribe, the Sleeper tribe, and the Eclipse tribe located in this valley are all densely populated. What if we built a huge spinning ball-shaped cell in the center of the valley and threw all of the hilichurls into it? That way we might be able to generate enough energy to power all the mills in Mondstadt for at least five years. If we took it one step further by grinding the hilichurls that are too old or too weak into food and feeding them to the strong ones, we might just build ourselves a perpetual motion machine that can support a huge factory like in Snezhnaya!
 It seems totally feasible to me.
 But when I told Miss Lisa about this idea, she just looked at me and pondered in silence for a long time, then changed the subject gracefully.
 
 Starsnatch Cliff
-
 The Anemo Archon is a bit too undisciplined for me. If I were a god, I would not have allowed my realm to look so unorganized and ragged. With enough bombs placed in proper positions, even huge cliffs like Starsnatch would crumble into dust in a second. With flatter terrain, Mondstadt would surely look much nicer.
 But that unctuous Cavalry Captain rejected my proposal instantly. He even asked me to stay away from Starsnatch Cliff.
 
 Windrise
-
 At the center there is a huge oak tree. It is said that Vennessa ascended there. I searched around the tree for a long time but did not find any launching device.
 I grabbed some hilichurls nearby to put my theory to the test. Sadly, the longest flying distance was from here to the hunters' huts around Springvale. How disappointing.
 
 Falcon Coast
-
 My unsuccessful experiment caused quite a stir in Springvale, so Miss Jean from the Knights of Favonius arranged someone to keep tabs on me. All I could do all day was to wander around at Falcon Coast. This is such a boring place. Those stupid eagles hovering in the sky and puffed-up Anemo Slimes all bored me to death! The worst of all was that I had nothing to do!
 On the other hand, the Outrider girl who was sent to monitor me had quite a lot of fun with the kids.
 
 Whispering Woods
-
 Yet another forest in Mondstadt. This Outrider named Amber seemed to know her way around this place. The explosive toy she carried around caught my attention. With some tweaks, I could turn it into something that could blow this forest and even the nearby mountains into smithereens easily.
 My proposal seemed to scare her. But an explosive stuffed toy is indeed a brilliant idea.
 I must try it out next time.
 
 Brightcrown Canyon
-
 I finally got rid of that stalker from the Knights of Favonius. This valley I found at the northwest coast of Cider Lake is still guarded by ancient mechanisms, but the soldiers responsible for holding the pass for the King of Gales were nowhere to be found now. All the winds of time had left behind were the unintelligent hilichurls and silent mechanical guards.[Note 1]
 My attempt to control Ruin Guards with hilichurls failed as well. The guard split into pieces, and as for the fate of the hilichurl strapped onto it... I will spare you the gory details. Half of the ruins were also destroyed in the process.
 
 Stormterror's Lair
-
 Brightcrown Canyon leads to this huge ruin of an ancient city which was built by the cruel King of Gales, Decarabian. The city was built in a ring-shape. It seems that every resident of the city had been arranged their own spot between the inner and outer rings. Right in the center of the city was the tall tower where the King of Gales resided.
 The ruins of the domain of this cruel king, who once tried to control his people's lives, are now utterly deserted.
 I blew up a few arcades so people can climb up the tower more easily. Looks quite good to me. The ruin feels more ancient now.
@@ -225,27 +190,23 @@ A magazine by the Adventurers' Guild. Each issue introduces great sceneries acro
 Teyvat Geographic Special Edition – Alice's Travels in Liyue
 
 Dihua Marsh
-
 The northern stretch of the Bishui River turns into a wetland. If you look south beyond the Stone Gate you will see a Silvergrass marsh as far as the eye can see. At the southernmost point of the marsh is an inn sat atop a giant rock. That is the Wangshu Inn, the highest point on the entire marsh. Look south from there and you will see the Guili Plains. You can also make out the Guyun Stone Forest across the sea. Also – there's a weirdo staying at the inn on the top floor. I don't think I've ever heard him say a single word.
 Lunch is a true feast at the Wangshu Inn. The kitchen is equipped with every utensil you could imagine – perfect for getting some practical alchemy experience.
 On the topic of alchemy practice, I've got a few new things to test out in my search for an explosion catalyst. If everything goes smoothly, I'll spend a few more days here then head to the Guili Plains.
 
 Guili Plains
-
 In the end, I came to the Guili Plains a few days earlier than I'd originally planned.
 Records suggest that prior to the Archon War, this area was a thriving marketplace.
 The foxes and wild finches are stunning here, their fur and feathers have a certain glow about them. But I hear that they can be pests, too. Liyue locals complain that they keep eating their fruit offerings to the Geo Archon. I wonder if that gives them a fruity aroma when roasted? Maybe I should go hunting.
 They run a strict operation at the checkpoint on the main road, but the guards who work there are friendly people. I made a potion from some local herbs and gave it to one of them for his stutter – it cured him, but it did have some minor side effects. He now can't help but constantly imitate everyone he comes across. Not just what they say, but the way they say it. It's uncanny how spot-on his impressions are.
 
 Jueyun Karst
-
 I'm told that somewhere amidst the misty peaks of Jueyun Karst lives an adeptus, the exact location hidden somewhere in the ocean of cloud. All the Liyue herb gatherers claim to have seen the realm of the adepti in all its glory revealed before their very eyes in the clouds. Based on personal experience, I can say that over-indulging on certain types of mushrooms can induce visions of a similar nature.
 The terrain here fascinates me. So many of these Stone Pillars look like they belong deep underground, not here on top of a mountain. There is supposed to be an underground reservoir here. Part of me wonders if all the water was drawn out, perhaps Jueyun Karst would find itself back on the ocean floor where it belongs.
 My travel companion Zhongli is the sternest person I know, but he seems most entertained by this theory. He won't stop laughing.
 What an odd fellow.
 
 Yaoguang Shoal
-
 I've heard that the fog often rolls in off the sea onto Yaoguang Shoal, and when it's at its thickest you can barely see your hand at the end of your outstretched arm.
 Unfortunately, I didn't make it here in time to see a foggy episode. It's a bit of a shame.
 There are so many lovely shells on the beach. I wonder how many of them have been there since the Archon War? I strung some of them together to make a necklace, but unfortunately that fisherman from the inn sat on it and broke it... Every last shell, brutally crushed beneath his merciless buttocks. None were spared.
@@ -254,7 +215,6 @@ A giant sea-snail shell stands on the beach where the Bishui River enters the se
 But after I lost control of my third prototype seashell-boat and it blew up, the kind old lady decided she was not going to rescue me from the sea anymore.
 
 Guyun Stone Forest
-
 This is the site where the Geo Archon defeated the sea monster. Some of the great stone Poles that pierce the ocean floor still tower above the surface of the sea, though many snapped long ago. The hexagonal Stone Pillars, formed from a conglomeration of Geo energy, are quite intriguing to look at. Viewed from above, one gets the impression that they were deliberately arranged in their current form to make a specific shape on the ocean surface. Maybe that was the real reason the Geo Archon rained down destruction on the ocean floor with his stone Poles? Maybe it was all just a big joke, albeit in extremely poor taste?
 Zhongli from Liyue Harbor seems extremely knowledgeable on Liyue folklore, but I've never actually seen him come here. I can see the Wangshu Inn in the distance. I'll bet that weirdo I met there last time is still staring this way now.
 The flow of the ley lines around here are unique in all of Liyue. Much more dynamic, somewhat unstable... It's as if a great, relentless power stirs somewhere in the depths of the ocean. Perhaps it is the defeated sea monster, still writhing on the ocean floor.
@@ -330,37 +290,30 @@ I should probably pay a visit to Asase Shrine later. I wonder how that fat cat's
 提瓦特地理杂志特刊一艾莉丝的蒙德行记
 
 达达乌帕谷
-
 这座谷地中三个丘丘人部落人丁兴旺，假如在山谷中心的洼地建立起一座巨大的球形旋转牢笼，把周边所有丘丘人抓来关进去的话，产生的动量或许能驱动蒙德城所有磨坊运转至少五年。而假如把太老和体力耗尽的丘丘人送入磨坊加工成饲料，喂给那些强壮的丘丘人的话，或许还能够更持久地产生动能，说不定能够轻易驱动像至冬国那样的庞大工厂！
 这在我看来完全可行。
 但当我向图书馆的丽莎小姐提起这个想法时，她看着我沉思良久，然后优雅地岔开了话题。
 
 摘星崖
-
 要说起来，风神可真是一个不拘小节的神呐。假如我是神的话，怎么能受得了大地上遍布着这样粗心随意的地形！如果在合适的位置安放足够多且强力的炸弹，即使摘星崖这样的庞然大物也会轰然倒塌，蒙德的地形也会比现在要规整很多。
 可惜那位看起来很油滑的骑兵队长直接否决了我的提议，还建议我不要在摘星崖闲逛了。
 
 风起地
-
 这里是全蒙德唯一一处地势稍微平坦的原野，靠近中央的地带生长着一棵格外庞大的橡树。据说这里是温妮莎登天的地方，我围绕大树寻找了很久，并没有发现任何发射设施遗迹。我从周围抓来了几个丘丘人试验猜想，但最远也只是飞到清泉镇那边的猎人小屋，失望。
 
 鹰翔海滩
-
 由于不成功的实验在清泉镇引起了大恐慌，我被骑士团的琴小姐安排专人监护，只能在鹰翔海滩闲逛，这片地方无聊死了，无论天上傻傻转圈的鹰，还是鼓鼓胀胀的风史莱姆都平淡无奇…最无法忍受的是我什么都不能做！
 监视我的侦察骑士小妹倒是和小孩子玩得挺开心。
 
 低语森林
-
 蒙德的又一座森林，那位名叫安柏的侦察骑士似乎对这里非常熟悉。安柏随身携带的爆炸玩具非常有趣，经我改进的话不仅可以一击将这座森林化为灰烬，甚至能动摇周遭的山石。
 我的提议好像把她吓坏了，但爆炸毛绒玩具的确是一个我此前没有想到的好点子。
 下次一定要试试。
 
 明冠峡
-
 终于甩掉了骑士团的跟踪狂，我在果酒湖的西北岸找到了这处峡谷。古老的关卡依旧把守着这里，但为烈风之王镇守关隘的士兵早已不知所踪。时间之风无心地刮过，只把毫无智能的丘丘人和沉默的机械守卫留在这里。使用丘丘人操控遗迹守卫的实验也失败了，遗迹守卫四分五裂，绑在上面的丘丘人更是惨不忍睹…原本完好的遗迹也损坏了大半。
 
 风龙废墟
-
 明冠峡通向这座庞大的古城遗迹，乖僻的烈风之王迭卡拉庇安建造的都城。古城整体呈环形。在内环与外环之间，似乎所有人民都被事先安排好了各自的位置。正中央坐落着过于高大的塔楼，那里是烈风之王的宫城。企图为人民设计生活的冷酷君王，其盛大的遗迹却无人问津。
 为了方便后来人登上高塔，我炸掉了几座长廊。看起来效果还不错，更有古迹的味道了。
 
@@ -370,28 +323,24 @@ I should probably pay a visit to Asase Shrine later. I wonder how that fat cat's
 
 ——璃月篇——
 荻花洲
-
 北流的碧水河在这里形成了一片湿地，通过高大的石门继续向南，目力所及遍布荻草。最南端是一座建立在巨石上的客栈。「望舒客栈」是荻花洲的最高点，从这里再往南能够眺望到归离原与遥远海面上的孤云阁。
 客栈顶层有一个奇怪的年轻人，我几乎从没见过他说话。
 客栈的午餐非常丰盛，厨房设备齐全，正好适合炼金实验。
 说到炼金实验。关于爆破催化物我有几个新点子，假如不出意外的话，我会在这多待几天再去归离原。
 
 归离原
-
 我提前来到了归离原，比预计的早了几天。
 古籍上曾说，归离原在魔神战争前是一座繁荣的集市。
 这里的小狐狸和野团雀很好看，毛色油亮。听说璃月人供奉岩神的供品被这些坏家伙偷吃了不少，猎来烤着吃的话也会有果香昧吧？
 大道上的检查站虽然很严格，但卫兵非常友好。我用本地的药材配了些药剂，治好了一位卫兵的囗吃，只是留下了一点小小的副作用——他开始不受控制地重复别人说话了，甚至连语调也学得惟妙惟肖。
 
 绝云间
-
 听说在绝云间某处山顶，云山雾海之间隐藏着仙人的居所。璃月的许多采药人都曾见识过仙家府台的景象。就我的经验来说，吃多了奇怪的蘑菇大概也会看到类似的景象。
 这里地形非常有趣，很多巨大的石柱看起来更像是地底深处才会出现的地貌，此处地下有大量水源蓄积，或许将地下水全部排入大海，绝云间就会重新沉入地底了吧？
 与我同行的钟离先生一向很严肃，却被我的想法逗得哈哈大笑。
 真是个奇怪的人。
 
 瑶光滩
-
 听说瑶光滩时常会起海雾，雾最浓时伸手难见五指。但我并没有赶上海雾弥漫的时刻，有点遗憾。
 沙滩上散落着许多漂亮的贝壳，其中有多少是魔神战争时代的遗产呢？我用这些贝壳穿了一串项链，但后来全都被客栈那边那个钓鱼的家伙一屁股坐碎了，连一个都没剩下…
 结果还要因为贝壳的碎片刺伤了他，赔偿他医药费。
@@ -399,7 +348,6 @@ I should probably pay a visit to Asase Shrine later. I wonder how that fat cat's
 但在第三艘原型海螺船失控爆炸后，老婆婆还是决定不要再捞我一次了。
 
 孤云阁
-
 这里是岩神曾经镇压海中魔神的地方。深插海底、早已折断的巨岩长枪高高矗立在海面上。岩元素聚合而形成的六棱柱状结构十分有趣，从空中俯视的话会给人一种幻觉，仿佛这些岩柱是事先精心排列而成的，在海上组成了特异的图案。不过说不定当年的岩神正是怀着这种恶趣昧投下的长枪呢？
 璃月港的钟离先生似乎很熟悉这里的传说，但我从未见他来到过这里。从这里能远远望见望舒客栈，之前遇到的那位奇怪的年轻人应该一直在遥望这边。
 这里的地脉流动非常有趣，比璃月的其他地方都要更加活跃，节律更乱…似乎海底隐藏着什么不屈的力量正在虚弱地搏动。或许是那被镇压的魔神依旧在深海中蠕动吧。
