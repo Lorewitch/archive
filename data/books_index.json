@@ -1,0 +1,25 @@
+[
+  {
+    "id": "01_teyvat_travel_guide",
+    "category": "books",
+    "title": {
+      "ru": "Путеводитель по Тейвату",
+      "en": "Teyvat Travel Guide",
+      "zh": "提瓦特游览指南"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "путеводитель"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  }
+]
