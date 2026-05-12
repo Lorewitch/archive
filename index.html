@@ -684,6 +684,10 @@
       font-weight: 900;
     }
 
+    .notes-body {
+      white-space: pre-wrap;
+    }
+
     .catalog-meta {
       margin-top: 18px;
       overflow: hidden;
@@ -1956,6 +1960,8 @@ function renderBookDetail(book) {
 
 function renderTextArea(book) {
   const volumes = state.readAll ? book.volumes : book.volumes.filter(volume => volume.number === state.volume);
+  const generalNote = String(book.notes?.general || "").trim();
+  const volumeNotes = book.notes?.byVolume || {};
 
   return volumes.map((volume, index) => {
     const volumeTitle = escapeHtml(volume.title?.[state.lang] || "Том " + volume.number);
@@ -1968,6 +1974,15 @@ function renderTextArea(book) {
       </div>
     ` : "";
 
+    const volumeNote = String(volumeNotes[volume.number] || "").trim();
+    const noteText = volumeNote || (index === 0 ? generalNote : "");
+    const notesBlock = noteText ? `
+        <div class="notes">
+          <div class="notes-title">Заметки Лороведьмы</div>
+          <div class="notes-body">${escapeHtml(noteText)}</div>
+        </div>
+    ` : "";
+
     return `
       <article class="text-card" id="volume-${volume.number}">
         <div class="volume-title">
@@ -1975,10 +1990,7 @@ function renderTextArea(book) {
           ${languageControl}
         </div>
         <div class="prose">${escapeHtml(volume.text?.[state.lang] || "[нет текста]")}</div>
-        <div class="notes">
-          <div class="notes-title">Заметки Лороведьмы</div>
-          <div>${escapeHtml(book.notes?.byVolume?.[volume.number] || book.notes?.general || "Заметки пока не заполнены.")}</div>
-        </div>
+        ${notesBlock}
       </article>
     `;
   }).join("");
