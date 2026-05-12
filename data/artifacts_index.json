@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "01_aubade_of_morningstar_and_moon",
+    "category": "artifacts",
+    "icon": "assets/icons/artifacts/01_aubade_of_morningstar_and_moon.webp",
+    "title": {
+      "ru": "Рассветная песнь звезды и луны",
+      "en": "Aubade of Morningstar and Moon",
+      "zh": "晨星与月的晓歌"
+    },
+    "region": "Нод-Край",
+    "piece_count": 5,
+    "tags": [
+      "артефакты",
+      "Нод-Край",
+      "пример"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  }
+]
