@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "01_heretic_of_the_false_moon",
+    "category": "items",
+    "icon": "assets/icons/enemies/01_heretic_of_the_false_moon.webp",
+    "title": {
+      "ru": "Еретик ложной луны",
+      "en": "Heretic of the False Moon",
+      "zh": "赝月的异端者"
+    },
+    "region": "Нод-Край",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "materials": [
+      {
+        "key": "material_1",
+        "title": {
+          "ru": "Маска мудрого лекаря",
+          "en": "Mask of the Virtuous Doctor",
+          "zh": "医的假面"
+        },
+        "icon": "assets/icons/items/01_mask_of_the_virtuous_doctor.webp"
+      },
+      {
+        "key": "material_2",
+        "title": {
+          "ru": "Еретический эликсир",
+          "en": "Elixir of the Heretic",
+          "zh": "异端的瓶剂"
+        },
+        "icon": "assets/icons/items/02_elixir_of_the_heretic.webp"
+      },
+      {
+        "key": "material_3",
+        "title": {
+          "ru": "Оковы безумца",
+          "en": "Madman's Restraint",
+          "zh": "材料三"
+        },
+        "icon": "assets/icons/items/03_madmans_restraint.webp"
+      }
+    ],
+    "material_count": 3,
+    "tags": [
+      "Еретик ложной луны",
+      "Дотторе",
+      "Доктор",
+      "Зандик"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  }
+]
