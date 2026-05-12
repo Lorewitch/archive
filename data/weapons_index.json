@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "01_golden_frostbound_oath",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/01_golden_frostbound_oath.webp",
+    "title": {
+      "ru": "Золотая клятва льда",
+      "en": "Dawn's Salutation Returned",
+      "zh": "与君致意的黎明"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "tags": [
+      "лук",
+      "линнея",
+      "аркадия"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  }
+]
