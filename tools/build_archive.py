@@ -172,11 +172,97 @@ def languages_from_text(text_by_lang: dict[str, str] | None = None, volumes: lis
     return found or LANGS
 
 
+def is_placeholder_note(text: str) -> bool:
+    cleaned = re.sub(r"\s+", " ", text.strip().lower())
+    if not cleaned:
+        return True
+    placeholder_markers = [
+        "сюда можно писать",
+        "общий комментарий по всей",
+        "связи с персонажами",
+        "подозрительные формулировки",
+        "заметка к первому тому",
+        "заметка ко второму тому",
+        "заметка к третьему тому",
+        "заметки пока не заполнены",
+    ]
+    return any(marker in cleaned for marker in placeholder_markers)
+
+
+def strip_markdown_heading(line: str) -> str:
+    return re.sub(r"^#{1,6}\s*", "", line).strip()
+
+
 def parse_notes(notes_text: str) -> dict[str, Any]:
+    """Parse ## NOTES into public notes.
+
+    Supported structure:
+    ### Общие заметки Лороведьмы
+    text...
+
+    ### Заметки по томам
+    #### Том 1
+    text...
+    #### Том 2
+    text...
+
+    Placeholder text from templates is ignored.
+    """
     cleaned = notes_text.strip()
-    if not cleaned or "сюда можно писать" in cleaned.lower():
+    if not cleaned or is_placeholder_note(cleaned):
         return {"general": "", "byVolume": {}}
-    return {"general": cleaned, "byVolume": {}}
+
+    general_lines: list[str] = []
+    by_volume: dict[str, str] = {}
+    current_volume: str | None = None
+    current_lines: list[str] = []
+    in_general_block = False
+
+    def flush_volume() -> None:
+        nonlocal current_volume, current_lines
+        if current_volume is None:
+            return
+        text = "\n".join(line.rstrip() for line in current_lines).strip()
+        if text and not is_placeholder_note(text):
+            by_volume[current_volume] = text
+        current_volume = None
+        current_lines = []
+
+    for raw_line in cleaned.splitlines():
+        line = raw_line.rstrip()
+        stripped = line.strip()
+
+        vol_heading = re.match(r"^#{3,6}\s*(?:Том|Vol\.?|卷)\s*([0-9一二三四五六七八九十]{1,3})", stripped, re.IGNORECASE)
+        if vol_heading:
+            flush_volume()
+            value = vol_heading.group(1)
+            current_volume = str(CN_NUMS.get(value, int(value) if value.isdigit() else value))
+            in_general_block = False
+            continue
+
+        heading = re.match(r"^#{3,6}\s+(.+?)\s*$", stripped)
+        if heading:
+            flush_volume()
+            title = heading.group(1).strip().lower()
+            in_general_block = any(word in title for word in ["общ", "general"])
+            # Headings like "Заметки по томам" are structural and not public text.
+            continue
+
+        if current_volume is not None:
+            current_lines.append(line)
+        else:
+            # Keep text outside structural headings as general notes.
+            # If a general block heading was present, collect its body too.
+            if stripped or in_general_block:
+                general_lines.append(line)
+
+    flush_volume()
+
+    general = "\n".join(line.rstrip() for line in general_lines).strip()
+    if is_placeholder_note(general):
+        general = ""
+
+    return {"general": general, "byVolume": by_volume}
 
 
 def normalized_book_subtype(meta: dict[str, str]) -> str:
