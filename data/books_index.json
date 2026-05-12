@@ -48,5 +48,28 @@
       "en",
       "zh"
     ]
+  },
+  {
+    "id": "03_the_tale_of_kuntur",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/03_the_tale_of_kuntur.webp",
+    "title": {
+      "ru": "Сказание о Кунтуре",
+      "en": "The Tale of Kuntur",
+      "zh": "昆图尔的故事"
+    },
+    "region": "Натлан",
+    "volume_count": 1,
+    "tags": [
+      "Натлан",
+      "Кунтур"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
   }
 ]
