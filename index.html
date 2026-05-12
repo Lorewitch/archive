@@ -1507,6 +1507,14 @@ const ITEM_GROUPS = [
   ["misc", "Прочее", "То, что не вошло в остальные категории."]
 ];
 
+const ARTIFACT_PART_LABELS = {
+  flower: { ru: "Цветок жизни", en: "Flower of Life", zh: "生之花" },
+  plume: { ru: "Перо смерти", en: "Plume of Death", zh: "死之羽" },
+  sands: { ru: "Пески времени", en: "Sands of Eon", zh: "时之沙" },
+  goblet: { ru: "Кубок пространства", en: "Goblet of Eonothem", zh: "空之杯" },
+  circlet: { ru: "Корона разума", en: "Circlet of Logos", zh: "理之冠" }
+};
+
 const SECTIONS = [
   {
     id: "books",
@@ -1591,6 +1599,8 @@ const state = {
   lang: "ru",
   volume: 1,
   readAll: false,
+  artifactPart: "flower",
+  artifactReadAll: false,
   filters: {
     books: { query: "", filter: "all", sort: "asc" },
     artifacts: { query: "", filter: "all", sort: "asc" },
@@ -2113,6 +2123,119 @@ function renderTextArea(book) {
   }).join("");
 }
 
+function artifactPartTitle(part, lang = state.lang) {
+  return part?.title?.[lang] || ARTIFACT_PART_LABELS[part?.key]?.[lang] || part?.title?.ru || part?.key || "Часть сета";
+}
+
+function renderArtifactDetail(artifact) {
+  const parts = Array.isArray(artifact.parts) ? artifact.parts : [];
+  if (!parts.length) {
+    renderGenericDetail(artifact, getSectionConfig("artifacts"));
+    return;
+  }
+
+  if (!parts.some(part => part.key === state.artifactPart)) {
+    state.artifactPart = parts[0].key;
+  }
+
+  app.innerHTML = `
+    <section class="page-card book-page">
+      <button class="back-link" id="back-artifacts" type="button">← Назад к артефактам</button>
+
+      <div class="page-head">
+        <h1>${escapeHtml(titleOf(artifact, "ru"))}</h1>
+        <div class="subtitle">${escapeHtml([titleOf(artifact, "en"), titleOf(artifact, "zh")].filter(Boolean).join(" · "))}</div>
+      </div>
+
+      <div class="reader-toolbar" aria-label="Управление чтением сета артефактов">
+        <div class="volume-strip" aria-label="Части сета">
+          <button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>
+          <span class="toolbar-label">Части</span>
+          <div class="volume-scroll">
+            ${parts.map(part => `<button type="button" data-artifact-part="${escapeHtml(part.key)}" class="${!state.artifactReadAll && state.artifactPart === part.key ? "active" : ""}">${escapeHtml(artifactPartTitle(part, state.lang))}</button>`).join("")}
+          </div>
+        </div>
+      </div>
+
+      <div id="reader-text-area">${renderArtifactTextArea(artifact)}</div>
+
+      <details class="catalog-meta">
+        <summary>Сведения для каталога и фильтров</summary>
+        <div class="catalog-meta-body">
+          <div><strong>Регион:</strong> ${escapeHtml(artifact.region || "—")}</div>
+          <div><strong>Частей:</strong> ${escapeHtml(artifact.piece_count || parts.length)}</div>
+          <div><strong>Языки:</strong> ${(artifact.languages || []).map(langLabel).join(" · ")}</div>
+          <div class="tag-list">${(artifact.tags || []).map(tag => `<span class="tiny-pill">#${escapeHtml(tag)}</span>`).join("")}</div>
+        </div>
+      </details>
+    </section>
+  `;
+
+  bindArtifactDetail(artifact);
+}
+
+function renderArtifactTextArea(artifact) {
+  const parts = Array.isArray(artifact.parts) ? artifact.parts : [];
+  const selectedParts = state.artifactReadAll ? parts : parts.filter(part => part.key === state.artifactPart);
+  const generalNote = String(artifact.notes?.general || "").trim();
+  const partNotes = artifact.notes?.byPart || {};
+
+  return selectedParts.map((part, index) => {
+    const partTitle = escapeHtml(artifactPartTitle(part, state.lang));
+    const languageControl = index === 0 ? `
+      <div class="lang-control" aria-label="Язык текста">
+        <span class="toolbar-label">Язык</span>
+        <div class="lang-switch">
+          ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
+        </div>
+      </div>
+    ` : "";
+
+    const noteText = String(partNotes[part.key] || "").trim() || (index === 0 ? generalNote : "");
+    const notesBlock = noteText ? `
+        <div class="notes">
+          <div class="notes-title">Заметки Лороведьмы</div>
+          <div class="notes-body">${markdownToHtml(noteText)}</div>
+        </div>
+    ` : "";
+
+    return `
+      <article class="text-card" id="artifact-part-${escapeHtml(part.key)}">
+        <div class="volume-title">
+          <div class="volume-title-main"><h3>${partTitle}</h3></div>
+          ${languageControl}
+        </div>
+        <div class="prose">${markdownToHtml(part.text?.[state.lang] || "[нет текста]")}</div>
+        ${notesBlock}
+      </article>
+    `;
+  }).join("");
+}
+
+function bindArtifactDetail(artifact) {
+  document.getElementById("back-artifacts")?.addEventListener("click", () => setRoute("artifacts", null, state.subsection));
+
+  document.getElementById("toggle-artifact-read-all")?.addEventListener("click", () => {
+    state.artifactReadAll = !state.artifactReadAll;
+    preserveScrollRender(() => renderArtifactDetail(artifact));
+  });
+
+  document.querySelectorAll("[data-artifact-part]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.artifactPart = button.dataset.artifactPart;
+      state.artifactReadAll = false;
+      preserveScrollRender(() => renderArtifactDetail(artifact));
+    });
+  });
+
+  document.querySelectorAll("[data-lang]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.lang = button.dataset.lang;
+      preserveScrollRender(() => renderArtifactDetail(artifact));
+    });
+  });
+}
+
 function renderGenericDetail(item, config) {
   if (!item) {
     renderError("Запись не найдена.");
@@ -2201,6 +2324,17 @@ async function render() {
       renderBookDetail(book);
     } catch (error) {
       renderError(error.message || "Не удалось открыть книгу.");
+    }
+    return;
+  }
+
+  if (state.section === "artifacts" && state.entryId) {
+    renderLoading("Открываю сет артефактов…");
+    try {
+      const artifact = await getGenericDetail("artifacts", state.entryId);
+      renderArtifactDetail(artifact);
+    } catch (error) {
+      renderError(error.message || "Не удалось открыть сет артефактов.");
     }
     return;
   }
