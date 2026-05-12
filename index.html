@@ -655,17 +655,6 @@
       display: none;
     }
 
-    @media (max-width: 640px) {
-      .artifact-toolbar .parts-row {
-        align-items: flex-start;
-        gap: 8px;
-      }
-
-      .artifact-toolbar .toolbar-label {
-        padding-top: 10px;
-      }
-    }
-
     .text-card {
       padding: 28px;
       border-radius: 16px;
@@ -1247,7 +1236,6 @@
       }
     }
 
-    /* v24: mobile reader layout refined from mockup */
     @media (max-width: 700px) {
       .book-page {
         padding: 14px;
@@ -1461,30 +1449,100 @@
     }
 
 
+    /* Responsive refinements for artifact set controls */
+    .artifact-toolbar {
+      overflow: visible;
+    }
 
-    @media (max-width: 720px) {
-      .artifact-toolbar .volume-strip {
-        display: grid;
+    .artifact-toolbar .parts-row {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      align-items: center;
+      gap: 10px 12px;
+      width: 100%;
+      min-width: 0;
+    }
+
+    .artifact-toolbar .volume-scroll {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, max-content));
+      justify-content: start;
+      align-items: stretch;
+      gap: 8px;
+      width: 100%;
+      min-width: 0;
+      overflow: visible;
+      padding: 0;
+    }
+
+    .artifact-toolbar .volume-scroll button {
+      width: 100%;
+      min-width: 0;
+      max-width: 220px;
+      min-height: 44px;
+      white-space: normal;
+      line-height: 1.22;
+      text-align: center;
+    }
+
+    @media (max-width: 1180px) {
+      .sidebar {
+        -webkit-overflow-scrolling: touch;
+        overscroll-behavior: contain;
+      }
+    }
+
+    @media (max-width: 860px) {
+      .artifact-toolbar .parts-row {
         grid-template-columns: 1fr;
-        gap: 10px;
-      }
-
-      .artifact-toolbar .mode-button {
-        width: 100%;
-      }
-
-      .artifact-toolbar .volume-scroll {
-        flex: 1 1 auto;
-        min-width: 0;
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 8px;
       }
 
+      .artifact-toolbar .toolbar-label {
+        align-self: start;
+      }
+
+      .artifact-toolbar .volume-scroll {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
       .artifact-toolbar .volume-scroll button {
-        width: 100%;
-        min-width: 0;
-        white-space: normal;
+        max-width: none;
+      }
+    }
+
+    @media (min-width: 700px) and (max-width: 980px) {
+      .artifact-toolbar .volume-scroll {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 430px) {
+      .artifact-toolbar .volume-scroll {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .artifact-toolbar .volume-scroll button {
+        min-height: 42px;
+        padding-left: 9px;
+        padding-right: 9px;
+        font-size: 12.5px;
+      }
+    }
+
+    @media (max-width: 340px) {
+      .artifact-toolbar .volume-scroll {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 920px) and (orientation: landscape) {
+      .artifact-toolbar .volume-scroll {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+
+      .book-page h1 {
+        font-size: clamp(28px, 6vw, 42px);
       }
     }
 
