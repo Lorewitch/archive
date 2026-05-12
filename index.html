@@ -123,8 +123,8 @@
       width: 56px;
       height: 56px;
       border-radius: 10px;
-      background: rgba(246, 242, 235, .68);
-      box-shadow: 0 12px 22px rgba(91, 74, 62, .18);
+      background: transparent;
+      box-shadow: none;
       overflow: hidden;
     }
 
@@ -197,16 +197,6 @@
       height: 26px;
       flex: 0 0 26px;
       object-fit: contain;
-    }
-
-    .sidebar-note {
-      margin-top: 18px;
-      padding: 14px;
-      border: 1px solid rgba(91, 74, 62, .12);
-      border-radius: 10px;
-      background: rgba(203, 191, 175, .52);
-      color: #4E4239;
-      font-size: 13px;
     }
 
     .back-main {
@@ -361,12 +351,28 @@
 
     .catalog-row {
       display: grid;
-      grid-template-columns: minmax(240px, 1.9fr) minmax(180px, 1fr) 90px minmax(150px, .8fr);
+      grid-template-columns: var(--catalog-columns, minmax(240px, 1.9fr) minmax(180px, 1fr) 90px minmax(150px, .8fr));
       gap: 16px;
       align-items: center;
       min-width: 0;
       padding: 15px 18px;
       border-bottom: 1px solid rgba(91, 74, 62, .14);
+    }
+
+    .catalog-row.cols-books {
+      --catalog-columns: minmax(240px, 1.9fr) minmax(180px, 1fr) 90px minmax(150px, .8fr);
+    }
+
+    .catalog-row.cols-artifacts {
+      --catalog-columns: minmax(240px, 1.8fr) minmax(170px, 1fr) 120px minmax(150px, .8fr);
+    }
+
+    .catalog-row.cols-weapons {
+      --catalog-columns: minmax(240px, 1.8fr) minmax(160px, .9fr) 100px minmax(150px, .8fr);
+    }
+
+    .catalog-row.cols-items {
+      --catalog-columns: minmax(240px, 1.8fr) minmax(220px, 1.1fr) minmax(160px, .8fr);
     }
 
     .catalog-row:last-child {
@@ -472,6 +478,20 @@
       border: 1px solid rgba(91, 74, 62, .16);
       border-radius: var(--radius-card);
       background: rgba(246, 242, 235, .72);
+    }
+
+    .section-structure {
+      margin: 0 0 18px;
+      padding: 14px 16px;
+      border: 1px solid rgba(91, 74, 62, .14);
+      border-radius: 12px;
+      background: rgba(203, 191, 175, .24);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .section-structure strong {
+      color: var(--accent);
     }
 
     .back-link {
@@ -1182,7 +1202,6 @@
         <div class="brand-subtitle">публичная база игровых текстов</div>
       </div>
       <nav class="nav" id="nav"></nav>
-      <div class="sidebar-note">Левое меню содержит только разделы. Списки книг, оружия и предметов открываются в центральной части архива.</div>
       <a class="back-main" href="https://www.lorewitchlib.online/home">← вернуться на основной сайт</a>
     </aside>
     <main class="content" id="app"></main>
@@ -1190,7 +1209,10 @@
 
 <script>
 let BOOKS = [];
-const BOOK_DETAILS = new Map();
+let ARTIFACTS = [];
+let WEAPONS = [];
+let ITEMS = [];
+const DETAILS = new Map();
 
 async function fetchJson(path) {
   const response = await fetch(path, { cache: "no-cache" });
@@ -1198,33 +1220,150 @@ async function fetchJson(path) {
   return response.json();
 }
 
+async function fetchOptionalJson(path) {
+  try {
+    return await fetchJson(path);
+  } catch (_) {
+    return [];
+  }
+}
+
+function normalizeList(data, fallbackKey) {
+  if (Array.isArray(data)) return data;
+  if (Array.isArray(data?.[fallbackKey])) return data[fallbackKey];
+  if (Array.isArray(data?.items)) return data.items;
+  return [];
+}
+
 async function loadArchiveData() {
-  BOOKS = await fetchJson("data/books_index.json");
+  BOOKS = normalizeList(await fetchJson("data/books_index.json"), "books");
+  ARTIFACTS = normalizeList(await fetchOptionalJson("data/artifacts_index.json"), "artifacts");
+  WEAPONS = normalizeList(await fetchOptionalJson("data/weapons_index.json"), "weapons");
+  ITEMS = normalizeList(await fetchOptionalJson("data/items_index.json"), "items");
 }
 
 async function getBookById(id) {
-  if (BOOK_DETAILS.has(id)) return BOOK_DETAILS.get(id);
+  const cacheKey = `books:${id}`;
+  if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
   const book = await fetchJson(`data/books/${encodeURIComponent(id)}.json`);
-  BOOK_DETAILS.set(id, book);
+  DETAILS.set(cacheKey, book);
   return book;
 }
 
+async function getGenericDetail(sectionId, id) {
+  const cacheKey = `${sectionId}:${id}`;
+  if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
+  const collection = getSectionConfig(sectionId).data();
+  const fromIndex = collection.find(item => item.id === id) || null;
+  const detail = await fetchOptionalJson(`data/${sectionId}/${encodeURIComponent(id)}.json`);
+  const result = detail?.id ? detail : fromIndex;
+  DETAILS.set(cacheKey, result);
+  return result;
+}
+
+const WEAPON_TYPES = [
+  ["sword", "Одноручное"],
+  ["claymore", "Двуручное"],
+  ["bow", "Лук"],
+  ["catalyst", "Катализатор"],
+  ["polearm", "Древковое"]
+];
+
+const ITEM_TYPES = [
+  ["weapon_ascension", "Материалы возвышения оружия"],
+  ["talent_material", "Материалы талантов"],
+  ["boss_drop", "Лут с боссов"],
+  ["local_specialty", "Диковины, растения и минералы"],
+  ["world_material", "Предметы открытого мира"],
+  ["quest_item", "Квестовые предметы"],
+  ["other", "Прочее"]
+];
+
 const SECTIONS = [
-  { id: "books", icon: "assets/icons/03_book_icon.png", title: "Книги", description: "Игровые книги, записки и многотомные серии." },
-  { id: "artifacts", icon: "assets/icons/04_cup_icon.png", title: "Артефакты", description: "Сеты артефактов и связанные тексты." },
-  { id: "weapons", icon: "assets/icons/01_weapon_icon.png", title: "Оружие", description: "Оружие, истории и описания." },
-  { id: "items", icon: "assets/icons/02_inventory_icon.png", title: "Предметы", description: "Материалы, квестовые предметы и прочее." }
+  {
+    id: "books",
+    icon: "assets/icons/03_book_icon.png",
+    title: "Книги",
+    description: "Полный каталог книжных серий, игровых записок и текстов на разных языках. Выбери книгу из списка — карточка откроется здесь же, в центральной части архива.",
+    data: () => BOOKS,
+    filter: "region",
+    filterLabel: "Все регионы",
+    columns: ["Название", "Регион", "Томов", "Языки"],
+    empty: "Книги пока не добавлены.",
+    row: item => [
+      renderTitleCell(item),
+      escapeHtml(item.region || "—"),
+      escapeHtml(item.volume_count || item.volumes?.length || 1),
+      renderLangPills(item.languages)
+    ]
+  },
+  {
+    id: "artifacts",
+    icon: "assets/icons/04_cup_icon.png",
+    title: "Артефакты",
+    description: "Каталог сетов артефактов: названия, регионы, игровые описания и тексты на разных языках.",
+    data: () => ARTIFACTS,
+    filter: "region",
+    filterLabel: "Все регионы",
+    columns: ["Название", "Регион", "Частей", "Языки"],
+    empty: "Артефакты пока не добавлены. Структура уже готова: поиск, сортировка по названию и фильтр по региону.",
+    row: item => [
+      renderTitleCell(item),
+      escapeHtml(item.region || "—"),
+      escapeHtml(item.piece_count || item.parts_count || item.count || "—"),
+      renderLangPills(item.languages)
+    ]
+  },
+  {
+    id: "weapons",
+    icon: "assets/icons/01_weapon_icon.png",
+    title: "Оружие",
+    description: "Каталог оружия с делением по типу: одноручное, двуручное, луки, катализаторы и древковое.",
+    data: () => WEAPONS,
+    filter: "weapon_type",
+    filterLabel: "Все типы",
+    fixedOptions: WEAPON_TYPES,
+    columns: ["Название", "Тип", "Редкость", "Языки"],
+    empty: "Оружие пока не добавлено. Для этого раздела вместо регионов заложен фильтр по типу оружия.",
+    row: item => [
+      renderTitleCell(item),
+      escapeHtml(labelFromOptions(item.weapon_type || item.type, WEAPON_TYPES) || item.weapon_type || item.type || "—"),
+      escapeHtml(item.rarity ? `${item.rarity}★` : "—"),
+      renderLangPills(item.languages)
+    ]
+  },
+  {
+    id: "items",
+    icon: "assets/icons/02_inventory_icon.png",
+    title: "Предметы",
+    description: "Материалы, лут, диковины, руды, квестовые предметы и прочие игровые тексты.",
+    data: () => ITEMS,
+    filter: "item_type",
+    filterLabel: "Все категории",
+    fixedOptions: ITEM_TYPES,
+    columns: ["Название", "Категория", "Связь / регион"],
+    empty: "Предметы пока не добавлены. Для большого раздела заложена сортировка по категориям: материалы оружия, материалы талантов, лут с боссов, диковины, предметы мира и квестовые предметы.",
+    structureNote: "Для предметов основной фильтр — <strong>категория</strong>, а не регион. Регион лучше хранить как дополнительное поле: он пригодится для поиска, но не должен ломать общую структуру раздела.",
+    row: item => [
+      renderTitleCell(item),
+      escapeHtml(labelFromOptions(item.item_type || item.category_type || item.type, ITEM_TYPES) || item.item_type || item.type || "—"),
+      escapeHtml(item.region || item.source || item.related || "—")
+    ]
+  }
 ];
 
 const state = {
   section: "books",
-  bookId: null,
+  entryId: null,
   lang: "ru",
   volume: 1,
   readAll: false,
-  query: "",
-  region: "all",
-  sort: "asc"
+  filters: {
+    books: { query: "", filter: "all", sort: "asc" },
+    artifacts: { query: "", filter: "all", sort: "asc" },
+    weapons: { query: "", filter: "all", sort: "asc" },
+    items: { query: "", filter: "all", sort: "asc" }
+  }
 };
 
 const app = document.getElementById("app");
@@ -1232,7 +1371,7 @@ const nav = document.getElementById("nav");
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
 
 function escapeHtml(value) {
-  return String(value ?? "").replace(/[&<>'"]/g, (char) => ({
+  return String(value ?? "").replace(/[&<>'"]/g, char => ({
     "&": "&amp;",
     "<": "&lt;",
     ">": "&gt;",
@@ -1241,30 +1380,55 @@ function escapeHtml(value) {
   }[char]));
 }
 
-function titleOf(book, lang = "ru") {
-  return book?.title?.[lang] || book?.title?.ru || book?.title?.en || book?.title?.zh || "Без названия";
+function getSectionConfig(id = state.section) {
+  return SECTIONS.find(section => section.id === id) || SECTIONS[0];
+}
+
+function titleOf(item, lang = "ru") {
+  return item?.title?.[lang] || item?.title_ru || item?.title?.ru || item?.title?.en || item?.title?.zh || item?.name || "Без названия";
 }
 
 function langLabel(lang) {
-  return ({ ru: "RU", en: "EN", zh: "中文" })[lang] || lang.toUpperCase();
+  return ({ ru: "RU", en: "EN", zh: "中文" })[lang] || String(lang).toUpperCase();
+}
+
+function labelFromOptions(value, options) {
+  return options.find(([key]) => key === value)?.[1] || "";
+}
+
+function renderTitleCell(item) {
+  const en = titleOf(item, "en");
+  const zh = titleOf(item, "zh");
+  const subtitles = [en, zh].filter(Boolean).join(" · ");
+  return `
+    <div>
+      <div class="book-title">${escapeHtml(titleOf(item, "ru"))}</div>
+      <div class="book-subtitle">${escapeHtml(subtitles)}</div>
+    </div>
+  `;
+}
+
+function renderLangPills(languages = []) {
+  const langs = languages.length ? languages : ["ru", "en", "zh"];
+  return `<div class="lang-pills">${langs.map(lang => `<span class="tiny-pill">${langLabel(lang)}</span>`).join("")}</div>`;
 }
 
 function closeMenu() {
   document.body.classList.remove("menu-open");
 }
 
-function setRoute(section, bookId = null) {
+function setRoute(section, entryId = null) {
   state.section = section;
-  state.bookId = bookId;
+  state.entryId = entryId;
   closeMenu();
-  window.location.hash = bookId ? `#/${section}/${bookId}` : `#/${section}`;
+  window.location.hash = entryId ? `#/${section}/${entryId}` : `#/${section}`;
   render();
 }
 
 function parseHash() {
   const parts = window.location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
   state.section = parts[0] || "books";
-  state.bookId = parts[1] || null;
+  state.entryId = parts[1] || null;
 }
 
 function renderNav() {
@@ -1280,163 +1444,186 @@ function renderNav() {
   });
 }
 
-function uniqueRegions() {
-  const regions = new Set();
-  BOOKS.forEach(book => {
-    String(book.region || "")
-      .split(",")
-      .map(region => region.trim())
-      .filter(Boolean)
-      .forEach(region => regions.add(region));
-  });
-  return [...regions].sort(collator.compare);
+function optionsFor(config) {
+  if (config.fixedOptions) return config.fixedOptions;
+  if (config.filter === "region") {
+    const values = new Set();
+    config.data().forEach(item => {
+      String(item.region || "")
+        .split(",")
+        .map(region => region.trim())
+        .filter(Boolean)
+        .forEach(region => values.add(region));
+    });
+    return [...values].sort(collator.compare).map(value => [value, value]);
+  }
+  return [];
 }
 
-function filteredBooks() {
-  const q = state.query.trim().toLowerCase();
-  const rows = BOOKS.filter(book => {
-    const searchable = [
-      titleOf(book, "ru"),
-      titleOf(book, "en"),
-      titleOf(book, "zh"),
-      book.region,
-      ...(book.tags || [])
-    ].join(" ").toLowerCase();
-
-    const queryOk = !q || searchable.includes(q);
-    const regionOk = state.region === "all" || String(book.region || "")
+function itemMatchesFilter(item, config, selected) {
+  if (selected === "all") return true;
+  if (config.filter === "region") {
+    return String(item.region || "")
       .split(",")
       .map(region => region.trim())
-      .includes(state.region);
+      .includes(selected);
+  }
+  const value = item[config.filter] || item.type || item.item_type || item.weapon_type || item.category_type;
+  return value === selected;
+}
 
-    return queryOk && regionOk;
+function searchableText(item) {
+  return [
+    titleOf(item, "ru"),
+    titleOf(item, "en"),
+    titleOf(item, "zh"),
+    item.region,
+    item.type,
+    item.item_type,
+    item.weapon_type,
+    item.category_type,
+    item.rarity,
+    item.source,
+    item.related,
+    ...(item.tags || [])
+  ].join(" ").toLowerCase();
+}
+
+function filteredEntries(config) {
+  const filterState = state.filters[config.id];
+  const query = filterState.query.trim().toLowerCase();
+
+  const rows = config.data().filter(item => {
+    const queryOk = !query || searchableText(item).includes(query);
+    const filterOk = itemMatchesFilter(item, config, filterState.filter);
+    return queryOk && filterOk;
   });
 
   rows.sort((a, b) => {
     const result = collator.compare(titleOf(a, "ru"), titleOf(b, "ru"));
-    return state.sort === "asc" ? result : -result;
+    return filterState.sort === "asc" ? result : -result;
   });
 
   return rows;
 }
 
-function catalogRow(book) {
+function catalogRow(item, config) {
   return `
-    <div class="catalog-row item" data-book-id="${escapeHtml(book.id)}" tabindex="0" role="button" aria-label="Открыть книгу ${escapeHtml(titleOf(book))}">
-      <div>
-        <div class="book-title">${escapeHtml(titleOf(book, "ru"))}</div>
-        <div class="book-subtitle">${escapeHtml(titleOf(book, "en"))} · ${escapeHtml(titleOf(book, "zh"))}</div>
-      </div>
-      <div>${escapeHtml(book.region || "—")}</div>
-      <div>${escapeHtml(book.volume_count || book.volumes?.length || 1)}</div>
-      <div class="lang-pills">${(book.languages || []).map(lang => `<span class="tiny-pill">${langLabel(lang)}</span>`).join("")}</div>
+    <div class="catalog-row item cols-${config.id}" data-entry-id="${escapeHtml(item.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
+      ${config.row(item).map(cell => `<div>${cell}</div>`).join("")}
     </div>
   `;
 }
 
-function renderCatalogTable() {
-  const rows = filteredBooks();
-  const sortUp = state.sort === "asc" ? "active" : "";
-  const sortDown = state.sort === "desc" ? "active" : "";
+function renderCatalogTable(config) {
+  const rows = filteredEntries(config);
+  const filterState = state.filters[config.id];
+  const sortUp = filterState.sort === "asc" ? "active" : "";
+  const sortDown = filterState.sort === "desc" ? "active" : "";
 
   return `
     <div class="catalog-table" id="catalog-table">
-      <div class="catalog-row head">
-        <div>
-          <button class="sortable-head" id="sort-title" type="button" aria-label="Сортировать по названию">
-            <span>Название</span>
-            <span class="sort-arrows" aria-hidden="true"><span class="${sortUp}">▲</span><span class="${sortDown}">▼</span></span>
-          </button>
-        </div>
-        <div>Регион</div>
-        <div>Томов</div>
-        <div>Языки</div>
+      <div class="catalog-row head cols-${config.id}">
+        ${config.columns.map((column, index) => index === 0 ? `
+          <div>
+            <button class="sortable-head" id="sort-title" type="button" aria-label="Сортировать по названию">
+              <span>${escapeHtml(column)}</span>
+              <span class="sort-arrows" aria-hidden="true"><span class="${sortUp}">▲</span><span class="${sortDown}">▼</span></span>
+            </button>
+          </div>
+        ` : `<div>${escapeHtml(column)}</div>`).join("")}
       </div>
-      ${rows.map(catalogRow).join("") || `<div class="empty"><div class="empty-card">Ничего не найдено. Попробуй изменить поиск или регион.</div></div>`}
+      ${rows.map(item => catalogRow(item, config)).join("") || `<div class="empty"><div class="empty-card">${escapeHtml(config.empty)}</div></div>`}
     </div>
   `;
 }
 
-function renderBooksCatalog() {
-  const regions = uniqueRegions();
+function renderCatalog(config) {
+  const filterState = state.filters[config.id];
+  const options = optionsFor(config);
+
   app.innerHTML = `
     <section class="page-card catalog-page">
       <div class="page-head">
-        <h1>Книги</h1>
-        <p class="lead">Полный каталог книжных серий, игровых записок и текстов на разных языках. Выбери книгу из списка — карточка откроется здесь же, в центральной части архива.</p>
+        <h1>${escapeHtml(config.title)}</h1>
+        <p class="lead">${escapeHtml(config.description)}</p>
       </div>
 
+      ${config.structureNote ? `<div class="section-structure">${config.structureNote}</div>` : ""}
+
       <div class="toolbar">
-        <label class="search" aria-label="Поиск по книгам">
+        <label class="search" aria-label="Поиск">
           <span class="search-symbol">⌕</span>
-          <input id="book-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Название, регион или тег..." value="${escapeHtml(state.query)}">
-          <button class="search-clear ${state.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
+          <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Название, тип или тег..." value="${escapeHtml(filterState.query)}">
+          <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
         </label>
 
-        <select class="select" id="region-filter" aria-label="Фильтр по региону">
-          <option value="all">Все регионы</option>
-          ${regions.map(region => `<option value="${escapeHtml(region)}" ${state.region === region ? "selected" : ""}>${escapeHtml(region)}</option>`).join("")}
+        <select class="select" id="catalog-filter" aria-label="Фильтр">
+          <option value="all">${escapeHtml(config.filterLabel)}</option>
+          ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
         </select>
       </div>
 
-      <div id="catalog-holder">${renderCatalogTable()}</div>
+      <div id="catalog-holder">${renderCatalogTable(config)}</div>
     </section>
   `;
 
-  bindBooksCatalog();
+  bindCatalog(config);
 }
 
-function updateCatalogTable() {
-  document.getElementById("catalog-holder").innerHTML = renderCatalogTable();
-  bindCatalogRows();
-  document.getElementById("sort-title")?.addEventListener("click", toggleSort);
+function updateCatalogTable(config) {
+  document.getElementById("catalog-holder").innerHTML = renderCatalogTable(config);
+  bindCatalogRows(config);
+  document.getElementById("sort-title")?.addEventListener("click", () => toggleSort(config));
 }
 
-function toggleSort() {
-  state.sort = state.sort === "asc" ? "desc" : "asc";
-  updateCatalogTable();
+function toggleSort(config) {
+  const filterState = state.filters[config.id];
+  filterState.sort = filterState.sort === "asc" ? "desc" : "asc";
+  updateCatalogTable(config);
 }
 
-function bindCatalogRows() {
-  document.querySelectorAll("[data-book-id]").forEach(row => {
-    row.addEventListener("click", () => setRoute("books", row.dataset.bookId));
+function bindCatalogRows(config) {
+  document.querySelectorAll("[data-entry-id]").forEach(row => {
+    row.addEventListener("click", () => setRoute(config.id, row.dataset.entryId));
     row.addEventListener("keydown", event => {
       if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
-        setRoute("books", row.dataset.bookId);
+        setRoute(config.id, row.dataset.entryId);
       }
     });
   });
 }
 
-function bindBooksCatalog() {
-  const search = document.getElementById("book-search");
-  const filter = document.getElementById("region-filter");
+function bindCatalog(config) {
+  const filterState = state.filters[config.id];
+  const search = document.getElementById("catalog-search");
+  const filter = document.getElementById("catalog-filter");
   const clearSearch = document.getElementById("clear-search");
 
   search?.addEventListener("input", event => {
-    state.query = event.target.value;
-    clearSearch.classList.toggle("visible", Boolean(state.query));
-    updateCatalogTable();
+    filterState.query = event.target.value;
+    clearSearch.classList.toggle("visible", Boolean(filterState.query));
+    updateCatalogTable(config);
   });
 
   clearSearch?.addEventListener("click", () => {
-    state.query = "";
+    filterState.query = "";
     if (search) {
       search.value = "";
       search.focus();
     }
     clearSearch.classList.remove("visible");
-    updateCatalogTable();
+    updateCatalogTable(config);
   });
 
   filter?.addEventListener("change", event => {
-    state.region = event.target.value;
-    updateCatalogTable();
+    filterState.filter = event.target.value;
+    updateCatalogTable(config);
   });
 
-  document.getElementById("sort-title")?.addEventListener("click", toggleSort);
-  bindCatalogRows();
+  document.getElementById("sort-title")?.addEventListener("click", () => toggleSort(config));
+  bindCatalogRows(config);
 }
 
 function renderBookDetail(book) {
@@ -1511,6 +1698,28 @@ function renderTextArea(book) {
   }).join("");
 }
 
+function renderGenericDetail(item, config) {
+  if (!item) {
+    renderError("Запись не найдена.");
+    return;
+  }
+
+  app.innerHTML = `
+    <section class="page-card book-page">
+      <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(config.title)}»</button>
+      <div class="page-head">
+        <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
+        <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
+      </div>
+      <article class="text-card">
+        <div class="prose">${escapeHtml(item.text?.ru || item.description?.ru || item.text || item.description || "Текст этой записи будет добавлен позже.")}</div>
+      </article>
+    </section>
+  `;
+
+  document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id));
+}
+
 function preserveScrollRender(renderFn) {
   const x = window.scrollX;
   const y = window.scrollY;
@@ -1559,28 +1768,15 @@ function renderError(message) {
   `;
 }
 
-function renderEmptySection(section) {
-  app.innerHTML = `
-    <section class="page-card">
-      <div class="page-head">
-        <h1>${section.title}</h1>
-        <p class="lead">${section.description}</p>
-      </div>
-      <div class="empty">
-        <div class="empty-card">Раздел готов к наполнению. Позже здесь появится таблица записей по тому же принципу: список в центре, карточка выбранного предмета — отдельным экраном.</div>
-      </div>
-    </section>
-  `;
-}
-
 async function render() {
   parseHash();
   renderNav();
+  const config = getSectionConfig();
 
-  if (state.section === "books" && state.bookId) {
+  if (state.section === "books" && state.entryId) {
     renderLoading("Открываю книгу…");
     try {
-      const book = await getBookById(state.bookId);
+      const book = await getBookById(state.entryId);
       renderBookDetail(book);
     } catch (error) {
       renderError(error.message || "Не удалось открыть книгу.");
@@ -1588,13 +1784,14 @@ async function render() {
     return;
   }
 
-  if (state.section === "books") {
-    renderBooksCatalog();
+  if (state.entryId) {
+    renderLoading("Открываю запись…");
+    const item = await getGenericDetail(config.id, state.entryId);
+    renderGenericDetail(item, config);
     return;
   }
 
-  const section = SECTIONS.find(item => item.id === state.section) || SECTIONS[0];
-  renderEmptySection(section);
+  renderCatalog(config);
 }
 
 async function init() {
