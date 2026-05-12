@@ -607,6 +607,28 @@
       box-shadow: 0 9px 18px rgba(91, 74, 62, .16);
     }
 
+
+    .artifact-toolbar .volume-strip {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px 14px;
+    }
+
+    .artifact-toolbar .volume-scroll {
+      flex: 1 1 360px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      overflow: visible;
+      padding: 0;
+      scrollbar-width: none;
+    }
+
+    .artifact-toolbar .volume-scroll::-webkit-scrollbar {
+      display: none;
+    }
+
     .text-card {
       padding: 28px;
       border-radius: 16px;
@@ -1401,6 +1423,34 @@
       }
     }
 
+
+
+    @media (max-width: 720px) {
+      .artifact-toolbar .volume-strip {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 10px;
+      }
+
+      .artifact-toolbar .mode-button {
+        width: 100%;
+      }
+
+      .artifact-toolbar .volume-scroll {
+        flex: 1 1 auto;
+        min-width: 0;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .artifact-toolbar .volume-scroll button {
+        width: 100%;
+        min-width: 0;
+        white-space: normal;
+      }
+    }
+
   </style>
 </head>
 <body>
@@ -1704,6 +1754,50 @@ function markdownToHtml(value) {
 
   flushAll();
   return blocks.join("\n");
+}
+
+
+
+function isTemplatePublicNote(value) {
+  const text = String(value ?? "")
+    .toLowerCase()
+    .replace(/[#*`>\-–—•]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!text) return true;
+
+  const markers = [
+    "заметки пока не заполнены",
+    "сюда можно писать",
+    "общий комментарий по всей",
+    "общий комментарий по сету",
+    "связи с персонажами",
+    "связи с регионом",
+    "связи с регионом персонажами событиями",
+    "подозрительные формулировки",
+    "заметка к первому тому",
+    "заметка ко второму тому",
+    "заметка к третьему тому",
+    "заметка к цветку",
+    "заметка к перу",
+    "заметка к часам",
+    "заметка к кубку",
+    "заметка к короне"
+  ];
+
+  return markers.some(marker => text.includes(marker));
+}
+
+function cleanPublicNote(value) {
+  const text = String(value ?? "").trim();
+  return isTemplatePublicNote(text) ? "" : text;
+}
+
+function emphasizeArtifactLabels(value) {
+  return String(value ?? "")
+    .replace(/(^|\n)(?!\*\*)(Название|Описание|Name|Description)\s*:\s*/g, "$1**$2:** ")
+    .replace(/(^|\n)(?!\*\*)(名称|描述)\s*[：:]\s*/g, "$1**$2：** ");
 }
 
 function getSectionConfig(id = state.section) {
@@ -2087,7 +2181,7 @@ function renderBookDetail(book) {
 
 function renderTextArea(book) {
   const volumes = state.readAll ? book.volumes : book.volumes.filter(volume => volume.number === state.volume);
-  const generalNote = String(book.notes?.general || "").trim();
+  const generalNote = cleanPublicNote(book.notes?.general || "");
   const volumeNotes = book.notes?.byVolume || {};
 
   return volumes.map((volume, index) => {
@@ -2101,7 +2195,7 @@ function renderTextArea(book) {
       </div>
     ` : "";
 
-    const volumeNote = String(volumeNotes[volume.number] || "").trim();
+    const volumeNote = cleanPublicNote(volumeNotes[volume.number] || "");
     const noteText = volumeNote || (index === 0 ? generalNote : "");
     const notesBlock = noteText ? `
         <div class="notes">
@@ -2147,7 +2241,7 @@ function renderArtifactDetail(artifact) {
         <div class="subtitle">${escapeHtml([titleOf(artifact, "en"), titleOf(artifact, "zh")].filter(Boolean).join(" · "))}</div>
       </div>
 
-      <div class="reader-toolbar" aria-label="Управление чтением сета артефактов">
+      <div class="reader-toolbar artifact-toolbar" aria-label="Управление чтением сета артефактов">
         <div class="volume-strip" aria-label="Части сета">
           <button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>
           <span class="toolbar-label">Части</span>
@@ -2177,8 +2271,8 @@ function renderArtifactDetail(artifact) {
 function renderArtifactTextArea(artifact) {
   const parts = Array.isArray(artifact.parts) ? artifact.parts : [];
   const selectedParts = state.artifactReadAll ? parts : parts.filter(part => part.key === state.artifactPart);
-  const generalNote = String(artifact.notes?.general || "").trim();
-  const partNotes = artifact.notes?.byPart || {};
+  const generalNote = cleanPublicNote(artifact.notes?.general || "");
+  const partNotes = artifact.notes?.byPart || artifact.notes?.byVolume || {};
 
   return selectedParts.map((part, index) => {
     const partTitle = escapeHtml(artifactPartTitle(part, state.lang));
@@ -2191,7 +2285,7 @@ function renderArtifactTextArea(artifact) {
       </div>
     ` : "";
 
-    const noteText = String(partNotes[part.key] || "").trim() || (index === 0 ? generalNote : "");
+    const noteText = cleanPublicNote(partNotes[part.key] || "") || (index === 0 ? generalNote : "");
     const notesBlock = noteText ? `
         <div class="notes">
           <div class="notes-title">Заметки Лороведьмы</div>
@@ -2205,7 +2299,7 @@ function renderArtifactTextArea(artifact) {
           <div class="volume-title-main"><h3>${partTitle}</h3></div>
           ${languageControl}
         </div>
-        <div class="prose">${markdownToHtml(part.text?.[state.lang] || "[нет текста]")}</div>
+        <div class="prose">${markdownToHtml(emphasizeArtifactLabels(part.text?.[state.lang] || "[нет текста]"))}</div>
         ${notesBlock}
       </article>
     `;
