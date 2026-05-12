@@ -5,6 +5,9 @@ on:
     branches: [ main ]
     paths:
       - 'content/books/**'
+      - 'content/artifacts/**'
+      - 'content/weapons/**'
+      - 'content/items/**'
       - 'tools/build_archive.py'
       - '.github/workflows/build-archive.yml'
   workflow_dispatch:
