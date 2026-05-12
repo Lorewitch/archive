@@ -24,11 +24,19 @@ CN_NUMS = {
 
 ARTIFACT_PART_KEYS = ["flower", "plume", "sands", "goblet", "circlet"]
 ARTIFACT_PART_HINTS = {
-    "flower": ["цветок", "flower", "生之花"],
-    "plume": ["перо", "plume", "feather", "死之羽"],
-    "sands": ["часы", "пески", "sands", "timepiece", "时之沙"],
-    "goblet": ["кубок", "goblet", "cup", "空之杯"],
-    "circlet": ["корона", "circlet", "crown", "理之冠"],
+    "flower": ["цветок", "цветок жизни", "flower", "flower of life", "生之花"],
+    "plume": ["перо", "перо смерти", "plume", "plume of death", "feather", "死之羽"],
+    "sands": ["часы", "пески", "пески времени", "sands", "sands of eon", "timepiece", "时之沙"],
+    "goblet": ["кубок", "кубок пространства", "goblet", "goblet of eonothem", "cup", "空之杯"],
+    "circlet": ["корона", "корона разума", "circlet", "circlet of logos", "crown", "理之冠"],
+}
+
+ARTIFACT_PART_LABELS = {
+    "flower": {"ru": "Цветок жизни", "en": "Flower of Life", "zh": "生之花"},
+    "plume": {"ru": "Перо смерти", "en": "Plume of Death", "zh": "死之羽"},
+    "sands": {"ru": "Пески времени", "en": "Sands of Eon", "zh": "时之沙"},
+    "goblet": {"ru": "Кубок пространства", "en": "Goblet of Eonothem", "zh": "空之杯"},
+    "circlet": {"ru": "Корона разума", "en": "Circlet of Logos", "zh": "理之冠"},
 }
 
 ITEM_GROUPS = {
@@ -337,19 +345,25 @@ def build_artifact(path: Path) -> dict[str, Any]:
     artifact_id = meta.get("id") or slug_from_path(path)
 
     blocks_by_lang = {lang: split_subsections(sections.get(label, "")) for label, lang in LANG_HEADERS.items()}
-    keys: list[str] = []
-    for blocks in blocks_by_lang.values():
-        for index, block in enumerate(blocks):
+    maps_by_lang: dict[str, dict[str, dict[str, str]]] = {lang: {} for lang in LANGS}
+
+    for lang in LANGS:
+        for index, block in enumerate(blocks_by_lang[lang]):
             key = artifact_part_key(block["title"], index)
+            maps_by_lang[lang][key] = block
+
+    keys = [key for key in ARTIFACT_PART_KEYS if any(key in maps_by_lang[lang] for lang in LANGS)]
+    for lang in LANGS:
+        for key in maps_by_lang[lang]:
             if key not in keys:
                 keys.append(key)
 
     parts: list[dict[str, Any]] = []
-    for index, key in enumerate(keys):
-        part = {"key": key, "title": {}, "text": {}}
+    for key in keys:
+        labels = ARTIFACT_PART_LABELS.get(key, {"ru": key, "en": key, "zh": key})
+        part = {"key": key, "title": dict(labels), "text": {}}
         for lang in LANGS:
-            block = blocks_by_lang[lang][index] if index < len(blocks_by_lang[lang]) else None
-            part["title"][lang] = block["title"] if block else ""
+            block = maps_by_lang[lang].get(key)
             part["text"][lang] = block["text"] if block else ""
         parts.append(part)
 
@@ -376,7 +390,6 @@ def build_artifact(path: Path) -> dict[str, Any]:
         "text": text_by_lang,
         "notes": parse_notes(sections.get("NOTES", "")),
     }
-
 
 def normalized_weapon_type(meta: dict[str, str]) -> str:
     value = (meta.get("weapon_type") or meta.get("type") or "").strip()
