@@ -2,6 +2,9 @@
   {
     "id": "01_teyvat_travel_guide",
     "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/01_teyvat_travel_guide.webp",
     "title": {
       "ru": "Путеводитель по Тейвату",
       "en": "Teyvat Travel Guide",
