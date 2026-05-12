@@ -661,9 +661,43 @@
 
     .prose {
       color: #2A2521;
-      white-space: pre-wrap;
       font-size: 18px;
       line-height: 1.92;
+    }
+
+    .prose p,
+    .notes-body p {
+      margin: 0 0 1.1em;
+    }
+
+    .prose p:last-child,
+    .notes-body p:last-child {
+      margin-bottom: 0;
+    }
+
+    .prose strong,
+    .notes-body strong {
+      font-weight: 900;
+      color: var(--ink);
+    }
+
+    .prose em,
+    .notes-body em {
+      font-style: italic;
+    }
+
+    .prose blockquote,
+    .notes-body blockquote {
+      margin: 1em 0;
+      padding: 0.55em 0 0.55em 1em;
+      border-left: 3px solid rgba(91, 74, 62, .28);
+      color: var(--muted);
+    }
+
+    .prose ul,
+    .notes-body ul {
+      margin: 0.75em 0 1.1em;
+      padding-left: 1.35em;
     }
 
     .notes,
@@ -685,7 +719,7 @@
     }
 
     .notes-body {
-      white-space: pre-wrap;
+      line-height: 1.72;
     }
 
     .catalog-meta {
@@ -1579,6 +1613,89 @@ function escapeHtml(value) {
   }[char]));
 }
 
+
+function inlineMarkdown(value) {
+  return escapeHtml(value)
+    .replace(/\*\*\*([^*]+?)\*\*\*/g, "<strong><em>$1</em></strong>")
+    .replace(/\*\*([^*]+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<em>$2</em>");
+}
+
+function markdownToHtml(value) {
+  const raw = String(value ?? "").replace(/\r\n/g, "\n").trim();
+  if (!raw) return "";
+
+  const lines = raw.split("\n");
+  const blocks = [];
+  let paragraph = [];
+  let list = [];
+  let quote = [];
+
+  function flushParagraph() {
+    if (!paragraph.length) return;
+    blocks.push(`<p>${inlineMarkdown(paragraph.join("\n")).replace(/\n/g, "<br>")}</p>`);
+    paragraph = [];
+  }
+
+  function flushList() {
+    if (!list.length) return;
+    blocks.push(`<ul>${list.map(item => `<li>${inlineMarkdown(item)}</li>`).join("")}</ul>`);
+    list = [];
+  }
+
+  function flushQuote() {
+    if (!quote.length) return;
+    blocks.push(`<blockquote>${inlineMarkdown(quote.join("\n")).replace(/\n/g, "<br>")}</blockquote>`);
+    quote = [];
+  }
+
+  function flushAll() {
+    flushParagraph();
+    flushList();
+    flushQuote();
+  }
+
+  for (const line of lines) {
+    const trimmed = line.trim();
+
+    if (!trimmed) {
+      flushAll();
+      continue;
+    }
+
+    const heading = trimmed.match(/^(#{2,4})\s+(.+)$/);
+    if (heading) {
+      flushAll();
+      const level = Math.min(4, heading[1].length);
+      blocks.push(`<h${level}>${inlineMarkdown(heading[2])}</h${level}>`);
+      continue;
+    }
+
+    const quoteMatch = trimmed.match(/^>\s?(.*)$/);
+    if (quoteMatch) {
+      flushParagraph();
+      flushList();
+      quote.push(quoteMatch[1]);
+      continue;
+    }
+
+    const listMatch = trimmed.match(/^[-–—]\s+(.+)$/);
+    if (listMatch) {
+      flushParagraph();
+      flushQuote();
+      list.push(listMatch[1]);
+      continue;
+    }
+
+    flushList();
+    flushQuote();
+    paragraph.push(trimmed);
+  }
+
+  flushAll();
+  return blocks.join("\n");
+}
+
 function getSectionConfig(id = state.section) {
   return SECTIONS.find(section => section.id === id) || SECTIONS[0];
 }
@@ -1979,7 +2096,7 @@ function renderTextArea(book) {
     const notesBlock = noteText ? `
         <div class="notes">
           <div class="notes-title">Заметки Лороведьмы</div>
-          <div class="notes-body">${escapeHtml(noteText)}</div>
+          <div class="notes-body">${markdownToHtml(noteText)}</div>
         </div>
     ` : "";
 
@@ -1989,7 +2106,7 @@ function renderTextArea(book) {
           <div class="volume-title-main"><h3>${volumeTitle}</h3></div>
           ${languageControl}
         </div>
-        <div class="prose">${escapeHtml(volume.text?.[state.lang] || "[нет текста]")}</div>
+        <div class="prose">${markdownToHtml(volume.text?.[state.lang] || "[нет текста]")}</div>
         ${notesBlock}
       </article>
     `;
@@ -2010,7 +2127,7 @@ function renderGenericDetail(item, config) {
         <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
       </div>
       <article class="text-card">
-        <div class="prose">${escapeHtml(item.text?.ru || item.description?.ru || item.text || item.description || "Текст этой записи будет добавлен позже.")}</div>
+        <div class="prose">${markdownToHtml(item.text?.ru || item.description?.ru || item.text || item.description || "Текст этой записи будет добавлен позже.")}</div>
       </article>
     </section>
   `;
