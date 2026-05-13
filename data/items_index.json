@@ -52,7 +52,7 @@
       "en",
       "zh"
     ],
-    "search_text": "еретик ложной луны heretic of the false moon 赝月的异端者 нод-край weekly_bosses enemy_drops дотторе доктор зандик material_1 material_2 material_3 маска мудрого лекаря mask of the virtuous doctor 医的假面 еретический эликсир elixir of the heretic 异端的瓶剂 оковы безумца madman's restraint 材料三"
+    "search_text": "еретик ложной луны heretic of the false moon 赝月的异端者 нод-край weekly_bosses enemy_drops дотторе доктор зандик material_1 material_2 material_3 маска мудрого лекаря mask of the virtuous doctor 医的假面 еретический эликсир elixir of the heretic 异端的瓶剂 оковы безумца madman's restraint 材料三 маска, найденная на еретическом испытательном полигоне после победы над ложным богом луны. целительство призвано облегчать телесные страдания, но мирские лекари всё равно не хотят видеть истинный источник смерти. в руках по-настоящему мудрого лекаря человеческое тело уже не связано рождением, старением, болезнью и гибелью и может проявлять силу, выходящую за пределы привычного понимания. a mask found in the heretical testing grounds after defeating the false god that usurped the moon. medicine is meant to cure the ailments of the flesh, yet mortal physicians turn a blind eye to the true causes of death. in the hands of a wise healer, the frail human body escapes the bounds of birth, aging, sickness, and death, revealing strength that defies common sense. 战胜僭月的伪神后，自异端的试验场内拾得的面具。 所谓医疗的目的在于消除躯体上的病症，然而俗世的医者却对真正致死的疾病视而不见。苦弱的血肉之躯，经由贤医之手不再囿于生老病死，展现出超越常理的力量。 флакон, найденный на еретическом испытательном полигоне после победы над ложным богом луны. на протяжении веков так называемые учёные пресмыкались перед шестью главными грехами, а плоды их исследований сводились к самообману, пустым рассуждениям и словам без смысла. истина не терпит ограничений. возможно, именно те, кого называют еретиками и злодеями, и есть настоящие искатели знания. a vial found in the heretical testing grounds after defeating the false god that usurped the moon. for centuries, self-proclaimed scholars have crawled beneath the weight of the six cardinal prohibitions, their studies little more than circular reasoning and empty words. the pursuit of truth should know no bounds — by this measure, those condemned as heretics by the world are the truest seekers of knowledge. 战胜僭月的伪神后，自异端的试验场内拾得的瓶剂。 千百年来，自称学者的众愚匍匐在六宗禁制的脚下，他们自欺欺人的研究不过是循环论证的文字游戏。对真理的探求绝不应受到任何限制，如此说来被世人视作异端的恶徒，才是真正的求知者。 повязка, найденная на еретическом испытательном полигоне после победы над ложным богом луны. человечество называет цивилизацией отказ от безумия, но вера в то, что всё существующее и несуществующее можно уместить в рамки разума, может оказаться лишь иной формой безумия. безумец видит фальшь разума и живёт в мире, где всё позволено. a band found in the heretical testing grounds after defeating the false god that usurped the moon. humanity defines civilization by driving out madness. yet believing that all things, whether they exist or not, can be contained within reason may itself be another form of lunacy. the madman sees through reason's cunning, and in his world, all things are permitted. 战胜僭月的伪神后，自异端的试验场内拾得的束带。 人们通过排除疯狂定义了文明，然而自以为能将一切存在与非存在皆纳入理性的筹划，或许也不过是另一形式的癫狂。狂人看穿了理性的狡计，在他的世界中一切皆允。"
   },
   {
     "id": "radiant_moongecko",
@@ -66,14 +66,24 @@
     "region": "Нод-Край",
     "item_group": "world_bosses",
     "entry_type": "enemy_drops",
-    "materials": [],
-    "material_count": 0,
+    "materials": [
+      {
+        "key": "material_1",
+        "title": {
+          "ru": "Призматический отсечённый хвост",
+          "en": "Prismatic Severed Tail",
+          "zh": "棱光的断尾"
+        },
+        "icon": "assets/icons/items/world_bosses/prismatic_severed_tail.webp"
+      }
+    ],
+    "material_count": 1,
     "tags": [],
     "languages": [
       "ru",
       "en",
       "zh"
     ],
-    "search_text": "лучезарный лунный геккон radiant moongecko 蕴光月守宫 нод-край world_bosses enemy_drops"
+    "search_text": "лучезарный лунный геккон radiant moongecko 蕴光月守宫 нод-край world_bosses enemy_drops древний монстр, тоскующий по лунному свету, геккон, обитающий в глубинах скальных пород. его тело кристаллизовалось из-за накопленной за долгое время силы куувяки. в нём образовались отдельные сегменты, подобные механическим конструкциям. эти части могут затвердевать и превращаться в каменные шипы для атаки противников. некоторые учёные считают, что предки этих необычных ящериц изначально жили на поверхности, но за тысячелетия произошедшие изменения заставили их скрыться под землёй. с тех пор они поколение за поколением обитают во тьме, постепенно забыв истинный лунный свет, однако инстинкт всё ещё побуждает их во время полнолуния поедать горные породы, омытые лунным сиянием, чтобы сохранить свой род. an ancient monster drawn to moonlight, this gecko dwells deep within layers of rock. the gradual accumulation of kuuvahki has crystallized its body into segments as precise as mechanical components. these parts can harden and form stone spikes used to repel intruders. some scholars believe this unusual lizard's ancestors once roamed the surface. over the ages, sweeping changes in the world drove them underground, where they have since lived in darkness for countless generations. though their memory of true moonlight has faded, instinct remains. on nights of the full moon, they are compelled to gnaw on rock and soil suffused with lunar radiance to preserve their bloodline. 眷恋月光的古老魔物，在岩层深处栖息的守宫。 躯体因长久以来积蓄的月矩力而发生晶化，形成如同机关构件般精密的节段，能化作岩刺攻击敌人。 有学者认为，这种奇异蜥类的祖先原本生活在地表，千年以来的沧海桑田令它们被迫遁入地底，从此之后便世代栖居于黑暗之中，逐渐忘却了真正的月光，不过本能依旧驱使着它们在满月之时啃食被月辉浸浴的岩土以维持血脉。 material_1 призматический отсечённый хвост prismatic severed tail 棱光的断尾 кристаллизованный хвостовой позвонок, оставленный лучезарным лунным гекконом при попытке к бегству после поражения. с точки зрения здравого смысла, ящерицы, эволюционировавшие до такой степени мощи, не должны больше испытывать угрозы от хищников, однако она всё ещё сохранила инстинкт самосохранения путём отбрасывания хвоста. возможно, это связано с тем, что в эпоху, когда лунный свет озарял всю землю, здесь обитали ещё более страшные хищники. a crystallized tail vertebra left behind by a defeated radiant moongecko in its attempt to escape. by all logic, a lizard that has evolved to such formidable strength should no longer face the threat of natural predators. yet it still retains the instinct to shed its tail in a bid for survival. perhaps in an age when moonlight blanketed the land, even more terrifying predators once prowled this place. 击败蕴光月守宫之后，其试图逃脱时遗留下的晶化尾椎。 以常理而言，演化至如此强大的蜥类本不应再受到天敌的威胁，然而它却依旧保留了断尾求生的本能。或许是因为在月光遍照大地的时代，此地曾存在着更加可怕的掠食者吧。"
   }
 ]
