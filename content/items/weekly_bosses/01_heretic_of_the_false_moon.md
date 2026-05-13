@@ -8,24 +8,24 @@
 # title_zh: 赝月的异端者
 # region: Нод-Край
 
-# icon: assets/icons/enemies/weekly_bosses/01_heretic_of_the_false_moon.webp
+# icon: assets/icons/enemies/01_heretic_of_the_false_moon.webp
 
 # tags: Еретик ложной луны, Дотторе, Доктор, Зандик
 
 # material_1_ru: Маска мудрого лекаря
 # material_1_en: Mask of the Virtuous Doctor
 # material_1_zh: 医的假面
-# material_1_icon: assets/icons/items/01_mask_of_the_virtuous_doctor.webp
+# material_1_icon: assets/icons/items/weekly_bosses/01_mask_of_the_virtuous_doctor.webp
 
 # material_2_ru: Еретический эликсир
 # material_2_en: Elixir of the Heretic
 # material_2_zh: 异端的瓶剂
-# material_2_icon: assets/icons/items/02_elixir_of_the_heretic.webp
+# material_2_icon: assets/icons/items/weekly_bosses/02_elixir_of_the_heretic.webp
 
 # material_3_ru: Оковы безумца
 # material_3_en: Madman's Restraint
 # material_3_zh: 材料三
-# material_3_icon: assets/icons/items/03_madmans_restraint.webp
+# material_3_icon: assets/icons/items/weekly_bosses/03_madmans_restraint.webp
 
 ---
 
