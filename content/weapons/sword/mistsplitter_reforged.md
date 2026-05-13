@@ -1,7 +1,7 @@
 # id: mistsplitter_reforged
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/mistsplitter_reforged.webp
+# icon: assets/icons/weapons/sword/mistsplitter_reforged.webp
 # title_ru: Рассекающий туман
 # title_en: Mistsplitter Reforged
 # title_zh: 雾切之回光
