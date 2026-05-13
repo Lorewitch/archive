@@ -559,6 +559,39 @@
       margin-top: 26px;
     }
 
+    .enemy-overview-card {
+      margin-bottom: 18px;
+    }
+
+    .enemy-description-panel {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 18px;
+      align-items: center;
+      padding: 16px 18px;
+      border: 1px solid rgba(91, 74, 62, .12);
+      border-radius: 14px;
+      background: rgba(203, 191, 175, .22);
+    }
+
+    .enemy-description-panel.no-icon {
+      grid-template-columns: 1fr;
+    }
+
+    .enemy-description-icon {
+      display: block;
+      width: 88px;
+      height: 88px;
+      object-fit: contain;
+      border-radius: 12px;
+      background: rgba(246, 242, 235, .52);
+      flex: 0 0 auto;
+    }
+
+    .enemy-description-panel .prose {
+      min-width: 0;
+    }
+
     .empty {
       min-height: 280px;
       display: grid;
@@ -1742,6 +1775,22 @@
         height: 72px;
       }
 
+      .enemy-description-panel {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 12px;
+        align-items: center;
+        padding: 14px;
+      }
+
+      .enemy-description-panel.no-icon {
+        grid-template-columns: 1fr;
+      }
+
+      .enemy-description-icon {
+        width: 72px;
+        height: 72px;
+      }
+
       .material-chip {
         font-size: 12px;
         padding: 5px 7px;
@@ -1771,6 +1820,21 @@
       }
 
       .weapon-description-icon {
+        width: 64px;
+        height: 64px;
+      }
+
+      .enemy-description-panel {
+        grid-template-columns: 64px minmax(0, 1fr);
+        gap: 10px;
+        padding: 12px;
+      }
+
+      .enemy-description-panel.no-icon {
+        grid-template-columns: 1fr;
+      }
+
+      .enemy-description-icon {
         width: 64px;
         height: 64px;
       }
@@ -3002,6 +3066,28 @@ function renderEnemyDropsDetail(item, config) {
     state.itemMaterial = materials[0].key;
   }
 
+  const enemyDescription = localizedEntryText(item);
+  const enemyIcon = item.icon
+    ? `<img class="enemy-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
+    : "";
+  const enemyDescriptionBlock = enemyDescription ? `
+      <article class="text-card enemy-overview-card">
+        <div class="volume-title generic-title">
+          <div class="volume-title-main"><h3>Описание</h3></div>
+          <div class="lang-control" aria-label="Язык описания">
+            <span class="toolbar-label">Язык</span>
+            <div class="lang-switch">
+              ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
+            </div>
+          </div>
+        </div>
+        <div class="enemy-description-panel${enemyIcon ? "" : " no-icon"}">
+          ${enemyIcon}
+          <div class="prose">${markdownToHtml(enemyDescription)}</div>
+        </div>
+      </article>
+  ` : "";
+
   app.innerHTML = `
     <section class="page-card book-page">
       <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(groupLabel(config, state.subsection) || config.title)}»</button>
@@ -3009,6 +3095,8 @@ function renderEnemyDropsDetail(item, config) {
         <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
         <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
       </div>
+
+      ${enemyDescriptionBlock}
 
       <div class="reader-toolbar artifact-toolbar" aria-label="Материалы противника">
         <div class="volume-strip" aria-label="Материалы">
@@ -3040,6 +3128,7 @@ function renderEnemyDropsDetail(item, config) {
   bindEnemyDropsDetail(item, config);
 }
 
+
 function renderEnemyMaterialsTextArea(item) {
   const materials = Array.isArray(item.materials) ? item.materials : [];
   const selectedMaterials = state.itemReadAll ? materials : materials.filter(material => material.key === state.itemMaterial);
@@ -3047,7 +3136,7 @@ function renderEnemyMaterialsTextArea(item) {
 
   return selectedMaterials.map((material, index) => {
     const title = escapeHtml(materialTitle(material, state.lang));
-    const text = localizedMaterialText(material) || localizedEntryText(item) || "Описание материала будет добавлено позже.";
+    const text = localizedMaterialText(material) || "Описание материала будет добавлено позже.";
     const languageControl = index === 0 ? `
       <div class="lang-control" aria-label="Язык текста">
         <span class="toolbar-label">Язык</span>
