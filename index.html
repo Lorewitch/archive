@@ -1550,7 +1550,7 @@
     }
 
 
-    /* Responsive refinements for artifact set controls */
+    /* Artifact set controls */
     .artifact-toolbar {
       overflow: visible;
     }
@@ -1776,16 +1776,7 @@
     }
 
 
-    /* v44 polish */
-    .sidebar-legal {
-      padding: 10px 11px;
-      line-height: 1.36;
-    }
-
-    .sidebar-legal p {
-      margin-bottom: 6px;
-    }
-
+    /* Sidebar, artifact controls and enemy catalog polish */
     .artifact-toolbar .volume-scroll button {
       flex: 0 0 auto;
       white-space: nowrap;
@@ -1806,7 +1797,7 @@
 
   
 
-    /* v45: final alignment polish for catalogs and mobile text controls */
+    /* Catalog alignment and mobile text controls */
     @media (min-width: 981px) {
       .catalog-row.cols-books,
       .catalog-row.cols-artifacts,
@@ -1858,7 +1849,7 @@
       }
     }
 
-    /* v46: enemy material list and mobile enemy card alignment */
+    /* Enemy material list and mobile enemy card alignment */
     @media (min-width: 981px) {
       .catalog-row.cols-items-enemy .material-list {
         display: flex;
@@ -1952,6 +1943,9 @@ let ARTIFACTS = [];
 let WEAPONS = [];
 let ITEMS = [];
 const DETAILS = new Map();
+const LOADED_SECTIONS = new Set();
+const SECTION_LOADS = new Map();
+let renderSequence = 0;
 
 async function fetchJson(path) {
   const response = await fetch(path, { cache: "no-cache" });
@@ -1974,11 +1968,34 @@ function normalizeList(data, fallbackKey) {
   return [];
 }
 
-async function loadArchiveData() {
-  BOOKS = normalizeList(await fetchJson("data/books_index.json"), "books");
-  ARTIFACTS = normalizeList(await fetchOptionalJson("data/artifacts_index.json"), "artifacts");
-  WEAPONS = normalizeList(await fetchOptionalJson("data/weapons_index.json"), "weapons");
-  ITEMS = normalizeList(await fetchOptionalJson("data/items_index.json"), "items");
+function assignSectionData(sectionId, data) {
+  const list = normalizeList(data, sectionId);
+  if (sectionId === "books") BOOKS = list;
+  if (sectionId === "artifacts") ARTIFACTS = list;
+  if (sectionId === "weapons") WEAPONS = list;
+  if (sectionId === "items") ITEMS = list;
+}
+
+async function loadSectionData(sectionId) {
+  if (LOADED_SECTIONS.has(sectionId)) return;
+  if (SECTION_LOADS.has(sectionId)) return SECTION_LOADS.get(sectionId);
+
+  const path = `data/${sectionId}_index.json`;
+  const loader = sectionId === "books" ? fetchJson : fetchOptionalJson;
+  const promise = loader(path)
+    .then(data => {
+      assignSectionData(sectionId, data);
+      LOADED_SECTIONS.add(sectionId);
+    })
+    .catch(error => {
+      if (sectionId === "books") throw error;
+      assignSectionData(sectionId, []);
+      LOADED_SECTIONS.add(sectionId);
+    })
+    .finally(() => SECTION_LOADS.delete(sectionId));
+
+  SECTION_LOADS.set(sectionId, promise);
+  return promise;
 }
 
 async function getBookById(id) {
@@ -2142,6 +2159,14 @@ const state = {
 const app = document.getElementById("app");
 const nav = document.getElementById("nav");
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
+
+function debounce(fn, delay = 160) {
+  let timer = 0;
+  return (...args) => {
+    window.clearTimeout(timer);
+    timer = window.setTimeout(() => fn(...args), delay);
+  };
+}
 
 function escapeHtml(value) {
   return String(value ?? "").replace(/[&<>'"]/g, char => ({
@@ -2325,7 +2350,7 @@ function renderTitleCell(item) {
   const subtitles = [en, zh].filter(Boolean).join(" · ");
   const icon = iconFor(item);
   const iconMarkup = icon
-    ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async">`
+    ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
   const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
   return `
@@ -2350,7 +2375,7 @@ function renderMaterialsCell(item) {
   return `
     <div class="material-list">
       ${materials.map(material => {
-        const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async">` : "";
+        const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="28" height="28">` : "";
         return `<span class="material-chip">${icon}<span>${escapeHtml(materialTitle(material, "ru"))}</span></span>`;
       }).join("")}
     </div>
@@ -2467,7 +2492,7 @@ function itemMatchesFilter(item, config, selected) {
   return value === selected;
 }
 
-function searchableText(item) {
+function fallbackSearchableText(item) {
   return [
     titleOf(item, "ru"),
     titleOf(item, "en"),
@@ -2485,16 +2510,22 @@ function searchableText(item) {
     item.related,
     ...(item.tags || []),
     ...(Array.isArray(item.materials) ? item.materials.flatMap(material => [
+      material.key,
       materialTitle(material, "ru"),
       materialTitle(material, "en"),
       materialTitle(material, "zh")
     ]) : [])
-  ].join(" ").toLowerCase();
+  ].join(" ").toLocaleLowerCase("ru-RU");
+}
+
+function searchableText(item) {
+  const prepared = String(item?.search_text || "").trim();
+  return prepared ? prepared.toLocaleLowerCase("ru-RU") : fallbackSearchableText(item);
 }
 
 function filteredEntries(config) {
   const filterState = state.filters[config.id];
-  const query = filterState.query.trim().toLowerCase();
+  const query = filterState.query.trim().toLocaleLowerCase("ru-RU");
 
   const rows = collectionForCatalog(config).filter(item => {
     const queryOk = !query || searchableText(item).includes(query);
@@ -2642,10 +2673,12 @@ function bindCatalog(config) {
   const filter = document.getElementById("catalog-filter");
   const clearSearch = document.getElementById("clear-search");
 
+  const debouncedUpdateCatalog = debounce(() => updateCatalogTable(config));
+
   search?.addEventListener("input", event => {
     filterState.query = event.target.value;
-    clearSearch.classList.toggle("visible", Boolean(filterState.query));
-    updateCatalogTable(config);
+    clearSearch?.classList.toggle("visible", Boolean(filterState.query));
+    debouncedUpdateCatalog();
   });
 
   clearSearch?.addEventListener("click", () => {
@@ -2950,7 +2983,7 @@ function renderEnemyMaterialsTextArea(item) {
         </div>
       </div>
     ` : "";
-    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async">` : "";
+    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="128" height="128">` : "";
     const notesBlock = index === 0 && generalNote ? `
       <div class="notes">
         <div class="notes-title">Заметки Лороведьмы</div>
@@ -3012,7 +3045,7 @@ function renderGenericDetail(item, config) {
   const isWeapon = config.id === "weapons";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
   const weaponIcon = isWeapon && item.icon
-    ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async">`
+    ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
         <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
@@ -3111,9 +3144,22 @@ function renderError(message) {
 }
 
 async function render() {
+  const sequence = ++renderSequence;
   parseHash();
   renderNav();
   const config = getSectionConfig();
+
+  if (!LOADED_SECTIONS.has(config.id)) {
+    renderLoading(`Загружаю раздел «${config.title}»…`);
+    try {
+      await loadSectionData(config.id);
+    } catch (error) {
+      if (sequence !== renderSequence) return;
+      renderError(error.message || "Не удалось загрузить данные раздела.");
+      return;
+    }
+    if (sequence !== renderSequence) return;
+  }
 
   if (!state.entryId && config.groups && !state.subsection) {
     renderGroupSelector(config);
@@ -3159,12 +3205,7 @@ async function render() {
 
 async function init() {
   renderLoading();
-  try {
-    await loadArchiveData();
-    await render();
-  } catch (error) {
-    renderError(error.message || "Не удалось загрузить данные архива.");
-  }
+  await render();
 }
 
 document.getElementById("open-menu")?.addEventListener("click", () => document.body.classList.add("menu-open"));
