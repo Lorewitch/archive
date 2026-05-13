@@ -1,7 +1,7 @@
 # id: peak_patrol_song
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/peak_patrol_song.webp
+# icon: assets/icons/weapons/sword/peak_patrol_song.webp
 # title_ru: Песнь патруля пиков
 # title_en: Peak Patrol Song
 # title_zh: 岩峰巡歌
