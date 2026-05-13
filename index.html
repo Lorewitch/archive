@@ -592,6 +592,51 @@
       min-width: 0;
     }
 
+    .enemy-description-content {
+      min-width: 0;
+    }
+
+    .enemy-description-text {
+      position: relative;
+    }
+
+    .enemy-description-panel.is-collapsed .enemy-description-text {
+      max-height: 9.2em;
+      overflow: hidden;
+    }
+
+    .enemy-description-panel.is-collapsed .enemy-description-text::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 3.4em;
+      pointer-events: none;
+      background: linear-gradient(to bottom, rgba(239, 232, 222, 0), rgba(239, 232, 222, .96));
+    }
+
+    .enemy-description-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 10px;
+      border: 0;
+      padding: 0;
+      background: transparent;
+      color: var(--accent);
+      font-weight: 900;
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+
+    .enemy-description-toggle:hover,
+    .enemy-description-toggle:focus-visible {
+      color: var(--ink);
+      outline: none;
+    }
+
     .enemy-overview-card.enemy-description-panel {
       margin: 0 0 18px;
     }
@@ -3059,6 +3104,19 @@ function localizedMaterialText(material) {
   return text || "";
 }
 
+
+function plainTextLength(value) {
+  return String(value ?? "")
+    .replace(/[#*_`>\-–—\[\]()]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+    .length;
+}
+
+function isLongEnemyDescription(value) {
+  return plainTextLength(value) > 520;
+}
+
 function renderEnemyDropsDetail(item, config) {
   const materials = Array.isArray(item.materials) ? item.materials : [];
   if (!materials.length) {
@@ -3071,13 +3129,17 @@ function renderEnemyDropsDetail(item, config) {
   }
 
   const enemyDescription = localizedEntryText(item);
+  const enemyDescriptionIsLong = isLongEnemyDescription(enemyDescription);
   const enemyIcon = item.icon
     ? `<img class="enemy-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
   const enemyDescriptionBlock = enemyDescription ? `
-      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}">
+      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}${enemyDescriptionIsLong ? " is-collapsible is-collapsed" : ""}">
         ${enemyIcon}
-        <div class="prose">${markdownToHtml(enemyDescription)}</div>
+        <div class="enemy-description-content">
+          <div class="prose enemy-description-text">${markdownToHtml(enemyDescription)}</div>
+          ${enemyDescriptionIsLong ? `<button class="enemy-description-toggle" type="button" aria-expanded="false">Показать полностью</button>` : ""}
+        </div>
       </div>
   ` : "";
 
@@ -3184,6 +3246,17 @@ function fitItemMaterialTabs() {
 
 function bindEnemyDropsDetail(item, config) {
   fitItemMaterialTabs();
+
+  document.querySelectorAll(".enemy-description-toggle").forEach(button => {
+    button.addEventListener("click", () => {
+      const panel = button.closest(".enemy-description-panel");
+      if (!panel) return;
+
+      const isCollapsed = panel.classList.toggle("is-collapsed");
+      button.setAttribute("aria-expanded", String(!isCollapsed));
+      button.textContent = isCollapsed ? "Показать полностью" : "Свернуть";
+    });
+  });
 
   document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id, null, state.subsection));
 
