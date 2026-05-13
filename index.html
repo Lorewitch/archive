@@ -554,6 +554,10 @@
       min-width: 0;
     }
 
+    .weapon-detail-main-text {
+      margin-top: 26px;
+    }
+
     .empty {
       min-height: 280px;
       display: grid;
@@ -2218,6 +2222,21 @@ function markdownToHtml(value) {
 }
 
 
+function splitWeaponDescriptionText(value) {
+  const raw = String(value ?? "").replace(/\r\n/g, "\n").trim();
+  if (!raw) return { description: "", details: "" };
+
+  const headingMatch = raw.match(/^#{2,4}\s+.+$/m);
+  if (!headingMatch || headingMatch.index === undefined) {
+    return { description: raw, details: "" };
+  }
+
+  return {
+    description: raw.slice(0, headingMatch.index).trim(),
+    details: raw.slice(headingMatch.index).trim()
+  };
+}
+
 
 function isTemplatePublicNote(value) {
   const text = String(value ?? "")
@@ -2976,14 +2995,22 @@ function renderGenericDetail(item, config) {
     </div>
   ` : "";
   const isWeapon = config.id === "weapons";
+  const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
   const weaponIcon = isWeapon && item.icon
     ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy">`
     : "";
-  const bodyBlock = isWeapon ? `
+  const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
         <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
           ${weaponIcon}
-          <div class="prose">${markdownToHtml(text)}</div>
+          <div class="prose">${markdownToHtml(weaponTextParts.description)}</div>
         </div>
+  ` : "";
+  const weaponDetailsBlock = isWeapon && weaponTextParts.details ? `
+        <div class="prose weapon-detail-main-text">${markdownToHtml(weaponTextParts.details)}</div>
+  ` : "";
+  const bodyBlock = isWeapon ? `
+        ${weaponDescriptionBlock || weaponDetailsBlock || `<div class="prose">${markdownToHtml(text)}</div>`}
+        ${weaponDescriptionBlock ? weaponDetailsBlock : ""}
   ` : `
         <div class="prose">${markdownToHtml(text)}</div>
   `;
