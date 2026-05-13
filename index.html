@@ -525,22 +525,33 @@
       margin: 2px 24px 14px 0;
     }
 
-    /* v1: floating weapon icon inside the weapon description */
-    .weapon-reader-body::after {
-      content: "";
-      display: block;
-      clear: both;
+    .weapon-description-panel {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 20px;
+      align-items: start;
+      padding: 18px 20px;
+      border: 1px solid rgba(91, 74, 62, .12);
+      border-radius: 14px;
+      background: rgba(203, 191, 175, .22);
     }
 
-    .weapon-float-icon {
-      float: left;
+    .weapon-description-panel.no-icon {
+      grid-template-columns: 1fr;
+    }
+
+    .weapon-description-icon {
       display: block;
-      width: auto;
-      height: auto;
-      max-width: none;
-      max-height: none;
+      width: 104px;
+      height: 104px;
       object-fit: contain;
-      margin: 2px 24px 14px 0;
+      border-radius: 12px;
+      background: rgba(246, 242, 235, .52);
+      flex: 0 0 auto;
+    }
+
+    .weapon-description-panel .prose {
+      min-width: 0;
     }
 
     .empty {
@@ -1710,8 +1721,15 @@
         margin: 0 14px 10px 0;
       }
 
-      .weapon-float-icon {
-        margin: 0 14px 10px 0;
+      .weapon-description-panel {
+        grid-template-columns: 1fr;
+        gap: 14px;
+        padding: 16px;
+      }
+
+      .weapon-description-icon {
+        width: 86px;
+        height: 86px;
       }
 
       .material-chip {
@@ -1730,6 +1748,11 @@
       .material-float-icon {
         width: 78px;
         height: 78px;
+      }
+
+      .weapon-description-icon {
+        width: 76px;
+        height: 76px;
       }
     }
 
@@ -2946,18 +2969,24 @@ function renderGenericDetail(item, config) {
 
   const text = localizedEntryText(item) || "Текст этой записи будет добавлен позже.";
   const noteText = genericNotes(item);
-  const isWeaponDetail = config.id === "weapons";
-  const weaponIcon = isWeaponDetail ? iconFor(item) : "";
-  const weaponIconMarkup = weaponIcon
-    ? `<img class="weapon-float-icon" src="${escapeHtml(weaponIcon)}" alt="${escapeHtml(titleOf(item, state.lang))}" loading="lazy">`
-    : "";
-  const proseClass = isWeaponDetail ? "prose weapon-reader-body" : "prose";
   const notesBlock = noteText ? `
     <div class="notes">
       <div class="notes-title">Заметки Лороведьмы</div>
       <div class="notes-body">${markdownToHtml(noteText)}</div>
     </div>
   ` : "";
+  const isWeapon = config.id === "weapons";
+  const weaponIcon = isWeapon && item.icon
+    ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy">`
+    : "";
+  const bodyBlock = isWeapon ? `
+        <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
+          ${weaponIcon}
+          <div class="prose">${markdownToHtml(text)}</div>
+        </div>
+  ` : `
+        <div class="prose">${markdownToHtml(text)}</div>
+  `;
 
   app.innerHTML = `
     <section class="page-card book-page">
@@ -2976,7 +3005,7 @@ function renderGenericDetail(item, config) {
             </div>
           </div>
         </div>
-        <div class="${proseClass}">${weaponIconMarkup}${markdownToHtml(text)}</div>
+        ${bodyBlock}
         ${notesBlock}
       </article>
     </section>
