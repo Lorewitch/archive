@@ -1,7 +1,7 @@
 # id: skyward_blade
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/skyward_blade.webp
+# icon: assets/icons/weapons/sword/skyward_blade.webp
 # title_ru: Небесный меч
 # title_en: Skyward Blade
 # title_zh: 天空之刃
