@@ -1,7 +1,7 @@
 # id: absolution
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/absolution.webp
+# icon: assets/icons/weapons/sword/absolution.webp
 # title_ru: Отпущение грехов
 # title_en: Absolution
 # title_zh: 赦罪
