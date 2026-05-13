@@ -42,5 +42,316 @@
       "en",
       "zh"
     ]
+  },
+  {
+    "id": "aquila_favonia",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/aquila_favonia.webp",
+    "title": {
+      "ru": "Меч Сокола",
+      "en": "Aquila Favonia",
+      "zh": "风鹰剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "athame_artis",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/athame_artis.webp",
+    "title": {
+      "ru": "Атаме артис",
+      "en": "Athame Artis",
+      "zh": "黑蚀"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Дурин"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "azurelight",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/azurelight.webp",
+    "title": {
+      "ru": "Лазурное сияние",
+      "en": "Azurelight",
+      "zh": "苍耀"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Скирк",
+      "ангел",
+      "Койтар"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "freedom_sworn",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/freedom_sworn.webp",
+    "title": {
+      "ru": "Клятва свободы",
+      "en": "Freedom-Sworn",
+      "zh": "苍古自由之誓"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Кадзуха"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "haran_geppaku_futsu",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/haran_geppaku_futsu.webp",
+    "title": {
+      "ru": "Харан гэппаку фуцу",
+      "en": "Haran Geppaku Futsu",
+      "zh": "波乱月白经津"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Аято"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "key_of_khaj_nisut",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/key_of_khaj_nisut.webp",
+    "title": {
+      "ru": "Ключ Хадж-нисут",
+      "en": "Key of Khaj-Nisut",
+      "zh": "圣显之钥"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Нилу"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "light_of_foliar_incision",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/light_of_foliar_incision.webp",
+    "title": {
+      "ru": "Свет лиственного разреза",
+      "en": "Light of Foliar Incision",
+      "zh": "裁叶萃光"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Аль-Хайтам",
+      "Хайтам"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "lightbearing_moonshard",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/lightbearing_moonshard.webp",
+    "title": {
+      "ru": "Светоносный осколок луны",
+      "en": "Lightbearing Moonshard",
+      "zh": "朏魄含光"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "белая лошадь",
+      "Цзы Бай"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "mistsplitter_reforged",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/mistsplitter_reforged.webp",
+    "title": {
+      "ru": "Рассекающий туман",
+      "en": "Mistsplitter Reforged",
+      "zh": "雾切之回光"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Аяка"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "peak_patrol_song",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/peak_patrol_song.webp",
+    "title": {
+      "ru": "Песнь патруля пиков",
+      "en": "Peak Patrol Song",
+      "zh": "岩峰巡歌"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Шилонен"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "primordial_jade_cutter",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/primordial_jade_cutter.webp",
+    "title": {
+      "ru": "Драгоценный омут",
+      "en": "Primordial Jade Cutter",
+      "zh": "磐岩结绿"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "skyward_blade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/skyward_blade.webp",
+    "title": {
+      "ru": "Небесный меч",
+      "en": "Skyward Blade",
+      "zh": "天空之刃"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "splendor_of_tranquil_waters",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/splendor_of_tranquil_waters.webp",
+    "title": {
+      "ru": "Блеск тихих вод",
+      "en": "Splendor of Tranquil Waters",
+      "zh": "静水流涌之辉"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Фурина"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "summit_shaper",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/summit_shaper.webp",
+    "title": {
+      "ru": "Кромсатель пиков",
+      "en": "Summit Shaper",
+      "zh": "斫峰之刃"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
+  },
+  {
+    "id": "uraku_misugiri",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/uraku_misugiri.webp",
+    "title": {
+      "ru": "Ураку мисугири",
+      "en": "Uraku Misugiri",
+      "zh": "有乐御簾切"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 5,
+    "tags": [
+      "Тиори"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ]
   }
 ]
