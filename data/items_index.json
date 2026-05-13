@@ -66,24 +66,14 @@
     "region": "Нод-Край",
     "item_group": "world_bosses",
     "entry_type": "enemy_drops",
-    "materials": [
-      {
-        "key": "material_1",
-        "title": {
-          "ru": "Призматический отсечённый хвост",
-          "en": "Prismatic Severed Tail",
-          "zh": "棱光的断尾"
-        },
-        "icon": "assets/icons/items/world_bosses/prismatic_severed_tail.webp"
-      }
-    ],
-    "material_count": 1,
+    "materials": [],
+    "material_count": 0,
     "tags": [],
     "languages": [
       "ru",
       "en",
       "zh"
     ],
-    "search_text": "лучезарный лунный геккон radiant moongecko 蕴光月守宫 нод-край world_bosses enemy_drops material_1 призматический отсечённый хвост prismatic severed tail 棱光的断尾"
+    "search_text": "лучезарный лунный геккон radiant moongecko 蕴光月守宫 нод-край world_bosses enemy_drops"
   }
 ]
