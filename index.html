@@ -198,18 +198,18 @@
     }
 
     .sidebar-legal {
-      margin-top: 18px;
-      padding: 13px 14px;
+      margin-top: 14px;
+      padding: 10px 11px;
       border: 1px solid rgba(91, 74, 62, .18);
       border-radius: var(--radius-control);
       background: rgba(203, 191, 175, .42);
       color: var(--accent);
-      font-size: 11.5px;
-      line-height: 1.48;
+      font-size: 11px;
+      line-height: 1.36;
     }
 
     .sidebar-legal p {
-      margin: 0 0 8px;
+      margin: 0 0 6px;
     }
 
     .sidebar-legal p:last-child {
@@ -360,7 +360,7 @@
 
     .catalog-row {
       display: grid;
-      grid-template-columns: var(--catalog-columns, minmax(240px, 1.9fr) minmax(180px, 1fr) 90px minmax(150px, .8fr));
+      grid-template-columns: var(--catalog-columns, minmax(260px, 1.9fr) minmax(180px, 1fr) 90px);
       gap: 16px;
       align-items: center;
       min-width: 0;
@@ -369,23 +369,23 @@
     }
 
     .catalog-row.cols-books {
-      --catalog-columns: minmax(240px, 1.9fr) minmax(180px, 1fr) 90px minmax(150px, .8fr);
+      --catalog-columns: minmax(260px, 1.9fr) minmax(180px, 1fr) 90px;
     }
 
     .catalog-row.cols-artifacts {
-      --catalog-columns: minmax(240px, 1.8fr) minmax(170px, 1fr) 120px minmax(150px, .8fr);
+      --catalog-columns: minmax(260px, 1.8fr) minmax(170px, 1fr) 120px;
     }
 
     .catalog-row.cols-weapons {
-      --catalog-columns: minmax(240px, 1.8fr) minmax(160px, .9fr) 100px minmax(150px, .8fr);
+      --catalog-columns: minmax(260px, 1.8fr) minmax(160px, .9fr) 100px;
     }
 
     .catalog-row.cols-items {
-      --catalog-columns: minmax(240px, 1.8fr) minmax(220px, 1.1fr) minmax(160px, .8fr);
+      --catalog-columns: minmax(260px, 1.8fr) minmax(180px, .9fr);
     }
 
     .catalog-row.cols-items-enemy {
-      --catalog-columns: minmax(240px, 1.55fr) minmax(260px, 1.45fr) minmax(150px, .8fr) minmax(140px, .7fr);
+      --catalog-columns: minmax(260px, 1.35fr) minmax(300px, 1.25fr) minmax(150px, .75fr);
     }
 
     .catalog-row:last-child {
@@ -1711,6 +1711,35 @@
       }
     }
 
+
+    /* v44 polish */
+    .sidebar-legal {
+      padding: 10px 11px;
+      line-height: 1.36;
+    }
+
+    .sidebar-legal p {
+      margin-bottom: 6px;
+    }
+
+    .artifact-toolbar .volume-scroll button {
+      flex: 0 0 auto;
+      white-space: nowrap;
+      max-width: 100%;
+    }
+
+    .catalog-row.cols-items-enemy .material-list {
+      align-items: flex-start;
+    }
+
+    @media (max-width: 620px) {
+      .sidebar-legal {
+        padding: 9px 10px;
+        font-size: 10px;
+        line-height: 1.32;
+      }
+    }
+
   </style>
 </head>
 <body>
@@ -1849,13 +1878,12 @@ const SECTIONS = [
     defaultGroup: "book_series",
     filter: "region",
     filterLabel: "Все регионы",
-    columns: ["Название", "Регион", "Томов", "Языки"],
+    columns: ["Название", "Регион", "Томов"],
     empty: "В этом подразделе пока нет текстов.",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
-      escapeHtml(item.volume_count || item.volumes?.length || 1),
-      renderLangPills(item.languages)
+      escapeHtml(item.volume_count || item.volumes?.length || 1)
     ]
   },
   {
@@ -1866,13 +1894,12 @@ const SECTIONS = [
     data: () => ARTIFACTS,
     filter: "region",
     filterLabel: "Все регионы",
-    columns: ["Название", "Регион", "Частей", "Языки"],
+    columns: ["Название", "Регион", "Частей"],
     empty: "Артефакты пока не добавлены.",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
       escapeHtml(item.piece_count || item.parts_count || item.count || "—"),
-      renderLangPills(item.languages)
     ]
   },
   {
@@ -1884,13 +1911,12 @@ const SECTIONS = [
     filter: "weapon_type",
     filterLabel: "Все типы",
     fixedOptions: WEAPON_TYPES,
-    columns: ["Название", "Тип", "Редкость", "Языки"],
+    columns: ["Название", "Тип", "Редкость"],
     empty: "Оружие пока не добавлено.",
     row: item => [
       renderTitleCell(item),
       escapeHtml(labelFromOptions(item.weapon_type || item.type, WEAPON_TYPES) || item.weapon_type || item.type || "—"),
       escapeHtml(item.rarity ? `${item.rarity}★` : "—"),
-      renderLangPills(item.languages)
     ]
   },
   {
@@ -1904,17 +1930,15 @@ const SECTIONS = [
     defaultGroup: "misc",
     filter: "region",
     filterLabel: "Все регионы",
-    columns: () => isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион", "Языки"] : ["Название", "Регион", "Языки"],
+    columns: () => isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион"] : ["Название", "Регион"],
     empty: "В этой категории пока нет предметов.",
     row: item => isEnemyDropGroup(state.subsection) ? [
       renderTitleCell(item),
       renderMaterialsCell(item),
       escapeHtml(item.region || "—"),
-      renderLangPills(item.languages)
     ] : [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
-      renderLangPills(item.languages)
     ]
   }
 ];
