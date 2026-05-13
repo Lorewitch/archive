@@ -2325,7 +2325,7 @@ function renderTitleCell(item) {
   const subtitles = [en, zh].filter(Boolean).join(" · ");
   const icon = iconFor(item);
   const iconMarkup = icon
-    ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy">`
+    ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
   const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
   return `
@@ -2350,7 +2350,7 @@ function renderMaterialsCell(item) {
   return `
     <div class="material-list">
       ${materials.map(material => {
-        const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy">` : "";
+        const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async">` : "";
         return `<span class="material-chip">${icon}<span>${escapeHtml(materialTitle(material, "ru"))}</span></span>`;
       }).join("")}
     </div>
@@ -2421,7 +2421,7 @@ function parseHash() {
 function renderNav() {
   nav.innerHTML = SECTIONS.map(section => `
     <button class="nav-item ${state.section === section.id ? "active" : ""}" type="button" data-section="${section.id}">
-      <span class="nav-left"><img class="nav-icon" src="${section.icon}" alt="" loading="lazy">${section.title}</span>
+      <span class="nav-left"><img class="nav-icon" src="${section.icon}" alt="">${section.title}</span>
       <span>›</span>
     </button>
   `).join("");
@@ -2950,7 +2950,7 @@ function renderEnemyMaterialsTextArea(item) {
         </div>
       </div>
     ` : "";
-    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy">` : "";
+    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async">` : "";
     const notesBlock = index === 0 && generalNote ? `
       <div class="notes">
         <div class="notes-title">Заметки Лороведьмы</div>
@@ -3012,7 +3012,7 @@ function renderGenericDetail(item, config) {
   const isWeapon = config.id === "weapons";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
   const weaponIcon = isWeapon && item.icon
-    ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy">`
+    ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async">`
     : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
         <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
