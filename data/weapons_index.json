@@ -20,7 +20,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "золотая клятва льда dawn's salutation returned 与君致意的黎明 bow 5 лук линнея аркадия"
   },
   {
     "id": "absolution",
@@ -41,7 +42,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "отпущение грехов absolution 赦罪 sword 5 клоринда"
   },
   {
     "id": "aquila_favonia",
@@ -60,7 +62,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "меч сокола aquila favonia 风鹰剑 sword 5"
   },
   {
     "id": "athame_artis",
@@ -81,7 +84,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "атаме артис athame artis 黑蚀 sword 5 дурин"
   },
   {
     "id": "azurelight",
@@ -104,7 +108,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "лазурное сияние azurelight 苍耀 sword 5 скирк ангел койтар"
   },
   {
     "id": "freedom_sworn",
@@ -125,7 +130,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "клятва свободы freedom-sworn 苍古自由之誓 sword 5 кадзуха"
   },
   {
     "id": "haran_geppaku_futsu",
@@ -146,7 +152,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "харан гэппаку фуцу haran geppaku futsu 波乱月白经津 sword 5 аято"
   },
   {
     "id": "key_of_khaj_nisut",
@@ -167,7 +174,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "ключ хадж-нисут key of khaj-nisut 圣显之钥 sword 5 нилу"
   },
   {
     "id": "light_of_foliar_incision",
@@ -189,7 +197,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "свет лиственного разреза light of foliar incision 裁叶萃光 sword 5 аль-хайтам хайтам"
   },
   {
     "id": "lightbearing_moonshard",
@@ -211,7 +220,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "светоносный осколок луны lightbearing moonshard 朏魄含光 sword 5 белая лошадь цзы бай"
   },
   {
     "id": "mistsplitter_reforged",
@@ -232,7 +242,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "рассекающий туман mistsplitter reforged 雾切之回光 sword 5 аяка"
   },
   {
     "id": "peak_patrol_song",
@@ -253,7 +264,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "песнь патруля пиков peak patrol song 岩峰巡歌 sword 5 шилонен"
   },
   {
     "id": "primordial_jade_cutter",
@@ -272,7 +284,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "драгоценный омут primordial jade cutter 磐岩结绿 sword 5"
   },
   {
     "id": "skyward_blade",
@@ -291,7 +304,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "небесный меч skyward blade 天空之刃 sword 5"
   },
   {
     "id": "splendor_of_tranquil_waters",
@@ -312,7 +326,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "блеск тихих вод splendor of tranquil waters 静水流涌之辉 sword 5 фурина"
   },
   {
     "id": "summit_shaper",
@@ -331,7 +346,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "кромсатель пиков summit shaper 斫峰之刃 sword 5"
   },
   {
     "id": "uraku_misugiri",
@@ -352,6 +368,7 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword 5 тиори"
   }
 ]

@@ -23,7 +23,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "путеводитель по тейвату teyvat travel guide 提瓦特游览指南 мондштадт, ли юэ, инадзума book_series книги мондштадт ли юэ инадзума путеводитель том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "02_the_tale_of_qoyllor_and_ukuku",
@@ -47,7 +48,8 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "история о койллор и укуку the tale of qoyllor and ukuku 奎伊露和乌库库的故事 натлан book_series койллор укуку том 1 vol. 1 卷一"
   },
   {
     "id": "03_the_tale_of_kuntur",
@@ -70,6 +72,7 @@
       "ru",
       "en",
       "zh"
-    ]
+    ],
+    "search_text": "сказание о кунтуре the tale of kuntur 昆图尔的故事 натлан book_series кунтур том 1 vol. 1 卷一"
   }
 ]
