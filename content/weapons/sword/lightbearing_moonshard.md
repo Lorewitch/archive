@@ -1,7 +1,7 @@
 # id: lightbearing_moonshard
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/lightbearing_moonshard.webp
+# icon: assets/icons/weapons/sword/lightbearing_moonshard.webp
 # title_ru: Светоносный осколок луны
 # title_en: Lightbearing Moonshard
 # title_zh: 朏魄含光
