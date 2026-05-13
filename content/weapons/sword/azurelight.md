@@ -1,7 +1,7 @@
 # id: azurelight
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/azurelight.webp
+# icon: assets/icons/weapons/sword/azurelight.webp
 # title_ru: Лазурное сияние
 # title_en: Azurelight
 # title_zh: 苍耀
