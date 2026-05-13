@@ -1,7 +1,7 @@
 # id: summit_shaper
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/summit_shaper.webp
+# icon: assets/icons/weapons/sword/summit_shaper.webp
 # title_ru: Кромсатель пиков
 # title_en: Summit Shaper
 # title_zh: 斫峰之刃
