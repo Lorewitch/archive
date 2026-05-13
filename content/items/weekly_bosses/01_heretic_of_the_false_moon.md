@@ -8,7 +8,7 @@
 # title_zh: 赝月的异端者
 # region: Нод-Край
 
-# icon: assets/icons/enemies/01_heretic_of_the_false_moon.webp
+# icon: assets/icons/enemies/weekly_bosses/01_heretic_of_the_false_moon.webp
 
 # tags: Еретик ложной луны, Дотторе, Доктор, Зандик
 
