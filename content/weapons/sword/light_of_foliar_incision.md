@@ -1,7 +1,7 @@
 # id: light_of_foliar_incision
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/light_of_foliar_incision.webp
+# icon: assets/icons/weapons/sword/light_of_foliar_incision.webp
 # title_ru: Свет лиственного разреза
 # title_en: Light of Foliar Incision
 # title_zh: 裁叶萃光
