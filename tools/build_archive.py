@@ -596,6 +596,40 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     return entry
 
 
+def iter_search_parts(value: Any):
+    if value is None:
+        return
+    if isinstance(value, str):
+        text = value.strip()
+        if text:
+            yield text
+        return
+    if isinstance(value, (int, float)):
+        yield str(value)
+        return
+    if isinstance(value, dict):
+        for item in value.values():
+            yield from iter_search_parts(item)
+        return
+    if isinstance(value, (list, tuple, set)):
+        for item in value:
+            yield from iter_search_parts(item)
+        return
+
+
+def make_search_text(*values: Any) -> str:
+    parts: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        for part in iter_search_parts(value):
+            normalized = re.sub(r"\s+", " ", part).strip().casefold()
+            if normalized and normalized not in seen:
+                seen.add(normalized)
+                parts.append(normalized)
+    return " ".join(parts)
+
+
+
 def index_book(book: dict[str, Any]) -> dict[str, Any]:
     return {
         "id": book["id"],
@@ -608,6 +642,14 @@ def index_book(book: dict[str, Any]) -> dict[str, Any]:
         "volume_count": book.get("volume_count", 1),
         "tags": book.get("tags", []),
         "languages": book.get("languages", LANGS),
+        "search_text": make_search_text(
+            book.get("title", {}),
+            book.get("region", ""),
+            book.get("subtype", ""),
+            book.get("book_type", ""),
+            book.get("tags", []),
+            [volume.get("title", {}) for volume in book.get("volumes", [])],
+        ),
     }
 
 
@@ -621,6 +663,12 @@ def index_artifact(item: dict[str, Any]) -> dict[str, Any]:
         "piece_count": item.get("piece_count", 5),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
+        "search_text": make_search_text(
+            item.get("title", {}),
+            item.get("region", ""),
+            item.get("tags", []),
+            [part.get("title", {}) for part in item.get("parts", [])],
+        ),
     }
 
 
@@ -635,6 +683,13 @@ def index_weapon(item: dict[str, Any]) -> dict[str, Any]:
         "rarity": item.get("rarity"),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
+        "search_text": make_search_text(
+            item.get("title", {}),
+            item.get("weapon_type", ""),
+            item.get("type", ""),
+            item.get("rarity", ""),
+            item.get("tags", []),
+        ),
     }
 
 
@@ -658,6 +713,16 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "material_count": item.get("material_count", len(item.get("materials", []))),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
+        "search_text": make_search_text(
+            item.get("title", {}),
+            item.get("region", ""),
+            item.get("item_group", ""),
+            item.get("entry_type", ""),
+            item.get("item_type", ""),
+            item.get("tags", []),
+            [material.get("key", "") for material in item.get("materials", [])],
+            [material.get("title", {}) for material in item.get("materials", [])],
+        ),
     }
 
 
