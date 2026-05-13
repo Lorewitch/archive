@@ -1,7 +1,7 @@
 # id: key_of_khaj_nisut
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/key_of_khaj_nisut.webp
+# icon: assets/icons/weapons/sword/key_of_khaj_nisut.webp
 # title_ru: Ключ Хадж-нисут
 # title_en: Key of Khaj-Nisut
 # title_zh: 圣显之钥
