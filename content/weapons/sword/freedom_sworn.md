@@ -1,7 +1,7 @@
 # id: freedom_sworn
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/freedom_sworn.webp
+# icon: assets/icons/weapons/sword/freedom_sworn.webp
 # title_ru: Клятва свободы
 # title_en: Freedom-Sworn
 # title_zh: 苍古自由之誓
