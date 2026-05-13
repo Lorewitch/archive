@@ -525,6 +525,24 @@
       margin: 2px 24px 14px 0;
     }
 
+    /* v1: floating weapon icon inside the weapon description */
+    .weapon-reader-body::after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+
+    .weapon-float-icon {
+      float: left;
+      display: block;
+      width: auto;
+      height: auto;
+      max-width: none;
+      max-height: none;
+      object-fit: contain;
+      margin: 2px 24px 14px 0;
+    }
+
     .empty {
       min-height: 280px;
       display: grid;
@@ -1689,6 +1707,10 @@
       .material-float-icon {
         width: 92px;
         height: 92px;
+        margin: 0 14px 10px 0;
+      }
+
+      .weapon-float-icon {
         margin: 0 14px 10px 0;
       }
 
@@ -2924,6 +2946,12 @@ function renderGenericDetail(item, config) {
 
   const text = localizedEntryText(item) || "Текст этой записи будет добавлен позже.";
   const noteText = genericNotes(item);
+  const isWeaponDetail = config.id === "weapons";
+  const weaponIcon = isWeaponDetail ? iconFor(item) : "";
+  const weaponIconMarkup = weaponIcon
+    ? `<img class="weapon-float-icon" src="${escapeHtml(weaponIcon)}" alt="${escapeHtml(titleOf(item, state.lang))}" loading="lazy">`
+    : "";
+  const proseClass = isWeaponDetail ? "prose weapon-reader-body" : "prose";
   const notesBlock = noteText ? `
     <div class="notes">
       <div class="notes-title">Заметки Лороведьмы</div>
@@ -2948,7 +2976,7 @@ function renderGenericDetail(item, config) {
             </div>
           </div>
         </div>
-        <div class="prose">${markdownToHtml(text)}</div>
+        <div class="${proseClass}">${weaponIconMarkup}${markdownToHtml(text)}</div>
         ${notesBlock}
       </article>
     </section>
