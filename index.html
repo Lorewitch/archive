@@ -1740,7 +1740,60 @@
       }
     }
 
-  </style>
+  
+
+    /* v45: final alignment polish for catalogs and mobile text controls */
+    @media (min-width: 981px) {
+      .catalog-row.cols-books,
+      .catalog-row.cols-artifacts,
+      .catalog-row.cols-weapons {
+        --catalog-columns: minmax(320px, 1.55fr) minmax(220px, .95fr) minmax(120px, .45fr);
+      }
+
+      .catalog-row.cols-items {
+        --catalog-columns: minmax(320px, 1.55fr) minmax(220px, .95fr);
+      }
+
+      .catalog-row.cols-items-enemy {
+        --catalog-columns: minmax(320px, 1.25fr) minmax(360px, 1.2fr) minmax(160px, .5fr);
+      }
+
+      .catalog-row > div {
+        min-width: 0;
+      }
+
+      .catalog-row > div:last-child {
+        justify-self: start;
+      }
+    }
+
+    @media (max-width: 700px) {
+      .weapons-detail-card .volume-title.generic-title {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+      }
+
+      .weapons-detail-card .volume-title-main,
+      .weapons-detail-card .volume-title-main h3 {
+        width: 100%;
+      }
+
+      .weapons-detail-card .lang-control {
+        width: 100%;
+        margin-left: 0;
+        justify-content: flex-start;
+        align-self: stretch;
+        overflow: visible;
+      }
+
+      .weapons-detail-card .lang-switch {
+        flex-wrap: wrap;
+        overflow: visible;
+      }
+    }
+</style>
 </head>
 <body>
   <div class="mobile-top">
@@ -2825,7 +2878,7 @@ function renderGenericDetail(item, config) {
         <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
         <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
       </div>
-      <article class="text-card">
+      <article class="text-card generic-text-card ${config.id}-detail-card">
         <div class="volume-title generic-title">
           <div class="volume-title-main"><h3>${config.id === "weapons" ? "Описание" : "Текст"}</h3></div>
           <div class="lang-control" aria-label="Язык текста">
