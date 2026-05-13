@@ -528,9 +528,9 @@
     .weapon-description-panel {
       display: grid;
       grid-template-columns: auto minmax(0, 1fr);
-      gap: 20px;
-      align-items: start;
-      padding: 18px 20px;
+      gap: 18px;
+      align-items: center;
+      padding: 16px 18px;
       border: 1px solid rgba(91, 74, 62, .12);
       border-radius: 14px;
       background: rgba(203, 191, 175, .22);
@@ -542,8 +542,8 @@
 
     .weapon-description-icon {
       display: block;
-      width: 104px;
-      height: 104px;
+      width: 88px;
+      height: 88px;
       object-fit: contain;
       border-radius: 12px;
       background: rgba(246, 242, 235, .52);
@@ -1726,14 +1726,19 @@
       }
 
       .weapon-description-panel {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 12px;
+        align-items: center;
+        padding: 14px;
+      }
+
+      .weapon-description-panel.no-icon {
         grid-template-columns: 1fr;
-        gap: 14px;
-        padding: 16px;
       }
 
       .weapon-description-icon {
-        width: 86px;
-        height: 86px;
+        width: 72px;
+        height: 72px;
       }
 
       .material-chip {
@@ -1754,9 +1759,19 @@
         height: 78px;
       }
 
+      .weapon-description-panel {
+        grid-template-columns: 64px minmax(0, 1fr);
+        gap: 10px;
+        padding: 12px;
+      }
+
+      .weapon-description-panel.no-icon {
+        grid-template-columns: 1fr;
+      }
+
       .weapon-description-icon {
-        width: 76px;
-        height: 76px;
+        width: 64px;
+        height: 64px;
       }
     }
 
