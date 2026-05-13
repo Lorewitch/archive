@@ -1,7 +1,7 @@
 # id: aquila_favonia
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/aquila_favonia.webp
+# icon: assets/icons/weapons/sword/aquila_favonia.webp
 # title_ru: Меч Сокола
 # title_en: Aquila Favonia
 # title_zh: 风鹰剑
