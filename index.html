@@ -592,6 +592,10 @@
       min-width: 0;
     }
 
+    .enemy-overview-card.enemy-description-panel {
+      margin: 0 0 18px;
+    }
+
     .empty {
       min-height: 280px;
       display: grid;
@@ -3071,21 +3075,10 @@ function renderEnemyDropsDetail(item, config) {
     ? `<img class="enemy-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
   const enemyDescriptionBlock = enemyDescription ? `
-      <article class="text-card enemy-overview-card">
-        <div class="volume-title generic-title">
-          <div class="volume-title-main"><h3>Описание</h3></div>
-          <div class="lang-control" aria-label="Язык описания">
-            <span class="toolbar-label">Язык</span>
-            <div class="lang-switch">
-              ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
-            </div>
-          </div>
-        </div>
-        <div class="enemy-description-panel${enemyIcon ? "" : " no-icon"}">
-          ${enemyIcon}
-          <div class="prose">${markdownToHtml(enemyDescription)}</div>
-        </div>
-      </article>
+      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}">
+        ${enemyIcon}
+        <div class="prose">${markdownToHtml(enemyDescription)}</div>
+      </div>
   ` : "";
 
   app.innerHTML = `
