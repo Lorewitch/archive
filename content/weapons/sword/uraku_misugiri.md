@@ -1,7 +1,7 @@
 # id: uraku_misugiri
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/uraku_misugiri.webp
+# icon: assets/icons/weapons/sword/uraku_misugiri.webp
 # title_ru: Ураку мисугири
 # title_en: Uraku Misugiri
 # title_zh: 有乐御簾切
