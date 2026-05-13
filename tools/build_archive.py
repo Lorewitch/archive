@@ -69,38 +69,41 @@ def slug_from_path(path: Path) -> str:
 def parse_meta_and_body(text: str) -> tuple[dict[str, str], str]:
     meta: dict[str, str] = {}
     lines = text.splitlines()
-    body_start = 0
+    body_start: int | None = None
 
     for i, line in enumerate(lines):
-        if line.startswith("## "):
+        if body_start is None and line.startswith("## "):
             body_start = i
-            break
         match = META_RE.match(line)
         if match:
             meta[match.group(1).strip()] = match.group(2).strip()
-    else:
+
+    if body_start is None:
         body_start = len(lines)
 
     return meta, "\n".join(lines[body_start:])
-
 
 def split_top_sections(body: str) -> dict[str, str]:
     sections: dict[str, list[str]] = {}
     current: str | None = None
 
     for line in body.splitlines():
-        header = re.match(r"^##\s+(.+?)\s*$", line.strip())
+        stripped = line.strip()
+        header = re.match(r"^##\s+(.+?)\s*$", stripped)
         if header:
             name = header.group(1).strip().upper()
             if name in LANG_HEADERS or name in {"NOTES", "INTERNAL"}:
                 current = name
-                sections[current] = []
+                sections.setdefault(current, [])
+                if sections[current]:
+                    sections[current].append("")
                 continue
         if current:
+            if META_RE.match(line) or stripped == "---":
+                continue
             sections[current].append(line)
 
     return {key: "\n".join(value).strip() for key, value in sections.items()}
-
 
 def split_subsections(section_text: str) -> list[dict[str, str]]:
     blocks: list[dict[str, str]] = []
@@ -125,6 +128,20 @@ def split_subsections(section_text: str) -> list[dict[str, str]]:
 
     flush()
     return blocks
+
+
+def text_before_subsections(section_text: str) -> str:
+    """Return the intro text before the first ### subsection.
+
+    For enemy drop entries this intro is the boss/enemy description.
+    The ### subsections remain material descriptions.
+    """
+    lines: list[str] = []
+    for line in section_text.splitlines():
+        if SUBHEADING_RE.match(line.strip()):
+            break
+        lines.append(line)
+    return "\n".join(lines).strip()
 
 
 def volume_number(title: str, fallback: int) -> int:
@@ -176,6 +193,16 @@ def languages_from_text(text_by_lang: dict[str, str] | None = None, volumes: lis
         if volumes and any(str(volume.get("text", {}).get(lang, "")).strip() for volume in volumes):
             has_text = True
         if has_text:
+            found.append(lang)
+    return found or LANGS
+
+
+def languages_from_enemy_entry(text_by_lang: dict[str, str], materials: list[dict[str, Any]]) -> list[str]:
+    found: list[str] = []
+    for lang in LANGS:
+        has_description = bool(str(text_by_lang.get(lang, "")).strip())
+        has_material_text = any(str(material.get("text", {}).get(lang, "")).strip() for material in materials)
+        if has_description or has_material_text:
             found.append(lang)
     return found or LANGS
 
@@ -563,10 +590,17 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     meta, body = parse_meta_and_body(read_text(path))
     sections = split_top_sections(body)
     entry_id = meta.get("id") or slug_from_path(path)
-    text_by_lang = {lang: sections.get(label, "").strip() for label, lang in LANG_HEADERS.items()}
 
     entry_type = item_entry_type(meta) if category == "items" else "entry"
     materials = parse_enemy_materials(meta, sections) if category == "items" and entry_type == "enemy_drops" else []
+
+    full_text_by_lang = {lang: sections.get(label, "").strip() for label, lang in LANG_HEADERS.items()}
+    if category == "items" and entry_type == "enemy_drops":
+        text_by_lang = {lang: text_before_subsections(sections.get(label, "")) for label, lang in LANG_HEADERS.items()}
+        languages = languages_from_enemy_entry(text_by_lang, materials)
+    else:
+        text_by_lang = full_text_by_lang
+        languages = languages_from_text(text_by_lang=text_by_lang)
 
     entry: dict[str, Any] = {
         "id": entry_id,
@@ -576,7 +610,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         "region": meta.get("region", ""),
         "rarity": int_from_meta(meta, "rarity", None),
         "tags": tags_from_meta(meta),
-        "languages": languages_from_text(text_by_lang=text_by_lang),
+        "languages": languages,
         "text": text_by_lang,
         "description": text_by_lang,
         "notes": parse_notes(sections.get("NOTES", "")),
@@ -591,7 +625,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         if materials:
             entry["materials"] = materials
             entry["material_count"] = len(materials)
-            entry["languages"] = languages_from_text(text_by_lang=text_by_lang)
+            entry["languages"] = languages
 
     return entry
 
@@ -720,8 +754,10 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
             item.get("entry_type", ""),
             item.get("item_type", ""),
             item.get("tags", []),
+            item.get("description", {}),
             [material.get("key", "") for material in item.get("materials", [])],
             [material.get("title", {}) for material in item.get("materials", [])],
+            [material.get("text", {}) for material in item.get("materials", [])],
         ),
     }
 
