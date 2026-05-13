@@ -3,6 +3,8 @@
 # item_group: weekly_bosses
 # entry_type: enemy_drops
 
+# tags: Еретик ложной луны, Дотторе, Доктор, Зандик
+
 # title_ru: Еретик ложной луны
 # title_en: Heretic of the False Moon
 # title_zh: 赝月的异端者
@@ -10,7 +12,46 @@
 
 # icon: assets/icons/enemies/01_heretic_of_the_false_moon.webp
 
-# tags: Еретик ложной луны, Дотторе, Доктор, Зандик
+---
+
+## RU
+
+По всей земле его клеймят еретиком. Но «Доктор» Дотторе, второй из Предвестников Фатуи, уже завладел властью трёх лун и теперь поднимается по длинным ступеням к божественному трону, обещанному «новому миру».
+Всё это должно было принадлежать нам.
+Но разум отверг всё, что выходило за пределы дозволенного, лишив человечество его изначальной природы.
+Жизнь и смерть заключили нас в смертные оболочки, сковав каждую искру стремления.
+А время и пространство сомкнулись, загнав сознание в кроткое повиновение, так что никто больше не смеет даже вообразить освобождение.
+С тех пор лицемерные божества правили миром, каждое провозглашало себя единственной истиной, хотя не заслуживало такого именования.
+Нет естественного порядка в течении жизни. Порядок навязан извне. Сбейте оковы, сковавшие этот мир, и сущность всего наконец предстанет перед взором.
+И это откровение... станет первым светом нового мира.
+«Так скажи же: разве ты намерен и дальше терпеть этот осыпающийся, дряхлый мир?»
+
+
+## EN
+
+Reviled far and wide as a heretic, The Doctor — Second of the Eleven Fatui Harbingers — has seized the authority of the three moons and now ascends the long steps toward the divine throne of the "new world."
+All should have belonged to us.
+But reason cast out all that exceeded its limits, leaving humanity blind to its true nature.
+Life and death bound us into mortal shells, shackling every spark of aspiration.
+Time and space closed in last of all, fencing the mind into meek obedience, so no one would dare imagine breaking free.
+From that point on, false gods governed the world, each one declaring their own truth as the sole, unassailable gospel — though none deserved the mantle they so loudly coveted.
+There is no inherent structure to life's flow — order was merely imposed upon it. Strip away every shackle laid across this world, and the essence of all things will at last come into view.
+And that revelation... is the first light of the new world.
+"How much longer will you continue to suffer this stagnant, obsolescent world?"
+
+## ZH
+
+以「异端」的恶名昭著于世，愚人众执行官第二席的「博士」，在攫取了三月的权柄后，如今已踏上通往「新世界」神座的阶梯。
+我们本应拥有一切。
+理，放逐了所有不可思之物，使世人再也无法抵达本性；
+生与死，制造了肉体凡胎的牢笼，禁锢一切灵魂的野心；
+时与空，限制了人类思想的边界，使人们变得短视顺从。
+从此，虚伪的神明统治了世界，每一个都以真理之名宣称自己唯一正确，却没有一个配得上这般名头。
+生命的流变并不具有秩序的结构，唯有抹除施加在这个世界上的层层枷锁，才能窥见一切事物的本质。
+那便是新世界的光芒。
+「你们难道愿意忍受这个迂腐陈旧的世界吗？」
+
+---
 
 # material_1_ru: Маска мудрого лекаря
 # material_1_en: Mask of the Virtuous Doctor
