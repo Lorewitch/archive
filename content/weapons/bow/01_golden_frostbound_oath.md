@@ -1,7 +1,7 @@
 # id: 01_golden_frostbound_oath
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/01_golden_frostbound_oath.webp
+# icon: assets/icons/weapons/bow/01_golden_frostbound_oath.webp
 # title_ru: Золотая клятва льда
 # title_en: Dawn's Salutation Returned
 # title_zh: 与君致意的黎明
