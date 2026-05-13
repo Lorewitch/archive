@@ -564,6 +564,7 @@
     }
 
     .enemy-description-panel {
+      position: relative;
       display: block;
       padding: 16px 18px;
       border: 1px solid rgba(91, 74, 62, .12);
@@ -598,7 +599,7 @@
     }
 
     .enemy-description-panel.is-collapsed .enemy-description-text {
-      max-height: 6.2em;
+      max-height: 5.7em;
       overflow: hidden;
     }
 
@@ -608,33 +609,49 @@
       left: 0;
       right: 0;
       bottom: 0;
-      height: 2.8em;
+      height: 2.6em;
       pointer-events: none;
       background: linear-gradient(to bottom, rgba(239, 232, 222, 0), rgba(239, 232, 222, .96));
     }
 
     .enemy-description-toggle {
-      display: flex;
+      display: none;
       align-items: center;
       justify-content: center;
       width: fit-content;
-      margin: 12px auto 0;
-      border: 1px solid rgba(91, 74, 62, .16);
-      border-radius: 9px;
-      padding: 7px 12px;
-      background: rgba(246, 242, 235, .58);
+      border: 0;
+      border-radius: 8px;
+      padding: 4px 9px;
+      background: rgba(246, 242, 235, .82);
       color: var(--accent);
+      font-size: 13px;
       font-weight: 900;
       line-height: 1.2;
       cursor: pointer;
       text-decoration: none;
-      transition: background .16s ease, border-color .16s ease, color .16s ease;
+      box-shadow: 0 5px 14px rgba(91, 74, 62, .08);
+      transition: background .16s ease, color .16s ease;
+    }
+
+    .enemy-description-panel.is-collapsible .enemy-description-toggle {
+      display: inline-flex;
+    }
+
+    .enemy-description-panel.is-collapsed .enemy-description-toggle {
+      position: absolute;
+      left: 50%;
+      bottom: 9px;
+      transform: translateX(-50%);
+      margin: 0;
+    }
+
+    .enemy-description-panel.is-collapsible:not(.is-collapsed) .enemy-description-toggle {
+      margin: 10px auto 0;
     }
 
     .enemy-description-toggle:hover,
     .enemy-description-toggle:focus-visible {
-      background: rgba(203, 191, 175, .44);
-      border-color: rgba(91, 74, 62, .28);
+      background: rgba(203, 191, 175, .48);
       color: var(--ink);
       outline: none;
     }
@@ -1837,7 +1854,7 @@
       }
 
       .enemy-description-panel.is-collapsed .enemy-description-text {
-        max-height: 6em;
+        max-height: 5.6em;
       }
 
       .material-chip {
@@ -1884,7 +1901,7 @@
       }
 
       .enemy-description-panel.is-collapsed .enemy-description-text {
-        max-height: 5.6em;
+        max-height: 5.3em;
       }
     }
 
@@ -3104,16 +3121,36 @@ function localizedMaterialText(material) {
 }
 
 
-function plainTextLength(value) {
-  return String(value ?? "")
-    .replace(/[#*_`>\-–—\[\]()]/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
-    .length;
-}
+function fitEnemyDescriptionPanel() {
+  document.querySelectorAll(".enemy-description-panel").forEach(panel => {
+    const textNode = panel.querySelector(".enemy-description-text");
+    const button = panel.querySelector(".enemy-description-toggle");
+    if (!textNode || !button) return;
 
-function isLongEnemyDescription(value) {
-  return plainTextLength(value) > 360;
+    const wasExpanded = panel.classList.contains("is-collapsible") && !panel.classList.contains("is-collapsed");
+
+    panel.classList.remove("is-collapsible", "is-collapsed");
+    button.hidden = true;
+    button.setAttribute("aria-expanded", "false");
+    button.textContent = "Показать полностью";
+
+    const styles = getComputedStyle(textNode);
+    const lineHeight = parseFloat(styles.lineHeight) || 28;
+    const maxVisibleHeight = lineHeight * 3.15;
+    const isTooTall = textNode.scrollHeight > maxVisibleHeight + 6;
+
+    if (!isTooTall) return;
+
+    panel.classList.add("is-collapsible");
+    button.hidden = false;
+
+    if (wasExpanded) {
+      button.setAttribute("aria-expanded", "true");
+      button.textContent = "Свернуть";
+    } else {
+      panel.classList.add("is-collapsed");
+    }
+  });
 }
 
 function renderEnemyDropsDetail(item, config) {
@@ -3128,16 +3165,15 @@ function renderEnemyDropsDetail(item, config) {
   }
 
   const enemyDescription = localizedEntryText(item);
-  const enemyDescriptionIsLong = isLongEnemyDescription(enemyDescription);
   const enemyIcon = item.icon
     ? `<img class="enemy-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
   const enemyDescriptionBlock = enemyDescription ? `
-      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}${enemyDescriptionIsLong ? " is-collapsible is-collapsed" : ""}">
+      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}">
         ${enemyIcon}
         <div class="enemy-description-content">
           <div class="prose enemy-description-text">${markdownToHtml(enemyDescription)}</div>
-          ${enemyDescriptionIsLong ? `<button class="enemy-description-toggle" type="button" aria-expanded="false">Показать полностью</button>` : ""}
+          <button class="enemy-description-toggle" type="button" aria-expanded="false" hidden>Показать полностью</button>
         </div>
       </div>
   ` : "";
@@ -3245,6 +3281,7 @@ function fitItemMaterialTabs() {
 
 function bindEnemyDropsDetail(item, config) {
   fitItemMaterialTabs();
+  requestAnimationFrame(fitEnemyDescriptionPanel);
 
   document.querySelectorAll(".enemy-description-toggle").forEach(button => {
     button.addEventListener("click", () => {
@@ -3484,7 +3521,10 @@ updateToTopButton();
 init();
 
 window.addEventListener("resize", () => {
-  window.requestAnimationFrame(fitItemMaterialTabs);
+  window.requestAnimationFrame(() => {
+    fitItemMaterialTabs();
+    fitEnemyDescriptionPanel();
+  });
 });
 
 </script>
