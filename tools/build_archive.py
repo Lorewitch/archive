@@ -672,7 +672,7 @@ def build_collection(
     clean_json_dir(detail_dir)
 
     entries: list[dict[str, Any]] = []
-    for md_file in sorted(source_dir.glob("*.md")):
+    for md_file in sorted(source_dir.rglob("*.md")):
         entry = builder(md_file)
         entries.append(entry)
         write_json(detail_dir / f"{entry['id']}.json", entry)
