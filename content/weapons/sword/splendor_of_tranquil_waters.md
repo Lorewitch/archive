@@ -1,7 +1,7 @@
 # id: splendor_of_tranquil_waters
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/splendor_of_tranquil_waters.webp
+# icon: assets/icons/weapons/sword/splendor_of_tranquil_waters.webp
 # title_ru: Блеск тихих вод
 # title_en: Splendor of Tranquil Waters
 # title_zh: 静水流涌之辉
