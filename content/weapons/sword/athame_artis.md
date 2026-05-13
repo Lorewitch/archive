@@ -1,7 +1,7 @@
 # id: athame_artis
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/athame_artis.webp
+# icon: assets/icons/weapons/sword/athame_artis.webp
 # title_ru: Атаме артис
 # title_en: Athame Artis
 # title_zh: 黑蚀
