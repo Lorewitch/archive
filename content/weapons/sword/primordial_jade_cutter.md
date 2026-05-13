@@ -1,7 +1,7 @@
 # id: primordial_jade_cutter
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/primordial_jade_cutter.webp
+# icon: assets/icons/weapons/sword/primordial_jade_cutter.webp
 # title_ru: Драгоценный омут
 # title_en: Primordial Jade Cutter
 # title_zh: 磐岩结绿
