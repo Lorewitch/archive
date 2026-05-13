@@ -1,0 +1,34 @@
+{
+  "id": "aquila_favonia",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/aquila_favonia.webp",
+  "title": {
+    "ru": "Меч Сокола",
+    "en": "Aquila Favonia",
+    "zh": "风鹰剑"
+  },
+  "region": "",
+  "rarity": 5,
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Дух рыцарей Ордо Фавониус. Спустя века он всё ещё взывает к ветрам правосудия, чтобы наказать зло, словно героиня легенд, что была когда-то его владельцем.\n\n### История\nВсе знают, что защита сокола - это милость Ордо Фавониуса.\nНо немногие знают, что милость Фавониуса - это далекое племя.\n \n\nВ то время, когда Мондштадт, угнетаемый тиранией аристократов, молил о свободе,\nВоин из далёкого древнего племени, порабощённая аристократами, вступила в королевство ветров.\nХотя она и столкнулась с обманом и бесчестием, она всё равно боролась за справедливость.\nОна свергла деспотов и аристократов, создала орден рыцарей и основала церковь.\nПосле она получила благословение небес и снискала уважение богов.\n \n\nЭто - её меч, символ борьбы и пройденного ею пути,\nДоказательство того, что ветра справедливости и свободы разлетелись по всему Мондштадту.\nСтоит лишь взмахнуть этим мечом, чтобы услышать её полные отваги мысли:\n \n\nУгнетённым - справедливость;\nПленникам - свободу;\nОбманутым - мудрость.\nДа направят нас ветра справедливости и свободы.",
+    "en": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it.\n\n### Story\nAll knew the falcon's protection was a blessing of Favonius.\nFew knew the blessing of Favonius was from a distant tribe.\nUnder the tyranny of the old nobles, Mondstadt cried for freedom.\nEnslaved was the exiled foreign fighter in the land of wind.\nYet she knelt not before injustice and deception, but set a shining example.\nFor she overthrew the barbaric nobles and established a chivalric order and the Church.\nBlessed was she to eventually walk with the gods.\nThis was her sword that witnessed all her hardships and feats.\nA testament to her achievement in spreading justice across Mondstadt.\nYou can feel her unrelenting spirit when swinging this sword:\nJustice for the oppressed.\nFreedom for the shackled.\nWisdom for the deceived.\nLet the wind of justice and freedom lead.",
+    "zh": "西风骑士团的灵魂。历经千年仍在呼唤你卷起正义之风，祓除奸邪，一如上一位挥舞此剑的女杰。\n\n### 故事\n众所周知，鹰的守望是西风的恩惠。\n鲜有人知西风的恩惠是远方的异族。\n\n彼时蒙德仍在旧贵族的统治之下隐隐呼唤自由，\n远离故国的异族斗士作为奴隶踏入了风的国土。\n即使面对欺瞒与不公，她仍奋力掀起正义之风，\n推翻蛮横的贵族，建立起德政的骑士团与教会，\n最终她受天的眷顾，蒙了神的宠召。\n\n这是她当年的佩剑，见证了她的跋涉与奋斗，\n最终见证她将自由与正义之风遍布蒙德全地。\n挥舞时，能感受到此剑故主奋勇战斗的心意：\n\n但凡有受欺压的，那就施展正义；\n但凡有受禁锢的，那就带来自由；\n但凡有受蒙蔽的，那就带来智慧。\n听凭风引，便是正义与自由之风。"
+  },
+  "description": {
+    "ru": "Дух рыцарей Ордо Фавониус. Спустя века он всё ещё взывает к ветрам правосудия, чтобы наказать зло, словно героиня легенд, что была когда-то его владельцем.\n\n### История\nВсе знают, что защита сокола - это милость Ордо Фавониуса.\nНо немногие знают, что милость Фавониуса - это далекое племя.\n \n\nВ то время, когда Мондштадт, угнетаемый тиранией аристократов, молил о свободе,\nВоин из далёкого древнего племени, порабощённая аристократами, вступила в королевство ветров.\nХотя она и столкнулась с обманом и бесчестием, она всё равно боролась за справедливость.\nОна свергла деспотов и аристократов, создала орден рыцарей и основала церковь.\nПосле она получила благословение небес и снискала уважение богов.\n \n\nЭто - её меч, символ борьбы и пройденного ею пути,\nДоказательство того, что ветра справедливости и свободы разлетелись по всему Мондштадту.\nСтоит лишь взмахнуть этим мечом, чтобы услышать её полные отваги мысли:\n \n\nУгнетённым - справедливость;\nПленникам - свободу;\nОбманутым - мудрость.\nДа направят нас ветра справедливости и свободы.",
+    "en": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it.\n\n### Story\nAll knew the falcon's protection was a blessing of Favonius.\nFew knew the blessing of Favonius was from a distant tribe.\nUnder the tyranny of the old nobles, Mondstadt cried for freedom.\nEnslaved was the exiled foreign fighter in the land of wind.\nYet she knelt not before injustice and deception, but set a shining example.\nFor she overthrew the barbaric nobles and established a chivalric order and the Church.\nBlessed was she to eventually walk with the gods.\nThis was her sword that witnessed all her hardships and feats.\nA testament to her achievement in spreading justice across Mondstadt.\nYou can feel her unrelenting spirit when swinging this sword:\nJustice for the oppressed.\nFreedom for the shackled.\nWisdom for the deceived.\nLet the wind of justice and freedom lead.",
+    "zh": "西风骑士团的灵魂。历经千年仍在呼唤你卷起正义之风，祓除奸邪，一如上一位挥舞此剑的女杰。\n\n### 故事\n众所周知，鹰的守望是西风的恩惠。\n鲜有人知西风的恩惠是远方的异族。\n\n彼时蒙德仍在旧贵族的统治之下隐隐呼唤自由，\n远离故国的异族斗士作为奴隶踏入了风的国土。\n即使面对欺瞒与不公，她仍奋力掀起正义之风，\n推翻蛮横的贵族，建立起德政的骑士团与教会，\n最终她受天的眷顾，蒙了神的宠召。\n\n这是她当年的佩剑，见证了她的跋涉与奋斗，\n最终见证她将自由与正义之风遍布蒙德全地。\n挥舞时，能感受到此剑故主奋勇战斗的心意：\n\n但凡有受欺压的，那就施展正义；\n但凡有受禁锢的，那就带来自由；\n但凡有受蒙蔽的，那就带来智慧。\n听凭风引，便是正义与自由之风。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}
