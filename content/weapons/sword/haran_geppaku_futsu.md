@@ -1,7 +1,7 @@
 # id: haran_geppaku_futsu
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/haran_geppaku_futsu.webp
+# icon: assets/icons/weapons/sword/haran_geppaku_futsu.webp
 # title_ru: Харан гэппаку фуцу
 # title_en: Haran Geppaku Futsu
 # title_zh: 波乱月白经津
