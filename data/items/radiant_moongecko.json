@@ -1,0 +1,51 @@
+{
+  "id": "radiant_moongecko",
+  "category": "items",
+  "icon": "assets/icons/enemies/radiant_moongecko.webp",
+  "title": {
+    "ru": "Лучезарный лунный геккон",
+    "en": "Radiant Moongecko",
+    "zh": "蕴光月守宫"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "### Призматический отсечённый хвост\n\nКристаллизованный хвостовой позвонок, оставленный лучезарным лунным гекконом при попытке к бегству после поражения.\nС точки зрения здравого смысла, ящерицы, эволюционировавшие до такой степени мощи, не должны больше испытывать угрозы от хищников, однако она всё ещё сохранила инстинкт самосохранения путём отбрасывания хвоста. Возможно, это связано с тем, что в эпоху, когда лунный свет озарял всю землю, здесь обитали ещё более страшные хищники.",
+    "en": "### Prismatic Severed Tail\n\nA crystallized tail vertebra left behind by a defeated Radiant Moongecko in its attempt to escape.\nBy all logic, a lizard that has evolved to such formidable strength should no longer face the threat of natural predators. Yet it still retains the instinct to shed its tail in a bid for survival. Perhaps in an age when moonlight blanketed the land, even more terrifying predators once prowled this place.",
+    "zh": "### 棱光的断尾\n\n击败蕴光月守宫之后，其试图逃脱时遗留下的晶化尾椎。\n以常理而言，演化至如此强大的蜥类本不应再受到天敌的威胁，然而它却依旧保留了断尾求生的本能。或许是因为在月光遍照大地的时代，此地曾存在着更加可怕的掠食者吧。"
+  },
+  "description": {
+    "ru": "### Призматический отсечённый хвост\n\nКристаллизованный хвостовой позвонок, оставленный лучезарным лунным гекконом при попытке к бегству после поражения.\nС точки зрения здравого смысла, ящерицы, эволюционировавшие до такой степени мощи, не должны больше испытывать угрозы от хищников, однако она всё ещё сохранила инстинкт самосохранения путём отбрасывания хвоста. Возможно, это связано с тем, что в эпоху, когда лунный свет озарял всю землю, здесь обитали ещё более страшные хищники.",
+    "en": "### Prismatic Severed Tail\n\nA crystallized tail vertebra left behind by a defeated Radiant Moongecko in its attempt to escape.\nBy all logic, a lizard that has evolved to such formidable strength should no longer face the threat of natural predators. Yet it still retains the instinct to shed its tail in a bid for survival. Perhaps in an age when moonlight blanketed the land, even more terrifying predators once prowled this place.",
+    "zh": "### 棱光的断尾\n\n击败蕴光月守宫之后，其试图逃脱时遗留下的晶化尾椎。\n以常理而言，演化至如此强大的蜥类本不应再受到天敌的威胁，然而它却依旧保留了断尾求生的本能。或许是因为在月光遍照大地的时代，此地曾存在着更加可怕的掠食者吧。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "material_1",
+      "title": {
+        "ru": "Призматический отсечённый хвост",
+        "en": "Prismatic Severed Tail",
+        "zh": "棱光的断尾"
+      },
+      "icon": "assets/icons/items/world_bosses/prismatic_severed_tail.webp",
+      "text": {
+        "ru": "Кристаллизованный хвостовой позвонок, оставленный лучезарным лунным гекконом при попытке к бегству после поражения.\nС точки зрения здравого смысла, ящерицы, эволюционировавшие до такой степени мощи, не должны больше испытывать угрозы от хищников, однако она всё ещё сохранила инстинкт самосохранения путём отбрасывания хвоста. Возможно, это связано с тем, что в эпоху, когда лунный свет озарял всю землю, здесь обитали ещё более страшные хищники.",
+        "en": "A crystallized tail vertebra left behind by a defeated Radiant Moongecko in its attempt to escape.\nBy all logic, a lizard that has evolved to such formidable strength should no longer face the threat of natural predators. Yet it still retains the instinct to shed its tail in a bid for survival. Perhaps in an age when moonlight blanketed the land, even more terrifying predators once prowled this place.",
+        "zh": "击败蕴光月守宫之后，其试图逃脱时遗留下的晶化尾椎。\n以常理而言，演化至如此强大的蜥类本不应再受到天敌的威胁，然而它却依旧保留了断尾求生的本能。或许是因为在月光遍照大地的时代，此地曾存在着更加可怕的掠食者吧。"
+      }
+    }
+  ],
+  "material_count": 1
+}
