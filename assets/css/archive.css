@@ -3175,3 +3175,58 @@ h3,
     margin-right: 10px;
   }
 }
+
+
+/* v4: soft archive description block above catalog controls */
+.archive-intro {
+  display: grid;
+  gap: 8px;
+  margin-top: 18px;
+  padding: 15px 17px;
+  border: 1px solid rgba(91, 74, 62, .16);
+  border-radius: 14px;
+  background: rgba(203, 191, 175, .22);
+  color: var(--muted);
+  box-shadow: 0 8px 18px rgba(91, 74, 62, .045);
+}
+
+.archive-intro p {
+  margin: 0;
+  font-size: 14.5px;
+  line-height: 1.62;
+}
+
+.archive-intro strong {
+  color: #211B17;
+  font-weight: 900;
+}
+
+.archive-intro em {
+  color: #4E4239;
+  font-style: normal;
+  font-weight: 760;
+}
+
+.archive-intro-legal {
+  padding-top: 8px;
+  border-top: 1px solid rgba(91, 74, 62, .14);
+  font-size: 13px !important;
+  line-height: 1.52 !important;
+}
+
+@media (max-width: 560px) {
+  .archive-intro {
+    margin-top: 14px;
+    padding: 13px 14px;
+    border-radius: 12px;
+  }
+
+  .archive-intro p {
+    font-size: 13.5px;
+    line-height: 1.55;
+  }
+
+  .archive-intro-legal {
+    font-size: 12.5px !important;
+  }
+}
