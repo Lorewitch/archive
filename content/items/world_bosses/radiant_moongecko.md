@@ -35,6 +35,7 @@ Some scholars believe this unusual lizard's ancestors once roamed the surface. O
 
 ---
 
+# material_1_id: prismatic_severed_tail
 # material_1_ru: Призматический отсечённый хвост
 # material_1_en: Prismatic Severed Tail
 # material_1_zh: 棱光的断尾
