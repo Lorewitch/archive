@@ -1,0 +1,251 @@
+# id: perinheri
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/perinheri.webp
+# title_ru: Переньери
+# title_en: Perinheri
+# title_zh: 裴伦埃里
+# region: Фонтейн
+# volume_count: 2
+# tags: книги, Каэнри'ах
+# status: draft
+
+## RU
+
+### Том 1
+Другое название книги - «Влюблённый Хлеоланд». Автор первого издания называл книгу адаптацией популярной легенды Каэнри'ах. Но в мире не осталось никого, кто мог бы это подтвердить. Теперь эта книга считается произведением коллективного творчества нескольких поколений.
+
+Это история о древних временах, когда птицы ещё не разделились на домашних и диких. И подземное королевство тогда озаряла Алая Луна, а не Чёрное Солнце.
+
+Из-за уникального расположения королевства туда часто попадали гости из внешнего мира. Ему хватало вооружения, чтобы справиться с нежелательными вторжениями, но как быть со всем остальным? Например, с ребёнком, что пришёл из некоего разрушенного мира?
+
+И один из мудрецов обратился к великому правителю: «О верховный повелитель, некий ребёнок поведал мне историю из другого мира: давным-давно жил народ, который плавал по морям и верил, что боги приходят из океана. Ко всякому бродяге, чей корабль потерпел крушение, они относились с величайшим почтением, ибо верили, что боги принимают облик потерпевших крушение, когда отправляются исследовать царство смертных».
+
+И ответил правитель: «Не понимаю, к чему ты клонишь, но сделаем по-твоему».
+
+(Естественно, в королевстве не было океана в традиционном смысле этого слова. Основатели королевства некогда видели величественные силуэты гор в мареве палящего солнца, видели лунный свет, что качался на морской глади, будто россыпь белых жемчужин. Но в то время, о котором идёт речь, рассказывать королю о подобных картинах могли разве что чужеземцы и придворные, возвращавшиеся из странствия в чужие края по долгу службы. Океан и море чаще всего использовались как метафора пространства, проецируемого звёздами.)
+
+В ожидании богов, что прибудут из-за океана (а точнее, существ, способных превзойти богов), жители королевства основали сиротский приют. Позже туда стали принимать и сирот, рождённых на территории королевства, а также беспризорных детей, которые приходили из внешнего мира.
+
+Первое воспоминание юного Переньери - как взрослые велят ему проползти по тёмному проходу. Вполне возможно, что это был дымоход для зимних костров, потому что в нём было полно золы и не имелось ни единой щели, через которую мог бы проникнуть дым или свет. И пока Переньери полз, он то и дело натыкался на что-то в полной темноте и падал. К счастью, конструкция прохода предполагала, что по нему будут ползать дети, поэтому падения были не очень болезненными. И мерзкой паутины там тоже не было.
+
+Когда Переньери наконец добрался до выхода, дверь оказалась закрыта. Он постучал, но в ответ услышал только бесстрастный взрослый голос: «Ты умер?»
+
+Если бы он умер, разве смог бы разговаривать? Но взрослым не понравился такой ответ. Они повторяли свой вопрос раз за разом, пока Переньери не прокричал: «Умер!»
+
+Тогда взрослые спросили: «И ты видел его?»
+
+Возможно, дело было в страхе темноты, усиленном усталостью и голодом, но Переньери в самом деле увидел мираж. Алая луна, висевшая высоко в чёрном ночном небе, вдруг развернулась и превратилась и огромный, пугающий глаз.
+
+Взрослые открыли дверь и обняли вымазанного в золе Переньери: «Ты прошёл через огонь двух миров внутри очага и теперь возрождаешься к новой жизни».
+
+Алая Луна зашла, её сменило Чёрное Солнце, но королевский приют так и не дождался появления сверхчеловека. Зато из стен приюта вышло немало чудаков, и многие из них стали великими рыцарями королевства. Переньери считался главным рыцарем своего времени - конечно, если ему не приходилось соперничать со своим лучшим другом Хлеоландом.
+
+Они должны были мериться заслугами, славными подвигами, кубками доброго вина, выпитыми на праздничных застольях. Но почему-то вышло так, что их соперничество приняло смертельный оборот.
+
+### Том 2
+Другое название книги - «Влюблённый Хлеоланд». Автор первого издания называл книгу адаптацией популярной легенды Каэнри'ах. Но в мире не осталось никого, кто мог бы это подтвердить. Теперь эта книга считается произведением коллективного творчества нескольких поколений.
+
+В тот день в приюте появилась новенькая. Прекрасная чужестранка, назвавшаяся принцессой. Её страна была порабощена Золотым богом, но благородная жрица отказалась признавать нового бога и покинула свою родину. Она назвалась Анжеликой (прим. 1), что означает «подобная небесному ангелу».
+
+Прекрасная Анжелика заявила, что выйдет замуж только за самого могучего рыцаря королевства. Переньери не придал значения её словам, зато Хлеоланд был очарован чужестранкой. Анжелика часто гуляла у Колодезного моря и рассказывала Хлеоланду о внешнем мире. Беспокоясь за друга, Переньери ходил с ними. Поскольку от природы подозрительности в нём было больше, чем любопытства, он с сомнением слушал слова Анжелики, однако надеялся, что однажды сможет увидеть всё, о чём она говорит, своими глазами.
+
+После появления Анжелики Хлеоланда будто подменили: он намеренно ссорился и затевал дуэли с другими рыцарями. После каждой победы он оборачивался к Анжелике и хвастался своей доблестью. Но в награду получал лишь слабую улыбку. Стоит ли гордиться хорошему бегуну, обогнавшему черепаху?
+
+«Ньёрд, что неразлучен с Чёрной тенью (прим. 2), Альф - сильнейший воин Академии заклинаний, Альберих - командир половины рыцарей, непобедимый Переньери». Анжелика перечислила сильнейших, по её мнению, людей королевства.
+
+Ослеплённый страстью Хлеоланд принял самое логичное для себя решение. Его называли изменником, безумцем. И всё равно - он не хотел навредить Переньери.
+
+Что же до Переньери, он верил, что сможет излечить безумие своего друга, если убьёт Анжелику.
+
+После жестокой погони они втроём покинули пределы королевства. В тот миг Хлеоланд закрыл лицо руками, а в груди его родился звук, подобный рёву дикого зверя.
+
+Колдунья Анжелика объяснила: «Хлеоланд - потомок тех, кто пришёл в королевство, отринув своего бога. Вот почему в королевстве столь сильна чистокровная аристократия со всей её косностью. Такова цена предательства своего бога.
+
+А ты скиталец, Переньери. На тебе нет печати проклятия. Пусть в тебе нет благородства иного мира, но тебя ждёт своя судьба.
+
+Я же ни на секунду не предавала своего бога до самой его смерти, а потому проклятия на мне нет. Но способен ли ты увидеть, кто я такая?»
+
+Солнце поднималось над горизонтом, меч выскользнул из руки Переньери, который всю ночь провёл в сражении. Он прикрыл ладонью глаза и впервые посмотрел на солнце. Когда он снова обратил свой взор на Анжелику, то понял, что она не красавица из Ли Юэ и не злобная колдунья.
+
+«Я - свобода от судьбы. То, чего так жаждал Хлеоланд. То, что ты обрёл без всяких усилий».
+
+И перед Переньери раскинулась бескрайняя пустота, бесконечный простор.
+
+Прим. 1: Однако вряд ли жители древнего Ли Юэ могли выбрать девочке такое имя. Вероятнее всего, её звали «Госпожа Мяо Инь» (Госпожа Дивного Звука) или «Тянь Ван Ну» (Слуга Тянь Вана).
+
+Прим. 2: В первом издании - чёрный волк. Из археологических исследований Каэнри'ах известно, что это один из зверей, созданных искусством алхимии. Алхимия и рыцари-укротители были основной опорой династии Алой Луны. Но в эпоху Чёрного Солнца алхимия пришла в упадок в связи с развитием механики.
+
+Автор приносит благодарности:
+
+Господину Денону, чья «Археология Каэнри'ах» вдохновила меня на создание этой работы (1-е издание)
+
+Господину Жану Фижаку за правки, доработки и замечания, без которых эта история не была бы завершена (2-е издание)
+
+Супруге господина Жана Фижака и господину Жану Фижаку-младшему за корректуру (3-е издание)
+
+...
+
+Карлу Ингольду, чьи «Записки об изучении разрушенной столицы» легли в основу данной истории (13-е издание)
+
+Господину Карасаве за консультации по естественной истории и прочим наукам (14-е издание)
+
+Господину Юню за его заметки о культуре Ли Юэ (15-е издание)
+
+## EN
+
+### Vol. 1
+This text is also known as "Hleobranto Innamorato." The author of the first edition claims to have based this tale on a legendary story known throughout Khaenri'ah, but there are none left who can verify this. It is an anthological work produced over several generations at this point.
+
+This is a story from very ancient times indeed. It is said that in those days, birds had not yet split into domestic and wild kindreds. In those days, a crimson moon shone down upon the subterranean realm, and not the dark sun of latter days.
+
+Due to the Kingdom's unique position, things from outside this world were always leaking into it. The Kingdom's weapons would wipe out the calamities slipping in, but what of all the other objects? Such as, say, a child who may have come from some destroyed world?
+
+One of the sages spoke thusly to the great ruler: "Oh high lord of the nobles, a child once told me a tale of another world: Once upon a time, there were sea people who believed that the gods came from the sea. Each time they discovered a shipwrecked person, they would treat them with the utmost honor, for they believed that the gods would take the form of the shipwrecked to investigate the mortal realm."
+
+The ruler replied, "I do not perceive your meaning, so do as you please."
+
+(Naturally, no oceans in the traditional sense lay within the Kingdom's borders. The earliest founders of the Kingdom had once seen the majestic silhouettes of the mountains blur under the sun's searing glare, and the rippling reflections of the moonlight falling upon the sea's surface like a scattering of pearls. But at the time the story took place, only outsiders and those few who had left the Kingdom on official duties and returned could describe such sights to the ruler. The ocean and the sea were often used as a metaphor for the space projected by the stars.)
+
+In anticipation of the arrival at their Kingdom of gods from beyond the so-called ocean — or rather, the arrival of beings who could transcend the gods — they founded an organization, an orphanage to take care of such children. In latter days, the orphans of the Kingdom and those who wandered in from outside were accepted as well.
+
+The young Perinheri's first memory was that of being asked by the grown-ups to crawl through a dark corridor. This passage might have been a chimney for winter fires, for it was filled with coal ash, and there was not a single crack in it through which smoke or light could pass through. As he crawled, he would sometimes stumble in the pitch-black darkness. Fortunately, the corridor appeared designed for the passage of children in the first place, so the falls were not very painful. It also lacked any annoying cobwebs.
+
+When Perinheri reached the end at last, the exit had not opened yet. He knocked, only for the grown-ups to coldly ask: "Are you dead?"
+
+Well, how was he to reply if he was dead? But the grown-ups did not like this response. They kept asking the same question, until he at least shouted, "Yes, I'm dead!"
+
+The adults then asked, "Did you see it, then?"
+
+Perhaps it was the fear brought on by the darkness combined with hunger and exhaustion, but Perinheri did indeed see an illusion. The crimson moon, hanging high in the pitch-dark night sky, suddenly turned around, revealing itself to be a titanic, horrified eye.
+
+The adults opened the door and embraced the soot-covered Perinheri: "You have traversed the fire of two worlds within the hearth, and here you are reborn."
+
+Though the crimson moon set, and the dark sun descended into a yet darker dusk, that transcendental person from beyond who the Kingdom orphanage was awaiting never arrived. But unusual individuals they had aplenty, and many of those who strode forth from the gates of that orphanage became great knights of the Kingdom. Perinheri was, in his time, the leading figure amongst their ranks — that is, unless, he were forced to compete with his best friend, Hleobrant.
+
+They should have competed for glory, and decided who was superior through the amount of honors they crowned themselves in — and in the number of goblets of fine wine downed during the festivities afterward. But for some reason, their rivalry would take a mortal turn.
+
+### Vol. 2
+This text is also known as "Hleobranto Innamorato." The author of the first edition claims to have based this tale on a legendary story known throughout Khaenri'ah, but there are none left who can verify this. It is an anthological work produced over several generations at this point.
+
+That day, the orphanage welcomed a new member. She was a beautiful young lady from a foreign land who claimed to be a noble princess. Her nation had been defeated by Deus Auri, and yet the daughter of a priestly line she remained, and would not submit to the new god, and so she had drifted, wandering through the gates of their Kingdom. She called herself Angelica (Note 1), meaning "one who is as a divine emissary."
+
+Fair Angelica declared that she would only marry the mightiest knight in all the Kingdom. Perinheri cared not a whit, but Hleobrant was smitten with her. Angelica would often take walks near the Sea of Wells, and there she spoke much of the outside world to Hleobrant. Perinheri would come along out of concern for his friend, and because suspicion was born in him sooner than curiosity, he would doubt her every word, yet wished that he might see these things one day.
+
+Angelica's arrival changed Hleobrant altogether. He would cause trouble, looking for any provocation upon which to stake a duel against other knights. He would win all these bouts, and turn to Angelica to show off his prowess. Yet all she ever gave him was a cool smile, for what great feat was it for a great runner if they raced a tortoise and triumphed?
+
+"Njord, who walks with the Darksprites (Note 2), Alf, the greatest warrior in the Universitas Magistrorum, Alberich, commander of half the knights, and Perinheri the undefeated." Angelica spoke thus of the mightiest figures in the Kingdom as she saw them.
+
+Having fallen head over heels into the throes of love, Hleobrant came to what was an all-too-reasonable conclusion for himself. People might call him a traitor, or believe him mad. But even so, he had no wish to hurt Perinheri.
+
+As for Perinheri, he believed that his best friend's madness would be cured, if only he could kill Angelica.
+
+In the midst of that most merciless of pursuits, the three left the Kingdom's borders. At that very moment, Hleobrant clutched his face, and the words escaping his mouth gradually grew more like the howling of a wild beast.
+
+The witch, Angelica, explained thus: "Hleobrant is the descendant of those who forsook their god and came to the Kingdom. This is why the Kingdom's obstinately pure-blooded aristocracy persists. This is the price of betraying your own god."
+
+"As for you, Perinheri, you are one who drifted there. Thus, you bear no such curse. You may not have the nobility to shoulder a world, but you too have your own destiny."
+
+"And as for me? I betrayed no one, not for a moment, until my god died, so I too bear this curse not. But you now see who I truly am, yes?"
+
+The sun rose over the horizon at that moment, and Perinheri's blade slipped from his fingers, exhausted from the night-long battle. Covering his forehead with the back of his hand, he looked upon the sun for the first time. And when he glanced back at Angelica, he saw that she was neither a beautiful woman from Liyue nor a wicked witch.
+
+"I am freedom, that which has broken free of fate. This is what Hleobrant sought in agony, but that which is now yours for the taking."
+
+There was nothing before Perinheri, only vast, empty land.
+
+Note 1: Note that the ancient people of Liyue did not use such names. Now that I consider it, her name may have been "Lady Miaoyin" (Lady of Wondrous Sound) or "Tianwang Nu" (Servant of Tianwang).
+
+Note 2: The black wolves of the first edition. Archaeological work on Khaenri'ah indicates that this must have been a type of warbeast created using alchemy. Alchemy and the Beastmaster Knights were a mainstay during the Crimson Moon Dynasty, but interest in mechanical engineering during the Eclipse Dynasty would cause it to fall behind.
+
+Special thanks goes to:
+
+Mr. Denon's archaeological studies into Khaenri'ah, which inspired this work (1st edition)
+
+Mr. Jean Figeac's continued writings and refinements, which have given this story its ending (2nd edition)
+
+Mrs. Jean Figeac and Mr. Jean Figeac fils, for their corrections of misc. typos (3rd edition)
+
+...
+
+A compilation of Karl Ingold's records from "Investigations into an Abandoned City" (13th edition)
+
+Mr. Karasawa's assistance in natural history and miscellaneous studies (14th edition)
+
+Mr. Yun's notes on Liyue Culture (15th edition)
+
+## ZH
+
+### 卷一
+本书又称《热恋中的赫雷贝里》，初版作者自称改编自坎瑞亚家喻户晓的传奇故事，但是世上已经没有人可以佐证这点了。现在已经是数代人的集体创作了。
+
+第一卷
+
+这是一个特别古老时候的故事，相传那个时候家禽与野鸟还没有分开。那个时候，照亮地下王国的是一轮赤月，而不是后来的黑日。
+因为王国位置特殊，总有世界之外的事物漏入其中。王国的武备会消灭其中的灾祸，但是其他事物要怎么处理呢？比如说，或许来自某个毁灭世界的孩子？
+贤人中的一位对王上进言：「诸贵族的首上啊，我曾从一个孩子那里听闻异界的故事：曾有海民相信神明来自大海。每次发现流落的海难者，他们都会用最高的礼遇相待。只因他们认为神明会假借海难者的形态巡查人间。」
+国王说：「我听不懂。按你的意思来吧。」
+（当然啰，王国境内并不存在传统意义上的海洋。王国最早的建立者，他们曾经见过山岳的轮廓在太阳强烈的光辉下变得模糊的景象，也曾经见过月光落在海面的细微波澜上，就像许多的珍珠。到了故事发生的年代，能够在王下描述这些情景的只有外来者与少有的为公务离开王国而返回的人。海洋一词往往是星辰投影的空间的喻体。)
+期待着自所谓的海洋之外而来到王国的神——或者说能够超越神的人，他们建立了收容这种孩童的机构。在那之后，王国当中的孤儿或者是来自外界的流浪儿也会被接纳。
+
+年幼的裴伦埃里对人生最早的记忆，就是被大人们要求爬过漆黑的甬道。这些通道或许是寒冷时节里烧火排烟的管道，里面布满煤灰，而且一丝能让烟逃出、或者光漏入的缝隙都没有。裴伦埃里爬行时，偶尔还会在黑暗中摔落。好在这个甬道本身设计就是为了让孩童行过，就算是摔落也并不会很痛，也并没有惹人生厌的虫网。
+在最后裴伦埃里走到了尽头，但是出口却并未打开。他敲了敲门，只有大人们无情的声音在询问：「你死了吗? 」
+如果已经死了，又怎么能回答呢？但是大人们并不喜欢这个回复。他们反复问着一样的问题，直到裴伦埃里大喊：「死了！」
+大人们继续问：「那你看到了吗？」
+或许是黑暗带来的恐惧加上饥饿与疲惫，裴伦埃里眼中看到了幻象。赤红的月亮高悬在漆黑的夜空里，它突然转了过来，原来是巨大、惊恐的眼瞳。
+大人们打开了门，抱住满身煤黑的裴伦埃里：「你已经行过壁中炉内的两界之火，现在在这里得到新生。」
+
+虽然直到赤月降下，黑日升起，再到黑日垂暮，王国的教养院都一直没能等到超越之人到来，但教养院中走出了许多奇人异士，他们中很多人都成为了王国伟大的骑士。裴伦埃里自是他那个时代无愧的首席，除非硬要让他和他的挚友赫雷贝里相较。
+他们本应该争夺功勋，通过荣耀的数量与大小，还有庆功宴的饮下的美酒之数来分出高下。但是不知道为什么，他们却走上了以命相搏的末路。
+
+### 卷二
+第二卷
+
+那一天，教养院中迎来了新的成员。她是一位美丽的异国少女，自称是高贵的公主。因为故国被贵金之神打败，贵为祭司之女的她不愿承认新神，所以才流浪到了王国。她说她的名字叫安吉莉卡（注1)，意思是「仿若天之神使」。
+美丽的安吉莉卡说自己将来只会和王国当中最强大的骑士结为夫妻。裴伦埃里对此不屑一顾，可赫雷贝里却被安吉莉卡所迷住。安吉莉卡时常在王国的井户之海附近散步，在那里她对赫雷贝里讲述了外面世界的种种事物。担心挚友的裴伦埃里也会同行，因那猜忌生得比好奇心要早，对于安吉莉卡所说的一切他虽心存怀疑，但希望终有一天能得以一见。
+
+在安吉莉卡到来之后，赫雷贝里仿佛变了一个人，他制造事端，寻衅与其他骑士决斗。他赢了所有的决斗，转头便向安吉莉卡夸耀自己的勇武。可安吉莉卡对赫雷贝里所有的功勋，都只有淡淡一笑。善跑者赢过乌龟又算什么功绩呢？
+「与黑骏（注2）相伴的尼约德，深秘院最擅长战斗的阿尔夫，一半骑士的统领亚尔伯里奇，不败的裴伦埃里。」安吉莉卡说出了她心目中，王国彼时的最强候选。
+陷入热恋的赫雷贝里因此做出了他内心里再顺理成章不过的决定。他被称呼为叛徒，或者人们认为他已经疯狂。不过就算是这样他也没有任何想要伤害裴伦埃里的意思。
+而裴伦埃里，他坚信只要杀死了安吉莉卡，他挚友的疯癫就可以得到治疗。
+
+在最无情的追猎中，三人离开了国界。在那一瞬间，赫雷贝里捂住了自己的脸，口中的语言也逐渐像是野兽的嘶鸣。
+女巫安吉莉卡解释：「赫雷贝里是抛弃自己的神明来到王国的族民后裔。这就是王国当中有顽固的纯血派贵族的原因。这就是背叛自己神明的代价。
+「而你，裴伦埃里，你是漂流而来的人。所以你没有这种诅咒。虽然没有比肩一个世界的崇高，但是你也有自己的命运。
+「而我，在神明死去之前我都未曾背叛过一秒，所以我也不会有这种诅咒。但是你真的看清我是谁了吗？」
+
+太阳在此刻升起地平，裴伦埃里手中的剑因为彻夜战斗带来的疲惫而滑脱。他用手背遮起额头，第一次看向太阳。等他再看向安吉莉卡时，发觉她并非是璃月的美丽少女或者恶毒的女巫。
+「我是从命运中挣脱的自由。这是赫雷贝里苦苦追寻，对你却唾手可得的东西。」
+裴伦埃里的面前空无一物，只有广阔的大地。
+
+注1：但是古时璃月的人并不会这样取名，如今想来，她名字或许是「妙音女」或者「天王奴」。
+注2：初版作黑狼。从坎瑞亚考古中得知，应该是坎瑞亚炼金术制造的战兽其中一类。赤月王朝时期，炼金术与驯兽骑士乃是中流砥柱。但是在黑日王朝时期，因机械工学兴起而衰落了。
+
+特别鸣谢：
+德农先生的坎瑞亚考古为本作品带来的灵感（第一版）
+让·菲雅克先生的续写、润色，使得这个故事终于有了结尾（第二版）
+让·菲雅克夫人与小让·菲雅克先生的错别字修改（第三版）
+……
+整理自卡尔·英戈德先生记录的《废都考察纪行》（第十三版）
+唐泽先生的杂学、博物学支持（第十四版）
+云老先生对于璃月文化部分的注释（第十五版）
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

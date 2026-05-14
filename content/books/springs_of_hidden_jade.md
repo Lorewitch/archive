@@ -1,0 +1,202 @@
+# id: springs_of_hidden_jade
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/springs_of_hidden_jade.webp
+# title_ru: Ручьи скрытого нефрита
+# title_en: Springs of Hidden Jade
+# title_zh: 隐玉之泉
+# region: Ли Юэ
+# volume_count: 2
+# tags: книги, Ли Юэ
+# status: draft
+
+## RU
+
+### Том 1
+Каких же прохожих встретит юноша, заблудившийся в бамбуковой роще?
+
+Едва на листьях лотоса заблестели первые капли утренней росы и вновь запели лягушки, как юноша проснулся.
+Сквозь бамбуковые стебли пробивались лучи утреннего солнца, подсушивая капли ночной росы на льняной одежде. Шелковистые белокурые пряди перламутром рассыпались по плечам юноши.
+Когда солнечный свет коснулся его лица, юноша нехотя поднялся, приоткрыв глаза. И тут же обнаружил, что причиной его пробуждения стала пара искрящихся янтарным блеском глаз.
+«Пора вставать, лежебока».
+Стройная женщина с золотыми глазами слегка наклонилась, по её плечам рассыпались белокурые локоны. В её словах чувствовалось раздражение, но глаза улыбались.
+Юноша пришёл в долину скрытого нефрита, чтобы совершенствоваться в мастерстве, но не думал, что однажды повстречает здесь адепта, странствующего по этим лесам.
+На ней было длинное белое одеяние из лёгкой ткани, плечи покрывал украшенный сверкающими жемчужинами плащ. Золотое сияние глаз завораживало. От неё веяло нежностью и равнодушием. Её голос был прекрасен и тих, словно нефрит, что падает в чистые родниковые воды.
+Истории о далёких временах, которые она рассказывала, зачаровывали настолько, что он забывал о восходе и закате луны, круговороте звёзд, утренних песнях лягушек и стрёкоте цикад.
+Потом она отвела его в горную обитель странствующих адептов, чтобы показать неоконченную партию в шахматы. Вместе с ним погрузилась на дно прозрачной реки, чтобы посетить дворцы умерших богов. Они поднимались на отвесные скалы, чтобы взглянуть с высоты на пустынные руины городов, оставленные горными племенами...
+А когда от серебристых ночных бабочек струился лунный свет, они исследовали сновидения рыб, резвящихся в водах затерянных источников, и танцевали, как танцевали шаманы почитавших змей предков, пока не смолкали цикады, а затем засыпали под шёпот демонов и духов гор.
+Вспомнив об этом, юноша взглянул на её силуэт и вздохнул.
+«Что такое? Всё ведь было хорошо, что ты вдруг заскучал?»
+Уловив её любопытство, юноша, который до сих пор лишь молча смотрел на неё, решил поведать деве о своих душевных метаниях.
+«Смертные всего лишь странники, что скитаются между небом и землёй, потому и влечёт их мимолётная радость и мимолётная печаль, потому они и сковывают себя прошлым и вечно ищут его отголоски...
+Но мне интересно, что несёт в себе столь прекрасная ночь для адепта?»
+«Ты о себе высокого мнения. Вот только боюсь, ещё пара мгновений - и я о тебе позабуду... Адепты бессердечны, ничего не поделаешь».
+Она прищурилась и лукаво улыбнулась.
+«Но раз уж ты спросил, я расскажу тебе об этом».
+
+### Том 2
+Каких же прохожих встретит юноша, заблудившийся в бамбуковой роще?
+
+Адепты живут долго и, разумеется, чувствуют время иначе, чем смертные.
+Смертные видят перед собой лишь ограниченный горизонт событий, но перед ней время расстилается, словно необъятная картина.
+Для смертных время - бесконечная река крови. Алый поток, сколько бы он ни нёсся по своему руслу, сколькими бы притоками ни расходился, рано или поздно выплеснется в чернеющее море, в далёкую, безмолвную смерть.
+Но для неё время было безбрежной пустыней, затканной тонкими, словно паутина, нитями, тянущимися в неведомую даль. Все течёт и меняется, даже горы, неподвижные в глазах смертных, в её глазах исчезают, подобно плывущим облакам. Через призму своих янтарных глаз она видит, как истлевают и разрушаются даже такие долговечные для простого человека вещи, как ртуть, не говоря уже о скоротечных страданиях и радостях.
+В нескончаемом путешествии длиною в жизнь смертные тоскуют по родным местам, а потому блуждают в бесконечном потоке времени, воображая, что утраченные образы воскреснут в будущем. Даже когда поток времени подталкивает их к очевидному выбору, они в растерянности оглядываются в прошлое, будто надеясь вновь увидеть потускневший блеск тех мгновений.
+Но она другая, она мчалась сквозь вечность, и за спиной у неё развевались волосы цвета белого золота, она бороздила волны, приводила всё вокруг в движение, неумолимо устремляясь в будущее.
+Жители гор считали её дочерью времени, белой лошадью, что вынырнула из чистого источника, неподвластная путам и оковам. Как и её гордую мать, её не могли сдержать никакие преграды и заслоны.
+Равнинные пастухи, ступая по её следам, сбросили с себя оковы дикой природы и отправились на поиски зелёных пажитей, и все стада устремились за белоснежным жеребёнком.
+Королевство морских глубин увидело в ней посланницу, в своём воображении они наделили её чешуёй и плавниками и преклоняясь перед светом, исходившим от той, кто была матерью и дочерью одновременно.
+Во времена, когда смертные удостоились благосклонности небес, герои и странники ради её расположения совершали паломничества к источникам и сражались друг с другом ради нежности, что она по себе оставляла.
+Однако после разрушения лунного дворца, падения колесницы и гибели трёх сестёр эти легенды ушли в небытие вместе с обрушившимися несчастьями и гибелью древних народов. Небо установило строгий порядок, остановивший вращение звёзд и движение земли.
+Закованная в звёздную оболочку, она была вынуждена остаться на этой застывшей чужой земле и ждать, когда протянутся нити матери, когда камни сотрутся в пыль, когда случится новая встреча с тем, кто придёт извне...
+
+«Я ответила на твой вопрос. А следующую историю я рассказала тебе вчера ночью».
+Накинув на плечи белую рубашку, она стояла спиной к солнцу. В тени её глаза сияли янтарным блеском.
+«Не сочти за дерзость, но... Я лишь знаю, что ты из адептов, но откуда ты и как тебя зовут?»
+И вновь она лишь засмеялась в ответ, как и в тот раз, когда встретила в роще незнакомого ребёнка.
+Юноша вздохнул и кивнул ей на прощание.
+Много лет спустя, будучи уже в преклонном возрасте, он вспомнил это мгновение. К тому времени он отточил своё фехтовальное мастерство до совершенства, основал собственную школу, но всё равно не понимал последнюю историю, что она ему рассказала. А она по-прежнему мчалась по нитям судьбы, скрывая следы в лесах и источниках от взора богов и оберегая древние истории, которые постепенно стирались даже из её памяти.
+
+## EN
+
+### Vol. 1
+What kind of passerby will the young man, lost in a secluded bamboo grove, meet along his way?
+
+It was when dawn's first dew drizzled upon the lotus leaves, and frogs sang once more, that the young man began to wake.
+
+The morning sun cast shards of light through the bamboo wood, ever so slightly evaporating the previous night's dew still sticking on his linen clothes, while pearly glistening were the white mane-strands that yet lingered on his shoulder.
+
+As the sun shone upon his face, the young man stood up in his lethargy, half-opening his eyes. Only then did he discover that which had disturbed his slumber — a pair of eyes, sparkling like amber gold.
+
+"It's getting late, lazybones."
+
+The slender, golden-eyed woman leaned over slightly, her long platinum hair flowing over her shoulders. Her words bore annoyance, but her eyes hid a smile.
+
+The young man had come to this valley of hidden jade to cultivate his arts, only to unexpectedly encounter an adeptus one night as she, too, passed through these same woods.
+
+She wore a long white cotton robe, and a pearly raincoat and hat were about her. Her eyes were dazzling and gentle, yet indifferent, and her voice was elegant and tranquil, like jade that falls into a clear spring.
+
+She spoke of tales ancient and absorbing, so much so that he forgot the moon's rise and fall, the cycle and orbit of the stars... Even the first croaks of frogs and cries of the cicadas at dawn slipped away from him.
+
+After that, she took him on a tour of secluded abodes where adepti dwelled, and there had him watch an unfinished game of chess; to the bottom of a clear river, exploring the courts of deceased deities; up steep cliffs that overlooked the desolate cities left behind by the mountain tribes...
+
+And still after, when silver butterflies glittered in the moonlight, they would explore the dreams of the fish that played beneath the springs, and they danced together like the ancestral mages who revered the serpent, accompanying the demons and gods of the mountain in falling into deep slumber only when the cicadas had fallen silent.
+
+Recalling all this, the young man gazed at her back and sighed.
+
+"What's wrong? You were fine just now, why are you zoning out of a sudden?"
+
+Sensing his companion's curiosity, the young man, who had thus far simply gazed at her in silence spoke of the misgiving he held in his heart.
+
+"Mortal are but transient guests between heaven and earth, and thus are inclined to momentary joy and sadness, binding ourselves to individual points in the past and forever seeking their echoes..."
+
+"But what would an adeptus think of such a lovely night?"
+
+"You do think highly of yourself. Alas, I may forget you in but a moment... We adepti really are heartless like that."
+
+Then, she gave him a sly smile, and her eyes squinted to slits.
+
+"But since you'd like to know, I'll tell you."
+
+### Vol. 2
+What kind of passerby will the young man, lost in a secluded bamboo grove, meet along his way?
+
+The adepti have a long lifespan, and thus they naturally perceive time differently from short-lived mortals.
+
+A mortal's eyes are fixed upon a narrow, limited future, but in her eyes, time unfurls like a vast painted screen.
+
+A mortal views time as an eternal river of blood. No matter how the crimson torrent rushes along its fixed paths, no matter how it branches and diverges, it surges inexorably toward a horizon so red it appears black— toward distant, silent death.
+
+But in her eyes, time is a barren wasteland with neither beginning nor end, blanketed in spider-silk threads that stretch to unknowable distances. Here, all things walk or run — even the mighty mountains, so fixed in mortal sight, may dissipate like rolling clouds in hers. Even mercury, which mortals hold to be enduring, through her amber-gold eyes can be seen to wear, tear, and collapse — to say nothing of such fleeting troubles or love.
+
+In the endless journey of life, mortals often miss their homeland, and thus wander amidst time's boundless flow, entertaining fantasies that a lost image could be recreated in the future. Though they are driven and pushed by the torrent of the passing years, and when forced to make devastating decisions, they will often look back at the past, perplexed, as though light long-faded might yet return.
+
+But not so her. She sprinted forever alongside all movements, her flying hair ever white-gold as she shattered every wave and dispersed all sediment, caring only to run from this moment into the future.
+
+The mountain people once viewed her as time's daughter, like a white horse leaping from a pure spring, one whom no shackles could bind. Just as it was with her proud mother, so it was with her — no wall or eggshell could bar her path.
+
+The shepherds of the plains once pursued her steps, freeing themselves from the fetters of the wilderness, embarking on a migratory search for the waterweeds, and thus did the golden-white foal blaze the trail for all herds in the land.
+
+The kingdom of the ocean depths once saw her as an emissary, and based on their imagination, they granted her scales and tail plumage, falling down in worship of the light brought by one who was both mother and daughter.
+
+In the days when mortals received the blessings of the heavens, great heroes and wandering champions would visit the clear springs for her blessing, fighting over the tenderness she left in her hurried wake.
+
+But when the moon palace collapsed, the chariot fell, and the three sisters were slain, these legends became lost alongside disaster's descent and the downfall of bygone peoples. The heavens rained down cruel order, and from that day, the stars stilled their orbits, and the earth ceased to turn.
+
+As for her, she had no choice but to be trapped within the shell of the starry sky, forced to tarry within this stagnant, foreign land, awaiting her mother's thousand threads, awaiting the erosion of hardy stone, awaiting the next encounter from beyond...
+
+"Now then, I've answered your question. And as for the story that follows, I told you much of it last night."
+
+He knew not when, but she had already wrapped herself in a white shirt. She turned her back to the scattered sunlight, and her amber-gold eyes glittered in the darkness.
+
+"I know it seems rude to mention this now... But I know you only as a transcendent adeptus, but not where you come from, or even your name. Might I have it?"
+
+Once again, just as she had once faced another child she knew not amidst the bamboo forest, she only laughed, saying nothing more.
+
+Sighing, the young man nodded to her, bidding her farewell.
+
+Many years later, the young man, now old and grey, recalled this moment by chance. By then, he had honed his swordplay to flow like water, founded his own sect, and became a teacher — and still, he never could comprehend the final story she told him. And as for her, she sprints still along the threads of fate, concealing her trail beneath the forests and springs, far from the gaze of the gods, guarding the ancient stories that slip away from even her.
+
+## ZH
+
+### 卷一
+迷失在幽谷竹林间的青年，又将遇到何种过客？
+
+清晨初露沾湿芰荷的那一刻，蛙声又一次鸣响之际，青年将将醒来。
+初阳从竹林间投下碎光，稍稍蒸干了麻布衣衫上前夜的雨露，丝丝缕缕的白色鬃毛泛着珠色，不舍地附在青年的肩上。
+须臾，待日光晃到脸上，青年慵慵支起身，半睁开眼。才发现原来将他扰醒的，是一对琥珀金般闪烁的瞳眸。
+「时候不早了，你这懒货。」
+修长的金瞳女人微微侧身，白金色的长发流泻在肩头。话语带着些许恼意，眼中却隐着笑。
+青年本是来到这隐玉的山谷之中学艺修行，却不想在某夜与同样云游、经过这片山林的仙人偶遇。
+她身着纱质的白色长衣，披着珠光闪烁的蓑笠，金色的瞳眸光彩摄人，温柔却淡漠。她的声音优雅沉谧，如落入清泉的美玉。
+她所讲述的故事悠远古老，令人沉迷，以至于忘记了月亮的升落、群星的循环，忘记了清晨的第一次蛙鸣与蝉声。
+在那之后，她又带他巡游仙人隐居的洞府，旁观未尝下完的棋局；带他潜入清澈的河底，探访已死众神的宫阙；带他攀上陡峭的山崖，俯瞰山中部族留下的冷寂城墟……
+再之后，当银色夜蝶泛出月亮的光泽时，他们一同探索幽泉下嬉戏的游鱼之梦，如旧日奉蛇的先民巫祝那般共舞，直至蝉声初静，才伴着山中妖魅与鬼神的吁叹沉沉入睡。
+回想至此，望着她的背影，青年叹了口气。
+「怎么，方才好好的，忽然发什么呆？」
+察觉到伴侣的好奇，方才一直望着她沉默的青年于是将内心的疑惑道来。
+「凡人朝生暮死，仅是天地间的过客，因此总偏爱拘于一刻快乐、一刻悲伤，将自己束缚在过往的某一点上，永远寻求回响……」
+「只是如此良夜，不知在仙人眼中是何种风情？」
+「你倒是挺看得上自己的，只怕我片刻之后就会把你忘掉了……仙人确是如此无情。」
+然后，她狡黠地笑起来，双眼眯成了月牙。
+「不过既然你想听，我便讲与你听。」
+
+### 卷二
+仙人寿限漫长，对于时间的感触自然同朝生暮死的凡人不同。
+凡人的双眼只固执地盯着狭隘有限的前方，但在她的双眼中，时间则仿若广阔的屏画。
+在凡人的眼中，时间是永远流逝的血流之河，鲜红的洪流不管如何在固定的河道中奔涌、如何奔向分岔的支流，终究将涌向暗红发黑的海平线，流向遥远沉静的死亡。
+但在她的眼中，时间是一片无始无终的荒原，遍布着蛛网般的丝线，向着不可知的远方延伸。一切事物都在阔步或奔跑，即使凡人眼中固定的群山，在她的眼中亦似行云般逝去，即使凡人眼中如水银般的长久之物，她也能透过琥珀金般的瞳眸清晰地望见其磨损与崩摧，更不用提短暂的烦恼与欢爱了。
+在无穷的生之旅途中，凡人往往追念故乡，因而总会在无穷的时间长流之中彷徨，幻想着已失去的影像能够在未来的某一刻重现。即使被时光的激流推动着，不得不做出摧枯拉朽的选择时，往往也会迷茫地望向过去，仿佛那时消逝的光彩会在某一时刻复归似的。
+但她却不同，她永远随着一切运动而奔驰，永远飞扬着白金色的鬃毛，踏碎一切波浪，搅散一切沉淀，只顾从此刻向未来飞奔。
+山中部民曾视她为时间的女儿，正如自清泉腾跃而出的白马，没有任何枷锁能够拘束她。正如她高傲的母亲那般，没有任何障壁或卵壳能够阻挡她。
+平原牧民曾追逐着她的脚步，脱离荒野的束缚，踏上寻求水草的迁徙之路，金白色的马驹成为了大地上所有牧群的前导。
+海渊中的王国曾视她为使者，凭着自己的想象为她平添鳞与尾鳍，为既是母亲又是女儿带来的光芒顶礼膜拜。
+凡人领受高天恩惠的岁月里，高大的英雄与游侠也曾为她的恩惠而遍访清泉，为她匆匆遗留的温柔而互相争斗。
+但在月宫崩毁、高车堕落，三姐妹殒身之后，这些传说也随着灾荒的降临和旧日之人的灭亡而失落了。高天降下酷烈的秩序，从此星空不再移转，大地不再运动。
+而她也只得被拘束于星空的外壳之内，不得不停留在这凝滞的异乡，等待着母亲的千缕丝线，等待着顽石的磨损，等待着自外而来的下一次相遇……
+「你的问题，我已回答了。而接下来的故事，我昨夜已经讲了许多。」
+女人不知何时已经披好了白衫，她背对着散碎的日光，琥珀金般的瞳眸在暗处熠熠生光。
+「说来也是冒昧……我只知你是超凡的仙人，却还不知道你是从哪来的，姓甚名谁？」
+再一次，就像曾经在竹林中面对另一个陌生的孩子那样，她只是笑笑，没有再说话。
+于是，青年叹口气，向女人颔首作别。
+多年后，已然老去的青年偶然回忆起此刻，纵使那时已精熟流水般的剑术，开宗立派成为一方师长，却依然无法理解她所讲述的最后故事。而她依然在命运的丝线之上奔走，将踪迹隐匿于林野与清泉之下，远离神明的目光，守护着那些即使自己也渐渐遗忘的古老故事。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

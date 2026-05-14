@@ -1,0 +1,235 @@
+# id: the_art_of_negotiation
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/the_art_of_negotiation.webp
+# title_ru: «Искусство переговоров»
+# title_en: "The Art of Negotiation"
+# title_zh: 《交涉的艺术》
+# region: Фонтейн
+# volume_count: 1
+# tags: книги, Фонтейн
+# status: draft
+
+## RU
+
+### Том 1
+«Шедевр, написанный истинным гением, — важная веха в науке успеха!»
+
+Исключительная книга, рекомендованная редактором газеты «Ля Готье», титанами делового мира и учёными Научно-исследовательского института Фонтейна!
+
+Она позволяет проникнуть в бездну человеческой натуры и познать её. Это делает её несравненным вкладом в науку и искусство успеха!
+
+Люди часто говорят, что у меня мозги для дела подходят, что я умею разглядеть и использовать возможности. Лично я так не считаю. Думаю, что мы сами создаём возможности. Я начинал с нуля, не имея ни моры за душой. Рассчитывать мог только на себя, на своё умение договариваться и убеждать других работать со мной. Вот так я и создавал свои возможности — путём переговоров.
+
+И весь мой опыт подсказывает, что умение договариваться может решить практически любую проблему. На это я всегда и делаю ставку. Поэтому я надеюсь, что вы сами не пойдёте по такому пути, ведь тогда мне в этом мире будет сложнее.
+
+...
+
+«У меня преимущество»
+
+Я считаю, что исход большинства переговоров можно определить с самого начала. Это знают все, кто со мной знаком. Когда-то я был странствующим торговцем в пустыне, там я начал свою карьеру. У меня не было ни денег, ни опыта. Но я научился кое-чему важному: «Всегда говори громко. Пусть все знают, что ты уверен в себе».
+
+Пустыня враждебна к чужакам. Местные жители имеют дело только с теми, кому они доверяют. Они боятся чужаков, или боятся быть обманутыми. Так зачем им торговать со мной, каким-то мальчишкой без гроша в кармане? Но позже я осознал, что их неприятие чужаков было лишь симптомом. Что же лежит в основе этого страха? Их неуверенность в качестве товаров из внешнего мира.
+
+Поэтому очевидно, что для завоевания их доверия необходимо предоставить убедительные доказательства качества ваших товаров. Или, по крайней мере, заставить их думать, что у вас есть такие доказательства. Как же заставить их так думать? Всё дело в том, насколько уверенно вы говорите, даже если это просто слова. Пока вы держитесь уверенно, все будут считать, что у вас есть основания для такой уверенности, и будут уговаривать себя доверять вам.
+
+Поэтому я продавал свой товар громко и с гордостью. Я использовал свою внушительную манеру речи, чтобы одержать над ними верх, и так сильно напирал, что они начинали задумываться: интересно, а почему он так говорит? Наверное, у него полно покупателей, ему всё равно, купим мы его товар или нет. Значит, и товары у него отличные, и репутация хорошая. Если купим товар у него, не прогадаем.
+
+И все знают, что было дальше. Я сколотил своё первое состояние.
+
+Оглядываясь назад, я считаю, что переговоры — это убеждение собеседника согласиться или принять то, что вы ему говорите. Если одержите верх, продемонстрировав свою силу и ошеломив оппонента внушительной манерой поведения, он будет убеждён. А это делает наши цели легко достижимыми, не так ли?
+
+...
+
+«Направление разговора»
+
+Я считаю, что направление темы разговора — это очень эффективная техника ведения переговоров и надёжный способ выхода из сложной ситуации.
+
+Однажды я решил попробовать продать товары из Мондштадта в Ли Юэ. Но потенциальные покупатели ничего не знали о Мондштадте. Это были самые простые люди, которые никогда в жизни не выезжали за пределы своей родной гавани. Для них покупка товара из неизвестного места была большим риском, поэтому продажи были низкими. Как вы понимаете, мой инвестор начинал терять веру в меня.
+
+Это может показаться сложной ситуацией, но решение оказалось простым. Нужно было лишь рассказать покупателям, какое замечательное место этот Мондштадт, вызвать у них любопытство и даже доверие. И это доверие должно было распространиться и на мои товары и превратиться в продажи. А как быть с инвестором? С ним всё было ещё проще. Ему не хватало веры, и я дал ему веру. Я убедил его, что продажи будут хорошими. И, конечно, неважно, будут ли продажи в самом деле хорошими или нет.
+
+Как только вы определите первопричину проблемы, решение станет очевидным. Но я не мог позволить, чтобы решение стало очевидно всем остальным. Я провёл исследование, и каждому, кто заполнял анкету, полагалось вознаграждение в виде моры. При звоне моры всякий с радостью бежал заполнять мою анкету.
+
+Теперь вы, возможно, зададитесь вопросом, какое отношение это имеет к переговорам. Я могу ответить так: самое мощное оружие в переговорах — это правда, а правдой можно манипулировать. Анкета выглядела как серьёзное исследование, но на самом деле она направляла всех к тому выводу, к которому я хотел их привести.
+
+И вот как всё было. Я подбросил в анкету несколько наводящих вопросов. Например, я считал, что Мондштадт известен своей свободой, а Ли Юэ — неторопливой и счастливой жизнью. И я хотел, чтобы люди пришли к выводу, что эти две вещи дополняют друг друга.
+
+Поэтому я добавил такие вопросы:
+
+Вам нравится спокойная и неторопливая жизнь? Вам нравится атмосфера свободы? Помогают ли вам прекрасные вина наслаждаться жизнью? И тому подобное.
+
+Большинство людей ответили на такие вопросы утвердительно. Затем в анкете я спросил, нравятся ли им свободные и счастливые города, такие как город Мондштадт. И, естественно, большинство людей ответили утвердительно. Таким образом, у нас создалось впечатление, что в Мондштадте все счастливы.
+
+Это создало образ, который я мог использовать в своих продажах. Теперь я продавал не товар, а образ жизни, образ счастья. И, конечно, вы можете себе представить мой успех.
+
+Разумеется, всегда можно столкнуться с несогласными, которые будут отвечать на вопросы не так, как я того желал. Такие ответы могут повлиять на данные опроса и вызвать излишнее беспокойство у тех, кто видит эти цифры — например, у моего инвестора.
+
+Нужно было устранить или хотя бы уменьшить эту проблему. И я сделал это довольно грубым способом. Я намекнул участникам, что вознаграждение будет зависеть от их ответов. Мора — достаточный соблазн, чтобы убедить большинство несогласных пойти на компромисс. Это означало, что у меня есть более чистые данные, которые я могу использовать для подкрепления веры инвестора. А это значило, что настало время для следующей части моего плана.
+
+...
+
+«Универсальный рецепт»
+
+Меня часто спрашивают, существуют ли какие-либо беспроигрышные приёмы ведения переговоров, которые можно использовать в любой ситуации. Я отвечаю, что такая техника есть. Достаточно лишь начинать свои ответы следующим образом: «Я согласен с Вашей точкой зрения, но...». Я называю это универсальной формулой потому, что она использует человеческую природу. Она обнажает наши слабости.
+
+Почему? Потому что мы жаждем одобрения. Никто не может без него обойтись, в том числе и я. Когда-то я был странствующим торговцем, путешествовал по всему миру. Кого я только не встречал! Пустынники, искатели сокровищ, даже орден Бездны. Все они, включая орден Бездны, известный своим упрямством и надоедливым поведением, пересматривали свои взгляды и просили моего одобрения после того, как я произносил эту фразу.
+
+Пожалуй, если бы я знал язык слаймов или хиличурлов, то и они бы тоже попали под чары этого нехитрого фокуса. Поэтому мне бы не хотелось, чтобы об этом знали все, особенно мои конкуренты.
+
+...
+
+## EN
+
+### Vol. 1
+"A milestone in the science of success, this masterpiece written by a true genius is an absolute must-read!"
+An exceptional book emphatically recommended by the editor of La Gouttiere, titans of the business world, and researchers at the Fontaine Research Institute!
+It will impart deep insights and understanding into the abyss of human nature, a truly incomparable contribution to the science and art of success!
+
+People often say I've got a good head for business, that I'm good at spotting and taking advantage of opportunities. Personally, I don't think of it like that. I think we make our own opportunities. I started from nothing, with not a Mora to my name. I had nothing to rely on but myself, my ability to negotiate and persuade those better off to work with me. That's how I created my opportunities — through negotiation.
+
+And all my experiences have taught me that the ability to negotiate can solve almost any problem. That's what I've always counted on. So I hope you won't follow the path I describe, as that would only make the world more difficult for me to succeed in.
+
+...
+
+"Gain the Initiative"
+
+I think the outcome of most negotiations can be determined from the outset. Everyone who knows me knows that. I used to be an itinerant desert trader, which is how I got my start. I had no money, no experience. But I learned something very important out there: "Always speak loudly to make people think you are confident."
+
+The desert is hostile to outsiders. The locals there will only deal with those they trust. They are scared of outsiders, or rather maybe they're scared of being cheated. So why would they trade with me, some penniless kid with no background? But later I realized that their rejection of outsiders was only a symptom. So what was the underlying cause? It's because they can't be sure of the quality of products that come from outside.
+
+So obviously, you need to provide compelling proof of the quality of your goods to win their trust. Or make them think you have that compelling proof, at least. Now, how do you do make them think that? It's all in how confidently you talk, even if it's just bravado. As long as you act confident, people will assume you have a reason for that confidence, and they'll talk themselves into trusting you.
+
+So I hawked my goods loud and proud. I used my imposing manner to overpower them, beating them down until they started to wonder why I dared talk like that. Well, it had to be because I had plenty of buyers and I didn't care if they made a purchase or not, right? Which meant I had to have a good reputation for selling quality goods. That meant they couldn't go wrong buying them.
+
+And you all know what happened next. I made my first fortune.
+
+Looking back, I feel that negotiation is all about convincing the other party to agree with or accept whatever you're telling them. If you gain the initiative by showing your strength and overwhelm your opponent with an imposing manner, they'll be convinced. And that brings our goals within easy reach, doesn't it?
+
+...
+
+"Steer the Conversation"
+
+I find steering conversation to be a very effective negotiation technique and a reliable way of getting out of a difficult situation.
+
+I once wanted to try to sell goods from Mondstadt in Liyue. But my customers didn't know anything about Mondstadt. They were just ordinary folk who'd never set foot outside Liyue in their lives. For them, buying goods from some unknown place was a huge risk, so sales were understandably poor. And as you can imagine, my investor was losing faith.
+
+Now that might sound like a thorny problem, but the solution was simple. I had to talk to my customers about what a great place Mondstadt is, making them curious about it, or even trusting. And that trust would transfer to my goods and convert into sales. And what about my investor? That was even easier. He lacked faith, so I gave him some. I convinced him sales would be good. And of course, it doesn't really matter if sales really are good or not.
+
+Once you identify the root cause of a problem, the solution will become apparent. But I couldn't be too obvious about it. I carried out a market research survey, with a Mora reward for anyone who filled in a questionnaire. Everyone was clamoring to fill one in once they heard the sound of Mora.
+
+Now, you might be wondering what this has got to do with negotiation. I can answer that: The most powerful weapon in a negotiation is the truth, and the truth can be manipulated. The questionnaire looked like market research, but it was actually guiding everyone toward the conclusion I wanted them to reach.
+
+So here's what happened. I planted some leading questions in the survey. For example, I felt Mondstadt is known for its freedom, while Liyue's citizens largely desire leisurely and happy lives. Thus, the conclusion I wanted people to reach was that those two things are mutually complementary.
+
+So I asked questions like this:
+
+Do you like a relaxed and leisurely life? Do you like an atmosphere of freedom? Do fine wines help you enjoy life? And so on.
+
+Most people would answer such questions in the affirmative. Next, we used the survey to ask if they like free and happy cities, such as the city of Mondstadt. And naturally, most people answered yes. With that, we created the impression that everyone in Mondstadt is happy.
+
+That gave me an image to leverage in my sales. I wasn't selling goods now, I was selling a lifestyle, a lifestyle of happiness — and obviously, you can imagine how successful I was.
+
+Of course, you will always run into contrary types who insist on singing a different tune. Those responses can influence the data from the survey and cause undue concern to the people who see those numbers — my investor, for example.
+
+I had to eliminate that, or at least reduce it. And I did so in a rather crude way. I hinted to the participants that the Mora reward would be dependent on their answers. Money is enough of a temptation to convince most of the contrary types to compromise. That meant I had cleaner data, which I could use to bolster my investor's faith. And that meant it was time for the next part of my plan.
+
+...
+
+"The Universal Formula"
+
+People often ask me if there are any unbeatable negotiation techniques that can be used in any situation. I tell them there is one. It is to begin your answers like this: "I agree with your views, but..." I call this the "universal formula" for no other reason that that it analyzes and uses human nature. It lays bare our weaknesses.
+
+Why? Because we crave approval. Nobody can do without it, myself included. I used to be an itinerant trader, traveling all over. I met all kinds of people back then. The Eremites, Treasure Hoarders, and even the Abyss Order. All of them, even the Abyss Mages, known for their stubbornness and mischief-making, would reconsider their views and seek my approval after I used that line.
+
+I would even dare to say that if I could speak the language of Slimes or Hilichurls, they too would fall under the spell of that magic trick. So I would hate for everyone to know it, especially my competitors.
+
+...
+
+## ZH
+
+### 卷一
+「成功学的里程碑，人生中不可错过的大师力作！」
+
+《下水沟报》编辑、商界精英与枫科院学者倾情推荐的绝世好书！
+
+教你洞悉名为「人性」的深渊，成就无与伦比的伟业！
+
+人们常说我是一个善于经商、善于发现和掌握机会的人。我不是这么认为的，我认为机会是创造出来的。我出身不高，也没有本钱，我唯一可以依靠的就是我自己。我可以藉由交涉说服出身高的人与我合作，我也可以藉由交涉制造机会。
+
+所有的经验都告诉我一件事情，就是交涉能解决绝大多数的问题。这是我唯一的依仗，以此我期望你们不要按照我的说法去做，否则，我将面对一个对我而言更为寸步难行的世界。
+
+……
+
+【先声夺人】
+
+我认为很多交涉一见面便可以分出胜负。熟悉我的人都知道。我有在沙漠当行商的经历。那里是我事业的起点，彼时我一穷二白，做生意也没有什么建树。不过在那里我学会了一个重要的经验：「讲话的声音要响亮，给人一种底气十足的感觉。」
+
+因为沙漠本就是个排斥外人的地方，他们只会跟自己信得过的人交易，他们害怕外来者或者说他们害怕欺骗。但一个白手起家的穷小子哪里来的背书呢？后来我明白，沙漠部族的排外只是表象，本质是什么？是他们知道自己没有能力保证外来货品的可靠性。
+
+显然在这种情况下他们就需要你提供强而有力的证明以赢得他们的信任。又或者你可以让他们以为你有强而有力的证明。那如何才会让人相信你有证明呢？那就是讲话的信心。哪怕是虚张声势。只要你有信心，别人就认为你有本钱，他们就会自我催眠认为你可以信任。
+
+所以我就是要大声，大声叫卖、大声喝斥。他们气势上被我压倒了，然后他们就开始思考，这个人为什么敢这样说话呢？一定是因为他不缺买家，他无所谓。那他的货物一定很好，信誉一定很棒。买他的准没错。
+
+后来的事情我们就都知道了，我赚到了属于我的第一桶金。
+
+那么回头来看，交涉的目的多是使别人认同或接受你输出的内容。
+
+如果你先声夺人在气势上压倒了对手，他因此而被你折服。那我们交涉的目的不是就可以很轻松地达到了吗？
+
+……
+
+【话题引导】
+
+在我看来话题引导是非常有效的交涉方法，它往往是打破困难局面的可靠手段。
+
+我曾想在璃月推销来自蒙德的商品。但我当时的客群是不了解蒙德的，他们很多是一辈子都从未离开过璃月的普通人。那么，对这些客户来说购买不了解的商品是很危险的，那自然销售就不会顺利。可想而知，此时我的赞助人也没什么信心了。
+
+这个问题看似棘手，但解决起来也很简单。对客户来说。告诉他们蒙德是一个好地方，让他们产生对货源地的好感甚至信任。这层信任感会被传递到产品身上，并最终为我们制造业绩。那怎么摆平赞助人呢？更简单了，他缺的是信心，那就给他信心。让他相信销售会顺利就行了。当然，销售是否会真的顺利这件事本身并不重要。
+
+问题的根源找到了，解决方案也便呼之欲出了。为了避免解决问题的手段过于露骨，我选择了进行一场市场调查。这是一份问卷，在问卷中我则宣传说参与问卷的人就有机会获得摩拉。一听到有摩拉，人们就趋之若鹜。
+
+那么问题来了，有人问这跟交涉手段有什么关系呢？我可以这样回答：交涉最有力的武器是事实，而事实是可以人为操作的。这问卷看似是在调查，但实际上是在引导话题，将所有人引导向一个你想要的结论。
+
+接下来事情的发展就如此发展：我在问卷中设定一些问题来引导思考。比如说我分析蒙德的标签是自由，一般而言璃月人的需求则是安逸快乐的生活。那么我就要想办法让人们得出一个结论：自由与安逸快乐的生活之间有必然的联系。
+
+因此就出现了如下的提问：
+
+「你是否喜欢节奏缓慢的轻松生活」、「是否喜欢自由的气氛」、「是否认为美酒对生活调剂有益」等等。
+
+这些问题多数人会给出正面的回答。那接下来我们就可以透过问卷告诉他们，蒙德就是这样一个自由快乐的城邦，而你是否会喜欢这样的城邦呢？不必多问，我们收到的回答多数都是肯定的。此时他们已经产生了一个印象，即蒙德的人都是快乐的。
+
+我后续的宣传就可以打出旗号，我贩卖的不是货物，而是一种生活方式，一种名为快乐的生活方式。显然，接下来的发展各位读者就可想而知了。
+
+当然我们也会遇到那种叛逆、喜欢唱反调的人。这些人会污染问卷的数据，影响看到问卷结果的人——也就是赞助人——的信心。
+
+此时我要消除或淡化这种影响。我选择的方式简单粗暴，就是暗示参与问卷的人，摩拉的获得是与他们的回答相关的。面对摩拉诱惑时，绝大多数顽劣份子都会选择妥协。此时数据的纯净便得以保障，赞助人那脆弱的信心也可以获得维护。这时计画便可以向下一个阶段迈进了。
+
+……
+
+【万能公式】
+
+总有人问我是否有一击必胜的交涉手段，我会告诉他有，然后选择这句话作为回答：「我同意你的观点，但…」我把这句话称为万能公式。原因无他，这句话就是解析和利用人性的公式，人性的弱点在它面前暴露无遗。
+
+为什么呢？因为人都是渴望认同的，没有人例外，我也一样。我曾在各处以行商的身分四处旅行，在这期间我遭遇过形形色色的人——镀金旅团、盗宝团，甚至深渊教团，什么样的人都有。即使是以固执和麻烦著称的深渊法师，在我抛出这句话时都会愿意重新思考并寻求我的认同。
+
+我敢断言，假设我能掌握史莱姆或者丘丘人的语言，那它们也会折服在这句话的魔力之下。因此我并不希望所有人都学会这句话，尤其是我的竞争对手。
+
+……
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

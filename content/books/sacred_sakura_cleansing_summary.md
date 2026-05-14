@@ -1,0 +1,97 @@
+# id: sacred_sakura_cleansing_summary
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/sacred_sakura_cleansing_summary.webp
+# title_ru: Указания по очищению Священной сакуры
+# title_en: Sacred Sakura Cleansing Summary
+# title_zh: 神樱大祓要略
+# region: Инадзума
+# volume_count: 1
+# tags: книги, Инадзума
+# status: draft
+
+## RU
+
+### Том 1
+Потрёпанное руководство со сведениями о ритуале очищения Священной сакуры. Некоторые из его страниц отмечены киноварной печатью некоего святилища.
+
+...
+«Первый грех Наруками на небесах, второй грех Ватацуми среди людей. Восстановление Тинси. Чтобы умилостивить богов».
+В указанные выше примеры входят все ритуалы, очищения, церемонии и проклятья. При выполнении великого очищения нужно придерживаться предыдущих примеров.
+
+Громовые сакуры выросли из пересаженных ветвей Священной сакуры. Они отростки духа Наруками и соединяют Великий храм со всеми остальными.
+В те времена на небесах случались постоянные катастрофы, а земля была исполнена мерзости. Не было недостатка в свирепых воинах, а демоны крушили всё и вся. Чтобы справиться с пороком, от Громовой сакуры в храме отломили ветвь.
+За годы беды накапливаются. Поэтому чтобы успокоить хаос, нужно проводить очищение.
+
+Очищение Громовой сакуры должно проходить раз в 60 лет. Ритуалы делятся на большие и малые. После нескольких малых очищений должно проводится большое.
+Во время малого очищения грехов небес и народа прочтите «Касикоми». Запечатайте миазмы преградой, спрячьте опухоли от людей. Поставьте защиту - заколдованный предмет. Выполните этот ритуал в пяти местностях Наруками, одна за другой.
+Цель малого очищения - отдалиться от мерзости. Это даёт несколько лет мира.
+
+Во время великого очищения, грехи небес и народа. Поставьте как защиту пять чувств, а именно глаза, рот, нос, ладони и стопы, и сломайте преграду малого очищения. Избавьтесь от мерзости с помощью великого божественного заклинания.
+Цель великого очищения - избавиться от мерзости и очистить грехи.
+
+Конец краткого содержания, подробности ниже.
+Остальное нечитабельно из-за потёртостей, грязи и повреждений.
+
+## EN
+
+### Vol. 1
+A tattered scroll containing information related to the Sacred Sakura Cleansing Ritual. Some pages seem to bear the cinnabar seal of some shrine.
+
+...
+"Seek first forgiveness from Narukami in the skies above, and then from Watatsumi on the land below. Then, recite prayers to quench the gods' anger."
+The aforementioned ritual must be carried out before any sacrifices, exorcisms, blessings or spell-rites can take place. The same holds true for this Cleansing Ritual.
+
+The Thunder Sakura were born from grafted Sacred Sakura branches. They are offshoots of Narukami's own spirit and connect the Grand Shrine to all others.
+In those days, catastrophe rocked the heavens and demons roamed the earth. The land was defiled, ferocious foes abounded, and small devils wreaked havoc. Thus, the branches were broken off at the Grand Shrine and transplanted across the land to cleanse the filth.
+Years passed, and damage accumulated. The Cleansing Ritual must thus be performed to calm the chaos.
+
+The Thunder Sakura purification must take place once every 60 years. The ritual may also be divided into a minor and major cleansing. After performing the minor cleansing a few times, the major cleansing must then be carried out.
+During the minor cleansing, one must first seek forgiveness from sky and land, tie up a Shimenawa to form a barrier, and recite the "kashikomi." Next, all the filth must be sealed up inside the barrier and the poisoned root nodules must be isolated from any mortal dwelling. Finally, a ward must be used to suppress all the filth. This must be performed separately in five different places on Narukami Island.
+The purpose of this minor cleansing ritual is to isolate the defilement and thus procure some years of peace.
+
+During the major cleansing, one must first seek forgiveness from sky and land. Then five wards representing the eyes, the mouth, the nose, the hands and the feet must be retrieved, destroying the barriers created by the minor cleansing in the process. The filth must then be eradicated by a powerful spell.
+The purpose of the major cleansing ritual is to wipe out the defilement and to completely eradicate the filth.
+
+This is the end of the summary. The details are as follows:
+(The rest of this text has been rendered unreadable by abrasion, contamination, and other damage.)
+
+## ZH
+
+### 卷一
+记载着「神樱大祓」相关信息的残破书卷。某页有看起来像神社留下的朱砂印。
+
+……
+「先罪天之鸣神，复罪国之海祇。复白镇词，息神々忿怒。」
+以上定例，并载一切祭式、祓式、祝式、咒式前。如行大祓，须依前例。
+
+雷樱之木，神樱之移枝。盖鸣神总灵之分灵，通大社之从社别龛。
+彼时有天反之灾、地反之妖，土地秽粪，凶将跋扈、百鬼跳梁。大社折枝移株，以镇不净。
+积年经月，物害累计。须有祓祝，以息乱扰。
+
+雷樱之祓，甲子为期。另论大小，祭仪相异。凡数轮小祓，须继一大祓。
+小祓之期，罪天罪国，结连注为界，念「畏伎」之句。垣瘴晦于界内，藏根瘤以避乡里。复以物胜之。鸣神五处，次第施行。
+小祓之用意，旨在离秽。依此可得数载太平。
+
+大祓之期，罪天罪国。依眼口鼻手足，取五镇物，摧小祓之结界。复以大神咒除秽。
+大祓之理，在于除秽，使罪得散。
+
+要略此毕，下为详说。
+【其余的部分已经因为风化、污染与破损，无法阅读了。】
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

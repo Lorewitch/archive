@@ -1,0 +1,324 @@
+# id: records_of_jueyun
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/records_of_jueyun.webp
+# title_ru: Хроника Заоблачного предела
+# title_en: Records of Jueyun
+# title_zh: 绝云记闻
+# region: Ли Юэ
+# volume_count: 6
+# tags: книги, Ли Юэ
+# status: draft
+
+## RU
+
+### Том 1
+Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги посвящена каменным зверям.
+
+—— Каменные звери ——
+На землях Ли Юэ до сих пор сохранилось множество статуй, и многие возведены местными, чтобы возносить молитвы о хорошем урожае и крепости скал. Но есть и другие статуи, истории о которых восходят к древности.
+Эти легенды передаются из уст в уста среди рыболовов с реки Бишуй, собирателей Серебрянки с Тростниковых островов и старых горняков. Говорят, в отдалённых уголках Ли Юэ прохладными осенними ночами просыпаются древние каменные создания, они смотрят на этот мир, постепенно ставший для них чужим, слушают приветственное кваканье лягушек и жужжание насекомых, и тогда из их каменных глоток вырывается скорбный рёв. А потом они расходятся по землям Ли Юэ, осматривают те земли, что некогда охраняли от зла.
+Никто никогда не видел своими глазами этих Каменных зверей и их путешествия по земле. Но местные жители, прекрасно знакомые с местностью, давно привыкли к тому, что местоположения и позы Каменных зверей каждый день меняются. И те путешественники, кто плохо спят в своих лагерях, часто слышат звуки, подобные шуму бегущей воды, но более низкие и гармоничные.
+Итак, откуда же появились эти древние Каменные звери? По легендам стариков из деревни Цинцэ, это те мистические создания, что некогда последовали за Властелином Камня на войну. После окончания Войны Архонтов, вода отступила, и на земли Ли Юэ вернулся мир. Мистическим созданиям больше не было нужды охранять смертных, как они делали во время войны Архонтов, и они один за другим разошлись по уединённым уголкам мира и предались смиренной жизни далёких от суеты мира отшельников.
+Однако некоторые мистические создания продолжали тосковать по былым временам, когда они следовали за Гео Архонтом, по тому времени, когда они охраняли Ли Юэ. Хотя мистические создания не принадлежат этому миру, они тем не менее смертны. Поэтому они обратились к Властелину Камня, чтобы он превратил их смертные тела в нерушимый камень. И милосердный Гео Архонт внял их молитвам, и сделал их подобными скалам.
+
+### Том 2
+Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги посвящена древним преданиям.
+
+—— Дворец морского божества ——
+Пришёл день свадьбы.
+Грозный Бог Моря гордо восседал на колеснице-раковине, держа в руках поводья двух морских чудовищ - стоя перед величественной колесницей, эти двое были подобны непоколебимым горам Тяньхэн. Бог Моря принял жемчужины, преподнесённые ему в дар старейшинами, и после хрупкая невеста поднялась к нему на колесницу. Деревня же получила его свадебный подарок невесте - целый год, свободный от штормов и морских волнений.
+
+Бог Моря забрал свою невесту глубоко в морские пучины, подальше от празднующих толп и от её одинокой матери. Пройдя через длинную галерею, образованную гигантским скелетом давно почившего кита, а затем - через украшенные жемчугом и перламутром двери, девушка вступила в покои Бога Моря.
+«Изначально я не собирался вмешиваться в суету смертных», - успокоил молодую жену Бог Моря, и голос его был подобен ряби на воде.
+«Здесь многие девушки обрели новый дом и место, здесь же они прожили до самой своей смерти. Для них, изгнанных своими же односельчанами, море стало убежищем, где сны о прежней жизни больше не преследовали их».
+
+Но девушке не нужен был украшенный раковинами и жемчугом новый дом, а мерцающие глубины моря и скрывающиеся в них твари внушали ей ужас. Чем дольше жила девушка в своих морских покоях, где не было закатов и рассветов, тем сильнее страдала она от тоски по родным краям.
+Однажды Бог Моря узнал о чувствах девушки. Он был разочарован её выбором, но всё же позволил ей самой принять решение.
+«Однажды, вкусив жизни в полном несовершенств человеческом мире, ты пожалеешь о сделанном выборе», - Бог Моря достал из-за пояса витую раковину и подарил девушке.
+«Однажды ты подуешь в эту раковину, и в тот же миг сможешь перенестись сюда».
+
+Девушка взяла ракушку и вернулась на землю. Прошли годы, и она стала матерью. За хлопотами мирной жизни морской замок стал казаться лишь далёкой детской мечтой, и лишь изредка вспоминала она мерцающие огни морских глубин и причудливых подводных чудищ. И так шли годы... Пока не наступил вновь день свадьбы, когда старейшины во главе людской процессии пришли в её дом. И только тогда, когда они забирали её дочь, женщина поняла, о чём предупреждал её в свое время Бог Моря.
+И тогда, накануне свадьбы, мать подула в ракушку.
+Бог Моря будто возник из морской пены, и гигантская волна накрыла деревню и забрала в необъятные морские пучины спящих людей и старейшин. Огромное морское чудище явилось, запряжённое в сверкающую колесницу-раковину, и,словно скала, замерло перед матерью.
+И как когда-то в юности, мать, взяв дочь за руку, взобралась на колесницу Бога Моря, и они покинули деревню, погребенную под толщами морской воды.
+
+### Том 3
+Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги посвящена происхождению склона Уван.
+
+– Уван –
+Среди горных вершин и глухих мест на севере от гор Цинцэ есть откос, названный «склон Уван». Это место окутано тёмной энергией, а потому порождает много слухов и легенд.
+Жители Ли Юэ говорят, будто бродят среди лесов склона Уван духи умерших людей, и кружат они подле древних заброшенных деревень да блуждают меж сухих древ и увядшей листвы, не в силах отойти от вещей, что при жизни манили их. Эти неуловимые призраки уводят случайных людей с их пути и толкают на опасные горные тропы... Чтобы там те сорвались в горный поток или стали добычей затаившихся чудовищ.
+Отсюда и пошло название «Уван». Слово «Уван» означает «благоразумие», а склон Уван - это «склон, где благоразумие становится наказуемо». Даже те путешественники, что избегают неразумных и импульсивных действий, обречены быть схвачены злом, которое, словно тонкое покрывало тумана, стелется над горами.
+Невинные жители гор и невежественные путешественники рано или поздно поддаются обману призраков, углубляются во мрачные леса, укрытые горным туманом, шагают навстречу неизвестной опасности. Способы, к которым прибегает нечисть склона Уван, чтобы сбивать с пути смертных, разнообразны: они могут олицетворять утраченные мысли или горькие сожаления, и с помощью голосов умерших, образов доброты ушедших и раскаяния отвергнутых заставлять путешественников, идущих через горы, подчиниться их зову, последовать за ними, уйти...
+Но склон Уван не всегда был таким. Совсем недавно здесь ещё жили люди; в ещё же более далёком прошлом в деревнях под этим склоном витали запахи еды да сверкали огни фонарей. Сейчас некогда жилые дома заброшены, а от жителей остался лишь шёпот духов.
+Среди детей из деревни Цинцэ ходит такая легенда: песнь далёкого морского чудовища увлекла за собой молодых людей. Они последовали за иллюзорными обещаниями и детскими мечтами, один за другим вступили в спокойные воды реки Бишуй. Её волны понесли их к далёкому морю, где они слились с кипящей морской пеной и утратили всякие воспоминания о своих лесах и деревнях... А мечты их стали песней чудовища.
+Так, поколение за поколением, молодые люди уходили, старики со склона Уван один за другим умирали, и молчаливые, проклятые деревни растворились в нестерпимом сиянии огромной гавани, на которую устремил свой взор Властелин Камня.
+Но, в отличие от изменчивых и коротко живущих смертных, вечные артерии земли помнят всё. Потоки элементов превратились в духов, что явили собой мечты и кошмары некогда живших здесь людей. Как потерявшая ребёнка мать, всё ищущая способ вернуть давно мёртвое прошлое, не имеющие сознания артерии земли не раз воссоздавали тени ушедших жителей, повторяли крик каждого младенца, стон каждого старика, все радости и горести прошлого. Они, подобно песне морского чудовища, непроизвольно манили каждую вторгающуюся сюда душу, что плачет по былому.
+
+### Том 4
+Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги посвящена феям, живущим высоко в горах.
+
+– Горные феи –
+Среди горных лесов Ли Юэ скитается множество посвящённых самим себе фей. Эти светящиеся существа вечно парят в туманах горных лесов и среди развалин древних городов, бесцельно скитаются среди давно заброшенных и сгнивших деревень. Они указывают путь тем путешественникам, кому дарован Глаз Бога, и ведут их к скрытым сокровищам или исполненным с ювелирной точностью древним механизмам.
+Жители Ли Юэ говорят, что встретить этих маленьких бессловесных созданий - хорошая примета, ведь это - духи, остающиеся после смерти Адептов или добрых Архонтов, чьи имена давно забыты. Некоторые считают, что феи на самом деле являются эхом душ людей, потерявших родных и оставшихся в горах. Они помогают одиноким путникам найти обратную дорогу.
+В деревнях Ли Юэ из уст в уста передают древнюю легенду: говорят, блуждающие в горах феи некогда были существами ещё более древними, чем Адепты, и обладали изящными телами и великой мудростью. Они бродили по горным лесам и гуляли по залам древних городов задолго до тех времён, когда Властелин Камня и другие Архонты вступили в войну друг с другом.
+В незапамятные времена одна фея дружила с путешественником, пришедшим из иных мест, и в лунном дворце перед ликами трёх сестёр они принесли клятву, что связала их судьбы. Но через тридцать дней разверзлась катастрофа, и фея с её возлюбленным бежали по раскалывающимся землям этого мира, пока катастрофа не настигла их. Они были жестоко наказаны и разлучены на веки, и даже воспоминания их друг о друге были рассеяны в прах.
+Лишённая истинной любви фея и её сёстры день ото дня угасали, и даже их прекрасные тела распались. Они разошлись по горным лесам и руинам и превратились в крохотных существ, которых мог легко рассеять ветер. Они многое забыли, многое потеряли, утратили свои голоса и мудрость, и всё, что у них осталось - это полные скорби песни. Именно поэтому они, хранящие искрение чувства к давно потерянным возлюбленным, ведут задержавшихся путешественников среди лесов и туманов. Находя давно заброшенные места, дорогие их душам предметы или не поддающиеся расшифровке стихи, феи вспоминают давно утраченные истории.
+Конечно, это лишь разрозненные причудливые слухи, фантазии жителей деревень Ли Юэ о временах до прихода Властелина Камня, не представляющие никакой ценности. Но почему же тогда среди гор и ручьёв скитаются эти скорбящие феи, никто до сих пор толком не знает, и у каждого своё мнение на этот счёт.
+
+### Том 5
+Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги рассказывает об общей истории цилиней и людей.
+
+- Цилинь -
+Среди гор и деревень Ли Юэ ходит легенда, что цилинь - это очень уважаемый и милосердный Божественный зверь. Цилини часто бродят среди гор и лесов и появляются, только когда дождь и сияние звёзд сплетаются вместе глубокой ночью, а вкушают они лишь чистую сладкую росу и горькие пряные травы.
+Цилинь - это ласковый и нежный Божественный зверь, изящество и благородство у него в крови. Говорят, цилинь никогда не навредит живому, пусть даже это будет лишь букашка, ползущая по травинке. Ещё говорят, что каждая привычка, каждое движение цилиня соответствует изящным правилам древнего этикета и не меняется в течение многих тысяч лет.
+После окончания эпохи опустошительных войн Архонтов многие Адепты не смогли привыкнуть к шуму и гомону простых смертных, поэтому, согласно плану Властелина Камня, они удалились в бамбуковые рощи и горные цепи, чтобы жить там в уединении. С тех пор они никогда не вмешиваются в дела мира смертных, а забавляются среди гор и рек, и каждый безмятежно счастлив.
+Но есть ещё множество Божественных зверей, которые за многие века тесного сотрудничества со смертными успели привязаться к ним, а потому решили остаться в человеческом мире, пронизанном мыслью и волей Властелина Камня, чтобы своей добротой и чудесными силами помогать городу смертных. Они или скрываются в горных селениях, или обитают в пышно цветущих торговых кварталах и живут с людьми в тесной связи.
+По легенде несколько тысяч лет назад в роду изящных цилиней уже была та, кто породнилась с выходцем из народа грубых, невежественных смертных.
+Говорят, несколько тысяч лет назад, в дикую эпоху люди использовали цветы и листья лотоса и лавра вместо одежд.
+Однажды ночью один собиратель трав совершал омовение в некоем горном озере, как вдруг его разложенную на берегу одежду съел цилинь. Ещё молодой Божественный зверь совершенно не понимал стыда и соблазнов смертных, к тому же не совсем понимал способ, которым Божественные звери приходят в мир смертных.
+Чтобы извиниться за свой грубый поступок и чтобы не пугать смертного сверхъестественным видом Адепта, цилинь принял обличье человеческой девушки, и, дождавшись, когда свет полной луны осветит озеро, она явилась перед собирателем трав.
+Юная цилинь совершенно не понимала стыда и соблазнов смертных. Под холодным светом луны, в сонме всполохов лесных светлячков, в облачении из росы и лунного света она играла с невежественным смертным, бродила среди цветов и бамбуковых зарослей, знакомила его с обителями Адептов, переводила ему слова птиц и животных, а потом они спали под тихий звон ночных насекомых и вместе видели далёкие древние сны...
+К тому времени, когда собиратель трав проснулся от скользнувшего по лицу первого луча солнца, Божественный зверь уже бесследно исчезла.
+
+У этой истории несколько концовок. Одни говорят, будто однажды ночью цилинь пришла к дому собирателя трав и принесла бамбуковую корзину к его порогу, а потом исчезла в сплетении лунного света и ночной дымки. Когда собиратель трав вышел из дома, он обнаружил лишь бамбуковую корзину, в которой сладко спал ребёнок.
+Другие говорят, что цилинь провела со смертным всю свою жизнь, родила детей, привыкла к людскому быту...
+
+Много тысяч лет спустя уже невозможно сказать, где правда, но изящные цилини и по сей день живут вместе с людьми Ли Юэ, скрываются в шумном людском море, ожидая часа, когда Властелин Камня вновь призовёт их.
+
+### Том 6
+Сборник мифов, легенд и преданий Ли Юэ. Эта часть увлекательной книги знакомит читателя с древними руинами гробницы Дуньюй.
+
+- Дуньюй -
+На северо-востоке от гавани Ли Юэ, в ущелье, что южнее Южных небесных врат, молча высятся древние полуразрушенные стены.
+Это место жители Ли Юэ привыкли называть «гробница Дуньюй». Говорят, эти руины существовали ещё до войны Архонтов.
+По легендам, что передаются из уст в уста, слово «Дуньюй» означает «место, где укрыт прекрасный нефрит».
+В незапамятные времена, когда даже Властелин Камня был ещё юн, в пустоши, что к западу от Ли Юэ, упал метеорит. От его удара в земле появилась глубокая бездна, и в ней стали расти прекрасные нефриты и благородные металлы. Богатства этой жилы были нескончаемы, поэтому горнорудная промышленность Ли Юэ благодаря ей развивалась ещё многие тысячи лет.
+Говорят, когда тот безымянный метеорит рухнул на землю, его осколок откололся и упал среди скал в северной части предместья Лиша.
+Все знают, что молчаливые металлы скрывают в себе божественные силу и дух. В далёкой древности, которую люди не видели и которую не могут осознать, эти металлы следили за пульсацией артерий земли, слушали эхо горных источников, внимали скалам, стойко и неизменно следящим за миром.
+Но метеорит, упавший с небес, был не таким. Он, в отличие от простых и непоколебимых земных камней, обладал высокомерием и горячностью.
+
+Позже земные Архонты и государи вступили в войну за небесный трон, и звёздное небо и бездна утратили свои цвета, а зло и страдания стали душить горы и водные потоки. Небесный метеорит не вынес этого, и, не вняв уговорам Разлома, убежал обратно на небо.
+После того, как прекрасный нефрит вернулся на небо, остался только глубокий провал. Люди построили там город и прочную крепость, чтобы удержать и защитить то, что осталось от метеорита.
+Та твердыня величественно возвышалась в ущелье Дуньюй, и трудности и волнения многих тысяч лет не сломили её. Пять сотен лет назад она ещё поддерживала контакты с бурно цветущим Ли Юэ.
+Но чёрная беда поднялась из Бездны, и жители Дуньюй запечатали древний город, покинули родные места и рассеялись по земле. Никто не знал, почему же эти люди закрыли свой родной город, и даже Адепты и Якса, видевшие тысячи лет хаоса, ничего не рассказали.
+После этого закрытый город превратился в огромную и пустую гробницу, в которой остались лишь никому не нужные озёра да свист ветра. Поэтому жители Ли Юэ назвали это место «гробница Дуньюй».
+
+## EN
+
+### Vol. 1
+A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment is on the legends of stone beasts.
+
+—Stone Beasts—
+Stone statues appear all across the vast land of Liyue. Most were built by locals who prayed to them for favorable weather and peace steadfast as the mountains. But it is claimed that some have a much more ancient history.
+One story regarding the animal statues in particular is popular among the fishermen of the Bishui River, the Silvergrass harvesters of Dihua Marsh, and the old mining crowd. They say that in some corners of the land, ancient stone beasts wake at night in the cool of the fall and look around at a world that has slowly become alien to them. Hearing the sounds of frogs and insects greeting them, they respond with deep, soulful cries from their petrified throats. Then they roam around Liyue, inspecting once more the land they used to protect.
+To my knowledge, no one has ever witnessed a stone beast in motion firsthand. However, local residents who know the territory extremely well have long observed and accepted the phenomenon that the animal statues can change location and posture overnight. Meanwhile, light-sleeping campers often report hearing a sound in the middle of the night that is like flowing water, only much deeper in tone.
+As for where these stone beasts originally came from, the elders of Qingce Village say they are illuminated beasts who once fought alongside Rex Lapis in the Archon War. After the war ended, the tide subsided and peace was restored. The illuminated beasts were no longer required to serve as defenders of the common people, and one by one they retreated to more secluded parts of the country. There they lived free from concern for mortal affairs.
+But some illuminated beasts remembered with fondness the glorious days when they served under Rex Lapis, and they pined for the years they protected Liyue. Though they were not of the mortal realm, nor were they immortal: For them, too, life would one day come to an end. Thus, they beseeched Rex Lapis to turn their ephemeral flesh bodies into everlasting stone. The merciful Geo Archon granted their request and made them as such.
+
+### Vol. 2
+A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment is on ancient fictional stories.
+
+—Palace Beneath the Sea—
+The day had arrived. It was time to collect the bride.
+The Sea God looked majestic indeed as he sat center stage in his giant clam, holding in his hands the reins of two sea serpents. They stood as imposing as Mt. Tianheng before the royal carriage as their master accepted the gift of pearls from the village elders and welcomed his new bride aboard the carriage. In return, the village would receive the Sea God's blessing: a year free from tempests and tsunamis.
+
+The bride was whisked away to a place deep beneath the waves, far from home, far from the reveling crowds celebrating the festival, and far from her mother all alone. The Sea God took her along a corridor of great columns, formed from the skeleton of a dead whale, that led to a palatial gate adorned with shining pearls and iridescent shells. Finally, the young bride had arrived at the palace the Sea God had made for her. The palace that was to be her new home.
+
+"It was not my plan to meddle in the affairs of common people," came the god's voice rippling through the water. It was a husband's attempt to console his bride.
+"This place has served as a new home for many other young women, and it also became the place they spent their final days. Many of them were driven away from the village where they were born. For them, the ocean has provided safe refuge. Somewhere they could sleep peacefully without fear of being disturbed. Somewhere they could call home."
+But this young woman did not want a new home decorated with prize pearls and rare shells. The dazzling spectacle of the ocean floor — and the creatures that she knew lurked in the darkness — filled her not with peace, but with dread. Time went by, and the longer she stayed in her bewildering ocean chamber that knew not sunrise nor sunset, the more homesick she grew — and the frailer she became.
+Eventually, there came a day when the Sea God sensed what his young bride was feeling. Though he was saddened by her choice, he allowed her to go through with her decision.
+"In the fallen world of the humans, there will come a day in your life when you regret this decision." The Sea God took the shell of a sea snail that adorned his waist and handed it to her as a parting gift.
+"There will come a day that you blow into this shell, and it will sound like a horn. On that day, you shall return to this place."
+
+The young woman took the shell and returned to the land. The years went by, and soon she became a mother herself. As she went about her simple, peaceful life, the ocean palace seemed but a childhood dream. The dazzling sights and grotesque creatures would once in a while flood into her mind from the murky depths of her memory, but it was a rare occurrence, and she put them out of her mind. She lived like this year after year. Until one year, when the festival came once again, the village elders came to her home. They had come to take her daughter from her arms. It was then that she finally understood why the Sea God had spoken of her regret, and of her return, all those years ago.
+On the eve of the festival, she blew into the shell, and it sounded like a horn.
+The Sea God responded to the call, rising up from the billowing waves to greet the village. But his embrace was a tidal wave that engulfed the village, and took the villagers and elders in their sleep. Drawn by giant sea serpents, a colossal clam carriage came to a halt in front of her, dazzling her with its shimmering pearls.
+The mother took her daughter by the hand and boarded the Sea God's clam. It was just like she remembered from her childhood — only this time, the village she left behind now lay in ruins beneath the ocean waves.
+
+### Vol. 3
+A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment is on the origin of Wuwang Hill.
+
+—Wuwang—
+Hiding between the jagged peaks in the north of Mt. Qingce is a slope known as Wuwang Hill, a palpably ominous place and the setting of many tales of supernatural phenomena.
+It is rumored in Liyue that the spirits of the dead lurk within the woods on Wuwang Hill. They roam the perimeter of the decrepit village, wandering among the withering trees and rotting foliage, eternally yearning for things left unresolved in living years. These floating spirits often entice unsuspecting passers-by away from the main path and onto treacherous mountain tracks that lead them tumbling into a river or straight into an ambush of ravenous monsters.
+It is this phenomenon from which Wuwang Hill derives its name. Wuwang means "prudence" in the common tongue, and Wuwang Hill is said to be "the hill where the prudent are punished." For even those travelers who do not act rashly or impulsively on their journey are doomed to be ensnared by the malevolence that lingers here like the mist in the mountain air.
+Both innocent villagers and ignorant visitors alike are susceptible to the deception of the Wuwang Hill spirits, which draw them deep into dark woods where thick mist blots out the sky and unknown dangers lurk in the shadows. There are many means by which these sinister spirits are able to deceive mortals. Some take the form of bereavement or grief, others of regret, manifesting as voices and visages of the deceased, the love of the departed, or the remorse of another party in an unresolved dispute. The traveler finds themselves compelled to heed the spirit's cry, and follows them into the depths of Wuwang.
+But Wuwang Hill was not always this way. Some signs of life remained there up until relatively recently, and in times gone by the village at the foot of the slope enjoyed a peaceful and leisurely existence, the chimneys always smoking and the lanterns always lit. That same village stands abandoned today... The buildings are in ruins and all that remains of the villagers is the indistinct murmuring from a realm beyond.
+There is a fable that is oft-repeated among the children of Qingce Village. It holds that the young people of Wuwang Hill, enchanted by the whale-like song of a faraway sea monster, all threw themselves into the gently flowing Bishui River in pursuit of false promises and childlike dreams. Along the river they floated, making their way to the Sea of Clouds, where they became one with the waves and lost all memory of the woods and their village on the hill... Their dreams, meanwhile, became the sea monster's song.
+Generation after generation of young people disappeared in this way, until in the end, the sole remaining residents of Wuwang Hill were old and gray. One by one, they left this mortal plane amidst sighs of grief. The bright lights of Liyue Harbor, Rex Lapis's pride and joy, burned ever brighter, while another neglected mountain village turned into a silent ghost town.
+But unlike the fleeting and fickle human mind, the ever-flowing ley lines remember all. Surging elemental energy takes on spirit form to recreate all the dreams, both fair and foul, of Wuwang Hill's erstwhile residents. Much like a mother who once lost a child and now searches desperately through their irretrievable past for a way to bring everything back, the ley lines — albeit unconsciously — repeatedly recreate the past and those who inhabited it. The way each looked, the way each child cried, the way the elderly would sigh in their twilight years. Each moment of joy, and each moment of sorrow. And like the hypnotic song of the great creatures of the deep sea, it unintentionally lures toward it any nostalgic soul who would dare trespass here.
+
+### Vol. 4
+A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment features the stories of Seelie living in the mountains.
+
+—Mountain Spirits—
+Many lone seelie are found floating in the mountain forests of Liyue. These glowing spirits are unfailingly found hovering in the mountain mist, in the ruins of ancient cities, or in crumbling, decrepit villages. Should a Vision-bearer draw near, the seelie will guide the way for them, leading them to long-hidden treasure or unfathomably ingenious mechanisms.
+The people of Liyue believe these tiny, silent spirits to be auspicious sightings, the souls either of departed adepti or unnamed benevolent gods of old. Others believe they are the echoes of strangers without kin, lingering in the mountains to guide lonely, lost visitors onto the path back home.
+Another old legend told in the mountain villages claims that there was once a time, before the adepti had come into being, when the seelie who meander in the mountains knew an altogether different existence, one in which they had beautiful physical forms and possessed great wisdom. That era, when the seelie roamed the mountains and strolled through the grand halls in the cities of old, is said to date back even further than the days when Rex Lapis fought bitterly against countless rival gods.
+At a far-flung moment in the distant past, the ancestor of the seelie met a traveler from afar, with whom they swore an oath of union witnessed by the three sisters of the Lunar Palace. Just thirty days later, a sudden disaster struck. The seelie and their lover fled into exile as the world collapsed around them, fleeing until the terrible calamity caught up with and seized them. Their cruel punishment was to be separated from each other for eternity and to have their memories wiped without a trace.
+The graceful but heartbroken seelie and the sisters grew more sullen and withdrawn with each passing day, to the point where their wondrous forms withered away, leaving fragments of their former selves scattered in the mountains and ruins, where they turned into tiny little life forms. They had forgotten so much, lost so much, and been stripped of their voices and wisdom, yet they continued to sing their same songs of grief. Because of this, still harboring a shred of the deep love they once had for their long-lost lover, they will act as guides to travelers who stop in the mountain mist, seeking to retrace their memories of an ancient story in long-abandoned ruins, disused makeup cabinets, and now-undecipherable poetry.
+Of course, these are nothing but clumsy, incoherent folk tales, wild and fantastical conjecture about what Liyue may have been like in the distant past before the time of Rex Lapis. Needless to say, such tales have no credibility whatsoever. The true origin of these sorrowful spirits that meander in the mountains is, however, still widely debated, and no consensus has ever been reached on the topic.
+
+### Vol. 5
+A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment is on the shared history of qilins and humans.
+
+—Qilin—
+Among the legends that circulate in the mountains of Liyue, the qilin are a type of noble and benevolent illuminated beast. Qilin often roam the mountain forests, but appear only on nights where starlight shines upon clear dew. For sustenance, they drink only spring water and eat only fragrant herbs.
+Qilin are gentle illuminated beasts, with grace and elegance flowing through their veins. It is said that qilin will never harm living things, refusing even to step on an insect or break a blade of grass. People believe that a qilin's characteristics, behavior, and their every movement is dictated by an age-old etiquette that has remained unchanged for a thousand years.
+Following the barbarous age of the Archon War, many adepti became unable to continue living among the clamorous world of mortals. As a result, and under the direction of Rex Lapis, they withdrew themselves from society to live in seclusion in the bamboo groves and mountains. No longer would they interfere in the human world, content instead to enjoy a realm of mountains and water and pursue their own interests.
+Yet some illuminated beasts there were that, over a thousand years of mortal cooperation, had cultivated deep friendships with ordinary humans. They decided to carry out the will of the Lord of Geo in the mortal realm, assisting human society with their adeptal powers and charity. Some hid in mountain hamlets, others walked the bustling city streets. They lived together and mixed with humankind, leaving behind unique bloodlines in Liyue Harbor.
+
+According to one folktale, as early as several thousand years ago, there were already those among the elegant qilin who had begun to grow deeply attached to the savage mortals.
+The tale tells of how in that barbaric era, the people wore clothes of water lotus and bay leaf.
+One night, a herb gatherer was bathing in a mountain pool, when to his surprise, a passing qilin began to eat the clothes that he had left by the water's edge. The illuminated beast was too young to understand human notions of shame and privacy and had yet to learn the conduct of illuminated beasts in the mortal realm.
+To make up for her crude behavior and to avoid startling the vulnerable mortal with her otherworldly adeptal appearance, she transformed into one of human bearing. As the pale light of the full moon fell onto the pool, she appeared before the herb gatherer.
+The young illuminated beast ultimately did not understand human notions of shame and privacy. She stood in that mountain forest, lit by cold moonlight and the glow of fireflies, clothed only in dewdrops and the lunar gleam. Together with the ignorant mortal she traveled, strolling happily among flowers and bamboo groves, revealing to him the mountain dwelling of the adepti, interpreting for him the language of the birds, sleeping lightly amid the cry of insects, sinking softly into shared and ancient dreams...
+As the herb gatherer began to stir at the first light of dawn, he awoke to find that the noble illuminated beast had vanished without a trace.
+
+As for how this tale unfolds, opinions vary widely. Some people say that one night, the qilin placed a bamboo basket outside the front door of the herb gatherer's home, before disappearing into the moonlit mist. When the herb gatherer came to the door, he found a child soundly asleep inside the basket.
+Others say that from that moment on the qilin lived together with the mortal, gave birth to children, and grew accustomed to human life.
+
+No matter the truth of the thousand-year-old matter, the elegant illuminated beasts continue to walk among the residents of Liyue, unseen among the sea of people, waiting for the day when Rex Lapis calls them forth once again.
+
+### Vol. 6
+A collection of folk stories, myths, and legends from Liyue. It's quite a page-turner. This segment is on the Dunyu Ruins.
+
+—Hidden Jade—
+In the valley northwest of Liyue Harbor and south of Nantianmen lie many silent, ancient ruins.
+One of these areas is known as the Dunyu Ruins. This area is said to have already existed even before the time of the Archon Wars.
+According to old legends passed by word of mouth, "Dunyu" means "the land to which beauteous jade flees."
+In a past beyond memory, when even Rex Lapis would still have been young, a star fell from the sky into the barren plains west of Liyue. These plains were transformed into a huge and deep chasm in the wake of that star's descent, and jade would emerge from within, beautiful and limitless, and it would become the foundation for a thousand years of industrial mining in Liyue thereafter.
+Legend has it that when that nameless star fell, a fragment of it broke off and crashed into the rocks in northern Lisha.
+As most know, wordless stones harbored soul and spirit, and in manners and times not witnessed by mortal eyes they watched and listened to the ley lines' pulses, the echoes of the alpine springs, and the slow but inexorable movements of the mountains.
+But unlike the ordinary but enduring stone of the earth, the fragments of the meteorite that fell from heaven had a proud and agitated temper.
+
+Later, when countless gods and rulers fought over the appointed celestial seats, and the very stars and abyss themselves faded, tragedy and evil embarred the breath of the waters and mountains. The fallen star could bear this no longer, and heedless of the great chasm's persuasions to stay it leaped away, away towards the heavens.
+As it returned to the skies, the heavenly jade left behind a deep pit, within which humans would build great cities and mighty fortresses, finding refuge and shutting themselves in with the leftover inheritance of that fallen star.
+Over the tumult and storms of the next few thousand years, the redoubts of the Dunyu Valley stood tall and maintained prosperous relations with Liyue Harbor up till 500 years ago.
+But with the coming of the black calamity and the rise of the Abyss, the residents of Dunyu sealed the ancient city and departed for other lands. None know why these refugees chose to shut the gates of their home, and even the millennia-old adepti and yaksha are silent on this matter.
+And so, the sealed fortresses became giant, silent tombs, with naught left in them but the sound of pond water and the wind whistling through empty halls — and thusly, too, did they come to be called the "Dunyu Ruins" by the people of Liyue.
+
+## ZH
+
+### 卷一
+璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇记述了石兽的传说。
+——石兽——
+璃月的大地上至今存留着许多石像，它们大多是璃月人为祈求风调雨顺，山岩稳固而塑造的；但也有另一些石像来自璃月更加古老的过去。
+有这样一种传说被碧水河的渔夫、荻花洲的采荻人与老矿山的矿工口耳相传：在璃月的某些角落，古老的石兽会在秋季清冷的夜间惊醒，四下张望这个正在逐渐变得陌生的世界，倾听应和它们的蛙叫与虫鸣，从石化的喉中发出沧桑的低吼。然后，它们会在璃月的大地上漫行，巡视这片自己曾守护的土地。
+几乎从未有人亲眼见证这些石兽活动时是何种模样，但熟悉地理水文的老居民早已对每天石兽的移位、姿态的变化习以为常。而夜半露营的浅睡者，也时常听到比流水的声响更加低沉的和声。
+这些更为古老的石兽从何而来？据轻策庄的老人传说，它们曾是随岩王帝君征战的仙兽。待魔神的混战结束后，璃月大地上海潮退去，复归和平。仙兽们从此失却了在神的战争中守护凡人的意义，便纷纷隐居起来，过着与世无争的生活。
+然而，有一些仙兽依旧怀念着追随岩之神的时光，依然渴念着守望璃月的岁月。仙兽虽是超凡的活物，却依旧被寿限所羁绊。因此，它们向岩王帝君请愿，将肉身化作永恒的磐岩。就这样，慈悲的岩之神允准了它们的祈求，将它们化成了永不腐朽的山岩。
+
+### 卷二
+璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇是关于远古传说的虚构轶事。
+——海神宫——
+迎亲的日子到了。
+威严的海神在砗磲中央端坐，手握两头螭兽的缰绳——在雄伟的车辕前，每一头螭兽都可与天衡山并肩。他收下长老们献上的珍珠，将小小的新娘接上砗磲。村庄收到了海之魔神的彩礼——一整年的风平浪静。
+
+远离了节庆的人群与孤独的母亲，海神领着新娘深入海波之底。穿过巨鲸骨架组成的漫长柱廊，走过紫贝与珍珠装饰的宫门，年幼的少女来到了海之魔神安排的寝宫。
+「我本无意参与凡人的闹剧。」海神用涟漪一般的声音安抚新娘。
+「这里是许多女孩的新家，也是她们终老的地方。对于那些被乡人驱逐的少女，大海是她们的避难所，是永远不会搅扰她们睡梦的故乡。」
+
+但少女并不想要点缀着珍珠与螺蛳的新家，磷光闪闪的深海与掩藏其中的生物只令她心生恐惧。在没有日出与日落的海中寝宫生活日久，思乡令少女愈发憔悴。
+终有一天，海之魔神察觉了少女的心思。他失望于她的选择，但还是允准了她的决定。
+「在不完美的人世生活，总有一天你会追悔。」海神将法螺从腰间解下，赠予少女。
+「总有一天，你会吹响它，那时你将回到这个地方。」
+
+少女携法螺回到了陆地。接下来的许多年里，她也成为了母亲。平静的生活中，海宫似乎只是童年的旧梦，充斥着点点磷光与奇形的海怪，偶尔会闯进记忆中。她就这样度过了一年又一年…直到再一年的迎亲节日，长老带领村人从她的怀抱中将女儿带走，她才理解了海神的劝诫。
+于是，在迎亲的前夜，母亲吹响了法螺。
+海神如约从波涛中浮现，以巨浪拥抱村庄，长老与村人们未及惊醒便已被汪洋吞没。庞大的螭兽拖着珠光闪烁的砗磲，如高山一般停在母亲的面前。
+像年幼时那样，母亲携着女儿的手，登上海之魔神的砗磲，离开了消失在海面之下的村庄。
+
+### 卷三
+璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇记载了无妄坡的来历。
+—无妄—
+在轻策山以北的山峦与丘壑之间，有一片名为「无妄坡」的山坡，此地阴气浊重，多有异闻传说。
+璃月人传言无妄坡的林木中间徘徊着已逝之人的魂灵，它们盘旋在破落的古村周围，彷徨在枯木与腐叶之间，未曾远离过其生前曾经执望的事物。这些飘忽的鬼魂往往会引诱无心的来客走入歧途，踏上通往危险的山路…任之坠入山涧、或被潜伏的魔兽啃噬。
+「无妄」之名也正是来源于此——无妄而引咎。即便旅人不擅动妄为，山中稀薄雾气般笼罩的恶意也会缠上他。
+无辜的山民与无知的过客总有可能会被鬼魂诱骗，深入山雾笼罩中不见天日的树林，走向未知的危险。无妄坡的妖鬼引诱凡人手段多端，或者化身成失去的思恋，或者化为成无法挽回的遗憾，以亡者的音容、离去者的温情、反目者的悔恨为表象，致使山中的游人无法拒绝它们的呼唤，因而追随而去。
+但无妄坡并非从来如此。仅在不久之前，无妄坡尚存人烟；而在更久远的过去，这片山坡下的村庄中也飘荡着闲适的炊烟、闪烁着点点灯火。如今这里的屋舍已化为丘墟，居民只剩下了低语的魂灵。
+在轻策庄的孩童之间，流传着这样的寓言：无妄坡的年轻人们被遥远海怪的鲸歌诱惑，追随着虚幻的许诺与幼稚的梦想纷纷投入碧水河平静的流水中，任飘摇的河波将自己推向遥远的云来海，在那里与大海中无数浪花融为一体，失却了一切山林与村庄的记忆…而他们的梦，也成了海怪的歌。
+一代代少年皆如此离去，直到最后，随着无妄坡的老人们一个接一个在嗟叹中离开人世，岩王帝君注视的宏大港城放射着绚烂灼目的光彩，吞噬了又一座沉默的鬼村。
+但与短寿善变的凡人不同，永流的地脉铭记着一切。喷涌的元素化为灵体，复现着此方住民的一切旧日美梦与噩梦。就像失去孩子的母亲，努力从已经逝去的过去寻求一切挽回的方法，无心的地脉一遍又一遍地塑造着往昔居民的身影，重复着每一声婴儿的啼哭，每一句老人的嗟叹，重复着每一个喜剧或悲剧，就像海中巨兽的歌，无意识地引诱着每一个擅自闯入的怀旧灵魂。
+
+### 卷四
+璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇讲述了神秘的山中仙灵的故事。
+—山灵—
+在璃月的山林中，飘荡着许多无主的仙灵。这些发光的生灵永远在山林的云雾中，古老的城墟间，或腐朽废弃的村庄里彷徨，为携着「神之眼」的旅人引路，将他们引向隐藏许久的宝藏，或巧夺天工的古老机关。
+璃月人说，这些无声的小小生灵是吉兆的象征，是死去的仙人或未能留下名字的善良魔神所遗留的灵魂。也有人认为，仙灵其实是失去亲人的陌客在山中留下的回声，引导着孤独的游人走上归途。
+璃月的乡里流传着一个古老的传说：据说山中徘徊的仙灵曾是比诸多仙人更加古老的存在，拥有优美的形体与伟大的智慧。它在山林中穿行、在古城的厅堂中漫步的年代甚至早于岩王帝君与诸多魔神厮杀的时代。
+在某个无法追忆的时刻，仙灵的先祖与外来的旅人相识，于月宫三姐妹的见证中立下了结合的誓言。仅三十日后，灾祸遽起，仙灵与恋人在崩裂的天地之间流亡，直至凶险的灾厄攫住他们的脚步。无情的惩罚令他们永久离散，甚至就连记忆也支离破碎。
+与挚爱决裂的柔美仙灵与姐妹们日渐憔悴，就连美妙的形体也崩落碎裂，散落在山林中、遗迹间，化为了飘散的小小生灵，它们忘记了许多，遗落了许多，它们失去了自己的声音与智慧，但依旧唱着哀伤的歌。正因如此，怀着对久已消逝的恋人的点点深情，它们引导着山林云雾间驻足的旅人，借往日的丘墟、封存已久的妆奁或无法释读的诗文，追忆着遥远年代的故事。
+当然，这些仅是散乱离奇的传说，是璃月乡间对岩王帝君之前悠古时代的虚妄幻想，缺乏采信的价值。但至于这些山涧中徘徊的哀伤仙灵究竟为何，至今众说纷纭，莫衷一是。
+
+### 卷五
+璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇讲述了仙兽「麒麟」与凡人的渊源。
+——麒麟——
+在璃月山野之间的传说中，麒麟是一种高贵而仁慈的仙兽。麒麟往往出没于山林之间，仅在清露与星光交汇的夜晚循循而行，仅以纯净的甘露、清苦的香草为食。
+麒麟是温柔的仙兽，优雅与容仪流淌在它们的血脉之中。据说麒麟从来不会伤害活物，哪怕只是踏伤一只小虫，折下一缕草叶。人们说，麒麟的每一种习性、每一个动作，都遵从着古老雅致的礼节，千年以来从未改变。
+在魔神混战的蛮荒年代结束后，许多仙人不再适应凡人的喧扰，因而在岩王帝君的安排下，纷纷隐居竹林与群山，自此再不干涉人世，游戏山水，各得其乐。
+但也另有许多仙兽，在千年的合作中与凡人结下了深厚的情谊，决定在人界贯彻岩王的意志，以仙力与仁心扶助凡人的城。它们或隐于山野村落，或行于繁华街市，与人类共同生活，互相结合，在璃月港的街巷府堂之间留下了独特的血脉。
+
+根据一则民间传说，早在数千年前，优雅的麒麟一族中已有与尚且愚蛮的凡人相亲者。
+传说在数千年前的蛮荒时代，人们以芰荷为衣，香叶为裳。
+某个夜里，一位采药人在群山中的一处池塘沐浴，却不料散落池边的衣物被偶然经过的麒麟啃食。尚且年幼的仙兽并不懂得人的羞耻与私欲，也并未学会仙兽行走凡间的道理。
+为补偿自己鲁莽的行为，也为了避免仙人的超凡外表惊吓到脆弱的凡人，她便化为人的模样，趁满月的幽光遍洒池塘时，出现在采药人的面前。
+年幼的仙兽终究不懂得人的羞耻与私欲。在清冷的月光下，萤火点点的山林中，以露珠为衣、月光为裙，她与懵懂的凡人结伴嬉游，游荡芳花与幽篁之间，向他介绍众仙的洞府，与他解读鸟兽的语言，又在静夜的虫鸣之中浅睡，共同沉入悠古的梦想…
+待到第一缕晨光落在采药人的脸上，将他惊醒时，高贵的仙兽早已不见踪影。
+
+那之后的故事，民话众说纷纭。有人说，后来某天夜里，麒麟衔来一个竹篮，放在采药人家门前，便从此隐入月光与轻雾中，当采药人出门查看时，才发现竹篮里正安睡着一个幼儿。
+也有人说，麒麟从此与凡人一同生活，生儿育女，习惯了人间的烟火……
+
+无论千年古事的真相如何，优雅的仙兽今日依旧与璃月的万民同行，依旧隐居在熙攘的人海中，等待着终有一日岩王帝君的再次呼召。
+
+### 卷六
+璃月流传的诸多志怪传奇故事合集，收录了许多短小精悍，脍炙人口的轶事，大多为民俗题材。本篇介绍了被称为「遁玉陵」的古老遗迹。
+——玉遁——
+在璃月港西北方，南天门以南的山谷中，静默地矗立着许多古老残垣。
+其中一处，璃月人惯于称之为「遁玉陵」。此间的遗迹据说远在魔神混战的年代之前便已存在。
+根据人们口口相传的古老传说，「遁玉」之名的含义乃是「美玉遁逃之处」。
+在无法追忆的古代，即使岩王帝君也尚且年轻的时代，璃月以西的荒原曾有天星坠落。随着天星堕地，直面冲击的荒原化作宏大深邃的巨渊，美玉金石从中生长而出，取之不竭，因而成就了璃月此后千年的采矿产业。
+传说那无名的星辰坠落之时，曾有一块碎片迸溅而出，正落在璃沙郊北部的群岩之间。
+众所周知，无言的金石之内蕴含着灵气与精神。在凡人无法尽览，也无从理解的万古中，它们以自己的节律倾听和注视着地脉的搏动，山泉的回响，岩峦缓慢而坚定的巡行。
+但自天空坠下的陨星却不同，相对大地上素朴坚定的岩石，它们拥有高傲而急躁的脾性。
+
+后来，大地上无数魔神与君王在为天定的王座彼此争战，星空与深渊为之失色，悲剧与恶行阻遏了山岩与流水的呼吸。自天空而来的落星不堪其扰，不顾层岩巨渊的挽留，向高天遁逃而去。
+自天而降的美玉回归星天之后，留下了深深的天坑。人们在其中建起坚固的城市与要塞，偏安于陨星的遗赠之中闭关自守。
+在数千年的风霜与动荡之中，遁玉之谷的坚城巍然矗立，直至五百年前依然与欣欣向荣的璃月港有所往来。
+但随着黑色的灾异自深渊而起，遁玉的居民封闭了古城，背井离乡流散各地。没有人知道这些流民封存家乡的原因究竟为何，即使见惯了世间千年纷扰的仙人和夜叉也缄口不言。
+于是，被封闭的城塞化成了巨大而空洞的陵墓，空余潭水与风声久居其中。因而璃月人将之称作「遁玉陵」。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+
+#### Том 3
+
+
+#### Том 4
+
+
+#### Том 5
+
+
+#### Том 6
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.
