@@ -541,6 +541,22 @@
       margin: 2px 24px 14px 0;
     }
 
+    .common-enemy-material-card .material-float-icon {
+      width: 104px;
+      height: 104px;
+      margin: 2px 20px 12px 0;
+    }
+
+    .material-title-subtitle {
+      margin-top: 5px;
+      color: var(--muted);
+      font-family: var(--font-body);
+      font-size: 17px;
+      font-weight: 520;
+      line-height: 1.35;
+      letter-spacing: 0;
+    }
+
     .weapon-description-panel {
       display: grid;
       grid-template-columns: auto minmax(0, 1fr);
@@ -1848,6 +1864,16 @@
         margin: 0 14px 10px 0;
       }
 
+      .common-enemy-material-card .material-float-icon {
+        width: 82px;
+        height: 82px;
+        margin: 0 12px 8px 0;
+      }
+
+      .material-title-subtitle {
+        font-size: 14px;
+      }
+
       .weapon-description-panel {
         grid-template-columns: 72px minmax(0, 1fr);
         gap: 12px;
@@ -1894,6 +1920,11 @@
       .material-float-icon {
         width: 78px;
         height: 78px;
+      }
+
+      .common-enemy-material-card .material-float-icon {
+        width: 72px;
+        height: 72px;
       }
 
       .weapon-description-panel {
@@ -3526,14 +3557,18 @@ function renderEnemyDropsDetail(item, config) {
         </div>
       </div>
   ` : "";
-
-  app.innerHTML = `
-    <section class="page-card book-page">
-      <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(groupLabel(config, state.subsection) || config.title)}»</button>
+  const commonEnemyLootPage = item.item_group === "common_enemies";
+  const pageHeadBlock = commonEnemyLootPage ? "" : `
       <div class="page-head">
         <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
         <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
       </div>
+  `;
+
+  app.innerHTML = `
+    <section class="page-card book-page">
+      <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(groupLabel(config, state.subsection) || config.title)}»</button>
+      ${pageHeadBlock}
 
       ${enemyDescriptionBlock}
 
@@ -3576,8 +3611,14 @@ function renderEnemyMaterialsTextArea(item) {
   const generalNote = cleanPublicNote(item.notes?.general || "");
 
   return selectedMaterials.map((material, index) => {
-    const title = escapeHtml(materialTitle(material, state.lang));
+    const isCommonEnemyMaterial = item?.item_group === "common_enemies";
+    const title = escapeHtml(materialTitle(material, isCommonEnemyMaterial ? "ru" : state.lang));
     const text = localizedMaterialText(material) || "Описание материала будет добавлено позже.";
+    const titleSubtitle = isCommonEnemyMaterial ? `
+      <div class="material-title-subtitle">
+        ${escapeHtml([materialTitle(material, "en"), materialTitle(material, "zh")].filter(Boolean).join(" · "))}
+      </div>
+    ` : "";
     const languageControl = index === 0 ? `
       <div class="lang-control" aria-label="Язык текста">
         <span class="toolbar-label">Язык</span>
@@ -3586,7 +3627,8 @@ function renderEnemyMaterialsTextArea(item) {
         </div>
       </div>
     ` : "";
-    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="128" height="128">` : "";
+    const iconSize = isCommonEnemyMaterial ? 104 : 128;
+    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="${iconSize}" height="${iconSize}">` : "";
     const notesBlock = index === 0 && generalNote ? `
       <div class="notes">
         <div class="notes-title">Заметки Лороведьмы</div>
@@ -3595,9 +3637,9 @@ function renderEnemyMaterialsTextArea(item) {
     ` : "";
 
     return `
-      <article class="text-card artifact-text-card" id="item-material-${escapeHtml(material.key)}">
+      <article class="text-card artifact-text-card${isCommonEnemyMaterial ? " common-enemy-material-card" : ""}" id="item-material-${escapeHtml(material.key)}">
         <div class="volume-title">
-          <div class="volume-title-main"><h3>${title}</h3></div>
+          <div class="volume-title-main"><h3>${title}</h3>${titleSubtitle}</div>
           ${languageControl}
         </div>
         <div class="prose material-reader-body">${iconMarkup}${markdownToHtml(text)}</div>
