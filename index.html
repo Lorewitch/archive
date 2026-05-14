@@ -759,6 +759,14 @@
       border-bottom: 1px solid rgba(91, 74, 62, .16);
     }
 
+    .common-enemy-loot-page .back-link {
+      margin-bottom: 10px;
+    }
+
+    .common-enemy-loot-page .reader-toolbar {
+      margin-top: 8px;
+    }
+
     .volume-strip {
       display: grid;
       grid-template-columns: auto auto minmax(0, 1fr);
@@ -2190,7 +2198,7 @@
 
     .dropped-by-grid {
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 12px;
       align-items: start;
     }
@@ -2322,6 +2330,12 @@
       height: 22px;
       object-fit: contain;
       flex: 0 0 22px;
+    }
+
+    @media (max-width: 1160px) {
+      .dropped-by-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
     }
 
     @media (max-width: 620px) {
@@ -3566,7 +3580,7 @@ function renderEnemyDropsDetail(item, config) {
   `;
 
   app.innerHTML = `
-    <section class="page-card book-page">
+    <section class="page-card book-page${commonEnemyLootPage ? " common-enemy-loot-page" : ""}">
       <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(groupLabel(config, state.subsection) || config.title)}»</button>
       ${pageHeadBlock}
 
