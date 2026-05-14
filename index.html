@@ -680,6 +680,23 @@
       line-height: 1.82;
     }
 
+    .item-description-prose::after {
+      content: "";
+      display: block;
+      clear: both;
+    }
+
+    .item-description-float-icon {
+      float: left;
+      display: block;
+      width: 104px;
+      height: 104px;
+      object-fit: contain;
+      margin: 2px 22px 12px 0;
+      border-radius: 14px;
+      background: rgba(246, 242, 235, .52);
+    }
+
     .enemy-overview-card {
       margin-bottom: 18px;
     }
@@ -2215,6 +2232,12 @@
       .weapon-description-icon {
         width: 72px;
         height: 72px;
+      }
+
+      .item-description-float-icon {
+        width: 82px;
+        height: 82px;
+        margin: 2px 16px 10px 0;
       }
 
       .enemy-description-panel {
@@ -4644,9 +4667,13 @@ function renderGenericDetail(item, config) {
     </div>
   ` : "";
   const isWeapon = config.id === "weapons";
+  const isSimpleItem = config.id === "items";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
   const weaponIcon = isWeapon && item.icon
     ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
+    : "";
+  const itemFloatIcon = isSimpleItem && item.icon
+    ? `<img class="item-description-float-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="104" height="104">`
     : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
         <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
@@ -4660,6 +4687,8 @@ function renderGenericDetail(item, config) {
   const bodyBlock = isWeapon ? `
         ${weaponDescriptionBlock || weaponDetailsBlock || `<div class="prose">${markdownToHtml(text)}</div>`}
         ${weaponDescriptionBlock ? weaponDetailsBlock : ""}
+  ` : isSimpleItem ? `
+        <div class="prose item-description-prose">${itemFloatIcon}${markdownToHtml(text)}</div>
   ` : `
         <div class="prose">${markdownToHtml(text)}</div>
   `;
@@ -4676,7 +4705,7 @@ function renderGenericDetail(item, config) {
       </div>
       <article class="text-card generic-text-card ${config.id}-detail-card">
         <div class="volume-title generic-title">
-          <div class="volume-title-main"><h3>${config.id === "weapons" ? "Описание" : "Текст"}</h3></div>
+          <div class="volume-title-main"><h3>${(config.id === "weapons" || config.id === "items") ? "Описание" : "Текст"}</h3></div>
           <div class="lang-control" aria-label="Язык текста">
             <span class="toolbar-label">Язык</span>
             <div class="lang-switch">
