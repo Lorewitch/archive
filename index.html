@@ -370,13 +370,18 @@
     }
 
     .catalog-row.cols-books {
-      --catalog-columns: minmax(360px, 1.8fr) minmax(150px, .58fr) minmax(170px, .78fr) 64px;
+      --catalog-columns: minmax(360px, 1.7fr) 72px minmax(150px, .58fr) minmax(170px, .78fr);
       grid-template-columns: var(--catalog-columns);
     }
 
-    .catalog-row.cols-books > div:nth-child(4) {
+    .catalog-row.cols-books > div:nth-child(2) {
       justify-self: end;
       text-align: right;
+    }
+
+    .catalog-row.cols-books > div:nth-child(4) {
+      justify-self: start;
+      text-align: left;
     }
 
     .catalog-row.cols-artifacts {
@@ -1562,15 +1567,15 @@
       }
 
       .catalog-row.cols-books.item > div:nth-child(2)::before {
-        content: "Тип";
+        content: "Томов";
       }
 
       .catalog-row.cols-books.item > div:nth-child(3)::before {
-        content: "Регион";
+        content: "Тип";
       }
 
       .catalog-row.cols-books.item > div:nth-child(4)::before {
-        content: "Томов";
+        content: "Регион";
       }
 
       .catalog-row.cols-weapons.item > div:nth-child(2)::before {
@@ -2382,7 +2387,6 @@
 
     /* Catalog alignment and mobile text controls */
     @media (min-width: 981px) {
-      .catalog-row.cols-books,
       .catalog-row.cols-artifacts,
       .catalog-row.cols-weapons {
         --catalog-columns: minmax(320px, 1.55fr) minmax(220px, .95fr) minmax(120px, .45fr);
@@ -2808,6 +2812,15 @@
     }
 
 
+
+    /* v47: Books keep four desktop columns */
+    @media (min-width: 981px) {
+      .catalog-row.cols-books {
+        --catalog-columns: minmax(360px, 1.7fr) 72px minmax(150px, .58fr) minmax(170px, .78fr);
+        grid-template-columns: var(--catalog-columns);
+      }
+    }
+
 </style>
 </head>
 <body>
@@ -3231,13 +3244,13 @@ const SECTIONS = [
     data: () => BOOKS,
     filter: "region",
     filterLabel: "Все регионы",
-    columns: ["Название", "Тип", "Регион", "Томов"],
+    columns: ["Название", "Томов", "Тип", "Регион"],
     empty: "В этом разделе пока нет текстов.",
     row: item => [
       renderTitleCell(item),
+      escapeHtml(item.volume_count || item.volumes?.length || 1),
       renderBookTypeCell(item),
-      escapeHtml(item.region || "—"),
-      escapeHtml(item.volume_count || item.volumes?.length || 1)
+      escapeHtml(item.region || "—")
     ]
   },
   {
