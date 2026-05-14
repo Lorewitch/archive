@@ -2159,37 +2159,33 @@
 
     .dropped-by-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
       gap: 10px;
       align-items: start;
     }
 
     .dropped-by-card {
       align-self: start;
+      min-height: 74px;
       border: 1px solid rgba(91, 74, 62, .14);
       border-radius: 13px;
       background: rgba(203, 191, 175, .20);
       overflow: hidden;
+      transition: background .16s ease, border-color .16s ease;
     }
 
-    .dropped-by-button {
+    .dropped-by-card.is-active {
+      border-color: rgba(91, 74, 62, .30);
+      background: rgba(203, 191, 175, .32);
+    }
+
+    .dropped-by-header {
       display: grid;
-      grid-template-columns: 46px minmax(0, 1fr);
-      gap: 10px;
-      align-items: center;
-      width: 100%;
-      border: 0;
+      grid-template-columns: 46px minmax(0, 1fr) auto;
+      gap: 9px;
+      align-items: start;
+      min-height: 74px;
       padding: 10px;
-      background: transparent;
-      color: inherit;
-      text-align: left;
-      cursor: pointer;
-    }
-
-    .dropped-by-button:hover,
-    .dropped-by-button:focus-visible {
-      background: rgba(203, 191, 175, .30);
-      outline: none;
     }
 
     .dropped-by-icon {
@@ -2197,32 +2193,79 @@
       width: 46px;
       height: 46px;
       object-fit: contain;
-      border-radius: 10px;
+      border-radius: 8px;
       background: rgba(246, 242, 235, .58);
     }
 
-    .dropped-by-name {
+    .dropped-by-names {
       min-width: 0;
-      color: #211B17;
-      font-size: 14px;
-      font-weight: 900;
-      line-height: 1.25;
+      user-select: text;
+    }
+
+    .dropped-by-name,
+    .dropped-by-meta,
+    .dropped-by-zh {
+      display: block;
+      min-width: 0;
+      line-height: 1.24;
       overflow-wrap: anywhere;
     }
 
-    .dropped-by-meta {
+    .dropped-by-name {
+      color: #211B17;
+      font-size: 14px;
+      font-weight: 900;
+    }
+
+    .dropped-by-meta,
+    .dropped-by-zh {
       margin-top: 2px;
       color: var(--muted);
       font-size: 12px;
-      line-height: 1.25;
+      font-weight: 520;
     }
 
-    .dropped-by-detail {
-      padding: 0 12px 12px 68px;
+    .dropped-by-toggle {
+      align-self: start;
+      border: 1px solid rgba(91, 74, 62, .16);
+      border-radius: 8px;
+      padding: 4px 7px;
+      background: rgba(246, 242, 235, .62);
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 900;
+      line-height: 1.2;
+      cursor: pointer;
+    }
+
+    .dropped-by-toggle:hover,
+    .dropped-by-toggle:focus-visible {
+      background: rgba(203, 191, 175, .48);
+      color: var(--ink);
+      outline: none;
+    }
+
+    .dropped-by-active-detail {
+      margin-top: 12px;
+      padding: 14px 16px;
+      border: 1px solid rgba(91, 74, 62, .16);
+      border-radius: 14px;
+      background: rgba(246, 242, 235, .70);
       color: var(--ink);
     }
 
-    .dropped-by-detail .prose {
+    .dropped-by-active-head {
+      display: grid;
+      grid-template-columns: 46px minmax(0, 1fr);
+      gap: 10px;
+      align-items: start;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(91, 74, 62, .12);
+      user-select: text;
+    }
+
+    .dropped-by-active-detail .prose {
       font-size: 15px;
       line-height: 1.7;
     }
@@ -2296,8 +2339,8 @@
         grid-template-columns: 1fr;
       }
 
-      .dropped-by-detail {
-        padding-left: 12px;
+      .dropped-by-active-detail {
+        padding: 12px;
       }
     }
 
@@ -2845,7 +2888,8 @@ function renderDroppedByCell(item) {
 function renderLootChip(drop, currentItemId = "") {
   const icon = drop.icon ? `<img src="${escapeHtml(drop.icon)}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
   const currentClass = drop.id === currentItemId ? " current" : "";
-  return `<span class="enemy-loot-chip${currentClass}">${icon}<span>${escapeHtml(titleOf(drop, state.lang))}</span></span>`;
+  const title = titleOf(drop, state.lang);
+  return `<span class="enemy-loot-chip${currentClass}">${icon}<span>${escapeHtml(title)}</span></span>`;
 }
 
 function renderEnemyDropDetail(enemy, currentItemId = "") {
@@ -2867,6 +2911,16 @@ function renderEnemyDropDetail(enemy, currentItemId = "") {
   `;
 }
 
+function renderEnemyNameBlock(enemy, className = "dropped-by-names") {
+  return `
+    <span class="${className}">
+      <span class="dropped-by-name">${escapeHtml(titleOf(enemy, "ru"))}</span>
+      <span class="dropped-by-meta">${escapeHtml(titleOf(enemy, "en"))}</span>
+      <span class="dropped-by-zh">${escapeHtml(titleOf(enemy, "zh"))}</span>
+    </span>
+  `;
+}
+
 function renderDroppedBySection(item) {
   const enemies = droppedByEnemies(item);
   if (!enemies.length) return "";
@@ -2881,53 +2935,65 @@ function renderDroppedBySection(item) {
             : `<span class="dropped-by-icon entry-icon placeholder" aria-hidden="true">⌁</span>`;
           return `
             <article class="dropped-by-card">
-              <button class="dropped-by-button" type="button" data-enemy-id="${escapeHtml(enemy.id)}" aria-expanded="false">
+              <div class="dropped-by-header">
                 ${icon}
-                <span>
-                  <span class="dropped-by-name">${escapeHtml(titleOf(enemy, state.lang))}</span>
-                  <span class="dropped-by-meta">${escapeHtml(titleOf(enemy, "en"))}</span>
-                </span>
-              </button>
-              <div class="dropped-by-detail" hidden></div>
+                ${renderEnemyNameBlock(enemy)}
+                <button class="dropped-by-toggle" type="button" data-enemy-id="${escapeHtml(enemy.id)}" aria-expanded="false">Описание</button>
+              </div>
             </article>
           `;
         }).join("")}
       </div>
+      <div class="dropped-by-active-detail" id="dropped-by-active-detail" hidden></div>
     </div>
   `;
 }
 
+
 function bindDroppedByEnemies(item) {
   document.querySelectorAll("[data-enemy-id]").forEach(button => {
-    button.addEventListener("click", async () => {
+    button.addEventListener("click", async event => {
+      event.stopPropagation();
+
+      const section = button.closest(".dropped-by-section");
       const card = button.closest(".dropped-by-card");
-      const detail = card?.querySelector(".dropped-by-detail");
-      if (!detail) return;
+      const panel = section?.querySelector(".dropped-by-active-detail");
+      if (!section || !card || !panel) return;
 
       const isOpen = button.getAttribute("aria-expanded") === "true";
+      section.querySelectorAll("[data-enemy-id]").forEach(openButton => {
+        openButton.setAttribute("aria-expanded", "false");
+        openButton.textContent = "Описание";
+        openButton.closest(".dropped-by-card")?.classList.remove("is-active");
+      });
+
       if (isOpen) {
-        button.setAttribute("aria-expanded", "false");
-        detail.hidden = true;
+        panel.hidden = true;
+        panel.innerHTML = "";
         return;
       }
 
-      document.querySelectorAll("[data-enemy-id][aria-expanded='true']").forEach(openButton => {
-        if (openButton === button) return;
-        const openCard = openButton.closest(".dropped-by-card");
-        const openDetail = openCard?.querySelector(".dropped-by-detail");
-        openButton.setAttribute("aria-expanded", "false");
-        if (openDetail) openDetail.hidden = true;
-      });
-
       button.setAttribute("aria-expanded", "true");
-      detail.hidden = false;
-      detail.innerHTML = `<div class="prose">Загрузка описания...</div>`;
+      button.textContent = "Свернуть";
+      card.classList.add("is-active");
+      panel.hidden = false;
+      panel.innerHTML = `<div class="prose">Загрузка описания...</div>`;
 
       const enemy = await getEnemyById(button.dataset.enemyId);
-      detail.innerHTML = renderEnemyDropDetail(enemy, item?.id || "");
+      const icon = enemy?.icon
+        ? `<img class="dropped-by-icon" src="${escapeHtml(enemy.icon)}" alt="" loading="lazy" decoding="async" width="46" height="46">`
+        : "";
+      panel.innerHTML = `
+        <div class="dropped-by-active-head">
+          ${icon}
+          ${renderEnemyNameBlock(enemy || { title: {} })}
+        </div>
+        ${renderEnemyDropDetail(enemy, item?.id || "")}
+      `;
     });
   });
 }
+
 
 function renderLangPills(languages = []) {
   const langs = languages.length ? languages : ["ru", "en", "zh"];
@@ -3213,7 +3279,10 @@ function toggleSort(config) {
 
 function bindCatalogRows(config) {
   document.querySelectorAll("[data-entry-id]").forEach(row => {
-    row.addEventListener("click", () => setRoute(config.id, row.dataset.entryId, state.subsection));
+    row.addEventListener("click", event => {
+      if (event.target.closest("button")) return;
+      setRoute(config.id, row.dataset.entryId, state.subsection);
+    });
     row.addEventListener("keydown", event => {
       if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
