@@ -390,7 +390,7 @@
     }
 
     .catalog-row.cols-items-common-enemy {
-      --catalog-columns: minmax(260px, 1fr) minmax(340px, 1.35fr);
+      --catalog-columns: minmax(250px, .95fr) minmax(190px, .62fr) minmax(340px, 1.35fr);
     }
 
     .catalog-row.cols-items-common-enemy .material-list {
@@ -2305,6 +2305,28 @@
       flex: 0 0 22px;
     }
 
+    .common-enemy-type-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      align-items: center;
+      min-width: 0;
+    }
+
+    .common-enemy-type-chip {
+      display: inline-flex;
+      align-items: center;
+      max-width: 100%;
+      padding: 6px 9px;
+      border: 1px solid rgba(91, 74, 62, .12);
+      border-radius: 9px;
+      background: rgba(232, 222, 212, .54);
+      color: #342B25;
+      font-size: 12px;
+      font-weight: 820;
+      line-height: 1.25;
+    }
+
     .dropped-by-catalog-list {
       display: flex;
       flex-wrap: wrap;
@@ -2577,6 +2599,18 @@ function catalogFilterLabel(config) {
   return isCommonEnemyCatalog(config) ? "Все типы противников" : config.filterLabel;
 }
 
+function commonEnemyTypeLabel(value) {
+  const normalized = normalizeCommonEnemyType(value);
+  const known = COMMON_ENEMY_TYPE_FILTERS.find(([key]) => key === normalized);
+  return known?.[1] || String(value || "").trim() || "Другие";
+}
+
+function itemCommonEnemyTypeLabels(item) {
+  return Array.from(itemCommonEnemyTypes(item))
+    .map(type => commonEnemyTypeLabel(type))
+    .filter(Boolean);
+}
+
 const ARTIFACT_PART_LABELS = {
   flower: { ru: "Цветок жизни", en: "Flower of Life", zh: "生之花" },
   plume: { ru: "Перо смерти", en: "Plume of Death", zh: "死之羽" },
@@ -2650,11 +2684,12 @@ const SECTIONS = [
     filter: "region",
     filterLabel: "Все регионы",
     columns: () => state.subsection === "common_enemies"
-      ? ["Материалы", "Выпадает с"]
+      ? ["Материалы", "Тип противника", "Выпадает с"]
       : isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион"] : ["Название", "Регион"],
     empty: "В этой категории пока нет предметов.",
     row: item => state.subsection === "common_enemies" ? [
       renderMaterialsCell(item),
+      renderCommonEnemyTypesCell(item),
       renderDroppedByCell(item),
     ] : isEnemyDropGroup(state.subsection) ? [
       renderTitleCell(item),
@@ -2935,6 +2970,17 @@ function renderMaterialsCell(item) {
 
 function droppedByEnemies(item) {
   return Array.isArray(item?.dropped_by_enemies) ? item.dropped_by_enemies : [];
+}
+
+function renderCommonEnemyTypesCell(item) {
+  const labels = itemCommonEnemyTypeLabels(item);
+  if (!labels.length) return "—";
+
+  return `
+    <div class="common-enemy-type-list">
+      ${labels.map(label => `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`).join("")}
+    </div>
+  `;
 }
 
 function renderDroppedByCell(item) {
