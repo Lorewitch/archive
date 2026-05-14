@@ -4,6 +4,12 @@
 # entry_type: enemy_drops
 
 # tags: Маски хиличурлов, обычные противники
+
+# title_ru: Маски хиличурлов
+# title_en: Hilichurl Masks
+# title_zh: 丘丘人的面具
+# icon: assets/icons/items/common_enemies/damaged_mask.webp
+
 # dropped_by: hilichurl, hilichurl_fighter, hilichurl_berserker, wooden_shield_hilichurl_guard, ice_shield_hilichurl_guard, rock_shield_hilichurl_guard, hilichurl_shooter, pyro_hilichurl_shooter, electro_hilichurl_shooter, cryo_hilichurl_shooter, hilichurl_grenadier, electro_hilichurl_grenadier, cryo_hilichurl_grenadier, wooden_shieldwall_mitachurl, rock_shieldwall_mitachurl, ice_shieldwall_mitachurl, blazing_axe_mitachurl, crackling_axe_mitachurl, thunderhelm_lawachurl, frostarm_lawachurl, stonehide_lawachurl, anemo_samachurl, electro_samachurl, dendro_samachurl, hydro_samachurl, geo_samachurl, cryo_samachurl
 
 # material_1_id: damaged_mask
