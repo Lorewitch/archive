@@ -42,7 +42,7 @@
       "title": {
         "ru": "Маска мудрого лекаря",
         "en": "Mask of the Virtuous Doctor",
-        "zh": "医的假面"
+        "zh": "贤医的假面"
       },
       "icon": "assets/icons/items/weekly_bosses/01_mask_of_the_virtuous_doctor.webp",
       "text": {
@@ -70,7 +70,7 @@
       "title": {
         "ru": "Оковы безумца",
         "en": "Madman's Restraint",
-        "zh": "材料三"
+        "zh": "狂人的约束"
       },
       "icon": "assets/icons/items/weekly_bosses/03_madmans_restraint.webp",
       "text": {

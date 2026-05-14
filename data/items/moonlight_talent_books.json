@@ -3,9 +3,9 @@
   "category": "items",
   "icon": "",
   "title": {
-    "ru": "",
-    "en": "",
-    "zh": ""
+    "ru": "Набор материалов: Учения о «Лунном свете»",
+    "en": "Material Set: Teachings of Moonlight",
+    "zh": "素材套组：「月光」的教导"
   },
   "region": "Нод-Край",
   "rarity": null,
@@ -31,7 +31,7 @@
     "zh": ""
   },
   "notes": {
-    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "general": "",
     "byVolume": {}
   },
   "item_group": "development_materials",

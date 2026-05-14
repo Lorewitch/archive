@@ -3,9 +3,9 @@
   "category": "items",
   "icon": "",
   "title": {
-    "ru": "",
-    "en": "",
-    "zh": ""
+    "ru": "Материалы: Разбитая маска",
+    "en": "Drops: Damaged Mask",
+    "zh": "掉落素材：破损的面具"
   },
   "region": "",
   "rarity": null,
@@ -29,7 +29,7 @@
     "zh": ""
   },
   "notes": {
-    "general": "Здесь можно написать заметки по группе материалов «Маски хиличурлов».",
+    "general": "",
     "byVolume": {}
   },
   "dropped_by": [
@@ -91,9 +91,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -160,9 +160,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -229,9 +229,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -298,9 +298,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -367,9 +367,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -436,9 +436,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -505,9 +505,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -574,9 +574,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -643,9 +643,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -712,9 +712,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -781,9 +781,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -850,9 +850,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -919,9 +919,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -988,9 +988,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1057,9 +1057,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1126,9 +1126,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1195,9 +1195,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1264,9 +1264,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1333,9 +1333,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1402,9 +1402,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1471,9 +1471,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1540,9 +1540,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1609,9 +1609,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1678,9 +1678,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1747,9 +1747,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1816,9 +1816,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
@@ -1885,9 +1885,9 @@
         {
           "id": "hilichurl_masks",
           "title": {
-            "ru": "",
-            "en": "",
-            "zh": ""
+            "ru": "Материалы: Разбитая маска",
+            "en": "Drops: Damaged Mask",
+            "zh": "掉落素材：破损的面具"
           },
           "icon": "",
           "item_group": "common_enemies",
