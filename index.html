@@ -2800,30 +2800,40 @@
     }
 
 
-    /* Mobile catalogs: books and weapons show only the title cell, like artifacts */
+    /* Mobile catalogs: compact title-only rows, like artifacts */
     @media (max-width: 980px) {
       .catalog-row.head.cols-books,
-      .catalog-row.head.cols-weapons {
+      .catalog-row.head.cols-weapons,
+      .catalog-row.head.cols-items-typed,
+      .catalog-row.head.cols-items {
         display: none;
       }
 
       .catalog-row.cols-books,
-      .catalog-row.cols-weapons {
+      .catalog-row.cols-weapons,
+      .catalog-row.cols-items-typed,
+      .catalog-row.cols-items {
         grid-template-columns: 1fr;
       }
 
       .catalog-row.cols-books.item > div:not(:first-child),
-      .catalog-row.cols-weapons.item > div:not(:first-child) {
+      .catalog-row.cols-weapons.item > div:not(:first-child),
+      .catalog-row.cols-items-typed.item > div:not(:first-child),
+      .catalog-row.cols-items.item > div:not(:first-child) {
         display: none !important;
       }
 
       .catalog-row.cols-books.item > div:first-child,
-      .catalog-row.cols-weapons.item > div:first-child {
+      .catalog-row.cols-weapons.item > div:first-child,
+      .catalog-row.cols-items-typed.item > div:first-child,
+      .catalog-row.cols-items.item > div:first-child {
         display: block;
       }
 
       .catalog-row.cols-books.item > div::before,
-      .catalog-row.cols-weapons.item > div::before {
+      .catalog-row.cols-weapons.item > div::before,
+      .catalog-row.cols-items-typed.item > div::before,
+      .catalog-row.cols-items.item > div::before {
         display: none !important;
         content: "" !important;
       }
