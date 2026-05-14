@@ -1,0 +1,91 @@
+# id: debates_on_the_viceroy_of_the_east
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/debates_on_the_viceroy_of_the_east.webp
+# title_ru: Дебаты по теме «Наместник Востока»
+# title_en: Debates on the "Viceroy of the East"
+# title_zh: 「东王」史辩
+# region: Инадзума
+# volume_count: 1
+# tags: книги, Инадзума
+# status: draft
+
+## RU
+
+### Том 1
+«Наместник Востока» или «Тодзанно», о котором поётся в народных песнях Ватацуми, также известен как «Акуо» во всех владениях Райдэн. Он был первым королём-вассалом Великого Змея Оробаси, он же был и последним.
+
+Никто не знает истинное имя человека по прозвищу «Тодзанно». Точно можно сказать лишь, что он был низкого происхождения. В народных песнях его называют «наследником лунного света и прилива» или «забытым ребенком лунного света». Возможно, он был сиротой или ребёнком морских бродяг.
+
+Но хотя у него не было ни имени, ни фамилии, ни клана, который защищал бы его, пока он рос, Ватацуми Омиками принял этого ребенка, как когда-то принял потерянный народ, запертый в морских глубинах.
+Впоследствии этот мальчик стал учеником Моун и её сестры. У них он научился китовым песням и обрядам Ватацуми. В его воспоминаниях поселились дворец из кораллов и ракушек и косяки ярких рыбок. Его тело закалилось в суровых рифах и безбрежных волнах, став сильным и быстрым.
+
+В песнях клана Юна говорится, что когда мальчик вырос и стал юношей, жрица Моун пригласила его поплавать вместе среди освещённых луной и звёздами волн. Там, среди сияющих волн, юноша понял язык морских обитателей и ощутил их чувства. Под нежный, скорбный шепот жрицы он определил свой дальнейший путь.
+
+Говорят, что после этой ночной прогулки юноша постиг стили владения мечом «Гэцумон» и «Юсио». Хотя Тодзанно не оставил потомков, но его техники владения мечом не ушли в небытие: среди воинов Ватацуми они передавались из поколения в поколение. На острове, где никогда не было собственной школы фехтования, эти два стиля и по сей день остаются надёжным и эффективным средством справиться с любым противником.
+
+Когда Ватацуми Омиками отправился в безнадёжную восточную экспедицию, юноша возглавил передовой отряд и захватил острова, которые жители Ватацуми называли «Тодзан». И тогда сам Ватацуми Омиками дал ему почётное имя Тодзанно - «повелитель Тодзана». Но в сказания острова Ясиори этот доблестный воитель вошёл как жестокий «Акуо» - «злой тиран».
+
+В конце концов, Акуо и его господин приняли кару Мусо но хитотати. А Моун, которая в ту лунную ночь ступала по волнам вместе с ним, погибла в черной, словно стая воронов, буре, и её народ оплакал её судьбу...
+Исход оказался столь непохожим на их надежды.
+
+Примечательно, что люди до сих пор называют выдающихся воинов «отпрысками Тодзанно», хотя сам молодой и самонадеянный Тодзанно так и не смог воссоединиться с возлюбленной и насладиться мирным будущим вместе с ней.
+
+## EN
+
+### Vol. 1
+The "Viceroy of the East," or "Touzannou" sung of in Watatsumi folk tradition is also known as the "Akuou" all across Raiden's domains. He was the first vassal ruler of the Great Serpent Orobashi, and he was also the last.
+
+Touzannou's name is not known, but it is known that he was of low birth, such that some island folk-tunes name him "the legacy of moonlight and tide," or "the forgotten child of the moonlight." Perhaps he was an orphan, or perhaps he was the child of people who had been washed ashore by the sea.
+
+But though he had neither name nor surname, nor a clan to protect him as he grew, Watatsumi Omikami accepted this child nonetheless, just as he had once accepted the lost people trapped in the depths.
+This boy later apprenticed himself to Mouun and her sister, learning from them the whalesongs and rites of Watatsumi. His memories were colored by the palace of coral and clam, the shining schools of fish and the rainbow-hued mackerel, and his body was tempered by the rugged reefs and endless waves, becoming strong and swift.
+
+The songs of the Yuna Clan say that when the boy had grown into a young man, he was invited by Mouun the shrine maiden to swim together amidst tides lit by moon and stars alike. In the ebb and flow of the entwined lights, the young man sensed the words and emotions of the sea creatures, and hearing the shrine maiden's gentle, mournful whispers, he decided his future course.
+
+It is said that after this night-time excursion, the young man comprehended the sword styles known as "Getsumouun" and "Yuushio." Though he would not have any descendants, these sword techniques would be taught amongst the warriors of Watatsumi and passed down from generation to generation, thus never becoming extinct. In Watatsumi Island, which lacks traditions of swordsmanship, these two styles remain effective and practical techniques that can prove perilous to any foe.
+
+When Watatsumi Omikami set off on the eastern expedition from which there would be no return, the young man headed up the vanguard and took a place known then to the Watatsumi people as Touzan. Thus was he given the honorific of Touzannou by Watatsumi Omikami himself. However, this valiant "king of the eastern mountain" would become known as a brutal, savage "wicked king," or Akuou, to the people of Yashiori Island.
+
+Ultimately, Akuou and his lord were both judged by the Musou no Hitotachi, and Mouun, who once trod upon the waves with him on that moonlit night, was lost amidst a storm of black feathers, her people bewailing her fate.
+And when the dust settled, things had not turned out as they might have hoped.
+
+Notably, people still call outstanding warriors "the scions of Touzannou," although the young and presumptuous Touzannou himself never had the opportunity to join himself to the one he loved, nor would they ever enjoy a peaceful future together.
+
+## ZH
+
+### 卷一
+在海民的岛歌中流传的「东王」或「东山王」，在雷电的土地上则以「恶王」之名广泛流传。他是大蛇远吕羽氏册立的第一位藩王，也是最后一位。
+
+「东山王」姓名不详，出身低微，一些岛歌将他称作「月光与潮汐的遗子」，或「被月光遗忘的孩子」。或许他曾是失去氏族的孤子，或顺海流漂荡而来的流人之子。
+
+尽管无姓无名，也没有足以保护他安然长大的氏族，但海祇大御神还是接纳了这个孩子，就像他曾接纳深困海渊的遗民那般。
+后来，男孩师从曚云姐妹，学会了海祇人的鲸歌与祭仪，记忆被珊瑚与砗磲的宫阙、闪亮的鱼群与霓虹色的鲛鱼染成彩色，躯体被粗粝的礁石与不尽的海浪磨炼得健壮迅捷。
+
+右名氏的岛歌传唱道，当男孩长成少年，曚云巫女便邀他在月光与群星的波涛中共游。在辉光的涨消中，少年感知到海兽的语言与心绪；在巫女温柔哀伤的呢喃中，少年决定了此后的道路。
+
+据说此次夜游之后，少年参悟了名为「月曚云」与「夕潮」的剑式。尽管少年并未留下子嗣，但此种剑式由海祇的武者们彼此教授，又加以代代改进，因而从未失传。在剑术传统匮乏的海祇岛，此二式至今仍是效用实战的难敌之术。
+
+当海祇大御神踏上无归的东征之途，少年为之先登破竹，率先攻下了当时被海民称为「东山」的岛屿。「东山王」之封号，便是海祇大御神为这一战功的赏赐。但在如今八酝岛居民的传说中，这位勇猛可怖的「东山王」，却有着凶残暴戾的「恶王」之名。
+
+最终「恶王」与其主一道遭到「无想的一刀」制裁，曾一同泛波月夜的曚云亦在族人的哀叹中身殒漆黑鸦羽的风暴之中…
+一切尘埃落定，一切事与愿违。
+
+值得一提的是，在当今的海祇岛，人们仍旧会将那些英武矫健的勇士称作「东山王的子孙」，尽管年轻狂妄的「东山王」未曾来得及与心仪的人彼此结合，安然享受和平无波澜的未来。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

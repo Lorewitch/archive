@@ -1,0 +1,283 @@
+# id: glimpses_of_mysterious_inazuma
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/glimpses_of_mysterious_inazuma.webp
+# title_ru: Видения таинственной Инадзумы
+# title_en: Glimpses of Mysterious Inazuma
+# title_zh: 稻妻秘见录
+# region: Инадзума
+# volume_count: 2
+# tags: книги, Инадзума
+# status: draft
+
+## RU
+
+### Том 1
+Сборник народных сказаний Инадзумы, записанных странствующим писателем из Фонтейна. В нём собраны мифы и удивительные истории, передаваемые из уст в уста жителями Инадзумы.
+
+Таинственная дева Гэмбо
+
+В давнюю пору жил на свете самурай по имени Такэхико. Люди высоко ценили утончённого и элегантного юношу, ибо он равно хорошо владел и кистью, и мечом. Однажды, навещая больного командира привратной стражи по имени Эмон но Ками, Такэхико познакомился с его единственной дочерью, молодой девушкой, которую звали Саёхимэ. Юная Саёхимэ поразила Такэхико своей красотой. Каждая её улыбка, каждый жест дышал нежностью и природной утончённостью. То была любовь с первого взгляда, в тайне от отца Саёхимэ молодые люди дали друг другу клятву пожениться, как только достигнут положенного возраста.
+
+Время летело незаметно, но вскоре мятежники погрузили страну в хаос. Выполняя приказ сёгуната, Такэхико собрался на войну, сражаться с повстанцами. Узнав об этом, Саёхимэ отыскала его и сказала, заливаясь слезами:
+
+«Скоро вы уйдёте на войну, и неизвестно, когда вернётесь. Война полна опасностей, и я буду обречена ждать вас в одиночестве. Если вы любите меня, останьтесь рядом и окажите мне честь стать вашей невестой. Я не ищу славы, почестей или богатства. Я хочу лишь прожить рядом с вами счастливую жизнь».
+
+Договорив, Саёхимэ сочинила короткое стихотворение, которое можно перевести так:
+До чего горька разлука, до чего глубоки страдания, рукава мои насквозь промокли от слёз.
+Жизнь моя, что роса поутру. Ради вас я исчезну, будто пылинка в зеркале.
+
+Но слова её не убедили Такэхико. Он сказал так:
+«Не горюйте, моя возлюбленная. Мы расстаёмся на время, но сердце моё будет с вами до скончания веков. Если выпала судьба жить в опасное время, не должно стоять в стороне, пока остальные прославляют себя ратными подвигами. Я вернусь с победой, женюсь на вас, и больше мы никогда не расстанемся».
+
+Договорив, Такэхико подарил Саёхимэ изысканное ручное зеркало как залог будущей свадьбы. И сочинил несколько строк в пару к её стиху. Перевести их можно так:
+Не знаю, когда мы встретимся снова, но клятва моя вечна.
+Дорога к тебе далека, но звёздный свет соединит любящие сердца.
+
+Так влюблённые разлучились. Минуло несколько месяцев, и по городу поползли слухи о том, что армия сёгуната проигрывает и несёт огромные потери. Услышав тяжёлые вести, Саёхимэ слегла и вскоре умерла от горя. Вернувшись с войны героем, Такэхико узнал о трагической смерти своей возлюбленной. Безутешный юноша каждый день возжигал любимой благовония и подносил ей свежие фрукты.
+
+Быть может, всему виной сильная тоска, но даже после погребения душа Саёхимэ не обрела покоя. Осквернённая Бездной, она вернулась в мир смертных демоном и навестила Такэхико среди ночи. Она сохранила юную красоту, но лишилась жизненной силы. От нежных рук, что некогда касались щёк Такэхико, остались лишь почерневшие кости. Такэхико был самураем, но при виде страшного призрака в ужасе вскочил с постели и бросился прочь. Он прибежал на берег реки и стал умолять лодочника спасти ему жизнь, переправить на другой берег. Когда Саёхимэ оказалась на берегу, лодки там уже не было. Она прыгнула в реку, обратив свои ноги в плавники, и пустилась в погоню.
+
+Добежав до горы Ёго, Такэхико воспользовался магией, которой научился у бакэ-дануки, и спрятался в камне. Камней на горе Ёго было как звёзд в ночном небе. Саёхимэ не могла найти его, как ни старалась. В отчаянии Саёхимэ уронила ручное зеркальце, которое Такэхико подарил ей, уходя на войну. Зеркальце разбилось о землю, и в его осколках отразился камень, где прятался Такэхико.
+
+Саёхимэ плакала, прижимая камень к груди, изливала Такэхико свою тоску. Она умоляла любимого вспомнить клятву, которую он ей дал, но Такэхико был не в силах оправиться от страха. Саёхимэ ничего не могла поделать, но мысль о новой разлуке с любимым была невыносима, и она превратилась в огненный шар, который сжёг дотла и Такэхико, и её саму.
+
+Закончив рассказ, моя подруга с большим интересом спросила, что я о нём думаю.
+
+«С точки зрения фонтейнцев, - был мой ответ, - весьма сомнительно, что Такэхико в самом деле любил Саёхимэ. В наших операх влюблённых не может разлучить даже смерть. Если один умирает, другой уходит за ним в мир мёртвых. Этот сюжет прослеживается и в клятве Дреста и Адсильтии, и в схватке Танкреда с Кариклеей, и в прощании Коппелиуса и Коппелии. Если не ошибаюсь, в одном из наших классических романов дано следующее определение любви: даже если у меня отнимут всю плоть, кости и внутренности, твою постель согреют остатки моего костного мозга. Такэхико клялся Саёхимэ в вечной любви. Пусть даже любимая оказалась отравлена Бездной, он должен был присоединиться к ней в загробной жизни. Такэхико был инадзумским самураем, а они лучше нас с вами знают цену клятвам».
+
+«Да, вы правы. В Инадзуме многие люди считают, что Такэхико струсил и предал свою возлюбленную. Но вовсе не потому, что он не смог ответить на чувства Саёхимэ. Увидев демона из Бездны, он обратился в бегство и спрятался в камне, даже не подумав избавить любимую от страданий. В конце концов его выдало то самое зеркало, которое он подарил Саёхимэ, и Такэхико сгорел дотла. Я полагаю, это карма, - сказала моя подруга, подливая себе чай. - Говорят, история эта вдохновлена романом из Ли Юэ. Там главный герой не предал свою возлюбленную, но они долгое время не могли увидеться из-за вмешательства злых сил, которые превратили девушку в чудовище и заточили её под камнем... Да, история изменилась до неузнаваемости. Но мне интереснее, что бы вы сделали, оказавшись в похожих обстоятельствах. Предположим, что Бездна превратила меня в монстра, а я пришла к вам и стала умолять рассказывать мне истории дальше...»
+
+«Если после превращения в монстра вы первым делом думаете о том, как бы найти меня, чтобы услышать новую историю, значит, с вами всё в порядке. По крайней мере, с вами сладить будет труднее, чем с Саёхимэ. Словом, госпожа Уса... Чай у меня закончился. Не могли бы вы налить ещё чашечку?»
+
+### Том 2
+Сборник народных сказаний Инадзумы, записанных странствующим писателем из Фонтейна. В нём собраны мифы и удивительные истории, передаваемые из уст в уста жителями Инадзумы.
+
+Юмэкуй-баку
+
+Давным-давно неподалёку от деревни Конда жили старик со старухой. Судьба их не баловала, но были они добры и сердечны, и все соседи их уважали.
+
+Однажды в снежную зимнюю пору старик отправился в горы за хворостом и увидел в лесу маленького пухлого зверька, угодившего в охотничий капкан. Зверёк никак не мог выбраться из капкана, только тихонько скулил, и невозможно было смотреть на него без жалости.
+«Бедный кабанчик, - подумал старик, и сердце его защемило, - такой малыш, и в ловушке. Мяса-то в нём немного, что проку охотнику от детёныша? Только попусту жизнь отнимет. Давай лучше я тебя освобожу!»
+
+Старик отложил свой топор и развязал верёвки, опутавшие ноги кабанчика. Зверёк радостно захрюкал, несколько раз обежал вокруг старика и скрылся в лесной чаще.
+
+Нарубив хворосту, старик вернулся домой и рассказал жене, что видел в лесу. Старуха тоже обрадовалась: «Ты сделал хорошее дело! Когда кабанчик подрастёт, мяса на нём будет больше!»
+
+Той ночью старики почти заснули, когда в дверь кто-то постучал. А затем они услышали нежный девичий голос:
+«Простите, есть кто-нибудь?»
+
+Что путник делает на улице в такую метель? Старуха открыла дверь и увидела на пороге девушку лет семнадцати, она стояла на ветру, ёжась от холода. Девушка была пригожая, и даже простенькое платье не могло скрыть её красоты. Она была подобна небожительнице из легенд Ли Юэ. Сердце старухи пронзила жалость, она воскликнула:
+
+«Ох, такая метель, тут и до смерти замёрзнуть недолго! Заходите, погрейтесь у очага! Не знаю, кто вы и откуда, но что привело вас сюда в столь поздний час?»
+
+«Простите, что потревожила ваш покой. Мои родители погибли. Следуя воле отца, я отправилась разыскивать его друга, чтобы он взял меня под свою защиту. Но началась метель, и я заблудилась. Не могли бы вы приютить меня на одну ночь? Я лягу на полу в коридоре или в кладовке».
+
+Дослушав её историю, старики пожалели бедную девушку, накормили её ужином и приготовили постель. Наверное, причиной тому было доброе дело, которое они сделали, но всю ночь старику и старухе снились только счастливые сны.
+
+В следующие дни метель не утихала, и старики разрешили девушке остаться у них подольше. Девушка оказалась трудолюбивой и работящей, она окружила стариков заботой, и они не могли на неё нарадоваться.
+
+Однажды девушка вдруг сказала:
+
+«Я уже говорила, перед смертью родители наказали мне искать защиты у друга отца. Но я никогда с ним не встречалась и не знаю, что он за человек, согласится ли взять на себя такую обузу. Вы так заботились обо мне, что я даже не представляю, как вас отблагодарить. Если хотите, удочерите меня, и я навсегда останусь с вами. Пусть я обычная девушка, но я буду любить вас и служить вам, как умею».
+
+Услышав её слова, старики не могли найти себе места от радости. Детей у них не было, а теперь на старости лет появилась такая умная и заботливая дочка, чего ещё желать? Старики приняли девушку как родную, и она сторицей отплатила им за доброту, преданно заботилась о них и на людях, и дома.
+
+Шли дни, и однажды утром старики увидели, что девушка испекла печенье, какого они никогда раньше не пробовали. Выглядело печенье очень вкусным. Девушка поднесла его старикам и сказала:
+
+«Пока вы спали, я испекла печенье по нашему семейному рецепту. Прошу, отнесите его на рынок и продайте, люди обязательно его полюбят».
+Как и сказала девушка, её печенья пришлись по вкусу богатым купцам, и старики принесли домой хорошую выручку. С того дня девушка каждое утро готовила печенье, а старик продавал его на рынке, и в дом стариков потекло богатство.
+
+Старики не могли взять в толк: как у их дочки получается такое вкусное печенье? Ведь мука в доме самая обычная. Не в силах унять любопытство, однажды ночью, когда девушка снова взялась готовить печенье, они решили подсмотреть в щёлку, что она делает. Но дочери было нигде не видно, вместо неё на кухне стоял пухленький зверёк, вздёрнутым пятачком он подхватывал парящие в воздухе сны и превращал их в печенье. Старики перепугались, зверёк, почуяв неладное, снова превратился в прекрасную девушку. Она упала перед стариками на колени и сказала:
+
+«Простите, я не хотела вас пугать, мои благодетели. Вы увидели мой истинный облик, раз так, я не буду больше хранить свою тайну. На самом деле я баку, которого батюшка спас из капкана много дней назад. Чтобы отплатить вам за доброту, я приняла облик юной девушки и разыскала вас. Я превращала ваши дурные сны в ароматное печенье, чтобы вы могли выручить за него хорошую цену».
+«Ох! Значит, ты и есть тот самый кабанчик!» - вскричал старик.
+
+«Во-первых, я не кабанчик, а баку. Точнее, зверь мо из Ли Юэ, больше напоминающий тапира. Во-вторых, вы видели мой истинный облик, но если новость обо мне разойдётся по городу, моя хозяйка - та, что ведает всеми прекрасными снами и кошмарами, - не простит мне такой проступок. И вас тоже могут наказать. Вы заботились обо мне все эти дни. Простите, что заставляю вас волноваться. Но знайте, что я всей душой хотела стать вашей дочерью. Знать только, в этой жизни моему желанию не сбыться. Батюшка, матушка, пришла нам пора прощаться».
+«Баку? Зверь мо? Никогда мы о таком не слыхали. Но будь ты кабанчик или девушка, мы всё равно твои родители!»
+
+«Я от всей души благодарна вам за добрые слова. Но если весть о том, что среди людей поселился баку, разойдётся по округе, случится большая беда. И я не кабанчик, а баку».
+
+«Ай, какая разница! Если ты сама не скажешь, откуда люди узнают, что у нас живёт какой-то там баку? Да и потом, никто из соседей не станет удивляться, если узнает, что мы приручили лесного кабана!»
+
+«Вы верно говорите. Но помните, я не лесной кабан, а баку».
+
+И девушка осталась жить вместе со стариками. Благодаря выручке за печенье их последние годы прошли в счастье и достатке. И жили они долго и счастливо.
+
+## EN
+
+### Vol. 1
+A collection of Inazuman folk stories transcribed by a traveling writer from Fontaine. Its pages contain a wealth of myths and strange tales passed down orally by people from all over Inazuma.
+
+The Mysterious Maiden of Genbou
+
+A long time ago, there lived an official named Takehiko. Refined and elegant, this young man trained himself assiduously in both the cultural and martial arts, garnering the respect of his peers. One day, while visiting the home of the illness-stricken Emon no Kami, "Chief of the Gate Guard," Takehiko chanced upon the Chief's only daughter, a young lady named Sayohime. In the prime of her youth, Sayohime was as graceful in manner as she was beautiful to gaze upon, her every smile and gesture flowing with innate elegance and natural grace. It was love at first sight for both, and so deeply were they enamored that they secretly pledged their lives to one another behind her father's back, planning to formally propose their marriage as soon as they came of age.
+
+The years slipped by, yet before long, rebels began to stir up trouble. Takehiko resolved to follow the Shogunate's orders and join efforts to quell the rebellion. Upon hearing of his decision, Sayohime rushed to meet him. Tearfully, she said:
+
+"You will soon depart for the war, with no promise of when you may return. The battlefield is perilous, and I shall be cursed to wait alone. If you truly love me, then stay by my side, and grant me the honor of being your bride. I harbor no grand ambitions for glory, prestige, or wealth, and only wish to spend our lives together, happy, and in health."
+
+Afterwards, Sayohime recited a poem on the spot, which may be translated as such:
+
+How deep the suffering, how bitter it is to yearn. My sleeves are soaked through with anguished tears.
+
+Like autumn's morning dew, I will scatter as dust in the mirror for you.
+
+But Takehiko was unswayed by her plea. He replied:
+
+"Do not mourn our parting, beloved, it is but temporary. If I lived a thousand lives, for you I would keep my loyalty. We are born into the world in our proper time and age. How could I sit idly by and watch while a war is waged? I will return from battle with victory in my wake, then your hand in eternal union — our marriage — I will take."
+
+Having said this, Takehiko gifted to Sayohime a hand mirror of exquisite craftsmanship to be held by her during their wedding. He too bequeathed unto her a poem, which may be translated as such:
+
+Though my long quest may have no end in sight, neither does this oath to my future bride.
+
+Though the earth may see us a thousand miles apart, we share the same starlight that binds our loving hearts.
+
+And so they were separated; and so did months pass. A rumor spread of the defeat of the Shogunate's army, and how many soldiers had been grievously wounded or slain. The news devastated Sayohime, who took ill in her despair, and before long died of a broken heart. Takehiko returned from the war a hero, only to hear of his beloved's tragic passing. Wracked with uncontrollable grief, Takehiko made offerings to her with incense and fruits every single day.
+
+However, perhaps because she perished with such intense longing in her heart, burial proved insufficient to lay Sayohime to rest. Instead, she became corrupted by the Abyss, returned to the mortal realm as a demon, and visited Takehiko in the dead of night. Though she retained the youthful beauty of her corporeal visage, her new form had been stripped of vitality. All that remained of the tender hands that used to caress Takehiko's cheeks were bony appendages, darkened by death. Takehiko was a samurai, but the sight of this apparition sent him screaming in fear from his bed. He fled to the riverbank, begging a boatman to save his life by ferrying him across to the other side. By the time Sayohime caught up, no boats remained by the water's edge, so she leapt into the river, her legs turning into fishlike fins, and gave chase.
+
+After fleeing to Mt. Yougou, Takehiko, with magic learnt from the bake-danuki, hid himself inside a stone. There were as many stones scattered across Mt. Yougou as there were stars in the heavens. No matter how hard she tried, how could Sayohime possibly hope to find him? Just as she was at a loss, she dropped the hand mirror that Takehiko had gifted to her, all those months ago. It shattered on the ground, its shards all reflecting the stone that Takehiko had hidden himself within.
+
+Hugging the stone close, Sayohime wept bitterly as she expressed her undying love for Takehiko. She begged him to remember the oaths he had made to her, but Takehiko was still too frightened to reveal himself. At her wit's end, yet unwilling to be separated from her beloved once more, Sayohime turned herself into a raging ball of flame, consuming both herself and the concealed Takehiko, till they were naught but ashes.
+
+After finishing the tale, with great interest my friend asked me what I thought of it.
+
+"Speaking from our Fontanian perspective," I answered, "I find it doubtful that Takehiko truly loved Sayohime. The lovers we sing of in our operas are inseparable, even in death. If one should pass, loyalty would drive the other to join them. From Drest and Adsiltia's promise, to the duel in Tancrede et Chariclea, and even the farewell between Coppelius and Coppelia, this trope is a constant. If memory serves, we've an old fable that defines love like so: Even after all flesh, bone, and entrails have been sliced away, I still lie nestled with you in the marrow that remains. Takehiko promised a thousand lifetimes to Sayohime — even if she was corrupted by the Abyss, he should have joined her in eternal slumber. As a proud samurai of Inazuma, Takehiko should know the value of promises and oaths better than any of us."
+
+"Well, that's not wrong. In Inazuma, many people see Takehiko as a coward and a traitor to his beloved. However, it is not because he didn't return Sayohime's feelings. Rather, when faced with a demonic entity from the Abyss, Takehiko chose to run and hide inside a stone instead of offering her salvation. In the end, he was revealed by the very mirror he gave to her, and was burned to ashes. I suppose that's karma," my friend said while refilling her cup of tea. She continued, "It is said that this tale was originally inspired by a novel from Liyue. In that story, the protagonist never betrayed their lover, and the two were unable to meet for a long time because of the interference of evil-doers who transformed the girl into a monster and imprisoned her beneath a stone... Well, that's a bit distant from this version of the tale. What I'm more curious about is what'd you do if faced with similar circumstances. Suppose I was turned into a monster by the Abyss, and started haunting you, begging you to keep telling me stories..."
+
+"If your first instinct after being turned into an Abyssal monster was to come find me for storytime, that'd mean you were completely fine. After all, you're much more of a handful than Sayohime was in the story. Anyway, Miss Usa... I just so happen to have finished this cup of tea. Would you mind getting me a refill?"
+
+### Vol. 2
+A collection of Inazuman folk stories transcribed by a traveling writer from Fontaine. Its pages contain a wealth of myths and strange tales passed down orally by people from all over Inazuma.
+
+The Yumekui-Baku
+
+A long, long time ago, there lived an elderly couple near Konda Village. Although they were poor and their lives were hard, they remained compassionate, and so earned the respect of their neighbors.
+
+One snowy day in winter, the old man of the house went into the mountains to gather firewood. He came across a plump little beast entangled in a hunting trap. No matter how much it struggled, it could not break free. It could only squeal in distress — a heart-wrenching sight, if ever there was one.
+
+"Poor thing!" the old man thought, his heart full of sympathy. "How unfortunate for such a young boar to be caught in a hunter's trap like this. So small, it wouldn't even make a good meal... What a waste of life. Let me lend you a hand!"
+
+So the old man put down his axe and helped the wild boar undo the ropes that had caught it by the trotters. The little boar squealed and ran several joyful laps around the old man, before running back into the forest.
+
+After collecting enough firewood and returning home, the old man told his wife about what had happened. She was pleased to hear it, and said: "Well done, dear! Once that wild boar grows up nice and fat, we'll catch it and have ourselves a feast!"
+
+That night, the elderly couple were just about to sleep when they heard a knocking at the door, along with the gentle, mellifluous voice of a young woman:
+
+"Excuse me! Is anyone home?"
+
+How could there be someone outside in a snowstorm as harsh as this? The old woman rushed to throw open the door, revealing a girl who looked to be around seventeen or eighteen years old, braving the wind and snow. Her beauty was striking — though dressed in humble garb, she had a natural radiance, not unlike an adeptus straight out of a Liyue fable. Seeing this, the old woman was overwhelmed with pity, and cried out:
+
+"Mercy me! Such snow, you must be freezing! Come inside, let's get you all warmed up. I don't know whose daughter you are, young lass, but what brings you here so late?"
+
+"I'm truly sorry to disturb you at such a late hour. My parents, unfortunately, have passed away. According to their will, I was to seek out a friend of my father's... But I didn't expect to run into weather like this, and I ended up getting lost in the snowstorm. If you two would be so kind as to let me stay the night... I don't mind sleeping in the corridor, or even in a storeroom."
+
+Hearing her story, the elderly couple took pity upon the poor girl, and let her stay in their house, giving her both food and a bed to sleep in. Perhaps because of this good deed, both the old man and woman were graced with beautiful dreams that night.
+
+In the days that followed, the snowstorm did not cease, and the elderly couple continued to let the young girl live with them. During this time, the girl tended to the couple's daily needs. Both diligent and considerate, she completed each task with meticulous attention to detail. The old man and woman were delighted.
+
+One day, the girl suddenly said to the elderly couple:
+
+"As I mentioned, before my parents passed away, they entrusted me to a friend of my father's. Yet though they are a family friend, I have never met them. I don't know what kind of person they are, or if they're willing to accept a burden like me into their life. You've taken such good care of me all this time, and I don't know how I could ever repay the favor. If you would not object, I would love to be taken in as your daughter. Although I'm just an ordinary girl, I'm willing to do my best, however little that may be, to look after the two of you from here on out."
+
+Hearing her words, the elderly couple were overjoyed. Having no children of their own, they had suddenly gained a daughter who was both intelligent and considerate. They could ask for no better blessing. From then on, the old man and woman treated the girl as if she were their own daughter, and she returned the favor in kind. Whether in front of others or in private with her new family, she was the very picture of filial piety.
+
+After some time, one morning, the girl offered the elderly couple a tray of irresistibly delicious-looking pastries, the likes of which they had never seen before. She said:
+
+"While you were sleeping, I made a little something, following a recipe passed down by my family. Please, take these pastries to the town and sell them in the market — I'm sure they'll be very popular."
+
+Just like the girl had said, the miracle pastries were a roaring success among the wealthy merchants of the town, and sold for a fittingly high price. From then on, every morning, the girl would make some pastries for the elderly couple to sell. With the profits rolling in, the family began to prosper.
+
+After this had happened several times, the elderly couple could not help but be curious. How could their daughter make such exquisite delicacies when all they had in their house was flour, and ordinary flour at that? Eventually, they could no longer contain their curiosity. That night, when the girl was making her pastries, they spied on her through a crack in the door. Yet their adopted daughter was nowhere to be seen; only a plump little beast, using its snubby nose to snatch floating dreams out of the air, then turning them into pastries. The elderly couple were shocked, and the little beast, sensing their presence, quickly reverted to the familiar form of their daughter. Throwing herself down at their feet, she cried:
+
+"I am terribly sorry to have frightened you, my dear benefactors! Since you have already seen my true form, I shall not keep my secret any longer. In truth, I am the baku that you rescued on the mountain, all those days past. In order to repay your kindness, I took on the appearance of a young girl and sought you out. I've been taking your nightmares and turning them into pastries, so that you may sell them for a good price."
+
+"Oh my!" cried the old man. "You're that wild boar from back then!"
+
+"Firstly, I am a baku — well, technically speaking, a 'mo' — from Liyue, not a wild boar. Secondly, since you now know my true form, if word of this spreads, my mistress — the one who oversees countless sweet dreams and nightmares — will surely not look kindly upon my recklessness. The two of you might also be implicated because of me. I am truly grateful for all the care you've shown me in the days I've been here, and I am sorry for having caused you such trouble. Even so, my wish to become your daughter was sincere... Though I am afraid such a request is likely impossible in this lifetime. So please, allow me to bid you farewell."
+
+"A baku, you say? A mo...? Nope, never heard of it. Ah, I don't care if you're a human or a wild boar, you're still our darling daughter!"
+
+"I am truly thankful for your kind words. But if others learn that there is a baku here, it might spell disaster in the near future. Also, I am a baku, not a wild boar."
+
+"Bah, what's that got to do with anything? If you don't tell anyone, nobody'll even know you're a... What was it again? Bakumo, right? Also, rearing wild boars is hardly something out of place around here!"
+
+"That does make sense, when you put it like that. But remember, I am a baku, not a wild boar."
+
+And just like that, the young baku stayed by the elderly couple's side. With their daughter's delicious pastries to sell, the old man and woman spent their twilight years in comfort and prosperity. And they all lived happily ever after.
+
+## ZH
+
+### 卷一
+玄坊女
+许久之前，有一位名叫蛇介彦的奉公人。这位青年生得俊雅非凡，又勤修文才武艺，深受同侪敬重。一日，他到卫门督家中探病，正好遇到了其独女，名叫纱夜姬。那少女年方裳着，美貌无与伦比，一颦一笑，一举一动，都显着天生的温柔和优雅。二人一见钟情，坠入爱河，很快便瞒着卫门督私定终身，只待元服后登门求亲。
+然而急景流年，没过多久，正赶上叛军作乱，蛇介彦便也决心追随幕府的御令，前去征讨反贼。纱夜姬得知这一消息，急匆匆地找到了他，流着泪对他说：
+「贵殿今时出征，不知何日才能回还。况且战场凶险，但有不测之忧，小女子定难独生。若是您真的爱我，就请您留在这里，让我做您的新娘吧。小女子只愿与贵殿共享一世幸福，别无荣华富贵之求。」
+随后，纱夜姬当即咏了一首短歌，大致内容翻译过来是这样的：
+相思何苦念何深，珠泪难干满袖襟。
+妾身犹似秋朝露，为君散作镜中尘。
+蛇介彦却没有被她的话语劝服，而是回答道：
+「小姐不必心忧，虽是短暂离别，我心仍只属小姐一人，七生七世，矢志不渝。况且男子生于世间，又恰逢立身扬名之时，怎能坐视他人立下赫赫战功？待我自战场归来，便与小姐成婚，永不分离。」
+说罢，蛇介彦将一枚装饰精美的手镜赠送给纱夜姬，以此作为日后开镜礼的许诺，又作了一首短歌相应，大致内容翻译过来是这样的：
+此别重逢未有期，但言一誓永无移。
+我心定随君在处，千里同光共相依。
+就这样，又过去了数月。这时有谣言说，幕府军在交兵中落败，将士伤亡惨重。听闻此言，少女忧郁成疾，没过多久竟因悲伤过度而病逝了。功成名就的蛇介彦从战场上归来，听闻心上人已与他阴阳两隔，不觉悲不自胜，每日为她焚香奉果。
+然而，也许是因为思念心切，下葬后，纱夜姬非但没有得到安宁，反而为深渊所侵染，化作了妖鬼，于夜半之时造访了蛇介彦。此时的少女虽依然青春貌美，却已没了半点生气，意图爱抚他面颊的双手，也已经化作了幽幽黑骨。蛇介彦虽是武士，却也被少女这副模样吓得魂飞胆颤，拔腿就跑，一路飞奔来到了河川前，恳求船夫载自己过河，助他保住性命。待纱夜姬追到河边时，已经一艘船都没有了，于是她便跳进了河中，将双腿变作鱼鳍，追着他上了岸。
+逃进了影向山里的蛇介彦凭借从妖狸那里学会的法术，藏进了一块石头里。影向山遍地都是石头，任凭纱夜姬苦苦寻找，又怎么找得到呢？就在纱夜姬不知所措的时候，蛇介彦当初送给她的手镜不慎掉落在地。镜子破裂成无数碎片，每一片都映出了蛇介彦藏身的那块石头。
+纱夜姬将那块石头捧在怀中，哀泣着向爱人述说思念之情，请他想起当初的誓言，可蛇介彦却依然因为恐惧而不敢现身。纱夜姬已经无计可施，却又不愿与心上人分离，心焦如焚，最后竟化成一团火，将自己连同躲在石头里的恋人一并烧成了灰烬。
+友人说罢，饶有兴趣地问我对这个故事有什么看法。
+「若是以我们枫丹人的目光来考量，」我回答道，「这位蛇介彦先生着实不能算是倾心爱慕纱夜姬的。在我们的歌剧中受到咏颂的眷侣，若是有一方不幸亡故，另一方也会选择追随爱人而去。从戴思与爱绮妲的约定，到堂克勒德与夏蕾克莱娅的交手，再到科培琉司与歌裴莉娅的辞别，无一不是如此。我记得，在我国有一本古典小说，对爱的定义是这样的：哪怕割掉所有的肉、骨与内脏，我也会在骨髓中伴你同床——既然已经许下了七生七世永不分离的誓言，就算对方已经被深渊侵染，也要与对方一同坠入永眠。蛇介彦先生既然是稻妻的武士，对于诺言与约定，理应看得比我更重。」
+「当然，您的说法没有错。在稻妻，人们也大多认为蛇介彦是怯懦的背信弃义者。不过嘛，理由倒不是因为他没有回应纱夜姬的感情，而是因为他在面对来自深渊的妖邪之物时，竟选择了逃避，将自己藏进了石头里，而非帮助爱人解脱。至于最后被亲手送出的镜子照见，化作灰烬，也可以说是自食其果。」友人向她自己的杯子里添上茶，接着说道，「据说，这个故事原本也是受到来自璃月的小说启发。在那个故事里，主人公从始至终都没有背叛心上人，二人久久不能相见，则是因为有奸恶之徒从中作梗，将变成了妖物的少女镇在了石底——不过，那就和这个版本的传说没有什么关系了。我更好奇的是，若是类似的事情发生在您身上，您又会如何选择呢？比方说，如果我被深渊侵蚀变成了魔物，主动找上您，让您继续给我讲故事…」
+「如果您被深渊侵蚀变成了魔物，第一反应却是来找我听故事，那就说明您完全没事。毕竟，您比怪谈中的纱夜姬难缠多了。好啦，宇佐小姐，这杯茶喝完了，请您为我续上吧。」
+
+### 卷二
+食梦貘
+很久很久以前，在绀田村附近，住着一对老夫妇。二人虽家中贫寒，生活艰辛，却心地良善，受人敬重。
+一个下雪的冬天，老爷爷进山采樵，见到一头肥肥胖胖的小兽被捕猎的陷阱困住，怎么挣扎也动弹不得，只能呜呜地叫着，看上去甚是凄惨。
+「真是可怜呐！」老爷爷心生不忍道，「这么小的林猪，却落到了猎人的陷阱里。唉，就算被抓住，也没有多少肉，还白白丢了性命。我来给你解开吧！」
+于是，老爷爷放下手中的斧头，帮小林猪解开了束缚在它蹄子上的绳索。小林猪呜呜地叫了两声，开心地绕着老爷爷跑了好几圈，就逃回树林里去了。
+老爷爷砍完柴，回到家中，和老奶奶说起了这件事。老奶奶听罢，也感到非常高兴，说：「哎呀，您还真是做了一件好事哩！等小林猪长大，就有更多的肉可以吃啦！」
+这天晚上，老夫妇二人正打算睡觉，突然听到有人敲门，从门外传来一个温婉动听的年轻女声：
+「打扰了！请问有人在家吗？」
+这么大的雪，怎么还有人在外面呢？老奶奶打开门一看，居然是一位十七八岁的年轻姑娘，顶风冒雪站在门外。那姑娘极为美貌，虽说衣着质朴，却也难掩天生丽质，简直就像是璃月传说里的仙女那般。老奶奶见状心生怜惜，连忙说道：
+「唉！雪下得这么大，一定冻坏了吧！请您快进屋，烤烤火，暖暖身子！不知您是哪家的小姐，这么晚来找我们有什么事呀？」
+「这么晚了，却冒昧打扰您，实在是非常抱歉。我的父母不幸过世，我原本是按照他们的遗嘱，前去投靠父亲生前的友人，只是没想到会下这么大的雪，让我在傍晚时迷了路。不知您二位能否让我在您家中借宿一晚，只要让我睡在走廊或者仓库里就好。」
+老爷爷和老奶奶听了便心生同情，于是让姑娘在家中住了下来，为她准备好了饭食和床铺。也许是因为行善的缘故，那天夜里，老爷爷和老奶奶都做了特别美妙的梦。
+接下来的数日，雪都下个不停，姑娘便在老夫妇家中住了下来。这段时间，那姑娘一直在悉心照顾老爷爷和老奶奶的起居，平日里又勤恳又体贴，所有的活儿都做得一丝不苟，两人都非常高兴。
+这天，姑娘突然对老爷爷和老奶奶说：
+「就像我之前对二老说过的，我的双亲过世前，将我托付给了父亲的友人。不过，虽说是友人，我也从未见过面，不清楚对方究竟是什么样的人，是否愿意接受我这个累赘。这些日子，两位贴心照顾我，我不知道应该如何报答，若是两位不嫌弃的话，我愿请二位干脆收我为养女，我虽然只是个普通的姑娘，却也愿意尽自己的绵薄之力，自此孝顺二位。」
+老夫妇听到这话，心里高兴极了。二人不曾有过一儿半女，能认这么聪明体贴的姑娘做女儿，自然是心满愿足。从那以后，老夫妇就像是对待自己的亲生女儿那样对待姑娘，而姑娘也十分孝顺，无论是人前人后，表现得都无可挑剔。
+又过了一段时间，这天早晨起来，姑娘端出了老夫妇从未见过的、看上去就无比美味的点心，对二人说：
+「二老睡觉的时候，我已经按照家族传承的食谱，悄悄做了些点心。请您将这些点心拿到镇子上去卖吧，一定会大受欢迎的。」
+果然，就像姑娘说的那样，美味的点心受到了富商的欢迎，卖出了相当高的价格。从那以后，每天早上，姑娘都会呈上一批点心，让老爷爷去镇子上贩卖，老夫妇的生活也因此变得越来越富有了。
+这样反复几次，老夫妇不由得好奇：家里只有普通的面粉，女儿到底是如何做出这么美味的点心的呢？终于，老夫妇按耐不住好奇心，这天夜里，在姑娘做点心的时候，悄悄往门缝里看了一眼。不料房间中没有姑娘的踪影，只有一头肥肥胖胖的小兽，正在用短短的鼻子勾住漂浮在空中的梦，将它做成点心。老爷爷和老奶奶吓了一跳，小兽察觉到了二人，连忙变回了年轻的姑娘，来到老夫妇面前，跪伏在地，说道：
+「实在是非常抱歉，让二位恩人受惊了。既然二老已经见到了我的模样，那我也不必再有所隐瞒。我就是之前在山中被老爷爷救下的貘，为了报答您的恩情，我变成少女的姿态前来见您，将您的噩梦做成美味的点心，供您拿去在市场上卖个好价钱。」
+「啊呀！」老爷爷惊呼道，「原来你是那时的小林猪！」
+「首先，我不是林猪，我是从璃月来的貘。其次，您已经识破了我的真身，若是消息不胫而走，我家的女主人——就是统管着无数美梦与噩梦的那一位——定不会轻易饶恕我冒昧的行为，到那时，您说不定也会被我牵连。这些天来，承蒙两位的照顾，也给两位添了不少麻烦。不过，我还是希望您能相信，我是真心实意地希望能成为两位的女儿，只是今生今世，这样的愿望恐怕是没有办法实现了。那么，就请您允许我告辞吧。」
+「貘？从来没听说过。不管是人还是林猪，你都是我们的女儿嘛！」
+「我从心底感谢您的良言美意。可是，如果有貘在这里的消息传扬出去，说不定会造成明日的灾祸。另外，我不是林猪，我是貘。」
+「哎呀，这有什么关系嘛！只要你不说，这里有谁会知道你是什么『貘』呢？就算有人驯养林猪，也不会让其他人觉得奇怪呀！」
+「您的说法的确不无道理。不过，我不是林猪，我是貘。」
+就这样，小貘决定留在老夫妇身边，和他们生活在一起。靠着她做出的那些美味的点心，老爷爷和老奶奶安逸幸福地度过了晚年。可喜可贺，可喜可贺。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -1,0 +1,133 @@
+# id: mt_lingmeng_gossip
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/mt_lingmeng_gossip.webp
+# title_ru: Слухи горы Линмэн
+# title_en: Mt. Lingmeng Gossip
+# title_zh: 灵濛山夜话
+# region: Ли Юэ
+# volume_count: 3
+# tags: книги, Ли Юэ
+# status: draft
+
+## RU
+
+### Том 1
+Книга о местных фольклорных песнях и балладах долины Чэньюй. В ней много невероятных народных легенд.
+
+По легенде, среди гор долины Чэньюй, там, где растут лилии и нефритовые лотосы, в утренней или вечерней туманной мгле изредка возникают едва уловимые тени прошлого.
+По словам деревенских старейшин, жители гор Линмэн прежде верили во множество божеств, духов и лесных фей, разумных зверей и птиц, но из-за войны, тысячи лет назад перевернувшей небо и землю, многие сверхъестественные существа исчезли. Тем не менее горы сохранили в артериях земли отголоски своих воспоминаний, поэтому тени время от времени появляются на рассвете или в ночи, окутанные туманной дымкой.
+Иногда травники и мастера по нефриту, уйдя глубоко в горы, сбиваются с пути в густом тумане и случайно встречаются с этими одинокими призраками. По словам деревенских старейшин, встречи с древними блуждающими душами часто предвещают беду. А густой туман и нескончаемый дождь окутывают горы от того, что переполненные артерии земли приносят в современный мир сожаления и печали древних людей. Поэтому местные жители всегда укрываются от дождя и тумана, тем самым спасая себя от скорбных пут прошлого.
+И всё равно, когда Властелин Камня завершил своё великое дело по умиротворению суши и моря, картографы из Ли Юэ грубо вторглись на земли дождей и потревожили воспоминания о прошлом... Но это уже совсем другая история.
+
+### Том 2
+Книга о местных фольклорных песнях и балладах долины Чэньюй. В ней много невероятных народных легенд.
+
+Когда Властелин Камня только усмирил горные леса, один лодочник заплыл в сплетение горных ручьёв у подножия горы Линмэн и заблудился в вечернем тумане. Правя лодку бамбуковым шестом, он проплыл мимо водорослей, что светились фиолетовым и голубым, мимо подёрнутых дымкой деревьев с осыпающимися цветами и, следуя за изумрудными птицами, которых он никогда прежде не видел, проник в пещеру сна.
+В флуоресцентном свечении нефрита и тусклом сиянии грибов лодочник будто сквозь сон увидел силуэты древних людей. Они были одеты в старинные длинные одежды из лёгкой ткани, окаймлённые чистым, подобно блеску воды, нефритом и неведомыми ароматными травами, и своим обликом напоминали горных божеств. Они стояли в ряд на берегу пруда и пели песню, которую лодочник никогда прежде не слышал:
+«Обида моя одиноко таится в угасающем свете дня. Ветер презренный приносит дождь, туман застилает глаза.
+Владыка в печали доживает свой век, ропща на вечный времени бег. Увы, ты пришёл слишком поздно».
+Песня была тиха и печальна, словно пропитана давней тоской. Лодочник ещё раз всмотрелся в призрачные силуэты в пещере. Один за другим они стали снимать с себя нефритовые украшения и бросать их в чёрную воду, будто и не подозревая о присутствии гостя. Лодочник, всё явственнее ощущая скорбь и тоску, поспешно направил лодку назад и, оставляя по пути метки, вернулся в деревню Цяоин.
+Говорили, будто павильон Лунного моря отправил картографов на поиски таинственного поселения, которого не было на карте. Также поговаривали, будто отряд Миллелитов углубился в горы, чтобы разузнать о возможных незаконных притонах, но все эти попытки не увенчались успехом. Лань Цзин, известный врач из порта Илун, в молодости отправился к горе Линмэн, чтобы отыскать легендарную таинственную пещеру и добыть древние рецепты, но, вернувшись домой, ни словом не обмолвился о своём путешествии. Только после его смерти семья нашла среди принадлежавших ему вещей тушечницу, прозрачную, словно чистые воды, и сияющую, словно небо. Но так как он скончался, происхождение тушечницы осталось неизвестным. Позже потомок известного врача разорился из-за неумелого управления торговым судном, и тушечница оказалась в чужих руках. С тех пор её местонахождение неизвестно.
+
+### Том 3
+Книга о местных фольклорных песнях и балладах долины Чэньюй. В ней много невероятных народных легенд.
+
+В долине Чэньюй издавна пели песни о неизвестной повелительнице духов из прошлого, скрывавшейся в древней горной обители. Говорят, она носила платье из застывшей яшмовой крови, пользовалась давно разрушенной серебристой колесницей и спала под тёмными водами бездонного пруда. В незапамятные времена она была хозяйкой долины Чэньюй, властвовала над живущими в горах птицами, зверями и адептами, управляла приливами и отливами реки Бишуй и была судьёй, что поддерживала природное равновесие между смертными и животным миром. Но это очень древнее предание, и хотя в сказаниях коренных народов и переселенцев говорится о том, как она из-за своих заблуждений развязала войну и в итоге была повержена, запечатана и погружена в безмолвный сон, никаких исторических подробностей не сохранилось.
+Единственным доказательством, подтверждающим подлинность истории, может послужить скорбная песня, известная коренным жителям долины Чэньюй:
+«Хотел цветок тебе подарить, кто бросил его на отмели речной?
+Где прежнее знамя, что реяло гордо? Колесница затеряна в тёмной бамбуковой роще.
+Печален вой Сюаньвэня, тёмные глубины пруда владеют его помыслами».
+Помнят ли гордые потомки горного народа о своём потерянном божестве, продолжают ли чтить её? Все самые яркие истории стёрло из памяти время, лишь в песнях смутно проступают их контуры, как проступают контуры нефрита под водой горных потоков. Возможно, сбившийся с пути лодочник не обманул: среди бурных ручьёв и бездонных омутов до сих пор слышен стук древнего сердца, его пульсирующее эхо?
+
+## EN
+
+### Vol. 1
+A book about the local folklore and ballads of Chenyu Vale. It contains many far-fetched folk legends.
+
+Legend has it that in the depths of the mountains of Chenyu Vale, where the water lotuses and jade lilies thrive, when the rain falls and fog gathers in the dawn and dusk hours, looming shadows of the past will sometimes emerge.
+
+According to the village elders, those who dwelled in Mt. Lingmeng once worshipped many supernatural beings, walking alongside the spirit elders of fairies, birds, and beasts within the wild mountain. But in that earth-shaking chaotic war a thousand years before, those gods, fairies, and former inhabitants alike disappeared. Even so, the sentimental mountains retained the echoing memories in the Ley Lines, and thus they sometimes repeatedly reappear at dawn or at night, when fog and rain blanket the land.
+
+Sometimes, herb gatherers and jade artisans will lose their way in this fog and encounter these solitary shadows. As the village elders tell it, an encounter with the ancient fallen is often an ill-starred omen, a sign of unexpected disaster. The Ley Lines, having accumulated and accumulated until growing into tumors, bring forth these ancient regrets and miseries into the present world, and that is why there is fog and rain unceasing. And that is also why the mountain people avoid both like the plague, to avoid becoming entangled in spirit by those ancient sorrows.
+
+Even so, after Rex Lapis completed his great deed of pacifying the land and sea, surveyors from Liyue Harbor would blunder into the fog and rain, disturbing those dreams of old... But that is another tale.
+
+### Vol. 2
+A book about the local folklore and ballads of Chenyu Vale. It contains many far-fetched folk legends.
+
+In the days after Rex Lapis brought peace to mountain and forest, a mariner once entered the crisscrossed streams beneath the mountain and became lost in the damp dusk fog. On a bamboo raft, this person passed waterweeds that glowed a faint blue and purple, passed tree and bush bedecked in falling flowers, and followed azure avians never before seen even in dreams, before coming unto and into the cavern of slumber.
+
+Through the jade glow and the ghostly light of fungi, the mariner gazed with entranced eyes upon the inhabitants of old. A veritable parade of mountain ghosts they seemed — in ancient cotton robes they were garbed, and the hems of their clothes were adorned with jade as clear as light playing upon the water, and with nameless fragrant plants. Lined up and standing on the bank of a deep pool, they sang a song the mariner had never heard before:
+
+"How mine malice lurks lonesome in the dying light of day! How the hateful wind bears the rain, how the deep fog veils!"
+
+"None remain save a lone lord lamenting lost years — alas, alas! You came too late."
+
+Sad was the song and quiet, tinged with seeming resentment. The mariner looked closely at the faintly glowing figures in the cavern, and lo, one by one they removed their jades and threw them into the pitch-black pool, as if never having noticed the presence of a visitor at all. Descending despondency drove the mariner's paddle on the return journey to Qiaoying Village, but not before leaving markings along the path.
+
+It is said that Yuehai Pavilion would later send surveyors here to search for any mysterious settlements, and some also say that the Millelith once deployed troops into the deep mountains to search for any hideouts of illicit nature, but all without success. When Lan Jing, the famed doctor from Yilong Wharf, was yet a youth, he entered Mt. Lingmeng to explore the legendary, mysterious cavern in search of ancient prescriptions, but after his return, he would never again speak of the matter. It was only following his passing that his family found an inkstone within his personal effects. Legend has it that it was the color of clear waters and bright as the high heavens, and yet, with the doctor's death, the origins of this inkstone could no longer be verified. Much later, the descendants of this famous physician would go bankrupt due to poor management of their merchant shipping business, and thus was this inkstone lost amidst the morass of humanity, its whereabouts unknown thereafter.
+
+### Vol. 3
+A book about the local folklore and ballads of Chenyu Vale. It contains many far-fetched folk legends.
+
+Songs have long circulated in Chenyu Vale that tell of an ancient cave within which a demon lord from a past beyond reckoning once hid. They say that she wore a skirt of coagulated jade-blood, and leaned on the long-destroyed lunar chariot, submerged and slumbering beneath a black, bottomless pool of water. In these eons that memory has nigh forgotten, she was the mistress of Chenyu Vale, who ruled the birds and beasts and adepti of wild mountain nature, who controlled the ebb and flow of the Bishui River, who as an arbiter maintained the natural balance between mortals and animals. But those are tales from long ago, and though both folk indigenous and migrant tell tales of how she started a war out of incurable obsession, before ultimately being defeated, sealed, and plunged into deathly, dreaming slumber, the relevant historical details can now no longer be verified.
+
+The sole piece of evidence that supports this tale is this song of lamentation that Chenyu Vale locals once sang:
+
+"Though I wish to gift you herbs, who shall leave it at the sandbank amidst the waters?"
+
+"Where now fly the godly banners? The chariot is lost in the lightless bamboo wood."
+
+"How terrible the Xuanwen wail, who think upon the darkened pool."
+
+Do the proud descendants of the mountain folk yet remember and memorialize their lost god? The most vivid tales have been eroded by flowing time, now only faintly visible in song, like green jade only faintly discernable beneath the waters of a stream. So perhaps, just as a lost boatman once witnessed, one might still hear an ancient heart beating, its jade blood pumping, echoing in those boundless depths?
+
+## ZH
+
+### 卷一
+一部关于沉玉谷本地民俗故事与歌谣的专著，其间记载了许多荒诞不经的民间传说。
+
+相传在沉玉谷的深山之中，芰荷与玉莲丛生之处，每当清晨或傍晚雨雾容容的时刻，偶有来自旧日的身影隐现。
+据村落中的长老所言，灵濛山的山民曾信仰诸多鬼神，与山野之间精灵鸟兽中的灵长者同行，但在千年之前那场翻覆天地的混战之后，许多鬼神与精灵陪伴着曾经的住民一同消逝了。尽管如此，多情的群山还是将记忆的回声挽留在了地脉之中，偶然在某个烟雨笼罩的清晨或入夜时分反复重现。
+有些时候，深入群山的采药人与玉匠会在大雾中迷失方向，撞见这些孤独的幽影。据村庄中的长者们述说，与古老的亡者相遇往往预示着不祥，是无妄之灾的预兆。因为蓄积成瘤的地脉将旧人的遗憾和哀怨带入了现世，所以才会显现迷蒙的大雾与不绝的山雨。所以，本地的山民总会有意躲避雨雾的侵袭，以免被往日的哀伤缠上心神。
+尽管如此，在岩王帝君定山海于一尊的伟业完成后，从璃月港来的测绘师们却还是莽撞地闯入了烟雨之中，惊扰了往日的旧梦……不过那就是另一些故事了。
+
+### 卷二
+在岩王帝君镇抚山林之后，曾有一位船工进入灵濛山下错综的溪涧，迷失在傍晚潮湿的山雾中。撑竹篙渡过泛着蓝紫色幽光的水草，经过落花迷离的树丛，追随着即使在梦中也未曾见过的碧色禽鸟，船工闯入了沉睡的洞窟。
+借着玉石的荧光与菌类的幽光，船工恍惚看到了旧时先民的身影。他们身着古老的纱质长衣，衣角点缀着水光般纯净的玉珏和无名的芳草，仿若山中鬼神。他们排成行列，站在深潭岸上，诵唱着船工未曾听闻的歌谣：
+「昼晦冥冥兮独含怨，幽风携雨兮烟气濛。」
+「徒留灵修兮怅岁晏，独怨君子兮竟后来。」
+歌谣哀伤清静，似有怅怨之意。船工再仔细望向洞窟之内泛着幽光的人影，他们开始一个接一个解下玉珏，投入漆黑的潭水之中，仿佛从未察觉到来客的存在。船工愈觉凄然阴森，便急忙撑篙返程，在一路上留下记号，返回了翘英庄。
+据说后来月海亭又派来测绘师，企图探寻未尝在地图上出现的神秘聚落，也有人说，曾有千岩军队伍进入深山探查可能的非法窝点，但均一无所获。遗珑埠名医蓝璟青年时进入灵濛山探查传说中的神秘洞府，以求古代药方，归来后却再不开口提及此事。直至其人去世时，他的家人才在遗物中寻得一方砚台，据说色如清水，光似高天，然而斯人已逝，这方砚台的来历终不可知。后来，名医后人因商船经营不善而破产，这方砚台也流落民间，从此下落不明。
+
+### 卷三
+在沉玉谷中早有歌谣传颂，不为人所知的古老洞府中曾深藏着旧日的鬼神——据说她身着由碧血凝成的玉裙，倚靠着早已崩毁的月色高车，湮没在深不见底的黑暗潭水之下沉睡。在难以追忆的古老年代里，她曾是沉玉谷的旧主，统治着山野自然中的鸟兽与仙众，驾驭着碧水河的兴落，作为仲裁者维持着凡人与鸟兽之间自然的平衡。但那是久远的传说了，关于她如何因不可救药的执妄而挑起战争，终究被击败、封印与陷入死寂梦乡之事，尽管在原住民和移民的故事中皆有涉及，其详细历史已无可查考。
+无独有偶的是，沉玉谷本地人曾流传着这样的哀伤歌谣：
+「欲遗君兮杜若，停中洲兮谁留？」
+「昔桂旗兮安在？觅高车兮幽篁。」
+「哀哉啸兮玄文，潭昏黑兮所思。」
+山民的骄傲后代是否对失落的魔神仍旧留存着记忆，延续着纪念？大部分鲜明的故事已经被流水般的时光磨灭，仅在歌谣之中如溪涧下的绿玉那般若隐若现。也许正如某位迷途船工的所见那般，在深涧与渊薮之中，尚且能够听到远古的心跳，正搏动着碧血的回响？
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+
+#### Том 3
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

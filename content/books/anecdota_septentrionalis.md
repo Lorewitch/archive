@@ -1,0 +1,161 @@
+# id: anecdota_septentrionalis
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/anecdota_septentrionalis.webp
+# title_ru: Северные хроники
+# title_en: Anecdota Septentrionalis
+# title_zh: 北境秘史
+# region: Фонтейн
+# volume_count: 3
+# tags: книги, Фонтейн
+# status: draft
+
+## RU
+
+### Том 1
+Древний ремурийский свиток, который вы случайно обнаружили в руинах. Невозможно установить правдивость написанного в нём.
+
+Испокон веков именитые поэты, драматурги и историки обожают сочинять всякие небылицы, а потом выдавать их за правду. Бывает, даже ребёнку ясно, что их россказни - враньё от первого до последнего слова, а они упражняются в красноречии и уверяют, будто видели всё собственными глазами и нисколько не приукрашивают факты. Похоже, участь быть осмеянными потомками их совершенно не страшит. Например, Ксантус, сын Талассия, в своих рассказах об увиденном у варварских племён на севере писал, что они воздвигли в горах город из стекла и платины, а правителей своих называют рыцарями. Ещё Ксантус писал о семидесяти двух варварских легионах, в каждом из которых насчитывалось по шестьдесят шесть тысяч шестьсот воинов, экипированных оружием, выкованным из чистейшей родниковой воды и сверкающим ярче кристаллов Махимоса. На самом деле он ни разу в жизни не покидал стен Капитолия и не видел даже жаренного на костре угря, не говоря уже о варварах, но читать его истории всё равно довольно занятно. И вот, чтобы потрафить своему тщеславию, я решил, что тоже должен написать историю для потомков. Однако в моей жизни не происходит ничего стоящего, и я не чета тем уважаемым деятелям, которые выдают свой вздор за «чистую правду». Поэтому я честно признаюсь, что всё, написанное мной, - полная выдумка. А раз я сам во всём признался, то надеюсь не прослыть лжецом. В общем, всё, о чём я собираюсь написать, нигде никем не упоминалось и никогда не происходило, от начала и до конца является вымыслом, не более правдиво, чем истории про «Рыцаря чистых родников» и прочая ерунда, и верить всему этому совсем не обязательно.
+
+Итак, мы подняли паруса и отправились в плавание, попутный ветер уносил наш корабль на север через владения варваров. Наша цель была проста - мы хотели увидеть край океана. По мнению Квинтилия, в любом направлении высокое море заканчивается непреодолимым водопадом. Но он явно ошибался, ведь даже почтенный Ювенал писал о некоем «далёком северном царстве». Но чем дальше на север мы плыли, тем реже встречали сушу. Группы островов сменились крошечными, лишёнными растительности островками. А через несколько дней пути даже эти островки пропали из виду, и перед нами раскинулся бескрайний океан. К счастью, мы взяли с собой достаточно пресной воды и еды, и нам не грозила смерть от голода и жажды.
+
+Мы провели в море семьдесят девять дней, не видя земли, и уже собирались лечь на обратный курс, но на восьмидесятый день нас внезапно атаковали прямо посреди океана. Банда разбойников верхом на гигантских птицах преградила нам путь и потребовала картошки. Чтобы понять, насколько огромными были эти птицы, представьте, что каждое их перо было толщиною с Океанский столб. Мы оказались бессильны и могли только стоять на коленях и молиться севасту, надеясь остаться в живых и клятвенно обещая не устраивать больше никаких путешествий и не писать никаких странных заметок. Но вдруг из глубины вод вынырнули воины, сидевшие на спинах пухленей. Каждый пухлень был величиной с полсотни вьючных яков и облачён в доспехи из кристаллов, драконьей чешуи и капусты. Они набросились на гигантских птиц, растерзали их плоть, и разбойники, крича от ужаса и боли, в мгновение ока скрылись из вида.
+
+Вот тогда-то мы и заметили, что всадники внешне сильно отличались от нас, людей, и были больше похожи на прямоходящих вишапов. Их предводитель окинул нас своим причудливо сверкающим взором и заговорил, причём слова его были похожи на крылатые изречения: «Дорогие гости, вы странствующие торговцы из Серенума?»
+
+Мы понятия не имели, что такое Серенум, и объяснили ему, что мы мореплаватели из Ремурии и хотим узнать, как выглядит край океана.
+
+### Том 2
+Древний ремурийский свиток, который вы случайно обнаружили в руинах. Невозможно установить правдивость написанного в нём.
+
+От наших слов он рассмеялся так громко, что на его спине затряслись плавники. Сквозь смех он сказал, что на свете нет никакой Ремурии, россказни о Ремурии придуманы варварами с юга. Не имея собственной цивилизации, они выдумали несуществующую империю. А когда мы сказали, что сами являемся ремурийцами, он рассмеялся пуще прежнего и попросил предоставить достоверные исторические материалы или реальные археологические свидетельства, доказывающие, что Ремурия существует. Мы не нашлись с ответом, и он успокоил нас, сказав, что подобные фантазии не противоречат законам их страны и что, пока мы не употребляем закатник в общественных местах, мы будем оставаться почётными гостями империи Солярис. Он также добавил, что своими костюмами мы больше похожи на торговцев из Гипербореи, а не на шпионов повстанцев. В империи бушует гражданская война, и он надеется, что мы сможем помочь им одолеть мятежников.
+
+Империя Солярис оказалась технически развитым государством, несколько десятилетий назад философ по имени Луцилий изобрёл метод, позволяющий некоторым людям обрести сверхъестественные способности, значительно превосходящие возможности обычного человека, но взамен такие люди теряли человеческий облик. Некоторые утверждали, что подобные превращения подрывают чистоту человеческой расы и что люди со сверхспособностями должны либо стать рабами, либо исчезнуть с лица земли. В конечном итоге две стороны вступили в кровавую борьбу и сражались не на жизнь, а на смерть.
+
+Пытаясь утешить нашего спасителя, я сказал, что подобные столкновения случаются с самого начала времён, я могу вспомнить не менее двадцати пьес, написанных на эту тему, что само по себе является свидетельством процветания искусств в Ремурии. Теренций из Пискулентума прославлял людей как равных друг другу, но могущественных существ, а в другом месте писал, что лишь часть людей с рождения наделена особыми силами, что побуждают их завоёвывать и уничтожать всех остальных. Я предложил им прекратить исследования технологий модификации людей и вместо этого переключиться на методы модификации пухленей, которые, как ни крути, намного симпатичнее людей. Он сказал, что подумает над моим мудрым советом, но в первую очередь необходимо уничтожить гнусных повстанцев. Если мы готовы помочь, он выделит нам самых мощных императорских пухленей и поставит нас во главе своих тринадцати легионов, каждый из которых насчитывает по миллиону человек, в общей сложности тринадцать миллионов воинов, чтобы обойти мятежников с левого фланга. Поскольку он спас нас от мятежников, мы согласились исполнить его просьбу.
+
+Дорогой читатель, я был свидетелем всех описанных событий и уверяю тебя, что ни одним словом не погрешил против истины. Развернувшаяся далее война была ещё более невероятной. Помню строки из песни, которую пел сопровождавший нас слепой слуга:
+
+«Пой, музыкант, про гнев пухленя, гнев проклятый, страданий без счёта принёсший!»
+
+Многочисленное войско пухленей ринулось вперёд, словно бушующее пламя, пожирая на своём пути всё живое и сотрясая землю своими ластами. Мы заняли позиции на широкой равнине. Главный военачальник вознёс молитву богам Соляриса, затем натянул серебряный лук и сделал выстрел, он напустил на мятежников собаку. От звона тетивы серебряного лука пробирала дрожь. Повстанцы не заставили себя долго ждать и направили к нам пять миллионов вооружённых до зубов великанов. Великаны были невероятно огромными, ростом они в десятки раз превосходили големов, созданных самим Верховным правителем. Говорили, повстанцы вызвали их в качестве подкрепления со дна моря. И хотя все великаны были одноглазыми (в этом нет ничего удивительного, в конце концов, именно так описывал великанов Пакувий), они обладали невероятно острым зрением. По команде предводителя повстанцев они начали с поразительной точностью метать в нас пузырины. Ударяясь о землю, пузырины взрывались, извергая мириады пузырей. Каждый, кого касался такой пузырь, взмывал в небо и долетал до самого солнца. Вот почему солнце своим цветом напоминает пузырин.
+
+Испокон веков именитые драматурги почти никогда не писали об исходах сражений, оставляя возможность для продолжения истории. Я последую устоявшейся традиции и пропущу эту часть.
+
+### Том 3
+Древний ремурийский свиток, который вы случайно обнаружили в руинах. Невозможно установить правдивость написанного в нём.
+
+После описанных событий мы плыли ещё триста дней через бескрайний океан. А потом наткнулись на устремлённую к небесам стену, что стояла прямо посреди водной глади. Стена была увешана множеством бесплотных силуэтов, очертания которых, однако, были довольно ясны. Всякий обманщик, что любит присочинить в своих писаниях, после смерти в наказание будет повешен на этой стене. Кто построил эту стену и что находится за ней, я не ведаю, ведь мои путевые записки правдивы с первого до последнего слова, а потому к стене мне было не подобраться. Поэтому мы тут же налегли на вёсла и поплыли обратно, надеясь никогда больше не увидеть эту стену.
+
+К вечеру мы попали в штиль неподалёку от небольшого острова. Запасы пресной воды были на исходе, поэтому мы высадились на остров, собираясь их пополнить. И тут мы уловили в воздухе сильное благоухание, с которым не сравнятся даже лучшие ароматические масла Капитолия. Оказалось, на острове живут люди. Они даже возвели процветающий город, в котором всё было сделано из золота. Город окружали двенадцать стен, каждая из которых была сложена из драгоценного камня: первая - из аметиста, вторая - из пурпурного агата, третья - из жадеита, четвёртая - из сердолика, пятая - из тёмно-зелёного нефрита, шестая - из топаза, седьмая - из рубина, восьмая - из красного агата, девятая - из изумруда, десятая - из зелёного агата, одиннадцатая - из сапфира, а двенадцатая - из яшмы. За стенами находился ров шириной в несколько сотен метров и глубиной в несколько километров. Ров был наполнен не водой, а свежим молоком, и в нём плавала солёная рыба, которую можно было сразу использовать в пищу.
+
+Создавалось впечатление, будто город населяют одни женщины. Они были элегантно одеты, красивы и молоды. Одна за другой они подходили к нам и приветственно обнимали. Остров назывался Амурия, что, по их словам, означало «любовь». Они радушно приглашали нас в свои дома и обещали несметные сокровища, которых хватит, чтобы скупить весь Махимос. Я смутно чувствовал неладное: только в сочинениях Энния хозяева бывают столь радушны к незнакомцам. Но мои спутники, знавшие наизусть все классические пьесы, ничему не удивлялись и шли за хозяйками в их дома. Мне ничего не оставалось, как проявить притворную учтивость и, тайком прихватив подаренный жителями Соляриса трофейный пузырин, проследовать за одной из женщин в её жилище. Я внимательно осмотрелся. Моё чутьё меня не подвело - внутри всё было усыпано человеческими костями. Я тотчас достал пузырин и направил его на женщину, потребовав подробных объяснений. Она захохотала, в мгновение ока превратилась в лужу и исчезла.
+
+Ни минуты не мешкая, я собрал всех своих друзей, и мы помчались на корабль, даже не успев набрать пресной воды. Присмотревшись, мы не увидели никакого острова, позади был только бескрайний океан.
+
+О том, что было дальше, вы узнаете в следующей главе.
+
+## EN
+
+### Vol. 1
+An ancient Remurian scroll you accidentally discovered in the ruins. There is no way to verify the truth of the words within.
+
+From time immemorial, those respected poets, playwrights, and historians have loved to write that which is utterly absurd and have the temerity to call it their real experiences. Anyone who cares to look can tell it's a pack of lies, and still, they insist on extravagantly embellishing everything while bending over backward to maintain a facade of sincerity, swearing that "I saw it all with my own eyes! Not a word of it is false!" as though they cared not an iota how they would be ridiculed in the ages to come. For example, Xanthus Talassii filius wrote of his meetings with the barbarians in the north, speaking of how they used glass and platinum to build their prosperous polis amongst the mountains, calling their king a "knight." He even claimed that they have seventy-two legions, each comprised of 66,600 soldiers, all armed with weapons forged of the purest of sourcewater, brighter even than the crystals of Machimos. In reality, he has not in his life even set foot outside of Capitolium. Forget barbarians, he's probably never even seen barbecued eel! However, it must be said his stories are interesting at least. As such, to satiate my own vanity, I felt I too must write something for posterity. However, I have no experiences worth mentioning and am unlike those respectable folks who name the cock and bull stories they concoct "true accounts." So I will freely and honestly admit that everything I write is completely, utterly fabricated. After all, since I've admitted it up front like this, nobody can call me a fraud. Anyway, the events I shall now commit to paper have never been heard of before, nor experienced by anybody, and are nothing more than pure nonsense that I have fabricated with no basis in reality. It is not more truthful than tales of "Lochknights," so you need not believe any of it.
+
+Thus, we weighed anchor and set sail, traveling ever northward, passing through the territory of the barbarians, with a tailwind spurring us on. Our goal was simple: To see just what the edge of the ocean looks like. According to Quinctilius, the High Sea ends in impassable waterfalls in every direction, but this was, evidently, utterly wrong: after all, did not the respected Iuvenalis also write of the "faraway kingdom in the north"? Anyway, the farther north we went, the less land we saw. At first, there were still clusters of islands and archipelagos covering the sea's expanse, but later there were little more than tiny bare isles dotting the waves remaining. A few days of sailing later, even those islets vanished, leaving nothing but boundless blue. Fortunately, we had brought sufficient supplies of fresh water and food, and were in no danger of dying from thirst or starvation.
+
+We sailed for 79 days without sight of land. We were originally planning on turning back at that point, but to our surprise, on the 80th day, in the middle of the ocean, we were attacked. A group of bandits riding on the backs of giant birds blocked our path and asked us for potatoes. If you wish to know just how gargantuan those birds were, I can tell you that each of their feathers was as thick as the Ocean Pillars. With absolutely no hope of resisting, all we could do was fall to our knees and pray to Sebastos to deliver us, to let us live another day, and we swore to never again travel so recklessly, or write baffling believe-it-or-not travelogues. But in a flash, faster than words could describe, warriors riding Blubberbeasts surged up from beneath the sea's surface, each Blubberbeast larger than fifty Sumpter Beasts, their entire bodies draped in armor made of crystals, the scales of dragons, and cabbages, and they tore into the massive birds, biting them until they cried for their mommies and daddies, and soon they fled without a trace.
+
+It was only then that we noticed that the appearance of those knights was completely different from that of us humans. They were more like bipedal vishaps. With those eyes of his, glowing with their strange light, the leader of the knights spent some time sizing us up, before casually speaking with winged words: "Dear guests, are you merchants from Serenum?"
+
+We had not the slightest clue what kind of place "Serenum" was, so we told him the whole story, that we were seafarers from Remuria, and wanted to see what the end of the ocean looked like.
+
+### Vol. 2
+An ancient Remurian scroll you accidentally discovered in the ruins. There is no way to verify the truth of the words within.
+
+Hearing our words, he burst into laughter, and he laughed so hard that even the sailfin on his back shook. As he howled with laughter, he managed to say that there's no such place as "Remuria," merely a fake history invented by the southern barbarians who, not having their own civilization, created a fictional empire that simply didn't exist. We said that no, we were Remurians, and he guffawed even louder, and asked us to provide some kind of reliable historical data or archaeological evidence that could prove Remuria really exists. We simply could not produce the proofs, and he assured us that these sorts of strange fantasies were not illegal in their lands, and so long as we did not eat Sunsettias in public, we would still be honored guests in their Empire of Solaris. He went on, saying that based on our clothing, we probably weren't secret agents of the rebel army, but were likely traveling traders from Hyperborea. Their empire was currently in a state of civil war, and they hoped we could assist them in defeating said rebels.
+
+It turned out that the Solaris Empire has very advanced technology, and some decades ago, a philosopher named Lucilius invented a way for some people to obtain extraordinary abilities far exceeding those of ordinary mortals. But it came at a price. Their appearance would change to be unlike those of ordinary people. Some believed that this practice destroyed the purity of humanity, and those with special powers had but two options: to be slaves, or to be destroyed utterly. And so the two sides quickly came to blows, and it was a fight to the death, with oceans of blood being spilled.
+
+I comforted him on the spot, telling him that in my opinion, this type of thing has been happening since ancient times. I could think of at least twenty plays on the spot, each revolving around this exact theme — this too was a reflection of just how the arts in Remuria were flourishing. Pisculentum's Terentius at once praises humanity as being equal yet powerful creatures, while also describing how only a small number of people innately possess special powers, and has them go off and conquer and destroy all others, no? I recommended they just stop researching technology to alter humanity, and instead focus their efforts on technology to alter Blubberbeasts, as Blubberbeasts are far more likable than humans. He said he would consider my wise suggestion, but that the more pressing matter was exterminating the despicable traitors. So long as we were willing to lend a helping hand, he would give us the most powerful Imperial Blubberbeast mounts to ride, and we would lead thirteen of his legions, each with a million soldiers, for a total of 13 million soldiers, and outflank the enemy to their left. As he had saved us from a rebel attack, we assented to his request.
+
+Dear readers, everything I described above I saw with my own eyes! Not a word of it is false! As for the war that followed, it was even more unbelievable. I remember a blind slave who followed us singing thusly:
+
+"Sing, O musician, sing of the rage of the Blubberbeast which brought countless ills!"
+
+And just like that, the army of Blubberbeasts rolled forward, swallowing everything in its path like all-devouring flames, and the earth trembled and shook beneath their flippers. We arrayed our forces in formation upon the plains, and the leading officer prayed to their god before drawing taut a bowstring and loosing, sending a dog hurtling towards the rebel forces. The sound of the silver bow was unmanning to all who heard. But the rebels were not to be outdone, and they sent forth five million giants armed to the teeth. These giants were enormous, each dozens of times larger than the golems made by Sebastos's own hand, and they were said to be the reinforcements that the rebels had adjured forth from the seafloor. Though these giants each had but one eye — well, such things are quite normal, after all, the giants of which Pacuvius wrote are all like this — they had exceptional eyesight, and at the command of the rebel leader, they began to hurl Bulle Fruit at our troops with astonishing accuracy. These fruits would burst upon impact with the ground, spitting out masses of bubbles. Should you be touched by a bubble, you would float high up into the sky, until you flew straight into the sun. That is why the sun and Bulle Fruit have a similar color.
+
+As for the war's conclusion, respected playwrights throughout history virtually never write of such things — they wish to leave enough space for future stories. Out of respect for their traditions, therefore, I too shall go ahead and skip that part.
+
+### Vol. 3
+An ancient Remurian scroll you accidentally discovered in the ruins. There is no way to verify the truth of the words within.
+
+After those events, we continued sailing onward for another 300 days on a vast, featureless ocean. Finally, we arrived at a tall wall in the middle of the sea, stretching out of sight, high up into the sky. Countless densely packed human figures were suspended from the wall, and though they had neither bodies nor muscles, their forms could clearly be seen. All on this earth who speak lies, or pen falsehoods in their writings, will be hung from this wall to receive judgment after their death. As for who built this wall, or what lies beyond it, I do not know, for everything in this travelogue is completely true, and thus we had no way to get close to the wall. Hence, we promptly began rowing backward with all haste, doing our utmost to flee that place, and I hope to never again get anywhere close to it.
+
+That evening, we arrived in a stretch of calm seas, close to a rather small island. Our freshwater supplies were nearly exhausted, so we made landfall in the hopes of replenishing them. It was then that every member of our party smelled a strange yet rich fragrance, and even the finest perfumes of Capitolium paled in comparison. It turns out that the island was inhabited, and they had even built a prosperous polis — everything in the city was made of gold, and was surrounded by a series of twelve walls, each wall constructed of a different kind of precious gemstone: The first was made of amethyst, the second of purple agate, the third of jadeite, the fourth of rubellite, the fifth of jasper, the sixth of topaz, the seventh of ruby, the eighth of cornelian, the ninth of emerald, the tenth of chrysoprase, the eleventh of sapphire, and the twelfth of jade. A great moat surrounded the city walls, a few hundred meters wide, and the fluid flowing therein was not water, but fresh milk, and that which swam within were pickled fish, already fully cured, ready to eat upon capture.
+
+The residents of the island seemed to all be women, and each and every one was dressed elegantly, their faces comely and youthful. They approached us one after the other, taking the initiative and hugging us by way of welcome. The name of the island is Amoria, and they said it means "love." They eagerly invited us into their homes as guests, and said they'd give us countless treasures as gifts, enough for us to buy all of Machimos. I began to feel a faint sense of unease — for could people who fawn over strangers so exist outside of the books of Ennius? But my companions were all quite familiar with those classic tales, and so found nothing strange at all about this, and followed them back to their homes. I had no choice but to feign delight on one hand, while secretly bringing with me the war booty the Solarians had presented me with: a Bulle Fruit. I followed one of the women back to her home, and once inside, I looked around carefully, and just as I expected, there were human bones all around. I promptly fished out the Bulle Fruit and took aim at her, demanding she tell me just what was going on. But she only laughed uproariously, turning into a pool of water and disappearing in the blink of an eye.
+
+I immediately gathered all my companions, and we fled back to our ship before we had a chance to gather any fresh water. But as we stared, there was no island at all, only the vast ocean behind us.
+
+As for how the story will unfold, pay close attention, for all will be revealed in the next chapter...
+
+## ZH
+
+### 卷一
+在遗迹中意外发现的古雷穆利亚书卷，所述内容的真实性无从稽考。
+
+古往今来，那些可敬的诗人、剧作家和历史学家，总是喜欢写一些荒诞不经的东西，再管它们叫真实经历。分明是一眼就能看穿的弥天大谎，他们却非要讲得天花乱坠，煞有介事地说什么「亲眼所见，字字无虚」，好像一点儿也不怕被后人嘲笑似的。例如，塔拉西乌斯之子克桑图斯就写过他在北方那些蛮族部落的见闻，说他们在群山之间用玻璃和白金筑起了繁荣的城邦，管他们的国王叫「骑士」，还说他们有七十二个军团，每个军团有六万六千六百人，全都带着用最纯净的源水锻造成的武器，比马其莫斯的水晶还要璀璨。其实他这辈子都没离开过卡皮托利姆，别说蛮族，他大概连鳗鱼都没见过，但他的故事读来倒也算有趣。既然如此，我的虚荣心也就被挑起来了，觉得我也该写点什么留给后世。不过，我没有值得一提的经历，也不像那些可敬的人们，敢管胡编乱造出来的东西叫「真实记录」。所以我就老老实实承认，我写的就是彻头彻尾的假话。我想，既然我已经这样承认了，自然也就不必被骂作是骗子了吧。总之，我接下来写的这些事，从来没人听说过，从来没人经历过，完全是我凭空捏造出来的胡言乱语，真实程度不比什么「纯水骑士」更高，你们大可不必相信。
+
+且说我们扬帆起航，一路向北，穿过蛮族的领地，顺风而行。我们的目的很简单﹣﹣就是打算看看大洋的尽头是什么样子。根据昆克蒂利乌斯的说法，高海的每个方向都是不可逾越的瀑布，这个说法很显然是错的：尊敬的尤维纳利斯不也讲过什么「遥远的北方王国」嘛。不过，我们越是向北航行，能见到的陆地就越少。起初还有成片的岛群，到后来就只剩下了一些光秃秃的小岛。又航行了几天，连小岛都见不到了，只有一望无际的海洋。所幸我们带上了足够的淡水和食物，不至于饥渴而死。
+
+我们一连行驶了七十九天，都没有见到陆地。本打算就此返航，不料到第八十天的时候，我们在一片汪洋正中央遭到了袭击。一群骑在巨鸟背上的匪人把我们当头拦住，向我们索要土豆。要问这些鸟儿有多么巨大，它们身上的每一根翎羽都有擎海之柱那么粗。我们完全没有反击的办法，只能跪下来向至尊祈祷，希望至尊保佑我们活下来，发誓再也不到处胡乱旅行，写什么莫名其妙的游记了。说时迟那时快，只见一群骑在膨膨兽背上的战士从海面下冲了出来，每一只膨膨兽都有五十头驮兽那么大，浑身披挂着水晶、龙鳞和卷心菜制成的铠甲，将那些巨鸟撕咬得哭爹喊娘，不一会儿就逃窜得无影无踪了。
+
+这时我们才注意到，那些骑士的样貌和我们这些人类截然不同，更像是直立行走的龙蜥。领头的骑士用他那双闪着异样光芒的眼睛打量了我们一会儿，随后便开口说话，用长了翅膀的言语：「客人，你们是不是来自塞伦努姆的客商？」
+
+我们不知道塞伦努姆是什么地方，就原原本本地告诉他，我们是来自雷穆利亚的航海家，打算看看大洋尽头到底是个什么样子。
+
+### 卷二
+听了我们的话，他大笑起来，笑得连背上的鳍帆都在抖，一边笑一边说，这世上哪有什么「雷穆利亚」，不过是那些南方蛮族杜撰出的伪史罢了。他们没有属于自己的文明史，才虚构出这样一个根本不存在的帝国。我们说我们就是雷穆利亚人，他笑得更厉害了，问我们能不能拿出可信的史料，或者实际的考古证据，来证明雷穆利亚真实存在。我们答不上来，他就让我们放心，说这种古怪的幻想并不违背他们国家的律法，只要我们不在公共场合食用日落果，我们就依然是索拉里斯帝国最尊贵的客人。他又说，看我们的打扮，应该也不是叛军的细作，而是来自亥珀波瑞亚的行商。帝国目前正处于内战，他希望我们能帮助他们，一同击败那些叛军。
+
+原来他们这个叫索拉里斯的帝国技术发达，几十年前，有个叫作卢基里乌斯的哲学家发明了一种方法，能让一部分人获得远远超过凡人的奇特能力，作为代价，他们的外表也会变得和普通人不一样。一些人认为，这样的做法破坏了人类的纯洁性，这些拥有特殊能力的人要么只能当奴隶，要么就得被消灭干净。于是双方便打了起来，打得你死我活，血流漂橹。
+
+我安慰他说，依我看，这种事在世上可谓是古已有之，我当场就能想出至少二十部戏剧，写的都是这同一个主题﹣﹣这也正是我们雷穆利亚艺术高度繁荣的体现。庇斯库兰图姆的泰伦提乌斯还一边赞颂人类都是平等而强大的生灵，一边写只有一部分人拥有与生俱来的特殊能力，让这些人去征服消灭其他人呢。我建议他们干脆不要研究改造人类的技术了，转而研究改造膨膨兽的技术，毕竟膨膨兽要比人类讨喜多了。他说他会考虑我明智的建议，但眼下的当务之急还是要先消灭那些可恶的叛徒。如果我们愿意伸出援手，他就给我们配备最强大的皇家膨膨兽坐骑，让我们统领他手下的十三个军团，每个军团有一百万人，总计一千三百万人，去包抄叛军的侧翼。因为他从那些叛军手中救下了我们，我们就答应了他的请求。
+
+各位，以上这些事情都是我亲眼所见，字字无虚。至于接下来的战争，那就更加难以置信了。我记得有个跟着我们的盲眼奴仆是这样唱的：
+
+「歌颂吧，乐师，歌颂膨膨兽那有害的一怒！」
+
+### 卷三
+在那之后，我们又航行了三百天，在一望无际的汪洋中前进。后来，我们遇到了一面高高的墙，那面墙伫立在大海正中央，一直延伸到天空高处看不见的地方。墙上密密麻麻地挂着数不清的人影，没有躯体，没有肌肉，却能显出自己的形状。凡是在世上说假话，在书里也不写真话的人，死后都会被挂到这面墙上受审罚。至于这墙是谁建的，这墙后面又是什么地方，我也不知道，因为我在这本游记里写的全都是真话，根本没办法靠近这面墙。于是我们就连忙向后划桨，拼命逃开那里，希望再也不要靠近它。
+
+傍晚，我们来到一处风平浪静的海域上，靠近一座不大的岛屿。我们的淡水已经快用尽了，于是我们登上那座岛，打算取些淡水。这时，我们每个人都闻到了一股馥郁的异香，哪怕是卡皮托利姆最好的香膏，也难以与之相较。原来这岛上有人居住，他们甚至还建起了一座繁荣的城邦——这城里的一切都是用黄金制成的，有十二重城墙围绕着它，每一重城墙都是由一种宝石打造的：第一重是紫水晶，第二重是紫玛瑙，第三重是翡翠，第四重是红玉，第五重是水苍玉，第六重是黄玉，第七重是红宝石，第八重是红玛瑙，第九重是绿宝石，第十重是绿玛瑙，第十一重是蓝宝石，第十二重是碧玉。城墙外是一道护城河，大约有几百米宽，几千米深，河中流淌的不是水，而是鲜牛奶，里面游着的也全都是已经腌制好的咸鱼，只要捞出来就能吃。
+
+这里的居民似乎全都是女人，她们的打扮个个优美，面容既标致又年轻。她们纷纷来到我们面前，主动抱住我们，以示欢迎。这个岛屿名叫阿摩里亚，据说是爱的意思。她们热情地招待我们到家中做客，又说要送给我们无数财宝，足以让我们买下整个马其莫斯。我隐隐感到有些不对劲——除了在埃尼乌斯的书里，怎么会有人像这样对陌生人献殷勤呢？但我的同伴们都熟读那些经典戏剧，对此感到见怪不怪，跟随她们去往了家里。我只好一面假意逢迎，一面暗中带上索拉里斯人送给我的战利品：一枚泡泡桔，跟着其中一个人来到了她家中。我仔细观察，果不其然，四下里有许多人类的骨头。我连忙掏出泡泡桔对准她，要她说出事情的底细。那女人大笑了几声，转眼化作一滩水，不见了。
+
+我连忙把伙伴们全召集来，连淡水也没来得及带，一路逃回了船上。这时我们定睛一看，哪里还有什么岛屿，身后只有一片汪洋而已。
+
+至于后事如何，且听下卷分解。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+
+#### Том 3
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

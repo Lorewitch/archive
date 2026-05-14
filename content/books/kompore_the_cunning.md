@@ -1,0 +1,157 @@
+# id: kompore_the_cunning
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/kompore_the_cunning.webp
+# title_ru: Хитрец Компоре
+# title_en: Kompore the Cunning
+# title_zh: 狡诈的康波雷
+# region: Натлан
+# volume_count: 3
+# tags: книги, Натлан
+# status: draft
+
+## RU
+
+### Том 1
+Считается, что этот гобелен был лично соткан мастером Санхаджем Компоре. У него короткое и странное содержание. Большинство считает его вымыслом.
+
+Говорят, этот гобелен своими руками соткал герой Повелителей Ночного Ветра Санхадж Компоре. Рассказанная в нём история кратка и загадочна, старые шаманы племени часто принимают её за шутку - как и многие другие шутки, которые хитроумный герой рассказывал при жизни, эта тоже окрашена темнотой лунной ночи. Одни говорят, что Санхадж выбрал особые нити, чтобы соткать гобелен, другие утверждают, будто Санхадж измельчил в порошок обсидиан и чёрные раковины, чтобы придать гобелену особый таинственный цвет.
+Когда-то давно в племени Повелителей Ночного Ветра жил коварный хитрец по имени Компоре. Компоре не чурался воровства и привык добиваться своего обманом или силой, а потому в племени о нём ходила дурная слава, но у Компоре был честный брат по имени Санхадж.
+В те времена Владыка Перекрёстка ещё бродил путями смертных, даруя людям шести племён благодать сна или смерти, направляя их в подземный мир и отпуская души в чёрную реку. Он был хозяином Ночных земель, «Папой-Знахарем» и «Мамой-Сном» в одном лице. Говорят, что в конце чёрной реки он построил винокурню, где готовилось вино из грибов, и всякий испивший его мог увидеть во сне судьбу любого смертного.
+«Будь у меня такой дар, я уподобился бы прорицателям нашего племени, которые предсказывают судьбу и открывают истины, лежащие в основе всего мира!»
+Глаза хитреца забегали, и он подумал:
+«А какую прибыль принесли бы мне тайные знания и запретные мечты? Что я мог бы выторговать себе в обмен на такие сокровища?»
+И вот, потирая руки, хитрый Компоре принялся воплощать в жизнь свой коварный план.
+
+### Том 2
+Считается, что этот гобелен был лично соткан мастером Санхаджем Компоре. У него короткое и странное содержание. Большинство считает его вымыслом.
+
+Чтобы выведать у Владыки Перекрёстка рецепт чудесного грибного вина, Компоре явился к своему честному брату Санхаджу и сказал:
+«Брат мой, каждый член нашего племени наслышан о твоей доброте. Я знаю, у тебя золотое сердце, ты говоришь только правду и никогда не кривишь душой. Так вот, пообещай, что будешь честен со мной и сохранишь наш план в тайне».
+Не зная о коварном замысле своего брата, Санхадж согласно кивнул.
+«Хорошо. Я открою тебе свой план. Но ты должен помогать мне и не рассказывать о нём ни одной живой душе».
+И Компоре открыл брату свой коварный замысел:
+«Я хочу, чтобы ты отправился к Владыке Перекрестка. Скажи ему, что я неизлечимо болен, а ты ищешь лекарство Папы-Знахаря, которое подарит мне исцеление. Пока вы будете говорить, я проберусь на винокурню и украду грибное вино. С грибным вином наше племя станет ещё мудрее, а люди заживут ещё беззаботнее».
+«Подумай хорошенько, брат мой. Представь, как процветёт наше племя, получив грибное вино Владыки Перекрёстка. И представь, сколько выгод это принесёт нам с тобой».
+Санхадж хотел отказаться, но он поторопился и ответил согласием на первую просьбу брата, и теперь ему ничего не оставалось, как подчиниться воле Компоре.
+Само собой, мы знаем эту историю только со слов Компоре. Почему он решил изобразить себя злодеем, обокравшим родного брата? Так ли всё было на самом деле? Компоре стал героем племени, а потому никто не хочет доискиваться правды.
+
+### Том 3
+Считается, что этот гобелен был лично соткан мастером Санхаджем Компоре. У него короткое и странное содержание. Большинство считает его вымыслом.
+
+Хотя Санхадж согласился на вероломный замысел брата, но он был честным человеком и терзался от того, что ему придётся обмануть Владыку Перекрёстка. И однажды ночью, провалившись в беспокойный кошмар, Санхадж открыл Владыке замысел своего брата.
+Протянув чёрные, как ночь, руки, Мама-Сон заключила честного Санхаджа в объятия и согрела поцелуем его чело. В беззвучной темноте сна она уже простила проступок Санхаджа. А в награду за честность она налила в обсидиановую чашу таинственного грибного вина и вручила чашу Санхаджу.
+Но в этот самый миг Компоре ворвался в палатку спящего брата и набросил ему на шею пеньковую веревку. Он заранее знал, что Санхадж раскроет его замысел Владыке Перекрестка.
+И вот, не дождавшись предостережения от владычицы мира грёз, спящий Санхадж погиб от руки собственного брата. Обсидиановая чаша выскользнула из его рук, запачкав грибным вином его грудь и туго обвитую вокруг шеи верёвку со следами крови.
+Владыка Перекрёстка опечалился гибелью Санхаджа. Разгневавшись на коварного Компоре за столь ужасное злодеяние, он наложил на него заклятие. Несчастный Санхадж воскреснет в нём и откроет ему всю его судьбу. И отныне все, кого он обманул и убил, будут навеки запечатлены в его памяти; и каждую его ложь брат будет повторять ему на ухо тысячу раз. Так Компоре получил дар, испив грибного вина, но запятнал себя несмываемым грехом и проклятием.
+И с тех пор Компоре стал зваться новым именем: Санхадж Компоре. Только много позже, когда Теноч собрал героев для последней битвы с чёрной волной, Санхадж Компоре наконец смог искупить свою вину... Но это уже другая история. Ха-ха, но даже после решающей битвы многие соплеменники видели в кромешной ночной тьме коварную улыбку Санхаджа Компоре... Наверняка эта история - его очередная шутка или мистификация.
+
+## EN
+
+### Vol. 1
+Said to be a tapestry personally woven by Master Sanhaj Kompore, its contents are both short and strange. Generally believed to be a work of pure fiction.
+
+This tapestry is said to have been woven by Sanhaj Kompore, a hero of the Masters of the Night-Wind. Its contents are brief and bizarre, often dismissed as a joke by the elder shamans — and just like the countless jests this cunning hero told throughout his life, this one's colors carry a hint of moonlit darkness. Some say it was due to the threads he used, while others claim he ground obsidian and black-colored mussel shells into powder to achieve this touch of divinity.
+
+Long, long ago, there was a cunning rogue amongst the Masters of the Night-Wind named Kompore. He was skilled in deception and theft, gaining advantage by both cunning and force, and thus was notorious within the tribe, but he had an honest brother named Sanhaj.
+
+In that ancient time, the Lord of the Crossroads still walked among mortals, bestowing the grace of sleep or death upon the six tribes' people, guiding them along the path to the netherworld, and merging their souls into the great black river. He was master of the Night Realm, both "Papa Witch Doctor" and "Mama Dream-Realm." Legends speak of him building a small brewery at the end of the great black river, where he could reveal the fate of any person in dreams by drinking the mushroom wine brewed there.
+
+"If I had this ability, would I not become like the prophets of our tribe, able to predict fate and uncover the truth that lies beneath this world?"
+
+The rogue's eyes roved about, and he thought to himself again,
+
+"And if that were the case, how much profit could secret knowledge and forbidden dreams bring me? What could I use such treasures to negotiate for?"
+
+The cunning Kompore rubbed his palms, and thus began his crafty scheme.
+
+### Vol. 2
+Said to be a tapestry personally woven by Master Sanhaj Kompore, its contents are both short and strange. Generally believed to be a work of pure fiction.
+
+To trick the Lord of the Crossroads out of this miraculous mushroom wine, Kompore brought his honest brother Sanhaj and said to him:
+
+"My brother, your kindness is renowned throughout our tribe. I know you have a pure heart, always speaking honest words and doing earnest deeds. So, I ask you to keep our upcoming plans in strict confidence, with true heart and kinship."
+
+Sanhaj, unaware of his brother's sinister plan, nodded and agreed.
+
+"Alright then. I'll tell you my plan, but you must cooperate with me and not reveal it to anyone."
+
+So, Kompore began to slowly unveil his wicked scheme:
+
+"I want you to visit the Lord of the Crossroads. Claim that I am on the brink of death, and say that you hope to obtain Papa Witch Doctor's medicine to cure my illness. While that is happening, I will infiltrate his hut and steal his mushroom wine. With it, we can grant more wisdom to our tribe and eliminate more of its troubles."
+
+"Think it over, would you, dear brother? Just imagine how much our tribe would gain from obtaining that wine — not to mention how much we'd both benefit!"
+
+The younger brother had wanted to refuse, but having rashly agreed to his brother's first request, he could only consent to Kompore's sinister plot.
+
+Of course, this is merely Kompore's own account. Why did he cast himself as a villain who betrayed his brother, and is this story truly or falsely told? Yet, since he has become a tribal hero, very few dare to investigate further.
+
+### Vol. 3
+Said to be a tapestry personally woven by Master Sanhaj Kompore, its contents are both short and strange. Generally believed to be a work of pure fiction.
+
+Although Sanhaj had agreed to his brother's treacherous plot, his honest heart was filled with anguish and doubt over deceiving the Lord of the Crossroads. Thus, in his troubled dreams, Sanhaj revealed his brother's scheme.
+
+Mama Dream-Realm stretched out her hands as black as night, embracing the honest Sanhaj and kissing his brow. In the dark, silent dream, she had already forgiven Sanhaj's crimes. Indeed, as a reward for his honesty, she poured the mysterious mushroom wine into an obsidian cup and handed it to him.
+
+However, at this moment, Kompore burst into his brother's tent and threw a rough hemp rope around his sleeping brother's neck — long had he known that his brother would reveal his plan to the Lord of the Crossroads.
+
+And so, before the master of dreams could even issue a warning, Sanhaj met his end at the hands of his own brother. The obsidian cup filled with mushroom wine slipped from his grasp, staining his chest and the bloodsoaked hemp rope tightly wound around his neck.
+
+This grave crime enraged the Lord of the Crossroads, who grieved Sanhaj's death. He immediately laid a curse upon the cunning Kompore: his unhappy brother Sanhaj would be resurrected within him, and would prophesize the fullness of his fate. From that moment on, all those he had deceived and murdered would be forever etched in his memory; and every lie he had ever told, his brother would repeat a thousand times over in his ear. Thus did Kompore gain the boon from drinking the mushroom wine, yet stain himself with an indelible sin and curse.
+
+So it was that Kompore gained a new name, "Sanhaj Kompore." Only much, much later, when Tenoch mustered heroes for a final stand against the wild, pitch-black torrent, did he finally find a way to redeem himself... but that is another story. Haha, likewise, since many tribespeople have witnessed Sanhaj Kompore's scheming smile in the pitch-dark night, even after that decisive day of battle... that story must surely be yet another of Sanhaj Kompore's jokes or riddles.
+
+## ZH
+
+### 卷一
+据说是由桑哈杰·康波雷大师亲自编织的挂毯，其内容简短而离奇，通常被认为是从未发生过的虚构故事。
+
+这幅挂毯据说是由烟谜主部族的英雄桑哈杰·康波雷亲自编织的，其内容简短而离奇，往往被部族中年长的萨满斥为玩笑——就像这位狡诈的英雄一生中曾开过的无数玩笑那样，这一个也带着点月夜般的黑暗色彩。有人说这是他使用的丝线使然，也有人说他用黑曜石和黑彩色的贻贝壳磨成粉末，才得以染出这样的神韵。
+很久很久以前，在烟谜主的部族中，有一个生性狡诈的恶棍名为康波雷。康波雷向来热衷于欺诈、偷盗与巧取豪夺，因此在部族中臭名昭著，但他却有一位诚实的弟弟，名为桑哈杰。
+在那个古老的时代里，十字路的主人尚在人间行走，为六部族的凡人降下睡梦或死亡的恩赐，为他们引导前往冥土之国的道路，将魂灵融入黑色的大河。他是夜之国度的主人，既是「巫医爸爸」，也是「梦境妈妈」。传说他在黑色大河的尽头搭建了一座酿酒小屋，喝了他在小屋中酿的蘑菇酒便能从梦境中得知任何人的命运。
+「假如我有了此种能力，岂不就会如烟谜主的先知那样，得以预言命运，得以知晓世界之下的真相？」
+恶棍的眼睛轱辘轱辘地转了一转，又这样想道，
+「若是这样的话，秘密的知识与禁忌的梦想，将会给我带来多大的利益？我能从中讨价还价，得到多少好处？」
+狡诈的康波雷摩挲着手掌，开始了狡猾的计划。
+
+### 卷二
+为了从十字路的主人手中骗到神奇的蘑菇酒，康波雷带来了他诚实的弟弟桑哈杰，对他说道：
+「我的弟弟，你的善意在部族中处处闻名，我知道你心地善良，只说诚实的话，做真诚的事。那么，就请你怀着真心与亲情，保证为我们接下来要做的事情保密。」
+桑哈杰不知哥哥险恶的计划，点头答应了。
+「那么，我就把我的计划告诉你，但请你要一定配合我的行动，不要把它透露给任何人：」
+于是，康波雷将奸计娓娓道来：
+「我想要你去拜访十字路的主人，就说我已病入膏肓，你企望求得『巫医爸爸』的药方治好哥哥的病。这时我便会潜入小屋，趁机偷走他的蘑菇酒。有了它，我们便可以为部族的大家分得更多智慧，祛除更多烦劳。」
+「好好考虑考虑吧，我的好弟弟。假若有了十字路主人的蘑菇酒，会给整个部族带来多少好处？尤其会给我们兄弟俩多少好处？」
+弟弟本想拒绝，却无奈于自己太过鲁莽地答应了哥哥的请求，于是只好同意了康波雷的奸计。
+当然，这只是康波雷的一家之言，至于他为何要将自己写成一个欺骗兄弟的恶棍，此事究竟是真是假？既然他已然成了部族的英雄，也就很少有人敢于去探寻了。
+
+### 卷三
+尽管桑哈杰答应了哥哥的奸计，但身为一个诚实的人，他仍旧为欺骗十字路的主人而感到痛苦焦虑。于是，在辗转的噩梦中，桑哈杰将哥哥的奸计向十字路的主人和盘托出。
+「梦境妈妈」伸出夜一般黑色的双手，将诚实的桑哈杰拥入怀里，亲吻着他的额头。她在无声的黑暗睡梦中已经原谅了桑哈杰的冒犯，相反，作为奖赏，她将神秘的蘑菇酒从坩埚中倾倒在黑曜石杯里，递给了桑哈杰。
+然而，正在此时，康波雷突然闯入弟弟的帐篷，将粗糙的草绳套在熟睡的弟弟脖颈上——原来他早就料到弟弟将会把自己的计划告知十字路的主人。
+就这样，未及等到梦境的主人发出警告，桑哈杰便在睡榻上丧命于亲兄之手了。而盛着蘑菇酒的黑曜石酒杯也从手中跌落，浸染了桑哈杰的胸口与紧缠在脖颈上渗着鲜血的草绳。
+十字路的主人为这等大罪所震怒，也为桑哈杰的死而悲痛。于是当即向狡诈的康波雷降下诅咒：不幸的弟弟桑哈杰将在他的身上复活，为他预言自己的一切命运。但从此之后，他所欺骗过的、谋害过的人，都将被牢牢地烙印在记忆中；而他所说过的每一句谎言，都会由弟弟之口在他耳边重复千遍。就这样，康波雷既获得了饮下蘑菇酒而得的好处，也让自己染上了不可洗脱的罪孽与诅咒。
+就这样，康波雷得到了新的名字，「桑哈杰·康波雷」。直到很久很久以后，当特诺切召集英雄，同漆黑的狂潮做最后一搏时，他才得以寻到救赎的良方……但那就是另一个故事了。哈哈，同样的，既然在决战的那日之后，仍有许多族人曾在漆黑的夜中目睹过桑哈杰·康波雷狡诈的微笑……那个故事，也一定是桑哈杰·康波雷的又一个玩笑或谜语罢了。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+
+#### Том 3
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

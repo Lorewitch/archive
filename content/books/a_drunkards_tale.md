@@ -1,0 +1,485 @@
+# id: a_drunkards_tale
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/a_drunkards_tale.webp
+# title_ru: История пьяницы
+# title_en: A Drunkard's Tale
+# title_zh: 醉客轶事
+# region: Мондштадт
+# volume_count: 4
+# tags: книги, Мондштадт
+# status: draft
+
+## RU
+
+### Том 1
+Популярная застольная байка Мондштадта. В ней рассказывается о забредшем в полный волков лес пьянице и голодном волке.
+
+В стране вина из одуванчиков всюду звучат хвастливые слова и сплетни.
+Через шумных пьянчуг эти преувеличенные слухи разлетаются ещё дальше. Они похожи на пьяный вздор и на неверную походку этот вздор несущего: такие же нескладные, но занимательные.
+
+Говорят, когда-то давным-давно в Мондштадте жил один известный пьяница. Он, как и охотники Спрингвейла в сезон охоты, пил немало, но с каждым глотком пьянел всё сильнее. Он не мог оторваться от барной стойки, пока не спускал все деньги, что у него были.
+
+Каждую ночь он пьянствовал вдоволь. Однажды, когда он неверной походкой возвращался домой, он по ошибке забрёл в волчий лес.
+
+Нынешний Вольфендом - это территория Короля Волков. Даже самые рациональные чужеземцы содрогаются от страха, попав под сени мрачного холодного леса. Старые охотники говорят, что Волк Севера собрал здесь стаи волчьих душ, чтобы они заступали дорогу всякому чужаку, вступающему на эти земли.
+Но в ту далёкую эпоху глава волчьей стаи ещё не пришёл в те леса вслед за северным ветром, ещё не принёс волчьим кланам порядок и спокойствие. Те леса были ареной для битв волков, и в тенях деревьев, о которых не ведал ещё человеческий род, они скрывали свои кровавые забавы.
+
+Вот так известный пьяница из Мондштадта вторгся в волчий лес.
+
+Пьяница ковылял среди мрачных лесных теней, не обращая внимания ни на цепляющийся за ноги мышиный горошек, ни на раздражающе хлещущие ветки.
+Довольно быстро за ним стала следить пара сверкающих изумрудно-зелёных глаз.
+То был одинокий волк. Он неслышно следовал за пьяницей, попутно шепча про себя:
+- Странно! Как странно!
+
+За минувшие сто лет ещё ни один человек не осмелился войти в волчий лес, будь то вооружённый рыцарь или беглец в потрёпанных одеждах. Даже аристократы и те не желали отправлять сюда своих рабов, боясь разгневать дикие волчьи стаи и навлечь на свои земли ненужные проблемы.
+
+- Но этот человечишка неожиданно смел, раз сам, в одиночку, пришёл сюда! Как странно!
+Шептал волк, следуя за пьяницей след в след и стойко терпя его удушающий винный перегар.
+
+### Том 2
+Популярная застольная байка Мондштадта. Этот том повествует о встрече пьяницы с голодным волком.
+
+Всем известно, что волчье обоняние чувствительнее и острее человеческого в тысячу раз.
+От насыщенного запаха вина, исходившего от преследуемой жертвы, одинокий волк почти задыхался. Зелёные глаза его слезились.
+
+- Фу...
+Родившийся на равнине и выросший в лесах одинокий волк никогда не был знаком с человеческой культурой. Хотя однажды он, проходя мимо Сидрового озера, случайно уловил слабый запах вина, он не совсем понял, зачем людям нужны распространяющие такой запах вещества.
+
+- Наверное, этот человечишка одной породы с грызунами! Он давно почуял меня и сейчас спасается бегством, выделяя ядовитые газы!
+Подумав так и терпеливо вынося запах вина, волк немного ускорился, чтобы наблюдать за пьяницей из окружавших его теней.
+
+Волки - звери осторожные и осмотрительные, но пьяные люди - нет.
+Вино дурманит разум и вызывает головокружение, а иногда обостряет человеческие чувства сверх меры, позволяя уловить даже легкое движение ветерка.
+Пьяница сам не знал, как он обнаружил следовавшего за ним волка.
+Возможно, дело было в том, что одурманенный перегаром волк потерял ориентацию в пространстве и больше не мог шагать, не наступая на шуршащие сосновые иглы, и тем самым привлек внимание жертвы.
+
+- Ты кто такой? Тоже туалет ищешь, а?
+Спросил пьяница, потирая осоловелые глаза.
+- А кто ты, человеческое существо? Почему от тебя так разит?!
+Угрожающе ответил волк, поводя носом и щёлкая зубами.
+
+Услышав хриплый голос волка, пьяница не только не испугался, но и оживился:
+- Дружище! Хотя я не знаю, как я на тебя напоролся... Но у нас, в Мондштадте, есть традиция: нельзя выпивать в унынии! Поэтому, пока луна светит, я тебе лучше расскажу одну историю.
+Сказал он и пьяно икнул.
+
+Волк сначала собирался проигнорировать пьяные бредни и просто перегрызть пьянице глотку.
+Но, когда волк учуял резкий винный перегар, у него пропал аппетит, поэтому он неохотно ответил:
+- Эх, если подумать, то я не так уж и голоден... Так и быть, послушаю твой вздор.
+
+Пьяница потянулся, потревожив несколько крохотных одуванчиков.
+Потом он начал свой рассказ.
+
+### Том 3
+Популярная застольная байка Мондштадта. В этом томе - нескончаемая история, которую пьяница рассказывал волку.
+
+Говорят, что далеко в диких пустошах скитался волк одиночка.
+
+Некогда он был волчьим королём и вёл своё племя на поиски дома, на охоту и в битву... Такая жизнь подарила ему много шрамов.
+
+Он вёл своё племя через равнины, через руины древних городов, через земли чудовищ и фей.
+Те земли были суровы. Глава стаи старел, и вслед за этим распадалась его стая. Прошло много лет, и от стаи остался только старый одинокий волк.
+
+Легендарные пустоши - это земля, лишенная чудес. Здесь есть лишь призрачные руины, оставленные древними Архонтами, да пустые дворцы давно ушедших фей. Когда старый волк проходил мимо сереющего среди пустошей дворца, его внимание привлекли звуки музыки.
+
+- Я никогда не слышал столь приятного пения птиц или насекомых. Я даже забыл о мучительной пустоте в душе...
+И тогда волк вошёл в серый тронный зал, переступил разросшуюся на полу траву, прошёл мимо разбитого саркофага. Портрет того, кто в нём лежал, сохранился до сих пор.
+
+Пройдя в покои, одинокий волк встретил девушку, которая играла музыку.
+Её кожа была сера, как пепел, а глаза опущены. Тонкие пальцы ласкали струны хрупкой лютни, исполняя давно забытую траурную мелодию.
+
+Волк сел перед бледной девушкой и вмиг забыл о голоде, жажде и одиночестве. Он внимательно слушал беззвучную песню девушки:
+
+«В глубоком прошлом, стрекот цикад осенними ночами был напевом изгнанников, был самой древней песней человечества».
+«Они утратили родину, где с ними жили Архонты - вместо неё остались лишь песни и воспоминания».
+«Последний певец и первый пророк - он сыграл финальный аккорд, восседая в небесных залах».
+
+Маленькие феи, резвившиеся в лесу, тоже были привлечены её пением, и одна за другой прилетели, чтобы выразить своё почтение.
+
+- Что это за песня?
+Недоумённо спросил волк. Он понял каждое слово, каждую букву, каждую ноту; однако язык девушки был ему незнаком. Он отличался от языков других живых существ.
+
+- Это песня фей.
+Тихо ответила бледная девушка,
+- В далёком прошлом это была песня, которую мы создали для диких людей, но сейчас мы поём её, чтобы вздыхать о нашей судьбе.
+
+После этого волк стал неуклюже петь под мелодию девушки.
+Голос волка звучал холодно и рвано: он был наполнен скорбью.
+
+- Что ты поёшь?
+Спросила бледная девушка.
+
+- Это наша песня.
+Ответил волк.
+
+- Какая уродливая.
+Безжалостно заметила девушка, тронув струны лютни.
+- Но ты можешь петь вместе со мной.
+
+Пение волка и девушки эхом разносилось по залам старого дворца. Говорят, что нынешние искатели приключений, проходя в тех местах, по-прежнему могут услышать особенно гармоничное музыкальное эхо.
+
+- И всё?
+Волк разочарованно облизнул губы,
+- Давай лучше я расскажу тебе историю.
+
+Волк прочистил горло и начал говорить.
+
+### Том 4
+Популярная застольная байка Мондштадта. Заключительный том, в котором серый поведал пьянице историю волка и вина.
+
+Говорят, первое вино в Мондштадте появилось в эпоху лютых северных ветров.
+
+Во времена соперничества королей льда и снега уязвимые перед ледяными штормами люди гнали вино из ягод, чтобы избежать обморожения и найти храбрость для взгляда в лицо снежной буре. В те времена снег покрывал все земли Мондштадта и одуванчики ещё не росли.
+
+Говорят, человек, который первым изобрел вино в Мондштадте, был ужасно небрежен.
+
+В племени, окружённом льдами да снегами и преодолевавшем великие трудности, чтобы охотиться и пахать землю, он добывал пищу.
+Человека редко можно встретить среди ледяных равнин, но устойчивые к холоду маленькие зверьки рано или поздно могут прокопать подземный ход и тайком съесть хранимый под землей провиант. Поэтому племя постоянно нуждалось в людях, которые патрулировали бы пещеры, где хранилась еда, и затыкали бы дыры, проделанные грызунами, да ловили мелких подлецов, крадущих снедь, чтобы сохранить еду для людей племени.
+
+В те времена охранять тёмные пещеры нужно было особенно тщательно, иначе хранящаяся в них еда могла сгнить. Но иногда маленькие скрытные существа тоже могли сыграть с людьми злую шутку.
+
+Воспользовавшись невнимательностью небрежного и безрассудного человека, фея ветра приняла облик лисы и спряталась в груде ягод. Так она заставила ягоды забродить.
+В животе у того человека было пусто, и потому он первым делом вкусил ягод. Терпкий вкус забродивших плодов опьянил его. И сок, который был отжат из этих ягод через звериные шкуры, был назван вином.
+
+Этот небрежный человек, открывший вино среди ледяных пустошей, стал первым пьяницей. Говорят, он также стал первым человеком, заблудившимся в стране грёз из-за пьянства.
+
+В его первом хмельном сне он превратился в одинокого волка. В далёком будущем или в далёком прошлом он бился насмерть со своими сородичами, добывая среди ветров и снега пищу для рода человеческого. Там же он встретил первую фею.
+
+Люди и волки - существа, сбивающиеся в стаи и не выносящие одиночества. Но появление нового вина сделало их сны взаимосвязанными.
+
+Но их отношение ко снам резко изменилось.
+
+Люди, прежде видевшие только снега и бури, устремились в пустоши вслед за одиноким волком. Но волк в глубине души боялся человеческих желаний. Он не понимал, зачем люди идут на поводу у опасных хмельных иллюзий и ищут в них надежду.
+Но больше того волк боялся, что в человеческих снах не сможет понять, кто он: одинокий волк или человек с волчьей душой.
+
+Поэтому волк поклялся не прикасаться к человеческому яду и отринуть соблазны вина.
+Так как волки - это не народ ветра, их родина - это не страна вина и песен. Поэтому там, среди пустошей и лесов, куда ушли от людей волки, редко можно услышать запах вина.
+
+- То, что вы называете вином, пришло от волков.
+Самодовольно сказал волк пьянице.
+Он обернулся и обнаружил, что пьяница забылся безмятежным сном на мягкой подстилке из сосновых игл.
+Одинокий волк обречённо фыркнул, отодвинул пьяницу в сторону и ушёл, погружённый в свои мысли.
+
+## EN
+
+### Vol. 1
+One of many popular tales told of Mondstadt's drinkers. This one is the story of a drunkard who stumbled into wolven territory and the lone, starving wolf he encountered there.
+
+In the land where the dandelion wine flows like a river, tall tales have a way of spreading far and wide, following closely in the wake of the whiff of wine.
+Far-fetched fables are always sure to spread when boasted between burps by inebriated bar patrons. For these stories share something in common with the slurred speech and sea-sickness-inducing swaying that so often accompanies them, which is that despite being clumsy and awkward, they are also highly entertaining.
+
+Legend has it that there was once a famous drunkard in Mondstadt. It was said that he could hold his alcohol as well as any hunter from Springvale in the off season. And yet, still he would drink till he was drunk. Every time that he drank, he would not budge so much as an inch back from the bar at the tavern until not a single Mora was left in his coin pouch, and not a single drop of wine remained in his glass.
+
+One night, this drunkard was doing his best to stumble home after a particularly satisfying session of especially heavy drinking. A combination of his spinning head, blurred vision, and zigzagging stride served to navigate him towards a forest populated by wolves.
+
+Today, of course, Wolvendom is presided over by the Great Wolf King of the North, and the ominous atmosphere that emanates from inside the forest is sufficient to deter most sober-headed visitors from approaching the area. According to the elderly hunters, the Wolf King gathered the spirits of the wolves there to prevent outsiders from trespassing into territory where they are not welcome.
+But this was an age long before the Wolf King and the north wind had descended upon that forest, bringing order and peace to the wolven race. At that time, the forest was a perilous place where wild wolves fought for survival. A fierce blood feud between wolves played out deep inside the dense foliage, concealed from view and unbeknownst to any human.
+
+Least of all to the drunkard, who had by this point managed to transport his drunken self quite some distance inside the forest.
+
+He stumbled forward in the darkness with that dogged determination that only drunkards possess, deterred neither by the tree roots that would trip him up every few steps, nor by the stray branches that would slyly slap him in the face from time to time.
+Before long, a pair of green eyes began darting through the forest, their gaze fixed on him, tracking his every move.
+Those eyes belonged to a lone wolf, who silently pursued the drunkard from behind, all the while musing to itself:
+"This is the most peculiar sight I have ever seen in all my life."
+
+No one had dared set foot in the wolves' forest in hundreds of years, be they a knight clad top to toe in shining steel armor or a desperate fugitive dressed in rags. Even the callous nobles refused to exile their slaves there, for fear of inciting the wrath of the wild wolves and bringing unwanted trouble to their own territory.
+
+"And yet, this odd fellow dares to stroll in here all by himself. How very strange indeed!"
+The lone wolf pondered this strange phenomenon as it followed the drunken intruder through the forest, doing its best to ignore the stench of alcohol that was wafting its way.
+
+### Vol. 2
+One of many Mondstadt tales told of popular drinkers. This story is the one of the time a lone, starving wolf met a drunken Mondstadt man.
+
+It is a well-known fact that wolves have a far keener sense of smell than humans. Another way of putting this is that their noses are much more sensitive.
+Little wonder, then, that the stench of alcohol emanating from the wolf's now historically intoxicated prey was quite stifling, and caused tears to well up in its eyes.
+
+"Awoo..." the wolf thought to itself.
+Having been born in the wilderness and grown up in the forest, the wolf had never had any contact with human civilization before this night, and though it had once caught the faint scent of wine wafting across Cider Lake, it did not know the scent's origin, less still understand the significance of that substance to humankind.
+
+"Perhaps this peculiar fellow is a relative of the skunk, for it seems that he discovered my presence quite some time ago, and now means to poison me in an effort to secure his escape!"
+The wolf pondered this possibility as it braced itself against the onslaught of alcoholic fumes, picked up its pace, and discreetly maneuvered its way into the drunkard's shadow — the perfect vantage point from which to inspect its prey.
+
+The wolf is a creature of caution and calculation. The drunkard, meanwhile, is a different sort of creature entirely.
+And yet, though wine tends to dizzy the mind and dull the senses, it sometimes affords its consumers the curious capacity to detect the subtlest of changes in the direction of the wind.
+Perhaps this could explain how a bumbling drunkard, fumbling through the forest, was suddenly able to discover the presence of a wolf that had been stealthily following him the entire time.
+Or perhaps the alcoholic fumes given off by the drunkard were sufficiently potent to diminish the wolf's mental acuity, to the point that the wolf became less mindful of the terrain beneath its paws, the resulting sound of snapping twigs thus alerting the prey to the predator's presence.
+
+"Who's that? Don't s'pose you know which way the toilet is, by any chance...?"
+The bumbling drunkard rubbed his bleary eyes.
+"Foul-smelling human," snarled the wolf, "Who are you, and whence proceeds your stench?"
+The wolf flared its nostrils, bore its fangs, and growled.
+
+Not only was the drunkard unafraid when he heard the wolf's gruffly voiced threat, but he even became quite animated.
+"My friend!" the drunkard replied, "Clearly I've offended you, somehow... sorry 'bout that... but anyway, Mondstadt tradition says you're not allowed to be drunk and bored at the same time... So! Here we are, out in the woods on this glorious moonlit night... How abouts I tell you a story?"
+His proposal was promptly punctuated by an almighty belch.
+
+Before this point, the wolf had had no intention of listening to the belching buffoon's drunken ramblings. In fact, it was poised to deliver a fatal blow to its prey by lunging for the neck, sinking its fangs in, and tearing his throat clean out.
+But the drunkard's belch blasted a further bout of fumes in the wolf's direction, assailing its nostrils with such force that it ruined the wolf's appetite entirely. Grudgingly, the wolf agreed.
+"Grr... Perhaps I'm not so hungry after all... Let's see what nonsense tale you have to tell."
+
+The drunkard stretched out his arms and let out a loud yawn, disturbing a few dandelions in the process.
+And with that, the drunkard began to tell his tale.
+
+### Vol. 3
+One of the popular, many tales told by the drinkers of Mondstadt. This drunkard is the one who told the lone wolf of an ancient story.
+
+Legend tells of a lone wolf that roamed a barren wasteland far, far away.
+
+Once, he had been king of his pack, leading them in the hunt, in battle, and in the search for a home... Now, the sole remaining legacy of those days were the scars that covered his body.
+
+He had led the way as they ran across open plains, navigated through abandoned ruins, and passed through the domains of monsters and the Seelie.
+The wasteland was a cruel place. The wolf-king grew older with each passing day, and the other wolves gradually dispersed. As time went by, the wolf pack's history faded into distant memory, until finally only the aged wolf-king remained, the sole survivor of its pack.
+
+This wasteland is said to be a land beyond the dominion of deities, inhabited only by the grotesque ghostly remains of fallen gods, where the former palaces of the Seelie now stand empty. So when the solitary old wolf passed by a gray palace and heard the sound of music coming from within, it caught its attention.
+
+"Never before have I heard a sound so pleasing to the ears, whether it be a song of bird or insect, that it stays the pangs of hunger in my starved stomach as this tune does."
+Intrigued, the wolf stepped inside the gray hall, trod across the overgrown weeds, and passed by a broken sarcophagus, on which a portrait of the deceased ruler was still clearly visible.
+
+Finally, he came to an inner room, where he saw a fair maiden strumming at her instrument.
+Her skin was ashen white and her head was bowed down, her slender fingers gently stroking the fragile strings of the lute as she played a long-forgotten and mournful melody.
+
+The wolf sat down in front of the pale young maiden and forgot all about the pain of hunger, thirst, and loneliness for a short while, as it listened in silence to her song.
+
+"The chirping of insects on a long-gone autumn night is the chorus of exiles, singing mankind's most ancient song as they live out their plight..."
+"Stripped of all that the body once held close and the soul once held dear, songs and memories are all that now remain of yesteryear."
+"The last singers, the first Seelie, they played their final tune in the hall of angels."
+
+The tiny Seelie playing in the forest were also drawn to the young maiden's tune, and flocked to her to pay their respects.
+
+"What is this song that you play?"
+The wolf asked, puzzled, for it understood every line, every word, every syllable she spoke — and yet, hers was a language that it had never heard before, quite unlike that of any other living being.
+
+"A song of the Seelie,"
+Replied the pale young maiden in a soft voice.
+"Long, long ago, we wrote this song for the human savages. Yet now, we sing it to mourn our own fate."
+
+The wolf began to sing along, albeit clumsily, to the maiden's tune.
+The wolf's voice was husky and broken, filled with a lifetime of sorrow.
+
+"What are you singing?"
+The maiden asked of the wolf.
+
+"This is our song,"
+Responded the wolf.
+
+"It sounds ghastly."
+The maiden made no attempt to soften her criticism as she continued to caress the lute strings.
+"But, you are welcome to sing along with me all the same."
+
+And so, a shared chorus sung by fair young maiden and weary old wolf filled the chambers of the long-abandoned palace. It is said that to this day, adventurers who pass by this place still hear a strange yet harmonious melody sounding from within.
+
+"And then? ...The story ends here?"
+The wolf licked its lips, somewhat ruefully, and then said:
+"I suppose I shall tell you a story now."
+
+And with that, the wolf cleared its throat and began to tell its tale.
+
+### Vol. 4
+One of many drinking tales popularly told in Mondstadt. This wolf told a tale of wine and wolf to a drunken man of Mondstadt.
+
+Legend has it that the first wine of Mondstadt was brewed in the age when the north wind howled.
+
+In the age when the Kings of Ice and Frost fought for dominion, Mondstadt's forbears brewed rudimentary wine from wild fruits, even as they shivered in the biting cold. They did so to ease the pain of their frostbitten fingers and to give them the courage to face the harsh and unforgiving ice. For at that time, the land of Mondstadt was engulfed by ice and snow, and the dandelions had not yet reared their heads.
+
+It is said that the first person in Mondstadt to discover the craft of wine brewing was a grossly negligent guard.
+
+In a tribe beset by blizzards on all sides, it was the unenviable job of the hardy hunter-gatherers to stock the storage pits with food, and it was the guard's task to guard against intruders.
+The sight of a human intruder was a rare one indeed in that harsh environment — but there were other creatures who could better withstand the cold, and they would burrow underground to reach the food stocks. The rules of the tribe were that one person should inspect the storage pits at all times, filling in any mouse holes discovered — or better still, catching them red-handed in the act of pilfering — to keep the tribe's food supplies at plentiful levels.
+
+At that time, the damp, dark caves needed constant care and attention to prevent the food they held from going bad and rotting. On top of this, the mischievous little creatures that hid away out of sight would sometimes play pranks on the guards.
+
+One day, a wily wind spirit noticed that the grossly negligent guard was once again being grossly negligent. So, the spirit took the form of a fox and crept into a pile of wild apples. There, it caused yeast to grow, ripening the apples and causing them to ferment.
+The grossly negligent guard was ravenous when he returned, and elected to partake of one of the apples. The mellow taste of fermented fruit delighted both his body and his mind. Immediately, he took animal hide and squeezed the juice from the apples, creating wine.
+
+The grossly negligent guard who first invented brewing in the age of ice and snow also became Mondstadt's first drunkard. It is said that he was the first person ever to fall into a drunken dream.
+
+In his first drunken dream, he drunkenly entered the dreams of a lone wolf. Somewhere in the long-lost past or possibly the far-flung future, he fought fang and claw with rival wolf packs, battled with humans for food in the midst of a raging snowstorm, and met the first Seelie.
+
+The tribe-dwelling human and the pack-dwelling wolf could not bear to live in solitude. This newly brewed wine served to bring man and wolf together in their dreams.
+
+But their attitudes towards these dreams were poles apart.
+
+The human who knew only the wind and snow yearned for the wasteland where the lone wolf runs freely, but the lone wolf was fearful of the human's desire. It could not understand why this human was captivated by dangerous illusions and sought hope from within them.
+What concerned the wolf even more was that when in a drunken human dream, it could no longer distinguish whether it was a wolf or a human with a wolven spirit.
+
+So the wolf swore an oath never to touch the humans' poison again, to resist the allure of wine.
+Wolves are not the children of the wind, and the land of wine and song is not their home. So the wolves left the humans' domain and settled far off in the wilderness and deep in the mountain forests, places where the scent of wine could not reach them.
+
+"What you humans call wine, we wolves call the abyss,"
+The wolf haughtily concluded.
+But as the wolf turned towards the drunkard to say this line, it discovered that the drunkard was now lying fast asleep on a bed of pine branches.
+
+The wolf was most displeased, and violently expelled a puff of air from its nostrils before leaving the still-pungent pile of sleeping human to his business, and going on its way.
+
+## ZH
+
+### 卷一
+蒙德传扬的酒客故事之一，讲述了误入狼林的醉汉与饥饿的孤狼之间的故事。
+在蒲公英酒的国度，大话与流言随醉气远扬。
+在胡闹的醉鬼中间，那些夸张的传说总能流传到更远的地方，就像醺醉时的胡言，或七歪八斜的步态那般，虽笨拙却也有趣。
+
+传说在过去的某个年代，蒙德曾有一位著名醉汉。像赶上休猎期的清泉镇猎人那样，他酒量不小，但每饮辄醉。不把口袋中的酒钱花光，绝不会离开酒馆的吧台一步。
+
+某夜，醉汉方畅饮完毕。正踉跄归家之际，头晕眼花的他误入了狼的林地。
+
+今日的奔狼领是王狼的领土，有理智的外来客大多会被这片森林肃杀的气氛吓阻。据老猎人们说，那是因为北风的王狼聚集着群狼的魂灵，防止外来者闯入不属于他们的土地。
+但在那个遥远的时代，群狼的领主尚未随北风降临那片森林，为狼族带来秩序与安宁。那片森林曾是野狼自由争斗的场地，在人类所未知的树影间隐匿着它们血腥的游戏。
+
+就这样，蒙德城的知名醉汉闯进了狼林。
+
+黑暗的林影之中，醉汉不顾绊脚的草藤与恼人的树枝，蹒跚而行。
+很快，一双绿光闪烁的眼睛盯上了他。
+那是一条孤狼，它静静地跟随在醉汉身后，一边心里暗暗嘀咕着：
+「怪哉，怪哉！」
+
+数百年来，从未有人敢进入狼林，无论是全副武装的骑士，还是衣装褴褛的逃犯。即使恣肆的贵族也不愿将奴隶流放在这片森林，生怕此种冒犯会激怒野蛮的狼群，为自己的领地带来不必要的麻烦。
+
+「但这家伙竟然敢独自一人跑到这里来，实是怪哉！」
+孤狼嘀咕着，一边忍受着醉汉熏天的酒气，一边在他身后紧紧跟随。
+
+### 卷二
+传扬蒙德的酒客故事之一，讲述了饥饿的孤狼与醉客的相遇。
+众所周知，狼的嗅觉比人类更加敏锐，也更敏感千万倍。
+在追踪猎物的同时，浓重的酒气也把孤狼熏得几乎窒息，绿色的双眼很快便眼泪汪汪了。
+
+「哼…」
+生于原野，长于森林的孤狼从未接触过人类的文明，尽管曾隔着果酒湖偶然嗅到淡淡的酒香，但却并不能完全理解这气味所代表的东西对于人类有何意义。
+
+「这家伙或许和鼬鼠是同类，他早就发现了我，现在正放毒屁逃命呢！」
+孤狼这样想着，忍着熏天的酒气，稍稍加快脚步，在醉汉身边的阴影中观察着他。
+
+狼是谨慎周全的野兽，但喝醉的人不是。
+酒令人昏沉晕眩，有时却又会让人格外敏锐地察觉到风向的细微变化。
+也不知怎么的，醉汉发现了一直跟随左右的孤狼。
+或许是因为孤狼被醉汉的酒气熏得晕头转向，再也顾不得脚下松针断裂的声响，才会失态被猎物发现。
+
+「你是谁，你也在这里找厕所吗？」
+醉汉揉揉惺忪的眼睛，问道。
+「人类，你又是谁？身上如此臭烘烘的！」
+狼耸耸鼻子，呲着牙，威胁般地答道。
+
+听到孤狼沙哑的嗓音，醉汉非但没有畏惧，反而来了兴趣：
+「朋友，虽然我不知怎么惹到了你…不过我们蒙德人的老传统是喝酒最忌无聊，趁着今夜的月光，不如我给你讲个故事好了。」
+说罢，他打了个醉嗝。
+
+孤狼本想不顾这些醉话，一口咬断醉汉的喉咙。
+但闻到刺鼻的酒气，它便难以提起胃口，于是不情愿地答应了下来。
+「哼，转念一想，我也不是那么饿得慌…不如听你废话一番。」
+
+醉汉伸个懒腰，惊动了几棵小小的蒲公英。
+然后，他开始了今夜的故事。
+
+### 卷三
+传扬蒙德的醉汉故事之一，本卷是醉汉为孤狼讲述的久远故事。
+相传在遥远的荒原上，有一条独狼游荡。
+
+它曾是狼王，曾经率领自己的部族寻觅家园，捕猎与战斗…那时的生涯在它的身上增添了数不尽的伤疤。
+
+它带领自己的种落越过原野，途经古老的宫阙废墟，穿越魔怪与仙灵的领地。
+荒原是残酷的，随着狼王日渐老去，群落随之渐渐流散。年长日久，整个种群只剩下了一条衰老的孤狼。
+
+传说中的荒原是没有神的土地，这里只有古老的魔神留下的鬼魂残迹，与往日仙灵空空如也的宫廷。当孤独的老狼经过一座灰色宫殿时，一阵乐声吸引了它。
+
+「我从未听过如此悦耳的鸟鸣或虫叫，甚至忘记了腹内空空之苦。」
+于是，狼步入灰色的厅堂，踏过遍生的杂草，又途经破碎的石棺，其上旧主的肖像依然清晰可见。
+
+走进一方内室，孤狼遇到了奏乐的少女。
+她的肌肤如同灰烬一般苍白，眼眸低垂，纤细的手指抚弄着脆弱的鲁特琴弦，正在弹奏一首早被遗忘的哀歌曲调。
+
+狼坐在苍白的少女面前，一时间忘记了饥渴与孤独的滋味，静静倾听着少女无声的歌唱：
+
+「往日秋夜的蝉鸣，是放逐者的吟唱，是人类最早的歌。
+「他们失去了一切形与神寄宿的家乡，只剩下歌与回忆。
+「最后的歌者，最初的仙灵，弹奏着终曲，坐在天使的厅堂。」
+
+森林中游戏的小小仙灵也被她的歌声吸引，纷纷向她致上敬意。
+
+「那是什么歌？」
+狼不解发问，它听得懂每一句话、每一个字，甚至每一个音符；但她的语言是它从未听过的，与任何生灵迥异。
+
+「是仙灵的歌。」
+苍白的少女轻轻答道，
+「在久远的曾经，这是我们为蛮荒的人类作的歌，但如今却用来叹息我们自身的命运。」
+
+于是，狼跟随少女的旋律，笨拙地应和起来。
+狼的声音苍凉破碎，充满了悲哀。
+
+「你在唱什么？」
+苍白的少女问道。
+
+「这是我们的歌。」
+狼回答。
+
+「真难听。」
+撩拨着鲁特琴弦，少女不留情面地评价道，
+「不过，你可以和我一起唱。」
+
+就这样，狼与少女的合唱回响在旧日宫阙的厅堂之中。据说今日的冒险家们在经过此地时，依然能够听见特异而和谐的音律回荡。
+
+「就这样？」
+孤狼有些失望地舔舔嘴唇，
+「不如我为你讲个故事。」
+
+于是，孤狼清清嗓子，开始了自己的故事——
+
+### 卷四
+传扬蒙德的醉客故事之一，本卷是孤狼为醉汉讲述的，关于酒与狼的故事。
+传说蒙德最初的酒，是在北风呼啸的年代酿成的。
+
+在冰霜列王相争的年代，冰暴中飘摇的先民将野果粗酿成酒，为了躲避冻疮的痛苦，也为了增添直面冰霜的勇气。在那个时代，冰雪依然覆盖蒙德大地，蒲公英也尚未探出头来。
+
+据说在蒙德，第一个发明酒的人是一位冒失鬼。
+
+在冰雪围困的部落中，冒失鬼为艰难耕猎的部族看管粮食。
+毕竟，尽管冰天雪地之中人迹罕见，但还总有些耐寒的小动物会打通隧道，从地下冒出来偷吃地窖中的粮食。因此，部族总是需要有人巡查存储粮食的洞穴、堵上鼠类打出的地洞，或把盗窃粮食的鼠辈抓个现行，为族人增加餐食。
+
+在那个时代，阴湿的洞穴总需要格外细心看护，否则堆积其中的食粮便有可能变质腐朽。但也有些时候，潜藏的小小生灵会给人们施加一点小小的恶作剧。
+
+趁着冒失鬼又一次玩忽职守，风的精灵化成狐狸模样，潜入成堆的野果之中，令酵母孳生，将之催熟发酵。
+而冒失鬼腹中空空，前来取食野果，正被发酵果子的醇厚口感迷醉。于是用兽皮将之榨出浆来，所以为酒。
+
+雪原之中发明酿酒的冒失鬼也是最初的醉鬼。传说他是第一个因醉酒而迷失在梦中的人。
+
+在他最初的醉梦中，他化成了一头孤狼。在很久以后、或者很久以前的某个时代，他与其他群落的同类拼死撕咬、与风雪中的人类竞夺食物，又与最初的仙灵相遇。
+
+群居的人与群居的狼，都是无法忍受孤独的生物。而新酿出的酒，令他们的梦互相连通。
+
+但他们对待梦的态度却截然不同。
+
+只见过风雪的人向往孤狼驰骋的荒原，而孤狼却对于人类的欲望心生恐惧。它无法理解为何人类会迷醉在危险的幻觉里，从中寻找希望。
+而更令狼忌惮的是，在人类的梦中，他再也无法辨清自己究竟是那头孤狼，还是一个怀有狼灵的凡人。
+
+于是，孤狼誓言远离人类的毒物，隔绝酒的诱惑。
+因为狼并不是风的子民，它们的家乡并不属于酒和牧歌。因此，狼离开了人类的领地，转而在荒野与山林中的酒香罕至之地安家。
+
+「这就是你们称之为酒的东西，与狼的渊源。」
+孤狼得意地对醉汉说道。
+一转头，却发现醉汉在柔软的松针床上酣睡已久。
+
+孤狼无奈地喷出鼻息，将这坨酒气熏天的家伙丢在一旁，自顾自离开了。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+
+#### Том 2
+
+
+#### Том 3
+
+
+#### Том 4
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

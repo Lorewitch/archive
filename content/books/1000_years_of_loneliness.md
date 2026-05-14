@@ -1,0 +1,82 @@
+# id: 1000_years_of_loneliness
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/1000_years_of_loneliness.webp
+# title_ru: Тысяча лет одиночества
+# title_en: 1000 Years of Loneliness
+# title_zh: 千年孤独
+# region: Мондштадт
+# volume_count: 1
+# tags: книги, Мондштадт
+# status: draft
+
+## RU
+
+### Том 1
+Начало трагического путешествия охотника из Спрингвейла. Где же постигло его первое несчастье? Каков смысл 1000-летнего путешествия в одиночестве? В первой части «Тысячи лет одиночества» вам откроются покрытые туманом мечты Готсона.
+
+Через много лет, когда Готсон угодит в капкан, который сам поставил, он вспомнит тот вечер, когда отец взял его с собой в город на Луди Гарпастум.
+В жизни Готсона было мало счастья, но он никогда не мог вспомнить, с чего начались его беды. Его детство прошло в Спрингвейле, под защитой родниковой феи. Конечно, местные охотники жили тихой спокойной жизнью.
+Тем летом, когда Готсону было семь лет, отец взял его с собой в Мондштадт посмотреть на Луди Гарпастум. То был первый раз, когда Готсон попал в город. От обилия ароматов сладостей и жареного мяса, от красочных плакатов и фонарей, от клоунов, показывавших представления с дрессированными кабанами и фокусников у него голова шла кругом.
+Среди ослепительных детских воспоминаний Готсон смутно видел фигуру своего отца, вступающего в праздничную толпу, которая текла сквозь ворота с надписью «Соревнование "Расти гора"», видел, как они оказываются всё дальше друг от друга. Но внимание Готсона было приковано к сияющей родниковой фее.
+Возможно, будь он постарше, он бы понял, что та фея всего лишь актёр, которому платят двадцать моры в день за выступления, но детское сознание всегда наполнено мечтами и фантазиями.
+Истории родниковой феи, рассказанные нежным голосом, усыпили его, унесли в далёкую и бесконечную страну снов, где он бродил в одиночестве среди волшебных грёз. В своём сне юного искателя приключений он увидел радужный фруктовый джем, потоком вырывающийся изо рта древней рельефной скульптуры. Готсон хотел рассмотреть её поближе, когда громкий шум вырвал его из сновидения.
+«Бежим!» - перед Готсоном возникло мясистое лицо его отца, перекошенное от страха и измазанное джемом и мясной подливой.
+За отцовским плечом Готсон увидел огромную башню жареного мяса, казавшуюся красной в вечерних сумерках. Под крики толпы эта башня стала постепенно крениться...
+
+Отец Готсона в давке опрокинул какую-то грузную женщину, от чего потерял равновесие сам и рухнул на сына всей массой. Следом, под вопли и визг людей мясная башня обрушилась на толпу...
+Рыцари Ордо Фавониус потратили три дня на то, чтобы убрать с площади жареное мясо, овощи и другие продукты да вынести насквозь промокших в мясном бульоне людей. Они также были вынуждены объявить, что все следующие празднования Луди Гарпастум будут перенесены за стены города.
+Вот так за одну лишь ночь семья Готсона лишилась двух охотников и получила двух больных. Единственным утешением для них стала золотая медаль победителя соревнований - правда, пришла она на два дня позже, чем следовало.
+
+## EN
+
+### Vol. 1
+The beginning of the Springvale Hunter's tragic fantasy journey. Where did misfortune first befall him? What marks the start and finish of the 1000-year journey of loneliness? Let this first volume of 1000 Years of Loneliness be your guide through the fantastical fog that is the life of Gothson.
+
+Many years later, when Gothson's ankle would become trapped in the same unlucky beast trap he had laid, he must have recalled the afternoon when his father had taken him into the city to take part in Ludi Harpastum.
+Gothson's whole life was, without a doubt, unfortunate. But he could never quite recall when his misfortunes had begun. He spent his childhood in Springvale, under the protection of the spring fairy. Indeed, all the hunters lived peaceful and carefree lives.
+When Gothson was seven summers old, his father took him to Mondstadt to watch the circus at Ludi Harpastum. This was the first time Gothson had entered the city in his life. He was held spellbound by the aromas of sweets and roasted meats, the brilliant lights and colored paper, the clowns who trained wild boars, and the magicians and their tricks.
+In his dazzling childhood memories, Gothson dimly saw his father walking into the reveling crowds, passing through an archway marked with the words "Pile 'Em Up Contest," and slowly moving further away from him. But his attention was drawn to the shining fairy of the spring.
+Perhaps he came to understand in his later years that the spirit at the festival was no more than an actor paid 20 Mora a day, but in his young mind, that sight was always one full of fantastical imagination.
+Gothson was lulled to sleep by the spring fairy's stories, and far abroad did he wander and adventure in his boundless dreams. In an adventurer's dream, he saw rainbow jam pour forth from the mouth of an ancient relief. Gothson was about to step up and partake of it, when his dream was shattered by the sounds of a fracas.
+"Run!" His father's panicked, pudgy face, smeared all over with fruit juice and meat sauce, dominated his vision.
+Over his shoulder, Gothson could see a towering stack of roasted meat under a glowing red light, tottering and trembling as it bent his way amid the horrified cries of the crowd.
+
+In his flight, Gothson's father knocked a fat lady over, and threw his own hip. At once he fell, his full weight collapsing upon his son. Then, the leaning tower of roasted meat collapsed to echoing screams...
+The Knights of Favonius took three days to finally clear up the roast meat, vegetables, food items, and other odds and ends that had been scattered all around the square — not to mention carry off those who had gotten a little too out of their gourds. From then on, they were forced to declare all future Ludi Harpastums would have to be held outside the city.
+Thus did Gothson's house lose two hunters and gain two sick people in the space of one night. What did they get for it? A gold-plated champion's medal — two days late, to boot.
+
+## ZH
+
+### 卷一
+清泉镇猎人奇幻悲剧之旅的开端，究竟何处是不幸的开始？千年孤独之旅的起点与终点为何？《千年孤独》第一部，为你揭开戈德森一生的梦幻迷雾！
+
+许多年后，当戈德森被自己布下的倒霉捕兽夹夹住脚踝，他一定会想起父亲带他进城参加羽球节庆典的那个下午。
+戈德森的一生无疑是不幸的，但他从未记起自己的不幸从何开始。他的童年在清泉镇度过，泉水精灵的看护下，这里的猎人们过着平静无忧的生活。
+戈德森七岁那年夏天，父亲带他进蒙德城看羽球节的马戏表演。这是戈德森平生第一次进城，糖果和烤肉的香气、闪烁的彩色纸片与灯光、驯野猪的小丑与变戏法的魔术师令他目眩神迷。
+在光彩夺目的童年记忆中，戈德森依稀望见父亲走入庆典人群，穿过排列着大字「堆高高大赛」的木架拱门，与他渐行渐远。但他的注意力却被闪亮的泉水精灵吸引。
+或许等他再长大几岁就会明白，庆典上的精灵不过是以二十摩拉的日薪雇来的演员，但幼年的意识总是充斥着幻梦与想象。
+戈德森在泉水精灵温柔的故事中入睡，在千年无穷的循环梦境中孤身一人流浪探索。在一个冒险家的梦中，他看到古老浮雕的口中涌流出鲜美的虹色果浆。戈德森正欲上前端详，梦境却被一阵喧哗击碎。
+「快跑！」父亲惊恐的胖脸沾满了果汁与肉酱，占据了他的视野。
+越过父亲的肩膀，戈德森看到一座烤肉巨塔耸立在红色的暮光里，在观众的惊呼声中正渐渐向这边倾斜——
+
+戈德森的父亲在夺路而逃时撞倒了一位胖太太，自己也闪了腰，腿一软便将全身体重压在了儿子身上。接着，倾倒的烤肉又和着人们的尖叫砸了下来…
+骑士团花了三天时间才完全清理干净遍布广场的烤肉、生菜和各种花里胡哨的食材，抬走那些被肉汁浸泡入味的观众，并且不得不宣布以后的羽球节庆典都在城外举行。
+就这样，戈德森家里一夜之间少了两个猎人，却多了两个病人。而他们得到的唯一补偿，是迟了两天才寄来的冠军镀金奖牌。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

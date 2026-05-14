@@ -1,0 +1,274 @@
+# id: a_brief_history_of_the_pale_starborn
+# category: books
+# subtype: book_series
+# icon: assets/icons/books/a_brief_history_of_the_pale_starborn.webp
+# title_ru: Краткая история Рождённых Бледной звездой
+# title_en: A Brief History of the Pale Starborn
+# title_zh: 苍星妖灵史略
+# region: Нод-Край
+# volume_count: 1
+# tags: книги, Снежная
+# status: draft
+
+## RU
+
+### Том 1
+...
+В третий год четыреста двадцать восьмой эры, то есть спустя семьдесят пять лет после того, как Император Мономах Снежный построил столицу Китеж [127] на мёрзлой земле, Император отправил послов в земли вил, дабы спросить их: «Кому вы платите дань?» Те ответили: «Мы платим дань царю Мстиславу [128]». Тогда послы Императора сказали: «Не платите ему дань, ибо дань, которую он требует, не милосердна [129]». И вилы перестали платить дань.
+
+Четвертый год Четыреста двадцать восьмой эры.
+
+Пятый год четыреста двадцать восьмой эры.
+
+В шестой год четыреста двадцать восьмой эры царь Мстислав перед своими вассалами, соплеменниками и союзниками заявил, что двор Бледной звезды нарушил заключённый с ним мирный договор, и потребовал от Императора выплатить Союзу Вокодлаков дань за десять лет из расчёта шестьсот амбаров зерна и тридцать амбаров золота в год, а ещё рабов, чтобы перенести всё золото и зерно в стан волкодлаков. Назначенная им дань была в тридцать раз больше дани, которую платили ему вилы. Император отверг ультиматум, и стороны начали подготовку к войне [130]. Император сказал: «Жертвовать собой ради защиты родины - почётно, наши соратники - клинок и милосердие. Наши противники говорят о мире, ибо хотят развязать войну. Если мы позорно уступим им (волкодлакам), наших детей будет ждать ещё более жестокая война. Так давайте сразимся за жизнь и либо вкусим медовое вино победы, либо погибнем со славой».
+
+В седьмой год четыреста двадцать восьмой эры царь Мстислав выступил войной против Китежа во главе огромного войска, которое состояло из клана самого Мстислава, людей Нимрода [131], подданных Далеграда [132] и Чернареки [133], а также многочисленных вассальных родов. Враждующие армии сходились трижды: у предгорий Китежа, на ледяном озере и на равнине. Император убил царя Мстислава и многих князей, что следовали за ним: только великий князь Серивик [136] избежал гибели, а великие князья Скольдрут [137] и Водяной [138] погибли, пронзённые императорским копьём [139]. Из милосердия и сострадания Император разыскал тела великих князей и отправил их для погребения в земли их родов. Император сказал: «Они не были царями и не были рождены от священной крови [140]. Им никогда не суждено было править. А я - наследник Бледной звезды и защитник всех альвов». Остальные роды альвов пришли на поклон к Императору, и он получил власть править ими, и с тех пор стал называть себя Белым царём.
+
+[127] Китеж - первый город в Снежной. Был построен по обычаю предков альвов и оставался центром власти над заснеженными землями с четвёртого года четыреста семнадцатой эры, то есть с года основания города, и до того года, когда его величество Император в своей безграничной милости и великодушии простил людей и принял их в своё царство, перенеся столицу в Снежноград.
+
+[128] Мстислав, записанный в «Волховской летописи» под именем «Кровопийца». Великий властитель волкодлаков, мудрец-кровопийца, глава Мстиславского союза. По словам подчинённых ему волкодлаков, царь Мстислав обладал могучим телосложением и даже на поле боя выделялся, словно горный хребет на равнине. Поэтому древние летописцы из альвов также называли Мстислава «Горынище», что означало «сын горы».
+
+[129] В «Семантике языка альвов» говорится, что термин «милосердный» в современных контекстах можно понимать как «полезный, милый, вызывающий расположение». Следует отметить, что значения этих слов в указанную эпоху были весьма близки, и если перевести слова имперских послов на современный нам язык, получится примерно следующая фраза: «Его требование дани нежелательно [для вас] (или не полезно)». Именно по этой причине некоторые учёные интерпретируют слова имперских послов как завуалированную угрозу. Об этом, а также о детальном значении слова «милосердный» см. «Семантику языка альвов».
+
+[130] Даже с точки зрения потомков, обвинения государства Мстиславо, основанного мудрецами из волкодлаков, выдвинутые против двора Бледной звезды выглядели абсурдно и необоснованно.
+Однако эти обвинения появились не на пустом месте. Вернее сказать, истинной причиной, по которой вождь волкодлаков Мстислав, давший своё имя государству, намеревался спровоцировать войну, был страх перед возвышением двора Бледной звезды после последней войны.
+Под руководством Императора Мономаха альянс с центром в Китежграде за последнее столетие обрёл совершенно новый облик. Он стремительно развивался как в экономическом, так и в политическом отношении. Для короля Мстислава было недопустимо позволить императору Мономаху получить преимущество в этой борьбе.
+Так началась война, которая определила окончательный облик этого континента, покрытого серебряными снегами.
+
+[131] Нимрод - клан волкодлаков, обликом напоминающих быков.
+
+[132] Далоград - клан водяных.
+
+[133] Чернарека - клан волкодлаков, обликом напоминающих волков.
+
+[134] В основном военная челядь.
+
+[135] В ходе этой кампании Мстислав лично командовал тремя крупными сражениями против Императора. Согласно легендам, в последней битве он в отчаянии попытался обратиться к силам мира теней, чтобы замедлить наступление двора Бледной звезды. Хотя это не смогло переломить ход войны, но всё же оказало некоторое воздействие на последующие решения Императора.
+Подробные записи о сражениях можно найти в «Истории Снежного похода».
+Примечательно, что фланговый корпус Шпекина, получивший приказ от короля Мстислава остановить объединение сил Императора, в тот день странным образом был введён в заблуждение ледяным туманом. Неверно определив маршрут императорских войск, Шпекин упустил момент и не смог помешать объединению неприятельских армий, что в итоге привело к поражению войск Мстислава на основном фронте.
+Это событие было зафиксировано многими летописцами, но причина внезапной перемены погоды до сих пор остается неизвестной.
+Царь Мстислав в конце концов был насмерть повержен ударом императорского копья в голову. Говорят, на медвежьем черепе величиной с колесницу, который и поныне хранится в сокровищнице Заполярного дворца, всё ещё можно увидеть следы того копья.
+
+[136] Серивик - «Серый Волк» из «Волховской летописи».
+Правитель Чернареки, хитрый волк, который, как говорили, с самого начала войны поддерживал тайные связи с министром Порфирьевым, ведавшим казной двора Бледной звезды.
+После гибели короля Мстислава он стал единственным герцогом из альвов, чьё имя сразу после войны без всяких проволочек появилось в списке министров двора Бледной звезды.
+Именно поэтому некоторые учёные полагают, что неудача, которую в ключевой момент битвы потерпел корпус Шпекина, находившийся под его командованием, не была случайностью. Однако эту гипотезу нельзя считать достаточно обоснованной.
+После войны был удостоен награды от Императора Мономаха, к тому времени уже известного под именем Белого царя, и посвящён в рыцари возложением царского меча на плечо.
+
+[137] Скольдрут - «Лесной Бык» из «Волховской летописи».
+Великий князь Нимрода, вассал короля Мстислава.
+Во время второй кампании вызвался возглавить элитный авангардный отряд, обойти армию двора Бледной звезды с тыла и нанести внезапный удар, вынудив её отступить туда, где будет устроена засада, в то время как основные силы окружат зону засады и начнут наступление.
+Однако об этом плане узнал один из альвов, проникший в армию короля Мстислава: альв Филиппов, наиболее преданный его величеству Императору и искуснейший мастер перевоплощения.
+Император скорректировал свою стратегию, и внезапная атака великого князя Скольдрута обернулась тем, что он сам оказался в окружении войск двора Бледной звезды. Армия Императора окружила его силы и непрерывно уничтожала вражеские подкрепления, что привело к сокрушительному поражению царя Мстислава во второй кампании.
+Великий князь Сургулет погиб от удара копья Императора, пронзившего ему грудь.
+
+[138] Водяной - «Безземельный царь» из «Волховской летописи».
+Правитель Далограда, праотец всех водорождённых Ледяного озера.
+Непревзойдённый воин, при этом грубиян, каких свет не видывал. В совершенстве владел техникой внезапной атаки из-подо льда.
+Ближе к концу второй кампании герцог Альвис, правитель домовых, хитростью выманил силы Водяного за пределы Ледяного озера.
+Водяной погиб от удара копья Императора, пронзившего ему грудь.
+
+[139] Копьё Императора: те, кто не был на поле боя, порой ставят под сомнение некоторые фрагменты в военных записях, в том числе свидетельства о том, как Император пронзал своим копьём вражеских военачальников во время противостояния двух армий.
+Большинство скептиков обычно указывают на масштабы армий и позиции полководцев в боевых порядках для пояснения, считая, что во время общего сражения практически невозможна ситуация непосредственного поединка между полководцами.
+Необходимо пояснить: подвиг Императора, пронзавшего копьём вражеских полководцев, не был результатом прямого столкновения между ними.
+Копьё служило Императору стрелой, пущенной из лука, натянутого с немыслимой для обывателя силой, и стрела эта достигала цели, пролетев через всё поле боя.
+
+[140] Священная кровь - значение неясно. Император Мономах называл себя владыкой всех альвов, и, предположительно, он должен происходить из той же родословной, что и другие альвы. Похоже, слова императора здесь служат лишь для подтверждения собственной легитимности.
+
+...
+Первый год семьсот девяносто девятой эры. В апреле Анастасия Фёдоровна была коронована Царицей всея Снежной. Многие князья альвов не явились в Снежноград на поклон. Поскольку Император Мономах умер, клан Далоград разорвал все связи со Снежноградом.
+
+Второй год семьсот девяносто девятой эры. Воспользовавшись смертью Императора Мономаха, зимой люди из порта Беловодье объявили автономию и подняли восстание против альвских князей. Великий князь Древогорья послал против людей войска, но не преуспел.
+
+Третий год семьсот девяносто девятой эры. Царица Анастасия направила войска против армии сепаратистов, попутно захватив земли кланов Древогорья, Волхован и Чернареки. Обвинив их в попустительстве восстанию, она лишила княжеских титулов правителей этих областей, посадив на их места ненаследственных чиновников. В отличие от Императора Мономаха, она не стала собирать Дружину, а создала войско, известное как Фатуи, чтобы захватить земли князей-альвов. Великий князь Древогорья осудил Царицу за предательство и повел свою армию в бой против Фатуи, но погиб. Десятого марта Царица направила посланцев в порт Беловодье с требованием выдать зачинщиков мятежа и обещанием помиловать всех остальных. Армия сепаратистов согласилась на условия Царицы, и порт Беловодье не был разрушен. Двадцать третьего марта она вновь направила посланцев к тем князьям-альвам, которые до сих пор не прибыли в Снежноград, чтобы выразить покорность, требуя от них отказаться от всей власти и обещая сохранить за ними почётные дворянские титулы. Многие князья умерли, не успев ответить на требования Царицы, а все остальные согласились с её условиями. Так Царица Анастасия завладела всей властью на Севере.
+
+Четвёртый год семьсот девяносто девятой эры. Царица приказала Фатуи построить неподалёку от Снежнограда новую крепость под названием Глупов, что означает «город дураков».
+
+Пятый год семьсот девяносто девятой эры.
+
+Шестой год семьсот девяносто девятой эры. Царица учредила снежноградское вече для решения административных вопросов, возникших в связи с отсутствием великих князей, и назначила человека по имени Иоанна Ивановна первой главой вече.
+
+На седьмом году семьсот девяносто девятой эры был обнародован «Указ о реформировании порядка в Империи». Многие знатные альвы, глубоко проникнувшись милостью Царицы, добровольно отказались от своих титулов и покинули Снежную.
+...
+
+## EN
+
+### Vol. 1
+A book on fae history. Based on certain details within, it's believed to have been written by fae elders.
+
+...
+
+In the third year of the 428th Cycle, that is, the 76th year after Emperor Monomakh Snezhnyi raised the imperial capital [127] upon the frozen earth, the Emperor dispatched envoys unto the fiefs of the Vila, and said unto them: "To whom do you offer tribute?" They answered, "Unto King Miscislav [128]." And the imperial emissaries said unto them: "Do so no longer, for they demand unlovely [129] tribute." And the Vila did cease their tithings.
+
+The fourth year of the 428th Cycle.
+
+The fifth year of the 428th Cycle.
+
+In the sixth year of the 428th Cycle, King Miscislav spoke to his people, his kin, and his confederates, accusing the Pale Star court of breaking the standing peace agreement. He demanded that the Emperor pay tribute for ten years — the grain of six hundred granaries and gold to fill thirty storehouses, and sufficient slaves to transport such bounty. This was thirty times the amount that had been demanded of the Vila. The Emperor rejected this ultimatum, and both sides prepared for war [130] thereafter. The Emperor said, "To sacrifice ourselves for the homeland is honorable. Let our comrades in this be our swords and our love. Our enemies proclaim peace, for they wish to stir up war. Should we shamefully give in to them (meaning the Volkodlak), our sons and daughters shall face war greater still. Thus, let us fight bravely for our survival. Let us taste the honeyed wine of victory, or let us make of ourselves a glorious oblation!"
+
+In the seventh year of the 428th Cycle, King Miscislav launched an assault upon Kitezh at the head of a great host: The Miscislavli clans marched with him, as did the people of Nyholmgarthir [131], Dalegrad [132], Cirnareka [133], and their numerous servants [134]. Three times the armies clashed at Kitezh, in the foothills, at the frozen lake, and on the plains; the Emperor slew King Miscislav [135] and many princes who followed him. Grand Duke Seriviiki [136] was fortunate to escape with his life, but both Grand Dukes Skoldyryt [137] and Vodyanoy [138] were pierced by the Emperor's spear [139] and slain. In his mercy and love the Emperor sought their bodies out and had them returned to their clans for burial. The Emperor said thus: "They were not kings, nor born of sacred blood [140]. Never were they meant for rulership. Yet, heir to the Pale Star, and protector of all fae am I." Thus did the remaining clans of the fae seek an audience with him, and thus did he gain the authority to govern them. From that day forth, he named himself the Belyi Tsar.
+
+[127] Kitezh was the first city in all of Snezhnaya. This imperial capital was built after the custom of the fae ancestors, remaining the center of power over the frozen lands from the fourth year of the 417th Cycle — that is, the year of its founding — until His Majesty the Emperor, in his boundless mercy and grace, pardoned humanity and gave them membership in his realm, moving his seat to Snezhnograd.
+
+[128] Miscislav, known in The Volkhov Chronicles as the Blood-Devourer. The great ruler of all Volkodlak, the wise blood-drinker, the master of the Miscislavli alliance. According to the Volkodlak under his command, King Miscislav was a hulking figure, standing out even upon great battlefields like a mighty mountain. As such, he was also known by fae chroniclers as "Gorynishche," or "Son of the Mountain."
+
+[129] The term "lovely," as pointed out in the "Theory of Fae Language," can also be translated in our modern context as "beneficial, lovable, or endearing." It should be evident that these words meant rather similar things in those days. The meaning of the Emperor's envoys' words, therefore, should be understood to mean: "Their demand for tributes [from you] is undesirable (or perhaps 'unbeneficial') to you." Some scholars have as such interpreted the envoys' words as a veiled threat. For more relevant information, as well as the precise semantic scope of this term, please refer to the discussion found within the "Theory of Fae Language."
+
+[130] Even to the eye of later generations, Miscislavli, the realm established by the wise amongst the Volkodlak, was entirely preposterous in its accusations against the Pale Star's royal court.
+
+Yet the accusations were not wholly unreasoned. Or rather, King Miscislav, king of the Volkodlak, whose kingdom bore his name, sought to provoke war for a truer purpose. That is, his fear of the Pale Star court's rise since the previous conflict.
+
+Under Emperor Monomakh, the alliance centered around Kitezhgrad developed an entirely new character over the course of the century. It rapidly advanced both in economy and governmental structure. To allow Emperor Monomakh to gain the upper hand in this tug of war was anathema to King Miscislav.
+
+Thus began the war that would ultimately shape the destiny of this continent, shrouded in silver snow.
+
+[131] The Nyholmgarthir were Volkodlak of bovine aspect.
+
+[132] The Dalegrad were a clan of water imps.
+
+[133] The Cirnareka were Volkodlak with wolf-like appearances.
+
+[134] Primarily military retainers.
+
+[135] King Miscislav took personal command in these three large-scale battles against the Emperor. Legend has it that, driven by despair in that final battle, he sought to use the power of the Shadow Realm to delay the advance of the Pale Star court's forces. Though this measure failed to turn the tide, it did have an impact on the Emperor's future decisions.
+
+Please refer to "A History of the Snezhnyi Expedition" for detailed records of said three battles.
+
+It is worth noting that out on the flank, the Schpekin Legion had received orders from King Miscislav to pursue and prevent imperial forces from uniting. Yet, they were mysteriously misled by the icy fog that day. Misjudging their route of advance, they missed their opportunity to strike and could not prevent the imperial forces from linking up. This ultimately caused the defeat of Miscislav's forces in a head-on clash.
+
+This incident has been recorded by a great many historians, but the cause of the sudden shift in the weather remains unknown.
+
+King Miscislav was eventually slain when the Emperor's spear pierced through his head. It is said that the bear-shaped skull, large as a chariot, now housed in the Zapolyarny Palace Treasury, still bears the marks left by that spear.
+
+[136] Seriviiki, the "Gray Wolf," so The Volkhov Chronicles record.
+
+Ruler of Cirnareka. A cunning wolf, known for his agility, said to have engaged in clandestine dealings early in the war with Porfiry, the minister then in charge of the Pale Star's finances.
+
+Following the fall of King Miscislav's rule, he was the sole fae Grand Duke to slip immediately and effortlessly into the ranks of the ministers in the Pale Star's royal court.
+
+As such, some scholars believe that the failure of the Schpekin Legion under his command to pursue battle at a critical moment was no mere accident, though this hypothesis cannot be considered supported by sufficient evidence.
+
+After the war, he was honored by Emperor Monomakh, then already known as the Belyi Tsar, with the ceremonial tap of the long sword on his shoulder.
+
+[137] Skoldyryt, known as the Deepwood Bull in The Volkhov Chronicles.
+
+Grand Duke of Nyholmgarthir, under Miscislav's command.
+
+During the second campaign, he proposed leading an elite vanguard to circle around to the rear of the Pale Star court's forces. He planned to launch a surprise attack and force them into an ambush zone, while the main army would encircle said zone and strike.
+
+However, intelligence regarding this strategy was seized by a fae who had infiltrated King Miscislav's army — Filipov, loyal to His Majesty the Emperor and most skilled in transformation techniques.
+
+The Emperor adjusted his plans accordingly. Grand Duke Skoldyryt's surprise attack ironically led him to become deeply encircled by the Pale Star's royal army. The Pale Star forces entrapped his, all the while destroying any arriving relief columns, causing King Miscislav's forces to suffer a catastrophic defeat in the second battle.
+
+The Grand Duke was then slain in this battle when His Majesty the Emperor's spear pierced his chest.
+
+[138] Vodyanoy, given the appellation "The Lackland" by The Volkhov Chronicles.
+
+Ruler of Dalegrad, Forebear of All Waterborn in the Frozen Lake.
+
+A warrior of unparalleled valor, yet a brute like no other, skilled in launching surprise attacks from beneath the ice.
+
+Towards the end of the second campaign, the Grand Duke of the Domovoy, Alvis, lured his legions beyond the Frozen Lake through cunning strategy.
+
+Killed when the Emperor's spear pierced his chest.
+
+[139] The emperor's spear — Those unfamiliar with the battlefield often question many descriptions in the battle accounts, including the records of him wielding it to slay the enemy commanders as the two armies fought it out.
+
+Most skeptics typically argue that, given the size of the armies and the commanders' positions within their formations, it would have been almost impossible for the commanders to engage in direct combat amidst the chaotic melee.
+
+The following must be clarified: The Emperor's feat of piercing the enemy commanders with his spear did not occur as the result of a direct engagement.
+
+Rather, the spear was used as an arrow, launched with force unimaginable by common knowledge, piercing through the battlefield.
+
+[140] A sacred bloodline, the meaning of which is unknown. Emperor Monomakh laid claim to the title "lord of all fae," and as such, he should have been of the same blood as the other fairies. It would seem that he merely used phrase as a means to establish legitimacy.
+
+...
+
+The first year of the 799th Cycle. In the fourth month of this year, Anastasya Feodorovna was crowned Tsaritsa of all Snezhnaya. Many of the fae princes did not come unto Snezhnograd to seek an audience with her. The Dalegrad clan broke ties with Snezhnograd, for Emperor Monomakh had passed away.
+
+In the second year of the 799th Cycle, the humans of Port Belovodye, taking advantage of Emperor Monomakh's demise, declared self-governance in the winter, rebelling against the fae princes. Grand Duke Drevogorye launched an assault against them, but failed to secure victory.
+
+In the third year of the 799th Cycle, Tsaritsa Anastasya deployed troops to attack the forces of the independent government, occupying the territory of the Drevogorye, Volkhovan, and Cirnareka clans along the way. Charging them with negligence and condoning rebellion, their princely titles as rulers of these territories were revoked, their positions taken over by non-hereditary officials. Unlike Emperor Monomakh, she did not muster the Druzhna, but rather established a force known as the Fatui. It was they who conquered the lands of the fae princes. Grand Duke Drevogorye accused the Tsaritsa herself of treason, and met the Fatui with his own forces, and there he perished. On the tenth day of the third month, the Tsaritsa dispatched envoys to Port Belovodye. They calmed the separatist forces and requested that they hand over the instigators of the rebellion, promising amnesty to all others. The request was accepted, and thus did the port escape being leveled. On the twenty-third day of that same month, she then sent emissaries to all the fae princes who had not yet come to seek an audience with her. She demanded they hand over all their authority, promising that they would retain their honorary titles as aristocracy. Many would pass on before they could make their replies, and those who remained acceded. Thus did Tsaritsa Anastasya take control of the north.
+
+In the fourth year of the 799th Cycle, the Tsaritsa bade the Fatui build a new fortress near Snezhnograd. Its name would be Glupov, meaning "the city of fools."
+
+The fifth year of the 799th Cycle.
+
+In the sixth year of the 799th Cycle, the Tsaritsa established the Snezhnograd Veche to handle the administrative issues caused by the absence of the various princes. The human, Ioanna Ivanovna, was appointed its first chairperson.
+
+In the seventh year of the 799th Cycle, the Imperial Order Reformation Edict was published. A great many princely fae, deeply grateful for the Tsaritsa's mercy and virtue, voluntarily forsook their noble titles and departed Snezhnaya.
+
+...
+
+## ZH
+
+### 卷一
+……
+第四百二十八纪的第三年，即莫诺马赫·雪奈茨尼伊皇帝在冻土上修筑起帝都基捷[127]的第七十六年，皇帝派使者去风仙的领地，问他们说：「你们向谁缴纳贡物？」他们回答说：「我们向穆斯季斯莱沃王[128]缴纳贡物」。皇帝的使者就对他们说：「你们别给他们纳贡，因为他们索要的贡物是不仁爱[129]的。」于是风仙就不再纳贡。
+第四百二十八纪的第四年。
+第四百二十八纪的第五年。
+第四百二十八纪的第六年，穆斯季斯莱沃王向部属、同族与盟友谴责苍星的王廷破坏了先前议定的和平协议，要求皇帝向兽怪联盟缴纳十年贡物，每年缴纳六百谷仓的粮食、三十谷仓的黄金，与足以搬动这些粮食和黄金的奴隶，以维护和平。这是风仙向他们缴纳贡物的三十倍。皇帝拒绝了他们的最后通牒，双方都在随后做好了战争的准备[130]。皇帝说：「为保卫家园而牺牲是光荣的，我们的战友是刀剑与仁爱。我们的敌人述说和平，是因为他们想要挑起战争。如果我们可耻地向他们（指兽怪）让步，我们的儿子和女儿就会遭受更大的战争。我们要奋勇地为我们的生存而战斗，不是品尝胜利的蜜酒，就是光荣地牺牲。」
+第四百二十八纪的第七年，穆斯季斯莱沃王发兵攻打基捷，率领一支庞大的军队：穆斯季斯莱沃洛氏族、尼约默罗德氏族[131]、达洛格莱德氏族[132]、切纳雷卡氏族[133]，以及数目众多的仆从氏族[134]。他们的军队在基捷山麓、冰湖与平原总共交战三次，皇帝杀死了穆斯季斯莱沃王[135]，以及跟随他的诸多王公：除瑟里维克大公[136]得以幸免于难，苏古基列特大公[137]与沃佳瑙大公[138]都在这个时候被皇帝的长枪[139]贯穿，死了。出于慈悲与仁爱，皇帝寻回了他们的尸体，把他们送回各自的氏族领地安葬。皇帝说：「他们不是王，不是诞生自神圣的血脉[140]，不是应当为王的，而我是苍星的继承者，是全体妖灵的庇护主。」余下的妖灵氏族都来觐见皇帝，这样，他就拥有了统治他们的权力，并从此自称为白沙皇。
+[127] 基捷——全至冬的第一座城市。从第四百一十七纪的第四年，也就是建城的那一年，一直到皇帝陛下以其无限的恩泽与仁慈，赦恕人类为臣民，并迁都至冬堡的那一年，这座仿照妖灵先祖的习俗修筑的帝都，都是统管冻土的权力中心。
+[128] 穆斯季斯莱沃——即《沃尔霍编年史》中记载的「饮血者」。诸兽怪的大君王，饮血的智者，穆斯季斯莱沃洛联盟的共主。按其麾下的兽怪族裔所说，穆斯季斯莱沃王身形魁梧，即便是在战场上也如同一座山麓般显眼。所以，在最古老的编年史抄本中，穆斯季斯莱沃洛王有时也被妖精记述者们称作「戈里尼什青」，意思是「山之子」。
+[129] 仁爱——正如《妖灵语义论》中所指出的那样，这个词在现代语境下也可以译作「有益的、可爱的、令人喜爱的」。应当明确，这些词语在那个时代的含义是很近的，皇帝使者所表述的含义，按照人类的语言，应当理解为「他们（向你们）索要贡物这件事，是你们所不喜爱的（或对你们没有益处的）」。也正是因为这个原因，有些学者将皇帝使者的话语解读为隐晦的威胁，关于这一点，以及这个词语的详细含义，可参阅《妖灵语义论》的讲述。
+[130] 即使在后世看来，「穆斯季斯莱沃洛」这一兽怪的智者们建立的国度，对于苍星王廷的指责也是荒诞无稽的。
+只不过如此指责并非没有缘由，或者说，以己名立国的兽怪的王者穆斯季斯莱沃王意图挑起战争的真正原因，实则是惧怕苍星王廷自上一场战争以来的崛起。
+由莫诺马赫皇帝领导、以基捷城为中心的同盟，在这百年的时期中，发展出一种全新的面貌，已在经济上和政体架构上迅速发展。对于穆斯季斯莱沃王来说，任由莫诺马赫皇帝在这场拉锯战中逐渐取得优势是不可容忍的。
+于是，这场奠定这片银雪荫覆的大陆最终格局的战争由此拉开序幕。
+[131] 尼约默罗德氏族——形貌如牛的兽怪氏族。
+[132] 达洛格莱德氏族——水妖氏族。
+[133] 切纳雷卡氏族——形貌如狼的兽怪氏族。
+[134] 主要是军事仆从。
+[135] 穆斯季斯莱沃王在这场战役中亲自指挥了与皇帝作战的三场大型战役。据传，在最后一场战役中，他出于绝望，尝试利用了阴影世界的力量以拖延苍星王廷的进军。尽管这并未能扭转战局，但依然对皇帝日后的决策产生了一定影响。
+关于三场战役的详细记载，可参阅《雪奈茨尼伊远征史》。
+值得留意的是，在侧面战场，收到穆斯季斯莱沃王命令、预定追击以阻止皇帝军队合流的施佩金军团，却很蹊跷地为冰雾所惑，因判断行进路线错误，延误了战机，未能阻止皇帝军队的合流，最终导致了穆斯季斯莱沃方在正面战场的失败。
+这件事曾经为众多编年史作者所记载，但天气突变的原因依然不明。
+穆斯季斯莱沃王最终被皇帝的长枪贯穿兽首而死，据说现被收藏于至冬宫宝库、如战车般大小的熊型颅骨之上，仍然留有当年长枪留下的痕迹。
+[136] 瑟里维克——即《沃尔霍编年史》中记载的「灰狼」。
+切纳雷卡的统治者，身段柔软的狡狼，据说在战争初期就与彼时执掌苍星王廷财政的大臣波里菲尔有私下的往来。
+在穆斯季斯莱沃王的统治覆灭之后，也是唯一一个无比顺滑地在战后立刻出现苍星王廷诸大臣之列的妖精大公。
+正因如此，部分学者认为，当时受他指挥的施佩金军团在战役关键时失败的追击或许并非偶然。不过，这一推测不能被认为有足够的证据。
+在战后曾受到彼时已受称白沙皇的莫诺马赫皇帝嘉奖，身受其长剑拍肩之仪。
+[137] 苏古基列特——即《沃尔霍编年史》中记载的「森之牡牛」。
+穆斯季斯莱沃王麾下，尼约默罗德大公。
+曾在第二次战役时提出率领先遣精锐部队绕至苍星王廷军后方，发动突袭，迫使其向预设的伏击区转移，而主力部队则包围伏击区作出进攻。
+只不过此战略被妖精一族中，效忠于皇帝陛下、最擅长变化的菲利波夫潜入穆斯季斯莱沃王军中时窃得。
+皇帝因此调整战略，苏古基列特大公的突袭反而令自身深陷苍星王廷军队的包围之中；皇帝的军队围困了他的军势，并不断歼灭前来救援的敌军，导致了穆斯季斯莱沃王方在第二次战役的巨大失利。
+苏古基列特大公在此战中被皇帝的长枪贯穿胸口而死。
+[138] 沃佳瑙——即《沃尔霍编年史》中记载的「无地王」。
+达洛格莱德的统治者，冰湖之中诸水裔的先祖。
+英勇无比的战士，却也是独一无二的莽夫，擅长在冰面之下发起突袭。
+在第二次战役末期，被矮灵们的大公阿尔维斯用计略将其军团诱骗到了冰湖之外。
+被皇帝的长枪贯穿胸口而死。
+[139] 皇帝的长枪——未涉及战场者通常会质疑战场记述的许多描述，包括两军对垒时皇帝使长枪贯穿敌军将领的记录。
+大多数质疑者通常会指出军队规模、将领所处的军阵位置进行说明，认为混战时几乎不可能存在的将领阵战的情况。
+必须在此进行说明，皇帝之所以能以长枪贯穿敌军将领，并非与对方进行阵战。
+不过是将长枪作为箭矢，以常识无法想象的力量引弓发射，贯穿战场所致。
+[140] 神圣的血脉——意义不明。莫诺马赫皇帝自称是众妖灵之主，与其他妖精应当是诞生自相同的血脉。看来，皇帝在这里的话应当只是为了证明正统性的说辞。
+……
+第七百九十九纪的第一年，这一年的四月，安娜丝塔夏·费奥多罗夫娜加冕为全至冬的女皇，许多妖精王公并没有前往至冬堡觐见。因为莫诺马赫皇帝已死，达洛格莱德氏族与至冬堡断绝了往来。
+第七百九十九纪的第二年，趁莫诺马赫皇帝去世，贝洛沃迪港的人类在这一年的冬天宣布自治，向妖精王公发起反叛。卓沃戈列大公发兵攻打他们，但没有取胜。
+第七百九十九纪的第三年，安娜丝塔夏女皇发兵攻打自治军，沿途强占了卓沃戈列、伏尔霍凡与切纳雷卡各氏族的领地，并以怠惰失察、纵容叛乱的罪名，攫夺原本统治这些领地的王公头衔，改由非世袭官吏接管。与莫诺马赫皇帝不同，她没有集结冬契军，而是组建起一支被称作「愚人众」的队伍，去占领妖精王公们的领地。卓沃戈列大公谴责女皇谋反，率军与愚人众交战，就死了。三月十日，女皇向贝洛沃迪港派出使者，去安抚自治军，要求他们交出叛乱的煽动者，并宣布赦免余下所有人的罪行。自治军同意了女皇的条件，于是贝洛沃迪港就没有被夷平。三月二十三日，她又向那些依然没有前往至冬堡觐见的妖精王公们派出使者，要求他们交出所有权力，并允诺为他们保留贵族的名誉头衔。许多王公在答复女皇的要求前就去世了，余下的那些则全部同意了女皇的要求。这时候，安娜丝塔夏女皇掌管北方的大权。
+第七百九十九纪的第四年，女皇让愚人众在至冬堡附近建起一座新的城塞，名叫格鲁波夫，意思是愚人之城。
+第七百九十九纪的第五年。
+第七百九十九纪的第六年，女皇设立皇都评议会，处理王公缺位产生的行政问题，并指派人类约安娜·伊万诺夫娜为初任议长。
+第七百九十九纪的第七年，《帝国秩序改良诏书》颁布。许多妖精王公深感女皇恩德，主动放弃贵族的名誉头衔，离开至冬。
+……
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+
+### Заметки по томам
+
+#### Том 1
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.
