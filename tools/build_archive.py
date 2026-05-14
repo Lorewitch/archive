@@ -49,6 +49,28 @@ DEVELOPMENT_MATERIAL_TYPES = {
     "character_ascension": {"ru": "Возвышение персонажа", "en": "Character Ascension", "zh": "角色突破"},
     "weapon_ascension": {"ru": "Возвышение оружия", "en": "Weapon Ascension", "zh": "武器突破"},
 }
+
+
+ITEM_TYPE_DEFINITIONS = {
+    "teyvat_resources": {
+        "ore": {"ru": "Руда", "en": "Ore", "zh": "矿石"},
+        "local_specialty": {"ru": "Диковинка", "en": "Local Specialty", "zh": "区域特产"},
+        "plant": {"ru": "Растение", "en": "Plant", "zh": "植物"},
+        "animal": {"ru": "Животное", "en": "Animal", "zh": "动物"},
+    },
+    "food_potions": {
+        "food": {"ru": "Еда", "en": "Food", "zh": "食物"},
+        "potion": {"ru": "Зелье", "en": "Potion", "zh": "药剂"},
+    },
+    "useful_items": {
+        "tool": {"ru": "Инструмент", "en": "Tool", "zh": "道具"},
+        "seelie": {"ru": "Фея", "en": "Seelie", "zh": "仙灵"},
+        "equipment": {"ru": "Снаряжение", "en": "Equipment", "zh": "装备"},
+    },
+    "misc": {
+        "misc": {"ru": "Прочее", "en": "Miscellaneous", "zh": "其他"},
+    },
+}
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
 
@@ -540,6 +562,24 @@ def material_type_title_from_meta(meta: dict[str, str]) -> dict[str, str]:
     }
 
 
+def normalized_generic_item_type(item_group: str, meta: dict[str, str]) -> str:
+    definitions = ITEM_TYPE_DEFINITIONS.get(item_group, {})
+    value = (meta.get("item_type") or meta.get("type") or "").strip()
+    if value in definitions:
+        return value
+    return next(iter(definitions), "")
+
+
+def generic_item_type_title_from_meta(item_group: str, meta: dict[str, str]) -> dict[str, str]:
+    key = normalized_generic_item_type(item_group, meta)
+    defaults = ITEM_TYPE_DEFINITIONS.get(item_group, {}).get(key, {"ru": "", "en": "", "zh": ""})
+    return {
+        "ru": meta.get("item_type_ru") or defaults.get("ru", ""),
+        "en": meta.get("item_type_en") or defaults.get("en", ""),
+        "zh": meta.get("item_type_zh") or defaults.get("zh", ""),
+    }
+
+
 
 
 def material_index_keys(meta: dict[str, str]) -> list[int]:
@@ -636,7 +676,15 @@ def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> lis
 
 
 def item_entry_type(meta: dict[str, str]) -> str:
-    return (meta.get("entry_type") or meta.get("item_type") or "item").strip() or "item"
+    value = (meta.get("entry_type") or "").strip()
+    if value:
+        return value
+
+    legacy_value = (meta.get("item_type") or "").strip()
+    if legacy_value in {"item", "enemy_drops", "material_set"}:
+        return legacy_value
+
+    return "item"
 
 
 def build_enemy(path: Path) -> dict[str, Any]:
@@ -710,6 +758,10 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         if entry["item_group"] == "development_materials":
             entry["material_type"] = normalized_material_type(meta)
             entry["material_type_title"] = material_type_title_from_meta(meta)
+
+        if entry["item_group"] in ITEM_TYPE_DEFINITIONS:
+            entry["item_type"] = normalized_generic_item_type(entry["item_group"], meta)
+            entry["item_type_title"] = generic_item_type_title_from_meta(entry["item_group"], meta)
 
         if materials:
             entry["materials"] = materials
@@ -849,6 +901,8 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "region": item.get("region", ""),
         "item_group": item.get("item_group", "misc"),
         "entry_type": item.get("entry_type", "item"),
+        "item_type": item.get("item_type", ""),
+        "item_type_title": item.get("item_type_title", {}),
         "material_type": item.get("material_type", ""),
         "material_type_title": item.get("material_type_title", {}),
         "materials": [
@@ -881,6 +935,7 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
             item.get("material_type", ""),
             item.get("material_type_title", {}),
             item.get("item_type", ""),
+            item.get("item_type_title", {}),
             item.get("tags", []),
             item.get("description", {}),
             item.get("dropped_by", []),
