@@ -2512,6 +2512,71 @@ function isCommonEnemyCatalog(config = getSectionConfig()) {
   return config?.id === "items" && state.subsection === "common_enemies";
 }
 
+const COMMON_ENEMY_TYPE_FILTERS = [
+  ["hilichurls", "Хиличурлы"],
+  ["elementals", "Элементали"],
+  ["fatui", "Фатуи"],
+  ["automatons", "Автоматоны"],
+  ["human_factions", "Другие человеческие фракции"],
+  ["abyss", "Бездна"],
+  ["mystical_beasts", "Мистические звери"],
+];
+
+const COMMON_ENEMY_TYPE_ALIASES = {
+  hilichurl: "hilichurls",
+  hilichurls: "hilichurls",
+  hiliсhurls: "hilichurls",
+
+  elemental: "elementals",
+  elementals: "elementals",
+  slime: "elementals",
+  slimes: "elementals",
+
+  fatui: "fatui",
+
+  automaton: "automatons",
+  automatons: "automatons",
+  ruin_machine: "automatons",
+  ruin_machines: "automatons",
+  ruin_guard: "automatons",
+  ruin_guards: "automatons",
+
+  human: "human_factions",
+  humans: "human_factions",
+  human_faction: "human_factions",
+  human_factions: "human_factions",
+  other_human_factions: "human_factions",
+
+  abyss: "abyss",
+  abyss_order: "abyss",
+
+  beast: "mystical_beasts",
+  beasts: "mystical_beasts",
+  mystic_beasts: "mystical_beasts",
+  mystical_beast: "mystical_beasts",
+  mystical_beasts: "mystical_beasts",
+};
+
+function normalizeCommonEnemyType(value) {
+  const key = String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+  return COMMON_ENEMY_TYPE_ALIASES[key] || key;
+}
+
+function itemCommonEnemyTypes(item) {
+  const enemies = droppedByEnemies(item);
+  return new Set(enemies
+    .map(enemy => normalizeCommonEnemyType(enemy.enemy_group))
+    .filter(Boolean));
+}
+
+function catalogFilterLabel(config) {
+  return isCommonEnemyCatalog(config) ? "Все типы противников" : config.filterLabel;
+}
+
 const ARTIFACT_PART_LABELS = {
   flower: { ru: "Цветок жизни", en: "Flower of Life", zh: "生之花" },
   plume: { ru: "Перо смерти", en: "Plume of Death", zh: "死之羽" },
@@ -3052,6 +3117,7 @@ function collectionForCatalog(config) {
 }
 
 function optionsFor(config) {
+  if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (config.fixedOptions) return config.fixedOptions;
   if (config.filter === "region") {
     const values = new Set();
@@ -3069,6 +3135,9 @@ function optionsFor(config) {
 
 function itemMatchesFilter(item, config, selected) {
   if (selected === "all") return true;
+  if (isCommonEnemyCatalog(config)) {
+    return itemCommonEnemyTypes(item).has(normalizeCommonEnemyType(selected));
+  }
   if (config.filter === "region") {
     return String(item.region || "")
       .split(",")
@@ -3200,6 +3269,10 @@ function renderCatalogTable(config) {
 function renderCatalog(config) {
   const filterState = state.filters[config.id];
   const options = optionsFor(config);
+  const allowedFilters = new Set(["all", ...options.map(([value]) => value)]);
+  if (!allowedFilters.has(filterState.filter)) {
+    filterState.filter = "all";
+  }
   const subsectionTitle = state.subsection ? groupLabel(config, state.subsection) : "";
 
   app.innerHTML = `
@@ -3219,16 +3292,14 @@ function renderCatalog(config) {
       <div class="toolbar">
         <label class="search" aria-label="Поиск">
           <span class="search-symbol">⌕</span>
-          <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Название, тип или тег..." value="${escapeHtml(filterState.query)}">
+          <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="${escapeHtml(isCommonEnemyCatalog(config) ? "Материал, противник или тег..." : "Название, тип или тег...")}" value="${escapeHtml(filterState.query)}">
           <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
         </label>
 
-        ${isCommonEnemyCatalog(config) ? "" : `
-          <select class="select" id="catalog-filter" aria-label="Фильтр">
-            <option value="all">${escapeHtml(config.filterLabel)}</option>
-            ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
-          </select>
-        `}
+        <select class="select" id="catalog-filter" aria-label="Фильтр">
+          <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
+          ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
+        </select>
       </div>
 
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
