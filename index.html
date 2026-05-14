@@ -370,7 +370,13 @@
     }
 
     .catalog-row.cols-books {
-      --catalog-columns: minmax(260px, 1.55fr) minmax(150px, .7fr) minmax(160px, .8fr) 90px;
+      --catalog-columns: minmax(360px, 1.8fr) minmax(150px, .58fr) minmax(170px, .78fr) 64px;
+      grid-template-columns: var(--catalog-columns);
+    }
+
+    .catalog-row.cols-books > div:nth-child(4) {
+      justify-self: end;
+      text-align: right;
     }
 
     .catalog-row.cols-artifacts {
@@ -2801,6 +2807,7 @@
       }
     }
 
+
 </style>
 </head>
 <body>
@@ -3339,7 +3346,7 @@ const state = {
 const app = document.getElementById("app");
 const nav = document.getElementById("nav");
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
-const CATALOG_PAGE_SIZE = 20;
+const CATALOG_PAGE_SIZE = 10;
 
 function debounce(fn, delay = 160) {
   let timer = 0;
@@ -4685,7 +4692,7 @@ function preserveScrollRender(renderFn) {
 }
 
 function bindBookDetail(book) {
-  document.getElementById("back-books")?.addEventListener("click", () => setRoute("books", null, state.subsection));
+  document.getElementById("back-books")?.addEventListener("click", () => setRoute("books"));
 
   document.getElementById("toggle-read-all")?.addEventListener("click", () => {
     state.readAll = !state.readAll;
