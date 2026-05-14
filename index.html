@@ -389,6 +389,10 @@
       --catalog-columns: minmax(260px, 1.35fr) minmax(300px, 1.25fr) minmax(150px, .75fr);
     }
 
+    .catalog-row.cols-items-common-enemy {
+      --catalog-columns: minmax(250px, 1.15fr) minmax(260px, 1fr) minmax(300px, 1.25fr) minmax(120px, .55fr);
+    }
+
     .catalog-row:last-child {
       border-bottom: 0;
     }
@@ -480,6 +484,11 @@
     .entry-material-preview {
       display: none;
       margin-top: 10px;
+    }
+
+    .entry-dropped-by-preview {
+      display: none;
+      margin-top: 8px;
     }
 
     .material-list {
@@ -2035,6 +2044,15 @@
       .catalog-row.cols-items-enemy .entry-material-preview {
         margin-top: 12px;
       }
+
+      .catalog-row.cols-items-common-enemy .entry-dropped-by-preview {
+        display: flex;
+        margin-top: 10px;
+      }
+
+      .catalog-row.cols-items-common-enemy .entry-material-preview {
+        margin-top: 12px;
+      }
     }
 
     @media (max-width: 620px) {
@@ -2499,11 +2517,12 @@ const SECTIONS = [
     filter: "region",
     filterLabel: "Все регионы",
     columns: () => state.subsection === "common_enemies"
-      ? ["Название", "Выпадает с", "Регион"]
+      ? ["Название", "Материалы", "Выпадает с", "Регион"]
       : isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион"] : ["Название", "Регион"],
     empty: "В этой категории пока нет предметов.",
     row: item => state.subsection === "common_enemies" ? [
       renderTitleCell(item),
+      renderMaterialsCell(item),
       renderDroppedByCell(item),
       escapeHtml(item.region || "—"),
     ] : isEnemyDropGroup(state.subsection) ? [
@@ -2733,6 +2752,9 @@ function renderTitleCell(item) {
     ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
   const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
+  const enemiesPreview = item?.item_group === "common_enemies" && droppedByEnemies(item).length
+    ? `<div class="entry-dropped-by-preview">${renderDroppedByCell(item)}</div>`
+    : "";
   return `
     <div class="entry-title-cell">
       ${iconMarkup}
@@ -2740,6 +2762,7 @@ function renderTitleCell(item) {
         <div class="book-title">${escapeHtml(titleOf(item, "ru"))}</div>
         <div class="book-subtitle">${escapeHtml(subtitles)}</div>
         ${materialsPreview}
+        ${enemiesPreview}
       </div>
     </div>
   `;
@@ -3025,7 +3048,9 @@ function filteredEntries(config) {
 }
 
 function catalogRow(item, config) {
-  const rowClass = config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
+  const rowClass = config.id === "items" && state.subsection === "common_enemies"
+    ? "cols-items-common-enemy"
+    : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   return `
     <div class="catalog-row item ${rowClass}" data-entry-id="${escapeHtml(item.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
       ${config.row(item).map(cell => `<div>${cell}</div>`).join("")}
@@ -3483,6 +3508,8 @@ function renderEnemyDropsDetail(item, config) {
 
       <div id="reader-text-area">${renderEnemyMaterialsTextArea(item)}</div>
 
+      ${item.item_group === "common_enemies" ? renderDroppedBySection(item) : ""}
+
       <details class="catalog-meta">
         <summary>Сведения для каталога и фильтров</summary>
         <div class="catalog-meta-body">
@@ -3562,6 +3589,7 @@ function fitItemMaterialTabs() {
 
 function bindEnemyDropsDetail(item, config) {
   fitItemMaterialTabs();
+  bindDroppedByEnemies(item);
   requestAnimationFrame(fitEnemyDescriptionPanel);
 
   document.querySelectorAll(".enemy-description-toggle").forEach(button => {
