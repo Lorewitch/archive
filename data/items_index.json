@@ -41,6 +41,9 @@
       }
     ],
     "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
     "tags": [
       "Еретик ложной луны",
       "Дотторе",
@@ -78,6 +81,9 @@
       }
     ],
     "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
     "tags": [],
     "languages": [
       "ru",
