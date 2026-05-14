@@ -370,13 +370,13 @@
     }
 
     .catalog-row.cols-books {
-      --catalog-columns: minmax(360px, 1.7fr) 72px minmax(150px, .58fr) minmax(170px, .78fr);
+      --catalog-columns: minmax(360px, 1.7fr) 84px minmax(150px, .58fr) minmax(170px, .78fr);
       grid-template-columns: var(--catalog-columns);
     }
 
     .catalog-row.cols-books > div:nth-child(2) {
-      justify-self: end;
-      text-align: right;
+      justify-self: center;
+      text-align: center;
     }
 
     .catalog-row.cols-books > div:nth-child(4) {
@@ -1114,33 +1114,9 @@
     }
 
     .notes,
-    .catalog-meta {
-      border-radius: 10px;
-    }
-
-    .notes {
-      margin-top: 22px;
-      padding: 16px 18px;
-      border: 1px solid rgba(91, 74, 62, .12);
-      background: rgba(203, 191, 175, .34);
-      color: #4E4239;
-    }
-
-    .notes-title {
-      margin-bottom: 6px;
-      font-weight: 900;
-    }
-
-    .notes-body {
-      line-height: 1.72;
-    }
 
     .catalog-meta {
-      margin-top: 18px;
-      overflow: hidden;
-      border: 1px solid rgba(91, 74, 62, .16);
-      background: rgba(246, 242, 235, .68);
-      color: var(--muted);
+      display: none !important;
     }
 
     .catalog-meta summary {
@@ -1167,13 +1143,21 @@
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      gap: 7px;
+      gap: 8px;
       margin-top: 14px;
+    }
+
+    .pagination-pages {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 7px;
     }
 
     .pagination button,
     .pagination-gap,
-    .pagination-count {
+    .pagination-count,
+    .pagination-size {
       min-height: 34px;
       padding: 7px 10px;
       border: 1px solid rgba(91, 74, 62, .14);
@@ -1206,8 +1190,21 @@
       background: transparent;
     }
 
-    .pagination-count {
+    .pagination-size {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
       margin-left: auto;
+    }
+
+    .pagination-size select {
+      min-height: 28px;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      font: inherit;
+      font-weight: 900;
+      cursor: pointer;
     }
 
     .group-grid {
@@ -1537,55 +1534,6 @@
         content: "Регион";
       }
 
-      .catalog-row.cols-books.item,
-      .catalog-row.cols-weapons.item {
-        gap: 12px;
-      }
-
-      .catalog-row.cols-books.item > div,
-      .catalog-row.cols-weapons.item > div {
-        display: block;
-      }
-
-      .catalog-row.cols-books.item > div:not(:first-child),
-      .catalog-row.cols-weapons.item > div:not(:first-child) {
-        margin-top: 0;
-        padding-top: 10px;
-        border-top: 1px solid rgba(91, 74, 62, .12);
-      }
-
-      .catalog-row.cols-books.item > div::before,
-      .catalog-row.cols-weapons.item > div::before {
-        display: block;
-        margin-bottom: 7px;
-        color: var(--soft);
-        font-size: 11px;
-        font-weight: 900;
-        letter-spacing: .075em;
-        line-height: 1.2;
-        text-transform: uppercase;
-      }
-
-      .catalog-row.cols-books.item > div:nth-child(2)::before {
-        content: "Томов";
-      }
-
-      .catalog-row.cols-books.item > div:nth-child(3)::before {
-        content: "Тип";
-      }
-
-      .catalog-row.cols-books.item > div:nth-child(4)::before {
-        content: "Регион";
-      }
-
-      .catalog-row.cols-weapons.item > div:nth-child(2)::before {
-        content: "Тип";
-      }
-
-      .catalog-row.cols-weapons.item > div:nth-child(3)::before {
-        content: "Редкость";
-      }
-
       .catalog-row.cols-items-common-enemy .catalog-material-plain-list {
         gap: 8px;
       }
@@ -1761,7 +1709,8 @@
         justify-content: flex-start;
       }
 
-      .pagination-count {
+      .pagination-count,
+      .pagination-size {
         width: 100%;
         margin-left: 0;
       }
@@ -2813,11 +2762,41 @@
 
 
 
-    /* v47: Books keep four desktop columns */
+    /* Books keep four desktop columns */
     @media (min-width: 981px) {
       .catalog-row.cols-books {
-        --catalog-columns: minmax(360px, 1.7fr) 72px minmax(150px, .58fr) minmax(170px, .78fr);
+        --catalog-columns: minmax(360px, 1.7fr) 84px minmax(150px, .58fr) minmax(170px, .78fr);
         grid-template-columns: var(--catalog-columns);
+      }
+    }
+
+
+    /* Mobile catalogs: books and weapons show only the title cell, like artifacts */
+    @media (max-width: 980px) {
+      .catalog-row.head.cols-books,
+      .catalog-row.head.cols-weapons {
+        display: none;
+      }
+
+      .catalog-row.cols-books,
+      .catalog-row.cols-weapons {
+        grid-template-columns: 1fr;
+      }
+
+      .catalog-row.cols-books.item > div:not(:first-child),
+      .catalog-row.cols-weapons.item > div:not(:first-child) {
+        display: none !important;
+      }
+
+      .catalog-row.cols-books.item > div:first-child,
+      .catalog-row.cols-weapons.item > div:first-child {
+        display: block;
+      }
+
+      .catalog-row.cols-books.item > div::before,
+      .catalog-row.cols-weapons.item > div::before {
+        display: none !important;
+        content: "" !important;
       }
     }
 
@@ -3338,14 +3317,15 @@ const state = {
   itemMaterial: "",
   itemReadAll: false,
   filters: {
-    books: { query: "", filter: "all", sort: "asc", page: 1, typeFilters: ["book_series", "notes"] },
-    artifacts: { query: "", filter: "all", sort: "asc", page: 1 },
-    weapons: { query: "", filter: "all", sort: "asc", page: 1, typeFilters: ["5", "4", "3", "2", "1"] },
+    books: { query: "", filter: "all", sort: "asc", page: 1, pageSize: 10, typeFilters: ["book_series", "notes"] },
+    artifacts: { query: "", filter: "all", sort: "asc", page: 1, pageSize: 10 },
+    weapons: { query: "", filter: "all", sort: "asc", page: 1, pageSize: 10, typeFilters: ["5", "4", "3", "2", "1"] },
     items: {
       query: "",
       filter: "all",
       sort: "asc",
       page: 1,
+      pageSize: 10,
       typeFiltersByGroup: {
         development_materials: ["talents", "character_ascension", "weapon_ascension"],
         teyvat_resources: ["ore", "local_specialty", "plant", "animal"],
@@ -3359,7 +3339,7 @@ const state = {
 const app = document.getElementById("app");
 const nav = document.getElementById("nav");
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
-const CATALOG_PAGE_SIZE = 10;
+const DEFAULT_CATALOG_PAGE_SIZE = 10;
 
 function debounce(fn, delay = 160) {
   let timer = 0;
@@ -3993,26 +3973,43 @@ function renderGroupSelector(config) {
   });
 }
 
-function renderPaginationControls(config, currentPage, totalPages, totalRows) {
-  if (totalPages <= 1) return "";
+function catalogPageSize(config) {
+  const value = Number(state.filters[config.id]?.pageSize);
+  return [10, 25, 50].includes(value) ? value : DEFAULT_CATALOG_PAGE_SIZE;
+}
 
+function renderPaginationControls(config, currentPage, totalPages, totalRows) {
+  const pageSize = catalogPageSize(config);
   const pages = [];
-  for (let page = 1; page <= totalPages; page += 1) {
-    if (page === 1 || page === totalPages || Math.abs(page - currentPage) <= 1) {
-      pages.push(page);
-    } else if (pages[pages.length - 1] !== "…") {
-      pages.push("…");
+
+  if (totalPages > 1) {
+    for (let page = 1; page <= totalPages; page += 1) {
+      if (page === 1 || page === totalPages || Math.abs(page - currentPage) <= 1) {
+        pages.push(page);
+      } else if (pages[pages.length - 1] !== "…") {
+        pages.push("…");
+      }
     }
   }
 
   return `
     <nav class="pagination" aria-label="Страницы каталога">
-      <button type="button" data-catalog-page="${currentPage - 1}" ${currentPage <= 1 ? "disabled" : ""}>‹</button>
-      ${pages.map(page => page === "…"
-        ? `<span class="pagination-gap">…</span>`
-        : `<button type="button" data-catalog-page="${page}" class="${page === currentPage ? "active" : ""}" aria-current="${page === currentPage ? "page" : "false"}">${page}</button>`
-      ).join("")}
-      <button type="button" data-catalog-page="${currentPage + 1}" ${currentPage >= totalPages ? "disabled" : ""}>›</button>
+      <div class="pagination-pages">
+        ${totalPages > 1 ? `
+          <button type="button" data-catalog-page="${currentPage - 1}" ${currentPage <= 1 ? "disabled" : ""}>‹</button>
+          ${pages.map(page => page === "…"
+            ? `<span class="pagination-gap">…</span>`
+            : `<button type="button" data-catalog-page="${page}" class="${page === currentPage ? "active" : ""}" aria-current="${page === currentPage ? "page" : "false"}">${page}</button>`
+          ).join("")}
+          <button type="button" data-catalog-page="${currentPage + 1}" ${currentPage >= totalPages ? "disabled" : ""}>›</button>
+        ` : ""}
+      </div>
+      <label class="pagination-size">
+        <span>На странице</span>
+        <select id="catalog-page-size" aria-label="Количество записей на странице">
+          ${[10, 25, 50].map(size => `<option value="${size}" ${size === pageSize ? "selected" : ""}>${size}</option>`).join("")}
+        </select>
+      </label>
       <span class="pagination-count">${totalRows} записей</span>
     </nav>
   `;
@@ -4027,15 +4024,22 @@ function bindPagination(config) {
       updateCatalogTable(config);
     });
   });
+
+  document.getElementById("catalog-page-size")?.addEventListener("change", event => {
+    state.filters[config.id].pageSize = Number(event.target.value) || DEFAULT_CATALOG_PAGE_SIZE;
+    state.filters[config.id].page = 1;
+    updateCatalogTable(config);
+  });
 }
 
 function renderCatalogTable(config) {
   const allRows = filteredEntries(config);
   const filterState = state.filters[config.id];
-  const totalPages = Math.max(1, Math.ceil(allRows.length / CATALOG_PAGE_SIZE));
+  const pageSize = catalogPageSize(config);
+  const totalPages = Math.max(1, Math.ceil(allRows.length / pageSize));
   const currentPage = Math.min(Math.max(1, Number(filterState.page) || 1), totalPages);
   filterState.page = currentPage;
-  const rows = allRows.slice((currentPage - 1) * CATALOG_PAGE_SIZE, currentPage * CATALOG_PAGE_SIZE);
+  const rows = allRows.slice((currentPage - 1) * pageSize, currentPage * pageSize);
   const sortUp = filterState.sort === "asc" ? "active" : "";
   const sortDown = filterState.sort === "desc" ? "active" : "";
   const columns = typeof config.columns === "function" ? config.columns() : config.columns;
