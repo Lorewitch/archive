@@ -400,7 +400,15 @@
     }
 
     .catalog-row.cols-items-development {
-      --catalog-columns: minmax(320px, 1.3fr) minmax(190px, .65fr) minmax(140px, .45fr);
+      --catalog-columns: minmax(340px, 1.35fr) minmax(190px, .62fr) minmax(150px, .48fr);
+    }
+
+    .catalog-row.cols-items-development.item > div {
+      align-self: center;
+    }
+
+    .catalog-row.cols-items-development.item > div:first-child {
+      align-self: start;
     }
 
     .catalog-row.cols-items-development .catalog-material-plain-list {
@@ -3152,6 +3160,8 @@ function isTemplatePublicNote(value) {
     "здесь можно написать общий комментарий",
     "здесь можно написать заметки",
     "здесь можно написать заметки по группе материалов",
+    "здесь можно оставить внутренние заметки",
+    "внутренние заметки по серии материалов",
     "заметка к первому материалу",
     "заметка ко второму материалу",
     "заметка к третьему материалу"
@@ -3567,6 +3577,7 @@ function filteredEntries(config) {
 function catalogRow(item, config) {
   const rowClass = config.id === "items" && state.subsection === "common_enemies"
     ? "cols-items-common-enemy"
+    : config.id === "items" && state.subsection === "development_materials" ? "cols-items-development"
     : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   return `
     <div class="catalog-row item ${rowClass}" data-entry-id="${escapeHtml(item.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
