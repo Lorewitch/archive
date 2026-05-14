@@ -75,6 +75,13 @@ WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
 
 
+WARNINGS: list[str] = []
+
+
+def warn(path: Path | str, message: str) -> None:
+    WARNINGS.append(f"{path}: {message}")
+
+
 def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8-sig")
 
@@ -212,6 +219,42 @@ def title_from_meta(meta: dict[str, str]) -> dict[str, str]:
     }
 
 
+
+def title_has_text(title: dict[str, str]) -> bool:
+    return any(str(title.get(lang, "")).strip() for lang in LANGS)
+
+
+def readable_title_from_id(entry_id: str) -> str:
+    cleaned = re.sub(r"[_\-]+", " ", entry_id).strip()
+    return cleaned[:1].upper() + cleaned[1:] if cleaned else "Untitled"
+
+
+def title_with_fallback(title: dict[str, str], fallback: dict[str, str]) -> dict[str, str]:
+    return {lang: str(title.get(lang, "")).strip() or str(fallback.get(lang, "")).strip() for lang in LANGS}
+
+
+def material_group_title_fallback(entry_id: str, entry_type: str, item_group: str, materials: list[dict[str, Any]]) -> dict[str, str]:
+    readable = readable_title_from_id(entry_id)
+    first_title = materials[0].get("title", {}) if materials else {}
+    first = {lang: str(first_title.get(lang, "")).strip() or readable for lang in LANGS}
+
+    if item_group == "development_materials":
+        return {
+            "ru": f"Набор материалов: {first['ru']}",
+            "en": f"Material Set: {first['en']}",
+            "zh": f"素材套组：{first['zh']}",
+        }
+
+    if entry_type == "enemy_drops":
+        return {
+            "ru": f"Материалы: {first['ru']}",
+            "en": f"Drops: {first['en']}",
+            "zh": f"掉落素材：{first['zh']}",
+        }
+
+    return {"ru": readable, "en": readable, "zh": readable}
+
+
 def languages_from_text(text_by_lang: dict[str, str] | None = None, volumes: list[dict[str, Any]] | None = None) -> list[str]:
     found: list[str] = []
     for lang in LANGS:
@@ -259,6 +302,11 @@ def is_placeholder_note(text: str) -> bool:
         "заметка к короне",
         "заметки пока не заполнены",
         "здесь можно написать общий комментарий",
+        "здесь можно написать общий комментарий по противнику",
+        "здесь можно написать заметки по группе",
+        "здесь можно написать заметки по группе материалов",
+        "здесь можно оставить внутренние заметки",
+        "здесь можно оставить внутренние заметки по серии",
         "заметка к первому материалу",
         "заметка ко второму материалу",
         "заметка к третьему материалу",
@@ -626,6 +674,26 @@ def material_title_match(title: str, material: dict[str, Any]) -> bool:
     return False
 
 
+
+def should_take_title_from_heading(existing: str, heading: str) -> bool:
+    heading = heading.strip()
+    existing = str(existing or "").strip()
+    if not heading or heading.lower().startswith("material:") or heading.lower().startswith("enemy:"):
+        return False
+    if not existing:
+        return True
+    normalized_existing = re.sub(r"\s+", " ", existing).casefold()
+    normalized_heading = re.sub(r"\s+", " ", heading).casefold()
+    if normalized_existing == normalized_heading:
+        return False
+    placeholders = {"材料一", "材料二", "材料三", "material 1", "material 2", "material 3"}
+    if existing in placeholders or normalized_existing.startswith("material_"):
+        return True
+    # If the metadata title is visibly truncated and the actual subsection heading contains it,
+    # prefer the complete heading. Example: 医的假面 -> 贤医的假面.
+    return normalized_existing in normalized_heading and len(normalized_heading) > len(normalized_existing)
+
+
 def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> list[dict[str, Any]]:
     materials: list[dict[str, Any]] = []
     for number in material_index_keys(meta):
@@ -671,6 +739,8 @@ def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> lis
 
             if target is not None:
                 target["text"][lang] = block["text"]
+                if should_take_title_from_heading(target.get("title", {}).get(lang, ""), block["title"]):
+                    target.setdefault("title", {})[lang] = block["title"].strip()
 
     return materials
 
@@ -727,11 +797,17 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         text_by_lang = full_text_by_lang
         languages = languages_from_text(text_by_lang=text_by_lang)
 
+    entry_title = title_from_meta(meta)
+    item_group = normalized_item_group(meta) if category == "items" else ""
+    if category == "items" and is_material_group and not title_has_text(entry_title):
+        entry_title = material_group_title_fallback(entry_id, entry_type, item_group, materials)
+        warn(path, "missing title_ru/title_en/title_zh; generated a temporary fallback title")
+
     entry: dict[str, Any] = {
         "id": entry_id,
         "category": category,
         "icon": meta.get("icon", "").strip(),
-        "title": title_from_meta(meta),
+        "title": entry_title,
         "region": meta.get("region", ""),
         "rarity": int_from_meta(meta, "rarity", None),
         "tags": tags_from_meta(meta),
@@ -742,7 +818,6 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     }
 
     dropped_by = comma_list_from_meta(meta, "dropped_by")
-    item_group = normalized_item_group(meta) if category == "items" else ""
     if category == "items" and item_group == "common_enemies" and dropped_by:
         entry["dropped_by"] = dropped_by
         entry["dropped_by_enemies"] = []
@@ -1075,6 +1150,10 @@ def build() -> None:
         "enemies": len(enemies),
     }
     write_json(DATA_DIR / "archive_summary.json", summary)
+    if WARNINGS:
+        print("Archive warnings:")
+        for message in WARNINGS:
+            print(f"  - {message}")
     print("Built archive data:", summary)
 
 
