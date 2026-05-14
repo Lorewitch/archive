@@ -415,6 +415,18 @@
       gap: 10px;
     }
 
+    .catalog-row.cols-items-typed {
+      --catalog-columns: minmax(300px, 1.45fr) minmax(180px, .7fr) minmax(150px, .55fr);
+    }
+
+    .catalog-row.cols-items-typed.item > div {
+      align-self: center;
+    }
+
+    .catalog-row.cols-items-typed.item > div:first-child {
+      align-self: start;
+    }
+
     .catalog-row:last-child {
       border-bottom: 0;
     }
@@ -642,6 +654,19 @@
 
     .weapon-detail-main-text {
       margin-top: 26px;
+    }
+
+    .items-detail-card.generic-text-card {
+      padding: 24px;
+    }
+
+    .items-detail-card .generic-title h3 {
+      font-size: 20px;
+    }
+
+    .items-detail-card > .prose:first-of-type {
+      font-size: 17px;
+      line-height: 1.82;
     }
 
     .enemy-overview-card {
@@ -1386,6 +1411,39 @@
       }
 
       .catalog-row.cols-items-development.item > div:nth-child(3)::before {
+        content: "Регион";
+      }
+
+      .catalog-row.cols-items-typed.item {
+        gap: 12px;
+      }
+
+      .catalog-row.cols-items-typed.item > div {
+        display: block;
+      }
+
+      .catalog-row.cols-items-typed.item > div:not(:first-child) {
+        margin-top: 0;
+        padding-top: 10px;
+        border-top: 1px solid rgba(91, 74, 62, .12);
+      }
+
+      .catalog-row.cols-items-typed.item > div::before {
+        display: block;
+        margin-bottom: 7px;
+        color: var(--soft);
+        font-size: 11px;
+        font-weight: 900;
+        letter-spacing: .075em;
+        line-height: 1.2;
+        text-transform: uppercase;
+      }
+
+      .catalog-row.cols-items-typed.item > div:nth-child(2)::before {
+        content: "Тип";
+      }
+
+      .catalog-row.cols-items-typed.item > div:nth-child(3)::before {
         content: "Регион";
       }
 
@@ -2776,6 +2834,43 @@ const DEVELOPMENT_MATERIAL_TYPE_LABELS = {
   weapon_ascension: { ru: "Возвышение оружия", en: "Weapon Ascension", zh: "武器突破" },
 };
 
+
+const ITEM_GROUP_TYPE_FILTERS = {
+  teyvat_resources: [
+    ["ore", "Руда"],
+    ["local_specialty", "Диковинки"],
+    ["plant", "Растения"],
+    ["animal", "Животные"],
+  ],
+  food_potions: [
+    ["food", "Еда"],
+    ["potion", "Зелья"],
+  ],
+  useful_items: [
+    ["tool", "Инструменты"],
+    ["seelie", "Феи"],
+    ["equipment", "Снаряжение"],
+  ],
+};
+
+const ITEM_GROUP_TYPE_LABELS = {
+  teyvat_resources: {
+    ore: { ru: "Руда", en: "Ore", zh: "矿石" },
+    local_specialty: { ru: "Диковинка", en: "Local Specialty", zh: "区域特产" },
+    plant: { ru: "Растение", en: "Plant", zh: "植物" },
+    animal: { ru: "Животное", en: "Animal", zh: "动物" },
+  },
+  food_potions: {
+    food: { ru: "Еда", en: "Food", zh: "食物" },
+    potion: { ru: "Зелье", en: "Potion", zh: "药剂" },
+  },
+  useful_items: {
+    tool: { ru: "Инструмент", en: "Tool", zh: "道具" },
+    seelie: { ru: "Фея", en: "Seelie", zh: "仙灵" },
+    equipment: { ru: "Снаряжение", en: "Equipment", zh: "装备" },
+  },
+};
+
 function normalizeDevelopmentMaterialType(value) {
   const key = String(value || "")
     .trim()
@@ -2791,21 +2886,57 @@ function developmentMaterialTypeTitle(item, lang = "ru") {
   return item?.material_type_title?.[lang] || labels[lang] || labels.ru;
 }
 
-function activeDevelopmentMaterialTypes() {
-  const filterState = state.filters.items;
-  if (!Array.isArray(filterState.materialTypes) || !filterState.materialTypes.length) {
-    return DEVELOPMENT_MATERIAL_TYPE_FILTERS.map(([value]) => value);
-  }
-  return filterState.materialTypes;
+function itemGroupUsesTypeFilters(group = state.subsection) {
+  return Boolean(ITEM_GROUP_TYPE_FILTERS[group]?.length);
 }
 
-function renderDevelopmentTypeFilters(config) {
-  if (!isDevelopmentMaterialsCatalog(config)) return "";
+function normalizeItemGroupType(itemGroup, value) {
+  const key = String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+  const known = new Set((ITEM_GROUP_TYPE_FILTERS[itemGroup] || []).map(([option]) => option));
+  return known.has(key) ? key : "";
+}
 
-  const activeTypes = new Set(activeDevelopmentMaterialTypes());
+function itemGroupTypeTitle(item, lang = "ru") {
+  const group = item?.item_group || state.subsection;
+  const key = normalizeItemGroupType(group, item?.item_type);
+  const labels = ITEM_GROUP_TYPE_LABELS[group]?.[key];
+  return item?.item_type_title?.[lang] || labels?.[lang] || labels?.ru || item?.item_type || "—";
+}
+
+function itemTypeFilterValue(item) {
+  if (item?.item_group === "development_materials") {
+    return normalizeDevelopmentMaterialType(item.material_type);
+  }
+  return normalizeItemGroupType(item?.item_group || state.subsection, item?.item_type);
+}
+
+function typeFiltersForCurrentItemGroup(config = getSectionConfig()) {
+  if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
+  return ITEM_GROUP_TYPE_FILTERS[state.subsection] || [];
+}
+
+function activeItemTypeFilters(config = getSectionConfig()) {
+  const filterState = state.filters.items;
+  const options = typeFiltersForCurrentItemGroup(config);
+  const defaults = options.map(([value]) => value);
+  const saved = filterState.typeFiltersByGroup?.[state.subsection];
+
+  if (!Array.isArray(saved) || !saved.length) return defaults;
+  return saved.filter(value => defaults.includes(value));
+}
+
+function renderItemTypeFilters(config) {
+  const options = typeFiltersForCurrentItemGroup(config);
+  if (!options.length) return "";
+
+  const activeTypes = new Set(activeItemTypeFilters(config));
   return `
-    <div class="type-filter-row" aria-label="Тип материала">
-      ${DEVELOPMENT_MATERIAL_TYPE_FILTERS.map(([value, label]) => `
+    <div class="type-filter-row" aria-label="Тип">
+      ${options.map(([value, label]) => `
         <label class="type-filter-chip">
           <input type="checkbox" value="${escapeHtml(value)}" ${activeTypes.has(value) ? "checked" : ""}>
           <span>${escapeHtml(label)}</span>
@@ -2878,7 +3009,9 @@ function itemCommonEnemyTypes(item) {
 
 function catalogFilterLabel(config) {
   if (isCommonEnemyCatalog(config)) return "Все типы противников";
-  if (isDevelopmentMaterialsCatalog(config)) return "Все регионы";
+  if (config.id === "items" && state.subsection && (isDevelopmentMaterialsCatalog(config) || itemGroupUsesTypeFilters(state.subsection))) {
+    return "Все регионы";
+  }
   return config.filterLabel;
 }
 
@@ -2969,6 +3102,7 @@ const SECTIONS = [
     columns: () => state.subsection === "common_enemies"
       ? ["Материалы", "Тип противника", "Выпадает с"]
       : state.subsection === "development_materials" ? ["Материалы", "Тип материала", "Регион"]
+      : itemGroupUsesTypeFilters(state.subsection) ? ["Название", "Тип", "Регион"]
       : isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион"] : ["Название", "Регион"],
     empty: "В этой категории пока нет предметов.",
     row: item => state.subsection === "common_enemies" ? [
@@ -2978,6 +3112,10 @@ const SECTIONS = [
     ] : state.subsection === "development_materials" ? [
       renderCommonEnemyMaterialsCell(item),
       renderDevelopmentMaterialTypeCell(item),
+      escapeHtml(item.region || "—"),
+    ] : itemGroupUsesTypeFilters(state.subsection) ? [
+      renderTitleCell(item),
+      renderGenericItemTypeCell(item),
       escapeHtml(item.region || "—"),
     ] : isEnemyDropGroup(state.subsection) ? [
       renderTitleCell(item),
@@ -3005,7 +3143,17 @@ const state = {
     books: { query: "", filter: "all", sort: "asc" },
     artifacts: { query: "", filter: "all", sort: "asc" },
     weapons: { query: "", filter: "all", sort: "asc" },
-    items: { query: "", filter: "all", sort: "asc", materialTypes: ["talents", "character_ascension", "weapon_ascension"] }
+    items: {
+      query: "",
+      filter: "all",
+      sort: "asc",
+      typeFiltersByGroup: {
+        development_materials: ["talents", "character_ascension", "weapon_ascension"],
+        teyvat_resources: ["ore", "local_specialty", "plant", "animal"],
+        food_potions: ["food", "potion"],
+        useful_items: ["tool", "seelie", "equipment"]
+      }
+    }
   }
 };
 
@@ -3162,6 +3310,8 @@ function isTemplatePublicNote(value) {
     "здесь можно написать заметки по группе материалов",
     "здесь можно оставить внутренние заметки",
     "внутренние заметки по серии материалов",
+    "здесь можно оставить внутренние заметки по предмету",
+    "здесь можно написать заметки по предмету",
     "заметка к первому материалу",
     "заметка ко второму материалу",
     "заметка к третьему материалу"
@@ -3282,6 +3432,11 @@ function droppedByEnemies(item) {
 
 function renderDevelopmentMaterialTypeCell(item) {
   const label = developmentMaterialTypeTitle(item, "ru");
+  return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
+}
+
+function renderGenericItemTypeCell(item) {
+  const label = itemGroupTypeTitle(item, "ru");
   return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
 }
 
@@ -3477,7 +3632,7 @@ function collectionForCatalog(config) {
 
 function optionsFor(config) {
   if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
-  if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_REGION_FILTERS;
+  if (config.id === "items" && state.subsection && (isDevelopmentMaterialsCatalog(config) || itemGroupUsesTypeFilters(state.subsection))) return DEVELOPMENT_REGION_FILTERS;
   if (config.fixedOptions) return config.fixedOptions;
   if (config.filter === "region") {
     const values = new Set();
@@ -3512,8 +3667,9 @@ function itemMatchesFilter(item, config, selected) {
 
   if (!matchesMainFilter) return false;
 
-  if (isDevelopmentMaterialsCatalog(config)) {
-    return activeDevelopmentMaterialTypes().includes(normalizeDevelopmentMaterialType(item.material_type));
+  const typeOptions = typeFiltersForCurrentItemGroup(config);
+  if (typeOptions.length) {
+    return activeItemTypeFilters(config).includes(itemTypeFilterValue(item));
   }
 
   return true;
@@ -3530,6 +3686,9 @@ function fallbackSearchableText(item) {
     item.book_type,
     item.item_group,
     item.item_type,
+    item.item_type_title?.ru,
+    item.item_type_title?.en,
+    item.item_type_title?.zh,
     item.material_type,
     item.material_type_title?.ru,
     item.material_type_title?.en,
@@ -3578,6 +3737,7 @@ function catalogRow(item, config) {
   const rowClass = config.id === "items" && state.subsection === "common_enemies"
     ? "cols-items-common-enemy"
     : config.id === "items" && state.subsection === "development_materials" ? "cols-items-development"
+    : config.id === "items" && itemGroupUsesTypeFilters(state.subsection) ? "cols-items-typed"
     : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   return `
     <div class="catalog-row item ${rowClass}" data-entry-id="${escapeHtml(item.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
@@ -3623,6 +3783,7 @@ function renderCatalogTable(config) {
   const rowClass = config.id === "items" && state.subsection === "common_enemies"
     ? "cols-items-common-enemy"
     : config.id === "items" && state.subsection === "development_materials" ? "cols-items-development"
+    : config.id === "items" && itemGroupUsesTypeFilters(state.subsection) ? "cols-items-typed"
     : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   const sortableFirstColumn = !isCommonEnemyCatalog(config) && !isDevelopmentMaterialsCatalog(config);
 
@@ -3677,7 +3838,7 @@ function renderCatalog(config) {
           <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
           ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
         </select>
-        ${renderDevelopmentTypeFilters(config)}
+        ${renderItemTypeFilters(config)}
       </div>
 
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
@@ -3747,7 +3908,8 @@ function bindCatalog(config) {
   document.querySelectorAll(".type-filter-chip input").forEach(input => {
     input.addEventListener("change", () => {
       const checked = Array.from(document.querySelectorAll(".type-filter-chip input:checked")).map(item => item.value);
-      filterState.materialTypes = checked.length ? checked : [];
+      if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
+      filterState.typeFiltersByGroup[state.subsection] = checked.length ? checked : [];
       updateCatalogTable(config);
     });
   });
