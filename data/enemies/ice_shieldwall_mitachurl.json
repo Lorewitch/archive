@@ -40,7 +40,37 @@
       },
       "icon": "",
       "item_group": "common_enemies",
-      "entry_type": "enemy_drops"
+      "entry_type": "enemy_drops",
+      "materials": [
+        {
+          "key": "damaged_mask",
+          "title": {
+            "ru": "Разбитая маска",
+            "en": "Damaged Mask",
+            "zh": "破损的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+        },
+        {
+          "key": "stained_mask",
+          "title": {
+            "ru": "Грязная маска",
+            "en": "Stained Mask",
+            "zh": "污秽的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+        },
+        {
+          "key": "ominous_mask",
+          "title": {
+            "ru": "Зловещая маска",
+            "en": "Ominous Mask",
+            "zh": "不祥的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+        }
+      ],
+      "material_count": 3
     }
   ],
   "notes": {

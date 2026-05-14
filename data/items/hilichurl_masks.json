@@ -71,7 +71,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители тейватской фауны.\nОни весьма похожи на людей, но не обладают таким же уровнем интеллекта и духовного развития. Существуют свидетельства, что хиличурлы обитают на этом континенте уже несколько тысяч лет, однако за это время они не создали цивилизации и не оставили после себя истории.\nПосле ужасной катастрофы, случавшейся пятьсот лет назад, хиличурлы начали распространяться по всему Тейвату. И хотя они не обладают огромной силой или способностью к организации, хиличурлы всё же способны доставить людям немало хлопот.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThey look very similar to humanity but seem to have lost both their intellect and spirituality. Their presence on the continent has been recorded for over a thousand years, and yet they have neither history nor civilization.\nSince the pitch-black calamity from five hundred years ago, they have begun to spread in large numbers across the land. They are not very strong, and they lack organization, but they nonetheless bring sizable trouble to humans every once in a while.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n与人类轮廓相似，却失去了智能与灵性。据记载，在大地上出没超过千年，却没有历史与文明。\n自五百年前漆黑的灾祸以来，便广泛地分布在大地各处。虽然力量弱小，缺乏组织，但有时也能给人们带来不小的麻烦。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители тейватской фауны.\nОни весьма похожи на людей, но не обладают таким же уровнем интеллекта и духовного развития. Существуют свидетельства, что хиличурлы обитают на этом континенте уже несколько тысяч лет, однако за это время они не создали цивилизации и не оставили после себя истории.\nПосле ужасной катастрофы, случавшейся пятьсот лет назад, хиличурлы начали распространяться по всему Тейвату. И хотя они не обладают огромной силой или способностью к организации, хиличурлы всё же способны доставить людям немало хлопот.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThey look very similar to humanity but seem to have lost both their intellect and spirituality. Their presence on the continent has been recorded for over a thousand years, and yet they have neither history nor civilization.\nSince the pitch-black calamity from five hundred years ago, they have begun to spread in large numbers across the land. They are not very strong, and they lack organization, but they nonetheless bring sizable trouble to humans every once in a while.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n与人类轮廓相似，却失去了智能与灵性。据记载，在大地上出没超过千年，却没有历史与文明。\n自五百年前漆黑的灾祸以来，便广泛地分布在大地各处。虽然力量弱小，缺乏组织，但有时也能给人们带来不小的麻烦。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "hilichurl_fighter",
@@ -82,7 +140,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nНедружелюбные воины, сражающиеся за своё племя. Они слепо верят в правоту грубой силы. Если их мышцы достаточно окрепнут, то однажды эти слабаки смогут поднять щиты и стать митачурлами... Смогут ли?",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nIll-tempered warriors for their tribes, they are simple-minded believers in the power of brute force. If their muscles grow strong enough and their strength great enough, then one day they too shall raise up a great shield and become a mitachurl... Or will they?",
+        "zh": "提瓦特荒野中游荡的原始住民。\n坏脾气的部落战士，朴实地信奉着肌肉的力量。如果肌肉够结实，力量够强，那终有一天也能举起巨大的盾牌，成为「丘丘暴徒」…？"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nНедружелюбные воины, сражающиеся за своё племя. Они слепо верят в правоту грубой силы. Если их мышцы достаточно окрепнут, то однажды эти слабаки смогут поднять щиты и стать митачурлами... Смогут ли?",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nIll-tempered warriors for their tribes, they are simple-minded believers in the power of brute force. If their muscles grow strong enough and their strength great enough, then one day they too shall raise up a great shield and become a mitachurl... Or will they?",
+        "zh": "提瓦特荒野中游荡的原始住民。\n坏脾气的部落战士，朴实地信奉着肌肉的力量。如果肌肉够结实，力量够强，那终有一天也能举起巨大的盾牌，成为「丘丘暴徒」…？"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "hilichurl_berserker",
@@ -93,7 +209,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти хиличурлы вооружены пылающими дубинами и готовы броситься в отчаянную атаку на проходящего мимо путешественника. На самом деле, причиной большинства лесных пожаров в Мондштадте являются именно эти хиличурлы, а не кое-какой рыцарь из Ордо Фавониус.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese hilichurls wield flaming clubs and charge with reckless abandon to chase intruding adventurers off. Most wildfires in the grasslands or forests are not actually caused by a certain special Knight, but due to the actions of these hilichurls.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n为了击退来犯的冒险者，会挥舞着熊熊燃烧的棒槌，一往无前地奋勇冲锋。草原或森林中发生野火的话，通常而言，并不是因为某名特别的「骑士」，而是因为这种丘丘人的犯行。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти хиличурлы вооружены пылающими дубинами и готовы броситься в отчаянную атаку на проходящего мимо путешественника. На самом деле, причиной большинства лесных пожаров в Мондштадте являются именно эти хиличурлы, а не кое-какой рыцарь из Ордо Фавониус.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese hilichurls wield flaming clubs and charge with reckless abandon to chase intruding adventurers off. Most wildfires in the grasslands or forests are not actually caused by a certain special Knight, but due to the actions of these hilichurls.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n为了击退来犯的冒险者，会挥舞着熊熊燃烧的棒槌，一往无前地奋勇冲锋。草原或森林中发生野火的话，通常而言，并不是因为某名特别的「骑士」，而是因为这种丘丘人的犯行。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "wooden_shield_hilichurl_guard",
@@ -104,7 +278,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-воины с деревянными щитами. Эти щиты - не только крепкие защитные инструменты, но ещё и большая ценность для членов племени. Согласно многим отчётам, хиличурлы часто нападают на лагеря путешественников, чтобы похитить крышки от походных котлов.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl warriors who have wooden shields. These shields are not only sturdy defensive tools but also treasured items within the tribe. According to many reports, hilichurls will often charge at travelers making camp to cook and will snatch their pot lids after chasing them away.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n拥有木盾的丘丘人战士，木盾不仅是坚固的防具，也是属于部落的珍贵宝物。根据不少人的报告，丘丘人会冲向扎营烹饪的旅人，撵走他们，然后抢走他们的锅盖。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-воины с деревянными щитами. Эти щиты - не только крепкие защитные инструменты, но ещё и большая ценность для членов племени. Согласно многим отчётам, хиличурлы часто нападают на лагеря путешественников, чтобы похитить крышки от походных котлов.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl warriors who have wooden shields. These shields are not only sturdy defensive tools but also treasured items within the tribe. According to many reports, hilichurls will often charge at travelers making camp to cook and will snatch their pot lids after chasing them away.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n拥有木盾的丘丘人战士，木盾不仅是坚固的防具，也是属于部落的珍贵宝物。根据不少人的报告，丘丘人会冲向扎营烹饪的旅人，撵走他们，然后抢走他们的锅盖。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "ice_shield_hilichurl_guard",
@@ -115,7 +347,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы отлично могут приспосабливаться к окружающей среде. В ледяном окружении они находят способ создавать себе крепкие ледяные щиты.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurls display a strong sense of adaptability to their surroundings. In icy environments, they come up with ways and means to fashion this hard ice into shields to protect themselves.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n丘丘人有着强大的环境适应性的证明。在冰元素富集的环境中，能设法利用坚冰制成盾牌保护自己。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы отлично могут приспосабливаться к окружающей среде. В ледяном окружении они находят способ создавать себе крепкие ледяные щиты.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurls display a strong sense of adaptability to their surroundings. In icy environments, they come up with ways and means to fashion this hard ice into shields to protect themselves.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n丘丘人有着强大的环境适应性的证明。在冰元素富集的环境中，能设法利用坚冰制成盾牌保护自己。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "rock_shield_hilichurl_guard",
@@ -126,7 +416,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nКрепкие хиличурлы, обитающие в регионе с повышенной концентрацией Гео энергии. Их непробиваемые щиты состоят из нескольких слоев каменных отложений.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHardy hilichurls who have congregated in a region where Geo energies are abundant. Their impregnable shields have layers of rocky growths on them.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n岩元素富集的地域中顽强生存的丘丘人，其坚不可摧的盾牌上增生着层层磐岩。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nКрепкие хиличурлы, обитающие в регионе с повышенной концентрацией Гео энергии. Их непробиваемые щиты состоят из нескольких слоев каменных отложений.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHardy hilichurls who have congregated in a region where Geo energies are abundant. Their impregnable shields have layers of rocky growths on them.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n岩元素富集的地域中顽强生存的丘丘人，其坚不可摧的盾牌上增生着层层磐岩。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "hilichurl_shooter",
@@ -137,7 +485,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-стрелки, вооруженные простыми арбалетами. Откровенно говоря, хиличурлы не владеют искусством создания арбалетов. Из этого следует вывод, что их контролирует другая организация, которая поставляет им оружие и материалы. Подозрение падает на Магов Бездны, часто сопровождающих хиличурлов.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl archers who wield simple crossbows. Hilichurls do not, in truth, possess the craftsmanship needed to build crossbows. As such, it is commonly believed that there is an organization that controls the hilichurls from behind the scenes and furnishes them with equipment and material supplies. The Abyss Mages that often accompany these hilichurls are especially suspicious.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的丘丘人射手。丘丘人实际上并不具备制造弩的工艺水平。因此，一般认为，在丘丘人背后，存在着操控丘丘人，并为它们提供设备物资的组织。而与丘丘人走得很近的深渊法师尤为可疑。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-стрелки, вооруженные простыми арбалетами. Откровенно говоря, хиличурлы не владеют искусством создания арбалетов. Из этого следует вывод, что их контролирует другая организация, которая поставляет им оружие и материалы. Подозрение падает на Магов Бездны, часто сопровождающих хиличурлов.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl archers who wield simple crossbows. Hilichurls do not, in truth, possess the craftsmanship needed to build crossbows. As such, it is commonly believed that there is an organization that controls the hilichurls from behind the scenes and furnishes them with equipment and material supplies. The Abyss Mages that often accompany these hilichurls are especially suspicious.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的丘丘人射手。丘丘人实际上并不具备制造弩的工艺水平。因此，一般认为，在丘丘人背后，存在着操控丘丘人，并为它们提供设备物资的组织。而与丘丘人走得很近的深渊法师尤为可疑。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "pyro_hilichurl_shooter",
@@ -148,7 +554,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов покрыты тонким слоем воспламеняющегося материала, который позволяет им поджигать цели. Элла Маск считает, что это изобретение одного сообразительного хиличурла, который хотел приготовить на огне подстреленную дичь.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are coated with a thin layer of flammable material that can set their targets on fire. El Musk of the previous generation believed that this is an innovation by brighter hilichurls who wished to cook their game after hunting it.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上敷了一层薄薄的易燃材料，以便烧灼其目标。前代的艾尔·马斯克认为，这是头脑灵光的丘丘人想要在捕猎时顺便完成烹饪而为的创新之事。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов покрыты тонким слоем воспламеняющегося материала, который позволяет им поджигать цели. Элла Маск считает, что это изобретение одного сообразительного хиличурла, который хотел приготовить на огне подстреленную дичь.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are coated with a thin layer of flammable material that can set their targets on fire. El Musk of the previous generation believed that this is an innovation by brighter hilichurls who wished to cook their game after hunting it.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上敷了一层薄薄的易燃材料，以便烧灼其目标。前代的艾尔·马斯克认为，这是头脑灵光的丘丘人想要在捕猎时顺便完成烹饪而为的创新之事。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "electro_hilichurl_shooter",
@@ -159,7 +623,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов изготовлены из Электро кристаллов и при попадании наносят электрический урон. Говорят, что самые искусные стрелки могут выпустить за один раз до пяти болтов. Впечатляющий результат!",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are crafted from carved Electro Crystals that will deliver an electric shock upon impact. They say that hilichurl archers of exceptional skill can fire five crossbow bolts at once — a most impressive feat indeed.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头以电气水晶的碎片磨削而成，以便命中时造成电击。据说射术百里挑一的丘丘人射手可以一次发射五枚箭矢，非常厉害。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов изготовлены из Электро кристаллов и при попадании наносят электрический урон. Говорят, что самые искусные стрелки могут выпустить за один раз до пяти болтов. Впечатляющий результат!",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are crafted from carved Electro Crystals that will deliver an electric shock upon impact. They say that hilichurl archers of exceptional skill can fire five crossbow bolts at once — a most impressive feat indeed.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头以电气水晶的碎片磨削而成，以便命中时造成电击。据说射术百里挑一的丘丘人射手可以一次发射五枚箭矢，非常厉害。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "cryo_hilichurl_shooter",
@@ -170,7 +692,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники болтов покрыты нетающим льдом. Рассказывают, что раны от подобных болтов заживают очень медленно, потому что холод замедляет циркуляцию крови.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники болтов покрыты нетающим льдом. Рассказывают, что раны от подобных болтов заживают очень медленно, потому что холод замедляет циркуляцию крови.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "hilichurl_grenadier",
@@ -181,7 +761,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти хитрые ребятки научились использовать Пиро слаймов в качестве метательного оружия. Умелые бомбометатели способны уничтожить четыре деревянных чучела за один бросок.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese sneaky fellows are skilled in the use of Pyro Slimes, using them as weapons to attack intruders. Skilled grenadiers may be able to destroy four wooden dummies in a single throw.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n擅长活用火史莱姆的狡猾家伙，把火史莱姆用作迎击来犯者的武器。利用火史莱姆的爆炸，投掷技巧精湛的爆弹丘丘人或许可以一次击碎五根木柱吧。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти хитрые ребятки научились использовать Пиро слаймов в качестве метательного оружия. Умелые бомбометатели способны уничтожить четыре деревянных чучела за один бросок.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese sneaky fellows are skilled in the use of Pyro Slimes, using them as weapons to attack intruders. Skilled grenadiers may be able to destroy four wooden dummies in a single throw.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n擅长活用火史莱姆的狡猾家伙，把火史莱姆用作迎击来犯者的武器。利用火史莱姆的爆炸，投掷技巧精湛的爆弹丘丘人或许可以一次击碎五根木柱吧。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "electro_hilichurl_grenadier",
@@ -192,7 +830,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые жители пустынь Тейвата.\nЭлектро слайм не имеет такого широкого применения, как Пиро слайм или Анемо слайм в покрытой тайнами жизни хиличурлов. Возможно, однажды они обнаружат поток элементов между Электро слаймом и Электро слаймом-мутантом и совершат внезапный скачок в эволюции...",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nElectro Slimes don't seem to have as many applications as Pyro Slimes or Anemo Slimes in the benighted lives of the Hilichurls. Perhaps one day they may discover the flow of Elements between Electro Slime and Mutant Electro Slime and make some great progress... ?",
+        "zh": "提瓦特荒野中游荡的原始住民。\n对于保持着蒙昧生活的丘丘人而言，雷史莱姆似乎不像火史莱姆、风史莱姆那样用途广泛。或许有一天他们会发现雷史莱姆、变异雷史莱姆之间的元素流动，然后取得突飞猛进的发展…？"
+      },
+      "description": {
+        "ru": "Примитивные кочевые жители пустынь Тейвата.\nЭлектро слайм не имеет такого широкого применения, как Пиро слайм или Анемо слайм в покрытой тайнами жизни хиличурлов. Возможно, однажды они обнаружат поток элементов между Электро слаймом и Электро слаймом-мутантом и совершат внезапный скачок в эволюции...",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nElectro Slimes don't seem to have as many applications as Pyro Slimes or Anemo Slimes in the benighted lives of the Hilichurls. Perhaps one day they may discover the flow of Elements between Electro Slime and Mutant Electro Slime and make some great progress... ?",
+        "zh": "提瓦特荒野中游荡的原始住民。\n对于保持着蒙昧生活的丘丘人而言，雷史莱姆似乎不像火史莱姆、风史莱姆那样用途广泛。或许有一天他们会发现雷史莱姆、变异雷史莱姆之间的元素流动，然后取得突飞猛进的发展…？"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "cryo_hilichurl_grenadier",
@@ -203,7 +899,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы научились использовать Крио слаймов, чтобы дольше сохранять еду свежей. Эти дикари с завидной изобретательностью находят слаймам неожиданное практическое применение. Взрывающиеся бочки из Крио и Пиро, аэростаты из Анемо слаймов... С помощью этих изобретений они делают свою тяжёлую жизнь немного проще.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurls have discovered the use of Cryo Slimes in effectively keeping food fresh. Hilichurls have surprising amounts of wisdom in the practical use of Slimes, whether it be the use of Pyro and Cryo Slimes to make Exploding Barrels, or the use of Anemo Slimes in vehicles... Perhaps this is their way of adapting to their hard lot in life.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n发现了冰史莱姆的妙用，可以高效地保鲜食物。丘丘人有着活用各种史莱姆的智慧，无论是将火史莱姆、冰史莱姆制成炸药桶，还是用风史莱姆制作载具…可能这就是艰难生活带来的思维方式吧。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы научились использовать Крио слаймов, чтобы дольше сохранять еду свежей. Эти дикари с завидной изобретательностью находят слаймам неожиданное практическое применение. Взрывающиеся бочки из Крио и Пиро, аэростаты из Анемо слаймов... С помощью этих изобретений они делают свою тяжёлую жизнь немного проще.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurls have discovered the use of Cryo Slimes in effectively keeping food fresh. Hilichurls have surprising amounts of wisdom in the practical use of Slimes, whether it be the use of Pyro and Cryo Slimes to make Exploding Barrels, or the use of Anemo Slimes in vehicles... Perhaps this is their way of adapting to their hard lot in life.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n发现了冰史莱姆的妙用，可以高效地保鲜食物。丘丘人有着活用各种史莱姆的智慧，无论是将火史莱姆、冰史莱姆制成炸药桶，还是用风史莱姆制作载具…可能这就是艰难生活带来的思维方式吧。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "wooden_shieldwall_mitachurl",
@@ -214,7 +968,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл, закалённый в бесчисленных боях.\nОни научились создавать крепкие щиты из Дендро слаймов.\nКрепкие, мохнатые, рельефные силуэты этих созданий обеспечивают им достаточно высокое положение в племенной иерархии. Они способны отражать нападения путешественников на лагеря хиличурлов.",
+        "en": "A muscular hilichurl who has been forged in countless fights.\nThey know how to use Dendro Slimes to create tough shields which they wield in combat.\nWith their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.",
+        "zh": "经历无数战斗历练的丘丘人大块头。\n会利用草史莱姆创造坚固的木盾，进行战斗。\n拥有强健的肌肉，油亮的鬃毛，可靠的宽厚背影，一顿饭吃下很多肉的豪放，能为丘丘人抵挡毫不留情的冒险者，在部族当中有着相当崇高的地位。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл, закалённый в бесчисленных боях.\nОни научились создавать крепкие щиты из Дендро слаймов.\nКрепкие, мохнатые, рельефные силуэты этих созданий обеспечивают им достаточно высокое положение в племенной иерархии. Они способны отражать нападения путешественников на лагеря хиличурлов.",
+        "en": "A muscular hilichurl who has been forged in countless fights.\nThey know how to use Dendro Slimes to create tough shields which they wield in combat.\nWith their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.",
+        "zh": "经历无数战斗历练的丘丘人大块头。\n会利用草史莱姆创造坚固的木盾，进行战斗。\n拥有强健的肌肉，油亮的鬃毛，可靠的宽厚背影，一顿饭吃下很多肉的豪放，能为丘丘人抵挡毫不留情的冒险者，在部族当中有着相当崇高的地位。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "rock_shieldwall_mitachurl",
@@ -225,7 +1037,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным каменным щитом.\nБорьба и поедание мяса - два главных занятия для хиличурлов, потому что именно они делают их сильнее.\nВсе юные хиличурлы мечтают вырасти и стать большими и сильными митачурлами, потому что так они смогут побеждать в большем количестве сражений, есть больше мяса и носить (почти) непробиваемые щиты.",
+        "en": "A muscular hilichurl that uses a rock as a shield.\nFighting and eating meat are the two most important things to hilichurls, because those are what make them grow stronger.\nAll young hilichurls dream of growing up to become a big and strong mitachurl, because that way they can eat more meat, fight more battles, and wield those (almost) impregnable giant rock shields.",
+        "zh": "以顽岩为盾的丘丘人大块头。\n对于丘丘人而言，最重要的事情就是吃肉和打架，让身体变得强壮。\n如果能成为丘丘暴徒这样又大又壮的战士，就能吃更多肉、打更多架、举起（几乎）坚不可摧的巨大岩盾了。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным каменным щитом.\nБорьба и поедание мяса - два главных занятия для хиличурлов, потому что именно они делают их сильнее.\nВсе юные хиличурлы мечтают вырасти и стать большими и сильными митачурлами, потому что так они смогут побеждать в большем количестве сражений, есть больше мяса и носить (почти) непробиваемые щиты.",
+        "en": "A muscular hilichurl that uses a rock as a shield.\nFighting and eating meat are the two most important things to hilichurls, because those are what make them grow stronger.\nAll young hilichurls dream of growing up to become a big and strong mitachurl, because that way they can eat more meat, fight more battles, and wield those (almost) impregnable giant rock shields.",
+        "zh": "以顽岩为盾的丘丘人大块头。\n对于丘丘人而言，最重要的事情就是吃肉和打架，让身体变得强壮。\n如果能成为丘丘暴徒这样又大又壮的战士，就能吃更多肉、打更多架、举起（几乎）坚不可摧的巨大岩盾了。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "ice_shieldwall_mitachurl",
@@ -236,7 +1106,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным ледяным щитом.\nМожно предположить, что такие крупные создания должны сжигать огромное количество калорий, чтобы поддерживать свой организм. Эл Маск предложил концепцию «индекса Митачурла». Данный индекс указывает процентное содержание митачурлов в популяции хиличурлов, при котором данной популяции будет хватать ресурсов для пропитания.",
+        "en": "A muscular hilichurl that uses solid ice as a shield, wielding it in battle.\nReason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the \"Mitachurl Index.\" This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.",
+        "zh": "以严冰为盾的丘丘人大块头，会利用坚冰的巨盾战斗。\n普遍而言，体积庞大、活动频繁的生物需要消耗大量的热量来维持生存。由此，当代的艾尔·马斯克提出了「暴徒指数」，根据某地区中活动的丘丘暴徒数量在丘丘人总人口中占的比例，计算这些丘丘人食物获取的丰富、稳定性。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным ледяным щитом.\nМожно предположить, что такие крупные создания должны сжигать огромное количество калорий, чтобы поддерживать свой организм. Эл Маск предложил концепцию «индекса Митачурла». Данный индекс указывает процентное содержание митачурлов в популяции хиличурлов, при котором данной популяции будет хватать ресурсов для пропитания.",
+        "en": "A muscular hilichurl that uses solid ice as a shield, wielding it in battle.\nReason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the \"Mitachurl Index.\" This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.",
+        "zh": "以严冰为盾的丘丘人大块头，会利用坚冰的巨盾战斗。\n普遍而言，体积庞大、活动频繁的生物需要消耗大量的热量来维持生存。由此，当代的艾尔·马斯克提出了「暴徒指数」，根据某地区中活动的丘丘暴徒数量在丘丘人总人口中占的比例，计算这些丘丘人食物获取的丰富、稳定性。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "blazing_axe_mitachurl",
@@ -247,7 +1175,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Пиро слаймов, чтобы пропитать лезвие Пиро элементом и сделать свои удары ещё более смертоносными.\nОбычно частая закалка оружия приводит к быстрому износу металла, однако сила хиличурлов настолько велика, что они способны нанести чудовищный урон даже затупленным оружием.",
+        "en": "Muscular hilichurls who wield large two-handed axes.\nAttacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal.\nUsually, repeatedly quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.",
+        "zh": "手持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用火史莱姆为战斧附上火元素，具有强大的破坏力。\n通常，像火斧丘丘暴徒这样为武器反复淬火会导致钢铁的硬度下降，进而导致刃口容易受损。但丘丘暴徒的力量足够强大，斧子就算刃口没了也可以当锤子用。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Пиро слаймов, чтобы пропитать лезвие Пиро элементом и сделать свои удары ещё более смертоносными.\nОбычно частая закалка оружия приводит к быстрому износу металла, однако сила хиличурлов настолько велика, что они способны нанести чудовищный урон даже затупленным оружием.",
+        "en": "Muscular hilichurls who wield large two-handed axes.\nAttacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal.\nUsually, repeatedly quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.",
+        "zh": "手持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用火史莱姆为战斧附上火元素，具有强大的破坏力。\n通常，像火斧丘丘暴徒这样为武器反复淬火会导致钢铁的硬度下降，进而导致刃口容易受损。但丘丘暴徒的力量足够强大，斧子就算刃口没了也可以当锤子用。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "crackling_axe_mitachurl",
@@ -258,7 +1244,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Электро слаймов, чтобы пропитать лезвие Электро элементом и сделать свои удары ещё более смертоносными.\nВыкованный из стали топор отлично накапливает энергию Электро. Огромный митачурл с Электро топором, вызывающий молнии, - очень величественное зрелище для хиличурлов.",
+        "en": "Muscular hilichurls who wield large, two-handed axes.\nAttacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal.\nAxes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
+        "zh": "持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用雷史莱姆为战斧附上雷元素，具有强大的破坏力。\n钢铁锻造的斧头是非常良好的感电材料。高大魁梧的雷斧丘丘暴徒高举大斧，召引天雷的样子对丘丘人而言可是相当雄壮的景象。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Электро слаймов, чтобы пропитать лезвие Электро элементом и сделать свои удары ещё более смертоносными.\nВыкованный из стали топор отлично накапливает энергию Электро. Огромный митачурл с Электро топором, вызывающий молнии, - очень величественное зрелище для хиличурлов.",
+        "en": "Muscular hilichurls who wield large, two-handed axes.\nAttacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal.\nAxes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
+        "zh": "持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用雷史莱姆为战斧附上雷元素，具有强大的破坏力。\n钢铁锻造的斧头是非常良好的感电材料。高大魁梧的雷斧丘丘暴徒高举大斧，召引天雷的样子对丘丘人而言可是相当雄壮的景象。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "thunderhelm_lawachurl",
@@ -269,7 +1313,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в сердце грозы.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело пропитано энергией Электро, а элементальная энергия прорастает сквозь трещины на его теле в виде Электро кристаллов.",
+        "en": "A mysterious \"lord\" of hilichurls that strides through the thunderstorm.\nThis huge hilichurl is referred to as \"Lawa\" by its brethren. Its giant body is so saturated with Electro energy that Elemental Energy seeps through the cracks in its body in the form of Electro Crystal growths.",
+        "zh": "雷暴中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。"
+      },
+      "description": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в сердце грозы.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело пропитано энергией Электро, а элементальная энергия прорастает сквозь трещины на его теле в виде Электро кристаллов.",
+        "en": "A mysterious \"lord\" of hilichurls that strides through the thunderstorm.\nThis huge hilichurl is referred to as \"Lawa\" by its brethren. Its giant body is so saturated with Electro energy that Elemental Energy seeps through the cracks in its body in the form of Electro Crystal growths.",
+        "zh": "雷暴中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "frostarm_lawachurl",
@@ -280,7 +1382,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/frostarm_lawachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в тумане и в снегах.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело практически сливается с наполненной Крио элементом окружающей средой. Благородство его неуклонности подобно замёрзшим северным рекам.",
+        "en": "A mysterious \"lord\" of hilichurls that stalks the snow and fog.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. Its body, honed to the very limit, almost seems to blend into its Cryo-filled environment, and its stoic nobility is like that of the frozen northland rivers.",
+        "zh": "雪雾中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。锻炼至极致的肉身似乎已和环境中满溢的冰元素相互融合，沉默威严有如北国的冰川。"
+      },
+      "description": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в тумане и в снегах.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело практически сливается с наполненной Крио элементом окружающей средой. Благородство его неуклонности подобно замёрзшим северным рекам.",
+        "en": "A mysterious \"lord\" of hilichurls that stalks the snow and fog.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. Its body, honed to the very limit, almost seems to blend into its Cryo-filled environment, and its stoic nobility is like that of the frozen northland rivers.",
+        "zh": "雪雾中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。锻炼至极致的肉身似乎已和环境中满溢的冰元素相互融合，沉默威严有如北国的冰川。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "stonehide_lawachurl",
@@ -291,7 +1451,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/stonehide_lawachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Загадочный «вождь», обитающий среди тысячи скал.\nЭтого огромного хиличурла собратья называют «лава». Избыточная Гео энергия стала частью их плоти, поэтому они словно высечены из камня.",
+        "en": "A mysterious \"lord\" of hilichurls that walks between a thousand peaks.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. The abundant Geo energies in the environment have become part of their flesh, blood, and skin, which look as if they were chiseled out of mountain rock.",
+        "zh": "千嶂中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。环境中增生的岩元素化成了它们身体的一部分，仿佛血肉与皮肤皆由不移的山岩雕琢而成。"
+      },
+      "description": {
+        "ru": "Загадочный «вождь», обитающий среди тысячи скал.\nЭтого огромного хиличурла собратья называют «лава». Избыточная Гео энергия стала частью их плоти, поэтому они словно высечены из камня.",
+        "en": "A mysterious \"lord\" of hilichurls that walks between a thousand peaks.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. The abundant Geo energies in the environment have become part of their flesh, blood, and skin, which look as if they were chiseled out of mountain rock.",
+        "zh": "千嶂中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。环境中增生的岩元素化成了它们身体的一部分，仿佛血肉与皮肤皆由不移的山岩雕琢而成。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "anemo_samachurl",
@@ -302,7 +1520,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/anemo_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, восхваляющий мощь Анемо.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Их умение управлять потоками ветра проистекает из тёмных забытых воспоминаний.",
+        "en": "A wizened, mumbling hilichurl, one that spreads the message of Anemo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories.",
+        "zh": "嘟嘟囔囔的老年丘丘人，风元素的传信者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，其牵掣流风的能力，正是来源于黑暗晦暝的失落记忆。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, восхваляющий мощь Анемо.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Их умение управлять потоками ветра проистекает из тёмных забытых воспоминаний.",
+        "en": "A wizened, mumbling hilichurl, one that spreads the message of Anemo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories.",
+        "zh": "嘟嘟囔囔的老年丘丘人，风元素的传信者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，其牵掣流风的能力，正是来源于黑暗晦暝的失落记忆。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "electro_samachurl",
@@ -313,7 +1589,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Электро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Поскольку они обладают высоким мастерством и могут служить проводниками молнии, они могут написать песню из раскатов грома.",
+        "en": "A wizened, mumbling Hilichurl, one that prays to Electro.\nHilichurls especially gifted in commanding elements who often reach the zenith of their skill in their twilight years. Since they possess such advanced skill in creating electricity and summoning thunder, you may as well use the crackling sound to compose an elegy.",
+        "zh": "嘟嘟囔囔的老年丘丘人，雷元素的祈求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，既然掌握了掣电引雷的高超技艺，便用这霹雳之声谱写挽歌吧。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Электро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Поскольку они обладают высоким мастерством и могут служить проводниками молнии, они могут написать песню из раскатов грома.",
+        "en": "A wizened, mumbling Hilichurl, one that prays to Electro.\nHilichurls especially gifted in commanding elements who often reach the zenith of their skill in their twilight years. Since they possess such advanced skill in creating electricity and summoning thunder, you may as well use the crackling sound to compose an elegy.",
+        "zh": "嘟嘟囔囔的老年丘丘人，雷元素的祈求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，既然掌握了掣电引雷的高超技艺，便用这霹雳之声谱写挽歌吧。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "dendro_samachurl",
@@ -324,7 +1658,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, пробуждающий могущество Дендро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Под маской скрывается злая гримаса, а злобный шёпот плетётся словно отравленный плющ.",
+        "en": "A wizened, mumbling hilichurl, one that awakens the might of Dendro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it.",
+        "zh": "嘟嘟囔囔的老年丘丘人，草元素的唤醒者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。承载着面具下的不甘，憎恨人心的毒藤随呢喃蔓生而出。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, пробуждающий могущество Дендро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Под маской скрывается злая гримаса, а злобный шёпот плетётся словно отравленный плющ.",
+        "en": "A wizened, mumbling hilichurl, one that awakens the might of Dendro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it.",
+        "zh": "嘟嘟囔囔的老年丘丘人，草元素的唤醒者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。承载着面具下的不甘，憎恨人心的毒藤随呢喃蔓生而出。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "hydro_samachurl",
@@ -335,7 +1727,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hydro_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, который воспевает силы Гидро элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Какую жизнь должны были прожить эти примитивные существа, чтобы научиться призывать дожди?",
+        "en": "A wizened, mumbling hilichurl, one that chants of the power of Hydro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?",
+        "zh": "嘟嘟囔囔的老年丘丘人，水元素的吟颂者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。究竟是怎样的过去，令这些愚昧的生物竟能掌握生水唤雨的秘诀？"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, который воспевает силы Гидро элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Какую жизнь должны были прожить эти примитивные существа, чтобы научиться призывать дожди?",
+        "en": "A wizened, mumbling hilichurl, one that chants of the power of Hydro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?",
+        "zh": "嘟嘟囔囔的老年丘丘人，水元素的吟颂者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。究竟是怎样的过去，令这些愚昧的生物竟能掌握生水唤雨的秘诀？"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "geo_samachurl",
@@ -346,7 +1796,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/geo_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, познавший тайны Гео элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. В сравнении с тысячелетними горами эти старые хиличурлы всего лишь дети, но их опыт и воспоминания позволили им обуздать силу скал и камней.",
+        "en": "A wizened, mumbling hilichurl, one that listens to the strength of Geo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone.",
+        "zh": "嘟嘟囔囔的老年丘丘人，岩元素的倾听者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。同千古的顽岩相比，即使最年老的丘丘人也不过孩童，但记忆与经验引导它们获得了操使岩石的权能。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, познавший тайны Гео элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. В сравнении с тысячелетними горами эти старые хиличурлы всего лишь дети, но их опыт и воспоминания позволили им обуздать силу скал и камней.",
+        "en": "A wizened, mumbling hilichurl, one that listens to the strength of Geo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone.",
+        "zh": "嘟嘟囔囔的老年丘丘人，岩元素的倾听者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。同千古的顽岩相比，即使最年老的丘丘人也不过孩童，但记忆与经验引导它们获得了操使岩石的权能。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     },
     {
       "id": "cryo_samachurl",
@@ -357,7 +1865,65 @@
       },
       "icon": "assets/icons/enemies/common_enemies/cryo_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват"
+      "region": "Тейват",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Крио.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Эти шаманы помнят древние морозные заклинания и используют их, чтобы сковывать своих врагов во льду.",
+        "en": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes.",
+        "zh": "嘟嘟囔囔的老年丘丘人，冰元素的呼求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。这些萨满熟忆寒霜的低语，更精通将之用于制敌的技艺。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Крио.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Эти шаманы помнят древние морозные заклинания и используют их, чтобы сковывать своих врагов во льду.",
+        "en": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes.",
+        "zh": "嘟嘟囔囔的老年丘丘人，冰元素的呼求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。这些萨满熟忆寒霜的低语，更精通将之用于制敌的技艺。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "",
+            "en": "",
+            "zh": ""
+          },
+          "icon": "",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
     }
   ],
   "dropped_by_count": 27,
