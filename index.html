@@ -390,7 +390,7 @@
     }
 
     .catalog-row.cols-items-common-enemy {
-      --catalog-columns: minmax(250px, 1.15fr) minmax(260px, 1fr) minmax(300px, 1.25fr) minmax(120px, .55fr);
+      --catalog-columns: minmax(320px, 1.15fr) minmax(340px, 1.25fr);
     }
 
     .catalog-row:last-child {
@@ -1232,6 +1232,12 @@
 
       .catalog-row.item > div:not(:first-child) {
         display: none;
+      }
+
+
+      .catalog-row.cols-items-common-enemy.item > div:not(:first-child) {
+        display: block;
+        margin-top: 10px;
       }
 
       .entry-material-preview {
@@ -2517,14 +2523,12 @@ const SECTIONS = [
     filter: "region",
     filterLabel: "Все регионы",
     columns: () => state.subsection === "common_enemies"
-      ? ["Название", "Материалы", "Выпадает с", "Регион"]
+      ? ["Материалы", "Выпадает с"]
       : isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион"] : ["Название", "Регион"],
     empty: "В этой категории пока нет предметов.",
     row: item => state.subsection === "common_enemies" ? [
-      renderTitleCell(item),
       renderMaterialsCell(item),
       renderDroppedByCell(item),
-      escapeHtml(item.region || "—"),
     ] : isEnemyDropGroup(state.subsection) ? [
       renderTitleCell(item),
       renderMaterialsCell(item),
