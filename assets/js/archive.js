@@ -1109,15 +1109,6 @@ function catalogRow(item, config) {
   `;
 }
 
-function renderArchiveIntro() {
-  return `
-    <div class="archive-intro" aria-label="Описание архива">
-      <p><strong>Архив Лороведьмы</strong> — тихая полка для игровых текстов <em>Genshin Impact</em>: книг, описаний, предметов, оружия, артефактов и материалов. Он создан, чтобы тексты было легче находить, сверять и разбирать без бесконечных поисков по разным уголкам Тейвата.</p>
-      <p class="archive-intro-legal">Оригинальный игровой текст: <strong>Genshin Impact</strong>.<br>Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.</p>
-    </div>
-  `;
-}
-
 function renderGroupSelector(config) {
   const groups = config.groups || [];
   app.innerHTML = `
@@ -1125,7 +1116,6 @@ function renderGroupSelector(config) {
       <div class="page-head">
         <h1>${escapeHtml(config.title)}</h1>
         <p class="lead">${escapeHtml(config.description)}</p>
-        ${renderArchiveIntro()}
       </div>
       <div class="group-grid">
         ${groups.map(([key, label, description]) => {
@@ -1256,7 +1246,6 @@ function renderCatalog(config) {
       <div class="page-head">
         <h1>${escapeHtml(subsectionTitle || config.title)}</h1>
         <p class="lead">${escapeHtml(subsectionTitle ? config.description : config.description)}</p>
-        ${renderArchiveIntro()}
       </div>
 
       ${config.groups && state.subsection ? `
