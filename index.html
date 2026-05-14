@@ -370,7 +370,7 @@
     }
 
     .catalog-row.cols-books {
-      --catalog-columns: minmax(260px, 1.9fr) minmax(180px, 1fr) 90px;
+      --catalog-columns: minmax(260px, 1.55fr) minmax(150px, .7fr) minmax(160px, .8fr) 90px;
     }
 
     .catalog-row.cols-artifacts {
@@ -943,6 +943,33 @@
       min-width: 0;
     }
 
+    .book-toolbar .volume-strip {
+      display: grid;
+      grid-template-columns: 1fr;
+      align-items: stretch;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .book-toolbar .mode-button {
+      width: 100%;
+      min-height: 46px;
+      justify-content: center;
+    }
+
+    .book-toolbar .parts-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      width: 100%;
+      min-width: 0;
+    }
+
+    .book-toolbar .toolbar-label {
+      flex: 0 0 auto;
+      margin: 0;
+    }
+
     .artifact-toolbar .mode-button {
       width: 100%;
       min-height: 46px;
@@ -1125,6 +1152,53 @@
       gap: 7px;
     }
 
+    .pagination {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 7px;
+      margin-top: 14px;
+    }
+
+    .pagination button,
+    .pagination-gap,
+    .pagination-count {
+      min-height: 34px;
+      padding: 7px 10px;
+      border: 1px solid rgba(91, 74, 62, .14);
+      border-radius: 9px;
+      background: rgba(246, 242, 235, .82);
+      color: #342B25;
+      font-size: 13px;
+      font-weight: 820;
+      line-height: 1.2;
+    }
+
+    .pagination button {
+      cursor: pointer;
+    }
+
+    .pagination button.active {
+      background: var(--accent);
+      color: var(--surface);
+      border-color: var(--accent);
+    }
+
+    .pagination button:disabled {
+      opacity: .45;
+      cursor: default;
+    }
+
+    .pagination-gap,
+    .pagination-count {
+      color: var(--muted);
+      background: transparent;
+    }
+
+    .pagination-count {
+      margin-left: auto;
+    }
+
     .group-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -1133,9 +1207,9 @@
     }
 
     .group-card {
-      display: grid;
+      display: flex;
+      flex-direction: column;
       gap: 10px;
-      align-content: start;
       min-height: 150px;
       padding: 18px;
       border: 1px solid rgba(91, 74, 62, .18);
@@ -1166,6 +1240,11 @@
     .group-card-meta {
       color: var(--muted);
       font-size: 13px;
+    }
+
+    .group-card .tiny-pill {
+      margin-top: auto;
+      align-self: flex-start;
     }
 
     .entry-title-cell {
@@ -1447,6 +1526,55 @@
         content: "Регион";
       }
 
+      .catalog-row.cols-books.item,
+      .catalog-row.cols-weapons.item {
+        gap: 12px;
+      }
+
+      .catalog-row.cols-books.item > div,
+      .catalog-row.cols-weapons.item > div {
+        display: block;
+      }
+
+      .catalog-row.cols-books.item > div:not(:first-child),
+      .catalog-row.cols-weapons.item > div:not(:first-child) {
+        margin-top: 0;
+        padding-top: 10px;
+        border-top: 1px solid rgba(91, 74, 62, .12);
+      }
+
+      .catalog-row.cols-books.item > div::before,
+      .catalog-row.cols-weapons.item > div::before {
+        display: block;
+        margin-bottom: 7px;
+        color: var(--soft);
+        font-size: 11px;
+        font-weight: 900;
+        letter-spacing: .075em;
+        line-height: 1.2;
+        text-transform: uppercase;
+      }
+
+      .catalog-row.cols-books.item > div:nth-child(2)::before {
+        content: "Тип";
+      }
+
+      .catalog-row.cols-books.item > div:nth-child(3)::before {
+        content: "Регион";
+      }
+
+      .catalog-row.cols-books.item > div:nth-child(4)::before {
+        content: "Томов";
+      }
+
+      .catalog-row.cols-weapons.item > div:nth-child(2)::before {
+        content: "Тип";
+      }
+
+      .catalog-row.cols-weapons.item > div:nth-child(3)::before {
+        content: "Редкость";
+      }
+
       .catalog-row.cols-items-common-enemy .catalog-material-plain-list {
         gap: 8px;
       }
@@ -1459,6 +1587,24 @@
       .catalog-row.cols-items-common-enemy .catalog-material-plain-item img {
         width: 34px;
         height: 34px;
+      }
+
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-ru,
+      .catalog-row.cols-items-development .catalog-material-plain-ru {
+        font-size: 14px;
+      }
+
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-sub,
+      .catalog-row.cols-items-development .catalog-material-plain-sub {
+        font-size: 12px;
+      }
+
+      .catalog-row.cols-items-common-enemy .dropped-by-catalog-chip,
+      .catalog-row.cols-items-typed .common-enemy-type-chip,
+      .catalog-row.cols-items-development .common-enemy-type-chip,
+      .catalog-row.cols-books .common-enemy-type-chip,
+      .catalog-row.cols-weapons .common-enemy-type-chip {
+        font-size: 12px;
       }
 
       .entry-material-preview {
@@ -1598,6 +1744,15 @@
 
       .catalog-row.item {
         padding: 14px;
+      }
+
+      .pagination {
+        justify-content: flex-start;
+      }
+
+      .pagination-count {
+        width: 100%;
+        margin-left: 0;
       }
 
       .catalog-row.cols-items-common-enemy.item {
@@ -1944,6 +2099,7 @@
     }
 
     @media (max-width: 860px) {
+      .book-toolbar .parts-row,
       .artifact-toolbar .parts-row {
         grid-template-columns: 1fr;
         gap: 8px;
@@ -2775,9 +2931,33 @@ const WEAPON_TYPES = [
   ["polearm", "Древковое"]
 ];
 
+const RARITY_FILTERS = [
+  ["5", "5★"],
+  ["4", "4★"],
+  ["3", "3★"],
+  ["2", "2★"],
+  ["1", "1★"],
+];
+
 const BOOK_GROUPS = [
   ["book_series", "Книжные серии", "Многотомные книги и полноценные книжные циклы."],
   ["notes", "Записки", "Игровые записки, письма, заметки и короткие тексты."]
+];
+
+const BOOK_TYPE_FILTERS = [
+  ["book_series", "Книжные серии"],
+  ["notes", "Записки"],
+];
+
+const REGION_FILTERS = [
+  ["Мондштадт", "Мондштадт"],
+  ["Ли Юэ", "Ли Юэ"],
+  ["Инадзума", "Инадзума"],
+  ["Сумеру", "Сумеру"],
+  ["Фонтейн", "Фонтейн"],
+  ["Натлан", "Натлан"],
+  ["Нод-Край", "Нод-Край"],
+  ["Снежная", "Снежная"],
 ];
 
 const ITEM_GROUPS = [
@@ -2811,16 +2991,7 @@ function isDevelopmentMaterialsCatalog(config = getSectionConfig()) {
   return config?.id === "items" && state.subsection === "development_materials";
 }
 
-const DEVELOPMENT_REGION_FILTERS = [
-  ["Мондштадт", "Мондштадт"],
-  ["Ли Юэ", "Ли Юэ"],
-  ["Инадзума", "Инадзума"],
-  ["Сумеру", "Сумеру"],
-  ["Фонтейн", "Фонтейн"],
-  ["Натлан", "Натлан"],
-  ["Нод-Край", "Нод-Край"],
-  ["Снежная", "Снежная"],
-];
+const DEVELOPMENT_REGION_FILTERS = REGION_FILTERS;
 
 const DEVELOPMENT_MATERIAL_TYPE_FILTERS = [
   ["talents", "Таланты"],
@@ -2907,35 +3078,44 @@ function itemGroupTypeTitle(item, lang = "ru") {
   return item?.item_type_title?.[lang] || labels?.[lang] || labels?.ru || item?.item_type || "—";
 }
 
-function itemTypeFilterValue(item) {
-  if (item?.item_group === "development_materials") {
-    return normalizeDevelopmentMaterialType(item.material_type);
-  }
+function itemTypeFilterValue(item, config = getSectionConfig()) {
+  if (config.id === "books") return bookTypeValue(item);
+  if (config.id === "weapons") return String(item?.rarity || "");
+  if (item?.item_group === "development_materials") return normalizeDevelopmentMaterialType(item.material_type);
   return normalizeItemGroupType(item?.item_group || state.subsection, item?.item_type);
 }
 
-function typeFiltersForCurrentItemGroup(config = getSectionConfig()) {
+function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
+  if (config.id === "books") return BOOK_TYPE_FILTERS;
+  if (config.id === "weapons") return RARITY_FILTERS;
   if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
-  return ITEM_GROUP_TYPE_FILTERS[state.subsection] || [];
+  if (config.id === "items") return ITEM_GROUP_TYPE_FILTERS[state.subsection] || [];
+  return [];
 }
 
-function activeItemTypeFilters(config = getSectionConfig()) {
-  const filterState = state.filters.items;
-  const options = typeFiltersForCurrentItemGroup(config);
+function activeTypeFilters(config = getSectionConfig()) {
+  const filterState = state.filters[config.id];
+  const options = typeFiltersForCurrentCatalog(config);
   const defaults = options.map(([value]) => value);
-  const saved = filterState.typeFiltersByGroup?.[state.subsection];
+
+  let saved = [];
+  if (config.id === "items") {
+    saved = filterState.typeFiltersByGroup?.[state.subsection] || [];
+  } else {
+    saved = filterState.typeFilters || [];
+  }
 
   if (!Array.isArray(saved) || !saved.length) return defaults;
   return saved.filter(value => defaults.includes(value));
 }
 
-function renderItemTypeFilters(config) {
-  const options = typeFiltersForCurrentItemGroup(config);
+function renderTypeFilters(config) {
+  const options = typeFiltersForCurrentCatalog(config);
   if (!options.length) return "";
 
-  const activeTypes = new Set(activeItemTypeFilters(config));
+  const activeTypes = new Set(activeTypeFilters(config));
   return `
-    <div class="type-filter-row" aria-label="Тип">
+    <div class="type-filter-row" aria-label="Дополнительный фильтр">
       ${options.map(([value, label]) => `
         <label class="type-filter-chip">
           <input type="checkbox" value="${escapeHtml(value)}" ${activeTypes.has(value) ? "checked" : ""}>
@@ -3042,15 +3222,13 @@ const SECTIONS = [
     title: "Книги",
     description: "Книжные серии, записки и игровые тексты на разных языках.",
     data: () => BOOKS,
-    groups: BOOK_GROUPS,
-    groupField: "subtype",
-    defaultGroup: "book_series",
     filter: "region",
     filterLabel: "Все регионы",
-    columns: ["Название", "Регион", "Томов"],
-    empty: "В этом подразделе пока нет текстов.",
+    columns: ["Название", "Тип", "Регион", "Томов"],
+    empty: "В этом разделе пока нет текстов.",
     row: item => [
       renderTitleCell(item),
+      renderBookTypeCell(item),
       escapeHtml(item.region || "—"),
       escapeHtml(item.volume_count || item.volumes?.length || 1)
     ]
@@ -3140,13 +3318,14 @@ const state = {
   itemMaterial: "",
   itemReadAll: false,
   filters: {
-    books: { query: "", filter: "all", sort: "asc" },
-    artifacts: { query: "", filter: "all", sort: "asc" },
-    weapons: { query: "", filter: "all", sort: "asc" },
+    books: { query: "", filter: "all", sort: "asc", page: 1, typeFilters: ["book_series", "notes"] },
+    artifacts: { query: "", filter: "all", sort: "asc", page: 1 },
+    weapons: { query: "", filter: "all", sort: "asc", page: 1, typeFilters: ["5", "4", "3", "2", "1"] },
     items: {
       query: "",
       filter: "all",
       sort: "asc",
+      page: 1,
       typeFiltersByGroup: {
         development_materials: ["talents", "character_ascension", "weapon_ascension"],
         teyvat_resources: ["ore", "local_specialty", "plant", "animal"],
@@ -3160,6 +3339,7 @@ const state = {
 const app = document.getElementById("app");
 const nav = document.getElementById("nav");
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
+const CATALOG_PAGE_SIZE = 20;
 
 function debounce(fn, delay = 160) {
   let timer = 0;
@@ -3360,6 +3540,14 @@ function langLabel(lang) {
 
 function labelFromOptions(value, options) {
   return options.find(([key]) => key === value)?.[1] || "";
+}
+
+function bookTypeValue(item) {
+  return item?.subtype || item?.book_type || "book_series";
+}
+
+function renderBookTypeCell(item) {
+  return `<span class="common-enemy-type-chip">${escapeHtml(labelFromOptions(bookTypeValue(item), BOOK_TYPE_FILTERS) || "Книжная серия")}</span>`;
 }
 
 function iconFor(item) {
@@ -3574,6 +3762,28 @@ function groupLabel(config, key) {
   return (config.groups || []).find(([value]) => value === key)?.[1] || key;
 }
 
+function catalogBackLabel(config, groupKey = state.subsection) {
+  if (config.id === "books") return "← Назад к списку книг";
+  if (config.id === "artifacts") return "← Назад к списку артефактов";
+  if (config.id === "weapons") return "← Назад к списку оружия";
+
+  if (config.id === "items") {
+    const labels = {
+      weekly_bosses: "еженедельных боссов",
+      world_bosses: "мировых боссов",
+      common_enemies: "обычных противников",
+      development_materials: "материалов развития",
+      teyvat_resources: "ресурсов Тейвата",
+      food_potions: "еды и зелий",
+      useful_items: "полезных предметов",
+      misc: "прочего",
+    };
+    return `← Назад к списку ${labels[groupKey] || "предметов"}`;
+  }
+
+  return `← Назад к списку ${String(config.title || "каталога").toLocaleLowerCase("ru-RU")}`;
+}
+
 function setRoute(section, entryId = null, subsection = null) {
   const config = getSectionConfig(section);
   state.section = section;
@@ -3632,19 +3842,8 @@ function collectionForCatalog(config) {
 
 function optionsFor(config) {
   if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
-  if (config.id === "items" && state.subsection && (isDevelopmentMaterialsCatalog(config) || itemGroupUsesTypeFilters(state.subsection))) return DEVELOPMENT_REGION_FILTERS;
+  if (config.filter === "region") return REGION_FILTERS;
   if (config.fixedOptions) return config.fixedOptions;
-  if (config.filter === "region") {
-    const values = new Set();
-    collectionForCatalog(config).forEach(item => {
-      String(item.region || "")
-        .split(",")
-        .map(region => region.trim())
-        .filter(Boolean)
-        .forEach(region => values.add(region));
-    });
-    return [...values].sort(collator.compare).map(value => [value, value]);
-  }
   return [];
 }
 
@@ -3667,9 +3866,9 @@ function itemMatchesFilter(item, config, selected) {
 
   if (!matchesMainFilter) return false;
 
-  const typeOptions = typeFiltersForCurrentItemGroup(config);
+  const typeOptions = typeFiltersForCurrentCatalog(config);
   if (typeOptions.length) {
-    return activeItemTypeFilters(config).includes(itemTypeFilterValue(item));
+    return activeTypeFilters(config).includes(itemTypeFilterValue(item, config));
   }
 
   return true;
@@ -3774,9 +3973,49 @@ function renderGroupSelector(config) {
   });
 }
 
+function renderPaginationControls(config, currentPage, totalPages, totalRows) {
+  if (totalPages <= 1) return "";
+
+  const pages = [];
+  for (let page = 1; page <= totalPages; page += 1) {
+    if (page === 1 || page === totalPages || Math.abs(page - currentPage) <= 1) {
+      pages.push(page);
+    } else if (pages[pages.length - 1] !== "…") {
+      pages.push("…");
+    }
+  }
+
+  return `
+    <nav class="pagination" aria-label="Страницы каталога">
+      <button type="button" data-catalog-page="${currentPage - 1}" ${currentPage <= 1 ? "disabled" : ""}>‹</button>
+      ${pages.map(page => page === "…"
+        ? `<span class="pagination-gap">…</span>`
+        : `<button type="button" data-catalog-page="${page}" class="${page === currentPage ? "active" : ""}" aria-current="${page === currentPage ? "page" : "false"}">${page}</button>`
+      ).join("")}
+      <button type="button" data-catalog-page="${currentPage + 1}" ${currentPage >= totalPages ? "disabled" : ""}>›</button>
+      <span class="pagination-count">${totalRows} записей</span>
+    </nav>
+  `;
+}
+
+function bindPagination(config) {
+  document.querySelectorAll("[data-catalog-page]").forEach(button => {
+    button.addEventListener("click", () => {
+      const page = Number(button.dataset.catalogPage);
+      if (!Number.isFinite(page)) return;
+      state.filters[config.id].page = page;
+      updateCatalogTable(config);
+    });
+  });
+}
+
 function renderCatalogTable(config) {
-  const rows = filteredEntries(config);
+  const allRows = filteredEntries(config);
   const filterState = state.filters[config.id];
+  const totalPages = Math.max(1, Math.ceil(allRows.length / CATALOG_PAGE_SIZE));
+  const currentPage = Math.min(Math.max(1, Number(filterState.page) || 1), totalPages);
+  filterState.page = currentPage;
+  const rows = allRows.slice((currentPage - 1) * CATALOG_PAGE_SIZE, currentPage * CATALOG_PAGE_SIZE);
   const sortUp = filterState.sort === "asc" ? "active" : "";
   const sortDown = filterState.sort === "desc" ? "active" : "";
   const columns = typeof config.columns === "function" ? config.columns() : config.columns;
@@ -3801,6 +4040,7 @@ function renderCatalogTable(config) {
       </div>
       ${rows.map(item => catalogRow(item, config)).join("") || `<div class="empty"><div class="empty-card">${escapeHtml(config.empty)}</div></div>`}
     </div>
+    ${renderPaginationControls(config, currentPage, totalPages, allRows.length)}
   `;
 }
 
@@ -3838,7 +4078,7 @@ function renderCatalog(config) {
           <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
           ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
         </select>
-        ${renderItemTypeFilters(config)}
+        ${renderTypeFilters(config)}
       </div>
 
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
@@ -3852,12 +4092,14 @@ function renderCatalog(config) {
 function updateCatalogTable(config) {
   document.getElementById("catalog-holder").innerHTML = renderCatalogTable(config);
   bindCatalogRows(config);
+  bindPagination(config);
   document.getElementById("sort-title")?.addEventListener("click", () => toggleSort(config));
 }
 
 function toggleSort(config) {
   const filterState = state.filters[config.id];
   filterState.sort = filterState.sort === "asc" ? "desc" : "asc";
+  filterState.page = 1;
   updateCatalogTable(config);
 }
 
@@ -3886,12 +4128,14 @@ function bindCatalog(config) {
 
   search?.addEventListener("input", event => {
     filterState.query = event.target.value;
+    filterState.page = 1;
     clearSearch?.classList.toggle("visible", Boolean(filterState.query));
     debouncedUpdateCatalog();
   });
 
   clearSearch?.addEventListener("click", () => {
     filterState.query = "";
+    filterState.page = 1;
     if (search) {
       search.value = "";
       search.focus();
@@ -3902,38 +4146,47 @@ function bindCatalog(config) {
 
   filter?.addEventListener("change", event => {
     filterState.filter = event.target.value;
+    filterState.page = 1;
     updateCatalogTable(config);
   });
 
   document.querySelectorAll(".type-filter-chip input").forEach(input => {
     input.addEventListener("change", () => {
       const checked = Array.from(document.querySelectorAll(".type-filter-chip input:checked")).map(item => item.value);
-      if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
-      filterState.typeFiltersByGroup[state.subsection] = checked.length ? checked : [];
+      filterState.page = 1;
+      if (config.id === "items") {
+        if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
+        filterState.typeFiltersByGroup[state.subsection] = checked.length ? checked : [];
+      } else {
+        filterState.typeFilters = checked.length ? checked : [];
+      }
       updateCatalogTable(config);
     });
   });
 
   document.getElementById("sort-title")?.addEventListener("click", () => toggleSort(config));
   bindCatalogRows(config);
+  bindPagination(config);
 }
 
 function renderBookDetail(book) {
   app.innerHTML = `
     <section class="page-card book-page">
-      <button class="back-link" id="back-books" type="button">← Назад к списку</button>
+      <button class="back-link" id="back-books" type="button">← Назад к списку книг</button>
 
       <div class="page-head">
         <h1>${escapeHtml(titleOf(book, "ru"))}</h1>
         <div class="subtitle">${escapeHtml(titleOf(book, "en"))} · ${escapeHtml(titleOf(book, "zh"))}</div>
       </div>
 
-      <div class="reader-toolbar" aria-label="Управление чтением">
+      <div class="reader-toolbar book-toolbar" aria-label="Управление чтением">
         <div class="volume-strip" aria-label="Оглавление томов">
           <button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>
-          <span class="toolbar-label">Тома</span>
-          <div class="volume-scroll">
-            ${book.volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("")}
+          <div class="parts-row">
+            <span class="toolbar-label">Тома</span>
+            <div class="volume-scroll">
+              ${book.volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("")}
+            </div>
           </div>
         </div>
       </div>
@@ -4011,7 +4264,7 @@ function renderArtifactDetail(artifact) {
 
   app.innerHTML = `
     <section class="page-card book-page">
-      <button class="back-link" id="back-artifacts" type="button">← Назад к артефактам</button>
+      <button class="back-link" id="back-artifacts" type="button">← Назад к списку артефактов</button>
 
       <div class="page-head">
         <h1>${escapeHtml(titleOf(artifact, "ru"))}</h1>
@@ -4206,7 +4459,7 @@ function renderEnemyDropsDetail(item, config) {
 
   app.innerHTML = `
     <section class="page-card book-page${commonEnemyLootPage ? " common-enemy-loot-page" : ""}${developmentMaterialPage ? " development-material-page" : ""}${bossLootPage ? " boss-loot-page" : ""}">
-      <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(groupLabel(config, state.subsection) || config.title)}»</button>
+      <button class="back-link" id="back-section" type="button">${escapeHtml(catalogBackLabel(config, state.subsection))}</button>
       ${pageHeadBlock}
 
       ${enemyDescriptionBlock}
@@ -4392,7 +4645,7 @@ function renderGenericDetail(item, config) {
 
   app.innerHTML = `
     <section class="page-card book-page">
-      <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(config.title)}»</button>
+      <button class="back-link" id="back-section" type="button">${escapeHtml(catalogBackLabel(config, state.subsection))}</button>
       <div class="page-head">
         <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
         <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
