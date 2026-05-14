@@ -1,0 +1,38 @@
+{
+  "id": "hilichurl_grenadier",
+  "category": "enemies",
+  "enemy_group": "hilichurls",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+  "title": {
+    "ru": "Хиличурл-гренадёр",
+    "en": "Hilichurl Grenadier",
+    "zh": "爆弹丘丘人"
+  },
+  "region": "Тейват",
+  "tags": [
+    "Хиличурл-гренадёр",
+    "Hilichurl Grenadier",
+    "爆弹丘丘人"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти хитрые ребятки научились использовать Пиро слаймов в качестве метательного оружия. Умелые бомбометатели способны уничтожить четыре деревянных чучела за один бросок.",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese sneaky fellows are skilled in the use of Pyro Slimes, using them as weapons to attack intruders. Skilled grenadiers may be able to destroy four wooden dummies in a single throw.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n擅长活用火史莱姆的狡猾家伙，把火史莱姆用作迎击来犯者的武器。利用火史莱姆的爆炸，投掷技巧精湛的爆弹丘丘人或许可以一次击碎五根木柱吧。"
+  },
+  "description": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти хитрые ребятки научились использовать Пиро слаймов в качестве метательного оружия. Умелые бомбометатели способны уничтожить четыре деревянных чучела за один бросок.",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese sneaky fellows are skilled in the use of Pyro Slimes, using them as weapons to attack intruders. Skilled grenadiers may be able to destroy four wooden dummies in a single throw.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n擅长活用火史莱姆的狡猾家伙，把火史莱姆用作迎击来犯者的武器。利用火史莱姆的爆炸，投掷技巧精湛的爆弹丘丘人或许可以一次击碎五根木柱吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

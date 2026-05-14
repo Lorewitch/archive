@@ -1,0 +1,38 @@
+{
+  "id": "electro_samachurl",
+  "category": "enemies",
+  "enemy_group": "hilichurls",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
+  "title": {
+    "ru": "Электро шамачурл",
+    "en": "Electro Samachurl",
+    "zh": "雷丘丘萨满"
+  },
+  "region": "Тейват",
+  "tags": [
+    "Электро шамачурл",
+    "Electro Samachurl",
+    "雷丘丘萨满"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Электро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Поскольку они обладают высоким мастерством и могут служить проводниками молнии, они могут написать песню из раскатов грома.",
+    "en": "A wizened, mumbling Hilichurl, one that prays to Electro.\nHilichurls especially gifted in commanding elements who often reach the zenith of their skill in their twilight years. Since they possess such advanced skill in creating electricity and summoning thunder, you may as well use the crackling sound to compose an elegy.",
+    "zh": "嘟嘟囔囔的老年丘丘人，雷元素的祈求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，既然掌握了掣电引雷的高超技艺，便用这霹雳之声谱写挽歌吧。"
+  },
+  "description": {
+    "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Электро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Поскольку они обладают высоким мастерством и могут служить проводниками молнии, они могут написать песню из раскатов грома.",
+    "en": "A wizened, mumbling Hilichurl, one that prays to Electro.\nHilichurls especially gifted in commanding elements who often reach the zenith of their skill in their twilight years. Since they possess such advanced skill in creating electricity and summoning thunder, you may as well use the crackling sound to compose an elegy.",
+    "zh": "嘟嘟囔囔的老年丘丘人，雷元素的祈求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，既然掌握了掣电引雷的高超技艺，便用这霹雳之声谱写挽歌吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

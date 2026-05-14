@@ -1,0 +1,38 @@
+{
+  "id": "cryo_hilichurl_shooter",
+  "category": "enemies",
+  "enemy_group": "hilichurls",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+  "title": {
+    "ru": "Крио хиличурл-стрелок",
+    "en": "Cryo Hilichurl Shooter",
+    "zh": "冰箭丘丘人"
+  },
+  "region": "Тейват",
+  "tags": [
+    "Крио хиличурл-стрелок",
+    "Cryo Hilichurl Shooter",
+    "冰箭丘丘人"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники болтов покрыты нетающим льдом. Рассказывают, что раны от подобных болтов заживают очень медленно, потому что холод замедляет циркуляцию крови.",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
+  },
+  "description": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники болтов покрыты нетающим льдом. Рассказывают, что раны от подобных болтов заживают очень медленно, потому что холод замедляет циркуляцию крови.",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

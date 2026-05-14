@@ -1,0 +1,38 @@
+{
+  "id": "thunderhelm_lawachurl",
+  "category": "enemies",
+  "enemy_group": "hilichurls",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
+  "title": {
+    "ru": "Лавачурл с громовым шлемом",
+    "en": "Thunderhelm Lawachurl",
+    "zh": "丘丘雷兜王"
+  },
+  "region": "Тейват",
+  "tags": [
+    "Лавачурл с громовым шлемом",
+    "Thunderhelm Lawachurl",
+    "丘丘雷兜王"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Загадочный «вождь» хиличурлов притаился в сердце грозы.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело пропитано энергией Электро, а элементальная энергия прорастает сквозь трещины на его теле в виде Электро кристаллов.",
+    "en": "A mysterious \"lord\" of hilichurls that strides through the thunderstorm.\nThis huge hilichurl is referred to as \"Lawa\" by its brethren. Its giant body is so saturated with Electro energy that Elemental Energy seeps through the cracks in its body in the form of Electro Crystal growths.",
+    "zh": "雷暴中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。"
+  },
+  "description": {
+    "ru": "Загадочный «вождь» хиличурлов притаился в сердце грозы.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело пропитано энергией Электро, а элементальная энергия прорастает сквозь трещины на его теле в виде Электро кристаллов.",
+    "en": "A mysterious \"lord\" of hilichurls that strides through the thunderstorm.\nThis huge hilichurl is referred to as \"Lawa\" by its brethren. Its giant body is so saturated with Electro energy that Elemental Energy seeps through the cracks in its body in the form of Electro Crystal growths.",
+    "zh": "雷暴中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

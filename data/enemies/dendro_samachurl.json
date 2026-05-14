@@ -1,0 +1,38 @@
+{
+  "id": "dendro_samachurl",
+  "category": "enemies",
+  "enemy_group": "hilichurls",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
+  "title": {
+    "ru": "Дендро шамачурл",
+    "en": "Dendro Samachurl",
+    "zh": "草丘丘萨满"
+  },
+  "region": "Тейват",
+  "tags": [
+    "Дендро шамачурл",
+    "Dendro Samachurl",
+    "草丘丘萨满"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Умудрённый опытом бормочущий хиличурл, пробуждающий могущество Дендро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Под маской скрывается злая гримаса, а злобный шёпот плетётся словно отравленный плющ.",
+    "en": "A wizened, mumbling hilichurl, one that awakens the might of Dendro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it.",
+    "zh": "嘟嘟囔囔的老年丘丘人，草元素的唤醒者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。承载着面具下的不甘，憎恨人心的毒藤随呢喃蔓生而出。"
+  },
+  "description": {
+    "ru": "Умудрённый опытом бормочущий хиличурл, пробуждающий могущество Дендро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Под маской скрывается злая гримаса, а злобный шёпот плетётся словно отравленный плющ.",
+    "en": "A wizened, mumbling hilichurl, one that awakens the might of Dendro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it.",
+    "zh": "嘟嘟囔囔的老年丘丘人，草元素的唤醒者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。承载着面具下的不甘，憎恨人心的毒藤随呢喃蔓生而出。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "wooden_shield_hilichurl_guard",
+  "category": "enemies",
+  "enemy_group": "hilichurls",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+  "title": {
+    "ru": "Хиличурл с деревянным щитом",
+    "en": "Wooden Shield Hilichurl Guard",
+    "zh": "木盾丘丘人"
+  },
+  "region": "Тейват",
+  "tags": [
+    "Хиличурл с деревянным щитом",
+    "Wooden Shield Hilichurl Guard",
+    "木盾丘丘人"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-воины с деревянными щитами. Эти щиты - не только крепкие защитные инструменты, но ещё и большая ценность для членов племени. Согласно многим отчётам, хиличурлы часто нападают на лагеря путешественников, чтобы похитить крышки от походных котлов.",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl warriors who have wooden shields. These shields are not only sturdy defensive tools but also treasured items within the tribe. According to many reports, hilichurls will often charge at travelers making camp to cook and will snatch their pot lids after chasing them away.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n拥有木盾的丘丘人战士，木盾不仅是坚固的防具，也是属于部落的珍贵宝物。根据不少人的报告，丘丘人会冲向扎营烹饪的旅人，撵走他们，然后抢走他们的锅盖。"
+  },
+  "description": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-воины с деревянными щитами. Эти щиты - не только крепкие защитные инструменты, но ещё и большая ценность для членов племени. Согласно многим отчётам, хиличурлы часто нападают на лагеря путешественников, чтобы похитить крышки от походных котлов.",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl warriors who have wooden shields. These shields are not only sturdy defensive tools but also treasured items within the tribe. According to many reports, hilichurls will often charge at travelers making camp to cook and will snatch their pot lids after chasing them away.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n拥有木盾的丘丘人战士，木盾不仅是坚固的防具，也是属于部落的珍贵宝物。根据不少人的报告，丘丘人会冲向扎营烹饪的旅人，撵走他们，然后抢走他们的锅盖。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

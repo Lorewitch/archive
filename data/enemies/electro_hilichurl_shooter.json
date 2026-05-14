@@ -1,0 +1,38 @@
+{
+  "id": "electro_hilichurl_shooter",
+  "category": "enemies",
+  "enemy_group": "hilichurls",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+  "title": {
+    "ru": "Электро хиличурл-стрелок",
+    "en": "Electro Hilichurl Shooter",
+    "zh": "雷箭丘丘人"
+  },
+  "region": "Тейват",
+  "tags": [
+    "Электро хиличурл-стрелок",
+    "Electro Hilichurl Shooter",
+    "雷箭丘丘人"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов изготовлены из Электро кристаллов и при попадании наносят электрический урон. Говорят, что самые искусные стрелки могут выпустить за один раз до пяти болтов. Впечатляющий результат!",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are crafted from carved Electro Crystals that will deliver an electric shock upon impact. They say that hilichurl archers of exceptional skill can fire five crossbow bolts at once — a most impressive feat indeed.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头以电气水晶的碎片磨削而成，以便命中时造成电击。据说射术百里挑一的丘丘人射手可以一次发射五枚箭矢，非常厉害。"
+  },
+  "description": {
+    "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов изготовлены из Электро кристаллов и при попадании наносят электрический урон. Говорят, что самые искусные стрелки могут выпустить за один раз до пяти болтов. Впечатляющий результат!",
+    "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are crafted from carved Electro Crystals that will deliver an electric shock upon impact. They say that hilichurl archers of exceptional skill can fire five crossbow bolts at once — a most impressive feat indeed.",
+    "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头以电气水晶的碎片磨削而成，以便命中时造成电击。据说射术百里挑一的丘丘人射手可以一次发射五枚箭矢，非常厉害。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

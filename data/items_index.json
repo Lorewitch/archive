@@ -1,5 +1,74 @@
 [
   {
+    "id": "hilichurl_masks",
+    "category": "items",
+    "icon": "",
+    "title": {
+      "ru": "",
+      "en": "",
+      "zh": ""
+    },
+    "region": "",
+    "item_group": "common_enemies",
+    "entry_type": "enemy_drops",
+    "materials": [
+      {
+        "key": "damaged_mask",
+        "title": {
+          "ru": "Разбитая маска",
+          "en": "Damaged Mask",
+          "zh": "破损的面具"
+        },
+        "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+      },
+      {
+        "key": "stained_mask",
+        "title": {
+          "ru": "Грязная маска",
+          "en": "Stained Mask",
+          "zh": "污秽的面具"
+        },
+        "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+      },
+      {
+        "key": "ominous_mask",
+        "title": {
+          "ru": "Зловещая маска",
+          "en": "Ominous Mask",
+          "zh": "不祥的面具"
+        },
+        "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [
+      "hilichurl"
+    ],
+    "dropped_by_enemies": [
+      {
+        "id": "hilichurl",
+        "title": {
+          "ru": "Хиличурл",
+          "en": "Hilichurl",
+          "zh": "丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+        "enemy_group": "hilichurls"
+      }
+    ],
+    "dropped_by_count": 1,
+    "tags": [
+      "Маски хиличурлов",
+      "обычные противники"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "common_enemies enemy_drops маски хиличурлов обычные противники hilichurl хиличурл 丘丘人 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具 разбитая костяная маска, давным-давно принадлежавшая какому-то хиличурлу. разбита на мелкие осколки, поэтому не может выполнять свою основную функцию. a broken bone mask that once belonged to some hilichurl. now more broken than complete, it can no longer perform its primary function. 破碎的骨质面具，曾经属于某个丘丘人。 破损的部分比完整的部分更多，已经失去了假面应有的功能。 костяная маска со слабым запахом, покрытая странными пятнами. хоть и предназначена для лица, но только хиличурл может носить подобное. a bone mask, covered in unidentifiable stains, that emanates a mysterious odor. yet such is the devotion of hilichurls to masks that they will wear it nonetheless. 沾满了难以辨认的污渍，散发着微妙气味的骨质面具。 即使这样也要戴在脸上，这就是丘丘人的执着。 покрытая узором костяная маска, предназначенная для запугивания врагов. никто не знает, почему хиличурлы никогда не снимают свои маски. есть версия, что они просто боятся своего отражения в воде. a glossy bone mask with oil markings painted on it, meant to intimidate enemies. no one really knows why hilichurls are so fascinated with masks. some say that it's because they don't want to see their own reflections in the water. 光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。"
+  },
+  {
     "id": "01_heretic_of_the_false_moon",
     "category": "items",
     "icon": "assets/icons/enemies/01_heretic_of_the_false_moon.webp",
