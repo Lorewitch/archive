@@ -106,10 +106,6 @@ const RARITY_FILTERS = [
   ["1", "1★"],
 ];
 
-const BOOK_GROUPS = [
-  ["book_series", "Книжные серии", "Многотомные книги и полноценные книжные циклы."],
-  ["notes", "Записки", "Игровые записки, письма, заметки и короткие тексты."]
-];
 
 const BOOK_TYPE_FILTERS = [
   ["book_series", "Книжные серии"],
@@ -128,14 +124,14 @@ const REGION_FILTERS = [
 ];
 
 const ITEM_GROUPS = [
-  ["weekly_bosses", "Еженедельные боссы", "Материалы и тексты, связанные с еженедельными боссами."],
-  ["world_bosses", "Мировые боссы", "Лут и материалы мировых боссов."],
-  ["common_enemies", "Обычные противники", "Материалы с обычных противников."],
-  ["development_materials", "Материалы развития", "Материалы талантов, возвышения персонажей и возвышения оружия."],
-  ["teyvat_resources", "Ресурсы Тейвата", "Растения, руды, диковины и собираемые ресурсы."],
-  ["food_potions", "Еда и зелья", "Блюда, ингредиенты, зелья и расходники."],
-  ["useful_items", "Полезные предметы", "Инструменты, гаджеты и практичные предметы."],
-  ["misc", "Прочее", "То, что не вошло в остальные категории."]
+  ["weekly_bosses", "Материалы с еженедельных боссов", "Редкие трофеи могущественных противников: следы тяжёлых битв, где механика встречается с лором."],
+  ["world_bosses", "Материалы с мировых боссов", "Диковинные трофеи владык открытого мира: кристаллы, ядра и осколки сил для возвышения персонажей."],
+  ["common_enemies", "Материалы с обычных противников", "Повседневная добыча с монстров и вражеских отрядов: маски, знаки, обломки и другие маленькие улики мира."],
+  ["development_materials", "Материалы развития", "Книги талантов и материалы возвышения: тихие ступени роста, через которые персонажи становятся сильнее."],
+  ["teyvat_resources", "Ресурсы Тейвата", "Руды, растения, диковины и собираемые редкости: природные следы регионов, спрятанные в траве, камне и лунном свете."],
+  ["food_potions", "Еда и зелья", "Блюда, ингредиенты и алхимические зелья: всё, что лечит, усиливает, согревает и иногда подозрительно вкусно пахнет."],
+  ["useful_items", "Полезные предметы", "Инструменты, гаджеты и особые вещицы: маленькие помощники путешествия, без которых дорога становится куда капризнее."],
+  ["misc", "Прочее", "Редкие и странные находки без отдельной полки: всё, что не пожелало аккуратно вписаться в другие разделы."]
 ];
 
 const ENEMY_DROP_GROUPS = ["weekly_bosses", "world_bosses", "common_enemies"];
@@ -387,7 +383,7 @@ const SECTIONS = [
     id: "books",
     icon: "assets/icons/03_book_icon.webp",
     title: "Книги",
-    description: "Книжные серии, записки и игровые тексты на разных языках.",
+    description: "Книги, записки, письма и разрозненные тексты Тейвата: голоса прошлого, путевые заметки, легенды и мелкие бумажные следы большой истории.",
     data: () => BOOKS,
     filter: "region",
     filterLabel: "Все регионы",
@@ -404,7 +400,7 @@ const SECTIONS = [
     id: "artifacts",
     icon: "assets/icons/04_cup_icon.webp",
     title: "Артефакты",
-    description: "Каталог сетов артефактов: названия, регионы, игровые описания и тексты на разных языках.",
+    description: "Сеты артефактов: пять частей одного предания, где описание вещи часто звучит как обломок древней хроники.",
     data: () => ARTIFACTS,
     filter: "region",
     filterLabel: "Все регионы",
@@ -420,7 +416,7 @@ const SECTIONS = [
     id: "weapons",
     icon: "assets/icons/01_weapon_icon.webp",
     title: "Оружие",
-    description: "Каталог оружия с делением по типу: одноручное, двуручное, луки, катализаторы и древковое.",
+    description: "Оружие: клинки, луки, катализаторы и древковое оружие с историями владельцев, клятв, потерь и старых битв.",
     data: () => WEAPONS,
     filter: "weapon_type",
     filterLabel: "Все типы",
@@ -437,7 +433,7 @@ const SECTIONS = [
     id: "items",
     icon: "assets/icons/02_inventory_icon.webp",
     title: "Предметы",
-    description: "Большой каталог материалов, ресурсов, лута, еды, зелий и полезных предметов.",
+    description: "Предметы и материалы: трофеи, ресурсы, еда, инструменты и другие маленькие ключи к устройству мира.",
     data: () => ITEMS,
     groups: ITEM_GROUPS,
     groupField: "item_group",
@@ -1113,6 +1109,15 @@ function catalogRow(item, config) {
   `;
 }
 
+function renderArchiveIntro() {
+  return `
+    <div class="archive-intro" aria-label="Описание архива">
+      <p><strong>Архив Лороведьмы</strong> — тихая полка для игровых текстов <em>Genshin Impact</em>: книг, описаний, предметов, оружия, артефактов и материалов. Он создан, чтобы тексты было легче находить, сверять и разбирать без бесконечных поисков по разным уголкам Тейвата.</p>
+      <p class="archive-intro-legal">Оригинальный игровой текст: <strong>Genshin Impact</strong>.<br>Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.</p>
+    </div>
+  `;
+}
+
 function renderGroupSelector(config) {
   const groups = config.groups || [];
   app.innerHTML = `
@@ -1120,6 +1125,7 @@ function renderGroupSelector(config) {
       <div class="page-head">
         <h1>${escapeHtml(config.title)}</h1>
         <p class="lead">${escapeHtml(config.description)}</p>
+        ${renderArchiveIntro()}
       </div>
       <div class="group-grid">
         ${groups.map(([key, label, description]) => {
@@ -1250,6 +1256,7 @@ function renderCatalog(config) {
       <div class="page-head">
         <h1>${escapeHtml(subsectionTitle || config.title)}</h1>
         <p class="lead">${escapeHtml(subsectionTitle ? config.description : config.description)}</p>
+        ${renderArchiveIntro()}
       </div>
 
       ${config.groups && state.subsection ? `
@@ -1262,7 +1269,7 @@ function renderCatalog(config) {
       <div class="toolbar">
         <label class="search" aria-label="Поиск">
           <span class="search-symbol">⌕</span>
-          <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="${escapeHtml(isCommonEnemyCatalog(config) || isDevelopmentMaterialsCatalog(config) ? "Материал, тип или тег..." : "Название, тип или тег...")}" value="${escapeHtml(filterState.query)}">
+          <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Начни вводить текст…" value="${escapeHtml(filterState.query)}">
           <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
         </label>
 
