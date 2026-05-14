@@ -53,19 +53,22 @@ And that revelation... is the first light of the new world.
 
 ---
 
+# material_1_id: mask_of_the_virtuous_doctor
 # material_1_ru: Маска мудрого лекаря
 # material_1_en: Mask of the Virtuous Doctor
-# material_1_zh: 医的假面
+# material_1_zh: 贤医的假面
 # material_1_icon: assets/icons/items/weekly_bosses/01_mask_of_the_virtuous_doctor.webp
 
+# material_2_id: elixir_of_the_heretic
 # material_2_ru: Еретический эликсир
 # material_2_en: Elixir of the Heretic
 # material_2_zh: 异端的瓶剂
 # material_2_icon: assets/icons/items/weekly_bosses/02_elixir_of_the_heretic.webp
 
+# material_3_id: madmans_restraint
 # material_3_ru: Оковы безумца
 # material_3_en: Madman's Restraint
-# material_3_zh: 材料三
+# material_3_zh: 狂人的约束
 # material_3_icon: assets/icons/items/weekly_bosses/03_madmans_restraint.webp
 
 ---
