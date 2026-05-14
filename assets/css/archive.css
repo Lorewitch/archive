@@ -3113,3 +3113,65 @@ h3,
     margin: 2px 12px 8px 0;
   }
 }
+
+
+/* v3: item/material/enemy detail icons wrap text on narrow portrait mobile instead of centering above it */
+@media (max-width: 430px) {
+  .material-reader-body::after,
+  .item-description-prose::after,
+  .enemy-description-panel::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  .material-float-icon,
+  .item-description-float-icon,
+  .enemy-description-icon {
+    float: left;
+    display: block;
+    margin: 2px 14px 8px 0;
+  }
+
+  .material-float-icon,
+  .item-description-float-icon {
+    width: 84px;
+    height: 84px;
+  }
+
+  .enemy-description-icon {
+    width: 76px;
+    height: 76px;
+  }
+
+  .common-enemy-material-card .material-float-icon {
+    width: 76px;
+    height: 76px;
+    margin-right: 12px;
+  }
+}
+
+@media (max-width: 380px) {
+  .material-float-icon,
+  .item-description-float-icon,
+  .enemy-description-icon {
+    margin: 2px 12px 8px 0;
+  }
+
+  .material-float-icon,
+  .item-description-float-icon {
+    width: 72px;
+    height: 72px;
+  }
+
+  .enemy-description-icon {
+    width: 66px;
+    height: 66px;
+  }
+
+  .common-enemy-material-card .material-float-icon {
+    width: 66px;
+    height: 66px;
+    margin-right: 10px;
+  }
+}
