@@ -1,0 +1,38 @@
+# id: wooden_shieldwall_mitachurl
+# category: enemies
+# enemy_group: hilichurls
+# enemy_type: common_enemy
+
+# tags: Митачурл с деревянным щитом, Wooden Shieldwall Mitachurl, 木盾丘丘暴徒
+
+# title_ru: Митачурл с деревянным щитом
+# title_en: Wooden Shieldwall Mitachurl
+# title_zh: 木盾丘丘暴徒
+# region: Тейват
+
+# icon: assets/icons/enemies/common_enemies/mitachurl.webp
+
+---
+
+## RU
+
+Мускулистый хиличурл, закалённый в бесчисленных боях.
+Они научились создавать крепкие щиты из Дендро слаймов.
+Крепкие, мохнатые, рельефные силуэты этих созданий обеспечивают им достаточно высокое положение в племенной иерархии. Они способны отражать нападения путешественников на лагеря хиличурлов.
+
+## EN
+
+A muscular hilichurl who has been forged in countless fights.
+They know how to use Dendro Slimes to create tough shields which they wield in combat.
+With their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.
+
+## ZH
+
+经历无数战斗历练的丘丘人大块头。
+会利用草史莱姆创造坚固的木盾，进行战斗。
+拥有强健的肌肉，油亮的鬃毛，可靠的宽厚背影，一顿饭吃下很多肉的豪放，能为丘丘人抵挡毫不留情的冒险者，在部族当中有着相当崇高的地位。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+

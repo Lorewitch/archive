@@ -1,0 +1,35 @@
+# id: ice_shieldwall_mitachurl
+# category: enemies
+# enemy_group: hilichurls
+# enemy_type: common_enemy
+
+# tags: Митачурл с ледяным щитом, Ice Shieldwall Mitachurl, 冰盾丘丘暴徒
+
+# title_ru: Митачурл с ледяным щитом
+# title_en: Ice Shieldwall Mitachurl
+# title_zh: 冰盾丘丘暴徒
+# region: Тейват
+
+# icon: assets/icons/enemies/common_enemies/mitachurl.webp
+
+---
+
+## RU
+
+Мускулистый хиличурл с огромным ледяным щитом.
+Можно предположить, что такие крупные создания должны сжигать огромное количество калорий, чтобы поддерживать свой организм. Эл Маск предложил концепцию «индекса Митачурла». Данный индекс указывает процентное содержание митачурлов в популяции хиличурлов, при котором данной популяции будет хватать ресурсов для пропитания.
+
+## EN
+
+A muscular hilichurl that uses solid ice as a shield, wielding it in battle.
+Reason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the "Mitachurl Index." This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.
+
+## ZH
+
+以严冰为盾的丘丘人大块头，会利用坚冰的巨盾战斗。
+普遍而言，体积庞大、活动频繁的生物需要消耗大量的热量来维持生存。由此，当代的艾尔·马斯克提出了「暴徒指数」，根据某地区中活动的丘丘暴徒数量在丘丘人总人口中占的比例，计算这些丘丘人食物获取的丰富、稳定性。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+

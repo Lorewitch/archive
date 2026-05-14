@@ -1,0 +1,38 @@
+# id: blazing_axe_mitachurl
+# category: enemies
+# enemy_group: hilichurls
+# enemy_type: common_enemy
+
+# tags: Митачурл с огненным топором, Blazing Axe Mitachurl, 火斧丘丘暴徒
+
+# title_ru: Митачурл с огненным топором
+# title_en: Blazing Axe Mitachurl
+# title_zh: 火斧丘丘暴徒
+# region: Тейват
+
+# icon: assets/icons/enemies/common_enemies/mitachurl.webp
+
+---
+
+## RU
+
+Мускулистый хиличурл с огромным топором.
+Они используют Пиро слаймов, чтобы пропитать лезвие Пиро элементом и сделать свои удары ещё более смертоносными.
+Обычно частая закалка оружия приводит к быстрому износу металла, однако сила хиличурлов настолько велика, что они способны нанести чудовищный урон даже затупленным оружием.
+
+## EN
+
+Muscular hilichurls who wield large two-handed axes.
+Attacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal.
+Usually, repeatedly quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.
+
+## ZH
+
+手持长柄大斧的丘丘人大块头。
+攻击大开大合，会利用火史莱姆为战斧附上火元素，具有强大的破坏力。
+通常，像火斧丘丘暴徒这样为武器反复淬火会导致钢铁的硬度下降，进而导致刃口容易受损。但丘丘暴徒的力量足够强大，斧子就算刃口没了也可以当锤子用。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
