@@ -38,7 +38,7 @@
   "entry_type": "enemy_drops",
   "materials": [
     {
-      "key": "material_1",
+      "key": "mask_of_the_virtuous_doctor",
       "title": {
         "ru": "Маска мудрого лекаря",
         "en": "Mask of the Virtuous Doctor",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "key": "material_2",
+      "key": "elixir_of_the_heretic",
       "title": {
         "ru": "Еретический эликсир",
         "en": "Elixir of the Heretic",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "key": "material_3",
+      "key": "madmans_restraint",
       "title": {
         "ru": "Оковы безумца",
         "en": "Madman's Restraint",
