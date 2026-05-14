@@ -34,11 +34,11 @@
     {
       "id": "hilichurl_masks",
       "title": {
-        "ru": "Материалы: Разбитая маска",
-        "en": "Drops: Damaged Mask",
-        "zh": "掉落素材：破损的面具"
+        "ru": "Маски хиличурлов",
+        "en": "Hilichurl Masks",
+        "zh": "丘丘人的面具"
       },
-      "icon": "",
+      "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
       "item_group": "common_enemies",
       "entry_type": "enemy_drops",
       "materials": [
