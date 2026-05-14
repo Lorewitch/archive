@@ -2992,27 +2992,7 @@ h3,
   }
 }
 
-@media (max-width: 430px) {
-  .material-float-icon,
-  .item-description-float-icon,
-  .enemy-description-icon {
-    float: none;
-    display: block;
-    margin: 0 auto 12px;
-  }
-
-  .weapon-description-panel {
-    grid-template-columns: 1fr;
-    justify-items: center;
-    text-align: left;
-  }
-
-  .weapon-description-panel .prose {
-    width: 100%;
-  }
-}
-
-/* v1: artifact part tabs must wrap inside mobile viewport, not escape horizontally */
+/* Mobile: artifact part tabs wrap inside the viewport. */
 .artifact-toolbar .parts-row,
 .artifact-toolbar .volume-strip {
   max-width: 100%;
@@ -3080,7 +3060,7 @@ h3,
 }
 
 
-/* v2: weapon description icon wraps text on narrow portrait mobile instead of stacking above it */
+/* Mobile: weapon description icon wraps text instead of stacking above it. */
 @media (max-width: 430px) {
   .weapon-description-panel:not(.no-icon) {
     display: block;
@@ -3121,7 +3101,7 @@ h3,
 }
 
 
-/* v3: item/material/enemy detail icons wrap text on narrow portrait mobile instead of centering above it */
+/* Mobile: item, material and enemy icons wrap text instead of centering above it. */
 @media (max-width: 430px) {
   .material-reader-body::after,
   .item-description-prose::after,
