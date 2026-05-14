@@ -537,6 +537,21 @@ def normalize_material_key(value: str, fallback: str) -> str:
     return value or fallback
 
 
+def comma_list_from_meta(meta: dict[str, str], key: str) -> list[str]:
+    return [
+        value.strip()
+        for value in meta.get(key, "").split(",")
+        if value.strip()
+    ]
+
+
+def typed_subsection_key(title: str, prefix: str) -> str | None:
+    match = re.match(rf"^{re.escape(prefix)}\s*:\s*([a-zA-Z0-9_\-]+)\s*$", title.strip(), re.IGNORECASE)
+    if not match:
+        return None
+    return normalize_material_key(match.group(1), match.group(1))
+
+
 def material_title_match(title: str, material: dict[str, Any]) -> bool:
     title_clean = re.sub(r"\s+", " ", title.strip().lower())
     if not title_clean:
@@ -566,17 +581,33 @@ def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> lis
             "text": {"ru": "", "en": "", "zh": ""},
         })
 
-    # Optional descriptions can be written as ### material title in each language section.
     for label, lang in LANG_HEADERS.items():
         blocks = split_subsections(sections.get(label, ""))
-        for order, block in enumerate(blocks):
+        material_order = 0
+
+        for block in blocks:
+            typed_material_key = typed_subsection_key(block["title"], "material")
+            typed_enemy_key = typed_subsection_key(block["title"], "enemy")
+
+            if typed_enemy_key:
+                continue
+
             target: dict[str, Any] | None = None
-            for material in materials:
-                if material_title_match(block["title"], material):
-                    target = material
-                    break
-            if target is None and order < len(materials):
-                target = materials[order]
+
+            if typed_material_key:
+                for material in materials:
+                    if material.get("key") == typed_material_key:
+                        target = material
+                        break
+            else:
+                for material in materials:
+                    if material_title_match(block["title"], material):
+                        target = material
+                        break
+                if target is None and material_order < len(materials):
+                    target = materials[material_order]
+                material_order += 1
+
             if target is not None:
                 target["text"][lang] = block["text"]
 
@@ -585,6 +616,30 @@ def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> lis
 
 def item_entry_type(meta: dict[str, str]) -> str:
     return (meta.get("entry_type") or meta.get("item_type") or "item").strip() or "item"
+
+
+def build_enemy(path: Path) -> dict[str, Any]:
+    meta, body = parse_meta_and_body(read_text(path))
+    sections = split_top_sections(body)
+    enemy_id = normalize_material_key(meta.get("id", ""), slug_from_path(path))
+    text_by_lang = {lang: sections.get(label, "").strip() for label, lang in LANG_HEADERS.items()}
+
+    return {
+        "id": enemy_id,
+        "category": "enemies",
+        "enemy_group": meta.get("enemy_group", "").strip(),
+        "enemy_type": meta.get("enemy_type", "").strip(),
+        "icon": meta.get("icon", "").strip(),
+        "title": title_from_meta(meta),
+        "region": meta.get("region", ""),
+        "tags": tags_from_meta(meta),
+        "languages": languages_from_text(text_by_lang=text_by_lang),
+        "text": text_by_lang,
+        "description": text_by_lang,
+        "drops": [],
+        "notes": parse_notes(sections.get("NOTES", "")),
+    }
+
 
 def build_generic(path: Path, category: str) -> dict[str, Any]:
     meta, body = parse_meta_and_body(read_text(path))
@@ -615,6 +670,13 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         "description": text_by_lang,
         "notes": parse_notes(sections.get("NOTES", "")),
     }
+
+    dropped_by = comma_list_from_meta(meta, "dropped_by")
+    item_group = normalized_item_group(meta) if category == "items" else ""
+    if category == "items" and item_group == "common_enemies" and dropped_by:
+        entry["dropped_by"] = dropped_by
+        entry["dropped_by_enemies"] = []
+        entry["dropped_by_count"] = len(dropped_by)
 
     if category == "weapons":
         entry["weapon_type"] = normalized_weapon_type(meta)
@@ -727,6 +789,30 @@ def index_weapon(item: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def index_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": enemy["id"],
+        "category": "enemies",
+        "enemy_group": enemy.get("enemy_group", ""),
+        "enemy_type": enemy.get("enemy_type", ""),
+        "icon": enemy.get("icon", ""),
+        "title": enemy.get("title", {}),
+        "region": enemy.get("region", ""),
+        "tags": enemy.get("tags", []),
+        "languages": enemy.get("languages", LANGS),
+        "drop_count": len(enemy.get("drops", [])),
+        "search_text": make_search_text(
+            enemy.get("title", {}),
+            enemy.get("enemy_group", ""),
+            enemy.get("enemy_type", ""),
+            enemy.get("region", ""),
+            enemy.get("tags", []),
+            enemy.get("description", {}),
+            [drop.get("title", {}) for drop in enemy.get("drops", [])],
+        ),
+    }
+
+
 def index_item(item: dict[str, Any]) -> dict[str, Any]:
     return {
         "id": item["id"],
@@ -745,6 +831,17 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
             for material in item.get("materials", [])
         ],
         "material_count": item.get("material_count", len(item.get("materials", []))),
+        "dropped_by": item.get("dropped_by", []),
+        "dropped_by_enemies": [
+            {
+                "id": enemy.get("id", ""),
+                "title": enemy.get("title", {}),
+                "icon": enemy.get("icon", ""),
+                "enemy_group": enemy.get("enemy_group", ""),
+            }
+            for enemy in item.get("dropped_by_enemies", [])
+        ],
+        "dropped_by_count": item.get("dropped_by_count", len(item.get("dropped_by_enemies", []))),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
         "search_text": make_search_text(
@@ -755,6 +852,8 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
             item.get("item_type", ""),
             item.get("tags", []),
             item.get("description", {}),
+            item.get("dropped_by", []),
+            [enemy.get("title", {}) for enemy in item.get("dropped_by_enemies", [])],
             [material.get("key", "") for material in item.get("materials", [])],
             [material.get("title", {}) for material in item.get("materials", [])],
             [material.get("text", {}) for material in item.get("materials", [])],
@@ -783,18 +882,98 @@ def build_collection(
     return entries
 
 
+def write_collection_data(name: str, entries: list[dict[str, Any]], indexer) -> None:
+    detail_dir = DATA_DIR / name
+    detail_dir.mkdir(parents=True, exist_ok=True)
+    clean_json_dir(detail_dir)
+
+    for entry in entries:
+        write_json(detail_dir / f"{entry['id']}.json", entry)
+
+    write_json(DATA_DIR / f"{name}_index.json", [indexer(entry) for entry in entries])
+
+
+def brief_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": enemy.get("id", ""),
+        "title": enemy.get("title", {}),
+        "icon": enemy.get("icon", ""),
+        "enemy_group": enemy.get("enemy_group", ""),
+        "region": enemy.get("region", ""),
+    }
+
+
+def brief_item(item: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "id": item.get("id", ""),
+        "title": item.get("title", {}),
+        "icon": item.get("icon", ""),
+        "item_group": item.get("item_group", ""),
+        "entry_type": item.get("entry_type", ""),
+    }
+
+
+def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    source_dir = CONTENT_DIR / "items"
+    source_dir.mkdir(parents=True, exist_ok=True)
+
+    items = [build_generic(md_file, "items") for md_file in sorted(source_dir.rglob("*.md"))]
+    enemies_by_id = {enemy.get("id"): enemy for enemy in enemies if enemy.get("id")}
+
+    enemy_to_items: dict[str, list[dict[str, Any]]] = {enemy_id: [] for enemy_id in enemies_by_id}
+
+    for item in items:
+        if item.get("item_group") != "common_enemies":
+            continue
+
+        for enemy_id in item.get("dropped_by", []):
+            if enemy_id in enemies_by_id:
+                enemy_to_items.setdefault(enemy_id, []).append(brief_item(item))
+
+    for enemy in enemies:
+        enemy["drops"] = enemy_to_items.get(enemy.get("id"), [])
+
+    for item in items:
+        if item.get("item_group") != "common_enemies":
+            item.pop("dropped_by", None)
+            item.pop("dropped_by_enemies", None)
+            item.pop("dropped_by_count", None)
+            continue
+
+        enemies_for_item: list[dict[str, Any]] = []
+        for enemy_id in item.get("dropped_by", []):
+            enemy = enemies_by_id.get(enemy_id)
+            if enemy:
+                enemies_for_item.append(brief_enemy(enemy))
+        if enemies_for_item:
+            item["dropped_by_enemies"] = enemies_for_item
+            item["dropped_by_count"] = len(enemies_for_item)
+
+    write_collection_data("items", items, index_item)
+    return items
+
+
 def build() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     books = build_collection("books", build_book, index_book)
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
-    items = build_collection("items", lambda path: build_generic(path, "items"), index_item)
+    enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
+    enemy_source_dir.mkdir(parents=True, exist_ok=True)
+    enemies = [build_enemy(md_file) for md_file in sorted(enemy_source_dir.rglob("*.md"))]
+
+    items = build_items(enemies)
+
+    # Hidden enemy reference is intentionally limited to common_enemies.
+    # Output stays in data/enemies/<enemy_id>.json for simple client-side lookup.
+    write_collection_data("enemies", enemies, index_enemy)
 
     summary = {
         "books": len(books),
         "artifacts": len(artifacts),
         "weapons": len(weapons),
         "items": len(items),
+        "enemies": len(enemies),
     }
     write_json(DATA_DIR / "archive_summary.json", summary)
     print("Built archive data:", summary)
