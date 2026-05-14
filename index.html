@@ -390,7 +390,7 @@
     }
 
     .catalog-row.cols-items-common-enemy {
-      --catalog-columns: minmax(300px, 1.05fr) minmax(170px, .55fr) minmax(340px, 1.25fr);
+      --catalog-columns: minmax(300px, 1.12fr) minmax(170px, .55fr) minmax(340px, 1.18fr);
     }
 
     .catalog-row.cols-items-common-enemy .material-list {
@@ -490,11 +490,6 @@
     .entry-material-preview {
       display: none;
       margin-top: 10px;
-    }
-
-    .entry-dropped-by-preview {
-      display: none;
-      margin-top: 8px;
     }
 
     .material-list {
@@ -1309,52 +1304,31 @@
 
 
       .catalog-row.cols-items-common-enemy.item {
-        gap: 14px;
+        gap: 10px;
       }
 
       .catalog-row.cols-items-common-enemy.item > div {
         display: block;
       }
 
-      .catalog-row.cols-items-common-enemy.item > div:not(:first-child) {
-        margin-top: 0;
-        padding-top: 12px;
-        border-top: 1px solid rgba(91, 74, 62, .12);
+      .catalog-row.cols-items-common-enemy.item > div:nth-child(2) {
+        display: none;
       }
 
-      .catalog-row.cols-items-common-enemy.item > div::before {
-        display: block;
-        margin-bottom: 8px;
-        color: var(--soft);
-        font-size: 11px;
-        font-weight: 900;
-        letter-spacing: .075em;
-        line-height: 1.2;
-        text-transform: uppercase;
+      .catalog-row.cols-items-common-enemy.item > div:nth-child(3) {
+        margin-top: 10px;
       }
 
-      .catalog-row.cols-items-common-enemy.item > div:nth-child(1)::before {
-        content: "Материалы";
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-list {
+        gap: 8px;
       }
 
-      .catalog-row.cols-items-common-enemy.item > div:nth-child(2)::before {
-        content: "Тип противника";
-      }
-
-      .catalog-row.cols-items-common-enemy.item > div:nth-child(3)::before {
-        content: "Выпадает с";
-      }
-
-      .catalog-material-plain-list {
-        gap: 9px;
-      }
-
-      .catalog-material-plain-item {
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-item {
         grid-template-columns: 34px minmax(0, 1fr);
         gap: 9px;
       }
 
-      .catalog-material-plain-item img {
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-item img {
         width: 34px;
         height: 34px;
       }
@@ -2197,11 +2171,6 @@
         margin-top: 12px;
       }
 
-      .catalog-row.cols-items-common-enemy .entry-dropped-by-preview {
-        display: flex;
-        margin-top: 10px;
-      }
-
       .catalog-row.cols-items-common-enemy .entry-material-preview {
         margin-top: 12px;
       }
@@ -2475,57 +2444,39 @@
     }
 
 
-    /* v36: common_enemies mobile catalog — like boss cards: materials, then enemies; no type block */
-    @media (max-width: 920px) {
-      .catalog-row.cols-items-common-enemy.item {
-        gap: 10px;
+
+
+    /* v38 polish: shared mobile catalog rhythm */
+    @media (max-width: 980px) {
+      .catalog-row.item {
+        align-items: start;
       }
 
-      .catalog-row.cols-items-common-enemy.item > div {
-        display: block;
-      }
-
-      .catalog-row.cols-items-common-enemy.item > div::before {
-        display: none !important;
-        content: "" !important;
-      }
-
-      .catalog-row.cols-items-common-enemy.item > div:nth-child(2) {
-        display: none !important;
-      }
-
-      .catalog-row.cols-items-common-enemy.item > div:nth-child(3) {
-        margin-top: 8px;
-        padding-top: 0;
-        border-top: 0;
-      }
-
-      .catalog-row.cols-items-common-enemy .catalog-material-plain-list {
-        gap: 8px;
-      }
-
-      .catalog-row.cols-items-common-enemy .catalog-material-plain-item {
-        grid-template-columns: 32px minmax(0, 1fr);
-        gap: 8px;
-      }
-
-      .catalog-row.cols-items-common-enemy .catalog-material-plain-item img {
-        width: 32px;
-        height: 32px;
-      }
-
-      .catalog-row.cols-items-common-enemy .catalog-material-plain-ru {
-        font-size: 13px;
-      }
-
-      .catalog-row.cols-items-common-enemy .catalog-material-plain-sub {
-        font-size: 11px;
-        line-height: 1.2;
-      }
-
-      .catalog-row.cols-items-common-enemy .dropped-by-catalog-list {
-        margin-top: 10px;
+      .catalog-row.cols-items-common-enemy .dropped-by-catalog-list,
+      .catalog-row.cols-items-enemy .material-list,
+      .entry-material-preview .material-list {
         gap: 7px;
+      }
+
+      .catalog-row.cols-items-common-enemy .dropped-by-catalog-chip,
+      .catalog-row.cols-items-common-enemy .common-enemy-type-chip,
+      .material-chip {
+        max-width: 100%;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .catalog-row.cols-items-common-enemy .dropped-by-catalog-chip,
+      .catalog-row.cols-items-common-enemy .common-enemy-type-chip,
+      .material-chip {
+        font-size: 12px;
+      }
+
+      .catalog-row.cols-items-common-enemy .dropped-by-catalog-chip img,
+      .material-chip img {
+        width: 22px;
+        height: 22px;
+        flex-basis: 22px;
       }
     }
 
@@ -3091,9 +3042,6 @@ function renderTitleCell(item) {
     ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
   const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
-  const enemiesPreview = item?.item_group === "common_enemies" && droppedByEnemies(item).length
-    ? `<div class="entry-dropped-by-preview">${renderDroppedByCell(item)}</div>`
-    : "";
   return `
     <div class="entry-title-cell">
       ${iconMarkup}
@@ -3101,7 +3049,6 @@ function renderTitleCell(item) {
         <div class="book-title">${escapeHtml(titleOf(item, "ru"))}</div>
         <div class="book-subtitle">${escapeHtml(subtitles)}</div>
         ${materialsPreview}
-        ${enemiesPreview}
       </div>
     </div>
   `;
