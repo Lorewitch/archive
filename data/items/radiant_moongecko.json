@@ -33,7 +33,7 @@
   "entry_type": "enemy_drops",
   "materials": [
     {
-      "key": "material_1",
+      "key": "prismatic_severed_tail",
       "title": {
         "ru": "Призматический отсечённый хвост",
         "en": "Prismatic Severed Tail",
