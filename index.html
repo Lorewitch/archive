@@ -667,6 +667,19 @@
       position: relative;
     }
 
+    .boss-loot-page .enemy-description-text {
+      color: #6A5242;
+      font-size: 17px;
+      font-style: italic;
+      line-height: 1.82;
+    }
+
+    .boss-loot-page .enemy-description-text strong {
+      color: #5A4638;
+      font-style: italic;
+      font-weight: 780;
+    }
+
     .enemy-description-panel.is-collapsed .enemy-description-text {
       max-height: 5.7em;
       overflow: hidden;
@@ -1985,6 +1998,11 @@
 
       .enemy-description-panel.is-collapsed .enemy-description-text {
         max-height: 5.6em;
+      }
+
+      .boss-loot-page .enemy-description-text {
+        font-size: 15.5px;
+        line-height: 1.78;
       }
 
       .material-chip {
@@ -3817,6 +3835,7 @@ function renderEnemyDropsDetail(item, config) {
       </div>
   ` : "";
   const commonEnemyLootPage = item.item_group === "common_enemies";
+  const bossLootPage = isEnemyDropGroup(item.item_group) && !commonEnemyLootPage;
   const pageHeadBlock = commonEnemyLootPage ? "" : `
       <div class="page-head">
         <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
@@ -3825,7 +3844,7 @@ function renderEnemyDropsDetail(item, config) {
   `;
 
   app.innerHTML = `
-    <section class="page-card book-page${commonEnemyLootPage ? " common-enemy-loot-page" : ""}">
+    <section class="page-card book-page${commonEnemyLootPage ? " common-enemy-loot-page" : ""}${bossLootPage ? " boss-loot-page" : ""}">
       <button class="back-link" id="back-section" type="button">← Назад в раздел «${escapeHtml(groupLabel(config, state.subsection) || config.title)}»</button>
       ${pageHeadBlock}
 
