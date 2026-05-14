@@ -390,7 +390,13 @@
     }
 
     .catalog-row.cols-items-common-enemy {
-      --catalog-columns: minmax(320px, 1.15fr) minmax(340px, 1.25fr);
+      --catalog-columns: minmax(260px, 1fr) minmax(340px, 1.35fr);
+    }
+
+    .catalog-row.cols-items-common-enemy .material-list {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
     }
 
     .catalog-row:last-child {
@@ -2155,9 +2161,11 @@
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 10px;
+      align-items: start;
     }
 
     .dropped-by-card {
+      align-self: start;
       border: 1px solid rgba(91, 74, 62, .14);
       border-radius: 13px;
       background: rgba(203, 191, 175, .20);
@@ -2450,6 +2458,10 @@ function isEnemyDropEntry(item) {
   return item?.entry_type === "enemy_drops" || (isEnemyDropGroup(item?.item_group) && Array.isArray(item?.materials) && item.materials.length > 0);
 }
 
+function isCommonEnemyCatalog(config = getSectionConfig()) {
+  return config?.id === "items" && state.subsection === "common_enemies";
+}
+
 const ARTIFACT_PART_LABELS = {
   flower: { ru: "Цветок жизни", en: "Flower of Life", zh: "生之花" },
   plume: { ru: "Перо смерти", en: "Plume of Death", zh: "死之羽" },
@@ -2708,6 +2720,8 @@ function isTemplatePublicNote(value) {
     "заметка к кубку",
     "заметка к короне",
     "здесь можно написать общий комментарий",
+    "здесь можно написать заметки",
+    "здесь можно написать заметки по группе материалов",
     "заметка к первому материалу",
     "заметка ко второму материалу",
     "заметка к третьему материалу"
@@ -2731,8 +2745,23 @@ function getSectionConfig(id = state.section) {
   return SECTIONS.find(section => section.id === id) || SECTIONS[0];
 }
 
+function materialSetTitle(item, lang = "ru") {
+  const materials = Array.isArray(item?.materials) ? item.materials : [];
+  const titles = materials
+    .map(material => materialTitle(material, lang))
+    .filter(Boolean);
+  return titles.join(" · ");
+}
+
 function titleOf(item, lang = "ru") {
-  return item?.title?.[lang] || item?.title_ru || item?.title?.ru || item?.title?.en || item?.title?.zh || item?.name || "Без названия";
+  const directTitle = item?.title?.[lang] || item?.title_ru || item?.title?.ru || item?.title?.en || item?.title?.zh || item?.name;
+  if (directTitle) return directTitle;
+
+  if (item?.item_group === "common_enemies" && Array.isArray(item?.materials) && item.materials.length) {
+    return materialSetTitle(item, lang) || "Без названия";
+  }
+
+  return "Без названия";
 }
 
 function langLabel(lang) {
@@ -2881,6 +2910,14 @@ function bindDroppedByEnemies(item) {
         detail.hidden = true;
         return;
       }
+
+      document.querySelectorAll("[data-enemy-id][aria-expanded='true']").forEach(openButton => {
+        if (openButton === button) return;
+        const openCard = openButton.closest(".dropped-by-card");
+        const openDetail = openCard?.querySelector(".dropped-by-detail");
+        openButton.setAttribute("aria-expanded", "false");
+        if (openDetail) openDetail.hidden = true;
+      });
 
       button.setAttribute("aria-expanded", "true");
       detail.hidden = false;
@@ -3043,10 +3080,12 @@ function filteredEntries(config) {
     return queryOk && filterOk;
   });
 
-  rows.sort((a, b) => {
-    const result = collator.compare(titleOf(a, "ru"), titleOf(b, "ru"));
-    return filterState.sort === "asc" ? result : -result;
-  });
+  if (!isCommonEnemyCatalog(config)) {
+    rows.sort((a, b) => {
+      const result = collator.compare(titleOf(a, "ru"), titleOf(b, "ru"));
+      return filterState.sort === "asc" ? result : -result;
+    });
+  }
 
   return rows;
 }
@@ -3096,12 +3135,15 @@ function renderCatalogTable(config) {
   const sortUp = filterState.sort === "asc" ? "active" : "";
   const sortDown = filterState.sort === "desc" ? "active" : "";
   const columns = typeof config.columns === "function" ? config.columns() : config.columns;
-  const rowClass = config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
+  const rowClass = config.id === "items" && state.subsection === "common_enemies"
+    ? "cols-items-common-enemy"
+    : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
+  const sortableFirstColumn = !isCommonEnemyCatalog(config);
 
   return `
     <div class="catalog-table" id="catalog-table">
       <div class="catalog-row head ${rowClass}">
-        ${columns.map((column, index) => index === 0 ? `
+        ${columns.map((column, index) => index === 0 && sortableFirstColumn ? `
           <div>
             <button class="sortable-head" id="sort-title" type="button" aria-label="Сортировать по названию">
               <span>${escapeHtml(column)}</span>
@@ -3141,10 +3183,12 @@ function renderCatalog(config) {
           <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
         </label>
 
-        <select class="select" id="catalog-filter" aria-label="Фильтр">
-          <option value="all">${escapeHtml(config.filterLabel)}</option>
-          ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
-        </select>
+        ${isCommonEnemyCatalog(config) ? "" : `
+          <select class="select" id="catalog-filter" aria-label="Фильтр">
+            <option value="all">${escapeHtml(config.filterLabel)}</option>
+            ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
+          </select>
+        `}
       </div>
 
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
