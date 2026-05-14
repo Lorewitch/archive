@@ -357,6 +357,70 @@
     "search_text": "common_enemies enemy_drops маски хиличурлов обычные противники hilichurl hilichurl_fighter hilichurl_berserker wooden_shield_hilichurl_guard ice_shield_hilichurl_guard rock_shield_hilichurl_guard hilichurl_shooter pyro_hilichurl_shooter electro_hilichurl_shooter cryo_hilichurl_shooter hilichurl_grenadier electro_hilichurl_grenadier cryo_hilichurl_grenadier wooden_shieldwall_mitachurl rock_shieldwall_mitachurl ice_shieldwall_mitachurl blazing_axe_mitachurl crackling_axe_mitachurl thunderhelm_lawachurl frostarm_lawachurl stonehide_lawachurl anemo_samachurl electro_samachurl dendro_samachurl hydro_samachurl geo_samachurl cryo_samachurl хиличурл 丘丘人 хиличурл-боец hilichurl fighter 打手丘丘人 хиличурл-берсерк hilichurl berserker 冲锋丘丘人 хиличурл с деревянным щитом wooden shield hilichurl guard 木盾丘丘人 хиличурл с ледяным щитом ice shield hilichurl guard 冰盾丘丘人 хиличурл с каменным щитом rock shield hilichurl guard 岩盾丘丘人 хиличурл-стрелок hilichurl shooter 射手丘丘人 пиро хиличурл-стрелок pyro hilichurl shooter 火箭丘丘人 электро хиличурл-стрелок electro hilichurl shooter 雷箭丘丘人 крио хиличурл-стрелок cryo hilichurl shooter 冰箭丘丘人 хиличурл-гренадёр hilichurl grenadier 爆弹丘丘人 электро хиличурл-гренадёр electro hilichurl grenadier 雷弹丘丘人 крио хиличурл-гренадёр cryo hilichurl grenadier 冰弹丘丘人 митачурл с деревянным щитом wooden shieldwall mitachurl 木盾丘丘暴徒 митачурл с каменным щитом rock shieldwall mitachurl 岩盾丘丘暴徒 митачурл с ледяным щитом ice shieldwall mitachurl 冰盾丘丘暴徒 митачурл с огненным топором blazing axe mitachurl 火斧丘丘暴徒 митачурл с электрическим топором crackling axe mitachurl 雷斧丘丘暴徒 лавачурл с громовым шлемом thunderhelm lawachurl 丘丘雷兜王 лавачурл с инеевым панцирем frostarm lawachurl 丘丘霜铠王 лавачурл с каменным панцирем stonehide lawachurl 丘丘岩盔王 анемо шамачурл anemo samachurl 风丘丘萨满 электро шамачурл electro samachurl 雷丘丘萨满 дендро шамачурл dendro samachurl 草丘丘萨满 гидро шамачурл hydro samachurl 水丘丘萨满 гео шамачурл geo samachurl 岩丘丘萨满 крио шамачурл cryo samachurl 冰丘丘萨满 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具 разбитая костяная маска, давным-давно принадлежавшая какому-то хиличурлу. разбита на мелкие осколки, поэтому не может выполнять свою основную функцию. a broken bone mask that once belonged to some hilichurl. now more broken than complete, it can no longer perform its primary function. 破碎的骨质面具，曾经属于某个丘丘人。 破损的部分比完整的部分更多，已经失去了假面应有的功能。 костяная маска со слабым запахом, покрытая странными пятнами. хоть и предназначена для лица, но только хиличурл может носить подобное. a bone mask, covered in unidentifiable stains, that emanates a mysterious odor. yet such is the devotion of hilichurls to masks that they will wear it nonetheless. 沾满了难以辨认的污渍，散发着微妙气味的骨质面具。 即使这样也要戴在脸上，这就是丘丘人的执着。 покрытая узором костяная маска, предназначенная для запугивания врагов. никто не знает, почему хиличурлы никогда не снимают свои маски. есть версия, что они просто боятся своего отражения в воде. a glossy bone mask with oil markings painted on it, meant to intimidate enemies. no one really knows why hilichurls are so fascinated with masks. some say that it's because they don't want to see their own reflections in the water. 光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。"
   },
   {
+    "id": "moonlight_talent_books",
+    "category": "items",
+    "icon": "",
+    "title": {
+      "ru": "",
+      "en": "",
+      "zh": ""
+    },
+    "region": "Нод-Край",
+    "item_group": "development_materials",
+    "entry_type": "material_set",
+    "material_type": "talents",
+    "material_type_title": {
+      "ru": "Таланты",
+      "en": "Talents",
+      "zh": "天赋"
+    },
+    "materials": [
+      {
+        "key": "teachings_of_moonlight",
+        "title": {
+          "ru": "Учения о «Лунном свете»",
+          "en": "Teachings of Moonlight",
+          "zh": "「月光」的教导"
+        },
+        "icon": "assets/icons/items/development_materials/teachings_of_moonlight.webp"
+      },
+      {
+        "key": "guide_to_moonlight",
+        "title": {
+          "ru": "Указания о «Лунном свете»",
+          "en": "Guide to Moonlight",
+          "zh": "「月光」的指引"
+        },
+        "icon": "assets/icons/items/development_materials/guide_to_moonlight.webp"
+      },
+      {
+        "key": "philosophies_of_moonlight",
+        "title": {
+          "ru": "Философия о «Лунном свете»",
+          "en": "Philosophies of Moonlight",
+          "zh": "「月光」的哲学"
+        },
+        "icon": "assets/icons/items/development_materials/philosophies_of_moonlight.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "Лунный свет",
+      "книги талантов",
+      "материалы развития",
+      "Нод-Край"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "нод-край development_materials material_set talents таланты 天赋 лунный свет книги талантов материалы развития teachings_of_moonlight guide_to_moonlight philosophies_of_moonlight учения о «лунном свете» teachings of moonlight 「月光」的教导 указания о «лунном свете» guide to moonlight 「月光」的指引 философия о «лунном свете» philosophies of moonlight 「月光」的哲学 материал повышения талантов. лунный свет - благословение земли под луной. вещи бывают разными, как и люди. но под лунным светом все равны. talent level-up material. \"moonlight\" is the blessing of the land beneath the moon. things come in all sizes, and people come in all states of wisdom. yet under the moonlight, all are equal. 天赋培养素材。 「月光」是月下之地的祝福。 物有大小不一，人有贤愚不齐。但在月光之下，一切都是平等的。 материал повышения талантов. лунный свет - благословение земли под луной. затянутое облаками лунное сияние едва освещает бескрайние тёмные земли, но даже этот слабый свет указывает путь сквозь нескончаемую ночь. talent level-up material. \"moonlight\" is the blessing of the land beneath the moon. the cloud-veiled moonlight glows but faintly over the boundless dark wilds. yet its fragile glimmer is a guide through the endless night. 天赋培养素材。 「月光」是月下之地的祝福。 云中之月的光芒，相对于幽暗无垠的荒野是如此微弱，然而在漫漫长夜中，引导人们前行的却总是那一缕微光。 материал повышения талантов. лунный свет - благословение земли под луной. молитвы новолунию о милости и удаче в пути - обряд, передававшийся со времён первых людей. лунный свет этой ночью кажется таким же, как всегда, но где же то новолуние, в которое когда-то вглядывались люди? talent level-up material. \"moonlight\" is the blessing of the land beneath the moon. praying to the new moon for guidance and fortune is a rite passed down from the days of the first people. tonight's moonlight seems no different from any other night, yet where is the new moon that people once looked to? 天赋培养素材。 「月光」是月下之地的祝福。 于新月初升之时向天空之月祈求启示与祝福，是从初民的时代流传至今的仪式。今夜的月光似乎与过去的每一夜并无不同，但人们曾仰望的那轮新月又在何方？"
+  },
+  {
     "id": "01_heretic_of_the_false_moon",
     "category": "items",
     "icon": "assets/icons/enemies/01_heretic_of_the_false_moon.webp",
