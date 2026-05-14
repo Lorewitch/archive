@@ -40,8 +40,14 @@ ARTIFACT_PART_LABELS = {
 }
 
 ITEM_GROUPS = {
-    "weekly_bosses", "world_bosses", "common_enemies", "talent_leveling",
-    "weapon_materials", "teyvat_resources", "food_potions", "useful_items", "misc",
+    "weekly_bosses", "world_bosses", "common_enemies", "development_materials",
+    "teyvat_resources", "food_potions", "useful_items", "misc",
+}
+
+DEVELOPMENT_MATERIAL_TYPES = {
+    "talents": {"ru": "Таланты", "en": "Talents", "zh": "天赋"},
+    "character_ascension": {"ru": "Возвышение персонажа", "en": "Character Ascension", "zh": "角色突破"},
+    "weapon_ascension": {"ru": "Возвышение оружия", "en": "Weapon Ascension", "zh": "武器突破"},
 }
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
@@ -519,6 +525,21 @@ def normalized_item_group(meta: dict[str, str]) -> str:
     return value if value in ITEM_GROUPS else "misc"
 
 
+def normalized_material_type(meta: dict[str, str]) -> str:
+    value = (meta.get("material_type") or meta.get("type") or "talents").strip()
+    return value if value in DEVELOPMENT_MATERIAL_TYPES else "talents"
+
+
+def material_type_title_from_meta(meta: dict[str, str]) -> dict[str, str]:
+    key = normalized_material_type(meta)
+    defaults = DEVELOPMENT_MATERIAL_TYPES.get(key, DEVELOPMENT_MATERIAL_TYPES["talents"])
+    return {
+        "ru": meta.get("material_type_ru") or defaults["ru"],
+        "en": meta.get("material_type_en") or defaults["en"],
+        "zh": meta.get("material_type_zh") or defaults["zh"],
+    }
+
+
 
 
 def material_index_keys(meta: dict[str, str]) -> list[int]:
@@ -647,10 +668,11 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     entry_id = meta.get("id") or slug_from_path(path)
 
     entry_type = item_entry_type(meta) if category == "items" else "entry"
-    materials = parse_enemy_materials(meta, sections) if category == "items" and entry_type == "enemy_drops" else []
+    is_material_group = category == "items" and entry_type in {"enemy_drops", "material_set"}
+    materials = parse_enemy_materials(meta, sections) if is_material_group else []
 
     full_text_by_lang = {lang: sections.get(label, "").strip() for label, lang in LANG_HEADERS.items()}
-    if category == "items" and entry_type == "enemy_drops":
+    if is_material_group:
         text_by_lang = {lang: text_before_subsections(sections.get(label, "")) for label, lang in LANG_HEADERS.items()}
         languages = languages_from_enemy_entry(text_by_lang, materials)
     else:
@@ -684,6 +706,11 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     if category == "items":
         entry["item_group"] = normalized_item_group(meta)
         entry["entry_type"] = entry_type
+
+        if entry["item_group"] == "development_materials":
+            entry["material_type"] = normalized_material_type(meta)
+            entry["material_type_title"] = material_type_title_from_meta(meta)
+
         if materials:
             entry["materials"] = materials
             entry["material_count"] = len(materials)
@@ -822,6 +849,8 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "region": item.get("region", ""),
         "item_group": item.get("item_group", "misc"),
         "entry_type": item.get("entry_type", "item"),
+        "material_type": item.get("material_type", ""),
+        "material_type_title": item.get("material_type_title", {}),
         "materials": [
             {
                 "key": material.get("key", ""),
@@ -849,6 +878,8 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
             item.get("region", ""),
             item.get("item_group", ""),
             item.get("entry_type", ""),
+            item.get("material_type", ""),
+            item.get("material_type_title", {}),
             item.get("item_type", ""),
             item.get("tags", []),
             item.get("description", {}),
