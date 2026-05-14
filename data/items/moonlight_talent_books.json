@@ -1,11 +1,11 @@
 {
   "id": "moonlight_talent_books",
   "category": "items",
-  "icon": "",
+  "icon": "assets/icons/items/development_materials/teachings_of_moonlight.webp",
   "title": {
-    "ru": "Набор материалов: Учения о «Лунном свете»",
-    "en": "Material Set: Teachings of Moonlight",
-    "zh": "素材套组：「月光」的教导"
+    "ru": "Книги талантов «Лунный свет»",
+    "en": "Moonlight Talent Books",
+    "zh": "「月光」天赋书"
   },
   "region": "Нод-Край",
   "rarity": null,
