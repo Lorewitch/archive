@@ -1,0 +1,39 @@
+# id: moonfall_silver
+# category: items
+# item_group: teyvat_resources
+# entry_type: item
+
+# item_type: local_specialty
+# item_type_ru: Диковинка
+# item_type_en: Local Specialty
+# item_type_zh: 区域特产
+
+# tags:
+
+# title_ru: Серебро захода луны
+# title_en: Moonfall Silver
+# title_zh: 月落银
+# region: Нод-Край
+
+# icon: assets/icons/items/teyvat_resources/moonfall_silver.webp
+
+## RU
+
+Серебристый кристалл, чистый и сияющий, как лунный свет. Обладает почти совершенной элементальной проводимостью.
+Согласно преданиям Детей Морозной Луны, эти кристаллы появились пятьсот лет назад вместе с Куутар и, как полагала тогдашний Голос Лунного Гимна, были даром от луны, за что и получили название «Серебро захода луны». Однако в более ранних документах, написанных летописцами Снежной, говорится, что потомки золотого царства начали использовать тайное серебро, сотканное Морозной Луной, тысячи лет назад. Связь между этими утверждениями давно утрачена, и достоверно известно лишь одно: ремесленники Нод-Края по-прежнему считают эти кристаллы превосходными элементальными проводниками.
+
+## EN
+
+A silver crystal as pure and pristine as moonlight. It possesses almost perfect elemental affinity.
+In the legacy of the Frostmoon Scions, these crystals were born five hundred years ago alongside the Moon Maiden, and were believed by the Moonchanter at the time to be a gift from the moon, hence the name "Moonfall Silver". However, in older documents written by Snezhnayan chroniclers, the descendants of the golden realm were already using secret silver woven by the Frostmoon thousands of years in the past. The threads that connect these two tales are unclear — the only certain thing is that these crystals make excellent elemental conductors in the eyes of Nod-Krai's craftspeople.
+
+## ZH
+
+如月光一般明净无瑕的银白晶体，具有几乎完美的元素亲和力。
+在霜月之子的传承中，这种晶石于五百年前伴随月之少女一同诞生，被彼时的咏月使认为是从月上落下的馈赠，因此得名「月落银」。然而在至冬的编年者们记述的、更为古老的文献中，黄金国的遗胤自数千年前便在使用霜月纺就的秘银。两者之间的关联早已无从考证，唯一能确定的只有这种晶石如今依然被挪德卡莱的工匠们视为绝佳的元素力导体。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+Здесь можно оставить внутренние заметки по предмету.
