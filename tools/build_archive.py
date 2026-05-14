@@ -900,6 +900,10 @@ def brief_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
         "icon": enemy.get("icon", ""),
         "enemy_group": enemy.get("enemy_group", ""),
         "region": enemy.get("region", ""),
+        "languages": enemy.get("languages", LANGS),
+        "text": enemy.get("text", {}),
+        "description": enemy.get("description", {}),
+        "drops": enemy.get("drops", []),
     }
 
 
@@ -910,6 +914,15 @@ def brief_item(item: dict[str, Any]) -> dict[str, Any]:
         "icon": item.get("icon", ""),
         "item_group": item.get("item_group", ""),
         "entry_type": item.get("entry_type", ""),
+        "materials": [
+            {
+                "key": material.get("key", ""),
+                "title": material.get("title", {}),
+                "icon": material.get("icon", ""),
+            }
+            for material in item.get("materials", [])
+        ],
+        "material_count": item.get("material_count", len(item.get("materials", []))),
     }
 
 
