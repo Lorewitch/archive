@@ -1,0 +1,44 @@
+{
+  "id": "linlings_anthology_of_selected_poetry",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/linlings_anthology_of_selected_poetry.webp",
+  "title": {
+    "ru": "Сборник избранных стихов Линь Лин",
+    "en": "Linling's Anthology of Selected Poetry",
+    "zh": "霖铃精选诗集"
+  },
+  "region": "Ли Юэ",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Ли Юэ"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Сборник стихов, который Линь Лин опубликовала за свой счёт. Это её первая публикация и она считается самой заметной из её работ.\n\nКотик\nРыжий хороший, белый красивый - котики любят мяукать игриво.\nПристально смотрят большими глазами, чтобы букашки от них не сбежали!\n\nЗаведующий Сяо\nКогда смотритель верфи спит, на все доки он храпит.\nИздалека звучит, как будто бы Архонт проголодался, вблизи - как будто бы кабан на верфи потерялся.\n\nНаблюдение за морем\nОкеан прекрасен, синеют его просторы.\nУ лодки так вёсел много! Она - как креветка в море.\n\nНаблюдение за морем: продолжение\nСмотрю в море до рези в глазах, до боли в сердце - так каждый день, и от этого мне никуда не деться.\nСлагаю стихи уже несколько лет, но никому до них дела нет.\nОднажды корабль поднимет паруса и пройдёт по волнам, как огромная рыба, из реки вырвавшаяся в море.\nДуша, что к поэзии осталась глухой - как корабль, погибший в пучине морской.\n\nНочные улицы\nФонари на улице сверкают, как звёзды, и маленькие закусочные кипят жизнью.\nНо малыш Чан Чан громко плачет, совсем не скрывая слёз.\n\nГора Тяньхэн\nГора Тяньхэн велика, как стена, Ли Юэ порт охраняет она.\nМонстры, бандиты и прочий сброд, сквозь эту стену никто не пройдёт!\n\nВесна в гавани\nВесной в Ли Юэ зацветает шелковица и гавань будто одевается в шелковые одежды.\nНеуловимый аромат... Шёлк ли это? Иль цветок? Быть может, шёлковый цветок?..\n\nОда потрошкам\nПотроха «Чжун Юань» так солоны, что хочется плакать и выпить воды.\n- Зачем столько соли? - я скорбно вздохну, когда лишь кусочек в свой рот положу.\n- Таков уж рецепт! - ответит мадам, - Потроха «Чжун Юань» едят тут и там!",
+        "en": "A collection of poetry that Linling published at her own expense. It is her first publication, and she is very proud of it.\n\nKitty\nCats are good, cats are great. Cats love to meow and scratch their heads.\nFrom the two bright eyes they use to see, hateful pests can never flee!\n\nManager Xiao\nThe shipyard overseer goes for a doze, his sleep so deep with a great big snore.\nFrom far, you'd think the Geo Lord had stomach woes, but up close he sounds like a large wild boar.\n\nOcean-gazing\nAs I feast my eyes upon the sea, to azure water my heart is drawn.\nThe oars of yon ships appear unto me like the many limbs of a gigantic prawn.\n\nOcean-gazing Yet Again\nDay after day, I gaze and I gaze till my eyes are weary and my heart is numb.\nYear upon year, I write and recite, but I am to my poems an audience of one.\nTime after time, ships will set sail like brave little river fish bound for the sea.\nSooner or later, the tides they will turn and drown out the ones who dismiss poetry.\n\nThe Streets by Night\nA delightful sight is the star-like light from the lamps on the street with the myriad eats.\nBut alas, no respite from that poor little tyke named Changchang, whose weeping is hardly discreet.\n\nMt. Tianheng\nTianheng is big, Tianheng is tall, Tianheng is huge like a great city wall.\nToo strong for monsters, bandits, and all. What a great big huge tall strong city wall!\n\nSpring by the Harbor\nThese silken flora that blossom in spring, their flowers seem woven of some thread within...\nIt feels like it's silk, but it has a faint smell — could it be both silk and a flower as well?\n\nAn Ode to Chop Suey\nMy Zhongyuan Chop Suey is going to waste, there's far more salt in here than I care to taste.\nJust one mouthful in and I'm gasping for breath. \"Why is this so salty?\" I gently protest.\n\"That's just how we make it,\" declares Su Er'niang, \"For the few that can't take it, there's plenty who can!\"",
+        "zh": "霖铃自费出版的精装诗集，是她的处女作，也是引以为豪的代表作。\n\n猫咪\n橘猫好，白猫妙。猫咪捕头嗷嗷叫。\n瞪起两只大眼泡，害虫全都跑不掉！\n\n枭总管\n船厂监工打瞌睡，沉睡不醒轰噜噜，\n远闻岩王闹肠胃，近听好似大野猪。\n\n看海\n大海看着真是美，蓝蓝一汪都是水。\n长船恁多大船桨，好像大虾一排腿。\n\n又看海\n天天看海心里伤，时间长了眼酸胀。\n作诗已有好几年，未尝有人来欣赏。\n总有挂帆破浪日，好似大鱼翻江洋。\n瞎眼不识真文才，早晚翻船沉大海。\n\n夜间街景\n街灯明亮似群星，满道小吃真开心。\n可怜畅畅哭又闹，乱人眼来复闹心。\n\n天衡山\n天衡山，像大墙，璃月全港墙里藏。\n拦妖怪，挡流氓，真是好大一堵墙！\n\n港头春景\n璃月港里霓裳花，一到春天结霓裳。\n不知是花是霓裳，原来霓裳也是花。\n\n咏杂碎\n中原杂碎颇辛咸，吃得我要咧嘴喘。\n「杂碎怎能这么咸？」我把疑问提一遍。\n苏二娘，把脸变：「爱吃不吃，就是这么咸！」"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

@@ -1,0 +1,70 @@
+{
+  "id": "a_nameless_adventurers_notes",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/a_nameless_adventurers_notes.webp",
+  "title": {
+    "ru": "Записи безымянного искателя приключений",
+    "en": "A Nameless Adventurer's Notes",
+    "zh": "无名冒险家的笔记"
+  },
+  "region": "Натлан",
+  "volume_count": 3,
+  "tags": [
+    "книги",
+    "Натлан"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Записи, оставленные искателем приключений неизвестной эпохи. В них он записал свои приключения в Очканатлане.\n\nЧисло: неизвестно, месяц: неизвестен, погода: туман...\n\n...Наконец-то я здесь. Очканатлан, древний город, который считается обителью злого дракона и местом захоронения ██...\n\n...Тётушка Лириву будет в ярости, если узнает, но ничего не поделаешь. Даже если мне станут твердить, что не надо брать на себя сожаления наших предков, я всё равно хочу закончить это дело...\n\n...Пусть угроза от Бездны и ослабла по сравнению со временами моего рождения, но долг предписывает мне отправиться туда ради «Нефрита Возвращения», за которым гонялись бесчисленные искатели приключений, а ещё ради разгадки последней тайны ██...\n\n...Всё в порядке. Ничего страшного. У тебя большой опыт приключений, что здесь такого? Всё будет хорошо. И вообще, столько лет прошло, тот злой дракон наверняка давно уже сгинул...\n\n...В общем, начну отсюда! Моё приключение...",
+        "en": "Notes left by an adventurer of an unknown era. In them, they recorded their adventures in Ochkanatlan.\n\nMonth: Unknown. Day: Unknown. Weather: Foggy...\n\n...Finally here. Ochkanatlan. This ancient city, now occupied by a violent and evil dragon, and the final resting place of ██...\n\n...If Aunt Liriwu knew, she'd be in quite the huff, that's for sure. But there's no other way. Even if they say I shouldn't take on the regrets of generations past, I still want to finish this...\n\n...Though the Abyss no longer poses as terrifying a threat as it did back when I was born, but whether for the sake of the \"Jade of Return\" sought by countless adventurers, or to unravel the final riddle of ██, I must go there...\n\n...It's fine, no need to be nervous. You've already had a lot of adventures, right? You're a seasoned adventurer, so it'll all be okay! Not to mention, it's been so long, maybe that nasty dragon has long since vanished...\n\n...Anyway, this is where it starts! My adventure...",
+        "zh": "不知是哪个时代的冒险家遗留下来的笔记，上面记载了此人在「奥奇卡纳塔」中的冒险经历。\n\n某月某日，雾…\n\n…终于还是来到了这里，奥奇卡纳塔，这座被残暴的恶龙据为巢穴的古城，也是██的埋身之地…\n\n…要是被莉莉乌阿姨知道了她一定会很生气吧，不过没办法。即便会被说教不要去背负前人的遗憾，我也还是想要去完成这件事…\n\n…虽然深渊的威胁已经不像我出生的时候那样可怕了，但无论是为了无数冒险家所追寻的「回还之玉」，还是为了解开██最后的谜团，都必须去到那里才行…\n\n…没关系，不要紧张，你不是已经经历过许多冒险了吗？你已经是一个成熟的冒险家了，所以没关系的。况且已经过去这么多年了，那条恶龙说不定早就已经消失了呢…\n\n…总之，就从这里开始吧！我的冒险…"
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Том 2",
+        "en": "Vol. 2",
+        "zh": "卷二"
+      },
+      "text": {
+        "ru": "Записи, оставленные искателем приключений неизвестной эпохи. В них он записал свои приключения в Очканатлане.\n\nЧисло: неизвестно, месяц: неизвестен, погода: дождь...\n\n...Вот же, тот злой дракон всё равно на меня напал. Но нет худа без добра - зато теперь мне открылось это место...\n\n...Ядро Чуулел. Кажется, раньше оно было сердцем всего города. Соплеменники рассказывали, будто святой мудрец древности превратил себя в сердце драконьего города, но кто же знал, что нужно понимать их слова буквально...\n\n...В отличие от остальных, местные Автоматоны таинственного источника, похоже, понимают человеческую речь. Святой мудрец создал их для своей защиты? Как бы то ни было, пока я могу не беспокоиться, что чудовища снаружи до меня доберутся...\n\n...Кто бы мог подумать, у меня получилось! С помощью пирофосфорита мне удалось пробудить спящий в сердце механизма дух дракона... Это и есть дух дракона? Такой милый и бирюзовый! Наверное, я назову его Кокоуик...\n\n...Это путь к Алтарю Первозданного огня. Я вижу метки тётушки Лириву. Значит, по этому же пути шёл ██...\n\n...Остался всего один кусок пирофосфорита, нужно сохранить его для «Тонатиу»...",
+        "en": "Notes left by an adventurer of an unknown era. In them, they recorded their adventures in Ochkanatlan.\n\nMonth: Unknown. Day: Unknown. Weather: Rainy...\n\n...Unbelievable, I ended up being attacked by the dragon after all. But maybe I should be thanking it... After all, I wouldn't have stumbled upon this place without it...\n\n...The Core of Chu'ulel. Seems like it was once the heart of the entire city. I heard a member of the tribe speaking about it before, how in ancient times the Sacred Lord once transformed himself into the heart of the dragon city, but I never expected the meaning to be so literal...\n\n...Unlike those I've encountered elsewhere, the Secret Source Automatons here seem to be able to understand speech. Did the Sacred Lord make them in order to protect himself? Anyway, at least I don't have to worry about monsters coming after me for now...\n\n...I can't believe it actually worked. I used the Pyrophosphorite on my body to awaken the dragonspirit slumbering within the heart of the machine... But is this little guy really a dragonspirit? It's so small, and absolutely adorable! And it's green like a chunk of turquoise, so I think I'll call it Cocouik...\n\n...It's the path to the Altar of Primal Flame. I saw the signs left by Aunt Liriwu, it really is the same path that ██ walked...\n\n...Still, there's only one chunk of Pyrophosphorite left. I must make sure I don't use it up before I get to the Tonatiuh...",
+        "zh": "某月某日，雨…\n\n…没想到还是被那条恶龙缠上了，不过也多亏了它，我才阴差阳错地来到了这里…\n\n…统律之心，在过去似乎是整座城市的心脏。我听部族的人讲过，古时的圣主曾经把自己变化成龙城的心脏，没想到会是字面上的意思…\n\n…和之前在别的地方遇见过的不同，这里的秘源机兵像是能听得懂人话。它们也是圣主制造出来保护自己的吗？不过不管怎么样，暂时不用担心外面的魔物会追上来了…\n\n…没想到真的有用，用身上的火磷石唤醒了机心里沉睡着的龙灵…不过这家伙真的是龙灵吗，这么一小只像是颗「绿松石」一样，还怪可爱的咧…\n\n…是通往源火祭坛的道路，看到了莉莉乌阿姨留下来的标记，果然这是██也走过的路…\n\n…不过只剩下最后一块火磷石了，在去到天蛇船之前可别用掉了啊…"
+      }
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Том 3",
+        "en": "Vol. 3",
+        "zh": "卷三"
+      },
+      "text": {
+        "ru": "Записи, оставленные искателем приключений неизвестной эпохи. В них он записал свои приключения в Очканатлане.\n\nЧисло: неизвестно, месяц: неизвестен, погода: не знаю...\n\n...Мне представлялось это совсем иначе. «Тонатиу» оказался пустым и заброшенным. Я почти вижу, что чувствовал царь питонов в свои последние минуты...\n\n...Здесь столько пирофосфорита. Неужели все камни у искателей приключений были именно отсюда? Но кто забрал их отсюда и отдал им...\n\n...Вот оно как. Благодаря Коко мне наконец-то удалось выяснить истинную природу Нефрита Возвращения...\n\n...Механизм, способный спасти Натлан, но только не нас. Ради него погибло столько героев... Зачем было заманивать нас сюда... Понимаю, тебе не дано к нему прикоснуться, поэтому тебе нужны мы, нужен Коко...\n\n...Но даже если легенда о священной чаше оказалась выдумкой, её поиски всё равно делают тебя героем, и ██, и тётушку Лириву...\n\n...Это последний пирофосфорит на земле. Ты так и хотел, чтобы он оказался здесь? Ладно. Зато больше никто не попадётся на твой обман...\n\n...Ты его не получишь, я не позволю. Здесь твоему плану настанет конец!",
+        "en": "Notes left by an adventurer of an unknown era. In them, they recorded their adventures in Ochkanatlan.\n\nMonth: Unknown. Day: Unknown. Weather: Can't tell from where I am now...\n\n...It's completely different from what I imagined. I didn't expect the Tonatiuh to be such a desolate place. I can almost see what the Python King must've felt in those final moments...\n\n...Still, there's Pyrophosphorite everywhere. Does that mean this is the origin of all the Pyrophosphorite that adventurers get? But who could take it from here and give it to them...\n\n...So that's it. It's only thanks to Coco that I now understand the true nature of the \"Jade of Return\"...\n\n...The machine that could save Natlan, but not us... So many heroes have been sacrificed for this... So why draw us here...? I get it, you can't touch it, can you? That's why you need our hands, need Coco's...\n\n...But even if it's a fake Sacred Grail, it doesn't matter if it's ██, or Aunt Liriwu, anyone who embarks on the journey is a true hero!...\n\n...This is the last fragment of Pyrophosphorite left in the land... Was it your plan for me to bring it here? I guess that's fine, though, since this way, nobody else'll be tricked by you...\n\n...I won't let you get it! Because we're going to stop your plan, right here!",
+        "zh": "某月某日，这里已经看不到天气了…\n\n…和想象中的完全不同，没想到天蛇船会是这样荒凉的地方，似乎能看到那个蛇王最后时刻的心情…\n\n…不过到处都是火磷石，难道说冒险家们手中的火磷石都是从这里来的吗？但又是谁从这里取走交给他们的呢…\n\n…原来是这样，多亏了绿宝我才搞清楚了，那个「回还之玉」的真面目…\n\n…能够拯救纳塔，却无法拯救我们的机关，为此却牺牲了那么多的英雄…为什么要将我们引来这里呢…我知道了，你一定无法触碰它吧，所以才需要藉我们，藉绿宝的手…\n\n…但即便那是虚假的圣杯，██也好，莉莉乌阿姨也好，踏上旅途的都是真正的英雄！…\n\n…这是最后一块遗留在大地上的火磷石了，让我把它带到这里也是你的计划吗？不过这样也好，这样就不会再有人受你的欺骗了…\n\n…我不会让你得到它的，因为我们会在这里终结你的计划！"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "ballads_of_the_squire",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/ballads_of_the_squire.webp",
+  "title": {
+    "ru": "Баллады оруженосца",
+    "en": "Ballads of the Squire",
+    "zh": "侍从骑士之歌"
+  },
+  "region": "Мондштадт",
+  "volume_count": 2,
+  "tags": [
+    "книги",
+    "Мондштадт"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Баллады времён аристократического периода. Есть версия, что их написал Рагнвиндр, Рыцарь Рассвета. В этой части описываются будни оруженосца.\n\nЯ исходил все улицы Мондштадта вдоль и поперёк.\nПолной грудью вдыхал его воздух, преисполненный горя и веселья.\nЯ видел как аристократов, полных высокомерия,\nТак и абсолютно несчастных бедняков.\nА мрачные улицы, подобно паучьим сетям, делили их чётко и беспощадно на две далёких друг от друга касты.\nКажется, что в глубине ночи поют колокольцы - но это звенят кандалы, сковавшие дух угнетённых.\n\nЯ патрулировал ночные улицы Мондштадта,\nНа которых мои начальники и сослуживцы однажды кричали:\n«Мы звёздные рыцари! Поднимем же головы и отринем страх!\nТолько мы, под знаменем, сверкающем в звёздном свете, способны защитить Мондштадт!»\nНо я не поднял тогда голову к звёздам, не взглянул на знамя,\nЯ не мог оторвать взгляда от той грязи, что скопилась в потаённых углах улиц.\n\nОбедневшие торговцы беззвучно рыдают.\nСтарые солдаты испускают тяжкие вздохи,\nВ мертвенной тишине полночи\nОтвергнутая аристократами девчонка взывает к милости Барбатоса.\nГорько воет ветер, стучась в ворота собора,\nВ потоках своих несёт скорбь угнетённых, и стоны их разбиваются о роскошные дворцовые стены.\n\nКаждой матери стон,\nКаждого ребёнка плач -\nИх достаточно, чтобы пробить самый крепкий щит.\nИх достаточно, чтобы согнуть самый острый клинок.\n\nЭтот горестный клич вызывает в теле дрожь.\nНо в высоких дворцах и замках,\nВ величественных святилищах, где гуляет западный ветер...\nТам стонов бесправных не слышат люди.",
+        "en": "Ballads that have been passed down since the aristocratic period and are said to come from Ragnvindr the Dawn Knight himself. They tell of Ragnvindr's days as a knight's squire.\n\nDown every street in Mondstadt have I strolled.\nThe air was filled with the stench of misery and the buzz of revelry.\nI saw the most arrogant of aristocrats,\nAnd I saw the most pitiful of the impoverished.\nAt night these streets are a spider's web — some here to feast, others their eternal prey.\nI hear a jangling in the night, and know it is the chains that fetter the souls of the oppressed.\n\nI patrol the streets of Mondstadt at nighttime,\nWhere my peers and superiors would once declare:\n\"We are the starlit knights, lift thy heads and bear witness!\"\n\"For we, who raise our flag in the splendor of starlight, are the true protectors of Mondstadt!\"\nBut not once have I lifted my head to the stars, or gazed at our flag:\nFor I cannot shift my focus from the filthy street corners.\n\nDestitute peddlers weep in silence.\nAging soldiers grimace in pain.\nIn the deathly stillness of night,\nA young girl, rejected by the Aristocracy, pleads for Barbatos' mercy.\nThe sighing of mournful winds rattles the Cathedral gate,\nCarrying with them the grief of the oppressed, they assault splendid palatial walls.\n\nEach mother's call,\nEach infant's cry,\nEnough to dent the hardest of shields.\nEnough to shatter the sharpest of swords.\n\nSounds of sorrow send shivers down my spine.\nBut in the palace, and in the castle,\nThough the wind blows the same over holy ground,\nThey are but the sighs of ants to the ears of men.",
+        "zh": "第一卷\n自旧贵族时代流传至今的诗歌，据说是「晨曦骑士」莱艮芬德的自述。讲述了他还是骑士侍从时的经历。\n我漫步走过蒙德的每一条街道\n空气中流散着不幸的气息与迷醉的味道\n我看到最高傲的权贵，\n我看到最悲惨的贫民。\n蛛网般的黑暗街巷把他们分隔两半，\n暗夜中丁零作响，那是心灵的镣铐。\n\n在蒙德的街道上巡夜时，\n同僚与上司曾经呼喝道：\n「我们是星光的骑士，尽管抬起头来！\n星辉中的高贵旗帜，才是守护之道！」\n但我未曾抬头仰望星辰，也未曾注目旗帜，\n我只是无法忽视那些肮脏的街角。\n\n破落商贩无声的抽泣，\n年老士卒带血的叹息，\n在午夜死寂的街道上，\n被贵族抛弃的少女祈求巴巴托斯的善意。\n凄凉的群风摇撼了教堂，\n卷挟着哀怨，刮擦着华丽的宫墙。\n\n每一个母亲的每一声呼号，\n每一个幼儿的每一声哭叫。\n足以在最坚固的盾牌上刻下裂痕，\n足以折弯最锋利的长矛。\n\n这些声音令我瑟瑟发抖。\n但在高大的宫殿与城堡，\n在西风呼啸的宏伟圣所…\n蝼蚁的呻吟无人听到。"
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Том 2",
+        "en": "Vol. 2",
+        "zh": "卷二"
+      },
+      "text": {
+        "ru": "Баллады времён аристократического периода. Есть версия, что их написал Рагнвиндр, Рыцарь Рассвета. В этой части описывается дружба Рагнвиндра со знаменитым мечником.\n\nИ вот однажды, на рассвете,\nСтупила на улицы Мондштадта девушка-танцор, для которой свист клинка был песней.\nХотя на руках и ногах её звенели оковы,\nВ молчании её зарождалась песня.\nТо была песня свободы, от которой лучи рассвета за стеной засияли ярче,\nБаллада, которой народ стал вторить.\n\nОна была рассветом для Бродячего ансамбля,\nОна же стала закатом для аристократов, убийц и злодеев.\nНекогда я спросил ту девушку: «Зачем ты пришла, почему свергла наших аристократов?\nВедь ты же знала, что они предводители наши?»\n\n«Тогда почему они приказали вам построить стену?»\nПрозвучал тогда её голос, словно порыв свежего ветра,\n«Если ты считаешь себя другом ветров,\nЗначит, некогда вы были от них свободны?»\n\nСвоим томившимся одиночеством слушателям она рассказала притчу\nО том, что у аристократов были великие предки.\nРассказала легенды об ангелах, о богах и ужасных драконах,\nО божествах и народах, на земле живших.\nВсе мифы её нашли место в балладах и песнях,\nКоторые с ветром разлетелись по разным странам.\n\nНа арене аристократов её меч спел ещё одну песню.\nОна последней была, она была совершенством...\nПотом не имевший имени рыцарь унёс окровавленный меч той девушки с поля боя,\nПредал этот клинок земле в месте, где испокон веков собирались ветры.",
+        "en": "Ballads that have been passed down since the aristocratic period and are said to come from Ragnvindr the Dawn Knight himself. They tell of Ragnvindr's friendship with a sword-dancer.\n\nOne day, at the crack of dawn,\nA dancer whose sword was her song set foot in Mondstadt.\nThough clad in chains with cuffed hands and fettered feet,\nIn her silence lay a song:\nIt was the song of freedom. A song of a brighter dawn beyond the walls,\nA joyous ballad sung without reservation by a people unrestrained.\n\nShe was the dawnlight of the Wanderer's Troupe,\nBut she spelled eternal midnight for the Aristocracy.\nI once asked her, \"Why do you come to overthrow our aristocrats?\"\n\"Do you not know that they are the first among us?\"\n\n\"Wherefore do you place their lives on a pedestal?\"\nCame her voice, like a fresh breeze,\n\"If you claim to know the wind as your companion,\"\n\"Then did you not once know freedom, too?\"\n\nTo her lonesome listeners she told a tale:\nA tale of our rulers' better ancestors who held divine power,\nA tale of angels, gods and vile dragons,\nA tale of the deities and peoples of all the land.\nEach myth and legend she turned to song,\nAnd the wind carried the song to all corners of the land.\n\nIn the aristocrats' arena, her sword sang once more:\nHer final masterpiece, but it stopped short of perfection.\nA nameless knight retrieved her sword from the blood-soaked battlefield,\nAnd buried it where the gentle winds meet in communion.",
+        "zh": "第二卷\n自旧贵族时代流传至今的诗歌，据说是「晨曦骑士」莱艮芬德的自述。讲述了他与一位剑舞者的缘分。\n在某个晨光初露的日子，\n以剑为歌的舞者在蒙德落脚。\n尽管全身被枷锁与镣铐束缚，\n但在她的沉默中有歌声环绕。\n那是自由的歌，是高墙外更加明亮的晨曦，\n与无羁的人民肆意欢唱的民谣。\n\n她是流浪乐团的晨光，\n也是弑杀贵族的凶手。\n我曾询问她：「为何推翻我们的贵族，\n你可知道，他们是我们的魁首？」\n\n「为何他们命你们筑起高墙？」\n她的声音带着轻风的气息，\n「若你自认以风为友伴，\n「若你们曾经拥有自由？」\n\n她为孤独的倾听者讲述过去的故事，\n讲述着贵族们拥有神力的先祖，\n讲述着旧日的天使、诸神与恶龙，\n讲述着每一片国土上的神灵及其子民，\n所有传奇被她一一化作歌谣，\n歌谣又随风传遍整个国度。\n\n在贵族的竞技场中，她再次用剑歌唱。\n那是她的最后一首歌谣，但再不会是绝唱。\n无名的骑士将她的剑带离溅血的大竞技场，\n埋葬在和风集聚的地方。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

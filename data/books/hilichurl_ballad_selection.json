@@ -1,0 +1,57 @@
+{
+  "id": "hilichurl_ballad_selection",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/hilichurl_ballad_selection.webp",
+  "title": {
+    "ru": "Сборник хиличурлских песен",
+    "en": "Hilichurl Ballad Selection",
+    "zh": "丘丘人诗歌选"
+  },
+  "region": "Мондштадт",
+  "volume_count": 2,
+  "tags": [
+    "книги",
+    "Мондштадт"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Эта книга является работой всей жизни придворного поэта, автора стихов на хиличурлском языке, Джейкоба Маска! В своём сборнике поэзии учёный откроет для вас таинственный духовный мир хиличурлов!\n\nСборник стихов хиличурлов, составленный мондштадтским экологом Джейкобом Маском. Чтобы закончить эту книгу, Маск путешествовал по всему континенту, посещая каждое племя хиличурлов на пути. Он зашёл настолько далеко, что отважился жить в поселениях хиличурлов, чтобы ещё глубже погрузиться в их бытовую жизнь. За эту книгу Маска называют «поэтом - лауреатом хиличурлского языка», но очевидно, что ни сам учёный, ни даже хиличурлы особо не любили такой чести. Джейкоб Маск хоть и был увлечён изучением культуры хиличурлов, но он не хотел, чтобы его приравнивали к ним даже в последние годы жизни.\n\nПеснь I:\n\nMi muhe ye\n\nMi biat ye\n\nBiat ye dada\n\nMuhe dada\n\nВполне возможно, что это - боевая песнь, которую хиличурлы поют перед битвой. По моим наблюдениям, когда двое или более хиличурлов собираются и поют её, они вступают в отчаянную схватку друг с другом.\n\nПеснь II:\nEleka mimi-a-Domu\nMita domu-a-dada\nLa-la-la\nLa-la-la\nMimi mosi ye mita\n\nА эту песню пели хиличурлы, танцуя вокруг тотемных столбов. Полагаю, что это их племенной гимн, только с приподнятым тоном. Его можно обычно услышать на их праздниках.\n\nПеснь III:\nMi muhe mita nye\nMi muhe mita nye\nMuhe nye\nMuhe nye\nGusha\nBiat, gusha\n\nЭту тоскливую песню я услышал от пожилого хиличурла. Хотя я до сих пор не понимаю буквального смысла её текста, наполненной печалью мелодии достаточно, чтобы удивить лучших поэтов на моей родине. (Несмотря на такую похвалу, я должен признать, что едкие запахи, исходящие от пожилых хиличурлов, были не менее печальны)",
+        "en": "The masterpiece of the Poet Laureate of Hilichurlian! Scholar Jacob Musk will show you the mysterious spiritual world of the hilichurls through this poetry collection!\n\nA collection of hilichurl poetry compiled by the Mondstadt ecologist Jacob Musk. During the writing of this book, Musk traveled across the continent to visit every hilichurl tribe, even going so far as to venture deep into hilichurl settlements and become intimately acquainted with their lives. Musk was praised as the \"Poet Laureate of Hilichurlian\" for this book, but it is evident that neither the scholar himself nor the hilichurls were particularly fond of this honor. Jacob Musk, though enthusiastic about hilichurl studies, loathed to be associated with them even in his late years.\n\nThe first song:\nMi muhe ye\nMi biat ye\nBiat ye dada\nMuhe dada\n\nQuite possibly a battle song sung by the hilichurls before combat. I have observed that when two or more hilichurls are present, they engage in frenzied brawling after singing this vulgar song.\n\nThe second poem:\nEleka mimi-a-Domu\nMita domu-a-dada\nLa-la-la\nLa-la-la\nMimi mosi ye mita\n\nThe song is sung by hilichurls as they dance around totem poles. In my estimation it is some form of tribal hymn. It has an upbeat tone and is usually heard during festivals.\n\nThe third poem:\nMi muhe mita nye\nMi muhe mita nye\nMuhe nye\nMuhe nye\nGusha\nBiat, gusha\n\nA melancholic hilichurl song I heard during an exchange with an elderly samachurl. Although I do not yet understand the literal meaning of the poem, the overwhelming sense of grief that comes through in the song is enough to captivate the best poets in my birthplace (despite such praise, I must admit the acrid smells coming from the elderly hilichurls were just as melancholic, and just as overwhelming).",
+        "zh": "丘丘语桂冠诗人代表作！通过一部诗集，学者泰斗雅各布·马斯克带你进入丘丘人的神秘精神世界！\n蒙德生态学者雅各布·马斯克整理的丘丘人诗歌选集。为了完成本书，马斯克曾经走遍整片大陆的各丘丘人部落，潜伏进丘丘人可能生活的各处地点，甚至深入参与了丘丘人的生活。马斯克因本书而被誉为「丘丘语桂冠诗人」，但显然无论学者本人，还是他的研究对象丘丘人，都对这个称号不太感冒。雅各布·马斯克尽管热心丘丘人研究，但直到晚年都讨厌别人将他与丘丘人相提并论。\n\n其一：\nMi muhe ye\nMi biat ye\nBiat ye dada\nMuhe dada\n\n这可能是丘丘人在决斗之前哼唱的战歌，因为据笔者观察，在两个或以上丘丘人存在的场合，其中一个唱过这首粗鄙的歌曲后，大家就会很快全部扭打起来，场面往往无比火热。\n\n其二：\nEleka mimi-a-Domu\nMita domu-a-dada\nLa-la-la\nLa-la-la\nMimi mosi ye mita\n\n丘丘人围绕图腾舞蹈时高唱的歌曲，可能是某种部落赞歌，气氛欢乐，一般在丘丘人的祭典狂欢中听到。\n\n其三：\nMi muhe mita nye\nMi muhe mita nye\nMuhe nye\nMuhe nye\nGusha\nBiat, gusha\n\n笔者与一位年老的丘丘人萨满交流时偶然听到的忧郁诗歌，尽管尚不知词句含义，但诗中迸发出的忧伤灵魂足以令笔者家乡最优秀的诗人惊讶不已（尽管老年丘丘人的体味同样浓烈而令人忧郁）。"
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Том 2",
+        "en": "Vol. 2",
+        "zh": "卷二"
+      },
+      "text": {
+        "ru": "Являются ли вино и поэзия частью жизни хиличурлов? Есть ли у них благочестивые желания? Эксперт в области хиличурлов, учёный Джейкоб Маск, даст вам ответы на все вопросы!\n\nПеснь IV:\nCeli upa celi\nSada shato lata\nKuzi unu ya zido\nUnu dada\n\nПесня, спетая одним шамачурлом. Судя по реакции вождя, песня, похоже, несёт в себе особый философский смысл в обществе хиличурлов. Это может показаться смешным для доминирующих академических кругов, и я ни в коем веке не собираюсь оспаривать их авторитетные взгляды, но я обязан заявить, что вопрос о том, существует ли философия среди хиличурлов, всё ещё остаётся нераскрытой, полной романтизма темой.\n\nПеснь V:\nNini movo muhe yoyo\nNini movo mimi tomo\nLata movo mosi yoyo\nCeli movo celi yoyo\n\nНе отличаясь от жителей Мондштадта, поклоняющиеся ветру племена хиличурлов часто напиваются и славят Архонта ветра песнями до упаду. Это ода ветру, которую можно часто услышать в обществе пьяных хиличурлов.\n\nПеснь VI:\nUnu, unu\nYaya ika kundala!\nUnu, unu\nMita dada ya dala?\nUnu, unu\nKuzi mita dada ye\nMita dada-a-mimi\n\nБлагочестивый гимн, исполняемый хиличурлами только во время жертвоприношений. При исполнении этой песни, хиличурлы зачастую хлопают досками по попкам самых слабых членов племени, создавая при этом ритмичные ударные звуки. Ощущения, должно быть, не из приятных.\n\nПеснь VII:\nMimi movo\nMimi sada\nMimi domu\nDomu upa\nGusha dada\n\nОказалось, что у многих племён хиличурлов есть такая традиция - обмениваться песнями вокруг костра при лунном свете. Представленная здесь песня - одна из таких костровых песен, которые поёт вождь племени в завершение мероприятия. В конце песни вождь трижды произносит «Nunu!», что, по-видимому, означает «Спать!».",
+        "en": "Are wine and poetry a part of the hilichurl lifestyle? Do they have pure and devout desires? Expert on the hilichurls, Jacob Musk, is here to answer!\n\nThe fourth poem:\nCeli upa celi\nSada shato lata\nKuzi unu ya zido\nUnu dada\n\nA song sung by samachurls. Judging by the reaction of the chief, the song seems to bear a special philosophical meaning for the hilichurls. It may appear ridiculous in mainstream academic circles, and I have no intention of casting doubt upon well-established views, but I feel obliged to say that the question of whether philosophical discourse truly exists among the hilichurls is one that still fascinates me to this day, and may be deserving of further study.\n\nThe fifth song:\nNini movo muhe yoyo\nNini movo mimi tomo\nLata movo mosi yoyo\nCeli movo celi yoyo\n\nMuch like the people of Mondstadt, the wind-worshiping hilichurl tribes often drink to excess and sing endless songs of praise to the Anemo Archon. This is a hilichurl ode that is often heard when they are inebriated.\n\nThe sixth song:\nUnu, unu\nYaya ika kundala!\nUnu, unu\nMita dada ya dala?\nUnu, unu\nKuzi mita dada ye\nMita dada-a-mimi\n\nA pious ode that is only sung by hilichurls during sacrifices. When performing this ode, the hilichurls often add percussion by beating the backsides of the weakest tribe members with planks, creating rhythmic ringing sounds. It must be quite painful.\n\nThe seventh song:\nMimi movo\nMimi sada\nMimi domu\nDomu upa\nGusha dada\n\nIt appears that many hilichurl tribes share a tradition of exchanging songs around bonfires in the moonlight. This song is one such bonfire ballad sung by the chief at the end of the night. At the end of the song, the chief shouts \"nunu\" three times, which presumably carries the meaning of \"sleep.\"",
+        "zh": "丘丘人的生活也有酒和诗吗？丘丘人也会有虔诚的渴望吗？丘丘人专家雅各布·马斯克给你答案！\n其四：\nCeli upa celi\nSada shato lata\nKuzi unu ya zido\nUnu dada\n\n丘丘人萨满的诗歌，就部落中丘丘长老的反应来看，似乎这首诗在丘丘人中间有特殊的哲学含义。尽管在主流学界看来荒谬万分，而且笔者无意挑战权威观点，但不得不说，丘丘人中间是否存在哲学这一话题，依旧是一个浪漫的文学主题。\n\n其五：\nNini movo muhe yoyo\nNini movo mimi tomo\nLata movo mosi yoyo\nCeli movo celi yoyo\n\n与蒙德人相仿，丘丘人中崇拜风的部落人也经常喝得醉醺醺，没完没了地唱些赞美风的歌曲。这首诗是丘丘人萨满的颂歌，常常在大家喝得酣醉时听到。\n\n其六：\nUnu, unu\nYaya ika kundala!\nUnu, unu\nMita dada ya dala?\nUnu, unu\nKuzi mita dada ye\nMita dada-a-mimi\n\n这是一首虔诚的颂神歌，丘丘人只会在祭祀中演唱。演唱这首歌的时候，丘丘人往往还会配上打击乐器——使用木板击打部落中最弱成员的屁股，发出清脆而有节奏的声响。很疼。\n\n其七：\nMimi movo\nMimi sada\nMimi domu\nDomu upa\nGusha dada\n\n似乎许多丘丘人部落都会有在月光下围着篝火交换歌谣的传统。本诗就是其中一首篝火歌谣，是由丘丘人酋长歌咏的终曲。这首诗结束后，部落长老会高呼三遍「nunu！」大概是「睡觉！」的意思。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

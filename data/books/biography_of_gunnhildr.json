@@ -1,0 +1,44 @@
+{
+  "id": "biography_of_gunnhildr",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/biography_of_gunnhildr.webp",
+  "title": {
+    "ru": "Биография клана Гуннхильдр",
+    "en": "Biography of Gunnhildr",
+    "zh": "古恩希尔德小传"
+  },
+  "region": "Мондштадт",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Мондштадт"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Историческая книга, посвящённая родоначальнику клана Гуннхильдр. Автор - современный мондштадтский историк Экхарт Гуннхильдр. Том стоит из разрозненных легенд и баек аристократического периода.\n\nИ пусть ветра Барбатоса принесут читателю просвещение, а ветра свободы вечно гуляют над Мондштадтом.\n\nИстория клана Гуннхильдр восходит к одной древней легенде. Когда три тысячи лет назад король Башни Декарабиан и король Северных ветров Андриус вступили в войну друг с другом. В то время Мондштадт был сплошной ледяной пустыней, а Гуннхильдра - сильнейшим вождём своего клана.\n\nОтец Гуннхильдры некогда служил самому Декарабиану. Однажды он не смог больше терпеть тиранию упрямого короля и увёл свой клан из города, туда, где ревели над холодной землей безжалостные ветра. Но в бесплодных землях вне городских стен невозможно было выжить, и сбежавшие из когтей тирана люди оказались пойманы в ловушку среди снега и бесконечных ветров.\n\nКогда люди потеряли всякую надежду, дух, живущий среди тысячи ветров, услышал молитвы Гуннхильдры. Вот так искренняя молитва юной дочери вождя и просьбы её клана о помощи, о защите от снега и ветров превратились в веру. И эта вера потекла к духу ветров, будто вода в источник, и придала духу сил. Тогда он укрыл этот клан от бурь, а после наделил дочь вождя силой, чтобы защитить своих людей.\n\nПосле смерти отца Гуннхильдра стала вождём и первой жрицей этого безымянного клана, и с того времени ревностно оберегала свой народ до самого конца. Когда Анемо Архонт Барбатос бросил вызов безжалостному Декарабиану, она во главе своего клана отважно встретила ярость Архонта. Когда Барбатос наконец сверг тирана и освободил людей от терзавших их штормов, она была той, кто венчал победоносного Архонта лавровым венком.\n\nПотом, когда Барбатос ушёл из этого мира, власть знати распространилась по всей земле Мондштадта. Хотя мы знаем, что через тысячу лет все эти наделённые божественными силами властелины прославятся своей жестокостью и коррумпированностью, тогда никто не мог представить, что может случиться в столь далёком будущем, даже сам Барбатос.\n\nПотомки Гуннхильдры тоже были одними из известнейших Мондштадтских аристократов. Но, в отличие от клана Лоуренсов, сотворившего много зла, клан Гуннхильдр всегда придерживался девиза предков: «За Мондштадт, как и всегда», и делал всё, чтобы защитить народ Мондштадта. В борьбе против знати они приняли сторону людей Мондштадта и именно поэтому избежали изгнания.\n\nВ настоящем многие выходцы из клана Гуннхильдр стали храбрыми рыцарями или уважаемыми священнослужителями Ордо Фавониуса. Очевидно, что этот клан всегда отстаивал идеалы предков и исполнял волю Анемо Архонта, защищая земли и людей Мондштадта.",
+        "en": "A history book on the life of the apical ancestor of the Gunnhildr Clan compiled by Eckhart Gunnhildr, a modern historian of Mondstadt. It consists of fragmented stories and legends from the aristocratic period.\n\nMay the gentle breeze of Barbatos carry words of enlightenment and deliver them into the gaze of my readers. And may the wind of freedom forever prevail in Mondstadt.\n\nThe story of the Gunnhildr Clan begins in legend, three thousand years ago during the war between the Lord of the Tower, Decarabian, and the King of the North Wind, Andrius. It was a time when Mondstadt was a frozen wasteland, and Gunnhildr was about to become the strongest leader her nomadic clan had ever seen.\n\nGunnhildr's father, the then-leader of the clan, had once served under Decarabian. He served until he found the despotic rule of the aloof and selfish king to be more than he could bear, whereupon he led his clan outside of the city where ferocious winds howled without mercy. But life in the wasteland beyond the city gates was harsh and unforgiving. Though they had escaped the wrath of a tyrant, they were now faced with the wrath of relentless and all-engulfing blizzards.\n\nJust when all hope seemed lost for the wandering clan, a spirit from the midst of the myriad winds heard Gunnhildr's prayers. The sincere plea of a clan chief's young daughter joined with a people's cry for help, a cry that the blizzard had all but drowned out, and became a faith. The faith gathered in front of the wind spirit like water flowing into a spring and became the source from which the wind spirit drew its power. The wind spirit used this power to make a small shelter for the clan, and bestowed upon the clan chief's daughter the power to protect.\n\nAfter her father's death, Gunnhildr took his place as the clan's leader. She also became its first priestess. From that day forth, she protected her clan faithfully. When the Anemo Archon Barbatos challenged the aloof and selfish king Decarabian's rule, Gunnhildr led her people to make a stand against the Archon's fury. But when Barbatos finally fought through the ferocious winds and freed the tyrant's subjects, she was also the one who decorated the victorious Anemo Archon with laurels.\n\nIn later times, after Barbatos had departed, a class of aristocrats emerged across the land. These rulers, who were possessed of divine power, would become corrupted and turn to tyranny themselves a thousand years later, but none had the ability to predict the distant future. Not even Barbatos himself.\n\nGunnhildr's descendants were themselves a prominent clan within the Aristocracy. But unlike the evil and scheming Lawrence Clan, the Gunnhildrs upheld their legacy of protecting Mondstadt that was enshrined in their motto, \"for Mondstadt, as always,\" doing everything within their power to protect its people. During the later struggle to overthrow the Aristocracy, they took the side of the people of Mondstadt. For this reason, they were spared the sentence of exile that was imposed on the rest of the Aristocracy.\n\nToday, the Gunnhildr Clan is a source of many brave knights and outstanding clergy members that serve in the Knights of Favonius. If history can teach us anything at all about the future, perhaps it is that the Gunnhildr Clan will continue honoring the legacy of its ancestors and its duty to the Anemo Archon: to protect Mondstadt, the land and all who inhabit it, forever.",
+        "zh": "近代蒙德史家埃克哈特·古恩希尔德筛选贵族时代的破碎传说，编写而成的历史著作，讲述了家族先祖古恩希尔德的故事。\n\n愿巴巴托斯的清风拂亮读者的双眼，愿蒙德的自由之风吹荡久长。\n\n古恩希尔德家族起源于一个古老的传说。那是三千年前，「高塔孤王」迭卡拉庇安与「北风之王」安德留斯混战的时代。彼时蛮荒的蒙德冰原，古恩希尔德是流民中最强大的部族首领。\n\n古恩希尔德的父亲曾是迭卡拉庇安的部属。他对孤王乖戾的暴政忍无可忍，率部族逃离了狂风咆哮的古城。但城墙之外的荒芜之地难以生存，出走的流民尽管逃脱了暴君的爪牙，却很快被困在了无尽的风雪中。\n\n正当族人陷入绝境的时刻，千风之中的精灵听到了古恩希尔德的祈祷。就这样，族长年幼的女儿虔诚的求告与流民们被风雪掩盖的呼声凝结成为信仰。信仰集聚在风之精灵的身边，如同流水汇入清泉，为风之精灵带来力量。就这样，他为这一支部族提供了小小的庇护所，又将守护的力量分予族长的女儿。\n\n父亲去世后，古恩希尔德成为了这支无名部族的族长与首位女祭司，自此至终守护着族人。当风之神巴巴托斯向无心的孤王发起挑战时，她率领族人直面神的震怒；当巴巴托斯终于从狂风之下解放了暴君的臣民，也是她为初生的风神戴上了桂冠。\n\n后来，在风神巴巴托斯离去后，蒙德大地上广立贵族——尽管这些拥有神力的统治者在千年之后以腐败暴虐著称，但毕竟即使是巴巴托斯本人也无力预测千百年后的未来。\n\n古恩希尔德的后代也是蒙德的显贵宗室之一。但与作恶多端的劳伦斯家族不同，古恩希尔德家族始终秉持着「永护蒙德」的祖训，尽自己的最大努力守护蒙德的人民。在推翻贵族的斗争中，他们站在了蒙德民众的一边，也正因如此，避免了被驱逐的命运。\n\n如今的古恩希尔德家族为西风骑士团提供了许多伟大的教士与勇猛的骑士，可以想见，该家族将永远坚守祖辈的理想与风神的嘱托，守护蒙德的土地和人民。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

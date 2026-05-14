@@ -1,0 +1,44 @@
+{
+  "id": "humor_from_tianheng",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/humor_from_tianheng.webp",
+  "title": {
+    "ru": "Юмор Тяньхэн",
+    "en": "Humor From Tianheng",
+    "zh": "天衡绝倒集"
+  },
+  "region": "Ли Юэ",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Ли Юэ"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Сборник стихов, который составил волшебник Пиншань. Качество большинства стихов довольно сомнительное, но для многих начинающих поэтов данный сборник служит источником вдохновения.\n\nПеснь I:\nСмотрю на шахматную партию крестьян: один не знает правил, стратегия другого - один сплошной изъян.\nИ на доске - лишь черно-белое месиво фигур. Хоть свысока смотрю пока... Игрой заинтригован я!\n\nПеснь II:\nВокруг - камни удивительных форм и травы, каких не видел свет. Здесь даже деревья бонсай растут сами, без человеческого ухода!\nДеревья одеты в листья цвета янтаря и яшмы, и порой даже местные старожилы удивляются красоте портового города.\n\nПеснь III:\nНад Заоблачным пределом - ещё одно небо. Но простому смертному не должно быть до него дела!\nОттуда такие пейзажи видны, о каких на земле и не знали, а звери и птицы там, верно, давно уж бессмертными стали.\n\nПеснь IV:\nБелый, как шёлк, мелкий, как соль - таков этот древний песок.\nЕго из дворцов выметали богатых, а я его гордо сберёг.\n\nПеснь V:\nКто-то спит на утёсе и ловит рыбу внизу - вот, о чём громко поёт река.\nБог соседней страны гонит ветер, листья цвета багрянца подняв в облака.\n\nПеснь VI:\nПо весне расцветают в деревне Цинцэ цветы. Головами кивают печально, как будто сироты... Запах их опьяняет нежнейшим дыханием весны: пахнут домом они, горьким счастьем и сладостью мёда.\nТростник по осени в поле дрожит, будто птахи перо, - он знает, что скоро его соберут и соткут для одежд полотно.\n\nПеснь VII:\nВластелин Камня возвёл эти горы, и он же создал эту бухту.\nУтёсы изящно склонились над городом: с них обыватель увидит подробно каждую улочку как на ладони.\n\nПеснь VIII:\nОдним летним днём я в лесу наслаждался прохладой, и листья, что ветер собрал, для меня - как кровать.\nВот только москиты решили, что я их добыча, поэтому спешно пришлось мне из леса домой убежать.\n\nПеснь IX:\nЯ, плотно поужинав, вышел на берег моря, и голову вскинул, задумчиво тронув усы:\nМне звёзды над морем тончайший шатёр напомнили, что держит луну, чтобы та не упала в пучину морской воды.\n\nПеснь X:\nПод вечер пришёл я на площади Фэйюнь посмотреть товары: здесь цены на камни обычно высоки, как горы.\nСкажите, почём вон те камушки? Что? Сколько-сколько? Уж лучше пойду на террасе Юйцзин я поем, да и только.",
+        "en": "A poetry collection by Pingshan, The Mystic. The quality of the poems is all over the place, but it has long been a reference book for young poets or poet-wannabes in Liyue.\n\nFirst Poem\nI watch two village men play chess, they play it terribly. For one of them is lacking skill — the other, strategy.\nA muddled mess of bungled chess upon the board ensues. I claim to watch in ignorance... in fact, I'm quite amused!\n\nSecond Poem\nThese curious rock formations! All that grows here grows awry: There's bonsai leaves on bonsai trees that nature bonsified!\nFrom Cor Lapis, to shining jade, to silken shrubs galore, the sights exceed what many aged simpletons can endure.\n\nThird Poem\nJueyun Karst houses a second sky, a place that mere mortals cannot spy.\nThe more that one seeks it, the more it seems true, for the birds and beasts here hail from there too.\n\nFourth Poem\nWhite like silk, fine like salt, an exquisite antique is sand.\nThe rich expel it from their homes, but in mine, I boast that it freely roams.\n\nFifth Poem\nA sound assails my ears, 'tis waves that crash against the cliff. Atop the cliff I sleep, and beneath the cliff I fish.\nA thoughtless neighbor is that wind god, who tears the skies asunder. For he sends things flying everywhere, and disturbs the people's slumber.\n\nSixth Poem\nSpring blooms in Qingce, floral fragrance fills the air. It's times like this I really wish my mom and dad were there.\nSilvergrass softly rustles in the cool autumnal breeze. I harvest it to weave new clothes before the winter freeze.\n\nSeventh Poem\nRex Lapis erected this mountain and built that bay by the sea.\nThese stratified cliffs are majestic, and those streets entertain endlessly.\n\nEighth Poem\nOh, how cool is the shade of the trees when summer's heat sets in! I lie my body on a bed of leaves, in a blanket of breeze ensconced.\nAlas, mosquitoes show no mercy to my tender skin! In haste, I flee from persecution and head back home at once.\n\nNinth Poem\nI took an after-dinner stroll at evening by the sea. I stroked my beard in thought and gazed out at the galaxy:\nThe stars across the sky connect to form a canopy, holding back the moon lest it fall into the sea.\n\nTenth Poem\nI stopped by Feiyun Slope to view the merchants' wares: precious stones of every kind — from expensive to astronomical.\nBut why waste Mora here on rocks, and have none left to spare? I'd rather spend at Yujing Terrace on all things gastronomical.",
+        "zh": "古代方士平山居人所作的闲逸打油诗集，其中作品质量参差不齐。但经常被璃月的年轻诗人或自以为诗人的年轻诗歌爱好者传阅参考。\n\n其一\n闲看乡人着臭棋，冲无谋来当无力。\n黑白胡乱尽随手，我只装痴总无虑。\n\n其二\n万种奇石生异草，天然盆景不须栽。\n石珀美玉霓裳树，迷煞港城老愚翁。\n\n其三\n绝云间内另有天，从来不与俗人传。\n风景万千奇消息，原来鸟兽亦是仙。\n\n其四\n白似织锦细如盐，绝妙古董是白沙。\n富贵厅堂皆扫净，我家遍地当自夸。\n\n其五\n河音震耳松声乱，崖下垂钓崖上眠。\n邻国风神无礼数，红叶乱飞扰安闲。\n\n其六\n轻策春花无爹娘，左也香来右也香。\n荻草秋来羽瑟瑟，收去编织作衣裳。\n\n其七\n岩王当年造此山，亏他又开一大湾。\n巨崖岩桥层层妙，此中市井可细玩。\n\n其八\n林间夏日任乘凉，风作铺盖叶为床。\n可怜蚊虫不饶我，狼狈归去似逃荒。\n\n其九\n傍晚饱饭驻滩边，顺顺胡须望望天。\n海上星汉似大帐，未许明月在里边。\n\n其十\n夜泊名石次第排，绯云坡上价高抬。\n青石一篓何为贵？不如坐饮玉京台。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

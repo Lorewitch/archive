@@ -76,6 +76,1207 @@
     "search_text": "сказание о кунтуре the tale of kuntur 昆图尔的故事 натлан book_series кунтур том 1 vol. 1 卷一"
   },
   {
+    "id": "1000_years_of_loneliness",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/1000_years_of_loneliness.webp",
+    "title": {
+      "ru": "Тысяча лет одиночества",
+      "en": "1000 Years of Loneliness",
+      "zh": "千年孤独"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "тысяча лет одиночества 1000 years of loneliness 千年孤独 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "a_brief_history_of_the_pale_starborn",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/a_brief_history_of_the_pale_starborn.webp",
+    "title": {
+      "ru": "Краткая история Рождённых Бледной звездой",
+      "en": "A Brief History of the Pale Starborn",
+      "zh": "苍星妖灵史略"
+    },
+    "region": "Нод-Край",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Снежная"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "краткая история рождённых бледной звездой a brief history of the pale starborn 苍星妖灵史略 нод-край book_series книги снежная том 1 vol. 1 卷一"
+  },
+  {
+    "id": "a_drunkards_tale",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/a_drunkards_tale.webp",
+    "title": {
+      "ru": "История пьяницы",
+      "en": "A Drunkard's Tale",
+      "zh": "醉客轶事"
+    },
+    "region": "Мондштадт",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "история пьяницы a drunkard's tale 醉客轶事 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "a_legend_of_sword",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/a_legend_of_sword.webp",
+    "title": {
+      "ru": "Легенда о клинке",
+      "en": "A Legend of Sword",
+      "zh": "沉秋拾剑录"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "легенда о клинке a legend of sword 沉秋拾剑录 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "a_nameless_adventurers_notes",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/a_nameless_adventurers_notes.webp",
+    "title": {
+      "ru": "Записи безымянного искателя приключений",
+      "en": "A Nameless Adventurer's Notes",
+      "zh": "无名冒险家的笔记"
+    },
+    "region": "Натлан",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "записи безымянного искателя приключений a nameless adventurer's notes 无名冒险家的笔记 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "a_preliminary_study_of_sangonomiya_folk_belief",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/a_preliminary_study_of_sangonomiya_folk_belief.webp",
+    "title": {
+      "ru": "Предварительное исследование народных верований Сангономии",
+      "en": "A Preliminary Study of Sangonomiya Folk Belief",
+      "zh": "珊瑚宫民间信仰初勘"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "предварительное исследование народных верований сангономии a preliminary study of sangonomiya folk belief 珊瑚宫民间信仰初勘 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "a_thousand_nights",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/a_thousand_nights.webp",
+    "title": {
+      "ru": "Тысяча ночей",
+      "en": "A Thousand Nights",
+      "zh": "千夜故事集"
+    },
+    "region": "Сумеру",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "тысяча ночей a thousand nights 千夜故事集 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "along_with_divinity_prologue",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/along_with_divinity_prologue.webp",
+    "title": {
+      "ru": "Вместе с божествами",
+      "en": "Along with Divinity: Prologue",
+      "zh": "与神性同行"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вместе с божествами along with divinity: prologue 与神性同行 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "an_ode_to_khvarena",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/an_ode_to_khvarena.webp",
+    "title": {
+      "ru": "Ода Хварне",
+      "en": "An Ode to Khvarena",
+      "zh": "灵光颂"
+    },
+    "region": "Сумеру",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ода хварне an ode to khvarena 灵光颂 сумеру book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "ancient_investigation_journal_part_i",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/ancient_investigation_journal_part_i.webp",
+    "title": {
+      "ru": "Древний дневник исследователя",
+      "en": "Ancient Investigation Journal: Part I",
+      "zh": "古老的考察日志·其之一"
+    },
+    "region": "Мондштадт",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "древний дневник исследователя ancient investigation journal: part i 古老的考察日志·其之一 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "anecdota_septentrionalis",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/anecdota_septentrionalis.webp",
+    "title": {
+      "ru": "Северные хроники",
+      "en": "Anecdota Septentrionalis",
+      "zh": "北境秘史"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "северные хроники anecdota septentrionalis 北境秘史 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "ballads_of_the_squire",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/ballads_of_the_squire.webp",
+    "title": {
+      "ru": "Баллады оруженосца",
+      "en": "Ballads of the Squire",
+      "zh": "侍从骑士之歌"
+    },
+    "region": "Мондштадт",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "баллады оруженосца ballads of the squire 侍从骑士之歌 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "biography_of_gunnhildr",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/biography_of_gunnhildr.webp",
+    "title": {
+      "ru": "Биография клана Гуннхильдр",
+      "en": "Biography of Gunnhildr",
+      "zh": "古恩希尔德小传"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "биография клана гуннхильдр biography of gunnhildr 古恩希尔德小传 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "breeze_amidst_the_forest",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/breeze_amidst_the_forest.webp",
+    "title": {
+      "ru": "Лесной Бриз",
+      "en": "Breeze Amidst the Forest",
+      "zh": "林间风"
+    },
+    "region": "Мондштадт",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лесной бриз breeze amidst the forest 林间风 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "conch_echoes",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/conch_echoes.webp",
+    "title": {
+      "ru": "Эхо раковины",
+      "en": "Conch Echoes",
+      "zh": "海螺的回响"
+    },
+    "region": "Нод-Край",
+    "volume_count": 2,
+    "tags": [
+      "книги"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "эхо раковины conch echoes 海螺的回响 нод-край book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "customs_of_liyue",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/customs_of_liyue.webp",
+    "title": {
+      "ru": "Традиции Ли Юэ",
+      "en": "Customs of Liyue",
+      "zh": "璃月风土志"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "традиции ли юэ customs of liyue 璃月风土志 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "debates_on_the_viceroy_of_the_east",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/debates_on_the_viceroy_of_the_east.webp",
+    "title": {
+      "ru": "Дебаты по теме «Наместник Востока»",
+      "en": "Debates on the \"Viceroy of the East\"",
+      "zh": "「东王」史辩"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "дебаты по теме «наместник востока» debates on the \"viceroy of the east\" 「东王」史辩 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "diary_of_roald_the_adventurer",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/diary_of_roald_the_adventurer.webp",
+    "title": {
+      "ru": "Дневники Роальда, искателя приключений",
+      "en": "Diary of Roald the Adventurer",
+      "zh": "冒险家罗尔德的日志"
+    },
+    "region": "Мондштадт",
+    "volume_count": 11,
+    "tags": [
+      "книги"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "дневники роальда, искателя приключений diary of roald the adventurer 冒险家罗尔德的日志 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
+  },
+  {
+    "id": "dodocos_bomb_tastic_adventure",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/dodocos_bomb_tastic_adventure.webp",
+    "title": {
+      "ru": "Бомбические приключения Додоко",
+      "en": "Dodoco’s Bomb-Tastic Adventure",
+      "zh": "嘟嘟可轰轰奇遇记"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "бомбические приключения додоко dodoco’s bomb-tastic adventure 嘟嘟可轰轰奇遇记 мондштадт book_series книги инадзума том 1 vol. 1 卷一"
+  },
+  {
+    "id": "draft_hilichurl_ballads",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/draft_hilichurl_ballads.webp",
+    "title": {
+      "ru": "Проба пера в хиличурлской поэзии",
+      "en": "Draft Hilichurl Ballads",
+      "zh": "丘丘语诗歌试作"
+    },
+    "region": "Мондштадт",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "проба пера в хиличурлской поэзии draft hilichurl ballads 丘丘语诗歌试作 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "fables_de_fontaine",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/fables_de_fontaine.webp",
+    "title": {
+      "ru": "Притчи о животных Фонтейна",
+      "en": "Fables de Fontaine",
+      "zh": "枫丹动物寓言集"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "притчи о животных фонтейна fables de fontaine 枫丹动物寓言集 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "fires_of_autumn_twilight",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/fires_of_autumn_twilight.webp",
+    "title": {
+      "ru": "Пламя осенних сумерек",
+      "en": "Fires of Autumn Twilight",
+      "zh": "秋暮之火"
+    },
+    "region": "Натлан",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "пламя осенних сумерек fires of autumn twilight 秋暮之火 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "flowers_for_princess_fischl",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/flowers_for_princess_fischl.webp",
+    "title": {
+      "ru": "Цветы для принцессы Фишль",
+      "en": "Flowers for Princess Fischl",
+      "zh": "菲谢尔皇女夜谭"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "цветы для принцессы фишль flowers for princess fischl 菲谢尔皇女夜谭 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "gliding_instruction_manual",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/gliding_instruction_manual.webp",
+    "title": {
+      "ru": "Руководство по управлению планером",
+      "en": "Gliding Instruction Manual",
+      "zh": "飞行指南"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "руководство по управлению планером gliding instruction manual 飞行指南 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "glimpses_of_mysterious_inazuma",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/glimpses_of_mysterious_inazuma.webp",
+    "title": {
+      "ru": "Видения таинственной Инадзумы",
+      "en": "Glimpses of Mysterious Inazuma",
+      "zh": "稻妻秘见录"
+    },
+    "region": "Инадзума",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "видения таинственной инадзумы glimpses of mysterious inazuma 稻妻秘见录 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "heart_of_clear_springs",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/heart_of_clear_springs.webp",
+    "title": {
+      "ru": "Сердце родника",
+      "en": "Heart of Clear Springs",
+      "zh": "清泉之心"
+    },
+    "region": "Мондштадт",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сердце родника heart of clear springs 清泉之心 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "hearts_desire",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/hearts_desire.webp",
+    "title": {
+      "ru": "Разбитые мечты",
+      "en": "Heart's Desire",
+      "zh": "碎梦奇珍"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "разбитые мечты heart's desire 碎梦奇珍 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "hex_and_hound",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/hex_and_hound.webp",
+    "title": {
+      "ru": "Ведьма и гончая",
+      "en": "Hex & Hound",
+      "zh": "犬又二分之一"
+    },
+    "region": "Мондштадт",
+    "volume_count": 11,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ведьма и гончая hex & hound 犬又二分之一 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
+  },
+  {
+    "id": "hilichurl_ballad_selection",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/hilichurl_ballad_selection.webp",
+    "title": {
+      "ru": "Сборник хиличурлских песен",
+      "en": "Hilichurl Ballad Selection",
+      "zh": "丘丘人诗歌选"
+    },
+    "region": "Мондштадт",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сборник хиличурлских песен hilichurl ballad selection 丘丘人诗歌选 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "hilichurl_cultural_customs",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/hilichurl_cultural_customs.webp",
+    "title": {
+      "ru": "Культурные традиции хиличурлов",
+      "en": "Hilichurl Cultural Customs",
+      "zh": "丘丘人习俗考察"
+    },
+    "region": "Мондштадт",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "культурные традиции хиличурлов hilichurl cultural customs 丘丘人习俗考察 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "history_of_kings_and_clans_prologue",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/history_of_kings_and_clans_prologue.webp",
+    "title": {
+      "ru": "История королей и кланов",
+      "en": "History of Kings and Clans: Prologue",
+      "zh": "列王与宗室史·序"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "история королей и кланов history of kings and clans: prologue 列王与宗室史·序 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "humor_from_tianheng",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/humor_from_tianheng.webp",
+    "title": {
+      "ru": "Юмор Тяньхэн",
+      "en": "Humor From Tianheng",
+      "zh": "天衡绝倒集"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "юмор тяньхэн humor from tianheng 天衡绝倒集 ли юэ book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "hymns_of_the_far_north",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/hymns_of_the_far_north.webp",
+    "title": {
+      "ru": "Гимны крайнего севера",
+      "en": "Hymns of the Far North",
+      "zh": "终北祷歌集"
+    },
+    "region": "Нод-Край",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Нод-Край",
+      "Гиперборея"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "гимны крайнего севера hymns of the far north 终北祷歌集 нод-край book_series книги гиперборея том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "king_of_invokations",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/king_of_invokations.webp",
+    "title": {
+      "ru": "«Король священного призыва»",
+      "en": "King of Invokations",
+      "zh": "《召唤王》"
+    },
+    "region": "Сумеру",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "«король священного призыва» king of invokations 《召唤王》 сумеру book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "knights_of_favonius_handbook_5th_edition",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/knights_of_favonius_handbook_5th_edition.webp",
+    "title": {
+      "ru": "Руководство для рыцарей Ордо Фавониус. Пятое издание",
+      "en": "Knights of Favonius Handbook - 5th Edition",
+      "zh": "骑士团指导手册·第五版"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "руководство для рыцарей ордо фавониус. пятое издание knights of favonius handbook - 5th edition 骑士团指导手册·第五版 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "kompore_the_cunning",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/kompore_the_cunning.webp",
+    "title": {
+      "ru": "Хитрец Компоре",
+      "en": "Kompore the Cunning",
+      "zh": "狡诈的康波雷"
+    },
+    "region": "Натлан",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "хитрец компоре kompore the cunning 狡诈的康波雷 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "la_chanson_derinnyes",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/la_chanson_derinnyes.webp",
+    "title": {
+      "ru": "Песня Эриний",
+      "en": "La Chanson d'Erinnyes",
+      "zh": "伊黎耶之歌"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "песня эриний la chanson d'erinnyes 伊黎耶之歌 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "legend_of_the_geo_archon_god_of_the_stove",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/legend_of_the_geo_archon_god_of_the_stove.webp",
+    "title": {
+      "ru": "Легенда о Гео Архонте",
+      "en": "Legend of the Geo Archon: God of the Stove",
+      "zh": "岩神传说：炉灶之神"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "легенда о гео архонте legend of the geo archon: god of the stove 岩神传说：炉灶之神 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "legend_of_the_lone_sword",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/legend_of_the_lone_sword.webp",
+    "title": {
+      "ru": "Одинокий клинок в пустошах",
+      "en": "Legend of the Lone Sword",
+      "zh": "荒山孤剑录"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "одинокий клинок в пустошах legend of the lone sword 荒山孤剑录 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "legend_of_the_shattered_halberd",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/legend_of_the_shattered_halberd.webp",
+    "title": {
+      "ru": "«Легенда о разбитой алебарде»",
+      "en": "Legend of the Shattered Halberd",
+      "zh": "神霄折戟录"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "«легенда о разбитой алебарде» legend of the shattered halberd 神霄折戟录 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "lets_go_dodoco",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/lets_go_dodoco.webp",
+    "title": {
+      "ru": "Вперёд, Додоко!",
+      "en": "Let's Go, Dodoco!",
+      "zh": "出发吧！嘟嘟可"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вперёд, додоко! let's go, dodoco! 出发吧！嘟嘟可 мондштадт book_series книги инадзума том 1 vol. 1 卷一"
+  },
+  {
+    "id": "linlings_anthology_of_selected_poetry",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/linlings_anthology_of_selected_poetry.webp",
+    "title": {
+      "ru": "Сборник избранных стихов Линь Лин",
+      "en": "Linling's Anthology of Selected Poetry",
+      "zh": "霖铃精选诗集"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сборник избранных стихов линь лин linling's anthology of selected poetry 霖铃精选诗集 ли юэ book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "maawe_and_monetoo",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/maawe_and_monetoo.webp",
+    "title": {
+      "ru": "Мааве и маниту",
+      "en": "Maawe and Monetoo",
+      "zh": "玛阿威与幻写灵"
+    },
+    "region": "Натлан",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "мааве и маниту maawe and monetoo 玛阿威与幻写灵 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "meadow_of_gems",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/meadow_of_gems.webp",
+    "title": {
+      "ru": "Россыпь жемчуга",
+      "en": "Meadow of Gems",
+      "zh": "珠玑宝矿"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "россыпь жемчуга meadow of gems 珠玑宝矿 ли юэ book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "men_of_lithin",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/men_of_lithin.webp",
+    "title": {
+      "ru": "Народ литина",
+      "en": "Men of Lithin",
+      "zh": "石素人"
+    },
+    "region": "Натлан",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "народ литина men of lithin 石素人 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "moonlit_bamboo_forest",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/moonlit_bamboo_forest.webp",
+    "title": {
+      "ru": "Ночь в бамбуковом лесу",
+      "en": "Moonlit Bamboo Forest",
+      "zh": "竹林月夜"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ночь в бамбуковом лесу moonlit bamboo forest 竹林月夜 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "mt_lingmeng_gossip",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/mt_lingmeng_gossip.webp",
+    "title": {
+      "ru": "Слухи горы Линмэн",
+      "en": "Mt. Lingmeng Gossip",
+      "zh": "灵濛山夜话"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "слухи горы линмэн mt. lingmeng gossip 灵濛山夜话 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "new_chronicles_of_the_six_kitsune",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/new_chronicles_of_the_six_kitsune.webp",
+    "title": {
+      "ru": "Новые хроники шести кицунэ",
+      "en": "New Chronicles of the Six Kitsune",
+      "zh": "新六狐传"
+    },
+    "region": "Инадзума",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "новые хроники шести кицунэ new chronicles of the six kitsune 新六狐传 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "night_murmurs_from_the_far_border_varcolac",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/night_murmurs_from_the_far_border_varcolac.webp",
+    "title": {
+      "ru": "Ночной шёпот издалека",
+      "en": "Night Murmurs From the Far Border: Varcolac",
+      "zh": "边乡夜语·鬣兽"
+    },
+    "region": "Нод-Край",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Нод-Край"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ночной шёпот издалека night murmurs from the far border: varcolac 边乡夜语·鬣兽 нод-край book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "of_mountains_and_seas",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/of_mountains_and_seas.webp",
+    "title": {
+      "ru": "Книга гор и морей",
+      "en": "\"Of Mountains and Seas\"",
+      "zh": "山与海之书"
+    },
+    "region": "Мондштадт",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "книга гор и морей \"of mountains and seas\" 山与海之书 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
     "id": "onibudou",
     "category": "books",
     "subtype": "book_series",
