@@ -425,6 +425,39 @@
     "search_text": "нод-край development_materials material_set talents таланты 天赋 лунный свет книги талантов материалы развития teachings_of_moonlight guide_to_moonlight philosophies_of_moonlight учения о «лунном свете» teachings of moonlight 「月光」的教导 указания о «лунном свете» guide to moonlight 「月光」的指引 философия о «лунном свете» philosophies of moonlight 「月光」的哲学 материал повышения талантов. лунный свет - благословение земли под луной. вещи бывают разными, как и люди. но под лунным светом все равны. talent level-up material. \"moonlight\" is the blessing of the land beneath the moon. things come in all sizes, and people come in all states of wisdom. yet under the moonlight, all are equal. 天赋培养素材。 「月光」是月下之地的祝福。 物有大小不一，人有贤愚不齐。但在月光之下，一切都是平等的。 материал повышения талантов. лунный свет - благословение земли под луной. затянутое облаками лунное сияние едва освещает бескрайние тёмные земли, но даже этот слабый свет указывает путь сквозь нескончаемую ночь. talent level-up material. \"moonlight\" is the blessing of the land beneath the moon. the cloud-veiled moonlight glows but faintly over the boundless dark wilds. yet its fragile glimmer is a guide through the endless night. 天赋培养素材。 「月光」是月下之地的祝福。 云中之月的光芒，相对于幽暗无垠的荒野是如此微弱，然而在漫漫长夜中，引导人们前行的却总是那一缕微光。 материал повышения талантов. лунный свет - благословение земли под луной. молитвы новолунию о милости и удаче в пути - обряд, передававшийся со времён первых людей. лунный свет этой ночью кажется таким же, как всегда, но где же то новолуние, в которое когда-то вглядывались люди? talent level-up material. \"moonlight\" is the blessing of the land beneath the moon. praying to the new moon for guidance and fortune is a rite passed down from the days of the first people. tonight's moonlight seems no different from any other night, yet where is the new moon that people once looked to? 天赋培养素材。 「月光」是月下之地的祝福。 于新月初升之时向天空之月祈求启示与祝福，是从初民的时代流传至今的仪式。今夜的月光似乎与过去的每一夜并无不同，但人们曾仰望的那轮新月又在何方？"
   },
   {
+    "id": "moonfall_silver",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/moonfall_silver.webp",
+    "title": {
+      "ru": "Серебро захода луны",
+      "en": "Moonfall Silver",
+      "zh": "月落银"
+    },
+    "region": "Нод-Край",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "серебро захода луны moonfall silver 月落银 нод-край teyvat_resources item local_specialty диковинка local specialty 区域特产 серебристый кристалл, чистый и сияющий, как лунный свет. обладает почти совершенной элементальной проводимостью. согласно преданиям детей морозной луны, эти кристаллы появились пятьсот лет назад вместе с куутар и, как полагала тогдашний голос лунного гимна, были даром от луны, за что и получили название «серебро захода луны». однако в более ранних документах, написанных летописцами снежной, говорится, что потомки золотого царства начали использовать тайное серебро, сотканное морозной луной, тысячи лет назад. связь между этими утверждениями давно утрачена, и достоверно известно лишь одно: ремесленники нод-края по-прежнему считают эти кристаллы превосходными элементальными проводниками. a silver crystal as pure and pristine as moonlight. it possesses almost perfect elemental affinity. in the legacy of the frostmoon scions, these crystals were born five hundred years ago alongside the moon maiden, and were believed by the moonchanter at the time to be a gift from the moon, hence the name \"moonfall silver\". however, in older documents written by snezhnayan chroniclers, the descendants of the golden realm were already using secret silver woven by the frostmoon thousands of years in the past. the threads that connect these two tales are unclear — the only certain thing is that these crystals make excellent elemental conductors in the eyes of nod-krai's craftspeople. 如月光一般明净无瑕的银白晶体，具有几乎完美的元素亲和力。 在霜月之子的传承中，这种晶石于五百年前伴随月之少女一同诞生，被彼时的咏月使认为是从月上落下的馈赠，因此得名「月落银」。然而在至冬的编年者们记述的、更为古老的文献中，黄金国的遗胤自数千年前便在使用霜月纺就的秘银。两者之间的关联早已无从考证，唯一能确定的只有这种晶石如今依然被挪德卡莱的工匠们视为绝佳的元素力导体。"
+  },
+  {
     "id": "01_heretic_of_the_false_moon",
     "category": "items",
     "icon": "assets/icons/enemies/01_heretic_of_the_false_moon.webp",
