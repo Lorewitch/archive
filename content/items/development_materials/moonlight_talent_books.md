@@ -10,6 +10,11 @@
 
 # tags: Лунный свет, книги талантов, материалы развития, Нод-Край
 
+# title_ru: Книги талантов «Лунный свет»
+# title_en: Moonlight Talent Books
+# title_zh: 「月光」天赋书
+# icon: assets/icons/items/development_materials/teachings_of_moonlight.webp
+
 # region: Нод-Край
 ---
 
