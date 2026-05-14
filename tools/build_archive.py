@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import argparse
 import json
 import re
 from pathlib import Path
@@ -74,12 +75,7 @@ ITEM_TYPE_DEFINITIONS = {
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
 
-
 WARNINGS: list[str] = []
-
-
-def warn(path: Path | str, message: str) -> None:
-    WARNINGS.append(f"{path}: {message}")
 
 
 def read_text(path: Path) -> str:
@@ -219,42 +215,6 @@ def title_from_meta(meta: dict[str, str]) -> dict[str, str]:
     }
 
 
-
-def title_has_text(title: dict[str, str]) -> bool:
-    return any(str(title.get(lang, "")).strip() for lang in LANGS)
-
-
-def readable_title_from_id(entry_id: str) -> str:
-    cleaned = re.sub(r"[_\-]+", " ", entry_id).strip()
-    return cleaned[:1].upper() + cleaned[1:] if cleaned else "Untitled"
-
-
-def title_with_fallback(title: dict[str, str], fallback: dict[str, str]) -> dict[str, str]:
-    return {lang: str(title.get(lang, "")).strip() or str(fallback.get(lang, "")).strip() for lang in LANGS}
-
-
-def material_group_title_fallback(entry_id: str, entry_type: str, item_group: str, materials: list[dict[str, Any]]) -> dict[str, str]:
-    readable = readable_title_from_id(entry_id)
-    first_title = materials[0].get("title", {}) if materials else {}
-    first = {lang: str(first_title.get(lang, "")).strip() or readable for lang in LANGS}
-
-    if item_group == "development_materials":
-        return {
-            "ru": f"Набор материалов: {first['ru']}",
-            "en": f"Material Set: {first['en']}",
-            "zh": f"素材套组：{first['zh']}",
-        }
-
-    if entry_type == "enemy_drops":
-        return {
-            "ru": f"Материалы: {first['ru']}",
-            "en": f"Drops: {first['en']}",
-            "zh": f"掉落素材：{first['zh']}",
-        }
-
-    return {"ru": readable, "en": readable, "zh": readable}
-
-
 def languages_from_text(text_by_lang: dict[str, str] | None = None, volumes: list[dict[str, Any]] | None = None) -> list[str]:
     found: list[str] = []
     for lang in LANGS:
@@ -302,11 +262,6 @@ def is_placeholder_note(text: str) -> bool:
         "заметка к короне",
         "заметки пока не заполнены",
         "здесь можно написать общий комментарий",
-        "здесь можно написать общий комментарий по противнику",
-        "здесь можно написать заметки по группе",
-        "здесь можно написать заметки по группе материалов",
-        "здесь можно оставить внутренние заметки",
-        "здесь можно оставить внутренние заметки по серии",
         "заметка к первому материалу",
         "заметка ко второму материалу",
         "заметка к третьему материалу",
@@ -674,26 +629,6 @@ def material_title_match(title: str, material: dict[str, Any]) -> bool:
     return False
 
 
-
-def should_take_title_from_heading(existing: str, heading: str) -> bool:
-    heading = heading.strip()
-    existing = str(existing or "").strip()
-    if not heading or heading.lower().startswith("material:") or heading.lower().startswith("enemy:"):
-        return False
-    if not existing:
-        return True
-    normalized_existing = re.sub(r"\s+", " ", existing).casefold()
-    normalized_heading = re.sub(r"\s+", " ", heading).casefold()
-    if normalized_existing == normalized_heading:
-        return False
-    placeholders = {"材料一", "材料二", "材料三", "material 1", "material 2", "material 3"}
-    if existing in placeholders or normalized_existing.startswith("material_"):
-        return True
-    # If the metadata title is visibly truncated and the actual subsection heading contains it,
-    # prefer the complete heading. Example: 医的假面 -> 贤医的假面.
-    return normalized_existing in normalized_heading and len(normalized_heading) > len(normalized_existing)
-
-
 def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> list[dict[str, Any]]:
     materials: list[dict[str, Any]] = []
     for number in material_index_keys(meta):
@@ -739,8 +674,6 @@ def parse_enemy_materials(meta: dict[str, str], sections: dict[str, str]) -> lis
 
             if target is not None:
                 target["text"][lang] = block["text"]
-                if should_take_title_from_heading(target.get("title", {}).get(lang, ""), block["title"]):
-                    target.setdefault("title", {})[lang] = block["title"].strip()
 
     return materials
 
@@ -797,17 +730,11 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         text_by_lang = full_text_by_lang
         languages = languages_from_text(text_by_lang=text_by_lang)
 
-    entry_title = title_from_meta(meta)
-    item_group = normalized_item_group(meta) if category == "items" else ""
-    if category == "items" and is_material_group and not title_has_text(entry_title):
-        entry_title = material_group_title_fallback(entry_id, entry_type, item_group, materials)
-        warn(path, "missing title_ru/title_en/title_zh; generated a temporary fallback title")
-
     entry: dict[str, Any] = {
         "id": entry_id,
         "category": category,
         "icon": meta.get("icon", "").strip(),
-        "title": entry_title,
+        "title": title_from_meta(meta),
         "region": meta.get("region", ""),
         "rarity": int_from_meta(meta, "rarity", None),
         "tags": tags_from_meta(meta),
@@ -818,6 +745,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     }
 
     dropped_by = comma_list_from_meta(meta, "dropped_by")
+    item_group = normalized_item_group(meta) if category == "items" else ""
     if category == "items" and item_group == "common_enemies" and dropped_by:
         entry["dropped_by"] = dropped_by
         entry["dropped_by_enemies"] = []
@@ -877,6 +805,125 @@ def make_search_text(*values: Any) -> str:
                 seen.add(normalized)
                 parts.append(normalized)
     return " ".join(parts)
+
+
+def display_path(path: Path | str) -> str:
+    try:
+        return str(Path(path).resolve().relative_to(ROOT))
+    except Exception:
+        return str(path)
+
+
+def add_warning(path: Path | str, message: str) -> None:
+    WARNINGS.append(f"{display_path(path)}: {message}")
+
+
+def warn_missing_titles(entry: dict[str, Any], path: Path) -> None:
+    title = entry.get("title") or {}
+    for lang in LANGS:
+        if not str(title.get(lang, "")).strip():
+            add_warning(path, f"нет title_{lang}")
+
+
+def warn_missing_icon(entry: dict[str, Any], path: Path) -> None:
+    icon = str(entry.get("icon", "")).strip()
+    icon_is_optional = (
+        entry.get("category") == "items"
+        and entry.get("item_group") in {"common_enemies", "development_materials"}
+        and entry.get("materials")
+    )
+    if not icon:
+        if not icon_is_optional:
+            add_warning(path, "нет icon")
+        return
+    if not (ROOT / icon).exists():
+        add_warning(path, f"иконка не найдена: {icon}")
+
+
+def warn_duplicate_id(seen: dict[str, Path], entry: dict[str, Any], path: Path) -> None:
+    entry_id = str(entry.get("id", "")).strip()
+    if not entry_id:
+        add_warning(path, "нет id")
+        return
+    if entry_id in seen:
+        add_warning(path, f"дублируется id '{entry_id}' с файлом {display_path(seen[entry_id])}")
+    else:
+        seen[entry_id] = path
+
+
+def validate_materials(entry: dict[str, Any], path: Path) -> None:
+    materials = entry.get("materials", [])
+    if entry.get("entry_type") in {"enemy_drops", "material_set"} and not materials:
+        add_warning(path, "entry_type требует material_1_*/material_2_* или секции ### material: ...")
+
+    for material in materials:
+        key = str(material.get("key", "")).strip()
+        if not key:
+            add_warning(path, "у материала нет key")
+        title = material.get("title") or {}
+        for lang in LANGS:
+            if not str(title.get(lang, "")).strip():
+                add_warning(path, f"у материала {key or '?'} нет title_{lang}")
+        icon = str(material.get("icon", "")).strip()
+        if icon and not (ROOT / icon).exists():
+            add_warning(path, f"иконка материала не найдена: {icon}")
+
+
+def validate_entry(entry: dict[str, Any], path: Path) -> None:
+    if not str(entry.get("id", "")).strip():
+        add_warning(path, "нет id")
+
+    warn_missing_titles(entry, path)
+    warn_missing_icon(entry, path)
+
+    category = entry.get("category")
+    if category == "books":
+        subtype = entry.get("subtype") or entry.get("book_type")
+        if subtype not in BOOK_SUBTYPES:
+            add_warning(path, f"неизвестный subtype/book_type: {subtype}")
+        if not entry.get("volumes"):
+            add_warning(path, "нет томов/текста книги")
+
+    elif category == "artifacts":
+        parts = entry.get("parts", [])
+        if len(parts) != 5:
+            add_warning(path, f"у сета артефактов найдено частей: {len(parts)} вместо 5")
+
+    elif category == "weapons":
+        weapon_type = entry.get("weapon_type")
+        if weapon_type not in WEAPON_TYPES:
+            add_warning(path, f"weapon_type должен быть одним из {', '.join(sorted(WEAPON_TYPES))}; сейчас: {weapon_type or 'пусто'}")
+
+    elif category == "items":
+        item_group = entry.get("item_group")
+        if item_group not in ITEM_GROUPS:
+            add_warning(path, f"неизвестный item_group: {item_group}")
+        if item_group == "development_materials" and entry.get("material_type") not in DEVELOPMENT_MATERIAL_TYPES:
+            add_warning(path, f"неизвестный material_type: {entry.get('material_type')}")
+        if item_group in ITEM_TYPE_DEFINITIONS:
+            item_type = entry.get("item_type")
+            if item_type not in ITEM_TYPE_DEFINITIONS[item_group]:
+                add_warning(path, f"неизвестный item_type для {item_group}: {item_type}")
+        validate_materials(entry, path)
+
+    elif category == "enemies":
+        if not str(entry.get("enemy_group", "")).strip():
+            add_warning(path, "нет enemy_group")
+        if not str(entry.get("enemy_type", "")).strip():
+            add_warning(path, "нет enemy_type")
+
+    else:
+        add_warning(path, f"неизвестная category: {category}")
+
+
+def report_warnings(strict: bool = False) -> None:
+    if not WARNINGS:
+        return
+    print("\nПредупреждения сборки:")
+    for warning in WARNINGS:
+        print(f"- {warning}")
+    if strict:
+        raise SystemExit("\nСтрогая проверка остановила сборку: исправь предупреждения выше.")
 
 
 
@@ -1033,8 +1080,11 @@ def build_collection(
     clean_json_dir(detail_dir)
 
     entries: list[dict[str, Any]] = []
+    seen_ids: dict[str, Path] = {}
     for md_file in sorted(source_dir.rglob("*.md")):
         entry = builder(md_file)
+        validate_entry(entry, md_file)
+        warn_duplicate_id(seen_ids, entry, md_file)
         entries.append(entry)
         write_json(detail_dir / f"{entry['id']}.json", entry)
 
@@ -1091,7 +1141,14 @@ def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
     source_dir = CONTENT_DIR / "items"
     source_dir.mkdir(parents=True, exist_ok=True)
 
-    items = [build_generic(md_file, "items") for md_file in sorted(source_dir.rglob("*.md"))]
+    items: list[dict[str, Any]] = []
+    seen_ids: dict[str, Path] = {}
+    for md_file in sorted(source_dir.rglob("*.md")):
+        item = build_generic(md_file, "items")
+        validate_entry(item, md_file)
+        warn_duplicate_id(seen_ids, item, md_file)
+        items.append(item)
+
     enemies_by_id = {enemy.get("id"): enemy for enemy in enemies if enemy.get("id")}
 
     enemy_to_items: dict[str, list[dict[str, Any]]] = {enemy_id: [] for enemy_id in enemies_by_id}
@@ -1127,14 +1184,20 @@ def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return items
 
 
-def build() -> None:
+def build(strict: bool = False) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     books = build_collection("books", build_book, index_book)
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
     enemy_source_dir.mkdir(parents=True, exist_ok=True)
-    enemies = [build_enemy(md_file) for md_file in sorted(enemy_source_dir.rglob("*.md"))]
+    enemies: list[dict[str, Any]] = []
+    seen_enemy_ids: dict[str, Path] = {}
+    for md_file in sorted(enemy_source_dir.rglob("*.md")):
+        enemy = build_enemy(md_file)
+        validate_entry(enemy, md_file)
+        warn_duplicate_id(seen_enemy_ids, enemy, md_file)
+        enemies.append(enemy)
 
     items = build_items(enemies)
 
@@ -1150,12 +1213,16 @@ def build() -> None:
         "enemies": len(enemies),
     }
     write_json(DATA_DIR / "archive_summary.json", summary)
-    if WARNINGS:
-        print("Archive warnings:")
-        for message in WARNINGS:
-            print(f"  - {message}")
     print("Built archive data:", summary)
+    report_warnings(strict=strict)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Build Lorewitch archive JSON data.")
+    parser.add_argument("--strict", action="store_true", help="Stop with an error if the build finds warnings.")
+    args = parser.parse_args()
+    build(strict=args.strict)
 
 
 if __name__ == "__main__":
-    build()
+    main()
