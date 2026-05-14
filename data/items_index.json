@@ -11,6 +11,8 @@
     "region": "",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
     "material_type": "",
     "material_type_title": {},
     "materials": [
@@ -368,6 +370,8 @@
     "region": "Нод-Край",
     "item_group": "development_materials",
     "entry_type": "material_set",
+    "item_type": "",
+    "item_type_title": {},
     "material_type": "talents",
     "material_type_title": {
       "ru": "Таланты",
@@ -432,6 +436,8 @@
     "region": "Нод-Край",
     "item_group": "weekly_bosses",
     "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
     "material_type": "",
     "material_type_title": {},
     "materials": [
@@ -492,6 +498,8 @@
     "region": "Нод-Край",
     "item_group": "world_bosses",
     "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
     "material_type": "",
     "material_type_title": {},
     "materials": [
