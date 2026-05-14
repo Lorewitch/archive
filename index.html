@@ -2474,6 +2474,61 @@
       }
     }
 
+
+    /* v36: common_enemies mobile catalog — like boss cards: materials, then enemies; no type block */
+    @media (max-width: 700px) {
+      .catalog-row.cols-items-common-enemy.item {
+        gap: 10px;
+      }
+
+      .catalog-row.cols-items-common-enemy.item > div {
+        display: block;
+      }
+
+      .catalog-row.cols-items-common-enemy.item > div::before {
+        display: none !important;
+        content: "" !important;
+      }
+
+      .catalog-row.cols-items-common-enemy.item > div:nth-child(2) {
+        display: none !important;
+      }
+
+      .catalog-row.cols-items-common-enemy.item > div:nth-child(3) {
+        margin-top: 8px;
+        padding-top: 0;
+        border-top: 0;
+      }
+
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-list {
+        gap: 8px;
+      }
+
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-item {
+        grid-template-columns: 32px minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-item img {
+        width: 32px;
+        height: 32px;
+      }
+
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-ru {
+        font-size: 13px;
+      }
+
+      .catalog-row.cols-items-common-enemy .catalog-material-plain-sub {
+        font-size: 11px;
+        line-height: 1.2;
+      }
+
+      .catalog-row.cols-items-common-enemy .dropped-by-catalog-list {
+        margin-top: 10px;
+        gap: 7px;
+      }
+    }
+
 </style>
 </head>
 <body>
