@@ -30,7 +30,19 @@
     "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurls display a strong sense of adaptability to their surroundings. In icy environments, they come up with ways and means to fashion this hard ice into shields to protect themselves.",
     "zh": "提瓦特荒野中游荡的原始住民。\n丘丘人有着强大的环境适应性的证明。在冰元素富集的环境中，能设法利用坚冰制成盾牌保护自己。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

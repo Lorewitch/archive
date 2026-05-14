@@ -30,7 +30,19 @@
     "en": "A mysterious \"lord\" of hilichurls that strides through the thunderstorm.\nThis huge hilichurl is referred to as \"Lawa\" by its brethren. Its giant body is so saturated with Electro energy that Elemental Energy seeps through the cracks in its body in the form of Electro Crystal growths.",
     "zh": "雷暴中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

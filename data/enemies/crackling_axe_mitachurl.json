@@ -30,7 +30,19 @@
     "en": "Muscular hilichurls who wield large, two-handed axes.\nAttacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal.\nAxes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
     "zh": "持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用雷史莱姆为战斧附上雷元素，具有强大的破坏力。\n钢铁锻造的斧头是非常良好的感电材料。高大魁梧的雷斧丘丘暴徒高举大斧，召引天雷的样子对丘丘人而言可是相当雄壮的景象。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

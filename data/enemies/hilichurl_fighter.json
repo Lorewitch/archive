@@ -30,7 +30,19 @@
     "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nIll-tempered warriors for their tribes, they are simple-minded believers in the power of brute force. If their muscles grow strong enough and their strength great enough, then one day they too shall raise up a great shield and become a mitachurl... Or will they?",
     "zh": "提瓦特荒野中游荡的原始住民。\n坏脾气的部落战士，朴实地信奉着肌肉的力量。如果肌肉够结实，力量够强，那终有一天也能举起巨大的盾牌，成为「丘丘暴徒」…？"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

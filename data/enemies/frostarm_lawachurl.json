@@ -30,7 +30,19 @@
     "en": "A mysterious \"lord\" of hilichurls that stalks the snow and fog.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. Its body, honed to the very limit, almost seems to blend into its Cryo-filled environment, and its stoic nobility is like that of the frozen northland rivers.",
     "zh": "雪雾中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。锻炼至极致的肉身似乎已和环境中满溢的冰元素相互融合，沉默威严有如北国的冰川。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

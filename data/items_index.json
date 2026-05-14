@@ -42,7 +42,33 @@
     ],
     "material_count": 3,
     "dropped_by": [
-      "hilichurl"
+      "hilichurl",
+      "hilichurl_fighter",
+      "hilichurl_berserker",
+      "wooden_shield_hilichurl_guard",
+      "ice_shield_hilichurl_guard",
+      "rock_shield_hilichurl_guard",
+      "hilichurl_shooter",
+      "pyro_hilichurl_shooter",
+      "electro_hilichurl_shooter",
+      "cryo_hilichurl_shooter",
+      "hilichurl_grenadier",
+      "electro_hilichurl_grenadier",
+      "cryo_hilichurl_grenadier",
+      "wooden_shieldwall_mitachurl",
+      "rock_shieldwall_mitachurl",
+      "ice_shieldwall_mitachurl",
+      "blazing_axe_mitachurl",
+      "crackling_axe_mitachurl",
+      "thunderhelm_lawachurl",
+      "frostarm_lawachurl",
+      "stonehide_lawachurl",
+      "anemo_samachurl",
+      "electro_samachurl",
+      "dendro_samachurl",
+      "hydro_samachurl",
+      "geo_samachurl",
+      "cryo_samachurl"
     ],
     "dropped_by_enemies": [
       {
@@ -54,9 +80,269 @@
         },
         "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
         "enemy_group": "hilichurls"
+      },
+      {
+        "id": "hilichurl_fighter",
+        "title": {
+          "ru": "Хиличурл-боец",
+          "en": "Hilichurl Fighter",
+          "zh": "打手丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "hilichurl_berserker",
+        "title": {
+          "ru": "Хиличурл-берсерк",
+          "en": "Hilichurl Berserker",
+          "zh": "冲锋丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "wooden_shield_hilichurl_guard",
+        "title": {
+          "ru": "Хиличурл с деревянным щитом",
+          "en": "Wooden Shield Hilichurl Guard",
+          "zh": "木盾丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "ice_shield_hilichurl_guard",
+        "title": {
+          "ru": "Хиличурл с ледяным щитом",
+          "en": "Ice Shield Hilichurl Guard",
+          "zh": "冰盾丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "rock_shield_hilichurl_guard",
+        "title": {
+          "ru": "Хиличурл с каменным щитом",
+          "en": "Rock Shield Hilichurl Guard",
+          "zh": "岩盾丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "hilichurl_shooter",
+        "title": {
+          "ru": "Хиличурл-стрелок",
+          "en": "Hilichurl Shooter",
+          "zh": "射手丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "pyro_hilichurl_shooter",
+        "title": {
+          "ru": "Пиро хиличурл-стрелок",
+          "en": "Pyro Hilichurl Shooter",
+          "zh": "火箭丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "electro_hilichurl_shooter",
+        "title": {
+          "ru": "Электро хиличурл-стрелок",
+          "en": "Electro Hilichurl Shooter",
+          "zh": "雷箭丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "cryo_hilichurl_shooter",
+        "title": {
+          "ru": "Крио хиличурл-стрелок",
+          "en": "Cryo Hilichurl Shooter",
+          "zh": "冰箭丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "hilichurl_grenadier",
+        "title": {
+          "ru": "Хиличурл-гренадёр",
+          "en": "Hilichurl Grenadier",
+          "zh": "爆弹丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "electro_hilichurl_grenadier",
+        "title": {
+          "ru": "Электро хиличурл-гренадёр",
+          "en": "Electro Hilichurl Grenadier",
+          "zh": "雷弹丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "cryo_hilichurl_grenadier",
+        "title": {
+          "ru": "Крио хиличурл-гренадёр",
+          "en": "Cryo Hilichurl Grenadier",
+          "zh": "冰弹丘丘人"
+        },
+        "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "wooden_shieldwall_mitachurl",
+        "title": {
+          "ru": "Митачурл с деревянным щитом",
+          "en": "Wooden Shieldwall Mitachurl",
+          "zh": "木盾丘丘暴徒"
+        },
+        "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "rock_shieldwall_mitachurl",
+        "title": {
+          "ru": "Митачурл с каменным щитом",
+          "en": "Rock Shieldwall Mitachurl",
+          "zh": "岩盾丘丘暴徒"
+        },
+        "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "ice_shieldwall_mitachurl",
+        "title": {
+          "ru": "Митачурл с ледяным щитом",
+          "en": "Ice Shieldwall Mitachurl",
+          "zh": "冰盾丘丘暴徒"
+        },
+        "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "blazing_axe_mitachurl",
+        "title": {
+          "ru": "Митачурл с огненным топором",
+          "en": "Blazing Axe Mitachurl",
+          "zh": "火斧丘丘暴徒"
+        },
+        "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "crackling_axe_mitachurl",
+        "title": {
+          "ru": "Митачурл с электрическим топором",
+          "en": "Crackling Axe Mitachurl",
+          "zh": "雷斧丘丘暴徒"
+        },
+        "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "thunderhelm_lawachurl",
+        "title": {
+          "ru": "Лавачурл с громовым шлемом",
+          "en": "Thunderhelm Lawachurl",
+          "zh": "丘丘雷兜王"
+        },
+        "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "frostarm_lawachurl",
+        "title": {
+          "ru": "Лавачурл с инеевым панцирем",
+          "en": "Frostarm Lawachurl",
+          "zh": "丘丘霜铠王"
+        },
+        "icon": "assets/icons/enemies/common_enemies/frostarm_lawachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "stonehide_lawachurl",
+        "title": {
+          "ru": "Лавачурл с каменным панцирем",
+          "en": "Stonehide Lawachurl",
+          "zh": "丘丘岩盔王"
+        },
+        "icon": "assets/icons/enemies/common_enemies/stonehide_lawachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "anemo_samachurl",
+        "title": {
+          "ru": "Анемо шамачурл",
+          "en": "Anemo Samachurl",
+          "zh": "风丘丘萨满"
+        },
+        "icon": "assets/icons/enemies/common_enemies/anemo_samachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "electro_samachurl",
+        "title": {
+          "ru": "Электро шамачурл",
+          "en": "Electro Samachurl",
+          "zh": "雷丘丘萨满"
+        },
+        "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "dendro_samachurl",
+        "title": {
+          "ru": "Дендро шамачурл",
+          "en": "Dendro Samachurl",
+          "zh": "草丘丘萨满"
+        },
+        "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "hydro_samachurl",
+        "title": {
+          "ru": "Гидро шамачурл",
+          "en": "Hydro Samachurl",
+          "zh": "水丘丘萨满"
+        },
+        "icon": "assets/icons/enemies/common_enemies/hydro_samachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "geo_samachurl",
+        "title": {
+          "ru": "Гео шамачурл",
+          "en": "Geo Samachurl",
+          "zh": "岩丘丘萨满"
+        },
+        "icon": "assets/icons/enemies/common_enemies/geo_samachurl.webp",
+        "enemy_group": "hilichurls"
+      },
+      {
+        "id": "cryo_samachurl",
+        "title": {
+          "ru": "Крио шамачурл",
+          "en": "Cryo Samachurl",
+          "zh": "冰丘丘萨满"
+        },
+        "icon": "assets/icons/enemies/common_enemies/cryo_samachurl.webp",
+        "enemy_group": "hilichurls"
       }
     ],
-    "dropped_by_count": 1,
+    "dropped_by_count": 27,
     "tags": [
       "Маски хиличурлов",
       "обычные противники"
@@ -66,7 +352,7 @@
       "en",
       "zh"
     ],
-    "search_text": "common_enemies enemy_drops маски хиличурлов обычные противники hilichurl хиличурл 丘丘人 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具 разбитая костяная маска, давным-давно принадлежавшая какому-то хиличурлу. разбита на мелкие осколки, поэтому не может выполнять свою основную функцию. a broken bone mask that once belonged to some hilichurl. now more broken than complete, it can no longer perform its primary function. 破碎的骨质面具，曾经属于某个丘丘人。 破损的部分比完整的部分更多，已经失去了假面应有的功能。 костяная маска со слабым запахом, покрытая странными пятнами. хоть и предназначена для лица, но только хиличурл может носить подобное. a bone mask, covered in unidentifiable stains, that emanates a mysterious odor. yet such is the devotion of hilichurls to masks that they will wear it nonetheless. 沾满了难以辨认的污渍，散发着微妙气味的骨质面具。 即使这样也要戴在脸上，这就是丘丘人的执着。 покрытая узором костяная маска, предназначенная для запугивания врагов. никто не знает, почему хиличурлы никогда не снимают свои маски. есть версия, что они просто боятся своего отражения в воде. a glossy bone mask with oil markings painted on it, meant to intimidate enemies. no one really knows why hilichurls are so fascinated with masks. some say that it's because they don't want to see their own reflections in the water. 光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。"
+    "search_text": "common_enemies enemy_drops маски хиличурлов обычные противники hilichurl hilichurl_fighter hilichurl_berserker wooden_shield_hilichurl_guard ice_shield_hilichurl_guard rock_shield_hilichurl_guard hilichurl_shooter pyro_hilichurl_shooter electro_hilichurl_shooter cryo_hilichurl_shooter hilichurl_grenadier electro_hilichurl_grenadier cryo_hilichurl_grenadier wooden_shieldwall_mitachurl rock_shieldwall_mitachurl ice_shieldwall_mitachurl blazing_axe_mitachurl crackling_axe_mitachurl thunderhelm_lawachurl frostarm_lawachurl stonehide_lawachurl anemo_samachurl electro_samachurl dendro_samachurl hydro_samachurl geo_samachurl cryo_samachurl хиличурл 丘丘人 хиличурл-боец hilichurl fighter 打手丘丘人 хиличурл-берсерк hilichurl berserker 冲锋丘丘人 хиличурл с деревянным щитом wooden shield hilichurl guard 木盾丘丘人 хиличурл с ледяным щитом ice shield hilichurl guard 冰盾丘丘人 хиличурл с каменным щитом rock shield hilichurl guard 岩盾丘丘人 хиличурл-стрелок hilichurl shooter 射手丘丘人 пиро хиличурл-стрелок pyro hilichurl shooter 火箭丘丘人 электро хиличурл-стрелок electro hilichurl shooter 雷箭丘丘人 крио хиличурл-стрелок cryo hilichurl shooter 冰箭丘丘人 хиличурл-гренадёр hilichurl grenadier 爆弹丘丘人 электро хиличурл-гренадёр electro hilichurl grenadier 雷弹丘丘人 крио хиличурл-гренадёр cryo hilichurl grenadier 冰弹丘丘人 митачурл с деревянным щитом wooden shieldwall mitachurl 木盾丘丘暴徒 митачурл с каменным щитом rock shieldwall mitachurl 岩盾丘丘暴徒 митачурл с ледяным щитом ice shieldwall mitachurl 冰盾丘丘暴徒 митачурл с огненным топором blazing axe mitachurl 火斧丘丘暴徒 митачурл с электрическим топором crackling axe mitachurl 雷斧丘丘暴徒 лавачурл с громовым шлемом thunderhelm lawachurl 丘丘雷兜王 лавачурл с инеевым панцирем frostarm lawachurl 丘丘霜铠王 лавачурл с каменным панцирем stonehide lawachurl 丘丘岩盔王 анемо шамачурл anemo samachurl 风丘丘萨满 электро шамачурл electro samachurl 雷丘丘萨满 дендро шамачурл dendro samachurl 草丘丘萨满 гидро шамачурл hydro samachurl 水丘丘萨满 гео шамачурл geo samachurl 岩丘丘萨满 крио шамачурл cryo samachurl 冰丘丘萨满 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具 разбитая костяная маска, давным-давно принадлежавшая какому-то хиличурлу. разбита на мелкие осколки, поэтому не может выполнять свою основную функцию. a broken bone mask that once belonged to some hilichurl. now more broken than complete, it can no longer perform its primary function. 破碎的骨质面具，曾经属于某个丘丘人。 破损的部分比完整的部分更多，已经失去了假面应有的功能。 костяная маска со слабым запахом, покрытая странными пятнами. хоть и предназначена для лица, но только хиличурл может носить подобное. a bone mask, covered in unidentifiable stains, that emanates a mysterious odor. yet such is the devotion of hilichurls to masks that they will wear it nonetheless. 沾满了难以辨认的污渍，散发着微妙气味的骨质面具。 即使这样也要戴在脸上，这就是丘丘人的执着。 покрытая узором костяная маска, предназначенная для запугивания врагов. никто не знает, почему хиличурлы никогда не снимают свои маски. есть версия, что они просто боятся своего отражения в воде. a glossy bone mask with oil markings painted on it, meant to intimidate enemies. no one really knows why hilichurls are so fascinated with masks. some say that it's because they don't want to see their own reflections in the water. 光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。"
   },
   {
     "id": "01_heretic_of_the_false_moon",

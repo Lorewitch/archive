@@ -33,7 +33,33 @@
     "byVolume": {}
   },
   "dropped_by": [
-    "hilichurl"
+    "hilichurl",
+    "hilichurl_fighter",
+    "hilichurl_berserker",
+    "wooden_shield_hilichurl_guard",
+    "ice_shield_hilichurl_guard",
+    "rock_shield_hilichurl_guard",
+    "hilichurl_shooter",
+    "pyro_hilichurl_shooter",
+    "electro_hilichurl_shooter",
+    "cryo_hilichurl_shooter",
+    "hilichurl_grenadier",
+    "electro_hilichurl_grenadier",
+    "cryo_hilichurl_grenadier",
+    "wooden_shieldwall_mitachurl",
+    "rock_shieldwall_mitachurl",
+    "ice_shieldwall_mitachurl",
+    "blazing_axe_mitachurl",
+    "crackling_axe_mitachurl",
+    "thunderhelm_lawachurl",
+    "frostarm_lawachurl",
+    "stonehide_lawachurl",
+    "anemo_samachurl",
+    "electro_samachurl",
+    "dendro_samachurl",
+    "hydro_samachurl",
+    "geo_samachurl",
+    "cryo_samachurl"
   ],
   "dropped_by_enemies": [
     {
@@ -46,9 +72,295 @@
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват"
+    },
+    {
+      "id": "hilichurl_fighter",
+      "title": {
+        "ru": "Хиличурл-боец",
+        "en": "Hilichurl Fighter",
+        "zh": "打手丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "hilichurl_berserker",
+      "title": {
+        "ru": "Хиличурл-берсерк",
+        "en": "Hilichurl Berserker",
+        "zh": "冲锋丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "wooden_shield_hilichurl_guard",
+      "title": {
+        "ru": "Хиличурл с деревянным щитом",
+        "en": "Wooden Shield Hilichurl Guard",
+        "zh": "木盾丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "ice_shield_hilichurl_guard",
+      "title": {
+        "ru": "Хиличурл с ледяным щитом",
+        "en": "Ice Shield Hilichurl Guard",
+        "zh": "冰盾丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "rock_shield_hilichurl_guard",
+      "title": {
+        "ru": "Хиличурл с каменным щитом",
+        "en": "Rock Shield Hilichurl Guard",
+        "zh": "岩盾丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "hilichurl_shooter",
+      "title": {
+        "ru": "Хиличурл-стрелок",
+        "en": "Hilichurl Shooter",
+        "zh": "射手丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "pyro_hilichurl_shooter",
+      "title": {
+        "ru": "Пиро хиличурл-стрелок",
+        "en": "Pyro Hilichurl Shooter",
+        "zh": "火箭丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "electro_hilichurl_shooter",
+      "title": {
+        "ru": "Электро хиличурл-стрелок",
+        "en": "Electro Hilichurl Shooter",
+        "zh": "雷箭丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "cryo_hilichurl_shooter",
+      "title": {
+        "ru": "Крио хиличурл-стрелок",
+        "en": "Cryo Hilichurl Shooter",
+        "zh": "冰箭丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "hilichurl_grenadier",
+      "title": {
+        "ru": "Хиличурл-гренадёр",
+        "en": "Hilichurl Grenadier",
+        "zh": "爆弹丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "electro_hilichurl_grenadier",
+      "title": {
+        "ru": "Электро хиличурл-гренадёр",
+        "en": "Electro Hilichurl Grenadier",
+        "zh": "雷弹丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "cryo_hilichurl_grenadier",
+      "title": {
+        "ru": "Крио хиличурл-гренадёр",
+        "en": "Cryo Hilichurl Grenadier",
+        "zh": "冰弹丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "wooden_shieldwall_mitachurl",
+      "title": {
+        "ru": "Митачурл с деревянным щитом",
+        "en": "Wooden Shieldwall Mitachurl",
+        "zh": "木盾丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "rock_shieldwall_mitachurl",
+      "title": {
+        "ru": "Митачурл с каменным щитом",
+        "en": "Rock Shieldwall Mitachurl",
+        "zh": "岩盾丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "ice_shieldwall_mitachurl",
+      "title": {
+        "ru": "Митачурл с ледяным щитом",
+        "en": "Ice Shieldwall Mitachurl",
+        "zh": "冰盾丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "blazing_axe_mitachurl",
+      "title": {
+        "ru": "Митачурл с огненным топором",
+        "en": "Blazing Axe Mitachurl",
+        "zh": "火斧丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "crackling_axe_mitachurl",
+      "title": {
+        "ru": "Митачурл с электрическим топором",
+        "en": "Crackling Axe Mitachurl",
+        "zh": "雷斧丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "thunderhelm_lawachurl",
+      "title": {
+        "ru": "Лавачурл с громовым шлемом",
+        "en": "Thunderhelm Lawachurl",
+        "zh": "丘丘雷兜王"
+      },
+      "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "frostarm_lawachurl",
+      "title": {
+        "ru": "Лавачурл с инеевым панцирем",
+        "en": "Frostarm Lawachurl",
+        "zh": "丘丘霜铠王"
+      },
+      "icon": "assets/icons/enemies/common_enemies/frostarm_lawachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "stonehide_lawachurl",
+      "title": {
+        "ru": "Лавачурл с каменным панцирем",
+        "en": "Stonehide Lawachurl",
+        "zh": "丘丘岩盔王"
+      },
+      "icon": "assets/icons/enemies/common_enemies/stonehide_lawachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "anemo_samachurl",
+      "title": {
+        "ru": "Анемо шамачурл",
+        "en": "Anemo Samachurl",
+        "zh": "风丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/anemo_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "electro_samachurl",
+      "title": {
+        "ru": "Электро шамачурл",
+        "en": "Electro Samachurl",
+        "zh": "雷丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "dendro_samachurl",
+      "title": {
+        "ru": "Дендро шамачурл",
+        "en": "Dendro Samachurl",
+        "zh": "草丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "hydro_samachurl",
+      "title": {
+        "ru": "Гидро шамачурл",
+        "en": "Hydro Samachurl",
+        "zh": "水丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hydro_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "geo_samachurl",
+      "title": {
+        "ru": "Гео шамачурл",
+        "en": "Geo Samachurl",
+        "zh": "岩丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/geo_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
+    },
+    {
+      "id": "cryo_samachurl",
+      "title": {
+        "ru": "Крио шамачурл",
+        "en": "Cryo Samachurl",
+        "zh": "冰丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват"
     }
   ],
-  "dropped_by_count": 1,
+  "dropped_by_count": 27,
   "item_group": "common_enemies",
   "entry_type": "enemy_drops",
   "materials": [

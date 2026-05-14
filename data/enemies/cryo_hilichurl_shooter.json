@@ -30,7 +30,19 @@
     "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood.",
     "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

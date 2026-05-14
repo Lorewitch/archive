@@ -30,7 +30,19 @@
     "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese sneaky fellows are skilled in the use of Pyro Slimes, using them as weapons to attack intruders. Skilled grenadiers may be able to destroy four wooden dummies in a single throw.",
     "zh": "提瓦特荒野中游荡的原始住民。\n擅长活用火史莱姆的狡猾家伙，把火史莱姆用作迎击来犯者的武器。利用火史莱姆的爆炸，投掷技巧精湛的爆弹丘丘人或许可以一次击碎五根木柱吧。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

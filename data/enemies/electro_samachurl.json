@@ -30,7 +30,19 @@
     "en": "A wizened, mumbling Hilichurl, one that prays to Electro.\nHilichurls especially gifted in commanding elements who often reach the zenith of their skill in their twilight years. Since they possess such advanced skill in creating electricity and summoning thunder, you may as well use the crackling sound to compose an elegy.",
     "zh": "嘟嘟囔囔的老年丘丘人，雷元素的祈求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，既然掌握了掣电引雷的高超技艺，便用这霹雳之声谱写挽歌吧。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -30,7 +30,19 @@
     "en": "A wizened, mumbling hilichurl, one that chants of the power of Hydro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?",
     "zh": "嘟嘟囔囔的老年丘丘人，水元素的吟颂者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。究竟是怎样的过去，令这些愚昧的生物竟能掌握生水唤雨的秘诀？"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

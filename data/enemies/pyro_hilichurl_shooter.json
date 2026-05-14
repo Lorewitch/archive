@@ -30,7 +30,19 @@
     "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are coated with a thin layer of flammable material that can set their targets on fire. El Musk of the previous generation believed that this is an innovation by brighter hilichurls who wished to cook their game after hunting it.",
     "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上敷了一层薄薄的易燃材料，以便烧灼其目标。前代的艾尔·马斯克认为，这是头脑灵光的丘丘人想要在捕猎时顺便完成烹饪而为的创新之事。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

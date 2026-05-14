@@ -30,7 +30,19 @@
     "en": "Muscular hilichurls who wield large two-handed axes.\nAttacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal.\nUsually, repeatedly quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.",
     "zh": "手持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用火史莱姆为战斧附上火元素，具有强大的破坏力。\n通常，像火斧丘丘暴徒这样为武器反复淬火会导致钢铁的硬度下降，进而导致刃口容易受损。但丘丘暴徒的力量足够强大，斧子就算刃口没了也可以当锤子用。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

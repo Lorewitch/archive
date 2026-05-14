@@ -30,7 +30,19 @@
     "en": "A muscular hilichurl who has been forged in countless fights.\nThey know how to use Dendro Slimes to create tough shields which they wield in combat.\nWith their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.",
     "zh": "经历无数战斗历练的丘丘人大块头。\n会利用草史莱姆创造坚固的木盾，进行战斗。\n拥有强健的肌肉，油亮的鬃毛，可靠的宽厚背影，一顿饭吃下很多肉的豪放，能为丘丘人抵挡毫不留情的冒险者，在部族当中有着相当崇高的地位。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

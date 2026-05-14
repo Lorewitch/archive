@@ -30,7 +30,19 @@
     "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nElectro Slimes don't seem to have as many applications as Pyro Slimes or Anemo Slimes in the benighted lives of the Hilichurls. Perhaps one day they may discover the flow of Elements between Electro Slime and Mutant Electro Slime and make some great progress... ?",
     "zh": "提瓦特荒野中游荡的原始住民。\n对于保持着蒙昧生活的丘丘人而言，雷史莱姆似乎不像火史莱姆、风史莱姆那样用途广泛。或许有一天他们会发现雷史莱姆、变异雷史莱姆之间的元素流动，然后取得突飞猛进的发展…？"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

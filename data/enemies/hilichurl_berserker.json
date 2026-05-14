@@ -30,7 +30,19 @@
     "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese hilichurls wield flaming clubs and charge with reckless abandon to chase intruding adventurers off. Most wildfires in the grasslands or forests are not actually caused by a certain special Knight, but due to the actions of these hilichurls.",
     "zh": "提瓦特荒野中游荡的原始住民。\n为了击退来犯的冒险者，会挥舞着熊熊燃烧的棒槌，一往无前地奋勇冲锋。草原或森林中发生野火的话，通常而言，并不是因为某名特别的「骑士」，而是因为这种丘丘人的犯行。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "hilichurl_masks",
+      "title": {
+        "ru": "",
+        "en": "",
+        "zh": ""
+      },
+      "icon": "",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops"
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}
