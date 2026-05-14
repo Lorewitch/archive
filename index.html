@@ -2110,6 +2110,165 @@
       }
     }
 
+
+    /* v18: hidden enemies linked from loot/material cards */
+    .dropped-by-section {
+      margin-top: 24px;
+      padding-top: 22px;
+      border-top: 1px solid rgba(91, 74, 62, .16);
+    }
+
+    .dropped-by-title {
+      margin-bottom: 12px;
+      color: #211B17;
+      font-size: clamp(22px, 2vw, 30px);
+      font-weight: 900;
+      line-height: 1.08;
+      letter-spacing: -.035em;
+    }
+
+    .dropped-by-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px;
+    }
+
+    .dropped-by-card {
+      border: 1px solid rgba(91, 74, 62, .14);
+      border-radius: 13px;
+      background: rgba(203, 191, 175, .20);
+      overflow: hidden;
+    }
+
+    .dropped-by-button {
+      display: grid;
+      grid-template-columns: 46px minmax(0, 1fr);
+      gap: 10px;
+      align-items: center;
+      width: 100%;
+      border: 0;
+      padding: 10px;
+      background: transparent;
+      color: inherit;
+      text-align: left;
+      cursor: pointer;
+    }
+
+    .dropped-by-button:hover,
+    .dropped-by-button:focus-visible {
+      background: rgba(203, 191, 175, .30);
+      outline: none;
+    }
+
+    .dropped-by-icon {
+      display: block;
+      width: 46px;
+      height: 46px;
+      object-fit: contain;
+      border-radius: 10px;
+      background: rgba(246, 242, 235, .58);
+    }
+
+    .dropped-by-name {
+      min-width: 0;
+      color: #211B17;
+      font-size: 14px;
+      font-weight: 900;
+      line-height: 1.25;
+      overflow-wrap: anywhere;
+    }
+
+    .dropped-by-meta {
+      margin-top: 2px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.25;
+    }
+
+    .dropped-by-detail {
+      padding: 0 12px 12px 68px;
+      color: var(--ink);
+    }
+
+    .dropped-by-detail .prose {
+      font-size: 15px;
+      line-height: 1.7;
+    }
+
+    .enemy-loot-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-top: 10px;
+    }
+
+    .enemy-loot-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      max-width: 100%;
+      padding: 5px 8px;
+      border: 1px solid rgba(91, 74, 62, .12);
+      border-radius: 9px;
+      background: rgba(246, 242, 235, .62);
+      color: #342B25;
+      font-size: 12px;
+      font-weight: 760;
+      line-height: 1.2;
+    }
+
+    .enemy-loot-chip.current {
+      background: rgba(91, 74, 62, .12);
+      border-color: rgba(91, 74, 62, .24);
+    }
+
+    .enemy-loot-chip img {
+      width: 22px;
+      height: 22px;
+      object-fit: contain;
+      flex: 0 0 22px;
+    }
+
+    .dropped-by-catalog-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      align-items: center;
+      min-width: 0;
+    }
+
+    .dropped-by-catalog-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      max-width: 100%;
+      padding: 5px 8px;
+      border: 1px solid rgba(91, 74, 62, .12);
+      border-radius: 9px;
+      background: rgba(232, 222, 212, .64);
+      color: #342B25;
+      font-size: 12px;
+      font-weight: 720;
+      line-height: 1.25;
+    }
+
+    .dropped-by-catalog-chip img {
+      width: 22px;
+      height: 22px;
+      object-fit: contain;
+      flex: 0 0 22px;
+    }
+
+    @media (max-width: 620px) {
+      .dropped-by-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .dropped-by-detail {
+        padding-left: 12px;
+      }
+    }
+
 </style>
 </head>
 <body>
@@ -2144,6 +2303,7 @@ let BOOKS = [];
 let ARTIFACTS = [];
 let WEAPONS = [];
 let ITEMS = [];
+let ENEMIES = [];
 const DETAILS = new Map();
 const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
@@ -2176,6 +2336,7 @@ function assignSectionData(sectionId, data) {
   if (sectionId === "artifacts") ARTIFACTS = list;
   if (sectionId === "weapons") WEAPONS = list;
   if (sectionId === "items") ITEMS = list;
+  if (sectionId === "enemies") ENEMIES = list;
 }
 
 async function loadSectionData(sectionId) {
@@ -2215,6 +2376,17 @@ async function getGenericDetail(sectionId, id) {
   const fromIndex = collection.find(item => item.id === id) || null;
   const detail = await fetchOptionalJson(`data/${sectionId}/${encodeURIComponent(id)}.json`);
   const result = detail?.id ? detail : fromIndex;
+  DETAILS.set(cacheKey, result);
+  return result;
+}
+
+async function getEnemyById(id) {
+  // Hidden enemy lookup is used only for common_enemies loot cards.
+  const cacheKey = `enemies:${id}`;
+  if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
+
+  const detail = await fetchOptionalJson(`data/enemies/${encodeURIComponent(id)}.json`);
+  const result = detail?.id ? detail : null;
   DETAILS.set(cacheKey, result);
   return result;
 }
@@ -2326,9 +2498,15 @@ const SECTIONS = [
     defaultGroup: "misc",
     filter: "region",
     filterLabel: "Все регионы",
-    columns: () => isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион"] : ["Название", "Регион"],
+    columns: () => state.subsection === "common_enemies"
+      ? ["Название", "Выпадает с", "Регион"]
+      : isEnemyDropGroup(state.subsection) ? ["Название", "Материалы", "Регион"] : ["Название", "Регион"],
     empty: "В этой категории пока нет предметов.",
-    row: item => isEnemyDropGroup(state.subsection) ? [
+    row: item => state.subsection === "common_enemies" ? [
+      renderTitleCell(item),
+      renderDroppedByCell(item),
+      escapeHtml(item.region || "—"),
+    ] : isEnemyDropGroup(state.subsection) ? [
       renderTitleCell(item),
       renderMaterialsCell(item),
       escapeHtml(item.region || "—"),
@@ -2582,6 +2760,109 @@ function renderMaterialsCell(item) {
       }).join("")}
     </div>
   `;
+}
+
+function droppedByEnemies(item) {
+  return Array.isArray(item?.dropped_by_enemies) ? item.dropped_by_enemies : [];
+}
+
+function renderDroppedByCell(item) {
+  const enemies = droppedByEnemies(item);
+  if (!enemies.length) {
+    return Array.isArray(item?.materials) && item.materials.length ? renderMaterialsCell(item) : "—";
+  }
+
+  const visible = enemies.slice(0, 4);
+  const rest = enemies.length - visible.length;
+
+  return `
+    <div class="dropped-by-catalog-list">
+      ${visible.map(enemy => {
+        const icon = enemy.icon ? `<img src="${escapeHtml(enemy.icon)}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
+        return `<span class="dropped-by-catalog-chip">${icon}<span>${escapeHtml(titleOf(enemy, "ru"))}</span></span>`;
+      }).join("")}
+      ${rest > 0 ? `<span class="tiny-pill">+${rest}</span>` : ""}
+    </div>
+  `;
+}
+
+function renderLootChip(drop, currentItemId = "") {
+  const icon = drop.icon ? `<img src="${escapeHtml(drop.icon)}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
+  const currentClass = drop.id === currentItemId ? " current" : "";
+  return `<span class="enemy-loot-chip${currentClass}">${icon}<span>${escapeHtml(titleOf(drop, state.lang))}</span></span>`;
+}
+
+function renderEnemyDropDetail(enemy, currentItemId = "") {
+  if (!enemy) {
+    return `<div class="prose">Описание противника пока не найдено.</div>`;
+  }
+
+  const text = localizedEntryText(enemy) || "Описание противника будет добавлено позже.";
+  const drops = Array.isArray(enemy.drops) ? enemy.drops : [];
+  const dropsBlock = drops.length ? `
+    <div class="enemy-loot-list" aria-label="Также выпадает">
+      ${drops.map(drop => renderLootChip(drop, currentItemId)).join("")}
+    </div>
+  ` : "";
+
+  return `
+    <div class="prose">${markdownToHtml(text)}</div>
+    ${dropsBlock}
+  `;
+}
+
+function renderDroppedBySection(item) {
+  const enemies = droppedByEnemies(item);
+  if (!enemies.length) return "";
+
+  return `
+    <div class="dropped-by-section">
+      <div class="dropped-by-title">Выпадает с</div>
+      <div class="dropped-by-grid">
+        ${enemies.map(enemy => {
+          const icon = enemy.icon
+            ? `<img class="dropped-by-icon" src="${escapeHtml(enemy.icon)}" alt="" loading="lazy" decoding="async" width="46" height="46">`
+            : `<span class="dropped-by-icon entry-icon placeholder" aria-hidden="true">⌁</span>`;
+          return `
+            <article class="dropped-by-card">
+              <button class="dropped-by-button" type="button" data-enemy-id="${escapeHtml(enemy.id)}" aria-expanded="false">
+                ${icon}
+                <span>
+                  <span class="dropped-by-name">${escapeHtml(titleOf(enemy, state.lang))}</span>
+                  <span class="dropped-by-meta">${escapeHtml(titleOf(enemy, "en"))}</span>
+                </span>
+              </button>
+              <div class="dropped-by-detail" hidden></div>
+            </article>
+          `;
+        }).join("")}
+      </div>
+    </div>
+  `;
+}
+
+function bindDroppedByEnemies(item) {
+  document.querySelectorAll("[data-enemy-id]").forEach(button => {
+    button.addEventListener("click", async () => {
+      const card = button.closest(".dropped-by-card");
+      const detail = card?.querySelector(".dropped-by-detail");
+      if (!detail) return;
+
+      const isOpen = button.getAttribute("aria-expanded") === "true";
+      if (isOpen) {
+        button.setAttribute("aria-expanded", "false");
+        detail.hidden = true;
+        return;
+      }
+
+      button.setAttribute("aria-expanded", "true");
+      detail.hidden = false;
+      detail.innerHTML = `<div class="prose">Загрузка описания...</div>`;
+
+      const enemy = await getEnemyById(button.dataset.enemyId);
+      detail.innerHTML = renderEnemyDropDetail(enemy, item?.id || "");
+    });
+  });
 }
 
 function renderLangPills(languages = []) {
@@ -3351,6 +3632,9 @@ function renderGenericDetail(item, config) {
   ` : `
         <div class="prose">${markdownToHtml(text)}</div>
   `;
+  const droppedByBlock = config.id === "items" && item?.item_group === "common_enemies"
+    ? renderDroppedBySection(item)
+    : "";
 
   app.innerHTML = `
     <section class="page-card book-page">
@@ -3370,12 +3654,14 @@ function renderGenericDetail(item, config) {
           </div>
         </div>
         ${bodyBlock}
+        ${droppedByBlock}
         ${notesBlock}
       </article>
     </section>
   `;
 
   document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id, null, state.subsection));
+  bindDroppedByEnemies(item);
   document.querySelectorAll("[data-lang]").forEach(button => {
     button.addEventListener("click", () => {
       state.lang = button.dataset.lang;
