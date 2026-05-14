@@ -8,8 +8,23 @@ const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
 let renderSequence = 0;
 
+function currentAssetVersion() {
+  const script = document.currentScript || document.querySelector('script[src*="archive.js"]');
+  if (!script?.src) return "";
+  return new URL(script.src, window.location.href).searchParams.get("v") || "";
+}
+
+const DATA_CACHE_VERSION = currentAssetVersion();
+
+function versionedDataPath(path) {
+  if (!DATA_CACHE_VERSION || !String(path).startsWith("data/")) return path;
+  const separator = String(path).includes("?") ? "&" : "?";
+  return `${path}${separator}v=${encodeURIComponent(DATA_CACHE_VERSION)}`;
+}
+
 async function fetchJson(path) {
-  const response = await fetch(path, { cache: "no-cache" });
+  const url = versionedDataPath(path);
+  const response = await fetch(url);
   if (!response.ok) throw new Error(`Не удалось загрузить ${path}: ${response.status}`);
   return response.json();
 }
@@ -986,7 +1001,7 @@ function parseHash() {
 function renderNav() {
   nav.innerHTML = SECTIONS.map(section => `
     <button class="nav-item ${state.section === section.id ? "active" : ""}" type="button" data-section="${section.id}">
-      <span class="nav-left"><img class="nav-icon" src="${section.icon}" alt="">${section.title}</span>
+      <span class="nav-left"><img class="nav-icon" src="${section.icon}" alt="" loading="lazy" decoding="async" width="26" height="26">${section.title}</span>
       <span>›</span>
     </button>
   `).join("");
