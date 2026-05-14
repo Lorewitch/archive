@@ -11,6 +11,8 @@
     "region": "",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
+    "material_type": "",
+    "material_type_title": {},
     "materials": [
       {
         "key": "damaged_mask",
@@ -366,6 +368,8 @@
     "region": "Нод-Край",
     "item_group": "weekly_bosses",
     "entry_type": "enemy_drops",
+    "material_type": "",
+    "material_type_title": {},
     "materials": [
       {
         "key": "material_1",
@@ -424,6 +428,8 @@
     "region": "Нод-Край",
     "item_group": "world_bosses",
     "entry_type": "enemy_drops",
+    "material_type": "",
+    "material_type_title": {},
     "materials": [
       {
         "key": "material_1",
