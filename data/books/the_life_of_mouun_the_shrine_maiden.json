@@ -1,0 +1,44 @@
+{
+  "id": "the_life_of_mouun_the_shrine_maiden",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/the_life_of_mouun_the_shrine_maiden.webp",
+  "title": {
+    "ru": "Краткая биография жрицы Моун",
+    "en": "The Life of Mouun the Shrine Maiden",
+    "zh": "巫女曚云小传"
+  },
+  "region": "Инадзума",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Инадзума"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Для жителей Ватацуми легенды о Войне Архонтов всегда наполнены горечью. Многие из этих тысячелетних народных песен рассказывают о жрице по имени Моун, которая на спине морского чудища следовала за Великим Змеем до самого конца, торжественного и печального.\n\nЖрица Моун ведёт своё происхождение от рода Юна. Этот клан одним из первых последовал за своим Омиками на солнечный свет. Выходцы из него до сих пор славятся талантами к исполнению китовых песен и близостью ко всем морским обитателям. Моун поступила в святилище Сангономии в юном возрасте. Там она изучала ритуальные традиции жриц Ватацуми, историю, политические науки и народные песни. Её младшая сестра-близнец, которую впоследствии прозвали Умигодзэн, была ныряльщицей клана и зарабатывала на жизнь сбором жемчуга.\nКогда весть о том, что сёгунат объединил все острова Инадзумы, достигла Ватацуми, Моун и Аямэ уже были довольно известны среди жителей острова. Дошедшие до наших дней сказания гласят, что мудрость и доброта Моун помогали людям избежать бессмысленных ссор. А отвага и жизнерадостность Аямэ давали ей силы для сражения с морскими чудовищами.\n\nКогда Ватацуми Омиками, отринув колебания, отправился в безнадёжный восточный поход, Божественная Жрица доверила первый флот Сангономии Моун и её сестре. Тогда же Моун установила связь с гигантским китом по имени Дайкэнгё.\n\nЛегенда гласит, что Дайкэнгё был огромным слепым китом, возраст которого к тому времени насчитывал пятьсот лет да ещё четыреста лет. Тёмные глубины океанского дна были его домом, а рыбы глубин и луноподобные медузы - его верными слугами. Его охраняли пятьдесят нарвалов с левого фланга и пятьдесят горбатых китов с правого. В песнях поётся, что он мог проглотить десять коралловых островов за один раз, а потом выплюнуть пять рифов, погружаясь в сытую дрёму.\n\nДаже мастера китовых песен Ватацуми до того дня никогда не уходили живыми после встречи с этим гигантом. Но по указанию Божественной Жрицы Моун нырнула в глубины фосфоресцирующего китового чертога, когда луна поднялась достаточно высоко, чтобы пронзить мглу океана. Никто не знал, как Моун уговорила Дайкэнгё присоединиться к ней. Но на третий восход луны после её ухода, когда волны отхлынули от берега, люди увидели, как на спокойной глади океана показался мерцающий серебром Дайкэнгё. На его спине сидела Моун.\n\nДайкэнгё и его подданные последовали за Моун и её сестрой и сражались на стороне Омиками. Увы, эта битва была обречена на поражение...\nУслышав, что Омиками и Тодзанно были убиты, Моун дала сигнал к отступлению. Но по пути она попала в засаду кораблей тэнгу Сасаюри и была убита вместе с могучим китом Дайкэнгё. Их останки захватил сёгунат. А её сестра, Умигодзэн Аямэ, исчезла после доблестной битвы в кроваво-красном океане, и больше её никогда не видели.",
+        "en": "For the people of Watatsumi, the legends of the Archon War are always filled with bitterness. Many of these millennia-old folksongs tell of a shrine maiden by the name of Mouun, who once rode upon the back of a sea monster, following the Great Serpent unto a tragic, moving end.\n\nThe shrine maiden Mouun was born to the Yuna Clan. This clan was one of the great houses that first followed their Omikami out into the sunlight, and is still known today for their traditional talent in whalesongs and their closeness with all marine life. Mouun entered Sangonomiya Shrine at a young age and would learn the etiquette and ritual arts of the Watatsumi shrine maidens, history, governance, and the island folk-tunes. Her younger twin sister Ayame, who in later days would be known as \"Umigozen,\" was a female diver, making a living through collecting pearls.\nBy the time news that the Shogunate had unified all the Inazuman islands reached Watatsumi, Mouun and Ayame were already quite famous among the island's people. In the folk-tunes that still persist till today, Mouun was a wise and gentle soul who helped to steer the people away from meaningless conflict, while Ayame was valiant and cheerful, her power sufficient to wrestle against fierce sea creatures.\n\nWhen Watatsumi Omikami ceased in his hesitation and embarked on that hopeless eastern expedition, Sangonomiya's first navy was entrusted by the then-Divine Priestess to Mouun and her sister. This was also the beginning of Mouun's association with the giant whale named \"Daikengyou.\"\n\nLegend has it that Daikengyou was a huge blind whale that had lived for five hundred years and four hundred years before that. The dark depths of the ocean floor were its home, and the fishes of the deep and the moonglow-beauteous jellyfish were its faithful servants. Five hundred narwhals guarded its left flank and five hundred humpback whales played music to its right. Some folk-tunes claim that it could have swallowed ten coral islands in one gulp before spitting out five skerries in its deep, satiated slumber.\n\nEven amongst those of the Watatsumi people who were skilled in whalesong, none had faced this titan and returned whole to tell the tale. But at the Divine Priestess' direction, Mouun dived deep into the whale's phosphorescent palace just as the moon rose high enough to pierce the ocean mists. None knew how Mouun persuaded Daikengyou to join her. But on the third moonrise after her departure, when the waves drew back from the shore, the people witnessed Daikengyou surface from the tranquil ocean, shimmering with silver light as it bore Mouun on its back.\n\nLater, Daikengyou and its marine courtiers would follow Mouun and her sister into battle at Omikami's side, though the battle ultimately and inexorably went ill...\nMouun made to retreat when she heard that Omikami and Touzannou had been slain together, but she was ambushed by the tengu Sasayuri's subordinates en route and was herself slain together with Daikengyou the mighty whale, their remains captured by the Shogunate. As for her sister, \"Umigozen\" Ayame, she disappeared into the blood-red ocean after a valiant stand, never to be seen again.",
+        "zh": "对于海祇之民而言，有关魔神战争的传说必然是苦涩的。在千年传唱的诸多岛歌中，有一位名为「曚云」的巫女，曾乘着庞大的海兽追随大蛇作战，留下了悲壮的名声。\n\n巫女曚云出身右名氏，该氏族乃是最初追随大御神重见阳光的大族之一，至今依旧以鲸歌的天赋与亲和海洋生物传统知名。曚云自幼便进入珊瑚宫，同现人神巫女学习海祇巫女的祭礼传统、历史知识、政务与岛歌；其双生胞妹，日后被称为「海御前」的菖蒲则是氏族的海女，做着采集珍珠的活计。\n后来，当稻妻将军幕府统一诸岛的消息传至海祇时，曚云与菖蒲已在海祇民众中颇具名气。在留存至今的岛歌中，曚云性情智慧和善，善于调解海民之间无妄的纷争，而其妹菖蒲则勇武开朗，力能搏击海中猛兽。\n\n当海祇大御神终于不再踌躇，决定发起注定无望的东征时，珊瑚宫最初的水军由现人神巫女亲自委任给曚云姐妹，而曚云与巨鲸「大检校」的缘分也因此而起。\n\n传说「大检校」是一头盲眼巨鲸，其寿命有五百年又四百年之久。深沉黑暗的海床是它的居所，月光般绚丽的水母与深海鱼类是它的臣仆，左有五百条角鲸为护卫，右有五百条座头鲸为乐师。又有岛歌称，它一口便能吞下十座珊瑚岛，待到饱足沉睡时，又会随着呼噜声吐出五座礁岩…\n\n即使精通鲸歌的珊瑚宫海民，也未尝有活着面见如此巨兽，而又能全身而退的。但曚云接下了现人神巫女的安排，便在明月刚刚冲破海雾升上夜空的时刻，潜入了磷光闪闪的鲸宫。没有人知道究竟曚云以怎样的巧舌妙辩说服了「大检校」，只知三次月明高升的时刻，待到浪潮从海滩退去时，海祇之民见证了「大检校」的庞大身躯载着曚云巫女浮出宁静的海面，泛着点点的银色微光。\n\n后来，「大检校」与它的海兽仆从们就这样随曚云姐妹为大御神尽忠血战，直至无奈的终焉来临…\n得知大御神与「东山王」一同战殁的消息后，曚云巫女在撤退途中为天狗笹百合的旧部所伏击，终于同巨鲸「大检校」一并战死，遗体为幕府军所获。其妹「海御前」菖蒲，则在力战之后消失在腥红的大海之中，不知所向。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

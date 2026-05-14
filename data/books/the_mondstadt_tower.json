@@ -1,0 +1,44 @@
+{
+  "id": "the_mondstadt_tower",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/the_mondstadt_tower.webp",
+  "title": {
+    "ru": "Башня Мондштадта",
+    "en": "The Mondstadt Tower",
+    "zh": "蒙德高塔"
+  },
+  "region": "Мондштадт",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Мондштадт"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "В эпоху депрессии и тирании девушка чужестранка встретила зловещего сироту. Не предвещает ли эта судьбоносная встреча трагический конец?\n\nИсторический роман Башня Мондштадта, начало.\n\nВ эпоху аристократов над верхней площадью Мондштадта возвышалась высокая башня, построенная для почитания Архонта ветра Барбатоса, но на самом деле это была яркая демонстрация богатства и власти королевской семьи, чтобы позлорадствовать над простолюдинами. Крестьяне, жившие в те тёмные времена, могли найти утешение лишь в Луди Гарпастум.\n\nНа один из таких фестивалей из дальних земель приехала некая странствующая певица по имени Инесса. Её невероятная красота привлекла всех на фестивале. Независимо от статуса и возраста, люди соперничали за то, чтобы взглянуть на неё, бросающую мяч, или услышать, как она поёт иностранные баллады.\n\n- Благословения Барбатоса для всех! Грех - это лишь если вы будете грустить в такой радостный день!\n\nНапевая эти песни, она раздавала свои призы бедным и сиротам в городе.\n\nБудучи тогда ещё хрупким маленьким человеком среди толпы, сенешаль влюбился в неё с первого взгляда. Но из-за этих неудержимых эмоций его благочестие наполняло его гневом, а её поступки, нарушавшие право церкви помогать бедным, ещё больше раздражали его.\n\nКак всем известно, в наши дни вера мондштадтцев основывается на Анемо Архонте Барбатосе, который призывает людей стремиться к свободе и любви, но в тёмные века Анемо Архонт спал, и город мучили тирания знати, нищета простого народа и постоянные нападения дракона, а самопровозглашённая «церковь», которая, по сути, была всего лишь номинальной силой, практиковала воздержание во избежание божественного наказания. Даже священная лира, символ свободных ветров, исполняла только те песни, что считались «священными». Но «божественное наказание» было не более чем предлогом, придуманным дворянами, чтобы скрыть свою алчность и ограничить простолюдинов.\n\n- Позволить ей остаться в городе - значит околдовать всех его жителей. Какое зло принесёт эта ведьма? - размышлял сенешаль.\n\nИ вот сенешаль замыслил поймать и запереть Инессу в соборе, пока не дождётся дальнейших указаний. Согласно традициям того времени, дева, выбранная для броска мяча на Луди Гарпастум, должна была служить при королевском дворе в течение трёх дней после торжества, под защитой аристократов. Сенешаль решил послать своего приёмного сына Октавия пробраться в королевский дворец и похитить Инессу.\nОктавий был нежеланным ребёнком, которого при рождении бросили суеверные родители. С детства горожане считали его знамением драконьих бедствий и всячески издевались над ним. Единственным человеком, который защищал Октавия и относился к нему как к сыну, был сенешаль, таким образом завоевавший его доверие.\n\n- Приведи мне ту деву, что вчера бросила мяч! Но не привлекай внимания и никому не говори моего имени.\n\nС наступлением темноты, по приказу сенешаля, Октавий взобрался на балкон придворных покоев. Когда он увидел там девушку, плачущую в лунном свете, его чистое сердце дрогнуло, ибо он никогда не видел такого чудесного зрелища. Уставившись на девушку, он напрочь позабыл про своё задание.\n\nНо спокойствие этого момента было прервано слугами...",
+        "en": "In the age of depression and tyranny, the outlander girl met the ominous orphan. Does this fateful encounter foretell a tragic ending?\n\nThe historic romance novel, The Mondstadt Tower, begins!\n\nIn the time of the aristocrats, there stood a high tower in Mondstadt's plaza. It was built to honor Barbatos the Anemo Archon in name, yet in reality it was nothing more than a flamboyant display of wealth and power by the royals to gloat over the commoners. The one time in the year that the commoners living in these dark times could find a little solace was during Ludi Harpastum.\nDuring one Ludi Harpastum, a wandering singer from a distant land arrived in the city. The name of the lass was Inès, and everyone at the festival was enchanted by her stunning beauty. People of all ages and all walks of life vied to catch a glimpse of her throwing the Harpastum and to hear her sing foreign ballads.\n\n\"The blessings of Barbatos are for everyone! You are only sinful if you are bitter at such a joyous occasion!\"\n\nAs she sang these verses, she handed out her earnings during the festival to the poor and orphans in the city.\nA frail figure stood among the crowds. He was the Seneschal, and he fell for her at first sight. But his religious piety filled him with a frustration at his inability to suppress the emotions he was experiencing, and her acts of charity, which violated the Church's right to aid to the poor, irked him all the more.\nAs is known to all, the beliefs of contemporary Mondstadters hold that the Anemo Archon Barbatos encourages people to seek love and pursue freedom, but in the dark ages the Anemo Archon slept, and the city was tormented by the tyranny of the nobles, the poverty of the commoners, and the ravage of the dragon; meanwhile, the self-proclaimed \"orthodox\" church — a mere figurehead, controlled by the ruling class — advocated abstinence from earthly pleasures to avert divine punishment. Under such circumstances, even the harp which symbolized the wind had been restricted to playing only those songs deemed \"holy.\" However, the notion of \"divine punishment\" was little more than an excuse fabricated by the nobles to conceal their avarice and restrict the commoners.\n\n\"To let her stay in the city is to bewitch all its inhabitants. What wickedness will this witch bring?\" The Seneschal pondered.\n\nAnd so, the Seneschal plotted to hunt down Inès, and to confine her to the Cathedral while awaiting further instructions. As per the traditions of the time, the maiden chosen to throw the Harpastum should serve at the royal court for three days after the celebration, under the protection of the aristocrats. The Seneschal decided to send his adopted son, Octave, to sneak into the royal court and abduct Inès.\nOctave was an unwelcome child, abandoned by his superstitious parents at birth and later raised by the Seneschal. As a child, he was persecuted and abused by the citizens, seen as a bad omen of draconic disasters. The only person who protected Octave was the Seneschal, who treated him like his own son and thus won his utmost trust.\n\n\"Bring the maiden who threw the Harpastum yesterday to me! Disturb no one and do not mention my name.\"\n\nUnder orders from the Seneschal, Octave climbed onto the balcony of the court chambers at nightfall. Upon seeing the girl weeping in the moonlight, his pure heart was stirred, for he had never seen such a wondrous sight. He gazed at the girl, leaving his task forgotten.\nBut the silence of the tranquil moment shared by Octave and the girl was interrupted by the servants...",
+        "zh": "贵族暴政的沉郁时代，异域少女与身负噩兆的孤儿在高塔前的相遇，两人的邂逅是否预示着注定悲剧的结局？\n瑰丽的历史小说，《蒙德高塔》，大幕揭开！\n在久远的贵族时代，蒙德城广场上矗立着一座高塔。虽然名义上为纪念风神巴巴托斯而设，实际上却只是贵族们宣示自身权力的标志。在那个黑暗的时代，平民在贵族的统治下饱受压抑，只有在羽球节能够享受到有限的欢乐。\n这年的羽球节，高塔上出现了一位美丽的异域少女，她名叫伊娜丝，是远方游牧民族的流浪歌手。一时间，广场上的所有人都被她的风姿吸引，无论贵族还是奴隶，老人还是孩童，都争相观看她抛掷羽球的姿态，倾听她吟诵异域诗歌的歌喉。\n\n「巴巴托斯的祝福属于大家每一个人，这样的日子里还苦着脸才是罪过！」\n\n这样歌唱着，伊娜丝将节庆期间的收入散发给了城里的穷人和孤儿。\n一个瘦削的身影混迹在人群中，他便是当年的大主教。大主教对伊娜丝一见钟情，但对神的忠贞信念令他为自己不可抑制的情感深为屈辱。看到伊娜丝任性的行为，他又为这异邦少女触犯教会布施贫民的权利而心生恼怒。\n众所周知，在今日蒙德城的信仰中，风神巴巴托斯从来鼓励人主动追寻所爱，投身自由。但在那个风神沉眠的压抑时代，由于贵族的高压统治，民众的贫穷和魔龙的肆虐，自称「正统」的傀儡教会主张禁欲清修，以此免受魔神的惩罚，象征风的竖琴也只许演奏被认为「圣洁」的歌曲。然而事实上，「神罚」更多不过是贵族掩盖自己横征暴敛，为限制平民的自由而编造的借口罢了。\n\n「如果让这个女孩留在城里的话，想必大家都会被她迷惑吧。这家伙究竟是怎样的魔女呢？」大主教这样揣测着。\n\n于是，大主教阴谋抓捕伊娜丝，打算把她囚禁在教会听候处理。由于贵族时代的惯例，被选为抛球少女的女孩在庆典结束后需要在贵族宫廷服侍三天，三天内受贵族保护，大主教便设计让养子奥克塔维潜入宫廷，劫走伊娜丝。\n奥克塔维是一个不受欢迎的孩子，刚出生时便被迷信的父母遗弃，却被大主教抚养成人。他在幼时曾经被市民当成引来魔龙肆虐的噩兆而遭到殴打和排斥，只有主教愿意保护他。奥克塔维饱尝世间冷暖，只有大主教如父亲般照料他，因此他近乎无条件地信赖着大主教。\n\n「我要你把昨天那个抛球少女带来，不要惊动任何人，不要向任何人提起我的名字。」\n\n在大主教的命令下，内心单纯的奥克塔维趁着沉沉夜幕爬上了宫廷客房的阳台。但看到月光下哭泣的少女，这从未见过的景象在他的心中激起了一阵波动。只顾在阳台呆望少女的奥克塔维，恍然间忘记了自己的任务。\n直到贵族仆人们喧哗突起，将他和少女从纯洁的静默中惊醒……"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

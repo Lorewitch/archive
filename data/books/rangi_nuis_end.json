@@ -1,0 +1,44 @@
+{
+  "id": "rangi_nuis_end",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/rangi_nuis_end.webp",
+  "title": {
+    "ru": "Конец Ранги Нуи",
+    "en": "Rangi Nui's End",
+    "zh": "兰吉努伊之底"
+  },
+  "region": "Натлан",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Натлан"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Древняя песня Народа Родников. В ней рассказывается история легендарного героя Ранги Нуи.\n\nКонец Ранги Нуи - моя родина.\nИ всякий раз, когда я думаю о доме,\nперед глазами встаёт утренний Ранги Нуи, залитый солнечным светом,\nи Вайата - источник поющих вод,\nи Те Пахау - долина, по которой гуляют ветра,\nи тучные земли Похеки.\nЭто родина моих предков.\nЭто конец Ранги Нуи.\n\nЯ отправлюсь в путь к родным местам,\nна двадцать пятую ночь, когда угри пустятся в пляс,\nя тронусь в путь от Охауити, где ветер ласкает поля,\nи мимо водопадов, где плещутся акулы, пройду к излучине реки,\nк Титивхе, к ослепительной бездне,\nтам я поднимусь на гору, осиянную солнечным светом,\nи увижу хозяина гор и ручьёв, что крепко уснул,\nи войду в жилища древних пигмеев,\nа после спущусь на самое дно ущелья,\nк Те Тахутаме, где плавают светящиеся рыбы,\nк Ака-ака, где произрастают странные карликовые растения.\nЯ спущусь к Махинини, где скрытые течения нежны и стремительны.\nИ отправлюсь в тёмную чащу леса Уропи...\n\nУ-ху! У-ху!\nДалёкие земли, родина моих предков,\nуничтоженные бедствием, что страшнее горных обвалов и лесных пожаров...\nКогда-то мои предки жили в мире и благоденствии, но мирная жизнь уступила место голоду и скитаниям.\nМоё сердце скорбит по ним, я оплакиваю их горькую судьбу.\nГнев мой и печаль моя подобны неугасимому пламени, что бушует под ключевой водой.\nДолго буду бродить я вдоль вечного источника слёз и стенаний,\nпока не приду к зелёным лугам, которые предки мои нарекли Кахотеа.\nПодобно древнему дракону, я расправлю крылья и воспарю над горами, где звучат песнопения...\nгде заблудшие посланцы небес построили город из золота и камня.\nГород, разрушенный неистовым пламенем с небес, павший под яростным натиском древнего правителя.\nУ-ху! У-ху!\n\nЯ продолжу скитаться и отправлюсь к тучным землям Похеки,\nтам, как рассказывали предки, Ранги Нуи когда-то стоял между небом и землёй,\nибо он был мудрецом, говорившим с небесами, он был героем своей земли.\nДуша его вернулась в утреннее солнце, и тогда само небо стало Ранги Нуи.\nИз тучных земель я направлюсь к дальнему морскому побережью\nи на отмели, поросшей стелющимися лозами, я завершу свой путь.\n\nЯ поднимался на одинокий вулкан,\nвидел бессчётное множество горячих источников,\nи я отправлюсь на другую сторону скрытых течений,\nотправлюсь искать лодочника на каноэ в головном уборе из перьев,\nи когда я наконец увижу золотой сияющий диск,\nто снова встречусь со своими сородичами в саду Хайриней,\nтам, где родился забытый правитель смертных,\nтогда я соберу своё племя, своих родных, и мы вместе двинемся в путь.",
+        "en": "An ancient folk song from the People of the Springs. It describes the tale of the legendary hero, Rangi Nui.\n\nRangi Nui's End is my hometown,\n\nAnd whenever I recall my ancestral lands,\n\nThe morning sun shines over Rangi Nui,\n\nLooking out over Waiata, the spring of flowing song,\n\nLooking down upon Te Pahau, the wind-whiskered valley,\n\nLooking across Poheka, the land of abundance,\n\nSuch are the lands of my grandparents,\n\nSuch is Rangi Nui's End.\n\nI will journey to visit my ancestral home,\n\nOn the twenty-fifth night, when the eels begin their dance,\n\nFrom Ohauiti shall I set forth, where the wind is gentle on the plains,\n\nTo the waterfall where sharks do leap, to the shallow shoals,\n\nTo Titiwha, those dazzling radiant depths,\n\nWhere I shall climb the mountain bathed in sunlight,\n\nTo visit the long-slumbering master of mountain and stream,\n\nTo explore the ancient dwelling place of the long-forgotten pygmies,\n\nBefore descending, descending into the valley's deepest depths,\n\nDown to Te Tahutama, where luminescent fish congregate,\n\nDown to Aka-aka, where plants grow small and strange.\n\nDown to Mahinini, where the dark currents flow soft yet sharp,\n\nThen down to dark Uropi, the depths of the forest...\n\nWo-ho! Wo-ho!\n\nThese distant, far-off lands, the hometown of my grandparents,\n\nThey were thrown down, destroyed by disaster and violence, like collapsing mountains and raging wildfires...\n\nMy ancestors once lived in prosperity and peace, yet were plunged into famine and exile,\n\nMy heart cries out for them, I mourn their tragic fate,\n\nLike unquenchable flame roiling beneath spring waters, so profound a resentment, so deep a sorrow!\n\nEver shall I wander along that never-ending wellspring of sighs,\n\nAnd I shall come to fields of mottled green — that my ancestors called Kahotea.\n\nAnd like the ancient dragons, soar effortlessly to the mountains where chants abound...\n\nThe lost envoys of the heavens built there a city of gold and stone,\n\nBut it was destroyed when raging flame fell from the heavens, the fury of the ancient sovereign.\n\nWo-ho! Wo-ho!\n\nAnd so I wander on, to Poheka, the land of abundance,\n\nThere Rangi Nui once stood upright between heaven and earth, so the ancestors say,\n\nFor he was both a sage who spoke to the heavens, and a hero of the land,\n\nWhose soul returned to the rising sun, whereupon the sky itself became Rangi Nui.\n\nThen, I shall head from the land of abundance to the distant shore,\n\nAnd on a shore overgrown with tendrils, conclude my final journey.\n\nI once climbed the lonely, desolate volcano,\n\nI have seen countless hot springs with my own eyes,\n\nAnd I shall head to the other side of the dark currents,\n\nTo seek the ferryman, who rows a dugout canoe and wears a gold-feathered crown,\n\nAnd when at last I see that circlet, glimmering in gold,\n\nThen shall I again reunite with my kin in the garden of Hairinei,\n\nThe birthplace of the forgotten sovereign of humans,\n\nAnd I shall gather my tribespeople and friends, and we shall go there together.",
+        "zh": "来自流泉之众的古老歌谣，讲述了传说中的英雄兰吉努伊的故事。\n\n兰吉努伊之底是我家乡，\n每当我把祖先故地回想，\n兰吉努伊中便显现朝阳，\n将流歌之泉瓦亚塔俯望，\n将风须之谷特帕豪俯望，\n将丰饶之地波伊卡俯望，\n这些地方皆是祖父祖母的故乡，\n兰吉努伊之底正是他们的家乡。\n\n我将启程前去探望祖先的故乡，\n在第二十五夜的鳗鱼起舞之时，\n从轻风的原野，奥哈乌蒂启程，\n去往跃鲨瀑泉，去往浅滩堤岸，\n去提提鲁瓦，光彩烁目的深渊，\n我将攀上朝阳照耀的那座高山，\n觐见山与流泉沉睡已久的主人，\n探寻古老侏儒曾经居住的地方，\n然后我要下降，降至深深谷底，\n降至荧光的游鱼所群聚之处，特塔乌塔玛，\n降至矮小的奇异植物丛生之地，阿卡阿卡。\n降至玛伊尼尼，那里的暗流柔顺却又锋利，\n接着又降至黑暗的乌罗皮和密林丛生之底…\n\n呜呼，呜呼！\n这些悠远又遥远的土地，祖父祖母的家乡，\n尽皆被山崩般的灾难、野火般的暴行摧毁…\n我的祖先一度富裕无忧，却陷入饥馑流浪，\n我的心为他们呼号，为他们的命运而哀唱，\n泉水之下难掩烈火，何其怨愤，何其悲伤！\n我将沿着那永不止歇的叹息之泉继续流浪，\n来到斑驳的绿原——先祖称之为卡霍提阿，\n又如善翔的古龙那般，我飞上了吟咏之山…\n那是失落的天之使者部族修建的金石之城，\n却毁于高天降下的烈火与上古君王的狂怒。\n呜呼，呜呼！\n\n于是，我又继续向着丰饶之地波伊卡流浪，\n祖先们说，兰吉努伊曾经在那里顶天立地，\n他曾是同高天言说的贤者，是大地的勇士，\n灵魂归于高天朝阳上，天便成了兰吉努伊。\n然后，我从丰饶之地直直前往遥远的海滩，\n在卷须蔓生的浅滩，我结束了最后的旅程。\n\n我曾攀登荒芜孤独的火山，\n我的双眼见证了无数温泉，\n然后，我又将前往暗流之下的另一边，\n去寻找那撑着独木舟戴羽冠的摆渡人，\n等到我终于望见那闪烁着金色的羽冠，\n我将再度同族人相聚在海里尼的花园，\n那是被遗忘的人之君王出生的地方，\n我将召集起族人与亲友，一同前往。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

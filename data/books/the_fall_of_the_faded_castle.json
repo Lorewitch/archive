@@ -1,0 +1,70 @@
+{
+  "id": "the_fall_of_the_faded_castle",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/the_fall_of_the_faded_castle.webp",
+  "title": {
+    "ru": "Разрушение обветшалого замка",
+    "en": "The Fall of the Faded Castle",
+    "zh": "褪色古堡的崩塌"
+  },
+  "region": "Фонтейн",
+  "volume_count": 3,
+  "tags": [
+    "книги",
+    "Фонтейн"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Стихотворение неизвестного поэта. Написано странным зловещим слогом.\n\nОднажды мне приснился чёрный корабль.\nОн шёл по морю сквозь бескрайнюю ночь и хмурый туман.\nЕго корпус прогнил, и мачты сломались.\nНо словно в насмешке над человеческим рассудком,\nвсе сломанные части странно и противоестественно\nсплетены вместе густой сетью водорослей,\nобразовывая кошмарную чёрную тень, плывущую в лунном свете.\nКаждый, кто её видел, не мог отделаться от ужаса.\nКазалось, стоит только отвести взгляд,\nи в следующую же секунду кошмарная тень окажется прямо перед тобой.\nНа палубе стоял высокий худой человек,\nокутанный чёрной мантией, и лицо его расплывалось в тумане.\nМожно было различить только глаза, жестокие глаза,\nодин взгляд которых пронзал тебя насквозь.\nКто он? Чудовище, поднявшееся из глубин океана?\nИли властитель древнего царства, вынырнувший из небытия?\nИли сам кошмар?",
+        "en": "A poem penned by an author unknown. The writing style seems to give off a strange and ominous aura.\n\nOnce, in a dream, I saw a black ship.\n\nIt sailed through dark night and bleak fog.\n\nThe hull was rotten, the mast shattered,\n\nYet in some perverse jest at human rationality,\n\nEach broken piece had been placed in some twisted way,\n\nEntwined together by the algae and seaweed that enveloped the vessel,\n\nForming a dreadful dark shadow that shambled through the moonlight,\n\nThat none could glimpse and not panic.\n\nShift your gaze just a little, and in an instant,\n\nIt shall appear again before you.\n\nA tall and slim figure standing upon the deck,\n\nWrapped in dark robes, its face barely seen.\n\nOnly its eyes, those two cold eyes,\n\nWhich can pierce your soul with a glance.\n\nWas that a monster that arose from the depths of the seas?\n\nA lord returned from some ancient world?\n\nOr perhaps the nightmare itself?",
+        "zh": "在梦中，我曾见过一艘黑色的航船，\n穿行在深邃的午夜与阴郁的海雾中。\n那船的船身早已腐朽，桅杆看起来也断成了数截，\n然而，却像是有意要对人类的理性加以嘲弄一般，\n所有这些断裂的部分都以一种怪异而扭曲的形式，\n被包裹船身的层层叠叠的藻类与生物质连接起来，\n在月光下拖曳出森然可怖的倒影，\n让人不由坠入无法摆脱的恐惧中。\n好像只要你稍微移开视线，\n下一秒它便会出现在眼前。\n甲板上矗立着一个高大而瘦长的身影，\n浑身裹着黑色的罩袍，面容模糊不清。\n唯有那双眼睛，唯有那双冷酷的眼睛，\n只是一撇，便仿佛蚀刻进了你的灵魂。\n那究竟是来自深海的怪胎，\n还是某个古老世界的主人，\n又或许，那便是噩梦本身。"
+      }
+    },
+    {
+      "number": 2,
+      "title": {
+        "ru": "Том 2",
+        "en": "Vol. 2",
+        "zh": "卷二"
+      },
+      "text": {
+        "ru": "Стихотворение неизвестного поэта. Написано странным зловещим слогом.\n\nНа берегу чистейшего в мире озера\nкогда-то стоял великолепный замок.\nСнаружи его стены были украшены золотом и самоцветами,\nкоторые ярко переливались в лучах послеполуденного солнца.\nНа шпилях замка реяли прекрасные знамёна,\nа величественные башни поднимались до самых облаков.\nГости из далёких краёв заглядывали в замок через разноцветные витражи,\nи в каждом окне им открывалось новое чудо.\nНо лучше всего были многочисленные скульптуры.\nОни были странно изваяны, но выглядели как живые.\nВ главной зале великолепного замка стояла сцена, сверкающая золотом.\nМузыканты днём и ночью играли и пели для хозяина замка.\nЗаслышав прекрасные звуки музыки, к сцене слетался золотистый пчелиный рой,\nчтобы исполнить непринуждённый танец под чарующую мелодию.\nВино в замке лилось рекой, а столы ломились от угощений,\nи все гости могли принять участие в веселье, кем бы они ни были, откуда бы ни пришли.\nИ всё равно ничто не могло унять страхи хозяина замка\nили одарить спокойствием его истерзанную душу.\nИ каждый раз, когда часы на башне глухо отбивали полночь,\nхозяина охватывала неудержимая тревога.\nОн оказывался заперт в ловушке из собственных страхов и печалей.\nОднажды тень в чёрной мантии придёт взыскать долг,\nи тогда всё вокруг обратится в прах.\nИ души его гостей, и его собственная душа\nстанут подношениями этому тёмному древнему миру.",
+        "en": "A poem penned by an author unknown. The writing style seems to give off a strange and ominous aura.\n\nBy the banks of the world's purest lake,\n\nThere once stood a glistening castle.\n\nGold leaf and gems decorated its walls,\n\nAnd it shone blinding in the post-noon sun.\n\nPretty banners and flags flew from the roof,\n\nWhile majestic towers soared alongside.\n\nGuests from afar peered through colorful windows,\n\nAnd marveled at the wonders every step revealed.\n\nYet none was more marvelous than the many statues,\n\nOdd in form but as real as life.\n\nIn the center of the hall sat a golden stage,\n\nWhere musicians played day and night for the castle's master.\n\nAs the music sounded, listeners flocked like swarming bees,\n\nTo dance in time with the beat that seemed to captivate the entire world.\n\nThe wine flowed never-ending to sate the thirst for revelry.\n\nAll could partake, no matter their class or their homeland,\n\nBut none of this could ease the master's fears,\n\nOr bring his troubled soul a moment of peace.\n\nAnd each time the tower's clock struck its deep midnight chime,\n\nHe would be possessed by an uncontrollable panic,\n\nTrapped by his fears and his gloom.\n\nThe dark-robed figure would surely collect on debts owed,\n\nAnd all before his eyes would be turned into dust,\n\nThe souls of his guests, and his own, included,\n\nAs tribute to that dark, ancient world.",
+        "zh": "在世上最纯净的湖水旁，\n曾有座金碧辉煌的城堡。\n金箔与宝石装饰着城堡的外壁，\n在午后阳光的照射下光彩夺目。\n城楼上飘扬着漂亮的彩旗，\n壮丽宏伟的塔楼高耸入云。\n远道而来的宾客透过彩色玻璃装饰的窗户，\n每走过一处都能看到全然不同的新奇景象。\n最为引人注目的则是遍布各处的雕塑摆设，\n虽然造型怪诞诡奇，看起来却是栩栩如生。\n城堡中央的大厅，是一座金光闪耀的舞台，\n乐师日夜不停地为这城堡的主人演奏歌唱。\n当优美的乐声响起，金色的蜂群也会萦绕在舞台周围，\n伴随着和谐的乐律翩翩起舞，仿佛世界也都为之倾倒。\n城堡中似乎有着取之不尽的珍馐美酒，以供人们狂欢享受，\n不论来自何方，出身如何，宾客们尽可随心所欲寻欢作乐。\n然而所有这一切都难以安慰主人心中的恐悚，\n也无法给他惶惶不安的灵魂带来片刻的安宁。\n每到午夜，当塔楼上的大钟发出低沉的声响，\n他总会陷入无法遏制的焦躁与不安，\n那难以言喻的恐惧与抑郁笼罩着他。\n裹着黑袍的鬼影将要讨回他的欠债，\n到时候，眼前的一切都要化为齑粉，\n连同这主人与所有宾客的灵魂一起，\n作为献给那黑暗中古老世界的供物。"
+      }
+    },
+    {
+      "number": 3,
+      "title": {
+        "ru": "Том 3",
+        "en": "Vol. 3",
+        "zh": "卷三"
+      },
+      "text": {
+        "ru": "Стихотворение неизвестного поэта. Написано странным зловещим слогом.\n\nСначала всё было тихо, лишь занавески колыхались на ветру, отбрасывая тени,\nда откуда-то доносились еле слышные звуки, похожие на перемалывание добычи звериными челюстями.\nНо потом пустую комнату разорвал неестественный хриплый смех.\nИ чёрная ночь наполнилась неописуемым ужасом.\nНаконец под громовые раскаты и свист штормового ветра\nс неба спустилась красноватая дымка\nи саваном окутала весь замок.\nНа большой сцене главной залы вырос высокий чёрный силуэт.\nЗлой дух в чёрной мантии наконец явился.\nИ гости, которые до сей поры беззаботно веселились,\nодин за другим простёрлись на земле,\nдаже не успев вскрикнуть.\nХозяин дрожал от страха, вжавшись в свой трон.\nЕго душу тоже похитила тьма.\nВ грохоте осыпающихся кирпичей и черепицы\nбылое великолепие замка разрушалось\nпод гнётом мерцающих волн.\nКровавая луна, прежде скрытая за башнями, теперь снова повисла на небосводе,\nизливая на землю зловещий красный свет.\nИ сегодня в воде чистейшего в мире озера\nотражается поблёкший и обветшалый замок.\nА золочёные залы с весёлыми пирами\nбудто всегда были лишь легендами, далёкими грёзами.\nРуины замка задыхаются во мраке.\nВ разбитых окнах маячат силуэты чудовищ, уподобившихся скульптурам.\nПод аккомпанемент нестройной мелодии они вместе с замком уходят под воду, на самое дно,\nгде нет ничего, кроме тьмы, смерти и скорбных песен.",
+        "en": "A poem penned by an author unknown. The writing style seems to give off a strange and ominous aura.\n\nAt first, all was still, apart from the curtains in the breeze,\n\nAnd the faint sounds of animals chewing, echoing through the walls from some unknown place.\n\nThen, an odd rasping laugh erupted from an empty room,\n\nA nameless horror spreading in the dark.\n\nThen, with terrible thunder and storm,\n\nA glowing red fog-cloud,\n\nEmbraced the castle just like a shroud.\n\nOn the castle's great central stage, a tall thin figure did appear,\n\nA dark spirit in black robes, arriving at last.\n\nThe guests, a moment ago enjoying their revels,\n\nFell to the floor one by one,\n\nBereft of time even to scream.\n\nThe master sat shivering and still on his throne,\n\nHis soul also snatched by the dark.\n\nAmid the roar of brick and tile hitting the ground,\n\nThe castle's glory faded into the past,\n\nSwallowed by glimmering waves.\n\nThe blood moon the towers once blocked reappeared in the sky,\n\nIts baleful glow sweeping the land.\n\nAnd today, by the banks of the world's purest lake,\n\nThe water reflects the long-fallen, faded castle.\n\nThe joy and brilliance that once lit its halls,\n\nConsigned to legends and dreams.\n\nThe ruins lie suffocated in the gloom.\n\nThrough shattered windows, statues appear as like to monsters,\n\nWho with the discordant tune that played sank with the castle into the sea.\n\nThere is nothing there now, bar darkness, death, and loss.",
+        "zh": "最初只是微风吹拂下的帷幔留在墙壁上的倒影，\n以及不知是从何处传来的动物啃磨的细碎声响。\n接着则是空荡房间中一阵阵沙哑而诡异的笑声，\n是在黑夜中不断蔓延的莫可名状的恐惧与梦魇。\n终于，伴着骇人的雷霆与风暴，\n一层闪着淡淡红色光芒的薄雾，\n像是裹尸布般笼罩了整个城堡。\n城堡中央的舞台上，一个高大而瘦长的黑影投下，\n那裹着黑袍的魔灵终于找上了门来。\n刚刚还在寻欢作乐的人们，\n很快一个接着一个地倒下，\n甚至来不及发出一声哀鸣。\n主人战栗地呆坐在宝座上，\n他的灵魂也已被黑暗夺去。\n随着砖石与瓦砾落下的轰鸣，\n城堡褪去了往昔的光彩，\n被泛着微光的水所吞没。\n原本被塔楼所遮蔽的血月重现于天际，\n得以将最为不祥的红色光辉遍撒大地。\n如今在世上最纯净的湖水中，\n倒映着衰颓破碎的褪色城堡。\n昔日金色的殿堂与欢宴的华章，\n仿佛本就是悠久的幻梦与传说。\n遗迹散发着令人窒息的衰朽，以及难以驱散的阴郁。\n透过破碎阴森的窗户，许多雕像般的怪物穿行而过，\n伴随着不和谐的旋律，不断地下沉，直到坠入深海。\n而在那里，除了黑暗、死亡与哀歌之外，别无他物。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

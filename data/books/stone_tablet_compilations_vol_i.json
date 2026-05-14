@@ -1,0 +1,44 @@
+{
+  "id": "stone_tablet_compilations_vol_i",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/stone_tablet_compilations_vol_i.webp",
+  "title": {
+    "ru": "Сборник каменных табличек",
+    "en": "Stone Tablet Compilations: Vol. I",
+    "zh": "石书辑录·卷一"
+  },
+  "region": "Ли Юэ",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Ли Юэ"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Историческая книга, которую составил знаменитый исследователь древности и переводчик Цзы Чан. В книге описаны различные исторические события.\n\nСначала Гео Архонт спустился на землю. Он изгнал воду, поднял горы Тяньхэн и обуздал волны. Среди людей воцарился мир и порядок, и они стали добывать в горах драгоценный нефрит, стали бурить скалы и собирать камни, чтобы обустроить селения. Говорят, добытый в горах нефрит сверкал особым блеском, а потому горы были названы «Форт Шанхуэй»[1]. В те времена люди, живущие в горах Тяньхэн, добычей нефрита зарабатывали себе на жизнь, и никто в тех землях не знал бедности.\n\n[1] «Форт Шанхуэй» ныне называется «гора Шанхуэй», так как после обрушения он превратился в простую скалу и больше не может быть восстановлен до первоначального облика.\n\n...\n\nГуй Чжун, Архонт пыли, была другом Гео Архонта. Она установила посты с баллистами для охраны горы Тяньхэн, и те были названы «баллисты Гуй Чжун». Она привела своих людей на север горы Тяньхэн и научила пахать землю. Их города и поля простирались всюду вплоть до Каменных врат, и они были связаны друг с другом единой сетью дорог. И Гуй Чжун сказала Гео Архонту: «Сегодня мои люди, покинувшие свой прежний дом, все мирно живут и работают, как будто действительно вернулись домой. Раз это так, может, назвать эти места \"Долина возвращения и прощания\"?» Гео Архонт согласился. Так это место получило имя, которое на языке Ли Юэ звучит как «долина Гуйли».[2]\n\n[2] Позже Архонты вступили в борьбу друг с другом за господство над миром, но в итоге этот мир оказался погружён в хаос. Хотя Адепты и вступили в бой, чтобы защитить долину Гуйли, в пламени войны долина и её жители хлебнули много горя, и среди жертв беспощадных боёв оказалась и Гуй Чжун. Позже Гео Архонт увёл своих людей к южной части горы Тяньхэн, и долина Гуйли с тех пор подверглась запустению, она больше никогда не процветала так, как в былые времена.\n\n...\n\nГео Архонт усмирил других Архонтов, Адепты и якса успокоились, Ли Юэ вступил в эпоху мира. В тысячелетней войне Архонтов плодородные поля были разрушены, и народ Ли Юэ обратился к торговле и искусству для заработка на жизнь. Лучшие в своём ремесле объединились и назвали себя «группировкой Цисин». Так зарождалась гавань Ли Юэ. В подчинении Цисин была вся торговля, и без их внимания не обходилось ни одно дело, будь оно в Ли Юэ или за его пределами. Миллелиты тоже подчинялись им, храня покой среди народа и защищая Ли Юэ от монстров извне. Таким образом, они стали так называемым правительством в подчинении у Властелина Камня.",
+        "en": "A history book compiled and translated from ancient stone tablets of Liyue by the historian Zichang. It contains various fragmented historical events.\n\nIn the beginning, Rex Lapis descended. He lowered the tides, raised Mt. Tianheng, and calmed the waves. Thereupon, peace was brought to the people. They cut into the mountain and found jade, they bored through the rock and made tunnels, and they piled up stones and built a settlement. It is written that the jade from the bowels of the mountain is that which glows. Hence, they named it \"Shanhui Fort\"[1]. In that time, all the people of Tianheng derived their livelihood from the mines, all prospered from them, and none knew poverty within a thousand-mile radius.\n\n[1] Better known today as \"Shanhui Rock,\" which is often simplified to \"Mountain Rock,\" thereby stripping the name of most of its original meaning.\n\n...\n\nGuizhong, the Lord of Dust, was an ally to the Lord of Rock. Around Mt. Tianheng, Guizhong set up a Crossbow to keep guard, and it was named the \"Guizhong Ballista.\" She brought her people to the north of Mt. Tianheng and taught them to tend the soil. Agriculture became their livelihood, and all prospered from it. The farming towns stretched for miles, and it was said that one could walk all the way to Stone Gate without ever leaving the network of pathways between the fields. Guizhong said to the Lord of Rock: \"My people had left their home and came to this place. Here, they are happy in their abodes and content in their work, thus it is as if they have returned home. Hence, what better name to call this place than 'the Plains of Returning and Departing'?\" The Lord of Rock praised the Lord of Dust for her work, and thereafter the area was named in the tongue of Liyue \"Guili Plains.\"\n\n[2] It later came to pass that the gods each strove for dominance, which brought catastrophe upon the land. Though the adepti fought to protect the Guili Plains, they could not stop the tide of war, which ravaged the plains and took the life of its ruler, Guizhong. Thereupon, the Lord of Rock Rex Lapis took his people south of Mt. Tianheng. Thus the people departed from the Guili Plains for good, never to return, and it was left to become a wilderness.\n\n...\n\nRex Lapis pacified the gods, adepti and yakshas were content in their positions, and Liyue re-entered an era of peace. Before this time, the gods waged war for centuries on end, and not one field was left unravaged. The people of Liyue turned to commerce and artisanship for their livelihood, and prospered once more. Those who prospered above the rest joined together, calling themselves the Qixing. Thus was formed the framework around which Liyue Harbor developed. Under the jurisdiction of the Qixing were all the known trades. No business of Liyue took place inside or outside the nation that was not known unto them. The Millelith also took orders from the Qixing, supporting the masses at home and suppressing the monsters at the border. Thus became the nature of Liyue's governance under Rex Lapis.",
+        "zh": "古代史家子苌将璃月古代记录历史的石板铭文加以翻译，编纂而成的史书，收录了许多简短破碎的史事。\n\n初，岩王降居，退海潮，立天衡，镇汐流。民遂安生，开山以采玉，凿岩以通达，聚石以为砦。有言：山蕴玉则有辉，故名之曰「山辉砦」。其时，天衡之民多以采矿为业，往来千里皆无贫者。\n\n注曰：山辉砦今讹为「山辉岩」，久经颓落，化为山岩，不复初时风貌。\n\n…\n\n有尘王魔神名归终者，与岩王交好，设强弩拱卫天衡，曰「归终机」；又率其民众居天衡北，耕田为业。其盛时阡陌交通，市镇农田远至石门而不绝。归终尝谓岩王：「今我离民，皆安居乐业，几同归乡，莫如名之归离原。」岩王称善。归离原故而得其名。\n\n注曰：后诸魔神谋位，大乱遽起。虽诸仙人奋战力保，然战事杂乱，归离原深受混战之苦，尘神归终亦薨于其中。故岩王帝君迁其民入天衡之南，归离原自此荒废，不复往日之繁盛。\n\n…\n\n岩王平定诸魔神，仙人夜叉各安其位，璃月复归平和。此前魔神混战千年，桑田尽毁。璃月之民遂以商贾、巧工为业。其佼佼者联合一体，名之「七星」。故璃月港雏形既成。七星下辖又有八门，内外诸业无所不包。又有千岩之军听令七星，内抚民众，外镇妖魔。是所谓岩王帝君之治。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "sangonomiya_chronicles",
+  "category": "books",
+  "subtype": "book_series",
+  "book_type": "book_series",
+  "icon": "assets/icons/books/sangonomiya_chronicles.webp",
+  "title": {
+    "ru": "Хроники Сангономии",
+    "en": "Sangonomiya Chronicles",
+    "zh": "珊瑚宫记"
+  },
+  "region": "Инадзума",
+  "volume_count": 1,
+  "tags": [
+    "книги",
+    "Инадзума"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "volumes": [
+    {
+      "number": 1,
+      "title": {
+        "ru": "Том 1",
+        "en": "Vol. 1",
+        "zh": "卷一"
+      },
+      "text": {
+        "ru": "Труд знаменитого историка сёгуната Кудзё Митидзанэ, одного из «Трёх сановников Кудзё», Содержит краткую историю острова Ватацуми.\n\nНа месте Сангономии когда-то была морская бездна, пока не пришёл гигантский змей и своими кругообразными движениями не превратил коралл в остров. Поэтому жители Сангономии назвали свой остров Ватацуми, что означает «бог моря», ибо гигантский змей был их богом.\nЖители Ватацуми называют себя морским народом и поклоняются гигантскому змею как Оробаси но микото. Святилище на острове Ватацуми - это правительственная резиденция, а комиссия сёгуна не имеет здесь власти. Все дела ведутся жрицами, главная жрица, или Божественная Жрица, отвечает и за правительственные дела, и за дела святилища.\nВо времена Войны Архонтов сёгун Райдэн подчинила себе всю Инадзуму, все склонились перед ней в страхе и благоговении, радуясь за свою участь, иначе они рисковали быть уничтоженными. Никто больше не жаждал того, на что не имел права. Гигантский змей, Оробаси но микото, всегда оставался на западе и уважал границу между собой и Наруками, так они жили в мире. Но потом он внезапно пересёк границу и без предупреждения вторгся на восток.\nВойна была жестокой и принесла много страданий. Обе стороны сражались на острове, который сейчас называется Ясиори, и понесли много потерь. Любимый генерал сёгуна тэнгу Сасаюри тоже оказался в числе погибших. Наконец Огосё убила гигантского змея, и останки его и поныне лежат на острове Ясиори.\nПосле этого Сангономия отправила послов объявить о капитуляции, с тех пор они признают сёгуна Инадзумы верховным и законным правителем.",
+        "en": "Historical annals written by the famous Shogunate historian Kujou Michizane, who was known as one of the \"The Three Kujou Dignitaries,\" or \"The Great Calligrapher.\" It chronicles the history of Watatsumi Island in broad strokes.\n\nSangonomiya was once an ocean abyss, until the Great Serpent came, forming a vortex with its spiral movements, and fashioning the coral into an island. Thus the people of Sangonomiya named their island Watatsumi, meaning \"god of the sea,\" for the Great Serpent was their god.\nThe inhabitants of Watatsumi call themselves the people of the sea and worship the Great Serpent as the Orobashi no Mikoto. On Watatsumi Island, the shrine is the seat of government, and there are no commissioners appointed by the Shogunate. All business, great and small, is conducted by the shrine maidens. The head shrine maiden, or Divine Priestess, is the head of government and ceremonial affairs.\nDuring the Archon War, Her Excellency the Almighty Raiden Ogosho brought all of Inazuma under Her unified rule. The masses bowed down in fear and awe and each was content with their lot, else they were annihilated. No longer did any covet that to which they were not entitled. The Great Serpent, Orobashi no Mikoto, had always remained in the western region and respected the boundary between itself and the Narukami, and the two had lived in peace. But now, it suddenly transgressed the boundary and invaded the east without warning.\nThe war was brutal, and brought great suffering to the people. The two sides fought bitterly on what is now known as Yashiori Island, with many casualties and injuries on both sides. Her Excellency's cherished tengu general, Sasayuri, was among those who lost their lives. Finally, the Great Serpent was slain by the Ogosho where its remains now lie on Yashiori Island.\nThereafter, Sangonomiya sent envoys to announce surrender, and they have recognized the Inazuma Shogunate as the legitimate and supreme ruler ever since.",
+        "zh": "由幕府著名历史学者，名列「九条三笔头」的名臣九条道真所著的历史书籍，简要介绍了海祇岛的历史。\n\n珊瑚宫者，初为海渊，后有大蛇渡来，盘桓而升涡流，塑珊瑚而成岛。是故珊瑚宫人名之「海祇岛」，盖以大蛇为神也。\n海祇之人自称海民，奉大蛇远吕羽氏尊。海祇岛以神宫为高府，无将军奉行之畴。大小事务仰赖诸巫女，巫女之首曰「现人神巫女」，统领政事、祭典。\n往年魔神混战，雷电大御所将军殿下定稻妻全土于一元，众皆震悚俯首，各安其位，或有直遭殄灭，再无非分之妄。大蛇远吕羽氏尊原素与鸣神以西界为分野，相安无碍，是时忽横生歹意，举力东侵。\n战事酷烈，民生惨苦。两方鏖战今八酝岛，皆多有伤亡，大御所殿下之爱将天狗笹百合亦陨落其间。大蛇终为大御所殿下斩杀，薨于八酝岛。\n自此以后，珊瑚宫遣使降服，尊稻妻幕府为大宗主也。"
+      }
+    }
+  ],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "public_credit": "Оригинальный игровой текст: Genshin Impact",
+  "rights_note": "Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме."
+}

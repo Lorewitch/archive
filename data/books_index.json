@@ -74,5 +74,1251 @@
       "zh"
     ],
     "search_text": "сказание о кунтуре the tale of kuntur 昆图尔的故事 натлан book_series кунтур том 1 vol. 1 卷一"
+  },
+  {
+    "id": "onibudou",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/onibudou.webp",
+    "title": {
+      "ru": "Онибудо",
+      "en": "Onibudou",
+      "zh": "鬼武道"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "онибудо onibudou 鬼武道 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "perinheri",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/perinheri.webp",
+    "title": {
+      "ru": "Переньери",
+      "en": "Perinheri",
+      "zh": "裴伦埃里"
+    },
+    "region": "Фонтейн",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Каэнри'ах"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "переньери perinheri 裴伦埃里 фонтейн book_series книги каэнри'ах том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "pretty_please_kitsune_guuji",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/pretty_please_kitsune_guuji.webp",
+    "title": {
+      "ru": "Пожалуйста, Кицунэ Гудзи",
+      "en": "Pretty Please, Kitsune Guuji?",
+      "zh": "拜托了我的狐仙宫司"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "пожалуйста, кицунэ гудзи pretty please, kitsune guuji? 拜托了我的狐仙宫司 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "princess_mina_of_the_fallen_nation",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/princess_mina_of_the_fallen_nation.webp",
+    "title": {
+      "ru": "Мина, принцесса павшего народа",
+      "en": "Princess Mina of the Fallen Nation",
+      "zh": "亡国的美奈姬"
+    },
+    "region": "Инадзума",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "мина, принцесса павшего народа princess mina of the fallen nation 亡国的美奈姬 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "rangi_nuis_end",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/rangi_nuis_end.webp",
+    "title": {
+      "ru": "Конец Ранги Нуи",
+      "en": "Rangi Nui's End",
+      "zh": "兰吉努伊之底"
+    },
+    "region": "Натлан",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "конец ранги нуи rangi nui's end 兰吉努伊之底 натлан book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "records_of_hanan_pacha",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/records_of_hanan_pacha.webp",
+    "title": {
+      "ru": "Хроники Ханан Пача",
+      "en": "Records of Hanan Pacha",
+      "zh": "哈南帕查记事"
+    },
+    "region": "Натлан",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "хроники ханан пача records of hanan pacha 哈南帕查记事 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "records_of_jueyun",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/records_of_jueyun.webp",
+    "title": {
+      "ru": "Хроника Заоблачного предела",
+      "en": "Records of Jueyun",
+      "zh": "绝云记闻"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "хроника заоблачного предела records of jueyun 绝云记闻 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "records_of_the_gallant",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/records_of_the_gallant.webp",
+    "title": {
+      "ru": "Записки благородного рыцаря",
+      "en": "Records of the Gallant",
+      "zh": "侠客记"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "записки благородного рыцаря records of the gallant 侠客记 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "rex_incognito",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/rex_incognito.webp",
+    "title": {
+      "ru": "Властелин Инкогнито",
+      "en": "Rex Incognito",
+      "zh": "帝君尘游记"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 4,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "властелин инкогнито rex incognito 帝君尘游记 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+  },
+  {
+    "id": "robben_versus_chesterton_iridescent_brooch",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/robben_versus_chesterton_iridescent_brooch.webp",
+    "title": {
+      "ru": "Бандиты и сыщики: Радужная брошь",
+      "en": "Robben versus Chesterton: Iridescent Brooch",
+      "zh": "怪盗与名侦探：虹彩胸针之谜"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "бандиты и сыщики: радужная брошь robben versus chesterton: iridescent brooch 怪盗与名侦探：虹彩胸针之谜 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "sacred_sakura_cleansing_summary",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/sacred_sakura_cleansing_summary.webp",
+    "title": {
+      "ru": "Указания по очищению Священной сакуры",
+      "en": "Sacred Sakura Cleansing Summary",
+      "zh": "神樱大祓要略"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "указания по очищению священной сакуры sacred sakura cleansing summary 神樱大祓要略 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "sangonomiya_chronicles",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/sangonomiya_chronicles.webp",
+    "title": {
+      "ru": "Хроники Сангономии",
+      "en": "Sangonomiya Chronicles",
+      "zh": "珊瑚宫记"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "хроники сангономии sangonomiya chronicles 珊瑚宫记 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "scroll_of_streaming_song",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/scroll_of_streaming_song.webp",
+    "title": {
+      "ru": "Плывущий свиток песен",
+      "en": "Scroll of Streaming Song",
+      "zh": "浮槃歌卷"
+    },
+    "region": "Сумеру",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "плывущий свиток песен scroll of streaming song 浮槃歌卷 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "shogun_almighty_reborn_as_raiden_with_unlimited_power",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/shogun_almighty_reborn_as_raiden_with_unlimited_power.webp",
+    "title": {
+      "ru": "Реинкарнация в непобедимого сёгуна Райдэн",
+      "en": "Shogun Almighty: Reborn as Raiden With Unlimited Power",
+      "zh": "转生成为雷电将军，然后天下无敌"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "реинкарнация в непобедимого сёгуна райдэн shogun almighty: reborn as raiden with unlimited power 转生成为雷电将军，然后天下无敌 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "someones_diary",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/someones_diary.webp",
+    "title": {
+      "ru": "Чей-то дневник",
+      "en": "Someone's Diary",
+      "zh": "谁人的日志"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "чей-то дневник someone's diary 谁人的日志 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "springs_of_hidden_jade",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/springs_of_hidden_jade.webp",
+    "title": {
+      "ru": "Ручьи скрытого нефрита",
+      "en": "Springs of Hidden Jade",
+      "zh": "隐玉之泉"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ручьи скрытого нефрита springs of hidden jade 隐玉之泉 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "stone_tablet_compilations_vol_i",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/stone_tablet_compilations_vol_i.webp",
+    "title": {
+      "ru": "Сборник каменных табличек",
+      "en": "Stone Tablet Compilations: Vol. I",
+      "zh": "石书辑录·卷一"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сборник каменных табличек stone tablet compilations: vol. i 石书辑录·卷一 ли юэ book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "string_of_pearls",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/string_of_pearls.webp",
+    "title": {
+      "ru": "Жемчужная нить",
+      "en": "String of Pearls",
+      "zh": "连心珠"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 5,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "жемчужная нить string of pearls 连心珠 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
+  },
+  {
+    "id": "sundjattas_first_foray",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/sundjattas_first_foray.webp",
+    "title": {
+      "ru": "Первый поход Сундиаты",
+      "en": "Sundjatta's First Foray",
+      "zh": "松伽塔的初阵"
+    },
+    "region": "Натлан",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "первый поход сундиаты sundjatta's first foray 松伽塔的初阵 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "tales_carried_by_the_northwind",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/tales_carried_by_the_northwind.webp",
+    "title": {
+      "ru": "Сказания северного ветра",
+      "en": "Tales Carried by the Northwind",
+      "zh": "朔风集"
+    },
+    "region": "Нод-Край",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Нод-Край"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сказания северного ветра tales carried by the northwind 朔风集 нод-край book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "tales_from_the_waves",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/tales_from_the_waves.webp",
+    "title": {
+      "ru": "Записи бродяги",
+      "en": "Tales From the Waves",
+      "zh": "浮浪记"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "записи бродяги tales from the waves 浮浪记 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "tales_of_a_snow_winged_goose",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/tales_of_a_snow_winged_goose.webp",
+    "title": {
+      "ru": "Сказки снежной Гусыни",
+      "en": "Tales of a Snow-Winged Goose",
+      "zh": "雪翅雁童话集"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сказки снежной гусыни tales of a snow-winged goose 雪翅雁童话集 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "tequil_the_brave",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/tequil_the_brave.webp",
+    "title": {
+      "ru": "Текил Храбрый",
+      "en": "Tequil the Brave",
+      "zh": "勇敢的特奎"
+    },
+    "region": "Натлан",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "текил храбрый tequil the brave 勇敢的特奎 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "the_art_of_negotiation",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_art_of_negotiation.webp",
+    "title": {
+      "ru": "«Искусство переговоров»",
+      "en": "\"The Art of Negotiation\"",
+      "zh": "《交涉的艺术》"
+    },
+    "region": "Фонтейн",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "«искусство переговоров» \"the art of negotiation\" 《交涉的艺术》 фонтейн book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "the_boar_princess",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_boar_princess.webp",
+    "title": {
+      "ru": "Принцесса-кабан",
+      "en": "The Boar Princess",
+      "zh": "野猪公主"
+    },
+    "region": "Мондштадт",
+    "volume_count": 7,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "принцесса-кабан the boar princess 野猪公主 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
+  },
+  {
+    "id": "the_byakuyakoku_collection",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_byakuyakoku_collection.webp",
+    "title": {
+      "ru": "Коллекция Бякуякоку",
+      "en": "The Byakuyakoku Collection",
+      "zh": "白夜国馆藏"
+    },
+    "region": "Инадзума",
+    "volume_count": 5,
+    "tags": [
+      "книги",
+      "Инадзума",
+      "Энканомия"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "коллекция бякуякоку the byakuyakoku collection 白夜国馆藏 инадзума book_series книги энканомия том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
+  },
+  {
+    "id": "the_fall_of_the_faded_castle",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_fall_of_the_faded_castle.webp",
+    "title": {
+      "ru": "Разрушение обветшалого замка",
+      "en": "The Fall of the Faded Castle",
+      "zh": "褪色古堡的崩塌"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "разрушение обветшалого замка the fall of the faded castle 褪色古堡的崩塌 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "the_feline_firm",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_feline_firm.webp",
+    "title": {
+      "ru": "Кошачья канцелярия",
+      "en": "The Feline Firm",
+      "zh": "猫咪事务所"
+    },
+    "region": "Фонтейн",
+    "volume_count": 8,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "кошачья канцелярия the feline firm 猫咪事务所 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八"
+  },
+  {
+    "id": "the_folio_of_foliage",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_folio_of_foliage.webp",
+    "title": {
+      "ru": "Учение листвы",
+      "en": "The Folio of Foliage",
+      "zh": "遐叶论经"
+    },
+    "region": "Сумеру",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "учение листвы the folio of foliage 遐叶论经 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "the_fox_in_the_dandelion_sea",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_fox_in_the_dandelion_sea.webp",
+    "title": {
+      "ru": "Лиса в море одуванчиков",
+      "en": "The Fox in the Dandelion Sea",
+      "zh": "蒲公英海的狐狸"
+    },
+    "region": "Мондштадт",
+    "volume_count": 11,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лиса в море одуванчиков the fox in the dandelion sea 蒲公英海的狐狸 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
+  },
+  {
+    "id": "the_headless_coquitao",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_headless_coquitao.webp",
+    "title": {
+      "ru": "Безголовый Кокитао",
+      "en": "The Headless Coquitao",
+      "zh": "无头的科奎塔奥"
+    },
+    "region": "Натлан",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "безголовый кокитао the headless coquitao 无头的科奎塔奥 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "the_history_of_the_decline_and_fall_of_remuria",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_history_of_the_decline_and_fall_of_remuria.webp",
+    "title": {
+      "ru": "Закат и падение Ремурии",
+      "en": "The History of the Decline and Fall of Remuria",
+      "zh": "雷穆利亚衰亡史"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "закат и падение ремурии the history of the decline and fall of remuria 雷穆利亚衰亡史 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "the_lay_of_al_ahmar",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_lay_of_al_ahmar.webp",
+    "title": {
+      "ru": "История аль-Ахмара",
+      "en": "The Lay of Al-Ahmar",
+      "zh": "阿赫玛尔的故事"
+    },
+    "region": "Сумеру",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "история аль-ахмара the lay of al-ahmar 阿赫玛尔的故事 сумеру book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "the_legend_of_vennessa",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_legend_of_vennessa.webp",
+    "title": {
+      "ru": "Легенда о Веннессе",
+      "en": "The Legend of Vennessa",
+      "zh": "温妮莎传奇"
+    },
+    "region": "Мондштадт",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "легенда о веннессе the legend of vennessa 温妮莎传奇 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "the_legends_of_reed_miller_thief_extraordinaire",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_legends_of_reed_miller_thief_extraordinaire.webp",
+    "title": {
+      "ru": "Легенда о Риде Миллере",
+      "en": "The Legends of Reed Miller, Thief Extraordinaire",
+      "zh": "大盗雷德·米勒传奇"
+    },
+    "region": "Нод-Край",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Нод-Край"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "легенда о риде миллере the legends of reed miller, thief extraordinaire 大盗雷德·米勒传奇 нод-край book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "the_life_of_mouun_the_shrine_maiden",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_life_of_mouun_the_shrine_maiden.webp",
+    "title": {
+      "ru": "Краткая биография жрицы Моун",
+      "en": "The Life of Mouun the Shrine Maiden",
+      "zh": "巫女曚云小传"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "краткая биография жрицы моун the life of mouun the shrine maiden 巫女曚云小传 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "the_little_witch_and_the_undying_fire",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_little_witch_and_the_undying_fire.webp",
+    "title": {
+      "ru": "Маленькая ведьма и вечное пламя",
+      "en": "The Little Witch and the Undying Fire",
+      "zh": "小魔女与不熄灭的火"
+    },
+    "region": "Мондштадт",
+    "volume_count": 7,
+    "tags": [
+      "книги"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "маленькая ведьма и вечное пламя the little witch and the undying fire 小魔女与不熄灭的火 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
+  },
+  {
+    "id": "the_mondstadt_tower",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_mondstadt_tower.webp",
+    "title": {
+      "ru": "Башня Мондштадта",
+      "en": "The Mondstadt Tower",
+      "zh": "蒙德高塔"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "башня мондштадта the mondstadt tower 蒙德高塔 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "the_pale_princess_and_the_six_pygmies",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_pale_princess_and_the_six_pygmies.webp",
+    "title": {
+      "ru": "Снежная принцесса и шесть карликов",
+      "en": "The Pale Princess and the Six Pygmies",
+      "zh": "白之公主与六侏儒"
+    },
+    "region": "Мондштадт",
+    "volume_count": 7,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "снежная принцесса и шесть карликов the pale princess and the six pygmies 白之公主与六侏儒 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
+  },
+  {
+    "id": "the_saga_of_hamavaran",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_saga_of_hamavaran.webp",
+    "title": {
+      "ru": "Войны Хамаварана",
+      "en": "The Saga of Hamavaran",
+      "zh": "哈玛瓦兰战记"
+    },
+    "region": "Сумеру",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "войны хамаварана the saga of hamavaran 哈玛瓦兰战记 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "the_shepherd_and_the_magic_bottle",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_shepherd_and_the_magic_bottle.webp",
+    "title": {
+      "ru": "Пастушок и волшебная бутылка",
+      "en": "The Shepherd and the Magic Bottle",
+      "zh": "牧童与魔瓶的故事"
+    },
+    "region": "Сумеру",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "пастушок и волшебная бутылка the shepherd and the magic bottle 牧童与魔瓶的故事 сумеру book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "the_tale_of_shiruyeh_and_shirin",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_tale_of_shiruyeh_and_shirin.webp",
+    "title": {
+      "ru": "История Шируе и Сирин",
+      "en": "The Tale of Shiruyeh and Shirin",
+      "zh": "希鲁伊与希琳的故事"
+    },
+    "region": "Сумеру",
+    "volume_count": 2,
+    "tags": [
+      "книги",
+      "Сумеру"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "история шируе и сирин the tale of shiruyeh and shirin 希鲁伊与希琳的故事 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+  },
+  {
+    "id": "the_two_musketeers",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_two_musketeers.webp",
+    "title": {
+      "ru": "Два мушкетёра",
+      "en": "The Two Musketeers",
+      "zh": "两个铳枪手"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "два мушкетёра the two musketeers 两个铳枪手 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "the_volcano_lord_and_the_shadow_pins",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/the_volcano_lord_and_the_shadow_pins.webp",
+    "title": {
+      "ru": "Повелитель вулканов и Теневые иглы",
+      "en": "The Volcano Lord and the Shadow Pins",
+      "zh": "火山大王与缝影针"
+    },
+    "region": "Натлан",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Натлан"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "повелитель вулканов и теневые иглы the volcano lord and the shadow pins 火山大王与缝影针 натлан book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "thick_notebook",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/thick_notebook.webp",
+    "title": {
+      "ru": "Толстый дневник",
+      "en": "Thick Notebook",
+      "zh": "厚厚的笔记"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "толстый дневник thick notebook 厚厚的笔记 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "time_trekker",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/time_trekker.webp",
+    "title": {
+      "ru": "Путешественник во времени",
+      "en": "Time Trekker",
+      "zh": "旅时者"
+    },
+    "region": "Фонтейн",
+    "volume_count": 3,
+    "tags": [
+      "книги",
+      "Фонтейн"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "путешественник во времени time trekker 旅时者 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+  },
+  {
+    "id": "toki_alley_tales",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/toki_alley_tales.webp",
+    "title": {
+      "ru": "Рассказы улицы Токи",
+      "en": "Toki Alley Tales",
+      "zh": "鹮巷物语"
+    },
+    "region": "Инадзума",
+    "volume_count": 6,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "рассказы улицы токи toki alley tales 鹮巷物语 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+  },
+  {
+    "id": "treasured_tales_of_the_chouken_shinkageuchi",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/treasured_tales_of_the_chouken_shinkageuchi.webp",
+    "title": {
+      "ru": "Драгоценные сказания Киёсикэн Синкагэути",
+      "en": "Treasured Tales of the Chouken Shinkageuchi",
+      "zh": "珍说澄研真影打"
+    },
+    "region": "Инадзума",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Инадзума"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "драгоценные сказания киёсикэн синкагэути treasured tales of the chouken shinkageuchi 珍说澄研真影打 инадзума book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "veras_melancholy",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/veras_melancholy.webp",
+    "title": {
+      "ru": "Меланхолия Веры",
+      "en": "Vera's Melancholy",
+      "zh": "少女薇拉的忧郁"
+    },
+    "region": "Мондштадт",
+    "volume_count": 12,
+    "tags": [
+      "книги"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меланхолия веры vera's melancholy 少女薇拉的忧郁 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一 том 12 vol. 12 卷十二"
+  },
+  {
+    "id": "verses_of_equilibrium",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/verses_of_equilibrium.webp",
+    "title": {
+      "ru": "Песни равновесия",
+      "en": "Verses of Equilibrium",
+      "zh": "玑衡经"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "песни равновесия verses of equilibrium 玑衡经 ли юэ book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "wind_courage_and_wings",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/wind_courage_and_wings.webp",
+    "title": {
+      "ru": "Ветер, храбрость и крылья",
+      "en": "Wind, Courage, and Wings",
+      "zh": "风、勇气和翅膀"
+    },
+    "region": "Мондштадт",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Мондштадт"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ветер, храбрость и крылья wind, courage, and wings 风、勇气和翅膀 мондштадт book_series книги том 1 vol. 1 卷一"
+  },
+  {
+    "id": "yakshas_the_guardian_adepti",
+    "category": "books",
+    "subtype": "book_series",
+    "book_type": "book_series",
+    "icon": "assets/icons/books/yakshas_the_guardian_adepti.webp",
+    "title": {
+      "ru": "Яксы: Защитники Адептов",
+      "en": "Yakshas: The Guardian Adepti",
+      "zh": "护法仙众夜叉录"
+    },
+    "region": "Ли Юэ",
+    "volume_count": 1,
+    "tags": [
+      "книги",
+      "Ли Юэ"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "яксы: защитники адептов yakshas: the guardian adepti 护法仙众夜叉录 ли юэ book_series книги том 1 vol. 1 卷一"
   }
 ]
