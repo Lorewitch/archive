@@ -2159,33 +2159,32 @@
 
     .dropped-by-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 10px;
+      grid-template-columns: 1fr;
+      gap: 12px;
       align-items: start;
     }
 
     .dropped-by-card {
       align-self: start;
-      min-height: 74px;
       border: 1px solid rgba(91, 74, 62, .14);
-      border-radius: 13px;
+      border-radius: 14px;
       background: rgba(203, 191, 175, .20);
       overflow: hidden;
-      transition: background .16s ease, border-color .16s ease;
     }
 
-    .dropped-by-card.is-active {
-      border-color: rgba(91, 74, 62, .30);
-      background: rgba(203, 191, 175, .32);
+    .dropped-by-card-inner {
+      padding: 14px 16px;
     }
 
     .dropped-by-header {
       display: grid;
-      grid-template-columns: 46px minmax(0, 1fr) auto;
-      gap: 9px;
+      grid-template-columns: 46px minmax(0, 1fr);
+      gap: 10px;
       align-items: start;
-      min-height: 74px;
-      padding: 10px;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid rgba(91, 74, 62, .12);
+      user-select: text;
     }
 
     .dropped-by-icon {
@@ -2213,61 +2212,21 @@
 
     .dropped-by-name {
       color: #211B17;
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 900;
     }
 
     .dropped-by-meta,
     .dropped-by-zh {
-      margin-top: 2px;
+      margin-top: 3px;
       color: var(--muted);
-      font-size: 12px;
+      font-size: 13px;
       font-weight: 520;
     }
 
-    .dropped-by-toggle {
-      align-self: start;
-      border: 1px solid rgba(91, 74, 62, .16);
-      border-radius: 8px;
-      padding: 4px 7px;
-      background: rgba(246, 242, 235, .62);
-      color: var(--accent);
-      font-size: 12px;
-      font-weight: 900;
-      line-height: 1.2;
-      cursor: pointer;
-    }
-
-    .dropped-by-toggle:hover,
-    .dropped-by-toggle:focus-visible {
-      background: rgba(203, 191, 175, .48);
-      color: var(--ink);
-      outline: none;
-    }
-
-    .dropped-by-active-detail {
-      margin-top: 12px;
-      padding: 14px 16px;
-      border: 1px solid rgba(91, 74, 62, .16);
-      border-radius: 14px;
-      background: rgba(246, 242, 235, .70);
-      color: var(--ink);
-    }
-
-    .dropped-by-active-head {
-      display: grid;
-      grid-template-columns: 46px minmax(0, 1fr);
-      gap: 10px;
-      align-items: start;
-      margin-bottom: 10px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid rgba(91, 74, 62, .12);
-      user-select: text;
-    }
-
-    .dropped-by-active-detail .prose {
+    .dropped-by-card .prose {
       font-size: 15px;
-      line-height: 1.7;
+      line-height: 1.75;
     }
 
     .enemy-loot-list {
@@ -2339,7 +2298,7 @@
         grid-template-columns: 1fr;
       }
 
-      .dropped-by-active-detail {
+      .dropped-by-card-inner {
         padding: 12px;
       }
     }
@@ -2898,7 +2857,13 @@ function renderEnemyDropDetail(enemy, currentItemId = "") {
   }
 
   const text = localizedEntryText(enemy) || "Описание противника будет добавлено позже.";
-  const drops = Array.isArray(enemy.drops) ? enemy.drops : [];
+  const drops = Array.isArray(enemy.drops)
+    ? enemy.drops.filter(drop => {
+        if (!drop || drop.id === currentItemId) return false;
+        const title = titleOf(drop, state.lang);
+        return title && title !== "Без названия";
+      })
+    : [];
   const dropsBlock = drops.length ? `
     <div class="enemy-loot-list" aria-label="Также выпадает">
       ${drops.map(drop => renderLootChip(drop, currentItemId)).join("")}
@@ -2935,63 +2900,24 @@ function renderDroppedBySection(item) {
             : `<span class="dropped-by-icon entry-icon placeholder" aria-hidden="true">⌁</span>`;
           return `
             <article class="dropped-by-card">
-              <div class="dropped-by-header">
-                ${icon}
-                ${renderEnemyNameBlock(enemy)}
-                <button class="dropped-by-toggle" type="button" data-enemy-id="${escapeHtml(enemy.id)}" aria-expanded="false">Описание</button>
+              <div class="dropped-by-card-inner">
+                <div class="dropped-by-header">
+                  ${icon}
+                  ${renderEnemyNameBlock(enemy)}
+                </div>
+                ${renderEnemyDropDetail(enemy, item?.id || "")}
               </div>
             </article>
           `;
         }).join("")}
       </div>
-      <div class="dropped-by-active-detail" id="dropped-by-active-detail" hidden></div>
     </div>
   `;
 }
 
 
 function bindDroppedByEnemies(item) {
-  document.querySelectorAll("[data-enemy-id]").forEach(button => {
-    button.addEventListener("click", async event => {
-      event.stopPropagation();
-
-      const section = button.closest(".dropped-by-section");
-      const card = button.closest(".dropped-by-card");
-      const panel = section?.querySelector(".dropped-by-active-detail");
-      if (!section || !card || !panel) return;
-
-      const isOpen = button.getAttribute("aria-expanded") === "true";
-      section.querySelectorAll("[data-enemy-id]").forEach(openButton => {
-        openButton.setAttribute("aria-expanded", "false");
-        openButton.textContent = "Описание";
-        openButton.closest(".dropped-by-card")?.classList.remove("is-active");
-      });
-
-      if (isOpen) {
-        panel.hidden = true;
-        panel.innerHTML = "";
-        return;
-      }
-
-      button.setAttribute("aria-expanded", "true");
-      button.textContent = "Свернуть";
-      card.classList.add("is-active");
-      panel.hidden = false;
-      panel.innerHTML = `<div class="prose">Загрузка описания...</div>`;
-
-      const enemy = await getEnemyById(button.dataset.enemyId);
-      const icon = enemy?.icon
-        ? `<img class="dropped-by-icon" src="${escapeHtml(enemy.icon)}" alt="" loading="lazy" decoding="async" width="46" height="46">`
-        : "";
-      panel.innerHTML = `
-        <div class="dropped-by-active-head">
-          ${icon}
-          ${renderEnemyNameBlock(enemy || { title: {} })}
-        </div>
-        ${renderEnemyDropDetail(enemy, item?.id || "")}
-      `;
-    });
-  });
+  // Common enemy cards are rendered expanded by default.
 }
 
 
