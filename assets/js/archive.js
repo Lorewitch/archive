@@ -800,6 +800,7 @@ function renderCommonEnemyMaterialsCell(item) {
   const materials = Array.isArray(item?.materials) ? item.materials : [];
   if (!materials.length) return "—";
 
+  const versionBadge = renderGameVersionBadge(item);
 
   return `
     <div class="catalog-material-plain-list">
