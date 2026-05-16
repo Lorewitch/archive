@@ -490,15 +490,18 @@
     }
 
     .book-title {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 6px 8px;
       min-width: 0;
       color: #211B17;
       font-size: 17px;
       font-weight: 900;
       line-height: 1.32;
+      overflow-wrap: normal;
+      word-break: normal;
+    }
+
+    .book-title-tail {
+      display: inline-block;
+      white-space: nowrap;
     }
 
     .book-title-label,
@@ -512,6 +515,7 @@
       align-items: center;
       justify-content: center;
       flex: 0 0 auto;
+      margin-left: 6px;
       padding: 4px 8px;
       border: 1px solid rgba(91, 74, 62, .12);
       border-radius: 8px;
@@ -3198,5 +3202,28 @@ h3,
     width: 66px;
     height: 66px;
     margin-right: 10px;
+  }
+}
+
+/* v2: keep the game-version badge attached to the last word of the title. */
+.book-title {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+.book-title-tail {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.game-version-badge {
+  margin-left: 6px;
+}
+
+@media (max-width: 640px) {
+  .game-version-badge {
+    margin-left: 5px;
+    padding: 3px 7px;
+    font-size: 11.5px;
   }
 }

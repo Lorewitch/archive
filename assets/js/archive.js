@@ -735,7 +735,28 @@ function normalizedGameVersion(value) {
 function renderGameVersionBadge(item) {
   const version = normalizedGameVersion(item?.game_version || item?.release_version);
   if (!version) return "";
-  return `<span class="game-version-badge" title="Версия игры ${escapeHtml(version)}">v${escapeHtml(version)}</span>`;
+  return `<span class="game-version-badge" title="Версия игры ${escapeHtml(version)}" aria-label="Версия игры ${escapeHtml(version)}">v${escapeHtml(version)}</span>`;
+}
+
+function renderTitleWithGameVersion(item) {
+  const rawTitle = String(titleOf(item, "ru") || "").trim();
+  const badge = renderGameVersionBadge(item);
+
+  if (!badge) return escapeHtml(rawTitle);
+  if (!rawTitle) return badge;
+
+  // Keep the version badge attached to the last word of the Russian title.
+  // This lets the browser wrap the whole "last word + badge" group together
+  // instead of leaving the badge alone on the next line.
+  const match = rawTitle.match(/^([\s\S]*?)(\S+)$/u);
+  if (!match) {
+    return `${escapeHtml(rawTitle)}${badge}`;
+  }
+
+  const prefix = match[1] || "";
+  const lastWord = match[2] || rawTitle;
+
+  return `${escapeHtml(prefix)}<span class="book-title-tail">${escapeHtml(lastWord)}${badge}</span>`;
 }
 
 function bookTypeValue(item) {
@@ -755,7 +776,6 @@ function renderTitleCell(item) {
   const zh = titleOf(item, "zh");
   const subtitles = [en, zh].filter(Boolean).join(" · ");
   const icon = iconFor(item);
-  const versionBadge = renderGameVersionBadge(item);
   const iconMarkup = icon
     ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
@@ -764,7 +784,7 @@ function renderTitleCell(item) {
     <div class="entry-title-cell">
       ${iconMarkup}
       <div class="entry-title-text">
-        <div class="book-title"><span class="book-title-label">${escapeHtml(titleOf(item, "ru"))}</span>${versionBadge}</div>
+        <div class="book-title">${renderTitleWithGameVersion(item)}</div>
         <div class="book-subtitle">${escapeHtml(subtitles)}</div>
         ${materialsPreview}
       </div>
@@ -780,7 +800,6 @@ function renderCommonEnemyMaterialsCell(item) {
   const materials = Array.isArray(item?.materials) ? item.materials : [];
   if (!materials.length) return "—";
 
-  const versionBadge = renderGameVersionBadge(item);
 
   return `
     <div class="catalog-material-plain-list">
