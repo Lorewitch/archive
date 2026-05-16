@@ -1,0 +1,38 @@
+{
+  "id": "skyward_atlas",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/catalyst/skyward_atlas.png",
+  "title": {
+    "ru": "Небесный атлас",
+    "en": "Skyward Atlas",
+    "zh": "天空之卷"
+  },
+  "region": "",
+  "rarity": 5,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "катализатор"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Облачный атлас, символ Двалина и его повелителя, Анемо Архонта. Детально описывает облака и воздушные потоки северного региона, питающие его силой небес и ветров.\n\n### История\nАтлас ветров.\nКопия атласа, состоящего из стихов и изображений, описывающих погоду северных регионов.\nОн состоит из ста тысяч стихов, каждый из которых посвящён одному облаку или ветру и называет его по имени.\nОблачный атлас придал ветрам форму, а стихи наделили их характером.\nВ глазах верующих Барбатос всегда олицетворял тысячи ветров.\nВ легендах говорится, что Барбатос призвал четыре ветра в их изначальной форме.\nС их помощью он сдул снега, прогнал злобных чудовищ, вызвал дожди и создал Мондштадт.\nОн разрешил распространять этот атлас среди людей, дав ему название «Облачный атлас».\nК сожалению, мало что выдерживает испытание временем. В дошедших до наших дней копиях некоторые рисунки и стихи отсутствуют.\nНо среди мондштадтцев эти знания продолжают передаваться устно в форме баллад и легенд.\nИстории о тысячах ветров не были потеряны, ведь Барбатос сохранил их все.\nКогда Барбатос встал против чёрных крыльев злого дракона Дурина,Он спел одну тысяче ветров и призвал к себе на помощь дракона ветра.\nВладелец этого атласа хранит подлинную силу и имена тысячи ветров.\nТеперь небо над Мондштадтом голубое и безмятежное.\nБарбатос и Двалин нашли себе новый дом.\nИ атлас был доверен тому, кто достоин этой чести.",
+    "en": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.\n\n### Story\nAn atlas of wind.\nA copy of the atlas pertaining to the weather of the northern regions, presented in the form of poems and images.\nIt consists of 100 thousand odes, each dedicated to a single cloud or wind and calling it by name.\nThe cloud atlas gave form to the winds, and odes infused them with personality.\nThe myriad formless winds are now friends and family in the eyes of Barbatos.\nLegends tell that in ancient times, Barbatos summoned the four winds with the original version.\nHe thawed the snow, drove away vicious beasts, summoned rainfall, and created Mondstadt.\nHe permitted the atlas to be shared and copied among the people, giving it the name of Cloud Atlas.\nSadly, nothing survives the test of time. Certain drawings and odes were missing in the copies that survived.\nHowever, the knowledge passed on in the form of ballads and legends among the general public.\nThe histories of the thousand winds were not lost, for Barbatos still holds them.\nWhen Barbatos stood against the shadowy wings of the evil dragon Durin,\nHe sang to the thousand winds and called upon the Wind Dragon.\nHe who holds this atlas wields the true names of the thousand winds and all of their powers.\nNow the skies above Mondstadt are calm and blue.\nBarbatos and Dvalin have found a new place to call home.\nThe atlas, meanwhile, has been entrusted to one worthy of the honor.",
+    "zh": "象征风龙与其主风之神的云图集。细致记载了北地天空的风与云，蕴含苍空与长风的力量。\n\n### 故事\n千风万云通览。\n记载北地全境云风的抄本，以诗与图鉴的形式呈现。\n总长有十万颂，每颂是一缕云，一丝风，其名各异。\n云图为风赋予了形状，颂诗给风塑造了独特的性格。\n本是无形的千风，在巴巴托斯眼中有如挚友与亲人。\n在那传说中的上古时代，风之神持原本，唤来四风，消散了冰雪，屏退了凶兽，降下了雨露，蒙德遂成。\n而后慷慨的风神将此书任人传抄，赋名「千风万云」。\n可惜随着日月流转，经年以后，云图与颂诗多有遗漏。\n记载万千风云的通览散入民间，化作歌谣与故事传说。\n然而千风的历史远未因此失传，风神依然持有着它。\n待魔龙杜林张开巨翼蔽日而来，巴巴托斯挺身而出。\n日月失色的恶战中，风神唱出千风，风龙缘风而起。\n掌握此卷者，便掌握了千风万云的真名与其中伟力。\n如今，蒙德的天空平静蔚蓝。\n风神与风龙找到了新的归宿。\n而此卷则被委托予可信之人。"
+  },
+  "description": {
+    "ru": "Облачный атлас, символ Двалина и его повелителя, Анемо Архонта. Детально описывает облака и воздушные потоки северного региона, питающие его силой небес и ветров.\n\n### История\nАтлас ветров.\nКопия атласа, состоящего из стихов и изображений, описывающих погоду северных регионов.\nОн состоит из ста тысяч стихов, каждый из которых посвящён одному облаку или ветру и называет его по имени.\nОблачный атлас придал ветрам форму, а стихи наделили их характером.\nВ глазах верующих Барбатос всегда олицетворял тысячи ветров.\nВ легендах говорится, что Барбатос призвал четыре ветра в их изначальной форме.\nС их помощью он сдул снега, прогнал злобных чудовищ, вызвал дожди и создал Мондштадт.\nОн разрешил распространять этот атлас среди людей, дав ему название «Облачный атлас».\nК сожалению, мало что выдерживает испытание временем. В дошедших до наших дней копиях некоторые рисунки и стихи отсутствуют.\nНо среди мондштадтцев эти знания продолжают передаваться устно в форме баллад и легенд.\nИстории о тысячах ветров не были потеряны, ведь Барбатос сохранил их все.\nКогда Барбатос встал против чёрных крыльев злого дракона Дурина,Он спел одну тысяче ветров и призвал к себе на помощь дракона ветра.\nВладелец этого атласа хранит подлинную силу и имена тысячи ветров.\nТеперь небо над Мондштадтом голубое и безмятежное.\nБарбатос и Двалин нашли себе новый дом.\nИ атлас был доверен тому, кто достоин этой чести.",
+    "en": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.\n\n### Story\nAn atlas of wind.\nA copy of the atlas pertaining to the weather of the northern regions, presented in the form of poems and images.\nIt consists of 100 thousand odes, each dedicated to a single cloud or wind and calling it by name.\nThe cloud atlas gave form to the winds, and odes infused them with personality.\nThe myriad formless winds are now friends and family in the eyes of Barbatos.\nLegends tell that in ancient times, Barbatos summoned the four winds with the original version.\nHe thawed the snow, drove away vicious beasts, summoned rainfall, and created Mondstadt.\nHe permitted the atlas to be shared and copied among the people, giving it the name of Cloud Atlas.\nSadly, nothing survives the test of time. Certain drawings and odes were missing in the copies that survived.\nHowever, the knowledge passed on in the form of ballads and legends among the general public.\nThe histories of the thousand winds were not lost, for Barbatos still holds them.\nWhen Barbatos stood against the shadowy wings of the evil dragon Durin,\nHe sang to the thousand winds and called upon the Wind Dragon.\nHe who holds this atlas wields the true names of the thousand winds and all of their powers.\nNow the skies above Mondstadt are calm and blue.\nBarbatos and Dvalin have found a new place to call home.\nThe atlas, meanwhile, has been entrusted to one worthy of the honor.",
+    "zh": "象征风龙与其主风之神的云图集。细致记载了北地天空的风与云，蕴含苍空与长风的力量。\n\n### 故事\n千风万云通览。\n记载北地全境云风的抄本，以诗与图鉴的形式呈现。\n总长有十万颂，每颂是一缕云，一丝风，其名各异。\n云图为风赋予了形状，颂诗给风塑造了独特的性格。\n本是无形的千风，在巴巴托斯眼中有如挚友与亲人。\n在那传说中的上古时代，风之神持原本，唤来四风，消散了冰雪，屏退了凶兽，降下了雨露，蒙德遂成。\n而后慷慨的风神将此书任人传抄，赋名「千风万云」。\n可惜随着日月流转，经年以后，云图与颂诗多有遗漏。\n记载万千风云的通览散入民间，化作歌谣与故事传说。\n然而千风的历史远未因此失传，风神依然持有着它。\n待魔龙杜林张开巨翼蔽日而来，巴巴托斯挺身而出。\n日月失色的恶战中，风神唱出千风，风龙缘风而起。\n掌握此卷者，便掌握了千风万云的真名与其中伟力。\n如今，蒙德的天空平静蔚蓝。\n风神与风龙找到了新的归宿。\n而此卷则被委托予可信之人。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "catalyst",
+  "type": "catalyst"
+}

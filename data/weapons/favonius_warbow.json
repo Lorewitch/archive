@@ -1,0 +1,38 @@
+{
+  "id": "favonius_warbow",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/favonius_warbow.png",
+  "title": {
+    "ru": "Боевой лук Фавония",
+    "en": "Favonius Warbow",
+    "zh": "西风猎弓"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Лук, входящий в стандартную экипировку рыцарей Ордо Фавониус, но только самые опытные лучники могут использовать весь его потенциал.\n\n### История\nИзогнутый лук, находящийся на вооружении рыцарей Ордо Фавониус. Выдаётся только лучшим лучникам, давно находящимся на службе у ордена.\nИскусно вырезанная дубовая рама обеспечивает превосходную прочность, а дополнительные металлические вставки облегчают его использование.\nТетива заговорена тайными алхимическими и волшебными заговорами, которые обеспечивают защиту пальцев лучника.\nЭтот лук служит наградой для достойных стражей Мондштадта и прекрасным инструментом, с помощью которого они могут продолжить нести свою службу.\nСовсем недавно в состав Ордо Фавониус входил отряд опытных скаутов-лучников.\nЭтот отряд был основан лидером наёмников из Ли Юэ. Он передал весь свой жизненный опыт скаутам, которых сам и тренировал.\nПриобретённые ими навыки слежки, наряду со способностью предчувствовать опасность, были уникальными среди всех рыцарей ордена.\nПоэтому отряд скаутов был очень ценной и уважаемой частью Ордо Фавониус.\nЭто продолжалось до тех пор, пока сам основатель отряда по неизвестным причинам не покинул орден.\nС того дня отряд скаутов стал всего лишь призраком своей былой славы. Они быстро потеряли своё положение в ордене, оставив за собой лишь название.\nТем не менее всё ещё остались те, кто неустанно работает ради сохранения чести некогда уважаемой части Ордо Фавониус.",
+    "en": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.\n\n### Story\nA standard recurve bow wielded by the Knights of Favonius. Only issued to the best archers long in service of the order.\nExpertly crafted, the oak frame provides superior strength while the addition of metal parts makes it easy to use.\nThe bowstring is enchanted with the secrets of alchemy and magic, granting protection to the fingers of the archer.\nThis bow serves as a reward to worthy guardians of Mondstadt, and a fine tool with which for them to continue in their guardianship.\n\nThe Knights of Favonius once had a formidable team of archer scouts known as the Outriders.\nThe team was founded by a mercenary leader from Liyue, who passed on his lifetime's worth of knowledge to the Outriders.\n\nThe tracking skills they acquired, along with the ability to sense when danger was afoot, were unique among all the knights.\nHence, the skills of the Outriders were invaluable to the Knights of Favonius.\n\nThis lasted until the first of the Outriders, for reasons unknown to the Knights, ultimately left the order.\nFrom that day, the Outrider team was a shell of its former self. Its expertise was gone, though its structure and name have been preserved.\nNevertheless, there are still those who work tirelessly to maintain the dignity of the Outrider title.",
+    "zh": "西风骑士团的制式反曲弓，只有杰出的弓手能与它的杰出性能相衬。\n\n### 故事\n西风骑士团的制式反曲弓，通常只授予弓术杰出，服役时间长的优秀射手。\n通体由橡木制成，特殊工艺在保留了木的强韧之余，还赋予了金属的轻便。\n弓弦上附有炼金与魔法的奥秘，使得此弓的使用者能放箭百发而虎口不裂。\n这把弓既是对锐意守护蒙德者的奖励，也是守卫蒙德的利器。\n在过去，西风骑士团曾经拥有极为优秀的弓手斥候部队，被称为侦察骑士。\n创立者是来自璃月的佣兵领袖，他将自己毕生所知全数传给了侦察骑士们。\n无论是在荒野追迹的本领，还是嗅到危险气息的直觉，都是骑士不具备的。\n因此，侦察骑士的技术对于骑士团而言格外宝贵。\n直到最初的侦察骑士，不知出于何故兀自离开骑士团。\n在那之后，这支部队就名存实亡了。\n但编制留存至今。\n如今仍有人为了不辱没侦察骑士之名，而不懈努力着。"
+  },
+  "description": {
+    "ru": "Лук, входящий в стандартную экипировку рыцарей Ордо Фавониус, но только самые опытные лучники могут использовать весь его потенциал.\n\n### История\nИзогнутый лук, находящийся на вооружении рыцарей Ордо Фавониус. Выдаётся только лучшим лучникам, давно находящимся на службе у ордена.\nИскусно вырезанная дубовая рама обеспечивает превосходную прочность, а дополнительные металлические вставки облегчают его использование.\nТетива заговорена тайными алхимическими и волшебными заговорами, которые обеспечивают защиту пальцев лучника.\nЭтот лук служит наградой для достойных стражей Мондштадта и прекрасным инструментом, с помощью которого они могут продолжить нести свою службу.\nСовсем недавно в состав Ордо Фавониус входил отряд опытных скаутов-лучников.\nЭтот отряд был основан лидером наёмников из Ли Юэ. Он передал весь свой жизненный опыт скаутам, которых сам и тренировал.\nПриобретённые ими навыки слежки, наряду со способностью предчувствовать опасность, были уникальными среди всех рыцарей ордена.\nПоэтому отряд скаутов был очень ценной и уважаемой частью Ордо Фавониус.\nЭто продолжалось до тех пор, пока сам основатель отряда по неизвестным причинам не покинул орден.\nС того дня отряд скаутов стал всего лишь призраком своей былой славы. Они быстро потеряли своё положение в ордене, оставив за собой лишь название.\nТем не менее всё ещё остались те, кто неустанно работает ради сохранения чести некогда уважаемой части Ордо Фавониус.",
+    "en": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.\n\n### Story\nA standard recurve bow wielded by the Knights of Favonius. Only issued to the best archers long in service of the order.\nExpertly crafted, the oak frame provides superior strength while the addition of metal parts makes it easy to use.\nThe bowstring is enchanted with the secrets of alchemy and magic, granting protection to the fingers of the archer.\nThis bow serves as a reward to worthy guardians of Mondstadt, and a fine tool with which for them to continue in their guardianship.\n\nThe Knights of Favonius once had a formidable team of archer scouts known as the Outriders.\nThe team was founded by a mercenary leader from Liyue, who passed on his lifetime's worth of knowledge to the Outriders.\n\nThe tracking skills they acquired, along with the ability to sense when danger was afoot, were unique among all the knights.\nHence, the skills of the Outriders were invaluable to the Knights of Favonius.\n\nThis lasted until the first of the Outriders, for reasons unknown to the Knights, ultimately left the order.\nFrom that day, the Outrider team was a shell of its former self. Its expertise was gone, though its structure and name have been preserved.\nNevertheless, there are still those who work tirelessly to maintain the dignity of the Outrider title.",
+    "zh": "西风骑士团的制式反曲弓，只有杰出的弓手能与它的杰出性能相衬。\n\n### 故事\n西风骑士团的制式反曲弓，通常只授予弓术杰出，服役时间长的优秀射手。\n通体由橡木制成，特殊工艺在保留了木的强韧之余，还赋予了金属的轻便。\n弓弦上附有炼金与魔法的奥秘，使得此弓的使用者能放箭百发而虎口不裂。\n这把弓既是对锐意守护蒙德者的奖励，也是守卫蒙德的利器。\n在过去，西风骑士团曾经拥有极为优秀的弓手斥候部队，被称为侦察骑士。\n创立者是来自璃月的佣兵领袖，他将自己毕生所知全数传给了侦察骑士们。\n无论是在荒野追迹的本领，还是嗅到危险气息的直觉，都是骑士不具备的。\n因此，侦察骑士的技术对于骑士团而言格外宝贵。\n直到最初的侦察骑士，不知出于何故兀自离开骑士团。\n在那之后，这支部队就名存实亡了。\n但编制留存至今。\n如今仍有人为了不辱没侦察骑士之名，而不懈努力着。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

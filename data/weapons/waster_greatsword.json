@@ -1,0 +1,38 @@
+{
+  "id": "waster_greatsword",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/claymore/waster_greatsword.png",
+  "title": {
+    "ru": "Двуручный меч богатыря",
+    "en": "Waster Greatsword",
+    "zh": "训练大剑"
+  },
+  "region": "",
+  "rarity": 1,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "двуручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Человек, обладающий достаточной силой воли, сможет расколоть горы этим куском металла, отдалённо напоминающим меч.\n\n### История\nХозяин такого тяжёлого тупого меча знает,что оружие не важно - важна сила хозяина.",
+    "en": "A sturdy sheet of iron that may be powerful enough to break apart mountains if wielded with enough willpower.\n\n### Story\nThe one who uses this heavy, edgeless two-handed greatsword knows this well:It matters not what the weapon is, for it is the wielder's might that counts.",
+    "zh": "仅仅是削出了剑形的厚重铁片。在意志强韧的人手里，也有劈开磐石的力量。\n\n### 故事\n使用这种沉重、无锋双手大剑的人最清楚，兵器如何都无所谓，重要的是自己的力量。"
+  },
+  "description": {
+    "ru": "Человек, обладающий достаточной силой воли, сможет расколоть горы этим куском металла, отдалённо напоминающим меч.\n\n### История\nХозяин такого тяжёлого тупого меча знает,что оружие не важно - важна сила хозяина.",
+    "en": "A sturdy sheet of iron that may be powerful enough to break apart mountains if wielded with enough willpower.\n\n### Story\nThe one who uses this heavy, edgeless two-handed greatsword knows this well:It matters not what the weapon is, for it is the wielder's might that counts.",
+    "zh": "仅仅是削出了剑形的厚重铁片。在意志强韧的人手里，也有劈开磐石的力量。\n\n### 故事\n使用这种沉重、无锋双手大剑的人最清楚，兵器如何都无所谓，重要的是自己的力量。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "claymore",
+  "type": "claymore"
+}

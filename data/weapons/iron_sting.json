@@ -1,0 +1,38 @@
+{
+  "id": "iron_sting",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/iron_sting.png",
+  "title": {
+    "ru": "Стальное жало",
+    "en": "Iron Sting",
+    "zh": "铁蜂刺"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Экзотическая рапира, каким-то образом попавшая в Ли Юэ. Скорее всего, её привёз какой-то торговец. Она лёгкая и очень острая.\n\n### История\nЛюди со всего света стекаются в гавань Ли Юэ, и это - гордость торгового порта.\nС волнами приезжих в город также стекаются и экзотические товары.\nЭтот тонкий меч подобен игле, а острие его смертоносно: им невозможно нанести режущий удар, но укол способен нанести страшные повреждения.\nДля владения им нужен определённый уровень навыка. Впрочем, для тех, кто не обучался искусству фехтования, он тоже сослужит хорошую службу как обычный меч.\n\nОружие из дальних стран, некогда висевшее на поясе капитана корабля дальнего плавания.\nТонкий и изящный клинок абсолютно чужеродно смотрелся в грубых руках морских волков.\n\nКогда любители спрашивали, откуда он, капитан только посмеивался в ответ, поэтому среди людей ходило много слухов об этом мече.\nКто-то говорил, что клинок был добыт в сражении с пиратами, другие возражали, что он - трофей с ограбленного судна.\n\nНо когда солнце клонилось к горизонту, а паруса уже были убраны на ночь, старпом садился и аккуратно чистил клинок,\nВспоминая о былой жизни в стране Ветров, о том, как был странствующим рыцарем,\nо девушке, которую встретил в родном краю и полюбил безответно, о своём обещании встретиться вновь.",
+    "en": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.\n\n### Story\nThe whole world flocks to the commercial port of Liyue, much to the city's pride.\nWith the tides of people also come exotic treasures.\nThis needle-like sword, with a point but no edges, sacrifices the ability to slash for increased piercing damage.\nA level of skill is required to realize its full potential. However, it still serves as a fine sword even for those who wield it without particular skill.\n\nA weapon from a distant shore that once hung from the waist of its seafaring bearer.\nA slender and elegant blade, it stood out amidst the roughness and chaos of the sea.\n\nWhen curious folk inquired, the boat captain deflected their questions. Rumors abounded concerning the blade's origins.\nSome said it was won in battle against pirates, others that it was a loot from a raid.\n\nBut when the red evening clouds set in and after the sails had been dropped for the night, the Chief Mate would gently polish the blade,\nReminiscing about his old life in the Wind Kingdom, the time he spent roaming as a martial nomad.\nReminiscing about a girl from his hometown, a love that ended too soon, and a promise to meet again.",
+    "zh": "外形流利的细长刺剑，是从异国经由商路流落到璃月的奇异兵器。轻快无比，剑芒极其锐利。\n\n### 故事\n天下都向璃月来，这是伟大商港的荣誉。\n异国的珍宝也顺着人潮海流来到璃月港。\n细剑无锋，剑尖极锐利，将挥砍的功能精简，特化刺戳的破坏力。\n掌控需要一定技术；\n但做工精良，即便没有专门学习，也是好剑。\n是来自遥远彼岸的武器，曾佩在远航帆船的主人腰间。\n剑身纤细，流线优雅，与海船上粗犷的风气格格不入。\n每有好事者问起，船主都置之一哂。\n传言在风中回荡，有人说是战胜海盗的猎获，也有人称是劫掠的战利品。\n但当晚霞落幕，风帆降下时，大副总会轻轻擦拭着佩剑，回想着风之国的旧梦，回想着自己身为游侠的失落时光，回想着在故乡遇到的少女、无果的恋情，与重逢的约定。"
+  },
+  "description": {
+    "ru": "Экзотическая рапира, каким-то образом попавшая в Ли Юэ. Скорее всего, её привёз какой-то торговец. Она лёгкая и очень острая.\n\n### История\nЛюди со всего света стекаются в гавань Ли Юэ, и это - гордость торгового порта.\nС волнами приезжих в город также стекаются и экзотические товары.\nЭтот тонкий меч подобен игле, а острие его смертоносно: им невозможно нанести режущий удар, но укол способен нанести страшные повреждения.\nДля владения им нужен определённый уровень навыка. Впрочем, для тех, кто не обучался искусству фехтования, он тоже сослужит хорошую службу как обычный меч.\n\nОружие из дальних стран, некогда висевшее на поясе капитана корабля дальнего плавания.\nТонкий и изящный клинок абсолютно чужеродно смотрелся в грубых руках морских волков.\n\nКогда любители спрашивали, откуда он, капитан только посмеивался в ответ, поэтому среди людей ходило много слухов об этом мече.\nКто-то говорил, что клинок был добыт в сражении с пиратами, другие возражали, что он - трофей с ограбленного судна.\n\nНо когда солнце клонилось к горизонту, а паруса уже были убраны на ночь, старпом садился и аккуратно чистил клинок,\nВспоминая о былой жизни в стране Ветров, о том, как был странствующим рыцарем,\nо девушке, которую встретил в родном краю и полюбил безответно, о своём обещании встретиться вновь.",
+    "en": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.\n\n### Story\nThe whole world flocks to the commercial port of Liyue, much to the city's pride.\nWith the tides of people also come exotic treasures.\nThis needle-like sword, with a point but no edges, sacrifices the ability to slash for increased piercing damage.\nA level of skill is required to realize its full potential. However, it still serves as a fine sword even for those who wield it without particular skill.\n\nA weapon from a distant shore that once hung from the waist of its seafaring bearer.\nA slender and elegant blade, it stood out amidst the roughness and chaos of the sea.\n\nWhen curious folk inquired, the boat captain deflected their questions. Rumors abounded concerning the blade's origins.\nSome said it was won in battle against pirates, others that it was a loot from a raid.\n\nBut when the red evening clouds set in and after the sails had been dropped for the night, the Chief Mate would gently polish the blade,\nReminiscing about his old life in the Wind Kingdom, the time he spent roaming as a martial nomad.\nReminiscing about a girl from his hometown, a love that ended too soon, and a promise to meet again.",
+    "zh": "外形流利的细长刺剑，是从异国经由商路流落到璃月的奇异兵器。轻快无比，剑芒极其锐利。\n\n### 故事\n天下都向璃月来，这是伟大商港的荣誉。\n异国的珍宝也顺着人潮海流来到璃月港。\n细剑无锋，剑尖极锐利，将挥砍的功能精简，特化刺戳的破坏力。\n掌控需要一定技术；\n但做工精良，即便没有专门学习，也是好剑。\n是来自遥远彼岸的武器，曾佩在远航帆船的主人腰间。\n剑身纤细，流线优雅，与海船上粗犷的风气格格不入。\n每有好事者问起，船主都置之一哂。\n传言在风中回荡，有人说是战胜海盗的猎获，也有人称是劫掠的战利品。\n但当晚霞落幕，风帆降下时，大副总会轻轻擦拭着佩剑，回想着风之国的旧梦，回想着自己身为游侠的失落时光，回想着在故乡遇到的少女、无果的恋情，与重逢的约定。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

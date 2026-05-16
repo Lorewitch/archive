@@ -1,0 +1,38 @@
+{
+  "id": "bloodtainted_greatsword",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/claymore/bloodtainted_greatsword.png",
+  "title": {
+    "ru": "Меч драконьей крови",
+    "en": "Bloodtainted Greatsword",
+    "zh": "沐浴龙血的剑"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "двуручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Стальной меч, по легенде запятнанный кровью дракона, что делает его невосприимчивым к повреждениям. Однако это свойство не распространяется на его владельца.\n\n### История\nГоворят, после убийства злого драконаВеликий герой искупался в его чёрной крови, чтобы стать неуязвимым.\nКровь действительно имела чудесный эффект.\nО тело героя ломались мечи и копья,И тучи стрел лишь смешили его, когда отскакивали, не причиняя вреда.\nВ конце концов враги его обнаружили:Его любимый двуручный меч, который герой носил за спиной, тоже был умыт кровью,А значит, слабое место героя - спина, где этот клинок висел.",
+    "en": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.\n\n### Story\nLegend says that after slaying the venomous dragon,\nThe famed hero bathed in its blood, for he desired invulnerability.\nSure enough, he became untouchable.\nBe it swords, be it spears, or be it rain of arrows,\nHe laughed and shrugged them off.\nEventually, his foes learned:\nHe had borne his prized greatsword on his back as he bathed\nAnd now, his back bore a great weak spot, the very shape and size of that sword.",
+    "zh": "据说是北方英雄浸过龙血的钢铁大剑，有刀枪不入的神力…这种护佑并不会延伸到挥舞它的人身上。\n\n### 故事\n传说，著名的英雄在斩杀毒龙之后，以猎获的龙血沐浴，以期刀枪不入。\n龙血确有此奇效：受其洗刷的躯体，卷了无数刀剑的刃，折了无数枪矛的尖，漫天飞来的箭，在他的笑声中纷纷弹开。\n最终，他的敌人们发现：他是背着钟爱的大剑沐浴龙血的，背上有一整块大剑尺寸的弱点哩。"
+  },
+  "description": {
+    "ru": "Стальной меч, по легенде запятнанный кровью дракона, что делает его невосприимчивым к повреждениям. Однако это свойство не распространяется на его владельца.\n\n### История\nГоворят, после убийства злого драконаВеликий герой искупался в его чёрной крови, чтобы стать неуязвимым.\nКровь действительно имела чудесный эффект.\nО тело героя ломались мечи и копья,И тучи стрел лишь смешили его, когда отскакивали, не причиняя вреда.\nВ конце концов враги его обнаружили:Его любимый двуручный меч, который герой носил за спиной, тоже был умыт кровью,А значит, слабое место героя - спина, где этот клинок висел.",
+    "en": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.\n\n### Story\nLegend says that after slaying the venomous dragon,\nThe famed hero bathed in its blood, for he desired invulnerability.\nSure enough, he became untouchable.\nBe it swords, be it spears, or be it rain of arrows,\nHe laughed and shrugged them off.\nEventually, his foes learned:\nHe had borne his prized greatsword on his back as he bathed\nAnd now, his back bore a great weak spot, the very shape and size of that sword.",
+    "zh": "据说是北方英雄浸过龙血的钢铁大剑，有刀枪不入的神力…这种护佑并不会延伸到挥舞它的人身上。\n\n### 故事\n传说，著名的英雄在斩杀毒龙之后，以猎获的龙血沐浴，以期刀枪不入。\n龙血确有此奇效：受其洗刷的躯体，卷了无数刀剑的刃，折了无数枪矛的尖，漫天飞来的箭，在他的笑声中纷纷弹开。\n最终，他的敌人们发现：他是背着钟爱的大剑沐浴龙血的，背上有一整块大剑尺寸的弱点哩。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "claymore",
+  "type": "claymore"
+}

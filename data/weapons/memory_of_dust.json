@@ -1,0 +1,38 @@
+{
+  "id": "memory_of_dust",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/catalyst/memory_of_dust.png",
+  "title": {
+    "ru": "Память о пыли",
+    "en": "Memory of Dust",
+    "zh": "尘世之锁"
+  },
+  "region": "",
+  "rarity": 5,
+  "game_version": "1.1",
+  "tags": [
+    "оружие",
+    "катализатор"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Камень, содержащий далёкие воспоминания. Нескончаемые изменения обнажили его внутреннюю силу.\n\n### История\n«Это символ союза и мой тебе вызов.\nВ этом замке - вся моя мудрость».\nОн вспомнил, как при первой встрече она радостно преподнесла символ с притворной торжественностью.\nКакая глупость. Понятно, что договор не настоящий. Просто само собой получилось, что они остались вместе.\nОн вспоминал их первую встречу на поле цветущих глазурных лилий.\nОн вспоминал, как среди лилий она сказала:«Эти людишки такие ничтожные и слабые, словно пыль.\nИз-за ничтожности не знают, когда оборвётся их жизнь, и потому боятся.\nИз-за страха всё пыжатся, хотят стать умнее. А я знаю.\nИ вот я думаю - силой с тобой не сравниться, так надо использовать знания и умения.\nС твоей силой и моим умом... Этот город будет чудесным».\nПотом она как-то опустошённо улыбнулась и медленно превратилась в мелкую пыль.«Похоже, что всё-таки не смогу я быть вместе с тобой. А про тот замок... Забудь.\nЭто символ союза и мой тебе вызов.\nВ этом замке - вся моя мудрость.\nЕсли сможешь открыть...»Он так и не смог открыть замок. Он так и не знал окончания фразы.\nПрошло много лет. Сегодня от диких лилий уже почти не осталось следа.",
+    "en": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.\n\n### Story\n\"This is the mark of our pledge, and it is also my challenge to you.\"\n\"All my wisdom is hidden within this stone dumbbell.\"\nHe remembers meeting the young woman with the billowing sleeves, remembers the way she acted solemn, yet seemed joyful when she presented him this token.\nWhat a silly notion. There was no formal contract between them. They were merely two people walking the same path for their own reasons...\nBut he remembers the scene of their first meeting anyway, when the Glaze Lilies were still in abundant bloom.\nHe also remembers those words she spoke at the end — again, amid the Glaze Lilies.\n\"Those little people are as small and fragile as dust.\"\n\"Because they are so small, they know not when they will lose their lives to disaster or strife, and so they are afraid.\"\n\"Because they are afraid, they try so hard to become more intelligent. This I understand.\"\n\"So I thought that since there is such a gulf between us in strength, I should use technique and wisdom instead.\"\n\"With your brawn and my brains, this city would surely become a great one.\"\nHer final smile was a lonely one, even as her form dissolved into the finest dust.\n\"It seems that our journey together has come to an end. As for that stone dumbbell, forget about it, would you?\"\n\"This is the mark of our pledge, and it is also my challenge to you.\"\n\"All my wisdom is hidden within this stone dumbbell.\"\n\"If you can unlock it—\"\nMany years passed, and he was never able to unlock that dumbbell, nor would he ever learn what might have followed that sentence.\nOver the years, the wild Glaze Lilies, too, dwindled till at last they were no more.",
+    "zh": "蕴含着某种悠远记忆的石锁，随着无穷的变换透露出其中的力量。\n\n### 故事\n「这是盟约的信物，也是我对你的挑战」「我的一切智慧，都藏在这把石锁之中」他想起初次见面，大衣袖的少女呈上信物时故作庄严而雀跃的样子。\n真是愚蠢，明明就没有正式的契约，明明只不过自顾自地一同行动…\n但就是会想起，过去琉璃百合盛放的原野上，两人初次相见的情景，以及最后，在琉璃百合丛中，她说的话。\n「那些小小的人儿们，如同微尘般渺小又脆弱」「因为渺小，所以不知何时会殒命于天灾人祸。\n所以总是害怕」「因为害怕，所以总是努力，想变得更聪明。\n我啊，是明白的」「所以我想，既然与你力量差距太大，那就运用技术与智慧吧」「同时具有你的力量与我的头脑的话…\n这座城市会很了不起吧」她最后有些落寞地笑了笑，慢慢化作了无比细微的尘埃。\n「看来还是无法和你一同走下去了。\n那把锁的事情，忘了它吧」「这是盟约的信物，也是我对你的挑战」「我的一切智慧，都藏在这把石锁之中」「如果能解开它的话——」许多年，他都没能解开这把锁，也不知道那句话的下文。\n随着岁月变迁，如今野生的琉璃百合也几乎不见踪迹了。"
+  },
+  "description": {
+    "ru": "Камень, содержащий далёкие воспоминания. Нескончаемые изменения обнажили его внутреннюю силу.\n\n### История\n«Это символ союза и мой тебе вызов.\nВ этом замке - вся моя мудрость».\nОн вспомнил, как при первой встрече она радостно преподнесла символ с притворной торжественностью.\nКакая глупость. Понятно, что договор не настоящий. Просто само собой получилось, что они остались вместе.\nОн вспоминал их первую встречу на поле цветущих глазурных лилий.\nОн вспоминал, как среди лилий она сказала:«Эти людишки такие ничтожные и слабые, словно пыль.\nИз-за ничтожности не знают, когда оборвётся их жизнь, и потому боятся.\nИз-за страха всё пыжатся, хотят стать умнее. А я знаю.\nИ вот я думаю - силой с тобой не сравниться, так надо использовать знания и умения.\nС твоей силой и моим умом... Этот город будет чудесным».\nПотом она как-то опустошённо улыбнулась и медленно превратилась в мелкую пыль.«Похоже, что всё-таки не смогу я быть вместе с тобой. А про тот замок... Забудь.\nЭто символ союза и мой тебе вызов.\nВ этом замке - вся моя мудрость.\nЕсли сможешь открыть...»Он так и не смог открыть замок. Он так и не знал окончания фразы.\nПрошло много лет. Сегодня от диких лилий уже почти не осталось следа.",
+    "en": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.\n\n### Story\n\"This is the mark of our pledge, and it is also my challenge to you.\"\n\"All my wisdom is hidden within this stone dumbbell.\"\nHe remembers meeting the young woman with the billowing sleeves, remembers the way she acted solemn, yet seemed joyful when she presented him this token.\nWhat a silly notion. There was no formal contract between them. They were merely two people walking the same path for their own reasons...\nBut he remembers the scene of their first meeting anyway, when the Glaze Lilies were still in abundant bloom.\nHe also remembers those words she spoke at the end — again, amid the Glaze Lilies.\n\"Those little people are as small and fragile as dust.\"\n\"Because they are so small, they know not when they will lose their lives to disaster or strife, and so they are afraid.\"\n\"Because they are afraid, they try so hard to become more intelligent. This I understand.\"\n\"So I thought that since there is such a gulf between us in strength, I should use technique and wisdom instead.\"\n\"With your brawn and my brains, this city would surely become a great one.\"\nHer final smile was a lonely one, even as her form dissolved into the finest dust.\n\"It seems that our journey together has come to an end. As for that stone dumbbell, forget about it, would you?\"\n\"This is the mark of our pledge, and it is also my challenge to you.\"\n\"All my wisdom is hidden within this stone dumbbell.\"\n\"If you can unlock it—\"\nMany years passed, and he was never able to unlock that dumbbell, nor would he ever learn what might have followed that sentence.\nOver the years, the wild Glaze Lilies, too, dwindled till at last they were no more.",
+    "zh": "蕴含着某种悠远记忆的石锁，随着无穷的变换透露出其中的力量。\n\n### 故事\n「这是盟约的信物，也是我对你的挑战」「我的一切智慧，都藏在这把石锁之中」他想起初次见面，大衣袖的少女呈上信物时故作庄严而雀跃的样子。\n真是愚蠢，明明就没有正式的契约，明明只不过自顾自地一同行动…\n但就是会想起，过去琉璃百合盛放的原野上，两人初次相见的情景，以及最后，在琉璃百合丛中，她说的话。\n「那些小小的人儿们，如同微尘般渺小又脆弱」「因为渺小，所以不知何时会殒命于天灾人祸。\n所以总是害怕」「因为害怕，所以总是努力，想变得更聪明。\n我啊，是明白的」「所以我想，既然与你力量差距太大，那就运用技术与智慧吧」「同时具有你的力量与我的头脑的话…\n这座城市会很了不起吧」她最后有些落寞地笑了笑，慢慢化作了无比细微的尘埃。\n「看来还是无法和你一同走下去了。\n那把锁的事情，忘了它吧」「这是盟约的信物，也是我对你的挑战」「我的一切智慧，都藏在这把石锁之中」「如果能解开它的话——」许多年，他都没能解开这把锁，也不知道那句话的下文。\n随着岁月变迁，如今野生的琉璃百合也几乎不见踪迹了。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "catalyst",
+  "type": "catalyst"
+}

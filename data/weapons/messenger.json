@@ -1,0 +1,38 @@
+{
+  "id": "messenger",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/messenger.png",
+  "title": {
+    "ru": "Посыльный",
+    "en": "Messenger",
+    "zh": "信使"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Простой деревянный лук. Говорят, что когда-то такие луки использовали для дистанционного общения.\n\n### История\nДавным-давно в Ли Юэ была традиция -Обмениваться сообщениями при помощи лука и стрел.«Но ведь от этого могли пострадать случайные прохожие, разве нет?»«Хм, поэтому этот лук и стал пережитком древности...» -Ответил продавец антиквариата, потерев подбородок, и улыбнулся.",
+    "en": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.\n\n### Story\nIt was said in days gone by,\nThe people of Liyue passed messages by bow and arrow.\n\"Wouldn't bystanders get hurt, you ask?\"\n\"Suffice to say, there's a good reason this bow is an antique...\"\nThe antique shop owner rubbed their chin and smiled.",
+    "zh": "造型简单的木制弓。传说它曾被人用作远程通讯的道具。\n\n### 故事\n据说，在很久以前的某段时期，璃月港的人们，好以飞箭传书。「可是，那样不会射伤路人吗」「正因如此，这弓才成了古董」古董店店主摸摸下巴，微笑道。"
+  },
+  "description": {
+    "ru": "Простой деревянный лук. Говорят, что когда-то такие луки использовали для дистанционного общения.\n\n### История\nДавным-давно в Ли Юэ была традиция -Обмениваться сообщениями при помощи лука и стрел.«Но ведь от этого могли пострадать случайные прохожие, разве нет?»«Хм, поэтому этот лук и стал пережитком древности...» -Ответил продавец антиквариата, потерев подбородок, и улыбнулся.",
+    "en": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.\n\n### Story\nIt was said in days gone by,\nThe people of Liyue passed messages by bow and arrow.\n\"Wouldn't bystanders get hurt, you ask?\"\n\"Suffice to say, there's a good reason this bow is an antique...\"\nThe antique shop owner rubbed their chin and smiled.",
+    "zh": "造型简单的木制弓。传说它曾被人用作远程通讯的道具。\n\n### 故事\n据说，在很久以前的某段时期，璃月港的人们，好以飞箭传书。「可是，那样不会射伤路人吗」「正因如此，这弓才成了古董」古董店店主摸摸下巴，微笑道。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

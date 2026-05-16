@@ -1,0 +1,38 @@
+{
+  "id": "slingshot",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/slingshot.png",
+  "title": {
+    "ru": "Рогатка",
+    "en": "Slingshot",
+    "zh": "弹弓"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "На самом деле это лук. Его создатель хотел сделать рогатку, но после кучи доработок и поправок у него получился лук.\n\n### История\nОднажды кто-то понял, как усовершенствовать простую рогатку:Он использовал вместо камней деревянные палочки, к концам которых прикрепил перья для стабильности.\nК тому же чем больше приложить силы, тем больше увеличится дальность, но понизится точность.\nТакже он сделал концы рогатки длиннее, затем изогнул их, увеличив доступное натяжение.\nТолько после всего этого он понял, что изобрёл лук.",
+    "en": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.\n\n### Story\nOne who wished to improve the range and accuracy of slingshots discovered that\nPower increases range, but costs accuracy.\nSo slingshot rocks were replaced with long wooden poles that sported feathers for stability.\nThe slingshot's limbs were lengthened and the ends recurved to increase pull.\nIt then dawned on him that he had made a bow.",
+    "zh": "其实就是一把弓。在无数的改进和实验中，发明出究极弹弓的人发现自己做了一把弓。\n\n### 故事\n从前有一个想要改进弹弓射程和精准度的人。\n他发现：如果提高弹弓的力道以提升射程，那弹道就会偏离。\n于是他将弹弓的弹子改成木制的长杆，后面加上适应气流的鸟羽。\n为了新的弹子又将弹弓的把手去除，将弓弭加长反曲以加强拉力。\n最后他发现自己做了一把弓。"
+  },
+  "description": {
+    "ru": "На самом деле это лук. Его создатель хотел сделать рогатку, но после кучи доработок и поправок у него получился лук.\n\n### История\nОднажды кто-то понял, как усовершенствовать простую рогатку:Он использовал вместо камней деревянные палочки, к концам которых прикрепил перья для стабильности.\nК тому же чем больше приложить силы, тем больше увеличится дальность, но понизится точность.\nТакже он сделал концы рогатки длиннее, затем изогнул их, увеличив доступное натяжение.\nТолько после всего этого он понял, что изобрёл лук.",
+    "en": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.\n\n### Story\nOne who wished to improve the range and accuracy of slingshots discovered that\nPower increases range, but costs accuracy.\nSo slingshot rocks were replaced with long wooden poles that sported feathers for stability.\nThe slingshot's limbs were lengthened and the ends recurved to increase pull.\nIt then dawned on him that he had made a bow.",
+    "zh": "其实就是一把弓。在无数的改进和实验中，发明出究极弹弓的人发现自己做了一把弓。\n\n### 故事\n从前有一个想要改进弹弓射程和精准度的人。\n他发现：如果提高弹弓的力道以提升射程，那弹道就会偏离。\n于是他将弹弓的弹子改成木制的长杆，后面加上适应气流的鸟羽。\n为了新的弹子又将弹弓的把手去除，将弓弭加长反曲以加强拉力。\n最后他发现自己做了一把弓。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

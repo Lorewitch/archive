@@ -1,0 +1,38 @@
+{
+  "id": "skyrider_sword",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/skyrider_sword.png",
+  "title": {
+    "ru": "Меч небесного всадника",
+    "en": "Skyrider Sword",
+    "zh": "飞天御剑"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Надёжный стальной меч. Однажды некто пытался заставить его летать...\n\n### История\nНебесный Всадник, будучи опытным фехтовальщиком, спрыгнул с вершины Заоблачного предела и,Не обращая внимание на свистящий в ушах ветер, вспорол клинком мякоть облаков.\nНо за свистом ветра последовал лишь хруст костей.\nИ только тогда он понял, что некоторые вещи не могут быть достигнуты только за счёт фехтовального искусства.\nХотя он и заложил меч в ломбард, чтобы купить себе лекарства,Его мечта о полёте только окрепла.",
+    "en": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...\n\n### Story\nLeap, the master swordsman Skyrider did, from the heights of Jueyun Karst.\nHe pierced the clouds as the winds hollered by his ears,\nBut what followed was the sound of bones shattering.\nWhat he had hoped for was something swordsmanship could not bring him.\nHe pawned the sword for medicine,\nBut die it did not, his dream of flight.",
+    "zh": "可靠的钢剑，传说著名的「御剑公子」曾试图借助它飞天。\n\n### 故事\n剑术高超的御剑公子从绝云间顶一跃而下，不顾耳边狂啸的烈风，公子御剑穿透云层。\n直到断裂的声音顺着筋骨传入脑中——他才知道，有的事情剑术也无法实现。\n虽说当掉锃亮的钢剑，换了金创药丸。\n可御剑公子明白，飞天的伟大征程还未结束！"
+  },
+  "description": {
+    "ru": "Надёжный стальной меч. Однажды некто пытался заставить его летать...\n\n### История\nНебесный Всадник, будучи опытным фехтовальщиком, спрыгнул с вершины Заоблачного предела и,Не обращая внимание на свистящий в ушах ветер, вспорол клинком мякоть облаков.\nНо за свистом ветра последовал лишь хруст костей.\nИ только тогда он понял, что некоторые вещи не могут быть достигнуты только за счёт фехтовального искусства.\nХотя он и заложил меч в ломбард, чтобы купить себе лекарства,Его мечта о полёте только окрепла.",
+    "en": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...\n\n### Story\nLeap, the master swordsman Skyrider did, from the heights of Jueyun Karst.\nHe pierced the clouds as the winds hollered by his ears,\nBut what followed was the sound of bones shattering.\nWhat he had hoped for was something swordsmanship could not bring him.\nHe pawned the sword for medicine,\nBut die it did not, his dream of flight.",
+    "zh": "可靠的钢剑，传说著名的「御剑公子」曾试图借助它飞天。\n\n### 故事\n剑术高超的御剑公子从绝云间顶一跃而下，不顾耳边狂啸的烈风，公子御剑穿透云层。\n直到断裂的声音顺着筋骨传入脑中——他才知道，有的事情剑术也无法实现。\n虽说当掉锃亮的钢剑，换了金创药丸。\n可御剑公子明白，飞天的伟大征程还未结束！"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

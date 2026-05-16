@@ -1,0 +1,38 @@
+{
+  "id": "harbinger_of_dawn",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/harbinger_of_dawn.png",
+  "title": {
+    "ru": "Предвестник зари",
+    "en": "Harbinger of Dawn",
+    "zh": "黎明神剑"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Меч, некогда испускавший солнечный свет. Владелец этого меча получит благословение «Хорошего Самочувствия». Отражающая поверхность меча давно стёрлась.\n\n### История\nУ этого меча очень звучное имя:Предрассветный победоносный меч триумфатора.\nНо только один человек пал от него на поле боя.\nОднажды ночью его владелец вскинул меч и издал боевой клич.\nНа мгновение непроглядная тьма озарилась ярким светом.\nИз-за этого блеска владелец меча стал лёгкой мишенью,И в то же мгновение его нашла стрела.",
+    "en": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.\n\n### Story\nThis sword has an extraordinary full name:\nThe Triumphant Harbinger of Dawn that Points Towards Victory.\nOnly one has ever fallen by this blade on the battlefield.\nOne night, the bearer drew the sword triumphantly.\nThe night sky lit up as bright as day,\npin-pointing his precise location.\nArrows rained down upon him.",
+    "zh": "一把曾经耀若朝阳的宝剑，掌握它的人会获得「自我感觉良好」的力量加持。剑身上的发光材料已经褪去。\n\n### 故事\n这把剑拥有一个更响亮的全名：「斩开黎明指向胜利的拂晓神剑」。\n但在战场上，仅有一人因它倒下：是夜，他拔出宝剑高喊胜利之名，刹时漆黑的夜幕被映得明如白昼。\n因为闪亮，此公成了显眼的目标，如金属引雷般招来了如雨的箭矢。"
+  },
+  "description": {
+    "ru": "Меч, некогда испускавший солнечный свет. Владелец этого меча получит благословение «Хорошего Самочувствия». Отражающая поверхность меча давно стёрлась.\n\n### История\nУ этого меча очень звучное имя:Предрассветный победоносный меч триумфатора.\nНо только один человек пал от него на поле боя.\nОднажды ночью его владелец вскинул меч и издал боевой клич.\nНа мгновение непроглядная тьма озарилась ярким светом.\nИз-за этого блеска владелец меча стал лёгкой мишенью,И в то же мгновение его нашла стрела.",
+    "en": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.\n\n### Story\nThis sword has an extraordinary full name:\nThe Triumphant Harbinger of Dawn that Points Towards Victory.\nOnly one has ever fallen by this blade on the battlefield.\nOne night, the bearer drew the sword triumphantly.\nThe night sky lit up as bright as day,\npin-pointing his precise location.\nArrows rained down upon him.",
+    "zh": "一把曾经耀若朝阳的宝剑，掌握它的人会获得「自我感觉良好」的力量加持。剑身上的发光材料已经褪去。\n\n### 故事\n这把剑拥有一个更响亮的全名：「斩开黎明指向胜利的拂晓神剑」。\n但在战场上，仅有一人因它倒下：是夜，他拔出宝剑高喊胜利之名，刹时漆黑的夜幕被映得明如白昼。\n因为闪亮，此公成了显眼的目标，如金属引雷般招来了如雨的箭矢。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

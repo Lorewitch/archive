@@ -1,0 +1,38 @@
+{
+  "id": "predator",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/predator.png",
+  "title": {
+    "ru": "Хищник",
+    "en": "Predator",
+    "zh": "掠食者"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "2.1",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Конструкция этого лука абсолютно уникальна, словно бы он не принадлежит этому миру.\n\n### История\nПринявший заказ кузнец спросил, почему у этого оружия такие конструкция и название.\nОн получил довольно загадочный ответ: «В моём мире много механических зверей, а копьё плохо слушается команд».\nКузнец понял, в чём дело. Этот лук - волшебное оружие для охоты на механических существ, а потому он по праву заслуживает звание высшего хищника того мира.\nНо странная девушка поправила:«Просто с помощью этого лука можно поохотиться и добыть мясо. Как раз сейчас я отправляюсь за лесным кабаном».",
+    "en": "A uniquely-designed bow. This should not belong in this world.\n\n### Story\nThe blacksmith who accepted the commission asked why this order had to be made this way and why it had to be named like this.\nThe answer was rather complicated: something about machine beasts that roamed all over the world, and something about polearms not having override codes.\nThe blacksmith understood quickly enough, though. So this bow was some powerful weapon used to hunt and kill these mighty machine creatures, and so it was the apex predator of that world.\nBut the strange girl corrected him.\nShe was just going to use this to hunt wild boars next, since it appeared that in this world, using bows and arrows to hunt would actually allow one to harvest Raw Meat.",
+    "zh": "设计风格相当独特的弓，应该不属于这个世界。\n\n### 故事\n接受委托的铁匠问过为什么要把这件订单做成这样，以及为什么要叫这个名字。\n得到的答复有点复杂：又是什么布满世界的机械野兽啊，又是什么长柄武器没有覆盖指令的。\n但是铁匠一下子就明白了。\n原来这把弓就是猎杀强大机械野兽的神兵利器，因此它就是那个世界的顶级掠食者。\n但是奇怪的少女纠正说不是。\n单纯是因为这个世界用弓箭狩猎，居然可以收获兽肉。\n她准备接下来就去抓林猪。"
+  },
+  "description": {
+    "ru": "Конструкция этого лука абсолютно уникальна, словно бы он не принадлежит этому миру.\n\n### История\nПринявший заказ кузнец спросил, почему у этого оружия такие конструкция и название.\nОн получил довольно загадочный ответ: «В моём мире много механических зверей, а копьё плохо слушается команд».\nКузнец понял, в чём дело. Этот лук - волшебное оружие для охоты на механических существ, а потому он по праву заслуживает звание высшего хищника того мира.\nНо странная девушка поправила:«Просто с помощью этого лука можно поохотиться и добыть мясо. Как раз сейчас я отправляюсь за лесным кабаном».",
+    "en": "A uniquely-designed bow. This should not belong in this world.\n\n### Story\nThe blacksmith who accepted the commission asked why this order had to be made this way and why it had to be named like this.\nThe answer was rather complicated: something about machine beasts that roamed all over the world, and something about polearms not having override codes.\nThe blacksmith understood quickly enough, though. So this bow was some powerful weapon used to hunt and kill these mighty machine creatures, and so it was the apex predator of that world.\nBut the strange girl corrected him.\nShe was just going to use this to hunt wild boars next, since it appeared that in this world, using bows and arrows to hunt would actually allow one to harvest Raw Meat.",
+    "zh": "设计风格相当独特的弓，应该不属于这个世界。\n\n### 故事\n接受委托的铁匠问过为什么要把这件订单做成这样，以及为什么要叫这个名字。\n得到的答复有点复杂：又是什么布满世界的机械野兽啊，又是什么长柄武器没有覆盖指令的。\n但是铁匠一下子就明白了。\n原来这把弓就是猎杀强大机械野兽的神兵利器，因此它就是那个世界的顶级掠食者。\n但是奇怪的少女纠正说不是。\n单纯是因为这个世界用弓箭狩猎，居然可以收获兽肉。\n她准备接下来就去抓林猪。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

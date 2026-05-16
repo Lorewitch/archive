@@ -1,0 +1,38 @@
+{
+  "id": "seasoned_hunters_bow",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/seasoned_hunters_bow.png",
+  "title": {
+    "ru": "Лук опытного охотника",
+    "en": "Seasoned Hunter's Bow",
+    "zh": "历练的猎弓"
+  },
+  "region": "",
+  "rarity": 2,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Ухоженный лук, полированный временем. Продолжение руки лучника.\n\n### История\nОхотник никогда не идёт за ветром и не ходит по вершинам холмов.\nИ неважно охотится ли он на зверя, монстра или человека.",
+    "en": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm.\n\n### Story\nA hunter must always be downwind, and must never walk upright on a mountain's ridge.\nIt matters not if their target is beast, monster or the wicked — this method remains the same.",
+    "zh": "饱经磨炼又精心护养的弓，经历了漫长的岁月。仿佛会主动配合射手的动作一般好使。\n\n### 故事\n猎手要永远处于下风处；避免直立行走在山脊上。无论狩猎的对象是野兽，是魔物或是恶人都一样。"
+  },
+  "description": {
+    "ru": "Ухоженный лук, полированный временем. Продолжение руки лучника.\n\n### История\nОхотник никогда не идёт за ветром и не ходит по вершинам холмов.\nИ неважно охотится ли он на зверя, монстра или человека.",
+    "en": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm.\n\n### Story\nA hunter must always be downwind, and must never walk upright on a mountain's ridge.\nIt matters not if their target is beast, monster or the wicked — this method remains the same.",
+    "zh": "饱经磨炼又精心护养的弓，经历了漫长的岁月。仿佛会主动配合射手的动作一般好使。\n\n### 故事\n猎手要永远处于下风处；避免直立行走在山脊上。无论狩猎的对象是野兽，是魔物或是恶人都一样。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hunters_bow",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/hunters_bow.png",
+  "title": {
+    "ru": "Лук охотника",
+    "en": "Hunter's Bow",
+    "zh": "猎弓"
+  },
+  "region": "",
+  "rarity": 1,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Музыка охотника состоит всего лишь из двух нот: натягивания тетивы и свиста спущенной стрелы.\n\n### История\nГоворят, раньше в Мондштадте был бродячий музыкант.\nОн то ли играл на тетиве лука, то ли пускал стрелы своей лютней.\nНо это всего лишь стародавнее предание.",
+    "en": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows.\n\n### Story\nLegend has it that Mondstadt once played host to one who made music on bowstrings—\nOr perhaps it might be more fitting to say that this wandering musician used an instrument's strings to fire arrows.\nBut this is naught but an old folk legend.",
+    "zh": "猎手演奏的音乐由两种音色组成。弓弦颤动的声音，和羽箭破空的低啸。\n\n### 故事\n传说过去在蒙德，曾经有利用弓弦奏乐，或者说利用乐器的琴弦放箭的流浪乐手。但那只不过是遥远古代的民间传说罢了。"
+  },
+  "description": {
+    "ru": "Музыка охотника состоит всего лишь из двух нот: натягивания тетивы и свиста спущенной стрелы.\n\n### История\nГоворят, раньше в Мондштадте был бродячий музыкант.\nОн то ли играл на тетиве лука, то ли пускал стрелы своей лютней.\nНо это всего лишь стародавнее предание.",
+    "en": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows.\n\n### Story\nLegend has it that Mondstadt once played host to one who made music on bowstrings—\nOr perhaps it might be more fitting to say that this wandering musician used an instrument's strings to fire arrows.\nBut this is naught but an old folk legend.",
+    "zh": "猎手演奏的音乐由两种音色组成。弓弦颤动的声音，和羽箭破空的低啸。\n\n### 故事\n传说过去在蒙德，曾经有利用弓弦奏乐，或者说利用乐器的琴弦放箭的流浪乐手。但那只不过是遥远古代的民间传说罢了。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

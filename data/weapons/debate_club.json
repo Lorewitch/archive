@@ -1,0 +1,38 @@
+{
+  "id": "debate_club",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/claymore/debate_club.png",
+  "title": {
+    "ru": "Дубина переговоров",
+    "en": "Debate Club",
+    "zh": "以理服人"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "двуручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Удобная дубина, сделанная из качественной стали. Фундамент «рационального убеждения».\n\n### История\nЭто - самый весомый аргумент в любом споре, всегда добавляет веса сказанному.\nНеважно, насколько сильно не желает внимать вам оппонент, дубина переговоров убедит любого, даже камень.\nНа любое ваше изречение ответят: «Золотые слова».\nВ конце концов, производство было остановлено из-за многочисленных протестов.\nЧто называется, голос толпы - страшная сила.",
+    "en": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.\n\n### Story\nA persuasive tool, sure to turn the tide of a heated argument in the wielder's favor. Guaranteed to add weight to one's words.\nUseful in any argument, no matter who the opponent, to convince them to listen to reason.\nIn short, people listen to pearls of wisdom.\nUltimately, production was forcibly ended due to mass protests.\nThe needs of the many outweigh the needs of the one.",
+    "zh": "精钢打造的趁手大铁棒子。最好的理论依据。\n\n### 故事\n在任何争辩中都是最可靠的理论根基，说起话来掷地有声。\n不论面对的是多么食古不化的对手，以理服人，金石为开。\n是谓之金石良言。\n最终在人们的抗议中，被勒令停止制造。\n是谓之众口铄金。"
+  },
+  "description": {
+    "ru": "Удобная дубина, сделанная из качественной стали. Фундамент «рационального убеждения».\n\n### История\nЭто - самый весомый аргумент в любом споре, всегда добавляет веса сказанному.\nНеважно, насколько сильно не желает внимать вам оппонент, дубина переговоров убедит любого, даже камень.\nНа любое ваше изречение ответят: «Золотые слова».\nВ конце концов, производство было остановлено из-за многочисленных протестов.\nЧто называется, голос толпы - страшная сила.",
+    "en": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.\n\n### Story\nA persuasive tool, sure to turn the tide of a heated argument in the wielder's favor. Guaranteed to add weight to one's words.\nUseful in any argument, no matter who the opponent, to convince them to listen to reason.\nIn short, people listen to pearls of wisdom.\nUltimately, production was forcibly ended due to mass protests.\nThe needs of the many outweigh the needs of the one.",
+    "zh": "精钢打造的趁手大铁棒子。最好的理论依据。\n\n### 故事\n在任何争辩中都是最可靠的理论根基，说起话来掷地有声。\n不论面对的是多么食古不化的对手，以理服人，金石为开。\n是谓之金石良言。\n最终在人们的抗议中，被勒令停止制造。\n是谓之众口铄金。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "claymore",
+  "type": "claymore"
+}

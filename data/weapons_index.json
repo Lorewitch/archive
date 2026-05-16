@@ -11,7 +11,7 @@
     "weapon_type": "bow",
     "type": "bow",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "6.5",
     "tags": [
       "лук",
       "линнея",
@@ -22,7 +22,4279 @@
       "en",
       "zh"
     ],
-    "search_text": "золотая клятва льда dawn's salutation returned 与君致意的黎明 bow 5 лук линнея аркадия"
+    "search_text": "золотая клятва льда dawn's salutation returned 与君致意的黎明 bow 5 6.5 лук линнея аркадия"
+  },
+  {
+    "id": "alley_hunter",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/alley_hunter.png",
+    "title": {
+      "ru": "Охотник во тьме",
+      "en": "Alley Hunter",
+      "zh": "暗巷猎手"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.4",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "охотник во тьме alley hunter 暗巷猎手 bow 4 1.4 оружие лук"
+  },
+  {
+    "id": "amos_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/amos_bow.png",
+    "title": {
+      "ru": "Лук Амоса",
+      "en": "Amos' Bow",
+      "zh": "阿莫斯之弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лук амоса amos' bow 阿莫斯之弓 bow 5 1.0 оружие лук"
+  },
+  {
+    "id": "aqua_simulacra",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/aqua_simulacra.png",
+    "title": {
+      "ru": "Аква симулякрум",
+      "en": "Aqua Simulacra",
+      "zh": "若水"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "2.7",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "аква симулякрум aqua simulacra 若水 bow 5 2.7 оружие лук"
+  },
+  {
+    "id": "astral_vultures_crimson_plumage",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/astral_vultures_crimson_plumage.png",
+    "title": {
+      "ru": "Алое перо звёздного грифа",
+      "en": "Astral Vulture's Crimson Plumage",
+      "zh": "星鹫赤羽"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "5.2",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "алое перо звёздного грифа astral vulture's crimson plumage 星鹫赤羽 bow 5 5.2 оружие лук"
+  },
+  {
+    "id": "blackcliff_warbow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/blackcliff_warbow.png",
+    "title": {
+      "ru": "Черногорский боевой лук",
+      "en": "Blackcliff Warbow",
+      "zh": "黑岩战弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "черногорский боевой лук blackcliff warbow 黑岩战弓 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "chain_breaker",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/chain_breaker.png",
+    "title": {
+      "ru": "Разбивающий цепи",
+      "en": "Chain Breaker",
+      "zh": "碎链"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "разбивающий цепи chain breaker 碎链 bow 4 5.0 оружие лук"
+  },
+  {
+    "id": "cloudforged",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/cloudforged.png",
+    "title": {
+      "ru": "Выкованный из облаков",
+      "en": "Cloudforged",
+      "zh": "筑云"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "4.7",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "выкованный из облаков cloudforged 筑云 bow 4 4.7 оружие лук"
+  },
+  {
+    "id": "compound_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/compound_bow.png",
+    "title": {
+      "ru": "Составной лук",
+      "en": "Compound Bow",
+      "zh": "钢轮弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "составной лук compound bow 钢轮弓 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "elegy_for_the_end",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/elegy_for_the_end.png",
+    "title": {
+      "ru": "Элегия погибели",
+      "en": "Elegy for the End",
+      "zh": "终末嗟叹之诗"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "1.4",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "элегия погибели elegy for the end 终末嗟叹之诗 bow 5 1.4 оружие лук"
+  },
+  {
+    "id": "end_of_the_line",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/end_of_the_line.png",
+    "title": {
+      "ru": "Иссушитель",
+      "en": "End of the Line",
+      "zh": "竭泽"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "3.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "иссушитель end of the line 竭泽 bow 4 3.0 оружие лук"
+  },
+  {
+    "id": "fading_twilight",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/fading_twilight.png",
+    "title": {
+      "ru": "Гаснущие сумерки",
+      "en": "Fading Twilight",
+      "zh": "落霞"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "2.7",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "гаснущие сумерки fading twilight 落霞 bow 4 2.7 оружие лук"
+  },
+  {
+    "id": "favonius_warbow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/favonius_warbow.png",
+    "title": {
+      "ru": "Боевой лук Фавония",
+      "en": "Favonius Warbow",
+      "zh": "西风猎弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "боевой лук фавония favonius warbow 西风猎弓 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "flower_wreathed_feathers",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/flower_wreathed_feathers.png",
+    "title": {
+      "ru": "Украшенные цветами перья",
+      "en": "Flower-Wreathed Feathers",
+      "zh": "缀花之翎"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "5.2",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "украшенные цветами перья flower-wreathed feathers 缀花之翎 bow 4 5.2 оружие лук"
+  },
+  {
+    "id": "hamayumi",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/hamayumi.png",
+    "title": {
+      "ru": "Хамаюми",
+      "en": "Hamayumi",
+      "zh": "破魔之弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "2.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "хамаюми hamayumi 破魔之弓 bow 4 2.0 оружие лук"
+  },
+  {
+    "id": "hunters_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/hunters_bow.png",
+    "title": {
+      "ru": "Лук охотника",
+      "en": "Hunter's Bow",
+      "zh": "猎弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 1,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лук охотника hunter's bow 猎弓 bow 1 1.0 оружие лук"
+  },
+  {
+    "id": "hunters_path",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/hunters_path.png",
+    "title": {
+      "ru": "Охотничья тропа",
+      "en": "Hunter's Path",
+      "zh": "猎人之径"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "3.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "охотничья тропа hunter's path 猎人之径 bow 5 3.0 оружие лук"
+  },
+  {
+    "id": "ibis_piercer",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/ibis_piercer.png",
+    "title": {
+      "ru": "Клюв ибиса",
+      "en": "Ibis Piercer",
+      "zh": "鹮穿之喙"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "3.7",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "клюв ибиса ibis piercer 鹮穿之喙 bow 4 3.7 оружие лук"
+  },
+  {
+    "id": "kings_squire",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/kings_squire.png",
+    "title": {
+      "ru": "Приближённый короля",
+      "en": "King's Squire",
+      "zh": "王下近侍"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "3.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "приближённый короля king's squire 王下近侍 bow 4 3.0 оружие лук"
+  },
+  {
+    "id": "messenger",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/messenger.png",
+    "title": {
+      "ru": "Посыльный",
+      "en": "Messenger",
+      "zh": "信使"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "посыльный messenger 信使 bow 3 1.0 оружие лук"
+  },
+  {
+    "id": "mitternachts_waltz",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/mitternachts_waltz.png",
+    "title": {
+      "ru": "Вальс Нирваны Ночи",
+      "en": "Mitternachts Waltz",
+      "zh": "幽夜华尔兹"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.6",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вальс нирваны ночи mitternachts waltz 幽夜华尔兹 bow 4 1.6 оружие лук"
+  },
+  {
+    "id": "mouuns_moon",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/mouuns_moon.png",
+    "title": {
+      "ru": "Луна Моун",
+      "en": "Mouun's Moon",
+      "zh": "曚云之月"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "2.2",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "луна моун mouun's moon 曚云之月 bow 4 2.2 оружие лук"
+  },
+  {
+    "id": "polar_star",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/polar_star.png",
+    "title": {
+      "ru": "Полярная звезда",
+      "en": "Polar Star",
+      "zh": "冬极白星"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "2.2",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "полярная звезда polar star 冬极白星 bow 5 2.2 оружие лук"
+  },
+  {
+    "id": "predator",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/predator.png",
+    "title": {
+      "ru": "Хищник",
+      "en": "Predator",
+      "zh": "掠食者"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "2.1",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "хищник predator 掠食者 bow 4 2.1 оружие лук"
+  },
+  {
+    "id": "prototype_crescent",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/prototype_crescent.png",
+    "title": {
+      "ru": "Прототип: Полумесяц",
+      "en": "Prototype Crescent",
+      "zh": "试作澹月"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "прототип: полумесяц prototype crescent 试作澹月 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "rainbow_serpents_rain_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/rainbow_serpents_rain_bow.png",
+    "title": {
+      "ru": "Струны дождя радужного змея",
+      "en": "Rainbow Serpent's Rain Bow",
+      "zh": "虹蛇的雨弦"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "6.2",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "струны дождя радужного змея rainbow serpent's rain bow 虹蛇的雨弦 bow 4 6.2 оружие лук"
+  },
+  {
+    "id": "range_gauge",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/range_gauge.png",
+    "title": {
+      "ru": "Дальномер",
+      "en": "Range Gauge",
+      "zh": "测距规"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "4.1",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "дальномер range gauge 测距规 bow 4 4.1 оружие лук"
+  },
+  {
+    "id": "raven_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/raven_bow.png",
+    "title": {
+      "ru": "Лук ворона",
+      "en": "Raven Bow",
+      "zh": "鸦羽弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лук ворона raven bow 鸦羽弓 bow 3 1.0 оружие лук"
+  },
+  {
+    "id": "recurve_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/recurve_bow.png",
+    "title": {
+      "ru": "Изогнутый лук",
+      "en": "Recurve Bow",
+      "zh": "反曲弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "изогнутый лук recurve bow 反曲弓 bow 3 1.0 оружие лук"
+  },
+  {
+    "id": "royal_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/royal_bow.png",
+    "title": {
+      "ru": "Королевский лук",
+      "en": "Royal Bow",
+      "zh": "宗室长弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "королевский лук royal bow 宗室长弓 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "rust",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/rust.png",
+    "title": {
+      "ru": "Ржавый лук",
+      "en": "Rust",
+      "zh": "弓藏"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ржавый лук rust 弓藏 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "sacrificial_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/sacrificial_bow.png",
+    "title": {
+      "ru": "Церемониальный лук",
+      "en": "Sacrificial Bow",
+      "zh": "祭礼弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "церемониальный лук sacrificial bow 祭礼弓 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "scion_of_the_blazing_sun",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/scion_of_the_blazing_sun.png",
+    "title": {
+      "ru": "Наследник слепящего солнца",
+      "en": "Scion of the Blazing Sun",
+      "zh": "烈阳之嗣"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "наследник слепящего солнца scion of the blazing sun 烈阳之嗣 bow 4 4.0 оружие лук"
+  },
+  {
+    "id": "seasoned_hunters_bow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/seasoned_hunters_bow.png",
+    "title": {
+      "ru": "Лук опытного охотника",
+      "en": "Seasoned Hunter's Bow",
+      "zh": "历练的猎弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 2,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лук опытного охотника seasoned hunter's bow 历练的猎弓 bow 2 1.0 оружие лук"
+  },
+  {
+    "id": "sequence_of_solitude",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/sequence_of_solitude.png",
+    "title": {
+      "ru": "Каденция одиночества",
+      "en": "Sequence of Solitude",
+      "zh": "冷寂迸音"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "5.6",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "каденция одиночества sequence of solitude 冷寂迸音 bow 4 5.6 оружие лук"
+  },
+  {
+    "id": "sharpshooters_oath",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/sharpshooters_oath.png",
+    "title": {
+      "ru": "Клятва стрелка",
+      "en": "Sharpshooter's Oath",
+      "zh": "神射手之誓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "клятва стрелка sharpshooter's oath 神射手之誓 bow 3 1.0 оружие лук"
+  },
+  {
+    "id": "silvershower_heartstrings",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/silvershower_heartstrings.png",
+    "title": {
+      "ru": "Сердечные струны дождя",
+      "en": "Silvershower Heartstrings",
+      "zh": "白雨心弦"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "4.7",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сердечные струны дождя silvershower heartstrings 白雨心弦 bow 5 4.7 оружие лук"
+  },
+  {
+    "id": "skyward_harp",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/skyward_harp.png",
+    "title": {
+      "ru": "Небесное крыло",
+      "en": "Skyward Harp",
+      "zh": "天空之翼"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "небесное крыло skyward harp 天空之翼 bow 5 1.0 оружие лук"
+  },
+  {
+    "id": "slingshot",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/slingshot.png",
+    "title": {
+      "ru": "Рогатка",
+      "en": "Slingshot",
+      "zh": "弹弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "рогатка slingshot 弹弓 bow 3 1.0 оружие лук"
+  },
+  {
+    "id": "snare_hook",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/snare_hook.png",
+    "title": {
+      "ru": "Крюк силка",
+      "en": "Snare Hook",
+      "zh": "罗网勾针"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "крюк силка snare hook 罗网勾针 bow 4 6.0 оружие лук"
+  },
+  {
+    "id": "song_of_stillness",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/song_of_stillness.png",
+    "title": {
+      "ru": "Мелодия покоя",
+      "en": "Song of Stillness",
+      "zh": "静谧之曲"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "мелодия покоя song of stillness 静谧之曲 bow 4 4.0 оружие лук"
+  },
+  {
+    "id": "the_daybreak_chronicles",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/the_daybreak_chronicles.png",
+    "title": {
+      "ru": "Хроники рассвета",
+      "en": "The Daybreak Chronicles",
+      "zh": "黎明破晓之史"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "6.2",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "хроники рассвета the daybreak chronicles 黎明破晓之史 bow 5 6.2 оружие лук"
+  },
+  {
+    "id": "the_first_great_magic",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/the_first_great_magic.png",
+    "title": {
+      "ru": "Первый великий фокус",
+      "en": "The First Great Magic",
+      "zh": "最初的大魔术"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "первый великий фокус the first great magic 最初的大魔术 bow 5 4.0 оружие лук"
+  },
+  {
+    "id": "the_stringless",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/the_stringless.png",
+    "title": {
+      "ru": "Бесструнный",
+      "en": "The Stringless",
+      "zh": "绝弦"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "бесструнный the stringless 绝弦 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "the_viridescent_hunt",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/the_viridescent_hunt.png",
+    "title": {
+      "ru": "Зелёный лук",
+      "en": "The Viridescent Hunt",
+      "zh": "苍翠猎弓"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "зелёный лук the viridescent hunt 苍翠猎弓 bow 4 1.0 оружие лук"
+  },
+  {
+    "id": "thundering_pulse",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/thundering_pulse.png",
+    "title": {
+      "ru": "Громовой пульс",
+      "en": "Thundering Pulse",
+      "zh": "飞雷之弦振"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 5,
+    "game_version": "2.0",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "громовой пульс thundering pulse 飞雷之弦振 bow 5 2.0 оружие лук"
+  },
+  {
+    "id": "windblume_ode",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/bow/windblume_ode.png",
+    "title": {
+      "ru": "Ода анемонии",
+      "en": "Windblume Ode",
+      "zh": "风花之颂"
+    },
+    "weapon_type": "bow",
+    "type": "bow",
+    "rarity": 4,
+    "game_version": "1.4",
+    "tags": [
+      "оружие",
+      "лук"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "ода анемонии windblume ode 风花之颂 bow 4 1.4 оружие лук"
+  },
+  {
+    "id": "a_thousand_floating_dreams",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/a_thousand_floating_dreams.png",
+    "title": {
+      "ru": "Сновидения тысячи ночей",
+      "en": "A Thousand Floating Dreams",
+      "zh": "千夜浮梦"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "3.2",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сновидения тысячи ночей a thousand floating dreams 千夜浮梦 catalyst 5 3.2 оружие катализатор"
+  },
+  {
+    "id": "apprentices_notes",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/apprentices_notes.png",
+    "title": {
+      "ru": "Записи ученика",
+      "en": "Apprentice's Notes",
+      "zh": "学徒笔记"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 1,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "записи ученика apprentice's notes 学徒笔记 catalyst 1 1.0 оружие катализатор"
+  },
+  {
+    "id": "ash_graven_drinking_horn",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/ash_graven_drinking_horn.png",
+    "title": {
+      "ru": "Пепельный рог",
+      "en": "Ash-Graven Drinking Horn",
+      "zh": "苍纹角杯"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "пепельный рог ash-graven drinking horn 苍纹角杯 catalyst 4 5.0 оружие катализатор"
+  },
+  {
+    "id": "ballad_of_the_boundless_blue",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/ballad_of_the_boundless_blue.png",
+    "title": {
+      "ru": "Песнь необъятной лазури",
+      "en": "Ballad of the Boundless Blue",
+      "zh": "无垠蔚蓝之歌"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "4.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "песнь необъятной лазури ballad of the boundless blue 无垠蔚蓝之歌 catalyst 4 4.1 оружие катализатор"
+  },
+  {
+    "id": "blackcliff_agate",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/blackcliff_agate.png",
+    "title": {
+      "ru": "Черногорский агат",
+      "en": "Blackcliff Agate",
+      "zh": "黑岩绯玉"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "черногорский агат blackcliff agate 黑岩绯玉 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "blackmarrow_lantern",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/blackmarrow_lantern.png",
+    "title": {
+      "ru": "Фонарь чёрной сердцевины",
+      "en": "Blackmarrow Lantern",
+      "zh": "乌髓孑灯"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "фонарь чёрной сердцевины blackmarrow lantern 乌髓孑灯 catalyst 4 6.0 оружие катализатор"
+  },
+  {
+    "id": "cashflow_supervision",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/cashflow_supervision.png",
+    "title": {
+      "ru": "Казначейский надзор",
+      "en": "Cashflow Supervision",
+      "zh": "金流监督"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "4.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "казначейский надзор cashflow supervision 金流监督 catalyst 5 4.1 оружие катализатор"
+  },
+  {
+    "id": "cranes_echoing_call",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/cranes_echoing_call.png",
+    "title": {
+      "ru": "Звонкий клич журавля",
+      "en": "Crane's Echoing Call",
+      "zh": "鹤鸣余音"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "4.4",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "звонкий клич журавля crane's echoing call 鹤鸣余音 catalyst 5 4.4 оружие катализатор"
+  },
+  {
+    "id": "dawning_frost",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/dawning_frost.png",
+    "title": {
+      "ru": "Рассветный иней",
+      "en": "Dawning Frost",
+      "zh": "霜辰"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "6.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "рассветный иней dawning frost 霜辰 catalyst 4 6.1 оружие катализатор"
+  },
+  {
+    "id": "dodoco_tales",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/dodoco_tales.png",
+    "title": {
+      "ru": "Истории Додоко",
+      "en": "Dodoco Tales",
+      "zh": "嘟嘟可故事集"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.6",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "истории додоко dodoco tales 嘟嘟可故事集 catalyst 4 1.6 оружие катализатор"
+  },
+  {
+    "id": "emerald_orb",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/emerald_orb.png",
+    "title": {
+      "ru": "Изумрудный шар",
+      "en": "Emerald Orb",
+      "zh": "翡玉法球"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "изумрудный шар emerald orb 翡玉法球 catalyst 3 1.0 оружие катализатор"
+  },
+  {
+    "id": "etherlight_spindlelute",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/etherlight_spindlelute.png",
+    "title": {
+      "ru": "Лютня ткача света",
+      "en": "Etherlight Spindlelute",
+      "zh": "天光的纺琴"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лютня ткача света etherlight spindlelute 天光的纺琴 catalyst 4 6.0 оружие катализатор"
+  },
+  {
+    "id": "everlasting_moonglow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/everlasting_moonglow.png",
+    "title": {
+      "ru": "Вечное лунное сияние",
+      "en": "Everlasting Moonglow",
+      "zh": "不灭月华"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "2.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вечное лунное сияние everlasting moonglow 不灭月华 catalyst 5 2.1 оружие катализатор"
+  },
+  {
+    "id": "eye_of_perception",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/eye_of_perception.png",
+    "title": {
+      "ru": "Око сознания",
+      "en": "Eye of Perception",
+      "zh": "昭心"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "око сознания eye of perception 昭心 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "favonius_codex",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/favonius_codex.png",
+    "title": {
+      "ru": "Кодекс Фавония",
+      "en": "Favonius Codex",
+      "zh": "西风秘典"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "кодекс фавония favonius codex 西风秘典 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "flowing_purity",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/flowing_purity.png",
+    "title": {
+      "ru": "Сверкание чистых вод",
+      "en": "Flowing Purity",
+      "zh": "纯水流华"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сверкание чистых вод flowing purity 纯水流华 catalyst 4 4.0 оружие катализатор"
+  },
+  {
+    "id": "frostbearer",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/frostbearer.png",
+    "title": {
+      "ru": "Плод вечной мерзлоты",
+      "en": "Frostbearer",
+      "zh": "忍冬之果"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.2",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "плод вечной мерзлоты frostbearer 忍冬之果 catalyst 4 1.2 оружие катализатор"
+  },
+  {
+    "id": "fruit_of_fulfillment",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/fruit_of_fulfillment.png",
+    "title": {
+      "ru": "Плод восполнения",
+      "en": "Fruit of Fulfillment",
+      "zh": "盈满之实"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "3.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "плод восполнения fruit of fulfillment 盈满之实 catalyst 4 3.0 оружие катализатор"
+  },
+  {
+    "id": "hakushin_ring",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/hakushin_ring.png",
+    "title": {
+      "ru": "Кольцо Хакусин",
+      "en": "Hakushin Ring",
+      "zh": "白辰之环"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "2.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "кольцо хакусин hakushin ring 白辰之环 catalyst 4 2.0 оружие катализатор"
+  },
+  {
+    "id": "jadefalls_splendor",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/jadefalls_splendor.png",
+    "title": {
+      "ru": "Великолепие лазурного свода",
+      "en": "Jadefall's Splendor",
+      "zh": "碧落之珑"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "3.6",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "великолепие лазурного свода jadefall's splendor 碧落之珑 catalyst 5 3.6 оружие катализатор"
+  },
+  {
+    "id": "kaguras_verity",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/kaguras_verity.png",
+    "title": {
+      "ru": "Истина кагура",
+      "en": "Kagura's Verity",
+      "zh": "神乐之真意"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "2.5",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "истина кагура kagura's verity 神乐之真意 catalyst 5 2.5 оружие катализатор"
+  },
+  {
+    "id": "lost_prayer_to_the_sacred_winds",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/lost_prayer_to_the_sacred_winds.png",
+    "title": {
+      "ru": "Молитва святым ветрам",
+      "en": "Lost Prayer to the Sacred Winds",
+      "zh": "四风原典"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "молитва святым ветрам lost prayer to the sacred winds 四风原典 catalyst 5 1.0 оружие катализатор"
+  },
+  {
+    "id": "magic_guide",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/magic_guide.png",
+    "title": {
+      "ru": "Руководство по магии",
+      "en": "Magic Guide",
+      "zh": "魔导绪论"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "руководство по магии magic guide 魔导绪论 catalyst 3 1.0 оружие катализатор"
+  },
+  {
+    "id": "mappa_mare",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/mappa_mare.png",
+    "title": {
+      "ru": "Морской атлас",
+      "en": "Mappa Mare",
+      "zh": "万国诸海图谱"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "морской атлас mappa mare 万国诸海图谱 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "memory_of_dust",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/memory_of_dust.png",
+    "title": {
+      "ru": "Память о пыли",
+      "en": "Memory of Dust",
+      "zh": "尘世之锁"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "1.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "память о пыли memory of dust 尘世之锁 catalyst 5 1.1 оружие катализатор"
+  },
+  {
+    "id": "nightweavers_looking_glass",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/nightweavers_looking_glass.png",
+    "title": {
+      "ru": "Зеркало прядильщицы ночи",
+      "en": "Nightweaver's Looking Glass",
+      "zh": "纺夜天镜"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "зеркало прядильщицы ночи nightweaver's looking glass 纺夜天镜 catalyst 5 6.0 оружие катализатор"
+  },
+  {
+    "id": "nocturnes_curtain_call",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/nocturnes_curtain_call.png",
+    "title": {
+      "ru": "Вызов ноктюрна",
+      "en": "Nocturne's Curtain Call",
+      "zh": "帷间夜曲"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "6.3",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вызов ноктюрна nocturne's curtain call 帷间夜曲 catalyst 5 6.3 оружие катализатор"
+  },
+  {
+    "id": "oathsworn_eye",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/oathsworn_eye.png",
+    "title": {
+      "ru": "Око клятвы",
+      "en": "Oathsworn Eye",
+      "zh": "证誓之明瞳"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "2.5",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "око клятвы oathsworn eye 证誓之明瞳 catalyst 4 2.5 оружие катализатор"
+  },
+  {
+    "id": "otherworldly_story",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/otherworldly_story.png",
+    "title": {
+      "ru": "Потусторонняя история",
+      "en": "Otherworldly Story",
+      "zh": "异世界行记"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "потусторонняя история otherworldly story 异世界行记 catalyst 3 1.0 оружие катализатор"
+  },
+  {
+    "id": "pocket_grimoire",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/pocket_grimoire.png",
+    "title": {
+      "ru": "Карманный гримуар",
+      "en": "Pocket Grimoire",
+      "zh": "口袋魔导书"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 2,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "карманный гримуар pocket grimoire 口袋魔导书 catalyst 2 1.0 оружие катализатор"
+  },
+  {
+    "id": "prototype_amber",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/prototype_amber.png",
+    "title": {
+      "ru": "Прототип: Янтарь",
+      "en": "Prototype Amber",
+      "zh": "试作金珀"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "прототип: янтарь prototype amber 试作金珀 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "reliquary_of_truth",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/reliquary_of_truth.png",
+    "title": {
+      "ru": "Шкатулка истин",
+      "en": "Reliquary of Truth",
+      "zh": "真语秘匣"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "6.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "шкатулка истин reliquary of truth 真语秘匣 catalyst 5 6.1 оружие катализатор"
+  },
+  {
+    "id": "ring_of_yaxche",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/ring_of_yaxche.png",
+    "title": {
+      "ru": "Кольцо Яшче",
+      "en": "Ring of Yaxche",
+      "zh": "木棉之环"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "кольцо яшче ring of yaxche 木棉之环 catalyst 4 5.0 оружие катализатор"
+  },
+  {
+    "id": "royal_grimoire",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/royal_grimoire.png",
+    "title": {
+      "ru": "Королевский гримуар",
+      "en": "Royal Grimoire",
+      "zh": "宗室秘法录"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "королевский гримуар royal grimoire 宗室秘法录 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "sacrificial_fragments",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/sacrificial_fragments.png",
+    "title": {
+      "ru": "Церемониальные мемуары",
+      "en": "Sacrificial Fragments",
+      "zh": "祭礼残章"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "церемониальные мемуары sacrificial fragments 祭礼残章 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "sacrificial_jade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/sacrificial_jade.png",
+    "title": {
+      "ru": "Жертвенный нефрит",
+      "en": "Sacrificial Jade",
+      "zh": "遗祀玉珑"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "жертвенный нефрит sacrificial jade 遗祀玉珑 catalyst 4 4.0 оружие катализатор"
+  },
+  {
+    "id": "skyward_atlas",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/skyward_atlas.png",
+    "title": {
+      "ru": "Небесный атлас",
+      "en": "Skyward Atlas",
+      "zh": "天空之卷"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "небесный атлас skyward atlas 天空之卷 catalyst 5 1.0 оружие катализатор"
+  },
+  {
+    "id": "solar_pearl",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/solar_pearl.png",
+    "title": {
+      "ru": "Солнечная жемчужина",
+      "en": "Solar Pearl",
+      "zh": "匣里日月"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "солнечная жемчужина solar pearl 匣里日月 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "starcallers_watch",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/starcallers_watch.png",
+    "title": {
+      "ru": "Бдение взывающего к звёздам",
+      "en": "Starcaller's Watch",
+      "zh": "祭星者之望"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "5.3",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "бдение взывающего к звёздам starcaller's watch 祭星者之望 catalyst 5 5.3 оружие катализатор"
+  },
+  {
+    "id": "sunny_morning_sleep_in",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/sunny_morning_sleep_in.png",
+    "title": {
+      "ru": "Сон солнечным утром",
+      "en": "Sunny Morning Sleep-In",
+      "zh": "寝正月初晴"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "5.4",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сон солнечным утром sunny morning sleep-in 寝正月初晴 catalyst 5 5.4 оружие катализатор"
+  },
+  {
+    "id": "surfs_up",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/surfs_up.png",
+    "title": {
+      "ru": "Лови волну",
+      "en": "Surf's Up",
+      "zh": "冲浪时光"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лови волну surf's up 冲浪时光 catalyst 5 5.0 оружие катализатор"
+  },
+  {
+    "id": "the_widsith",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/the_widsith.png",
+    "title": {
+      "ru": "Песнь странника",
+      "en": "The Widsith",
+      "zh": "流浪乐章"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "песнь странника the widsith 流浪乐章 catalyst 4 1.0 оружие катализатор"
+  },
+  {
+    "id": "thrilling_tales_of_dragon_slayers",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/thrilling_tales_of_dragon_slayers.png",
+    "title": {
+      "ru": "Эпос о драконоборцах",
+      "en": "Thrilling Tales of Dragon Slayers",
+      "zh": "讨龙英杰谭"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "эпос о драконоборцах thrilling tales of dragon slayers 讨龙英杰谭 catalyst 3 1.0 оружие катализатор"
+  },
+  {
+    "id": "tome_of_the_eternal_flow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/tome_of_the_eternal_flow.png",
+    "title": {
+      "ru": "Обряд вечного течения",
+      "en": "Tome of the Eternal Flow",
+      "zh": "万世流涌大典"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "4.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "обряд вечного течения tome of the eternal flow 万世流涌大典 catalyst 5 4.1 оружие катализатор"
+  },
+  {
+    "id": "tulaytullahs_remembrance",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/tulaytullahs_remembrance.png",
+    "title": {
+      "ru": "Воспоминания Тулайтуллы",
+      "en": "Tulaytullah's Remembrance",
+      "zh": "图莱杜拉的回忆"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "3.3",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "воспоминания тулайтуллы tulaytullah's remembrance 图莱杜拉的回忆 catalyst 5 3.3 оружие катализатор"
+  },
+  {
+    "id": "twin_nephrite",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/twin_nephrite.png",
+    "title": {
+      "ru": "Парный нефрит",
+      "en": "Twin Nephrite",
+      "zh": "甲级宝珏"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "парный нефрит twin nephrite 甲级宝珏 catalyst 3 1.0 оружие катализатор"
+  },
+  {
+    "id": "vivid_notions",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/vivid_notions.png",
+    "title": {
+      "ru": "Переливающиеся чаяния",
+      "en": "Vivid Notions",
+      "zh": "溢彩心念"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "5.5",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "переливающиеся чаяния vivid notions 溢彩心念 catalyst 5 5.5 оружие катализатор"
+  },
+  {
+    "id": "wandering_evenstar",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/wandering_evenstar.png",
+    "title": {
+      "ru": "Скитающаяся звезда",
+      "en": "Wandering Evenstar",
+      "zh": "流浪的晚星"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "3.1",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "скитающаяся звезда wandering evenstar 流浪的晚星 catalyst 4 3.1 оружие катализатор"
+  },
+  {
+    "id": "waveriding_whirl",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/waveriding_whirl.png",
+    "title": {
+      "ru": "Вихрь на волнах",
+      "en": "Waveriding Whirl",
+      "zh": "乘浪的回旋"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "5.2",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вихрь на волнах waveriding whirl 乘浪的回旋 catalyst 4 5.2 оружие катализатор"
+  },
+  {
+    "id": "wine_and_song",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/wine_and_song.png",
+    "title": {
+      "ru": "Вино и песни",
+      "en": "Wine and Song",
+      "zh": "暗巷的酒与诗"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 4,
+    "game_version": "1.4",
+    "tags": [
+      "оружие",
+      "катализатор"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вино и песни wine and song 暗巷的酒与诗 catalyst 4 1.4 оружие катализатор"
+  },
+  {
+    "id": "a_thousand_blazing_suns",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/a_thousand_blazing_suns.png",
+    "title": {
+      "ru": "Тысяча ослепительных солнц",
+      "en": "A Thousand Blazing Suns",
+      "zh": "焚曜千阳"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "5.3",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "тысяча ослепительных солнц a thousand blazing suns 焚曜千阳 claymore 5 5.3 оружие двуручное"
+  },
+  {
+    "id": "akuoumaru",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/akuoumaru.png",
+    "title": {
+      "ru": "Акуомару",
+      "en": "Akuoumaru",
+      "zh": "恶王丸"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "2.2",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "акуомару akuoumaru 恶王丸 claymore 4 2.2 оружие двуручное"
+  },
+  {
+    "id": "beacon_of_the_reed_sea",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/beacon_of_the_reed_sea.png",
+    "title": {
+      "ru": "Маяк тростникового моря",
+      "en": "Beacon of the Reed Sea",
+      "zh": "苇海信标"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "3.5",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "маяк тростникового моря beacon of the reed sea 苇海信标 claymore 5 3.5 оружие двуручное"
+  },
+  {
+    "id": "blackcliff_slasher",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/blackcliff_slasher.png",
+    "title": {
+      "ru": "Черногорская бритва",
+      "en": "Blackcliff Slasher",
+      "zh": "黑岩斩刀"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "черногорская бритва blackcliff slasher 黑岩斩刀 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "bloodtainted_greatsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/bloodtainted_greatsword.png",
+    "title": {
+      "ru": "Меч драконьей крови",
+      "en": "Bloodtainted Greatsword",
+      "zh": "沐浴龙血的剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч драконьей крови bloodtainted greatsword 沐浴龙血的剑 claymore 3 1.0 оружие двуручное"
+  },
+  {
+    "id": "debate_club",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/debate_club.png",
+    "title": {
+      "ru": "Дубина переговоров",
+      "en": "Debate Club",
+      "zh": "以理服人"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "дубина переговоров debate club 以理服人 claymore 3 1.0 оружие двуручное"
+  },
+  {
+    "id": "earth_shaker",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/earth_shaker.png",
+    "title": {
+      "ru": "Сотрясающий землю",
+      "en": "Earth Shaker",
+      "zh": "撼地者"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сотрясающий землю earth shaker 撼地者 claymore 4 5.0 оружие двуручное"
+  },
+  {
+    "id": "fang_of_the_mountain_king",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/fang_of_the_mountain_king.png",
+    "title": {
+      "ru": "Клык Горного короля",
+      "en": "Fang of the Mountain King",
+      "zh": "山王长牙"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "клык горного короля fang of the mountain king 山王长牙 claymore 5 5.0 оружие двуручное"
+  },
+  {
+    "id": "favonius_greatsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/favonius_greatsword.png",
+    "title": {
+      "ru": "Двуручный меч Фавония",
+      "en": "Favonius Greatsword",
+      "zh": "西风大剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "двуручный меч фавония favonius greatsword 西风大剑 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "ferrous_shadow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/ferrous_shadow.png",
+    "title": {
+      "ru": "Металлическая тень",
+      "en": "Ferrous Shadow",
+      "zh": "铁影阔剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "металлическая тень ferrous shadow 铁影阔剑 claymore 3 1.0 оружие двуручное"
+  },
+  {
+    "id": "flame_forged_insight",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/flame_forged_insight.png",
+    "title": {
+      "ru": "Выкованное пламенем озарение",
+      "en": "Flame-Forged Insight",
+      "zh": "拾慧铸熔"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "5.8",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "выкованное пламенем озарение flame-forged insight 拾慧铸熔 claymore 4 5.8 оружие двуручное"
+  },
+  {
+    "id": "forest_regalia",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/forest_regalia.png",
+    "title": {
+      "ru": "Регалия леса",
+      "en": "Forest Regalia",
+      "zh": "森林王器"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "3.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "регалия леса forest regalia 森林王器 claymore 4 3.0 оружие двуручное"
+  },
+  {
+    "id": "fruitful_hook",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/fruitful_hook.png",
+    "title": {
+      "ru": "Плодотворный крюк",
+      "en": "Fruitful Hook",
+      "zh": "硕果钩"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "5.1",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "плодотворный крюк fruitful hook 硕果钩 claymore 4 5.1 оружие двуручное"
+  },
+  {
+    "id": "gest_of_the_mighty_wolf",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/gest_of_the_mighty_wolf.png",
+    "title": {
+      "ru": "Подвиг могучего волка",
+      "en": "Gest of the Mighty Wolf",
+      "zh": "狼的武功歌"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "6.4",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "подвиг могучего волка gest of the mighty wolf 狼的武功歌 claymore 5 6.4 оружие двуручное"
+  },
+  {
+    "id": "katsuragikiri_nagamasa",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/katsuragikiri_nagamasa.png",
+    "title": {
+      "ru": "Кацурагикири Нагамаса",
+      "en": "Katsuragikiri Nagamasa",
+      "zh": "桂木斩长正"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "2.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "кацурагикири нагамаса katsuragikiri nagamasa 桂木斩长正 claymore 4 2.0 оружие двуручное"
+  },
+  {
+    "id": "lithic_blade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/lithic_blade.png",
+    "title": {
+      "ru": "Каменный меч",
+      "en": "Lithic Blade",
+      "zh": "千岩古剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.3",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "каменный меч lithic blade 千岩古剑 claymore 4 1.3 оружие двуручное"
+  },
+  {
+    "id": "luxurious_sea_lord",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/luxurious_sea_lord.png",
+    "title": {
+      "ru": "Благодатный владыка вод",
+      "en": "Luxurious Sea-Lord",
+      "zh": "衔珠海皇"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "2.1",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "благодатный владыка вод luxurious sea-lord 衔珠海皇 claymore 4 2.1 оружие двуручное"
+  },
+  {
+    "id": "mailed_flower",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/mailed_flower.png",
+    "title": {
+      "ru": "Цветок в латах",
+      "en": "Mailed Flower",
+      "zh": "饰铁之花"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "3.5",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "цветок в латах mailed flower 饰铁之花 claymore 4 3.5 оружие двуручное"
+  },
+  {
+    "id": "makhaira_aquamarine",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/makhaira_aquamarine.png",
+    "title": {
+      "ru": "Аквамарин Махайры",
+      "en": "Makhaira Aquamarine",
+      "zh": "玛海菈的水色"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "3.1",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "аквамарин махайры makhaira aquamarine 玛海菈的水色 claymore 4 3.1 оружие двуручное"
+  },
+  {
+    "id": "master_key",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/master_key.png",
+    "title": {
+      "ru": "Мастер-ключ",
+      "en": "Master Key",
+      "zh": "万能钥匙"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "мастер-ключ master key 万能钥匙 claymore 4 6.0 оружие двуручное"
+  },
+  {
+    "id": "old_mercs_pal",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/old_mercs_pal.png",
+    "title": {
+      "ru": "Лучший друг наёмника",
+      "en": "Old Merc's Pal",
+      "zh": "佣兵重剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 2,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лучший друг наёмника old merc's pal 佣兵重剑 claymore 2 1.0 оружие двуручное"
+  },
+  {
+    "id": "portable_power_saw",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/portable_power_saw.png",
+    "title": {
+      "ru": "Переносная мотопила",
+      "en": "Portable Power Saw",
+      "zh": "便携动力锯"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "4.1",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "переносная мотопила portable power saw 便携动力锯 claymore 4 4.1 оружие двуручное"
+  },
+  {
+    "id": "prototype_archaic",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/prototype_archaic.png",
+    "title": {
+      "ru": "Прототип: Архаичный",
+      "en": "Prototype Archaic",
+      "zh": "试作古华"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "прототип: архаичный prototype archaic 试作古华 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "rainslasher",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/rainslasher.png",
+    "title": {
+      "ru": "Дождерез",
+      "en": "Rainslasher",
+      "zh": "雨裁"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "дождерез rainslasher 雨裁 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "redhorn_stonethresher",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/redhorn_stonethresher.png",
+    "title": {
+      "ru": "Краснорогий камнеруб",
+      "en": "Redhorn Stonethresher",
+      "zh": "赤角石溃杵"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "2.3",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "краснорогий камнеруб redhorn stonethresher 赤角石溃杵 claymore 5 2.3 оружие двуручное"
+  },
+  {
+    "id": "royal_greatsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/royal_greatsword.png",
+    "title": {
+      "ru": "Королевский двуручный меч",
+      "en": "Royal Greatsword",
+      "zh": "宗室大剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "королевский двуручный меч royal greatsword 宗室大剑 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "sacrificial_greatsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/sacrificial_greatsword.png",
+    "title": {
+      "ru": "Церемониальный двуручный меч",
+      "en": "Sacrificial Greatsword",
+      "zh": "祭礼大剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "церемониальный двуручный меч sacrificial greatsword 祭礼大剑 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "serpent_spine",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/serpent_spine.png",
+    "title": {
+      "ru": "Меч драконьей кости",
+      "en": "Serpent Spine",
+      "zh": "螭骨剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч драконьей кости serpent spine 螭骨剑 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "skyrider_greatsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/skyrider_greatsword.png",
+    "title": {
+      "ru": "Большой меч небесного всадника",
+      "en": "Skyrider Greatsword",
+      "zh": "飞天大御剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "большой меч небесного всадника skyrider greatsword 飞天大御剑 claymore 3 1.0 оружие двуручное"
+  },
+  {
+    "id": "skyward_pride",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/skyward_pride.png",
+    "title": {
+      "ru": "Небесное величие",
+      "en": "Skyward Pride",
+      "zh": "天空之傲"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "небесное величие skyward pride 天空之傲 claymore 5 1.0 оружие двуручное"
+  },
+  {
+    "id": "snow_tombed_starsilver",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/snow_tombed_starsilver.png",
+    "title": {
+      "ru": "Заснеженное звёздное серебро",
+      "en": "Snow-Tombed Starsilver",
+      "zh": "雪葬的星银"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.2",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "заснеженное звёздное серебро snow-tombed starsilver 雪葬的星银 claymore 4 1.2 оружие двуручное"
+  },
+  {
+    "id": "song_of_broken_pines",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/song_of_broken_pines.png",
+    "title": {
+      "ru": "Песнь разбитых сосен",
+      "en": "Song of Broken Pines",
+      "zh": "松籁响起之时"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "1.5",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "песнь разбитых сосен song of broken pines 松籁响起之时 claymore 5 1.5 оружие двуручное"
+  },
+  {
+    "id": "talking_stick",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/talking_stick.png",
+    "title": {
+      "ru": "Говорящая палица",
+      "en": "Talking Stick",
+      "zh": "聊聊棒"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "говорящая палица talking stick 聊聊棒 claymore 4 4.0 оружие двуручное"
+  },
+  {
+    "id": "the_bell",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/the_bell.png",
+    "title": {
+      "ru": "Меч-колокол",
+      "en": "The Bell",
+      "zh": "钟剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч-колокол the bell 钟剑 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "the_unforged",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/the_unforged.png",
+    "title": {
+      "ru": "Некованый",
+      "en": "The Unforged",
+      "zh": "无工之剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "1.1",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "некованый the unforged 无工之剑 claymore 5 1.1 оружие двуручное"
+  },
+  {
+    "id": "tidal_shadow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/tidal_shadow.png",
+    "title": {
+      "ru": "Тень волны",
+      "en": "Tidal Shadow",
+      "zh": "浪影阔剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "тень волны tidal shadow 浪影阔剑 claymore 4 4.0 оружие двуручное"
+  },
+  {
+    "id": "ultimate_overlords_mega_magic_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/ultimate_overlords_mega_magic_sword.png",
+    "title": {
+      "ru": "«Магический супермеч высшего владыки»",
+      "en": "Ultimate Overlord's Mega Magic Sword",
+      "zh": "究极霸王超级魔剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "4.3",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "«магический супермеч высшего владыки» ultimate overlord's mega magic sword 究极霸王超级魔剑 claymore 4 4.3 оружие двуручное"
+  },
+  {
+    "id": "verdict",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/verdict.png",
+    "title": {
+      "ru": "Вердикт",
+      "en": "Verdict",
+      "zh": "裁断"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "4.3",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вердикт verdict 裁断 claymore 5 4.3 оружие двуручное"
+  },
+  {
+    "id": "waster_greatsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/waster_greatsword.png",
+    "title": {
+      "ru": "Двуручный меч богатыря",
+      "en": "Waster Greatsword",
+      "zh": "训练大剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 1,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "двуручный меч богатыря waster greatsword 训练大剑 claymore 1 1.0 оружие двуручное"
+  },
+  {
+    "id": "white_iron_greatsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/white_iron_greatsword.png",
+    "title": {
+      "ru": "Меч из белого железа",
+      "en": "White Iron Greatsword",
+      "zh": "白铁大剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч из белого железа white iron greatsword 白铁大剑 claymore 3 1.0 оружие двуручное"
+  },
+  {
+    "id": "whiteblind",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/whiteblind.png",
+    "title": {
+      "ru": "Белая тень",
+      "en": "Whiteblind",
+      "zh": "白影剑"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "белая тень whiteblind 白影剑 claymore 4 1.0 оружие двуручное"
+  },
+  {
+    "id": "wolfs_gravestone",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/wolfs_gravestone.png",
+    "title": {
+      "ru": "Волчья погибель",
+      "en": "Wolf's Gravestone",
+      "zh": "狼的末路"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "двуручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "волчья погибель wolf's gravestone 狼的末路 claymore 5 1.0 оружие двуручное"
+  },
+  {
+    "id": "ballad_of_the_fjords",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/ballad_of_the_fjords.png",
+    "title": {
+      "ru": "Баллада фьордов",
+      "en": "Ballad of the Fjords",
+      "zh": "峡湾长歌"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "баллада фьордов ballad of the fjords 峡湾长歌 polearm 4 4.0 оружие древковое"
+  },
+  {
+    "id": "beginners_protector",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/beginners_protector.png",
+    "title": {
+      "ru": "Копьё новичка",
+      "en": "Beginner's Protector",
+      "zh": "新手长枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 1,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "копьё новичка beginner's protector 新手长枪 polearm 1 1.0 оружие древковое"
+  },
+  {
+    "id": "black_tassel",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/black_tassel.png",
+    "title": {
+      "ru": "Чёрная кисть",
+      "en": "Black Tassel",
+      "zh": "黑缨枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "чёрная кисть black tassel 黑缨枪 polearm 3 1.0 оружие древковое"
+  },
+  {
+    "id": "blackcliff_pole",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/blackcliff_pole.png",
+    "title": {
+      "ru": "Черногорская пика",
+      "en": "Blackcliff Pole",
+      "zh": "黑岩刺枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "черногорская пика blackcliff pole 黑岩刺枪 polearm 4 1.0 оружие древковое"
+  },
+  {
+    "id": "bloodsoaked_ruins",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/bloodsoaked_ruins.png",
+    "title": {
+      "ru": "Окровавленные руины",
+      "en": "Bloodsoaked Ruins",
+      "zh": "血染荒城"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "окровавленные руины bloodsoaked ruins 血染荒城 polearm 5 6.0 оружие древковое"
+  },
+  {
+    "id": "calamity_queller",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/calamity_queller.png",
+    "title": {
+      "ru": "Усмиритель бед",
+      "en": "Calamity Queller",
+      "zh": "息灾"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "2.4",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "усмиритель бед calamity queller 息灾 polearm 5 2.4 оружие древковое"
+  },
+  {
+    "id": "crescent_pike",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/crescent_pike.png",
+    "title": {
+      "ru": "Пика полумесяца",
+      "en": "Crescent Pike",
+      "zh": "流月针"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "пика полумесяца crescent pike 流月针 polearm 4 1.0 оружие древковое"
+  },
+  {
+    "id": "crimson_moons_semblance",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/crimson_moons_semblance.png",
+    "title": {
+      "ru": "Очертания алой луны",
+      "en": "Crimson Moon’s Semblance",
+      "zh": "赤月之形"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "4.6",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "очертания алой луны crimson moon’s semblance 赤月之形 polearm 5 4.6 оружие древковое"
+  },
+  {
+    "id": "deathmatch",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/deathmatch.png",
+    "title": {
+      "ru": "Смертельный бой",
+      "en": "Deathmatch",
+      "zh": "决斗之枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "смертельный бой deathmatch 决斗之枪 polearm 4 1.0 оружие древковое"
+  },
+  {
+    "id": "dialogues_of_the_desert_sages",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/dialogues_of_the_desert_sages.png",
+    "title": {
+      "ru": "Диалог пустынных мудрецов",
+      "en": "Dialogues of the Desert Sages",
+      "zh": "沙中伟贤的对答"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "4.5",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "диалог пустынных мудрецов dialogues of the desert sages 沙中伟贤的对答 polearm 4 4.5 оружие древковое"
+  },
+  {
+    "id": "dragons_bane",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/dragons_bane.png",
+    "title": {
+      "ru": "Гроза драконов",
+      "en": "Dragon's Bane",
+      "zh": "匣里灭辰"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "гроза драконов dragon's bane 匣里灭辰 polearm 4 1.0 оружие древковое"
+  },
+  {
+    "id": "dragonspine_spear",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/dragonspine_spear.png",
+    "title": {
+      "ru": "Копьё Драконьего хребта",
+      "en": "Dragonspine Spear",
+      "zh": "龙脊长枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.2",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "копьё драконьего хребта dragonspine spear 龙脊长枪 polearm 4 1.2 оружие древковое"
+  },
+  {
+    "id": "engulfing_lightning",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/engulfing_lightning.png",
+    "title": {
+      "ru": "Сияющая жатва",
+      "en": "Engulfing Lightning",
+      "zh": "薙草之稻光"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "2.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "сияющая жатва engulfing lightning 薙草之稻光 polearm 5 2.1 оружие древковое"
+  },
+  {
+    "id": "favonius_lance",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/favonius_lance.png",
+    "title": {
+      "ru": "Копьё Фавония",
+      "en": "Favonius Lance",
+      "zh": "西风长枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "копьё фавония favonius lance 西风长枪 polearm 4 1.0 оружие древковое"
+  },
+  {
+    "id": "footprint_of_the_rainbow",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/footprint_of_the_rainbow.png",
+    "title": {
+      "ru": "След радуги",
+      "en": "Footprint of the Rainbow",
+      "zh": "虹的行迹"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "след радуги footprint of the rainbow 虹的行迹 polearm 4 5.0 оружие древковое"
+  },
+  {
+    "id": "fractured_halo",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/fractured_halo.png",
+    "title": {
+      "ru": "Расколотый ореол",
+      "en": "Fractured Halo",
+      "zh": "支离轮光"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "5.8",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "расколотый ореол fractured halo 支离轮光 polearm 5 5.8 оружие древковое"
+  },
+  {
+    "id": "halberd",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/halberd.png",
+    "title": {
+      "ru": "Алебарда Миллелита",
+      "en": "Halberd",
+      "zh": "钺矛"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "алебарда миллелита halberd 钺矛 polearm 3 1.0 оружие древковое"
+  },
+  {
+    "id": "iron_point",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/iron_point.png",
+    "title": {
+      "ru": "Железный наконечник",
+      "en": "Iron Point",
+      "zh": "铁尖枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 2,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "железный наконечник iron point 铁尖枪 polearm 2 1.0 оружие древковое"
+  },
+  {
+    "id": "kitain_cross_spear",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/kitain_cross_spear.png",
+    "title": {
+      "ru": "Крест-копьё Китаин",
+      "en": "Kitain Cross Spear",
+      "zh": "Kitain Cross Spear"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "2.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "крест-копьё китаин kitain cross spear polearm 4 2.0 оружие древковое"
+  },
+  {
+    "id": "lithic_spear",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/lithic_spear.png",
+    "title": {
+      "ru": "Каменное копьё",
+      "en": "Lithic Spear",
+      "zh": "千岩长枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.3",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "каменное копьё lithic spear 千岩长枪 polearm 4 1.3 оружие древковое"
+  },
+  {
+    "id": "lumidouce_elegy",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/lumidouce_elegy.png",
+    "title": {
+      "ru": "Элегия Люмидус",
+      "en": "Lumidouce Elegy",
+      "zh": "柔灯挽歌"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "4.8",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "элегия люмидус lumidouce elegy 柔灯挽歌 polearm 5 4.8 оружие древковое"
+  },
+  {
+    "id": "missive_windspear",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/missive_windspear.png",
+    "title": {
+      "ru": "Копьё послания ветров",
+      "en": "Missive Windspear",
+      "zh": "风信之锋"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "3.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "копьё послания ветров missive windspear 风信之锋 polearm 4 3.1 оружие древковое"
+  },
+  {
+    "id": "moonpiercer",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/moonpiercer.png",
+    "title": {
+      "ru": "Пронзающий луну",
+      "en": "Moonpiercer",
+      "zh": "贯月矢"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "3.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "пронзающий луну moonpiercer 贯月矢 polearm 4 3.0 оружие древковое"
+  },
+  {
+    "id": "mountain_bracing_bolt",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/mountain_bracing_bolt.png",
+    "title": {
+      "ru": "Крепящий горы шип",
+      "en": "Mountain-Bracing Bolt",
+      "zh": "镇山之钉"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "5.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "крепящий горы шип mountain-bracing bolt 镇山之钉 polearm 4 5.1 оружие древковое"
+  },
+  {
+    "id": "primordial_jade_winged_spear",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/primordial_jade_winged_spear.png",
+    "title": {
+      "ru": "Нефритовый коршун",
+      "en": "Primordial Jade Winged-Spear",
+      "zh": "和璞鸢"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "нефритовый коршун primordial jade winged-spear 和璞鸢 polearm 5 1.0 оружие древковое"
+  },
+  {
+    "id": "prospectors_drill",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/prospectors_drill.png",
+    "title": {
+      "ru": "Бур рудоискателя",
+      "en": "Prospector's Drill",
+      "zh": "勘探钻机"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "4.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "бур рудоискателя prospector's drill 勘探钻机 polearm 4 4.1 оружие древковое"
+  },
+  {
+    "id": "prospectors_shovel",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/prospectors_shovel.png",
+    "title": {
+      "ru": "Лопата старателя",
+      "en": "Prospector's Shovel",
+      "zh": "掘金之锹"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лопата старателя prospector's shovel 掘金之锹 polearm 4 6.0 оружие древковое"
+  },
+  {
+    "id": "prototype_starglitter",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/prototype_starglitter.png",
+    "title": {
+      "ru": "Прототип: Звёздный блеск",
+      "en": "Prototype Starglitter",
+      "zh": "试作星镰"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "прототип: звёздный блеск prototype starglitter 试作星镰 polearm 4 1.0 оружие древковое"
+  },
+  {
+    "id": "rightful_reward",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/rightful_reward.png",
+    "title": {
+      "ru": "Справедливая награда",
+      "en": "Rightful Reward",
+      "zh": "公义的酬报"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "справедливая награда rightful reward 公义的酬报 polearm 4 4.0 оружие древковое"
+  },
+  {
+    "id": "royal_spear",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/royal_spear.png",
+    "title": {
+      "ru": "Королевское копьё",
+      "en": "Royal Spear",
+      "zh": "宗室猎枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "королевское копьё royal spear 宗室猎枪 polearm 4 1.0 оружие древковое"
+  },
+  {
+    "id": "sacrificers_staff",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/sacrificers_staff.png",
+    "title": {
+      "ru": "Посох жертвующей",
+      "en": "Sacrificer's Staff",
+      "zh": "圣祭者的辉杖"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "6.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "посох жертвующей sacrificer's staff 圣祭者的辉杖 polearm 4 6.1 оружие древковое"
+  },
+  {
+    "id": "skyward_spine",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/skyward_spine.png",
+    "title": {
+      "ru": "Небесная ось",
+      "en": "Skyward Spine",
+      "zh": "天空之脊"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "небесная ось skyward spine 天空之脊 polearm 5 1.0 оружие древковое"
+  },
+  {
+    "id": "staff_of_homa",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/staff_of_homa.png",
+    "title": {
+      "ru": "Посох Хомы",
+      "en": "Staff of Homa",
+      "zh": "护摩之杖"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "1.3",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "посох хомы staff of homa 护摩之杖 polearm 5 1.3 оружие древковое"
+  },
+  {
+    "id": "staff_of_the_scarlet_sands",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/staff_of_the_scarlet_sands.png",
+    "title": {
+      "ru": "Посох алых песков",
+      "en": "Staff of the Scarlet Sands",
+      "zh": "赤沙之杖"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "3.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "посох алых песков staff of the scarlet sands 赤沙之杖 polearm 5 3.1 оружие древковое"
+  },
+  {
+    "id": "symphonist_of_scents",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/symphonist_of_scents.png",
+    "title": {
+      "ru": "Симфонист ароматов",
+      "en": "Symphonist of Scents",
+      "zh": "香韵奏者"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "5.6",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "симфонист ароматов symphonist of scents 香韵奏者 polearm 5 5.6 оружие древковое"
+  },
+  {
+    "id": "tamayuratei_no_ohanashi",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/tamayuratei_no_ohanashi.png",
+    "title": {
+      "ru": "Тамаюратэй но оханаси",
+      "en": "Tamayuratei no Ohanashi",
+      "zh": "且住亭御咄"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "5.4",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "тамаюратэй но оханаси tamayuratei no ohanashi 且住亭御咄 polearm 4 5.4 оружие древковое"
+  },
+  {
+    "id": "the_catch",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/the_catch.png",
+    "title": {
+      "ru": "«Улов»",
+      "en": "\"The Catch\"",
+      "zh": "「渔获」"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "2.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "«улов» \"the catch\" 「渔获」 polearm 4 2.1 оружие древковое"
+  },
+  {
+    "id": "vortex_vanquisher",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/vortex_vanquisher.png",
+    "title": {
+      "ru": "Покоритель вихря",
+      "en": "Vortex Vanquisher",
+      "zh": "贯虹之槊"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "1.1",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "покоритель вихря vortex vanquisher 贯虹之槊 polearm 5 1.1 оружие древковое"
+  },
+  {
+    "id": "wavebreakers_fin",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/wavebreakers_fin.png",
+    "title": {
+      "ru": "Режущий волны плавник",
+      "en": "Wavebreaker's Fin",
+      "zh": "断浪长鳍"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 4,
+    "game_version": "2.2",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "режущий волны плавник wavebreaker's fin 断浪长鳍 polearm 4 2.2 оружие древковое"
+  },
+  {
+    "id": "white_tassel",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/white_tassel.png",
+    "title": {
+      "ru": "Белая кисть",
+      "en": "White Tassel",
+      "zh": "白缨枪"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "древковое"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "белая кисть white tassel 白缨枪 polearm 3 1.0 оружие древковое"
   },
   {
     "id": "absolution",
@@ -36,7 +4308,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "4.7",
     "tags": [
       "Клоринда"
     ],
@@ -45,7 +4317,31 @@
       "en",
       "zh"
     ],
-    "search_text": "отпущение грехов absolution 赦罪 sword 5 клоринда"
+    "search_text": "отпущение грехов absolution 赦罪 sword 5 4.7 клоринда"
+  },
+  {
+    "id": "amenoma_kageuchi",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/amenoma_kageuchi.png",
+    "title": {
+      "ru": "Амэнома Кагэути",
+      "en": "Amenoma Kageuchi",
+      "zh": "天目影打刀"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "2.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "амэнома кагэути amenoma kageuchi 天目影打刀 sword 4 2.0 оружие одноручное"
   },
   {
     "id": "aquila_favonia",
@@ -59,14 +4355,14 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [],
     "languages": [
       "ru",
       "en",
       "zh"
     ],
-    "search_text": "меч сокола aquila favonia 风鹰剑 sword 5"
+    "search_text": "меч сокола aquila favonia 风鹰剑 sword 5 1.0"
   },
   {
     "id": "athame_artis",
@@ -80,7 +4376,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "6.2",
     "tags": [
       "Дурин"
     ],
@@ -89,7 +4385,7 @@
       "en",
       "zh"
     ],
-    "search_text": "атаме артис athame artis 黑蚀 sword 5 дурин"
+    "search_text": "атаме артис athame artis 黑蚀 sword 5 6.2 дурин"
   },
   {
     "id": "azurelight",
@@ -103,7 +4399,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "5.7",
     "tags": [
       "Скирк",
       "ангел",
@@ -114,7 +4410,295 @@
       "en",
       "zh"
     ],
-    "search_text": "лазурное сияние azurelight 苍耀 sword 5 скирк ангел койтар"
+    "search_text": "лазурное сияние azurelight 苍耀 sword 5 5.7 скирк ангел койтар"
+  },
+  {
+    "id": "blackcliff_longsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/blackcliff_longsword.png",
+    "title": {
+      "ru": "Черногорский длинный меч",
+      "en": "Blackcliff Longsword",
+      "zh": "黑岩长剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "черногорский длинный меч blackcliff longsword 黑岩长剑 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "calamity_of_eshu",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/calamity_of_eshu.png",
+    "title": {
+      "ru": "Бедствие Эшу",
+      "en": "Calamity of Eshu",
+      "zh": "厄水之祸"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "5.2",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "бедствие эшу calamity of eshu 厄水之祸 sword 4 5.2 оружие одноручное"
+  },
+  {
+    "id": "cinnabar_spindle",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/cinnabar_spindle.png",
+    "title": {
+      "ru": "Киноварное веретено",
+      "en": "Cinnabar Spindle",
+      "zh": "辰砂之纺锤"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "2.3",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "киноварное веретено cinnabar spindle 辰砂之纺锤 sword 4 2.3 оружие одноручное"
+  },
+  {
+    "id": "cool_steel",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/cool_steel.png",
+    "title": {
+      "ru": "Холодное лезвие",
+      "en": "Cool Steel",
+      "zh": "冷刃"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "холодное лезвие cool steel 冷刃 sword 3 1.0 оружие одноручное"
+  },
+  {
+    "id": "dark_iron_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/dark_iron_sword.png",
+    "title": {
+      "ru": "Тёмный железный меч",
+      "en": "Dark Iron Sword",
+      "zh": "暗铁剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "тёмный железный меч dark iron sword 暗铁剑 sword 3 1.0 оружие одноручное"
+  },
+  {
+    "id": "dull_blade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/dull_blade.png",
+    "title": {
+      "ru": "Тупой меч",
+      "en": "Dull Blade",
+      "zh": "无锋剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 1,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "тупой меч dull blade 无锋剑 sword 1 1.0 оружие одноручное"
+  },
+  {
+    "id": "favonius_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/favonius_sword.png",
+    "title": {
+      "ru": "Меч Фавония",
+      "en": "Favonius Sword",
+      "zh": "西风剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч фавония favonius sword 西风剑 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "festering_desire",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/festering_desire.png",
+    "title": {
+      "ru": "Осквернённое желание",
+      "en": "Festering Desire",
+      "zh": "腐殖之剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.2",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "осквернённое желание festering desire 腐殖之剑 sword 4 1.2 оружие одноручное"
+  },
+  {
+    "id": "fillet_blade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/fillet_blade.png",
+    "title": {
+      "ru": "Филейный нож",
+      "en": "Fillet Blade",
+      "zh": "吃虎鱼刀"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "филейный нож fillet blade 吃虎鱼刀 sword 3 1.0 оружие одноручное"
+  },
+  {
+    "id": "finale_of_the_deep",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/finale_of_the_deep.png",
+    "title": {
+      "ru": "Грандиозный финал глубин",
+      "en": "Finale of the Deep",
+      "zh": "海渊终曲"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "грандиозный финал глубин finale of the deep 海渊终曲 sword 4 4.0 оружие одноручное"
+  },
+  {
+    "id": "fleuve_cendre_ferryman",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/fleuve_cendre_ferryman.png",
+    "title": {
+      "ru": "Перевозчик Флёв Сандр",
+      "en": "Fleuve Cendre Ferryman",
+      "zh": "灰河渡手"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "перевозчик флёв сандр fleuve cendre ferryman 灰河渡手 sword 4 4.0 оружие одноручное"
+  },
+  {
+    "id": "flute_of_ezpitzal",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/flute_of_ezpitzal.png",
+    "title": {
+      "ru": "Флейта Эспицаль",
+      "en": "Flute of Ezpitzal",
+      "zh": "息燧之笛"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "5.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "флейта эспицаль flute of ezpitzal 息燧之笛 sword 4 5.0 оружие одноручное"
   },
   {
     "id": "freedom_sworn",
@@ -128,7 +4712,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "1.6",
     "tags": [
       "Кадзуха"
     ],
@@ -137,7 +4721,7 @@
       "en",
       "zh"
     ],
-    "search_text": "клятва свободы freedom-sworn 苍古自由之誓 sword 5 кадзуха"
+    "search_text": "клятва свободы freedom-sworn 苍古自由之誓 sword 5 1.6 кадзуха"
   },
   {
     "id": "haran_geppaku_futsu",
@@ -151,7 +4735,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "2.6",
     "tags": [
       "Аято"
     ],
@@ -160,7 +4744,79 @@
       "en",
       "zh"
     ],
-    "search_text": "харан гэппаку фуцу haran geppaku futsu 波乱月白经津 sword 5 аято"
+    "search_text": "харан гэппаку фуцу haran geppaku futsu 波乱月白经津 sword 5 2.6 аято"
+  },
+  {
+    "id": "harbinger_of_dawn",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/harbinger_of_dawn.png",
+    "title": {
+      "ru": "Предвестник зари",
+      "en": "Harbinger of Dawn",
+      "zh": "黎明神剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "предвестник зари harbinger of dawn 黎明神剑 sword 3 1.0 оружие одноручное"
+  },
+  {
+    "id": "iron_sting",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/iron_sting.png",
+    "title": {
+      "ru": "Стальное жало",
+      "en": "Iron Sting",
+      "zh": "铁蜂刺"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "стальное жало iron sting 铁蜂刺 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "kagotsurube_isshin",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/kagotsurube_isshin.png",
+    "title": {
+      "ru": "Кагоцурубэ Иссин",
+      "en": "Kagotsurube Isshin",
+      "zh": "笼钓瓶一心"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "2.8",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "кагоцурубэ иссин kagotsurube isshin 笼钓瓶一心 sword 4 2.8 оружие одноручное"
   },
   {
     "id": "key_of_khaj_nisut",
@@ -174,7 +4830,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "3.1",
     "tags": [
       "Нилу"
     ],
@@ -183,7 +4839,7 @@
       "en",
       "zh"
     ],
-    "search_text": "ключ хадж-нисут key of khaj-nisut 圣显之钥 sword 5 нилу"
+    "search_text": "ключ хадж-нисут key of khaj-nisut 圣显之钥 sword 5 3.1 нилу"
   },
   {
     "id": "light_of_foliar_incision",
@@ -197,7 +4853,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "3.4",
     "tags": [
       "Аль-Хайтам",
       "Хайтам"
@@ -207,7 +4863,7 @@
       "en",
       "zh"
     ],
-    "search_text": "свет лиственного разреза light of foliar incision 裁叶萃光 sword 5 аль-хайтам хайтам"
+    "search_text": "свет лиственного разреза light of foliar incision 裁叶萃光 sword 5 3.4 аль-хайтам хайтам"
   },
   {
     "id": "lightbearing_moonshard",
@@ -221,7 +4877,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "6.3",
     "tags": [
       "белая лошадь",
       "Цзы Бай"
@@ -231,7 +4887,31 @@
       "en",
       "zh"
     ],
-    "search_text": "светоносный осколок луны lightbearing moonshard 朏魄含光 sword 5 белая лошадь цзы бай"
+    "search_text": "светоносный осколок луны lightbearing moonshard 朏魄含光 sword 5 6.3 белая лошадь цзы бай"
+  },
+  {
+    "id": "lions_roar",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/lions_roar.png",
+    "title": {
+      "ru": "Драконий рык",
+      "en": "Lion's Roar",
+      "zh": "匣里龙吟"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "драконий рык lion's roar 匣里龙吟 sword 4 1.0 оружие одноручное"
   },
   {
     "id": "mistsplitter_reforged",
@@ -245,7 +4925,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "2.0",
     "tags": [
       "Аяка"
     ],
@@ -254,7 +4934,31 @@
       "en",
       "zh"
     ],
-    "search_text": "рассекающий туман mistsplitter reforged 雾切之回光 sword 5 аяка"
+    "search_text": "рассекающий туман mistsplitter reforged 雾切之回光 sword 5 2.0 аяка"
+  },
+  {
+    "id": "moonweavers_dawn",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/moonweavers_dawn.png",
+    "title": {
+      "ru": "Рассвет прядильщицы луны",
+      "en": "Moonweaver's Dawn",
+      "zh": "织月者的曙色"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "рассвет прядильщицы луны moonweaver's dawn 织月者的曙色 sword 4 6.0 оружие одноручное"
   },
   {
     "id": "peak_patrol_song",
@@ -268,7 +4972,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "5.1",
     "tags": [
       "Шилонен"
     ],
@@ -277,7 +4981,7 @@
       "en",
       "zh"
     ],
-    "search_text": "песнь патруля пиков peak patrol song 岩峰巡歌 sword 5 шилонен"
+    "search_text": "песнь патруля пиков peak patrol song 岩峰巡歌 sword 5 5.1 шилонен"
   },
   {
     "id": "primordial_jade_cutter",
@@ -291,14 +4995,182 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "1.3",
     "tags": [],
     "languages": [
       "ru",
       "en",
       "zh"
     ],
-    "search_text": "драгоценный омут primordial jade cutter 磐岩结绿 sword 5"
+    "search_text": "драгоценный омут primordial jade cutter 磐岩结绿 sword 5 1.3"
+  },
+  {
+    "id": "prototype_rancour",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/prototype_rancour.png",
+    "title": {
+      "ru": "Прототип: Злоба",
+      "en": "Prototype Rancour",
+      "zh": "试作斩岩"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "прототип: злоба prototype rancour 试作斩岩 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "royal_longsword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/royal_longsword.png",
+    "title": {
+      "ru": "Меч аристократов",
+      "en": "Royal Longsword",
+      "zh": "宗室长剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч аристократов royal longsword 宗室长剑 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "sacrificial_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/sacrificial_sword.png",
+    "title": {
+      "ru": "Церемониальный меч",
+      "en": "Sacrificial Sword",
+      "zh": "祭礼剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "церемониальный меч sacrificial sword 祭礼剑 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "sapwood_blade",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/sapwood_blade.png",
+    "title": {
+      "ru": "Деревянный клинок",
+      "en": "Sapwood Blade",
+      "zh": "原木刀"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "3.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "деревянный клинок sapwood blade 原木刀 sword 4 3.0 оружие одноручное"
+  },
+  {
+    "id": "serenitys_call",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/serenitys_call.png",
+    "title": {
+      "ru": "Зов безмятежности",
+      "en": "Serenity's Call",
+      "zh": "谧音吹哨"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "6.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "зов безмятежности serenity's call 谧音吹哨 sword 4 6.0 оружие одноручное"
+  },
+  {
+    "id": "silver_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/silver_sword.png",
+    "title": {
+      "ru": "Серебряный меч",
+      "en": "Silver Sword",
+      "zh": "银剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 2,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "серебряный меч silver sword 银剑 sword 2 1.0 оружие одноручное"
+  },
+  {
+    "id": "skyrider_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/skyrider_sword.png",
+    "title": {
+      "ru": "Меч небесного всадника",
+      "en": "Skyrider Sword",
+      "zh": "飞天御剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч небесного всадника skyrider sword 飞天御剑 sword 3 1.0 оружие одноручное"
   },
   {
     "id": "skyward_blade",
@@ -312,14 +5184,14 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [],
     "languages": [
       "ru",
       "en",
       "zh"
     ],
-    "search_text": "небесный меч skyward blade 天空之刃 sword 5"
+    "search_text": "небесный меч skyward blade 天空之刃 sword 5 1.0"
   },
   {
     "id": "splendor_of_tranquil_waters",
@@ -333,7 +5205,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "4.2",
     "tags": [
       "Фурина"
     ],
@@ -342,7 +5214,31 @@
       "en",
       "zh"
     ],
-    "search_text": "блеск тихих вод splendor of tranquil waters 静水流涌之辉 sword 5 фурина"
+    "search_text": "блеск тихих вод splendor of tranquil waters 静水流涌之辉 sword 5 4.2 фурина"
+  },
+  {
+    "id": "sturdy_bone",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/sturdy_bone.png",
+    "title": {
+      "ru": "Крепкая кость",
+      "en": "Sturdy Bone",
+      "zh": "弥坚骨"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "5.1",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "крепкая кость sturdy bone 弥坚骨 sword 4 5.1 оружие одноручное"
   },
   {
     "id": "summit_shaper",
@@ -356,14 +5252,206 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "1.2",
     "tags": [],
     "languages": [
       "ru",
       "en",
       "zh"
     ],
-    "search_text": "кромсатель пиков summit shaper 斫峰之刃 sword 5"
+    "search_text": "кромсатель пиков summit shaper 斫峰之刃 sword 5 1.2"
+  },
+  {
+    "id": "sword_of_descension",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/sword_of_descension.png",
+    "title": {
+      "ru": "Меч нисхождения",
+      "en": "Sword of Descension",
+      "zh": "降临之剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч нисхождения sword of descension 降临之剑 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "sword_of_narzissenkreuz",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/sword_of_narzissenkreuz.png",
+    "title": {
+      "ru": "Меч Нарциссенкрейца",
+      "en": "Sword of Narzissenkreuz",
+      "zh": "水仙十字之剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "4.2",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч нарциссенкрейца sword of narzissenkreuz 水仙十字之剑 sword 4 4.2 оружие одноручное"
+  },
+  {
+    "id": "the_alley_flash",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/the_alley_flash.png",
+    "title": {
+      "ru": "Вспышка во тьме",
+      "en": "The Alley Flash",
+      "zh": "暗巷闪光"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.4",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "вспышка во тьме the alley flash 暗巷闪光 sword 4 1.4 оружие одноручное"
+  },
+  {
+    "id": "the_black_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/the_black_sword.png",
+    "title": {
+      "ru": "Чёрный меч",
+      "en": "The Black Sword",
+      "zh": "黑剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "чёрный меч the black sword 黑剑 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "the_dockhands_assistant",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/the_dockhands_assistant.png",
+    "title": {
+      "ru": "Верфь",
+      "en": "The Dockhand's Assistant",
+      "zh": "船坞长剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "4.1",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "верфь the dockhand's assistant 船坞长剑 sword 4 4.1 оружие одноручное"
+  },
+  {
+    "id": "the_flute",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/the_flute.png",
+    "title": {
+      "ru": "Меч-флейта",
+      "en": "The Flute",
+      "zh": "笛剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч-флейта the flute 笛剑 sword 4 1.0 оружие одноручное"
+  },
+  {
+    "id": "toukabou_shigure",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/toukabou_shigure.png",
+    "title": {
+      "ru": "Токабо сигурэ",
+      "en": "Toukabou Shigure",
+      "zh": "东花坊时雨"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "3.3",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "токабо сигурэ toukabou shigure 东花坊时雨 sword 4 3.3 оружие одноручное"
+  },
+  {
+    "id": "travelers_handy_sword",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/travelers_handy_sword.png",
+    "title": {
+      "ru": "Меч путешественника",
+      "en": "Traveler's Handy Sword",
+      "zh": "旅行剑"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 3,
+    "game_version": "1.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "меч путешественника traveler's handy sword 旅行剑 sword 3 1.0 оружие одноручное"
   },
   {
     "id": "uraku_misugiri",
@@ -377,7 +5465,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
-    "game_version": "",
+    "game_version": "4.5",
     "tags": [
       "Тиори"
     ],
@@ -386,6 +5474,54 @@
       "en",
       "zh"
     ],
-    "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword 5 тиори"
+    "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword 5 4.5 тиори"
+  },
+  {
+    "id": "wolf_fang",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/wolf_fang.png",
+    "title": {
+      "ru": "Волчий клык",
+      "en": "Wolf-Fang",
+      "zh": "狼牙"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "4.0",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "волчий клык wolf-fang 狼牙 sword 4 4.0 оружие одноручное"
+  },
+  {
+    "id": "xiphos_moonlight",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/sword/xiphos_moonlight.png",
+    "title": {
+      "ru": "Лунное сияние ксифоса",
+      "en": "Xiphos' Moonlight",
+      "zh": "西福斯的月光"
+    },
+    "weapon_type": "sword",
+    "type": "sword",
+    "rarity": 4,
+    "game_version": "3.1",
+    "tags": [
+      "оружие",
+      "одноручное"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "search_text": "лунное сияние ксифоса xiphos' moonlight 西福斯的月光 sword 4 3.1 оружие одноручное"
   }
 ]

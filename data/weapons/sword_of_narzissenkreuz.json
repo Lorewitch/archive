@@ -1,0 +1,38 @@
+{
+  "id": "sword_of_narzissenkreuz",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/sword_of_narzissenkreuz.png",
+  "title": {
+    "ru": "Меч Нарциссенкрейца",
+    "en": "Sword of Narzissenkreuz",
+    "zh": "水仙十字之剑"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "4.2",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Меч, чья воля и сила угасла с концом его истории. Теперь он отправится в новое путешествие. Остатки силы в нём помнят великую мечту.\n\n### История\nПолон путь встреч и прощаний,\n\nИ верные спутники мои —\n\nЛишь меч и мечта.\n\nПокуда с вечностью не слился,\n\nПройду сквозь множество миров.\n\nИ по себе оставлю только\n\nЛегенды да будущее, в котором чуть больше света.",
+    "en": "A sword whose power faded when the story ended. It will now embark upon a new journey with the power that remains within it, which commemorates a certain great dream.\n\n### Story\nTravels are full of meetings and partings.\n\nPerhaps the only trusty and inseparable companions of a Traveler,\n\nAre the sword in their hand and the dream in their heart.\n\nBefore growing old, the eternal Traveler shall pass through many worlds.\n\nLeaving behind naught but stories beyond count and a slightly brighter future.",
+    "zh": "意志与力量随故事的结束而消褪的长剑，它将要再次踏上新的旅途。其中残余着一些力量，纪念着一场宏大的梦。\n\n### 故事\n旅途中总是充满了相遇与别离。\n始终不会抛弃旅人的忠实旅伴，\n恐怕只有长剑与远行的梦想了。\n与民间信仰相悖，银其实不具有退魔的功效。\n心无杂念的执剑旅人，才是斩妖除魔的关键。\n折叠多次锻打而成的坚韧钢材，\n色泽暗淡，闪烁着冰冷的光泽。\n曾属于著名冒险家。见识过大地的广袤深邃，\n斩断过魔物的钢骨，也曾与贼匪的刀剑相交。\n但在最后，\n为了少女，他放弃了广袤的大地、深邃的天，\n协会的同伴，以及冰冷钢铁锻铸的可靠老友。"
+  },
+  "description": {
+    "ru": "Меч, чья воля и сила угасла с концом его истории. Теперь он отправится в новое путешествие. Остатки силы в нём помнят великую мечту.\n\n### История\nПолон путь встреч и прощаний,\n\nИ верные спутники мои —\n\nЛишь меч и мечта.\n\nПокуда с вечностью не слился,\n\nПройду сквозь множество миров.\n\nИ по себе оставлю только\n\nЛегенды да будущее, в котором чуть больше света.",
+    "en": "A sword whose power faded when the story ended. It will now embark upon a new journey with the power that remains within it, which commemorates a certain great dream.\n\n### Story\nTravels are full of meetings and partings.\n\nPerhaps the only trusty and inseparable companions of a Traveler,\n\nAre the sword in their hand and the dream in their heart.\n\nBefore growing old, the eternal Traveler shall pass through many worlds.\n\nLeaving behind naught but stories beyond count and a slightly brighter future.",
+    "zh": "意志与力量随故事的结束而消褪的长剑，它将要再次踏上新的旅途。其中残余着一些力量，纪念着一场宏大的梦。\n\n### 故事\n旅途中总是充满了相遇与别离。\n始终不会抛弃旅人的忠实旅伴，\n恐怕只有长剑与远行的梦想了。\n与民间信仰相悖，银其实不具有退魔的功效。\n心无杂念的执剑旅人，才是斩妖除魔的关键。\n折叠多次锻打而成的坚韧钢材，\n色泽暗淡，闪烁着冰冷的光泽。\n曾属于著名冒险家。见识过大地的广袤深邃，\n斩断过魔物的钢骨，也曾与贼匪的刀剑相交。\n但在最后，\n为了少女，他放弃了广袤的大地、深邃的天，\n协会的同伴，以及冰冷钢铁锻铸的可靠老友。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pocket_grimoire",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/catalyst/pocket_grimoire.png",
+  "title": {
+    "ru": "Карманный гримуар",
+    "en": "Pocket Grimoire",
+    "zh": "口袋魔导书"
+  },
+  "region": "",
+  "rarity": 2,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "катализатор"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Тетрадь с конспектами по магическим дисциплинам, написанная аккуратным почерком.\n\n### История\nПопулярный самоучитель по магии в карманном формате.\nВ нём сжато даётся только то, что спрашивается на экзамене.\nСейчас устарело из-за выхода 12-го издания «Руководства по магии».",
+    "en": "A carefully compiled notebook featuring the essentials needed to pass a magic exam.\n\n### Story\nA manual on magic that is popular amongst students, it is portable enough to fit into one's pocket.\nIt has been stripped of the lengthy descriptions of principles and voluminous exercises. All that is left now is exam content.\nCurrently obsolete due to the revisions made in the 12th edition of the Magic Guide.",
+    "zh": "精心编纂，只留下考试重点的魔导参考小册。\n\n### 故事\n在学徒当中流行的魔导辅导书，可以装在口袋里的尺寸。略去了教科书中冗长的原理与习题，只留下会考的内容。目前因为《魔导绪论》第十二版的改动而变得不合时宜。"
+  },
+  "description": {
+    "ru": "Тетрадь с конспектами по магическим дисциплинам, написанная аккуратным почерком.\n\n### История\nПопулярный самоучитель по магии в карманном формате.\nВ нём сжато даётся только то, что спрашивается на экзамене.\nСейчас устарело из-за выхода 12-го издания «Руководства по магии».",
+    "en": "A carefully compiled notebook featuring the essentials needed to pass a magic exam.\n\n### Story\nA manual on magic that is popular amongst students, it is portable enough to fit into one's pocket.\nIt has been stripped of the lengthy descriptions of principles and voluminous exercises. All that is left now is exam content.\nCurrently obsolete due to the revisions made in the 12th edition of the Magic Guide.",
+    "zh": "精心编纂，只留下考试重点的魔导参考小册。\n\n### 故事\n在学徒当中流行的魔导辅导书，可以装在口袋里的尺寸。略去了教科书中冗长的原理与习题，只留下会考的内容。目前因为《魔导绪论》第十二版的改动而变得不合时宜。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "catalyst",
+  "type": "catalyst"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "the_dockhands_assistant",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/the_dockhands_assistant.png",
+  "title": {
+    "ru": "Верфь",
+    "en": "The Dockhand's Assistant",
+    "zh": "船坞长剑"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "4.1",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Удобный режущий инструмент, который в наше время нигде не найти. Затупившиеся лезвия можно заменить.\n\n### История\nИнструмент, особенно распространённый в былые времена, когда Фонтейн в большей степени зависел от рабочей силы.\n\nХотя лезвие не выдерживает интенсивного использования в течение длительного времени, повреждённую и затупившуюся часть можно в любой момент заменить, что очень удобно.\n\nС помощью такого лезвия рабочие верфи разрезали тонкие материалы и развязывали узлы на канатах.\n\nХотя инструмент подлежал строгому учёту и формально не являлся собственностью того, кто им пользовался, в реальной жизни им торговали и обменивались, одно время он даже носил название «народный нож».\n\nЕго использовали для выживания в дикой местности, чтобы прорубать путь среди высоких трав и водорослей.\n\nЕсли верить легенде, во времена чистки многие люди нашли ему новое применение.\n\nПо мере развития общества и введения новых правил такой клинок постепенно вышел из употребления.\n\nХотя сам клинок не принадлежал тому, кто им пользовался, но каждый человек, которому он служил, считал его продолжением своего тела.\n\nИменно поэтому на рукоятке или на лезвии клинка нередко вырезано имя, чтобы человек мог вернуть себе клинок в случае потери.\n\nНа этом клинке вырезано имя одного из старост деревни Пуассон.",
+    "en": "A convenient cutting tool that you can rarely find nowadays. You can replace the blades as they are dulled by usage.\n\n### Story\nA once-popular tool during the days when Fontaine was more dependent on manual labor.\n\nThe blade might not have been strong enough for prolonged, intense use,\n\nBut it made up for this by allowing the blunt section to be broken off at the user's convenience.\n\nDock workers often used it to cut through thin materials and untie knotted cables.\n\nAlthough the use of this type of weapon was always heavily regulated and no blade never truly belonged to the user,\n\nIt was widely circulated under the tables, and was once hailed as the blade of the people.\n\nIt was perfect for self-preservation in less friendly natural environments, as well as for cutting paths through aquatic plants.\n\nLegend has it that many people also discovered new uses for it during the purge.\n\nAs society advanced and more regulations were put into place, this type of blade gradually ceased to appear in public.\n\nAlthough such blades were not owned by their wielders,\n\nThose who depended on them saw them as extensions of their limbs,\n\nAnd so they often inscribed their names onto the hilts and blades to avoid losing them.\n\nThe name inscribed on this blade belongs to one of Poisson's former mayors.",
+    "zh": "如今几乎绝迹的便利切割工具，能够随着使用将钝化的刀片换掉。\n\n### 故事\n在枫丹更加依赖劳力的时期流行的工具。\n\n尽管刀片强度不堪持续长久的剧烈使用，\n\n但折损钝化部分随时可以折去，很便利。\n\n船坞工人多用它来切割轻薄材料、解开虬结的缆索。\n\n虽说这类道具多受管制，也从不属于真正的使用者，\n\n但在账面下却有广泛的流通，一时被誉为民众之刃。\n\n为在贫瘠环境自保，也为在水草丛生之地开辟通路。\n\n传说在整肃的时代里，有不少人发现了它新的用法。\n\n后来这种剑随着进步与禁止退出了枫丹的历史舞台。\n\n虽说工具的所有权不归操使它的人所有，\n\n但仰赖它的人将其视为自身肢体的衍伸，\n\n因此常在手柄及申领的刀片上刻上名字，避免遗失。\n\n这把剑上的名字属于白淞镇的一任镇长。"
+  },
+  "description": {
+    "ru": "Удобный режущий инструмент, который в наше время нигде не найти. Затупившиеся лезвия можно заменить.\n\n### История\nИнструмент, особенно распространённый в былые времена, когда Фонтейн в большей степени зависел от рабочей силы.\n\nХотя лезвие не выдерживает интенсивного использования в течение длительного времени, повреждённую и затупившуюся часть можно в любой момент заменить, что очень удобно.\n\nС помощью такого лезвия рабочие верфи разрезали тонкие материалы и развязывали узлы на канатах.\n\nХотя инструмент подлежал строгому учёту и формально не являлся собственностью того, кто им пользовался, в реальной жизни им торговали и обменивались, одно время он даже носил название «народный нож».\n\nЕго использовали для выживания в дикой местности, чтобы прорубать путь среди высоких трав и водорослей.\n\nЕсли верить легенде, во времена чистки многие люди нашли ему новое применение.\n\nПо мере развития общества и введения новых правил такой клинок постепенно вышел из употребления.\n\nХотя сам клинок не принадлежал тому, кто им пользовался, но каждый человек, которому он служил, считал его продолжением своего тела.\n\nИменно поэтому на рукоятке или на лезвии клинка нередко вырезано имя, чтобы человек мог вернуть себе клинок в случае потери.\n\nНа этом клинке вырезано имя одного из старост деревни Пуассон.",
+    "en": "A convenient cutting tool that you can rarely find nowadays. You can replace the blades as they are dulled by usage.\n\n### Story\nA once-popular tool during the days when Fontaine was more dependent on manual labor.\n\nThe blade might not have been strong enough for prolonged, intense use,\n\nBut it made up for this by allowing the blunt section to be broken off at the user's convenience.\n\nDock workers often used it to cut through thin materials and untie knotted cables.\n\nAlthough the use of this type of weapon was always heavily regulated and no blade never truly belonged to the user,\n\nIt was widely circulated under the tables, and was once hailed as the blade of the people.\n\nIt was perfect for self-preservation in less friendly natural environments, as well as for cutting paths through aquatic plants.\n\nLegend has it that many people also discovered new uses for it during the purge.\n\nAs society advanced and more regulations were put into place, this type of blade gradually ceased to appear in public.\n\nAlthough such blades were not owned by their wielders,\n\nThose who depended on them saw them as extensions of their limbs,\n\nAnd so they often inscribed their names onto the hilts and blades to avoid losing them.\n\nThe name inscribed on this blade belongs to one of Poisson's former mayors.",
+    "zh": "如今几乎绝迹的便利切割工具，能够随着使用将钝化的刀片换掉。\n\n### 故事\n在枫丹更加依赖劳力的时期流行的工具。\n\n尽管刀片强度不堪持续长久的剧烈使用，\n\n但折损钝化部分随时可以折去，很便利。\n\n船坞工人多用它来切割轻薄材料、解开虬结的缆索。\n\n虽说这类道具多受管制，也从不属于真正的使用者，\n\n但在账面下却有广泛的流通，一时被誉为民众之刃。\n\n为在贫瘠环境自保，也为在水草丛生之地开辟通路。\n\n传说在整肃的时代里，有不少人发现了它新的用法。\n\n后来这种剑随着进步与禁止退出了枫丹的历史舞台。\n\n虽说工具的所有权不归操使它的人所有，\n\n但仰赖它的人将其视为自身肢体的衍伸，\n\n因此常在手柄及申领的刀片上刻上名字，避免遗失。\n\n这把剑上的名字属于白淞镇的一任镇长。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

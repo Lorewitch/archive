@@ -1,0 +1,38 @@
+{
+  "id": "thrilling_tales_of_dragon_slayers",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/catalyst/thrilling_tales_of_dragon_slayers.png",
+  "title": {
+    "ru": "Эпос о драконоборцах",
+    "en": "Thrilling Tales of Dragon Slayers",
+    "zh": "讨龙英杰谭"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "катализатор"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Художественная история о пяти героях, собравшихся охотиться на дракона. Написано очень плохо, без какой-либо структуры. Суть книги в том, чтобы научить людей, как важно избегать ошибок.\n\n### История\nПятеро героев отправились в путешествие, чтобы убить злого дракона.\nМастер меча - ради чести;Мудрая волшебница - ради науки;Ловкий наёмник - ради награды;Меткий стрелок - ради мести;С ними эрудированный писатель - ради истории.\nЛотос исходит из моего рта, и на страницах распускаются цветы. Мои слова мудры и ясны, а мои мысли резки, как молния.\nЯ присоединился к этому отряду, потому что не мог найти достойную работу, а с канцелярской работой может справиться любой.\nНо я не писатель... Я обычный парень двадцати с лишним лет без честной работы.",
+    "en": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.\n\n### Story\nFive Heroes embarked on a journey to slay the evil dragon.\nFor honor, the master swordsman.\nFor research, the knowledgeable sorceress.\nFor bounty, the swashbuckling mercenary.\nFor vengeance, the deadeye marksman.\nFor stories, the grand novelist.\nA lotus proceeds from my mouth and flowers bloom on the page. My words are wise and clear and my thoughts are sharp like lightning.\nI joined this party because I couldn't find a job, and anybody can be a copywriter.\nBut I'm no writer, just a regular fellow in his mid twenties without an honest job.",
+    "zh": "五名英雄踏上屠龙征途的虚构故事。文笔很差，结构散乱。失败的教训是这本书所拥有的伟大力量。\n\n### 故事\n五英雄启程，踏上讨伐魔龙之路。\n擅长使剑的骑士，他是为了荣誉；\n手不释卷的法师，她是为了研究；\n刀舞如风的佣兵，他是为了赏金；\n百步穿杨的弓手，她是为了寻仇。\n还有博闻强记的作家，为了故事。\n我口吐白莲，妙笔生花。\n文章：冰雪聪明；\n思想：雷霆精锐。\n我加入队伍其实是因为找不到工作。\n是人都能胜任文案一职。\n其实我也不是作家，只是个二十过半没有正经工作的年轻人。"
+  },
+  "description": {
+    "ru": "Художественная история о пяти героях, собравшихся охотиться на дракона. Написано очень плохо, без какой-либо структуры. Суть книги в том, чтобы научить людей, как важно избегать ошибок.\n\n### История\nПятеро героев отправились в путешествие, чтобы убить злого дракона.\nМастер меча - ради чести;Мудрая волшебница - ради науки;Ловкий наёмник - ради награды;Меткий стрелок - ради мести;С ними эрудированный писатель - ради истории.\nЛотос исходит из моего рта, и на страницах распускаются цветы. Мои слова мудры и ясны, а мои мысли резки, как молния.\nЯ присоединился к этому отряду, потому что не мог найти достойную работу, а с канцелярской работой может справиться любой.\nНо я не писатель... Я обычный парень двадцати с лишним лет без честной работы.",
+    "en": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.\n\n### Story\nFive Heroes embarked on a journey to slay the evil dragon.\nFor honor, the master swordsman.\nFor research, the knowledgeable sorceress.\nFor bounty, the swashbuckling mercenary.\nFor vengeance, the deadeye marksman.\nFor stories, the grand novelist.\nA lotus proceeds from my mouth and flowers bloom on the page. My words are wise and clear and my thoughts are sharp like lightning.\nI joined this party because I couldn't find a job, and anybody can be a copywriter.\nBut I'm no writer, just a regular fellow in his mid twenties without an honest job.",
+    "zh": "五名英雄踏上屠龙征途的虚构故事。文笔很差，结构散乱。失败的教训是这本书所拥有的伟大力量。\n\n### 故事\n五英雄启程，踏上讨伐魔龙之路。\n擅长使剑的骑士，他是为了荣誉；\n手不释卷的法师，她是为了研究；\n刀舞如风的佣兵，他是为了赏金；\n百步穿杨的弓手，她是为了寻仇。\n还有博闻强记的作家，为了故事。\n我口吐白莲，妙笔生花。\n文章：冰雪聪明；\n思想：雷霆精锐。\n我加入队伍其实是因为找不到工作。\n是人都能胜任文案一职。\n其实我也不是作家，只是个二十过半没有正经工作的年轻人。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "catalyst",
+  "type": "catalyst"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "the_unforged",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/claymore/the_unforged.png",
+  "title": {
+    "ru": "Некованый",
+    "en": "The Unforged",
+    "zh": "无工之剑"
+  },
+  "region": "",
+  "rarity": 5,
+  "game_version": "1.1",
+  "tags": [
+    "оружие",
+    "двуручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Двуручный меч без острия, способный изгонять нечистую силу и карать предателей. Он будто наделён божественной силой.\n\n### История\nДавным-давно в Ли Юэ был дракон.\nНо не тот, который летает в облаках, а тот, который скрывается в горах.\nТо был древний каменный дракон, и тело его было что сами горы.\n\nГоворят, он крепко спал у Южных небесных врат, слившись со скалами.\nА когда просыпался и начинал потягиваться, то вся округа ходила ходуном.\nЧтобы усмирить землетрясения, Властелин Камня пошёл к дракону.\n\nГоворят, что землетрясения затихли на долгое время.\nА у Властелина Камня появился ещё один помощник.\n\nНо всё-таки, наверное, драконы несовместимы с людьми или божествами...\n\nДракона заперли в глубинах земли, где он, боясь гнева божеств, всё глубже зарывался, грохотал камнями и продолжал безобразничать.\nИ вот спустя тысячи лет дракон снова пробуждается...\n\nГоворят, что именно этим мечом герой одолел дракона.\nПоскольку это одна из печатей, монстры и предатели не могут прикоснуться к мечу.\nЕсли легенды не врут, то только человек с чистым сердцем может приблизиться к нему.\nЕсли легенды не врут, то почему этот меч вдруг нашёлся?..",
+    "en": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.\n\n### Story\nA long time ago, a dragon there was to be found in Liyue.\nNot a dragon that soared the skies, but one whose abode was the mountains.\nIndeed, this ancient dragon of stone was as large as the very mountains it called home.\nThe legends say that it slumbered in Nantianmen, seeming not at all unlike the surrounding hills.\nBut when it awakened, even the tiniest movement, or the slightest stretch...\nThat would cause the earth to tremble and shake.\nThen, Rex Lapis came before the dragon, seeking to stop the earth's quailing.\nThey say that for a long while, the land knew peace,\nAnd that Rex Lapis gained another comrade by his side.\nBut in the end, the union of dragons, gods and men was perhaps not to be...\nThe dragon was sealed in the bowels of the earth. Fearing the ire of the gods and the adepti,\nThe Geovishaps, who once heeded the trembling of the rock and wrought havoc alongside the dragon,\nFled into the roots of the mountains.\nBut as millennia passed, the dragon began to stir once again...\nThe legends hold that those who triumphed over the dragon stabbed this sword into the ground next to the giant tree that subdued the ancient dragon.\nAs one of the seals, monsters and malevolent mortals would be unable to touch it.\nIndeed, if the legends are true, only those with hearts as pure as clear mirrors could even come near it.\nYet, if those legends are true, how did this sword come to be lost?",
+    "zh": "能靖祛妖魔奸佞，仿佛有神威的无锋大剑。\n\n### 故事\n很久以前，璃月曾经有龙的身影。\n并非乘风翱翔天际的龙。\n而是踞身于山峦之中，身躯亦如山峦般庞大的悠古石龙。\n传说它曾沉睡在南天门一带，与群山混若一体。\n苏醒时，即使是微小的动作，或许只是伸懒腰，也会导致大地轰鸣颤抖。\n当时的岩君为了平息地动，来到了古龙的面前。\n传说大地平息了很长一段时间。\n而岩君的身边也多了一名伙伴。\n但在最后，龙与神、人或许最终还是不相容吧…\n龙被镇在大地深处后，畏怖着仙家与神的怒火，曾经聆听岩石间的震颤，一同作乱的岩之龙蜥，遁入了山间地底。\n但随着数千年的时光流转，龙蜥再次开始骚动…\n传说，胜者在镇压着古龙的巨木旁刺下这柄剑。\n作为封印之一，魔物或是奸佞的人皆无法触碰。\n如果传说属实，只有心澄如镜的人可以靠近它。\n如果传说属实的话，这把剑又为何不知所踪呢…"
+  },
+  "description": {
+    "ru": "Двуручный меч без острия, способный изгонять нечистую силу и карать предателей. Он будто наделён божественной силой.\n\n### История\nДавным-давно в Ли Юэ был дракон.\nНо не тот, который летает в облаках, а тот, который скрывается в горах.\nТо был древний каменный дракон, и тело его было что сами горы.\n\nГоворят, он крепко спал у Южных небесных врат, слившись со скалами.\nА когда просыпался и начинал потягиваться, то вся округа ходила ходуном.\nЧтобы усмирить землетрясения, Властелин Камня пошёл к дракону.\n\nГоворят, что землетрясения затихли на долгое время.\nА у Властелина Камня появился ещё один помощник.\n\nНо всё-таки, наверное, драконы несовместимы с людьми или божествами...\n\nДракона заперли в глубинах земли, где он, боясь гнева божеств, всё глубже зарывался, грохотал камнями и продолжал безобразничать.\nИ вот спустя тысячи лет дракон снова пробуждается...\n\nГоворят, что именно этим мечом герой одолел дракона.\nПоскольку это одна из печатей, монстры и предатели не могут прикоснуться к мечу.\nЕсли легенды не врут, то только человек с чистым сердцем может приблизиться к нему.\nЕсли легенды не врут, то почему этот меч вдруг нашёлся?..",
+    "en": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.\n\n### Story\nA long time ago, a dragon there was to be found in Liyue.\nNot a dragon that soared the skies, but one whose abode was the mountains.\nIndeed, this ancient dragon of stone was as large as the very mountains it called home.\nThe legends say that it slumbered in Nantianmen, seeming not at all unlike the surrounding hills.\nBut when it awakened, even the tiniest movement, or the slightest stretch...\nThat would cause the earth to tremble and shake.\nThen, Rex Lapis came before the dragon, seeking to stop the earth's quailing.\nThey say that for a long while, the land knew peace,\nAnd that Rex Lapis gained another comrade by his side.\nBut in the end, the union of dragons, gods and men was perhaps not to be...\nThe dragon was sealed in the bowels of the earth. Fearing the ire of the gods and the adepti,\nThe Geovishaps, who once heeded the trembling of the rock and wrought havoc alongside the dragon,\nFled into the roots of the mountains.\nBut as millennia passed, the dragon began to stir once again...\nThe legends hold that those who triumphed over the dragon stabbed this sword into the ground next to the giant tree that subdued the ancient dragon.\nAs one of the seals, monsters and malevolent mortals would be unable to touch it.\nIndeed, if the legends are true, only those with hearts as pure as clear mirrors could even come near it.\nYet, if those legends are true, how did this sword come to be lost?",
+    "zh": "能靖祛妖魔奸佞，仿佛有神威的无锋大剑。\n\n### 故事\n很久以前，璃月曾经有龙的身影。\n并非乘风翱翔天际的龙。\n而是踞身于山峦之中，身躯亦如山峦般庞大的悠古石龙。\n传说它曾沉睡在南天门一带，与群山混若一体。\n苏醒时，即使是微小的动作，或许只是伸懒腰，也会导致大地轰鸣颤抖。\n当时的岩君为了平息地动，来到了古龙的面前。\n传说大地平息了很长一段时间。\n而岩君的身边也多了一名伙伴。\n但在最后，龙与神、人或许最终还是不相容吧…\n龙被镇在大地深处后，畏怖着仙家与神的怒火，曾经聆听岩石间的震颤，一同作乱的岩之龙蜥，遁入了山间地底。\n但随着数千年的时光流转，龙蜥再次开始骚动…\n传说，胜者在镇压着古龙的巨木旁刺下这柄剑。\n作为封印之一，魔物或是奸佞的人皆无法触碰。\n如果传说属实，只有心澄如镜的人可以靠近它。\n如果传说属实的话，这把剑又为何不知所踪呢…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "claymore",
+  "type": "claymore"
+}

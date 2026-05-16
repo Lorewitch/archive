@@ -1,0 +1,38 @@
+{
+  "id": "royal_grimoire",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/catalyst/royal_grimoire.png",
+  "title": {
+    "ru": "Королевский гримуар",
+    "en": "Royal Grimoire",
+    "zh": "宗室秘法录"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "катализатор"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Книга, когда-то принадлежавшая королевскому магу Мондштадта. Содержит подробные исторические данные и заклинания.\n\n### История\nАккуратный свиток, покрытый воском во избежание тления и механических повреждений. Свиток хранит исследования королевских магов. Исследования, которые опередили своё время.\nВ обязанности королевских магов, помимо защиты от монстров, входил надзор за водами и почвами. Также маги занимались воспитанием юных аристократов.\nВ связи с этим в свитке можно найти множество подробностей об истории, культуре и особенностях правления королевства. После того как народ сверг королевскую власть, магов изгнали из города.\nИбо маги пренебрегали своими обязательствами служить моральным камертоном для аристократов.\nНа заре Мондштадта во главе клана Лоуренс стояла Венераре.\nПод её руководством народ воздвиг на городской площади гигантскую статую, чествующую явление Анемо Архонта.\nНадпись под статуей сделана главой всех кланов. Эту клятву давали все защитники города.\nНо спустя годы клан Лоуренс отступился от обещаний, данных предками, и статую свергли с постамента.\nМудрые придворные маги перестали упоминать клятву...\nВ эпоху рыцарей Ордо Фавониус статуя была восстановлена.\nНо слова клятвы забыты теперь навеки.",
+    "en": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.\n\n### Story\nA delicate scroll treated with wax to prevent decay and moth damage.\nIt contains the research of royal mages — research which is still rather forward-looking to this day.\nThe royal mages were tasked with nourishing the water and soil as well as fighting off monsters. They also served as tutors for the nobles.\nTherefore, the scroll contains a wealth of information regarding history, governance, management, and culture.\nWhen the people overthrew the royals, they exiled the royal mages at the same time,\nFor the mages had forsaken their responsibility to instill goodness and virtue in the nobles, instead becoming birds of a feather with them.\nIn the early days of Mondstadt, the Lawrence Clan was led by Venerare.\nUnder her guidance, the people built a tall statue in the plaza to commemorate the miracle of the Anemo Archon's descent.\nThe inscription beneath the statue was put there by the leader of all the clans. It bore an oath of protection to Mondstadt that they had sworn.\nOver the years, the Lawrence Clan forsook the noble aspirations of their forebears, and the statue was taken down.\nThe wise mages of the court spoke neither of history nor of the oath ever again.\nIn the age of the Knights of Favonius, the statue was rebuilt.\nBut the wording of the oath on the inscription was lost forever.",
+    "zh": "属于曾支配蒙德的贵族麾下的宫廷魔导师，其中记载的史话与法术同样翔实。\n\n### 故事\n精美的书卷。\n用蜡处理过，经历了岁月而不受腐蚀与虫蛀。\n记载了宫廷魔导师的法术研究。\n许多内容今日仍有前瞻性。\n宫廷魔导师肩担调理地方水土、摒退魔物侵扰的责任之余，本身也是贵族的教师。\n卷中因此记载了相当多的历史、治理、管理、文化的知识。\n因此，在人们推翻贵族统治后，也将宫廷魔导师驱离蒙德，是因为他们忘记了引导贵族们向善的责任，反而沆瀣一氣。\n蒙德城建立之初，劳伦斯一族主母梵尼拉睿带领人们，在广场上修筑了高大的造像，来感念风神降下的奇迹。\n神像下的铭文则是过去带领各部族的领袖共同立下的，永护蒙德的誓言。\n多年里，劳伦斯一族渐渐背弃了先祖当初良善的宏愿，神像也被推翻了。\n而贤明的宫廷魔导师们，从此不再提及那历史与誓言。\n西风骑士团时代里，这座神像得到重建。\n但铭文上的誓言内容已经被永远遗忘了。"
+  },
+  "description": {
+    "ru": "Книга, когда-то принадлежавшая королевскому магу Мондштадта. Содержит подробные исторические данные и заклинания.\n\n### История\nАккуратный свиток, покрытый воском во избежание тления и механических повреждений. Свиток хранит исследования королевских магов. Исследования, которые опередили своё время.\nВ обязанности королевских магов, помимо защиты от монстров, входил надзор за водами и почвами. Также маги занимались воспитанием юных аристократов.\nВ связи с этим в свитке можно найти множество подробностей об истории, культуре и особенностях правления королевства. После того как народ сверг королевскую власть, магов изгнали из города.\nИбо маги пренебрегали своими обязательствами служить моральным камертоном для аристократов.\nНа заре Мондштадта во главе клана Лоуренс стояла Венераре.\nПод её руководством народ воздвиг на городской площади гигантскую статую, чествующую явление Анемо Архонта.\nНадпись под статуей сделана главой всех кланов. Эту клятву давали все защитники города.\nНо спустя годы клан Лоуренс отступился от обещаний, данных предками, и статую свергли с постамента.\nМудрые придворные маги перестали упоминать клятву...\nВ эпоху рыцарей Ордо Фавониус статуя была восстановлена.\nНо слова клятвы забыты теперь навеки.",
+    "en": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.\n\n### Story\nA delicate scroll treated with wax to prevent decay and moth damage.\nIt contains the research of royal mages — research which is still rather forward-looking to this day.\nThe royal mages were tasked with nourishing the water and soil as well as fighting off monsters. They also served as tutors for the nobles.\nTherefore, the scroll contains a wealth of information regarding history, governance, management, and culture.\nWhen the people overthrew the royals, they exiled the royal mages at the same time,\nFor the mages had forsaken their responsibility to instill goodness and virtue in the nobles, instead becoming birds of a feather with them.\nIn the early days of Mondstadt, the Lawrence Clan was led by Venerare.\nUnder her guidance, the people built a tall statue in the plaza to commemorate the miracle of the Anemo Archon's descent.\nThe inscription beneath the statue was put there by the leader of all the clans. It bore an oath of protection to Mondstadt that they had sworn.\nOver the years, the Lawrence Clan forsook the noble aspirations of their forebears, and the statue was taken down.\nThe wise mages of the court spoke neither of history nor of the oath ever again.\nIn the age of the Knights of Favonius, the statue was rebuilt.\nBut the wording of the oath on the inscription was lost forever.",
+    "zh": "属于曾支配蒙德的贵族麾下的宫廷魔导师，其中记载的史话与法术同样翔实。\n\n### 故事\n精美的书卷。\n用蜡处理过，经历了岁月而不受腐蚀与虫蛀。\n记载了宫廷魔导师的法术研究。\n许多内容今日仍有前瞻性。\n宫廷魔导师肩担调理地方水土、摒退魔物侵扰的责任之余，本身也是贵族的教师。\n卷中因此记载了相当多的历史、治理、管理、文化的知识。\n因此，在人们推翻贵族统治后，也将宫廷魔导师驱离蒙德，是因为他们忘记了引导贵族们向善的责任，反而沆瀣一氣。\n蒙德城建立之初，劳伦斯一族主母梵尼拉睿带领人们，在广场上修筑了高大的造像，来感念风神降下的奇迹。\n神像下的铭文则是过去带领各部族的领袖共同立下的，永护蒙德的誓言。\n多年里，劳伦斯一族渐渐背弃了先祖当初良善的宏愿，神像也被推翻了。\n而贤明的宫廷魔导师们，从此不再提及那历史与誓言。\n西风骑士团时代里，这座神像得到重建。\n但铭文上的誓言内容已经被永远遗忘了。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "catalyst",
+  "type": "catalyst"
+}

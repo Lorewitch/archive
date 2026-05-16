@@ -1,0 +1,38 @@
+{
+  "id": "skyrider_greatsword",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/claymore/skyrider_greatsword.png",
+  "title": {
+    "ru": "Большой меч небесного всадника",
+    "en": "Skyrider Greatsword",
+    "zh": "飞天大御剑"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "двуручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Надёжный стальной меч. Однажды некто пытался заставить его летать... снова.\n\n### История\nПотерпевший поражение Небесный Всадник понял, что не всё решается фехтовальным искусством.\nПоэтому, вместо того, чтобы слепо верить в свое фехтовальное мастерство, он обратился к самому мечу.«Чем больше, тем лучше. С мечами это тоже работает,» - рассуждал он.\nВ великом каменном лесу Гуюнь Небесный Всадник встретил свой великий конец.\nЕго мечта о полёте завершилась, но ни его меч, ни его история никогда не будут забыты...",
+    "en": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.\n\n### Story\nFeeling defeated, it dawned on the Skyrider that there are things that swordsmanship cannot achieve.\nSo instead of believing in his swordsmanship, he turned to the sword itself.\n\"Bigger is always better, and swords are no exception,\" he thought.\nIn the grand Guyun Stone Forest, he embraced his grand ending.\nHis dream of flight came to an end, but his sword and story would never fade...",
+    "zh": "可靠的大剑。传说著名的「御剑公子」曾试图借助它二度飞天。\n\n### 故事\n大受挫折的御剑公子明白剑术是无法实现一些事的，于是他从剑本身着手，而不盲信于自己的高超剑术。\n「大就是好。\n所以，剑越大越好。」\n他这么想道——在壮绝的孤云阁，公子迎来了壮绝的结局。\n飞天之旅终于告终，但他的剑与故事永远流传……\n？"
+  },
+  "description": {
+    "ru": "Надёжный стальной меч. Однажды некто пытался заставить его летать... снова.\n\n### История\nПотерпевший поражение Небесный Всадник понял, что не всё решается фехтовальным искусством.\nПоэтому, вместо того, чтобы слепо верить в свое фехтовальное мастерство, он обратился к самому мечу.«Чем больше, тем лучше. С мечами это тоже работает,» - рассуждал он.\nВ великом каменном лесу Гуюнь Небесный Всадник встретил свой великий конец.\nЕго мечта о полёте завершилась, но ни его меч, ни его история никогда не будут забыты...",
+    "en": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.\n\n### Story\nFeeling defeated, it dawned on the Skyrider that there are things that swordsmanship cannot achieve.\nSo instead of believing in his swordsmanship, he turned to the sword itself.\n\"Bigger is always better, and swords are no exception,\" he thought.\nIn the grand Guyun Stone Forest, he embraced his grand ending.\nHis dream of flight came to an end, but his sword and story would never fade...",
+    "zh": "可靠的大剑。传说著名的「御剑公子」曾试图借助它二度飞天。\n\n### 故事\n大受挫折的御剑公子明白剑术是无法实现一些事的，于是他从剑本身着手，而不盲信于自己的高超剑术。\n「大就是好。\n所以，剑越大越好。」\n他这么想道——在壮绝的孤云阁，公子迎来了壮绝的结局。\n飞天之旅终于告终，但他的剑与故事永远流传……\n？"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "claymore",
+  "type": "claymore"
+}
