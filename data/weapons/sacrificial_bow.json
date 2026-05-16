@@ -1,7 +1,7 @@
 {
   "id": "sacrificial_bow",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/sacrificial_bow.png",
+  "icon": "assets/icons/weapons/bow/sacrificial_bow.webp",
   "title": {
     "ru": "Церемониальный лук",
     "en": "Sacrificial Bow",

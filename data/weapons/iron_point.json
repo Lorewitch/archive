@@ -1,7 +1,7 @@
 {
   "id": "iron_point",
   "category": "weapons",
-  "icon": "assets/icons/weapons/polearm/iron_point.png",
+  "icon": "assets/icons/weapons/polearm/iron_point.webp",
   "title": {
     "ru": "Железный наконечник",
     "en": "Iron Point",

@@ -1,7 +1,7 @@
 {
   "id": "portable_power_saw",
   "category": "weapons",
-  "icon": "assets/icons/weapons/claymore/portable_power_saw.png",
+  "icon": "assets/icons/weapons/claymore/portable_power_saw.webp",
   "title": {
     "ru": "Переносная мотопила",
     "en": "Portable Power Saw",

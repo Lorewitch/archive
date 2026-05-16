@@ -1,7 +1,7 @@
 {
   "id": "range_gauge",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/range_gauge.png",
+  "icon": "assets/icons/weapons/bow/range_gauge.webp",
   "title": {
     "ru": "Дальномер",
     "en": "Range Gauge",

@@ -1,7 +1,7 @@
 {
   "id": "dull_blade",
   "category": "weapons",
-  "icon": "assets/icons/weapons/sword/dull_blade.png",
+  "icon": "assets/icons/weapons/sword/dull_blade.webp",
   "title": {
     "ru": "Тупой меч",
     "en": "Dull Blade",

@@ -1,7 +1,7 @@
 {
   "id": "lions_roar",
   "category": "weapons",
-  "icon": "assets/icons/weapons/sword/lions_roar.png",
+  "icon": "assets/icons/weapons/sword/lions_roar.webp",
   "title": {
     "ru": "Драконий рык",
     "en": "Lion's Roar",

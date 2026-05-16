@@ -1,7 +1,7 @@
 {
   "id": "compound_bow",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/compound_bow.png",
+  "icon": "assets/icons/weapons/bow/compound_bow.webp",
   "title": {
     "ru": "Составной лук",
     "en": "Compound Bow",

@@ -1,7 +1,7 @@
 {
   "id": "amos_bow",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/amos_bow.png",
+  "icon": "assets/icons/weapons/bow/amos_bow.webp",
   "title": {
     "ru": "Лук Амоса",
     "en": "Amos' Bow",

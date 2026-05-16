@@ -1,7 +1,7 @@
 {
   "id": "royal_longsword",
   "category": "weapons",
-  "icon": "assets/icons/weapons/sword/royal_longsword.png",
+  "icon": "assets/icons/weapons/sword/royal_longsword.webp",
   "title": {
     "ru": "Меч аристократов",
     "en": "Royal Longsword",

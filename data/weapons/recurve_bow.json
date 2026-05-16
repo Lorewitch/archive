@@ -1,7 +1,7 @@
 {
   "id": "recurve_bow",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/recurve_bow.png",
+  "icon": "assets/icons/weapons/bow/recurve_bow.webp",
   "title": {
     "ru": "Изогнутый лук",
     "en": "Recurve Bow",

@@ -1,7 +1,7 @@
 {
   "id": "predator",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/predator.png",
+  "icon": "assets/icons/weapons/bow/predator.webp",
   "title": {
     "ru": "Хищник",
     "en": "Predator",

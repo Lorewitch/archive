@@ -1,7 +1,7 @@
 {
   "id": "talking_stick",
   "category": "weapons",
-  "icon": "assets/icons/weapons/claymore/talking_stick.png",
+  "icon": "assets/icons/weapons/claymore/talking_stick.webp",
   "title": {
     "ru": "Говорящая палица",
     "en": "Talking Stick",

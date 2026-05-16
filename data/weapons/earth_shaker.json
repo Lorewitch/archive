@@ -1,7 +1,7 @@
 {
   "id": "earth_shaker",
   "category": "weapons",
-  "icon": "assets/icons/weapons/claymore/earth_shaker.png",
+  "icon": "assets/icons/weapons/claymore/earth_shaker.webp",
   "title": {
     "ru": "Сотрясающий землю",
     "en": "Earth Shaker",

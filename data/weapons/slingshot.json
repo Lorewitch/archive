@@ -1,7 +1,7 @@
 {
   "id": "slingshot",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/slingshot.png",
+  "icon": "assets/icons/weapons/bow/slingshot.webp",
   "title": {
     "ru": "Рогатка",
     "en": "Slingshot",

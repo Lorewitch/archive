@@ -1,7 +1,7 @@
 {
   "id": "halberd",
   "category": "weapons",
-  "icon": "assets/icons/weapons/polearm/halberd.png",
+  "icon": "assets/icons/weapons/polearm/halberd.webp",
   "title": {
     "ru": "Алебарда Миллелита",
     "en": "Halberd",

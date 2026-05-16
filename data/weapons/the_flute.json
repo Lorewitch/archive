@@ -1,7 +1,7 @@
 {
   "id": "the_flute",
   "category": "weapons",
-  "icon": "assets/icons/weapons/sword/the_flute.png",
+  "icon": "assets/icons/weapons/sword/the_flute.webp",
   "title": {
     "ru": "Меч-флейта",
     "en": "The Flute",

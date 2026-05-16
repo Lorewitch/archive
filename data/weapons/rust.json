@@ -1,7 +1,7 @@
 {
   "id": "rust",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/rust.png",
+  "icon": "assets/icons/weapons/bow/rust.webp",
   "title": {
     "ru": "Ржавый лук",
     "en": "Rust",

@@ -1,7 +1,7 @@
 {
   "id": "magic_guide",
   "category": "weapons",
-  "icon": "assets/icons/weapons/catalyst/magic_guide.png",
+  "icon": "assets/icons/weapons/catalyst/magic_guide.webp",
   "title": {
     "ru": "Руководство по магии",
     "en": "Magic Guide",

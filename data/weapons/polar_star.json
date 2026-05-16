@@ -1,7 +1,7 @@
 {
   "id": "polar_star",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/polar_star.png",
+  "icon": "assets/icons/weapons/bow/polar_star.webp",
   "title": {
     "ru": "Полярная звезда",
     "en": "Polar Star",

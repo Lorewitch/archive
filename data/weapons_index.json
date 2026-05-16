@@ -27,7 +27,7 @@
   {
     "id": "alley_hunter",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/alley_hunter.png",
+    "icon": "assets/icons/weapons/bow/alley_hunter.webp",
     "title": {
       "ru": "Охотник во тьме",
       "en": "Alley Hunter",
@@ -51,7 +51,7 @@
   {
     "id": "amos_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/amos_bow.png",
+    "icon": "assets/icons/weapons/bow/amos_bow.webp",
     "title": {
       "ru": "Лук Амоса",
       "en": "Amos' Bow",
@@ -75,7 +75,7 @@
   {
     "id": "aqua_simulacra",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/aqua_simulacra.png",
+    "icon": "assets/icons/weapons/bow/aqua_simulacra.webp",
     "title": {
       "ru": "Аква симулякрум",
       "en": "Aqua Simulacra",
@@ -99,7 +99,7 @@
   {
     "id": "astral_vultures_crimson_plumage",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/astral_vultures_crimson_plumage.png",
+    "icon": "assets/icons/weapons/bow/astral_vultures_crimson_plumage.webp",
     "title": {
       "ru": "Алое перо звёздного грифа",
       "en": "Astral Vulture's Crimson Plumage",
@@ -123,7 +123,7 @@
   {
     "id": "blackcliff_warbow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/blackcliff_warbow.png",
+    "icon": "assets/icons/weapons/bow/blackcliff_warbow.webp",
     "title": {
       "ru": "Черногорский боевой лук",
       "en": "Blackcliff Warbow",
@@ -147,7 +147,7 @@
   {
     "id": "chain_breaker",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/chain_breaker.png",
+    "icon": "assets/icons/weapons/bow/chain_breaker.webp",
     "title": {
       "ru": "Разбивающий цепи",
       "en": "Chain Breaker",
@@ -171,7 +171,7 @@
   {
     "id": "cloudforged",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/cloudforged.png",
+    "icon": "assets/icons/weapons/bow/cloudforged.webp",
     "title": {
       "ru": "Выкованный из облаков",
       "en": "Cloudforged",
@@ -195,7 +195,7 @@
   {
     "id": "compound_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/compound_bow.png",
+    "icon": "assets/icons/weapons/bow/compound_bow.webp",
     "title": {
       "ru": "Составной лук",
       "en": "Compound Bow",
@@ -219,7 +219,7 @@
   {
     "id": "elegy_for_the_end",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/elegy_for_the_end.png",
+    "icon": "assets/icons/weapons/bow/elegy_for_the_end.webp",
     "title": {
       "ru": "Элегия погибели",
       "en": "Elegy for the End",
@@ -243,7 +243,7 @@
   {
     "id": "end_of_the_line",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/end_of_the_line.png",
+    "icon": "assets/icons/weapons/bow/end_of_the_line.webp",
     "title": {
       "ru": "Иссушитель",
       "en": "End of the Line",
@@ -267,7 +267,7 @@
   {
     "id": "fading_twilight",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/fading_twilight.png",
+    "icon": "assets/icons/weapons/bow/fading_twilight.webp",
     "title": {
       "ru": "Гаснущие сумерки",
       "en": "Fading Twilight",
@@ -291,7 +291,7 @@
   {
     "id": "favonius_warbow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/favonius_warbow.png",
+    "icon": "assets/icons/weapons/bow/favonius_warbow.webp",
     "title": {
       "ru": "Боевой лук Фавония",
       "en": "Favonius Warbow",
@@ -315,7 +315,7 @@
   {
     "id": "flower_wreathed_feathers",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/flower_wreathed_feathers.png",
+    "icon": "assets/icons/weapons/bow/flower_wreathed_feathers.webp",
     "title": {
       "ru": "Украшенные цветами перья",
       "en": "Flower-Wreathed Feathers",
@@ -339,7 +339,7 @@
   {
     "id": "hamayumi",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/hamayumi.png",
+    "icon": "assets/icons/weapons/bow/hamayumi.webp",
     "title": {
       "ru": "Хамаюми",
       "en": "Hamayumi",
@@ -363,7 +363,7 @@
   {
     "id": "hunters_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/hunters_bow.png",
+    "icon": "assets/icons/weapons/bow/hunters_bow.webp",
     "title": {
       "ru": "Лук охотника",
       "en": "Hunter's Bow",
@@ -387,7 +387,7 @@
   {
     "id": "hunters_path",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/hunters_path.png",
+    "icon": "assets/icons/weapons/bow/hunters_path.webp",
     "title": {
       "ru": "Охотничья тропа",
       "en": "Hunter's Path",
@@ -411,7 +411,7 @@
   {
     "id": "ibis_piercer",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/ibis_piercer.png",
+    "icon": "assets/icons/weapons/bow/ibis_piercer.webp",
     "title": {
       "ru": "Клюв ибиса",
       "en": "Ibis Piercer",
@@ -435,7 +435,7 @@
   {
     "id": "kings_squire",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/kings_squire.png",
+    "icon": "assets/icons/weapons/bow/kings_squire.webp",
     "title": {
       "ru": "Приближённый короля",
       "en": "King's Squire",
@@ -459,7 +459,7 @@
   {
     "id": "messenger",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/messenger.png",
+    "icon": "assets/icons/weapons/bow/messenger.webp",
     "title": {
       "ru": "Посыльный",
       "en": "Messenger",
@@ -483,7 +483,7 @@
   {
     "id": "mitternachts_waltz",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/mitternachts_waltz.png",
+    "icon": "assets/icons/weapons/bow/mitternachts_waltz.webp",
     "title": {
       "ru": "Вальс Нирваны Ночи",
       "en": "Mitternachts Waltz",
@@ -507,7 +507,7 @@
   {
     "id": "mouuns_moon",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/mouuns_moon.png",
+    "icon": "assets/icons/weapons/bow/mouuns_moon.webp",
     "title": {
       "ru": "Луна Моун",
       "en": "Mouun's Moon",
@@ -531,7 +531,7 @@
   {
     "id": "polar_star",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/polar_star.png",
+    "icon": "assets/icons/weapons/bow/polar_star.webp",
     "title": {
       "ru": "Полярная звезда",
       "en": "Polar Star",
@@ -555,7 +555,7 @@
   {
     "id": "predator",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/predator.png",
+    "icon": "assets/icons/weapons/bow/predator.webp",
     "title": {
       "ru": "Хищник",
       "en": "Predator",
@@ -579,7 +579,7 @@
   {
     "id": "prototype_crescent",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/prototype_crescent.png",
+    "icon": "assets/icons/weapons/bow/prototype_crescent.webp",
     "title": {
       "ru": "Прототип: Полумесяц",
       "en": "Prototype Crescent",
@@ -603,7 +603,7 @@
   {
     "id": "rainbow_serpents_rain_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/rainbow_serpents_rain_bow.png",
+    "icon": "assets/icons/weapons/bow/rainbow_serpents_rain_bow.webp",
     "title": {
       "ru": "Струны дождя радужного змея",
       "en": "Rainbow Serpent's Rain Bow",
@@ -627,7 +627,7 @@
   {
     "id": "range_gauge",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/range_gauge.png",
+    "icon": "assets/icons/weapons/bow/range_gauge.webp",
     "title": {
       "ru": "Дальномер",
       "en": "Range Gauge",
@@ -651,7 +651,7 @@
   {
     "id": "raven_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/raven_bow.png",
+    "icon": "assets/icons/weapons/bow/raven_bow.webp",
     "title": {
       "ru": "Лук ворона",
       "en": "Raven Bow",
@@ -675,7 +675,7 @@
   {
     "id": "recurve_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/recurve_bow.png",
+    "icon": "assets/icons/weapons/bow/recurve_bow.webp",
     "title": {
       "ru": "Изогнутый лук",
       "en": "Recurve Bow",
@@ -699,7 +699,7 @@
   {
     "id": "royal_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/royal_bow.png",
+    "icon": "assets/icons/weapons/bow/royal_bow.webp",
     "title": {
       "ru": "Королевский лук",
       "en": "Royal Bow",
@@ -723,7 +723,7 @@
   {
     "id": "rust",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/rust.png",
+    "icon": "assets/icons/weapons/bow/rust.webp",
     "title": {
       "ru": "Ржавый лук",
       "en": "Rust",
@@ -747,7 +747,7 @@
   {
     "id": "sacrificial_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/sacrificial_bow.png",
+    "icon": "assets/icons/weapons/bow/sacrificial_bow.webp",
     "title": {
       "ru": "Церемониальный лук",
       "en": "Sacrificial Bow",
@@ -771,7 +771,7 @@
   {
     "id": "scion_of_the_blazing_sun",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/scion_of_the_blazing_sun.png",
+    "icon": "assets/icons/weapons/bow/scion_of_the_blazing_sun.webp",
     "title": {
       "ru": "Наследник слепящего солнца",
       "en": "Scion of the Blazing Sun",
@@ -795,7 +795,7 @@
   {
     "id": "seasoned_hunters_bow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/seasoned_hunters_bow.png",
+    "icon": "assets/icons/weapons/bow/seasoned_hunters_bow.webp",
     "title": {
       "ru": "Лук опытного охотника",
       "en": "Seasoned Hunter's Bow",
@@ -819,7 +819,7 @@
   {
     "id": "sequence_of_solitude",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/sequence_of_solitude.png",
+    "icon": "assets/icons/weapons/bow/sequence_of_solitude.webp",
     "title": {
       "ru": "Каденция одиночества",
       "en": "Sequence of Solitude",
@@ -843,7 +843,7 @@
   {
     "id": "sharpshooters_oath",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/sharpshooters_oath.png",
+    "icon": "assets/icons/weapons/bow/sharpshooters_oath.webp",
     "title": {
       "ru": "Клятва стрелка",
       "en": "Sharpshooter's Oath",
@@ -867,7 +867,7 @@
   {
     "id": "silvershower_heartstrings",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/silvershower_heartstrings.png",
+    "icon": "assets/icons/weapons/bow/silvershower_heartstrings.webp",
     "title": {
       "ru": "Сердечные струны дождя",
       "en": "Silvershower Heartstrings",
@@ -891,7 +891,7 @@
   {
     "id": "skyward_harp",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/skyward_harp.png",
+    "icon": "assets/icons/weapons/bow/skyward_harp.webp",
     "title": {
       "ru": "Небесное крыло",
       "en": "Skyward Harp",
@@ -915,7 +915,7 @@
   {
     "id": "slingshot",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/slingshot.png",
+    "icon": "assets/icons/weapons/bow/slingshot.webp",
     "title": {
       "ru": "Рогатка",
       "en": "Slingshot",
@@ -939,7 +939,7 @@
   {
     "id": "snare_hook",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/snare_hook.png",
+    "icon": "assets/icons/weapons/bow/snare_hook.webp",
     "title": {
       "ru": "Крюк силка",
       "en": "Snare Hook",
@@ -963,7 +963,7 @@
   {
     "id": "song_of_stillness",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/song_of_stillness.png",
+    "icon": "assets/icons/weapons/bow/song_of_stillness.webp",
     "title": {
       "ru": "Мелодия покоя",
       "en": "Song of Stillness",
@@ -987,7 +987,7 @@
   {
     "id": "the_daybreak_chronicles",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/the_daybreak_chronicles.png",
+    "icon": "assets/icons/weapons/bow/the_daybreak_chronicles.webp",
     "title": {
       "ru": "Хроники рассвета",
       "en": "The Daybreak Chronicles",
@@ -1011,7 +1011,7 @@
   {
     "id": "the_first_great_magic",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/the_first_great_magic.png",
+    "icon": "assets/icons/weapons/bow/the_first_great_magic.webp",
     "title": {
       "ru": "Первый великий фокус",
       "en": "The First Great Magic",
@@ -1035,7 +1035,7 @@
   {
     "id": "the_stringless",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/the_stringless.png",
+    "icon": "assets/icons/weapons/bow/the_stringless.webp",
     "title": {
       "ru": "Бесструнный",
       "en": "The Stringless",
@@ -1059,7 +1059,7 @@
   {
     "id": "the_viridescent_hunt",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/the_viridescent_hunt.png",
+    "icon": "assets/icons/weapons/bow/the_viridescent_hunt.webp",
     "title": {
       "ru": "Зелёный лук",
       "en": "The Viridescent Hunt",
@@ -1083,7 +1083,7 @@
   {
     "id": "thundering_pulse",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/thundering_pulse.png",
+    "icon": "assets/icons/weapons/bow/thundering_pulse.webp",
     "title": {
       "ru": "Громовой пульс",
       "en": "Thundering Pulse",
@@ -1107,7 +1107,7 @@
   {
     "id": "windblume_ode",
     "category": "weapons",
-    "icon": "assets/icons/weapons/bow/windblume_ode.png",
+    "icon": "assets/icons/weapons/bow/windblume_ode.webp",
     "title": {
       "ru": "Ода анемонии",
       "en": "Windblume Ode",
@@ -1131,7 +1131,7 @@
   {
     "id": "a_thousand_floating_dreams",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/a_thousand_floating_dreams.png",
+    "icon": "assets/icons/weapons/catalyst/a_thousand_floating_dreams.webp",
     "title": {
       "ru": "Сновидения тысячи ночей",
       "en": "A Thousand Floating Dreams",
@@ -1155,7 +1155,7 @@
   {
     "id": "apprentices_notes",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/apprentices_notes.png",
+    "icon": "assets/icons/weapons/catalyst/apprentices_notes.webp",
     "title": {
       "ru": "Записи ученика",
       "en": "Apprentice's Notes",
@@ -1179,7 +1179,7 @@
   {
     "id": "ash_graven_drinking_horn",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/ash_graven_drinking_horn.png",
+    "icon": "assets/icons/weapons/catalyst/ash_graven_drinking_horn.webp",
     "title": {
       "ru": "Пепельный рог",
       "en": "Ash-Graven Drinking Horn",
@@ -1203,7 +1203,7 @@
   {
     "id": "ballad_of_the_boundless_blue",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/ballad_of_the_boundless_blue.png",
+    "icon": "assets/icons/weapons/catalyst/ballad_of_the_boundless_blue.webp",
     "title": {
       "ru": "Песнь необъятной лазури",
       "en": "Ballad of the Boundless Blue",
@@ -1227,7 +1227,7 @@
   {
     "id": "blackcliff_agate",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/blackcliff_agate.png",
+    "icon": "assets/icons/weapons/catalyst/blackcliff_agate.webp",
     "title": {
       "ru": "Черногорский агат",
       "en": "Blackcliff Agate",
@@ -1251,7 +1251,7 @@
   {
     "id": "blackmarrow_lantern",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/blackmarrow_lantern.png",
+    "icon": "assets/icons/weapons/catalyst/blackmarrow_lantern.webp",
     "title": {
       "ru": "Фонарь чёрной сердцевины",
       "en": "Blackmarrow Lantern",
@@ -1275,7 +1275,7 @@
   {
     "id": "cashflow_supervision",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/cashflow_supervision.png",
+    "icon": "assets/icons/weapons/catalyst/cashflow_supervision.webp",
     "title": {
       "ru": "Казначейский надзор",
       "en": "Cashflow Supervision",
@@ -1299,7 +1299,7 @@
   {
     "id": "cranes_echoing_call",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/cranes_echoing_call.png",
+    "icon": "assets/icons/weapons/catalyst/cranes_echoing_call.webp",
     "title": {
       "ru": "Звонкий клич журавля",
       "en": "Crane's Echoing Call",
@@ -1323,7 +1323,7 @@
   {
     "id": "dawning_frost",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/dawning_frost.png",
+    "icon": "assets/icons/weapons/catalyst/dawning_frost.webp",
     "title": {
       "ru": "Рассветный иней",
       "en": "Dawning Frost",
@@ -1347,7 +1347,7 @@
   {
     "id": "dodoco_tales",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/dodoco_tales.png",
+    "icon": "assets/icons/weapons/catalyst/dodoco_tales.webp",
     "title": {
       "ru": "Истории Додоко",
       "en": "Dodoco Tales",
@@ -1371,7 +1371,7 @@
   {
     "id": "emerald_orb",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/emerald_orb.png",
+    "icon": "assets/icons/weapons/catalyst/emerald_orb.webp",
     "title": {
       "ru": "Изумрудный шар",
       "en": "Emerald Orb",
@@ -1395,7 +1395,7 @@
   {
     "id": "etherlight_spindlelute",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/etherlight_spindlelute.png",
+    "icon": "assets/icons/weapons/catalyst/etherlight_spindlelute.webp",
     "title": {
       "ru": "Лютня ткача света",
       "en": "Etherlight Spindlelute",
@@ -1419,7 +1419,7 @@
   {
     "id": "everlasting_moonglow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/everlasting_moonglow.png",
+    "icon": "assets/icons/weapons/catalyst/everlasting_moonglow.webp",
     "title": {
       "ru": "Вечное лунное сияние",
       "en": "Everlasting Moonglow",
@@ -1443,7 +1443,7 @@
   {
     "id": "eye_of_perception",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/eye_of_perception.png",
+    "icon": "assets/icons/weapons/catalyst/eye_of_perception.webp",
     "title": {
       "ru": "Око сознания",
       "en": "Eye of Perception",
@@ -1467,7 +1467,7 @@
   {
     "id": "favonius_codex",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/favonius_codex.png",
+    "icon": "assets/icons/weapons/catalyst/favonius_codex.webp",
     "title": {
       "ru": "Кодекс Фавония",
       "en": "Favonius Codex",
@@ -1491,7 +1491,7 @@
   {
     "id": "flowing_purity",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/flowing_purity.png",
+    "icon": "assets/icons/weapons/catalyst/flowing_purity.webp",
     "title": {
       "ru": "Сверкание чистых вод",
       "en": "Flowing Purity",
@@ -1515,7 +1515,7 @@
   {
     "id": "frostbearer",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/frostbearer.png",
+    "icon": "assets/icons/weapons/catalyst/frostbearer.webp",
     "title": {
       "ru": "Плод вечной мерзлоты",
       "en": "Frostbearer",
@@ -1539,7 +1539,7 @@
   {
     "id": "fruit_of_fulfillment",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/fruit_of_fulfillment.png",
+    "icon": "assets/icons/weapons/catalyst/fruit_of_fulfillment.webp",
     "title": {
       "ru": "Плод восполнения",
       "en": "Fruit of Fulfillment",
@@ -1563,7 +1563,7 @@
   {
     "id": "hakushin_ring",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/hakushin_ring.png",
+    "icon": "assets/icons/weapons/catalyst/hakushin_ring.webp",
     "title": {
       "ru": "Кольцо Хакусин",
       "en": "Hakushin Ring",
@@ -1587,7 +1587,7 @@
   {
     "id": "jadefalls_splendor",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/jadefalls_splendor.png",
+    "icon": "assets/icons/weapons/catalyst/jadefalls_splendor.webp",
     "title": {
       "ru": "Великолепие лазурного свода",
       "en": "Jadefall's Splendor",
@@ -1611,7 +1611,7 @@
   {
     "id": "kaguras_verity",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/kaguras_verity.png",
+    "icon": "assets/icons/weapons/catalyst/kaguras_verity.webp",
     "title": {
       "ru": "Истина кагура",
       "en": "Kagura's Verity",
@@ -1635,7 +1635,7 @@
   {
     "id": "lost_prayer_to_the_sacred_winds",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/lost_prayer_to_the_sacred_winds.png",
+    "icon": "assets/icons/weapons/catalyst/lost_prayer_to_the_sacred_winds.webp",
     "title": {
       "ru": "Молитва святым ветрам",
       "en": "Lost Prayer to the Sacred Winds",
@@ -1659,7 +1659,7 @@
   {
     "id": "magic_guide",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/magic_guide.png",
+    "icon": "assets/icons/weapons/catalyst/magic_guide.webp",
     "title": {
       "ru": "Руководство по магии",
       "en": "Magic Guide",
@@ -1683,7 +1683,7 @@
   {
     "id": "mappa_mare",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/mappa_mare.png",
+    "icon": "assets/icons/weapons/catalyst/mappa_mare.webp",
     "title": {
       "ru": "Морской атлас",
       "en": "Mappa Mare",
@@ -1707,7 +1707,7 @@
   {
     "id": "memory_of_dust",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/memory_of_dust.png",
+    "icon": "assets/icons/weapons/catalyst/memory_of_dust.webp",
     "title": {
       "ru": "Память о пыли",
       "en": "Memory of Dust",
@@ -1731,7 +1731,7 @@
   {
     "id": "nightweavers_looking_glass",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/nightweavers_looking_glass.png",
+    "icon": "assets/icons/weapons/catalyst/nightweavers_looking_glass.webp",
     "title": {
       "ru": "Зеркало прядильщицы ночи",
       "en": "Nightweaver's Looking Glass",
@@ -1755,7 +1755,7 @@
   {
     "id": "nocturnes_curtain_call",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/nocturnes_curtain_call.png",
+    "icon": "assets/icons/weapons/catalyst/nocturnes_curtain_call.webp",
     "title": {
       "ru": "Вызов ноктюрна",
       "en": "Nocturne's Curtain Call",
@@ -1779,7 +1779,7 @@
   {
     "id": "oathsworn_eye",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/oathsworn_eye.png",
+    "icon": "assets/icons/weapons/catalyst/oathsworn_eye.webp",
     "title": {
       "ru": "Око клятвы",
       "en": "Oathsworn Eye",
@@ -1803,7 +1803,7 @@
   {
     "id": "otherworldly_story",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/otherworldly_story.png",
+    "icon": "assets/icons/weapons/catalyst/otherworldly_story.webp",
     "title": {
       "ru": "Потусторонняя история",
       "en": "Otherworldly Story",
@@ -1827,7 +1827,7 @@
   {
     "id": "pocket_grimoire",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/pocket_grimoire.png",
+    "icon": "assets/icons/weapons/catalyst/pocket_grimoire.webp",
     "title": {
       "ru": "Карманный гримуар",
       "en": "Pocket Grimoire",
@@ -1851,7 +1851,7 @@
   {
     "id": "prototype_amber",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/prototype_amber.png",
+    "icon": "assets/icons/weapons/catalyst/prototype_amber.webp",
     "title": {
       "ru": "Прототип: Янтарь",
       "en": "Prototype Amber",
@@ -1875,7 +1875,7 @@
   {
     "id": "reliquary_of_truth",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/reliquary_of_truth.png",
+    "icon": "assets/icons/weapons/catalyst/reliquary_of_truth.webp",
     "title": {
       "ru": "Шкатулка истин",
       "en": "Reliquary of Truth",
@@ -1899,7 +1899,7 @@
   {
     "id": "ring_of_yaxche",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/ring_of_yaxche.png",
+    "icon": "assets/icons/weapons/catalyst/ring_of_yaxche.webp",
     "title": {
       "ru": "Кольцо Яшче",
       "en": "Ring of Yaxche",
@@ -1923,7 +1923,7 @@
   {
     "id": "royal_grimoire",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/royal_grimoire.png",
+    "icon": "assets/icons/weapons/catalyst/royal_grimoire.webp",
     "title": {
       "ru": "Королевский гримуар",
       "en": "Royal Grimoire",
@@ -1947,7 +1947,7 @@
   {
     "id": "sacrificial_fragments",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/sacrificial_fragments.png",
+    "icon": "assets/icons/weapons/catalyst/sacrificial_fragments.webp",
     "title": {
       "ru": "Церемониальные мемуары",
       "en": "Sacrificial Fragments",
@@ -1971,7 +1971,7 @@
   {
     "id": "sacrificial_jade",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/sacrificial_jade.png",
+    "icon": "assets/icons/weapons/catalyst/sacrificial_jade.webp",
     "title": {
       "ru": "Жертвенный нефрит",
       "en": "Sacrificial Jade",
@@ -1995,7 +1995,7 @@
   {
     "id": "skyward_atlas",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/skyward_atlas.png",
+    "icon": "assets/icons/weapons/catalyst/skyward_atlas.webp",
     "title": {
       "ru": "Небесный атлас",
       "en": "Skyward Atlas",
@@ -2019,7 +2019,7 @@
   {
     "id": "solar_pearl",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/solar_pearl.png",
+    "icon": "assets/icons/weapons/catalyst/solar_pearl.webp",
     "title": {
       "ru": "Солнечная жемчужина",
       "en": "Solar Pearl",
@@ -2043,7 +2043,7 @@
   {
     "id": "starcallers_watch",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/starcallers_watch.png",
+    "icon": "assets/icons/weapons/catalyst/starcallers_watch.webp",
     "title": {
       "ru": "Бдение взывающего к звёздам",
       "en": "Starcaller's Watch",
@@ -2067,7 +2067,7 @@
   {
     "id": "sunny_morning_sleep_in",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/sunny_morning_sleep_in.png",
+    "icon": "assets/icons/weapons/catalyst/sunny_morning_sleep_in.webp",
     "title": {
       "ru": "Сон солнечным утром",
       "en": "Sunny Morning Sleep-In",
@@ -2091,7 +2091,7 @@
   {
     "id": "surfs_up",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/surfs_up.png",
+    "icon": "assets/icons/weapons/catalyst/surfs_up.webp",
     "title": {
       "ru": "Лови волну",
       "en": "Surf's Up",
@@ -2115,7 +2115,7 @@
   {
     "id": "the_widsith",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/the_widsith.png",
+    "icon": "assets/icons/weapons/catalyst/the_widsith.webp",
     "title": {
       "ru": "Песнь странника",
       "en": "The Widsith",
@@ -2139,7 +2139,7 @@
   {
     "id": "thrilling_tales_of_dragon_slayers",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/thrilling_tales_of_dragon_slayers.png",
+    "icon": "assets/icons/weapons/catalyst/thrilling_tales_of_dragon_slayers.webp",
     "title": {
       "ru": "Эпос о драконоборцах",
       "en": "Thrilling Tales of Dragon Slayers",
@@ -2163,7 +2163,7 @@
   {
     "id": "tome_of_the_eternal_flow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/tome_of_the_eternal_flow.png",
+    "icon": "assets/icons/weapons/catalyst/tome_of_the_eternal_flow.webp",
     "title": {
       "ru": "Обряд вечного течения",
       "en": "Tome of the Eternal Flow",
@@ -2187,7 +2187,7 @@
   {
     "id": "tulaytullahs_remembrance",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/tulaytullahs_remembrance.png",
+    "icon": "assets/icons/weapons/catalyst/tulaytullahs_remembrance.webp",
     "title": {
       "ru": "Воспоминания Тулайтуллы",
       "en": "Tulaytullah's Remembrance",
@@ -2211,7 +2211,7 @@
   {
     "id": "twin_nephrite",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/twin_nephrite.png",
+    "icon": "assets/icons/weapons/catalyst/twin_nephrite.webp",
     "title": {
       "ru": "Парный нефрит",
       "en": "Twin Nephrite",
@@ -2235,7 +2235,7 @@
   {
     "id": "vivid_notions",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/vivid_notions.png",
+    "icon": "assets/icons/weapons/catalyst/vivid_notions.webp",
     "title": {
       "ru": "Переливающиеся чаяния",
       "en": "Vivid Notions",
@@ -2259,7 +2259,7 @@
   {
     "id": "wandering_evenstar",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/wandering_evenstar.png",
+    "icon": "assets/icons/weapons/catalyst/wandering_evenstar.webp",
     "title": {
       "ru": "Скитающаяся звезда",
       "en": "Wandering Evenstar",
@@ -2283,7 +2283,7 @@
   {
     "id": "waveriding_whirl",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/waveriding_whirl.png",
+    "icon": "assets/icons/weapons/catalyst/waveriding_whirl.webp",
     "title": {
       "ru": "Вихрь на волнах",
       "en": "Waveriding Whirl",
@@ -2307,7 +2307,7 @@
   {
     "id": "wine_and_song",
     "category": "weapons",
-    "icon": "assets/icons/weapons/catalyst/wine_and_song.png",
+    "icon": "assets/icons/weapons/catalyst/wine_and_song.webp",
     "title": {
       "ru": "Вино и песни",
       "en": "Wine and Song",
@@ -2331,7 +2331,7 @@
   {
     "id": "a_thousand_blazing_suns",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/a_thousand_blazing_suns.png",
+    "icon": "assets/icons/weapons/claymore/a_thousand_blazing_suns.webp",
     "title": {
       "ru": "Тысяча ослепительных солнц",
       "en": "A Thousand Blazing Suns",
@@ -2355,7 +2355,7 @@
   {
     "id": "akuoumaru",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/akuoumaru.png",
+    "icon": "assets/icons/weapons/claymore/akuoumaru.webp",
     "title": {
       "ru": "Акуомару",
       "en": "Akuoumaru",
@@ -2379,7 +2379,7 @@
   {
     "id": "beacon_of_the_reed_sea",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/beacon_of_the_reed_sea.png",
+    "icon": "assets/icons/weapons/claymore/beacon_of_the_reed_sea.webp",
     "title": {
       "ru": "Маяк тростникового моря",
       "en": "Beacon of the Reed Sea",
@@ -2403,7 +2403,7 @@
   {
     "id": "blackcliff_slasher",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/blackcliff_slasher.png",
+    "icon": "assets/icons/weapons/claymore/blackcliff_slasher.webp",
     "title": {
       "ru": "Черногорская бритва",
       "en": "Blackcliff Slasher",
@@ -2427,7 +2427,7 @@
   {
     "id": "bloodtainted_greatsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/bloodtainted_greatsword.png",
+    "icon": "assets/icons/weapons/claymore/bloodtainted_greatsword.webp",
     "title": {
       "ru": "Меч драконьей крови",
       "en": "Bloodtainted Greatsword",
@@ -2451,7 +2451,7 @@
   {
     "id": "debate_club",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/debate_club.png",
+    "icon": "assets/icons/weapons/claymore/debate_club.webp",
     "title": {
       "ru": "Дубина переговоров",
       "en": "Debate Club",
@@ -2475,7 +2475,7 @@
   {
     "id": "earth_shaker",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/earth_shaker.png",
+    "icon": "assets/icons/weapons/claymore/earth_shaker.webp",
     "title": {
       "ru": "Сотрясающий землю",
       "en": "Earth Shaker",
@@ -2499,7 +2499,7 @@
   {
     "id": "fang_of_the_mountain_king",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/fang_of_the_mountain_king.png",
+    "icon": "assets/icons/weapons/claymore/fang_of_the_mountain_king.webp",
     "title": {
       "ru": "Клык Горного короля",
       "en": "Fang of the Mountain King",
@@ -2523,7 +2523,7 @@
   {
     "id": "favonius_greatsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/favonius_greatsword.png",
+    "icon": "assets/icons/weapons/claymore/favonius_greatsword.webp",
     "title": {
       "ru": "Двуручный меч Фавония",
       "en": "Favonius Greatsword",
@@ -2547,7 +2547,7 @@
   {
     "id": "ferrous_shadow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/ferrous_shadow.png",
+    "icon": "assets/icons/weapons/claymore/ferrous_shadow.webp",
     "title": {
       "ru": "Металлическая тень",
       "en": "Ferrous Shadow",
@@ -2571,7 +2571,7 @@
   {
     "id": "flame_forged_insight",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/flame_forged_insight.png",
+    "icon": "assets/icons/weapons/claymore/flame_forged_insight.webp",
     "title": {
       "ru": "Выкованное пламенем озарение",
       "en": "Flame-Forged Insight",
@@ -2595,7 +2595,7 @@
   {
     "id": "forest_regalia",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/forest_regalia.png",
+    "icon": "assets/icons/weapons/claymore/forest_regalia.webp",
     "title": {
       "ru": "Регалия леса",
       "en": "Forest Regalia",
@@ -2619,7 +2619,7 @@
   {
     "id": "fruitful_hook",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/fruitful_hook.png",
+    "icon": "assets/icons/weapons/claymore/fruitful_hook.webp",
     "title": {
       "ru": "Плодотворный крюк",
       "en": "Fruitful Hook",
@@ -2643,7 +2643,7 @@
   {
     "id": "gest_of_the_mighty_wolf",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/gest_of_the_mighty_wolf.png",
+    "icon": "assets/icons/weapons/claymore/gest_of_the_mighty_wolf.webp",
     "title": {
       "ru": "Подвиг могучего волка",
       "en": "Gest of the Mighty Wolf",
@@ -2667,7 +2667,7 @@
   {
     "id": "katsuragikiri_nagamasa",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/katsuragikiri_nagamasa.png",
+    "icon": "assets/icons/weapons/claymore/katsuragikiri_nagamasa.webp",
     "title": {
       "ru": "Кацурагикири Нагамаса",
       "en": "Katsuragikiri Nagamasa",
@@ -2691,7 +2691,7 @@
   {
     "id": "lithic_blade",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/lithic_blade.png",
+    "icon": "assets/icons/weapons/claymore/lithic_blade.webp",
     "title": {
       "ru": "Каменный меч",
       "en": "Lithic Blade",
@@ -2715,7 +2715,7 @@
   {
     "id": "luxurious_sea_lord",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/luxurious_sea_lord.png",
+    "icon": "assets/icons/weapons/claymore/luxurious_sea_lord.webp",
     "title": {
       "ru": "Благодатный владыка вод",
       "en": "Luxurious Sea-Lord",
@@ -2739,7 +2739,7 @@
   {
     "id": "mailed_flower",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/mailed_flower.png",
+    "icon": "assets/icons/weapons/claymore/mailed_flower.webp",
     "title": {
       "ru": "Цветок в латах",
       "en": "Mailed Flower",
@@ -2763,7 +2763,7 @@
   {
     "id": "makhaira_aquamarine",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/makhaira_aquamarine.png",
+    "icon": "assets/icons/weapons/claymore/makhaira_aquamarine.webp",
     "title": {
       "ru": "Аквамарин Махайры",
       "en": "Makhaira Aquamarine",
@@ -2787,7 +2787,7 @@
   {
     "id": "master_key",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/master_key.png",
+    "icon": "assets/icons/weapons/claymore/master_key.webp",
     "title": {
       "ru": "Мастер-ключ",
       "en": "Master Key",
@@ -2811,7 +2811,7 @@
   {
     "id": "old_mercs_pal",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/old_mercs_pal.png",
+    "icon": "assets/icons/weapons/claymore/old_mercs_pal.webp",
     "title": {
       "ru": "Лучший друг наёмника",
       "en": "Old Merc's Pal",
@@ -2835,7 +2835,7 @@
   {
     "id": "portable_power_saw",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/portable_power_saw.png",
+    "icon": "assets/icons/weapons/claymore/portable_power_saw.webp",
     "title": {
       "ru": "Переносная мотопила",
       "en": "Portable Power Saw",
@@ -2859,7 +2859,7 @@
   {
     "id": "prototype_archaic",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/prototype_archaic.png",
+    "icon": "assets/icons/weapons/claymore/prototype_archaic.webp",
     "title": {
       "ru": "Прототип: Архаичный",
       "en": "Prototype Archaic",
@@ -2883,7 +2883,7 @@
   {
     "id": "rainslasher",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/rainslasher.png",
+    "icon": "assets/icons/weapons/claymore/rainslasher.webp",
     "title": {
       "ru": "Дождерез",
       "en": "Rainslasher",
@@ -2907,7 +2907,7 @@
   {
     "id": "redhorn_stonethresher",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/redhorn_stonethresher.png",
+    "icon": "assets/icons/weapons/claymore/redhorn_stonethresher.webp",
     "title": {
       "ru": "Краснорогий камнеруб",
       "en": "Redhorn Stonethresher",
@@ -2931,7 +2931,7 @@
   {
     "id": "royal_greatsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/royal_greatsword.png",
+    "icon": "assets/icons/weapons/claymore/royal_greatsword.webp",
     "title": {
       "ru": "Королевский двуручный меч",
       "en": "Royal Greatsword",
@@ -2955,7 +2955,7 @@
   {
     "id": "sacrificial_greatsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/sacrificial_greatsword.png",
+    "icon": "assets/icons/weapons/claymore/sacrificial_greatsword.webp",
     "title": {
       "ru": "Церемониальный двуручный меч",
       "en": "Sacrificial Greatsword",
@@ -2979,7 +2979,7 @@
   {
     "id": "serpent_spine",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/serpent_spine.png",
+    "icon": "assets/icons/weapons/claymore/serpent_spine.webp",
     "title": {
       "ru": "Меч драконьей кости",
       "en": "Serpent Spine",
@@ -3003,7 +3003,7 @@
   {
     "id": "skyrider_greatsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/skyrider_greatsword.png",
+    "icon": "assets/icons/weapons/claymore/skyrider_greatsword.webp",
     "title": {
       "ru": "Большой меч небесного всадника",
       "en": "Skyrider Greatsword",
@@ -3027,7 +3027,7 @@
   {
     "id": "skyward_pride",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/skyward_pride.png",
+    "icon": "assets/icons/weapons/claymore/skyward_pride.webp",
     "title": {
       "ru": "Небесное величие",
       "en": "Skyward Pride",
@@ -3051,7 +3051,7 @@
   {
     "id": "snow_tombed_starsilver",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/snow_tombed_starsilver.png",
+    "icon": "assets/icons/weapons/claymore/snow_tombed_starsilver.webp",
     "title": {
       "ru": "Заснеженное звёздное серебро",
       "en": "Snow-Tombed Starsilver",
@@ -3075,7 +3075,7 @@
   {
     "id": "song_of_broken_pines",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/song_of_broken_pines.png",
+    "icon": "assets/icons/weapons/claymore/song_of_broken_pines.webp",
     "title": {
       "ru": "Песнь разбитых сосен",
       "en": "Song of Broken Pines",
@@ -3099,7 +3099,7 @@
   {
     "id": "talking_stick",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/talking_stick.png",
+    "icon": "assets/icons/weapons/claymore/talking_stick.webp",
     "title": {
       "ru": "Говорящая палица",
       "en": "Talking Stick",
@@ -3123,7 +3123,7 @@
   {
     "id": "the_bell",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/the_bell.png",
+    "icon": "assets/icons/weapons/claymore/the_bell.webp",
     "title": {
       "ru": "Меч-колокол",
       "en": "The Bell",
@@ -3147,7 +3147,7 @@
   {
     "id": "the_unforged",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/the_unforged.png",
+    "icon": "assets/icons/weapons/claymore/the_unforged.webp",
     "title": {
       "ru": "Некованый",
       "en": "The Unforged",
@@ -3171,7 +3171,7 @@
   {
     "id": "tidal_shadow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/tidal_shadow.png",
+    "icon": "assets/icons/weapons/claymore/tidal_shadow.webp",
     "title": {
       "ru": "Тень волны",
       "en": "Tidal Shadow",
@@ -3195,7 +3195,7 @@
   {
     "id": "ultimate_overlords_mega_magic_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/ultimate_overlords_mega_magic_sword.png",
+    "icon": "assets/icons/weapons/claymore/ultimate_overlords_mega_magic_sword.webp",
     "title": {
       "ru": "«Магический супермеч высшего владыки»",
       "en": "Ultimate Overlord's Mega Magic Sword",
@@ -3219,7 +3219,7 @@
   {
     "id": "verdict",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/verdict.png",
+    "icon": "assets/icons/weapons/claymore/verdict.webp",
     "title": {
       "ru": "Вердикт",
       "en": "Verdict",
@@ -3243,7 +3243,7 @@
   {
     "id": "waster_greatsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/waster_greatsword.png",
+    "icon": "assets/icons/weapons/claymore/waster_greatsword.webp",
     "title": {
       "ru": "Двуручный меч богатыря",
       "en": "Waster Greatsword",
@@ -3267,7 +3267,7 @@
   {
     "id": "white_iron_greatsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/white_iron_greatsword.png",
+    "icon": "assets/icons/weapons/claymore/white_iron_greatsword.webp",
     "title": {
       "ru": "Меч из белого железа",
       "en": "White Iron Greatsword",
@@ -3291,7 +3291,7 @@
   {
     "id": "whiteblind",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/whiteblind.png",
+    "icon": "assets/icons/weapons/claymore/whiteblind.webp",
     "title": {
       "ru": "Белая тень",
       "en": "Whiteblind",
@@ -3315,7 +3315,7 @@
   {
     "id": "wolfs_gravestone",
     "category": "weapons",
-    "icon": "assets/icons/weapons/claymore/wolfs_gravestone.png",
+    "icon": "assets/icons/weapons/claymore/wolfs_gravestone.webp",
     "title": {
       "ru": "Волчья погибель",
       "en": "Wolf's Gravestone",
@@ -3339,7 +3339,7 @@
   {
     "id": "ballad_of_the_fjords",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/ballad_of_the_fjords.png",
+    "icon": "assets/icons/weapons/polearm/ballad_of_the_fjords.webp",
     "title": {
       "ru": "Баллада фьордов",
       "en": "Ballad of the Fjords",
@@ -3363,7 +3363,7 @@
   {
     "id": "beginners_protector",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/beginners_protector.png",
+    "icon": "assets/icons/weapons/polearm/beginners_protector.webp",
     "title": {
       "ru": "Копьё новичка",
       "en": "Beginner's Protector",
@@ -3387,7 +3387,7 @@
   {
     "id": "black_tassel",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/black_tassel.png",
+    "icon": "assets/icons/weapons/polearm/black_tassel.webp",
     "title": {
       "ru": "Чёрная кисть",
       "en": "Black Tassel",
@@ -3411,7 +3411,7 @@
   {
     "id": "blackcliff_pole",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/blackcliff_pole.png",
+    "icon": "assets/icons/weapons/polearm/blackcliff_pole.webp",
     "title": {
       "ru": "Черногорская пика",
       "en": "Blackcliff Pole",
@@ -3435,7 +3435,7 @@
   {
     "id": "bloodsoaked_ruins",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/bloodsoaked_ruins.png",
+    "icon": "assets/icons/weapons/polearm/bloodsoaked_ruins.webp",
     "title": {
       "ru": "Окровавленные руины",
       "en": "Bloodsoaked Ruins",
@@ -3459,7 +3459,7 @@
   {
     "id": "calamity_queller",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/calamity_queller.png",
+    "icon": "assets/icons/weapons/polearm/calamity_queller.webp",
     "title": {
       "ru": "Усмиритель бед",
       "en": "Calamity Queller",
@@ -3483,7 +3483,7 @@
   {
     "id": "crescent_pike",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/crescent_pike.png",
+    "icon": "assets/icons/weapons/polearm/crescent_pike.webp",
     "title": {
       "ru": "Пика полумесяца",
       "en": "Crescent Pike",
@@ -3507,7 +3507,7 @@
   {
     "id": "crimson_moons_semblance",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/crimson_moons_semblance.png",
+    "icon": "assets/icons/weapons/polearm/crimson_moons_semblance.webp",
     "title": {
       "ru": "Очертания алой луны",
       "en": "Crimson Moon’s Semblance",
@@ -3531,7 +3531,7 @@
   {
     "id": "deathmatch",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/deathmatch.png",
+    "icon": "assets/icons/weapons/polearm/deathmatch.webp",
     "title": {
       "ru": "Смертельный бой",
       "en": "Deathmatch",
@@ -3555,7 +3555,7 @@
   {
     "id": "dialogues_of_the_desert_sages",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/dialogues_of_the_desert_sages.png",
+    "icon": "assets/icons/weapons/polearm/dialogues_of_the_desert_sages.webp",
     "title": {
       "ru": "Диалог пустынных мудрецов",
       "en": "Dialogues of the Desert Sages",
@@ -3579,7 +3579,7 @@
   {
     "id": "dragons_bane",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/dragons_bane.png",
+    "icon": "assets/icons/weapons/polearm/dragons_bane.webp",
     "title": {
       "ru": "Гроза драконов",
       "en": "Dragon's Bane",
@@ -3603,7 +3603,7 @@
   {
     "id": "dragonspine_spear",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/dragonspine_spear.png",
+    "icon": "assets/icons/weapons/polearm/dragonspine_spear.webp",
     "title": {
       "ru": "Копьё Драконьего хребта",
       "en": "Dragonspine Spear",
@@ -3627,7 +3627,7 @@
   {
     "id": "engulfing_lightning",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/engulfing_lightning.png",
+    "icon": "assets/icons/weapons/polearm/engulfing_lightning.webp",
     "title": {
       "ru": "Сияющая жатва",
       "en": "Engulfing Lightning",
@@ -3651,7 +3651,7 @@
   {
     "id": "favonius_lance",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/favonius_lance.png",
+    "icon": "assets/icons/weapons/polearm/favonius_lance.webp",
     "title": {
       "ru": "Копьё Фавония",
       "en": "Favonius Lance",
@@ -3675,7 +3675,7 @@
   {
     "id": "footprint_of_the_rainbow",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/footprint_of_the_rainbow.png",
+    "icon": "assets/icons/weapons/polearm/footprint_of_the_rainbow.webp",
     "title": {
       "ru": "След радуги",
       "en": "Footprint of the Rainbow",
@@ -3699,7 +3699,7 @@
   {
     "id": "fractured_halo",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/fractured_halo.png",
+    "icon": "assets/icons/weapons/polearm/fractured_halo.webp",
     "title": {
       "ru": "Расколотый ореол",
       "en": "Fractured Halo",
@@ -3723,7 +3723,7 @@
   {
     "id": "halberd",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/halberd.png",
+    "icon": "assets/icons/weapons/polearm/halberd.webp",
     "title": {
       "ru": "Алебарда Миллелита",
       "en": "Halberd",
@@ -3747,7 +3747,7 @@
   {
     "id": "iron_point",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/iron_point.png",
+    "icon": "assets/icons/weapons/polearm/iron_point.webp",
     "title": {
       "ru": "Железный наконечник",
       "en": "Iron Point",
@@ -3771,7 +3771,7 @@
   {
     "id": "kitain_cross_spear",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/kitain_cross_spear.png",
+    "icon": "assets/icons/weapons/polearm/kitain_cross_spear.webp",
     "title": {
       "ru": "Крест-копьё Китаин",
       "en": "Kitain Cross Spear",
@@ -3795,7 +3795,7 @@
   {
     "id": "lithic_spear",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/lithic_spear.png",
+    "icon": "assets/icons/weapons/polearm/lithic_spear.webp",
     "title": {
       "ru": "Каменное копьё",
       "en": "Lithic Spear",
@@ -3819,7 +3819,7 @@
   {
     "id": "lumidouce_elegy",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/lumidouce_elegy.png",
+    "icon": "assets/icons/weapons/polearm/lumidouce_elegy.webp",
     "title": {
       "ru": "Элегия Люмидус",
       "en": "Lumidouce Elegy",
@@ -3843,7 +3843,7 @@
   {
     "id": "missive_windspear",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/missive_windspear.png",
+    "icon": "assets/icons/weapons/polearm/missive_windspear.webp",
     "title": {
       "ru": "Копьё послания ветров",
       "en": "Missive Windspear",
@@ -3867,7 +3867,7 @@
   {
     "id": "moonpiercer",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/moonpiercer.png",
+    "icon": "assets/icons/weapons/polearm/moonpiercer.webp",
     "title": {
       "ru": "Пронзающий луну",
       "en": "Moonpiercer",
@@ -3891,7 +3891,7 @@
   {
     "id": "mountain_bracing_bolt",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/mountain_bracing_bolt.png",
+    "icon": "assets/icons/weapons/polearm/mountain_bracing_bolt.webp",
     "title": {
       "ru": "Крепящий горы шип",
       "en": "Mountain-Bracing Bolt",
@@ -3915,7 +3915,7 @@
   {
     "id": "primordial_jade_winged_spear",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/primordial_jade_winged_spear.png",
+    "icon": "assets/icons/weapons/polearm/primordial_jade_winged_spear.webp",
     "title": {
       "ru": "Нефритовый коршун",
       "en": "Primordial Jade Winged-Spear",
@@ -3939,7 +3939,7 @@
   {
     "id": "prospectors_drill",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/prospectors_drill.png",
+    "icon": "assets/icons/weapons/polearm/prospectors_drill.webp",
     "title": {
       "ru": "Бур рудоискателя",
       "en": "Prospector's Drill",
@@ -3963,7 +3963,7 @@
   {
     "id": "prospectors_shovel",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/prospectors_shovel.png",
+    "icon": "assets/icons/weapons/polearm/prospectors_shovel.webp",
     "title": {
       "ru": "Лопата старателя",
       "en": "Prospector's Shovel",
@@ -3987,7 +3987,7 @@
   {
     "id": "prototype_starglitter",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/prototype_starglitter.png",
+    "icon": "assets/icons/weapons/polearm/prototype_starglitter.webp",
     "title": {
       "ru": "Прототип: Звёздный блеск",
       "en": "Prototype Starglitter",
@@ -4011,7 +4011,7 @@
   {
     "id": "rightful_reward",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/rightful_reward.png",
+    "icon": "assets/icons/weapons/polearm/rightful_reward.webp",
     "title": {
       "ru": "Справедливая награда",
       "en": "Rightful Reward",
@@ -4035,7 +4035,7 @@
   {
     "id": "royal_spear",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/royal_spear.png",
+    "icon": "assets/icons/weapons/polearm/royal_spear.webp",
     "title": {
       "ru": "Королевское копьё",
       "en": "Royal Spear",
@@ -4059,7 +4059,7 @@
   {
     "id": "sacrificers_staff",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/sacrificers_staff.png",
+    "icon": "assets/icons/weapons/polearm/sacrificers_staff.webp",
     "title": {
       "ru": "Посох жертвующей",
       "en": "Sacrificer's Staff",
@@ -4083,7 +4083,7 @@
   {
     "id": "skyward_spine",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/skyward_spine.png",
+    "icon": "assets/icons/weapons/polearm/skyward_spine.webp",
     "title": {
       "ru": "Небесная ось",
       "en": "Skyward Spine",
@@ -4107,7 +4107,7 @@
   {
     "id": "staff_of_homa",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/staff_of_homa.png",
+    "icon": "assets/icons/weapons/polearm/staff_of_homa.webp",
     "title": {
       "ru": "Посох Хомы",
       "en": "Staff of Homa",
@@ -4131,7 +4131,7 @@
   {
     "id": "staff_of_the_scarlet_sands",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/staff_of_the_scarlet_sands.png",
+    "icon": "assets/icons/weapons/polearm/staff_of_the_scarlet_sands.webp",
     "title": {
       "ru": "Посох алых песков",
       "en": "Staff of the Scarlet Sands",
@@ -4155,7 +4155,7 @@
   {
     "id": "symphonist_of_scents",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/symphonist_of_scents.png",
+    "icon": "assets/icons/weapons/polearm/symphonist_of_scents.webp",
     "title": {
       "ru": "Симфонист ароматов",
       "en": "Symphonist of Scents",
@@ -4179,7 +4179,7 @@
   {
     "id": "tamayuratei_no_ohanashi",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/tamayuratei_no_ohanashi.png",
+    "icon": "assets/icons/weapons/polearm/tamayuratei_no_ohanashi.webp",
     "title": {
       "ru": "Тамаюратэй но оханаси",
       "en": "Tamayuratei no Ohanashi",
@@ -4203,7 +4203,7 @@
   {
     "id": "the_catch",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/the_catch.png",
+    "icon": "assets/icons/weapons/polearm/the_catch.webp",
     "title": {
       "ru": "«Улов»",
       "en": "\"The Catch\"",
@@ -4227,7 +4227,7 @@
   {
     "id": "vortex_vanquisher",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/vortex_vanquisher.png",
+    "icon": "assets/icons/weapons/polearm/vortex_vanquisher.webp",
     "title": {
       "ru": "Покоритель вихря",
       "en": "Vortex Vanquisher",
@@ -4251,7 +4251,7 @@
   {
     "id": "wavebreakers_fin",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/wavebreakers_fin.png",
+    "icon": "assets/icons/weapons/polearm/wavebreakers_fin.webp",
     "title": {
       "ru": "Режущий волны плавник",
       "en": "Wavebreaker's Fin",
@@ -4275,7 +4275,7 @@
   {
     "id": "white_tassel",
     "category": "weapons",
-    "icon": "assets/icons/weapons/polearm/white_tassel.png",
+    "icon": "assets/icons/weapons/polearm/white_tassel.webp",
     "title": {
       "ru": "Белая кисть",
       "en": "White Tassel",
@@ -4322,7 +4322,7 @@
   {
     "id": "amenoma_kageuchi",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/amenoma_kageuchi.png",
+    "icon": "assets/icons/weapons/sword/amenoma_kageuchi.webp",
     "title": {
       "ru": "Амэнома Кагэути",
       "en": "Amenoma Kageuchi",
@@ -4415,7 +4415,7 @@
   {
     "id": "blackcliff_longsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/blackcliff_longsword.png",
+    "icon": "assets/icons/weapons/sword/blackcliff_longsword.webp",
     "title": {
       "ru": "Черногорский длинный меч",
       "en": "Blackcliff Longsword",
@@ -4439,7 +4439,7 @@
   {
     "id": "calamity_of_eshu",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/calamity_of_eshu.png",
+    "icon": "assets/icons/weapons/sword/calamity_of_eshu.webp",
     "title": {
       "ru": "Бедствие Эшу",
       "en": "Calamity of Eshu",
@@ -4463,7 +4463,7 @@
   {
     "id": "cinnabar_spindle",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/cinnabar_spindle.png",
+    "icon": "assets/icons/weapons/sword/cinnabar_spindle.webp",
     "title": {
       "ru": "Киноварное веретено",
       "en": "Cinnabar Spindle",
@@ -4487,7 +4487,7 @@
   {
     "id": "cool_steel",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/cool_steel.png",
+    "icon": "assets/icons/weapons/sword/cool_steel.webp",
     "title": {
       "ru": "Холодное лезвие",
       "en": "Cool Steel",
@@ -4511,7 +4511,7 @@
   {
     "id": "dark_iron_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/dark_iron_sword.png",
+    "icon": "assets/icons/weapons/sword/dark_iron_sword.webp",
     "title": {
       "ru": "Тёмный железный меч",
       "en": "Dark Iron Sword",
@@ -4535,7 +4535,7 @@
   {
     "id": "dull_blade",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/dull_blade.png",
+    "icon": "assets/icons/weapons/sword/dull_blade.webp",
     "title": {
       "ru": "Тупой меч",
       "en": "Dull Blade",
@@ -4559,7 +4559,7 @@
   {
     "id": "favonius_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/favonius_sword.png",
+    "icon": "assets/icons/weapons/sword/favonius_sword.webp",
     "title": {
       "ru": "Меч Фавония",
       "en": "Favonius Sword",
@@ -4583,7 +4583,7 @@
   {
     "id": "festering_desire",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/festering_desire.png",
+    "icon": "assets/icons/weapons/sword/festering_desire.webp",
     "title": {
       "ru": "Осквернённое желание",
       "en": "Festering Desire",
@@ -4607,7 +4607,7 @@
   {
     "id": "fillet_blade",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/fillet_blade.png",
+    "icon": "assets/icons/weapons/sword/fillet_blade.webp",
     "title": {
       "ru": "Филейный нож",
       "en": "Fillet Blade",
@@ -4631,7 +4631,7 @@
   {
     "id": "finale_of_the_deep",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/finale_of_the_deep.png",
+    "icon": "assets/icons/weapons/sword/finale_of_the_deep.webp",
     "title": {
       "ru": "Грандиозный финал глубин",
       "en": "Finale of the Deep",
@@ -4655,7 +4655,7 @@
   {
     "id": "fleuve_cendre_ferryman",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/fleuve_cendre_ferryman.png",
+    "icon": "assets/icons/weapons/sword/fleuve_cendre_ferryman.webp",
     "title": {
       "ru": "Перевозчик Флёв Сандр",
       "en": "Fleuve Cendre Ferryman",
@@ -4679,7 +4679,7 @@
   {
     "id": "flute_of_ezpitzal",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/flute_of_ezpitzal.png",
+    "icon": "assets/icons/weapons/sword/flute_of_ezpitzal.webp",
     "title": {
       "ru": "Флейта Эспицаль",
       "en": "Flute of Ezpitzal",
@@ -4749,7 +4749,7 @@
   {
     "id": "harbinger_of_dawn",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/harbinger_of_dawn.png",
+    "icon": "assets/icons/weapons/sword/harbinger_of_dawn.webp",
     "title": {
       "ru": "Предвестник зари",
       "en": "Harbinger of Dawn",
@@ -4773,7 +4773,7 @@
   {
     "id": "iron_sting",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/iron_sting.png",
+    "icon": "assets/icons/weapons/sword/iron_sting.webp",
     "title": {
       "ru": "Стальное жало",
       "en": "Iron Sting",
@@ -4797,7 +4797,7 @@
   {
     "id": "kagotsurube_isshin",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/kagotsurube_isshin.png",
+    "icon": "assets/icons/weapons/sword/kagotsurube_isshin.webp",
     "title": {
       "ru": "Кагоцурубэ Иссин",
       "en": "Kagotsurube Isshin",
@@ -4892,7 +4892,7 @@
   {
     "id": "lions_roar",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/lions_roar.png",
+    "icon": "assets/icons/weapons/sword/lions_roar.webp",
     "title": {
       "ru": "Драконий рык",
       "en": "Lion's Roar",
@@ -4939,7 +4939,7 @@
   {
     "id": "moonweavers_dawn",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/moonweavers_dawn.png",
+    "icon": "assets/icons/weapons/sword/moonweavers_dawn.webp",
     "title": {
       "ru": "Рассвет прядильщицы луны",
       "en": "Moonweaver's Dawn",
@@ -5007,7 +5007,7 @@
   {
     "id": "prototype_rancour",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/prototype_rancour.png",
+    "icon": "assets/icons/weapons/sword/prototype_rancour.webp",
     "title": {
       "ru": "Прототип: Злоба",
       "en": "Prototype Rancour",
@@ -5031,7 +5031,7 @@
   {
     "id": "royal_longsword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/royal_longsword.png",
+    "icon": "assets/icons/weapons/sword/royal_longsword.webp",
     "title": {
       "ru": "Меч аристократов",
       "en": "Royal Longsword",
@@ -5055,7 +5055,7 @@
   {
     "id": "sacrificial_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/sacrificial_sword.png",
+    "icon": "assets/icons/weapons/sword/sacrificial_sword.webp",
     "title": {
       "ru": "Церемониальный меч",
       "en": "Sacrificial Sword",
@@ -5079,7 +5079,7 @@
   {
     "id": "sapwood_blade",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/sapwood_blade.png",
+    "icon": "assets/icons/weapons/sword/sapwood_blade.webp",
     "title": {
       "ru": "Деревянный клинок",
       "en": "Sapwood Blade",
@@ -5103,7 +5103,7 @@
   {
     "id": "serenitys_call",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/serenitys_call.png",
+    "icon": "assets/icons/weapons/sword/serenitys_call.webp",
     "title": {
       "ru": "Зов безмятежности",
       "en": "Serenity's Call",
@@ -5127,7 +5127,7 @@
   {
     "id": "silver_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/silver_sword.png",
+    "icon": "assets/icons/weapons/sword/silver_sword.webp",
     "title": {
       "ru": "Серебряный меч",
       "en": "Silver Sword",
@@ -5151,7 +5151,7 @@
   {
     "id": "skyrider_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/skyrider_sword.png",
+    "icon": "assets/icons/weapons/sword/skyrider_sword.webp",
     "title": {
       "ru": "Меч небесного всадника",
       "en": "Skyrider Sword",
@@ -5219,7 +5219,7 @@
   {
     "id": "sturdy_bone",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/sturdy_bone.png",
+    "icon": "assets/icons/weapons/sword/sturdy_bone.webp",
     "title": {
       "ru": "Крепкая кость",
       "en": "Sturdy Bone",
@@ -5264,7 +5264,7 @@
   {
     "id": "sword_of_descension",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/sword_of_descension.png",
+    "icon": "assets/icons/weapons/sword/sword_of_descension.webp",
     "title": {
       "ru": "Меч нисхождения",
       "en": "Sword of Descension",
@@ -5288,7 +5288,7 @@
   {
     "id": "sword_of_narzissenkreuz",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/sword_of_narzissenkreuz.png",
+    "icon": "assets/icons/weapons/sword/sword_of_narzissenkreuz.webp",
     "title": {
       "ru": "Меч Нарциссенкрейца",
       "en": "Sword of Narzissenkreuz",
@@ -5312,7 +5312,7 @@
   {
     "id": "the_alley_flash",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/the_alley_flash.png",
+    "icon": "assets/icons/weapons/sword/the_alley_flash.webp",
     "title": {
       "ru": "Вспышка во тьме",
       "en": "The Alley Flash",
@@ -5336,7 +5336,7 @@
   {
     "id": "the_black_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/the_black_sword.png",
+    "icon": "assets/icons/weapons/sword/the_black_sword.webp",
     "title": {
       "ru": "Чёрный меч",
       "en": "The Black Sword",
@@ -5360,7 +5360,7 @@
   {
     "id": "the_dockhands_assistant",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/the_dockhands_assistant.png",
+    "icon": "assets/icons/weapons/sword/the_dockhands_assistant.webp",
     "title": {
       "ru": "Верфь",
       "en": "The Dockhand's Assistant",
@@ -5384,7 +5384,7 @@
   {
     "id": "the_flute",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/the_flute.png",
+    "icon": "assets/icons/weapons/sword/the_flute.webp",
     "title": {
       "ru": "Меч-флейта",
       "en": "The Flute",
@@ -5408,7 +5408,7 @@
   {
     "id": "toukabou_shigure",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/toukabou_shigure.png",
+    "icon": "assets/icons/weapons/sword/toukabou_shigure.webp",
     "title": {
       "ru": "Токабо сигурэ",
       "en": "Toukabou Shigure",
@@ -5432,7 +5432,7 @@
   {
     "id": "travelers_handy_sword",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/travelers_handy_sword.png",
+    "icon": "assets/icons/weapons/sword/travelers_handy_sword.webp",
     "title": {
       "ru": "Меч путешественника",
       "en": "Traveler's Handy Sword",
@@ -5479,7 +5479,7 @@
   {
     "id": "wolf_fang",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/wolf_fang.png",
+    "icon": "assets/icons/weapons/sword/wolf_fang.webp",
     "title": {
       "ru": "Волчий клык",
       "en": "Wolf-Fang",
@@ -5503,7 +5503,7 @@
   {
     "id": "xiphos_moonlight",
     "category": "weapons",
-    "icon": "assets/icons/weapons/sword/xiphos_moonlight.png",
+    "icon": "assets/icons/weapons/sword/xiphos_moonlight.webp",
     "title": {
       "ru": "Лунное сияние ксифоса",
       "en": "Xiphos' Moonlight",

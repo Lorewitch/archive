@@ -1,7 +1,7 @@
 {
   "id": "skyward_atlas",
   "category": "weapons",
-  "icon": "assets/icons/weapons/catalyst/skyward_atlas.png",
+  "icon": "assets/icons/weapons/catalyst/skyward_atlas.webp",
   "title": {
     "ru": "Небесный атлас",
     "en": "Skyward Atlas",

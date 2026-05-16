@@ -1,7 +1,7 @@
 {
   "id": "snare_hook",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/snare_hook.png",
+  "icon": "assets/icons/weapons/bow/snare_hook.webp",
   "title": {
     "ru": "Крюк силка",
     "en": "Snare Hook",

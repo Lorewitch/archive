@@ -1,7 +1,7 @@
 {
   "id": "prospectors_drill",
   "category": "weapons",
-  "icon": "assets/icons/weapons/polearm/prospectors_drill.png",
+  "icon": "assets/icons/weapons/polearm/prospectors_drill.webp",
   "title": {
     "ru": "Бур рудоискателя",
     "en": "Prospector's Drill",

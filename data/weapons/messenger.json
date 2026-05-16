@@ -1,7 +1,7 @@
 {
   "id": "messenger",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/messenger.png",
+  "icon": "assets/icons/weapons/bow/messenger.webp",
   "title": {
     "ru": "Посыльный",
     "en": "Messenger",

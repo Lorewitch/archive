@@ -1,7 +1,7 @@
 {
   "id": "alley_hunter",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/alley_hunter.png",
+  "icon": "assets/icons/weapons/bow/alley_hunter.webp",
   "title": {
     "ru": "Охотник во тьме",
     "en": "Alley Hunter",

@@ -1,7 +1,7 @@
 {
   "id": "master_key",
   "category": "weapons",
-  "icon": "assets/icons/weapons/claymore/master_key.png",
+  "icon": "assets/icons/weapons/claymore/master_key.webp",
   "title": {
     "ru": "Мастер-ключ",
     "en": "Master Key",

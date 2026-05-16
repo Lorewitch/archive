@@ -1,7 +1,7 @@
 {
   "id": "sapwood_blade",
   "category": "weapons",
-  "icon": "assets/icons/weapons/sword/sapwood_blade.png",
+  "icon": "assets/icons/weapons/sword/sapwood_blade.webp",
   "title": {
     "ru": "Деревянный клинок",
     "en": "Sapwood Blade",

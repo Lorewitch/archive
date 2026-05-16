@@ -1,7 +1,7 @@
 {
   "id": "raven_bow",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/raven_bow.png",
+  "icon": "assets/icons/weapons/bow/raven_bow.webp",
   "title": {
     "ru": "Лук ворона",
     "en": "Raven Bow",

@@ -1,7 +1,7 @@
 {
   "id": "lithic_blade",
   "category": "weapons",
-  "icon": "assets/icons/weapons/claymore/lithic_blade.png",
+  "icon": "assets/icons/weapons/claymore/lithic_blade.webp",
   "title": {
     "ru": "Каменный меч",
     "en": "Lithic Blade",

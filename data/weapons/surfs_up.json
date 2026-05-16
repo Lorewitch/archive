@@ -1,7 +1,7 @@
 {
   "id": "surfs_up",
   "category": "weapons",
-  "icon": "assets/icons/weapons/catalyst/surfs_up.png",
+  "icon": "assets/icons/weapons/catalyst/surfs_up.webp",
   "title": {
     "ru": "Лови волну",
     "en": "Surf's Up",

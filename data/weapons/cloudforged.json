@@ -1,7 +1,7 @@
 {
   "id": "cloudforged",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/cloudforged.png",
+  "icon": "assets/icons/weapons/bow/cloudforged.webp",
   "title": {
     "ru": "Выкованный из облаков",
     "en": "Cloudforged",

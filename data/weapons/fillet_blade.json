@@ -1,7 +1,7 @@
 {
   "id": "fillet_blade",
   "category": "weapons",
-  "icon": "assets/icons/weapons/sword/fillet_blade.png",
+  "icon": "assets/icons/weapons/sword/fillet_blade.webp",
   "title": {
     "ru": "Филейный нож",
     "en": "Fillet Blade",

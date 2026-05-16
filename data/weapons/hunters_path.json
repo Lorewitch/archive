@@ -1,7 +1,7 @@
 {
   "id": "hunters_path",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/hunters_path.png",
+  "icon": "assets/icons/weapons/bow/hunters_path.webp",
   "title": {
     "ru": "Охотничья тропа",
     "en": "Hunter's Path",

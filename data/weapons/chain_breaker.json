@@ -1,7 +1,7 @@
 {
   "id": "chain_breaker",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/chain_breaker.png",
+  "icon": "assets/icons/weapons/bow/chain_breaker.webp",
   "title": {
     "ru": "Разбивающий цепи",
     "en": "Chain Breaker",

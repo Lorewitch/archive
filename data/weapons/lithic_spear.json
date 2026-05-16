@@ -1,7 +1,7 @@
 {
   "id": "lithic_spear",
   "category": "weapons",
-  "icon": "assets/icons/weapons/polearm/lithic_spear.png",
+  "icon": "assets/icons/weapons/polearm/lithic_spear.webp",
   "title": {
     "ru": "Каменное копьё",
     "en": "Lithic Spear",

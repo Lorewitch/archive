@@ -1,7 +1,7 @@
 {
   "id": "thundering_pulse",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/thundering_pulse.png",
+  "icon": "assets/icons/weapons/bow/thundering_pulse.webp",
   "title": {
     "ru": "Громовой пульс",
     "en": "Thundering Pulse",

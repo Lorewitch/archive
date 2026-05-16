@@ -1,7 +1,7 @@
 {
   "id": "deathmatch",
   "category": "weapons",
-  "icon": "assets/icons/weapons/polearm/deathmatch.png",
+  "icon": "assets/icons/weapons/polearm/deathmatch.webp",
   "title": {
     "ru": "Смертельный бой",
     "en": "Deathmatch",

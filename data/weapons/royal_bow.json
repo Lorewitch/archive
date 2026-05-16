@@ -1,7 +1,7 @@
 {
   "id": "royal_bow",
   "category": "weapons",
-  "icon": "assets/icons/weapons/bow/royal_bow.png",
+  "icon": "assets/icons/weapons/bow/royal_bow.webp",
   "title": {
     "ru": "Королевский лук",
     "en": "Royal Bow",

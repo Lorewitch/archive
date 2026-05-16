@@ -1,7 +1,7 @@
 {
   "id": "the_bell",
   "category": "weapons",
-  "icon": "assets/icons/weapons/claymore/the_bell.png",
+  "icon": "assets/icons/weapons/claymore/the_bell.webp",
   "title": {
     "ru": "Меч-колокол",
     "en": "The Bell",
