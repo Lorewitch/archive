@@ -6,6 +6,8 @@ let ENEMIES = [];
 const DETAILS = new Map();
 const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
+const SEARCH_TEXT_CACHE = new WeakMap();
+const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
 let renderSequence = 0;
 
 function currentAssetVersion() {
@@ -94,16 +96,6 @@ async function getGenericDetail(sectionId, id) {
   return result;
 }
 
-async function getEnemyById(id) {
-  // Hidden enemy lookup is used only for common_enemies loot cards.
-  const cacheKey = `enemies:${id}`;
-  if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
-
-  const detail = await fetchOptionalJson(`data/enemies/${encodeURIComponent(id)}.json`);
-  const result = detail?.id ? detail : null;
-  DETAILS.set(cacheKey, result);
-  return result;
-}
 
 const WEAPON_TYPES = [
   ["sword", "Одноручное"],
@@ -169,7 +161,6 @@ function isDevelopmentMaterialsCatalog(config = getSectionConfig()) {
   return config?.id === "items" && state.subsection === "development_materials";
 }
 
-const DEVELOPMENT_REGION_FILTERS = REGION_FILTERS;
 
 const DEVELOPMENT_MATERIAL_TYPE_FILTERS = [
   ["talents", "Таланты"],
@@ -201,6 +192,10 @@ const ITEM_GROUP_TYPE_FILTERS = {
     ["equipment", "Снаряжение"],
   ],
 };
+
+const ITEM_GROUP_TYPE_KEYS = Object.fromEntries(
+  Object.entries(ITEM_GROUP_TYPE_FILTERS).map(([group, options]) => [group, new Set(options.map(([value]) => value))])
+);
 
 const ITEM_GROUP_TYPE_LABELS = {
   teyvat_resources: {
@@ -245,8 +240,7 @@ function normalizeItemGroupType(itemGroup, value) {
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "_")
     .replace(/^_+|_+$/g, "");
-  const known = new Set((ITEM_GROUP_TYPE_FILTERS[itemGroup] || []).map(([option]) => option));
-  return known.has(key) ? key : "";
+  return ITEM_GROUP_TYPE_KEYS[itemGroup]?.has(key) ? key : "";
 }
 
 function itemGroupTypeTitle(item, lang = "ru") {
@@ -359,10 +353,16 @@ function normalizeCommonEnemyType(value) {
 }
 
 function itemCommonEnemyTypes(item) {
+  if (!item || typeof item !== "object") return new Set();
+  if (COMMON_ENEMY_TYPES_CACHE.has(item)) return COMMON_ENEMY_TYPES_CACHE.get(item);
+
   const enemies = droppedByEnemies(item);
-  return new Set(enemies
+  const result = new Set(enemies
     .map(enemy => normalizeCommonEnemyType(enemy.enemy_group))
     .filter(Boolean));
+
+  COMMON_ENEMY_TYPES_CACHE.set(item, result);
+  return result;
 }
 
 function catalogFilterLabel(config) {
@@ -955,10 +955,6 @@ function bindDroppedByEnemies(item) {
 }
 
 
-function renderLangPills(languages = []) {
-  const langs = languages.length ? languages : ["ru", "en", "zh"];
-  return `<div class="lang-pills">${langs.map(lang => `<span class="tiny-pill">${langLabel(lang)}</span>`).join("")}</div>`;
-}
 
 function closeMenu() {
   document.body.classList.remove("menu-open");
@@ -1003,30 +999,36 @@ function catalogBackLabel(config, groupKey = state.subsection) {
   return `← Назад к списку ${String(config.title || "каталога").toLocaleLowerCase("ru-RU")}`;
 }
 
+function routeHash(section, entryId = null, subsection = null) {
+  if (entryId && subsection) return `#/${section}/${subsection}/${entryId}`;
+  if (entryId) return `#/${section}/${entryId}`;
+  if (subsection) return `#/${section}/${subsection}`;
+  return `#/${section}`;
+}
+
 function setRoute(section, entryId = null, subsection = null) {
   const config = getSectionConfig(section);
-  state.section = section;
+  const normalizedSection = config.id;
+  const nextHash = routeHash(normalizedSection, entryId, subsection);
+
+  state.section = normalizedSection;
   state.subsection = subsection;
   state.entryId = entryId;
   closeMenu();
 
-  if (entryId && subsection) {
-    window.location.hash = `#/${section}/${subsection}/${entryId}`;
-  } else if (entryId) {
-    window.location.hash = `#/${section}/${entryId}`;
-  } else if (subsection) {
-    window.location.hash = `#/${section}/${subsection}`;
-  } else {
-    window.location.hash = `#/${section}`;
+  if (window.location.hash === nextHash) {
+    render();
+    return;
   }
-  render();
+
+  window.location.hash = nextHash;
 }
 
 function parseHash() {
   const parts = window.location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
   const section = parts[0] || "books";
   const config = getSectionConfig(section);
-  state.section = section;
+  state.section = config.id;
   state.subsection = null;
   state.entryId = null;
 
@@ -1066,7 +1068,7 @@ function optionsFor(config) {
   return [];
 }
 
-function itemMatchesFilter(item, config, selected) {
+function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
   let matchesMainFilter = true;
 
   if (selected !== "all") {
@@ -1085,9 +1087,8 @@ function itemMatchesFilter(item, config, selected) {
 
   if (!matchesMainFilter) return false;
 
-  const typeOptions = typeFiltersForCurrentCatalog(config);
-  if (typeOptions.length) {
-    return activeTypeFilters(config).includes(itemTypeFilterValue(item, config));
+  if (activeTypeSet) {
+    return activeTypeSet.has(itemTypeFilterValue(item, config));
   }
 
   return true;
@@ -1129,8 +1130,13 @@ function fallbackSearchableText(item) {
 }
 
 function searchableText(item) {
-  const prepared = String(item?.search_text || "").trim();
-  return prepared ? prepared.toLocaleLowerCase("ru-RU") : fallbackSearchableText(item);
+  if (!item || typeof item !== "object") return "";
+  if (SEARCH_TEXT_CACHE.has(item)) return SEARCH_TEXT_CACHE.get(item);
+
+  const prepared = String(item.search_text || "").trim();
+  const text = prepared ? prepared.toLocaleLowerCase("ru-RU") : fallbackSearchableText(item);
+  SEARCH_TEXT_CACHE.set(item, text);
+  return text;
 }
 
 function gameVersionSortValue(value) {
@@ -1159,10 +1165,13 @@ function compareByGameVersionDesc(a, b) {
 function filteredEntries(config) {
   const filterState = state.filters[config.id];
   const query = filterState.query.trim().toLocaleLowerCase("ru-RU");
+  const activeTypeSet = typeFiltersForCurrentCatalog(config).length
+    ? new Set(activeTypeFilters(config))
+    : null;
 
   const rows = collectionForCatalog(config).filter(item => {
     const queryOk = !query || searchableText(item).includes(query);
-    const filterOk = itemMatchesFilter(item, config, filterState.filter);
+    const filterOk = itemMatchesFilter(item, config, filterState.filter, activeTypeSet);
     return queryOk && filterOk;
   });
 
@@ -2027,9 +2036,11 @@ async function render() {
     renderLoading("Открываю книгу…");
     try {
       const book = await getBookById(state.entryId);
+      if (sequence !== renderSequence) return;
       if (!state.subsection) state.subsection = groupValue(book, config);
       renderBookDetail(book);
     } catch (error) {
+      if (sequence !== renderSequence) return;
       renderError(error.message || "Не удалось открыть книгу.");
     }
     return;
@@ -2039,8 +2050,10 @@ async function render() {
     renderLoading("Открываю сет артефактов…");
     try {
       const artifact = await getGenericDetail("artifacts", state.entryId);
+      if (sequence !== renderSequence) return;
       renderArtifactDetail(artifact);
     } catch (error) {
+      if (sequence !== renderSequence) return;
       renderError(error.message || "Не удалось открыть сет артефактов.");
     }
     return;
@@ -2048,11 +2061,17 @@ async function render() {
 
   if (state.entryId) {
     renderLoading("Открываю запись…");
-    const item = await getGenericDetail(config.id, state.entryId);
-    if (config.id === "items" && isEnemyDropEntry(item)) {
-      renderEnemyDropsDetail(item, config);
-    } else {
-      renderGenericDetail(item, config);
+    try {
+      const item = await getGenericDetail(config.id, state.entryId);
+      if (sequence !== renderSequence) return;
+      if (config.id === "items" && isEnemyDropEntry(item)) {
+        renderEnemyDropsDetail(item, config);
+      } else {
+        renderGenericDetail(item, config);
+      }
+    } catch (error) {
+      if (sequence !== renderSequence) return;
+      renderError(error.message || "Не удалось открыть запись.");
     }
     return;
   }
@@ -2074,6 +2093,17 @@ window.addEventListener("keydown", event => {
 
 
 const toTopButton = document.getElementById("to-top-button");
+let responsiveFitFrame = 0;
+
+function scheduleResponsiveFit() {
+  if (responsiveFitFrame) return;
+  responsiveFitFrame = window.requestAnimationFrame(() => {
+    responsiveFitFrame = 0;
+    fitItemMaterialTabs();
+    fitEnemyDescriptionPanel();
+  });
+}
+
 function updateToTopButton() {
   if (!toTopButton) return;
   toTopButton.classList.toggle("visible", window.scrollY > 520);
@@ -2088,9 +2118,4 @@ updateToTopButton();
 
 init();
 
-window.addEventListener("resize", () => {
-  window.requestAnimationFrame(() => {
-    fitItemMaterialTabs();
-    fitEnemyDescriptionPanel();
-  });
-});
+window.addEventListener("resize", scheduleResponsiveFit);
