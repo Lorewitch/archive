@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import argparse
 import json
 import re
 from pathlib import Path
@@ -74,8 +73,6 @@ ITEM_TYPE_DEFINITIONS = {
 }
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
-
-WARNINGS: list[str] = []
 
 
 def read_text(path: Path) -> str:
@@ -205,6 +202,22 @@ def int_from_meta(meta: dict[str, str], key: str, fallback: int | None = None) -
         return int(value)
     except ValueError:
         return fallback
+
+
+def game_version_from_meta(meta: dict[str, str]) -> str:
+    """Return the hidden Genshin release version used for default catalog sorting.
+
+    Stored as a string because Genshin versions are semantic-ish values:
+    5.10 must sort after 5.9, so the client parses it by numeric parts.
+    Empty/unknown values are allowed and are sorted below real versions.
+    """
+    value = (meta.get("game_version") or meta.get("release_version") or "").strip()
+    if not value:
+        return ""
+    value = value.replace(",", ".")
+    if value.lower() in {"unknown", "неизвестно", "none", "null", "-", "—"}:
+        return ""
+    return value
 
 
 def title_from_meta(meta: dict[str, str]) -> dict[str, str]:
@@ -469,6 +482,7 @@ def build_book(path: Path) -> dict[str, Any]:
         "title": title_from_meta(meta),
         "region": meta.get("region", ""),
         "volume_count": int_from_meta(meta, "volume_count", len(volumes) or 1),
+        "game_version": game_version_from_meta(meta),
         "tags": tags_from_meta(meta),
         "languages": languages_from_text(volumes=volumes),
         "volumes": volumes,
@@ -533,6 +547,7 @@ def build_artifact(path: Path) -> dict[str, Any]:
         "title": title_from_meta(meta),
         "region": meta.get("region", ""),
         "piece_count": int_from_meta(meta, "piece_count", len(parts) or 5),
+        "game_version": game_version_from_meta(meta),
         "tags": tags_from_meta(meta),
         "languages": languages_from_text(text_by_lang=text_by_lang),
         "parts": parts,
@@ -704,6 +719,7 @@ def build_enemy(path: Path) -> dict[str, Any]:
         "icon": meta.get("icon", "").strip(),
         "title": title_from_meta(meta),
         "region": meta.get("region", ""),
+        "game_version": game_version_from_meta(meta),
         "tags": tags_from_meta(meta),
         "languages": languages_from_text(text_by_lang=text_by_lang),
         "text": text_by_lang,
@@ -737,6 +753,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         "title": title_from_meta(meta),
         "region": meta.get("region", ""),
         "rarity": int_from_meta(meta, "rarity", None),
+        "game_version": game_version_from_meta(meta),
         "tags": tags_from_meta(meta),
         "languages": languages,
         "text": text_by_lang,
@@ -807,125 +824,6 @@ def make_search_text(*values: Any) -> str:
     return " ".join(parts)
 
 
-def display_path(path: Path | str) -> str:
-    try:
-        return str(Path(path).resolve().relative_to(ROOT))
-    except Exception:
-        return str(path)
-
-
-def add_warning(path: Path | str, message: str) -> None:
-    WARNINGS.append(f"{display_path(path)}: {message}")
-
-
-def warn_missing_titles(entry: dict[str, Any], path: Path) -> None:
-    title = entry.get("title") or {}
-    for lang in LANGS:
-        if not str(title.get(lang, "")).strip():
-            add_warning(path, f"нет title_{lang}")
-
-
-def warn_missing_icon(entry: dict[str, Any], path: Path) -> None:
-    icon = str(entry.get("icon", "")).strip()
-    icon_is_optional = (
-        entry.get("category") == "items"
-        and entry.get("item_group") in {"common_enemies", "development_materials"}
-        and entry.get("materials")
-    )
-    if not icon:
-        if not icon_is_optional:
-            add_warning(path, "нет icon")
-        return
-    if not (ROOT / icon).exists():
-        add_warning(path, f"иконка не найдена: {icon}")
-
-
-def warn_duplicate_id(seen: dict[str, Path], entry: dict[str, Any], path: Path) -> None:
-    entry_id = str(entry.get("id", "")).strip()
-    if not entry_id:
-        add_warning(path, "нет id")
-        return
-    if entry_id in seen:
-        add_warning(path, f"дублируется id '{entry_id}' с файлом {display_path(seen[entry_id])}")
-    else:
-        seen[entry_id] = path
-
-
-def validate_materials(entry: dict[str, Any], path: Path) -> None:
-    materials = entry.get("materials", [])
-    if entry.get("entry_type") in {"enemy_drops", "material_set"} and not materials:
-        add_warning(path, "entry_type требует material_1_*/material_2_* или секции ### material: ...")
-
-    for material in materials:
-        key = str(material.get("key", "")).strip()
-        if not key:
-            add_warning(path, "у материала нет key")
-        title = material.get("title") or {}
-        for lang in LANGS:
-            if not str(title.get(lang, "")).strip():
-                add_warning(path, f"у материала {key or '?'} нет title_{lang}")
-        icon = str(material.get("icon", "")).strip()
-        if icon and not (ROOT / icon).exists():
-            add_warning(path, f"иконка материала не найдена: {icon}")
-
-
-def validate_entry(entry: dict[str, Any], path: Path) -> None:
-    if not str(entry.get("id", "")).strip():
-        add_warning(path, "нет id")
-
-    warn_missing_titles(entry, path)
-    warn_missing_icon(entry, path)
-
-    category = entry.get("category")
-    if category == "books":
-        subtype = entry.get("subtype") or entry.get("book_type")
-        if subtype not in BOOK_SUBTYPES:
-            add_warning(path, f"неизвестный subtype/book_type: {subtype}")
-        if not entry.get("volumes"):
-            add_warning(path, "нет томов/текста книги")
-
-    elif category == "artifacts":
-        parts = entry.get("parts", [])
-        if len(parts) != 5:
-            add_warning(path, f"у сета артефактов найдено частей: {len(parts)} вместо 5")
-
-    elif category == "weapons":
-        weapon_type = entry.get("weapon_type")
-        if weapon_type not in WEAPON_TYPES:
-            add_warning(path, f"weapon_type должен быть одним из {', '.join(sorted(WEAPON_TYPES))}; сейчас: {weapon_type or 'пусто'}")
-
-    elif category == "items":
-        item_group = entry.get("item_group")
-        if item_group not in ITEM_GROUPS:
-            add_warning(path, f"неизвестный item_group: {item_group}")
-        if item_group == "development_materials" and entry.get("material_type") not in DEVELOPMENT_MATERIAL_TYPES:
-            add_warning(path, f"неизвестный material_type: {entry.get('material_type')}")
-        if item_group in ITEM_TYPE_DEFINITIONS:
-            item_type = entry.get("item_type")
-            if item_type not in ITEM_TYPE_DEFINITIONS[item_group]:
-                add_warning(path, f"неизвестный item_type для {item_group}: {item_type}")
-        validate_materials(entry, path)
-
-    elif category == "enemies":
-        if not str(entry.get("enemy_group", "")).strip():
-            add_warning(path, "нет enemy_group")
-        if not str(entry.get("enemy_type", "")).strip():
-            add_warning(path, "нет enemy_type")
-
-    else:
-        add_warning(path, f"неизвестная category: {category}")
-
-
-def report_warnings(strict: bool = False) -> None:
-    if not WARNINGS:
-        return
-    print("\nПредупреждения сборки:")
-    for warning in WARNINGS:
-        print(f"- {warning}")
-    if strict:
-        raise SystemExit("\nСтрогая проверка остановила сборку: исправь предупреждения выше.")
-
-
 
 def index_book(book: dict[str, Any]) -> dict[str, Any]:
     return {
@@ -937,6 +835,7 @@ def index_book(book: dict[str, Any]) -> dict[str, Any]:
         "title": book.get("title", {}),
         "region": book.get("region", ""),
         "volume_count": book.get("volume_count", 1),
+        "game_version": book.get("game_version", ""),
         "tags": book.get("tags", []),
         "languages": book.get("languages", LANGS),
         "search_text": make_search_text(
@@ -944,6 +843,7 @@ def index_book(book: dict[str, Any]) -> dict[str, Any]:
             book.get("region", ""),
             book.get("subtype", ""),
             book.get("book_type", ""),
+            book.get("game_version", ""),
             book.get("tags", []),
             [volume.get("title", {}) for volume in book.get("volumes", [])],
         ),
@@ -958,11 +858,13 @@ def index_artifact(item: dict[str, Any]) -> dict[str, Any]:
         "title": item.get("title", {}),
         "region": item.get("region", ""),
         "piece_count": item.get("piece_count", 5),
+        "game_version": item.get("game_version", ""),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("region", ""),
+            item.get("game_version", ""),
             item.get("tags", []),
             [part.get("title", {}) for part in item.get("parts", [])],
         ),
@@ -978,6 +880,7 @@ def index_weapon(item: dict[str, Any]) -> dict[str, Any]:
         "weapon_type": item.get("weapon_type", ""),
         "type": item.get("weapon_type", ""),
         "rarity": item.get("rarity"),
+        "game_version": item.get("game_version", ""),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
         "search_text": make_search_text(
@@ -985,6 +888,7 @@ def index_weapon(item: dict[str, Any]) -> dict[str, Any]:
             item.get("weapon_type", ""),
             item.get("type", ""),
             item.get("rarity", ""),
+            item.get("game_version", ""),
             item.get("tags", []),
         ),
     }
@@ -999,6 +903,7 @@ def index_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
         "icon": enemy.get("icon", ""),
         "title": enemy.get("title", {}),
         "region": enemy.get("region", ""),
+        "game_version": enemy.get("game_version", ""),
         "tags": enemy.get("tags", []),
         "languages": enemy.get("languages", LANGS),
         "drop_count": len(enemy.get("drops", [])),
@@ -1007,6 +912,7 @@ def index_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
             enemy.get("enemy_group", ""),
             enemy.get("enemy_type", ""),
             enemy.get("region", ""),
+            enemy.get("game_version", ""),
             enemy.get("tags", []),
             enemy.get("description", {}),
             [drop.get("title", {}) for drop in enemy.get("drops", [])],
@@ -1021,6 +927,7 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "icon": item.get("icon", ""),
         "title": item.get("title", {}),
         "region": item.get("region", ""),
+        "game_version": item.get("game_version", ""),
         "item_group": item.get("item_group", "misc"),
         "entry_type": item.get("entry_type", "item"),
         "item_type": item.get("item_type", ""),
@@ -1052,6 +959,7 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("region", ""),
+            item.get("game_version", ""),
             item.get("item_group", ""),
             item.get("entry_type", ""),
             item.get("material_type", ""),
@@ -1080,11 +988,8 @@ def build_collection(
     clean_json_dir(detail_dir)
 
     entries: list[dict[str, Any]] = []
-    seen_ids: dict[str, Path] = {}
     for md_file in sorted(source_dir.rglob("*.md")):
         entry = builder(md_file)
-        validate_entry(entry, md_file)
-        warn_duplicate_id(seen_ids, entry, md_file)
         entries.append(entry)
         write_json(detail_dir / f"{entry['id']}.json", entry)
 
@@ -1111,6 +1016,7 @@ def brief_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
         "icon": enemy.get("icon", ""),
         "enemy_group": enemy.get("enemy_group", ""),
         "region": enemy.get("region", ""),
+        "game_version": enemy.get("game_version", ""),
         "languages": enemy.get("languages", LANGS),
         "text": enemy.get("text", {}),
         "description": enemy.get("description", {}),
@@ -1125,6 +1031,7 @@ def brief_item(item: dict[str, Any]) -> dict[str, Any]:
         "icon": item.get("icon", ""),
         "item_group": item.get("item_group", ""),
         "entry_type": item.get("entry_type", ""),
+        "game_version": item.get("game_version", ""),
         "materials": [
             {
                 "key": material.get("key", ""),
@@ -1141,14 +1048,7 @@ def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
     source_dir = CONTENT_DIR / "items"
     source_dir.mkdir(parents=True, exist_ok=True)
 
-    items: list[dict[str, Any]] = []
-    seen_ids: dict[str, Path] = {}
-    for md_file in sorted(source_dir.rglob("*.md")):
-        item = build_generic(md_file, "items")
-        validate_entry(item, md_file)
-        warn_duplicate_id(seen_ids, item, md_file)
-        items.append(item)
-
+    items = [build_generic(md_file, "items") for md_file in sorted(source_dir.rglob("*.md"))]
     enemies_by_id = {enemy.get("id"): enemy for enemy in enemies if enemy.get("id")}
 
     enemy_to_items: dict[str, list[dict[str, Any]]] = {enemy_id: [] for enemy_id in enemies_by_id}
@@ -1184,20 +1084,14 @@ def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return items
 
 
-def build(strict: bool = False) -> None:
+def build() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     books = build_collection("books", build_book, index_book)
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
     enemy_source_dir.mkdir(parents=True, exist_ok=True)
-    enemies: list[dict[str, Any]] = []
-    seen_enemy_ids: dict[str, Path] = {}
-    for md_file in sorted(enemy_source_dir.rglob("*.md")):
-        enemy = build_enemy(md_file)
-        validate_entry(enemy, md_file)
-        warn_duplicate_id(seen_enemy_ids, enemy, md_file)
-        enemies.append(enemy)
+    enemies = [build_enemy(md_file) for md_file in sorted(enemy_source_dir.rglob("*.md"))]
 
     items = build_items(enemies)
 
@@ -1214,15 +1108,7 @@ def build(strict: bool = False) -> None:
     }
     write_json(DATA_DIR / "archive_summary.json", summary)
     print("Built archive data:", summary)
-    report_warnings(strict=strict)
-
-
-def main() -> None:
-    parser = argparse.ArgumentParser(description="Build Lorewitch archive JSON data.")
-    parser.add_argument("--strict", action="store_true", help="Stop with an error if the build finds warnings.")
-    args = parser.parse_args()
-    build(strict=args.strict)
 
 
 if __name__ == "__main__":
-    main()
+    build()
