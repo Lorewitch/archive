@@ -1,0 +1,38 @@
+{
+  "id": "recurve_bow",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/recurve_bow.png",
+  "title": {
+    "ru": "Изогнутый лук",
+    "en": "Recurve Bow",
+    "zh": "反曲弓"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Говорят, этот лук может сбить орла в полёте, но всё же многое зависит и от навыка самого лучника.\n\n### История\nИзящный изогнутый лук, сделанный из дерева, костей и сухожилий животных.\nВ руках профессионального лучника он может сбить орла в полёте.\nЭто гордость охотника и доказательство его мастерства.\nПомянем ни в чём не повинных орлов.",
+    "en": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.\n\n### Story\nA recurve bow exquisitely made from wood, bones, and animal tendons.\nIn the hands of a masterful archer, it can shoot down eagles in flight.\nIt is the pride of a hunter, and proof of mastery.\nPity the innocent eagles.",
+    "zh": "据说能射下苍鹰的猎弓，但能不能做到主要还得看弓手的技术。\n\n### 故事\n由木材、骨头与动物筋腱组合，精心打造出的反曲弓。在射术高超的猎人手中，能够射下高天上飞翔的鸢鹰。这是猎人的骄傲，也是精湛弓术的证明。只是可怜了无端受害的苍鹰。"
+  },
+  "description": {
+    "ru": "Говорят, этот лук может сбить орла в полёте, но всё же многое зависит и от навыка самого лучника.\n\n### История\nИзящный изогнутый лук, сделанный из дерева, костей и сухожилий животных.\nВ руках профессионального лучника он может сбить орла в полёте.\nЭто гордость охотника и доказательство его мастерства.\nПомянем ни в чём не повинных орлов.",
+    "en": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.\n\n### Story\nA recurve bow exquisitely made from wood, bones, and animal tendons.\nIn the hands of a masterful archer, it can shoot down eagles in flight.\nIt is the pride of a hunter, and proof of mastery.\nPity the innocent eagles.",
+    "zh": "据说能射下苍鹰的猎弓，但能不能做到主要还得看弓手的技术。\n\n### 故事\n由木材、骨头与动物筋腱组合，精心打造出的反曲弓。在射术高超的猎人手中，能够射下高天上飞翔的鸢鹰。这是猎人的骄傲，也是精湛弓术的证明。只是可怜了无端受害的苍鹰。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

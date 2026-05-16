@@ -1,0 +1,38 @@
+{
+  "id": "cool_steel",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/cool_steel.png",
+  "title": {
+    "ru": "Холодное лезвие",
+    "en": "Cool Steel",
+    "zh": "冷刃"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Стальной меч, на который можно положиться. Служит доказательством великих завоеваний своего прежнего владельца.\n\n### История\nКрепкий стальной меч, изготовленный методом многократной проковки.\nЕго тёмное лезвие сверкает холодным блеском.\nНекогда этот меч принадлежал знаменитому искателю приключений. Он познал необъятность земных просторов,а на своём пути сражался как с монстрами, чьи кости были подобны стали по крепости, так и с разбойниками и бандитами.\nНо в конце концовнашлась девушка, которую искатель приключений полюбил и ради которой отказался от необъятных земных просторов и от бездонного неба,От коллег по Гильдии и от своего верного друга, выкованного из холодной стали.",
+    "en": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.\n\n### Story\nA sturdy steel sword forged by the method of folding.\nIt has a dull shine with a cold glimmer.\nIt belonged to a famous adventurer who witnessed the vastness of the earth.\nWith it, he severed the iron bones of monsters and crossed blades with bandits.\nBut in the end,\nHe gave up the vast earth, the boundless sky,\nHis friends in the Guild, his trusty Cool Steel, and old pals, to be with the girl he loved.",
+    "zh": "多层锻打的精钢铸就的可靠兵器，曾见证旧主诸多冒险奇谭。\n\n### 故事\n折叠多次锻打而成的坚韧钢材，色泽暗淡，闪烁着冰冷的光泽。\n曾属于著名冒险家。\n见识过大地的广袤深邃，斩断过魔物的钢骨，也曾与贼匪的刀剑相交。\n但在最后，为了少女，他放弃了广袤的大地、深邃的天，协会的同伴，以及冰冷钢铁锻铸的可靠老友。"
+  },
+  "description": {
+    "ru": "Стальной меч, на который можно положиться. Служит доказательством великих завоеваний своего прежнего владельца.\n\n### История\nКрепкий стальной меч, изготовленный методом многократной проковки.\nЕго тёмное лезвие сверкает холодным блеском.\nНекогда этот меч принадлежал знаменитому искателю приключений. Он познал необъятность земных просторов,а на своём пути сражался как с монстрами, чьи кости были подобны стали по крепости, так и с разбойниками и бандитами.\nНо в конце концовнашлась девушка, которую искатель приключений полюбил и ради которой отказался от необъятных земных просторов и от бездонного неба,От коллег по Гильдии и от своего верного друга, выкованного из холодной стали.",
+    "en": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.\n\n### Story\nA sturdy steel sword forged by the method of folding.\nIt has a dull shine with a cold glimmer.\nIt belonged to a famous adventurer who witnessed the vastness of the earth.\nWith it, he severed the iron bones of monsters and crossed blades with bandits.\nBut in the end,\nHe gave up the vast earth, the boundless sky,\nHis friends in the Guild, his trusty Cool Steel, and old pals, to be with the girl he loved.",
+    "zh": "多层锻打的精钢铸就的可靠兵器，曾见证旧主诸多冒险奇谭。\n\n### 故事\n折叠多次锻打而成的坚韧钢材，色泽暗淡，闪烁着冰冷的光泽。\n曾属于著名冒险家。\n见识过大地的广袤深邃，斩断过魔物的钢骨，也曾与贼匪的刀剑相交。\n但在最后，为了少女，他放弃了广袤的大地、深邃的天，协会的同伴，以及冰冷钢铁锻铸的可靠老友。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

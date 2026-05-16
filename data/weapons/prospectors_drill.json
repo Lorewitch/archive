@@ -1,0 +1,38 @@
+{
+  "id": "prospectors_drill",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/polearm/prospectors_drill.png",
+  "title": {
+    "ru": "Бур рудоискателя",
+    "en": "Prospector's Drill",
+    "zh": "勘探钻机"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "4.1",
+  "tags": [
+    "оружие",
+    "древковое"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Длинный бур, который в наше время нигде не найти. Его часто использовали для поиска ценных руд и резьбе по камню.\n\n### История\nПолезный инструмент для бурения земли и скальных пород.\n\nШироко применялся в геологической разведке и других областях.\n\nИногда им пользовались также строители и каменотёсы, чтобы обтесать камни и придать им нужную форму.\n\nКак и цепная пила, которой раньше часто пользовались на заводах и верфях, этот инструмент работал на мазуте, устаревшем и источнике энергии с низкой эффективностью.\n\nВ те времена до изобретения пневмусии было ещё далеко.\n\nИз-за кинетических и мощностных ограничений тогдашние меки по большей части оставались в разряде диковинок или предметов хобби, а вся физическая работа выполнялась силами человека.\n\nВ рукоятке установлен резервуар для топлива, поэтому с ней следует обращаться крайне осторожно.\n\nОднако в источниках находятся записи о том, что раньше этот инструмент использовался в боях.\n\nБур с длинной рукоятью обладает непревзойдёнными пробивными и режущими способностями.\n\nИ если учесть, что бур вонзается в камни, как горячий нож в масло, становится ясно, что с предметами, уступающими мягкостью камню, он справится и вовсе играючи.\n\nПозже бур вышел из употребления в связи с развитием общества.\n\nБыл издан приказ, запрещающий несанкционированное владение буром и рядом других инструментов.",
+    "en": "A long-handled drill that you can rarely find nowadays. It was often used in delving and in carving stones.\n\n### Story\nA handy tool that can drill into the ground and rocks with ease.\n\nIt had a wide range of uses in prospecting and other operations.\n\nEven stonemasons and construction workers utilized its characteristics,\n\nTo cut rocks and create preliminary shapes and structures.\n\nLike the chainsaw once popular in the workshops and docks,\n\nIt relied on traditional and inefficient fuel to run.\n\nAt that time, when controllable Pneumousia annihilation reactions had not been developed,\n\nThe primitive clockwork meka were hindered by suboptimal kinematics and dynamics,\n\nAnd were seen as nothing more than curiosities and indulgences,\n\nWhile manual labor remained a necessity.\n\nThe tool's long grip was a fuel storage compartment and should be treated with care.\n\nEven so, there were records of the drill being used in battle.\n\nThe tool's piercing and cutting power were unmatched.\n\nSince it could pierce through even rocks like a hot knife through butter,\n\nIt made quick work out of penetrating through even softer materials.\n\nAs society advanced, this type of tool gradually ceased to be used in public.\n\nAnd like some other tools, unauthorized possession of it also became prohibited by administrative order.",
+    "zh": "如今几乎绝迹的长柄钻机，常用于勘探与石料切割雕刻作业。\n\n### 故事\n能够轻松钻入土地与岩石中的便利工具，\n\n在勘探等各种作业中都有着广泛的用途。\n\n从事石匠与建筑工人也会利用它的特性，\n\n来削切石料，以初步塑造大体外形结构。\n\n它与过去在工场、船坞流行的链锯相同，\n\n依赖的动力来源是较为传统低效的燃油，\n\n彼时可控的芒荒湮灭反应尚未被开发出，\n\n当时的发条机关由于运动学与动力限制，\n\n还大多停留在珍奇物件、嗜好品的程度，\n\n各种劳力作业都还需要通过人力来完成。\n\n长柄是燃料储存仓，因此不应粗暴使用。\n\n但在过去也曾有用它战斗的描述与记载。\n\n这种长柄钻的穿刺、削切能力无可比拟。\n\n既然它能够如同热刀刺入黄油般深深没入岩石，\n\n那对付不若岩石坚硬的东西的话更是不在话下。\n\n后来它随着各种进步而退出了枫丹的历史舞台，\n\n未经允许的持有也与一些其它工具一同，为行政命令所禁止。"
+  },
+  "description": {
+    "ru": "Длинный бур, который в наше время нигде не найти. Его часто использовали для поиска ценных руд и резьбе по камню.\n\n### История\nПолезный инструмент для бурения земли и скальных пород.\n\nШироко применялся в геологической разведке и других областях.\n\nИногда им пользовались также строители и каменотёсы, чтобы обтесать камни и придать им нужную форму.\n\nКак и цепная пила, которой раньше часто пользовались на заводах и верфях, этот инструмент работал на мазуте, устаревшем и источнике энергии с низкой эффективностью.\n\nВ те времена до изобретения пневмусии было ещё далеко.\n\nИз-за кинетических и мощностных ограничений тогдашние меки по большей части оставались в разряде диковинок или предметов хобби, а вся физическая работа выполнялась силами человека.\n\nВ рукоятке установлен резервуар для топлива, поэтому с ней следует обращаться крайне осторожно.\n\nОднако в источниках находятся записи о том, что раньше этот инструмент использовался в боях.\n\nБур с длинной рукоятью обладает непревзойдёнными пробивными и режущими способностями.\n\nИ если учесть, что бур вонзается в камни, как горячий нож в масло, становится ясно, что с предметами, уступающими мягкостью камню, он справится и вовсе играючи.\n\nПозже бур вышел из употребления в связи с развитием общества.\n\nБыл издан приказ, запрещающий несанкционированное владение буром и рядом других инструментов.",
+    "en": "A long-handled drill that you can rarely find nowadays. It was often used in delving and in carving stones.\n\n### Story\nA handy tool that can drill into the ground and rocks with ease.\n\nIt had a wide range of uses in prospecting and other operations.\n\nEven stonemasons and construction workers utilized its characteristics,\n\nTo cut rocks and create preliminary shapes and structures.\n\nLike the chainsaw once popular in the workshops and docks,\n\nIt relied on traditional and inefficient fuel to run.\n\nAt that time, when controllable Pneumousia annihilation reactions had not been developed,\n\nThe primitive clockwork meka were hindered by suboptimal kinematics and dynamics,\n\nAnd were seen as nothing more than curiosities and indulgences,\n\nWhile manual labor remained a necessity.\n\nThe tool's long grip was a fuel storage compartment and should be treated with care.\n\nEven so, there were records of the drill being used in battle.\n\nThe tool's piercing and cutting power were unmatched.\n\nSince it could pierce through even rocks like a hot knife through butter,\n\nIt made quick work out of penetrating through even softer materials.\n\nAs society advanced, this type of tool gradually ceased to be used in public.\n\nAnd like some other tools, unauthorized possession of it also became prohibited by administrative order.",
+    "zh": "如今几乎绝迹的长柄钻机，常用于勘探与石料切割雕刻作业。\n\n### 故事\n能够轻松钻入土地与岩石中的便利工具，\n\n在勘探等各种作业中都有着广泛的用途。\n\n从事石匠与建筑工人也会利用它的特性，\n\n来削切石料，以初步塑造大体外形结构。\n\n它与过去在工场、船坞流行的链锯相同，\n\n依赖的动力来源是较为传统低效的燃油，\n\n彼时可控的芒荒湮灭反应尚未被开发出，\n\n当时的发条机关由于运动学与动力限制，\n\n还大多停留在珍奇物件、嗜好品的程度，\n\n各种劳力作业都还需要通过人力来完成。\n\n长柄是燃料储存仓，因此不应粗暴使用。\n\n但在过去也曾有用它战斗的描述与记载。\n\n这种长柄钻的穿刺、削切能力无可比拟。\n\n既然它能够如同热刀刺入黄油般深深没入岩石，\n\n那对付不若岩石坚硬的东西的话更是不在话下。\n\n后来它随着各种进步而退出了枫丹的历史舞台，\n\n未经允许的持有也与一些其它工具一同，为行政命令所禁止。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "polearm",
+  "type": "polearm"
+}

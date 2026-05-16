@@ -1,0 +1,38 @@
+{
+  "id": "sacrificial_sword",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/sacrificial_sword.png",
+  "title": {
+    "ru": "Церемониальный меч",
+    "en": "Sacrificial Sword",
+    "zh": "祭礼剑"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Декоративный церемониальный меч, со временем покрывшийся камнем, но украшения на нём всё ещё можно разобрать. Позволяет владельцу выстоять под суровостью песков времени.\n\n### История\nНа утёсе, обращённом на восток, в сторону моря, предки приносили жертвы хозяевам Ветра и Времени.\nВремя и Ветер неразрывно связаны, так как «Ветер приносит семена историй, а Время их взращивает».\nЭтот меч рассказывает историю о защите и о храбрости, которая для этого требуется.\nИзначально этот меч был не заточен и использовался, как реквизит, но со временем ветра заострили его.\n\nЭтот меч некогда принадлежал мягкосердечному клану Гуннхильдры.\nВо всех ритуалах они исполняли роль защитников Мондштадта.\n\nВ церемонии поклонения ветрам времени было три акта.\nПоследний был посвящён истории о защитнике жизни и свободы.\n\nИстория и каноны этой церемонии давно утеряны.\nНо клан Гуннхильдры защищает Мондштадт и по сей день.",
+    "en": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.\n\n### Story\nOn the cliff facing the eastern sea, the ancestors worshiped the masters of Time and Anemo together.\nThe two are intimately related, as expressed in the saying, \"Anemo brings stories while Time nurtures them.\"\nThis sword tells the story of protection to show the courage to protect.\nOriginally just a prop, its blade was sharpened by the passage of time.\n\nThis sword once belonged to the kindly Gunnhildr Clan.\nIn sacrificial ceremonies, they would enact the defense of Mondstadt.\n\nThere were three acts in the ceremony dedicated to the winds of time.\nThe final act told a tale of the protection of Mondstadt, of life, and of freedom.\n\nThe ceremony and its history have now been lost.\nBut the Gunnhildr Clan continues to act as guardians of Mondstadt to this day.",
+    "zh": "在漫长岁月中石化的道具剑，上面的仪式性装饰依然清晰可见。拥有受时间之风冲刷的祝福力量。\n\n### 故事\n东面望海的高崖上，先民将时间的主人与风的主人一同祭拜。\n因为「风带来故事，时间使之发芽」的思想，两者常常混同。\n这把剑述说的是守护的故事，用来展示守护的勇气。\n原本是没有开刃的道具用剑，在时间之风中变得钢铁般锋利。\n这柄剑曾属温和的古恩希尔德一族所有。\n在祭礼中，他们演绎的是守护者的角色。\n献给时间之风的祭礼戏剧，总共有三幕。\n终幕讲述的是守护者，守护生命与自由的故事。\n祭礼的传统与历史如今，已经彻底遗失。\n但古恩希尔德一族至今仍在扮演守护者。"
+  },
+  "description": {
+    "ru": "Декоративный церемониальный меч, со временем покрывшийся камнем, но украшения на нём всё ещё можно разобрать. Позволяет владельцу выстоять под суровостью песков времени.\n\n### История\nНа утёсе, обращённом на восток, в сторону моря, предки приносили жертвы хозяевам Ветра и Времени.\nВремя и Ветер неразрывно связаны, так как «Ветер приносит семена историй, а Время их взращивает».\nЭтот меч рассказывает историю о защите и о храбрости, которая для этого требуется.\nИзначально этот меч был не заточен и использовался, как реквизит, но со временем ветра заострили его.\n\nЭтот меч некогда принадлежал мягкосердечному клану Гуннхильдры.\nВо всех ритуалах они исполняли роль защитников Мондштадта.\n\nВ церемонии поклонения ветрам времени было три акта.\nПоследний был посвящён истории о защитнике жизни и свободы.\n\nИстория и каноны этой церемонии давно утеряны.\nНо клан Гуннхильдры защищает Мондштадт и по сей день.",
+    "en": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.\n\n### Story\nOn the cliff facing the eastern sea, the ancestors worshiped the masters of Time and Anemo together.\nThe two are intimately related, as expressed in the saying, \"Anemo brings stories while Time nurtures them.\"\nThis sword tells the story of protection to show the courage to protect.\nOriginally just a prop, its blade was sharpened by the passage of time.\n\nThis sword once belonged to the kindly Gunnhildr Clan.\nIn sacrificial ceremonies, they would enact the defense of Mondstadt.\n\nThere were three acts in the ceremony dedicated to the winds of time.\nThe final act told a tale of the protection of Mondstadt, of life, and of freedom.\n\nThe ceremony and its history have now been lost.\nBut the Gunnhildr Clan continues to act as guardians of Mondstadt to this day.",
+    "zh": "在漫长岁月中石化的道具剑，上面的仪式性装饰依然清晰可见。拥有受时间之风冲刷的祝福力量。\n\n### 故事\n东面望海的高崖上，先民将时间的主人与风的主人一同祭拜。\n因为「风带来故事，时间使之发芽」的思想，两者常常混同。\n这把剑述说的是守护的故事，用来展示守护的勇气。\n原本是没有开刃的道具用剑，在时间之风中变得钢铁般锋利。\n这柄剑曾属温和的古恩希尔德一族所有。\n在祭礼中，他们演绎的是守护者的角色。\n献给时间之风的祭礼戏剧，总共有三幕。\n终幕讲述的是守护者，守护生命与自由的故事。\n祭礼的传统与历史如今，已经彻底遗失。\n但古恩希尔德一族至今仍在扮演守护者。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

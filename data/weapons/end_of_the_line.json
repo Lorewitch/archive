@@ -1,0 +1,38 @@
+{
+  "id": "end_of_the_line",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/end_of_the_line.png",
+  "title": {
+    "ru": "Иссушитель",
+    "en": "End of the Line",
+    "zh": "竭泽"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "3.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Рыба, принадлежащая к вымершему виду. Если к её гибкому телу прикрепить тетиву, она может послужить в качестве лука.\n\n### История\nКогда-то в золотые пески ворвался полноводный ручей, но было это очень давно.\n\nПотом величайшие из великих вошли в пустыню, повинуясь зову земли и небесному велению. Но немногие из них смогли пройти свой путь до конца.\n\nРыба, что жила в огромном высокогорном озере, стрелой понеслась по водам ручья.\n\nСловно брошенное копьё, она проплывала от одного священного места к другому.\n\nНо горный ручей постепенно уходил в песок, а озёра мелели.\n\nРыба нашла последний приют на дне мелкой лужи, где её и обнаружили паломники.\n\nМораль этой истории такова:\n\nпосвяти свою жизнь ревностному служению, и найдёшь рыбу даже в пустыне.",
+    "en": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.\n\n### Story\nGurgling water once flowed into the yellow sand, but that was a long time ago.\n\nThe great being would follow the brontides and divine will into the desert in latter days, but few would survive in the end.\n\nThe fish that once shot forth like an arrow across a huge lake on the plateau,\n\nThat would stretch out as straight as a spear, cruising back and forth between the sacred sites,\n\nWould see its stream seep into the sand, its lake shrink into a puddle,\n\nTill at last, it wound up curled in a little plash, at the mercy of passing pilgrims.\n\nThe less on this story is as such:\n\nAs long as you are pious and kind, you can get a fish even in the midst of the desert sands.",
+    "zh": "似乎是如今已经绝种的鱼。身躯富有弹性，系上绳索后能充当弓使用。\n\n### 故事\n曾有潺潺的流水流入黄沙之中，但那是很久以前的事情了。\n\n后来伟大者循着地鸣与天命进入沙漠，最终生还者却无几。\n\n原本在高原上巨大的湖泊中如箭头一般笔直射穿空间的鱼，\n\n它曾如长枪一般笔直，循着圣迹沿洄，\n\n溪流渐渐渗入沙中，湖泽退缩成水洼，\n\n最终只得在水洼中蜷曲身体，结果成为了朝圣之人的猎获。\n\n这个故事告诉我们的道理是：\n\n只要虔心向善，即使是在沙海中央也能得到鱼。"
+  },
+  "description": {
+    "ru": "Рыба, принадлежащая к вымершему виду. Если к её гибкому телу прикрепить тетиву, она может послужить в качестве лука.\n\n### История\nКогда-то в золотые пески ворвался полноводный ручей, но было это очень давно.\n\nПотом величайшие из великих вошли в пустыню, повинуясь зову земли и небесному велению. Но немногие из них смогли пройти свой путь до конца.\n\nРыба, что жила в огромном высокогорном озере, стрелой понеслась по водам ручья.\n\nСловно брошенное копьё, она проплывала от одного священного места к другому.\n\nНо горный ручей постепенно уходил в песок, а озёра мелели.\n\nРыба нашла последний приют на дне мелкой лужи, где её и обнаружили паломники.\n\nМораль этой истории такова:\n\nпосвяти свою жизнь ревностному служению, и найдёшь рыбу даже в пустыне.",
+    "en": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.\n\n### Story\nGurgling water once flowed into the yellow sand, but that was a long time ago.\n\nThe great being would follow the brontides and divine will into the desert in latter days, but few would survive in the end.\n\nThe fish that once shot forth like an arrow across a huge lake on the plateau,\n\nThat would stretch out as straight as a spear, cruising back and forth between the sacred sites,\n\nWould see its stream seep into the sand, its lake shrink into a puddle,\n\nTill at last, it wound up curled in a little plash, at the mercy of passing pilgrims.\n\nThe less on this story is as such:\n\nAs long as you are pious and kind, you can get a fish even in the midst of the desert sands.",
+    "zh": "似乎是如今已经绝种的鱼。身躯富有弹性，系上绳索后能充当弓使用。\n\n### 故事\n曾有潺潺的流水流入黄沙之中，但那是很久以前的事情了。\n\n后来伟大者循着地鸣与天命进入沙漠，最终生还者却无几。\n\n原本在高原上巨大的湖泊中如箭头一般笔直射穿空间的鱼，\n\n它曾如长枪一般笔直，循着圣迹沿洄，\n\n溪流渐渐渗入沙中，湖泽退缩成水洼，\n\n最终只得在水洼中蜷曲身体，结果成为了朝圣之人的猎获。\n\n这个故事告诉我们的道理是：\n\n只要虔心向善，即使是在沙海中央也能得到鱼。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

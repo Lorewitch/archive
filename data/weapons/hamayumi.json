@@ -1,0 +1,38 @@
+{
+  "id": "hamayumi",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/hamayumi.png",
+  "title": {
+    "ru": "Хамаюми",
+    "en": "Hamayumi",
+    "zh": "破魔之弓"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "2.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Боевой лук, когда-то принадлежавший одной жрице. Изысканный и прочный, он был изготовлен с использованием непревзойденной техники.\n\n### История\n«Убирайся, женщина! Ты мешаешь проходу на лодке!»Так сказал вор по имени Ако Домэки и отвернулся.\nУслышав это, жрица не смогла сдержать улыбку.\nЕсли бы человек, научивший меня стрельбе из лука, не пошёл на битву с сёгуном,то нашему сыну было бы столько же лет, что и Додзаэмону...\nИ, возможно, моя фамилия была бы Такаминэ, а может, он взял бы имя Асасэ...\nТо, как Додзаэмон разговаривал, и то, как он нарочито отвернулся...\nПрямо как тогда, когда он ушёл с мечом.\nНо на этот раз я не позволю этому человеку умереть,даже если это приведёт к войне против знамени Электро мицудомоэ...«Мечи заточены, пора отплывать».«Покажи им силу Сэйрай!»Услышав песни моряков, жрица отложила свой лук.\nНастоящая магия, которую она тайно выучила на горе Ёго.\nИ хотя ей было жаль своего учителя-тэнгу, она решила использовать её здесь.\nРазрушить Великий барьер, который существовал много веков.\nПусть обида умирающего фиолетового коршунауничтожит корабли под знаменем Электро Архонта.\nЯ просто надеюсь, что старый кот не бросится в грозу...",
+    "en": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.\n\n### Story\n\"Get off the ship. Women are a hindrance here!\"\nThe thief they called Ako Domeki turned and left.\nBut hearing this, the shrine maiden could not help by smile faintly.\nIf the person who had taught me archery had not gone forth to campaign alongside the Shogun,\nThen our son would been the same age as Zaemon now.\nAnd perhaps I would have come to be a Takamine, or he, an Asase...\n\nZaemon's tone, and the way he intentionally turns his back on me,\nIs the spitting image of how he once did it, sword in hand.\nThis time, I will not let this person die.\nEven if it means fighting against the Electro Mitsudomoe banner...\n\n\"Our fishing spears and swords have been sharpened. It is time to set sail.\"\n\"Well then, let's show those Shogunate lackeys Seirai's strength!\"\n\nHearing the sea shanties greeting their departure, the shrine maiden set down her warbow.\nShe once secretly learned true \"magic\" on Mt. Yougou,\nAnd though she felt sorry for her Master, the Tengu, she would use it here.\nShe would undo the great barrier that had held for a thousand years,\nAnd she would set the resentment of the moribund violet glede free,\nAllowing it to ravage the ships that flew the Electro Archon's banner.\nShe could only hope that that old cat wouldn't come charging into the storm...",
+    "zh": "曾经属于某个巫女的战弓。以优越的技法打造，精巧而耐用。\n\n### 故事\n「快下去。\n女人在船上很碍手碍脚！」\n唤作赤穗百目鬼的贼人说，背过身去。\n但听了这话，巫女却忍不住微笑起来。\n如果当初教我射术的人没有随将军出征的话，那我们的儿子，如今应当是左卫门的年纪了，而我或许就应当姓高岭，或者由他姓浅濑了…\n左卫门的口吻，和故意背向我的模样，简直和他当年提着刀离开的时候一样。\n那么这次，我绝对不会让这个人死去，哪怕与「雷之三重巴」之旗为敌也好…\n「扬帆之刻到了，铦与刀都已磨利。」\n「就让那些官兵看看，清籁的骨气！」\n聆听着出航的船歌，巫女放下了战弓。\n过去在影向山偷学的真正的「法术」，虽说对不起天狗老师，就用在这里吧。\n解开维系千年的大结界，让紫电之鸢垂死的怨恨，肆虐雷神旗号的舰船吧。\n只希望那匹老猫，不要闯进雷霆里来…"
+  },
+  "description": {
+    "ru": "Боевой лук, когда-то принадлежавший одной жрице. Изысканный и прочный, он был изготовлен с использованием непревзойденной техники.\n\n### История\n«Убирайся, женщина! Ты мешаешь проходу на лодке!»Так сказал вор по имени Ако Домэки и отвернулся.\nУслышав это, жрица не смогла сдержать улыбку.\nЕсли бы человек, научивший меня стрельбе из лука, не пошёл на битву с сёгуном,то нашему сыну было бы столько же лет, что и Додзаэмону...\nИ, возможно, моя фамилия была бы Такаминэ, а может, он взял бы имя Асасэ...\nТо, как Додзаэмон разговаривал, и то, как он нарочито отвернулся...\nПрямо как тогда, когда он ушёл с мечом.\nНо на этот раз я не позволю этому человеку умереть,даже если это приведёт к войне против знамени Электро мицудомоэ...«Мечи заточены, пора отплывать».«Покажи им силу Сэйрай!»Услышав песни моряков, жрица отложила свой лук.\nНастоящая магия, которую она тайно выучила на горе Ёго.\nИ хотя ей было жаль своего учителя-тэнгу, она решила использовать её здесь.\nРазрушить Великий барьер, который существовал много веков.\nПусть обида умирающего фиолетового коршунауничтожит корабли под знаменем Электро Архонта.\nЯ просто надеюсь, что старый кот не бросится в грозу...",
+    "en": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.\n\n### Story\n\"Get off the ship. Women are a hindrance here!\"\nThe thief they called Ako Domeki turned and left.\nBut hearing this, the shrine maiden could not help by smile faintly.\nIf the person who had taught me archery had not gone forth to campaign alongside the Shogun,\nThen our son would been the same age as Zaemon now.\nAnd perhaps I would have come to be a Takamine, or he, an Asase...\n\nZaemon's tone, and the way he intentionally turns his back on me,\nIs the spitting image of how he once did it, sword in hand.\nThis time, I will not let this person die.\nEven if it means fighting against the Electro Mitsudomoe banner...\n\n\"Our fishing spears and swords have been sharpened. It is time to set sail.\"\n\"Well then, let's show those Shogunate lackeys Seirai's strength!\"\n\nHearing the sea shanties greeting their departure, the shrine maiden set down her warbow.\nShe once secretly learned true \"magic\" on Mt. Yougou,\nAnd though she felt sorry for her Master, the Tengu, she would use it here.\nShe would undo the great barrier that had held for a thousand years,\nAnd she would set the resentment of the moribund violet glede free,\nAllowing it to ravage the ships that flew the Electro Archon's banner.\nShe could only hope that that old cat wouldn't come charging into the storm...",
+    "zh": "曾经属于某个巫女的战弓。以优越的技法打造，精巧而耐用。\n\n### 故事\n「快下去。\n女人在船上很碍手碍脚！」\n唤作赤穗百目鬼的贼人说，背过身去。\n但听了这话，巫女却忍不住微笑起来。\n如果当初教我射术的人没有随将军出征的话，那我们的儿子，如今应当是左卫门的年纪了，而我或许就应当姓高岭，或者由他姓浅濑了…\n左卫门的口吻，和故意背向我的模样，简直和他当年提着刀离开的时候一样。\n那么这次，我绝对不会让这个人死去，哪怕与「雷之三重巴」之旗为敌也好…\n「扬帆之刻到了，铦与刀都已磨利。」\n「就让那些官兵看看，清籁的骨气！」\n聆听着出航的船歌，巫女放下了战弓。\n过去在影向山偷学的真正的「法术」，虽说对不起天狗老师，就用在这里吧。\n解开维系千年的大结界，让紫电之鸢垂死的怨恨，肆虐雷神旗号的舰船吧。\n只希望那匹老猫，不要闯进雷霆里来…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

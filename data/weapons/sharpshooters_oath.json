@@ -1,0 +1,38 @@
+{
+  "id": "sharpshooters_oath",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/sharpshooters_oath.png",
+  "title": {
+    "ru": "Клятва стрелка",
+    "en": "Sharpshooter's Oath",
+    "zh": "神射手之誓"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Когда-то этот превосходный лук принадлежал профессиональному охотнику, однако его стойкий запах делает его бесполезным для охоты.\n\n### История\nОднажды, далеко-далеко и давным-давно случилась трагедия.\nДва брата решили сразиться друг с другом и взялись за оружие.\nОдним был прославленный лучник. Потерпев тяжёлое поражение, он дал клятву:«Пока не одолею своего врага,Пока не проткну его горло и его кровь не иссякнет, я не буду мыть ноги».\nТак, великий лучник стал жертвой инфекции ног.",
+    "en": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.\n\n### Story\nA long time ago, in a place far, far away... Tragedy struck.\nBrothers took to arms against one another.\nOne among them was a great archer. After suffering a humiliating defeat, he made a vow:\n\"Until I have brought down my enemies,\"\n\"Until I have pierced their throats and their blood has run dry, I shall not clean my feet.\"\nAnd so, the great archer fell prey to a foot infection.",
+    "zh": "据说曾属于技艺高强的射手，是一把上好的弓。因为散发出强烈的气息，难以用于狩猎。\n\n### 故事\n传说中，那是在遥远的过去发生的事情。\n那是远古的悲剧，兄弟操使兵器，互相讨伐。\n当中，有一名伟大弓手受辱，因此许下毒誓：在诛杀大敌之前，在飞簇洞穿仇敌的咽喉前，在仇人那可憎的血液放干之前，绝对不洗脚。\n传说中，此人最终因为脚气感染倒下了。"
+  },
+  "description": {
+    "ru": "Когда-то этот превосходный лук принадлежал профессиональному охотнику, однако его стойкий запах делает его бесполезным для охоты.\n\n### История\nОднажды, далеко-далеко и давным-давно случилась трагедия.\nДва брата решили сразиться друг с другом и взялись за оружие.\nОдним был прославленный лучник. Потерпев тяжёлое поражение, он дал клятву:«Пока не одолею своего врага,Пока не проткну его горло и его кровь не иссякнет, я не буду мыть ноги».\nТак, великий лучник стал жертвой инфекции ног.",
+    "en": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.\n\n### Story\nA long time ago, in a place far, far away... Tragedy struck.\nBrothers took to arms against one another.\nOne among them was a great archer. After suffering a humiliating defeat, he made a vow:\n\"Until I have brought down my enemies,\"\n\"Until I have pierced their throats and their blood has run dry, I shall not clean my feet.\"\nAnd so, the great archer fell prey to a foot infection.",
+    "zh": "据说曾属于技艺高强的射手，是一把上好的弓。因为散发出强烈的气息，难以用于狩猎。\n\n### 故事\n传说中，那是在遥远的过去发生的事情。\n那是远古的悲剧，兄弟操使兵器，互相讨伐。\n当中，有一名伟大弓手受辱，因此许下毒誓：在诛杀大敌之前，在飞簇洞穿仇敌的咽喉前，在仇人那可憎的血液放干之前，绝对不洗脚。\n传说中，此人最终因为脚气感染倒下了。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

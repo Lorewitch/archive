@@ -1,0 +1,38 @@
+{
+  "id": "iron_point",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/polearm/iron_point.png",
+  "title": {
+    "ru": "Железный наконечник",
+    "en": "Iron Point",
+    "zh": "铁尖枪"
+  },
+  "region": "",
+  "rarity": 2,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "древковое"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Прекрасно сбалансированное оружие, заострённое с одной стороны. Популярно среди путешественников.\n\n### История\nПримитивное оружие. Выглядит не очень угрожающе.\nДля человека с соответствующей бронёйили для путника, у которого ничего и нет,даже более примитивное оружие и то будет выглядеть более внушительно.",
+    "en": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.\n\n### Story\nA simple weapon that exudes a certain austerity.\nFor those who defend that which they must protect,\nOr a traveler with naught to their name but themselves,\nEven the most mundane of weapons might be ten times as powerful as it seems.",
+    "zh": "一头有尖，可攻可守的护身武器。在旅者当中十分流行。\n\n### 故事\n散发着些许威严感的简陋兵器。对于有着应当守护的事物的人，或是除却己身一无所有的旅者，再简陋的武器都能发挥十倍的力量吧。"
+  },
+  "description": {
+    "ru": "Прекрасно сбалансированное оружие, заострённое с одной стороны. Популярно среди путешественников.\n\n### История\nПримитивное оружие. Выглядит не очень угрожающе.\nДля человека с соответствующей бронёйили для путника, у которого ничего и нет,даже более примитивное оружие и то будет выглядеть более внушительно.",
+    "en": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.\n\n### Story\nA simple weapon that exudes a certain austerity.\nFor those who defend that which they must protect,\nOr a traveler with naught to their name but themselves,\nEven the most mundane of weapons might be ten times as powerful as it seems.",
+    "zh": "一头有尖，可攻可守的护身武器。在旅者当中十分流行。\n\n### 故事\n散发着些许威严感的简陋兵器。对于有着应当守护的事物的人，或是除却己身一无所有的旅者，再简陋的武器都能发挥十倍的力量吧。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "polearm",
+  "type": "polearm"
+}

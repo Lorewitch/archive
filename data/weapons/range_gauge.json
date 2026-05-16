@@ -1,0 +1,38 @@
+{
+  "id": "range_gauge",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/range_gauge.png",
+  "title": {
+    "ru": "Дальномер",
+    "en": "Range Gauge",
+    "zh": "测距规"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "4.1",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Измерительный инструмент, который в наше время нигде не найти. Способен выпускать стрелы.\n\n### История\nКогда-то этот инструмент использовался в строительстве и при исследовании руин.\n\nПомимо функции измерения углов, инструмент также оснащён прогрессивной для своего времени функцией измерения расстояния.\n\nВ умелых руках особые стрелы, прошедшие тщательную шлифовку, будут лететь по идеально ровной прямой, словно лучи света.\n\nДальномер широко использовался в проектировании, в строительстве, в геологической разведке и даже в расследовании преступлений.\n\nВ опытных руках такой инструмент позволяет достичь высочайшего уровня точности.\n\nРаньше экспедиционные отряды часто брали с собой такие инструменты для исследовании руин Ремурии.\n\nКак правило, они помогали определить местонахождение руин, погребённых временем.\n\nВ романах о детективе Харлоке, которые увидели свет много позже, встречаются эпизоды, где этот инструмент помогает героям находить тайники.\n\nСейчас Дальномеры до сих пор можно найти в некоторых антикварных лавках или на чердаках.\n\nС ростом популярности инструментов, которые оказались более удобны и просты в использовании, у людей отпала надобность выпускать особые стрелы, и Дальномеры оказались преданы забвению.\n\nПоскольку Дальномер по сути своей является длинным луком, который можно носить с собой, не вызывая подозрений и вопросов, в некоторые эпохи он использовался не только по своему прямому назначению.",
+    "en": "A measuring instrument that you can rarely find nowadays. It is capable of firing arrows.\n\n### Story\nA tool often used for urban construction and ruin exploration in the past.\n\nOften used to measure angles, it also possessed a state of the art ability to measure and estimate distance.\n\nRelying on precisely crafted special arrows and the hands of trained professionals,\n\nIt could keep the flight trajectory of arrows as straight as light itself.\n\nIn addition to planning and construction, it also often came in handy for exploration and even criminal investigations.\n\nIn skilled hands, its distance measurements could be highly accurate.\n\nDuring past explorations of the ruins of Remuria, the exploration teams often brought this range gauge along,\n\nMostly to locate the historic sites buried by time and destruction.\n\nEven the modern Hurlock novels that gained great popularity later on,\n\nWould feature it in a story about locating a secret chamber.\n\nPresently, many range gauges are gathering dust on the shelves of antique shops or attic cellars.\n\nAs more and more similar tools with greater ease-of-use and a lower skill requirement came into general use,\n\nThe production of special arrows has completely ceased, and they too were soon lost and forgotten.\n\nHowever, as the gauge remains a longbow that can be carried around without arousing any suspicion or questioning,\n\nIt has been used for several purposes beyond its original design during some certain tumultuous times.",
+    "zh": "如今几乎绝迹的测量工具，具有发射箭矢的能力。\n\n### 故事\n在过去，在城市建设与遗迹勘探时常用的道具。\n\n除了测量角度，还有彼时非常先进的测距功能。\n\n借由精密加工的特制箭矢与受训专业人士之手，\n\n能够使射出的箭头飞行的轨迹如光线一般笔直。\n\n除了规划与建设，在探索甚至侦查案件时也有其作用。\n\n在熟手手中，这种测距规能发挥出非常高的测量精度。\n\n过去在对雷穆利亚遗迹的探索中探险队伍常带测距规，\n\n主要目的是用它来定位在毁灭与岁月中被埋没的古迹。\n\n在后世流行的赫尔洛克小说中，\n\n也有着利用它寻找密室的情节。\n\n如今在古董店或阁楼地窖中仍然有不少测距规在积灰。\n\n随着更加便利、对个人能力要求更低的同类工具普及，\n\n特制箭矢已经不再有人生产，它也在尘埃中淡出视野。\n\n由于它是可以随身携带而不用受到怀疑与盘问的长弓，\n\n因此在某些特别的时代，也曾被用在设计外的目的上。"
+  },
+  "description": {
+    "ru": "Измерительный инструмент, который в наше время нигде не найти. Способен выпускать стрелы.\n\n### История\nКогда-то этот инструмент использовался в строительстве и при исследовании руин.\n\nПомимо функции измерения углов, инструмент также оснащён прогрессивной для своего времени функцией измерения расстояния.\n\nВ умелых руках особые стрелы, прошедшие тщательную шлифовку, будут лететь по идеально ровной прямой, словно лучи света.\n\nДальномер широко использовался в проектировании, в строительстве, в геологической разведке и даже в расследовании преступлений.\n\nВ опытных руках такой инструмент позволяет достичь высочайшего уровня точности.\n\nРаньше экспедиционные отряды часто брали с собой такие инструменты для исследовании руин Ремурии.\n\nКак правило, они помогали определить местонахождение руин, погребённых временем.\n\nВ романах о детективе Харлоке, которые увидели свет много позже, встречаются эпизоды, где этот инструмент помогает героям находить тайники.\n\nСейчас Дальномеры до сих пор можно найти в некоторых антикварных лавках или на чердаках.\n\nС ростом популярности инструментов, которые оказались более удобны и просты в использовании, у людей отпала надобность выпускать особые стрелы, и Дальномеры оказались преданы забвению.\n\nПоскольку Дальномер по сути своей является длинным луком, который можно носить с собой, не вызывая подозрений и вопросов, в некоторые эпохи он использовался не только по своему прямому назначению.",
+    "en": "A measuring instrument that you can rarely find nowadays. It is capable of firing arrows.\n\n### Story\nA tool often used for urban construction and ruin exploration in the past.\n\nOften used to measure angles, it also possessed a state of the art ability to measure and estimate distance.\n\nRelying on precisely crafted special arrows and the hands of trained professionals,\n\nIt could keep the flight trajectory of arrows as straight as light itself.\n\nIn addition to planning and construction, it also often came in handy for exploration and even criminal investigations.\n\nIn skilled hands, its distance measurements could be highly accurate.\n\nDuring past explorations of the ruins of Remuria, the exploration teams often brought this range gauge along,\n\nMostly to locate the historic sites buried by time and destruction.\n\nEven the modern Hurlock novels that gained great popularity later on,\n\nWould feature it in a story about locating a secret chamber.\n\nPresently, many range gauges are gathering dust on the shelves of antique shops or attic cellars.\n\nAs more and more similar tools with greater ease-of-use and a lower skill requirement came into general use,\n\nThe production of special arrows has completely ceased, and they too were soon lost and forgotten.\n\nHowever, as the gauge remains a longbow that can be carried around without arousing any suspicion or questioning,\n\nIt has been used for several purposes beyond its original design during some certain tumultuous times.",
+    "zh": "如今几乎绝迹的测量工具，具有发射箭矢的能力。\n\n### 故事\n在过去，在城市建设与遗迹勘探时常用的道具。\n\n除了测量角度，还有彼时非常先进的测距功能。\n\n借由精密加工的特制箭矢与受训专业人士之手，\n\n能够使射出的箭头飞行的轨迹如光线一般笔直。\n\n除了规划与建设，在探索甚至侦查案件时也有其作用。\n\n在熟手手中，这种测距规能发挥出非常高的测量精度。\n\n过去在对雷穆利亚遗迹的探索中探险队伍常带测距规，\n\n主要目的是用它来定位在毁灭与岁月中被埋没的古迹。\n\n在后世流行的赫尔洛克小说中，\n\n也有着利用它寻找密室的情节。\n\n如今在古董店或阁楼地窖中仍然有不少测距规在积灰。\n\n随着更加便利、对个人能力要求更低的同类工具普及，\n\n特制箭矢已经不再有人生产，它也在尘埃中淡出视野。\n\n由于它是可以随身携带而不用受到怀疑与盘问的长弓，\n\n因此在某些特别的时代，也曾被用在设计外的目的上。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "emerald_orb",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/catalyst/emerald_orb.png",
+  "title": {
+    "ru": "Изумрудный шар",
+    "en": "Emerald Orb",
+    "zh": "翡玉法球"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "катализатор"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Катализатор, вырезанный из твёрдого нефрита, добываемого в Заоблачном пределе на севере Ли Юэ. Он маленький, лёгкий и прочный.\n\n### История\nЛегкий катализатор, вырезанный из нефрита. Он прочный и финансово доступный, что делает его популярным катализатором во всём мире.\nНарод Ли Юэ называет этот небольшой, но изысканно сделанный катализатор, Нефритовым шаром.\nЭто высокоэффективный защитный катализатор, а также красивый аксессуар.",
+    "en": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"\n\n### Story\nA lightweight catalyst carved out of emerald-green jade. It is durable and affordable, which makes it a popular item all around.\nSmall but exquisitely made, it is colloquially referred to by the people of Liyue as the \"jade ball.\"\nIt is a highly efficient defensive Catalyst as well as a good-looking accessory.",
+    "zh": "由璃月北郊绝云间出产的硬玉雕琢而成的法器。小巧轻盈，经久耐用，江湖人称「翡玉丸」。\n\n### 故事\n翡玉雕琢而成的轻盈法器，经久耐用，价格低廉，颇受江湖人士欢迎。\n由于外形小巧精致，雕工精细，通常被璃月人称为「翡玉丸」。\n不仅可以作为高效的防身法器，佩戴在身上也是不错的首饰。"
+  },
+  "description": {
+    "ru": "Катализатор, вырезанный из твёрдого нефрита, добываемого в Заоблачном пределе на севере Ли Юэ. Он маленький, лёгкий и прочный.\n\n### История\nЛегкий катализатор, вырезанный из нефрита. Он прочный и финансово доступный, что делает его популярным катализатором во всём мире.\nНарод Ли Юэ называет этот небольшой, но изысканно сделанный катализатор, Нефритовым шаром.\nЭто высокоэффективный защитный катализатор, а также красивый аксессуар.",
+    "en": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"\n\n### Story\nA lightweight catalyst carved out of emerald-green jade. It is durable and affordable, which makes it a popular item all around.\nSmall but exquisitely made, it is colloquially referred to by the people of Liyue as the \"jade ball.\"\nIt is a highly efficient defensive Catalyst as well as a good-looking accessory.",
+    "zh": "由璃月北郊绝云间出产的硬玉雕琢而成的法器。小巧轻盈，经久耐用，江湖人称「翡玉丸」。\n\n### 故事\n翡玉雕琢而成的轻盈法器，经久耐用，价格低廉，颇受江湖人士欢迎。\n由于外形小巧精致，雕工精细，通常被璃月人称为「翡玉丸」。\n不仅可以作为高效的防身法器，佩戴在身上也是不错的首饰。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "catalyst",
+  "type": "catalyst"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "lions_roar",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/lions_roar.png",
+  "title": {
+    "ru": "Драконий рык",
+    "en": "Lion's Roar",
+    "zh": "匣里龙吟"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Роскошная гравировка никак не повлияла на прочность и остроту этого меча. Звук от взмахов напоминает рык дракона.\n\n### История\nНа рынке Ли Юэ ходит легенда о драгоценном мече.\nГоворят, ножны его сделаны из орлиного дерева и украшены слюдой, а выгравированы на них изображения войны.\nНо бесценные ножны, к несчастью, безвозвратно утеряны.\nДля самого клинка ножны были лишь тюрьмой, кандалами, не дававшими ему делать то, что должно.\n\nГоворят, он настолько остёр, что пронзённый им человек лишь через пару часов понимает, что уже давно мёртв.\nГоворят, Кунь Ву потратил всего лишь сутки, чтобы создать его.\nНо его старый мастер, увидев работу ученика, лишь гневно фыркнул и ударил землю посохом.\n«Мне жаль, что твоё творение лишено милосердия».\nМастер тяжело вздохнул и медленно захромал прочь.\n\nТри дня Кунь Ву думал над словами учителя, и за всё это время не притронулся ни к одному мечу.\nЦелый год он потратил на то, чтобы вырезать и отполировать ножны из орлиного дерева.\n\nЮный Кунь Ву считал, что эти изящные ножны смогут сковать дикий, жадный до битв клинок.\nНо впоследствии этот меч затерялся среди простых людей. Клинок ещё существует, а ножны остались только в легендах...\nОстрый клинок вечно жаждал утопить этот мир в крови, и нет больше ножен, способных удержать его.",
+    "en": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.\n\n### Story\nRumored to be a legendary sword of Liyue.\nIt was said its sheath was made with eaglewood, decorated with mica, and engraved with the imagery of war.\nThis priceless sheath, however, was lost.\nTo the blade, the sheath was its prison, keeping it from its true purpose.\nThe blade is so sharp that its victims would only realize they had been struck an hour later.\nIt is said that Kunwu forged this prized sharp sword in just one day, though he worked all day and all night to do so.\nBut when Kunwu's aged master saw his apprentice's work, he clenched his fists, sighed in anguish, and beat the ground with his staff.\n\"O, pitiful is this thing most merciless in all the world.\"\nThe master let out a final, long sigh, and hobbled away.\nKunwu pondered his master's words for three days, and did not touch a single blade in that time.\nThen, he spent a whole year painstakingly carving an eaglewood sheath.\nKunwu thought that an elegant and opulent scabbard would surely suffice to subdue the wildness and violence of the blade.\nBut then the prized sword was lost among the common folk. The sharp blade survived, but all that remained of the scabbard was its story.\nFor the sharp blade seeks only to bathe in the blood of its victims, and no sheath can be made that will curb this desire.",
+    "zh": "雕饰浮华的利刃，却丝毫不损它的柔韧与锋锐。破空之声有如龙吟。\n\n### 故事\n在璃月坊间流传的宝刀。\n据说它的刀鞘以沉香为基，饰以云母，雕有战争传说的图景。\n价值连城的刀鞘已经遗失了。\n对于这把刀来说，刀鞘是禁锢它，不让它做应做之事的枷锁。\n锐利无比，据说被刺中的人要过一个时辰才会发现自己已死。\n传说昆吾仅花了一日一夜，便打成了这柄锐利的宝刀。\n但年迈的师父眼见高徒之作，却扼腕兴嗟，以杖击地。\n「惜哉，唯此物最欠慈悲」老人喟然长叹，蹒跚离去。\n于是，昆吾沉思三日，其间不触碰任何刀剑。\n又用一年的时光，精心雕琢出一个沉香木匣。\n年轻的昆吾自以为，这华丽的刀鞘定能约束不羁的宝刀。\n但后来，宝刀失入民间。\n锋刃犹在，刀鞘却化作了传说。\n锋利的刀永远渴求连天的血光。\n再好的匣也无法拘束它。"
+  },
+  "description": {
+    "ru": "Роскошная гравировка никак не повлияла на прочность и остроту этого меча. Звук от взмахов напоминает рык дракона.\n\n### История\nНа рынке Ли Юэ ходит легенда о драгоценном мече.\nГоворят, ножны его сделаны из орлиного дерева и украшены слюдой, а выгравированы на них изображения войны.\nНо бесценные ножны, к несчастью, безвозвратно утеряны.\nДля самого клинка ножны были лишь тюрьмой, кандалами, не дававшими ему делать то, что должно.\n\nГоворят, он настолько остёр, что пронзённый им человек лишь через пару часов понимает, что уже давно мёртв.\nГоворят, Кунь Ву потратил всего лишь сутки, чтобы создать его.\nНо его старый мастер, увидев работу ученика, лишь гневно фыркнул и ударил землю посохом.\n«Мне жаль, что твоё творение лишено милосердия».\nМастер тяжело вздохнул и медленно захромал прочь.\n\nТри дня Кунь Ву думал над словами учителя, и за всё это время не притронулся ни к одному мечу.\nЦелый год он потратил на то, чтобы вырезать и отполировать ножны из орлиного дерева.\n\nЮный Кунь Ву считал, что эти изящные ножны смогут сковать дикий, жадный до битв клинок.\nНо впоследствии этот меч затерялся среди простых людей. Клинок ещё существует, а ножны остались только в легендах...\nОстрый клинок вечно жаждал утопить этот мир в крови, и нет больше ножен, способных удержать его.",
+    "en": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.\n\n### Story\nRumored to be a legendary sword of Liyue.\nIt was said its sheath was made with eaglewood, decorated with mica, and engraved with the imagery of war.\nThis priceless sheath, however, was lost.\nTo the blade, the sheath was its prison, keeping it from its true purpose.\nThe blade is so sharp that its victims would only realize they had been struck an hour later.\nIt is said that Kunwu forged this prized sharp sword in just one day, though he worked all day and all night to do so.\nBut when Kunwu's aged master saw his apprentice's work, he clenched his fists, sighed in anguish, and beat the ground with his staff.\n\"O, pitiful is this thing most merciless in all the world.\"\nThe master let out a final, long sigh, and hobbled away.\nKunwu pondered his master's words for three days, and did not touch a single blade in that time.\nThen, he spent a whole year painstakingly carving an eaglewood sheath.\nKunwu thought that an elegant and opulent scabbard would surely suffice to subdue the wildness and violence of the blade.\nBut then the prized sword was lost among the common folk. The sharp blade survived, but all that remained of the scabbard was its story.\nFor the sharp blade seeks only to bathe in the blood of its victims, and no sheath can be made that will curb this desire.",
+    "zh": "雕饰浮华的利刃，却丝毫不损它的柔韧与锋锐。破空之声有如龙吟。\n\n### 故事\n在璃月坊间流传的宝刀。\n据说它的刀鞘以沉香为基，饰以云母，雕有战争传说的图景。\n价值连城的刀鞘已经遗失了。\n对于这把刀来说，刀鞘是禁锢它，不让它做应做之事的枷锁。\n锐利无比，据说被刺中的人要过一个时辰才会发现自己已死。\n传说昆吾仅花了一日一夜，便打成了这柄锐利的宝刀。\n但年迈的师父眼见高徒之作，却扼腕兴嗟，以杖击地。\n「惜哉，唯此物最欠慈悲」老人喟然长叹，蹒跚离去。\n于是，昆吾沉思三日，其间不触碰任何刀剑。\n又用一年的时光，精心雕琢出一个沉香木匣。\n年轻的昆吾自以为，这华丽的刀鞘定能约束不羁的宝刀。\n但后来，宝刀失入民间。\n锋刃犹在，刀鞘却化作了传说。\n锋利的刀永远渴求连天的血光。\n再好的匣也无法拘束它。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

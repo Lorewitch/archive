@@ -1,0 +1,38 @@
+{
+  "id": "twin_nephrite",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/catalyst/twin_nephrite.png",
+  "title": {
+    "ru": "Парный нефрит",
+    "en": "Twin Nephrite",
+    "zh": "甲级宝珏"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "катализатор"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Ожерелье с замочком из двух кусочков нефрита.\n\n### История\nИзделие из нефрита, которое, несмотря на свою изысканную упаковку, было помещено в одно из наименее заметных мест в магазине.\nВ упаковку входит на вид официальный сертификат высшего качества, выданный организацией, о которой никто никогда не слышал.\nРоскошной упаковки и аксессуаров, вероятно, будет достаточно, чтобы заманить неопытного покупателя.\nНо всё же это достаточно разумное соотношение цены и качества по сравнению с подлинными нефритовыми изделиями высокого качества.",
+    "en": "A jade pendant formed by piecing together two jade stones.\n\n### Story\nA jade piece which, despite its exquisite packaging, has been placed in one of the least prominent positions in the store.\nThe box comes with an official-looking certificate of premium quality, issued by an organization that no one has ever heard of.\nTo the untrained eye, the luxurious packaging and accessories would probably be enough to lure one in.\nHowever, it is still reasonable value for money when compared with genuine top-quality jade pieces.",
+    "zh": "两块玉石拼成的精致玉佩。\n\n### 故事\n虽然有着高级的包装，却被随意放在店铺最普通位置的玉器。\n盒子里附带着没有人听说过的所谓权威机构签署的甲级证书！\n如果缺乏鉴别宝玉的眼光，很容易被华丽的包装与配件误导。\n然而比起真正的美玉，这种玉器的价格仍旧算得上平易近人。"
+  },
+  "description": {
+    "ru": "Ожерелье с замочком из двух кусочков нефрита.\n\n### История\nИзделие из нефрита, которое, несмотря на свою изысканную упаковку, было помещено в одно из наименее заметных мест в магазине.\nВ упаковку входит на вид официальный сертификат высшего качества, выданный организацией, о которой никто никогда не слышал.\nРоскошной упаковки и аксессуаров, вероятно, будет достаточно, чтобы заманить неопытного покупателя.\nНо всё же это достаточно разумное соотношение цены и качества по сравнению с подлинными нефритовыми изделиями высокого качества.",
+    "en": "A jade pendant formed by piecing together two jade stones.\n\n### Story\nA jade piece which, despite its exquisite packaging, has been placed in one of the least prominent positions in the store.\nThe box comes with an official-looking certificate of premium quality, issued by an organization that no one has ever heard of.\nTo the untrained eye, the luxurious packaging and accessories would probably be enough to lure one in.\nHowever, it is still reasonable value for money when compared with genuine top-quality jade pieces.",
+    "zh": "两块玉石拼成的精致玉佩。\n\n### 故事\n虽然有着高级的包装，却被随意放在店铺最普通位置的玉器。\n盒子里附带着没有人听说过的所谓权威机构签署的甲级证书！\n如果缺乏鉴别宝玉的眼光，很容易被华丽的包装与配件误导。\n然而比起真正的美玉，这种玉器的价格仍旧算得上平易近人。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "catalyst",
+  "type": "catalyst"
+}

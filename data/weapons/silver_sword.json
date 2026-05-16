@@ -1,0 +1,38 @@
+{
+  "id": "silver_sword",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/silver_sword.png",
+  "title": {
+    "ru": "Серебряный меч",
+    "en": "Silver Sword",
+    "zh": "银剑"
+  },
+  "region": "",
+  "rarity": 2,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Говорят, что этот меч может изгонять демонов, но всем известно, что он сделан не из настоящего серебра.\n\n### История\nПоверье, что злые духи боятся серебра, - чепуха.\nИзгонит зло лишь меч, чистое сердце и крепкая рука.",
+    "en": "A sword for exorcising demons. Everyone knows it's made of a silver alloy, not pure silver.\n\n### Story\nDespite how the folk belief would have it, silver does not actually have any special ability to exorcise.\nIt is the pure heart of the wandering exorcist that is the true bane of evil.",
+    "zh": "能退魔的银剑。大家都知道，其实用料是银合金而不是纯银。\n\n### 故事\n与民间信仰相悖，银其实不具有退魔的功效。心无杂念的执剑旅人，才是斩妖除魔的关键。"
+  },
+  "description": {
+    "ru": "Говорят, что этот меч может изгонять демонов, но всем известно, что он сделан не из настоящего серебра.\n\n### История\nПоверье, что злые духи боятся серебра, - чепуха.\nИзгонит зло лишь меч, чистое сердце и крепкая рука.",
+    "en": "A sword for exorcising demons. Everyone knows it's made of a silver alloy, not pure silver.\n\n### Story\nDespite how the folk belief would have it, silver does not actually have any special ability to exorcise.\nIt is the pure heart of the wandering exorcist that is the true bane of evil.",
+    "zh": "能退魔的银剑。大家都知道，其实用料是银合金而不是纯银。\n\n### 故事\n与民间信仰相悖，银其实不具有退魔的功效。心无杂念的执剑旅人，才是斩妖除魔的关键。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "the_flute",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/the_flute.png",
+  "title": {
+    "ru": "Меч-флейта",
+    "en": "The Flute",
+    "zh": "笛剑"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Под всей этой ржавчиной скрывается роскошно украшенный меч. Режет плоть так же легко, как воздух.\n\n### История\nЛёгкий и удобный меч, на лезвии которого выгравированы тонкие узоры и выдолблены отверстия.\nВ руках мастера он мелодично свистит при каждом взмахе, и мелодия зависит от угла, под которым меч рассекает воздух.\nПосле распада Бродячего ансамбля этот меч был похоронен глубоко в земле. Прошло много лет, и теперь он утратил возможность петь.\nХотя он по-прежнему остается смертельным оружием.\n\nВ труппе Бродячего ансамбля была одна очень проворная танцующая с клинками.\nПосле того как попытка Бродячего ансамбля свергнуть старую аристократию потерпела крах, её превратили в раба и сделали гладиатором.\n\nХотя она потеряла всякую надежду и всех своих друзей, в роковой час она не сдалась.\nЕё клинок по-прежнему пел правдивую песню и сверкал на солнце, а потому её назвали «Рассветная воительница».\n\nРыцарь Рассвета Рагнвиндр тогда ещё был оруженосцем при рыцаре.\nИ, придя вместе с рыцарем на арену, чтобы посмотреть на гладиаторов, был глубоко тронут последним танцем Рассветной воительницы.\nГлядя на неё, он понял, каким будет его рыцарское имя и что он должен будет сделать...",
+    "en": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.\n\n### Story\nA nimble sword with holes and delicate engravings on the blade.\nThe sword once made the sound of a flute when wielded by one with the requisite skill. The pitch and tone were determined by the swinging angle.\nThis sword was buried when the Wanderer's Troupe disbanded. Unearthed years later, it has long since lost its ability to sing.\nEven so, it still makes a lethal weapon.\nAmong the members of the Wanderer's Troupe was a valiant sword-wielding dancer.\nAfter the Troupe's attempt to tear down the ruling class failed, she was enslaved as a gladiator.\nThough all her hope and all her companions were lost, still she fought bravely.\nHer sword sang with the radiance of the morn's light, and she was dubbed the \"Dawnlight Swordswoman.\"\nIn his youth, the Dawn Knight Ragnvindr was in the retinue of a knight.\nHe went with his master to watch a gladiator match, and was moved by the Dawnlight Swordswoman's splendid finale.\nHe named himself the Dawn Knight in her honor, and knew in his heart what he must do next.",
+    "zh": "细剑的锈迹下透露出原本华丽的装饰，挥舞时轻若无物。\n\n### 故事\n一把轻巧的剑，剑身上精心蚀刻了纹路，凿出孔洞。\n高超的技巧让这把剑在挥舞时会发出笛声，声调由破空的角度决定。\n乐团解散后，这把剑被埋在土中。\n经过岁月，现在已经不能发声了。\n尽管如此，如今仍是致命的兵器。\n流浪乐团中有一位飒爽的剑舞者。\n在乐团诛讨旧贵族的计划失败后，她被解为角斗奴。\n即便失却了一切希望，失去了所有同伴，殊死决斗时，她的剑仍高唱着光明的歌，被称为「宛若晨光的剑士」。\n晨曦骑士莱艮芬德曾经是侍从骑士，随行观赏角斗时，为她最后的剑舞所触动。\n他据此决定了自己的骑士名以及应做之事…"
+  },
+  "description": {
+    "ru": "Под всей этой ржавчиной скрывается роскошно украшенный меч. Режет плоть так же легко, как воздух.\n\n### История\nЛёгкий и удобный меч, на лезвии которого выгравированы тонкие узоры и выдолблены отверстия.\nВ руках мастера он мелодично свистит при каждом взмахе, и мелодия зависит от угла, под которым меч рассекает воздух.\nПосле распада Бродячего ансамбля этот меч был похоронен глубоко в земле. Прошло много лет, и теперь он утратил возможность петь.\nХотя он по-прежнему остается смертельным оружием.\n\nВ труппе Бродячего ансамбля была одна очень проворная танцующая с клинками.\nПосле того как попытка Бродячего ансамбля свергнуть старую аристократию потерпела крах, её превратили в раба и сделали гладиатором.\n\nХотя она потеряла всякую надежду и всех своих друзей, в роковой час она не сдалась.\nЕё клинок по-прежнему пел правдивую песню и сверкал на солнце, а потому её назвали «Рассветная воительница».\n\nРыцарь Рассвета Рагнвиндр тогда ещё был оруженосцем при рыцаре.\nИ, придя вместе с рыцарем на арену, чтобы посмотреть на гладиаторов, был глубоко тронут последним танцем Рассветной воительницы.\nГлядя на неё, он понял, каким будет его рыцарское имя и что он должен будет сделать...",
+    "en": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.\n\n### Story\nA nimble sword with holes and delicate engravings on the blade.\nThe sword once made the sound of a flute when wielded by one with the requisite skill. The pitch and tone were determined by the swinging angle.\nThis sword was buried when the Wanderer's Troupe disbanded. Unearthed years later, it has long since lost its ability to sing.\nEven so, it still makes a lethal weapon.\nAmong the members of the Wanderer's Troupe was a valiant sword-wielding dancer.\nAfter the Troupe's attempt to tear down the ruling class failed, she was enslaved as a gladiator.\nThough all her hope and all her companions were lost, still she fought bravely.\nHer sword sang with the radiance of the morn's light, and she was dubbed the \"Dawnlight Swordswoman.\"\nIn his youth, the Dawn Knight Ragnvindr was in the retinue of a knight.\nHe went with his master to watch a gladiator match, and was moved by the Dawnlight Swordswoman's splendid finale.\nHe named himself the Dawn Knight in her honor, and knew in his heart what he must do next.",
+    "zh": "细剑的锈迹下透露出原本华丽的装饰，挥舞时轻若无物。\n\n### 故事\n一把轻巧的剑，剑身上精心蚀刻了纹路，凿出孔洞。\n高超的技巧让这把剑在挥舞时会发出笛声，声调由破空的角度决定。\n乐团解散后，这把剑被埋在土中。\n经过岁月，现在已经不能发声了。\n尽管如此，如今仍是致命的兵器。\n流浪乐团中有一位飒爽的剑舞者。\n在乐团诛讨旧贵族的计划失败后，她被解为角斗奴。\n即便失却了一切希望，失去了所有同伴，殊死决斗时，她的剑仍高唱着光明的歌，被称为「宛若晨光的剑士」。\n晨曦骑士莱艮芬德曾经是侍从骑士，随行观赏角斗时，为她最后的剑舞所触动。\n他据此决定了自己的骑士名以及应做之事…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

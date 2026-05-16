@@ -1,0 +1,38 @@
+{
+  "id": "dull_blade",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/dull_blade.png",
+  "title": {
+    "ru": "Тупой меч",
+    "en": "Dull Blade",
+    "zh": "无锋剑"
+  },
+  "region": "",
+  "rarity": 1,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Юношеские мечты и жажда приключений, приправленные отвагой.\n\n### История\nПолон путь встреч и прощаний,И верные спутники мои -Лишь меч и мечта.",
+    "en": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.\n\n### Story\nTravels are full of meetings and partings.\nPerhaps the only trusty and inseparable companions of a Traveler,\nAre the sword in their hand and the dream in their heart.",
+    "zh": "少年人的梦想、踏上旅途的兴奋——如果这两种珍贵的品质还不够锋利，那就用勇气补足吧。\n\n### 故事\n旅途中总是充满了相遇与别离。始终不会抛弃旅人的忠实旅伴，恐怕只有长剑与远行的梦想了。"
+  },
+  "description": {
+    "ru": "Юношеские мечты и жажда приключений, приправленные отвагой.\n\n### История\nПолон путь встреч и прощаний,И верные спутники мои -Лишь меч и мечта.",
+    "en": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.\n\n### Story\nTravels are full of meetings and partings.\nPerhaps the only trusty and inseparable companions of a Traveler,\nAre the sword in their hand and the dream in their heart.",
+    "zh": "少年人的梦想、踏上旅途的兴奋——如果这两种珍贵的品质还不够锋利，那就用勇气补足吧。\n\n### 故事\n旅途中总是充满了相遇与别离。始终不会抛弃旅人的忠实旅伴，恐怕只有长剑与远行的梦想了。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

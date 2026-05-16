@@ -1,0 +1,38 @@
+{
+  "id": "sapwood_blade",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/sword/sapwood_blade.png",
+  "title": {
+    "ru": "Деревянный клинок",
+    "en": "Sapwood Blade",
+    "zh": "原木刀"
+  },
+  "region": "",
+  "rarity": 4,
+  "game_version": "3.0",
+  "tags": [
+    "оружие",
+    "одноручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Оружие, полученное из истории аранар. Оно приняло форму меча, который способен пронзать врагов леса.\n\n### История\n«Это история валуки...»\n\nВ те времена лес был позолоченной пустыней, а мы ещё не появились на свет из зёрнышек граната.\n\nЖили-были три друга. Они были так же близки, как Арадзи, Арамаха и Араяма.\n\nНо один из друзей вернулся на землю, и это стало причиной разлада между двумя другими.\n\nОдин из них решил создать на земле идеальное царство, где не будет места печали.\n\nДругой решил посеять травы и деревья и наполнить землю мудростью и счастьем.\n\nНо в конце концов царства рушатся, мудрость искажается, а понятие счастья меняется.\n\nВы забудете сон, а мы вернёмся в царство грёз, забыв о течении времени.\n\nИ всё же в самом сердце пустыни мы оставляем истории, подобно следам Царя леса.\n\nГоворят, следы былой дружбы всё ещё дремлют в тишине, словно аранары, превращённые в семена.",
+    "en": "It has taken on the shape of a blade that can cut down the foes of the forest.\n\n### Story\n\"This is a story from Valuka...\"\n\nThis is a story from many moons ago, when the jungle was still a shining desert of gold, and we had not yet been born from the pomegranates.\n\nThere were once three friends. They were as good a group of friends as Araji, Aramaha, and Arayama.\nBut one of the friends returned to the earth, while the remaining two went their separate ways.\nOne was determined to create a kingdom on earth and cause all sorrow to disappear,\nWhile the other decided to spread vegetation and greenery and fill the land with wisdom and happiness.\n\nBut eventually, kingdoms will fall, wisdom will be distorted, and the definition of happiness will change.\nYou will forget your dreams, while we will recoil back to ours, forgetting the sun and moon.\n\nEven so, in the depths of the desert, just as the kings of the forest leave footprints behind, and you and I leave stories behind,\nThe traces of our past friendship are said to slumber quietly, like an Aranara that has transformed into a seed.",
+    "zh": "从兰那罗的故事中得到的武器。具有刀的形制，能够贯穿森林的敌人。\n\n### 故事\n「这是来自巴螺迦的故事…」\n\n那时丛林还是镀金般闪耀的沙漠，我们也还没从石榴中诞生。\n\n曾经有三个朋友。他们像兰拉吉、兰玛哈和兰雅玛那么要好。\n\n但是朋友当中有一个回归大地，另外两个朋友也因此决裂了。\n\n其中一个，决心要在地上建造理想国，让一切悲伤从此消失；\n\n而另一个，则决定散布草木与绿茵，让土地充满智识与幸福。\n\n但是最终，王国会崩毁，智慧会歪曲，幸福的定义也会改换。\n\n你们会忘记梦，而我们会退缩在梦境当中，忘记日月的转移。\n\n即使如此，在沙漠的深处，如同森林王留下足印，你我留下故事，\n\n过去友情的痕迹，听说如同化为子种的兰那罗，仍在静静沉睡着。"
+  },
+  "description": {
+    "ru": "Оружие, полученное из истории аранар. Оно приняло форму меча, который способен пронзать врагов леса.\n\n### История\n«Это история валуки...»\n\nВ те времена лес был позолоченной пустыней, а мы ещё не появились на свет из зёрнышек граната.\n\nЖили-были три друга. Они были так же близки, как Арадзи, Арамаха и Араяма.\n\nНо один из друзей вернулся на землю, и это стало причиной разлада между двумя другими.\n\nОдин из них решил создать на земле идеальное царство, где не будет места печали.\n\nДругой решил посеять травы и деревья и наполнить землю мудростью и счастьем.\n\nНо в конце концов царства рушатся, мудрость искажается, а понятие счастья меняется.\n\nВы забудете сон, а мы вернёмся в царство грёз, забыв о течении времени.\n\nИ всё же в самом сердце пустыни мы оставляем истории, подобно следам Царя леса.\n\nГоворят, следы былой дружбы всё ещё дремлют в тишине, словно аранары, превращённые в семена.",
+    "en": "It has taken on the shape of a blade that can cut down the foes of the forest.\n\n### Story\n\"This is a story from Valuka...\"\n\nThis is a story from many moons ago, when the jungle was still a shining desert of gold, and we had not yet been born from the pomegranates.\n\nThere were once three friends. They were as good a group of friends as Araji, Aramaha, and Arayama.\nBut one of the friends returned to the earth, while the remaining two went their separate ways.\nOne was determined to create a kingdom on earth and cause all sorrow to disappear,\nWhile the other decided to spread vegetation and greenery and fill the land with wisdom and happiness.\n\nBut eventually, kingdoms will fall, wisdom will be distorted, and the definition of happiness will change.\nYou will forget your dreams, while we will recoil back to ours, forgetting the sun and moon.\n\nEven so, in the depths of the desert, just as the kings of the forest leave footprints behind, and you and I leave stories behind,\nThe traces of our past friendship are said to slumber quietly, like an Aranara that has transformed into a seed.",
+    "zh": "从兰那罗的故事中得到的武器。具有刀的形制，能够贯穿森林的敌人。\n\n### 故事\n「这是来自巴螺迦的故事…」\n\n那时丛林还是镀金般闪耀的沙漠，我们也还没从石榴中诞生。\n\n曾经有三个朋友。他们像兰拉吉、兰玛哈和兰雅玛那么要好。\n\n但是朋友当中有一个回归大地，另外两个朋友也因此决裂了。\n\n其中一个，决心要在地上建造理想国，让一切悲伤从此消失；\n\n而另一个，则决定散布草木与绿茵，让土地充满智识与幸福。\n\n但是最终，王国会崩毁，智慧会歪曲，幸福的定义也会改换。\n\n你们会忘记梦，而我们会退缩在梦境当中，忘记日月的转移。\n\n即使如此，在沙漠的深处，如同森林王留下足印，你我留下故事，\n\n过去友情的痕迹，听说如同化为子种的兰那罗，仍在静静沉睡着。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "sword",
+  "type": "sword"
+}

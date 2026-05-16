@@ -12,7 +12,7 @@
     },
     "region": "Мондштадт, Ли Юэ, Инадзума",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "2.6",
     "tags": [
       "книги",
       "Мондштадт",
@@ -25,7 +25,7 @@
       "en",
       "zh"
     ],
-    "search_text": "путеводитель по тейвату teyvat travel guide 提瓦特游览指南 мондштадт, ли юэ, инадзума book_series книги мондштадт ли юэ инадзума путеводитель том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "путеводитель по тейвату teyvat travel guide 提瓦特游览指南 мондштадт, ли юэ, инадзума book_series 2.6 книги мондштадт ли юэ инадзума путеводитель том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "02_the_tale_of_qoyllor_and_ukuku",
@@ -40,7 +40,7 @@
     },
     "region": "Натлан",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "5.0",
     "tags": [
       "Натлан",
       "Койллор",
@@ -51,7 +51,7 @@
       "en",
       "zh"
     ],
-    "search_text": "история о койллор и укуку the tale of qoyllor and ukuku 奎伊露和乌库库的故事 натлан book_series койллор укуку том 1 vol. 1 卷一"
+    "search_text": "история о койллор и укуку the tale of qoyllor and ukuku 奎伊露和乌库库的故事 натлан book_series 5.0 койллор укуку том 1 vol. 1 卷一"
   },
   {
     "id": "03_the_tale_of_kuntur",
@@ -66,7 +66,7 @@
     },
     "region": "Натлан",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "5.2",
     "tags": [
       "Натлан",
       "Кунтур"
@@ -76,7 +76,7 @@
       "en",
       "zh"
     ],
-    "search_text": "сказание о кунтуре the tale of kuntur 昆图尔的故事 натлан book_series кунтур том 1 vol. 1 卷一"
+    "search_text": "сказание о кунтуре the tale of kuntur 昆图尔的故事 натлан book_series 5.2 кунтур том 1 vol. 1 卷一"
   },
   {
     "id": "1000_years_of_loneliness",
@@ -91,7 +91,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -101,7 +101,7 @@
       "en",
       "zh"
     ],
-    "search_text": "тысяча лет одиночества 1000 years of loneliness 千年孤独 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "тысяча лет одиночества 1000 years of loneliness 千年孤独 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "a_brief_history_of_the_pale_starborn",
@@ -116,7 +116,7 @@
     },
     "region": "Нод-Край",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "6.3",
     "tags": [
       "книги",
       "Снежная"
@@ -126,7 +126,7 @@
       "en",
       "zh"
     ],
-    "search_text": "краткая история рождённых бледной звездой a brief history of the pale starborn 苍星妖灵史略 нод-край book_series книги снежная том 1 vol. 1 卷一"
+    "search_text": "краткая история рождённых бледной звездой a brief history of the pale starborn 苍星妖灵史略 нод-край book_series 6.3 книги снежная том 1 vol. 1 卷一"
   },
   {
     "id": "a_drunkards_tale",
@@ -141,7 +141,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -151,7 +151,7 @@
       "en",
       "zh"
     ],
-    "search_text": "история пьяницы a drunkard's tale 醉客轶事 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "история пьяницы a drunkard's tale 醉客轶事 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "a_legend_of_sword",
@@ -166,7 +166,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "2.6",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -176,7 +176,7 @@
       "en",
       "zh"
     ],
-    "search_text": "легенда о клинке a legend of sword 沉秋拾剑录 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "легенда о клинке a legend of sword 沉秋拾剑录 ли юэ book_series 2.6 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "a_nameless_adventurers_notes",
@@ -191,7 +191,7 @@
     },
     "region": "Натлан",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.2",
     "tags": [
       "книги",
       "Натлан"
@@ -201,7 +201,7 @@
       "en",
       "zh"
     ],
-    "search_text": "записи безымянного искателя приключений a nameless adventurer's notes 无名冒险家的笔记 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "записи безымянного искателя приключений a nameless adventurer's notes 无名冒险家的笔记 натлан book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "a_preliminary_study_of_sangonomiya_folk_belief",
@@ -216,7 +216,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.2",
     "tags": [
       "книги",
       "Инадзума"
@@ -226,7 +226,7 @@
       "en",
       "zh"
     ],
-    "search_text": "предварительное исследование народных верований сангономии a preliminary study of sangonomiya folk belief 珊瑚宫民间信仰初勘 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "предварительное исследование народных верований сангономии a preliminary study of sangonomiya folk belief 珊瑚宫民间信仰初勘 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
     "id": "a_thousand_nights",
@@ -241,7 +241,7 @@
     },
     "region": "Сумеру",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "3.4",
     "tags": [
       "книги",
       "Сумеру"
@@ -251,7 +251,7 @@
       "en",
       "zh"
     ],
-    "search_text": "тысяча ночей a thousand nights 千夜故事集 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "тысяча ночей a thousand nights 千夜故事集 сумеру book_series 3.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "along_with_divinity_prologue",
@@ -266,7 +266,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -276,7 +276,7 @@
       "en",
       "zh"
     ],
-    "search_text": "вместе с божествами along with divinity: prologue 与神性同行 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "вместе с божествами along with divinity: prologue 与神性同行 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "an_ode_to_khvarena",
@@ -291,7 +291,7 @@
     },
     "region": "Сумеру",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "3.0",
     "tags": [
       "книги",
       "Сумеру"
@@ -301,7 +301,7 @@
       "en",
       "zh"
     ],
-    "search_text": "ода хварне an ode to khvarena 灵光颂 сумеру book_series книги том 1 vol. 1 卷一"
+    "search_text": "ода хварне an ode to khvarena 灵光颂 сумеру book_series 3.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "ancient_investigation_journal_part_i",
@@ -316,7 +316,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "1.2",
     "tags": [
       "книги",
       "Мондштадт"
@@ -326,7 +326,7 @@
       "en",
       "zh"
     ],
-    "search_text": "древний дневник исследователя ancient investigation journal: part i 古老的考察日志·其之一 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "древний дневник исследователя ancient investigation journal: part i 古老的考察日志·其之一 мондштадт book_series 1.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "anecdota_septentrionalis",
@@ -341,7 +341,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.6",
     "tags": [
       "книги",
       "Фонтейн"
@@ -351,7 +351,7 @@
       "en",
       "zh"
     ],
-    "search_text": "северные хроники anecdota septentrionalis 北境秘史 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "северные хроники anecdota septentrionalis 北境秘史 фонтейн book_series 4.6 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "ballads_of_the_squire",
@@ -366,7 +366,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -376,7 +376,7 @@
       "en",
       "zh"
     ],
-    "search_text": "баллады оруженосца ballads of the squire 侍从骑士之歌 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "баллады оруженосца ballads of the squire 侍从骑士之歌 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "biography_of_gunnhildr",
@@ -391,7 +391,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -401,7 +401,7 @@
       "en",
       "zh"
     ],
-    "search_text": "биография клана гуннхильдр biography of gunnhildr 古恩希尔德小传 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "биография клана гуннхильдр biography of gunnhildr 古恩希尔德小传 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "breeze_amidst_the_forest",
@@ -416,7 +416,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -426,7 +426,7 @@
       "en",
       "zh"
     ],
-    "search_text": "лесной бриз breeze amidst the forest 林间风 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "лесной бриз breeze amidst the forest 林间风 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "conch_echoes",
@@ -441,7 +441,7 @@
     },
     "region": "Нод-Край",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "6.0",
     "tags": [
       "книги"
     ],
@@ -450,7 +450,7 @@
       "en",
       "zh"
     ],
-    "search_text": "эхо раковины conch echoes 海螺的回响 нод-край book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "эхо раковины conch echoes 海螺的回响 нод-край book_series 6.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "customs_of_liyue",
@@ -465,7 +465,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "1.2",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -475,7 +475,7 @@
       "en",
       "zh"
     ],
-    "search_text": "традиции ли юэ customs of liyue 璃月风土志 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "традиции ли юэ customs of liyue 璃月风土志 ли юэ book_series 1.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "debates_on_the_viceroy_of_the_east",
@@ -490,7 +490,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.2",
     "tags": [
       "книги",
       "Инадзума"
@@ -500,7 +500,7 @@
       "en",
       "zh"
     ],
-    "search_text": "дебаты по теме «наместник востока» debates on the \"viceroy of the east\" 「东王」史辩 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "дебаты по теме «наместник востока» debates on the \"viceroy of the east\" 「东王」史辩 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
     "id": "diary_of_roald_the_adventurer",
@@ -515,7 +515,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 11,
-    "game_version": "",
+    "game_version": "2.2",
     "tags": [
       "книги"
     ],
@@ -524,7 +524,7 @@
       "en",
       "zh"
     ],
-    "search_text": "дневники роальда, искателя приключений diary of roald the adventurer 冒险家罗尔德的日志 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
+    "search_text": "дневники роальда, искателя приключений diary of roald the adventurer 冒险家罗尔德的日志 мондштадт book_series 2.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
   },
   {
     "id": "dodocos_bomb_tastic_adventure",
@@ -539,7 +539,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "4.1",
     "tags": [
       "книги",
       "Мондштадт",
@@ -550,7 +550,7 @@
       "en",
       "zh"
     ],
-    "search_text": "бомбические приключения додоко dodoco’s bomb-tastic adventure 嘟嘟可轰轰奇遇记 мондштадт book_series книги инадзума том 1 vol. 1 卷一"
+    "search_text": "бомбические приключения додоко dodoco’s bomb-tastic adventure 嘟嘟可轰轰奇遇记 мондштадт book_series 4.1 книги инадзума том 1 vol. 1 卷一"
   },
   {
     "id": "draft_hilichurl_ballads",
@@ -565,7 +565,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -575,7 +575,7 @@
       "en",
       "zh"
     ],
-    "search_text": "проба пера в хиличурлской поэзии draft hilichurl ballads 丘丘语诗歌试作 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "проба пера в хиличурлской поэзии draft hilichurl ballads 丘丘语诗歌试作 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "fables_de_fontaine",
@@ -590,7 +590,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.0",
     "tags": [
       "книги",
       "Фонтейн"
@@ -600,7 +600,7 @@
       "en",
       "zh"
     ],
-    "search_text": "притчи о животных фонтейна fables de fontaine 枫丹动物寓言集 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "притчи о животных фонтейна fables de fontaine 枫丹动物寓言集 фонтейн book_series 4.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "fires_of_autumn_twilight",
@@ -615,7 +615,7 @@
     },
     "region": "Натлан",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.2",
     "tags": [
       "книги",
       "Натлан"
@@ -625,7 +625,7 @@
       "en",
       "zh"
     ],
-    "search_text": "пламя осенних сумерек fires of autumn twilight 秋暮之火 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "пламя осенних сумерек fires of autumn twilight 秋暮之火 натлан book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "flowers_for_princess_fischl",
@@ -640,7 +640,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.1",
     "tags": [
       "книги",
       "Мондштадт"
@@ -650,7 +650,7 @@
       "en",
       "zh"
     ],
-    "search_text": "цветы для принцессы фишль flowers for princess fischl 菲谢尔皇女夜谭 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "цветы для принцессы фишль flowers for princess fischl 菲谢尔皇女夜谭 мондштадт book_series 2.1 книги том 1 vol. 1 卷一"
   },
   {
     "id": "gliding_instruction_manual",
@@ -665,7 +665,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -675,7 +675,7 @@
       "en",
       "zh"
     ],
-    "search_text": "руководство по управлению планером gliding instruction manual 飞行指南 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "руководство по управлению планером gliding instruction manual 飞行指南 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "glimpses_of_mysterious_inazuma",
@@ -690,7 +690,7 @@
     },
     "region": "Инадзума",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "5.4",
     "tags": [
       "книги",
       "Инадзума"
@@ -700,7 +700,7 @@
       "en",
       "zh"
     ],
-    "search_text": "видения таинственной инадзумы glimpses of mysterious inazuma 稻妻秘见录 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "видения таинственной инадзумы glimpses of mysterious inazuma 稻妻秘见录 инадзума book_series 5.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "heart_of_clear_springs",
@@ -715,7 +715,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -725,7 +725,7 @@
       "en",
       "zh"
     ],
-    "search_text": "сердце родника heart of clear springs 清泉之心 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "сердце родника heart of clear springs 清泉之心 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "hearts_desire",
@@ -740,7 +740,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -750,7 +750,7 @@
       "en",
       "zh"
     ],
-    "search_text": "разбитые мечты heart's desire 碎梦奇珍 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "разбитые мечты heart's desire 碎梦奇珍 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "hex_and_hound",
@@ -765,7 +765,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 11,
-    "game_version": "",
+    "game_version": "2.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -775,7 +775,7 @@
       "en",
       "zh"
     ],
-    "search_text": "ведьма и гончая hex & hound 犬又二分之一 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
+    "search_text": "ведьма и гончая hex & hound 犬又二分之一 мондштадт book_series 2.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
   },
   {
     "id": "hilichurl_ballad_selection",
@@ -790,7 +790,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -800,7 +800,7 @@
       "en",
       "zh"
     ],
-    "search_text": "сборник хиличурлских песен hilichurl ballad selection 丘丘人诗歌选 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "сборник хиличурлских песен hilichurl ballad selection 丘丘人诗歌选 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "hilichurl_cultural_customs",
@@ -815,7 +815,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -825,7 +825,7 @@
       "en",
       "zh"
     ],
-    "search_text": "культурные традиции хиличурлов hilichurl cultural customs 丘丘人习俗考察 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "культурные традиции хиличурлов hilichurl cultural customs 丘丘人习俗考察 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "history_of_kings_and_clans_prologue",
@@ -840,7 +840,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -850,7 +850,7 @@
       "en",
       "zh"
     ],
-    "search_text": "история королей и кланов history of kings and clans: prologue 列王与宗室史·序 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "история королей и кланов history of kings and clans: prologue 列王与宗室史·序 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "humor_from_tianheng",
@@ -865,7 +865,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -875,7 +875,7 @@
       "en",
       "zh"
     ],
-    "search_text": "юмор тяньхэн humor from tianheng 天衡绝倒集 ли юэ book_series книги том 1 vol. 1 卷一"
+    "search_text": "юмор тяньхэн humor from tianheng 天衡绝倒集 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "hymns_of_the_far_north",
@@ -890,7 +890,7 @@
     },
     "region": "Нод-Край",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "6.0",
     "tags": [
       "книги",
       "Нод-Край",
@@ -901,7 +901,7 @@
       "en",
       "zh"
     ],
-    "search_text": "гимны крайнего севера hymns of the far north 终北祷歌集 нод-край book_series книги гиперборея том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "гимны крайнего севера hymns of the far north 终北祷歌集 нод-край book_series 6.0 книги гиперборея том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "king_of_invokations",
@@ -916,7 +916,7 @@
     },
     "region": "Сумеру",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "3.7",
     "tags": [
       "книги",
       "Сумеру"
@@ -926,7 +926,7 @@
       "en",
       "zh"
     ],
-    "search_text": "«король священного призыва» king of invokations 《召唤王》 сумеру book_series книги том 1 vol. 1 卷一"
+    "search_text": "«король священного призыва» king of invokations 《召唤王》 сумеру book_series 3.7 книги том 1 vol. 1 卷一"
   },
   {
     "id": "knights_of_favonius_handbook_5th_edition",
@@ -941,7 +941,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -951,7 +951,7 @@
       "en",
       "zh"
     ],
-    "search_text": "руководство для рыцарей ордо фавониус. пятое издание knights of favonius handbook - 5th edition 骑士团指导手册·第五版 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "руководство для рыцарей ордо фавониус. пятое издание knights of favonius handbook - 5th edition 骑士团指导手册·第五版 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "kompore_the_cunning",
@@ -966,7 +966,7 @@
     },
     "region": "Натлан",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.5",
     "tags": [
       "книги",
       "Натлан"
@@ -976,7 +976,7 @@
       "en",
       "zh"
     ],
-    "search_text": "хитрец компоре kompore the cunning 狡诈的康波雷 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "хитрец компоре kompore the cunning 狡诈的康波雷 натлан book_series 5.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "la_chanson_derinnyes",
@@ -991,7 +991,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.2",
     "tags": [
       "книги",
       "Фонтейн"
@@ -1001,7 +1001,7 @@
       "en",
       "zh"
     ],
-    "search_text": "песня эриний la chanson d'erinnyes 伊黎耶之歌 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "песня эриний la chanson d'erinnyes 伊黎耶之歌 фонтейн book_series 4.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "legend_of_the_geo_archon_god_of_the_stove",
@@ -1016,7 +1016,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1026,7 +1026,7 @@
       "en",
       "zh"
     ],
-    "search_text": "легенда о гео архонте legend of the geo archon: god of the stove 岩神传说：炉灶之神 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "легенда о гео архонте legend of the geo archon: god of the stove 岩神传说：炉灶之神 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "legend_of_the_lone_sword",
@@ -1041,7 +1041,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1051,7 +1051,7 @@
       "en",
       "zh"
     ],
-    "search_text": "одинокий клинок в пустошах legend of the lone sword 荒山孤剑录 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "одинокий клинок в пустошах legend of the lone sword 荒山孤剑录 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "legend_of_the_shattered_halberd",
@@ -1066,7 +1066,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1076,7 +1076,7 @@
       "en",
       "zh"
     ],
-    "search_text": "«легенда о разбитой алебарде» legend of the shattered halberd 神霄折戟录 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "«легенда о разбитой алебарде» legend of the shattered halberd 神霄折戟录 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "lets_go_dodoco",
@@ -1091,7 +1091,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.6",
     "tags": [
       "книги",
       "Мондштадт",
@@ -1102,7 +1102,7 @@
       "en",
       "zh"
     ],
-    "search_text": "вперёд, додоко! let's go, dodoco! 出发吧！嘟嘟可 мондштадт book_series книги инадзума том 1 vol. 1 卷一"
+    "search_text": "вперёд, додоко! let's go, dodoco! 出发吧！嘟嘟可 мондштадт book_series 2.6 книги инадзума том 1 vol. 1 卷一"
   },
   {
     "id": "linlings_anthology_of_selected_poetry",
@@ -1117,7 +1117,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1127,7 +1127,7 @@
       "en",
       "zh"
     ],
-    "search_text": "сборник избранных стихов линь лин linling's anthology of selected poetry 霖铃精选诗集 ли юэ book_series книги том 1 vol. 1 卷一"
+    "search_text": "сборник избранных стихов линь лин linling's anthology of selected poetry 霖铃精选诗集 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "maawe_and_monetoo",
@@ -1142,7 +1142,7 @@
     },
     "region": "Натлан",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.0",
     "tags": [
       "книги",
       "Натлан"
@@ -1152,7 +1152,7 @@
       "en",
       "zh"
     ],
-    "search_text": "мааве и маниту maawe and monetoo 玛阿威与幻写灵 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "мааве и маниту maawe and monetoo 玛阿威与幻写灵 натлан book_series 5.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "meadow_of_gems",
@@ -1167,7 +1167,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.2",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1177,7 +1177,7 @@
       "en",
       "zh"
     ],
-    "search_text": "россыпь жемчуга meadow of gems 珠玑宝矿 ли юэ book_series книги том 1 vol. 1 卷一"
+    "search_text": "россыпь жемчуга meadow of gems 珠玑宝矿 ли юэ book_series 1.2 книги том 1 vol. 1 卷一"
   },
   {
     "id": "men_of_lithin",
@@ -1192,7 +1192,7 @@
     },
     "region": "Натлан",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.4",
     "tags": [
       "книги",
       "Натлан"
@@ -1202,7 +1202,7 @@
       "en",
       "zh"
     ],
-    "search_text": "народ литина men of lithin 石素人 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "народ литина men of lithin 石素人 натлан book_series 5.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "moonlit_bamboo_forest",
@@ -1217,7 +1217,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1227,7 +1227,7 @@
       "en",
       "zh"
     ],
-    "search_text": "ночь в бамбуковом лесу moonlit bamboo forest 竹林月夜 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "ночь в бамбуковом лесу moonlit bamboo forest 竹林月夜 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "mt_lingmeng_gossip",
@@ -1242,7 +1242,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.2",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1252,7 +1252,7 @@
       "en",
       "zh"
     ],
-    "search_text": "слухи горы линмэн mt. lingmeng gossip 灵濛山夜话 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "слухи горы линмэн mt. lingmeng gossip 灵濛山夜话 ли юэ book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "new_chronicles_of_the_six_kitsune",
@@ -1267,7 +1267,7 @@
     },
     "region": "Инадзума",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "2.1",
     "tags": [
       "книги",
       "Инадзума"
@@ -1277,7 +1277,7 @@
       "en",
       "zh"
     ],
-    "search_text": "новые хроники шести кицунэ new chronicles of the six kitsune 新六狐传 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "новые хроники шести кицунэ new chronicles of the six kitsune 新六狐传 инадзума book_series 2.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "night_murmurs_from_the_far_border_varcolac",
@@ -1292,7 +1292,7 @@
     },
     "region": "Нод-Край",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "6.3",
     "tags": [
       "книги",
       "Нод-Край"
@@ -1302,7 +1302,7 @@
       "en",
       "zh"
     ],
-    "search_text": "ночной шёпот издалека night murmurs from the far border: varcolac 边乡夜语·鬣兽 нод-край book_series книги том 1 vol. 1 卷一"
+    "search_text": "ночной шёпот издалека night murmurs from the far border: varcolac 边乡夜语·鬣兽 нод-край book_series 6.3 книги том 1 vol. 1 卷一"
   },
   {
     "id": "of_mountains_and_seas",
@@ -1317,7 +1317,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "1.1",
     "tags": [
       "книги",
       "Мондштадт"
@@ -1327,7 +1327,7 @@
       "en",
       "zh"
     ],
-    "search_text": "книга гор и морей \"of mountains and seas\" 山与海之书 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "книга гор и морей \"of mountains and seas\" 山与海之书 мондштадт book_series 1.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "onibudou",
@@ -1342,7 +1342,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.1",
     "tags": [
       "книги",
       "Инадзума"
@@ -1352,7 +1352,7 @@
       "en",
       "zh"
     ],
-    "search_text": "онибудо onibudou 鬼武道 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "онибудо onibudou 鬼武道 инадзума book_series 2.1 книги том 1 vol. 1 卷一"
   },
   {
     "id": "perinheri",
@@ -1367,7 +1367,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "4.5",
     "tags": [
       "книги",
       "Каэнри'ах"
@@ -1377,7 +1377,7 @@
       "en",
       "zh"
     ],
-    "search_text": "переньери perinheri 裴伦埃里 фонтейн book_series книги каэнри'ах том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "переньери perinheri 裴伦埃里 фонтейн book_series 4.5 книги каэнри'ах том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "pretty_please_kitsune_guuji",
@@ -1392,7 +1392,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.6",
     "tags": [
       "книги",
       "Инадзума"
@@ -1402,7 +1402,7 @@
       "en",
       "zh"
     ],
-    "search_text": "пожалуйста, кицунэ гудзи pretty please, kitsune guuji? 拜托了我的狐仙宫司 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "пожалуйста, кицунэ гудзи pretty please, kitsune guuji? 拜托了我的狐仙宫司 инадзума book_series 2.6 книги том 1 vol. 1 卷一"
   },
   {
     "id": "princess_mina_of_the_fallen_nation",
@@ -1417,7 +1417,7 @@
     },
     "region": "Инадзума",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "2.1",
     "tags": [
       "книги",
       "Инадзума"
@@ -1427,7 +1427,7 @@
       "en",
       "zh"
     ],
-    "search_text": "мина, принцесса павшего народа princess mina of the fallen nation 亡国的美奈姬 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "мина, принцесса павшего народа princess mina of the fallen nation 亡国的美奈姬 инадзума book_series 2.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "rangi_nuis_end",
@@ -1442,7 +1442,7 @@
     },
     "region": "Натлан",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "5.5",
     "tags": [
       "книги",
       "Натлан"
@@ -1452,7 +1452,7 @@
       "en",
       "zh"
     ],
-    "search_text": "конец ранги нуи rangi nui's end 兰吉努伊之底 натлан book_series книги том 1 vol. 1 卷一"
+    "search_text": "конец ранги нуи rangi nui's end 兰吉努伊之底 натлан book_series 5.5 книги том 1 vol. 1 卷一"
   },
   {
     "id": "records_of_hanan_pacha",
@@ -1467,7 +1467,7 @@
     },
     "region": "Натлан",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.0",
     "tags": [
       "книги",
       "Натлан"
@@ -1477,7 +1477,7 @@
       "en",
       "zh"
     ],
-    "search_text": "хроники ханан пача records of hanan pacha 哈南帕查记事 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "хроники ханан пача records of hanan pacha 哈南帕查记事 натлан book_series 5.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "records_of_jueyun",
@@ -1492,7 +1492,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "1.3",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1502,7 +1502,7 @@
       "en",
       "zh"
     ],
-    "search_text": "хроника заоблачного предела records of jueyun 绝云记闻 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "хроника заоблачного предела records of jueyun 绝云记闻 ли юэ book_series 1.3 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "records_of_the_gallant",
@@ -1517,7 +1517,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "1.5",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1527,7 +1527,7 @@
       "en",
       "zh"
     ],
-    "search_text": "записки благородного рыцаря records of the gallant 侠客记 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "записки благородного рыцаря records of the gallant 侠客记 ли юэ book_series 1.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "rex_incognito",
@@ -1542,7 +1542,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 4,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1552,7 +1552,7 @@
       "en",
       "zh"
     ],
-    "search_text": "властелин инкогнито rex incognito 帝君尘游记 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
+    "search_text": "властелин инкогнито rex incognito 帝君尘游记 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
     "id": "robben_versus_chesterton_iridescent_brooch",
@@ -1567,7 +1567,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.0",
     "tags": [
       "книги",
       "Фонтейн"
@@ -1577,7 +1577,7 @@
       "en",
       "zh"
     ],
-    "search_text": "бандиты и сыщики: радужная брошь robben versus chesterton: iridescent brooch 怪盗与名侦探：虹彩胸针之谜 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "бандиты и сыщики: радужная брошь robben versus chesterton: iridescent brooch 怪盗与名侦探：虹彩胸针之谜 фонтейн book_series 4.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "sacred_sakura_cleansing_summary",
@@ -1592,7 +1592,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.0",
     "tags": [
       "книги",
       "Инадзума"
@@ -1602,7 +1602,7 @@
       "en",
       "zh"
     ],
-    "search_text": "указания по очищению священной сакуры sacred sakura cleansing summary 神樱大祓要略 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "указания по очищению священной сакуры sacred sakura cleansing summary 神樱大祓要略 инадзума book_series 2.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "sangonomiya_chronicles",
@@ -1617,7 +1617,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.0",
     "tags": [
       "книги",
       "Инадзума"
@@ -1627,7 +1627,7 @@
       "en",
       "zh"
     ],
-    "search_text": "хроники сангономии sangonomiya chronicles 珊瑚宫记 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "хроники сангономии sangonomiya chronicles 珊瑚宫记 инадзума book_series 2.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "scroll_of_streaming_song",
@@ -1642,7 +1642,7 @@
     },
     "region": "Сумеру",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "3.0",
     "tags": [
       "книги",
       "Сумеру"
@@ -1652,7 +1652,7 @@
       "en",
       "zh"
     ],
-    "search_text": "плывущий свиток песен scroll of streaming song 浮槃歌卷 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "плывущий свиток песен scroll of streaming song 浮槃歌卷 сумеру book_series 3.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "shogun_almighty_reborn_as_raiden_with_unlimited_power",
@@ -1667,7 +1667,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.6",
     "tags": [
       "книги",
       "Инадзума"
@@ -1677,7 +1677,7 @@
       "en",
       "zh"
     ],
-    "search_text": "реинкарнация в непобедимого сёгуна райдэн shogun almighty: reborn as raiden with unlimited power 转生成为雷电将军，然后天下无敌 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "реинкарнация в непобедимого сёгуна райдэн shogun almighty: reborn as raiden with unlimited power 转生成为雷电将军，然后天下无敌 инадзума book_series 2.6 книги том 1 vol. 1 卷一"
   },
   {
     "id": "someones_diary",
@@ -1692,7 +1692,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "2.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1702,7 +1702,7 @@
       "en",
       "zh"
     ],
-    "search_text": "чей-то дневник someone's diary 谁人的日志 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "чей-то дневник someone's diary 谁人的日志 ли юэ book_series 2.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "springs_of_hidden_jade",
@@ -1717,7 +1717,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "5.2",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1727,7 +1727,7 @@
       "en",
       "zh"
     ],
-    "search_text": "ручьи скрытого нефрита springs of hidden jade 隐玉之泉 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "ручьи скрытого нефрита springs of hidden jade 隐玉之泉 ли юэ book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "stone_tablet_compilations_vol_i",
@@ -1742,7 +1742,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1752,7 +1752,7 @@
       "en",
       "zh"
     ],
-    "search_text": "сборник каменных табличек stone tablet compilations: vol. i 石书辑录·卷一 ли юэ book_series книги том 1 vol. 1 卷一"
+    "search_text": "сборник каменных табличек stone tablet compilations: vol. i 石书辑录·卷一 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "string_of_pearls",
@@ -1767,7 +1767,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 5,
-    "game_version": "",
+    "game_version": "1.5",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1777,7 +1777,7 @@
       "en",
       "zh"
     ],
-    "search_text": "жемчужная нить string of pearls 连心珠 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
+    "search_text": "жемчужная нить string of pearls 连心珠 ли юэ book_series 1.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
   },
   {
     "id": "sundjattas_first_foray",
@@ -1792,7 +1792,7 @@
     },
     "region": "Натлан",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "5.5",
     "tags": [
       "книги",
       "Натлан"
@@ -1802,7 +1802,7 @@
       "en",
       "zh"
     ],
-    "search_text": "первый поход сундиаты sundjatta's first foray 松伽塔的初阵 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "первый поход сундиаты sundjatta's first foray 松伽塔的初阵 натлан book_series 5.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "tales_carried_by_the_northwind",
@@ -1817,7 +1817,7 @@
     },
     "region": "Нод-Край",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "6.3",
     "tags": [
       "книги",
       "Нод-Край"
@@ -1827,7 +1827,7 @@
       "en",
       "zh"
     ],
-    "search_text": "сказания северного ветра tales carried by the northwind 朔风集 нод-край book_series книги том 1 vol. 1 卷一"
+    "search_text": "сказания северного ветра tales carried by the northwind 朔风集 нод-край book_series 6.3 книги том 1 vol. 1 卷一"
   },
   {
     "id": "tales_from_the_waves",
@@ -1842,7 +1842,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -1852,7 +1852,7 @@
       "en",
       "zh"
     ],
-    "search_text": "записи бродяги tales from the waves 浮浪记 ли юэ book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "записи бродяги tales from the waves 浮浪记 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "tales_of_a_snow_winged_goose",
@@ -1867,7 +1867,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.2",
     "tags": [
       "книги"
     ],
@@ -1876,7 +1876,7 @@
       "en",
       "zh"
     ],
-    "search_text": "сказки снежной гусыни tales of a snow-winged goose 雪翅雁童话集 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "сказки снежной гусыни tales of a snow-winged goose 雪翅雁童话集 фонтейн book_series 4.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "tequil_the_brave",
@@ -1891,7 +1891,7 @@
     },
     "region": "Натлан",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "5.1",
     "tags": [
       "книги",
       "Натлан"
@@ -1901,7 +1901,7 @@
       "en",
       "zh"
     ],
-    "search_text": "текил храбрый tequil the brave 勇敢的特奎 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "текил храбрый tequil the brave 勇敢的特奎 натлан book_series 5.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "the_art_of_negotiation",
@@ -1916,7 +1916,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "4.1",
     "tags": [
       "книги",
       "Фонтейн"
@@ -1926,7 +1926,7 @@
       "en",
       "zh"
     ],
-    "search_text": "«искусство переговоров» \"the art of negotiation\" 《交涉的艺术》 фонтейн book_series книги том 1 vol. 1 卷一"
+    "search_text": "«искусство переговоров» \"the art of negotiation\" 《交涉的艺术》 фонтейн book_series 4.1 книги том 1 vol. 1 卷一"
   },
   {
     "id": "the_boar_princess",
@@ -1941,7 +1941,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 7,
-    "game_version": "",
+    "game_version": "1.2",
     "tags": [
       "книги",
       "Мондштадт"
@@ -1951,7 +1951,7 @@
       "en",
       "zh"
     ],
-    "search_text": "принцесса-кабан the boar princess 野猪公主 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
+    "search_text": "принцесса-кабан the boar princess 野猪公主 мондштадт book_series 1.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
   },
   {
     "id": "the_byakuyakoku_collection",
@@ -1966,7 +1966,7 @@
     },
     "region": "Инадзума",
     "volume_count": 5,
-    "game_version": "",
+    "game_version": "2.4",
     "tags": [
       "книги",
       "Инадзума",
@@ -1977,7 +1977,7 @@
       "en",
       "zh"
     ],
-    "search_text": "коллекция бякуякоку the byakuyakoku collection 白夜国馆藏 инадзума book_series книги энканомия том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
+    "search_text": "коллекция бякуякоку the byakuyakoku collection 白夜国馆藏 инадзума book_series 2.4 книги энканомия том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
   },
   {
     "id": "the_fall_of_the_faded_castle",
@@ -1992,7 +1992,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.2",
     "tags": [
       "книги",
       "Фонтейн"
@@ -2002,7 +2002,7 @@
       "en",
       "zh"
     ],
-    "search_text": "разрушение обветшалого замка the fall of the faded castle 褪色古堡的崩塌 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "разрушение обветшалого замка the fall of the faded castle 褪色古堡的崩塌 фонтейн book_series 4.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "the_feline_firm",
@@ -2017,7 +2017,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 8,
-    "game_version": "",
+    "game_version": "4.7",
     "tags": [
       "книги",
       "Фонтейн"
@@ -2027,7 +2027,7 @@
       "en",
       "zh"
     ],
-    "search_text": "кошачья канцелярия the feline firm 猫咪事务所 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八"
+    "search_text": "кошачья канцелярия the feline firm 猫咪事务所 фонтейн book_series 4.7 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八"
   },
   {
     "id": "the_folio_of_foliage",
@@ -2042,7 +2042,7 @@
     },
     "region": "Сумеру",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "3.0",
     "tags": [
       "книги",
       "Сумеру"
@@ -2052,7 +2052,7 @@
       "en",
       "zh"
     ],
-    "search_text": "учение листвы the folio of foliage 遐叶论经 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "учение листвы the folio of foliage 遐叶论经 сумеру book_series 3.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "the_fox_in_the_dandelion_sea",
@@ -2067,7 +2067,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 11,
-    "game_version": "",
+    "game_version": "1.1",
     "tags": [
       "книги",
       "Мондштадт"
@@ -2077,7 +2077,7 @@
       "en",
       "zh"
     ],
-    "search_text": "лиса в море одуванчиков the fox in the dandelion sea 蒲公英海的狐狸 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
+    "search_text": "лиса в море одуванчиков the fox in the dandelion sea 蒲公英海的狐狸 мондштадт book_series 1.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
   },
   {
     "id": "the_headless_coquitao",
@@ -2092,7 +2092,7 @@
     },
     "region": "Натлан",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "5.5",
     "tags": [
       "книги",
       "Натлан"
@@ -2102,7 +2102,7 @@
       "en",
       "zh"
     ],
-    "search_text": "безголовый кокитао the headless coquitao 无头的科奎塔奥 натлан book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "безголовый кокитао the headless coquitao 无头的科奎塔奥 натлан book_series 5.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "the_history_of_the_decline_and_fall_of_remuria",
@@ -2117,7 +2117,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.0",
     "tags": [
       "книги",
       "Фонтейн"
@@ -2127,7 +2127,7 @@
       "en",
       "zh"
     ],
-    "search_text": "закат и падение ремурии the history of the decline and fall of remuria 雷穆利亚衰亡史 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "закат и падение ремурии the history of the decline and fall of remuria 雷穆利亚衰亡史 фонтейн book_series 4.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "the_lay_of_al_ahmar",
@@ -2142,7 +2142,7 @@
     },
     "region": "Сумеру",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "3.0",
     "tags": [
       "книги",
       "Сумеру"
@@ -2152,7 +2152,7 @@
       "en",
       "zh"
     ],
-    "search_text": "история аль-ахмара the lay of al-ahmar 阿赫玛尔的故事 сумеру book_series книги том 1 vol. 1 卷一"
+    "search_text": "история аль-ахмара the lay of al-ahmar 阿赫玛尔的故事 сумеру book_series 3.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "the_legend_of_vennessa",
@@ -2167,7 +2167,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -2177,7 +2177,7 @@
       "en",
       "zh"
     ],
-    "search_text": "легенда о веннессе the legend of vennessa 温妮莎传奇 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "легенда о веннессе the legend of vennessa 温妮莎传奇 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "the_legends_of_reed_miller_thief_extraordinaire",
@@ -2192,7 +2192,7 @@
     },
     "region": "Нод-Край",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "6.0",
     "tags": [
       "книги",
       "Нод-Край"
@@ -2202,7 +2202,7 @@
       "en",
       "zh"
     ],
-    "search_text": "легенда о риде миллере the legends of reed miller, thief extraordinaire 大盗雷德·米勒传奇 нод-край book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "легенда о риде миллере the legends of reed miller, thief extraordinaire 大盗雷德·米勒传奇 нод-край book_series 6.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "the_life_of_mouun_the_shrine_maiden",
@@ -2217,7 +2217,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.2",
     "tags": [
       "книги",
       "Инадзума"
@@ -2227,7 +2227,7 @@
       "en",
       "zh"
     ],
-    "search_text": "краткая биография жрицы моун the life of mouun the shrine maiden 巫女曚云小传 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "краткая биография жрицы моун the life of mouun the shrine maiden 巫女曚云小传 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
     "id": "the_little_witch_and_the_undying_fire",
@@ -2242,7 +2242,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 7,
-    "game_version": "",
+    "game_version": "4.7",
     "tags": [
       "книги"
     ],
@@ -2251,7 +2251,7 @@
       "en",
       "zh"
     ],
-    "search_text": "маленькая ведьма и вечное пламя the little witch and the undying fire 小魔女与不熄灭的火 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
+    "search_text": "маленькая ведьма и вечное пламя the little witch and the undying fire 小魔女与不熄灭的火 мондштадт book_series 4.7 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
   },
   {
     "id": "the_mondstadt_tower",
@@ -2266,7 +2266,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -2276,7 +2276,7 @@
       "en",
       "zh"
     ],
-    "search_text": "башня мондштадта the mondstadt tower 蒙德高塔 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "башня мондштадта the mondstadt tower 蒙德高塔 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "the_pale_princess_and_the_six_pygmies",
@@ -2291,7 +2291,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 7,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -2301,7 +2301,7 @@
       "en",
       "zh"
     ],
-    "search_text": "снежная принцесса и шесть карликов the pale princess and the six pygmies 白之公主与六侏儒 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
+    "search_text": "снежная принцесса и шесть карликов the pale princess and the six pygmies 白之公主与六侏儒 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
   },
   {
     "id": "the_saga_of_hamavaran",
@@ -2316,7 +2316,7 @@
     },
     "region": "Сумеру",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "2.0",
     "tags": [
       "книги",
       "Сумеру"
@@ -2326,7 +2326,7 @@
       "en",
       "zh"
     ],
-    "search_text": "войны хамаварана the saga of hamavaran 哈玛瓦兰战记 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "войны хамаварана the saga of hamavaran 哈玛瓦兰战记 сумеру book_series 2.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "the_shepherd_and_the_magic_bottle",
@@ -2341,7 +2341,7 @@
     },
     "region": "Сумеру",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "3.0",
     "tags": [
       "книги",
       "Сумеру"
@@ -2351,7 +2351,7 @@
       "en",
       "zh"
     ],
-    "search_text": "пастушок и волшебная бутылка the shepherd and the magic bottle 牧童与魔瓶的故事 сумеру book_series книги том 1 vol. 1 卷一"
+    "search_text": "пастушок и волшебная бутылка the shepherd and the magic bottle 牧童与魔瓶的故事 сумеру book_series 3.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "the_tale_of_shiruyeh_and_shirin",
@@ -2366,7 +2366,7 @@
     },
     "region": "Сумеру",
     "volume_count": 2,
-    "game_version": "",
+    "game_version": "3.0",
     "tags": [
       "книги",
       "Сумеру"
@@ -2376,7 +2376,7 @@
       "en",
       "zh"
     ],
-    "search_text": "история шируе и сирин the tale of shiruyeh and shirin 希鲁伊与希琳的故事 сумеру book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
+    "search_text": "история шируе и сирин the tale of shiruyeh and shirin 希鲁伊与希琳的故事 сумеру book_series 3.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
     "id": "the_two_musketeers",
@@ -2391,7 +2391,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.3",
     "tags": [
       "книги",
       "Фонтейн"
@@ -2401,7 +2401,7 @@
       "en",
       "zh"
     ],
-    "search_text": "два мушкетёра the two musketeers 两个铳枪手 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "два мушкетёра the two musketeers 两个铳枪手 фонтейн book_series 4.3 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "the_volcano_lord_and_the_shadow_pins",
@@ -2416,7 +2416,7 @@
     },
     "region": "Натлан",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "5.0",
     "tags": [
       "книги",
       "Натлан"
@@ -2426,7 +2426,7 @@
       "en",
       "zh"
     ],
-    "search_text": "повелитель вулканов и теневые иглы the volcano lord and the shadow pins 火山大王与缝影针 натлан book_series книги том 1 vol. 1 卷一"
+    "search_text": "повелитель вулканов и теневые иглы the volcano lord and the shadow pins 火山大王与缝影针 натлан book_series 5.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "thick_notebook",
@@ -2441,7 +2441,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -2451,7 +2451,7 @@
       "en",
       "zh"
     ],
-    "search_text": "толстый дневник thick notebook 厚厚的笔记 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "толстый дневник thick notebook 厚厚的笔记 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "time_trekker",
@@ -2466,7 +2466,7 @@
     },
     "region": "Фонтейн",
     "volume_count": 3,
-    "game_version": "",
+    "game_version": "4.4",
     "tags": [
       "книги",
       "Фонтейн"
@@ -2476,7 +2476,7 @@
       "en",
       "zh"
     ],
-    "search_text": "путешественник во времени time trekker 旅时者 фонтейн book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
+    "search_text": "путешественник во времени time trekker 旅时者 фонтейн book_series 4.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
     "id": "toki_alley_tales",
@@ -2491,7 +2491,7 @@
     },
     "region": "Инадзума",
     "volume_count": 6,
-    "game_version": "",
+    "game_version": "2.1",
     "tags": [
       "книги",
       "Инадзума"
@@ -2501,7 +2501,7 @@
       "en",
       "zh"
     ],
-    "search_text": "рассказы улицы токи toki alley tales 鹮巷物语 инадзума book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
+    "search_text": "рассказы улицы токи toki alley tales 鹮巷物语 инадзума book_series 2.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
     "id": "treasured_tales_of_the_chouken_shinkageuchi",
@@ -2516,7 +2516,7 @@
     },
     "region": "Инадзума",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "2.2",
     "tags": [
       "книги",
       "Инадзума"
@@ -2526,7 +2526,7 @@
       "en",
       "zh"
     ],
-    "search_text": "драгоценные сказания киёсикэн синкагэути treasured tales of the chouken shinkageuchi 珍说澄研真影打 инадзума book_series книги том 1 vol. 1 卷一"
+    "search_text": "драгоценные сказания киёсикэн синкагэути treasured tales of the chouken shinkageuchi 珍说澄研真影打 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
     "id": "veras_melancholy",
@@ -2541,7 +2541,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 12,
-    "game_version": "",
+    "game_version": "6.5",
     "tags": [
       "книги"
     ],
@@ -2550,7 +2550,7 @@
       "en",
       "zh"
     ],
-    "search_text": "меланхолия веры vera's melancholy 少女薇拉的忧郁 мондштадт book_series книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一 том 12 vol. 12 卷十二"
+    "search_text": "меланхолия веры vera's melancholy 少女薇拉的忧郁 мондштадт book_series 6.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一 том 12 vol. 12 卷十二"
   },
   {
     "id": "verses_of_equilibrium",
@@ -2565,7 +2565,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -2575,7 +2575,7 @@
       "en",
       "zh"
     ],
-    "search_text": "песни равновесия verses of equilibrium 玑衡经 ли юэ book_series книги том 1 vol. 1 卷一"
+    "search_text": "песни равновесия verses of equilibrium 玑衡经 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "wind_courage_and_wings",
@@ -2590,7 +2590,7 @@
     },
     "region": "Мондштадт",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.0",
     "tags": [
       "книги",
       "Мондштадт"
@@ -2600,7 +2600,7 @@
       "en",
       "zh"
     ],
-    "search_text": "ветер, храбрость и крылья wind, courage, and wings 风、勇气和翅膀 мондштадт book_series книги том 1 vol. 1 卷一"
+    "search_text": "ветер, храбрость и крылья wind, courage, and wings 风、勇气和翅膀 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
     "id": "yakshas_the_guardian_adepti",
@@ -2615,7 +2615,7 @@
     },
     "region": "Ли Юэ",
     "volume_count": 1,
-    "game_version": "",
+    "game_version": "1.3",
     "tags": [
       "книги",
       "Ли Юэ"
@@ -2625,6 +2625,6 @@
       "en",
       "zh"
     ],
-    "search_text": "яксы: защитники адептов yakshas: the guardian adepti 护法仙众夜叉录 ли юэ book_series книги том 1 vol. 1 卷一"
+    "search_text": "яксы: защитники адептов yakshas: the guardian adepti 护法仙众夜叉录 ли юэ book_series 1.3 книги том 1 vol. 1 卷一"
   }
 ]

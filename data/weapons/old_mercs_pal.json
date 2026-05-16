@@ -1,0 +1,38 @@
+{
+  "id": "old_mercs_pal",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/claymore/old_mercs_pal.png",
+  "title": {
+    "ru": "Лучший друг наёмника",
+    "en": "Old Merc's Pal",
+    "zh": "佣兵重剑"
+  },
+  "region": "",
+  "rarity": 2,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "двуручное"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Этот меч, испытанный битвой, видал лучшие дни... и худшие тоже.\n\n### История\nОн постоянно рассказывал о приключениях своей молодости.\nДурацкие старческие истории, полные вранья.\nНо этот старомодный меч будто говорит:«Конечно, немного приврал, но ведь и я там был».",
+    "en": "A battle-tested greatsword that has seen better days and worse.\n\n### Story\nHe would often mention the experiences that he had in his youth as an adventurer.\nThey were always the same old long-winded, annoying tall tales.\nBut this old greatsword seems to silently say,\n\"Well, it is a bit over the top, yes. But I was there too, you know.\"",
+    "zh": "沉重坚实的古旧大剑，饱经战火与岁月的洗练。\n\n### 故事\n他总会提起自己年轻时的冒险经历，都是令人生厌的老掉牙的夸张故事。但这把老旧的大剑似乎在无声地说，「是有点夸张没错。但当时我也在」"
+  },
+  "description": {
+    "ru": "Этот меч, испытанный битвой, видал лучшие дни... и худшие тоже.\n\n### История\nОн постоянно рассказывал о приключениях своей молодости.\nДурацкие старческие истории, полные вранья.\nНо этот старомодный меч будто говорит:«Конечно, немного приврал, но ведь и я там был».",
+    "en": "A battle-tested greatsword that has seen better days and worse.\n\n### Story\nHe would often mention the experiences that he had in his youth as an adventurer.\nThey were always the same old long-winded, annoying tall tales.\nBut this old greatsword seems to silently say,\n\"Well, it is a bit over the top, yes. But I was there too, you know.\"",
+    "zh": "沉重坚实的古旧大剑，饱经战火与岁月的洗练。\n\n### 故事\n他总会提起自己年轻时的冒险经历，都是令人生厌的老掉牙的夸张故事。但这把老旧的大剑似乎在无声地说，「是有点夸张没错。但当时我也在」"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "claymore",
+  "type": "claymore"
+}

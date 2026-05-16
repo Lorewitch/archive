@@ -1,0 +1,38 @@
+{
+  "id": "raven_bow",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/raven_bow.png",
+  "title": {
+    "ru": "Лук ворона",
+    "en": "Raven Bow",
+    "zh": "鸦羽弓"
+  },
+  "region": "",
+  "rarity": 3,
+  "game_version": "1.0",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Как известно, вороны - проводники мёртвых. Этот лук украшен их перьями, предвещающими скорую смерть любой цели.\n\n### История\nВороны - это посланники смерти.«Воронье перо, прикреплённое к рукояти лука,Предвещает скорую кончину врага».\nПо крайней мере, так утверждают торговцы луками.",
+    "en": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.\n\n### Story\nRavens are messengers of death.\n\"Placing this feather on the limb of one's bow\ndeclares the death of one's prey.\"\nOr so claimed the weapon vendors.",
+    "zh": "相传渡鸦是死的使者。将鸦羽装饰在弓臂上，射出的每一箭都宣告着猎物的终末。\n\n### 故事\n相传渡鸦是报死的使者。若将鸦羽装饰在弓臂上，振弦之声想必会为猎物宣告死期。至少，那些武器商人是这么说的。"
+  },
+  "description": {
+    "ru": "Как известно, вороны - проводники мёртвых. Этот лук украшен их перьями, предвещающими скорую смерть любой цели.\n\n### История\nВороны - это посланники смерти.«Воронье перо, прикреплённое к рукояти лука,Предвещает скорую кончину врага».\nПо крайней мере, так утверждают торговцы луками.",
+    "en": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.\n\n### Story\nRavens are messengers of death.\n\"Placing this feather on the limb of one's bow\ndeclares the death of one's prey.\"\nOr so claimed the weapon vendors.",
+    "zh": "相传渡鸦是死的使者。将鸦羽装饰在弓臂上，射出的每一箭都宣告着猎物的终末。\n\n### 故事\n相传渡鸦是报死的使者。若将鸦羽装饰在弓臂上，振弦之声想必会为猎物宣告死期。至少，那些武器商人是这么说的。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}

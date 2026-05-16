@@ -1,0 +1,38 @@
+{
+  "id": "polar_star",
+  "category": "weapons",
+  "icon": "assets/icons/weapons/bow/polar_star.png",
+  "title": {
+    "ru": "Полярная звезда",
+    "en": "Polar Star",
+    "zh": "冬极白星"
+  },
+  "region": "",
+  "rarity": 5,
+  "game_version": "2.2",
+  "tags": [
+    "оружие",
+    "лук"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Белоснежный лук, пронзительный, как льды суровой зимы.\n\n### История\n«Я раненый волк, которого предал весь мир.\nЧто ж, мы построим новый мир, где не будет места предательству.\nОблечённые в безупречные одежды полярного дня,мы родом из страны, укрытой серебряным снегом,звук нашего рога возвещает о прибытии Её Величества.\nПорой мы выходим в безлунные ночи.\nПорой мы гуляем по золочёной пустыне.\nПорой ощущаем тайные уколы вражды.\nПорой вспоминаем об оставшихся на родине близких.\nНо всегда в наших сердцах горит бледный огонь.\nО, Предвестники, яркие звёзды полярной земли,направьте нас в бесконечном пути.\nЕсли твои мечты не находят признания, если ты залечиваешь раны, которые никогда не исчезнут,если каждый закат ты яришься от лживых обетов,обрати свой взор к мертвенно-белой звезде, что ведёт нас,стань одним из нас, и да содрогнётся земля от нашего марша.\nМы не бросаем тех, кто следует с нами за звездой полярной ночи,кто идёт за нами в царство тьмы, чтобы создать новый мир.\nВсе знают - чтобы создать новый порядок, надо разрушить старый.\nПосле очищения настанет новый безупречный рассвет».",
+    "en": "A pristine bow that is as sharp as the glaciers of the far north.\n\n### Story\n\"I was once a wounded wolf, betrayed by the whole world,\"\n\"But we shall create a new world, one in which no one shall ever be forsaken.\"\n\"Dressed in flawless garments as radiant as the midday,\"\n\"We came to the land of silver snow,\"\n\"And sounded the clarion of Her Majesty's greatness.\"\n\"Oft have we walked in the moonless night.\"\n\"Oft have we trudged through the gilded sands.\"\n\"Oft have we felt piercing enmity in the dark,\"\n\"And oft have we dreamed of lovers in distant hometowns.\"\n\"But the pale flame yet burns in our breasts.\"\n\"O Harbingers, scintillating as polar stars,\"\n\"Guide us ever onward, tireless.\"\n\"If your dreams find no acceptance, if you nurse wounds that will not fade,\"\n\"If you end each day discontent, if you burn with fury against false promises,\"\n\"Lift up your eyes to the white, glimmering stars, for that is our banner.\"\n\"Join our ranks! Let our marching boots shake the earth like thunder!\"\n\"You who will march with us towards the polestar of the white night, come! We shall never abandon you.\"\n\"You who will walk with us into the land of darkness, come! We shall create a new world together.\"\n\"Know that the destruction of all precedes the birth of a new order.\"\n\"At devastation's end, we will greet a stainless dawn.\"",
+    "zh": "如同深冬坚冰一样尖锐的无垢之弓。\n\n### 故事\n「我是曾为整个世界所背叛的带伤之狼，」「我们终将建立谁人都不背弃的新世界。」\n「身着灿如极昼的无垢之衣，」「我等来自白银一般的雪国，」「吹响宣告陛下明威的号角。」\n「我们时常走在无月的黑夜。」\n「时常在镀金的沙漠中跋涉。」\n「时常感到暗处的刺骨敌意，」「时常梦见遥远故乡的爱人。」\n「但我等胸中常燃苍白之火。」\n「煌如极地明星的执行官们，」「指引我等永远不倦向前行。」\n「倘若你也背负着不被容纳的梦、无法消除的伤，」「为白日告终而不甘，为虚伪的许诺而常怀怒火，」「就抬头仰望白磷色的苍星吧，那是我等的旗号；」\n「那就加入我等的行列，让军靴如雷撼动大地吧。」\n「愿随我等走向白夜极星者，我等绝对不会抛弃。」\n「愿随我等走向至暗之地者，一同创造新世界吧。」\n「须知一切的尽毁将是全新秩序的肇始。」\n「在坏灭的终点迎来的将是无垢的黎明。」"
+  },
+  "description": {
+    "ru": "Белоснежный лук, пронзительный, как льды суровой зимы.\n\n### История\n«Я раненый волк, которого предал весь мир.\nЧто ж, мы построим новый мир, где не будет места предательству.\nОблечённые в безупречные одежды полярного дня,мы родом из страны, укрытой серебряным снегом,звук нашего рога возвещает о прибытии Её Величества.\nПорой мы выходим в безлунные ночи.\nПорой мы гуляем по золочёной пустыне.\nПорой ощущаем тайные уколы вражды.\nПорой вспоминаем об оставшихся на родине близких.\nНо всегда в наших сердцах горит бледный огонь.\nО, Предвестники, яркие звёзды полярной земли,направьте нас в бесконечном пути.\nЕсли твои мечты не находят признания, если ты залечиваешь раны, которые никогда не исчезнут,если каждый закат ты яришься от лживых обетов,обрати свой взор к мертвенно-белой звезде, что ведёт нас,стань одним из нас, и да содрогнётся земля от нашего марша.\nМы не бросаем тех, кто следует с нами за звездой полярной ночи,кто идёт за нами в царство тьмы, чтобы создать новый мир.\nВсе знают - чтобы создать новый порядок, надо разрушить старый.\nПосле очищения настанет новый безупречный рассвет».",
+    "en": "A pristine bow that is as sharp as the glaciers of the far north.\n\n### Story\n\"I was once a wounded wolf, betrayed by the whole world,\"\n\"But we shall create a new world, one in which no one shall ever be forsaken.\"\n\"Dressed in flawless garments as radiant as the midday,\"\n\"We came to the land of silver snow,\"\n\"And sounded the clarion of Her Majesty's greatness.\"\n\"Oft have we walked in the moonless night.\"\n\"Oft have we trudged through the gilded sands.\"\n\"Oft have we felt piercing enmity in the dark,\"\n\"And oft have we dreamed of lovers in distant hometowns.\"\n\"But the pale flame yet burns in our breasts.\"\n\"O Harbingers, scintillating as polar stars,\"\n\"Guide us ever onward, tireless.\"\n\"If your dreams find no acceptance, if you nurse wounds that will not fade,\"\n\"If you end each day discontent, if you burn with fury against false promises,\"\n\"Lift up your eyes to the white, glimmering stars, for that is our banner.\"\n\"Join our ranks! Let our marching boots shake the earth like thunder!\"\n\"You who will march with us towards the polestar of the white night, come! We shall never abandon you.\"\n\"You who will walk with us into the land of darkness, come! We shall create a new world together.\"\n\"Know that the destruction of all precedes the birth of a new order.\"\n\"At devastation's end, we will greet a stainless dawn.\"",
+    "zh": "如同深冬坚冰一样尖锐的无垢之弓。\n\n### 故事\n「我是曾为整个世界所背叛的带伤之狼，」「我们终将建立谁人都不背弃的新世界。」\n「身着灿如极昼的无垢之衣，」「我等来自白银一般的雪国，」「吹响宣告陛下明威的号角。」\n「我们时常走在无月的黑夜。」\n「时常在镀金的沙漠中跋涉。」\n「时常感到暗处的刺骨敌意，」「时常梦见遥远故乡的爱人。」\n「但我等胸中常燃苍白之火。」\n「煌如极地明星的执行官们，」「指引我等永远不倦向前行。」\n「倘若你也背负着不被容纳的梦、无法消除的伤，」「为白日告终而不甘，为虚伪的许诺而常怀怒火，」「就抬头仰望白磷色的苍星吧，那是我等的旗号；」\n「那就加入我等的行列，让军靴如雷撼动大地吧。」\n「愿随我等走向白夜极星者，我等绝对不会抛弃。」\n「愿随我等走向至暗之地者，一同创造新世界吧。」\n「须知一切的尽毁将是全新秩序的肇始。」\n「在坏灭的终点迎来的将是无垢的黎明。」"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "weapon_type": "bow",
+  "type": "bow"
+}
