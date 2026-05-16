@@ -7,6 +7,7 @@
 # title_zh: 北境秘史
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.6
 # tags: книги, Фонтейн
 # status: draft
 

@@ -7,6 +7,7 @@
 # title_zh: 霖铃精选诗集
 # region: Ли Юэ
 # volume_count: 1
+# game_version: 1.0
 # tags: книги, Ли Юэ
 # status: draft
 

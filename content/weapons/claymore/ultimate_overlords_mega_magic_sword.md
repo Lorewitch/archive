@@ -1,0 +1,173 @@
+# id: ultimate_overlords_mega_magic_sword
+# category: weapons
+# weapon_type: claymore
+# icon: assets/icons/weapons/claymore/ultimate_overlords_mega_magic_sword.png
+# title_ru: «Магический супермеч высшего владыки»
+# title_en: Ultimate Overlord's Mega Magic Sword
+# title_zh: 究极霸王超级魔剑
+# rarity: 4
+# game_version: 4.3
+# tags: оружие, двуручное
+
+<!--
+ОРУЖИЕ
+weapon_type используй строго один из вариантов:
+sword       — одноручное
+claymore    — двуручное
+polearm     — древковое
+bow         — лук
+catalyst    — катализатор
+-->
+
+## RU
+
+Магический супермеч, который может использовать только высший владыка, покоривший моря и океаны. Он сделан из особого водонепроницаемого материала, потому его можно использовать даже под водой. Выходит, он неуязвимый? Можно сказать и так!
+
+### История
+«Это не какой-то там картонный меч! Это, это вообще-то... Магический супермеч высшего владыки, которым был повержен Король Краб!»
+
+Давным-давно, когда ромарины никто ещё не называл ромаринами, в далёких морях правил великий злобный Король Краб.
+Хоть никто и не знал, почему Краба называют великим и где находятся его земли и подданные, молва о злобном Короле Крабе ходила по всем морям. Быть может, Краб сразу родился королём? Со временем и сам Краб поверил в это и просто принял свой титул.
+Но, как и все облечённые властью (или те, кто таковыми себя называют), его величество жаловался на то, что у короля не может быть друзей (что само по себе является признаком величия). В конце концов, своими острыми клешнями король мог бы легко отпугнуть любых недоброжелателей или даже перерезать тонкую ниточку их жизни. А горы золота в сокровищнице Краба были высотой с гору Мон Атонеки. Он мог бы с лёгкостью скупить все вкуснейшие сладости Фонтейна. А это ли не основные составляющие королевской жизни?
+Но в час, когда его величество заставала скука или печаль, а сладости уже не могли его развеселить, не имея друга рядом, король мог развлечься лишь тем, что стриг своими клешнями водоросли. Ведь, несмотря на своё величие, Краб всё равно оставался крабом (хоть и, конечно, самым непревзойдённым), а потому его способности подстригать водоросли были такими же, как у какого-нибудь заурядного ската.
+Однажды великий злобный Король Краб в полном одиночестве надувал пузыри и вдруг встретил маленькую мелюзину.
+«Ох! Кто посмел вторгнуться во владения короля? Зачем ты здесь?»
+(Хотя Король Краб и метал молнии, в душе он был немного рад и напуган. Обычно морские жители не смели приблизиться к его величеству, поэтому король уже очень давно ни с кем не разговаривал.)
+«Господин Краб, - сказала мелюзина, - вы выглядите немного опечалено. Давайте вместе поиграем? Так вам сразу станет веселее!»
+«Ты не понимаешь...» - начал Краб. Он хотел было отчитать мелюзину за то, что посмела назвать его «господином», а не «его величеством», но не стал. Он лишь сказал: «Королю не подобает играть с маленькой мелюзиной, иначе он потеряет всё своё величие».
+«А что будет, если он его потеряет?»
+«Без своего величия король перестанет быть королём. Даже с самыми большими клешнями и с самым прочным панцирем, я буду всего лишь обычным крабом».
+«Господин Краб, ваши клешни больше меня, у вас больше ног, чем у меня. А ваш панцирь толще, чем стены в моём доме! У вас так много золота, сладостей и всяких других прекрасных вещиц! Вы должны радоваться! Знаете, я думаю, это ваше королевское величие заставляет вас грустить!»
+«Эх, крохотная мелюзина, ты ведь никогда не была королём, поэтому я прощаю тебе твоё невежество. Но тебе следовало бы знать, что король не должен думать о том, счастлив ли он».
+«Но ведь до того, как стать королём, господин Краб всегда и был крабом, верно? Мне самой очень грустно видеть господина Краба таким грустным. Я помогу вам избавиться от королевского величия!»
+«Ха-ха! Маленькая мелюзина совсем ничего не понимает. Какой же король когда-либо отказывался от правления? - сказал краб, размахивая клешнями. - Только если, предположим... Лишь предположим! Какой-нибудь герой одолеет злобного короля своим чудесным мечом, тогда бывший король сможет поиграть с мелюзиной».
+«Ага! Вот, значит, как можно поступить! - радостно сказала мелюзина, но вдруг задумалась и продолжила понуро. - Но я ведь не знаю, где найти героя и его чудесный меч...»
+«Ах, это не имеет значения! Любой, кто победит злобного короля, будет храбрецом, а любое его оружие будет чудесным мечом, - нетерпеливо сказал король. - Понимаешь, что я имею в виду, мелюзина?»
+
+«...вот, что сказал господин Краб. Мы должны ему помочь!» - пересказала мелюзина всю историю другим мелюзинам в деревне Меруси. Все мелюзины согласились помочь Крабу. Они вооружили маленькую мелюзину щитом из ракушки, сделали ей венок из водорослей и мантию из парусины, что нашли на обломках корабля Элинаса. А из редкого высушенного куска картона сделали для неё чудесный меч.
+Так мелюзина отправилась в путь, чтобы победить злобного Короля Краба своим волшебным мечом. Поверженный Краб потерял свой королевский титул и стал просто господином Крабом, другом мелюзин...
+
+Посовещавшись, мелюзины решили, что это величайший меч во всей деревне Меруси. Он так ярко сиял в тенях прошлого, что должен быть преподнесён непобедимому герою в знак дружбы с мелюзинами.
+
+## EN
+
+A magical sword that can only be wielded by the ultimate overlord who rules the seas. As it has been made with special water-resistant materials, it will not get ruined by water damage even after being immersed. Why, one might even call it invincible!
+
+### Story
+"... Uh, what? A cheap cardboard claymore? No, no, no, this is... Well, it's... the Ultimate Overlord's Mega Magic Sword, once used to triumph over the Crab Emperor!"
+
+A long, long time ago, before Romaritime Flowers came to have that name, in distant seas dwelt the great Crab Demon Emperor.
+
+Now, no one truly knows what made this crab great, nor do any know where this emperor ruled or where its subjects were, but since all attested to it, so did the mighty name of the Demon Emperor spread throughout the seas. Perhaps one might put this down to natural nobility? It was with this thought that the Crab Demon Emperor would slowly come to accept the truth that all gave it a wide berth.
+
+Just as the high-and-mighty (or perhaps that was simply how they thought of themselves) humans, this great eminence would often lament that its position precluded having friends (although this might itself might also indicate high-and-mightiness). After all, those clicking crab claws could easily scare those who antagonized you, and cut the threads of fate for those who insisted on doing so. And the hoard of gold coin that the emperor owned, that stood as high as Mont Automnequi, could buy it all the delicious cookies in Fontaine — and that was a life fit for a ruler, was it not?
+
+But without good friends to play with it, at once driven to boredom and sadness — which no amount of cookies could cure — the great eminence had to resort to using those great claws to trim seagrass. And alas, the crab emperor was still a crab, and though he might do all things better than crabs, his skill at trimming seagrass was no better than that of an ordinary stingray!
+
+One day, while the mighty Crab Demon Emperor was blowing bubbles, alone and forlorn, he bumped into a little Melusine...
+
+"Ah, ah, ah! Who dares step into my demonic domain? Why have you come?"
+
+(Though the Crab Emperor was erupting in flame, he was in truth a little happy, and also afraid. When other sea beings saw him, they would flee on account of his majesty, and so the Emperor had not spoken to anyone for a long, long time.)
+
+"Mr. Crab," the little Melusine said, "you don't seem very happy. Let's play together. That'll cheer you up!"
+
+"You do not understand," the Crab Emperor began, and though he wished to take the Melusine to task on account of her trespass in calling him "Mr." instead of "Your Majesty," he instead finished, "an overlord cannot play with little Melusines, or he shall lose his kingly majesty."
+
+"And what would happen if he loses it?"
+
+"An overlord without majesty is no overlord at all. Were it not for my claws being larger and my armor thicker than that of other crabs, I am ordinary, just like them."
+
+"Well, Mr. Crab, your claws are bigger than me, and you have more legs than I do. Your armor is thicker than the walls of my house, and other than gold coins and little cookies, you've got so many other nice things. You should be very happy! Hmm, I know. It must be your kingly majesty that makes you unhappy."
+
+"Little Melusine, you have never been a king, and so I forgive your ignorance. Know that an emperor should not care for his own happiness."
+
+"But before you were king, you must've been a crab, right, Mr. Crab? Oh, your unhappiness makes me unhappy too! Tell you what — I'll help you give up your kingly majesty!"
+
+"Hah! Little Melusine, you speak of things far beyond your ken. When in history has an emperor given up their rule?" The Emperor waved his claws in a rage. "Unless... For example, and just as an example, a hero should defeat the demon lord using their holy blade... That way, even a former overlord must be content playing with the little Melusines."
+
+"Oh, so that's how it works!" The Melusine exclaimed happily, before then falling into thought, and saying, crestfallen, "But I don't know where to find a hero, or where a holy blade might be..."
+
+"Oh, don't you worry! So long as they can defeat the demon lord, anyone can be a hero, and any weapon can be a holy sword," the Emperor said hurriedly. "Mwahahaha! Now do you understand, you impertinent Melusine?"
+
+"'...
+And that's what Mr. Crab told me. Please, everyone, lend me your strength!'" She said. And all the Melusines in Merusea Village thought that indeed, they should help her! And so they arrayed her with a great seashell for a shield, crowned her with a seagrass laurel, and canvas from a wrecked ship within Elynas they brought for her cloak. At last, they armed her with a rare piece of dried cardboard — her treasured sword.
+
+Thus did the Melusine heroine embark on a journey to defeat the Crab Demon Emperor, and with her peerless magical blade did she cast the marauding tyrant down. And from then on, Mr. Crab, now longer a demon lord, would become the Melusines' good friend...
+
+After some discussion, the Melusines reached a consensus. This, the mightiest sword in Merusea Village, that had shone so illustriously in the shadowed mists of the past, should be given to an unparalleled hero, as a memorial to their friendship.
+
+## ZH
+
+统治海原的究极霸王才能使用的超级魔剑。因为使用了特殊的防水材料，就算浸在水中也不会泡坏，几乎能称得上是无敌！
+
+### 故事
+「…
+才不是什么便宜纸板大剑呢！
+那个、这个…
+呃…
+这可是过去曾经战胜螃蟹大帝的…
+究极霸王超级魔剑！」
+很久很久以前，就连海露花都还没有被称作海露花的时候，在遥远的大海中，住着一位伟大的螃蟹魔王大帝。
+虽然谁也不知道为什么螃蟹会很伟大，也不知大帝统管的国土和臣民在哪，但既然大家都这样说，魔王的威名也就传遍了整个海原。
+也许这就是天生的高贵吧？
+横行的螃蟹魔王大帝这样想着，慢慢接受了大家对自己敬而远之的事实。
+就像是高高在上（或者自认为高高在上）的人类那样，伟大的陛下也叹息道，只恨身为帝王，帝王何来的朋友呢（这其中多少也有点高高在上的意思）。
+毕竟，那对咔嚓咔嚓的锋利蟹钳可以轻而易举吓跑所有看不惯自己的家伙，剪断更坚定的家伙的命运之丝。
+而大帝宝库中堆得和秋分山一样高的金币可以轻而易举买下全枫丹所有美味的小甜饼——这就是符合王者身份的生活吧！
+对吧？
+只不过，没有好朋友能和自己一起玩耍，到了无聊或者伤心的时候——就是再多小甜饼也不能让他开心起来的时候——陛下也只能用那无比巨大的蟹钳去修剪水草。
+当然。
+螃蟹陛下再怎么说也是螃蟹，所以虽然他比所有的螃蟹都厉害，但修剪水草的能力也就跟一般的鳐鱼差不多吧！
+有一天，伟大的螃蟹魔王正咕嘟咕嘟地吐着孤独的气泡，碰巧遇到了一位小小的美露莘…
+「嗷嗷！
+竟然有胆量闯入魔王的宫廷，你是为何而来？」
+（虽然螃蟹大帝轰隆隆地喷着火，但其实有点开心，又有点害怕。
+因为海原上的朋友们只要见到他，就会因为帝王的威仪悄悄躲开。
+所以大帝已经很久没有跟谁说过话了。）
+「螃蟹先生，」小小的美露莘说，「你看上去好像有些不开心耶。
+我们一起玩吧，这样就会开心起来啦！」
+「你并不明白，」螃蟹大帝原本想要追究美露莘称他为「先生」而不是「陛下」的僭越，但最终还是没有说出口，而是说：「霸王是不能和小小的美露莘一起玩耍的，否则就会失去王者的威仪。」
+「如果失去了王者的威仪，会怎么样呢？」
+「要是失去了威仪，霸王就不再是霸王，除了钳子比别的螃蟹更大，盔甲更厚，我就只是普通的螃蟹了。」
+「螃蟹先生的钳子比我还大，脚比我还多，盔甲比我家的墙壁还厚。
+除了金币和小甜饼，螃蟹先生有这么多的好东西，应该很开心才对！
+我知道了，一定是王者的威仪让螃蟹先生不开心的。」
+「小小的美露莘，你不曾身为王者，所以我原谅你的无知。
+你要知道，帝王不应关心自己是否开心。」
+「但是，螃蟹先生在身为王者之前，应该也是螃蟹呀！
+看到螃蟹先生不开心，我也不开心。
+我要帮助螃蟹先生，放弃王者的威仪！」
+「嗷嗷！
+小小的美露莘，不知天高地厚。
+古往今来，哪里会有帝王主动放弃自己的统治呢！」
+陛下愤怒地挥舞着钳子，「除非…
+比方说，只是比方说，勇者用圣剑打败了魔王…
+这样一来，原本的霸王也就只能和小小的美露莘一起玩啦。」
+「喔！
+还能这样呀！」
+美露莘高兴地叫道，但又想起了什么，失落地说，「但是，我不知道勇者在什么地方，圣剑在什么地方…」
+「哎，这种事情根本没所谓！
+只要打倒魔王，那任何人都是勇者，任何武器都是圣剑。」
+大帝急切地说。
+「嗷嗷！
+不知天高地厚的美露莘，你明白了吗？」
+「『…
+螃蟹先生是这么说的。
+请大家帮帮我！』」
+她这样说道。
+海沫村的美露莘们都觉得，要帮帮她才行！
+她们找来大贝壳给她当作盾牌，用水草替代月桂编成头冠，拿厄里那斯内部破碎的船帆做成披风，最后用难得干燥的纸板做成了宝剑。
+就这样，勇者美露莘踏上了打败螃蟹魔王的征程，凭借究极无敌的魔剑，打败了横行霸道的蟹皇陛下，不再是担任魔王陛下的螃蟹先生从此也就成为了美露莘们的好朋友…
+经过短暂的商议，各位美露莘一致决定，将这柄曾经在过去的映影中大放异彩的，海沫村最强大的剑送给究极无敌的勇者，作为友谊的纪念。
+## NOTES
+
+### Общие заметки Лороведьмы
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

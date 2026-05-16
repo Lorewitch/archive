@@ -7,6 +7,7 @@
 # title_zh: 蒲公英海的狐狸
 # region: Мондштадт
 # volume_count: 11
+# game_version: 1.1
 # tags: книги, Мондштадт
 # status: draft
 

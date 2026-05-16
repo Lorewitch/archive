@@ -7,6 +7,7 @@
 # title_zh: 古老的考察日志·其之一
 # region: Мондштадт
 # volume_count: 3
+# game_version: 1.2
 # tags: книги, Мондштадт
 # status: draft
 

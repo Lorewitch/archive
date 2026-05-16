@@ -7,6 +7,7 @@
 # title_zh: 昆图尔的故事
 # region: Натлан
 # volume_count: 1
+# game_version: 5.2
 # tags: Натлан, Кунтур
 
 

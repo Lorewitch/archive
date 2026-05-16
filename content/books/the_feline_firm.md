@@ -7,6 +7,7 @@
 # title_zh: 猫咪事务所
 # region: Фонтейн
 # volume_count: 8
+# game_version: 4.7
 # tags: книги, Фонтейн
 # status: draft
 

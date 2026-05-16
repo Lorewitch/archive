@@ -6,6 +6,7 @@
 # title_en: Absolution
 # title_zh: 赦罪
 # rarity: 5
+# game_version: 4.7
 # tags: Клоринда
 
 <!--

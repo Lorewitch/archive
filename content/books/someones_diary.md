@@ -7,6 +7,7 @@
 # title_zh: 谁人的日志
 # region: Ли Юэ
 # volume_count: 6
+# game_version: 2.0
 # tags: книги, Ли Юэ
 # status: draft
 

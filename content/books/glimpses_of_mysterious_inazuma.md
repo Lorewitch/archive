@@ -7,6 +7,7 @@
 # title_zh: 稻妻秘见录
 # region: Инадзума
 # volume_count: 2
+# game_version: 5.4
 # tags: книги, Инадзума
 # status: draft
 

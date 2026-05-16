@@ -7,6 +7,7 @@
 # title_zh: 希鲁伊与希琳的故事
 # region: Сумеру
 # volume_count: 2
+# game_version: 3.0
 # tags: книги, Сумеру
 # status: draft
 

@@ -7,6 +7,7 @@
 # title_zh: 褪色古堡的崩塌
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.2
 # tags: книги, Фонтейн
 # status: draft
 

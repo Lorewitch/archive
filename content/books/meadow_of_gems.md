@@ -7,6 +7,7 @@
 # title_zh: 珠玑宝矿
 # region: Ли Юэ
 # volume_count: 1
+# game_version: 1.2
 # tags: книги, Ли Юэ
 # status: draft
 

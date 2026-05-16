@@ -7,6 +7,7 @@
 # title_zh: 《交涉的艺术》
 # region: Фонтейн
 # volume_count: 1
+# game_version: 4.1
 # tags: книги, Фонтейн
 # status: draft
 

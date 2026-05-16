@@ -7,6 +7,7 @@
 # title_zh: 璃月风土志
 # region: Ли Юэ
 # volume_count: 3
+# game_version: 1.2
 # tags: книги, Ли Юэ
 # status: draft
 

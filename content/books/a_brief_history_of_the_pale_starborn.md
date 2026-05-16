@@ -7,6 +7,7 @@
 # title_zh: 苍星妖灵史略
 # region: Нод-Край
 # volume_count: 1
+# game_version: 6.3
 # tags: книги, Снежная
 # status: draft
 

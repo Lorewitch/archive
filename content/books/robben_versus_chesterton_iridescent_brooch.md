@@ -7,6 +7,7 @@
 # title_zh: 怪盗与名侦探：虹彩胸针之谜
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.0
 # tags: книги, Фонтейн
 # status: draft
 

@@ -7,6 +7,7 @@
 # title_zh: 边乡夜语·鬣兽
 # region: Нод-Край
 # volume_count: 1
+# game_version: 6.3
 # tags: книги, Нод-Край
 # status: draft
 

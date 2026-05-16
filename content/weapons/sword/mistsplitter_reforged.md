@@ -6,6 +6,7 @@
 # title_en: Mistsplitter Reforged
 # title_zh: 雾切之回光
 # rarity: 5
+# game_version: 2.0
 # tags: Аяка
 
 <!--

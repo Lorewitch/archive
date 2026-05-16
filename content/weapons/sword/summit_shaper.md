@@ -6,6 +6,7 @@
 # title_en: Summit Shaper
 # title_zh: 斫峰之刃
 # rarity: 5
+# game_version: 1.2
 # tags:
 
 <!--

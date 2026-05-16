@@ -6,6 +6,7 @@
 # title_en: Aquila Favonia
 # title_zh: 风鹰剑
 # rarity: 5
+# game_version: 1.0
 # tags: 
 
 <!--

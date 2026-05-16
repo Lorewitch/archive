@@ -7,6 +7,7 @@
 # title_zh: 两个铳枪手
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.3
 # tags: книги, Фонтейн
 # status: draft
 

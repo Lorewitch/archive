@@ -1,0 +1,100 @@
+# id: blackcliff_warbow
+# category: weapons
+# weapon_type: bow
+# icon: assets/icons/weapons/bow/blackcliff_warbow.png
+# title_ru: Черногорский боевой лук
+# title_en: Blackcliff Warbow
+# title_zh: 黑岩战弓
+# rarity: 4
+# game_version: 1.0
+# tags: оружие, лук
+
+<!--
+ОРУЖИЕ
+weapon_type используй строго один из вариантов:
+sword       — одноручное
+claymore    — двуручное
+polearm     — древковое
+bow         — лук
+catalyst    — катализатор
+-->
+
+## RU
+
+Весьма крепкий лук из чёрного камня. Только лучники с сильными руками смогут им воспользоваться.
+
+### История
+Длинный лук, изготовленный из редкого чёрного камня. Звук натягивающейся тетивы похож на свист ветра - последнего ветра для любой цели в пределах ста метров.
+Чёрная рукоять лука контрастирует с его кроваво-красными плечами, она холодна на ощупь, но не угрожающая. Выпущенная из этого лука стрела взмывает в небо, словно метеорит, бросивший вызов грому и ветрам.
+Дом Юнь, обосновавшийся в Ли Юэ, давно имеет статус семьи первоклассных мастеров-ремесленников. Во времена появления этого лука седьмой глава дома Юнь по имени Хуэй был известным членом группировки Цисин.
+У Юнь Хуэя был только один ребёнок - дочь по имени Хуан. Согласно семейной традиции, её будущий муж должен будет стать новым главой дома Юнь.
+Воспитанная боевыми искусствами Хуан отказалась от этой традиции и вместо этого взяла на себя роль обычной дочери, разжигая этим бесконечные сплетни среди обычных людей.
+Но в трудные времена Юнь Хуан брала на себя бразды правления домом.
+Весь континент был встревожен. Даже самые высокие вершины и самые глубокие пещеры рухнули в симфонию низких рыков.
+Щедрость земли под ними стала почти недоступной, что угрожало положить конец наследию их ремесла.
+Одной бессонной ночью Юнь Хуан мучили опасения, что она останется последним членом дома Юнь.
+Мучаясь от охватившей её скорби, она ничего не могла поделать, кроме как взывать к небесам и молиться о небесном вмешательстве в её отчаянное положение.
+Именно тогда Хань Цэ, который давно оставил свой семейный бизнес и бродил в одиночестве по континенту, прибыл в деревню в одежде ремесленника.
+Он отдал Хуан маленькую деревянную коробочку с диаграммами «прототипа», который его отец совершенствовал в свои последние годы жизни. Затем он взял в руки лук и сказал:«Проблемы начались в Черногорье, Черногорье их и решит. Говорят, что дом Юнь очень ценит стрельбу из лука. Испытайте этот лук, если вам когда-либо будет угодно».
+Хуан выпустила стрелу в небо. Она пронеслась среди облаков, словно разгневанный раскат грома, а звук отпущенной тетивы разнёсся по окружающим горам и лесам.
+Наблюдая за облаками, проносящимися под луной, она знала, что её молитвы были услышаны.
+
+## EN
+
+A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.
+
+### Story
+A longbow made from rare blackcliff. Drawing the bow invokes a sound like the wind — a premonition of the final breeze for any target within 100 yards.
+With a jet-black body contrasted by blood-red ends, it's cold to the touch without being intimidating. A shot from this bow takes to the skies like a meteor, challenging both wind and thunder.
+The house of Yun has long since established itself in Liyue as a family of craftsmen. At the time of this bow's inception, the seventh head of the house, Hui, was well-renowned as a member of the Qixing.
+Yun Hui had but one child, a daughter, by the name of Huang. As per familial custom, should she marry, her husband would take over as head of house.
+Having been raised an unyielding martial artist, Huang refused to take this path, and instead took over as the daughter she was, inciting endless gossip amongst the people.
+But Yun Huang took control at a hard time.
+The continent was troubled. Even the loftiest of peaks and deepest of caves collapsed to a symphony of low roars.
+The bounty of the earth beneath them became almost unreachable, threatening to bring an end to the legacy of their craft.
+One night Yun Huang lay awake unable to sleep, tortured by her worries that her family's name would end with her.
+Amidst the sorrow that enveloped her, she could do naught but call upon the heavens and pray for celestial intervention in her desperate situation.
+It was then that Han Ce, who had long since abandoned his family business and wandered the continent, arrived in the village in his craftsman's attire.
+He handed Huang a small wooden box, within which were the prototype plans his father had revised in his later years. He also took out a bow and said:
+"As the issue arose from Blackcliff, so too shall it end by Blackcliff. It is said that the house of Yun appreciates archery. Should it please you, give this bow a try."
+Huang fired an arrow into the sky. It roared across the heavens like angry thunder, as the sound of the bowstring being released reverberated throughout the mountains.
+As she watched the clouds flow beneath the moon, she knew that her prayer had been answered.
+
+## ZH
+
+以黑岩塑成的弓。弓臂坚硬无比，只有膂力绝人的弓手才能尽心所欲地使用。
+
+### 故事
+由十分罕见的黑岩制成的长弓。
+引弓听风，能百步穿杨。
+弓身中段漆黑，两端血红，触手寒而不阴。
+张弓射箭，箭如流星入天，足以追风逐雷。
+璃月云氏是历史悠久的锻造世家。
+彼时的第七代家主辉更是七星之一，极富名望。
+云辉仅有一个女儿，名凰。
+依家族的惯例，云凰成婚后将由夫婿入赘接任大掌柜。
+自幼习武、个性刚强的凰并无此意，坚持以女儿身接手家业，一时引来流言无数。
+但云凰就任正值难时。
+彼时的大地并不平静。
+山岳与洞窟在低声的轰鸣嘶叫中，坍塌挪移。
+深埋地下的宝石金属难以开采，锻炼兵器、传承手艺之事难以为继。
+是夜。
+云凰辗转难眠，恐怕云家百年有余的锻兵传承要她手中断绝。
+愁绪万千中，她只得对天祈祷，盼望神仙能巧施妙法解她燃眉之急。
+过去放弃家业云游天下的寒氏之策，此时却身着匠人装束入庄寻访。
+他取出一方木匣交予，是其父晚年依照「试作」修订的新图谱。
+又取长弓一挺，说：「此事因黑岩而起，还希望以黑岩做结。
+听闻云掌柜喜爱射箭，如不嫌弃还请一试」凰朝天放箭。
+飞矢如逆行欃枪奔空怒雷，而留弦之音则久久回荡在山林之中。
+远眺月下流云，她只觉转机已到…
+## NOTES
+
+### Общие заметки Лороведьмы
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

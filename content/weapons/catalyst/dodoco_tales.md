@@ -1,0 +1,96 @@
+# id: dodoco_tales
+# category: weapons
+# weapon_type: catalyst
+# icon: assets/icons/weapons/catalyst/dodoco_tales.png
+# title_ru: Истории Додоко
+# title_en: Dodoco Tales
+# title_zh: 嘟嘟可故事集
+# rarity: 4
+# game_version: 1.6
+# tags: оружие, катализатор
+
+<!--
+ОРУЖИЕ
+weapon_type используй строго один из вариантов:
+sword       — одноручное
+claymore    — двуручное
+polearm     — древковое
+bow         — лук
+catalyst    — катализатор
+-->
+
+## RU
+
+Книга, состоящая из увлекательных детских историй, которые невольно вызывают улыбку на лице.
+Даже взрослые читатели не могут не погрузиться с головой в рассказанные здесь невинные и наивные маленькие приключения.
+
+### История
+Легенда гласит, что где-то далеко-далеко посреди туманного моря есть группа островов под названием архипелаг Золотого Яблока.
+Говорят, этот архипелаг является домом для очаровательного додоклана, живущего в гармонии с миром.
+Представители додоклана - добрые и озорные существа. Они любят резвиться и разыгрывать друг друга. Никто из них никогда не скучает и не грустит.«Додоко!» - называют они друг друга, что означает «лучший друг».
+Подобно семенам одуванчика, которые однажды покидают объятия своего стебля и улетают по ветру, каждый Додоко однажды отправляется в мир приключений на поиски четырёхлистного клевера, уносимый ветром и волнами.
+Почему они это делают?
+Прожив долгое время на архипелаге Золотого Яблока, Додоко перестают узнавать друг друга. Они все Додоко, и они все выглядят одинаково! Для них перестают существовать такие понятия, как «я» или «ты».
+Но только огненно-красный четырёхлистный клевер может позволить им узнать, что на самом деле означает «Додоко», и начать различать друг друга. Тогда они смогут свободно играть со своими друзьями.
+Так говорит моя мама, а она может всё!
+Поэтому, чтобы понять, что такое настоящий «Додоко», они оставляют своих друзей и отправляются в далёкие края, чтобы найти новых друзей и стать их «Додоко».
+Им предстоит увидеть много хорошего, услышать много интересного, встретить много друзей... И однажды, когда их друзья будут смотреть на них, в тот самый момент, когда этого никто не ожидает, появится огненно-красный сверкающий четырёхлистный клевер!
+Поэтому, когда пушистый Додоко с архипелага Золотого Яблока катится в море или прыгает в поток ветра и уносится далеко-далеко, это значит, что счастливый ребёнок вот-вот встретит своего самого лучшего друга!
+Эта маленькая драгоценная книга была подарена самой свободной мамой на свете своей самой счастливой дочери на свете. В ней рассказывается о бесчисленных приключениях Додоко до того, как он встретил маленькую девочку, а также об искромётных, бесценных, больших приключениях со множеством друзей, которые он надеялся пережить вместе с ней после их встречи!
+
+## EN
+
+A children's book filled with childish short stories at which one cannot help but laugh.
+Even those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.
+
+### Story
+Legend has it that there is a group of islands somewhere far away in the middle of a foggy sea, and this place is called the Golden Apple Archipelago.
+They say that the cute and peace-loving Dodo Clan lives together on the many islands, and they have no troubles with the rest of the world.
+The Dodo Clan are kind and playful creatures, and they love to tease each other and play with each other, and none of them ever get bored or sad.
+"Dodoco!" they all call each other, and that means "the best of friends!"
+
+But just as dandelion seeds will one day leave the embrace of their stalk and go with the wind, every Dodoco will one day ride the wind and the waves, and travel to the wider world on an adventure, searching for a four-leaf clover.
+Why must they do this?
+It's because, having lived for a long time on the Golden Apple Archipelago, the Dodocos can no longer recognize each other. They're all "Dodocos," and they all look the same, after all! So there's no "you" or "me" for them at all!
+But only the red, blazing four-leaf clover can let them know the true meaning of "Dodoco" and tell each other apart, thus allowing them to play freely with all their friends!
+...
+At least, that's what my mom says, and she can do just about aaaanything!
+So, in order to understand what makes a true "Dodoco," they leave their good friends and go to faraway places to make new good friends and become their "Dodoco," too!
+They'll see all kinds of nice things, hear all kinds of interesting stuff, meet lots of friends... and one day, when their friends are looking at them, at a time when no one expects it — that's when the blazing, sparkling four-leaf clover will appear!
+
+And that's why when a furry Dodoco from the Golden Apple Archipelago tumbles into the sea or leaps into the wind before drifting far, far away, that means that a lucky child is about to meet their bestest friend ever!
+This small, precious book was given by the freest mother in the world to the luckiest daughter in the world. It chronicles the countless adventures that Dodoco had before meeting her, and the adventures that she and Dodoco have had since — bigger and better adventures filled with sparks, splashes, treasures, and lots of friends!
+
+## ZH
+
+一本封面华丽的童书，内容皆是童言无忌的短小故事，读之令人忍俊不禁。
+即使业已成年的读者，读到书中天真无邪的冒险故事，也会忍不住神往吧。
+
+### 故事
+传说中，有这么一片遥远的迷雾之海，海的中央有一座群岛，名叫「金苹果群岛」。
+传说中，平和可爱的嘟嘟一族就在这座群岛的诸多岛屿上，共同过着与世无争的生活。
+嘟嘟一族是善良而顽皮的生物，最喜欢互相捉弄，彼此玩耍，从来也不会有谁会无聊或伤心。
+「嘟嘟可！」
+它们都这样互相称呼，意思就是「最好的朋友！」
+就像蒲公英的种子总会离开茎叶的怀抱随风飘扬，每一个「嘟嘟可」总有一天也会乘着风与海流，去往更广阔的世界冒险，寻找一株四叶草。
+为什么要这样做呢？
+这是因为，在「金苹果群岛」生活久了，嘟嘟可便会认不出彼此——大家全都是一模一样的「嘟嘟可」了，还怎么会有「你」与「我」嘛！
+只有火红的四叶草，才能让它们知道，何谓真正的「嘟嘟可」，从而互相分辨你我，自由自在地同伙伴们玩耍。
+——至少，无所不能的妈妈是这样说的。
+于是，为了理解什么才是「嘟嘟可」，它们便会离开眼前的好朋友，去往遥远的地方，结交好朋友，成为他们的「嘟嘟可」，「最好的朋友！」
+一起去看更多的景色，实验更多有趣的想法，结识更多伙伴…
+最后，当它们在伙伴的目光中回望自己时，在某个谁也没法料到的时刻——那株四叶草便随着闪耀的火花转转登场啦！
+所以呀，当一个毛茸茸的「嘟嘟可」从「金苹果群岛」滚落海中，或者一下子跃入风中，纷纷扬扬地向远方而去时，便将会有一个幸运的孩子与最好的朋友相聚。
+这本珍贵的小书，由全世界最自由的妈妈送给全世界最幸运的女儿，记录了嘟嘟可与她相遇之前所经历的无数冒险；
+还有与她相识之后所期许的，充满了火花、宝物与伙伴的，更大的冒险！
+## NOTES
+
+### Общие заметки Лороведьмы
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

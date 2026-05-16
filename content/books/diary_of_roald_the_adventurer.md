@@ -7,6 +7,7 @@
 # title_zh: 冒险家罗尔德的日志
 # region: Мондштадт
 # volume_count: 11
+# game_version: 2.2
 # tags: книги
 # status: draft
 

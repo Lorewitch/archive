@@ -6,6 +6,7 @@
 # title_en: Light of Foliar Incision
 # title_zh: 裁叶萃光
 # rarity: 5
+# game_version: 3.4
 # tags: Аль-Хайтам, Хайтам
 
 <!--

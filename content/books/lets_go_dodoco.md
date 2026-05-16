@@ -7,6 +7,7 @@
 # title_zh: 出发吧！嘟嘟可
 # region: Мондштадт
 # volume_count: 1
+# game_version: 2.6
 # tags: книги, Мондштадт, Инадзума
 # status: draft
 

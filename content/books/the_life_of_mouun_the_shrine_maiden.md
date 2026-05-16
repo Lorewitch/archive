@@ -7,6 +7,7 @@
 # title_zh: 巫女曚云小传
 # region: Инадзума
 # volume_count: 1
+# game_version: 2.2
 # tags: книги, Инадзума
 # status: draft
 

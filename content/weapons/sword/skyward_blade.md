@@ -6,6 +6,7 @@
 # title_en: Skyward Blade
 # title_zh: 天空之刃
 # rarity: 5
+# game_version: 1.0
 # tags:
 
 <!--

@@ -7,6 +7,7 @@
 # title_zh: 天衡绝倒集
 # region: Ли Юэ
 # volume_count: 1
+# game_version: 1.0
 # tags: книги, Ли Юэ
 # status: draft
 

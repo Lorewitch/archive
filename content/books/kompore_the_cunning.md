@@ -7,6 +7,7 @@
 # title_zh: 狡诈的康波雷
 # region: Натлан
 # volume_count: 3
+# game_version: 5.5
 # tags: книги, Натлан
 # status: draft
 

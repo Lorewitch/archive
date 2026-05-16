@@ -7,6 +7,7 @@
 # title_zh: 石素人
 # region: Натлан
 # volume_count: 3
+# game_version: 5.4
 # tags: книги, Натлан
 # status: draft
 

@@ -16,6 +16,7 @@
 # icon: assets/icons/items/development_materials/teachings_of_moonlight.webp
 
 # region: Нод-Край
+# game_version: 6.0
 ---
 
 # material_1_id: teachings_of_moonlight

@@ -7,6 +7,7 @@
 # title_zh: 亡国的美奈姬
 # region: Инадзума
 # volume_count: 6
+# game_version: 2.1
 # tags: книги, Инадзума
 # status: draft
 

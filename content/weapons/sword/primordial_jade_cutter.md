@@ -6,6 +6,7 @@
 # title_en: Primordial Jade Cutter
 # title_zh: 磐岩结绿
 # rarity: 5
+# game_version: 1.3
 # tags:
 
 <!--

@@ -6,6 +6,7 @@
 # title_en: Haran Geppaku Futsu
 # title_zh: 波乱月白经津
 # rarity: 5
+# game_version: 2.6
 # tags: Аято
 
 <!--

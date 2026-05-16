@@ -7,6 +7,7 @@
 # title_zh: 丘丘语诗歌试作
 # region: Мондштадт
 # volume_count: 3
+# game_version: 1.0
 # tags: книги, Мондштадт
 # status: draft
 

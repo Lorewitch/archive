@@ -7,6 +7,7 @@
 # title_zh: 浮槃歌卷
 # region: Сумеру
 # volume_count: 3
+# game_version: 3.0
 # tags: книги, Сумеру
 # status: draft
 

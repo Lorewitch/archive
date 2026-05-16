@@ -7,6 +7,7 @@
 # title_zh: 「东王」史辩
 # region: Инадзума
 # volume_count: 1
+# game_version: 2.2
 # tags: книги, Инадзума
 # status: draft
 

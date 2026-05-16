@@ -7,6 +7,7 @@
 # title_zh: 终北祷歌集
 # region: Нод-Край
 # volume_count: 3
+# game_version: 6.0
 # tags: книги, Нод-Край, Гиперборея
 # status: draft
 

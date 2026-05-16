@@ -6,6 +6,7 @@
 # title_en: Splendor of Tranquil Waters
 # title_zh: 静水流涌之辉
 # rarity: 5
+# game_version: 4.2
 # tags: Фурина
 
 <!--

@@ -6,6 +6,7 @@
 # title_en: Freedom-Sworn
 # title_zh: 苍古自由之誓
 # rarity: 5
+# game_version: 1.6
 # tags: Кадзуха
 
 <!--

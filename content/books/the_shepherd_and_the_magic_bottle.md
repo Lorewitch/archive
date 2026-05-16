@@ -7,6 +7,7 @@
 # title_zh: 牧童与魔瓶的故事
 # region: Сумеру
 # volume_count: 1
+# game_version: 3.0
 # tags: книги, Сумеру
 # status: draft
 

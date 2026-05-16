@@ -7,6 +7,7 @@
 # title_zh: 千夜故事集
 # region: Сумеру
 # volume_count: 6
+# game_version: 3.4
 # tags: книги, Сумеру
 # status: draft
 

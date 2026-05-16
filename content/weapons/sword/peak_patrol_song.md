@@ -6,6 +6,7 @@
 # title_en: Peak Patrol Song
 # title_zh: 岩峰巡歌
 # rarity: 5
+# game_version: 5.1
 # tags: Шилонен
 
 <!--

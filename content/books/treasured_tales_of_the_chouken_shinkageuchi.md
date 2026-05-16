@@ -7,6 +7,7 @@
 # title_zh: 珍说澄研真影打
 # region: Инадзума
 # volume_count: 1
+# game_version: 2.2
 # tags: книги, Инадзума
 # status: draft
 

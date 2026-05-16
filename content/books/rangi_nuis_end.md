@@ -7,6 +7,7 @@
 # title_zh: 兰吉努伊之底
 # region: Натлан
 # volume_count: 1
+# game_version: 5.5
 # tags: книги, Натлан
 # status: draft
 

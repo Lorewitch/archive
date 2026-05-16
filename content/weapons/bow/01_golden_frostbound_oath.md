@@ -6,6 +6,7 @@
 # title_en: Dawn's Salutation Returned
 # title_zh: 与君致意的黎明
 # rarity: 5
+# game_version: 6.5
 # tags: лук, линнея, аркадия
 
 <!--

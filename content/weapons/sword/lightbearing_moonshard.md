@@ -6,6 +6,7 @@
 # title_en: Lightbearing Moonshard
 # title_zh: 朏魄含光
 # rarity: 5
+# game_version: 6.3
 # tags: белая лошадь, Цзы Бай
 
 <!--

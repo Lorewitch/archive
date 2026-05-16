@@ -7,6 +7,7 @@
 # title_zh: 沉秋拾剑录
 # region: Ли Юэ
 # volume_count: 6
+# game_version: 2.6
 # tags: книги, Ли Юэ
 # status: draft
 

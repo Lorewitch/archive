@@ -7,6 +7,7 @@
 # title_zh: 雪翅雁童话集
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.2
 # tags: книги
 # status: draft
 

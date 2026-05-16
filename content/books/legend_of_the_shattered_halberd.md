@@ -7,6 +7,7 @@
 # title_zh: 神霄折戟录
 # region: Ли Юэ
 # volume_count: 6
+# game_version: 1.0
 # tags: книги, Ли Юэ
 # status: draft
 

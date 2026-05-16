@@ -1,6 +1,7 @@
 # id: hilichurl_masks
 # category: items
 # item_group: common_enemies
+# game_version: 1.0
 # entry_type: enemy_drops
 
 # tags: Маски хиличурлов, обычные противники

@@ -7,6 +7,7 @@
 # title_zh: 菲谢尔皇女夜谭
 # region: Мондштадт
 # volume_count: 1
+# game_version: 2.1
 # tags: книги, Мондштадт
 # status: draft
 

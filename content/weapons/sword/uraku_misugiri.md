@@ -6,6 +6,7 @@
 # title_en: Uraku Misugiri
 # title_zh: 有乐御簾切
 # rarity: 5
+# game_version: 4.5
 # tags: Тиори
 
 <!--

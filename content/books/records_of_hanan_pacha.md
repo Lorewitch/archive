@@ -7,6 +7,7 @@
 # title_zh: 哈南帕查记事
 # region: Натлан
 # volume_count: 3
+# game_version: 5.0
 # tags: книги, Натлан
 # status: draft
 

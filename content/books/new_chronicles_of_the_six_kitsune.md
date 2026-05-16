@@ -7,6 +7,7 @@
 # title_zh: 新六狐传
 # region: Инадзума
 # volume_count: 6
+# game_version: 2.1
 # tags: книги, Инадзума
 # status: draft
 

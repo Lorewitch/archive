@@ -6,6 +6,7 @@
 # title_en: Athame Artis
 # title_zh: 黑蚀
 # rarity: 5
+# game_version: 6.2
 # tags: Дурин
 
 <!--

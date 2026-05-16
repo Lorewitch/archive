@@ -7,6 +7,7 @@
 # title_zh: 拜托了我的狐仙宫司
 # region: Инадзума
 # volume_count: 1
+# game_version: 2.6
 # tags: книги, Инадзума
 # status: draft
 

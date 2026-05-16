@@ -7,6 +7,7 @@
 # title_zh: 伊黎耶之歌
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.2
 # tags: книги, Фонтейн
 # status: draft
 

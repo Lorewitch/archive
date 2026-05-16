@@ -7,6 +7,7 @@
 # title_zh: 丘丘人习俗考察
 # region: Мондштадт
 # volume_count: 4
+# game_version: 1.0
 # tags: книги, Мондштадт
 # status: draft
 

@@ -9,6 +9,7 @@
 # title_en: Heretic of the False Moon
 # title_zh: 赝月的异端者
 # region: Нод-Край
+# game_version: 6.3
 
 # icon: assets/icons/enemies/01_heretic_of_the_false_moon.webp
 

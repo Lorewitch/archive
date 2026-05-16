@@ -7,6 +7,7 @@
 # title_zh: 旅时者
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.4
 # tags: книги, Фонтейн
 # status: draft
 

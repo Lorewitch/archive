@@ -7,6 +7,7 @@
 # title_zh: 勇敢的特奎
 # region: Натлан
 # volume_count: 2
+# game_version: 5.1
 # tags: книги, Натлан
 # status: draft
 

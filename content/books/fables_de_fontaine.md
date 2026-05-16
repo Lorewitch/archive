@@ -7,6 +7,7 @@
 # title_zh: 枫丹动物寓言集
 # region: Фонтейн
 # volume_count: 3
+# game_version: 4.0
 # tags: книги, Фонтейн
 # status: draft
 

@@ -7,6 +7,7 @@
 # title_zh: 嘟嘟可轰轰奇遇记
 # region: Мондштадт
 # volume_count: 1
+# game_version: 4.1
 # tags: книги, Мондштадт, Инадзума
 # status: draft
 

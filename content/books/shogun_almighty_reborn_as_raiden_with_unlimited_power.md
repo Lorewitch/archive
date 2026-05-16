@@ -7,6 +7,7 @@
 # title_zh: 转生成为雷电将军，然后天下无敌
 # region: Инадзума
 # volume_count: 1
+# game_version: 2.6
 # tags: книги, Инадзума
 # status: draft
 

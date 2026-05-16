@@ -7,6 +7,7 @@
 # title_zh: 风、勇气和翅膀
 # region: Мондштадт
 # volume_count: 1
+# game_version: 1.0
 # tags: книги, Мондштадт
 # status: draft
 

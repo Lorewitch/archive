@@ -7,6 +7,7 @@
 # title_zh: 护法仙众夜叉录
 # region: Ли Юэ
 # volume_count: 1
+# game_version: 1.3
 # tags: книги, Ли Юэ
 # status: draft
 

@@ -6,6 +6,7 @@
 # title_en: Key of Khaj-Nisut
 # title_zh: 圣显之钥
 # rarity: 5
+# game_version: 3.1
 # tags: Нилу
 
 <!--

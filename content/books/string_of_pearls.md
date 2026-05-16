@@ -7,6 +7,7 @@
 # title_zh: 连心珠
 # region: Ли Юэ
 # volume_count: 5
+# game_version: 1.5
 # tags: книги, Ли Юэ
 # status: draft
 

@@ -9,6 +9,7 @@
 # title_en: Radiant Moongecko
 # title_zh: 蕴光月守宫
 # region: Нод-Край
+# game_version: 6.4
 
 # icon: assets/icons/enemies/radiant_moongecko.webp
 

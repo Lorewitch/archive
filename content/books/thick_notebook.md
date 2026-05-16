@@ -7,6 +7,7 @@
 # title_zh: 厚厚的笔记
 # region: Мондштадт
 # volume_count: 1
+# game_version: 1.0
 # tags: книги, Мондштадт
 # status: draft
 

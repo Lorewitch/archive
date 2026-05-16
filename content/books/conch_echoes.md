@@ -7,6 +7,7 @@
 # title_zh: 海螺的回响
 # region: Нод-Край
 # volume_count: 2
+# game_version: 6.0
 # tags: книги
 # status: draft
 

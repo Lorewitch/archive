@@ -7,6 +7,7 @@
 # title_zh: 秋暮之火
 # region: Натлан
 # volume_count: 3
+# game_version: 5.2
 # tags: книги, Натлан
 # status: draft
 

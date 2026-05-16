@@ -7,6 +7,7 @@
 # title_zh: 鬼武道
 # region: Инадзума
 # volume_count: 1
+# game_version: 2.1
 # tags: книги, Инадзума
 # status: draft
 

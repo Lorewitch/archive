@@ -6,6 +6,7 @@
 # title_en: Azurelight
 # title_zh: 苍耀
 # rarity: 5
+# game_version: 5.7
 # tags: Скирк, ангел, Койтар
 
 <!--

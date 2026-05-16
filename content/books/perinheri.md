@@ -7,6 +7,7 @@
 # title_zh: 裴伦埃里
 # region: Фонтейн
 # volume_count: 2
+# game_version: 4.5
 # tags: книги, Каэнри'ах
 # status: draft
 

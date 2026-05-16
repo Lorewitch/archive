@@ -7,6 +7,7 @@
 # title_zh: 珊瑚宫记
 # region: Инадзума
 # volume_count: 1
+# game_version: 2.0
 # tags: книги, Инадзума
 # status: draft
 

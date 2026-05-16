@@ -7,6 +7,7 @@
 # title_zh: 岩神传说：炉灶之神
 # region: Ли Юэ
 # volume_count: 4
+# game_version: 1.0
 # tags: книги, Ли Юэ
 # status: draft
 

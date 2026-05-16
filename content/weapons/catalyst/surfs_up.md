@@ -1,0 +1,129 @@
+# id: surfs_up
+# category: weapons
+# weapon_type: catalyst
+# icon: assets/icons/weapons/catalyst/surfs_up.png
+# title_ru: Лови волну
+# title_en: Surf's Up
+# title_zh: 冲浪时光
+# rarity: 5
+# game_version: 5.0
+# tags: оружие, катализатор
+
+<!--
+ОРУЖИЕ
+weapon_type используй строго один из вариантов:
+sword       — одноручное
+claymore    — двуручное
+polearm     — древковое
+bow         — лук
+catalyst    — катализатор
+-->
+
+## RU
+
+Сувенир, который должен был стать наградой чемпиону Первого состязания по сёрфингу среди племён. Поскольку состязание всё ещё находится на стадии подготовки, он временно хранится у владельца магазина «Досужий иглобрюх».
+
+### История
+Это часть истории о противостоянии племён Натлана и Повелителя вулканов.
+
+Все уже, должно быть, поняли, что представлял собой ненавистный Повелитель вулканов. Это был огромный чёрно-фиолетовый монстр с телом саламандры. Он воспользовался отсутствием древних драконов и тайком занял опустевший Великий вулкан Толлан, который был благословением Натлана. Монстр причинил много зла и принёс немало горя людям из разных племён. К счастью, чёрного Повелителя вулканов наконец-то прогнали из Натлана, и нынешним детям больше не нужно бояться его злодеяний.
+Сегодня мы расскажем историю о том, как прежний Пиро Архонт Кочанина изгнала хитрого Повелителя вулканов из земель Народа Родников.
+
+В тот день Повелитель вулканов лежал в вулкане, разглядывая своё чёрное тело, как вдруг ему в голову пришла очередная мерзкая идея.
+«На дне вулкана так темно, как не бывает самой тёмной безлунной ночью. Я даже себя как следует не вижу.
+Говорят, у Народа Родников, что живут на юге, самые чистые источники во всём Натлане. А если отнести туда всю грязь и копоть со дна вулкана? Тогда здесь станет светлее и чище! А мнение жалких людишек никого не волнует!»
+Великий Повелитель вулканов безумно обрадовался своей идее. По его приказу вулкан изверг густой дым, и Повелитель прибыл к землям Народа Родников, укрытый дымной завесой. Не обращая внимания на протесты местных жителей, Повелитель сбросил в родниковую воду всю грязь и копоть со дна вулкана. И по всему племени разошёлся такой смрад, что даже птицы течений не выдержали и улетели прочь.
+Стерпеть подобное было нельзя! Старейшины племени поспешно разыскали Пиро Архонта Кочанину и рассказали о случившемся ей.
+Кочанина тяжело вздохнула, ведь это была далеко не первая пакость Повелителя вулканов на землях Натлана. Однако он был слишком несговорчив. Предыдущие Пиро Архонты много раз устраивали ему взбучку, вот только это не помогало: Повелитель отлёживался на дне тёмного вулкана, а затем вновь брался за старое. И тогда Кочанина придумала способ изгнать монстра с этих земель раз и навсегда. Она не стала брать с собой знаменитый Клинок Уну Пачакути, а взяла лишь доску для сёрфинга.
+Когда Кочанина добралась до Повелителя вулканов, тот беззаботно лежал в почерневшем источнике и расслаблено покачивал своим упитанным животом.
+«О великий Повелитель вулканов, разве могут источники, в которых купаются ничтожные людишки, очистить твои драгоценности? Только древнее сокровище Народа Родников, оставленное великим героем Унуку, достойно тебя. Я говорю о Радужной чаше, из которой бьёт бесконечная радуга».
+«Что? - глаза Повелителя вулканов тут же загорелись. Перед ним стояла ничтожная женщина из племени, но её предложение и смиренный вид говорили о том, что она может быть полезна. - Чего же мы ждём? Радужная чаша должна принадлежать мне, веди меня скорей!»
+«О великий Повелитель вулканов, но сокровище спрятано не на земле, а в водных глубинах. Как жаль, что тебе неподвластно бороздить волны на доске, а мы, жалкие людишки, не сможем построить достаточно большой корабль, который вместит твоё величественное тело...»
+«Что?! Да как ты смеешь меня недооценивать! - сердито ответил монстр. Как и ожидалось: стоило человеку заявить, что он чего-то не может, как Повелитель тут же возжелал доказать обратное. - Веди меня! Кто сказал, что я не смогу покорить какие-то жалкие волны?!»
+И тогда Кочанина повела Повелителя вулканов к самому глубокому месту. Неуклюжему монстру было далеко до чемпионки по сёрфингу среди всех племён. Он мог разве что следовать за ней, уворачиваясь от брызг из-под её доски. Заметив, что у монстра кружится голова, Кочанина запустила вдаль дрейфующую рыбку и громко закричала:
+«Смотри! Сокровище там! А это ключ от него!»
+Из-за плеска волн монстр не разглядел, что именно она выбросила, но разве Повелитель вулканов мог признать, что он в чём-то уступает другим? Поэтому, издав воинственный рык, он помчался к «сокровищу», но дрейфующая рыбка больно его уколола, и Повелитель вулканов свалился с доски прямо в воду.
+Даже гигантский Повелитель вулканов оказался лишь мелкой песчинкой в сравнении с бескрайней водой. Водой, скрывающей куда более опасных существ, чем он сам. Он униженно плескался посреди волн, пока не зацепился за тростник и не доплыл до берега. И пусть Кочанине так и не удалось навсегда изгнать его из Натлана, но с тех пор у Повелителя вулканов даже мысли не возникало связываться с Народом Родников.
+
+## EN
+
+A commemorative item originally reserved for the champion of the "First All-Tribe Surfing Championship." Since said tournament is currently in the preparatory stage, the prize is in temporary storage at the Leisurely Puffer, with the shop owner as its custodian.
+
+### Story
+This is one part of the story of the Volcano Lord's struggle with Natlan's tribes.
+
+Everyone should already know all about the vile Volcano Lord. A huge, hulking monster, with a body like a salamander with black and purple body, it took advantage of the other great ancient dragons' absence to sneak in and occupy the empty Great Volcano of Tollan, and began to run roughshod over the people, committing all manner of abuses and outrages, its crimes beyond count, and the various tribes suffered greatly. Fortunately, the black Volcano Lord was completely driven out of Natlan in the end, so kids these days don't need to worry about him getting up to his antics anymore!
+What we will speak of today is how the ancient Pyro Archon Cochanina cleverly kicked the Volcano Lord out of the lands of the People of the Springs.
+
+On that day, the Volcano Lord was lying in his volcano, admiring his own pitch-black body, and scratching his head, when boom! He thought up another outrageously evil idea.
+"Bleh, it's just so dark down here under the volcano — even darker than a moonless night! Why, I can't even see my own body."
+"I hear those 'People of the Springs' down south have the cleanest, purest water in all of Natlan! If I can throw all the dark, filthy things down here over there and give 'em a good washing, maybe we can clean this place up nice and good! As for those insignificant little tribespeople... Eh, who gives a hoot what they think?"
+As the great Volcano Lord thought this, he couldn't help but be immeasurably self-satisfied and rejoice at the idea of getting nice and clean. And so he made the volcano belch out thick smoke, giving him shadows in which to hide, and came among the People of the Springs. Completely and utterly indifferent to the protests of the people and their attempts to stop him, he dumped all his filthy black things — absolutely everything, even the kitchen sink — into the springs. This royally fouled up the air of the entire tribe itself, so that even the Flowcurrent Birds couldn't take it anymore and winged it right outta there one by one.
+It couldn't go on like that any longer! So the elder of the tribe hauled tail to find Cochanina, who was Pyro Archon, and told her what had gone down.
+Cochanina gave a big sigh. This wasn't the first time the Volcano Lord had stirred up serious trouble in Natlan. But alas, the Volcano Lord was just too tough a customer. Though he'd been defeated many times by previous Pyro Archons, he'd always manage to slip away by some fluke, hiding down at the pitch-black bottom of the volcano for a time, before eventually emerging once more. So, Cochanina thought of a plan to drive the Volcano Lord from those lands once and for all. She didn't bring her trusted weapon — the renowned Unu Pachacuti blade — but brought only a surfboard.
+When Cochanina arrived before the Volcano Lord, he happened to be leisurely soaking in a hot spring that had already been stained black, jiggling his big round fat belly in circles, looking totally chilled out.
+"Ah, great Volcano Lord! How can the springs these pathetic little humans use for bathing be enough to wash your precious treasures? Only the ancient, secret treasure left behind by the great hero Uenuku and passed down among the 'People of the Springs,' the 'Iridescent Chalice' from which infinite rainbows spill forth, is worthy of your noble self."
+"Oh?" The Volcano Lord's interest was instantly piqued. Though the woman in front of him was nothing more than a worthless, inconsequential tribesperson, but her suggestion and humble attitude meant she might be of use. "In that case, why are you still standing there instead of taking my illustrious self to retrieve that which is rightfully mine?"
+"Ah, great Volcano Lord, there is something of which you may not be aware. That treasure is not on land, but is hidden in the depths of the sea. Alas, you don't know how to surf, and we are but puny humans, and cannot make a boat that could accommodate your glorious, majestic form..."
+"Hmph! You better not underestimate me!" The Volcano Lord replied in a huff. He was always like this. Whenever one of those inferior little peons said he couldn't do something, he'd always make a show of insisting he could do it. "Lead the way! It's just surfing, after all, how could it possibly be hard for one as magnificent as I?"
+And just like that, Cochanina led the Volcano Lord right out towards the deep sea. The clumsy Volcano Lord simply could not compete with the tribe's surfing champion, and could only follow along in her wake, eating the spray her board kicked up. Seeing that he was already dizzy, Cochanina tossed out a Drifting Pufferfish way off into the distance and shouted loudly:
+"Look! The treasure's right over there! This is the key to opening it!"
+The splish-splashing waves made it difficult for the Volcano Lord to see just what she'd thrown, but he was the mighty Volcano Lord, so how could he ever admit he was inferior to humans in any way? And so he charged after the "treasure" with a roar, only to end up getting struck right and good by the drifting pufferfish, and was in so much pain he fell right off his surfboard into the sea.
+Even the massive body of the Volcano Lord is but a grain of sand compared to the vastness of the sea, and moreover, there are more terrifying things lurking beneath the waves than he. Anyway, the Volcano Lord struggled sorrily in the sea for a good long while before finally latching onto some reeds, and drifted for a long, long time before he made it back to shore. Though Cochanina didn't manage to get him out of Natlan entirely, the Volcano Lord never again dared to mess with the People of the Springs.
+
+## ZH
+
+原本预订发放给「第一届全部族冲浪竞速锦标赛」冠军的纪念品。鉴于赛事目前尚处于筹备阶段，奖品便被临时寄存在了「悠游豚豚」内，由店主代为保管。
+
+### 故事
+这是火山大王与纳塔各个部族的人们争斗故事的一部分。
+关于可恶的火山大王，大家应该都已经很清楚了。
+那是一只黑色与紫色相间的、身子如同蝾螈一样的巨大怪物，它趁着那些古老的巨龙们不在，偷偷占据了空荡荡的图兰大火山，在纳塔的土地上作威作福，干了数不清的坏事，让各个部族的人们苦不堪言。
+幸好，黑漆漆的火山大王最后被彻底赶出了纳塔，现在的孩子们再也不用担心它会动什么坏念头啦。
+我们今天要讲的，就是从前的火神柯夏尼娜大人如何将狡猾的火山大王赶出「流泉之众」的故事。
+这一天，火山大王躺在火山里，看着自己黑漆漆的身躯，一拍脑袋，又想出了一个可恶的坏主意。
+「唉，火山下面实在是太黑了，比没有月光的深邃夜晚还要黑，就连我自己都看不到我自己的身子。」
+「听说南边的『流泉之众』有全纳塔最清澈的泉水，要是我能把火山下面这些黑漆漆的脏东西全都丢到那里洗上一遍，说不定就能让这地方变得一干二净啦！
+至于那些小小的部族人，谁在乎他们怎么想呢？」
+伟大的火山大王这样想着，不由为变得干净的想法而沾沾自喜。
+于是它令火山喷出了浓烟，自己则藏在浓烟的影子里，一路来到了「流泉之众」的部族里。
+丝毫不顾及大家的阻拦，火山大王一股脑将那些黑漆漆的东西全都倒进了泉水里，搞得整个部族乌烟瘴气，连浮流鸟也没有办法忍受下去，纷纷拍着翅膀飞走了。
+这样下去可不行！于是部族的长老急急忙忙地找到了当时的火神柯夏尼娜大人，向她汇报了事情的缘由。
+柯夏尼娜大人叹了口气，这已经不是火山大王第一次在纳塔的大地上胡作非为了。
+只可惜，火山大王太过难缠，虽然被之前的历任火神打败过好多次，但每次都能侥幸逃脱，在黑黢黢的火山底蛰伏上一段时间，之后再卷土重来。
+于是，柯夏尼娜大人想了一个办法，要将火山大王一劳永逸地赶出这片土地。
+她没有携带自己的兵器——那赫赫有名的乌努·帕查库提之刃——而是只带上了一块冲浪板。
+柯夏尼娜大人来到火山大王面前的时候，它正优哉游哉地躺在已经被染得漆黑的温泉里，晃悠着它圆鼓鼓的肚皮，显得一副很舒服的样子。
+「唉，伟大的火山大王呀，这些卑微的小人们泡的温泉，怎么能洗净您那些珍贵的宝物呢？
+只有『流泉之众』自古传承的秘宝，大英雄乌努库留下的、能够涌出无尽彩虹的『虹之杯』，才足以配得上您的高贵。」
+「哦？」
+火山大王一下子起了兴致。
+虽然面前的女人不过是个小小的部族人，但她的提议和谦卑的态度倒是让它很是受用。
+「既然如此，还不快带本王去取那理应属于本王的秘宝？」
+「唉，伟大的火山大王呀，您有所不知，那秘宝不在地上，而是被藏到了大海深处。只可惜，您不会冲浪，我们只是小小的人，也没法造出能容纳您伟岸身躯的大船…」
+「哼！
+可不要小瞧本王了！」
+火山大王气呼呼地回答。
+它向来都是这样，只要那些小小的部族人说自己做不到什么事，它就一定要逞强说自己做得到。
+「带路吧！
+不过是冲浪而已，对本王而言难道是什么难事？」
+就这样，柯夏尼娜大人引着火山大王一路冲向了深海。
+笨重的火山大王又如何比得上部族的冲浪冠军，只能跟在她的冲浪板之后，因为她掀起的浪花呛了好几口水。
+见它已经变得头晕眼花，柯夏尼娜大人向着远处抛出了一只漂漂豚豚，大声喊道：
+「看呀，秘宝就在那边！这就是开启秘宝的钥匙！」
+哗啦啦的浪花让火山大王看不清她抛出去的到底是什么东西，但它可是伟大的火山大王，怎么可能承认自己有技不如人之处呢？
+于是它嗷呜一声扑向了那所谓的「秘宝」，结果被漂漂豚豚的刺扎了个结结实实，痛得火山大王从自己的冲浪板上摔了下来，掉进了海里。
+就算是身材庞大的火山大王，与浩瀚的大海比起来，也不过像是一粒小小的砂子，更何况大海里还有更多比它还要可怕得多的东西呢。
+总之，火山大王在海里狼狈地扑腾了半天，最后好不容易才抓住一根芦苇，漂了好久好久才漂回岸边。
+虽然柯夏尼娜大人还是没能彻底把它赶出纳塔，但从那以后，火山大王就再也不敢打「流泉之众」的主意了。
+## NOTES
+
+### Общие заметки Лороведьмы
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

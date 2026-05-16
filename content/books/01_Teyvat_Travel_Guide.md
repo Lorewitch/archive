@@ -7,6 +7,7 @@
 # title_zh: 提瓦特游览指南
 # region: Мондштадт, Ли Юэ, Инадзума
 # volume_count: 3
+# game_version: 2.6
 # tags: книги, Мондштадт, Ли Юэ, Инадзума, путеводитель
 # status: draft
 

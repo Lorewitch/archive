@@ -7,6 +7,7 @@
 # title_zh: 山与海之书
 # region: Мондштадт
 # volume_count: 2
+# game_version: 1.1
 # tags: книги, Мондштадт
 # status: draft
 

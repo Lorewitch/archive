@@ -7,6 +7,7 @@
 # title_zh: 《召唤王》
 # region: Сумеру
 # volume_count: 1
+# game_version: 3.7
 # tags: книги, Сумеру
 # status: draft
 

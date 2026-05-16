@@ -7,6 +7,7 @@
 # title_zh: 白夜国馆藏
 # region: Инадзума
 # volume_count: 5
+# game_version: 2.4
 # tags: книги, Инадзума, Энканомия
 # status: draft
 

@@ -7,6 +7,7 @@
 # title_zh: 浮浪记
 # region: Ли Юэ
 # volume_count: 3
+# game_version: 1.0
 # tags: книги, Ли Юэ
 # status: draft
 

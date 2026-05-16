@@ -7,6 +7,7 @@
 # title_zh: 野猪公主
 # region: Мондштадт
 # volume_count: 7
+# game_version: 1.2
 # tags: книги, Мондштадт
 # status: draft
 

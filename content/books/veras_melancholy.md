@@ -7,6 +7,7 @@
 # title_zh: 少女薇拉的忧郁
 # region: Мондштадт
 # volume_count: 12
+# game_version: 6.5
 # tags: книги
 # status: draft
 

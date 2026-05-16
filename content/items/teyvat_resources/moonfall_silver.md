@@ -14,6 +14,7 @@
 # title_en: Moonfall Silver
 # title_zh: 月落银
 # region: Нод-Край
+# game_version: 6.0
 
 # icon: assets/icons/items/teyvat_resources/moonfall_silver.webp
 

@@ -7,6 +7,7 @@
 # title_zh: 火山大王与缝影针
 # region: Натлан
 # volume_count: 1
+# game_version: 5.0
 # tags: книги, Натлан
 # status: draft
 

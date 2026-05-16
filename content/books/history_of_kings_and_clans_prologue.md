@@ -7,6 +7,7 @@
 # title_zh: 列王与宗室史·序
 # region: Мондштадт
 # volume_count: 1
+# game_version: 1.0
 # tags: книги, Мондштадт
 # status: draft
 

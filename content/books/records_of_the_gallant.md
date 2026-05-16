@@ -7,6 +7,7 @@
 # title_zh: 侠客记
 # region: Ли Юэ
 # volume_count: 2
+# game_version: 1.5
 # tags: книги, Ли Юэ
 # status: draft
 

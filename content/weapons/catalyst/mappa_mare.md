@@ -1,0 +1,80 @@
+# id: mappa_mare
+# category: weapons
+# weapon_type: catalyst
+# icon: assets/icons/weapons/catalyst/mappa_mare.png
+# title_ru: Морской атлас
+# title_en: Mappa Mare
+# title_zh: 万国诸海图谱
+# rarity: 4
+# game_version: 1.0
+# tags: оружие, катализатор
+
+<!--
+ОРУЖИЕ
+weapon_type используй строго один из вариантов:
+sword       — одноручное
+claymore    — двуручное
+polearm     — древковое
+bow         — лук
+catalyst    — катализатор
+-->
+
+## RU
+
+Привезённая иностранными торговцами в Ли Юэ карта морских течений и ветров.
+
+### История
+Люди со всего света стекаются в гавань Ли Юэ, и это - гордость торгового порта.
+С волнами приезжих в город также стекаются и экзотические товары.
+На этой карте подробно показаны моря, окружающие континент. Здесь отмечены все подводные течения, скрытые рифы и направления ветров.
+Говорят, что этот фолиант содержит знания, отвагу и веру первооткрывателей. Титульный лист гласит:«Любите морской ветер и подводные течения, ибо именно они приводят мореплавателей к цели!»«Бойтесь морского ветра и подводных течений, ибо именно они разносят корабли в щепки...»Коли желаешь стихию морскую успокоить, познай каждый её скрытый риф, каждое дуновение ветра, каждое место, которое кит назвал бы домом.
+Эти слова появляются на пожелтевших страницах мореходных журналов. Они подобны стихам поэта, страстно увлеченного описанием тела возлюбленной.
+В далёких странах моряки относятся к океану как к любовнице. Они используют местоимения женского рода, обращаясь к толщам холодной солёной воды.
+Возможно, это связано с переменчивым характером моря. А может, идея уплыть в неизвестность представляется морякам особенно романтичной. Эта карта, как и океан, не имеет владельца. Её сердце - это моряк, полный романтических мечтаний, готовый исследовать каждый уголок мира.
+
+## EN
+
+A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.
+
+### Story
+The whole world flocks to the commercial port of Liyue, much to the city's pride.
+With the tides of people also come exotic treasures.
+This map, detailing the various seas surrounding the continent, is complete with undercurrents, hidden reefs, and wind directions.
+It is said to be an exotic tome containing the knowledge, courage, and faith of pioneering explorers.
+
+The title page of this book reads as follows:
+"Love ye the sea breeze and the ocean currents, for it is the wind and water that carry the seafaring ones to their destination."
+"Fear ye all the more that same sea breeze and those same ocean currents, for unbridled wind and water can tear apart even an iron vessel."
+
+To woo the ocean and calm her temper, one must explore her every hidden reef, every prevailing wind, and every place which whales make their home.
+These words appear in the yellowing pages of countless seafarers' notebooks, like an ode of infatuation with their lover's body.
+
+In foreign lands, seasoned sailors refer to the ocean as their lover, and use female pronouns to address the cold, saline waters.
+Perhaps they do so because of the ocean's temperamentality, or its vast bosom. Or perhaps it is because they are drawn to the romance of sailing away on an adventure.
+Like the ocean, this chart answers to no master. Like the seafarers, it harbors the romantic dream of exploring every corner of the world.
+
+## ZH
+
+详尽记载了大陆周边海流气候的海图，是从异国经由商路流落到璃月的奇异典籍。
+
+### 故事
+天下都向璃月来，这是伟大商港的荣誉。
+异国的珍宝也顺着人潮海流来到璃月港。
+详叙大陆周边海域的图谱，事无巨细标上各水域的海流、暗礁与风向等。
+据说是异国的典籍，蕴含着一切勇于开拓的探索者的知识、勇气与信仰。
+这本书的扉页写着这样的文字：「要热爱海风，要热爱洋流，因为是风与水将操船者送往目的地」「更要敬畏海风，要敬畏洋流，因为无羁的风与水也能撕碎钢铁」为了掌握海的脾性，探索她的每一处暗礁、每一缕信风，每一个鲸鱼相聚的海域。
+无数的跑船者将这一切记录在发黄的纸页上，仿佛沉醉于描绘恋人的肌肤与发丝。
+在异国，老练的海员会将海洋视为恋人，也用「她」这样的代词称呼咸涩的水体。
+或许是因为大海的喜怒无常和宽广胸怀，或许是因为他们仍记得踏上旅途的浪漫。
+而这本图册如大海一般没有主人，也如水手一般怀着梦想与浪漫，去往世界各地。
+## NOTES
+
+### Общие заметки Лороведьмы
+
+## INTERNAL
+
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# public_credit: Оригинальный игровой текст: Genshin Impact
+# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.
