@@ -5,7 +5,8 @@
 # title_en: Aubade of Morningstar and Moon
 # title_zh: 晨星与月的晓歌
 # region: Нод-Край
-# rarity: 5
+# rarity: 5, 4
+# game_version: 6.3
 # tags: артефакты, Нод-Край, пример
 
 <!--
