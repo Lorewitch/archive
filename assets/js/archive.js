@@ -496,13 +496,13 @@ const state = {
   itemMaterial: "",
   itemReadAll: false,
   filters: {
-    books: { query: "", filter: "all", sort: "asc", page: 1, pageSize: 10, typeFilters: ["book_series", "notes"] },
-    artifacts: { query: "", filter: "all", sort: "asc", page: 1, pageSize: 10 },
-    weapons: { query: "", filter: "all", sort: "asc", page: 1, pageSize: 10, typeFilters: ["5", "4", "3", "2", "1"] },
+    books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["book_series", "notes"] },
+    artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
+    weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["5", "4", "3", "2", "1"] },
     items: {
       query: "",
       filter: "all",
-      sort: "asc",
+      sort: "version",
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
@@ -1059,6 +1059,8 @@ function fallbackSearchableText(item) {
     titleOf(item, "en"),
     titleOf(item, "zh"),
     item.region,
+    item.game_version,
+    item.release_version,
     item.type,
     item.subtype,
     item.book_type,
@@ -1091,6 +1093,29 @@ function searchableText(item) {
   return prepared ? prepared.toLocaleLowerCase("ru-RU") : fallbackSearchableText(item);
 }
 
+function gameVersionSortValue(value) {
+  const text = String(value ?? "").trim().replace(",", ".");
+  if (!text) return -1;
+
+  const parts = text.match(/\d+/g);
+  if (!parts?.length) return -1;
+
+  const major = Number(parts[0] || 0);
+  const minor = Number(parts[1] || 0);
+  const patch = Number(parts[2] || 0);
+
+  return major * 1000000 + minor * 1000 + patch;
+}
+
+function compareByTitle(a, b) {
+  return collator.compare(titleOf(a, "ru"), titleOf(b, "ru"));
+}
+
+function compareByGameVersionDesc(a, b) {
+  const versionResult = gameVersionSortValue(b.game_version) - gameVersionSortValue(a.game_version);
+  return versionResult || compareByTitle(a, b);
+}
+
 function filteredEntries(config) {
   const filterState = state.filters[config.id];
   const query = filterState.query.trim().toLocaleLowerCase("ru-RU");
@@ -1101,12 +1126,13 @@ function filteredEntries(config) {
     return queryOk && filterOk;
   });
 
-  if (!isCommonEnemyCatalog(config)) {
-    rows.sort((a, b) => {
-      const result = collator.compare(titleOf(a, "ru"), titleOf(b, "ru"));
+  rows.sort((a, b) => {
+    if (filterState.sort === "asc" || filterState.sort === "desc") {
+      const result = compareByTitle(a, b);
       return filterState.sort === "asc" ? result : -result;
-    });
-  }
+    }
+    return compareByGameVersionDesc(a, b);
+  });
 
   return rows;
 }
