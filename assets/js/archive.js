@@ -721,6 +721,23 @@ function labelFromOptions(value, options) {
   return options.find(([key]) => key === value)?.[1] || "";
 }
 
+function normalizedGameVersion(value) {
+  const text = String(value ?? "").trim().replace(",", ".");
+  if (!text) return "";
+
+  const lower = text.toLowerCase();
+  if (["unknown", "неизвестно", "none", "null", "-", "—"].includes(lower)) return "";
+
+  const version = text.match(/\d+(?:\.\d+){0,2}/)?.[0] || "";
+  return version || text;
+}
+
+function renderGameVersionBadge(item) {
+  const version = normalizedGameVersion(item?.game_version || item?.release_version);
+  if (!version) return "";
+  return `<span class="game-version-badge" title="Версия игры ${escapeHtml(version)}">v${escapeHtml(version)}</span>`;
+}
+
 function bookTypeValue(item) {
   return item?.subtype || item?.book_type || "book_series";
 }
@@ -738,6 +755,7 @@ function renderTitleCell(item) {
   const zh = titleOf(item, "zh");
   const subtitles = [en, zh].filter(Boolean).join(" · ");
   const icon = iconFor(item);
+  const versionBadge = renderGameVersionBadge(item);
   const iconMarkup = icon
     ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
@@ -746,7 +764,7 @@ function renderTitleCell(item) {
     <div class="entry-title-cell">
       ${iconMarkup}
       <div class="entry-title-text">
-        <div class="book-title">${escapeHtml(titleOf(item, "ru"))}</div>
+        <div class="book-title"><span class="book-title-label">${escapeHtml(titleOf(item, "ru"))}</span>${versionBadge}</div>
         <div class="book-subtitle">${escapeHtml(subtitles)}</div>
         ${materialsPreview}
       </div>
@@ -762,15 +780,17 @@ function renderCommonEnemyMaterialsCell(item) {
   const materials = Array.isArray(item?.materials) ? item.materials : [];
   if (!materials.length) return "—";
 
+  const versionBadge = renderGameVersionBadge(item);
+
   return `
     <div class="catalog-material-plain-list">
-      ${materials.map(material => {
+      ${materials.map((material, index) => {
         const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="38" height="38">` : "";
         return `
           <div class="catalog-material-plain-item">
             ${icon}
             <span class="catalog-material-plain-text">
-              <span class="catalog-material-plain-ru">${escapeHtml(materialTitle(material, "ru"))}</span>
+              <span class="catalog-material-plain-ru"><span class="catalog-material-title-label">${escapeHtml(materialTitle(material, "ru"))}</span>${index === 0 ? versionBadge : ""}</span>
               <span class="catalog-material-plain-sub">${escapeHtml([materialTitle(material, "en"), materialTitle(material, "zh")].filter(Boolean).join(" · "))}</span>
             </span>
           </div>
