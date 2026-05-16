@@ -1,7 +1,7 @@
 # id: whiteblind
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/whiteblind.png
+# icon: assets/icons/weapons/claymore/whiteblind.webp
 # title_ru: Белая тень
 # title_en: Whiteblind
 # title_zh: 白影剑

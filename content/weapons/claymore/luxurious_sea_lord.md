@@ -1,7 +1,7 @@
 # id: luxurious_sea_lord
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/luxurious_sea_lord.png
+# icon: assets/icons/weapons/claymore/luxurious_sea_lord.webp
 # title_ru: Благодатный владыка вод
 # title_en: Luxurious Sea-Lord
 # title_zh: 衔珠海皇

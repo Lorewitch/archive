@@ -1,7 +1,7 @@
 # id: memory_of_dust
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/memory_of_dust.png
+# icon: assets/icons/weapons/catalyst/memory_of_dust.webp
 # title_ru: Память о пыли
 # title_en: Memory of Dust
 # title_zh: 尘世之锁

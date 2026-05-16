@@ -1,7 +1,7 @@
 # id: prospectors_shovel
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/prospectors_shovel.png
+# icon: assets/icons/weapons/polearm/prospectors_shovel.webp
 # title_ru: Лопата старателя
 # title_en: Prospector's Shovel
 # title_zh: 掘金之锹

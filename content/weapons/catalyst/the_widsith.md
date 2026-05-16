@@ -1,7 +1,7 @@
 # id: the_widsith
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/the_widsith.png
+# icon: assets/icons/weapons/catalyst/the_widsith.webp
 # title_ru: Песнь странника
 # title_en: The Widsith
 # title_zh: 流浪乐章

@@ -1,7 +1,7 @@
 # id: gest_of_the_mighty_wolf
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/gest_of_the_mighty_wolf.png
+# icon: assets/icons/weapons/claymore/gest_of_the_mighty_wolf.webp
 # title_ru: Подвиг могучего волка
 # title_en: Gest of the Mighty Wolf
 # title_zh: 狼的武功歌

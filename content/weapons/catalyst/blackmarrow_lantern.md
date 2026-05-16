@@ -1,7 +1,7 @@
 # id: blackmarrow_lantern
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/blackmarrow_lantern.png
+# icon: assets/icons/weapons/catalyst/blackmarrow_lantern.webp
 # title_ru: Фонарь чёрной сердцевины
 # title_en: Blackmarrow Lantern
 # title_zh: 乌髓孑灯

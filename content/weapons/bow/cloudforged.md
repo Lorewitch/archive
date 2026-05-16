@@ -1,7 +1,7 @@
 # id: cloudforged
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/cloudforged.png
+# icon: assets/icons/weapons/bow/cloudforged.webp
 # title_ru: Выкованный из облаков
 # title_en: Cloudforged
 # title_zh: 筑云

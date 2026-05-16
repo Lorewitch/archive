@@ -1,7 +1,7 @@
 # id: apprentices_notes
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/apprentices_notes.png
+# icon: assets/icons/weapons/catalyst/apprentices_notes.webp
 # title_ru: Записи ученика
 # title_en: Apprentice's Notes
 # title_zh: 学徒笔记

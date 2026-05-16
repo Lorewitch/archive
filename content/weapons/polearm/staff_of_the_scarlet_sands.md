@@ -1,7 +1,7 @@
 # id: staff_of_the_scarlet_sands
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/staff_of_the_scarlet_sands.png
+# icon: assets/icons/weapons/polearm/staff_of_the_scarlet_sands.webp
 # title_ru: Посох алых песков
 # title_en: Staff of the Scarlet Sands
 # title_zh: 赤沙之杖

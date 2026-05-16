@@ -1,7 +1,7 @@
 # id: wolfs_gravestone
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/wolfs_gravestone.png
+# icon: assets/icons/weapons/claymore/wolfs_gravestone.webp
 # title_ru: Волчья погибель
 # title_en: Wolf's Gravestone
 # title_zh: 狼的末路

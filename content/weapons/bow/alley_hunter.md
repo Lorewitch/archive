@@ -1,7 +1,7 @@
 # id: alley_hunter
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/alley_hunter.png
+# icon: assets/icons/weapons/bow/alley_hunter.webp
 # title_ru: Охотник во тьме
 # title_en: Alley Hunter
 # title_zh: 暗巷猎手

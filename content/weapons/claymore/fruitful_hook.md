@@ -1,7 +1,7 @@
 # id: fruitful_hook
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/fruitful_hook.png
+# icon: assets/icons/weapons/claymore/fruitful_hook.webp
 # title_ru: Плодотворный крюк
 # title_en: Fruitful Hook
 # title_zh: 硕果钩

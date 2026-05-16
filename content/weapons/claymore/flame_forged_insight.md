@@ -1,7 +1,7 @@
 # id: flame_forged_insight
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/flame_forged_insight.png
+# icon: assets/icons/weapons/claymore/flame_forged_insight.webp
 # title_ru: Выкованное пламенем озарение
 # title_en: Flame-Forged Insight
 # title_zh: 拾慧铸熔

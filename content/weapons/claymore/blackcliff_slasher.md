@@ -1,7 +1,7 @@
 # id: blackcliff_slasher
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/blackcliff_slasher.png
+# icon: assets/icons/weapons/claymore/blackcliff_slasher.webp
 # title_ru: Черногорская бритва
 # title_en: Blackcliff Slasher
 # title_zh: 黑岩斩刀

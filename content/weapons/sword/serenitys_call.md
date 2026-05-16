@@ -1,7 +1,7 @@
 # id: serenitys_call
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/serenitys_call.png
+# icon: assets/icons/weapons/sword/serenitys_call.webp
 # title_ru: Зов безмятежности
 # title_en: Serenity's Call
 # title_zh: 谧音吹哨

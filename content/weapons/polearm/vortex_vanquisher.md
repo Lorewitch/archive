@@ -1,7 +1,7 @@
 # id: vortex_vanquisher
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/vortex_vanquisher.png
+# icon: assets/icons/weapons/polearm/vortex_vanquisher.webp
 # title_ru: Покоритель вихря
 # title_en: Vortex Vanquisher
 # title_zh: 贯虹之槊

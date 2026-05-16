@@ -1,7 +1,7 @@
 # id: sacrificial_sword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/sacrificial_sword.png
+# icon: assets/icons/weapons/sword/sacrificial_sword.webp
 # title_ru: Церемониальный меч
 # title_en: Sacrificial Sword
 # title_zh: 祭礼剑

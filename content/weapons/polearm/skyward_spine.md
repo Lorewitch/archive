@@ -1,7 +1,7 @@
 # id: skyward_spine
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/skyward_spine.png
+# icon: assets/icons/weapons/polearm/skyward_spine.webp
 # title_ru: Небесная ось
 # title_en: Skyward Spine
 # title_zh: 天空之脊

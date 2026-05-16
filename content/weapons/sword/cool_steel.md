@@ -1,7 +1,7 @@
 # id: cool_steel
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/cool_steel.png
+# icon: assets/icons/weapons/sword/cool_steel.webp
 # title_ru: Холодное лезвие
 # title_en: Cool Steel
 # title_zh: 冷刃

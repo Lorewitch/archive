@@ -1,7 +1,7 @@
 # id: ballad_of_the_fjords
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/ballad_of_the_fjords.png
+# icon: assets/icons/weapons/polearm/ballad_of_the_fjords.webp
 # title_ru: Баллада фьордов
 # title_en: Ballad of the Fjords
 # title_zh: 峡湾长歌

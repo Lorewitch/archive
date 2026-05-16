@@ -1,7 +1,7 @@
 # id: chain_breaker
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/chain_breaker.png
+# icon: assets/icons/weapons/bow/chain_breaker.webp
 # title_ru: Разбивающий цепи
 # title_en: Chain Breaker
 # title_zh: 碎链

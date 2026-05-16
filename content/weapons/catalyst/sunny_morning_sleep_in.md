@@ -1,7 +1,7 @@
 # id: sunny_morning_sleep_in
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/sunny_morning_sleep_in.png
+# icon: assets/icons/weapons/catalyst/sunny_morning_sleep_in.webp
 # title_ru: Сон солнечным утром
 # title_en: Sunny Morning Sleep-In
 # title_zh: 寝正月初晴

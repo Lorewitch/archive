@@ -1,7 +1,7 @@
 # id: xiphos_moonlight
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/xiphos_moonlight.png
+# icon: assets/icons/weapons/sword/xiphos_moonlight.webp
 # title_ru: Лунное сияние ксифоса
 # title_en: Xiphos' Moonlight
 # title_zh: 西福斯的月光

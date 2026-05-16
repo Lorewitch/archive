@@ -1,7 +1,7 @@
 # id: twin_nephrite
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/twin_nephrite.png
+# icon: assets/icons/weapons/catalyst/twin_nephrite.webp
 # title_ru: Парный нефрит
 # title_en: Twin Nephrite
 # title_zh: 甲级宝珏

@@ -1,7 +1,7 @@
 # id: sacrificial_fragments
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/sacrificial_fragments.png
+# icon: assets/icons/weapons/catalyst/sacrificial_fragments.webp
 # title_ru: Церемониальные мемуары
 # title_en: Sacrificial Fragments
 # title_zh: 祭礼残章

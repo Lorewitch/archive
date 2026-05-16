@@ -1,7 +1,7 @@
 # id: fading_twilight
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/fading_twilight.png
+# icon: assets/icons/weapons/bow/fading_twilight.webp
 # title_ru: Гаснущие сумерки
 # title_en: Fading Twilight
 # title_zh: 落霞

@@ -1,7 +1,7 @@
 # id: dawning_frost
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/dawning_frost.png
+# icon: assets/icons/weapons/catalyst/dawning_frost.webp
 # title_ru: Рассветный иней
 # title_en: Dawning Frost
 # title_zh: 霜辰

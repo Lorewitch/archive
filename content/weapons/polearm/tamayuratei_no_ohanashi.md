@@ -1,7 +1,7 @@
 # id: tamayuratei_no_ohanashi
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/tamayuratei_no_ohanashi.png
+# icon: assets/icons/weapons/polearm/tamayuratei_no_ohanashi.webp
 # title_ru: Тамаюратэй но оханаси
 # title_en: Tamayuratei no Ohanashi
 # title_zh: 且住亭御咄

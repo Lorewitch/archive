@@ -1,7 +1,7 @@
 # id: rust
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/rust.png
+# icon: assets/icons/weapons/bow/rust.webp
 # title_ru: Ржавый лук
 # title_en: Rust
 # title_zh: 弓藏

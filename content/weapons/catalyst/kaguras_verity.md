@@ -1,7 +1,7 @@
 # id: kaguras_verity
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/kaguras_verity.png
+# icon: assets/icons/weapons/catalyst/kaguras_verity.webp
 # title_ru: Истина кагура
 # title_en: Kagura's Verity
 # title_zh: 神乐之真意

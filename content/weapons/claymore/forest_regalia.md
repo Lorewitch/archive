@@ -1,7 +1,7 @@
 # id: forest_regalia
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/forest_regalia.png
+# icon: assets/icons/weapons/claymore/forest_regalia.webp
 # title_ru: Регалия леса
 # title_en: Forest Regalia
 # title_zh: 森林王器

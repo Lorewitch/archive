@@ -1,7 +1,7 @@
 # id: mountain_bracing_bolt
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/mountain_bracing_bolt.png
+# icon: assets/icons/weapons/polearm/mountain_bracing_bolt.webp
 # title_ru: Крепящий горы шип
 # title_en: Mountain-Bracing Bolt
 # title_zh: 镇山之钉

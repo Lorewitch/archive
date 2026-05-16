@@ -1,7 +1,7 @@
 # id: wolf_fang
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/wolf_fang.png
+# icon: assets/icons/weapons/sword/wolf_fang.webp
 # title_ru: Волчий клык
 # title_en: Wolf-Fang
 # title_zh: 狼牙

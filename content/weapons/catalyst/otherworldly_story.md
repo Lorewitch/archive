@@ -1,7 +1,7 @@
 # id: otherworldly_story
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/otherworldly_story.png
+# icon: assets/icons/weapons/catalyst/otherworldly_story.webp
 # title_ru: Потусторонняя история
 # title_en: Otherworldly Story
 # title_zh: 异世界行记

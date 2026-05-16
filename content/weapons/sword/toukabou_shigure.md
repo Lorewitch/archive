@@ -1,7 +1,7 @@
 # id: toukabou_shigure
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/toukabou_shigure.png
+# icon: assets/icons/weapons/sword/toukabou_shigure.webp
 # title_ru: Токабо сигурэ
 # title_en: Toukabou Shigure
 # title_zh: 东花坊时雨

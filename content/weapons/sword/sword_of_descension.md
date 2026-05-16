@@ -1,7 +1,7 @@
 # id: sword_of_descension
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/sword_of_descension.png
+# icon: assets/icons/weapons/sword/sword_of_descension.webp
 # title_ru: Меч нисхождения
 # title_en: Sword of Descension
 # title_zh: 降临之剑

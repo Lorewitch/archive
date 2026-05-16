@@ -1,7 +1,7 @@
 # id: bloodsoaked_ruins
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/bloodsoaked_ruins.png
+# icon: assets/icons/weapons/polearm/bloodsoaked_ruins.webp
 # title_ru: Окровавленные руины
 # title_en: Bloodsoaked Ruins
 # title_zh: 血染荒城

@@ -1,7 +1,7 @@
 # id: blackcliff_longsword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/blackcliff_longsword.png
+# icon: assets/icons/weapons/sword/blackcliff_longsword.webp
 # title_ru: Черногорский длинный меч
 # title_en: Blackcliff Longsword
 # title_zh: 黑岩长剑

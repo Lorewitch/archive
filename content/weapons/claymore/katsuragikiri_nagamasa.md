@@ -1,7 +1,7 @@
 # id: katsuragikiri_nagamasa
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/katsuragikiri_nagamasa.png
+# icon: assets/icons/weapons/claymore/katsuragikiri_nagamasa.webp
 # title_ru: Кацурагикири Нагамаса
 # title_en: Katsuragikiri Nagamasa
 # title_zh: 桂木斩长正

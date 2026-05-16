@@ -1,7 +1,7 @@
 # id: sacrificial_greatsword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/sacrificial_greatsword.png
+# icon: assets/icons/weapons/claymore/sacrificial_greatsword.webp
 # title_ru: Церемониальный двуручный меч
 # title_en: Sacrificial Greatsword
 # title_zh: 祭礼大剑

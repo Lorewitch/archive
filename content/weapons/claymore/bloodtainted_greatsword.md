@@ -1,7 +1,7 @@
 # id: bloodtainted_greatsword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/bloodtainted_greatsword.png
+# icon: assets/icons/weapons/claymore/bloodtainted_greatsword.webp
 # title_ru: Меч драконьей крови
 # title_en: Bloodtainted Greatsword
 # title_zh: 沐浴龙血的剑

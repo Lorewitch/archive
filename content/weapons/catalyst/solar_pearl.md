@@ -1,7 +1,7 @@
 # id: solar_pearl
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/solar_pearl.png
+# icon: assets/icons/weapons/catalyst/solar_pearl.webp
 # title_ru: Солнечная жемчужина
 # title_en: Solar Pearl
 # title_zh: 匣里日月

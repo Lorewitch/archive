@@ -1,7 +1,7 @@
 # id: end_of_the_line
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/end_of_the_line.png
+# icon: assets/icons/weapons/bow/end_of_the_line.webp
 # title_ru: Иссушитель
 # title_en: End of the Line
 # title_zh: 竭泽

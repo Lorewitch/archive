@@ -1,7 +1,7 @@
 # id: favonius_greatsword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/favonius_greatsword.png
+# icon: assets/icons/weapons/claymore/favonius_greatsword.webp
 # title_ru: Двуручный меч Фавония
 # title_en: Favonius Greatsword
 # title_zh: 西风大剑

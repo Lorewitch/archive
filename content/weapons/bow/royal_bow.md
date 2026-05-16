@@ -1,7 +1,7 @@
 # id: royal_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/royal_bow.png
+# icon: assets/icons/weapons/bow/royal_bow.webp
 # title_ru: Королевский лук
 # title_en: Royal Bow
 # title_zh: 宗室长弓

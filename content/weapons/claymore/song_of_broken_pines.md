@@ -1,7 +1,7 @@
 # id: song_of_broken_pines
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/song_of_broken_pines.png
+# icon: assets/icons/weapons/claymore/song_of_broken_pines.webp
 # title_ru: Песнь разбитых сосен
 # title_en: Song of Broken Pines
 # title_zh: 松籁响起之时

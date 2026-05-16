@@ -1,7 +1,7 @@
 # id: hunters_path
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/hunters_path.png
+# icon: assets/icons/weapons/bow/hunters_path.webp
 # title_ru: Охотничья тропа
 # title_en: Hunter's Path
 # title_zh: 猎人之径

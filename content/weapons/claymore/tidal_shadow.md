@@ -1,7 +1,7 @@
 # id: tidal_shadow
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/tidal_shadow.png
+# icon: assets/icons/weapons/claymore/tidal_shadow.webp
 # title_ru: Тень волны
 # title_en: Tidal Shadow
 # title_zh: 浪影阔剑

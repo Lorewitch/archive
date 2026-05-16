@@ -1,7 +1,7 @@
 # id: halberd
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/halberd.png
+# icon: assets/icons/weapons/polearm/halberd.webp
 # title_ru: Алебарда Миллелита
 # title_en: Halberd
 # title_zh: 钺矛

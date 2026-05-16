@@ -1,7 +1,7 @@
 # id: ultimate_overlords_mega_magic_sword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/ultimate_overlords_mega_magic_sword.png
+# icon: assets/icons/weapons/claymore/ultimate_overlords_mega_magic_sword.webp
 # title_ru: «Магический супермеч высшего владыки»
 # title_en: Ultimate Overlord's Mega Magic Sword
 # title_zh: 究极霸王超级魔剑

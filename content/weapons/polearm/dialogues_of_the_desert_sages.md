@@ -1,7 +1,7 @@
 # id: dialogues_of_the_desert_sages
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/dialogues_of_the_desert_sages.png
+# icon: assets/icons/weapons/polearm/dialogues_of_the_desert_sages.webp
 # title_ru: Диалог пустынных мудрецов
 # title_en: Dialogues of the Desert Sages
 # title_zh: 沙中伟贤的对答

@@ -1,7 +1,7 @@
 # id: master_key
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/master_key.png
+# icon: assets/icons/weapons/claymore/master_key.webp
 # title_ru: Мастер-ключ
 # title_en: Master Key
 # title_zh: 万能钥匙

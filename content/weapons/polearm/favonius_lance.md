@@ -1,7 +1,7 @@
 # id: favonius_lance
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/favonius_lance.png
+# icon: assets/icons/weapons/polearm/favonius_lance.webp
 # title_ru: Копьё Фавония
 # title_en: Favonius Lance
 # title_zh: 西风长枪

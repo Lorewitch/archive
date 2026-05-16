@@ -1,7 +1,7 @@
 # id: lions_roar
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/lions_roar.png
+# icon: assets/icons/weapons/sword/lions_roar.webp
 # title_ru: Драконий рык
 # title_en: Lion's Roar
 # title_zh: 匣里龙吟

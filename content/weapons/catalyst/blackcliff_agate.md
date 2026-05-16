@@ -1,7 +1,7 @@
 # id: blackcliff_agate
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/blackcliff_agate.png
+# icon: assets/icons/weapons/catalyst/blackcliff_agate.webp
 # title_ru: Черногорский агат
 # title_en: Blackcliff Agate
 # title_zh: 黑岩绯玉

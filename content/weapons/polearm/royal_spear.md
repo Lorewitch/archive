@@ -1,7 +1,7 @@
 # id: royal_spear
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/royal_spear.png
+# icon: assets/icons/weapons/polearm/royal_spear.webp
 # title_ru: Королевское копьё
 # title_en: Royal Spear
 # title_zh: 宗室猎枪

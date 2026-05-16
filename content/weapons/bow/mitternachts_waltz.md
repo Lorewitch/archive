@@ -1,7 +1,7 @@
 # id: mitternachts_waltz
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/mitternachts_waltz.png
+# icon: assets/icons/weapons/bow/mitternachts_waltz.webp
 # title_ru: Вальс Нирваны Ночи
 # title_en: Mitternachts Waltz
 # title_zh: 幽夜华尔兹

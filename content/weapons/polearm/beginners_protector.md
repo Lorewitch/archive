@@ -1,7 +1,7 @@
 # id: beginners_protector
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/beginners_protector.png
+# icon: assets/icons/weapons/polearm/beginners_protector.webp
 # title_ru: Копьё новичка
 # title_en: Beginner's Protector
 # title_zh: 新手长枪

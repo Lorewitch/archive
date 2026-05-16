@@ -1,7 +1,7 @@
 # id: lumidouce_elegy
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/lumidouce_elegy.png
+# icon: assets/icons/weapons/polearm/lumidouce_elegy.webp
 # title_ru: Элегия Люмидус
 # title_en: Lumidouce Elegy
 # title_zh: 柔灯挽歌

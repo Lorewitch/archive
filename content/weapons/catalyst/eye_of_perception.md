@@ -1,7 +1,7 @@
 # id: eye_of_perception
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/eye_of_perception.png
+# icon: assets/icons/weapons/catalyst/eye_of_perception.webp
 # title_ru: Око сознания
 # title_en: Eye of Perception
 # title_zh: 昭心

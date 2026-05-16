@@ -1,7 +1,7 @@
 # id: akuoumaru
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/akuoumaru.png
+# icon: assets/icons/weapons/claymore/akuoumaru.webp
 # title_ru: Акуомару
 # title_en: Akuoumaru
 # title_zh: 恶王丸

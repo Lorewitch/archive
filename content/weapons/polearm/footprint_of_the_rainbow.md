@@ -1,7 +1,7 @@
 # id: footprint_of_the_rainbow
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/footprint_of_the_rainbow.png
+# icon: assets/icons/weapons/polearm/footprint_of_the_rainbow.webp
 # title_ru: След радуги
 # title_en: Footprint of the Rainbow
 # title_zh: 虹的行迹

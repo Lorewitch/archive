@@ -1,7 +1,7 @@
 # id: skyward_pride
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/skyward_pride.png
+# icon: assets/icons/weapons/claymore/skyward_pride.webp
 # title_ru: Небесное величие
 # title_en: Skyward Pride
 # title_zh: 天空之傲

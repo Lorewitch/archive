@@ -1,7 +1,7 @@
 # id: calamity_of_eshu
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/calamity_of_eshu.png
+# icon: assets/icons/weapons/sword/calamity_of_eshu.webp
 # title_ru: Бедствие Эшу
 # title_en: Calamity of Eshu
 # title_zh: 厄水之祸

@@ -1,7 +1,7 @@
 # id: mailed_flower
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/mailed_flower.png
+# icon: assets/icons/weapons/claymore/mailed_flower.webp
 # title_ru: Цветок в латах
 # title_en: Mailed Flower
 # title_zh: 饰铁之花

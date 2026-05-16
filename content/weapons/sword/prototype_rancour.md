@@ -1,7 +1,7 @@
 # id: prototype_rancour
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/prototype_rancour.png
+# icon: assets/icons/weapons/sword/prototype_rancour.webp
 # title_ru: Прототип: Злоба
 # title_en: Prototype Rancour
 # title_zh: 试作斩岩

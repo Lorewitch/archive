@@ -1,7 +1,7 @@
 # id: symphonist_of_scents
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/symphonist_of_scents.png
+# icon: assets/icons/weapons/polearm/symphonist_of_scents.webp
 # title_ru: Симфонист ароматов
 # title_en: Symphonist of Scents
 # title_zh: 香韵奏者

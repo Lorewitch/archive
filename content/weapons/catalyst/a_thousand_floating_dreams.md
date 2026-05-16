@@ -1,7 +1,7 @@
 # id: a_thousand_floating_dreams
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/a_thousand_floating_dreams.png
+# icon: assets/icons/weapons/catalyst/a_thousand_floating_dreams.webp
 # title_ru: Сновидения тысячи ночей
 # title_en: A Thousand Floating Dreams
 # title_zh: 千夜浮梦

@@ -1,7 +1,7 @@
 # id: compound_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/compound_bow.png
+# icon: assets/icons/weapons/bow/compound_bow.webp
 # title_ru: Составной лук
 # title_en: Compound Bow
 # title_zh: 钢轮弓

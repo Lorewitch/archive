@@ -1,7 +1,7 @@
 # id: the_daybreak_chronicles
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/the_daybreak_chronicles.png
+# icon: assets/icons/weapons/bow/the_daybreak_chronicles.webp
 # title_ru: Хроники рассвета
 # title_en: The Daybreak Chronicles
 # title_zh: 黎明破晓之史

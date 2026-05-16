@@ -1,7 +1,7 @@
 # id: earth_shaker
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/earth_shaker.png
+# icon: assets/icons/weapons/claymore/earth_shaker.webp
 # title_ru: Сотрясающий землю
 # title_en: Earth Shaker
 # title_zh: 撼地者

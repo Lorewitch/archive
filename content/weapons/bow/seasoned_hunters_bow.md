@@ -1,7 +1,7 @@
 # id: seasoned_hunters_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/seasoned_hunters_bow.png
+# icon: assets/icons/weapons/bow/seasoned_hunters_bow.webp
 # title_ru: Лук опытного охотника
 # title_en: Seasoned Hunter's Bow
 # title_zh: 历练的猎弓

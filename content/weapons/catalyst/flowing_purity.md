@@ -1,7 +1,7 @@
 # id: flowing_purity
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/flowing_purity.png
+# icon: assets/icons/weapons/catalyst/flowing_purity.webp
 # title_ru: Сверкание чистых вод
 # title_en: Flowing Purity
 # title_zh: 纯水流华

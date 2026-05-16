@@ -1,7 +1,7 @@
 # id: blackcliff_warbow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/blackcliff_warbow.png
+# icon: assets/icons/weapons/bow/blackcliff_warbow.webp
 # title_ru: Черногорский боевой лук
 # title_en: Blackcliff Warbow
 # title_zh: 黑岩战弓

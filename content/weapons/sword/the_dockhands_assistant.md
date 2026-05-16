@@ -1,7 +1,7 @@
 # id: the_dockhands_assistant
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/the_dockhands_assistant.png
+# icon: assets/icons/weapons/sword/the_dockhands_assistant.webp
 # title_ru: Верфь
 # title_en: The Dockhand's Assistant
 # title_zh: 船坞长剑

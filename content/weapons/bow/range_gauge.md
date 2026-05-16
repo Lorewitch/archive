@@ -1,7 +1,7 @@
 # id: range_gauge
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/range_gauge.png
+# icon: assets/icons/weapons/bow/range_gauge.webp
 # title_ru: Дальномер
 # title_en: Range Gauge
 # title_zh: 测距规

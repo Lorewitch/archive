@@ -1,7 +1,7 @@
 # id: scion_of_the_blazing_sun
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/scion_of_the_blazing_sun.png
+# icon: assets/icons/weapons/bow/scion_of_the_blazing_sun.webp
 # title_ru: Наследник слепящего солнца
 # title_en: Scion of the Blazing Sun
 # title_zh: 烈阳之嗣

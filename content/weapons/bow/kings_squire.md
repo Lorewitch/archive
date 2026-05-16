@@ -1,7 +1,7 @@
 # id: kings_squire
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/kings_squire.png
+# icon: assets/icons/weapons/bow/kings_squire.webp
 # title_ru: Приближённый короля
 # title_en: King's Squire
 # title_zh: 王下近侍

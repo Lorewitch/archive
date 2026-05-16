@@ -1,7 +1,7 @@
 # id: favonius_codex
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/favonius_codex.png
+# icon: assets/icons/weapons/catalyst/favonius_codex.webp
 # title_ru: Кодекс Фавония
 # title_en: Favonius Codex
 # title_zh: 西风秘典

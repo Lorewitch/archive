@@ -1,7 +1,7 @@
 # id: dragonspine_spear
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/dragonspine_spear.png
+# icon: assets/icons/weapons/polearm/dragonspine_spear.webp
 # title_ru: Копьё Драконьего хребта
 # title_en: Dragonspine Spear
 # title_zh: 龙脊长枪

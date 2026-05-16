@@ -1,7 +1,7 @@
 # id: moonweavers_dawn
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/moonweavers_dawn.png
+# icon: assets/icons/weapons/sword/moonweavers_dawn.webp
 # title_ru: Рассвет прядильщицы луны
 # title_en: Moonweaver's Dawn
 # title_zh: 织月者的曙色

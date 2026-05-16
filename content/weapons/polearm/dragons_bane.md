@@ -1,7 +1,7 @@
 # id: dragons_bane
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/dragons_bane.png
+# icon: assets/icons/weapons/polearm/dragons_bane.webp
 # title_ru: Гроза драконов
 # title_en: Dragon's Bane
 # title_zh: 匣里灭辰

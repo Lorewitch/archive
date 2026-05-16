@@ -1,7 +1,7 @@
 # id: the_first_great_magic
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/the_first_great_magic.png
+# icon: assets/icons/weapons/bow/the_first_great_magic.webp
 # title_ru: Первый великий фокус
 # title_en: The First Great Magic
 # title_zh: 最初的大魔术

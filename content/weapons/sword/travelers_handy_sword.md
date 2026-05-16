@@ -1,7 +1,7 @@
 # id: travelers_handy_sword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/travelers_handy_sword.png
+# icon: assets/icons/weapons/sword/travelers_handy_sword.webp
 # title_ru: Меч путешественника
 # title_en: Traveler's Handy Sword
 # title_zh: 旅行剑

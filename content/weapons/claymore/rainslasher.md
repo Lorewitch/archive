@@ -1,7 +1,7 @@
 # id: rainslasher
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/rainslasher.png
+# icon: assets/icons/weapons/claymore/rainslasher.webp
 # title_ru: Дождерез
 # title_en: Rainslasher
 # title_zh: 雨裁

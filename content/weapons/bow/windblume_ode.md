@@ -1,7 +1,7 @@
 # id: windblume_ode
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/windblume_ode.png
+# icon: assets/icons/weapons/bow/windblume_ode.webp
 # title_ru: Ода анемонии
 # title_en: Windblume Ode
 # title_zh: 风花之颂

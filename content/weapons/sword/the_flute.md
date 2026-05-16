@@ -1,7 +1,7 @@
 # id: the_flute
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/the_flute.png
+# icon: assets/icons/weapons/sword/the_flute.webp
 # title_ru: Меч-флейта
 # title_en: The Flute
 # title_zh: 笛剑

@@ -1,7 +1,7 @@
 # id: favonius_warbow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/favonius_warbow.png
+# icon: assets/icons/weapons/bow/favonius_warbow.webp
 # title_ru: Боевой лук Фавония
 # title_en: Favonius Warbow
 # title_zh: 西风猎弓

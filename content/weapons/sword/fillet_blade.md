@@ -1,7 +1,7 @@
 # id: fillet_blade
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/fillet_blade.png
+# icon: assets/icons/weapons/sword/fillet_blade.webp
 # title_ru: Филейный нож
 # title_en: Fillet Blade
 # title_zh: 吃虎鱼刀

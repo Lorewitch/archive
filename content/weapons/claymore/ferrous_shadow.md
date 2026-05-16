@@ -1,7 +1,7 @@
 # id: ferrous_shadow
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/ferrous_shadow.png
+# icon: assets/icons/weapons/claymore/ferrous_shadow.webp
 # title_ru: Металлическая тень
 # title_en: Ferrous Shadow
 # title_zh: 铁影阔剑

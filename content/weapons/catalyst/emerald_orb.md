@@ -1,7 +1,7 @@
 # id: emerald_orb
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/emerald_orb.png
+# icon: assets/icons/weapons/catalyst/emerald_orb.webp
 # title_ru: Изумрудный шар
 # title_en: Emerald Orb
 # title_zh: 翡玉法球

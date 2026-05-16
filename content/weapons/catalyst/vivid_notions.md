@@ -1,7 +1,7 @@
 # id: vivid_notions
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/vivid_notions.png
+# icon: assets/icons/weapons/catalyst/vivid_notions.webp
 # title_ru: Переливающиеся чаяния
 # title_en: Vivid Notions
 # title_zh: 溢彩心念

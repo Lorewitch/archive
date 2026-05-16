@@ -1,7 +1,7 @@
 # id: the_stringless
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/the_stringless.png
+# icon: assets/icons/weapons/bow/the_stringless.webp
 # title_ru: Бесструнный
 # title_en: The Stringless
 # title_zh: 绝弦

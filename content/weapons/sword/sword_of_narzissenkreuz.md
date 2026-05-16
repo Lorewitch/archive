@@ -1,7 +1,7 @@
 # id: sword_of_narzissenkreuz
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/sword_of_narzissenkreuz.png
+# icon: assets/icons/weapons/sword/sword_of_narzissenkreuz.webp
 # title_ru: Меч Нарциссенкрейца
 # title_en: Sword of Narzissenkreuz
 # title_zh: 水仙十字之剑

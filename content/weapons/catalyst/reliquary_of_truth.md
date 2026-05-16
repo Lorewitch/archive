@@ -1,7 +1,7 @@
 # id: reliquary_of_truth
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/reliquary_of_truth.png
+# icon: assets/icons/weapons/catalyst/reliquary_of_truth.webp
 # title_ru: Шкатулка истин
 # title_en: Reliquary of Truth
 # title_zh: 真语秘匣

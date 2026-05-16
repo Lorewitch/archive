@@ -1,7 +1,7 @@
 # id: dull_blade
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/dull_blade.png
+# icon: assets/icons/weapons/sword/dull_blade.webp
 # title_ru: Тупой меч
 # title_en: Dull Blade
 # title_zh: 无锋剑

@@ -1,7 +1,7 @@
 # id: pocket_grimoire
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/pocket_grimoire.png
+# icon: assets/icons/weapons/catalyst/pocket_grimoire.webp
 # title_ru: Карманный гримуар
 # title_en: Pocket Grimoire
 # title_zh: 口袋魔导书

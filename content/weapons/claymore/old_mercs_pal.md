@@ -1,7 +1,7 @@
 # id: old_mercs_pal
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/old_mercs_pal.png
+# icon: assets/icons/weapons/claymore/old_mercs_pal.webp
 # title_ru: Лучший друг наёмника
 # title_en: Old Merc's Pal
 # title_zh: 佣兵重剑

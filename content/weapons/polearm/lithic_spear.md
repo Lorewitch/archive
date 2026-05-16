@@ -1,7 +1,7 @@
 # id: lithic_spear
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/lithic_spear.png
+# icon: assets/icons/weapons/polearm/lithic_spear.webp
 # title_ru: Каменное копьё
 # title_en: Lithic Spear
 # title_zh: 千岩长枪

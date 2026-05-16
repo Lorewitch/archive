@@ -1,7 +1,7 @@
 # id: wavebreakers_fin
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/wavebreakers_fin.png
+# icon: assets/icons/weapons/polearm/wavebreakers_fin.webp
 # title_ru: Режущий волны плавник
 # title_en: Wavebreaker's Fin
 # title_zh: 断浪长鳍

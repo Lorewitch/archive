@@ -1,7 +1,7 @@
 # id: the_viridescent_hunt
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/the_viridescent_hunt.png
+# icon: assets/icons/weapons/bow/the_viridescent_hunt.webp
 # title_ru: Зелёный лук
 # title_en: The Viridescent Hunt
 # title_zh: 苍翠猎弓

@@ -1,7 +1,7 @@
 # id: crescent_pike
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/crescent_pike.png
+# icon: assets/icons/weapons/polearm/crescent_pike.webp
 # title_ru: Пика полумесяца
 # title_en: Crescent Pike
 # title_zh: 流月针

@@ -1,7 +1,7 @@
 # id: fruit_of_fulfillment
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/fruit_of_fulfillment.png
+# icon: assets/icons/weapons/catalyst/fruit_of_fulfillment.webp
 # title_ru: Плод восполнения
 # title_en: Fruit of Fulfillment
 # title_zh: 盈满之实

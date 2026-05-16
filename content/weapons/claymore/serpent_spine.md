@@ -1,7 +1,7 @@
 # id: serpent_spine
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/serpent_spine.png
+# icon: assets/icons/weapons/claymore/serpent_spine.webp
 # title_ru: Меч драконьей кости
 # title_en: Serpent Spine
 # title_zh: 螭骨剑

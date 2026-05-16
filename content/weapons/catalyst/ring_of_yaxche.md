@@ -1,7 +1,7 @@
 # id: ring_of_yaxche
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/ring_of_yaxche.png
+# icon: assets/icons/weapons/catalyst/ring_of_yaxche.webp
 # title_ru: Кольцо Яшче
 # title_en: Ring of Yaxche
 # title_zh: 木棉之环

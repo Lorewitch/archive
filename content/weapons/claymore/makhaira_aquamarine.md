@@ -1,7 +1,7 @@
 # id: makhaira_aquamarine
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/makhaira_aquamarine.png
+# icon: assets/icons/weapons/claymore/makhaira_aquamarine.webp
 # title_ru: Аквамарин Махайры
 # title_en: Makhaira Aquamarine
 # title_zh: 玛海菈的水色

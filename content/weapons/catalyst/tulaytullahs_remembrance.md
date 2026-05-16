@@ -1,7 +1,7 @@
 # id: tulaytullahs_remembrance
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/tulaytullahs_remembrance.png
+# icon: assets/icons/weapons/catalyst/tulaytullahs_remembrance.webp
 # title_ru: Воспоминания Тулайтуллы
 # title_en: Tulaytullah's Remembrance
 # title_zh: 图莱杜拉的回忆

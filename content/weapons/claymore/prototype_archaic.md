@@ -1,7 +1,7 @@
 # id: prototype_archaic
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/prototype_archaic.png
+# icon: assets/icons/weapons/claymore/prototype_archaic.webp
 # title_ru: Прототип: Архаичный
 # title_en: Prototype Archaic
 # title_zh: 试作古华

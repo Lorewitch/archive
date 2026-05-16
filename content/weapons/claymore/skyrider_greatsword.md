@@ -1,7 +1,7 @@
 # id: skyrider_greatsword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/skyrider_greatsword.png
+# icon: assets/icons/weapons/claymore/skyrider_greatsword.webp
 # title_ru: Большой меч небесного всадника
 # title_en: Skyrider Greatsword
 # title_zh: 飞天大御剑

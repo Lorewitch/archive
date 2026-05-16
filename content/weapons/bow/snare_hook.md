@@ -1,7 +1,7 @@
 # id: snare_hook
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/snare_hook.png
+# icon: assets/icons/weapons/bow/snare_hook.webp
 # title_ru: Крюк силка
 # title_en: Snare Hook
 # title_zh: 罗网勾针

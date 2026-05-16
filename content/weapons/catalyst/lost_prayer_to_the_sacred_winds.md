@@ -1,7 +1,7 @@
 # id: lost_prayer_to_the_sacred_winds
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/lost_prayer_to_the_sacred_winds.png
+# icon: assets/icons/weapons/catalyst/lost_prayer_to_the_sacred_winds.webp
 # title_ru: Молитва святым ветрам
 # title_en: Lost Prayer to the Sacred Winds
 # title_zh: 四风原典

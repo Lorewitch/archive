@@ -1,7 +1,7 @@
 # id: ibis_piercer
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/ibis_piercer.png
+# icon: assets/icons/weapons/bow/ibis_piercer.webp
 # title_ru: Клюв ибиса
 # title_en: Ibis Piercer
 # title_zh: 鹮穿之喙

@@ -1,7 +1,7 @@
 # id: astral_vultures_crimson_plumage
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/astral_vultures_crimson_plumage.png
+# icon: assets/icons/weapons/bow/astral_vultures_crimson_plumage.webp
 # title_ru: Алое перо звёздного грифа
 # title_en: Astral Vulture's Crimson Plumage
 # title_zh: 星鹫赤羽

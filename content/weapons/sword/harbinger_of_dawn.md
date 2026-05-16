@@ -1,7 +1,7 @@
 # id: harbinger_of_dawn
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/harbinger_of_dawn.png
+# icon: assets/icons/weapons/sword/harbinger_of_dawn.webp
 # title_ru: Предвестник зари
 # title_en: Harbinger of Dawn
 # title_zh: 黎明神剑

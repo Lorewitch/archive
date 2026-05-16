@@ -1,7 +1,7 @@
 # id: the_catch
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/the_catch.png
+# icon: assets/icons/weapons/polearm/the_catch.webp
 # title_ru: «Улов»
 # title_en: "The Catch"
 # title_zh: 「渔获」

@@ -1,7 +1,7 @@
 # id: skyward_atlas
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/skyward_atlas.png
+# icon: assets/icons/weapons/catalyst/skyward_atlas.webp
 # title_ru: Небесный атлас
 # title_en: Skyward Atlas
 # title_zh: 天空之卷

@@ -1,7 +1,7 @@
 # id: the_alley_flash
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/the_alley_flash.png
+# icon: assets/icons/weapons/sword/the_alley_flash.webp
 # title_ru: Вспышка во тьме
 # title_en: The Alley Flash
 # title_zh: 暗巷闪光

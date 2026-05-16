@@ -1,7 +1,7 @@
 # id: silver_sword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/silver_sword.png
+# icon: assets/icons/weapons/sword/silver_sword.webp
 # title_ru: Серебряный меч
 # title_en: Silver Sword
 # title_zh: 银剑

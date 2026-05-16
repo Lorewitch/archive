@@ -1,7 +1,7 @@
 # id: dodoco_tales
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/dodoco_tales.png
+# icon: assets/icons/weapons/catalyst/dodoco_tales.webp
 # title_ru: Истории Додоко
 # title_en: Dodoco Tales
 # title_zh: 嘟嘟可故事集

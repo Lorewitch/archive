@@ -1,7 +1,7 @@
 # id: primordial_jade_winged_spear
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/primordial_jade_winged_spear.png
+# icon: assets/icons/weapons/polearm/primordial_jade_winged_spear.webp
 # title_ru: Нефритовый коршун
 # title_en: Primordial Jade Winged-Spear
 # title_zh: 和璞鸢

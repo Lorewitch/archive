@@ -1,7 +1,7 @@
 # id: skyward_harp
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/skyward_harp.png
+# icon: assets/icons/weapons/bow/skyward_harp.webp
 # title_ru: Небесное крыло
 # title_en: Skyward Harp
 # title_zh: 天空之翼

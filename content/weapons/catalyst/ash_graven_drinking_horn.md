@@ -1,7 +1,7 @@
 # id: ash_graven_drinking_horn
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/ash_graven_drinking_horn.png
+# icon: assets/icons/weapons/catalyst/ash_graven_drinking_horn.webp
 # title_ru: Пепельный рог
 # title_en: Ash-Graven Drinking Horn
 # title_zh: 苍纹角杯

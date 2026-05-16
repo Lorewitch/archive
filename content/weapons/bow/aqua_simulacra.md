@@ -1,7 +1,7 @@
 # id: aqua_simulacra
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/aqua_simulacra.png
+# icon: assets/icons/weapons/bow/aqua_simulacra.webp
 # title_ru: Аква симулякрум
 # title_en: Aqua Simulacra
 # title_zh: 若水

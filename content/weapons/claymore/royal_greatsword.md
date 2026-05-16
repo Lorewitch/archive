@@ -1,7 +1,7 @@
 # id: royal_greatsword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/royal_greatsword.png
+# icon: assets/icons/weapons/claymore/royal_greatsword.webp
 # title_ru: Королевский двуручный меч
 # title_en: Royal Greatsword
 # title_zh: 宗室大剑

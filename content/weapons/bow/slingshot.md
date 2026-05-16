@@ -1,7 +1,7 @@
 # id: slingshot
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/slingshot.png
+# icon: assets/icons/weapons/bow/slingshot.webp
 # title_ru: Рогатка
 # title_en: Slingshot
 # title_zh: 弹弓

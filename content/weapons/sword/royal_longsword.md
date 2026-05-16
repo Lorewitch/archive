@@ -1,7 +1,7 @@
 # id: royal_longsword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/royal_longsword.png
+# icon: assets/icons/weapons/sword/royal_longsword.webp
 # title_ru: Меч аристократов
 # title_en: Royal Longsword
 # title_zh: 宗室长剑

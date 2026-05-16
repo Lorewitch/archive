@@ -1,7 +1,7 @@
 # id: magic_guide
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/magic_guide.png
+# icon: assets/icons/weapons/catalyst/magic_guide.webp
 # title_ru: Руководство по магии
 # title_en: Magic Guide
 # title_zh: 魔导绪论

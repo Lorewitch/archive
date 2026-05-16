@@ -1,7 +1,7 @@
 # id: messenger
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/messenger.png
+# icon: assets/icons/weapons/bow/messenger.webp
 # title_ru: Посыльный
 # title_en: Messenger
 # title_zh: 信使

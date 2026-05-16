@@ -1,7 +1,7 @@
 # id: polar_star
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/polar_star.png
+# icon: assets/icons/weapons/bow/polar_star.webp
 # title_ru: Полярная звезда
 # title_en: Polar Star
 # title_zh: 冬极白星

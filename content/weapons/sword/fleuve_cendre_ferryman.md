@@ -1,7 +1,7 @@
 # id: fleuve_cendre_ferryman
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/fleuve_cendre_ferryman.png
+# icon: assets/icons/weapons/sword/fleuve_cendre_ferryman.webp
 # title_ru: Перевозчик Флёв Сандр
 # title_en: Fleuve Cendre Ferryman
 # title_zh: 灰河渡手

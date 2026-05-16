@@ -1,7 +1,7 @@
 # id: nightweavers_looking_glass
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/nightweavers_looking_glass.png
+# icon: assets/icons/weapons/catalyst/nightweavers_looking_glass.webp
 # title_ru: Зеркало прядильщицы ночи
 # title_en: Nightweaver's Looking Glass
 # title_zh: 纺夜天镜

@@ -1,7 +1,7 @@
 # id: amos_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/amos_bow.png
+# icon: assets/icons/weapons/bow/amos_bow.webp
 # title_ru: Лук Амоса
 # title_en: Amos' Bow
 # title_zh: 阿莫斯之弓

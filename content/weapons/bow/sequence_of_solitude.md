@@ -1,7 +1,7 @@
 # id: sequence_of_solitude
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/sequence_of_solitude.png
+# icon: assets/icons/weapons/bow/sequence_of_solitude.webp
 # title_ru: Каденция одиночества
 # title_en: Sequence of Solitude
 # title_zh: 冷寂迸音

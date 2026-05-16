@@ -1,7 +1,7 @@
 # id: amenoma_kageuchi
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/amenoma_kageuchi.png
+# icon: assets/icons/weapons/sword/amenoma_kageuchi.webp
 # title_ru: Амэнома Кагэути
 # title_en: Amenoma Kageuchi
 # title_zh: 天目影打刀

@@ -1,7 +1,7 @@
 # id: oathsworn_eye
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/oathsworn_eye.png
+# icon: assets/icons/weapons/catalyst/oathsworn_eye.webp
 # title_ru: Око клятвы
 # title_en: Oathsworn Eye
 # title_zh: 证誓之明瞳

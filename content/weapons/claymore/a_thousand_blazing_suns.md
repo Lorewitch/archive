@@ -1,7 +1,7 @@
 # id: a_thousand_blazing_suns
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/a_thousand_blazing_suns.png
+# icon: assets/icons/weapons/claymore/a_thousand_blazing_suns.webp
 # title_ru: Тысяча ослепительных солнц
 # title_en: A Thousand Blazing Suns
 # title_zh: 焚曜千阳

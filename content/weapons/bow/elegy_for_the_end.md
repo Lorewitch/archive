@@ -1,7 +1,7 @@
 # id: elegy_for_the_end
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/elegy_for_the_end.png
+# icon: assets/icons/weapons/bow/elegy_for_the_end.webp
 # title_ru: Элегия погибели
 # title_en: Elegy for the End
 # title_zh: 终末嗟叹之诗

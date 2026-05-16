@@ -1,7 +1,7 @@
 # id: song_of_stillness
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/song_of_stillness.png
+# icon: assets/icons/weapons/bow/song_of_stillness.webp
 # title_ru: Мелодия покоя
 # title_en: Song of Stillness
 # title_zh: 静谧之曲

@@ -1,7 +1,7 @@
 # id: white_iron_greatsword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/white_iron_greatsword.png
+# icon: assets/icons/weapons/claymore/white_iron_greatsword.webp
 # title_ru: Меч из белого железа
 # title_en: White Iron Greatsword
 # title_zh: 白铁大剑

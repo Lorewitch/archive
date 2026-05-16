@@ -1,7 +1,7 @@
 # id: kitain_cross_spear
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/kitain_cross_spear.png
+# icon: assets/icons/weapons/polearm/kitain_cross_spear.webp
 # title_ru: Крест-копьё Китаин
 # title_en: Kitain Cross Spear
 # title_zh: Kitain Cross Spear

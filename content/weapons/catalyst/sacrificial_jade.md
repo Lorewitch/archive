@@ -1,7 +1,7 @@
 # id: sacrificial_jade
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/sacrificial_jade.png
+# icon: assets/icons/weapons/catalyst/sacrificial_jade.webp
 # title_ru: Жертвенный нефрит
 # title_en: Sacrificial Jade
 # title_zh: 遗祀玉珑

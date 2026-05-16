@@ -1,7 +1,7 @@
 # id: mouuns_moon
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/mouuns_moon.png
+# icon: assets/icons/weapons/bow/mouuns_moon.webp
 # title_ru: Луна Моун
 # title_en: Mouun's Moon
 # title_zh: 曚云之月

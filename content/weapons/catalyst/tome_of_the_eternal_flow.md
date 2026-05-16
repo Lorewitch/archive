@@ -1,7 +1,7 @@
 # id: tome_of_the_eternal_flow
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/tome_of_the_eternal_flow.png
+# icon: assets/icons/weapons/catalyst/tome_of_the_eternal_flow.webp
 # title_ru: Обряд вечного течения
 # title_en: Tome of the Eternal Flow
 # title_zh: 万世流涌大典

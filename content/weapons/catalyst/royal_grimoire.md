@@ -1,7 +1,7 @@
 # id: royal_grimoire
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/royal_grimoire.png
+# icon: assets/icons/weapons/catalyst/royal_grimoire.webp
 # title_ru: Королевский гримуар
 # title_en: Royal Grimoire
 # title_zh: 宗室秘法录

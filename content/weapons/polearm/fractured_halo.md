@@ -1,7 +1,7 @@
 # id: fractured_halo
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/fractured_halo.png
+# icon: assets/icons/weapons/polearm/fractured_halo.webp
 # title_ru: Расколотый ореол
 # title_en: Fractured Halo
 # title_zh: 支离轮光

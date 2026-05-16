@@ -1,7 +1,7 @@
 # id: prototype_starglitter
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/prototype_starglitter.png
+# icon: assets/icons/weapons/polearm/prototype_starglitter.webp
 # title_ru: Прототип: Звёздный блеск
 # title_en: Prototype Starglitter
 # title_zh: 试作星镰

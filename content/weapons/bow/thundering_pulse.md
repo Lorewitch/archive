@@ -1,7 +1,7 @@
 # id: thundering_pulse
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/thundering_pulse.png
+# icon: assets/icons/weapons/bow/thundering_pulse.webp
 # title_ru: Громовой пульс
 # title_en: Thundering Pulse
 # title_zh: 飞雷之弦振

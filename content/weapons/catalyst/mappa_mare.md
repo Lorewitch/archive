@@ -1,7 +1,7 @@
 # id: mappa_mare
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/mappa_mare.png
+# icon: assets/icons/weapons/catalyst/mappa_mare.webp
 # title_ru: Морской атлас
 # title_en: Mappa Mare
 # title_zh: 万国诸海图谱

@@ -1,7 +1,7 @@
 # id: iron_sting
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/iron_sting.png
+# icon: assets/icons/weapons/sword/iron_sting.webp
 # title_ru: Стальное жало
 # title_en: Iron Sting
 # title_zh: 铁蜂刺

@@ -1,7 +1,7 @@
 # id: the_unforged
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/the_unforged.png
+# icon: assets/icons/weapons/claymore/the_unforged.webp
 # title_ru: Некованый
 # title_en: The Unforged
 # title_zh: 无工之剑

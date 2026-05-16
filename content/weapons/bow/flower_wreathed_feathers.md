@@ -1,7 +1,7 @@
 # id: flower_wreathed_feathers
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/flower_wreathed_feathers.png
+# icon: assets/icons/weapons/bow/flower_wreathed_feathers.webp
 # title_ru: Украшенные цветами перья
 # title_en: Flower-Wreathed Feathers
 # title_zh: 缀花之翎

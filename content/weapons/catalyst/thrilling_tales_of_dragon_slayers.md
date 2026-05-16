@@ -1,7 +1,7 @@
 # id: thrilling_tales_of_dragon_slayers
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/thrilling_tales_of_dragon_slayers.png
+# icon: assets/icons/weapons/catalyst/thrilling_tales_of_dragon_slayers.webp
 # title_ru: Эпос о драконоборцах
 # title_en: Thrilling Tales of Dragon Slayers
 # title_zh: 讨龙英杰谭

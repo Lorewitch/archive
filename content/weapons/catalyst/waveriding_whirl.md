@@ -1,7 +1,7 @@
 # id: waveriding_whirl
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/waveriding_whirl.png
+# icon: assets/icons/weapons/catalyst/waveriding_whirl.webp
 # title_ru: Вихрь на волнах
 # title_en: Waveriding Whirl
 # title_zh: 乘浪的回旋

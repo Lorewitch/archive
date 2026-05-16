@@ -1,7 +1,7 @@
 # id: sturdy_bone
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/sturdy_bone.png
+# icon: assets/icons/weapons/sword/sturdy_bone.webp
 # title_ru: Крепкая кость
 # title_en: Sturdy Bone
 # title_zh: 弥坚骨

@@ -1,7 +1,7 @@
 # id: sapwood_blade
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/sapwood_blade.png
+# icon: assets/icons/weapons/sword/sapwood_blade.webp
 # title_ru: Деревянный клинок
 # title_en: Sapwood Blade
 # title_zh: 原木刀

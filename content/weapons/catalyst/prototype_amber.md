@@ -1,7 +1,7 @@
 # id: prototype_amber
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/prototype_amber.png
+# icon: assets/icons/weapons/catalyst/prototype_amber.webp
 # title_ru: Прототип: Янтарь
 # title_en: Prototype Amber
 # title_zh: 试作金珀

@@ -1,7 +1,7 @@
 # id: surfs_up
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/surfs_up.png
+# icon: assets/icons/weapons/catalyst/surfs_up.webp
 # title_ru: Лови волну
 # title_en: Surf's Up
 # title_zh: 冲浪时光

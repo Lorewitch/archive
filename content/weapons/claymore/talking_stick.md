@@ -1,7 +1,7 @@
 # id: talking_stick
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/talking_stick.png
+# icon: assets/icons/weapons/claymore/talking_stick.webp
 # title_ru: Говорящая палица
 # title_en: Talking Stick
 # title_zh: 聊聊棒

@@ -1,7 +1,7 @@
 # id: finale_of_the_deep
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/finale_of_the_deep.png
+# icon: assets/icons/weapons/sword/finale_of_the_deep.webp
 # title_ru: Грандиозный финал глубин
 # title_en: Finale of the Deep
 # title_zh: 海渊终曲

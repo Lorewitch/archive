@@ -1,7 +1,7 @@
 # id: nocturnes_curtain_call
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/nocturnes_curtain_call.png
+# icon: assets/icons/weapons/catalyst/nocturnes_curtain_call.webp
 # title_ru: Вызов ноктюрна
 # title_en: Nocturne's Curtain Call
 # title_zh: 帷间夜曲

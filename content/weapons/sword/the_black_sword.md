@@ -1,7 +1,7 @@
 # id: the_black_sword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/the_black_sword.png
+# icon: assets/icons/weapons/sword/the_black_sword.webp
 # title_ru: Чёрный меч
 # title_en: The Black Sword
 # title_zh: 黑剑

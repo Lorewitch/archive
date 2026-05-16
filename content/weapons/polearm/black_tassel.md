@@ -1,7 +1,7 @@
 # id: black_tassel
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/black_tassel.png
+# icon: assets/icons/weapons/polearm/black_tassel.webp
 # title_ru: Чёрная кисть
 # title_en: Black Tassel
 # title_zh: 黑缨枪

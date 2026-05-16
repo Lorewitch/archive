@@ -1,7 +1,7 @@
 # id: crimson_moons_semblance
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/crimson_moons_semblance.png
+# icon: assets/icons/weapons/polearm/crimson_moons_semblance.webp
 # title_ru: Очертания алой луны
 # title_en: Crimson Moon’s Semblance
 # title_zh: 赤月之形

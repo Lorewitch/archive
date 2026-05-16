@@ -1,7 +1,7 @@
 # id: redhorn_stonethresher
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/redhorn_stonethresher.png
+# icon: assets/icons/weapons/claymore/redhorn_stonethresher.webp
 # title_ru: Краснорогий камнеруб
 # title_en: Redhorn Stonethresher
 # title_zh: 赤角石溃杵

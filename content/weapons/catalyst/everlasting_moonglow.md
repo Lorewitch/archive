@@ -1,7 +1,7 @@
 # id: everlasting_moonglow
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/everlasting_moonglow.png
+# icon: assets/icons/weapons/catalyst/everlasting_moonglow.webp
 # title_ru: Вечное лунное сияние
 # title_en: Everlasting Moonglow
 # title_zh: 不灭月华

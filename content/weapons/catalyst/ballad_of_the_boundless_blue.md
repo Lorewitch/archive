@@ -1,7 +1,7 @@
 # id: ballad_of_the_boundless_blue
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/ballad_of_the_boundless_blue.png
+# icon: assets/icons/weapons/catalyst/ballad_of_the_boundless_blue.webp
 # title_ru: Песнь необъятной лазури
 # title_en: Ballad of the Boundless Blue
 # title_zh: 无垠蔚蓝之歌

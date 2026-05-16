@@ -1,7 +1,7 @@
 # id: white_tassel
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/white_tassel.png
+# icon: assets/icons/weapons/polearm/white_tassel.webp
 # title_ru: Белая кисть
 # title_en: White Tassel
 # title_zh: 白缨枪

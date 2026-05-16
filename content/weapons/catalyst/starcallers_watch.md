@@ -1,7 +1,7 @@
 # id: starcallers_watch
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/starcallers_watch.png
+# icon: assets/icons/weapons/catalyst/starcallers_watch.webp
 # title_ru: Бдение взывающего к звёздам
 # title_en: Starcaller's Watch
 # title_zh: 祭星者之望

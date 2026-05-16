@@ -1,7 +1,7 @@
 # id: cranes_echoing_call
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/cranes_echoing_call.png
+# icon: assets/icons/weapons/catalyst/cranes_echoing_call.webp
 # title_ru: Звонкий клич журавля
 # title_en: Crane's Echoing Call
 # title_zh: 鹤鸣余音

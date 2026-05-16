@@ -1,7 +1,7 @@
 # id: moonpiercer
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/moonpiercer.png
+# icon: assets/icons/weapons/polearm/moonpiercer.webp
 # title_ru: Пронзающий луну
 # title_en: Moonpiercer
 # title_zh: 贯月矢

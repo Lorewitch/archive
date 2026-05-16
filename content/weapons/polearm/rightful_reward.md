@@ -1,7 +1,7 @@
 # id: rightful_reward
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/rightful_reward.png
+# icon: assets/icons/weapons/polearm/rightful_reward.webp
 # title_ru: Справедливая награда
 # title_en: Rightful Reward
 # title_zh: 公义的酬报

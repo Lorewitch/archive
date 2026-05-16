@@ -1,7 +1,7 @@
 # id: calamity_queller
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/calamity_queller.png
+# icon: assets/icons/weapons/polearm/calamity_queller.webp
 # title_ru: Усмиритель бед
 # title_en: Calamity Queller
 # title_zh: 息灾

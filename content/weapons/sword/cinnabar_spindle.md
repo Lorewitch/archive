@@ -1,7 +1,7 @@
 # id: cinnabar_spindle
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/cinnabar_spindle.png
+# icon: assets/icons/weapons/sword/cinnabar_spindle.webp
 # title_ru: Киноварное веретено
 # title_en: Cinnabar Spindle
 # title_zh: 辰砂之纺锤

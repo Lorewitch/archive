@@ -1,7 +1,7 @@
 # id: prototype_crescent
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/prototype_crescent.png
+# icon: assets/icons/weapons/bow/prototype_crescent.webp
 # title_ru: Прототип: Полумесяц
 # title_en: Prototype Crescent
 # title_zh: 试作澹月

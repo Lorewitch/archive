@@ -1,7 +1,7 @@
 # id: iron_point
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/iron_point.png
+# icon: assets/icons/weapons/polearm/iron_point.webp
 # title_ru: Железный наконечник
 # title_en: Iron Point
 # title_zh: 铁尖枪

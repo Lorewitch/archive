@@ -1,7 +1,7 @@
 # id: silvershower_heartstrings
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/silvershower_heartstrings.png
+# icon: assets/icons/weapons/bow/silvershower_heartstrings.webp
 # title_ru: Сердечные струны дождя
 # title_en: Silvershower Heartstrings
 # title_zh: 白雨心弦

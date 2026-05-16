@@ -1,7 +1,7 @@
 # id: blackcliff_pole
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/blackcliff_pole.png
+# icon: assets/icons/weapons/polearm/blackcliff_pole.webp
 # title_ru: Черногорская пика
 # title_en: Blackcliff Pole
 # title_zh: 黑岩刺枪

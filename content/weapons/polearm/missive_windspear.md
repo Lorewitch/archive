@@ -1,7 +1,7 @@
 # id: missive_windspear
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/missive_windspear.png
+# icon: assets/icons/weapons/polearm/missive_windspear.webp
 # title_ru: Копьё послания ветров
 # title_en: Missive Windspear
 # title_zh: 风信之锋

@@ -1,7 +1,7 @@
 # id: the_bell
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/the_bell.png
+# icon: assets/icons/weapons/claymore/the_bell.webp
 # title_ru: Меч-колокол
 # title_en: The Bell
 # title_zh: 钟剑

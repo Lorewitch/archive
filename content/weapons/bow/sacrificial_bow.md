@@ -1,7 +1,7 @@
 # id: sacrificial_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/sacrificial_bow.png
+# icon: assets/icons/weapons/bow/sacrificial_bow.webp
 # title_ru: Церемониальный лук
 # title_en: Sacrificial Bow
 # title_zh: 祭礼弓

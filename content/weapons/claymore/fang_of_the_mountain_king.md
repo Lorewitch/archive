@@ -1,7 +1,7 @@
 # id: fang_of_the_mountain_king
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/fang_of_the_mountain_king.png
+# icon: assets/icons/weapons/claymore/fang_of_the_mountain_king.webp
 # title_ru: Клык Горного короля
 # title_en: Fang of the Mountain King
 # title_zh: 山王长牙

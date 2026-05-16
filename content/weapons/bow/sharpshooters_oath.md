@@ -1,7 +1,7 @@
 # id: sharpshooters_oath
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/sharpshooters_oath.png
+# icon: assets/icons/weapons/bow/sharpshooters_oath.webp
 # title_ru: Клятва стрелка
 # title_en: Sharpshooter's Oath
 # title_zh: 神射手之誓

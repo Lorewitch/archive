@@ -1,7 +1,7 @@
 # id: deathmatch
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/deathmatch.png
+# icon: assets/icons/weapons/polearm/deathmatch.webp
 # title_ru: Смертельный бой
 # title_en: Deathmatch
 # title_zh: 决斗之枪

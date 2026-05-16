@@ -1,7 +1,7 @@
 # id: jadefalls_splendor
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/jadefalls_splendor.png
+# icon: assets/icons/weapons/catalyst/jadefalls_splendor.webp
 # title_ru: Великолепие лазурного свода
 # title_en: Jadefall's Splendor
 # title_zh: 碧落之珑

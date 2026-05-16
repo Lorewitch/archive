@@ -1,7 +1,7 @@
 # id: portable_power_saw
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/portable_power_saw.png
+# icon: assets/icons/weapons/claymore/portable_power_saw.webp
 # title_ru: Переносная мотопила
 # title_en: Portable Power Saw
 # title_zh: 便携动力锯

@@ -1,7 +1,7 @@
 # id: snow_tombed_starsilver
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/snow_tombed_starsilver.png
+# icon: assets/icons/weapons/claymore/snow_tombed_starsilver.webp
 # title_ru: Заснеженное звёздное серебро
 # title_en: Snow-Tombed Starsilver
 # title_zh: 雪葬的星银

@@ -1,7 +1,7 @@
 # id: festering_desire
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/festering_desire.png
+# icon: assets/icons/weapons/sword/festering_desire.webp
 # title_ru: Осквернённое желание
 # title_en: Festering Desire
 # title_zh: 腐殖之剑

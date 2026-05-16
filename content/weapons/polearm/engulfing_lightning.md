@@ -1,7 +1,7 @@
 # id: engulfing_lightning
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/engulfing_lightning.png
+# icon: assets/icons/weapons/polearm/engulfing_lightning.webp
 # title_ru: Сияющая жатва
 # title_en: Engulfing Lightning
 # title_zh: 薙草之稻光

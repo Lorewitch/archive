@@ -1,7 +1,7 @@
 # id: hakushin_ring
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/hakushin_ring.png
+# icon: assets/icons/weapons/catalyst/hakushin_ring.webp
 # title_ru: Кольцо Хакусин
 # title_en: Hakushin Ring
 # title_zh: 白辰之环

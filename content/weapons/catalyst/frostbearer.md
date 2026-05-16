@@ -1,7 +1,7 @@
 # id: frostbearer
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/frostbearer.png
+# icon: assets/icons/weapons/catalyst/frostbearer.webp
 # title_ru: Плод вечной мерзлоты
 # title_en: Frostbearer
 # title_zh: 忍冬之果

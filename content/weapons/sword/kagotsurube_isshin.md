@@ -1,7 +1,7 @@
 # id: kagotsurube_isshin
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/kagotsurube_isshin.png
+# icon: assets/icons/weapons/sword/kagotsurube_isshin.webp
 # title_ru: Кагоцурубэ Иссин
 # title_en: Kagotsurube Isshin
 # title_zh: 笼钓瓶一心

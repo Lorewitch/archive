@@ -1,7 +1,7 @@
 # id: prospectors_drill
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/prospectors_drill.png
+# icon: assets/icons/weapons/polearm/prospectors_drill.webp
 # title_ru: Бур рудоискателя
 # title_en: Prospector's Drill
 # title_zh: 勘探钻机

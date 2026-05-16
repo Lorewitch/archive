@@ -1,7 +1,7 @@
 # id: rainbow_serpents_rain_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/rainbow_serpents_rain_bow.png
+# icon: assets/icons/weapons/bow/rainbow_serpents_rain_bow.webp
 # title_ru: Струны дождя радужного змея
 # title_en: Rainbow Serpent's Rain Bow
 # title_zh: 虹蛇的雨弦

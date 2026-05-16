@@ -1,7 +1,7 @@
 # id: cashflow_supervision
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/cashflow_supervision.png
+# icon: assets/icons/weapons/catalyst/cashflow_supervision.webp
 # title_ru: Казначейский надзор
 # title_en: Cashflow Supervision
 # title_zh: 金流监督

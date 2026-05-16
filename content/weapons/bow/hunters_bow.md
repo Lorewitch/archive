@@ -1,7 +1,7 @@
 # id: hunters_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/hunters_bow.png
+# icon: assets/icons/weapons/bow/hunters_bow.webp
 # title_ru: Лук охотника
 # title_en: Hunter's Bow
 # title_zh: 猎弓

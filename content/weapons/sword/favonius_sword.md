@@ -1,7 +1,7 @@
 # id: favonius_sword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/favonius_sword.png
+# icon: assets/icons/weapons/sword/favonius_sword.webp
 # title_ru: Меч Фавония
 # title_en: Favonius Sword
 # title_zh: 西风剑

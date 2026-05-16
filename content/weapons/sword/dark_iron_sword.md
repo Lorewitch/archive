@@ -1,7 +1,7 @@
 # id: dark_iron_sword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/dark_iron_sword.png
+# icon: assets/icons/weapons/sword/dark_iron_sword.webp
 # title_ru: Тёмный железный меч
 # title_en: Dark Iron Sword
 # title_zh: 暗铁剑

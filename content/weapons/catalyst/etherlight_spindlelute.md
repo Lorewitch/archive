@@ -1,7 +1,7 @@
 # id: etherlight_spindlelute
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/etherlight_spindlelute.png
+# icon: assets/icons/weapons/catalyst/etherlight_spindlelute.webp
 # title_ru: Лютня ткача света
 # title_en: Etherlight Spindlelute
 # title_zh: 天光的纺琴

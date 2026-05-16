@@ -1,7 +1,7 @@
 # id: staff_of_homa
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/staff_of_homa.png
+# icon: assets/icons/weapons/polearm/staff_of_homa.webp
 # title_ru: Посох Хомы
 # title_en: Staff of Homa
 # title_zh: 护摩之杖

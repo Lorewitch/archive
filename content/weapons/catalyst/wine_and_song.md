@@ -1,7 +1,7 @@
 # id: wine_and_song
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/wine_and_song.png
+# icon: assets/icons/weapons/catalyst/wine_and_song.webp
 # title_ru: Вино и песни
 # title_en: Wine and Song
 # title_zh: 暗巷的酒与诗

@@ -1,7 +1,7 @@
 # id: wandering_evenstar
 # category: weapons
 # weapon_type: catalyst
-# icon: assets/icons/weapons/catalyst/wandering_evenstar.png
+# icon: assets/icons/weapons/catalyst/wandering_evenstar.webp
 # title_ru: Скитающаяся звезда
 # title_en: Wandering Evenstar
 # title_zh: 流浪的晚星

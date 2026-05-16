@@ -1,7 +1,7 @@
 # id: beacon_of_the_reed_sea
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/beacon_of_the_reed_sea.png
+# icon: assets/icons/weapons/claymore/beacon_of_the_reed_sea.webp
 # title_ru: Маяк тростникового моря
 # title_en: Beacon of the Reed Sea
 # title_zh: 苇海信标

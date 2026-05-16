@@ -1,7 +1,7 @@
 # id: skyrider_sword
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/skyrider_sword.png
+# icon: assets/icons/weapons/sword/skyrider_sword.webp
 # title_ru: Меч небесного всадника
 # title_en: Skyrider Sword
 # title_zh: 飞天御剑

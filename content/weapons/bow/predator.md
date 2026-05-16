@@ -1,7 +1,7 @@
 # id: predator
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/predator.png
+# icon: assets/icons/weapons/bow/predator.webp
 # title_ru: Хищник
 # title_en: Predator
 # title_zh: 掠食者

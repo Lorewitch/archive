@@ -1,7 +1,7 @@
 # id: hamayumi
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/hamayumi.png
+# icon: assets/icons/weapons/bow/hamayumi.webp
 # title_ru: Хамаюми
 # title_en: Hamayumi
 # title_zh: 破魔之弓

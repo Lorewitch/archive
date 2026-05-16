@@ -1,7 +1,7 @@
 # id: waster_greatsword
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/waster_greatsword.png
+# icon: assets/icons/weapons/claymore/waster_greatsword.webp
 # title_ru: Двуручный меч богатыря
 # title_en: Waster Greatsword
 # title_zh: 训练大剑

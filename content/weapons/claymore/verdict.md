@@ -1,7 +1,7 @@
 # id: verdict
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/verdict.png
+# icon: assets/icons/weapons/claymore/verdict.webp
 # title_ru: Вердикт
 # title_en: Verdict
 # title_zh: 裁断

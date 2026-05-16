@@ -1,7 +1,7 @@
 # id: recurve_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/recurve_bow.png
+# icon: assets/icons/weapons/bow/recurve_bow.webp
 # title_ru: Изогнутый лук
 # title_en: Recurve Bow
 # title_zh: 反曲弓

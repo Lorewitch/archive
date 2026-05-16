@@ -1,7 +1,7 @@
 # id: sacrificers_staff
 # category: weapons
 # weapon_type: polearm
-# icon: assets/icons/weapons/polearm/sacrificers_staff.png
+# icon: assets/icons/weapons/polearm/sacrificers_staff.webp
 # title_ru: Посох жертвующей
 # title_en: Sacrificer's Staff
 # title_zh: 圣祭者的辉杖

@@ -1,7 +1,7 @@
 # id: debate_club
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/debate_club.png
+# icon: assets/icons/weapons/claymore/debate_club.webp
 # title_ru: Дубина переговоров
 # title_en: Debate Club
 # title_zh: 以理服人

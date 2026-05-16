@@ -1,7 +1,7 @@
 # id: lithic_blade
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/claymore/lithic_blade.png
+# icon: assets/icons/weapons/claymore/lithic_blade.webp
 # title_ru: Каменный меч
 # title_en: Lithic Blade
 # title_zh: 千岩古剑

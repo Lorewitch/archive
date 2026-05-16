@@ -1,7 +1,7 @@
 # id: raven_bow
 # category: weapons
 # weapon_type: bow
-# icon: assets/icons/weapons/bow/raven_bow.png
+# icon: assets/icons/weapons/bow/raven_bow.webp
 # title_ru: Лук ворона
 # title_en: Raven Bow
 # title_zh: 鸦羽弓

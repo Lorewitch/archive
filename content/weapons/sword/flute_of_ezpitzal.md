@@ -1,7 +1,7 @@
 # id: flute_of_ezpitzal
 # category: weapons
 # weapon_type: sword
-# icon: assets/icons/weapons/sword/flute_of_ezpitzal.png
+# icon: assets/icons/weapons/sword/flute_of_ezpitzal.webp
 # title_ru: Флейта Эспицаль
 # title_en: Flute of Ezpitzal
 # title_zh: 息燧之笛
