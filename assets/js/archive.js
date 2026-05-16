@@ -402,7 +402,7 @@ const SECTIONS = [
     data: () => BOOKS,
     filter: "region",
     filterLabel: "Все регионы",
-    columns: ["Название", "Томов", "Тип", "Регион"],
+    columns: ["Название", "Частей", "Тип", "Регион"],
     empty: "В этом разделе пока нет текстов.",
     row: item => [
       renderTitleCell(item),
@@ -1461,7 +1461,7 @@ function renderBookDetail(book) {
         <div class="volume-strip" aria-label="Оглавление томов">
           <button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>
           <div class="parts-row">
-            <span class="toolbar-label">Тома</span>
+            <span class="toolbar-label">Части</span>
             <div class="volume-scroll">
               ${book.volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("")}
             </div>
@@ -1475,7 +1475,7 @@ function renderBookDetail(book) {
         <summary>Сведения для каталога и фильтров</summary>
         <div class="catalog-meta-body">
           <div><strong>Регион:</strong> ${escapeHtml(book.region || "—")}</div>
-          <div><strong>Томов:</strong> ${escapeHtml(book.volume_count || book.volumes.length)}</div>
+          <div><strong>Частей:</strong> ${escapeHtml(book.volume_count || book.volumes.length)}</div>
           <div><strong>Языки:</strong> ${(book.languages || []).map(langLabel).join(" · ")}</div>
           <div class="tag-list">${(book.tags || []).map(tag => `<span class="tiny-pill">#${escapeHtml(tag)}</span>`).join("")}</div>
         </div>
