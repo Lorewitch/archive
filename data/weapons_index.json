@@ -11,6 +11,7 @@
     "weapon_type": "bow",
     "type": "bow",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "лук",
       "линнея",
@@ -35,6 +36,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Клоринда"
     ],
@@ -57,6 +59,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [],
     "languages": [
       "ru",
@@ -77,6 +80,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Дурин"
     ],
@@ -99,6 +103,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Скирк",
       "ангел",
@@ -123,6 +128,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Кадзуха"
     ],
@@ -145,6 +151,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Аято"
     ],
@@ -167,6 +174,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Нилу"
     ],
@@ -189,6 +197,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Аль-Хайтам",
       "Хайтам"
@@ -212,6 +221,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "белая лошадь",
       "Цзы Бай"
@@ -235,6 +245,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Аяка"
     ],
@@ -257,6 +268,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Шилонен"
     ],
@@ -279,6 +291,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [],
     "languages": [
       "ru",
@@ -299,6 +312,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [],
     "languages": [
       "ru",
@@ -319,6 +333,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Фурина"
     ],
@@ -341,6 +356,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [],
     "languages": [
       "ru",
@@ -361,6 +377,7 @@
     "weapon_type": "sword",
     "type": "sword",
     "rarity": 5,
+    "game_version": "",
     "tags": [
       "Тиори"
     ],

@@ -9,6 +9,7 @@
   },
   "region": "",
   "rarity": null,
+  "game_version": "",
   "tags": [
     "Маски хиличурлов",
     "обычные противники"
@@ -72,6 +73,7 @@
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -98,6 +100,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -141,6 +144,7 @@
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -167,6 +171,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -210,6 +215,7 @@
       "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -236,6 +242,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -279,6 +286,7 @@
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -305,6 +313,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -348,6 +357,7 @@
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -374,6 +384,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -417,6 +428,7 @@
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -443,6 +455,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -486,6 +499,7 @@
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -512,6 +526,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -555,6 +570,7 @@
       "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -581,6 +597,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -624,6 +641,7 @@
       "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -650,6 +668,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -693,6 +712,7 @@
       "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -719,6 +739,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -762,6 +783,7 @@
       "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -788,6 +810,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -831,6 +854,7 @@
       "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -857,6 +881,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -900,6 +925,7 @@
       "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -926,6 +952,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -969,6 +996,7 @@
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -995,6 +1023,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1038,6 +1067,7 @@
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1064,6 +1094,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1107,6 +1138,7 @@
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1133,6 +1165,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1176,6 +1209,7 @@
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1202,6 +1236,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1245,6 +1280,7 @@
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1271,6 +1307,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1314,6 +1351,7 @@
       "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1340,6 +1378,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1383,6 +1422,7 @@
       "icon": "assets/icons/enemies/common_enemies/frostarm_lawachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1409,6 +1449,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1452,6 +1493,7 @@
       "icon": "assets/icons/enemies/common_enemies/stonehide_lawachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1478,6 +1520,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1521,6 +1564,7 @@
       "icon": "assets/icons/enemies/common_enemies/anemo_samachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1547,6 +1591,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1590,6 +1635,7 @@
       "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1616,6 +1662,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1659,6 +1706,7 @@
       "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1685,6 +1733,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1728,6 +1777,7 @@
       "icon": "assets/icons/enemies/common_enemies/hydro_samachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1754,6 +1804,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1797,6 +1848,7 @@
       "icon": "assets/icons/enemies/common_enemies/geo_samachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1823,6 +1875,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",
@@ -1866,6 +1919,7 @@
       "icon": "assets/icons/enemies/common_enemies/cryo_samachurl.webp",
       "enemy_group": "hilichurls",
       "region": "Тейват",
+      "game_version": "",
       "languages": [
         "ru",
         "en",
@@ -1892,6 +1946,7 @@
           "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
           "item_group": "common_enemies",
           "entry_type": "enemy_drops",
+          "game_version": "",
           "materials": [
             {
               "key": "damaged_mask",

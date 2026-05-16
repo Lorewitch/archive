@@ -9,6 +9,7 @@
       "zh": "丘丘人的面具"
     },
     "region": "",
+    "game_version": "",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
     "item_type": "",
@@ -368,6 +369,7 @@
       "zh": "「月光」天赋书"
     },
     "region": "Нод-Край",
+    "game_version": "",
     "item_group": "development_materials",
     "entry_type": "material_set",
     "item_type": "",
@@ -434,6 +436,7 @@
       "zh": "月落银"
     },
     "region": "Нод-Край",
+    "game_version": "",
     "item_group": "teyvat_resources",
     "entry_type": "item",
     "item_type": "local_specialty",
@@ -467,6 +470,7 @@
       "zh": "赝月的异端者"
     },
     "region": "Нод-Край",
+    "game_version": "",
     "item_group": "weekly_bosses",
     "entry_type": "enemy_drops",
     "item_type": "",
@@ -529,6 +533,7 @@
       "zh": "蕴光月守宫"
     },
     "region": "Нод-Край",
+    "game_version": "",
     "item_group": "world_bosses",
     "entry_type": "enemy_drops",
     "item_type": "",

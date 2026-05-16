@@ -11,6 +11,7 @@
       "zh": "丘丘风行游侠"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Анемо хиличурл-изгой",
       "Anemo Hilichurl Rogue",
@@ -36,6 +37,7 @@
       "zh": "风丘丘萨满"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Анемо шамачурл",
       "Anemo Samachurl",
@@ -61,6 +63,7 @@
       "zh": "火斧丘丘暴徒"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Митачурл с огненным топором",
       "Blazing Axe Mitachurl",
@@ -86,6 +89,7 @@
       "zh": "雷斧丘丘暴徒"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Митачурл с электрическим топором",
       "Crackling Axe Mitachurl",
@@ -111,6 +115,7 @@
       "zh": "冰弹丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Крио хиличурл-гренадёр",
       "Cryo Hilichurl Grenadier",
@@ -136,6 +141,7 @@
       "zh": "冰箭丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Крио хиличурл-стрелок",
       "Cryo Hilichurl Shooter",
@@ -161,6 +167,7 @@
       "zh": "冰丘丘萨满"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Крио шамачурл",
       "Cryo Samachurl",
@@ -186,6 +193,7 @@
       "zh": "草丘丘萨满"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Дендро шамачурл",
       "Dendro Samachurl",
@@ -211,6 +219,7 @@
       "zh": "雷弹丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Электро хиличурл-гренадёр",
       "Electro Hilichurl Grenadier",
@@ -236,6 +245,7 @@
       "zh": "雷箭丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Электро хиличурл-стрелок",
       "Electro Hilichurl Shooter",
@@ -261,6 +271,7 @@
       "zh": "雷丘丘萨满"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Электро шамачурл",
       "Electro Samachurl",
@@ -286,6 +297,7 @@
       "zh": "丘丘霜铠王"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Лавачурл с инеевым панцирем",
       "Frostarm Lawachurl",
@@ -311,6 +323,7 @@
       "zh": "岩丘丘萨满"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Гео шамачурл",
       "Geo Samachurl",
@@ -336,6 +349,7 @@
       "zh": "丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл",
       "Hilichurl",
@@ -361,6 +375,7 @@
       "zh": "冲锋丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл-берсерк",
       "Hilichurl Berserker",
@@ -386,6 +401,7 @@
       "zh": "打手丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл-боец",
       "Hilichurl Fighter",
@@ -411,6 +427,7 @@
       "zh": "爆弹丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл-гренадёр",
       "Hilichurl Grenadier",
@@ -436,6 +453,7 @@
       "zh": "射手丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл-стрелок",
       "Hilichurl Shooter",
@@ -461,6 +479,7 @@
       "zh": "丘丘水行游侠"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Гидро хиличурл-изгой",
       "Hydro Hilichurl Rogue",
@@ -486,6 +505,7 @@
       "zh": "水丘丘萨满"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Гидро шамачурл",
       "Hydro Samachurl",
@@ -511,6 +531,7 @@
       "zh": "冰盾丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл с ледяным щитом",
       "Ice Shield Hilichurl Guard",
@@ -536,6 +557,7 @@
       "zh": "冰盾丘丘暴徒"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Митачурл с ледяным щитом",
       "Ice Shieldwall Mitachurl",
@@ -561,6 +583,7 @@
       "zh": "火箭丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Пиро хиличурл-стрелок",
       "Pyro Hilichurl Shooter",
@@ -586,6 +609,7 @@
       "zh": "岩盾丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл с каменным щитом",
       "Rock Shield Hilichurl Guard",
@@ -611,6 +635,7 @@
       "zh": "岩盾丘丘暴徒"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Митачурл с каменным щитом",
       "Rock Shieldwall Mitachurl",
@@ -636,6 +661,7 @@
       "zh": "丘丘岩盔王"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Лавачурл с каменным панцирем",
       "Stonehide Lawachurl",
@@ -661,6 +687,7 @@
       "zh": "丘丘雷兜王"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Лавачурл с громовым шлемом",
       "Thunderhelm Lawachurl",
@@ -686,6 +713,7 @@
       "zh": "木盾丘丘人"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Хиличурл с деревянным щитом",
       "Wooden Shield Hilichurl Guard",
@@ -711,6 +739,7 @@
       "zh": "木盾丘丘暴徒"
     },
     "region": "Тейват",
+    "game_version": "",
     "tags": [
       "Митачурл с деревянным щитом",
       "Wooden Shieldwall Mitachurl",

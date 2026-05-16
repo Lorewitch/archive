@@ -10,6 +10,7 @@
     "zh": "火斧丘丘暴徒"
   },
   "region": "Тейват",
+  "game_version": "",
   "tags": [
     "Митачурл с огненным топором",
     "Blazing Axe Mitachurl",
@@ -41,6 +42,7 @@
       "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
       "item_group": "common_enemies",
       "entry_type": "enemy_drops",
+      "game_version": "",
       "materials": [
         {
           "key": "damaged_mask",
