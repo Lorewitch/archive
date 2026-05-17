@@ -9,6 +9,9 @@ const SECTION_LOADS = new Map();
 const SEARCH_TEXT_CACHE = new WeakMap();
 const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
 let renderSequence = 0;
+let activeDetail = null;
+let backgroundPrefetchStarted = false;
+let lastPrefetchedEntryKey = "";
 
 function currentAssetVersion() {
   const script = document.currentScript || document.querySelector('script[src*="archive.js"]');
@@ -251,6 +254,8 @@ function itemGroupTypeTitle(item, lang = "ru") {
 }
 
 function itemTypeFilterValue(item, config = getSectionConfig()) {
+  const prepared = String(item?.filter_type || "").trim();
+  if (prepared) return prepared;
   if (config.id === "books") return bookTypeValue(item);
   if (config.id === "weapons") return String(item?.rarity || "");
   if (item?.item_group === "development_materials") return normalizeDevelopmentMaterialType(item.material_type);
@@ -356,10 +361,10 @@ function itemCommonEnemyTypes(item) {
   if (!item || typeof item !== "object") return new Set();
   if (COMMON_ENEMY_TYPES_CACHE.has(item)) return COMMON_ENEMY_TYPES_CACHE.get(item);
 
-  const enemies = droppedByEnemies(item);
-  const result = new Set(enemies
-    .map(enemy => normalizeCommonEnemyType(enemy.enemy_group))
-    .filter(Boolean));
+  const prepared = Array.isArray(item.enemy_type_keys) ? item.enemy_type_keys : [];
+  const result = prepared.length
+    ? new Set(prepared.map(normalizeCommonEnemyType).filter(Boolean))
+    : new Set(droppedByEnemies(item).map(enemy => normalizeCommonEnemyType(enemy.enemy_group)).filter(Boolean));
 
   COMMON_ENEMY_TYPES_CACHE.set(item, result);
   return result;
@@ -950,11 +955,6 @@ function renderDroppedBySection(item) {
 }
 
 
-function bindDroppedByEnemies(item) {
-  // Common enemy cards are rendered expanded by default.
-}
-
-
 
 function closeMenu() {
   document.body.classList.remove("menu-open");
@@ -1047,10 +1047,6 @@ function renderNav() {
       <span>›</span>
     </button>
   `).join("");
-
-  nav.querySelectorAll("[data-section]").forEach(button => {
-    button.addEventListener("click", () => setRoute(button.dataset.section));
-  });
 }
 
 function collectionForCatalog(config) {
@@ -1075,10 +1071,10 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
     if (isCommonEnemyCatalog(config)) {
       matchesMainFilter = itemCommonEnemyTypes(item).has(normalizeCommonEnemyType(selected));
     } else if (config.filter === "region") {
-      matchesMainFilter = String(item.region || "")
-        .split(",")
-        .map(region => region.trim())
-        .includes(selected);
+      const regions = Array.isArray(item.filter_regions)
+        ? item.filter_regions
+        : String(item.region || "").split(",").map(region => region.trim()).filter(Boolean);
+      matchesMainFilter = regions.includes(selected);
     } else {
       const value = item[config.filter] || item.type || item.item_type || item.weapon_type || item.category_type;
       matchesMainFilter = value === selected;
@@ -1157,8 +1153,13 @@ function compareByTitle(a, b) {
   return collator.compare(titleOf(a, "ru"), titleOf(b, "ru"));
 }
 
+function entrySortVersion(item) {
+  const prepared = Number(item?.sort_version);
+  return Number.isFinite(prepared) ? prepared : gameVersionSortValue(item?.game_version);
+}
+
 function compareByGameVersionDesc(a, b) {
-  const versionResult = gameVersionSortValue(b.game_version) - gameVersionSortValue(a.game_version);
+  const versionResult = entrySortVersion(b) - entrySortVersion(a);
   return versionResult || compareByTitle(a, b);
 }
 
@@ -1193,13 +1194,14 @@ function catalogRow(item, config) {
     : config.id === "items" && itemGroupUsesTypeFilters(state.subsection) ? "cols-items-typed"
     : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   return `
-    <div class="catalog-row item ${rowClass}" data-entry-id="${escapeHtml(item.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
+    <div class="catalog-row item ${rowClass}" data-entry-id="${escapeHtml(item.id)}" data-section-id="${escapeHtml(config.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
       ${config.row(item).map(cell => `<div>${cell}</div>`).join("")}
     </div>
   `;
 }
 
 function renderGroupSelector(config) {
+  activeDetail = null;
   const groups = config.groups || [];
   app.innerHTML = `
     <section class="page-card catalog-page">
@@ -1221,10 +1223,6 @@ function renderGroupSelector(config) {
       </div>
     </section>
   `;
-
-  document.querySelectorAll("[data-group]").forEach(button => {
-    button.addEventListener("click", () => setRoute(config.id, null, button.dataset.group));
-  });
 }
 
 function catalogPageSize(config) {
@@ -1269,23 +1267,6 @@ function renderPaginationControls(config, currentPage, totalPages, totalRows) {
   `;
 }
 
-function bindPagination(config) {
-  document.querySelectorAll("[data-catalog-page]").forEach(button => {
-    button.addEventListener("click", () => {
-      const page = Number(button.dataset.catalogPage);
-      if (!Number.isFinite(page)) return;
-      state.filters[config.id].page = page;
-      updateCatalogTable(config);
-    });
-  });
-
-  document.getElementById("catalog-page-size")?.addEventListener("change", event => {
-    state.filters[config.id].pageSize = Number(event.target.value) || DEFAULT_CATALOG_PAGE_SIZE;
-    state.filters[config.id].page = 1;
-    updateCatalogTable(config);
-  });
-}
-
 function renderCatalogTable(config) {
   const allRows = filteredEntries(config);
   const filterState = state.filters[config.id];
@@ -1323,6 +1304,7 @@ function renderCatalogTable(config) {
 }
 
 function renderCatalog(config) {
+  activeDetail = null;
   const filterState = state.filters[config.id];
   const options = optionsFor(config);
   const allowedFilters = new Set(["all", ...options.map(([value]) => value)]);
@@ -1362,16 +1344,11 @@ function renderCatalog(config) {
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
     </section>
   `;
-
-  document.getElementById("back-groups")?.addEventListener("click", () => setRoute(config.id));
-  bindCatalog(config);
 }
 
-function updateCatalogTable(config) {
-  document.getElementById("catalog-holder").innerHTML = renderCatalogTable(config);
-  bindCatalogRows(config);
-  bindPagination(config);
-  document.getElementById("sort-title")?.addEventListener("click", () => toggleSort(config));
+function updateCatalogTable(config = getSectionConfig()) {
+  const holder = document.getElementById("catalog-holder");
+  if (holder) holder.innerHTML = renderCatalogTable(config);
 }
 
 function toggleSort(config) {
@@ -1381,73 +1358,8 @@ function toggleSort(config) {
   updateCatalogTable(config);
 }
 
-function bindCatalogRows(config) {
-  document.querySelectorAll("[data-entry-id]").forEach(row => {
-    row.addEventListener("click", event => {
-      if (event.target.closest("button")) return;
-      setRoute(config.id, row.dataset.entryId, state.subsection);
-    });
-    row.addEventListener("keydown", event => {
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        setRoute(config.id, row.dataset.entryId, state.subsection);
-      }
-    });
-  });
-}
-
-function bindCatalog(config) {
-  const filterState = state.filters[config.id];
-  const search = document.getElementById("catalog-search");
-  const filter = document.getElementById("catalog-filter");
-  const clearSearch = document.getElementById("clear-search");
-
-  const debouncedUpdateCatalog = debounce(() => updateCatalogTable(config));
-
-  search?.addEventListener("input", event => {
-    filterState.query = event.target.value;
-    filterState.page = 1;
-    clearSearch?.classList.toggle("visible", Boolean(filterState.query));
-    debouncedUpdateCatalog();
-  });
-
-  clearSearch?.addEventListener("click", () => {
-    filterState.query = "";
-    filterState.page = 1;
-    if (search) {
-      search.value = "";
-      search.focus();
-    }
-    clearSearch.classList.remove("visible");
-    updateCatalogTable(config);
-  });
-
-  filter?.addEventListener("change", event => {
-    filterState.filter = event.target.value;
-    filterState.page = 1;
-    updateCatalogTable(config);
-  });
-
-  document.querySelectorAll(".type-filter-chip input").forEach(input => {
-    input.addEventListener("change", () => {
-      const checked = Array.from(document.querySelectorAll(".type-filter-chip input:checked")).map(item => item.value);
-      filterState.page = 1;
-      if (config.id === "items") {
-        if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
-        filterState.typeFiltersByGroup[state.subsection] = checked.length ? checked : [];
-      } else {
-        filterState.typeFilters = checked.length ? checked : [];
-      }
-      updateCatalogTable(config);
-    });
-  });
-
-  document.getElementById("sort-title")?.addEventListener("click", () => toggleSort(config));
-  bindCatalogRows(config);
-  bindPagination(config);
-}
-
 function renderBookDetail(book) {
+  activeDetail = { type: "book", data: book };
   app.innerHTML = `
     <section class="page-card book-page">
       <button class="back-link" id="back-books" type="button">← Назад к списку книг</button>
@@ -1483,8 +1395,6 @@ function renderBookDetail(book) {
 
     </section>
   `;
-
-  bindBookDetail(book);
 }
 
 function renderTextArea(book) {
@@ -1530,6 +1440,7 @@ function artifactPartTitle(part, lang = state.lang) {
 }
 
 function renderArtifactDetail(artifact) {
+  activeDetail = { type: "artifact", data: artifact };
   const parts = Array.isArray(artifact.parts) ? artifact.parts : [];
   if (!parts.length) {
     renderGenericDetail(artifact, getSectionConfig("artifacts"));
@@ -1574,8 +1485,6 @@ function renderArtifactDetail(artifact) {
       </details>
     </section>
   `;
-
-  bindArtifactDetail(artifact);
 }
 
 function renderArtifactTextArea(artifact) {
@@ -1614,30 +1523,6 @@ function renderArtifactTextArea(artifact) {
       </article>
     `;
   }).join("");
-}
-
-function bindArtifactDetail(artifact) {
-  document.getElementById("back-artifacts")?.addEventListener("click", () => setRoute("artifacts", null, state.subsection));
-
-  document.getElementById("toggle-artifact-read-all")?.addEventListener("click", () => {
-    state.artifactReadAll = !state.artifactReadAll;
-    preserveScrollRender(() => renderArtifactDetail(artifact));
-  });
-
-  document.querySelectorAll("[data-artifact-part]").forEach(button => {
-    button.addEventListener("click", () => {
-      state.artifactPart = button.dataset.artifactPart;
-      state.artifactReadAll = false;
-      preserveScrollRender(() => renderArtifactDetail(artifact));
-    });
-  });
-
-  document.querySelectorAll("[data-lang]").forEach(button => {
-    button.addEventListener("click", () => {
-      state.lang = button.dataset.lang;
-      preserveScrollRender(() => renderArtifactDetail(artifact));
-    });
-  });
 }
 
 function localizedEntryText(item) {
@@ -1701,6 +1586,7 @@ function fitEnemyDescriptionPanel() {
 }
 
 function renderEnemyDropsDetail(item, config) {
+  activeDetail = { type: "enemyDrops", data: item, configId: config.id };
   const materials = Array.isArray(item.materials) ? item.materials : [];
   if (!materials.length) {
     renderGenericDetail(item, config);
@@ -1771,7 +1657,8 @@ function renderEnemyDropsDetail(item, config) {
     </section>
   `;
 
-  bindEnemyDropsDetail(item, config);
+  fitItemMaterialTabs();
+  requestAnimationFrame(fitEnemyDescriptionPanel);
 }
 
 
@@ -1844,46 +1731,8 @@ function fitItemMaterialTabs() {
   });
 }
 
-function bindEnemyDropsDetail(item, config) {
-  fitItemMaterialTabs();
-  bindDroppedByEnemies(item);
-  requestAnimationFrame(fitEnemyDescriptionPanel);
-
-  document.querySelectorAll(".enemy-description-toggle").forEach(button => {
-    button.addEventListener("click", () => {
-      const panel = button.closest(".enemy-description-panel");
-      if (!panel) return;
-
-      const isCollapsed = panel.classList.toggle("is-collapsed");
-      button.setAttribute("aria-expanded", String(!isCollapsed));
-      button.textContent = isCollapsed ? "Показать полностью" : "Свернуть";
-    });
-  });
-
-  document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id, null, state.subsection));
-
-  document.getElementById("toggle-item-read-all")?.addEventListener("click", () => {
-    state.itemReadAll = !state.itemReadAll;
-    preserveScrollRender(() => renderEnemyDropsDetail(item, config));
-  });
-
-  document.querySelectorAll("[data-item-material]").forEach(button => {
-    button.addEventListener("click", () => {
-      state.itemMaterial = button.dataset.itemMaterial;
-      state.itemReadAll = false;
-      preserveScrollRender(() => renderEnemyDropsDetail(item, config));
-    });
-  });
-
-  document.querySelectorAll("[data-lang]").forEach(button => {
-    button.addEventListener("click", () => {
-      state.lang = button.dataset.lang;
-      preserveScrollRender(() => renderEnemyDropsDetail(item, config));
-    });
-  });
-}
-
 function renderGenericDetail(item, config) {
+  activeDetail = { type: "generic", data: item, configId: config.id };
   if (!item) {
     renderError("Запись не найдена.");
     return;
@@ -1950,15 +1799,6 @@ function renderGenericDetail(item, config) {
       </article>
     </section>
   `;
-
-  document.getElementById("back-section")?.addEventListener("click", () => setRoute(config.id, null, state.subsection));
-  bindDroppedByEnemies(item);
-  document.querySelectorAll("[data-lang]").forEach(button => {
-    button.addEventListener("click", () => {
-      state.lang = button.dataset.lang;
-      preserveScrollRender(() => renderGenericDetail(item, config));
-    });
-  });
 }
 
 function preserveScrollRender(renderFn) {
@@ -1968,29 +1808,249 @@ function preserveScrollRender(renderFn) {
   requestAnimationFrame(() => window.scrollTo(x, y));
 }
 
-function bindBookDetail(book) {
-  document.getElementById("back-books")?.addEventListener("click", () => setRoute("books"));
+function currentCatalogConfig() {
+  return getSectionConfig();
+}
 
-  document.getElementById("toggle-read-all")?.addEventListener("click", () => {
+function currentFilterState() {
+  return state.filters[currentCatalogConfig().id];
+}
+
+const debouncedCatalogUpdate = debounce(() => updateCatalogTable(currentCatalogConfig()));
+
+function renderActiveDetail() {
+  if (!activeDetail) {
+    render();
+    return;
+  }
+
+  const config = getSectionConfig(activeDetail.configId || state.section);
+  if (activeDetail.type === "book") renderBookDetail(activeDetail.data);
+  if (activeDetail.type === "artifact") renderArtifactDetail(activeDetail.data);
+  if (activeDetail.type === "enemyDrops") renderEnemyDropsDetail(activeDetail.data, config);
+  if (activeDetail.type === "generic") renderGenericDetail(activeDetail.data, config);
+}
+
+function rerenderActiveDetailPreservingScroll() {
+  preserveScrollRender(renderActiveDetail);
+}
+
+function handleNavClick(event) {
+  const button = event.target.closest("[data-section]");
+  if (!button) return;
+  setRoute(button.dataset.section);
+}
+
+function handleAppClick(event) {
+  const enemyToggle = event.target.closest(".enemy-description-toggle");
+  if (enemyToggle) {
+    const panel = enemyToggle.closest(".enemy-description-panel");
+    if (!panel) return;
+    const isCollapsed = panel.classList.toggle("is-collapsed");
+    enemyToggle.setAttribute("aria-expanded", String(!isCollapsed));
+    enemyToggle.textContent = isCollapsed ? "Показать полностью" : "Свернуть";
+    return;
+  }
+
+  if (event.target.closest("#back-groups")) {
+    setRoute(currentCatalogConfig().id);
+    return;
+  }
+
+  if (event.target.closest("#back-books")) {
+    setRoute("books");
+    return;
+  }
+
+  if (event.target.closest("#back-artifacts")) {
+    setRoute("artifacts", null, state.subsection);
+    return;
+  }
+
+  if (event.target.closest("#back-section")) {
+    const config = activeDetail ? getSectionConfig(activeDetail.configId || state.section) : currentCatalogConfig();
+    setRoute(config.id, null, state.subsection);
+    return;
+  }
+
+  const groupCard = event.target.closest("[data-group]");
+  if (groupCard) {
+    setRoute(currentCatalogConfig().id, null, groupCard.dataset.group);
+    return;
+  }
+
+  if (event.target.closest("#sort-title")) {
+    toggleSort(currentCatalogConfig());
+    return;
+  }
+
+  const pageButton = event.target.closest("[data-catalog-page]");
+  if (pageButton) {
+    const page = Number(pageButton.dataset.catalogPage);
+    if (Number.isFinite(page)) {
+      currentFilterState().page = page;
+      updateCatalogTable(currentCatalogConfig());
+    }
+    return;
+  }
+
+  if (event.target.closest("#clear-search")) {
+    const filterState = currentFilterState();
+    const search = document.getElementById("catalog-search");
+    const clearSearch = document.getElementById("clear-search");
+    filterState.query = "";
+    filterState.page = 1;
+    if (search) {
+      search.value = "";
+      search.focus();
+    }
+    clearSearch?.classList.remove("visible");
+    updateCatalogTable(currentCatalogConfig());
+    return;
+  }
+
+  if (event.target.closest("#toggle-read-all") && activeDetail?.type === "book") {
     state.readAll = !state.readAll;
-    preserveScrollRender(() => renderBookDetail(book));
-  });
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
 
-  document.querySelectorAll("[data-volume]").forEach(button => {
-    button.addEventListener("click", () => {
-      state.volume = Number(button.dataset.volume);
-      state.readAll = false;
-      preserveScrollRender(() => renderBookDetail(book));
-    });
-  });
+  if (event.target.closest("#toggle-artifact-read-all") && activeDetail?.type === "artifact") {
+    state.artifactReadAll = !state.artifactReadAll;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
 
-  document.querySelectorAll("[data-lang]").forEach(button => {
-    button.addEventListener("click", () => {
-      state.lang = button.dataset.lang;
-      preserveScrollRender(() => renderBookDetail(book));
-    });
+  if (event.target.closest("#toggle-item-read-all") && activeDetail?.type === "enemyDrops") {
+    state.itemReadAll = !state.itemReadAll;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
+  const volumeButton = event.target.closest("[data-volume]");
+  if (volumeButton && activeDetail?.type === "book") {
+    state.volume = Number(volumeButton.dataset.volume);
+    state.readAll = false;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
+  const artifactPartButton = event.target.closest("[data-artifact-part]");
+  if (artifactPartButton && activeDetail?.type === "artifact") {
+    state.artifactPart = artifactPartButton.dataset.artifactPart;
+    state.artifactReadAll = false;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
+  const itemMaterialButton = event.target.closest("[data-item-material]");
+  if (itemMaterialButton && activeDetail?.type === "enemyDrops") {
+    state.itemMaterial = itemMaterialButton.dataset.itemMaterial;
+    state.itemReadAll = false;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
+  const langButton = event.target.closest("[data-lang]");
+  if (langButton && activeDetail) {
+    state.lang = langButton.dataset.lang;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
+  const row = event.target.closest("[data-entry-id]");
+  if (row && !event.target.closest("button, a, input, select, label")) {
+    const sectionId = row.dataset.sectionId || currentCatalogConfig().id;
+    setRoute(sectionId, row.dataset.entryId, state.subsection);
+  }
+}
+
+function handleAppKeydown(event) {
+  const row = event.target.closest("[data-entry-id]");
+  if (!row || (event.key !== "Enter" && event.key !== " ")) return;
+  event.preventDefault();
+  const sectionId = row.dataset.sectionId || currentCatalogConfig().id;
+  setRoute(sectionId, row.dataset.entryId, state.subsection);
+}
+
+function handleAppInput(event) {
+  if (!event.target.matches("#catalog-search")) return;
+  const filterState = currentFilterState();
+  filterState.query = event.target.value;
+  filterState.page = 1;
+  document.getElementById("clear-search")?.classList.toggle("visible", Boolean(filterState.query));
+  debouncedCatalogUpdate();
+}
+
+function handleAppChange(event) {
+  const config = currentCatalogConfig();
+  const filterState = state.filters[config.id];
+
+  if (event.target.matches("#catalog-filter")) {
+    filterState.filter = event.target.value;
+    filterState.page = 1;
+    updateCatalogTable(config);
+    return;
+  }
+
+  if (event.target.matches("#catalog-page-size")) {
+    filterState.pageSize = Number(event.target.value) || DEFAULT_CATALOG_PAGE_SIZE;
+    filterState.page = 1;
+    updateCatalogTable(config);
+    return;
+  }
+
+  if (event.target.matches(".type-filter-chip input")) {
+    const checked = Array.from(app.querySelectorAll(".type-filter-chip input:checked")).map(item => item.value);
+    filterState.page = 1;
+    if (config.id === "items") {
+      if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
+      filterState.typeFiltersByGroup[state.subsection] = checked.length ? checked : [];
+    } else {
+      filterState.typeFilters = checked.length ? checked : [];
+    }
+    updateCatalogTable(config);
+  }
+}
+
+function requestIdleTask(callback, timeout = 1600) {
+  if ("requestIdleCallback" in window) {
+    window.requestIdleCallback(callback, { timeout });
+  } else {
+    window.setTimeout(callback, 180);
+  }
+}
+
+function scheduleBackgroundSectionPrefetch() {
+  if (backgroundPrefetchStarted) return;
+  backgroundPrefetchStarted = true;
+
+  requestIdleTask(() => {
+    SECTIONS
+      .map(section => section.id)
+      .filter(sectionId => sectionId !== state.section)
+      .forEach((sectionId, index) => {
+        window.setTimeout(() => loadSectionData(sectionId).catch(() => {}), index * 90);
+      });
   });
 }
+
+function prefetchDetail(sectionId, entryId) {
+  if (!entryId) return;
+  const key = `${sectionId}:${entryId}`;
+  if (key === lastPrefetchedEntryKey) return;
+  lastPrefetchedEntryKey = key;
+
+  const loader = sectionId === "books" ? getBookById(entryId) : getGenericDetail(sectionId, entryId);
+  loader.catch(() => {});
+}
+
+function handleAppPrefetch(event) {
+  const row = event.target.closest("[data-entry-id]");
+  if (!row) return;
+  prefetchDetail(row.dataset.sectionId || currentCatalogConfig().id, row.dataset.entryId);
+}
+
 
 function renderLoading(message = "Загружаю архив…") {
   app.innerHTML = `
@@ -2082,8 +2142,16 @@ async function render() {
 async function init() {
   renderLoading();
   await render();
+  scheduleBackgroundSectionPrefetch();
 }
 
+nav.addEventListener("click", handleNavClick);
+app.addEventListener("click", handleAppClick);
+app.addEventListener("keydown", handleAppKeydown);
+app.addEventListener("input", handleAppInput);
+app.addEventListener("change", handleAppChange);
+app.addEventListener("mouseover", handleAppPrefetch);
+app.addEventListener("focusin", handleAppPrefetch);
 document.getElementById("open-menu")?.addEventListener("click", () => document.body.classList.add("menu-open"));
 document.getElementById("drawer-backdrop")?.addEventListener("click", closeMenu);
 window.addEventListener("hashchange", render);
