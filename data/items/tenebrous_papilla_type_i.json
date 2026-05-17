@@ -1,0 +1,52 @@
+{
+  "id": "tenebrous_papilla_type_i",
+  "category": "items",
+  "icon": "assets/icons/enemies/tenebrous_papilla_type_i.webp",
+  "title": {
+    "ru": "Сумрачная папилла",
+    "en": "Tenebrous Papilla: Type I",
+    "zh": "深邃摹结株 · I型"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.2",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Растениеподобные чудовища Бездны, появившиеся в этом мире из искажённого и тёмного измерения.\nЭти искорёженные существа могут проникать в самые глубины земли, чтобы извлекать воспоминания,\nкоторые они затем имитируют и используют.\nИскажая воспоминания, делая их более мрачными, такие существа постепенно приближаются к ядру Ирминсуля,\nугрожая самому его существованию.\nГоворят, что эти существа постоянно работают над тем, чтобы исказить множество цветов света,\nоставив вместо них лишь чёрную информацию.\nПодтверждением такой гипотезы служат ветви, которые они протягивают наружу, словно пронзая саму пустоту...",
+    "en": "Abyssal creatures with plant-like forms that have descended from a deep, dark, unfathomable, contorted otherworld.\nThese twisted monstrosities are capable of infiltrating deep down into the bowels of the earth,\nextracting memories to imitate and manipulate.\nThrough this process of distorting the past's memories into more abstruse and sordid forms,\nthey gradually draw closer to Irminsul's core, threatening to undermine its very existence.\nSome say that these aberrations work constantly to corrupt the many colors of light,\nleaving only pitch-black information in their stead.\nSuch a hypothesis seems to be confirmed by the branches they extend outward, as if to pierce the void itself...",
+    "zh": "于深邃晦暗的扭曲异界降临此世的深渊魔物，拥有类似植物的形态。\n此种扭曲的魔物已然能够侵蚀入大地的深处，从中提取记忆以供其模仿与驱使。\n过往的回忆被扭曲成更加污秽与深邃的样貌，它们借由此种行为，逐渐接近世界之树的核心，以此动摇其存在的根本。\n据说该种魔物无时无刻不在扭曲光芒中蕴含的种种色彩，并将之转化为漆黑的信息，在张开时仿佛要扎入虚空中的枝节似乎也在佐证这一点…"
+  },
+  "description": {
+    "ru": "Растениеподобные чудовища Бездны, появившиеся в этом мире из искажённого и тёмного измерения.\nЭти искорёженные существа могут проникать в самые глубины земли, чтобы извлекать воспоминания,\nкоторые они затем имитируют и используют.\nИскажая воспоминания, делая их более мрачными, такие существа постепенно приближаются к ядру Ирминсуля,\nугрожая самому его существованию.\nГоворят, что эти существа постоянно работают над тем, чтобы исказить множество цветов света,\nоставив вместо них лишь чёрную информацию.\nПодтверждением такой гипотезы служат ветви, которые они протягивают наружу, словно пронзая саму пустоту...",
+    "en": "Abyssal creatures with plant-like forms that have descended from a deep, dark, unfathomable, contorted otherworld.\nThese twisted monstrosities are capable of infiltrating deep down into the bowels of the earth,\nextracting memories to imitate and manipulate.\nThrough this process of distorting the past's memories into more abstruse and sordid forms,\nthey gradually draw closer to Irminsul's core, threatening to undermine its very existence.\nSome say that these aberrations work constantly to corrupt the many colors of light,\nleaving only pitch-black information in their stead.\nSuch a hypothesis seems to be confirmed by the branches they extend outward, as if to pierce the void itself...",
+    "zh": "于深邃晦暗的扭曲异界降临此世的深渊魔物，拥有类似植物的形态。\n此种扭曲的魔物已然能够侵蚀入大地的深处，从中提取记忆以供其模仿与驱使。\n过往的回忆被扭曲成更加污秽与深邃的样貌，它们借由此种行为，逐渐接近世界之树的核心，以此动摇其存在的根本。\n据说该种魔物无时无刻不在扭曲光芒中蕴含的种种色彩，并将之转化为漆黑的信息，在张开时仿佛要扎入虚空中的枝节似乎也在佐证这一点…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "ensnaring_gaze",
+      "title": {
+        "ru": "Сковывающий взгляд",
+        "en": "Ensnaring Gaze",
+        "zh": "深邃纠缠的凝视"
+      },
+      "icon": "assets/icons/items/world_bosses/ensnaring_gaze.webp",
+      "text": {
+        "ru": "Объект, полученный после победы над монстром, известным как Сумрачная папилла.\nНа вид он напоминает фрукт, но таковым не является.\nЕё глаз, сформированный из скопившейся в одной точке энергии, будто устремлён в далёкий и тёмный иной мир.",
+        "en": "An object obtained after defeating the monster known as the Tenebrous Papilla.\nIt may look like a piece of fruit, but it is not.\nFormed from energy that has condensed in a single spot, its \"eye\" seems to gaze out from a distant, dark otherworld.",
+        "zh": "击败名为深邃摹结株的魔物后，获得的犹如果实却并非果实的事物。\n那聚集一处的能量所形成的「眼」，其后似乎有仿佛来自遥远而黑暗的彼端的视线。"
+      }
+    }
+  ],
+  "material_count": 1
+}

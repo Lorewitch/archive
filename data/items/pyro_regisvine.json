@@ -1,0 +1,52 @@
+{
+  "id": "pyro_regisvine",
+  "category": "items",
+  "icon": "assets/icons/enemies/pyro_regisvine.webp",
+  "title": {
+    "ru": "Пиро орхидея",
+    "en": "Pyro Regisvine",
+    "zh": "爆炎树"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Гигантская лоза, которая впитала древнее пламя, бушующее в артериях земли.\nОна будто наполнена бесконечной яростью.\nПоэты, барды и даже некоторые учёные считают, что стихийные элементы могут нести в себе эмоции и надежду.\nЕсли это правда, то можно только гадать, какие эмоции заставляют Пиро орхидею вечно гореть,\nсловно корчась от жажды быть свободной от заточения земли...",
+    "en": "A giant vine that has absorbed the ancient flame that rages within the ley lines.\nIt is restless as if filled with endless fury.\nPoets, bards, and even some academics believe that elements also contain emotions and hopes.\nIf this is true, then one can only wonder what emotions cause the Pyro Regisvine to burn eternally,\nwrithing like one longing to be free of the confines of the earth...",
+    "zh": "吸收了地脉中奔涌的古老烈焰的巨大藤蔓。\n如同充满怒火一般，永不止息的植物。\n诗人、歌手乃至一些学者认为「元素」\n中蕴含着情感和愿望。\n如果属实，又是什么情感与愿望驱使着爆炎树恒常燃烧，如同渴求着挣脱大地的束缚一般挣扎舞动呢…"
+  },
+  "description": {
+    "ru": "Гигантская лоза, которая впитала древнее пламя, бушующее в артериях земли.\nОна будто наполнена бесконечной яростью.\nПоэты, барды и даже некоторые учёные считают, что стихийные элементы могут нести в себе эмоции и надежду.\nЕсли это правда, то можно только гадать, какие эмоции заставляют Пиро орхидею вечно гореть,\nсловно корчась от жажды быть свободной от заточения земли...",
+    "en": "A giant vine that has absorbed the ancient flame that rages within the ley lines.\nIt is restless as if filled with endless fury.\nPoets, bards, and even some academics believe that elements also contain emotions and hopes.\nIf this is true, then one can only wonder what emotions cause the Pyro Regisvine to burn eternally,\nwrithing like one longing to be free of the confines of the earth...",
+    "zh": "吸收了地脉中奔涌的古老烈焰的巨大藤蔓。\n如同充满怒火一般，永不止息的植物。\n诗人、歌手乃至一些学者认为「元素」\n中蕴含着情感和愿望。\n如果属实，又是什么情感与愿望驱使着爆炎树恒常燃烧，如同渴求着挣脱大地的束缚一般挣扎舞动呢…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "everflame_seed",
+      "title": {
+        "ru": "Пылающее семя",
+        "en": "Everflame Seed",
+        "zh": "常燃火种"
+      },
+      "icon": "assets/icons/items/world_bosses/everflame_seed.webp",
+      "text": {
+        "ru": "Семя, которое питает бесконечное пламя Пиро орхидеи.\nОно излучает энергию Пиро, будто хочет сжечь всё, что когда-либо прорастало из земли.\nВ глубинах земли среди бурных потоков энергии текут бесчисленные желания.\nЧто же способно мечтать сжечь весь мир в своём неугасимом пламени?",
+        "en": "A seed that fuels the unending flames of the Pyro Regisvine.\nIt emits Pyro energy as if it will burn all that has ever sprouted from the ground.\nEndless desires flow among turbulent energy deep within the earth.\nWhat desire could steadily hold such fire to the plants and long so eagerly to bathe everything in unquenchable flames?",
+        "zh": "驱动爆炎树持续燃烧的种子。\n仿佛要点燃世间的一切草木般放射着火元素的热量。\n大地深处湍流不息的能量中运载着无穷的愿望。\n挟着烈火凭依在植物上，使它恒常地燃烧，并且渴望用爆裂的火炎洗净一切的，又是什么样的愿望呢。"
+      }
+    }
+  ],
+  "material_count": 1
+}

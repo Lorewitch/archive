@@ -1,0 +1,52 @@
+{
+  "id": "experimental_field_generator",
+  "category": "items",
+  "icon": "assets/icons/enemies/experimental_field_generator.webp",
+  "title": {
+    "ru": "Экспериментальный генератор поля",
+    "en": "Experimental Field Generator",
+    "zh": "实验性场力发生装置"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.1",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Крупногабаритное устройство, разработанное покойным Эдвином Истингхаусом.\nСпособно «противодействовать гравитации».\nСогласно первоначальному замыслу, это был первый шаг в реализации плана по превращению Фонтейна в летающий город,\nчтобы жителей больше никогда не беспокоили волны, некогда захлёстывавшие землю.\nДаже если все семь стран поглотит бездна, Кур-де-Фонтейн будет парить в вышине, подобно Селестии.\nДаже тайны Вселенной перестанут казаться такими далёкими.\nАрхиум в ядре прибора обладает свойствами «расщепления» или «осаждения»,\nон может разделять материю и некоторые нематериальные сущности.\nУтверждается, что этот процесс можно обратить вспять, но в исследовательском институте думают только о физических явлениях,\nкоторые могут создавать.",
+    "en": "A large device designed by the late Edwin Eastinghouse.\nIt has the ability to \"counteract\" the effects of gravity.\nAccording to the original design intentions, this was the first step in a plan to turn Fontaine into a city in the sky,\nso never again would the people have to worry about the waves that once swept over the land.\nEven if all seven nations were to be swallowed by the deeps, the elegant Court of Fontaine would float above it all,\njust like Celestia.\nEven the secrets of the universe would no longer seem so distant.\nThe Arkhium in the device's core has the characteristics of \"splitting\" or \"precipitation, \" and can take matter,\nor certain things outside of matter, and separate them.\nIt is said that this process can be reversed,\nbut the Fontaine Research Institute is infatuated only with the physical effects it can produce.",
+    "zh": "艾德温·伊斯丁豪斯生前设计的大型装置。\n依照原本的设计意图，拥有「抵消」\n重力的效果；\n依照原本的设计意图，这将是将枫丹建设成天空之都的第一步，从此以后再也没有人需要为曾经荡涤大地的浪潮而忧心，即使七国尽没深海，瑰丽的枫丹廷也将如天空岛那样在空中漂游。\n就连宇宙的秘密也将变得不那么遥不可及。\n装置核心的始基矿拥有「分离」\n或是「沉淀」\n的特性，能够将物质，或是某些物质以外的事物分离；\n传说这样的性质也能被反转，但枫丹科学院只醉心于它所能产生的物理效用。"
+  },
+  "description": {
+    "ru": "Крупногабаритное устройство, разработанное покойным Эдвином Истингхаусом.\nСпособно «противодействовать гравитации».\nСогласно первоначальному замыслу, это был первый шаг в реализации плана по превращению Фонтейна в летающий город,\nчтобы жителей больше никогда не беспокоили волны, некогда захлёстывавшие землю.\nДаже если все семь стран поглотит бездна, Кур-де-Фонтейн будет парить в вышине, подобно Селестии.\nДаже тайны Вселенной перестанут казаться такими далёкими.\nАрхиум в ядре прибора обладает свойствами «расщепления» или «осаждения»,\nон может разделять материю и некоторые нематериальные сущности.\nУтверждается, что этот процесс можно обратить вспять, но в исследовательском институте думают только о физических явлениях,\nкоторые могут создавать.",
+    "en": "A large device designed by the late Edwin Eastinghouse.\nIt has the ability to \"counteract\" the effects of gravity.\nAccording to the original design intentions, this was the first step in a plan to turn Fontaine into a city in the sky,\nso never again would the people have to worry about the waves that once swept over the land.\nEven if all seven nations were to be swallowed by the deeps, the elegant Court of Fontaine would float above it all,\njust like Celestia.\nEven the secrets of the universe would no longer seem so distant.\nThe Arkhium in the device's core has the characteristics of \"splitting\" or \"precipitation, \" and can take matter,\nor certain things outside of matter, and separate them.\nIt is said that this process can be reversed,\nbut the Fontaine Research Institute is infatuated only with the physical effects it can produce.",
+    "zh": "艾德温·伊斯丁豪斯生前设计的大型装置。\n依照原本的设计意图，拥有「抵消」\n重力的效果；\n依照原本的设计意图，这将是将枫丹建设成天空之都的第一步，从此以后再也没有人需要为曾经荡涤大地的浪潮而忧心，即使七国尽没深海，瑰丽的枫丹廷也将如天空岛那样在空中漂游。\n就连宇宙的秘密也将变得不那么遥不可及。\n装置核心的始基矿拥有「分离」\n或是「沉淀」\n的特性，能够将物质，或是某些物质以外的事物分离；\n传说这样的性质也能被反转，但枫丹科学院只醉心于它所能产生的物理效用。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "tourbillon_device",
+      "title": {
+        "ru": "Турбийон",
+        "en": "\"Tourbillon Device\"",
+        "zh": "「图比昂装置」"
+      },
+      "icon": "assets/icons/items/world_bosses/tourbillon_device.webp",
+      "text": {
+        "ru": "Ключевая деталь Экспериментального генератора поля.\nМеханическая деталь точной обработки, нейтрализующая действие силы тяжести и вращающаяся с высокой скоростью,\nкоторую практически невозможно определить невооруженным глазом.\nНа протяжении всей своей долгой истории Научно-исследовательский институт кинетической энергии Фонтейна искал способ противостоять потопу,\nкоторый когда-то смыл бесчисленное множество жизней и однажды может обрушиться вновь.\nАрхиум, содержащий огромный запас энергии и способный разрушить земные оковы, когда-то считался ключом к вратам спасения.",
+        "en": "The core component of the Experimental Field Generator.\nA precision-machined mechanical component that counteracts the effects of gravity via high-speed rotation.\nThe revolution speed is so fast that it is almost impossible to capture with the naked eye.\nThroughout its long history,\nthe Fontaine Research Institute of Kinetic Energy Engineering has always warred against a flood that once washed countless lives away,\nand may yet cover the earth and sky one day far in the future, searching for a means to survive.\nArkhium, with its immense energetic potential and power to shatter the shackles of the earth,\nwas once considered the key to the gate of salvation.",
+        "zh": "实验性场力发生装置的核心部件。\n能够在肉眼几乎无法捕获的高速旋转中，抵消重力影响的精密加工机械件。\n在长久的历史中，枫丹动能工程科学研究院一直在以曾经洗去无数生命，又总有一天会再度遮天蔽日的洪水为敌，寻找着生存的途径。\n而蕴含着庞大能量，能够粉碎大地桎梏的始基矿则一度被认为是开启救赎大门的钥匙。"
+      }
+    }
+  ],
+  "material_count": 1
+}

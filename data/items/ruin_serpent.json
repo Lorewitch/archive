@@ -1,0 +1,52 @@
+{
+  "id": "ruin_serpent",
+  "category": "items",
+  "icon": "assets/icons/enemies/ruin_serpent.webp",
+  "title": {
+    "ru": "Змей руин",
+    "en": "Ruin Serpent",
+    "zh": "遗迹巨蛇"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "2.6",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древний причудливый автоматон.\nЛегенды гласят, что эта громоздкая инженерная машина осталась от павшего королевства,\nа её головная часть со своей зубчатой структурой может легко продолбить твёрдые скальные породы.\nЕсли это так, машина способна проложить дорогу, по которой целая армия пройдёт через континент.",
+    "en": "An ancient, bizarrely-shaped autonomous machine.\nIt is said that this was heavy-duty engineering equipment left behind by a nation that has been destroyed.\nThe gear system on its \"head\" can grind its way through even the hardest bedrock.\nIf this was the case,\nthen carving out tunnels with which the forces of this nation might access the whole continent would have been a thing of great ease.",
+    "zh": "古老的异形自律机关。\n传说是已经覆灭的国度留下的工程重机，「头部」\n的齿盘结构能够轻松挖开坚硬的岩盘。\n果真如此的话，借由这种能力，应该能开凿出足以让大军通行大陆各地的黯道吧。"
+  },
+  "description": {
+    "ru": "Древний причудливый автоматон.\nЛегенды гласят, что эта громоздкая инженерная машина осталась от павшего королевства,\nа её головная часть со своей зубчатой структурой может легко продолбить твёрдые скальные породы.\nЕсли это так, машина способна проложить дорогу, по которой целая армия пройдёт через континент.",
+    "en": "An ancient, bizarrely-shaped autonomous machine.\nIt is said that this was heavy-duty engineering equipment left behind by a nation that has been destroyed.\nThe gear system on its \"head\" can grind its way through even the hardest bedrock.\nIf this was the case,\nthen carving out tunnels with which the forces of this nation might access the whole continent would have been a thing of great ease.",
+    "zh": "古老的异形自律机关。\n传说是已经覆灭的国度留下的工程重机，「头部」\n的齿盘结构能够轻松挖开坚硬的岩盘。\n果真如此的话，借由这种能力，应该能开凿出足以让大军通行大陆各地的黯道吧。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "runic_fang",
+      "title": {
+        "ru": "Рунический клык",
+        "en": "Runic Fang",
+        "zh": "符纹之齿"
+      },
+      "icon": "assets/icons/items/world_bosses/runic_fang.webp",
+      "text": {
+        "ru": "Испещрённый зловещими рунами клык, с помощью которого загадочный змееподобный механизм из древности вгрызался в скальную породу.\nСогласно легенде, в тёмных расселинах глубоко под землёй обитают гигантские змееобразные существа,\nзатаившие на мир земной горькую злобу.\nСо зловещей целью, которая известна им одним, они продолжают рыть грандиозные тоннели...",
+        "en": "A \"fang\" with which the mysterious, snakelike machine of old dug into mountains' depths.\nThere are many ominous runes carved on it.\nIt is said that giant serpents lurk in the dark fissures deep beneath the ground.\nBurning with eternal resentment and malice toward the world above, they throw themselves into digging great tunnels,\nyet none know what their malicious purposes are...",
+        "zh": "神秘的蛇状古代机械用于掘削山壁的「齿」，其上篆刻着无解的不祥符文。\n相传在大地的深黑裂缝中潜藏着庞大的虺类，它们永远怀着对地上世界的憎恨与恶意，抱着不可知的险恶目的，发掘着宏大的隧道…"
+      }
+    }
+  ],
+  "material_count": 1
+}

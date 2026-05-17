@@ -1,0 +1,52 @@
+{
+  "id": "electro_hypostasis",
+  "category": "items",
+  "icon": "assets/icons/enemies/electro_hypostasis.webp",
+  "title": {
+    "ru": "Электро гипостазис",
+    "en": "Electro Hypostasis",
+    "zh": "无相之雷"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Кодовое название: Алеф. Высококонцентрированный Электро элемент.\nЭлементальный гипостазис - это высшая форма элементальной структуры,\nкоторая формируется в местах с зашкаливающей элементальной энергией или с тяжёлой проходимостью элементов.\nЭлементальный гипостазис разработал защитные механизмы, основанные на его элементе.",
+    "en": "Code name: Aleph. A high-purity Electro entity.\nElemental hypostases are the highest forms of elemental structures,\nusually formed either at a location bursting with elemental energy or at a clogged ley line.\nElemental hypostases have developed various attacks based on their elemental attributes.",
+    "zh": "代号为「阿莱夫」\n的高级雷元素生命。\n无相元素是顶尖的元素构造体，会在元素能量喷涌的位置，或元素地脉阻塞的地点形成。\n不同的无相元素会基于其元素特性，进化出战斗的方式。"
+  },
+  "description": {
+    "ru": "Кодовое название: Алеф. Высококонцентрированный Электро элемент.\nЭлементальный гипостазис - это высшая форма элементальной структуры,\nкоторая формируется в местах с зашкаливающей элементальной энергией или с тяжёлой проходимостью элементов.\nЭлементальный гипостазис разработал защитные механизмы, основанные на его элементе.",
+    "en": "Code name: Aleph. A high-purity Electro entity.\nElemental hypostases are the highest forms of elemental structures,\nusually formed either at a location bursting with elemental energy or at a clogged ley line.\nElemental hypostases have developed various attacks based on their elemental attributes.",
+    "zh": "代号为「阿莱夫」\n的高级雷元素生命。\n无相元素是顶尖的元素构造体，会在元素能量喷涌的位置，或元素地脉阻塞的地点形成。\n不同的无相元素会基于其元素特性，进化出战斗的方式。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "lightning_prism",
+      "title": {
+        "ru": "Призма молнии",
+        "en": "Lightning Prism",
+        "zh": "雷光棱镜"
+      },
+      "icon": "assets/icons/items/world_bosses/lightning_prism.webp",
+      "text": {
+        "ru": "Электро гипостазис направляет окружающую его элементальную энергию на восстановление элементальных сущностей,\nи содержит в себе концентрированную энергию Электро.\nОбычная призма расщепляет пропущенный сквозь неё свет на составляющие его цвета,\nа Электро призма превращает пропущенную сквозь неё энергию в молнию.\nОна не теряет эту способность даже после смерти самого Электро гипостазиса.",
+        "en": "An Electro Hypostasis channels nearby elemental energy to repair damaged elemental entities.\nContains the essence of Electro energy.\nAn ordinary prism separates white light into its component colors; a Lightning Prism, however,\nchannels flowing energies and weaves them into lightning.\nIt will continue to do so even after the Electro Hypostasis has been defeated.",
+        "zh": "无相之雷用于汇聚元素，修复损伤的元素物质。\n其中蕴含着至纯的雷之力。\n棱镜能将构成光的色彩区分，而雷光棱镜将奔流的能量编织成纯粹的雷光。\n即使无相之雷已经被击败，雷元素也持续在这只棱镜中汇聚。"
+      }
+    }
+  ],
+  "material_count": 1
+}

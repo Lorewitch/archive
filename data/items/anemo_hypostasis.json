@@ -1,0 +1,52 @@
+{
+  "id": "anemo_hypostasis",
+  "category": "items",
+  "icon": "assets/icons/enemies/anemo_hypostasis.webp",
+  "title": {
+    "ru": "Анемо гипостазис",
+    "en": "Anemo Hypostasis",
+    "zh": "无相之风"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Кодовое название: Бет. Высококонцентрированный Анемо элемент.\nЭлементальный гипостазис - это существо, лишившееся своей первоначальной формы для того,\nчтобы добиться высших форм концентрации элемента.\nОсновное изучение гипостазиса ведётся в академии Сумеру, но, в связи с высоким уровнем угрозы, о нём ничего,\nкроме научного и кодового названия, неизвестно.",
+    "en": "Code name: Beth. A high-purity Anemo entity.\nElemental hypostases are life forms which have completely abandoned their former appearance and biological structure,\nmaking them able to reach the highest level of elemental purity.\nResearch into hypostases is mainly led by scholars of Sumeru Akademiya, but due to the level of danger that they pose,\nlittle of substance is known about hypostases beyond their scientific name and code name.",
+    "zh": "代号为「贝特」\n的高级风元素生命。\n「无相」\n指的是抛弃了其他元素生物的形态与生态，达到的纯粹境地。\n针对无相元素的研究，主要由须弥教令院的学者主导进行。\n但由于其危险性，除了代号与命名以外，基本没有取得什么值得参考的研究成果…"
+  },
+  "description": {
+    "ru": "Кодовое название: Бет. Высококонцентрированный Анемо элемент.\nЭлементальный гипостазис - это существо, лишившееся своей первоначальной формы для того,\nчтобы добиться высших форм концентрации элемента.\nОсновное изучение гипостазиса ведётся в академии Сумеру, но, в связи с высоким уровнем угрозы, о нём ничего,\nкроме научного и кодового названия, неизвестно.",
+    "en": "Code name: Beth. A high-purity Anemo entity.\nElemental hypostases are life forms which have completely abandoned their former appearance and biological structure,\nmaking them able to reach the highest level of elemental purity.\nResearch into hypostases is mainly led by scholars of Sumeru Akademiya, but due to the level of danger that they pose,\nlittle of substance is known about hypostases beyond their scientific name and code name.",
+    "zh": "代号为「贝特」\n的高级风元素生命。\n「无相」\n指的是抛弃了其他元素生物的形态与生态，达到的纯粹境地。\n针对无相元素的研究，主要由须弥教令院的学者主导进行。\n但由于其危险性，除了代号与命名以外，基本没有取得什么值得参考的研究成果…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "hurricane_seed",
+      "title": {
+        "ru": "Семя урагана",
+        "en": "Hurricane Seed",
+        "zh": "飓风之种"
+      },
+      "icon": "assets/icons/items/world_bosses/hurricane_seed.webp",
+      "text": {
+        "ru": "Разрушенная форма Анемо гипостазиса, содержащая концентрированную энергию Анемо.\nГоворят, что в его, казалось бы, хрупком теле хранится способность создавать вихри.\nЭта бабочка из чистой энергии Анемо ждёт дня, когда снова сможет вызвать бурю.",
+        "en": "The imploded form of an Anemo Hypostasis upon its defeat.\nContains the essence of Anemo energy.\nIt is said that the power to create hurricanes resides within its seemingly fragile body.\nThis butterfly of pure Anemo energy must surely be waiting for the day when it can conjure up storms once again.",
+        "zh": "无相之风被击败后，所坍缩成的形态。\n其中蕴含着至纯的风之力。\n传说在纤细脆弱的蝴蝶体内，也藏有引发飓风的力量。\n这由纯粹的风构成的蝴蝶，无疑在等待着再次召来暴风的那一天吧。"
+      }
+    }
+  ],
+  "material_count": 1
+}

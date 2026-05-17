@@ -1,0 +1,52 @@
+{
+  "id": "hydro_hypostasis",
+  "category": "items",
+  "icon": "assets/icons/enemies/hydro_hypostasis.webp",
+  "title": {
+    "ru": "Гидро гипостазис",
+    "en": "Hydro Hypostasis",
+    "zh": "无相之水"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.1",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Высокоуровневая форма жизни Гидро элемента под кодовым названием «Хе».\nГипостазисы обладают сильным инстинктом отторжения и безжалостно изгонят любого, кто осмелится его проверить.\nОтторжение распространяется даже на природные элементы.",
+    "en": "Code Name: He. A high-purity Hydro entity.\nHypostases have strong rejection properties, and will mercilessly expel any that test them.\nIts rejection behavior even extends to natural elements.",
+    "zh": "代号为「希伊」\n的高级水元素生命。\n无相元素有强大的排异本能，会无情地驱逐试探它的人。\n排异习性的对象似乎甚至会延展到天然的元素上。"
+  },
+  "description": {
+    "ru": "Высокоуровневая форма жизни Гидро элемента под кодовым названием «Хе».\nГипостазисы обладают сильным инстинктом отторжения и безжалостно изгонят любого, кто осмелится его проверить.\nОтторжение распространяется даже на природные элементы.",
+    "en": "Code Name: He. A high-purity Hydro entity.\nHypostases have strong rejection properties, and will mercilessly expel any that test them.\nIts rejection behavior even extends to natural elements.",
+    "zh": "代号为「希伊」\n的高级水元素生命。\n无相元素有强大的排异本能，会无情地驱逐试探它的人。\n排异习性的对象似乎甚至会延展到天然的元素上。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "dew_of_repudiation",
+      "title": {
+        "ru": "Роса отречения",
+        "en": "Dew of Repudiation",
+        "zh": "排异之露"
+      },
+      "icon": "assets/icons/items/world_bosses/dew_of_repudiation.webp",
+      "text": {
+        "ru": "Странная капля воды, оставшаяся после распада Гидро гипостазиса.\nОна словно бы обладает собственной волей, не дающей ей смешаться с водой из других источников.\nЭто странное отторжение можно использовать в атаке против Гидро гипостазиса.\nГоворят, что вода содержит воспоминания и силу воли и при слиянии вод их память и воля тоже объединяются.\nНо волны, создаваемые Гидро гипостазисами, несовместимы ни с поверхностными, ни с подземными водными течениями.\nДаже непревзойденно чистые воды Петрикор, скорее всего, не смогли бы поглотить эту каплю, словно бы она сделана не из воды,\nа из ртути.",
+        "en": "A strange water droplet left behind by the collapse of the Hydro Hypostasis.\nIt has strong rejection properties, and this forms the basis of one of the Hydro Hypostasis' attack patterns as well.\nThey say that water contains memories and willpower, and that these things can grow when bodies of water meld together.\nHowever, the waves conjured by the Hydro Hypostasis are incompatible with the currents that flow above and below ground.\nEven if it were to flow into the surpassingly pure waters of Petrichor,\nthis drop of water will likely resist assimilation as strongly as mercury.",
+        "zh": "无相之水坍缩后，留下的奇异水珠。\n具有强烈的排异本能，也是无相之水的攻击手段之一。\n据说水中蕴含着记忆与意志，也能随水体的融合获得成长。\n然而无相之水唤出的浪潮，与地上地下一切湍流之物皆不相容。\n哪怕落入佩特莉可那无比纯粹的水中，这滴水也会像水银一般抗拒着周遭的融合吧。"
+      }
+    }
+  ],
+  "material_count": 1
+}

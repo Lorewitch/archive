@@ -1,0 +1,52 @@
+{
+  "id": "wayward_hermetic_spiritspeaker",
+  "category": "items",
+  "icon": "assets/icons/enemies/wayward_hermetic_spiritspeaker.webp",
+  "title": {
+    "ru": "Говорящая с духами отшельница",
+    "en": "Wayward Hermetic Spiritspeaker",
+    "zh": "灵觉隐修的迷者"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.3",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Жрица Повелителей Ночного Ветра, которая ушла от своего племени и занимается самосовершенствованием в полном одиночестве.\nГоворят, по способности общаться с духами она превосходит обычных жрецов и шаманов - это результат того,\nчто на неё была возложена защита Вайоб Повелителей Ночного Ветра.\nПоначалу эта сила была одновременно и благословением, и проклятием, она не могла её контролировать,\nпоэтому и отправилась осваивать её в изоляции от своего племени.\nХотя с тех пор она добилась, чего хотела, но и по сей день живёт в уединении.\nЭта привычка принесла ей репутацию одиночки и затворницы.\nОднако ходят слухи, что она охотно обучает тех, кто ищет её наставлений - правда, всегда на своих условиях...",
+    "en": "A priestess of the Masters of the Night-Wind who has lived apart from her tribe, honing her abilities in utter solitude.\nIt is said that her Spiritspeaking powers surpass those of ordinary priests and shamans,\na result of having had the protection of the Masters of the Night-Wind's Wayob bestowed upon her.\nBoth a blessing and a curse, these powers were at first beyond her ability to control,\nwhich was why she set out to master them in isolation from her tribe.\nThough she has since done so, to this day she still lives in seclusion,\na habit that has earned her a reputation as a loner and a recluse.\nRumor has it, however, that she is more than willing to teach those who seek her guidance — though always on her own terms...",
+    "zh": "独自在外潜修的「烟谜主」\n的祭司。\n据说因为得到了「烟谜主」\n大灵的庇护而拥有比一般的祭司与萨满更强大的「灵觉」\n的能力。\n此等能力既是祝福也是一种诅咒，无法控制这份力量的祭司，当初只能独自在部族外进行修炼。\n即使在已经能够熟练掌握力量的今日，也保留着离群索居的习惯，因此也有她「不甚合群」\n的传言。\n据说只要有后来者想要向她寻求帮助，她也不吝赐教，只不过，是以她自己的方式…"
+  },
+  "description": {
+    "ru": "Жрица Повелителей Ночного Ветра, которая ушла от своего племени и занимается самосовершенствованием в полном одиночестве.\nГоворят, по способности общаться с духами она превосходит обычных жрецов и шаманов - это результат того,\nчто на неё была возложена защита Вайоб Повелителей Ночного Ветра.\nПоначалу эта сила была одновременно и благословением, и проклятием, она не могла её контролировать,\nпоэтому и отправилась осваивать её в изоляции от своего племени.\nХотя с тех пор она добилась, чего хотела, но и по сей день живёт в уединении.\nЭта привычка принесла ей репутацию одиночки и затворницы.\nОднако ходят слухи, что она охотно обучает тех, кто ищет её наставлений - правда, всегда на своих условиях...",
+    "en": "A priestess of the Masters of the Night-Wind who has lived apart from her tribe, honing her abilities in utter solitude.\nIt is said that her Spiritspeaking powers surpass those of ordinary priests and shamans,\na result of having had the protection of the Masters of the Night-Wind's Wayob bestowed upon her.\nBoth a blessing and a curse, these powers were at first beyond her ability to control,\nwhich was why she set out to master them in isolation from her tribe.\nThough she has since done so, to this day she still lives in seclusion,\na habit that has earned her a reputation as a loner and a recluse.\nRumor has it, however, that she is more than willing to teach those who seek her guidance — though always on her own terms...",
+    "zh": "独自在外潜修的「烟谜主」\n的祭司。\n据说因为得到了「烟谜主」\n大灵的庇护而拥有比一般的祭司与萨满更强大的「灵觉」\n的能力。\n此等能力既是祝福也是一种诅咒，无法控制这份力量的祭司，当初只能独自在部族外进行修炼。\n即使在已经能够熟练掌握力量的今日，也保留着离群索居的习惯，因此也有她「不甚合群」\n的传言。\n据说只要有后来者想要向她寻求帮助，她也不吝赐教，只不过，是以她自己的方式…"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "talisman_of_the_enigmatic_land",
+      "title": {
+        "ru": "Талисман загадочной земли",
+        "en": "Talisman of the Enigmatic Land",
+        "zh": "谜土的护符"
+      },
+      "icon": "assets/icons/items/world_bosses/talisman_of_the_enigmatic_land.webp",
+      "text": {
+        "ru": "Талисман, который неожиданно появился в вашем инвентаре после прохождения испытания Говорящей с духами отшельницы.\nСогласно записям Повелителей Ночного Ветра, жрецы, способные говорить с духами,\nмогут с помощью медитации перенести своё сознание через свет и тени, отражённые в обсидиане,\nи достичь загадочного подземного царства,\nдоступного лишь мёртвым.\nОднако это крайне опасно, и жрецы, проводящие этот ритуал, часто используют такие талисманы,\nчтобы защитить свои души от потери в этой таинственной земле.\nТем не менее символическое значение этого талисмана значительно превышает его реальную силу.\nВозможно, отшельница, которая дарует этот талисман прошедшему испытание воину, делает это как обычное благословение.",
+        "en": "A talisman that somehow appeared in your inventory after you passed the Wayward Hermetic Spiritspeaker's test.\nIn some records kept by the Masters of the Night-Wind,\npriests masterful in Spiritspeaking can use meditation to pass their consciousness through the light and shadow that reflects off obsidian,\nthus reaching the enigmatic underground realm that only the dead may enter.\nThis deed is, however, perilous,\nand priests who perform it must often wear such talismans to guard their souls from being lost in that mysterious land.\nHowever, this talisman's symbolic value far outstrips its real effects.\nPerhaps the hermit-priest who grants this to a warrior who passes the test only does so as a simple blessing.",
+        "zh": "通过灵觉隐修的迷者的考验后，不知何时出现在背包中的护符。\n在「烟谜主」\n部族中的一些记载中，「灵觉」\n强大的祭司甚至能够通过冥想，令意识穿越黑曜石反射的光影，进入唯有亡者才能进入的地下谜土。\n只是这一举动相当危险，能够做到此举的祭司往往需要佩戴类似的护符，避免灵魂迷失在谜土之中。\n不过，这护符的象征意义远大于实际意义，隐修的祭司将之留给通过考验的勇士，也许只是为了留下简单的祝福。"
+      }
+    }
+  ],
+  "material_count": 1
+}

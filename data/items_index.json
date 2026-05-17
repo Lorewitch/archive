@@ -1316,6 +1316,1533 @@
     "search_text": "ужас бури stormterror 裂空的魔龙 мондштадт 1.0 weekly_bosses enemy_drops дракон востока двалин, один из мондштадтских хранителей четырёх ветров. за долгие годы существования во мраке даже самый чистый драгоценный камень покроется пылью и потемнеет, и даже гордый дракон может преисполниться ненавистью, а злоба осквернит его душу. но нужно помнить, что пыль легко стереть, а сомнения и яд можно уничтожить. «пари свободно в небесах. пари, как тогда, когда мы с тобой встретились, и я шёл по земле, распевая песни ветра, а ты летел в вышине, взирая оттуда на мир. сейчас нет больше в небе снежных бурь. на земле зеленеет трава... так красиво. если бы ты тоже мог ходить по земле, слушать, как разносятся в воздухе песни пастушков и перезвон ветра, попробовать вино, сладкое как мёд, ты бы понял. как было бы здорово, если бы ты моими глазами видел себя, прекрасного и гордого, парящего в голубой вышине. тогда бы ты понял, что за это небо и эту землю стоит сражаться». one of the four winds of mondstadt: dvalin, the dragon of the east. with the passage of long years and amid boundless darkness, even the purest gem will become dulled by dust, and even the noble dragon might be corrupted and cankered by hatred. but never forget that dust can be wiped away, and the power of doubt and poison can be shattered. \"fly freely in the sky. \"just like you did in those days when we met, when i walked upon this land and sang the songs of the wind, \"and you soared on high, looking down on the world from above. \"today, the sky is no longer swept by wind and snow. the green grass grows all over the earth, and it is beautiful. \"if you too could walk the earth and listen to the songs of shepherds and the scattered sound of wind chimes in the distance, if you could have tasted wine as sweet as honey, you would understand. \"how wonderful it would have been if you were as i, witnessing your noble, beautiful form as you soared through the blue sky. \"then you would know that this sky and this earth are both things worth fighting for.\" 蒙德的「四风守护」 之一，东风之龙特瓦林。 在漫长的岁月与无边的黑暗中，清澈的宝石也会蒙尘而变得黯淡，高傲的龙也会被侵蚀而充满了忿恨。 不过，要记住，尘埃能被轻易拭去，疑惧与毒也能被粉碎。 「自由地在深空中翱翔吧。 「就如当年你我相遇时，我行走在大地上，唱着风的歌曲； 「你则在大气稀薄的高天上，俯瞰世界。 「如今的天空中没有风雪，大地上充满了绿草，会很美丽吧。 「如果你也在地面上行走过，听过牧歌和风铃在远方错落的歌，尝过蜜一样甜的酒，就会明白吧。 「如果你曾是我，看见过你在蓝蓝的天上滑翔的孤高模样，见识过你的美丽身姿就好了。 「如此，你就会明白，这样的天空与大地，是值得为之奋战的。 」 dvalins_claw dvalins_plume dvalins_sigh коготь двалина dvalin's claw 东风之爪 перо из хвоста двалина dvalin's plume 东风之翎 вздох двалина dvalin's sigh 东风的吐息 коготь дракона востока. как когда-то он разрывал плоть теневого дракона «дурина», так и содержал в себе его злобный яд. однако благодаря вашему очищению и исцелению он больше не токсичен. a claw from the dragon of the east. it once contained the shadow dragon durin's vile poison, having torn through the latter's flesh in battle. thanks to your purification and healing, it is no longer toxic. 从蒙德的东风之主身上，取下的一丝锋锐。 因为过去撕裂了伟大魔龙「杜林」 的血肉的缘故，过去蕴含着骇人的猛毒。 但经过你的净化与治愈，其中躁动的毒性终于平息。 перо из хвоста дракона востока. это - перо дракона, испытавшее тысячелетние ветра. его стремление быть свободным вызывает лёгкий ветерок, чтобы освободить его от оков, но его предыдущий владелец оставил вам это перо в знак признательности. a feather from the tail of the dragon of the east. as a dragon's feather it has experienced more than a thousand years' worth of winds. one senses within it a yearning for freedom so strong that it could whip up a light breeze to rescue it from its current confines. its former owner's recognition of you is what makes it content to stay in your hands. 从蒙德的东风之主身上，取下的一枚翎羽。 那是经历了千年之风的龙之羽。 追求自由的本心使它几乎唤起轻风，好逃离现今的桎梏； 但它的旧主对你的赏识，使它留在了你的掌心里。 сила, извлечённая из вихрей, вызванных драконом востока. прекрасный и невидимый, ветер следует за ним, он - его голос и свобода. и враги его, сражающиеся с ветром, многочисленны. a bit of power taken from the whirlwinds evoked by the dragon of the east. beautiful and transparent, both trade winds and tornadoes will work in his name. the winds move as his companion, his voice, and his freedom. his enemies are the thousands who stand against the wind. 从蒙德的东风之主唤起的狂风中，采来的些许力量。 它的身躯是优美而通透的，信风与龙卷都愿为它效力。 只要乘风而行，风就是它的同伴、它的歌声与它的自由。 而它的敌人，就是一千种名字各异的风的敌人。"
   },
   {
+    "id": "aeonblight_drake",
+    "category": "items",
+    "icon": "assets/icons/enemies/aeonblight_drake.webp",
+    "title": {
+      "ru": "Дракон вечных бедствий",
+      "en": "Aeonblight Drake",
+      "zh": "兆载永劫龙兽"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "perpetual_caliber",
+        "title": {
+          "ru": "Вечный механизм",
+          "en": "Perpetual Caliber",
+          "zh": "永续机芯"
+        },
+        "icon": "assets/icons/items/world_bosses/perpetual_caliber.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3001000,
+    "search_text": "дракон вечных бедствий aeonblight drake 兆载永劫龙兽 сумеру 3.1 world_bosses enemy_drops эта боевая машина в форме дракона внушает страх, как и правитель, который когда-то владел этими землями. загадочное неутомимое механическое чудище словно подтверждает, что давно сгинувшее царство достигало таких высот, которые оказались не по силам простым смертным. this dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands. it is said that the now-destroyed realm once sought forbidden knowledge and attempted to create perpetual-motion machines that could match or even surpass primordial lifeforms. this mysterious, tireless mechanical monstrosity seems to be proof that they did indeed reach heights that mortals should never have attained. 如同古时曾制御大地的君王一般，令人望而生畏的龙形战斗机械。 传说已经覆灭的国度曾渴求着禁忌的技术，试图拟造出可以匹敌，乃至超越亘古生命的永续机关。 这架不知疲倦的神秘机械巨兽似乎证明，他们确已触及了人所不应抵达的领域。 perpetual_caliber вечный механизм perpetual caliber 永续机芯 движущее устройство, полученное из таинственного руинного механизма. машина, которую оно когда-то приводило в движение, уже разрушена, но он продолжает вращаться. в этом мире не должно быть такого источника энергии, который мог бы поддерживать себя вечно, и большинство результатов исследований в области «вечного двигателя» оказались тупиковыми. тем не менее это устройство является доказательством того, что ныне уничтоженная цивилизация когда-то достигла таких высот, с которыми нынешние государства ещё долго не смогут сравниться… a motive device obtained from a mysterious ruin machine. the machine it once powered may have been destroyed, but it continues to rotate all the same. there should be no such thing as an energy source that can sustain itself forever in this world, and most research results obtained in the field of \"perpetual motion\" have been eventually proved false. yet, this device is proof that a now-destroyed civilization once reached heights that present-day nations could not hope to match... 从神秘的遗迹机械上取来的动力机关。 即使它所驱动的机体已经被摧毁，仍在持续运转着。 地上理应不存在无限持续的能源，关于「永动」 的研究成果发表也大多被证伪。 然而从这枚机芯可以看出，如今已经覆灭的文明曾经一度触及人所不能抵达的领域。"
+  },
+  {
+    "id": "algorithm_of_semi_intransient_matrix_of_overseer_network",
+    "category": "items",
+    "icon": "assets/icons/enemies/algorithm_of_semi_intransient_matrix_of_overseer_network.webp",
+    "title": {
+      "ru": "Алгоритм полуизвечной матрицы оператора наблюдения",
+      "en": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+      "zh": "半永恒统辖矩阵"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "light_guiding_tetrahedron",
+        "title": {
+          "ru": "Светопроводящий тетраэдр",
+          "en": "Light Guiding Tetrahedron",
+          "zh": "导光四面体"
+        },
+        "icon": "assets/icons/items/world_bosses/light_guiding_tetrahedron.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3001000,
+    "search_text": "алгоритм полуизвечной матрицы оператора наблюдения algorithm of semi-intransient matrix of overseer network 半永恒统辖矩阵 сумеру 3.1 world_bosses enemy_drops вечный механизм, управляющий разбросанными по пустыне руинами. вероятно, некоторые из них до сих пор подчиняются упрямой воле своего одинокого создателя. следуя поучениям явившегося во сне друга или желая завладеть властью небожителей, хозяин песков создал таинственный механизм, чуждый земному миру, и с его помощью построил целый город среди песков. в древних кристаллах на руинах города тысячи колонн до сих пор отражается сияние золотого рая, хотя мечты правителя давно рассеяны по ветру. a perpetual motion machine that rules over the many constructs scattered throughout the desert. it seems that the lonely ruler's will still indwells this device. perhaps due to a friend's teachings in a dream or perhaps because he coveted the power of the holy ones in the skies, the king created mysterious devices that should not exist in this world before founding his realm in these lands. amidst the ruins of the city of the pillars, the ancient crystals still reflect the glory of the golden paradise, though none now live who remember the king's dreams. 统辖着散落在沙漠中的众多遗迹构装体的永恒机关，其中似乎仍残留着孤独君王的执着意念。 或许是因为梦中的友人曾经的教诲，又或是因为觊觎着天上诸圣的权能，王创造出了本应不属于地上的神秘机关，并以此构建砂原上的国都。 在千柱之城的废墟之上，古老的晶石中仍折射着黄金乐园的美景，即便王的梦想早已无人铭记。 light_guiding_tetrahedron светопроводящий тетраэдр light guiding tetrahedron 导光四面体 ключевой компонент, полученный после победы над таинственным руинным механизмом. по сей день эти древние устройства не забыли ни мечты своих хозяев, ни свои собственные обязанности: построить тысячу дворцов, управлять тремя тысячами машин, посеять десять тысяч цветов, которые никогда больше не расцветут, и воссоздать рай, ныне погребённый под песками пустыни, ради всех, кто живёт в этом мире… и хотя повелителя пустыни давно нет среди живых, и мечты его отравлены злословиями, а все магические столбы сломаны и рухнули, великий зверь, которого некогда любил царь, всё ещё скрывается внутри великой обжигающей бури. a core component obtained via defeating a mysterious ruin machine. to this day, these ancient devices have not forgotten the dreams of their masters or their own duties: to build a thousand palaces, to administrate three thousand machines, to sow ten thousand flowers that shall never bloom again, and to recreate a paradise now buried beneath the desert sands for the sake of all who live in this world. though the lord of the desert no longer lives, and those dreams have long been corrupted by sinful whispers, and though all the magical pillars have been broken and have collapsed, the great beast once favored by the king hides still within the great searing storm. 击败神秘的机关组合后，获得的核心部件。 即使到今日，古老的机械也从未遗忘主人的梦与自己的职责：构筑一千座宫殿、统辖三千台机械、种下一万朵如今已经不再开放的花，为地上一切有灵者重现埋没在沙海中的「乐园」。 即使荒漠的王者已经不再，梦想也因为深罪的低语而腐败； 即使所有魔柱都完全折断、倒塌，原本受王青睐的巨兽隐入热砂的风暴中。"
+  },
+  {
+    "id": "anemo_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/anemo_hypostasis.webp",
+    "title": {
+      "ru": "Анемо гипостазис",
+      "en": "Anemo Hypostasis",
+      "zh": "无相之风"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "hurricane_seed",
+        "title": {
+          "ru": "Семя урагана",
+          "en": "Hurricane Seed",
+          "zh": "飓风之种"
+        },
+        "icon": "assets/icons/items/world_bosses/hurricane_seed.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "анемо гипостазис anemo hypostasis 无相之风 мондштадт 1.0 world_bosses enemy_drops кодовое название: бет. высококонцентрированный анемо элемент. элементальный гипостазис - это существо, лишившееся своей первоначальной формы для того, чтобы добиться высших форм концентрации элемента. основное изучение гипостазиса ведётся в академии сумеру, но, в связи с высоким уровнем угрозы, о нём ничего, кроме научного и кодового названия, неизвестно. code name: beth. a high-purity anemo entity. elemental hypostases are life forms which have completely abandoned their former appearance and biological structure, making them able to reach the highest level of elemental purity. research into hypostases is mainly led by scholars of sumeru akademiya, but due to the level of danger that they pose, little of substance is known about hypostases beyond their scientific name and code name. 代号为「贝特」 的高级风元素生命。 「无相」 指的是抛弃了其他元素生物的形态与生态，达到的纯粹境地。 针对无相元素的研究，主要由须弥教令院的学者主导进行。 但由于其危险性，除了代号与命名以外，基本没有取得什么值得参考的研究成果… hurricane_seed семя урагана hurricane seed 飓风之种 разрушенная форма анемо гипостазиса, содержащая концентрированную энергию анемо. говорят, что в его, казалось бы, хрупком теле хранится способность создавать вихри. эта бабочка из чистой энергии анемо ждёт дня, когда снова сможет вызвать бурю. the imploded form of an anemo hypostasis upon its defeat. contains the essence of anemo energy. it is said that the power to create hurricanes resides within its seemingly fragile body. this butterfly of pure anemo energy must surely be waiting for the day when it can conjure up storms once again. 无相之风被击败后，所坍缩成的形态。 其中蕴含着至纯的风之力。 传说在纤细脆弱的蝴蝶体内，也藏有引发飓风的力量。 这由纯粹的风构成的蝴蝶，无疑在等待着再次召来暴风的那一天吧。"
+  },
+  {
+    "id": "bathysmal_vishap_herd",
+    "category": "items",
+    "icon": "assets/icons/enemies/bathysmal_vishap_herd.webp",
+    "title": {
+      "ru": "Стая вишапов глубин",
+      "en": "Bathysmal Vishap Herd",
+      "zh": "深海龙蜥之群"
+    },
+    "region": "Инадзума",
+    "game_version": "2.4",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "dragonheirs_false_fin",
+        "title": {
+          "ru": "Ложный плавник Дракона глубин",
+          "en": "Dragonheir's False Fin",
+          "zh": "龙嗣伪鳍"
+        },
+        "icon": "assets/icons/items/world_bosses/dragonheirs_false_fin.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2004000,
+    "search_text": "стая вишапов глубин bathysmal vishap herd 深海龙蜥之群 инадзума 2.4 world_bosses enemy_drops могучее скопление вишапов глубин. этих вишапов выводил и отбирал народ энканомии, что наделило их небывалой силой. вишапы, конечно же, добротой такое отношение не считают. сильнейшие из стаи способны использовать элементы, вымещая с их помощью гнев. a powerful group of bathysmal vishaps. they have been specifically bred and selected by the people of enkanomiya, which has given them their exceptional strength. of course, no vishap would consider this some sort of debt to be repaid. the strongest members of this herd can use different elements, which they wield as a show of their hatred. 强大的深海龙蜥之群。 它们的强大源自渊下宫之民的培育和筛选。 自然，必定不会有龙蜥会认为这是恩情。 这一支族群里最强大者会操持着不同的元素，向着来者宣泄他们的愤怒。 dragonheirs_false_fin ложный плавник дракона глубин dragonheir's false fin 龙嗣伪鳍 кусок биологической ткани, который вы нашли после победы над вишапом глубин. хотя он выглядит как плавник, на самом деле он таковым не является. жители бякуякоку хорошо изучили вишапов глубин. их самой главной отличительной особенностью была способность выбирать, какие черты передавать своему потомству. из-за своей огромной ненависти к человечеству эти вишапы теряют остроту зрения к моменту достижения зрелого возраста. в то же время они развили определённую степень элементального полиморфизма в боевых целях. a piece of biological tissue that you found after defeating the bathysmal vishaps. although it looks like a fin of some kind, it does not actually have any function at all. the people of byakuyakoku once investigated the bathysmal vishaps quite deeply. their most distinctive feature was the ability to choose what traits it wished to pass on to its offspring. because of their great hatred for humanity, these vishaps will lose any visual acuity by the time they reach maturity. at the same time, they have also evolved a certain degree of elemental polymorphism for combat purposes. 击败深海龙蜥之后，可以拾取到的一截生物组织。 虽然看起来像是鲨鳍，但其实并不发挥什么作用。 曾经的白夜国之民对深海龙蜥有深入的研究。 它们最为不同的一点就是可以靠意志决定自身特征的去留与遗传。 因为厌恶人造光源，龙蜥成年就会失去视觉上的大部分细节； 同时为了战斗，它们进化出了其他元素的行为多型性。"
+  },
+  {
+    "id": "cryo_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/cryo_hypostasis.webp",
+    "title": {
+      "ru": "Крио гипостазис",
+      "en": "Cryo Hypostasis",
+      "zh": "无相之冰"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.5",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "crystalline_bloom",
+        "title": {
+          "ru": "Цветение кристалла",
+          "en": "Crystalline Bloom",
+          "zh": "晶凝之华"
+        },
+        "icon": "assets/icons/items/world_bosses/crystalline_bloom.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1005000,
+    "search_text": "крио гипостазис cryo hypostasis 无相之冰 мондштадт 1.5 world_bosses enemy_drops кодовое название: далет. высококонцентрированный крио элемент. исследования показали, что между элементальными гипостазисами и обычными созданиями элементов есть небольшое отличие. именно оно может быть причиной высокой стабильности их форм и механичности выполняемых действий. code name: daleth. a high-purity cryo entity. research suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical composition. perhaps these differences can account for their high level of homeostasis and their almost mechanical movements. 代号为「塔勒特」 的高级冰元素生命。 根据研究，无相元素与常规的元素生物在物质构成上有着细微的差别。 而这些细微的成分差别，或许就是它们高度稳定的形态与机械般的行动方式的由来吧。 crystalline_bloom цветение кристалла crystalline bloom 晶凝之华 ледяные кристаллы поразительной чистоты, образовавшиеся в холодном цвету крио гипостазиса. эти морозные кристаллы никогда не прекратят расти, следуя своим студёным законам, пока однажды не раскроется цветок зимы и не заморозит всё вокруг. возможно, застывшее время, его нетающее лоно, и есть истинная сущность этого бессмертного цветка. an ice crystal of exceeding purity that is created in the frigid blooming of a cryo hypostasis. these frosty crystals will continue to grow according to their own cold, rigid laws, till one day a flower of winter shall bloom and freeze everything. perhaps it is stagnant time, that never-thawing bosom, that is the essence of this undying flower. 无相之冰绽开的极寒瞬间，凝结而出的至纯冰晶。 冰霜的结晶永远依凭着冰冷的定则生长、盛放，最终开出冻结一切的凛冬之花。 或许滞顿的时间，无法解冻的幽怀，才应当是永存不灭之花的真谛。"
+  },
+  {
+    "id": "cryo_regisvine",
+    "category": "items",
+    "icon": "assets/icons/enemies/cryo_regisvine.webp",
+    "title": {
+      "ru": "Крио папоротник",
+      "en": "Cryo Regisvine",
+      "zh": "急冻树"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "hoarfrost_core",
+        "title": {
+          "ru": "Инеевое ядро",
+          "en": "Hoarfrost Core",
+          "zh": "极寒之核"
+        },
+        "icon": "assets/icons/items/world_bosses/hoarfrost_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "крио папоротник cryo regisvine 急冻树 мондштадт 1.0 world_bosses enemy_drops это чудовище появилось из отростка артерий земли, который впитал эссенцию пронизывающего холода. некоторые исследователи утверждают, что растения подобны организму этого мира: они нормализуют турбулентные элементальные потоки артерий земли. примерами такого явления стали туманный цветок, попрыгунья и другие наполненные элементальной энергией растения. в определённых обстоятельствах на протяжении многих лет некоторые растения могут превратиться в существ огромного размера и чудовищных намерений. a monster formed from a vine that was imbued with the essence of biting frost within the ley lines. some studies suggest that plants are like the organs of the world, harmonizing the turbulent elemental energies of the ley lines. concrete examples of this phenomena are mist flowers, whopperflowers, and the like, which brim over with elemental energy. in certain circumstances, certain plants will turn into creatures of monstrous size and intent — such as the cryo regisvines — in the course of many years. 地脉中的寒霜附着在藤蔓上，由此形成的魔物。 有研究认为，植物就像世界的器官一样，调和着元素奔涌的地脉； 而这种生态在地表上的结晶就是冰雾花、骗骗花等，充满了元素能量的产物。 而生长在特定环境的特定植物，经年累月或许就会成为急冻树这样的，如同魔兽一般庞大而凶猛的生命体吧… hoarfrost_core инеевое ядро hoarfrost core 极寒之核 ядро крио папоротника, внутри которого содержатся чистые крио элементы. энергия и мысли, которые копятся глубоко в земле, в конечном итоге вспыхнут на поверхности. даже смертельно тихий мороз заставит лозы и ветви пойти против своего естества и стать огромными и жестокими охотниками. the exposed core of a defeated cryo regisvine. pure cryo energy is contained within it. energy and thoughts that swell deep within the earth will eventually erupt on the surface. even the deathly silent frost will attach to living things on the ground, turning even ordinary vegetation like vines into huge, vicious predators. 急冻树被击败后，裸露出的原核。 其中蕴含着纯净的冰元素。 在大地深处中奔涌的能量与思念终归会喷发。 就连哀思般沉寂的寒霜，也会附着在地面上的生命形态当中； 即使原本不该狩猎生灵的藤蔓植物，也会变得庞大而凶悍吧。"
+  },
+  {
+    "id": "dendro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/dendro_hypostasis.webp",
+    "title": {
+      "ru": "Дендро гипостазис",
+      "en": "Dendro Hypostasis",
+      "zh": "无相之草"
+    },
+    "region": "Сумеру",
+    "game_version": "3.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "quelled_creeper",
+        "title": {
+          "ru": "Подавленная лоза",
+          "en": "Quelled Creeper",
+          "zh": "灭诤草蔓"
+        },
+        "icon": "assets/icons/items/world_bosses/quelled_creeper.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3002000,
+    "search_text": "дендро гипостазис dendro hypostasis 无相之草 сумеру 3.2 world_bosses enemy_drops кодовое название: заин. высококонцентрированный дендро элемент. наблюдаются значительные отклонения в поведении этого существа от других элементальных гипостазисов. причины этого явления до сих пор достоверно не установлены. code name: zayin. a high-purity dendro entity. according to the deductions of some researchers, elemental hypostases have the knowledge required to \"learn, \" which is how they use \"mimesis\" to initiate attacks. however, the ability to incorporate information to create change also opens one to the risk of information contamination. as this creature learns and changes, the purpose of its birth - no matter how academically unquantifiable it may still be - may yet become so distorted as to be rendered irrelevant. 代号为「扎因」 的高级草元素生命。 依据学者的推想，无相元素具有「学习」 的智慧，进而产生了利用「拟态」 进行攻击的能力。 但能够摄入信息、产生变化，就可能遭受信息的污染。 在学习、变化的过程中，原本诞生的目的——尽管如今在学界中仍是未解之谜——或许也会被歪曲、变得无关紧要吧。 quelled_creeper подавленная лоза quelled creeper 灭诤草蔓 окончательная форма дендро гипостазиса. жёсткие виноградные лозы защищают кубический элементальный кристалл. дендро не поддаётся никакой логике, но при этом существует в совершенной гармонии с жизнью. элементальные гипостазисы, напротив, наиболее отличаются от всех живых существ. сочетание этих двух факторов никогда не должно было появиться в этом мире. говорят, что элементальные гипостазисы обладают разумом, позволяющим «учиться», поэтому они понимают цвета и сны леса, и в итоге приняли эту форму спустя несколько тысячелетий. the final coalesced form of the dendro hypostasis. the tough vines protect a pure cubic elemental crystal. dendro defies any common logic yet exists in perfect harmony with life. elemental hypostases, on the contrary, are most distant in appearance to all living beings. the combination of these two should probably never have appeared in this world. it is said that such elemental hypostases have the intelligence to \"learn\" and have thus understood the colors and dreams of the forest, a process that has transformed them into this shape over thousands of years. 无相之草最终凝聚成的形姿，坚硬的藤蔓包围之下的纯净元素方晶。 最与常理相悖、又最适宜生命的草元素，与距离一切生命的形态最遥远的无相元素原本不应当相结合出现在大地上吧。 一说认为无相元素有「学习」 的智性，所以了解到了森林中的多彩与梦。 在超越千年的晕染中，也变成了如此的形态。"
+  },
+  {
+    "id": "electro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/electro_hypostasis.webp",
+    "title": {
+      "ru": "Электро гипостазис",
+      "en": "Electro Hypostasis",
+      "zh": "无相之雷"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "lightning_prism",
+        "title": {
+          "ru": "Призма молнии",
+          "en": "Lightning Prism",
+          "zh": "雷光棱镜"
+        },
+        "icon": "assets/icons/items/world_bosses/lightning_prism.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "электро гипостазис electro hypostasis 无相之雷 мондштадт 1.0 world_bosses enemy_drops кодовое название: алеф. высококонцентрированный электро элемент. элементальный гипостазис - это высшая форма элементальной структуры, которая формируется в местах с зашкаливающей элементальной энергией или с тяжёлой проходимостью элементов. элементальный гипостазис разработал защитные механизмы, основанные на его элементе. code name: aleph. a high-purity electro entity. elemental hypostases are the highest forms of elemental structures, usually formed either at a location bursting with elemental energy or at a clogged ley line. elemental hypostases have developed various attacks based on their elemental attributes. 代号为「阿莱夫」 的高级雷元素生命。 无相元素是顶尖的元素构造体，会在元素能量喷涌的位置，或元素地脉阻塞的地点形成。 不同的无相元素会基于其元素特性，进化出战斗的方式。 lightning_prism призма молнии lightning prism 雷光棱镜 электро гипостазис направляет окружающую его элементальную энергию на восстановление элементальных сущностей, и содержит в себе концентрированную энергию электро. обычная призма расщепляет пропущенный сквозь неё свет на составляющие его цвета, а электро призма превращает пропущенную сквозь неё энергию в молнию. она не теряет эту способность даже после смерти самого электро гипостазиса. an electro hypostasis channels nearby elemental energy to repair damaged elemental entities. contains the essence of electro energy. an ordinary prism separates white light into its component colors; a lightning prism, however, channels flowing energies and weaves them into lightning. it will continue to do so even after the electro hypostasis has been defeated. 无相之雷用于汇聚元素，修复损伤的元素物质。 其中蕴含着至纯的雷之力。 棱镜能将构成光的色彩区分，而雷光棱镜将奔流的能量编织成纯粹的雷光。 即使无相之雷已经被击败，雷元素也持续在这只棱镜中汇聚。"
+  },
+  {
+    "id": "electro_regisvine",
+    "category": "items",
+    "icon": "assets/icons/enemies/electro_regisvine.webp",
+    "title": {
+      "ru": "Электро папоротник",
+      "en": "Electro Regisvine",
+      "zh": "掣电树"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "thunderclap_fruitcore",
+        "title": {
+          "ru": "Плод грома",
+          "en": "Thunderclap Fruitcore",
+          "zh": "藏雷野实"
+        },
+        "icon": "assets/icons/items/world_bosses/thunderclap_fruitcore.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3000000,
+    "search_text": "электро папоротник electro regisvine 掣电树 сумеру 3.0 world_bosses enemy_drops гигантское растение, которое яростно высвобождает электрические заряды, хранящиеся в артериях земли. сила электро пробуждает растения и повышает плодородие почвы. если это растение действительно было создано для гармонизации бурных энергий артерий, то, возможно, сама земля желает, чтобы леса сумеру росли и процветали. a huge vine that has morphed into a monster through the conduction of high-voltage currents through the ley lines. electricity surges constantly from its canopy like the unending rage of the earth itself. kshahrewar researchers once submitted that a complex circuit matrix might be set up around this creature to carry electrical energy to the city for use there. this plan was stridently opposed by scholars from spantamad, who sacrificed 10 shroomboars to drive home the point about the dangers of utilizing electricity. 汲取了地脉中传导的高压电流的巨大藤蔓形成的魔物。 从树冠中源源不断释放出电力，如同发泄着大地的愤怒。 曾经有妙论派的学者提出，如果围绕掣电树建立起一套复杂的电路矩阵，便能够将其中的电能输送到城市里使用。 这一计划遭到了素论派学者的激烈反对，为此他们不惜牺牲了十头蕈猪以证明使用电力的危险性。 thunderclap_fruitcore плод грома thunderclap fruitcore 藏雷野实 сердцевина электро папоротника, обрамлённая острыми листьями. излучает элемент электро. ревущая энергия в глубинах земли жаждет извергнуть накопившуюся ярость, отравляя своим безумием даже побеги растений, и они стонут, и они бьются в отчаянных конвульсиях. неизвестно, жаждут ли они, чтобы люди испытали такую же боль от пронзающей тело молнии, или просто ждут часа своей неминуемой смерти. the core of an electro regisvine, wrapped in razor-sharp leaves, wantonly emits electro energy. the roaring energy rampaging deep within the earth is eager to pour out its rage, thus even tainting these unfortunate vines with its mania, causing them to wail and flail their branches frantically. one can hardly tell whether it longs for others to taste the pain of being continously electrocuted and charred or if it is struggling, looking forward to its inevitable doom. 被锋锐树叶包裹着的掣电树核心，肆意向周身散发雷元素。 大地深处咆哮的能量急切地想要倾泻暴怒，于是不幸的藤蔓也沾染了狂躁的气息，挥舞着扭曲的枝条哀号，不知是想要让他人品尝雷火穿身的苦痛，还是挣扎着期待必至的末日。"
+  },
+  {
+    "id": "emperor_of_fire_and_iron",
+    "category": "items",
+    "icon": "assets/icons/enemies/emperor_of_fire_and_iron.webp",
+    "title": {
+      "ru": "Император огня и железа",
+      "en": "Emperor of Fire and Iron",
+      "zh": "铁甲熔火帝皇"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "emperors_resolution",
+        "title": {
+          "ru": "Приговор императора",
+          "en": "Emperor's Resolution",
+          "zh": "帝皇的决断"
+        },
+        "icon": "assets/icons/items/world_bosses/emperors_resolution.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4000000,
+    "search_text": "император огня и железа emperor of fire and iron 铁甲熔火帝皇 фонтейн 4.0 world_bosses enemy_drops один из двух владык, некогда возвышавшихся над инородами фонтмера, и герой легенд среди моряков. не встречая природных врагов, бронекраб постоянно охотился, питался и искал подходящих моллюсков и улиток для нового панциря. от этого он вырос слишком большим. сохранились записи о том, как до первого наводнения исполинский бронекраб нападал на корабли и был повержен ещё не восстановившейся в должности начальницей флота бэзил элтон. представьте себе такой мир: император огня и железа уничтожает всех жителей тейвата и вырастает до таких размеров, что надевает на себя дворец мермония, как самые ослепительные белоснежные доспехи. конечно, в таком мире никто не будет то ли трепетно, то ли шутливо называть его «императором огня и железа». one of the two sovereigns who once stood at the apex of the aberrant species of the fontemer, and the subject of many a tale among sailors. an armored crab that avoids predation, and can keep hunting and eating, will continue to grow, continually seeking out suitable shells to become its new armor. but eventually, it became simply too gargantuan. before the first diluvian period, a massive armored crab once attacked a ship, and was finally forced back into the depths by basil elton, who had not yet been reinstated as a naval commander. imagine this world: all of humanity has been purged from teyvat, and the ever-growing emperor of fire and iron eventually wears the palais mermonia upon its body like a luxurious coat of white stone. of course, in such a world, there naturally would be no one to call it, half-jokingly and half in awe, the \"emperor of fire and iron.\" 蛰居在岩窟之中的古老原海异种王者，据说曾经见证过第一次涨水潮之前的枫丹之海。 矗立在原海异种顶端的两位霸主之一，曾经是海员之间的逸闻。 不遇天敌，能够一直狩猎、进食的重甲蟹会随着成长，不断寻找适合的螺与贝壳，作为新的甲胄。 但在最后它长得实在太大了。 在第一次涨水期前，曾有巨大的重甲蟹袭击船只，并最终被尚未复职的海军司令贝瑟·埃尔顿击退的记录。 设想这样的世界：将提瓦特所有的人都消除，无限成长下去的铁甲熔火帝皇终究会将沫芒宫穿在身上，作为最为华美的白石铠甲吧。 当然在那样的世界自然不会有人半是敬畏，半是戏谑地将它称为「铁甲熔火帝皇」 了。 emperors_resolution приговор императора emperor's resolution 帝皇的决断 гигантский бронекраб, известный как «император огня и железа», сокрушил своей клешнёй бесчисленное множество «гостей», будь то меки, внезапно появившиеся каратели или другие инороды фонтмера. в отличие от людей у инородов нет аристократии, нет детей богачей, и никто никого не превосходит от рождения. преодолевая невзгоды и побеждая природных врагов, инород фонтмера с годами растёт, охотясь, питаясь и наращивая ничем не ограничиваемую силу, чтобы в конце концов его благоговейно называли владыкой. the war hammer of the emperor of fire and iron. the mighty crab has crushed countless foes with this giant claw. be it clockwork meka, other fontemer aberrants, or hunters with ill-placed curiosity — all have yielded under its power. fontemer aberrants are different from human beings in that the concepts of aristocracy or inheritance are entirely foreign to them. none of them are born superior. one that survives deadly predators and adversities is able to accumulate infinite power as it keeps hunting and feeding over centuries. such a creature is often referred to as an overlord for the fear it inspires. 铁甲熔火帝皇的战锤。 无论是其他的原海异种，还是发条机关或是一时兴起的讨伐者，它用这只巨钳粉碎了无数觐见者。 与人不同：在原海异种当中，不存在贵族，也不存在富人之子，谁也无法生来就高于别的同类。 能够克服一切逆境、战胜一切天敌的原海异种在漫长的岁月中能够随着捕猎与进食，无限地积累力量成长，最终被充满畏惧地称为霸王。"
+  },
+  {
+    "id": "experimental_field_generator",
+    "category": "items",
+    "icon": "assets/icons/enemies/experimental_field_generator.webp",
+    "title": {
+      "ru": "Экспериментальный генератор поля",
+      "en": "Experimental Field Generator",
+      "zh": "实验性场力发生装置"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "tourbillon_device",
+        "title": {
+          "ru": "Турбийон",
+          "en": "\"Tourbillon Device\"",
+          "zh": "「图比昂装置」"
+        },
+        "icon": "assets/icons/items/world_bosses/tourbillon_device.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4001000,
+    "search_text": "экспериментальный генератор поля experimental field generator 实验性场力发生装置 фонтейн 4.1 world_bosses enemy_drops крупногабаритное устройство, разработанное покойным эдвином истингхаусом. способно «противодействовать гравитации». согласно первоначальному замыслу, это был первый шаг в реализации плана по превращению фонтейна в летающий город, чтобы жителей больше никогда не беспокоили волны, некогда захлёстывавшие землю. даже если все семь стран поглотит бездна, кур-де-фонтейн будет парить в вышине, подобно селестии. даже тайны вселенной перестанут казаться такими далёкими. архиум в ядре прибора обладает свойствами «расщепления» или «осаждения», он может разделять материю и некоторые нематериальные сущности. утверждается, что этот процесс можно обратить вспять, но в исследовательском институте думают только о физических явлениях, которые могут создавать. a large device designed by the late edwin eastinghouse. it has the ability to \"counteract\" the effects of gravity. according to the original design intentions, this was the first step in a plan to turn fontaine into a city in the sky, so never again would the people have to worry about the waves that once swept over the land. even if all seven nations were to be swallowed by the deeps, the elegant court of fontaine would float above it all, just like celestia. even the secrets of the universe would no longer seem so distant. the arkhium in the device's core has the characteristics of \"splitting\" or \"precipitation, \" and can take matter, or certain things outside of matter, and separate them. it is said that this process can be reversed, but the fontaine research institute is infatuated only with the physical effects it can produce. 艾德温·伊斯丁豪斯生前设计的大型装置。 依照原本的设计意图，拥有「抵消」 重力的效果； 依照原本的设计意图，这将是将枫丹建设成天空之都的第一步，从此以后再也没有人需要为曾经荡涤大地的浪潮而忧心，即使七国尽没深海，瑰丽的枫丹廷也将如天空岛那样在空中漂游。 就连宇宙的秘密也将变得不那么遥不可及。 装置核心的始基矿拥有「分离」 或是「沉淀」 的特性，能够将物质，或是某些物质以外的事物分离； 传说这样的性质也能被反转，但枫丹科学院只醉心于它所能产生的物理效用。 tourbillon_device турбийон \"tourbillon device\" 「图比昂装置」 ключевая деталь экспериментального генератора поля. механическая деталь точной обработки, нейтрализующая действие силы тяжести и вращающаяся с высокой скоростью, которую практически невозможно определить невооруженным глазом. на протяжении всей своей долгой истории научно-исследовательский институт кинетической энергии фонтейна искал способ противостоять потопу, который когда-то смыл бесчисленное множество жизней и однажды может обрушиться вновь. архиум, содержащий огромный запас энергии и способный разрушить земные оковы, когда-то считался ключом к вратам спасения. the core component of the experimental field generator. a precision-machined mechanical component that counteracts the effects of gravity via high-speed rotation. the revolution speed is so fast that it is almost impossible to capture with the naked eye. throughout its long history, the fontaine research institute of kinetic energy engineering has always warred against a flood that once washed countless lives away, and may yet cover the earth and sky one day far in the future, searching for a means to survive. arkhium, with its immense energetic potential and power to shatter the shackles of the earth, was once considered the key to the gate of salvation. 实验性场力发生装置的核心部件。 能够在肉眼几乎无法捕获的高速旋转中，抵消重力影响的精密加工机械件。 在长久的历史中，枫丹动能工程科学研究院一直在以曾经洗去无数生命，又总有一天会再度遮天蔽日的洪水为敌，寻找着生存的途径。 而蕴含着庞大能量，能够粉碎大地桎梏的始基矿则一度被认为是开启救赎大门的钥匙。"
+  },
+  {
+    "id": "frostnight_herra",
+    "category": "items",
+    "icon": "assets/icons/enemies/frostnight_herra.webp",
+    "title": {
+      "ru": "Повелитель морозной ночи",
+      "en": "Frostnight Herra",
+      "zh": "霜夜巡天灵主"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "radiant_antler",
+        "title": {
+          "ru": "Сияющий рог",
+          "en": "Radiant Antler",
+          "zh": "漫光的辉角"
+        },
+        "icon": "assets/icons/items/world_bosses/radiant_antler.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6001000,
+    "search_text": "повелитель морозной ночи frostnight herra 霜夜巡天灵主 нод-край 6.1 world_bosses enemy_drops гордые существа, бродящие в угасающем сиянии луны, владеющие древними силами, давно укрощенными владыкой неба. легенда гласит, что эти грациозные и таинственные звери родились в эпоху, когда морозная луна ещё вращалась по своей орбите, и благодаря благосклонности небесного посланника они не были осквернены светом небес. даже сейчас среди последователей морозной луны они считаются священными зверями, затерянными здесь, удалившимися во внешний мир тайными тропами лунного света. и всё же, как и бесчисленные века назад, они продолжают бродить в лунных тенях, ступая по границе между двумя мирами, охраняя земли, объятые бедствиями, и присматривая за теми, кто обитает в них, - ибо это та самая клятва, которую они впервые принесли апостолу золотого города. proud beings that roam in the waning glow of the moon, wielding ancient powers long since tamed by the lord of the sky. legends say these graceful, mystical beasts were born in the age when the frost moon still turned, and, favored by the divine emissary, they would not be tainted by the light of day. even now, among the followers of the frost moon, they are regarded as sacred beasts lost to this world, retreating along secret lunar paths beyond the reach of mortal eyes. yet, as they have for countless centuries past, they still wander in the shadows of the moon, treading the boundary between two worlds, guarding the lands coveted by calamity, and watching over those who dwell within them — for this is the very oath they first swore to the apostle of the golden city. 于月光的残辉中巡行的高傲生灵，使役着如今早已被高天之主驯化的古老力量。 传说这些优雅的灵兽诞生于霜月依然轮转的年岁，又因着神使的偏宠而不会为天光所侵染。 时至今日，即便是在霜月的追随者中，它们亦被视作已不存此世的圣兽，沿着月光的秘径隐遁到了世界之外。 但正如过去的数十个百年一般，它们依然漫行于月光的影子中，漫行于两个世界的边际，巡护这被灾厄觊觎的土地，与生活在其上的人们——因为这便是它们最初向黄金城的圣徒立定的誓言。 radiant_antler сияющий рог radiant antler 漫光的辉角 фрагмент величественных рогов поверженного повелителя морозной ночи. лёгкий и острый как бритва, он не нуждается в заточке и с лёгкостью прорезает даже металлическую броню. согласно древним преданиям, эти прекрасные и гордые создания были сотворены первым посланником. когда рай пал, они заключили договор с владычицей морозной луны и поклялись использовать первозданный свет, дарованный ею, чтобы очищать смертный мир от скверны до возвращения древнего покровителя. сегодня истоки этих легенд давно забыты, и их подлинность невозможно доказать. но существа, некогда идущие со светом, всё ещё оберегают эту землю из теней, выдерживая морозные ночи и натиск чёрных волн. ничто не способно стереть их из этого мира. a fragment of a defeated frostnight herra's majestic antlers. light and razor-sharp, it requires no sharpening to help it slice through metal armor with ease. according to ancient tales, these beautiful, proud creatures were created by the first emissary. when elysium fell, they made a pact with the mistress of the frost moon, vowing to use the primal light bestowed by the frost moon to cleanse the mortal world's defilement until the patron of old could return once more. today, these legends' origins are long lost, and their veracity is impossible to prove. yet the creatures that once walked with the light continue to watch over this land from the shadows, through the long frozen nights and withering black tide alike — none of which could cause their forms to vanish from this world. 击败霜夜巡天灵主之后，自其角冠上脱落的碎片，质地轻盈而锋锐，即便是在未经打磨的情况下，也能毫不费力地削开普通的金属护甲。 古老的民话中，这些高傲而优美的生灵受造于最初的神使。 乐园殒落之时，它们曾与霜月的女主人立约，誓要以得赐于霜月的源光，涤净尘世的污秽，直至旧日的恩主再度归来。 传说的来由与真实性如今早已无从考证，但过去与光同行的生灵依然在影中庇卫着这片大地——无论是凛冽的长夜还是漆黑的枯潮，都未能使它们的身姿从世间隐匿。"
+  },
+  {
+    "id": "geo_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/geo_hypostasis.webp",
+    "title": {
+      "ru": "Гео гипостазис",
+      "en": "Geo Hypostasis",
+      "zh": "无相之岩"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "basalt_pillar",
+        "title": {
+          "ru": "Базальтовая колонна",
+          "en": "Basalt Pillar",
+          "zh": "玄岩之塔"
+        },
+        "icon": "assets/icons/items/world_bosses/basalt_pillar.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "гео гипостазис geo hypostasis 无相之岩 ли юэ 1.0 world_bosses enemy_drops кодовое название: гимель. высококонцентрированный гео элемент. элементальный гипостазис - это сверхкомпактная структура с высокой массой. высокая концентрация элементальной энергии образует твёрдую оболочку вокруг ядра, активно реагирующего на элементальные стимулы. code name: gimel. a high-purity geo entity. elemental hypostases are ultra-compact structures with a high mass. concentrated elemental energy forms a solid shell around the core of the hypostasis, leaving only the core reactive to elemental stimuli. 代号为「基末尔」 的高级岩元素生命。 无相元素本身是超浓缩的构造体，拥有极高的质量。 浓缩成硬质固体的元素超质壳是惰性的，只有内部的核会活跃发生元素反应。 basalt_pillar базальтовая колонна basalt pillar 玄岩之塔 колонна, образованная из оболочки гео гипостазиса и содержащая в себе концентрированную энергию гео. это самый тяжёлый компонент элемента гео. после смерти гео гипостазис создаёт эту колонну из своей оболочки вовсе не для боя, а всего лишь для того, чтобы стать ближе к небесам. a pillar formed by the shell of a geo hypostasis, composed of high-density geo energy. it is a testament to geo's status as the heaviest of the elements. maybe the reason a geo hypostasis creates this pillar out of its shell and raises itself is just to get closer to the sky, not to combat enemies. 无相之岩的外壳构成的石柱。 由纯粹的岩元素高度浓缩而成。 岩元素是最为沉重的元素。 无相之岩将外壳筑成高耸的岩柱，将自己抬升至高处，或许不仅是为了应敌。 或许也是为了更加接近与它无缘的天空吧。"
+  },
+  {
+    "id": "gluttonous_yumkasaur_mountain_king",
+    "category": "items",
+    "icon": "assets/icons/enemies/gluttonous_yumkasaur_mountain_king.webp",
+    "title": {
+      "ru": "Прожорливый Горный король-юмказавр",
+      "en": "Gluttonous Yumkasaur Mountain King",
+      "zh": "贪食匿叶龙山王"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "overripe_flamegranate",
+        "title": {
+          "ru": "Перезревший пламегранат",
+          "en": "Overripe Flamegranate",
+          "zh": "过熟的火榴果"
+        },
+        "icon": "assets/icons/items/world_bosses/overripe_flamegranate.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5000000,
+    "search_text": "прожорливый горный король-юмказавр gluttonous yumkasaur mountain king 贪食匿叶龙山王 натлан 5.0 world_bosses enemy_drops могущественный юмказавр, переживший разрушительное воздействие времени, множество сражений и доживший до наших дней. горный король, который когда-то сражался вместе с великими героями против чёрного прилива, занимает особое место в сердцах потомков крон. некоторые из племени считают, что его нынешняя форма связана с уникальным телосложением, как у кукузавра-тирана. однако на самом деле это потому, что он прожил долгую жизнь и слишком много съел. a powerful yumkasaur that has survived both the ravages of time and countless battles, surviving until the present day. this \"mountain king, \" who once joined forces with the great heroes against the black tide, holds a special place in the hearts of the scions of the canopy. some tribe members believe that it has its current body shape because it has a unique physique, like the qucusaurus \"tyrant\"... though in fact, this is simply because it's lived for so long, and eaten way, way too much. 自古老的年代存活至今，经历了无数战场的强大匿叶龙。 曾经与众英杰们携手面对漆黑潮水的「山王」，在「悬木人」 部族的成员心中具备极重的分量。 有部族人认为，它有着现在这样的体态，是与绒翼龙的「暴君」 一般，拥有着特殊的体质…但也许只是因为它活得太长，而吃得也实在太多了的缘故。 overripe_flamegranate перезревший пламегранат overripe flamegranate 过熟的火榴果 странный пламегранат, найденный после победы над прожорливым горным королём-юмказавром. обычно пламегранаты, которые продолжают расти после созревания, падают в грязь и гниют. но пламегранаты, упавшие с гривы горного короля, из-за особых внутренних температурных условий, обладают редким перезревшим состоянием. в этом состоянии они стабильны, ярко окрашены и обладают характерным насыщенным вкусом. a strange flamegranate obtained after defeating the gluttonous yumkasaur mountain king. normally, flamegranates that keep growing once they have already ripened simply fall into the mud and rot. but flamegranates that have fallen from the mountain king's mane, perhaps owing to the unique internal temperature conditions, exhibit a rarely-seen \"overripe\" state. flamegranates in this state are stable, phlogiston-packed, brightly colored, and possess a rich and highly distinctive flavor. 击败贪食匿叶龙山王后，获得的奇特火榴果。 一般来说，成熟的火榴果如果再继续生长，就会跌入泥中腐烂。 但是从山王的鬃毛之中落下的果子，或由于其奇特体温保护着的缘故，呈现出非常难得的「过熟」 状态。 这种状态下的火榴果稳定，富含燃素，果色厚重，别具一番风味。"
+  },
+  {
+    "id": "golden_wolflord",
+    "category": "items",
+    "icon": "assets/icons/enemies/golden_wolflord.webp",
+    "title": {
+      "ru": "Золотой волчий вожак",
+      "en": "Golden Wolflord",
+      "zh": "黄金王兽"
+    },
+    "region": "Инадзума",
+    "game_version": "2.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "riftborn_regalia",
+        "title": {
+          "ru": "Эмблема Разрыва",
+          "en": "Riftborn Regalia",
+          "zh": "兽境王器"
+        },
+        "icon": "assets/icons/items/world_bosses/riftborn_regalia.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2003000,
+    "search_text": "золотой волчий вожак golden wolflord 黄金王兽 инадзума 2.3 world_bosses enemy_drops прибывший из наполненного мраком мира вожак чёрных волков, способный призывать странных тварей со скрытыми когтями. они разрывают пространство и создают брешь для прохода вожака. волчьему вожаку не было дано имя, поскольку он случайное творение «золота». именно поэтому он одержим захватом миров, которые ему не принадлежат. он намерен завоевать себе имя. но волки отнюдь не глупы. потерпев при последней попытке захвата поражение, для сошествия своего повелителя они выбрали отдалённый остров, необитаемый и незащищённый. hailing from a dark world, this ruler of the black wolves has the power to call upon its followers, its hidden claws, to dissolve space itself and forge a rift through which it may enter. the wolflord has no name, for it was but one of \"gold\"'s unintentional creations, and that is precisely why it is obsessed with invading worlds that do not belong to it and making a name for itself. that said, the wolf pack is far from unintelligent. after suffering a defeat in its previous invasion, a deserted island where no humans or protectors dwell has been selected for them to prepare for their lord's descent. 来自晦暗的异界，是漆黑群狼之中的王，具有号令隐爪之异兽为它溶解空间，创造通行的裂隙的权能。 王兽并没有名字，因为本身不过是「黄金」 无心的造物； 正因如此，才会更执着于侵入不属于它的世界，以自己的力量争取名号吧。 但狼群绝非痴钝之物。 此前的入侵受挫后，选择了既无人、也无守护者的荒凉远岛，为王兽的降临做准备。 riftborn_regalia эмблема разрыва riftborn regalia 兽境王器 сломанный рог, полученный после победы над золотым волчьим вожаком. хотя после охоты от него ничего не должно было остаться в реальном мире. даже повелитель волков разрыва - ничто по сравнению с более высокородными монстрами. «золото» создало эти уродливые волчьи стаи случайно, будто скомкав лист бумаги с рисунком. рога вожака символизируют его власть и позволяют приказывать своему тёмному выводку растворять само пространство. a broken horn that you obtained from defeating the wolflord. that said, it should not have left anything behind after your hunt. even a lord among the riftwolves is nothing before monsters of a higher pedigree. \"gold\" mass-produced these malformed wolf packs almost as if by accident, like shrunken drawings on discarded sheets of paper, and the horns on this one represent its authority to command its dark brood to dissolve space itself. 战胜王兽后，得到的折断犄角。 在它遭到驱逐后，不应残留在此世才对。 即使在兽境群狼中贵为王兽，在魔兽的系谱中也不及其兄长们的万分之一吧。 「黄金」 将无数兽境的群狼如同将弃置的画纸一般压缩后而意外产生的畸形魔兽，而寄寓在其犄角中的是足以号令黑色的狼群为它溶解空间的权威。"
+  },
+  {
+    "id": "goldflame_qucusaur_tyrant",
+    "category": "items",
+    "icon": "assets/icons/enemies/goldflame_qucusaur_tyrant.webp",
+    "title": {
+      "ru": "Кукузавр-тиран золотого пламени",
+      "en": "Goldflame Qucusaur Tyrant",
+      "zh": "金焰绒翼龙暴君"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "mark_of_the_binding_blessing",
+        "title": {
+          "ru": "Метка связывающего благословения",
+          "en": "Mark of the Binding Blessing",
+          "zh": "受祝所缚之印"
+        },
+        "icon": "assets/icons/items/world_bosses/mark_of_the_binding_blessing.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5000000,
+    "search_text": "кукузавр-тиран золотого пламени goldflame qucusaur tyrant 金焰绒翼龙暴君 натлан 5.0 world_bosses enemy_drops кукузавр, чьё тело приобрело сверхъестественную форму из-за воздействия сил, неподконтрольных современным заврианам. легенды гласят, что когда гигантский кукузавр, ныне живущий в туманных горах, был молод, он также сопровождал героев, спасших натлан. говорят, что один из этих героев однажды согласился отправиться вместе с кукузавром к вулкану, чтобы спасти его от безумия, вызванного растущей неистовой силой. однако судя по нынешнему титулу «тиран», эта история закончилась плохо. a qucusaurus whose body has attained a supernatural form due to enduring forces that the bodies of modern saurians cannot control. legends say that when the giant qucusaur who now often dwells in the mountain fog was young, he also once followed the heroes who saved natlan in their adventures. it is said that one of those heroes once agreed to make the pilgrimage with him together to the volcano, to save his mind back from the brink of insanity that the increasing violent power in his blood was forcing him towards. however, judging from his current title of \"tyrant, \" that story did not have a happy ending. 因承受了如今龙众的身躯无法驭使的伟力，而拥有超然形体的异种绒翼龙。 在古老的传说里，如今常于山间迷雾盘桓的巨大翼龙，也曾在幼年时跟随故事里拯救纳塔的英杰们一同历险。 据说众英雄的其中一位曾相约与它一同踏上前往火山的圣路，以挽回它因血脉中逐渐狂暴的力量而濒临失常的心智。 只是以这位「暴君」 现在获得的称呼来看，这段故事并未拥有完满的结局。 mark_of_the_binding_blessing метка связывающего благословения mark of the binding blessing 受祝所缚之印 фрагмент рога, полученный после победы над кукузавром-тираном золотого пламени. на его поверхности видна странная метка, известная как благословение повелителя огня. говорят, что заврианы с этой меткой обладают древней и страшной силой. но для современных заврианов эта сила слишком велика, поэтому из-за своей неконтролируемости она часто приводит к трагедиям. a horn fragment obtained after defeating the goldflame qucusaur tyrant. a strange mark known as the \"flamelord's blessing\" extends out across its surface. saurians that bear this mark are said to wield an ancient power of terrible potency. yet given their slighter statures, this power is too great a burden for the saurians of the present day to bear. as such, it has been the cause of much calamity, and many tragedies have stemmed from the uncontrollable power it has unleashed. 击败金焰绒翼龙暴君后，获得的角的残片。 其上能够看到蔓延于角上的奇怪印记，这印记被称为「焰主之祝」，拥有此印的龙众将获得远古的伟力。 不过，远古的伟力自然不是现在龙众的身躯所能承担，也是诸多祸事的来由。 许多的悲剧，其源头正是不可自控的力量。"
+  },
+  {
+    "id": "hydro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/hydro_hypostasis.webp",
+    "title": {
+      "ru": "Гидро гипостазис",
+      "en": "Hydro Hypostasis",
+      "zh": "无相之水"
+    },
+    "region": "Инадзума",
+    "game_version": "2.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "dew_of_repudiation",
+        "title": {
+          "ru": "Роса отречения",
+          "en": "Dew of Repudiation",
+          "zh": "排异之露"
+        },
+        "icon": "assets/icons/items/world_bosses/dew_of_repudiation.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2001000,
+    "search_text": "гидро гипостазис hydro hypostasis 无相之水 инадзума 2.1 world_bosses enemy_drops высокоуровневая форма жизни гидро элемента под кодовым названием «хе». гипостазисы обладают сильным инстинктом отторжения и безжалостно изгонят любого, кто осмелится его проверить. отторжение распространяется даже на природные элементы. code name: he. a high-purity hydro entity. hypostases have strong rejection properties, and will mercilessly expel any that test them. its rejection behavior even extends to natural elements. 代号为「希伊」 的高级水元素生命。 无相元素有强大的排异本能，会无情地驱逐试探它的人。 排异习性的对象似乎甚至会延展到天然的元素上。 dew_of_repudiation роса отречения dew of repudiation 排异之露 странная капля воды, оставшаяся после распада гидро гипостазиса. она словно бы обладает собственной волей, не дающей ей смешаться с водой из других источников. это странное отторжение можно использовать в атаке против гидро гипостазиса. говорят, что вода содержит воспоминания и силу воли и при слиянии вод их память и воля тоже объединяются. но волны, создаваемые гидро гипостазисами, несовместимы ни с поверхностными, ни с подземными водными течениями. даже непревзойденно чистые воды петрикор, скорее всего, не смогли бы поглотить эту каплю, словно бы она сделана не из воды, а из ртути. a strange water droplet left behind by the collapse of the hydro hypostasis. it has strong rejection properties, and this forms the basis of one of the hydro hypostasis' attack patterns as well. they say that water contains memories and willpower, and that these things can grow when bodies of water meld together. however, the waves conjured by the hydro hypostasis are incompatible with the currents that flow above and below ground. even if it were to flow into the surpassingly pure waters of petrichor, this drop of water will likely resist assimilation as strongly as mercury. 无相之水坍缩后，留下的奇异水珠。 具有强烈的排异本能，也是无相之水的攻击手段之一。 据说水中蕴含着记忆与意志，也能随水体的融合获得成长。 然而无相之水唤出的浪潮，与地上地下一切湍流之物皆不相容。 哪怕落入佩特莉可那无比纯粹的水中，这滴水也会像水银一般抗拒着周遭的融合吧。"
+  },
+  {
+    "id": "hydro_tulpa",
+    "category": "items",
+    "icon": "assets/icons/enemies/hydro_tulpa.webp",
+    "title": {
+      "ru": "Гидротульпа",
+      "en": "Hydro Tulpa",
+      "zh": "水形幻人"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "water_that_failed_to_transcend",
+        "title": {
+          "ru": "Вода, не достигшая перехода",
+          "en": "Water That Failed To Transcend",
+          "zh": "未能达成超越之水"
+        },
+        "icon": "assets/icons/items/world_bosses/water_that_failed_to_transcend.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4002000,
+    "search_text": "гидротульпа hydro tulpa 水形幻人 фонтейн 4.2 world_bosses enemy_drops человекоподобный монстр, состоящий из воды. воля многих существ растворялась в воде, где, как и во всей вселенной, уже было немало душ, ожидавших рождения. к кому относятся новорождённые гидротульпы? между волей и душой не так уж много отличий. солнце не может их различить, как не могут различить их ни время, ни приливы и отливы, ни даже тьма, пронизывающая всё вокруг. a humanoid monster formed from the agglomeration of water. countless wills dissolved in the water, which, like the universe, was full of souls that wished to be born. are the newborn hydro tulpas from the former or the latter? they're not as different as we'd like to think, anyway. the sun can't distinguish them, and neither can time, the surging tides, or even the darkness that permeates everything. 由无数的水滴凝聚成的，初具人形的魔物。 曾有无数的意志消融在水中，但水中原本就与宇宙一样充满了渴求被诞下的灵魂。 被称为水形幻人的新生儿究竟是前者还是后者是难以分辨的； 但两者之间的区别并没有人们所想象的那么大：太阳不会区分、时光不会区分、翻涌的潮水不会区分，渗透一切的黑暗也不会区分。 water_that_failed_to_transcend вода, не достигшая перехода water that failed to transcend 未能达成超越之水 единственное, что осталось от гидротульпы после рассеивания его частей. это вещество очень похоже на кристаллы, извлечённые из тел инородов фонтмера, но содержит множество мелких примесей. их можно сравнить с пузырьками в стекле, изготовленном неопытным мастером. the only remnants of hydro tulpas after their parts are dispersed. this substance is very similar to the crystals extracted from the bodies of fontemer aberrants, but they contain a lot of tiny impurities, like the bubbles in glass crafted by clumsy craftsmen. 水形幻人崩溃逸散后留下的唯一痕迹。 与原海异种体内取出的晶体有非常相近的性质，但当中蕴含了许多细碎的浊物，就如同凝固在拙劣工匠的玻璃制品中的微小气泡。"
+  },
+  {
+    "id": "icewind_suite",
+    "category": "items",
+    "icon": "assets/icons/enemies/icewind_suite.webp",
+    "title": {
+      "ru": "Сюита ледяного ветра",
+      "en": "Icewind Suite",
+      "zh": "冰风组曲"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "artificed_spare_clockwork_component_coppelia",
+        "title": {
+          "ru": "Запасная деталь чудного механизма: Коппелия",
+          "en": "Artificed Spare Clockwork Component — Coppelia",
+          "zh": "奇械发条备件·歌裴莉娅"
+        },
+        "icon": "assets/icons/items/world_bosses/artificed_spare_clockwork_component_coppelia.webp"
+      },
+      {
+        "key": "artificed_spare_clockwork_component_coppelius",
+        "title": {
+          "ru": "Запасная деталь чудного механизма: Коппелиус",
+          "en": "Artificed Spare Clockwork Component — Coppelius",
+          "zh": "奇械发条备件·科培琉司"
+        },
+        "icon": "assets/icons/items/world_bosses/artificed_spare_clockwork_component_coppelius.webp"
+      }
+    ],
+    "material_count": 2,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4000000,
+    "search_text": "сюита ледяного ветра icewind suite 冰风组曲 фонтейн 4.0 world_bosses enemy_drops механический танцор, разработанный исследовательским институтом фонтейна. по первоначальному замыслу боссюэ, необычный механический танцор должен был стать произведением искусства, выходящим за рамки простых механических реплик. но после вынужденного ухода боссюэ проектом занялся майарде. он по-своему понимал понятия «механика» и «танец», поэтому в процессе смены поколений функции «механического танцора» были усовершенствованы, но постепенно отошли от первоначального дизайна боссюэ. artificed dancers developed by the fontaine research institute. bossuet originally intended for artificed dancers to be works of art that transcended the era of mechanical reproduction. but after bossuet was forced to resign, the project was taken over by maillardet, who had his own unique understanding of what he wanted to achieve. as a result, while their features were perfected during the course of its development, the artificed dancers gradually strayed from bossuet's original vision. 来自枫丹科学院的献礼，分为「歌裴莉娅的葬送」 与「科培琉司的劫罚」 二曲。 由枫丹科学院研发的奇械舞者。 在博絮埃最初的设想中，奇械舞者是超越机械复制时代的艺术品。 但在博絮埃被迫离任后，该项目改由梅雅德接手。 梅雅德对于奇械和舞者均有自己独到的见解，因此在迭代过程中，奇械舞者的各项功能在臻至完备的同时，也逐渐偏离了博絮埃的设计初衷。 artificed_spare_clockwork_component_coppelia artificed_spare_clockwork_component_coppelius запасная деталь чудного механизма: коппелия artificed spare clockwork component — coppelia 奇械发条备件·歌裴莉娅 запасная деталь чудного механизма: коппелиус artificed spare clockwork component — coppelius 奇械发条备件·科培琉司 запасная деталь чудного механизма коппелии, которая обеспечивает механическую танцовщицу энергией. по замыслу создателя изящная коппелия замирает в счастливом моменте своего сказания и готова заставить незваного гостя пережить худшие страницы истории, обрушив на него свою небывалую мощь. an artificed spare clockwork component belonging to coppelia. it powers this artificed dancer. according to its creator's design, the story of the artificed dancer with delicate joints ends at a merry moment. coppelia will send whoever attempts to disturb that moment to a chapter of misfortune with her superb combat skills. 属于歌裴莉娅的奇械发条备件，能够为奇械舞者提供能源。 在制造者的构想中，有着纤细关节的奇械舞者的故事停留在欢快的一瞬。 歌裴莉娅将会以超凡的战斗能力为任何试图搅扰此刻的不速之客送去厄运的篇章。 запасная деталь чудного механизма коппелиуса, которая обеспечивает механического танцора энергией. коппелиус готов вечно дарить зрителям свой ледяной танец в такт платиновому ритму, и остановит его лишь погребальный звон. an artificed spare clockwork component belonging to coppelius. it powers this artificed dancer. the artificed dancer whirls to a platinum tune, performing an unending waltz of icewind. coppelius's dance will not stop. he will continue whirling till the bell tolls. 属于科培琉司的奇械发条备件，能够为奇械舞者提供能源。 奇械舞者踏着白金的音节，不知昼夜地为观众献上冰风的轮舞。 科培琉司不会停下舞步，直至丧钟敲响。"
+  },
+  {
+    "id": "iniquitous_baptist",
+    "category": "items",
+    "icon": "assets/icons/enemies/iniquitous_baptist.webp",
+    "title": {
+      "ru": "Чудовищный креститель",
+      "en": "Iniquitous Baptist",
+      "zh": "深罪浸礼者"
+    },
+    "region": "Сумеру",
+    "game_version": "3.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "evergloom_ring",
+        "title": {
+          "ru": "Кольцо вечного мрака",
+          "en": "Evergloom Ring",
+          "zh": "常暗圆环"
+        },
+        "icon": "assets/icons/items/world_bosses/evergloom_ring.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3006000,
+    "search_text": "чудовищный креститель iniquitous baptist 深罪浸礼者 сумеру 3.6 world_bosses enemy_drops монстры бездны, которые управляют силой нескольких элементов и в процессе эволюции приобрели дополнительные конечности. a monster from the abyss that wields multiple types of elemental power and has gained extra limbs from its \"evolution.\" \"the nature of the 'abyss' is essentially irreconcilable with the elements. however, even the elements of gods can be entrapped and distorted before they are subsumed to become tools of the abyssal will. just judging from outcomes and practical use, \"abyssal powers\" seem little different from elemental items, from ones as paltry as the treasure hoarders' elemental containers to those as powerful as visions... \" —notes left behind in hangeh afrasiyab by someone. 驾驭了多种元素力量的深渊魔物，因为「进化」 而获得了多余的肢体。 「『深渊』 之本质归根到底是与元素所不能相容的。 但即使是有神的元素也会为其所裹挟、扭曲，成为深邃意志道具。 从结果与效益而言，所谓的『深渊』 或许与小至盗宝团手中充满元素力量的器皿、大到『神之眼』 没有过多的区别吧…」——谁人遗落在逾渊地墟的笔记 evergloom_ring кольцо вечного мрака evergloom ring 常暗圆环 кольцеобразный катализатор, полученный после победы над четырёхруким посланником тёмного предзнаменования. проход имеет форму кольца, поэтому круги с магическими эффектами часто делают кольцеобразной формы. возможно, такой кольцеобразный катализатор может управлять вселенной. a mystical weapon obtained after defeating the four-armed envoy of dark tidings. rings are shaped like passageways, which is why arcane formations that are meant to produce some mystical effect are often ring-shaped. such rings are perhaps gateways intended to guide the universe itself. 击败呢喃着至暗福音的四臂使者后，得到的环形法器。 圆环即是通道的造型。 是故能产生各种神秘效力的法阵常常以圆环构成。 这种环形法器或许便是导引宇宙的门路。"
+  },
+  {
+    "id": "jadeplume_terrorshroom",
+    "category": "items",
+    "icon": "assets/icons/enemies/jadeplume_terrorshroom.webp",
+    "title": {
+      "ru": "Пернатый плесенник",
+      "en": "Jadeplume Terrorshroom",
+      "zh": "翠翎恐蕈"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "majestic_hooked_beak",
+        "title": {
+          "ru": "Клюв короля плесенников",
+          "en": "Majestic Hooked Beak",
+          "zh": "蕈王钩喙"
+        },
+        "icon": "assets/icons/items/world_bosses/majestic_hooked_beak.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3000000,
+    "search_text": "пернатый плесенник jadeplume terrorshroom 翠翎恐蕈 сумеру 3.0 world_bosses enemy_drops повелитель плесенников, живущий в сердце леса в компании своих сородичей. плесенники растут везде, где сыро и есть плодородная почва. грибы всегда могут приспособиться к трудностям, а их споры могут приспособиться к трудностям, а их споры могут распространяться повсюду. со временем это похожее на гордых птиц существо может превратиться в нечто более величественное. over many long years, this large fungal beast has morphed into a unique form. its intelligence has already reached and perhaps has even surpassed real animals, and it will actively hunt prey to obtain sustenance. its tail has a lovely jade plumage that seems very similar to that of the ancient sacred beast that the spantamad school reveres. as far as the logic of mimesis is concerned, it seems quite likely that the two beings once walked the earth together. 经过漫长的岁月，演化出了独特形态的大型蕈兽。 智能水平已经接近，甚至超越了真正的动物，会主动捕食猎物以获取养分。 尾巴上长有漂亮的翠翎，与素论派尊崇的古代圣兽非常相似。 以拟态演化的逻辑来看，想必它们曾经共同行走在大地之上吧。 majestic_hooked_beak клюв короля плесенников majestic hooked beak 蕈王钩喙 клюв, полученный после победы над пернатым плесенником. учёные до сих пор не могут поверить, что мягкие плесенники оказались способны развить такие твёрдые клювы. великолепный король плесенников неторопливо прогуливается вдоль финишной черты эволюции, время от времени обращаясь с призывом ко всем обитателям тропического леса: «даже самое беспомощное и трусливое существо однажды может стать лесным властелином!» an elongated bill that you found after defeating the jadeplume terrorshroom. researchers still consider it a miracle even now that some soft fungi have evolved these rock-hard hooked beaks. this magnificent king amongst fungi has been leisurely pacing on the finish line of evolution. now and then, it emits a long call to all the living beings in the rainforest: even the most helpless and timid creature may one day become the monarch of the woods. 击败翠翎恐蕈后，获得的角质结构。 学者至今都觉得柔软的蕈兽演化出坚如磐石的钩喙是一个奇迹。 在演化的终点线上，堪称华美的众蕈之王悠然踱步，时而长鸣，在向雨林中的万物昭告：哪怕再弱小再胆怯的生灵，也有可能成为未来的山林主人。"
+  },
+  {
+    "id": "knuckle_duckle",
+    "category": "items",
+    "icon": "assets/icons/enemies/knuckle_duckle.webp",
+    "title": {
+      "ru": "Железный утёнок",
+      "en": "Knuckle Duckle",
+      "zh": "重拳出击鸭"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "precision_kuuvahki_stamping_die",
+        "title": {
+          "ru": "Штамповочная форма куувяки",
+          "en": "Precision Kuuvahki Stamping Die",
+          "zh": "精密型月矩力冲鸭模具"
+        },
+        "icon": "assets/icons/items/world_bosses/precision_kuuvahki_stamping_die.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6000000,
+    "search_text": "железный утёнок knuckle duckle 重拳出击鸭 нод-край 6.0 world_bosses enemy_drops устройство куувяки странной формы, сделанное из металлолома и механических подшипников, отчасти напоминающее - по прихоти его создателя - утку. его мощность и устойчивость к повреждениям сравнимы с самым передовым боевым оружием фатуи... но всё же это всего лишь игрушечная уточка, только очень сильно бьющая противников. предпочтения создателя всегда во многом определяют внешний вид творения, и глина не имеет права оспаривать то, что из неё вылепят. всё в подлунном мире давно уже приняло ту форму, которую люди принимают как должное, но в глазах его исконных обитателей эта форма, должно быть, также словно та странная утка, сконструированная по прихоти её создателя. конечно, синеволосая служанка никогда такого не скажет хозяйке мастерской крумкаке. в любом случае, по сравнению с внешним видом многого в этом мире, утка выглядит очень мило. a kuuvahki mechanism of peculiar make, made from scrap metal and mechanical bearings, that bears a partial resemblance — as per its creator's proclivities, apparently — to a \"duck.\" its output and resistance to damage are comparable to the fatui's most cutting-edge warfighting weaponry... but even so, it remains simply a toy duck that can punch its opponents very, very hard. a creator's preferences will always do much to determine a creation's appearance, as clay lacks the authority to question its creator's choice of molds. the world beneath the moon has long been sculpted into a form that people take for granted, but in the eyes of its original inhabitants, that form must surely be like a peculiar duck, shaped by its creator's bizarre predilections. of course, the blue-haired maid would never say any such thing to the mistress of the krumkake craftshop — after all, ducks are adorable, especially compared to the world's present aspect. 由废弃的金属与机关轴承拼接而成的、造型奇特的月矩力机关，似乎是因为制造者的偏好而被部分赋予了「鸭子」 的外观特征。 即便是与愚人众最尖端的战争兵器相比，在出力与抗打击性能方面都毫不逊色，但依然只是一只会对敌人重拳出击的玩具鸭子。 毕竟制造者的喜好总是会决定受造之物的形貌，泥土终究无权质问抟弄它的匠人要为它选择怎样的模具。 月下的世界如今早已被塑造成人们常识中理所应得的模样，但在这个世界原本的住民眼中，那也不过是像鸭子一样的、制造者的古怪偏好吧。 当然，上面这些话，那位蓝发的女仆是不会对蛋卷工坊的主人说出口的——况且与世界的模样相比，鸭子还是很可爱的。 precision_kuuvahki_stamping_die штамповочная форма куувяки precision kuuvahki stamping die 精密型月矩力冲鸭模具 штамповочная форма куувяки, извлечённая из обломков побеждённого железного утёнка. можно считать её памятным подарком от айно. один философ из сумеру однажды утверждал, что самовоспроизводство является исключительным признаком жизни и достижением, которого не может достичь ни один рукотворный объект. способность создавать себе подобных считается тем, что отличает человечество от божественного. если машине выдать форму, позволяющую ей воспроизвести саму себя вместе с этой формой, не станет ли это тоже формой вечного самовоспроизводства? бывший хозяин молчаливой синеволосой служанки, которая теперь сопровождает айно, тоже размышлял над этим, но в конце концов отбросил такую мысль из страха, что подобная машина рано или поздно поглотит все ресурсы на поверхности планеты. айно такие вопросы не тревожат. эта утка пока не собирается множиться за счёт мира. всё же это просто утка. a stamping die taken from the wreckage of a defeated knuckle duckle — think of it as a keepsake from aino. a philosopher from sumeru once argued that self-replication is a unique characteristic of life, an unparalleled achievement that no man-made object can mimic. the power to reproduce is the key that separates mankind from the divine. however, if a machine is given an exact mold that it can use to replicate itself, mold included, then can not this too be considered perpetual self-replication? the former master of the silent, blue-haired maid who stands by aino's side once pondered that same question but ultimately dismissed it out of fear that a perpetually self-replicating machine would consume everything on the planet's surface. such problems have never concerned aino. this machine will not exhaust the world's resources to multiply itself just yet — after all, it's just a duck. 击败重拳出击鸭之后，从其破损的结构中取得的冲压模具，也可以认为是爱诺赠送的纪念品。 曾有须弥的哲人在论证中认为，自我繁衍是生命独一无二的特征，任何受造于人的物件都无法实现同等的伟业，因而繁衍的权能正是将神性与人性区分的关键。 然而，若是给定模具，让机关按照其形状复制连同模具在内的自身，是否也能被视为永生的繁衍呢？ 陪伴在爱诺身边的那位沉默寡言的蓝发女仆，她过去侍奉的旧主也思考过同样的问题，最终却因为担忧无限自我增殖的机器会耗尽星球地表的一切而作罢。 不过，这些事情与爱诺向来是没有关系的，这台机器暂时也不会用尽地表的一切来复制自身——毕竟鸭子只是鸭子而已。"
+  },
+  {
+    "id": "lava_dragon_statue",
+    "category": "items",
+    "icon": "assets/icons/enemies/lava_dragon_statue.webp",
+    "title": {
+      "ru": "Статуя лавового дракона",
+      "en": "Lava Dragon Statue",
+      "zh": "熔岩辉龙像"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "sparkless_statue_core",
+        "title": {
+          "ru": "Ядро безумной статуи",
+          "en": "Sparkless Statue Core",
+          "zh": "龙像的无智核"
+        },
+        "icon": "assets/icons/items/world_bosses/sparkless_statue_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5005000,
+    "search_text": "статуя лавового дракона lava dragon statue 熔岩辉龙像 натлан 5.5 world_bosses enemy_drops монстр, способный непрерывно вырабатывать тепло для поддержания жизнедеятельности. по преданиям, эти монстры, внутри которых раскалённая лава, - продукт отдельного, позже появившегося направления исследований механизмов источника на предмет того, можно ли использовать первородное пламя для создания новой человекоподобной расы. эти исследования, несомненно, закончились провалом, поскольку после того, как прибыли с троном небесные захватчики, первородное пламя сумело породить лишь полые оболочки, у которых, несмотря на номинальную жизненную силу, разума было не больше, чем в камне. a monster that can continuously generate heat to sustain its activities. legends say these monsters with lava at their cores are the products of a distinct line of research to the source mechanisms that followed them — research into whether the primal flame could be used to create a new race based on humans. this research undoubtedly failed, for once the reaver arrived with their throne from beyond the skies, all that the primal flame could birth were hollow shells whose nominal lifeforce granted them no more consciousness than a stone. 能够自身持续产生热量，以维持活动状态的魔物。 据说，由熔岩作为核心的魔物，是有别于后来诞生的秘源机关的另一方向研究的副产物。 其研究的主题即是，原初的火焰是否能够模仿人类创造新的种族…但研究毫无疑问失败了，在天上掠夺者的圣座到来之后，源火之中所能诞生的，最终也只有这样徒具备形态和生命力， 却无知无觉的空壳魔物。 sparkless_statue_core ядро безумной статуи sparkless statue core 龙像的无智核 ядро, извлечённое из пылающих останков статуи лавового дракона. говорят, что сущность, известная как статуя лавового дракона, возникла благодаря бесконечному накоплению флогистона. изначально считалось, что чистая энергия может породить существо с интеллектом, подобным человеческому. однако эта попытка завершилась неудачей. в отличие от древних времён, теперь чистая энергия, похоже, уже не способна естественным образом создавать сложные, разумные и управляемые организмы, способные к росту. a core pulled from the blazing remains of the lava dragon statue. it is said that the entity known as the lava dragon statue is a special existence born from the limitless accumulation of phlogiston. originally, it was believed that pure energy would produce a being with human-like intelligence. however, this attempt ultimately failed. unlike in ancient times, it seems that pure energy can no longer naturally give rise to complex, intelligent, and controllable organisms capable of growth. 击败熔岩辉龙像之后，从其持续燃烧的身躯中取得的核心。 据说名为熔岩辉龙像的个体是无限堆垒燃素以后形成的特殊存在，在原本的构想之中，纯粹的能量之中会诞生具有人智的生命。 只不过这一尝试最终以失败告终，事实证明，纯粹的能量已无法像更远古的时代那般，自发形成能够成长和受到操控的复杂智慧。"
+  },
+  {
+    "id": "legatus_golem",
+    "category": "items",
+    "icon": "assets/icons/enemies/legatus_golem.webp",
+    "title": {
+      "ru": "Легат големов",
+      "en": "Legatus Golem",
+      "zh": "魔像督军"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "fragment_of_a_golden_melody",
+        "title": {
+          "ru": "Фрагмент золотой мелодии",
+          "en": "Fragment of a Golden Melody",
+          "zh": "金色旋律的断章"
+        },
+        "icon": "assets/icons/items/world_bosses/fragment_of_a_golden_melody.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4006000,
+    "search_text": "легат големов legatus golem 魔像督军 фонтейн 4.6 world_bosses enemy_drops голем в форме кентавра из мрамора и латуни. под твёрдой каменной оболочкой течёт кровь ихора. возвышаясь, как командир армии, он готов растоптать любого врага, посягнувшего на его честь. затонувшие древние цивилизации верили, что война, как и музыка, - это искусство, которое должно подчиняться ритму. командир легиона должен быть подобен дирижёру оркестра, относясь к щиту и мечу в своих руках как к струнам и смычку лиры, играя мелодию огня в безжалостном бою. «война - необходимое зло на пути к бесконечному миру». так говорил гармост, возглавлявший легионы големов и однажды покоривший всё высокое море. a centaur-shaped golem forged of marble and brass. under the hard stone exterior flows ichor blood. towering as one who commands a legion, it is ready to trample any foe that might transgress against its honor. the now sunken civilization believed that war was as music, an art of rhythms to be followed. therefore, one who marshals a legion must be like a conductor, whose shield and sword are like the strings and bow of a violin, performing a blazing melody like the raging flames upon the merciless battlefield.\"war is a necessary evil on the path to all-encompassing peace.\" thus spake a harmost, one who once led the golem legions to conquest over the entire high sea. 白石与黄铜塑造的半人马巨像，坚硬的石质躯壳下流淌着灵露的血液。 以军团统帅般的姿态屹立着，随时准备将敢于冒犯其威严之人踏为童粉。 已沉没的古代文明认为，战争与音乐一样，是需要遵循节律的艺术。 军团的统帅应当像乐团的指挥者一样，将手中的盾与剑视作琴的弦与弓，在无情的战场弹奏出烈火的旋律。 「战争是通向普遍幸福的必要之恶。 j统率魔像的军团，一度征服整片高海的调律师曾如是说。 fragment_of_a_golden_melody фрагмент золотой мелодии fragment of a golden melody 金色旋律的断章 золотой фрагмент, который выпал из груди великого голема-кентавра. надписи на обломках, прикреплённых к нему, будто содержат отрывок большого музыкального произведения. когда-то люди верили, что песня о счастье и гармонии будет звучать до скончания времён. но музыка может измениться. когда царь богов лишился трона, столица вечности была разрушена и превратилась в груду обломков. и кому теперь играть на лире, которая некогда принадлежала командующему без армии? a golden fragment that fell from the centaur golem's chest. putting the tune inscribed upon the shattered rubble back together, it appears to be a small sliver of a grander musical movement. people once believed that the song of eternal happiness and harmony would resound throughout the world till the end of all destinies. but harmonies can be changed. when the rebellious god king fell from his throne, the imperishable capital was reduced to refuse and rubble — for who, then, shall the lyre in the hands of a legion-less commander play? 半人马魔像胸前掉落的金色别章。 与之连缀的碎石上所镌刻着的曲调，似乎是某部宏大乐剧的断章。 曾有人认为，永恒幸福的谐和音律将会响彻寰宇，直至一切命运的尽头，但谐律亦会变奏。 最终，当叛逆的神王跌落王座，不朽的王都化为丘墟，失去了军团的统帅手中的琴又要为谁人奏响呢。"
+  },
+  {
+    "id": "lord_of_the_hidden_depths_whisperer_of_nightmares",
+    "category": "items",
+    "icon": "assets/icons/enemies/lord_of_the_hidden_depths_whisperer_of_nightmares.webp",
+    "title": {
+      "ru": "Повелитель скрытых глубин: Шёпот кошмаров",
+      "en": "Lord of the Hidden Depths: Whisperer of Nightmares",
+      "zh": "深黯魇语之主"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "remnant_of_the_dreadwing",
+        "title": {
+          "ru": "Останки крыла ужаса",
+          "en": "Remnant of the Dreadwing",
+          "zh": "魇翼枯骸"
+        },
+        "icon": "assets/icons/items/world_bosses/remnant_of_the_dreadwing.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6003000,
+    "search_text": "повелитель скрытых глубин: шёпот кошмаров lord of the hidden depths: whisperer of nightmares 深黯魇语之主 нод-край 6.3 world_bosses enemy_drops существо бездны, крадущееся сквозь разломы в скрытых глубинах, тихо наблюдающее за этим миром. говорят, что его жуткая, безликая форма всего лишь проекция, в то время как его истинное тело существует лишь как бесформенная масса чистой энергии бездны. даже захватчики, стремящиеся поработить этот мир, должны в какой-то мере подчиняться его правилам. пока небеса не разверзнутся, а оборона мира не рухнет, эти рождённые звёздами чужаки могут лишь пребывать на окраинах, нашёптывая своё безумие этому миру, а их попытки проникнуть внутрь ни к чему не приведут... но как долго продлятся стабильность и порядок? an abyssal creature that creeps through rifts in the hidden depths, quietly watching this world. its eerie, faceless form is said to be nothing more than a projection, for its true body exists only as a formless mass of pure abyssal energy. even invaders who seek to claim this world must obey its rules to some extent. unless the heavens split open and the earth's defenses collapse, these star-born outsiders can do little more than linger at the world's fringes, whispering their madness into this realm, their attempts to seep inside amounting to nothing... but how long can this stability and order truly last? 伏行于深黯的裂隙，窥伺此世的深渊魔物。 据说那怪异、亵渎的无面形貌不过是投射于世界上的影像，其真实姿态乃是以纯粹深渊能量形式存在的无形之物。 即便是妄图支配这个世界的入侵者，也不得不在一定程度上遵从世界原本的法则。 直至高天的面纱破碎、地骨的护堤崩毁，来自群星的失乡者都只能像这般匿避于世界的边缘，以疯狂与谵妄的低语，徒劳无功地渗入此世吧…但世界安稳的秩序，又会持续到何时呢？ remnant_of_the_dreadwing останки крыла ужаса remnant of the dreadwing 魇翼枯骸 чёрная костяная реликвия, извлечённая из застывшей скверны, что осталась после победы над шёпотом кошмаров из иного мира. бесформенной твари, что парила в беззвёздной пустоте, не были нужны части тела, которые в этом мире называют «крыльями». эти искажённые, порочные отростки могли возникнуть как попытка подчиниться законам под лунным светом или как искажённый фрагмент истинного облика, единственная часть, которую способны воспринять глаза смертных. a deep-black bone relic taken from the lingering corruption left behind after defeating the whisperer of nightmares that came invading from beyond this world. the formless beast that soared through the starless void should never have required organs this world calls \"wings.\" those grotesque, profane appendages may have arisen to adapt to the laws beneath the moon, or perhaps they are merely the distorted fragment of its true form that mortal eyes are able to witness. 击败自异界侵入此世的魇语之主，从其留下的残秽中取得的深黯骨骸。 翱翔于漆黑星海间的无形之兽，本不应需要被这个世界称作「羽翼」 的器官。 那怪诞而亵渎的翅膀，或许是为了适应月下的法则而生； 又或许它不过是凡夫眼中所见的，其真身投下的扭曲一角罢了。"
+  },
+  {
+    "id": "maguu_kenki",
+    "category": "items",
+    "icon": "assets/icons/enemies/maguu_kenki.webp",
+    "title": {
+      "ru": "Магу кэнки",
+      "en": "Maguu Kenki",
+      "zh": "魔偶剑鬼"
+    },
+    "region": "Инадзума",
+    "game_version": "1.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "marionette_core",
+        "title": {
+          "ru": "Ядро марионетки",
+          "en": "Marionette Core",
+          "zh": "魔偶机心"
+        },
+        "icon": "assets/icons/items/world_bosses/marionette_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 1006000,
+    "search_text": "магу кэнки maguu kenki 魔偶剑鬼 инадзума 1.6 world_bosses enemy_drops автономный гуманоид-мечник. похоже, не имеет ни способности, ни желания говорить, а хочет общаться только с помощью мечей. по одной из версий эта машина была создана на основе совокупной памяти мастера первого поколения школы меча, известной своей секретной техникой. однако машина вышла из строя, потеряла управление и была выброшена. некоторые утверждают, что дух меча остался там, где завершилась его судьба, а злобное лицо, охраняющее меч, принадлежит известному свирепому они той эпохи. an disciplined mechanical swordsman. doesn't seem to have the ability nor will to speak, but instead only seeks to communicate with crossed swords. it is said that this machine was made using the memories of the first-generation master of a certain sword school. however, it malfunctioned, lost control, and was ultimately discarded. some sing that the machine's spirit still lingers in the place where its fate was ended. they also say that the vicious mask that serves as its guard was inspired by a famous oni from that era. 自律的人形机关剑士。 似乎没有说话的能力与意愿，只愿意用剑沟通。 据说在试作时，集成了某个剑道流派初代宗主的记忆，却又因为不明的原因而失控，最终被废弃了。 根据歌人的描述，剑鬼会徘徊在因缘断绝的地方，而守护它的凶恶之面似乎取自那个时代有名的鬼人。 marionette_core ядро марионетки marionette core 魔偶机心 ядро, которое позволяет мечнику магу кэнки, безжизненной машине, двигаться и размахивать мечом как живому человеку. неважно, насколько он искусен в боевых искусствах или сколько прекрасных воспоминаний хранит, он всегда будет разрушаться, как и любое человеческое тело. пожалуй, только превратив свои конечности и тело в прочные механические части и пожертвовав собственным сердцем ради сложного механического, можно преодолеть бренную плоть и приблизиться к вечности... this core can power the inorganic maguu kenki and cause it to wield a blade like a living being. flesh decays, and with it decay all martial arts mastery and all poignant memories. perhaps only by converting one's four limbs and body into sturdy mechanical parts, and by at last sacrificing one's very own heart for a sophisticated mechanical one, can one transcend the impermanence of the fleshly form... 能够驱动无机质的机关魔偶剑鬼，使它如同生者一般挥舞刀剑的核心。 无论是如何精湛的武艺、多么美丽的记忆，也会随着肉体的衰败而凋零。 恐怕只有将自己的四肢、躯体都换成牢固的机关，最终将心脏换成精密的「机心」，才能比凡骨肉胎更加接近永恒吧…"
+  },
+  {
+    "id": "millennial_pearl_seahorse",
+    "category": "items",
+    "icon": "assets/icons/enemies/millennial_pearl_seahorse.webp",
+    "title": {
+      "ru": "Морской конёк тысячелетней жемчужины",
+      "en": "Millennial Pearl Seahorse",
+      "zh": "千年珍珠骏麟"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "fontemer_unihorn",
+        "title": {
+          "ru": "Рог Фонтмера",
+          "en": "Fontemer Unihorn",
+          "zh": "原海麟角"
+        },
+        "icon": "assets/icons/items/world_bosses/fontemer_unihorn.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4001000,
+    "search_text": "морской конёк тысячелетней жемчужины millennial pearl seahorse 千年珍珠骏麟 фонтейн 4.1 world_bosses enemy_drops один из двух владык, возвышающихся над другими инородами фонтмера. поэты и писатели провозглашают его гордым и благородным из-за его склонности к одиночеству, но истинной причиной таких хвалебных описаний является его изящное и стройное тело. согласно фонтейнским легендам, когда-то между инородами фонтмера шла жестокая война, в результате которой остались только морской конёк тысячелетней жемчужины и император огня и железа, разделившие великое озеро на два двора - северный и южный. в «песне доварху» автор так описывает итоги войны: великий остроскат, известный как повелитель бурь, в предсмертных муках вздыбил огромные волны, вызвав то, что люди теперь называют «первым наводнением»... конечно, всё это не более чем фантазии не желающих мириться с примитивными реалиями мира. ведь на самом деле инороды фонтмера всего лишь водные создания, у них нет ни великих дворов, ни падших королевств, они не возносят хвалу и не испускают проклятия. one of the two sovereigns standing at the apex of the fontemer aberrants. poets and authors often proclaim it to be proud and noble due to its solitary tendencies, but the true reason behind such adulatory descriptions is its elegant and slender body. as such, it is a \"pearl seahorse, \" while the suzerain of the armored crabs is an \"emperor.\"in the legends and rumors of fontaine, a brutal war was once waged among the aberrants of the fontemer, leaving only the \"millennial pearl seahorse\" and \"emperor of fire and iron\" splitting the great lake into two courts, one ruling over the north, the other the south. in the \"song of dobharcu, \" the writer describes the outcome of the war: the great hunter's ray known as the stormlord stirred huge waves in its death throes, causing what is now known by the people as the \"first diluvian period\"... of course, all of this is nothing more than the romantic imaginations of people who are unwilling to accept the bland realities of the world. for the fontemer aberrants are in fact just simple aquatic animals, and they have no grand courts nor fallen kingdoms, nor do they possess words meant to exalt or curse. 矗立在原海异种顶端的两位霸主之一。 诗人与作者常因其独行而称之孤傲而高洁，但能成为这类描绘的对象归根到底是因为它身姿修长优美。 也因此它为「骏麟」，而重甲蟹的王是「帝皇」。 在枫丹的传奇逸话中，原海异种当中曾经爆发过无比酷烈的战争，只留下「千年珍珠骏麟」 与「铁甲熔火帝皇」 在大湖南北分庭抗礼。 在《多尔库之歌》中，作者曾经描绘了战争的结局：被称为风暴王的巨大猎刀鳐在死前掀起了巨浪， 导致了人们口中所谓的「第一次涨水期」…所有的这一切当然只不过是人不愿习惯于毫无幻想可言的现实生活而进行的浪漫想象。 原海异种归根到底不过是水生动物罢了，既没有华丽或破败的王庭，也没有昂扬或恶毒的话语。 fontemer_unihorn рог фонтмера fontemer unihorn 原海麟角 электрический орган морского конька тысячелетней жемчужины и регалия как символ его небывалого величия. сломан в битве с противником. морской конёк тысячелетней жемчужины эволюционировал как высший хищник из конька-пузырька. его эволюционный путь сильно отличался от других инородов фонтмера: его скелет стал крупнее и сильнее, чем у исходного вида, он обзавёлся конечностями, рогами и даже изменил кости и мышцы, которых не было у конька-пузырька. его манера больше напоминает фантастических зверей из древних легенд, чем форму его прародителя. в воображении поэтов и писателей даже морские коньки могли резвиться на земле. согласно легендам фонтейна, было два вождя первобытных инородов фонтмера, которые долгое время соперничали друг с другом. один из тиранов намного превзошёл всех своих соплеменников и в конце концов основал в пещере отдельное королевство, которое принадлежало только ему. the electricity-emitting section of the millennial pearl seahorse, and its regalia, the symbol of its surpassing might — now snapped off amidst a clash against a mighty challenger. as the greatest predator that can arise from seahorses, this being's evolutionary journey is not the same as that experienced by other fontemer aberrants. it did not start from a base form before growing larger and stronger, but instead grew limbs and a horn that have no place on an ordinary seahorse. even its musculature and skeleton have changed. it really seems to resemble a fantastical beast from legends of yore more than its original shape. in the imaginations of poets and authors, even seahorses can frolick upon the earth. 千年珍珠骏麟的放电器官，也是象征它的伟大超越的王器。 已经在与挑战者的战斗中折断了。 作为自泡泡海马成长而来的顶尖掠食者，千年珍珠骏麟的进化之旅与别的原海异种截然不同：并不是基于原本的物种结构而进化得更大、更强壮，而是生出了泡泡海马所不具备的肢体、犄角， 甚至连同骨骼、肌肉都发生了变化。 比起原本应有的形态，它的身姿更像古老传说中的幻兽。 在诗人与剧作家的幻想中，即使是海马也会有骐骥在大地上驰骋、跃动的姿态。"
+  },
+  {
+    "id": "oceanid",
+    "category": "items",
+    "icon": "assets/icons/enemies/oceanid.webp",
+    "title": {
+      "ru": "Океанид",
+      "en": "Oceanid",
+      "zh": "纯水精灵"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "cleansing_heart",
+        "title": {
+          "ru": "Очищающее сердце",
+          "en": "Cleansing Heart",
+          "zh": "净水之心"
+        },
+        "icon": "assets/icons/items/world_bosses/cleansing_heart.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "океанид oceanid 纯水精灵 ли юэ 1.0 world_bosses enemy_drops жизненная форма, образовавшаяся из конденсированного гидро элемента невероятной чистоты. обычно живёт в водоёмах. говорят, что по мере того, как водоём становится чище, содержание гидро элемента в нём растёт, в результате чего океанид становится сильнее. некоторые поговаривают, что когда-то океаниды были морскими существами из далёких мест, которые разнесли останки давно умершего бога по разным уголкам этого мира. возможно, они хотели распространить любовь своего бога к этому миру через его воды... a life-form created from condensed hydro elements of incredible purity. often attached to bodies of water. it is said that as water bodies become purer, the hydro elements within grow more abundant, causing the oceanids to grow more powerful. it is also said by some that oceanids were once sea creatures from a home far away who carried the fragments of a long-dead god to the many corners of this world. perhaps they did this so that the love their god held for this world could be spread through the waters to all the land... 极纯的水元素凝结成的生命体，常与水体相伴。 据说，水体越纯净，其中的水元素越丰沛，纯水精灵的力量就越强。 又有传说认为，纯水精灵曾是来自异乡的水之亲眷。 怀着已殁之神的碎片，流落到了世界各处，或许是为了让她们的神对世界的爱，循着水流广布大地… cleansing_heart очищающее сердце cleansing heart 净水之心 вечные воды, оставленные духом океана. эти воды уже давно растеклись по глубинам озёр, но они всё ещё сохраняют свою чистоту. почему же существо столь чистое, как океан, принимает форму растения, рождённого на земле? ведь им не нужно ни дыхание, ни питание... a palmful of eternal water left by an oceanid. though it has already diffused among the depths of the lake, its purity remains all the same. but why would a creature so pure and clean as an oceanid covet the appearance of a being that roams the land, and assume such a form with pure water? they need not breathe nor do they require sustenance... 纯水精灵留下的永远透彻的一掬水。 即使溶在了湖泊中，它的纯净也不会被稀释吧。 但高洁如此的纯水精灵，又是为何渴望着地上生灵的模样，以净水模拟成生物的姿态呢，即使不需要呼吸、也不需要进食…"
+  },
+  {
+    "id": "perpetual_mechanical_array",
+    "category": "items",
+    "icon": "assets/icons/enemies/perpetual_mechanical_array.webp",
+    "title": {
+      "ru": "Бесконечный механический массив",
+      "en": "Perpetual Mechanical Array",
+      "zh": "恒常机关阵列"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "perpetual_heart",
+        "title": {
+          "ru": "Сердце бесконечного механизма",
+          "en": "Perpetual Heart",
+          "zh": "恒常机关之心"
+        },
+        "icon": "assets/icons/items/world_bosses/perpetual_heart.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2000000,
+    "search_text": "бесконечный механический массив perpetual mechanical array 恒常机关阵列 инадзума 2.0 world_bosses enemy_drops странный чуждый этому миру механизм. говорят, что это военная машина, оставшаяся после некой уничтоженной нации. состоящая из нескольких различных частей, она может адаптироваться к боевой обстановке и использовать различные атаки. состоит из кубических форм и чем-то очень похож на элементальные гипостазисы. a strange, alien machine. they say that it is a war machine left behind by a nation that has already been destroyed. composed of several different parts, it can adapt to its combat environment and employ a variety of attacks. this machine, comprised of cubic shapes, is on some level very much like the elemental hypostases. 诡谲的异形战斗机械。 传说是已经覆灭的国度留下的战争机械。 由若干部件构成，能够适应战斗的环境变换成不同形态，施展各种攻击手段。 由立方体构成的形态在某个层面而言，与所谓的「无相元素」 有着不少相似之处。 perpetual_heart сердце бесконечного механизма perpetual heart 恒常机关之心 ядро, которое служит источником энергии для автономных движений бесконечного механического массива. одни полагают, что символы на этих ядрах несут знания и логику на языке, невидимом для глаза. другие пошли дальше, заключив, что эти уникальные механизмы руин из-за огромного размера ядер и сложных начертаний на них в погоне за мощью и функциональностью приняли произвольное решение отбросить биомиметическую форму. the core that powers the autonomous movements of the perpetual mechanical array. some theorize that the symbols on these cores have knowledge and logic inscribed upon them in a language that eyes cannot perceive. some go a step further and believe that these unique ruin machines autonomously decided to forsake a biomimetic form to pursue strength of function on account of their especially large cores and complex inscriptions. 驱使恒常机关阵列自律行动的核心。 有人推测这种核心上的纹样当中以肉眼不可见的语言写上了智能与逻辑，也有人进一步认为这种特殊的遗迹机关因为格外庞大的核心与复杂的纹样，自发选择抛弃了生物的姿态， 转而追求性能的强大。"
+  },
+  {
+    "id": "primo_geovishap",
+    "category": "items",
+    "icon": "assets/icons/enemies/primo_geovishap.webp",
+    "title": {
+      "ru": "Древний геовишап",
+      "en": "Primo Geovishap",
+      "zh": "古岩龙蜥"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "juvenile_jade",
+        "title": {
+          "ru": "Незрелый нефрит",
+          "en": "Juvenile Jade",
+          "zh": "未熟之玉"
+        },
+        "icon": "assets/icons/items/world_bosses/juvenile_jade.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1003000,
+    "search_text": "древний геовишап primo geovishap 古岩龙蜥 ли юэ 1.3 world_bosses enemy_drops геовишап - могучее древнее создание, которое легко приспосабливается к элементам. в народе ходит слух, что когда ужас бури разрушил долину тяньцю, геовишапы и вождь древних геовишапов затаились под землёй, и там они впали в спячку, ожидая подходящего момента, чтобы явить себя свету вновь... after many years, the awesomely powerful primo geovishaps grow accustomed to changes in their elemental environment. folktales hold that after the great \"draconic calamity\" that led to the ruination of tianqiu valley, the overlord of the geovishaps and primo geovishaps was imprisoned deep beneath the earth, and so too did they burrow into deep and unseen places, awaiting their chance to rise once more... 经历了长久岁月，拥有伟大力量的巨大岩龙蜥，能够适应元素环境的异变。 根据民话，导致天遒谷毁灭的「龙灾」 发生后，岩龙蜥与古岩龙蜥的王者被禁锢在大地深处，而它们则在地壳之下休眠，等待着复起的时机… juvenile_jade незрелый нефрит juvenile jade 未熟之玉 кристаллическая масса, добытая из древнего геовишапа. в ней заключена возможность стать драконом. эти тёмные кристаллы выделяются в организме вишапов, спящих в горах. в легендах ли юэ говорится, что они годами собирают силу, и в конце концов кристалл заменяет сердце вишапа, после чего он становится настоящим драконом - драконом, который сотрясает горы и раздирает землю. a crystalline substance taken from a primo geovishap. within it is contained the potential to become a dragon. these dull crystals are precipitated within the bodies of vishaps sleeping in the mountains. liyue folklore holds that they will gather power over many years, after which this crystal will, at last, replace their original heart, and the vishap will become a true dragon — one that can shake the mountains and split the earth. 从古岩龙蜥处取来的结晶物质，蕴含着成为龙的可能性。 沉眠在山岳中的龙蜥体内，会析出这种黯淡的晶石。 璃月有坊间传说认为，力量随着年月积聚，而这种晶石最终会取代原本的心脏，而龙蜥也会成为真正的龙，撼动山岳、撕裂大地。"
+  },
+  {
+    "id": "pyro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/pyro_hypostasis.webp",
+    "title": {
+      "ru": "Пиро гипостазис",
+      "en": "Pyro Hypostasis",
+      "zh": "无相之火"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "smoldering_pearl",
+        "title": {
+          "ru": "Тлеющая жемчужина",
+          "en": "Smoldering Pearl",
+          "zh": "阴燃之珠"
+        },
+        "icon": "assets/icons/items/world_bosses/smoldering_pearl.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2000000,
+    "search_text": "пиро гипостазис pyro hypostasis 无相之火 инадзума 2.0 world_bosses enemy_drops кодовое название: аин. высококонцентрированный пиро элемент. по мнению исследователей, элементальные гипостазисы связаны с аномалиями местных артерий. однако неизвестно, влияет ли наличие этого элементального гипостазиса на аномальную элементарную энергию или аномальная элементальная энергия породила этот элементальный гипостазис. code name: ayin. a high-purity pyro entity. according to researchers, elemental hypostases are related to anomalies in local elemental veins. but whether it is the existence of elemental hypostases that have affected elemental veins or the mutated elemental energy that created elemental hypostases remains to be confirmed. 代号为「亚因」 的高级火元素生命。 根据学者的研究，无相元素与当地元素脉络的异常有着密切的关联。 但究竟是无相元素的存在影响了元素脉络，还是异变的元素能量创生了无相元素，就不得而知了。 smoldering_pearl тлеющая жемчужина smoldering pearl 阴燃之珠 кристаллизовавшийся пиро гипостазис, который излучает тепло. однажды даже ревущее пламя остынет, и даже сгоревшие дрова зажгут себя вновь. должно быть, это воля мира беспрестанно охлаждает и поджигает пиро гипостазис подобно нескончаемой жизни всего сущего во вселенной... пока однажды не снизойдёт судьбоносная тьма, и всё не поглотит пустота. a crystallization of a pyro hypostasis that constantly emits heat. even the burning flames shall one day grow cold, and even the ashen firewood can will itself back into a raging blaze. it must then be the will of the world that pyro hypostases should constantly cool down and heat up, much like the universe teems with endless life... until the fated darkness shall one day descend and bring it all to naught. 无相之火坍缩成的结晶，不断散发着热量。 炽热的火焰终有一天会冷却，而熄灭的柴薪也会随着意志而再度熊熊燃烧。 无相之火不断的冷却与复燃、消散与凝聚也是这个世界意志的一部分吧，就如同宇宙万物的生生不息。 直到漆黑的命运终有一日降临，将森罗万象归于空无为止。"
+  },
+  {
+    "id": "pyro_regisvine",
+    "category": "items",
+    "icon": "assets/icons/enemies/pyro_regisvine.webp",
+    "title": {
+      "ru": "Пиро орхидея",
+      "en": "Pyro Regisvine",
+      "zh": "爆炎树"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "everflame_seed",
+        "title": {
+          "ru": "Пылающее семя",
+          "en": "Everflame Seed",
+          "zh": "常燃火种"
+        },
+        "icon": "assets/icons/items/world_bosses/everflame_seed.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "пиро орхидея pyro regisvine 爆炎树 ли юэ 1.0 world_bosses enemy_drops гигантская лоза, которая впитала древнее пламя, бушующее в артериях земли. она будто наполнена бесконечной яростью. поэты, барды и даже некоторые учёные считают, что стихийные элементы могут нести в себе эмоции и надежду. если это правда, то можно только гадать, какие эмоции заставляют пиро орхидею вечно гореть, словно корчась от жажды быть свободной от заточения земли... a giant vine that has absorbed the ancient flame that rages within the ley lines. it is restless as if filled with endless fury. poets, bards, and even some academics believe that elements also contain emotions and hopes. if this is true, then one can only wonder what emotions cause the pyro regisvine to burn eternally, writhing like one longing to be free of the confines of the earth... 吸收了地脉中奔涌的古老烈焰的巨大藤蔓。 如同充满怒火一般，永不止息的植物。 诗人、歌手乃至一些学者认为「元素」 中蕴含着情感和愿望。 如果属实，又是什么情感与愿望驱使着爆炎树恒常燃烧，如同渴求着挣脱大地的束缚一般挣扎舞动呢… everflame_seed пылающее семя everflame seed 常燃火种 семя, которое питает бесконечное пламя пиро орхидеи. оно излучает энергию пиро, будто хочет сжечь всё, что когда-либо прорастало из земли. в глубинах земли среди бурных потоков энергии текут бесчисленные желания. что же способно мечтать сжечь весь мир в своём неугасимом пламени? a seed that fuels the unending flames of the pyro regisvine. it emits pyro energy as if it will burn all that has ever sprouted from the ground. endless desires flow among turbulent energy deep within the earth. what desire could steadily hold such fire to the plants and long so eagerly to bathe everything in unquenchable flames? 驱动爆炎树持续燃烧的种子。 仿佛要点燃世间的一切草木般放射着火元素的热量。 大地深处湍流不息的能量中运载着无穷的愿望。 挟着烈火凭依在植物上，使它恒常地燃烧，并且渴望用爆裂的火炎洗净一切的，又是什么样的愿望呢。"
+  },
+  {
+    "id": "radiant_moonfly",
+    "category": "items",
+    "icon": "assets/icons/enemies/radiant_moonfly.webp",
+    "title": {
+      "ru": "Лучезарный мотылёк-призрак",
+      "en": "Radiant Moonfly",
+      "zh": "蕴光月幻蝶"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "lightbearing_scale_feather",
+        "title": {
+          "ru": "Светящееся чешуйчатое перо",
+          "en": "Lightbearing Scale-Feather",
+          "zh": "承光的鳞羽"
+        },
+        "icon": "assets/icons/items/world_bosses/lightbearing_scale_feather.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6000000,
+    "search_text": "лучезарный мотылёк-призрак radiant moonfly 蕴光月幻蝶 нод-край 6.0 world_bosses enemy_drops древняя сила луны проникла в эти иллюзорные крылья, и чудовище, похожее на бабочку, теперь легко танцует в лунном свете. законы эволюции гласят, что после того, как дикая первобытная сила была укрощена небесным правителем, подобные чудовища не должны сохранять свою форму, становясь меньше и слабее. однако благословение луны позволило ему скользить по этому миру в расцвете сил, как пережиток прежнего мира, когда древняя луна освещала землю. the moon's ancient power has seeped into these illusory wings, and the butterfly-shaped monster now dances lightly in the moonlight. the principles of evolution state that after the wild yet primeval power was tamed by the heavenly ruler, such a monster should not be able to maintain its shape, becoming smaller and weaker over time. however, the moon's blessing has allowed it to glide through this world while remaining in its prime, displaying the remnants of an older world, when the ancient moon once illuminated the land. 古老的月之力浸润了幻惑的双翅，于月光下翩然起舞的蝶形魔物。 按照演化的理论来说，在狂暴而原始的力量被天空的主人驯化之后，此种类型的魔物本应无法维持这样的体型，会变得更为微小和脆弱。 然而月光的恩赐令其能以强盛时的姿态漫行于世，向众人展现古老月亮曾照映的旧世界的残余。 lightbearing_scale_feather светящееся чешуйчатое перо lightbearing scale-feather 承光的鳞羽 крыло с чешуёй, сброшенное павшим лучезарным мотыльком-призраком. во многих местных преданиях говорится, что те, кто ступает на запретную землю, часто попадают под чары этих крыльев и исчезают бесследно. одни считают, что причина в луне, чья иллюзорная магия, освоенная этими созданиями в форме бабочек, способна сводить с ума. другие воспринимают это как предостережение - древняя сила коварна и опасна. the scaly wings shed by a defeated radiant moonfly. in many local folk tales, those who enter the forbidden ground are frequently bewitched by these wings and never seen again. some say this is because the moon, whose illusory magic these butterfly-shaped monsters have harnessed, is prone to inducing madness, while others take it as a warning of the inconstancy and danger of ancient power... 击败蕴光月幻蝶之后，其身后蜕下的布满细琐鳞片的虫翅。 据说在此地流传的诸多民俗故事中，常有踏入禁忌之地的人被幻惑的鳞翅迷惑，从此消失于林泽之中的记载。 有人说这是因为蝶形魔兽的幻惑之法来自于易让人发疯失常的月亮，但也有人说这是古老力量变化多样而又危险至极的警示…"
+  },
+  {
     "id": "radiant_moongecko",
     "category": "items",
     "icon": "assets/icons/enemies/radiant_moongecko.webp",
@@ -1360,5 +2887,465 @@
     "filter_type": "",
     "sort_version": 6004000,
     "search_text": "лучезарный лунный геккон radiant moongecko 蕴光月守宫 нод-край 6.4 world_bosses enemy_drops древний монстр, тоскующий по лунному свету, геккон, обитающий в глубинах скальных пород. его тело кристаллизовалось из-за накопленной за долгое время силы куувяки. в нём образовались отдельные сегменты, подобные механическим конструкциям. эти части могут затвердевать и превращаться в каменные шипы для атаки противников. некоторые учёные считают, что предки этих необычных ящериц изначально жили на поверхности, но за тысячелетия произошедшие изменения заставили их скрыться под землёй. с тех пор они поколение за поколением обитают во тьме, постепенно забыв истинный лунный свет, однако инстинкт всё ещё побуждает их во время полнолуния поедать горные породы, омытые лунным сиянием, чтобы сохранить свой род. an ancient monster drawn to moonlight, this gecko dwells deep within layers of rock. the gradual accumulation of kuuvahki has crystallized its body into segments as precise as mechanical components. these parts can harden and form stone spikes used to repel intruders. some scholars believe this unusual lizard's ancestors once roamed the surface. over the ages, sweeping changes in the world drove them underground, where they have since lived in darkness for countless generations. though their memory of true moonlight has faded, instinct remains. on nights of the full moon, they are compelled to gnaw on rock and soil suffused with lunar radiance to preserve their bloodline. 眷恋月光的古老魔物，在岩层深处栖息的守宫。 躯体因长久以来积蓄的月矩力而发生晶化，形成如同机关构件般精密的节段，能化作岩刺攻击敌人。 有学者认为，这种奇异蜥类的祖先原本生活在地表，千年以来的沧海桑田令它们被迫遁入地底，从此之后便世代栖居于黑暗之中，逐渐忘却了真正的月光，不过本能依旧驱使着它们在满月之时啃食被月辉浸浴的岩土以维持血脉。 prismatic_severed_tail призматический отсечённый хвост prismatic severed tail 棱光的断尾 кристаллизованный хвостовой позвонок, оставленный лучезарным лунным гекконом при попытке к бегству после поражения. с точки зрения здравого смысла, ящерицы, эволюционировавшие до такой степени мощи, не должны больше испытывать угрозы от хищников, однако она всё ещё сохранила инстинкт самосохранения путём отбрасывания хвоста. возможно, это связано с тем, что в эпоху, когда лунный свет озарял всю землю, здесь обитали ещё более страшные хищники. a crystallized tail vertebra left behind by a defeated radiant moongecko in its attempt to escape. by all logic, a lizard that has evolved to such formidable strength should no longer face the threat of natural predators. yet it still retains the instinct to shed its tail in a bid for survival. perhaps in an age when moonlight blanketed the land, even more terrifying predators once prowled this place. 击败蕴光月守宫之后，其试图逃脱时遗留下的晶化尾椎。 以常理而言，演化至如此强大的蜥类本不应再受到天敌的威胁，然而它却依旧保留了断尾求生的本能。或许是因为在月光遍照大地的时代，此地曾存在着更加可怕的掠食者吧。"
+  },
+  {
+    "id": "ruin_serpent",
+    "category": "items",
+    "icon": "assets/icons/enemies/ruin_serpent.webp",
+    "title": {
+      "ru": "Змей руин",
+      "en": "Ruin Serpent",
+      "zh": "遗迹巨蛇"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "runic_fang",
+        "title": {
+          "ru": "Рунический клык",
+          "en": "Runic Fang",
+          "zh": "符纹之齿"
+        },
+        "icon": "assets/icons/items/world_bosses/runic_fang.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 2006000,
+    "search_text": "змей руин ruin serpent 遗迹巨蛇 ли юэ 2.6 world_bosses enemy_drops древний причудливый автоматон. легенды гласят, что эта громоздкая инженерная машина осталась от павшего королевства, а её головная часть со своей зубчатой структурой может легко продолбить твёрдые скальные породы. если это так, машина способна проложить дорогу, по которой целая армия пройдёт через континент. an ancient, bizarrely-shaped autonomous machine. it is said that this was heavy-duty engineering equipment left behind by a nation that has been destroyed. the gear system on its \"head\" can grind its way through even the hardest bedrock. if this was the case, then carving out tunnels with which the forces of this nation might access the whole continent would have been a thing of great ease. 古老的异形自律机关。 传说是已经覆灭的国度留下的工程重机，「头部」 的齿盘结构能够轻松挖开坚硬的岩盘。 果真如此的话，借由这种能力，应该能开凿出足以让大军通行大陆各地的黯道吧。 runic_fang рунический клык runic fang 符纹之齿 испещрённый зловещими рунами клык, с помощью которого загадочный змееподобный механизм из древности вгрызался в скальную породу. согласно легенде, в тёмных расселинах глубоко под землёй обитают гигантские змееобразные существа, затаившие на мир земной горькую злобу. со зловещей целью, которая известна им одним, они продолжают рыть грандиозные тоннели... a \"fang\" with which the mysterious, snakelike machine of old dug into mountains' depths. there are many ominous runes carved on it. it is said that giant serpents lurk in the dark fissures deep beneath the ground. burning with eternal resentment and malice toward the world above, they throw themselves into digging great tunnels, yet none know what their malicious purposes are... 神秘的蛇状古代机械用于掘削山壁的「齿」，其上篆刻着无解的不祥符文。 相传在大地的深黑裂缝中潜藏着庞大的虺类，它们永远怀着对地上世界的憎恨与恶意，抱着不可知的险恶目的，发掘着宏大的隧道…"
+  },
+  {
+    "id": "secret_source_automaton_configuration_device",
+    "category": "items",
+    "icon": "assets/icons/enemies/secret_source_automaton_configuration_device.webp",
+    "title": {
+      "ru": "Автоматон таинственного источника: Конфигуратор",
+      "en": "Secret Source Automaton: Configuration Device",
+      "zh": "秘源机兵 · 构型械"
+    },
+    "region": "Натлан",
+    "game_version": "5.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "gold_inscribed_secret_source_core",
+        "title": {
+          "ru": "Ядро таинственного источника с золотой надписью",
+          "en": "Gold-Inscribed Secret Source Core",
+          "zh": "秘刻金纹的源核"
+        },
+        "icon": "assets/icons/items/world_bosses/gold_inscribed_secret_source_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5001000,
+    "search_text": "автоматон таинственного источника: конфигуратор secret source automaton: configuration device 秘源机兵 · 构型械 натлан 5.1 world_bosses enemy_drops производственная машина из древних руин. этот тип машин, способных трансформироваться в различные формы, использовался мастерами древних руин для выполнения различных производственных задач. если вы научитесь пользоваться такой машиной, то сможете построить огромный город, не поддающийся воображению, даже в экстремальных условиях, например, в недрах вулкана. кроме того, похоже, его можно использовать в качестве оружия. хотя древняя цивилизация давно пала, но благодаря золотым узорам, выгравированным на этой машине, имеющей форму гигантского когтя, она всё ещё может вступать в бой по заданным инструкциям. a manufacturing machine from the ancient ruins. this type of machine, which can transform into numerous shapes, was used by the masters of the ancient ruins to perform various manufacturing tasks. as long as you learn how to use such a machine, you could build a city colossal beyond imagination, even within extreme environments like the depths of a volcano. in addition, it also seems to be able to be used as a weapon. though the ancient civilization has long since fallen, this machine, shaped like a giant claw and powered by the golden designs engraved on it, can still engage in battle based upon its preset instructions. 深古遗迹的制造用机械体。 远古遗迹的主人们用这种会改变形态的机器进行各种制造的工作，只要学会如何利用这样的机械，即使是在类似火山内部的极端环境里，也能够构造超乎想象的庞然城市。 除此之外，似乎也被作为兵器使用。 古老的文明早已失落，但在金纹铭刻命令的驱动之下，形如巨爪的机械体仍能按预先设定的进程进行战斗。 gold_inscribed_secret_source_core ядро таинственного источника с золотой надписью gold-inscribed secret source core 秘刻金纹的源核 это основной компонент, отделённый от автоматона таинственного источника: конфигуратора, который перестал двигаться после поражения. считается, что ядра, питающие все автоматоны таинственного источника, представляют собой однотипные устройства, отличающиеся только информацией, закодированной в них, что подтверждают разные золотые узоры на их поверхности. изначально многие команды добавлялись в схемы для обеспечения бесперебойной работы, но со временем они накапливались и наслаивались, постепенно превращаясь в некое подобие искусственного интеллекта. this is a core component that separated from the body of a secret source automaton: configuration device that lost its ability to move after being defeated. some say that the cores that power all the secret source automatons are actually the same kind of device, and that they simply carry different information, as attested to by the fact that the golden patterns on them are different. at first, the many commands were only added to the circuits to aid in its smooth running, but it seems that all the superimposition and layering of orders onto one another has wound up creating a rudimentary artificial intelligence. 在击败秘源机兵·构型械后，从其失去动力而解离的躯体中寻找到的核心构件。 据说驱使所有现在被称为秘源机兵的机械核心的其实都是同一种核心，只是不同核心携带的信息并不一样，其上金色纹路图案的差别或许也可以说明这一点。 起初只是为了让工具能够自如运转而在回路之中加入了诸多命令，或许正是这种命令的重重叠加，最后造就了人造智慧的雏形吧。"
+  },
+  {
+    "id": "secret_source_automaton_overseer_device",
+    "category": "items",
+    "icon": "assets/icons/enemies/secret_source_automaton_overseer_device.webp",
+    "title": {
+      "ru": "Автоматон таинственного источника: Надсмотрщик",
+      "en": "Secret Source Automaton: Overseer Device",
+      "zh": "秘源机兵·统御械"
+    },
+    "region": "Натлан",
+    "game_version": "5.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "secret_source_airflow_accumulator",
+        "title": {
+          "ru": "Аккумулятор воздушного потока таинственного источника",
+          "en": "Secret Source Airflow Accumulator",
+          "zh": "秘源积气喉"
+        },
+        "icon": "assets/icons/items/world_bosses/secret_source_airflow_accumulator.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5006000,
+    "search_text": "автоматон таинственного источника: надсмотрщик secret source automaton: overseer device 秘源机兵·统御械 натлан 5.6 world_bosses enemy_drops механизм господства из древних руин. в стародавние времена могущественная раса, чтобы контролировать работу своих мегаполисов, вложила часть силы в некую форму интеллекта, созданную на основе флогистона. руководствуясь своей миссией и используя различные другие механизмы, машины, которым такая сила была дарована, когда-то контролировали функционирование многочисленных городов по всей земле. теперь, спустя много лет после падения древней цивилизации в результате войн с зарождающейся расой, эти некогда мудрые устройства знают лишь самые простые команды. a domination mechanism from the ancient ruins. in ancient times, to oversee the operation of their mega-cities, a mighty race vested part of their power into a form of phlogiston-engineered intelligence. driven by their mission, and by means of various other mechanisms, the machines upon which it was bestowed once controlled the functioning of myriad cities across the land. now, long after their ancient civilization's fall through wars with an emerging race, these once-wise contraptions retain only the most basic of commands. 深古遗迹的统御机关。 远古，伟大的种族为了维持巨大城市的运作，将一部分的权能给予了由燃素构造而出的智慧。 这些智慧秉持使命，一度通过各种机关来统御无数陆上城市的运转。 如今古老的文明毁于与新生种族的战火，曾经承载伟大智慧的统御机关之内，也仅留存了最为简单的指令。 secret_source_airflow_accumulator аккумулятор воздушного потока таинственного источника secret source airflow accumulator 秘源积气喉 особая конструкция, извлечённая из механизма источника с головой дракона. сейчас она больше не активна. возможно, когда-то она была создана для того, чтобы разные объекты могли преодолевать притяжение небесных тел перед испытаниями в самих механизмах. если бы всё шло по плану, эта технология со временем могла бы найти применение в куда более значимых областях... a special structure removed from a dragon-headed source mechanism. it is no longer active. it may once have been designed to allow all manner of objects to escape the bonds of celestial bodies before being trialed in the source mechanisms. if everything had gone smoothly, this technology might, in time, have been applied to more important areas... 自不再活动、看似龙首的秘源机兵上取下的特殊结构。 据说，这个结构原本是为了使各种物体能够挣脱星体的束缚而设计的，首先被运用在了各种秘源机关之上。 或许，如果一切顺利的话，这项技术本来将被应用在其他更重要的地方吧…"
+  },
+  {
+    "id": "setekh_wenut",
+    "category": "items",
+    "icon": "assets/icons/enemies/setekh_wenut.webp",
+    "title": {
+      "ru": "Унут Сетеха",
+      "en": "Setekh Wenut",
+      "zh": "风蚀沙虫"
+    },
+    "region": "Сумеру",
+    "game_version": "3.4",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "pseudo_stamens",
+        "title": {
+          "ru": "Псевдотычинки",
+          "en": "Pseudo-Stamens",
+          "zh": "苍砾蕊羽"
+        },
+        "icon": "assets/icons/items/world_bosses/pseudo_stamens.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3004000,
+    "search_text": "унут сетеха setekh wenut 风蚀沙虫 сумеру 3.4 world_bosses enemy_drops слепой хищник, живущий в глубине пустыни, который использует звуки и вибрации земли, чтобы выслеживать добычу. иногда он мимикрирует под растения. одни считают, что это происходит потому, что унут сетеха является потомком божества и деревьев. в то время как другие думают, что он делает это для привлечения добычи, ищущей фрукты и листья в пустыне. an eyeless predator that dwells within the depths of the desert and uses sound and vibrations to seek out its prey. legend has it that in the ancient past before even the concept of time was created, these creatures thrived with their progenitors and offspring in a land of verdant grass and colossal trees, traversing through slick soil like fishes diving through the wet. with the passage of eons, the gifts of heaven have long reduced the soils to sand, rendering a great many creatures extinct. this branch of their genus was able to survive by adapting more toward earth-based living, and became known as the \"wenut.\"some desert folk still mistakenly believe that wenut is the final point of a quicksand eel's life cycle, likely due to superficial similarities between the species' behaviors. 生活在沙海深处的无目掠食者，会依据声音与大地的震动寻找猎物的踪迹。 传说在时间开始之前的过去，它们所统辖地上遍布芳草与巨木，而它们的主宰与其子嗣一同，在湿润的泥土中穿梭，如同鱼之游于水中。 许多纪元之后，天降的恩赐让泥土化为砂砾。 许多生命陨落了，许多物种消失了，而依托土地而生的这一族则成为了「沙虫」。 或许是因为生物习性中的共同之处，似乎有沙漠的居民错误地认为，「沙虫」 是流沙鳗鳗蛹化成熟之后的完整形态。 pseudo_stamens псевдотычинки pseudo-stamens 苍砾蕊羽 бледные пёрышки в хвосте унутов, тонкие, как тычинки цветка. легенды гласят, что в далёком прошлом, ещё до начала времён, унуты перемещались во влажной земле под лугами и лесами, подобно птицам, летающим по небу, и рыбам, плавающим в воде. принято считать, что они подражают цветам, чтобы приманить заблудившуюся добычу, застигнутую песчаными бурями. но есть и другое мнение, согласно которому этот их цветущий вид является отражением ушедшей эпохи, когда вместо золотого песка земля была покрыта пышным покрывалом из растений и цветов. the pale wing-sheathes hiding in the wenut's tail are as thin as the blooming stamens of a flower. it is said that in the past, even before the beginning of time, they used to travel under meadows and forests, similar to birds flying across the sky and fish swimming in the water. it is generally believed that their mimicry of flowers is to lure lost prey caught by sandstorms. there is also a theory, however, that their imitation of a blooming flower was inspired by the splendid blossoms countless epochs ago, which have long gone the way of the desert winds. 沙虫隐于尾中的苍色鞘翼，仿若绽露的花蕊般纤薄。 传说在时间开始之前的过去，它们曾在草甸与巨木之下的湿润土地中穿行，如空中飞鸟、水中游鱼。 一般认为，花的拟态是为了引诱沙暴中迷途的猎物，但也有说法认为，那盛绽的浮花之形，仿拓的是归于黄沙的，在无数纪元之前的，芳草遍布、繁花依旧盛开的时代。"
+  },
+  {
+    "id": "solitary_suanni",
+    "category": "items",
+    "icon": "assets/icons/enemies/solitary_suanni.webp",
+    "title": {
+      "ru": "Суаньни-отшельник",
+      "en": "Solitary Suanni",
+      "zh": "隐山猊兽"
+    },
+    "region": "Ли Юэ",
+    "game_version": "4.4",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "cloudseam_scale",
+        "title": {
+          "ru": "Облачные доспехи",
+          "en": "Cloudseam Scale",
+          "zh": "凝云鳞甲"
+        },
+        "icon": "assets/icons/items/world_bosses/cloudseam_scale.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 4004000,
+    "search_text": "суаньни-отшельник solitary suanni 隐山猊兽 ли юэ 4.4 world_bosses enemy_drops эти элегантные и таинственные звери обитают лишь в горах, окутанных силой адептов. с древних времён божественные звери считались символом удачи, а их стремление жить вдали от материального мира вызывало почтение многих поколений интеллектуалов. в древних легендах долины чэньюй главного суаньни называли «хозяином горы» и считали равным адептам. другая теория гласит, что звери сюаньвэнь, что живут ныне в горах, потомки древних суаньни, но за прошедшие века их связь с адептами истончилась, и они стали злобными чудовищами. хоть это и противоречит другой теории, в немногочисленных записях о суаньни часто можно увидеть, как они сопровождаются большим количеством зверей сюаньвэнь. известный в долине танец ушоу происходит от движений животных суаньни. но своими глазами суаньни видели немногие, поэтому остальным приходилось довольствоваться своим воображением. спустя тысячи лет и многие художественные интерпретации, танец ушоу приобрёл свой нынешний вид. these elegant and proud mystical beasts only live in mountains shrouded in adeptal energy. since ancient times, they have been considered a symbol of good fortune, and their preference for living aloof from the material world has been admired by intellectuals for generations. in ancient legends from chenyu vale, the leader of the suanni was called the mountain lord and was considered to be of the same standing as the adepti. another theory claims that the xuanwen beasts that roam the mountains these days are the descendants of the suanni, but that the thinning of their blood over the years has caused them to devolve into violent creatures. although this contradicts another theory regarding the origin of xuanwen beasts, the few records of the suanni often show them attended by a large number of xuanwen beasts. these days, the well-known wushou dance in chenyu vale came from the movements of the suanni. but since only a handful of people have actually seen such creatures, most can only imagine what they look like. after thousands of years of changes and different artistic interpretations, the wushou dance costume head has developed into its current style. 优雅而高傲的灵兽，只栖息于仙力萦绕的深山中。 自古以来，这种仙兽便被认为是福运的象征，其隐居山林、远离世俗纷扰的特质也为历代文人墨客所赞赏。 在沉玉谷当地的古老传说中，猊兽的首领名为「山主」，其地位往往被认为与仙人等同。 另有说法认为，如今伏行山林的玄文兽亦是这些仙兽的后嗣，只是因仙缘浅薄，难以继承如此高贵的血脉，从而退化为凶暴的野兽。 这种说法与另一种关于玄文兽起源的说法相违背，但尽管如此，关于猊兽为数不多的记载中，其出现往往伴随着大量的玄文兽作为随从。 如今，沉玉谷家喻户晓的「舞兽戏」，便是模仿传说中猊兽的动作与神态进行的表演。 然而，真正见到过猊兽的人少之又少，绝大多数人只能通过想象来描述这种生灵的模样。 数千年的流变与艺术加工后，「兽首」 最终也固定成了现今的样式。 cloudseam_scale облачные доспехи cloudseam scale 凝云鳞甲 холодная и твёрдая чешуя суаньни-отшельника. даже после отпадения она сохраняет чистую силу адептов. обычное оружие не может её повредить. обычные звери иногда по ошибке попадают под влияние силы адептов и становятся сильнее, чем обычно. но у суаньни сила адептов исходит изнутри, поэтому их предводителя часто считают равным адепту. cold and solid scales from a solitary suanni. they retain pure adeptal energy even after falling off and cannot be damaged by ordinary weapons. ordinary beasts can sometimes be affected by errant adeptal energy and become more powerful than usual. however, a suanni's adeptal energy originates from within themselves, which is why their leader is often regarded as equal to adepti. 隐山猊兽的甲鳞，质地冰冷而坚硬。 纵然剥离脱落，其上依然萦绕着纯净的仙力，普通的武器难以损之分毫。 普通的野兽有时也会被逸散的仙力影响，变得比往常更为强大，但猊兽的不同之处在于，萦绕其身的仙力并非源于环境， 而是源于它们自身——这也是其首领的地位往往被认为与仙人等同的原因。"
+  },
+  {
+    "id": "super_heavy_landrover_mechanized_fortress",
+    "category": "items",
+    "icon": "assets/icons/enemies/super_heavy_landrover_mechanized_fortress.webp",
+    "title": {
+      "ru": "Сверхтяжёлый сухопутный крейсер: Мобильная крепость",
+      "en": "Super-Heavy Landrover: Mechanized Fortress",
+      "zh": "超重型陆巡舰·机动战垒"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "cyclic_military_kuuvahki_core",
+        "title": {
+          "ru": "Циклическое военное ядро куувяки",
+          "en": "Cyclic Military Kuuvahki Core",
+          "zh": "循环式军用月矩核心"
+        },
+        "icon": "assets/icons/items/world_bosses/cyclic_military_kuuvahki_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6002000,
+    "search_text": "сверхтяжёлый сухопутный крейсер: мобильная крепость super-heavy landrover: mechanized fortress 超重型陆巡舰·机动战垒 нод-край 6.2 world_bosses enemy_drops сверхтяжёлый механизм, совместно разработанный оружейным дворцом и экспериментальным конструкторским бюро куувяки, во внутренних документах известен как тип «држислав». первоначально конструкторы планировали создать тяжёлое гражданское вездеходное транспортное средство для перевозки грузов, поэтому он был оснащён множеством режущего и землеройного оборудования, но последующие серийные модели были переделаны в военную версию с несколькими тяжёлыми орудиями. в конце концов, в подлунном мире даже самые совершенные и священные планы могут отклониться от своего первоначального замысла, не говоря уже о несовершенных механизмах, созданных смертными из скромных благих намерений. referred to internally as the \"type drzislav, \" this super heavy-class mechanism was jointly developed by the armory palace and the kuuvahki experimental design bureau. this giant all-terrain vehicle was originally designed for civilian use, particularly heavy transport, as evidenced by its equipped drills and cutters. however, later production models were militarized with heavy weapons mounted on them. after all, in this mortal world beneath the moon, even the most perfect and divine designs may stray from their original intent, let alone machines born of mortal hands, crafted from humble intentions and flawed from the very beginning. 军械宫与月矩力试验设计局合作研发的超重型机关，在内部文件中被称作德兹斯拉沃型。 设计者最初的意图似乎是创造用于搬运货物的重型全地形民用运输装置，因此搭载了大量切割与挖掘设备，但后续的通用生产型号已经被改为了搭载复数重型武器的军用版本。 毕竟在月下的尘世，即便是最为完美而神圣的规划也会偏离原初的意旨，更何况是凡人因渺小的善意而创造的、原本便不完美的机械呢。 cyclic_military_kuuvahki_core циклическое военное ядро куувяки cyclic military kuuvahki core 循环式军用月矩核心 устройство куувяки, полученное из энергетического ядра после победы над сверхтяжёлым сухопутным крейсером: мобильная крепость. научно-исследовательский институт кинетической энергии фонтейна когда-то выделил несколько идеальных циклов для двигателей, использующих силу элементов, и в любом случае самым совершенным числом считалось четыре. хотя инженеры оружейного дворца и экспериментального конструкторского бюро куувяки считают куувяки особым видом энергии, отличным от элементальной, попытки выйти за пределы четырёхцикловой схемы оказались неэффективными и непрактичными. можно сказать, что этот «четырёхцикловый» принцип - причуда самого мира. а может, у мира вовсе нет предпочтений, и именно привычка людей делать самодовольные догадки и есть самая странная из всех причуд. a kuuvahki device obtained from the energy core after defeating the super-heavy landrover: mechanized fortress. the fontaine research institute of kinetic energy engineering once defined several ideal cycle patterns for elemental working substance engines. regardless of the type, the most perfect number of cycles has consistently been four. although most engineers from the armory palace and the kuuvahki experimental design bureau tend to regard kuuvahki as a working substance distinct from elemental energy, design configurations beyond the four-cycle paradigm have still been proven inefficient and impractical. in a certain sense, the \"four\"-cycle might be the world's peculiar preference. although, the world may have no preference at all, and for the world, the habit of presumptuous mortals making self-satisfied conjectures could well be the strangest preference of all. 击败超重型陆巡舰·机动战垒之后，自其能源核心中取得的月矩力装置。 枫丹动能工程科学研究院曾定义过数类元素工质发动机的理想循环模式，无论是哪一种，最为完美的循环数目皆为四。 尽管军械宫与帕哈岛试验设计局的工程师们大多倾向于将月矩力视为一种不同于元素力的工质，四循环以外的设计构型依然被证明是低效而不实用的。 从某种意义上来说，「四」 的循环也许是世界古怪的偏好吧——当然，世界也许并无偏好，对世界而言，自作聪明的凡人擅自猜度的习惯才是最古怪的偏好也说不定。"
+  },
+  {
+    "id": "tenebrous_papilla_type_i",
+    "category": "items",
+    "icon": "assets/icons/enemies/tenebrous_papilla_type_i.webp",
+    "title": {
+      "ru": "Сумрачная папилла",
+      "en": "Tenebrous Papilla: Type I",
+      "zh": "深邃摹结株 · I型"
+    },
+    "region": "Натлан",
+    "game_version": "5.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "ensnaring_gaze",
+        "title": {
+          "ru": "Сковывающий взгляд",
+          "en": "Ensnaring Gaze",
+          "zh": "深邃纠缠的凝视"
+        },
+        "icon": "assets/icons/items/world_bosses/ensnaring_gaze.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5002000,
+    "search_text": "сумрачная папилла tenebrous papilla: type i 深邃摹结株 · i型 натлан 5.2 world_bosses enemy_drops растениеподобные чудовища бездны, появившиеся в этом мире из искажённого и тёмного измерения. эти искорёженные существа могут проникать в самые глубины земли, чтобы извлекать воспоминания, которые они затем имитируют и используют. искажая воспоминания, делая их более мрачными, такие существа постепенно приближаются к ядру ирминсуля, угрожая самому его существованию. говорят, что эти существа постоянно работают над тем, чтобы исказить множество цветов света, оставив вместо них лишь чёрную информацию. подтверждением такой гипотезы служат ветви, которые они протягивают наружу, словно пронзая саму пустоту... abyssal creatures with plant-like forms that have descended from a deep, dark, unfathomable, contorted otherworld. these twisted monstrosities are capable of infiltrating deep down into the bowels of the earth, extracting memories to imitate and manipulate. through this process of distorting the past's memories into more abstruse and sordid forms, they gradually draw closer to irminsul's core, threatening to undermine its very existence. some say that these aberrations work constantly to corrupt the many colors of light, leaving only pitch-black information in their stead. such a hypothesis seems to be confirmed by the branches they extend outward, as if to pierce the void itself... 于深邃晦暗的扭曲异界降临此世的深渊魔物，拥有类似植物的形态。 此种扭曲的魔物已然能够侵蚀入大地的深处，从中提取记忆以供其模仿与驱使。 过往的回忆被扭曲成更加污秽与深邃的样貌，它们借由此种行为，逐渐接近世界之树的核心，以此动摇其存在的根本。 据说该种魔物无时无刻不在扭曲光芒中蕴含的种种色彩，并将之转化为漆黑的信息，在张开时仿佛要扎入虚空中的枝节似乎也在佐证这一点… ensnaring_gaze сковывающий взгляд ensnaring gaze 深邃纠缠的凝视 объект, полученный после победы над монстром, известным как сумрачная папилла. на вид он напоминает фрукт, но таковым не является. её глаз, сформированный из скопившейся в одной точке энергии, будто устремлён в далёкий и тёмный иной мир. an object obtained after defeating the monster known as the tenebrous papilla. it may look like a piece of fruit, but it is not. formed from energy that has condensed in a single spot, its \"eye\" seems to gaze out from a distant, dark otherworld. 击败名为深邃摹结株的魔物后，获得的犹如果实却并非果实的事物。 那聚集一处的能量所形成的「眼」，其后似乎有仿佛来自遥远而黑暗的彼端的视线。"
+  },
+  {
+    "id": "thunder_manifestation",
+    "category": "items",
+    "icon": "assets/icons/enemies/thunder_manifestation.webp",
+    "title": {
+      "ru": "Манифестация грома",
+      "en": "Thunder Manifestation",
+      "zh": "雷音权现"
+    },
+    "region": "Инадзума",
+    "game_version": "2.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "storm_beads",
+        "title": {
+          "ru": "Штормовой жемчуг",
+          "en": "Storm Beads",
+          "zh": "雷霆数珠"
+        },
+        "icon": "assets/icons/items/world_bosses/storm_beads.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2001000,
+    "search_text": "манифестация грома thunder manifestation 雷音权现 инадзума 2.1 world_bosses enemy_drops аномальная форма жизни электро элемента. хотя манифестация грома может показаться похожей на океанида, она не обладает его интеллектом или памятью. ей движет гораздо более древняя ярость. говорят, что эта форма жизни обрушивается, как молния, только на места, где царит сильная злоба, например, пик амакумо, небо над которым всегда затянуто грозовыми тучами. пока злоба не исчезнет, грохот грома не утихнет. an abnormal electro elemental life form. although it might appear similar to an oceanid, it does not possess her intelligence or memories. that which drives the thunder manifestation is a much more primal fury. it is said that these life forms will only descend like lightning upon places that play host to great lingering resentment, such as the fragmented amakumo peak, where the storm clouds ever roil. as long as the grudges of the land do not fade, so will the roaring thunder persist. 异常的雷元素生命。 虽然外貌上与纯水精灵有相似之处，却不具备她的智慧与记忆。 驱动雷音权现的是更为原始纯粹的愤怒。 据说这种生物只会随着雷霆降生在遗留着强大忿恨的地方，譬如说支离破碎、雷云黝黝的天云峠。 只要土地中的怨恨不消，那雷鸣也不会断绝吧。 storm_beads штормовой жемчуг storm beads 雷霆数珠 издающая легкий треск жемчужина, оставшаяся от манифестации грома. говорят, что манифестации грома спускаются только на земли, где обитает сильная ненависть. сказания бардов гласят, что именно невыносимое страдание и разочарование в жизни обрекают их на вечное скитание по земле, наполненное разрядами молний. crackling electro pearls left behind by the thunder manifestation. it is said that thunder manifestations will only descend upon lands where powerful hatred dwells. the singers say that it is the unbearable disappointments and sufferings of life that drive them to forever wander the broken earth, unleashing sky-searing lightning as they go. 雷音权现留下的，蕴含电气的雷之珠。 传说雷音权现只会随着雷霆降生在遗留着强大忿恨的土地上。 驱使它永远地徘徊在破碎的土地上，释放贯天之雷的，在歌人的故事中往往是生命无法承受的失望与痛苦。"
+  },
+  {
+    "id": "watcher_fallen_vigil",
+    "category": "items",
+    "icon": "assets/icons/enemies/watcher_fallen_vigil.webp",
+    "title": {
+      "ru": "Созерцатель: Падший страж",
+      "en": "Watcher: Fallen Vigil",
+      "zh": "守望者·堕天"
+    },
+    "region": "Мондштадт",
+    "game_version": "6.5",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "plume_of_the_fallen_watcher",
+        "title": {
+          "ru": "Перо падшего созерцателя",
+          "en": "Plume of the Fallen Watcher",
+          "zh": "堕天的落羽"
+        },
+        "icon": "assets/icons/items/world_bosses/plume_of_the_fallen_watcher.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 6005000,
+    "search_text": "созерцатель: падший страж watcher: fallen vigil 守望者·堕天 мондштадт 6.5 world_bosses enemy_drops теневая сущность, рождённая из избытка могущества первозданного существа. созерцатель, некогда обитавший в небесных высях и низвергнутый в мир смертных за то, что открыл глаза. созерцатель должен был лишь безмолвно нести дозор в зале столпов мира. любое стремление выйти за пределы правил является непростительным грехом, равным желанию разрушить мир. это властитель сторожевой башни мира, наделённый своей создательницей полномочиями исправлять всё, что касается новшеств и эволюции. после бесчисленных столетий неведения он наконец решил открыть глаза и посмотреть в лицо лжи и истине мира, но тем самым нарушил волю своей создательницы. созерцатель не ведает, почему покинула его повелительница. лишь вечное наказание всё ещё пребывает в застывшем временном пространстве... a shadow construct born from the overflow of the mighty primordial being, a watcher who once dwelt in the highest heavens, yet was cast down into the mortal realm for daring to open its eye. a watcher was meant only to stand in silent vigil within the pillar hall of the world. any inquiry that transgressed the ordained order was deemed an unforgivable sin, tantamount to seeking the world's annihilation. as sovereign of the world's watchtower, it wielded the authority bestowed by its creator — the power to correct all matters of \"innovation\" and \"evolution.\" after enduring countless aeons of nescience, it finally chose to open that eye, defying the will of its creator, beholding both the falsehoods and the truths of the world. the watcher does not know why its master departed. only the eternal punishment remains, trapped within a stagnant interstice of time... 原初的大能者流溢而出的影之造物，曾居于高天之上的守望者，终因开眼而堕入尘世。 守望者只应沉默地于世界之柱殿守望，一切逾越规则的探求，皆是与谋求世界破灭等同的不赦之罪。 身为世界望楼的统权，执掌其造主所赋予的纠正一切「革新进化之事」 的权柄。 在历经百千劫的无明后，终于选择开眼直面世界的谎言与真实，却也因此违背了造主的意志。 守望者不知晓那位离去的主人因何离去，唯有永恒的惩罚依然驻留在凝滞的隙间… plume_of_the_fallen_watcher перо падшего созерцателя plume of the fallen watcher 堕天的落羽 перо, подобранное в одном из уголков мира после победы над падшим созерцателем. по сравнению с настоящими небесными посланниками, крылатые созерцатели по внешнему виду больше похожи на ангелов в общепринятом смысле. возможно, это потому, что их создательница также не понимала священного замысла крылатых существ небес и могла лишь неумело копировать тень, отбрасываемую проекцией их сути. a fallen feather gathered from a corner of the mortal realm after defeating a fallen watcher. compared to the true divine envoys, these feathered watchers bear a closer resemblance to the \"angels\" of common lore. perhaps this is because their own creator failed to grasp the divine design of the winged one above, and can only clumsily imitate the shadow cast by that ideal. 击败堕天的守望者后，于尘世一隅拾得的落羽。 与真正的天之御使相比，拥有羽毛的守望者在形象上似乎与通常意义的天使更为肖似。 这或许是因为它们侍奉的造主也并不理解天上有翼者的神圣规划，只能拙劣地摹仿其理念投射出的影子。"
+  },
+  {
+    "id": "wayward_hermetic_spiritspeaker",
+    "category": "items",
+    "icon": "assets/icons/enemies/wayward_hermetic_spiritspeaker.webp",
+    "title": {
+      "ru": "Говорящая с духами отшельница",
+      "en": "Wayward Hermetic Spiritspeaker",
+      "zh": "灵觉隐修的迷者"
+    },
+    "region": "Натлан",
+    "game_version": "5.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "talisman_of_the_enigmatic_land",
+        "title": {
+          "ru": "Талисман загадочной земли",
+          "en": "Talisman of the Enigmatic Land",
+          "zh": "谜土的护符"
+        },
+        "icon": "assets/icons/items/world_bosses/talisman_of_the_enigmatic_land.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5003000,
+    "search_text": "говорящая с духами отшельница wayward hermetic spiritspeaker 灵觉隐修的迷者 натлан 5.3 world_bosses enemy_drops жрица повелителей ночного ветра, которая ушла от своего племени и занимается самосовершенствованием в полном одиночестве. говорят, по способности общаться с духами она превосходит обычных жрецов и шаманов - это результат того, что на неё была возложена защита вайоб повелителей ночного ветра. поначалу эта сила была одновременно и благословением, и проклятием, она не могла её контролировать, поэтому и отправилась осваивать её в изоляции от своего племени. хотя с тех пор она добилась, чего хотела, но и по сей день живёт в уединении. эта привычка принесла ей репутацию одиночки и затворницы. однако ходят слухи, что она охотно обучает тех, кто ищет её наставлений - правда, всегда на своих условиях... a priestess of the masters of the night-wind who has lived apart from her tribe, honing her abilities in utter solitude. it is said that her spiritspeaking powers surpass those of ordinary priests and shamans, a result of having had the protection of the masters of the night-wind's wayob bestowed upon her. both a blessing and a curse, these powers were at first beyond her ability to control, which was why she set out to master them in isolation from her tribe. though she has since done so, to this day she still lives in seclusion, a habit that has earned her a reputation as a loner and a recluse. rumor has it, however, that she is more than willing to teach those who seek her guidance — though always on her own terms... 独自在外潜修的「烟谜主」 的祭司。 据说因为得到了「烟谜主」 大灵的庇护而拥有比一般的祭司与萨满更强大的「灵觉」 的能力。 此等能力既是祝福也是一种诅咒，无法控制这份力量的祭司，当初只能独自在部族外进行修炼。 即使在已经能够熟练掌握力量的今日，也保留着离群索居的习惯，因此也有她「不甚合群」 的传言。 据说只要有后来者想要向她寻求帮助，她也不吝赐教，只不过，是以她自己的方式… talisman_of_the_enigmatic_land талисман загадочной земли talisman of the enigmatic land 谜土的护符 талисман, который неожиданно появился в вашем инвентаре после прохождения испытания говорящей с духами отшельницы. согласно записям повелителей ночного ветра, жрецы, способные говорить с духами, могут с помощью медитации перенести своё сознание через свет и тени, отражённые в обсидиане, и достичь загадочного подземного царства, доступного лишь мёртвым. однако это крайне опасно, и жрецы, проводящие этот ритуал, часто используют такие талисманы, чтобы защитить свои души от потери в этой таинственной земле. тем не менее символическое значение этого талисмана значительно превышает его реальную силу. возможно, отшельница, которая дарует этот талисман прошедшему испытание воину, делает это как обычное благословение. a talisman that somehow appeared in your inventory after you passed the wayward hermetic spiritspeaker's test. in some records kept by the masters of the night-wind, priests masterful in spiritspeaking can use meditation to pass their consciousness through the light and shadow that reflects off obsidian, thus reaching the enigmatic underground realm that only the dead may enter. this deed is, however, perilous, and priests who perform it must often wear such talismans to guard their souls from being lost in that mysterious land. however, this talisman's symbolic value far outstrips its real effects. perhaps the hermit-priest who grants this to a warrior who passes the test only does so as a simple blessing. 通过灵觉隐修的迷者的考验后，不知何时出现在背包中的护符。 在「烟谜主」 部族中的一些记载中，「灵觉」 强大的祭司甚至能够通过冥想，令意识穿越黑曜石反射的光影，进入唯有亡者才能进入的地下谜土。 只是这一举动相当危险，能够做到此举的祭司往往需要佩戴类似的护符，避免灵魂迷失在谜土之中。 不过，这护符的象征意义远大于实际意义，隐修的祭司将之留给通过考验的勇士，也许只是为了留下简单的祝福。"
   }
 ]

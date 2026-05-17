@@ -1,0 +1,52 @@
+{
+  "id": "cryo_hypostasis",
+  "category": "items",
+  "icon": "assets/icons/enemies/cryo_hypostasis.webp",
+  "title": {
+    "ru": "Крио гипостазис",
+    "en": "Cryo Hypostasis",
+    "zh": "无相之冰"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.5",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Кодовое название: Далет. Высококонцентрированный Крио элемент.\nИсследования показали, что между Элементальными гипостазисами и обычными созданиями элементов есть небольшое отличие.\nИменно оно может быть причиной высокой стабильности их форм и механичности выполняемых действий.",
+    "en": "Code name: Daleth. A high-purity Cryo entity.\nResearch suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical\ncomposition.\nPerhaps these differences can account for their high level of homeostasis and their almost mechanical movements.",
+    "zh": "代号为「塔勒特」\n的高级冰元素生命。\n根据研究，无相元素与常规的元素生物在物质构成上有着细微的差别。\n而这些细微的成分差别，或许就是它们高度稳定的形态与机械般的行动方式的由来吧。"
+  },
+  "description": {
+    "ru": "Кодовое название: Далет. Высококонцентрированный Крио элемент.\nИсследования показали, что между Элементальными гипостазисами и обычными созданиями элементов есть небольшое отличие.\nИменно оно может быть причиной высокой стабильности их форм и механичности выполняемых действий.",
+    "en": "Code name: Daleth. A high-purity Cryo entity.\nResearch suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical\ncomposition.\nPerhaps these differences can account for their high level of homeostasis and their almost mechanical movements.",
+    "zh": "代号为「塔勒特」\n的高级冰元素生命。\n根据研究，无相元素与常规的元素生物在物质构成上有着细微的差别。\n而这些细微的成分差别，或许就是它们高度稳定的形态与机械般的行动方式的由来吧。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "crystalline_bloom",
+      "title": {
+        "ru": "Цветение кристалла",
+        "en": "Crystalline Bloom",
+        "zh": "晶凝之华"
+      },
+      "icon": "assets/icons/items/world_bosses/crystalline_bloom.webp",
+      "text": {
+        "ru": "Ледяные кристаллы поразительной чистоты, образовавшиеся в холодном цвету Крио гипостазиса.\nЭти морозные кристаллы никогда не прекратят расти, следуя своим студёным законам,\nпока однажды не раскроется цветок зимы и не заморозит всё вокруг.\nВозможно, застывшее время, его нетающее лоно, и есть истинная сущность этого бессмертного цветка.",
+        "en": "An ice crystal of exceeding purity that is created in the frigid blooming of a Cryo Hypostasis.\nThese frosty crystals will continue to grow according to their own cold, rigid laws,\ntill one day a flower of winter shall bloom and freeze everything.\nPerhaps it is stagnant time, that never-thawing bosom, that is the essence of this undying flower.",
+        "zh": "无相之冰绽开的极寒瞬间，凝结而出的至纯冰晶。\n冰霜的结晶永远依凭着冰冷的定则生长、盛放，最终开出冻结一切的凛冬之花。\n或许滞顿的时间，无法解冻的幽怀，才应当是永存不灭之花的真谛。"
+      }
+    }
+  ],
+  "material_count": 1
+}

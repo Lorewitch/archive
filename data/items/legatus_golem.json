@@ -1,0 +1,52 @@
+{
+  "id": "legatus_golem",
+  "category": "items",
+  "icon": "assets/icons/enemies/legatus_golem.webp",
+  "title": {
+    "ru": "Легат големов",
+    "en": "Legatus Golem",
+    "zh": "魔像督军"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.6",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Голем в форме кентавра из мрамора и латуни.\nПод твёрдой каменной оболочкой течёт кровь ихора.\nВозвышаясь, как командир армии, он готов растоптать любого врага, посягнувшего на его честь.\nЗатонувшие древние цивилизации верили, что война, как и музыка, - это искусство, которое должно подчиняться ритму.\nКомандир легиона должен быть подобен дирижёру оркестра, относясь к щиту и мечу в своих руках как к струнам и смычку лиры,\nиграя мелодию огня в безжалостном бою.\n«Война - необходимое зло на пути к бесконечному миру».\nТак говорил гармост, возглавлявший легионы големов и однажды покоривший всё высокое море.",
+    "en": "A centaur-shaped golem forged of marble and brass.\nUnder the hard stone exterior flows Ichor blood.\nTowering as one who commands a legion, it is ready to trample any foe that might transgress against its honor.\nThe now sunken civilization believed that war was as music, an art of rhythms to be followed.\nTherefore, one who marshals a legion must be like a conductor, whose shield and sword are like the strings and bow of a violin,\nperforming a blazing melody like the raging flames upon the merciless battlefield.\"War is a necessary evil on the path to all-encompassing\npeace.\" Thus spake a Harmost,\none who once led the golem legions to conquest over the entire high sea.",
+    "zh": "白石与黄铜塑造的半人马巨像，坚硬的石质躯壳下流淌着灵露的血液。\n以军团统帅般的姿态屹立着，随时准备将敢于冒犯其威严之人踏为童粉。\n已沉没的古代文明认为，战争与音乐一样，是需要遵循节律的艺术。\n军团的统帅应当像乐团的指挥者一样，将手中的盾与剑视作琴的弦与弓，在无情的战场弹奏出烈火的旋律。\n「战争是通向普遍幸福的必要之恶。\nJ统率魔像的军团，一度征服整片高海的调律师曾如是说。"
+  },
+  "description": {
+    "ru": "Голем в форме кентавра из мрамора и латуни.\nПод твёрдой каменной оболочкой течёт кровь ихора.\nВозвышаясь, как командир армии, он готов растоптать любого врага, посягнувшего на его честь.\nЗатонувшие древние цивилизации верили, что война, как и музыка, - это искусство, которое должно подчиняться ритму.\nКомандир легиона должен быть подобен дирижёру оркестра, относясь к щиту и мечу в своих руках как к струнам и смычку лиры,\nиграя мелодию огня в безжалостном бою.\n«Война - необходимое зло на пути к бесконечному миру».\nТак говорил гармост, возглавлявший легионы големов и однажды покоривший всё высокое море.",
+    "en": "A centaur-shaped golem forged of marble and brass.\nUnder the hard stone exterior flows Ichor blood.\nTowering as one who commands a legion, it is ready to trample any foe that might transgress against its honor.\nThe now sunken civilization believed that war was as music, an art of rhythms to be followed.\nTherefore, one who marshals a legion must be like a conductor, whose shield and sword are like the strings and bow of a violin,\nperforming a blazing melody like the raging flames upon the merciless battlefield.\"War is a necessary evil on the path to all-encompassing\npeace.\" Thus spake a Harmost,\none who once led the golem legions to conquest over the entire high sea.",
+    "zh": "白石与黄铜塑造的半人马巨像，坚硬的石质躯壳下流淌着灵露的血液。\n以军团统帅般的姿态屹立着，随时准备将敢于冒犯其威严之人踏为童粉。\n已沉没的古代文明认为，战争与音乐一样，是需要遵循节律的艺术。\n军团的统帅应当像乐团的指挥者一样，将手中的盾与剑视作琴的弦与弓，在无情的战场弹奏出烈火的旋律。\n「战争是通向普遍幸福的必要之恶。\nJ统率魔像的军团，一度征服整片高海的调律师曾如是说。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "fragment_of_a_golden_melody",
+      "title": {
+        "ru": "Фрагмент золотой мелодии",
+        "en": "Fragment of a Golden Melody",
+        "zh": "金色旋律的断章"
+      },
+      "icon": "assets/icons/items/world_bosses/fragment_of_a_golden_melody.webp",
+      "text": {
+        "ru": "Золотой фрагмент, который выпал из груди великого голема-кентавра.\nНадписи на обломках, прикреплённых к нему, будто содержат отрывок большого музыкального произведения.\nКогда-то люди верили, что песня о счастье и гармонии будет звучать до скончания времён.\nНо музыка может измениться.\nКогда Царь богов лишился трона, столица вечности была разрушена и превратилась в груду обломков.\nИ кому теперь играть на лире, которая некогда принадлежала командующему без армии?",
+        "en": "A golden fragment that fell from the centaur golem's chest.\nPutting the tune inscribed upon the shattered rubble back together, it appears to be a small sliver of a grander musical movement.\nPeople once believed that the song of eternal happiness and harmony would resound throughout the world till the end of all destinies.\nBut harmonies can be changed.\nWhen the rebellious God King fell from his throne, the imperishable capital was reduced to refuse and rubble — for who, then,\nshall the lyre in the hands of a legion-less commander play?",
+        "zh": "半人马魔像胸前掉落的金色别章。\n与之连缀的碎石上所镌刻着的曲调，似乎是某部宏大乐剧的断章。\n曾有人认为，永恒幸福的谐和音律将会响彻寰宇，直至一切命运的尽头，但谐律亦会变奏。\n最终，当叛逆的神王跌落王座，不朽的王都化为丘墟，失去了军团的统帅手中的琴又要为谁人奏响呢。"
+      }
+    }
+  ],
+  "material_count": 1
+}

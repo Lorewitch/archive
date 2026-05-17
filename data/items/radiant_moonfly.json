@@ -1,0 +1,52 @@
+{
+  "id": "radiant_moonfly",
+  "category": "items",
+  "icon": "assets/icons/enemies/radiant_moonfly.webp",
+  "title": {
+    "ru": "Лучезарный мотылёк-призрак",
+    "en": "Radiant Moonfly",
+    "zh": "蕴光月幻蝶"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древняя сила луны проникла в эти иллюзорные крылья, и чудовище, похожее на бабочку, теперь легко танцует в лунном свете.\nЗаконы эволюции гласят, что после того, как дикая первобытная сила была укрощена небесным правителем,\nподобные чудовища не должны сохранять свою форму, становясь меньше и слабее.\nОднако благословение луны позволило ему скользить по этому миру в расцвете сил, как пережиток прежнего мира,\nкогда древняя луна освещала землю.",
+    "en": "The moon's ancient power has seeped into these illusory wings,\nand the butterfly-shaped monster now dances lightly in the moonlight.\nThe principles of evolution state that after the wild yet primeval power was tamed by the heavenly ruler,\nsuch a monster should not be able to maintain its shape, becoming smaller and weaker over time.\nHowever, the moon's blessing has allowed it to glide through this world while remaining in its prime,\ndisplaying the remnants of an older world, when the ancient moon once illuminated the land.",
+    "zh": "古老的月之力浸润了幻惑的双翅，于月光下翩然起舞的蝶形魔物。\n按照演化的理论来说，在狂暴而原始的力量被天空的主人驯化之后，此种类型的魔物本应无法维持这样的体型，会变得更为微小和脆弱。\n然而月光的恩赐令其能以强盛时的姿态漫行于世，向众人展现古老月亮曾照映的旧世界的残余。"
+  },
+  "description": {
+    "ru": "Древняя сила луны проникла в эти иллюзорные крылья, и чудовище, похожее на бабочку, теперь легко танцует в лунном свете.\nЗаконы эволюции гласят, что после того, как дикая первобытная сила была укрощена небесным правителем,\nподобные чудовища не должны сохранять свою форму, становясь меньше и слабее.\nОднако благословение луны позволило ему скользить по этому миру в расцвете сил, как пережиток прежнего мира,\nкогда древняя луна освещала землю.",
+    "en": "The moon's ancient power has seeped into these illusory wings,\nand the butterfly-shaped monster now dances lightly in the moonlight.\nThe principles of evolution state that after the wild yet primeval power was tamed by the heavenly ruler,\nsuch a monster should not be able to maintain its shape, becoming smaller and weaker over time.\nHowever, the moon's blessing has allowed it to glide through this world while remaining in its prime,\ndisplaying the remnants of an older world, when the ancient moon once illuminated the land.",
+    "zh": "古老的月之力浸润了幻惑的双翅，于月光下翩然起舞的蝶形魔物。\n按照演化的理论来说，在狂暴而原始的力量被天空的主人驯化之后，此种类型的魔物本应无法维持这样的体型，会变得更为微小和脆弱。\n然而月光的恩赐令其能以强盛时的姿态漫行于世，向众人展现古老月亮曾照映的旧世界的残余。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "lightbearing_scale_feather",
+      "title": {
+        "ru": "Светящееся чешуйчатое перо",
+        "en": "Lightbearing Scale-Feather",
+        "zh": "承光的鳞羽"
+      },
+      "icon": "assets/icons/items/world_bosses/lightbearing_scale_feather.webp",
+      "text": {
+        "ru": "Крыло с чешуёй, сброшенное павшим лучезарным мотыльком-призраком.\nВо многих местных преданиях говорится, что те, кто ступает на запретную землю,\nчасто попадают под чары этих крыльев и исчезают бесследно.\nОдни считают, что причина в луне, чья иллюзорная магия, освоенная этими созданиями в форме бабочек, способна сводить с ума.\nДругие воспринимают это как предостережение - древняя сила коварна и опасна.",
+        "en": "The scaly wings shed by a defeated Radiant Moonfly.\nIn many local folk tales, those who enter the forbidden ground are frequently bewitched by these wings and never seen again.\nSome say this is because the moon, whose illusory magic these butterfly-shaped monsters have harnessed,\nis prone to inducing madness, while others take it as a warning of the inconstancy and danger of ancient power...",
+        "zh": "击败蕴光月幻蝶之后，其身后蜕下的布满细琐鳞片的虫翅。\n据说在此地流传的诸多民俗故事中，常有踏入禁忌之地的人被幻惑的鳞翅迷惑，从此消失于林泽之中的记载。\n有人说这是因为蝶形魔兽的幻惑之法来自于易让人发疯失常的月亮，但也有人说这是古老力量变化多样而又危险至极的警示…"
+      }
+    }
+  ],
+  "material_count": 1
+}

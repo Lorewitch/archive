@@ -1,0 +1,66 @@
+{
+  "id": "icewind_suite",
+  "category": "items",
+  "icon": "assets/icons/enemies/icewind_suite.webp",
+  "title": {
+    "ru": "Сюита ледяного ветра",
+    "en": "Icewind Suite",
+    "zh": "冰风组曲"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Механический танцор, разработанный Исследовательским институтом Фонтейна.\nПо первоначальному замыслу Боссюэ, необычный механический танцор должен был стать произведением искусства,\nвыходящим за рамки простых механических реплик.\nНо после вынужденного ухода Боссюэ проектом занялся Майарде.\nОн по-своему понимал понятия «механика» и «танец»,\nпоэтому в процессе смены поколений функции «механического танцора» были усовершенствованы,\nно постепенно отошли от первоначального дизайна Боссюэ.",
+    "en": "Artificed Dancers developed by the Fontaine Research Institute.\nBossuet originally intended for Artificed Dancers to be works of art that transcended the era of mechanical reproduction.\nBut after Bossuet was forced to resign, the project was taken over by Maillardet,\nwho had his own unique understanding of what he wanted to achieve.\nAs a result, while their features were perfected during the course of its development,\nthe Artificed Dancers gradually strayed from Bossuet's original vision.",
+    "zh": "来自枫丹科学院的献礼，分为「歌裴莉娅的葬送」\n与「科培琉司的劫罚」\n二曲。\n由枫丹科学院研发的奇械舞者。\n在博絮埃最初的设想中，奇械舞者是超越机械复制时代的艺术品。\n但在博絮埃被迫离任后，该项目改由梅雅德接手。\n梅雅德对于奇械和舞者均有自己独到的见解，因此在迭代过程中，奇械舞者的各项功能在臻至完备的同时，也逐渐偏离了博絮埃的设计初衷。"
+  },
+  "description": {
+    "ru": "Механический танцор, разработанный Исследовательским институтом Фонтейна.\nПо первоначальному замыслу Боссюэ, необычный механический танцор должен был стать произведением искусства,\nвыходящим за рамки простых механических реплик.\nНо после вынужденного ухода Боссюэ проектом занялся Майарде.\nОн по-своему понимал понятия «механика» и «танец»,\nпоэтому в процессе смены поколений функции «механического танцора» были усовершенствованы,\nно постепенно отошли от первоначального дизайна Боссюэ.",
+    "en": "Artificed Dancers developed by the Fontaine Research Institute.\nBossuet originally intended for Artificed Dancers to be works of art that transcended the era of mechanical reproduction.\nBut after Bossuet was forced to resign, the project was taken over by Maillardet,\nwho had his own unique understanding of what he wanted to achieve.\nAs a result, while their features were perfected during the course of its development,\nthe Artificed Dancers gradually strayed from Bossuet's original vision.",
+    "zh": "来自枫丹科学院的献礼，分为「歌裴莉娅的葬送」\n与「科培琉司的劫罚」\n二曲。\n由枫丹科学院研发的奇械舞者。\n在博絮埃最初的设想中，奇械舞者是超越机械复制时代的艺术品。\n但在博絮埃被迫离任后，该项目改由梅雅德接手。\n梅雅德对于奇械和舞者均有自己独到的见解，因此在迭代过程中，奇械舞者的各项功能在臻至完备的同时，也逐渐偏离了博絮埃的设计初衷。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "world_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "artificed_spare_clockwork_component_coppelia",
+      "title": {
+        "ru": "Запасная деталь чудного механизма: Коппелия",
+        "en": "Artificed Spare Clockwork Component — Coppelia",
+        "zh": "奇械发条备件·歌裴莉娅"
+      },
+      "icon": "assets/icons/items/world_bosses/artificed_spare_clockwork_component_coppelia.webp",
+      "text": {
+        "ru": "Запасная деталь чудного механизма Коппелии, которая обеспечивает механическую танцовщицу энергией.\nПо замыслу создателя изящная Коппелия замирает в счастливом моменте своего сказания и готова заставить незваного гостя пережить худшие страницы истории,\nобрушив на него свою небывалую мощь.",
+        "en": "An artificed spare clockwork component belonging to Coppelia.\nIt powers this artificed dancer.\nAccording to its creator's design, the story of the artificed dancer with delicate joints ends at a merry moment.\nCoppelia will send whoever attempts to disturb that moment to a chapter of misfortune with her superb combat skills.",
+        "zh": "属于歌裴莉娅的奇械发条备件，能够为奇械舞者提供能源。\n在制造者的构想中，有着纤细关节的奇械舞者的故事停留在欢快的一瞬。\n歌裴莉娅将会以超凡的战斗能力为任何试图搅扰此刻的不速之客送去厄运的篇章。"
+      }
+    },
+    {
+      "key": "artificed_spare_clockwork_component_coppelius",
+      "title": {
+        "ru": "Запасная деталь чудного механизма: Коппелиус",
+        "en": "Artificed Spare Clockwork Component — Coppelius",
+        "zh": "奇械发条备件·科培琉司"
+      },
+      "icon": "assets/icons/items/world_bosses/artificed_spare_clockwork_component_coppelius.webp",
+      "text": {
+        "ru": "Запасная деталь чудного механизма Коппелиуса, которая обеспечивает механического танцора энергией.\nКоппелиус готов вечно дарить зрителям свой ледяной танец в такт платиновому ритму, и остановит его лишь погребальный звон.",
+        "en": "An artificed spare clockwork component belonging to Coppelius.\nIt powers this artificed dancer.\nThe artificed dancer whirls to a platinum tune, performing an unending waltz of icewind.\nCoppelius's dance will not stop.\nHe will continue whirling till the bell tolls.",
+        "zh": "属于科培琉司的奇械发条备件，能够为奇械舞者提供能源。\n奇械舞者踏着白金的音节，不知昼夜地为观众献上冰风的轮舞。\n科培琉司不会停下舞步，直至丧钟敲响。"
+      }
+    }
+  ],
+  "material_count": 2
+}
