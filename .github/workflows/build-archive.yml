@@ -15,6 +15,7 @@ on:
       - 'tools/check_archive.py'
       - 'tools/bump_cache_version.py'
       - 'assets/js/archive.js'
+      - 'assets/icons/**'
       - '.github/workflows/build-archive.yml'
   workflow_dispatch:
 
@@ -28,7 +29,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -47,12 +48,22 @@ jobs:
           set -euo pipefail
 
           public_changed=false
+          changed_files="$(mktemp)"
+          before="${{ github.event.before }}"
 
           if ! git diff --quiet -- data assets/css/archive.css; then
             public_changed=true
           fi
 
-          if git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" | grep -qx 'assets/js/archive.js'; then
+          if [ -n "$before" ] \
+            && [ "$before" != "0000000000000000000000000000000000000000" ] \
+            && git cat-file -e "$before^{commit}" 2>/dev/null; then
+            git diff --name-only "$before" "${{ github.sha }}" > "$changed_files"
+          else
+            git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" > "$changed_files"
+          fi
+
+          if grep -Eq '^(assets/js/archive\.js|assets/icons/)' "$changed_files"; then
             public_changed=true
           fi
 

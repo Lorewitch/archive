@@ -8,6 +8,7 @@ const SECTION_LOADS = new Map();
 const SEARCH_TEXT_CACHE = new WeakMap();
 const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
 const catalogScrollPositions = new Map();
+const expandedEnemyDescriptionKeys = new Set();
 let renderSequence = 0;
 let renderedRouteKey = "";
 let activeDetail = null;
@@ -26,6 +27,13 @@ function versionedDataPath(path) {
   if (!DATA_CACHE_VERSION || !String(path).startsWith("data/")) return path;
   const separator = String(path).includes("?") ? "&" : "?";
   return `${path}${separator}v=${encodeURIComponent(DATA_CACHE_VERSION)}`;
+}
+
+function versionedAssetPath(path) {
+  const value = String(path || "");
+  if (!DATA_CACHE_VERSION || !value.startsWith("assets/")) return value;
+  const separator = value.includes("?") ? "&" : "?";
+  return `${value}${separator}v=${encodeURIComponent(DATA_CACHE_VERSION)}`;
 }
 
 async function fetchJson(path) {
@@ -794,7 +802,7 @@ function renderTitleCell(item) {
   const subtitles = [en, zh].filter(Boolean).join(" · ");
   const icon = iconFor(item);
   const iconMarkup = icon
-    ? `<img class="entry-icon" src="${escapeHtml(icon)}" alt="" loading="lazy" decoding="async" width="42" height="42">`
+    ? `<img class="entry-icon" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
   const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
   return `
@@ -822,7 +830,7 @@ function renderCommonEnemyMaterialsCell(item) {
   return `
     <div class="catalog-material-plain-list">
       ${materials.map((material, index) => {
-        const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="38" height="38">` : "";
+        const icon = material.icon ? `<img src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="38" height="38">` : "";
         return `
           <div class="catalog-material-plain-item">
             ${icon}
@@ -843,7 +851,7 @@ function renderMaterialsCell(item) {
   return `
     <div class="material-list">
       ${materials.map(material => {
-        const icon = material.icon ? `<img src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="28" height="28">` : "";
+        const icon = material.icon ? `<img src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="28" height="28">` : "";
         return `<span class="material-chip">${icon}<span>${escapeHtml(materialTitle(material, "ru"))}</span></span>`;
       }).join("")}
     </div>
@@ -887,7 +895,7 @@ function renderDroppedByCell(item) {
   return `
     <div class="dropped-by-catalog-list">
       ${visible.map(enemy => {
-        const icon = enemy.icon ? `<img src="${escapeHtml(enemy.icon)}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
+        const icon = enemy.icon ? `<img src="${escapeHtml(versionedAssetPath(enemy.icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
         return `<span class="dropped-by-catalog-chip">${icon}<span>${escapeHtml(titleOf(enemy, "ru"))}</span></span>`;
       }).join("")}
       ${rest > 0 ? `<span class="tiny-pill">+${rest}</span>` : ""}
@@ -896,7 +904,7 @@ function renderDroppedByCell(item) {
 }
 
 function renderLootChip(drop, currentItemId = "") {
-  const icon = drop.icon ? `<img src="${escapeHtml(drop.icon)}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
+  const icon = drop.icon ? `<img src="${escapeHtml(versionedAssetPath(drop.icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
   const currentClass = drop.id === currentItemId ? " current" : "";
   const title = titleOf(drop, state.lang);
   return `<span class="enemy-loot-chip${currentClass}">${icon}<span>${escapeHtml(title)}</span></span>`;
@@ -947,7 +955,7 @@ function renderDroppedBySection(item) {
       <div class="dropped-by-grid">
         ${enemies.map(enemy => {
           const icon = enemy.icon
-            ? `<img class="dropped-by-icon" src="${escapeHtml(enemy.icon)}" alt="" loading="lazy" decoding="async" width="46" height="46">`
+            ? `<img class="dropped-by-icon" src="${escapeHtml(versionedAssetPath(enemy.icon))}" alt="" loading="lazy" decoding="async" width="46" height="46">`
             : `<span class="dropped-by-icon entry-icon placeholder" aria-hidden="true">⌁</span>`;
           return `
             <article class="dropped-by-card">
@@ -1091,7 +1099,7 @@ function markRouteRendered(routeKey, routeChanged) {
 function renderNav() {
   nav.innerHTML = SECTIONS.map(section => `
     <button class="nav-item ${state.section === section.id ? "active" : ""}" type="button" data-section="${section.id}">
-      <span class="nav-left"><img class="nav-icon" src="${section.icon}" alt="" loading="lazy" decoding="async" width="26" height="26">${section.title}</span>
+      <span class="nav-left"><img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="26" height="26">${section.title}</span>
       <span>›</span>
     </button>
   `).join("");
@@ -1605,6 +1613,21 @@ function localizedMaterialText(material) {
   return text || "";
 }
 
+function enemyDescriptionKey(item = activeDetail?.data, configId = activeDetail?.configId || state.section) {
+  const id = item?.id || state.entryId || "";
+  const group = item?.item_group || state.subsection || "";
+  return id ? `${configId}:${group}:${id}` : "";
+}
+
+function rememberEnemyDescriptionState(panel, expanded) {
+  const key = panel?.dataset?.descriptionKey || enemyDescriptionKey();
+  if (!key) return;
+  if (expanded) {
+    expandedEnemyDescriptionKeys.add(key);
+  } else {
+    expandedEnemyDescriptionKeys.delete(key);
+  }
+}
 
 function fitEnemyDescriptionPanel() {
   document.querySelectorAll(".enemy-description-panel").forEach(panel => {
@@ -1612,7 +1635,9 @@ function fitEnemyDescriptionPanel() {
     const button = panel.querySelector(".enemy-description-toggle");
     if (!textNode || !button) return;
 
-    const wasExpanded = panel.classList.contains("is-collapsible") && !panel.classList.contains("is-collapsed");
+    const descriptionKey = panel.dataset.descriptionKey || "";
+    const wasExpanded = expandedEnemyDescriptionKeys.has(descriptionKey)
+      || (panel.classList.contains("is-collapsible") && !panel.classList.contains("is-collapsed"));
 
     panel.classList.remove("is-collapsible", "is-collapsed");
     button.hidden = true;
@@ -1651,11 +1676,12 @@ function renderEnemyDropsDetail(item, config) {
   }
 
   const enemyDescription = localizedEntryText(item);
+  const descriptionKey = enemyDescriptionKey(item, config.id);
   const enemyIcon = item.icon
-    ? `<img class="enemy-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
+    ? `<img class="enemy-description-icon" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
   const enemyDescriptionBlock = enemyDescription ? `
-      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}">
+      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}" data-description-key="${escapeHtml(descriptionKey)}">
         ${enemyIcon}
         <div class="enemy-description-content">
           <div class="prose enemy-description-text">${markdownToHtml(enemyDescription)}</div>
@@ -1740,7 +1766,7 @@ function renderEnemyMaterialsTextArea(item) {
       </div>
     ` : "";
     const iconSize = isCompactMaterialSet ? 104 : 128;
-    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(material.icon)}" alt="" loading="lazy" decoding="async" width="${iconSize}" height="${iconSize}">` : "";
+    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="${iconSize}" height="${iconSize}">` : "";
     const notesBlock = index === 0 && generalNote ? `
       <div class="notes">
         <div class="notes-title">Заметки Лороведьмы</div>
@@ -1803,10 +1829,10 @@ function renderGenericDetail(item, config) {
   const isSimpleItem = config.id === "items";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
   const weaponIcon = isWeapon && item.icon
-    ? `<img class="weapon-description-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="88" height="88">`
+    ? `<img class="weapon-description-icon" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
   const itemFloatIcon = isSimpleItem && item.icon
-    ? `<img class="item-description-float-icon" src="${escapeHtml(item.icon)}" alt="" loading="lazy" decoding="async" width="104" height="104">`
+    ? `<img class="item-description-float-icon" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="104" height="104">`
     : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
         <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
@@ -1900,6 +1926,7 @@ function handleAppClick(event) {
     const panel = enemyToggle.closest(".enemy-description-panel");
     if (!panel) return;
     const isCollapsed = panel.classList.toggle("is-collapsed");
+    rememberEnemyDescriptionState(panel, !isCollapsed);
     enemyToggle.setAttribute("aria-expanded", String(!isCollapsed));
     enemyToggle.textContent = isCollapsed ? "Показать полностью" : "Свернуть";
     return;
