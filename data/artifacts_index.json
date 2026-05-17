@@ -65,7 +65,7 @@
       "en": "Adventurer",
       "zh": "冒险家"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -78,11 +78,17 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "искатель приключений adventurer 冒险家 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "искатель приключений adventurer 冒险家 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "archaic_petra",
@@ -121,7 +127,7 @@
       "en": "Berserker",
       "zh": "战狂"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -134,11 +140,17 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "берсерк berserker 战狂 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "берсерк berserker 战狂 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "blizzard_strayer",
@@ -205,7 +217,7 @@
       "en": "Brave Heart",
       "zh": "勇士之心"
     },
-    "region": "Ли Юэ",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -218,11 +230,15 @@
       "zh"
     ],
     "filter_regions": [
-      "Ли Юэ"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "душа храбреца brave heart 勇士之心 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "душа храбреца brave heart 勇士之心 мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "crimson_witch_of_flames",
@@ -289,7 +305,7 @@
       "en": "Defender's Will",
       "zh": "守护之心"
     },
-    "region": "Ли Юэ",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Фонтейн",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -302,11 +318,14 @@
       "zh"
     ],
     "filter_regions": [
-      "Ли Юэ"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "воля защитника defender's will 守护之心 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "воля защитника defender's will 守护之心 мондштадт, ли юэ, инадзума, фонтейн 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "desert_pavilion_chronicle",
@@ -485,7 +504,7 @@
       "en": "Gambler",
       "zh": "赌徒"
     },
-    "region": "Ли Юэ",
+    "region": "Мондштадт, Ли Юэ, Сумеру, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -498,11 +517,15 @@
       "zh"
     ],
     "filter_regions": [
-      "Ли Юэ"
+      "Мондштадт",
+      "Ли Юэ",
+      "Сумеру",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "азартный игрок gambler 赌徒 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "азартный игрок gambler 赌徒 мондштадт, ли юэ, сумеру, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "gilded_dreams",
@@ -541,7 +564,7 @@
       "en": "Gladiator's Finale",
       "zh": "角斗士的终幕礼"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -554,11 +577,17 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "конец гладиатора gladiator's finale 角斗士的终幕礼 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "конец гладиатора gladiator's finale 角斗士的终幕礼 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "golden_troupe",
@@ -653,7 +682,7 @@
       "en": "Instructor",
       "zh": "教官"
     },
-    "region": "Нод-Край",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -666,11 +695,17 @@
       "zh"
     ],
     "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
       "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "инструктор instructor 教官 нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "инструктор instructor 教官 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "lavawalker",
@@ -737,7 +772,7 @@
       "en": "Lucky Dog",
       "zh": "幸运儿"
     },
-    "region": "Ли Юэ",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -750,11 +785,17 @@
       "zh"
     ],
     "filter_regions": [
-      "Ли Юэ"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "везунчик lucky dog 幸运儿 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "везунчик lucky dog 幸运儿 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "maiden_beloved",
@@ -821,7 +862,7 @@
       "en": "Martial Artist",
       "zh": "武人"
     },
-    "region": "Ли Юэ",
+    "region": "Ли Юэ, Сумеру, Фонтейн",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -834,11 +875,13 @@
       "zh"
     ],
     "filter_regions": [
-      "Ли Юэ"
+      "Ли Юэ",
+      "Сумеру",
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "воин martial artist 武人 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "воин martial artist 武人 ли юэ, сумеру, фонтейн 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "night_of_the_skys_unveiling",
@@ -1045,7 +1088,7 @@
       "en": "Prayers for Destiny",
       "zh": "祭水之人"
     },
-    "region": "Инадзума",
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1058,11 +1101,15 @@
       "zh"
     ],
     "filter_regions": [
-      "Инадзума"
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман воды prayers for destiny 祭水之人 инадзума 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман воды prayers for destiny 祭水之人 ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "prayers_for_illumination",
@@ -1073,7 +1120,7 @@
       "en": "Prayers for Illumination",
       "zh": "祭火之人"
     },
-    "region": "Фонтейн",
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1086,11 +1133,16 @@
       "zh"
     ],
     "filter_regions": [
-      "Фонтейн"
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман огня prayers for illumination 祭火之人 фонтейн 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман огня prayers for illumination 祭火之人 ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "prayers_for_wisdom",
@@ -1101,7 +1153,7 @@
       "en": "Prayers for Wisdom",
       "zh": "祭雷之人"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1114,11 +1166,17 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман молнии prayers for wisdom 祭雷之人 мондштадт 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман молнии prayers for wisdom 祭雷之人 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "prayers_to_springtime",
@@ -1129,7 +1187,7 @@
       "en": "Prayers to Springtime",
       "zh": "祭冰之人"
     },
-    "region": "Инадзума",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1142,11 +1200,16 @@
       "zh"
     ],
     "filter_regions": [
-      "Инадзума"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман льда prayers to springtime 祭冰之人 инадзума 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман льда prayers to springtime 祭冰之人 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "resolution_of_sojourner",
@@ -1157,7 +1220,7 @@
       "en": "Resolution of Sojourner",
       "zh": "行者之心"
     },
-    "region": "Мондштадт",
+    "region": "Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1170,11 +1233,15 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "решимость временщика resolution of sojourner 行者之心 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "решимость временщика resolution of sojourner 行者之心 инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "retracing_bolide",
@@ -1213,7 +1280,7 @@
       "en": "Scholar",
       "zh": "学士"
     },
-    "region": "Ли Юэ",
+    "region": "Ли Юэ, Сумеру, Фонтейн, Натлан",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1226,11 +1293,14 @@
       "zh"
     ],
     "filter_regions": [
-      "Ли Юэ"
+      "Ли Юэ",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "учёный scholar 学士 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "учёный scholar 学士 ли юэ, сумеру, фонтейн, натлан 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "scroll_of_the_hero_of_cinder_city",
@@ -1381,7 +1451,7 @@
       "en": "The Exile",
       "zh": "流放者"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1394,11 +1464,17 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "изгнанник the exile 流放者 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "изгнанник the exile 流放者 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "thundering_fury",
@@ -1465,7 +1541,7 @@
       "en": "Tiny Miracle",
       "zh": "奇迹"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1478,11 +1554,16 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "маленькое чудо tiny miracle 奇迹 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "маленькое чудо tiny miracle 奇迹 мондштадт, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "traveling_doctor",
@@ -1493,7 +1574,7 @@
       "en": "Traveling Doctor",
       "zh": "游医"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1506,11 +1587,17 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "целитель traveling doctor 游医 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "целитель traveling doctor 游医 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "unfinished_reverie",
@@ -1633,7 +1720,7 @@
       "en": "Wanderer's Troupe",
       "zh": "流浪大地的乐团"
     },
-    "region": "Мондштадт",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1646,10 +1733,16 @@
       "zh"
     ],
     "filter_regions": [
-      "Мондштадт"
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "странствующий ансамбль wanderer's troupe 流浪大地的乐团 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "странствующий ансамбль wanderer's troupe 流浪大地的乐团 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   }
 ]
