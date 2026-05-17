@@ -1,0 +1,23 @@
+/* Design tokens
+   Source module for assets/css/archive.css. */
+
+:root {
+  --bg: #e8ded4;
+  --surface: #f6f2eb;
+  --surface-soft: #efe8de;
+  --surface-muted: #e1d6c8;
+  --ink: #2a2521;
+  --muted: #6f665f;
+  --soft: #8a8077;
+  --line: #cbbfaf;
+  --line-strong: #afa394;
+  --accent: #5b4a3e;
+  --accent-hover: #6f5d50;
+  --accent-soft: #d8cec0;
+  --shadow: 0 16px 38px rgba(91, 74, 62, 0.11);
+  --shadow-soft: 0 8px 22px rgba(91, 74, 62, 0.075);
+  --sidebar: 310px;
+  --radius-page: 18px;
+  --radius-card: 14px;
+  --radius-control: 9px;
+}

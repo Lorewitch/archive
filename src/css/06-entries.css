@@ -1,0 +1,409 @@
+/* Entry detail pages, materials, enemies and special cards
+   Source module for assets/css/archive.css. */
+
+.material-reader-body::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.material-float-icon {
+  float: left;
+  width: 128px;
+  height: 128px;
+  object-fit: contain;
+  margin: 2px 24px 14px 0;
+}
+
+.common-enemy-material-card .material-float-icon {
+  width: 104px;
+  height: 104px;
+  margin: 2px 20px 12px 0;
+}
+
+.material-title-subtitle {
+  margin-top: 5px;
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 17px;
+  font-weight: 520;
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+.weapon-description-panel {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 18px;
+  align-items: center;
+  padding: 16px 18px;
+  border: 1px solid rgba(91, 74, 62, 0.12);
+  border-radius: 14px;
+  background: rgba(203, 191, 175, 0.22);
+}
+
+.weapon-description-panel.no-icon {
+  grid-template-columns: 1fr;
+}
+
+.weapon-description-icon {
+  display: block;
+  width: 88px;
+  height: 88px;
+  object-fit: contain;
+  border-radius: 12px;
+  background: rgba(246, 242, 235, 0.52);
+  flex: 0 0 auto;
+}
+
+.weapon-description-panel .prose {
+  min-width: 0;
+}
+
+.weapon-detail-main-text {
+  margin-top: 26px;
+}
+
+.items-detail-card.generic-text-card {
+  padding: 24px;
+}
+
+.items-detail-card .generic-title h3 {
+  font-size: clamp(23px, 2vw, 32px);
+  line-height: 1.05;
+}
+
+.items-detail-card > .prose:first-of-type {
+  font-size: 17px;
+  line-height: 1.82;
+}
+
+.item-description-prose::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.item-description-float-icon {
+  float: left;
+  display: block;
+  width: 104px;
+  height: 104px;
+  object-fit: contain;
+  margin: 2px 22px 12px 0;
+  border-radius: 14px;
+  background: rgba(246, 242, 235, 0.52);
+}
+
+.enemy-overview-card {
+  margin-bottom: 18px;
+}
+
+.enemy-description-panel {
+  position: relative;
+  display: block;
+  padding: 16px 18px;
+  border: 1px solid rgba(91, 74, 62, 0.12);
+  border-radius: 14px;
+  background: rgba(203, 191, 175, 0.22);
+}
+
+.enemy-description-panel::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.enemy-description-icon {
+  float: left;
+  display: block;
+  width: 82px;
+  height: 82px;
+  object-fit: contain;
+  border-radius: 12px;
+  background: rgba(246, 242, 235, 0.52);
+  margin: 2px 18px 10px 0;
+}
+
+.enemy-description-content,
+.enemy-description-panel .prose {
+  min-width: 0;
+}
+
+.enemy-description-text {
+  position: relative;
+}
+
+.boss-loot-page .enemy-description-text {
+  color: #6a5242;
+  font-size: 17px;
+  font-style: italic;
+  line-height: 1.82;
+}
+
+.boss-loot-page .enemy-description-text strong {
+  color: #5a4638;
+  font-style: italic;
+  font-weight: 780;
+}
+
+.enemy-description-panel.is-collapsed .enemy-description-text {
+  max-height: 5.7em;
+  overflow: hidden;
+}
+
+.enemy-description-panel.is-collapsed .enemy-description-text::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2.6em;
+  pointer-events: none;
+  background: linear-gradient(
+    to bottom,
+    rgba(239, 232, 222, 0),
+    rgba(239, 232, 222, 0.96)
+  );
+}
+
+.enemy-description-toggle {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  border: 0;
+  border-radius: 8px;
+  padding: 4px 9px;
+  background: rgba(246, 242, 235, 0.82);
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 900;
+  line-height: 1.2;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 5px 14px rgba(91, 74, 62, 0.08);
+  transition:
+    background 0.16s ease,
+    color 0.16s ease;
+}
+
+.enemy-description-panel.is-collapsible .enemy-description-toggle {
+  display: inline-flex;
+}
+
+.enemy-description-panel.is-collapsed .enemy-description-toggle {
+  position: absolute;
+  left: 50%;
+  bottom: 9px;
+  transform: translateX(-50%);
+  margin: 0;
+}
+
+.enemy-description-panel.is-collapsible:not(.is-collapsed)
+  .enemy-description-toggle {
+  margin: 10px auto 0;
+}
+
+.enemy-description-toggle:hover,
+.enemy-description-toggle:focus-visible {
+  background: rgba(203, 191, 175, 0.48);
+  color: var(--ink);
+  outline: none;
+}
+
+.enemy-overview-card.enemy-description-panel {
+  margin: 0 0 18px;
+}
+
+.common-enemy-loot-page .back-link {
+  margin-bottom: 10px;
+}
+
+.common-enemy-loot-page .reader-toolbar {
+  margin-top: 8px;
+}
+
+.development-material-page .back-link {
+  margin-bottom: 10px;
+}
+
+.development-material-page .reader-toolbar {
+  margin-top: 8px;
+}
+
+.dropped-by-section {
+  margin-top: 24px;
+  padding-top: 22px;
+  border-top: 1px solid rgba(91, 74, 62, 0.16);
+}
+
+.dropped-by-title {
+  margin-bottom: 12px;
+  color: #211b17;
+  font-size: clamp(22px, 2vw, 30px);
+  font-weight: 900;
+  line-height: 1.08;
+  letter-spacing: -0.035em;
+}
+
+.dropped-by-grid {
+  column-count: 3;
+  column-gap: 12px;
+}
+
+.dropped-by-card {
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 12px;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  border: 1px solid rgba(91, 74, 62, 0.14);
+  border-radius: 14px;
+  background: rgba(203, 191, 175, 0.2);
+  overflow: hidden;
+}
+
+.dropped-by-card-inner {
+  padding: 14px 16px;
+}
+
+.dropped-by-header {
+  display: grid;
+  grid-template-columns: 46px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(91, 74, 62, 0.12);
+  user-select: text;
+}
+
+.dropped-by-icon {
+  display: block;
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+  border-radius: 8px;
+  background: rgba(246, 242, 235, 0.58);
+}
+
+.dropped-by-names {
+  min-width: 0;
+  user-select: text;
+}
+
+.dropped-by-name,
+.dropped-by-meta,
+.dropped-by-zh {
+  display: block;
+  min-width: 0;
+  line-height: 1.24;
+  overflow-wrap: anywhere;
+}
+
+.dropped-by-name {
+  color: #211b17;
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.dropped-by-meta,
+.dropped-by-zh {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 520;
+}
+
+.dropped-by-card .prose {
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+.enemy-loot-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 10px;
+}
+
+.enemy-loot-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  padding: 5px 8px;
+  border: 1px solid rgba(91, 74, 62, 0.12);
+  border-radius: 9px;
+  background: rgba(246, 242, 235, 0.62);
+  color: #342b25;
+  font-size: 12px;
+  font-weight: 760;
+  line-height: 1.2;
+}
+
+.enemy-loot-chip.current {
+  background: rgba(91, 74, 62, 0.12);
+  border-color: rgba(91, 74, 62, 0.24);
+}
+
+.enemy-loot-chip img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  flex: 0 0 22px;
+}
+
+.common-enemy-type-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: center;
+  min-width: 0;
+}
+
+.common-enemy-type-chip {
+  display: inline-flex;
+  align-items: center;
+  max-width: 100%;
+  padding: 6px 9px;
+  border: 1px solid rgba(91, 74, 62, 0.12);
+  border-radius: 9px;
+  background: rgba(232, 222, 212, 0.54);
+  color: #342b25;
+  font-size: 12px;
+  font-weight: 820;
+  line-height: 1.25;
+}
+
+.dropped-by-catalog-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  align-items: center;
+  min-width: 0;
+}
+
+.dropped-by-catalog-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  padding: 5px 8px;
+  border: 1px solid rgba(91, 74, 62, 0.12);
+  border-radius: 9px;
+  background: rgba(232, 222, 212, 0.64);
+  color: #342b25;
+  font-size: 12px;
+  font-weight: 720;
+  line-height: 1.25;
+}
+
+.dropped-by-catalog-chip img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  flex: 0 0 22px;
+}

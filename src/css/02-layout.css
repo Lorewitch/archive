@@ -1,0 +1,79 @@
+/* Page layout and shared surfaces
+   Source module for assets/css/archive.css. */
+
+.app {
+  display: grid;
+  grid-template-columns: var(--sidebar) minmax(0, 1fr);
+  gap: 24px;
+  width: min(1500px, calc(100% - 52px));
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: 28px 0;
+}
+
+.sidebar,
+.page-card,
+.text-card {
+  border: 1px solid rgba(91, 74, 62, 0.2);
+  border-radius: var(--radius-page);
+  background: rgba(246, 242, 235, 0.9);
+  box-shadow: var(--shadow-soft);
+  backdrop-filter: blur(14px);
+}
+
+.content {
+  display: grid;
+  gap: 20px;
+  min-width: 0;
+}
+
+.page-card {
+  min-width: 0;
+  padding: 30px 34px;
+}
+
+.page-head {
+  margin-bottom: 26px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: #211b17;
+  line-height: 1.05;
+  letter-spacing: -0.045em;
+}
+
+h1 {
+  font-size: clamp(38px, 4.5vw, 64px);
+  font-weight: 950;
+}
+
+h2 {
+  font-size: clamp(30px, 3vw, 46px);
+  font-weight: 930;
+}
+
+h3 {
+  font-size: clamp(23px, 2vw, 32px);
+  font-weight: 900;
+}
+
+.lead {
+  max-width: 860px;
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+.catalog-material-plain-ru,
+.catalog-material-plain-sub,
+.dropped-by-name,
+.dropped-by-meta,
+.dropped-by-zh {
+  overflow-wrap: anywhere;
+}
