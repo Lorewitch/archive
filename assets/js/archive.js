@@ -2,7 +2,6 @@ let BOOKS = [];
 let ARTIFACTS = [];
 let WEAPONS = [];
 let ITEMS = [];
-let ENEMIES = [];
 const DETAILS = new Map();
 const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
@@ -55,7 +54,6 @@ function assignSectionData(sectionId, data) {
   if (sectionId === "artifacts") ARTIFACTS = list;
   if (sectionId === "weapons") WEAPONS = list;
   if (sectionId === "items") ITEMS = list;
-  if (sectionId === "enemies") ENEMIES = list;
 }
 
 async function loadSectionData(sectionId) {

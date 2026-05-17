@@ -1,4 +1,4 @@
-name: Build archive data
+name: Build archive data and styles
 
 on:
   push:
@@ -8,7 +8,11 @@ on:
       - 'content/artifacts/**'
       - 'content/weapons/**'
       - 'content/items/**'
+      - 'content/enemies/**'
+      - 'src/css/**'
       - 'tools/build_archive.py'
+      - 'tools/build_css.py'
+      - 'tools/check_archive.py'
       - '.github/workflows/build-archive.yml'
   workflow_dispatch:
 
@@ -30,14 +34,20 @@ jobs:
       - name: Build JSON data from Markdown
         run: python tools/build_archive.py
 
-      - name: Commit generated data
+      - name: Build CSS bundle
+        run: python tools/build_css.py
+
+      - name: Check generated archive
+        run: python tools/check_archive.py
+
+      - name: Commit generated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data
+          git add data assets/css/archive.css
           if git diff --cached --quiet; then
-            echo "No generated data changes."
+            echo "No generated file changes."
           else
-            git commit -m "Update archive data"
+            git commit -m "Update generated archive files"
             git push
           fi
