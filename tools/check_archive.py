@@ -462,6 +462,14 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: Markdown-парсер снова превращает дефисные диалоги в списки")
         if "markdownToHtml(noteText, { allowLists: true })" not in text:
             fail("assets/js/archive.js: заметки должны явно включать Markdown-списки")
+        if "function rememberCatalogScrollPosition()" not in text:
+            fail("assets/js/archive.js: каталог должен запоминать позицию скролла перед переходом в запись")
+        if "function scheduleRouteScroll(routeChanged)" not in text:
+            fail("assets/js/archive.js: смена маршрута должна управлять позицией скролла")
+        if "markRouteRendered(routeKey, routeChanged)" not in text:
+            fail("assets/js/archive.js: после рендера маршрута должна применяться позиция скролла")
+        if "state.section = normalizedSection" in text:
+            fail("assets/js/archive.js: setRoute не должен менять state до hashchange, иначе ломается сохранение скролла")
 
 
 def main() -> int:

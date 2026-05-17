@@ -7,7 +7,9 @@ const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
 const SEARCH_TEXT_CACHE = new WeakMap();
 const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
+const catalogScrollPositions = new Map();
 let renderSequence = 0;
+let renderedRouteKey = "";
 let activeDetail = null;
 let backgroundPrefetchStarted = false;
 let lastPrefetchedEntryKey = "";
@@ -1021,9 +1023,6 @@ function setRoute(section, entryId = null, subsection = null) {
   const normalizedSection = config.id;
   const nextHash = routeHash(normalizedSection, entryId, subsection);
 
-  state.section = normalizedSection;
-  state.subsection = subsection;
-  state.entryId = entryId;
   closeMenu();
 
   if (window.location.hash === nextHash) {
@@ -1048,6 +1047,45 @@ function parseHash() {
   } else {
     state.entryId = parts[1] || null;
   }
+}
+
+function currentRouteKey() {
+  return [state.section || "books", state.subsection || "", state.entryId || ""].join("/");
+}
+
+function currentCatalogScrollKey() {
+  return [state.section || "books", state.subsection || ""].join("/");
+}
+
+function isCatalogRoute() {
+  return !state.entryId;
+}
+
+function rememberCatalogScrollPosition() {
+  if (!renderedRouteKey || !isCatalogRoute()) return;
+  catalogScrollPositions.set(currentCatalogScrollKey(), {
+    x: window.scrollX || 0,
+    y: window.scrollY || 0,
+  });
+}
+
+function targetScrollPositionForRoute() {
+  if (state.entryId) return { x: 0, y: 0 };
+  return catalogScrollPositions.get(currentCatalogScrollKey()) || { x: 0, y: 0 };
+}
+
+function scheduleRouteScroll(routeChanged) {
+  if (!routeChanged) return;
+  const target = targetScrollPositionForRoute();
+  requestAnimationFrame(() => {
+    window.scrollTo(target.x, target.y);
+    updateToTopButton();
+  });
+}
+
+function markRouteRendered(routeKey, routeChanged) {
+  renderedRouteKey = routeKey;
+  scheduleRouteScroll(routeChanged);
 }
 
 function renderNav() {
@@ -2081,7 +2119,11 @@ function renderError(message) {
 
 async function render() {
   const sequence = ++renderSequence;
+  rememberCatalogScrollPosition();
+  const previousRouteKey = renderedRouteKey;
   parseHash();
+  const routeKey = currentRouteKey();
+  const routeChanged = routeKey !== previousRouteKey;
   renderNav();
   const config = getSectionConfig();
 
@@ -2092,6 +2134,7 @@ async function render() {
     } catch (error) {
       if (sequence !== renderSequence) return;
       renderError(error.message || "Не удалось загрузить данные раздела.");
+      markRouteRendered(routeKey, routeChanged);
       return;
     }
     if (sequence !== renderSequence) return;
@@ -2099,6 +2142,7 @@ async function render() {
 
   if (!state.entryId && config.groups && !state.subsection) {
     renderGroupSelector(config);
+    markRouteRendered(routeKey, routeChanged);
     return;
   }
 
@@ -2109,9 +2153,11 @@ async function render() {
       if (sequence !== renderSequence) return;
       if (!state.subsection) state.subsection = groupValue(book, config);
       renderBookDetail(book);
+      markRouteRendered(routeKey, routeChanged);
     } catch (error) {
       if (sequence !== renderSequence) return;
       renderError(error.message || "Не удалось открыть книгу.");
+      markRouteRendered(routeKey, routeChanged);
     }
     return;
   }
@@ -2122,9 +2168,11 @@ async function render() {
       const artifact = await getGenericDetail("artifacts", state.entryId);
       if (sequence !== renderSequence) return;
       renderArtifactDetail(artifact);
+      markRouteRendered(routeKey, routeChanged);
     } catch (error) {
       if (sequence !== renderSequence) return;
       renderError(error.message || "Не удалось открыть сет артефактов.");
+      markRouteRendered(routeKey, routeChanged);
     }
     return;
   }
@@ -2139,14 +2187,17 @@ async function render() {
       } else {
         renderGenericDetail(item, config);
       }
+      markRouteRendered(routeKey, routeChanged);
     } catch (error) {
       if (sequence !== renderSequence) return;
       renderError(error.message || "Не удалось открыть запись.");
+      markRouteRendered(routeKey, routeChanged);
     }
     return;
   }
 
   renderCatalog(config);
+  markRouteRendered(routeKey, routeChanged);
 }
 
 async function init() {
