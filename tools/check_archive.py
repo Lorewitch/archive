@@ -454,8 +454,14 @@ def check_interface_regressions() -> None:
     js = ASSETS_DIR / "js" / "archive.js"
     if js.exists():
         text = js.read_text(encoding="utf-8")
-        if "^[-–—]" in text:
-            fail("assets/js/archive.js: Markdown-парсер снова превращает en/em dash в список")
+        if "const allowLists = options.allowLists === true" not in text:
+            fail("assets/js/archive.js: Markdown-списки должны быть opt-in, чтобы не ломать диалоги")
+        if "const dialogueMatch = trimmed.match(/^[-–—]" not in text:
+            fail("assets/js/archive.js: Markdown-парсер должен сохранять ведущие тире как диалог")
+        if "const listMatch = trimmed.match(/^" in text:
+            fail("assets/js/archive.js: Markdown-парсер снова превращает дефисные диалоги в списки")
+        if "markdownToHtml(noteText, { allowLists: true })" not in text:
+            fail("assets/js/archive.js: заметки должны явно включать Markdown-списки")
 
 
 def main() -> int:

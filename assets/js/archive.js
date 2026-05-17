@@ -549,10 +549,11 @@ function inlineMarkdown(value) {
     .replace(/(^|[^*])\*([^*\n]+?)\*(?!\*)/g, "$1<em>$2</em>");
 }
 
-function markdownToHtml(value) {
+function markdownToHtml(value, options = {}) {
   const raw = String(value ?? "").replace(/\r\n/g, "\n").trim();
   if (!raw) return "";
 
+  const allowLists = options.allowLists === true;
   const lines = raw.split("\n");
   const blocks = [];
   let paragraph = [];
@@ -607,10 +608,18 @@ function markdownToHtml(value) {
       continue;
     }
 
-    // Treat only a real Markdown hyphen as a list marker.
-    // En dash and em dash are common dialogue punctuation in RU text
-    // and must remain plain prose: "— реплика", not <ul><li>реплика</li></ul>.
-    const listMatch = trimmed.match(/^-\s+(.+)$/);
+    // Lists are opt-in because Russian book text often uses a leading dash
+    // for dialogue. Without this guard, dialogue turns into bullet lists.
+    // In prose mode we normalize any leading -, – or — into a readable em dash.
+    const dialogueMatch = trimmed.match(/^[-–—]\s+(.+)$/);
+    if (!allowLists && dialogueMatch) {
+      flushList();
+      flushQuote();
+      paragraph.push(`— ${dialogueMatch[1]}`);
+      continue;
+    }
+
+    const listMatch = allowLists ? trimmed.match(/^-\s+(.+)$/) : null;
     if (listMatch) {
       flushParagraph();
       flushQuote();
@@ -1419,7 +1428,7 @@ function renderTextArea(book) {
     const notesBlock = noteText ? `
         <div class="notes">
           <div class="notes-title">Заметки Лороведьмы</div>
-          <div class="notes-body">${markdownToHtml(noteText)}</div>
+          <div class="notes-body">${markdownToHtml(noteText, { allowLists: true })}</div>
         </div>
     ` : "";
 
@@ -1509,7 +1518,7 @@ function renderArtifactTextArea(artifact) {
     const notesBlock = noteText ? `
         <div class="notes">
           <div class="notes-title">Заметки Лороведьмы</div>
-          <div class="notes-body">${markdownToHtml(noteText)}</div>
+          <div class="notes-body">${markdownToHtml(noteText, { allowLists: true })}</div>
         </div>
     ` : "";
 
@@ -1692,7 +1701,7 @@ function renderEnemyMaterialsTextArea(item) {
     const notesBlock = index === 0 && generalNote ? `
       <div class="notes">
         <div class="notes-title">Заметки Лороведьмы</div>
-        <div class="notes-body">${markdownToHtml(generalNote)}</div>
+        <div class="notes-body">${markdownToHtml(generalNote, { allowLists: true })}</div>
       </div>
     ` : "";
 
@@ -1744,7 +1753,7 @@ function renderGenericDetail(item, config) {
   const notesBlock = noteText ? `
     <div class="notes">
       <div class="notes-title">Заметки Лороведьмы</div>
-      <div class="notes-body">${markdownToHtml(noteText)}</div>
+      <div class="notes-body">${markdownToHtml(noteText, { allowLists: true })}</div>
     </div>
   ` : "";
   const isWeapon = config.id === "weapons";
