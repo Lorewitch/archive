@@ -607,7 +607,10 @@ function markdownToHtml(value) {
       continue;
     }
 
-    const listMatch = trimmed.match(/^[-–—]\s+(.+)$/);
+    // Treat only a real Markdown hyphen as a list marker.
+    // En dash and em dash are common dialogue punctuation in RU text
+    // and must remain plain prose: "— реплика", not <ul><li>реплика</li></ul>.
+    const listMatch = trimmed.match(/^-\s+(.+)$/);
     if (listMatch) {
       flushParagraph();
       flushQuote();

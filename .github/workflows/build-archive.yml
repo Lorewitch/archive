@@ -27,6 +27,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -39,14 +41,34 @@ jobs:
       - name: Build CSS bundle
         run: python tools/build_css.py
 
-      - name: Bump cache version
-        run: python tools/bump_cache_version.py
+      - name: Bump cache version when public assets changed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          public_changed=false
+
+          if ! git diff --quiet -- data assets/css/archive.css; then
+            public_changed=true
+          fi
+
+          if git diff-tree --no-commit-id --name-only -r "${{ github.sha }}" | grep -qx 'assets/js/archive.js'; then
+            public_changed=true
+          fi
+
+          if [ "$public_changed" = true ]; then
+            python tools/bump_cache_version.py
+          else
+            echo "Public assets are unchanged; cache version stays as is."
+          fi
 
       - name: Check generated archive
         run: python tools/check_archive.py
 
       - name: Commit generated files
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data assets/css/archive.css index.html
