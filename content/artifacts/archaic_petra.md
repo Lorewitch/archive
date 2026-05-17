@@ -4,7 +4,7 @@
 # title_ru: Архаичный камень
 # title_en: Archaic Petra
 # title_zh: 悠古的磐岩
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

@@ -4,7 +4,7 @@
 # title_ru: Клятва долгой ночи
 # title_en: Long Night's Oath
 # title_zh: 长夜之誓
-# region: Тейват
+# region: Натлан
 # piece_count: 5
 # game_version: 5.5
 # tags: артефакты, сет артефактов

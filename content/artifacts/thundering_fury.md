@@ -4,7 +4,7 @@
 # title_ru: Громогласный рёв ярости
 # title_en: Thundering Fury
 # title_zh: 如雷的盛怒
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

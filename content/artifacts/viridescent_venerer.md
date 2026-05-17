@@ -4,7 +4,7 @@
 # title_ru: Изумрудная тень
 # title_en: Viridescent Venerer
 # title_zh: 翠绿之影
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

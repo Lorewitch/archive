@@ -4,7 +4,7 @@
 # title_ru: Песнь былых времён
 # title_en: Song of Days Past
 # title_zh: 昔时之歌
-# region: Тейват
+# region: Фонтейн
 # piece_count: 5
 # game_version: 4.3
 # tags: артефакты, сет артефактов

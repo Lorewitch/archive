@@ -4,7 +4,7 @@
 # title_ru: День восходящих ветров
 # title_en: A Day Carved From Rising Winds
 # title_zh: 风起之日
-# region: Тейват
+# region: Нод-Край
 # piece_count: 5
 # game_version: 6.3
 # tags: артефакты, сет артефактов

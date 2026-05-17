@@ -4,7 +4,7 @@
 # title_ru: Воля защитника
 # title_en: Defender's Will
 # title_zh: 守护之心
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

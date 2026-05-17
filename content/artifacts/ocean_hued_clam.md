@@ -4,7 +4,7 @@
 # title_ru: Моллюск морских красок
 # title_en: Ocean-Hued Clam
 # title_zh: 海染砗磲
-# region: Тейват
+# region: Инадзума
 # piece_count: 5
 # game_version: 2.3
 # tags: артефакты, сет артефактов

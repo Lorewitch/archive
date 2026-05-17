@@ -4,7 +4,7 @@
 # title_ru: Кокон сладких грёз
 # title_en: Husk of Opulent Dreams
 # title_zh: 华馆梦醒形骸记
-# region: Тейват
+# region: Инадзума
 # piece_count: 5
 # game_version: 2.3
 # tags: артефакты, сет артефактов

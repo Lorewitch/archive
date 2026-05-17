@@ -4,7 +4,7 @@
 # title_ru: Незаконченные грёзы
 # title_en: Unfinished Reverie
 # title_zh: 未竟的遐思
-# region: Тейват
+# region: Фонтейн
 # piece_count: 5
 # game_version: 4.6
 # tags: артефакты, сет артефактов

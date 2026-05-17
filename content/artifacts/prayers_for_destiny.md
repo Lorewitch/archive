@@ -4,7 +4,7 @@
 # title_ru: Шаман воды
 # title_en: Prayers for Destiny
 # title_zh: 祭水之人
-# region: Тейват
+# region: Инадзума
 # piece_count: 1
 # game_version: 1.0
 # tags: артефакты, сет артефактов

@@ -4,7 +4,7 @@
 # title_ru: Сердце глубин
 # title_en: Heart of Depth
 # title_zh: 沉沦之心
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.2
 # tags: артефакты, сет артефактов

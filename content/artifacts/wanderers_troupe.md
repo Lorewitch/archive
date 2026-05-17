@@ -4,7 +4,7 @@
 # title_ru: Странствующий ансамбль
 # title_en: Wanderer's Troupe
 # title_zh: 流浪大地的乐团
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

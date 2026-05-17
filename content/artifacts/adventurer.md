@@ -4,7 +4,7 @@
 # title_ru: Искатель приключений
 # title_en: Adventurer
 # title_zh: 冒险家
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

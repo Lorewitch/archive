@@ -4,7 +4,7 @@
 # title_ru: Ступающий по лаве
 # title_en: Lavawalker
 # title_zh: 渡过烈火的贤人
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

@@ -4,7 +4,7 @@
 # title_ru: Возлюбленная юная дева
 # title_en: Maiden Beloved
 # title_zh: 被怜爱的少女
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

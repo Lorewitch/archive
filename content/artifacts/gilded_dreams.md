@@ -4,7 +4,7 @@
 # title_ru: Позолоченные сны
 # title_en: Gilded Dreams
 # title_zh: 饰金之梦
-# region: Тейват
+# region: Сумеру
 # piece_count: 5
 # game_version: 3.0
 # tags: артефакты, сет артефактов

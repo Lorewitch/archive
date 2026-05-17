@@ -4,7 +4,7 @@
 # title_ru: Маленькое чудо
 # title_en: Tiny Miracle
 # title_zh: 奇迹
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

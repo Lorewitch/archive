@@ -4,7 +4,7 @@
 # title_ru: Воспоминания дремучего леса
 # title_en: Deepwood Memories
 # title_zh: 深林的记忆
-# region: Тейват
+# region: Сумеру
 # piece_count: 5
 # game_version: 3.0
 # tags: артефакты, сет артефактов

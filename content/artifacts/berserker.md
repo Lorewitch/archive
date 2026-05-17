@@ -4,7 +4,7 @@
 # title_ru: Берсерк
 # title_en: Berserker
 # title_zh: 战狂
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

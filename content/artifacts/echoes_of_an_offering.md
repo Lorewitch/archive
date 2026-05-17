@@ -4,7 +4,7 @@
 # title_ru: Отголоски подношения
 # title_en: Echoes of an Offering
 # title_zh: 来歆余响
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 2.6
 # tags: артефакты, сет артефактов

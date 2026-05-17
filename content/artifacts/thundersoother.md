@@ -4,7 +4,7 @@
 # title_ru: Усмиряющий гром
 # title_en: Thundersoother
 # title_zh: 平息鸣雷的尊者
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

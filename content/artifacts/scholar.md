@@ -4,7 +4,7 @@
 # title_ru: Учёный
 # title_en: Scholar
 # title_zh: 学士
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

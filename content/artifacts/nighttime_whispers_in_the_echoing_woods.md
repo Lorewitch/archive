@@ -4,7 +4,7 @@
 # title_ru: Ночной шёпот в Лесу откликающегося эха
 # title_en: Nighttime Whispers in the Echoing Woods
 # title_zh: 回声之林夜话
-# region: Тейват
+# region: Фонтейн
 # piece_count: 5
 # game_version: 4.3
 # tags: артефакты, сет артефактов

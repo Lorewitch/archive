@@ -4,7 +4,7 @@
 # title_ru: Фрагмент гармонической фантазии
 # title_en: Fragment of Harmonic Whimsy
 # title_zh: 谐律异想断章
-# region: Тейват
+# region: Фонтейн
 # piece_count: 5
 # game_version: 4.6
 # tags: артефакты, сет артефактов

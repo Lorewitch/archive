@@ -4,7 +4,7 @@
 # title_ru: Церемония древней знати
 # title_en: Noblesse Oblige
 # title_zh: 昔日宗室之仪
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

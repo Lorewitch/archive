@@ -4,7 +4,7 @@
 # title_ru: Рыцарь крови
 # title_en: Bloodstained Chivalry
 # title_zh: 染血的骑士道
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

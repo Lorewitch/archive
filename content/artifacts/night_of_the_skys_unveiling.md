@@ -4,7 +4,7 @@
 # title_ru: Ночь открытия неба
 # title_en: Night of the Sky's Unveiling
 # title_zh: 穹境示现之夜
-# region: Тейват
+# region: Нод-Край
 # piece_count: 5
 # game_version: 6.0
 # tags: артефакты, сет артефактов

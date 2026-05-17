@@ -4,7 +4,7 @@
 # title_ru: Целитель
 # title_en: Traveling Doctor
 # title_zh: 游医
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

@@ -4,7 +4,7 @@
 # title_ru: Инструктор
 # title_en: Instructor
 # title_zh: 教官
-# region: Тейват
+# region: Нод-Край
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

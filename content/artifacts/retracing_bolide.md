@@ -4,7 +4,7 @@
 # title_ru: Встречная комета
 # title_en: Retracing Bolide
 # title_zh: 逆飞的流星
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

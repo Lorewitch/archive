@@ -4,7 +4,7 @@
 # title_ru: Везунчик
 # title_en: Lucky Dog
 # title_zh: 幸运儿
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

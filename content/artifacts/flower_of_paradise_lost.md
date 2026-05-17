@@ -4,7 +4,7 @@
 # title_ru: Цветок потерянного рая
 # title_en: Flower of Paradise Lost
 # title_zh: 乐园遗落之花
-# region: Тейват
+# region: Сумеру
 # piece_count: 5
 # game_version: 3.3
 # tags: артефакты, сет артефактов

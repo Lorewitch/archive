@@ -4,7 +4,7 @@
 # title_ru: Изгнанник
 # title_en: The Exile
 # title_zh: 流放者
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

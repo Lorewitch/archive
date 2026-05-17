@@ -4,7 +4,7 @@
 # title_ru: Воспоминания Симэнавы
 # title_en: Shimenawa's Reminiscence
 # title_zh: 追忆之注连
-# region: Тейват
+# region: Инадзума
 # piece_count: 5
 # game_version: 2.0
 # tags: артефакты, сет артефактов

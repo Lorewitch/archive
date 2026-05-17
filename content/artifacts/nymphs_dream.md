@@ -4,7 +4,7 @@
 # title_ru: Сон нимфы
 # title_en: Nymph's Dream
 # title_zh: 水仙之梦
-# region: Тейват
+# region: Сумеру
 # piece_count: 5
 # game_version: 3.6
 # tags: артефакты, сет артефактов

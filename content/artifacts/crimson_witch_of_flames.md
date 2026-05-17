@@ -4,7 +4,7 @@
 # title_ru: Горящая алая ведьма
 # title_en: Crimson Witch of Flames
 # title_zh: 炽烈的炎之魔女
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

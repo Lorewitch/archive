@@ -4,7 +4,7 @@
 # title_ru: Киноварное загробье
 # title_en: Vermillion Hereafter
 # title_zh: 辰砂往生录
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 2.6
 # tags: артефакты, сет артефактов

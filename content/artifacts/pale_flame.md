@@ -4,7 +4,7 @@
 # title_ru: Бледный огонь
 # title_en: Pale Flame
 # title_zh: 苍白之火
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.5
 # tags: артефакты, сет артефактов

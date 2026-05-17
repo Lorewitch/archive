@@ -4,7 +4,7 @@
 # title_ru: Обсидиановый фолиант
 # title_en: Obsidian Codex
 # title_zh: 黑曜秘典
-# region: Тейват
+# region: Натлан
 # piece_count: 5
 # game_version: 5.0
 # tags: артефакты, сет артефактов

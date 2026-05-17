@@ -4,7 +4,7 @@
 # title_ru: Стойкость Миллелита
 # title_en: Tenacity of the Millelith
 # title_zh: 千岩牢固
-# region: Тейват
+# region: Ли Юэ
 # piece_count: 5
 # game_version: 1.5
 # tags: артефакты, сет артефактов

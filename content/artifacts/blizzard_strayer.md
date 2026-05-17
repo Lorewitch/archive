@@ -4,7 +4,7 @@
 # title_ru: Заблудший в метели
 # title_en: Blizzard Strayer
 # title_zh: 冰风迷途的勇士
-# region: Тейват
+# region: Мондштадт
 # piece_count: 5
 # game_version: 1.2
 # tags: артефакты, сет артефактов
