@@ -37,7 +37,7 @@
       "en": "A Day Carved From Rising Winds",
       "zh": "风起之日"
     },
-    "region": "Тейват",
+    "region": "Нод-Край",
     "piece_count": 5,
     "game_version": "6.3",
     "tags": [
@@ -50,11 +50,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 6003000,
-    "search_text": "день восходящих ветров a day carved from rising winds 风起之日 тейват 6.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "день восходящих ветров a day carved from rising winds 风起之日 нод-край 6.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "adventurer",
@@ -65,7 +65,7 @@
       "en": "Adventurer",
       "zh": "冒险家"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -78,11 +78,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "искатель приключений adventurer 冒险家 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "искатель приключений adventurer 冒险家 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "archaic_petra",
@@ -93,7 +93,7 @@
       "en": "Archaic Petra",
       "zh": "悠古的磐岩"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -106,11 +106,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "архаичный камень archaic petra 悠古的磐岩 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "архаичный камень archaic petra 悠古的磐岩 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "berserker",
@@ -121,7 +121,7 @@
       "en": "Berserker",
       "zh": "战狂"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -134,11 +134,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "берсерк berserker 战狂 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "берсерк berserker 战狂 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "blizzard_strayer",
@@ -149,7 +149,7 @@
       "en": "Blizzard Strayer",
       "zh": "冰风迷途的勇士"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.2",
     "tags": [
@@ -162,11 +162,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1002000,
-    "search_text": "заблудший в метели blizzard strayer 冰风迷途的勇士 тейват 1.2 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "заблудший в метели blizzard strayer 冰风迷途的勇士 мондштадт 1.2 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "bloodstained_chivalry",
@@ -177,7 +177,7 @@
       "en": "Bloodstained Chivalry",
       "zh": "染血的骑士道"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -190,11 +190,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "рыцарь крови bloodstained chivalry 染血的骑士道 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "рыцарь крови bloodstained chivalry 染血的骑士道 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "brave_heart",
@@ -205,7 +205,7 @@
       "en": "Brave Heart",
       "zh": "勇士之心"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -218,11 +218,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "душа храбреца brave heart 勇士之心 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "душа храбреца brave heart 勇士之心 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "crimson_witch_of_flames",
@@ -233,7 +233,7 @@
       "en": "Crimson Witch of Flames",
       "zh": "炽烈的炎之魔女"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -246,11 +246,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "горящая алая ведьма crimson witch of flames 炽烈的炎之魔女 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "горящая алая ведьма crimson witch of flames 炽烈的炎之魔女 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "deepwood_memories",
@@ -261,7 +261,7 @@
       "en": "Deepwood Memories",
       "zh": "深林的记忆"
     },
-    "region": "Тейват",
+    "region": "Сумеру",
     "piece_count": 5,
     "game_version": "3.0",
     "tags": [
@@ -274,11 +274,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 3000000,
-    "search_text": "воспоминания дремучего леса deepwood memories 深林的记忆 тейват 3.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "воспоминания дремучего леса deepwood memories 深林的记忆 сумеру 3.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "defenders_will",
@@ -289,7 +289,7 @@
       "en": "Defender's Will",
       "zh": "守护之心"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -302,11 +302,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "воля защитника defender's will 守护之心 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "воля защитника defender's will 守护之心 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "desert_pavilion_chronicle",
@@ -317,7 +317,7 @@
       "en": "Desert Pavilion Chronicle",
       "zh": "沙上楼阁史话"
     },
-    "region": "Тейват",
+    "region": "Сумеру",
     "piece_count": 5,
     "game_version": "3.3",
     "tags": [
@@ -330,11 +330,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 3003000,
-    "search_text": "хроники чертогов в пустыне desert pavilion chronicle 沙上楼阁史话 тейват 3.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "хроники чертогов в пустыне desert pavilion chronicle 沙上楼阁史话 сумеру 3.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "echoes_of_an_offering",
@@ -345,7 +345,7 @@
       "en": "Echoes of an Offering",
       "zh": "来歆余响"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "2.6",
     "tags": [
@@ -358,11 +358,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 2006000,
-    "search_text": "отголоски подношения echoes of an offering 来歆余响 тейват 2.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "отголоски подношения echoes of an offering 来歆余响 ли юэ 2.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "emblem_of_severed_fate",
@@ -373,7 +373,7 @@
       "en": "Emblem of Severed Fate",
       "zh": "绝缘之旗印"
     },
-    "region": "Тейват",
+    "region": "Инадзума",
     "piece_count": 5,
     "game_version": "2.0",
     "tags": [
@@ -386,11 +386,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Инадзума"
     ],
     "filter_type": "",
     "sort_version": 2000000,
-    "search_text": "эмблема рассечённой судьбы emblem of severed fate 绝缘之旗印 тейват 2.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "эмблема рассечённой судьбы emblem of severed fate 绝缘之旗印 инадзума 2.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "finale_of_the_deep_galleries",
@@ -401,7 +401,7 @@
       "en": "Finale of the Deep Galleries",
       "zh": "深廊终曲"
     },
-    "region": "Тейват",
+    "region": "Натлан",
     "piece_count": 5,
     "game_version": "5.5",
     "tags": [
@@ -414,11 +414,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 5005000,
-    "search_text": "финал галерей глубин finale of the deep galleries 深廊终曲 тейват 5.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "финал галерей глубин finale of the deep galleries 深廊终曲 натлан 5.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "flower_of_paradise_lost",
@@ -429,7 +429,7 @@
       "en": "Flower of Paradise Lost",
       "zh": "乐园遗落之花"
     },
-    "region": "Тейват",
+    "region": "Сумеру",
     "piece_count": 5,
     "game_version": "3.3",
     "tags": [
@@ -442,11 +442,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 3003000,
-    "search_text": "цветок потерянного рая flower of paradise lost 乐园遗落之花 тейват 3.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "цветок потерянного рая flower of paradise lost 乐园遗落之花 сумеру 3.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "fragment_of_harmonic_whimsy",
@@ -457,7 +457,7 @@
       "en": "Fragment of Harmonic Whimsy",
       "zh": "谐律异想断章"
     },
-    "region": "Тейват",
+    "region": "Фонтейн",
     "piece_count": 5,
     "game_version": "4.6",
     "tags": [
@@ -470,11 +470,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4006000,
-    "search_text": "фрагмент гармонической фантазии fragment of harmonic whimsy 谐律异想断章 тейват 4.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "фрагмент гармонической фантазии fragment of harmonic whimsy 谐律异想断章 фонтейн 4.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "gambler",
@@ -485,7 +485,7 @@
       "en": "Gambler",
       "zh": "赌徒"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -498,11 +498,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "азартный игрок gambler 赌徒 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "азартный игрок gambler 赌徒 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "gilded_dreams",
@@ -513,7 +513,7 @@
       "en": "Gilded Dreams",
       "zh": "饰金之梦"
     },
-    "region": "Тейват",
+    "region": "Сумеру",
     "piece_count": 5,
     "game_version": "3.0",
     "tags": [
@@ -526,11 +526,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 3000000,
-    "search_text": "позолоченные сны gilded dreams 饰金之梦 тейват 3.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "позолоченные сны gilded dreams 饰金之梦 сумеру 3.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "gladiators_finale",
@@ -541,7 +541,7 @@
       "en": "Gladiator's Finale",
       "zh": "角斗士的终幕礼"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -554,11 +554,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "конец гладиатора gladiator's finale 角斗士的终幕礼 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "конец гладиатора gladiator's finale 角斗士的终幕礼 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "golden_troupe",
@@ -569,7 +569,7 @@
       "en": "Golden Troupe",
       "zh": "黄金剧团"
     },
-    "region": "Тейват",
+    "region": "Фонтейн",
     "piece_count": 5,
     "game_version": "4.0",
     "tags": [
@@ -582,11 +582,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4000000,
-    "search_text": "золотая труппа golden troupe 黄金剧团 тейват 4.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "золотая труппа golden troupe 黄金剧团 фонтейн 4.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "heart_of_depth",
@@ -597,7 +597,7 @@
       "en": "Heart of Depth",
       "zh": "沉沦之心"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.2",
     "tags": [
@@ -610,11 +610,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1002000,
-    "search_text": "сердце глубин heart of depth 沉沦之心 тейват 1.2 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "сердце глубин heart of depth 沉沦之心 мондштадт 1.2 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "husk_of_opulent_dreams",
@@ -625,7 +625,7 @@
       "en": "Husk of Opulent Dreams",
       "zh": "华馆梦醒形骸记"
     },
-    "region": "Тейват",
+    "region": "Инадзума",
     "piece_count": 5,
     "game_version": "2.3",
     "tags": [
@@ -638,11 +638,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Инадзума"
     ],
     "filter_type": "",
     "sort_version": 2003000,
-    "search_text": "кокон сладких грёз husk of opulent dreams 华馆梦醒形骸记 тейват 2.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "кокон сладких грёз husk of opulent dreams 华馆梦醒形骸记 инадзума 2.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "instructor",
@@ -653,7 +653,7 @@
       "en": "Instructor",
       "zh": "教官"
     },
-    "region": "Тейват",
+    "region": "Нод-Край",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -666,11 +666,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "инструктор instructor 教官 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "инструктор instructor 教官 нод-край 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "lavawalker",
@@ -681,7 +681,7 @@
       "en": "Lavawalker",
       "zh": "渡过烈火的贤人"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -694,11 +694,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "ступающий по лаве lavawalker 渡过烈火的贤人 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "ступающий по лаве lavawalker 渡过烈火的贤人 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "long_nights_oath",
@@ -709,7 +709,7 @@
       "en": "Long Night's Oath",
       "zh": "长夜之誓"
     },
-    "region": "Тейват",
+    "region": "Натлан",
     "piece_count": 5,
     "game_version": "5.5",
     "tags": [
@@ -722,11 +722,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 5005000,
-    "search_text": "клятва долгой ночи long night's oath 长夜之誓 тейват 5.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "клятва долгой ночи long night's oath 长夜之誓 натлан 5.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "lucky_dog",
@@ -737,7 +737,7 @@
       "en": "Lucky Dog",
       "zh": "幸运儿"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -750,11 +750,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "везунчик lucky dog 幸运儿 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "везунчик lucky dog 幸运儿 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "maiden_beloved",
@@ -765,7 +765,7 @@
       "en": "Maiden Beloved",
       "zh": "被怜爱的少女"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -778,11 +778,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "возлюбленная юная дева maiden beloved 被怜爱的少女 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "возлюбленная юная дева maiden beloved 被怜爱的少女 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "marechaussee_hunter",
@@ -793,7 +793,7 @@
       "en": "Marechaussee Hunter",
       "zh": "逐影猎人"
     },
-    "region": "Тейват",
+    "region": "Фонтейн",
     "piece_count": 5,
     "game_version": "4.0",
     "tags": [
@@ -806,11 +806,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4000000,
-    "search_text": "охотник сумеречного двора marechaussee hunter 逐影猎人 тейват 4.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "охотник сумеречного двора marechaussee hunter 逐影猎人 фонтейн 4.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "martial_artist",
@@ -821,7 +821,7 @@
       "en": "Martial Artist",
       "zh": "武人"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -834,11 +834,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "воин martial artist 武人 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "воин martial artist 武人 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "night_of_the_skys_unveiling",
@@ -849,7 +849,7 @@
       "en": "Night of the Sky's Unveiling",
       "zh": "穹境示现之夜"
     },
-    "region": "Тейват",
+    "region": "Нод-Край",
     "piece_count": 5,
     "game_version": "6.0",
     "tags": [
@@ -862,11 +862,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 6000000,
-    "search_text": "ночь открытия неба night of the sky's unveiling 穹境示现之夜 тейват 6.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "ночь открытия неба night of the sky's unveiling 穹境示现之夜 нод-край 6.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "nighttime_whispers_in_the_echoing_woods",
@@ -877,7 +877,7 @@
       "en": "Nighttime Whispers in the Echoing Woods",
       "zh": "回声之林夜话"
     },
-    "region": "Тейват",
+    "region": "Фонтейн",
     "piece_count": 5,
     "game_version": "4.3",
     "tags": [
@@ -890,11 +890,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4003000,
-    "search_text": "ночной шёпот в лесу откликающегося эха nighttime whispers in the echoing woods 回声之林夜话 тейват 4.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "ночной шёпот в лесу откликающегося эха nighttime whispers in the echoing woods 回声之林夜话 фонтейн 4.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "noblesse_oblige",
@@ -905,7 +905,7 @@
       "en": "Noblesse Oblige",
       "zh": "昔日宗室之仪"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -918,11 +918,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "церемония древней знати noblesse oblige 昔日宗室之仪 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "церемония древней знати noblesse oblige 昔日宗室之仪 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "nymphs_dream",
@@ -933,7 +933,7 @@
       "en": "Nymph's Dream",
       "zh": "水仙之梦"
     },
-    "region": "Тейват",
+    "region": "Сумеру",
     "piece_count": 5,
     "game_version": "3.6",
     "tags": [
@@ -946,11 +946,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 3006000,
-    "search_text": "сон нимфы nymph's dream 水仙之梦 тейват 3.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "сон нимфы nymph's dream 水仙之梦 сумеру 3.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "obsidian_codex",
@@ -961,7 +961,7 @@
       "en": "Obsidian Codex",
       "zh": "黑曜秘典"
     },
-    "region": "Тейват",
+    "region": "Натлан",
     "piece_count": 5,
     "game_version": "5.0",
     "tags": [
@@ -974,11 +974,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 5000000,
-    "search_text": "обсидиановый фолиант obsidian codex 黑曜秘典 тейват 5.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "обсидиановый фолиант obsidian codex 黑曜秘典 натлан 5.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "ocean_hued_clam",
@@ -989,7 +989,7 @@
       "en": "Ocean-Hued Clam",
       "zh": "海染砗磲"
     },
-    "region": "Тейват",
+    "region": "Инадзума",
     "piece_count": 5,
     "game_version": "2.3",
     "tags": [
@@ -1002,11 +1002,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Инадзума"
     ],
     "filter_type": "",
     "sort_version": 2003000,
-    "search_text": "моллюск морских красок ocean-hued clam 海染砗磲 тейват 2.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "моллюск морских красок ocean-hued clam 海染砗磲 инадзума 2.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "pale_flame",
@@ -1017,7 +1017,7 @@
       "en": "Pale Flame",
       "zh": "苍白之火"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.5",
     "tags": [
@@ -1030,11 +1030,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1005000,
-    "search_text": "бледный огонь pale flame 苍白之火 тейват 1.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "бледный огонь pale flame 苍白之火 ли юэ 1.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "prayers_for_destiny",
@@ -1045,7 +1045,7 @@
       "en": "Prayers for Destiny",
       "zh": "祭水之人"
     },
-    "region": "Тейват",
+    "region": "Инадзума",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1058,11 +1058,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Инадзума"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман воды prayers for destiny 祭水之人 тейват 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман воды prayers for destiny 祭水之人 инадзума 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "prayers_for_illumination",
@@ -1073,7 +1073,7 @@
       "en": "Prayers for Illumination",
       "zh": "祭火之人"
     },
-    "region": "Тейват",
+    "region": "Фонтейн",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1086,11 +1086,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман огня prayers for illumination 祭火之人 тейват 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман огня prayers for illumination 祭火之人 фонтейн 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "prayers_for_wisdom",
@@ -1101,7 +1101,7 @@
       "en": "Prayers for Wisdom",
       "zh": "祭雷之人"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1114,11 +1114,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман молнии prayers for wisdom 祭雷之人 тейват 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман молнии prayers for wisdom 祭雷之人 мондштадт 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "prayers_to_springtime",
@@ -1129,7 +1129,7 @@
       "en": "Prayers to Springtime",
       "zh": "祭冰之人"
     },
-    "region": "Тейват",
+    "region": "Инадзума",
     "piece_count": 1,
     "game_version": "1.0",
     "tags": [
@@ -1142,11 +1142,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Инадзума"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шаман льда prayers to springtime 祭冰之人 тейват 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
+    "search_text": "шаман льда prayers to springtime 祭冰之人 инадзума 1.0 артефакты сет артефактов корона разума circlet of logos 理之冠"
   },
   {
     "id": "resolution_of_sojourner",
@@ -1157,7 +1157,7 @@
       "en": "Resolution of Sojourner",
       "zh": "行者之心"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1170,11 +1170,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "решимость временщика resolution of sojourner 行者之心 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "решимость временщика resolution of sojourner 行者之心 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "retracing_bolide",
@@ -1185,7 +1185,7 @@
       "en": "Retracing Bolide",
       "zh": "逆飞的流星"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1198,11 +1198,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "встречная комета retracing bolide 逆飞的流星 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "встречная комета retracing bolide 逆飞的流星 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "scholar",
@@ -1213,7 +1213,7 @@
       "en": "Scholar",
       "zh": "学士"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1226,11 +1226,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "учёный scholar 学士 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "учёный scholar 学士 ли юэ 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "scroll_of_the_hero_of_cinder_city",
@@ -1241,7 +1241,7 @@
       "en": "Scroll of the Hero of Cinder City",
       "zh": "烬城勇者绘卷"
     },
-    "region": "Тейват",
+    "region": "Натлан",
     "piece_count": 5,
     "game_version": "5.0",
     "tags": [
@@ -1254,11 +1254,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 5000000,
-    "search_text": "свиток героя сожжённого города scroll of the hero of cinder city 烬城勇者绘卷 тейват 5.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "свиток героя сожжённого города scroll of the hero of cinder city 烬城勇者绘卷 натлан 5.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "shimenawas_reminiscence",
@@ -1269,7 +1269,7 @@
       "en": "Shimenawa's Reminiscence",
       "zh": "追忆之注连"
     },
-    "region": "Тейват",
+    "region": "Инадзума",
     "piece_count": 5,
     "game_version": "2.0",
     "tags": [
@@ -1282,11 +1282,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Инадзума"
     ],
     "filter_type": "",
     "sort_version": 2000000,
-    "search_text": "воспоминания симэнавы shimenawa's reminiscence 追忆之注连 тейват 2.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "воспоминания симэнавы shimenawa's reminiscence 追忆之注连 инадзума 2.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "silken_moons_serenade",
@@ -1297,7 +1297,7 @@
       "en": "Silken Moon's Serenade",
       "zh": "纺月的夜歌"
     },
-    "region": "Тейват",
+    "region": "Нод-Край",
     "piece_count": 5,
     "game_version": "6.0",
     "tags": [
@@ -1310,11 +1310,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Нод-Край"
     ],
     "filter_type": "",
     "sort_version": 6000000,
-    "search_text": "серенада шёлковой луны silken moon's serenade 纺月的夜歌 тейват 6.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "серенада шёлковой луны silken moon's serenade 纺月的夜歌 нод-край 6.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "song_of_days_past",
@@ -1325,7 +1325,7 @@
       "en": "Song of Days Past",
       "zh": "昔时之歌"
     },
-    "region": "Тейват",
+    "region": "Фонтейн",
     "piece_count": 5,
     "game_version": "4.3",
     "tags": [
@@ -1338,11 +1338,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4003000,
-    "search_text": "песнь былых времён song of days past 昔时之歌 тейват 4.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "песнь былых времён song of days past 昔时之歌 фонтейн 4.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "tenacity_of_the_millelith",
@@ -1353,7 +1353,7 @@
       "en": "Tenacity of the Millelith",
       "zh": "千岩牢固"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "1.5",
     "tags": [
@@ -1366,11 +1366,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 1005000,
-    "search_text": "стойкость миллелита tenacity of the millelith 千岩牢固 тейват 1.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "стойкость миллелита tenacity of the millelith 千岩牢固 ли юэ 1.5 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "the_exile",
@@ -1381,7 +1381,7 @@
       "en": "The Exile",
       "zh": "流放者"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1394,11 +1394,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "изгнанник the exile 流放者 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "изгнанник the exile 流放者 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "thundering_fury",
@@ -1409,7 +1409,7 @@
       "en": "Thundering Fury",
       "zh": "如雷的盛怒"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1422,11 +1422,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "громогласный рёв ярости thundering fury 如雷的盛怒 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "громогласный рёв ярости thundering fury 如雷的盛怒 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "thundersoother",
@@ -1437,7 +1437,7 @@
       "en": "Thundersoother",
       "zh": "平息鸣雷的尊者"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1450,11 +1450,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "усмиряющий гром thundersoother 平息鸣雷的尊者 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "усмиряющий гром thundersoother 平息鸣雷的尊者 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "tiny_miracle",
@@ -1465,7 +1465,7 @@
       "en": "Tiny Miracle",
       "zh": "奇迹"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1478,11 +1478,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "маленькое чудо tiny miracle 奇迹 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "маленькое чудо tiny miracle 奇迹 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "traveling_doctor",
@@ -1493,7 +1493,7 @@
       "en": "Traveling Doctor",
       "zh": "游医"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1506,11 +1506,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "целитель traveling doctor 游医 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "целитель traveling doctor 游医 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "unfinished_reverie",
@@ -1521,7 +1521,7 @@
       "en": "Unfinished Reverie",
       "zh": "未竟的遐思"
     },
-    "region": "Тейват",
+    "region": "Фонтейн",
     "piece_count": 5,
     "game_version": "4.6",
     "tags": [
@@ -1534,11 +1534,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4006000,
-    "search_text": "незаконченные грёзы unfinished reverie 未竟的遐思 тейват 4.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "незаконченные грёзы unfinished reverie 未竟的遐思 фонтейн 4.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "vermillion_hereafter",
@@ -1549,7 +1549,7 @@
       "en": "Vermillion Hereafter",
       "zh": "辰砂往生录"
     },
-    "region": "Тейват",
+    "region": "Ли Юэ",
     "piece_count": 5,
     "game_version": "2.6",
     "tags": [
@@ -1562,11 +1562,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Ли Юэ"
     ],
     "filter_type": "",
     "sort_version": 2006000,
-    "search_text": "киноварное загробье vermillion hereafter 辰砂往生录 тейват 2.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "киноварное загробье vermillion hereafter 辰砂往生录 ли юэ 2.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "viridescent_venerer",
@@ -1577,7 +1577,7 @@
       "en": "Viridescent Venerer",
       "zh": "翠绿之影"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1590,11 +1590,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "изумрудная тень viridescent venerer 翠绿之影 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "изумрудная тень viridescent venerer 翠绿之影 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "vourukashas_glow",
@@ -1605,7 +1605,7 @@
       "en": "Vourukasha's Glow",
       "zh": "花海甘露之光"
     },
-    "region": "Тейват",
+    "region": "Сумеру",
     "piece_count": 5,
     "game_version": "3.6",
     "tags": [
@@ -1618,11 +1618,11 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 3006000,
-    "search_text": "сияние вурукаши vourukasha's glow 花海甘露之光 тейват 3.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "сияние вурукаши vourukasha's glow 花海甘露之光 сумеру 3.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "wanderers_troupe",
@@ -1633,7 +1633,7 @@
       "en": "Wanderer's Troupe",
       "zh": "流浪大地的乐团"
     },
-    "region": "Тейват",
+    "region": "Мондштадт",
     "piece_count": 5,
     "game_version": "1.0",
     "tags": [
@@ -1646,10 +1646,10 @@
       "zh"
     ],
     "filter_regions": [
-      "Тейват"
+      "Мондштадт"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "странствующий ансамбль wanderer's troupe 流浪大地的乐团 тейват 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+    "search_text": "странствующий ансамбль wanderer's troupe 流浪大地的乐团 мондштадт 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   }
 ]
