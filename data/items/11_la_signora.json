@@ -1,0 +1,80 @@
+{
+  "id": "11_la_signora",
+  "category": "items",
+  "icon": "assets/icons/enemies/11_la_signora.webp",
+  "title": {
+    "ru": "Синьора",
+    "en": "La Signora",
+    "zh": "「女士」"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.1",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Синьора, восьмая из Предвестников Фатуи.\nВ отличие от Глаз Порчи других Фатуи, дарующих власть, её Глаз Порчи скрывает бушующее пламя, пожирающее всё на своём пути. Правильнее было бы сказать, что это орудие служит не для убийства, а скорее для пленения.\nУгольки этого пламени, копившиеся в течение многих лет, наконец пробьются через морозную печать Глаза Порчи и исказят её облик.\n\nБагровый рассвет отразился в её зрачках, наконец, она развернула свои пылающие крылья и полетела навстречу свету.\n«Но это не рассвет, дорогая Розалина. Это море пламени, которое поглотит всё».\nКакой-то голос звучал посреди света.\n\nНо это не имело значения, потому что в глубине души она знала, что пламя поглотило её давным-давно.",
+    "en": "Signora, the Eighth of the Fatui Harbingers.\nUnlike other Fatui who use the authority granted by Delusions, her Delusion is meant to shackle a flame that will devour everything.\nAs opposed to a weapon used to kill, it might be more fitting to consider this a tool of imprisonment.\nAnd it was the embers of that flame, which had accumulated over many long years, that would break through the frosty seal of the Delusion and apply a warped rouge upon her.\n\nThe crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.\n\"But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything.\"\nA voice spoke to her amidst the light.\n\nYet it mattered not, for she knew in her heart that the flames had devoured her long ago.",
+    "zh": "愚人众执行官第八席的「女士」。\n与行使邪眼之权能的其他愚人众不同，邪眼是抑制啃噬一切的烈火的器物。\n比起厮杀用的兵器，说是刑拘道具才更为贴切。\n而这就是漫长的岁月中积郁的余烬，冲破邪眼霜封后为她涂抹的扭曲妆容。\n\n瞳仁中倒映着破晓的赤红，她最后展开烈焰之翼向黎明飞去。\n「但那并不是曙光，亲爱的罗莎琳。\n那是焚尽一切的火海。\n」\n在光芒中，一个声音这么对她说。\n\n但这也没什么所谓。\n因为她心中明白，自己早已被烈火吞没。"
+  },
+  "description": {
+    "ru": "Синьора, восьмая из Предвестников Фатуи.\nВ отличие от Глаз Порчи других Фатуи, дарующих власть, её Глаз Порчи скрывает бушующее пламя, пожирающее всё на своём пути. Правильнее было бы сказать, что это орудие служит не для убийства, а скорее для пленения.\nУгольки этого пламени, копившиеся в течение многих лет, наконец пробьются через морозную печать Глаза Порчи и исказят её облик.\n\nБагровый рассвет отразился в её зрачках, наконец, она развернула свои пылающие крылья и полетела навстречу свету.\n«Но это не рассвет, дорогая Розалина. Это море пламени, которое поглотит всё».\nКакой-то голос звучал посреди света.\n\nНо это не имело значения, потому что в глубине души она знала, что пламя поглотило её давным-давно.",
+    "en": "Signora, the Eighth of the Fatui Harbingers.\nUnlike other Fatui who use the authority granted by Delusions, her Delusion is meant to shackle a flame that will devour everything.\nAs opposed to a weapon used to kill, it might be more fitting to consider this a tool of imprisonment.\nAnd it was the embers of that flame, which had accumulated over many long years, that would break through the frosty seal of the Delusion and apply a warped rouge upon her.\n\nThe crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.\n\"But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything.\"\nA voice spoke to her amidst the light.\n\nYet it mattered not, for she knew in her heart that the flames had devoured her long ago.",
+    "zh": "愚人众执行官第八席的「女士」。\n与行使邪眼之权能的其他愚人众不同，邪眼是抑制啃噬一切的烈火的器物。\n比起厮杀用的兵器，说是刑拘道具才更为贴切。\n而这就是漫长的岁月中积郁的余烬，冲破邪眼霜封后为她涂抹的扭曲妆容。\n\n瞳仁中倒映着破晓的赤红，她最后展开烈焰之翼向黎明飞去。\n「但那并不是曙光，亲爱的罗莎琳。\n那是焚尽一切的火海。\n」\n在光芒中，一个声音这么对她说。\n\n但这也没什么所谓。\n因为她心中明白，自己早已被烈火吞没。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "weekly_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "ashen_heart",
+      "title": {
+        "ru": "Пепельное сердце",
+        "en": "Ashen Heart",
+        "zh": "灰烬之心"
+      },
+      "icon": "assets/icons/items/weekly_bosses/01_ashen_heart.webp",
+      "text": {
+        "ru": "Фрагмент странной формы, в котором заключена великая мощь. Вы получили его после победы над Синьорой, выпустившей на волю свою изначальную силу.\nДаже слёзы не могут погасить пламя. Расплавленная агония и ярость бурлят в её жилах, сочатся из глаз.\nПервый Фатуи нашёл её как раз перед тем, как вечное пламя изготовилось сжечь её сердце. Он понял, что только глубокая ненависть и одержимость могут погасить пожирающий её огонь, и сделал её своим союзником...",
+        "en": "A deformed fragment that contains powerful emotions. You obtained this from defeating Signora, who unleashed her original power.\nEven tears cannot extinguish the flames. Molten-hot agony and rage rush through her veins, oozing from her tear ducts.\nThe First Fatuus found her just before her heart could be destroyed by the eternal blaze. He understood that only deeper hate and obsession could quench the fire that devoured her and make her his ally...",
+        "zh": "战胜解放了原本力量的「女士」\n后，得到的某种蕴含着强大思念的畸形碎片。\n即使是泪水也无法使火焰熄灭。\n铁水般炽热的哀伤与愤怒在她的血管中奔涌，从泪腺中迸发。\n在她的心脏被永恒之火烧尽前，最初的愚者找到了她。\n他明白，只有更加深刻的仇恨与妄执，才能熄灭吞噬她的火焰，让她成为自己的同伴…"
+      }
+    },
+    {
+      "key": "hellfire_butterfly",
+      "title": {
+        "ru": "Бабочка адского пламени",
+        "en": "Hellfire Butterfly",
+        "zh": "狱火之蝶"
+      },
+      "icon": "assets/icons/items/weekly_bosses/02_hellfire_butterfly.webp",
+      "text": {
+        "ru": "Фрагмент странной формы, в котором заключена великая мощь. Вы получили его после победы над Синьорой, выпустившей на волю свою изначальную силу.\nЛедяная печать была сломана под давлением.\nКогда её прежняя воля вырвалась из бледной тюрьмы, она вспомнила прежнее имя.\nБессмертная бабочка начала свой танец среди горящей плоти и крови.\nОна вспомнила прошлое, когда странствовала по земле, распространяя пламя, сжигая всё зло.\nА ещё вспомнила лицо человека, с которым ей не суждено больше встретиться.",
+        "en": "A warped shard that houses great might. You obtained this from defeating Signora, who unleashed her original power.\nThe seal of ice was broken under duress, and as her former will surged forth from its pale white prison and she remembered her old name once more, the undying butterfly danced amidst burning flesh and blood.\nAnd she remembered her past, wandering the land, spreading the flame, burning away all evil — and she recalled the face of the person she could never meet again.",
+        "zh": "战胜解放了原本力量的「女士」\n后，得到的某种蕴含着温暖的力量的畸形碎片。\n应激的冰之封印被打破，过往的意志冲破苍白的囚牢，她再度想起自己原本的名字时，不死蝶会随着血肉焚毁一同逸散飞舞。\n而她也想起了漫游大地，散布烈焰，烧尽一切罪恶的过去，以及自己未能再见的那个人的面貌。"
+      }
+    },
+    {
+      "key": "molten_moment",
+      "title": {
+        "ru": "Расплавленный миг",
+        "en": "Molten Moment",
+        "zh": "熔毁之刻"
+      },
+      "icon": "assets/icons/items/weekly_bosses/03_molten_moment.webp",
+      "text": {
+        "ru": "Фрагмент странной формы, в котором заключена великая мощь. Вы получили его после победы над Синьорой, выпустившей на волю свою изначальную силу.\n«Мне снился долгий, долгий сон.\nМне снилось, что мы с тобой снова встретились в чистом белом мире, который мы создали.\nНо наконец я проснулась. Меня уже давно поглотило бушующее пламя. Ты давно вернулся на землю вместе с отравленной кровью.\nНо всё это уже не важно.\nЯ должна продолжать идти вперёд.\nЯ должна сжечь всё позади себя.\nЯ должна верить в то чистое, безупречное, вечное царство, о котором он говорил.\nЦарство, которое я видела в «бреду».\nЦарство, которое он позволил мне увидеть, в конце горизонта, во снах Её Величества».",
+        "en": "A certain deformed fragment containing great might. You obtained this from defeating Signora, who unleashed her original power.\n\"I had a long, long dream.\n\"I dreamed that you and I met again in the pure white world that we created.\n\"But I woke up at last, having long been consumed by the raging flames, while you had long returned to the earth along with that poisoned blood.\n\"But none of it matters anymore.\nI must continue forging ahead.\nI must incinerate everything behind me.\nI must believe in that pure, spotless, everlasting realm that he spoke of — that I saw in the 'delusion' he let me see, at the end of the horizon of Her Majesty's dreams.\"",
+        "zh": "战胜解放了原本力量的「女士」\n后，得到的某种蕴含着强大力量的畸形碎片。\n「我做了一个很长的梦。\n「我梦见我与你，在我们缔造的纯白世界中再会。\n「但我终于醒来了。\n我早已经被烈火吞没。\n你早已与毒血一同回归大地。\n「不过都无所谓了。\n要不断往前走，就要烧毁身后的一切，就要相信他所说的永远纯白无暇的国度，在地平线的尽头，『陛下』\n的梦中，在他让我看见的『妄念』\n里。\n」"
+      }
+    }
+  ],
+  "material_count": 3
+}

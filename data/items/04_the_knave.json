@@ -1,0 +1,80 @@
+{
+  "id": "04_the_knave",
+  "category": "items",
+  "icon": "assets/icons/enemies/04_the_knave.webp",
+  "title": {
+    "ru": "Слуга",
+    "en": "The Knave",
+    "zh": "「仆人」"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.6",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Номер четыре из Предвестников Фатуи, Арлекино.\nВ её жилах течёт древняя кровь роковой луны, дарующая ей всё, что когда-то было у династии, - желания, власть и проклятия.\nЗа свою короткую жизнь она приняла бесчисленные муки и испила чашу страданий, как когда-то её предки, наглотавшиеся яда на восходе Чёрного Солнца.\nОднако ни страдания, ни судьба не стали для неё смертельным ядом. Это были дрова, которые тихо горели в камине, и огонь, который дарил тепло детям.\nОднажды огонь очага, слабый и по сей день, сожжёт всё в старом мире и последнего представителя рода роковой луны.\nОднажды дети, которые сегодня ещё маленькие, прорвутся через судьбу прошлого и встретят без слёз будущее своей мечты.\nА до тех пор, пока не наступит рассвет, та, кого зовут Перуэр, будет сторожить их сладкие сны.\n«Если судьба не осветит нам дорогу, пусть она будет окрашена кровью обречённой роковой».\n«Даже умирающего костра достаточно, чтобы до рассвета испепелить все страдания».",
+    "en": "The Knave, Fourth of the Fatui Harbingers.\nThe ancient balemoon blood flows within her fate, granting her all that the dynasty once had — yearning, power, and curses alike.\nIn her short life, she has supped of countless agonies and drunk deep of the cup of suffering, just as her ancestors once did when they imbibed poison at the rising of the dark sun.\nStill, neither suffering nor fate has proved a fatal toxin to her.\nInstead, they are the firewood fueling her quietly burning hearth, and are the fire bringing her children warmth.\nSomeday, the hearth-fire's faint radiance shall burn the old world away, incinerating the final scion of the baleful moon as well.\nSomeday, these still immature children will break free of ancient fate and usher in the future without tears she dreams of.\nBut until that time comes, until dawn breaks, the one named Peruere shall stand guard over their fragile, sweet dreams.\"If fate should pave for us a pale road,\nlet us dye it the bloody crimson of the bale moon.\"\"Even a flickering, famished fire can burn all suffering away before daybreak.\"",
+    "zh": "愚人众执行官第四席，「仆人」。"
+  },
+  "description": {
+    "ru": "Номер четыре из Предвестников Фатуи, Арлекино.\nВ её жилах течёт древняя кровь роковой луны, дарующая ей всё, что когда-то было у династии, - желания, власть и проклятия.\nЗа свою короткую жизнь она приняла бесчисленные муки и испила чашу страданий, как когда-то её предки, наглотавшиеся яда на восходе Чёрного Солнца.\nОднако ни страдания, ни судьба не стали для неё смертельным ядом. Это были дрова, которые тихо горели в камине, и огонь, который дарил тепло детям.\nОднажды огонь очага, слабый и по сей день, сожжёт всё в старом мире и последнего представителя рода роковой луны.\nОднажды дети, которые сегодня ещё маленькие, прорвутся через судьбу прошлого и встретят без слёз будущее своей мечты.\nА до тех пор, пока не наступит рассвет, та, кого зовут Перуэр, будет сторожить их сладкие сны.\n«Если судьба не осветит нам дорогу, пусть она будет окрашена кровью обречённой роковой».\n«Даже умирающего костра достаточно, чтобы до рассвета испепелить все страдания».",
+    "en": "The Knave, Fourth of the Fatui Harbingers.\nThe ancient balemoon blood flows within her fate, granting her all that the dynasty once had — yearning, power, and curses alike.\nIn her short life, she has supped of countless agonies and drunk deep of the cup of suffering, just as her ancestors once did when they imbibed poison at the rising of the dark sun.\nStill, neither suffering nor fate has proved a fatal toxin to her.\nInstead, they are the firewood fueling her quietly burning hearth, and are the fire bringing her children warmth.\nSomeday, the hearth-fire's faint radiance shall burn the old world away, incinerating the final scion of the baleful moon as well.\nSomeday, these still immature children will break free of ancient fate and usher in the future without tears she dreams of.\nBut until that time comes, until dawn breaks, the one named Peruere shall stand guard over their fragile, sweet dreams.\"If fate should pave for us a pale road,\nlet us dye it the bloody crimson of the bale moon.\"\"Even a flickering, famished fire can burn all suffering away before daybreak.\"",
+    "zh": "愚人众执行官第四席，「仆人」。"
+  },
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  },
+  "item_group": "weekly_bosses",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "denial_and_judgment",
+      "title": {
+        "ru": "Отрицание и вердикт",
+        "en": "Denial and Judgment",
+        "zh": "否定裁断"
+      },
+      "icon": "assets/icons/items/weekly_bosses/01_denial_and_judgment.webp",
+      "text": {
+        "ru": "Серьга, которую вы подобрали в руинах после победы над Слугой.\nКрасный символ на ней похож на тот, что можно увидеть в её глазах. Это предупреждение и запрет.\nЖизнь без родителей - это жизнь, полная страданий, и она видит это. И она хранит эти чувства в её сердце.\nПока судьба наблюдает за человечеством, люди наблюдают за судьбой.",
+        "en": "An earring that you picked up in the ruins after completing the duel against The Knave.\nThe red symbol upon it resembles the image in her eyes, a declaration and a rejection alike.\nThe orphaned live lives filled with suffering from childhood — this she sees and keeps in her heart.\nAs fate casts an examining eye on humanity, so too will humans cast judgment upon fate.",
+        "zh": "完成与「仆人」\n的决斗后，在废墟中拾起的耳钉。\n红色的符号如同她眼中的图案，既是申敕也是否决。\n失怙失恃的孩子们自幼就蒙受诸般苦难，这些她都记在心底。\n命运审视人间，亦将有人审视命运。"
+      }
+    },
+    {
+      "key": "fading_candle",
+      "title": {
+        "ru": "Угасающая свеча",
+        "en": "Fading Candle",
+        "zh": "残火灯烛"
+      },
+      "icon": "assets/icons/items/weekly_bosses/02_fading_candle.webp",
+      "text": {
+        "ru": "Свеча, которую вы подобрали в руинах после победы над Слугой.\nГоворят, когда потемневшее солнце озаряет королевство, когда в руках грешников мерцает свеча, свет может превратиться в тёмные тени, которые несут с собой смерть.\nВы не знаете, из какого материала она сделана, и даже не можете сказать, что она испускает после сожжения, потому что она не выделяет никакого воска.\nЕё чёрный пепел поднимается ввысь и уносится в далёкие неизвестные земли.",
+        "en": "A candle that you picked up in the ruins after completing the duel against The Knave.\nLegends passed down claim that when the candle's flame flickers in the hands of sinners, the light may become shadows, making footsteps faint and masking fatal intent.\nYou cannot tell what material this is made of, and it weeps no wax after burning, releasing only black ash that scatters into the wind, drifting towards the distant unknown.",
+        "zh": "完成与「仆人」\n的决斗后，在废墟中拾起的灯烛。\n相传当烛火摇曳于罪人的手中，光亮即可化作阴影，掩盖脚步声与杀意。\n不知用何种材料制成，燃烧后没有蜡泪，只有黑色的灰烬散入风中，飘向未知的远方。"
+      }
+    },
+    {
+      "key": "silken_feather",
+      "title": {
+        "ru": "Шелковистое перо",
+        "en": "Silken Feather",
+        "zh": "丝织之羽"
+      },
+      "icon": "assets/icons/items/weekly_bosses/03_silken_feather.webp",
+      "text": {
+        "ru": "Кристалл, найденный в руинах после победы над Слугой.\nОхлаждённая кровь и огонь всё ещё сохраняют форму пера, обрамляя гладкий чёрный стебель.\nНеокрепшие детские мысли словно пух у малых птенцов. Им нужна тщательная родительская забота и опека.\nЧтобы исполнить такое желание, «Отец» плетёт смертельную паутину в форме пера, желая дать немного тепла своему семейству.",
+        "en": "A crystal that you picked up in the ruins after completing the duel against The Knave.\nThe already-cooled blood and fire still maintain the shape of a feather, that is framed with solidified sleek black threads.\nBefore their thoughts have matured, young children are reliant on the meticulous care of their parents, just as fledglings need the aegis of an adult wing.\nIt is to fulfill such wishes that \"Father\" wove dangerous spider-silk into a facsimile of feathers, that she might grant her family some warmth.",
+        "zh": "完成与「仆人」\n的决斗后，在废墟中拾起的晶片。\n已经冷却的血与火依旧维持着羽毛的形状，周围缭绕着凝固的黑色细线。\n心智尚未成熟之时，稚童们总是依赖父母的精心照料，如同雏鸟需要羽翼的庇护。\n为了满足这份愿望，「父亲」\n将危险的蛛丝织成羽毛，模仿成鸟的翅膀，为家中带去些许温暖。"
+      }
+    }
+  ],
+  "material_count": 3
+}
