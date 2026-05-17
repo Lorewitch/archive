@@ -1,0 +1,550 @@
+# id: vourukashas_glow
+# category: artifacts
+# icon: assets/icons/artifacts/vourukashas_glow.webp
+# title_ru: Сияние Вурукаши
+# title_en: Vourukasha's Glow
+# title_zh: 花海甘露之光
+# region: Тейват
+# piece_count: 5
+# game_version: 3.6
+# tags: артефакты, сет артефактов
+# status: draft
+
+<!--
+Шаблон сета артефактов.
+Пять частей должны идти в порядке:
+flower / plume / sands / goblet / circlet.
+Китайские части сопоставляются по стабильному id/icon, а не только по позиции.
+-->
+
+## RU
+
+### Цветок жизни
+**Название:** Тычинка истока Хварны
+
+**Описание:** «Моя невинная дочь, моя Хварна...
+
+Я отдам тебя другой матери.
+Люби её и будь ей верна.
+
+Мудростью она не уступает мне, и её свет еще более лучезарен, чем мой.
+
+Однажды во сне мне встретился безликий кошмар, и он меня безгранично испугал.
+
+И вот ты больше не принадлежишь моему телу.
+Прошу, предотврати наступление этого кошмара.
+
+Моя Хварна, свет моих очей...
+
+Я предупредила её о приливе тёмных волн, отсюда и проистекает твоя судьба.
+
+Не бойся и не убегай, не дай померкнуть твоей Хварне и не разочаруй свою мать.
+
+Моя судьба - жертвовать собой ради смертных, и жертва - лишь прекрасная прилюдия к новой жизни...
+
+Ступай же в объятия своей зеленеющей матери.
+Ты найдёшь свою судьбу в её царстве.
+
+Моя Хварна, моя чистейшая дочь...
+
+Тебе нужно полностью измениться.
+Тебе предстоит испытание разделением и смертью.
+
+Именно так ты обретёшь бессмертие.
+Но путь к нему лежит через пелену мрака...
+
+Владычица амриты и владычица травы и деревьев будут предшествовать тебе в потере их божественных форм...
+
+Они будут забыты, сохранится лишь память о вашей жертве.
+
+Моя Хварна, дитя цветов...
+
+Если ты решишь не отступать из-за страха...
+
+Тогда бросься в объятия новой госпожи».
+
+### Перо смерти
+**Название:** Самоцветное перо
+
+**Описание:** В те времена, о которых никто не помнит, в ночь перед песчаной бурей трагедия пронеслась над раем...
+
+Цветы и деревья некогда говорили о смертных царствах, их надеждах и заброшенном будущем.
+
+Те, к кому нельзя приближаться, принесли серую смерть, и тёмный прилив опустошил речные берега.
+
+Лишь для того, чтобы новорождённые растения и звери объединились со смертными и отбросили зловещие волны назад.
+
+В тоскливые годы после разрыва связи с владыкой красных песков владычица трав и деревьев превратила Хварну в божественную птицу.
+
+Ей она поручила защиту двух миров и охрану границы между смертью и новой жизнью.
+
+Божественная птица жила среди сосен, кипарисов и снежных лотосов и видела сны, вспоминая времена, когда завет еще был нерушим...
+
+И только когда пришла беда, она очнулась и пошла навстречу неизбежной гибели.
+
+Позже, как и сказано в пророчестве, смертельный, безмолвный мрак пропитает тропический лес...
+
+Как и предупредил дорогой друг, волны тёмных зверей хлынули и пронеслись по новорождённым лесам...
+
+Бывший лидер царства воды была убита во время потрясений, а её тело стало морем чистой росы, амритой.
+
+И всё же даже это море высохнет в пустынной земле, уничтоженной Бездной.
+
+Но у хозяйки трав и деревьев не было времени на скорбь, ведь нужно было взращивать дерево-мать из бесчисленных семян...
+
+Чтобы очистить скверну и обеспечить чистоту амриты, Симург разрушала её божественную форму.
+
+«Всё прекрасное, рождённое из Хварны цветов, должно встретить свою судьбу - увянуть и провалиться в грязь.
+
+И как только они увянут, они возродятся, питаемые амритой, как существа цветочного моря, которых больше не беспокоит смерть».
+
+### Пески времени
+**Название:** Древнее увядания
+
+**Описание:** «Я дам тебе осколок Хварны.
+Держи его при себе и бережно храни.
+
+Она происходит из мудрости цветов и небесных нитей, и в ней - чистая сущность жизни.
+
+Хварна - это точка в сердцевине цветка, одинокая капля света в море сладкой росы.
+
+Пожалуйста, храни мой дар до того дня, когда тёмная бездна поднимется, чтобы утопить всё живое...
+
+Цветы передавали далёкую притчу, и её заполнили плоды и семена.
+
+Когда госпожа цветов обратилась в прах, когда ложная мечта сбила с пути хозяина пустыни...
+
+Когда дюны погребли под собой тиранов, чьи амбиции угасли...
+
+Когда всё, что произошло из почвы, вернулось в золотые пески, а что принёс ветер, было отдано тропическим лесам...
+
+Королева трав и деревьев спокойно наблюдала за тем, как меняется мир, вспоминая свой искренний завет с теми, кто пал.
+
+Пожалуйста, защити эту Хварну ради меня, моего спутника, моего друга, которого я люблю.
+
+Когда нас не станет, смертные будут скитаться в растерянности, словно младенцы, только что вынутые из пелёнок.
+
+Хрупкие, но достаточно сильные, чтобы сразить дикие ветра, обжигающее пламя и свои собственные недостатки.
+
+Но я боюсь не катастроф, которые я могу предсказать, а хаоса тьмы...
+
+Лишь зло этой тьмы и угроза "смерти" могут раздавить бутоны...»
+
+Когда золотой песок поглотил далёкий рай, королева деревьев и травы восстала, чтобы исполнить древний уговор.
+
+Прислушавшись к воле Хварны, она создала прекрасную форму, создала жизнь, которая была несравненно прекрасна...
+
+Это была Симург, божественная птица, в облике которой можно было увидеть яркие оттенки бесчисленных пернатых созданий, а в песне - мелодию многочисленных цветов...
+
+Последняя мечта оазиса была собрана в одно тело и превратилась в чистое, яркое, бесконечное море цветов, скрытое в теле божественной птицы.
+
+### Кубок пространства
+**Название:** Пир необузданного веселья
+
+**Описание:** Когда хозяйка фруктового сада ушла, владычица травы и деревьев разорвала связь с морем песка.
+
+Отказавшись от безумной любви и величия, она решила вернуться в тропический лес и встать на путь защиты жизни...
+
+Так в тропическом лесу воссияла новая жизнь, так мудрецы подняли шум, и так был создан дом.
+
+Необузданная фантазия ведёт к необратимой гибели, и метафора гибели предостерегает смертных.
+
+Хварна цветов была рождена самым пышным из пиров и самым чистым из наслаждений.
+
+И в ней не было ни горечи аскетизма, ни зловония власти.
+
+Её конечная судьба - неизбежная смерть, увядание и засыхание...
+
+Только повелитель Мудрости мог извлечь из этого урок, чтобы правильно хранить и использовать его.
+
+«Но не забывай пророчество моей великой госпожи, ибо это она послала меня к тебе.
+
+Сумасбродство ещё не приведёт к исчезновению смертных, но дикая волна тьмы не из мира сего сметёт их.
+
+Я - исчезающий след моей госпожи.
+Я - цветочная суть, всё очищающая.
+
+Если я соединюсь с чистейшей водой, то, подобно гранатовому плоду, разорвусь на множество маленьких частиц».
+
+Так из цветочной Хварны родилась божественная птица Симург.
+
+Некоторое время она оставалась рядом со своим хозяином, прежде чем улететь к оазису...
+
+### Корона разума
+**Название:** Сердце светозарности Хварны
+
+**Описание:** «Мой дорогой друг, ты был так мудр, но так рано покинул нас...
+
+Среди славных легенд таится мрак забвения.
+
+Как жизнь ходит со смертью рука об руку, так и забвение дорожит воспоминаниями.
+
+Если бы тьма смерти не нависла над жизнью, ценность её была бы невелика.
+
+Если бы волны забвения не накатывали на них, не было бы историй, достойных записи».
+
+В давно минувшую эпоху королева трав и деревьев однажды выполнила поручение её друга.
+
+Она наделила Хварну цветов формой божественной птицы, чтобы она защищала часть тропического леса.
+
+И как свежий цветок ждёт увядание, так и Симург однажды станет жертвой.
+
+Хранительница зелёного мира знала это с той самой ночи, когда спала рядом с повелителем цветов...
+
+«И вот божественная птица расцвела бесчисленными цветами Хварны, рассыпавшись по земле, как цветы маргаритки...
+
+Хварна снизошла на прозрачное тело Владычицы амриты, и так родилось сверкающее море цветов.
+
+Многие духи обитают в море, и они несут желания травы, дерева и росы, избавляя от грязи.
+
+Многие духи обитают в море, и они поют о трёх матерях - о зелени, о амрите и о цветах».
+
+Однажды в ночи дочь должна была покинуть объятия трёх матерей.
+
+И пожертвовать собой, ибо мир погряз в скверне...
+
+## EN
+
+### Flower of Life
+**Название:** Stamen of Khvarena's Origin
+
+**Описание:** "My innocent daughter, my Khvarena..."
+
+"I shall give you unto another mother.
+Love her, and be loyal to her."
+
+"She is no less than I, and her light is yet more radiant than mine."
+
+"I once encountered a faceless nightmare in my dreams, and it frightened me to no end."
+
+"And so I separated you from my body, and I ask you now to prevent that nightmare's coming."
+
+"My Khvarena, the light of my eyes..."
+
+"I once warned her of the coming of the dark tide, and it is from this that your destiny arises."
+
+"Please do not be afraid, and do not flee, do not let your Khvarena dim, and do not disgrace your mother."
+
+"Just as it is my fate to sacrifice myself for mortals, so too is sacrifice the beautiful prelude to new life..."
+
+"Go now, into your verdant mother's embrace.
+You shall find your destiny in her realm."
+
+"My Khvarena, my pure daughter..."
+
+"You shall change utterly.
+You shall face the trial of division and death."
+
+"And after that, you shall become immortal — and yet that shall be a harder road still..."
+
+"The lord of sweet dew and the lord of grass and trees shall precede you in losing their divine forms..."
+
+"They shall be forgotten, and only the memory of your sacrifice will be remembered."
+
+"My Khvarena, daughter of flowers..."
+
+"If you are resolved to not retreat out of fear..."
+
+"Then throw yourself into the embrace of your new mistress."
+
+### Plume of Death
+**Название:** Vibrant Pinion
+
+**Описание:** In a time no one remembers, the night before the sandstorm of tragedy swept through paradise...
+
+The flowers and the trees once spoke of the mortal realms, their hopes, and their desolate future.
+
+The ones who must not be approached brought about the gray death, and the dark tide ravaged the raw river banks,
+
+Only for the newborn plants and beasts to unite with mortals and push the rolling sinister waves back.
+
+In the lonesome years after she had broken off ties with the lord of the red sands, the queen of grass and trees forged Khvarena into a divine bird,
+
+Charging her with the protection of two worlds, with the guardianship of the border between new birth and death.
+
+The divine bird lived amongst the pines, the cypresses and the snow-lotuses, and slumbered in dreams that recalled a time when the covenant still endured...
+
+It was only when disaster came that she awakened, and went to her inevitable doom.
+
+Later, just as that person had prophesied sadly, the deathly, silent gloom would permeate the rainforest...
+
+Just as that covenant fellow had warned, the tides of dark beasts swarmed forth and swept through the newly-birthed forests...
+
+The former leader of the realm of water was slain amidst the upheaval, and her body was transformed into a sea of pure dew, the Amrita,
+
+And yet even that pure sea would dry up in a desolate land destroyed by the Abyss.
+
+Yet the mistress of grass and trees had no time to mourn, for the mother-tree of numberless seeds needed to be nurtured...
+
+To cleanse the dark impurities and ensure the purity of the Amrita, Simurgh would shatter its divine form—
+
+"All beautiful things born from the Khvarena of flowers must face their fate — to wither and fall into the mud, "
+
+"And once they have withered, they shall be reborn, nourished by the Amrita, as beings of the flowery sea, no longer troubled by such things as 'death.
+'"
+
+### Sands of Eon
+**Название:** Ancient Abscission
+
+**Описание:** "I shall give you a shard of Khvarena, my friend.
+Keep her close, and keep her safe."
+
+"She comes from the wisdom of the flowers and the veins of the skies, and in her is the pure essence of life."
+
+"Khvarena is a point in the flower's heart, a single drop of light in a sea of sweet dew."
+
+"Please treasure my gift, until the day when the dark abyss rises to drown all life..."
+
+The leaves and flowers passed the distant fable between them, and it was remembered by the fruits and seeds.
+
+When the mistress of flowers had withered into dust, when the master of the desert had been led astray by a false dream,
+
+When the tyrants had been buried beneath the ever-shifting dunes and their ambitions were extinguished,
+
+When all that had come from the soil was returned to the golden sands, and that which had come from the flowing wind was given over to the rainforest...
+
+The queen of the grass and trees watched the world change quietly, remembering her earnest covenant with those who had fallen.
+
+"Please protect this Khvarena for me, my companion, my friend whom I love."
+
+"When we are gone, the mortals shall wander, lost, like infants newly taken from their swaddling, "
+
+"Fragile, yet sufficiently strong to conquer the wild winds, the searing flames, and their own imperfections."
+
+"But that which I fear is not the disasters I can predict, but rather the chaotic darkness..."
+
+"Only the evil of this darkness and the threat of 'death' can crush the buds."
+
+When the gilded sand had devoured the paradise of the past, the queen of trees and grass arose to fulfill that ancient agreement.
+
+Heeding the will of the Khvarena, she created for her a beauteous form, fashioning for her a life that was lovely beyond compare—
+
+That was Simurgh, the divine bird, in whose form could be seen the vivid hues of countless birds, and in whose song was the song of numerous flowers...
+
+The final dream of the oasis was gathered into one body, and transformed into the pure, bright, endless sea of flowers hidden within the divine bird's body.
+
+### Goblet of Eonothem
+**Название:** Feast of Boundless Joy
+
+**Описание:** After the mistress of the orchard passed, the queen of grass and trees cut ties with the sea of sand.
+
+Forsaking mad love and majesty, she chose to return to the rainforest and take up the path of defending life...
+
+Thus did new life emerge from the forest, thus did the sages make a stir, and thus was a home fashioned.
+
+Wild fantasy leads to inexorable death, and the metaphor of death cautions mortals.
+
+The Khvarena of the flowers were born of the most exuberant of banquets and the purest of delights,
+
+And within them was not to be found the tartness of asceticism, or the rank stench of authority.
+
+Her final fate was inescapable death, to wither and dry up...
+
+Only the Lord of Wisdom could learn from such, so as to properly safeguard and use it.
+
+"But do not forget my great mistress's prophecy, for it was she who sent me unto you."
+
+"Folly shall yet not kill mortals, but the wild tide of darkness from beyond this world will sweep all away still."
+
+"I am the final remnant of my mistress.
+I am the floral essence that cleanses all."
+
+"Should I join with the purest water, I shall burst, even as the pomegranates do, into countless rays of light."
+
+And thus was the divine bird Simurgh born from the Khvarena of the flowers,
+
+Staying by her master's side for a time before flying to the flowery sea...
+
+### Circlet of Logos
+**Название:** Heart of Khvarena's Brilliance
+
+**Описание:** "My dear friend, you who were so wise, yet passed early..."
+
+"Amidst glorious legends lurks the gloom of oblivion, "
+
+"Just as life walks with death, and forgetting is the lover of remembrance."
+
+"If the darkness of death did not threaten it, no life would have any importance."
+
+"If the waves of forgetfulness did not surge against them, there would be no histories worth recording."
+
+In the age long past, the queen of grass and trees once did as her friend had entrusted,
+
+Granting the Khvarena of flowers to the divine bird's form, giving her charge over the defense over a part of the rainforest.
+
+And just as the fate of the fresh flower is to wither, Simurgh's fate was sacrifice.
+
+The nurturer of all things verdant had known this since the night she slept beside the lord of flowers...
+
+"And so the verdant divine bird blossomed into countless Khvarena flowers, scattering across the land like hoopoes..."
+
+"The Khvarena fell upon the pure remains of the Amrita's mistress, and thus was a glimmering sea of flowers born."
+
+"Many spirits dwell in the sea, and they carry the wishes of grass, tree, and dew, cleansing all filth."
+
+"Many spirits dwell in the sea, and they sing of the three mothers — of verdure, of sweet dew, and fresh flowers."
+
+One night, the daughter must leave the embrace of the three mothers,
+
+And sacrifice herself, for the impurity of the world grows great...
+
+## ZH
+### 生之花
+**Название:** 灵光源起之蕊
+
+**Описание:** 「我天真的女儿，我的灵光…
+」
+「我将你交给另一位母亲，请将忠诚与爱意献予她。
+」
+「她的智慧并不下于我，而她的光芒比我更加闪耀。
+」
+「我曾在夜中梦见无面目的梦魇，它令我惊惧不安…
+」
+「于是便将你分离出我的躯体，请你阻止它的来临。
+」
+「我的灵光，我的眼中之光…
+」
+「我曾警告她漆黑浪潮的来临，而你将从中获悉职责命运。
+」
+「请不要恐惧退缩，不要令灵光褪色，亦不要让母亲蒙羞。
+」
+「正如为凡人牺牲乃是我的宿命，牺牲是新生的美妙前奏…
+」
+「请前去投入草木母亲的怀抱，在她的国度你将寻到宿命。
+」
+「我的灵光，我纯净的女儿…
+」
+「你将要改换面目，你将面临分裂与死亡的考验。
+」
+「而后，你将长生不死，但那是更为黑暗的道路…
+」
+「甘露之主与草木之主都将先于你陨却她的神形…
+」
+「她们将被遗忘，而你们也将只剩下牺牲的记忆。
+」
+「我的灵光，花的女儿…
+」
+「若你决心不为恐惧而退缩…
+」
+「便投入新的养主的怀抱吧。
+」
+
+### 死之羽
+**Название:** 琦色灵彩之羽
+
+**Описание:** 在某个无人忆起的月夜，在悲剧的沙暴席卷乐园的前夜…
+鲜花与草木曾谈及凡人国度，谈及其希望与荒芜的未来。
+不可接触者带来灰色的死亡，漆黑的浪潮冲刷生的河岸，草木走兽的新生将偕起凡人，击退那一轮轮险恶的潮流。
+与赤砂之主决裂的孤独岁月里，草木女王将灵光塑成神鸟，赋予了她看护两个世界的职责，守望着新生与死亡的边界。
+神鸟深居松柏与雪莲生长之境，沉眠于盟约尚存的美梦中…
+只有那灾祸来临时，她才悠然醒来，走向必然破灭的命运。
+后来，正如那人悲哀的预言，灰暗的死寂在雨林之中弥漫…
+正如挚友的警告那般，漆黑兽潮涌来，席卷了新生的雨林…
+水之国的旧主在剧变之中陨灭，其身化为纯净的甘露之海，然而在深渊摧残的荒芜大地上，纯洁的露水终被炙烤干涸，草木的女主人却无暇为之哀恸，万千子种的母树亟待哺育…
+为涤净黑渊的污秽，保证甘露的净洁，西摩格碎裂了神形——「凡是自花之灵光而生的美丽造物，必然将面临谢落成泥的命运，」
+「在谢落之后，由甘露滋润重生为花海者，不再因『死』
+而忧愁。
+」
+
+### 时之沙
+**Название:** 久远花落之时
+
+**Описание:** 「将一片灵光交予你，我的挚友，切望你悉心保存。
+」
+「她来自花的灵智与天空的脉络，拥有生命的精纯。
+」
+「灵光乃花心中的一点，万千甘露之中承光的一滴，」
+「请你珍惜我的赠礼，直到黑渊淹没生灵的那一天…
+」
+遥远的寓言在绿叶与花朵之间流传，被果实与子种铭记。
+待花的女主人谢落成尘，待到砂海之主被虚妄之梦迷惑，待到僭主暴君被那万变的沙丘坟茔埋葬，野心终究熄灭，待到那一切来自泥土的归于黄沙，来自流风的归于雨林…
+草木的女王静观着世事流变，铭记着与逝者的诚挚誓约。
+「请答应我守护这一点灵光，我的同伴，我挚爱的友人。
+」
+「待我们逝去之后，凡人必如初离襁褓的幼儿那般踯躅，」
+「脆弱却足够强韧，终能克服狂风烈火与自身的不完美。
+」
+「但是，我所忧伤的绝非可预的灾祸，而是混沌的漆黑…
+」
+「唯有深黑的恶意与『死』
+的威胁，才有可能碾碎蓓蕾。
+」
+待往日乐土终于被镀金之砂吞噬净尽，草木之主亦履行了旧日的约定：倾听灵光的意愿，为之塑造美妙的躯体，将之化形为绚丽无比的生命——那便是神鸟「西摩格」，身聚千万飞鸟的色彩，歌唱万千花朵的和鸣…
+绿洲的最终之梦集于一身，化作了深藏神鸟体内纯净璀璨的无穷花海。
+
+### 空之杯
+**Название:** 无边酣乐之筵
+
+**Описание:** 花圃的女主人逝去之后，草木的女王亦与砂海决裂。
+舍弃狂爱与威权，她选择重归雨林，谨守生命之道…
+由此新生自雨林焕发，贤者们兴风造雨，塑造家园。
+狂想通向必然的死亡，死亡的教喻时刻警醒着凡人。
+花之灵光生自最尽兴的筵席、最纯净的欢乐，其中尝不到苦行的酸涩，也没有威权的腥膻。
+她的命运最终将通向死亡、干涸枯竭的结局…
+只有智慧之主得以明鉴，得以妥善保管利用。
+「然而，大主人的预言不可忘记，既然她已将我托付于您。
+」
+「愚行尚不至令凡人灭亡，但世外的深黑狂潮将席卷一切。
+」
+「我乃女主人所留的最后遗魂，我乃涤净一切的花之精粹。
+」
+「若与至纯的水融合，我将如石榴爆散出万千烁目的光芒。
+」
+于是，神鸟西摩格从花之灵光中诞生。
+在主人身侧稍作流连，便向花海飞去…
+
+### 理之冠
+**Название:** 灵光明烁之心
+
+**Описание:** 「挚友呀，智慧却早逝的挚友…
+」
+「在永远变幻的绚烂传说之中，潜伏着灰色的遗忘，」
+「正如生命总是与死亡相伴，遗忘也是记忆的爱人。
+」
+「若无死亡的深黑威胁，任何生命将变得无足轻重，」
+「若无遗忘的浪潮冲刷，亦无所谓值得铭记的历史…
+」
+在久远的年代里，草木的女王曾遵从她的嘱托，将神鸟的形态赋予花之灵光，守护雨林的一隅。
+恰似鲜花的命运是谢落，西摩格的宿命是牺牲，苍翠的养主从与花王偕眠的那夜便已知晓此理…
+「于是，翠绿的神鸟绽放出万千朵灵光，戴胜那般飞散…
+」
+「灵光散落在甘露之主清澈的尸身之上，生出璀璨花海。
+」
+「花海有灵百种，怀着草木露水的愿望，涤净一切污浊，」
+「花海有灵百种，歌唱着那草木、甘露与鲜花三位母亲。
+」
+终有一夜，女儿将离开三位母亲的怀抱，因为世上污秽众多，只有牺牲得以涤除…
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+Заметки пока не заполнены.
+
+### Заметки по частям
+
+#### Цветок жизни
+
+Заметки пока не заполнены.
+
+#### Перо смерти
+
+Заметки пока не заполнены.
+
+#### Пески времени
+
+Заметки пока не заполнены.
+
+#### Кубок пространства
+
+Заметки пока не заполнены.
+
+#### Корона разума
+
+Заметки пока не заполнены.
+
+## INTERNAL
+# internal_source_ru:
+# internal_source_en:
+# internal_source_zh:
+# internal_hoyowiki_entry_id: 3694
