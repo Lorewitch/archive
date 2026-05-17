@@ -25,6 +25,13 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2006000,
     "search_text": "путеводитель по тейвату teyvat travel guide 提瓦特游览指南 мондштадт, ли юэ, инадзума book_series 2.6 книги мондштадт ли юэ инадзума путеводитель том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -51,6 +58,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5000000,
     "search_text": "история о койллор и укуку the tale of qoyllor and ukuku 奎伊露和乌库库的故事 натлан book_series 5.0 койллор укуку том 1 vol. 1 卷一"
   },
   {
@@ -76,6 +88,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5002000,
     "search_text": "сказание о кунтуре the tale of kuntur 昆图尔的故事 натлан book_series 5.2 кунтур том 1 vol. 1 卷一"
   },
   {
@@ -101,6 +118,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "тысяча лет одиночества 1000 years of loneliness 千年孤独 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -126,6 +148,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6003000,
     "search_text": "краткая история рождённых бледной звездой a brief history of the pale starborn 苍星妖灵史略 нод-край book_series 6.3 книги снежная том 1 vol. 1 卷一"
   },
   {
@@ -151,6 +178,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "история пьяницы a drunkard's tale 醉客轶事 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -176,6 +208,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2006000,
     "search_text": "легенда о клинке a legend of sword 沉秋拾剑录 ли юэ book_series 2.6 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -201,6 +238,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5002000,
     "search_text": "записи безымянного искателя приключений a nameless adventurer's notes 无名冒险家的笔记 натлан book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -226,6 +268,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2002000,
     "search_text": "предварительное исследование народных верований сангономии a preliminary study of sangonomiya folk belief 珊瑚宫民间信仰初勘 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
@@ -251,6 +298,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3004000,
     "search_text": "тысяча ночей a thousand nights 千夜故事集 сумеру book_series 3.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -276,6 +328,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "вместе с божествами along with divinity: prologue 与神性同行 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -301,6 +358,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3000000,
     "search_text": "ода хварне an ode to khvarena 灵光颂 сумеру book_series 3.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -326,6 +388,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1002000,
     "search_text": "древний дневник исследователя ancient investigation journal: part i 古老的考察日志·其之一 мондштадт book_series 1.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -351,6 +418,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4006000,
     "search_text": "северные хроники anecdota septentrionalis 北境秘史 фонтейн book_series 4.6 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -376,6 +448,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "баллады оруженосца ballads of the squire 侍从骑士之歌 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -401,6 +478,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "биография клана гуннхильдр biography of gunnhildr 古恩希尔德小传 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -426,6 +508,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "лесной бриз breeze amidst the forest 林间风 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -450,6 +537,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6000000,
     "search_text": "эхо раковины conch echoes 海螺的回响 нод-край book_series 6.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -475,6 +567,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1002000,
     "search_text": "традиции ли юэ customs of liyue 璃月风土志 ли юэ book_series 1.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -500,6 +597,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2002000,
     "search_text": "дебаты по теме «наместник востока» debates on the \"viceroy of the east\" 「东王」史辩 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
@@ -524,6 +626,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2002000,
     "search_text": "дневники роальда, искателя приключений diary of roald the adventurer 冒险家罗尔德的日志 мондштадт book_series 2.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
   },
   {
@@ -550,6 +657,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4001000,
     "search_text": "бомбические приключения додоко dodoco’s bomb-tastic adventure 嘟嘟可轰轰奇遇记 мондштадт book_series 4.1 книги инадзума том 1 vol. 1 卷一"
   },
   {
@@ -575,6 +687,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "проба пера в хиличурлской поэзии draft hilichurl ballads 丘丘语诗歌试作 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -600,6 +717,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4000000,
     "search_text": "притчи о животных фонтейна fables de fontaine 枫丹动物寓言集 фонтейн book_series 4.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -625,6 +747,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5002000,
     "search_text": "пламя осенних сумерек fires of autumn twilight 秋暮之火 натлан book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -650,6 +777,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2001000,
     "search_text": "цветы для принцессы фишль flowers for princess fischl 菲谢尔皇女夜谭 мондштадт book_series 2.1 книги том 1 vol. 1 卷一"
   },
   {
@@ -675,6 +807,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "руководство по управлению планером gliding instruction manual 飞行指南 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -700,6 +837,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5004000,
     "search_text": "видения таинственной инадзумы glimpses of mysterious inazuma 稻妻秘见录 инадзума book_series 5.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -725,6 +867,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "сердце родника heart of clear springs 清泉之心 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -750,6 +897,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "разбитые мечты heart's desire 碎梦奇珍 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -775,6 +927,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2000000,
     "search_text": "ведьма и гончая hex & hound 犬又二分之一 мондштадт book_series 2.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
   },
   {
@@ -800,6 +957,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "сборник хиличурлских песен hilichurl ballad selection 丘丘人诗歌选 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -825,6 +987,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "культурные традиции хиличурлов hilichurl cultural customs 丘丘人习俗考察 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -850,6 +1017,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "история королей и кланов history of kings and clans: prologue 列王与宗室史·序 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -875,6 +1047,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "юмор тяньхэн humor from tianheng 天衡绝倒集 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -901,6 +1078,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6000000,
     "search_text": "гимны крайнего севера hymns of the far north 终北祷歌集 нод-край book_series 6.0 книги гиперборея том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -926,6 +1108,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3007000,
     "search_text": "«король священного призыва» king of invokations 《召唤王》 сумеру book_series 3.7 книги том 1 vol. 1 卷一"
   },
   {
@@ -951,6 +1138,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "руководство для рыцарей ордо фавониус. пятое издание knights of favonius handbook - 5th edition 骑士团指导手册·第五版 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -976,6 +1168,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5005000,
     "search_text": "хитрец компоре kompore the cunning 狡诈的康波雷 натлан book_series 5.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1001,6 +1198,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4002000,
     "search_text": "песня эриний la chanson d'erinnyes 伊黎耶之歌 фонтейн book_series 4.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1026,6 +1228,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "легенда о гео архонте legend of the geo archon: god of the stove 岩神传说：炉灶之神 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -1051,6 +1258,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "одинокий клинок в пустошах legend of the lone sword 荒山孤剑录 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -1076,6 +1288,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "«легенда о разбитой алебарде» legend of the shattered halberd 神霄折戟录 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -1102,6 +1319,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2006000,
     "search_text": "вперёд, додоко! let's go, dodoco! 出发吧！嘟嘟可 мондштадт book_series 2.6 книги инадзума том 1 vol. 1 卷一"
   },
   {
@@ -1127,6 +1349,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "сборник избранных стихов линь лин linling's anthology of selected poetry 霖铃精选诗集 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -1152,6 +1379,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5000000,
     "search_text": "мааве и маниту maawe and monetoo 玛阿威与幻写灵 натлан book_series 5.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1177,6 +1409,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1002000,
     "search_text": "россыпь жемчуга meadow of gems 珠玑宝矿 ли юэ book_series 1.2 книги том 1 vol. 1 卷一"
   },
   {
@@ -1202,6 +1439,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5004000,
     "search_text": "народ литина men of lithin 石素人 натлан book_series 5.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1227,6 +1469,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "ночь в бамбуковом лесу moonlit bamboo forest 竹林月夜 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -1252,6 +1499,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5002000,
     "search_text": "слухи горы линмэн mt. lingmeng gossip 灵濛山夜话 ли юэ book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1277,6 +1529,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2001000,
     "search_text": "новые хроники шести кицунэ new chronicles of the six kitsune 新六狐传 инадзума book_series 2.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -1302,6 +1559,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6003000,
     "search_text": "ночной шёпот издалека night murmurs from the far border: varcolac 边乡夜语·鬣兽 нод-край book_series 6.3 книги том 1 vol. 1 卷一"
   },
   {
@@ -1327,6 +1589,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1001000,
     "search_text": "книга гор и морей \"of mountains and seas\" 山与海之书 мондштадт book_series 1.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -1352,6 +1619,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2001000,
     "search_text": "онибудо onibudou 鬼武道 инадзума book_series 2.1 книги том 1 vol. 1 卷一"
   },
   {
@@ -1377,6 +1649,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4005000,
     "search_text": "переньери perinheri 裴伦埃里 фонтейн book_series 4.5 книги каэнри'ах том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -1402,6 +1679,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2006000,
     "search_text": "пожалуйста, кицунэ гудзи pretty please, kitsune guuji? 拜托了我的狐仙宫司 инадзума book_series 2.6 книги том 1 vol. 1 卷一"
   },
   {
@@ -1427,6 +1709,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2001000,
     "search_text": "мина, принцесса павшего народа princess mina of the fallen nation 亡国的美奈姬 инадзума book_series 2.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -1452,6 +1739,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5005000,
     "search_text": "конец ранги нуи rangi nui's end 兰吉努伊之底 натлан book_series 5.5 книги том 1 vol. 1 卷一"
   },
   {
@@ -1477,6 +1769,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5000000,
     "search_text": "хроники ханан пача records of hanan pacha 哈南帕查记事 натлан book_series 5.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1502,6 +1799,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1003000,
     "search_text": "хроника заоблачного предела records of jueyun 绝云记闻 ли юэ book_series 1.3 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -1527,6 +1829,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1005000,
     "search_text": "записки благородного рыцаря records of the gallant 侠客记 ли юэ book_series 1.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -1552,6 +1859,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "властелин инкогнито rex incognito 帝君尘游记 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四"
   },
   {
@@ -1577,6 +1889,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4000000,
     "search_text": "бандиты и сыщики: радужная брошь robben versus chesterton: iridescent brooch 怪盗与名侦探：虹彩胸针之谜 фонтейн book_series 4.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1602,6 +1919,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2000000,
     "search_text": "указания по очищению священной сакуры sacred sakura cleansing summary 神樱大祓要略 инадзума book_series 2.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -1627,6 +1949,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2000000,
     "search_text": "хроники сангономии sangonomiya chronicles 珊瑚宫记 инадзума book_series 2.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -1652,6 +1979,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3000000,
     "search_text": "плывущий свиток песен scroll of streaming song 浮槃歌卷 сумеру book_series 3.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1677,6 +2009,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2006000,
     "search_text": "реинкарнация в непобедимого сёгуна райдэн shogun almighty: reborn as raiden with unlimited power 转生成为雷电将军，然后天下无敌 инадзума book_series 2.6 книги том 1 vol. 1 卷一"
   },
   {
@@ -1702,6 +2039,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2000000,
     "search_text": "чей-то дневник someone's diary 谁人的日志 ли юэ book_series 2.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -1727,6 +2069,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5002000,
     "search_text": "ручьи скрытого нефрита springs of hidden jade 隐玉之泉 ли юэ book_series 5.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -1752,6 +2099,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "сборник каменных табличек stone tablet compilations: vol. i 石书辑录·卷一 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -1777,6 +2129,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1005000,
     "search_text": "жемчужная нить string of pearls 连心珠 ли юэ book_series 1.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
   },
   {
@@ -1802,6 +2159,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5005000,
     "search_text": "первый поход сундиаты sundjatta's first foray 松伽塔的初阵 натлан book_series 5.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1827,6 +2189,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6003000,
     "search_text": "сказания северного ветра tales carried by the northwind 朔风集 нод-край book_series 6.3 книги том 1 vol. 1 卷一"
   },
   {
@@ -1852,6 +2219,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "записи бродяги tales from the waves 浮浪记 ли юэ book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1876,6 +2248,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4002000,
     "search_text": "сказки снежной гусыни tales of a snow-winged goose 雪翅雁童话集 фонтейн book_series 4.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -1901,6 +2278,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5001000,
     "search_text": "текил храбрый tequil the brave 勇敢的特奎 натлан book_series 5.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -1926,6 +2308,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4001000,
     "search_text": "«искусство переговоров» \"the art of negotiation\" 《交涉的艺术》 фонтейн book_series 4.1 книги том 1 vol. 1 卷一"
   },
   {
@@ -1951,6 +2338,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1002000,
     "search_text": "принцесса-кабан the boar princess 野猪公主 мондштадт book_series 1.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
   },
   {
@@ -1977,6 +2369,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2004000,
     "search_text": "коллекция бякуякоку the byakuyakoku collection 白夜国馆藏 инадзума book_series 2.4 книги энканомия том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五"
   },
   {
@@ -2002,6 +2399,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4002000,
     "search_text": "разрушение обветшалого замка the fall of the faded castle 褪色古堡的崩塌 фонтейн book_series 4.2 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -2027,6 +2429,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4007000,
     "search_text": "кошачья канцелярия the feline firm 猫咪事务所 фонтейн book_series 4.7 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八"
   },
   {
@@ -2052,6 +2459,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3000000,
     "search_text": "учение листвы the folio of foliage 遐叶论经 сумеру book_series 3.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -2077,6 +2489,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1001000,
     "search_text": "лиса в море одуванчиков the fox in the dandelion sea 蒲公英海的狐狸 мондштадт book_series 1.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一"
   },
   {
@@ -2102,6 +2519,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5005000,
     "search_text": "безголовый кокитао the headless coquitao 无头的科奎塔奥 натлан book_series 5.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -2127,6 +2549,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4000000,
     "search_text": "закат и падение ремурии the history of the decline and fall of remuria 雷穆利亚衰亡史 фонтейн book_series 4.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -2152,6 +2579,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3000000,
     "search_text": "история аль-ахмара the lay of al-ahmar 阿赫玛尔的故事 сумеру book_series 3.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -2177,6 +2609,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "легенда о веннессе the legend of vennessa 温妮莎传奇 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -2202,6 +2639,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6000000,
     "search_text": "легенда о риде миллере the legends of reed miller, thief extraordinaire 大盗雷德·米勒传奇 нод-край book_series 6.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -2227,6 +2669,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2002000,
     "search_text": "краткая биография жрицы моун the life of mouun the shrine maiden 巫女曚云小传 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
@@ -2251,6 +2698,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4007000,
     "search_text": "маленькая ведьма и вечное пламя the little witch and the undying fire 小魔女与不熄灭的火 мондштадт book_series 4.7 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
   },
   {
@@ -2276,6 +2728,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "башня мондштадта the mondstadt tower 蒙德高塔 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -2301,6 +2758,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "снежная принцесса и шесть карликов the pale princess and the six pygmies 白之公主与六侏儒 мондштадт book_series 1.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七"
   },
   {
@@ -2326,6 +2788,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2000000,
     "search_text": "войны хамаварана the saga of hamavaran 哈玛瓦兰战记 сумеру book_series 2.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -2351,6 +2818,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3000000,
     "search_text": "пастушок и волшебная бутылка the shepherd and the magic bottle 牧童与魔瓶的故事 сумеру book_series 3.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -2376,6 +2848,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 3000000,
     "search_text": "история шируе и сирин the tale of shiruyeh and shirin 希鲁伊与希琳的故事 сумеру book_series 3.0 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二"
   },
   {
@@ -2401,6 +2878,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4003000,
     "search_text": "два мушкетёра the two musketeers 两个铳枪手 фонтейн book_series 4.3 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -2426,6 +2908,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 5000000,
     "search_text": "повелитель вулканов и теневые иглы the volcano lord and the shadow pins 火山大王与缝影针 натлан book_series 5.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -2451,6 +2938,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "толстый дневник thick notebook 厚厚的笔记 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -2476,6 +2968,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 4004000,
     "search_text": "путешественник во времени time trekker 旅时者 фонтейн book_series 4.4 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三"
   },
   {
@@ -2501,6 +2998,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2001000,
     "search_text": "рассказы улицы токи toki alley tales 鹮巷物语 инадзума book_series 2.1 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六"
   },
   {
@@ -2526,6 +3028,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 2002000,
     "search_text": "драгоценные сказания киёсикэн синкагэути treasured tales of the chouken shinkageuchi 珍说澄研真影打 инадзума book_series 2.2 книги том 1 vol. 1 卷一"
   },
   {
@@ -2550,6 +3057,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 6005000,
     "search_text": "меланхолия веры vera's melancholy 少女薇拉的忧郁 мондштадт book_series 6.5 книги том 1 vol. 1 卷一 том 2 vol. 2 卷二 том 3 vol. 3 卷三 том 4 vol. 4 卷四 том 5 vol. 5 卷五 том 6 vol. 6 卷六 том 7 vol. 7 卷七 том 8 vol. 8 卷八 том 9 vol. 9 卷九 том 10 vol. 10 卷十 том 11 vol. 11 卷十一 том 12 vol. 12 卷十二"
   },
   {
@@ -2575,6 +3087,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "песни равновесия verses of equilibrium 玑衡经 ли юэ book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -2600,6 +3117,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1000000,
     "search_text": "ветер, храбрость и крылья wind, courage, and wings 风、勇气和翅膀 мондштадт book_series 1.0 книги том 1 vol. 1 卷一"
   },
   {
@@ -2625,6 +3147,11 @@
       "en",
       "zh"
     ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "book_series",
+    "sort_version": 1003000,
     "search_text": "яксы: защитники адептов yakshas: the guardian adepti 护法仙众夜叉录 ли юэ book_series 1.3 книги том 1 vol. 1 卷一"
   }
 ]
