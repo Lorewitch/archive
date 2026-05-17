@@ -36,7 +36,7 @@ def main() -> None:
     chunks = [HEADER.strip()]
     for name in MODULES:
         chunks.append(read_module(name))
-    OUT_FILE.write_text("\n\n".join(chunks).strip() + "\n", encoding="utf-8")
+    OUT_FILE.write_text("\n\n".join(chunks).strip() + "\n", encoding="utf-8", newline="\n")
     print(f"Built {OUT_FILE.relative_to(ROOT)} from {len(MODULES)} CSS modules.")
 
 
