@@ -248,9 +248,28 @@ def check_artifacts(artifacts: dict[str, dict[str, Any]]) -> None:
         if not isinstance(parts, list):
             fail(f"{owner}: parts должен быть списком")
             continue
-        keys = [str(part.get("key") or "").strip() for part in parts if isinstance(part, dict)]
-        if set(keys) != KNOWN_ARTIFACT_PARTS or len(keys) != 5:
-            fail(f"{owner}: артефакт должен содержать ровно 5 частей: {', '.join(sorted(KNOWN_ARTIFACT_PARTS))}")
+
+        keys: list[str] = []
+        for part in parts:
+            if isinstance(part, dict):
+                keys.append(str(part.get("key") or "").strip())
+
+        duplicate_keys = sorted(key for key in set(keys) if key and keys.count(key) > 1)
+        if duplicate_keys:
+            fail(f"{owner}: дублирующиеся части артефакта: {', '.join(duplicate_keys)}")
+
+        # Most artifact sets contain the classic five slots, but Genshin also has
+        # one-piece artifacts such as the Prayers circlets.  The archive supports
+        # both shapes; anything else is likely an incomplete entry.
+        if len(keys) == 5:
+            if set(keys) != KNOWN_ARTIFACT_PARTS:
+                fail(f"{owner}: сет из 5 артефактов должен содержать части: {', '.join(sorted(KNOWN_ARTIFACT_PARTS))}")
+        elif len(keys) == 1:
+            if not keys[0]:
+                fail(f"{owner}: одиночный артефакт должен иметь ключ части")
+        else:
+            fail(f"{owner}: артефакт должен содержать 1 или 5 частей, сейчас: {len(keys)}")
+
         for part in parts:
             if not isinstance(part, dict):
                 fail(f"{owner}: часть артефакта должна быть объектом")
@@ -462,6 +481,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: Markdown-парсер снова превращает дефисные диалоги в списки")
         if "markdownToHtml(noteText, { allowLists: true })" not in text:
             fail("assets/js/archive.js: заметки должны явно включать Markdown-списки")
+        if "const isSinglePartArtifact = parts.length === 1" not in text:
+            fail("assets/js/archive.js: одиночные артефакты должны открываться без лишней панели чтения сета")
         if "function rememberCatalogScrollPosition()" not in text:
             fail("assets/js/archive.js: каталог должен запоминать позицию скролла перед переходом в запись")
         if "function scheduleRouteScroll(routeChanged)" not in text:

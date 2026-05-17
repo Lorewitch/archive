@@ -1499,15 +1499,8 @@ function renderArtifactDetail(artifact) {
     state.artifactPart = parts[0].key;
   }
 
-  app.innerHTML = `
-    <section class="page-card book-page">
-      <button class="back-link" id="back-artifacts" type="button">← Назад к списку артефактов</button>
-
-      <div class="page-head">
-        <h1>${escapeHtml(titleOf(artifact, "ru"))}</h1>
-        <div class="subtitle">${escapeHtml([titleOf(artifact, "en"), titleOf(artifact, "zh")].filter(Boolean).join(" · "))}</div>
-      </div>
-
+  const isSinglePartArtifact = parts.length === 1;
+  const artifactToolbar = isSinglePartArtifact ? "" : `
       <div class="reader-toolbar artifact-toolbar" aria-label="Управление чтением сета артефактов">
         <div class="volume-strip" aria-label="Части сета">
           <button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>
@@ -1519,6 +1512,18 @@ function renderArtifactDetail(artifact) {
           </div>
         </div>
       </div>
+  `;
+
+  app.innerHTML = `
+    <section class="page-card book-page">
+      <button class="back-link" id="back-artifacts" type="button">← Назад к списку артефактов</button>
+
+      <div class="page-head">
+        <h1>${escapeHtml(titleOf(artifact, "ru"))}</h1>
+        <div class="subtitle">${escapeHtml([titleOf(artifact, "en"), titleOf(artifact, "zh")].filter(Boolean).join(" · "))}</div>
+      </div>
+
+      ${artifactToolbar}
 
       <div id="reader-text-area">${renderArtifactTextArea(artifact)}</div>
 
@@ -1537,7 +1542,7 @@ function renderArtifactDetail(artifact) {
 
 function renderArtifactTextArea(artifact) {
   const parts = Array.isArray(artifact.parts) ? artifact.parts : [];
-  const selectedParts = state.artifactReadAll ? parts : parts.filter(part => part.key === state.artifactPart);
+  const selectedParts = parts.length === 1 || state.artifactReadAll ? parts : parts.filter(part => part.key === state.artifactPart);
   const generalNote = cleanPublicNote(artifact.notes?.general || "");
   const partNotes = artifact.notes?.byPart || artifact.notes?.byVolume || {};
 
