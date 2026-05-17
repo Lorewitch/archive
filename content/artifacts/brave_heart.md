@@ -4,7 +4,7 @@
 # title_ru: Душа храбреца
 # title_en: Brave Heart
 # title_zh: 勇士之心
-# region: Ли Юэ
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

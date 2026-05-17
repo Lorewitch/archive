@@ -4,7 +4,7 @@
 # title_ru: Воин
 # title_en: Martial Artist
 # title_zh: 武人
-# region: Ли Юэ
+# region: Ли Юэ, Сумеру, Фонтейн
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

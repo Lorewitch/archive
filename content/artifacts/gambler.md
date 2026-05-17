@@ -4,7 +4,7 @@
 # title_ru: Азартный игрок
 # title_en: Gambler
 # title_zh: 赌徒
-# region: Ли Юэ
+# region: Мондштадт, Ли Юэ, Сумеру, Натлан, Нод-Край
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

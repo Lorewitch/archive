@@ -4,7 +4,7 @@
 # title_ru: Решимость временщика
 # title_en: Resolution of Sojourner
 # title_zh: 行者之心
-# region: Мондштадт
+# region: Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов
