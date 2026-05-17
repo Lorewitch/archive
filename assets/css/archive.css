@@ -691,6 +691,7 @@ h3,
   display: inline-flex;
   align-items: center;
   gap: 7px;
+  min-width: 0;
   max-width: 100%;
   padding: 5px 9px;
   border: 1px solid rgba(91, 74, 62, 0.12);
@@ -700,6 +701,12 @@ h3,
   font-size: 13px;
   font-weight: 720;
   line-height: 1.25;
+  white-space: normal;
+}
+
+.material-chip span {
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 
 .material-chip img {
@@ -2777,8 +2784,9 @@ h3,
 
   .catalog-row.cols-items-enemy .material-chip {
     width: fit-content;
+    min-width: 0;
     max-width: 100%;
-    white-space: nowrap;
+    white-space: normal;
   }
 }
 

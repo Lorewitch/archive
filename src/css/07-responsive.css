@@ -1008,8 +1008,9 @@
 
   .catalog-row.cols-items-enemy .material-chip {
     width: fit-content;
+    min-width: 0;
     max-width: 100%;
-    white-space: nowrap;
+    white-space: normal;
   }
 }
 

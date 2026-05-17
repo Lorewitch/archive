@@ -425,6 +425,31 @@ def check_generated_css() -> None:
         fail("assets/css/archive.css: найден !important")
 
 
+def check_material_chip_wrapping() -> None:
+    catalog_css = SRC_CSS_DIR / "04-catalog.css"
+    responsive_css = SRC_CSS_DIR / "07-responsive.css"
+
+    if catalog_css.exists():
+        catalog_text = catalog_css.read_text(encoding="utf-8")
+        if ".material-chip span" not in catalog_text or "overflow-wrap: anywhere" not in catalog_text:
+            fail("src/css/04-catalog.css: длинные названия материалов должны переноситься внутри чипа, а не вылезать в соседнюю колонку")
+        chip_block = re.search(r"\.material-chip \{(?P<body>.*?)\}", catalog_text, re.S)
+        if chip_block and "white-space: normal" not in chip_block.group("body"):
+            fail("src/css/04-catalog.css: material-chip должен разрешать нормальный перенос строк")
+
+    if responsive_css.exists():
+        responsive_text = responsive_css.read_text(encoding="utf-8")
+        block = re.search(r"\.catalog-row\.cols-items-enemy \.material-chip \{(?P<body>.*?)\}", responsive_text, re.S)
+        if not block:
+            fail("src/css/07-responsive.css: отсутствует desktop-правило для material-chip в каталоге боссов")
+        else:
+            body = block.group("body")
+            if "white-space: nowrap" in body:
+                fail("src/css/07-responsive.css: material-chip в каталоге боссов не должен запрещать перенос длинных названий")
+            if "white-space: normal" not in body or "min-width: 0" not in body:
+                fail("src/css/07-responsive.css: material-chip в каталоге боссов должен переноситься внутри своей колонки")
+
+
 def check_workflow_guards() -> None:
     workflow = ROOT / ".github" / "workflows" / "build-archive.yml"
     if not workflow.exists():
@@ -542,6 +567,7 @@ def main() -> int:
         check_items(details.get("items", {}), details.get("enemies", {}))
         check_summary(indexes)
     check_generated_css()
+    check_material_chip_wrapping()
 
     if errors:
         print("Проверка архива: найдены ошибки", file=sys.stderr)
