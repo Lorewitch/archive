@@ -1,0 +1,98 @@
+{
+  "id": "crimson_witch_of_flames",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/crimson_witch_of_flames.webp",
+  "title": {
+    "ru": "Горящая алая ведьма",
+    "en": "Crimson Witch of Flames",
+    "zh": "炽烈的炎之魔女"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Ведьмин огненный цветок\n\n**Описание:** Самый обычный, ничем не примечательный цветок, который, однако, смог выстоять перед огнём Горящей алой ведьмы.\nГрянувшие века назад бедствия порушили всё, что девушке сулила жизнь.\nДрузья и родные, былые дни, блестящее будущее - всё было уничтожено.\nТак, из дыма и пепла родилась Горящая алая ведьма, и предала она свою боль со скорбью пламени.\nНо этому цветку огонь навредить не смог - стебелёк оставался строен, а лепестки по-прежнему благоухали.\nИ мучительные, и прекрасные воспоминания были, пожалуй, двумя сторонами одного целого.",
+        "en": "**Название:** Witch's Flower of Blaze\n\n**Описание:** A common species of flower.\nIt is curiously capable of resisting the Crimson Witch's flames.\n\nA crisis centuries ago dashed all hope of the maiden seeing the future promised to her.\nThose dear to her, her past days, and her bright future.\nAll gone.\n\nFrom the ashes, the Crimson Witch of Flame was born, and she burned away her pain with fire.\nYet this flower stayed resilient, soft, and moist.\nPerhaps both painful and beautiful memories were two sides of the same coin.",
+        "zh": "**Название:** 魔女的炎之花\n\n**Описание:** 就物种而言平凡无奇的寻常花朵，却在持续抗拒着炎之魔女的焚烧。\n数百年前的灾厄降下时，少女失去了曾被应许的一切。\n珍惜的人们、往昔的岁月、灿烂的未来，全部碎裂了。\n从烟与余烬中，炎之魔女诞生了，用火灭却一切伤痛。\n但这朵花始终烧不尽，始终保持着生机、柔软与湿润，或许其中承载着的痛苦与美好记忆各是她的一体两面。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Пылающее ведьмино перо\n\n**Описание:** Багряное птичье перо.\nОгонь, которым оно вечно объято, сжечь его не может.\nСледуя пути инфернального пламени, ведьма оставляла за собой выжженную землю, куда бы она не ступила.\nИ хоть она сжигала только чудовищ, что сеяли смерть и ужас, люди, лишь завидев вдалеке огонёк, тут же запирали все двери, затворяли все ставни и тщились её прогнать.\nЧто, впрочем, было ей безразлично.\nЕсли рядом нет того, кто спалит дотла все печали и принесёт новую надежду, то необходимо им стать.\nНи утешения, ни сочувствия она не желала.\nТолько птицы, которые оставались рядом с Горящей алой ведьмой, понимали её немое одиночество.",
+        "en": "**Название:** Witch's Ever-Burning Plume\n\n**Описание:** A forever-burning bird feather.\nThe fire shall burn for all eternity.\n\nScorched earth followed in her wake, for she chose a path of hellfire.\nThough her fires only touched monsters and demons,\nPeople still cowered behind closed windows and tried to drive her away.\nBut none of that mattered to her.\n\nNew hopes were birthed from the fires of old pains.\nShe needed not comforting nor sympathy.\nChirping by her side, the birds gave her all the understanding she needed.",
+        "zh": "**Название:** 魔女常燃之羽\n\n**Описание:** 无休止地焦灼崩毁着的火红鸟羽。\n无论燃烧了多久，也不会被烧尽。\n因为选择了狱火的道路，她走过的原野都只余下灰烬。\n即使她焚烧的都是害人的魔物，当远处的火光亮起时，人们都会紧闭门窗，驱逐炎之魔女。\n但这之于她无妨。\n必须有人将所有伤痛烧尽，才能带来新的希望，她想。\n不需要理解。\n不需要人慰藉。\n也不需要任何人的同情。\n能明白炎之魔女无言寂寞的，只有落在她身旁的鸟儿。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Ведьмин последний час\n\n**Описание:** Небольшой стеклянный сосуд с горячей жидкостью.\nПоговаривают, что это - расплавленные души демонов.\nКогда молодой чародейке лишь предстояло начать свой долгий путь в ещё свободном от страданий мире, она получила в дар особые Гидро часы.\nОдин их цикл охватывал её время учёбы в академии.\nК тому времени, как цикл завершился и она вернулась домой, бывший владелец этих часов уже утратил в начавшихся бедствиях жизнь.\nБеззаботная молодость кончилась, и началась эра разрушений Горящей алой ведьмы.\nЧасы стали немым свидетелем того, как все чудовища и страдания, ими причиняемые, сгинули в огне.",
+        "en": "**Название:** Witch's End Time\n\n**Описание:** A small vessel containing a high-temperature liquid.\nIt is said to be the molten souls of evil spirits.\n\nA special Hydro timepiece given to the Crimson Witch before calamity struck.\nBack then she was still a maiden, and had not yet embarked on her journey.\nOne cycle was the time required to finish her study at the Akademiya.\nBy the time the countdown ended and she returned to her hometown, its previous owner had become a casualty of the crisis.\n\nHer maiden years were over.\nThe Crimson Witch of Flame was born, and with her the era of destruction.\nThe timepiece bore witness to the days of monsters and the pain they caused, until all were burned away.",
+        "zh": "**Название:** 魔女破灭之时\n\n**Описание:** 缓慢地流淌着高热溶液的小器皿，传说其中流淌的是被融化的邪灵。\n燃烧的魔女还是少女时，灾厄尚未来临时，她远行前，获赠的特制水时计。\n走完一周的时间等于她在教令院进修所需的时间。\n当时计走完时，当她回到故乡时，赠她时计的人已经沦为灾厄的食粮。\n少女的时间就此结束，炎之魔女的破灭之时就此开始，直到世间一切魔物和世间一切魔物造成的痛苦被烧尽。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Пламя ведьминого сердца\n\n**Описание:** Прозрачная стеклянная бутыль, в которой течёт жидкий огонь.\nСпособ приготовления жидкого огня до нынешних поколений не дошёл.\nГорящая алая ведьма ходила по свету, жарким пламенем испепеляя чудовищ.\nГоворят, что она отказалась от плоти и крови, чтобы стать воплощением жидкого огня.\nКогда-то юная дева трепетала и томилась в любовных муках, но её хрупкое, прекрасное сердце погибло в огне.\nТак свету явилась ведьма, память о которой историки предпочли бы стереть.",
+        "en": "**Название:** Witch's Heart Flames\n\n**Описание:** A clear bottle containing liquid fire.\nThe techniques involved in making liquid fire have since been lost.\n\nThe Crimson Witch of Flame walked upon the earth, burning monsters into cinders.\nRumor told of how she sacrificed her mortal body to become the embodiment of liquid fire herself.\n\nStill, love and longing once dwelt in her maiden heart.\nUntil fires burned away that beautiful and fragile part.\nThus, she became the witch that historians were loath to remember.",
+        "zh": "**Название:** 魔女的心之火\n\n**Описание:** 透彻的琉璃瓶，其中流淌着液火。\n如今流体液态火的做法已经失传。\n在炎之魔女行遍各地，用酷烈炙热的烈火焚烧魔物时，人们传说她放弃了人的血肉，体内奔流的是液态流火。\n但即便是她，也曾经是少女，心中也曾有过爱与思慕，直到一把火将少女心中一切美好而柔弱的部分烧尽了。\n从此她成了史家不愿记载的魔女。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Тлеющая ведьмина шляпа\n\n**Описание:** Чёрная шляпа с широкими полями и остроконечной верхушкой, какую положено носить ведьме.\nПовергает простолюдинов в страх и трепет.\nЭтот головной убор во времена ученичества помогал Горящей алой ведьме оградиться от окружающего шума и гама, ис головой уйти в книги, чтобы оттачивать свои навыки Пиро.\nБеззаветно посвятив себя сражению, она никогда не следила, как догорало бьющееся в муках чудовище, и ни разу не взглянула в гладь воды, где отразилось бы её обожжённое лицо.\nГлуха к собственным страданиям, чародейка всё горела.",
+        "en": "**Название:** Witch's Scorching Hat\n\n**Описание:** A traditional witch's pointed hat with a large brim.\nIt grants a witch the reverence and fear which she commands.\n\nTo the Crimson Witch of Flame, this large hat shielded her from surrounding distractions.\nIt was how she was able to hone her Pyro skills when she was still an apprentice.\n\nIn combat, she needed not pay attention to monsters disintegrating in flames.\nNor did she need to look at her own burnt face in the water's reflection.\nAnd so the Crimson Witch continued to burn, blind to the extent of her devastation.",
+        "zh": "**Название:** 焦灼的魔女帽\n\n**Описание:** 有着宽大帽檐的传统尖头魔女帽，能为魔女带来敬畏与恐惧的目光。\n对于炎之魔女而言，这样的大帽子能屏断周围的芜杂，在她早年求学时，得以心无旁骛地磨砺自己的火之力。\n在她投身战斗后，不必看着被烈焰啃噬的魔物在狂舞中散成灰的模样。\n在望向水面时，也不必看见自己因为烟雾与烈焰变得焦灼破碎的面容。\n魔女就是这样盲目地持续燃烧的。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Ведьмин огненный цветок\n\n**Описание:** Самый обычный, ничем не примечательный цветок, который, однако, смог выстоять перед огнём Горящей алой ведьмы.\nГрянувшие века назад бедствия порушили всё, что девушке сулила жизнь.\nДрузья и родные, былые дни, блестящее будущее - всё было уничтожено.\nТак, из дыма и пепла родилась Горящая алая ведьма, и предала она свою боль со скорбью пламени.\nНо этому цветку огонь навредить не смог - стебелёк оставался строен, а лепестки по-прежнему благоухали.\nИ мучительные, и прекрасные воспоминания были, пожалуй, двумя сторонами одного целого.\n\nПеро смерти\n**Название:** Пылающее ведьмино перо\n\n**Описание:** Багряное птичье перо.\nОгонь, которым оно вечно объято, сжечь его не может.\nСледуя пути инфернального пламени, ведьма оставляла за собой выжженную землю, куда бы она не ступила.\nИ хоть она сжигала только чудовищ, что сеяли смерть и ужас, люди, лишь завидев вдалеке огонёк, тут же запирали все двери, затворяли все ставни и тщились её прогнать.\nЧто, впрочем, было ей безразлично.\nЕсли рядом нет того, кто спалит дотла все печали и принесёт новую надежду, то необходимо им стать.\nНи утешения, ни сочувствия она не желала.\nТолько птицы, которые оставались рядом с Горящей алой ведьмой, понимали её немое одиночество.\n\nПески времени\n**Название:** Ведьмин последний час\n\n**Описание:** Небольшой стеклянный сосуд с горячей жидкостью.\nПоговаривают, что это - расплавленные души демонов.\nКогда молодой чародейке лишь предстояло начать свой долгий путь в ещё свободном от страданий мире, она получила в дар особые Гидро часы.\nОдин их цикл охватывал её время учёбы в академии.\nК тому времени, как цикл завершился и она вернулась домой, бывший владелец этих часов уже утратил в начавшихся бедствиях жизнь.\nБеззаботная молодость кончилась, и началась эра разрушений Горящей алой ведьмы.\nЧасы стали немым свидетелем того, как все чудовища и страдания, ими причиняемые, сгинули в огне.\n\nКубок пространства\n**Название:** Пламя ведьминого сердца\n\n**Описание:** Прозрачная стеклянная бутыль, в которой течёт жидкий огонь.\nСпособ приготовления жидкого огня до нынешних поколений не дошёл.\nГорящая алая ведьма ходила по свету, жарким пламенем испепеляя чудовищ.\nГоворят, что она отказалась от плоти и крови, чтобы стать воплощением жидкого огня.\nКогда-то юная дева трепетала и томилась в любовных муках, но её хрупкое, прекрасное сердце погибло в огне.\nТак свету явилась ведьма, память о которой историки предпочли бы стереть.\n\nКорона разума\n**Название:** Тлеющая ведьмина шляпа\n\n**Описание:** Чёрная шляпа с широкими полями и остроконечной верхушкой, какую положено носить ведьме.\nПовергает простолюдинов в страх и трепет.\nЭтот головной убор во времена ученичества помогал Горящей алой ведьме оградиться от окружающего шума и гама, ис головой уйти в книги, чтобы оттачивать свои навыки Пиро.\nБеззаветно посвятив себя сражению, она никогда не следила, как догорало бьющееся в муках чудовище, и ни разу не взглянула в гладь воды, где отразилось бы её обожжённое лицо.\nГлуха к собственным страданиям, чародейка всё горела.",
+    "en": "Flower of Life\n**Название:** Witch's Flower of Blaze\n\n**Описание:** A common species of flower.\nIt is curiously capable of resisting the Crimson Witch's flames.\n\nA crisis centuries ago dashed all hope of the maiden seeing the future promised to her.\nThose dear to her, her past days, and her bright future.\nAll gone.\n\nFrom the ashes, the Crimson Witch of Flame was born, and she burned away her pain with fire.\nYet this flower stayed resilient, soft, and moist.\nPerhaps both painful and beautiful memories were two sides of the same coin.\n\nPlume of Death\n**Название:** Witch's Ever-Burning Plume\n\n**Описание:** A forever-burning bird feather.\nThe fire shall burn for all eternity.\n\nScorched earth followed in her wake, for she chose a path of hellfire.\nThough her fires only touched monsters and demons,\nPeople still cowered behind closed windows and tried to drive her away.\nBut none of that mattered to her.\n\nNew hopes were birthed from the fires of old pains.\nShe needed not comforting nor sympathy.\nChirping by her side, the birds gave her all the understanding she needed.\n\nSands of Eon\n**Название:** Witch's End Time\n\n**Описание:** A small vessel containing a high-temperature liquid.\nIt is said to be the molten souls of evil spirits.\n\nA special Hydro timepiece given to the Crimson Witch before calamity struck.\nBack then she was still a maiden, and had not yet embarked on her journey.\nOne cycle was the time required to finish her study at the Akademiya.\nBy the time the countdown ended and she returned to her hometown, its previous owner had become a casualty of the crisis.\n\nHer maiden years were over.\nThe Crimson Witch of Flame was born, and with her the era of destruction.\nThe timepiece bore witness to the days of monsters and the pain they caused, until all were burned away.\n\nGoblet of Eonothem\n**Название:** Witch's Heart Flames\n\n**Описание:** A clear bottle containing liquid fire.\nThe techniques involved in making liquid fire have since been lost.\n\nThe Crimson Witch of Flame walked upon the earth, burning monsters into cinders.\nRumor told of how she sacrificed her mortal body to become the embodiment of liquid fire herself.\n\nStill, love and longing once dwelt in her maiden heart.\nUntil fires burned away that beautiful and fragile part.\nThus, she became the witch that historians were loath to remember.\n\nCirclet of Logos\n**Название:** Witch's Scorching Hat\n\n**Описание:** A traditional witch's pointed hat with a large brim.\nIt grants a witch the reverence and fear which she commands.\n\nTo the Crimson Witch of Flame, this large hat shielded her from surrounding distractions.\nIt was how she was able to hone her Pyro skills when she was still an apprentice.\n\nIn combat, she needed not pay attention to monsters disintegrating in flames.\nNor did she need to look at her own burnt face in the water's reflection.\nAnd so the Crimson Witch continued to burn, blind to the extent of her devastation.",
+    "zh": "生之花\n**Название:** 魔女的炎之花\n\n**Описание:** 就物种而言平凡无奇的寻常花朵，却在持续抗拒着炎之魔女的焚烧。\n数百年前的灾厄降下时，少女失去了曾被应许的一切。\n珍惜的人们、往昔的岁月、灿烂的未来，全部碎裂了。\n从烟与余烬中，炎之魔女诞生了，用火灭却一切伤痛。\n但这朵花始终烧不尽，始终保持着生机、柔软与湿润，或许其中承载着的痛苦与美好记忆各是她的一体两面。\n\n死之羽\n**Название:** 魔女常燃之羽\n\n**Описание:** 无休止地焦灼崩毁着的火红鸟羽。\n无论燃烧了多久，也不会被烧尽。\n因为选择了狱火的道路，她走过的原野都只余下灰烬。\n即使她焚烧的都是害人的魔物，当远处的火光亮起时，人们都会紧闭门窗，驱逐炎之魔女。\n但这之于她无妨。\n必须有人将所有伤痛烧尽，才能带来新的希望，她想。\n不需要理解。\n不需要人慰藉。\n也不需要任何人的同情。\n能明白炎之魔女无言寂寞的，只有落在她身旁的鸟儿。\n\n时之沙\n**Название:** 魔女破灭之时\n\n**Описание:** 缓慢地流淌着高热溶液的小器皿，传说其中流淌的是被融化的邪灵。\n燃烧的魔女还是少女时，灾厄尚未来临时，她远行前，获赠的特制水时计。\n走完一周的时间等于她在教令院进修所需的时间。\n当时计走完时，当她回到故乡时，赠她时计的人已经沦为灾厄的食粮。\n少女的时间就此结束，炎之魔女的破灭之时就此开始，直到世间一切魔物和世间一切魔物造成的痛苦被烧尽。\n\n空之杯\n**Название:** 魔女的心之火\n\n**Описание:** 透彻的琉璃瓶，其中流淌着液火。\n如今流体液态火的做法已经失传。\n在炎之魔女行遍各地，用酷烈炙热的烈火焚烧魔物时，人们传说她放弃了人的血肉，体内奔流的是液态流火。\n但即便是她，也曾经是少女，心中也曾有过爱与思慕，直到一把火将少女心中一切美好而柔弱的部分烧尽了。\n从此她成了史家不愿记载的魔女。\n\n理之冠\n**Название:** 焦灼的魔女帽\n\n**Описание:** 有着宽大帽檐的传统尖头魔女帽，能为魔女带来敬畏与恐惧的目光。\n对于炎之魔女而言，这样的大帽子能屏断周围的芜杂，在她早年求学时，得以心无旁骛地磨砺自己的火之力。\n在她投身战斗后，不必看着被烈焰啃噬的魔物在狂舞中散成灰的模样。\n在望向水面时，也不必看见自己因为烟雾与烈焰变得焦灼破碎的面容。\n魔女就是这样盲目地持续燃烧的。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

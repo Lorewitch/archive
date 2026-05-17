@@ -1,0 +1,98 @@
+{
+  "id": "wanderers_troupe",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/wanderers_troupe.webp",
+  "title": {
+    "ru": "Странствующий ансамбль",
+    "en": "Wanderer's Troupe",
+    "zh": "流浪大地的乐团"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Рассвет ансамбля\n\n**Описание:** Крохотный значок в форме цветка.\nКажется, будто из него играет музыка.\nЖила-была в бродячем ансамбле доблестная мечница, прекрасная, как заря на морских волнах, и изящная, как возвещающий рассвет жаворонок.\nВзмахи её острого меча становились уносимой ветром песней.\nКогда она пела и танцевала, то словно уходили хмурые тучи и солнце согревало землю.\nНо пришёл конец, без её музыки опустела сцена, и потеряла краски жизнь.\nМузыкой и мечом она могла легко очаровать слушателя, равно как и отнять его жизнь.\nТакая манера исполненья была ансамблю под стать, ведь публика попадалась разная.\nИ если в зале собирались злодеи, музыка выходила далеко за пределы сцены.",
+        "en": "**Название:** Troupe's Dawnlight\n\n**Описание:** A small flower-shaped insignia.\nThere seems to be music coming from it.\nAmong the members of the troupe was a charismatic swordswoman.\nBeautiful as the light on water, elegant as the chirping lark.\nHer every slash hummed a tune of the wind.\nThe end of each song and dance was like the sun after the rain.\nDust has since settled, and both the stage and life itself feel emptier for the absence of her music.\nBoth her music and her sword were as lethal as they were beautiful.\nThis was in keeping with the troupe's performances, which were intended for two very different audiences.\nFor the audience of foes, the music drifted far beyond the stage.",
+        "zh": "**Название:** 乐团的晨光\n\n**Описание:** 花形的小小徽章，其中仿佛传出音乐声。\n在那流浪的乐团里，有一位飒爽的剑士。\n比水上的霞光更明媚，优雅如报晓云雀。\n每当她挥舞利剑，笛音与歌都随风而起。\n一曲一舞落定如同雨霁天青。\n尘埃落定，台上下无有杂音。\n音乐与剑在她手中同等致命，同等优美。\n这便是流浪乐团的演奏，它有两种听众。\n听者是恶徒，乐声则远远传到舞台之外。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Оперение стрелы барда\n\n**Описание:** Оперение стрелы тёмно-синего цвета, пережившее жестокое испытание временем.\nТрепещущий на ветру кончик пера издаёт мелодичные звуки.\nЛирист странствующего ансамбля мастерски стрелял из лука.\nГоворили, что своей игрой он одурманивал птиц, а затем сбивал их стрелами.\nИграл он, опустив глаза, чтобы не смотреть на небо.\n«Каков спесивец!» - возмущались одни.\nДругие же замечали: «Этот охотник поистине милосерден».\nПерья его несчастных жертв украшали стрелы, а звонкая мелодия лиры превращалась в скорбную песнь.",
+        "en": "**Название:** Bard's Arrow Feather\n\n**Описание:** An azure arrow fletching that has survived the test of time.\nThe fletching seems to produce a tune as the arrow flies through air.\nThe harpist of the troupe was also a skilled archer.\nLegend has it that he could lure the birds in the sky with his harp and then shoot them down with his arrows.\nIt is said that he never looked at the sky while he was playing the harp to lure the birds.\nSome believed the reason was his harpist's arrogance, while his companion said it was his hunter's mercy.\nThe ill-fated birds became the fletching of the harpist's arrows, and the sound of the harp became the birds' elegy.",
+        "zh": "**Название:** 琴师的箭羽\n\n**Описание:** 靛青的挺拔箭羽，饱经风霜幸存至今。\n迎风震颤时似乎有乐声从羽梢中漏出。\n流浪乐团的琴师同时也是精湛的弓手。\n传说他能用温柔的琴声迷惑飞鸟，然后将之射下高空。\n据说在为鸟儿编织死亡之曲时，琴师从来低垂着眼帘。\n有人说这是乐师的自矜，也有同伴说这是猎手的仁慈。\n当可怜的牺牲品装点了琴师的箭矢，清脆的琴声也化作无情的报死哀声。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Окончание концерта\n\n**Описание:** Песочные часы ансамбля, которые также служат лирой.\nС ходом времени издаваемая ими музыка всё больше наполняется печалью.\nИгрой на этой лире завершалось каждое выступление ансамбля.\nПоследние аккорды словно скорбели об уходящей музыке.\nЗастывал в воздухе их тихий звон, и ансамбль выходил на поклон.\nНо всё хорошее рано или поздно кончается, и ансамбль исключением не стал.\nКаждый из музыкантов встретил свою судьбу, а инструменты поглотил песок.\nПоследними звуками сего славного ансамбля стал шорох текущего в часах песка, и когда последние песчинки упали, лира умолкла навсегда.",
+        "en": "**Название:** Concert's Final Hour\n\n**Описание:** The troupe's hourglass, which is also a harp.\nThe tune becomes deeper with the passage of time.\nWhen the performance was coming to an end, the troupe would play this harp.\nAs time passed, the tune of the harp became deeper.\nThe sound of the harp dying down marked the end of the show.\nEverything has an end, and the troupe was no exception.\nOne by one, each member of the troupe met their fate and their instruments were buried deep in the dust.\nAs the harp fell silent, the final sound heard from the musical troupe was the faint trickle of sand as it slid down the hourglass one final time.",
+        "zh": "**Название:** 终幕的时计\n\n**Описание:** 流浪乐团的沙漏，本身便是一架琴。\n随着时间流逝，乐音也会愈发沉郁。\n每当表演即将结束，流浪乐团便会奏起竖琴。\n随着时间渐趋终点，竖琴的音色也愈发沉重。\n当低音在空气中弥散而尽，乐团演奏便告谢幕。\n而正如天下无不散之筵席，乐团本身也有竟时。\n当众人纷纷为宿命击倒，乐器埋葬于尘沙之下，乐团的时计也奏完了终曲。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Фляжка странника\n\n**Описание:** Причудливой формы чайник, из которого вместе с водой льётся удивительная мелодия.\nЕго хозяина, члена странствующего ансамбля, музыка не покидала даже во время чаепития.\nВ одном старом предании говорится об ансамбле, который бродил по свету.\nВместо флейт у них были мечи, а луки заменяли им лиры.\nВыступали они не только для друзей, но и для врагов.\nОни прошли жаркие пустыни и добрались до тлеющих берегов Пепельного моря.\nТрепещущая мелодия лиры, доносившаяся из чайника, напоминала им: «С бескрайней мелодией мы идём в унисон.\nТам, где звучит музыка, будем и мы».",
+        "en": "**Название:** Wanderer's String-Kettle\n\n**Описание:** A strangely-shaped kettle that plays a wondrous tune as the water flows out.\nThere was always music in the life of a Troupe member, even when drinking water.\nAn ancient tale tells of a wandering troupe that roamed the land.\nFor flutes they had swords, and for harps they had bows.\nThey performed not only for friends, but also for foes.\nThey traveled through the desert and set foot in the blazing Mare Jivari.\nThe tune of the harp echoing in the kettle was a reminder for them.\n\"Along with the boundless tunes we walk.\"\n\"Wherever there is music, there is us.\"",
+        "zh": "**Название:** 吟游者之壶\n\n**Описание:** 外形奇妙的水壶，能随流水奏出旋律。\n乐团成员即使饮水也不离乐曲的陪伴。\n在古老的传说中，流浪乐团仗剑行走天地。\n以剑、弓为笛与琴，莫论来者宾客或寇仇。\n他们曾漫步沙漠，也曾踏入阴燃的烬寂海。\n壶内荡漾的琴声时刻提醒着他们：「我们的足迹与无边的音律同调」\n「何处有音乐声，何处就有我们」"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Цилиндр дирижёра\n\n**Описание:** Прекрасная шляпа, пронёсшая своё великолепие через века.\nЕсли к ней хорошенько прислушаться, то можно услышать, как переливается древняя мелодия.\nМного веков назад бродил по белу свету один ансамбль.\nНот у них никаких не было.\nЧего они видели, о том и играли, а что слышали, о том и пели.\nСо временем музыканты поняли, как этот мир огромен.\n«Ого, в мире, оказывается, так много всего, о чём можно спеть!»\nТогда они вместо нот взяли слова, и написали о своём путешествии книгу.\nКнигу эту, «Песнь странника», дирижёр ансамбля не выпускал из рук даже после своей смерти.",
+        "en": "**Название:** Conductor's Top Hat\n\n**Описание:** A beautiful top hat untouched by time.\nListening closely, one can almost hear an ancient tune echoing inside the hat.\nThousands of years ago, a troupe wandered through the lands.\nThe troupe owned not a single shred of sheet music.\nWhat they saw was what they sung, and what they heard was what they played.\nAs time passed, the troupe gradually realized the vastness of the world.\n\"There are so many things in the world for us to sing of.\"\nThe members then turned the notes into words and recorded their journey in a book.\nThis book, The Widsith as they called it, was still held tightly in the conductor's hands even after his death.",
+        "zh": "**Название:** 指挥的礼帽\n\n**Описание:** 漂亮的礼帽，历经岁月却依然光彩照人。\n仔细倾听，似乎回荡着古老悠扬的乐声。\n千百年前，一支乐团在大地上流浪。\n乐团无乐谱。\n见所见而歌，闻所闻而奏。\n后来，随着乐团愈发见识到世界的广袤，「啊啊。\n这世上，可唱的竟有如此之多」\n成员们以音符为语言，将所见所闻写下。\n至死仍将流浪乐章掬在手中的便是指挥。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Рассвет ансамбля\n\n**Описание:** Крохотный значок в форме цветка.\nКажется, будто из него играет музыка.\nЖила-была в бродячем ансамбле доблестная мечница, прекрасная, как заря на морских волнах, и изящная, как возвещающий рассвет жаворонок.\nВзмахи её острого меча становились уносимой ветром песней.\nКогда она пела и танцевала, то словно уходили хмурые тучи и солнце согревало землю.\nНо пришёл конец, без её музыки опустела сцена, и потеряла краски жизнь.\nМузыкой и мечом она могла легко очаровать слушателя, равно как и отнять его жизнь.\nТакая манера исполненья была ансамблю под стать, ведь публика попадалась разная.\nИ если в зале собирались злодеи, музыка выходила далеко за пределы сцены.\n\nПеро смерти\n**Название:** Оперение стрелы барда\n\n**Описание:** Оперение стрелы тёмно-синего цвета, пережившее жестокое испытание временем.\nТрепещущий на ветру кончик пера издаёт мелодичные звуки.\nЛирист странствующего ансамбля мастерски стрелял из лука.\nГоворили, что своей игрой он одурманивал птиц, а затем сбивал их стрелами.\nИграл он, опустив глаза, чтобы не смотреть на небо.\n«Каков спесивец!» - возмущались одни.\nДругие же замечали: «Этот охотник поистине милосерден».\nПерья его несчастных жертв украшали стрелы, а звонкая мелодия лиры превращалась в скорбную песнь.\n\nПески времени\n**Название:** Окончание концерта\n\n**Описание:** Песочные часы ансамбля, которые также служат лирой.\nС ходом времени издаваемая ими музыка всё больше наполняется печалью.\nИгрой на этой лире завершалось каждое выступление ансамбля.\nПоследние аккорды словно скорбели об уходящей музыке.\nЗастывал в воздухе их тихий звон, и ансамбль выходил на поклон.\nНо всё хорошее рано или поздно кончается, и ансамбль исключением не стал.\nКаждый из музыкантов встретил свою судьбу, а инструменты поглотил песок.\nПоследними звуками сего славного ансамбля стал шорох текущего в часах песка, и когда последние песчинки упали, лира умолкла навсегда.\n\nКубок пространства\n**Название:** Фляжка странника\n\n**Описание:** Причудливой формы чайник, из которого вместе с водой льётся удивительная мелодия.\nЕго хозяина, члена странствующего ансамбля, музыка не покидала даже во время чаепития.\nВ одном старом предании говорится об ансамбле, который бродил по свету.\nВместо флейт у них были мечи, а луки заменяли им лиры.\nВыступали они не только для друзей, но и для врагов.\nОни прошли жаркие пустыни и добрались до тлеющих берегов Пепельного моря.\nТрепещущая мелодия лиры, доносившаяся из чайника, напоминала им: «С бескрайней мелодией мы идём в унисон.\nТам, где звучит музыка, будем и мы».\n\nКорона разума\n**Название:** Цилиндр дирижёра\n\n**Описание:** Прекрасная шляпа, пронёсшая своё великолепие через века.\nЕсли к ней хорошенько прислушаться, то можно услышать, как переливается древняя мелодия.\nМного веков назад бродил по белу свету один ансамбль.\nНот у них никаких не было.\nЧего они видели, о том и играли, а что слышали, о том и пели.\nСо временем музыканты поняли, как этот мир огромен.\n«Ого, в мире, оказывается, так много всего, о чём можно спеть!»\nТогда они вместо нот взяли слова, и написали о своём путешествии книгу.\nКнигу эту, «Песнь странника», дирижёр ансамбля не выпускал из рук даже после своей смерти.",
+    "en": "Flower of Life\n**Название:** Troupe's Dawnlight\n\n**Описание:** A small flower-shaped insignia.\nThere seems to be music coming from it.\nAmong the members of the troupe was a charismatic swordswoman.\nBeautiful as the light on water, elegant as the chirping lark.\nHer every slash hummed a tune of the wind.\nThe end of each song and dance was like the sun after the rain.\nDust has since settled, and both the stage and life itself feel emptier for the absence of her music.\nBoth her music and her sword were as lethal as they were beautiful.\nThis was in keeping with the troupe's performances, which were intended for two very different audiences.\nFor the audience of foes, the music drifted far beyond the stage.\n\nPlume of Death\n**Название:** Bard's Arrow Feather\n\n**Описание:** An azure arrow fletching that has survived the test of time.\nThe fletching seems to produce a tune as the arrow flies through air.\nThe harpist of the troupe was also a skilled archer.\nLegend has it that he could lure the birds in the sky with his harp and then shoot them down with his arrows.\nIt is said that he never looked at the sky while he was playing the harp to lure the birds.\nSome believed the reason was his harpist's arrogance, while his companion said it was his hunter's mercy.\nThe ill-fated birds became the fletching of the harpist's arrows, and the sound of the harp became the birds' elegy.\n\nSands of Eon\n**Название:** Concert's Final Hour\n\n**Описание:** The troupe's hourglass, which is also a harp.\nThe tune becomes deeper with the passage of time.\nWhen the performance was coming to an end, the troupe would play this harp.\nAs time passed, the tune of the harp became deeper.\nThe sound of the harp dying down marked the end of the show.\nEverything has an end, and the troupe was no exception.\nOne by one, each member of the troupe met their fate and their instruments were buried deep in the dust.\nAs the harp fell silent, the final sound heard from the musical troupe was the faint trickle of sand as it slid down the hourglass one final time.\n\nGoblet of Eonothem\n**Название:** Wanderer's String-Kettle\n\n**Описание:** A strangely-shaped kettle that plays a wondrous tune as the water flows out.\nThere was always music in the life of a Troupe member, even when drinking water.\nAn ancient tale tells of a wandering troupe that roamed the land.\nFor flutes they had swords, and for harps they had bows.\nThey performed not only for friends, but also for foes.\nThey traveled through the desert and set foot in the blazing Mare Jivari.\nThe tune of the harp echoing in the kettle was a reminder for them.\n\"Along with the boundless tunes we walk.\"\n\"Wherever there is music, there is us.\"\n\nCirclet of Logos\n**Название:** Conductor's Top Hat\n\n**Описание:** A beautiful top hat untouched by time.\nListening closely, one can almost hear an ancient tune echoing inside the hat.\nThousands of years ago, a troupe wandered through the lands.\nThe troupe owned not a single shred of sheet music.\nWhat they saw was what they sung, and what they heard was what they played.\nAs time passed, the troupe gradually realized the vastness of the world.\n\"There are so many things in the world for us to sing of.\"\nThe members then turned the notes into words and recorded their journey in a book.\nThis book, The Widsith as they called it, was still held tightly in the conductor's hands even after his death.",
+    "zh": "生之花\n**Название:** 乐团的晨光\n\n**Описание:** 花形的小小徽章，其中仿佛传出音乐声。\n在那流浪的乐团里，有一位飒爽的剑士。\n比水上的霞光更明媚，优雅如报晓云雀。\n每当她挥舞利剑，笛音与歌都随风而起。\n一曲一舞落定如同雨霁天青。\n尘埃落定，台上下无有杂音。\n音乐与剑在她手中同等致命，同等优美。\n这便是流浪乐团的演奏，它有两种听众。\n听者是恶徒，乐声则远远传到舞台之外。\n\n死之羽\n**Название:** 琴师的箭羽\n\n**Описание:** 靛青的挺拔箭羽，饱经风霜幸存至今。\n迎风震颤时似乎有乐声从羽梢中漏出。\n流浪乐团的琴师同时也是精湛的弓手。\n传说他能用温柔的琴声迷惑飞鸟，然后将之射下高空。\n据说在为鸟儿编织死亡之曲时，琴师从来低垂着眼帘。\n有人说这是乐师的自矜，也有同伴说这是猎手的仁慈。\n当可怜的牺牲品装点了琴师的箭矢，清脆的琴声也化作无情的报死哀声。\n\n时之沙\n**Название:** 终幕的时计\n\n**Описание:** 流浪乐团的沙漏，本身便是一架琴。\n随着时间流逝，乐音也会愈发沉郁。\n每当表演即将结束，流浪乐团便会奏起竖琴。\n随着时间渐趋终点，竖琴的音色也愈发沉重。\n当低音在空气中弥散而尽，乐团演奏便告谢幕。\n而正如天下无不散之筵席，乐团本身也有竟时。\n当众人纷纷为宿命击倒，乐器埋葬于尘沙之下，乐团的时计也奏完了终曲。\n\n空之杯\n**Название:** 吟游者之壶\n\n**Описание:** 外形奇妙的水壶，能随流水奏出旋律。\n乐团成员即使饮水也不离乐曲的陪伴。\n在古老的传说中，流浪乐团仗剑行走天地。\n以剑、弓为笛与琴，莫论来者宾客或寇仇。\n他们曾漫步沙漠，也曾踏入阴燃的烬寂海。\n壶内荡漾的琴声时刻提醒着他们：「我们的足迹与无边的音律同调」\n「何处有音乐声，何处就有我们」\n\n理之冠\n**Название:** 指挥的礼帽\n\n**Описание:** 漂亮的礼帽，历经岁月却依然光彩照人。\n仔细倾听，似乎回荡着古老悠扬的乐声。\n千百年前，一支乐团在大地上流浪。\n乐团无乐谱。\n见所见而歌，闻所闻而奏。\n后来，随着乐团愈发见识到世界的广袤，「啊啊。\n这世上，可唱的竟有如此之多」\n成员们以音符为语言，将所见所闻写下。\n至死仍将流浪乐章掬在手中的便是指挥。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

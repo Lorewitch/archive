@@ -1,0 +1,98 @@
+{
+  "id": "tiny_miracle",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/tiny_miracle.webp",
+  "title": {
+    "ru": "Маленькое чудо",
+    "en": "Tiny Miracle",
+    "zh": "奇迹"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Цветок маленького чуда\n\n**Описание:** Маленький синий цветок, растущий в трещинах старого могильного камня.\nКолонны несут в себе историю смерти, и живые цветы, пробивающиеся из трещин, подобны чуду.",
+        "en": "**Название:** Tiny Miracle's Flower\n\n**Описание:** A little blue flower that sprouted between the cracks of an old tombstone.\nThe carvings on the tombstone are a legacy of death, yet what sprouted from its cracks was the miracle of life.",
+        "zh": "**Название:** 奇迹之花\n\n**Описание:** 小小的蓝色鲜花，从古老的残损石碑中生长出来。\n残碑承载着死的历史，裂缝中却孕育着生的奇迹。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Перо маленького чуда\n\n**Описание:** Ястреб быстр, как ветер.\nЕго существование уже само по себе чудо.\nЕму был дарован острый взор и подобные кинжалам когти, и благодаря огромным крыльям он может скользить по небу так быстро, как никто другой.",
+        "en": "**Название:** Tiny Miracle's Feather\n\n**Описание:** Plucked from a falcon that was as fast as the wind.\nThe mere existence of such a bird is a miracle.\nIt was gifted with clear vision and sharp claws.\nWith its broad wings, its gliding speed was unparalleled.",
+        "zh": "**Название:** 奇迹之羽\n\n**Описание:** 与风同速的猛禽，其存在本身便是奇迹。\n它被赐予了锐利的视觉和锋刃般的脚爪，又有宽广的翼展，得以支撑它高速滑翔。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Песочные часы маленького чуда\n\n**Описание:** Часто говорят: чтобы победить, нужно бороться, но чудо приходит лишь с ожиданием.\nНо разве не чудо то, что со временем скала превратилась в мелкий песок?\nРазве наша с тобой встреча - не чудо?",
+        "en": "**Название:** Tiny Miracle's Hourglass\n\n**Описание:** It is often said that one may achieve victory by striving, but receive a miracle only by waiting.\nBut is it not a miracle that fine sand was once a hard rock?\nIs it not too a miracle that we met each other?",
+        "zh": "**Название:** 奇迹之沙\n\n**Описание:** 常说胜利需要争取，但奇迹却只能等待。\n但是磐石被磨成细沙，难道不是奇迹吗？\n你与我的相遇，难道不也是一种奇迹吗？"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Чашка маленького чуда\n\n**Описание:** Чистейшая чайная чашка, искрящаяся светом звёзд.\nНекогда она использовалась прорицателем для гаданий, и, по поверьям, вода в ней отражает звёздное море.",
+        "en": "**Название:** Tiny Miracle's Goblet\n\n**Описание:** A clear goblet glittering with starlight.\nIn the past it was used to tell fortunes, For the water it held was believed to reflect the Starry Sea.",
+        "zh": "**Название:** 奇迹之杯\n\n**Описание:** 清白的茶盏，其中闪烁着星光。\n过去曾有占卜者用它卜问吉凶，\n是相信水中能映出星辰的海洋。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Серёжки маленького чуда\n\n**Описание:** Пара недорогих серёжек, изготовленных из металла, сияющего словно звёзды.\nТорговец не знал, что источник их сияния - звёзды, что в древности упали на землю.",
+        "en": "**Название:** Tiny Miracle's Earrings\n\n**Описание:** An inexpensive pair of earrings made from metal that shines like the stars.\nWhat the sellers don't know is that the shine of these earrings comes from the fallen stars of ancient times.",
+        "zh": "**Название:** 奇迹耳坠\n\n**Описание:** 一对不算昂贵的耳坠，以星光般闪亮的金属雕琢而成。\n商贩所不知的是，它的闪耀来自远古坠落大地的星星。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Цветок маленького чуда\n\n**Описание:** Маленький синий цветок, растущий в трещинах старого могильного камня.\nКолонны несут в себе историю смерти, и живые цветы, пробивающиеся из трещин, подобны чуду.\n\nПеро смерти\n**Название:** Перо маленького чуда\n\n**Описание:** Ястреб быстр, как ветер.\nЕго существование уже само по себе чудо.\nЕму был дарован острый взор и подобные кинжалам когти, и благодаря огромным крыльям он может скользить по небу так быстро, как никто другой.\n\nПески времени\n**Название:** Песочные часы маленького чуда\n\n**Описание:** Часто говорят: чтобы победить, нужно бороться, но чудо приходит лишь с ожиданием.\nНо разве не чудо то, что со временем скала превратилась в мелкий песок?\nРазве наша с тобой встреча - не чудо?\n\nКубок пространства\n**Название:** Чашка маленького чуда\n\n**Описание:** Чистейшая чайная чашка, искрящаяся светом звёзд.\nНекогда она использовалась прорицателем для гаданий, и, по поверьям, вода в ней отражает звёздное море.\n\nКорона разума\n**Название:** Серёжки маленького чуда\n\n**Описание:** Пара недорогих серёжек, изготовленных из металла, сияющего словно звёзды.\nТорговец не знал, что источник их сияния - звёзды, что в древности упали на землю.",
+    "en": "Flower of Life\n**Название:** Tiny Miracle's Flower\n\n**Описание:** A little blue flower that sprouted between the cracks of an old tombstone.\nThe carvings on the tombstone are a legacy of death, yet what sprouted from its cracks was the miracle of life.\n\nPlume of Death\n**Название:** Tiny Miracle's Feather\n\n**Описание:** Plucked from a falcon that was as fast as the wind.\nThe mere existence of such a bird is a miracle.\nIt was gifted with clear vision and sharp claws.\nWith its broad wings, its gliding speed was unparalleled.\n\nSands of Eon\n**Название:** Tiny Miracle's Hourglass\n\n**Описание:** It is often said that one may achieve victory by striving, but receive a miracle only by waiting.\nBut is it not a miracle that fine sand was once a hard rock?\nIs it not too a miracle that we met each other?\n\nGoblet of Eonothem\n**Название:** Tiny Miracle's Goblet\n\n**Описание:** A clear goblet glittering with starlight.\nIn the past it was used to tell fortunes, For the water it held was believed to reflect the Starry Sea.\n\nCirclet of Logos\n**Название:** Tiny Miracle's Earrings\n\n**Описание:** An inexpensive pair of earrings made from metal that shines like the stars.\nWhat the sellers don't know is that the shine of these earrings comes from the fallen stars of ancient times.",
+    "zh": "生之花\n**Название:** 奇迹之花\n\n**Описание:** 小小的蓝色鲜花，从古老的残损石碑中生长出来。\n残碑承载着死的历史，裂缝中却孕育着生的奇迹。\n\n死之羽\n**Название:** 奇迹之羽\n\n**Описание:** 与风同速的猛禽，其存在本身便是奇迹。\n它被赐予了锐利的视觉和锋刃般的脚爪，又有宽广的翼展，得以支撑它高速滑翔。\n\n时之沙\n**Название:** 奇迹之沙\n\n**Описание:** 常说胜利需要争取，但奇迹却只能等待。\n但是磐石被磨成细沙，难道不是奇迹吗？\n你与我的相遇，难道不也是一种奇迹吗？\n\n空之杯\n**Название:** 奇迹之杯\n\n**Описание:** 清白的茶盏，其中闪烁着星光。\n过去曾有占卜者用它卜问吉凶，\n是相信水中能映出星辰的海洋。\n\n理之冠\n**Название:** 奇迹耳坠\n\n**Описание:** 一对不算昂贵的耳坠，以星光般闪亮的金属雕琢而成。\n商贩所不知的是，它的闪耀来自远古坠落大地的星星。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

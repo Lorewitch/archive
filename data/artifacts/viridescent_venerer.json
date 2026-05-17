@@ -1,0 +1,98 @@
+{
+  "id": "viridescent_venerer",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/viridescent_venerer.webp",
+  "title": {
+    "ru": "Изумрудная тень",
+    "en": "Viridescent Venerer",
+    "zh": "翠绿之影"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Воспоминания об изумрудных лугах\n\n**Описание:** Когда-то этот белый цветок рос по всем полям и лугам.\nОн нисколько не высох и до сих пор источает свежий аромат.\nКогда чудовища ещё не заполонили земли, и звери бродили повсюду без опаски, охотница использовала этот безымянный дикий цветок, чтобы они её не учуяли.\nСогласно старинным легендам молчаливую охотницу с добрым сердцем мог выследить тот, ктозакроет глаза и по лесам да по равнинам босиком проследует за тонким ароматом полевых цветов.\nНо ступать нужно очень мягко.\nМалейший шорох - и она вас услышит.\nВ других легендах говорится, что в конце концов охотницу смог найти один маленький мальчик.\nВ то время век бедствий наступил в древнем царстве, и всё наводнила погибель.",
+        "en": "**Название:** In Remembrance of Viridescent Fields\n\n**Описание:** A white wild flower that used to cover the earth.\nIt has not withered one bit, and still gives off an exquisite fragrance.\nIn the days when wildlife still roamed the earth and monsters had not yet appeared, the Viridescent Venerer would use this flower to conceal her human scent.\nThus it was said that to seek the silent and gentle Viridescent Venerer, one simply need to close one's eyes and walk barefoot through the forest, following the subtle fragrance of wild flowers.\nOnly those who could tread as softly as a hunter could avoid making the leaves crackle underfoot, alerting the queen of hunters to their presence.\nIt was also said that the one who eventually found the hunter was a boy.\nAt that time, disaster had just befallen the ancient kingdom and misery was spreading across the land.",
+        "zh": "**Название:** 野花记忆的绿野\n\n**Описание:** 曾经遍布大地，茂密生长的洁白野花。\n始终没有枯干，仍散发着清新的香气。\n在猎物横行大地的过去，彼时灾厄的魔物还没有诞生，猎人用现今已不知名的这种野花掩盖自己的人的气息。\n古时的人们传说，若是要寻找无言而温和的孤独猎人，就循着淡淡的野花香气，闭着眼赤脚在林间与原野走。\n只有像猎人那般行走，才不会踏碎落叶，令猎人警觉。\n另有传说：最终找到猎人的是个少年。\n彼时古国的灾厄刚刚发生。\n生灵涂炭。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Оперение стрелы изумрудного охотника\n\n**Описание:** Блестящее и гладкое перо хищной птицы.\nКогда-то оно служило оперением стрелы Изумрудного охотника.\nКаждого сражённого стрелой зверя охотница ласково успокаивала до тех пор, пока его жизненные силы не забирала обратно природа.\nВедь в тот мир, куда уходили души убитых животных, однажды отправится и она.\nОна верила, что в конце своей жизни охотники пробуждаются от реальности, и все, кто покинул этот мир, собираются на бескрайних охотничьих угодьях.\nНо также охотница знала, что чудовище, которое погналось за ребёнком, она убила не ради выживания, а из-за возмездия и страданий, и в те бескрайние угодья ей уже было не попасть.",
+        "en": "**Название:** Viridescent Arrow Feather\n\n**Описание:** A glossy and shining feather of a falcon.\nIt once served as a fine fletching on one of the Viridescent Venerer's arrows.\nIn the past, when the Viridescent Venerer's arrow hit its target, she would come down and stroke the fur of her prey gently until its life force returned to nature in peace.\nFor she knew that one day, she too would embark on a journey to the place where the souls of her prey rested.\nThe Viridescent Venerer believed that at the end of her life, she would wake up from reality, and be reunited with the departed at an endless hunting ground.\nBut she also believed that the moment her arrow pierced through the monster that had killed the boy, that endless hunting ground at the end of her life was gone from her grasp.\nFor she killed that mutated monster not for the sake of survival, but out of vengeance and suffering.",
+        "zh": "**Название:** 猎人青翠的箭羽\n\n**Описание:** 油亮光洁的猛禽翎羽，曾是箭簇尾羽的良材。\n在过去，猎人会无数次地安抚被箭矢穿透的猎物，直到它的生命平静地回归大地。\n因为她心里明白，她的猎物前往的那处地方，她终有一天也会到达。\n她相信温和的猎人在生命的末尾会从现实中醒来，在无边无际的猎场中与如今已经不再的人们团聚。\n但她也相信：在她放箭贯穿了追杀少年的魔物后，在她聆听了他的请求，为了替人复仇、为了痛苦，而不是为了生存、为了自然，猎杀畸变的魔物后，自己已经失去了那生命尽头的无边无际的猎场了。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Решимость изумрудного охотника\n\n**Описание:** Необычно устроенный маленький прибор, используемый для распознавания сторон света.\nСогласно легенде, трава и земля полей, лесов и луговшептали беззвучной босоногой охотнице о том, что видели с деревьев птицы, и что слышали под землёй корни.\nНо с тех пор, как начались бедствия, трава и корни умолкли, поскольку погибло их божество.\nТеперь ей время охоты приходилось полагаться на это устройство.\nВыслушав просьбу того мальчика, она перестала охотиться на зверей и птиц.\nЕё стрелы начали поражать чудовищ, приносящих страдания всему сущему.",
+        "en": "**Название:** Viridescent Venerer's Determination\n\n**Описание:** A delicate device used for wayfinding.\nLegend has it that when the Viridescent Venerer walked barefoot on the fields, the grass beneath her feet would tell her what the birds in the trees could see, and the mud she trod on would tell her what the roots in the earth could hear.\nBut it is said that ever since disaster struck, the grass and trees never spoke again.\nFor the God of the Woods had died in the disaster.\nSince then, she relied on this device for direction when hunting.\nAt the request of a boy she encountered, she ceased hunting birds and beasts.\nInstead, she made the monsters that brought destruction and suffering her prey.",
+        "zh": "**Название:** 翠绿猎人的笃定\n\n**Описание:** 构造奇特的小装置，能让人辨明方向与方位。\n传说，当猎人赤着脚在原野中静静地行走时，趾间的青草会告诉她，湿润的泥土会告诉她，大树上的雀鸟看见的，泥土里的树根听见的。\n传说，自从古国灾厄降临，草木就不再开口。\n因为司掌草木的神也在灾厄中，一同死去了。\n在那之后，她仰仗着这件仪器在大地上游猎。\n受少年所托，从此狩猎的不再是走兽与飞禽，而是自古国流出的，带来灾祸与痛苦的魔物。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Сосуд изумрудного охотника\n\n**Описание:** Очень крепкий и герметичный сосуд.\nЛегендарная охотница, расположившись у костра, наполняла его шёпотом.\nОднажды глубокой ночью на равнине она учуяла посторонних.\nВолки или чудовища были ей не страшны.\nБольше всего на свете её пугали беседы у костра, поскольку человеческий язык она давно позабыла.\nДаже когда она вернулась к людям и стала Изумрудным охотником, никто её речи так и не услышал, ровно как и никто никогда не увидел её следов.\nШутки и смех, что доносились до неё той ночью, она собрала в сосуд.\nИз года в год, когда ей бывало одиноко, она открывала сосуд и слушала доносившиеся из него голоса.",
+        "en": "**Название:** Viridescent Venerer's Vessel\n\n**Описание:** A very robust and leakproof vessel.\nA legendary hunter known as the Viridescent Venerer once used it to collect whispers by the campfire.\nOne night, the Viridescent Venerer picked up the scent of other human beings.\nAs a hunter, she feared neither wolf packs nor monsters.\nWhat she feared far more than this was joining the chatter by the campfire.\nFor she had long forgotten how to speak human language.\nEven after rejoining the humans and accepting her place as Viridescent Venerer, no one ever heard her say a single word.\nSimilarly, no one ever saw her leave a single trace behind.\nThe Viridescent Venerer collected the laughter she heard that night and stored it in her vessel.\nFor many years, she would listen back to the voices in the vessel whenever she felt lonely.",
+        "zh": "**Название:** 翠绿猎人的容器\n\n**Описание:** 非常结实耐用的容器，有着极佳的密封性。\n传说中的猎人曾将篝火边的细语装了进去。\n猎人曾经偶然在深夜的原野中嗅到他人的气味，面对群狼与魔物也毫无畏惧的她，最终仍没有加入火边对谈的胆量。\n那时的猎人已经忘记了人的语言应该如何发音。\n即便日后，她受人所托，成了翠绿的魔物猎手，也从没有人听过她说话，正如她从不留下足迹。\n…\n那夜，她将听见的谈笑声装进自己的水囊中，许多年里，每每感到孤寂，便倾听其中的声音。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Венок изумрудного охотника\n\n**Описание:** Охотничья шляпа без единого пятнышка крови.\nСогласно народным сказаньям принадлежала она некоронованной королеве охотниц.\nЗакон охотников гласит, что врагом земле и лесу быть нельзя.\nОхотнику должно стать частью природы, подобно безмолвному листу или ветви.\nГоворят, что однажды птица свила в этой шляпе гнездо.\nУвенчать эту выдающуюся охотницу короной не мог никто, ведь выше её была только сама природа.\nПозже, когда настал век бедствий, один вид этой зелёной шляпыповергал чудовищ в ужас.",
+        "en": "**Название:** Viridescent Venerer's Diadem\n\n**Описание:** A hunter's hat without any blood stains.\nIn folklore, it belonged to the uncrowned queen of hunters — the Viridescent Venerer.\n\"Never become the foe of the earth and the forest.\"\nThis was the hunters' rule.\nInstead, a hunter should become a silent part of nature.\nIt is said that a bird once built its nest in this hat.\nNone could ever bestow a crown upon the queen of hunters, since the only one superior to her was nature itself.\nIn the crisis that soon followed, her hunter's hat becamea frightful sight for monsters to behold.",
+        "zh": "**Название:** 翠绿的猎人之冠\n\n**Описание:** 从未沾染过一丝鲜血的猎人帽，属于民话中的无冕的猎人之王。\n猎者的法理是不与大地、森林为敌，而是成为自然当中无言的一枝一叶。\n据说曾经有鸟儿在这顶帽子里筑巢。\n无人能为最为杰出的猎人冠冕，因为高于她的只有自然的天地。\n后来这顶猎人帽的绿意成了灾厄中，在魔物中，令它们无比胆寒的光景。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Воспоминания об изумрудных лугах\n\n**Описание:** Когда-то этот белый цветок рос по всем полям и лугам.\nОн нисколько не высох и до сих пор источает свежий аромат.\nКогда чудовища ещё не заполонили земли, и звери бродили повсюду без опаски, охотница использовала этот безымянный дикий цветок, чтобы они её не учуяли.\nСогласно старинным легендам молчаливую охотницу с добрым сердцем мог выследить тот, ктозакроет глаза и по лесам да по равнинам босиком проследует за тонким ароматом полевых цветов.\nНо ступать нужно очень мягко.\nМалейший шорох - и она вас услышит.\nВ других легендах говорится, что в конце концов охотницу смог найти один маленький мальчик.\nВ то время век бедствий наступил в древнем царстве, и всё наводнила погибель.\n\nПеро смерти\n**Название:** Оперение стрелы изумрудного охотника\n\n**Описание:** Блестящее и гладкое перо хищной птицы.\nКогда-то оно служило оперением стрелы Изумрудного охотника.\nКаждого сражённого стрелой зверя охотница ласково успокаивала до тех пор, пока его жизненные силы не забирала обратно природа.\nВедь в тот мир, куда уходили души убитых животных, однажды отправится и она.\nОна верила, что в конце своей жизни охотники пробуждаются от реальности, и все, кто покинул этот мир, собираются на бескрайних охотничьих угодьях.\nНо также охотница знала, что чудовище, которое погналось за ребёнком, она убила не ради выживания, а из-за возмездия и страданий, и в те бескрайние угодья ей уже было не попасть.\n\nПески времени\n**Название:** Решимость изумрудного охотника\n\n**Описание:** Необычно устроенный маленький прибор, используемый для распознавания сторон света.\nСогласно легенде, трава и земля полей, лесов и луговшептали беззвучной босоногой охотнице о том, что видели с деревьев птицы, и что слышали под землёй корни.\nНо с тех пор, как начались бедствия, трава и корни умолкли, поскольку погибло их божество.\nТеперь ей время охоты приходилось полагаться на это устройство.\nВыслушав просьбу того мальчика, она перестала охотиться на зверей и птиц.\nЕё стрелы начали поражать чудовищ, приносящих страдания всему сущему.\n\nКубок пространства\n**Название:** Сосуд изумрудного охотника\n\n**Описание:** Очень крепкий и герметичный сосуд.\nЛегендарная охотница, расположившись у костра, наполняла его шёпотом.\nОднажды глубокой ночью на равнине она учуяла посторонних.\nВолки или чудовища были ей не страшны.\nБольше всего на свете её пугали беседы у костра, поскольку человеческий язык она давно позабыла.\nДаже когда она вернулась к людям и стала Изумрудным охотником, никто её речи так и не услышал, ровно как и никто никогда не увидел её следов.\nШутки и смех, что доносились до неё той ночью, она собрала в сосуд.\nИз года в год, когда ей бывало одиноко, она открывала сосуд и слушала доносившиеся из него голоса.\n\nКорона разума\n**Название:** Венок изумрудного охотника\n\n**Описание:** Охотничья шляпа без единого пятнышка крови.\nСогласно народным сказаньям принадлежала она некоронованной королеве охотниц.\nЗакон охотников гласит, что врагом земле и лесу быть нельзя.\nОхотнику должно стать частью природы, подобно безмолвному листу или ветви.\nГоворят, что однажды птица свила в этой шляпе гнездо.\nУвенчать эту выдающуюся охотницу короной не мог никто, ведь выше её была только сама природа.\nПозже, когда настал век бедствий, один вид этой зелёной шляпыповергал чудовищ в ужас.",
+    "en": "Flower of Life\n**Название:** In Remembrance of Viridescent Fields\n\n**Описание:** A white wild flower that used to cover the earth.\nIt has not withered one bit, and still gives off an exquisite fragrance.\nIn the days when wildlife still roamed the earth and monsters had not yet appeared, the Viridescent Venerer would use this flower to conceal her human scent.\nThus it was said that to seek the silent and gentle Viridescent Venerer, one simply need to close one's eyes and walk barefoot through the forest, following the subtle fragrance of wild flowers.\nOnly those who could tread as softly as a hunter could avoid making the leaves crackle underfoot, alerting the queen of hunters to their presence.\nIt was also said that the one who eventually found the hunter was a boy.\nAt that time, disaster had just befallen the ancient kingdom and misery was spreading across the land.\n\nPlume of Death\n**Название:** Viridescent Arrow Feather\n\n**Описание:** A glossy and shining feather of a falcon.\nIt once served as a fine fletching on one of the Viridescent Venerer's arrows.\nIn the past, when the Viridescent Venerer's arrow hit its target, she would come down and stroke the fur of her prey gently until its life force returned to nature in peace.\nFor she knew that one day, she too would embark on a journey to the place where the souls of her prey rested.\nThe Viridescent Venerer believed that at the end of her life, she would wake up from reality, and be reunited with the departed at an endless hunting ground.\nBut she also believed that the moment her arrow pierced through the monster that had killed the boy, that endless hunting ground at the end of her life was gone from her grasp.\nFor she killed that mutated monster not for the sake of survival, but out of vengeance and suffering.\n\nSands of Eon\n**Название:** Viridescent Venerer's Determination\n\n**Описание:** A delicate device used for wayfinding.\nLegend has it that when the Viridescent Venerer walked barefoot on the fields, the grass beneath her feet would tell her what the birds in the trees could see, and the mud she trod on would tell her what the roots in the earth could hear.\nBut it is said that ever since disaster struck, the grass and trees never spoke again.\nFor the God of the Woods had died in the disaster.\nSince then, she relied on this device for direction when hunting.\nAt the request of a boy she encountered, she ceased hunting birds and beasts.\nInstead, she made the monsters that brought destruction and suffering her prey.\n\nGoblet of Eonothem\n**Название:** Viridescent Venerer's Vessel\n\n**Описание:** A very robust and leakproof vessel.\nA legendary hunter known as the Viridescent Venerer once used it to collect whispers by the campfire.\nOne night, the Viridescent Venerer picked up the scent of other human beings.\nAs a hunter, she feared neither wolf packs nor monsters.\nWhat she feared far more than this was joining the chatter by the campfire.\nFor she had long forgotten how to speak human language.\nEven after rejoining the humans and accepting her place as Viridescent Venerer, no one ever heard her say a single word.\nSimilarly, no one ever saw her leave a single trace behind.\nThe Viridescent Venerer collected the laughter she heard that night and stored it in her vessel.\nFor many years, she would listen back to the voices in the vessel whenever she felt lonely.\n\nCirclet of Logos\n**Название:** Viridescent Venerer's Diadem\n\n**Описание:** A hunter's hat without any blood stains.\nIn folklore, it belonged to the uncrowned queen of hunters — the Viridescent Venerer.\n\"Never become the foe of the earth and the forest.\"\nThis was the hunters' rule.\nInstead, a hunter should become a silent part of nature.\nIt is said that a bird once built its nest in this hat.\nNone could ever bestow a crown upon the queen of hunters, since the only one superior to her was nature itself.\nIn the crisis that soon followed, her hunter's hat becamea frightful sight for monsters to behold.",
+    "zh": "生之花\n**Название:** 野花记忆的绿野\n\n**Описание:** 曾经遍布大地，茂密生长的洁白野花。\n始终没有枯干，仍散发着清新的香气。\n在猎物横行大地的过去，彼时灾厄的魔物还没有诞生，猎人用现今已不知名的这种野花掩盖自己的人的气息。\n古时的人们传说，若是要寻找无言而温和的孤独猎人，就循着淡淡的野花香气，闭着眼赤脚在林间与原野走。\n只有像猎人那般行走，才不会踏碎落叶，令猎人警觉。\n另有传说：最终找到猎人的是个少年。\n彼时古国的灾厄刚刚发生。\n生灵涂炭。\n\n死之羽\n**Название:** 猎人青翠的箭羽\n\n**Описание:** 油亮光洁的猛禽翎羽，曾是箭簇尾羽的良材。\n在过去，猎人会无数次地安抚被箭矢穿透的猎物，直到它的生命平静地回归大地。\n因为她心里明白，她的猎物前往的那处地方，她终有一天也会到达。\n她相信温和的猎人在生命的末尾会从现实中醒来，在无边无际的猎场中与如今已经不再的人们团聚。\n但她也相信：在她放箭贯穿了追杀少年的魔物后，在她聆听了他的请求，为了替人复仇、为了痛苦，而不是为了生存、为了自然，猎杀畸变的魔物后，自己已经失去了那生命尽头的无边无际的猎场了。\n\n时之沙\n**Название:** 翠绿猎人的笃定\n\n**Описание:** 构造奇特的小装置，能让人辨明方向与方位。\n传说，当猎人赤着脚在原野中静静地行走时，趾间的青草会告诉她，湿润的泥土会告诉她，大树上的雀鸟看见的，泥土里的树根听见的。\n传说，自从古国灾厄降临，草木就不再开口。\n因为司掌草木的神也在灾厄中，一同死去了。\n在那之后，她仰仗着这件仪器在大地上游猎。\n受少年所托，从此狩猎的不再是走兽与飞禽，而是自古国流出的，带来灾祸与痛苦的魔物。\n\n空之杯\n**Название:** 翠绿猎人的容器\n\n**Описание:** 非常结实耐用的容器，有着极佳的密封性。\n传说中的猎人曾将篝火边的细语装了进去。\n猎人曾经偶然在深夜的原野中嗅到他人的气味，面对群狼与魔物也毫无畏惧的她，最终仍没有加入火边对谈的胆量。\n那时的猎人已经忘记了人的语言应该如何发音。\n即便日后，她受人所托，成了翠绿的魔物猎手，也从没有人听过她说话，正如她从不留下足迹。\n…\n那夜，她将听见的谈笑声装进自己的水囊中，许多年里，每每感到孤寂，便倾听其中的声音。\n\n理之冠\n**Название:** 翠绿的猎人之冠\n\n**Описание:** 从未沾染过一丝鲜血的猎人帽，属于民话中的无冕的猎人之王。\n猎者的法理是不与大地、森林为敌，而是成为自然当中无言的一枝一叶。\n据说曾经有鸟儿在这顶帽子里筑巢。\n无人能为最为杰出的猎人冠冕，因为高于她的只有自然的天地。\n后来这顶猎人帽的绿意成了灾厄中，在魔物中，令它们无比胆寒的光景。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

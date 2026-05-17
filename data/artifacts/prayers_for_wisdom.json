@@ -1,0 +1,46 @@
+{
+  "id": "prayers_for_wisdom",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/prayers_for_wisdom.webp",
+  "title": {
+    "ru": "Шаман молнии",
+    "en": "Prayers for Wisdom",
+    "zh": "祭雷之人"
+  },
+  "region": "Тейват",
+  "piece_count": 1,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Тиара грома\n\n**Описание:** Говорят, чтокогда-то люди получали озарения прямиком от самих небес.\nВ те времена посланники богов ходили меж тёмных смертных.\nРеки и моря высохли, а в небе не стихали раскаты грома.\nЛюди принимали неизвестную им мудрость, и она приносила процветание.\nПроцветание породило гордыню и честолюбие, а также пытливость ума.\nВласть неба была подставлена под сомнение, и возникла дерзкая идея проникнуть в царство богов.\nПосланники богов, сулившие людям любовь, мудрость и процветание, были вне себя от гнева.\nВедь сомневаться в вечном было запрещено, а земле бросать небесам вызов - непростительно.\nПоэтому увенчанный белыми ветвями верховный жрец решил задобрить божественных посланников, и отправился в глубины мира за тайной мудростью, которая покоилась на ветвях серебряного древа.",
+        "en": "**Название:** Tiara of Thunder\n\n**Описание:** They say that, Once upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the waters ran dry as thunder first pierced the skies.\nPeople enjoyed untold wisdom, and that wisdom was their boon.\nTheir prosperity brought pride and ambition, and the mind to question.\nSo they questioned the heavens' authority, and schemed to enter the garden of gods.\nAnd though they had promised to the people divine love, prosperity and wisdom, the envoys of heaven were angry.\nFor to question eternity was forbidden, For earth to challenge sky, inexpiable.\nSo the chief priest who wore the white-branched crown went forth to appease the divine envoys, And into the deep places he went, seeking the hidden wisdom of the silver tree in the ancient capitol...",
+        "zh": "**Название:** 祭雷礼冠\n\n**Описание:** 据说：曾经有一个时代，地上的人们能直接听到来自天空的启示。\n神的使者行走在蒙昧的人当中。\n此时河海枯竭，雷鸣初动。\n人们享受着涌流而来的智慧。\n而智慧带来了繁荣。\n在最后繁荣带来了骄傲与梦想，以及提问的智识。\n为此疑问天空的权威，为此妄图登上诸神的庭园。\n即使许诺了神的爱、繁荣与智慧，天空的使者也为之震怒。\n因为，对永恒的怀疑是不允许的，尘泥之地对天空的试探，绝对不能原谅——头戴白枝祭冠的主祭之人，为了平息御使的怒火，走向了大地的至深之处，寻求古都中银树上掩藏着的智慧…"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Корона разума\n**Название:** Тиара грома\n\n**Описание:** Говорят, чтокогда-то люди получали озарения прямиком от самих небес.\nВ те времена посланники богов ходили меж тёмных смертных.\nРеки и моря высохли, а в небе не стихали раскаты грома.\nЛюди принимали неизвестную им мудрость, и она приносила процветание.\nПроцветание породило гордыню и честолюбие, а также пытливость ума.\nВласть неба была подставлена под сомнение, и возникла дерзкая идея проникнуть в царство богов.\nПосланники богов, сулившие людям любовь, мудрость и процветание, были вне себя от гнева.\nВедь сомневаться в вечном было запрещено, а земле бросать небесам вызов - непростительно.\nПоэтому увенчанный белыми ветвями верховный жрец решил задобрить божественных посланников, и отправился в глубины мира за тайной мудростью, которая покоилась на ветвях серебряного древа.",
+    "en": "Circlet of Logos\n**Название:** Tiara of Thunder\n\n**Описание:** They say that, Once upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the waters ran dry as thunder first pierced the skies.\nPeople enjoyed untold wisdom, and that wisdom was their boon.\nTheir prosperity brought pride and ambition, and the mind to question.\nSo they questioned the heavens' authority, and schemed to enter the garden of gods.\nAnd though they had promised to the people divine love, prosperity and wisdom, the envoys of heaven were angry.\nFor to question eternity was forbidden, For earth to challenge sky, inexpiable.\nSo the chief priest who wore the white-branched crown went forth to appease the divine envoys, And into the deep places he went, seeking the hidden wisdom of the silver tree in the ancient capitol...",
+    "zh": "理之冠\n**Название:** 祭雷礼冠\n\n**Описание:** 据说：曾经有一个时代，地上的人们能直接听到来自天空的启示。\n神的使者行走在蒙昧的人当中。\n此时河海枯竭，雷鸣初动。\n人们享受着涌流而来的智慧。\n而智慧带来了繁荣。\n在最后繁荣带来了骄傲与梦想，以及提问的智识。\n为此疑问天空的权威，为此妄图登上诸神的庭园。\n即使许诺了神的爱、繁荣与智慧，天空的使者也为之震怒。\n因为，对永恒的怀疑是不允许的，尘泥之地对天空的试探，绝对不能原谅——头戴白枝祭冠的主祭之人，为了平息御使的怒火，走向了大地的至深之处，寻求古都中银树上掩藏着的智慧…"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

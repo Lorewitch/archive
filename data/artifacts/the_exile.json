@@ -1,0 +1,98 @@
+{
+  "id": "the_exile",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/the_exile.webp",
+  "title": {
+    "ru": "Изгнанник",
+    "en": "The Exile",
+    "zh": "流放者"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Цветок изгнанника\n\n**Описание:** Это было время, когда изгнанные аристократы ещё не были втянуты в водоворот событий.\nТогда, до того, как плотный туман из заговоров и интриг навис над членами семьи, расцвёл этот цветок.\nПотрёпанный жизнью, видевший немало зверств изгнанник давно уже забыл о том, что такое нежность и душевное тепло.\nНо этот потерявший краски цветок и память о том, как искренне изгнанник улыбался, будучи ещё ребёнком, - две вещи, которые он до сих пор хранит в сердце.",
+        "en": "**Название:** Exile's Flower\n\n**Описание:** It all happened before the exiled aristocrat was involved in the family feud.\nThis flower bloomed before the first blood was shed.\nHaving witnessed the cruelty of humanity, the exile left his kindness and gentleness in the past.\nBut this faded flower and the innocent smile he once had will always be his treasure.",
+        "zh": "**Название:** 流放者之花\n\n**Описание:** 那是被流放的贵族还未卷入漩涡时发生的事情，那是在阴谋的雾霾尚未笼罩家族时盛放的鲜花。\n年岁将衰的流放者经历了许多残酷，早已淡忘了过往温柔，但这朵褪色的小花和幼时纯真的笑容是他精心保护的回忆。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Перо изгнанника\n\n**Описание:** Изгнанник проходил через леса и равнины, странствовал в безлюдных пустошах, И однажды из мутных гряд облаков на его плечо опустилось одинокое лазурное перо.\nОно принадлежало птице, скрывавшейся от хищного орла, и такая же судьба была и у изгнанника.\nСейчас оно - символ свободной птицы, подобно изгнаннику утратившей гнездо.",
+        "en": "**Название:** Exile's Feather\n\n**Описание:** Through plains and forests, the exile traveled alone in the wild.\nThrough thick layers of dark clouds, an azure feather fell on his shoulder.\nThe feather came from a panicked bird escaping from the falcon, just like the exile.\nThe feather represents the spirit of a nestless, free bird, just like the exile.",
+        "zh": "**Название:** 流放者之羽\n\n**Описание:** 流放者走过平原，穿过森林，在无人的旷野中独行，厚重灰暗的云层下，一枚湛蓝的鸟羽飘落在他肩上。\n这羽毛来自躲避猛禽的惊鸟，就像流放者一样。\n这信物来自无巢的自由之鸟，就像流放者一样。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Карманные часы изгнанника\n\n**Описание:** Когда-то в прошлом молодой аристократ получил эти часы.\nИскусно сделанные, мерно тикающие - они помнят минуты детства аристократа, но те беззаботные дни давно прошли.\nАристократ вынужден был пуститься в долгое изгнание.",
+        "en": "**Название:** Exile's Pocket Watch\n\n**Описание:** The aristocrat acquired this pocket watch back in his youth.\nThis delicate timepiece recorded every moment of his childhood.\nBut tragedy brought his carefree days to an abrupt end.\nThe aristocrat was forced into a long and lonesome exile.",
+        "zh": "**Название:** 流放者怀表\n\n**Описание:** 在短暂的往日时光里，年幼的贵族获得了一枚怀表。\n这精致的物件滴答作响，记录了流放者的童年时光，但无忧的时日在剧变中结束，不得不踏上流亡的漫漫长路。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Кубок изгнанника\n\n**Описание:** Серебряный кубок - семейная реликвия сосланного аристократа.\nКубок был инкрустирован драгоценным камнем с фамильным гербом.\nНо после того как изгнанник бросил тень позора на свою семью, он сам изъял этот герб, которым раньше гордился.\nСейчас кубок повреждён и не может держать жидкость.\nНо изгнанник по-прежнему носит его с собой, пока не вернётся.",
+        "en": "**Название:** Exile's Goblet\n\n**Описание:** This silver goblet is a family heirloom of an exiled aristocrat.\nThe exterior was once inlaid with a gem engraved with his family crest.\nBut after the exile had brought shame to his family, he carved out the symbol of which he was once proud.\nAs a result, this cup is broken and can no longer hold liquid.\nBut the exile still carries it with him until the end of his journey.",
+        "zh": "**Название:** 流放者之杯\n\n**Описание:** 被流放的贵族家传的银杯，外壁上镶嵌着刻有家族徽记的宝石。\n但在流放者令家族蒙羞之后，便挖去了自己曾引以为豪的标记。\n如今的杯盏已经残破，不再能够盛装液体。\n但流放者依旧随身携带，直至最终的归途。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Корона изгнанника\n\n**Описание:** Некогда изгнанник был членом знатной семьи.\nВ детстве он не знал забот и спокойно играл в залах, сплошь украшенных серебром.\nВ те далёкие времена венец на голове его отца был символом высокого авторитета и принадлежности к элите.\nМного лет назад, семейная вражда утопила разрушающийся дворец в крови.\nВенец этот, с которым изгнанник никогда не расставался, стал символом позора и доказательством его преступлений.",
+        "en": "**Название:** Exile's Circlet\n\n**Описание:** As a child, the exile lived in a noble house.\nHis childhood was carefree, and his playground was a palace built with silver.\nIn the times of old, the circlet of his father was a symbol of gentility and nobility.\nHowever, years later, a family feud painted the collapsing palace blood-red.\nThe circlet became the evidence of the exile's crime and has been with the exile ever since.",
+        "zh": "**Название:** 流放者头冠\n\n**Описание:** 流放者曾经也是贵胄之裔，幼时曾在白银堆砌的大殿间无忧地穿行。\n在那个久远的时代，父辈头上的冠冕曾是尊严的标志与高贵的象征。\n多年以后，在血亲相争的猩红迷雾之中，崩塌的大殿被血水所淹没。\n这尊蒙羞的头冠也成了流放者的罪证，随他一同踏上了流浪的旅程。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Цветок изгнанника\n\n**Описание:** Это было время, когда изгнанные аристократы ещё не были втянуты в водоворот событий.\nТогда, до того, как плотный туман из заговоров и интриг навис над членами семьи, расцвёл этот цветок.\nПотрёпанный жизнью, видевший немало зверств изгнанник давно уже забыл о том, что такое нежность и душевное тепло.\nНо этот потерявший краски цветок и память о том, как искренне изгнанник улыбался, будучи ещё ребёнком, - две вещи, которые он до сих пор хранит в сердце.\n\nПеро смерти\n**Название:** Перо изгнанника\n\n**Описание:** Изгнанник проходил через леса и равнины, странствовал в безлюдных пустошах, И однажды из мутных гряд облаков на его плечо опустилось одинокое лазурное перо.\nОно принадлежало птице, скрывавшейся от хищного орла, и такая же судьба была и у изгнанника.\nСейчас оно - символ свободной птицы, подобно изгнаннику утратившей гнездо.\n\nПески времени\n**Название:** Карманные часы изгнанника\n\n**Описание:** Когда-то в прошлом молодой аристократ получил эти часы.\nИскусно сделанные, мерно тикающие - они помнят минуты детства аристократа, но те беззаботные дни давно прошли.\nАристократ вынужден был пуститься в долгое изгнание.\n\nКубок пространства\n**Название:** Кубок изгнанника\n\n**Описание:** Серебряный кубок - семейная реликвия сосланного аристократа.\nКубок был инкрустирован драгоценным камнем с фамильным гербом.\nНо после того как изгнанник бросил тень позора на свою семью, он сам изъял этот герб, которым раньше гордился.\nСейчас кубок повреждён и не может держать жидкость.\nНо изгнанник по-прежнему носит его с собой, пока не вернётся.\n\nКорона разума\n**Название:** Корона изгнанника\n\n**Описание:** Некогда изгнанник был членом знатной семьи.\nВ детстве он не знал забот и спокойно играл в залах, сплошь украшенных серебром.\nВ те далёкие времена венец на голове его отца был символом высокого авторитета и принадлежности к элите.\nМного лет назад, семейная вражда утопила разрушающийся дворец в крови.\nВенец этот, с которым изгнанник никогда не расставался, стал символом позора и доказательством его преступлений.",
+    "en": "Flower of Life\n**Название:** Exile's Flower\n\n**Описание:** It all happened before the exiled aristocrat was involved in the family feud.\nThis flower bloomed before the first blood was shed.\nHaving witnessed the cruelty of humanity, the exile left his kindness and gentleness in the past.\nBut this faded flower and the innocent smile he once had will always be his treasure.\n\nPlume of Death\n**Название:** Exile's Feather\n\n**Описание:** Through plains and forests, the exile traveled alone in the wild.\nThrough thick layers of dark clouds, an azure feather fell on his shoulder.\nThe feather came from a panicked bird escaping from the falcon, just like the exile.\nThe feather represents the spirit of a nestless, free bird, just like the exile.\n\nSands of Eon\n**Название:** Exile's Pocket Watch\n\n**Описание:** The aristocrat acquired this pocket watch back in his youth.\nThis delicate timepiece recorded every moment of his childhood.\nBut tragedy brought his carefree days to an abrupt end.\nThe aristocrat was forced into a long and lonesome exile.\n\nGoblet of Eonothem\n**Название:** Exile's Goblet\n\n**Описание:** This silver goblet is a family heirloom of an exiled aristocrat.\nThe exterior was once inlaid with a gem engraved with his family crest.\nBut after the exile had brought shame to his family, he carved out the symbol of which he was once proud.\nAs a result, this cup is broken and can no longer hold liquid.\nBut the exile still carries it with him until the end of his journey.\n\nCirclet of Logos\n**Название:** Exile's Circlet\n\n**Описание:** As a child, the exile lived in a noble house.\nHis childhood was carefree, and his playground was a palace built with silver.\nIn the times of old, the circlet of his father was a symbol of gentility and nobility.\nHowever, years later, a family feud painted the collapsing palace blood-red.\nThe circlet became the evidence of the exile's crime and has been with the exile ever since.",
+    "zh": "生之花\n**Название:** 流放者之花\n\n**Описание:** 那是被流放的贵族还未卷入漩涡时发生的事情，那是在阴谋的雾霾尚未笼罩家族时盛放的鲜花。\n年岁将衰的流放者经历了许多残酷，早已淡忘了过往温柔，但这朵褪色的小花和幼时纯真的笑容是他精心保护的回忆。\n\n死之羽\n**Название:** 流放者之羽\n\n**Описание:** 流放者走过平原，穿过森林，在无人的旷野中独行，厚重灰暗的云层下，一枚湛蓝的鸟羽飘落在他肩上。\n这羽毛来自躲避猛禽的惊鸟，就像流放者一样。\n这信物来自无巢的自由之鸟，就像流放者一样。\n\n时之沙\n**Название:** 流放者怀表\n\n**Описание:** 在短暂的往日时光里，年幼的贵族获得了一枚怀表。\n这精致的物件滴答作响，记录了流放者的童年时光，但无忧的时日在剧变中结束，不得不踏上流亡的漫漫长路。\n\n空之杯\n**Название:** 流放者之杯\n\n**Описание:** 被流放的贵族家传的银杯，外壁上镶嵌着刻有家族徽记的宝石。\n但在流放者令家族蒙羞之后，便挖去了自己曾引以为豪的标记。\n如今的杯盏已经残破，不再能够盛装液体。\n但流放者依旧随身携带，直至最终的归途。\n\n理之冠\n**Название:** 流放者头冠\n\n**Описание:** 流放者曾经也是贵胄之裔，幼时曾在白银堆砌的大殿间无忧地穿行。\n在那个久远的时代，父辈头上的冠冕曾是尊严的标志与高贵的象征。\n多年以后，在血亲相争的猩红迷雾之中，崩塌的大殿被血水所淹没。\n这尊蒙羞的头冠也成了流放者的罪证，随他一同踏上了流浪的旅程。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

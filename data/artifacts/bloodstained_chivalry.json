@@ -1,0 +1,98 @@
+{
+  "id": "bloodstained_chivalry",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/bloodstained_chivalry.webp",
+  "title": {
+    "ru": "Рыцарь крови",
+    "en": "Bloodstained Chivalry",
+    "zh": "染血的骑士道"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Железное сердце рыцаря крови\n\n**Описание:** Простой белый цветок, который девушка подарила своему спасителю.\nЕго столько раз окропляла кровь и высушивал ветер, что он почернел и стал твёрдым.\nРыцарь спас девушку, сразив чудовище первый раз в своей жизни.\nОна желала отблагодарить его за храбрость, но он отверг всё, кроме белого цветка.\n«Возможность посвятить себя рыцарскому пути - уже награда.\n«Пусть этот цветок будет моей медалью.\nЭто всё, что мне нужно».\nОн всегда носил этот цветок у сердца.\nЕго лепестки, как и доспехи, засохшая кровь сделала чернее зимней ночи, а сердце рыцаря стало твёрже кованного железа.",
+        "en": "**Название:** Bloodstained Flower of Iron\n\n**Описание:** A common white flower given to the knight by a rescued damsel.\nIt is dried and hardened by the blood from all his bloodshed.\nThanking him for his valor, the damsel offered a reward.\nHe turned down all she gave, save for a pure white flower.\n\"For a knight, chivalry is its own reward.\"\n\"This flower shall be my medal.\nThat is all I need.\"\nHe wore the flower upon his heart.\nLike his armor, it was stained as black as a winter's night.\nLike his heart, it was hardened like a tempered blade.",
+        "zh": "**Название:** 染血的铁之心\n\n**Описание:** 原本是寻常的白花，由获救的仕女别在骑士胸前。\n但在杀伐中，被黑血反复浸泡风干，已经硬化了。\n游侠骑士第一次打倒魔物，将受难的仕女救下时，他拒绝了酬劳，因此获得了少女赠与的洁白的花。\n「骑士仅有的报酬就是践行骑士道」\n「我的奖章就是这朵花，如此足矣」\n这朵花一直别在他的胸前，直到被鲜血反复浸染，和骑士的银盔甲一样，变得像冬天的夜晚一样黑，又和骑士的心一样，变得像淬火后的锻铁一样硬。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Перо рыцаря крови\n\n**Описание:** Одно из бесчисленных вороньих перьев, которые налипали на окровавленные рыцарские доспехи.\nЧёрные как смоль стаи этих сметливых птиц летят туда, где льётся кровь.\nПосле стольких боёв рыцарь уже не различал, была то вражеская, или кровь собственная, что окрасила его когда-то блестящие латы в багровый цвет.\nНаконец он понял, что долгий рыцарский путь сквозь побоища превратил его извоина света на белом коне в кошмарное, жестокое чудище.\nПо неизменному кровавому следу за ним летело одно вороньё.",
+        "en": "**Название:** Bloodstained Black Plume\n\n**Описание:** One of the countless raven feathers stuck to the Bloodstained Knight.\nFor where there is blood, ravens shall follow.\nIn the end the Bloodstained Knight could no longer tellwhether the blood that stained him was his own or that of his enemies.\nEventually, on his long journey filled with bloodshed, he came to a realization: His path of so-called chivalry had turned him from the white knight he used to be into the monster he had now become.\nHis only followers were the ravens drawn to the bloodshed he left in his wake.",
+        "zh": "**Название:** 染血的黑之羽\n\n**Описание:** 偶然粘在染血骑士身上的无数漆黑鸦羽中的一枚。\n鸦是机敏的鸟类，会随嗜血的饲主同行寻觅猎获。\n最后染血骑士已经无法分辨，自己漫散的血腥味，究竟是敌人溅在他身上的血，还是自己流出的血。\n他终于明白，在自己长久的厮杀中，他的骑士道，使得曾经的纯白骑士变成了魔物一般可怖的恶鬼。\n跟随他的，只有循着他沾满血的足迹而来的鸦群。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Час долга рыцаря крови\n\n**Описание:** В бездне, где не было ни солнца, ни луны, ни звёзд, о времени, хоть оно и утратило всякий смысл, Рыцарю крови напоминали эти часы.\nИстория Рыцаря крови подходила к концу.\nДля него в этом мире места не осталось, и он отправился искать смерти в самой обители чудовищ - погибшем древнем королевстве.\nВ пропасти мира он узнал о происхождении чудовищ, которые древнее королевство разрушили.\n«Не по справедливости проклятье постигло великое древнее королевство, превратившее его народ в чудовищ.\nРыцарю мириться с таким злодейством не подобает.\nЕжели Бездна - имя твоё, на верность тебе я присягаю».",
+        "en": "**Название:** Bloodstained Final Hour\n\n**Описание:** Deep in the abyss, where celestial bodies cast no light, the Bloodstained Knight kept this timepiece, though time had lost all meaning.\nAt an end was the Bloodstained Knight's story, for he realized there was no place for him on this earth.\nHe ventured into the fallen ancient kingdom, and died in battle in the monsters' lair.\nAt the bottom of the world, he learned the origin of the monsters that destroyed the ancient kingdom.\n\"The ancient kingdom was wrongfully cursed, \"\"Turning its inhabitants into monsters.\"\n\"The code of chivalry tolerates not such injustice.\"\n\"If Abyss be thy name, I pledge to you my loyalty.\"",
+        "zh": "**Название:** 骑士染血之时\n\n**Описание:** 染血骑士踏入不见日、月、星、辰的深邃地底后，对时间仅有的参考道具。\n但时间最终失去了意义。\n这是染血的骑士最后的故事，从此他告别了人理。\n被血染黑的骑士明白地上已经没有了自己的位置，因此决定深入覆灭的古国，战死在魔物的温床前。\n在世界之底，他明白了古国终末魔物起源的故事。\n「伟大的古国被降下了不义的惩罚」\n「伟大的古国子民被歪曲成了怪物」\n「我的骑士道，岂能容忍此等不公」\n「若深渊是它的名，我便效忠深渊」"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Кубок рыцаря крови\n\n**Описание:** Когда-то это был изящный серебряный с позолотой кубок, гравюры на котором изображали подвиги великого рыцаря.\nЗасохшая кровь и чёрная копоть обезобразили его до неузнаваемости.\nРыцарь, услышав призыв о помощи, стал пробиваться сквозь чудовищк поваленным пожаром домам, но спасать было уже некого.\nВ обугленных развалинах поникший было рыцарь нашёл чёрный от сажи кубок, и поклялся истреблять зло, заступаться за слабых и помогать бедным до самой своей смерти.",
+        "en": "**Название:** Bloodstained Chevalier's Goblet\n\n**Описание:** Originally an exquisite silver goblet with gold engravings depicting the feats of a chivalrous knight.\nBut blood and smoke have stained the cup beyond recognition.\nCovered in blood, the knight who slayed demons returned from the scourged battlefield, Only to find that those awaiting his rescue were nowhere to be found among the burning, collapsed houses.\nDefeated, the Bloodstained Knight took the smoke-blackened goblet, and vowed to rid the world of monsters, of poverty and of evil.",
+        "zh": "**Название:** 染血骑士之杯\n\n**Описание:** 原本是精美的饰金银杯，曾经刻画了英雄的事迹。\n已经因为凝血与烟熏变得漆黑，无法辨别其原貌。\n猎魔骑士循着灾祸的狼烟，奔赴战场打倒魔物后，烧毁坍塌的屋舍中，已经不再有等待获救的人了。\n尝了失败苦果的骑士以废墟中熏黑的杯皿为信物，立誓要将骑士铲奸除恶扶弱济贫的信条贯彻到底。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Железная маска рыцаря крови\n\n**Описание:** Эту роскошную платиновую маску носил благородный рыцарь.\nТёмные пятна крови, полностью скрывшие блеск металла, останутся на ней навсегда.\nРыцарь разрубил очередное чудовище и протянул спасённой женщине руку, но она с пронзительным криком тут же отпрянула.\nИ тогда он понял, что засохшая кровь, вражеская и собственная, страшной маской легла на его лице, а постоянная резня превратила некогда чистые черты в зверский оскал.\n«Пусть эта маска скроет мойизуродованный годами кровопролития ликот тех, кого я поклялся защищать».",
+        "en": "**Название:** Bloodstained Iron Mask\n\n**Описание:** A luxurious platinum mask that once belonged to a knight of noble birth.\nThe dark stains of dry blood are now a permanent part of its appearance.\nAs the Bloodstained Knight reached out to help a person in need after slaying the monster, The way she cowered in fear made the knight realize: He was now a monster himself.\nTainted by the blood and cruelty of his drawn-out war.\n\"Shield me from the eyes\"\"Of those I vowed to protect.\"\n\"And shield them from the horrors I am bound to effect.\"",
+        "zh": "**Название:** 染血的铁假面\n\n**Описание:** 华丽的饰金白铁面具，曾经属于出身显赫的骑士。\n染上的黑血实在太多，已经彻底无法洗成原色了。\n骑士第一百次砍倒魔物，伸出手帮助受难的人时，她却尖叫着推开了他。\n直到那时染血骑士才知道，他的脸庞已经在不断战斗中染满自己和敌人的血。\n他的面容已经在长久厮杀中变得远比魔物更狰狞。\n「那就让这副铁面具替代我的脸吧」\n「让我的骑士道守护的人不必直视」\n「我因为血战，而变得可憎的面目」"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Железное сердце рыцаря крови\n\n**Описание:** Простой белый цветок, который девушка подарила своему спасителю.\nЕго столько раз окропляла кровь и высушивал ветер, что он почернел и стал твёрдым.\nРыцарь спас девушку, сразив чудовище первый раз в своей жизни.\nОна желала отблагодарить его за храбрость, но он отверг всё, кроме белого цветка.\n«Возможность посвятить себя рыцарскому пути - уже награда.\n«Пусть этот цветок будет моей медалью.\nЭто всё, что мне нужно».\nОн всегда носил этот цветок у сердца.\nЕго лепестки, как и доспехи, засохшая кровь сделала чернее зимней ночи, а сердце рыцаря стало твёрже кованного железа.\n\nПеро смерти\n**Название:** Перо рыцаря крови\n\n**Описание:** Одно из бесчисленных вороньих перьев, которые налипали на окровавленные рыцарские доспехи.\nЧёрные как смоль стаи этих сметливых птиц летят туда, где льётся кровь.\nПосле стольких боёв рыцарь уже не различал, была то вражеская, или кровь собственная, что окрасила его когда-то блестящие латы в багровый цвет.\nНаконец он понял, что долгий рыцарский путь сквозь побоища превратил его извоина света на белом коне в кошмарное, жестокое чудище.\nПо неизменному кровавому следу за ним летело одно вороньё.\n\nПески времени\n**Название:** Час долга рыцаря крови\n\n**Описание:** В бездне, где не было ни солнца, ни луны, ни звёзд, о времени, хоть оно и утратило всякий смысл, Рыцарю крови напоминали эти часы.\nИстория Рыцаря крови подходила к концу.\nДля него в этом мире места не осталось, и он отправился искать смерти в самой обители чудовищ - погибшем древнем королевстве.\nВ пропасти мира он узнал о происхождении чудовищ, которые древнее королевство разрушили.\n«Не по справедливости проклятье постигло великое древнее королевство, превратившее его народ в чудовищ.\nРыцарю мириться с таким злодейством не подобает.\nЕжели Бездна - имя твоё, на верность тебе я присягаю».\n\nКубок пространства\n**Название:** Кубок рыцаря крови\n\n**Описание:** Когда-то это был изящный серебряный с позолотой кубок, гравюры на котором изображали подвиги великого рыцаря.\nЗасохшая кровь и чёрная копоть обезобразили его до неузнаваемости.\nРыцарь, услышав призыв о помощи, стал пробиваться сквозь чудовищк поваленным пожаром домам, но спасать было уже некого.\nВ обугленных развалинах поникший было рыцарь нашёл чёрный от сажи кубок, и поклялся истреблять зло, заступаться за слабых и помогать бедным до самой своей смерти.\n\nКорона разума\n**Название:** Железная маска рыцаря крови\n\n**Описание:** Эту роскошную платиновую маску носил благородный рыцарь.\nТёмные пятна крови, полностью скрывшие блеск металла, останутся на ней навсегда.\nРыцарь разрубил очередное чудовище и протянул спасённой женщине руку, но она с пронзительным криком тут же отпрянула.\nИ тогда он понял, что засохшая кровь, вражеская и собственная, страшной маской легла на его лице, а постоянная резня превратила некогда чистые черты в зверский оскал.\n«Пусть эта маска скроет мойизуродованный годами кровопролития ликот тех, кого я поклялся защищать».",
+    "en": "Flower of Life\n**Название:** Bloodstained Flower of Iron\n\n**Описание:** A common white flower given to the knight by a rescued damsel.\nIt is dried and hardened by the blood from all his bloodshed.\nThanking him for his valor, the damsel offered a reward.\nHe turned down all she gave, save for a pure white flower.\n\"For a knight, chivalry is its own reward.\"\n\"This flower shall be my medal.\nThat is all I need.\"\nHe wore the flower upon his heart.\nLike his armor, it was stained as black as a winter's night.\nLike his heart, it was hardened like a tempered blade.\n\nPlume of Death\n**Название:** Bloodstained Black Plume\n\n**Описание:** One of the countless raven feathers stuck to the Bloodstained Knight.\nFor where there is blood, ravens shall follow.\nIn the end the Bloodstained Knight could no longer tellwhether the blood that stained him was his own or that of his enemies.\nEventually, on his long journey filled with bloodshed, he came to a realization: His path of so-called chivalry had turned him from the white knight he used to be into the monster he had now become.\nHis only followers were the ravens drawn to the bloodshed he left in his wake.\n\nSands of Eon\n**Название:** Bloodstained Final Hour\n\n**Описание:** Deep in the abyss, where celestial bodies cast no light, the Bloodstained Knight kept this timepiece, though time had lost all meaning.\nAt an end was the Bloodstained Knight's story, for he realized there was no place for him on this earth.\nHe ventured into the fallen ancient kingdom, and died in battle in the monsters' lair.\nAt the bottom of the world, he learned the origin of the monsters that destroyed the ancient kingdom.\n\"The ancient kingdom was wrongfully cursed, \"\"Turning its inhabitants into monsters.\"\n\"The code of chivalry tolerates not such injustice.\"\n\"If Abyss be thy name, I pledge to you my loyalty.\"\n\nGoblet of Eonothem\n**Название:** Bloodstained Chevalier's Goblet\n\n**Описание:** Originally an exquisite silver goblet with gold engravings depicting the feats of a chivalrous knight.\nBut blood and smoke have stained the cup beyond recognition.\nCovered in blood, the knight who slayed demons returned from the scourged battlefield, Only to find that those awaiting his rescue were nowhere to be found among the burning, collapsed houses.\nDefeated, the Bloodstained Knight took the smoke-blackened goblet, and vowed to rid the world of monsters, of poverty and of evil.\n\nCirclet of Logos\n**Название:** Bloodstained Iron Mask\n\n**Описание:** A luxurious platinum mask that once belonged to a knight of noble birth.\nThe dark stains of dry blood are now a permanent part of its appearance.\nAs the Bloodstained Knight reached out to help a person in need after slaying the monster, The way she cowered in fear made the knight realize: He was now a monster himself.\nTainted by the blood and cruelty of his drawn-out war.\n\"Shield me from the eyes\"\"Of those I vowed to protect.\"\n\"And shield them from the horrors I am bound to effect.\"",
+    "zh": "生之花\n**Название:** 染血的铁之心\n\n**Описание:** 原本是寻常的白花，由获救的仕女别在骑士胸前。\n但在杀伐中，被黑血反复浸泡风干，已经硬化了。\n游侠骑士第一次打倒魔物，将受难的仕女救下时，他拒绝了酬劳，因此获得了少女赠与的洁白的花。\n「骑士仅有的报酬就是践行骑士道」\n「我的奖章就是这朵花，如此足矣」\n这朵花一直别在他的胸前，直到被鲜血反复浸染，和骑士的银盔甲一样，变得像冬天的夜晚一样黑，又和骑士的心一样，变得像淬火后的锻铁一样硬。\n\n死之羽\n**Название:** 染血的黑之羽\n\n**Описание:** 偶然粘在染血骑士身上的无数漆黑鸦羽中的一枚。\n鸦是机敏的鸟类，会随嗜血的饲主同行寻觅猎获。\n最后染血骑士已经无法分辨，自己漫散的血腥味，究竟是敌人溅在他身上的血，还是自己流出的血。\n他终于明白，在自己长久的厮杀中，他的骑士道，使得曾经的纯白骑士变成了魔物一般可怖的恶鬼。\n跟随他的，只有循着他沾满血的足迹而来的鸦群。\n\n时之沙\n**Название:** 骑士染血之时\n\n**Описание:** 染血骑士踏入不见日、月、星、辰的深邃地底后，对时间仅有的参考道具。\n但时间最终失去了意义。\n这是染血的骑士最后的故事，从此他告别了人理。\n被血染黑的骑士明白地上已经没有了自己的位置，因此决定深入覆灭的古国，战死在魔物的温床前。\n在世界之底，他明白了古国终末魔物起源的故事。\n「伟大的古国被降下了不义的惩罚」\n「伟大的古国子民被歪曲成了怪物」\n「我的骑士道，岂能容忍此等不公」\n「若深渊是它的名，我便效忠深渊」\n\n空之杯\n**Название:** 染血骑士之杯\n\n**Описание:** 原本是精美的饰金银杯，曾经刻画了英雄的事迹。\n已经因为凝血与烟熏变得漆黑，无法辨别其原貌。\n猎魔骑士循着灾祸的狼烟，奔赴战场打倒魔物后，烧毁坍塌的屋舍中，已经不再有等待获救的人了。\n尝了失败苦果的骑士以废墟中熏黑的杯皿为信物，立誓要将骑士铲奸除恶扶弱济贫的信条贯彻到底。\n\n理之冠\n**Название:** 染血的铁假面\n\n**Описание:** 华丽的饰金白铁面具，曾经属于出身显赫的骑士。\n染上的黑血实在太多，已经彻底无法洗成原色了。\n骑士第一百次砍倒魔物，伸出手帮助受难的人时，她却尖叫着推开了他。\n直到那时染血骑士才知道，他的脸庞已经在不断战斗中染满自己和敌人的血。\n他的面容已经在长久厮杀中变得远比魔物更狰狞。\n「那就让这副铁面具替代我的脸吧」\n「让我的骑士道守护的人不必直视」\n「我因为血战，而变得可憎的面目」"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

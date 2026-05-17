@@ -1,0 +1,98 @@
+{
+  "id": "scholar",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/scholar.webp",
+  "title": {
+    "ru": "Учёный",
+    "en": "Scholar",
+    "zh": "学士"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Закладка учёного\n\n**Описание:** Учёной, живущей в удалённом от мира уголке среди одних лишь книг редко удавалось увидеть живые цветы.\nОднажды восхищённый учёной юноша, чтобы скрасить её одиночество, принёс ей экзотический цветок.\nУчёная трепетно хранила этот подарок: она засушила цветок и поместила его меж страниц огромного фолианта.\nС тех пор этот цветок был разноцветным огоньком среди гор серых, скучных книг и свитков.",
+        "en": "**Название:** Scholar's Bookmark\n\n**Описание:** Flowers were a rare sight for the scholar who lived in her ivory tower, buried under piles of books.\nA young man, who admired the scholar, once gave her this exotic flower in the hope of bringing some life to the dull and lonely days she spent in her study.\nThe scholar accepted the gift gratefully and made a flower bookmark with it.\nEver since then, there has always been a splash of vivid color hidden somewhere in the pages of the dull piles of books.",
+        "zh": "**Название:** 学士的书签\n\n**Описание:** 在埋首书海的生活中，象牙塔内的学士罕有见识鲜花的机会。\n为了排解书斋中的孤独，仰慕学士的少年带来了异域的花朵。\n学士精心收藏了这份心意，将它风干，在厚厚的书页间夹紧。\n从此以后，在学士如山的灰暗书卷中，多了一抹惊艳的色彩。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Перо учёного\n\n**Описание:** Писчее перо учёной, сделанное из пера заморской птицы.\nИз-за непрерывного использования в него намертво въелись чернила.\nУчёная пользовалась пером на протяжении многих лет и ни разу не меняла его.\nКак клинок становится будто продолжением солдата, долгое время находившегося на поле боя, так и перо стало оружием, с которым она давно сроднилась.",
+        "en": "**Название:** Scholar's Quill Pen\n\n**Описание:** The scholar's quill pen is made from the feather of an exotic bird.\nAfter an enormous amount of writing, the feather has been stained black.\nIn all her years, the scholar never thought of changing her stained quill pen for a new one.\nJust as an old soldier feels most at ease with his own weapon, the scholar needed her familiar quill pen.",
+        "zh": "**Название:** 学士的羽笔\n\n**Описание:** 学士的羽毛笔，由异域飞鸟的尾羽制成。\n由于笔耕不辍，已被染成了庄严的黑色。\n多年以来，学士从未更换过手中已染黑的羽笔。\n正如久历战场的士兵，羽笔是她最趁手的武器。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Часы учёного\n\n**Описание:** Искусно сделанные часы, стоявшие на столе у учёной ровно в том месте, где их было бы труднее всего уронить.\nВ глубинах своей библиотеки учёная почти не видела белого света, и от того часто теряла ощущение времени.\nЭти прекрасные часы вели её в течение всей аскетической жизни, позволяя ей планировать свои следующие шаги.\nВ конечном счёте учёная не зря потратила столько времени, и мудрость, наконец, снизойдёт на неё в этой библиотеке.",
+        "en": "**Название:** Scholar's Clock\n\n**Описание:** A delicate clock placed carefully on the scholar's desk.\nSpending days and nights in her study, the scholar lost all sense of time.\nThis exquisite clock served as a beacon guiding the scholar in her relentless pursuit of knowledge.\nThe time the scholar spent would prove to be fruitful.\nKnowledge would find its way to her.",
+        "zh": "**Название:** 学士的时钟\n\n**Описание:** 小巧精致的座钟，被精心摆放在学士书桌上不易被碰掉的位置。\n埋首书斋的学士常年不见天日，对于时间的感触如同盲人观物。\n这小巧的座钟在学术的苦行中指引方向，让学士得以规划前路。\n当智慧最终降临这间书斋，学士消耗的长久时光终究不会白费。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Чернильница учёного\n\n**Описание:** Изящная чайная чашка, со стола учёной.\nОна изготовлена из тонкого фарфора, а на кромку нанесена тонкая линия позолоты.\nСовершенно несочетающаяся с царившим в кабинете учёной бардаком, чашка выглядит так, будто её хозяйка была родом из весьма небедной семьи.\nНо, кажется, ученая не придавала этому значения и держала в чашке перья для письма.\nОна использовала её лишь для промывания перьев, и чашка, покрытая чернильными разводами, давно потеряла былую красоту.",
+        "en": "**Название:** Scholar's Ink Cup\n\n**Описание:** A delicate tea cup that belonged to a scholar.\nThis treasured cup is made of light porcelain and gilded with gold stripes.\nThe dainty cup was in stark contrast with the messy room in which it was found, but seemed to suggest that the scholar was from a well-to-do family.\nNot caring about the beauty and purpose of the tea cup, the scholar in her ivory tower dipped her quill pen in it.\nShe only saw it as a convenient ware to wash the tip.\nNow covered in ink stains, the cup has long since lost its former elegance.",
+        "zh": "**Название:** 学士的墨杯\n\n**Описание:** 学士书桌上雅致的茶杯，以轻薄的陶瓷制成，勾勒着鎏金的花边。\n与书斋内杂乱的景象格格不入，似乎足以表明她的家世并不简单。\n但孤高的学士却从不在乎这茶杯的美感与用途，将羽笔浸入其中。\n她仅将它当成了清洗笔头的小小墨池，任之被墨汁染得漆黑丑陋。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Очки учёного\n\n**Описание:** Наука всё равно что азартная игра.\nТы можешь посвятить ей всю жизнь и в итоге не получить ничего.\nУчёная полжизни посвятила записям, бесконечным исследованиям, расчётам, толкованиям, снова и снова тратила время на неудачи и затруднения.\nНекогда острое зрение сейчас, из-за непрерывного чтения, стало подводить её, но до сих пор не известно, когда придёт время получить ответы на все её вопросы.",
+        "en": "**Название:** Scholar's Lens\n\n**Описание:** The pursuit of knowledge is a risky gamble.\nEven after devoting one's entire life to it, it may prove to have been futile.\nThe scholar spent half of her lifetime in endless research, taking notes and making calculations.\nHaving failed to find the answers she was looking for, she once hesitated and questioned her career choice, thus wasting further time.\nHer once sharp eyesight had also been damaged by intensive reading.\nAll this, and the answers she sought were still beyond her reach.",
+        "zh": "**Название:** 学士的镜片\n\n**Описание:** 学术是代价昂贵的赌局，即使投入一生，也可能一无所得。\n学士在无尽的笔记与检索、计算与注解中度过半生的时日，又因失败与裹足不前消耗了大好的光阴。\n曾经敏锐的视力如今已被频繁阅读损害，但最终答案来临的时刻依然是遥遥无期。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Закладка учёного\n\n**Описание:** Учёной, живущей в удалённом от мира уголке среди одних лишь книг редко удавалось увидеть живые цветы.\nОднажды восхищённый учёной юноша, чтобы скрасить её одиночество, принёс ей экзотический цветок.\nУчёная трепетно хранила этот подарок: она засушила цветок и поместила его меж страниц огромного фолианта.\nС тех пор этот цветок был разноцветным огоньком среди гор серых, скучных книг и свитков.\n\nПеро смерти\n**Название:** Перо учёного\n\n**Описание:** Писчее перо учёной, сделанное из пера заморской птицы.\nИз-за непрерывного использования в него намертво въелись чернила.\nУчёная пользовалась пером на протяжении многих лет и ни разу не меняла его.\nКак клинок становится будто продолжением солдата, долгое время находившегося на поле боя, так и перо стало оружием, с которым она давно сроднилась.\n\nПески времени\n**Название:** Часы учёного\n\n**Описание:** Искусно сделанные часы, стоявшие на столе у учёной ровно в том месте, где их было бы труднее всего уронить.\nВ глубинах своей библиотеки учёная почти не видела белого света, и от того часто теряла ощущение времени.\nЭти прекрасные часы вели её в течение всей аскетической жизни, позволяя ей планировать свои следующие шаги.\nВ конечном счёте учёная не зря потратила столько времени, и мудрость, наконец, снизойдёт на неё в этой библиотеке.\n\nКубок пространства\n**Название:** Чернильница учёного\n\n**Описание:** Изящная чайная чашка, со стола учёной.\nОна изготовлена из тонкого фарфора, а на кромку нанесена тонкая линия позолоты.\nСовершенно несочетающаяся с царившим в кабинете учёной бардаком, чашка выглядит так, будто её хозяйка была родом из весьма небедной семьи.\nНо, кажется, ученая не придавала этому значения и держала в чашке перья для письма.\nОна использовала её лишь для промывания перьев, и чашка, покрытая чернильными разводами, давно потеряла былую красоту.\n\nКорона разума\n**Название:** Очки учёного\n\n**Описание:** Наука всё равно что азартная игра.\nТы можешь посвятить ей всю жизнь и в итоге не получить ничего.\nУчёная полжизни посвятила записям, бесконечным исследованиям, расчётам, толкованиям, снова и снова тратила время на неудачи и затруднения.\nНекогда острое зрение сейчас, из-за непрерывного чтения, стало подводить её, но до сих пор не известно, когда придёт время получить ответы на все её вопросы.",
+    "en": "Flower of Life\n**Название:** Scholar's Bookmark\n\n**Описание:** Flowers were a rare sight for the scholar who lived in her ivory tower, buried under piles of books.\nA young man, who admired the scholar, once gave her this exotic flower in the hope of bringing some life to the dull and lonely days she spent in her study.\nThe scholar accepted the gift gratefully and made a flower bookmark with it.\nEver since then, there has always been a splash of vivid color hidden somewhere in the pages of the dull piles of books.\n\nPlume of Death\n**Название:** Scholar's Quill Pen\n\n**Описание:** The scholar's quill pen is made from the feather of an exotic bird.\nAfter an enormous amount of writing, the feather has been stained black.\nIn all her years, the scholar never thought of changing her stained quill pen for a new one.\nJust as an old soldier feels most at ease with his own weapon, the scholar needed her familiar quill pen.\n\nSands of Eon\n**Название:** Scholar's Clock\n\n**Описание:** A delicate clock placed carefully on the scholar's desk.\nSpending days and nights in her study, the scholar lost all sense of time.\nThis exquisite clock served as a beacon guiding the scholar in her relentless pursuit of knowledge.\nThe time the scholar spent would prove to be fruitful.\nKnowledge would find its way to her.\n\nGoblet of Eonothem\n**Название:** Scholar's Ink Cup\n\n**Описание:** A delicate tea cup that belonged to a scholar.\nThis treasured cup is made of light porcelain and gilded with gold stripes.\nThe dainty cup was in stark contrast with the messy room in which it was found, but seemed to suggest that the scholar was from a well-to-do family.\nNot caring about the beauty and purpose of the tea cup, the scholar in her ivory tower dipped her quill pen in it.\nShe only saw it as a convenient ware to wash the tip.\nNow covered in ink stains, the cup has long since lost its former elegance.\n\nCirclet of Logos\n**Название:** Scholar's Lens\n\n**Описание:** The pursuit of knowledge is a risky gamble.\nEven after devoting one's entire life to it, it may prove to have been futile.\nThe scholar spent half of her lifetime in endless research, taking notes and making calculations.\nHaving failed to find the answers she was looking for, she once hesitated and questioned her career choice, thus wasting further time.\nHer once sharp eyesight had also been damaged by intensive reading.\nAll this, and the answers she sought were still beyond her reach.",
+    "zh": "生之花\n**Название:** 学士的书签\n\n**Описание:** 在埋首书海的生活中，象牙塔内的学士罕有见识鲜花的机会。\n为了排解书斋中的孤独，仰慕学士的少年带来了异域的花朵。\n学士精心收藏了这份心意，将它风干，在厚厚的书页间夹紧。\n从此以后，在学士如山的灰暗书卷中，多了一抹惊艳的色彩。\n\n死之羽\n**Название:** 学士的羽笔\n\n**Описание:** 学士的羽毛笔，由异域飞鸟的尾羽制成。\n由于笔耕不辍，已被染成了庄严的黑色。\n多年以来，学士从未更换过手中已染黑的羽笔。\n正如久历战场的士兵，羽笔是她最趁手的武器。\n\n时之沙\n**Название:** 学士的时钟\n\n**Описание:** 小巧精致的座钟，被精心摆放在学士书桌上不易被碰掉的位置。\n埋首书斋的学士常年不见天日，对于时间的感触如同盲人观物。\n这小巧的座钟在学术的苦行中指引方向，让学士得以规划前路。\n当智慧最终降临这间书斋，学士消耗的长久时光终究不会白费。\n\n空之杯\n**Название:** 学士的墨杯\n\n**Описание:** 学士书桌上雅致的茶杯，以轻薄的陶瓷制成，勾勒着鎏金的花边。\n与书斋内杂乱的景象格格不入，似乎足以表明她的家世并不简单。\n但孤高的学士却从不在乎这茶杯的美感与用途，将羽笔浸入其中。\n她仅将它当成了清洗笔头的小小墨池，任之被墨汁染得漆黑丑陋。\n\n理之冠\n**Название:** 学士的镜片\n\n**Описание:** 学术是代价昂贵的赌局，即使投入一生，也可能一无所得。\n学士在无尽的笔记与检索、计算与注解中度过半生的时日，又因失败与裹足不前消耗了大好的光阴。\n曾经敏锐的视力如今已被频繁阅读损害，但最终答案来临的时刻依然是遥遥无期。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

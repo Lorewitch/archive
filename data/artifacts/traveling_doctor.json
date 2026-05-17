@@ -1,0 +1,98 @@
+{
+  "id": "traveling_doctor",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/traveling_doctor.webp",
+  "title": {
+    "ru": "Целитель",
+    "en": "Traveling Doctor",
+    "zh": "游医"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Серебряный лотос целителя\n\n**Описание:** Целительница прошла по всему миру, и, благодаря своей страсти к приключениям, отыскала множество редких целебных трав.\nНа крутом обрыве, среди скользких камней она обнаружила серебряный лотос.\nОна так и не приготовила из него лекарство, но его аромат всегда придавал ей сил.",
+        "en": "**Название:** Traveling Doctor's Silver Lotus\n\n**Описание:** The doctor traveled across the land in search of rare herbs, with the zeal of an adventurer.\nOn a steep cliff between slippery rocks, she found this silver lotus.\nThe lotus was never made into medicine, but its scent gave her the strength to go on from that day forward.",
+        "zh": "**Название:** 游医的银莲\n\n**Описание:** 漫步大地的游医，以冒险家的热情搜罗着珍稀药材。\n在险峻的山崖上，湿滑的岩石间，她发现一株银莲。\n到最后，药始终没派上用场，花香却一直鼓舞着她。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Совиное перо целителя\n\n**Описание:** Даже непроглядная, тёмная ночь не остановит целителя, спешащего к больному.\nМного опасностей скрыто в ночи, и путнику всегда следует быть начеку, подобно чуткой сове.\nНо проводя ночи как сова, без сна и отдыха, целитель в конце концов заболевает сам.",
+        "en": "**Название:** Traveling Doctor's Owl Feather\n\n**Описание:** Even the pitch-black night could not stand between the traveling doctor and her patients.\nDanger lurks in every corner at night.\nThose who venture out must be as vigilant as the owl.\nBut unlike the owl, the endless nights without rest eventually took their toll on the traveling doctor, and she fell ill.",
+        "zh": "**Название:** 游医的枭羽\n\n**Описание:** 即使在不见五指的深夜，游医也要及时出诊，夜幕之中隐藏着无数危险，行人须警醒如枭。\n如夜枭般无休止的守望，最终使游医病倒了。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Карманные часы целителя\n\n**Описание:** При лечении смертельно больного человека целитель не должен терять ни секунды.\nБлагодаря своей точности, эти карманные часы всегда помогали целительнице спасать людей.\nНо в последние годы жизни, когда больная целительница лежала в постели, эти часы мерно тикали уже для неё самой.\nБудучи в прошлом инструментом, спасавшим жизни, теперь они пели для неё прощальную песнь.",
+        "en": "**Название:** Traveling Doctor's Pocket Watch\n\n**Описание:** When treating a dying patient, every second counts.\nThe accuracy of this watch had helped the traveling doctor turn the tide numerous times.\nBut as she lay alone on the sickbed in her final days, all she could do was savor its sound, each tick standing for one of the precious moments of life she had left.\nWhat used to be a tool to save lives now sang a final elegy for its owner.",
+        "zh": "**Название:** 游医的怀钟\n\n**Описание:** 有时面对性命垂危的伤患，游医不得不争分夺秒。\n怀钟总是分秒不差，助她在拯救伤患于危难之中。\n但当晚年的游医独卧病榻，耳边也只有怀钟滴答作响。\n为脱离危险报时的道具，最终唱出了游医自己的哀歌。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Чайничек целителя\n\n**Описание:** Это лекарство давно высохло, но резкий запах остался.\nНекогда целительница спасла много жизней этим горьким отваром.\nИ когда заболела она сама, лишь это лекарство, приготовленное на печи в небольшом чайничке, смогло поднять её на ноги.",
+        "en": "**Название:** Traveling Doctor's Medicine Pot\n\n**Описание:** The medicine has long dried up, but its bitter smell still lingers in this pot.\nWith that bitter medicine, the traveling doctor saved countless lives.\nAnd when she fell seriously ill, no one was there for her except for the medicine pot on the furnace.",
+        "zh": "**Название:** 游医的药壶\n\n**Описание:** 浓重的药汤早已干涸，苦涩的气味却无法散去。\n游医曾用这陶壶中极苦的汤汁拯救了许多病患。\n当她身患痼疾时，却只有炉灶上药壶为她叹息。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Платок целителя\n\n**Описание:** В те дни, когда целительнице приходилось часто переезжать с места на место, она каждый раз собиралась в спешке.\nНи солнце, ни дождь - ничто не могло остановить её.\nНе только прикрывавший её непослушные волосы, но и не раз служивший для перевязки раненых, платок целителя прошёл с ней и огонь, и воду, и был целительнице самым верным товарищем в пути.",
+        "en": "**Название:** Traveling Doctor's Handkerchief\n\n**Описание:** Back when the traveling doctor roamed from place to place, her days were busy and she hurried between appointments.\nCome sun or rain, nothing could keep her from her work.\nThis handkerchief not only protected her messy hair, it also served as a bandage.\nIt saw her through all her hardships and became her most loyal partner on her journey.",
+        "zh": "**Название:** 游医的方巾\n\n**Описание:** 在那些居无定所的日子里，游医每天都会匆忙出行。\n无论是晴日当空，还是大雨瓢泼，都无法阻挡步伐。\n不仅保护了她野草般的头发，也用来包扎伤病患者。\n游医的方巾历经风雨，是她漂泊路上最忠诚的伙伴。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Серебряный лотос целителя\n\n**Описание:** Целительница прошла по всему миру, и, благодаря своей страсти к приключениям, отыскала множество редких целебных трав.\nНа крутом обрыве, среди скользких камней она обнаружила серебряный лотос.\nОна так и не приготовила из него лекарство, но его аромат всегда придавал ей сил.\n\nПеро смерти\n**Название:** Совиное перо целителя\n\n**Описание:** Даже непроглядная, тёмная ночь не остановит целителя, спешащего к больному.\nМного опасностей скрыто в ночи, и путнику всегда следует быть начеку, подобно чуткой сове.\nНо проводя ночи как сова, без сна и отдыха, целитель в конце концов заболевает сам.\n\nПески времени\n**Название:** Карманные часы целителя\n\n**Описание:** При лечении смертельно больного человека целитель не должен терять ни секунды.\nБлагодаря своей точности, эти карманные часы всегда помогали целительнице спасать людей.\nНо в последние годы жизни, когда больная целительница лежала в постели, эти часы мерно тикали уже для неё самой.\nБудучи в прошлом инструментом, спасавшим жизни, теперь они пели для неё прощальную песнь.\n\nКубок пространства\n**Название:** Чайничек целителя\n\n**Описание:** Это лекарство давно высохло, но резкий запах остался.\nНекогда целительница спасла много жизней этим горьким отваром.\nИ когда заболела она сама, лишь это лекарство, приготовленное на печи в небольшом чайничке, смогло поднять её на ноги.\n\nКорона разума\n**Название:** Платок целителя\n\n**Описание:** В те дни, когда целительнице приходилось часто переезжать с места на место, она каждый раз собиралась в спешке.\nНи солнце, ни дождь - ничто не могло остановить её.\nНе только прикрывавший её непослушные волосы, но и не раз служивший для перевязки раненых, платок целителя прошёл с ней и огонь, и воду, и был целительнице самым верным товарищем в пути.",
+    "en": "Flower of Life\n**Название:** Traveling Doctor's Silver Lotus\n\n**Описание:** The doctor traveled across the land in search of rare herbs, with the zeal of an adventurer.\nOn a steep cliff between slippery rocks, she found this silver lotus.\nThe lotus was never made into medicine, but its scent gave her the strength to go on from that day forward.\n\nPlume of Death\n**Название:** Traveling Doctor's Owl Feather\n\n**Описание:** Even the pitch-black night could not stand between the traveling doctor and her patients.\nDanger lurks in every corner at night.\nThose who venture out must be as vigilant as the owl.\nBut unlike the owl, the endless nights without rest eventually took their toll on the traveling doctor, and she fell ill.\n\nSands of Eon\n**Название:** Traveling Doctor's Pocket Watch\n\n**Описание:** When treating a dying patient, every second counts.\nThe accuracy of this watch had helped the traveling doctor turn the tide numerous times.\nBut as she lay alone on the sickbed in her final days, all she could do was savor its sound, each tick standing for one of the precious moments of life she had left.\nWhat used to be a tool to save lives now sang a final elegy for its owner.\n\nGoblet of Eonothem\n**Название:** Traveling Doctor's Medicine Pot\n\n**Описание:** The medicine has long dried up, but its bitter smell still lingers in this pot.\nWith that bitter medicine, the traveling doctor saved countless lives.\nAnd when she fell seriously ill, no one was there for her except for the medicine pot on the furnace.\n\nCirclet of Logos\n**Название:** Traveling Doctor's Handkerchief\n\n**Описание:** Back when the traveling doctor roamed from place to place, her days were busy and she hurried between appointments.\nCome sun or rain, nothing could keep her from her work.\nThis handkerchief not only protected her messy hair, it also served as a bandage.\nIt saw her through all her hardships and became her most loyal partner on her journey.",
+    "zh": "生之花\n**Название:** 游医的银莲\n\n**Описание:** 漫步大地的游医，以冒险家的热情搜罗着珍稀药材。\n在险峻的山崖上，湿滑的岩石间，她发现一株银莲。\n到最后，药始终没派上用场，花香却一直鼓舞着她。\n\n死之羽\n**Название:** 游医的枭羽\n\n**Описание:** 即使在不见五指的深夜，游医也要及时出诊，夜幕之中隐藏着无数危险，行人须警醒如枭。\n如夜枭般无休止的守望，最终使游医病倒了。\n\n时之沙\n**Название:** 游医的怀钟\n\n**Описание:** 有时面对性命垂危的伤患，游医不得不争分夺秒。\n怀钟总是分秒不差，助她在拯救伤患于危难之中。\n但当晚年的游医独卧病榻，耳边也只有怀钟滴答作响。\n为脱离危险报时的道具，最终唱出了游医自己的哀歌。\n\n空之杯\n**Название:** 游医的药壶\n\n**Описание:** 浓重的药汤早已干涸，苦涩的气味却无法散去。\n游医曾用这陶壶中极苦的汤汁拯救了许多病患。\n当她身患痼疾时，却只有炉灶上药壶为她叹息。\n\n理之冠\n**Название:** 游医的方巾\n\n**Описание:** 在那些居无定所的日子里，游医每天都会匆忙出行。\n无论是晴日当空，还是大雨瓢泼，都无法阻挡步伐。\n不仅保护了她野草般的头发，也用来包扎伤病患者。\n游医的方巾历经风雨，是她漂泊路上最忠诚的伙伴。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

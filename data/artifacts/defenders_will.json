@@ -1,0 +1,98 @@
+{
+  "id": "defenders_will",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/defenders_will.webp",
+  "title": {
+    "ru": "Воля защитника",
+    "en": "Defender's Will",
+    "zh": "守护之心"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Цветок защитника\n\n**Описание:** Только от звонкого голоса той девынастороженность его сменялась умиротворением.\nВместе они пробыли совсем немного.\nВ итоге кровь рыцаря иссякла, как и её слёзы и песни.",
+        "en": "**Название:** Guardian's Flower\n\n**Описание:** Only that maiden's clear voice, Could cause the guardian's brow to come unbound.\nTheir time together was short.\nAt last, the knight's blood would run dry, As would her tears and her songs.",
+        "zh": "**Название:** 守护之花\n\n**Описание:** 只有那位少女的清脆歌声，可以让守护者的眉头舒展。\n他们之间的故事十分短暂。\n最后，骑士在流尽了鲜血，而少女耗竭了泪水与歌声。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Брошь защитника\n\n**Описание:** Герб, выгравированный на этой броши в форме пера, тускло блестит под светом луны.\nДавным-давно это сверкание наполняло сердца воров и злодеев ужасом.\nЗащитник сей носил очень почётный рыцарский титул.\nНочью, однако, своё лицо и герб скрывал он под плащом и капюшоном.\nТак его больше ничего не сдерживало, и он творил дела необходимые, но безупречному рыцарю неподобающие.",
+        "en": "**Название:** Guardian's Sigil\n\n**Описание:** The shield-crest engraved upon this quill glitters in the pale moonlight.\nLong ago, this light would strike fear into the hearts of evildoers and thieves.\nThe guardian had a very precious knightly title.\nBut at night, he would disguise his crest and face beneath a mantle.\nThus, he could shake off his restraints and do that which needed to be done——Yet could not be done by an upright knight in good standing.",
+        "zh": "**Название:** 守护徽印\n\n**Описание:** 羽形别针上刻印的盾纹，在月下隐隐发亮。\n彼时，那可是令贼人恶徒胆寒的摇曳微光。\n守护者有着非常尊贵的骑士名。\n在夜里，他却常将纹章与面目隐藏在斗篷下。\n如此，他就能不受拘束地完成那些应当完成，却不应当由理应光明磊落的骑士完成的事情。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Часы защитника\n\n**Описание:** Тиканье часов, огонь свечи, и шелест канцелярских бумаг...\nЛунные тени, плащ и кинжал -извечные спутники одинокого защитника.\nНо что бы он ни делал, времени всегда было мало.\nСвоевольный и радостный командир часто подтрунивал над его молчаливостью, печальным видом и нежеланием принимать радости жизни.\nНо защитник зла не держал - для него существовало лишь настоящее и будущее.\nТолько всеми правдами и неправдами искоренив зло, мог он обеспечить будущее без страха земле, которую так любил его друг и командир.\nНо только когда он видел на площади ту девушку, у него возникали мысли, на которые обычно времени не было.\nТолько тогда он задумывался о собственном будущем...",
+        "en": "**Название:** Guardian's Clock\n\n**Описание:** The ticking of the clock's hands, the candlelight, and the reams of case notes, The shadows by moonlight, the blade and black mantle, These were the constant companions of the lonesome guardian.\nBut no matter how far he went, there was never enough time.\nHis superior, carefree and proud, often laughed at his curtness, his unsmiling face, his aversion to fun.\nBut the guardian was not one to look back on the past — only to the present and future.\nOnly by reaving every last trace of evil, no matter the means, Could he ensure that this land that his friend and superior loved could have a future without fear.\nOnly when he gazed on that maiden in the square, Could he think upon things he had no time for.\nOnly then could he think about his own future...",
+        "zh": "**Название:** 守护座钟\n\n**Описание:** 指针的滴答、烛光、案件卷宗；\n月光下的人影、刀剑与黑斗篷，这些常伴是孤独守护者的同侪。\n但无论做到什么样的地步，对他而言，时间总是远远不够。\n骄纵而爽朗的上司常哂笑他的寡言、愁容满面，吝于享受。\n守护者是不回首过去的人。\n他的眼中只有当下与未来。\n只有眼下，无论用什么方式也好，连根拔掉一切罪恶，才能确保自己的挚友、上司所热爱的这大地未来无虞。\n只有白天看着广场上那位少女时，他才会想许多平时无暇去想的事。\n或许自己也该拥有「未来」…\n吗。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Фляжка защитника\n\n**Описание:** Самая обычная старая винная фляжка.\nНо всё-таки кое-что примечательное в ней было.\nТочнее - никогда не было, а именно - вина.\n«Ладно тебе, от бокала-другого ещё никто не умирал!»- со смехом говорил защитнику его командир и старый друг.\n«Перестань хмуриться и хвати как следует!\nИначе как нам без страха смотреть в день грядущий?»",
+        "en": "**Название:** Guardian's Vessel\n\n**Описание:** An exceedingly ordinary old wine canteen.\nIf one had to point out something special about it, It would be that it never once contained a drop of alcohol.\n\"Come on, you have to try a little wine sometime.\"\nThe guardian's longtime friend and superior joked.\n\"Quit knitting those eyebrows together, have a little wine and song!\"\n\"I mean, that's how we have the courage to face tomorrow.\"",
+        "zh": "**Название:** 守护之皿\n\n**Описание:** 非常普通的老旧金属酒壶。\n如果硬是说有什么特别之处的话，恐怕是其中不曾有过一丝酒味吧。\n「你啊，偶尔也喝点酒试试吧」\n守护者多年的挚友、上司笑道。\n「让眉头舒展开来，乘醉高歌」\n「才能有，面对明天的勇气嘛」"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Повязка защитника\n\n**Описание:** Под рукой всегда должен быть запасной план.\nОб этом ему напоминала головная повязка.\nЕю также можно было остановить кровь.\nРуководствуясь этим принципом, он учил рыцарей под началом своего друга фехтованию.\nС ним же он наставлял белого рыцаря, который возвёл справедливость в абсолют.\nВ его имя был раздавлен не один зачаток зла.\nЕсли он готов в полной мере, даже если однажды он не сможет защитить свою землю, друга, или ту девушку, которая так любит петь...",
+        "en": "**Название:** Guardian's Band\n\n**Описание:** Always have a backup plan—He wore this headband to remind himself of that axiom.\nIn an emergency, it could also serve as a tourniquet.\nBy this creed he taught his swordsmanship to the knights under his friend's command.\nBy this credo he also mentored a white knight who loved justice above all else.\nIn its name he nipped many seedlings that might have blossomed into evil in the bud.\nAs long as he was sufficiently prepared, Even if one day, he should be unable to defend this land, Or protect his friend, or that maiden who loved to sing...",
+        "zh": "**Название:** 守护束带\n\n**Описание:** 永远都要做好两手准备——基于这样的信条，而佩戴的束发带。\n在紧急的时刻，可以充当止血绷带。\n基于这样的信条，将自己的剑法传给挚友麾下的骑士。\n基于这样的信条，也培养了无比渴求正义的白色骑士。\n基于这样的信条，将或许会长成罪恶之花的幼苗扼杀。\n如果准备得足够充分，即使自己有朝一日不再能守护这片土地，不再能守护挚友，不再能守护那位爱唱歌的少女…"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Цветок защитника\n\n**Описание:** Только от звонкого голоса той девынастороженность его сменялась умиротворением.\nВместе они пробыли совсем немного.\nВ итоге кровь рыцаря иссякла, как и её слёзы и песни.\n\nПеро смерти\n**Название:** Брошь защитника\n\n**Описание:** Герб, выгравированный на этой броши в форме пера, тускло блестит под светом луны.\nДавным-давно это сверкание наполняло сердца воров и злодеев ужасом.\nЗащитник сей носил очень почётный рыцарский титул.\nНочью, однако, своё лицо и герб скрывал он под плащом и капюшоном.\nТак его больше ничего не сдерживало, и он творил дела необходимые, но безупречному рыцарю неподобающие.\n\nПески времени\n**Название:** Часы защитника\n\n**Описание:** Тиканье часов, огонь свечи, и шелест канцелярских бумаг...\nЛунные тени, плащ и кинжал -извечные спутники одинокого защитника.\nНо что бы он ни делал, времени всегда было мало.\nСвоевольный и радостный командир часто подтрунивал над его молчаливостью, печальным видом и нежеланием принимать радости жизни.\nНо защитник зла не держал - для него существовало лишь настоящее и будущее.\nТолько всеми правдами и неправдами искоренив зло, мог он обеспечить будущее без страха земле, которую так любил его друг и командир.\nНо только когда он видел на площади ту девушку, у него возникали мысли, на которые обычно времени не было.\nТолько тогда он задумывался о собственном будущем...\n\nКубок пространства\n**Название:** Фляжка защитника\n\n**Описание:** Самая обычная старая винная фляжка.\nНо всё-таки кое-что примечательное в ней было.\nТочнее - никогда не было, а именно - вина.\n«Ладно тебе, от бокала-другого ещё никто не умирал!»- со смехом говорил защитнику его командир и старый друг.\n«Перестань хмуриться и хвати как следует!\nИначе как нам без страха смотреть в день грядущий?»\n\nКорона разума\n**Название:** Повязка защитника\n\n**Описание:** Под рукой всегда должен быть запасной план.\nОб этом ему напоминала головная повязка.\nЕю также можно было остановить кровь.\nРуководствуясь этим принципом, он учил рыцарей под началом своего друга фехтованию.\nС ним же он наставлял белого рыцаря, который возвёл справедливость в абсолют.\nВ его имя был раздавлен не один зачаток зла.\nЕсли он готов в полной мере, даже если однажды он не сможет защитить свою землю, друга, или ту девушку, которая так любит петь...",
+    "en": "Flower of Life\n**Название:** Guardian's Flower\n\n**Описание:** Only that maiden's clear voice, Could cause the guardian's brow to come unbound.\nTheir time together was short.\nAt last, the knight's blood would run dry, As would her tears and her songs.\n\nPlume of Death\n**Название:** Guardian's Sigil\n\n**Описание:** The shield-crest engraved upon this quill glitters in the pale moonlight.\nLong ago, this light would strike fear into the hearts of evildoers and thieves.\nThe guardian had a very precious knightly title.\nBut at night, he would disguise his crest and face beneath a mantle.\nThus, he could shake off his restraints and do that which needed to be done——Yet could not be done by an upright knight in good standing.\n\nSands of Eon\n**Название:** Guardian's Clock\n\n**Описание:** The ticking of the clock's hands, the candlelight, and the reams of case notes, The shadows by moonlight, the blade and black mantle, These were the constant companions of the lonesome guardian.\nBut no matter how far he went, there was never enough time.\nHis superior, carefree and proud, often laughed at his curtness, his unsmiling face, his aversion to fun.\nBut the guardian was not one to look back on the past — only to the present and future.\nOnly by reaving every last trace of evil, no matter the means, Could he ensure that this land that his friend and superior loved could have a future without fear.\nOnly when he gazed on that maiden in the square, Could he think upon things he had no time for.\nOnly then could he think about his own future...\n\nGoblet of Eonothem\n**Название:** Guardian's Vessel\n\n**Описание:** An exceedingly ordinary old wine canteen.\nIf one had to point out something special about it, It would be that it never once contained a drop of alcohol.\n\"Come on, you have to try a little wine sometime.\"\nThe guardian's longtime friend and superior joked.\n\"Quit knitting those eyebrows together, have a little wine and song!\"\n\"I mean, that's how we have the courage to face tomorrow.\"\n\nCirclet of Logos\n**Название:** Guardian's Band\n\n**Описание:** Always have a backup plan—He wore this headband to remind himself of that axiom.\nIn an emergency, it could also serve as a tourniquet.\nBy this creed he taught his swordsmanship to the knights under his friend's command.\nBy this credo he also mentored a white knight who loved justice above all else.\nIn its name he nipped many seedlings that might have blossomed into evil in the bud.\nAs long as he was sufficiently prepared, Even if one day, he should be unable to defend this land, Or protect his friend, or that maiden who loved to sing...",
+    "zh": "生之花\n**Название:** 守护之花\n\n**Описание:** 只有那位少女的清脆歌声，可以让守护者的眉头舒展。\n他们之间的故事十分短暂。\n最后，骑士在流尽了鲜血，而少女耗竭了泪水与歌声。\n\n死之羽\n**Название:** 守护徽印\n\n**Описание:** 羽形别针上刻印的盾纹，在月下隐隐发亮。\n彼时，那可是令贼人恶徒胆寒的摇曳微光。\n守护者有着非常尊贵的骑士名。\n在夜里，他却常将纹章与面目隐藏在斗篷下。\n如此，他就能不受拘束地完成那些应当完成，却不应当由理应光明磊落的骑士完成的事情。\n\n时之沙\n**Название:** 守护座钟\n\n**Описание:** 指针的滴答、烛光、案件卷宗；\n月光下的人影、刀剑与黑斗篷，这些常伴是孤独守护者的同侪。\n但无论做到什么样的地步，对他而言，时间总是远远不够。\n骄纵而爽朗的上司常哂笑他的寡言、愁容满面，吝于享受。\n守护者是不回首过去的人。\n他的眼中只有当下与未来。\n只有眼下，无论用什么方式也好，连根拔掉一切罪恶，才能确保自己的挚友、上司所热爱的这大地未来无虞。\n只有白天看着广场上那位少女时，他才会想许多平时无暇去想的事。\n或许自己也该拥有「未来」…\n吗。\n\n空之杯\n**Название:** 守护之皿\n\n**Описание:** 非常普通的老旧金属酒壶。\n如果硬是说有什么特别之处的话，恐怕是其中不曾有过一丝酒味吧。\n「你啊，偶尔也喝点酒试试吧」\n守护者多年的挚友、上司笑道。\n「让眉头舒展开来，乘醉高歌」\n「才能有，面对明天的勇气嘛」\n\n理之冠\n**Название:** 守护束带\n\n**Описание:** 永远都要做好两手准备——基于这样的信条，而佩戴的束发带。\n在紧急的时刻，可以充当止血绷带。\n基于这样的信条，将自己的剑法传给挚友麾下的骑士。\n基于这样的信条，也培养了无比渴求正义的白色骑士。\n基于这样的信条，将或许会长成罪恶之花的幼苗扼杀。\n如果准备得足够充分，即使自己有朝一日不再能守护这片土地，不再能守护挚友，不再能守护那位爱唱歌的少女…"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

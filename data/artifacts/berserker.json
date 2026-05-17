@@ -1,0 +1,98 @@
+{
+  "id": "berserker",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/berserker.webp",
+  "title": {
+    "ru": "Берсерк",
+    "en": "Berserker",
+    "zh": "战狂"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Роза берсерка\n\n**Описание:** До того, как сойти с ума, воин порой гулял в саду роз.\nУ него никогда не было семьи.\nНе было ни возлюбленной, ни друга, с которым он мог бы поделиться своими мыслями.\nВ перерывах между битвами он приходил в этот сад, чтобы со всей нежностью, на которую был способен, ухаживать за хрупкими цветами...\nКак будто кроваво-красные розы, скрытые в недрах колючих кустарников, единственные могли дать его душе почувствовать тепло.",
+        "en": "**Название:** Berserker's Rose\n\n**Описание:** In the days before the berserker descended into madness, he would sometimes pause in the rose garden for a moment to himself.\nHe had never had a family, nor had he a lover, or a friend.\nWhen he was not on the battlefield, he would come here to tend to the fragile flowers in the garden with all his heart, as if the crimson flowers buried in the thorns were the only warmth he could cling to.",
+        "zh": "**Название:** 战狂的蔷薇\n\n**Описание:** 尚未发狂的日子里，战士曾在蔷薇花园中踟蹰。\n他未曾有亲人与爱人，也不曾有好友与他交心。\n在血战的间歇，战士以心血温柔照料园中脆弱的花朵。\n仿佛这些荆棘中的血红之花，才是他仅剩无几的温情。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Перо берсерка\n\n**Описание:** Родина воина пала в пламени войны между Архонтами и смертными.\nСад роз сгорел во всепоглощающем огне, и черные птицы - вестники смерти - клевали трупы своих сородичей.\nВ том пламени возродился воин, одержимый лишь жаждой мщения и убийства.\nИ чёрные перья, разлетевшиеся над полем битвы, окрасились алым, когда он совершил свою месть.",
+        "en": "**Название:** Berserker's Indigo Feather\n\n**Описание:** The once-sane berserker's homeland fell victim to the raging war between gods and mortals.\nThe rose garden burst into flames and birds of omen fed on the flesh of his countrymen.\nReborn in flames, vengeance and bloodlust took over the warrior's mind, turning him into a berserker.\nBlack feathers, scattered on the battlefield, were painted red by his rage as he took his revenge.",
+        "zh": "**Название:** 战狂的翎羽\n\n**Описание:** 在众神与凡人的混战中，战士的家乡被战火殃及。\n蔷薇花园化作火海，报丧之鸟啄食着同胞的尸体。\n烈火之中重生的战士，被复仇与杀戮的欲望迷醉。\n战场上飞散的黑色鸟羽，也被复仇者的狂热染红。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Часы берсерка\n\n**Описание:** Ничто не вечно; даже берсерк не мог оспорить эту истину.\nКогда море крови под его ногами иссохло, когда силы покинули берсерка, он встретил последнего соперника, определившего его судьбу.\nКогда закат опустился на залитое кровью поле, Песочные Часы берсерка вспыхнули алым в лучах клонящегося к горизонту солнца.",
+        "en": "**Название:** Berserker's Timepiece\n\n**Описание:** The end inevitably comes for all, even the seemingly invincible berserker.\nAs the blood on his hands finally dried up, the berserker's footsteps began to falter.\nHis life was destined to end the moment he met his last challenger on the battlefield.\nOn the battlefield where blood flowed like rivers, his hourglass was painted red by the setting sun.",
+        "zh": "**Название:** 战狂的时计\n\n**Описание:** 未曾遭逢敌手的狂战士，其生涯也会有终结的一天。\n当血海在双脚下枯涸，当狂战士终于疲惫不堪之时，他遇到了战场上最后一个敌手，注定结束他的命运。\n夕阳下弥漫血腥的战场之上，他的沙漏被染成血色。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Костяной кубок берсерка\n\n**Описание:** Кровожадный берсерк бесчинствовал на земле, сражался и с людьми, и с монстрами, а однажды бросил вызов Архонтам.\nВ безжизненных, забытых всеми землях он столкнулся с не знавшим себе равных монстром.\nСтальная маска берсерка скрывала сжигающий душу гнев.\nОн вступил в безжалостный, кровопролитный бой с монстром.\nСражение длилось часы, дни, годы, и монстр, наконец, был повержен.\nИ берсерк высосал из сломленного рога монстра костный мозг, который заменил ему вино для победителя.",
+        "en": "**Название:** Berserker's Bone Goblet\n\n**Описание:** The bloodthirsty berserker ravaged the lands, fighting humans and monsters alike, and even challenged the gods.\nIn a barren and lifeless land, he encountered a giant monster.\nHis iron mask could not conceal his rage, and so an endless fight ensued.\nHours, days, and years passed.\nThe monster was finally defeated.\nThe berserker sucked out the marrow of the monster's broken horn.\nThis was how the victor drank to his success.",
+        "zh": "**Название:** 战狂的骨杯\n\n**Описание:** 嗜血的狂战士肆行大地，与人类作战、与魔物作战，甚至向魔神怒吼。\n在飘散着余烬的荒芜之地，流浪的狂战士迎头撞上了硕大无朋的魔兽。\n冷酷的铁面掩藏着无法平息的怒火，狂战士与魔兽展开了无尽的血斗。\n过了无数时辰、日子、年头，巨兽终于力竭倒下。\n魔物断角中的骨髓被吸干，那是属于冠军的美酒。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Боевая маска берсерка\n\n**Описание:** Черты лица безумного воина, опаленного терзавшим его родину огнём, стали неузнаваемыми.\nСтальная маска прикипела к его плоти, и никакие чувства не способна была отразить её холодная поверхность.\nОднажды, в пылу безумной схватки, противник разбил маску на две части.\nТрещина прошла ото лба к подбородку и была столь глубокой, что обнажила плоть.\nНо ни боль, ни хлещущая кровь не могли остановить берсерка в его болезненном безумии.\nБерсерк продолжал рычать, пока свежая алая кровь не покрыла всё его лицо поверх уже запёкшейся.",
+        "en": "**Название:** Berserker's Battle Mask\n\n**Описание:** Bathed in the flames that devoured his homeland, the berserker's face was no longer recognizable.\nThe iron mask became joined with his flesh, permanently branding his face with a heartless countenance.\nThen, in a fierce battle, his horrifying mask was split into two by his opponent.\nThe cracks of the mask tore apart the flesh that had long stuck to it.\nBut neither pain nor blood could stop the berserker's unfaltering footsteps.\nThe berserker kept roaring until the fresh blood covered the black clots hardened on his face.",
+        "zh": "**Название:** 战狂的鬼面\n\n**Описание:** 吞噬家乡的烈火中，发狂的战士失去了英俊的容颜。\n铁面烙在脸上替代了血肉，表情定格在冷酷的一面。\n在罔顾生死的血战中，可怖的铁面被对手一劈两半。\n疤痕纵贯铁的脸面，深深地割裂了附生其上的皮肉。\n但疼痛决不会让狂战士止步，流血也不会停顿他的动作。\n狂战士继续嘶吼着，直到鲜红的血与黑红的血覆满脸庞。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Роза берсерка\n\n**Описание:** До того, как сойти с ума, воин порой гулял в саду роз.\nУ него никогда не было семьи.\nНе было ни возлюбленной, ни друга, с которым он мог бы поделиться своими мыслями.\nВ перерывах между битвами он приходил в этот сад, чтобы со всей нежностью, на которую был способен, ухаживать за хрупкими цветами...\nКак будто кроваво-красные розы, скрытые в недрах колючих кустарников, единственные могли дать его душе почувствовать тепло.\n\nПеро смерти\n**Название:** Перо берсерка\n\n**Описание:** Родина воина пала в пламени войны между Архонтами и смертными.\nСад роз сгорел во всепоглощающем огне, и черные птицы - вестники смерти - клевали трупы своих сородичей.\nВ том пламени возродился воин, одержимый лишь жаждой мщения и убийства.\nИ чёрные перья, разлетевшиеся над полем битвы, окрасились алым, когда он совершил свою месть.\n\nПески времени\n**Название:** Часы берсерка\n\n**Описание:** Ничто не вечно; даже берсерк не мог оспорить эту истину.\nКогда море крови под его ногами иссохло, когда силы покинули берсерка, он встретил последнего соперника, определившего его судьбу.\nКогда закат опустился на залитое кровью поле, Песочные Часы берсерка вспыхнули алым в лучах клонящегося к горизонту солнца.\n\nКубок пространства\n**Название:** Костяной кубок берсерка\n\n**Описание:** Кровожадный берсерк бесчинствовал на земле, сражался и с людьми, и с монстрами, а однажды бросил вызов Архонтам.\nВ безжизненных, забытых всеми землях он столкнулся с не знавшим себе равных монстром.\nСтальная маска берсерка скрывала сжигающий душу гнев.\nОн вступил в безжалостный, кровопролитный бой с монстром.\nСражение длилось часы, дни, годы, и монстр, наконец, был повержен.\nИ берсерк высосал из сломленного рога монстра костный мозг, который заменил ему вино для победителя.\n\nКорона разума\n**Название:** Боевая маска берсерка\n\n**Описание:** Черты лица безумного воина, опаленного терзавшим его родину огнём, стали неузнаваемыми.\nСтальная маска прикипела к его плоти, и никакие чувства не способна была отразить её холодная поверхность.\nОднажды, в пылу безумной схватки, противник разбил маску на две части.\nТрещина прошла ото лба к подбородку и была столь глубокой, что обнажила плоть.\nНо ни боль, ни хлещущая кровь не могли остановить берсерка в его болезненном безумии.\nБерсерк продолжал рычать, пока свежая алая кровь не покрыла всё его лицо поверх уже запёкшейся.",
+    "en": "Flower of Life\n**Название:** Berserker's Rose\n\n**Описание:** In the days before the berserker descended into madness, he would sometimes pause in the rose garden for a moment to himself.\nHe had never had a family, nor had he a lover, or a friend.\nWhen he was not on the battlefield, he would come here to tend to the fragile flowers in the garden with all his heart, as if the crimson flowers buried in the thorns were the only warmth he could cling to.\n\nPlume of Death\n**Название:** Berserker's Indigo Feather\n\n**Описание:** The once-sane berserker's homeland fell victim to the raging war between gods and mortals.\nThe rose garden burst into flames and birds of omen fed on the flesh of his countrymen.\nReborn in flames, vengeance and bloodlust took over the warrior's mind, turning him into a berserker.\nBlack feathers, scattered on the battlefield, were painted red by his rage as he took his revenge.\n\nSands of Eon\n**Название:** Berserker's Timepiece\n\n**Описание:** The end inevitably comes for all, even the seemingly invincible berserker.\nAs the blood on his hands finally dried up, the berserker's footsteps began to falter.\nHis life was destined to end the moment he met his last challenger on the battlefield.\nOn the battlefield where blood flowed like rivers, his hourglass was painted red by the setting sun.\n\nGoblet of Eonothem\n**Название:** Berserker's Bone Goblet\n\n**Описание:** The bloodthirsty berserker ravaged the lands, fighting humans and monsters alike, and even challenged the gods.\nIn a barren and lifeless land, he encountered a giant monster.\nHis iron mask could not conceal his rage, and so an endless fight ensued.\nHours, days, and years passed.\nThe monster was finally defeated.\nThe berserker sucked out the marrow of the monster's broken horn.\nThis was how the victor drank to his success.\n\nCirclet of Logos\n**Название:** Berserker's Battle Mask\n\n**Описание:** Bathed in the flames that devoured his homeland, the berserker's face was no longer recognizable.\nThe iron mask became joined with his flesh, permanently branding his face with a heartless countenance.\nThen, in a fierce battle, his horrifying mask was split into two by his opponent.\nThe cracks of the mask tore apart the flesh that had long stuck to it.\nBut neither pain nor blood could stop the berserker's unfaltering footsteps.\nThe berserker kept roaring until the fresh blood covered the black clots hardened on his face.",
+    "zh": "生之花\n**Название:** 战狂的蔷薇\n\n**Описание:** 尚未发狂的日子里，战士曾在蔷薇花园中踟蹰。\n他未曾有亲人与爱人，也不曾有好友与他交心。\n在血战的间歇，战士以心血温柔照料园中脆弱的花朵。\n仿佛这些荆棘中的血红之花，才是他仅剩无几的温情。\n\n死之羽\n**Название:** 战狂的翎羽\n\n**Описание:** 在众神与凡人的混战中，战士的家乡被战火殃及。\n蔷薇花园化作火海，报丧之鸟啄食着同胞的尸体。\n烈火之中重生的战士，被复仇与杀戮的欲望迷醉。\n战场上飞散的黑色鸟羽，也被复仇者的狂热染红。\n\n时之沙\n**Название:** 战狂的时计\n\n**Описание:** 未曾遭逢敌手的狂战士，其生涯也会有终结的一天。\n当血海在双脚下枯涸，当狂战士终于疲惫不堪之时，他遇到了战场上最后一个敌手，注定结束他的命运。\n夕阳下弥漫血腥的战场之上，他的沙漏被染成血色。\n\n空之杯\n**Название:** 战狂的骨杯\n\n**Описание:** 嗜血的狂战士肆行大地，与人类作战、与魔物作战，甚至向魔神怒吼。\n在飘散着余烬的荒芜之地，流浪的狂战士迎头撞上了硕大无朋的魔兽。\n冷酷的铁面掩藏着无法平息的怒火，狂战士与魔兽展开了无尽的血斗。\n过了无数时辰、日子、年头，巨兽终于力竭倒下。\n魔物断角中的骨髓被吸干，那是属于冠军的美酒。\n\n理之冠\n**Название:** 战狂的鬼面\n\n**Описание:** 吞噬家乡的烈火中，发狂的战士失去了英俊的容颜。\n铁面烙在脸上替代了血肉，表情定格在冷酷的一面。\n在罔顾生死的血战中，可怖的铁面被对手一劈两半。\n疤痕纵贯铁的脸面，深深地割裂了附生其上的皮肉。\n但疼痛决不会让狂战士止步，流血也不会停顿他的动作。\n狂战士继续嘶吼着，直到鲜红的血与黑红的血覆满脸庞。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

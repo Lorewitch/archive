@@ -1,0 +1,98 @@
+{
+  "id": "adventurer",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/adventurer.webp",
+  "title": {
+    "ru": "Искатель приключений",
+    "en": "Adventurer",
+    "zh": "冒险家"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Цветок искателя приключений\n\n**Описание:** Жаждущий покорить звёзды и Бездну искатель приключений среди древних руин внезапно нашёл упрямо растущий цветок.\nОн, пробивающийся из земли на границе между жизнью и смертью, тронул искателя приключений, заставив на минуту забыть о том, что в эти руины он пришёл за сокровищами.\nПодумав, искатель сорвал цветок, приколол к груди и отважно шагнул в темноту подземелья.",
+        "en": "**Название:** Adventurer's Flower\n\n**Описание:** The ambitious adventurer came across this resilient flower in the depths of a gloomy ruin.\nMoved by the sight of life sprouting in defiance of a lifeless land, he almost forgot about the treasures buried deep in the ruin.\nAfter pausing to ponder it for a while, the adventurer plucked the flower, wore it as a brooch, and ventured forth into the darkness.",
+        "zh": "**Название:** 冒险家之花\n\n**Описание:** 志在星空与深渊的冒险家，在幽深的遗迹间不意遇见顽强的小花。\n生于死境的鲜花触动了冒险家，令他一时忘记了遗迹深处的宝藏。\n思索片刻，冒险家摘下小花，别在胸口，迈步向黑暗的地底走去。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Перо искателя приключений\n\n**Описание:** Однажды искатель приключений шёл по лесу в поисках невиданной птицы.\nБеспечно глядя вверх, он шагал среди деревьев, как вдруг запнулся о корни.\nКогда он пришёл в себя, то увидел перед собой девушку, прекрасную настолько, что он готов был бросить свою жизнь искателя приключений, лишь бы быть с ней.\nВ волосы её были вплетены фантастической красоты перья, да и сама она будто вышла из сна.",
+        "en": "**Название:** Adventurer's Tail Feather\n\n**Описание:** An adventurer once traveled through a forest in search of rare beasts never seen before.\nAs he tore his way recklessly through the foliage, the adventurer tripped on a tree root.\nWhen he regained consciousness, he saw a girl so beautiful that he was willing to give up the adventurer's life to be with her.\nHer appearance was surreal, with a cluster of feathers adorning her hair.",
+        "zh": "**Название:** 冒险家尾羽\n\n**Описание:** 冒险家曾经穿越森林，追寻从未见过的珍禽。\n仰望着天空冒然前行，却被树根捉住了脚踝。\n醒转时，见到的是命定令他放弃冒险的少女，发间别着一簇梦幻般的翎羽，一切有如幻梦。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Часы искателя приключений\n\n**Описание:** Карманные часы искателя приключений.\nСделанные старым часовщиком, они полностью соответствуют принципам простоты и практичности, принятым в Гильдии искателей приключений.\nКогда искатель приключений, уже давно не видевший белого света, пробирается по тёмным коридорам подземелий, тиканье этих часов является для него единственным доказательством того, что понятие «время» ещё существует.\nА когда искатель приключений вынужден отойти от любимого дела и после стольких лет вернуться в колею обычной жизни, эти уже никому не нужные часы продолжают тикать уже в витрине, покорно ожидая следующего приключения.",
+        "en": "**Название:** Adventurer's Pocket Watch\n\n**Описание:** A pocket watch that once belonged to an adventurer.\nIt was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the Adventurers' Guild.\nThe adventurer spent most of his days in darkness.\nThe rhythmic sound of its moving hands was the only proof he had of the passage of time.\nLong after he had grown accustomed to a normal life, having given up the adventurer lifestyle he once loved so dearly, this forgotten pocket watch still sat quietly in the cabinet, waiting for its next adventure.",
+        "zh": "**Название:** 冒险家怀表\n\n**Описание:** 冒险家的怀表，秉持着冒险家协会简朴实用的信条，由老牌钟表匠打制而成。\n在冒险家多年不见天日的黑暗旅途中，它的滴答声是时间仍存在的唯一证据。\n而在冒险家不得不放弃挚爱的生涯，落入平凡窠臼的多年之后，无人问津的怀表仍旧躺在橱窗里滴答作响，静候着下一次冒险。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Кубок искателя приключений\n\n**Описание:** Старая золотая чаша, из которой пил воду искатель приключений.\nХодят слухи, что она была найдена где-то в древних руинах.\nНа золотой поверхности чаши выгравированы непонятные древние узоры.\nСама она инкрустирована невыразительным камнем.\nКогда искатель приключений распрощался со своей прежней жизнью авантюриста, эту старую чашу он обменял на новенькую, сверкающую мору.",
+        "en": "**Название:** Adventurer's Golden Goblet\n\n**Описание:** An old, golden goblet that the adventurer used to drink water.\nIt is said that he found it in an old ruin.\nThe exterior is engraved with ancient symbols and inlaid with a faded gemstone.\nEventually, the adventurer bid farewell to the nomadic lifestyle.\nThis old, golden goblet was traded in for new, shiny Mora.",
+        "zh": "**Название:** 冒险家金杯\n\n**Описание:** 冒险家拿来饮水的破旧金杯，据说是从某处遗迹寻得的宝物。\n金色的杯壁上雕刻着古老模糊的纹路，镶嵌着已黯淡的宝石。\n在他最终告别了以天地为屋舍、以遗迹为居室的冒险生活后，古旧的金杯被换作闪耀的摩拉。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Повязка искателя приключений\n\n**Описание:** Хотя это всего лишь обыкновенная зелёная повязка на голову, ткань её крепкая и хорошо впитывает влагу.\nИ пускай её владельцем был лишь простой смертный из плоти и крови, но, как далёкие звёзды над бездонным небом и беспросветная Бездна глубоко под землёй имеют свои секреты, так и этот всего лишь человек не без тайны: просто подождите, пока он выйдет на охоту.",
+        "en": "**Название:** Adventurer's Bandana\n\n**Описание:** There is nothing special about this green bandana, save that the fabric is rather robust and highly absorbent.\nJust like the bandana, its wearer was an unexceptional, ordinary person.\nBut countless secrets lie hidden in the stars high up above and the abyss deep down below.\nAll of these things are awaiting discovery by mere mortals.",
+        "zh": "**Название:** 冒险家头带\n\n**Описание:** 虽然这只是普普通通的绿色头带，布料坚韧，吸湿挡尘。\n虽然这头带的主人也仅仅是凡人，只拥有一副血肉之躯。\n但高天之上无尽深远的星空，与地下暗无天日的深渊，以及它们掩藏的一切秘密，正等待这弱小的人去猎获。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Цветок искателя приключений\n\n**Описание:** Жаждущий покорить звёзды и Бездну искатель приключений среди древних руин внезапно нашёл упрямо растущий цветок.\nОн, пробивающийся из земли на границе между жизнью и смертью, тронул искателя приключений, заставив на минуту забыть о том, что в эти руины он пришёл за сокровищами.\nПодумав, искатель сорвал цветок, приколол к груди и отважно шагнул в темноту подземелья.\n\nПеро смерти\n**Название:** Перо искателя приключений\n\n**Описание:** Однажды искатель приключений шёл по лесу в поисках невиданной птицы.\nБеспечно глядя вверх, он шагал среди деревьев, как вдруг запнулся о корни.\nКогда он пришёл в себя, то увидел перед собой девушку, прекрасную настолько, что он готов был бросить свою жизнь искателя приключений, лишь бы быть с ней.\nВ волосы её были вплетены фантастической красоты перья, да и сама она будто вышла из сна.\n\nПески времени\n**Название:** Часы искателя приключений\n\n**Описание:** Карманные часы искателя приключений.\nСделанные старым часовщиком, они полностью соответствуют принципам простоты и практичности, принятым в Гильдии искателей приключений.\nКогда искатель приключений, уже давно не видевший белого света, пробирается по тёмным коридорам подземелий, тиканье этих часов является для него единственным доказательством того, что понятие «время» ещё существует.\nА когда искатель приключений вынужден отойти от любимого дела и после стольких лет вернуться в колею обычной жизни, эти уже никому не нужные часы продолжают тикать уже в витрине, покорно ожидая следующего приключения.\n\nКубок пространства\n**Название:** Кубок искателя приключений\n\n**Описание:** Старая золотая чаша, из которой пил воду искатель приключений.\nХодят слухи, что она была найдена где-то в древних руинах.\nНа золотой поверхности чаши выгравированы непонятные древние узоры.\nСама она инкрустирована невыразительным камнем.\nКогда искатель приключений распрощался со своей прежней жизнью авантюриста, эту старую чашу он обменял на новенькую, сверкающую мору.\n\nКорона разума\n**Название:** Повязка искателя приключений\n\n**Описание:** Хотя это всего лишь обыкновенная зелёная повязка на голову, ткань её крепкая и хорошо впитывает влагу.\nИ пускай её владельцем был лишь простой смертный из плоти и крови, но, как далёкие звёзды над бездонным небом и беспросветная Бездна глубоко под землёй имеют свои секреты, так и этот всего лишь человек не без тайны: просто подождите, пока он выйдет на охоту.",
+    "en": "Flower of Life\n**Название:** Adventurer's Flower\n\n**Описание:** The ambitious adventurer came across this resilient flower in the depths of a gloomy ruin.\nMoved by the sight of life sprouting in defiance of a lifeless land, he almost forgot about the treasures buried deep in the ruin.\nAfter pausing to ponder it for a while, the adventurer plucked the flower, wore it as a brooch, and ventured forth into the darkness.\n\nPlume of Death\n**Название:** Adventurer's Tail Feather\n\n**Описание:** An adventurer once traveled through a forest in search of rare beasts never seen before.\nAs he tore his way recklessly through the foliage, the adventurer tripped on a tree root.\nWhen he regained consciousness, he saw a girl so beautiful that he was willing to give up the adventurer's life to be with her.\nHer appearance was surreal, with a cluster of feathers adorning her hair.\n\nSands of Eon\n**Название:** Adventurer's Pocket Watch\n\n**Описание:** A pocket watch that once belonged to an adventurer.\nIt was crafted by a master watchmaker with simplicity and practicality in mind, aligning with the philosophy of the Adventurers' Guild.\nThe adventurer spent most of his days in darkness.\nThe rhythmic sound of its moving hands was the only proof he had of the passage of time.\nLong after he had grown accustomed to a normal life, having given up the adventurer lifestyle he once loved so dearly, this forgotten pocket watch still sat quietly in the cabinet, waiting for its next adventure.\n\nGoblet of Eonothem\n**Название:** Adventurer's Golden Goblet\n\n**Описание:** An old, golden goblet that the adventurer used to drink water.\nIt is said that he found it in an old ruin.\nThe exterior is engraved with ancient symbols and inlaid with a faded gemstone.\nEventually, the adventurer bid farewell to the nomadic lifestyle.\nThis old, golden goblet was traded in for new, shiny Mora.\n\nCirclet of Logos\n**Название:** Adventurer's Bandana\n\n**Описание:** There is nothing special about this green bandana, save that the fabric is rather robust and highly absorbent.\nJust like the bandana, its wearer was an unexceptional, ordinary person.\nBut countless secrets lie hidden in the stars high up above and the abyss deep down below.\nAll of these things are awaiting discovery by mere mortals.",
+    "zh": "生之花\n**Название:** 冒险家之花\n\n**Описание:** 志在星空与深渊的冒险家，在幽深的遗迹间不意遇见顽强的小花。\n生于死境的鲜花触动了冒险家，令他一时忘记了遗迹深处的宝藏。\n思索片刻，冒险家摘下小花，别在胸口，迈步向黑暗的地底走去。\n\n死之羽\n**Название:** 冒险家尾羽\n\n**Описание:** 冒险家曾经穿越森林，追寻从未见过的珍禽。\n仰望着天空冒然前行，却被树根捉住了脚踝。\n醒转时，见到的是命定令他放弃冒险的少女，发间别着一簇梦幻般的翎羽，一切有如幻梦。\n\n时之沙\n**Название:** 冒险家怀表\n\n**Описание:** 冒险家的怀表，秉持着冒险家协会简朴实用的信条，由老牌钟表匠打制而成。\n在冒险家多年不见天日的黑暗旅途中，它的滴答声是时间仍存在的唯一证据。\n而在冒险家不得不放弃挚爱的生涯，落入平凡窠臼的多年之后，无人问津的怀表仍旧躺在橱窗里滴答作响，静候着下一次冒险。\n\n空之杯\n**Название:** 冒险家金杯\n\n**Описание:** 冒险家拿来饮水的破旧金杯，据说是从某处遗迹寻得的宝物。\n金色的杯壁上雕刻着古老模糊的纹路，镶嵌着已黯淡的宝石。\n在他最终告别了以天地为屋舍、以遗迹为居室的冒险生活后，古旧的金杯被换作闪耀的摩拉。\n\n理之冠\n**Название:** 冒险家头带\n\n**Описание:** 虽然这只是普普通通的绿色头带，布料坚韧，吸湿挡尘。\n虽然这头带的主人也仅仅是凡人，只拥有一副血肉之躯。\n但高天之上无尽深远的星空，与地下暗无天日的深渊，以及它们掩藏的一切秘密，正等待这弱小的人去猎获。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

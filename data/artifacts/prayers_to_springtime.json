@@ -1,0 +1,46 @@
+{
+  "id": "prayers_to_springtime",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/prayers_to_springtime.webp",
+  "title": {
+    "ru": "Шаман льда",
+    "en": "Prayers to Springtime",
+    "zh": "祭冰之人"
+  },
+  "region": "Тейват",
+  "piece_count": 1,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Тиара холода\n\n**Описание:** Говорят, чтоперед каждым поколением жрецов в их последние дни представал один и тот же образ: нагромождение венцов под засохшим деревом в таинственном месте.\nКаждый из них скрывал целую жизнь нерассказанных тайн.\nКаждый верховный жрец, отходя на покой, свой безупречный венец из белых ветвей возвращает миру.\nКаждая величественная древняя столица, каждый священный алтарь однажды должны будут вернуться в земные глубины.\nВсякому процветанию должен наступить конец.\nНо это не значит, что ничто не вечно.\nВ завершении каждого цикла обновляется земля, поэтому вечность циклична.\nПоиск истины появляется благодаря процветанию, а вовсе не наоборот.\nГоворят, чтоКогда-то люди получали озарения прямиком из самой Селестии.\nВ те времена посланники богов ходили меж тёмных смертных, а на скованной ледниками земле едва теплилась жизнь.",
+        "en": "**Название:** Tiara of Frost\n\n**Описание:** They say that, The line of chief priests have always seen this same sight as their days draw to an end: A mountain of crowns in a secret place, beneath a withered tree——each one hiding a lifetime of secrets kept.\nEach retiring chief priest offers up their crown of flawless white branches to this world.\nEvery mighty and ancient city, and every austere place of sacrifice must one day return to profundity in the earth.\nAll prosperity must someday end.\nBut this does not mean that nothing is eternal.\nAt the end of a cycle, the earth shall be renewed.\nThus eternity is cyclical.\nThe search for truth is a product of prosperity, and not the seed that plants it.\nThey say that, Once upon a time, the people of the land could hear revelations from Celestia directly.\nThe envoys of the gods walked among benighted humanity then.\nIn those days, life was weak, and the earth was blanketed in unending ice.",
+        "zh": "**Название:** 祭冰礼冠\n\n**Описание:** 据说：历代的主祭在生涯的最末都看到了同样的景象：遍地礼冠堆积在秘境之中，枯木之下。\n每一件的背后都是用一生保守的秘密。\n每一任主祭退任后都将无瑕的白枝编成的礼冠，奉还给这个世界。\n每个曾经宏伟的古都与肃穆的祭祀场，最终都会回归深邃的大地。\n一切繁荣当然都有终结。\n但是这不代表没有永恒。\n在循环的终点，大地会再度迎来春生。\n因此，「永恒」\n是环形的。\n「求索真相」\n是繁荣所带来的智识，而不是催生繁荣所需的种子。\n据说：曾经有一个时代，大地上的人们还能直接听到来自天空岛的启示。\n神的使者行走在蒙昧的人当中。\n彼时万物的气息渐弱，大地永冻。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Корона разума\n**Название:** Тиара холода\n\n**Описание:** Говорят, чтоперед каждым поколением жрецов в их последние дни представал один и тот же образ: нагромождение венцов под засохшим деревом в таинственном месте.\nКаждый из них скрывал целую жизнь нерассказанных тайн.\nКаждый верховный жрец, отходя на покой, свой безупречный венец из белых ветвей возвращает миру.\nКаждая величественная древняя столица, каждый священный алтарь однажды должны будут вернуться в земные глубины.\nВсякому процветанию должен наступить конец.\nНо это не значит, что ничто не вечно.\nВ завершении каждого цикла обновляется земля, поэтому вечность циклична.\nПоиск истины появляется благодаря процветанию, а вовсе не наоборот.\nГоворят, чтоКогда-то люди получали озарения прямиком из самой Селестии.\nВ те времена посланники богов ходили меж тёмных смертных, а на скованной ледниками земле едва теплилась жизнь.",
+    "en": "Circlet of Logos\n**Название:** Tiara of Frost\n\n**Описание:** They say that, The line of chief priests have always seen this same sight as their days draw to an end: A mountain of crowns in a secret place, beneath a withered tree——each one hiding a lifetime of secrets kept.\nEach retiring chief priest offers up their crown of flawless white branches to this world.\nEvery mighty and ancient city, and every austere place of sacrifice must one day return to profundity in the earth.\nAll prosperity must someday end.\nBut this does not mean that nothing is eternal.\nAt the end of a cycle, the earth shall be renewed.\nThus eternity is cyclical.\nThe search for truth is a product of prosperity, and not the seed that plants it.\nThey say that, Once upon a time, the people of the land could hear revelations from Celestia directly.\nThe envoys of the gods walked among benighted humanity then.\nIn those days, life was weak, and the earth was blanketed in unending ice.",
+    "zh": "理之冠\n**Название:** 祭冰礼冠\n\n**Описание:** 据说：历代的主祭在生涯的最末都看到了同样的景象：遍地礼冠堆积在秘境之中，枯木之下。\n每一件的背后都是用一生保守的秘密。\n每一任主祭退任后都将无瑕的白枝编成的礼冠，奉还给这个世界。\n每个曾经宏伟的古都与肃穆的祭祀场，最终都会回归深邃的大地。\n一切繁荣当然都有终结。\n但是这不代表没有永恒。\n在循环的终点，大地会再度迎来春生。\n因此，「永恒」\n是环形的。\n「求索真相」\n是繁荣所带来的智识，而不是催生繁荣所需的种子。\n据说：曾经有一个时代，大地上的人们还能直接听到来自天空岛的启示。\n神的使者行走在蒙昧的人当中。\n彼时万物的气息渐弱，大地永冻。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

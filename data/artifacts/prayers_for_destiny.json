@@ -1,0 +1,46 @@
+{
+  "id": "prayers_for_destiny",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/prayers_for_destiny.webp",
+  "title": {
+    "ru": "Шаман воды",
+    "en": "Prayers for Destiny",
+    "zh": "祭水之人"
+  },
+  "region": "Тейват",
+  "piece_count": 1,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Тиара воды\n\n**Описание:** Говорят, чтокогда-то люди получали озарения прямиком от самих небес.\nВ те времена посланники богов ходили меж тёмных смертных, а древние костры потушили первые дожди.\nБыли то времена процветания и обильных урожаев.\nБлагословенной землёй правили небеса, а стихии беспрепятственно текли своим чередом.\nСвященный план сулил столетие благоденствия, и ничто не могло этого изменить.\nНо что будет потом, через сто или тысячу лет?\nПерестанет ли родить земля, и всех постигнет великий голод?\nПоглотит ли их алтари земля, и останется лишь дерево с серебряными ветвями?\nОхотно делившиеся знанием посланники богов теперь молчали.\nЧтобы разгадать судьбу, увенчанный белыми ветвями верховный жрец должен был отправиться в глубины этого мира...",
+        "en": "**Название:** Tiara of Torrents\n\n**Описание:** They say that, Once upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the ancient flames were extinguished amidst the first falling rains.\nIt was a prosperous time, a period of bountiful harvest.\nThen the earth was blessed and ruled by heaven, and the elemental flows were smooth and well-ordered.\nA hundred years of bounty were written in the stars, and none could change this divine law.\nBut what of the time after, a hundred, a thousand years from now?\nWould they have famine where they had plenty, poverty where once were riches?\nWould their altars and palaces become one with the soil, with only that silver-white tree for company?\nThe heavenly envoys, who ever spoke what they knew, were silent.\nSo to understand this doom, The chief priest, head crowned with white branches, would delve into the deep places of the world...",
+        "zh": "**Название:** 祭水礼冠\n\n**Описание:** 据说：曾经有一个时代，地上的人们能直接听到来自天空的启示。\n神的使者行走在蒙昧的人当中。\n此时旧火将熄，甘霖初降。\n人们享受着繁荣，收获丰饶的物产。\n此时大地蒙受天空的福祉与管辖，元素流动通畅有序。\n百年丰收已经写进神圣的规划，绝不可能有丝毫变动。\n但百年，或许千年之后呢？\n大地会走向贫瘠与饥馑吗？\n祭坛、宫殿会被埋入地心，仅有银白之木与之相伴吗…\n知无不言的，天上的使者没有回应。\n为了通晓命运，头戴白枝祭冠的主祭之人，走向了大地的至深之处…"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Корона разума\n**Название:** Тиара воды\n\n**Описание:** Говорят, чтокогда-то люди получали озарения прямиком от самих небес.\nВ те времена посланники богов ходили меж тёмных смертных, а древние костры потушили первые дожди.\nБыли то времена процветания и обильных урожаев.\nБлагословенной землёй правили небеса, а стихии беспрепятственно текли своим чередом.\nСвященный план сулил столетие благоденствия, и ничто не могло этого изменить.\nНо что будет потом, через сто или тысячу лет?\nПерестанет ли родить земля, и всех постигнет великий голод?\nПоглотит ли их алтари земля, и останется лишь дерево с серебряными ветвями?\nОхотно делившиеся знанием посланники богов теперь молчали.\nЧтобы разгадать судьбу, увенчанный белыми ветвями верховный жрец должен был отправиться в глубины этого мира...",
+    "en": "Circlet of Logos\n**Название:** Tiara of Torrents\n\n**Описание:** They say that, Once upon a time, the people of the land could hear revelations from the heavens directly.\nThen, the envoys of the gods would walk among benighted humanity, and the ancient flames were extinguished amidst the first falling rains.\nIt was a prosperous time, a period of bountiful harvest.\nThen the earth was blessed and ruled by heaven, and the elemental flows were smooth and well-ordered.\nA hundred years of bounty were written in the stars, and none could change this divine law.\nBut what of the time after, a hundred, a thousand years from now?\nWould they have famine where they had plenty, poverty where once were riches?\nWould their altars and palaces become one with the soil, with only that silver-white tree for company?\nThe heavenly envoys, who ever spoke what they knew, were silent.\nSo to understand this doom, The chief priest, head crowned with white branches, would delve into the deep places of the world...",
+    "zh": "理之冠\n**Название:** 祭水礼冠\n\n**Описание:** 据说：曾经有一个时代，地上的人们能直接听到来自天空的启示。\n神的使者行走在蒙昧的人当中。\n此时旧火将熄，甘霖初降。\n人们享受着繁荣，收获丰饶的物产。\n此时大地蒙受天空的福祉与管辖，元素流动通畅有序。\n百年丰收已经写进神圣的规划，绝不可能有丝毫变动。\n但百年，或许千年之后呢？\n大地会走向贫瘠与饥馑吗？\n祭坛、宫殿会被埋入地心，仅有银白之木与之相伴吗…\n知无不言的，天上的使者没有回应。\n为了通晓命运，头戴白枝祭冠的主祭之人，走向了大地的至深之处…"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

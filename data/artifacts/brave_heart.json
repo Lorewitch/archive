@@ -1,0 +1,98 @@
+{
+  "id": "brave_heart",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/brave_heart.webp",
+  "title": {
+    "ru": "Душа храбреца",
+    "en": "Brave Heart",
+    "zh": "勇士之心"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Брошь храбреца\n\n**Описание:** Маленький герой выскользнул ночью из дому, и вместе с другом они стремглав помчались в лес волков.\nРогаткой он обращал в бегство кабанов, и крепкой веткой дубасил воображаемых демонов.\nОн последовал за светящейся феей вглубь леса и нашёл сокровище, которое лежало в земле тысячи лет.\nИм оказался крохотный жёлтый цветок.\nМаленький усталый храбрец вернулся в свою детскую спаленку и принялся осматривать добытый трофей.\nОн очень удивился, когда обнаружил, что цветочек нисколько не высох, тогда как всё остальное вокруг него под напором времени менялось.",
+        "en": "**Название:** Medal of the Brave\n\n**Описание:** The little hero slipped out of doors by night, and with his friend rushed headlong into the wolves' forest.\nWith his slingshot he chased boars, and with sturdy branches he would battle imaginary monsters.\nFollowing the shining Seelie deep into the woods, he discovered a treasure that had laid buried for a thousand years.\nThat treasure was a small yellow flower.\nWhen the tired hero returned to his childhood bedroom, and flipped through the proof of his first adventures, He discovered to his surprise that the long-hidden flower had yet to wilt.\nYet in this it was alone, for everything else had changed with the passing of years.",
+        "zh": "**Название:** 勇士的勋章\n\n**Описание:** 小勇士趁夜溜出家门，与挚友兴冲冲地闯入狼的森林。\n用小小弹弓赶跑野猪，用坚韧的树枝痛打假想的鬼魂。\n跟随发光的仙灵跑到森林深处，发掘沉睡千年的宝藏。\n所谓的「宝藏」\n正是这朵黄色的小花。\n待到疲惫的勇士回到童年的卧房，检阅儿时冒险的证物。\n他惊奇地发现，多年之前藏起的那朵小花仍未干枯朽坏，但其他的事情不似花儿，已经悄悄在漫长岁月中变质了。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Надежды храбреца\n\n**Описание:** Чтобы утешить своего слезливого друга, юный воин подарил ему перо птицы.\nОно было знаком их приключений и сокровищ, что они находили вместе, и должно было взбодрить товарища.\nПозже один из них получил прозвище «Лев»и стал некоронованным королём во главе большой группы рыцарей.\nА другого прозвали «Волком».\nОн помогал своему другу, ведая делами государства из тени.\nВ те тревожные времена они подобно мечу и кинжалу стояли на страже королевства и друг друга.\nНо случилась эта история много, много лет тому назад.\nБезмерное их число было утеряно во время бедствия...",
+        "en": "**Название:** Prospect of the Brave\n\n**Описание:** To comfort his crybaby of a companion, the young hero gave his friend a bird's feather.\nThis was proof of their shared adventure, of the treasure they found together, and was meant to embolden his comrade.\nMuch later, one of them was named a \"lion, \"And became a crownless king at the head of many knights.\nThe other became a \"wolf, \"Supporting his friend from the shadows, and running affairs of state.\nIn those turbulent times, the two defended their home and each other like sword and dagger.\nBut this was a story from long ago.\nSo many were lost during the cataclysm.",
+        "zh": "**Название:** 勇士的期许\n\n**Описание:** 为了安慰爱哭的同伴，小小的勇士将飞鸟的羽毛赠给了他。\n作为一同冒险的证明，一同寻宝的成果，增强伙伴的胆气。\n后来其中一人负上了「狮」\n的名号，成为统领一众骑士的无冕王者；\n而另一人，则获得了「狼」\n的称呼，在暗中辅佐往日的挚友、如今的领袖治世。\n在动荡的年代，二者如明刃和匕首般守卫着家乡与彼此。\n但那是很久很久以前的事情了。\n无数的故事失落在了灾厄之中。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Стойкость храбреца\n\n**Описание:** Когда из-под земли забили чёрные ручьи проклятья и землю наводнило бедствие, рыцари, переходя дикие земли, узрели богохульный ужас, но, словно северные ледники, непоколебимо держали строй.\nВзвивались клинки, ярко сверкала на солнце сталь, и ядовитым дождём падала на землю чёрная кровь.\nГерой наконец вернулся домой, но уже без старого друга.\nПеременилось всё, кроме его подарка - песочных часов.",
+        "en": "**Название:** Fortitude of the Brave\n\n**Описание:** When the black curses poured forth, and the roots of disaster infested the earth, The knights, on expedition in a foreign land, would face the horror head on, their formation steely as the northern glaciers.\nThe steel of their greatswords flashed brightly, and the dark ichor fell like poisoned rain.\nAt last the hero returned home, but this time, without his old friend.\nSo much had changed, save for the hourglass that childhood companion had gifted him.",
+        "zh": "**Название:** 勇士的坚毅\n\n**Описание:** 当深黑的诅咒如同泉涌，自灾祸的渊薮侵入大地。\n远征荒土的骑士们直面恐怖，严阵似北地的冰川。\n大剑闪着明亮铁光，污黑的毒血如雨般奔流其上…\n最终勇士终于归乡。\n而旧友如今已不再。\n不变的只有，儿时好友赠送的小小沙漏。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Проводы храбреца\n\n**Описание:** Первый бой юного воина завершился первым для него триумфом.\nВ тот день он и его верный, весёлый и беззаботный друг пили вино.\nМного лет спустя, с началом великого бедствия, он возглавил рыцарей в бою за родину.\nПеред битвой он уговорил своего старого друга, а ныне - помощника, испить с ним вина.\n«Если не вернёшься ты, я тебя оплакивать не буду.\nНо подниму я в твою честь бокал, как пьём мы с тобой сегодня».",
+        "en": "**Название:** Outset of the Brave\n\n**Описание:** The young hero's first battle ended, and for the first time he tasted the sweet wine of victory.\nThat day, deep of the vine he drank together with his closest friend — supportive, joyful, and blissfully ignorant.\nMany years later, when the cataclysm came, he led the knights to fight for his homeland.\nOn the eve of battle, he advised his childhood friend and long-time deputy to come drink with him.\n\"If you do not return, I will not mourn you.\"\n\"Nay, I will toast you, and drink in your honor, just as we do today.\"",
+        "zh": "**Название:** 勇士的壮行\n\n**Описание:** 年轻的勇士初战告捷，第一次享受到胜利的滋味。\n伴着至交挚友的支持，欣喜与茫然在酒杯中交织。\n多年后灾祸降临时，他率领骑士为保卫家乡而战。\n出战前，他劝如今担当副手的童年好友举杯共饮：「假如你不再凯旋，我可不会为你哭泣」\n「我要像今天一样，再为你而痛饮一杯」"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Венок храбреца\n\n**Описание:** Юный герой вошёл в таинственный дремучий лес и ступил на путь сопротивления.\nЕго лучший друг детства стал же рыцарем на службе аристократов.\n«Словно лев шагаю я по полю боя.\nСовсем как она, тысячи лет назад.\nПоэты сложат о моём мече стихи, которые дойдут до потомков».\nИх игрушечные мечи и ветки в свирепом поединке ударялись друг о друга, пока герой не одержал победу и не и отнял у аристократов корону.\nМного лет спустя этот грубый, сплетённый из цветов венецказался ценностью ещё большей, чем власть командира рыцарей...",
+        "en": "**Название:** Crown of the Brave\n\n**Описание:** The little hero entered the deep, mysterious forest, and henceforth walked the path of resistance.\nHis best playmate played the role of the champion knight of the aristocracy.\n\"Like a lion I stride the battlefield, like she did a thousand years before.\"\n\"Songs I will inspire with my sword, to give to generations to come.\"\nTheir toy greatswords and tree branches clashed in their fierce duel—Till at last the hero won the day, and seized the aristocrats' crowns from their heads.\nMany years later, this wreath of flowers, though crudely made, Would seem more precious still than the power a master of knights held...",
+        "zh": "**Название:** 勇士的冠冕\n\n**Описание:** 小小的勇士深入密林，踏上抗争的旅程。\n而最好的玩伴则扮演着贵族的冠军骑士。\n「如雄狮般漫步战场，一如千年前的她那样」\n「将刀剑纺成的诗献给未来的少年与少女吧」\n两人的假大剑与长树枝相互撞击，开始决斗——最终抗争的勇士取得了胜利，摘下了贵族之冠。\n多年后，这顶花草编成的粗陋冠冕，却显得比统领骑士的权能更加宝贵…"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Брошь храбреца\n\n**Описание:** Маленький герой выскользнул ночью из дому, и вместе с другом они стремглав помчались в лес волков.\nРогаткой он обращал в бегство кабанов, и крепкой веткой дубасил воображаемых демонов.\nОн последовал за светящейся феей вглубь леса и нашёл сокровище, которое лежало в земле тысячи лет.\nИм оказался крохотный жёлтый цветок.\nМаленький усталый храбрец вернулся в свою детскую спаленку и принялся осматривать добытый трофей.\nОн очень удивился, когда обнаружил, что цветочек нисколько не высох, тогда как всё остальное вокруг него под напором времени менялось.\n\nПеро смерти\n**Название:** Надежды храбреца\n\n**Описание:** Чтобы утешить своего слезливого друга, юный воин подарил ему перо птицы.\nОно было знаком их приключений и сокровищ, что они находили вместе, и должно было взбодрить товарища.\nПозже один из них получил прозвище «Лев»и стал некоронованным королём во главе большой группы рыцарей.\nА другого прозвали «Волком».\nОн помогал своему другу, ведая делами государства из тени.\nВ те тревожные времена они подобно мечу и кинжалу стояли на страже королевства и друг друга.\nНо случилась эта история много, много лет тому назад.\nБезмерное их число было утеряно во время бедствия...\n\nПески времени\n**Название:** Стойкость храбреца\n\n**Описание:** Когда из-под земли забили чёрные ручьи проклятья и землю наводнило бедствие, рыцари, переходя дикие земли, узрели богохульный ужас, но, словно северные ледники, непоколебимо держали строй.\nВзвивались клинки, ярко сверкала на солнце сталь, и ядовитым дождём падала на землю чёрная кровь.\nГерой наконец вернулся домой, но уже без старого друга.\nПеременилось всё, кроме его подарка - песочных часов.\n\nКубок пространства\n**Название:** Проводы храбреца\n\n**Описание:** Первый бой юного воина завершился первым для него триумфом.\nВ тот день он и его верный, весёлый и беззаботный друг пили вино.\nМного лет спустя, с началом великого бедствия, он возглавил рыцарей в бою за родину.\nПеред битвой он уговорил своего старого друга, а ныне - помощника, испить с ним вина.\n«Если не вернёшься ты, я тебя оплакивать не буду.\nНо подниму я в твою честь бокал, как пьём мы с тобой сегодня».\n\nКорона разума\n**Название:** Венок храбреца\n\n**Описание:** Юный герой вошёл в таинственный дремучий лес и ступил на путь сопротивления.\nЕго лучший друг детства стал же рыцарем на службе аристократов.\n«Словно лев шагаю я по полю боя.\nСовсем как она, тысячи лет назад.\nПоэты сложат о моём мече стихи, которые дойдут до потомков».\nИх игрушечные мечи и ветки в свирепом поединке ударялись друг о друга, пока герой не одержал победу и не и отнял у аристократов корону.\nМного лет спустя этот грубый, сплетённый из цветов венецказался ценностью ещё большей, чем власть командира рыцарей...",
+    "en": "Flower of Life\n**Название:** Medal of the Brave\n\n**Описание:** The little hero slipped out of doors by night, and with his friend rushed headlong into the wolves' forest.\nWith his slingshot he chased boars, and with sturdy branches he would battle imaginary monsters.\nFollowing the shining Seelie deep into the woods, he discovered a treasure that had laid buried for a thousand years.\nThat treasure was a small yellow flower.\nWhen the tired hero returned to his childhood bedroom, and flipped through the proof of his first adventures, He discovered to his surprise that the long-hidden flower had yet to wilt.\nYet in this it was alone, for everything else had changed with the passing of years.\n\nPlume of Death\n**Название:** Prospect of the Brave\n\n**Описание:** To comfort his crybaby of a companion, the young hero gave his friend a bird's feather.\nThis was proof of their shared adventure, of the treasure they found together, and was meant to embolden his comrade.\nMuch later, one of them was named a \"lion, \"And became a crownless king at the head of many knights.\nThe other became a \"wolf, \"Supporting his friend from the shadows, and running affairs of state.\nIn those turbulent times, the two defended their home and each other like sword and dagger.\nBut this was a story from long ago.\nSo many were lost during the cataclysm.\n\nSands of Eon\n**Название:** Fortitude of the Brave\n\n**Описание:** When the black curses poured forth, and the roots of disaster infested the earth, The knights, on expedition in a foreign land, would face the horror head on, their formation steely as the northern glaciers.\nThe steel of their greatswords flashed brightly, and the dark ichor fell like poisoned rain.\nAt last the hero returned home, but this time, without his old friend.\nSo much had changed, save for the hourglass that childhood companion had gifted him.\n\nGoblet of Eonothem\n**Название:** Outset of the Brave\n\n**Описание:** The young hero's first battle ended, and for the first time he tasted the sweet wine of victory.\nThat day, deep of the vine he drank together with his closest friend — supportive, joyful, and blissfully ignorant.\nMany years later, when the cataclysm came, he led the knights to fight for his homeland.\nOn the eve of battle, he advised his childhood friend and long-time deputy to come drink with him.\n\"If you do not return, I will not mourn you.\"\n\"Nay, I will toast you, and drink in your honor, just as we do today.\"\n\nCirclet of Logos\n**Название:** Crown of the Brave\n\n**Описание:** The little hero entered the deep, mysterious forest, and henceforth walked the path of resistance.\nHis best playmate played the role of the champion knight of the aristocracy.\n\"Like a lion I stride the battlefield, like she did a thousand years before.\"\n\"Songs I will inspire with my sword, to give to generations to come.\"\nTheir toy greatswords and tree branches clashed in their fierce duel—Till at last the hero won the day, and seized the aristocrats' crowns from their heads.\nMany years later, this wreath of flowers, though crudely made, Would seem more precious still than the power a master of knights held...",
+    "zh": "生之花\n**Название:** 勇士的勋章\n\n**Описание:** 小勇士趁夜溜出家门，与挚友兴冲冲地闯入狼的森林。\n用小小弹弓赶跑野猪，用坚韧的树枝痛打假想的鬼魂。\n跟随发光的仙灵跑到森林深处，发掘沉睡千年的宝藏。\n所谓的「宝藏」\n正是这朵黄色的小花。\n待到疲惫的勇士回到童年的卧房，检阅儿时冒险的证物。\n他惊奇地发现，多年之前藏起的那朵小花仍未干枯朽坏，但其他的事情不似花儿，已经悄悄在漫长岁月中变质了。\n\n死之羽\n**Название:** 勇士的期许\n\n**Описание:** 为了安慰爱哭的同伴，小小的勇士将飞鸟的羽毛赠给了他。\n作为一同冒险的证明，一同寻宝的成果，增强伙伴的胆气。\n后来其中一人负上了「狮」\n的名号，成为统领一众骑士的无冕王者；\n而另一人，则获得了「狼」\n的称呼，在暗中辅佐往日的挚友、如今的领袖治世。\n在动荡的年代，二者如明刃和匕首般守卫着家乡与彼此。\n但那是很久很久以前的事情了。\n无数的故事失落在了灾厄之中。\n\n时之沙\n**Название:** 勇士的坚毅\n\n**Описание:** 当深黑的诅咒如同泉涌，自灾祸的渊薮侵入大地。\n远征荒土的骑士们直面恐怖，严阵似北地的冰川。\n大剑闪着明亮铁光，污黑的毒血如雨般奔流其上…\n最终勇士终于归乡。\n而旧友如今已不再。\n不变的只有，儿时好友赠送的小小沙漏。\n\n空之杯\n**Название:** 勇士的壮行\n\n**Описание:** 年轻的勇士初战告捷，第一次享受到胜利的滋味。\n伴着至交挚友的支持，欣喜与茫然在酒杯中交织。\n多年后灾祸降临时，他率领骑士为保卫家乡而战。\n出战前，他劝如今担当副手的童年好友举杯共饮：「假如你不再凯旋，我可不会为你哭泣」\n「我要像今天一样，再为你而痛饮一杯」\n\n理之冠\n**Название:** 勇士的冠冕\n\n**Описание:** 小小的勇士深入密林，踏上抗争的旅程。\n而最好的玩伴则扮演着贵族的冠军骑士。\n「如雄狮般漫步战场，一如千年前的她那样」\n「将刀剑纺成的诗献给未来的少年与少女吧」\n两人的假大剑与长树枝相互撞击，开始决斗——最终抗争的勇士取得了胜利，摘下了贵族之冠。\n多年后，这顶花草编成的粗陋冠冕，却显得比统领骑士的权能更加宝贵…"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}

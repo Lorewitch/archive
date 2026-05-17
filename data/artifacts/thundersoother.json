@@ -1,0 +1,98 @@
+{
+  "id": "thundersoother",
+  "category": "artifacts",
+  "icon": "assets/icons/artifacts/thundersoother.webp",
+  "title": {
+    "ru": "Усмиряющий гром",
+    "en": "Thundersoother",
+    "zh": "平息鸣雷的尊者"
+  },
+  "region": "Тейват",
+  "piece_count": 5,
+  "game_version": "1.0",
+  "tags": [
+    "артефакты",
+    "сет артефактов"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "parts": [
+    {
+      "key": "flower",
+      "title": {
+        "ru": "Цветок жизни",
+        "en": "Flower of Life",
+        "zh": "生之花"
+      },
+      "text": {
+        "ru": "**Название:** Сердце усмиряющего гром\n\n**Описание:** Маленький фиолетовый цветок, сорванный во время грозы.\nТот, кто носит его, может не бояться молний.\nЭтот цветок цветёт только во время грозы, и сильные ливни не способны убить его.\nЭто Громовой Цветок.\nСрывая его, Усмиряющий Гром почтительно опустился на колени.\nУсмиряющий Гром всегда носил этот цветок на груди и с ним бесстрашно встречал бури и грозы.\nОн не колебался ни секунды даже перед кровавой битвой с Громовым Монстром.\nВозможно, ношение цветка на груди для Усмиряющего Гром было всего лишь прихотью, Но для путешественников цветок был символом решимости в битве со штормом.",
+        "en": "**Название:** Thundersoother's Heart\n\n**Описание:** A purple flower plucked in a thunderstorm.\nWhoever wears it will no longer fear the thunder and lightning.\nThis flower blossoms only in thunderstorms, and never withers despite the constant rain.\nThis is the Flower of Thunder.\nKneeling before it, the Thundersoother plucked it with reverence.\nThe Thundersoother wore this flower on his chest at all times as he fearlessly faced the thunder and lightning.\nEven when fighting the fierce Beast of Thunder, his resolve never wavered.\nTo the Thundersoother, wearing this purple flower may have been merely an act of whimsy,\nbut to travelers, the flower was the source of the unfaltering resolve that conquered the thunder.",
+        "zh": "**Название:** 平雷之心\n\n**Описание:** 雷暴中摘下的小小紫色花朵，能够令佩戴者无需畏惧雷电。\n紫雷中盛放的花，久经暴雨而未曾枯萎。\n这是雷霆之花，被平雷的尊者屈膝摘下。\n勇士将这朵花始终佩在胸前，高傲地面对雷电。\n即使与雷之魔兽的血战，也未曾将之动摇半分。\n对于尊者，心口的紫色小花或许只是一时兴起。\n但对于行路的游人，这是战胜暴雷的果敢决心。"
+      }
+    },
+    {
+      "key": "plume",
+      "title": {
+        "ru": "Перо смерти",
+        "en": "Plume of Death",
+        "zh": "死之羽"
+      },
+      "text": {
+        "ru": "**Название:** Перо усмиряющего гром\n\n**Описание:** Брошь в виде пера ястреба, парившего в штормах.\nТот, кто носит его на груди, может ощутить дыхание грозы и жар огня.\nЯстреб, не боявшийся ни гроз, ни пламени, Некогда оставил своё перо в обуглившемся после пожара лесу.\nПо форме этого пера Усмиряющий Гром создал брошь из аметиста.\nПод взглядами врагов брошь начинает сиять пурпурным светом.\nСвет этой маленькой вещички слепит глаза, Как будто предрекает падение Громового Монстра.\nУсмиряющий Гром, подобно ястребу не боявшийся ни грозы, ни пламени, В конце концов обезглавил Громового монстра.",
+        "en": "**Название:** Thundersoother's Plume\n\n**Описание:** An insignia made in the shape of the plume of a falcon that soared through the storms.\nIts wearer can almost feel the booming of thunder and the heat of a volcano.\nFearing neither the thunder nor the volcano, the falcon left its plume in the burnt woods.\nThe Thundersoother fashioned an amethyst insignia in the plume's likeness.\nThe purple insignia shimmered with light under the gaze of enemies.\nOn this small object lightning glittered,\nas if to foreshadow the downfall of the Beast of Thunder.\nLike the falcon, the Thundersoother conquered both thunder and flames,\nand eventually beheaded the Beast of Thunder.",
+        "zh": "**Название:** 平雷之羽\n\n**Описание:** 鹰翎状的徽章，仿照穿行雷暴的猛隼翎羽而造。\n贴在胸前似乎能从中感受到雷电与山火的气息。\n不畏雷电，不惧山火的猛隼，曾在烧焦的林木间遗下羽毛。\n勇士仿照其形状，用紫水晶打造成徽章。\n在大敌的注视下，紫色的鹰翎闪闪发光。\n小小的徽章上，耀眼的电光盘虬又星散。\n仿佛预示着雷之魔兽将面临的凶险制裁。\n勇士如无谓雷霆与火的猛禽，最终斩下雷电之魔兽的头颅。"
+      }
+    },
+    {
+      "key": "sands",
+      "title": {
+        "ru": "Пески времени",
+        "en": "Sands of Eon",
+        "zh": "时之沙"
+      },
+      "text": {
+        "ru": "**Название:** Время усмиряющего гром\n\n**Описание:** Песочные часы, некогда использовавшиеся Усмиряющим Гром.\nПесок в них заменяют маленькие Электро кристаллы.\nКристаллы разбиваются на мелкие осколки, чтобы проскользнуть вниз и слиться воедино на дне часов.\nУсмиряющий Гром, безжалостно расправившийся с Громовым Монстром, изготовил эти песочные часы из аметиста.\nТечение времени в них стремительно, словно молния, подобно ливню, и за ним не угнаться.\nДаже самому Усмиряющему Гром не тягаться со временем, скоротечным, как грозовой разряд.\nДаже гром и молния, запертые в этих песочных часах, вынуждены подчиняться неизменным законам времени.\nКристаллы внутри часов разбиваются и собираются воедино бесчисленное множество раз, а время пролетает быстро, словно молния, и никогда не возвращается.\nСледя за ходом времени в этих часах, Усмиряющий Гром осознал суть жизненного цикла, и это помогло ему повергнуть монстра.",
+        "en": "**Название:** Hour of Soothing Thunder\n\n**Описание:** An hourglass the Thundersoother once used.\nFlowing within it is not sand, but tiny Electro shards.\nThe shards shatter and flow down as time passes, then merge together at the bottom of the hourglass.\nThe Thundersoother who defeated the Beast of Thunder crafted this hourglass from amethyst.\nThe passage of time is just like lightning.\nIt bursts through the sky and is gone in a flash.\nEven the Thundersoother could not conquer the flash of time.\nWithin this hourglass, even thunder and lightning have to obey the never-changing law of time.\nIn the hourglass, the shards shatter and merge countless times while time silently flashes by.\nObserving this taught the Thundersoother about the cycle of life and death.\nEmpowered with this knowledge, he was able to defeat the beast.",
+        "zh": "**Название:** 平雷之刻\n\n**Описание:** 以雷之碎晶替代流沙的沙漏，曾为尊者所用。\n晶石随时间而崩碎泻落，又在下部合为一体。\n屠戮雷之魔兽的勇士用紫水晶制成了这尊沙漏。\n时间的流逝如瀑如电，一泻千里，又疾不可追。\n即使平雷的尊者，也无法对时间这道惊雷回应。\n被囚禁于这沙漏之内，即使雷电也无法违抗时光永恒的节律，水晶崩裂又重组无数次，时间在电光中悄然飞逝，不复归焉。\n而参透了其中蕴意的万物兴衰，则成了勇士诛杀魔兽的关键。"
+      }
+    },
+    {
+      "key": "goblet",
+      "title": {
+        "ru": "Кубок пространства",
+        "en": "Goblet of Eonothem",
+        "zh": "空之杯"
+      },
+      "text": {
+        "ru": "**Название:** Бокал усмиряющего гром\n\n**Описание:** Кубок, однажды принадлежавший Усмиряющему Гром.\nВозможно, его бывший владелец пил из него молнии.\nУсмиряющий Гром, беспощадно истреблявший монстров, тоже был человеком со своими печалями и радостями.\nОн радовался и гневался стремительно, как молния: чувства быстро приходили и уходили во мгновение ока.\nЭтот кубок видел своего хозяина и в счастье, и в горе.\nИ при распитии ритуального вина, использовавшегося при жертвоприношении семьи Усмиряющего Гром, И когда сам Усмиряющий Гром пил, чтобы набраться храбрости перед спуском в тёмные недра полной монстров пещеры, Во все времена кубок был с ним до последнего часа, скрашивая его одиночество.",
+        "en": "**Название:** Thundersoother's Goblet\n\n**Описание:** A goblet that once belonged to the Thundersoother.\nPerhaps its former owner once used it to drink the thunder.\nMighty as he was, the Thundersoother was a mere mortal with human feelings.\nRage and ecstasy would come and go in a flash, just like the pounding thunder.\nThis goblet witnessed not only the feats of the Thundersoother, but also his sorrow and laughter.\nFrom this goblet was drunk the wine used in the sacrificial slaying of the Thundersoother's family.\nFrom this goblet came the courage that helped the Thundersoother venture forth into the beast's cave.\nFrom this goblet came the sole source of companionship for the Thundersoother, who spent his final days in solitude.",
+        "zh": "**Название:** 平雷之器\n\n**Описание:** 平定雷灾的尊者使用的酒杯，或许它的旧主曾以紫电为饮。\n屠戮魔兽的尊者也是凡人，也会见得而喜，因失而悲。\n暴怒与狂喜如同轰雷掣电，其来之也骤，其去之也急。\n见证了此人平定惊雷的紫晶盏，容纳了一切喜怒伤悲。\n无论是亲眷被作为供奉时的祭之酒，或是借以杯中之勇于暗夜深入兽穴，抑或是平定雷电的尊者孤独的最期。"
+      }
+    },
+    {
+      "key": "circlet",
+      "title": {
+        "ru": "Корона разума",
+        "en": "Circlet of Logos",
+        "zh": "理之冠"
+      },
+      "text": {
+        "ru": "**Название:** Корона усмиряющего гром\n\n**Описание:** Очень древняя пурпурная корона.\nОна искрится, словно усмирённая молния.\nЖестокий Громовой Монстрпрежде порабощал людей своими молниями.\nНо удар молнии мимолётен, Как скоротечен был и период его власти.\nУсмиряющий Гром, презрев молнии Громового Монстра, одержал над ним победу, И в награду получил эту корону.\nНо то время ушло безвозвратно.",
+        "en": "**Название:** Thundersoother's Diadem\n\n**Описание:** A very ancient diadem.\nIt shines with the light of the pacified lightning.\nThe ferocious Beast of Thunderonce enslaved people with its mighty lightning.\nBut its lightning existed only in a flash,\nand like the lightning, its mightiness soon disappeared.\nThe Thundersoother defeated the beast in a lightning storm.\nHe claimed this diadem as his trophy.\nBut the past can never be fully pacified.",
+        "zh": "**Название:** 平雷之冠\n\n**Описание:** 非常之古老的紫之冠，闪烁着征讨雷电的光。\n昔日暴虐的雷之魔兽，曾以雷霆手腕驱役人。\n殊不知霹雳稍纵即逝，威仪于大地无可存留。\n勇士冒着雷暴折却它的爪牙，为自己赢得这尊平雷的冠冕。\n但彼时故去的已经无可往回。"
+      }
+    }
+  ],
+  "text": {
+    "ru": "Цветок жизни\n**Название:** Сердце усмиряющего гром\n\n**Описание:** Маленький фиолетовый цветок, сорванный во время грозы.\nТот, кто носит его, может не бояться молний.\nЭтот цветок цветёт только во время грозы, и сильные ливни не способны убить его.\nЭто Громовой Цветок.\nСрывая его, Усмиряющий Гром почтительно опустился на колени.\nУсмиряющий Гром всегда носил этот цветок на груди и с ним бесстрашно встречал бури и грозы.\nОн не колебался ни секунды даже перед кровавой битвой с Громовым Монстром.\nВозможно, ношение цветка на груди для Усмиряющего Гром было всего лишь прихотью, Но для путешественников цветок был символом решимости в битве со штормом.\n\nПеро смерти\n**Название:** Перо усмиряющего гром\n\n**Описание:** Брошь в виде пера ястреба, парившего в штормах.\nТот, кто носит его на груди, может ощутить дыхание грозы и жар огня.\nЯстреб, не боявшийся ни гроз, ни пламени, Некогда оставил своё перо в обуглившемся после пожара лесу.\nПо форме этого пера Усмиряющий Гром создал брошь из аметиста.\nПод взглядами врагов брошь начинает сиять пурпурным светом.\nСвет этой маленькой вещички слепит глаза, Как будто предрекает падение Громового Монстра.\nУсмиряющий Гром, подобно ястребу не боявшийся ни грозы, ни пламени, В конце концов обезглавил Громового монстра.\n\nПески времени\n**Название:** Время усмиряющего гром\n\n**Описание:** Песочные часы, некогда использовавшиеся Усмиряющим Гром.\nПесок в них заменяют маленькие Электро кристаллы.\nКристаллы разбиваются на мелкие осколки, чтобы проскользнуть вниз и слиться воедино на дне часов.\nУсмиряющий Гром, безжалостно расправившийся с Громовым Монстром, изготовил эти песочные часы из аметиста.\nТечение времени в них стремительно, словно молния, подобно ливню, и за ним не угнаться.\nДаже самому Усмиряющему Гром не тягаться со временем, скоротечным, как грозовой разряд.\nДаже гром и молния, запертые в этих песочных часах, вынуждены подчиняться неизменным законам времени.\nКристаллы внутри часов разбиваются и собираются воедино бесчисленное множество раз, а время пролетает быстро, словно молния, и никогда не возвращается.\nСледя за ходом времени в этих часах, Усмиряющий Гром осознал суть жизненного цикла, и это помогло ему повергнуть монстра.\n\nКубок пространства\n**Название:** Бокал усмиряющего гром\n\n**Описание:** Кубок, однажды принадлежавший Усмиряющему Гром.\nВозможно, его бывший владелец пил из него молнии.\nУсмиряющий Гром, беспощадно истреблявший монстров, тоже был человеком со своими печалями и радостями.\nОн радовался и гневался стремительно, как молния: чувства быстро приходили и уходили во мгновение ока.\nЭтот кубок видел своего хозяина и в счастье, и в горе.\nИ при распитии ритуального вина, использовавшегося при жертвоприношении семьи Усмиряющего Гром, И когда сам Усмиряющий Гром пил, чтобы набраться храбрости перед спуском в тёмные недра полной монстров пещеры, Во все времена кубок был с ним до последнего часа, скрашивая его одиночество.\n\nКорона разума\n**Название:** Корона усмиряющего гром\n\n**Описание:** Очень древняя пурпурная корона.\nОна искрится, словно усмирённая молния.\nЖестокий Громовой Монстрпрежде порабощал людей своими молниями.\nНо удар молнии мимолётен, Как скоротечен был и период его власти.\nУсмиряющий Гром, презрев молнии Громового Монстра, одержал над ним победу, И в награду получил эту корону.\nНо то время ушло безвозвратно.",
+    "en": "Flower of Life\n**Название:** Thundersoother's Heart\n\n**Описание:** A purple flower plucked in a thunderstorm.\nWhoever wears it will no longer fear the thunder and lightning.\nThis flower blossoms only in thunderstorms, and never withers despite the constant rain.\nThis is the Flower of Thunder.\nKneeling before it, the Thundersoother plucked it with reverence.\nThe Thundersoother wore this flower on his chest at all times as he fearlessly faced the thunder and lightning.\nEven when fighting the fierce Beast of Thunder, his resolve never wavered.\nTo the Thundersoother, wearing this purple flower may have been merely an act of whimsy,\nbut to travelers, the flower was the source of the unfaltering resolve that conquered the thunder.\n\nPlume of Death\n**Название:** Thundersoother's Plume\n\n**Описание:** An insignia made in the shape of the plume of a falcon that soared through the storms.\nIts wearer can almost feel the booming of thunder and the heat of a volcano.\nFearing neither the thunder nor the volcano, the falcon left its plume in the burnt woods.\nThe Thundersoother fashioned an amethyst insignia in the plume's likeness.\nThe purple insignia shimmered with light under the gaze of enemies.\nOn this small object lightning glittered,\nas if to foreshadow the downfall of the Beast of Thunder.\nLike the falcon, the Thundersoother conquered both thunder and flames,\nand eventually beheaded the Beast of Thunder.\n\nSands of Eon\n**Название:** Hour of Soothing Thunder\n\n**Описание:** An hourglass the Thundersoother once used.\nFlowing within it is not sand, but tiny Electro shards.\nThe shards shatter and flow down as time passes, then merge together at the bottom of the hourglass.\nThe Thundersoother who defeated the Beast of Thunder crafted this hourglass from amethyst.\nThe passage of time is just like lightning.\nIt bursts through the sky and is gone in a flash.\nEven the Thundersoother could not conquer the flash of time.\nWithin this hourglass, even thunder and lightning have to obey the never-changing law of time.\nIn the hourglass, the shards shatter and merge countless times while time silently flashes by.\nObserving this taught the Thundersoother about the cycle of life and death.\nEmpowered with this knowledge, he was able to defeat the beast.\n\nGoblet of Eonothem\n**Название:** Thundersoother's Goblet\n\n**Описание:** A goblet that once belonged to the Thundersoother.\nPerhaps its former owner once used it to drink the thunder.\nMighty as he was, the Thundersoother was a mere mortal with human feelings.\nRage and ecstasy would come and go in a flash, just like the pounding thunder.\nThis goblet witnessed not only the feats of the Thundersoother, but also his sorrow and laughter.\nFrom this goblet was drunk the wine used in the sacrificial slaying of the Thundersoother's family.\nFrom this goblet came the courage that helped the Thundersoother venture forth into the beast's cave.\nFrom this goblet came the sole source of companionship for the Thundersoother, who spent his final days in solitude.\n\nCirclet of Logos\n**Название:** Thundersoother's Diadem\n\n**Описание:** A very ancient diadem.\nIt shines with the light of the pacified lightning.\nThe ferocious Beast of Thunderonce enslaved people with its mighty lightning.\nBut its lightning existed only in a flash,\nand like the lightning, its mightiness soon disappeared.\nThe Thundersoother defeated the beast in a lightning storm.\nHe claimed this diadem as his trophy.\nBut the past can never be fully pacified.",
+    "zh": "生之花\n**Название:** 平雷之心\n\n**Описание:** 雷暴中摘下的小小紫色花朵，能够令佩戴者无需畏惧雷电。\n紫雷中盛放的花，久经暴雨而未曾枯萎。\n这是雷霆之花，被平雷的尊者屈膝摘下。\n勇士将这朵花始终佩在胸前，高傲地面对雷电。\n即使与雷之魔兽的血战，也未曾将之动摇半分。\n对于尊者，心口的紫色小花或许只是一时兴起。\n但对于行路的游人，这是战胜暴雷的果敢决心。\n\n死之羽\n**Название:** 平雷之羽\n\n**Описание:** 鹰翎状的徽章，仿照穿行雷暴的猛隼翎羽而造。\n贴在胸前似乎能从中感受到雷电与山火的气息。\n不畏雷电，不惧山火的猛隼，曾在烧焦的林木间遗下羽毛。\n勇士仿照其形状，用紫水晶打造成徽章。\n在大敌的注视下，紫色的鹰翎闪闪发光。\n小小的徽章上，耀眼的电光盘虬又星散。\n仿佛预示着雷之魔兽将面临的凶险制裁。\n勇士如无谓雷霆与火的猛禽，最终斩下雷电之魔兽的头颅。\n\n时之沙\n**Название:** 平雷之刻\n\n**Описание:** 以雷之碎晶替代流沙的沙漏，曾为尊者所用。\n晶石随时间而崩碎泻落，又在下部合为一体。\n屠戮雷之魔兽的勇士用紫水晶制成了这尊沙漏。\n时间的流逝如瀑如电，一泻千里，又疾不可追。\n即使平雷的尊者，也无法对时间这道惊雷回应。\n被囚禁于这沙漏之内，即使雷电也无法违抗时光永恒的节律，水晶崩裂又重组无数次，时间在电光中悄然飞逝，不复归焉。\n而参透了其中蕴意的万物兴衰，则成了勇士诛杀魔兽的关键。\n\n空之杯\n**Название:** 平雷之器\n\n**Описание:** 平定雷灾的尊者使用的酒杯，或许它的旧主曾以紫电为饮。\n屠戮魔兽的尊者也是凡人，也会见得而喜，因失而悲。\n暴怒与狂喜如同轰雷掣电，其来之也骤，其去之也急。\n见证了此人平定惊雷的紫晶盏，容纳了一切喜怒伤悲。\n无论是亲眷被作为供奉时的祭之酒，或是借以杯中之勇于暗夜深入兽穴，抑或是平定雷电的尊者孤独的最期。\n\n理之冠\n**Название:** 平雷之冠\n\n**Описание:** 非常之古老的紫之冠，闪烁着征讨雷电的光。\n昔日暴虐的雷之魔兽，曾以雷霆手腕驱役人。\n殊不知霹雳稍纵即逝，威仪于大地无可存留。\n勇士冒着雷暴折却它的爪牙，为自己赢得这尊平雷的冠冕。\n但彼时故去的已经无可往回。"
+  },
+  "notes": {
+    "general": "",
+    "byPart": {}
+  }
+}
