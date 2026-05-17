@@ -71,6 +71,36 @@ ITEM_TYPE_DEFINITIONS = {
         "misc": {"ru": "Прочее", "en": "Miscellaneous", "zh": "其他"},
     },
 }
+
+COMMON_ENEMY_TYPE_ALIASES = {
+    "hilichurl": "hilichurls",
+    "hilichurls": "hilichurls",
+    "hiliсhurls": "hilichurls",
+    "elemental": "elementals",
+    "elementals": "elementals",
+    "slime": "elementals",
+    "slimes": "elementals",
+    "fatui": "fatui",
+    "automaton": "automatons",
+    "automatons": "automatons",
+    "ruin_machine": "automatons",
+    "ruin_machines": "automatons",
+    "ruin_guard": "automatons",
+    "ruin_guards": "automatons",
+    "human": "human_factions",
+    "humans": "human_factions",
+    "human_faction": "human_factions",
+    "human_factions": "human_factions",
+    "other_human_factions": "human_factions",
+    "abyss": "abyss",
+    "abyss_order": "abyss",
+    "beast": "mystical_beasts",
+    "beasts": "mystical_beasts",
+    "mystic_beasts": "mystical_beasts",
+    "mystical_beast": "mystical_beasts",
+    "mystical_beasts": "mystical_beasts",
+}
+
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
 
@@ -824,6 +854,53 @@ def make_search_text(*values: Any) -> str:
     return " ".join(parts)
 
 
+def game_version_sort_value(value: Any) -> int:
+    text = str(value or "").strip().replace(",", ".")
+    if not text:
+        return -1
+    parts = re.findall(r"\d+", text)
+    if not parts:
+        return -1
+    major = int(parts[0]) if len(parts) > 0 else 0
+    minor = int(parts[1]) if len(parts) > 1 else 0
+    patch = int(parts[2]) if len(parts) > 2 else 0
+    return major * 1_000_000 + minor * 1_000 + patch
+
+
+def region_filter_values(value: Any) -> list[str]:
+    return [part.strip() for part in str(value or "").split(",") if part.strip()]
+
+
+def normalize_common_enemy_type(value: Any) -> str:
+    key = re.sub(r"[^a-z0-9]+", "_", str(value or "").strip().lower()).strip("_")
+    return COMMON_ENEMY_TYPE_ALIASES.get(key, key)
+
+
+def common_enemy_type_keys_from_enemies(enemies: list[dict[str, Any]]) -> list[str]:
+    keys = {
+        normalize_common_enemy_type(enemy.get("enemy_group", ""))
+        for enemy in enemies
+        if normalize_common_enemy_type(enemy.get("enemy_group", ""))
+    }
+    return sorted(keys)
+
+
+def item_filter_type(item: dict[str, Any]) -> str:
+    if item.get("item_group") == "development_materials":
+        return str(item.get("material_type") or "talents")
+    if item.get("item_group") in ITEM_TYPE_DEFINITIONS:
+        return str(item.get("item_type") or "")
+    return ""
+
+
+def index_runtime_fields(item: dict[str, Any], filter_type: Any = "") -> dict[str, Any]:
+    return {
+        "filter_regions": region_filter_values(item.get("region", "")),
+        "filter_type": str(filter_type or ""),
+        "sort_version": game_version_sort_value(item.get("game_version", "")),
+    }
+
+
 
 def index_book(book: dict[str, Any]) -> dict[str, Any]:
     return {
@@ -838,6 +915,7 @@ def index_book(book: dict[str, Any]) -> dict[str, Any]:
         "game_version": book.get("game_version", ""),
         "tags": book.get("tags", []),
         "languages": book.get("languages", LANGS),
+        **index_runtime_fields(book, book.get("book_type") or book.get("subtype") or "book_series"),
         "search_text": make_search_text(
             book.get("title", {}),
             book.get("region", ""),
@@ -861,6 +939,7 @@ def index_artifact(item: dict[str, Any]) -> dict[str, Any]:
         "game_version": item.get("game_version", ""),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
+        **index_runtime_fields(item),
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("region", ""),
@@ -883,6 +962,7 @@ def index_weapon(item: dict[str, Any]) -> dict[str, Any]:
         "game_version": item.get("game_version", ""),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
+        **index_runtime_fields(item, str(item.get("rarity") or "")),
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("weapon_type", ""),
@@ -907,6 +987,8 @@ def index_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
         "tags": enemy.get("tags", []),
         "languages": enemy.get("languages", LANGS),
         "drop_count": len(enemy.get("drops", [])),
+        "enemy_type_keys": [normalize_common_enemy_type(enemy.get("enemy_group", ""))] if normalize_common_enemy_type(enemy.get("enemy_group", "")) else [],
+        **index_runtime_fields(enemy, normalize_common_enemy_type(enemy.get("enemy_group", ""))),
         "search_text": make_search_text(
             enemy.get("title", {}),
             enemy.get("enemy_group", ""),
@@ -956,6 +1038,8 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "dropped_by_count": item.get("dropped_by_count", len(item.get("dropped_by_enemies", []))),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
+        "enemy_type_keys": common_enemy_type_keys_from_enemies(item.get("dropped_by_enemies", [])),
+        **index_runtime_fields(item, item_filter_type(item)),
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("region", ""),
