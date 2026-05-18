@@ -8,7 +8,7 @@
 # item_type_en: Plant
 # item_type_zh: 植物
 
-# tags: 
+# tags:
 
 # title_ru: Туманный цветок (венчик)
 # title_en: Mist Flower Corolla
@@ -30,7 +30,7 @@ A flower bud encased in solid ice. Even after being picked, the flower continues
 
 ## ZH
 
-封闭在坚冰当中的花芯。即使离开了植株也持续散发着寒气的冰凉植物。
+封闭在坚冰当中的花芯。 即使离开了植株也持续散发着寒气的冰凉植物。
 
 ## NOTES
 

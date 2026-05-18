@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Сесилия
 # title_en: Cecilia
@@ -26,8 +26,7 @@
 
 ## EN
 
-A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow,
-and is just as intangible as the true heart of an unbound soul.
+A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.
 
 ## ZH
 

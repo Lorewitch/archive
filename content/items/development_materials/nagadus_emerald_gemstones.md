@@ -53,19 +53,15 @@
 
 ### material: nagadus_emerald_fragment
 
-Материал возвышения персонажа.
-«Я видел долгий, долгий сон…»
+Материал возвышения персонажа. «Я видел долгий, долгий сон…»
 
 ### material: nagadus_emerald_chunk
 
-Материал возвышения персонажа.
-«Я видел долгий, долгий сон… Люди, взявшись за руки, кружились в танце. Мудрецы и простаки, девицы и храбрецы, куклы и статуи божеств…»
+Материал возвышения персонажа. «Я видел долгий, долгий сон… Люди, взявшись за руки, кружились в танце. Мудрецы и простаки, девицы и храбрецы, куклы и статуи божеств…»
 
 ### material: nagadus_emerald_gemstone
 
-Материал возвышения персонажа.
-«Я видел долгий, долгий сон… Люди, взявшись за руки, кружились в танце. Мудрецы и простаки, девицы и храбрецы, куклы и статуи божеств…
-В их танце была зашифрована вся вселенная. "Жизнь" – вот вечная цель, а "мудрость" всего лишь средство».
+Материал возвышения персонажа. «Я видел долгий, долгий сон… Люди, взявшись за руки, кружились в танце. Мудрецы и простаки, девицы и храбрецы, куклы и статуи божеств… В их танце была зашифрована вся вселенная. "Жизнь" – вот вечная цель, а "мудрость" всего лишь средство».
 
 ## EN
 
@@ -75,21 +71,15 @@ Character Ascension Material.
 
 ### material: nagadus_emerald_fragment
 
-Character Ascension Material.
-"I had a very, very long dream..."
+Character Ascension Material. "I had a very, very long dream..."
 
 ### material: nagadus_emerald_chunk
 
-Character Ascension Material.
-"I had a very, very long dream..." "In it, people were holding hands, dancing in a circle, be they sages or fools, dancers or warriors,
-puppets or statues of gods..."
+Character Ascension Material. "I had a very, very long dream..." "In it, people were holding hands, dancing in a circle, be they sages or fools, dancers or warriors, puppets or statues of gods..."
 
 ### material: nagadus_emerald_gemstone
 
-Character Ascension Material.
-"I had a very, very long dream..." "In it, people were holding hands, dancing in a circle, be they sages or fools, dancers or warriors,
-puppets or statues of gods..." "That dancing circle embodied everything about the universe. Life has always been the end,
-while it is wisdom that shall be the means."
+Character Ascension Material. "I had a very, very long dream..." "In it, people were holding hands, dancing in a circle, be they sages or fools, dancers or warriors, puppets or statues of gods..." "That dancing circle embodied everything about the universe. Life has always been the end, while it is wisdom that shall be the means."
 
 ## ZH
 
@@ -99,19 +89,15 @@ while it is wisdom that shall be the means."
 
 ### material: nagadus_emerald_fragment
 
-角色突破素材。
-「我做了一个很长很长的梦…」
+角色突破素材。 「我做了一个很长很长的梦…」
 
 ### material: nagadus_emerald_chunk
 
-角色突破素材。
-「我做了一个很长很长的梦…」「人们手握着手转圈。贤者与愚者，舞女与勇士，人偶与神像…」
+角色突破素材。 「我做了一个很长很长的梦…」 「人们手握着手转圈。贤者与愚者，舞女与勇士，人偶与神像…」
 
 ### material: nagadus_emerald_gemstone
 
-角色突破素材。
-「我做了一个很长很长的梦…」「人们手握着手转圈。贤者与愚者，舞女与勇士，人偶与神像…」「大家的欢舞里蕴藏着宇宙的一切。『生命』一直都是目的，
-『智慧』才是手段。」
+角色突破素材。 「我做了一个很长很长的梦…」 「人们手握着手转圈。贤者与愚者，舞女与勇士，人偶与神像…」 「大家的欢舞里蕴藏着宇宙的一切。『生命』一直都是目的，『智慧』才是手段。」
 
 ## NOTES
 

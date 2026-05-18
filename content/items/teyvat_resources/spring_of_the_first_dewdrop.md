@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Источник первой росы
 # title_en: Spring of the First Dewdrop
@@ -22,13 +22,11 @@
 
 ## RU
 
-Капля росы, плавающая в водах Морта. Отличается от других чистых вод,
-как будто концентрирует в себе ещё более чистую и первозданную элементальную энергию.
+Капля росы, плавающая в водах Морта. Отличается от других чистых вод, как будто концентрирует в себе ещё более чистую и первозданную элементальную энергию.
 
 ## EN
 
-A limpid drop of dew floating amidst the waters of Morte Region. It is different from other pure water bodies,
-as though it is a conglomeration of even more pure and primordial Elemental Energy.
+A limpid drop of dew floating amidst the waters of Morte Region. It is different from other pure water bodies, as though it is a conglomeration of even more pure and primordial Elemental Energy.
 
 ## ZH
 

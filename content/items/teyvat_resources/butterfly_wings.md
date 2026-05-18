@@ -8,7 +8,7 @@
 # item_type_en: Animal
 # item_type_zh: 动物
 
-# tags: 
+# tags:
 
 # title_ru: Крылья бабочки
 # title_en: Butterfly Wings
@@ -30,7 +30,7 @@ Brightly colored wings. The powder that falls from them shimmers a little. Perha
 
 ## ZH
 
-色彩靓丽的翅膀。散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。
+色彩靓丽的翅膀。 散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。
 
 ## NOTES
 

@@ -49,97 +49,55 @@
 
 ### material: narukamis_wisdom
 
-Материал возвышения оружия. В прошлом древние взбирались на вершину, теперь известную как гора Ёго,
-чтобы согнуть испепелённое молнией дерево в крюк и приподнести его в качестве статуи силе,
-которая молниями озаряла небо и раскатами грома сотрясала землю. Со временем он стал символом «Электро мицудомоэ», обозначающим благоволение,
-мудрость и могущество Электро, равно как и представляющих эти ценности людей.
+Материал возвышения оружия. В прошлом древние взбирались на вершину, теперь известную как гора Ёго, чтобы согнуть испепелённое молнией дерево в крюк и приподнести его в качестве статуи силе, которая молниями озаряла небо и раскатами грома сотрясала землю. Со временем он стал символом «Электро мицудомоэ», обозначающим благоволение, мудрость и могущество Электро, равно как и представляющих эти ценности людей.
 
 ### material: narukamis_joy
 
-Материал возвышения оружия. Все те, кто входит в комиссии сёгуната, обладают властью.
-В полных чудовищ историях прошлого удостоившиеся доверия сёгуна носили изогнутые талисманы,
-и равно как слово «исполнение» на древнем языке означало «радость служить», на расположение сёгуна отвечали любовью и преданностью.
-Но с некоторого момента всё изменилось.
+Материал возвышения оружия. Все те, кто входит в комиссии сёгуната, обладают властью. В полных чудовищ историях прошлого удостоившиеся доверия сёгуна носили изогнутые талисманы, и равно как слово «исполнение» на древнем языке означало «радость служить», на расположение сёгуна отвечали любовью и преданностью. Но с некоторого момента всё изменилось.
 
 ### material: narukamis_affection
 
-Материал возвышения оружия. Демонов, которые обитали в дикой природе и среди людей,
-привлекала представляемая «Электро мицудомоэ» всемогущая Наруками Огосё. Хоть и жили они дольше остальных существ, конец приходил и им. Те,
-чьи годы сочтены, в погоне за вечностью могли лишь молиться, что «вечность» их не забудет. Она и в самом деле отвечала на их молитвы,
-запоминая друзей и врагов. Будь то живущий в тумане и прорывающийся сквозь туман демонический филин,
-посмевший пробраться в её королевский сад бакэ-дануки, луноликая воительница дева-они, которая столкнётся с ней в бою,
-паривший на чёрных крыльях тэнгу, или же сопровождавшая её кицунэ Сайгу, что пропала навеки... Эти бесчисленные истории крепко спят в её сердце,
-но однажды они ярко засияют в вечном раю её снов.
+Материал возвышения оружия. Демонов, которые обитали в дикой природе и среди людей, привлекала представляемая «Электро мицудомоэ» всемогущая Наруками Огосё. Хоть и жили они дольше остальных существ, конец приходил и им. Те, чьи годы сочтены, в погоне за вечностью могли лишь молиться, что «вечность» их не забудет. Она и в самом деле отвечала на их молитвы, запоминая друзей и врагов. Будь то живущий в тумане и прорывающийся сквозь туман демонический филин, посмевший пробраться в её королевский сад бакэ-дануки, луноликая воительница дева-они, которая столкнётся с ней в бою, паривший на чёрных крыльях тэнгу, или же сопровождавшая её кицунэ Сайгу, что пропала навеки... Эти бесчисленные истории крепко спят в её сердце, но однажды они ярко засияют в вечном раю её снов.
 
 ### material: narukamis_valor
 
-Материал возвышения оружия. Сокровище владычицы грома - величие, которое заключается в её доблести и гневе. Гнев её происходит от сердечной любви,
-а доблесть его поддерживает. Поэтому любой, кто посмеет встать на её пути к вечности или причинить народу Инадзумы вред, становится её врагом.
-Говорят, что когда-то было четыре великих духа, три божественных кицунэ и два знаменитых меча,
-но символом её величества всемогущей Наруками Огосё мог быть только один удар, молниеносный и блистательный, как метеор.
+Материал возвышения оружия. Сокровище владычицы грома - величие, которое заключается в её доблести и гневе. Гнев её происходит от сердечной любви, а доблесть его поддерживает. Поэтому любой, кто посмеет встать на её пути к вечности или причинить народу Инадзумы вред, становится её врагом. Говорят, что когда-то было четыре великих духа, три божественных кицунэ и два знаменитых меча, но символом её величества всемогущей Наруками Огосё мог быть только один удар, молниеносный и блистательный, как метеор.
 
 ## EN
 
 ### material: narukamis_wisdom
 
-Weapon Ascension Material. In the past, the ancients would climb the peak now known as Mt.
-Yougou and bend wood that had been charred by lightning into a hook to offer as an effigy unto the thundering force that lit up the skies and shook the earth.
-This shape would eventually become the "Electro Mitsudomoe" symbol, symbolizing the favor, wisdom, and might of Electro,
-and also the people who represent these values.
+Weapon Ascension Material. In the past, the ancients would climb the peak now known as Mt. Yougou and bend wood that had been charred by lightning into a hook to offer as an effigy unto the thundering force that lit up the skies and shook the earth. This shape would eventually become the "Electro Mitsudomoe" symbol, symbolizing the favor, wisdom, and might of Electro, and also the people who represent these values.
 
 ### material: narukamis_joy
 
-Weapon Ascension Material. Those who belong to the Shogunate Commissions are those who administer and exercise power.
-In the monster-filled tales of the ancient past, those who were deeply trusted by the Shogun would bear talismans with this hooked design on their person,
-and just as the word "commission" means to "joyfully serve" in the old tongue, those who received her favor would return it with love and loyalty.
-Yet, after a certain point in time, nothing would be as it was before.
+Weapon Ascension Material. Those who belong to the Shogunate Commissions are those who administer and exercise power. In the monster-filled tales of the ancient past, those who were deeply trusted by the Shogun would bear talismans with this hooked design on their person, and just as the word "commission" means to "joyfully serve" in the old tongue, those who received her favor would return it with love and loyalty. Yet, after a certain point in time, nothing would be as it was before.
 
 ### material: narukamis_affection
 
-Weapon Ascension Material. All demons who wander in the wilderness or live amongst mortals will be attracted by the sight of the Almighty Narukami Ogosho,
-represented by the Electro Mitsudomoe. Though their lives may be longer than any creature, they will at last come to their end.
-If those with limited lifespans hanker after eternity, then they can only pray that "Eternity" remembers them.
-And she did indeed answer their prayers, remembering them all, friend and foe alike, in her heart.
-No matter whether it was the demon owls who resided amidst the fog and ripped through the skies,
-the bake-danuki who dared to trespass her imperial gardens, or that female oni, lovely as the moon and mighty in battle,
-yet who would eventually come to blows with her... Whether it was the tengu who soared on dark wings or the Kitsune Saiguu who once walked by her side,
-but who eventually disappeared forever... These countless tales have come to rest within her heart, and someday,
-they will surely shine again in the eternal paradise of her dreams.
+Weapon Ascension Material. All demons who wander in the wilderness or live amongst mortals will be attracted by the sight of the Almighty Narukami Ogosho, represented by the Electro Mitsudomoe. Though their lives may be longer than any creature, they will at last come to their end. If those with limited lifespans hanker after eternity, then they can only pray that "Eternity" remembers them. And she did indeed answer their prayers, remembering them all, friend and foe alike, in her heart. No matter whether it was the demon owls who resided amidst the fog and ripped through the skies, the bake-danuki who dared to trespass her imperial gardens, or that female oni, lovely as the moon and mighty in battle, yet who would eventually come to blows with her... Whether it was the tengu who soared on dark wings or the Kitsune Saiguu who once walked by her side, but who eventually disappeared forever... These countless tales have come to rest within her heart, and someday, they will surely shine again in the eternal paradise of her dreams.
 
 ### material: narukamis_valor
 
-Weapon Ascension Material. The treasure of the lord of thunder is her majesty, and that majesty is embodied in her valor and wrath.
-Her wrath comes from the love that persists in her heart, and her valor supports that anger. Thus,
-whomsoever should block the path towards eternity or lay a finger on Inazuma's people shall become her foe.
-They say that there were four great spirits, three divine foxes, and two great swords — but that the symbol of Her Excellency,
-the Almighty Narukami Ogosho, could only be a single strike, unsurpassed and brilliant as a meteor.
+Weapon Ascension Material. The treasure of the lord of thunder is her majesty, and that majesty is embodied in her valor and wrath. Her wrath comes from the love that persists in her heart, and her valor supports that anger. Thus, whomsoever should block the path towards eternity or lay a finger on Inazuma's people shall become her foe. They say that there were four great spirits, three divine foxes, and two great swords — but that the symbol of Her Excellency, the Almighty Narukami Ogosho, could only be a single strike, unsurpassed and brilliant as a meteor.
 
 ## ZH
 
 ### material: narukamis_wisdom
 
-赋予武器突破之力的材料。在过去，先民会攀登如今被称为影向山的高峰，将雷电灼烧过的树木雕琢成曲勾形，为照亮高天的闪电、震撼大地的鸣雷赋予造型。
-这个形象在漫长岁月的积累中，最终演化成了「雷之三重巴」的纹样，象征着雷的眷顾、智慧与威能，以及代行此等眷顾、智慧与威能的人们。
+赋予武器突破之力的材料。 在过去，先民会攀登如今被称为影向山的高峰，将雷电灼烧过的树木雕琢成曲勾形，为照亮高天的闪电、震撼大地的鸣雷赋予造型。 这个形象在漫长岁月的积累中，最终演化成了「雷之三重巴」的纹样，象征着雷的眷顾、智慧与威能，以及代行此等眷顾、智慧与威能的人们。
 
 ### material: narukamis_joy
 
-赋予武器突破之力的材料。在鸣神的幕府中设有奉行之名，乃是诸类事务的管理与执行者。在妖物悠长久远的故事中，在过去，
-深受将军殿下亲近信赖者会佩戴这种曲勾造型的护符；而奉行之名也取自欢喜奉行之意，得到她青睐的人，也会回报以爱与忠义。而从某一时点开始，
-一切都不再是原本的模样了。
+赋予武器突破之力的材料。 在鸣神的幕府中设有奉行之名，乃是诸类事务的管理与执行者。 在妖物悠长久远的故事中，在过去，深受将军殿下亲近信赖者会佩戴这种曲勾造型的护符； 而奉行之名也取自欢喜奉行之意，得到她青睐的人，也会回报以爱与忠义。 而从某一时点开始，一切都不再是原本的模样了。
 
 ### material: narukamis_affection
 
-赋予武器突破之力的材料。漫游在荒野中，或是与人一同生活的妖物都会被「雷之三重巴」所代表的御建鸣神主尊所吸引。纵使他们的寿命远远久于万物灵长，
-也有终结的一日。要在有限的寿命中求得永恒与无限，就只能骥望于「永恒」能记住他们了。而她也回应了他们的愿望，将所有的敌手与友人铭记于心。据说，
-无论是栖息在迷雾当中、撕裂天空的魔性之枭，胆敢擅闯御苑的怪化狸，还是那位武艺高强容貌如月、最终却对自己露出尖牙的鬼族少女；
-无论是曾经展开黑翼自在空行的天狗，抑或是与她同行，最终又永远消失的「狐斋宫大人」…无数的故事静静地沉睡在她的心中，
-终有一日会在她所梦想的永恒净土中灼灼发光吧。
+赋予武器突破之力的材料。 漫游在荒野中，或是与人一同生活的妖物都会被「雷之三重巴」所代表的御建鸣神主尊所吸引。 纵使他们的寿命远远久于万物灵长，也有终结的一日。 要在有限的寿命中求得永恒与无限，就只能骥望于「永恒」能记住他们了。 而她也回应了他们的愿望，将所有的敌手与友人铭记于心。 据说，无论是栖息在迷雾当中、撕裂天空的魔性之枭，胆敢擅闯御苑的怪化狸，还是那位武艺高强容貌如月、最终却对自己露出尖牙的鬼族少女； 无论是曾经展开黑翼自在空行的天狗，抑或是与她同行，最终又永远消失的「狐斋宫大人」… 无数的故事静静地沉睡在她的心中，终有一日会在她所梦想的永恒净土中灼灼发光吧。
 
 ### material: narukamis_valor
 
-赋予武器突破之力的材料。雷电之尊的重宝在于威严，威严由勇武与震怒体现，震怒源于心中的爱执，勇武则是震怒的权现。最终，无论何者，
-只要敢于挡住望向永恒的目光，只要敢于伤害稻妻的子民，就会成为她的敌人。据说御灵有四魂，仙狐有三匹，名刀有二本；
-而御建鸣神主尊大御所大人的威严之相，只会呈现为流星光底的无想一线。
+赋予武器突破之力的材料。 雷电之尊的重宝在于威严，威严由勇武与震怒体现，震怒源于心中的爱执，勇武则是震怒的权现。 最终，无论何者，只要敢于挡住望向永恒的目光，只要敢于伤害稻妻的子民，就会成为她的敌人。 据说御灵有四魂，仙狐有三匹，名刀有二本； 而御建鸣神主尊大御所大人的威严之相，只会呈现为流星光底的无想一线。
 
 ## NOTES
 

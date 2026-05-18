@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Морское перо
 # title_en: Sprayfeather Gill
@@ -26,8 +26,7 @@
 
 ## EN
 
-A special feather-shaped species of plant that grows by the seaside.
-It looks kind of like a seagrass but is in truth a soft-bodied aquatic coral with a unique shape.
+A special feather-shaped species of plant that grows by the seaside. It looks kind of like a seagrass but is in truth a soft-bodied aquatic coral with a unique shape.
 
 ## ZH
 

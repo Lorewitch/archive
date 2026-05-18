@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Ароматный кедр
 # title_en: Fragrant Cedar Wood
@@ -30,7 +30,7 @@ Wood from the Cedar tree. Also known as the "Fragrant Cedar" for the aromatic oi
 
 ## ZH
 
-产自「苍柏」的木材，因其富含油脂，香气别致，有着「垂香木」的别称。可用于制作摆设。
+产自「苍柏」的木材，因其富含油脂，香气别致，有着「垂香木」的别称。 可用于制作摆设。
 
 ## NOTES
 

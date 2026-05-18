@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Ромарин
 # title_en: Romaritime Flower
@@ -22,17 +22,15 @@
 
 ## RU
 
-Скромный благородный цветок голубого оттенка. Гибкие бутоны очень упругие и отлично впитывают воду,
-используется как сырьё для множества повседневных товаров.
+Скромный благородный цветок голубого оттенка. Гибкие бутоны очень упругие и отлично впитывают воду, используется как сырьё для множества повседневных товаров.
 
 ## EN
 
-An ethereal and elegant blue flower. Its tender petals are elastic and water-absorbent,
-making it the ideal raw material for various daily necessities.
+An ethereal and elegant blue flower. Its tender petals are elastic and water-absorbent, making it the ideal raw material for various daily necessities.
 
 ## ZH
 
-幽淡而高贵的蓝色花卉。柔软的花蕊具备良好的吸水性和弹性，是诸多日用品的原材料。
+幽淡而高贵的蓝色花卉。 柔软的花蕊具备良好的吸水性和弹性，是诸多日用品的原材料。
 
 ## NOTES
 

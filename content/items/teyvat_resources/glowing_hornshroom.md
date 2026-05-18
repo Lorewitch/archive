@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Мерцающий рогатый гриб
 # title_en: Glowing Hornshroom

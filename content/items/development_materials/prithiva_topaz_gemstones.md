@@ -53,18 +53,15 @@
 
 ### material: prithiva_topaz_fragment
 
-Материал возвышения персонажа.
-«Валютой здесь является кровь».
+Материал возвышения персонажа. «Валютой здесь является кровь».
 
 ### material: prithiva_topaz_chunk
 
-Материал возвышения персонажа.
-«Валютой здесь является кровь. Я гарант усердия, мудрости и будущего народа».
+Материал возвышения персонажа. «Валютой здесь является кровь. Я гарант усердия, мудрости и будущего народа».
 
 ### material: prithiva_topaz_gemstone
 
-Материал возвышения персонажа.
-«Валютой здесь является кровь. Я гарант усердия, мудрости и будущего народа. Таково оказанное мной доверие. Предай его, и ты осквернишь мою кровь».
+Материал возвышения персонажа. «Валютой здесь является кровь. Я гарант усердия, мудрости и будущего народа. Таково оказанное мной доверие. Предай его, и ты осквернишь мою кровь».
 
 ## EN
 
@@ -74,20 +71,15 @@ Character Ascension Material.
 
 ### material: prithiva_topaz_fragment
 
-Character Ascension material.
-"The currencies that flow through this land are my flesh and blood."
+Character Ascension material. "The currencies that flow through this land are my flesh and blood."
 
 ### material: prithiva_topaz_chunk
 
-Character Ascension material.
-"The currencies that flow through this land are my flesh and blood. For thus did I become the guarantor of the people's hard work, wisdom, and future.
-"
+Character Ascension material. "The currencies that flow through this land are my flesh and blood. For thus did I become the guarantor of the people's hard work, wisdom, and future."
 
 ### material: prithiva_topaz_gemstone
 
-Character Ascension material.
-"The currencies that flow through this land are my flesh and blood. For thus did I become the guarantor of the people's hard work, wisdom, and future.
-This is the trust I have placed in them. Betray it, and you taint my blood."
+Character Ascension material. "The currencies that flow through this land are my flesh and blood. For thus did I become the guarantor of the people's hard work, wisdom, and future. This is the trust I have placed in them. Betray it, and you taint my blood."
 
 ## ZH
 
@@ -97,18 +89,15 @@ This is the trust I have placed in them. Betray it, and you taint my blood."
 
 ### material: prithiva_topaz_fragment
 
-角色突破素材。
-「大陆所流通的一切银钱皆是我的血肉。」
+角色突破素材。 「大陆所流通的一切银钱皆是我的血肉。」
 
 ### material: prithiva_topaz_chunk
 
-角色突破素材。
-「大陆所流通的一切银钱皆是我的血肉。「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。」
+角色突破素材。 「大陆所流通的一切银钱皆是我的血肉。 「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。」
 
 ### material: prithiva_topaz_gemstone
 
-角色突破素材。
-「大陆所流通的一切银钱皆是我的血肉。「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。「这是我对众生的信任，辜负了它就是玷污了我的血。」
+角色突破素材。 「大陆所流通的一切银钱皆是我的血肉。 「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。 「这是我对众生的信任，辜负了它就是玷污了我的血。」
 
 ## NOTES
 

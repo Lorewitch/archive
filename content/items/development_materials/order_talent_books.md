@@ -43,51 +43,43 @@
 
 ### material: teachings_of_order
 
-Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка.
-В отсутствие порядка возникает хаос, а в хаосе нет и не может быть справедливости.
+Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка. В отсутствие порядка возникает хаос, а в хаосе нет и не может быть справедливости.
 
 ### material: guide_to_order
 
-Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка. Без гарантии,
-которую даёт порядок, правосудие сводится к неограниченному насилию, к оружию, пускаемому в ход всеми против всех.
+Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка. Без гарантии, которую даёт порядок, правосудие сводится к неограниченному насилию, к оружию, пускаемому в ход всеми против всех.
 
 ### material: philosophies_of_order
 
-Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка.
-Справедливость и правосудие проистекают из порядка и служат порядку. Подобно неподвижной, спокойной поверхности вод Фонтейна,
-порядок является краеугольным камнем его существования.
+Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка. Справедливость и правосудие проистекают из порядка и служат порядку. Подобно неподвижной, спокойной поверхности вод Фонтейна, порядок является краеугольным камнем его существования.
 
 ## EN
 
 ### material: teachings_of_order
 
-The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Without order, there is chaos,
-and there can be no fairness in chaos.
+The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Without order, there is chaos, and there can be no fairness in chaos.
 
 ### material: guide_to_order
 
-The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Without the guarantee provided by order,
-justice will be reduced to unlimited violence, a weapon used by all against all.
+The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Without the guarantee provided by order, justice will be reduced to unlimited violence, a weapon used by all against all.
 
 ### material: philosophies_of_order
 
-The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Equity and justice come from order,
-and serve order. Like the still, ripple-less surface of the waters of Fontaine, order is the cornerstone of Fontaine's existence.
+The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Equity and justice come from order, and serve order. Like the still, ripple-less surface of the waters of Fontaine, order is the cornerstone of Fontaine's existence.
 
 ## ZH
 
 ### material: teachings_of_order
 
-水之国土的坚盾是秩序。枫丹的一切律法终究服务于稳固的秩序。若无秩序的存在，混沌的乱流中自然亦无公平可言。
+水之国土的坚盾是秩序。 枫丹的一切律法终究服务于稳固的秩序。 若无秩序的存在，混沌的乱流中自然亦无公平可言。
 
 ### material: guide_to_order
 
-水之国土的坚盾是秩序。枫丹的一切律法终究服务于稳固的秩序。若无秩序的保证，正义也将沦为无止境的暴力，成为一切人反对一切人的武器。
+水之国土的坚盾是秩序。 枫丹的一切律法终究服务于稳固的秩序。 若无秩序的保证，正义也将沦为无止境的暴力，成为一切人反对一切人的武器。
 
 ### material: philosophies_of_order
 
-水之国土的坚盾是秩序。枫丹的一切律法终究服务于稳固的秩序。公平与正义源于秩序，亦服务于秩序。正如枫丹恒无风浪的绵延水面那般，
-秩序构成了枫丹存在的基石。
+水之国土的坚盾是秩序。 枫丹的一切律法终究服务于稳固的秩序。 公平与正义源于秩序，亦服务于秩序。 正如枫丹恒无风浪的绵延水面那般，秩序构成了枫丹存在的基石。
 
 ## NOTES
 

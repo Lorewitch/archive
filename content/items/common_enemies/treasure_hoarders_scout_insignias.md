@@ -38,37 +38,29 @@
 
 ### material: treasure_hoarder_insignia
 
-Печать Похитителей сокровищ, определяющая положение владельца в банде. Стремление за сокровищами не имеет границ, но стоит ли гордиться тем,
-что ты вор...?
+Печать Похитителей сокровищ, определяющая положение владельца в банде. Стремление за сокровищами не имеет границ, но стоит ли гордиться тем, что ты вор...?
 
 ### material: silver_raven_insignia
 
-Символ ворона, используемый членами банды Похитителей сокровищ для идентификации друг друга. Похитители сокровищ не спрашивают резюме. Любой,
-у кого есть непреодолимая жажда сокровищ, подкреплённая не меньшим количеством храбрости, может стать достойным членом банды.
+Символ ворона, используемый членами банды Похитителей сокровищ для идентификации друг друга. Похитители сокровищ не спрашивают резюме. Любой, у кого есть непреодолимая жажда сокровищ, подкреплённая не меньшим количеством храбрости, может стать достойным членом банды.
 
 ### material: golden_raven_insignia
 
-Печать ворона, символизирующая гордость и руководящий принцип Похитителей сокровищ. Если где-нибудь есть сокровище, которое можно похитить, неважно,
-скрыто ли оно среди земных просторов или же в морских глубинах, дух Похитителей сокровищ, которые не остановятся ни перед чем, чтобы их найти,
-не умрёт никогда.
+Печать ворона, символизирующая гордость и руководящий принцип Похитителей сокровищ. Если где-нибудь есть сокровище, которое можно похитить, неважно, скрыто ли оно среди земных просторов или же в морских глубинах, дух Похитителей сокровищ, которые не остановятся ни перед чем, чтобы их найти, не умрёт никогда.
 
 ## EN
 
 ### material: treasure_hoarder_insignia
 
-A signet that proudly represents its owner's position as member of the Treasure Hoarders. The pursuit of treasure knows no bounds. That said...
-Is being a thief something to be proud of?
+A signet that proudly represents its owner's position as member of the Treasure Hoarders. The pursuit of treasure knows no bounds. That said... Is being a thief something to be proud of?
 
 ### material: silver_raven_insignia
 
-A raven insignia used by members of the Treasure Hoarders to identify each other. The Treasure Hoarders ask for no resume.
-Anyone who has an insatiable desire for treasure and is backed up by an equal amount of courage can become a worthy member.
+A raven insignia used by members of the Treasure Hoarders to identify each other. The Treasure Hoarders ask for no resume. Anyone who has an insatiable desire for treasure and is backed up by an equal amount of courage can become a worthy member.
 
 ### material: golden_raven_insignia
 
-A raven insignia that symbolizes the pride and the guiding principle of the Treasure Hoarders.
-Whether it's hidden amidst the vastness of the land or in the depths of the seas, as long as there are treasures to be hunted down,
-the spirit of Treasure Hoarders, who will stop at nothing to acquire them, will never die.
+A raven insignia that symbolizes the pride and the guiding principle of the Treasure Hoarders. Whether it's hidden amidst the vastness of the land or in the depths of the seas, as long as there are treasures to be hunted down, the spirit of Treasure Hoarders, who will stop at nothing to acquire them, will never die.
 
 ## ZH
 
@@ -82,8 +74,7 @@ the spirit of Treasure Hoarders, who will stop at nothing to acquire them, will 
 
 ### material: golden_raven_insignia
 
-象征着盗宝团唯一的原则与傲骨的徽印。只要广袤的大地上、幽邃的深渊里、未知的海洋中仍有待发掘的秘宝，那么手段不论地征服宝藏的盗宝之魂，
-就永远不会熄灭。
+象征着盗宝团唯一的原则与傲骨的徽印。只要广袤的大地上、幽邃的深渊里、未知的海洋中仍有待发掘的秘宝，那么手段不论地征服宝藏的盗宝之魂，就永远不会熄灭。
 
 ## NOTES
 

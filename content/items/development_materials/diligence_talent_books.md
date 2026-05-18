@@ -43,50 +43,43 @@
 
 ### material: teachings_of_diligence
 
-Материал повышения таланта. Трудолюбие - это фундамент царства земли. Трудолюбие - это покорение гор и морей, стремление к процветанию,
-золотой храбрости и власти честной, тяжелой работой.
+Материал повышения таланта. Трудолюбие - это фундамент царства земли. Трудолюбие - это покорение гор и морей, стремление к процветанию, золотой храбрости и власти честной, тяжелой работой.
 
 ### material: guide_to_diligence
 
-Материал повышения таланта. Трудолюбие - это фундамент царства земли. Трудолюбие - это катализатор, который течёт в крови народа Ли Юэ,
-способный превращать камень в золото. Это то, что придаёт величие торговому порту.
+Материал повышения таланта. Трудолюбие - это фундамент царства земли. Трудолюбие - это катализатор, который течёт в крови народа Ли Юэ, способный превращать камень в золото. Это то, что придаёт величие торговому порту.
 
 ### material: philosophies_of_diligence
 
-Материал повышения таланта. Трудолюбие - это фундамент царства земли. Трудолюбие - это вера в свою способность заработать место в царстве богов потом,
-мудростью и силой.
+Материал повышения таланта. Трудолюбие - это фундамент царства земли. Трудолюбие - это вера в свою способность заработать место в царстве богов потом, мудростью и силой.
 
 ## EN
 
 ### material: teachings_of_diligence
 
-Talent Level-Up material. Industriousness is the foundation of the land of Geo.
-Diligence is having the bravery and the strength to conquer mountains and seas and to pursue gold and prosperity through honest, hard work.
+Talent Level-Up material. Industriousness is the foundation of the land of Geo. Diligence is having the bravery and the strength to conquer mountains and seas and to pursue gold and prosperity through honest, hard work.
 
 ### material: guide_to_diligence
 
-Talent Level-Up material. Industriousness is the foundation of the land of Geo.
-Industriousness is the catalyst that flows in the blood of the people of Liyue, able to turn rocks into gold.
-It is what lies behind the greatness of its great commercial port.
+Talent Level-Up material. Industriousness is the foundation of the land of Geo. Industriousness is the catalyst that flows in the blood of the people of Liyue, able to turn rocks into gold. It is what lies behind the greatness of its great commercial port.
 
 ### material: philosophies_of_diligence
 
-Talent Level-Up material. Industriousness is the foundation of the land of Geo.
-Industriousness is believing in one's own ability to earn a place in the land of the gods through sweat, wisdom, and power.
+Talent Level-Up material. Industriousness is the foundation of the land of Geo. Industriousness is believing in one's own ability to earn a place in the land of the gods through sweat, wisdom, and power.
 
 ## ZH
 
 ### material: teachings_of_diligence
 
-天赋培养素材。岩之国土的根基是勤劳。勤劳即为通过人的努力，克服高山与大海，追求繁荣与黄金的勇气与力量。
+天赋培养素材。 岩之国土的根基是勤劳。 勤劳即为通过人的努力，克服高山与大海，追求繁荣与黄金的勇气与力量。
 
 ### material: guide_to_diligence
 
-天赋培养素材。岩之国土的根基是勤劳。勤劳是流传在璃月人血脉中的催化剂，能将岩石化为黄金，是伟大商港之所以为伟大商港的原因。
+天赋培养素材。 岩之国土的根基是勤劳。 勤劳是流传在璃月人血脉中的催化剂，能将岩石化为黄金，是伟大商港之所以为伟大商港的原因。
 
 ### material: philosophies_of_diligence
 
-天赋培养素材。岩之国土的根基是勤劳。勤劳即为相信自己，即为相信通过汗水、智慧与力量，在诸神的土地上，人人都可以拥有自己的一席之地。
+天赋培养素材。 岩之国土的根基是勤劳。 勤劳即为相信自己，即为相信通过汗水、智慧与力量，在诸神的土地上，人人都可以拥有自己的一席之地。
 
 ## NOTES
 

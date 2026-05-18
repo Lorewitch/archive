@@ -43,52 +43,43 @@
 
 ### material: teachings_of_admonition
 
-Материал повышения талантов. Наставления служат стволом и ветвями страны мудрости. Наставления рождаются в чистом сердце. Только ясные слова,
-наполненные чистотой и добротой, могут выразить глубокую мудрость и освободить ростки знания от оков высокомерия.
+Материал повышения талантов. Наставления служат стволом и ветвями страны мудрости. Наставления рождаются в чистом сердце. Только ясные слова, наполненные чистотой и добротой, могут выразить глубокую мудрость и освободить ростки знания от оков высокомерия.
 
 ### material: guide_to_admonition
 
-Материал повышения талантов. Наставления служат стволом и ветвями страны мудрости. Наставления – спутники ясного мышления.
-Тщательное обдумывание придаёт смиренным словам ясность, которая убеждает мудрых и просвещает глупых. Такие слова позволяют мудрости изливаться,
-подобно реке, не знающей преград.
+Материал повышения талантов. Наставления служат стволом и ветвями страны мудрости. Наставления – спутники ясного мышления. Тщательное обдумывание придаёт смиренным словам ясность, которая убеждает мудрых и просвещает глупых. Такие слова позволяют мудрости изливаться, подобно реке, не знающей преград.
 
 ### material: philosophies_of_admonition
 
-Материал повышения талантов. Наставления служат стволом и ветвями страны мудрости. Наставления порождают добрые дела.
-Деяния придают сказанному истинное значение. Согласованность мыслей, слов и действий человека питает древо мудрости, и оно приносит щедрый урожай.
+Материал повышения талантов. Наставления служат стволом и ветвями страны мудрости. Наставления порождают добрые дела. Деяния придают сказанному истинное значение. Согласованность мыслей, слов и действий человека питает древо мудрости, и оно приносит щедрый урожай.
 
 ## EN
 
 ### material: teachings_of_admonition
 
-Talent Level-Up material. Admonition is the branches of the nation of wisdom. Admonition comes from a pure heart.
-Only sensible words of goodwill can express profound wisdom and free the sprout of knowledge from the shackles of arrogance.
+Talent Level-Up material. Admonition is the branches of the nation of wisdom. Admonition comes from a pure heart. Only sensible words of goodwill can express profound wisdom and free the sprout of knowledge from the shackles of arrogance.
 
 ### material: guide_to_admonition
 
-Talent Level-Up material. Admonition is the branches of the nation of wisdom. Admonition is paired with wise thinking.
-Careful deliberation affords humble words a clarity that convinces the wise and enlightens the foolish.
-Such words allow wisdom to flow like an unobstructed river.
+Talent Level-Up material. Admonition is the branches of the nation of wisdom. Admonition is paired with wise thinking. Careful deliberation affords humble words a clarity that convinces the wise and enlightens the foolish. Such words allow wisdom to flow like an unobstructed river.
 
 ### material: philosophies_of_admonition
 
-Talent Level-Up material. Admonition is the branches of the nation of wisdom. Admonition is completed by good deeds.
-What is done confers real meaning upon what is said. When one's mind, words, and deeds are aligned,
-their nourishment shall guarantee the fruition of wisdom's tree.
+Talent Level-Up material. Admonition is the branches of the nation of wisdom. Admonition is completed by good deeds. What is done confers real meaning upon what is said. When one's mind, words, and deeds are aligned, their nourishment shall guarantee the fruition of wisdom's tree.
 
 ## ZH
 
 ### material: teachings_of_admonition
 
-天赋培养素材。「诤言」是智慧之国的枝干。诤言出于纯净的心智。唯有清醒纯善的言语，方能表达深秘的智慧，令睿智之种突破傲慢的壅阻，生根繁茂。
+天赋培养素材。 「诤言」是智慧之国的枝干。 诤言出于纯净的心智。 唯有清醒纯善的言语，方能表达深秘的智慧，令睿智之种突破傲慢的壅阻，生根繁茂。
 
 ### material: guide_to_admonition
 
-天赋培养素材。「诤言」是智慧之国的枝干。诤言相伴巧妙的思虑。多思多虑方能出言谦逊明晰，令智者折服，使愚者醒悟，让智慧如川流一般畅通不息。
+天赋培养素材。 「诤言」是智慧之国的枝干。 诤言相伴巧妙的思虑。 多思多虑方能出言谦逊明晰，令智者折服，使愚者醒悟，让智慧如川流一般畅通不息。
 
 ### material: philosophies_of_admonition
 
-天赋培养素材。「诤言」是智慧之国的枝干。诤言终于至善的操行。行为赋予言语真实含义，言、思、行的协同一致，是令智慧之树结出善果的丰厚养分。
+天赋培养素材。 「诤言」是智慧之国的枝干。 诤言终于至善的操行。 行为赋予言语真实含义，言、思、行的协同一致，是令智慧之树结出善果的丰厚养分。
 
 ## NOTES
 

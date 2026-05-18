@@ -8,7 +8,7 @@
 # item_type_en: Ore
 # item_type_zh: 矿石
 
-# tags: 
+# tags:
 
 # title_ru: Обломок белого железа
 # title_en: White Iron Chunk

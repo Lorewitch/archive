@@ -8,7 +8,7 @@
 # item_type_en: Ore
 # item_type_zh: 矿石
 
-# tags: 
+# tags:
 
 # title_ru: Кусок аметиста
 # title_en: Amethyst Lump
@@ -30,7 +30,7 @@ An uncut crystal that can only be found in Inazuma. Some professional craftsmans
 
 ## ZH
 
-未经削切的矿物晶体，仅在稻妻列岛上产生。经过专门处理后，能展现其真正的价值。
+未经削切的矿物晶体，仅在稻妻列岛上产生。 经过专门处理后，能展现其真正的价值。
 
 ## NOTES
 

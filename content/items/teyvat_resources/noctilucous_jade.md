@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Полуночный нефрит
 # title_en: Noctilucous Jade
@@ -30,7 +30,7 @@ A rare mineral that glimmers in the dark. It's said to be a mutated gemstone con
 
 ## ZH
 
-稀有的特质矿石，在静谧的暗夜里会幽幽地发光。据称是天地间奔流的元素在异变中凝聚成的珍奇宝石。
+稀有的特质矿石，在静谧的暗夜里会幽幽地发光。 据称是天地间奔流的元素在异变中凝聚成的珍奇宝石。
 
 ## NOTES
 

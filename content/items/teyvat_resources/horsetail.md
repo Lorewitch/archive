@@ -8,7 +8,7 @@
 # item_type_en: Plant
 # item_type_zh: 植物
 
-# tags: 
+# tags:
 
 # title_ru: Конский хвост
 # title_en: Horsetail
@@ -30,7 +30,7 @@ A purple plant that sometimes grows amidst Silvergrass but grows taller, straigh
 
 ## ZH
 
-偶然随荻草生长的紫色植物。比周围的荻草更为挺拔、饱满，如同崇高的人。
+偶然随荻草生长的紫色植物。 比周围的荻草更为挺拔、饱满，如同崇高的人。
 
 ## NOTES
 

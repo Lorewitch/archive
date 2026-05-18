@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Древесина орешника
 # title_en: Hazelnut Wood
@@ -22,13 +22,11 @@
 
 ## RU
 
-Древесина орешника. Хотя деревья, из которых её получают, могут сильно различаться по форме,
-поверхность этой древесины обычно содержит особые компоненты, обеспечивающие высокую устойчивость к насекомым и гниению. Очень прочная и долговечная.
+Древесина орешника. Хотя деревья, из которых её получают, могут сильно различаться по форме, поверхность этой древесины обычно содержит особые компоненты, обеспечивающие высокую устойчивость к насекомым и гниению. Очень прочная и долговечная.
 
 ## EN
 
-Wood sourced from the Hazelnut Tree. Though the subspecies this wood comes from vary wildly in appearance,
-they mostly share the same unique compounds that offer excellent resistance to insects and decay, making it a remarkably durable material.
+Wood sourced from the Hazelnut Tree. Though the subspecies this wood comes from vary wildly in appearance, they mostly share the same unique compounds that offer excellent resistance to insects and decay, making it a remarkably durable material.
 
 ## ZH
 

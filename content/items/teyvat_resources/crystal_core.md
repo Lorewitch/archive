@@ -8,7 +8,7 @@
 # item_type_en: Animal
 # item_type_zh: 动物
 
-# tags: 
+# tags:
 
 # title_ru: Кристальное ядро
 # title_en: Crystal Core
@@ -30,7 +30,7 @@ The core of a crystal butterfly. It absorbs elemental energy that has escaped in
 
 ## ZH
 
-晶蝶的核心。是吸食着大气中逸散的细小元素的晶蝶长出的奇妙器官。
+晶蝶的核心。 是吸食着大气中逸散的细小元素的晶蝶长出的奇妙器官。
 
 ## NOTES
 

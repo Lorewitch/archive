@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Споры гриба
 # title_en: Mushroom Spore
@@ -26,8 +26,7 @@
 
 ## EN
 
-A spore obtained from the Seed Dispensary. A quality spore full of life, just waiting to be planted in the Realm Within's fields.
-After some time it will grow into a Mushroom.
+A spore obtained from the Seed Dispensary. A quality spore full of life, just waiting to be planted in the Realm Within's fields. After some time it will grow into a Mushroom.
 
 ## ZH
 

@@ -53,19 +53,15 @@
 
 ### material: shivada_jade_fragment
 
-Материал возвышения персонажа.
-«... Простите...»
+Материал возвышения персонажа. «... Простите...»
 
 ### material: shivada_jade_chunk
 
-Материал возвышения персонажа.
-«... Простите...» «Что заставил вас взять все обиды мира на себя».
+Материал возвышения персонажа. «... Простите...» «Что заставил вас взять все обиды мира на себя».
 
 ### material: shivada_jade_gemstone
 
-Материал возвышения персонажа.
-«... Простите... Что заставил вас взять все обиды мира на себя Вы выдержали мой жестокий холод, значит в вас буйствует желание жечь.
-Тогда сожгите для меня этот старый мир».
+Материал возвышения персонажа. «... Простите... Что заставил вас взять все обиды мира на себя Вы выдержали мой жестокий холод, значит в вас буйствует желание жечь. Тогда сожгите для меня этот старый мир».
 
 ## EN
 
@@ -75,19 +71,15 @@ Character Ascension Material.
 
 ### material: shivada_jade_fragment
 
-Character Ascension material.
-"Sorry..."
+Character Ascension material. "Sorry..."
 
 ### material: shivada_jade_chunk
 
-Character Ascension material.
-"Sorry..." "... to also have you shoulder the grievances of the world."
+Character Ascension material. "Sorry..." "... to also have you shoulder the grievances of the world."
 
 ### material: shivada_jade_gemstone
 
-Character Ascension material.
-"Sorry... to also have you shoulder the grievances of the world. "Since you could endure my bitter cold, you must have the desire to burn? "Then,
-burn away the old world for me."
+Character Ascension material. "Sorry... to also have you shoulder the grievances of the world. "Since you could endure my bitter cold, you must have the desire to burn? "Then, burn away the old world for me."
 
 ## ZH
 
@@ -97,18 +89,15 @@ burn away the old world for me."
 
 ### material: shivada_jade_fragment
 
-角色突破素材。
-「…抱歉…」
+角色突破素材。 「…抱歉…」
 
 ### material: shivada_jade_chunk
 
-角色突破素材。
-「…抱歉…「让你们一起和我背负了整个世界的哀思。」
+角色突破素材。 「…抱歉… 「让你们一起和我背负了整个世界的哀思。」
 
 ### material: shivada_jade_gemstone
 
-角色突破素材。
-「…抱歉让你们一起和我背负了整个世界的哀思。「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？「那么，替我燃烧旧世界吧。」
+角色突破素材。 「…抱歉让你们一起和我背负了整个世界的哀思。 「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？ 「那么，替我燃烧旧世界吧。」
 
 ## NOTES
 

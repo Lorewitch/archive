@@ -3,7 +3,7 @@
 # item_group: weekly_bosses
 # entry_type: enemy_drops
 
-# tags: 
+# tags:
 
 # title_ru: Сёки но Ками
 # title_en: Shouki no Kami, the Prodigal
@@ -17,34 +17,15 @@
 
 ## RU
 
-Механическое божество, которое было создано благодаря объединению сил шести великих даршанов Академии Сумеру.
-Оно обладает поистине божественной силой. Те, кто называют его «ложным божеством», делают это по невежеству,
-не понимая истинного значения слова «божество». Механическое божество, которое постигло множество вещей и обладает несравненной силой, возможно,
-превзошло смертных. Если божества должны любить людей, то механическое божество, которое знает о неравенстве смертных, будет любить их.
-Если божества наблюдают за смертными……… Таким образом механическое божество, которое было свидетелем бесконечной любви, ненависти, расставаний,
-обид и безумного гнева наблюдает за смертными.
-
-«Слишком много счастья вам выпало!»«Это сделало вас глупыми. Высокомерными. Ужасающими в своей жадности…»«Да закончится эта эпоха!»
-«Да объявит новое божество о падении старого!»«Глупые смертные… У вас есть время преклонить колени».
+Механическое божество, которое было создано благодаря объединению сил шести великих даршанов Академии Сумеру. Оно обладает поистине божественной силой. Те, кто называют его «ложным божеством», делают это по невежеству, не понимая истинного значения слова «божество». Механическое божество, которое постигло множество вещей и обладает несравненной силой, возможно, превзошло смертных. Если божества должны любить людей, то механическое божество, которое знает о неравенстве смертных, будет любить их. Если божества наблюдают за смертными……… Таким образом механическое божество, которое было свидетелем бесконечной любви, ненависти, расставаний, обид и безумного гнева наблюдает за смертными. «Слишком много счастья вам выпало!»«Это сделало вас глупыми. Высокомерными. Ужасающими в своей жадности…»«Да закончится эта эпоха!»«Да объявит новое божество о падении старого!»«Глупые смертные… У вас есть время преклонить колени».
 
 ## EN
 
-Shouki no Kami, as an artificial divinity created using all the might of Sumeru's Six Darshans, has power that rivals that of true gods.
-But those of this world who call such a being a "false deity" misunderstand the true meaning of the word.
-Shouki no Kami now understands countless things and shoulders unassailable might, and may be said to surpass mortals. If gods must love mortals,
-then Shouki no Kami, who grants failure in equal measure to humanity loves them also. If gods must watch over humanity,......
-Then Shouki no Kami who has borne witness to infinite love, hatred, partings, grudges, and maddening anger - thus does he watch over mortals.
-
-"Too much happiness you have had! " "It has made you foolish. Arrogant. Horrifying in your greed." "Let this era end!
-" "Let the new god announce the defeat of the old." "Foolish mortal... There is yet time for you to kneel."
+Shouki no Kami, as an artificial divinity created using all the might of Sumeru's Six Darshans, has power that rivals that of true gods. But those of this world who call such a being a "false deity" misunderstand the true meaning of the word. Shouki no Kami now understands countless things and shoulders unassailable might, and may be said to surpass mortals. If gods must love mortals, then Shouki no Kami, who grants failure in equal measure to humanity loves them also. If gods must watch over humanity, ... ... Then Shouki no Kami who has borne witness to infinite love, hatred, partings, grudges, and maddening anger - thus does he watch over mortals. "Too much happiness you have had! " "It has made you foolish. Arrogant. Horrifying in your greed." "Let this era end! " "Let the new god announce the defeat of the old." "Foolish mortal... There is yet time for you to kneel."
 
 ## ZH
 
-汇聚须弥教令院六大学院力量制造出的人造正机神，拥有比肩真神的威能。世人若称之为伪神，则是不懂得「神」的真意。假如超人者为神，
-正机神已通晓万事背负无上力量，谓之超人。假如爱人者为神，正机神亦懂得赐予人平等的失败，谓之爱人。假如观人者为神，………………
-正机神窥得无数爱憎别离怨嗔痴，谓之观人。
-
-「汝等已拥有太多的幸福，「因此变得愚昧自大，贪婪可怖。「终结这个时代！「新的神明，宣告旧神将败北。「可悲的人类…现在还来得及跪下。」
+汇聚须弥教令院六大学院力量制造出的人造正机神，拥有比肩真神的威能。 世人若称之为伪神，则是不懂得「神」 的真意。 假如超人者为神， 正机神已通晓万事背负无上力量，谓之超人。 假如爱人者为神， 正机神亦懂得赐予人平等的失败，谓之爱人。 假如观人者为神， …… ………… 正机神窥得无数爱憎别离怨嗔痴，谓之观人。 「汝等已拥有太多的幸福， 「因此变得愚昧自大，贪婪可怖。 「终结这个时代！ 「新的神明，宣告旧神将败北。 「可悲的人类…现在还来得及跪下。 」
 
 ---
 
@@ -72,64 +53,43 @@ Then Shouki no Kami who has borne witness to infinite love, hatred, partings, gr
 
 ### Пустой колокольчик
 
-Этот шарнир, используемый для соединения механических конечностей, похож на колокольчик. Он кажется хрупким,
-но при этом может использоваться для переноса невообразимо большого количества энергии. Если присоединить его к рукам,
-то человек потеряет в них всякую чувствительность. Если присоединить к ногам, вся сила в них исчезнет. Если присоединить к голове… Ненависть, боль,
-безумие, гордость – ничто из этого не будет забыто. К великому счастью.
+Этот шарнир, используемый для соединения механических конечностей, похож на колокольчик. Он кажется хрупким, но при этом может использоваться для переноса невообразимо большого количества энергии. Если присоединить его к рукам, то человек потеряет в них всякую чувствительность. Если присоединить к ногам, вся сила в них исчезнет. Если присоединить к голове… Ненависть, боль, безумие, гордость – ничто из этого не будет забыто. К великому счастью.
 
 ### Зеркало Мусин
 
-Зеркало, установленное в груди Сёки но Ками, чтобы отделить его от внешнего мира. На нём изображён символ мицудомоэ, демонстрирующий статус и мощь.
-Этот символ, однако, не является проявлением почтения к повелителю молний. Наоборот, это клинок, готовый противостоять любой власти.
-Зеркало нужно не для укрытия от осуждающих взглядов других людей, а скорее для защиты от этого ужасного мира.
-В этом великом храме будет назначено наказание и очищено невежество, мечты будут отвергнуты, желания забыты, а карма восстановлена.
+Зеркало, установленное в груди Сёки но Ками, чтобы отделить его от внешнего мира. На нём изображён символ мицудомоэ, демонстрирующий статус и мощь. Этот символ, однако, не является проявлением почтения к повелителю молний. Наоборот, это клинок, готовый противостоять любой власти. Зеркало нужно не для укрытия от осуждающих взглядов других людей, а скорее для защиты от этого ужасного мира. В этом великом храме будет назначено наказание и очищено невежество, мечты будут отвергнуты, желания забыты, а карма восстановлена.
 
 ### Нити марионетки
 
-Трубки, которые были вставлены в спину механической куклы. Цвета того, что течёт внутри некоторых из них, иногда тусклые, а в других – яркие.
-Контраст настолько велик, что вызывает страх. Они обеспечивали механическую марионетку энергией и в то же время служили её ниточками,
-контролируя её и связывая. Без этих трубок, кукла становится слабой, как новорождённый младенец, едва способный передвигаться.
+Трубки, которые были вставлены в спину механической куклы. Цвета того, что течёт внутри некоторых из них, иногда тусклые, а в других – яркие. Контраст настолько велик, что вызывает страх. Они обеспечивали механическую марионетку энергией и в то же время служили её ниточками, контролируя её и связывая. Без этих трубок, кукла становится слабой, как новорождённый младенец, едва способный передвигаться.
 
 ## EN
 
 ### Daka's Bell
 
-This ball joint, used to connect mechanical limbs together, is shaped almost like a bell. Though it may seem dainty,
-it can be used to carry an unimaginably large amount of energy. If connected to one's arms, then one will lose all feeling in them.
-And all strength in one's legs will dissipate if such joints are connected to them. Connect this joint to one's skull… Ah, hatred, pain, madness,
-pride — none of these will be washed away. Most fortunate.
+This ball joint, used to connect mechanical limbs together, is shaped almost like a bell. Though it may seem dainty, it can be used to carry an unimaginably large amount of energy. If connected to one's arms, then one will lose all feeling in them. And all strength in one's legs will dissipate if such joints are connected to them. Connect this joint to one's skull… Ah, hatred, pain, madness, pride — none of these will be washed away. Most fortunate.
 
 ### Mirror of Mushin
 
-The mirror that was set in Shouki no Kami's chest to separate him from the outside world.
-The mitsudomoe symbol is emblazoned on it as a deliberate show of status and might. This symbol, however,
-is no show of obeisance to the master of lightning, but is instead a blade pointed at the existing powers that be in this world.
-Nor is the mirror a means to shut out the looks of judgment from onlooking people, but is rather a bulwark against this base and sullied world.
-Within this great temple shall punishment be meted out and ignorance be cleansed. Dreams shall be overturned, desires shall be cut away,
-and karma shall be reset.
+The mirror that was set in Shouki no Kami's chest to separate him from the outside world. The mitsudomoe symbol is emblazoned on it as a deliberate show of status and might. This symbol, however, is no show of obeisance to the master of lightning, but is instead a blade pointed at the existing powers that be in this world. Nor is the mirror a means to shut out the looks of judgment from onlooking people, but is rather a bulwark against this base and sullied world. Within this great temple shall punishment be meted out and ignorance be cleansed. Dreams shall be overturned, desires shall be cut away, and karma shall be reset.
 
 ### Puppet Strings
 
-Tubes that were inserted into the mechanical puppet's back. The colors that flow within them are sometimes dull, and at others, vibrant.
-The contrast is so great as to be fearful. They provided power to the mechanical puppet, and at the same time served as its strings,
-controlling it and binding it. Once the support of these tubes is lost, the puppet becomes as weak as a newborn babe, barely able to even move.
+Tubes that were inserted into the mechanical puppet's back. The colors that flow within them are sometimes dull, and at others, vibrant. The contrast is so great as to be fearful. They provided power to the mechanical puppet, and at the same time served as its strings, controlling it and binding it. Once the support of these tubes is lost, the puppet becomes as weak as a newborn babe, barely able to even move.
 
 ## ZH
 
 ### 空行的虚铃
 
-状似铃铛，用来连接机体臂部的球形关节部件。看起来精致小巧，却能负荷远超想象的能量。链接手臂，自己的双臂就会失去知觉；链接腿部，
-自己的双腿几乎无法使力；而链接这颗机械之颅…憎恨与痛苦，疯狂与自傲，都不会被洗去。万幸。
+状似铃铛，用来连接机体臂部的球形关节部件。 看起来精致小巧，却能负荷远超想象的能量。 链接手臂，自己的双臂就会失去知觉； 链接腿部，自己的双腿几乎无法使力； 而链接这颗机械之颅… 憎恨与痛苦，疯狂与自傲，都不会被洗去。 万幸。
 
 ### 无心的渊镜
 
-正机之主胸前用于隔断外界的镜面。特意绘上了三重巴纹以宣告其身份与威严。此纹样并非向雷之主人宣告臣服，而是刺往世间既有之威能的利刃；
-此镜面并非隔绝世人批判之目光；而是断却俗世一切之污脏的宫墙。于此大殿中施舍惩戒，洗净蒙昧，颠倒梦想、剜去心因，重书定业。
+正机之主胸前用于隔断外界的镜面。 特意绘上了三重巴纹以宣告其身份与威严。 此纹样并非向雷之主人宣告臣服，而是刺往世间既有之威能的利刃； 此镜面并非隔绝世人批判之目光； 而是断却俗世一切之污脏的宫墙。 于此大殿中施舍惩戒，洗净蒙昧， 颠倒梦想、剜去心因，重书定业。
 
 ### 傀儡的悬丝
 
-插入机心人偶背部的导管。流淌其中的色彩时而晦暗时而明艳，矛盾到令人恐惧。为机心人偶提供能量，同时也如悬挂木偶的丝线一般控制束缚着人偶。
-失去导管支撑，人偶将羸弱得堪比新生幼儿，寸步难行。
+插入机心人偶背部的导管。 流淌其中的色彩时而晦暗时而明艳，矛盾到令人恐惧。 为机心人偶提供能量，同时也如悬挂木偶的丝线一般控制束缚着人偶。 失去导管支撑，人偶将羸弱得堪比新生幼儿，寸步难行。
 
 ## NOTES
 

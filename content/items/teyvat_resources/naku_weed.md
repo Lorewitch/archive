@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Трава наку
 # title_en: Naku Weed
@@ -22,17 +22,15 @@
 
 ## RU
 
-Даже в безветренный день при звуке грома это растение едва заметно дрожит. Его лепестки на самом деле являются продолжением листьев,
-которые защищают хрупкий цветок.
+Даже в безветренный день при звуке грома это растение едва заметно дрожит. Его лепестки на самом деле являются продолжением листьев, которые защищают хрупкий цветок.
 
 ## EN
 
-Even on windless days, this plant will tremble lightly amid the cries of thunder.
-The parts of it that resemble petals are in fact extensions of the leaves meant to protect the fragile flower.
+Even on windless days, this plant will tremble lightly amid the cries of thunder. The parts of it that resemble petals are in fact extensions of the leaves meant to protect the fragile flower.
 
 ## ZH
 
-即使在无风的日子里，亦会随雷鸣之声隐隐振动的植物。看起来像是花瓣的结构其实是叶片的延伸，保护着脆弱的花朵。
+即使在无风的日子里，亦会随雷鸣之声隐隐振动的植物。 看起来像是花瓣的结构其实是叶片的延伸，保护着脆弱的花朵。
 
 ## NOTES
 

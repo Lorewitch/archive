@@ -46,9 +46,7 @@
 
 ### material: alien_life_core
 
-Ядро, оставленное протогенами расщелин. Полностью уничтожить эту форму жизни невозможно. Даже если останется только ядро,
-она всё равно оживёт на следующий день или спустя десятилетия. К счастью, эта форма жизни не отличается большим интеллектом и агрессией,
-поэтому жители Фонтейна предпочитают относиться к ней с уважением, но держаться на расстоянии.
+Ядро, оставленное протогенами расщелин. Полностью уничтожить эту форму жизни невозможно. Даже если останется только ядро, она всё равно оживёт на следующий день или спустя десятилетия. К счастью, эта форма жизни не отличается большим интеллектом и агрессией, поэтому жители Фонтейна предпочитают относиться к ней с уважением, но держаться на расстоянии.
 
 ## EN
 
@@ -62,8 +60,7 @@ A shard left by Breacher Primus. This strange life form originates in Elynas and
 
 ### material: alien_life_core
 
-Breacher Primus's Core. There is no way to exterminate this life form. One reduced to nothing but its core will resurrect the next day or in decades.
-Luckily, it is neither aggressive nor intelligent, so Fontainians can just keep their distance.
+Breacher Primus's Core. There is no way to exterminate this life form. One reduced to nothing but its core will resurrect the next day or in decades. Luckily, it is neither aggressive nor intelligent, so Fontainians can just keep their distance.
 
 ## ZH
 
@@ -77,8 +74,7 @@ Luckily, it is neither aggressive nor intelligent, so Fontainians can just keep 
 
 ### material: alien_life_core
 
-隙境原体留下的核心。这种生命体并没有彻底消灭的手段，即使只剩下核心也会在翌日，或是数十年后再度复生。所幸似乎没有很强的攻击性与智性，
-所以枫丹人对其大多采取的是敬而远之的态度。
+隙境原体留下的核心。这种生命体并没有彻底消灭的手段，即使只剩下核心也会在翌日，或是数十年后再度复生。所幸似乎没有很强的攻击性与智性，所以枫丹人对其大多采取的是敬而远之的态度。
 
 ## NOTES
 

@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Древесина ольхи
 # title_en: Alder Wood
@@ -26,8 +26,7 @@
 
 ## EN
 
-Wood from the Alder Tree. It demonstrates considerable resistance to moisture and cold,
-making it a fine raw material for both furniture and musical instruments.
+Wood from the Alder Tree. It demonstrates considerable resistance to moisture and cold, making it a fine raw material for both furniture and musical instruments.
 
 ## ZH
 

@@ -43,51 +43,43 @@
 
 ### material: teachings_of_vagrancy
 
-Материал повышения талантов. Скитание - это жизнь под лунным небом. Насладись мгновением покоя и отправляйся в путь до того, как небо потемнеет.
-Рассвет - это не конец, а начало нового путешествия.
+Материал повышения талантов. Скитание - это жизнь под лунным небом. Насладись мгновением покоя и отправляйся в путь до того, как небо потемнеет. Рассвет - это не конец, а начало нового путешествия.
 
 ### material: guide_to_vagrancy
 
-Материал повышения талантов. Скитание - это жизнь под лунным небом. Жить - значит странствовать, ведь никому не суждено остаться в этом мире навсегда.
-Запоминается не момент прибытия, а следы, что мы оставляем на пути.
+Материал повышения талантов. Скитание - это жизнь под лунным небом. Жить - значит странствовать, ведь никому не суждено остаться в этом мире навсегда. Запоминается не момент прибытия, а следы, что мы оставляем на пути.
 
 ### material: philosophies_of_vagrancy
 
-Материал повышения талантов. Скитание - это жизнь под лунным небом. Сквозь гром и бурю, через горы и снежные поля, даже израненный и уставший,
-странник не останавливается. Он будет идти, пока не найдёт место, которое сможет назвать домом.
+Материал повышения талантов. Скитание - это жизнь под лунным небом. Сквозь гром и бурю, через горы и снежные поля, даже израненный и уставший, странник не останавливается. Он будет идти, пока не найдёт место, которое сможет назвать домом.
 
 ## EN
 
 ### material: teachings_of_vagrancy
 
-Talent Level-Up material. "Vagrancy" is the living of the land beneath the moon. Enjoy a moment's respite, then depart before the sky turns black.
-Dawn is not the end, but the beginning of another journey.
+Talent Level-Up material. "Vagrancy" is the living of the land beneath the moon. Enjoy a moment's respite, then depart before the sky turns black. Dawn is not the end, but the beginning of another journey.
 
 ### material: guide_to_vagrancy
 
-Talent Level-Up material. "Vagrancy" is the living of the land beneath the moon. To live is to wander, for none of us can settle in this world.
-What is remembered is not the moment of arrival, but the footprints that we leave along the way.
+Talent Level-Up material. "Vagrancy" is the living of the land beneath the moon. To live is to wander, for none of us can settle in this world. What is remembered is not the moment of arrival, but the footprints that we leave along the way.
 
 ### material: philosophies_of_vagrancy
 
-Talent Level-Up material. "Vagrancy" is the living of the land beneath the moon. Through thunder and storms, across mountains and snowfields,
-though scarred and weary, the wanderer does not stop — nor will they till they find a place to call home.
+Talent Level-Up material. "Vagrancy" is the living of the land beneath the moon. Through thunder and storms, across mountains and snowfields, though scarred and weary, the wanderer does not stop — nor will they till they find a place to call home.
 
 ## ZH
 
 ### material: teachings_of_vagrancy
 
-天赋培养素材。「浪迹」是月下之地的生活。安享短暂的休整，于黑夜到来前启程。黎明并非终点，而是另一次旅途的开幕。
+天赋培养素材。 「浪迹」是月下之地的生活。 安享短暂的休整，于黑夜到来前启程。 黎明并非终点，而是另一次旅途的开幕。
 
 ### material: guide_to_vagrancy
 
-天赋培养素材。「浪迹」是月下之地的生活。生命与流浪本身并无差别，无人在世间永远驻留，不过是暂作停歇。值得纪念的不是抵达终点的时刻，
-而是沿途留下的足迹。
+天赋培养素材。 「浪迹」是月下之地的生活。 生命与流浪本身并无差别，无人在世间永远驻留，不过是暂作停歇。 值得纪念的不是抵达终点的时刻，而是沿途留下的足迹。
 
 ### material: philosophies_of_vagrancy
 
-天赋培养素材。「浪迹」是月下之地的生活。穿越雷霆与风暴，跨过山峦和雪原，即便遍体鳞伤，也绝不就此驻足。浪迹之人之所以还没有停下脚步，
-是因为他们还没有找到可以称之为「家」的地方。
+天赋培养素材。 「浪迹」是月下之地的生活。 穿越雷霆与风暴，跨过山峦和雪原，即便遍体鳞伤，也绝不就此驻足。 浪迹之人之所以还没有停下脚步，是因为他们还没有找到可以称之为「家」的地方。
 
 ## NOTES
 

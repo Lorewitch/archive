@@ -38,54 +38,43 @@
 
 ### material: sentrys_wooden_whistle
 
-Символ дозорного из племени Натлана. Воинами не рождаются. Сначала нужно овладеть боевыми навыками под руководством кого-то опытного.
-Так возникла должность ученика дозорного.
+Символ дозорного из племени Натлана. Воинами не рождаются. Сначала нужно овладеть боевыми навыками под руководством кого-то опытного. Так возникла должность ученика дозорного.
 
 ### material: warriors_metal_whistle
 
-Символ воина племени Натлана. Металлический свисток, который вручают тем, кто официально признан воинами племени. Его используют для связи.
-Патрульные окрестностей племени используют его для предупреждения других об опасности. Эта обязанность лежит на воинах племени.
+Символ воина племени Натлана. Металлический свисток, который вручают тем, кто официально признан воинами племени. Его используют для связи. Патрульные окрестностей племени используют его для предупреждения других об опасности. Эта обязанность лежит на воинах племени.
 
 ### material: saurian_crowned_warriors_golden_whistle
 
-Символ коронованного заврианами, могучего воина из племён Натлана. Золотой свисток вручается тем,
-кто принёс племени честь и славу и чьё мужество было признано. Однако теперь его значение больше декоративное, так как воин, коронованный заврианами,
-способен самостоятельно справиться с большинством проблем.
+Символ коронованного заврианами, могучего воина из племён Натлана. Золотой свисток вручается тем, кто принёс племени честь и славу и чьё мужество было признано. Однако теперь его значение больше декоративное, так как воин, коронованный заврианами, способен самостоятельно справиться с большинством проблем.
 
 ## EN
 
 ### material: sentrys_wooden_whistle
 
-The symbol of a Natlan tribal sentry. Warriors are not born as warriors.
-They must first acquire the skills of combat by learning under the tutelage of those who have already done so.
-This is the origin of the trainee position of sentry.
+The symbol of a Natlan tribal sentry. Warriors are not born as warriors. They must first acquire the skills of combat by learning under the tutelage of those who have already done so. This is the origin of the trainee position of sentry.
 
 ### material: warriors_metal_whistle
 
-The symbol of a Natlan tribal warrior. A metal whistle that is given to individuals who have been officially recognized as tribal warriors.
-It is used to communicate and alert others to danger by those that patrol the tribe's vicinity.
-This is a duty that falls upon the warriors of the tribe.
+The symbol of a Natlan tribal warrior. A metal whistle that is given to individuals who have been officially recognized as tribal warriors. It is used to communicate and alert others to danger by those that patrol the tribe's vicinity. This is a duty that falls upon the warriors of the tribe.
 
 ### material: saurian_crowned_warriors_golden_whistle
 
-Among Natlan's tribes, this is the symbol of a mighty, Saurian-Crowned warrior.
-A golden whistle that is bestowed only upon those who have won great honor for the tribe and shown valor of the highest order.
-Its symbolic significance now outweighs its practical use, for a Saurian-Crowned warrior is able to handle most crises alone.
+Among Natlan's tribes, this is the symbol of a mighty, Saurian-Crowned warrior. A golden whistle that is bestowed only upon those who have won great honor for the tribe and shown valor of the highest order. Its symbolic significance now outweighs its practical use, for a Saurian-Crowned warrior is able to handle most crises alone.
 
 ## ZH
 
 ### material: sentrys_wooden_whistle
 
-纳塔部族卫从的象征。战士并非一开始就是战士，得先跟从真正的战士们学习战斗的技巧，这就是部族中「卫从」这一见习职位的由来。
+纳塔部族卫从的象征。 战士并非一开始就是战士，得先跟从真正的战士们学习战斗的技巧，这就是部族中「卫从」这一见习职位的由来。
 
 ### material: warriors_metal_whistle
 
-纳塔部族战士的象征。正式成为部族战士后能够拥有的铁哨。在部族周围巡游，一旦出现危险就用哨声互相通知呼应。这就是部族中「战士」需要履行的职责。
+纳塔部族战士的象征。 正式成为部族战士后能够拥有的铁哨。在部族周围巡游，一旦出现危险就用哨声互相通知呼应。这就是部族中「战士」需要履行的职责。
 
 ### material: saurian_crowned_warriors_golden_whistle
 
-纳塔部族中，获授龙冠的强大武士的象征。只有为部族争取到了足够的荣誉，其勇武得到承认之后，才会得到的金哨。
-但此时其装饰的意义已经高过实际使用的意义，因为头戴龙冠的武士可以独自解决大部分的危机。
+纳塔部族中，获授龙冠的强大武士的象征。 只有为部族争取到了足够的荣誉，其勇武得到承认之后，才会得到的金哨。但此时其装饰的意义已经高过实际使用的意义，因为头戴龙冠的武士可以独自解决大部分的危机。
 
 ## NOTES
 

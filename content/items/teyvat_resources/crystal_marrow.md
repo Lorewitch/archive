@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Кристальный костный мозг
 # title_en: Crystal Marrow
@@ -30,7 +30,7 @@ A crystal that contains a sliver of Tatarigami power. Adding this material durin
 
 ## ZH
 
-蕴含着「祟神」力量的晶体。冶炼时加入这种物质的话，能极大地提高钢铁制品的强度与韧性。
+蕴含着「祟神」力量的晶体。 冶炼时加入这种物质的话，能极大地提高钢铁制品的强度与韧性。
 
 ## NOTES
 

@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Клён
 # title_en: Maple Wood
@@ -30,7 +30,7 @@ Timber from the Amur Maple. Excellent quality wood with a fine color and texture
 
 ## ZH
 
-产自「羽扇枫」的木材，硬度适中，品质优异，色泽与纹理上佳。可用于制作摆设。
+产自「羽扇枫」的木材，硬度适中，品质优异，色泽与纹理上佳。 可用于制作摆设。
 
 ## NOTES
 

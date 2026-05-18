@@ -8,7 +8,7 @@
 # item_type_en: Ore
 # item_type_zh: 矿石
 
-# tags: 
+# tags:
 
 # title_ru: Электро кристалл
 # title_en: Electro Crystal
@@ -30,7 +30,7 @@ A power-rich crystal that draws electricity from the air around it. Holding it m
 
 ## ZH
 
-富含电力的晶石，由逸散在大气与大地中的电气积聚而成。摸起来酥酥麻麻的。
+富含电力的晶石，由逸散在大气与大地中的电气积聚而成。 摸起来酥酥麻麻的。
 
 ## NOTES
 

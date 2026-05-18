@@ -46,15 +46,13 @@
 
 ### material: weathered_arrowhead
 
-Старый наконечник стрелы, покрытый кровью. Он давно потерял свою остроту, и, следовательно, его нельзя использовать в качестве оружия.
-Однако этот наконечник является гордостью охотника и выполняет роль амулета или медали.
+Старый наконечник стрелы, покрытый кровью. Он давно потерял свою остроту, и, следовательно, его нельзя использовать в качестве оружия. Однако этот наконечник является гордостью охотника и выполняет роль амулета или медали.
 
 ## EN
 
 ### material: firm_arrowhead
 
-A roughly produced arrowhead. Though unimpressive, neither it nor the bow should be underestimated,
-for even the bravest knight can be felled by an arrow from the rear.
+A roughly produced arrowhead. Though unimpressive, neither it nor the bow should be underestimated, for even the bravest knight can be felled by an arrow from the rear.
 
 ### material: sharp_arrowhead
 
@@ -62,8 +60,7 @@ A well-made arrowhead. Sharp enough to penetrate armor with the ease of a rock t
 
 ### material: weathered_arrowhead
 
-An old arrowhead coated in blood. The arrowhead has long since lost its sharpness and thus its use as a weapon. However,
-it represents the pride of a hunter and acts as both an amulet and a medal.
+An old arrowhead coated in blood. The arrowhead has long since lost its sharpness and thus its use as a weapon. However, it represents the pride of a hunter and acts as both an amulet and a medal.
 
 ## ZH
 
@@ -77,7 +74,7 @@ it represents the pride of a hunter and acts as both an amulet and a medal.
 
 ### material: weathered_arrowhead
 
-老旧的、沾染了干涸血迹的箭簇。箭头在反复的使用中已经失去了应有的锐利，根本不能作为武器使用。但它也代表着猎手的骄傲，是它们的护身符与奖章。
+老旧的、沾染了干涸血迹的箭簇。箭头在反复的使用中已经失去了应有的锐利，根本不能作为武器使用。 但它也代表着猎手的骄傲，是它们的护身符与奖章。
 
 ## NOTES
 

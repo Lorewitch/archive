@@ -49,67 +49,55 @@
 
 ### material: brilliant_diamond_sliver
 
-Материал возвышения персонажа.
-«Добро пожаловать в мир!»
+Материал возвышения персонажа. «Добро пожаловать в мир!»
 
 ### material: brilliant_diamond_fragment
 
-Материал возвышения персонажа.
-«Добро пожаловать в мир!»
+Материал возвышения персонажа. «Добро пожаловать в мир!»
 
 ### material: brilliant_diamond_chunk
 
-Материал возвышения персонажа.
-«Добро пожаловать в мир!»
+Материал возвышения персонажа. «Добро пожаловать в мир!»
 
 ### material: brilliant_diamond_gemstone
 
-Материал возвышения персонажа.
-«Добро пожаловать в мир!»
+Материал возвышения персонажа. «Добро пожаловать в мир!»
 
 ## EN
 
 ### material: brilliant_diamond_sliver
 
-Character Ascension material.
-"Welcome to this world."
+Character Ascension material. "Welcome to this world."
 
 ### material: brilliant_diamond_fragment
 
-Character Ascension material.
-"Welcome to this world."
+Character Ascension material. "Welcome to this world."
 
 ### material: brilliant_diamond_chunk
 
-Character Ascension material.
-"Welcome to this world."
+Character Ascension material. "Welcome to this world."
 
 ### material: brilliant_diamond_gemstone
 
-Character Ascension material.
-"Welcome to this world."
+Character Ascension material. "Welcome to this world."
 
 ## ZH
 
 ### material: brilliant_diamond_sliver
 
-角色突破素材。
-「欢迎来到世界。」
+角色突破素材。 「欢迎来到世界。」
 
 ### material: brilliant_diamond_fragment
 
-角色突破素材。
-「欢迎来到世界。」
+角色突破素材。 「欢迎来到世界。」
 
 ### material: brilliant_diamond_chunk
 
-角色突破素材。
-「欢迎来到世界。」
+角色突破素材。 「欢迎来到世界。」
 
 ### material: brilliant_diamond_gemstone
 
-角色突破素材。
-「欢迎来到世界。」
+角色突破素材。 「欢迎来到世界。」
 
 ## NOTES
 

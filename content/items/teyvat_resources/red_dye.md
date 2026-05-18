@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Красная краска
 # title_en: Red Dye
@@ -30,7 +30,7 @@ Red dye. It will surely be of use in making furnishings.
 
 ## ZH
 
-红色的染料。制作摆设时应该能派上用场。
+红色的染料。 制作摆设时应该能派上用场。
 
 ## NOTES
 

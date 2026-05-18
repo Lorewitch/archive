@@ -38,46 +38,35 @@
 
 ### material: damaged_prism
 
-Повреждённый компонент, полученный в результате победы над первозданной конструкцией. Эти уникальные механизмы — вечные стражи пустынных руин.
-Они обладают силой пронзать горы и изменять форму скал. Те же принципы, что питают многие таинственные устройства над и под землёй,
-питают и эти машины.
+Повреждённый компонент, полученный в результате победы над первозданной конструкцией. Эти уникальные механизмы — вечные стражи пустынных руин. Они обладают силой пронзать горы и изменять форму скал. Те же принципы, что питают многие таинственные устройства над и под землёй, питают и эти машины.
 
 ### material: turbid_prism
 
-Повреждённый компонент, полученный в результате победы над первозданной конструкцией. Говорят, что эти машины отличаются от тех руинных механизмов,
-которые приходят из глубин пустыни, ибо они не были созданы как предвестники разрушения или покорения.
+Повреждённый компонент, полученный в результате победы над первозданной конструкцией. Говорят, что эти машины отличаются от тех руинных механизмов, которые приходят из глубин пустыни, ибо они не были созданы как предвестники разрушения или покорения.
 
 ### material: radiant_prism
 
-Повреждённый компонент, полученный в результате победы над первозданной конструкцией.
-Повелитель бесплодной пустыни когда-то видел сон и дал множество обещаний. Легенды пустыни гласят,
-что машины изначально и были носителями этих неизвестных обещаний, которые теперь живут только в их механических банках памяти.
+Повреждённый компонент, полученный в результате победы над первозданной конструкцией. Повелитель бесплодной пустыни когда-то видел сон и дал множество обещаний. Легенды пустыни гласят, что машины изначально и были носителями этих неизвестных обещаний, которые теперь живут только в их механических банках памяти.
 
 ## EN
 
 ### material: damaged_prism
 
-A damaged component obtained from defeating a Primal Construct. These uniquely-shaped machines are the eternal sentinels of the desert ruins,
-and they possess the power to pierce the mountains and reshape rocks.
-The same principles that power many mysterious devices above and beneath the earth also power these machines.
+A damaged component obtained from defeating a Primal Construct. These uniquely-shaped machines are the eternal sentinels of the desert ruins, and they possess the power to pierce the mountains and reshape rocks. The same principles that power many mysterious devices above and beneath the earth also power these machines.
 
 ### material: turbid_prism
 
-An old component obtained from defeating a Primal Construct. It is said that these machines are different from those ruin machines that come from deep within the desert,
-for they were not made as heralds of destruction or conquest.
+An old component obtained from defeating a Primal Construct. It is said that these machines are different from those ruin machines that come from deep within the desert, for they were not made as heralds of destruction or conquest.
 
 ### material: radiant_prism
 
-An exquisite component obtained from defeating a Primal Construct. The lord of the barren desert once had a dream,
-and once made a great many promises. The legends of the desert say that these machines were originally vehicles for these unknown promises,
-which now live on only within their mechanical memory banks.
+An exquisite component obtained from defeating a Primal Construct. The lord of the barren desert once had a dream, and once made a great many promises. The legends of the desert say that these machines were originally vehicles for these unknown promises, which now live on only within their mechanical memory banks.
 
 ## ZH
 
 ### material: damaged_prism
 
-打倒元能构装体后获得的破碎零件。这些造型特异的机械是沙漠遗迹永恒的守护者，具有足以凿穿岩山，重塑巨石的力量。驱动这些机械运作的原理与地上、
-地下许多神秘的机关相似。
+打倒元能构装体后获得的破碎零件。这些造型特异的机械是沙漠遗迹永恒的守护者，具有足以凿穿岩山，重塑巨石的力量。驱动这些机械运作的原理与地上、地下许多神秘的机关相似。
 
 ### material: turbid_prism
 
@@ -85,8 +74,7 @@ which now live on only within their mechanical memory banks.
 
 ### material: radiant_prism
 
-打倒元能构装体后获得的精巧零件。荒漠的王曾经做过一个梦，也做出过许多许诺。在荒漠的传说中，这些机械的造物原本是践行诺言的道具，
-如今也只有它们的机械记忆体中刻写着无人记得的梦与承诺吧。
+打倒元能构装体后获得的精巧零件。荒漠的王曾经做过一个梦，也做出过许多许诺。在荒漠的传说中，这些机械的造物原本是践行诺言的道具，如今也只有它们的机械记忆体中刻写着无人记得的梦与承诺吧。
 
 ## NOTES
 

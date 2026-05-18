@@ -42,13 +42,11 @@
 
 ### material: agents_sacrificial_knife
 
-Оружие необычной формы, сделанное при помощи продвинутой технологии Снежной, когда-то принадлежало старшему агенту.
-Без особой подготовки обычный человек это странное оружие использовать не сможет.
+Оружие необычной формы, сделанное при помощи продвинутой технологии Снежной, когда-то принадлежало старшему агенту. Без особой подготовки обычный человек это странное оружие использовать не сможет.
 
 ### material: inspectors_sacrificial_knife
 
-В умелых руках это оружие раздало обратно немало «долгов». Ни у кого нет глаз на затылке.
-Боевые приёмы с Церемониальным ножом инспектора разработаны так, чтобы пользоваться слабыми местами противника.
+В умелых руках это оружие раздало обратно немало «долгов». Ни у кого нет глаз на затылке. Боевые приёмы с Церемониальным ножом инспектора разработаны так, чтобы пользоваться слабыми местами противника.
 
 ## EN
 
@@ -58,13 +56,11 @@ A sharp alloy weapon. Though its owner has been lost, it still reflects a distur
 
 ### material: agents_sacrificial_knife
 
-An oddly-shaped weapon made with superior Snezhnayan technology that once belonged to a senior agent.
-Proper training is required for using this strange weapon.
+An oddly-shaped weapon made with superior Snezhnayan technology that once belonged to a senior agent. Proper training is required for using this strange weapon.
 
 ### material: inspectors_sacrificial_knife
 
-In the hands of its lord, this fierce weapon has handled many "debts." No one has eyes in the back of their heads,
-and this weapon and its related techniques are designed around that weakness.
+In the hands of its lord, this fierce weapon has handled many "debts." No one has eyes in the back of their heads, and this weapon and its related techniques are designed around that weakness.
 
 ## ZH
 

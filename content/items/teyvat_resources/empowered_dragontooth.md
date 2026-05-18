@@ -8,7 +8,7 @@
 # item_type_en: Crafting
 # item_type_zh: 合成
 
-# tags: 
+# tags:
 
 # title_ru: Напитанный силой драконий клык
 # title_en: Empowered Dragontooth
@@ -30,7 +30,7 @@ A Dragontooth infused with power. Its luster and texture appear to have been som
 
 ## ZH
 
-汲取了生命力的龙牙。无论是光泽还是质感，都愈加让人不安…
+汲取了生命力的龙牙。 无论是光泽还是质感，都愈加让人不安…
 
 ## NOTES
 

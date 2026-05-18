@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Цуйхуа
 # title_en: Cuihua Wood
@@ -22,17 +22,15 @@
 
 ## RU
 
-Древесина, полученная из дерева цуйхуа. Она имеет красивый цвет и уникальную текстуру. Хороший плотник сможет найти ей тысячи различных применений.
-Служит для изготовления декора.
+Древесина, полученная из дерева цуйхуа. Она имеет красивый цвет и уникальную текстуру. Хороший плотник сможет найти ей тысячи различных применений. Служит для изготовления декора.
 
 ## EN
 
-Timber obtained from Cuihua Trees. With its lovely color and unique make,
-it will surely be able to take on myriad uses upon undergoing suitable workmanship. Can be used to create furnishings.
+Timber obtained from Cuihua Trees. With its lovely color and unique make, it will surely be able to take on myriad uses upon undergoing suitable workmanship. Can be used to create furnishings.
 
 ## ZH
 
-产自「萃华树」的木材，色泽秀美，木质独特，经过适当的加工，能胜任各种用途。可用于制作摆设。
+产自「萃华树」的木材，色泽秀美，木质独特，经过适当的加工，能胜任各种用途。 可用于制作摆设。
 
 ## NOTES
 

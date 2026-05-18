@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Липа
 # title_en: Linden Wood
@@ -22,17 +22,15 @@
 
 ## RU
 
-Древесина, полученная из липы. Имеет гладкую текстуру и светлый цвет, даже при тонкой обработке образуется мало стружки.
-Из неё часто вырезают изящные поделки или изготавливают компактные детали для деревянных механизмов. Служит для изготовления декора.
+Древесина, полученная из липы. Имеет гладкую текстуру и светлый цвет, даже при тонкой обработке образуется мало стружки. Из неё часто вырезают изящные поделки или изготавливают компактные детали для деревянных механизмов. Служит для изготовления декора.
 
 ## EN
 
-Wood from the Linden Tree. With a smooth texture and light color, few wood chips are produced even during fine processing.
-Often carved into delicate handicrafts or used to make compact parts for wooden mechanisms. Can be used to create furnishings.
+Wood from the Linden Tree. With a smooth texture and light color, few wood chips are produced even during fine processing. Often carved into delicate handicrafts or used to make compact parts for wooden mechanisms. Can be used to create furnishings.
 
 ## ZH
 
-「心叶椴」出产的木材，质地细腻，色泽较浅，精细处理时的木屑较少，常被用于雕刻精巧的工艺品，或是制作尺寸紧凑的木制机关部件。可用于制作摆设。
+「心叶椴」出产的木材，质地细腻，色泽较浅，精细处理时的木屑较少，常被用于雕刻精巧的工艺品，或是制作尺寸紧凑的木制机关部件。 可用于制作摆设。
 
 ## NOTES
 

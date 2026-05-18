@@ -42,30 +42,25 @@
 
 ### material: luminescent_pollen
 
-Крохотная сумка со светящимся споровым порошком плесенников - распространённый лекарственный ингредиент в землях тропических лесов.
-Торговцы обычно продают их в бумажных пакетах.
+Крохотная сумка со светящимся споровым порошком плесенников - распространённый лекарственный ингредиент в землях тропических лесов. Торговцы обычно продают их в бумажных пакетах.
 
 ### material: crystalline_cyst_dust
 
-Изрядное количество спорового порошка, который был собран из целой споровой сумки. Если его поместить в среду с подходящими условиями,
-вскоре её заполонит выводок плесенников...
+Изрядное количество спорового порошка, который был собран из целой споровой сумки. Если его поместить в среду с подходящими условиями, вскоре её заполонит выводок плесенников...
 
 ## EN
 
 ### material: fungal_spores
 
-A small amount of glittering spore powder left behind by Floating Fungi.
-Seems that a sneeze is all it takes for this powder to vanish without a trace.
+A small amount of glittering spore powder left behind by Floating Fungi. Seems that a sneeze is all it takes for this powder to vanish without a trace.
 
 ### material: luminescent_pollen
 
-A small parcel of luminescent Fungal Spore powder, a common medical ingredient in the land of rainforests.
-Merchants usually sell them in paper packets.
+A small parcel of luminescent Fungal Spore powder, a common medical ingredient in the land of rainforests. Merchants usually sell them in paper packets.
 
 ### material: crystalline_cyst_dust
 
-A huge lump of spore powder collected from a structurally complete spore cyst. Put it in an appropriate environment,
-and the area might be filled with a thriving aggregation of Floating Fungi later...
+A huge lump of spore powder collected from a structurally complete spore cyst. Put it in an appropriate environment, and the area might be filled with a thriving aggregation of Floating Fungi later...
 
 ## ZH
 

@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Валяшка
 # title_en: Valberry
@@ -26,12 +26,11 @@
 
 ## EN
 
-A plump and translucent berry that has a fragrant smell and a sweet, refreshing taste. In the past,
-the storm watchers' only solace was the sweetness of this fruit and hope for the city's peace.
+A plump and translucent berry that has a fragrant smell and a sweet, refreshing taste. In the past, the storm watchers' only solace was the sweetness of this fruit and hope for the city's peace.
 
 ## ZH
 
-饱满透亮的莓果，在口中绽放出清甜的花香。在过去，守望风暴的人仅有的慰藉便是落落莓的甜蜜与对城市安宁的希望。
+饱满透亮的莓果，在口中绽放出清甜的花香。 在过去，守望风暴的人仅有的慰藉便是落落莓的甜蜜与对城市安宁的希望。
 
 ## NOTES
 

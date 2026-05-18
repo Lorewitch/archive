@@ -8,7 +8,7 @@
 # item_type_en: Animal
 # item_type_zh: 动物
 
-# tags: 
+# tags:
 
 # title_ru: Хвост ящерицы
 # title_en: Lizard Tail
@@ -30,7 +30,7 @@ A lizard tail that curled up after losing its owner. Very bitter, but has skin h
 
 ## ZH
 
-失去生命后微微卷曲的蜥蜴尾巴。含有强烈的药性，能让人皮肤变硬。味道很苦。
+失去生命后微微卷曲的蜥蜴尾巴。 含有强烈的药性，能让人皮肤变硬。 味道很苦。
 
 ## NOTES
 

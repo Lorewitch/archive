@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Звёздная ракушка
 # title_en: Starconch
@@ -30,7 +30,7 @@ Empty seashells brought ashore by the tides. Hold it close to your ear, and hear
 
 ## ZH
 
-随着海潮来到沙滩上的螺。将耳朵凑近空壳，能听见海充满思念的呼唤。
+随着海潮来到沙滩上的螺。 将耳朵凑近空壳，能听见海充满思念的呼唤。
 
 ## NOTES
 

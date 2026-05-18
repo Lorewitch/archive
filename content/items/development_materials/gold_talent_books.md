@@ -43,50 +43,43 @@
 
 ### material: teachings_of_gold
 
-Материал повышения таланта. Золото - это символ царства земли. Золото - это кровь, текущая глубоко под землёй Ли Юэ, это мышцы,
-которые сокращают сердце Ли Юэ, это кости, которые заставляют Ли Юэ гордо стоять на ногах.
+Материал повышения таланта. Золото - это символ царства земли. Золото - это кровь, текущая глубоко под землёй Ли Юэ, это мышцы, которые сокращают сердце Ли Юэ, это кости, которые заставляют Ли Юэ гордо стоять на ногах.
 
 ### material: guide_to_gold
 
-Материал повышения таланта. Золото - это символ царства земли. Золото символизирует преобразование. Это негласное взаимопонимание между горами,
-землёй, городом Ли Юэ и его народом. В Ли Юэ трудолюбие превращается в золото, а золото - в процветание.
+Материал повышения таланта. Золото - это символ царства земли. Золото символизирует преобразование. Это негласное взаимопонимание между горами, землёй, городом Ли Юэ и его народом. В Ли Юэ трудолюбие превращается в золото, а золото - в процветание.
 
 ### material: philosophies_of_gold
 
-Материал повышения таланта. Золото - это символ царства земли. Золото - это богатство Ли Юэ, но истинное богатство Ли Юэ - это сердца его народа,
-которые сияют ярче золота.
+Материал повышения таланта. Золото - это символ царства земли. Золото - это богатство Ли Юэ, но истинное богатство Ли Юэ - это сердца его народа, которые сияют ярче золота.
 
 ## EN
 
 ### material: teachings_of_gold
 
-Talent Level-Up material. Gold is the symbol of the land of Geo. Gold is the blood that flows deep within Liyue's veins,
-the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud.
+Talent Level-Up material. Gold is the symbol of the land of Geo. Gold is the blood that flows deep within Liyue's veins, the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud.
 
 ### material: guide_to_gold
 
-Talent Level-Up material. Gold is the symbol of the land of Geo. Gold symbolizes conversion.
-This is the unspoken understanding between Liyue's mountains, land, city, and people. In Liyue, industriousness is converted into gold,
-and gold into prosperity.
+Talent Level-Up material. Gold is the symbol of the land of Geo. Gold symbolizes conversion. This is the unspoken understanding between Liyue's mountains, land, city, and people. In Liyue, industriousness is converted into gold, and gold into prosperity.
 
 ### material: philosophies_of_gold
 
-Talent Level-Up material. Gold is the symbol of the land of Geo. Gold is the wealth of Liyue,
-but Liyue's true wealth is the hearts of its people that shine like gold.
+Talent Level-Up material. Gold is the symbol of the land of Geo. Gold is the wealth of Liyue, but Liyue's true wealth is the hearts of its people that shine like gold.
 
 ## ZH
 
 ### material: teachings_of_gold
 
-天赋培养素材。岩之国土的象征是黄金。黄金是流淌在璃月土地深处的血液，是鼓动璃月的心脏有力搏动的肌肉，是让璃月傲然挺立的筋骨。
+天赋培养素材。 岩之国土的象征是黄金。 黄金是流淌在璃月土地深处的血液，是鼓动璃月的心脏有力搏动的肌肉，是让璃月傲然挺立的筋骨。
 
 ### material: guide_to_gold
 
-天赋培养素材。岩之国土的象征是黄金。黄金意味着转换，这是璃月的岩山、大地、港城与人们的默契。在璃月，勤劳被转换为黄金，而黄金被转换为繁荣。
+天赋培养素材。 岩之国土的象征是黄金。 黄金意味着转换，这是璃月的岩山、大地、港城与人们的默契。 在璃月，勤劳被转换为黄金，而黄金被转换为繁荣。
 
 ### material: philosophies_of_gold
 
-天赋培养素材。岩之国土的象征是黄金。黄金是璃月的财富。但璃月真正的财富，是璃月的人们那如黄金般闪耀的心灵。
+天赋培养素材。 岩之国土的象征是黄金。 黄金是璃月的财富。 但璃月真正的财富，是璃月的人们那如黄金般闪耀的心灵。
 
 ## NOTES
 

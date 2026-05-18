@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Семена моркови
 # title_en: Carrot Seed
@@ -26,8 +26,7 @@
 
 ## EN
 
-A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time,
-it will grow into a Carrot.
+A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into a Carrot.
 
 ## ZH
 

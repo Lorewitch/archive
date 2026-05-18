@@ -46,9 +46,7 @@
 
 ### material: chaos_oculus
 
-Часть древнего механизма из руин. Механизмы руин называются так потому, что они наиболее активны в руинах. Вот только с развалинами,
-где они обычно обитают, у них ничего общего. В далёком прошлом эти развалины были частью великой цивилизации,
-способной прикоснуться к куполу небосвода, а «руины» затаились в земных глубинах и до сих пор ждут приказа растоптать все королевства.
+Часть древнего механизма из руин. Механизмы руин называются так потому, что они наиболее активны в руинах. Вот только с развалинами, где они обычно обитают, у них ничего общего. В далёком прошлом эти развалины были частью великой цивилизации, способной прикоснуться к куполу небосвода, а «руины» затаились в земных глубинах и до сих пор ждут приказа растоптать все королевства.
 
 ## EN
 
@@ -62,25 +60,21 @@ Comes from a now-inactive ancient Ruin machine. Even the great techniques and un
 
 ### material: chaos_oculus
 
-Comes from a now-inactive ancient Ruin machine. The "Ruin" part of the name comes from the areas where they are most active. However,
-Ruin machines actually have little in common with the detritus in which they are often found. In the ancient past,
-these ruins were once part of a civilization mighty enough to almost touch the dome of the firmament,
-while "ruin" still waits in the deep places of the earth, awaiting the order to arise and tread all kingdoms underfoot.
+Comes from a now-inactive ancient Ruin machine. The "Ruin" part of the name comes from the areas where they are most active. However, Ruin machines actually have little in common with the detritus in which they are often found. In the ancient past, these ruins were once part of a civilization mighty enough to almost touch the dome of the firmament, while "ruin" still waits in the deep places of the earth, awaiting the order to arise and tread all kingdoms underfoot.
 
 ## ZH
 
 ### material: chaos_gear
 
-来自不再活动的古代遗迹机关。似乎是拟生机关的动力来源。
+来自不再活动的古代遗迹机关。 似乎是拟生机关的动力来源。
 
 ### material: chaos_axis
 
-来自不再活动的古代遗迹机关。在无法维持机关构装体的结构性之后，其中蕴含的伟大技术与未知力量也失去意义了吧。
+来自不再活动的古代遗迹机关。 在无法维持机关构装体的结构性之后，其中蕴含的伟大技术与未知力量也失去意义了吧。
 
 ### material: chaos_oculus
 
-来自不再活动的古代遗迹机关。这类机关的「遗迹」之名源自它们热衷的活动区域。但遗迹机关本身与它们所寄居的残垣断壁之间却没有多少共同之处。
-在遥远的过去，遗迹曾经属于伟大的、几乎可以触碰天空穹顶的文明，而「遗迹」则在大地的深处蓄势待发，等待着踏平一切国度的指令下达。
+来自不再活动的古代遗迹机关。 这类机关的「遗迹」之名源自它们热衷的活动区域。但遗迹机关本身与它们所寄居的残垣断壁之间却没有多少共同之处。 在遥远的过去，遗迹曾经属于伟大的、几乎可以触碰天空穹顶的文明，而「遗迹」则在大地的深处蓄势待发，等待着踏平一切国度的指令下达。
 
 ## NOTES
 

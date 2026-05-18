@@ -8,7 +8,7 @@
 # item_type_en: Crafting
 # item_type_zh: 合成
 
-# tags: 
+# tags:
 
 # title_ru: Заготовка копья центральных земель
 # title_en: Midlander Polearm Billet
@@ -22,17 +22,15 @@
 
 ## RU
 
-Материал для ковки оружия. Может быть использован для создания древкового оружия 4★. Философы говорят,
-что за всеми мирскими материями стоят четыре первопричины. Цель этих заготовок – стать оружием в руках настоящего героя.
+Материал для ковки оружия. Может быть использован для создания древкового оружия 4★. Философы говорят, что за всеми мирскими материями стоят четыре первопричины. Цель этих заготовок – стать оружием в руках настоящего героя.
 
 ## EN
 
-Weapon forging material. Can be used to forge 4-star polearms. Philosophers believe that there are four purposes behind earthly things.
-The purpose of these billets is to become a weapon worthy of accompanying a hero.
+Weapon forging material. Can be used to forge 4-star polearms. Philosophers believe that there are four purposes behind earthly things. The purpose of these billets is to become a weapon worthy of accompanying a hero.
 
 ## ZH
 
-生产武器的原材料。通过锻造，可以生产出4星的长柄武器。哲学中认为尘世间事物，皆具备四种成因。这些原胚的「目的」，正是成为陪伴英雄的武器。
+生产武器的原材料。 通过锻造，可以生产出4星的长柄武器。 哲学中认为尘世间事物，皆具备四种成因。 这些原胚的「目的」，正是成为陪伴英雄的武器。
 
 ## NOTES
 

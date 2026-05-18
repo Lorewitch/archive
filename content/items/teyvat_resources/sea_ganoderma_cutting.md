@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Образец морского гриба
 # title_en: Sea Ganoderma Cutting
@@ -22,13 +22,11 @@
 
 ## RU
 
-Образец из сундука семян. Этот превосходный образец полон жизни. Посадите его на поле Чайника безмятежности,
-чтобы через некоторое время вырос морской гриб.
+Образец из сундука семян. Этот превосходный образец полон жизни. Посадите его на поле Чайника безмятежности, чтобы через некоторое время вырос морской гриб.
 
 ## EN
 
-A cutting obtained from the Seed Dispensary. A quality cutting full of life, just waiting to be planted in the Realm Within's fields.
-After some time it will grow into a Sea Ganoderma.
+A cutting obtained from the Seed Dispensary. A quality cutting full of life, just waiting to be planted in the Realm Within's fields. After some time it will grow into a Sea Ganoderma.
 
 ## ZH
 

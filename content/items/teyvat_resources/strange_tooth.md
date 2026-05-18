@@ -8,7 +8,7 @@
 # item_type_en: Crafting
 # item_type_zh: 合成
 
-# tags: 
+# tags:
 
 # title_ru: Необычный клык
 # title_en: Strange Tooth
@@ -30,7 +30,7 @@ A Dragontooth you picked up in Dragonspine. Perhaps someone would know something
 
 ## ZH
 
-从雪山上拾得的「牙齿」。也许有人会知道关于它的一些信息…
+从雪山上拾得的「牙齿」。 也许有人会知道关于它的一些信息…
 
 ## NOTES
 

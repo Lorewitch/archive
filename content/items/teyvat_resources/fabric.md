@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Ткань
 # title_en: Fabric
@@ -30,7 +30,7 @@ Some fabric of fine make. It will surely be of use in making furnishings.
 
 ## ZH
 
-优质的布匹。制作摆设时应该能派上用场。
+优质的布匹。 制作摆设时应该能派上用场。
 
 ## NOTES
 

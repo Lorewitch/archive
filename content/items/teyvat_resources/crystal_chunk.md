@@ -8,7 +8,7 @@
 # item_type_en: Ore
 # item_type_zh: 矿石
 
-# tags: 
+# tags:
 
 # title_ru: Обломок кристалла
 # title_en: Crystal Chunk
@@ -30,7 +30,7 @@ An uncut crystal. Only professional craftsmanship can bring out its true value.
 
 ## ZH
 
-未经削切的晶体。在专门处理后，才能真正展现价值吧。
+未经削切的晶体。 在专门处理后，才能真正展现价值吧。
 
 ## NOTES
 

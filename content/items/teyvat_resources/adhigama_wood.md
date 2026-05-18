@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Древесина адхигамы
 # title_en: Adhigama Wood
@@ -22,17 +22,15 @@
 
 ## RU
 
-Древесина, полученная из дерева адхигамы. Этот материал встречается повсюду, и на первый взгляд в нём нет ничего особенного,
-но эта древесина очень лёгкая и прочная. Служит для изготовления декора.
+Древесина, полученная из дерева адхигамы. Этот материал встречается повсюду, и на первый взгляд в нём нет ничего особенного, но эта древесина очень лёгкая и прочная. Служит для изготовления декора.
 
 ## EN
 
-The wood of the Adhigama Tree. Can be found everywhere and therefore appears rather ordinary, but the wood is durable and easy to handle.
-Can be used to create furnishings.
+The wood of the Adhigama Tree. Can be found everywhere and therefore appears rather ordinary, but the wood is durable and easy to handle. Can be used to create furnishings.
 
 ## ZH
 
-产自「证悟树」的木材，几乎随处可见，看似平凡，实则有着轻便耐用的特点。可用于制作摆设。
+产自「证悟树」的木材，几乎随处可见，看似平凡，实则有着轻便耐用的特点。 可用于制作摆设。
 
 ## NOTES
 

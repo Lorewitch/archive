@@ -8,7 +8,7 @@
 # item_type_en: Ore
 # item_type_zh: 矿石
 
-# tags: 
+# tags:
 
 # title_ru: Конденсирующиеся кристаллы
 # title_en: Condessence Crystal

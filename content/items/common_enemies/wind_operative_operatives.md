@@ -38,40 +38,29 @@
 
 ### material: old_operatives_pocket_watch
 
-Штатные карманные часы, которые выдаются сенешалям Фатуи. Эрозия и окисление на корпусе - верная память о днях,
-проведённых владельцем этих часов в роли исполнителя воли Фатуи.
+Штатные карманные часы, которые выдаются сенешалям Фатуи. Эрозия и окисление на корпусе - верная память о днях, проведённых владельцем этих часов в роли исполнителя воли Фатуи.
 
 ### material: operatives_standard_pocket_watch
 
-Штатные карманные часы, которые выдаются сенешалям Фатуи. Заводная головка часов расположена неудачно,
-а излишняя угловатость корпуса протирает одежду, поэтому всегда находится кто-то, кто переставляет механизм в более простой и невзрачный корпус.
+Штатные карманные часы, которые выдаются сенешалям Фатуи. Заводная головка часов расположена неудачно, а излишняя угловатость корпуса протирает одежду, поэтому всегда находится кто-то, кто переставляет механизм в более простой и невзрачный корпус.
 
 ### material: operatives_constancy
 
-Украшение с Глазом Порчи, источник силы элементов у сенешалей Фатуи. Даже если снять это украшение,
-физические данные сенешаля всё равно будут значительно выше, чем у обычного человека, как результат многолетних тренировок и практического опыта.
-Они понимают, что положили своё прошлое, настоящее и будущее на алтарь идеального царства Фатуи, поэтому вред, который они наносят себе,
-используя силу Глаза Порчи, не имеет никакого значения.
+Украшение с Глазом Порчи, источник силы элементов у сенешалей Фатуи. Даже если снять это украшение, физические данные сенешаля всё равно будут значительно выше, чем у обычного человека, как результат многолетних тренировок и практического опыта. Они понимают, что положили своё прошлое, настоящее и будущее на алтарь идеального царства Фатуи, поэтому вред, который они наносят себе, используя силу Глаза Порчи, не имеет никакого значения.
 
 ## EN
 
 ### material: old_operatives_pocket_watch
 
-A standard-issue pocket watch given to Fatui Operatives. The erosion and oxidation on the casing serve as a loyal record of its owners' days spent as an instrument,
-enforcing the Fatui's will.
+A standard-issue pocket watch given to Fatui Operatives. The erosion and oxidation on the casing serve as a loyal record of its owners' days spent as an instrument, enforcing the Fatui's will.
 
 ### material: operatives_standard_pocket_watch
 
-A standard-issue pocket watch given to Fatui Operatives. The head of the watch is not well-designed,
-as the outer casing has way too many sharp angles, which can cause excessive wear and tear on clothes. As such,
-there will always be those who will stuff this watch into a more practical, less distinctive casing for use.
+A standard-issue pocket watch given to Fatui Operatives. The head of the watch is not well-designed, as the outer casing has way too many sharp angles, which can cause excessive wear and tear on clothes. As such, there will always be those who will stuff this watch into a more practical, less distinctive casing for use.
 
 ### material: operatives_constancy
 
-An accessory with a Delusion mounted on it. This is source of the Fatui Operative's power. That said,
-taking it off would not detract from the fact that said Operative has physical abilities far beyond that of ordinary humans,
-forged through long years of training and combat experience. As for them, they are well-aware that they have sacrificed their past, present,
-and future upon the altar of the Fatui's ideal paradise, such that the damage they cause themselves on account of using a Delusion's power matters not at all.
+An accessory with a Delusion mounted on it. This is source of the Fatui Operative's power. That said, taking it off would not detract from the fact that said Operative has physical abilities far beyond that of ordinary humans, forged through long years of training and combat experience. As for them, they are well-aware that they have sacrificed their past, present, and future upon the altar of the Fatui's ideal paradise, such that the damage they cause themselves on account of using a Delusion's power matters not at all.
 
 ## ZH
 
@@ -81,13 +70,11 @@ and future upon the altar of the Fatui's ideal paradise, such that the damage th
 
 ### material: operatives_standard_pocket_watch
 
-配发给愚人众役人的制式怀表。怀表把头的位置设计并不合理，外壳过多的棱角也容易将衣物磨破，所以总有人会将其中的机芯装配在更加朴实、
-缺乏特征性的壳套中使用。
+配发给愚人众役人的制式怀表。怀表把头的位置设计并不合理，外壳过多的棱角也容易将衣物磨破，所以总有人会将其中的机芯装配在更加朴实、缺乏特征性的壳套中使用。
 
 ### material: operatives_constancy
 
-装载着「邪眼」的饰物，是愚人众役人元素力量的来源。但即使将之取下，役者仍然有着远超常人的身体素质，这些都来自漫长岁月的训练与实战经验；
-而她们往往清楚，自己的过去、现在与未来已经奉献给了愚人众的理想国，驱使邪眼的力量所带来的折损因此也不值一提。
+装载着「邪眼」的饰物，是愚人众役人元素力量的来源。但即使将之取下，役者仍然有着远超常人的身体素质，这些都来自漫长岁月的训练与实战经验；而她们往往清楚，自己的过去、现在与未来已经奉献给了愚人众的理想国，驱使邪眼的力量所带来的折损因此也不值一提。
 
 ## NOTES
 

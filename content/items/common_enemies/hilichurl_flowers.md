@@ -38,35 +38,29 @@
 
 ### material: a_flower_yet_to_bloom
 
-Дикий цветок, которым очень дорожил хиличурл-изгой. Его сорвали, когда тот ещё не распустился.
-При обходе пустоши хиличурл-изгой берёт с собой только этот нераспустившийся цветок.
+Дикий цветок, которым очень дорожил хиличурл-изгой. Его сорвали, когда тот ещё не распустился. При обходе пустоши хиличурл-изгой берёт с собой только этот нераспустившийся цветок.
 
 ### material: treasured_flower
 
-Дикий цветок, которым очень дорожил хиличур-изгой. Ничем особенным не выделяется.
-Во многих культурах цветы дарят в качестве подарка или благодарности.
+Дикий цветок, которым очень дорожил хиличур-изгой. Ничем особенным не выделяется. Во многих культурах цветы дарят в качестве подарка или благодарности.
 
 ### material: wanderers_blooming_flower
 
-Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется. Вечный чужеземец желает не награды, а лишь того,
-чтобы его труды дали плоды...
+Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется. Вечный чужеземец желает не награды, а лишь того, чтобы его труды дали плоды...
 
 ## EN
 
 ### material: a_flower_yet_to_bloom
 
-A wild flower that a Hilichurl Rogue treasured. It was plucked before it could bloom.
-The hilichurl takes nothing with it in its sojourn across the wilderness save this flower.
+A wild flower that a Hilichurl Rogue treasured. It was plucked before it could bloom. The hilichurl takes nothing with it in its sojourn across the wilderness save this flower.
 
 ### material: treasured_flower
 
-A wild flower that a Hilichurl Rogue treasured, bereft of any special qualities.
-Flowers can be used as gifts or offerings to express one's feelings in many cultures.
+A wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. Flowers can be used as gifts or offerings to express one's feelings in many cultures.
 
 ### material: wanderers_blooming_flower
 
-A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. The eternal outlander asks not for reward,
-but only to see their deeds come to fruition...
+A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. The eternal outlander asks not for reward, but only to see their deeds come to fruition...
 
 ## ZH
 

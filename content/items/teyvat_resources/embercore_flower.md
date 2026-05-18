@@ -8,7 +8,7 @@
 # item_type_en: Plant
 # item_type_zh: 植物
 
-# tags: 
+# tags:
 
 # title_ru: Пепельник
 # title_en: Embercore Flower
@@ -30,7 +30,7 @@ A strange flower that can be found all over the plains and highlands. Mature bud
 
 ## ZH
 
-散布在平原与高土的奇特花朵。成熟的花苞会在受到冲击后绽放开来。
+散布在平原与高土的奇特花朵。 成熟的花苞会在受到冲击后绽放开来。
 
 ## NOTES
 

@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Древесина мальвы
 # title_en: Mallow Wood
@@ -22,17 +22,15 @@
 
 ## RU
 
-Древесина, полученная из древовидной мальвы. Имеет прочную сердцевину и подходит для строительства фундаментов и каркасов домов.
-Также проста в обработке и требует относительно небольших усилий для изготовления красивой мебели. Служит для изготовления декора.
+Древесина, полученная из древовидной мальвы. Имеет прочную сердцевину и подходит для строительства фундаментов и каркасов домов. Также проста в обработке и требует относительно небольших усилий для изготовления красивой мебели. Служит для изготовления декора.
 
 ## EN
 
-Wood from the Mallow Tree. With a tough core, it is suitable for building the foundations and frames of houses. It is easy to craft and process,
-so it takes relatively less manual labor to produce beautiful furniture. Can be used to create furnishings.
+Wood from the Mallow Tree. With a tough core, it is suitable for building the foundations and frames of houses. It is easy to craft and process, so it takes relatively less manual labor to produce beautiful furniture. Can be used to create furnishings.
 
 ## ZH
 
-产自「悬铃树」的木材，芯材坚韧，适合用于搭建房屋的地基和框架。边材也易于加工，制作各类美观的家具时，所需的人力相对较少。可用于制作摆设。
+产自「悬铃树」的木材，芯材坚韧，适合用于搭建房屋的地基和框架。 边材也易于加工，制作各类美观的家具时，所需的人力相对较少。 可用于制作摆设。
 
 ## NOTES
 

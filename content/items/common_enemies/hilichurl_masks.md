@@ -46,9 +46,7 @@
 
 ### material: ominous_mask
 
-Покрытая узором костяная маска, предназначенная для запугивания врагов. Никто не знает, почему хиличурлы никогда не снимают свои маски. Есть версия,
-что они просто боятся своего отражения в воде.
-
+Покрытая узором костяная маска, предназначенная для запугивания врагов. Никто не знает, почему хиличурлы никогда не снимают свои маски. Есть версия, что они просто боятся своего отражения в воде.
 
 ## EN
 
@@ -58,29 +56,25 @@ A broken bone mask that once belonged to some hilichurl. Now more broken than co
 
 ### material: stained_mask
 
-A bone mask, covered in unidentifiable stains, that emanates a mysterious odor.
-Yet such is the devotion of hilichurls to masks that they will wear it nonetheless.
+A bone mask, covered in unidentifiable stains, that emanates a mysterious odor. Yet such is the devotion of hilichurls to masks that they will wear it nonetheless.
 
 ### material: ominous_mask
 
-A glossy bone mask with oil markings painted on it, meant to intimidate enemies. No one really knows why hilichurls are so fascinated with masks.
-Some say that it's because they don't want to see their own reflections in the water.
-
+A glossy bone mask with oil markings painted on it, meant to intimidate enemies. No one really knows why hilichurls are so fascinated with masks. Some say that it's because they don't want to see their own reflections in the water.
 
 ## ZH
 
 ### material: damaged_mask
 
-破碎的骨质面具，曾经属于某个丘丘人。破损的部分比完整的部分更多，已经失去了假面应有的功能。
+破碎的骨质面具，曾经属于某个丘丘人。 破损的部分比完整的部分更多，已经失去了假面应有的功能。
 
 ### material: stained_mask
 
-沾满了难以辨认的污渍，散发着微妙气味的骨质面具。即使这样也要戴在脸上，这就是丘丘人的执着。
+沾满了难以辨认的污渍，散发着微妙气味的骨质面具。 即使这样也要戴在脸上，这就是丘丘人的执着。
 
 ### material: ominous_mask
 
-光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。
-
+光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。
 
 ## NOTES
 

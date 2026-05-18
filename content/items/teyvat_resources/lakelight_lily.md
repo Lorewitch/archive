@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Лилия озёрного света
 # title_en: Lakelight Lily
@@ -26,12 +26,11 @@
 
 ## EN
 
-A clear and clean azure flower, it is born where Water Veins come together. It has a simple, cool, and elegant fragrance,
-pungent and refreshing yet gentle.
+A clear and clean azure flower, it is born where Water Veins come together. It has a simple, cool, and elegant fragrance, pungent and refreshing yet gentle.
 
 ## ZH
 
-明澈而澄净的苍色花卉。生于水脉汇聚之处，其香清冷淡雅，辛凉柔婉。
+明澈而澄净的苍色花卉。 生于水脉汇聚之处，其香清冷淡雅，辛凉柔婉。
 
 ## NOTES
 

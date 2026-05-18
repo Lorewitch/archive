@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Кор ляпис
 # title_en: Cor Lapis
@@ -30,7 +30,7 @@ A precious crystal of condensed pure Geo element that usually grows along with o
 
 ## ZH
 
-极纯的岩元素凝成的珍稀晶石，常与其他矿物伴生。也被称为「岩之心」。
+极纯的岩元素凝成的珍稀晶石，常与其他矿物伴生。 也被称为「岩之心」。
 
 ## NOTES
 

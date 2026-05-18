@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Древесина черешчатого дуба
 # title_en: Pedunculate Oak Wood
@@ -22,13 +22,11 @@
 
 ## RU
 
-Древесина черешчатого дуба. Обладает сравнительно низкой плотностью, но при этом хорошей упругостью и влагостойкостью,
-поэтому её часто используют при строительстве у воды.
+Древесина черешчатого дуба. Обладает сравнительно низкой плотностью, но при этом хорошей упругостью и влагостойкостью, поэтому её часто используют при строительстве у воды.
 
 ## EN
 
-Wood sourced from the Pedunculate Oak Tree. While its density is relatively low, it boasts impressive toughness and water resistance,
-making it a common choice for buildings near bodies of water.
+Wood sourced from the Pedunculate Oak Tree. While its density is relatively low, it boasts impressive toughness and water resistance, making it a common choice for buildings near bodies of water.
 
 ## ZH
 

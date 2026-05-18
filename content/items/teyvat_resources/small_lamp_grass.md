@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Трава-светяшка
 # title_en: Small Lamp Grass
@@ -22,18 +22,15 @@
 
 ## RU
 
-Дикая трава, испускающая тусклый свет в ночи. Используется в качестве приправы к блюдам.
-Как тонкий аромат полевых цветов не отвлечёт сосредоточенного человека, так и мягкое свечение травы-светяшки не привлечёт его внимания даже ночью.
+Дикая трава, испускающая тусклый свет в ночи. Используется в качестве приправы к блюдам. Как тонкий аромат полевых цветов не отвлечёт сосредоточенного человека, так и мягкое свечение травы-светяшки не привлечёт его внимания даже ночью.
 
 ## EN
 
-A wild grass that emits light at night. Used in cooking to enhance other flavors.
-Just as the subtle fragrance of wild flowers will not distract a focused person,
-Small Lamp Grass' delicate glow will not attract their attention either, even at night.
+A wild grass that emits light at night. Used in cooking to enhance other flavors. Just as the subtle fragrance of wild flowers will not distract a focused person, Small Lamp Grass' delicate glow will not attract their attention either, even at night.
 
 ## ZH
 
-在夜间会隐隐散发辉光的野花。与其他食材一同烹饪能提升鲜味。正如专注的人不会被野花淡淡的香气打扰，小灯草柔和的光芒即使在夜里也不会吸引他们的注意。
+在夜间会隐隐散发辉光的野花。 与其他食材一同烹饪能提升鲜味。 正如专注的人不会被野花淡淡的香气打扰，小灯草柔和的光芒即使在夜里也不会吸引他们的注意。
 
 ## NOTES
 

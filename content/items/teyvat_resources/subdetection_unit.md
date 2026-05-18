@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Миниатюрный детектор
 # title_en: Subdetection Unit
@@ -26,8 +26,7 @@
 
 ## EN
 
-Detection units produced by Fontaine Research Institute using new models of artificed components.
-Its original purpose was monitoring all kinds of environmental data.
+Detection units produced by Fontaine Research Institute using new models of artificed components. Its original purpose was monitoring all kinds of environmental data.
 
 ## ZH
 

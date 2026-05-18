@@ -43,55 +43,43 @@
 
 ### material: teachings_of_conflict
 
-Материал повышения талантов. В стране Пиро конфликт считается законом. Вместо того чтобы избегать конфликтов, нужно встречать их лицом к лицу.
-Как только станет ясен исход, определится дальнейший путь.
+Материал повышения талантов. В стране Пиро конфликт считается законом. Вместо того чтобы избегать конфликтов, нужно встречать их лицом к лицу. Как только станет ясен исход, определится дальнейший путь.
 
 ### material: guide_to_conflict
 
-Материал повышения талантов. В стране Пиро конфликт считается законом. Конфликты всегда могут быть разрешены более мощными силами. А значит,
-что ими можно управлять. Конфликт также служит ограничением, которое не позволяет людям уклоняться от ответственности без учёта последствий.
-Конфликт требует быстрого и решительного разрешения разногласий.
+Материал повышения талантов. В стране Пиро конфликт считается законом. Конфликты всегда могут быть разрешены более мощными силами. А значит, что ими можно управлять. Конфликт также служит ограничением, которое не позволяет людям уклоняться от ответственности без учёта последствий. Конфликт требует быстрого и решительного разрешения разногласий.
 
 ### material: philosophies_of_conflict
 
-Материал повышения талантов. В стране Пиро конфликт считается законом. Основа конфликта - необходимость честно признать свои желания.
-Только в разгар борьбы или дебатов можно оставаться верным своим целям и стремлениям.
+Материал повышения талантов. В стране Пиро конфликт считается законом. Основа конфликта - необходимость честно признать свои желания. Только в разгар борьбы или дебатов можно оставаться верным своим целям и стремлениям.
 
 ## EN
 
 ### material: teachings_of_conflict
 
-Talent Level-Up material. Conflict is considered reason in the Nation of Pyro. Rather than avoiding conflict, one should face confrontations head-on.
-Once the outcome has been made manifest, the path forward should be determined accordingly.
+Talent Level-Up material. Conflict is considered reason in the Nation of Pyro. Rather than avoiding conflict, one should face confrontations head-on. Once the outcome has been made manifest, the path forward should be determined accordingly.
 
 ### material: guide_to_conflict
 
-Talent Level-Up material. Conflict is considered reason in the Nation of Pyro. Conflicts can always be resolved by greater powers.
-This fact means that they can always be managed, as opposed to developing into something uncontrollable. Conflict is also a kind of limitation,
-preventing people from endless shirking of responsibilities without weighing the costs.
-It demands that participants settle their scores decisively and efficiently.
+Talent Level-Up material. Conflict is considered reason in the Nation of Pyro. Conflicts can always be resolved by greater powers. This fact means that they can always be managed, as opposed to developing into something uncontrollable. Conflict is also a kind of limitation, preventing people from endless shirking of responsibilities without weighing the costs. It demands that participants settle their scores decisively and efficiently.
 
 ### material: philosophies_of_conflict
 
-Talent Level-Up material. Conflict is considered reason in the Nation of Pyro.
-The premise of conflict is that all parties involved must confront their own desires with the utmost sincerity. Only then, amid the fight or debate,
-can they remain mindful of what they wish to achieve and stay true to their original objectives.
+Talent Level-Up material. Conflict is considered reason in the Nation of Pyro. The premise of conflict is that all parties involved must confront their own desires with the utmost sincerity. Only then, amid the fight or debate, can they remain mindful of what they wish to achieve and stay true to their original objectives.
 
 ## ZH
 
 ### material: teachings_of_conflict
 
-天赋培养素材。火之国土的事理是纷争。不去避让矛盾，而是直面冲突，在纷争的结果彰显后，根据此结果决定将行的道路。
+天赋培养素材。 火之国土的事理是纷争。 不去避让矛盾，而是直面冲突，在纷争的结果彰显后，根据此结果决定将行的道路。
 
 ### material: guide_to_conflict
 
-天赋培养素材。火之国土的事理是纷争。纷争永远能够被更高层面的力量介入并解决，而非不可收拾，这让一切都得以进入可控的境地。纷争亦是一种局限，
-禁止不计成本地推诿下去，而是要求参与方更干净利落地得出结果。
+天赋培养素材。 火之国土的事理是纷争。 纷争永远能够被更高层面的力量介入并解决，而非不可收拾，这让一切都得以进入可控的境地。 纷争亦是一种局限，禁止不计成本地推诿下去，而是要求参与方更干净利落地得出结果。
 
 ### material: philosophies_of_conflict
 
-天赋培养素材。火之国土的事理是纷争。纷争的前提是，参与争端的人都会真诚地面对自己的欲望，面对欲望，然后在争辩或战斗之中，
-才不会忘记自己想要取得的东西，也不会偏离原本的目的。
+天赋培养素材。 火之国土的事理是纷争。 纷争的前提是，参与争端的人都会真诚地面对自己的欲望，面对欲望，然后在争辩或战斗之中，才不会忘记自己想要取得的东西，也不会偏离原本的目的。
 
 ## NOTES
 

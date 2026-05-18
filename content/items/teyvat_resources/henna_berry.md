@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Красноплодник
 # title_en: Henna Berry
@@ -26,8 +26,7 @@
 
 ## EN
 
-A fruit that grows even in the most hostile of desert environments.
-Its vibrant crimson fruits are made even more lovely against a backdrop of yellow sand.
+A fruit that grows even in the most hostile of desert environments. Its vibrant crimson fruits are made even more lovely against a backdrop of yellow sand.
 
 ## ZH
 

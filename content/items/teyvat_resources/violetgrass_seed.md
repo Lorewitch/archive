@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Семена стеклянных колокольчиков
 # title_en: Violetgrass Seed
@@ -22,13 +22,11 @@
 
 ## RU
 
-Семена из сундука семян. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности,
-чтобы через некоторое время выросли стеклянные колокольчики.
+Семена из сундука семян. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности, чтобы через некоторое время выросли стеклянные колокольчики.
 
 ## EN
 
-A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time,
-it will grow into a Violetgrass.
+A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into a Violetgrass.
 
 ## ZH
 

@@ -38,8 +38,7 @@
 
 ### material: heavy_horn
 
-Грубо сделанный рог, служащий инструментом для поднятия тревоги у хиличурлов. Но сейчас этот рог в таком состоянии,
-что он вряд ли сможет кого-то предупредить об угрозе.
+Грубо сделанный рог, служащий инструментом для поднятия тревоги у хиличурлов. Но сейчас этот рог в таком состоянии, что он вряд ли сможет кого-то предупредить об угрозе.
 
 ### material: black_bronze_horn
 
@@ -47,8 +46,7 @@
 
 ### material: black_crystal_horn
 
-Металлический рог, испускающий таинственный свет. Декорирован драгоценными камнями неизвестного происхождения. Выглядит новеньким. Скорее всего,
-он использовался в таинственных ритуалах хиличурлов.
+Металлический рог, испускающий таинственный свет. Декорирован драгоценными камнями неизвестного происхождения. Выглядит новеньким. Скорее всего, он использовался в таинственных ритуалах хиличурлов.
 
 ## EN
 
@@ -62,8 +60,7 @@ A metallic monster horn that can only be obtained from especially strong hilichu
 
 ### material: black_crystal_horn
 
-A metallic horn with an ominous shine decorated with black crystals of an unknown source. It has hardly been used at all.
-It is likely a ceremonial item of the hilichurls'.
+A metallic horn with an ominous shine decorated with black crystals of an unknown source. It has hardly been used at all. It is likely a ceremonial item of the hilichurls'.
 
 ## ZH
 

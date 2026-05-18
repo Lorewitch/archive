@@ -43,49 +43,43 @@
 
 ### material: teachings_of_justice
 
-Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке.
-Без главенства справедливости все законы сводятся к бессмысленным словам, которые можно подделывать и коверкать по своему усмотрению.
+Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке. Без главенства справедливости все законы сводятся к бессмысленным словам, которые можно подделывать и коверкать по своему усмотрению.
 
 ### material: guide_to_justice
 
-Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке.
-Правосудие должно быть слепым, и те, кто обладает мечом правосудия, не должны быть сбиты с пути собственными интересами или замыслами.
+Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке. Правосудие должно быть слепым, и те, кто обладает мечом правосудия, не должны быть сбиты с пути собственными интересами или замыслами.
 
 ### material: philosophies_of_justice
 
-Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке.
-Справедливость означает суд и примирение, при котором клинок суда останавливает деяния зла, а примирение поддерживает порядок.
+Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке. Справедливость означает суд и примирение, при котором клинок суда останавливает деяния зла, а примирение поддерживает порядок.
 
 ## EN
 
 ### material: teachings_of_justice
 
-The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Without the guidance of justice,
-all law is reduced to meaningless words, to be tampered with and slaughtered at a whim.
+The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Without the guidance of justice, all law is reduced to meaningless words, to be tampered with and slaughtered at a whim.
 
 ### material: guide_to_justice
 
-The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Justice must be blind,
-and those who wield the sword of justice must not be led astray by their own interests or affairs.
+The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Justice must be blind, and those who wield the sword of justice must not be led astray by their own interests or affairs.
 
 ### material: philosophies_of_justice
 
-The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Justice means judgment and reconciliation,
-the blade of judgment arrests the actions of evil, while reconciliation maintains order.
+The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Justice means judgment and reconciliation, the blade of judgment arrests the actions of evil, while reconciliation maintains order.
 
 ## ZH
 
 ### material: teachings_of_justice
 
-水之国土的利剑是正义。枫丹的律法秉正义之剑而行。若无正义的准则，一切律法将沦为无力的空文，任人篡改宰割。
+水之国土的利剑是正义。 枫丹的律法秉正义之剑而行。 若无正义的准则，一切律法将沦为无力的空文，任人篡改宰割。
 
 ### material: guide_to_justice
 
-水之国土的利剑是正义。枫丹的律法秉正义之剑而行。正义必定是盲目的，以正义为利剑者，不论利益或私情都无法蛊惑。
+水之国土的利剑是正义。 枫丹的律法秉正义之剑而行。 正义必定是盲目的，以正义为利剑者，不论利益或私情都无法蛊惑。
 
 ### material: philosophies_of_justice
 
-水之国土的利剑是正义。枫丹的律法秉正义之剑而行。正义意味着裁决与调和，以裁决的剑锋遏止恶行，以调和的手段维护秩序。
+水之国土的利剑是正义。 枫丹的律法秉正义之剑而行。 正义意味着裁决与调和，以裁决的剑锋遏止恶行，以调和的手段维护秩序。
 
 ## NOTES
 

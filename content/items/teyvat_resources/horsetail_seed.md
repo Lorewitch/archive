@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Семена конского хвоста
 # title_en: Horsetail Seed
@@ -22,13 +22,11 @@
 
 ## RU
 
-Семена из сундука семян. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности,
-чтобы через некоторое время вырос конский хвост.
+Семена из сундука семян. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности, чтобы через некоторое время вырос конский хвост.
 
 ## EN
 
-A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time,
-it will grow into Horsetail.
+A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time, it will grow into Horsetail.
 
 ## ZH
 

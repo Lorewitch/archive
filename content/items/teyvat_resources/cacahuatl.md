@@ -8,7 +8,7 @@
 # item_type_en: Plant
 # item_type_zh: 植物
 
-# tags: 
+# tags:
 
 # title_ru: Какауатль
 # title_en: Cacahuatl
@@ -26,12 +26,11 @@
 
 ## EN
 
-A crop rich in flavor. The fleshy part itself features a unique bitterness and its seeds, after being fermented and baked,
-can be made into other delicacies.
+A crop rich in flavor. The fleshy part itself features a unique bitterness and its seeds, after being fermented and baked, can be made into other delicacies.
 
 ## ZH
 
-风味浓郁的作物。果肉本身会有独特的苦涩味，其种子在发酵及烘焙后，可以制成其他的美食。
+风味浓郁的作物。 果肉本身会有独特的苦涩味，其种子在发酵及烘焙后，可以制成其他的美食。
 
 ## NOTES
 

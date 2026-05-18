@@ -51,39 +51,35 @@
 
 ### material: philosophies_of_freedom
 
-Материал повышения таланта. Свобода - это дух царства ветров. Свобода песен на землях Анемо Архонта.
-Можно отлучить своё сердце вместе с песней на ветру.
+Материал повышения таланта. Свобода - это дух царства ветров. Свобода песен на землях Анемо Архонта. Можно отлучить своё сердце вместе с песней на ветру.
 
 ## EN
 
 ### material: teachings_of_freedom
 
-Talent Level-Up material. Freedom is the spirit of the land of the wind. The freedom to live is one of such.
-It is the freedom to live freely and healthily without concerns of one's own safety.
+Talent Level-Up material. Freedom is the spirit of the land of the wind. The freedom to live is one of such. It is the freedom to live freely and healthily without concerns of one's own safety.
 
 ### material: guide_to_freedom
 
-Talent Level-Up material. Freedom is the spirit of the land of the wind. The freedom of travel is one of such.
-It is the freedom to traverse the land freely without being obstructed.
+Talent Level-Up material. Freedom is the spirit of the land of the wind. The freedom of travel is one of such. It is the freedom to traverse the land freely without being obstructed.
 
 ### material: philosophies_of_freedom
 
-Talent Level-Up material. Freedom is the spirit of the land of the wind. To sing is one such freedom.
-To sing on the land created by the Anemo Archon is to send your heart away with the song on the wind.
+Talent Level-Up material. Freedom is the spirit of the land of the wind. To sing is one such freedom. To sing on the land created by the Anemo Archon is to send your heart away with the song on the wind.
 
 ## ZH
 
 ### material: teachings_of_freedom
 
-天赋培养素材。风之国土的精神是自由。自由其一，是生存的自由，即是能健全、健康地生活，而不必担心朝不保夕的自由。
+天赋培养素材。 风之国土的精神是自由。 自由其一，是生存的自由，即是能健全、健康地生活，而不必担心朝不保夕的自由。
 
 ### material: guide_to_freedom
 
-天赋培养素材。风之国土的精神是自由。自由其二，是漫游的自由，即是能在苍翠的土地上自由地通行，而不受阻挠的自由。
+天赋培养素材。 风之国土的精神是自由。 自由其二，是漫游的自由，即是能在苍翠的土地上自由地通行，而不受阻挠的自由。
 
 ### material: philosophies_of_freedom
 
-天赋培养素材。风之国土的精神是自由。自由其三，是歌唱的自由，即是能在风之神塑造的美好土地上歌唱，让自己的心与歌一同随风而去的自由。
+天赋培养素材。 风之国土的精神是自由。 自由其三，是歌唱的自由，即是能在风之神塑造的美好土地上歌唱，让自己的心与歌一同随风而去的自由。
 
 ## NOTES
 

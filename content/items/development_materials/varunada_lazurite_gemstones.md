@@ -53,19 +53,15 @@
 
 ### material: varunada_lazurite_fragment
 
-Материал возвышения персонажа.
-«Мои идеалы кристально чисты!»
+Материал возвышения персонажа. «Мои идеалы кристально чисты!»
 
 ### material: varunada_lazurite_chunk
 
-Материал возвышения персонажа.
-«Мои идеалы кристально чисты!» «Позволь мне поправить тебя... В глазах божеств люди безгрешны...»
+Материал возвышения персонажа. «Мои идеалы кристально чисты!» «Позволь мне поправить тебя... В глазах божеств люди безгрешны...»
 
 ### material: varunada_lazurite_gemstone
 
-Материал возвышения персонажа.
-«Мои идеалы кристально чисты!» «Позволь мне поправить тебя... В глазах божеств люди безгрешны... Только законы и Трибунал могут судить.
-Они могут судить даже меня. Так вознеси моё великолепие и непорочность».
+Материал возвышения персонажа. «Мои идеалы кристально чисты!» «Позволь мне поправить тебя... В глазах божеств люди безгрешны... Только законы и Трибунал могут судить. Они могут судить даже меня. Так вознеси моё великолепие и непорочность».
 
 ## EN
 
@@ -75,19 +71,15 @@ Character Ascension Material.
 
 ### material: varunada_lazurite_fragment
 
-Character Ascension material.
-"My ideals have no stains."
+Character Ascension material. "My ideals have no stains."
 
 ### material: varunada_lazurite_chunk
 
-Character Ascension material.
-"My ideals have no stains. I must correct you. People here bear no sins in the eyes of the gods..."
+Character Ascension material. "My ideals have no stains. I must correct you. People here bear no sins in the eyes of the gods..."
 
 ### material: varunada_lazurite_gemstone
 
-Character Ascension material.
-"My ideals have no stains. I must correct you. People here bear no sins in the eyes of the gods... Only laws and the Tribunal can judge someone.
-They can judge even me. So praise my magnificence and purity."
+Character Ascension material. "My ideals have no stains. I must correct you. People here bear no sins in the eyes of the gods... Only laws and the Tribunal can judge someone. They can judge even me. So praise my magnificence and purity."
 
 ## ZH
 
@@ -97,19 +89,15 @@ They can judge even me. So praise my magnificence and purity."
 
 ### material: varunada_lazurite_fragment
 
-角色突破素材。
-「我的理想之内并没有一丝污浊。」
+角色突破素材。 「我的理想之内并没有一丝污浊。」
 
 ### material: varunada_lazurite_chunk
 
-角色突破素材。
-「我的理想之内并没有一丝污浊。「我要纠正你，在这里，人并不对神背负罪孽…」
+角色突破素材。 「我的理想之内并没有一丝污浊。 「我要纠正你，在这里，人并不对神背负罪孽…」
 
 ### material: varunada_lazurite_gemstone
 
-角色突破素材。
-「我的理想之内并没有一丝污浊。「我要纠正你，在这里，人并不对神背负罪孽，能下达判决的只有法律与裁判庭。「他们甚至连我也可以裁判。
-赞美我的崇高与纯洁吧。」
+角色突破素材。 「我的理想之内并没有一丝污浊。 「我要纠正你，在这里，人并不对神背负罪孽，能下达判决的只有法律与裁判庭。 「他们甚至连我也可以裁判。赞美我的崇高与纯洁吧。」
 
 ## NOTES
 

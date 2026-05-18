@@ -8,7 +8,7 @@
 # item_type_en: Plant
 # item_type_zh: 植物
 
-# tags: 
+# tags:
 
 # title_ru: Пылающий цветок (тычинка)
 # title_en: Flaming Flower Stamen
@@ -30,7 +30,7 @@ The stamen of a fiercely burning flower. Even after being extinguished, it still
 
 ## ZH
 
-火辣辣的花芯。熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。
+火辣辣的花芯。 熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。
 
 ## NOTES
 

@@ -66,15 +66,15 @@ A stone hilt obtained from an ancient statue. Only the recentness of its separat
 
 ### material: ruined_hilt
 
-自古老雕像上取得的的石质剑柄。在海水的冲刷下已彻底残毁，失去了曾经的光泽。
+自古老雕像上取得的的石质剑柄。 在海水的冲刷下已彻底残毁，失去了曾经的光泽。
 
 ### material: splintered_hilt
 
-自古老雕像上取得的的石质剑柄。剑柄上的断口与刻痕似乎记录了其主人曾经历过的残酷战斗。
+自古老雕像上取得的的石质剑柄。 剑柄上的断口与刻痕似乎记录了其主人曾经历过的残酷战斗。
 
 ### material: still_smoldering_hilt
 
-自古老雕像上取得的的石质剑柄。或许是因为刚刚离开其主人的缘故，剑柄中的火光还尚未熄灭。
+自古老雕像上取得的的石质剑柄。 或许是因为刚刚离开其主人的缘故，剑柄中的火光还尚未熄灭。
 
 ## NOTES
 

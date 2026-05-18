@@ -8,7 +8,7 @@
 # item_type_en: Ore
 # item_type_zh: 矿石
 
-# tags: 
+# tags:
 
 # title_ru: Магический кристальный обломок
 # title_en: Magical Crystal Chunk
@@ -22,17 +22,15 @@
 
 ## RU
 
-Эти обломки кристаллов могут быть переработаны в материалы опыта оружия с помощью Первородной смолы.
-Такие кристаллы из шахт впитали энергию артерий земли и не могут быть обработаны обычными методами.
+Эти обломки кристаллов могут быть переработаны в материалы опыта оружия с помощью Первородной смолы. Такие кристаллы из шахт впитали энергию артерий земли и не могут быть обработаны обычными методами.
 
 ## EN
 
-These crystal chunks can be refined into Weapon EXP materials by using Original Resin.
-Crystals from mines that were eroded by the energy of the Ley Lines cannot be processed by ordinary means.
+These crystal chunks can be refined into Weapon EXP materials by using Original Resin. Crystals from mines that were eroded by the energy of the Ley Lines cannot be processed by ordinary means.
 
 ## ZH
 
-可以通过「委托锻造」，利用原粹树脂，提炼成武器经验材料。受地脉的能量侵蚀的水晶矿，寻常手段无法处理。
+可以通过「委托锻造」，利用原粹树脂，提炼成武器经验材料。 受地脉的能量侵蚀的水晶矿，寻常手段无法处理。
 
 ## NOTES
 

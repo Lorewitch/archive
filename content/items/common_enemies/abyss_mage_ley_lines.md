@@ -46,15 +46,13 @@
 
 ### material: ley_line_sprout
 
-Говорят, что гигантские корни мирового древа расползаются под поверхностью всей земли, и этот росток когда-то был их частью. Он полон жизненной силы,
-как будто всё ещё связан со своими материнскими корнями.
+Говорят, что гигантские корни мирового древа расползаются под поверхностью всей земли, и этот росток когда-то был их частью. Он полон жизненной силы, как будто всё ещё связан со своими материнскими корнями.
 
 ## EN
 
 ### material: dead_ley_line_branch
 
-Fragile branches from deep within the earth. Even after years of aging,
-from beneath it's mottled surface you can see that its power is not yet entirely lost.
+Fragile branches from deep within the earth. Even after years of aging, from beneath it's mottled surface you can see that its power is not yet entirely lost.
 
 ### material: dead_ley_line_leaves
 
@@ -62,8 +60,7 @@ A twig from deep within the earth. Though it is far from where it once lay, its 
 
 ### material: ley_line_sprout
 
-It is said that there was a great tree whose roots once spread out to every corner of the world, and this branch is said to be part of it.
-It is almost if it was never broken off and taken far away, for its vitality is such that it still sprouts new leaves even now.
+It is said that there was a great tree whose roots once spread out to every corner of the world, and this branch is said to be part of it. It is almost if it was never broken off and taken far away, for its vitality is such that it still sprouts new leaves even now.
 
 ## ZH
 

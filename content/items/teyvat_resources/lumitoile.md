@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Темнозвёздник
 # title_en: Lumitoile
@@ -30,7 +30,7 @@ A soft-bodied animal that emits a gentle light. Often found climbing the walls o
 
 ## ZH
 
-在水中会发出柔浅微光的软体动物。大多攀附在水边或水下的人造建筑表面。
+在水中会发出柔浅微光的软体动物。 大多攀附在水边或水下的人造建筑表面。
 
 ## NOTES
 

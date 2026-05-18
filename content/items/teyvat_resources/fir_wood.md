@@ -8,7 +8,7 @@
 # item_type_en: Serenitea Pot
 # item_type_zh: 尘歌壶
 
-# tags: 
+# tags:
 
 # title_ru: Пихта
 # title_en: Fir Wood
@@ -30,7 +30,7 @@ Wood from the tree known as "Faber's Fir." Widely used for its fine quality and 
 
 ## ZH
 
-「冷杉」出产的木材，有着不错的木质和纹理，被广泛使用于各种领域。可用于制作摆设。
+「冷杉」出产的木材，有着不错的木质和纹理，被广泛使用于各种领域。 可用于制作摆设。
 
 ## NOTES
 

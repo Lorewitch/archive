@@ -42,44 +42,39 @@
 
 ### material: shimmering_nectar
 
-Нектар, наполненный чистыми элементами. Учёные сходятся во мнении, что попрыгунья является высшей формой жизни среди элементальных растений,
-но объяснения их хищному поведению у них ещё нет.
+Нектар, наполненный чистыми элементами. Учёные сходятся во мнении, что попрыгунья является высшей формой жизни среди элементальных растений, но объяснения их хищному поведению у них ещё нет.
 
 ### material: energy_nectar
 
-Густой липкий мёд, наполненный энергией. Попрыгунья обманывает свою жертву и съедает её для того,
-чтобы эволюционировать в более сильную и чистую форму жизни.
+Густой липкий мёд, наполненный энергией. Попрыгунья обманывает свою жертву и съедает её для того, чтобы эволюционировать в более сильную и чистую форму жизни.
 
 ## EN
 
 ### material: whopperflower_nectar
 
-Nectar extracted from the stamen of a Whopperflower that contains trace amounts of elemental energy.
-The taste of the nectar has a hint of Sweet Flower in it.
+Nectar extracted from the stamen of a Whopperflower that contains trace amounts of elemental energy. The taste of the nectar has a hint of Sweet Flower in it.
 
 ### material: shimmering_nectar
 
-Nectar that is full of pure elemental energy. Scholars generally concur that Whopperflowers are advanced life forms among the elemental plants,
-but there has yet to be a satisfactory explanation regarding their predatory habits.
+Nectar that is full of pure elemental energy. Scholars generally concur that Whopperflowers are advanced life forms among the elemental plants, but there has yet to be a satisfactory explanation regarding their predatory habits.
 
 ### material: energy_nectar
 
-A thick and sticky honey that is full of energy. The Whopperflower hunts by tricking its prey,
-a process it uses to possibly evolve into a more powerful and pure form.
+A thick and sticky honey that is full of energy. The Whopperflower hunts by tricking its prey, a process it uses to possibly evolve into a more powerful and pure form.
 
 ## ZH
 
 ### material: whopperflower_nectar
 
-从花蕊中提取出的花蜜，其中含有少量元素。尝起来和甜甜花的味道有些微妙地相似。
+从花蕊中提取出的花蜜，其中含有少量元素。 尝起来和甜甜花的味道有些微妙地相似。
 
 ### material: shimmering_nectar
 
-元素纯度较高的花蜜。学界一般认为骗骗花是元素植物的高级生命形态，但始终无法解明它的掠食习性。
+元素纯度较高的花蜜。 学界一般认为骗骗花是元素植物的高级生命形态，但始终无法解明它的掠食习性。
 
 ### material: energy_nectar
 
-饱含能量的黏稠蜜汁。骗骗花欺瞒猎物是为了狩猎，而狩猎进食或许是为了进化成某种更强大、更纯粹的姿态吧…
+饱含能量的黏稠蜜汁。 骗骗花欺瞒猎物是为了狩猎，而狩猎进食或许是为了进化成某种更强大、更纯粹的姿态吧…
 
 ## NOTES
 

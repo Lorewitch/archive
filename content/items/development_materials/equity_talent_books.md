@@ -43,51 +43,43 @@
 
 ### material: teachings_of_equity
 
-Материал повышения талантов. Берега водного царства - пристанище беспристрастии. Беспристрастие устанавливает границы прав.
-Без неё предоставленные законом права могут быть использованы не по назначению и стать орудием разрушения наших добродетельных устоев.
+Материал повышения талантов. Берега водного царства - пристанище беспристрастии. Беспристрастие устанавливает границы прав. Без неё предоставленные законом права могут быть использованы не по назначению и стать орудием разрушения наших добродетельных устоев.
 
 ### material: guide_to_equity
 
-Материал повышения талантов. Берега водного царства - пристанище беспристрастия. Беспристрастие - это фундамент, на котором зиждется Фонтейн.
-Беспристрастие формирует стандарт права. Если право утратит беспристрастие, оно превратится в шахматную доску, на которой ведётся игра ради прибыли.
+Материал повышения талантов. Берега водного царства - пристанище беспристрастия. Беспристрастие - это фундамент, на котором зиждется Фонтейн. Беспристрастие формирует стандарт права. Если право утратит беспристрастие, оно превратится в шахматную доску, на которой ведётся игра ради прибыли.
 
 ### material: philosophies_of_equity
 
-Материал повышения талантов. Берега водного царства - пристанище беспристрастия. Беспристрастие - это фундамент, на котором зиждется Фонтейн.
-Беспристрастие требует постоянной и неуклонной поддержки со стороны морали и права, а мораль и право постоянно меняются,
-исходя из неизменного принципа Беспристрастия.
+Материал повышения талантов. Берега водного царства - пристанище беспристрастия. Беспристрастие - это фундамент, на котором зиждется Фонтейн. Беспристрастие требует постоянной и неуклонной поддержки со стороны морали и права, а мораль и право постоянно меняются, исходя из неизменного принципа Беспристрастия.
 
 ## EN
 
 ### material: teachings_of_equity
 
-The shore of the Nation of Water is equity. Equity sets boundaries on rights. Without equity, the rights granted by law will be abused,
-and become a tool to damage our virtuous customs.
+The shore of the Nation of Water is equity. Equity sets boundaries on rights. Without equity, the rights granted by law will be abused, and become a tool to damage our virtuous customs.
 
 ### material: guide_to_equity
 
-The shore of the Nation of Water is equity. Equity is the foundation upon which Fontaine was founded. Equity forms the standard of the law.
-If law loses the essence of equity, it will become a chessboard played for profit.
+The shore of the Nation of Water is equity. Equity is the foundation upon which Fontaine was founded. Equity forms the standard of the law. If law loses the essence of equity, it will become a chessboard played for profit.
 
 ### material: philosophies_of_equity
 
-The shore of the Nation of Water is equity. Equity is the foundation upon which Fontaine was founded.
-Equity requires the continuous and steady support of morality and law,
-and morality and law constantly change based upon the invariant principle of equity.
+The shore of the Nation of Water is equity. Equity is the foundation upon which Fontaine was founded. Equity requires the continuous and steady support of morality and law, and morality and law constantly change based upon the invariant principle of equity.
 
 ## ZH
 
 ### material: teachings_of_equity
 
-水之国土的堤岸是公平。公平限制了权利的边界。若无公平，律法赋予的权利亦会被滥用，成为损害善良风俗的工具。
+水之国土的堤岸是公平。 公平限制了权利的边界。 若无公平，律法赋予的权利亦会被滥用，成为损害善良风俗的工具。
 
 ### material: guide_to_equity
 
-水之国土的堤岸是公平。公平是枫丹立国的基础。公平形成了律法的准绳。假若律法失去公平的本质，必沦为敛利的棋盘。
+水之国土的堤岸是公平。 公平是枫丹立国的基础。 公平形成了律法的准绳。 假若律法失去公平的本质，必沦为敛利的棋盘。
 
 ### material: philosophies_of_equity
 
-水之国土的堤岸是公平。公平是枫丹立国的基础。公平总是需要稳固的道德与律法加以支撑，道德与律法亦基于不变的公平准则而流变不息。
+水之国土的堤岸是公平。 公平是枫丹立国的基础。 公平总是需要稳固的道德与律法加以支撑，道德与律法亦基于不变的公平准则而流变不息。
 
 ## NOTES
 

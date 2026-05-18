@@ -38,37 +38,29 @@
 
 ### material: transoceanic_pearl
 
-Небольшой кристалл, полученный из тела морского инорода после его уничтожения. Инороды Фонтмера рождаются в море Фонтейна. Это особая форма жизни,
-формирующаяся за счёт странной энергии в воде.
+Небольшой кристалл, полученный из тела морского инорода после его уничтожения. Инороды Фонтмера рождаются в море Фонтейна. Это особая форма жизни, формирующаяся за счёт странной энергии в воде.
 
 ### material: transoceanic_chunk
 
-Кристаллическая порода, полученная из тела инорода Фонтмера после его уничтожения и источающая едва уловимую таинственную энергию.
-Легенды рассказывают о великих существах, которые живут в далёких морях, где не проходят морские пути и куда не ступает нога человека,
-но ни одно обычное море не может похвастаться жизненными силами моря Фонтейна.
+Кристаллическая порода, полученная из тела инорода Фонтмера после его уничтожения и источающая едва уловимую таинственную энергию. Легенды рассказывают о великих существах, которые живут в далёких морях, где не проходят морские пути и куда не ступает нога человека, но ни одно обычное море не может похвастаться жизненными силами моря Фонтейна.
 
 ### material: xenochromatic_crystal
 
-Большой кристалл, полученный из тела инорода Фонтмера после его уничтожения и источающий таинственную энергию.
-Пусть потоки Фонтейна и источник для множества вод, но они теряют свои уникальные свойства, когда вода попадает в другие страны.
+Большой кристалл, полученный из тела инорода Фонтмера после его уничтожения и источающий таинственную энергию. Пусть потоки Фонтейна и источник для множества вод, но они теряют свои уникальные свойства, когда вода попадает в другие страны.
 
 ## EN
 
 ### material: transoceanic_pearl
 
-A small crystal obtained from a defeated Fontemer Aberrant. Fontemer Aberrants arise from Fontaine's sea.
-They are believed to be a unique life form born from the mysterious energy in the water.
+A small crystal obtained from a defeated Fontemer Aberrant. Fontemer Aberrants arise from Fontaine's sea. They are believed to be a unique life form born from the mysterious energy in the water.
 
 ### material: transoceanic_chunk
 
-A crystal obtained from a defeated Fontemer Aberrant. It gives off a somewhat mysterious energy.
-Although many legends speak of great life forms residing in remote seas beyond human reach,
-ordinary oceans can hardly compare to the vibrant seas of Fontaine.
+A crystal obtained from a defeated Fontemer Aberrant. It gives off a somewhat mysterious energy. Although many legends speak of great life forms residing in remote seas beyond human reach, ordinary oceans can hardly compare to the vibrant seas of Fontaine.
 
 ### material: xenochromatic_crystal
 
-A large crystal obtained from a defeated Fontemer Aberrant. It contains a mysterious energy. All rivers and seas originate in Fontaine,
-but the water loses all its unique properties once it flows outside Fontaine's borders.
+A large crystal obtained from a defeated Fontemer Aberrant. It contains a mysterious energy. All rivers and seas originate in Fontaine, but the water loses all its unique properties once it flows outside Fontaine's borders.
 
 ## ZH
 
@@ -78,8 +70,7 @@ but the water loses all its unique properties once it flows outside Fontaine's b
 
 ### material: transoceanic_chunk
 
-击败原海异种后，从其体内取得的结晶体。散发着些微神秘的能量。尽管传说在航道与人迹所不及的远海中存在着伟大的生命，但寻常的海洋不过乏善可陈，
-生命力远远不及枫丹的「海」。
+击败原海异种后，从其体内取得的结晶体。散发着些微神秘的能量。尽管传说在航道与人迹所不及的远海中存在着伟大的生命，但寻常的海洋不过乏善可陈，生命力远远不及枫丹的「海」。
 
 ### material: xenochromatic_crystal
 

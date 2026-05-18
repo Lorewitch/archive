@@ -8,7 +8,7 @@
 # item_type_en: Plant
 # item_type_zh: 植物
 
-# tags: 
+# tags:
 
 # title_ru: Випариас
 # title_en: Viparyas
@@ -30,7 +30,7 @@ A flower without seeds. Once the earth remembers, the Viparyas will bloom.
 
 ## ZH
 
-没有种子的花卉。只要大地重新记起，毗波耶就会绽放。
+没有种子的花卉。 只要大地重新记起，毗波耶就会绽放。
 
 ## NOTES
 

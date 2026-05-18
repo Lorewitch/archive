@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Сосновый янтарь
 # title_en: Pine Amber
@@ -22,13 +22,11 @@
 
 ## RU
 
-Самоцвет, образовавшийся из смолы исполинских древних деревьев, когда-то покрывавших Нод-Край. Со временем смола затвердела,
-превращаясь в кристаллический янтарь, который теперь сверкает яркими, насыщенными оттенками.
+Самоцвет, образовавшийся из смолы исполинских древних деревьев, когда-то покрывавших Нод-Край. Со временем смола затвердела, превращаясь в кристаллический янтарь, который теперь сверкает яркими, насыщенными оттенками.
 
 ## EN
 
-A gem formed from the resin of the towering ancient trees that once blanketed Nod-Krai. Over ages, the resin hardened into crystalline amber,
-now shining with vivid, radiant hues.
+A gem formed from the resin of the towering ancient trees that once blanketed Nod-Krai. Over ages, the resin hardened into crystalline amber, now shining with vivid, radiant hues.
 
 ## ZH
 

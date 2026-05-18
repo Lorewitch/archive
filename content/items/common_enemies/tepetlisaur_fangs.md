@@ -38,50 +38,43 @@
 
 ### material: juvenile_fang
 
-Клык завриана из Натлана. С виду клык молодой особи. Если бы был способ определить возраст его владельца, возможно, подтвердилось бы,
-что он жил недолго.
+Клык завриана из Натлана. С виду клык молодой особи. Если бы был способ определить возраст его владельца, возможно, подтвердилось бы, что он жил недолго.
 
 ### material: seasoned_fang
 
-Прочный клык завриана из Натлана. Следы износа говорят о жизненном пути и битвах прежнего владельца.
-Среди заврианов Натлана обладатель такого клыка наверняка был грозным воином.
+Прочный клык завриана из Натлана. Следы износа говорят о жизненном пути и битвах прежнего владельца. Среди заврианов Натлана обладатель такого клыка наверняка был грозным воином.
 
 ### material: tyrants_fang
 
-Острый клык могучего завриана из Натлана. Его зазубренный край и устрашающая форма свидетельствуют о свирепости его владельца.
-Среди множества заврианов Натлана обладатель такого клыка, должно быть, был безжалостным тираном.
+Острый клык могучего завриана из Натлана. Его зазубренный край и устрашающая форма свидетельствуют о свирепости его владельца. Среди множества заврианов Натлана обладатель такого клыка, должно быть, был безжалостным тираном.
 
 ## EN
 
 ### material: juvenile_fang
 
-A tooth that fell from a Natlan Saurian. It looks like it belonged to a juvenile creature.
-If there was a way to determine the age of its previous owner, perhaps it would show that they had not yet roamed the world for long.
+A tooth that fell from a Natlan Saurian. It looks like it belonged to a juvenile creature. If there was a way to determine the age of its previous owner, perhaps it would show that they had not yet roamed the world for long.
 
 ### material: seasoned_fang
 
-A sturdy tooth that fell from a Natlan Saurian. Wear and tear bear witness to the experiences and battles of its previous owner.
-Among the many Saurians of Natlan, one with such a tooth must have been considered a formidable warrior indeed.
+A sturdy tooth that fell from a Natlan Saurian. Wear and tear bear witness to the experiences and battles of its previous owner. Among the many Saurians of Natlan, one with such a tooth must have been considered a formidable warrior indeed.
 
 ### material: tyrants_fang
 
-A sharp tooth that fell from a mighty Natlan Saurian. Its serrated edge and fearsome shape attest to the ferocity of its owner in battle.
-Among the many Saurians of Natlan, one with such a tooth must have been a ruthless tyrant indeed.
+A sharp tooth that fell from a mighty Natlan Saurian. Its serrated edge and fearsome shape attest to the ferocity of its owner in battle. Among the many Saurians of Natlan, one with such a tooth must have been a ruthless tyrant indeed.
 
 ## ZH
 
 ### material: juvenile_fang
 
-纳塔龙众脱落的牙。尚显稚嫩的牙齿，如果有从牙齿判断主人年龄的方式的话，或许就能看出这枚牙齿的主人并未在世上经历太久的岁月。
+纳塔龙众脱落的牙。 尚显稚嫩的牙齿，如果有从牙齿判断主人年龄的方式的话，或许就能看出这枚牙齿的主人并未在世上经历太久的岁月。
 
 ### material: seasoned_fang
 
-纳塔龙众脱落的坚牙。其上的磨损见证了其主人曾经历的生活与战斗，拥有这等牙齿的龙，想必在纳塔的诸多龙众中，也能被称为了不起的战士吧。
+纳塔龙众脱落的坚牙。 其上的磨损见证了其主人曾经历的生活与战斗，拥有这等牙齿的龙，想必在纳塔的诸多龙众中，也能被称为了不起的战士吧。
 
 ### material: tyrants_fang
 
-纳塔的强龙脱落的尖锐利齿。旁生的锯状结构与其狰狞的形态，可窥见其主人在战斗中的蛮勇。拥有这等牙齿的龙，想必在纳塔诸多龙众中，
-可称得上是横行无忌的霸者了吧。
+纳塔的强龙脱落的尖锐利齿。 旁生的锯状结构与其狰狞的形态，可窥见其主人在战斗中的蛮勇。拥有这等牙齿的龙，想必在纳塔诸多龙众中，可称得上是横行无忌的霸者了吧。
 
 ## NOTES
 

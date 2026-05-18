@@ -8,7 +8,7 @@
 # item_type_en: Local Specialty
 # item_type_zh: 区域特产
 
-# tags: 
+# tags:
 
 # title_ru: Падисара
 # title_en: Padisarah
@@ -30,7 +30,7 @@ A holy and noble plant. The conditions for growth in its environment are very de
 
 ## ZH
 
-圣洁而高贵的花卉，对生长环境的要求十分苛刻。花蕊经过加工后可以制成珍贵的香料。
+圣洁而高贵的花卉，对生长环境的要求十分苛刻。 花蕊经过加工后可以制成珍贵的香料。
 
 ## NOTES
 
