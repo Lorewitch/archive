@@ -412,9 +412,9 @@
       },
       "icon": "assets/icons/items/common_enemies/old_handguard.webp",
       "text": {
-        "ru": "Этот защитный элемент инадзумского меча повидал немало боёв.\nГардой умелый фехтовальщик способен блокировать клинок противника, тогда как новичкам она защищает руку.",
-        "en": "A battle-worn handguard that was once mounted on an Inazuman blade.\nFor those adept in the art of the sword, the tsuba is a defense from the edge of an opponent's blade.\nFor beginners, it is a defense made for their own right hand, to protect it from itself.",
-        "zh": "装配在稻妻刀剑上的护具，见证过许多战斗。\n对剑术纯熟者而言，镡可以在实战中阻挡对手的刀刃；而对于新手剑士，镡是保护自己右手的关键。"
+        "ru": "Этот защитный элемент инадзумского меча повидал немало боёв. Гардой умелый фехтовальщик способен блокировать клинок противника,\nтогда как новичкам она защищает руку.",
+        "en": "A battle-worn handguard that was once mounted on an Inazuman blade. For those adept in the art of the sword,\nthe tsuba is a defense from the edge of an opponent's blade. For beginners, it is a defense made for their own right hand, to protect it from itself.",
+        "zh": "装配在稻妻刀剑上的护具，见证过许多战斗。对剑术纯熟者而言，镡可以在实战中阻挡对手的刀刃；而对于新手剑士，镡是保护自己右手的关键。"
       }
     },
     {
@@ -426,9 +426,9 @@
       },
       "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp",
       "text": {
-        "ru": "Гарда, которая крепится на мечи выдающегося качества.\nТрадиция ковки мечей Инадзумы уходит в глубокую древность.\nКузнецы часто изготавливают несколько клинков за раз, чтобы из них выбрать «синути», или лучшее оружие, тогда как остальные называются «кагэути».",
-        "en": "A handguard mounded upon a sword of some distinction.\nInazuma has a long tradition of sword-making.\nWhen making swords, smiths will often make several different weapons at once, before choosing from among them the \"shinuchi,\" or the best weapon,\nwhile the others are known as \"kageuchi.\"",
-        "zh": "装配在优秀刀剑上的护具。\n稻妻有悠久的刀剑锻冶传统。匠人锻造一把刀时，常常会制造数柄样品，从中甄选。其中最为优秀的作品是为「真打」，而其余的则被称为「影打」。"
+        "ru": "Гарда, которая крепится на мечи выдающегося качества. Традиция ковки мечей Инадзумы уходит в глубокую древность.\nКузнецы часто изготавливают несколько клинков за раз, чтобы из них выбрать «синути», или лучшее оружие, тогда как остальные называются «кагэути».",
+        "en": "A handguard mounded upon a sword of some distinction. Inazuma has a long tradition of sword-making. When making swords,\nsmiths will often make several different weapons at once, before choosing from among them the \"shinuchi,\" or the best weapon,\nwhile the others are known as \"kageuchi.\"",
+        "zh": "装配在优秀刀剑上的护具。稻妻有悠久的刀剑锻冶传统。匠人锻造一把刀时，常常会制造数柄样品，从中甄选。其中最为优秀的作品是为「真打」，\n而其余的则被称为「影打」。"
       }
     },
     {
@@ -440,9 +440,9 @@
       },
       "icon": "assets/icons/items/common_enemies/famed_handguard.webp",
       "text": {
-        "ru": "Искусно выполненная гарда, бывшая когда-то частью знаменитого оружия.\nНекоторые верят, что у мечей есть душа, и поэтому они заслуживают собственные имена. На заботу хозяина клинок ответит взаимностью.\nНо те, кто в клинке увидел друга или возлюбленного, должны знать, что эта привязанность основывается на кровопролитии и смерти.\nОднажды страсть танцующих с мечами под багровым дождём будет оборвана холодной сталью.",
-        "en": "An intricately-made handguard that was mounted upon a famed weapon.\nSome believe that swords have souls and lives of their own, and thus deserve their own names.\nThose who love their blades will be acknowledged by them in turn.\nBut those who see their swords as friends or even lovers should be warned that this relationship is built on death and bloodshed.\nThe passions of those who dance with their blade amid crimson showers must surely be cooled someday by fickle steel.",
-        "zh": "装配在名刀上的华美护具。\n有人坚信刀剑有灵魂、有生命，这也是为什么人们会为刀起名。爱护刀的人，也会得到刀的赏识。但与刀剑成为挚友、甚至爱人的人，须知这份情义是由杀伐浇灌的。常常浴血、与刀共舞之人，他们的热血最终总会被薄情的钢铁冷却。"
+        "ru": "Искусно выполненная гарда, бывшая когда-то частью знаменитого оружия. Некоторые верят, что у мечей есть душа,\nи поэтому они заслуживают собственные имена. На заботу хозяина клинок ответит взаимностью. Но те, кто в клинке увидел друга или возлюбленного,\nдолжны знать, что эта привязанность основывается на кровопролитии и смерти.\nОднажды страсть танцующих с мечами под багровым дождём будет оборвана холодной сталью.",
+        "en": "An intricately-made handguard that was mounted upon a famed weapon. Some believe that swords have souls and lives of their own,\nand thus deserve their own names. Those who love their blades will be acknowledged by them in turn.\nBut those who see their swords as friends or even lovers should be warned that this relationship is built on death and bloodshed.\nThe passions of those who dance with their blade amid crimson showers must surely be cooled someday by fickle steel.",
+        "zh": "装配在名刀上的华美护具。有人坚信刀剑有灵魂、有生命，这也是为什么人们会为刀起名。爱护刀的人，也会得到刀的赏识。但与刀剑成为挚友、甚至爱人的人，\n须知这份情义是由杀伐浇灌的。常常浴血、与刀共舞之人，他们的热血最终总会被薄情的钢铁冷却。"
       }
     }
   ],

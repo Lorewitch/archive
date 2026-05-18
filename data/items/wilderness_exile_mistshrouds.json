@@ -196,9 +196,9 @@
       },
       "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp",
       "text": {
-        "ru": "Фрагмент, найденный в тумане Дикой Охоты.\nПодобно снежинке, рождающейся из воздуха, он сформировался из сгустившейся тьмы и воплощает силу иного мира.",
-        "en": "A chunk found in the mists of the Wild Hunt.\nLike a snowflake forming from the air, it was created by the manifestation and solidification of dark power from another world.",
-        "zh": "在狂猎的迷雾中寻得的碎块。\n如同雪花一般，是由来自异界的漆黑力量显化凝结而成的。"
+        "ru": "Фрагмент, найденный в тумане Дикой Охоты. Подобно снежинке, рождающейся из воздуха, он сформировался из сгустившейся тьмы и воплощает силу иного мира.",
+        "en": "A chunk found in the mists of the Wild Hunt. Like a snowflake forming from the air,\nit was created by the manifestation and solidification of dark power from another world.",
+        "zh": "在狂猎的迷雾中寻得的碎块。如同雪花一般，是由来自异界的漆黑力量显化凝结而成的。"
       }
     },
     {
@@ -210,9 +210,9 @@
       },
       "icon": "assets/icons/items/common_enemies/mistshroud_plate.webp",
       "text": {
-        "ru": "Пластина, найденная в тумане Дикой Охоты.\nОна когда-то была частью доспеха чудовища Дикой Охоты, но по какой-то причине не рассеялась вместе с туманом.",
-        "en": "A plate found in the mists of the Wild Hunt.\nIt was part of the armor of a Wild Hunt monster, but for some reason, it did not disappear with the mist.",
-        "zh": "在狂猎的迷雾中寻得的甲片。\n曾是狂猎魔物所着盔甲的一部分，不知为何没有随着迷雾一同消失。"
+        "ru": "Пластина, найденная в тумане Дикой Охоты. Она когда-то была частью доспеха чудовища Дикой Охоты,\nно по какой-то причине не рассеялась вместе с туманом.",
+        "en": "A plate found in the mists of the Wild Hunt. It was part of the armor of a Wild Hunt monster, but for some reason, it did not disappear with the mist.",
+        "zh": "在狂猎的迷雾中寻得的甲片。曾是狂猎魔物所着盔甲的一部分，不知为何没有随着迷雾一同消失。"
       }
     },
     {
@@ -224,9 +224,9 @@
       },
       "icon": "assets/icons/items/common_enemies/mistshroud_helmet.webp",
       "text": {
-        "ru": "Шлем, найденный в тумане Дикой Охоты.\nВозможно, из-за скверны иного мира, питавшейся воспоминаниями артерии земли, его форма странным образом напоминает реликвии забытого королевства.",
-        "en": "A helmet found in the mists of the Wild Hunt.\nPerhaps because the sullying presence from beyond this world has fed from the memories of the Ley Lines, its shape appears oddly similar to the\nrelics of a lost kingdom.",
-        "zh": "在狂猎的迷雾中寻得的兜鍪。\n或许是因为来自异界的不洁存在汲取了地脉中古老的记忆，造型与失落古国的遗物颇为相似。"
+        "ru": "Шлем, найденный в тумане Дикой Охоты. Возможно, из-за скверны иного мира, питавшейся воспоминаниями артерии земли,\nего форма странным образом напоминает реликвии забытого королевства.",
+        "en": "A helmet found in the mists of the Wild Hunt. Perhaps because the sullying presence from beyond this world has fed from the memories of the Ley Lines,\nits shape appears oddly similar to the relics of a lost kingdom.",
+        "zh": "在狂猎的迷雾中寻得的兜鍪。或许是因为来自异界的不洁存在汲取了地脉中古老的记忆，造型与失落古国的遗物颇为相似。"
       }
     }
   ],

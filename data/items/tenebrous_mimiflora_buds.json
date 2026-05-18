@@ -124,9 +124,9 @@
       },
       "icon": "assets/icons/items/common_enemies/refractive_bud.webp",
       "text": {
-        "ru": "Бутон, оставленный побеждённым монстром, известным как сумрачная мимифлора.\nГоворят, что когда это существо вышло из чёрных волн, первыми, что оно вырастило, были эти нежные бутоны, способные отражать элементальные силы.",
+        "ru": "Бутон, оставленный побеждённым монстром, известным как сумрачная мимифлора. Говорят, что когда это существо вышло из чёрных волн, первыми,\nчто оно вырастило, были эти нежные бутоны, способные отражать элементальные силы.",
         "en": "A leaf bud dropped by the monster known as the Tenebrous Mimiflora after being vanquished.\nIt is said that when this creature emerged from the Black Tide, the first things it grew were these tender buds capable of deflecting elemental power.",
-        "zh": "名为深邃拟覆叶的魔物在被击败后所掉落的芽叶。\n据说这种魔物自黑潮之中诞生时，最先生长而出的，就是这样能使元素的力量偏转的嫩芽。"
+        "zh": "名为深邃拟覆叶的魔物在被击败后所掉落的芽叶。据说这种魔物自黑潮之中诞生时，最先生长而出的，就是这样能使元素的力量偏转的嫩芽。"
       }
     },
     {
@@ -138,9 +138,9 @@
       },
       "icon": "assets/icons/items/common_enemies/bewildering_broadleaf.webp",
       "text": {
-        "ru": "Лист в форме стрелы, оставленный побеждённым монстром, известным как сумрачная мимифлора.\nПосле разложения артерий земли и извлечения воспоминаний, существо выращивает эти листья как средство хранения информации, которую оно расшифровало.\nВозможно, существует тесная связь между этими изысканно узорчатыми листьями и формами, которые может имитировать их хозяин.",
-        "en": "An arrow-shaped leaf dropped by the monster known as the Tenebrous Mimiflora after being vanquished.\nAfter corroding the Ley Lines and extracting the memories within, the creature grows these leaves as a means of storing the information it has\ndeciphered.\nThere may be a close link between these intricately patterned leaves and the forms that their host can mimic.",
-        "zh": "名为深邃拟覆叶的魔物在被击败后所掉落的箭形叶片。\n在侵蚀地脉并抽取其中的记忆后，魔物所生长出的承载自身解析出信息的载体。魔物能够拟态复现何种形态，或许与这些具有复杂纹路的枝叶息息相关。"
+        "ru": "Лист в форме стрелы, оставленный побеждённым монстром, известным как сумрачная мимифлора. После разложения артерий земли и извлечения воспоминаний,\nсущество выращивает эти листья как средство хранения информации, которую оно расшифровало. Возможно,\nсуществует тесная связь между этими изысканно узорчатыми листьями и формами, которые может имитировать их хозяин.",
+        "en": "An arrow-shaped leaf dropped by the monster known as the Tenebrous Mimiflora after being vanquished.\nAfter corroding the Ley Lines and extracting the memories within,\nthe creature grows these leaves as a means of storing the information it has deciphered.\nThere may be a close link between these intricately patterned leaves and the forms that their host can mimic.",
+        "zh": "名为深邃拟覆叶的魔物在被击败后所掉落的箭形叶片。在侵蚀地脉并抽取其中的记忆后，魔物所生长出的承载自身解析出信息的载体。魔物能够拟态复现何种形态，\n或许与这些具有复杂纹路的枝叶息息相关。"
       }
     },
     {
@@ -152,9 +152,9 @@
       },
       "icon": "assets/icons/items/common_enemies/illusory_leafcoil.webp",
       "text": {
-        "ru": "Ядро, образованное из плотно свёрнутых листьев, оставленных побеждённым монстром, известным как сумрачная мимифлора.\nНа вид оно кажется безжизненным и тусклым, но внутри всё ещё ощущается слабая зловещая энергия.\nЛюди часто задаются вопросом: куда деваются воспоминания, которые подобные существа черпали из земли, после их гибели?\nВозможно, ответ кроется в этом ядре...",
+        "ru": "Ядро, образованное из плотно свёрнутых листьев, оставленных побеждённым монстром, известным как сумрачная мимифлора.\nНа вид оно кажется безжизненным и тусклым, но внутри всё ещё ощущается слабая зловещая энергия. Люди часто задаются вопросом:\nкуда деваются воспоминания, которые подобные существа черпали из земли, после их гибели? Возможно, ответ кроется в этом ядре...",
         "en": "A core formed from tightly coiled leaves, the remnant of the monster known as the Tenebrous Mimiflora after being vanquished.\nIt may appear lifeless and dull on the surface, yet a faint, ominous power can still be sensed pulsing within.\nPeople often wonder where the memories that such creatures drew from the earth go when they are slain. Perhaps the answer lies within this core...",
-        "zh": "名为深邃拟覆叶的魔物在被击败后所残余，由蜷缩在一起的叶片构成的核心。\n即使已如生机尽失般黯淡下去，但是仍能感受到其中隐约鼓动的不祥之力。\n时常有人感到困惑，当此种魔物被消灭时，它从大地之中汲取的那些记忆都去往了何处？或许这枚核心提供了这一问题的答案。"
+        "zh": "名为深邃拟覆叶的魔物在被击败后所残余，由蜷缩在一起的叶片构成的核心。即使已如生机尽失般黯淡下去，但是仍能感受到其中隐约鼓动的不祥之力。\n时常有人感到困惑，当此种魔物被消灭时，它从大地之中汲取的那些记忆都去往了何处？或许这枚核心提供了这一问题的答案。"
       }
     }
   ],

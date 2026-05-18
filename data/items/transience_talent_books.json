@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/teachings_of_transience.webp",
       "text": {
-        "ru": "Материал повышения таланта.\nБренность - это мечта царства гроз.\nВеличие бренности есть высшее воплощение смертной красоты.\nРазве мы, смертные, не подобны вспышке молнии?\nКак сладкий сон или мгновенное цветение искр, мы оставим красочный след на вечном ночном небосводе.",
-        "en": "Talent Level-Up material.\nTransience is the dream of the nation of thunder.\nFleeting glories are the highest expression of mortal beauty, for are we mortals not like the flashing lightning itself?\nLike a lovely dream or blossoming spark, we shall leave a gorgeous mark on the eternal night sky.",
-        "zh": "天赋培养素材。\n雷之国土的梦想是浮世。\n浮世之荣华乃是人之美的最高体现。\n人之在世岂不与疾电相类？\n如美梦或花火般浮华一瞬，在永恒的夜幕中留下绚烂的印记。"
+        "ru": "Материал повышения таланта. Бренность - это мечта царства гроз. Величие бренности есть высшее воплощение смертной красоты. Разве мы, смертные,\nне подобны вспышке молнии? Как сладкий сон или мгновенное цветение искр, мы оставим красочный след на вечном ночном небосводе.",
+        "en": "Talent Level-Up material. Transience is the dream of the nation of thunder. Fleeting glories are the highest expression of mortal beauty,\nfor are we mortals not like the flashing lightning itself? Like a lovely dream or blossoming spark,\nwe shall leave a gorgeous mark on the eternal night sky.",
+        "zh": "天赋培养素材。雷之国土的梦想是浮世。浮世之荣华乃是人之美的最高体现。人之在世岂不与疾电相类？如美梦或花火般浮华一瞬，\n在永恒的夜幕中留下绚烂的印记。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/guide_to_transience.webp",
       "text": {
-        "ru": "Материал повышения таланта.\nБренность - это мечта царства гроз.\nВ бренных мечтах мы находим величайшие радости смертной жизни.\nРазве сама жизнь не подобна тени грома?\nУстремляйтесь за мечтами до облаков, если желаете, и наслаждайтесь неожиданной тишиной глубокой ночи.",
-        "en": "Talent Level-Up material.\nTransience is the dream of the nation of thunder.\nWe find the greatest joys in mortal life in transient dreams, for is life itself not like the shadow of the thunder?\nPursue your dreams into the clouds if you wish, and enjoy the unexpected silence of the dim lamp-lit nights.",
-        "zh": "天赋培养素材。\n雷之国土的梦想是浮世。\n浮世之难求乃是人之美的价值所在。\n人之在世岂不与雷影相似？\n意欲追逐掇取则遥踞云端，灯火阑珊的静谧之时却不期而来。"
+        "ru": "Материал повышения таланта. Бренность - это мечта царства гроз. В бренных мечтах мы находим величайшие радости смертной жизни.\nРазве сама жизнь не подобна тени грома? Устремляйтесь за мечтами до облаков, если желаете, и наслаждайтесь неожиданной тишиной глубокой ночи.",
+        "en": "Talent Level-Up material. Transience is the dream of the nation of thunder. We find the greatest joys in mortal life in transient dreams,\nfor is life itself not like the shadow of the thunder? Pursue your dreams into the clouds if you wish,\nand enjoy the unexpected silence of the dim lamp-lit nights.",
+        "zh": "天赋培养素材。雷之国土的梦想是浮世。浮世之难求乃是人之美的价值所在。人之在世岂不与雷影相似？意欲追逐掇取则遥踞云端，\n灯火阑珊的静谧之时却不期而来。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/philosophies_of_transience.webp",
       "text": {
-        "ru": "Материал повышения таланта.\nБренность - это мечта царства гроз.\nВ скоротечности бренного мира заключается красота смертных.\nРазве наши жизни не подобны вспышке молнии?\nНо божественное могущество проявляется внезапно, и найдётся ли хоть кто-нибудь, способный выдержать рёв вечности?",
-        "en": "Talent Level-Up material.\nTransience is the dream of the nation of thunder.\nThe fleeting nature of this mortal world is the essence of beauty, for are our lives in this world not akin to the levin flash?\nYet the might of the divine comes suddenly, and before the roar of eternity, who can stand?",
-        "zh": "天赋培养素材。\n雷之国土的梦想是浮世。\n浮世之短暂乃是人之美的本性所在。\n人之在世岂不与稻光相近？\n神威显现的刹那恍若隽永，而永恒的威鸣又有谁人能够承受？"
+        "ru": "Материал повышения таланта. Бренность - это мечта царства гроз. В скоротечности бренного мира заключается красота смертных.\nРазве наши жизни не подобны вспышке молнии? Но божественное могущество проявляется внезапно, и найдётся ли хоть кто-нибудь,\nспособный выдержать рёв вечности?",
+        "en": "Talent Level-Up material. Transience is the dream of the nation of thunder. The fleeting nature of this mortal world is the essence of beauty,\nfor are our lives in this world not akin to the levin flash? Yet the might of the divine comes suddenly, and before the roar of eternity,\nwho can stand?",
+        "zh": "天赋培养素材。雷之国土的梦想是浮世。浮世之短暂乃是人之美的本性所在。人之在世岂不与稻光相近？神威显现的刹那恍若隽永，\n而永恒的威鸣又有谁人能够承受？"
       }
     }
   ],

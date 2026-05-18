@@ -1676,8 +1676,8 @@
       },
       "icon": "assets/icons/items/common_enemies/crystalline_cyst_dust.webp",
       "text": {
-        "ru": "Изрядное количество спорового порошка, который был собран из целой споровой сумки.\nЕсли его поместить в среду с подходящими условиями, вскоре её заполонит выводок плесенников...",
-        "en": "A huge lump of spore powder collected from a structurally complete spore cyst.\nPut it in an appropriate environment, and the area might be filled with a thriving aggregation of Floating Fungi later...",
+        "ru": "Изрядное количество спорового порошка, который был собран из целой споровой сумки. Если его поместить в среду с подходящими условиями,\nвскоре её заполонит выводок плесенников...",
+        "en": "A huge lump of spore powder collected from a structurally complete spore cyst. Put it in an appropriate environment,\nand the area might be filled with a thriving aggregation of Floating Fungi later...",
         "zh": "从完整的孢子囊中精心收集的大团孢子粉末，想必在合适的环境条件下，将会孕育出一个颇有规模的蕈兽群落吧…"
       }
     }

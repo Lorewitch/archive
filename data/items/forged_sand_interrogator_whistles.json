@@ -2212,9 +2212,9 @@
       },
       "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
       "text": {
-        "ru": "Символ дозорного из племени Натлана.\nВоинами не рождаются. Сначала нужно овладеть боевыми навыками под руководством кого-то опытного. Так возникла должность ученика дозорного.",
-        "en": "The symbol of a Natlan tribal sentry.\nWarriors are not born as warriors. They must first acquire the skills of combat by learning under the tutelage of those who have already done so.\nThis is the origin of the trainee position of sentry.",
-        "zh": "纳塔部族卫从的象征。\n战士并非一开始就是战士，得先跟从真正的战士们学习战斗的技巧，这就是部族中「卫从」这一见习职位的由来。"
+        "ru": "Символ дозорного из племени Натлана. Воинами не рождаются. Сначала нужно овладеть боевыми навыками под руководством кого-то опытного.\nТак возникла должность ученика дозорного.",
+        "en": "The symbol of a Natlan tribal sentry. Warriors are not born as warriors.\nThey must first acquire the skills of combat by learning under the tutelage of those who have already done so.\nThis is the origin of the trainee position of sentry.",
+        "zh": "纳塔部族卫从的象征。战士并非一开始就是战士，得先跟从真正的战士们学习战斗的技巧，这就是部族中「卫从」这一见习职位的由来。"
       }
     },
     {
@@ -2226,9 +2226,9 @@
       },
       "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp",
       "text": {
-        "ru": "Символ воина племени Натлана.\nМеталлический свисток, который вручают тем, кто официально признан воинами племени. Его используют для связи.\nПатрульные окрестностей племени используют его для предупреждения других об опасности. Эта обязанность лежит на воинах племени.",
-        "en": "The symbol of a Natlan tribal warrior.\nA metal whistle that is given to individuals who have been officially recognized as tribal warriors.\nIt is used to communicate and alert others to danger by those that patrol the tribe's vicinity.\nThis is a duty that falls upon the warriors of the tribe.",
-        "zh": "纳塔部族战士的象征。\n正式成为部族战士后能够拥有的铁哨。在部族周围巡游，一旦出现危险就用哨声互相通知呼应。这就是部族中「战士」需要履行的职责。"
+        "ru": "Символ воина племени Натлана. Металлический свисток, который вручают тем, кто официально признан воинами племени. Его используют для связи.\nПатрульные окрестностей племени используют его для предупреждения других об опасности. Эта обязанность лежит на воинах племени.",
+        "en": "The symbol of a Natlan tribal warrior. A metal whistle that is given to individuals who have been officially recognized as tribal warriors.\nIt is used to communicate and alert others to danger by those that patrol the tribe's vicinity.\nThis is a duty that falls upon the warriors of the tribe.",
+        "zh": "纳塔部族战士的象征。正式成为部族战士后能够拥有的铁哨。在部族周围巡游，一旦出现危险就用哨声互相通知呼应。这就是部族中「战士」需要履行的职责。"
       }
     },
     {
@@ -2240,9 +2240,9 @@
       },
       "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp",
       "text": {
-        "ru": "Символ коронованного заврианами, могучего воина из племён Натлана.\nЗолотой свисток вручается тем, кто принёс племени честь и славу и чьё мужество было признано.\nОднако теперь его значение больше декоративное, так как воин, коронованный заврианами, способен самостоятельно справиться с большинством проблем.",
+        "ru": "Символ коронованного заврианами, могучего воина из племён Натлана. Золотой свисток вручается тем,\nкто принёс племени честь и славу и чьё мужество было признано. Однако теперь его значение больше декоративное, так как воин, коронованный заврианами,\nспособен самостоятельно справиться с большинством проблем.",
         "en": "Among Natlan's tribes, this is the symbol of a mighty, Saurian-Crowned warrior.\nA golden whistle that is bestowed only upon those who have won great honor for the tribe and shown valor of the highest order.\nIts symbolic significance now outweighs its practical use, for a Saurian-Crowned warrior is able to handle most crises alone.",
-        "zh": "纳塔部族中，获授龙冠的强大武士的象征。\n只有为部族争取到了足够的荣誉，其勇武得到承认之后，才会得到的金哨。但此时其装饰的意义已经高过实际使用的意义，因为头戴龙冠的武士可以独自解决大部分的危机。"
+        "zh": "纳塔部族中，获授龙冠的强大武士的象征。只有为部族争取到了足够的荣誉，其勇武得到承认之后，才会得到的金哨。\n但此时其装饰的意义已经高过实际使用的意义，因为头戴龙冠的武士可以独自解决大部分的危机。"
       }
     }
   ],

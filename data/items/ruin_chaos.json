@@ -282,8 +282,8 @@
       },
       "icon": "assets/icons/items/common_enemies/chaos_circuit.webp",
       "text": {
-        "ru": "Часть древнего механического тела. Это логическая схема, которая отвечала за его движение.\nВ ней заключены великие знания, но, увы, ещё никто не смог их добыть.",
-        "en": "Comes from ancient defunct relic structures. Was once a logic circuit responsible for movement functions.\nSadly, no one is able to make sense of how it worked.",
+        "ru": "Часть древнего механического тела. Это логическая схема, которая отвечала за его движение. В ней заключены великие знания, но, увы,\nещё никто не смог их добыть.",
+        "en": "Comes from ancient defunct relic structures. Was once a logic circuit responsible for movement functions. Sadly,\nno one is able to make sense of how it worked.",
         "zh": "来自不再活动的古代遗迹构装体。曾经是驱使它行动的逻辑回路。其中蕴含的伟大技术，如今已经无人可解。"
       }
     },
@@ -297,7 +297,7 @@
       "icon": "assets/icons/items/common_enemies/chaos_core.webp",
       "text": {
         "ru": "Часть древнего механического тела. Она была источником его жизненной силы. Если бы кто-то постиг её тайны, то смог бы изменить весь мир.",
-        "en": "Comes from ancient defunct relic structures. The core that once drove a mechanical beast.\nShould you come to understand its workings and reproduce it, you could perhaps change the world.",
+        "en": "Comes from ancient defunct relic structures. The core that once drove a mechanical beast. Should you come to understand its workings and reproduce it,\nyou could perhaps change the world.",
         "zh": "来自不再活动的古代遗迹构装体。曾经是驱动它活动的能源之心。若能理解、重构这样的神秘技术，或许能改变这个世界也说不定。"
       }
     }

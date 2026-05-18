@@ -855,7 +855,7 @@
       "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp",
       "text": {
         "ru": "Знак, определяющий офицера. У Фатуи огромная армия, поэтому в человеке, дослужившемся до офицера, должно быть что-то особенное.",
-        "en": "An insignia to identify officers.\nThe Fatui possess a colossal army, so there must be something extraordinary about the ones who achieved this rank within the group.",
+        "en": "An insignia to identify officers. The Fatui possess a colossal army,\nso there must be something extraordinary about the ones who achieved this rank within the group.",
         "zh": "标识着尉官身份的徽记。愚人众拥有庞大的军队，能在其中担任尉官者，想必是有过人之处吧。"
       }
     }

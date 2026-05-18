@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/teachings_of_elysium.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nРай - мечта земли под луной.\nКто-то отчаянно стремится попасть туда, кто-то пытается выбраться. Возможно, рай - это место, которого невозможно достичь по-настоящему.",
-        "en": "Talent Level-Up material.\n\"Elysium\" is the dream of the land beneath the moon.\nThere are those who are desperate to get in, and those who are desperate to get out. Perhaps Elysium is not a place one can ever truly reach.",
-        "zh": "天赋培养素材。\n「乐园」是月下之地的狂想。\n有人不择手段地想进来，也有人拼了命地想出去。\n或许乐园就是你永远无法抵达的地方。"
+        "ru": "Материал повышения талантов. Рай - мечта земли под луной. Кто-то отчаянно стремится попасть туда, кто-то пытается выбраться. Возможно,\nрай - это место, которого невозможно достичь по-настоящему.",
+        "en": "Talent Level-Up material. \"Elysium\" is the dream of the land beneath the moon. There are those who are desperate to get in,\nand those who are desperate to get out. Perhaps Elysium is not a place one can ever truly reach.",
+        "zh": "天赋培养素材。「乐园」是月下之地的狂想。有人不择手段地想进来，也有人拼了命地想出去。或许乐园就是你永远无法抵达的地方。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/guide_to_elysium.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nРай - мечта земли под луной.\nМечта о рае без границ и различий на земле, полной боли и скорби, может показаться наивной, но именно она способна стать основой будущего.",
-        "en": "Talent Level-Up material.\n\"Elysium\" is the dream of the land beneath the moon.\nTo create a paradise without borders or distinctions upon a land overflowing with bitterness and sorrow — though it might be but a childish delusion,\nit may yet be a foundation for the future.",
-        "zh": "天赋培养素材。\n「乐园」是月下之地的狂想。\n在满溢着苦涩与悲泣的大地上，创造出没有界限亦没有差别的乐园。\n虽说这不过是孩子气的妄想，但那同样也是创造未来的基石。"
+        "ru": "Материал повышения талантов. Рай - мечта земли под луной. Мечта о рае без границ и различий на земле, полной боли и скорби, может показаться наивной,\nно именно она способна стать основой будущего.",
+        "en": "Talent Level-Up material. \"Elysium\" is the dream of the land beneath the moon.\nTo create a paradise without borders or distinctions upon a land overflowing with bitterness and sorrow — though it might be but a childish delusion,\nit may yet be a foundation for the future.",
+        "zh": "天赋培养素材。「乐园」是月下之地的狂想。在满溢着苦涩与悲泣的大地上，创造出没有界限亦没有差别的乐园。虽说这不过是孩子气的妄想，\n但那同样也是创造未来的基石。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/philosophies_of_elysium.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nРай - мечта земли под луной.\nРедко когда люди мечтают об одном и том же рае.\nДля тех, кто не готов мириться с настоящим, нет лучшего рая, чем Нод-Край.\nА для остальных всё как раз наоборот.",
-        "en": "Talent Level-Up material.\n\"Elysium\" is the dream of the land beneath the moon.\nSeldom do we share the same dreams of paradise.\nFor those who wish not to settle for the present, there is no greater paradise than Nod-Krai.\nYet for all the rest, the truth is quite the opposite.",
-        "zh": "天赋培养素材。\n「乐园」是月下之地的狂想。\n乐园的定义因人而异。\n对那些从不安于现状的人而言，再也没有比挪德卡莱更适合称作乐园的地方了。\n但对剩下的人来说，情况则恰恰相反。"
+        "ru": "Материал повышения талантов. Рай - мечта земли под луной. Редко когда люди мечтают об одном и том же рае. Для тех, кто не готов мириться с настоящим,\nнет лучшего рая, чем Нод-Край. А для остальных всё как раз наоборот.",
+        "en": "Talent Level-Up material. \"Elysium\" is the dream of the land beneath the moon. Seldom do we share the same dreams of paradise.\nFor those who wish not to settle for the present, there is no greater paradise than Nod-Krai. Yet for all the rest, the truth is quite the opposite.",
+        "zh": "天赋培养素材。「乐园」是月下之地的狂想。乐园的定义因人而异。对那些从不安于现状的人而言，再也没有比挪德卡莱更适合称作乐园的地方了。\n但对剩下的人来说，情况则恰恰相反。"
       }
     }
   ],

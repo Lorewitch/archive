@@ -224,8 +224,8 @@
       },
       "icon": "assets/icons/items/common_enemies/wanderers_blooming_flower.webp",
       "text": {
-        "ru": "Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется.\nВечный чужеземец желает не награды, а лишь того, чтобы его труды дали плоды...",
-        "en": "A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities.\nThe eternal outlander asks not for reward, but only to see their deeds come to fruition...",
+        "ru": "Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется. Вечный чужеземец желает не награды, а лишь того,\nчтобы его труды дали плоды...",
+        "en": "A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. The eternal outlander asks not for reward,\nbut only to see their deeds come to fruition...",
         "zh": "丘丘游侠曾珍视的盛放野花，并不具有什么特别之处。永恒的异乡人从不索要酬劳，所行所为最终都将开花结果…"
       }
     }

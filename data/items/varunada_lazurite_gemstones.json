@@ -86,9 +86,9 @@
       },
       "icon": "assets/icons/items/development_materials/varunada_lazurite_chunk.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Мои идеалы кристально чисты!»\n«Позволь мне поправить тебя... В глазах божеств люди безгрешны...»",
-        "en": "Character Ascension material.\n\"My ideals have no stains.\nI must correct you. People here bear no sins in the eyes of the gods...\"",
-        "zh": "角色突破素材。\n「我的理想之内并没有一丝污浊。\n「我要纠正你，在这里，人并不对神背负罪孽…」"
+        "ru": "Материал возвышения персонажа.\n«Мои идеалы кристально чисты!» «Позволь мне поправить тебя... В глазах божеств люди безгрешны...»",
+        "en": "Character Ascension material.\n\"My ideals have no stains. I must correct you. People here bear no sins in the eyes of the gods...\"",
+        "zh": "角色突破素材。\n「我的理想之内并没有一丝污浊。「我要纠正你，在这里，人并不对神背负罪孽…」"
       }
     },
     {
@@ -100,9 +100,9 @@
       },
       "icon": "assets/icons/items/development_materials/varunada_lazurite_gemstone.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Мои идеалы кристально чисты!»\n«Позволь мне поправить тебя... В глазах божеств люди безгрешны... Только законы и Трибунал могут судить.\nОни могут судить даже меня. Так вознеси моё великолепие и непорочность».",
-        "en": "Character Ascension material.\n\"My ideals have no stains.\nI must correct you. People here bear no sins in the eyes of the gods... Only laws and the Tribunal can judge someone.\nThey can judge even me. So praise my magnificence and purity.\"",
-        "zh": "角色突破素材。\n「我的理想之内并没有一丝污浊。\n「我要纠正你，在这里，人并不对神背负罪孽，能下达判决的只有法律与裁判庭。\n「他们甚至连我也可以裁判。赞美我的崇高与纯洁吧。」"
+        "ru": "Материал возвышения персонажа.\n«Мои идеалы кристально чисты!» «Позволь мне поправить тебя... В глазах божеств люди безгрешны... Только законы и Трибунал могут судить.\nОни могут судить даже меня. Так вознеси моё великолепие и непорочность».",
+        "en": "Character Ascension material.\n\"My ideals have no stains. I must correct you. People here bear no sins in the eyes of the gods... Only laws and the Tribunal can judge someone.\nThey can judge even me. So praise my magnificence and purity.\"",
+        "zh": "角色突破素材。\n「我的理想之内并没有一丝污浊。「我要纠正你，在这里，人并不对神背负罪孽，能下达判决的只有法律与裁判庭。「他们甚至连我也可以裁判。\n赞美我的崇高与纯洁吧。」"
       }
     }
   ],

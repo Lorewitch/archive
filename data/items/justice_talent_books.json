@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/teachings_of_justice.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nСправедливость - меч водного царства.\nЗакон Фонтейна шествует с мечом справедливости в руке.\nБез главенства справедливости все законы сводятся к бессмысленным словам, которые можно подделывать и коверкать по своему усмотрению.",
-        "en": "The sword of the Nation of Water is justice.\nThe law of Fontaine walks with the sword of justice in hand.\nWithout the guidance of justice, all law is reduced to meaningless words, to be tampered with and slaughtered at a whim.",
-        "zh": "水之国土的利剑是正义。\n枫丹的律法秉正义之剑而行。\n若无正义的准则，一切律法将沦为无力的空文，任人篡改宰割。"
+        "ru": "Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке.\nБез главенства справедливости все законы сводятся к бессмысленным словам, которые можно подделывать и коверкать по своему усмотрению.",
+        "en": "The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Without the guidance of justice,\nall law is reduced to meaningless words, to be tampered with and slaughtered at a whim.",
+        "zh": "水之国土的利剑是正义。枫丹的律法秉正义之剑而行。若无正义的准则，一切律法将沦为无力的空文，任人篡改宰割。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/guide_to_justice.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nСправедливость - меч водного царства.\nЗакон Фонтейна шествует с мечом справедливости в руке.\nПравосудие должно быть слепым, и те, кто обладает мечом правосудия, не должны быть сбиты с пути собственными интересами или замыслами.",
-        "en": "The sword of the Nation of Water is justice.\nThe law of Fontaine walks with the sword of justice in hand.\nJustice must be blind, and those who wield the sword of justice must not be led astray by their own interests or affairs.",
-        "zh": "水之国土的利剑是正义。\n枫丹的律法秉正义之剑而行。\n正义必定是盲目的，以正义为利剑者，不论利益或私情都无法蛊惑。"
+        "ru": "Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке.\nПравосудие должно быть слепым, и те, кто обладает мечом правосудия, не должны быть сбиты с пути собственными интересами или замыслами.",
+        "en": "The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Justice must be blind,\nand those who wield the sword of justice must not be led astray by their own interests or affairs.",
+        "zh": "水之国土的利剑是正义。枫丹的律法秉正义之剑而行。正义必定是盲目的，以正义为利剑者，不论利益或私情都无法蛊惑。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/philosophies_of_justice.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nСправедливость - меч водного царства.\nЗакон Фонтейна шествует с мечом справедливости в руке.\nСправедливость означает суд и примирение, при котором клинок суда останавливает деяния зла, а примирение поддерживает порядок.",
-        "en": "The sword of the Nation of Water is justice.\nThe law of Fontaine walks with the sword of justice in hand.\nJustice means judgment and reconciliation, the blade of judgment arrests the actions of evil, while reconciliation maintains order.",
-        "zh": "水之国土的利剑是正义。\n枫丹的律法秉正义之剑而行。\n正义意味着裁决与调和，以裁决的剑锋遏止恶行，以调和的手段维护秩序。"
+        "ru": "Материал повышения талантов. Справедливость - меч водного царства. Закон Фонтейна шествует с мечом справедливости в руке.\nСправедливость означает суд и примирение, при котором клинок суда останавливает деяния зла, а примирение поддерживает порядок.",
+        "en": "The sword of the Nation of Water is justice. The law of Fontaine walks with the sword of justice in hand. Justice means judgment and reconciliation,\nthe blade of judgment arrests the actions of evil, while reconciliation maintains order.",
+        "zh": "水之国土的利剑是正义。枫丹的律法秉正义之剑而行。正义意味着裁决与调和，以裁决的剑锋遏止恶行，以调和的手段维护秩序。"
       }
     }
   ],

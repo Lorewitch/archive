@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/teachings_of_order.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nПорядок - щит водного царства.\nВсе законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка.\nВ отсутствие порядка возникает хаос, а в хаосе нет и не может быть справедливости.",
-        "en": "The shield of the Nation of Water is order.\nAll law in Fontaine ultimately serves to maintain a stable order. Without order, there is chaos, and there can be no fairness in chaos.",
-        "zh": "水之国土的坚盾是秩序。\n枫丹的一切律法终究服务于稳固的秩序。\n若无秩序的存在，混沌的乱流中自然亦无公平可言。"
+        "ru": "Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка.\nВ отсутствие порядка возникает хаос, а в хаосе нет и не может быть справедливости.",
+        "en": "The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Without order, there is chaos,\nand there can be no fairness in chaos.",
+        "zh": "水之国土的坚盾是秩序。枫丹的一切律法终究服务于稳固的秩序。若无秩序的存在，混沌的乱流中自然亦无公平可言。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/guide_to_order.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nПорядок - щит водного царства.\nВсе законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка.\nБез гарантии, которую даёт порядок, правосудие сводится к неограниченному насилию, к оружию, пускаемому в ход всеми против всех.",
-        "en": "The shield of the Nation of Water is order.\nAll law in Fontaine ultimately serves to maintain a stable order.\nWithout the guarantee provided by order, justice will be reduced to unlimited violence, a weapon used by all against all.",
-        "zh": "水之国土的坚盾是秩序。\n枫丹的一切律法终究服务于稳固的秩序。\n若无秩序的保证，正义也将沦为无止境的暴力，成为一切人反对一切人的武器。"
+        "ru": "Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка. Без гарантии,\nкоторую даёт порядок, правосудие сводится к неограниченному насилию, к оружию, пускаемому в ход всеми против всех.",
+        "en": "The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Without the guarantee provided by order,\njustice will be reduced to unlimited violence, a weapon used by all against all.",
+        "zh": "水之国土的坚盾是秩序。枫丹的一切律法终究服务于稳固的秩序。若无秩序的保证，正义也将沦为无止境的暴力，成为一切人反对一切人的武器。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/philosophies_of_order.webp",
       "text": {
-        "ru": "Материал повышения талантов.\nПорядок - щит водного царства.\nВсе законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка.\nСправедливость и правосудие проистекают из порядка и служат порядку.\nПодобно неподвижной, спокойной поверхности вод Фонтейна, порядок является краеугольным камнем его существования.",
-        "en": "The shield of the Nation of Water is order.\nAll law in Fontaine ultimately serves to maintain a stable order.\nEquity and justice come from order, and serve order.\nLike the still, ripple-less surface of the waters of Fontaine, order is the cornerstone of Fontaine's existence.",
-        "zh": "水之国土的坚盾是秩序。\n枫丹的一切律法终究服务于稳固的秩序。\n公平与正义源于秩序，亦服务于秩序。\n正如枫丹恒无风浪的绵延水面那般，秩序构成了枫丹存在的基石。"
+        "ru": "Материал повышения талантов. Порядок - щит водного царства. Все законы Фонтейна в конечном счёте служат поддержанию устойчивого порядка.\nСправедливость и правосудие проистекают из порядка и служат порядку. Подобно неподвижной, спокойной поверхности вод Фонтейна,\nпорядок является краеугольным камнем его существования.",
+        "en": "The shield of the Nation of Water is order. All law in Fontaine ultimately serves to maintain a stable order. Equity and justice come from order,\nand serve order. Like the still, ripple-less surface of the waters of Fontaine, order is the cornerstone of Fontaine's existence.",
+        "zh": "水之国土的坚盾是秩序。枫丹的一切律法终究服务于稳固的秩序。公平与正义源于秩序，亦服务于秩序。正如枫丹恒无风浪的绵延水面那般，\n秩序构成了枫丹存在的基石。"
       }
     }
   ],

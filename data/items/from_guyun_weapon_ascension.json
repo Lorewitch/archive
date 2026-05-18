@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/luminous_sands_from_guyun.webp",
       "text": {
-        "ru": "Материал возвышения оружия.\nКаменные колонны, возвышающиеся среди каменного леса Гуюнь, - это каменные копья, которые использовал Моракс для победы над врагами.\nСо временем кровь богов впиталась в эти колонны, дав им божественные силы.\nВременами эти колонны проливают крупицы проклятий и ненависти.",
-        "en": "Weapon Ascension Material.\nThe stone pillars that tower amid Guyun Stone Forest were once the stone spears Morax used to defeat his enemies.\nOver time, the gods' substance has seeped into the pillars that pin them down, lending them divine power.\nThe pillars sometimes shed fragments of hatred and curses.",
-        "zh": "赋予武器突破之力的材料。\n孤云阁耸立的岩柱，曾经都是摩拉克斯为了镇伏敌手降下的岩枪。\n久而久之，魔神之体渗入了岩柱，使之拥有了圣性。\n岩柱偶尔会剥落一些散发着怨恨和不祥的碎屑。"
+        "ru": "Материал возвышения оружия. Каменные колонны, возвышающиеся среди каменного леса Гуюнь, - это каменные копья,\nкоторые использовал Моракс для победы над врагами. Со временем кровь богов впиталась в эти колонны, дав им божественные силы.\nВременами эти колонны проливают крупицы проклятий и ненависти.",
+        "en": "Weapon Ascension Material. The stone pillars that tower amid Guyun Stone Forest were once the stone spears Morax used to defeat his enemies.\nOver time, the gods' substance has seeped into the pillars that pin them down, lending them divine power.\nThe pillars sometimes shed fragments of hatred and curses.",
+        "zh": "赋予武器突破之力的材料。孤云阁耸立的岩柱，曾经都是摩拉克斯为了镇伏敌手降下的岩枪。久而久之，魔神之体渗入了岩柱，使之拥有了圣性。\n岩柱偶尔会剥落一些散发着怨恨和不祥的碎屑。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/lustrous_stone_from_guyun.webp",
       "text": {
-        "ru": "Материал возвышения оружия.\nКаменный лес Гуюнь - это не просто красивые места на фоне морского пейзажа, а кладбище бывших богов Ли Юэ.\nПериодически отсюда сочатся презрение и порча, с которыми успешно справляется один героический юноша.",
-        "en": "Weapon Ascension Material.\nThe learned know that Guyun Stone Forest is far more than simply a miraculous sight on the sea to behold:\nIt is the cemetery of the former gods of Liyue.\nHatred and filth have periodically risen up from it, but all have been subdued by a demon-conquering young man.",
-        "zh": "赋予武器突破之力的材料。\n所以对于知情人士来说，孤云阁并不是什么愉快的海上奇观，而是曾经璃月众神的墓园。\n这里的确会周期性地涌起不祥和污秽，不过那都被另一个降妖伏魔的少年平息了。"
+        "ru": "Материал возвышения оружия. Каменный лес Гуюнь - это не просто красивые места на фоне морского пейзажа, а кладбище бывших богов Ли Юэ.\nПериодически отсюда сочатся презрение и порча, с которыми успешно справляется один героический юноша.",
+        "en": "Weapon Ascension Material. The learned know that Guyun Stone Forest is far more than simply a miraculous sight on the sea to behold:\nIt is the cemetery of the former gods of Liyue. Hatred and filth have periodically risen up from it,\nbut all have been subdued by a demon-conquering young man.",
+        "zh": "赋予武器突破之力的材料。所以对于知情人士来说，孤云阁并不是什么愉快的海上奇观，而是曾经璃月众神的墓园。这里的确会周期性地涌起不祥和污秽，\n不过那都被另一个降妖伏魔的少年平息了。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/relic_from_guyun.webp",
       "text": {
-        "ru": "Материал возвышения оружия.\nКаменное копьё имеет мерцающее ядро, сформированное силой побеждённых богов.\nИх гнев не направлен на Моракса, ибо они давно потеряли рассудок и не могут более держать личные обиды.",
-        "en": "Weapon Ascension Material.\nThe stone spear has a glimmering core formed by the power of the defeated gods.\nTheir hatred is not directed at Morax, however, for they have lost themselves a long time ago and are incapable of holding personal grudges.",
-        "zh": "赋予武器突破之力的材料。\n岩枪的核心是发着暗淡光辉的核心，那是战败魔神的力量深入岩石形成的。\n他们的怨恨并不针对摩拉克斯，因为他们早就已经没有自我了，不可能还残留私怨。"
+        "ru": "Материал возвышения оружия. Каменное копьё имеет мерцающее ядро, сформированное силой побеждённых богов. Их гнев не направлен на Моракса,\nибо они давно потеряли рассудок и не могут более держать личные обиды.",
+        "en": "Weapon Ascension Material. The stone spear has a glimmering core formed by the power of the defeated gods. Their hatred is not directed at Morax,\nhowever, for they have lost themselves a long time ago and are incapable of holding personal grudges.",
+        "zh": "赋予武器突破之力的材料。岩枪的核心是发着暗淡光辉的核心，那是战败魔神的力量深入岩石形成的。他们的怨恨并不针对摩拉克斯，\n因为他们早就已经没有自我了，不可能还残留私怨。"
       }
     },
     {
@@ -94,9 +94,9 @@
       },
       "icon": "assets/icons/items/development_materials/divine_body_from_guyun.webp",
       "text": {
-        "ru": "Материал возвышения оружия.\nВ этой реликвии таятся останки древних скорбящих богов.\nЭто их нереализованные идеи и планы по процветанию человечества, которым никогда не суждено воплотиться.\nОни могут лежать на дне моря или глубоко в недрах скалы, но они никогда не исчезнут с лица этого мира.",
-        "en": "Weapon Ascension Material.\nThat which lurks within and animates this relic are the divine remains of lamenting gods.\nThey are unrealized ideals, designs for a prosperous humanity that could never be.\nThey may now lie deep within stone and sea, but they will not go quietly into the night.",
-        "zh": "赋予武器突破之力的材料。\n于此躁动、作祟的，正是嗟叹连绵的众神圣骸之体。\n它们是未能实现的理想，对人类另一种幸福生活的描绘。\n它们以深海、层岩收纳，却不愿意就此入梦。"
+        "ru": "Материал возвышения оружия. В этой реликвии таятся останки древних скорбящих богов. Это их нереализованные идеи и планы по процветанию человечества,\nкоторым никогда не суждено воплотиться. Они могут лежать на дне моря или глубоко в недрах скалы, но они никогда не исчезнут с лица этого мира.",
+        "en": "Weapon Ascension Material. That which lurks within and animates this relic are the divine remains of lamenting gods. They are unrealized ideals,\ndesigns for a prosperous humanity that could never be. They may now lie deep within stone and sea, but they will not go quietly into the night.",
+        "zh": "赋予武器突破之力的材料。于此躁动、作祟的，正是嗟叹连绵的众神圣骸之体。它们是未能实现的理想，对人类另一种幸福生活的描绘。它们以深海、层岩收纳，\n却不愿意就此入梦。"
       }
     }
   ],

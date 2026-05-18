@@ -86,9 +86,9 @@
       },
       "icon": "assets/icons/items/development_materials/prithiva_topaz_chunk.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Валютой здесь является кровь.\nЯ гарант усердия, мудрости и будущего народа».",
-        "en": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood.\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.\"",
-        "zh": "角色突破素材。\n「大陆所流通的一切银钱皆是我的血肉。\n「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。」"
+        "ru": "Материал возвышения персонажа.\n«Валютой здесь является кровь. Я гарант усердия, мудрости и будущего народа».",
+        "en": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood. For thus did I become the guarantor of the people's hard work, wisdom, and future.\n\"",
+        "zh": "角色突破素材。\n「大陆所流通的一切银钱皆是我的血肉。「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。」"
       }
     },
     {
@@ -100,9 +100,9 @@
       },
       "icon": "assets/icons/items/development_materials/prithiva_topaz_gemstone.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Валютой здесь является кровь.\nЯ гарант усердия, мудрости и будущего народа.\nТаково оказанное мной доверие. Предай его, и ты осквернишь мою кровь».",
-        "en": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood.\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.\nThis is the trust I have placed in them. Betray it, and you taint my blood.\"",
-        "zh": "角色突破素材。\n「大陆所流通的一切银钱皆是我的血肉。\n「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。\n「这是我对众生的信任，辜负了它就是玷污了我的血。」"
+        "ru": "Материал возвышения персонажа.\n«Валютой здесь является кровь. Я гарант усердия, мудрости и будущего народа. Таково оказанное мной доверие. Предай его, и ты осквернишь мою кровь».",
+        "en": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood. For thus did I become the guarantor of the people's hard work, wisdom, and future.\nThis is the trust I have placed in them. Betray it, and you taint my blood.\"",
+        "zh": "角色突破素材。\n「大陆所流通的一切银钱皆是我的血肉。「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。「这是我对众生的信任，辜负了它就是玷污了我的血。」"
       }
     }
   ],

@@ -124,9 +124,9 @@
       },
       "icon": "assets/icons/items/common_enemies/ruined_hilt.webp",
       "text": {
-        "ru": "Каменная рукоять от древней статуи.\nБлеск давно утрачен из-за воздействия морской воды.",
+        "ru": "Каменная рукоять от древней статуи. Блеск давно утрачен из-за воздействия морской воды.",
         "en": "A stone hilt obtained from an ancient statue. Its luster has long been lost to the depredations of seawater.",
-        "zh": "自古老雕像上取得的的石质剑柄。\n在海水的冲刷下已彻底残毁，失去了曾经的光泽。"
+        "zh": "自古老雕像上取得的的石质剑柄。在海水的冲刷下已彻底残毁，失去了曾经的光泽。"
       }
     },
     {
@@ -138,9 +138,9 @@
       },
       "icon": "assets/icons/items/common_enemies/splintered_hilt.webp",
       "text": {
-        "ru": "Каменная рукоять от древней статуи.\nСколы и прорези говорят о жесточайших битвах, через которые прошёл её владелец.",
+        "ru": "Каменная рукоять от древней статуи. Сколы и прорези говорят о жесточайших битвах, через которые прошёл её владелец.",
         "en": "A stone hilt obtained from an ancient statue. The chips and grooves speak to the brutal battles its owner once weathered.",
-        "zh": "自古老雕像上取得的的石质剑柄。\n剑柄上的断口与刻痕似乎记录了其主人曾经历过的残酷战斗。"
+        "zh": "自古老雕像上取得的的石质剑柄。剑柄上的断口与刻痕似乎记录了其主人曾经历过的残酷战斗。"
       }
     },
     {
@@ -152,9 +152,9 @@
       },
       "icon": "assets/icons/items/common_enemies/still_smoldering_hilt.webp",
       "text": {
-        "ru": "Каменная рукоять от древней статуи.\nВсё ещё горячее пламя можно объяснить лишь тем, что её совсем недавно разлучили с предыдущим владельцем.",
+        "ru": "Каменная рукоять от древней статуи. Всё ещё горячее пламя можно объяснить лишь тем, что её совсем недавно разлучили с предыдущим владельцем.",
         "en": "A stone hilt obtained from an ancient statue. Only the recentness of its separation from its owner may explain the as-yet unextinguished flame within.",
-        "zh": "自古老雕像上取得的的石质剑柄。\n或许是因为刚刚离开其主人的缘故，剑柄中的火光还尚未熄灭。"
+        "zh": "自古老雕像上取得的的石质剑柄。或许是因为刚刚离开其主人的缘故，剑柄中的火光还尚未熄灭。"
       }
     }
   ],

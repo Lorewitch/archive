@@ -86,9 +86,9 @@
       },
       "icon": "assets/icons/items/development_materials/shivada_jade_chunk.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«... Простите...»\n«Что заставил вас взять все обиды мира на себя».",
-        "en": "Character Ascension material.\n\"Sorry...\"\n\"... to also have you shoulder the grievances of the world.\"",
-        "zh": "角色突破素材。\n「…抱歉…\n「让你们一起和我背负了整个世界的哀思。」"
+        "ru": "Материал возвышения персонажа.\n«... Простите...» «Что заставил вас взять все обиды мира на себя».",
+        "en": "Character Ascension material.\n\"Sorry...\" \"... to also have you shoulder the grievances of the world.\"",
+        "zh": "角色突破素材。\n「…抱歉…「让你们一起和我背负了整个世界的哀思。」"
       }
     },
     {
@@ -100,9 +100,9 @@
       },
       "icon": "assets/icons/items/development_materials/shivada_jade_gemstone.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«... Простите... Что заставил вас взять все обиды мира на себя\nВы выдержали мой жестокий холод, значит в вас буйствует желание жечь.\nТогда сожгите для меня этот старый мир».",
-        "en": "Character Ascension material.\n\"Sorry... to also have you shoulder the grievances of the world.\n\"Since you could endure my bitter cold, you must have the desire to burn?\n\"Then, burn away the old world for me.\"",
-        "zh": "角色突破素材。\n「…抱歉让你们一起和我背负了整个世界的哀思。\n「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？\n「那么，替我燃烧旧世界吧。」"
+        "ru": "Материал возвышения персонажа.\n«... Простите... Что заставил вас взять все обиды мира на себя Вы выдержали мой жестокий холод, значит в вас буйствует желание жечь.\nТогда сожгите для меня этот старый мир».",
+        "en": "Character Ascension material.\n\"Sorry... to also have you shoulder the grievances of the world. \"Since you could endure my bitter cold, you must have the desire to burn? \"Then,\nburn away the old world for me.\"",
+        "zh": "角色突破素材。\n「…抱歉让你们一起和我背负了整个世界的哀思。「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？「那么，替我燃烧旧世界吧。」"
       }
     }
   ],

@@ -18,13 +18,13 @@
   ],
   "text": {
     "ru": "Эта боевая машина в форме дракона внушает страх, как и правитель, который когда-то владел этими землями.\nЗагадочное неутомимое механическое чудище словно подтверждает, что давно сгинувшее царство достигало таких высот,\nкоторые оказались не по силам простым смертным.",
-    "en": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\nIt is said that the now-destroyed realm once sought forbidden knowledge and attempted to create perpetual-motion machines that could match\nor even surpass primordial lifeforms.\nThis mysterious,\ntireless mechanical monstrosity seems to be proof that they did indeed reach heights that mortals should never have attained.",
-    "zh": "如同古时曾制御大地的君王一般，令人望而生畏的龙形战斗机械。\n传说已经覆灭的国度曾渴求着禁忌的技术，试图拟造出可以匹敌，乃至超越亘古生命的永续机关。\n这架不知疲倦的神秘机械巨兽似乎证明，他们确已触及了人所不应抵达的领域。"
+    "en": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\nIt is said that the now-destroyed realm once sought forbidden knowledge and attempted to create perpetual-motion machines that could match or even surpass primordial lifeforms.\nThis mysterious, tireless mechanical monstrosity seems to be proof that they did indeed reach heights that mortals should never have attained.",
+    "zh": "如同古时曾制御大地的君王一般，令人望而生畏的龙形战斗机械。传说已经覆灭的国度曾渴求着禁忌的技术，试图拟造出可以匹敌，乃至超越亘古生命的永续机关。\n这架不知疲倦的神秘机械巨兽似乎证明，他们确已触及了人所不应抵达的领域。"
   },
   "description": {
     "ru": "Эта боевая машина в форме дракона внушает страх, как и правитель, который когда-то владел этими землями.\nЗагадочное неутомимое механическое чудище словно подтверждает, что давно сгинувшее царство достигало таких высот,\nкоторые оказались не по силам простым смертным.",
-    "en": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\nIt is said that the now-destroyed realm once sought forbidden knowledge and attempted to create perpetual-motion machines that could match\nor even surpass primordial lifeforms.\nThis mysterious,\ntireless mechanical monstrosity seems to be proof that they did indeed reach heights that mortals should never have attained.",
-    "zh": "如同古时曾制御大地的君王一般，令人望而生畏的龙形战斗机械。\n传说已经覆灭的国度曾渴求着禁忌的技术，试图拟造出可以匹敌，乃至超越亘古生命的永续机关。\n这架不知疲倦的神秘机械巨兽似乎证明，他们确已触及了人所不应抵达的领域。"
+    "en": "This dragon-shaped combat machine is a being that inspires fear, much like the lord who once ruled these vast lands.\nIt is said that the now-destroyed realm once sought forbidden knowledge and attempted to create perpetual-motion machines that could match or even surpass primordial lifeforms.\nThis mysterious, tireless mechanical monstrosity seems to be proof that they did indeed reach heights that mortals should never have attained.",
+    "zh": "如同古时曾制御大地的君王一般，令人望而生畏的龙形战斗机械。传说已经覆灭的国度曾渴求着禁忌的技术，试图拟造出可以匹敌，乃至超越亘古生命的永续机关。\n这架不知疲倦的神秘机械巨兽似乎证明，他们确已触及了人所不应抵达的领域。"
   },
   "notes": {
     "general": "",
@@ -42,9 +42,9 @@
       },
       "icon": "assets/icons/items/world_bosses/perpetual_caliber.webp",
       "text": {
-        "ru": "Движущее устройство, полученное из таинственного руинного механизма.\nМашина, которую оно когда-то приводило в движение, уже разрушена, но он продолжает вращаться.\nВ этом мире не должно быть такого источника энергии, который мог бы поддерживать себя вечно,\nи большинство результатов исследований в области «вечного двигателя» оказались тупиковыми.\nТем не менее это устройство является доказательством того, что ныне уничтоженная цивилизация когда-то достигла таких высот,\nс которыми нынешние государства ещё долго не смогут сравниться…",
-        "en": "A motive device obtained from a mysterious ruin machine.\nThe machine it once powered may have been destroyed, but it continues to rotate all the same.\nThere should be no such thing as an energy source that can sustain itself forever in this world,\nand most research results obtained in the field of \"perpetual motion\" have been eventually proved false.\nYet,\nthis device is proof that a now-destroyed civilization once reached heights that present-day nations could not hope to match...",
-        "zh": "从神秘的遗迹机械上取来的动力机关。\n即使它所驱动的机体已经被摧毁，仍在持续运转着。\n地上理应不存在无限持续的能源，关于「永动」\n的研究成果发表也大多被证伪。\n然而从这枚机芯可以看出，如今已经覆灭的文明曾经一度触及人所不能抵达的领域。"
+        "ru": "Движущее устройство, полученное из таинственного руинного механизма. Машина, которую оно когда-то приводило в движение, уже разрушена,\nно он продолжает вращаться. В этом мире не должно быть такого источника энергии, который мог бы поддерживать себя вечно,\nи большинство результатов исследований в области «вечного двигателя» оказались тупиковыми. Тем не менее это устройство является доказательством того,\nчто ныне уничтоженная цивилизация когда-то достигла таких высот, с которыми нынешние государства ещё долго не смогут сравниться…",
+        "en": "A motive device obtained from a mysterious ruin machine. The machine it once powered may have been destroyed, but it continues to rotate all the same.\nThere should be no such thing as an energy source that can sustain itself forever in this world,\nand most research results obtained in the field of \"perpetual motion\" have been eventually proved false. Yet,\nthis device is proof that a now-destroyed civilization once reached heights that present-day nations could not hope to match...",
+        "zh": "从神秘的遗迹机械上取来的动力机关。即使它所驱动的机体已经被摧毁，仍在持续运转着。地上理应不存在无限持续的能源，\n关于「永动」的研究成果发表也大多被证伪。然而从这枚机芯可以看出，如今已经覆灭的文明曾经一度触及人所不能抵达的领域。"
       }
     }
   ],

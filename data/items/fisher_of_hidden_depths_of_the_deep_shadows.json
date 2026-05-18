@@ -124,9 +124,9 @@
       },
       "icon": "assets/icons/items/common_enemies/fractured_eye_of_the_deep_shadow.webp",
       "text": {
-        "ru": "Останки рассеявшейся формы рыболова из иного мира.\nКогда оболочка треснула, злоба внутри неё тоже исчезла.",
-        "en": "The remains of a fisher from beyond this world, left after its body dissolved.\nOnce its shell cracked, the malice housed within faded away as well.",
-        "zh": "自异界侵入的钓客，在形体消散后留下的残屑。\n表壳碎裂后，寄宿在其中的恶意也随之消泯。"
+        "ru": "Останки рассеявшейся формы рыболова из иного мира. Когда оболочка треснула, злоба внутри неё тоже исчезла.",
+        "en": "The remains of a fisher from beyond this world, left after its body dissolved. Once its shell cracked, the malice housed within faded away as well.",
+        "zh": "自异界侵入的钓客，在形体消散后留下的残屑。表壳碎裂后，寄宿在其中的恶意也随之消泯。"
       }
     },
     {
@@ -138,9 +138,9 @@
       },
       "icon": "assets/icons/items/common_enemies/aberrant_core_of_the_deep_shadow.webp",
       "text": {
-        "ru": "Останки рассеявшейся формы рыболова из иного мира.\nЭто ядро, которое полностью прекратило работу, не имеет ничего общего со строением органов каких-либо существ на этой земле.",
-        "en": "The remains of a fisher from beyond this world, left after its body dissolved.\nA core whose functions have fully shut down, and its structure resembles no organ of any creature found on this earth.",
-        "zh": "自异界侵入的钓客，在形体消散后留下的残屑。\n机能已然停止的核心，与地上任何生物的器官组织都没有相似之处。"
+        "ru": "Останки рассеявшейся формы рыболова из иного мира. Это ядро, которое полностью прекратило работу,\nне имеет ничего общего со строением органов каких-либо существ на этой земле.",
+        "en": "The remains of a fisher from beyond this world, left after its body dissolved. A core whose functions have fully shut down,\nand its structure resembles no organ of any creature found on this earth.",
+        "zh": "自异界侵入的钓客，在形体消散后留下的残屑。机能已然停止的核心，与地上任何生物的器官组织都没有相似之处。"
       }
     },
     {
@@ -152,9 +152,9 @@
       },
       "icon": "assets/icons/items/common_enemies/hooked_beak_of_the_deep_shadow.webp",
       "text": {
-        "ru": "Останки рассеявшейся формы рыболова из иного мира.\nКлюв, изогнутый подобно птичьему. Хищники из иных миров используют его, чтобы удерживать захваченную биомассу.",
-        "en": "The remains of a fisher from beyond this world, left after its body dissolved.\nA birdlike, hook-shaped beak used by predators from beyond this world to store the biomass they seize.",
-        "zh": "自异界侵入的钓客，在形体消散后留下的残屑。\n形如禽类的钩喙，乃是天外的捕食者们用于储存所攫获生物质的容器。"
+        "ru": "Останки рассеявшейся формы рыболова из иного мира. Клюв, изогнутый подобно птичьему. Хищники из иных миров используют его,\nчтобы удерживать захваченную биомассу.",
+        "en": "The remains of a fisher from beyond this world, left after its body dissolved. A birdlike,\nhook-shaped beak used by predators from beyond this world to store the biomass they seize.",
+        "zh": "自异界侵入的钓客，在形体消散后留下的残屑。形如禽类的钩喙，乃是天外的捕食者们用于储存所攫获生物质的容器。"
       }
     }
   ],

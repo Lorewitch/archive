@@ -17,14 +17,14 @@
     "zh"
   ],
   "text": {
-    "ru": "Кодовое название: Заин.\nВысококонцентрированный Дендро элемент. Наблюдаются значительные отклонения в поведении этого существа от других элементальных гипостазисов.\nПричины этого явления до сих пор достоверно не установлены.",
-    "en": "Code Name: Zayin. A high-purity Dendro entity.\nAccording to the deductions of some researchers, Elemental Hypostases have the knowledge required to \"learn,\n\" which is how they use \"mimesis\" to initiate attacks.\nHowever, the ability to incorporate information to create change also opens one to the risk of information contamination.\nAs this creature learns and changes,\nthe purpose of its birth - no matter how academically unquantifiable it may still be - may yet become so distorted as to be rendered\nirrelevant.",
-    "zh": "代号为「扎因」\n的高级草元素生命。\n依据学者的推想，无相元素具有「学习」\n的智慧，进而产生了利用「拟态」\n进行攻击的能力。\n但能够摄入信息、产生变化，就可能遭受信息的污染。\n在学习、变化的过程中，原本诞生的目的——尽管如今在学界中仍是未解之谜——或许也会被歪曲、变得无关紧要吧。"
+    "ru": "Кодовое название: Заин. Высококонцентрированный Дендро элемент. Наблюдаются значительные отклонения в поведении этого существа от других элементальных гипостазисов.\nПричины этого явления до сих пор достоверно не установлены.",
+    "en": "Code Name: Zayin. A high-purity Dendro entity. According to the deductions of some researchers,\nElemental Hypostases have the knowledge required to \"learn, \" which is how they use \"mimesis\" to initiate attacks. However,\nthe ability to incorporate information to create change also opens one to the risk of information contamination. As this creature learns and changes,\nthe purpose of its birth - no matter how academically unquantifiable it may still be - may yet become so distorted as to be rendered irrelevant.",
+    "zh": "代号为「扎因」的高级草元素生命。依据学者的推想，无相元素具有「学习」的智慧，进而产生了利用「拟态」进行攻击的能力。但能够摄入信息、产生变化，\n就可能遭受信息的污染。在学习、变化的过程中，原本诞生的目的——尽管如今在学界中仍是未解之谜——或许也会被歪曲、变得无关紧要吧。"
   },
   "description": {
-    "ru": "Кодовое название: Заин.\nВысококонцентрированный Дендро элемент. Наблюдаются значительные отклонения в поведении этого существа от других элементальных гипостазисов.\nПричины этого явления до сих пор достоверно не установлены.",
-    "en": "Code Name: Zayin. A high-purity Dendro entity.\nAccording to the deductions of some researchers, Elemental Hypostases have the knowledge required to \"learn,\n\" which is how they use \"mimesis\" to initiate attacks.\nHowever, the ability to incorporate information to create change also opens one to the risk of information contamination.\nAs this creature learns and changes,\nthe purpose of its birth - no matter how academically unquantifiable it may still be - may yet become so distorted as to be rendered\nirrelevant.",
-    "zh": "代号为「扎因」\n的高级草元素生命。\n依据学者的推想，无相元素具有「学习」\n的智慧，进而产生了利用「拟态」\n进行攻击的能力。\n但能够摄入信息、产生变化，就可能遭受信息的污染。\n在学习、变化的过程中，原本诞生的目的——尽管如今在学界中仍是未解之谜——或许也会被歪曲、变得无关紧要吧。"
+    "ru": "Кодовое название: Заин. Высококонцентрированный Дендро элемент. Наблюдаются значительные отклонения в поведении этого существа от других элементальных гипостазисов.\nПричины этого явления до сих пор достоверно не установлены.",
+    "en": "Code Name: Zayin. A high-purity Dendro entity. According to the deductions of some researchers,\nElemental Hypostases have the knowledge required to \"learn, \" which is how they use \"mimesis\" to initiate attacks. However,\nthe ability to incorporate information to create change also opens one to the risk of information contamination. As this creature learns and changes,\nthe purpose of its birth - no matter how academically unquantifiable it may still be - may yet become so distorted as to be rendered irrelevant.",
+    "zh": "代号为「扎因」的高级草元素生命。依据学者的推想，无相元素具有「学习」的智慧，进而产生了利用「拟态」进行攻击的能力。但能够摄入信息、产生变化，\n就可能遭受信息的污染。在学习、变化的过程中，原本诞生的目的——尽管如今在学界中仍是未解之谜——或许也会被歪曲、变得无关紧要吧。"
   },
   "notes": {
     "general": "",
@@ -42,9 +42,9 @@
       },
       "icon": "assets/icons/items/world_bosses/quelled_creeper.webp",
       "text": {
-        "ru": "Окончательная форма Дендро гипостазиса.\nЖёсткие виноградные лозы защищают кубический элементальный кристалл.\nДендро не поддаётся никакой логике, но при этом существует в совершенной гармонии с жизнью.\nЭлементальные гипостазисы, напротив, наиболее отличаются от всех живых существ.\nСочетание этих двух факторов никогда не должно было появиться в этом мире.\nГоворят, что элементальные гипостазисы обладают разумом, позволяющим «учиться», поэтому они понимают цвета и сны леса,\nи в итоге приняли эту форму спустя несколько тысячелетий.",
-        "en": "The final coalesced form of the Dendro Hypostasis.\nThe tough vines protect a pure cubic elemental crystal.\nDendro defies any common logic yet exists in perfect harmony with life.\nElemental Hypostases, on the contrary, are most distant in appearance to all living beings.\nThe combination of these two should probably never have appeared in this world.\nIt is said that such elemental hypostases have the intelligence to \"learn\" and have thus understood the colors and dreams of the forest,\na process that has transformed them into this shape over thousands of years.",
-        "zh": "无相之草最终凝聚成的形姿，坚硬的藤蔓包围之下的纯净元素方晶。\n最与常理相悖、又最适宜生命的草元素，与距离一切生命的形态最遥远的无相元素原本不应当相结合出现在大地上吧。\n一说认为无相元素有「学习」\n的智性，所以了解到了森林中的多彩与梦。\n在超越千年的晕染中，也变成了如此的形态。"
+        "ru": "Окончательная форма Дендро гипостазиса. Жёсткие виноградные лозы защищают кубический элементальный кристалл. Дендро не поддаётся никакой логике,\nно при этом существует в совершенной гармонии с жизнью. Элементальные гипостазисы, напротив, наиболее отличаются от всех живых существ.\nСочетание этих двух факторов никогда не должно было появиться в этом мире. Говорят, что элементальные гипостазисы обладают разумом,\nпозволяющим «учиться», поэтому они понимают цвета и сны леса, и в итоге приняли эту форму спустя несколько тысячелетий.",
+        "en": "The final coalesced form of the Dendro Hypostasis. The tough vines protect a pure cubic elemental crystal.\nDendro defies any common logic yet exists in perfect harmony with life. Elemental Hypostases, on the contrary,\nare most distant in appearance to all living beings. The combination of these two should probably never have appeared in this world.\nIt is said that such elemental hypostases have the intelligence to \"learn\" and have thus understood the colors and dreams of the forest,\na process that has transformed them into this shape over thousands of years.",
+        "zh": "无相之草最终凝聚成的形姿，坚硬的藤蔓包围之下的纯净元素方晶。最与常理相悖、又最适宜生命的草元素，\n与距离一切生命的形态最遥远的无相元素原本不应当相结合出现在大地上吧。一说认为无相元素有「学习」的智性，所以了解到了森林中的多彩与梦。\n在超越千年的晕染中，也变成了如此的形态。"
       }
     }
   ],

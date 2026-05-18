@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/teachings_of_freedom.webp",
       "text": {
-        "ru": "Материал повышения таланта.\nСвобода - это дух царства ветров.\nЖизнь без забот о здоровье и благополучии.",
-        "en": "Talent Level-Up material.\nFreedom is the spirit of the land of the wind.\nThe freedom to live is one of such. It is the freedom to live freely and healthily without concerns of one's own safety.",
-        "zh": "天赋培养素材。\n风之国土的精神是自由。\n自由其一，是生存的自由，即是能健全、健康地生活，而不必担心朝不保夕的自由。"
+        "ru": "Материал повышения таланта. Свобода - это дух царства ветров. Жизнь без забот о здоровье и благополучии.",
+        "en": "Talent Level-Up material. Freedom is the spirit of the land of the wind. The freedom to live is one of such.\nIt is the freedom to live freely and healthily without concerns of one's own safety.",
+        "zh": "天赋培养素材。风之国土的精神是自由。自由其一，是生存的自由，即是能健全、健康地生活，而不必担心朝不保夕的自由。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/guide_to_freedom.webp",
       "text": {
-        "ru": "Материал повышения таланта.\nСвобода - это дух царства ветров.\nСвобода вольных путешествий, не вызывающих страх.",
-        "en": "Talent Level-Up material.\nFreedom is the spirit of the land of the wind.\nThe freedom of travel is one of such. It is the freedom to traverse the land freely without being obstructed.",
-        "zh": "天赋培养素材。\n风之国土的精神是自由。\n自由其二，是漫游的自由，即是能在苍翠的土地上自由地通行，而不受阻挠的自由。"
+        "ru": "Материал повышения таланта. Свобода - это дух царства ветров. Свобода вольных путешествий, не вызывающих страх.",
+        "en": "Talent Level-Up material. Freedom is the spirit of the land of the wind. The freedom of travel is one of such.\nIt is the freedom to traverse the land freely without being obstructed.",
+        "zh": "天赋培养素材。风之国土的精神是自由。自由其二，是漫游的自由，即是能在苍翠的土地上自由地通行，而不受阻挠的自由。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/philosophies_of_freedom.webp",
       "text": {
-        "ru": "Материал повышения таланта.\nСвобода - это дух царства ветров.\nСвобода песен на землях Анемо Архонта. Можно отлучить своё сердце вместе с песней на ветру.",
-        "en": "Talent Level-Up material.\nFreedom is the spirit of the land of the wind.\nTo sing is one such freedom. To sing on the land created by the Anemo Archon is to send your heart away with the song on the wind.",
-        "zh": "天赋培养素材。\n风之国土的精神是自由。\n自由其三，是歌唱的自由，即是能在风之神塑造的美好土地上歌唱，让自己的心与歌一同随风而去的自由。"
+        "ru": "Материал повышения таланта. Свобода - это дух царства ветров. Свобода песен на землях Анемо Архонта.\nМожно отлучить своё сердце вместе с песней на ветру.",
+        "en": "Talent Level-Up material. Freedom is the spirit of the land of the wind. To sing is one such freedom.\nTo sing on the land created by the Anemo Archon is to send your heart away with the song on the wind.",
+        "zh": "天赋培养素材。风之国土的精神是自由。自由其三，是歌唱的自由，即是能在风之神塑造的美好土地上歌唱，让自己的心与歌一同随风而去的自由。"
       }
     }
   ],

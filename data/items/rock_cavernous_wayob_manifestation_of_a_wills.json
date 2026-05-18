@@ -484,9 +484,9 @@
       },
       "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
       "text": {
-        "ru": "Фрагмент, в котором обитает воплощение Вайоб.\nЭто обломок разбитого каменного идола. Он с трудом передаёт волю и силу Вайоб.",
-        "en": "A fragment that houses a Wayob Manifestation.\nIt is a broken shard of a shattered stone idol. Its capacity for channeling the Wayob's will and power is also extremely limited.",
-        "zh": "大灵显化身寄宿的残片。\n破碎的石偶断片，其承载的「大灵」意志与力量也十分有限。"
+        "ru": "Фрагмент, в котором обитает воплощение Вайоб. Это обломок разбитого каменного идола. Он с трудом передаёт волю и силу Вайоб.",
+        "en": "A fragment that houses a Wayob Manifestation. It is a broken shard of a shattered stone idol.\nIts capacity for channeling the Wayob's will and power is also extremely limited.",
+        "zh": "大灵显化身寄宿的残片。破碎的石偶断片，其承载的「大灵」意志与力量也十分有限。"
       }
     },
     {
@@ -498,8 +498,8 @@
       },
       "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp",
       "text": {
-        "ru": "Нефритовый идол, в котором обитает воплощение Вайоб.\nФигура идола смутно различается. Он хорошо передаёт волю и силу Вайоб.",
-        "en": "A jade idol that houses a Wayob Manifestation.\nYou can roughly make out the form of an idol figurine. It has a greater capacity for channeling the Wayob's will and power.",
+        "ru": "Нефритовый идол, в котором обитает воплощение Вайоб. Фигура идола смутно различается. Он хорошо передаёт волю и силу Вайоб.",
+        "en": "A jade idol that houses a Wayob Manifestation. You can roughly make out the form of an idol figurine.\nIt has a greater capacity for channeling the Wayob's will and power.",
         "zh": "大灵显化身寄宿的玉偶。能够隐约看到形制的玉偶雕像，能够承载更多「大灵」的意志与力量。"
       }
     },
@@ -512,9 +512,9 @@
       },
       "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp",
       "text": {
-        "ru": "Обсидиановый талисман, в котором обитает воплощение Вайоб.\nОн состоит из нефритовой фигурки идола, заключённой в обсидиан.\nГоворят, раньше люди использовали такие фигурки, чтобы попытаться связаться напрямую с Вайоб Царства Ночи.\nВозможно, это также объясняет, почему Вайоб может обитать в нём и принимать физическую форму.",
-        "en": "An obsidian talisman that houses a Wayob Manifestation.\nIt consists of a jade idol figurine encased in obsidian.\nThey say that in the past, people often used such figurines to attempt to communicate directly with the Wayob of the Night Kingdom.\nPerhaps this also explains why the Wayob can dwell within it and manifest itself in physical form.",
-        "zh": "大灵显化身寄宿的黑曜石符像。\n环绕黑曜石的玉偶雕像，据说从前的人经常用这样的雕像，尝试与夜神国度中的「大灵」进行沟通，或许这也是「大灵」能够凭依在其上，并显化出形体的缘由吧。"
+        "ru": "Обсидиановый талисман, в котором обитает воплощение Вайоб. Он состоит из нефритовой фигурки идола, заключённой в обсидиан. Говорят,\nраньше люди использовали такие фигурки, чтобы попытаться связаться напрямую с Вайоб Царства Ночи. Возможно, это также объясняет,\nпочему Вайоб может обитать в нём и принимать физическую форму.",
+        "en": "An obsidian talisman that houses a Wayob Manifestation. It consists of a jade idol figurine encased in obsidian. They say that in the past,\npeople often used such figurines to attempt to communicate directly with the Wayob of the Night Kingdom.\nPerhaps this also explains why the Wayob can dwell within it and manifest itself in physical form.",
+        "zh": "大灵显化身寄宿的黑曜石符像。环绕黑曜石的玉偶雕像，据说从前的人经常用这样的雕像，尝试与夜神国度中的「大灵」进行沟通，\n或许这也是「大灵」能够凭依在其上，并显化出形体的缘由吧。"
       }
     }
   ],
