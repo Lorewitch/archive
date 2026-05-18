@@ -31,7 +31,50 @@
     "en": "A monster created by the sedimentation of Hydro dispersed throughout nature.\nA larger and more powerful Hydro Slime that can create bubbles to entrap its enemies.\nIt is said that they can grow to truly staggering sizes if given an energy-rich environment.\nEyewitnesses have supposedly seen Hydro Slimes as large as a small mound in Wolvendom.",
     "zh": "逸散在自然之中的水元素沉积形成的魔物。\n力量更强大、体型更大的水史莱姆，可以产生水泡禁锢敌人。\n据说在某些力量充沛的地方，尺寸可以成长到非常夸张的程度。\n在奔狼领就曾有人目击过有一座小土丘那么大的水史莱姆。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "slime_materials",
+      "title": {
+        "ru": "Слизь слайма / Выделения слайма / Концентрат слайма",
+        "en": "Slimes",
+        "zh": "史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+      },
+      "icon": "assets/icons/items/common_enemies/slime_condensate.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "slime_condensate",
+          "title": {
+            "ru": "Слизь слайма",
+            "en": "Slime Condensate",
+            "zh": "史莱姆凝液"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_condensate.webp"
+        },
+        {
+          "key": "slime_secretions",
+          "title": {
+            "ru": "Выделения слайма",
+            "en": "Slime Secretions",
+            "zh": "史莱姆清"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_secretions.webp"
+        },
+        {
+          "key": "slime_concentrate",
+          "title": {
+            "ru": "Концентрат слайма",
+            "en": "Slime Concentrate",
+            "zh": "史莱姆原浆"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_concentrate.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

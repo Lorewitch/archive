@@ -1,0 +1,720 @@
+{
+  "id": "abyss_herald_wicked_torrents_statuettes",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+  "title": {
+    "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+    "en": "Statuettes",
+    "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+  },
+  "region": "Ли Юэ, Инадзума",
+  "rarity": null,
+  "game_version": "2.6",
+  "tags": [
+    "Gloomy Statuette",
+    "Dark Statuette",
+    "Deathly Statuette",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "abyss_herald_wicked_torrents",
+    "abyss_lector_fathomless_flames",
+    "abyss_lector_violet_lightning",
+    "shadowy_husk_standard_bearer",
+    "shadowy_husk_line_breaker",
+    "shadowy_husk_defender",
+    "black_serpent_knight_windcutter"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "abyss_herald_wicked_torrents",
+      "title": {
+        "ru": "Вестник Бездны: Злые течения",
+        "en": "Abyss Herald: Wicked Torrents",
+        "zh": "深渊使徒·激流"
+      },
+      "icon": "assets/icons/enemies/common_enemies/abyss_herald_wicked_torrents.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ, Инадзума",
+      "game_version": "1.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Чудовище Ордена Бездны, способное использовать в бою силы Гидро.\nЭти молчаливые создания - авангард Бездны.\nИх Клинки прибоя сметают всё на своём пути, сокрушая доспехи и истребляя еретиков.\nБеспечным глупцам не уйти от предначертанного судьбой наказания.",
+        "en": "Servants of the Abyss Order that use Hydro in combat.\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics.\nThey shall bring preordained damnation upon the foolish masses.",
+        "zh": "利用水元素战斗的魔物，隶属于「深渊教团」。\n这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。"
+      },
+      "description": {
+        "ru": "Чудовище Ордена Бездны, способное использовать в бою силы Гидро.\nЭти молчаливые создания - авангард Бездны.\nИх Клинки прибоя сметают всё на своём пути, сокрушая доспехи и истребляя еретиков.\nБеспечным глупцам не уйти от предначертанного судьбой наказания.",
+        "en": "Servants of the Abyss Order that use Hydro in combat.\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics.\nThey shall bring preordained damnation upon the foolish masses.",
+        "zh": "利用水元素战斗的魔物，隶属于「深渊教团」。\n这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "abyss_lector_fathomless_flames",
+      "title": {
+        "ru": "Чтец Бездны: Пламя бездны",
+        "en": "Abyss Lector: Fathomless Flames",
+        "zh": "深渊咏者·渊火"
+      },
+      "icon": "assets/icons/enemies/common_enemies/abyss_lector_fathomless_flames.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ, Инадзума",
+      "game_version": "2.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Управляющий огнём Бездны монстр, который стремится постигнуть смысл магических писаний. Принадлежит ордену Бездны.\nОбычные люди называют этих существ «Чтецами», но истинное значение их прозвища несколько иное.\n«Чтец» также означает «учёный».\nОни считают, что чтение магических писаний делает их сильнее.",
+        "en": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\nThe surface people have a slightly distorted understanding of what their name means,\ncalling them \"Lectors,\"when their name can also mean \"exegete.\"Reading the word of grace grants them great power.",
+        "zh": "驱使深渊之火，追寻着章典之意义的魔物。\n隶属于「深渊教团」。\n地上之人对他们的称呼其实和本意略有偏差。\n「咏者」\n也有「读经士」\n之意。\n诵读恩典之章，便会拥有强大的力量。"
+      },
+      "description": {
+        "ru": "Управляющий огнём Бездны монстр, который стремится постигнуть смысл магических писаний. Принадлежит ордену Бездны.\nОбычные люди называют этих существ «Чтецами», но истинное значение их прозвища несколько иное.\n«Чтец» также означает «учёный».\nОни считают, что чтение магических писаний делает их сильнее.",
+        "en": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\nThe surface people have a slightly distorted understanding of what their name means,\ncalling them \"Lectors,\"when their name can also mean \"exegete.\"Reading the word of grace grants them great power.",
+        "zh": "驱使深渊之火，追寻着章典之意义的魔物。\n隶属于「深渊教团」。\n地上之人对他们的称呼其实和本意略有偏差。\n「咏者」\n也有「读经士」\n之意。\n诵读恩典之章，便会拥有强大的力量。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "abyss_lector_violet_lightning",
+      "title": {
+        "ru": "Чтец Бездны: Пурпурная молния",
+        "en": "Abyss Lector: Violet Lightning",
+        "zh": "深渊咏者·紫电"
+      },
+      "icon": "assets/icons/enemies/common_enemies/abyss_lector_violet_lightning.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ, Инадзума",
+      "game_version": "1.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Чудовище Ордена Бездны, возносящее хвалу тьме и обуздавшее силы Электро.\nОни - учёные и проповедники Бездны.\nЗаставляя от раскатов грома дрожать бездонные ночи, они чёрной слизью мудрости наполняют сердца неверующих, а бесчисленными вспышками молний возвещают, что великие силы,\nразъедающие человеческий разум, совсем рядом.",
+        "en": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.\nThese are the evangelists and the scholars of the Abyss.\nTheir violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night,\nits violet glow proclaiming the existence of a great power that corrodes human intellect.",
+        "zh": "驱雷掣电，高颂着漆黑渊薮的魔物，隶属于「深渊教团」。\n它们是深渊的布道者、学士。\n以狂雷将冥冥长夜所扭曲的深黑智慧，灌入不信者的心中，以无边的紫电，昭告侵蚀人智的伟大力量的存在。"
+      },
+      "description": {
+        "ru": "Чудовище Ордена Бездны, возносящее хвалу тьме и обуздавшее силы Электро.\nОни - учёные и проповедники Бездны.\nЗаставляя от раскатов грома дрожать бездонные ночи, они чёрной слизью мудрости наполняют сердца неверующих, а бесчисленными вспышками молний возвещают, что великие силы,\nразъедающие человеческий разум, совсем рядом.",
+        "en": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.\nThese are the evangelists and the scholars of the Abyss.\nTheir violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night,\nits violet glow proclaiming the existence of a great power that corrodes human intellect.",
+        "zh": "驱雷掣电，高颂着漆黑渊薮的魔物，隶属于「深渊教团」。\n它们是深渊的布道者、学士。\n以狂雷将冥冥长夜所扭曲的深黑智慧，灌入不信者的心中，以无边的紫电，昭告侵蚀人智的伟大力量的存在。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "shadowy_husk_standard_bearer",
+      "title": {
+        "ru": "Чёрный доспех: Знаменосец",
+        "en": "Shadowy Husk: Standard Bearer",
+        "zh": "黯色空壳·旗令"
+      },
+      "icon": "assets/icons/enemies/common_enemies/shadowy_husk_standard_bearer.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ",
+      "game_version": "2.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Потемневший солдат. Когда-то он был гордым воином древнего подземного царства, но теперь утратил разум и память.\nНесмотря на это, он сражается с высоко поднятым знаменем королевского дома. Пусть уже забыт облик соратников и благословение королевской семьи, но никогда не спустится его флаг.",
+        "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it has now lost any awareness of memory.\nBut even so, it holds the banner of the royal house aloft into battle.\nThough it has forgotten its comrades or any royal blessing they might have been given, it will never lay this banner down.",
+        "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经失去了一切知觉与记忆吧。\n即使如此，也会高举着王家的旗号进行战斗。\n就算忘记了同侪的模样、王家的祝福，只有这枚旗印，对它而言是绝对不能放下的。"
+      },
+      "description": {
+        "ru": "Потемневший солдат. Когда-то он был гордым воином древнего подземного царства, но теперь утратил разум и память.\nНесмотря на это, он сражается с высоко поднятым знаменем королевского дома. Пусть уже забыт облик соратников и благословение королевской семьи, но никогда не спустится его флаг.",
+        "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it has now lost any awareness of memory.\nBut even so, it holds the banner of the royal house aloft into battle.\nThough it has forgotten its comrades or any royal blessing they might have been given, it will never lay this banner down.",
+        "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经失去了一切知觉与记忆吧。\n即使如此，也会高举着王家的旗号进行战斗。\n就算忘记了同侪的模样、王家的祝福，只有这枚旗印，对它而言是绝对不能放下的。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "shadowy_husk_line_breaker",
+      "title": {
+        "ru": "Чёрный доспех: Штурмовик",
+        "en": "Shadowy Husk: Line Breaker",
+        "zh": "黯色空壳·破阵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/shadowy_husk_line_breaker.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ",
+      "game_version": "2.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, утративший человеческий разум.\nЖелание уничтожить врага и защищаться, казалось бы, высечено в этой пустой оболочке, даже если не осталось никого, кто мог бы сказать, где враг и что защищать.",
+        "en": "A pitch-dark soldier.\nOnce a proud warrior of an ancient underground nation,\nit no longer has any \"intelligence\"that it may still be called \"human.\"Yet the desire to destroy the foe and plunge into battle to defend others is etched into this empty suit of\narmor,\neven if no one remains to tell it where the enemy is or who or what exactly must be defended.",
+        "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经不再具备身为「人」\n的智性了。\n为了歼敌、为了守护而陷阵的意志似乎仍然刻在这幅空壳当中，就算已经没有人能告诉它们敌在何方，要守护的又是什么。"
+      },
+      "description": {
+        "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, утративший человеческий разум.\nЖелание уничтожить врага и защищаться, казалось бы, высечено в этой пустой оболочке, даже если не осталось никого, кто мог бы сказать, где враг и что защищать.",
+        "en": "A pitch-dark soldier.\nOnce a proud warrior of an ancient underground nation,\nit no longer has any \"intelligence\"that it may still be called \"human.\"Yet the desire to destroy the foe and plunge into battle to defend others is etched into this empty suit of\narmor,\neven if no one remains to tell it where the enemy is or who or what exactly must be defended.",
+        "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经不再具备身为「人」\n的智性了。\n为了歼敌、为了守护而陷阵的意志似乎仍然刻在这幅空壳当中，就算已经没有人能告诉它们敌在何方，要守护的又是什么。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "shadowy_husk_defender",
+      "title": {
+        "ru": "Чёрный доспех: Гвардеец",
+        "en": "Shadowy Husk: Defender",
+        "zh": "黯色空壳·近卫"
+      },
+      "icon": "assets/icons/enemies/common_enemies/shadowy_husk_defender.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ",
+      "game_version": "2.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, но теперь это лишь пустая оболочки с воспоминаниями о битве.\nВ конце всё сущее придёт в упадок. Эта пустая оболочка - то, во что превратился Рыцарь Чёрного Змея под гнётом греха, проклятия и времени.",
+        "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it is now nothing but a husk that only bears memories of battle.\nAll shall decay in the end, and this is all that is left of the Black Serpent Knights amidst the merciless march of their sins, curses, and time itself.",
+        "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今不过是一具残留着战斗记忆的空壳罢了。\n万物尽头皆是废退，而这种空壳就是「黑蛇骑士」\n在罪、诅咒、时间的冲刷之下变成的模样。"
+      },
+      "description": {
+        "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, но теперь это лишь пустая оболочки с воспоминаниями о битве.\nВ конце всё сущее придёт в упадок. Эта пустая оболочка - то, во что превратился Рыцарь Чёрного Змея под гнётом греха, проклятия и времени.",
+        "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it is now nothing but a husk that only bears memories of battle.\nAll shall decay in the end, and this is all that is left of the Black Serpent Knights amidst the merciless march of their sins, curses, and time itself.",
+        "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今不过是一具残留着战斗记忆的空壳罢了。\n万物尽头皆是废退，而这种空壳就是「黑蛇骑士」\n在罪、诅咒、时间的冲刷之下变成的模样。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "black_serpent_knight_windcutter",
+      "title": {
+        "ru": "Рыцарь Чёрного Змея: Разрезающий ветер",
+        "en": "Black Serpent Knight: Windcutter",
+        "zh": "黑蛇骑士·斩风之剑"
+      },
+      "icon": "assets/icons/enemies/common_enemies/black_serpent_knight_windcutter.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ",
+      "game_version": "2.6",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Высокопоставленные императорские гвардейцы расправлялись с врагами правителей с помощью фехтовального искусства, известного под названием «Искатель истины».\nСумеречный Меч некогда был из их числа. Но слава этих земель угасла, и прошлого уже не вернуть.",
+        "en": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\"The Twilight Sword was once one of their number.\nThat realm's glory has been extinguished, never again to be reclaimed.",
+        "zh": "在宫廷当中颇具地位的近卫军人，以名唤「至真之术」\n的剑斗技巧，扫除王家的敌人。\n「末光之剑」\n也曾是他们当中的一员。\n在王国的光荣尽数失落、一切都无可挽回之前。"
+      },
+      "description": {
+        "ru": "Высокопоставленные императорские гвардейцы расправлялись с врагами правителей с помощью фехтовального искусства, известного под названием «Искатель истины».\nСумеречный Меч некогда был из их числа. Но слава этих земель угасла, и прошлого уже не вернуть.",
+        "en": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\"The Twilight Sword was once one of their number.\nThat realm's glory has been extinguished, never again to be reclaimed.",
+        "zh": "在宫廷当中颇具地位的近卫军人，以名唤「至真之术」\n的剑斗技巧，扫除王家的敌人。\n「末光之剑」\n也曾是他们当中的一员。\n在王国的光荣尽数失落、一切都无可挽回之前。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 7,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "gloomy_statuette",
+      "title": {
+        "ru": "Мрачная статуэтка",
+        "en": "Gloomy Statuette",
+        "zh": "晦暗刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+      "text": {
+        "ru": "Статуэтка, сделанная по подобию неизвестного человека. Хоть она и повидала многое, повреждений на ней нет.\nПохоже, бывший владелец оберегал её так, будто это некое священное изваяние.",
+        "en": "An idol made in the likeness of some unknown person.\nEven though this carving has seen many years pass, it still has not been damaged in any way.\nIt seems that its previous owner must have cherished it like some holy icon.",
+        "zh": "刻画着某人形象的小塑像。\n即使经过了长久的岁月，也没有受到任何损伤。似乎被原本的主人如同圣象一般呵护着。"
+      }
+    },
+    {
+      "key": "dark_statuette",
+      "title": {
+        "ru": "Тёмная статуэтка",
+        "en": "Dark Statuette",
+        "zh": "夤夜刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/dark_statuette.webp",
+      "text": {
+        "ru": "Статуэтка, сделанная по подобию неизвестного с одним глазом.\nВ вашей руке она источает необычное тепло, словно вы держите доброго друга за плечо.\nМожет быть, она даст храбрость идти дальше тем, кто понимает её сокровенное значение.",
+        "en": "An idol made in the likeness of some unknown, one-eyed person.\nYou can feel a strange warmth emanating from within as you hold onto it, like the shoulder of a dear friend.\nPerhaps this icon can indeed give people who understand its significance the courage to carry on.",
+        "zh": "刻画着某人形象的独目偶像。\n握在手中时似乎能感受到其中散发的丝丝暖意，就像挚友的臂膀那般。或许能给予明白雕像背后个中含义的人持续前进的勇气吧。"
+      }
+    },
+    {
+      "key": "deathly_statuette",
+      "title": {
+        "ru": "Смертельная статуэтка",
+        "en": "Deathly Statuette",
+        "zh": "幽邃刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/deathly_statuette.webp",
+      "text": {
+        "ru": "Одноглазая резная статуэтка, излучающая злую энергию. Из чего она на сделана, совершенно неизвестно.\nКогда вы на неё смотрите, то словно слышите странный успокаивающий шёпот...\n«Посмотри, дитя моё. Всё под троном небесным уничтожит потрясение, и нас всех поглотит вечный покой кромешной тьмы».",
+        "en": "A one-eyed carving that emanates an ominous energy, with no indication of what it's made of.\nAs you gaze upon this idol, you can almost hear a strange, comforting whisper...\n\"See, my child. All that lies under the throne of heaven shall be destroyed by upheaval.\nThe eternal peace of the pitch-dark void shall embrace us all.\"",
+        "zh": "微微散发着不详的能量的独目刻像，是以何种材质制成则完全不可知。\n凝视着这尊偶像时，似乎能听见令人心情宁静的奇妙低语…\n「看吧，我的孩子。天之座下的万物终将在动荡中消亡。永远宁静的漆黑深空会包容一切。」"
+      }
+    }
+  ],
+  "material_count": 3
+}

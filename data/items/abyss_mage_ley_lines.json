@@ -1,0 +1,720 @@
+{
+  "id": "abyss_mage_ley_lines",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+  "title": {
+    "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+    "en": "Ley Lines",
+    "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Dead Ley Line Branch",
+    "Dead Ley Line Leaves",
+    "Ley Line Sprout",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "pyro_abyss_mage",
+    "hydro_abyss_mage",
+    "electro_abyss_mage",
+    "cryo_abyss_mage",
+    "abyss_herald_wicked_torrents",
+    "abyss_lector_fathomless_flames",
+    "abyss_lector_violet_lightning"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "pyro_abyss_mage",
+      "title": {
+        "ru": "Пиро маг Бездны",
+        "en": "Pyro Abyss Mage",
+        "zh": "火深渊法师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/pyro_abyss_mage.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Маги Бездны, которые сражаются с помощью Пиро магии.\nПо неизвестным причинам маги Бездны могут общаться с хиличурлами, что позволяет им легко манипулировать их разумом.\nОни говорят на давно забытом языке, из которого черпают свои волшебные силы.",
+        "en": "Abyss creatures who command the power of Pyro in battle.\nFor unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily.\nThey say that Abyss Mages utter a long-forgotten language from which they draw magical power.",
+        "zh": "拥有魔力，利用火元素战斗的深渊魔物。\n出于某种不为人知的缘由，深渊法师精通丘丘人的笨拙语言，能驾驭它们的心智。\n据说深渊法师略通如今几乎无人可解的失落古语，并利用这种语言的力量行使魔法。"
+      },
+      "description": {
+        "ru": "Маги Бездны, которые сражаются с помощью Пиро магии.\nПо неизвестным причинам маги Бездны могут общаться с хиличурлами, что позволяет им легко манипулировать их разумом.\nОни говорят на давно забытом языке, из которого черпают свои волшебные силы.",
+        "en": "Abyss creatures who command the power of Pyro in battle.\nFor unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily.\nThey say that Abyss Mages utter a long-forgotten language from which they draw magical power.",
+        "zh": "拥有魔力，利用火元素战斗的深渊魔物。\n出于某种不为人知的缘由，深渊法师精通丘丘人的笨拙语言，能驾驭它们的心智。\n据说深渊法师略通如今几乎无人可解的失落古语，并利用这种语言的力量行使魔法。"
+      },
+      "drops": [
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "hydro_abyss_mage",
+      "title": {
+        "ru": "Гидро маг Бездны",
+        "en": "Hydro Abyss Mage",
+        "zh": "水深渊法师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hydro_abyss_mage.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Порождение Бездны, использующее Гидро энергию в сражениях.\nСреди искателей приключений бытует мнение, что маги Бездны находятся на дне иерархии Ордена Бездны.\nОни скитаются по разным уголкам континента и стремятся уничтожить всё.\nПриключенцы часто шутят про этих магов и говорят, что они способны вызвать лишь простуду или ревматизм.\nНо не стоит недооценивать опасность этих созданий.",
+        "en": "Abyss creatures that utilize Hydro energy in battle.\nStories circulate among adventurers that Abyss Mages are at the lowest rung of the Abyss Order's hierarchy and that they roam the various lands to scheme fell deeds of destruction.\nThough they also often make fun of these Abyss Mages, saying that the most harm they can do is to cause rheumatism or a common cold, their power is not to be underestimated.",
+        "zh": "利用水元素战斗的深渊魔物。\n在冒险者当中有传说说，深渊法师作为「深渊教团」\n底层的执行者，活跃在世界各地、从事各种阴谋破坏。\n尽管他们还戏称这种水深渊法师的最大危害是会导致风湿发作，其实它们有着不容小觑的力量。"
+      },
+      "description": {
+        "ru": "Порождение Бездны, использующее Гидро энергию в сражениях.\nСреди искателей приключений бытует мнение, что маги Бездны находятся на дне иерархии Ордена Бездны.\nОни скитаются по разным уголкам континента и стремятся уничтожить всё.\nПриключенцы часто шутят про этих магов и говорят, что они способны вызвать лишь простуду или ревматизм.\nНо не стоит недооценивать опасность этих созданий.",
+        "en": "Abyss creatures that utilize Hydro energy in battle.\nStories circulate among adventurers that Abyss Mages are at the lowest rung of the Abyss Order's hierarchy and that they roam the various lands to scheme fell deeds of destruction.\nThough they also often make fun of these Abyss Mages, saying that the most harm they can do is to cause rheumatism or a common cold, their power is not to be underestimated.",
+        "zh": "利用水元素战斗的深渊魔物。\n在冒险者当中有传说说，深渊法师作为「深渊教团」\n底层的执行者，活跃在世界各地、从事各种阴谋破坏。\n尽管他们还戏称这种水深渊法师的最大危害是会导致风湿发作，其实它们有着不容小觑的力量。"
+      },
+      "drops": [
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "electro_abyss_mage",
+      "title": {
+        "ru": "Электро маг Бездны",
+        "en": "Electro Abyss Mage",
+        "zh": "雷深渊法师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_abyss_mage.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Чудовища из Бездны, использующие энергию Электро в бою.\nВо время обучения в Академии, исследователь Никола Альва однажды провёл систематическое исследование модели энергии Электро, используемой магами Бездны,\nи придумал теоретическое оружие, под названием «Катушка Николы».\nНо оно так и не было реализовано на практике.\nПо одной из версий, материалы его исследований были съедены грибковыми монстрами во время потопа.",
+        "en": "Abyss creatures that utilize Electro in battles.\nWhile studying at the Akademiya,\nresearcher Alva Nikola once conducted a systematic study of the methods by which Electro Abyss Mages manipulate Electro and came up with a theoretical weapon known as the Nikola\nCoil.\nHowever, it has yet to be put into practice.\nSome say that his research materials were eaten during a fungal infestation.",
+        "zh": "利用雷元素战斗的深渊魔物。\n曾经有一名学者阿尔瓦·尼古拉，在教令院学习时曾对雷深渊法师使用的雷元素模型进行过系统的研究，最终提出了名为「尼古拉线圈」\n的理论武器，可惜至今无人将其付诸实践。\n一说认为他的研究资料在蕈兽泛滥的时候被吃掉了。"
+      },
+      "description": {
+        "ru": "Чудовища из Бездны, использующие энергию Электро в бою.\nВо время обучения в Академии, исследователь Никола Альва однажды провёл систематическое исследование модели энергии Электро, используемой магами Бездны,\nи придумал теоретическое оружие, под названием «Катушка Николы».\nНо оно так и не было реализовано на практике.\nПо одной из версий, материалы его исследований были съедены грибковыми монстрами во время потопа.",
+        "en": "Abyss creatures that utilize Electro in battles.\nWhile studying at the Akademiya,\nresearcher Alva Nikola once conducted a systematic study of the methods by which Electro Abyss Mages manipulate Electro and came up with a theoretical weapon known as the Nikola\nCoil.\nHowever, it has yet to be put into practice.\nSome say that his research materials were eaten during a fungal infestation.",
+        "zh": "利用雷元素战斗的深渊魔物。\n曾经有一名学者阿尔瓦·尼古拉，在教令院学习时曾对雷深渊法师使用的雷元素模型进行过系统的研究，最终提出了名为「尼古拉线圈」\n的理论武器，可惜至今无人将其付诸实践。\n一说认为他的研究资料在蕈兽泛滥的时候被吃掉了。"
+      },
+      "drops": [
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cryo_abyss_mage",
+      "title": {
+        "ru": "Крио маг Бездны",
+        "en": "Cryo Abyss Mage",
+        "zh": "冰深渊法师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_abyss_mage.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Создание Бездны, способное использовать в бою Крио силы.\nОни наделены огромной мощью и даже могут создавать сосульки из рассеянной в атмосфере воды, однако их хрупкие тела весьма уязвимы.\nКак только падёт их защитный барьер, они начнут молить вас о пощаде.",
+        "en": "Abyss creatures that call upon Cryo in battle.\nThough they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves.\nOnce their protective barrier has been broken, they are at your mercy.",
+        "zh": "驾驭着极寒的冰元素进行战斗的深渊魔物。\n尽管染指了强大的力量，甚至能将大气中的水蒸气凝结成冰锥，本身却佝偻而孱弱。\n一旦保护自身的护罩被打破，就只能任人鱼肉了。"
+      },
+      "description": {
+        "ru": "Создание Бездны, способное использовать в бою Крио силы.\nОни наделены огромной мощью и даже могут создавать сосульки из рассеянной в атмосфере воды, однако их хрупкие тела весьма уязвимы.\nКак только падёт их защитный барьер, они начнут молить вас о пощаде.",
+        "en": "Abyss creatures that call upon Cryo in battle.\nThough they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves.\nOnce their protective barrier has been broken, they are at your mercy.",
+        "zh": "驾驭着极寒的冰元素进行战斗的深渊魔物。\n尽管染指了强大的力量，甚至能将大气中的水蒸气凝结成冰锥，本身却佝偻而孱弱。\n一旦保护自身的护罩被打破，就只能任人鱼肉了。"
+      },
+      "drops": [
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "abyss_herald_wicked_torrents",
+      "title": {
+        "ru": "Вестник Бездны: Злые течения",
+        "en": "Abyss Herald: Wicked Torrents",
+        "zh": "深渊使徒·激流"
+      },
+      "icon": "assets/icons/enemies/common_enemies/abyss_herald_wicked_torrents.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ, Инадзума",
+      "game_version": "1.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Чудовище Ордена Бездны, способное использовать в бою силы Гидро.\nЭти молчаливые создания - авангард Бездны.\nИх Клинки прибоя сметают всё на своём пути, сокрушая доспехи и истребляя еретиков.\nБеспечным глупцам не уйти от предначертанного судьбой наказания.",
+        "en": "Servants of the Abyss Order that use Hydro in combat.\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics.\nThey shall bring preordained damnation upon the foolish masses.",
+        "zh": "利用水元素战斗的魔物，隶属于「深渊教团」。\n这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。"
+      },
+      "description": {
+        "ru": "Чудовище Ордена Бездны, способное использовать в бою силы Гидро.\nЭти молчаливые создания - авангард Бездны.\nИх Клинки прибоя сметают всё на своём пути, сокрушая доспехи и истребляя еретиков.\nБеспечным глупцам не уйти от предначертанного судьбой наказания.",
+        "en": "Servants of the Abyss Order that use Hydro in combat.\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics.\nThey shall bring preordained damnation upon the foolish masses.",
+        "zh": "利用水元素战斗的魔物，隶属于「深渊教团」。\n这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "abyss_lector_fathomless_flames",
+      "title": {
+        "ru": "Чтец Бездны: Пламя бездны",
+        "en": "Abyss Lector: Fathomless Flames",
+        "zh": "深渊咏者·渊火"
+      },
+      "icon": "assets/icons/enemies/common_enemies/abyss_lector_fathomless_flames.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ, Инадзума",
+      "game_version": "2.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Управляющий огнём Бездны монстр, который стремится постигнуть смысл магических писаний. Принадлежит ордену Бездны.\nОбычные люди называют этих существ «Чтецами», но истинное значение их прозвища несколько иное.\n«Чтец» также означает «учёный».\nОни считают, что чтение магических писаний делает их сильнее.",
+        "en": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\nThe surface people have a slightly distorted understanding of what their name means,\ncalling them \"Lectors,\"when their name can also mean \"exegete.\"Reading the word of grace grants them great power.",
+        "zh": "驱使深渊之火，追寻着章典之意义的魔物。\n隶属于「深渊教团」。\n地上之人对他们的称呼其实和本意略有偏差。\n「咏者」\n也有「读经士」\n之意。\n诵读恩典之章，便会拥有强大的力量。"
+      },
+      "description": {
+        "ru": "Управляющий огнём Бездны монстр, который стремится постигнуть смысл магических писаний. Принадлежит ордену Бездны.\nОбычные люди называют этих существ «Чтецами», но истинное значение их прозвища несколько иное.\n«Чтец» также означает «учёный».\nОни считают, что чтение магических писаний делает их сильнее.",
+        "en": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\nThe surface people have a slightly distorted understanding of what their name means,\ncalling them \"Lectors,\"when their name can also mean \"exegete.\"Reading the word of grace grants them great power.",
+        "zh": "驱使深渊之火，追寻着章典之意义的魔物。\n隶属于「深渊教团」。\n地上之人对他们的称呼其实和本意略有偏差。\n「咏者」\n也有「读经士」\n之意。\n诵读恩典之章，便会拥有强大的力量。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "abyss_lector_violet_lightning",
+      "title": {
+        "ru": "Чтец Бездны: Пурпурная молния",
+        "en": "Abyss Lector: Violet Lightning",
+        "zh": "深渊咏者·紫电"
+      },
+      "icon": "assets/icons/enemies/common_enemies/abyss_lector_violet_lightning.webp",
+      "enemy_group": "abyss",
+      "region": "Ли Юэ, Инадзума",
+      "game_version": "1.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Чудовище Ордена Бездны, возносящее хвалу тьме и обуздавшее силы Электро.\nОни - учёные и проповедники Бездны.\nЗаставляя от раскатов грома дрожать бездонные ночи, они чёрной слизью мудрости наполняют сердца неверующих, а бесчисленными вспышками молний возвещают, что великие силы,\nразъедающие человеческий разум, совсем рядом.",
+        "en": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.\nThese are the evangelists and the scholars of the Abyss.\nTheir violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night,\nits violet glow proclaiming the existence of a great power that corrodes human intellect.",
+        "zh": "驱雷掣电，高颂着漆黑渊薮的魔物，隶属于「深渊教团」。\n它们是深渊的布道者、学士。\n以狂雷将冥冥长夜所扭曲的深黑智慧，灌入不信者的心中，以无边的紫电，昭告侵蚀人智的伟大力量的存在。"
+      },
+      "description": {
+        "ru": "Чудовище Ордена Бездны, возносящее хвалу тьме и обуздавшее силы Электро.\nОни - учёные и проповедники Бездны.\nЗаставляя от раскатов грома дрожать бездонные ночи, они чёрной слизью мудрости наполняют сердца неверующих, а бесчисленными вспышками молний возвещают, что великие силы,\nразъедающие человеческий разум, совсем рядом.",
+        "en": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.\nThese are the evangelists and the scholars of the Abyss.\nTheir violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night,\nits violet glow proclaiming the existence of a great power that corrodes human intellect.",
+        "zh": "驱雷掣电，高颂着漆黑渊薮的魔物，隶属于「深渊教团」。\n它们是深渊的布道者、学士。\n以狂雷将冥冥长夜所扭曲的深黑智慧，灌入不信者的心中，以无边的紫电，昭告侵蚀人智的伟大力量的存在。"
+      },
+      "drops": [
+        {
+          "id": "abyss_herald_wicked_torrents_statuettes",
+          "title": {
+            "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+            "en": "Statuettes",
+            "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.6",
+          "materials": [
+            {
+              "key": "gloomy_statuette",
+              "title": {
+                "ru": "Мрачная статуэтка",
+                "en": "Gloomy Statuette",
+                "zh": "晦暗刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+            },
+            {
+              "key": "dark_statuette",
+              "title": {
+                "ru": "Тёмная статуэтка",
+                "en": "Dark Statuette",
+                "zh": "夤夜刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+            },
+            {
+              "key": "deathly_statuette",
+              "title": {
+                "ru": "Смертельная статуэтка",
+                "en": "Deathly Statuette",
+                "zh": "幽邃刻像"
+              },
+              "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "abyss_mage_ley_lines",
+          "title": {
+            "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+            "en": "Ley Lines",
+            "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "dead_ley_line_branch",
+              "title": {
+                "ru": "Ветви артерий земли",
+                "en": "Dead Ley Line Branch",
+                "zh": "地脉的旧枝"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+            },
+            {
+              "key": "dead_ley_line_leaves",
+              "title": {
+                "ru": "Листья артерий земли",
+                "en": "Dead Ley Line Leaves",
+                "zh": "地脉的枯叶"
+              },
+              "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+            },
+            {
+              "key": "ley_line_sprout",
+              "title": {
+                "ru": "Ростки артерий земли",
+                "en": "Ley Line Sprout",
+                "zh": "地脉的新芽"
+              },
+              "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 7,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "dead_ley_line_branch",
+      "title": {
+        "ru": "Ветви артерий земли",
+        "en": "Dead Ley Line Branch",
+        "zh": "地脉的旧枝"
+      },
+      "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+      "text": {
+        "ru": "Хрупкие ветви из глубин земли. Даже спустя годы, из-под пятнистой поверхности видно, что их сила ещё не полностью утеряна.",
+        "en": "Fragile branches from deep within the earth.\nEven after years of aging, from beneath it's mottled surface you can see that its power is not yet entirely lost.",
+        "zh": "来自深邃地底的脆弱枯枝。即使饱经岁月，也能从斑驳的树皮下，看出尚未散尽的力量。"
+      }
+    },
+    {
+      "key": "dead_ley_line_leaves",
+      "title": {
+        "ru": "Листья артерий земли",
+        "en": "Dead Ley Line Leaves",
+        "zh": "地脉的枯叶"
+      },
+      "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp",
+      "text": {
+        "ru": "Ветви из глубин земной поверхности. Хоть и далеко от того места, где когда-то лежали, они всё ещё пульсируют энергией.",
+        "en": "A twig from deep within the earth. Though it is far from where it once lay, its leaves still pulsate with energy.",
+        "zh": "来自深邃地底的植物枝条。即使远离它的原主，其中也残留着低沉脉动的力量。"
+      }
+    },
+    {
+      "key": "ley_line_sprout",
+      "title": {
+        "ru": "Ростки артерий земли",
+        "en": "Ley Line Sprout",
+        "zh": "地脉的新芽"
+      },
+      "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp",
+      "text": {
+        "ru": "Говорят, что гигантские корни мирового древа расползаются под поверхностью всей земли, и этот росток когда-то был их частью.\nОн полон жизненной силы, как будто всё ещё связан со своими материнскими корнями.",
+        "en": "It is said that there was a great tree whose roots once spread out to every corner of the world, and this branch is said to be part of it.\nIt is almost if it was never broken off and taken far away, for its vitality is such that it still sprouts new leaves even now.",
+        "zh": "据说有一株巨木曾经贯彻了世界的各处；据说这枝是它的一部分。仿佛从未被人折下带到遥远的地表，仍然充满了勃发的生机，长出了新叶。"
+      }
+    }
+  ],
+  "material_count": 3
+}

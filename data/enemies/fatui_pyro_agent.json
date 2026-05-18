@@ -31,7 +31,92 @@
     "en": "A Fatui secret agent.\nThe duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature.\nThey also ensure dues are paid when it comes to the principle of \"an eye for an eye.\"If there is one thing the Fatui are not known for, it is leniency,\nand whoever dares to oppose them will invoke the full force of their wrath.",
     "zh": "隶属愚人众的特务人员。\n债务处理人所处理的「债务」，并不局限于钱货往来的清算。\n「以眼还眼，以牙还牙」\n也是一种债。\n无论是谁，只要损害了愚人众的利益，那就要十倍奉还。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "fatui_pyro_agent_sacrificial_knifes",
+      "title": {
+        "ru": "Церемониальный нож охотника / Церемониальный нож агента / Церемониальный нож инспектора",
+        "en": "Sacrificial Knifes",
+        "zh": "猎兵祭刀 / 特工祭刀 / 督察长祭刀"
+      },
+      "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "hunters_sacrificial_knife",
+          "title": {
+            "ru": "Церемониальный нож охотника",
+            "en": "Hunter's Sacrificial Knife",
+            "zh": "猎兵祭刀"
+          },
+          "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp"
+        },
+        {
+          "key": "agents_sacrificial_knife",
+          "title": {
+            "ru": "Церемониальный нож агента",
+            "en": "Agent's Sacrificial Knife",
+            "zh": "特工祭刀"
+          },
+          "icon": "assets/icons/items/common_enemies/agents_sacrificial_knife.webp"
+        },
+        {
+          "key": "inspectors_sacrificial_knife",
+          "title": {
+            "ru": "Церемониальный нож инспектора",
+            "en": "Inspector's Sacrificial Knife",
+            "zh": "督察长祭刀"
+          },
+          "icon": "assets/icons/items/common_enemies/inspectors_sacrificial_knife.webp"
+        }
+      ],
+      "material_count": 3
+    },
+    {
+      "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+      "title": {
+        "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+        "en": "Insignias",
+        "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "recruits_insignia",
+          "title": {
+            "ru": "Шеврон рядового",
+            "en": "Recruit's Insignia",
+            "zh": "新兵的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+        },
+        {
+          "key": "sergeants_insignia",
+          "title": {
+            "ru": "Шеврон сержанта",
+            "en": "Sergeant's Insignia",
+            "zh": "士官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+        },
+        {
+          "key": "lieutenants_insignia",
+          "title": {
+            "ru": "Шеврон офицера",
+            "en": "Lieutenant's Insignia",
+            "zh": "尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

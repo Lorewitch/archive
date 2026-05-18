@@ -31,7 +31,50 @@
     "en": "A young vishap with a hard Geo exoskeleton.\nVishaps are exceptionally agile creatures that one would be wise not to underestimate in battle.\nExperts from Sumeru Akademiya believe that they become dragons when fully grown.\nBy avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.",
     "zh": "有着坚硬岩质甲壳的小型龙蜥。\n行动非常灵活，是不容小觑的对手。\n须弥教令院的研究认为，即使是这种幼兽，也有成为「龙」\n的潜质。\n假以时日，如果不受天灾与敌害，或许也有一天能成为撼动高山的巨大魔物吧。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "geovishap_bone_shards",
+      "title": {
+        "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+        "en": "Bone Shards",
+        "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+      },
+      "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "fragile_bone_shard",
+          "title": {
+            "ru": "Хрупкие останки",
+            "en": "Fragile Bone Shard",
+            "zh": "脆弱的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+        },
+        {
+          "key": "sturdy_bone_shard",
+          "title": {
+            "ru": "Крепкие останки",
+            "en": "Sturdy Bone Shard",
+            "zh": "结实的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+        },
+        {
+          "key": "fossilized_bone_shard",
+          "title": {
+            "ru": "Окаменевшие останки",
+            "en": "Fossilized Bone Shard",
+            "zh": "石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

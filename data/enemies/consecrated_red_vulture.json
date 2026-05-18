@@ -31,7 +31,50 @@
     "en": "A scavenging bird of prey that has mutated after feeding from greater lifeforms.\nThe greater lifeforms devoured by Consecrated Beasts often have nigh-immortal consciousness that can never be fully silenced or eradicated.\nThe very power and consciousness gained by Consecrated Beasts devouring these lifeforms will, in turn, drive them to seek more violence and carrion.",
     "zh": "因为啃噬伟大的生命体，而扭曲异变的食腐猛禽。\n圣骸兽所吞食的尸骸当中，常常夹杂着有永远无法陷入沉寂的意志。\n而这些意志与力量又会驱使它无穷尽地渴求厮杀与亡骸。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "consecrated_horned_crocodile_shells",
+      "title": {
+        "ru": "Опустошённая оболочка / Прочная оболочка / Меченая оболочка",
+        "en": "Shells",
+        "zh": "残毁的横脊 / 密固的横脊 / 锲纹的横脊"
+      },
+      "icon": "assets/icons/items/common_enemies/desiccated_shell.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.1",
+      "materials": [
+        {
+          "key": "desiccated_shell",
+          "title": {
+            "ru": "Опустошённая оболочка",
+            "en": "Desiccated Shell",
+            "zh": "残毁的横脊"
+          },
+          "icon": "assets/icons/items/common_enemies/desiccated_shell.webp"
+        },
+        {
+          "key": "sturdy_shell",
+          "title": {
+            "ru": "Прочная оболочка",
+            "en": "Sturdy Shell",
+            "zh": "密固的横脊"
+          },
+          "icon": "assets/icons/items/common_enemies/sturdy_shell.webp"
+        },
+        {
+          "key": "marked_shell",
+          "title": {
+            "ru": "Меченая оболочка",
+            "en": "Marked Shell",
+            "zh": "锲纹的横脊"
+          },
+          "icon": "assets/icons/items/common_enemies/marked_shell.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

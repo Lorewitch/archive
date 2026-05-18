@@ -31,7 +31,50 @@
     "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nHaving pursued the path of a martial artist for a long time, they possess highly advanced sword skills but no longer use them for good.\nSometimes, they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
     "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n作为常年行走在武道上的人，有着精湛的剑术，如今却不将其用于正道。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "nobushi_jintouban_handguards",
+      "title": {
+        "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+        "en": "Handguards",
+        "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+      },
+      "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.0",
+      "materials": [
+        {
+          "key": "old_handguard",
+          "title": {
+            "ru": "Старая гарда",
+            "en": "Old Handguard",
+            "zh": "破旧的刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/old_handguard.webp"
+        },
+        {
+          "key": "kageuchi_handguard",
+          "title": {
+            "ru": "Гарда кагэути",
+            "en": "Kageuchi Handguard",
+            "zh": "影打刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp"
+        },
+        {
+          "key": "famed_handguard",
+          "title": {
+            "ru": "Прославленная гарда",
+            "en": "Famed Handguard",
+            "zh": "名刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/famed_handguard.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "A clockwork meka designed to transmit and enhance signals.\nThe power that drives this clockwork meka is generated from a controlled annihilation reaction between ousia and pneuma in the kinetic core.\nAs a result, overloading it with excessive energy will cause its original equilibrium to be disrupted.",
     "zh": "以中继并增幅信号为目的，设计制造的发条机关。\n驱动发条机关的能源是通过荒性与芒性在动力核心内部进行可控湮灭反应而产生的。\n因此向其释放过度的能量会导致原本的平衡被打破。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "recon_log_mek_gears",
+      "title": {
+        "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+        "en": "Gears",
+        "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "meshing_gear",
+          "title": {
+            "ru": "Сцепляющаяся шестерня",
+            "en": "Meshing Gear",
+            "zh": "啮合齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+        },
+        {
+          "key": "mechanical_spur_gear",
+          "title": {
+            "ru": "Шестерня механизма",
+            "en": "Mechanical Spur Gear",
+            "zh": "机关正齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+        },
+        {
+          "key": "artificed_dynamic_gear",
+          "title": {
+            "ru": "Изощрённая динамическая шестерня",
+            "en": "Artificed Dynamic Gear",
+            "zh": "奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

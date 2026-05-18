@@ -1,0 +1,378 @@
+{
+  "id": "rockfond_rifthound_concealeds",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+  "title": {
+    "ru": "Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь",
+    "en": "Concealeds",
+    "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "2.2",
+  "tags": [
+    "Concealed Claw",
+    "Concealed Unguis",
+    "Concealed Talon",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "rockfond_rifthound_whelp",
+    "thundercraven_rifthound_whelp",
+    "rockfond_rifthound",
+    "thundercraven_rifthound"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "rockfond_rifthound_whelp",
+      "title": {
+        "ru": "Щенок Разрыва: Камнегрыз",
+        "en": "Rockfond Rifthound Whelp",
+        "zh": "嗜岩·兽境幼兽"
+      },
+      "icon": "assets/icons/enemies/common_enemies/rockfond_rifthound_whelp.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Звери с демонической кровью, способные стирать границы между мирами. «Золото» классифицирует их как «Элювий».\nОни следуют за надвигающейся бездной, чтобы пожирать стихии. К счастью, в этом мире их осталось немного.",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\"Gold\"classified them as \"Alfisol.\"They follow the encroaching abyss to devour the elements.\nFortunately, there are few of them left now in this world.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n将其命名为「淋溶」。\n有伴随渊薮的渗透，吞噬元素的习性。\n值得庆幸的是这些魔兽如今数量并不多。"
+      },
+      "description": {
+        "ru": "Звери с демонической кровью, способные стирать границы между мирами. «Золото» классифицирует их как «Элювий».\nОни следуют за надвигающейся бездной, чтобы пожирать стихии. К счастью, в этом мире их осталось немного.",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\"Gold\"classified them as \"Alfisol.\"They follow the encroaching abyss to devour the elements.\nFortunately, there are few of them left now in this world.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n将其命名为「淋溶」。\n有伴随渊薮的渗透，吞噬元素的习性。\n值得庆幸的是这些魔兽如今数量并不多。"
+      },
+      "drops": [
+        {
+          "id": "rockfond_rifthound_concealeds",
+          "title": {
+            "ru": "Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь",
+            "en": "Concealeds",
+            "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.2",
+          "materials": [
+            {
+              "key": "concealed_claw",
+              "title": {
+                "ru": "Скрытый коготь",
+                "en": "Concealed Claw",
+                "zh": "隐兽指爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_claw.webp"
+            },
+            {
+              "key": "concealed_unguis",
+              "title": {
+                "ru": "Скрытый заточенный коготь",
+                "en": "Concealed Unguis",
+                "zh": "隐兽利爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_unguis.webp"
+            },
+            {
+              "key": "concealed_talon",
+              "title": {
+                "ru": "Скрытый дьявольский коготь",
+                "en": "Concealed Talon",
+                "zh": "隐兽鬼爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_talon.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "thundercraven_rifthound_whelp",
+      "title": {
+        "ru": "Щенок Разрыва: Громоед",
+        "en": "Thundercraven Rifthound Whelp",
+        "zh": "嗜雷·兽境幼兽"
+      },
+      "icon": "assets/icons/enemies/common_enemies/thundercraven_rifthound_whelp.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Звери с демонической кровью, способные стирать границы между мирами. «Золото» классифицирует их как «Альфисол».\nВ ушедшую эпоху, когда на землю спускались гигантские чудовища, множество гончих шли перед ними, чтобы разорвать границы между мирами и открыть путь.",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\"Gold\"classified them as \"Alfisol.\"The previous eras, when giant monstrous beasts descended,\nlarge swarms of these hounds would go before them to deliquesce the borders of the world and open the way.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n将其命名为「淋溶」。\n曾经的年代里，巨大的魔兽降临之时，会有大量猎犬提前显现，溶解世界的边界，打开通道。"
+      },
+      "description": {
+        "ru": "Звери с демонической кровью, способные стирать границы между мирами. «Золото» классифицирует их как «Альфисол».\nВ ушедшую эпоху, когда на землю спускались гигантские чудовища, множество гончих шли перед ними, чтобы разорвать границы между мирами и открыть путь.",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\"Gold\"classified them as \"Alfisol.\"The previous eras, when giant monstrous beasts descended,\nlarge swarms of these hounds would go before them to deliquesce the borders of the world and open the way.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n将其命名为「淋溶」。\n曾经的年代里，巨大的魔兽降临之时，会有大量猎犬提前显现，溶解世界的边界，打开通道。"
+      },
+      "drops": [
+        {
+          "id": "rockfond_rifthound_concealeds",
+          "title": {
+            "ru": "Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь",
+            "en": "Concealeds",
+            "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.2",
+          "materials": [
+            {
+              "key": "concealed_claw",
+              "title": {
+                "ru": "Скрытый коготь",
+                "en": "Concealed Claw",
+                "zh": "隐兽指爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_claw.webp"
+            },
+            {
+              "key": "concealed_unguis",
+              "title": {
+                "ru": "Скрытый заточенный коготь",
+                "en": "Concealed Unguis",
+                "zh": "隐兽利爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_unguis.webp"
+            },
+            {
+              "key": "concealed_talon",
+              "title": {
+                "ru": "Скрытый дьявольский коготь",
+                "en": "Concealed Talon",
+                "zh": "隐兽鬼爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_talon.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "rockfond_rifthound",
+      "title": {
+        "ru": "Гончая Разрыва: Камнегрыз",
+        "en": "Rockfond Rifthound",
+        "zh": "嗜岩·兽境猎犬"
+      },
+      "icon": "assets/icons/enemies/common_enemies/rockfond_rifthound.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nОни демонстрируют повадки, похожие на повадки настоящих волков. Возможно, они испытывают ревность к своим «ближайшим родственникам» и мечтают когда-нибудь заменить их.",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"They do display certain biological behaviors similar to those of real wolves.\nPerhaps they feel jealousy towards these their \"next of kin,\"and dream of replacing them someday.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n会很微妙地表现出生物习性，就如同真正的狼一般。\n或许是对地上的「近亲」\n抱有仰慕或嫉妒的感情，而梦想取而代之吧。"
+      },
+      "description": {
+        "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nОни демонстрируют повадки, похожие на повадки настоящих волков. Возможно, они испытывают ревность к своим «ближайшим родственникам» и мечтают когда-нибудь заменить их.",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"They do display certain biological behaviors similar to those of real wolves.\nPerhaps they feel jealousy towards these their \"next of kin,\"and dream of replacing them someday.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n会很微妙地表现出生物习性，就如同真正的狼一般。\n或许是对地上的「近亲」\n抱有仰慕或嫉妒的感情，而梦想取而代之吧。"
+      },
+      "drops": [
+        {
+          "id": "rockfond_rifthound_concealeds",
+          "title": {
+            "ru": "Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь",
+            "en": "Concealeds",
+            "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.2",
+          "materials": [
+            {
+              "key": "concealed_claw",
+              "title": {
+                "ru": "Скрытый коготь",
+                "en": "Concealed Claw",
+                "zh": "隐兽指爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_claw.webp"
+            },
+            {
+              "key": "concealed_unguis",
+              "title": {
+                "ru": "Скрытый заточенный коготь",
+                "en": "Concealed Unguis",
+                "zh": "隐兽利爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_unguis.webp"
+            },
+            {
+              "key": "concealed_talon",
+              "title": {
+                "ru": "Скрытый дьявольский коготь",
+                "en": "Concealed Talon",
+                "zh": "隐兽鬼爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_talon.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "thundercraven_rifthound",
+      "title": {
+        "ru": "Гончая Разрыва: Громоед",
+        "en": "Thundercraven Rifthound",
+        "zh": "嗜雷·兽境猎犬"
+      },
+      "icon": "assets/icons/enemies/common_enemies/thundercraven_rifthound.webp",
+      "enemy_group": "abyss",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nВ прошлом они сеяли хаос по всему континенту, пока на них не началась массовая охота.\nНо недавно они снова появились.\nСтая чёрных волков, угрожавшая Спрингвейлу и Вольфендому - это они!",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"Once upon a time, they ran riot across the continent, but they went extinct for a time due to resistance and mass hunts.\nRecently, however, they have re-emerged.\nThe pack of black wolves that now threaten Springvale and Wolvendom are such creatures.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n曾经肆虐大陆，然后遭到反抗与猎捕而一度绝迹。\n但最近它们却又再度出现了。\n威胁到了清泉镇与奔狼领的黑狼之群，说的正是它们。"
+      },
+      "description": {
+        "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nВ прошлом они сеяли хаос по всему континенту, пока на них не началась массовая охота.\nНо недавно они снова появились.\nСтая чёрных волков, угрожавшая Спрингвейлу и Вольфендому - это они!",
+        "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"Once upon a time, they ran riot across the continent, but they went extinct for a time due to resistance and mass hunts.\nRecently, however, they have re-emerged.\nThe pack of black wolves that now threaten Springvale and Wolvendom are such creatures.",
+        "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n曾经肆虐大陆，然后遭到反抗与猎捕而一度绝迹。\n但最近它们却又再度出现了。\n威胁到了清泉镇与奔狼领的黑狼之群，说的正是它们。"
+      },
+      "drops": [
+        {
+          "id": "rockfond_rifthound_concealeds",
+          "title": {
+            "ru": "Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь",
+            "en": "Concealeds",
+            "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.2",
+          "materials": [
+            {
+              "key": "concealed_claw",
+              "title": {
+                "ru": "Скрытый коготь",
+                "en": "Concealed Claw",
+                "zh": "隐兽指爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_claw.webp"
+            },
+            {
+              "key": "concealed_unguis",
+              "title": {
+                "ru": "Скрытый заточенный коготь",
+                "en": "Concealed Unguis",
+                "zh": "隐兽利爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_unguis.webp"
+            },
+            {
+              "key": "concealed_talon",
+              "title": {
+                "ru": "Скрытый дьявольский коготь",
+                "en": "Concealed Talon",
+                "zh": "隐兽鬼爪"
+              },
+              "icon": "assets/icons/items/common_enemies/concealed_talon.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 4,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "concealed_claw",
+      "title": {
+        "ru": "Скрытый коготь",
+        "en": "Concealed Claw",
+        "zh": "隐兽指爪"
+      },
+      "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+      "text": {
+        "ru": "Остатки телесных тканей, принадлежавших одному из волков Разрыва.\nПо законам логики, столь чуждые этому миру предметы не должны были сохраниться после того, как эти существа были изгнаны.",
+        "en": "Residual body tissue left behind by one of the Riftwolves.\nBy ordinary logic, these objects, so alien to this world, should not have remained behind after these abnormal creatures were excised from the land.",
+        "zh": "兽境群狼的残留身体组织。\n按照常理来说，这种与此世不容的事物不应在这种异常造物被驱逐后，残留于世才对。"
+      }
+    },
+    {
+      "key": "concealed_unguis",
+      "title": {
+        "ru": "Скрытый заточенный коготь",
+        "en": "Concealed Unguis",
+        "zh": "隐兽利爪"
+      },
+      "icon": "assets/icons/items/common_enemies/concealed_unguis.webp",
+      "text": {
+        "ru": "Телесные ткани, принадлежавшие одному из волков Разрыва.\nОни очень любопытны, но с Дурином, шедевром гумусового слоя, эти псы элювиального слоя не идут ни в какое сравнение.",
+        "en": "Body tissue left behind by one of the Riftwolves.\nThough they are quite wondrous indeed, these hunting hounds of \"Alfisol\" are nothing of note before Durin of \"Humus.\"",
+        "zh": "兽境群狼的身体组织。\n虽然奇妙，但是和大杰作「腐殖层」杜林相比，「淋溶层」猎犬不值一提。"
+      }
+    },
+    {
+      "key": "concealed_talon",
+      "title": {
+        "ru": "Скрытый дьявольский коготь",
+        "en": "Concealed Talon",
+        "zh": "隐兽鬼爪"
+      },
+      "icon": "assets/icons/items/common_enemies/concealed_talon.webp",
+      "text": {
+        "ru": "Острый коготь, принадлежавший одному из волков Разрыва.\nВсе чудеса этого мира меркнут перед величайшим шедевром - меловым слоем.",
+        "en": "A sharp nail left behind by one of the Riftwolves.\nAll the marvels in the world must pale before \"Cretaceus,\" the greatest work of them all.",
+        "zh": "兽境群狼的利爪。\n世之奇珍，但是和最高杰作「白垩层」相比，只是寻常之物罢了。"
+      }
+    }
+  ],
+  "material_count": 3
+}

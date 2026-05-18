@@ -1,0 +1,546 @@
+{
+  "id": "hilichurl_arrowheads",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+  "title": {
+    "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+    "en": "Arrowheads",
+    "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Firm Arrowhead",
+    "Sharp Arrowhead",
+    "Weathered Arrowhead",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "hilichurl_shooter",
+    "pyro_hilichurl_shooter",
+    "electro_hilichurl_shooter",
+    "cryo_hilichurl_shooter"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "hilichurl_shooter",
+      "title": {
+        "ru": "Хиличурл-стрелок",
+        "en": "Hilichurl Shooter",
+        "zh": "射手丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-стрелки, вооруженные простыми арбалетами. Откровенно говоря, хиличурлы не владеют искусством создания арбалетов. Из этого следует вывод, что их контролирует другая организация, которая поставляет им оружие и материалы. Подозрение падает на Магов Бездны, часто сопровождающих хиличурлов.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl archers who wield simple crossbows. Hilichurls do not, in truth, possess the craftsmanship needed to build crossbows. As such, it is commonly believed that there is an organization that controls the hilichurls from behind the scenes and furnishes them with equipment and material supplies. The Abyss Mages that often accompany these hilichurls are especially suspicious.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的丘丘人射手。丘丘人实际上并不具备制造弩的工艺水平。因此，一般认为，在丘丘人背后，存在着操控丘丘人，并为它们提供设备物资的组织。而与丘丘人走得很近的深渊法师尤为可疑。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nХиличурлы-стрелки, вооруженные простыми арбалетами. Откровенно говоря, хиличурлы не владеют искусством создания арбалетов. Из этого следует вывод, что их контролирует другая организация, которая поставляет им оружие и материалы. Подозрение падает на Магов Бездны, часто сопровождающих хиличурлов.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nHilichurl archers who wield simple crossbows. Hilichurls do not, in truth, possess the craftsmanship needed to build crossbows. As such, it is commonly believed that there is an organization that controls the hilichurls from behind the scenes and furnishes them with equipment and material supplies. The Abyss Mages that often accompany these hilichurls are especially suspicious.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的丘丘人射手。丘丘人实际上并不具备制造弩的工艺水平。因此，一般认为，在丘丘人背后，存在着操控丘丘人，并为它们提供设备物资的组织。而与丘丘人走得很近的深渊法师尤为可疑。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "pyro_hilichurl_shooter",
+      "title": {
+        "ru": "Пиро хиличурл-стрелок",
+        "en": "Pyro Hilichurl Shooter",
+        "zh": "火箭丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов покрыты тонким слоем воспламеняющегося материала, который позволяет им поджигать цели. Элла Маск считает, что это изобретение одного сообразительного хиличурла, который хотел приготовить на огне подстреленную дичь.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are coated with a thin layer of flammable material that can set their targets on fire. El Musk of the previous generation believed that this is an innovation by brighter hilichurls who wished to cook their game after hunting it.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上敷了一层薄薄的易燃材料，以便烧灼其目标。前代的艾尔·马斯克认为，这是头脑灵光的丘丘人想要在捕猎时顺便完成烹饪而为的创新之事。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов покрыты тонким слоем воспламеняющегося материала, который позволяет им поджигать цели. Элла Маск считает, что это изобретение одного сообразительного хиличурла, который хотел приготовить на огне подстреленную дичь.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are coated with a thin layer of flammable material that can set their targets on fire. El Musk of the previous generation believed that this is an innovation by brighter hilichurls who wished to cook their game after hunting it.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上敷了一层薄薄的易燃材料，以便烧灼其目标。前代的艾尔·马斯克认为，这是头脑灵光的丘丘人想要在捕猎时顺便完成烹饪而为的创新之事。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "electro_hilichurl_shooter",
+      "title": {
+        "ru": "Электро хиличурл-стрелок",
+        "en": "Electro Hilichurl Shooter",
+        "zh": "雷箭丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов изготовлены из Электро кристаллов и при попадании наносят электрический урон. Говорят, что самые искусные стрелки могут выпустить за один раз до пяти болтов. Впечатляющий результат!",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are crafted from carved Electro Crystals that will deliver an electric shock upon impact. They say that hilichurl archers of exceptional skill can fire five crossbow bolts at once — a most impressive feat indeed.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头以电气水晶的碎片磨削而成，以便命中时造成电击。据说射术百里挑一的丘丘人射手可以一次发射五枚箭矢，非常厉害。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники их болтов изготовлены из Электро кристаллов и при попадании наносят электрический урон. Говорят, что самые искусные стрелки могут выпустить за один раз до пяти болтов. Впечатляющий результат!",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and their arrowheads are crafted from carved Electro Crystals that will deliver an electric shock upon impact. They say that hilichurl archers of exceptional skill can fire five crossbow bolts at once — a most impressive feat indeed.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头以电气水晶的碎片磨削而成，以便命中时造成电击。据说射术百里挑一的丘丘人射手可以一次发射五枚箭矢，非常厉害。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cryo_hilichurl_shooter",
+      "title": {
+        "ru": "Крио хиличурл-стрелок",
+        "en": "Cryo Hilichurl Shooter",
+        "zh": "冰箭丘丘人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники болтов покрыты нетающим льдом. Рассказывают, что раны от подобных болтов заживают очень медленно, потому что холод замедляет циркуляцию крови.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
+      },
+      "description": {
+        "ru": "Примитивные кочевые представители Тейватской фауны.\nЭти стрелки вооружены простыми арбалетами, а наконечники болтов покрыты нетающим льдом. Рассказывают, что раны от подобных болтов заживают очень медленно, потому что холод замедляет циркуляцию крови.",
+        "en": "The primitive wandering inhabitants of Teyvat's wildernesses.\nThese archers wield simple crossbows, and unmelting ice shrouds their arrowheads. It is said that wounds caused by these arrowheads heal very slowly, as the cold will slow the circulation of blood.",
+        "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 4,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "firm_arrowhead",
+      "title": {
+        "ru": "Прочный наконечник стрелы",
+        "en": "Firm Arrowhead",
+        "zh": "牢固的箭簇"
+      },
+      "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+      "text": {
+        "ru": "Грубо изготовленный наконечник стрелы. Не сильно впечатляет, однако не стоит его недооценивать. Всё, что ему требуется, - это правильный момент.",
+        "en": "A roughly produced arrowhead.\nThough unimpressive, neither it nor the bow should be underestimated, for even the bravest knight can be felled by an arrow from the rear.",
+        "zh": "做工粗糙的箭簇。即使如此，也不容小觑：弩是危险的武器，即使贵为骑士，也可能被从后方来的弩矢击倒。"
+      }
+    },
+    {
+      "key": "sharp_arrowhead",
+      "title": {
+        "ru": "Острый наконечник стрелы",
+        "en": "Sharp Arrowhead",
+        "zh": "锐利的箭簇"
+      },
+      "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp",
+      "text": {
+        "ru": "Хорошо сделанный наконечник стрелы. Достаточно острый, чтобы проникнуть в тело с легкостью камня, проникающего сквозь поверхность воды.",
+        "en": "A well-made arrowhead. Sharp enough to penetrate armor with the ease of a rock through the surface of water.",
+        "zh": "做工精良的箭簇。锐利的尖端或许能像投石入水一样轻易穿透敌人的甲胄，没入猎物的体内。"
+      }
+    },
+    {
+      "key": "weathered_arrowhead",
+      "title": {
+        "ru": "Старый наконечник стрелы",
+        "en": "Weathered Arrowhead",
+        "zh": "历战的箭簇"
+      },
+      "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp",
+      "text": {
+        "ru": "Старый наконечник стрелы, покрытый кровью. Он давно потерял свою остроту, и, следовательно, его нельзя использовать в качестве оружия.\nОднако этот наконечник является гордостью охотника и выполняет роль амулета или медали.",
+        "en": "An old arrowhead coated in blood. The arrowhead has long since lost its sharpness and thus its use as a weapon.\nHowever, it represents the pride of a hunter and acts as both an amulet and a medal.",
+        "zh": "老旧的、沾染了干涸血迹的箭簇。箭头在反复的使用中已经失去了应有的锐利，根本不能作为武器使用。\n但它也代表着猎手的骄傲，是它们的护身符与奖章。"
+      }
+    }
+  ],
+  "material_count": 3
+}

@@ -1,0 +1,234 @@
+{
+  "id": "eroding_avatar_of_lava_igniteds",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/ignited_stone.webp",
+  "title": {
+    "ru": "Пламенный камень / Пламенное семя жизни / Пламенное око",
+    "en": "Igniteds",
+    "zh": "聚燃的石块 / 聚燃的命种 / 聚燃的游像眼"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [
+    "Ignited Stone",
+    "Ignited Seed of Life",
+    "Ignited Seeing Eye",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "eroding_avatar_of_lava",
+    "fluid_avatar_of_lava"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "eroding_avatar_of_lava",
+      "title": {
+        "ru": "Разлагающееся воплощение лавы",
+        "en": "Eroding Avatar of Lava",
+        "zh": "熔岩游像 · 蚀土者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eroding_avatar_of_lava.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Странное чудовище, которое должно постоянно поглощать тепло для поддержания жизни.\nДревняя цивилизация использовала множество золотых узоров для управления потоком флогистона, что позволяло огромным конструкциям и великолепным городам функционировать.\nГоворят, что помимо механических устройств с фиксированными структурами, есть повреждённые существа, известные как воплощения лавы, созданные таким же образом.\nОднако после того, как огни священной горы погасли, большинство из них утратили свой смысл и предназначение.",
+        "en": "A strange monster that must continually absorb heat to stay in an active state.\nThe ancient civilization used many different types of golden designs to drive the flow of phlogiston,\nallowing massive constructs and magnificent cities to operate under the wisdom of the golden patterns.\nIt is said that in addition to machines with fixed structures, the creatures known as Avatars of Lava are actually badly damaged lifeforms that were once created in the same way.\nHowever, after the flames of the sacred mountain were extinguished, most of them lost their sense of purpose and direction.",
+        "zh": "需要持续不断吸收热量以维持活动状态的奇特魔物。\n古老的文明利用镌光的金纹驱使燃素流动的诸多法式，令巨大的造物与恢弘的城市得以在金纹创生的智慧中运转。\n据说除了固定结构的机械以外，名为熔岩游像的魔物其实也是以此方法创造的残缺生命，只不过在圣山的火焰熄灭之后，它们大多失去了目的与方向。"
+      },
+      "description": {
+        "ru": "Странное чудовище, которое должно постоянно поглощать тепло для поддержания жизни.\nДревняя цивилизация использовала множество золотых узоров для управления потоком флогистона, что позволяло огромным конструкциям и великолепным городам функционировать.\nГоворят, что помимо механических устройств с фиксированными структурами, есть повреждённые существа, известные как воплощения лавы, созданные таким же образом.\nОднако после того, как огни священной горы погасли, большинство из них утратили свой смысл и предназначение.",
+        "en": "A strange monster that must continually absorb heat to stay in an active state.\nThe ancient civilization used many different types of golden designs to drive the flow of phlogiston,\nallowing massive constructs and magnificent cities to operate under the wisdom of the golden patterns.\nIt is said that in addition to machines with fixed structures, the creatures known as Avatars of Lava are actually badly damaged lifeforms that were once created in the same way.\nHowever, after the flames of the sacred mountain were extinguished, most of them lost their sense of purpose and direction.",
+        "zh": "需要持续不断吸收热量以维持活动状态的奇特魔物。\n古老的文明利用镌光的金纹驱使燃素流动的诸多法式，令巨大的造物与恢弘的城市得以在金纹创生的智慧中运转。\n据说除了固定结构的机械以外，名为熔岩游像的魔物其实也是以此方法创造的残缺生命，只不过在圣山的火焰熄灭之后，它们大多失去了目的与方向。"
+      },
+      "drops": [
+        {
+          "id": "eroding_avatar_of_lava_igniteds",
+          "title": {
+            "ru": "Пламенный камень / Пламенное семя жизни / Пламенное око",
+            "en": "Igniteds",
+            "zh": "聚燃的石块 / 聚燃的命种 / 聚燃的游像眼"
+          },
+          "icon": "assets/icons/items/common_enemies/ignited_stone.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "ignited_stone",
+              "title": {
+                "ru": "Пламенный камень",
+                "en": "Ignited Stone",
+                "zh": "聚燃的石块"
+              },
+              "icon": "assets/icons/items/common_enemies/ignited_stone.webp"
+            },
+            {
+              "key": "ignited_seed_of_life",
+              "title": {
+                "ru": "Пламенное семя жизни",
+                "en": "Ignited Seed of Life",
+                "zh": "聚燃的命种"
+              },
+              "icon": "assets/icons/items/common_enemies/ignited_seed_of_life.webp"
+            },
+            {
+              "key": "ignited_seeing_eye",
+              "title": {
+                "ru": "Пламенное око",
+                "en": "Ignited Seeing Eye",
+                "zh": "聚燃的游像眼"
+              },
+              "icon": "assets/icons/items/common_enemies/ignited_seeing_eye.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fluid_avatar_of_lava",
+      "title": {
+        "ru": "Текучее воплощение лавы",
+        "en": "Fluid Avatar of Lava",
+        "zh": "熔岩游像 · 流燃体"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fluid_avatar_of_lava.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Странное чудовище, которое должно постоянно поглощать тепло для поддержания жизни.\nКогда-то по всему Натлану горел древний и глубокий огонь во множестве форм.\nДревние жители использовали эти огни для передачи света, тепла и мудрости, веря, что жизнь и душа зародились от искр, летящих при ударе кремня.\nС вечно горящим ядром даже камень может обрести жизнь.\nИскры внутри воплощений лавы кажутся холодными пепельными остатками той древней эпохи.",
+        "en": "A strange monster that must continually absorb heat to stay in an active state.\nOnce, a more ancient and deep fire burned across all of Natlan in myriad forms.\nAt that time, the once-great primitive residents used these fires to transmit light, heat, and wisdom.\nThey believed that life and the soul too took their initial shape from the sparks that flew when flint was struck.\nIf it possesses an eternally burning core, then even a stubborn stone can bring about life.\nThe embers within the body of the Avatar of Lava seem to be the cold, ash-like remnants of that ancient era.",
+        "zh": "需要持续不断吸收热量以维持活动状态的奇特魔物。\n曾经，更加古老而深邃的火以各种形态遍布纳塔的大地，那时一度伟大的原始住民们利用这些火来传递光热与智慧，他们认为生命与灵魂亦是从燧石相撞的火花中拥有最初的形廓。\n如果拥有常燃之芯，即使是顽石也能成就生命吧，被名为熔岩游像包裹在体内的余烬，似乎也是那伟大时代冷灰般的残余。"
+      },
+      "description": {
+        "ru": "Странное чудовище, которое должно постоянно поглощать тепло для поддержания жизни.\nКогда-то по всему Натлану горел древний и глубокий огонь во множестве форм.\nДревние жители использовали эти огни для передачи света, тепла и мудрости, веря, что жизнь и душа зародились от искр, летящих при ударе кремня.\nС вечно горящим ядром даже камень может обрести жизнь.\nИскры внутри воплощений лавы кажутся холодными пепельными остатками той древней эпохи.",
+        "en": "A strange monster that must continually absorb heat to stay in an active state.\nOnce, a more ancient and deep fire burned across all of Natlan in myriad forms.\nAt that time, the once-great primitive residents used these fires to transmit light, heat, and wisdom.\nThey believed that life and the soul too took their initial shape from the sparks that flew when flint was struck.\nIf it possesses an eternally burning core, then even a stubborn stone can bring about life.\nThe embers within the body of the Avatar of Lava seem to be the cold, ash-like remnants of that ancient era.",
+        "zh": "需要持续不断吸收热量以维持活动状态的奇特魔物。\n曾经，更加古老而深邃的火以各种形态遍布纳塔的大地，那时一度伟大的原始住民们利用这些火来传递光热与智慧，他们认为生命与灵魂亦是从燧石相撞的火花中拥有最初的形廓。\n如果拥有常燃之芯，即使是顽石也能成就生命吧，被名为熔岩游像包裹在体内的余烬，似乎也是那伟大时代冷灰般的残余。"
+      },
+      "drops": [
+        {
+          "id": "eroding_avatar_of_lava_igniteds",
+          "title": {
+            "ru": "Пламенный камень / Пламенное семя жизни / Пламенное око",
+            "en": "Igniteds",
+            "zh": "聚燃的石块 / 聚燃的命种 / 聚燃的游像眼"
+          },
+          "icon": "assets/icons/items/common_enemies/ignited_stone.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "ignited_stone",
+              "title": {
+                "ru": "Пламенный камень",
+                "en": "Ignited Stone",
+                "zh": "聚燃的石块"
+              },
+              "icon": "assets/icons/items/common_enemies/ignited_stone.webp"
+            },
+            {
+              "key": "ignited_seed_of_life",
+              "title": {
+                "ru": "Пламенное семя жизни",
+                "en": "Ignited Seed of Life",
+                "zh": "聚燃的命种"
+              },
+              "icon": "assets/icons/items/common_enemies/ignited_seed_of_life.webp"
+            },
+            {
+              "key": "ignited_seeing_eye",
+              "title": {
+                "ru": "Пламенное око",
+                "en": "Ignited Seeing Eye",
+                "zh": "聚燃的游像眼"
+              },
+              "icon": "assets/icons/items/common_enemies/ignited_seeing_eye.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 2,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "ignited_stone",
+      "title": {
+        "ru": "Пламенный камень",
+        "en": "Ignited Stone",
+        "zh": "聚燃的石块"
+      },
+      "icon": "assets/icons/items/common_enemies/ignited_stone.webp",
+      "text": {
+        "ru": "Осколок, полученный из тела поверженного воплощения лавы.\nОн сильно раздроблен, но внутри него всё ещё есть пламя. Возможно, это свидетельствует об исключительной жизненной силе флогистона.",
+        "en": "A shard obtained from the body of a defeated Avatar of Lava.\nThough it has been shattered to a great extent, on the inside, it still continues to burn.\nPerhaps this is a testament to the extraordinary vitality of phlogiston.",
+        "zh": "击败熔岩游像之后，从其体内取得的碎块。\n即使已经破碎到了这个程度，其中的燃烧也并没有停止，或许是因为燃素所具备的超常活力所致。"
+      }
+    },
+    {
+      "key": "ignited_seed_of_life",
+      "title": {
+        "ru": "Пламенное семя жизни",
+        "en": "Ignited Seed of Life",
+        "zh": "聚燃的命种"
+      },
+      "icon": "assets/icons/items/common_enemies/ignited_seed_of_life.webp",
+      "text": {
+        "ru": "Сконденсированный сгусток горящего вещества, полученный из тела поверженного воплощения лавы.\nИзлучает слабое тепло.\nОстановить такое большое скопление камней от бесконечного горения было бы трудной задачей. Говорят, что это форма первозданной жизни.",
+        "en": "A condensed pile of burning matter obtained from the body of a defeated Avatar of Lava.\nIt emits a slight heat.\nAttempting to stop a stone pile of this size from incessantly burning away would be a hard task indeed.\nIt is said that this is some primordial form of life.",
+        "zh": "击败熔岩游像之后，从其体内取得的聚燃堆。\n散发着些微的热量。\n到了这种规模的石堆，已经很难阻止其不断燃烧下去了。据说，这就是某种生命初始的形态。"
+      }
+    },
+    {
+      "key": "ignited_seeing_eye",
+      "title": {
+        "ru": "Пламенное око",
+        "en": "Ignited Seeing Eye",
+        "zh": "聚燃的游像眼"
+      },
+      "icon": "assets/icons/items/common_enemies/ignited_seeing_eye.webp",
+      "text": {
+        "ru": "Ядро поверженного воплощения лавы.\nИзлучает слабое тепло.\nГоворят, что если оставить такое ядро, оно само разовьётся в новое воплощение лавы.\nВ древности считалось, что все формы жизни восходят к огню, а в искре горящего вещества заключены истоки души и разума.\nВозможно, само существование воплощений лавы подтверждает это убеждение, или же эта теория объясняет, как они возникли в Натлане...",
+        "en": "A core retrieved from within the body of a defeated Avatar of Lava.\nIt emits a considerable heat.\nIt is said that once such a core has formed, left to itself, it will develop into a new Avatar of Lava.\nIn ancient times, it was once believed that all forms of life could be traced back to conflagration, and that in the spark of burning matter lay the\norigins of the soul and sentient wisdom.\nPerhaps the very existence of Avatars of Lava would bear out such a belief — or perhaps it was the emergence of this theory itself that explains how\nthey came to inhabit the land of Natlan...",
+        "zh": "击败熔岩游像之后，从其体内取得的核心。\n散发着相当的热量。\n据说只要形成这样的核心，放置不管就会形成新的熔岩游像。古老的文明一度认为生命的所有形式来源于火的燃烧，认为灵魂与智慧的起源即是聚燃的火种。熔岩游像这一生命体或许印证了这样的说法，又或者，是那样的理论使它诞生在了纳塔的大地上…"
+      }
+    }
+  ],
+  "material_count": 3
+}

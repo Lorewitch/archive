@@ -1,0 +1,666 @@
+{
+  "id": "close_combat_storm_landcruiser_drive_shafts",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+  "title": {
+    "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+    "en": "Drive Shafts",
+    "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [
+    "Broken Drive Shaft",
+    "Reinforced Drive Shaft",
+    "Precision Drive Shaft",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "close_combat_storm_landcruiser",
+    "close_combat_scout_landcruiser",
+    "force_recon_storm_landcruiser",
+    "force_recon_scout_landcruiser",
+    "force_recon_ground_effect_landcruiser",
+    "cutting_edge_all_purpose_storm_landcruiser",
+    "cutting_edge_all_purpose_scout_landcruiser",
+    "cutting_edge_fire_support_ground_effect_landcruiser"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "close_combat_storm_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Штурмовик ближнего боя",
+        "en": "Close Combat Storm Landcruiser",
+        "zh": "巡陆艇·近战攻坚型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/close_combat_storm_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с гусеничным ходом обычно используются для штурма позиций противника, где они могут преодолевать пересеченную местность, например грязь и тающий снег,\nнесмотря на тяжёлую броню и вооружение,\nблагодаря превосходной грузоподъёмности и проходимости.\nКогда сухопутные крейсера ближнего боя приближаются к линиям обороны противника строем, с вращающимися лопастями, расположенными по бокам,\nбольшинство противников сосредоточит огонь на них,\nдавая другим подразделениям возможность раскрыть весь потенциал своей огневой мощи...",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"Equipped with Crawler Track Movement Mechanisms,\nthese Landcruisers are normally used to storm enemy positions,\nwhere they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility.\nWhen close-combat Landcruisers approach enemy defensive lines in formation, rotating blades raised for battle, most foes will concentrate fire on them,\nallowing other units the opportunity to unleash their firepower...",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有履带式行走机构的巡陆艇通常被用于攻坚作战，得益于优秀的底盘承载与越野能力，它们可以搭载更为厚重的装甲和武装，轻松通过泥泞与融雪的恶劣地形。\n平举旋刃的近战巡陆艇展开队形抵近目标防线时，大部分敌军都会将火力聚焦在它们身上，如此一来，其他单位便拥有了发挥火力的良好条件…"
+      },
+      "description": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с гусеничным ходом обычно используются для штурма позиций противника, где они могут преодолевать пересеченную местность, например грязь и тающий снег,\nнесмотря на тяжёлую броню и вооружение,\nблагодаря превосходной грузоподъёмности и проходимости.\nКогда сухопутные крейсера ближнего боя приближаются к линиям обороны противника строем, с вращающимися лопастями, расположенными по бокам,\nбольшинство противников сосредоточит огонь на них,\nдавая другим подразделениям возможность раскрыть весь потенциал своей огневой мощи...",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"Equipped with Crawler Track Movement Mechanisms,\nthese Landcruisers are normally used to storm enemy positions,\nwhere they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility.\nWhen close-combat Landcruisers approach enemy defensive lines in formation, rotating blades raised for battle, most foes will concentrate fire on them,\nallowing other units the opportunity to unleash their firepower...",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有履带式行走机构的巡陆艇通常被用于攻坚作战，得益于优秀的底盘承载与越野能力，它们可以搭载更为厚重的装甲和武装，轻松通过泥泞与融雪的恶劣地形。\n平举旋刃的近战巡陆艇展开队形抵近目标防线时，大部分敌军都会将火力聚焦在它们身上，如此一来，其他单位便拥有了发挥火力的良好条件…"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "close_combat_scout_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Разведчик ближнего боя",
+        "en": "Close Combat Scout Landcruiser",
+        "zh": "巡陆艇·近战斥候型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/close_combat_scout_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с двуногой конструкцией часто используются в качестве разведчиков, поскольку способны быстро преодолевать пересечённую местность и достигать ключевых позиций,\nчтобы перехватить инициативу для своих союзников.\nЕго вооружение с вращающимися лопастями, ориентированное на ближний бой, позволяет наносить смертельный урон противнику, а также срезать кустарник и препятствия, прокладывая путь,\nчто позволяет их подразделениям легко действовать даже в густых лесах.",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"These walking Landcruisers with bipedal structures are often used as \"scouts,\"for they are able to quickly traverse rough terrain and\nreach key positions to seize the initiative for their allies.\nTheir close-combat-oriented rotating blades allow them to deal fatal damage to their foes and shred shrubbery and obstacles to open the way,\nallowing units to operate with ease even amidst thick vegetation.",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有双足型行走机构的巡陆艇通常被作为「斥候」\n运用，它们能够快速翻越崎岖地形，抵达关键阵位，为部队占据主动权。\n近战标准的旋刃武装不仅能对轻装目标发起致命打击，还可以轻松粉碎树丛等障碍，开辟通路，使得部队即便置身茂密的雨林之中，也能畅行无阻。"
+      },
+      "description": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с двуногой конструкцией часто используются в качестве разведчиков, поскольку способны быстро преодолевать пересечённую местность и достигать ключевых позиций,\nчтобы перехватить инициативу для своих союзников.\nЕго вооружение с вращающимися лопастями, ориентированное на ближний бой, позволяет наносить смертельный урон противнику, а также срезать кустарник и препятствия, прокладывая путь,\nчто позволяет их подразделениям легко действовать даже в густых лесах.",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"These walking Landcruisers with bipedal structures are often used as \"scouts,\"for they are able to quickly traverse rough terrain and\nreach key positions to seize the initiative for their allies.\nTheir close-combat-oriented rotating blades allow them to deal fatal damage to their foes and shred shrubbery and obstacles to open the way,\nallowing units to operate with ease even amidst thick vegetation.",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有双足型行走机构的巡陆艇通常被作为「斥候」\n运用，它们能够快速翻越崎岖地形，抵达关键阵位，为部队占据主动权。\n近战标准的旋刃武装不仅能对轻装目标发起致命打击，还可以轻松粉碎树丛等障碍，开辟通路，使得部队即便置身茂密的雨林之中，也能畅行无阻。"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "force_recon_storm_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Штурмовой разведчик",
+        "en": "Force Recon Storm Landcruiser",
+        "zh": "巡陆艇·强侦攻坚型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/force_recon_storm_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с гусеничным ходом обычно используются для штурма позиций противника, где они могут преодолевать пересеченную местность, например грязь и тающий снег,\nнесмотря на тяжёлую броню и вооружение,\nблагодаря превосходной грузоподъёмности и проходимости.\nВооружение этой модели машины наблюдения включает многоствольную автоматическую пушку, позволяющую сухопутному крейсеру вести бои как в ближнем бою, так и в дальнем бою.\nБудь то дальнее наблюдение или сбор разведданных о противнике даже в разгар ожесточённого боя, эта модель сухопутного крейсера более чем справляется со своими задачами.",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"Equipped with Crawler Track Movement Mechanisms,\nthese Landcruisers are normally used to storm enemy positions,\nwhere they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility.\nForce Recon armaments include a multi-barrel automatic gun, allowing this Landcruiser to adjust its tactics to both close quarters and long-range combat.\nWhether it be long-range observation or obtaining enemy intel in the midst of fearsome firefights, this Landcruiser model is more than up to the task.",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有履带式行走机构的巡陆艇通常被用于攻坚作战，得益于优秀的底盘承载与越野能力，它们可以搭载更为厚重的装甲和武装，轻松通过泥泞与融雪的恶劣地形。\n强侦型的武装包含了一门多管自动机铳，使得巡陆艇能够在接近作战与远程打击中自由选择战术。\n无论保持距离执行侦察任务，还是在烈度可观的交战中攻夺敌军情报，这型巡陆艇都能轻松胜任。"
+      },
+      "description": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с гусеничным ходом обычно используются для штурма позиций противника, где они могут преодолевать пересеченную местность, например грязь и тающий снег,\nнесмотря на тяжёлую броню и вооружение,\nблагодаря превосходной грузоподъёмности и проходимости.\nВооружение этой модели машины наблюдения включает многоствольную автоматическую пушку, позволяющую сухопутному крейсеру вести бои как в ближнем бою, так и в дальнем бою.\nБудь то дальнее наблюдение или сбор разведданных о противнике даже в разгар ожесточённого боя, эта модель сухопутного крейсера более чем справляется со своими задачами.",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"Equipped with Crawler Track Movement Mechanisms,\nthese Landcruisers are normally used to storm enemy positions,\nwhere they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility.\nForce Recon armaments include a multi-barrel automatic gun, allowing this Landcruiser to adjust its tactics to both close quarters and long-range combat.\nWhether it be long-range observation or obtaining enemy intel in the midst of fearsome firefights, this Landcruiser model is more than up to the task.",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有履带式行走机构的巡陆艇通常被用于攻坚作战，得益于优秀的底盘承载与越野能力，它们可以搭载更为厚重的装甲和武装，轻松通过泥泞与融雪的恶劣地形。\n强侦型的武装包含了一门多管自动机铳，使得巡陆艇能够在接近作战与远程打击中自由选择战术。\n无论保持距离执行侦察任务，还是在烈度可观的交战中攻夺敌军情报，这型巡陆艇都能轻松胜任。"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "force_recon_scout_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Разведчик наблюдения",
+        "en": "Force Recon Scout Landcruiser",
+        "zh": "巡陆艇·强侦斥候型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/force_recon_scout_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с двуногой конструкцией часто используются в качестве разведчиков, поскольку способны быстро преодолевать пересечённую местность и достигать ключевых позиций,\nчтобы перехватить инициативу для своих союзников.\nС модулем наблюдения этот сухопутный крейсер может не только выступать в роли передового разведчика для основных сил, но и использовать открытые пространства,\nчтобы активно атаковать противника там,\nгде его позиции слабы, тем самым выполняя роль, схожую с ролью кавалерии...",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"These walking Landcruisers with bipedal structures are often used as \"scouts,\"for they are able to quickly traverse rough terrain and\nreach key positions to seize the initiative for their allies.\nEquipped with Force Recon armaments, this Landcruiser can not only serve as a forward scout for the main force,\nbut can also exploit openings and actively attack the enemy where their lines are weakest,\nthus playing a similar role to that of traditional cavalry...",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有双足型行走机构的巡陆艇通常被作为「斥候」\n运用，它们能够快速翻越崎岖地形，抵达关键阵位，为部队占据主动权。\n搭载强侦型武装后，这型巡陆艇不仅能担任主力部队前方的眼哨，还拥有了抓住战机，主动打击敌军薄弱部分的能力，扮演着类似部分骑兵的角色…"
+      },
+      "description": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с двуногой конструкцией часто используются в качестве разведчиков, поскольку способны быстро преодолевать пересечённую местность и достигать ключевых позиций,\nчтобы перехватить инициативу для своих союзников.\nС модулем наблюдения этот сухопутный крейсер может не только выступать в роли передового разведчика для основных сил, но и использовать открытые пространства,\nчтобы активно атаковать противника там,\nгде его позиции слабы, тем самым выполняя роль, схожую с ролью кавалерии...",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"These walking Landcruisers with bipedal structures are often used as \"scouts,\"for they are able to quickly traverse rough terrain and\nreach key positions to seize the initiative for their allies.\nEquipped with Force Recon armaments, this Landcruiser can not only serve as a forward scout for the main force,\nbut can also exploit openings and actively attack the enemy where their lines are weakest,\nthus playing a similar role to that of traditional cavalry...",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有双足型行走机构的巡陆艇通常被作为「斥候」\n运用，它们能够快速翻越崎岖地形，抵达关键阵位，为部队占据主动权。\n搭载强侦型武装后，这型巡陆艇不仅能担任主力部队前方的眼哨，还拥有了抓住战机，主动打击敌军薄弱部分的能力，扮演着类似部分骑兵的角色…"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "force_recon_ground_effect_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Наземный разведчик",
+        "en": "Force Recon Ground Effect Landcruiser",
+        "zh": "巡陆艇·强侦地效型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/force_recon_ground_effect_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nЭта сухопутная машина способна «летать» на определённой высоте над землёй,\nподдерживая подъёмную силу и создавая перепад давления посредством распыления реактивных струй на высокой скорости,\nчто позволяет ему экономичнее достигать высокой крейсерской скорости боя, избегать мин и ловушек и проводить высокоэффективные штурмовые операции.\nОднако его стоимость и ограниченное время эксплуатации означают, что серийно выпускаемые модели имеют ограниченную полезную нагрузку.\nПоэтому в настоящее время они используются только в разведывательных целях...",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"The ground effect Landcruiser is able to \"fly\"a certain distance above ground by maintaining lift and generating pressure differentials\nthrough firing high-speed jet sprays at the surface,\nallowing it to more economically achieve combat cruising speed, avoid mines and traps, and perform highly effective assaults.\nHowever, costs and limits on operation time mean that mass-produced models carry limited payloads.\nAs such, they are currently limited to Force Recon roles...",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n「地效型」\n的动力机构通过向地面高速喷射流体的方式，在维持向上推力的同时获得一定压力差，从而使得巡陆艇能够在距离地面一定的高度「飞行」，以更经济的方式获得可观的战斗航速，并避开地雷等陷阱，实现高效突击。\n不过，碍于成本和续航时间的限制，大规模量产的地效巡陆艇的载荷有限，目前以搭载强侦型武装为主…"
+      },
+      "description": {
+        "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nЭта сухопутная машина способна «летать» на определённой высоте над землёй,\nподдерживая подъёмную силу и создавая перепад давления посредством распыления реактивных струй на высокой скорости,\nчто позволяет ему экономичнее достигать высокой крейсерской скорости боя, избегать мин и ловушек и проводить высокоэффективные штурмовые операции.\nОднако его стоимость и ограниченное время эксплуатации означают, что серийно выпускаемые модели имеют ограниченную полезную нагрузку.\nПоэтому в настоящее время они используются только в разведывательных целях...",
+        "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"The ground effect Landcruiser is able to \"fly\"a certain distance above ground by maintaining lift and generating pressure differentials\nthrough firing high-speed jet sprays at the surface,\nallowing it to more economically achieve combat cruising speed, avoid mines and traps, and perform highly effective assaults.\nHowever, costs and limits on operation time mean that mass-produced models carry limited payloads.\nAs such, they are currently limited to Force Recon roles...",
+        "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n「地效型」\n的动力机构通过向地面高速喷射流体的方式，在维持向上推力的同时获得一定压力差，从而使得巡陆艇能够在距离地面一定的高度「飞行」，以更经济的方式获得可观的战斗航速，并避开地雷等陷阱，实现高效突击。\n不过，碍于成本和续航时间的限制，大规模量产的地效巡陆艇的载荷有限，目前以搭载强侦型武装为主…"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cutting_edge_all_purpose_storm_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Новейший многоцелевой штурмовик",
+        "en": "Cutting Edge All-Purpose Storm Landcruiser",
+        "zh": "巡陆艇·尖端全能攻坚型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cutting_edge_all_purpose_storm_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Эти элитные сухопутные крейсеры с хорошим соотношением передовых технологий,\nстоимости производства и частоты выходов в бой обеспечивают колоссальную пробивную мощь любому боевому строю и являются ключевой мощью на\nпередовой.\nУниверсальный боевой комплект сочетает многоствольные автоматические пушки с вращающимися лопастями для ближнего боя,\nпозволяя этому сухопутному крейсеру сражаться с противником на любой дистанции,\nа тяжёлые гаубицы в обеих пушках позволят ему уничтожать укрытия и лишать защитников возможности использовать укрепления.\nСогласно боевым доктринам, разработанным совместно Фатуи и Имперской военной академией,\nэти сухопутные крейсеры должны получать поддержку от всех находящихся рядом подразделений при атаке,\nбыстро пробивая брешь в обороне противника, что позволит проводить последующие атаки в глубину и уничтожать вражеские линии обороны...",
+        "en": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle,\nand are the key fulcrum of the frontline.\nThe all-purpose storm combat package combines multi-barrel automatic guns with close-quarter rotating blades, allowing this Landcruiser to battle opponents at any range,\nwhile heavy howitzers on both arms allow it to obliterate cover and deny defenders the benefit of their fortifications.\nAccording to combat doctrine co-authored by the Fatui and the Royal Military Academy, these Landcruisers must be supported by all nearby units when they attack,\nspeedily punching a hole in enemy lines,\nwhich will allow for follow-up attacks in depth that will then cause the enemy defenses to collapse completely.",
+        "zh": "均衡了尖端技术、生产成本与出动率，为战斗序列赋予强大穿透力的精锐巡陆艇，是阵线上的重要支点。\n全能攻坚型的武装综合了多管自动机铳与近战旋刃，使得该型巡陆艇能够从容应对所有交战距离上的敌军，双臂的重型榴铳则能破坏掩体，使得防守方失去工事的掩护。\n根据愚人众与皇家军官学院共同编写的作战条令，当尖端全能攻坚型巡陆艇进入发起进攻时，周围的所有单位都应与其配合，在敌军的防线上迅速打开缺口，以便进行后续的纵深进攻，彻底瓦解敌军的防线…"
+      },
+      "description": {
+        "ru": "Эти элитные сухопутные крейсеры с хорошим соотношением передовых технологий,\nстоимости производства и частоты выходов в бой обеспечивают колоссальную пробивную мощь любому боевому строю и являются ключевой мощью на\nпередовой.\nУниверсальный боевой комплект сочетает многоствольные автоматические пушки с вращающимися лопастями для ближнего боя,\nпозволяя этому сухопутному крейсеру сражаться с противником на любой дистанции,\nа тяжёлые гаубицы в обеих пушках позволят ему уничтожать укрытия и лишать защитников возможности использовать укрепления.\nСогласно боевым доктринам, разработанным совместно Фатуи и Имперской военной академией,\nэти сухопутные крейсеры должны получать поддержку от всех находящихся рядом подразделений при атаке,\nбыстро пробивая брешь в обороне противника, что позволит проводить последующие атаки в глубину и уничтожать вражеские линии обороны...",
+        "en": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle,\nand are the key fulcrum of the frontline.\nThe all-purpose storm combat package combines multi-barrel automatic guns with close-quarter rotating blades, allowing this Landcruiser to battle opponents at any range,\nwhile heavy howitzers on both arms allow it to obliterate cover and deny defenders the benefit of their fortifications.\nAccording to combat doctrine co-authored by the Fatui and the Royal Military Academy, these Landcruisers must be supported by all nearby units when they attack,\nspeedily punching a hole in enemy lines,\nwhich will allow for follow-up attacks in depth that will then cause the enemy defenses to collapse completely.",
+        "zh": "均衡了尖端技术、生产成本与出动率，为战斗序列赋予强大穿透力的精锐巡陆艇，是阵线上的重要支点。\n全能攻坚型的武装综合了多管自动机铳与近战旋刃，使得该型巡陆艇能够从容应对所有交战距离上的敌军，双臂的重型榴铳则能破坏掩体，使得防守方失去工事的掩护。\n根据愚人众与皇家军官学院共同编写的作战条令，当尖端全能攻坚型巡陆艇进入发起进攻时，周围的所有单位都应与其配合，在敌军的防线上迅速打开缺口，以便进行后续的纵深进攻，彻底瓦解敌军的防线…"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cutting_edge_all_purpose_scout_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Новейший многоцелевой разведчик",
+        "en": "Cutting Edge All-Purpose Scout Landcruiser",
+        "zh": "巡陆艇·尖端全能斥候型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cutting_edge_all_purpose_scout_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Эти элитные сухопутные крейсеры с хорошим соотношением передовых технологий,\nстоимости производства и частоты выходов в бой обеспечивают колоссальную пробивную мощь любому боевому строю и являются ключевой мощью на\nпередовой.\nУниверсальный разведывательный боевой комплект также предназначен для ведения боя как на дальних, так и на ближних дистанциях.\nОн не только возглавляет отряды разведывательных сухопутных крейсеров, но и оказывает непосредственную поддержку многоцелевым штурмовикам в интенсивных боях,\nтаких как форсирование специализированных траншей,\nпредназначенных для борьбы с сухопутными крейсерами, или уничтожение опорных пунктов противника.\nЭтот тип сухопутных крейсеров также может идти в авангарде, прорываясь в глубину, а затем разворачиваться на флангах и стремительно атаковать ключевые цели в тылу противника.",
+        "en": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle,\nand are the key fulcrum of the frontline.\nThe all-purpose scout combat package is designed for both long- and short-range combat, and not only leads scout Landcruiser squads,\nbut also provides close support for All-Purpose Storm Landcruisers during high-intensity battles, such as crossing specialized anti-Landcruiser trenches,\nor destroying enemy strongpoints.\nThis Landcruiser type can also keep up with the tip of the spear as it breaks through in depth,\nbefore swinging out to the wings and swiftly attacking key targets in the enemy's rear lines.",
+        "zh": "均衡了尖端技术、生产成本与出动率，为战斗序列赋予强大穿透力的精锐巡陆艇，是阵线上的重要支点。\n全能斥候型的武装同样兼顾了远近作战，不止能担任斥候型巡陆艇的领队，还可以在高烈度战斗中，为全能攻坚型提供近距离支援，诸如越过专门的「反巡陆艇壕沟」，拔除对方难缠的火力点。\n该型巡陆艇也能及时跟随矛头向纵深突破，并向两翼发展，快速打击敌军后方的各式关键目标…"
+      },
+      "description": {
+        "ru": "Эти элитные сухопутные крейсеры с хорошим соотношением передовых технологий,\nстоимости производства и частоты выходов в бой обеспечивают колоссальную пробивную мощь любому боевому строю и являются ключевой мощью на\nпередовой.\nУниверсальный разведывательный боевой комплект также предназначен для ведения боя как на дальних, так и на ближних дистанциях.\nОн не только возглавляет отряды разведывательных сухопутных крейсеров, но и оказывает непосредственную поддержку многоцелевым штурмовикам в интенсивных боях,\nтаких как форсирование специализированных траншей,\nпредназначенных для борьбы с сухопутными крейсерами, или уничтожение опорных пунктов противника.\nЭтот тип сухопутных крейсеров также может идти в авангарде, прорываясь в глубину, а затем разворачиваться на флангах и стремительно атаковать ключевые цели в тылу противника.",
+        "en": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle,\nand are the key fulcrum of the frontline.\nThe all-purpose scout combat package is designed for both long- and short-range combat, and not only leads scout Landcruiser squads,\nbut also provides close support for All-Purpose Storm Landcruisers during high-intensity battles, such as crossing specialized anti-Landcruiser trenches,\nor destroying enemy strongpoints.\nThis Landcruiser type can also keep up with the tip of the spear as it breaks through in depth,\nbefore swinging out to the wings and swiftly attacking key targets in the enemy's rear lines.",
+        "zh": "均衡了尖端技术、生产成本与出动率，为战斗序列赋予强大穿透力的精锐巡陆艇，是阵线上的重要支点。\n全能斥候型的武装同样兼顾了远近作战，不止能担任斥候型巡陆艇的领队，还可以在高烈度战斗中，为全能攻坚型提供近距离支援，诸如越过专门的「反巡陆艇壕沟」，拔除对方难缠的火力点。\n该型巡陆艇也能及时跟随矛头向纵深突破，并向两翼发展，快速打击敌军后方的各式关键目标…"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cutting_edge_fire_support_ground_effect_landcruiser",
+      "title": {
+        "ru": "Сухопутный крейсер: Новейшая наземная огневая поддержка",
+        "en": "Cutting Edge Fire Support Ground Effect Landcruiser",
+        "zh": "巡陆艇·尖端火力地效型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cutting_edge_fire_support_ground_effect_landcruiser.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Эти элитные сухопутные крейсеры с хорошим соотношением передовых технологий,\nстоимости производства и частоты выходов в бой обеспечивают колоссальную пробивную мощь любому боевому строю и являются ключевой мощью на\nпередовой.\nОснащённый высокоэффективными реактивными двигателями, этот сухопутный крейсер способен нести многочисленное вооружение,\nчто позволяет ему оперативно доставлять эту значительную огневую мощь в любую точку поля боя.\nВ связи с этим, боевые доктрины, разработанные совместно Фатуи и Имперской военной академией, гласят,\nчто в крупномасштабных сражениях они должны использоваться как силы быстрого реагирования,\nпризванные предотвращать прорывы и контратаки противника, а также развивать преимущество при благоприятном ходе сражения.\nКонечно, все подобные сухопутные крейсеры способны действовать самостоятельно, а в длительных вылазках они могут стать ядром небольшого отряда и, таким образом,\nмаксимально усилить огневую мощь различных типов подразделений Фатуи...",
+        "en": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle,\nand are the key fulcrum of the frontline.\nAfter being equipped with high-efficiency jet engines, this Ground Effect Landcruiser has gained the ability to carry multiple armaments,\nallowing it to deliver this sizable firepower anywhere on the battlefield in a timely fashion.\nAs such, the combat doctrine co-authored by the Fatui and the Royal Military Academy states that they are to be organized as a \"Quick Reaction Force\"in large-scale battles,\nmeant to guard against enemy breakthroughs or counterattacks, and to press the advantage if the battle is going favorably.\nOf course, all such Landcruisers have the ability to operate independently, and on long tours of duty,\nthey can form the core of a small squad and thus maximize the firepower of various Fatui unit types...",
+        "zh": "均衡了尖端技术、生产成本与出动率，为战斗序列赋予强大穿透力的精锐巡陆艇，是阵线上的重要支点。\n换装了高功率喷流引擎后，此型地效型巡陆艇获得了复数火器运用能力，可将不错的火力及时投送至阵线任何一处。\n因此，在愚人众与皇家军官学院共同编写的作战条令中，它们在大规模作战中，应被单独编为一支「快速反应部队」，用于防范敌人的突破或反冲击，以及在战局占优时扩大战果。\n当然，所有的尖端巡陆艇都有着单独执行任务的能力，在长期执勤作战中，它们随时可以作为一支小队的核心，充分发挥各式愚人众兵种的战力…"
+      },
+      "description": {
+        "ru": "Эти элитные сухопутные крейсеры с хорошим соотношением передовых технологий,\nстоимости производства и частоты выходов в бой обеспечивают колоссальную пробивную мощь любому боевому строю и являются ключевой мощью на\nпередовой.\nОснащённый высокоэффективными реактивными двигателями, этот сухопутный крейсер способен нести многочисленное вооружение,\nчто позволяет ему оперативно доставлять эту значительную огневую мощь в любую точку поля боя.\nВ связи с этим, боевые доктрины, разработанные совместно Фатуи и Имперской военной академией, гласят,\nчто в крупномасштабных сражениях они должны использоваться как силы быстрого реагирования,\nпризванные предотвращать прорывы и контратаки противника, а также развивать преимущество при благоприятном ходе сражения.\nКонечно, все подобные сухопутные крейсеры способны действовать самостоятельно, а в длительных вылазках они могут стать ядром небольшого отряда и, таким образом,\nмаксимально усилить огневую мощь различных типов подразделений Фатуи...",
+        "en": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle,\nand are the key fulcrum of the frontline.\nAfter being equipped with high-efficiency jet engines, this Ground Effect Landcruiser has gained the ability to carry multiple armaments,\nallowing it to deliver this sizable firepower anywhere on the battlefield in a timely fashion.\nAs such, the combat doctrine co-authored by the Fatui and the Royal Military Academy states that they are to be organized as a \"Quick Reaction Force\"in large-scale battles,\nmeant to guard against enemy breakthroughs or counterattacks, and to press the advantage if the battle is going favorably.\nOf course, all such Landcruisers have the ability to operate independently, and on long tours of duty,\nthey can form the core of a small squad and thus maximize the firepower of various Fatui unit types...",
+        "zh": "均衡了尖端技术、生产成本与出动率，为战斗序列赋予强大穿透力的精锐巡陆艇，是阵线上的重要支点。\n换装了高功率喷流引擎后，此型地效型巡陆艇获得了复数火器运用能力，可将不错的火力及时投送至阵线任何一处。\n因此，在愚人众与皇家军官学院共同编写的作战条令中，它们在大规模作战中，应被单独编为一支「快速反应部队」，用于防范敌人的突破或反冲击，以及在战局占优时扩大战果。\n当然，所有的尖端巡陆艇都有着单独执行任务的能力，在长期执勤作战中，它们随时可以作为一支小队的核心，充分发挥各式愚人众兵种的战力…"
+      },
+      "drops": [
+        {
+          "id": "close_combat_storm_landcruiser_drive_shafts",
+          "title": {
+            "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+            "en": "Drive Shafts",
+            "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "broken_drive_shaft",
+              "title": {
+                "ru": "Сломанный вал",
+                "en": "Broken Drive Shaft",
+                "zh": "毁损机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+            },
+            {
+              "key": "reinforced_drive_shaft",
+              "title": {
+                "ru": "Усиленный вал",
+                "en": "Reinforced Drive Shaft",
+                "zh": "加固机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+            },
+            {
+              "key": "precision_drive_shaft",
+              "title": {
+                "ru": "Высокоточный вал",
+                "en": "Precision Drive Shaft",
+                "zh": "精制机轴"
+              },
+              "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 8,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "broken_drive_shaft",
+      "title": {
+        "ru": "Сломанный вал",
+        "en": "Broken Drive Shaft",
+        "zh": "毁损机轴"
+      },
+      "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+      "text": {
+        "ru": "Вал сухопутного крейсера, уничтоженного в бою.\nДаже самая точная работа не выдержит чрезмерного износа, так же как и самые возвышенные идеалы не вернут погибших, отдавших жизнь за чужую цель.\nВпрочем, массово производимые детали трудно назвать точными, а массово навязанные идеалы - подлинными.",
+        "en": "The drive shaft of a Landcruiser destroyed in battle.\nEven the most precise craftsmanship cannot withstand excessive wear, just as the most lofty ideals cannot bring back those who've died in vain for\nsomeone else's cause.\nMoreover, mass-produced components can hardly be called precise, and mass-produced ideals can hardly be considered true ideals.",
+        "zh": "在战斗中损毁的巡陆艇机轴。\n即便是精密的工艺也难以胜过高强度的磨耗，正如无论何等宏伟的理想也难以挽回因他人理想而枉死之人的性命。况且量产的机关称不上精密，量产的理想也难称是理想。"
+      }
+    },
+    {
+      "key": "reinforced_drive_shaft",
+      "title": {
+        "ru": "Усиленный вал",
+        "en": "Reinforced Drive Shaft",
+        "zh": "加固机轴"
+      },
+      "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp",
+      "text": {
+        "ru": "Усиленный вал сухопутного крейсера.\nЭтому незначительному улучшению предшествовало бесчисленное количество докладов о поломках.\nВ некотором смысле, бюрократическая система Оружейного дворца куда сложнее, чем машины, которые она производит.\nВедь на постройку даже самых передовых сухопутных крейсеров не требуются месяцы или годы.",
+        "en": "The reinforced drive shaft of a Landcruiser.\nIt took countless reports of destruction to bring about this insignificant improvement.\nIn a sense, the administrative system of the Royal Armory Palace is several times more complex than the machinery it builds.\nAfter all, even the most advanced Landcruisers don't take months or even years to build.",
+        "zh": "经过加固处理的巡陆艇机轴。\n无数的损毁报告才换来这微不足道的改良。从某种意义上来说，帝国军械宫的行政体制也许比它所制造的机械本身还要复杂数十倍，毕竟即便是最先进的巡陆艇，也不需要消耗数月甚至数年的时间来制造。"
+      }
+    },
+    {
+      "key": "precision_drive_shaft",
+      "title": {
+        "ru": "Высокоточный вал",
+        "en": "Precision Drive Shaft",
+        "zh": "精制机轴"
+      },
+      "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp",
+      "text": {
+        "ru": "Вал сухопутного крейсера, усовершенствованный конструкторским бюро.\nНа чертежах северных инженеров эта неприметная деталь когда-то считалась безупречным воплощением славы и технического прогресса.\nВ её небольшом металлическом корпусе заключалась мудрость многих поколений. Теперь она лежит в холодной земле, ожидая переработки.",
+        "en": "The drive shaft of a Landcruiser refined by the Design Bureau.\nOn the blueprints drawn by the engineers of the north, this unassuming part was once the flawless embodiment of glory and technological advancement,\nits small metal body encapsulating the wisdom of countless generations.\nNow it lies in the cold dirt, waiting to be recycled once more.",
+        "zh": "由设计局精制的巡陆艇机轴。\n在北国的工程师规划的图纸上，这不起眼的小东西曾经是象征着荣耀与技术进步的完美杰作，无数世代智慧的成果凝结在这小小的金属元件之中。于是它就这样散落在冰冷的泥土中，等待下一次的回收。"
+      }
+    }
+  ],
+  "material_count": 3
+}

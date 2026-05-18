@@ -1,0 +1,774 @@
+{
+  "id": "samachurl_scrolls",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+  "title": {
+    "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+    "en": "Scrolls",
+    "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Divining Scroll",
+    "Sealed Scroll",
+    "Forbidden Curse Scroll",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "hydro_samachurl",
+    "anemo_samachurl",
+    "electro_samachurl",
+    "dendro_samachurl",
+    "cryo_samachurl",
+    "geo_samachurl"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "hydro_samachurl",
+      "title": {
+        "ru": "Гидро шамачурл",
+        "en": "Hydro Samachurl",
+        "zh": "水丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hydro_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, который воспевает силы Гидро элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Какую жизнь должны были прожить эти примитивные существа, чтобы научиться призывать дожди?",
+        "en": "A wizened, mumbling hilichurl, one that chants of the power of Hydro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?",
+        "zh": "嘟嘟囔囔的老年丘丘人，水元素的吟颂者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。究竟是怎样的过去，令这些愚昧的生物竟能掌握生水唤雨的秘诀？"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, который воспевает силы Гидро элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Какую жизнь должны были прожить эти примитивные существа, чтобы научиться призывать дожди?",
+        "en": "A wizened, mumbling hilichurl, one that chants of the power of Hydro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. What sort of life would lead to such simple creatures being able to summon water and rains?",
+        "zh": "嘟嘟囔囔的老年丘丘人，水元素的吟颂者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。究竟是怎样的过去，令这些愚昧的生物竟能掌握生水唤雨的秘诀？"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "anemo_samachurl",
+      "title": {
+        "ru": "Анемо шамачурл",
+        "en": "Anemo Samachurl",
+        "zh": "风丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/anemo_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, восхваляющий мощь Анемо.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Их умение управлять потоками ветра проистекает из тёмных забытых воспоминаний.",
+        "en": "A wizened, mumbling hilichurl, one that spreads the message of Anemo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories.",
+        "zh": "嘟嘟囔囔的老年丘丘人，风元素的传信者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，其牵掣流风的能力，正是来源于黑暗晦暝的失落记忆。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, восхваляющий мощь Анемо.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Их умение управлять потоками ветра проистекает из тёмных забытых воспоминаний.",
+        "en": "A wizened, mumbling hilichurl, one that spreads the message of Anemo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories.",
+        "zh": "嘟嘟囔囔的老年丘丘人，风元素的传信者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，其牵掣流风的能力，正是来源于黑暗晦暝的失落记忆。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "electro_samachurl",
+      "title": {
+        "ru": "Электро шамачурл",
+        "en": "Electro Samachurl",
+        "zh": "雷丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Электро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Поскольку они обладают высоким мастерством и могут служить проводниками молнии, они могут написать песню из раскатов грома.",
+        "en": "A wizened, mumbling Hilichurl, one that prays to Electro.\nHilichurls especially gifted in commanding elements who often reach the zenith of their skill in their twilight years. Since they possess such advanced skill in creating electricity and summoning thunder, you may as well use the crackling sound to compose an elegy.",
+        "zh": "嘟嘟囔囔的老年丘丘人，雷元素的祈求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，既然掌握了掣电引雷的高超技艺，便用这霹雳之声谱写挽歌吧。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Электро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Поскольку они обладают высоким мастерством и могут служить проводниками молнии, они могут написать песню из раскатов грома.",
+        "en": "A wizened, mumbling Hilichurl, one that prays to Electro.\nHilichurls especially gifted in commanding elements who often reach the zenith of their skill in their twilight years. Since they possess such advanced skill in creating electricity and summoning thunder, you may as well use the crackling sound to compose an elegy.",
+        "zh": "嘟嘟囔囔的老年丘丘人，雷元素的祈求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，既然掌握了掣电引雷的高超技艺，便用这霹雳之声谱写挽歌吧。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "dendro_samachurl",
+      "title": {
+        "ru": "Дендро шамачурл",
+        "en": "Dendro Samachurl",
+        "zh": "草丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, пробуждающий могущество Дендро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Под маской скрывается злая гримаса, а злобный шёпот плетётся словно отравленный плющ.",
+        "en": "A wizened, mumbling hilichurl, one that awakens the might of Dendro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it.",
+        "zh": "嘟嘟囔囔的老年丘丘人，草元素的唤醒者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。承载着面具下的不甘，憎恨人心的毒藤随呢喃蔓生而出。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, пробуждающий могущество Дендро.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Под маской скрывается злая гримаса, а злобный шёпот плетётся словно отравленный плющ.",
+        "en": "A wizened, mumbling hilichurl, one that awakens the might of Dendro.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. A grudge stirs beneath that mask, and poison ivy sprouts as hateful whispers issue forth from it.",
+        "zh": "嘟嘟囔囔的老年丘丘人，草元素的唤醒者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。承载着面具下的不甘，憎恨人心的毒藤随呢喃蔓生而出。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cryo_samachurl",
+      "title": {
+        "ru": "Крио шамачурл",
+        "en": "Cryo Samachurl",
+        "zh": "冰丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Крио.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Эти шаманы помнят древние морозные заклинания и используют их, чтобы сковывать своих врагов во льду.",
+        "en": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes.",
+        "zh": "嘟嘟囔囔的老年丘丘人，冰元素的呼求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。这些萨满熟忆寒霜的低语，更精通将之用于制敌的技艺。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, взывающий к силе Крио.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. Эти шаманы помнят древние морозные заклинания и используют их, чтобы сковывать своих врагов во льду.",
+        "en": "A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. These shamans remember the frosty chants and are even more skilled in the art of using them to entrap their foes.",
+        "zh": "嘟嘟囔囔的老年丘丘人，冰元素的呼求者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。这些萨满熟忆寒霜的低语，更精通将之用于制敌的技艺。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "geo_samachurl",
+      "title": {
+        "ru": "Гео шамачурл",
+        "en": "Geo Samachurl",
+        "zh": "岩丘丘萨满"
+      },
+      "icon": "assets/icons/enemies/common_enemies/geo_samachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, познавший тайны Гео элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. В сравнении с тысячелетними горами эти старые хиличурлы всего лишь дети, но их опыт и воспоминания позволили им обуздать силу скал и камней.",
+        "en": "A wizened, mumbling hilichurl, one that listens to the strength of Geo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone.",
+        "zh": "嘟嘟囔囔的老年丘丘人，岩元素的倾听者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。同千古的顽岩相比，即使最年老的丘丘人也不过孩童，但记忆与经验引导它们获得了操使岩石的权能。"
+      },
+      "description": {
+        "ru": "Умудрённый опытом бормочущий хиличурл, познавший тайны Гео элемента.\nХиличурлы, способные контролировать элементы, наиболее сильны на закате своих лет. В сравнении с тысячелетними горами эти старые хиличурлы всего лишь дети, но их опыт и воспоминания позволили им обуздать силу скал и камней.",
+        "en": "A wizened, mumbling hilichurl, one that listens to the strength of Geo.\nHilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. To the persevering mountains, these old hilichurls are but children, but their memories and experiences have guided them towards gaining power over rock and stone.",
+        "zh": "嘟嘟囔囔的老年丘丘人，岩元素的倾听者。\n在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。同千古的顽岩相比，即使最年老的丘丘人也不过孩童，但记忆与经验引导它们获得了操使岩石的权能。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 6,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "divining_scroll",
+      "title": {
+        "ru": "Свиток божественной магии",
+        "en": "Divining Scroll",
+        "zh": "导能绘卷"
+      },
+      "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+      "text": {
+        "ru": "Свиток, скорее всего относящийся к какой-то магии. Источает необъяснимое тепло.",
+        "en": "A scroll that likely relates to some kind of magic. Exudes an inexplicable but ominous warmth.",
+        "zh": "大抵是某种关于魔法的绘卷残篇。隐隐地散发着某种异样的、不详的温暖。"
+      }
+    },
+    {
+      "key": "sealed_scroll",
+      "title": {
+        "ru": "Свиток печати",
+        "en": "Sealed Scroll",
+        "zh": "封魔绘卷"
+      },
+      "icon": "assets/icons/items/common_enemies/sealed_scroll.webp",
+      "text": {
+        "ru": "Старый свиток, которому не достаёт деталей и ясности. Магические существа могут воссоздать по рисункам часть магии, описанной в нём.",
+        "en": "An old scroll lacking in detail and clarity. By following the images on it, some magical creatures can recreate a small part of its magic.",
+        "zh": "模糊地绘制了难解形象的古书断章。通过模仿其中的人物形象，一些魔物能小小地再现魔法的奇迹。"
+      }
+    },
+    {
+      "key": "forbidden_curse_scroll",
+      "title": {
+        "ru": "Свиток запретного проклятья",
+        "en": "Forbidden Curse Scroll",
+        "zh": "禁咒绘卷"
+      },
+      "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp",
+      "text": {
+        "ru": "Свиток, исписанный древними изображениями. Говорят, немногие могут расшифровать их значение, и те немногие учёные, у которых получилось, сошли с ума.",
+        "en": "A scroll inscribed with ancient images. It is said that few can decipher its meaning, and the few scholars that have all went mad.",
+        "zh": "绘制着古代形象的古书抄本。鲜有人能解读它的含义；据说最终理解了其中真意的学者都陷入了癫狂。"
+      }
+    }
+  ],
+  "material_count": 3
+}

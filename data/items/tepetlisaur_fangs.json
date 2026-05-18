@@ -1,0 +1,954 @@
+{
+  "id": "tepetlisaur_fangs",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+  "title": {
+    "ru": "Молодой клык / Клык взрослого / Клык тирана",
+    "en": "Fangs",
+    "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [
+    "Juvenile Fang",
+    "Seasoned Fang",
+    "Tyrant's Fang",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "tepetlisaur_whelp",
+    "tepetlisaurus",
+    "koholasaur_whelp",
+    "koholasaurus",
+    "yumkasaur_whelp",
+    "yumkasaurus",
+    "qucusaurus_chick",
+    "qucusaurus",
+    "iktomisaurus_chick",
+    "iktomisaurus",
+    "tatankasaur_whelp",
+    "tatankasaurus"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "tepetlisaur_whelp",
+      "title": {
+        "ru": "Детёныш тепетлизавра",
+        "en": "Tepetlisaur Whelp",
+        "zh": "幼嵴锋龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tepetlisaur_whelp.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Молодые тепетлизавры могут пробивать тоннели сквозь камни и твёрдый флогистон.\nУ них ещё не сформировались рога на лбу, и их навыки копания всё ещё развиваются.\nМолодые тепетлизавры часто застревают в камнях, когда тренируются копать.\nОднажды они вырастут и смогут свободно передвигаться даже через самые твёрдые грунты.",
+        "en": "A young Tepetlisaurus with the ability to tunnel between rocks and solid phlogiston.\nThey have not yet formed the horns on their forehead, and their digging skills are still developing as well.\nIt is even common to hear about young Tepetlisaurs getting trapped by rocks while practicing their digging.\nHowever, one day, they will grow into a form that may travel freely through even the toughest of soils.",
+        "zh": "年幼的嵴锋龙，拥有在山石与固态燃素中穿梭的能力。\n额前尚未形成钻角，而开掘的技术也不够熟练。\n甚至经常听闻练习挖掘的幼嵴锋龙被山石困住的事。\n不过终有一日，能够成长为在坚土中自由穿行的样貌吧。"
+      },
+      "description": {
+        "ru": "Молодые тепетлизавры могут пробивать тоннели сквозь камни и твёрдый флогистон.\nУ них ещё не сформировались рога на лбу, и их навыки копания всё ещё развиваются.\nМолодые тепетлизавры часто застревают в камнях, когда тренируются копать.\nОднажды они вырастут и смогут свободно передвигаться даже через самые твёрдые грунты.",
+        "en": "A young Tepetlisaurus with the ability to tunnel between rocks and solid phlogiston.\nThey have not yet formed the horns on their forehead, and their digging skills are still developing as well.\nIt is even common to hear about young Tepetlisaurs getting trapped by rocks while practicing their digging.\nHowever, one day, they will grow into a form that may travel freely through even the toughest of soils.",
+        "zh": "年幼的嵴锋龙，拥有在山石与固态燃素中穿梭的能力。\n额前尚未形成钻角，而开掘的技术也不够熟练。\n甚至经常听闻练习挖掘的幼嵴锋龙被山石困住的事。\n不过终有一日，能够成长为在坚土中自由穿行的样貌吧。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "tepetlisaurus",
+      "title": {
+        "ru": "Тепетлизавр",
+        "en": "Tepetlisaurus",
+        "zh": "嵴锋龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tepetlisaurus.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Завриан с рогом и когтями, способными пробивать камень и твёрдый флогистон.\nПо легенде, предок тепетлизавров был огромным драконом размером с гору, жил он невероятно долго.\nКогда он спал, на его спине образовывались горы, а когда просыпался, стряхивал грязь и камни, оставляя сверкающие самоцветы и нефрит среди своих чешуек.\nОгромные объекты в форме сверла у Детей Эха считаются останками рога этого дракона.",
+        "en": "A Saurian with a drill-like horn and strong claws that can tunnel through rocks and solid phlogiston.\nAccording to legend, the ancestor of all Tepetlisaurs was a massive drake as large as a mountain, with an exceptionally long lifespan.\nWhen it slept, mountains would form along its back, and when it woke, it would shake off the dirt and rocks, leaving behind gems and jade shining amongst its scales.\nThe huge, drill-shaped objects in the Children of Echoes are said to be the remains of that great drake's large drill-horn.",
+        "zh": "拥有钻角与坚爪，能够在山石与固态燃素中穿梭的龙。\n传说中，嵴锋龙的祖先是山一般巨大的龙兽，拥有相当漫长的寿命，沉睡时，群山在其背脊上成型，苏醒时，就会抖落身上的泥土与沉岩，唯留宝石与美玉在鳞角中熠熠生辉。\n「回声之子」\n部族中巨大的钻状物，据说是那时龙兽巨大钻角的遗留。"
+      },
+      "description": {
+        "ru": "Завриан с рогом и когтями, способными пробивать камень и твёрдый флогистон.\nПо легенде, предок тепетлизавров был огромным драконом размером с гору, жил он невероятно долго.\nКогда он спал, на его спине образовывались горы, а когда просыпался, стряхивал грязь и камни, оставляя сверкающие самоцветы и нефрит среди своих чешуек.\nОгромные объекты в форме сверла у Детей Эха считаются останками рога этого дракона.",
+        "en": "A Saurian with a drill-like horn and strong claws that can tunnel through rocks and solid phlogiston.\nAccording to legend, the ancestor of all Tepetlisaurs was a massive drake as large as a mountain, with an exceptionally long lifespan.\nWhen it slept, mountains would form along its back, and when it woke, it would shake off the dirt and rocks, leaving behind gems and jade shining amongst its scales.\nThe huge, drill-shaped objects in the Children of Echoes are said to be the remains of that great drake's large drill-horn.",
+        "zh": "拥有钻角与坚爪，能够在山石与固态燃素中穿梭的龙。\n传说中，嵴锋龙的祖先是山一般巨大的龙兽，拥有相当漫长的寿命，沉睡时，群山在其背脊上成型，苏醒时，就会抖落身上的泥土与沉岩，唯留宝石与美玉在鳞角中熠熠生辉。\n「回声之子」\n部族中巨大的钻状物，据说是那时龙兽巨大钻角的遗留。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "koholasaur_whelp",
+      "title": {
+        "ru": "Детёныш кохолазавра",
+        "en": "Koholasaur Whelp",
+        "zh": "幼鳍游龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/koholasaur_whelp.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Молодые кохолазавры могут плавать в воде и жидком флогистоне.\nИх кожа и ласты всё ещё мягкие и нежные, поэтому они не могут выдерживать высокие температуры, как взрослые кохолазавры.\nОднако однажды они вырастут и смогут свободно плавать в воде.",
+        "en": "A young Koholasaurus with the ability to swim through water and liquid phlogiston.\nTheir skin and flippers are still soft and tender, to the point that they can't even tolerate hot environments for long periods like adults.\nHowever, one day, they will grow into the form that can swim freely through the water.",
+        "zh": "年幼的鳍游龙，拥有在水域与液态燃素中游动的能力。\n皮肤与鳍肢尚且稚嫩，甚至还无法像成年的鳍游龙那样长时间待在高热的环境中。\n不过终有一日，能够成长为在水中自由遨游的样貌吧。"
+      },
+      "description": {
+        "ru": "Молодые кохолазавры могут плавать в воде и жидком флогистоне.\nИх кожа и ласты всё ещё мягкие и нежные, поэтому они не могут выдерживать высокие температуры, как взрослые кохолазавры.\nОднако однажды они вырастут и смогут свободно плавать в воде.",
+        "en": "A young Koholasaurus with the ability to swim through water and liquid phlogiston.\nTheir skin and flippers are still soft and tender, to the point that they can't even tolerate hot environments for long periods like adults.\nHowever, one day, they will grow into the form that can swim freely through the water.",
+        "zh": "年幼的鳍游龙，拥有在水域与液态燃素中游动的能力。\n皮肤与鳍肢尚且稚嫩，甚至还无法像成年的鳍游龙那样长时间待在高热的环境中。\n不过终有一日，能够成长为在水中自由遨游的样貌吧。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "koholasaurus",
+      "title": {
+        "ru": "Кохолазавр",
+        "en": "Koholasaurus",
+        "zh": "鳍游龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/koholasaurus.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Завриан с крепкими конечностями и длинным хвостом, который может плавать как в воде, так и в жидком флогистоне.\nПо легенде, древние драконы могли прекрасно адаптироваться к окружающей среде.\nСамый большой из них, плавая на поверхности воды, был похож на остров.\nГоворят, что современные кохолазавры - потомки этих огромных морских драконов.\nВ их широких спинах можно разглядеть черты древних морских чудовищ.",
+        "en": "A Saurian with thick, strong flippers and a long tail that can swim in water and liquid phlogiston.\nAccording to legend, more ancient dragons were even more able to adapt to their environments, and when the largest dragon in the ocean of the age floated on the surface,\nit could even be mistaken for an island.\nIt is said that today's Koholasaurus are the descendants of that great sea dragon, and in their broad backs the colossal forms of those ancient sea beasts may yet be glimpsed.",
+        "zh": "具有粗壮的鳍肢与长尾，能够在水域与液态燃素中游动的龙。\n传说中，更为远古的龙拥有更加强的环境适应度，那时海中最为巨大的龙漂浮在水面上时，甚至会让人误以为是一座浮起的岛屿。\n据说现在的鳍游龙就是那种巨大海龙的后裔，从其宽阔的背部，似乎也能窥得远古海兽的庞然形态。"
+      },
+      "description": {
+        "ru": "Завриан с крепкими конечностями и длинным хвостом, который может плавать как в воде, так и в жидком флогистоне.\nПо легенде, древние драконы могли прекрасно адаптироваться к окружающей среде.\nСамый большой из них, плавая на поверхности воды, был похож на остров.\nГоворят, что современные кохолазавры - потомки этих огромных морских драконов.\nВ их широких спинах можно разглядеть черты древних морских чудовищ.",
+        "en": "A Saurian with thick, strong flippers and a long tail that can swim in water and liquid phlogiston.\nAccording to legend, more ancient dragons were even more able to adapt to their environments, and when the largest dragon in the ocean of the age floated on the surface,\nit could even be mistaken for an island.\nIt is said that today's Koholasaurus are the descendants of that great sea dragon, and in their broad backs the colossal forms of those ancient sea beasts may yet be glimpsed.",
+        "zh": "具有粗壮的鳍肢与长尾，能够在水域与液态燃素中游动的龙。\n传说中，更为远古的龙拥有更加强的环境适应度，那时海中最为巨大的龙漂浮在水面上时，甚至会让人误以为是一座浮起的岛屿。\n据说现在的鳍游龙就是那种巨大海龙的后裔，从其宽阔的背部，似乎也能窥得远古海兽的庞然形态。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "yumkasaur_whelp",
+      "title": {
+        "ru": "Детёныш юмказавра",
+        "en": "Yumkasaur Whelp",
+        "zh": "幼匿叶龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/yumkasaur_whelp.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Молодые юмказавры могут выплёвывать пламегранатовый пектин, который хранят в защёчных мешочках, чтобы обвивать предметы на расстоянии.\nИх сила удержания объектов недостаточно велика, как и чувство равновесия, чтобы свободно перемещаться по воздуху.\nИногда они даже падают набок, просто сидя на хвостах.\nНо однажды они вырастут и смогут свободно раскачиваться между деревьями.",
+        "en": "A young Yumkasaurus with the ability to spit Flamegranate pectin hidden in their cheek pouches out, wrapping around distant objects.\nTheir hold on pectin-coated objects isn't strong enough, nor is their sense of balance good enough to allow them to move freely through the air.\nSometimes, they'll even fall over to one side just sitting on their tails.\nHowever, one day, they will grow into the form that can swing freely between the trees without a care.",
+        "zh": "年幼的匿叶龙，可以吐出藏在颊袋中的火榴果胶卷住远处的物体。\n卷住物体的力量并不强，自身的平衡感也远未达到可在空中自如穿梭的程度，有时即使是坐在尾巴上也会不由自主地向着一侧倾倒。\n不过终有一日，能够成长为在林间悠然摆荡的样貌吧。"
+      },
+      "description": {
+        "ru": "Молодые юмказавры могут выплёвывать пламегранатовый пектин, который хранят в защёчных мешочках, чтобы обвивать предметы на расстоянии.\nИх сила удержания объектов недостаточно велика, как и чувство равновесия, чтобы свободно перемещаться по воздуху.\nИногда они даже падают набок, просто сидя на хвостах.\nНо однажды они вырастут и смогут свободно раскачиваться между деревьями.",
+        "en": "A young Yumkasaurus with the ability to spit Flamegranate pectin hidden in their cheek pouches out, wrapping around distant objects.\nTheir hold on pectin-coated objects isn't strong enough, nor is their sense of balance good enough to allow them to move freely through the air.\nSometimes, they'll even fall over to one side just sitting on their tails.\nHowever, one day, they will grow into the form that can swing freely between the trees without a care.",
+        "zh": "年幼的匿叶龙，可以吐出藏在颊袋中的火榴果胶卷住远处的物体。\n卷住物体的力量并不强，自身的平衡感也远未达到可在空中自如穿梭的程度，有时即使是坐在尾巴上也会不由自主地向着一侧倾倒。\n不过终有一日，能够成长为在林间悠然摆荡的样貌吧。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "yumkasaurus",
+      "title": {
+        "ru": "Юмказавр",
+        "en": "Yumkasaurus",
+        "zh": "匿叶龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/yumkasaurus.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Завриан с сильными задними конечностями и пушистым хвостом, может выплёвывать пламегранатовый пектин, который хранит в защёчных мешочках, чтобы обвивать предметы на расстоянии.\nПо легенде, изначальные юмказавры были намного меньше, так малы, что их трудно было увидеть.\nОни могли свободно путешествовать с ветром, цепляясь за тела огромных драконов или собираясь в группы, чтобы двигаться как облака.\nНо чтобы сохранить форму после утраты способностей, им пришлось принять нынешний облик.",
+        "en": "A Saurian with powerful hind legs and a fluffy tail, capable of spitting Flamegranate pectin hidden in their cheek pouches out, wrapping around distant objects.\nAccording to legend, the original Yumkasaurs were not at all like today, but much smaller, so small that they were difficult even to see.\nThey could roam freely with the wind, cling to the bodies of the massive dragons, or gather in groups to move about like clouds.\nHowever, in order to maintain their form after their abilities degenerated, they had no choice but to assume their current shape.",
+        "zh": "拥有强壮的后肢与蓬松的尾部，能够吐出藏在颊袋中的火榴果胶卷住远处物体的龙。\n传说中，原本的匿叶龙并非现在的模样，而是更小，小到不易被观察到的程度。\n它们甚至可以随意游荡在风中，依附在其他巨龙的身体表面，或是如云一般群聚与游移。\n只是后来为了能够维持住能力退化后的形态，不得不选择现在的身姿。"
+      },
+      "description": {
+        "ru": "Завриан с сильными задними конечностями и пушистым хвостом, может выплёвывать пламегранатовый пектин, который хранит в защёчных мешочках, чтобы обвивать предметы на расстоянии.\nПо легенде, изначальные юмказавры были намного меньше, так малы, что их трудно было увидеть.\nОни могли свободно путешествовать с ветром, цепляясь за тела огромных драконов или собираясь в группы, чтобы двигаться как облака.\nНо чтобы сохранить форму после утраты способностей, им пришлось принять нынешний облик.",
+        "en": "A Saurian with powerful hind legs and a fluffy tail, capable of spitting Flamegranate pectin hidden in their cheek pouches out, wrapping around distant objects.\nAccording to legend, the original Yumkasaurs were not at all like today, but much smaller, so small that they were difficult even to see.\nThey could roam freely with the wind, cling to the bodies of the massive dragons, or gather in groups to move about like clouds.\nHowever, in order to maintain their form after their abilities degenerated, they had no choice but to assume their current shape.",
+        "zh": "拥有强壮的后肢与蓬松的尾部，能够吐出藏在颊袋中的火榴果胶卷住远处物体的龙。\n传说中，原本的匿叶龙并非现在的模样，而是更小，小到不易被观察到的程度。\n它们甚至可以随意游荡在风中，依附在其他巨龙的身体表面，或是如云一般群聚与游移。\n只是后来为了能够维持住能力退化后的形态，不得不选择现在的身姿。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "qucusaurus_chick",
+      "title": {
+        "ru": "Детёныш кукузавра",
+        "en": "Qucusaurus Chick",
+        "zh": "幼绒翼龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/qucusaurus_chick.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Проворный детёныш кукузавра.\nЕго шея и крылья пока не полностью развились, и ему предстоит пройти долгий путь, прежде чем он сможет по-настоящему виртуозно владеть газообразным флогистоном.\nСуществуют истории о том, как взрослые кукузавры сталкивают малышей со скал, чтобы побудить их к полёту.\nИ хотя неизвестно, насколько такие истории правдивы, пока детёныш продолжает постоянно тренироваться, можно не сомневаться, что в итоге он вырастет сильным и выносливым.",
+        "en": "A young Qucusaur with a light, agile body.\nIts neck and wings have yet to fully develop, and it still has a long way to go before it can wield gaseous phlogiston.\nThere are stories of older Qucusaurs pushing younglings off cliffs to encourage them to fly.\nWhile the truth of such tales is uncertain, as long as it keeps practicing day and night,\nthere can be no doubt that the soft-feathered fledgling will eventually grow strong and resilient.",
+        "zh": "年幼的绒翼龙，拥有轻巧的身姿。\n脖颈与羽翼尚未完全生长开，对气态燃素的运用也十分生疏。\n也有年长的绒翼龙为促进幼龙的飞行而将它们推下山崖的逸话。\n虽然不知传言的真假，不过只要经历夜以继日的锻炼，稚嫩的翎羽总会有逐渐变得坚硬的一天。"
+      },
+      "description": {
+        "ru": "Проворный детёныш кукузавра.\nЕго шея и крылья пока не полностью развились, и ему предстоит пройти долгий путь, прежде чем он сможет по-настоящему виртуозно владеть газообразным флогистоном.\nСуществуют истории о том, как взрослые кукузавры сталкивают малышей со скал, чтобы побудить их к полёту.\nИ хотя неизвестно, насколько такие истории правдивы, пока детёныш продолжает постоянно тренироваться, можно не сомневаться, что в итоге он вырастет сильным и выносливым.",
+        "en": "A young Qucusaur with a light, agile body.\nIts neck and wings have yet to fully develop, and it still has a long way to go before it can wield gaseous phlogiston.\nThere are stories of older Qucusaurs pushing younglings off cliffs to encourage them to fly.\nWhile the truth of such tales is uncertain, as long as it keeps practicing day and night,\nthere can be no doubt that the soft-feathered fledgling will eventually grow strong and resilient.",
+        "zh": "年幼的绒翼龙，拥有轻巧的身姿。\n脖颈与羽翼尚未完全生长开，对气态燃素的运用也十分生疏。\n也有年长的绒翼龙为促进幼龙的飞行而将它们推下山崖的逸话。\n虽然不知传言的真假，不过只要经历夜以继日的锻炼，稚嫩的翎羽总会有逐渐变得坚硬的一天。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "qucusaurus",
+      "title": {
+        "ru": "Кукузавр",
+        "en": "Qucusaurus",
+        "zh": "绒翼龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/qucusaurus.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Завриан с огромными гибкими крыльями, который довольно долго может летать в небе.\nГоворят, что предки кукузавров были наиболее близки по форме к могучим крылатым драконам и могли парить в небе подобно облакам.\nПо словам сказителей, когда самый большой из таких драконов расправлял крылья, он заслонял собой всё небо.\nКонечно, кукузавры, которых мы видим сегодня, уже не такие, но когти, которые они прячут в своих пушистых перьях, остаются такими же острыми, как и прежде.",
+        "en": "A Saurian with large, supple wings that can glide through the air for long periods.\nIt is said that the ancestors of the Qucusaurs were the closest in form to the mighty winged dragons, and that they could soar through the sky like clouds.\nAccording to the storytellers, when the greatest of such dragons spread its wings, the entire sky would be blotted out.\nOf course, the Qucusaurs we see today no longer possess such forms, but the claws they hide within their downy feather coats remain as sharp as ever.",
+        "zh": "拥有巨大且柔软的羽翅，能够在空中长时间滑行的龙。\n据说绒翼龙的先祖是最接近巨大翼龙形态的龙兽，能够如云一般在天际巡游。\n叙事人的故事里，远古翼龙里最伟大的那只，只要张开翅膀，就可以遮蔽一整片天空。\n如今的绒翼龙自然不再具有那样的形态，只有藏在绒羽之中的龙爪仍如从前一般锋利。"
+      },
+      "description": {
+        "ru": "Завриан с огромными гибкими крыльями, который довольно долго может летать в небе.\nГоворят, что предки кукузавров были наиболее близки по форме к могучим крылатым драконам и могли парить в небе подобно облакам.\nПо словам сказителей, когда самый большой из таких драконов расправлял крылья, он заслонял собой всё небо.\nКонечно, кукузавры, которых мы видим сегодня, уже не такие, но когти, которые они прячут в своих пушистых перьях, остаются такими же острыми, как и прежде.",
+        "en": "A Saurian with large, supple wings that can glide through the air for long periods.\nIt is said that the ancestors of the Qucusaurs were the closest in form to the mighty winged dragons, and that they could soar through the sky like clouds.\nAccording to the storytellers, when the greatest of such dragons spread its wings, the entire sky would be blotted out.\nOf course, the Qucusaurs we see today no longer possess such forms, but the claws they hide within their downy feather coats remain as sharp as ever.",
+        "zh": "拥有巨大且柔软的羽翅，能够在空中长时间滑行的龙。\n据说绒翼龙的先祖是最接近巨大翼龙形态的龙兽，能够如云一般在天际巡游。\n叙事人的故事里，远古翼龙里最伟大的那只，只要张开翅膀，就可以遮蔽一整片天空。\n如今的绒翼龙自然不再具有那样的形态，只有藏在绒羽之中的龙爪仍如从前一般锋利。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "iktomisaurus_chick",
+      "title": {
+        "ru": "Детёныш иктомизавра",
+        "en": "Iktomisaurus Chick",
+        "zh": "幼暝视龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/iktomisaurus_chick.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Молодой иктомизавр обладает особым чутьём.\nОн ещё не обзавелся полноценным оперением и даже может показаться немного медлительным.\nГоворят, что среди ныне живущих заврианов у иктомизавров не только самая долгая жизнь, но и самое длинное детство.\nОни способны общаться с Царством Ночи или Вайоб, хотя может пройти много лет, прежде чем молодые особи смогут полностью постичь их.",
+        "en": "A young Iktomisaur with a keen sense of perception.\nIt has yet to grow its full plumage and may even appear a little slow on the uptake.\nIt is said that among the Saurians that now live, Iktomisaurs not only have the longest lifespans, but spend the longest time as juveniles too.\nThey possess the capacity to communicate with the Night Kingdom or Wayob, though it may take many years before the young Saurians can fully comprehend this.",
+        "zh": "年幼的暝视龙，拥有细腻的感知力。\n尚未生长出覆羽，甚至看上去并不聪慧。\n据说暝视龙在现有的龙众中拥有最漫长的寿命，也拥有更长的幼年期。\n它们拥有与夜神之国或是大灵沟通的能力，只不过年幼的暝视龙要能够理解其中的一切或许还需经历许多岁月。"
+      },
+      "description": {
+        "ru": "Молодой иктомизавр обладает особым чутьём.\nОн ещё не обзавелся полноценным оперением и даже может показаться немного медлительным.\nГоворят, что среди ныне живущих заврианов у иктомизавров не только самая долгая жизнь, но и самое длинное детство.\nОни способны общаться с Царством Ночи или Вайоб, хотя может пройти много лет, прежде чем молодые особи смогут полностью постичь их.",
+        "en": "A young Iktomisaur with a keen sense of perception.\nIt has yet to grow its full plumage and may even appear a little slow on the uptake.\nIt is said that among the Saurians that now live, Iktomisaurs not only have the longest lifespans, but spend the longest time as juveniles too.\nThey possess the capacity to communicate with the Night Kingdom or Wayob, though it may take many years before the young Saurians can fully comprehend this.",
+        "zh": "年幼的暝视龙，拥有细腻的感知力。\n尚未生长出覆羽，甚至看上去并不聪慧。\n据说暝视龙在现有的龙众中拥有最漫长的寿命，也拥有更长的幼年期。\n它们拥有与夜神之国或是大灵沟通的能力，只不过年幼的暝视龙要能够理解其中的一切或许还需经历许多岁月。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "iktomisaurus",
+      "title": {
+        "ru": "Иктомизавр",
+        "en": "Iktomisaurus",
+        "zh": "暝视龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/iktomisaurus.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Иктомизавры, способные использовать своё оперение для прыжков, также являются единственной разновидностью заврианов, которые научились входить в состояние «Говорящий с духами».\nСогласно легенде, их предки не имели физической формы, а могли дрейфовать, как духи, между реальностью и духовной сферой, проявляя себя через ночную тьму.\nНекоторые также говорят, что первый иктомизавр, появившийся из Царства Ночи, на самом деле не был настоящим заврианом, а скорее уникальным видом, отличающимся от всех остальных.",
+        "en": "Able to use their plumage for leaping, Iktomisaurs are also the only type of Saurian to have grasped how to enter the \"Spiritspeaker\"state.\nAccording to legend, their ancestors did not have a physical form, and instead could drift like spirits between reality and the spiritual realm,\nmanifesting themselves through the darkness of night.\nSome also say that the first Iktomisaur to emerge from the Night Kingdom was not actually a true Saurian, but rather a unique race distinct from ordinary Saurians.",
+        "zh": "能够利用生长出的覆羽进行腾跃，亦是唯一一种掌握了进入「灵觉」\n状态技巧的龙。\n传说中，暝视龙的祖先不具备真正的实体，而能如游魂一般在魂灵和现实的世界穿梭，可以借由夜色显化自己的形体。\n也有传言，世上第一只暝视龙并非真正的龙，而是自夜神的国度走出的有别于正常龙众的种族。"
+      },
+      "description": {
+        "ru": "Иктомизавры, способные использовать своё оперение для прыжков, также являются единственной разновидностью заврианов, которые научились входить в состояние «Говорящий с духами».\nСогласно легенде, их предки не имели физической формы, а могли дрейфовать, как духи, между реальностью и духовной сферой, проявляя себя через ночную тьму.\nНекоторые также говорят, что первый иктомизавр, появившийся из Царства Ночи, на самом деле не был настоящим заврианом, а скорее уникальным видом, отличающимся от всех остальных.",
+        "en": "Able to use their plumage for leaping, Iktomisaurs are also the only type of Saurian to have grasped how to enter the \"Spiritspeaker\"state.\nAccording to legend, their ancestors did not have a physical form, and instead could drift like spirits between reality and the spiritual realm,\nmanifesting themselves through the darkness of night.\nSome also say that the first Iktomisaur to emerge from the Night Kingdom was not actually a true Saurian, but rather a unique race distinct from ordinary Saurians.",
+        "zh": "能够利用生长出的覆羽进行腾跃，亦是唯一一种掌握了进入「灵觉」\n状态技巧的龙。\n传说中，暝视龙的祖先不具备真正的实体，而能如游魂一般在魂灵和现实的世界穿梭，可以借由夜色显化自己的形体。\n也有传言，世上第一只暝视龙并非真正的龙，而是自夜神的国度走出的有别于正常龙众的种族。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "tatankasaur_whelp",
+      "title": {
+        "ru": "Детёныш татанказавра",
+        "en": "Tatankasaur Whelp",
+        "zh": "幼突角龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tatankasaur_whelp.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Молодой татанказавр, который ещё не может полностью контролировать силу своего тела, поэтому несколько неуклюж.\nВторая пара рогов выросла не полностью, а силы спины и брюха недостаточно, чтобы разрушать преграждающие путь камни.\nНо если малыш вырастет здоровым, однажды он будет вольготно бродить по плодородным равнинам.",
+        "en": "A young Tatankasaurus that has not yet mastered full control of its powerful frame, leaving its movements clumsy.\nIts second set of horns are still growing out, and its back and snout are not quite strong enough to smash through rocks that block the road.\nGiven the time to grow, it will one day be able to roam freely across the fertile plains.",
+        "zh": "年幼的突角龙，因无法完全掌控身躯的力量而有些笨拙。\n第二对副角并未生长完全，背部与腹部的力量也没有到能够摧毁挡路岩石的程度。\n但只要能够茁壮成长，总有能够在沃土平原之上自由驰骋的时刻吧。"
+      },
+      "description": {
+        "ru": "Молодой татанказавр, который ещё не может полностью контролировать силу своего тела, поэтому несколько неуклюж.\nВторая пара рогов выросла не полностью, а силы спины и брюха недостаточно, чтобы разрушать преграждающие путь камни.\nНо если малыш вырастет здоровым, однажды он будет вольготно бродить по плодородным равнинам.",
+        "en": "A young Tatankasaurus that has not yet mastered full control of its powerful frame, leaving its movements clumsy.\nIts second set of horns are still growing out, and its back and snout are not quite strong enough to smash through rocks that block the road.\nGiven the time to grow, it will one day be able to roam freely across the fertile plains.",
+        "zh": "年幼的突角龙，因无法完全掌控身躯的力量而有些笨拙。\n第二对副角并未生长完全，背部与腹部的力量也没有到能够摧毁挡路岩石的程度。\n但只要能够茁壮成长，总有能够在沃土平原之上自由驰骋的时刻吧。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "tatankasaurus",
+      "title": {
+        "ru": "Татанказавр",
+        "en": "Tatankasaurus",
+        "zh": "突角龙"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tatankasaurus.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Завриан с жёстким костяным гребнем и мощным телом, приспособленным для передвижения по вулканическим ландшафтам.\nСогласно легенде, предки татанказавров были настолько велики, что с помощью рогов могли сдвигать горы, но они были не столь ловкими, как их более мелкие потомки.\nВозможно, огромная сила, которой до сих пор обладают татанказавры, - это дар, передающийся по наследству.",
+        "en": "A saurian with a hard, bony crest and a powerful body suited to dashing around volcanic landscapes.\nAccording to legend, the Tatankasaurus's ancestors were so large they could use their horns to move mountains, but they lacked the agility of their smaller, modern relatives.\nPerhaps the great power that Tatankasaurs still possess is a gift passed down through their bloodline.",
+        "zh": "拥有坚硬的冠骨和强大身躯力量，能够在火山四周的原野上飞速疾驰的龙。\n传说中，原本的突角龙具有堪称庞大的形体，甚至可以用角顶着山峰进行移动，只不过行动远不如当今这样灵敏。\n或许如今突角龙身躯里所具备的那种力量，也是一种血脉之中的遗留。"
+      },
+      "description": {
+        "ru": "Завриан с жёстким костяным гребнем и мощным телом, приспособленным для передвижения по вулканическим ландшафтам.\nСогласно легенде, предки татанказавров были настолько велики, что с помощью рогов могли сдвигать горы, но они были не столь ловкими, как их более мелкие потомки.\nВозможно, огромная сила, которой до сих пор обладают татанказавры, - это дар, передающийся по наследству.",
+        "en": "A saurian with a hard, bony crest and a powerful body suited to dashing around volcanic landscapes.\nAccording to legend, the Tatankasaurus's ancestors were so large they could use their horns to move mountains, but they lacked the agility of their smaller, modern relatives.\nPerhaps the great power that Tatankasaurs still possess is a gift passed down through their bloodline.",
+        "zh": "拥有坚硬的冠骨和强大身躯力量，能够在火山四周的原野上飞速疾驰的龙。\n传说中，原本的突角龙具有堪称庞大的形体，甚至可以用角顶着山峰进行移动，只不过行动远不如当今这样灵敏。\n或许如今突角龙身躯里所具备的那种力量，也是一种血脉之中的遗留。"
+      },
+      "drops": [
+        {
+          "id": "tepetlisaur_fangs",
+          "title": {
+            "ru": "Молодой клык / Клык взрослого / Клык тирана",
+            "en": "Fangs",
+            "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "juvenile_fang",
+              "title": {
+                "ru": "Молодой клык",
+                "en": "Juvenile Fang",
+                "zh": "稚嫩的尖齿"
+              },
+              "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+            },
+            {
+              "key": "seasoned_fang",
+              "title": {
+                "ru": "Клык взрослого",
+                "en": "Seasoned Fang",
+                "zh": "老练的坚齿"
+              },
+              "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+            },
+            {
+              "key": "tyrants_fang",
+              "title": {
+                "ru": "Клык тирана",
+                "en": "Tyrant's Fang",
+                "zh": "横行霸者的利齿"
+              },
+              "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 12,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "juvenile_fang",
+      "title": {
+        "ru": "Молодой клык",
+        "en": "Juvenile Fang",
+        "zh": "稚嫩的尖齿"
+      },
+      "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+      "text": {
+        "ru": "Клык завриана из Натлана.\nС виду клык молодой особи. Если бы был способ определить возраст его владельца, возможно, подтвердилось бы, что он жил недолго.",
+        "en": "A tooth that fell from a Natlan Saurian.\nIt looks like it belonged to a juvenile creature.\nIf there was a way to determine the age of its previous owner, perhaps it would show that they had not yet roamed the world for long.",
+        "zh": "纳塔龙众脱落的牙。\n尚显稚嫩的牙齿，如果有从牙齿判断主人年龄的方式的话，或许就能看出这枚牙齿的主人并未在世上经历太久的岁月。"
+      }
+    },
+    {
+      "key": "seasoned_fang",
+      "title": {
+        "ru": "Клык взрослого",
+        "en": "Seasoned Fang",
+        "zh": "老练的坚齿"
+      },
+      "icon": "assets/icons/items/common_enemies/seasoned_fang.webp",
+      "text": {
+        "ru": "Прочный клык завриана из Натлана.\nСледы износа говорят о жизненном пути и битвах прежнего владельца. Среди заврианов Натлана обладатель такого клыка наверняка был грозным воином.",
+        "en": "A sturdy tooth that fell from a Natlan Saurian.\nWear and tear bear witness to the experiences and battles of its previous owner.\nAmong the many Saurians of Natlan, one with such a tooth must have been considered a formidable warrior indeed.",
+        "zh": "纳塔龙众脱落的坚牙。\n其上的磨损见证了其主人曾经历的生活与战斗，拥有这等牙齿的龙，想必在纳塔的诸多龙众中，也能被称为了不起的战士吧。"
+      }
+    },
+    {
+      "key": "tyrants_fang",
+      "title": {
+        "ru": "Клык тирана",
+        "en": "Tyrant's Fang",
+        "zh": "横行霸者的利齿"
+      },
+      "icon": "assets/icons/items/common_enemies/tyrants_fang.webp",
+      "text": {
+        "ru": "Острый клык могучего завриана из Натлана.\nЕго зазубренный край и устрашающая форма свидетельствуют о свирепости его владельца.\nСреди множества заврианов Натлана обладатель такого клыка, должно быть, был безжалостным тираном.",
+        "en": "A sharp tooth that fell from a mighty Natlan Saurian.\nIts serrated edge and fearsome shape attest to the ferocity of its owner in battle.\nAmong the many Saurians of Natlan, one with such a tooth must have been a ruthless tyrant indeed.",
+        "zh": "纳塔的强龙脱落的尖锐利齿。\n旁生的锯状结构与其狰狞的形态，可窥见其主人在战斗中的蛮勇。拥有这等牙齿的龙，想必在纳塔诸多龙众中，可称得上是横行无忌的霸者了吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

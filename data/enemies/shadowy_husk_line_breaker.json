@@ -31,7 +31,50 @@
     "en": "A pitch-dark soldier.\nOnce a proud warrior of an ancient underground nation,\nit no longer has any \"intelligence\"that it may still be called \"human.\"Yet the desire to destroy the foe and plunge into battle to defend others is etched into this empty suit of\narmor,\neven if no one remains to tell it where the enemy is or who or what exactly must be defended.",
     "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经不再具备身为「人」\n的智性了。\n为了歼敌、为了守护而陷阵的意志似乎仍然刻在这幅空壳当中，就算已经没有人能告诉它们敌在何方，要守护的又是什么。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_herald_wicked_torrents_statuettes",
+      "title": {
+        "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+        "en": "Statuettes",
+        "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.6",
+      "materials": [
+        {
+          "key": "gloomy_statuette",
+          "title": {
+            "ru": "Мрачная статуэтка",
+            "en": "Gloomy Statuette",
+            "zh": "晦暗刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+        },
+        {
+          "key": "dark_statuette",
+          "title": {
+            "ru": "Тёмная статуэтка",
+            "en": "Dark Statuette",
+            "zh": "夤夜刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+        },
+        {
+          "key": "deathly_statuette",
+          "title": {
+            "ru": "Смертельная статуэтка",
+            "en": "Deathly Statuette",
+            "zh": "幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

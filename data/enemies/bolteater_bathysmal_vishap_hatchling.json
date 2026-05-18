@@ -31,7 +31,50 @@
     "en": "A vishap that dwells deep beneath the abyssal depths. Due to certain social adaptations, it has manifested a form aligned with the Electro element.\nFollowing the demise of the Ancient Seven Sovereigns, a new generation of Sovereigns is presently being born.\nBut now that the Bathysmal Vishaps have evolved in this manner, they have lost their purity.\nAs such, the Dragon of Water will no longer be born from among their ranks.\nProphecy holds that the new Dragon of Water will definitely descend in the form of a human...\nThough the Dragons of Water that have returned to their complete form still see them as one of their own, they are closer to another race.\nPerhaps they figured that it is better to be closer to humans, since they chose to work with them, or perhaps they see their potential...",
     "zh": "生活在海渊之下的龙蜥。因为社会分工，而出现了雷元素的形态。\n古七王凋零之后，新一代的七王正在陆续诞生。只是深海龙蜥如此进化，失去了纯粹。水之龙已经不会在它们族群中诞生了。根据预言，新的水之龙一定会以人形降临…\n如今回归完全形态的水之龙虽仍把它们视作同族，但是却与另一种族走得更近。或许是因为选择了与人携手并进，「眷属」自然是能与人相容为好；又或许是因为看到了她们的潜力。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "geovishap_bone_shards",
+      "title": {
+        "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+        "en": "Bone Shards",
+        "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+      },
+      "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "fragile_bone_shard",
+          "title": {
+            "ru": "Хрупкие останки",
+            "en": "Fragile Bone Shard",
+            "zh": "脆弱的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+        },
+        {
+          "key": "sturdy_bone_shard",
+          "title": {
+            "ru": "Крепкие останки",
+            "en": "Sturdy Bone Shard",
+            "zh": "结实的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+        },
+        {
+          "key": "fossilized_bone_shard",
+          "title": {
+            "ru": "Окаменевшие останки",
+            "en": "Fossilized Bone Shard",
+            "zh": "石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

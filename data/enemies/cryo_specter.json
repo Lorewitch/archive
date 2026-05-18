@@ -31,7 +31,50 @@
     "en": "A monster born from highly-concentrated Cryo elements that can float in the air.\nA certain alchemist once studied these beings, speculating that they might be a kind of Slime or the Traveler, as none of the above needed a Vision to use the elements.\nHe was reprimanded by his teacher.",
     "zh": "高浓度的冰元素孕育而生的魔物，能够飘浮在空中。\n曾经有炼金术士调查过飘浮灵。\n他认为史莱姆和旅行者都能不借用神之眼使用元素，所以飘浮灵应该是史莱姆或者旅行者。\n他被导师训斥了。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "specter_spectrals",
+      "title": {
+        "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+        "en": "Spectrals",
+        "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.1",
+      "materials": [
+        {
+          "key": "spectral_husk",
+          "title": {
+            "ru": "Призрачная оболочка",
+            "en": "Spectral Husk",
+            "zh": "浮游干核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+        },
+        {
+          "key": "spectral_heart",
+          "title": {
+            "ru": "Призрачное сердце",
+            "en": "Spectral Heart",
+            "zh": "浮游幽核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+        },
+        {
+          "key": "spectral_nucleus",
+          "title": {
+            "ru": "Призрачное ядро",
+            "en": "Spectral Nucleus",
+            "zh": "浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

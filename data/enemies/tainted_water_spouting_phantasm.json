@@ -31,7 +31,50 @@
     "en": "Today, with the Oceanids extirpated from Fontaine, strange elemental life forms have appeared in the waters.\nIt is said that in Egeria's era, the Oceanids often lived alongside humans, and lived in the springs of clear waters dotted across the lands, and through this,\nthey connected the waters of the world.\nBut most died with their god, and for the survivors, the world no longer has any god they recognize.",
     "zh": "在纯水精灵如今在枫丹已经绝迹的当下，水中出现的奇异元素生命体。\n据说在厄歌莉娅的时代，纯水精灵常常与人同行，也曾经散布各地的清澈泉水中，借此将世界的水脉相互联系。\n但她们大多都随她们的神一同死去了，余下的也不再有她们的神。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "tainted_water_splitting_phantasm_materials",
+      "title": {
+        "ru": "Мутная капля / Мутная лужица / Новорождённый фантазм мутных вод",
+        "en": "Tainteds",
+        "zh": "浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵"
+      },
+      "icon": "assets/icons/items/common_enemies/drop_of_tainted_water.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "drop_of_tainted_water",
+          "title": {
+            "ru": "Мутная капля",
+            "en": "Drop of Tainted Water",
+            "zh": "浊水的一滴"
+          },
+          "icon": "assets/icons/items/common_enemies/drop_of_tainted_water.webp"
+        },
+        {
+          "key": "scoop_of_tainted_water",
+          "title": {
+            "ru": "Мутная лужица",
+            "en": "Scoop of Tainted Water",
+            "zh": "浊水的一掬"
+          },
+          "icon": "assets/icons/items/common_enemies/scoop_of_tainted_water.webp"
+        },
+        {
+          "key": "newborn_tainted_hydro_phantasm",
+          "title": {
+            "ru": "Новорождённый фантазм мутных вод",
+            "en": "Newborn Tainted Hydro Phantasm",
+            "zh": "初生的浊水幻灵"
+          },
+          "icon": "assets/icons/items/common_enemies/newborn_tainted_hydro_phantasm.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

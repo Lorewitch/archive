@@ -31,7 +31,50 @@
     "en": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nAll who dwell beneath the moon set out on journeys with their own goals and wishes in mind, but not all such wishes receive favor.\nSpirits that cannot rest due to engendered resentment, partings with loved ones, or desires that go unfulfilled, if corrupted by the Abyss, may transform into ghouls,\nforever lost in the thick mists of the Wild Hunt.",
     "zh": "伴随着漆黑的迷雾，徘徊在荒原冻土上的幽魂。\n他们的出现似乎预兆着更可怕的灾难。\n月下的人们怀揣着各自的愿望踏上旅途，但并非所有愿望都能得到注视。\n怨憎会、爱别离、求不得，因此而无法安息的灵魂，若是被深渊所污染，或许便会化作幽魂，永远迷失在狂猎的浓雾中。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "wilderness_exile_mistshrouds",
+      "title": {
+        "ru": "Туманное воплощение / Туманная пластина / Туманный шлем",
+        "en": "Mistshrouds",
+        "zh": "幽雾化形 / 幽雾片甲 / 幽雾兜盔"
+      },
+      "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "mistshroud_manifestation",
+          "title": {
+            "ru": "Туманное воплощение",
+            "en": "Mistshroud Manifestation",
+            "zh": "幽雾化形"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp"
+        },
+        {
+          "key": "mistshroud_plate",
+          "title": {
+            "ru": "Туманная пластина",
+            "en": "Mistshroud Plate",
+            "zh": "幽雾片甲"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_plate.webp"
+        },
+        {
+          "key": "mistshroud_helmet",
+          "title": {
+            "ru": "Туманный шлем",
+            "en": "Mistshroud Helmet",
+            "zh": "幽雾兜盔"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_helmet.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

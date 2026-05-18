@@ -31,7 +31,50 @@
     "en": "An elite agent among the Fatui.\nSelected while still children, they can only become an \"Operative\"after many long years of training and teaching, after countless rounds have winnowed the field.\nThey are the most outstanding soldiers among the Fatui, with extraordinary skill and unswerving loyalty.",
     "zh": "愚人众当中精锐的特务。\n自幼就被选中的人，经长久年月的教化与训练，在无数次的汰换后才能成为所谓的「役人」。\n是愚人众的阵列中最优秀的士兵，有着出色的身手与不渝的忠诚心。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "wind_operative_operatives",
+      "title": {
+        "ru": "Старые карманные часы сенешаля / Штатные карманные часы сенешаля / Постоянство сенешаля",
+        "en": "Operatives",
+        "zh": "老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻"
+      },
+      "icon": "assets/icons/items/common_enemies/old_operatives_pocket_watch.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.1",
+      "materials": [
+        {
+          "key": "old_operatives_pocket_watch",
+          "title": {
+            "ru": "Старые карманные часы сенешаля",
+            "en": "Old Operative's Pocket Watch",
+            "zh": "老旧的役人怀表"
+          },
+          "icon": "assets/icons/items/common_enemies/old_operatives_pocket_watch.webp"
+        },
+        {
+          "key": "operatives_standard_pocket_watch",
+          "title": {
+            "ru": "Штатные карманные часы сенешаля",
+            "en": "Operative's Standard Pocket Watch",
+            "zh": "役人的制式怀表"
+          },
+          "icon": "assets/icons/items/common_enemies/operatives_standard_pocket_watch.webp"
+        },
+        {
+          "key": "operatives_constancy",
+          "title": {
+            "ru": "Постоянство сенешаля",
+            "en": "Operative's Constancy",
+            "zh": "役人的时时刻刻"
+          },
+          "icon": "assets/icons/items/common_enemies/operatives_constancy.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

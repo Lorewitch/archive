@@ -31,7 +31,92 @@
     "en": "A Fatui mage who can command Cryo Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nReason dictates that those who lack Visions should not be able to control the elements as these mages do.\nHowever, in addition to using Mist Grass to control the Cryo Cicins, they also boldly wield the might of frost.\nSeeing them as they wander the land in their seemingly aimless way, one can't help but wonder about the duty that must compel them...",
     "zh": "操控着冰萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n没有神之眼的人类，理应是无法像她们这样自如地操控元素的；\n但她们却在利用雾虚草操控冰萤之余，肆无忌惮地挥霍着寒冰的力量。\n看似漫无目的地四处游荡的她们，又领受着何种不为人知的使命呢…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "fatui_electro_cicin_mage_materials",
+      "title": {
+        "ru": "Пыльца туманной травы / Мешочек с туманной травой / Пучок туманной травы",
+        "en": "Mist Grass Pollen",
+        "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
+      },
+      "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "mist_grass_pollen",
+          "title": {
+            "ru": "Пыльца туманной травы",
+            "en": "Mist Grass Pollen",
+            "zh": "雾虚花粉"
+          },
+          "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp"
+        },
+        {
+          "key": "mist_grass",
+          "title": {
+            "ru": "Мешочек с туманной травой",
+            "en": "Mist Grass",
+            "zh": "雾虚草囊"
+          },
+          "icon": "assets/icons/items/common_enemies/mist_grass.webp"
+        },
+        {
+          "key": "mist_grass_wick",
+          "title": {
+            "ru": "Пучок туманной травы",
+            "en": "Mist Grass Wick",
+            "zh": "雾虚灯芯"
+          },
+          "icon": "assets/icons/items/common_enemies/mist_grass_wick.webp"
+        }
+      ],
+      "material_count": 3
+    },
+    {
+      "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+      "title": {
+        "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+        "en": "Insignias",
+        "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "recruits_insignia",
+          "title": {
+            "ru": "Шеврон рядового",
+            "en": "Recruit's Insignia",
+            "zh": "新兵的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+        },
+        {
+          "key": "sergeants_insignia",
+          "title": {
+            "ru": "Шеврон сержанта",
+            "en": "Sergeant's Insignia",
+            "zh": "士官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+        },
+        {
+          "key": "lieutenants_insignia",
+          "title": {
+            "ru": "Шеврон офицера",
+            "en": "Lieutenant's Insignia",
+            "zh": "尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

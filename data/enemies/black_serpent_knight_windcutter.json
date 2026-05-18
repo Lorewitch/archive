@@ -31,7 +31,50 @@
     "en": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\"The Twilight Sword was once one of their number.\nThat realm's glory has been extinguished, never again to be reclaimed.",
     "zh": "在宫廷当中颇具地位的近卫军人，以名唤「至真之术」\n的剑斗技巧，扫除王家的敌人。\n「末光之剑」\n也曾是他们当中的一员。\n在王国的光荣尽数失落、一切都无可挽回之前。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_herald_wicked_torrents_statuettes",
+      "title": {
+        "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+        "en": "Statuettes",
+        "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.6",
+      "materials": [
+        {
+          "key": "gloomy_statuette",
+          "title": {
+            "ru": "Мрачная статуэтка",
+            "en": "Gloomy Statuette",
+            "zh": "晦暗刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+        },
+        {
+          "key": "dark_statuette",
+          "title": {
+            "ru": "Тёмная статуэтка",
+            "en": "Dark Statuette",
+            "zh": "夤夜刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+        },
+        {
+          "key": "deathly_statuette",
+          "title": {
+            "ru": "Смертельная статуэтка",
+            "en": "Deathly Statuette",
+            "zh": "幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "A warrior from the plains and a tribal guardian who watches over the golden fields.\nThe art of unarmed combat is regarded with great honor among the Collective of Plenty.\nWarriors who embark on the long path of training for such an art must possess the strength to hurl a spear a thousand yards.",
     "zh": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\n仅用肢体进行格斗在「沃陆之邦」\n被视为一种荣耀之行，为此踏上修行之路的战士，拥有将投矛投出万钧之势的臂力。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "forged_sand_interrogator_whistles",
+      "title": {
+        "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+        "en": "Whistles",
+        "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+      },
+      "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "sentrys_wooden_whistle",
+          "title": {
+            "ru": "Деревянный свисток дозорного",
+            "en": "Sentry's Wooden Whistle",
+            "zh": "卫从的木哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+        },
+        {
+          "key": "warriors_metal_whistle",
+          "title": {
+            "ru": "Металлический свисток воина",
+            "en": "Warrior's Metal Whistle",
+            "zh": "战士的铁哨"
+          },
+          "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+        },
+        {
+          "key": "saurian_crowned_warriors_golden_whistle",
+          "title": {
+            "ru": "Золотой свисток коронованного заврианами воина",
+            "en": "Saurian-Crowned Warrior's Golden Whistle",
+            "zh": "龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

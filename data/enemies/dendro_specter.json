@@ -31,7 +31,50 @@
     "en": "A monster born from high-density Dendro energy that can float in the air.\nA researcher from Vahumana once did research into the ecological peculiarities of Dendro Specters,\nfinding them to be quite similar to the legendary \"Aranara.\"His conclusion was that the Aranara were actually Dendro Specters.\nThis researcher would become a little-known writer of fairy tales.",
     "zh": "高浓度的草元素孕育而生的魔物，能够飘浮在空中。\n曾经有因论派的研究员对草飘浮灵的生态特征进行研究，发现与传说的「兰那罗」\n非常相似。\n他在一番考据后得出结论，所谓的兰那罗其实就是漂浮灵。\n后来这位研究员成为了籍籍无名的童话作家。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "specter_spectrals",
+      "title": {
+        "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+        "en": "Spectrals",
+        "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.1",
+      "materials": [
+        {
+          "key": "spectral_husk",
+          "title": {
+            "ru": "Призрачная оболочка",
+            "en": "Spectral Husk",
+            "zh": "浮游干核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+        },
+        {
+          "key": "spectral_heart",
+          "title": {
+            "ru": "Призрачное сердце",
+            "en": "Spectral Heart",
+            "zh": "浮游幽核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+        },
+        {
+          "key": "spectral_nucleus",
+          "title": {
+            "ru": "Призрачное ядро",
+            "en": "Spectral Nucleus",
+            "zh": "浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

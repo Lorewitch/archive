@@ -31,7 +31,50 @@
     "en": "A soldier of the Fatui Oprichniki, equipped with a staff-like device and tasked with providing emergency medical support to their comrades in arms.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited.\nIn practice, they tend to adopt more efficient methods of supporting their allies — mixing in with the different units and charging at the enemy lines.",
     "zh": "隶属于愚人众特辖队的士兵，装备了杖形器械，负责为战友提供应急医疗支援。\n事实上，疗愈师大多只受过速成培训，医疗援助能力十分有限。\n因此，他们更多时候会选择更高效的支援方式——与其他兵种混编，一同发起冲锋。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "oprichniki_line_trooper_warrants",
+      "title": {
+        "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+        "en": "Warrants",
+        "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "tattered_warrant",
+          "title": {
+            "ru": "Потрёпанный мандат",
+            "en": "Tattered Warrant",
+            "zh": "磨损的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+        },
+        {
+          "key": "immaculate_warrant",
+          "title": {
+            "ru": "Безупречный мандат",
+            "en": "Immaculate Warrant",
+            "zh": "精致的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+        },
+        {
+          "key": "frost_etched_warrant",
+          "title": {
+            "ru": "Заиндевевший мандат",
+            "en": "Frost-Etched Warrant",
+            "zh": "霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "A soldier of the Fatui Oprichniki, equipped with engineering tools and highly adept in close-range combat.\nTo meet the demands of battlefield operations, the Fatui Oprichniki established vanguard units, tasked with clearing the path of obstacles for advancing forces.\nAs for exactly what counts as an obstacle, that hardly matters.\nBe it an impassable ravine or a formidable foe standing in their way, they will remove it without hesitation — whatever it takes to ensure the banner of the Pale Star marches on.",
     "zh": "隶属于愚人众特辖队的士兵，装备了工兵器械，有着很强的白刃战能力。\n为满足作战任务的需求，愚人众特辖队设立了先锋士，以铲除行军的障碍。\n至于障碍究竟是什么，那并不重要，无论是天堑还是如天堑般难以跨过的强敌，凡是阻挡苍星的圣帜前进之物，他们都会不计代价地将其清除。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "oprichniki_line_trooper_warrants",
+      "title": {
+        "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+        "en": "Warrants",
+        "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "tattered_warrant",
+          "title": {
+            "ru": "Потрёпанный мандат",
+            "en": "Tattered Warrant",
+            "zh": "磨损的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+        },
+        {
+          "key": "immaculate_warrant",
+          "title": {
+            "ru": "Безупречный мандат",
+            "en": "Immaculate Warrant",
+            "zh": "精致的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+        },
+        {
+          "key": "frost_etched_warrant",
+          "title": {
+            "ru": "Заиндевевший мандат",
+            "en": "Frost-Etched Warrant",
+            "zh": "霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

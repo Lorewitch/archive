@@ -31,7 +31,50 @@
     "en": "A strange monster that must continually absorb heat to stay in an active state.\nThe ancient civilization used many different types of golden designs to drive the flow of phlogiston,\nallowing massive constructs and magnificent cities to operate under the wisdom of the golden patterns.\nIt is said that in addition to machines with fixed structures, the creatures known as Avatars of Lava are actually badly damaged lifeforms that were once created in the same way.\nHowever, after the flames of the sacred mountain were extinguished, most of them lost their sense of purpose and direction.",
     "zh": "需要持续不断吸收热量以维持活动状态的奇特魔物。\n古老的文明利用镌光的金纹驱使燃素流动的诸多法式，令巨大的造物与恢弘的城市得以在金纹创生的智慧中运转。\n据说除了固定结构的机械以外，名为熔岩游像的魔物其实也是以此方法创造的残缺生命，只不过在圣山的火焰熄灭之后，它们大多失去了目的与方向。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "eroding_avatar_of_lava_igniteds",
+      "title": {
+        "ru": "Пламенный камень / Пламенное семя жизни / Пламенное око",
+        "en": "Igniteds",
+        "zh": "聚燃的石块 / 聚燃的命种 / 聚燃的游像眼"
+      },
+      "icon": "assets/icons/items/common_enemies/ignited_stone.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "ignited_stone",
+          "title": {
+            "ru": "Пламенный камень",
+            "en": "Ignited Stone",
+            "zh": "聚燃的石块"
+          },
+          "icon": "assets/icons/items/common_enemies/ignited_stone.webp"
+        },
+        {
+          "key": "ignited_seed_of_life",
+          "title": {
+            "ru": "Пламенное семя жизни",
+            "en": "Ignited Seed of Life",
+            "zh": "聚燃的命种"
+          },
+          "icon": "assets/icons/items/common_enemies/ignited_seed_of_life.webp"
+        },
+        {
+          "key": "ignited_seeing_eye",
+          "title": {
+            "ru": "Пламенное око",
+            "en": "Ignited Seeing Eye",
+            "zh": "聚燃的游像眼"
+          },
+          "icon": "assets/icons/items/common_enemies/ignited_seeing_eye.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

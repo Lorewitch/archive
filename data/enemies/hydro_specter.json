@@ -31,7 +31,50 @@
     "en": "A monster birthed from a high concentration of Hydro that can float in the air.\nOn moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank.\nTheir furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales.",
     "zh": "高浓度的水元素孕育而生的魔物，能够飘浮在空中。\n在月夜里，飘荡在河边的水飘浮灵散发着幽光。\n鬼鬼祟祟的它们常被路过的旅人当作游魂，也因此成为了不少乡间民话的常客。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "specter_spectrals",
+      "title": {
+        "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+        "en": "Spectrals",
+        "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.1",
+      "materials": [
+        {
+          "key": "spectral_husk",
+          "title": {
+            "ru": "Призрачная оболочка",
+            "en": "Spectral Husk",
+            "zh": "浮游干核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+        },
+        {
+          "key": "spectral_heart",
+          "title": {
+            "ru": "Призрачное сердце",
+            "en": "Spectral Heart",
+            "zh": "浮游幽核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+        },
+        {
+          "key": "spectral_nucleus",
+          "title": {
+            "ru": "Призрачное ядро",
+            "en": "Spectral Nucleus",
+            "zh": "浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

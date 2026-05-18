@@ -1,0 +1,162 @@
+{
+  "id": "tenebrous_mimiflora_buds",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/refractive_bud.webp",
+  "title": {
+    "ru": "Преломляющий бутон / Ошеломляющий широколист / Иллюзорная листовая спираль",
+    "en": "Buds",
+    "zh": "折光的胚芽 / 惑光的阔叶 / 迷光的蜷叶之心"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.2",
+  "tags": [
+    "Refractive Bud",
+    "Bewildering Broadleaf",
+    "Illusory Leafcoil",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "tenebrous_mimiflora"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "tenebrous_mimiflora",
+      "title": {
+        "ru": "Сумрачная мимифлора",
+        "en": "Tenebrous Mimiflora",
+        "zh": "深邃拟覆叶"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tenebrous_mimiflora.webp",
+      "enemy_group": "abyss",
+      "region": "Натлан",
+      "game_version": "5.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Чудовища, появившиеся в этом мире из искажённого и тёмного измерения.\nИмеют форму растения.\nГоворят, что там, где плещутся разъедающие волны тёмного прилива, вырастают подобные растениям тёмные монстры.\nНо они имеют лишь поверхностное сходство с растениями, ибо эту форму они приняли для того, чтобы приблизиться к древовидному миру и извлечь из него необходимые концепции,\nпроанализировать их и подражать им.\nНекоторые безумцы даже утверждают, что эти подобия листьев являются прообразом врат в другие миры.",
+        "en": "Abyssal monsters that have descended to this world from the deep, dark depths of a twisted and alien world, they possess a plant-like appearance.\nIt is said that where the corrosive waves of the dark tide lap, such plant-like dark monsters will grow.\nBut they only bear a superficial resemblance to plants, for it is a form they only adopted to get closer to the tree-like world,\nthat they might extract the necessary concepts from it, and analyze and imitate them.\nSome raving lunatics who have lost their minds say that those things that extend out like leaves are actually the beginnings of gates to other worlds.",
+        "zh": "于深邃晦暗的扭曲异界降临此世的深渊魔物，拥有类似植物的形态。\n据说在漆黑的浪潮侵蚀之处，就会长出类似植物般黑暗的魔物。\n但植物只是表象，之所以具备这样的姿态，只不过是为了更接近树状世界的意型以从中汲取所需的概念并进行解析与模仿。\n也有失去理智的狂言者说，那些类似叶片般伸展出去的事物，其实是通往异界的门的雏形。"
+      },
+      "description": {
+        "ru": "Чудовища, появившиеся в этом мире из искажённого и тёмного измерения.\nИмеют форму растения.\nГоворят, что там, где плещутся разъедающие волны тёмного прилива, вырастают подобные растениям тёмные монстры.\nНо они имеют лишь поверхностное сходство с растениями, ибо эту форму они приняли для того, чтобы приблизиться к древовидному миру и извлечь из него необходимые концепции,\nпроанализировать их и подражать им.\nНекоторые безумцы даже утверждают, что эти подобия листьев являются прообразом врат в другие миры.",
+        "en": "Abyssal monsters that have descended to this world from the deep, dark depths of a twisted and alien world, they possess a plant-like appearance.\nIt is said that where the corrosive waves of the dark tide lap, such plant-like dark monsters will grow.\nBut they only bear a superficial resemblance to plants, for it is a form they only adopted to get closer to the tree-like world,\nthat they might extract the necessary concepts from it, and analyze and imitate them.\nSome raving lunatics who have lost their minds say that those things that extend out like leaves are actually the beginnings of gates to other worlds.",
+        "zh": "于深邃晦暗的扭曲异界降临此世的深渊魔物，拥有类似植物的形态。\n据说在漆黑的浪潮侵蚀之处，就会长出类似植物般黑暗的魔物。\n但植物只是表象，之所以具备这样的姿态，只不过是为了更接近树状世界的意型以从中汲取所需的概念并进行解析与模仿。\n也有失去理智的狂言者说，那些类似叶片般伸展出去的事物，其实是通往异界的门的雏形。"
+      },
+      "drops": [
+        {
+          "id": "tenebrous_mimiflora_buds",
+          "title": {
+            "ru": "Преломляющий бутон / Ошеломляющий широколист / Иллюзорная листовая спираль",
+            "en": "Buds",
+            "zh": "折光的胚芽 / 惑光的阔叶 / 迷光的蜷叶之心"
+          },
+          "icon": "assets/icons/items/common_enemies/refractive_bud.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.2",
+          "materials": [
+            {
+              "key": "refractive_bud",
+              "title": {
+                "ru": "Преломляющий бутон",
+                "en": "Refractive Bud",
+                "zh": "折光的胚芽"
+              },
+              "icon": "assets/icons/items/common_enemies/refractive_bud.webp"
+            },
+            {
+              "key": "bewildering_broadleaf",
+              "title": {
+                "ru": "Ошеломляющий широколист",
+                "en": "Bewildering Broadleaf",
+                "zh": "惑光的阔叶"
+              },
+              "icon": "assets/icons/items/common_enemies/bewildering_broadleaf.webp"
+            },
+            {
+              "key": "illusory_leafcoil",
+              "title": {
+                "ru": "Иллюзорная листовая спираль",
+                "en": "Illusory Leafcoil",
+                "zh": "迷光的蜷叶之心"
+              },
+              "icon": "assets/icons/items/common_enemies/illusory_leafcoil.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "refractive_bud",
+      "title": {
+        "ru": "Преломляющий бутон",
+        "en": "Refractive Bud",
+        "zh": "折光的胚芽"
+      },
+      "icon": "assets/icons/items/common_enemies/refractive_bud.webp",
+      "text": {
+        "ru": "Бутон, оставленный побеждённым монстром, известным как сумрачная мимифлора.\nГоворят, что когда это существо вышло из чёрных волн, первыми, что оно вырастило, были эти нежные бутоны, способные отражать элементальные силы.",
+        "en": "A leaf bud dropped by the monster known as the Tenebrous Mimiflora after being vanquished.\nIt is said that when this creature emerged from the Black Tide, the first things it grew were these tender buds capable of deflecting elemental power.",
+        "zh": "名为深邃拟覆叶的魔物在被击败后所掉落的芽叶。\n据说这种魔物自黑潮之中诞生时，最先生长而出的，就是这样能使元素的力量偏转的嫩芽。"
+      }
+    },
+    {
+      "key": "bewildering_broadleaf",
+      "title": {
+        "ru": "Ошеломляющий широколист",
+        "en": "Bewildering Broadleaf",
+        "zh": "惑光的阔叶"
+      },
+      "icon": "assets/icons/items/common_enemies/bewildering_broadleaf.webp",
+      "text": {
+        "ru": "Лист в форме стрелы, оставленный побеждённым монстром, известным как сумрачная мимифлора.\nПосле разложения артерий земли и извлечения воспоминаний, существо выращивает эти листья как средство хранения информации, которую оно расшифровало.\nВозможно, существует тесная связь между этими изысканно узорчатыми листьями и формами, которые может имитировать их хозяин.",
+        "en": "An arrow-shaped leaf dropped by the monster known as the Tenebrous Mimiflora after being vanquished.\nAfter corroding the Ley Lines and extracting the memories within, the creature grows these leaves as a means of storing the information it has\ndeciphered.\nThere may be a close link between these intricately patterned leaves and the forms that their host can mimic.",
+        "zh": "名为深邃拟覆叶的魔物在被击败后所掉落的箭形叶片。\n在侵蚀地脉并抽取其中的记忆后，魔物所生长出的承载自身解析出信息的载体。魔物能够拟态复现何种形态，或许与这些具有复杂纹路的枝叶息息相关。"
+      }
+    },
+    {
+      "key": "illusory_leafcoil",
+      "title": {
+        "ru": "Иллюзорная листовая спираль",
+        "en": "Illusory Leafcoil",
+        "zh": "迷光的蜷叶之心"
+      },
+      "icon": "assets/icons/items/common_enemies/illusory_leafcoil.webp",
+      "text": {
+        "ru": "Ядро, образованное из плотно свёрнутых листьев, оставленных побеждённым монстром, известным как сумрачная мимифлора.\nНа вид оно кажется безжизненным и тусклым, но внутри всё ещё ощущается слабая зловещая энергия.\nЛюди часто задаются вопросом: куда деваются воспоминания, которые подобные существа черпали из земли, после их гибели?\nВозможно, ответ кроется в этом ядре...",
+        "en": "A core formed from tightly coiled leaves, the remnant of the monster known as the Tenebrous Mimiflora after being vanquished.\nIt may appear lifeless and dull on the surface, yet a faint, ominous power can still be sensed pulsing within.\nPeople often wonder where the memories that such creatures drew from the earth go when they are slain. Perhaps the answer lies within this core...",
+        "zh": "名为深邃拟覆叶的魔物在被击败后所残余，由蜷缩在一起的叶片构成的核心。\n即使已如生机尽失般黯淡下去，但是仍能感受到其中隐约鼓动的不祥之力。\n时常有人感到困惑，当此种魔物被消灭时，它从大地之中汲取的那些记忆都去往了何处？或许这枚核心提供了这一问题的答案。"
+      }
+    }
+  ],
+  "material_count": 3
+}

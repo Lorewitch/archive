@@ -31,7 +31,50 @@
     "en": "A Saurian with powerful hind legs and a fluffy tail, capable of spitting Flamegranate pectin hidden in their cheek pouches out, wrapping around distant objects.\nAccording to legend, the original Yumkasaurs were not at all like today, but much smaller, so small that they were difficult even to see.\nThey could roam freely with the wind, cling to the bodies of the massive dragons, or gather in groups to move about like clouds.\nHowever, in order to maintain their form after their abilities degenerated, they had no choice but to assume their current shape.",
     "zh": "拥有强壮的后肢与蓬松的尾部，能够吐出藏在颊袋中的火榴果胶卷住远处物体的龙。\n传说中，原本的匿叶龙并非现在的模样，而是更小，小到不易被观察到的程度。\n它们甚至可以随意游荡在风中，依附在其他巨龙的身体表面，或是如云一般群聚与游移。\n只是后来为了能够维持住能力退化后的形态，不得不选择现在的身姿。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "tepetlisaur_fangs",
+      "title": {
+        "ru": "Молодой клык / Клык взрослого / Клык тирана",
+        "en": "Fangs",
+        "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+      },
+      "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "juvenile_fang",
+          "title": {
+            "ru": "Молодой клык",
+            "en": "Juvenile Fang",
+            "zh": "稚嫩的尖齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+        },
+        {
+          "key": "seasoned_fang",
+          "title": {
+            "ru": "Клык взрослого",
+            "en": "Seasoned Fang",
+            "zh": "老练的坚齿"
+          },
+          "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+        },
+        {
+          "key": "tyrants_fang",
+          "title": {
+            "ru": "Клык тирана",
+            "en": "Tyrant's Fang",
+            "zh": "横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

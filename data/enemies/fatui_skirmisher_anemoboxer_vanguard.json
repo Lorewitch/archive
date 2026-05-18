@@ -31,7 +31,50 @@
     "en": "A skirmisher armed with the ability to manipulate Anemo and heal their comrades.\nThey departed from their motherland and did so for its sake. They left their family, yet gained allies to stick through thick and thin with.\n—Perhaps such thoughts are what get them through the unscrupulous work that their missions entail.",
     "zh": "能利用风的力量，复苏战友的先遣队士兵。\n远离故土又为了故乡。\n告别了亲人却获得了能相托以生死的战友。\n——或许他们以任务的名义干着丑恶的勾当时，也带着这样的想法。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+      "title": {
+        "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+        "en": "Insignias",
+        "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "recruits_insignia",
+          "title": {
+            "ru": "Шеврон рядового",
+            "en": "Recruit's Insignia",
+            "zh": "新兵的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+        },
+        {
+          "key": "sergeants_insignia",
+          "title": {
+            "ru": "Шеврон сержанта",
+            "en": "Sergeant's Insignia",
+            "zh": "士官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+        },
+        {
+          "key": "lieutenants_insignia",
+          "title": {
+            "ru": "Шеврон офицера",
+            "en": "Lieutenant's Insignia",
+            "zh": "尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

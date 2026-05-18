@@ -31,7 +31,50 @@
     "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it is now nothing but a husk that only bears memories of battle.\nAll shall decay in the end, and this is all that is left of the Black Serpent Knights amidst the merciless march of their sins, curses, and time itself.",
     "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今不过是一具残留着战斗记忆的空壳罢了。\n万物尽头皆是废退，而这种空壳就是「黑蛇骑士」\n在罪、诅咒、时间的冲刷之下变成的模样。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_herald_wicked_torrents_statuettes",
+      "title": {
+        "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+        "en": "Statuettes",
+        "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.6",
+      "materials": [
+        {
+          "key": "gloomy_statuette",
+          "title": {
+            "ru": "Мрачная статуэтка",
+            "en": "Gloomy Statuette",
+            "zh": "晦暗刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+        },
+        {
+          "key": "dark_statuette",
+          "title": {
+            "ru": "Тёмная статуэтка",
+            "en": "Dark Statuette",
+            "zh": "夤夜刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+        },
+        {
+          "key": "deathly_statuette",
+          "title": {
+            "ru": "Смертельная статуэтка",
+            "en": "Deathly Statuette",
+            "zh": "幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

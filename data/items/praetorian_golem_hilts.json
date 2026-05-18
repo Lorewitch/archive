@@ -1,0 +1,162 @@
+{
+  "id": "praetorian_golem_hilts",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/ruined_hilt.webp",
+  "title": {
+    "ru": "Сломанный эфес / Расщеплённый эфес / Неугасающий эфес",
+    "en": "Hilts",
+    "zh": "残毁的剑柄 / 裂断的剑柄 / 未熄的剑柄"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.6",
+  "tags": [
+    "Ruined Hilt",
+    "Splintered Hilt",
+    "Still-Smoldering Hilt",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "praetorian_golem"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "praetorian_golem",
+      "title": {
+        "ru": "Преторианец",
+        "en": "Praetorian Golem",
+        "zh": "魔像禁卫"
+      },
+      "icon": "assets/icons/enemies/common_enemies/praetorian_golem.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.6",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Движущаяся статуя в форме воина, который замахнётся мечом на всех, кто посмеет вторгнуться на территорию под его надзором.\nНеизвестно, что их питает - душа или магия.\nГоворят, что армии големов некогда покорили народы, называвшие высокое море своим домом.\nВозможно, среди них был и этот народ.\nВеликие башни и дворцы, ныне спящие под волнами, когда-то были свидетелями судьбы тех, кто встал на пути колеса судьбы.",
+        "en": "A moving statue shaped like a warrior who will swing their sword at all who dare trespass upon the area under their guardianship.\nIt is unclear if it is a soul or magic that powers them.\nThey say that legions of golems once conquered the nations that called the high sea home, and this might have been amongst their number.\nThe great towers and palaces that now sleep beneath the waves once bore witness to the fate of those who stand in the path of the wheel of fate.",
+        "zh": "战士姿态的活动雕像，会将剑刃指向任何胆敢侵入其所守护之地的人。\n驱使其战斗的不知是灵魂，抑或是魔法。\n传说魔像组成的军团曾征服高海上的列邦，它或许也是其中的一员。\n沉没海底的高塔与宫殿，见证了敢于阻挡命运轮轴之人的下场。"
+      },
+      "description": {
+        "ru": "Движущаяся статуя в форме воина, который замахнётся мечом на всех, кто посмеет вторгнуться на территорию под его надзором.\nНеизвестно, что их питает - душа или магия.\nГоворят, что армии големов некогда покорили народы, называвшие высокое море своим домом.\nВозможно, среди них был и этот народ.\nВеликие башни и дворцы, ныне спящие под волнами, когда-то были свидетелями судьбы тех, кто встал на пути колеса судьбы.",
+        "en": "A moving statue shaped like a warrior who will swing their sword at all who dare trespass upon the area under their guardianship.\nIt is unclear if it is a soul or magic that powers them.\nThey say that legions of golems once conquered the nations that called the high sea home, and this might have been amongst their number.\nThe great towers and palaces that now sleep beneath the waves once bore witness to the fate of those who stand in the path of the wheel of fate.",
+        "zh": "战士姿态的活动雕像，会将剑刃指向任何胆敢侵入其所守护之地的人。\n驱使其战斗的不知是灵魂，抑或是魔法。\n传说魔像组成的军团曾征服高海上的列邦，它或许也是其中的一员。\n沉没海底的高塔与宫殿，见证了敢于阻挡命运轮轴之人的下场。"
+      },
+      "drops": [
+        {
+          "id": "praetorian_golem_hilts",
+          "title": {
+            "ru": "Сломанный эфес / Расщеплённый эфес / Неугасающий эфес",
+            "en": "Hilts",
+            "zh": "残毁的剑柄 / 裂断的剑柄 / 未熄的剑柄"
+          },
+          "icon": "assets/icons/items/common_enemies/ruined_hilt.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.6",
+          "materials": [
+            {
+              "key": "ruined_hilt",
+              "title": {
+                "ru": "Сломанный эфес",
+                "en": "Ruined Hilt",
+                "zh": "残毁的剑柄"
+              },
+              "icon": "assets/icons/items/common_enemies/ruined_hilt.webp"
+            },
+            {
+              "key": "splintered_hilt",
+              "title": {
+                "ru": "Расщеплённый эфес",
+                "en": "Splintered Hilt",
+                "zh": "裂断的剑柄"
+              },
+              "icon": "assets/icons/items/common_enemies/splintered_hilt.webp"
+            },
+            {
+              "key": "still_smoldering_hilt",
+              "title": {
+                "ru": "Неугасающий эфес",
+                "en": "Still-Smoldering Hilt",
+                "zh": "未熄的剑柄"
+              },
+              "icon": "assets/icons/items/common_enemies/still_smoldering_hilt.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "ruined_hilt",
+      "title": {
+        "ru": "Сломанный эфес",
+        "en": "Ruined Hilt",
+        "zh": "残毁的剑柄"
+      },
+      "icon": "assets/icons/items/common_enemies/ruined_hilt.webp",
+      "text": {
+        "ru": "Каменная рукоять от древней статуи.\nБлеск давно утрачен из-за воздействия морской воды.",
+        "en": "A stone hilt obtained from an ancient statue. Its luster has long been lost to the depredations of seawater.",
+        "zh": "自古老雕像上取得的的石质剑柄。\n在海水的冲刷下已彻底残毁，失去了曾经的光泽。"
+      }
+    },
+    {
+      "key": "splintered_hilt",
+      "title": {
+        "ru": "Расщеплённый эфес",
+        "en": "Splintered Hilt",
+        "zh": "裂断的剑柄"
+      },
+      "icon": "assets/icons/items/common_enemies/splintered_hilt.webp",
+      "text": {
+        "ru": "Каменная рукоять от древней статуи.\nСколы и прорези говорят о жесточайших битвах, через которые прошёл её владелец.",
+        "en": "A stone hilt obtained from an ancient statue. The chips and grooves speak to the brutal battles its owner once weathered.",
+        "zh": "自古老雕像上取得的的石质剑柄。\n剑柄上的断口与刻痕似乎记录了其主人曾经历过的残酷战斗。"
+      }
+    },
+    {
+      "key": "still_smoldering_hilt",
+      "title": {
+        "ru": "Неугасающий эфес",
+        "en": "Still-Smoldering Hilt",
+        "zh": "未熄的剑柄"
+      },
+      "icon": "assets/icons/items/common_enemies/still_smoldering_hilt.webp",
+      "text": {
+        "ru": "Каменная рукоять от древней статуи.\nВсё ещё горячее пламя можно объяснить лишь тем, что её совсем недавно разлучили с предыдущим владельцем.",
+        "en": "A stone hilt obtained from an ancient statue. Only the recentness of its separation from its owner may explain the as-yet unextinguished flame within.",
+        "zh": "自古老雕像上取得的的石质剑柄。\n或许是因为刚刚离开其主人的缘故，剑柄中的火光还尚未熄灭。"
+      }
+    }
+  ],
+  "material_count": 3
+}

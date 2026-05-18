@@ -31,7 +31,50 @@
     "en": "A strange life form that mostly appears in Elynas.\nIn Fontaine, the earliest recorded observations of a Breacher Primus appeared shortly after the cataclysm.\nRecords from the time show instances of Breacher Primuses both attacking and protecting humans.",
     "zh": "主要出现在厄里那斯的奇异生命体。\n在枫丹，最早观测到隙境原体是在灾难过后不久。\n当时同时留下了隙境原体攻击人与保护人的记录。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "shatterstone_breacher_primus_cores",
+      "title": {
+        "ru": "Ядро расщелины / Иноземный обломок / Чужеродное ядро",
+        "en": "Cores",
+        "zh": "隙间之核 / 外世突触 / 异界生命核"
+      },
+      "icon": "assets/icons/items/common_enemies/rift_core.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "rift_core",
+          "title": {
+            "ru": "Ядро расщелины",
+            "en": "Rift Core",
+            "zh": "隙间之核"
+          },
+          "icon": "assets/icons/items/common_enemies/rift_core.webp"
+        },
+        {
+          "key": "foreign_synapse",
+          "title": {
+            "ru": "Иноземный обломок",
+            "en": "Foreign Synapse",
+            "zh": "外世突触"
+          },
+          "icon": "assets/icons/items/common_enemies/foreign_synapse.webp"
+        },
+        {
+          "key": "alien_life_core",
+          "title": {
+            "ru": "Чужеродное ядро",
+            "en": "Alien Life Core",
+            "zh": "异界生命核"
+          },
+          "icon": "assets/icons/items/common_enemies/alien_life_core.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "An ancient variant of mountain weasel that has adapted to a unique, Phlogiston-rich environment isolated from the outside world.\nBy consuming creatures rich in Phlogiston, this species accumulates power in the shell it holds.\nAfter a prolonged existence in the ruins of the Sacred Mountain, its affinity for Phlogiston seems to have caused it to be influenced by the Source Mechanisms within the ruins,\ncreating a unique symbiotic relationship between them.",
     "zh": "因生活在与外界隔绝的特殊燃素环境之内，而拥有特殊形态的古代种山鼬。\n通过进食富含燃素的生物，不断向背壳之中积蓄力量的古代兽种。\n于圣山废墟的长久生活之中，似乎由于独特的亲近燃素的性质，逐渐被圣山废墟之中的秘源机关影响，形成了独有的与秘源机关互相依附的生存状态。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "furnace_shell_mountain_weasel_shellshards",
+      "title": {
+        "ru": "Холодный осколок панциря / Тёплый панцирь / Пылающий призмопанцирь",
+        "en": "Shellshards",
+        "zh": "冷裂壳块 / 蕴热的背壳 / 明燃的棱状壳"
+      },
+      "icon": "assets/icons/items/common_enemies/cold_cracked_shellshard.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.5",
+      "materials": [
+        {
+          "key": "cold_cracked_shellshard",
+          "title": {
+            "ru": "Холодный осколок панциря",
+            "en": "Cold-Cracked Shellshard",
+            "zh": "冷裂壳块"
+          },
+          "icon": "assets/icons/items/common_enemies/cold_cracked_shellshard.webp"
+        },
+        {
+          "key": "warm_back_shell",
+          "title": {
+            "ru": "Тёплый панцирь",
+            "en": "Warm Back-Shell",
+            "zh": "蕴热的背壳"
+          },
+          "icon": "assets/icons/items/common_enemies/warm_back_shell.webp"
+        },
+        {
+          "key": "blazing_prismshell",
+          "title": {
+            "ru": "Пылающий призмопанцирь",
+            "en": "Blazing Prismshell",
+            "zh": "明燃的棱状壳"
+          },
+          "icon": "assets/icons/items/common_enemies/blazing_prismshell.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

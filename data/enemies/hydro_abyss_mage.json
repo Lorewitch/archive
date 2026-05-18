@@ -31,7 +31,50 @@
     "en": "Abyss creatures that utilize Hydro energy in battle.\nStories circulate among adventurers that Abyss Mages are at the lowest rung of the Abyss Order's hierarchy and that they roam the various lands to scheme fell deeds of destruction.\nThough they also often make fun of these Abyss Mages, saying that the most harm they can do is to cause rheumatism or a common cold, their power is not to be underestimated.",
     "zh": "利用水元素战斗的深渊魔物。\n在冒险者当中有传说说，深渊法师作为「深渊教团」\n底层的执行者，活跃在世界各地、从事各种阴谋破坏。\n尽管他们还戏称这种水深渊法师的最大危害是会导致风湿发作，其实它们有着不容小觑的力量。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_mage_ley_lines",
+      "title": {
+        "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+        "en": "Ley Lines",
+        "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+      },
+      "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "dead_ley_line_branch",
+          "title": {
+            "ru": "Ветви артерий земли",
+            "en": "Dead Ley Line Branch",
+            "zh": "地脉的旧枝"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+        },
+        {
+          "key": "dead_ley_line_leaves",
+          "title": {
+            "ru": "Листья артерий земли",
+            "en": "Dead Ley Line Leaves",
+            "zh": "地脉的枯叶"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+        },
+        {
+          "key": "ley_line_sprout",
+          "title": {
+            "ru": "Ростки артерий земли",
+            "en": "Ley Line Sprout",
+            "zh": "地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

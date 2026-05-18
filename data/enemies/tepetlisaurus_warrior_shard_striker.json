@@ -31,7 +31,50 @@
     "en": "A powerful warrior from the canyon, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can strike with the power of a rockfall.\nEven among the Children of Echoes, who live and breathe rock and crystal, Saurian-Crowned Warriors are masters who understand rock and stone better than any.\nIt is said they can even divine the purity and grain of the interior of raw ore merely by looking at the rough exterior.",
     "zh": "来自峡谷之中，勇武受到认可，得以获授龙冠的强大武士。\n能够借助岩崩之力进行击打的武者。\n即使是在与山岩晶体亲近的「回声之子」\n中，龙冠武士也是领悟山岩之力更为透彻的高手。\n据说他们甚至能够透过原矿表面粗糙的风化皮，分析其内部的成色和纹理。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "forged_sand_interrogator_whistles",
+      "title": {
+        "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+        "en": "Whistles",
+        "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+      },
+      "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "sentrys_wooden_whistle",
+          "title": {
+            "ru": "Деревянный свисток дозорного",
+            "en": "Sentry's Wooden Whistle",
+            "zh": "卫从的木哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+        },
+        {
+          "key": "warriors_metal_whistle",
+          "title": {
+            "ru": "Металлический свисток воина",
+            "en": "Warrior's Metal Whistle",
+            "zh": "战士的铁哨"
+          },
+          "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+        },
+        {
+          "key": "saurian_crowned_warriors_golden_whistle",
+          "title": {
+            "ru": "Золотой свисток коронованного заврианами воина",
+            "en": "Saurian-Crowned Warrior's Golden Whistle",
+            "zh": "龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

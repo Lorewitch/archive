@@ -31,7 +31,50 @@
     "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThese warriors use Ravenbeak Halberds in battle.\nIt is said that ascetics who served the deity of the desert would carry these halberds as symbols of their office.\nThese weapons once had a true name, but it has long been lost to the desert sands.",
     "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n使用名为「鸦喙戟」\n的武器进行战斗。\n传说在古代，侍奉沙漠神祇的隐士会携带这种战戟作为身份的象征。\n这种武器的真名已经失落在沙海中。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "eremite_axe_vanguard_reds",
+      "title": {
+        "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+        "en": "Reds",
+        "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.0",
+      "materials": [
+        {
+          "key": "faded_red_satin",
+          "title": {
+            "ru": "Выцветший красный шёлк",
+            "en": "Faded Red Satin",
+            "zh": "褪色红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+        },
+        {
+          "key": "trimmed_red_silk",
+          "title": {
+            "ru": "Окаймлённый красный шёлк",
+            "en": "Trimmed Red Silk",
+            "zh": "镶边红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+        },
+        {
+          "key": "rich_red_brocade",
+          "title": {
+            "ru": "Златотканый красный шёлк",
+            "en": "Rich Red Brocade",
+            "zh": "织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "A monster birthed from a high concentration of Anemo that can float in the air.\nAs reason might dictate, monsters made from coalesced Anemo already come equipped with the ability to float.\nAs such, their petal-like wings are most likely to be a mimetic organ first and foremost.",
     "zh": "高浓度的风元素孕育而生的魔物，能够飘浮在空中。\n从理论上来说，风元素凝固而成的魔物本身就具有一定的飘浮能力。\n由此看来，它们花瓣一样的翅叶首先应该是一种拟态器官。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "specter_spectrals",
+      "title": {
+        "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+        "en": "Spectrals",
+        "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.1",
+      "materials": [
+        {
+          "key": "spectral_husk",
+          "title": {
+            "ru": "Призрачная оболочка",
+            "en": "Spectral Husk",
+            "zh": "浮游干核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+        },
+        {
+          "key": "spectral_heart",
+          "title": {
+            "ru": "Призрачное сердце",
+            "en": "Spectral Heart",
+            "zh": "浮游幽核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+        },
+        {
+          "key": "spectral_nucleus",
+          "title": {
+            "ru": "Призрачное ядро",
+            "en": "Spectral Nucleus",
+            "zh": "浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

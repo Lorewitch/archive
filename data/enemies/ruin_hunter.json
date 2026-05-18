@@ -31,7 +31,50 @@
     "en": "A giant alien-looking war machine.\nThey are said to be remnants from a lost ancient nation.\nIt seems that the creators opted to forgo the low-performing humanoid-design in pursuit of improved combat effectiveness.\nThey are extremely dangerous both in melee and ranged combat.\nConsidering these mere relics possess such extraordinary power, one cannot help but wonder what the civilization that produced them must have looked like at its height.",
     "zh": "巨大的异形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n似乎是为了提高战斗性能，设计上放弃了低效的拟人形态。\n无论是白刃战还是远程炮火的威力都相当恐怖。\n仅仅是废弃的古代兵器就有如此能力，曾经能生产这种兵器的文明又是如何呢…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "ruin_chaos",
+      "title": {
+        "ru": "Устройство хаоса / Цепь хаоса / Ядро хаоса",
+        "en": "Chaos",
+        "zh": "混沌装置 / 混沌回路 / 混沌炉心"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "chaos_device",
+          "title": {
+            "ru": "Устройство хаоса",
+            "en": "Chaos Device",
+            "zh": "混沌装置"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_device.webp"
+        },
+        {
+          "key": "chaos_circuit",
+          "title": {
+            "ru": "Цепь хаоса",
+            "en": "Chaos Circuit",
+            "zh": "混沌回路"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_circuit.webp"
+        },
+        {
+          "key": "chaos_core",
+          "title": {
+            "ru": "Ядро хаоса",
+            "en": "Chaos Core",
+            "zh": "混沌炉心"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_core.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

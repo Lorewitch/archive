@@ -31,7 +31,50 @@
     "en": "Monsters created through the buildup of Geo within the earth.\nThey can harden the energy within their bodies into a carapace of stone that protects them and prevents damage.\nThe legend of a \"Golden Geo Slime King\"once circulated among the Treasure Hoarders.\nThey believed that since gemstones and ores have Geo energy in them, Geo Slimes, which also contain Geo energy, may also be a type of gemstone or ore.",
     "zh": "大地之中的岩元素凝聚形成的魔物。\n能将体内的力量凝结成岩壳，保护自己不受伤害。\n过去在盗宝团中一度流传着「大黄金岩史莱姆王」\n的说法，认为既然不少宝石与矿物中蕴含岩元素，那蕴含岩元素的史莱姆同样很可能是宝石与矿物。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "slime_materials",
+      "title": {
+        "ru": "Слизь слайма / Выделения слайма / Концентрат слайма",
+        "en": "Slimes",
+        "zh": "史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+      },
+      "icon": "assets/icons/items/common_enemies/slime_condensate.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "slime_condensate",
+          "title": {
+            "ru": "Слизь слайма",
+            "en": "Slime Condensate",
+            "zh": "史莱姆凝液"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_condensate.webp"
+        },
+        {
+          "key": "slime_secretions",
+          "title": {
+            "ru": "Выделения слайма",
+            "en": "Slime Secretions",
+            "zh": "史莱姆清"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_secretions.webp"
+        },
+        {
+          "key": "slime_concentrate",
+          "title": {
+            "ru": "Концентрат слайма",
+            "en": "Slime Concentrate",
+            "zh": "史莱姆原浆"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_concentrate.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

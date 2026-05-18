@@ -31,7 +31,50 @@
     "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nWill work for anyone as long as the pay is good.\nIn this age where crossbows are in widespread use, only the most experienced of Eremite warriors know how to use a longbow in battle.\nThey do not even need their eyes — merely their ears with which they sense the flow of wind and sand alike — to judge the location of their foes.\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril.\nOnce these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
     "zh": "从沙漠中走出的松散佣兵团体中的一员，为了报酬愿意为任何人效力。\n由于机弩的广泛使用，在如今的镀金部族中唯有最老练的战士才会使用长弓作战。\n她们无需依靠双目，仅凭风沙流动的声音便能分辨出敌人的所在。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息他们的愤怒。\n——不论败者是武器的主人，抑或是敌人。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "eremite_axe_vanguard_reds",
+      "title": {
+        "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+        "en": "Reds",
+        "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.0",
+      "materials": [
+        {
+          "key": "faded_red_satin",
+          "title": {
+            "ru": "Выцветший красный шёлк",
+            "en": "Faded Red Satin",
+            "zh": "褪色红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+        },
+        {
+          "key": "trimmed_red_silk",
+          "title": {
+            "ru": "Окаймлённый красный шёлк",
+            "en": "Trimmed Red Silk",
+            "zh": "镶边红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+        },
+        {
+          "key": "rich_red_brocade",
+          "title": {
+            "ru": "Златотканый красный шёлк",
+            "en": "Rich Red Brocade",
+            "zh": "织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

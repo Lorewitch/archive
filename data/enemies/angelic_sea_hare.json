@@ -31,7 +31,50 @@
     "en": "An aquatic creature that hunts by firing watery projectiles.\nFrom an evolutionary perspective, it is assumed that Fontemer Aberrants have developed from aquatic creatures due to environmental factors specific to Fontaine.\nAs such, it can be inferred that at some point in the past, Fontaine's original aquatic lifeforms differed little from those native to the other regions of Teyvat.",
     "zh": "通过发射水弹进行狩猎的水生动物。\n从演化的角度而言，原海异种是因为枫丹特殊的环境而产生了变化的水生动物。\n也因此可以认为在过去的某个时点前，枫丹原始的水生动物与提瓦特其他地区的水生动物并没有多少区别。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "blubberbeast_pearls",
+      "title": {
+        "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+        "en": "Pearls",
+        "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+      },
+      "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "transoceanic_pearl",
+          "title": {
+            "ru": "Жемчужина иноморья",
+            "en": "Transoceanic Pearl",
+            "zh": "异海凝珠"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+        },
+        {
+          "key": "transoceanic_chunk",
+          "title": {
+            "ru": "Обломок из иноморья",
+            "en": "Transoceanic Chunk",
+            "zh": "异海之块"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+        },
+        {
+          "key": "xenochromatic_crystal",
+          "title": {
+            "ru": "Ксенохромный кристалл",
+            "en": "Xenochromatic Crystal",
+            "zh": "异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

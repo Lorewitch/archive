@@ -31,7 +31,50 @@
     "en": "Energetic mimetic Plant monsters that use Electro to attack their prey.\nWhen fully-charged with Electro energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...",
     "zh": "元气满满的拟态植物魔物，会用雷元素攻击猎物。\n在元素能量充满的时候，可以从花冠中释放出强大的电流，因此也有学者试图将其用于一些其他方面的用途…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "whopperflower_nectars",
+      "title": {
+        "ru": "Нектар попрыгуньи / Мерцающий нектар / Элементальный нектар",
+        "en": "Nectars",
+        "zh": "骗骗花蜜 / 微光花蜜 / 原素花蜜"
+      },
+      "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "whopperflower_nectar",
+          "title": {
+            "ru": "Нектар попрыгуньи",
+            "en": "Whopperflower Nectar",
+            "zh": "骗骗花蜜"
+          },
+          "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp"
+        },
+        {
+          "key": "shimmering_nectar",
+          "title": {
+            "ru": "Мерцающий нектар",
+            "en": "Shimmering Nectar",
+            "zh": "微光花蜜"
+          },
+          "icon": "assets/icons/items/common_enemies/shimmering_nectar.webp"
+        },
+        {
+          "key": "energy_nectar",
+          "title": {
+            "ru": "Элементальный нектар",
+            "en": "Energy Nectar",
+            "zh": "原素花蜜"
+          },
+          "icon": "assets/icons/items/common_enemies/energy_nectar.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

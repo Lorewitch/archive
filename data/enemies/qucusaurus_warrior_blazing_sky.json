@@ -31,7 +31,50 @@
     "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nAmong the many varieties of Saurians, the Qucusaurs stand particularly proud,\nand this is a trait that is shared by the Qucusaurus Warriors who are able to obtain their recognition.\nIt is said that in the past, tribal warriors would watch these crimson Saurians amuse themselves by tossing flaming stones from great heights;\nand that it was this that first inspired them to set off projectiles to cause explosive chain reactions.\nThis concept, gradually refined over time, is said to have been the origin of many of the Flower-Feather Clan's firearms.",
     "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n绒翼龙在诸多龙众之中也是相当骄傲的一族，能够得到它们承认的绒翼龙武士亦同享这一份骄矜。\n据说从前部族的勇士在看到绯色的翼龙将火石从高处投掷以取乐时，迸发出了连环爆炸的弹药的想法。\n这一逐渐完善的想法，据说就是「花羽会」\n诸多火器的雏形。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "forged_sand_interrogator_whistles",
+      "title": {
+        "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+        "en": "Whistles",
+        "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+      },
+      "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "sentrys_wooden_whistle",
+          "title": {
+            "ru": "Деревянный свисток дозорного",
+            "en": "Sentry's Wooden Whistle",
+            "zh": "卫从的木哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+        },
+        {
+          "key": "warriors_metal_whistle",
+          "title": {
+            "ru": "Металлический свисток воина",
+            "en": "Warrior's Metal Whistle",
+            "zh": "战士的铁哨"
+          },
+          "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+        },
+        {
+          "key": "saurian_crowned_warriors_golden_whistle",
+          "title": {
+            "ru": "Золотой свисток коронованного заврианами воина",
+            "en": "Saurian-Crowned Warrior's Golden Whistle",
+            "zh": "龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

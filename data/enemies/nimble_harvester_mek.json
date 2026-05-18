@@ -31,7 +31,50 @@
     "en": "A clockwork meka designed to dig up and transport soil.\nDue to the inherent ability of the local water and soil to store and transmit ousia and pneuma,\nclockwork meka powered by the annihilation of these energies are highly favored in Fontaine.\nThis also explains why adventurers may come across Ousia and Pneuma Blocks from time to time.",
     "zh": "以发掘、输送砂土为目的设计制造的发条机关。\n基于荒性与芒性湮灭产生能量的发条机关在枫丹具有得天独厚的优势，因为枫丹的水脉与土质本身就有储存、传导荒性与芒性的特性。\n这也是冒险中有时会见到荒性与芒性能量块的原因。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "recon_log_mek_gears",
+      "title": {
+        "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+        "en": "Gears",
+        "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "meshing_gear",
+          "title": {
+            "ru": "Сцепляющаяся шестерня",
+            "en": "Meshing Gear",
+            "zh": "啮合齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+        },
+        {
+          "key": "mechanical_spur_gear",
+          "title": {
+            "ru": "Шестерня механизма",
+            "en": "Mechanical Spur Gear",
+            "zh": "机关正齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+        },
+        {
+          "key": "artificed_dynamic_gear",
+          "title": {
+            "ru": "Изощрённая динамическая шестерня",
+            "en": "Artificed Dynamic Gear",
+            "zh": "奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

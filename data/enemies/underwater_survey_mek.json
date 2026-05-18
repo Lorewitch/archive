@@ -31,7 +31,50 @@
     "en": "A clockwork meka designed for underwater surveying.\nIn the absence of significant breakthroughs in dynamics research, kinematics research has had the most significant impact on clockwork meka design.\nFor machines designed to perform specific tasks, biomimesis has sometimes provided the most convenient solutions.",
     "zh": "以水下探测为目的，设计制造的发条机关。\n在发条机关的设计上，在动力学无法得到突破的情况下，运动学是最重要的研究对象。\n在特定目的的机械设计上，仿生学有时能提供最便捷的解法。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "recon_log_mek_gears",
+      "title": {
+        "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+        "en": "Gears",
+        "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "meshing_gear",
+          "title": {
+            "ru": "Сцепляющаяся шестерня",
+            "en": "Meshing Gear",
+            "zh": "啮合齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+        },
+        {
+          "key": "mechanical_spur_gear",
+          "title": {
+            "ru": "Шестерня механизма",
+            "en": "Mechanical Spur Gear",
+            "zh": "机关正齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+        },
+        {
+          "key": "artificed_dynamic_gear",
+          "title": {
+            "ru": "Изощрённая динамическая шестерня",
+            "en": "Artificed Dynamic Gear",
+            "zh": "奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

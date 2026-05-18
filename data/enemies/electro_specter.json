@@ -31,7 +31,50 @@
     "en": "A monster born from highly-concentrated Electro elements that can float in the air.\nA certain researcher once studied these creatures.\nHe believed that they must be Hypostases of some kind.\nAfter all, they both had elemental peculiarities and were birthed from areas saturated with elemental energy, right?\nBy the way, he was later investigated for academic corruption.",
     "zh": "高浓度的雷元素孕育而生的魔物，能够飘浮在空中。\n曾经有学者对它们这个物种进行过研究。\n他认为无相元素有元素特征、会在元素浓度高的区域诞生，和飘浮灵完全一样。\n所以飘浮灵是一种无相。\n他后来被调查出了学术腐败。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "specter_spectrals",
+      "title": {
+        "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+        "en": "Spectrals",
+        "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.1",
+      "materials": [
+        {
+          "key": "spectral_husk",
+          "title": {
+            "ru": "Призрачная оболочка",
+            "en": "Spectral Husk",
+            "zh": "浮游干核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+        },
+        {
+          "key": "spectral_heart",
+          "title": {
+            "ru": "Призрачное сердце",
+            "en": "Spectral Heart",
+            "zh": "浮游幽核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+        },
+        {
+          "key": "spectral_nucleus",
+          "title": {
+            "ru": "Призрачное ядро",
+            "en": "Spectral Nucleus",
+            "zh": "浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

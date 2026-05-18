@@ -31,7 +31,50 @@
     "en": "A horrifying dragon-shaped machine.\nIt is said to be a war machine left behind by a now-destroyed nation.\nIt mimics the appearance of the beings known as Vishaps, with some functional enhancements.\nSuch machines have an even greater ability to \"absorb\"— or perhaps the right word is \"counteract\"— elemental powers than the vishaps.\nHow, you wonder, did a civilization that could make such frightening machines of war collapse?",
     "zh": "令人望而生畏的龙形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n形态上模仿了「龙蜥」\n这一物种，但为了性能进行了结构的优化。\n较之真正的龙蜥,具有更强的「吸收」，抑或是说「反制」\n元素的能力。\n从这种能力来看，创造出这样可怕兵器的文明曾经有过相当宏大的野心吧…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "ruin_drake_earthguard_chaos",
+      "title": {
+        "ru": "Сосуд хаоса / Модуль хаоса / Анкер хаоса",
+        "en": "Chaos",
+        "zh": "混沌容器 / 混沌模块 / 混沌锚栓"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_storage.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.0",
+      "materials": [
+        {
+          "key": "chaos_storage",
+          "title": {
+            "ru": "Сосуд хаоса",
+            "en": "Chaos Storage",
+            "zh": "混沌容器"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_storage.webp"
+        },
+        {
+          "key": "chaos_module",
+          "title": {
+            "ru": "Модуль хаоса",
+            "en": "Chaos Module",
+            "zh": "混沌模块"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_module.webp"
+        },
+        {
+          "key": "chaos_bolt",
+          "title": {
+            "ru": "Анкер хаоса",
+            "en": "Chaos Bolt",
+            "zh": "混沌锚栓"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_bolt.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

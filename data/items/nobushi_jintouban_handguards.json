@@ -1,0 +1,450 @@
+{
+  "id": "nobushi_jintouban_handguards",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+  "title": {
+    "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+    "en": "Handguards",
+    "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [
+    "Old Handguard",
+    "Kageuchi Handguard",
+    "Famed Handguard",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "nobushi_jintouban",
+    "nobushi_hitsukeban",
+    "nobushi_kikouban",
+    "kairagi_fiery_might",
+    "kairagi_dancing_thunder"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "nobushi_jintouban",
+      "title": {
+        "ru": "Нобуси: Дзинтобан",
+        "en": "Nobushi: Jintouban",
+        "zh": "野伏·阵刀番"
+      },
+      "icon": "assets/icons/enemies/common_enemies/nobushi_jintouban.webp",
+      "enemy_group": "human_factions",
+      "region": "Инадзума",
+      "game_version": "2.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nПоскольку они уже много лет находятся на тропе войны и отлично владеют мечом, они не часто используют его во благо.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+        "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nHaving pursued the path of a martial artist for a long time, they possess highly advanced sword skills but no longer use them for good.\nSometimes, they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+        "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n作为常年行走在武道上的人，有着精湛的剑术，如今却不将其用于正道。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+      },
+      "description": {
+        "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nПоскольку они уже много лет находятся на тропе войны и отлично владеют мечом, они не часто используют его во благо.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+        "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nHaving pursued the path of a martial artist for a long time, they possess highly advanced sword skills but no longer use them for good.\nSometimes, they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+        "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n作为常年行走在武道上的人，有着精湛的剑术，如今却不将其用于正道。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+      },
+      "drops": [
+        {
+          "id": "nobushi_jintouban_handguards",
+          "title": {
+            "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+            "en": "Handguards",
+            "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.0",
+          "materials": [
+            {
+              "key": "old_handguard",
+              "title": {
+                "ru": "Старая гарда",
+                "en": "Old Handguard",
+                "zh": "破旧的刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/old_handguard.webp"
+            },
+            {
+              "key": "kageuchi_handguard",
+              "title": {
+                "ru": "Гарда кагэути",
+                "en": "Kageuchi Handguard",
+                "zh": "影打刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp"
+            },
+            {
+              "key": "famed_handguard",
+              "title": {
+                "ru": "Прославленная гарда",
+                "en": "Famed Handguard",
+                "zh": "名刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/famed_handguard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "nobushi_hitsukeban",
+      "title": {
+        "ru": "Нобуси: Хицукэбан",
+        "en": "Nobushi: Hitsukeban",
+        "zh": "野伏·火付番"
+      },
+      "icon": "assets/icons/enemies/common_enemies/nobushi_hitsukeban.webp",
+      "enemy_group": "human_factions",
+      "region": "Инадзума",
+      "game_version": "2.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nОни не только мастерски владеют мечом, но и применяют специальный элементальный порошок в бою. Объективно говоря, такой метод победы противоречит пути мастера боевых искусств.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+        "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nThey not only possess highly advanced sword skills, but can also carry out flame powder attacks using the elements.\nObjectively speaking, perhaps this method of winning goes against the path of a martial artist.\nSometimes they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+        "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n不仅掌握着精湛的剑术，还会使用具有元素的焰硝药粉攻击。\n从客观来说，或许这是背离武之道，转而寻求胜之途的体现吧。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+      },
+      "description": {
+        "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nОни не только мастерски владеют мечом, но и применяют специальный элементальный порошок в бою. Объективно говоря, такой метод победы противоречит пути мастера боевых искусств.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+        "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nThey not only possess highly advanced sword skills, but can also carry out flame powder attacks using the elements.\nObjectively speaking, perhaps this method of winning goes against the path of a martial artist.\nSometimes they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+        "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n不仅掌握着精湛的剑术，还会使用具有元素的焰硝药粉攻击。\n从客观来说，或许这是背离武之道，转而寻求胜之途的体现吧。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+      },
+      "drops": [
+        {
+          "id": "nobushi_jintouban_handguards",
+          "title": {
+            "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+            "en": "Handguards",
+            "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.0",
+          "materials": [
+            {
+              "key": "old_handguard",
+              "title": {
+                "ru": "Старая гарда",
+                "en": "Old Handguard",
+                "zh": "破旧的刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/old_handguard.webp"
+            },
+            {
+              "key": "kageuchi_handguard",
+              "title": {
+                "ru": "Гарда кагэути",
+                "en": "Kageuchi Handguard",
+                "zh": "影打刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp"
+            },
+            {
+              "key": "famed_handguard",
+              "title": {
+                "ru": "Прославленная гарда",
+                "en": "Famed Handguard",
+                "zh": "名刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/famed_handguard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "nobushi_kikouban",
+      "title": {
+        "ru": "Нобуси: Кикобан",
+        "en": "Nobushi: Kikouban",
+        "zh": "野伏·机巧番"
+      },
+      "icon": "assets/icons/enemies/common_enemies/nobushi_kikouban.webp",
+      "enemy_group": "human_factions",
+      "region": "Инадзума",
+      "game_version": "2.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nОни не только мастерски владеют мечом, но и используют арбалет, устраивая подлые засады.\nТе, кто отказался от звания мастера боевых искусств, часто отказываются и от своего достоинства.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+        "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nThey possess highly-advanced sword skills and also use crossbows to ambush opponents, using any means to win.\nThose who have abandoned the title of a martial artist often abandon their dignity as well.\nSometimes they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+        "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n除了作为武者必修的剑术之外，还会熟练地使用手弩偷袭对手，只要能够取胜便会不择手段。\n抛弃了武家之名的人，也常常会抛弃武家的自矜。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+      },
+      "description": {
+        "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nОни не только мастерски владеют мечом, но и используют арбалет, устраивая подлые засады.\nТе, кто отказался от звания мастера боевых искусств, часто отказываются и от своего достоинства.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+        "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nThey possess highly-advanced sword skills and also use crossbows to ambush opponents, using any means to win.\nThose who have abandoned the title of a martial artist often abandon their dignity as well.\nSometimes they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+        "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n除了作为武者必修的剑术之外，还会熟练地使用手弩偷袭对手，只要能够取胜便会不择手段。\n抛弃了武家之名的人，也常常会抛弃武家的自矜。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+      },
+      "drops": [
+        {
+          "id": "nobushi_jintouban_handguards",
+          "title": {
+            "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+            "en": "Handguards",
+            "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.0",
+          "materials": [
+            {
+              "key": "old_handguard",
+              "title": {
+                "ru": "Старая гарда",
+                "en": "Old Handguard",
+                "zh": "破旧的刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/old_handguard.webp"
+            },
+            {
+              "key": "kageuchi_handguard",
+              "title": {
+                "ru": "Гарда кагэути",
+                "en": "Kageuchi Handguard",
+                "zh": "影打刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp"
+            },
+            {
+              "key": "famed_handguard",
+              "title": {
+                "ru": "Прославленная гарда",
+                "en": "Famed Handguard",
+                "zh": "名刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/famed_handguard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "kairagi_fiery_might",
+      "title": {
+        "ru": "Кайраги: Огненная мощь",
+        "en": "Kairagi: Fiery Might",
+        "zh": "海乱鬼·炎威"
+      },
+      "icon": "assets/icons/enemies/common_enemies/kairagi_fiery_might.webp",
+      "enemy_group": "human_factions",
+      "region": "Инадзума",
+      "game_version": "2.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Самураи, вступившие на путь бандитизма.\nОни с малых лет занимались боевыми искусствами, но потеряли возможность служить обществу и встали на путь зла.\nЛезвия их клинков не холодные, как у обычной стали, а горят огнём гнева.\nПохоже, что для их накаливания они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
+        "en": "Samurai who have fallen into banditry.\nThey practiced martial arts since they were young, but lost the opportunity to serve the people due to certain reasons and turned from the righteous path.\nTheir blade's edges are not cold like ordinary steel, but instead burn with a bitter flame.\nThey seem to have used paper seals, created from a lost Kamuna art, to set their blades afire.",
+        "zh": "落草为寇的流浪武人。\n自幼时便专注于武道从未懈怠，却因为种种原因失去了奉公的机会，背离了正道，走上恶逆之路。\n刀刃不似一般的钢铁那般冰冷，而是充满了忿恨的炽热怒火——似乎是利用了本应失传的惟神技术制造的符纸，为刀刃附上火焰。"
+      },
+      "description": {
+        "ru": "Самураи, вступившие на путь бандитизма.\nОни с малых лет занимались боевыми искусствами, но потеряли возможность служить обществу и встали на путь зла.\nЛезвия их клинков не холодные, как у обычной стали, а горят огнём гнева.\nПохоже, что для их накаливания они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
+        "en": "Samurai who have fallen into banditry.\nThey practiced martial arts since they were young, but lost the opportunity to serve the people due to certain reasons and turned from the righteous path.\nTheir blade's edges are not cold like ordinary steel, but instead burn with a bitter flame.\nThey seem to have used paper seals, created from a lost Kamuna art, to set their blades afire.",
+        "zh": "落草为寇的流浪武人。\n自幼时便专注于武道从未懈怠，却因为种种原因失去了奉公的机会，背离了正道，走上恶逆之路。\n刀刃不似一般的钢铁那般冰冷，而是充满了忿恨的炽热怒火——似乎是利用了本应失传的惟神技术制造的符纸，为刀刃附上火焰。"
+      },
+      "drops": [
+        {
+          "id": "nobushi_jintouban_handguards",
+          "title": {
+            "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+            "en": "Handguards",
+            "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.0",
+          "materials": [
+            {
+              "key": "old_handguard",
+              "title": {
+                "ru": "Старая гарда",
+                "en": "Old Handguard",
+                "zh": "破旧的刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/old_handguard.webp"
+            },
+            {
+              "key": "kageuchi_handguard",
+              "title": {
+                "ru": "Гарда кагэути",
+                "en": "Kageuchi Handguard",
+                "zh": "影打刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp"
+            },
+            {
+              "key": "famed_handguard",
+              "title": {
+                "ru": "Прославленная гарда",
+                "en": "Famed Handguard",
+                "zh": "名刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/famed_handguard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "kairagi_dancing_thunder",
+      "title": {
+        "ru": "Кайраги: Громовое вознесение",
+        "en": "Kairagi: Dancing Thunder",
+        "zh": "海乱鬼·雷腾"
+      },
+      "icon": "assets/icons/enemies/common_enemies/kairagi_dancing_thunder.webp",
+      "enemy_group": "human_factions",
+      "region": "Инадзума",
+      "game_version": "2.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Самураи, вступившие на путь бандитизма.\nОни мастерски владеют боевыми искусствами, но не находят им применения.\nОт отчаяния они встали на путь зла.\nЧтобы наделить свои клинки силой молнии, они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
+        "en": "Samurai who have fallen into banditry.\nThey possess highly advanced martial art skills but found no use for them for various reasons.\nOut of desperation, they have fallen onto the path of evil.\nThey use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning.",
+        "zh": "落草为寇的流浪武人。\n有着高强的武道修养，却因为种种原因而没有用武之地，走投无路中踏上了恶逆之道。\n会利用本应在数百年前失传的惟神技术制造的符纸，为刀剑附上雷霆的力量。"
+      },
+      "description": {
+        "ru": "Самураи, вступившие на путь бандитизма.\nОни мастерски владеют боевыми искусствами, но не находят им применения.\nОт отчаяния они встали на путь зла.\nЧтобы наделить свои клинки силой молнии, они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
+        "en": "Samurai who have fallen into banditry.\nThey possess highly advanced martial art skills but found no use for them for various reasons.\nOut of desperation, they have fallen onto the path of evil.\nThey use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning.",
+        "zh": "落草为寇的流浪武人。\n有着高强的武道修养，却因为种种原因而没有用武之地，走投无路中踏上了恶逆之道。\n会利用本应在数百年前失传的惟神技术制造的符纸，为刀剑附上雷霆的力量。"
+      },
+      "drops": [
+        {
+          "id": "nobushi_jintouban_handguards",
+          "title": {
+            "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+            "en": "Handguards",
+            "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.0",
+          "materials": [
+            {
+              "key": "old_handguard",
+              "title": {
+                "ru": "Старая гарда",
+                "en": "Old Handguard",
+                "zh": "破旧的刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/old_handguard.webp"
+            },
+            {
+              "key": "kageuchi_handguard",
+              "title": {
+                "ru": "Гарда кагэути",
+                "en": "Kageuchi Handguard",
+                "zh": "影打刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp"
+            },
+            {
+              "key": "famed_handguard",
+              "title": {
+                "ru": "Прославленная гарда",
+                "en": "Famed Handguard",
+                "zh": "名刀镡"
+              },
+              "icon": "assets/icons/items/common_enemies/famed_handguard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 5,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "old_handguard",
+      "title": {
+        "ru": "Старая гарда",
+        "en": "Old Handguard",
+        "zh": "破旧的刀镡"
+      },
+      "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+      "text": {
+        "ru": "Этот защитный элемент инадзумского меча повидал немало боёв.\nГардой умелый фехтовальщик способен блокировать клинок противника, тогда как новичкам она защищает руку.",
+        "en": "A battle-worn handguard that was once mounted on an Inazuman blade.\nFor those adept in the art of the sword, the tsuba is a defense from the edge of an opponent's blade.\nFor beginners, it is a defense made for their own right hand, to protect it from itself.",
+        "zh": "装配在稻妻刀剑上的护具，见证过许多战斗。\n对剑术纯熟者而言，镡可以在实战中阻挡对手的刀刃；而对于新手剑士，镡是保护自己右手的关键。"
+      }
+    },
+    {
+      "key": "kageuchi_handguard",
+      "title": {
+        "ru": "Гарда кагэути",
+        "en": "Kageuchi Handguard",
+        "zh": "影打刀镡"
+      },
+      "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp",
+      "text": {
+        "ru": "Гарда, которая крепится на мечи выдающегося качества.\nТрадиция ковки мечей Инадзумы уходит в глубокую древность.\nКузнецы часто изготавливают несколько клинков за раз, чтобы из них выбрать «синути», или лучшее оружие, тогда как остальные называются «кагэути».",
+        "en": "A handguard mounded upon a sword of some distinction.\nInazuma has a long tradition of sword-making.\nWhen making swords, smiths will often make several different weapons at once, before choosing from among them the \"shinuchi,\" or the best weapon,\nwhile the others are known as \"kageuchi.\"",
+        "zh": "装配在优秀刀剑上的护具。\n稻妻有悠久的刀剑锻冶传统。匠人锻造一把刀时，常常会制造数柄样品，从中甄选。其中最为优秀的作品是为「真打」，而其余的则被称为「影打」。"
+      }
+    },
+    {
+      "key": "famed_handguard",
+      "title": {
+        "ru": "Прославленная гарда",
+        "en": "Famed Handguard",
+        "zh": "名刀镡"
+      },
+      "icon": "assets/icons/items/common_enemies/famed_handguard.webp",
+      "text": {
+        "ru": "Искусно выполненная гарда, бывшая когда-то частью знаменитого оружия.\nНекоторые верят, что у мечей есть душа, и поэтому они заслуживают собственные имена. На заботу хозяина клинок ответит взаимностью.\nНо те, кто в клинке увидел друга или возлюбленного, должны знать, что эта привязанность основывается на кровопролитии и смерти.\nОднажды страсть танцующих с мечами под багровым дождём будет оборвана холодной сталью.",
+        "en": "An intricately-made handguard that was mounted upon a famed weapon.\nSome believe that swords have souls and lives of their own, and thus deserve their own names.\nThose who love their blades will be acknowledged by them in turn.\nBut those who see their swords as friends or even lovers should be warned that this relationship is built on death and bloodshed.\nThe passions of those who dance with their blade amid crimson showers must surely be cooled someday by fickle steel.",
+        "zh": "装配在名刀上的华美护具。\n有人坚信刀剑有灵魂、有生命，这也是为什么人们会为刀起名。爱护刀的人，也会得到刀的赏识。但与刀剑成为挚友、甚至爱人的人，须知这份情义是由杀伐浇灌的。常常浴血、与刀共舞之人，他们的热血最终总会被薄情的钢铁冷却。"
+      }
+    }
+  ],
+  "material_count": 3
+}

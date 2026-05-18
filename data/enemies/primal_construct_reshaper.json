@@ -31,7 +31,50 @@
     "en": "The guardians of the lost ancient desert ruins have power enough to punish any who would presume to disturb the pure dreams of their lord.\nThe lord of the blazing sun who once ruled this desert once promised his people a utopia on the other side of existence,\nthough it ultimately turned out to be a mirage made of folly.\nToday, that utopia is long gone, and the dreams and oaths, forgotten by the world, are now only found in the mantras inscribed upon these machines.",
     "zh": "失落在荒漠中的古老遗迹的守护者，其力量足以惩罚一切敢于惊扰君王清梦之人。\n统治沙海的烈日之王曾向他的子民许诺过彼岸的乐土，然而事实证明那不过是君王愚痴的妄念。\n如今「乐园」\n早已湮灭，只有蚀刻在这些机械上的咒文还记录着那些已被世人忘却的梦想与承诺。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "primal_construct_repulsor_prisms",
+      "title": {
+        "ru": "Сломанная призма / Загрязнённая призма / Блестящая призма",
+        "en": "Prisms",
+        "zh": "破缺棱晶 / 混浊棱晶 / 辉光棱晶"
+      },
+      "icon": "assets/icons/items/common_enemies/damaged_prism.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.1",
+      "materials": [
+        {
+          "key": "damaged_prism",
+          "title": {
+            "ru": "Сломанная призма",
+            "en": "Damaged Prism",
+            "zh": "破缺棱晶"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_prism.webp"
+        },
+        {
+          "key": "turbid_prism",
+          "title": {
+            "ru": "Загрязнённая призма",
+            "en": "Turbid Prism",
+            "zh": "混浊棱晶"
+          },
+          "icon": "assets/icons/items/common_enemies/turbid_prism.webp"
+        },
+        {
+          "key": "radiant_prism",
+          "title": {
+            "ru": "Блестящая призма",
+            "en": "Radiant Prism",
+            "zh": "辉光棱晶"
+          },
+          "icon": "assets/icons/items/common_enemies/radiant_prism.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

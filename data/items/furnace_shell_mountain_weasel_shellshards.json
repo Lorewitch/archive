@@ -1,0 +1,162 @@
+{
+  "id": "furnace_shell_mountain_weasel_shellshards",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/cold_cracked_shellshard.webp",
+  "title": {
+    "ru": "Холодный осколок панциря / Тёплый панцирь / Пылающий призмопанцирь",
+    "en": "Shellshards",
+    "zh": "冷裂壳块 / 蕴热的背壳 / 明燃的棱状壳"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.5",
+  "tags": [
+    "Cold-Cracked Shellshard",
+    "Warm Back-Shell",
+    "Blazing Prismshell",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "furnace_shell_mountain_weasel"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "furnace_shell_mountain_weasel",
+      "title": {
+        "ru": "Термопанцирный горный хорь",
+        "en": "Furnace Shell Mountain Weasel",
+        "zh": "炉壳山鼬"
+      },
+      "icon": "assets/icons/enemies/common_enemies/furnace_shell_mountain_weasel.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Древний вид горного хорька, который приспособился к уникальной, богатой флогистоном среде, изолированной от внешнего мира.\nПоглощая существ, богатых флогистоном, этот древний вид накапливает силу в своём панцире.\nПосле длительного существования в руинах Священной горы его адаптация к флогистону привела к тому, что на него стали влиять механизмы источника, находящиеся в руинах,\nи между ними возникли уникальные симбиотические отношения.",
+        "en": "An ancient variant of mountain weasel that has adapted to a unique, Phlogiston-rich environment isolated from the outside world.\nBy consuming creatures rich in Phlogiston, this species accumulates power in the shell it holds.\nAfter a prolonged existence in the ruins of the Sacred Mountain, its affinity for Phlogiston seems to have caused it to be influenced by the Source Mechanisms within the ruins,\ncreating a unique symbiotic relationship between them.",
+        "zh": "因生活在与外界隔绝的特殊燃素环境之内，而拥有特殊形态的古代种山鼬。\n通过进食富含燃素的生物，不断向背壳之中积蓄力量的古代兽种。\n于圣山废墟的长久生活之中，似乎由于独特的亲近燃素的性质，逐渐被圣山废墟之中的秘源机关影响，形成了独有的与秘源机关互相依附的生存状态。"
+      },
+      "description": {
+        "ru": "Древний вид горного хорька, который приспособился к уникальной, богатой флогистоном среде, изолированной от внешнего мира.\nПоглощая существ, богатых флогистоном, этот древний вид накапливает силу в своём панцире.\nПосле длительного существования в руинах Священной горы его адаптация к флогистону привела к тому, что на него стали влиять механизмы источника, находящиеся в руинах,\nи между ними возникли уникальные симбиотические отношения.",
+        "en": "An ancient variant of mountain weasel that has adapted to a unique, Phlogiston-rich environment isolated from the outside world.\nBy consuming creatures rich in Phlogiston, this species accumulates power in the shell it holds.\nAfter a prolonged existence in the ruins of the Sacred Mountain, its affinity for Phlogiston seems to have caused it to be influenced by the Source Mechanisms within the ruins,\ncreating a unique symbiotic relationship between them.",
+        "zh": "因生活在与外界隔绝的特殊燃素环境之内，而拥有特殊形态的古代种山鼬。\n通过进食富含燃素的生物，不断向背壳之中积蓄力量的古代兽种。\n于圣山废墟的长久生活之中，似乎由于独特的亲近燃素的性质，逐渐被圣山废墟之中的秘源机关影响，形成了独有的与秘源机关互相依附的生存状态。"
+      },
+      "drops": [
+        {
+          "id": "furnace_shell_mountain_weasel_shellshards",
+          "title": {
+            "ru": "Холодный осколок панциря / Тёплый панцирь / Пылающий призмопанцирь",
+            "en": "Shellshards",
+            "zh": "冷裂壳块 / 蕴热的背壳 / 明燃的棱状壳"
+          },
+          "icon": "assets/icons/items/common_enemies/cold_cracked_shellshard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.5",
+          "materials": [
+            {
+              "key": "cold_cracked_shellshard",
+              "title": {
+                "ru": "Холодный осколок панциря",
+                "en": "Cold-Cracked Shellshard",
+                "zh": "冷裂壳块"
+              },
+              "icon": "assets/icons/items/common_enemies/cold_cracked_shellshard.webp"
+            },
+            {
+              "key": "warm_back_shell",
+              "title": {
+                "ru": "Тёплый панцирь",
+                "en": "Warm Back-Shell",
+                "zh": "蕴热的背壳"
+              },
+              "icon": "assets/icons/items/common_enemies/warm_back_shell.webp"
+            },
+            {
+              "key": "blazing_prismshell",
+              "title": {
+                "ru": "Пылающий призмопанцирь",
+                "en": "Blazing Prismshell",
+                "zh": "明燃的棱状壳"
+              },
+              "icon": "assets/icons/items/common_enemies/blazing_prismshell.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "cold_cracked_shellshard",
+      "title": {
+        "ru": "Холодный осколок панциря",
+        "en": "Cold-Cracked Shellshard",
+        "zh": "冷裂壳块"
+      },
+      "icon": "assets/icons/items/common_enemies/cold_cracked_shellshard.webp",
+      "text": {
+        "ru": "Кусок панциря, добытый с термопанцирного горного хоря после его поражения.\nКогда-то пылал ярким огнём, но теперь давно остыл. Былой пламенный блеск угас без следа.",
+        "en": "A chunk of shell carved from a Furnace Shell Mountain Weasel's back after its defeat.\nWhere it once blazed brightly, this piece has long since gone cold. The fire-like luster it once held is no more.",
+        "zh": "击败炉壳山鼬后，从其背上取得的背壳的残片。\n一度燃烧，但此时已经冷却的背壳的裂块，已经失去其中原本蕴藏的如火的光彩。"
+      }
+    },
+    {
+      "key": "warm_back_shell",
+      "title": {
+        "ru": "Тёплый панцирь",
+        "en": "Warm Back-Shell",
+        "zh": "蕴热的背壳"
+      },
+      "icon": "assets/icons/items/common_enemies/warm_back_shell.webp",
+      "text": {
+        "ru": "Часть панциря, снятая со спины термопанцирного горного хоря после его поражения.\nТермопанцирный горный хорь накапливает флогистон в своём панцире, получая его из пищи, чтобы использовать в критических ситуациях.\nДавно уж не видели его пылающий след на Священной горе.",
+        "en": "A portion of shell removed from a Furnace Shell Mountain Weasel's back after its defeat.\nFurnace Shell Mountain Weasels accumulate Phlogiston in their shells from feeding to be used in emergencies.\nThe sight of them blazing fiery trails over the Sacred Mountain has not been seen since ancient times.",
+        "zh": "击败炉壳山鼬后，从其背上取得的背壳的部分结构。\n炉壳山鼬会在背壳之后蕴积进食所得的燃素，以备不时之需，燃火的鼬兽在圣山中腾跃时的一抹焰色，或许是长久以来都未曾被人窥得的风景吧。"
+      }
+    },
+    {
+      "key": "blazing_prismshell",
+      "title": {
+        "ru": "Пылающий призмопанцирь",
+        "en": "Blazing Prismshell",
+        "zh": "明燃的棱状壳"
+      },
+      "icon": "assets/icons/items/common_enemies/blazing_prismshell.webp",
+      "text": {
+        "ru": "Цельный сияющий панцирь, добытый со спины термопанцирного горного хоря после его поражения.\nГоворят, чем больше флогистона накопил термопанцирный горный хорь в своём панцире, тем выше его статус в стае.\nОбъяснение этому явлению может быть довольно простым: более доминирующие особи реже прибегают к использованию запасов флогистона по сравнению с менее\nвлиятельными сородичами.",
+        "en": "A whole piece of radiant shell liberated from a Furnace Shell Mountain Weasel's back after its defeat.\nIt is said that the more Phlogiston a Furnace Shell Mountain Weasel has stored in its back, the higher its status in the pack.\nThe reasoning for this phenomenon may be quite simple: More dominant Furnace Shell Mountain Weasels likely have less need to call on their Phlogiston\nreserves than their less prominent peers.",
+        "zh": "击败炉壳山鼬后，从其背上取得的完整的背壳碎块。\n据说在一个种群之中，地位越高的炉壳山鼬，其背后蕴藏的燃素会更多，而地位越低越弱的个体，背后蕴藏的燃素越少。形成这个现象的原因也许很好解释：地位越高的炉壳山鼬，需要运用到背后积蓄的燃素的机会或许永远没有地位低的个体那样多吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

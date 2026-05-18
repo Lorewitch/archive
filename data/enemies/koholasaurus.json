@@ -31,7 +31,50 @@
     "en": "A Saurian with thick, strong flippers and a long tail that can swim in water and liquid phlogiston.\nAccording to legend, more ancient dragons were even more able to adapt to their environments, and when the largest dragon in the ocean of the age floated on the surface,\nit could even be mistaken for an island.\nIt is said that today's Koholasaurus are the descendants of that great sea dragon, and in their broad backs the colossal forms of those ancient sea beasts may yet be glimpsed.",
     "zh": "具有粗壮的鳍肢与长尾，能够在水域与液态燃素中游动的龙。\n传说中，更为远古的龙拥有更加强的环境适应度，那时海中最为巨大的龙漂浮在水面上时，甚至会让人误以为是一座浮起的岛屿。\n据说现在的鳍游龙就是那种巨大海龙的后裔，从其宽阔的背部，似乎也能窥得远古海兽的庞然形态。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "tepetlisaur_fangs",
+      "title": {
+        "ru": "Молодой клык / Клык взрослого / Клык тирана",
+        "en": "Fangs",
+        "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+      },
+      "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "juvenile_fang",
+          "title": {
+            "ru": "Молодой клык",
+            "en": "Juvenile Fang",
+            "zh": "稚嫩的尖齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+        },
+        {
+          "key": "seasoned_fang",
+          "title": {
+            "ru": "Клык взрослого",
+            "en": "Seasoned Fang",
+            "zh": "老练的坚齿"
+          },
+          "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+        },
+        {
+          "key": "tyrants_fang",
+          "title": {
+            "ru": "Клык тирана",
+            "en": "Tyrant's Fang",
+            "zh": "横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

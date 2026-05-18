@@ -31,7 +31,50 @@
     "en": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\nThese members do physical work and are lower on the pecking order.\nThey are often laughed at for their physique — but when the gang comes under attack, they get a chance to show their unexpectedly high strength and agility.",
     "zh": "足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。\n在盗宝团当中从事着体力工作，地位比较低下的成员，因为自己的身材还经常被同伙取笑。\n但在团队遇袭时，会展现出人意料的身手与力量！"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "treasure_hoarders_scout_insignias",
+      "title": {
+        "ru": "Печать Похитителей сокровищ / Печать серебряного ворона / Печать золотого ворона",
+        "en": "Insignias",
+        "zh": "寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+      },
+      "icon": "assets/icons/items/common_enemies/treasure_hoarder_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "treasure_hoarder_insignia",
+          "title": {
+            "ru": "Печать Похитителей сокровищ",
+            "en": "Treasure Hoarder Insignia",
+            "zh": "寻宝鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/treasure_hoarder_insignia.webp"
+        },
+        {
+          "key": "silver_raven_insignia",
+          "title": {
+            "ru": "Печать серебряного ворона",
+            "en": "Silver Raven Insignia",
+            "zh": "藏银鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/silver_raven_insignia.webp"
+        },
+        {
+          "key": "golden_raven_insignia",
+          "title": {
+            "ru": "Печать золотого ворона",
+            "en": "Golden Raven Insignia",
+            "zh": "攫金鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/golden_raven_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it has now lost any awareness of memory.\nBut even so, it holds the banner of the royal house aloft into battle.\nThough it has forgotten its comrades or any royal blessing they might have been given, it will never lay this banner down.",
     "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经失去了一切知觉与记忆吧。\n即使如此，也会高举着王家的旗号进行战斗。\n就算忘记了同侪的模样、王家的祝福，只有这枚旗印，对它而言是绝对不能放下的。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_herald_wicked_torrents_statuettes",
+      "title": {
+        "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+        "en": "Statuettes",
+        "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.6",
+      "materials": [
+        {
+          "key": "gloomy_statuette",
+          "title": {
+            "ru": "Мрачная статуэтка",
+            "en": "Gloomy Statuette",
+            "zh": "晦暗刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+        },
+        {
+          "key": "dark_statuette",
+          "title": {
+            "ru": "Тёмная статуэтка",
+            "en": "Dark Statuette",
+            "zh": "夤夜刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+        },
+        {
+          "key": "deathly_statuette",
+          "title": {
+            "ru": "Смертельная статуэтка",
+            "en": "Deathly Statuette",
+            "zh": "幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

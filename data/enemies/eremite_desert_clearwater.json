@@ -31,7 +31,50 @@
     "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA young lady lost in the ancient dream of the desert songs.\nTo her, the thrill of bloody battle is her true reward.\nLegend has it that the women of this tribe are often afflicted by the wandering spirits of the desert, a condition that leads many of them to an early end.\nPerhaps this one can only be free of these apparitions when her blood is up in combat.\nAn ominous, fragmented spirit is sealed within the weapon she uses, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
     "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n迷失在砂砾作歌的旧梦之中的少女，将厮杀的趣味视作执行委托时真正有价值的报偿。\n传说诞在这一族的女子常受沙漠中的游魂青睐，因而往往早夭。\n或许只有血管中澎湃着战斗的旋律时，她才能拜托魂灵的低语吧。\n使用的武器中封印着残破的厄灵，会在危急是苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "eremite_axe_vanguard_reds",
+      "title": {
+        "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+        "en": "Reds",
+        "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.0",
+      "materials": [
+        {
+          "key": "faded_red_satin",
+          "title": {
+            "ru": "Выцветший красный шёлк",
+            "en": "Faded Red Satin",
+            "zh": "褪色红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+        },
+        {
+          "key": "trimmed_red_silk",
+          "title": {
+            "ru": "Окаймлённый красный шёлк",
+            "en": "Trimmed Red Silk",
+            "zh": "镶边红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+        },
+        {
+          "key": "rich_red_brocade",
+          "title": {
+            "ru": "Златотканый красный шёлк",
+            "en": "Rich Red Brocade",
+            "zh": "织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

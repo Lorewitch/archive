@@ -31,7 +31,50 @@
     "en": "An aquatic creature that hunts by firing watery projectiles.\nAlthough it looks like a hat, it actually eats from its underside, so attempting to wear it is strongly disadvised.\nIn the words of someone who once did this:\"That wasn't very clever, was it?\"",
     "zh": "通过发射水弹进行狩猎的水生动物。\n虽然看起来像帽子，但进食的口器在「帽子」\n的底部，所以将其戴在头上实在是很不明智的行为。\n过去曾经有人证实过这一点：「事后回想起来，那确实是很不明智的行为。\n」"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "blubberbeast_pearls",
+      "title": {
+        "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+        "en": "Pearls",
+        "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+      },
+      "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "transoceanic_pearl",
+          "title": {
+            "ru": "Жемчужина иноморья",
+            "en": "Transoceanic Pearl",
+            "zh": "异海凝珠"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+        },
+        {
+          "key": "transoceanic_chunk",
+          "title": {
+            "ru": "Обломок из иноморья",
+            "en": "Transoceanic Chunk",
+            "zh": "异海之块"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+        },
+        {
+          "key": "xenochromatic_crystal",
+          "title": {
+            "ru": "Ксенохромный кристалл",
+            "en": "Xenochromatic Crystal",
+            "zh": "异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "An elite officer of the Fatui Oprichniki who uses a heavy cannon to tear enemy formations apart while using a mighty shield to defend their comrades.\nBitter battles have dyed the shield frost white, while coatings of blood have tinted its edges black.\nOprichniki officers know that empty words will never bring back those who have fallen in sacrifice — only a bombardment akin to a hailstorm can shake this defiled Old World.",
     "zh": "隶属于愚人众特辖队的精锐士官，擅长以重炮撕裂敌阵，同时以厚重的大盾保护共同战斗的友伴。\n苦难将盾染成霜白，凝积的鲜血为它们镀上黑色的边缘。\n特辖队的士官知晓空洞的言语从来无法挽回那些不可避免的牺牲，唯有冰雹般的轰响，方能将这污秽的旧世界撼动。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "oprichniki_line_trooper_warrants",
+      "title": {
+        "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+        "en": "Warrants",
+        "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "tattered_warrant",
+          "title": {
+            "ru": "Потрёпанный мандат",
+            "en": "Tattered Warrant",
+            "zh": "磨损的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+        },
+        {
+          "key": "immaculate_warrant",
+          "title": {
+            "ru": "Безупречный мандат",
+            "en": "Immaculate Warrant",
+            "zh": "精致的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+        },
+        {
+          "key": "frost_etched_warrant",
+          "title": {
+            "ru": "Заиндевевший мандат",
+            "en": "Frost-Etched Warrant",
+            "zh": "霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

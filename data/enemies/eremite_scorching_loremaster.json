@@ -31,7 +31,50 @@
     "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nEven though they will work for anyone as long as the pay is good, they will never forget their roots in the Great Red Sand.\nAfter the collapse of its civilizations,\nthe stories of the desert were passed down generation after generation in oral tradition just like the sparks in the wind and the rain in the clouds.\nAs time passed, some stories were lost while others survived,\nalbeit with significant changes.\"The Eremites\"is the umbrella term given to the tribes of the desert by those too ignorant or disdainful to learn the tribes' myriad differences.\nWithin those referred to as the Eremites, many have also indeed already forgotten the tales of the desert.\nFear not, however, for those who still remember will never betray the spirit of the sands yet flowing through their veins.",
     "zh": "从沙漠中走出的松散佣兵团体中的一员。\n即使为了报酬愿意为任何人效力，也不会忘记沙海中的根源。\n在文明崩解之后，沙漠中的故事如同风中的火星、云中的雨一样，是经由口口相传的诗与秘史一代又一代继承下去的。\n在流传的过程中有许多故事变化了，又有许多故事失落了。\n「镀金旅团」\n是无知或是怀着蔑视的心不去区分沙海中诸多部族的外人对他们的统称。\n在被称为镀金旅团的人当中，有许多人已经忘记了沙漠的故事。\n如今仍然能记起许多故事的人，是不会背叛流淌在体内的沙漠血脉的。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "eremite_axe_vanguard_reds",
+      "title": {
+        "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+        "en": "Reds",
+        "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.0",
+      "materials": [
+        {
+          "key": "faded_red_satin",
+          "title": {
+            "ru": "Выцветший красный шёлк",
+            "en": "Faded Red Satin",
+            "zh": "褪色红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+        },
+        {
+          "key": "trimmed_red_silk",
+          "title": {
+            "ru": "Окаймлённый красный шёлк",
+            "en": "Trimmed Red Silk",
+            "zh": "镶边红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+        },
+        {
+          "key": "rich_red_brocade",
+          "title": {
+            "ru": "Златотканый красный шёлк",
+            "en": "Rich Red Brocade",
+            "zh": "织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

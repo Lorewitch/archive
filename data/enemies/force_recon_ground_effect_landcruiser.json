@@ -31,7 +31,50 @@
     "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"The ground effect Landcruiser is able to \"fly\"a certain distance above ground by maintaining lift and generating pressure differentials\nthrough firing high-speed jet sprays at the surface,\nallowing it to more economically achieve combat cruising speed, avoid mines and traps, and perform highly effective assaults.\nHowever, costs and limits on operation time mean that mass-produced models carry limited payloads.\nAs such, they are currently limited to Force Recon roles...",
     "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n「地效型」\n的动力机构通过向地面高速喷射流体的方式，在维持向上推力的同时获得一定压力差，从而使得巡陆艇能够在距离地面一定的高度「飞行」，以更经济的方式获得可观的战斗航速，并避开地雷等陷阱，实现高效突击。\n不过，碍于成本和续航时间的限制，大规模量产的地效巡陆艇的载荷有限，目前以搭载强侦型武装为主…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "close_combat_storm_landcruiser_drive_shafts",
+      "title": {
+        "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+        "en": "Drive Shafts",
+        "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+      },
+      "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "broken_drive_shaft",
+          "title": {
+            "ru": "Сломанный вал",
+            "en": "Broken Drive Shaft",
+            "zh": "毁损机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+        },
+        {
+          "key": "reinforced_drive_shaft",
+          "title": {
+            "ru": "Усиленный вал",
+            "en": "Reinforced Drive Shaft",
+            "zh": "加固机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+        },
+        {
+          "key": "precision_drive_shaft",
+          "title": {
+            "ru": "Высокоточный вал",
+            "en": "Precision Drive Shaft",
+            "zh": "精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -1,0 +1,234 @@
+{
+  "id": "wilderness_exile_mistshrouds",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp",
+  "title": {
+    "ru": "Туманное воплощение / Туманная пластина / Туманный шлем",
+    "en": "Mistshrouds",
+    "zh": "幽雾化形 / 幽雾片甲 / 幽雾兜盔"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [
+    "Mistshroud Manifestation",
+    "Mistshroud Plate",
+    "Mistshroud Helmet",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "wilderness_exile",
+    "wilderness_hunter"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "wilderness_exile",
+      "title": {
+        "ru": "Изгнанник пустошей",
+        "en": "Wilderness Exile",
+        "zh": "荒野幽徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/wilderness_exile.webp",
+      "enemy_group": "abyss",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Упырь, бродящий по замёрзшим пустошам, когда образуется непроглядный туман. Их появление предвещает грядущие бедствия.\nВсе жители подлунного мира отправляются в странствия, преследуя собственные цели и желания, но не все они будут исполнены.\nДухи, не находящие покоя из-за обиды, разлуки с близкими или неисполненных желаний, будучи осквернены Бездной, могут превратиться в таких упырей,\nнавеки затерянных в густом тумане Дикой Охоты.",
+        "en": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nAll who dwell beneath the moon set out on journeys with their own goals and wishes in mind, but not all such wishes receive favor.\nSpirits that cannot rest due to engendered resentment, partings with loved ones, or desires that go unfulfilled, if corrupted by the Abyss, may transform into ghouls,\nforever lost in the thick mists of the Wild Hunt.",
+        "zh": "伴随着漆黑的迷雾，徘徊在荒原冻土上的幽魂。\n他们的出现似乎预兆着更可怕的灾难。\n月下的人们怀揣着各自的愿望踏上旅途，但并非所有愿望都能得到注视。\n怨憎会、爱别离、求不得，因此而无法安息的灵魂，若是被深渊所污染，或许便会化作幽魂，永远迷失在狂猎的浓雾中。"
+      },
+      "description": {
+        "ru": "Упырь, бродящий по замёрзшим пустошам, когда образуется непроглядный туман. Их появление предвещает грядущие бедствия.\nВсе жители подлунного мира отправляются в странствия, преследуя собственные цели и желания, но не все они будут исполнены.\nДухи, не находящие покоя из-за обиды, разлуки с близкими или неисполненных желаний, будучи осквернены Бездной, могут превратиться в таких упырей,\nнавеки затерянных в густом тумане Дикой Охоты.",
+        "en": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nAll who dwell beneath the moon set out on journeys with their own goals and wishes in mind, but not all such wishes receive favor.\nSpirits that cannot rest due to engendered resentment, partings with loved ones, or desires that go unfulfilled, if corrupted by the Abyss, may transform into ghouls,\nforever lost in the thick mists of the Wild Hunt.",
+        "zh": "伴随着漆黑的迷雾，徘徊在荒原冻土上的幽魂。\n他们的出现似乎预兆着更可怕的灾难。\n月下的人们怀揣着各自的愿望踏上旅途，但并非所有愿望都能得到注视。\n怨憎会、爱别离、求不得，因此而无法安息的灵魂，若是被深渊所污染，或许便会化作幽魂，永远迷失在狂猎的浓雾中。"
+      },
+      "drops": [
+        {
+          "id": "wilderness_exile_mistshrouds",
+          "title": {
+            "ru": "Туманное воплощение / Туманная пластина / Туманный шлем",
+            "en": "Mistshrouds",
+            "zh": "幽雾化形 / 幽雾片甲 / 幽雾兜盔"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "mistshroud_manifestation",
+              "title": {
+                "ru": "Туманное воплощение",
+                "en": "Mistshroud Manifestation",
+                "zh": "幽雾化形"
+              },
+              "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp"
+            },
+            {
+              "key": "mistshroud_plate",
+              "title": {
+                "ru": "Туманная пластина",
+                "en": "Mistshroud Plate",
+                "zh": "幽雾片甲"
+              },
+              "icon": "assets/icons/items/common_enemies/mistshroud_plate.webp"
+            },
+            {
+              "key": "mistshroud_helmet",
+              "title": {
+                "ru": "Туманный шлем",
+                "en": "Mistshroud Helmet",
+                "zh": "幽雾兜盔"
+              },
+              "icon": "assets/icons/items/common_enemies/mistshroud_helmet.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "wilderness_hunter",
+      "title": {
+        "ru": "Охотник пустошей",
+        "en": "Wilderness Hunter",
+        "zh": "荒野狂狩士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/wilderness_hunter.webp",
+      "enemy_group": "abyss",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Упырь, бродящий по замёрзшим пустошам, когда образуется непроглядный туман. Их появление предвещает ещё более ужасные грядущие бедствия.\nМногие великие воины затерянного древнего королевства погребены в ледяных северных землях.\nХотя следы прошлого давно исчезли, благородные духи продолжают защищать свою золотую родину.\nПробуждённые скверной Бездны, эти воины теперь считают добычей каждого, кто осмелится нарушить их границы.",
+        "en": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nMany great champions of a lost ancient kingdom lie buried beneath the frozen northlands.\nThough the remnants of the past have been long wiped clean, these noble spirits yet defend their golden homeland.\nAwakened by Abyssal taint, these warriors now see all who trespass as prey.",
+        "zh": "伴随着漆黑的迷雾，徘徊在荒原冻土上的幽魂。\n他们的出现似乎预兆着更可怕的灾难。\n在北陆茫茫的冻土之下，掩埋着失落古国的伟大战士。\n即便存在过的痕迹早已被抹去，勇士们的英魂依旧守护着黄金之国的故土。\n如今这些灵魂因深渊的污染而苏醒，所有敢于入侵之人都会被他们当作猎物。"
+      },
+      "description": {
+        "ru": "Упырь, бродящий по замёрзшим пустошам, когда образуется непроглядный туман. Их появление предвещает ещё более ужасные грядущие бедствия.\nМногие великие воины затерянного древнего королевства погребены в ледяных северных землях.\nХотя следы прошлого давно исчезли, благородные духи продолжают защищать свою золотую родину.\nПробуждённые скверной Бездны, эти воины теперь считают добычей каждого, кто осмелится нарушить их границы.",
+        "en": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nMany great champions of a lost ancient kingdom lie buried beneath the frozen northlands.\nThough the remnants of the past have been long wiped clean, these noble spirits yet defend their golden homeland.\nAwakened by Abyssal taint, these warriors now see all who trespass as prey.",
+        "zh": "伴随着漆黑的迷雾，徘徊在荒原冻土上的幽魂。\n他们的出现似乎预兆着更可怕的灾难。\n在北陆茫茫的冻土之下，掩埋着失落古国的伟大战士。\n即便存在过的痕迹早已被抹去，勇士们的英魂依旧守护着黄金之国的故土。\n如今这些灵魂因深渊的污染而苏醒，所有敢于入侵之人都会被他们当作猎物。"
+      },
+      "drops": [
+        {
+          "id": "wilderness_exile_mistshrouds",
+          "title": {
+            "ru": "Туманное воплощение / Туманная пластина / Туманный шлем",
+            "en": "Mistshrouds",
+            "zh": "幽雾化形 / 幽雾片甲 / 幽雾兜盔"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "mistshroud_manifestation",
+              "title": {
+                "ru": "Туманное воплощение",
+                "en": "Mistshroud Manifestation",
+                "zh": "幽雾化形"
+              },
+              "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp"
+            },
+            {
+              "key": "mistshroud_plate",
+              "title": {
+                "ru": "Туманная пластина",
+                "en": "Mistshroud Plate",
+                "zh": "幽雾片甲"
+              },
+              "icon": "assets/icons/items/common_enemies/mistshroud_plate.webp"
+            },
+            {
+              "key": "mistshroud_helmet",
+              "title": {
+                "ru": "Туманный шлем",
+                "en": "Mistshroud Helmet",
+                "zh": "幽雾兜盔"
+              },
+              "icon": "assets/icons/items/common_enemies/mistshroud_helmet.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 2,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "mistshroud_manifestation",
+      "title": {
+        "ru": "Туманное воплощение",
+        "en": "Mistshroud Manifestation",
+        "zh": "幽雾化形"
+      },
+      "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp",
+      "text": {
+        "ru": "Фрагмент, найденный в тумане Дикой Охоты.\nПодобно снежинке, рождающейся из воздуха, он сформировался из сгустившейся тьмы и воплощает силу иного мира.",
+        "en": "A chunk found in the mists of the Wild Hunt.\nLike a snowflake forming from the air, it was created by the manifestation and solidification of dark power from another world.",
+        "zh": "在狂猎的迷雾中寻得的碎块。\n如同雪花一般，是由来自异界的漆黑力量显化凝结而成的。"
+      }
+    },
+    {
+      "key": "mistshroud_plate",
+      "title": {
+        "ru": "Туманная пластина",
+        "en": "Mistshroud Plate",
+        "zh": "幽雾片甲"
+      },
+      "icon": "assets/icons/items/common_enemies/mistshroud_plate.webp",
+      "text": {
+        "ru": "Пластина, найденная в тумане Дикой Охоты.\nОна когда-то была частью доспеха чудовища Дикой Охоты, но по какой-то причине не рассеялась вместе с туманом.",
+        "en": "A plate found in the mists of the Wild Hunt.\nIt was part of the armor of a Wild Hunt monster, but for some reason, it did not disappear with the mist.",
+        "zh": "在狂猎的迷雾中寻得的甲片。\n曾是狂猎魔物所着盔甲的一部分，不知为何没有随着迷雾一同消失。"
+      }
+    },
+    {
+      "key": "mistshroud_helmet",
+      "title": {
+        "ru": "Туманный шлем",
+        "en": "Mistshroud Helmet",
+        "zh": "幽雾兜盔"
+      },
+      "icon": "assets/icons/items/common_enemies/mistshroud_helmet.webp",
+      "text": {
+        "ru": "Шлем, найденный в тумане Дикой Охоты.\nВозможно, из-за скверны иного мира, питавшейся воспоминаниями артерии земли, его форма странным образом напоминает реликвии забытого королевства.",
+        "en": "A helmet found in the mists of the Wild Hunt.\nPerhaps because the sullying presence from beyond this world has fed from the memories of the Ley Lines, its shape appears oddly similar to the\nrelics of a lost kingdom.",
+        "zh": "在狂猎的迷雾中寻得的兜鍪。\n或许是因为来自异界的不洁存在汲取了地脉中古老的记忆，造型与失落古国的遗物颇为相似。"
+      }
+    }
+  ],
+  "material_count": 3
+}

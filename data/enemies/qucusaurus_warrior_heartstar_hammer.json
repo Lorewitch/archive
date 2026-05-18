@@ -31,7 +31,50 @@
     "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nEven in Natlan, the Nation of Pyro, members of the Flower-Feather Clan have a unique approach when it comes to wielding fire and flames.\nFor these tribal warriors, armed as they are with heavy hammers, flames are something that burst forth from violent collisions, symbols of intense passion.\nWhen they do battle, the fight usually ends within an instant— and they are always the ones who stand victorious.",
     "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n即便是在火之国纳塔，来自「花羽会」\n部族的成员对于火焰与燃烧的利用仍然别具一格。\n对于使用重锤的部族武士来说，火焰是冲撞与迸发，是激昂与热烈。\n对于他们来说，战斗往往在瞬息之间就将迎来结果，而他们总是获得胜利的一方。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "forged_sand_interrogator_whistles",
+      "title": {
+        "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+        "en": "Whistles",
+        "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+      },
+      "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "sentrys_wooden_whistle",
+          "title": {
+            "ru": "Деревянный свисток дозорного",
+            "en": "Sentry's Wooden Whistle",
+            "zh": "卫从的木哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+        },
+        {
+          "key": "warriors_metal_whistle",
+          "title": {
+            "ru": "Металлический свисток воина",
+            "en": "Warrior's Metal Whistle",
+            "zh": "战士的铁哨"
+          },
+          "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+        },
+        {
+          "key": "saurian_crowned_warriors_golden_whistle",
+          "title": {
+            "ru": "Золотой свисток коронованного заврианами воина",
+            "en": "Saurian-Crowned Warrior's Golden Whistle",
+            "zh": "龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "Balancing cutting-edge tech, production costs, and sortie rates, these elite Landcruisers confer immense penetrative power upon any order of battle,\nand are the key fulcrum of the frontline.\nThe all-purpose storm combat package combines multi-barrel automatic guns with close-quarter rotating blades, allowing this Landcruiser to battle opponents at any range,\nwhile heavy howitzers on both arms allow it to obliterate cover and deny defenders the benefit of their fortifications.\nAccording to combat doctrine co-authored by the Fatui and the Royal Military Academy, these Landcruisers must be supported by all nearby units when they attack,\nspeedily punching a hole in enemy lines,\nwhich will allow for follow-up attacks in depth that will then cause the enemy defenses to collapse completely.",
     "zh": "均衡了尖端技术、生产成本与出动率，为战斗序列赋予强大穿透力的精锐巡陆艇，是阵线上的重要支点。\n全能攻坚型的武装综合了多管自动机铳与近战旋刃，使得该型巡陆艇能够从容应对所有交战距离上的敌军，双臂的重型榴铳则能破坏掩体，使得防守方失去工事的掩护。\n根据愚人众与皇家军官学院共同编写的作战条令，当尖端全能攻坚型巡陆艇进入发起进攻时，周围的所有单位都应与其配合，在敌军的防线上迅速打开缺口，以便进行后续的纵深进攻，彻底瓦解敌军的防线…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "close_combat_storm_landcruiser_drive_shafts",
+      "title": {
+        "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+        "en": "Drive Shafts",
+        "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+      },
+      "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "broken_drive_shaft",
+          "title": {
+            "ru": "Сломанный вал",
+            "en": "Broken Drive Shaft",
+            "zh": "毁损机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+        },
+        {
+          "key": "reinforced_drive_shaft",
+          "title": {
+            "ru": "Усиленный вал",
+            "en": "Reinforced Drive Shaft",
+            "zh": "加固机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+        },
+        {
+          "key": "precision_drive_shaft",
+          "title": {
+            "ru": "Высокоточный вал",
+            "en": "Precision Drive Shaft",
+            "zh": "精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

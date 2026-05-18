@@ -1,0 +1,1002 @@
+{
+  "id": "wooden_shieldwall_mitachurl_horns",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+  "title": {
+    "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+    "en": "Horns",
+    "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Heavy Horn",
+    "Black Bronze Horn",
+    "Black Crystal Horn",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "wooden_shieldwall_mitachurl",
+    "rock_shieldwall_mitachurl",
+    "ice_shieldwall_mitachurl",
+    "blazing_axe_mitachurl",
+    "crackling_axe_mitachurl",
+    "thunderhelm_lawachurl",
+    "frostarm_lawachurl",
+    "stonehide_lawachurl"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "wooden_shieldwall_mitachurl",
+      "title": {
+        "ru": "Митачурл с деревянным щитом",
+        "en": "Wooden Shieldwall Mitachurl",
+        "zh": "木盾丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл, закалённый в бесчисленных боях.\nОни научились создавать крепкие щиты из Дендро слаймов.\nКрепкие, мохнатые, рельефные силуэты этих созданий обеспечивают им достаточно высокое положение в племенной иерархии. Они способны отражать нападения путешественников на лагеря хиличурлов.",
+        "en": "A muscular hilichurl who has been forged in countless fights.\nThey know how to use Dendro Slimes to create tough shields which they wield in combat.\nWith their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.",
+        "zh": "经历无数战斗历练的丘丘人大块头。\n会利用草史莱姆创造坚固的木盾，进行战斗。\n拥有强健的肌肉，油亮的鬃毛，可靠的宽厚背影，一顿饭吃下很多肉的豪放，能为丘丘人抵挡毫不留情的冒险者，在部族当中有着相当崇高的地位。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл, закалённый в бесчисленных боях.\nОни научились создавать крепкие щиты из Дендро слаймов.\nКрепкие, мохнатые, рельефные силуэты этих созданий обеспечивают им достаточно высокое положение в племенной иерархии. Они способны отражать нападения путешественников на лагеря хиличурлов.",
+        "en": "A muscular hilichurl who has been forged in countless fights.\nThey know how to use Dendro Slimes to create tough shields which they wield in combat.\nWith their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.",
+        "zh": "经历无数战斗历练的丘丘人大块头。\n会利用草史莱姆创造坚固的木盾，进行战斗。\n拥有强健的肌肉，油亮的鬃毛，可靠的宽厚背影，一顿饭吃下很多肉的豪放，能为丘丘人抵挡毫不留情的冒险者，在部族当中有着相当崇高的地位。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "rock_shieldwall_mitachurl",
+      "title": {
+        "ru": "Митачурл с каменным щитом",
+        "en": "Rock Shieldwall Mitachurl",
+        "zh": "岩盾丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным каменным щитом.\nБорьба и поедание мяса - два главных занятия для хиличурлов, потому что именно они делают их сильнее.\nВсе юные хиличурлы мечтают вырасти и стать большими и сильными митачурлами, потому что так они смогут побеждать в большем количестве сражений, есть больше мяса и носить (почти) непробиваемые щиты.",
+        "en": "A muscular hilichurl that uses a rock as a shield.\nFighting and eating meat are the two most important things to hilichurls, because those are what make them grow stronger.\nAll young hilichurls dream of growing up to become a big and strong mitachurl, because that way they can eat more meat, fight more battles, and wield those (almost) impregnable giant rock shields.",
+        "zh": "以顽岩为盾的丘丘人大块头。\n对于丘丘人而言，最重要的事情就是吃肉和打架，让身体变得强壮。\n如果能成为丘丘暴徒这样又大又壮的战士，就能吃更多肉、打更多架、举起（几乎）坚不可摧的巨大岩盾了。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным каменным щитом.\nБорьба и поедание мяса - два главных занятия для хиличурлов, потому что именно они делают их сильнее.\nВсе юные хиличурлы мечтают вырасти и стать большими и сильными митачурлами, потому что так они смогут побеждать в большем количестве сражений, есть больше мяса и носить (почти) непробиваемые щиты.",
+        "en": "A muscular hilichurl that uses a rock as a shield.\nFighting and eating meat are the two most important things to hilichurls, because those are what make them grow stronger.\nAll young hilichurls dream of growing up to become a big and strong mitachurl, because that way they can eat more meat, fight more battles, and wield those (almost) impregnable giant rock shields.",
+        "zh": "以顽岩为盾的丘丘人大块头。\n对于丘丘人而言，最重要的事情就是吃肉和打架，让身体变得强壮。\n如果能成为丘丘暴徒这样又大又壮的战士，就能吃更多肉、打更多架、举起（几乎）坚不可摧的巨大岩盾了。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ice_shieldwall_mitachurl",
+      "title": {
+        "ru": "Митачурл с ледяным щитом",
+        "en": "Ice Shieldwall Mitachurl",
+        "zh": "冰盾丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным ледяным щитом.\nМожно предположить, что такие крупные создания должны сжигать огромное количество калорий, чтобы поддерживать свой организм. Эл Маск предложил концепцию «индекса Митачурла». Данный индекс указывает процентное содержание митачурлов в популяции хиличурлов, при котором данной популяции будет хватать ресурсов для пропитания.",
+        "en": "A muscular hilichurl that uses solid ice as a shield, wielding it in battle.\nReason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the \"Mitachurl Index.\" This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.",
+        "zh": "以严冰为盾的丘丘人大块头，会利用坚冰的巨盾战斗。\n普遍而言，体积庞大、活动频繁的生物需要消耗大量的热量来维持生存。由此，当代的艾尔·马斯克提出了「暴徒指数」，根据某地区中活动的丘丘暴徒数量在丘丘人总人口中占的比例，计算这些丘丘人食物获取的丰富、稳定性。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным ледяным щитом.\nМожно предположить, что такие крупные создания должны сжигать огромное количество калорий, чтобы поддерживать свой организм. Эл Маск предложил концепцию «индекса Митачурла». Данный индекс указывает процентное содержание митачурлов в популяции хиличурлов, при котором данной популяции будет хватать ресурсов для пропитания.",
+        "en": "A muscular hilichurl that uses solid ice as a shield, wielding it in battle.\nReason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the \"Mitachurl Index.\" This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.",
+        "zh": "以严冰为盾的丘丘人大块头，会利用坚冰的巨盾战斗。\n普遍而言，体积庞大、活动频繁的生物需要消耗大量的热量来维持生存。由此，当代的艾尔·马斯克提出了「暴徒指数」，根据某地区中活动的丘丘暴徒数量在丘丘人总人口中占的比例，计算这些丘丘人食物获取的丰富、稳定性。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "blazing_axe_mitachurl",
+      "title": {
+        "ru": "Митачурл с огненным топором",
+        "en": "Blazing Axe Mitachurl",
+        "zh": "火斧丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Пиро слаймов, чтобы пропитать лезвие Пиро элементом и сделать свои удары ещё более смертоносными.\nОбычно частая закалка оружия приводит к быстрому износу металла, однако сила хиличурлов настолько велика, что они способны нанести чудовищный урон даже затупленным оружием.",
+        "en": "Muscular hilichurls who wield large two-handed axes.\nAttacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal.\nUsually, repeatedly quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.",
+        "zh": "手持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用火史莱姆为战斧附上火元素，具有强大的破坏力。\n通常，像火斧丘丘暴徒这样为武器反复淬火会导致钢铁的硬度下降，进而导致刃口容易受损。但丘丘暴徒的力量足够强大，斧子就算刃口没了也可以当锤子用。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Пиро слаймов, чтобы пропитать лезвие Пиро элементом и сделать свои удары ещё более смертоносными.\nОбычно частая закалка оружия приводит к быстрому износу металла, однако сила хиличурлов настолько велика, что они способны нанести чудовищный урон даже затупленным оружием.",
+        "en": "Muscular hilichurls who wield large two-handed axes.\nAttacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal.\nUsually, repeatedly quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.",
+        "zh": "手持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用火史莱姆为战斧附上火元素，具有强大的破坏力。\n通常，像火斧丘丘暴徒这样为武器反复淬火会导致钢铁的硬度下降，进而导致刃口容易受损。但丘丘暴徒的力量足够强大，斧子就算刃口没了也可以当锤子用。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "crackling_axe_mitachurl",
+      "title": {
+        "ru": "Митачурл с электрическим топором",
+        "en": "Crackling Axe Mitachurl",
+        "zh": "雷斧丘丘暴徒"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Электро слаймов, чтобы пропитать лезвие Электро элементом и сделать свои удары ещё более смертоносными.\nВыкованный из стали топор отлично накапливает энергию Электро. Огромный митачурл с Электро топором, вызывающий молнии, - очень величественное зрелище для хиличурлов.",
+        "en": "Muscular hilichurls who wield large, two-handed axes.\nAttacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal.\nAxes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
+        "zh": "持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用雷史莱姆为战斧附上雷元素，具有强大的破坏力。\n钢铁锻造的斧头是非常良好的感电材料。高大魁梧的雷斧丘丘暴徒高举大斧，召引天雷的样子对丘丘人而言可是相当雄壮的景象。"
+      },
+      "description": {
+        "ru": "Мускулистый хиличурл с огромным топором.\nОни используют Электро слаймов, чтобы пропитать лезвие Электро элементом и сделать свои удары ещё более смертоносными.\nВыкованный из стали топор отлично накапливает энергию Электро. Огромный митачурл с Электро топором, вызывающий молнии, - очень величественное зрелище для хиличурлов.",
+        "en": "Muscular hilichurls who wield large, two-handed axes.\nAttacks with large strikes and uses Electro Slimes to infuse their axes with Electro. Their blows are very lethal.\nAxes forged from steel are highly conductive material. The image of those tall and strong Crackling Axe Mitachurls holding their axes up to summon lightning is quite majestic to the hilichurls.",
+        "zh": "持长柄大斧的丘丘人大块头。\n攻击大开大合，会利用雷史莱姆为战斧附上雷元素，具有强大的破坏力。\n钢铁锻造的斧头是非常良好的感电材料。高大魁梧的雷斧丘丘暴徒高举大斧，召引天雷的样子对丘丘人而言可是相当雄壮的景象。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "thunderhelm_lawachurl",
+      "title": {
+        "ru": "Лавачурл с громовым шлемом",
+        "en": "Thunderhelm Lawachurl",
+        "zh": "丘丘雷兜王"
+      },
+      "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в сердце грозы.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело пропитано энергией Электро, а элементальная энергия прорастает сквозь трещины на его теле в виде Электро кристаллов.",
+        "en": "A mysterious \"lord\" of hilichurls that strides through the thunderstorm.\nThis huge hilichurl is referred to as \"Lawa\" by its brethren. Its giant body is so saturated with Electro energy that Elemental Energy seeps through the cracks in its body in the form of Electro Crystal growths.",
+        "zh": "雷暴中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。"
+      },
+      "description": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в сердце грозы.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело пропитано энергией Электро, а элементальная энергия прорастает сквозь трещины на его теле в виде Электро кристаллов.",
+        "en": "A mysterious \"lord\" of hilichurls that strides through the thunderstorm.\nThis huge hilichurl is referred to as \"Lawa\" by its brethren. Its giant body is so saturated with Electro energy that Elemental Energy seeps through the cracks in its body in the form of Electro Crystal growths.",
+        "zh": "雷暴中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "frostarm_lawachurl",
+      "title": {
+        "ru": "Лавачурл с инеевым панцирем",
+        "en": "Frostarm Lawachurl",
+        "zh": "丘丘霜铠王"
+      },
+      "icon": "assets/icons/enemies/common_enemies/frostarm_lawachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в тумане и в снегах.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело практически сливается с наполненной Крио элементом окружающей средой. Благородство его неуклонности подобно замёрзшим северным рекам.",
+        "en": "A mysterious \"lord\" of hilichurls that stalks the snow and fog.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. Its body, honed to the very limit, almost seems to blend into its Cryo-filled environment, and its stoic nobility is like that of the frozen northland rivers.",
+        "zh": "雪雾中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。锻炼至极致的肉身似乎已和环境中满溢的冰元素相互融合，沉默威严有如北国的冰川。"
+      },
+      "description": {
+        "ru": "Загадочный «вождь» хиличурлов притаился в тумане и в снегах.\nЭтого огромного хиличурла собратья называют «лава». Его натренированное до предела тело практически сливается с наполненной Крио элементом окружающей средой. Благородство его неуклонности подобно замёрзшим северным рекам.",
+        "en": "A mysterious \"lord\" of hilichurls that stalks the snow and fog.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. Its body, honed to the very limit, almost seems to blend into its Cryo-filled environment, and its stoic nobility is like that of the frozen northland rivers.",
+        "zh": "雪雾中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。锻炼至极致的肉身似乎已和环境中满溢的冰元素相互融合，沉默威严有如北国的冰川。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "stonehide_lawachurl",
+      "title": {
+        "ru": "Лавачурл с каменным панцирем",
+        "en": "Stonehide Lawachurl",
+        "zh": "丘丘岩盔王"
+      },
+      "icon": "assets/icons/enemies/common_enemies/stonehide_lawachurl.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Загадочный «вождь», обитающий среди тысячи скал.\nЭтого огромного хиличурла собратья называют «лава». Избыточная Гео энергия стала частью их плоти, поэтому они словно высечены из камня.",
+        "en": "A mysterious \"lord\" of hilichurls that walks between a thousand peaks.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. The abundant Geo energies in the environment have become part of their flesh, blood, and skin, which look as if they were chiseled out of mountain rock.",
+        "zh": "千嶂中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。环境中增生的岩元素化成了它们身体的一部分，仿佛血肉与皮肤皆由不移的山岩雕琢而成。"
+      },
+      "description": {
+        "ru": "Загадочный «вождь», обитающий среди тысячи скал.\nЭтого огромного хиличурла собратья называют «лава». Избыточная Гео энергия стала частью их плоти, поэтому они словно высечены из камня.",
+        "en": "A mysterious \"lord\" of hilichurls that walks between a thousand peaks.\nThis huge hilichurl is referred to as a \"lawa\" by its brethren. The abundant Geo energies in the environment have become part of their flesh, blood, and skin, which look as if they were chiseled out of mountain rock.",
+        "zh": "千嶂中漫行的神秘「王者」。\n被同胞称为「Lawa」的庞大丘丘人。环境中增生的岩元素化成了它们身体的一部分，仿佛血肉与皮肤皆由不移的山岩雕琢而成。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_masks",
+          "title": {
+            "ru": "Маски хиличурлов",
+            "en": "Hilichurl Masks",
+            "zh": "丘丘人的面具"
+          },
+          "icon": "assets/icons/items/common_enemies/damaged_mask.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "damaged_mask",
+              "title": {
+                "ru": "Разбитая маска",
+                "en": "Damaged Mask",
+                "zh": "破损的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/damaged_mask.webp"
+            },
+            {
+              "key": "stained_mask",
+              "title": {
+                "ru": "Грязная маска",
+                "en": "Stained Mask",
+                "zh": "污秽的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/stained_mask.webp"
+            },
+            {
+              "key": "ominous_mask",
+              "title": {
+                "ru": "Зловещая маска",
+                "en": "Ominous Mask",
+                "zh": "不祥的面具"
+              },
+              "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 8,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "heavy_horn",
+      "title": {
+        "ru": "Тяжёлый рог",
+        "en": "Heavy Horn",
+        "zh": "沉重号角"
+      },
+      "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+      "text": {
+        "ru": "Грубо сделанный рог, служащий инструментом для поднятия тревоги у хиличурлов.\nНо сейчас этот рог в таком состоянии, что он вряд ли сможет кого-то предупредить об угрозе.",
+        "en": "A crude horn used by hilichurls to warn each other. Given the damage to the horn, it won't be warning anyone any time soon.",
+        "zh": "粗砺的号角，是丘丘人用来警告同伴的道具。现在散布在号角上的战损使其失去了发声的功能。"
+      }
+    },
+    {
+      "key": "black_bronze_horn",
+      "title": {
+        "ru": "Чёрный бронзовый рог",
+        "en": "Black Bronze Horn",
+        "zh": "黑铜号角"
+      },
+      "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp",
+      "text": {
+        "ru": "Металлический рог демона. Его обычно носят более сильные хиличурлы, у которых хватает сил, чтобы дуть в него.",
+        "en": "A metallic monster horn that can only be obtained from especially strong hilichurls, since blowing on the horn takes real strength.",
+        "zh": "金属制的魔物号角。通常只能从格外强壮的丘丘人身上获得，因为鸣响号角是需要气力的事情。"
+      }
+    },
+    {
+      "key": "black_crystal_horn",
+      "title": {
+        "ru": "Чёрный кристаллический рог",
+        "en": "Black Crystal Horn",
+        "zh": "黑晶号角"
+      },
+      "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp",
+      "text": {
+        "ru": "Металлический рог, испускающий таинственный свет. Декорирован драгоценными камнями неизвестного происхождения. Выглядит новеньким.\nСкорее всего, он использовался в таинственных ритуалах хиличурлов.",
+        "en": "A metallic horn with an ominous shine decorated with black crystals of an unknown source. It has hardly been used at all.\nIt is likely a ceremonial item of the hilichurls'.",
+        "zh": "隐隐反射着不祥光芒的金属号角，饰有材质不明的黑晶。几乎没有使用过，推测是丘丘人重要的仪式器具。"
+      }
+    }
+  ],
+  "material_count": 3
+}

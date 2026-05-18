@@ -1,0 +1,318 @@
+{
+  "id": "fatui_electro_cicin_mage_materials",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp",
+  "title": {
+    "ru": "Пыльца туманной травы / Мешочек с туманной травой / Пучок туманной травы",
+    "en": "Mist Grass Pollen",
+    "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Mist Grass Pollen",
+    "Mist Grass",
+    "Mist Grass Wick",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "fatui_electro_cicin_mage",
+    "fatui_cryo_cicin_mage"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "fatui_electro_cicin_mage",
+      "title": {
+        "ru": "Фатуи: Маг Электро цицинов",
+        "en": "Fatui Electro Cicin Mage",
+        "zh": "愚人众·雷萤术士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_electro_cicin_mage.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Маг Фатуи, управляющий в бою Электро цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nЭлектро цицины сходят с ума от туманной травы, а сами призыватели цицинов теряют рассудок от игр со своей жертвой.",
+        "en": "A Fatui mage who can command Electro Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nSimilarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey.",
+        "zh": "操控着雷萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n会利用飞萤喜爱「雾虚草」\n的特性，操控它们为自己而战。\n正如雾虚草的气味会令雷萤迷醉，嗜虐的术士也贪恋着戏弄对手的快感。"
+      },
+      "description": {
+        "ru": "Маг Фатуи, управляющий в бою Электро цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nЭлектро цицины сходят с ума от туманной травы, а сами призыватели цицинов теряют рассудок от игр со своей жертвой.",
+        "en": "A Fatui mage who can command Electro Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nSimilarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey.",
+        "zh": "操控着雷萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n会利用飞萤喜爱「雾虚草」\n的特性，操控它们为自己而战。\n正如雾虚草的气味会令雷萤迷醉，嗜虐的术士也贪恋着戏弄对手的快感。"
+      },
+      "drops": [
+        {
+          "id": "fatui_electro_cicin_mage_materials",
+          "title": {
+            "ru": "Пыльца туманной травы / Мешочек с туманной травой / Пучок туманной травы",
+            "en": "Mist Grass Pollen",
+            "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
+          },
+          "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "mist_grass_pollen",
+              "title": {
+                "ru": "Пыльца туманной травы",
+                "en": "Mist Grass Pollen",
+                "zh": "雾虚花粉"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp"
+            },
+            {
+              "key": "mist_grass",
+              "title": {
+                "ru": "Мешочек с туманной травой",
+                "en": "Mist Grass",
+                "zh": "雾虚草囊"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass.webp"
+            },
+            {
+              "key": "mist_grass_wick",
+              "title": {
+                "ru": "Пучок туманной травы",
+                "en": "Mist Grass Wick",
+                "zh": "雾虚灯芯"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_wick.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_cryo_cicin_mage",
+      "title": {
+        "ru": "Фатуи: Маг Крио цицинов",
+        "en": "Fatui Cryo Cicin Mage",
+        "zh": "愚人众·冰萤术士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_cryo_cicin_mage.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Маг Фатуи, управляющий в бою Крио цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nРазум подсказывает, что лишь носители Глаза Бога способны контролировать силу элементов так, как делают эти маги.\nОднако кроме использования туманной травы для контроля Крио цицинов, они умело управляются с мощью мороза.\nКажется, они бесцельно скитаются по землям Тейвата, будто обременены каким-то долгом, который не могут вернуть...",
+        "en": "A Fatui mage who can command Cryo Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nReason dictates that those who lack Visions should not be able to control the elements as these mages do.\nHowever, in addition to using Mist Grass to control the Cryo Cicins, they also boldly wield the might of frost.\nSeeing them as they wander the land in their seemingly aimless way, one can't help but wonder about the duty that must compel them...",
+        "zh": "操控着冰萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n没有神之眼的人类，理应是无法像她们这样自如地操控元素的；\n但她们却在利用雾虚草操控冰萤之余，肆无忌惮地挥霍着寒冰的力量。\n看似漫无目的地四处游荡的她们，又领受着何种不为人知的使命呢…"
+      },
+      "description": {
+        "ru": "Маг Фатуи, управляющий в бою Крио цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nРазум подсказывает, что лишь носители Глаза Бога способны контролировать силу элементов так, как делают эти маги.\nОднако кроме использования туманной травы для контроля Крио цицинов, они умело управляются с мощью мороза.\nКажется, они бесцельно скитаются по землям Тейвата, будто обременены каким-то долгом, который не могут вернуть...",
+        "en": "A Fatui mage who can command Cryo Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nReason dictates that those who lack Visions should not be able to control the elements as these mages do.\nHowever, in addition to using Mist Grass to control the Cryo Cicins, they also boldly wield the might of frost.\nSeeing them as they wander the land in their seemingly aimless way, one can't help but wonder about the duty that must compel them...",
+        "zh": "操控着冰萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n没有神之眼的人类，理应是无法像她们这样自如地操控元素的；\n但她们却在利用雾虚草操控冰萤之余，肆无忌惮地挥霍着寒冰的力量。\n看似漫无目的地四处游荡的她们，又领受着何种不为人知的使命呢…"
+      },
+      "drops": [
+        {
+          "id": "fatui_electro_cicin_mage_materials",
+          "title": {
+            "ru": "Пыльца туманной травы / Мешочек с туманной травой / Пучок туманной травы",
+            "en": "Mist Grass Pollen",
+            "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
+          },
+          "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "mist_grass_pollen",
+              "title": {
+                "ru": "Пыльца туманной травы",
+                "en": "Mist Grass Pollen",
+                "zh": "雾虚花粉"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp"
+            },
+            {
+              "key": "mist_grass",
+              "title": {
+                "ru": "Мешочек с туманной травой",
+                "en": "Mist Grass",
+                "zh": "雾虚草囊"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass.webp"
+            },
+            {
+              "key": "mist_grass_wick",
+              "title": {
+                "ru": "Пучок туманной травы",
+                "en": "Mist Grass Wick",
+                "zh": "雾虚灯芯"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_wick.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 2,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "mist_grass_pollen",
+      "title": {
+        "ru": "Пыльца туманной травы",
+        "en": "Mist Grass Pollen",
+        "zh": "雾虚花粉"
+      },
+      "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp",
+      "text": {
+        "ru": "Туманная трава выделяет эти необычные споры, находясь в закрытом пространстве. Любимое лакомство цицинов.",
+        "en": "Strange spores created by Mist Grass in enclosed spaces. They are the Cicins' favorite food.",
+        "zh": "雾虚草在密闭空间中会产生的奇妙孢子，是飞萤喜好的食物。"
+      }
+    },
+    {
+      "key": "mist_grass",
+      "title": {
+        "ru": "Мешочек с туманной травой",
+        "en": "Mist Grass",
+        "zh": "雾虚草囊"
+      },
+      "icon": "assets/icons/items/common_enemies/mist_grass.webp",
+      "text": {
+        "ru": "Хорошо сохранившаяся туманная трава. Некоторые люди могут управлять цицинами, пользуясь их любовью к этой траве.",
+        "en": "Well-preserved Mist Grass. Some would take advantage of the Cicins' love for the Mist Grass to control them.",
+        "zh": "保存完好的雾虚草。有的人会利用飞萤对雾虚草的喜好，来控制它们。"
+      }
+    },
+    {
+      "key": "mist_grass_wick",
+      "title": {
+        "ru": "Пучок туманной травы",
+        "en": "Mist Grass Wick",
+        "zh": "雾虚灯芯"
+      },
+      "icon": "assets/icons/items/common_enemies/mist_grass_wick.webp",
+      "text": {
+        "ru": "Небольшой пучок туманной травы, испускающий мягкое свечение. Те, кто носит её, привлекают к себе цицинов и неудачу.",
+        "en": "A rare bundle of Mist Grass that gives off a faint glow. Those who carry it invite both the Cicins and misfortune.",
+        "zh": "将本就罕见的雾虚草集结成的束，会散发出幽晦的冥光；提着这种灯的人，则会召来飞萤与不幸。"
+      }
+    }
+  ],
+  "material_count": 3
+}

@@ -1,0 +1,306 @@
+{
+  "id": "radiant_antelope_bones",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/lightless_bone.webp",
+  "title": {
+    "ru": "Потускневшая кость / Светящиеся останки / Сияющая кость",
+    "en": "Bones",
+    "zh": "失光块骨 / 稀光遗骼 / 繁光躯外骸"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [
+    "Lightless Bone",
+    "Glowing Remains",
+    "Radiant Exoskeleton",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "radiant_antelope",
+    "radiant_bladehorn",
+    "radiant_lunapod"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "radiant_antelope",
+      "title": {
+        "ru": "Лучезарная антилопа",
+        "en": "Radiant Antelope",
+        "zh": "蕴光奇羊"
+      },
+      "icon": "assets/icons/enemies/common_enemies/radiant_antelope.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nКогда-то на землю, благословлённую лунным светом, обрушивались странные грозы, и обычные антилопы обрели способность управлять молниями.\nГоворят, пред одним очевидцем предстало поистине странное зрелище: антилопы стояли на скалах в преддверии грозы, притягивая молнии, чтобы закалить свои тела.",
+        "en": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nStrange lightning once fell upon the land blessed by moonlight, causing once ordinary antelopes to gain the power to wield lightning.\nThey say that some have seen a truly strange sight — antelopes standing on cliffs at the convergence of a storm, attracting bolts of lightning to temper their bodies.",
+        "zh": "长久浸浴古老月之力而演化出独特生态的魔兽。\n在月光眷顾的土地上曾降下异雷，而原本凡弱的奇羊也因此而获得了驱使雷电的能力。\n据说也曾有人目睹奇羊立于雷暴汇聚的崖边，主动吸引雷电淬炼己身的奇异景象。"
+      },
+      "description": {
+        "ru": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nКогда-то на землю, благословлённую лунным светом, обрушивались странные грозы, и обычные антилопы обрели способность управлять молниями.\nГоворят, пред одним очевидцем предстало поистине странное зрелище: антилопы стояли на скалах в преддверии грозы, притягивая молнии, чтобы закалить свои тела.",
+        "en": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nStrange lightning once fell upon the land blessed by moonlight, causing once ordinary antelopes to gain the power to wield lightning.\nThey say that some have seen a truly strange sight — antelopes standing on cliffs at the convergence of a storm, attracting bolts of lightning to temper their bodies.",
+        "zh": "长久浸浴古老月之力而演化出独特生态的魔兽。\n在月光眷顾的土地上曾降下异雷，而原本凡弱的奇羊也因此而获得了驱使雷电的能力。\n据说也曾有人目睹奇羊立于雷暴汇聚的崖边，主动吸引雷电淬炼己身的奇异景象。"
+      },
+      "drops": [
+        {
+          "id": "radiant_antelope_bones",
+          "title": {
+            "ru": "Потускневшая кость / Светящиеся останки / Сияющая кость",
+            "en": "Bones",
+            "zh": "失光块骨 / 稀光遗骼 / 繁光躯外骸"
+          },
+          "icon": "assets/icons/items/common_enemies/lightless_bone.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "lightless_bone",
+              "title": {
+                "ru": "Потускневшая кость",
+                "en": "Lightless Bone",
+                "zh": "失光块骨"
+              },
+              "icon": "assets/icons/items/common_enemies/lightless_bone.webp"
+            },
+            {
+              "key": "glowing_remains",
+              "title": {
+                "ru": "Светящиеся останки",
+                "en": "Glowing Remains",
+                "zh": "稀光遗骼"
+              },
+              "icon": "assets/icons/items/common_enemies/glowing_remains.webp"
+            },
+            {
+              "key": "radiant_exoskeleton",
+              "title": {
+                "ru": "Сияющая кость",
+                "en": "Radiant Exoskeleton",
+                "zh": "繁光躯外骸"
+              },
+              "icon": "assets/icons/items/common_enemies/radiant_exoskeleton.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "radiant_bladehorn",
+      "title": {
+        "ru": "Лучезарный мечерог",
+        "en": "Radiant Bladehorn",
+        "zh": "蕴光刃犀"
+      },
+      "icon": "assets/icons/enemies/common_enemies/radiant_bladehorn.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nГоворят, что в древности, когда эти приграничные земли были окутаны кромешной тьмой, только гигантский носорог с помощью своего стада мог управлять силой,\nвозвращающей всё в здешние места...\nИ это была единственная награда, которую они попросили после того, как лунный свет одарил своими благословениями.",
+        "en": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nIt is said that in the ancient past, when these borderlands were still shrouded by the pitch-dark shadow,\nonly the charging of the giant rhinos could return the power that makes all things turn...\nAnd this was all that was asked of them in return for the moonlight shining down its blessings.",
+        "zh": "长久浸浴古老月之力而演化出独特生态的魔兽。\n据说从前，在边界之地曾被漆黑的阴影笼罩之时，唯有巨犀能通过族群的奔行将可令万物流转的力量重新带回此处…而这也是月光降下恩赐后，向它们索求的唯一的报答。"
+      },
+      "description": {
+        "ru": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nГоворят, что в древности, когда эти приграничные земли были окутаны кромешной тьмой, только гигантский носорог с помощью своего стада мог управлять силой,\nвозвращающей всё в здешние места...\nИ это была единственная награда, которую они попросили после того, как лунный свет одарил своими благословениями.",
+        "en": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nIt is said that in the ancient past, when these borderlands were still shrouded by the pitch-dark shadow,\nonly the charging of the giant rhinos could return the power that makes all things turn...\nAnd this was all that was asked of them in return for the moonlight shining down its blessings.",
+        "zh": "长久浸浴古老月之力而演化出独特生态的魔兽。\n据说从前，在边界之地曾被漆黑的阴影笼罩之时，唯有巨犀能通过族群的奔行将可令万物流转的力量重新带回此处…而这也是月光降下恩赐后，向它们索求的唯一的报答。"
+      },
+      "drops": [
+        {
+          "id": "radiant_antelope_bones",
+          "title": {
+            "ru": "Потускневшая кость / Светящиеся останки / Сияющая кость",
+            "en": "Bones",
+            "zh": "失光块骨 / 稀光遗骼 / 繁光躯外骸"
+          },
+          "icon": "assets/icons/items/common_enemies/lightless_bone.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "lightless_bone",
+              "title": {
+                "ru": "Потускневшая кость",
+                "en": "Lightless Bone",
+                "zh": "失光块骨"
+              },
+              "icon": "assets/icons/items/common_enemies/lightless_bone.webp"
+            },
+            {
+              "key": "glowing_remains",
+              "title": {
+                "ru": "Светящиеся останки",
+                "en": "Glowing Remains",
+                "zh": "稀光遗骼"
+              },
+              "icon": "assets/icons/items/common_enemies/glowing_remains.webp"
+            },
+            {
+              "key": "radiant_exoskeleton",
+              "title": {
+                "ru": "Сияющая кость",
+                "en": "Radiant Exoskeleton",
+                "zh": "繁光躯外骸"
+              },
+              "icon": "assets/icons/items/common_enemies/radiant_exoskeleton.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "radiant_lunapod",
+      "title": {
+        "ru": "Лучезарный лунапод",
+        "en": "Radiant Lunapod",
+        "zh": "蕴光璇蛸"
+      },
+      "icon": "assets/icons/enemies/common_enemies/radiant_lunapod.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nЛегенда гласит, что когда волны бедствия обрушились на сушу, даже обитатели моря не получили пощады.\nТе, кто не мог принять в себя лунный свет, исчезали, словно пена, будь то огромные морские змеи, способные взмывать ввысь, или одноглазые чудовища,\nнекогда желавшие поглотить всё живое.",
+        "en": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the Forsaken Sea were not spared.\nThose who could not accept the moonlight into themselves vanished like foam, whether great sea serpents who could send waves skyward,\nor single-eyed monsters who once plotted to consume all things.",
+        "zh": "长久浸浴古老月之力而演化出独特生态的魔兽。\n传说在灾厄席卷大地的时代，在绝海之中生息的种群亦不能幸免，那些未能接纳月光的都如泡沫消散，无论是翻腾起滔天巨浪的大海蛇抑或是妄图吞噬一切的独眼怪兽。"
+      },
+      "description": {
+        "ru": "Монстр, претерпевший уникальную эволюцию благодаря долгому воздействию силы древней луны.\nЛегенда гласит, что когда волны бедствия обрушились на сушу, даже обитатели моря не получили пощады.\nТе, кто не мог принять в себя лунный свет, исчезали, словно пена, будь то огромные морские змеи, способные взмывать ввысь, или одноглазые чудовища,\nнекогда желавшие поглотить всё живое.",
+        "en": "A beast that has undergone a unique evolution due to age-long immersion in the ancient moon's power.\nLegend has it that when the waves of calamity rolled over the land, even those animals who dwelled in the Forsaken Sea were not spared.\nThose who could not accept the moonlight into themselves vanished like foam, whether great sea serpents who could send waves skyward,\nor single-eyed monsters who once plotted to consume all things.",
+        "zh": "长久浸浴古老月之力而演化出独特生态的魔兽。\n传说在灾厄席卷大地的时代，在绝海之中生息的种群亦不能幸免，那些未能接纳月光的都如泡沫消散，无论是翻腾起滔天巨浪的大海蛇抑或是妄图吞噬一切的独眼怪兽。"
+      },
+      "drops": [
+        {
+          "id": "radiant_antelope_bones",
+          "title": {
+            "ru": "Потускневшая кость / Светящиеся останки / Сияющая кость",
+            "en": "Bones",
+            "zh": "失光块骨 / 稀光遗骼 / 繁光躯外骸"
+          },
+          "icon": "assets/icons/items/common_enemies/lightless_bone.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "lightless_bone",
+              "title": {
+                "ru": "Потускневшая кость",
+                "en": "Lightless Bone",
+                "zh": "失光块骨"
+              },
+              "icon": "assets/icons/items/common_enemies/lightless_bone.webp"
+            },
+            {
+              "key": "glowing_remains",
+              "title": {
+                "ru": "Светящиеся останки",
+                "en": "Glowing Remains",
+                "zh": "稀光遗骼"
+              },
+              "icon": "assets/icons/items/common_enemies/glowing_remains.webp"
+            },
+            {
+              "key": "radiant_exoskeleton",
+              "title": {
+                "ru": "Сияющая кость",
+                "en": "Radiant Exoskeleton",
+                "zh": "繁光躯外骸"
+              },
+              "icon": "assets/icons/items/common_enemies/radiant_exoskeleton.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 3,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "lightless_bone",
+      "title": {
+        "ru": "Потускневшая кость",
+        "en": "Lightless Bone",
+        "zh": "失光块骨"
+      },
+      "icon": "assets/icons/items/common_enemies/lightless_bone.webp",
+      "text": {
+        "ru": "Тусклый фрагмент кости, снятый с лучезарного зверя.\nЭто часть кости с поверхности тела, пронизанного древней лунной силой. Вместе с угасшим светом исчезли и тайны, что когда-то были сокрыты внутри.",
+        "en": "A dull piece of bone taken from the exterior of a glowing beast.\nIt is a fragment from the exoskeleton of a monster infused with the ancient power of the moon.\nAlong with the vanished light, it has also lost the secrets once hidden within.",
+        "zh": "自蕴光的魔兽体表，取下的黯淡骨块。\n浸润古老月之力的魔兽生长出来的外骨的碎块，已经失去其中蕴藏的隐秘与一度显曜的光亮。"
+      }
+    },
+    {
+      "key": "glowing_remains",
+      "title": {
+        "ru": "Светящиеся останки",
+        "en": "Glowing Remains",
+        "zh": "稀光遗骼"
+      },
+      "icon": "assets/icons/items/common_enemies/glowing_remains.webp",
+      "text": {
+        "ru": "Тускло светящийся фрагмент кости, снятый с лучезарного зверя.\nЭто часть кости с поверхности тела, в которой до сих пор таится след древней лунной силы.\nДаже после отделения от тела она сохраняет насыщенное свечение, пронизанное лунной энергией.",
+        "en": "A faintly glowing piece of bone taken from the exterior of a glowing beast.\nIt is the remains of an exoskeleton in which a vestige of the ancient power of the moon still lingers.\nIt emanates a deep hue that still lingers long after being separated from its body, steeped as it is in the power of the moon.",
+        "zh": "自蕴光的魔兽体表，取下的散发微光的骨块。\n仍然残留一部分古老月之力的外骨遗骸，在其中能看到因月之力浸润已久，即使已脱离了本体许久仍无法褪去的深邃颜色。"
+      }
+    },
+    {
+      "key": "radiant_exoskeleton",
+      "title": {
+        "ru": "Сияющая кость",
+        "en": "Radiant Exoskeleton",
+        "zh": "繁光躯外骸"
+      },
+      "icon": "assets/icons/items/common_enemies/radiant_exoskeleton.webp",
+      "text": {
+        "ru": "Холодно светящийся огромный кусок кости, снятый с лучезарного зверя.\nЭти существа, наделённые древней лунной силой, способны управлять костями на поверхности своего тела с помощью света, пропитавшего их костный мозг за\nдолгие годы.\nДаже отделившись от тела, такие кости всё ещё подчиняются воле владельца так же, как и любая другая часть тела.",
+        "en": "A giant piece of bone that glows coldly, taken from the exterior of a glowing beast.\nThese beasts blessed by the ancient power of the moon are able to manipulate their exoskeletons through the light that has soaked into their marrow\nover long years.\nEven though their bones float apart from their bodies, they can still command them at will like any other physical part.",
+        "zh": "自蕴光的魔兽体表，取下的散发着清凉光芒的巨大骨块。\n曾受古老月之力恩赐的魔兽，能够通过这种在漫长岁月中浸入深髓中的光亮，操纵生长而出的外骨，对它们来说，即使并未完全在生理结构上连接，但浮于体表的外骨仍然是可随心念驱使的身躯的一部分吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

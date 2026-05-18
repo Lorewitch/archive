@@ -31,7 +31,50 @@
     "en": "A powerful warrior from the Canopy, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can use a grappling hook to extend their attack range.\nGrappling hooks are an indispensable part of daily life for the Scions of the Canopy.\nHowever, only the wildest warriors will combine the hooks with sawblades to create a weapon both exceptionally lethal and difficult-to-control.",
     "zh": "来自悬木之里，勇武受到认可，得以获授龙冠的强大武士。\n能够借助钩绳延展攻击范围的武者。\n钩绳是「悬木人」\n部族成员日常生活中不可缺少的组成部分。\n不过即使如此，只有最疯狂的战士才会将钩绳和锯刃相结合，变成难以操纵但杀伤力巨大的武器。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "forged_sand_interrogator_whistles",
+      "title": {
+        "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+        "en": "Whistles",
+        "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+      },
+      "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "sentrys_wooden_whistle",
+          "title": {
+            "ru": "Деревянный свисток дозорного",
+            "en": "Sentry's Wooden Whistle",
+            "zh": "卫从的木哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+        },
+        {
+          "key": "warriors_metal_whistle",
+          "title": {
+            "ru": "Металлический свисток воина",
+            "en": "Warrior's Metal Whistle",
+            "zh": "战士的铁哨"
+          },
+          "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+        },
+        {
+          "key": "saurian_crowned_warriors_golden_whistle",
+          "title": {
+            "ru": "Золотой свисток коронованного заврианами воина",
+            "en": "Saurian-Crowned Warrior's Golden Whistle",
+            "zh": "龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

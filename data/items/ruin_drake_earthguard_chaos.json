@@ -1,0 +1,234 @@
+{
+  "id": "ruin_drake_earthguard_chaos",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/chaos_storage.webp",
+  "title": {
+    "ru": "Сосуд хаоса / Модуль хаоса / Анкер хаоса",
+    "en": "Chaos",
+    "zh": "混沌容器 / 混沌模块 / 混沌锚栓"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "3.0",
+  "tags": [
+    "Chaos Storage",
+    "Chaos Module",
+    "Chaos Bolt",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "ruin_drake_earthguard",
+    "ruin_drake_skywatch"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "ruin_drake_earthguard",
+      "title": {
+        "ru": "Дракон руин: Страж земли",
+        "en": "Ruin Drake: Earthguard",
+        "zh": "遗迹龙兽·地巡"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ruin_drake_earthguard.webp",
+      "enemy_group": "automatons",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Ужасающий боевой механизм в форме дракона.\nЛегенда гласит, что это оружие войны – остатки исчезнувшей цивилизации.\nМеханизм сохранил внешний вид вишапа, но был модифицирован для улучшения его характеристик.\nПо сравнению с настоящим вишапом, такие механизмы обладают ещё большей способностью «поглощать», или правильнее выразиться, «противодействовать» силе стихий, чем вишапы.\nСудя по его способностям, цивилизация, создавшая такое страшное оружие войны, должна была быть чрезвычайно амбициозной…",
+        "en": "A horrifying dragon-shaped machine.\nIt is said to be a war machine left behind by a now-destroyed nation.\nIt mimics the appearance of the beings known as Vishaps, with some functional enhancements.\nSuch machines have an even greater ability to \"absorb\"— or perhaps the right word is \"counteract\"— elemental powers than the vishaps.\nFrom this ability, one can glimpse the scale of the ambition that the civilization that made these machines must have once held...",
+        "zh": "令人望而生畏的龙形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n形态上模仿了「龙蜥」\n这一物种，但为了性能进行了结构的优化。\n较之真正的龙蜥,具有更强的「吸收」，抑或是说「反制」\n元素的能力。\n能创造出这样可怕兵器的文明，又会因为什么而覆灭呢…"
+      },
+      "description": {
+        "ru": "Ужасающий боевой механизм в форме дракона.\nЛегенда гласит, что это оружие войны – остатки исчезнувшей цивилизации.\nМеханизм сохранил внешний вид вишапа, но был модифицирован для улучшения его характеристик.\nПо сравнению с настоящим вишапом, такие механизмы обладают ещё большей способностью «поглощать», или правильнее выразиться, «противодействовать» силе стихий, чем вишапы.\nСудя по его способностям, цивилизация, создавшая такое страшное оружие войны, должна была быть чрезвычайно амбициозной…",
+        "en": "A horrifying dragon-shaped machine.\nIt is said to be a war machine left behind by a now-destroyed nation.\nIt mimics the appearance of the beings known as Vishaps, with some functional enhancements.\nSuch machines have an even greater ability to \"absorb\"— or perhaps the right word is \"counteract\"— elemental powers than the vishaps.\nFrom this ability, one can glimpse the scale of the ambition that the civilization that made these machines must have once held...",
+        "zh": "令人望而生畏的龙形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n形态上模仿了「龙蜥」\n这一物种，但为了性能进行了结构的优化。\n较之真正的龙蜥,具有更强的「吸收」，抑或是说「反制」\n元素的能力。\n能创造出这样可怕兵器的文明，又会因为什么而覆灭呢…"
+      },
+      "drops": [
+        {
+          "id": "ruin_drake_earthguard_chaos",
+          "title": {
+            "ru": "Сосуд хаоса / Модуль хаоса / Анкер хаоса",
+            "en": "Chaos",
+            "zh": "混沌容器 / 混沌模块 / 混沌锚栓"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_storage.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "chaos_storage",
+              "title": {
+                "ru": "Сосуд хаоса",
+                "en": "Chaos Storage",
+                "zh": "混沌容器"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_storage.webp"
+            },
+            {
+              "key": "chaos_module",
+              "title": {
+                "ru": "Модуль хаоса",
+                "en": "Chaos Module",
+                "zh": "混沌模块"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_module.webp"
+            },
+            {
+              "key": "chaos_bolt",
+              "title": {
+                "ru": "Анкер хаоса",
+                "en": "Chaos Bolt",
+                "zh": "混沌锚栓"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_bolt.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ruin_drake_skywatch",
+      "title": {
+        "ru": "Дракон руин: Страж небес",
+        "en": "Ruin Drake: Skywatch",
+        "zh": "遗迹龙兽·空巡"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ruin_drake_skywatch.webp",
+      "enemy_group": "automatons",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Ужасающий боевой механизм в форме дракона.\nЛегенда гласит, что это оружие войны – остатки исчезнувшей цивилизации.\nМеханизм сохранил внешний вид вишапа, но был модифицирован для улучшения его характеристик.\nПо сравнению с настоящим вишапом, такие механизмы обладают ещё большей способностью «поглощать», или правильнее выразиться, «противодействовать» силе стихий, чем вишапы.\nКак, спрашивается, могла погибнуть цивилизация, которая создавала такие устрашающие боевые механизмы?",
+        "en": "A horrifying dragon-shaped machine.\nIt is said to be a war machine left behind by a now-destroyed nation.\nIt mimics the appearance of the beings known as Vishaps, with some functional enhancements.\nSuch machines have an even greater ability to \"absorb\"— or perhaps the right word is \"counteract\"— elemental powers than the vishaps.\nHow, you wonder, did a civilization that could make such frightening machines of war collapse?",
+        "zh": "令人望而生畏的龙形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n形态上模仿了「龙蜥」\n这一物种，但为了性能进行了结构的优化。\n较之真正的龙蜥,具有更强的「吸收」，抑或是说「反制」\n元素的能力。\n从这种能力来看，创造出这样可怕兵器的文明曾经有过相当宏大的野心吧…"
+      },
+      "description": {
+        "ru": "Ужасающий боевой механизм в форме дракона.\nЛегенда гласит, что это оружие войны – остатки исчезнувшей цивилизации.\nМеханизм сохранил внешний вид вишапа, но был модифицирован для улучшения его характеристик.\nПо сравнению с настоящим вишапом, такие механизмы обладают ещё большей способностью «поглощать», или правильнее выразиться, «противодействовать» силе стихий, чем вишапы.\nКак, спрашивается, могла погибнуть цивилизация, которая создавала такие устрашающие боевые механизмы?",
+        "en": "A horrifying dragon-shaped machine.\nIt is said to be a war machine left behind by a now-destroyed nation.\nIt mimics the appearance of the beings known as Vishaps, with some functional enhancements.\nSuch machines have an even greater ability to \"absorb\"— or perhaps the right word is \"counteract\"— elemental powers than the vishaps.\nHow, you wonder, did a civilization that could make such frightening machines of war collapse?",
+        "zh": "令人望而生畏的龙形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n形态上模仿了「龙蜥」\n这一物种，但为了性能进行了结构的优化。\n较之真正的龙蜥,具有更强的「吸收」，抑或是说「反制」\n元素的能力。\n从这种能力来看，创造出这样可怕兵器的文明曾经有过相当宏大的野心吧…"
+      },
+      "drops": [
+        {
+          "id": "ruin_drake_earthguard_chaos",
+          "title": {
+            "ru": "Сосуд хаоса / Модуль хаоса / Анкер хаоса",
+            "en": "Chaos",
+            "zh": "混沌容器 / 混沌模块 / 混沌锚栓"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_storage.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "chaos_storage",
+              "title": {
+                "ru": "Сосуд хаоса",
+                "en": "Chaos Storage",
+                "zh": "混沌容器"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_storage.webp"
+            },
+            {
+              "key": "chaos_module",
+              "title": {
+                "ru": "Модуль хаоса",
+                "en": "Chaos Module",
+                "zh": "混沌模块"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_module.webp"
+            },
+            {
+              "key": "chaos_bolt",
+              "title": {
+                "ru": "Анкер хаоса",
+                "en": "Chaos Bolt",
+                "zh": "混沌锚栓"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_bolt.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 2,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "chaos_storage",
+      "title": {
+        "ru": "Сосуд хаоса",
+        "en": "Chaos Storage",
+        "zh": "混沌容器"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_storage.webp",
+      "text": {
+        "ru": "Найден в древнем драконе руин. Драконы руин поглощают элементальную энергию внешнего мира и накапливают её у себя в «зобу».",
+        "en": "Comes from a now-inactive ancient Ruin Drake.\nRuin Drakes can absorb Elemental Energy from the outside and store it in this component inside their \"neck.\"",
+        "zh": "来自不再活动的古代遗迹龙兽。遗迹龙兽可以吸收外界的元素能量，并储存在「颈部」的构件中。"
+      }
+    },
+    {
+      "key": "chaos_module",
+      "title": {
+        "ru": "Модуль хаоса",
+        "en": "Chaos Module",
+        "zh": "混沌模块"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_module.webp",
+      "text": {
+        "ru": "Найден в древнем драконе руин.«Драконы» – самая древняя и примитивная форма воплощения высших элементов.\nВпоследствии все они были разбиты, завоёваны или ассимилированы.",
+        "en": "Comes from a now-inactive ancient Ruin Drake.\nThe dragons were once the most primitive and ancient bodily form of the supreme elements until they were defeated, conquered, or assimilated.",
+        "zh": "来自不再活动的古代遗迹龙兽。「龙」是最为原始、古老的顶级元素受肉之形态，直到它们被击溃、被征服，抑或是被同化。"
+      }
+    },
+    {
+      "key": "chaos_bolt",
+      "title": {
+        "ru": "Анкер хаоса",
+        "en": "Chaos Bolt",
+        "zh": "混沌锚栓"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_bolt.webp",
+      "text": {
+        "ru": "Найден в древнем драконе руин. Подданные одного из исчезнувших древних царств были одержимы теорией биомимесиса.\nОни были уверены, что любую силу, будь то чистые и упорядоченные элементы гипостазисов или древняя первобытная мощь драконов, следует воспроизвести и\nусовершенствовать, чтобы она превзошла первоисточник.\nТак будет создана высшая и чистейшая телесная форма, которая заменит бренную оболочку, обречённую на гибель и разложение.",
+        "en": "Comes from a now-inactive ancient Ruin Drake. Among the lost ancient kingdoms, there was a group of people who were obsessed with the idea of mimesis.\nBe it the Hypostases' pure ordered elements or the ancient primitive power of the dragons, these people believed that they might all be replicated\nand modified to the point where they had surpassed their natural counterparts.\nBy this means, a superior and unsullied bodily form could replace the continuously decaying and shattering order.",
+        "zh": "来自不再活动的古代遗迹龙兽。已经失落的古国之中，曾有一派人醉心于拟生之原理。无论是无相的纯粹秩序元素，或是龙的亘古原始力量，都应当加以拟造、改良，最终达成超越。如此便能以更为优越的无垢之身，取代终将朽败、终将破碎的秩序。"
+      }
+    }
+  ],
+  "material_count": 3
+}

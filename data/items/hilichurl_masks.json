@@ -517,6 +517,48 @@
       },
       "drops": [
         {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
           "id": "hilichurl_masks",
           "title": {
             "ru": "Маски хиличурлов",
@@ -587,6 +629,48 @@
         "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上敷了一层薄薄的易燃材料，以便烧灼其目标。前代的艾尔·马斯克认为，这是头脑灵光的丘丘人想要在捕猎时顺便完成烹饪而为的创新之事。"
       },
       "drops": [
+        {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
         {
           "id": "hilichurl_masks",
           "title": {
@@ -659,6 +743,48 @@
       },
       "drops": [
         {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
           "id": "hilichurl_masks",
           "title": {
             "ru": "Маски хиличурлов",
@@ -729,6 +855,48 @@
         "zh": "提瓦特荒野中游荡的原始住民。\n手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。"
       },
       "drops": [
+        {
+          "id": "hilichurl_arrowheads",
+          "title": {
+            "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+            "en": "Arrowheads",
+            "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "firm_arrowhead",
+              "title": {
+                "ru": "Прочный наконечник стрелы",
+                "en": "Firm Arrowhead",
+                "zh": "牢固的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+            },
+            {
+              "key": "sharp_arrowhead",
+              "title": {
+                "ru": "Острый наконечник стрелы",
+                "en": "Sharp Arrowhead",
+                "zh": "锐利的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+            },
+            {
+              "key": "weathered_arrowhead",
+              "title": {
+                "ru": "Старый наконечник стрелы",
+                "en": "Weathered Arrowhead",
+                "zh": "历战的箭簇"
+              },
+              "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+            }
+          ],
+          "material_count": 3
+        },
         {
           "id": "hilichurl_masks",
           "title": {
@@ -1054,6 +1222,48 @@
             }
           ],
           "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
         }
       ]
     },
@@ -1122,6 +1332,48 @@
                 "zh": "不祥的面具"
               },
               "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
             }
           ],
           "material_count": 3
@@ -1196,6 +1448,48 @@
             }
           ],
           "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
         }
       ]
     },
@@ -1264,6 +1558,48 @@
                 "zh": "不祥的面具"
               },
               "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
             }
           ],
           "material_count": 3
@@ -1338,6 +1674,48 @@
             }
           ],
           "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
         }
       ]
     },
@@ -1406,6 +1784,48 @@
                 "zh": "不祥的面具"
               },
               "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
             }
           ],
           "material_count": 3
@@ -1480,6 +1900,48 @@
             }
           ],
           "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+            }
+          ],
+          "material_count": 3
         }
       ]
     },
@@ -1548,6 +2010,48 @@
                 "zh": "不祥的面具"
               },
               "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "wooden_shieldwall_mitachurl_horns",
+          "title": {
+            "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+            "en": "Horns",
+            "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "heavy_horn",
+              "title": {
+                "ru": "Тяжёлый рог",
+                "en": "Heavy Horn",
+                "zh": "沉重号角"
+              },
+              "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+            },
+            {
+              "key": "black_bronze_horn",
+              "title": {
+                "ru": "Чёрный бронзовый рог",
+                "en": "Black Bronze Horn",
+                "zh": "黑铜号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+            },
+            {
+              "key": "black_crystal_horn",
+              "title": {
+                "ru": "Чёрный кристаллический рог",
+                "en": "Black Crystal Horn",
+                "zh": "黑晶号角"
+              },
+              "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
             }
           ],
           "material_count": 3
@@ -1622,6 +2126,48 @@
             }
           ],
           "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
         }
       ]
     },
@@ -1690,6 +2236,48 @@
                 "zh": "不祥的面具"
               },
               "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
             }
           ],
           "material_count": 3
@@ -1764,6 +2352,48 @@
             }
           ],
           "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
         }
       ]
     },
@@ -1832,6 +2462,48 @@
                 "zh": "不祥的面具"
               },
               "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
             }
           ],
           "material_count": 3
@@ -1906,6 +2578,48 @@
             }
           ],
           "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+            }
+          ],
+          "material_count": 3
         }
       ]
     },
@@ -1974,6 +2688,48 @@
                 "zh": "不祥的面具"
               },
               "icon": "assets/icons/items/common_enemies/ominous_mask.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "samachurl_scrolls",
+          "title": {
+            "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+            "en": "Scrolls",
+            "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "divining_scroll",
+              "title": {
+                "ru": "Свиток божественной магии",
+                "en": "Divining Scroll",
+                "zh": "导能绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+            },
+            {
+              "key": "sealed_scroll",
+              "title": {
+                "ru": "Свиток печати",
+                "en": "Sealed Scroll",
+                "zh": "封魔绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+            },
+            {
+              "key": "forbidden_curse_scroll",
+              "title": {
+                "ru": "Свиток запретного проклятья",
+                "en": "Forbidden Curse Scroll",
+                "zh": "禁咒绘卷"
+              },
+              "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
             }
           ],
           "material_count": 3

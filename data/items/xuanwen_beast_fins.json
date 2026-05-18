@@ -1,0 +1,162 @@
+{
+  "id": "xuanwen_beast_fins",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/feathery_fin.webp",
+  "title": {
+    "ru": "Перьевой плавник / Лунный плавник / Глубинный плавник",
+    "en": "Fins",
+    "zh": "羽状鳍翅 / 月色鳍翅 / 渊光鳍翅"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "4.4",
+  "tags": [
+    "Feathery Fin",
+    "Lunar Fin",
+    "Chasmlight Fin",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "xuanwen_beast"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "xuanwen_beast",
+      "title": {
+        "ru": "Зверь Сюаньвэнь",
+        "en": "Xuanwen Beast",
+        "zh": "玄文兽"
+      },
+      "icon": "assets/icons/enemies/common_enemies/xuanwen_beast.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Ли Юэ",
+      "game_version": "4.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Звери Сюаньвэнь, живущие в долине Чэньюй, обладают тёмным окрасом и жестоким нравом.\nВ местных легендах их считают древними слугами Адепта, которым поручено защищать земли от зла.\nНо после гибели Адепта они стали беспощадными монстрами.\nСложно подтвердить или опровергнуть эти рассказы, и личность Адепта установить не удалось.\nЯсно только, что лучше держаться от этих зверей подальше.\nЗа более чем тысячу лет они потеряли огромную территорию, которая когда-то принадлежала им безраздельно, из-за неустанного вторжения людей.\nВ наши дни их можно лишь изредка встретить в отдалённых горах долины Чэньюй...",
+        "en": "Xuanwen Beasts, named for the dark patterns on their bodies, are fierce creatures that inhabit the mountains of Chenyu Vale.\nIn the region's folklore, these beasts were the servants of an adeptus in ancient times, tasked with vanquishing evil and protecting the region.\nHowever, they devolved into brutal creatures after said adeptus passed away.\nThese legends cannot be verified, and no one knows the true identity of this adeptus.\nThis much is for sure, however — one should stay away from these aggressive creatures for one's safety.\nFor over a thousand years, these beasts have lost a tremendous amount of territory that once belonged to them to relentless human encroachment.\nThese days, they can only occasionally be spotted in the remote mountains of Chenyu Vale...",
+        "zh": "栖息在沉玉谷山林间的凶猛野兽，因其深色的纹理而得名「玄文」。\n沉玉谷本地的民话中，在遥远的过去，这些猛兽曾是某位仙人的眷属，降妖伏魔、庇护一方，在仙人故去后，方才退化为凶暴的野兽。\n传说早已无从查考，仙人的身份也众说纷纭，唯一可以确定的是，出于安全考虑，最好还是不要贸然靠近这些暴躁的生灵。\n千年间，伴随着人类不懈的开拓，原本属于这些野兽的生存空间变得越来越小。\n时至今日，只有在沉玉谷人迹罕至的崇山峻岭中，才能偶尔看到这些猛兽的身影…"
+      },
+      "description": {
+        "ru": "Звери Сюаньвэнь, живущие в долине Чэньюй, обладают тёмным окрасом и жестоким нравом.\nВ местных легендах их считают древними слугами Адепта, которым поручено защищать земли от зла.\nНо после гибели Адепта они стали беспощадными монстрами.\nСложно подтвердить или опровергнуть эти рассказы, и личность Адепта установить не удалось.\nЯсно только, что лучше держаться от этих зверей подальше.\nЗа более чем тысячу лет они потеряли огромную территорию, которая когда-то принадлежала им безраздельно, из-за неустанного вторжения людей.\nВ наши дни их можно лишь изредка встретить в отдалённых горах долины Чэньюй...",
+        "en": "Xuanwen Beasts, named for the dark patterns on their bodies, are fierce creatures that inhabit the mountains of Chenyu Vale.\nIn the region's folklore, these beasts were the servants of an adeptus in ancient times, tasked with vanquishing evil and protecting the region.\nHowever, they devolved into brutal creatures after said adeptus passed away.\nThese legends cannot be verified, and no one knows the true identity of this adeptus.\nThis much is for sure, however — one should stay away from these aggressive creatures for one's safety.\nFor over a thousand years, these beasts have lost a tremendous amount of territory that once belonged to them to relentless human encroachment.\nThese days, they can only occasionally be spotted in the remote mountains of Chenyu Vale...",
+        "zh": "栖息在沉玉谷山林间的凶猛野兽，因其深色的纹理而得名「玄文」。\n沉玉谷本地的民话中，在遥远的过去，这些猛兽曾是某位仙人的眷属，降妖伏魔、庇护一方，在仙人故去后，方才退化为凶暴的野兽。\n传说早已无从查考，仙人的身份也众说纷纭，唯一可以确定的是，出于安全考虑，最好还是不要贸然靠近这些暴躁的生灵。\n千年间，伴随着人类不懈的开拓，原本属于这些野兽的生存空间变得越来越小。\n时至今日，只有在沉玉谷人迹罕至的崇山峻岭中，才能偶尔看到这些猛兽的身影…"
+      },
+      "drops": [
+        {
+          "id": "xuanwen_beast_fins",
+          "title": {
+            "ru": "Перьевой плавник / Лунный плавник / Глубинный плавник",
+            "en": "Fins",
+            "zh": "羽状鳍翅 / 月色鳍翅 / 渊光鳍翅"
+          },
+          "icon": "assets/icons/items/common_enemies/feathery_fin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.4",
+          "materials": [
+            {
+              "key": "feathery_fin",
+              "title": {
+                "ru": "Перьевой плавник",
+                "en": "Feathery Fin",
+                "zh": "羽状鳍翅"
+              },
+              "icon": "assets/icons/items/common_enemies/feathery_fin.webp"
+            },
+            {
+              "key": "lunar_fin",
+              "title": {
+                "ru": "Лунный плавник",
+                "en": "Lunar Fin",
+                "zh": "月色鳍翅"
+              },
+              "icon": "assets/icons/items/common_enemies/lunar_fin.webp"
+            },
+            {
+              "key": "chasmlight_fin",
+              "title": {
+                "ru": "Глубинный плавник",
+                "en": "Chasmlight Fin",
+                "zh": "渊光鳍翅"
+              },
+              "icon": "assets/icons/items/common_enemies/chasmlight_fin.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "feathery_fin",
+      "title": {
+        "ru": "Перьевой плавник",
+        "en": "Feathery Fin",
+        "zh": "羽状鳍翅"
+      },
+      "icon": "assets/icons/items/common_enemies/feathery_fin.webp",
+      "text": {
+        "ru": "Фрагмент плавника, извлечённый из спины поверженного зверя Сюаньвэнь.\nХотя Сюаньвэнь не может летать на большие расстояния, благодаря этим плавникам, напоминающим перья, он может быстро преследовать добычу.",
+        "en": "A fin fragment taken from a defeated Xuanwen Beast's back.\nEven though Xuanwen Beasts can't fly over long distances, these feather-like fins enable them to swiftly pursue their prey.",
+        "zh": "击败玄文兽后，从其背上取得的鳍翅残片。\n尽管不具备长距离飞行的能力，这些如同鸟羽一般的鳍翅依然能让玄文兽在驰逐猎物时更为迅疾。"
+      }
+    },
+    {
+      "key": "lunar_fin",
+      "title": {
+        "ru": "Лунный плавник",
+        "en": "Lunar Fin",
+        "zh": "月色鳍翅"
+      },
+      "icon": "assets/icons/items/common_enemies/lunar_fin.webp",
+      "text": {
+        "ru": "Плавник, извлечённый из спины поверженного зверя Сюаньвэнь.\nМягкое свечение плавника, напоминающее лунный свет, создаёт ощущение безмятежности.",
+        "en": "A fin taken from a defeated Xuanwen Beast's back.\nThe soft, moonlight-esque glow on the fin gives off a sense of serenity.",
+        "zh": "击败玄文兽后，从其背上取得的鳍翅。\n其上隐隐折射着如月色般温润的幽光，不知为何给人一种宁谧感。"
+      }
+    },
+    {
+      "key": "chasmlight_fin",
+      "title": {
+        "ru": "Глубинный плавник",
+        "en": "Chasmlight Fin",
+        "zh": "渊光鳍翅"
+      },
+      "icon": "assets/icons/items/common_enemies/chasmlight_fin.webp",
+      "text": {
+        "ru": "Изящный плавник, извлечённый из спины поверженного зверя Сюаньвэнь.\nЛёгкое свечение после преломления о него содержит элементы силы Адептов.\nВ тишине ночи даже самые жестокие звери ненадолго погружаются в мирную дрёму, вспоминая времена, когда сны принадлежали не только людям.",
+        "en": "An elegant fin taken from a defeated Xuanwen Beast's back.\nThe faint light it reflects contains traces of adeptal energy.\nIn the still of the night, even the most violent beasts briefly sink into a peaceful slumber, reminiscing on times when dreams belonged not only to\nhumans.",
+        "zh": "击败玄文兽后，从其背上取得的华美鳍翅。\n其上折射着幽邃的微光，能隐隐感受到仙力的痕迹。更深夜静之时，即便是凶暴的野兽亦会短暂沉入宁谧的安眠，追忆「梦」尚不独属于人的年岁。"
+      }
+    }
+  ],
+  "material_count": 3
+}

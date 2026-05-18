@@ -31,7 +31,50 @@
     "en": "A Saurian with a drill-like horn and strong claws that can tunnel through rocks and solid phlogiston.\nAccording to legend, the ancestor of all Tepetlisaurs was a massive drake as large as a mountain, with an exceptionally long lifespan.\nWhen it slept, mountains would form along its back, and when it woke, it would shake off the dirt and rocks, leaving behind gems and jade shining amongst its scales.\nThe huge, drill-shaped objects in the Children of Echoes are said to be the remains of that great drake's large drill-horn.",
     "zh": "拥有钻角与坚爪，能够在山石与固态燃素中穿梭的龙。\n传说中，嵴锋龙的祖先是山一般巨大的龙兽，拥有相当漫长的寿命，沉睡时，群山在其背脊上成型，苏醒时，就会抖落身上的泥土与沉岩，唯留宝石与美玉在鳞角中熠熠生辉。\n「回声之子」\n部族中巨大的钻状物，据说是那时龙兽巨大钻角的遗留。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "tepetlisaur_fangs",
+      "title": {
+        "ru": "Молодой клык / Клык взрослого / Клык тирана",
+        "en": "Fangs",
+        "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+      },
+      "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "juvenile_fang",
+          "title": {
+            "ru": "Молодой клык",
+            "en": "Juvenile Fang",
+            "zh": "稚嫩的尖齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+        },
+        {
+          "key": "seasoned_fang",
+          "title": {
+            "ru": "Клык взрослого",
+            "en": "Seasoned Fang",
+            "zh": "老练的坚齿"
+          },
+          "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+        },
+        {
+          "key": "tyrants_fang",
+          "title": {
+            "ru": "Клык тирана",
+            "en": "Tyrant's Fang",
+            "zh": "横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

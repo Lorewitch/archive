@@ -31,7 +31,50 @@
     "en": "A monster created by the coalescing of Electro dispersed throughout nature.\nElectro Slimes can undergo mutations to become bright yellow.\nDue to the abundant Electro within its form, it will deliver an electric shock to its surroundings from time to time,\nand it can even cause nearby Electro Slimes to release electric arcs.\nThis arc lightning will not bounce between purple Electro Slimes, which shows that Electro Slimes have two different polarities.\nOne wonders if some great new science could emerge from the study of such phenomena...",
     "zh": "逸散在自然之中的雷元素凝聚形成的魔物。\n雷史莱姆异变产生的，明黄色的史莱姆。\n因为体内充沛的雷元素，会间歇性向周围放电，并能向附近的雷史莱姆放出电弧；\n但紫色的雷史莱姆之间并不会通电。\n由此看来，雷史莱姆似乎具有两极。\n以此为基点，或许能成为某种伟大学科的开端…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "slime_materials",
+      "title": {
+        "ru": "Слизь слайма / Выделения слайма / Концентрат слайма",
+        "en": "Slimes",
+        "zh": "史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+      },
+      "icon": "assets/icons/items/common_enemies/slime_condensate.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "slime_condensate",
+          "title": {
+            "ru": "Слизь слайма",
+            "en": "Slime Condensate",
+            "zh": "史莱姆凝液"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_condensate.webp"
+        },
+        {
+          "key": "slime_secretions",
+          "title": {
+            "ru": "Выделения слайма",
+            "en": "Slime Secretions",
+            "zh": "史莱姆清"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_secretions.webp"
+        },
+        {
+          "key": "slime_concentrate",
+          "title": {
+            "ru": "Концентрат слайма",
+            "en": "Slime Concentrate",
+            "zh": "史莱姆原浆"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_concentrate.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "Samurai who have fallen into banditry.\nThey possess highly advanced martial art skills but found no use for them for various reasons.\nOut of desperation, they have fallen onto the path of evil.\nThey use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning.",
     "zh": "落草为寇的流浪武人。\n有着高强的武道修养，却因为种种原因而没有用武之地，走投无路中踏上了恶逆之道。\n会利用本应在数百年前失传的惟神技术制造的符纸，为刀剑附上雷霆的力量。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "nobushi_jintouban_handguards",
+      "title": {
+        "ru": "Старая гарда / Гарда кагэути / Прославленная гарда",
+        "en": "Handguards",
+        "zh": "破旧的刀镡 / 影打刀镡 / 名刀镡"
+      },
+      "icon": "assets/icons/items/common_enemies/old_handguard.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.0",
+      "materials": [
+        {
+          "key": "old_handguard",
+          "title": {
+            "ru": "Старая гарда",
+            "en": "Old Handguard",
+            "zh": "破旧的刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/old_handguard.webp"
+        },
+        {
+          "key": "kageuchi_handguard",
+          "title": {
+            "ru": "Гарда кагэути",
+            "en": "Kageuchi Handguard",
+            "zh": "影打刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/kageuchi_handguard.webp"
+        },
+        {
+          "key": "famed_handguard",
+          "title": {
+            "ru": "Прославленная гарда",
+            "en": "Famed Handguard",
+            "zh": "名刀镡"
+          },
+          "icon": "assets/icons/items/common_enemies/famed_handguard.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

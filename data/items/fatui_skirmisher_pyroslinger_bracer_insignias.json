@@ -1,0 +1,864 @@
+{
+  "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+  "title": {
+    "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+    "en": "Insignias",
+    "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Recruit's Insignia",
+    "Sergeant's Insignia",
+    "Lieutenant's Insignia",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "fatui_skirmisher_pyroslinger_bracer",
+    "fatui_skirmisher_hydrogunner_legionnaire",
+    "fatui_skirmisher_anemoboxer_vanguard",
+    "fatui_skirmisher_electrohammer_vanguard",
+    "fatui_skirmisher_cryogunner_legionnaire",
+    "fatui_skirmisher_geochanter_bracer",
+    "fatui_pyro_agent",
+    "fatui_electro_cicin_mage",
+    "fatui_cryo_cicin_mage"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "fatui_skirmisher_pyroslinger_bracer",
+      "title": {
+        "ru": "Застрельщик Фатуи: Пиро мушкетёр",
+        "en": "Fatui Skirmisher - Pyroslinger Bracer",
+        "zh": "愚人众先遣队·火铳游击兵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_pyroslinger_bracer.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Застрельщик Фатуи, вооружённый огненным мушкетом.\nОружие застрельщиков способно до определённой степени контролировать стихийные элементы, что позволяет им прибегнуть к помощи элементальных реакций.\nВ бою застрельщики полагаются на своё передовое вооружение и тактические навыки, что делает их серьёзной угрозой для врага.",
+        "en": "A Fatui soldier who wields a flaming gun.\nSkirmisher weapons can control the elements to a certain extent, and their combat tactics utilize elemental reactions.\nTheir ordnance and knowledge of squad-based combat thus constitute no small threat in battle.",
+        "zh": "操使着烈焰之铳的愚人众士兵。\n先遣队配置的武器在一定程度上能制御元素，战斗策略上则会利用元素反应。\n因为拥有这样的武装与知识，先遣队团队作战时能带来无法小觑的威胁。"
+      },
+      "description": {
+        "ru": "Застрельщик Фатуи, вооружённый огненным мушкетом.\nОружие застрельщиков способно до определённой степени контролировать стихийные элементы, что позволяет им прибегнуть к помощи элементальных реакций.\nВ бою застрельщики полагаются на своё передовое вооружение и тактические навыки, что делает их серьёзной угрозой для врага.",
+        "en": "A Fatui soldier who wields a flaming gun.\nSkirmisher weapons can control the elements to a certain extent, and their combat tactics utilize elemental reactions.\nTheir ordnance and knowledge of squad-based combat thus constitute no small threat in battle.",
+        "zh": "操使着烈焰之铳的愚人众士兵。\n先遣队配置的武器在一定程度上能制御元素，战斗策略上则会利用元素反应。\n因为拥有这样的武装与知识，先遣队团队作战时能带来无法小觑的威胁。"
+      },
+      "drops": [
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_skirmisher_hydrogunner_legionnaire",
+      "title": {
+        "ru": "Застрельщик Фатуи: Гидро бомбардир",
+        "en": "Fatui Skirmisher - Hydrogunner Legionnaire",
+        "zh": "愚人众先遣队·水铳重卫士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_hydrogunner_legionnaire.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат, заключённый в боевой механизм Фатуи.\nЭтот механизм способен до определённой степени контролировать стихийные элементы и позволяет пилоту стрелять струёй воды.\nЗастрельщики Фатуи выполняют свои миссии глубоко в тылу врага, прокладывая путь для вторжения основных войск.\nИх не волнует, удастся ли вернуться на родину живыми или нет.",
+        "en": "A soldier encased within a Fatui war machine.\nArmed with equipment that can control the elements to a certain extent, their guns are capable of firing jets of water.\nThese skirmishers do not question if they shall live or die as they advance into nations far from home to complete advance missions and lay the groundwork for operations to come.",
+        "zh": "愚人众战争机器中的士兵。\n配备着能在一定程度上制御元素的装备，可以利用铳形的武器喷射激烈的水流。\n「先遣队」\n之名意味着生死不问，深入祖国以外的土地完成前期任务，为未来的某些行动夯实基础。"
+      },
+      "description": {
+        "ru": "Солдат, заключённый в боевой механизм Фатуи.\nЭтот механизм способен до определённой степени контролировать стихийные элементы и позволяет пилоту стрелять струёй воды.\nЗастрельщики Фатуи выполняют свои миссии глубоко в тылу врага, прокладывая путь для вторжения основных войск.\nИх не волнует, удастся ли вернуться на родину живыми или нет.",
+        "en": "A soldier encased within a Fatui war machine.\nArmed with equipment that can control the elements to a certain extent, their guns are capable of firing jets of water.\nThese skirmishers do not question if they shall live or die as they advance into nations far from home to complete advance missions and lay the groundwork for operations to come.",
+        "zh": "愚人众战争机器中的士兵。\n配备着能在一定程度上制御元素的装备，可以利用铳形的武器喷射激烈的水流。\n「先遣队」\n之名意味着生死不问，深入祖国以外的土地完成前期任务，为未来的某些行动夯实基础。"
+      },
+      "drops": [
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_skirmisher_anemoboxer_vanguard",
+      "title": {
+        "ru": "Застрельщик Фатуи: Анемо борец",
+        "en": "Fatui Skirmisher - Anemoboxer Vanguard",
+        "zh": "愚人众先遣队·风拳前锋军"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_anemoboxer_vanguard.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Застрельщик Фатуи, способный управлять Анемо и поднимать павших товарищей.\nОни покинули дом во славу своей родины.\nОни оставили свои семьи позади, но взамен получили надёжных товарищей, с которыми им предстоит пройти сквозь огонь и воду.\nВозможно, именно эти мысли помогают им справляться с грязной работой, из которой состоят почти все их миссии.",
+        "en": "A skirmisher armed with the ability to manipulate Anemo and heal their comrades.\nThey departed from their motherland and did so for its sake. They left their family, yet gained allies to stick through thick and thin with.\n—Perhaps such thoughts are what get them through the unscrupulous work that their missions entail.",
+        "zh": "能利用风的力量，复苏战友的先遣队士兵。\n远离故土又为了故乡。\n告别了亲人却获得了能相托以生死的战友。\n——或许他们以任务的名义干着丑恶的勾当时，也带着这样的想法。"
+      },
+      "description": {
+        "ru": "Застрельщик Фатуи, способный управлять Анемо и поднимать павших товарищей.\nОни покинули дом во славу своей родины.\nОни оставили свои семьи позади, но взамен получили надёжных товарищей, с которыми им предстоит пройти сквозь огонь и воду.\nВозможно, именно эти мысли помогают им справляться с грязной работой, из которой состоят почти все их миссии.",
+        "en": "A skirmisher armed with the ability to manipulate Anemo and heal their comrades.\nThey departed from their motherland and did so for its sake. They left their family, yet gained allies to stick through thick and thin with.\n—Perhaps such thoughts are what get them through the unscrupulous work that their missions entail.",
+        "zh": "能利用风的力量，复苏战友的先遣队士兵。\n远离故土又为了故乡。\n告别了亲人却获得了能相托以生死的战友。\n——或许他们以任务的名义干着丑恶的勾当时，也带着这样的想法。"
+      },
+      "drops": [
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_skirmisher_electrohammer_vanguard",
+      "title": {
+        "ru": "Застрельщик Фатуи: Электро молотобоец",
+        "en": "Fatui Skirmisher - Electrohammer Vanguard",
+        "zh": "愚人众先遣队·雷锤前锋军"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_electrohammer_vanguard.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Крепкий застрельщик Фатуи, вооружённый молотом, который питается элементом Электро.\nБыть солдатом Фатуи имеет свои плюсы: высокое жалованье, широкий выбор вооружения, вкусный паёк.\nНо вдали от дома и близких им остаётся только доверить свою жизнь товарищам, которых они видят впервые.",
+        "en": "A sturdily-built skirmisher armed with an Electro-powered war-hammer.\nAs a Fatui soldier, one has access to munificent resources: salaries, armaments, and supplies.\nBut at the same time, it also means much time away from home and family and putting one's life in the hands of comrades one has never met.",
+        "zh": "体格健壮的先遣队士兵，装备了附有雷元素的战锤。\n成为愚人众的军人意味着优渥的资源：军饷、武装与物资。\n但与此同时，也意味着远离故土与亲眷，将余命交给过去不曾谋面的战友。"
+      },
+      "description": {
+        "ru": "Крепкий застрельщик Фатуи, вооружённый молотом, который питается элементом Электро.\nБыть солдатом Фатуи имеет свои плюсы: высокое жалованье, широкий выбор вооружения, вкусный паёк.\nНо вдали от дома и близких им остаётся только доверить свою жизнь товарищам, которых они видят впервые.",
+        "en": "A sturdily-built skirmisher armed with an Electro-powered war-hammer.\nAs a Fatui soldier, one has access to munificent resources: salaries, armaments, and supplies.\nBut at the same time, it also means much time away from home and family and putting one's life in the hands of comrades one has never met.",
+        "zh": "体格健壮的先遣队士兵，装备了附有雷元素的战锤。\n成为愚人众的军人意味着优渥的资源：军饷、武装与物资。\n但与此同时，也意味着远离故土与亲眷，将余命交给过去不曾谋面的战友。"
+      },
+      "drops": [
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_skirmisher_cryogunner_legionnaire",
+      "title": {
+        "ru": "Застрельщик Фатуи: Крио бомбардир",
+        "en": "Fatui Skirmisher - Cryogunner Legionnaire",
+        "zh": "愚人众先遣队·冰铳重卫士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_cryogunner_legionnaire.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат, заключённый в боевой механизм Фатуи.\nЭтот механизм способен до определённой степени контролировать стихийные элементы и позволяет пилоту стрелять струёй холода.\nТехнический прогресс может наделить элементальной силой, недоступной обычным смертным, но он обязательно потребует свою цену...",
+        "en": "A soldier encased within a Fatui war machine.\nArmed with equipment that can control the elements to a certain extent, their guns are capable of firing jets of frost.\nThough this may confer elemental power beyond the ken of ordinary humans, that power may yet come at a price...",
+        "zh": "愚人众战争机器中的士兵。\n配备着能在一定程度上制御元素的装备，可以利用铳形的武器喷射急冻的寒霜。\n虽然拥有常人不能企及的元素力量，但这种力量或许也是有其代价的吧…"
+      },
+      "description": {
+        "ru": "Солдат, заключённый в боевой механизм Фатуи.\nЭтот механизм способен до определённой степени контролировать стихийные элементы и позволяет пилоту стрелять струёй холода.\nТехнический прогресс может наделить элементальной силой, недоступной обычным смертным, но он обязательно потребует свою цену...",
+        "en": "A soldier encased within a Fatui war machine.\nArmed with equipment that can control the elements to a certain extent, their guns are capable of firing jets of frost.\nThough this may confer elemental power beyond the ken of ordinary humans, that power may yet come at a price...",
+        "zh": "愚人众战争机器中的士兵。\n配备着能在一定程度上制御元素的装备，可以利用铳形的武器喷射急冻的寒霜。\n虽然拥有常人不能企及的元素力量，但这种力量或许也是有其代价的吧…"
+      },
+      "drops": [
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_skirmisher_geochanter_bracer",
+      "title": {
+        "ru": "Застрельщик Фатуи: Гео заклинатель",
+        "en": "Fatui Skirmisher - Geochanter Bracer",
+        "zh": "愚人众先遣队·岩使游击兵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_geochanter_bracer.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Застрельщик Фатуи, способный генерировать щит Гео для защиты своих товарищей.\nЗастрельщики Фатуи, в отличие от элитных агентов и магов, обладают гораздо меньшей боевой силой.\nДля выполнения поставленных задач им приходится чаще полагаться на командную работу.",
+        "en": "A skirmisher with the ability to generate a Geo Shield and defend their allies.\nUnlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser individual might.\nTo complete their tasks and reduce losses in men and materiel, their tactics are thus more reliant on teamwork.",
+        "zh": "能驱使岩元素构成护罩，保护战友的先遣队士兵。\n不同于少数精锐的债务处理人与萤术士，先遣队的单兵实力与装备较为薄弱。\n为了完成任务，为了减少人员与物资的损耗，先遣队的战术更讲究团队协作。"
+      },
+      "description": {
+        "ru": "Застрельщик Фатуи, способный генерировать щит Гео для защиты своих товарищей.\nЗастрельщики Фатуи, в отличие от элитных агентов и магов, обладают гораздо меньшей боевой силой.\nДля выполнения поставленных задач им приходится чаще полагаться на командную работу.",
+        "en": "A skirmisher with the ability to generate a Geo Shield and defend their allies.\nUnlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser individual might.\nTo complete their tasks and reduce losses in men and materiel, their tactics are thus more reliant on teamwork.",
+        "zh": "能驱使岩元素构成护罩，保护战友的先遣队士兵。\n不同于少数精锐的债务处理人与萤术士，先遣队的单兵实力与装备较为薄弱。\n为了完成任务，为了减少人员与物资的损耗，先遣队的战术更讲究团队协作。"
+      },
+      "drops": [
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_pyro_agent",
+      "title": {
+        "ru": "Фатуи: Пиро агент",
+        "en": "Fatui Pyro Agent",
+        "zh": "愚人众·火之债务处理人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_pyro_agent.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Тайный агент Фатуи.\nОбязанность агента Фатуи заключается в погашении долгов, но не только денежных.\nОн также следит, чтобы око было отдано за око вовремя. Фатуи известны не за свою снисходительность, поэтому тот, кто осмелится противиться им, накликает на себя весь их гнев.",
+        "en": "A Fatui secret agent.\nThe duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature.\nThey also ensure dues are paid when it comes to the principle of \"an eye for an eye.\"If there is one thing the Fatui are not known for, it is leniency,\nand whoever dares to oppose them will invoke the full force of their wrath.",
+        "zh": "隶属愚人众的特务人员。\n债务处理人所处理的「债务」，并不局限于钱货往来的清算。\n「以眼还眼，以牙还牙」\n也是一种债。\n无论是谁，只要损害了愚人众的利益，那就要十倍奉还。"
+      },
+      "description": {
+        "ru": "Тайный агент Фатуи.\nОбязанность агента Фатуи заключается в погашении долгов, но не только денежных.\nОн также следит, чтобы око было отдано за око вовремя. Фатуи известны не за свою снисходительность, поэтому тот, кто осмелится противиться им, накликает на себя весь их гнев.",
+        "en": "A Fatui secret agent.\nThe duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature.\nThey also ensure dues are paid when it comes to the principle of \"an eye for an eye.\"If there is one thing the Fatui are not known for, it is leniency,\nand whoever dares to oppose them will invoke the full force of their wrath.",
+        "zh": "隶属愚人众的特务人员。\n债务处理人所处理的「债务」，并不局限于钱货往来的清算。\n「以眼还眼，以牙还牙」\n也是一种债。\n无论是谁，只要损害了愚人众的利益，那就要十倍奉还。"
+      },
+      "drops": [
+        {
+          "id": "fatui_pyro_agent_sacrificial_knifes",
+          "title": {
+            "ru": "Церемониальный нож охотника / Церемониальный нож агента / Церемониальный нож инспектора",
+            "en": "Sacrificial Knifes",
+            "zh": "猎兵祭刀 / 特工祭刀 / 督察长祭刀"
+          },
+          "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "hunters_sacrificial_knife",
+              "title": {
+                "ru": "Церемониальный нож охотника",
+                "en": "Hunter's Sacrificial Knife",
+                "zh": "猎兵祭刀"
+              },
+              "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp"
+            },
+            {
+              "key": "agents_sacrificial_knife",
+              "title": {
+                "ru": "Церемониальный нож агента",
+                "en": "Agent's Sacrificial Knife",
+                "zh": "特工祭刀"
+              },
+              "icon": "assets/icons/items/common_enemies/agents_sacrificial_knife.webp"
+            },
+            {
+              "key": "inspectors_sacrificial_knife",
+              "title": {
+                "ru": "Церемониальный нож инспектора",
+                "en": "Inspector's Sacrificial Knife",
+                "zh": "督察长祭刀"
+              },
+              "icon": "assets/icons/items/common_enemies/inspectors_sacrificial_knife.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_electro_cicin_mage",
+      "title": {
+        "ru": "Фатуи: Маг Электро цицинов",
+        "en": "Fatui Electro Cicin Mage",
+        "zh": "愚人众·雷萤术士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_electro_cicin_mage.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Маг Фатуи, управляющий в бою Электро цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nЭлектро цицины сходят с ума от туманной травы, а сами призыватели цицинов теряют рассудок от игр со своей жертвой.",
+        "en": "A Fatui mage who can command Electro Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nSimilarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey.",
+        "zh": "操控着雷萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n会利用飞萤喜爱「雾虚草」\n的特性，操控它们为自己而战。\n正如雾虚草的气味会令雷萤迷醉，嗜虐的术士也贪恋着戏弄对手的快感。"
+      },
+      "description": {
+        "ru": "Маг Фатуи, управляющий в бою Электро цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nЭлектро цицины сходят с ума от туманной травы, а сами призыватели цицинов теряют рассудок от игр со своей жертвой.",
+        "en": "A Fatui mage who can command Electro Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nSimilarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey.",
+        "zh": "操控着雷萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n会利用飞萤喜爱「雾虚草」\n的特性，操控它们为自己而战。\n正如雾虚草的气味会令雷萤迷醉，嗜虐的术士也贪恋着戏弄对手的快感。"
+      },
+      "drops": [
+        {
+          "id": "fatui_electro_cicin_mage_materials",
+          "title": {
+            "ru": "Пыльца туманной травы / Мешочек с туманной травой / Пучок туманной травы",
+            "en": "Mist Grass Pollen",
+            "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
+          },
+          "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "mist_grass_pollen",
+              "title": {
+                "ru": "Пыльца туманной травы",
+                "en": "Mist Grass Pollen",
+                "zh": "雾虚花粉"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp"
+            },
+            {
+              "key": "mist_grass",
+              "title": {
+                "ru": "Мешочек с туманной травой",
+                "en": "Mist Grass",
+                "zh": "雾虚草囊"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass.webp"
+            },
+            {
+              "key": "mist_grass_wick",
+              "title": {
+                "ru": "Пучок туманной травы",
+                "en": "Mist Grass Wick",
+                "zh": "雾虚灯芯"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_wick.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "fatui_cryo_cicin_mage",
+      "title": {
+        "ru": "Фатуи: Маг Крио цицинов",
+        "en": "Fatui Cryo Cicin Mage",
+        "zh": "愚人众·冰萤术士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_cryo_cicin_mage.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Маг Фатуи, управляющий в бою Крио цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nРазум подсказывает, что лишь носители Глаза Бога способны контролировать силу элементов так, как делают эти маги.\nОднако кроме использования туманной травы для контроля Крио цицинов, они умело управляются с мощью мороза.\nКажется, они бесцельно скитаются по землям Тейвата, будто обременены каким-то долгом, который не могут вернуть...",
+        "en": "A Fatui mage who can command Cryo Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nReason dictates that those who lack Visions should not be able to control the elements as these mages do.\nHowever, in addition to using Mist Grass to control the Cryo Cicins, they also boldly wield the might of frost.\nSeeing them as they wander the land in their seemingly aimless way, one can't help but wonder about the duty that must compel them...",
+        "zh": "操控着冰萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n没有神之眼的人类，理应是无法像她们这样自如地操控元素的；\n但她们却在利用雾虚草操控冰萤之余，肆无忌惮地挥霍着寒冰的力量。\n看似漫无目的地四处游荡的她们，又领受着何种不为人知的使命呢…"
+      },
+      "description": {
+        "ru": "Маг Фатуи, управляющий в бою Крио цицинами. Их происхождение так же загадочно, как и их скрывающиеся под маской лица.\nРазум подсказывает, что лишь носители Глаза Бога способны контролировать силу элементов так, как делают эти маги.\nОднако кроме использования туманной травы для контроля Крио цицинов, они умело управляются с мощью мороза.\nКажется, они бесцельно скитаются по землям Тейвата, будто обременены каким-то долгом, который не могут вернуть...",
+        "en": "A Fatui mage who can command Cryo Cicins in battle. Their origins and what they look like under that mask are both mysteries.\nReason dictates that those who lack Visions should not be able to control the elements as these mages do.\nHowever, in addition to using Mist Grass to control the Cryo Cicins, they also boldly wield the might of frost.\nSeeing them as they wander the land in their seemingly aimless way, one can't help but wonder about the duty that must compel them...",
+        "zh": "操控着冰萤进行战斗，由来与面具下的容貌都是谜的愚人众少女术士。\n没有神之眼的人类，理应是无法像她们这样自如地操控元素的；\n但她们却在利用雾虚草操控冰萤之余，肆无忌惮地挥霍着寒冰的力量。\n看似漫无目的地四处游荡的她们，又领受着何种不为人知的使命呢…"
+      },
+      "drops": [
+        {
+          "id": "fatui_electro_cicin_mage_materials",
+          "title": {
+            "ru": "Пыльца туманной травы / Мешочек с туманной травой / Пучок туманной травы",
+            "en": "Mist Grass Pollen",
+            "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
+          },
+          "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "mist_grass_pollen",
+              "title": {
+                "ru": "Пыльца туманной травы",
+                "en": "Mist Grass Pollen",
+                "zh": "雾虚花粉"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_pollen.webp"
+            },
+            {
+              "key": "mist_grass",
+              "title": {
+                "ru": "Мешочек с туманной травой",
+                "en": "Mist Grass",
+                "zh": "雾虚草囊"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass.webp"
+            },
+            {
+              "key": "mist_grass_wick",
+              "title": {
+                "ru": "Пучок туманной травы",
+                "en": "Mist Grass Wick",
+                "zh": "雾虚灯芯"
+              },
+              "icon": "assets/icons/items/common_enemies/mist_grass_wick.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 9,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "recruits_insignia",
+      "title": {
+        "ru": "Шеврон рядового",
+        "en": "Recruit's Insignia",
+        "zh": "新兵的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+      "text": {
+        "ru": "Знак, определяющий рекрута. Интересно, у кого хватило мозгов стать частью военной машины Фатуи.",
+        "en": "An insignia to identify the recruits. Makes one wonder about what the ones joining the Fatui's war machine were thinking.",
+        "zh": "标识着新兵身份的徽记。不知曾经带着它的人，是怀着何种心情加入愚人众的战争机器的呢。"
+      }
+    },
+    {
+      "key": "sergeants_insignia",
+      "title": {
+        "ru": "Шеврон сержанта",
+        "en": "Sergeant's Insignia",
+        "zh": "士官的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp",
+      "text": {
+        "ru": "Знак, отличающий обычного рядового от сержанта. Наверное, за ним скрываются сложные эмоции.",
+        "en": "An insignia with a different shape to distinguish the sergeants from new recruits. Perhaps there are complicated emotions behind it.",
+        "zh": "标识着士官身份的徽记，有着区分一般士兵的奇异造型。其中或许蕴含着复杂的情绪吧。"
+      }
+    },
+    {
+      "key": "lieutenants_insignia",
+      "title": {
+        "ru": "Шеврон офицера",
+        "en": "Lieutenant's Insignia",
+        "zh": "尉官的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp",
+      "text": {
+        "ru": "Знак, определяющий офицера. У Фатуи огромная армия, поэтому в человеке, дослужившемся до офицера, должно быть что-то особенное.",
+        "en": "An insignia to identify officers.\nThe Fatui possess a colossal army, so there must be something extraordinary about the ones who achieved this rank within the group.",
+        "zh": "标识着尉官身份的徽记。愚人众拥有庞大的军队，能在其中担任尉官者，想必是有过人之处吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

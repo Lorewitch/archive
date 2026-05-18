@@ -31,7 +31,50 @@
     "en": "A monster created through the coagulation of Cryo in the natural environment.\nThese slimes can use the abundant Cryo energies within themselves to freeze the moisture in the atmosphere and form a protective shell around themselves.\nThey can also utilize a similar principle to freeze the water around them.\nOn some level, this can be considered to be the freest species of slime, as it can cross oceans and seas with ease.",
     "zh": "逸散在自然之中的冰元素凝聚形成的魔物。\n会利用体内凝聚的丰沛的冰元素，将大气中的水汽凝结成具有保护性的外壳；\n也会利用同样的原理，将周围的水面冻结。\n某种意义上是最自由的史莱姆，可以轻松自在地渡过汪洋大海。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "slime_materials",
+      "title": {
+        "ru": "Слизь слайма / Выделения слайма / Концентрат слайма",
+        "en": "Slimes",
+        "zh": "史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+      },
+      "icon": "assets/icons/items/common_enemies/slime_condensate.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "slime_condensate",
+          "title": {
+            "ru": "Слизь слайма",
+            "en": "Slime Condensate",
+            "zh": "史莱姆凝液"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_condensate.webp"
+        },
+        {
+          "key": "slime_secretions",
+          "title": {
+            "ru": "Выделения слайма",
+            "en": "Slime Secretions",
+            "zh": "史莱姆清"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_secretions.webp"
+        },
+        {
+          "key": "slime_concentrate",
+          "title": {
+            "ru": "Концентрат слайма",
+            "en": "Slime Concentrate",
+            "zh": "史莱姆原浆"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_concentrate.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

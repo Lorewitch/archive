@@ -31,7 +31,50 @@
     "en": "A monster born from highly-concentrated Pyro elements that can float in the air.\nThere was once an Akademiya student who conducted research into their behavior.\nHe believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental energy.\nHe has not graduated yet.",
     "zh": "高浓度的火元素孕育而生的魔物，能够飘浮在空中。\n曾经有教令院的学生对它们的生态进行过研究。\n他认为晶蝶能飞、会在元素浓度高的区域诞生，和飘浮灵完全一样。\n所以飘浮灵是一种晶蝶。\n他现在也没毕业。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "specter_spectrals",
+      "title": {
+        "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+        "en": "Spectrals",
+        "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.1",
+      "materials": [
+        {
+          "key": "spectral_husk",
+          "title": {
+            "ru": "Призрачная оболочка",
+            "en": "Spectral Husk",
+            "zh": "浮游干核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+        },
+        {
+          "key": "spectral_heart",
+          "title": {
+            "ru": "Призрачное сердце",
+            "en": "Spectral Heart",
+            "zh": "浮游幽核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+        },
+        {
+          "key": "spectral_nucleus",
+          "title": {
+            "ru": "Призрачное ядро",
+            "en": "Spectral Nucleus",
+            "zh": "浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

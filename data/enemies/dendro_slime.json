@@ -31,7 +31,50 @@
     "en": "A slime that has undergone ecological changes due to abundant Dendro in its environment.\nIt has also taken on the weaknesses of the Dendro element, and will burn intensely the moment it meets a bright flame.",
     "zh": "因为充沛的草元素，而发生了生态上的质变的史莱姆。\n从生态而言，也获得了草元素的弱点。\n一旦遇上明火，就会剧烈地燃烧。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "slime_materials",
+      "title": {
+        "ru": "Слизь слайма / Выделения слайма / Концентрат слайма",
+        "en": "Slimes",
+        "zh": "史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+      },
+      "icon": "assets/icons/items/common_enemies/slime_condensate.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "slime_condensate",
+          "title": {
+            "ru": "Слизь слайма",
+            "en": "Slime Condensate",
+            "zh": "史莱姆凝液"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_condensate.webp"
+        },
+        {
+          "key": "slime_secretions",
+          "title": {
+            "ru": "Выделения слайма",
+            "en": "Slime Secretions",
+            "zh": "史莱姆清"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_secretions.webp"
+        },
+        {
+          "key": "slime_concentrate",
+          "title": {
+            "ru": "Концентрат слайма",
+            "en": "Slime Concentrate",
+            "zh": "史莱姆原浆"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_concentrate.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "A vishap that dwells deep beneath the oceans. Due to certain social adaptations, it has manifested a form aligned with the Cryo element.\nThe coming of humans sparked a conflict and a resultant evolution within the Bathysmal Vishaps, just as ants might divide up labor and biological characteristics,\nthus appearing in different forms.\nThese vishaps are stronger than their ordinary kin.",
     "zh": "生活在海渊之下的龙蜥。因为社会分工，而出现了冰元素的形态。\n人类的到来引发了对抗，深海龙蜥开始了进化。正如同蚂蚁会因为性别和分工不同，而产生不同形态。\n这些龙蜥比起普通深海龙蜥更加强大。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "geovishap_bone_shards",
+      "title": {
+        "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+        "en": "Bone Shards",
+        "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+      },
+      "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "fragile_bone_shard",
+          "title": {
+            "ru": "Хрупкие останки",
+            "en": "Fragile Bone Shard",
+            "zh": "脆弱的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+        },
+        {
+          "key": "sturdy_bone_shard",
+          "title": {
+            "ru": "Крепкие останки",
+            "en": "Sturdy Bone Shard",
+            "zh": "结实的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+        },
+        {
+          "key": "fossilized_bone_shard",
+          "title": {
+            "ru": "Окаменевшие останки",
+            "en": "Fossilized Bone Shard",
+            "zh": "石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -1,0 +1,810 @@
+{
+  "id": "blubberbeast_pearls",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+  "title": {
+    "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+    "en": "Pearls",
+    "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.0",
+  "tags": [
+    "Transoceanic Pearl",
+    "Transoceanic Chunk",
+    "Xenochromatic Crystal",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "blubberbeast",
+    "hunters_ray",
+    "armored_crab",
+    "sternshield_crab",
+    "hat_jellyfish",
+    "bubbly_seahorse",
+    "bubbler_seahorse",
+    "ball_octopus",
+    "angelic_sea_hare",
+    "cherubic_sea_hare"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "blubberbeast",
+      "title": {
+        "ru": "Пухлень",
+        "en": "Blubberbeast",
+        "zh": "膨膨兽"
+      },
+      "icon": "assets/icons/enemies/common_enemies/blubberbeast.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Млекопитающее, обитающие в водах Фонтейна, издаёт мелодичные звуки для общения с товарищами.\nИз-за более высокой плотности вода гораздо лучше передаёт звук, чем воздух.\nВдохновившись пухленем, некто в Исследовательском институте изобрёл технологию для преобразования изображения в данные и их мгновенной передачи,\nно она не получила широкого распространения за пределами института из-за различных технических ограничений.\nНо на самом деле, технология передачи данных на основе жидкостей и звука существовала и в более отдалённые времена.\nВсё повторяется.",
+        "en": "A type of mammal that resides in the watery regions of Fontaine.\nIt communicates with its companions through melodious sounds.\nDue to its density, water is a much more efficient medium of sound than air.\nDrawing inspiration from the Blubberbeast, someone from the Research Institute invented a type of technology that converted images into data to facilitate instant transmission.\nBut due to the technical limitations of the experiment, it never became widely adopted outside the Institute.\nIn reality, however, data transmission technology based on fluid and sound has existed since ancient times.\nAs the saying goes, there's nothing new under the sun.",
+        "zh": "生活在枫丹水域的哺乳动物，能够发出悠扬的声音与同伴进行通讯。\n依据密度的原则，水作为声音传播的介质，效率远远高于空气。\n基于源自膨膨兽的灵感，科学院中有人发明了将图像转为数据并即时传输的技术，但由于实验的技术限制诸多所以并未在科学院外广泛使用。\n但事实上在更遥远的古代就有过基于液体与声音的数据传输技术了。\n世上没有新鲜事。"
+      },
+      "description": {
+        "ru": "Млекопитающее, обитающие в водах Фонтейна, издаёт мелодичные звуки для общения с товарищами.\nИз-за более высокой плотности вода гораздо лучше передаёт звук, чем воздух.\nВдохновившись пухленем, некто в Исследовательском институте изобрёл технологию для преобразования изображения в данные и их мгновенной передачи,\nно она не получила широкого распространения за пределами института из-за различных технических ограничений.\nНо на самом деле, технология передачи данных на основе жидкостей и звука существовала и в более отдалённые времена.\nВсё повторяется.",
+        "en": "A type of mammal that resides in the watery regions of Fontaine.\nIt communicates with its companions through melodious sounds.\nDue to its density, water is a much more efficient medium of sound than air.\nDrawing inspiration from the Blubberbeast, someone from the Research Institute invented a type of technology that converted images into data to facilitate instant transmission.\nBut due to the technical limitations of the experiment, it never became widely adopted outside the Institute.\nIn reality, however, data transmission technology based on fluid and sound has existed since ancient times.\nAs the saying goes, there's nothing new under the sun.",
+        "zh": "生活在枫丹水域的哺乳动物，能够发出悠扬的声音与同伴进行通讯。\n依据密度的原则，水作为声音传播的介质，效率远远高于空气。\n基于源自膨膨兽的灵感，科学院中有人发明了将图像转为数据并即时传输的技术，但由于实验的技术限制诸多所以并未在科学院外广泛使用。\n但事实上在更遥远的古代就有过基于液体与声音的数据传输技术了。\n世上没有新鲜事。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "hunters_ray",
+      "title": {
+        "ru": "Остроскат",
+        "en": "Hunter's Ray",
+        "zh": "猎刀鳐"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hunters_ray.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Скат, выпускающий водяные клинки.\nСреди инородов Фонтмера встречаются причудливые ксенохромные существа.\nКак гласят легенды, это не живые существа, а духи океана, которые не родились во плоти и не глотали наживки.\nОни даруют своё благословение тем, кого приняло первородное море или тем, кто способен его контролировать.\nКонечно, те, кто имеет глубокие познания в натурфилософии, не согласятся с подобными необоснованными утверждениями.",
+        "en": "A stingray that can release blades of water.\nAmong the Fontemer Aberrants, there are certain strange \"Xenochromatic\"lifeforms.\nIt is said that these are not actually living creatures, but rather spirits from the ocean that have neither taken physical form nor swallowed bait.\nThey are said to bestow blessings upon those accepted by the Fontemer as well as those that are able to control it.\nOf course, those that have a deeper understanding of natural philosophy would discount such groundless speculation.",
+        "zh": "能够释放水刃的鳐鱼。\n在原海异种中，存在着诡谲的「异色」\n生物。\n据说这种异色体并不是生物，而是海洋中未曾经受肉身诞生，不曾吞下饵食的灵魂，会向原海所认同者或是驾驭原海者施以祝福。\n当然对自然哲学更有研究与心得的人是不会认同这种毫无依据的说法的。"
+      },
+      "description": {
+        "ru": "Скат, выпускающий водяные клинки.\nСреди инородов Фонтмера встречаются причудливые ксенохромные существа.\nКак гласят легенды, это не живые существа, а духи океана, которые не родились во плоти и не глотали наживки.\nОни даруют своё благословение тем, кого приняло первородное море или тем, кто способен его контролировать.\nКонечно, те, кто имеет глубокие познания в натурфилософии, не согласятся с подобными необоснованными утверждениями.",
+        "en": "A stingray that can release blades of water.\nAmong the Fontemer Aberrants, there are certain strange \"Xenochromatic\"lifeforms.\nIt is said that these are not actually living creatures, but rather spirits from the ocean that have neither taken physical form nor swallowed bait.\nThey are said to bestow blessings upon those accepted by the Fontemer as well as those that are able to control it.\nOf course, those that have a deeper understanding of natural philosophy would discount such groundless speculation.",
+        "zh": "能够释放水刃的鳐鱼。\n在原海异种中，存在着诡谲的「异色」\n生物。\n据说这种异色体并不是生物，而是海洋中未曾经受肉身诞生，不曾吞下饵食的灵魂，会向原海所认同者或是驾驭原海者施以祝福。\n当然对自然哲学更有研究与心得的人是不会认同这种毫无依据的说法的。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "armored_crab",
+      "title": {
+        "ru": "Бронекраб",
+        "en": "Armored Crab",
+        "zh": "重甲蟹"
+      },
+      "icon": "assets/icons/enemies/common_enemies/armored_crab.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Краб, поселяющийся в раковинах моллюсков и улиток.\nПо-видимому, ему не свойственна агрессивность, присущая многим диким животным.\nВозможно, это связано с тем, что животные, нападающие не только с целью добыть пищу, обладают чувством собственной территории,\nоднако территория бронекраба - это всего лишь маленький дом на его спине.",
+        "en": "A crab that makes its home in borrowed shells.\nIt seems not to have any of the aggressiveness possessed by many wild animals.\nPerhaps it is because animals who attack for purposes other than obtaining food possess some degree of territoriality,\nyet the territory of the Armored Crab is naught but the small home upon its back.",
+        "zh": "寄居在螺与壳之中的螃蟹。\n几乎不具备野生动物常有的攻击性，因为食欲之外的攻击性常常源自领域意识，而重甲蟹的领土就是其背在身后的小小家园。"
+      },
+      "description": {
+        "ru": "Краб, поселяющийся в раковинах моллюсков и улиток.\nПо-видимому, ему не свойственна агрессивность, присущая многим диким животным.\nВозможно, это связано с тем, что животные, нападающие не только с целью добыть пищу, обладают чувством собственной территории,\nоднако территория бронекраба - это всего лишь маленький дом на его спине.",
+        "en": "A crab that makes its home in borrowed shells.\nIt seems not to have any of the aggressiveness possessed by many wild animals.\nPerhaps it is because animals who attack for purposes other than obtaining food possess some degree of territoriality,\nyet the territory of the Armored Crab is naught but the small home upon its back.",
+        "zh": "寄居在螺与壳之中的螃蟹。\n几乎不具备野生动物常有的攻击性，因为食欲之外的攻击性常常源自领域意识，而重甲蟹的领土就是其背在身后的小小家园。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "sternshield_crab",
+      "title": {
+        "ru": "Бронекраб-щитовик",
+        "en": "Sternshield Crab",
+        "zh": "坚盾重甲蟹"
+      },
+      "icon": "assets/icons/enemies/common_enemies/sternshield_crab.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Краб, поселяющийся в раковинах моллюсков и улиток.\nНа этапе развития бронекраб постоянно ищет подходящий ему по размеру панцирь.\nВ одной популярной детской книжке описывалось, что приходится пережить бронекрабу, чтобы найти себе дом.\nИстория вызывала у детей восторг, но оказалось, что, как и многие другие сказки, эта история произвела гораздо более глубокое впечатление на взрослых.",
+        "en": "A crab that makes its home in borrowed shells.\nArmored Crabs are constantly searching for shells that fit their bodies as they grow.\nA storybook that told the tale of the trials of an Armored Crab searching for a suitable shell was extremely popular in Fontaine for a time.\nThough the story is filled with childlike wonder, the reaction after proved that, like many fairytales, it touched adults even more deeply.",
+        "zh": "寄居在螺与壳之中的螃蟹。\n重甲蟹会在成长的阶段中不断寻找适合自己体格的外壳。\n曾经有畅销的童话书，描述了重甲蟹寻找属于自己的住所的坎坷历程。\n那是充满了童趣的故事，但事后的反响证明了它与不少别的童话一样，为成年人带来的感触更深。"
+      },
+      "description": {
+        "ru": "Краб, поселяющийся в раковинах моллюсков и улиток.\nНа этапе развития бронекраб постоянно ищет подходящий ему по размеру панцирь.\nВ одной популярной детской книжке описывалось, что приходится пережить бронекрабу, чтобы найти себе дом.\nИстория вызывала у детей восторг, но оказалось, что, как и многие другие сказки, эта история произвела гораздо более глубокое впечатление на взрослых.",
+        "en": "A crab that makes its home in borrowed shells.\nArmored Crabs are constantly searching for shells that fit their bodies as they grow.\nA storybook that told the tale of the trials of an Armored Crab searching for a suitable shell was extremely popular in Fontaine for a time.\nThough the story is filled with childlike wonder, the reaction after proved that, like many fairytales, it touched adults even more deeply.",
+        "zh": "寄居在螺与壳之中的螃蟹。\n重甲蟹会在成长的阶段中不断寻找适合自己体格的外壳。\n曾经有畅销的童话书，描述了重甲蟹寻找属于自己的住所的坎坷历程。\n那是充满了童趣的故事，但事后的反响证明了它与不少别的童话一样，为成年人带来的感触更深。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "hat_jellyfish",
+      "title": {
+        "ru": "Шляповидная медуза",
+        "en": "Hat Jellyfish",
+        "zh": "帽子水母"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hat_jellyfish.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nНесмотря на внешнюю схожесть со шляпой, оно использует нижнюю часть «шляпы», чтобы питаться, поэтому надевать её на голову настойчиво не рекомендуется.\nОднажды кто-то проверил это на себе: «Оглядываясь назад, могу сказать, что это было крайне неразумно».",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nAlthough it looks like a hat, it actually eats from its underside, so attempting to wear it is strongly disadvised.\nIn the words of someone who once did this:\"That wasn't very clever, was it?\"",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n虽然看起来像帽子，但进食的口器在「帽子」\n的底部，所以将其戴在头上实在是很不明智的行为。\n过去曾经有人证实过这一点：「事后回想起来，那确实是很不明智的行为。\n」"
+      },
+      "description": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nНесмотря на внешнюю схожесть со шляпой, оно использует нижнюю часть «шляпы», чтобы питаться, поэтому надевать её на голову настойчиво не рекомендуется.\nОднажды кто-то проверил это на себе: «Оглядываясь назад, могу сказать, что это было крайне неразумно».",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nAlthough it looks like a hat, it actually eats from its underside, so attempting to wear it is strongly disadvised.\nIn the words of someone who once did this:\"That wasn't very clever, was it?\"",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n虽然看起来像帽子，但进食的口器在「帽子」\n的底部，所以将其戴在头上实在是很不明智的行为。\n过去曾经有人证实过这一点：「事后回想起来，那确实是很不明智的行为。\n」"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "bubbly_seahorse",
+      "title": {
+        "ru": "Конёк-пузырёк",
+        "en": "Bubbly Seahorse",
+        "zh": "泡泡海马"
+      },
+      "icon": "assets/icons/enemies/common_enemies/bubbly_seahorse.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nСреди немногочисленных любителей инородов Фонтмера у конька-пузырька большое количество поклонников.\nКонечно, как и у любителей меков, у любителей морских инородов тоже есть разделение на группы, и они очень агрессивны по отношению к другим группам.",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nAmong the (admittedly somewhat sparse) ranks of Fontemer Aberrant enthusiasts, Bubbly Seahorses have many fans.\nAs with clockwork meka enthusiasts, a small minority of Fontemer Aberrant enthusiasts can be very standoffish when it comes to people whose opinions differ from their own.",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n在（为数不多的）原海异种动物爱好者当中，泡泡海马有着相当多的拥趸。\n当然，原海异种爱好者和发条机关爱好者一样，当中的细分群体对其他群体有很强的攻击性。"
+      },
+      "description": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nСреди немногочисленных любителей инородов Фонтмера у конька-пузырька большое количество поклонников.\nКонечно, как и у любителей меков, у любителей морских инородов тоже есть разделение на группы, и они очень агрессивны по отношению к другим группам.",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nAmong the (admittedly somewhat sparse) ranks of Fontemer Aberrant enthusiasts, Bubbly Seahorses have many fans.\nAs with clockwork meka enthusiasts, a small minority of Fontemer Aberrant enthusiasts can be very standoffish when it comes to people whose opinions differ from their own.",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n在（为数不多的）原海异种动物爱好者当中，泡泡海马有着相当多的拥趸。\n当然，原海异种爱好者和发条机关爱好者一样，当中的细分群体对其他群体有很强的攻击性。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "bubbler_seahorse",
+      "title": {
+        "ru": "Сильный конёк-пузырёк",
+        "en": "Bubbler Seahorse",
+        "zh": "泡泡雄海马"
+      },
+      "icon": "assets/icons/enemies/common_enemies/bubbler_seahorse.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Взрослый самец конька-пузырька. Очень агрессивен. Некоторые видели вождя коньков-пузырьков. Говорят, это гордое существо с длинными конечностями.",
+        "en": "The adult form of a male Bubbly Seahorse.\nIt is extremely aggressive.\nSome people even claim to have encountered the king among the seahorses.\nIt is said that they are proud beings with four long limbs.",
+        "zh": "雄性的泡泡海马成年后的形态，具有非常强的攻击性。\n曾经有人遇见过海马当中的王者，据说那是拥有修长四肢的高傲生灵。"
+      },
+      "description": {
+        "ru": "Взрослый самец конька-пузырька. Очень агрессивен. Некоторые видели вождя коньков-пузырьков. Говорят, это гордое существо с длинными конечностями.",
+        "en": "The adult form of a male Bubbly Seahorse.\nIt is extremely aggressive.\nSome people even claim to have encountered the king among the seahorses.\nIt is said that they are proud beings with four long limbs.",
+        "zh": "雄性的泡泡海马成年后的形态，具有非常强的攻击性。\n曾经有人遇见过海马当中的王者，据说那是拥有修长四肢的高傲生灵。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ball_octopus",
+      "title": {
+        "ru": "Шаровидный осьминог",
+        "en": "Ball Octopus",
+        "zh": "球球章鱼"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ball_octopus.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nЕстественно, стрельба водными снарядами - нередкий навык среди инородов Фонтмера, но эти потоки под высоким давлением могут причинить значительный ущерб невнимательным ныряльщикам,\nбольшинство которых туристы.\nПодводная экипировка такая тяжёлая и толстая по двум причинам: чтобы выдерживать подводное давление и защищать от атак инородов.",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nThe ability to fire water bombs is of course not uncommon among Fontemer Aberrants.\nBut for your average careless diver, most of whom are tourists, a high-pressure water current of this kind can pose a significant threat.\nThe thickness of diving equipment is therefore necessary for two reasons – firstly, to resist the pressure of the water itself, but secondly,\nto protect against the attacks of Fontemer Aberrants.",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n当然了，发射水弹在原海异种当中并不是稀罕的能力，但对以游客为首的大意潜水者而言，这种高压水流能够造成不小的伤害。\n潜水护具的厚重是为了两个原因：抵抗水下的压力，以及抵御原海异种的攻击。"
+      },
+      "description": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nЕстественно, стрельба водными снарядами - нередкий навык среди инородов Фонтмера, но эти потоки под высоким давлением могут причинить значительный ущерб невнимательным ныряльщикам,\nбольшинство которых туристы.\nПодводная экипировка такая тяжёлая и толстая по двум причинам: чтобы выдерживать подводное давление и защищать от атак инородов.",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nThe ability to fire water bombs is of course not uncommon among Fontemer Aberrants.\nBut for your average careless diver, most of whom are tourists, a high-pressure water current of this kind can pose a significant threat.\nThe thickness of diving equipment is therefore necessary for two reasons – firstly, to resist the pressure of the water itself, but secondly,\nto protect against the attacks of Fontemer Aberrants.",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n当然了，发射水弹在原海异种当中并不是稀罕的能力，但对以游客为首的大意潜水者而言，这种高压水流能够造成不小的伤害。\n潜水护具的厚重是为了两个原因：抵抗水下的压力，以及抵御原海异种的攻击。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "angelic_sea_hare",
+      "title": {
+        "ru": "Милый морской заяц",
+        "en": "Angelic Sea Hare",
+        "zh": "天使海兔"
+      },
+      "icon": "assets/icons/enemies/common_enemies/angelic_sea_hare.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nС эволюционной точки зрения инород Фонтмера - это подводное животное, которое видоизменилось из-за особенностей среды Фонтейна.\nПоэтому можно также утверждать, что до определённого момента в прошлом первобытные подводные существа Фонтейна и других регионов Тейвата отличались не так уж сильно.",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nFrom an evolutionary perspective, it is assumed that Fontemer Aberrants have developed from aquatic creatures due to environmental factors specific to Fontaine.\nAs such, it can be inferred that at some point in the past, Fontaine's original aquatic lifeforms differed little from those native to the other regions of Teyvat.",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n从演化的角度而言，原海异种是因为枫丹特殊的环境而产生了变化的水生动物。\n也因此可以认为在过去的某个时点前，枫丹原始的水生动物与提瓦特其他地区的水生动物并没有多少区别。"
+      },
+      "description": {
+        "ru": "Подводное животное, стреляющее водными снарядами во время охоты.\nС эволюционной точки зрения инород Фонтмера - это подводное животное, которое видоизменилось из-за особенностей среды Фонтейна.\nПоэтому можно также утверждать, что до определённого момента в прошлом первобытные подводные существа Фонтейна и других регионов Тейвата отличались не так уж сильно.",
+        "en": "An aquatic creature that hunts by firing watery projectiles.\nFrom an evolutionary perspective, it is assumed that Fontemer Aberrants have developed from aquatic creatures due to environmental factors specific to Fontaine.\nAs such, it can be inferred that at some point in the past, Fontaine's original aquatic lifeforms differed little from those native to the other regions of Teyvat.",
+        "zh": "通过发射水弹进行狩猎的水生动物。\n从演化的角度而言，原海异种是因为枫丹特殊的环境而产生了变化的水生动物。\n也因此可以认为在过去的某个时点前，枫丹原始的水生动物与提瓦特其他地区的水生动物并没有多少区别。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cherubic_sea_hare",
+      "title": {
+        "ru": "Премилый морской заяц",
+        "en": "Cherubic Sea Hare",
+        "zh": "大天使海兔"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cherubic_sea_hare.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Взрослый милый морской заяц с жировыми складочками на спине в виде «двух крыльев», в которых накапливается элементальная энергия.\nЭто подводное животное проводит свою жизнь, питаясь и накапливая большое количество энергии, которая на самом деле ему не нужна.\nВозможно, благодаря этому оно сможет выжить, даже когда море пересохнет.\nИли попросту станет источником пропитания для других организмов.",
+        "en": "The adult form of an Angelic Sea Hare.\nThe \"wings\"on its back are actually fat used for storing elemental energy.\nThis type of sea creature spends its whole life eating and conserving energy far beyond its actual requirements.\nPerhaps if the oceans dry out some day, they will be able to continue to survive – or simply become an important source of nutrition for other creatures...",
+        "zh": "天使海兔成年后的形态，背上的「双翼」\n实际上是储存元素能量的脂肪块。\n这种水生动物究其一生都在进食、储存实际活动中并不需要的大量能量。\n或许在大海干涸后的末日，它能够继续存活很长的时间，或是成为其他生物的重要养分。"
+      },
+      "description": {
+        "ru": "Взрослый милый морской заяц с жировыми складочками на спине в виде «двух крыльев», в которых накапливается элементальная энергия.\nЭто подводное животное проводит свою жизнь, питаясь и накапливая большое количество энергии, которая на самом деле ему не нужна.\nВозможно, благодаря этому оно сможет выжить, даже когда море пересохнет.\nИли попросту станет источником пропитания для других организмов.",
+        "en": "The adult form of an Angelic Sea Hare.\nThe \"wings\"on its back are actually fat used for storing elemental energy.\nThis type of sea creature spends its whole life eating and conserving energy far beyond its actual requirements.\nPerhaps if the oceans dry out some day, they will be able to continue to survive – or simply become an important source of nutrition for other creatures...",
+        "zh": "天使海兔成年后的形态，背上的「双翼」\n实际上是储存元素能量的脂肪块。\n这种水生动物究其一生都在进食、储存实际活动中并不需要的大量能量。\n或许在大海干涸后的末日，它能够继续存活很长的时间，或是成为其他生物的重要养分。"
+      },
+      "drops": [
+        {
+          "id": "blubberbeast_pearls",
+          "title": {
+            "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+            "en": "Pearls",
+            "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "transoceanic_pearl",
+              "title": {
+                "ru": "Жемчужина иноморья",
+                "en": "Transoceanic Pearl",
+                "zh": "异海凝珠"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+            },
+            {
+              "key": "transoceanic_chunk",
+              "title": {
+                "ru": "Обломок из иноморья",
+                "en": "Transoceanic Chunk",
+                "zh": "异海之块"
+              },
+              "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+            },
+            {
+              "key": "xenochromatic_crystal",
+              "title": {
+                "ru": "Ксенохромный кристалл",
+                "en": "Xenochromatic Crystal",
+                "zh": "异色结晶石"
+              },
+              "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 10,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "transoceanic_pearl",
+      "title": {
+        "ru": "Жемчужина иноморья",
+        "en": "Transoceanic Pearl",
+        "zh": "异海凝珠"
+      },
+      "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+      "text": {
+        "ru": "Небольшой кристалл, полученный из тела морского инорода после его уничтожения. Инороды Фонтмера рождаются в море Фонтейна.\nЭто особая форма жизни, формирующаяся за счёт странной энергии в воде.",
+        "en": "A small crystal obtained from a defeated Fontemer Aberrant. Fontemer Aberrants arise from Fontaine's sea.\nThey are believed to be a unique life form born from the mysterious energy in the water.",
+        "zh": "击败原海异种后，从其体内取得的细小晶体。原海异种依托枫丹的「海」而生，推测是因为水中奇异的能量而形成独特形态的生命体。"
+      }
+    },
+    {
+      "key": "transoceanic_chunk",
+      "title": {
+        "ru": "Обломок из иноморья",
+        "en": "Transoceanic Chunk",
+        "zh": "异海之块"
+      },
+      "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp",
+      "text": {
+        "ru": "Кристаллическая порода, полученная из тела инорода Фонтмера после его уничтожения и источающая едва уловимую таинственную энергию.\nЛегенды рассказывают о великих существах, которые живут в далёких морях, где не проходят морские пути и куда не ступает нога человека, но ни одно\nобычное море не может похвастаться жизненными силами моря Фонтейна.",
+        "en": "A crystal obtained from a defeated Fontemer Aberrant. It gives off a somewhat mysterious energy.\nAlthough many legends speak of great life forms residing in remote seas beyond human reach, ordinary oceans can hardly compare to the vibrant seas of\nFontaine.",
+        "zh": "击败原海异种后，从其体内取得的结晶体。散发着些微神秘的能量。尽管传说在航道与人迹所不及的远海中存在着伟大的生命，但寻常的海洋不过乏善可陈，生命力远远不及枫丹的「海」。"
+      }
+    },
+    {
+      "key": "xenochromatic_crystal",
+      "title": {
+        "ru": "Ксенохромный кристалл",
+        "en": "Xenochromatic Crystal",
+        "zh": "异色结晶石"
+      },
+      "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp",
+      "text": {
+        "ru": "Большой кристалл, полученный из тела инорода Фонтмера после его уничтожения и источающий таинственную энергию.\nПусть потоки Фонтейна и источник для множества вод, но они теряют свои уникальные свойства, когда вода попадает в другие страны.",
+        "en": "A large crystal obtained from a defeated Fontemer Aberrant. It contains a mysterious energy.\nAll rivers and seas originate in Fontaine, but the water loses all its unique properties once it flows outside Fontaine's borders.",
+        "zh": "击败原海异种后，从其体内取得的大颗结晶。其中蕴含着神秘的能量。尽管是万水之源，但枫丹之水流向异国之后却失去了其独特的性质。"
+      }
+    }
+  ],
+  "material_count": 3
+}

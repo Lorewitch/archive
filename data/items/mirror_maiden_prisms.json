@@ -1,0 +1,162 @@
+{
+  "id": "mirror_maiden_prisms",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/dismal_prism.webp",
+  "title": {
+    "ru": "Тёмная призма / Кристальная призма / Поляризационная призма",
+    "en": "Prisms",
+    "zh": "黯淡棱镜 / 水晶棱镜 / 偏光棱镜"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [
+    "Dismal Prism",
+    "Crystal Prism",
+    "Polarizing Prism",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "mirror_maiden"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "mirror_maiden",
+      "title": {
+        "ru": "Зеркальная дева Фатуи",
+        "en": "Mirror Maiden",
+        "zh": "愚人众·藏镜仕女"
+      },
+      "icon": "assets/icons/enemies/common_enemies/mirror_maiden.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Дева Фатуи с величественной осанкой, будто она поклоняется богам, которая может управлять Гидро зеркалом.\nИзящно манипулирует Гидро зеркалом, заманивая тех, кто очарован ею, чтобы они добровольно поддались её иллюзии.\nНичто не может ускользнуть от её слуха.\nНеизвестно, что видели эти прикрытые глаза, и что за наваждение отразится в них...",
+        "en": "A Fatui mage who can command a Hydro Mirror in battle. Her posture is highly dignified, as if she is one who worships a god.\nThe Hydro Mirror she manipulates lures those enchanted by her to willingly fall for her illusion.\nNothing seems to escape her ears.\nNo one knows what those covered eyes have seen, nor what kind of obsession might be reflected in them...",
+        "zh": "操纵着水镜进行战斗，有着彷如侍奉神明般的端庄姿态的愚人众仕女。\n优雅自如的操控着水镜的力量，让为之所炫的人，心甘情愿的坠入她的幻境。\n似乎一切都逃不过她的耳朵。\n被蒙住的双眼，不知见识过什么景象，也不知其中会倒映出怎样的执妄…"
+      },
+      "description": {
+        "ru": "Дева Фатуи с величественной осанкой, будто она поклоняется богам, которая может управлять Гидро зеркалом.\nИзящно манипулирует Гидро зеркалом, заманивая тех, кто очарован ею, чтобы они добровольно поддались её иллюзии.\nНичто не может ускользнуть от её слуха.\nНеизвестно, что видели эти прикрытые глаза, и что за наваждение отразится в них...",
+        "en": "A Fatui mage who can command a Hydro Mirror in battle. Her posture is highly dignified, as if she is one who worships a god.\nThe Hydro Mirror she manipulates lures those enchanted by her to willingly fall for her illusion.\nNothing seems to escape her ears.\nNo one knows what those covered eyes have seen, nor what kind of obsession might be reflected in them...",
+        "zh": "操纵着水镜进行战斗，有着彷如侍奉神明般的端庄姿态的愚人众仕女。\n优雅自如的操控着水镜的力量，让为之所炫的人，心甘情愿的坠入她的幻境。\n似乎一切都逃不过她的耳朵。\n被蒙住的双眼，不知见识过什么景象，也不知其中会倒映出怎样的执妄…"
+      },
+      "drops": [
+        {
+          "id": "mirror_maiden_prisms",
+          "title": {
+            "ru": "Тёмная призма / Кристальная призма / Поляризационная призма",
+            "en": "Prisms",
+            "zh": "黯淡棱镜 / 水晶棱镜 / 偏光棱镜"
+          },
+          "icon": "assets/icons/items/common_enemies/dismal_prism.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.0",
+          "materials": [
+            {
+              "key": "dismal_prism",
+              "title": {
+                "ru": "Тёмная призма",
+                "en": "Dismal Prism",
+                "zh": "黯淡棱镜"
+              },
+              "icon": "assets/icons/items/common_enemies/dismal_prism.webp"
+            },
+            {
+              "key": "crystal_prism",
+              "title": {
+                "ru": "Кристальная призма",
+                "en": "Crystal Prism",
+                "zh": "水晶棱镜"
+              },
+              "icon": "assets/icons/items/common_enemies/crystal_prism.webp"
+            },
+            {
+              "key": "polarizing_prism",
+              "title": {
+                "ru": "Поляризационная призма",
+                "en": "Polarizing Prism",
+                "zh": "偏光棱镜"
+              },
+              "icon": "assets/icons/items/common_enemies/polarizing_prism.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "dismal_prism",
+      "title": {
+        "ru": "Тёмная призма",
+        "en": "Dismal Prism",
+        "zh": "黯淡棱镜"
+      },
+      "icon": "assets/icons/items/common_enemies/dismal_prism.webp",
+      "text": {
+        "ru": "Когда-то этой призмой преломляли свет, но со временем она помутнела.",
+        "en": "This was once a prism that could polarize light, but has grown dull through the passing of years.",
+        "zh": "原本是能偏转光线的棱镜，在流水般的年岁中渐渐变得黯淡。"
+      }
+    },
+    {
+      "key": "crystal_prism",
+      "title": {
+        "ru": "Кристальная призма",
+        "en": "Crystal Prism",
+        "zh": "水晶棱镜"
+      },
+      "icon": "assets/icons/items/common_enemies/crystal_prism.webp",
+      "text": {
+        "ru": "Отклоняющая лучи света призма.\nЭтой призмой можно создавать иллюзии и в некотором смысле управлять сердцами людей.",
+        "en": "A prism that can bend light.\nIllusory images can be made using such prisms, giving such devices — in a manner of speaking — the power to sway human hearts.",
+        "zh": "能够偏转光线的棱镜。\n利用这种棱镜，可以制造虚幻的影像。从某种意义而言，也因此有着操纵人心的力量。"
+      }
+    },
+    {
+      "key": "polarizing_prism",
+      "title": {
+        "ru": "Поляризационная призма",
+        "en": "Polarizing Prism",
+        "zh": "偏光棱镜"
+      },
+      "icon": "assets/icons/items/common_enemies/polarizing_prism.webp",
+      "text": {
+        "ru": "Отклоняющая лучи света призма.\nВ темноте такие призмы распространяют луч света по большей площади.\nБыть может, именно из-за этой особенности они способны принести толику покоя тем, чьи сердца объяты тьмой.",
+        "en": "A prism that can bend light.\nIn the darkness, these prisms can spread thin light into a wider area.\nPerhaps this is due to this quirk that these prisms can grant a measure of peace to those whose hearts are oft shrouded in darkness.",
+        "zh": "能够偏转光线的棱镜。\n在黑暗中，棱镜可以将细微的光明散布到更大的范围里。或许也是因为这样的特性，这种棱镜对于内心常常被黑暗笼罩的人，有着令他们稍稍安心的力量。"
+      }
+    }
+  ],
+  "material_count": 3
+}

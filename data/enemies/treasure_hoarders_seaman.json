@@ -31,7 +31,50 @@
     "en": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\"Stealing?\nWhat do you mean, stealing?\nIt's re-discovery, I tell you — the return of treasure to those who appreciate it!\nMakes everyone happy, to boot!\nHow great is that, eh?\"—A certain Treasure Hoarder Seaman, in response to a question posed by a doubtful recruit",
     "zh": "足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。\n「我们的活动怎么能叫偷？\n怎么能叫盗？\n那叫重新发现，让宝藏回到赏识宝藏的鉴赏家怀抱中！\n大家都开心，多好的事儿！\n」\n——某名盗宝团的「海上男儿」\n对怀有疑问的新人说的话"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "treasure_hoarders_scout_insignias",
+      "title": {
+        "ru": "Печать Похитителей сокровищ / Печать серебряного ворона / Печать золотого ворона",
+        "en": "Insignias",
+        "zh": "寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+      },
+      "icon": "assets/icons/items/common_enemies/treasure_hoarder_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "treasure_hoarder_insignia",
+          "title": {
+            "ru": "Печать Похитителей сокровищ",
+            "en": "Treasure Hoarder Insignia",
+            "zh": "寻宝鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/treasure_hoarder_insignia.webp"
+        },
+        {
+          "key": "silver_raven_insignia",
+          "title": {
+            "ru": "Печать серебряного ворона",
+            "en": "Silver Raven Insignia",
+            "zh": "藏银鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/silver_raven_insignia.webp"
+        },
+        {
+          "key": "golden_raven_insignia",
+          "title": {
+            "ru": "Печать золотого ворона",
+            "en": "Golden Raven Insignia",
+            "zh": "攫金鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/golden_raven_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

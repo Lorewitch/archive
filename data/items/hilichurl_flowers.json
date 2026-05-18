@@ -1,0 +1,234 @@
+{
+  "id": "hilichurl_flowers",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp",
+  "title": {
+    "ru": "Нераспустившийся цветок / Заветный цветок / Распустившийся цветок странника",
+    "en": "Flowers",
+    "zh": "来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "3.6",
+  "tags": [
+    "A Flower Yet to Bloom",
+    "Treasured Flower",
+    "Wanderer's Blooming Flower",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "hydro_hilichurl_rogue",
+    "anemo_hilichurl_rogue"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "hydro_hilichurl_rogue",
+      "title": {
+        "ru": "Гидро хиличурл-изгой",
+        "en": "Hydro Hilichurl Rogue",
+        "zh": "丘丘水行游侠"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hydro_hilichurl_rogue.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Хиличурлы-изгои не привязаны ни к какому конкретному племени. Они бродят по дикой местности, словно отправившись в самовольную ссылку.\n\nИногда они по разным причинам помогают нуждающимся в помощи отдельным хиличурлам или племенам, а затем уходят, выполнив свою миссию. По сравнению с обычными хиличурлами хиличурлы-изгои, кажется, обладают более развитым интеллектом.",
+        "en": "Hilichurl wanderers unaffiliated with any specific tribe. They can often be found roving the wilds as if in voluntary exile.\nThey may also lend their aid to other hilichurls or hilichurl tribes for various reasons and go their separate ways afterward. They seem to possess a higher level of intelligence than commonplace hilichurls.",
+        "zh": "不属于任何部族的丘丘人流浪者，如同自我流放一般在荒野中四处漫游。\n会在因缘的指引下帮助需要帮助的丘丘人、丘丘聚落，并在完成使命、因缘结束后启程离开。相比寻常的丘丘人似乎有更高的智能水平。"
+      },
+      "description": {
+        "ru": "Хиличурлы-изгои не привязаны ни к какому конкретному племени. Они бродят по дикой местности, словно отправившись в самовольную ссылку.\n\nИногда они по разным причинам помогают нуждающимся в помощи отдельным хиличурлам или племенам, а затем уходят, выполнив свою миссию. По сравнению с обычными хиличурлами хиличурлы-изгои, кажется, обладают более развитым интеллектом.",
+        "en": "Hilichurl wanderers unaffiliated with any specific tribe. They can often be found roving the wilds as if in voluntary exile.\nThey may also lend their aid to other hilichurls or hilichurl tribes for various reasons and go their separate ways afterward. They seem to possess a higher level of intelligence than commonplace hilichurls.",
+        "zh": "不属于任何部族的丘丘人流浪者，如同自我流放一般在荒野中四处漫游。\n会在因缘的指引下帮助需要帮助的丘丘人、丘丘聚落，并在完成使命、因缘结束后启程离开。相比寻常的丘丘人似乎有更高的智能水平。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_flowers",
+          "title": {
+            "ru": "Нераспустившийся цветок / Заветный цветок / Распустившийся цветок странника",
+            "en": "Flowers",
+            "zh": "来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花"
+          },
+          "icon": "assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.6",
+          "materials": [
+            {
+              "key": "a_flower_yet_to_bloom",
+              "title": {
+                "ru": "Нераспустившийся цветок",
+                "en": "A Flower Yet to Bloom",
+                "zh": "来自何处的待放之花"
+              },
+              "icon": "assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp"
+            },
+            {
+              "key": "treasured_flower",
+              "title": {
+                "ru": "Заветный цветок",
+                "en": "Treasured Flower",
+                "zh": "何人所珍藏之花"
+              },
+              "icon": "assets/icons/items/common_enemies/treasured_flower.webp"
+            },
+            {
+              "key": "wanderers_blooming_flower",
+              "title": {
+                "ru": "Распустившийся цветок странника",
+                "en": "Wanderer's Blooming Flower",
+                "zh": "漫游者的盛放之花"
+              },
+              "icon": "assets/icons/items/common_enemies/wanderers_blooming_flower.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "anemo_hilichurl_rogue",
+      "title": {
+        "ru": "Анемо хиличурл-изгой",
+        "en": "Anemo Hilichurl Rogue",
+        "zh": "丘丘风行游侠"
+      },
+      "icon": "assets/icons/enemies/common_enemies/anemo_hilichurl_rogue.webp",
+      "enemy_group": "hilichurls",
+      "region": "Тейват",
+      "game_version": "",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Хиличурлы-изгои не привязаны ни к какому конкретному племени. Кажется, будто они пытаются отыскать истоки судьбы и найти потерянную славу.\n\nЕсли бы у этих монстров, которые общаются на простом языке и не имеют письменного наследия, были баллады и легенды, то они сами были бы в них главными героями.",
+        "en": "Hilichurl wanderers who do not belong to any hilichurl tribe. It almost seems as if they are searching for the fated genesis of their kind, seeking to uncover some bygone splendor that once belonged to their people.\nIf these monsters capable of only crude language and bereft of missing history could record their own epics and legends, the hilichurl wanderers would be the heroes in said tales.",
+        "zh": "不属于任何部族，似乎是在追寻一族命运之肇始，寻找如今已经失落的光辉的丘丘人流浪者。\n假使这些只有简单语言，也不具备文书传承的魔物当中，有史诗、有传奇，它们应当就是其中的主角吧。"
+      },
+      "description": {
+        "ru": "Хиличурлы-изгои не привязаны ни к какому конкретному племени. Кажется, будто они пытаются отыскать истоки судьбы и найти потерянную славу.\n\nЕсли бы у этих монстров, которые общаются на простом языке и не имеют письменного наследия, были баллады и легенды, то они сами были бы в них главными героями.",
+        "en": "Hilichurl wanderers who do not belong to any hilichurl tribe. It almost seems as if they are searching for the fated genesis of their kind, seeking to uncover some bygone splendor that once belonged to their people.\nIf these monsters capable of only crude language and bereft of missing history could record their own epics and legends, the hilichurl wanderers would be the heroes in said tales.",
+        "zh": "不属于任何部族，似乎是在追寻一族命运之肇始，寻找如今已经失落的光辉的丘丘人流浪者。\n假使这些只有简单语言，也不具备文书传承的魔物当中，有史诗、有传奇，它们应当就是其中的主角吧。"
+      },
+      "drops": [
+        {
+          "id": "hilichurl_flowers",
+          "title": {
+            "ru": "Нераспустившийся цветок / Заветный цветок / Распустившийся цветок странника",
+            "en": "Flowers",
+            "zh": "来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花"
+          },
+          "icon": "assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.6",
+          "materials": [
+            {
+              "key": "a_flower_yet_to_bloom",
+              "title": {
+                "ru": "Нераспустившийся цветок",
+                "en": "A Flower Yet to Bloom",
+                "zh": "来自何处的待放之花"
+              },
+              "icon": "assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp"
+            },
+            {
+              "key": "treasured_flower",
+              "title": {
+                "ru": "Заветный цветок",
+                "en": "Treasured Flower",
+                "zh": "何人所珍藏之花"
+              },
+              "icon": "assets/icons/items/common_enemies/treasured_flower.webp"
+            },
+            {
+              "key": "wanderers_blooming_flower",
+              "title": {
+                "ru": "Распустившийся цветок странника",
+                "en": "Wanderer's Blooming Flower",
+                "zh": "漫游者的盛放之花"
+              },
+              "icon": "assets/icons/items/common_enemies/wanderers_blooming_flower.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 2,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "a_flower_yet_to_bloom",
+      "title": {
+        "ru": "Нераспустившийся цветок",
+        "en": "A Flower Yet to Bloom",
+        "zh": "来自何处的待放之花"
+      },
+      "icon": "assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp",
+      "text": {
+        "ru": "Дикий цветок, которым очень дорожил хиличурл-изгой. Его сорвали, когда тот ещё не распустился.\nПри обходе пустоши хиличурл-изгой берёт с собой только этот нераспустившийся цветок.",
+        "en": "A wild flower that a Hilichurl Rogue treasured. It was plucked before it could bloom.\nThe hilichurl takes nothing with it in its sojourn across the wilderness save this flower.",
+        "zh": "丘丘游侠曾珍视的野花。在开放前就被摘下了。它在荒野的巡礼中并不携带任何多余的物品，除了这朵未开之花。"
+      }
+    },
+    {
+      "key": "treasured_flower",
+      "title": {
+        "ru": "Заветный цветок",
+        "en": "Treasured Flower",
+        "zh": "何人所珍藏之花"
+      },
+      "icon": "assets/icons/items/common_enemies/treasured_flower.webp",
+      "text": {
+        "ru": "Дикий цветок, которым очень дорожил хиличур-изгой. Ничем особенным не выделяется.\nВо многих культурах цветы дарят в качестве подарка или благодарности.",
+        "en": "A wild flower that a Hilichurl Rogue treasured, bereft of any special qualities.\nFlowers can be used as gifts or offerings to express one's feelings in many cultures.",
+        "zh": "丘丘游侠曾珍视的野花，并不具有什么特别之处。花朵在许多文明当中都是表达心意的赠礼或谢礼。"
+      }
+    },
+    {
+      "key": "wanderers_blooming_flower",
+      "title": {
+        "ru": "Распустившийся цветок странника",
+        "en": "Wanderer's Blooming Flower",
+        "zh": "漫游者的盛放之花"
+      },
+      "icon": "assets/icons/items/common_enemies/wanderers_blooming_flower.webp",
+      "text": {
+        "ru": "Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется.\nВечный чужеземец желает не награды, а лишь того, чтобы его труды дали плоды...",
+        "en": "A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities.\nThe eternal outlander asks not for reward, but only to see their deeds come to fruition...",
+        "zh": "丘丘游侠曾珍视的盛放野花，并不具有什么特别之处。永恒的异乡人从不索要酬劳，所行所为最终都将开花结果…"
+      }
+    }
+  ],
+  "material_count": 3
+}

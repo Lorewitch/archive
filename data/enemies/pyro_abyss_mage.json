@@ -31,7 +31,50 @@
     "en": "Abyss creatures who command the power of Pyro in battle.\nFor unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily.\nThey say that Abyss Mages utter a long-forgotten language from which they draw magical power.",
     "zh": "拥有魔力，利用火元素战斗的深渊魔物。\n出于某种不为人知的缘由，深渊法师精通丘丘人的笨拙语言，能驾驭它们的心智。\n据说深渊法师略通如今几乎无人可解的失落古语，并利用这种语言的力量行使魔法。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_mage_ley_lines",
+      "title": {
+        "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+        "en": "Ley Lines",
+        "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+      },
+      "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "dead_ley_line_branch",
+          "title": {
+            "ru": "Ветви артерий земли",
+            "en": "Dead Ley Line Branch",
+            "zh": "地脉的旧枝"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+        },
+        {
+          "key": "dead_ley_line_leaves",
+          "title": {
+            "ru": "Листья артерий земли",
+            "en": "Dead Ley Line Leaves",
+            "zh": "地脉的枯叶"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+        },
+        {
+          "key": "ley_line_sprout",
+          "title": {
+            "ru": "Ростки артерий земли",
+            "en": "Ley Line Sprout",
+            "zh": "地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

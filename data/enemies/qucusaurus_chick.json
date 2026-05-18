@@ -31,7 +31,50 @@
     "en": "A young Qucusaur with a light, agile body.\nIts neck and wings have yet to fully develop, and it still has a long way to go before it can wield gaseous phlogiston.\nThere are stories of older Qucusaurs pushing younglings off cliffs to encourage them to fly.\nWhile the truth of such tales is uncertain, as long as it keeps practicing day and night,\nthere can be no doubt that the soft-feathered fledgling will eventually grow strong and resilient.",
     "zh": "年幼的绒翼龙，拥有轻巧的身姿。\n脖颈与羽翼尚未完全生长开，对气态燃素的运用也十分生疏。\n也有年长的绒翼龙为促进幼龙的飞行而将它们推下山崖的逸话。\n虽然不知传言的真假，不过只要经历夜以继日的锻炼，稚嫩的翎羽总会有逐渐变得坚硬的一天。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "tepetlisaur_fangs",
+      "title": {
+        "ru": "Молодой клык / Клык взрослого / Клык тирана",
+        "en": "Fangs",
+        "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+      },
+      "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "juvenile_fang",
+          "title": {
+            "ru": "Молодой клык",
+            "en": "Juvenile Fang",
+            "zh": "稚嫩的尖齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+        },
+        {
+          "key": "seasoned_fang",
+          "title": {
+            "ru": "Клык взрослого",
+            "en": "Seasoned Fang",
+            "zh": "老练的坚齿"
+          },
+          "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+        },
+        {
+          "key": "tyrants_fang",
+          "title": {
+            "ru": "Клык тирана",
+            "en": "Tyrant's Fang",
+            "zh": "横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "Abyss creatures that call upon Cryo in battle.\nThough they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves.\nOnce their protective barrier has been broken, they are at your mercy.",
     "zh": "驾驭着极寒的冰元素进行战斗的深渊魔物。\n尽管染指了强大的力量，甚至能将大气中的水蒸气凝结成冰锥，本身却佝偻而孱弱。\n一旦保护自身的护罩被打破，就只能任人鱼肉了。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_mage_ley_lines",
+      "title": {
+        "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+        "en": "Ley Lines",
+        "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+      },
+      "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "dead_ley_line_branch",
+          "title": {
+            "ru": "Ветви артерий земли",
+            "en": "Dead Ley Line Branch",
+            "zh": "地脉的旧枝"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+        },
+        {
+          "key": "dead_ley_line_leaves",
+          "title": {
+            "ru": "Листья артерий земли",
+            "en": "Dead Ley Line Leaves",
+            "zh": "地脉的枯叶"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+        },
+        {
+          "key": "ley_line_sprout",
+          "title": {
+            "ru": "Ростки артерий земли",
+            "en": "Ley Line Sprout",
+            "zh": "地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

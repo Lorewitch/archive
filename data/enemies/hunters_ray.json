@@ -31,7 +31,50 @@
     "en": "A stingray that can release blades of water.\nAmong the Fontemer Aberrants, there are certain strange \"Xenochromatic\"lifeforms.\nIt is said that these are not actually living creatures, but rather spirits from the ocean that have neither taken physical form nor swallowed bait.\nThey are said to bestow blessings upon those accepted by the Fontemer as well as those that are able to control it.\nOf course, those that have a deeper understanding of natural philosophy would discount such groundless speculation.",
     "zh": "能够释放水刃的鳐鱼。\n在原海异种中，存在着诡谲的「异色」\n生物。\n据说这种异色体并不是生物，而是海洋中未曾经受肉身诞生，不曾吞下饵食的灵魂，会向原海所认同者或是驾驭原海者施以祝福。\n当然对自然哲学更有研究与心得的人是不会认同这种毫无依据的说法的。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "blubberbeast_pearls",
+      "title": {
+        "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+        "en": "Pearls",
+        "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+      },
+      "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "transoceanic_pearl",
+          "title": {
+            "ru": "Жемчужина иноморья",
+            "en": "Transoceanic Pearl",
+            "zh": "异海凝珠"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+        },
+        {
+          "key": "transoceanic_chunk",
+          "title": {
+            "ru": "Обломок из иноморья",
+            "en": "Transoceanic Chunk",
+            "zh": "异海之块"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+        },
+        {
+          "key": "xenochromatic_crystal",
+          "title": {
+            "ru": "Ксенохромный кристалл",
+            "en": "Xenochromatic Crystal",
+            "zh": "异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -1,0 +1,522 @@
+{
+  "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+  "title": {
+    "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+    "en": "Of A Wills",
+    "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [
+    "Shard of a Shattered Will",
+    "Locus of a Clear Will",
+    "Sigil of a Striding Will",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "rock_cavernous_wayob_manifestation",
+    "flow_inverted_wayob_manifestation",
+    "foliar_swift_wayob_manifestation",
+    "biting_cold_wayob_manifestation",
+    "burning_aflame_wayob_manifestation",
+    "thundering_wayob_manifestation"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "rock_cavernous_wayob_manifestation",
+      "title": {
+        "ru": "Воплощение Вайоб пещер и скал",
+        "en": "Rock-Cavernous Wayob Manifestation",
+        "zh": "窟岩 · 大灵显化身"
+      },
+      "icon": "assets/icons/enemies/common_enemies/rock_cavernous_wayob_manifestation.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Дети Эха верят и поклоняются Вайоб, которая проявляет себя на земле в виде тотемов и ночных душ.\nЖители Натлана считают, что Вайоб обитает в Царстве Ночи и может принимать любую форму, чтобы направлять заблудших членов племени.\nВоплощения Вайоб особенные, и фигура, явленная через тотемы, часто имеет важное предназначение.\nДети Эха верят, что их Вайоб обладает силой формировать горы и долины, а также может контролировать эхо, возникающее при столкновении камней.",
+        "en": "The Children of Echoes believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe people of Natlan believe that the Wayob dwell in the kingdom of the Lord of the Night, and have no fixed form,\ninstead attaching themselves to anything in order to provide guidance to lost tribespeople.\nWayob manifestations are particularly special, and the figure revealed through the totems often has an important purpose.\nThe Children of Echoes believe that their Wayob has the power to shape mountains and valleys, and can control the echoes created when rock meets stone.",
+        "zh": "「回声之子」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n在纳塔部族民的认知之中，「大灵」\n生活在夜神的国度，并且不具备固有的形体，因为「大灵」\n可以依附于任何事物上，给迷茫的部族民以指引。\n而大灵显化身在其中尤为特殊，借助图腾的形态展露的身姿，往往有其重要的使命。\n「回声之子」\n的人相信他们的「大灵」\n拥有塑造山峰与低谷的力量，能够执掌山石摩擦的回响。"
+      },
+      "description": {
+        "ru": "Дети Эха верят и поклоняются Вайоб, которая проявляет себя на земле в виде тотемов и ночных душ.\nЖители Натлана считают, что Вайоб обитает в Царстве Ночи и может принимать любую форму, чтобы направлять заблудших членов племени.\nВоплощения Вайоб особенные, и фигура, явленная через тотемы, часто имеет важное предназначение.\nДети Эха верят, что их Вайоб обладает силой формировать горы и долины, а также может контролировать эхо, возникающее при столкновении камней.",
+        "en": "The Children of Echoes believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe people of Natlan believe that the Wayob dwell in the kingdom of the Lord of the Night, and have no fixed form,\ninstead attaching themselves to anything in order to provide guidance to lost tribespeople.\nWayob manifestations are particularly special, and the figure revealed through the totems often has an important purpose.\nThe Children of Echoes believe that their Wayob has the power to shape mountains and valleys, and can control the echoes created when rock meets stone.",
+        "zh": "「回声之子」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n在纳塔部族民的认知之中，「大灵」\n生活在夜神的国度，并且不具备固有的形体，因为「大灵」\n可以依附于任何事物上，给迷茫的部族民以指引。\n而大灵显化身在其中尤为特殊，借助图腾的形态展露的身姿，往往有其重要的使命。\n「回声之子」\n的人相信他们的「大灵」\n拥有塑造山峰与低谷的力量，能够执掌山石摩擦的回响。"
+      },
+      "drops": [
+        {
+          "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+          "title": {
+            "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+            "en": "Of A Wills",
+            "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "shard_of_a_shattered_will",
+              "title": {
+                "ru": "Осколок разбитой воли",
+                "en": "Shard of a Shattered Will",
+                "zh": "意志破碎的残片"
+              },
+              "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+            },
+            {
+              "key": "locus_of_a_clear_will",
+              "title": {
+                "ru": "Образ ясной воли",
+                "en": "Locus of a Clear Will",
+                "zh": "意志明晰的寄偶"
+              },
+              "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+            },
+            {
+              "key": "sigil_of_a_striding_will",
+              "title": {
+                "ru": "Талисман странствующей воли",
+                "en": "Sigil of a Striding Will",
+                "zh": "意志巡游的符像"
+              },
+              "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "flow_inverted_wayob_manifestation",
+      "title": {
+        "ru": "Воплощение Вайоб обращённого течения",
+        "en": "Flow-Inverted Wayob Manifestation",
+        "zh": "溯流 · 大灵显化身"
+      },
+      "icon": "assets/icons/enemies/common_enemies/flow_inverted_wayob_manifestation.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Народ Родников верит и поклоняется Вайоб, которая проявляет себя на земле в виде тотемов и ночных душ.\nТак называемая Вайоб - это вера, сформировавшаяся среди племён и через обсидиановые тотемы после того, как жители Натлана начали общаться с Царством Ночи.\nЭто коллективное сознание и дом душ предков.\nНарод Родников верит, что их Вайоб способна контролировать приливы и волны, а также управлять изменениями текущих и стоячих вод.",
+        "en": "The People of the Springs believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe so-called \"Wayob\"is the belief that gradually formed primarily from the tribes and obsidian totems after the people of Natlan began communicating with the kingdom of the Lord\nof the Night.\nA \"Wayob\"is a consciousness of collective thought, and the home of the ancestors' souls.\nThe People of the Springs believe their Wayob has the power to control the tides and waves, and can control the changes of flowing and still, dead waters alike.",
+        "zh": "「流泉之众」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n所谓的「大灵」，即是纳塔人与夜神的国度沟通之后，逐渐形成的以部族与曜石图腾为主体的信仰，是集体冥思的意识，也是先民灵魂的归处。\n「流泉之众」\n的人相信他们的「大灵」\n拥有控制潮汐与海浪的力量，能够执掌流水与腐水的变化。"
+      },
+      "description": {
+        "ru": "Народ Родников верит и поклоняется Вайоб, которая проявляет себя на земле в виде тотемов и ночных душ.\nТак называемая Вайоб - это вера, сформировавшаяся среди племён и через обсидиановые тотемы после того, как жители Натлана начали общаться с Царством Ночи.\nЭто коллективное сознание и дом душ предков.\nНарод Родников верит, что их Вайоб способна контролировать приливы и волны, а также управлять изменениями текущих и стоячих вод.",
+        "en": "The People of the Springs believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe so-called \"Wayob\"is the belief that gradually formed primarily from the tribes and obsidian totems after the people of Natlan began communicating with the kingdom of the Lord\nof the Night.\nA \"Wayob\"is a consciousness of collective thought, and the home of the ancestors' souls.\nThe People of the Springs believe their Wayob has the power to control the tides and waves, and can control the changes of flowing and still, dead waters alike.",
+        "zh": "「流泉之众」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n所谓的「大灵」，即是纳塔人与夜神的国度沟通之后，逐渐形成的以部族与曜石图腾为主体的信仰，是集体冥思的意识，也是先民灵魂的归处。\n「流泉之众」\n的人相信他们的「大灵」\n拥有控制潮汐与海浪的力量，能够执掌流水与腐水的变化。"
+      },
+      "drops": [
+        {
+          "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+          "title": {
+            "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+            "en": "Of A Wills",
+            "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "shard_of_a_shattered_will",
+              "title": {
+                "ru": "Осколок разбитой воли",
+                "en": "Shard of a Shattered Will",
+                "zh": "意志破碎的残片"
+              },
+              "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+            },
+            {
+              "key": "locus_of_a_clear_will",
+              "title": {
+                "ru": "Образ ясной воли",
+                "en": "Locus of a Clear Will",
+                "zh": "意志明晰的寄偶"
+              },
+              "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+            },
+            {
+              "key": "sigil_of_a_striding_will",
+              "title": {
+                "ru": "Талисман странствующей воли",
+                "en": "Sigil of a Striding Will",
+                "zh": "意志巡游的符像"
+              },
+              "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "foliar_swift_wayob_manifestation",
+      "title": {
+        "ru": "Воплощение Вайоб стремительности и листвы",
+        "en": "Foliar-Swift Wayob Manifestation",
+        "zh": "疾叶 · 大灵显化身"
+      },
+      "icon": "assets/icons/enemies/common_enemies/foliar_swift_wayob_manifestation.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Потомки Крон верят и поклоняется Вайоб, которая проявляет себя на земле в виде тотемов и ночных душ.\nВ рассказах сказителей воплощения Вайоб часто выступают как посланцы испытаний или проводники в Царство Ночи.\nОдин коронованный заврианами воин рассказывал, что сражался с Вайоб в трансе во время тренировки и таким образом достиг глубокого осознания.\nПотомки Крон верят, что их Вайоб контролирует рост фруктов и листьев, управляет корнями растений и рисует узоры на листьях.",
+        "en": "The Scions of the Canopy believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nIn the stories of the storytellers, Wayob manifestations often appear as the messengers of trials, or guides to the kingdom of the Lord of the Night.\nA Saurian-Crowned Warrior once said that he fought with a Wayob in a trance while practicing his skills, and in doing so, gained deeper understanding.\nThe Scions of the Canopy believe their Wayob has the power to control the growth of fruits and leaves,\nand can also control the roots of crops and draw the patterns of the veins of leaves.",
+        "zh": "「悬木人」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n在叙事人的故事中，大灵显化身经常作为试炼的使者，或者夜神之国的引路人的形象出场。\n也有龙冠武士曾言，自己在武术修行的恍惚中与大灵显化身交手，从而获得了更深层次的领悟。\n「悬木人」\n的人相信他们的「大灵」\n拥有控制果实与林叶生长的力量，能够执掌作物的根茎，画下叶脉的走势。"
+      },
+      "description": {
+        "ru": "Потомки Крон верят и поклоняется Вайоб, которая проявляет себя на земле в виде тотемов и ночных душ.\nВ рассказах сказителей воплощения Вайоб часто выступают как посланцы испытаний или проводники в Царство Ночи.\nОдин коронованный заврианами воин рассказывал, что сражался с Вайоб в трансе во время тренировки и таким образом достиг глубокого осознания.\nПотомки Крон верят, что их Вайоб контролирует рост фруктов и листьев, управляет корнями растений и рисует узоры на листьях.",
+        "en": "The Scions of the Canopy believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nIn the stories of the storytellers, Wayob manifestations often appear as the messengers of trials, or guides to the kingdom of the Lord of the Night.\nA Saurian-Crowned Warrior once said that he fought with a Wayob in a trance while practicing his skills, and in doing so, gained deeper understanding.\nThe Scions of the Canopy believe their Wayob has the power to control the growth of fruits and leaves,\nand can also control the roots of crops and draw the patterns of the veins of leaves.",
+        "zh": "「悬木人」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n在叙事人的故事中，大灵显化身经常作为试炼的使者，或者夜神之国的引路人的形象出场。\n也有龙冠武士曾言，自己在武术修行的恍惚中与大灵显化身交手，从而获得了更深层次的领悟。\n「悬木人」\n的人相信他们的「大灵」\n拥有控制果实与林叶生长的力量，能够执掌作物的根茎，画下叶脉的走势。"
+      },
+      "drops": [
+        {
+          "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+          "title": {
+            "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+            "en": "Of A Wills",
+            "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "shard_of_a_shattered_will",
+              "title": {
+                "ru": "Осколок разбитой воли",
+                "en": "Shard of a Shattered Will",
+                "zh": "意志破碎的残片"
+              },
+              "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+            },
+            {
+              "key": "locus_of_a_clear_will",
+              "title": {
+                "ru": "Образ ясной воли",
+                "en": "Locus of a Clear Will",
+                "zh": "意志明晰的寄偶"
+              },
+              "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+            },
+            {
+              "key": "sigil_of_a_striding_will",
+              "title": {
+                "ru": "Талисман странствующей воли",
+                "en": "Sigil of a Striding Will",
+                "zh": "意志巡游的符像"
+              },
+              "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "biting_cold_wayob_manifestation",
+      "title": {
+        "ru": "Воплощение Вайоб пронизывающего хлада",
+        "en": "Biting-Cold Wayob Manifestation",
+        "zh": "凛冽 · 大灵显化身"
+      },
+      "icon": "assets/icons/enemies/common_enemies/biting_cold_wayob_manifestation.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Повелители Ночного Ветра верят в Вайоб, чьё воплощение на земле проявляется с помощью тотемов и ночных душ.\nПовелители Ночного Ветра пробовали использовать множество средств для связи с Царством Ночи.\nВ конце концов они обнаружили, что средством, позволяющим установить наиболее устойчивую связь с Вайоб, является обсидиан.\nВозможно, это объясняет, почему с течением времени воплощения Вайоб приобретают форму, напоминающую каменную статую.\nПовелители Ночного Ветра считают, что их Вайоб способна контролировать процесс замораживания и кристаллизации, а также повелевать осязаемостью и превращением.",
+        "en": "The Masters of the Night-Wind believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe Masters of the Night-Wind have tried using many mediums to communicate with the Night Kingdom.\nEventually, they discovered that the medium that allowed them to establish the most stable connection with the Wayob was obsidian.\nThis may explain why, over the ages, Wayob Manifestations have taken on a form that resembles a stone statue.\nThe Masters of the Night-Wind believe their Wayob has the power to control the process of freezing and crystallization, and can also command both fixedness and mutability.",
+        "zh": "「烟谜主」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n「烟谜主」\n部族的成员曾尝试过许多与夜魂的国度沟通的媒介，最后众人发现，能与「大灵」\n建立最为稳定联系的中介物质是黑曜石。\n这或许是大灵显化身在长久的岁月中形成类似石像般造型的原因。\n「烟谜主」\n的人相信他们的「大灵」\n拥有控制冰晶与冻结的力量，能够执掌固型和流变的话语。"
+      },
+      "description": {
+        "ru": "Повелители Ночного Ветра верят в Вайоб, чьё воплощение на земле проявляется с помощью тотемов и ночных душ.\nПовелители Ночного Ветра пробовали использовать множество средств для связи с Царством Ночи.\nВ конце концов они обнаружили, что средством, позволяющим установить наиболее устойчивую связь с Вайоб, является обсидиан.\nВозможно, это объясняет, почему с течением времени воплощения Вайоб приобретают форму, напоминающую каменную статую.\nПовелители Ночного Ветра считают, что их Вайоб способна контролировать процесс замораживания и кристаллизации, а также повелевать осязаемостью и превращением.",
+        "en": "The Masters of the Night-Wind believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe Masters of the Night-Wind have tried using many mediums to communicate with the Night Kingdom.\nEventually, they discovered that the medium that allowed them to establish the most stable connection with the Wayob was obsidian.\nThis may explain why, over the ages, Wayob Manifestations have taken on a form that resembles a stone statue.\nThe Masters of the Night-Wind believe their Wayob has the power to control the process of freezing and crystallization, and can also command both fixedness and mutability.",
+        "zh": "「烟谜主」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n「烟谜主」\n部族的成员曾尝试过许多与夜魂的国度沟通的媒介，最后众人发现，能与「大灵」\n建立最为稳定联系的中介物质是黑曜石。\n这或许是大灵显化身在长久的岁月中形成类似石像般造型的原因。\n「烟谜主」\n的人相信他们的「大灵」\n拥有控制冰晶与冻结的力量，能够执掌固型和流变的话语。"
+      },
+      "drops": [
+        {
+          "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+          "title": {
+            "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+            "en": "Of A Wills",
+            "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "shard_of_a_shattered_will",
+              "title": {
+                "ru": "Осколок разбитой воли",
+                "en": "Shard of a Shattered Will",
+                "zh": "意志破碎的残片"
+              },
+              "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+            },
+            {
+              "key": "locus_of_a_clear_will",
+              "title": {
+                "ru": "Образ ясной воли",
+                "en": "Locus of a Clear Will",
+                "zh": "意志明晰的寄偶"
+              },
+              "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+            },
+            {
+              "key": "sigil_of_a_striding_will",
+              "title": {
+                "ru": "Талисман странствующей воли",
+                "en": "Sigil of a Striding Will",
+                "zh": "意志巡游的符像"
+              },
+              "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "burning_aflame_wayob_manifestation",
+      "title": {
+        "ru": "Воплощение Вайоб губительного пламени",
+        "en": "Burning-Aflame Wayob Manifestation",
+        "zh": "焚燃 · 大灵显化身"
+      },
+      "icon": "assets/icons/enemies/common_enemies/burning_aflame_wayob_manifestation.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Клан Цветочного Пера верит в Вайоб, чьи силы проявляются в виде тотемов и ночных духов.\nГоворят, что Вайоб когда-то появлялась в человеческом обличье, и была похожа на чёрный обсидиан.\nНо после того как Вайоб была запечатлена в свитке, её облик стал более-менее постоянным.\nКлан Цветочного Пера верит, что Вайоб контролирует огонь и может управлять потоками тепла и обжигающими ветрами.",
+        "en": "The Flower-Feather Clan believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThey say that long ago, Wayob Manifestations looked very different from how they do today, taking on a rougher form that was more akin to that of an obsidian statue.\nBut once their outline had been recorded in woven scrolls, there have been few changes in their appearance since.\nThe people of the Flower-Feather Clan believe their Wayob has the power to control fire and burning flames, and can also control the flow of heat and blazing winds.",
+        "zh": "「花羽会」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n据说很久以前大灵显化身的造型与如今也有很大的差别，是更粗糙，更接近黑曜石像的姿态。\n可是随着织卷记录下了大灵显化身的轮廓后，就很少再有变化了。\n「花羽会」\n的人相信他们的「大灵」\n拥有控制火焰与燃烧的力量，能够执掌热量与焚风的流转。"
+      },
+      "description": {
+        "ru": "Клан Цветочного Пера верит в Вайоб, чьи силы проявляются в виде тотемов и ночных духов.\nГоворят, что Вайоб когда-то появлялась в человеческом обличье, и была похожа на чёрный обсидиан.\nНо после того как Вайоб была запечатлена в свитке, её облик стал более-менее постоянным.\nКлан Цветочного Пера верит, что Вайоб контролирует огонь и может управлять потоками тепла и обжигающими ветрами.",
+        "en": "The Flower-Feather Clan believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThey say that long ago, Wayob Manifestations looked very different from how they do today, taking on a rougher form that was more akin to that of an obsidian statue.\nBut once their outline had been recorded in woven scrolls, there have been few changes in their appearance since.\nThe people of the Flower-Feather Clan believe their Wayob has the power to control fire and burning flames, and can also control the flow of heat and blazing winds.",
+        "zh": "「花羽会」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n据说很久以前大灵显化身的造型与如今也有很大的差别，是更粗糙，更接近黑曜石像的姿态。\n可是随着织卷记录下了大灵显化身的轮廓后，就很少再有变化了。\n「花羽会」\n的人相信他们的「大灵」\n拥有控制火焰与燃烧的力量，能够执掌热量与焚风的流转。"
+      },
+      "drops": [
+        {
+          "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+          "title": {
+            "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+            "en": "Of A Wills",
+            "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "shard_of_a_shattered_will",
+              "title": {
+                "ru": "Осколок разбитой воли",
+                "en": "Shard of a Shattered Will",
+                "zh": "意志破碎的残片"
+              },
+              "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+            },
+            {
+              "key": "locus_of_a_clear_will",
+              "title": {
+                "ru": "Образ ясной воли",
+                "en": "Locus of a Clear Will",
+                "zh": "意志明晰的寄偶"
+              },
+              "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+            },
+            {
+              "key": "sigil_of_a_striding_will",
+              "title": {
+                "ru": "Талисман странствующей воли",
+                "en": "Sigil of a Striding Will",
+                "zh": "意志巡游的符像"
+              },
+              "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "thundering_wayob_manifestation",
+      "title": {
+        "ru": "Воплощение Вайоб раскатов грома",
+        "en": "Thundering Wayob Manifestation",
+        "zh": "雳震·大灵显化身"
+      },
+      "icon": "assets/icons/enemies/common_enemies/thundering_wayob_manifestation.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "В Уделе Благодатных Земель верят и поклоняются Вайоб, которая проявляется на земле через тотемы и ночные души.\nСогласно легенде племени, Вайоб принимала бесчисленные формы.\nВ предрассветной тьме, когда лица были скрыты в тенях, Вайоб сражалась с самыми могучими воинами племени, и ни одна из сторон не одерживала верх.\nПлемя Удела Благодатных Земель верит, что их Вайоб способна управлять громом и скоростью, а также может даровать земле обильные урожаи.",
+        "en": "The Collective of Plenty believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nAccording to tribal legend, the Wayob has taken on countless forms.\nIn the dim, pre-dawn darkness, where faces were hidden in shadows, the Wayob would wrestle with the mightiest tribal warriors, with neither side prevailing.\nThe Collective of Plenty believe their Wayob has the power to control thunder and speed, and can bestow abundant harvests upon the land.",
+        "zh": "「沃陆之邦」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n在「沃陆之邦」\n的部族的传说里，「大灵」\n曾经幻化过种种样貌，在晦暗而看不清相互面目的黎明之前，与部族里有名的大力士角力，不过往往以两者相持不下为结尾告终。\n「沃陆之邦」\n的人相信他们的「大灵」\n拥有控制雷霆与速度的力量，能够为土地带来富饶的物产。"
+      },
+      "description": {
+        "ru": "В Уделе Благодатных Земель верят и поклоняются Вайоб, которая проявляется на земле через тотемы и ночные души.\nСогласно легенде племени, Вайоб принимала бесчисленные формы.\nВ предрассветной тьме, когда лица были скрыты в тенях, Вайоб сражалась с самыми могучими воинами племени, и ни одна из сторон не одерживала верх.\nПлемя Удела Благодатных Земель верит, что их Вайоб способна управлять громом и скоростью, а также может даровать земле обильные урожаи.",
+        "en": "The Collective of Plenty believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nAccording to tribal legend, the Wayob has taken on countless forms.\nIn the dim, pre-dawn darkness, where faces were hidden in shadows, the Wayob would wrestle with the mightiest tribal warriors, with neither side prevailing.\nThe Collective of Plenty believe their Wayob has the power to control thunder and speed, and can bestow abundant harvests upon the land.",
+        "zh": "「沃陆之邦」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n在「沃陆之邦」\n的部族的传说里，「大灵」\n曾经幻化过种种样貌，在晦暗而看不清相互面目的黎明之前，与部族里有名的大力士角力，不过往往以两者相持不下为结尾告终。\n「沃陆之邦」\n的人相信他们的「大灵」\n拥有控制雷霆与速度的力量，能够为土地带来富饶的物产。"
+      },
+      "drops": [
+        {
+          "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+          "title": {
+            "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+            "en": "Of A Wills",
+            "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "shard_of_a_shattered_will",
+              "title": {
+                "ru": "Осколок разбитой воли",
+                "en": "Shard of a Shattered Will",
+                "zh": "意志破碎的残片"
+              },
+              "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+            },
+            {
+              "key": "locus_of_a_clear_will",
+              "title": {
+                "ru": "Образ ясной воли",
+                "en": "Locus of a Clear Will",
+                "zh": "意志明晰的寄偶"
+              },
+              "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+            },
+            {
+              "key": "sigil_of_a_striding_will",
+              "title": {
+                "ru": "Талисман странствующей воли",
+                "en": "Sigil of a Striding Will",
+                "zh": "意志巡游的符像"
+              },
+              "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 6,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "shard_of_a_shattered_will",
+      "title": {
+        "ru": "Осколок разбитой воли",
+        "en": "Shard of a Shattered Will",
+        "zh": "意志破碎的残片"
+      },
+      "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+      "text": {
+        "ru": "Фрагмент, в котором обитает воплощение Вайоб.\nЭто обломок разбитого каменного идола. Он с трудом передаёт волю и силу Вайоб.",
+        "en": "A fragment that houses a Wayob Manifestation.\nIt is a broken shard of a shattered stone idol. Its capacity for channeling the Wayob's will and power is also extremely limited.",
+        "zh": "大灵显化身寄宿的残片。\n破碎的石偶断片，其承载的「大灵」意志与力量也十分有限。"
+      }
+    },
+    {
+      "key": "locus_of_a_clear_will",
+      "title": {
+        "ru": "Образ ясной воли",
+        "en": "Locus of a Clear Will",
+        "zh": "意志明晰的寄偶"
+      },
+      "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp",
+      "text": {
+        "ru": "Нефритовый идол, в котором обитает воплощение Вайоб.\nФигура идола смутно различается. Он хорошо передаёт волю и силу Вайоб.",
+        "en": "A jade idol that houses a Wayob Manifestation.\nYou can roughly make out the form of an idol figurine. It has a greater capacity for channeling the Wayob's will and power.",
+        "zh": "大灵显化身寄宿的玉偶。能够隐约看到形制的玉偶雕像，能够承载更多「大灵」的意志与力量。"
+      }
+    },
+    {
+      "key": "sigil_of_a_striding_will",
+      "title": {
+        "ru": "Талисман странствующей воли",
+        "en": "Sigil of a Striding Will",
+        "zh": "意志巡游的符像"
+      },
+      "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp",
+      "text": {
+        "ru": "Обсидиановый талисман, в котором обитает воплощение Вайоб.\nОн состоит из нефритовой фигурки идола, заключённой в обсидиан.\nГоворят, раньше люди использовали такие фигурки, чтобы попытаться связаться напрямую с Вайоб Царства Ночи.\nВозможно, это также объясняет, почему Вайоб может обитать в нём и принимать физическую форму.",
+        "en": "An obsidian talisman that houses a Wayob Manifestation.\nIt consists of a jade idol figurine encased in obsidian.\nThey say that in the past, people often used such figurines to attempt to communicate directly with the Wayob of the Night Kingdom.\nPerhaps this also explains why the Wayob can dwell within it and manifest itself in physical form.",
+        "zh": "大灵显化身寄宿的黑曜石符像。\n环绕黑曜石的玉偶雕像，据说从前的人经常用这样的雕像，尝试与夜神国度中的「大灵」进行沟通，或许这也是「大灵」能够凭依在其上，并显化出形体的缘由吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

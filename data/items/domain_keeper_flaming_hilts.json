@@ -1,0 +1,162 @@
+{
+  "id": "domain_keeper_flaming_hilts",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/faded_flaming_hilt.webp",
+  "title": {
+    "ru": "Потускневшая рукоять пламенного меча / Расколотая рукоять пламенного меча / Рукоять пламенного меча с камнем",
+    "en": "Flaming Hilts",
+    "zh": "失色的焰剑 / 残失的焰剑 / 宝饰的焰剑"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "6.5",
+  "tags": [
+    "Faded Flaming Hilt",
+    "Fractured Flaming Hilt",
+    "Jeweled Flaming Hilt",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "domain_keeper"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "domain_keeper",
+      "title": {
+        "ru": "Хранитель измерения",
+        "en": "Domain Keeper",
+        "zh": "辖域守护者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/domain_keeper.webp",
+      "enemy_group": "automatons",
+      "region": "Мондштадт",
+      "game_version": "6.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Теневая сущность, рождённая из избытка могущества первозданного существа. Стражник Небесного Зала столпов.\nБудучи хранителем Зала столпов пространства, хоть и наделённое «оком», оно лишь воспевало вечные «формы» истинной реальности, не ведая о многообразии мира явлений,\nа потому не причислялось к ангельскому роду.\nБыло ли это внутреннее противоречие разумным замыслом его творца, или же повелительница, которой оно служило, так и не постигла замысла той изначальной сущности - сие неведомо.",
+        "en": "A shadow construct born from the overflow of the mighty primordial being, it is a guardian who watches over the Pillar Hall of the heavens.\nThough entrusted with \"eyes\"as a guardian of the Pillar Hall of Space, these entities can do nothing but extol the \"Ideal Forms\"of the noumenal world.\nWith no way to behold the complexities of the phenomenal world, they are thus not counted among the kindred of angels.\nWhether this inherent contradiction is a product of their creator's rational design, or if the master they serve ultimately failed to grasp the intent of that primordial being,\nis a truth that remains beyond our reach.",
+        "zh": "原初的大能者流溢而出的影之造物，守卫高天之柱殿的守护者。\n作为空之柱殿的守卫，虽被赋予了「眼」，却只能颂赞永恒实在的「理型」，无从得见现象世界的纷繁，因此不被视为天使的同类。\n这般自相乖离之事究竟是其造主理性的设计，又或是它们所侍奉的主人终究也不理解原初那一位的心意，恐怕已无从得知。"
+      },
+      "description": {
+        "ru": "Теневая сущность, рождённая из избытка могущества первозданного существа. Стражник Небесного Зала столпов.\nБудучи хранителем Зала столпов пространства, хоть и наделённое «оком», оно лишь воспевало вечные «формы» истинной реальности, не ведая о многообразии мира явлений,\nа потому не причислялось к ангельскому роду.\nБыло ли это внутреннее противоречие разумным замыслом его творца, или же повелительница, которой оно служило, так и не постигла замысла той изначальной сущности - сие неведомо.",
+        "en": "A shadow construct born from the overflow of the mighty primordial being, it is a guardian who watches over the Pillar Hall of the heavens.\nThough entrusted with \"eyes\"as a guardian of the Pillar Hall of Space, these entities can do nothing but extol the \"Ideal Forms\"of the noumenal world.\nWith no way to behold the complexities of the phenomenal world, they are thus not counted among the kindred of angels.\nWhether this inherent contradiction is a product of their creator's rational design, or if the master they serve ultimately failed to grasp the intent of that primordial being,\nis a truth that remains beyond our reach.",
+        "zh": "原初的大能者流溢而出的影之造物，守卫高天之柱殿的守护者。\n作为空之柱殿的守卫，虽被赋予了「眼」，却只能颂赞永恒实在的「理型」，无从得见现象世界的纷繁，因此不被视为天使的同类。\n这般自相乖离之事究竟是其造主理性的设计，又或是它们所侍奉的主人终究也不理解原初那一位的心意，恐怕已无从得知。"
+      },
+      "drops": [
+        {
+          "id": "domain_keeper_flaming_hilts",
+          "title": {
+            "ru": "Потускневшая рукоять пламенного меча / Расколотая рукоять пламенного меча / Рукоять пламенного меча с камнем",
+            "en": "Flaming Hilts",
+            "zh": "失色的焰剑 / 残失的焰剑 / 宝饰的焰剑"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_flaming_hilt.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.5",
+          "materials": [
+            {
+              "key": "faded_flaming_hilt",
+              "title": {
+                "ru": "Потускневшая рукоять пламенного меча",
+                "en": "Faded Flaming Hilt",
+                "zh": "失色的焰剑"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_flaming_hilt.webp"
+            },
+            {
+              "key": "fractured_flaming_hilt",
+              "title": {
+                "ru": "Расколотая рукоять пламенного меча",
+                "en": "Fractured Flaming Hilt",
+                "zh": "残失的焰剑"
+              },
+              "icon": "assets/icons/items/common_enemies/fractured_flaming_hilt.webp"
+            },
+            {
+              "key": "jeweled_flaming_hilt",
+              "title": {
+                "ru": "Рукоять пламенного меча с камнем",
+                "en": "Jeweled Flaming Hilt",
+                "zh": "宝饰的焰剑"
+              },
+              "icon": "assets/icons/items/common_enemies/jeweled_flaming_hilt.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "faded_flaming_hilt",
+      "title": {
+        "ru": "Потускневшая рукоять пламенного меча",
+        "en": "Faded Flaming Hilt",
+        "zh": "失色的焰剑"
+      },
+      "icon": "assets/icons/items/common_enemies/faded_flaming_hilt.webp",
+      "text": {
+        "ru": "Рукоять меча, оставшаяся после того, как пламенный меч Хранителя измерения потух.\nПылающий меч - символ щита, который, опираясь на власть пространства, запечатал границу между вечностью и мгновением.",
+        "en": "The hilt remains of a flaming sword once wielded by a Domain Keeper.\nA sword of blazing fire was once the symbol of protection.\nEmpowered by the authority of \"Space,\" it sealed the boundary between eternity and ephemera.",
+        "zh": "辖域守护者所持的焰剑熄灭后遗留下的剑柄。\n发火焰的宝剑是守护的象征，依仗「空」之权柄，封锁了永恒与须臾的边界。"
+      }
+    },
+    {
+      "key": "fractured_flaming_hilt",
+      "title": {
+        "ru": "Расколотая рукоять пламенного меча",
+        "en": "Fractured Flaming Hilt",
+        "zh": "残失的焰剑"
+      },
+      "icon": "assets/icons/items/common_enemies/fractured_flaming_hilt.webp",
+      "text": {
+        "ru": "Рукоять меча, оставшаяся после того, как пламенный меч Хранителя измерения потух.\nПылающий меч - символ суда, который силой власти пространства запечатал пути преступления и кощунства.",
+        "en": "The hilt remains of a flaming sword once wielded by a Domain Keeper.\nA sword of blazing fire was once the symbol of judgment. Empowered by the authority of \"Space,\" it barred the path against trespass and profanity.",
+        "zh": "辖域守护者所持的焰剑熄灭后遗留下的剑柄。\n发火焰的宝剑是审判的象征，依仗「空」之权柄，封堵了逾越与亵渎的道路。"
+      }
+    },
+    {
+      "key": "jeweled_flaming_hilt",
+      "title": {
+        "ru": "Рукоять пламенного меча с камнем",
+        "en": "Jeweled Flaming Hilt",
+        "zh": "宝饰的焰剑"
+      },
+      "icon": "assets/icons/items/common_enemies/jeweled_flaming_hilt.webp",
+      "text": {
+        "ru": "Рукоять меча, оставшаяся после того, как пламенный меч Хранителя измерения потух.\nПылающий меч - символ заповеди, который опирается на власть пространства и провозглашает абсолютную и непогрешимую волю богов.",
+        "en": "The hilt remains of a flaming sword once wielded by a Domain Keeper.\nA sword of blazing fire was once the symbol of admonition.\nEmpowered by the authority of \"Space,\" it proclaimed the absolute and infallible will of the divine.",
+        "zh": "辖域守护者所持的焰剑熄灭后遗留下的剑柄。\n发火焰的宝剑是戒谕的象征，依仗「空」之权柄，宣告了绝对且无谬的神意。"
+      }
+    }
+  ],
+  "material_count": 3
+}

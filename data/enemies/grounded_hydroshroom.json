@@ -31,7 +31,92 @@
     "en": "A mimetic life form made out of spores that has extreme adaptability.\nThis creature may look like a bird, but it cannot fly.\nDue to the influence of Hydro energies, it is astoundingly agile compared to others of its kind.\nSome research has inferred that this creature is in fact an aggregation of countless tiny spores rather than a single entity.\nThis creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match.",
     "zh": "孢子构成的拟态生物，具有强大的环境适应能力。\n看上去像是鸟类，不过似乎并没有掌握飞行的能力。\n或许是因为水元素的影响，与同类相比其行动异常敏捷。\n也有研究推断这种蕈兽实际上是由无数细小的孢子集结构成的菌株，并不是单纯单一的生命体。\n在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "floating_hydro_fungus_fungal_nucleus",
+      "title": {
+        "ru": "Неактивное ядро плесенника / Спящее ядро плесенника / Здоровое ядро плесенника",
+        "en": "Fungal Nucleus",
+        "zh": "失活菌核 / 休眠菌核 / 茁壮菌核"
+      },
+      "icon": "assets/icons/items/common_enemies/inactivated_fungal_nucleus.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.0",
+      "materials": [
+        {
+          "key": "inactivated_fungal_nucleus",
+          "title": {
+            "ru": "Неактивное ядро плесенника",
+            "en": "Inactivated Fungal Nucleus",
+            "zh": "失活菌核"
+          },
+          "icon": "assets/icons/items/common_enemies/inactivated_fungal_nucleus.webp"
+        },
+        {
+          "key": "dormant_fungal_nucleus",
+          "title": {
+            "ru": "Спящее ядро плесенника",
+            "en": "Dormant Fungal Nucleus",
+            "zh": "休眠菌核"
+          },
+          "icon": "assets/icons/items/common_enemies/dormant_fungal_nucleus.webp"
+        },
+        {
+          "key": "robust_fungal_nucleus",
+          "title": {
+            "ru": "Здоровое ядро плесенника",
+            "en": "Robust Fungal Nucleus",
+            "zh": "茁壮菌核"
+          },
+          "icon": "assets/icons/items/common_enemies/robust_fungal_nucleus.webp"
+        }
+      ],
+      "material_count": 3
+    },
+    {
+      "id": "floating_hydro_fungus_spores",
+      "title": {
+        "ru": "Споры плесенника / Светящаяся пыльца / Пыль кристаллоцистов",
+        "en": "Spores",
+        "zh": "蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+      },
+      "icon": "assets/icons/items/common_enemies/fungal_spores.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.6",
+      "materials": [
+        {
+          "key": "fungal_spores",
+          "title": {
+            "ru": "Споры плесенника",
+            "en": "Fungal Spores",
+            "zh": "蕈兽孢子"
+          },
+          "icon": "assets/icons/items/common_enemies/fungal_spores.webp"
+        },
+        {
+          "key": "luminescent_pollen",
+          "title": {
+            "ru": "Светящаяся пыльца",
+            "en": "Luminescent Pollen",
+            "zh": "荧光孢粉"
+          },
+          "icon": "assets/icons/items/common_enemies/luminescent_pollen.webp"
+        },
+        {
+          "key": "crystalline_cyst_dust",
+          "title": {
+            "ru": "Пыль кристаллоцистов",
+            "en": "Crystalline Cyst Dust",
+            "zh": "孢囊晶尘"
+          },
+          "icon": "assets/icons/items/common_enemies/crystalline_cyst_dust.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

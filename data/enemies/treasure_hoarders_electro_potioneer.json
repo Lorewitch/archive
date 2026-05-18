@@ -31,7 +31,50 @@
     "en": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\"Potioneer\"is the nickname given to members of\nthe Treasure Hoarder organization who know how to brew up dangerous chemicals.\"What?\nDid you think this treasure has 'Adventurers' Guild' written all over it or something?\"—A certain Treasure Hoarder Potioneer during a confrontation with adventurers",
     "zh": "足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。\n「药剂师」\n是盗宝团成员当中，为这些具有调配危险化学物质知识的人物取的诨名。\n「嗯？\n这宝物上写了你们冒险家协会的名字么？\n」\n——某名盗宝团的「药剂师」\n与冒险家对峙时说的话"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "treasure_hoarders_scout_insignias",
+      "title": {
+        "ru": "Печать Похитителей сокровищ / Печать серебряного ворона / Печать золотого ворона",
+        "en": "Insignias",
+        "zh": "寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+      },
+      "icon": "assets/icons/items/common_enemies/treasure_hoarder_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "treasure_hoarder_insignia",
+          "title": {
+            "ru": "Печать Похитителей сокровищ",
+            "en": "Treasure Hoarder Insignia",
+            "zh": "寻宝鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/treasure_hoarder_insignia.webp"
+        },
+        {
+          "key": "silver_raven_insignia",
+          "title": {
+            "ru": "Печать серебряного ворона",
+            "en": "Silver Raven Insignia",
+            "zh": "藏银鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/silver_raven_insignia.webp"
+        },
+        {
+          "key": "golden_raven_insignia",
+          "title": {
+            "ru": "Печать золотого ворона",
+            "en": "Golden Raven Insignia",
+            "zh": "攫金鸦印"
+          },
+          "icon": "assets/icons/items/common_enemies/golden_raven_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

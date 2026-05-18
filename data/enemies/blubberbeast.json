@@ -31,7 +31,50 @@
     "en": "A type of mammal that resides in the watery regions of Fontaine.\nIt communicates with its companions through melodious sounds.\nDue to its density, water is a much more efficient medium of sound than air.\nDrawing inspiration from the Blubberbeast, someone from the Research Institute invented a type of technology that converted images into data to facilitate instant transmission.\nBut due to the technical limitations of the experiment, it never became widely adopted outside the Institute.\nIn reality, however, data transmission technology based on fluid and sound has existed since ancient times.\nAs the saying goes, there's nothing new under the sun.",
     "zh": "生活在枫丹水域的哺乳动物，能够发出悠扬的声音与同伴进行通讯。\n依据密度的原则，水作为声音传播的介质，效率远远高于空气。\n基于源自膨膨兽的灵感，科学院中有人发明了将图像转为数据并即时传输的技术，但由于实验的技术限制诸多所以并未在科学院外广泛使用。\n但事实上在更遥远的古代就有过基于液体与声音的数据传输技术了。\n世上没有新鲜事。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "blubberbeast_pearls",
+      "title": {
+        "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+        "en": "Pearls",
+        "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+      },
+      "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "transoceanic_pearl",
+          "title": {
+            "ru": "Жемчужина иноморья",
+            "en": "Transoceanic Pearl",
+            "zh": "异海凝珠"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+        },
+        {
+          "key": "transoceanic_chunk",
+          "title": {
+            "ru": "Обломок из иноморья",
+            "en": "Transoceanic Chunk",
+            "zh": "异海之块"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+        },
+        {
+          "key": "xenochromatic_crystal",
+          "title": {
+            "ru": "Ксенохромный кристалл",
+            "en": "Xenochromatic Crystal",
+            "zh": "异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

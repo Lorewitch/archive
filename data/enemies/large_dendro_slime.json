@@ -31,7 +31,50 @@
     "en": "A slime that has undergone ecological changes due to abundant Dendro in its environment.\nThere are some who see it as something similar to the Whopperflowers, hiding its true form to trick and hunt its prey,\nand some regard it as a slime that has been parasitized by some special plant.\nFrom this point of view, might some cultures also see these slimes as having some special medicinal value?",
     "zh": "因为充沛的草元素，而发生了生态上的质变的史莱姆。\n但也有人认为，从热衷于通过欺骗性的伪装来偷袭猎物，类似骗骗花的捕猎行为来看，或许是被特殊的植物寄生的史莱姆。\n从这个角度来看，草史莱姆在某些文化当中，或许被认为具有特别的药用价值…？"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "slime_materials",
+      "title": {
+        "ru": "Слизь слайма / Выделения слайма / Концентрат слайма",
+        "en": "Slimes",
+        "zh": "史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+      },
+      "icon": "assets/icons/items/common_enemies/slime_condensate.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "slime_condensate",
+          "title": {
+            "ru": "Слизь слайма",
+            "en": "Slime Condensate",
+            "zh": "史莱姆凝液"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_condensate.webp"
+        },
+        {
+          "key": "slime_secretions",
+          "title": {
+            "ru": "Выделения слайма",
+            "en": "Slime Secretions",
+            "zh": "史莱姆清"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_secretions.webp"
+        },
+        {
+          "key": "slime_concentrate",
+          "title": {
+            "ru": "Концентрат слайма",
+            "en": "Slime Concentrate",
+            "zh": "史莱姆原浆"
+          },
+          "icon": "assets/icons/items/common_enemies/slime_concentrate.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

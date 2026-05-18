@@ -1,0 +1,738 @@
+{
+  "id": "oprichniki_line_trooper_warrants",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+  "title": {
+    "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+    "en": "Warrants",
+    "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [
+    "Tattered Warrant",
+    "Immaculate Warrant",
+    "Frost-Etched Warrant",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "oprichniki_line_trooper",
+    "oprichniki_support_trooper",
+    "oprichniki_grenadier",
+    "oprichniki_vanguard",
+    "oprichniki_medic",
+    "oprichniki_bombardier",
+    "oprichniki_fireblade_shock_trooper",
+    "oprichniki_hailstorm_cannoneer",
+    "oprichniki_thunderblitz_gvardiya"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "oprichniki_line_trooper",
+      "title": {
+        "ru": "Опричник: Боец фронта",
+        "en": "Oprichniki Line Trooper",
+        "zh": "愚人众特辖队·线列军"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_line_trooper.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат, входящий в состав опричников Фатуи, вооружённый мушкетом с лезвием. Он - опора оборонительной линии опричников.\nСогласно пехотному уставу Снежной, основная задача пехоты лишь стрелять и атаковать.\nДаже если боевая мощь отдельного солдата весьма посредственна, солдаты пехоты, наступающие плотным строем, остаются одним из краеугольных камней военной машины Снежной.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a gunblade and tasked to hold the line as the resilient backbone of the Oprichniki forces.\nAccording to Snezhnayan infantry manuals, the primary duties of line troops are merely to aim, shoot, and charge.\nEven should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain a key foundation of the Snezhnayan military machine.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了铳刃，是维持阵线的中坚力量。\n在至冬的步兵典则中，线列军的首要职责唯有瞄准、射击与冲锋。\n尽管单兵作战能力并不出众，但集结成密集阵型的线列军总是至冬军势中最牢固的基石之一。"
+      },
+      "description": {
+        "ru": "Солдат, входящий в состав опричников Фатуи, вооружённый мушкетом с лезвием. Он - опора оборонительной линии опричников.\nСогласно пехотному уставу Снежной, основная задача пехоты лишь стрелять и атаковать.\nДаже если боевая мощь отдельного солдата весьма посредственна, солдаты пехоты, наступающие плотным строем, остаются одним из краеугольных камней военной машины Снежной.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a gunblade and tasked to hold the line as the resilient backbone of the Oprichniki forces.\nAccording to Snezhnayan infantry manuals, the primary duties of line troops are merely to aim, shoot, and charge.\nEven should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain a key foundation of the Snezhnayan military machine.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了铳刃，是维持阵线的中坚力量。\n在至冬的步兵典则中，线列军的首要职责唯有瞄准、射击与冲锋。\n尽管单兵作战能力并不出众，但集结成密集阵型的线列军总是至冬军势中最牢固的基石之一。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_support_trooper",
+      "title": {
+        "ru": "Опричник: Боец поддержки",
+        "en": "Oprichniki Support Trooper",
+        "zh": "愚人众特辖队·支援兵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_support_trooper.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат Фатуи, вооружённый тяжёлым щитом, обязан защищать своих товарищей на передовой.\nМногие понимают, что в долгой войне Снежной с чёрным бедствием победить может лишь тот, кто выстоит и переживёт остальных.\nИменно щиты помогают опричникам держать строй.\nПока солдат держит щит, всегда есть надежда на победу.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a heavy shield and tasked to fight at the very front to protect their comrades.\nMany understand that in the long war between Snezhnaya and the dark calamity, only the side that holds out with greater resolution can outlast the other and emerge victorious.\nThe ultimate resolution of the Oprichniki is, undoubtedly, the shield that protects their forces — so long as this shield does not fall, there is always hope for victory.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了重型盾牌，负责在交战的最前线为战友提供掩护。\n许多人都明白，在至冬与漆黑灾厄这场旷日持久的战争中，唯有「支撑」\n更坚韧，坚持更久的一方才能获胜。\n而特辖队的「支撑」\n正是支援兵的盾牌——只要盾牌不倒，胜利的希望就仍然存在。"
+      },
+      "description": {
+        "ru": "Солдат Фатуи, вооружённый тяжёлым щитом, обязан защищать своих товарищей на передовой.\nМногие понимают, что в долгой войне Снежной с чёрным бедствием победить может лишь тот, кто выстоит и переживёт остальных.\nИменно щиты помогают опричникам держать строй.\nПока солдат держит щит, всегда есть надежда на победу.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a heavy shield and tasked to fight at the very front to protect their comrades.\nMany understand that in the long war between Snezhnaya and the dark calamity, only the side that holds out with greater resolution can outlast the other and emerge victorious.\nThe ultimate resolution of the Oprichniki is, undoubtedly, the shield that protects their forces — so long as this shield does not fall, there is always hope for victory.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了重型盾牌，负责在交战的最前线为战友提供掩护。\n许多人都明白，在至冬与漆黑灾厄这场旷日持久的战争中，唯有「支撑」\n更坚韧，坚持更久的一方才能获胜。\n而特辖队的「支撑」\n正是支援兵的盾牌——只要盾牌不倒，胜利的希望就仍然存在。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_grenadier",
+      "title": {
+        "ru": "Опричник: Гренадёр",
+        "en": "Oprichniki Grenadier",
+        "zh": "愚人众特辖队·榴铳手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_grenadier.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат опричников Фатуи с переносным гранатомётом, способный вести шквальный огонь на близкой дистанции.\nХотя у опричников обширный и всеобъемлющий арсенал огневой поддержки, сержанты настаивали на сохранении значительного количества гренадёров.\nВ конце концов, на передовой даже самая мощная огневая мощь не была столь же эффективна, как передвижной отдельный гранатомёт.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a man-portable grenade launcher that can perform close-range bombardment.\nThough the Oprichniki has large-scale, fully-functional fire support attachments, the commanding staff still advocates for large numbers of grenadiers to be maintained.\nAfter all, no big gun can compare in surety at the very front lines of combat to a grenade launcher you can direct at will.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了单兵榴铳，可在近距离发起若狂风骤雨一般的轰击。\n愚人众特辖队虽拥有数量庞大、功能齐全的支援火力，但在士官们的坚持下，部队依然保留了大量榴铳手。\n毕竟，对于前线来说，纸面上再强大的火力，也不如一门随叫随到的单兵榴铳实在。"
+      },
+      "description": {
+        "ru": "Солдат опричников Фатуи с переносным гранатомётом, способный вести шквальный огонь на близкой дистанции.\nХотя у опричников обширный и всеобъемлющий арсенал огневой поддержки, сержанты настаивали на сохранении значительного количества гренадёров.\nВ конце концов, на передовой даже самая мощная огневая мощь не была столь же эффективна, как передвижной отдельный гранатомёт.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a man-portable grenade launcher that can perform close-range bombardment.\nThough the Oprichniki has large-scale, fully-functional fire support attachments, the commanding staff still advocates for large numbers of grenadiers to be maintained.\nAfter all, no big gun can compare in surety at the very front lines of combat to a grenade launcher you can direct at will.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了单兵榴铳，可在近距离发起若狂风骤雨一般的轰击。\n愚人众特辖队虽拥有数量庞大、功能齐全的支援火力，但在士官们的坚持下，部队依然保留了大量榴铳手。\n毕竟，对于前线来说，纸面上再强大的火力，也不如一门随叫随到的单兵榴铳实在。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_vanguard",
+      "title": {
+        "ru": "Опричник: Боец авангарда",
+        "en": "Oprichniki Vanguard",
+        "zh": "愚人众特辖队·先锋士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_vanguard.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат опричников Фатуи, вооружённый инженерным оборудованием и искусный в ближнем бою.\nДля выполнения задач на поле боя опричники Фатуи создали авангардные отряды, которым было поручено расчищать пути наступающих войск.\nЧто же касается того, что именно считать препятствием, то это не имеет значения.\nБудь то непроходимый овраг или грозный противник, стоящий на их пути, они устранят препятствия без колебаний - чего бы это ни стоило,\nлишь бы знамя Бледной Звезды продолжало своё шествие.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with engineering tools and highly adept in close-range combat.\nTo meet the demands of battlefield operations, the Fatui Oprichniki established vanguard units, tasked with clearing the path of obstacles for advancing forces.\nAs for exactly what counts as an obstacle, that hardly matters.\nBe it an impassable ravine or a formidable foe standing in their way, they will remove it without hesitation — whatever it takes to ensure the banner of the Pale Star marches on.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了工兵器械，有着很强的白刃战能力。\n为满足作战任务的需求，愚人众特辖队设立了先锋士，以铲除行军的障碍。\n至于障碍究竟是什么，那并不重要，无论是天堑还是如天堑般难以跨过的强敌，凡是阻挡苍星的圣帜前进之物，他们都会不计代价地将其清除。"
+      },
+      "description": {
+        "ru": "Солдат опричников Фатуи, вооружённый инженерным оборудованием и искусный в ближнем бою.\nДля выполнения задач на поле боя опричники Фатуи создали авангардные отряды, которым было поручено расчищать пути наступающих войск.\nЧто же касается того, что именно считать препятствием, то это не имеет значения.\nБудь то непроходимый овраг или грозный противник, стоящий на их пути, они устранят препятствия без колебаний - чего бы это ни стоило,\nлишь бы знамя Бледной Звезды продолжало своё шествие.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with engineering tools and highly adept in close-range combat.\nTo meet the demands of battlefield operations, the Fatui Oprichniki established vanguard units, tasked with clearing the path of obstacles for advancing forces.\nAs for exactly what counts as an obstacle, that hardly matters.\nBe it an impassable ravine or a formidable foe standing in their way, they will remove it without hesitation — whatever it takes to ensure the banner of the Pale Star marches on.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了工兵器械，有着很强的白刃战能力。\n为满足作战任务的需求，愚人众特辖队设立了先锋士，以铲除行军的障碍。\n至于障碍究竟是什么，那并不重要，无论是天堑还是如天堑般难以跨过的强敌，凡是阻挡苍星的圣帜前进之物，他们都会不计代价地将其清除。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_medic",
+      "title": {
+        "ru": "Опричник: Санитар",
+        "en": "Oprichniki Medic",
+        "zh": "愚人众特辖队·疗愈师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_medic.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат опричников Фатуи, вооружённый устройством, похожим на посох, и призванный оказывать экстренную медицинскую помощь своим боевым товарищам.\nПо правде говоря, эти медики прошли лишь ускоренный курс подготовки, поэтому их целительские способности ограничены.\nНа практике они, как правило, используют более эффективные методы поддержки союзников - смешиваются с различными подразделениями и атакуют вражеские ряды.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a staff-like device and tasked with providing emergency medical support to their comrades in arms.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited.\nIn practice, they tend to adopt more efficient methods of supporting their allies — mixing in with the different units and charging at the enemy lines.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了杖形器械，负责为战友提供应急医疗支援。\n事实上，疗愈师大多只受过速成培训，医疗援助能力十分有限。\n因此，他们更多时候会选择更高效的支援方式——与其他兵种混编，一同发起冲锋。"
+      },
+      "description": {
+        "ru": "Солдат опричников Фатуи, вооружённый устройством, похожим на посох, и призванный оказывать экстренную медицинскую помощь своим боевым товарищам.\nПо правде говоря, эти медики прошли лишь ускоренный курс подготовки, поэтому их целительские способности ограничены.\nНа практике они, как правило, используют более эффективные методы поддержки союзников - смешиваются с различными подразделениями и атакуют вражеские ряды.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a staff-like device and tasked with providing emergency medical support to their comrades in arms.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited.\nIn practice, they tend to adopt more efficient methods of supporting their allies — mixing in with the different units and charging at the enemy lines.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了杖形器械，负责为战友提供应急医疗支援。\n事实上，疗愈师大多只受过速成培训，医疗援助能力十分有限。\n因此，他们更多时候会选择更高效的支援方式——与其他兵种混编，一同发起冲锋。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_bombardier",
+      "title": {
+        "ru": "Опричник: Бомбардир",
+        "en": "Oprichniki Bombardier",
+        "zh": "愚人众特辖队·掷弹兵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_bombardier.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Солдат опричников Фатуи, оснащённый специальным летающим ранцем и взрывными снарядами, которому поручено проводить операции по прорыву обороны.\nБомбардиры, как войска с огромным потенциалом прорыва, часто отправляются на самые тяжёлые поля сражений, что позволяет им быстрее всего получать заслуженные повышения.\nГоворят, что офицеры опричников в подавляющем большинстве являются выходцами из числа бомбардиров.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a specialized hover pack and explosive charges, and tasked with performing breaching operations.\nAs troops with immense breakthrough potential, bombardiers are often sent to the most dire of battlefields, making them the troops who gain meritorious promotions most quickly.\nIt is said that Oprichniki officers overwhelmingly come from the ranks of the bombardiers.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了特殊悬浮背包与爆弹，负责执行突破任务。\n作为具有强大突破能力的兵种，掷弹兵常被前线指挥官派往最凶险的战场，因此成为立功升迁最快的兵种之一。\n据说，在特辖队内，出身掷弹兵的士官比例远高于其他兵种。"
+      },
+      "description": {
+        "ru": "Солдат опричников Фатуи, оснащённый специальным летающим ранцем и взрывными снарядами, которому поручено проводить операции по прорыву обороны.\nБомбардиры, как войска с огромным потенциалом прорыва, часто отправляются на самые тяжёлые поля сражений, что позволяет им быстрее всего получать заслуженные повышения.\nГоворят, что офицеры опричников в подавляющем большинстве являются выходцами из числа бомбардиров.",
+        "en": "A soldier of the Fatui Oprichniki, equipped with a specialized hover pack and explosive charges, and tasked with performing breaching operations.\nAs troops with immense breakthrough potential, bombardiers are often sent to the most dire of battlefields, making them the troops who gain meritorious promotions most quickly.\nIt is said that Oprichniki officers overwhelmingly come from the ranks of the bombardiers.",
+        "zh": "隶属于愚人众特辖队的士兵，装备了特殊悬浮背包与爆弹，负责执行突破任务。\n作为具有强大突破能力的兵种，掷弹兵常被前线指挥官派往最凶险的战场，因此成为立功升迁最快的兵种之一。\n据说，在特辖队内，出身掷弹兵的士官比例远高于其他兵种。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_fireblade_shock_trooper",
+      "title": {
+        "ru": "Опричник: Штурмовик огненного клинка",
+        "en": "Oprichniki Fireblade Shock Trooper",
+        "zh": "愚人众特辖队·火刃突击队"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_fireblade_shock_trooper.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Элитный офицер опричников Фатуи с гигантским клинком, специализирующийся на ближнем бою с врагами.\nБудь то противостояние чёрному бедствию или невеждам, осмеливающимся выступить против идеалов Царицы, те, кто прорвётся на острие копья, понесут наибольшие потери.\nПоэтому те, кто выживет в многочисленных подобных сражениях, естественно, являются элитой элиты.\nВсегда найдутся те, кто готов стать огнём и мечом империи, как и те, кто возмущается несправедливостью судьбы и несправедливостью Старого Света.",
+        "en": "An elite officer of the Fatui Oprichniki who specializes in close combat using a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals,\nthose who breach at the tip of the spear suffer the greatest casualties.\nAs such, those who survive multiple battles are naturally the elite of the elite.\nThere will always be those willing to become the fire and sword of the empire,\njust as there will always be those who chafe against the injustice of fate and the inequity of the Old World.",
+        "zh": "隶属于愚人众特辖队的精锐士官，擅长以巨剑与敌人近身相搏。\n无论是在抵御漆黑灾厄的战斗中，还是在与那些胆敢阻拦女皇理想的无知者们的战斗中，冲在最前线的突击队都是伤亡最高的编制之一，历经数战而依然生还者自然是精锐中的精锐。\n总是有人甘愿成为帝国的火与剑，正如总是有人不甘于命运的不义与旧世界的不公。"
+      },
+      "description": {
+        "ru": "Элитный офицер опричников Фатуи с гигантским клинком, специализирующийся на ближнем бою с врагами.\nБудь то противостояние чёрному бедствию или невеждам, осмеливающимся выступить против идеалов Царицы, те, кто прорвётся на острие копья, понесут наибольшие потери.\nПоэтому те, кто выживет в многочисленных подобных сражениях, естественно, являются элитой элиты.\nВсегда найдутся те, кто готов стать огнём и мечом империи, как и те, кто возмущается несправедливостью судьбы и несправедливостью Старого Света.",
+        "en": "An elite officer of the Fatui Oprichniki who specializes in close combat using a giant blade.\nWhether it be in the war against the dark calamity or against those ignoramuses who dare stand against the Tsaritsa's ideals,\nthose who breach at the tip of the spear suffer the greatest casualties.\nAs such, those who survive multiple battles are naturally the elite of the elite.\nThere will always be those willing to become the fire and sword of the empire,\njust as there will always be those who chafe against the injustice of fate and the inequity of the Old World.",
+        "zh": "隶属于愚人众特辖队的精锐士官，擅长以巨剑与敌人近身相搏。\n无论是在抵御漆黑灾厄的战斗中，还是在与那些胆敢阻拦女皇理想的无知者们的战斗中，冲在最前线的突击队都是伤亡最高的编制之一，历经数战而依然生还者自然是精锐中的精锐。\n总是有人甘愿成为帝国的火与剑，正如总是有人不甘于命运的不义与旧世界的不公。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_hailstorm_cannoneer",
+      "title": {
+        "ru": "Опричник: Град-канонир",
+        "en": "Oprichniki Hailstorm Cannoneer",
+        "zh": "愚人众特辖队·冰雹重炮手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_hailstorm_cannoneer.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Элитный офицер опричников Фатуи, взрывающий вражеские ряды тяжёлой пушкой и защищающий товарищей мощным щитом.\nЩит побелел в ожесточённых боях, а края его почернели от запёкшейся крови.\nОфицеры опричников знают, что пустые слова не вернут тех, кто неизбежно был принесён в жертву.\nЛишь бомбардировка, подобная граду, способна потрясти этот осквернённый Старый Свет.",
+        "en": "An elite officer of the Fatui Oprichniki who uses a heavy cannon to tear enemy formations apart while using a mighty shield to defend their comrades.\nBitter battles have dyed the shield frost white, while coatings of blood have tinted its edges black.\nOprichniki officers know that empty words will never bring back those who have fallen in sacrifice — only a bombardment akin to a hailstorm can shake this defiled Old World.",
+        "zh": "隶属于愚人众特辖队的精锐士官，擅长以重炮撕裂敌阵，同时以厚重的大盾保护共同战斗的友伴。\n苦难将盾染成霜白，凝积的鲜血为它们镀上黑色的边缘。\n特辖队的士官知晓空洞的言语从来无法挽回那些不可避免的牺牲，唯有冰雹般的轰响，方能将这污秽的旧世界撼动。"
+      },
+      "description": {
+        "ru": "Элитный офицер опричников Фатуи, взрывающий вражеские ряды тяжёлой пушкой и защищающий товарищей мощным щитом.\nЩит побелел в ожесточённых боях, а края его почернели от запёкшейся крови.\nОфицеры опричников знают, что пустые слова не вернут тех, кто неизбежно был принесён в жертву.\nЛишь бомбардировка, подобная граду, способна потрясти этот осквернённый Старый Свет.",
+        "en": "An elite officer of the Fatui Oprichniki who uses a heavy cannon to tear enemy formations apart while using a mighty shield to defend their comrades.\nBitter battles have dyed the shield frost white, while coatings of blood have tinted its edges black.\nOprichniki officers know that empty words will never bring back those who have fallen in sacrifice — only a bombardment akin to a hailstorm can shake this defiled Old World.",
+        "zh": "隶属于愚人众特辖队的精锐士官，擅长以重炮撕裂敌阵，同时以厚重的大盾保护共同战斗的友伴。\n苦难将盾染成霜白，凝积的鲜血为它们镀上黑色的边缘。\n特辖队的士官知晓空洞的言语从来无法挽回那些不可避免的牺牲，唯有冰雹般的轰响，方能将这污秽的旧世界撼动。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "oprichniki_thunderblitz_gvardiya",
+      "title": {
+        "ru": "Опричник: Громовой гвардеец",
+        "en": "Oprichniki Thunderblitz Gvardiya",
+        "zh": "愚人众特辖队·雷霰近卫军"
+      },
+      "icon": "assets/icons/enemies/common_enemies/oprichniki_thunderblitz_gvardiya.webp",
+      "enemy_group": "fatui",
+      "region": "Нод-Край",
+      "game_version": "6.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Элитный офицер опричников Фатуи, специализирующийся на использовании в бою парных орудий.\nВ отличие от застрельщиков, офицеры опричников почти все - выпускники Императорской военной академии Снежной, независимо от того,\nобладали ли они привилегиями дворян или талантами простолюдинов.\nВ конце концов, все они равны пред благодетельной, любящей Царицей.\nТрадиционно только альвы могли стать элитными гвардейцами,\nно сегодня эта славная роль и звание достались офицерам опричникам - более равноправному подразделению для строительства нового мира.",
+        "en": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snezhnaya Royal Military Academy,\nwhether due to the privilege of noble birth or the rare talent to escape a common background.\nAfter all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals.\nTraditionally, only fae could become elite Gvardiya, but today,\nthis glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
+        "zh": "隶属于愚人众特辖队的精锐士官，擅长操持双铳进行战斗。\n与先遣队不同，特辖队的士官几乎皆由至冬皇家军官学院所出，无论是以贵族的身份，还是以平民的天赋。\n毕竟在女皇仁爱的理想中，两者原本便也不存在区别。\n正如传统中只能由妖精缙绅担任的「近卫军」，如今也已演变为特辖队士官的荣誉头衔，平等地授予那些构筑新世界的人们。"
+      },
+      "description": {
+        "ru": "Элитный офицер опричников Фатуи, специализирующийся на использовании в бою парных орудий.\nВ отличие от застрельщиков, офицеры опричников почти все - выпускники Императорской военной академии Снежной, независимо от того,\nобладали ли они привилегиями дворян или талантами простолюдинов.\nВ конце концов, все они равны пред благодетельной, любящей Царицей.\nТрадиционно только альвы могли стать элитными гвардейцами,\nно сегодня эта славная роль и звание достались офицерам опричникам - более равноправному подразделению для строительства нового мира.",
+        "en": "An elite officer of the Fatui Oprichniki who specializes in using twin guns in combat.\nUnlike their Skirmisher cousins, Oprichniki officers almost all hail from the Snezhnaya Royal Military Academy,\nwhether due to the privilege of noble birth or the rare talent to escape a common background.\nAfter all, neither is truly different from the other within the Tsaritsa's beneficent, loving ideals.\nTraditionally, only fae could become elite Gvardiya, but today,\nthis glorious role and title has been given to Oprichniki officers — a more equal division for the construction of a new world.",
+        "zh": "隶属于愚人众特辖队的精锐士官，擅长操持双铳进行战斗。\n与先遣队不同，特辖队的士官几乎皆由至冬皇家军官学院所出，无论是以贵族的身份，还是以平民的天赋。\n毕竟在女皇仁爱的理想中，两者原本便也不存在区别。\n正如传统中只能由妖精缙绅担任的「近卫军」，如今也已演变为特辖队士官的荣誉头衔，平等地授予那些构筑新世界的人们。"
+      },
+      "drops": [
+        {
+          "id": "oprichniki_line_trooper_warrants",
+          "title": {
+            "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+            "en": "Warrants",
+            "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "6.0",
+          "materials": [
+            {
+              "key": "tattered_warrant",
+              "title": {
+                "ru": "Потрёпанный мандат",
+                "en": "Tattered Warrant",
+                "zh": "磨损的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+            },
+            {
+              "key": "immaculate_warrant",
+              "title": {
+                "ru": "Безупречный мандат",
+                "en": "Immaculate Warrant",
+                "zh": "精致的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+            },
+            {
+              "key": "frost_etched_warrant",
+              "title": {
+                "ru": "Заиндевевший мандат",
+                "en": "Frost-Etched Warrant",
+                "zh": "霜镌的执凭"
+              },
+              "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 9,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "tattered_warrant",
+      "title": {
+        "ru": "Потрёпанный мандат",
+        "en": "Tattered Warrant",
+        "zh": "磨损的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+      "text": {
+        "ru": "Мандат, выданный опричнику Фатуи.\nНевольно задумываешься, какая решимость побудила его владельца вступить в их ряды.",
+        "en": "A warrant issued to members of the Fatui Oprichniki.\nOne wonders what resolve drove its bearer to sign up.",
+        "zh": "配发给愚人众特辖队的执凭。\n不知持有它的人，怀抱了怎样的决意加入这支队伍。"
+      }
+    },
+    {
+      "key": "immaculate_warrant",
+      "title": {
+        "ru": "Безупречный мандат",
+        "en": "Immaculate Warrant",
+        "zh": "精致的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp",
+      "text": {
+        "ru": "Мандат, выданный опричнику Фатуи.\nНевольно задумываешься, не скрывается ли за изысканным оформлением цена, уплаченная за повышение его владельца.",
+        "en": "A warrant issued to members of the Fatui Oprichniki.\nOne wonders if the exquisite styling might hide a price paid for its owner's promotion.",
+        "zh": "配发给愚人众特辖队的执凭。\n精致造型的背后，或许也有执凭的主人为了晋升所付出的代价吧。"
+      }
+    },
+    {
+      "key": "frost_etched_warrant",
+      "title": {
+        "ru": "Заиндевевший мандат",
+        "en": "Frost-Etched Warrant",
+        "zh": "霜镌的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp",
+      "text": {
+        "ru": "Мандат, выданный опричнику Фатуи.\nУкрашен кристаллом ледяного цвета - символом славы. Невольно задумываешься, какими поступками обладатель доказал свою преданность и значимость.",
+        "en": "A warrant issued to members of the Fatui Oprichniki.\nAdorned by a frost-colored crystal — a symbol of glory. One wonders what deeds its bearer must have performed to prove their loyalty and worth.",
+        "zh": "配发给愚人众特辖队的执凭。\n镶嵌着霜色晶石的执凭是荣耀的象征，想必执有凭证者已在过去的行动中证明了自己的忠诚与价值。"
+      }
+    }
+  ],
+  "material_count": 3
+}

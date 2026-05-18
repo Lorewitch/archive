@@ -1,0 +1,306 @@
+{
+  "id": "whopperflower_nectars",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp",
+  "title": {
+    "ru": "Нектар попрыгуньи / Мерцающий нектар / Элементальный нектар",
+    "en": "Nectars",
+    "zh": "骗骗花蜜 / 微光花蜜 / 原素花蜜"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Whopperflower Nectar",
+    "Shimmering Nectar",
+    "Energy Nectar",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "pyro_whopperflower",
+    "electro_whopperflower",
+    "cryo_whopperflower"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "pyro_whopperflower",
+      "title": {
+        "ru": "Пиро попрыгунья",
+        "en": "Pyro Whopperflower",
+        "zh": "炽热骗骗花"
+      },
+      "icon": "assets/icons/enemies/common_enemies/pyro_whopperflower.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Миметическое растение-монстр, которое атакует без предупреждения и использует элемент Пиро для охоты на свою добычу.\nТейват стал домом для растений, питающихся стихийными элементами. Со временем их интеллект возрос, а вместе с ним значительно выросла и потребность в питании...",
+        "en": "A mimetic plant monster that attacks without warning and uses Pyro to hunt its prey.\nThe world of Teyvat plays host to plants infused with the elements. Having gained a measure of intellect, their \"nutritional needs\"have also greatly increased...",
+        "zh": "古灵精怪的拟态植物魔物，会用火元素攻击猎物。\n提瓦特的世界中，存在着元素凭附的植物。\n因此获得了智性的它们，对「养分」\n的需求也大大提升了…"
+      },
+      "description": {
+        "ru": "Миметическое растение-монстр, которое атакует без предупреждения и использует элемент Пиро для охоты на свою добычу.\nТейват стал домом для растений, питающихся стихийными элементами. Со временем их интеллект возрос, а вместе с ним значительно выросла и потребность в питании...",
+        "en": "A mimetic plant monster that attacks without warning and uses Pyro to hunt its prey.\nThe world of Teyvat plays host to plants infused with the elements. Having gained a measure of intellect, their \"nutritional needs\"have also greatly increased...",
+        "zh": "古灵精怪的拟态植物魔物，会用火元素攻击猎物。\n提瓦特的世界中，存在着元素凭附的植物。\n因此获得了智性的它们，对「养分」\n的需求也大大提升了…"
+      },
+      "drops": [
+        {
+          "id": "whopperflower_nectars",
+          "title": {
+            "ru": "Нектар попрыгуньи / Мерцающий нектар / Элементальный нектар",
+            "en": "Nectars",
+            "zh": "骗骗花蜜 / 微光花蜜 / 原素花蜜"
+          },
+          "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "whopperflower_nectar",
+              "title": {
+                "ru": "Нектар попрыгуньи",
+                "en": "Whopperflower Nectar",
+                "zh": "骗骗花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp"
+            },
+            {
+              "key": "shimmering_nectar",
+              "title": {
+                "ru": "Мерцающий нектар",
+                "en": "Shimmering Nectar",
+                "zh": "微光花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/shimmering_nectar.webp"
+            },
+            {
+              "key": "energy_nectar",
+              "title": {
+                "ru": "Элементальный нектар",
+                "en": "Energy Nectar",
+                "zh": "原素花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/energy_nectar.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "electro_whopperflower",
+      "title": {
+        "ru": "Электро попрыгунья",
+        "en": "Electro Whopperflower",
+        "zh": "电气骗骗花"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_whopperflower.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Миметический растительный монстр, наполненный элементарной энергией, который атакует свою жертву с помощью энергии Электро.\nКогда он полон элементарной энергии, то может выпускать её из своего венчика. По этой причине некоторые учёные также пытались использовать его для других целей...",
+        "en": "Energetic mimetic Plant monsters that use Electro to attack their prey.\nWhen fully-charged with Electro energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...",
+        "zh": "元气满满的拟态植物魔物，会用雷元素攻击猎物。\n在元素能量充满的时候，可以从花冠中释放出强大的电流，因此也有学者试图将其用于一些其他方面的用途…"
+      },
+      "description": {
+        "ru": "Миметический растительный монстр, наполненный элементарной энергией, который атакует свою жертву с помощью энергии Электро.\nКогда он полон элементарной энергии, то может выпускать её из своего венчика. По этой причине некоторые учёные также пытались использовать его для других целей...",
+        "en": "Energetic mimetic Plant monsters that use Electro to attack their prey.\nWhen fully-charged with Electro energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...",
+        "zh": "元气满满的拟态植物魔物，会用雷元素攻击猎物。\n在元素能量充满的时候，可以从花冠中释放出强大的电流，因此也有学者试图将其用于一些其他方面的用途…"
+      },
+      "drops": [
+        {
+          "id": "whopperflower_nectars",
+          "title": {
+            "ru": "Нектар попрыгуньи / Мерцающий нектар / Элементальный нектар",
+            "en": "Nectars",
+            "zh": "骗骗花蜜 / 微光花蜜 / 原素花蜜"
+          },
+          "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "whopperflower_nectar",
+              "title": {
+                "ru": "Нектар попрыгуньи",
+                "en": "Whopperflower Nectar",
+                "zh": "骗骗花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp"
+            },
+            {
+              "key": "shimmering_nectar",
+              "title": {
+                "ru": "Мерцающий нектар",
+                "en": "Shimmering Nectar",
+                "zh": "微光花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/shimmering_nectar.webp"
+            },
+            {
+              "key": "energy_nectar",
+              "title": {
+                "ru": "Элементальный нектар",
+                "en": "Energy Nectar",
+                "zh": "原素花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/energy_nectar.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cryo_whopperflower",
+      "title": {
+        "ru": "Крио попрыгунья",
+        "en": "Cryo Whopperflower",
+        "zh": "冰霜骗骗花"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_whopperflower.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Миметическое растение-монстр, которое появляется из ниоткуда и использует элемент Крио в бою.\nЭти растения прячутся под поверхностью земли и устраивают засаду на ничего не подозревающую добычу.\nПо прошествии лет, при достаточном питании и благоприятной окружающей среде, они могут пустить корни и превратиться в гигантский Крио папоротник...",
+        "en": "A mimetic plant monster that appears out of nowhere and uses Cryo in combat.\nThese plants lurk under the surface and ambush unsuspecting prey.\nWith the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant Cryo Regisvine...",
+        "zh": "神出鬼没的拟态植物魔物，会利用冰元素战斗。\n有时会隐藏在地表下，捕猎浑然不觉的猎物。\n如果有足够的年月、养分与环境，或许能扎根某处，长成巨大的急冻树…"
+      },
+      "description": {
+        "ru": "Миметическое растение-монстр, которое появляется из ниоткуда и использует элемент Крио в бою.\nЭти растения прячутся под поверхностью земли и устраивают засаду на ничего не подозревающую добычу.\nПо прошествии лет, при достаточном питании и благоприятной окружающей среде, они могут пустить корни и превратиться в гигантский Крио папоротник...",
+        "en": "A mimetic plant monster that appears out of nowhere and uses Cryo in combat.\nThese plants lurk under the surface and ambush unsuspecting prey.\nWith the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant Cryo Regisvine...",
+        "zh": "神出鬼没的拟态植物魔物，会利用冰元素战斗。\n有时会隐藏在地表下，捕猎浑然不觉的猎物。\n如果有足够的年月、养分与环境，或许能扎根某处，长成巨大的急冻树…"
+      },
+      "drops": [
+        {
+          "id": "whopperflower_nectars",
+          "title": {
+            "ru": "Нектар попрыгуньи / Мерцающий нектар / Элементальный нектар",
+            "en": "Nectars",
+            "zh": "骗骗花蜜 / 微光花蜜 / 原素花蜜"
+          },
+          "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "whopperflower_nectar",
+              "title": {
+                "ru": "Нектар попрыгуньи",
+                "en": "Whopperflower Nectar",
+                "zh": "骗骗花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp"
+            },
+            {
+              "key": "shimmering_nectar",
+              "title": {
+                "ru": "Мерцающий нектар",
+                "en": "Shimmering Nectar",
+                "zh": "微光花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/shimmering_nectar.webp"
+            },
+            {
+              "key": "energy_nectar",
+              "title": {
+                "ru": "Элементальный нектар",
+                "en": "Energy Nectar",
+                "zh": "原素花蜜"
+              },
+              "icon": "assets/icons/items/common_enemies/energy_nectar.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 3,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "whopperflower_nectar",
+      "title": {
+        "ru": "Нектар попрыгуньи",
+        "en": "Whopperflower Nectar",
+        "zh": "骗骗花蜜"
+      },
+      "icon": "assets/icons/items/common_enemies/whopperflower_nectar.webp",
+      "text": {
+        "ru": "Нектар из цветов попрыгуньи с остаточным содержанием элементов.\nВкус нектара имеет нотки цветка-сахарка.",
+        "en": "Nectar extracted from the stamen of a Whopperflower that contains trace amounts of elemental energy.\nThe taste of the nectar has a hint of Sweet Flower in it.",
+        "zh": "从花蕊中提取出的花蜜，其中含有少量元素。\n尝起来和甜甜花的味道有些微妙地相似。"
+      }
+    },
+    {
+      "key": "shimmering_nectar",
+      "title": {
+        "ru": "Мерцающий нектар",
+        "en": "Shimmering Nectar",
+        "zh": "微光花蜜"
+      },
+      "icon": "assets/icons/items/common_enemies/shimmering_nectar.webp",
+      "text": {
+        "ru": "Нектар, наполненный чистыми элементами.\nУчёные сходятся во мнении, что попрыгунья является высшей формой жизни среди элементальных растений, но объяснения их хищному поведению у них ещё нет.",
+        "en": "Nectar that is full of pure elemental energy.\nScholars generally concur that Whopperflowers are advanced life forms among the elemental plants, but there has yet to be a satisfactory explanation\nregarding their predatory habits.",
+        "zh": "元素纯度较高的花蜜。\n学界一般认为骗骗花是元素植物的高级生命形态，但始终无法解明它的掠食习性。"
+      }
+    },
+    {
+      "key": "energy_nectar",
+      "title": {
+        "ru": "Элементальный нектар",
+        "en": "Energy Nectar",
+        "zh": "原素花蜜"
+      },
+      "icon": "assets/icons/items/common_enemies/energy_nectar.webp",
+      "text": {
+        "ru": "Густой липкий мёд, наполненный энергией.\nПопрыгунья обманывает свою жертву и съедает её для того, чтобы эволюционировать в более сильную и чистую форму жизни.",
+        "en": "A thick and sticky honey that is full of energy.\nThe Whopperflower hunts by tricking its prey, a process it uses to possibly evolve into a more powerful and pure form.",
+        "zh": "饱含能量的黏稠蜜汁。\n骗骗花欺瞒猎物是为了狩猎，而狩猎进食或许是为了进化成某种更强大、更纯粹的姿态吧…"
+      }
+    }
+  ],
+  "material_count": 3
+}

@@ -31,7 +31,50 @@
     "en": "An Abyssal creature that slips through rifts in the hidden depths, crossing over from beyond this world.\nLong ago, an ancient philosopher described humans as \"featherless bipeds,\"using that simple phrase to distinguish mankind from animals and assert human superiority.\nIn some sense, these deathless wanderers of the silent cosmic void, scaled instead of feathered, and using their hooked beaks to draw in biomass from world to world,\nmight actually also match that same simplistic definition of \"human.\"",
     "zh": "穿过深黯的裂隙，自异界侵入此世的深渊魔物。\n曾有古代的贤哲将人类定义为无羽毛的二足走兽，意图以此区分人与无智性的野兽，进而证明灵长的优越性。\n从某种意义上来说，这些逡巡于寂灭的星海间、身披鳞片而非羽毛的不灭之物，这些如垂钓者般投下钩喙、攫噬各个世界生物质的无名钓客，或许同样符合这般粗浅的「人」\n的定义。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "fisher_of_hidden_depths_of_the_deep_shadows",
+      "title": {
+        "ru": "Расколотый глаз глубокой тьмы / Аномальное ядро глубокой тьмы / Клюв глубокой тьмы",
+        "en": "Of The Deep Shadows",
+        "zh": "深黯的裂眼 / 深黯的怪核 / 深黯的钩喙"
+      },
+      "icon": "assets/icons/items/common_enemies/fractured_eye_of_the_deep_shadow.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.3",
+      "materials": [
+        {
+          "key": "fractured_eye_of_the_deep_shadow",
+          "title": {
+            "ru": "Расколотый глаз глубокой тьмы",
+            "en": "Fractured Eye of the Deep Shadow",
+            "zh": "深黯的裂眼"
+          },
+          "icon": "assets/icons/items/common_enemies/fractured_eye_of_the_deep_shadow.webp"
+        },
+        {
+          "key": "aberrant_core_of_the_deep_shadow",
+          "title": {
+            "ru": "Аномальное ядро глубокой тьмы",
+            "en": "Aberrant Core of the Deep Shadow",
+            "zh": "深黯的怪核"
+          },
+          "icon": "assets/icons/items/common_enemies/aberrant_core_of_the_deep_shadow.webp"
+        },
+        {
+          "key": "hooked_beak_of_the_deep_shadow",
+          "title": {
+            "ru": "Клюв глубокой тьмы",
+            "en": "Hooked Beak of the Deep Shadow",
+            "zh": "深黯的钩喙"
+          },
+          "icon": "assets/icons/items/common_enemies/hooked_beak_of_the_deep_shadow.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

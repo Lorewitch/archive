@@ -31,7 +31,50 @@
     "en": "One of the earliest new-type clockwork meka to be made.\nIt is said that during his time at the Institute of Natural Philosophy, the Lord-Artificer Guillotin created machines that could simulate genuine intelligence.\nThough he never openly admitted it, this rumor nonetheless spurred on subsequent generations of ambitious engineers.\nDecades ago, one of them announced that they had created a machine that not only possessed basic thinking abilities but could also read human emotions,\nbut in the end the results went unacknowledged.",
     "zh": "最早设计制造的新式发条机关机械之一。\n据说「奇械公」\n吉约丹在自然哲学学院的时期，曾经做出了能够真正模拟智慧思考的机械。\n尽管他从未正式承认过这种说法，这一传奇仍在日后激起了许多工程师的斗志。\n数十年前曾有人宣布创造了具有基础思考能力，并能够解读人类情感的发条机关，但最后相关的成果并未得到认同。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "recon_log_mek_gears",
+      "title": {
+        "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+        "en": "Gears",
+        "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "meshing_gear",
+          "title": {
+            "ru": "Сцепляющаяся шестерня",
+            "en": "Meshing Gear",
+            "zh": "啮合齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+        },
+        {
+          "key": "mechanical_spur_gear",
+          "title": {
+            "ru": "Шестерня механизма",
+            "en": "Mechanical Spur Gear",
+            "zh": "机关正齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+        },
+        {
+          "key": "artificed_dynamic_gear",
+          "title": {
+            "ru": "Изощрённая динамическая шестерня",
+            "en": "Artificed Dynamic Gear",
+            "zh": "奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

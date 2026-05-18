@@ -31,7 +31,92 @@
     "en": "Servants of the Abyss Order that use Hydro in combat.\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics.\nThey shall bring preordained damnation upon the foolish masses.",
     "zh": "利用水元素战斗的魔物，隶属于「深渊教团」。\n这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_herald_wicked_torrents_statuettes",
+      "title": {
+        "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+        "en": "Statuettes",
+        "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.6",
+      "materials": [
+        {
+          "key": "gloomy_statuette",
+          "title": {
+            "ru": "Мрачная статуэтка",
+            "en": "Gloomy Statuette",
+            "zh": "晦暗刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+        },
+        {
+          "key": "dark_statuette",
+          "title": {
+            "ru": "Тёмная статуэтка",
+            "en": "Dark Statuette",
+            "zh": "夤夜刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+        },
+        {
+          "key": "deathly_statuette",
+          "title": {
+            "ru": "Смертельная статуэтка",
+            "en": "Deathly Statuette",
+            "zh": "幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+        }
+      ],
+      "material_count": 3
+    },
+    {
+      "id": "abyss_mage_ley_lines",
+      "title": {
+        "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+        "en": "Ley Lines",
+        "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+      },
+      "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "dead_ley_line_branch",
+          "title": {
+            "ru": "Ветви артерий земли",
+            "en": "Dead Ley Line Branch",
+            "zh": "地脉的旧枝"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+        },
+        {
+          "key": "dead_ley_line_leaves",
+          "title": {
+            "ru": "Листья артерий земли",
+            "en": "Dead Ley Line Leaves",
+            "zh": "地脉的枯叶"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+        },
+        {
+          "key": "ley_line_sprout",
+          "title": {
+            "ru": "Ростки артерий земли",
+            "en": "Ley Line Sprout",
+            "zh": "地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

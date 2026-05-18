@@ -31,7 +31,50 @@
     "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThe Eremite tradition is to use bows to engage their foes, but ever since the Akademiya permitted them to buy crossbows at the bazaars,\nonly the proudest shooters would still use bows,\nwhich take many years of practice to master.",
     "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n传统上，镀金旅团其实更习惯使用弓箭对付敌人。\n不过自从教令院允许他们在巴扎采购机弩之后，就只有最骄傲的射手才会在使用弓箭这种需要常年训练的武器罢了。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "eremite_axe_vanguard_reds",
+      "title": {
+        "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+        "en": "Reds",
+        "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.0",
+      "materials": [
+        {
+          "key": "faded_red_satin",
+          "title": {
+            "ru": "Выцветший красный шёлк",
+            "en": "Faded Red Satin",
+            "zh": "褪色红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+        },
+        {
+          "key": "trimmed_red_silk",
+          "title": {
+            "ru": "Окаймлённый красный шёлк",
+            "en": "Trimmed Red Silk",
+            "zh": "镶边红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+        },
+        {
+          "key": "rich_red_brocade",
+          "title": {
+            "ru": "Златотканый красный шёлк",
+            "en": "Rich Red Brocade",
+            "zh": "织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

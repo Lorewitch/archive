@@ -31,7 +31,50 @@
     "en": "An aquatic creature that hunts by firing watery projectiles.\nThe ability to fire water bombs is of course not uncommon among Fontemer Aberrants.\nBut for your average careless diver, most of whom are tourists, a high-pressure water current of this kind can pose a significant threat.\nThe thickness of diving equipment is therefore necessary for two reasons – firstly, to resist the pressure of the water itself, but secondly,\nto protect against the attacks of Fontemer Aberrants.",
     "zh": "通过发射水弹进行狩猎的水生动物。\n当然了，发射水弹在原海异种当中并不是稀罕的能力，但对以游客为首的大意潜水者而言，这种高压水流能够造成不小的伤害。\n潜水护具的厚重是为了两个原因：抵抗水下的压力，以及抵御原海异种的攻击。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "blubberbeast_pearls",
+      "title": {
+        "ru": "Жемчужина иноморья / Обломок из иноморья / Ксенохромный кристалл",
+        "en": "Pearls",
+        "zh": "异海凝珠 / 异海之块 / 异色结晶石"
+      },
+      "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "transoceanic_pearl",
+          "title": {
+            "ru": "Жемчужина иноморья",
+            "en": "Transoceanic Pearl",
+            "zh": "异海凝珠"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_pearl.webp"
+        },
+        {
+          "key": "transoceanic_chunk",
+          "title": {
+            "ru": "Обломок из иноморья",
+            "en": "Transoceanic Chunk",
+            "zh": "异海之块"
+          },
+          "icon": "assets/icons/items/common_enemies/transoceanic_chunk.webp"
+        },
+        {
+          "key": "xenochromatic_crystal",
+          "title": {
+            "ru": "Ксенохромный кристалл",
+            "en": "Xenochromatic Crystal",
+            "zh": "异色结晶石"
+          },
+          "icon": "assets/icons/items/common_enemies/xenochromatic_crystal.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

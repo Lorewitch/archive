@@ -31,7 +31,50 @@
     "en": "A sturdily-built skirmisher armed with an Electro-powered war-hammer.\nAs a Fatui soldier, one has access to munificent resources: salaries, armaments, and supplies.\nBut at the same time, it also means much time away from home and family and putting one's life in the hands of comrades one has never met.",
     "zh": "体格健壮的先遣队士兵，装备了附有雷元素的战锤。\n成为愚人众的军人意味着优渥的资源：军饷、武装与物资。\n但与此同时，也意味着远离故土与亲眷，将余命交给过去不曾谋面的战友。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+      "title": {
+        "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+        "en": "Insignias",
+        "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "recruits_insignia",
+          "title": {
+            "ru": "Шеврон рядового",
+            "en": "Recruit's Insignia",
+            "zh": "新兵的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+        },
+        {
+          "key": "sergeants_insignia",
+          "title": {
+            "ru": "Шеврон сержанта",
+            "en": "Sergeant's Insignia",
+            "zh": "士官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+        },
+        {
+          "key": "lieutenants_insignia",
+          "title": {
+            "ru": "Шеврон офицера",
+            "en": "Lieutenant's Insignia",
+            "zh": "尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

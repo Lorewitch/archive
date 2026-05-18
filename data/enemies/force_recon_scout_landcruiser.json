@@ -31,7 +31,50 @@
     "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"These walking Landcruisers with bipedal structures are often used as \"scouts,\"for they are able to quickly traverse rough terrain and\nreach key positions to seize the initiative for their allies.\nEquipped with Force Recon armaments, this Landcruiser can not only serve as a forward scout for the main force,\nbut can also exploit openings and actively attack the enemy where their lines are weakest,\nthus playing a similar role to that of traditional cavalry...",
     "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有双足型行走机构的巡陆艇通常被作为「斥候」\n运用，它们能够快速翻越崎岖地形，抵达关键阵位，为部队占据主动权。\n搭载强侦型武装后，这型巡陆艇不仅能担任主力部队前方的眼哨，还拥有了抓住战机，主动打击敌军薄弱部分的能力，扮演着类似部分骑兵的角色…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "close_combat_storm_landcruiser_drive_shafts",
+      "title": {
+        "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+        "en": "Drive Shafts",
+        "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+      },
+      "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "broken_drive_shaft",
+          "title": {
+            "ru": "Сломанный вал",
+            "en": "Broken Drive Shaft",
+            "zh": "毁损机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+        },
+        {
+          "key": "reinforced_drive_shaft",
+          "title": {
+            "ru": "Усиленный вал",
+            "en": "Reinforced Drive Shaft",
+            "zh": "加固机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+        },
+        {
+          "key": "precision_drive_shaft",
+          "title": {
+            "ru": "Высокоточный вал",
+            "en": "Precision Drive Shaft",
+            "zh": "精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

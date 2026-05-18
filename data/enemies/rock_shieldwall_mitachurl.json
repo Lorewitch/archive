@@ -73,6 +73,48 @@
         }
       ],
       "material_count": 3
+    },
+    {
+      "id": "wooden_shieldwall_mitachurl_horns",
+      "title": {
+        "ru": "Тяжёлый рог / Чёрный бронзовый рог / Чёрный кристаллический рог",
+        "en": "Horns",
+        "zh": "沉重号角 / 黑铜号角 / 黑晶号角"
+      },
+      "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "heavy_horn",
+          "title": {
+            "ru": "Тяжёлый рог",
+            "en": "Heavy Horn",
+            "zh": "沉重号角"
+          },
+          "icon": "assets/icons/items/common_enemies/heavy_horn.webp"
+        },
+        {
+          "key": "black_bronze_horn",
+          "title": {
+            "ru": "Чёрный бронзовый рог",
+            "en": "Black Bronze Horn",
+            "zh": "黑铜号角"
+          },
+          "icon": "assets/icons/items/common_enemies/black_bronze_horn.webp"
+        },
+        {
+          "key": "black_crystal_horn",
+          "title": {
+            "ru": "Чёрный кристаллический рог",
+            "en": "Black Crystal Horn",
+            "zh": "黑晶号角"
+          },
+          "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp"
+        }
+      ],
+      "material_count": 3
     }
   ],
   "notes": {

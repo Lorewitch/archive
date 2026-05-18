@@ -31,7 +31,50 @@
     "en": "A clockwork meka adapted from the Cal.\nScherbius type.\nUnfortunately, aside from its ability to attack, it has no other capabilities.\nClockwork meka based on annihilation energy normally produce their energy by utilizing Repeaters composed of special crystals to refine ousia and pneuma from Fontaine's\nenvironment.\nBut outside of Fontaine, they can use pre-prepared Energy Blocks to move over short distances for short periods of time.\nThe difference can be observed from the shape of the crystal components on the meka.",
     "zh": "基于「谢尔比乌斯式」，进行了调整的发条机关。\n很遗憾，并不具备攻击以外的能力。\n基于湮灭能量的发条机关通常会利用特殊晶体构成的中继器从枫丹的环境中提炼荒性与芒性产生能量，但在枫丹以外的区域也能通过预先准备的能量块进行短程短时的行动。\n这两者的区别体现在机关上晶体部件的形状。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "recon_log_mek_gears",
+      "title": {
+        "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+        "en": "Gears",
+        "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "meshing_gear",
+          "title": {
+            "ru": "Сцепляющаяся шестерня",
+            "en": "Meshing Gear",
+            "zh": "啮合齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+        },
+        {
+          "key": "mechanical_spur_gear",
+          "title": {
+            "ru": "Шестерня механизма",
+            "en": "Mechanical Spur Gear",
+            "zh": "机关正齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+        },
+        {
+          "key": "artificed_dynamic_gear",
+          "title": {
+            "ru": "Изощрённая динамическая шестерня",
+            "en": "Artificed Dynamic Gear",
+            "zh": "奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

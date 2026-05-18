@@ -31,7 +31,50 @@
     "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\"Gold\"classified them as \"Alfisol.\"The previous eras, when giant monstrous beasts descended,\nlarge swarms of these hounds would go before them to deliquesce the borders of the world and open the way.",
     "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n将其命名为「淋溶」。\n曾经的年代里，巨大的魔兽降临之时，会有大量猎犬提前显现，溶解世界的边界，打开通道。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "rockfond_rifthound_concealeds",
+      "title": {
+        "ru": "Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь",
+        "en": "Concealeds",
+        "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+      },
+      "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.2",
+      "materials": [
+        {
+          "key": "concealed_claw",
+          "title": {
+            "ru": "Скрытый коготь",
+            "en": "Concealed Claw",
+            "zh": "隐兽指爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_claw.webp"
+        },
+        {
+          "key": "concealed_unguis",
+          "title": {
+            "ru": "Скрытый заточенный коготь",
+            "en": "Concealed Unguis",
+            "zh": "隐兽利爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_unguis.webp"
+        },
+        {
+          "key": "concealed_talon",
+          "title": {
+            "ru": "Скрытый дьявольский коготь",
+            "en": "Concealed Talon",
+            "zh": "隐兽鬼爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_talon.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

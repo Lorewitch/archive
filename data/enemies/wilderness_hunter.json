@@ -31,7 +31,50 @@
     "en": "A ghoul that stalks the frozen wilderness when the pitch-dark mist rolls in. Their emergence presages worse calamities to come.\nMany great champions of a lost ancient kingdom lie buried beneath the frozen northlands.\nThough the remnants of the past have been long wiped clean, these noble spirits yet defend their golden homeland.\nAwakened by Abyssal taint, these warriors now see all who trespass as prey.",
     "zh": "伴随着漆黑的迷雾，徘徊在荒原冻土上的幽魂。\n他们的出现似乎预兆着更可怕的灾难。\n在北陆茫茫的冻土之下，掩埋着失落古国的伟大战士。\n即便存在过的痕迹早已被抹去，勇士们的英魂依旧守护着黄金之国的故土。\n如今这些灵魂因深渊的污染而苏醒，所有敢于入侵之人都会被他们当作猎物。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "wilderness_exile_mistshrouds",
+      "title": {
+        "ru": "Туманное воплощение / Туманная пластина / Туманный шлем",
+        "en": "Mistshrouds",
+        "zh": "幽雾化形 / 幽雾片甲 / 幽雾兜盔"
+      },
+      "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "mistshroud_manifestation",
+          "title": {
+            "ru": "Туманное воплощение",
+            "en": "Mistshroud Manifestation",
+            "zh": "幽雾化形"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_manifestation.webp"
+        },
+        {
+          "key": "mistshroud_plate",
+          "title": {
+            "ru": "Туманная пластина",
+            "en": "Mistshroud Plate",
+            "zh": "幽雾片甲"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_plate.webp"
+        },
+        {
+          "key": "mistshroud_helmet",
+          "title": {
+            "ru": "Туманный шлем",
+            "en": "Mistshroud Helmet",
+            "zh": "幽雾兜盔"
+          },
+          "icon": "assets/icons/items/common_enemies/mistshroud_helmet.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

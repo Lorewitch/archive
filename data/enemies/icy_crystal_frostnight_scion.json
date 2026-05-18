@@ -31,7 +31,50 @@
     "en": "An elegant elemental life form that possesses immense elemental affinity. The long years have exposed it to high concentrations of Cryo, resulting in its present form.\nIt is said that this entity is closest to the original form of a Frostnight Scion.\nIt will use icy mists and crystals to set up redoubtable walls, but perhaps it does this only to separate the flawless primeval light from the world that lies beneath the moon.\nIn still-extant prayers of the far north, it was born from the Frost Moon's blessings, symbolizing the pure source and the first radiance.\nPerhaps this is why it finds the tainting of its pale purity with the seven colors of heavenly light unbearable, thus rejecting all life that draws too close.",
     "zh": "体态瑰美优雅的元素生命，具备极强的元素亲和力。\n在漫长的岁月中沐染着高浓度的冰元素，最终演化成了如今的形貌。\n据说这是最接近霜夜灵嗣原本姿态的模样。\n它们用霜雾与冰晶筑起坚壁，也许只是为了将无瑕的源光与月下的世界隔绝开。\n在终北遗存的祷歌中，它们是受霜月祝福而诞生的生命，象征着纯然的源质与肇始的辉光。\n或许正是因为如此，它们才会因无法忍受自身的纯白被染上天光的七色，而开始拒斥一切过于接近它们的生灵吧。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "blazing_brilliance_frostnight_scion_frostnights",
+      "title": {
+        "ru": "Мерцание морозной ночи / Сияние морозной ночи / Слава морозной ночи",
+        "en": "Frostnights",
+        "zh": "霜夜的残照 / 霜夜的柔辉 / 霜夜的煌荣"
+      },
+      "icon": "assets/icons/items/common_enemies/frostnights_glimmer.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "frostnights_glimmer",
+          "title": {
+            "ru": "Мерцание морозной ночи",
+            "en": "Frostnight's Glimmer",
+            "zh": "霜夜的残照"
+          },
+          "icon": "assets/icons/items/common_enemies/frostnights_glimmer.webp"
+        },
+        {
+          "key": "frostnights_glow",
+          "title": {
+            "ru": "Сияние морозной ночи",
+            "en": "Frostnight's Glow",
+            "zh": "霜夜的柔辉"
+          },
+          "icon": "assets/icons/items/common_enemies/frostnights_glow.webp"
+        },
+        {
+          "key": "frostnights_glory",
+          "title": {
+            "ru": "Слава морозной ночи",
+            "en": "Frostnight's Glory",
+            "zh": "霜夜的煌荣"
+          },
+          "icon": "assets/icons/items/common_enemies/frostnights_glory.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

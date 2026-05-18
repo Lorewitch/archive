@@ -31,7 +31,50 @@
     "en": "A type of large clockwork meka which also has immeasurable value when utilized in building construction and archeological excavation.\nIts name comes from an engineer employed by Callas during the construction of the Clementine Line.\nWith Callas' financial backing, this engineer built the legendary \"Golden Vessel\"— a gigantic piece of construction machinery which was used to dig the Poisson Tunnel.\nOnce the job was complete, this type of clockwork meka was designed with a similar structure but reduced to a smaller scale.",
     "zh": "在建筑施工、考古发掘上同样有不可估量价值的大型发条机关，其名来自修建克莱门汀线时卡雷斯雇佣的工程师。\n这名工程师在卡雷斯的资助下为打通白淞隧道建造了颇具传奇性的「黄金乐船」\n巨型工程机械，并在竣工后据此设计了这类结构相似，但尺寸缩小的发条机关。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "recon_log_mek_gears",
+      "title": {
+        "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+        "en": "Gears",
+        "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "meshing_gear",
+          "title": {
+            "ru": "Сцепляющаяся шестерня",
+            "en": "Meshing Gear",
+            "zh": "啮合齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+        },
+        {
+          "key": "mechanical_spur_gear",
+          "title": {
+            "ru": "Шестерня механизма",
+            "en": "Mechanical Spur Gear",
+            "zh": "机关正齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+        },
+        {
+          "key": "artificed_dynamic_gear",
+          "title": {
+            "ru": "Изощрённая динамическая шестерня",
+            "en": "Artificed Dynamic Gear",
+            "zh": "奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

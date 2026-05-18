@@ -31,7 +31,50 @@
     "en": "A Fatui mage who can command a Hydro Mirror in battle. Her posture is highly dignified, as if she is one who worships a god.\nThe Hydro Mirror she manipulates lures those enchanted by her to willingly fall for her illusion.\nNothing seems to escape her ears.\nNo one knows what those covered eyes have seen, nor what kind of obsession might be reflected in them...",
     "zh": "操纵着水镜进行战斗，有着彷如侍奉神明般的端庄姿态的愚人众仕女。\n优雅自如的操控着水镜的力量，让为之所炫的人，心甘情愿的坠入她的幻境。\n似乎一切都逃不过她的耳朵。\n被蒙住的双眼，不知见识过什么景象，也不知其中会倒映出怎样的执妄…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "mirror_maiden_prisms",
+      "title": {
+        "ru": "Тёмная призма / Кристальная призма / Поляризационная призма",
+        "en": "Prisms",
+        "zh": "黯淡棱镜 / 水晶棱镜 / 偏光棱镜"
+      },
+      "icon": "assets/icons/items/common_enemies/dismal_prism.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.0",
+      "materials": [
+        {
+          "key": "dismal_prism",
+          "title": {
+            "ru": "Тёмная призма",
+            "en": "Dismal Prism",
+            "zh": "黯淡棱镜"
+          },
+          "icon": "assets/icons/items/common_enemies/dismal_prism.webp"
+        },
+        {
+          "key": "crystal_prism",
+          "title": {
+            "ru": "Кристальная призма",
+            "en": "Crystal Prism",
+            "zh": "水晶棱镜"
+          },
+          "icon": "assets/icons/items/common_enemies/crystal_prism.webp"
+        },
+        {
+          "key": "polarizing_prism",
+          "title": {
+            "ru": "Поляризационная призма",
+            "en": "Polarizing Prism",
+            "zh": "偏光棱镜"
+          },
+          "icon": "assets/icons/items/common_enemies/polarizing_prism.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "The Collective of Plenty believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nAccording to tribal legend, the Wayob has taken on countless forms.\nIn the dim, pre-dawn darkness, where faces were hidden in shadows, the Wayob would wrestle with the mightiest tribal warriors, with neither side prevailing.\nThe Collective of Plenty believe their Wayob has the power to control thunder and speed, and can bestow abundant harvests upon the land.",
     "zh": "「沃陆之邦」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n在「沃陆之邦」\n的部族的传说里，「大灵」\n曾经幻化过种种样貌，在晦暗而看不清相互面目的黎明之前，与部族里有名的大力士角力，不过往往以两者相持不下为结尾告终。\n「沃陆之邦」\n的人相信他们的「大灵」\n拥有控制雷霆与速度的力量，能够为土地带来富饶的物产。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+      "title": {
+        "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+        "en": "Of A Wills",
+        "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+      },
+      "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "shard_of_a_shattered_will",
+          "title": {
+            "ru": "Осколок разбитой воли",
+            "en": "Shard of a Shattered Will",
+            "zh": "意志破碎的残片"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+        },
+        {
+          "key": "locus_of_a_clear_will",
+          "title": {
+            "ru": "Образ ясной воли",
+            "en": "Locus of a Clear Will",
+            "zh": "意志明晰的寄偶"
+          },
+          "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+        },
+        {
+          "key": "sigil_of_a_striding_will",
+          "title": {
+            "ru": "Талисман странствующей воли",
+            "en": "Sigil of a Striding Will",
+            "zh": "意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

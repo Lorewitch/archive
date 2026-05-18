@@ -1,0 +1,954 @@
+{
+  "id": "eremite_axe_vanguard_reds",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+  "title": {
+    "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+    "en": "Reds",
+    "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  "region": "Сумеру",
+  "rarity": null,
+  "game_version": "3.0",
+  "tags": [
+    "Faded Red Satin",
+    "Trimmed Red Silk",
+    "Rich Red Brocade",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "eremite_axe_vanguard",
+    "eremite_crossbow",
+    "eremite_ravenbeak_halberdier",
+    "eremite_linebreaker",
+    "eremite_sword_dancer",
+    "eremite_desert_clearwater",
+    "eremite_sunfrost",
+    "eremite_daythunder",
+    "eremite_galehunter",
+    "eremite_stone_enchanter",
+    "eremite_scorching_loremaster",
+    "eremite_floral_ring_dancer"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "eremite_axe_vanguard",
+      "title": {
+        "ru": "Топорник Пустынников",
+        "en": "Eremite Axe Vanguard",
+        "zh": "镀金旅团·阵前斧手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_axe_vanguard.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nЭти женщины с топорами без страха вступают в бой, создавая проходы для товарищей.\nВ родном краю они порой сидят у костра и поют баллады о заблудших в пустыне душах.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThese ax-wielding ladies often wade into the slaughter without fear, creating openings for their comrades to capitalize on.\nThey will sometimes sit by the fireside in their sand-swept homeland and play songs that were lost in that golden sea.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n使用手斧的女战士在厮杀时往往一往无前，以此打乱敌人的阵脚，为战友创造机会。\n在沙漠的故乡里，她们有时会坐在篝火边，弹起那些失落在沙海中的悠远歌谣。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nЭти женщины с топорами без страха вступают в бой, создавая проходы для товарищей.\nВ родном краю они порой сидят у костра и поют баллады о заблудших в пустыне душах.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThese ax-wielding ladies often wade into the slaughter without fear, creating openings for their comrades to capitalize on.\nThey will sometimes sit by the fireside in their sand-swept homeland and play songs that were lost in that golden sea.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n使用手斧的女战士在厮杀时往往一往无前，以此打乱敌人的阵脚，为战友创造机会。\n在沙漠的故乡里，她们有时会坐在篝火边，弹起那些失落在沙海中的悠远歌谣。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_crossbow",
+      "title": {
+        "ru": "Арбалетчик Пустынников",
+        "en": "Eremite Crossbow",
+        "zh": "镀金旅团·机弩兵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_crossbow.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nТрадиционно Пустынники используют лук для поражения врагов.\nОднако с тех пор, как Академия разрешила им покупать арбалеты на базарах, только самые гордые члены этой организации продолжают использовать лук,\nдля мастерского владения которым требуются долгие годы практики.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThe Eremite tradition is to use bows to engage their foes, but ever since the Akademiya permitted them to buy crossbows at the bazaars,\nonly the proudest shooters would still use bows,\nwhich take many years of practice to master.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n传统上，镀金旅团其实更习惯使用弓箭对付敌人。\n不过自从教令院允许他们在巴扎采购机弩之后，就只有最骄傲的射手才会在使用弓箭这种需要常年训练的武器罢了。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nТрадиционно Пустынники используют лук для поражения врагов.\nОднако с тех пор, как Академия разрешила им покупать арбалеты на базарах, только самые гордые члены этой организации продолжают использовать лук,\nдля мастерского владения которым требуются долгие годы практики.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThe Eremite tradition is to use bows to engage their foes, but ever since the Akademiya permitted them to buy crossbows at the bazaars,\nonly the proudest shooters would still use bows,\nwhich take many years of practice to master.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n传统上，镀金旅团其实更习惯使用弓箭对付敌人。\n不过自从教令院允许他们在巴扎采购机弩之后，就只有最骄傲的射手才会在使用弓箭这种需要常年训练的武器罢了。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_ravenbeak_halberdier",
+      "title": {
+        "ru": "Алебардщик Пустынников",
+        "en": "Eremite Ravenbeak Halberdier",
+        "zh": "镀金旅团·鸦喙戟手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_ravenbeak_halberdier.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nВ бою эти воины используют алебарды.\nГоворят, что аскеты, служившие божеству пустыни, носили их как символ своего служения.\nКогда-то у этого оружия было истинное имя, но оно давным-давно затерялось в песках.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThese warriors use Ravenbeak Halberds in battle.\nIt is said that ascetics who served the deity of the desert would carry these halberds as symbols of their office.\nThese weapons once had a true name, but it has long been lost to the desert sands.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n使用名为「鸦喙戟」\n的武器进行战斗。\n传说在古代，侍奉沙漠神祇的隐士会携带这种战戟作为身份的象征。\n这种武器的真名已经失落在沙海中。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nВ бою эти воины используют алебарды.\nГоворят, что аскеты, служившие божеству пустыни, носили их как символ своего служения.\nКогда-то у этого оружия было истинное имя, но оно давным-давно затерялось в песках.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThese warriors use Ravenbeak Halberds in battle.\nIt is said that ascetics who served the deity of the desert would carry these halberds as symbols of their office.\nThese weapons once had a true name, but it has long been lost to the desert sands.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n使用名为「鸦喙戟」\n的武器进行战斗。\n传说在古代，侍奉沙漠神祇的隐士会携带这种战戟作为身份的象征。\n这种武器的真名已经失落在沙海中。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_linebreaker",
+      "title": {
+        "ru": "Штурмовик Пустынников",
+        "en": "Eremite Linebreaker",
+        "zh": "镀金旅团·破阵者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_linebreaker.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nМастер боевых искусств, сражающийся с помощью уникального кинжала.\nОн присоединился к Пустынникам в поисках более сильных врагов.\nВ отличие от других наёмников, сражается не ради награды, а чтобы совершенствовать технику боя.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThis warrior wields a unique fist blade and joined the Eremites to seek out stronger foes.\nRather than the pay, these warriors fight more to attain greater martial might.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n装备了独特拳刃的武道家，为了寻找更多更强的对手而加入了镀金旅团。\n战斗与其说是为了报酬，不如说是为了追求更高的武技。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nМастер боевых искусств, сражающийся с помощью уникального кинжала.\nОн присоединился к Пустынникам в поисках более сильных врагов.\nВ отличие от других наёмников, сражается не ради награды, а чтобы совершенствовать технику боя.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThis warrior wields a unique fist blade and joined the Eremites to seek out stronger foes.\nRather than the pay, these warriors fight more to attain greater martial might.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n装备了独特拳刃的武道家，为了寻找更多更强的对手而加入了镀金旅团。\n战斗与其说是为了报酬，不如说是为了追求更高的武技。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_sword_dancer",
+      "title": {
+        "ru": "Мечник Пустынников",
+        "en": "Eremite Sword-Dancer",
+        "zh": "镀金旅团·刀舞者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_sword_dancer.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nЭтот воин пустыни известен своим умением сражаться большим изогнутым клинком.\nЕго боевая техника – это не только пережиток исчезнувшей цивилизации, но и вдохновение для акробатических выступлений, которые так популярны сегодня во многих странах.\nТакое оружие было очень распространено в древние времена среди воинов, сражавшихся верхом на лошади.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThis desert warrior wields a large curved blade in battle.\nThe skills such fighters boast of have been passed down since the days when their now-lost civilization was still extant, and are not only techniques to be used in battle,\nbut also serve well as a performing art popular in various lands.\nIt is said that this sword art was once practiced from horseback.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n擅长使用大弯刀的沙漠武士。\n其所掌握的传承自失落文明的刀法不仅是一种战技，由其发展而来的刀舞更成为了在各国都广泛受欢迎的杂技表演。\n这种大弯刀据说在古时是用于骑乘战斗的。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nЭтот воин пустыни известен своим умением сражаться большим изогнутым клинком.\nЕго боевая техника – это не только пережиток исчезнувшей цивилизации, но и вдохновение для акробатических выступлений, которые так популярны сегодня во многих странах.\nТакое оружие было очень распространено в древние времена среди воинов, сражавшихся верхом на лошади.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThis desert warrior wields a large curved blade in battle.\nThe skills such fighters boast of have been passed down since the days when their now-lost civilization was still extant, and are not only techniques to be used in battle,\nbut also serve well as a performing art popular in various lands.\nIt is said that this sword art was once practiced from horseback.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n擅长使用大弯刀的沙漠武士。\n其所掌握的传承自失落文明的刀法不仅是一种战技，由其发展而来的刀舞更成为了在各国都广泛受欢迎的杂技表演。\n这种大弯刀据说在古时是用于骑乘战斗的。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_desert_clearwater",
+      "title": {
+        "ru": "Пустынник: Родник в песках",
+        "en": "Eremite Desert Clearwater",
+        "zh": "镀金旅团・沙中净水"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_desert_clearwater.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nДевушка, заблудившаяся в древних грёзах мелодий пустыни.\nЛегенда гласит, что женщины её народа привлекают духов пустыни, из-за чего многие из них умирают в молодом возрасте.\nВозможно, только когда в её жилах зазвучит мелодия битвы, она сможет избавиться от шёпота духов.\nЗловещий дух разрушения запечатан в её оружии, он пробуждается в минуты опасности.\nКогда он пробуждается, его могут утихомирить только крики побеждённого – будь то владелец оружия или его враг.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA young lady lost in the ancient dream of the desert songs.\nTo her, the thrill of bloody battle is her true reward.\nLegend has it that the women of this tribe are often afflicted by the wandering spirits of the desert, a condition that leads many of them to an early end.\nPerhaps this one can only be free of these apparitions when her blood is up in combat.\nAn ominous, fragmented spirit is sealed within the weapon she uses, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n迷失在砂砾作歌的旧梦之中的少女，将厮杀的趣味视作执行委托时真正有价值的报偿。\n传说诞在这一族的女子常受沙漠中的游魂青睐，因而往往早夭。\n或许只有血管中澎湃着战斗的旋律时，她才能拜托魂灵的低语吧。\n使用的武器中封印着残破的厄灵，会在危急是苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nДевушка, заблудившаяся в древних грёзах мелодий пустыни.\nЛегенда гласит, что женщины её народа привлекают духов пустыни, из-за чего многие из них умирают в молодом возрасте.\nВозможно, только когда в её жилах зазвучит мелодия битвы, она сможет избавиться от шёпота духов.\nЗловещий дух разрушения запечатан в её оружии, он пробуждается в минуты опасности.\nКогда он пробуждается, его могут утихомирить только крики побеждённого – будь то владелец оружия или его враг.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA young lady lost in the ancient dream of the desert songs.\nTo her, the thrill of bloody battle is her true reward.\nLegend has it that the women of this tribe are often afflicted by the wandering spirits of the desert, a condition that leads many of them to an early end.\nPerhaps this one can only be free of these apparitions when her blood is up in combat.\nAn ominous, fragmented spirit is sealed within the weapon she uses, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n迷失在砂砾作歌的旧梦之中的少女，将厮杀的趣味视作执行委托时真正有价值的报偿。\n传说诞在这一族的女子常受沙漠中的游魂青睐，因而往往早夭。\n或许只有血管中澎湃着战斗的旋律时，她才能拜托魂灵的低语吧。\n使用的武器中封印着残破的厄灵，会在危急是苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_sunfrost",
+      "title": {
+        "ru": "Пустынник: Пылающий лёд",
+        "en": "Eremite Sunfrost",
+        "zh": "镀金旅团・炽阳凝冰"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_sunfrost.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПрофессиональный наёмник, которого не волнует ничего, кроме работы и поставленной задачи.\nДля таких людей единственной программой действий является выполнение задания, и их высокие расценки соответствуют этому обязательству.\nЗловещий дух разрушения запечатан в оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA professional mercenary who cares about nothing outside of work and the mission at hand.\nTo such people, their only game plan is to complete the mission, and their high asking prices on the market match that committment.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n对职责与任务之外的一切事宜漠不关心的职业佣兵。\n将完成委托作为唯一的行动纲领，在佣兵市场上的要价也是最高的。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПрофессиональный наёмник, которого не волнует ничего, кроме работы и поставленной задачи.\nДля таких людей единственной программой действий является выполнение задания, и их высокие расценки соответствуют этому обязательству.\nЗловещий дух разрушения запечатан в оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA professional mercenary who cares about nothing outside of work and the mission at hand.\nTo such people, their only game plan is to complete the mission, and their high asking prices on the market match that committment.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n对职责与任务之外的一切事宜漠不关心的职业佣兵。\n将完成委托作为唯一的行动纲领，在佣兵市场上的要价也是最高的。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_daythunder",
+      "title": {
+        "ru": "Пустынник: Полуденный гром",
+        "en": "Eremite Daythunder",
+        "zh": "镀金旅团·白日鸣雷"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_daythunder.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПотомок истинного племени воинов, чьё призвание – сражаться.\nВопреки образу варвара, с лёгкостью орудующего огромным топором, воины этого племени на самом деле весьма сведущи в древних текстах и поэзии пустынных руин.\nЗловещий дух разрушения запечатан в его оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA true scion of a warrior tribe, such warriors see battle as their ordained purpose, and unlike some barbarian who wields a large ax with ease,\nthese tribespeople are also quite well-versed in the lore and songs of the desert ruins.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n以战斗为天职，真正的武士部族的后裔。\n与轻松挥舞巨斧的蛮人形象不同，这一族的战士实际上对沙中废都的古文与诗歌颇有研究。\n使用的武器中封印着残破的厄灵，会在危急是苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+      },
+      "description": {
+        "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПотомок истинного племени воинов, чьё призвание – сражаться.\nВопреки образу варвара, с лёгкостью орудующего огромным топором, воины этого племени на самом деле весьма сведущи в древних текстах и поэзии пустынных руин.\nЗловещий дух разрушения запечатан в его оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+        "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA true scion of a warrior tribe, such warriors see battle as their ordained purpose, and unlike some barbarian who wields a large ax with ease,\nthese tribespeople are also quite well-versed in the lore and songs of the desert ruins.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+        "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n以战斗为天职，真正的武士部族的后裔。\n与轻松挥舞巨斧的蛮人形象不同，这一族的战士实际上对沙中废都的古文与诗歌颇有研究。\n使用的武器中封印着残破的厄灵，会在危急是苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_galehunter",
+      "title": {
+        "ru": "Пустынник: Охотница ветров",
+        "en": "Eremite Galehunter",
+        "zh": "镀金旅团·灵风猎手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_galehunter.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член вольной группы наёмников из золотых песков.\nРади вознаграждения будет работать на кого угодно.\nИз-за широкого распространения арбалетов только самые опытные бойцы из племени Пустынников умеют обращаться с луком.\nИм не нужны глаза – шорох песка подскажет, где находится враг.\nВ их оружии запечатан зловещий дух разрушения, что пробуждается в минуты опасности, и только крик побеждённого способен утолить его гнев.\nИ неважно, кто окажется побеждённым, – владелец оружия или его враг.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nWill work for anyone as long as the pay is good.\nIn this age where crossbows are in widespread use, only the most experienced of Eremite warriors know how to use a longbow in battle.\nThey do not even need their eyes — merely their ears with which they sense the flow of wind and sand alike — to judge the location of their foes.\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril.\nOnce these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员，为了报酬愿意为任何人效力。\n由于机弩的广泛使用，在如今的镀金部族中唯有最老练的战士才会使用长弓作战。\n她们无需依靠双目，仅凭风沙流动的声音便能分辨出敌人的所在。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息他们的愤怒。\n——不论败者是武器的主人，抑或是敌人。"
+      },
+      "description": {
+        "ru": "Член вольной группы наёмников из золотых песков.\nРади вознаграждения будет работать на кого угодно.\nИз-за широкого распространения арбалетов только самые опытные бойцы из племени Пустынников умеют обращаться с луком.\nИм не нужны глаза – шорох песка подскажет, где находится враг.\nВ их оружии запечатан зловещий дух разрушения, что пробуждается в минуты опасности, и только крик побеждённого способен утолить его гнев.\nИ неважно, кто окажется побеждённым, – владелец оружия или его враг.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nWill work for anyone as long as the pay is good.\nIn this age where crossbows are in widespread use, only the most experienced of Eremite warriors know how to use a longbow in battle.\nThey do not even need their eyes — merely their ears with which they sense the flow of wind and sand alike — to judge the location of their foes.\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril.\nOnce these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员，为了报酬愿意为任何人效力。\n由于机弩的广泛使用，在如今的镀金部族中唯有最老练的战士才会使用长弓作战。\n她们无需依靠双目，仅凭风沙流动的声音便能分辨出敌人的所在。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息他们的愤怒。\n——不论败者是武器的主人，抑或是敌人。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_stone_enchanter",
+      "title": {
+        "ru": "Пустынник: Зачарователь камней",
+        "en": "Eremite Stone Enchanter",
+        "zh": "镀金旅团·魔岩役使"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_stone_enchanter.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Член вольной группы наёмников из золотых песков.\nРади вознаграждения будет работать на кого угодно.\nВ древности эти тяжеловооружённые воины были ближайшей охраной властелина знойного солнца.\nВозможно, именно поэтому от них до сих пор исходит золотое свечение.\nВ их оружии запечатан зловещий дух разрушения, что пробуждается в минуты опасности, и только крик побеждённого способен утолить его гнев.\nИ неважно, кто окажется побеждённым, – владелец оружия или его враг.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nWill work for anyone as long as the pay is good.\nIn ancient days, these heavily-equipped warriors were the domain of the personal, trusted guards of the Lord of the Blazing Sun.\nIt is perhaps on this account that they gleam like the golden sun itself to this day.\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril.\nOnce these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员，为了报酬愿意为任何人效力。\n在古代，这些重装的武士乃是烈日君王最为亲信的宿卫。\n或许正是由于这个缘故，他们身上至今仍流溢着太阳般的金色光辉。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息他们的愤怒。\n——不论败者是武器的主人，抑或是敌人。"
+      },
+      "description": {
+        "ru": "Член вольной группы наёмников из золотых песков.\nРади вознаграждения будет работать на кого угодно.\nВ древности эти тяжеловооружённые воины были ближайшей охраной властелина знойного солнца.\nВозможно, именно поэтому от них до сих пор исходит золотое свечение.\nВ их оружии запечатан зловещий дух разрушения, что пробуждается в минуты опасности, и только крик побеждённого способен утолить его гнев.\nИ неважно, кто окажется побеждённым, – владелец оружия или его враг.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nWill work for anyone as long as the pay is good.\nIn ancient days, these heavily-equipped warriors were the domain of the personal, trusted guards of the Lord of the Blazing Sun.\nIt is perhaps on this account that they gleam like the golden sun itself to this day.\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril.\nOnce these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员，为了报酬愿意为任何人效力。\n在古代，这些重装的武士乃是烈日君王最为亲信的宿卫。\n或许正是由于这个缘故，他们身上至今仍流溢着太阳般的金色光辉。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息他们的愤怒。\n——不论败者是武器的主人，抑或是敌人。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_scorching_loremaster",
+      "title": {
+        "ru": "Пустынник: Пылающий повествователь",
+        "en": "Eremite Scorching Loremaster",
+        "zh": "镀金旅团·炽沙叙事人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_scorching_loremaster.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Представительница вольной группы наёмников пустыни.\nОни легко меняют нанимателей, лишь бы те хорошо платили, но своим корням исключительно преданны.\nПосле крушения цивилизации истории в пустыне передавались меж поколениями из уст в уста, подобно искрам на ветру или дождю среди облаков.\nСо временем какие-то истории сильно изменились, а другие были утрачены.\nНевежественные или не желающие разбираться в тонкостях чужаки называют Пустынниками всех без разбора, порой и тех, кто уже забыл предания пустыни.\nНо не беспокойтесь, хранящие память никогда не предадут кровь песков, что всё ещё течёт в их жилах.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nEven though they will work for anyone as long as the pay is good, they will never forget their roots in the Great Red Sand.\nAfter the collapse of its civilizations,\nthe stories of the desert were passed down generation after generation in oral tradition just like the sparks in the wind and the rain in the clouds.\nAs time passed, some stories were lost while others survived,\nalbeit with significant changes.\"The Eremites\"is the umbrella term given to the tribes of the desert by those too ignorant or disdainful to learn the tribes' myriad differences.\nWithin those referred to as the Eremites, many have also indeed already forgotten the tales of the desert.\nFear not, however, for those who still remember will never betray the spirit of the sands yet flowing through their veins.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员。\n即使为了报酬愿意为任何人效力，也不会忘记沙海中的根源。\n在文明崩解之后，沙漠中的故事如同风中的火星、云中的雨一样，是经由口口相传的诗与秘史一代又一代继承下去的。\n在流传的过程中有许多故事变化了，又有许多故事失落了。\n「镀金旅团」\n是无知或是怀着蔑视的心不去区分沙海中诸多部族的外人对他们的统称。\n在被称为镀金旅团的人当中，有许多人已经忘记了沙漠的故事。\n如今仍然能记起许多故事的人，是不会背叛流淌在体内的沙漠血脉的。"
+      },
+      "description": {
+        "ru": "Представительница вольной группы наёмников пустыни.\nОни легко меняют нанимателей, лишь бы те хорошо платили, но своим корням исключительно преданны.\nПосле крушения цивилизации истории в пустыне передавались меж поколениями из уст в уста, подобно искрам на ветру или дождю среди облаков.\nСо временем какие-то истории сильно изменились, а другие были утрачены.\nНевежественные или не желающие разбираться в тонкостях чужаки называют Пустынниками всех без разбора, порой и тех, кто уже забыл предания пустыни.\nНо не беспокойтесь, хранящие память никогда не предадут кровь песков, что всё ещё течёт в их жилах.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert.\nEven though they will work for anyone as long as the pay is good, they will never forget their roots in the Great Red Sand.\nAfter the collapse of its civilizations,\nthe stories of the desert were passed down generation after generation in oral tradition just like the sparks in the wind and the rain in the clouds.\nAs time passed, some stories were lost while others survived,\nalbeit with significant changes.\"The Eremites\"is the umbrella term given to the tribes of the desert by those too ignorant or disdainful to learn the tribes' myriad differences.\nWithin those referred to as the Eremites, many have also indeed already forgotten the tales of the desert.\nFear not, however, for those who still remember will never betray the spirit of the sands yet flowing through their veins.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员。\n即使为了报酬愿意为任何人效力，也不会忘记沙海中的根源。\n在文明崩解之后，沙漠中的故事如同风中的火星、云中的雨一样，是经由口口相传的诗与秘史一代又一代继承下去的。\n在流传的过程中有许多故事变化了，又有许多故事失落了。\n「镀金旅团」\n是无知或是怀着蔑视的心不去区分沙海中诸多部族的外人对他们的统称。\n在被称为镀金旅团的人当中，有许多人已经忘记了沙漠的故事。\n如今仍然能记起许多故事的人，是不会背叛流淌在体内的沙漠血脉的。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "eremite_floral_ring_dancer",
+      "title": {
+        "ru": "Пустынник: Танцовщица лиственного круга",
+        "en": "Eremite Floral Ring-Dancer",
+        "zh": "镀金旅团·叶轮舞者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/eremite_floral_ring_dancer.webp",
+      "enemy_group": "human_factions",
+      "region": "Сумеру",
+      "game_version": "3.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Представительница вольной группы наёмников из золотых песков.\nРади вознаграждения будет работать на кого угодно.\nПесни и танцы народов пустыни имеют долгую историю.\nКогда-то с их помощью отдавали хвалу богам, а затем эти искусства нашли применение в битвах и соблазнении правителей.\nВо многих сказаниях пустыни рассказывается о королях, убитых в постели или на вершине башни, куда завлекли их прекрасные танцовщицы.\nПусть былые боги и правители уже растворились среди песков, память о танце все ещё живёт в крови жителей пустыни.\nВ их оружии запечатан зловещий дух разрушения, что пробуждается в минуты опасности, и только крик побеждённого способен утолить его гнев.\nИ неважно, кто окажется побеждённым, – владелец оружия или его враг.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert. They will work for anyone as long as the pay is good.\nThe children of the desert have a rich tradition of song and dance.\nOriginally used to praise and serve the gods, the crafts were later adapted for battle and the seduction of kings.\nMany tales of the sands feature dancers who murdered kings relaxed in their beds or standing atop high towers.\nEven though all such gods and kings have now faded into the flowing sands, the memory of dance yet persists in the desert-dwellers' veins.\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril.\nOnce these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员，为了报酬愿意为任何人效力。\n沙之民有音乐与舞蹈的传统，起初是对神的礼赞，后来则是讨取王者欢心的演艺与战斗的技术。\n大漠的传说中，便有曾将王者谋刺于床榻或高塔的舞姬。\n如今即使他们的神与王都尽数沉入流沙，舞蹈的记忆依然留存在民族的血脉中。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息他们的愤怒。\n——不论败者是武器的主人，抑或是敌人。"
+      },
+      "description": {
+        "ru": "Представительница вольной группы наёмников из золотых песков.\nРади вознаграждения будет работать на кого угодно.\nПесни и танцы народов пустыни имеют долгую историю.\nКогда-то с их помощью отдавали хвалу богам, а затем эти искусства нашли применение в битвах и соблазнении правителей.\nВо многих сказаниях пустыни рассказывается о королях, убитых в постели или на вершине башни, куда завлекли их прекрасные танцовщицы.\nПусть былые боги и правители уже растворились среди песков, память о танце все ещё живёт в крови жителей пустыни.\nВ их оружии запечатан зловещий дух разрушения, что пробуждается в минуты опасности, и только крик побеждённого способен утолить его гнев.\nИ неважно, кто окажется побеждённым, – владелец оружия или его враг.",
+        "en": "A person hailing from the loosely-organized mercenary bands of the desert. They will work for anyone as long as the pay is good.\nThe children of the desert have a rich tradition of song and dance.\nOriginally used to praise and serve the gods, the crafts were later adapted for battle and the seduction of kings.\nMany tales of the sands feature dancers who murdered kings relaxed in their beds or standing atop high towers.\nEven though all such gods and kings have now faded into the flowing sands, the memory of dance yet persists in the desert-dwellers' veins.\nOminous, fragmented spirits are sealed within the weapons they use, awakening in moments of peril.\nOnce these weapons awaken, they can only be silenced by the cries of the vanquished — whether that be their wielders or their wielders' foes.",
+        "zh": "从沙漠中走出的松散佣兵团体中的一员，为了报酬愿意为任何人效力。\n沙之民有音乐与舞蹈的传统，起初是对神的礼赞，后来则是讨取王者欢心的演艺与战斗的技术。\n大漠的传说中，便有曾将王者谋刺于床榻或高塔的舞姬。\n如今即使他们的神与王都尽数沉入流沙，舞蹈的记忆依然留存在民族的血脉中。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息他们的愤怒。\n——不论败者是武器的主人，抑或是敌人。"
+      },
+      "drops": [
+        {
+          "id": "eremite_axe_vanguard_reds",
+          "title": {
+            "ru": "Выцветший красный шёлк / Окаймлённый красный шёлк / Златотканый красный шёлк",
+            "en": "Reds",
+            "zh": "褪色红绸 / 镶边红绸 / 织金红绸"
+          },
+          "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "3.0",
+          "materials": [
+            {
+              "key": "faded_red_satin",
+              "title": {
+                "ru": "Выцветший красный шёлк",
+                "en": "Faded Red Satin",
+                "zh": "褪色红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/faded_red_satin.webp"
+            },
+            {
+              "key": "trimmed_red_silk",
+              "title": {
+                "ru": "Окаймлённый красный шёлк",
+                "en": "Trimmed Red Silk",
+                "zh": "镶边红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp"
+            },
+            {
+              "key": "rich_red_brocade",
+              "title": {
+                "ru": "Златотканый красный шёлк",
+                "en": "Rich Red Brocade",
+                "zh": "织金红绸"
+              },
+              "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 12,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "faded_red_satin",
+      "title": {
+        "ru": "Выцветший красный шёлк",
+        "en": "Faded Red Satin",
+        "zh": "褪色红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/faded_red_satin.webp",
+      "text": {
+        "ru": "Выцветшая лента из красного шёлка, которой завязывали глаза.\nМногие Пустынники завязывают себе глаза, но первоначальный смысл этого обычая давно потерян в песках времени.",
+        "en": "A piece of red satin used to cover the eyes. The fabric is slightly torn.\nMany Eremites tend to cover their eyes with textiles, but the original intention of this practice has long been lost to the sands of time.",
+        "zh": "用以遮盖眼睛的红色绸缎，略有残破。镀金旅团当中常有人以织物遮蔽双眼，而这种举动的肇始早已失落在时之沙海中。"
+      }
+    },
+    {
+      "key": "trimmed_red_silk",
+      "title": {
+        "ru": "Окаймлённый красный шёлк",
+        "en": "Trimmed Red Silk",
+        "zh": "镶边红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/trimmed_red_silk.webp",
+      "text": {
+        "ru": "Красная шёлковая лента, обшитая по краям простой каймой. Опытный воин способен по взгляду противника нащупать его слабину.\nПустынники давно утратили своих покровителей и могут полагаться только на себя. Они ничему не доверяют – даже собственному взгляду.",
+        "en": "A piece of red silk trimmed with simple decorations. A seasoned warrior can detect weaknesses from their foe's eyes and thus take advantage.\nThe Eremites have long since lost a master to serve, and now they have no one to trust but themselves.\nWord has it that they are more than convinced that all things betray, even their own eyes.",
+        "zh": "镶有简单装饰的红色绸缎。老练的战士能够从对手眼神中的破绽，找到先机。镀金旅团早已失去了可效忠的主，能够相信的只有自己。据说，他们坚信万物皆会背叛，连自己的双眼也不例外。"
+      }
+    },
+    {
+      "key": "rich_red_brocade",
+      "title": {
+        "ru": "Златотканый красный шёлк",
+        "en": "Rich Red Brocade",
+        "zh": "织金红绸"
+      },
+      "icon": "assets/icons/items/common_enemies/rich_red_brocade.webp",
+      "text": {
+        "ru": "Красная шёлковая лента, расшитая золотым узором.\nПотерянный народ, что появился на свет среди золотых песков пустыни, иногда поёт свою песню, смысл которой давно забыт.\nОни славят знойное солнце, что светит всем поровну, они с горечью провожают последние отсветы вечерней зари.\nВ конце песни повторяются незнакомые слова – говорят, это имена их древних божеств.\nКогда король пустыни был жив, его подданные закрывали глаза повязками, чтобы не обжечься, смотря на его солнцеподобный лик.",
+        "en": "A piece of red brocade woven with golden thread.\nThose born in the gilded desert under the sun occasionally sing a song, of which the meaning has been forgotten.\nThey would praise the scorching sun that illuminates the earth as equally as ever and bewail the afterglow at the end of the dusk.\nSome unfamiliar words recur at the end of the song, which are said to be the names of ancient gods.\nLegend has it that when the King of the Desert was still alive, his people chose to cover their eyes as they dared not look upon him, whose\nbrilliance was beyond that of the sun.",
+        "zh": "以金丝织成纹路的红色绸缎。在日光之下如同镀金的沙漠当中出生的遗民，偶尔会唱起含义已被遗忘的歌谣，赞美平等照耀大地的烈日，痛惜黄昏之末的余晖。在歌谣的终章反复出现的陌生词汇，据说是古老神明的名讳。据说，沙漠之王尚在时，子民们不敢直视太阳般的光辉，因而遮住了自己的双目。"
+      }
+    }
+  ],
+  "material_count": 3
+}

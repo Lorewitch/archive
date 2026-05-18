@@ -31,7 +31,50 @@
     "en": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"Equipped with Crawler Track Movement Mechanisms,\nthese Landcruisers are normally used to storm enemy positions,\nwhere they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility.\nForce Recon armaments include a multi-barrel automatic gun, allowing this Landcruiser to adjust its tactics to both close quarters and long-range combat.\nWhether it be long-range observation or obtaining enemy intel in the midst of fearsome firefights, this Landcruiser model is more than up to the task.",
     "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有履带式行走机构的巡陆艇通常被用于攻坚作战，得益于优秀的底盘承载与越野能力，它们可以搭载更为厚重的装甲和武装，轻松通过泥泞与融雪的恶劣地形。\n强侦型的武装包含了一门多管自动机铳，使得巡陆艇能够在接近作战与远程打击中自由选择战术。\n无论保持距离执行侦察任务，还是在烈度可观的交战中攻夺敌军情报，这型巡陆艇都能轻松胜任。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "close_combat_storm_landcruiser_drive_shafts",
+      "title": {
+        "ru": "Сломанный вал / Усиленный вал / Высокоточный вал",
+        "en": "Drive Shafts",
+        "zh": "毁损机轴 / 加固机轴 / 精制机轴"
+      },
+      "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "broken_drive_shaft",
+          "title": {
+            "ru": "Сломанный вал",
+            "en": "Broken Drive Shaft",
+            "zh": "毁损机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/broken_drive_shaft.webp"
+        },
+        {
+          "key": "reinforced_drive_shaft",
+          "title": {
+            "ru": "Усиленный вал",
+            "en": "Reinforced Drive Shaft",
+            "zh": "加固机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/reinforced_drive_shaft.webp"
+        },
+        {
+          "key": "precision_drive_shaft",
+          "title": {
+            "ru": "Высокоточный вал",
+            "en": "Precision Drive Shaft",
+            "zh": "精制机轴"
+          },
+          "icon": "assets/icons/items/common_enemies/precision_drive_shaft.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

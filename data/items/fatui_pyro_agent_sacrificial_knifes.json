@@ -1,0 +1,204 @@
+{
+  "id": "fatui_pyro_agent_sacrificial_knifes",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp",
+  "title": {
+    "ru": "Церемониальный нож охотника / Церемониальный нож агента / Церемониальный нож инспектора",
+    "en": "Sacrificial Knifes",
+    "zh": "猎兵祭刀 / 特工祭刀 / 督察长祭刀"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Hunter's Sacrificial Knife",
+    "Agent's Sacrificial Knife",
+    "Inspector's Sacrificial Knife",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "fatui_pyro_agent"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "fatui_pyro_agent",
+      "title": {
+        "ru": "Фатуи: Пиро агент",
+        "en": "Fatui Pyro Agent",
+        "zh": "愚人众·火之债务处理人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/fatui_pyro_agent.webp",
+      "enemy_group": "fatui",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Тайный агент Фатуи.\nОбязанность агента Фатуи заключается в погашении долгов, но не только денежных.\nОн также следит, чтобы око было отдано за око вовремя. Фатуи известны не за свою снисходительность, поэтому тот, кто осмелится противиться им, накликает на себя весь их гнев.",
+        "en": "A Fatui secret agent.\nThe duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature.\nThey also ensure dues are paid when it comes to the principle of \"an eye for an eye.\"If there is one thing the Fatui are not known for, it is leniency,\nand whoever dares to oppose them will invoke the full force of their wrath.",
+        "zh": "隶属愚人众的特务人员。\n债务处理人所处理的「债务」，并不局限于钱货往来的清算。\n「以眼还眼，以牙还牙」\n也是一种债。\n无论是谁，只要损害了愚人众的利益，那就要十倍奉还。"
+      },
+      "description": {
+        "ru": "Тайный агент Фатуи.\nОбязанность агента Фатуи заключается в погашении долгов, но не только денежных.\nОн также следит, чтобы око было отдано за око вовремя. Фатуи известны не за свою снисходительность, поэтому тот, кто осмелится противиться им, накликает на себя весь их гнев.",
+        "en": "A Fatui secret agent.\nThe duty of a Fatui agent is to settle debts — but not only those of a monetary or goods-in-kind nature.\nThey also ensure dues are paid when it comes to the principle of \"an eye for an eye.\"If there is one thing the Fatui are not known for, it is leniency,\nand whoever dares to oppose them will invoke the full force of their wrath.",
+        "zh": "隶属愚人众的特务人员。\n债务处理人所处理的「债务」，并不局限于钱货往来的清算。\n「以眼还眼，以牙还牙」\n也是一种债。\n无论是谁，只要损害了愚人众的利益，那就要十倍奉还。"
+      },
+      "drops": [
+        {
+          "id": "fatui_pyro_agent_sacrificial_knifes",
+          "title": {
+            "ru": "Церемониальный нож охотника / Церемониальный нож агента / Церемониальный нож инспектора",
+            "en": "Sacrificial Knifes",
+            "zh": "猎兵祭刀 / 特工祭刀 / 督察长祭刀"
+          },
+          "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "hunters_sacrificial_knife",
+              "title": {
+                "ru": "Церемониальный нож охотника",
+                "en": "Hunter's Sacrificial Knife",
+                "zh": "猎兵祭刀"
+              },
+              "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp"
+            },
+            {
+              "key": "agents_sacrificial_knife",
+              "title": {
+                "ru": "Церемониальный нож агента",
+                "en": "Agent's Sacrificial Knife",
+                "zh": "特工祭刀"
+              },
+              "icon": "assets/icons/items/common_enemies/agents_sacrificial_knife.webp"
+            },
+            {
+              "key": "inspectors_sacrificial_knife",
+              "title": {
+                "ru": "Церемониальный нож инспектора",
+                "en": "Inspector's Sacrificial Knife",
+                "zh": "督察长祭刀"
+              },
+              "icon": "assets/icons/items/common_enemies/inspectors_sacrificial_knife.webp"
+            }
+          ],
+          "material_count": 3
+        },
+        {
+          "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+          "title": {
+            "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+            "en": "Insignias",
+            "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "recruits_insignia",
+              "title": {
+                "ru": "Шеврон рядового",
+                "en": "Recruit's Insignia",
+                "zh": "新兵的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+            },
+            {
+              "key": "sergeants_insignia",
+              "title": {
+                "ru": "Шеврон сержанта",
+                "en": "Sergeant's Insignia",
+                "zh": "士官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+            },
+            {
+              "key": "lieutenants_insignia",
+              "title": {
+                "ru": "Шеврон офицера",
+                "en": "Lieutenant's Insignia",
+                "zh": "尉官的徽记"
+              },
+              "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 1,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "hunters_sacrificial_knife",
+      "title": {
+        "ru": "Церемониальный нож охотника",
+        "en": "Hunter's Sacrificial Knife",
+        "zh": "猎兵祭刀"
+      },
+      "icon": "assets/icons/items/common_enemies/hunters_sacrificial_knife.webp",
+      "text": {
+        "ru": "Заточенное оружие из сплава. Хоть и без хозяина, оно всё ещё отражает беспокойно холодный свет.",
+        "en": "A sharp alloy weapon. Though its owner has been lost, it still reflects a disturbingly cold light.",
+        "zh": "某种锋利的合金武具。即便失去了原本的主人，仍反射着令人不安的寒光。"
+      }
+    },
+    {
+      "key": "agents_sacrificial_knife",
+      "title": {
+        "ru": "Церемониальный нож агента",
+        "en": "Agent's Sacrificial Knife",
+        "zh": "特工祭刀"
+      },
+      "icon": "assets/icons/items/common_enemies/agents_sacrificial_knife.webp",
+      "text": {
+        "ru": "Оружие необычной формы, сделанное при помощи продвинутой технологии Снежной, когда-то принадлежало старшему агенту.\nБез особой подготовки обычный человек это странное оружие использовать не сможет.",
+        "en": "An oddly-shaped weapon made with superior Snezhnayan technology that once belonged to a senior agent.\nProper training is required for using this strange weapon.",
+        "zh": "利用至冬国优越的技术制造的异形兵器，曾经属于某位资深特工。一般人不经训练，根本无法使用这种奇怪的武具。"
+      }
+    },
+    {
+      "key": "inspectors_sacrificial_knife",
+      "title": {
+        "ru": "Церемониальный нож инспектора",
+        "en": "Inspector's Sacrificial Knife",
+        "zh": "督察长祭刀"
+      },
+      "icon": "assets/icons/items/common_enemies/inspectors_sacrificial_knife.webp",
+      "text": {
+        "ru": "В умелых руках это оружие раздало обратно немало «долгов». Ни у кого нет глаз на затылке.\nБоевые приёмы с Церемониальным ножом инспектора разработаны так, чтобы пользоваться слабыми местами противника.",
+        "en": "In the hands of its lord, this fierce weapon has handled many \"debts.\" No one has eyes in the back of their heads, and this weapon and its related\ntechniques are designed around that weakness.",
+        "zh": "在故主手中，曾处理过许多「债务」的凶恶武具。世上无人背后长眼，而这种兵器与相关的武艺则是针对这种弱点设计的。"
+      }
+    }
+  ],
+  "material_count": 3
+}

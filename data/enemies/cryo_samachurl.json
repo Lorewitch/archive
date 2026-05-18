@@ -73,6 +73,48 @@
         }
       ],
       "material_count": 3
+    },
+    {
+      "id": "samachurl_scrolls",
+      "title": {
+        "ru": "Свиток божественной магии / Свиток печати / Свиток запретного проклятья",
+        "en": "Scrolls",
+        "zh": "导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+      },
+      "icon": "assets/icons/items/common_enemies/divining_scroll.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "divining_scroll",
+          "title": {
+            "ru": "Свиток божественной магии",
+            "en": "Divining Scroll",
+            "zh": "导能绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/divining_scroll.webp"
+        },
+        {
+          "key": "sealed_scroll",
+          "title": {
+            "ru": "Свиток печати",
+            "en": "Sealed Scroll",
+            "zh": "封魔绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/sealed_scroll.webp"
+        },
+        {
+          "key": "forbidden_curse_scroll",
+          "title": {
+            "ru": "Свиток запретного проклятья",
+            "en": "Forbidden Curse Scroll",
+            "zh": "禁咒绘卷"
+          },
+          "icon": "assets/icons/items/common_enemies/forbidden_curse_scroll.webp"
+        }
+      ],
+      "material_count": 3
     }
   ],
   "notes": {

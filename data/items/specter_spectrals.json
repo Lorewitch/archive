@@ -1,0 +1,594 @@
+{
+  "id": "specter_spectrals",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+  "title": {
+    "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+    "en": "Spectrals",
+    "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.1",
+  "tags": [
+    "Spectral Husk",
+    "Spectral Heart",
+    "Spectral Nucleus",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "pyro_specter",
+    "hydro_specter",
+    "anemo_specter",
+    "electro_specter",
+    "dendro_specter",
+    "cryo_specter",
+    "geo_specter"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "pyro_specter",
+      "title": {
+        "ru": "Пиро призрак",
+        "en": "Pyro Specter",
+        "zh": "火飘浮灵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/pyro_specter.webp",
+      "enemy_group": "elementals",
+      "region": "Инадзума",
+      "game_version": "2.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, порождённый высокой концентрацией элемента Пиро, способный парить в воздухе.\nНекогда один ученик академии проводил исследования среды их обитания.\nПо его мнению, кристальные бабочки, как и призраки, рождаются и обитают в среде высокой концентрации элементов, поэтому призраки - подвид кристальных бабочек.\nОн не выпустился и по сей день.",
+        "en": "A monster born from highly-concentrated Pyro elements that can float in the air.\nThere was once an Akademiya student who conducted research into their behavior.\nHe believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental energy.\nHe has not graduated yet.",
+        "zh": "高浓度的火元素孕育而生的魔物，能够飘浮在空中。\n曾经有教令院的学生对它们的生态进行过研究。\n他认为晶蝶能飞、会在元素浓度高的区域诞生，和飘浮灵完全一样。\n所以飘浮灵是一种晶蝶。\n他现在也没毕业。"
+      },
+      "description": {
+        "ru": "Монстр, порождённый высокой концентрацией элемента Пиро, способный парить в воздухе.\nНекогда один ученик академии проводил исследования среды их обитания.\nПо его мнению, кристальные бабочки, как и призраки, рождаются и обитают в среде высокой концентрации элементов, поэтому призраки - подвид кристальных бабочек.\nОн не выпустился и по сей день.",
+        "en": "A monster born from highly-concentrated Pyro elements that can float in the air.\nThere was once an Akademiya student who conducted research into their behavior.\nHe believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental energy.\nHe has not graduated yet.",
+        "zh": "高浓度的火元素孕育而生的魔物，能够飘浮在空中。\n曾经有教令院的学生对它们的生态进行过研究。\n他认为晶蝶能飞、会在元素浓度高的区域诞生，和飘浮灵完全一样。\n所以飘浮灵是一种晶蝶。\n他现在也没毕业。"
+      },
+      "drops": [
+        {
+          "id": "specter_spectrals",
+          "title": {
+            "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+            "en": "Spectrals",
+            "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.1",
+          "materials": [
+            {
+              "key": "spectral_husk",
+              "title": {
+                "ru": "Призрачная оболочка",
+                "en": "Spectral Husk",
+                "zh": "浮游干核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+            },
+            {
+              "key": "spectral_heart",
+              "title": {
+                "ru": "Призрачное сердце",
+                "en": "Spectral Heart",
+                "zh": "浮游幽核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+            },
+            {
+              "key": "spectral_nucleus",
+              "title": {
+                "ru": "Призрачное ядро",
+                "en": "Spectral Nucleus",
+                "zh": "浮游晶化核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "hydro_specter",
+      "title": {
+        "ru": "Гидро призрак",
+        "en": "Hydro Specter",
+        "zh": "水飘浮灵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/hydro_specter.webp",
+      "enemy_group": "elementals",
+      "region": "Инадзума",
+      "game_version": "2.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, рожденный из высокой концентрации Гидро, который может парить в воздухе.\nЛунными ночами Гидро призраки испускают призрачное сияние, паря у берегов рек. Прохожие принимают их за блуждающих духов, поэтому они часто встречаются во многих народных сказках.",
+        "en": "A monster birthed from a high concentration of Hydro that can float in the air.\nOn moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank.\nTheir furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales.",
+        "zh": "高浓度的水元素孕育而生的魔物，能够飘浮在空中。\n在月夜里，飘荡在河边的水飘浮灵散发着幽光。\n鬼鬼祟祟的它们常被路过的旅人当作游魂，也因此成为了不少乡间民话的常客。"
+      },
+      "description": {
+        "ru": "Монстр, рожденный из высокой концентрации Гидро, который может парить в воздухе.\nЛунными ночами Гидро призраки испускают призрачное сияние, паря у берегов рек. Прохожие принимают их за блуждающих духов, поэтому они часто встречаются во многих народных сказках.",
+        "en": "A monster birthed from a high concentration of Hydro that can float in the air.\nOn moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank.\nTheir furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales.",
+        "zh": "高浓度的水元素孕育而生的魔物，能够飘浮在空中。\n在月夜里，飘荡在河边的水飘浮灵散发着幽光。\n鬼鬼祟祟的它们常被路过的旅人当作游魂，也因此成为了不少乡间民话的常客。"
+      },
+      "drops": [
+        {
+          "id": "specter_spectrals",
+          "title": {
+            "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+            "en": "Spectrals",
+            "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.1",
+          "materials": [
+            {
+              "key": "spectral_husk",
+              "title": {
+                "ru": "Призрачная оболочка",
+                "en": "Spectral Husk",
+                "zh": "浮游干核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+            },
+            {
+              "key": "spectral_heart",
+              "title": {
+                "ru": "Призрачное сердце",
+                "en": "Spectral Heart",
+                "zh": "浮游幽核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+            },
+            {
+              "key": "spectral_nucleus",
+              "title": {
+                "ru": "Призрачное ядро",
+                "en": "Spectral Nucleus",
+                "zh": "浮游晶化核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "anemo_specter",
+      "title": {
+        "ru": "Анемо призрак",
+        "en": "Anemo Specter",
+        "zh": "风飘浮灵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/anemo_specter.webp",
+      "enemy_group": "elementals",
+      "region": "Инадзума",
+      "game_version": "2.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, рожденный из высокой концентрации Анемо, который может парить в воздухе.\nОчевидно, монстры, созданные из Анемо, уже обладают способностью парить, поэтому их лепестковидные крылья, скорее всего, в первую очередь служат для маскировки.",
+        "en": "A monster birthed from a high concentration of Anemo that can float in the air.\nAs reason might dictate, monsters made from coalesced Anemo already come equipped with the ability to float.\nAs such, their petal-like wings are most likely to be a mimetic organ first and foremost.",
+        "zh": "高浓度的风元素孕育而生的魔物，能够飘浮在空中。\n从理论上来说，风元素凝固而成的魔物本身就具有一定的飘浮能力。\n由此看来，它们花瓣一样的翅叶首先应该是一种拟态器官。"
+      },
+      "description": {
+        "ru": "Монстр, рожденный из высокой концентрации Анемо, который может парить в воздухе.\nОчевидно, монстры, созданные из Анемо, уже обладают способностью парить, поэтому их лепестковидные крылья, скорее всего, в первую очередь служат для маскировки.",
+        "en": "A monster birthed from a high concentration of Anemo that can float in the air.\nAs reason might dictate, monsters made from coalesced Anemo already come equipped with the ability to float.\nAs such, their petal-like wings are most likely to be a mimetic organ first and foremost.",
+        "zh": "高浓度的风元素孕育而生的魔物，能够飘浮在空中。\n从理论上来说，风元素凝固而成的魔物本身就具有一定的飘浮能力。\n由此看来，它们花瓣一样的翅叶首先应该是一种拟态器官。"
+      },
+      "drops": [
+        {
+          "id": "specter_spectrals",
+          "title": {
+            "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+            "en": "Spectrals",
+            "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.1",
+          "materials": [
+            {
+              "key": "spectral_husk",
+              "title": {
+                "ru": "Призрачная оболочка",
+                "en": "Spectral Husk",
+                "zh": "浮游干核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+            },
+            {
+              "key": "spectral_heart",
+              "title": {
+                "ru": "Призрачное сердце",
+                "en": "Spectral Heart",
+                "zh": "浮游幽核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+            },
+            {
+              "key": "spectral_nucleus",
+              "title": {
+                "ru": "Призрачное ядро",
+                "en": "Spectral Nucleus",
+                "zh": "浮游晶化核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "electro_specter",
+      "title": {
+        "ru": "Электро призрак",
+        "en": "Electro Specter",
+        "zh": "雷飘浮灵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/electro_specter.webp",
+      "enemy_group": "elementals",
+      "region": "Инадзума",
+      "game_version": "2.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, порождённый высокой концентрацией элемента Электро, способный парить в воздухе.\nОдин исследовавший их учёный пришёл к выводу, что призраки, как и гипостазисы, обладают характеристиками элементов и рождаются в среде высокой концентрации элементов.\nПосему призраки - подвид гипостазисов.\nПозже его расследовали на предмет нанесения вреда науке.",
+        "en": "A monster born from highly-concentrated Electro elements that can float in the air.\nA certain researcher once studied these creatures.\nHe believed that they must be Hypostases of some kind.\nAfter all, they both had elemental peculiarities and were birthed from areas saturated with elemental energy, right?\nBy the way, he was later investigated for academic corruption.",
+        "zh": "高浓度的雷元素孕育而生的魔物，能够飘浮在空中。\n曾经有学者对它们这个物种进行过研究。\n他认为无相元素有元素特征、会在元素浓度高的区域诞生，和飘浮灵完全一样。\n所以飘浮灵是一种无相。\n他后来被调查出了学术腐败。"
+      },
+      "description": {
+        "ru": "Монстр, порождённый высокой концентрацией элемента Электро, способный парить в воздухе.\nОдин исследовавший их учёный пришёл к выводу, что призраки, как и гипостазисы, обладают характеристиками элементов и рождаются в среде высокой концентрации элементов.\nПосему призраки - подвид гипостазисов.\nПозже его расследовали на предмет нанесения вреда науке.",
+        "en": "A monster born from highly-concentrated Electro elements that can float in the air.\nA certain researcher once studied these creatures.\nHe believed that they must be Hypostases of some kind.\nAfter all, they both had elemental peculiarities and were birthed from areas saturated with elemental energy, right?\nBy the way, he was later investigated for academic corruption.",
+        "zh": "高浓度的雷元素孕育而生的魔物，能够飘浮在空中。\n曾经有学者对它们这个物种进行过研究。\n他认为无相元素有元素特征、会在元素浓度高的区域诞生，和飘浮灵完全一样。\n所以飘浮灵是一种无相。\n他后来被调查出了学术腐败。"
+      },
+      "drops": [
+        {
+          "id": "specter_spectrals",
+          "title": {
+            "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+            "en": "Spectrals",
+            "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.1",
+          "materials": [
+            {
+              "key": "spectral_husk",
+              "title": {
+                "ru": "Призрачная оболочка",
+                "en": "Spectral Husk",
+                "zh": "浮游干核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+            },
+            {
+              "key": "spectral_heart",
+              "title": {
+                "ru": "Призрачное сердце",
+                "en": "Spectral Heart",
+                "zh": "浮游幽核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+            },
+            {
+              "key": "spectral_nucleus",
+              "title": {
+                "ru": "Призрачное ядро",
+                "en": "Spectral Nucleus",
+                "zh": "浮游晶化核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "dendro_specter",
+      "title": {
+        "ru": "Дендро призрак",
+        "en": "Dendro Specter",
+        "zh": "草飘浮灵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/dendro_specter.webp",
+      "enemy_group": "elementals",
+      "region": "Инадзума",
+      "game_version": "2.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, рождённый из высоко сконцентрированной энергии Дендро, который может парить в воздухе.\nИсследователь из Вахуманы провёл глубокое изучение экологических особенностей Дендро призраков, обнаружив, что они очень похожи на легендарных аранар.\nПосле тщательного анализа результатов он пришёл к выводу, что аранары на самом деле являются Дендро призраками.\nПозже этот исследователь стал малоизвестным писателем сказок.",
+        "en": "A monster born from high-density Dendro energy that can float in the air.\nA researcher from Vahumana once did research into the ecological peculiarities of Dendro Specters,\nfinding them to be quite similar to the legendary \"Aranara.\"His conclusion was that the Aranara were actually Dendro Specters.\nThis researcher would become a little-known writer of fairy tales.",
+        "zh": "高浓度的草元素孕育而生的魔物，能够飘浮在空中。\n曾经有因论派的研究员对草飘浮灵的生态特征进行研究，发现与传说的「兰那罗」\n非常相似。\n他在一番考据后得出结论，所谓的兰那罗其实就是漂浮灵。\n后来这位研究员成为了籍籍无名的童话作家。"
+      },
+      "description": {
+        "ru": "Монстр, рождённый из высоко сконцентрированной энергии Дендро, который может парить в воздухе.\nИсследователь из Вахуманы провёл глубокое изучение экологических особенностей Дендро призраков, обнаружив, что они очень похожи на легендарных аранар.\nПосле тщательного анализа результатов он пришёл к выводу, что аранары на самом деле являются Дендро призраками.\nПозже этот исследователь стал малоизвестным писателем сказок.",
+        "en": "A monster born from high-density Dendro energy that can float in the air.\nA researcher from Vahumana once did research into the ecological peculiarities of Dendro Specters,\nfinding them to be quite similar to the legendary \"Aranara.\"His conclusion was that the Aranara were actually Dendro Specters.\nThis researcher would become a little-known writer of fairy tales.",
+        "zh": "高浓度的草元素孕育而生的魔物，能够飘浮在空中。\n曾经有因论派的研究员对草飘浮灵的生态特征进行研究，发现与传说的「兰那罗」\n非常相似。\n他在一番考据后得出结论，所谓的兰那罗其实就是漂浮灵。\n后来这位研究员成为了籍籍无名的童话作家。"
+      },
+      "drops": [
+        {
+          "id": "specter_spectrals",
+          "title": {
+            "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+            "en": "Spectrals",
+            "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.1",
+          "materials": [
+            {
+              "key": "spectral_husk",
+              "title": {
+                "ru": "Призрачная оболочка",
+                "en": "Spectral Husk",
+                "zh": "浮游干核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+            },
+            {
+              "key": "spectral_heart",
+              "title": {
+                "ru": "Призрачное сердце",
+                "en": "Spectral Heart",
+                "zh": "浮游幽核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+            },
+            {
+              "key": "spectral_nucleus",
+              "title": {
+                "ru": "Призрачное ядро",
+                "en": "Spectral Nucleus",
+                "zh": "浮游晶化核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "cryo_specter",
+      "title": {
+        "ru": "Крио призрак",
+        "en": "Cryo Specter",
+        "zh": "冰飘浮灵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/cryo_specter.webp",
+      "enemy_group": "elementals",
+      "region": "Инадзума",
+      "game_version": "2.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, порождённый высокой концентрацией элемента Крио, способный парить в воздухе.\nАлхимик, который изучал призраков, заметил, что слаймы и путешественница/к управляют стихиями без Глаза Бога, поэтому призраки - это подвид слаймов или путешественницы/ка.\nЗа это его отругал наставник.",
+        "en": "A monster born from highly-concentrated Cryo elements that can float in the air.\nA certain alchemist once studied these beings, speculating that they might be a kind of Slime or the Traveler, as none of the above needed a Vision to use the elements.\nHe was reprimanded by his teacher.",
+        "zh": "高浓度的冰元素孕育而生的魔物，能够飘浮在空中。\n曾经有炼金术士调查过飘浮灵。\n他认为史莱姆和旅行者都能不借用神之眼使用元素，所以飘浮灵应该是史莱姆或者旅行者。\n他被导师训斥了。"
+      },
+      "description": {
+        "ru": "Монстр, порождённый высокой концентрацией элемента Крио, способный парить в воздухе.\nАлхимик, который изучал призраков, заметил, что слаймы и путешественница/к управляют стихиями без Глаза Бога, поэтому призраки - это подвид слаймов или путешественницы/ка.\nЗа это его отругал наставник.",
+        "en": "A monster born from highly-concentrated Cryo elements that can float in the air.\nA certain alchemist once studied these beings, speculating that they might be a kind of Slime or the Traveler, as none of the above needed a Vision to use the elements.\nHe was reprimanded by his teacher.",
+        "zh": "高浓度的冰元素孕育而生的魔物，能够飘浮在空中。\n曾经有炼金术士调查过飘浮灵。\n他认为史莱姆和旅行者都能不借用神之眼使用元素，所以飘浮灵应该是史莱姆或者旅行者。\n他被导师训斥了。"
+      },
+      "drops": [
+        {
+          "id": "specter_spectrals",
+          "title": {
+            "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+            "en": "Spectrals",
+            "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.1",
+          "materials": [
+            {
+              "key": "spectral_husk",
+              "title": {
+                "ru": "Призрачная оболочка",
+                "en": "Spectral Husk",
+                "zh": "浮游干核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+            },
+            {
+              "key": "spectral_heart",
+              "title": {
+                "ru": "Призрачное сердце",
+                "en": "Spectral Heart",
+                "zh": "浮游幽核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+            },
+            {
+              "key": "spectral_nucleus",
+              "title": {
+                "ru": "Призрачное ядро",
+                "en": "Spectral Nucleus",
+                "zh": "浮游晶化核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "geo_specter",
+      "title": {
+        "ru": "Гео призрак",
+        "en": "Geo Specter",
+        "zh": "岩飘浮灵"
+      },
+      "icon": "assets/icons/enemies/common_enemies/geo_specter.webp",
+      "enemy_group": "elementals",
+      "region": "Инадзума",
+      "game_version": "2.1",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Монстр, рожденный из высокой концентрации Гео, который может парить в воздухе.\nГео призраки имитируют плоды растений, когда их крылья сомкнуты вместе.\nВ некоторых древних легендах они считаются плодом гигантского небесного древа и обладают магической лечебной ценностью.",
+        "en": "A monster birthed from a high concentration of Geo that can float in the air.\nGeo Specters mimic the fruit of certain plants when their wings are closed together.\nAs such, they are held by some ancient tales to be the fruit of a giant tree in the sky, and are regarded as having mysterious medical value.",
+        "zh": "高浓度的岩元素孕育而生的魔物，能够飘浮在空中。\n岩飘浮灵在翅叶闭合时会拟态成某种植物果实的样子。\n因此在一些古老的传说中，它们被当作天上巨木结出的果实，被认为有着神奇的药用价值。"
+      },
+      "description": {
+        "ru": "Монстр, рожденный из высокой концентрации Гео, который может парить в воздухе.\nГео призраки имитируют плоды растений, когда их крылья сомкнуты вместе.\nВ некоторых древних легендах они считаются плодом гигантского небесного древа и обладают магической лечебной ценностью.",
+        "en": "A monster birthed from a high concentration of Geo that can float in the air.\nGeo Specters mimic the fruit of certain plants when their wings are closed together.\nAs such, they are held by some ancient tales to be the fruit of a giant tree in the sky, and are regarded as having mysterious medical value.",
+        "zh": "高浓度的岩元素孕育而生的魔物，能够飘浮在空中。\n岩飘浮灵在翅叶闭合时会拟态成某种植物果实的样子。\n因此在一些古老的传说中，它们被当作天上巨木结出的果实，被认为有着神奇的药用价值。"
+      },
+      "drops": [
+        {
+          "id": "specter_spectrals",
+          "title": {
+            "ru": "Призрачная оболочка / Призрачное сердце / Призрачное ядро",
+            "en": "Spectrals",
+            "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
+          },
+          "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "2.1",
+          "materials": [
+            {
+              "key": "spectral_husk",
+              "title": {
+                "ru": "Призрачная оболочка",
+                "en": "Spectral Husk",
+                "zh": "浮游干核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_husk.webp"
+            },
+            {
+              "key": "spectral_heart",
+              "title": {
+                "ru": "Призрачное сердце",
+                "en": "Spectral Heart",
+                "zh": "浮游幽核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_heart.webp"
+            },
+            {
+              "key": "spectral_nucleus",
+              "title": {
+                "ru": "Призрачное ядро",
+                "en": "Spectral Nucleus",
+                "zh": "浮游晶化核"
+              },
+              "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 7,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "spectral_husk",
+      "title": {
+        "ru": "Призрачная оболочка",
+        "en": "Spectral Husk",
+        "zh": "浮游干核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_husk.webp",
+      "text": {
+        "ru": "Энергетическое ядро, которое позволяет призракам парить. Оно содержит небольшое количество элементальной энергии.\nБольшая часть остальной энергии уже рассеялась.",
+        "en": "An energy core that allows the Specters to float. It contains a small amount of elemental energy.\nMost of the rest has already dispersed.",
+        "zh": "能让飘浮灵浮游的能量核，其中含有些微的元素。\n大部分的能量似乎已经逸散了。"
+      }
+    },
+    {
+      "key": "spectral_heart",
+      "title": {
+        "ru": "Призрачное сердце",
+        "en": "Spectral Heart",
+        "zh": "浮游幽核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_heart.webp",
+      "text": {
+        "ru": "Энергетическое ядро, которое позволяет призракам парить.\nЭти элементальные формы жизни весьма необычны. Иногда их резко становится больше, а потом они вдруг исчезают.",
+        "en": "An energy core that allows the Specters to float.\nThese elemental life-forms have strange behavioral patterns and will periodically surge in number before disappearing.",
+        "zh": "能让飘浮灵浮游的能量核。\n这种元素生物似乎有奇异的习性，会周期性大量涌现、消失。"
+      }
+    },
+    {
+      "key": "spectral_nucleus",
+      "title": {
+        "ru": "Призрачное ядро",
+        "en": "Spectral Nucleus",
+        "zh": "浮游晶化核"
+      },
+      "icon": "assets/icons/items/common_enemies/spectral_nucleus.webp",
+      "text": {
+        "ru": "Цельное энергетическое ядро, которое иногда можно получить после победы над призраками.\nСреди тех, кому просто необходимо разделить мир на победителей и проигравших, идёт спор: что лучше парит - призрак или Анемо слайм?",
+        "en": "A complete energy core that can sometimes be found after defeating Specters.\nThere is a debate among those who just have to divide the world into winners and losers: what floats better — a Specter or an Anemo Slime?",
+        "zh": "击败飘浮灵后有时能发现的完整的能量核。\n在热衷于给任何事物都分个高下的人当中，经常发生这样的争论：飘浮灵和风史莱姆的浮力，究竟孰高孰低。"
+      }
+    }
+  ],
+  "material_count": 3
+}

@@ -1,0 +1,954 @@
+{
+  "id": "recon_log_mek_gears",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+  "title": {
+    "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+    "en": "Gears",
+    "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.0",
+  "tags": [
+    "Meshing Gear",
+    "Mechanical Spur Gear",
+    "Artificed Dynamic Gear",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "recon_log_mek",
+    "arithmetic_enhancer_mek",
+    "underwater_survey_mek",
+    "geological_survey_mek",
+    "underwater_patrol_mek",
+    "deepwater_assault_mek",
+    "nimble_harvester_mek",
+    "area_alert_mek",
+    "assault_specialist_mek",
+    "suppression_specialist_mek",
+    "annihilation_specialist_mek",
+    "construction_specialist_mek"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "recon_log_mek",
+      "title": {
+        "ru": "Мек: Протокол разведки",
+        "en": "Recon Log Mek",
+        "zh": "机关·侦察记录型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/recon_log_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Один из первых сконструированных и изготовленных меков нового типа.\nЛегенды гласят, что во время работы в Институте натурфилософии «отец механизмов» Гильотен однажды создал механизм, который мог по-настоящему имитировать разумное мышление.\nХотя он так и не признал этого официально, но эта история стала источником вдохновения для многих инженеров.\nНесколько десятилетий назад некий человек заявил, что создал заводной механизм, обладающий способностью к базовому мышлению и считыванию человеческих эмоций.\nНо результат так и не был признан.",
+        "en": "One of the earliest new-type clockwork meka to be made.\nIt is said that during his time at the Institute of Natural Philosophy, the Lord-Artificer Guillotin created machines that could simulate genuine intelligence.\nThough he never openly admitted it, this rumor nonetheless spurred on subsequent generations of ambitious engineers.\nDecades ago, one of them announced that they had created a machine that not only possessed basic thinking abilities but could also read human emotions,\nbut in the end the results went unacknowledged.",
+        "zh": "最早设计制造的新式发条机关机械之一。\n据说「奇械公」\n吉约丹在自然哲学学院的时期，曾经做出了能够真正模拟智慧思考的机械。\n尽管他从未正式承认过这种说法，这一传奇仍在日后激起了许多工程师的斗志。\n数十年前曾有人宣布创造了具有基础思考能力，并能够解读人类情感的发条机关，但最后相关的成果并未得到认同。"
+      },
+      "description": {
+        "ru": "Один из первых сконструированных и изготовленных меков нового типа.\nЛегенды гласят, что во время работы в Институте натурфилософии «отец механизмов» Гильотен однажды создал механизм, который мог по-настоящему имитировать разумное мышление.\nХотя он так и не признал этого официально, но эта история стала источником вдохновения для многих инженеров.\nНесколько десятилетий назад некий человек заявил, что создал заводной механизм, обладающий способностью к базовому мышлению и считыванию человеческих эмоций.\nНо результат так и не был признан.",
+        "en": "One of the earliest new-type clockwork meka to be made.\nIt is said that during his time at the Institute of Natural Philosophy, the Lord-Artificer Guillotin created machines that could simulate genuine intelligence.\nThough he never openly admitted it, this rumor nonetheless spurred on subsequent generations of ambitious engineers.\nDecades ago, one of them announced that they had created a machine that not only possessed basic thinking abilities but could also read human emotions,\nbut in the end the results went unacknowledged.",
+        "zh": "最早设计制造的新式发条机关机械之一。\n据说「奇械公」\n吉约丹在自然哲学学院的时期，曾经做出了能够真正模拟智慧思考的机械。\n尽管他从未正式承认过这种说法，这一传奇仍在日后激起了许多工程师的斗志。\n数十年前曾有人宣布创造了具有基础思考能力，并能够解读人类情感的发条机关，但最后相关的成果并未得到认同。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "arithmetic_enhancer_mek",
+      "title": {
+        "ru": "Мек: Улучшение вычислений",
+        "en": "Arithmetic Enhancer Mek",
+        "zh": "机关·算力增幅器"
+      },
+      "icon": "assets/icons/enemies/common_enemies/arithmetic_enhancer_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мек, спроектированный и изготовленный для ретрансляции и усиления сигнала.\nЭнергия, приводящая в движение мека, вырабатывается в результате контролируемой реакции аннигиляции усии и пневмы внутри кинетического ядра.\nВыделение слишком большого количества энергии может привести к нарушению изначального баланса.",
+        "en": "A clockwork meka designed to transmit and enhance signals.\nThe power that drives this clockwork meka is generated from a controlled annihilation reaction between ousia and pneuma in the kinetic core.\nAs a result, overloading it with excessive energy will cause its original equilibrium to be disrupted.",
+        "zh": "以中继并增幅信号为目的，设计制造的发条机关。\n驱动发条机关的能源是通过荒性与芒性在动力核心内部进行可控湮灭反应而产生的。\n因此向其释放过度的能量会导致原本的平衡被打破。"
+      },
+      "description": {
+        "ru": "Мек, спроектированный и изготовленный для ретрансляции и усиления сигнала.\nЭнергия, приводящая в движение мека, вырабатывается в результате контролируемой реакции аннигиляции усии и пневмы внутри кинетического ядра.\nВыделение слишком большого количества энергии может привести к нарушению изначального баланса.",
+        "en": "A clockwork meka designed to transmit and enhance signals.\nThe power that drives this clockwork meka is generated from a controlled annihilation reaction between ousia and pneuma in the kinetic core.\nAs a result, overloading it with excessive energy will cause its original equilibrium to be disrupted.",
+        "zh": "以中继并增幅信号为目的，设计制造的发条机关。\n驱动发条机关的能源是通过荒性与芒性在动力核心内部进行可控湮灭反应而产生的。\n因此向其释放过度的能量会导致原本的平衡被打破。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "underwater_survey_mek",
+      "title": {
+        "ru": "Мек: Подводное исследование",
+        "en": "Underwater Survey Mek",
+        "zh": "机关·水下勘测型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/underwater_survey_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мек, спроектированный и изготовленный для подводного зондирования.\nПри разработке основной упор был сделан на кинематику, когда в динамике не было прорыва.\nПри разработке механизмов для конкретных целей бионика порой даёт наиболее эффективные решения.",
+        "en": "A clockwork meka designed for underwater surveying.\nIn the absence of significant breakthroughs in dynamics research, kinematics research has had the most significant impact on clockwork meka design.\nFor machines designed to perform specific tasks, biomimesis has sometimes provided the most convenient solutions.",
+        "zh": "以水下探测为目的，设计制造的发条机关。\n在发条机关的设计上，在动力学无法得到突破的情况下，运动学是最重要的研究对象。\n在特定目的的机械设计上，仿生学有时能提供最便捷的解法。"
+      },
+      "description": {
+        "ru": "Мек, спроектированный и изготовленный для подводного зондирования.\nПри разработке основной упор был сделан на кинематику, когда в динамике не было прорыва.\nПри разработке механизмов для конкретных целей бионика порой даёт наиболее эффективные решения.",
+        "en": "A clockwork meka designed for underwater surveying.\nIn the absence of significant breakthroughs in dynamics research, kinematics research has had the most significant impact on clockwork meka design.\nFor machines designed to perform specific tasks, biomimesis has sometimes provided the most convenient solutions.",
+        "zh": "以水下探测为目的，设计制造的发条机关。\n在发条机关的设计上，在动力学无法得到突破的情况下，运动学是最重要的研究对象。\n在特定目的的机械设计上，仿生学有时能提供最便捷的解法。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "geological_survey_mek",
+      "title": {
+        "ru": "Мек: Геологоразведка",
+        "en": "Geological Survey Mek",
+        "zh": "机关·地质勘探型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/geological_survey_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мек, спроектированный и изготовленный для поиска под землёй ресурсов и особых минералов.\nОчень популярен среди похитителей сокровищ и искателей приключений благодаря выбору типа металла для поиска.",
+        "en": "A clockwork meka designed for surveying underground resources and certain minerals.\nDue to the fact that the desired metal type can be set, this device has proven very popular among Treasure Hoarders and Adventurers alike.",
+        "zh": "以探测地下资源及特定矿物为目的，设计制造的发条机关。\n因为能够设置搜寻的金属类型，所以也很受盗宝团与冒险家的欢迎。"
+      },
+      "description": {
+        "ru": "Мек, спроектированный и изготовленный для поиска под землёй ресурсов и особых минералов.\nОчень популярен среди похитителей сокровищ и искателей приключений благодаря выбору типа металла для поиска.",
+        "en": "A clockwork meka designed for surveying underground resources and certain minerals.\nDue to the fact that the desired metal type can be set, this device has proven very popular among Treasure Hoarders and Adventurers alike.",
+        "zh": "以探测地下资源及特定矿物为目的，设计制造的发条机关。\n因为能够设置搜寻的金属类型，所以也很受盗宝团与冒险家的欢迎。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "underwater_patrol_mek",
+      "title": {
+        "ru": "Мек: Подводное патрулирование",
+        "en": "Underwater Patrol Mek",
+        "zh": "机关·水下巡游型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/underwater_patrol_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мек, спроектированный для поиска и, если требуется, уничтожения подводных животных, которые негативно влияют на сооружения под водой.\nПосле первого наводнения в Исследовательском институте Фонтейна постоянно беспокоились, что однажды произойдёт второе наводнение.\nНекоторые стали задумываться о том, чтобы восстановить утраченные подводные руины и построить города под водой, а другие восхищались воздушными островами,\nкоторые парили на недосягаемой высоте,\nи мечтали построить небесный город.\nПатрульные меки произошли от первого плана, но если оценивать результат, сегодня последний, кажется, взял верх.",
+        "en": "This type of clockwork meka was designed to search out, repel, and if need be exterminate aquatic life forms that pose a threat to underwater equipment.\nEver since the first diluvian period, the Fontaine Research Institute has been preoccupied with the thought that there might be a second one.\nSome had the idea of taking back the ruins lost to the waves and building an underwater city,\nwhereas others looked up to the untouchable sky islands overhead with the intention of building a metropolis in the clouds.\nUnderwater Patrol Meks were conceived by the former, but judging from the results, it is the latter that have gained the upper hand in recent years.",
+        "zh": "这种发条机关的设计目的为搜寻、驱逐、消灭对水下设施有不利影响的水生动物。\n自第一次涨水期以来，枫丹科学院便一直忧心于或许有一天终将发生的第二次涨水期。\n其中一部分人开始构想收复丧失在水中的遗迹并建设海底之城，另一部分人则望着永远浮在不可触及高度的空中岛屿，梦想天空的都会。\n「水下巡游型」\n来自前者，但从结果而言，近些年后者似乎取得了上风。"
+      },
+      "description": {
+        "ru": "Мек, спроектированный для поиска и, если требуется, уничтожения подводных животных, которые негативно влияют на сооружения под водой.\nПосле первого наводнения в Исследовательском институте Фонтейна постоянно беспокоились, что однажды произойдёт второе наводнение.\nНекоторые стали задумываться о том, чтобы восстановить утраченные подводные руины и построить города под водой, а другие восхищались воздушными островами,\nкоторые парили на недосягаемой высоте,\nи мечтали построить небесный город.\nПатрульные меки произошли от первого плана, но если оценивать результат, сегодня последний, кажется, взял верх.",
+        "en": "This type of clockwork meka was designed to search out, repel, and if need be exterminate aquatic life forms that pose a threat to underwater equipment.\nEver since the first diluvian period, the Fontaine Research Institute has been preoccupied with the thought that there might be a second one.\nSome had the idea of taking back the ruins lost to the waves and building an underwater city,\nwhereas others looked up to the untouchable sky islands overhead with the intention of building a metropolis in the clouds.\nUnderwater Patrol Meks were conceived by the former, but judging from the results, it is the latter that have gained the upper hand in recent years.",
+        "zh": "这种发条机关的设计目的为搜寻、驱逐、消灭对水下设施有不利影响的水生动物。\n自第一次涨水期以来，枫丹科学院便一直忧心于或许有一天终将发生的第二次涨水期。\n其中一部分人开始构想收复丧失在水中的遗迹并建设海底之城，另一部分人则望着永远浮在不可触及高度的空中岛屿，梦想天空的都会。\n「水下巡游型」\n来自前者，但从结果而言，近些年后者似乎取得了上风。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "deepwater_assault_mek",
+      "title": {
+        "ru": "Глубоководный штурмовой мек",
+        "en": "Deepwater Assault Mek",
+        "zh": "机关·深海攻击型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/deepwater_assault_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мек, предназначенный для подводных атак.\nВ отличие от моделей «подводного патруля», этот механизм способен бороться с более крупными и сильными противниками.\nРазумеется, при таких размерах, мощи и стоимости он не в состоянии раскрыть свой потенциал в бою со слабыми противниками.\nКогда-то Фонтейн пострадал от нашествия огромного монстра.\nФлотилия белоснежных броненосцев, ходившая по великому земному озеру, была полностью уничтожена при обороне.\nКонструктор надеялся, что если подобная трагедия повторится, то меки будут обладать достаточной огневой мощью, чтобы стать первой линией обороны,\nза которой будут идти солдаты и генералы.",
+        "en": "A clockwork meka designed to conducting underwater attacks.\nUnlike \"Underwater Patrol Mek\"models, it is expected to take on much larger and fiercer opponents.\nOf course, the price it pays for such capabilities and its cost of manufacture is that is unable to fully unleash its capabilities against smaller opponents.\nLong ago, Fontaine was once scarred by the tragic invasion of a massive monster.\nThe revered White Armada that sailed upon the great terrestrial lake was completely destroyed in defense of the nation.\nThe designer hoped that were such a thing to happen again, the clockwork meka would possess enough naval firepower to be the first line of defense,\ngoing before the soldiers and generals.",
+        "zh": "设计目的是进行水下攻击的发条机关。\n与「水下巡游型」\n机关不同的是，预期中它的敌人会更大、更凶暴。\n当然性能与造价的代价是，面对小体型的敌人时便无法完全发挥威力。\n过去在枫丹曾经发生了巨大魔兽入侵的悲剧，在陆上大湖受到景仰的白色铁甲舰队为了护国全军覆没。\n设计者希望如有此类事件再次发生，至少能在水中以强大火力出击的发条机关能先于将官与士兵成为第一道防线。"
+      },
+      "description": {
+        "ru": "Мек, предназначенный для подводных атак.\nВ отличие от моделей «подводного патруля», этот механизм способен бороться с более крупными и сильными противниками.\nРазумеется, при таких размерах, мощи и стоимости он не в состоянии раскрыть свой потенциал в бою со слабыми противниками.\nКогда-то Фонтейн пострадал от нашествия огромного монстра.\nФлотилия белоснежных броненосцев, ходившая по великому земному озеру, была полностью уничтожена при обороне.\nКонструктор надеялся, что если подобная трагедия повторится, то меки будут обладать достаточной огневой мощью, чтобы стать первой линией обороны,\nза которой будут идти солдаты и генералы.",
+        "en": "A clockwork meka designed to conducting underwater attacks.\nUnlike \"Underwater Patrol Mek\"models, it is expected to take on much larger and fiercer opponents.\nOf course, the price it pays for such capabilities and its cost of manufacture is that is unable to fully unleash its capabilities against smaller opponents.\nLong ago, Fontaine was once scarred by the tragic invasion of a massive monster.\nThe revered White Armada that sailed upon the great terrestrial lake was completely destroyed in defense of the nation.\nThe designer hoped that were such a thing to happen again, the clockwork meka would possess enough naval firepower to be the first line of defense,\ngoing before the soldiers and generals.",
+        "zh": "设计目的是进行水下攻击的发条机关。\n与「水下巡游型」\n机关不同的是，预期中它的敌人会更大、更凶暴。\n当然性能与造价的代价是，面对小体型的敌人时便无法完全发挥威力。\n过去在枫丹曾经发生了巨大魔兽入侵的悲剧，在陆上大湖受到景仰的白色铁甲舰队为了护国全军覆没。\n设计者希望如有此类事件再次发生，至少能在水中以强大火力出击的发条机关能先于将官与士兵成为第一道防线。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "nimble_harvester_mek",
+      "title": {
+        "ru": "Мек: Быстрый сбор",
+        "en": "Nimble Harvester Mek",
+        "zh": "机关·灵活采集型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/nimble_harvester_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Мек, спроектированный и изготовленный для выемки и транспортировки песка и грунта.\nВырабатывает энергию за счёт аннигиляции усии и пневмы.\nИмеет уникальное преимущество в Фонтейне, поскольку местная почва и водные артерии накапливают и проводят усию и пневму.\nИменно поэтому в своих приключениях вы иногда будете встречать энергетические блоки усия и пневма.",
+        "en": "A clockwork meka designed to dig up and transport soil.\nDue to the inherent ability of the local water and soil to store and transmit ousia and pneuma,\nclockwork meka powered by the annihilation of these energies are highly favored in Fontaine.\nThis also explains why adventurers may come across Ousia and Pneuma Blocks from time to time.",
+        "zh": "以发掘、输送砂土为目的设计制造的发条机关。\n基于荒性与芒性湮灭产生能量的发条机关在枫丹具有得天独厚的优势，因为枫丹的水脉与土质本身就有储存、传导荒性与芒性的特性。\n这也是冒险中有时会见到荒性与芒性能量块的原因。"
+      },
+      "description": {
+        "ru": "Мек, спроектированный и изготовленный для выемки и транспортировки песка и грунта.\nВырабатывает энергию за счёт аннигиляции усии и пневмы.\nИмеет уникальное преимущество в Фонтейне, поскольку местная почва и водные артерии накапливают и проводят усию и пневму.\nИменно поэтому в своих приключениях вы иногда будете встречать энергетические блоки усия и пневма.",
+        "en": "A clockwork meka designed to dig up and transport soil.\nDue to the inherent ability of the local water and soil to store and transmit ousia and pneuma,\nclockwork meka powered by the annihilation of these energies are highly favored in Fontaine.\nThis also explains why adventurers may come across Ousia and Pneuma Blocks from time to time.",
+        "zh": "以发掘、输送砂土为目的设计制造的发条机关。\n基于荒性与芒性湮灭产生能量的发条机关在枫丹具有得天独厚的优势，因为枫丹的水脉与土质本身就有储存、传导荒性与芒性的特性。\n这也是冒险中有时会见到荒性与芒性能量块的原因。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "area_alert_mek",
+      "title": {
+        "ru": "Мек: Сигнализация области",
+        "en": "Area Alert Mek",
+        "zh": "机关·区域警戒型"
+      },
+      "icon": "assets/icons/enemies/common_enemies/area_alert_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Механизм, способный выстреливать энергию, выделенную в результате реакции аннигиляции.\nСтрого говоря, эта экспериментальная установка появилась во время исследований, связанных с Институтом натурфилософии, ещё до создания Исследовательского института Фонтейна.\nПо этой причине, несмотря на значительный коммерческий успех этого мека в качестве охранного и защитного устройства,\nбольшинство инженеров не рассматривают этот механизм как заводной в строгом смысле этого слова.",
+        "en": "A mechanism that is able to fire out the energy produced by an annihilation reaction.\nStrictly speaking,\nit was originally a test device that emerged from research undertaken by the Institute of Natural Philosophy before the Fontaine Research Institute had been established.\nAs such, despite its considerable commercial success as a sentinel and defensive device, most engineers do not consider it to be a true clockwork meka.",
+        "zh": "能够将湮灭产生的能量投射出去的机关。\n严格来说，是在枫丹科学院建立之前，自然哲学学院的相关研究中产生的试验装置。\n因此，尽管作为警戒与防御设备取得了相当的商业成功，大多数工程师并不将其视为严格意义的发条机关机械。"
+      },
+      "description": {
+        "ru": "Механизм, способный выстреливать энергию, выделенную в результате реакции аннигиляции.\nСтрого говоря, эта экспериментальная установка появилась во время исследований, связанных с Институтом натурфилософии, ещё до создания Исследовательского института Фонтейна.\nПо этой причине, несмотря на значительный коммерческий успех этого мека в качестве охранного и защитного устройства,\nбольшинство инженеров не рассматривают этот механизм как заводной в строгом смысле этого слова.",
+        "en": "A mechanism that is able to fire out the energy produced by an annihilation reaction.\nStrictly speaking,\nit was originally a test device that emerged from research undertaken by the Institute of Natural Philosophy before the Fontaine Research Institute had been established.\nAs such, despite its considerable commercial success as a sentinel and defensive device, most engineers do not consider it to be a true clockwork meka.",
+        "zh": "能够将湮灭产生的能量投射出去的机关。\n严格来说，是在枫丹科学院建立之前，自然哲学学院的相关研究中产生的试验装置。\n因此，尽管作为警戒与防御设备取得了相当的商业成功，大多数工程师并不将其视为严格意义的发条机关机械。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "assault_specialist_mek",
+      "title": {
+        "ru": "Спецмек: Штурм",
+        "en": "Assault Specialist Mek",
+        "zh": "攻坚特化型机关"
+      },
+      "icon": "assets/icons/enemies/common_enemies/assault_specialist_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Один из первых сконструированных и изготовленных меков нового типа вместе с «Протоколом разведки».\nСегодня, спустя сотни лет, никто больше не называет его «новым».\nВ то время это определение использовалось для того, чтобы отличить его от традиционных устройств с заводным механизмом на потенциальной энергии.\nЭтот механизм был назван в честь друга изобретателя и первоначально предназначался для помощи людям.\nОднако позднее пользователи решили, что с его помощью нападать на людей гораздо эффективнее, чем когда люди нападают на людей сами.",
+        "en": "Alongside the Recon Log Mek, this was one of the first new-type clockwork meka to be made (though of course, after hundreds of years,\nno one refers to them as \"new-type\"anymore – this was simply to differentiate them from traditional clockwork mechanisms that were powered by potential energy.)It was named to\ncommemorate a friend of its inventor,\nand was originally designed to help people.\nHowever, its ability to attack people – thereby avoiding the need to put friendly personnel at risk – subsequently came to be seen as its real strength.",
+        "zh": "与「侦察记录型」\n一样，是最早设计制造的新式发条机关机械之一（数百年后的如今已经无人将其称为「新式」。\n这在当时是用以区分传统发条势能动力的机械机关用的说法）。\n名称是用来纪念发明者的友人而起的，最初设计的目的是帮助人。\n但后来的使用者普遍认为用它攻击人较之用人攻击人的相对优势更大。"
+      },
+      "description": {
+        "ru": "Один из первых сконструированных и изготовленных меков нового типа вместе с «Протоколом разведки».\nСегодня, спустя сотни лет, никто больше не называет его «новым».\nВ то время это определение использовалось для того, чтобы отличить его от традиционных устройств с заводным механизмом на потенциальной энергии.\nЭтот механизм был назван в честь друга изобретателя и первоначально предназначался для помощи людям.\nОднако позднее пользователи решили, что с его помощью нападать на людей гораздо эффективнее, чем когда люди нападают на людей сами.",
+        "en": "Alongside the Recon Log Mek, this was one of the first new-type clockwork meka to be made (though of course, after hundreds of years,\nno one refers to them as \"new-type\"anymore – this was simply to differentiate them from traditional clockwork mechanisms that were powered by potential energy.)It was named to\ncommemorate a friend of its inventor,\nand was originally designed to help people.\nHowever, its ability to attack people – thereby avoiding the need to put friendly personnel at risk – subsequently came to be seen as its real strength.",
+        "zh": "与「侦察记录型」\n一样，是最早设计制造的新式发条机关机械之一（数百年后的如今已经无人将其称为「新式」。\n这在当时是用以区分传统发条势能动力的机械机关用的说法）。\n名称是用来纪念发明者的友人而起的，最初设计的目的是帮助人。\n但后来的使用者普遍认为用它攻击人较之用人攻击人的相对优势更大。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "suppression_specialist_mek",
+      "title": {
+        "ru": "Спецмек: Подавление",
+        "en": "Suppression Specialist Mek",
+        "zh": "压制特化型机关"
+      },
+      "icon": "assets/icons/enemies/common_enemies/suppression_specialist_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Отрегулированный заводной механизм на основе модели «Шербиус».\nК сожалению, он способен только атаковать.\nЗаводные механизмы на энергии аннигиляции часто используют ретрансляторы из специальных кристаллов, чтобы извлекать из окружающей среды Фонтейна усию и пневму.\nЗа пределами Фонтейна могут использоваться заранее подготовленные энергетические блоки для перемещения на близкие расстояния в течение коротких промежутков времени.\nРазницу можно заметить по форме кристаллического элемента механизма.",
+        "en": "A clockwork meka adapted from the Cal.\nScherbius type.\nUnfortunately, aside from its ability to attack, it has no other capabilities.\nClockwork meka based on annihilation energy normally produce their energy by utilizing Repeaters composed of special crystals to refine ousia and pneuma from Fontaine's\nenvironment.\nBut outside of Fontaine, they can use pre-prepared Energy Blocks to move over short distances for short periods of time.\nThe difference can be observed from the shape of the crystal components on the meka.",
+        "zh": "基于「谢尔比乌斯式」，进行了调整的发条机关。\n很遗憾，并不具备攻击以外的能力。\n基于湮灭能量的发条机关通常会利用特殊晶体构成的中继器从枫丹的环境中提炼荒性与芒性产生能量，但在枫丹以外的区域也能通过预先准备的能量块进行短程短时的行动。\n这两者的区别体现在机关上晶体部件的形状。"
+      },
+      "description": {
+        "ru": "Отрегулированный заводной механизм на основе модели «Шербиус».\nК сожалению, он способен только атаковать.\nЗаводные механизмы на энергии аннигиляции часто используют ретрансляторы из специальных кристаллов, чтобы извлекать из окружающей среды Фонтейна усию и пневму.\nЗа пределами Фонтейна могут использоваться заранее подготовленные энергетические блоки для перемещения на близкие расстояния в течение коротких промежутков времени.\nРазницу можно заметить по форме кристаллического элемента механизма.",
+        "en": "A clockwork meka adapted from the Cal.\nScherbius type.\nUnfortunately, aside from its ability to attack, it has no other capabilities.\nClockwork meka based on annihilation energy normally produce their energy by utilizing Repeaters composed of special crystals to refine ousia and pneuma from Fontaine's\nenvironment.\nBut outside of Fontaine, they can use pre-prepared Energy Blocks to move over short distances for short periods of time.\nThe difference can be observed from the shape of the crystal components on the meka.",
+        "zh": "基于「谢尔比乌斯式」，进行了调整的发条机关。\n很遗憾，并不具备攻击以外的能力。\n基于湮灭能量的发条机关通常会利用特殊晶体构成的中继器从枫丹的环境中提炼荒性与芒性产生能量，但在枫丹以外的区域也能通过预先准备的能量块进行短程短时的行动。\n这两者的区别体现在机关上晶体部件的形状。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "annihilation_specialist_mek",
+      "title": {
+        "ru": "Спецмек: Ликвидация",
+        "en": "Annihilation Specialist Mek",
+        "zh": "歼灭特化型机关"
+      },
+      "icon": "assets/icons/enemies/common_enemies/annihilation_specialist_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Научно-исследовательский институт кинетической энергии Фонтейна - главный исследовательский и конструкторский институт в области заводных механизмов,\nно существует также множество независимых инженеров и мастерских,\nкоторые не связаны с институтом.\nИзначально этот мек был спроектирован и изготовлен одним независимым инженером в память о любимом человеке и меценате.\nВ конце концов, мек был приобретён Палатой Жардинаж для поддержания безопасности в городе или, по мнению некоторых, как инструмент подавления.",
+        "en": "Although the Fontaine Research Institute of Kinetic Energy Engineering is the main organization involved in clockwork meka research and design,\nthere are also many independent engineers and workshops that are not affiliated with the Research Institute.\nThe first ever machine of this type was designed by an independent engineer to commemorate their lover and sponsor.\nIn the end, it was acquired by the Maison Gardiennage as a tool to uphold municipal security — or, as some would have it, state apparatus enforcing the monopoly on violence.",
+        "zh": "尽管枫丹动能工程科学研究院是最为主要的发条机械研究与设计机构，坊间也有许多不隶属于科学院的工程师与独立工坊。\n这种机械起初是为一名独立工程师为纪念情人及赞助者而设计制造的。\n它最终被执律庭选中并采购作为城市安全或称公共暴力机构的武器之一。"
+      },
+      "description": {
+        "ru": "Научно-исследовательский институт кинетической энергии Фонтейна - главный исследовательский и конструкторский институт в области заводных механизмов,\nно существует также множество независимых инженеров и мастерских,\nкоторые не связаны с институтом.\nИзначально этот мек был спроектирован и изготовлен одним независимым инженером в память о любимом человеке и меценате.\nВ конце концов, мек был приобретён Палатой Жардинаж для поддержания безопасности в городе или, по мнению некоторых, как инструмент подавления.",
+        "en": "Although the Fontaine Research Institute of Kinetic Energy Engineering is the main organization involved in clockwork meka research and design,\nthere are also many independent engineers and workshops that are not affiliated with the Research Institute.\nThe first ever machine of this type was designed by an independent engineer to commemorate their lover and sponsor.\nIn the end, it was acquired by the Maison Gardiennage as a tool to uphold municipal security — or, as some would have it, state apparatus enforcing the monopoly on violence.",
+        "zh": "尽管枫丹动能工程科学研究院是最为主要的发条机械研究与设计机构，坊间也有许多不隶属于科学院的工程师与独立工坊。\n这种机械起初是为一名独立工程师为纪念情人及赞助者而设计制造的。\n它最终被执律庭选中并采购作为城市安全或称公共暴力机构的武器之一。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "construction_specialist_mek",
+      "title": {
+        "ru": "Спецмек: Строительство",
+        "en": "Construction Specialist Mek",
+        "zh": "建造特化型机关"
+      },
+      "icon": "assets/icons/enemies/common_enemies/construction_specialist_mek.webp",
+      "enemy_group": "automatons",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Крупный мек, имеющий неоценимое значение при строительстве зданий и археологических раскопках.\nБыл назван в честь инженера, нанятого Калласом для строительства линии Клементина.\nПри финансовой поддержке Калласа этот инженер создал легендарного мека гигантских размеров под названием «Золотой корабль», чтобы проложить тоннель Пуассон,\nа после завершения строительства сконструировал мека аналогичной конструкции, но уменьшенного размера.",
+        "en": "A type of large clockwork meka which also has immeasurable value when utilized in building construction and archeological excavation.\nIts name comes from an engineer employed by Callas during the construction of the Clementine Line.\nWith Callas' financial backing, this engineer built the legendary \"Golden Vessel\"— a gigantic piece of construction machinery which was used to dig the Poisson Tunnel.\nOnce the job was complete, this type of clockwork meka was designed with a similar structure but reduced to a smaller scale.",
+        "zh": "在建筑施工、考古发掘上同样有不可估量价值的大型发条机关，其名来自修建克莱门汀线时卡雷斯雇佣的工程师。\n这名工程师在卡雷斯的资助下为打通白淞隧道建造了颇具传奇性的「黄金乐船」\n巨型工程机械，并在竣工后据此设计了这类结构相似，但尺寸缩小的发条机关。"
+      },
+      "description": {
+        "ru": "Крупный мек, имеющий неоценимое значение при строительстве зданий и археологических раскопках.\nБыл назван в честь инженера, нанятого Калласом для строительства линии Клементина.\nПри финансовой поддержке Калласа этот инженер создал легендарного мека гигантских размеров под названием «Золотой корабль», чтобы проложить тоннель Пуассон,\nа после завершения строительства сконструировал мека аналогичной конструкции, но уменьшенного размера.",
+        "en": "A type of large clockwork meka which also has immeasurable value when utilized in building construction and archeological excavation.\nIts name comes from an engineer employed by Callas during the construction of the Clementine Line.\nWith Callas' financial backing, this engineer built the legendary \"Golden Vessel\"— a gigantic piece of construction machinery which was used to dig the Poisson Tunnel.\nOnce the job was complete, this type of clockwork meka was designed with a similar structure but reduced to a smaller scale.",
+        "zh": "在建筑施工、考古发掘上同样有不可估量价值的大型发条机关，其名来自修建克莱门汀线时卡雷斯雇佣的工程师。\n这名工程师在卡雷斯的资助下为打通白淞隧道建造了颇具传奇性的「黄金乐船」\n巨型工程机械，并在竣工后据此设计了这类结构相似，但尺寸缩小的发条机关。"
+      },
+      "drops": [
+        {
+          "id": "recon_log_mek_gears",
+          "title": {
+            "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+            "en": "Gears",
+            "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "meshing_gear",
+              "title": {
+                "ru": "Сцепляющаяся шестерня",
+                "en": "Meshing Gear",
+                "zh": "啮合齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+            },
+            {
+              "key": "mechanical_spur_gear",
+              "title": {
+                "ru": "Шестерня механизма",
+                "en": "Mechanical Spur Gear",
+                "zh": "机关正齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+            },
+            {
+              "key": "artificed_dynamic_gear",
+              "title": {
+                "ru": "Изощрённая динамическая шестерня",
+                "en": "Artificed Dynamic Gear",
+                "zh": "奇械机芯齿轮"
+              },
+              "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 12,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "meshing_gear",
+      "title": {
+        "ru": "Сцепляющаяся шестерня",
+        "en": "Meshing Gear",
+        "zh": "啮合齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "text": {
+        "ru": "Шестерня от мека. Ключевая для трансмиссии деталь, без неё модуль не заработает.",
+        "en": "Clockwork meka's gear. It is a crucial part of the meka's transmission structure. The whole system will malfunction if this gear is absent.",
+        "zh": "发条机关的齿轮。是传动所需的重要零件。一旦缺失，对应模块的功能便无法运作。"
+      }
+    },
+    {
+      "key": "mechanical_spur_gear",
+      "title": {
+        "ru": "Шестерня механизма",
+        "en": "Mechanical Spur Gear",
+        "zh": "机关正齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp",
+      "text": {
+        "ru": "Шестерня от мека.\nПусть кинематика заводных механизмов и шагнула далеко вперёд, но никому так и не удалось превзойти заложенные 400 лет назад Аленом Гильотеном основы\nдинамики и его структуру.",
+        "en": "Clockwork meka's gear.\nAlthough many breakthroughs have been made in the kinematics of clockwork meka, its dynamics research has not seen any major advancements beyond the\nframework laid down by Alain Guillotin four hundred years ago.",
+        "zh": "发条机关的齿轮。尽管发条机关在运动学上经历了许多突破，但动力学上迄今未能突破四百多年前阿兰·吉约丹所立下的根基与框架。"
+      }
+    },
+    {
+      "key": "artificed_dynamic_gear",
+      "title": {
+        "ru": "Изощрённая динамическая шестерня",
+        "en": "Artificed Dynamic Gear",
+        "zh": "奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp",
+      "text": {
+        "ru": "Шестерня от мека. Достижения в точности обработки и материаловедении сыграли ключевую роль в прогрессе меков Фонтейна.\nБлагодаря современному оборудованию любой инженер может создать механизм, который превзойдёт устройства времён мастера заводных механизмов Алена\nГильотена.",
+        "en": "Clockwork meka's gear. Precision processing and advancement of material science are the keys to clockwork meka development in Fontaine.\nWith the help of advanced equipment, any engineer is capable of making a meka that outshines \"Lord-Artificer\" Alain Guillotin's creation.",
+        "zh": "发条机关的齿轮。加工精度与材料学的进步是枫丹发条机关进步的关键。在先进设备的支持下，任何工程师都有制造出超越「奇械公」吉约丹时代机械的可能。"
+      }
+    }
+  ],
+  "material_count": 3
+}

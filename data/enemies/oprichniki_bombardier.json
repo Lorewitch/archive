@@ -31,7 +31,50 @@
     "en": "A soldier of the Fatui Oprichniki, equipped with a specialized hover pack and explosive charges, and tasked with performing breaching operations.\nAs troops with immense breakthrough potential, bombardiers are often sent to the most dire of battlefields, making them the troops who gain meritorious promotions most quickly.\nIt is said that Oprichniki officers overwhelmingly come from the ranks of the bombardiers.",
     "zh": "隶属于愚人众特辖队的士兵，装备了特殊悬浮背包与爆弹，负责执行突破任务。\n作为具有强大突破能力的兵种，掷弹兵常被前线指挥官派往最凶险的战场，因此成为立功升迁最快的兵种之一。\n据说，在特辖队内，出身掷弹兵的士官比例远高于其他兵种。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "oprichniki_line_trooper_warrants",
+      "title": {
+        "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+        "en": "Warrants",
+        "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "tattered_warrant",
+          "title": {
+            "ru": "Потрёпанный мандат",
+            "en": "Tattered Warrant",
+            "zh": "磨损的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+        },
+        {
+          "key": "immaculate_warrant",
+          "title": {
+            "ru": "Безупречный мандат",
+            "en": "Immaculate Warrant",
+            "zh": "精致的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+        },
+        {
+          "key": "frost_etched_warrant",
+          "title": {
+            "ru": "Заиндевевший мандат",
+            "en": "Frost-Etched Warrant",
+            "zh": "霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

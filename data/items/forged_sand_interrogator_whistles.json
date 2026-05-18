@@ -1,0 +1,2250 @@
+{
+  "id": "forged_sand_interrogator_whistles",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+  "title": {
+    "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+    "en": "Whistles",
+    "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [
+    "Sentry's Wooden Whistle",
+    "Warrior's Metal Whistle",
+    "Saurian-Crowned Warrior's Golden Whistle",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "forged_sand_interrogator",
+    "forged_sand_shieldbreaker",
+    "forged_sand_javelineer",
+    "swiftstep_seeker",
+    "swiftstep_storm_scout",
+    "swiftstep_armed_courier",
+    "flowing_blade_skirmisher",
+    "flowing_blade_grease_saw",
+    "flowing_blade_harpoon_thrower",
+    "winged_warrior_skysoarer",
+    "winged_warrior_feathershedder",
+    "winged_warrior_skymaster",
+    "spiritspeaker_warrior_determinator",
+    "spiritspeaker_warrior_psychokinetic",
+    "spiritspeaker_warrior_contemplator",
+    "ferocious_warrior_human_ram",
+    "ferocious_warrior_wrestler",
+    "ferocious_warrior_grappler",
+    "tepetlisaurus_warrior_shard_striker",
+    "tepetlisaurus_warrior_rockbreaker_blade",
+    "yumkasaurus_warrior_whirling_leaves",
+    "yumkasaurus_warrior_flowing_skyfire",
+    "koholasaurus_warrior_waveshuttler",
+    "koholasaurus_warrior_reefsplitter",
+    "qucusaurus_warrior_heartstar_hammer",
+    "qucusaurus_warrior_blazing_sky",
+    "iktomisaurus_warrior_icy_tidebearer",
+    "iktomisaurus_warrior_cryocrystal_cannon",
+    "tatankasaurus_warrior_skybreaker",
+    "tatankasaurus_warrior_spiritlight_chaser"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "forged_sand_interrogator",
+      "title": {
+        "ru": "Кованый песок: Допросчица",
+        "en": "Forged Sand Interrogator",
+        "zh": "铸砂勇士 · 叩问人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/forged_sand_interrogator.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Храбрая воительница каньона и племенной страж, патрулирующая кристальные горы и реки.\nВооружённая булавой, она ударами может превращать в пыль даже самые твёрдые скалы.\nКогда она не сражается, то разбивает камни в поисках самоцветов и кристаллов флогистона.",
+        "en": "A valiant warrior of the canyon, and a tribal guardian who patrols the crystal mountains and rivers.\nA tribal warrior wielding a ball-headed club, she can turn even the hardest of rocks into dust with her crushing blows.\nWhen not using her weapon to fight, she instead often smashes open rocks in search of precious gems and traces of phlogiston crystals.",
+        "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n手持球首棒的部族战士，其敲击能让一切坚石化为齑粉。\n在不进行战斗的时候，她经常用武器敲碎山岩，以寻找宝石和燃素晶块的踪迹。"
+      },
+      "description": {
+        "ru": "Храбрая воительница каньона и племенной страж, патрулирующая кристальные горы и реки.\nВооружённая булавой, она ударами может превращать в пыль даже самые твёрдые скалы.\nКогда она не сражается, то разбивает камни в поисках самоцветов и кристаллов флогистона.",
+        "en": "A valiant warrior of the canyon, and a tribal guardian who patrols the crystal mountains and rivers.\nA tribal warrior wielding a ball-headed club, she can turn even the hardest of rocks into dust with her crushing blows.\nWhen not using her weapon to fight, she instead often smashes open rocks in search of precious gems and traces of phlogiston crystals.",
+        "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n手持球首棒的部族战士，其敲击能让一切坚石化为齑粉。\n在不进行战斗的时候，她经常用武器敲碎山岩，以寻找宝石和燃素晶块的踪迹。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "forged_sand_shieldbreaker",
+      "title": {
+        "ru": "Кованый песок: Крушитель щитов",
+        "en": "Forged Sand Shieldbreaker",
+        "zh": "铸砂勇士 · 碎盾者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/forged_sand_shieldbreaker.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Храбрый воин каньона и племенной страж, патрулирующий кристальные горы и реки.\nКрепко держа массивный боевой молот обеими руками, эти воины первыми прорывают оборону врага.\nВ племени, любящем самоцветы и украшения, молот - первый инструмент, который берут в руки дети.",
+        "en": "A valiant warrior of the canyon, and a tribal guardian that patrols the crystal mountains and rivers.\nTribal warriors wielding massive warhammers with both hands, they are the vanguard that is the first to breach the enemy's defensive lines.\nFor the Children of Echoes, who delight in gemstones and all manner of crafted ornaments, hammers are often the first tool to be touched by the tribe's warriors as children.",
+        "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n双手挥舞巨锤的部族战士，会率先攻破敌人防御的先锋。\n在喜好宝石和装饰品工艺的「回声之子」，锤子往往是战士们仍在孩童时期就经常接触的工具。"
+      },
+      "description": {
+        "ru": "Храбрый воин каньона и племенной страж, патрулирующий кристальные горы и реки.\nКрепко держа массивный боевой молот обеими руками, эти воины первыми прорывают оборону врага.\nВ племени, любящем самоцветы и украшения, молот - первый инструмент, который берут в руки дети.",
+        "en": "A valiant warrior of the canyon, and a tribal guardian that patrols the crystal mountains and rivers.\nTribal warriors wielding massive warhammers with both hands, they are the vanguard that is the first to breach the enemy's defensive lines.\nFor the Children of Echoes, who delight in gemstones and all manner of crafted ornaments, hammers are often the first tool to be touched by the tribe's warriors as children.",
+        "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n双手挥舞巨锤的部族战士，会率先攻破敌人防御的先锋。\n在喜好宝石和装饰品工艺的「回声之子」，锤子往往是战士们仍在孩童时期就经常接触的工具。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "forged_sand_javelineer",
+      "title": {
+        "ru": "Кованый песок: Копьеносец",
+        "en": "Forged Sand Javelineer",
+        "zh": "铸砂勇士 · 投矛手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/forged_sand_javelineer.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Храбрый воин каньона и племенной страж, патрулирующий кристальные горы и реки.\nВ эпоху, когда хребты были разрушены, и племенам нужно было восстанавливать свои земли, воины использовали копья как метки для определения мест, где рыть проходы.\nКаждое копьё нужно было вбить глубоко в скалу.",
+        "en": "A valiant warrior of the canyon, and a tribal guardian that patrols the crystal mountains and rivers.\nIn an era when the ridges were shattered and the tribes needed to rebuild,\nthe warriors used javelins as markers to determine the locations on both sides of the canyon from which passages should be dug.\nThat meant that each javelin had to be sunk deep into the rock.",
+        "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n在山脊破碎，部族需要被重新建立的时代，战士们用投矛作为标的，确认峡谷两侧的位置以开凿通路。\n这意味着，每一根投矛都要深深没入山石之中才行。"
+      },
+      "description": {
+        "ru": "Храбрый воин каньона и племенной страж, патрулирующий кристальные горы и реки.\nВ эпоху, когда хребты были разрушены, и племенам нужно было восстанавливать свои земли, воины использовали копья как метки для определения мест, где рыть проходы.\nКаждое копьё нужно было вбить глубоко в скалу.",
+        "en": "A valiant warrior of the canyon, and a tribal guardian that patrols the crystal mountains and rivers.\nIn an era when the ridges were shattered and the tribes needed to rebuild,\nthe warriors used javelins as markers to determine the locations on both sides of the canyon from which passages should be dug.\nThat meant that each javelin had to be sunk deep into the rock.",
+        "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n在山脊破碎，部族需要被重新建立的时代，战士们用投矛作为标的，确认峡谷两侧的位置以开凿通路。\n这意味着，每一根投矛都要深深没入山石之中才行。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "swiftstep_seeker",
+      "title": {
+        "ru": "Стремительный воин: Ищущая",
+        "en": "Swiftstep Seeker",
+        "zh": "疾迅勇士 · 引索客"
+      },
+      "icon": "assets/icons/enemies/common_enemies/swiftstep_seeker.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воительница Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nВ отличие от воинов других племён, эти воительницы всегда носят с собой крюки-кошки, чтобы совершать неожиданные атаки и побеждать противников.",
+        "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nUnlike the warriors of other tribes, these warriors, ever swinging around the mountains using their grappling hooks,\nare always considering how to defeat their opponents with unexpected attacks.",
+        "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n与其他部族的战士相比，这些终日借助钩绳在山间摆荡的战士对于环境更为敏感，时刻在想着如何使用意料之外的攻击击败对手。"
+      },
+      "description": {
+        "ru": "Воительница Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nВ отличие от воинов других племён, эти воительницы всегда носят с собой крюки-кошки, чтобы совершать неожиданные атаки и побеждать противников.",
+        "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nUnlike the warriors of other tribes, these warriors, ever swinging around the mountains using their grappling hooks,\nare always considering how to defeat their opponents with unexpected attacks.",
+        "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n与其他部族的战士相比，这些终日借助钩绳在山间摆荡的战士对于环境更为敏感，时刻在想着如何使用意料之外的攻击击败对手。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "swiftstep_storm_scout",
+      "title": {
+        "ru": "Стремительный воин: Разведчик ветра",
+        "en": "Swiftstep Storm Scout",
+        "zh": "疾迅勇士 · 荡风斥候"
+      },
+      "icon": "assets/icons/enemies/common_enemies/swiftstep_storm_scout.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nГоворят, что эти воины, вооружённые мечами, стоят под деревьями и рубят каждый падающий лист, чтобы отточить свои навыки.\nКак листья падают бесшумно, так и их удары незаметны.",
+        "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nIt is said that these sword-wielding tribal warriors stand under trees and cut every leaf that falls over the course of a day in order to hone their fighting skills.\nBut just as leaves fall silently, so are the slashes of these swift couriers soundless.",
+        "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n据说使剑的部族人在训练自己的战斗技巧时，需要站在树下，劈开一天内落下的所有叶子。\n但就像落叶其实是没有声音的，讯使们的斩击往往也会悄然而至。"
+      },
+      "description": {
+        "ru": "Воин Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nГоворят, что эти воины, вооружённые мечами, стоят под деревьями и рубят каждый падающий лист, чтобы отточить свои навыки.\nКак листья падают бесшумно, так и их удары незаметны.",
+        "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nIt is said that these sword-wielding tribal warriors stand under trees and cut every leaf that falls over the course of a day in order to hone their fighting skills.\nBut just as leaves fall silently, so are the slashes of these swift couriers soundless.",
+        "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n据说使剑的部族人在训练自己的战斗技巧时，需要站在树下，劈开一天内落下的所有叶子。\n但就像落叶其实是没有声音的，讯使们的斩击往往也会悄然而至。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "swiftstep_armed_courier",
+      "title": {
+        "ru": "Стремительный воин: Вооружённый курьер",
+        "en": "Swiftstep Armed Courier",
+        "zh": "疾迅勇士 · 重刃讯使"
+      },
+      "icon": "assets/icons/enemies/common_enemies/swiftstep_armed_courier.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nМногие сомневаются, что курьеры Потомков Крон могут использовать тяжёлые двуручные мечи, но, возможно, из-за их непростых обязанностей, такое оружие им необходимо.",
+        "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nMany wonder if claymores are too heavy to be wielded by the couriers of the Scions of the Canopy,\nbut perhaps it is precisely because their duties are heavier still that a weapon more capable of deterrence is a necessity.",
+        "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n常常有人怀疑，双手剑对于「悬木人」\n的讯使来说是否是种过重的武器，但或许正因为讯使承担的职责过于紧要，更具威慑力的武器才被视为一种必须。"
+      },
+      "description": {
+        "ru": "Воин Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nМногие сомневаются, что курьеры Потомков Крон могут использовать тяжёлые двуручные мечи, но, возможно, из-за их непростых обязанностей, такое оружие им необходимо.",
+        "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nMany wonder if claymores are too heavy to be wielded by the couriers of the Scions of the Canopy,\nbut perhaps it is precisely because their duties are heavier still that a weapon more capable of deterrence is a necessity.",
+        "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n常常有人怀疑，双手剑对于「悬木人」\n的讯使来说是否是种过重的武器，但或许正因为讯使承担的职责过于紧要，更具威慑力的武器才被视为一种必须。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "flowing_blade_skirmisher",
+      "title": {
+        "ru": "Клинок течений: Налётчица",
+        "en": "Flowing Blade Skirmisher",
+        "zh": "流刃勇士 · 游击人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/flowing_blade_skirmisher.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воительница Народа Родников, племенной страж, патрулирующий воды и берега.\nЭти воительницы сражаются без оружия, используя только физическую силу.\nИх кулаки и ноги обладают силой сокрушительных волн.",
+        "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nIn lieu of weapons, these tribal warriors have mastered the techniques of raw, physical combat.\nTheir seemingly ordinary fists and feet contain the power equal to the crashing waves.",
+        "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n手中空空，精通最原始搏击技巧的部族战士。\n看似平平无奇的拳脚中，蕴藏着海浪般的力量。"
+      },
+      "description": {
+        "ru": "Воительница Народа Родников, племенной страж, патрулирующий воды и берега.\nЭти воительницы сражаются без оружия, используя только физическую силу.\nИх кулаки и ноги обладают силой сокрушительных волн.",
+        "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nIn lieu of weapons, these tribal warriors have mastered the techniques of raw, physical combat.\nTheir seemingly ordinary fists and feet contain the power equal to the crashing waves.",
+        "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n手中空空，精通最原始搏击技巧的部族战士。\n看似平平无奇的拳脚中，蕴藏着海浪般的力量。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "flowing_blade_grease_saw",
+      "title": {
+        "ru": "Клинок течений: Режущий",
+        "en": "Flowing Blade Grease-Saw",
+        "zh": "流刃勇士 · 锯脂者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/flowing_blade_grease_saw.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин Народа Родников, племенной страж, патрулирующий воды и берега.\nЭти воины всегда возглавляют атаку, а их мечи режут как острые клыки.\nОни тренируются в воде, совершенствуя свои навыки и силу, сопротивляясь потокам воды.\nЛучшие из них могут на ходу разрубить плывущую рыбу пополам.",
+        "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nThese warriors always lead the charge, and the swords in their hands are as teeth that saw through bone.\nThe members of the tribe who practice the sword do so in the water, honing their skill and strength against the resistance of the water itself.\nThe best among them can cleave a swimming fish in two.",
+        "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n总是冲在前方的战士，手中的剑犹如噬人的骨齿。\n习练剑术的部族人需要在水中抵抗阻力来锻炼力量与技巧，其中的佼佼者，甚至可以将水中的游鱼一分为二。"
+      },
+      "description": {
+        "ru": "Воин Народа Родников, племенной страж, патрулирующий воды и берега.\nЭти воины всегда возглавляют атаку, а их мечи режут как острые клыки.\nОни тренируются в воде, совершенствуя свои навыки и силу, сопротивляясь потокам воды.\nЛучшие из них могут на ходу разрубить плывущую рыбу пополам.",
+        "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nThese warriors always lead the charge, and the swords in their hands are as teeth that saw through bone.\nThe members of the tribe who practice the sword do so in the water, honing their skill and strength against the resistance of the water itself.\nThe best among them can cleave a swimming fish in two.",
+        "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n总是冲在前方的战士，手中的剑犹如噬人的骨齿。\n习练剑术的部族人需要在水中抵抗阻力来锻炼力量与技巧，其中的佼佼者，甚至可以将水中的游鱼一分为二。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "flowing_blade_harpoon_thrower",
+      "title": {
+        "ru": "Клинок течений: Метатель гарпуна",
+        "en": "Flowing Blade Harpoon-Thrower",
+        "zh": "流刃勇士 · 掷叉猎手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/flowing_blade_harpoon_thrower.webp",
+      "enemy_group": "human_factions",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин Народа Родников, племенной страж, патрулирующий воды и берега.\nНе недооценивайте способности этих воинов с гарпунами, ведь навыки они отточили в охоте и рыбалке.\nГоворят, что в прошлом они охотились на гигантских морских чудовищ с плавниками и чешуёй, твёрдой как железо.",
+        "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nUnderestimate the incredible skills these brave harpoon-wielding warriors have gained through hunting and fishing at your peril.\nIt is said that in the past, tribespeople would use these skills to hunt massive sea beasts with fins and scales as tough as iron.",
+        "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n手中常握着长叉的勇士，他们在渔猎中习得的本领不容小觑。\n据说，从前的部族人就是凭借这手技巧，在海面上追逐鳍鳞坚韧的巨兽。"
+      },
+      "description": {
+        "ru": "Воин Народа Родников, племенной страж, патрулирующий воды и берега.\nНе недооценивайте способности этих воинов с гарпунами, ведь навыки они отточили в охоте и рыбалке.\nГоворят, что в прошлом они охотились на гигантских морских чудовищ с плавниками и чешуёй, твёрдой как железо.",
+        "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nUnderestimate the incredible skills these brave harpoon-wielding warriors have gained through hunting and fishing at your peril.\nIt is said that in the past, tribespeople would use these skills to hunt massive sea beasts with fins and scales as tough as iron.",
+        "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n手中常握着长叉的勇士，他们在渔猎中习得的本领不容小觑。\n据说，从前的部族人就是凭借这手技巧，在海面上追逐鳍鳞坚韧的巨兽。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "winged_warrior_skysoarer",
+      "title": {
+        "ru": "Крылатый воин: Взмывающий ввысь",
+        "en": "Winged Warrior: Skysoarer",
+        "zh": "结羽勇士 · 腾空士"
+      },
+      "icon": "assets/icons/enemies/common_enemies/winged_warrior_skysoarer.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nЭти воины племени доверяют больше собственным рукам, чем оружию. Известны своей ловкостью.",
+        "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nThese tribal warriors trust their own two hands more than any weapon. Above all else, they are renowned for their lithe and agile bearing.",
+        "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n比起武器更信任自己双手的部族战士。\n最为人称道的是其轻盈的身姿。"
+      },
+      "description": {
+        "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nЭти воины племени доверяют больше собственным рукам, чем оружию. Известны своей ловкостью.",
+        "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nThese tribal warriors trust their own two hands more than any weapon. Above all else, they are renowned for their lithe and agile bearing.",
+        "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n比起武器更信任自己双手的部族战士。\n最为人称道的是其轻盈的身姿。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "winged_warrior_feathershedder",
+      "title": {
+        "ru": "Крылатый воин: Срезающий перья",
+        "en": "Winged Warrior: Feathershedder",
+        "zh": "结羽勇士 · 削羽人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/winged_warrior_feathershedder.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nГордые фехтовальщики, чьи взмахи клинка размашисты, как взмах крыльев кукузавра. Кровь брызжет из ран, которые они наносят, напоминая рассыпанные перья.",
+        "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nProud sword wielders whose blade strokes are as sweeping as a Qucusaur's outstretched wingspan. Blood sprays forth like scattered feathers from the wounds they inflict.",
+        "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n挥剑犹如翼龙展开翅膀般大开大合的高傲剑士，被其剑刃劈开的伤口之中，鲜血将如飞羽般挥洒而出。"
+      },
+      "description": {
+        "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nГордые фехтовальщики, чьи взмахи клинка размашисты, как взмах крыльев кукузавра. Кровь брызжет из ран, которые они наносят, напоминая рассыпанные перья.",
+        "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nProud sword wielders whose blade strokes are as sweeping as a Qucusaur's outstretched wingspan. Blood sprays forth like scattered feathers from the wounds they inflict.",
+        "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n挥剑犹如翼龙展开翅膀般大开大合的高傲剑士，被其剑刃劈开的伤口之中，鲜血将如飞羽般挥洒而出。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "winged_warrior_skymaster",
+      "title": {
+        "ru": "Крылатый воин: Владыка небес",
+        "en": "Winged Warrior: Skymaster",
+        "zh": "结羽勇士 · 驭空客"
+      },
+      "icon": "assets/icons/enemies/common_enemies/winged_warrior_skymaster.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nНаблюдая за летающими заврианами и подражая их ударам когтей, эти воины постигли суть управления собственной силой. Их удары, наносимые с высоты, нельзя недооценивать.",
+        "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nBy observing and emulating the claw strikes of airborne Saurians, these warriors have grasped the essence of harnessing their own power.\nTheir kicks, delivered from up high, should not be underestimated.",
+        "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n从飞龙爪击的动作中体悟到运用力量真谛的战士，自高处使用的踢击不容小觑。"
+      },
+      "description": {
+        "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nНаблюдая за летающими заврианами и подражая их ударам когтей, эти воины постигли суть управления собственной силой. Их удары, наносимые с высоты, нельзя недооценивать.",
+        "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nBy observing and emulating the claw strikes of airborne Saurians, these warriors have grasped the essence of harnessing their own power.\nTheir kicks, delivered from up high, should not be underestimated.",
+        "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n从飞龙爪击的动作中体悟到运用力量真谛的战士，自高处使用的踢击不容小觑。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "spiritspeaker_warrior_determinator",
+      "title": {
+        "ru": "Говорящий с духами воин: Мастер настойчивости",
+        "en": "Spiritspeaker Warrior: Determinator",
+        "zh": "灵觉勇士 · 执意师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_determinator.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nМожет использовать силу красок на теле, чтобы управлять оружием и атаковать врагов.",
+        "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nTo a certain degree, they can draw upon the power of their body paint to wield their weapons with their willpower.",
+        "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n能够借由身上油彩涂鸦的力量，一定程度地凭借意念操控手中的武器进行攻击。"
+      },
+      "description": {
+        "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nМожет использовать силу красок на теле, чтобы управлять оружием и атаковать врагов.",
+        "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nTo a certain degree, they can draw upon the power of their body paint to wield their weapons with their willpower.",
+        "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n能够借由身上油彩涂鸦的力量，一定程度地凭借意念操控手中的武器进行攻击。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "spiritspeaker_warrior_psychokinetic",
+      "title": {
+        "ru": "Говорящий с духами воин: Управляющий разумом",
+        "en": "Spiritspeaker Warrior: Psychokinetic",
+        "zh": "灵觉勇士 · 控念师"
+      },
+      "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_psychokinetic.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nГоворят, что рисунки на их теле основаны на принципах флогистоновой гравировки. Только после долгих лет тренировок можно постичь их истинную силу.",
+        "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nIt is said that their body paint is an art that evolved from the practice of Phlogiston Engraving,\nand that it takes long years of training to fully master the power contained within.",
+        "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n据说身上的油彩涂鸦是燃素刻录演化到了如今的形式，需要经过漫长的修行才能真正掌握其中的力量。"
+      },
+      "description": {
+        "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nГоворят, что рисунки на их теле основаны на принципах флогистоновой гравировки. Только после долгих лет тренировок можно постичь их истинную силу.",
+        "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nIt is said that their body paint is an art that evolved from the practice of Phlogiston Engraving,\nand that it takes long years of training to fully master the power contained within.",
+        "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n据说身上的油彩涂鸦是燃素刻录演化到了如今的形式，需要经过漫长的修行才能真正掌握其中的力量。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "spiritspeaker_warrior_contemplator",
+      "title": {
+        "ru": "Говорящий с духами воин: Размышляющий",
+        "en": "Spiritspeaker Warrior: Contemplator",
+        "zh": "灵觉勇士 · 冥思者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_contemplator.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nТолько дозорным, чья сила прошла проверку, разрешается разрисовывать свои тела граффити, наделёнными таинственной силой.\nЭто также означает, что эти воины достигли нового этапа духовной подготовки.",
+        "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nOnly sentries whose strength has been tested are permitted to daub themselves with such body paint, infused as it is with mysterious powers.\nThis also signifies that these warriors have reached a new phase in their mental training.",
+        "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n只有力量经过考验的卫从才能在身上绘制具有特殊力量的油彩涂鸦，也意味着部族勇士关于意念的修行到达了下一个阶段。"
+      },
+      "description": {
+        "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nТолько дозорным, чья сила прошла проверку, разрешается разрисовывать свои тела граффити, наделёнными таинственной силой.\nЭто также означает, что эти воины достигли нового этапа духовной подготовки.",
+        "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nOnly sentries whose strength has been tested are permitted to daub themselves with such body paint, infused as it is with mysterious powers.\nThis also signifies that these warriors have reached a new phase in their mental training.",
+        "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n只有力量经过考验的卫从才能在身上绘制具有特殊力量的油彩涂鸦，也意味着部族勇士关于意念的修行到达了下一个阶段。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ferocious_warrior_human_ram",
+      "title": {
+        "ru": "Свирепый воин: Таран",
+        "en": "Ferocious Warrior: Human Ram",
+        "zh": "横蛮勇士·冲撞手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ferocious_warrior_human_ram.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин с равнин, страж племени, стерегущий золотые поля.\nТакие воины с ловкостью поражают уязвимые места противника своими рогами. Будьте осторожны - не дайте обнаружить ваши слабости.",
+        "en": "A warrior from the plains and a tribal guardian who watches over the golden fields.\nThey are adept at using their horn-studded blades to strike at enemy weak spots — be careful not to let them detect any of yours.",
+        "zh": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\n精通如何利用刃角攻击敌人弱点的技巧，切忌被其发现自身的破绽。"
+      },
+      "description": {
+        "ru": "Воин с равнин, страж племени, стерегущий золотые поля.\nТакие воины с ловкостью поражают уязвимые места противника своими рогами. Будьте осторожны - не дайте обнаружить ваши слабости.",
+        "en": "A warrior from the plains and a tribal guardian who watches over the golden fields.\nThey are adept at using their horn-studded blades to strike at enemy weak spots — be careful not to let them detect any of yours.",
+        "zh": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\n精通如何利用刃角攻击敌人弱点的技巧，切忌被其发现自身的破绽。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ferocious_warrior_wrestler",
+      "title": {
+        "ru": "Свирепый воин: Борец",
+        "en": "Ferocious Warrior: Wrestler",
+        "zh": "横蛮勇士·摔跤客"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ferocious_warrior_wrestler.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин с равнин, страж племени, стерегущий золотые поля.\nТакие бойцы неустанно тренируют свою силу с того самого момента, когда решили стать воинами. Никто из обычных людей не выдержит могучего удара их двуручного оружия.",
+        "en": "A warrior from the plains and a tribal guardian who watches over the golden fields.\nThey have trained their strength relentlessly since the moment they set their sights on becoming a warrior.\nWhen they bring their two-handed weapon down in a mighty strike, the sheer force is something no ordinary person can withstand.",
+        "zh": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\n从立志成为战士之初便不断训练自身的力量的战士，手持双手武器下劈时，具有常人无法抵挡的威势。"
+      },
+      "description": {
+        "ru": "Воин с равнин, страж племени, стерегущий золотые поля.\nТакие бойцы неустанно тренируют свою силу с того самого момента, когда решили стать воинами. Никто из обычных людей не выдержит могучего удара их двуручного оружия.",
+        "en": "A warrior from the plains and a tribal guardian who watches over the golden fields.\nThey have trained their strength relentlessly since the moment they set their sights on becoming a warrior.\nWhen they bring their two-handed weapon down in a mighty strike, the sheer force is something no ordinary person can withstand.",
+        "zh": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\n从立志成为战士之初便不断训练自身的力量的战士，手持双手武器下劈时，具有常人无法抵挡的威势。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ferocious_warrior_grappler",
+      "title": {
+        "ru": "Свирепый воин: Ловец",
+        "en": "Ferocious Warrior: Grappler",
+        "zh": "横蛮勇士·抓扑人"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ferocious_warrior_grappler.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Воин с равнин, страж племени, стерегущий золотые поля.\nВ Уделе Благодатных Земель искусство безоружного боя обладает высочайшим почётом.\nВоины, вставшие на долгий путь обучения этому искусству, должны обладать такой силой, чтобы метнуть копьё на другой конец поля.",
+        "en": "A warrior from the plains and a tribal guardian who watches over the golden fields.\nThe art of unarmed combat is regarded with great honor among the Collective of Plenty.\nWarriors who embark on the long path of training for such an art must possess the strength to hurl a spear a thousand yards.",
+        "zh": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\n仅用肢体进行格斗在「沃陆之邦」\n被视为一种荣耀之行，为此踏上修行之路的战士，拥有将投矛投出万钧之势的臂力。"
+      },
+      "description": {
+        "ru": "Воин с равнин, страж племени, стерегущий золотые поля.\nВ Уделе Благодатных Земель искусство безоружного боя обладает высочайшим почётом.\nВоины, вставшие на долгий путь обучения этому искусству, должны обладать такой силой, чтобы метнуть копьё на другой конец поля.",
+        "en": "A warrior from the plains and a tribal guardian who watches over the golden fields.\nThe art of unarmed combat is regarded with great honor among the Collective of Plenty.\nWarriors who embark on the long path of training for such an art must possess the strength to hurl a spear a thousand yards.",
+        "zh": "来自平原之上的勇士，在金穗田间巡游的部族守卫者。\n仅用肢体进行格斗在「沃陆之邦」\n被视为一种荣耀之行，为此踏上修行之路的战士，拥有将投矛投出万钧之势的臂力。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "tepetlisaurus_warrior_shard_striker",
+      "title": {
+        "ru": "Тепетлизавр-воин: Крушитель осколков",
+        "en": "Tepetlisaurus Warrior: Shard Striker",
+        "zh": "嵴锋龙武士 · 碎晶打者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tepetlisaurus_warrior_shard_striker.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может ударить с силой камнепада.\nДаже среди Детей Эха, которые обожают камни и кристаллы, коронованные заврианами воины - мастера, лучше всех понимающие природу камня.\nГоворят, что они могут определить чистоту и текстуру руды, взглянув на её необработанную поверхность.",
+        "en": "A powerful warrior from the canyon, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can strike with the power of a rockfall.\nEven among the Children of Echoes, who live and breathe rock and crystal, Saurian-Crowned Warriors are masters who understand rock and stone better than any.\nIt is said they can even divine the purity and grain of the interior of raw ore merely by looking at the rough exterior.",
+        "zh": "来自峡谷之中，勇武受到认可，得以获授龙冠的强大武士。\n能够借助岩崩之力进行击打的武者。\n即使是在与山岩晶体亲近的「回声之子」\n中，龙冠武士也是领悟山岩之力更为透彻的高手。\n据说他们甚至能够透过原矿表面粗糙的风化皮，分析其内部的成色和纹理。"
+      },
+      "description": {
+        "ru": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может ударить с силой камнепада.\nДаже среди Детей Эха, которые обожают камни и кристаллы, коронованные заврианами воины - мастера, лучше всех понимающие природу камня.\nГоворят, что они могут определить чистоту и текстуру руды, взглянув на её необработанную поверхность.",
+        "en": "A powerful warrior from the canyon, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can strike with the power of a rockfall.\nEven among the Children of Echoes, who live and breathe rock and crystal, Saurian-Crowned Warriors are masters who understand rock and stone better than any.\nIt is said they can even divine the purity and grain of the interior of raw ore merely by looking at the rough exterior.",
+        "zh": "来自峡谷之中，勇武受到认可，得以获授龙冠的强大武士。\n能够借助岩崩之力进行击打的武者。\n即使是在与山岩晶体亲近的「回声之子」\n中，龙冠武士也是领悟山岩之力更为透彻的高手。\n据说他们甚至能够透过原矿表面粗糙的风化皮，分析其内部的成色和纹理。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "tepetlisaurus_warrior_rockbreaker_blade",
+      "title": {
+        "ru": "Тепетлизавр-воин: Камнедробитель",
+        "en": "Tepetlisaurus Warrior: Rockbreaker Blade",
+        "zh": "嵴锋龙武士 · 破岩锐刃"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tepetlisaurus_warrior_rockbreaker_blade.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может ударить с силой камнепада.\nЛегенда гласит, что Серные жилы когда-то были цельным и красивым горным хребтом, но когда пришли чёрные волны, коронованные заврианами воины Детей Эха рассекли землю,\nчтобы направить прилив.\nТак горный хребет принял свой нынешний вид.",
+        "en": "A powerful warrior from the canyon, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can strike with the power of a rockfall.\nLegend holds that the Sulfurous Veins were once a more complete and more beautiful mountain range,\nand it was only when the Black Tide came that the Saurian-Crowned warriors of the Children of Echoes carved the earth itself to guide the tide,\ngiving the Veins their current appearance.",
+        "zh": "来自峡谷之中，勇武受到认可，得以获授龙冠的强大武士。\n能够借助岩崩之力进行击打的武者。\n在传说中，硫晶支脉原本是更完整和更漂亮的山脉。\n只是在黑潮来袭之时，「回声之子」\n的龙冠武士们为了引导黑潮的方向，将大地敲凿而开，才有了现在的样貌。"
+      },
+      "description": {
+        "ru": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может ударить с силой камнепада.\nЛегенда гласит, что Серные жилы когда-то были цельным и красивым горным хребтом, но когда пришли чёрные волны, коронованные заврианами воины Детей Эха рассекли землю,\nчтобы направить прилив.\nТак горный хребет принял свой нынешний вид.",
+        "en": "A powerful warrior from the canyon, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can strike with the power of a rockfall.\nLegend holds that the Sulfurous Veins were once a more complete and more beautiful mountain range,\nand it was only when the Black Tide came that the Saurian-Crowned warriors of the Children of Echoes carved the earth itself to guide the tide,\ngiving the Veins their current appearance.",
+        "zh": "来自峡谷之中，勇武受到认可，得以获授龙冠的强大武士。\n能够借助岩崩之力进行击打的武者。\n在传说中，硫晶支脉原本是更完整和更漂亮的山脉。\n只是在黑潮来袭之时，「回声之子」\n的龙冠武士们为了引导黑潮的方向，将大地敲凿而开，才有了现在的样貌。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "yumkasaurus_warrior_whirling_leaves",
+      "title": {
+        "ru": "Юмказавр-воин: Кружащая листва",
+        "en": "Yumkasaurus Warrior: Whirling Leaves",
+        "zh": "匿叶龙武士 · 旋锯飞叶"
+      },
+      "icon": "assets/icons/enemies/common_enemies/yumkasaurus_warrior_whirling_leaves.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучий воин Потомков Крон, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может использовать крюк-кошку для увеличения дальности атаки.\nКрюки-кошки - неотъемлемая часть повседневной жизни Потомков Крон.\nОднако только самые дерзкие воины комбинируют крюки-кошки с лезвиями пилы, чтобы создать исключительно смертоносное, трудно контролируемое оружие.",
+        "en": "A powerful warrior from the Canopy, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can use a grappling hook to extend their attack range.\nGrappling hooks are an indispensable part of daily life for the Scions of the Canopy.\nHowever, only the wildest warriors will combine the hooks with sawblades to create a weapon both exceptionally lethal and difficult-to-control.",
+        "zh": "来自悬木之里，勇武受到认可，得以获授龙冠的强大武士。\n能够借助钩绳延展攻击范围的武者。\n钩绳是「悬木人」\n部族成员日常生活中不可缺少的组成部分。\n不过即使如此，只有最疯狂的战士才会将钩绳和锯刃相结合，变成难以操纵但杀伤力巨大的武器。"
+      },
+      "description": {
+        "ru": "Могучий воин Потомков Крон, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может использовать крюк-кошку для увеличения дальности атаки.\nКрюки-кошки - неотъемлемая часть повседневной жизни Потомков Крон.\nОднако только самые дерзкие воины комбинируют крюки-кошки с лезвиями пилы, чтобы создать исключительно смертоносное, трудно контролируемое оружие.",
+        "en": "A powerful warrior from the Canopy, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can use a grappling hook to extend their attack range.\nGrappling hooks are an indispensable part of daily life for the Scions of the Canopy.\nHowever, only the wildest warriors will combine the hooks with sawblades to create a weapon both exceptionally lethal and difficult-to-control.",
+        "zh": "来自悬木之里，勇武受到认可，得以获授龙冠的强大武士。\n能够借助钩绳延展攻击范围的武者。\n钩绳是「悬木人」\n部族成员日常生活中不可缺少的组成部分。\n不过即使如此，只有最疯狂的战士才会将钩绳和锯刃相结合，变成难以操纵但杀伤力巨大的武器。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "yumkasaurus_warrior_flowing_skyfire",
+      "title": {
+        "ru": "Юмказавр-воин: Текущий огонь",
+        "en": "Yumkasaurus Warrior: Flowing Skyfire",
+        "zh": "匿叶龙武士 · 流火鸣空"
+      },
+      "icon": "assets/icons/enemies/common_enemies/yumkasaurus_warrior_flowing_skyfire.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучая воительница каньона, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница использует крюк-кошку для увеличения дальности атаки.\nСоединив сложные механизмы, они могут стрелять из ручной пушки, используя крюк-кошку.\nДля коронованных заврианами воинов Потомков Крон совершенствование навыков и мышления важнее тренировки духа и воли.",
+        "en": "A powerful warrior from the Canopy, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can use a grappling hook to extend their attack range.\nFollowing intricate mechanical tinkering, the handcannon they wield can be fired using said grappling hook.\nFor the Saurian-Crowned warriors of the Scions of the Canopy, refining one's skills and thought is more important than training the spirit and will.",
+        "zh": "来自悬木之里，勇武受到认可，得以获授龙冠的强大武士。\n能够借助钩绳延展攻击范围的武者。\n经过精巧机关的组装后，其手中的手砲可以利用钩绳触动发射。\n对于「悬木人」\n部族的龙冠武士们来说，更重要的不是对精神和意志的锤炼，而是对技艺与思绪的精研。"
+      },
+      "description": {
+        "ru": "Могучая воительница каньона, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница использует крюк-кошку для увеличения дальности атаки.\nСоединив сложные механизмы, они могут стрелять из ручной пушки, используя крюк-кошку.\nДля коронованных заврианами воинов Потомков Крон совершенствование навыков и мышления важнее тренировки духа и воли.",
+        "en": "A powerful warrior from the Canopy, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can use a grappling hook to extend their attack range.\nFollowing intricate mechanical tinkering, the handcannon they wield can be fired using said grappling hook.\nFor the Saurian-Crowned warriors of the Scions of the Canopy, refining one's skills and thought is more important than training the spirit and will.",
+        "zh": "来自悬木之里，勇武受到认可，得以获授龙冠的强大武士。\n能够借助钩绳延展攻击范围的武者。\n经过精巧机关的组装后，其手中的手砲可以利用钩绳触动发射。\n对于「悬木人」\n部族的龙冠武士们来说，更重要的不是对精神和意志的锤炼，而是对技艺与思绪的精研。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "koholasaurus_warrior_waveshuttler",
+      "title": {
+        "ru": "Кохолазавр-воин: Пронзающая волны",
+        "en": "Koholasaurus Warrior: Waveshuttler",
+        "zh": "鳍游龙武士 · 穿浪之梭"
+      },
+      "icon": "assets/icons/enemies/common_enemies/koholasaurus_warrior_waveshuttler.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучая воительница Народа Родников, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница может временно использовать силу волн для быстрого передвижения.\nПо легенде, герои племени с невероятной скоростью перемещаются по волнам без каких-либо инструментов.\nСегодня племя считает, что используя сложные, изощрённые движения, можно управлять волнами.",
+        "en": "A powerful warrior from the source of the springs, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can temporarily harness the power of the waves to shuttle back and forth.\nAccording to legend, the tribe's heroes can take advantage of exceptional speed to move across the waves with no need of any tool.\nToday, the tribe believes this to be a sophisticated, complex art used to drive the waves, with the way one moves being at its heart.",
+        "zh": "来自流泉之源，勇武受到认可，得以获授龙冠的强大武士。\n能短暂借助海浪之力来回穿梭的武者。\n传说中，部族的英杰甚至能够借由极高的速度，不凭借任何工具即可在水面上折返来回。\n如今的部族人认为，这是一种相当精巧的驱使海浪的技艺，其重点在于移动时的方法。"
+      },
+      "description": {
+        "ru": "Могучая воительница Народа Родников, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница может временно использовать силу волн для быстрого передвижения.\nПо легенде, герои племени с невероятной скоростью перемещаются по волнам без каких-либо инструментов.\nСегодня племя считает, что используя сложные, изощрённые движения, можно управлять волнами.",
+        "en": "A powerful warrior from the source of the springs, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can temporarily harness the power of the waves to shuttle back and forth.\nAccording to legend, the tribe's heroes can take advantage of exceptional speed to move across the waves with no need of any tool.\nToday, the tribe believes this to be a sophisticated, complex art used to drive the waves, with the way one moves being at its heart.",
+        "zh": "来自流泉之源，勇武受到认可，得以获授龙冠的强大武士。\n能短暂借助海浪之力来回穿梭的武者。\n传说中，部族的英杰甚至能够借由极高的速度，不凭借任何工具即可在水面上折返来回。\n如今的部族人认为，这是一种相当精巧的驱使海浪的技艺，其重点在于移动时的方法。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "koholasaurus_warrior_reefsplitter",
+      "title": {
+        "ru": "Кохолазавр-воин: Дробящая рифы",
+        "en": "Koholasaurus Warrior: Reefsplitter",
+        "zh": "鳍游龙武士 · 裂礁之涛"
+      },
+      "icon": "assets/icons/enemies/common_enemies/koholasaurus_warrior_reefsplitter.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучая воительница Народа Родников, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница может временно использовать силу волн для быстрого передвижения.\nГоворят, чтобы овладеть этим навыком, нужно пройти три стадии обучения: сначала адаптация, затем подчинение и, наконец, управление.\nОвладение таким способом передвижения - базовое требование для коронованных заврианами воинов Народа Родников.\nЛучшие из них могут даже использовать этот навык для передвижения по земле.",
+        "en": "A powerful warrior from the source of the springs, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can temporarily harness the power of the waves to shuttle back and forth.\nIt is said that one must undergo three states of training to master this skill: First, to adapt.\nSecond, to submit.\nFinally, to drive.\nMastering this method of movement is merely the entry-level requirement to become a Saurian-Crowned Warrior of the People of the Springs,\nand the greatest among these Warriors can even use this skill to sail on land.",
+        "zh": "来自流泉之源，勇武受到认可，得以获授龙冠的强大武士。\n能短暂借助海浪之力来回穿梭的武者。\n据说要熟练掌握这样的技巧需要三个阶段的修炼：首先适应，其次依从，最后驱使。\n掌握这样的运力之法只是成为「流泉之众」\n龙冠武士的入门要求，而龙冠武士中的高手甚至可以短暂借此施行陆上行舟的法门。"
+      },
+      "description": {
+        "ru": "Могучая воительница Народа Родников, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница может временно использовать силу волн для быстрого передвижения.\nГоворят, чтобы овладеть этим навыком, нужно пройти три стадии обучения: сначала адаптация, затем подчинение и, наконец, управление.\nОвладение таким способом передвижения - базовое требование для коронованных заврианами воинов Народа Родников.\nЛучшие из них могут даже использовать этот навык для передвижения по земле.",
+        "en": "A powerful warrior from the source of the springs, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can temporarily harness the power of the waves to shuttle back and forth.\nIt is said that one must undergo three states of training to master this skill: First, to adapt.\nSecond, to submit.\nFinally, to drive.\nMastering this method of movement is merely the entry-level requirement to become a Saurian-Crowned Warrior of the People of the Springs,\nand the greatest among these Warriors can even use this skill to sail on land.",
+        "zh": "来自流泉之源，勇武受到认可，得以获授龙冠的强大武士。\n能短暂借助海浪之力来回穿梭的武者。\n据说要熟练掌握这样的技巧需要三个阶段的修炼：首先适应，其次依从，最后驱使。\n掌握这样的运力之法只是成为「流泉之众」\n龙冠武士的入门要求，而龙冠武士中的高手甚至可以短暂借此施行陆上行舟的法门。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "qucusaurus_warrior_heartstar_hammer",
+      "title": {
+        "ru": "Кукузавр-воин: Молот звёзд",
+        "en": "Qucusaurus Warrior: Heartstar Hammer",
+        "zh": "绒翼龙武士 · 膛星之锤"
+      },
+      "icon": "assets/icons/enemies/common_enemies/qucusaurus_warrior_heartstar_hammer.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nДаже в Натлане, стране Пиро, члены клана Цветочного Пера имеют уникальный подход к обращению с огнём.\nДля этих воинов, вооружённых тяжёлыми молотами, пламя - это нечто, вырывающееся при яростных столкновениях, символ накала эмоций.\nКогда они сражаются, бой обычно заканчивается в одно мгновение, а победа всегда остаётся за ними.",
+        "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nEven in Natlan, the Nation of Pyro, members of the Flower-Feather Clan have a unique approach when it comes to wielding fire and flames.\nFor these tribal warriors, armed as they are with heavy hammers, flames are something that burst forth from violent collisions, symbols of intense passion.\nWhen they do battle, the fight usually ends within an instant— and they are always the ones who stand victorious.",
+        "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n即便是在火之国纳塔，来自「花羽会」\n部族的成员对于火焰与燃烧的利用仍然别具一格。\n对于使用重锤的部族武士来说，火焰是冲撞与迸发，是激昂与热烈。\n对于他们来说，战斗往往在瞬息之间就将迎来结果，而他们总是获得胜利的一方。"
+      },
+      "description": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nДаже в Натлане, стране Пиро, члены клана Цветочного Пера имеют уникальный подход к обращению с огнём.\nДля этих воинов, вооружённых тяжёлыми молотами, пламя - это нечто, вырывающееся при яростных столкновениях, символ накала эмоций.\nКогда они сражаются, бой обычно заканчивается в одно мгновение, а победа всегда остаётся за ними.",
+        "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nEven in Natlan, the Nation of Pyro, members of the Flower-Feather Clan have a unique approach when it comes to wielding fire and flames.\nFor these tribal warriors, armed as they are with heavy hammers, flames are something that burst forth from violent collisions, symbols of intense passion.\nWhen they do battle, the fight usually ends within an instant— and they are always the ones who stand victorious.",
+        "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n即便是在火之国纳塔，来自「花羽会」\n部族的成员对于火焰与燃烧的利用仍然别具一格。\n对于使用重锤的部族武士来说，火焰是冲撞与迸发，是激昂与热烈。\n对于他们来说，战斗往往在瞬息之间就将迎来结果，而他们总是获得胜利的一方。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "qucusaurus_warrior_blazing_sky",
+      "title": {
+        "ru": "Кукузавр-воин: Пылающее небо",
+        "en": "Qucusaurus Warrior: Blazing Sky",
+        "zh": "绒翼龙武士 · 长空明焰"
+      },
+      "icon": "assets/icons/enemies/common_enemies/qucusaurus_warrior_blazing_sky.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nСреди множества видов заврианов кукузавры отличаются особой гордостью.\nЭта черта характерна и для воинов-кукузавров, которым удаётся добиться их признания.\nГоворят, что в прошлом воины племени наблюдали, как эти красные заврианы развлекались, бросая с большой высоты огненные камни,\nи именно это впервые вдохновило воинов запускать снаряды, вызывающие взрывные цепные реакции.\nЭта концепция, усовершенствованная с течением времени, как говорят, послужила основой для создания многих видов огнестрельного оружия клана Цветочного Пера.",
+        "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nAmong the many varieties of Saurians, the Qucusaurs stand particularly proud,\nand this is a trait that is shared by the Qucusaurus Warriors who are able to obtain their recognition.\nIt is said that in the past, tribal warriors would watch these crimson Saurians amuse themselves by tossing flaming stones from great heights;\nand that it was this that first inspired them to set off projectiles to cause explosive chain reactions.\nThis concept, gradually refined over time, is said to have been the origin of many of the Flower-Feather Clan's firearms.",
+        "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n绒翼龙在诸多龙众之中也是相当骄傲的一族，能够得到它们承认的绒翼龙武士亦同享这一份骄矜。\n据说从前部族的勇士在看到绯色的翼龙将火石从高处投掷以取乐时，迸发出了连环爆炸的弹药的想法。\n这一逐渐完善的想法，据说就是「花羽会」\n诸多火器的雏形。"
+      },
+      "description": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nСреди множества видов заврианов кукузавры отличаются особой гордостью.\nЭта черта характерна и для воинов-кукузавров, которым удаётся добиться их признания.\nГоворят, что в прошлом воины племени наблюдали, как эти красные заврианы развлекались, бросая с большой высоты огненные камни,\nи именно это впервые вдохновило воинов запускать снаряды, вызывающие взрывные цепные реакции.\nЭта концепция, усовершенствованная с течением времени, как говорят, послужила основой для создания многих видов огнестрельного оружия клана Цветочного Пера.",
+        "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nAmong the many varieties of Saurians, the Qucusaurs stand particularly proud,\nand this is a trait that is shared by the Qucusaurus Warriors who are able to obtain their recognition.\nIt is said that in the past, tribal warriors would watch these crimson Saurians amuse themselves by tossing flaming stones from great heights;\nand that it was this that first inspired them to set off projectiles to cause explosive chain reactions.\nThis concept, gradually refined over time, is said to have been the origin of many of the Flower-Feather Clan's firearms.",
+        "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n绒翼龙在诸多龙众之中也是相当骄傲的一族，能够得到它们承认的绒翼龙武士亦同享这一份骄矜。\n据说从前部族的勇士在看到绯色的翼龙将火石从高处投掷以取乐时，迸发出了连环爆炸的弹药的想法。\n这一逐渐完善的想法，据说就是「花羽会」\n诸多火器的雏形。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "iktomisaurus_warrior_icy_tidebearer",
+      "title": {
+        "ru": "Иктомизавр-воин: Несущий ледяную волну",
+        "en": "Iktomisaurus Warrior: Icy Tidebearer",
+        "zh": "暝视龙武士 · 寒涌持者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/iktomisaurus_warrior_icy_tidebearer.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nВоины из племени Повелителей Ночного Ветра обычно не отличаются особой силой.\nИх способность с лёгкостью владеть оружием - результат многолетних духовных тренировок.\nТаким образом, по сравнению с боевым мастерством как таковым, воины из Повелителей Ночного Ветра придают большее значение умению говорить с духами.\nСамые выдающиеся из них могут поднимать валуны размером с человека, используя силу особых граффити и духа.",
+        "en": "A powerful warrior from the Night-Wind, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nTribal warriors from the Masters of the Night-Wind do not typically excel when it comes to conventional strength.\nTheir ability to manipulate weapons with ease comes instead from years of mental training.\nThus, compared to combat prowess in itself,\nwarriors from the Masters of the Night-Wind place greater value on the gift of \"Spiritspeaking.\"Drawing upon the power of special graffiti and willpower alone,\nit is said that the most exceptional of Spiritspeakers can lift boulders as tall as people.",
+        "zh": "来自谜烟之内，勇武受到认可，得以获授龙冠的强大武士。\n来自「烟谜主」\n的部族勇士通常不以真正意义上的力量见长。\n令他们能够自如操纵武器的是长久修行产生的意念。\n所以相较于战斗的天赋，「烟谜主」\n的勇士更看重「灵觉」\n的天赋。\n据说，「灵觉」\n最为出众的武士，甚至能够凭借特殊涂鸦和精神的力量抬起一人高的巨石。"
+      },
+      "description": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nВоины из племени Повелителей Ночного Ветра обычно не отличаются особой силой.\nИх способность с лёгкостью владеть оружием - результат многолетних духовных тренировок.\nТаким образом, по сравнению с боевым мастерством как таковым, воины из Повелителей Ночного Ветра придают большее значение умению говорить с духами.\nСамые выдающиеся из них могут поднимать валуны размером с человека, используя силу особых граффити и духа.",
+        "en": "A powerful warrior from the Night-Wind, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nTribal warriors from the Masters of the Night-Wind do not typically excel when it comes to conventional strength.\nTheir ability to manipulate weapons with ease comes instead from years of mental training.\nThus, compared to combat prowess in itself,\nwarriors from the Masters of the Night-Wind place greater value on the gift of \"Spiritspeaking.\"Drawing upon the power of special graffiti and willpower alone,\nit is said that the most exceptional of Spiritspeakers can lift boulders as tall as people.",
+        "zh": "来自谜烟之内，勇武受到认可，得以获授龙冠的强大武士。\n来自「烟谜主」\n的部族勇士通常不以真正意义上的力量见长。\n令他们能够自如操纵武器的是长久修行产生的意念。\n所以相较于战斗的天赋，「烟谜主」\n的勇士更看重「灵觉」\n的天赋。\n据说，「灵觉」\n最为出众的武士，甚至能够凭借特殊涂鸦和精神的力量抬起一人高的巨石。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "iktomisaurus_warrior_cryocrystal_cannon",
+      "title": {
+        "ru": "Иктомизавр-воин: Криокристаллическая пушка",
+        "en": "Iktomisaurus Warrior: Cryocrystal Cannon",
+        "zh": "暝视龙武士 · 冰晶炮手"
+      },
+      "icon": "assets/icons/enemies/common_enemies/iktomisaurus_warrior_cryocrystal_cannon.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nГоворят, что все воины племени, получившие признание иктомизавров, обладают невероятной проницательностью и сильным духом.\nОни способны изменять траекторию полёта пушечных снарядов.",
+        "en": "A powerful warrior from the Night-Wind, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nWithout exception, it is said that tribal warriors who win the acknowledgment of the Iktomisaurs must possess extraordinarily keen senses and formidable mental strength.\nThey can even use their power to make slight alterations to the trajectory of the projectiles that they fire from their cannons.",
+        "zh": "来自谜烟之内，勇武受到认可，得以获授龙冠的强大武士。\n据说能够被暝视龙承认的部族武士无一不有着超然的敏锐感知和强大坚韧的精神力。\n她们甚至能够借由这份力量微微改变火炮射出的弹药的轨迹。"
+      },
+      "description": {
+        "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nГоворят, что все воины племени, получившие признание иктомизавров, обладают невероятной проницательностью и сильным духом.\nОни способны изменять траекторию полёта пушечных снарядов.",
+        "en": "A powerful warrior from the Night-Wind, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nWithout exception, it is said that tribal warriors who win the acknowledgment of the Iktomisaurs must possess extraordinarily keen senses and formidable mental strength.\nThey can even use their power to make slight alterations to the trajectory of the projectiles that they fire from their cannons.",
+        "zh": "来自谜烟之内，勇武受到认可，得以获授龙冠的强大武士。\n据说能够被暝视龙承认的部族武士无一不有着超然的敏锐感知和强大坚韧的精神力。\n她们甚至能够借由这份力量微微改变火炮射出的弹药的轨迹。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "tatankasaurus_warrior_skybreaker",
+      "title": {
+        "ru": "Татанказавр-воин: Разрушитель небес",
+        "en": "Tatankasaurus Warrior: Skybreaker",
+        "zh": "突角龙武士·破空轰动"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tatankasaurus_warrior_skybreaker.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Сильный воин Удела Благодатных Земель. Его храбрость общепризнанна, и за это он может носить корону заврианов.\nГоворят, что воины Удела Благодатных Земель любят наносить мощные удары, несясь на врага, - урок, полученный от их спутников, татанказавров.\nОсобенно это касается тех воинов, которые используют тяжёлое оружие.\nОни утверждают, что секрет успешного удара заключается в замахе от бедра.",
+        "en": "A powerful warrior from a land of plenty, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nIt is said that the warriors of the Collective of Plenty like to deal powerful strikes while dashing at their foes — a lesson learned from the Tatankasaurs who share their lands.\nThis is especially true for those warriors who wield heavy weapons, and claim the secret to a successful blow is to swing from the hips.",
+        "zh": "来自沃陆之上，勇武受到认可，得以获授龙冠的强大武士。\n据说在「沃陆之邦」，与突角龙共同生活的战士们自龙伙伴的身上，学会了如何一边冲刺一边进行强力攻击的方法。\n使用重型武器的战士更是如此，据说，其中的秘诀其实是灵巧转动腰身的技术。"
+      },
+      "description": {
+        "ru": "Сильный воин Удела Благодатных Земель. Его храбрость общепризнанна, и за это он может носить корону заврианов.\nГоворят, что воины Удела Благодатных Земель любят наносить мощные удары, несясь на врага, - урок, полученный от их спутников, татанказавров.\nОсобенно это касается тех воинов, которые используют тяжёлое оружие.\nОни утверждают, что секрет успешного удара заключается в замахе от бедра.",
+        "en": "A powerful warrior from a land of plenty, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nIt is said that the warriors of the Collective of Plenty like to deal powerful strikes while dashing at their foes — a lesson learned from the Tatankasaurs who share their lands.\nThis is especially true for those warriors who wield heavy weapons, and claim the secret to a successful blow is to swing from the hips.",
+        "zh": "来自沃陆之上，勇武受到认可，得以获授龙冠的强大武士。\n据说在「沃陆之邦」，与突角龙共同生活的战士们自龙伙伴的身上，学会了如何一边冲刺一边进行强力攻击的方法。\n使用重型武器的战士更是如此，据说，其中的秘诀其实是灵巧转动腰身的技术。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "tatankasaurus_warrior_spiritlight_chaser",
+      "title": {
+        "ru": "Татанказавр-воин: Ловчая света",
+        "en": "Tatankasaurus Warrior: Spiritlight Chaser",
+        "zh": "突角龙武士·追缉灵光"
+      },
+      "icon": "assets/icons/enemies/common_enemies/tatankasaurus_warrior_spiritlight_chaser.webp",
+      "enemy_group": "human_factions",
+      "region": "Натлан",
+      "game_version": "5.5",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Сильная воительница Удела Благодатных Земель. Храбрость этих воинов общепризнанна, и за это они могут носить корону заврианов.\nСреди членов Удела Благодатных Земель даже те воины, которые упорно тренировались использовать дальнобойное оружие, известны как искусные мастера рукопашного боя.\nМожет, дальнобойное оружие им удобнее использовать как дубину, а не для стрельбы.",
+        "en": "A powerful warrior from a land of plenty, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nAmong the Collective of Plenty, even those warriors who have painstakingly trained to use long-range weapons are known to be skilled in hand-to-hand combat.\nPerhaps, to them, ranged weapons are better for bludgeoning than firing projectiles.",
+        "zh": "来自沃陆之上，勇武受到认可，得以获授龙冠的强大武士。\n在「沃陆之邦」，即使是钻研如何使用远程武器的战士，也有出色的近战技巧。\n或许对她们来说，比起使用远程的炮火进行打击，直接抡起弹弓才是更适合自己的方式吧。"
+      },
+      "description": {
+        "ru": "Сильная воительница Удела Благодатных Земель. Храбрость этих воинов общепризнанна, и за это они могут носить корону заврианов.\nСреди членов Удела Благодатных Земель даже те воины, которые упорно тренировались использовать дальнобойное оружие, известны как искусные мастера рукопашного боя.\nМожет, дальнобойное оружие им удобнее использовать как дубину, а не для стрельбы.",
+        "en": "A powerful warrior from a land of plenty, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nAmong the Collective of Plenty, even those warriors who have painstakingly trained to use long-range weapons are known to be skilled in hand-to-hand combat.\nPerhaps, to them, ranged weapons are better for bludgeoning than firing projectiles.",
+        "zh": "来自沃陆之上，勇武受到认可，得以获授龙冠的强大武士。\n在「沃陆之邦」，即使是钻研如何使用远程武器的战士，也有出色的近战技巧。\n或许对她们来说，比起使用远程的炮火进行打击，直接抡起弹弓才是更适合自己的方式吧。"
+      },
+      "drops": [
+        {
+          "id": "forged_sand_interrogator_whistles",
+          "title": {
+            "ru": "Деревянный свисток дозорного / Металлический свисток воина / Золотой свисток коронованного заврианами воина",
+            "en": "Whistles",
+            "zh": "卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+          },
+          "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "5.0",
+          "materials": [
+            {
+              "key": "sentrys_wooden_whistle",
+              "title": {
+                "ru": "Деревянный свисток дозорного",
+                "en": "Sentry's Wooden Whistle",
+                "zh": "卫从的木哨"
+              },
+              "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp"
+            },
+            {
+              "key": "warriors_metal_whistle",
+              "title": {
+                "ru": "Металлический свисток воина",
+                "en": "Warrior's Metal Whistle",
+                "zh": "战士的铁哨"
+              },
+              "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp"
+            },
+            {
+              "key": "saurian_crowned_warriors_golden_whistle",
+              "title": {
+                "ru": "Золотой свисток коронованного заврианами воина",
+                "en": "Saurian-Crowned Warrior's Golden Whistle",
+                "zh": "龙冠武士的金哨"
+              },
+              "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 30,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "sentrys_wooden_whistle",
+      "title": {
+        "ru": "Деревянный свисток дозорного",
+        "en": "Sentry's Wooden Whistle",
+        "zh": "卫从的木哨"
+      },
+      "icon": "assets/icons/items/common_enemies/sentrys_wooden_whistle.webp",
+      "text": {
+        "ru": "Символ дозорного из племени Натлана.\nВоинами не рождаются. Сначала нужно овладеть боевыми навыками под руководством кого-то опытного. Так возникла должность ученика дозорного.",
+        "en": "The symbol of a Natlan tribal sentry.\nWarriors are not born as warriors. They must first acquire the skills of combat by learning under the tutelage of those who have already done so.\nThis is the origin of the trainee position of sentry.",
+        "zh": "纳塔部族卫从的象征。\n战士并非一开始就是战士，得先跟从真正的战士们学习战斗的技巧，这就是部族中「卫从」这一见习职位的由来。"
+      }
+    },
+    {
+      "key": "warriors_metal_whistle",
+      "title": {
+        "ru": "Металлический свисток воина",
+        "en": "Warrior's Metal Whistle",
+        "zh": "战士的铁哨"
+      },
+      "icon": "assets/icons/items/common_enemies/warriors_metal_whistle.webp",
+      "text": {
+        "ru": "Символ воина племени Натлана.\nМеталлический свисток, который вручают тем, кто официально признан воинами племени. Его используют для связи.\nПатрульные окрестностей племени используют его для предупреждения других об опасности. Эта обязанность лежит на воинах племени.",
+        "en": "The symbol of a Natlan tribal warrior.\nA metal whistle that is given to individuals who have been officially recognized as tribal warriors.\nIt is used to communicate and alert others to danger by those that patrol the tribe's vicinity.\nThis is a duty that falls upon the warriors of the tribe.",
+        "zh": "纳塔部族战士的象征。\n正式成为部族战士后能够拥有的铁哨。在部族周围巡游，一旦出现危险就用哨声互相通知呼应。这就是部族中「战士」需要履行的职责。"
+      }
+    },
+    {
+      "key": "saurian_crowned_warriors_golden_whistle",
+      "title": {
+        "ru": "Золотой свисток коронованного заврианами воина",
+        "en": "Saurian-Crowned Warrior's Golden Whistle",
+        "zh": "龙冠武士的金哨"
+      },
+      "icon": "assets/icons/items/common_enemies/saurian_crowned_warriors_golden_whistle.webp",
+      "text": {
+        "ru": "Символ коронованного заврианами, могучего воина из племён Натлана.\nЗолотой свисток вручается тем, кто принёс племени честь и славу и чьё мужество было признано.\nОднако теперь его значение больше декоративное, так как воин, коронованный заврианами, способен самостоятельно справиться с большинством проблем.",
+        "en": "Among Natlan's tribes, this is the symbol of a mighty, Saurian-Crowned warrior.\nA golden whistle that is bestowed only upon those who have won great honor for the tribe and shown valor of the highest order.\nIts symbolic significance now outweighs its practical use, for a Saurian-Crowned warrior is able to handle most crises alone.",
+        "zh": "纳塔部族中，获授龙冠的强大武士的象征。\n只有为部族争取到了足够的荣誉，其勇武得到承认之后，才会得到的金哨。但此时其装饰的意义已经高过实际使用的意义，因为头戴龙冠的武士可以独自解决大部分的危机。"
+      }
+    }
+  ],
+  "material_count": 3
+}

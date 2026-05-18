@@ -31,7 +31,50 @@
     "en": "An ancient humanoid war machine.\nLegend has it that these machines were combat automatons created by a long-destroyed nation.\nThey now wander ruins and ancient detritus, attacking offending travelers.\nResearch indicates that the Ruin Guards and the ruins they operate in do not originate from the same source,\nsuggesting that there may be a difference of as much as several thousand years between them on the timeline.\nSo why then do the Ruin Guards continue staying among these ruins, using their \"explosive firepower\"to protect the crumbling walls and broken tiles?",
     "zh": "古老的人形战斗机械。\n传说是已经覆灭的国度留下的战争机械，会徘徊至世界各地的遗迹废都，并攻击冒失的旅人。\n研究表明遗迹守卫与这些废墟并非同源，表明两者的时代也相差至少数千年，为何遗迹守卫会驻留在其中，并以「爆炸性的火力」\n守护这些残垣断壁呢…"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "ruin_chaos",
+      "title": {
+        "ru": "Устройство хаоса / Цепь хаоса / Ядро хаоса",
+        "en": "Chaos",
+        "zh": "混沌装置 / 混沌回路 / 混沌炉心"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "chaos_device",
+          "title": {
+            "ru": "Устройство хаоса",
+            "en": "Chaos Device",
+            "zh": "混沌装置"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_device.webp"
+        },
+        {
+          "key": "chaos_circuit",
+          "title": {
+            "ru": "Цепь хаоса",
+            "en": "Chaos Circuit",
+            "zh": "混沌回路"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_circuit.webp"
+        },
+        {
+          "key": "chaos_core",
+          "title": {
+            "ru": "Ядро хаоса",
+            "en": "Chaos Core",
+            "zh": "混沌炉心"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_core.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

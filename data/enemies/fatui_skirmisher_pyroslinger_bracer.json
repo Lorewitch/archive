@@ -31,7 +31,50 @@
     "en": "A Fatui soldier who wields a flaming gun.\nSkirmisher weapons can control the elements to a certain extent, and their combat tactics utilize elemental reactions.\nTheir ordnance and knowledge of squad-based combat thus constitute no small threat in battle.",
     "zh": "操使着烈焰之铳的愚人众士兵。\n先遣队配置的武器在一定程度上能制御元素，战斗策略上则会利用元素反应。\n因为拥有这样的武装与知识，先遣队团队作战时能带来无法小觑的威胁。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
+      "title": {
+        "ru": "Шеврон рядового / Шеврон сержанта / Шеврон офицера",
+        "en": "Insignias",
+        "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
+      },
+      "icon": "assets/icons/items/common_enemies/recruits_insignia.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "recruits_insignia",
+          "title": {
+            "ru": "Шеврон рядового",
+            "en": "Recruit's Insignia",
+            "zh": "新兵的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/recruits_insignia.webp"
+        },
+        {
+          "key": "sergeants_insignia",
+          "title": {
+            "ru": "Шеврон сержанта",
+            "en": "Sergeant's Insignia",
+            "zh": "士官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/sergeants_insignia.webp"
+        },
+        {
+          "key": "lieutenants_insignia",
+          "title": {
+            "ru": "Шеврон офицера",
+            "en": "Lieutenant's Insignia",
+            "zh": "尉官的徽记"
+          },
+          "icon": "assets/icons/items/common_enemies/lieutenants_insignia.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

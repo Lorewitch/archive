@@ -1,0 +1,522 @@
+{
+  "id": "geovishap_bone_shards",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+  "title": {
+    "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+    "en": "Bone Shards",
+    "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Fragile Bone Shard",
+    "Sturdy Bone Shard",
+    "Fossilized Bone Shard",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "geovishap_hatchling",
+    "geovishap",
+    "primordial_bathysmal_vishap",
+    "primordial_bathysmal_vishap_hatchling",
+    "rimebiter_bathysmal_vishap_hatchling",
+    "bolteater_bathysmal_vishap_hatchling"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "geovishap_hatchling",
+      "title": {
+        "ru": "Детёныш геовишапа",
+        "en": "Geovishap Hatchling",
+        "zh": "幼岩龙蜥"
+      },
+      "icon": "assets/icons/enemies/common_enemies/geovishap_hatchling.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Ли Юэ",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Молодой вишап с твёрдым Гео панцирем.\nВишапы - исключительно проворные существа, которых не стоит недооценивать в бою.\nЭксперты из академии Сумеру считают, что, достигнув зрелости, они становятся драконами.\nИзбегая хищников и других опасностей, они, возможно, могут прожить достаточно долго, чтобы стать грозными властелинами гор.",
+        "en": "A young vishap with a hard Geo exoskeleton.\nVishaps are exceptionally agile creatures that one would be wise not to underestimate in battle.\nExperts from Sumeru Akademiya believe that they become dragons when fully grown.\nBy avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.",
+        "zh": "有着坚硬岩质甲壳的小型龙蜥。\n行动非常灵活，是不容小觑的对手。\n须弥教令院的研究认为，即使是这种幼兽，也有成为「龙」\n的潜质。\n假以时日，如果不受天灾与敌害，或许也有一天能成为撼动高山的巨大魔物吧。"
+      },
+      "description": {
+        "ru": "Молодой вишап с твёрдым Гео панцирем.\nВишапы - исключительно проворные существа, которых не стоит недооценивать в бою.\nЭксперты из академии Сумеру считают, что, достигнув зрелости, они становятся драконами.\nИзбегая хищников и других опасностей, они, возможно, могут прожить достаточно долго, чтобы стать грозными властелинами гор.",
+        "en": "A young vishap with a hard Geo exoskeleton.\nVishaps are exceptionally agile creatures that one would be wise not to underestimate in battle.\nExperts from Sumeru Akademiya believe that they become dragons when fully grown.\nBy avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.",
+        "zh": "有着坚硬岩质甲壳的小型龙蜥。\n行动非常灵活，是不容小觑的对手。\n须弥教令院的研究认为，即使是这种幼兽，也有成为「龙」\n的潜质。\n假以时日，如果不受天灾与敌害，或许也有一天能成为撼动高山的巨大魔物吧。"
+      },
+      "drops": [
+        {
+          "id": "geovishap_bone_shards",
+          "title": {
+            "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+            "en": "Bone Shards",
+            "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "fragile_bone_shard",
+              "title": {
+                "ru": "Хрупкие останки",
+                "en": "Fragile Bone Shard",
+                "zh": "脆弱的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+            },
+            {
+              "key": "sturdy_bone_shard",
+              "title": {
+                "ru": "Крепкие останки",
+                "en": "Sturdy Bone Shard",
+                "zh": "结实的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+            },
+            {
+              "key": "fossilized_bone_shard",
+              "title": {
+                "ru": "Окаменевшие останки",
+                "en": "Fossilized Bone Shard",
+                "zh": "石化的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "geovishap",
+      "title": {
+        "ru": "Геовишап",
+        "en": "Geovishap",
+        "zh": "岩龙蜥"
+      },
+      "icon": "assets/icons/enemies/common_enemies/geovishap.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Ли Юэ",
+      "game_version": "1.3",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Зрелый геовишап.\nСчитается, что детёныши геовишапов взрослеют по прошествии многих лет, причём непременно сбрасывают панцирь.\nНо молодняк, взрослые особи и величественные древние геовишапы лишь недавно начали выходить из-под скал, где долгое время оставались в спячке.\nПоэтому свидетелей, которые могли бы высказаться в пользу этой теории, нет.",
+        "en": "A mature Geovishap.\nIt is said that after many years have passed, Geovishap Hatchlings will shed the armor that originally protected them and become Geovishaps.\nHowever, these two and the older, greater Primo Geovishaps have spent many years hibernating under the mountains, and have only emerged and become active in recent times.\nAs such, none can personally attest to having witnessed or recorded such a thing in person.",
+        "zh": "成熟的岩之龙蜥。\n据称，幼岩龙蜥历经漫长岁月的积累后，会蜕去原本保护自己的装甲，成为「岩龙蜥」。\n但这两者，以及更古老、更伟大的「古岩龙蜥」，在过去的许多年中都蛰伏在山下，直到近期才开始活动。\n因此这种说法没有第一手观测记录证明。"
+      },
+      "description": {
+        "ru": "Зрелый геовишап.\nСчитается, что детёныши геовишапов взрослеют по прошествии многих лет, причём непременно сбрасывают панцирь.\nНо молодняк, взрослые особи и величественные древние геовишапы лишь недавно начали выходить из-под скал, где долгое время оставались в спячке.\nПоэтому свидетелей, которые могли бы высказаться в пользу этой теории, нет.",
+        "en": "A mature Geovishap.\nIt is said that after many years have passed, Geovishap Hatchlings will shed the armor that originally protected them and become Geovishaps.\nHowever, these two and the older, greater Primo Geovishaps have spent many years hibernating under the mountains, and have only emerged and become active in recent times.\nAs such, none can personally attest to having witnessed or recorded such a thing in person.",
+        "zh": "成熟的岩之龙蜥。\n据称，幼岩龙蜥历经漫长岁月的积累后，会蜕去原本保护自己的装甲，成为「岩龙蜥」。\n但这两者，以及更古老、更伟大的「古岩龙蜥」，在过去的许多年中都蛰伏在山下，直到近期才开始活动。\n因此这种说法没有第一手观测记录证明。"
+      },
+      "drops": [
+        {
+          "id": "geovishap_bone_shards",
+          "title": {
+            "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+            "en": "Bone Shards",
+            "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "fragile_bone_shard",
+              "title": {
+                "ru": "Хрупкие останки",
+                "en": "Fragile Bone Shard",
+                "zh": "脆弱的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+            },
+            {
+              "key": "sturdy_bone_shard",
+              "title": {
+                "ru": "Крепкие останки",
+                "en": "Sturdy Bone Shard",
+                "zh": "结实的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+            },
+            {
+              "key": "fossilized_bone_shard",
+              "title": {
+                "ru": "Окаменевшие останки",
+                "en": "Fossilized Bone Shard",
+                "zh": "石化的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "primordial_bathysmal_vishap",
+      "title": {
+        "ru": "Вишап глубин: Исток",
+        "en": "Primordial Bathysmal Vishap",
+        "zh": "深海龙蜥·原种"
+      },
+      "icon": "assets/icons/enemies/common_enemies/primordial_bathysmal_vishap.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Обитающий в морских глубинах вишап.\nКогда-то они господствовали в морских глубинах, а в ещё более древние времена драконы повелевали всем миром.\nНо их семеро властителей были повержены небесными силами и один за другим пришли в упадок.\nВ последнее время вишапы стали появляться вдали от глубин.\nХотя им, возможно, и трудно стать частью действительности под властью людей, но это и их мир тоже.",
+        "en": "A vishap that dwells deep beneath the oceans.\nThey were once the dominant race in the depths — and indeed, dragons were the overlords of the whole world in an even earlier age.\nBut their former Seven Sovereigns were defeated by a power from the heavens, withering one by one.",
+        "zh": "生活在海渊之下的龙蜥。\n它们曾经是海渊之下的支配种族——其实在更加久远的过去，龙们就是这个世界的支配者。\n曾经的七王被高天之力打败，相继凋零了。"
+      },
+      "description": {
+        "ru": "Обитающий в морских глубинах вишап.\nКогда-то они господствовали в морских глубинах, а в ещё более древние времена драконы повелевали всем миром.\nНо их семеро властителей были повержены небесными силами и один за другим пришли в упадок.\nВ последнее время вишапы стали появляться вдали от глубин.\nХотя им, возможно, и трудно стать частью действительности под властью людей, но это и их мир тоже.",
+        "en": "A vishap that dwells deep beneath the oceans.\nThey were once the dominant race in the depths — and indeed, dragons were the overlords of the whole world in an even earlier age.\nBut their former Seven Sovereigns were defeated by a power from the heavens, withering one by one.",
+        "zh": "生活在海渊之下的龙蜥。\n它们曾经是海渊之下的支配种族——其实在更加久远的过去，龙们就是这个世界的支配者。\n曾经的七王被高天之力打败，相继凋零了。"
+      },
+      "drops": [
+        {
+          "id": "geovishap_bone_shards",
+          "title": {
+            "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+            "en": "Bone Shards",
+            "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "fragile_bone_shard",
+              "title": {
+                "ru": "Хрупкие останки",
+                "en": "Fragile Bone Shard",
+                "zh": "脆弱的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+            },
+            {
+              "key": "sturdy_bone_shard",
+              "title": {
+                "ru": "Крепкие останки",
+                "en": "Sturdy Bone Shard",
+                "zh": "结实的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+            },
+            {
+              "key": "fossilized_bone_shard",
+              "title": {
+                "ru": "Окаменевшие останки",
+                "en": "Fossilized Bone Shard",
+                "zh": "石化的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "primordial_bathysmal_vishap_hatchling",
+      "title": {
+        "ru": "Молодой вишап глубин: Исток",
+        "en": "Primordial Bathysmal Vishap Hatchling",
+        "zh": "深海龙蜥幼体·原种"
+      },
+      "icon": "assets/icons/enemies/common_enemies/primordial_bathysmal_vishap_hatchling.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Обитающий в морских глубинах вишап.\nКогда-то они господствовали в морских глубинах, а в ещё более древние времена драконы повелевали всем миром.\nНо их семеро властителей были повержены небесными силами и один за другим пришли в упадок.\nВ последнее время вишапы стали появляться вдали от глубин.\nХотя им, возможно, и трудно стать частью действительности под властью людей, но это и их мир тоже.",
+        "en": "A vishap that dwells deep beneath the abyssal depths.\nThey were once the dominant race in the depths — and indeed, dragons were the overlords of the whole world in an even earlier age.\nBut their former Seven Sovereigns were defeated by a power from the heavens, withering one by one.\nRecently, vishaps have appeared away from the depths.\nWhile they may have trouble assimilating in a world ruled by humans, this is still their world.",
+        "zh": "生活在海渊之下的龙蜥。\n它们曾是海渊之下的支配种族——其实在更加久远的过去，龙们就是这个世界的支配者。曾经的七王被高天之力打败，相继凋零了。\n如今似乎有龙蜥出现在了远离海渊的地方。或许它们无法融入人所主宰的世界，但这仍然是它们的世界。"
+      },
+      "description": {
+        "ru": "Обитающий в морских глубинах вишап.\nКогда-то они господствовали в морских глубинах, а в ещё более древние времена драконы повелевали всем миром.\nНо их семеро властителей были повержены небесными силами и один за другим пришли в упадок.\nВ последнее время вишапы стали появляться вдали от глубин.\nХотя им, возможно, и трудно стать частью действительности под властью людей, но это и их мир тоже.",
+        "en": "A vishap that dwells deep beneath the abyssal depths.\nThey were once the dominant race in the depths — and indeed, dragons were the overlords of the whole world in an even earlier age.\nBut their former Seven Sovereigns were defeated by a power from the heavens, withering one by one.\nRecently, vishaps have appeared away from the depths.\nWhile they may have trouble assimilating in a world ruled by humans, this is still their world.",
+        "zh": "生活在海渊之下的龙蜥。\n它们曾是海渊之下的支配种族——其实在更加久远的过去，龙们就是这个世界的支配者。曾经的七王被高天之力打败，相继凋零了。\n如今似乎有龙蜥出现在了远离海渊的地方。或许它们无法融入人所主宰的世界，但这仍然是它们的世界。"
+      },
+      "drops": [
+        {
+          "id": "geovishap_bone_shards",
+          "title": {
+            "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+            "en": "Bone Shards",
+            "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "fragile_bone_shard",
+              "title": {
+                "ru": "Хрупкие останки",
+                "en": "Fragile Bone Shard",
+                "zh": "脆弱的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+            },
+            {
+              "key": "sturdy_bone_shard",
+              "title": {
+                "ru": "Крепкие останки",
+                "en": "Sturdy Bone Shard",
+                "zh": "结实的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+            },
+            {
+              "key": "fossilized_bone_shard",
+              "title": {
+                "ru": "Окаменевшие останки",
+                "en": "Fossilized Bone Shard",
+                "zh": "石化的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "rimebiter_bathysmal_vishap_hatchling",
+      "title": {
+        "ru": "Молодой вишап глубин: Ледогрыз",
+        "en": "Rimebiter Bathysmal Vishap Hatchling",
+        "zh": "深海龙蜥幼体·啮冰"
+      },
+      "icon": "assets/icons/enemies/common_enemies/rimebiter_bathysmal_vishap_hatchling.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Обитающий в морских глубинах вишап.\nБлагодаря социальной адаптации, он приобрел форму, соответствующую элементу Крио.\nС приходом людей и столкновением с ними вишапы глубин начали развиваться.\nРазвивались они подобно муравьям, среди которых разделение труда и разные гендерные роли привели к появлению разных форм.\nЭти вишапы значительно сильнее обычных вишапов глубин.",
+        "en": "A vishap that dwells deep beneath the oceans. Due to certain social adaptations, it has manifested a form aligned with the Cryo element.\nThe coming of humans sparked a conflict and a resultant evolution within the Bathysmal Vishaps, just as ants might divide up labor and biological characteristics,\nthus appearing in different forms.\nThese vishaps are stronger than their ordinary kin.",
+        "zh": "生活在海渊之下的龙蜥。因为社会分工，而出现了冰元素的形态。\n人类的到来引发了对抗，深海龙蜥开始了进化。正如同蚂蚁会因为性别和分工不同，而产生不同形态。\n这些龙蜥比起普通深海龙蜥更加强大。"
+      },
+      "description": {
+        "ru": "Обитающий в морских глубинах вишап.\nБлагодаря социальной адаптации, он приобрел форму, соответствующую элементу Крио.\nС приходом людей и столкновением с ними вишапы глубин начали развиваться.\nРазвивались они подобно муравьям, среди которых разделение труда и разные гендерные роли привели к появлению разных форм.\nЭти вишапы значительно сильнее обычных вишапов глубин.",
+        "en": "A vishap that dwells deep beneath the oceans. Due to certain social adaptations, it has manifested a form aligned with the Cryo element.\nThe coming of humans sparked a conflict and a resultant evolution within the Bathysmal Vishaps, just as ants might divide up labor and biological characteristics,\nthus appearing in different forms.\nThese vishaps are stronger than their ordinary kin.",
+        "zh": "生活在海渊之下的龙蜥。因为社会分工，而出现了冰元素的形态。\n人类的到来引发了对抗，深海龙蜥开始了进化。正如同蚂蚁会因为性别和分工不同，而产生不同形态。\n这些龙蜥比起普通深海龙蜥更加强大。"
+      },
+      "drops": [
+        {
+          "id": "geovishap_bone_shards",
+          "title": {
+            "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+            "en": "Bone Shards",
+            "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "fragile_bone_shard",
+              "title": {
+                "ru": "Хрупкие останки",
+                "en": "Fragile Bone Shard",
+                "zh": "脆弱的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+            },
+            {
+              "key": "sturdy_bone_shard",
+              "title": {
+                "ru": "Крепкие останки",
+                "en": "Sturdy Bone Shard",
+                "zh": "结实的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+            },
+            {
+              "key": "fossilized_bone_shard",
+              "title": {
+                "ru": "Окаменевшие останки",
+                "en": "Fossilized Bone Shard",
+                "zh": "石化的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "bolteater_bathysmal_vishap_hatchling",
+      "title": {
+        "ru": "Молодой вишап глубин: Громоглот",
+        "en": "Bolteater Bathysmal Vishap Hatchling",
+        "zh": "深海龙蜥幼体·吞雷"
+      },
+      "icon": "assets/icons/enemies/common_enemies/bolteater_bathysmal_vishap_hatchling.webp",
+      "enemy_group": "mystical_beasts",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "2.4",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Обитающий в морских глубинах вишап.\nБлагодаря социальной адаптации, он приобрел форму, соответствующую элементу Электро.\nПавшим семи властителям на смену приходят новые поколения.\nНо начав эволюцию, вишапы глубин потеряли свою чистоту.\nИ теперь среди них уже не может родиться новый Дракон Воды.\nПророчество гласит, что новый Дракон Воды сойдёт на землю в облике человека.\nХотя Дракон Воды, что обрёл совершенную форму, по-прежнему воспринимает их как сородичей, он куда больше напоминает представителей другой расы.\nВозможно, они решили, что лучше быть ближе к людям, раз уж решили работать с ними, а может быть, видят их потенциал...",
+        "en": "A vishap that dwells deep beneath the abyssal depths. Due to certain social adaptations, it has manifested a form aligned with the Electro element.\nFollowing the demise of the Ancient Seven Sovereigns, a new generation of Sovereigns is presently being born.\nBut now that the Bathysmal Vishaps have evolved in this manner, they have lost their purity.\nAs such, the Dragon of Water will no longer be born from among their ranks.\nProphecy holds that the new Dragon of Water will definitely descend in the form of a human...\nThough the Dragons of Water that have returned to their complete form still see them as one of their own, they are closer to another race.\nPerhaps they figured that it is better to be closer to humans, since they chose to work with them, or perhaps they see their potential...",
+        "zh": "生活在海渊之下的龙蜥。因为社会分工，而出现了雷元素的形态。\n古七王凋零之后，新一代的七王正在陆续诞生。只是深海龙蜥如此进化，失去了纯粹。水之龙已经不会在它们族群中诞生了。根据预言，新的水之龙一定会以人形降临…\n如今回归完全形态的水之龙虽仍把它们视作同族，但是却与另一种族走得更近。或许是因为选择了与人携手并进，「眷属」自然是能与人相容为好；又或许是因为看到了她们的潜力。"
+      },
+      "description": {
+        "ru": "Обитающий в морских глубинах вишап.\nБлагодаря социальной адаптации, он приобрел форму, соответствующую элементу Электро.\nПавшим семи властителям на смену приходят новые поколения.\nНо начав эволюцию, вишапы глубин потеряли свою чистоту.\nИ теперь среди них уже не может родиться новый Дракон Воды.\nПророчество гласит, что новый Дракон Воды сойдёт на землю в облике человека.\nХотя Дракон Воды, что обрёл совершенную форму, по-прежнему воспринимает их как сородичей, он куда больше напоминает представителей другой расы.\nВозможно, они решили, что лучше быть ближе к людям, раз уж решили работать с ними, а может быть, видят их потенциал...",
+        "en": "A vishap that dwells deep beneath the abyssal depths. Due to certain social adaptations, it has manifested a form aligned with the Electro element.\nFollowing the demise of the Ancient Seven Sovereigns, a new generation of Sovereigns is presently being born.\nBut now that the Bathysmal Vishaps have evolved in this manner, they have lost their purity.\nAs such, the Dragon of Water will no longer be born from among their ranks.\nProphecy holds that the new Dragon of Water will definitely descend in the form of a human...\nThough the Dragons of Water that have returned to their complete form still see them as one of their own, they are closer to another race.\nPerhaps they figured that it is better to be closer to humans, since they chose to work with them, or perhaps they see their potential...",
+        "zh": "生活在海渊之下的龙蜥。因为社会分工，而出现了雷元素的形态。\n古七王凋零之后，新一代的七王正在陆续诞生。只是深海龙蜥如此进化，失去了纯粹。水之龙已经不会在它们族群中诞生了。根据预言，新的水之龙一定会以人形降临…\n如今回归完全形态的水之龙虽仍把它们视作同族，但是却与另一种族走得更近。或许是因为选择了与人携手并进，「眷属」自然是能与人相容为好；又或许是因为看到了她们的潜力。"
+      },
+      "drops": [
+        {
+          "id": "geovishap_bone_shards",
+          "title": {
+            "ru": "Хрупкие останки / Крепкие останки / Окаменевшие останки",
+            "en": "Bone Shards",
+            "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
+          },
+          "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "fragile_bone_shard",
+              "title": {
+                "ru": "Хрупкие останки",
+                "en": "Fragile Bone Shard",
+                "zh": "脆弱的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp"
+            },
+            {
+              "key": "sturdy_bone_shard",
+              "title": {
+                "ru": "Крепкие останки",
+                "en": "Sturdy Bone Shard",
+                "zh": "结实的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp"
+            },
+            {
+              "key": "fossilized_bone_shard",
+              "title": {
+                "ru": "Окаменевшие останки",
+                "en": "Fossilized Bone Shard",
+                "zh": "石化的骨片"
+              },
+              "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 6,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "fragile_bone_shard",
+      "title": {
+        "ru": "Хрупкие останки",
+        "en": "Fragile Bone Shard",
+        "zh": "脆弱的骨片"
+      },
+      "icon": "assets/icons/items/common_enemies/fragile_bone_shard.webp",
+      "text": {
+        "ru": "Осколок кости, найденный на теле геовишапа.\nЭти кости очень хрупкие, но они всё ещё содержат в себе неописуемую силу.",
+        "en": "A bone shard once carried by a Geovishap.\nAlthough they are quite fragile, they seem to still harbor some indescribable power.",
+        "zh": "从龙蜥身上找到的某种骨片。\n尽管十分脆弱，其中似乎蕴含着某种难以言喻的力量。"
+      }
+    },
+    {
+      "key": "sturdy_bone_shard",
+      "title": {
+        "ru": "Крепкие останки",
+        "en": "Sturdy Bone Shard",
+        "zh": "结实的骨片"
+      },
+      "icon": "assets/icons/items/common_enemies/sturdy_bone_shard.webp",
+      "text": {
+        "ru": "Фрагмент костей неизвестного существа, которые очень любят геовишапы.\nФрагмент выглядит довольно древним.\nПо каким-то непонятным причинам эти драконоподобные существа, не имеющие своего языка, испытывают особую привязанность к осколкам этих костей.",
+        "en": "A fragment of an unknown creature's bones that appear to be prized by Geovishaps for some reason.\nThe fragment appears to be quite aged.\nDespite being dragon-like beasts with no spoken language, they still seem to have some sort of special affection for these bone shards.",
+        "zh": "出于某种理由，龙蜥十分珍惜的某种生物骨片。\n看上去有一定的年头。即使是这种不通人言的龙兽，似乎对这种遗骸也拥有某种特殊的憧憬。"
+      }
+    },
+    {
+      "key": "fossilized_bone_shard",
+      "title": {
+        "ru": "Окаменевшие останки",
+        "en": "Fossilized Bone Shard",
+        "zh": "石化的骨片"
+      },
+      "icon": "assets/icons/items/common_enemies/fossilized_bone_shard.webp",
+      "text": {
+        "ru": "Окаменевший фрагмент кости, который иногда можно найти после победы над геовишапом.\nГеовишапы мечтают когда-нибудь стать великими драконами.\nОни бережно хранят эти костяные осколки, возможно, потому что они надеются получить силу и долголетие настоящих драконов.",
+        "en": "A fossilized bone fragment sometimes found after defeating Geovishaps.\nGeovishaps all dream of growing into great dragons one day.\nThey see these fossils as dragon bones and greatly cherish them, perhaps because they too hope to attain the dragons' longevity and power.",
+        "zh": "击败龙蜥后有时能找到的石化骨片。\n龙蜥都梦想着成长为真正的龙。会把古老的化石认作是龙之骨而加以珍惜，或许是因为希冀着龙的永恒与强大吧。"
+      }
+    }
+  ],
+  "material_count": 3
+}

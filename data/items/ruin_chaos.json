@@ -1,0 +1,306 @@
+{
+  "id": "ruin_chaos",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+  "title": {
+    "ru": "Устройство хаоса / Цепь хаоса / Ядро хаоса",
+    "en": "Chaos",
+    "zh": "混沌装置 / 混沌回路 / 混沌炉心"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Chaos Device",
+    "Chaos Circuit",
+    "Chaos Core",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "ruin_guard",
+    "ruin_hunter",
+    "ruin_grader"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "ruin_guard",
+      "title": {
+        "ru": "Страж руин",
+        "en": "Ruin Guard",
+        "zh": "遗迹守卫"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ruin_guard.webp",
+      "enemy_group": "automatons",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Древняя человекоподобная боевая машина.\nЛегенды рассказывают о погибшей цивилизации, которая создала эти машины.\nТеперь они скитаются по руинам и нападают на неосторожных путешественников.\nИсследователям удалось выяснить, что стражи руин и руины, которые они охраняют, относятся к разным эпохам и их отделяют по меньшей мере несколько тысяч лет.\nТак почему же стражи руин остаются в этих руинах и используют свою огневую мощь для защиты груды камней и осыпающихся стен?",
+        "en": "An ancient humanoid war machine.\nLegend has it that these machines were combat automatons created by a long-destroyed nation.\nThey now wander ruins and ancient detritus, attacking offending travelers.\nResearch indicates that the Ruin Guards and the ruins they operate in do not originate from the same source,\nsuggesting that there may be a difference of as much as several thousand years between them on the timeline.\nSo why then do the Ruin Guards continue staying among these ruins, using their \"explosive firepower\"to protect the crumbling walls and broken tiles?",
+        "zh": "古老的人形战斗机械。\n传说是已经覆灭的国度留下的战争机械，会徘徊至世界各地的遗迹废都，并攻击冒失的旅人。\n研究表明遗迹守卫与这些废墟并非同源，表明两者的时代也相差至少数千年，为何遗迹守卫会驻留在其中，并以「爆炸性的火力」\n守护这些残垣断壁呢…"
+      },
+      "description": {
+        "ru": "Древняя человекоподобная боевая машина.\nЛегенды рассказывают о погибшей цивилизации, которая создала эти машины.\nТеперь они скитаются по руинам и нападают на неосторожных путешественников.\nИсследователям удалось выяснить, что стражи руин и руины, которые они охраняют, относятся к разным эпохам и их отделяют по меньшей мере несколько тысяч лет.\nТак почему же стражи руин остаются в этих руинах и используют свою огневую мощь для защиты груды камней и осыпающихся стен?",
+        "en": "An ancient humanoid war machine.\nLegend has it that these machines were combat automatons created by a long-destroyed nation.\nThey now wander ruins and ancient detritus, attacking offending travelers.\nResearch indicates that the Ruin Guards and the ruins they operate in do not originate from the same source,\nsuggesting that there may be a difference of as much as several thousand years between them on the timeline.\nSo why then do the Ruin Guards continue staying among these ruins, using their \"explosive firepower\"to protect the crumbling walls and broken tiles?",
+        "zh": "古老的人形战斗机械。\n传说是已经覆灭的国度留下的战争机械，会徘徊至世界各地的遗迹废都，并攻击冒失的旅人。\n研究表明遗迹守卫与这些废墟并非同源，表明两者的时代也相差至少数千年，为何遗迹守卫会驻留在其中，并以「爆炸性的火力」\n守护这些残垣断壁呢…"
+      },
+      "drops": [
+        {
+          "id": "ruin_chaos",
+          "title": {
+            "ru": "Устройство хаоса / Цепь хаоса / Ядро хаоса",
+            "en": "Chaos",
+            "zh": "混沌装置 / 混沌回路 / 混沌炉心"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "chaos_device",
+              "title": {
+                "ru": "Устройство хаоса",
+                "en": "Chaos Device",
+                "zh": "混沌装置"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_device.webp"
+            },
+            {
+              "key": "chaos_circuit",
+              "title": {
+                "ru": "Цепь хаоса",
+                "en": "Chaos Circuit",
+                "zh": "混沌回路"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_circuit.webp"
+            },
+            {
+              "key": "chaos_core",
+              "title": {
+                "ru": "Ядро хаоса",
+                "en": "Chaos Core",
+                "zh": "混沌炉心"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_core.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ruin_hunter",
+      "title": {
+        "ru": "Руинный охотник",
+        "en": "Ruin Hunter",
+        "zh": "遗迹猎者"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ruin_hunter.webp",
+      "enemy_group": "automatons",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Гигантский чужеродный боевой механизм.\nГоворят, что они являлись частью давно забытого древнего королевства.\nПо-видимому, их создатели решили отказаться от человекоподобного дизайна в угоду повышения боевой эффективности механизма.\nЭти машины чрезвычайно опасны как в ближнем, так и в дальнем бою.\nГлядя на эти обладающие необычайной силой отголоски древности, невольно задаёшься вопросом - как же должна была выглядеть цивилизация, породившая их?",
+        "en": "A giant alien-looking war machine.\nThey are said to be remnants from a lost ancient nation.\nIt seems that the creators opted to forgo the low-performing humanoid-design in pursuit of improved combat effectiveness.\nThey are extremely dangerous both in melee and ranged combat.\nConsidering these mere relics possess such extraordinary power, one cannot help but wonder what the civilization that produced them must have looked like at its height.",
+        "zh": "巨大的异形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n似乎是为了提高战斗性能，设计上放弃了低效的拟人形态。\n无论是白刃战还是远程炮火的威力都相当恐怖。\n仅仅是废弃的古代兵器就有如此能力，曾经能生产这种兵器的文明又是如何呢…"
+      },
+      "description": {
+        "ru": "Гигантский чужеродный боевой механизм.\nГоворят, что они являлись частью давно забытого древнего королевства.\nПо-видимому, их создатели решили отказаться от человекоподобного дизайна в угоду повышения боевой эффективности механизма.\nЭти машины чрезвычайно опасны как в ближнем, так и в дальнем бою.\nГлядя на эти обладающие необычайной силой отголоски древности, невольно задаёшься вопросом - как же должна была выглядеть цивилизация, породившая их?",
+        "en": "A giant alien-looking war machine.\nThey are said to be remnants from a lost ancient nation.\nIt seems that the creators opted to forgo the low-performing humanoid-design in pursuit of improved combat effectiveness.\nThey are extremely dangerous both in melee and ranged combat.\nConsidering these mere relics possess such extraordinary power, one cannot help but wonder what the civilization that produced them must have looked like at its height.",
+        "zh": "巨大的异形战斗机械。\n传说是已经覆灭的国度留下的战争机械。\n似乎是为了提高战斗性能，设计上放弃了低效的拟人形态。\n无论是白刃战还是远程炮火的威力都相当恐怖。\n仅仅是废弃的古代兵器就有如此能力，曾经能生产这种兵器的文明又是如何呢…"
+      },
+      "drops": [
+        {
+          "id": "ruin_chaos",
+          "title": {
+            "ru": "Устройство хаоса / Цепь хаоса / Ядро хаоса",
+            "en": "Chaos",
+            "zh": "混沌装置 / 混沌回路 / 混沌炉心"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "chaos_device",
+              "title": {
+                "ru": "Устройство хаоса",
+                "en": "Chaos Device",
+                "zh": "混沌装置"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_device.webp"
+            },
+            {
+              "key": "chaos_circuit",
+              "title": {
+                "ru": "Цепь хаоса",
+                "en": "Chaos Circuit",
+                "zh": "混沌回路"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_circuit.webp"
+            },
+            {
+              "key": "chaos_core",
+              "title": {
+                "ru": "Ядро хаоса",
+                "en": "Chaos Core",
+                "zh": "混沌炉心"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_core.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "ruin_grader",
+      "title": {
+        "ru": "Руинный молотильщик",
+        "en": "Ruin Grader",
+        "zh": "遗迹重机"
+      },
+      "icon": "assets/icons/enemies/common_enemies/ruin_grader.webp",
+      "enemy_group": "automatons",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "game_version": "1.2",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Древняя человекоподобная боевая машина.\nВыглядит как более мощная версия стража руин. У этого создания в каждой ноге установлено силовое ядро, вероятно для того, чтобы выдерживать огромный вес.",
+        "en": "An ancient humanoid war machine.\nTheir form is similar to that of Ruin Guards, but is more distorted and more powerful. Energy cores have been installed in both its legs, as though to power its overly heavy form.",
+        "zh": "古老的人形战斗机械。\n形态与遗迹守卫相似，但形态更为扭曲、力量更为强大。\n似乎是为了驱动过于沉重的躯体，在双脚上还额外装配了能量核心。"
+      },
+      "description": {
+        "ru": "Древняя человекоподобная боевая машина.\nВыглядит как более мощная версия стража руин. У этого создания в каждой ноге установлено силовое ядро, вероятно для того, чтобы выдерживать огромный вес.",
+        "en": "An ancient humanoid war machine.\nTheir form is similar to that of Ruin Guards, but is more distorted and more powerful. Energy cores have been installed in both its legs, as though to power its overly heavy form.",
+        "zh": "古老的人形战斗机械。\n形态与遗迹守卫相似，但形态更为扭曲、力量更为强大。\n似乎是为了驱动过于沉重的躯体，在双脚上还额外装配了能量核心。"
+      },
+      "drops": [
+        {
+          "id": "ruin_chaos",
+          "title": {
+            "ru": "Устройство хаоса / Цепь хаоса / Ядро хаоса",
+            "en": "Chaos",
+            "zh": "混沌装置 / 混沌回路 / 混沌炉心"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "1.0",
+          "materials": [
+            {
+              "key": "chaos_device",
+              "title": {
+                "ru": "Устройство хаоса",
+                "en": "Chaos Device",
+                "zh": "混沌装置"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_device.webp"
+            },
+            {
+              "key": "chaos_circuit",
+              "title": {
+                "ru": "Цепь хаоса",
+                "en": "Chaos Circuit",
+                "zh": "混沌回路"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_circuit.webp"
+            },
+            {
+              "key": "chaos_core",
+              "title": {
+                "ru": "Ядро хаоса",
+                "en": "Chaos Core",
+                "zh": "混沌炉心"
+              },
+              "icon": "assets/icons/items/common_enemies/chaos_core.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 3,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "chaos_device",
+      "title": {
+        "ru": "Устройство хаоса",
+        "en": "Chaos Device",
+        "zh": "混沌装置"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+      "text": {
+        "ru": "Часть древнего механического тела. Раньше она поддерживала его целостность. Выполнена с высоким мастерством.",
+        "en": "Comes from ancient defunct relic structures. A part that once held the structure together. Its aesthetically-pleasing engineering is quite exquisite.",
+        "zh": "来自不再活动的古代遗迹构装体。曾经是维系它身躯的某个部位，有着精妙的工学美感。"
+      }
+    },
+    {
+      "key": "chaos_circuit",
+      "title": {
+        "ru": "Цепь хаоса",
+        "en": "Chaos Circuit",
+        "zh": "混沌回路"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_circuit.webp",
+      "text": {
+        "ru": "Часть древнего механического тела. Это логическая схема, которая отвечала за его движение.\nВ ней заключены великие знания, но, увы, ещё никто не смог их добыть.",
+        "en": "Comes from ancient defunct relic structures. Was once a logic circuit responsible for movement functions.\nSadly, no one is able to make sense of how it worked.",
+        "zh": "来自不再活动的古代遗迹构装体。曾经是驱使它行动的逻辑回路。其中蕴含的伟大技术，如今已经无人可解。"
+      }
+    },
+    {
+      "key": "chaos_core",
+      "title": {
+        "ru": "Ядро хаоса",
+        "en": "Chaos Core",
+        "zh": "混沌炉心"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_core.webp",
+      "text": {
+        "ru": "Часть древнего механического тела. Она была источником его жизненной силы. Если бы кто-то постиг её тайны, то смог бы изменить весь мир.",
+        "en": "Comes from ancient defunct relic structures. The core that once drove a mechanical beast.\nShould you come to understand its workings and reproduce it, you could perhaps change the world.",
+        "zh": "来自不再活动的古代遗迹构装体。曾经是驱动它活动的能源之心。若能理解、重构这样的神秘技术，或许能改变这个世界也说不定。"
+      }
+    }
+  ],
+  "material_count": 3
+}

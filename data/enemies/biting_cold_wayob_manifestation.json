@@ -31,7 +31,50 @@
     "en": "The Masters of the Night-Wind believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe Masters of the Night-Wind have tried using many mediums to communicate with the Night Kingdom.\nEventually, they discovered that the medium that allowed them to establish the most stable connection with the Wayob was obsidian.\nThis may explain why, over the ages, Wayob Manifestations have taken on a form that resembles a stone statue.\nThe Masters of the Night-Wind believe their Wayob has the power to control the process of freezing and crystallization, and can also command both fixedness and mutability.",
     "zh": "「烟谜主」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n「烟谜主」\n部族的成员曾尝试过许多与夜魂的国度沟通的媒介，最后众人发现，能与「大灵」\n建立最为稳定联系的中介物质是黑曜石。\n这或许是大灵显化身在长久的岁月中形成类似石像般造型的原因。\n「烟谜主」\n的人相信他们的「大灵」\n拥有控制冰晶与冻结的力量，能够执掌固型和流变的话语。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "rock_cavernous_wayob_manifestation_of_a_wills",
+      "title": {
+        "ru": "Осколок разбитой воли / Образ ясной воли / Талисман странствующей воли",
+        "en": "Of A Wills",
+        "zh": "意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+      },
+      "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "shard_of_a_shattered_will",
+          "title": {
+            "ru": "Осколок разбитой воли",
+            "en": "Shard of a Shattered Will",
+            "zh": "意志破碎的残片"
+          },
+          "icon": "assets/icons/items/common_enemies/shard_of_a_shattered_will.webp"
+        },
+        {
+          "key": "locus_of_a_clear_will",
+          "title": {
+            "ru": "Образ ясной воли",
+            "en": "Locus of a Clear Will",
+            "zh": "意志明晰的寄偶"
+          },
+          "icon": "assets/icons/items/common_enemies/locus_of_a_clear_will.webp"
+        },
+        {
+          "key": "sigil_of_a_striding_will",
+          "title": {
+            "ru": "Талисман странствующей воли",
+            "en": "Sigil of a Striding Will",
+            "zh": "意志巡游的符像"
+          },
+          "icon": "assets/icons/items/common_enemies/sigil_of_a_striding_will.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

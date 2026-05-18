@@ -31,7 +31,50 @@
     "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"They do display certain biological behaviors similar to those of real wolves.\nPerhaps they feel jealousy towards these their \"next of kin,\"and dream of replacing them someday.",
     "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n会很微妙地表现出生物习性，就如同真正的狼一般。\n或许是对地上的「近亲」\n抱有仰慕或嫉妒的感情，而梦想取而代之吧。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "rockfond_rifthound_concealeds",
+      "title": {
+        "ru": "Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь",
+        "en": "Concealeds",
+        "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+      },
+      "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.2",
+      "materials": [
+        {
+          "key": "concealed_claw",
+          "title": {
+            "ru": "Скрытый коготь",
+            "en": "Concealed Claw",
+            "zh": "隐兽指爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_claw.webp"
+        },
+        {
+          "key": "concealed_unguis",
+          "title": {
+            "ru": "Скрытый заточенный коготь",
+            "en": "Concealed Unguis",
+            "zh": "隐兽利爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_unguis.webp"
+        },
+        {
+          "key": "concealed_talon",
+          "title": {
+            "ru": "Скрытый дьявольский коготь",
+            "en": "Concealed Talon",
+            "zh": "隐兽鬼爪"
+          },
+          "icon": "assets/icons/items/common_enemies/concealed_talon.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,92 @@
     "en": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\nThe surface people have a slightly distorted understanding of what their name means,\ncalling them \"Lectors,\"when their name can also mean \"exegete.\"Reading the word of grace grants them great power.",
     "zh": "驱使深渊之火，追寻着章典之意义的魔物。\n隶属于「深渊教团」。\n地上之人对他们的称呼其实和本意略有偏差。\n「咏者」\n也有「读经士」\n之意。\n诵读恩典之章，便会拥有强大的力量。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "abyss_herald_wicked_torrents_statuettes",
+      "title": {
+        "ru": "Мрачная статуэтка / Тёмная статуэтка / Смертельная статуэтка",
+        "en": "Statuettes",
+        "zh": "晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+      },
+      "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "2.6",
+      "materials": [
+        {
+          "key": "gloomy_statuette",
+          "title": {
+            "ru": "Мрачная статуэтка",
+            "en": "Gloomy Statuette",
+            "zh": "晦暗刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/gloomy_statuette.webp"
+        },
+        {
+          "key": "dark_statuette",
+          "title": {
+            "ru": "Тёмная статуэтка",
+            "en": "Dark Statuette",
+            "zh": "夤夜刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/dark_statuette.webp"
+        },
+        {
+          "key": "deathly_statuette",
+          "title": {
+            "ru": "Смертельная статуэтка",
+            "en": "Deathly Statuette",
+            "zh": "幽邃刻像"
+          },
+          "icon": "assets/icons/items/common_enemies/deathly_statuette.webp"
+        }
+      ],
+      "material_count": 3
+    },
+    {
+      "id": "abyss_mage_ley_lines",
+      "title": {
+        "ru": "Ветви артерий земли / Листья артерий земли / Ростки артерий земли",
+        "en": "Ley Lines",
+        "zh": "地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+      },
+      "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "dead_ley_line_branch",
+          "title": {
+            "ru": "Ветви артерий земли",
+            "en": "Dead Ley Line Branch",
+            "zh": "地脉的旧枝"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp"
+        },
+        {
+          "key": "dead_ley_line_leaves",
+          "title": {
+            "ru": "Листья артерий земли",
+            "en": "Dead Ley Line Leaves",
+            "zh": "地脉的枯叶"
+          },
+          "icon": "assets/icons/items/common_enemies/dead_ley_line_leaves.webp"
+        },
+        {
+          "key": "ley_line_sprout",
+          "title": {
+            "ru": "Ростки артерий земли",
+            "en": "Ley Line Sprout",
+            "zh": "地脉的新芽"
+          },
+          "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

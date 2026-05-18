@@ -1,0 +1,378 @@
+{
+  "id": "shatterstone_breacher_primus_cores",
+  "category": "items",
+  "icon": "assets/icons/items/common_enemies/rift_core.webp",
+  "title": {
+    "ru": "Ядро расщелины / Иноземный обломок / Чужеродное ядро",
+    "en": "Cores",
+    "zh": "隙间之核 / 外世突触 / 异界生命核"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.0",
+  "tags": [
+    "Rift Core",
+    "Foreign Synapse",
+    "Alien Life Core",
+    "обычные противники"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "dropped_by": [
+    "large_shatterstone_breacher_primus",
+    "shatterstone_breacher_primus",
+    "large_overgrown_breacher_primus",
+    "overgrown_breacher_primus"
+  ],
+  "dropped_by_enemies": [
+    {
+      "id": "large_shatterstone_breacher_primus",
+      "title": {
+        "ru": "Большой камнедробящий протоген расщелин",
+        "en": "Large Shatterstone Breacher Primus",
+        "zh": "大型碎石隙境原体"
+      },
+      "icon": "assets/icons/enemies/common_enemies/large_shatterstone_breacher_primus.webp",
+      "enemy_group": "abyss",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nПо мнению мелюзин, протогены расщелин - безобидные существа, а кто-то даже считает их милыми.\nВизуальное восприятие мелюзин сильно отличается от человеческого.",
+        "en": "A strange life form that mostly appears in Elynas.\nMelusines perceive Breacher Primuses as harmless creatures, and many even find them completely adorable.\nThe visual perception of Melusines is very different from humans.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n在美露莘的认知里，隙境原体是基本上无害的生物，甚至有美露莘认为它十分可爱。\n美露莘的视觉感知与人有很大的区别。"
+      },
+      "description": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nПо мнению мелюзин, протогены расщелин - безобидные существа, а кто-то даже считает их милыми.\nВизуальное восприятие мелюзин сильно отличается от человеческого.",
+        "en": "A strange life form that mostly appears in Elynas.\nMelusines perceive Breacher Primuses as harmless creatures, and many even find them completely adorable.\nThe visual perception of Melusines is very different from humans.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n在美露莘的认知里，隙境原体是基本上无害的生物，甚至有美露莘认为它十分可爱。\n美露莘的视觉感知与人有很大的区别。"
+      },
+      "drops": [
+        {
+          "id": "shatterstone_breacher_primus_cores",
+          "title": {
+            "ru": "Ядро расщелины / Иноземный обломок / Чужеродное ядро",
+            "en": "Cores",
+            "zh": "隙间之核 / 外世突触 / 异界生命核"
+          },
+          "icon": "assets/icons/items/common_enemies/rift_core.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "rift_core",
+              "title": {
+                "ru": "Ядро расщелины",
+                "en": "Rift Core",
+                "zh": "隙间之核"
+              },
+              "icon": "assets/icons/items/common_enemies/rift_core.webp"
+            },
+            {
+              "key": "foreign_synapse",
+              "title": {
+                "ru": "Иноземный обломок",
+                "en": "Foreign Synapse",
+                "zh": "外世突触"
+              },
+              "icon": "assets/icons/items/common_enemies/foreign_synapse.webp"
+            },
+            {
+              "key": "alien_life_core",
+              "title": {
+                "ru": "Чужеродное ядро",
+                "en": "Alien Life Core",
+                "zh": "异界生命核"
+              },
+              "icon": "assets/icons/items/common_enemies/alien_life_core.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "shatterstone_breacher_primus",
+      "title": {
+        "ru": "Камнедробящий протоген расщелин",
+        "en": "Shatterstone Breacher Primus",
+        "zh": "碎石隙境原体"
+      },
+      "icon": "assets/icons/enemies/common_enemies/shatterstone_breacher_primus.webp",
+      "enemy_group": "abyss",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nПолучают чувствительный удар при столкновении с энергией усии или пневмы.\nС помощью такого относительно неагрессивного и безвредного способа можно отгонять протогенов расщелин.",
+        "en": "A strange life form that mostly appears in Elynas.\nReceives a powerful shock from encountering ousia or pneuma energy, and thus Breacher Primuses can be driven away using this relatively nonaggressive and noninvasive means.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n在遇到荒性或芒性能量似乎会受到很强的刺激，因此尽管并不具有很强的攻击性与侵略性，这种手段似乎能够有效驱除隙境原体。"
+      },
+      "description": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nПолучают чувствительный удар при столкновении с энергией усии или пневмы.\nС помощью такого относительно неагрессивного и безвредного способа можно отгонять протогенов расщелин.",
+        "en": "A strange life form that mostly appears in Elynas.\nReceives a powerful shock from encountering ousia or pneuma energy, and thus Breacher Primuses can be driven away using this relatively nonaggressive and noninvasive means.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n在遇到荒性或芒性能量似乎会受到很强的刺激，因此尽管并不具有很强的攻击性与侵略性，这种手段似乎能够有效驱除隙境原体。"
+      },
+      "drops": [
+        {
+          "id": "shatterstone_breacher_primus_cores",
+          "title": {
+            "ru": "Ядро расщелины / Иноземный обломок / Чужеродное ядро",
+            "en": "Cores",
+            "zh": "隙间之核 / 外世突触 / 异界生命核"
+          },
+          "icon": "assets/icons/items/common_enemies/rift_core.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "rift_core",
+              "title": {
+                "ru": "Ядро расщелины",
+                "en": "Rift Core",
+                "zh": "隙间之核"
+              },
+              "icon": "assets/icons/items/common_enemies/rift_core.webp"
+            },
+            {
+              "key": "foreign_synapse",
+              "title": {
+                "ru": "Иноземный обломок",
+                "en": "Foreign Synapse",
+                "zh": "外世突触"
+              },
+              "icon": "assets/icons/items/common_enemies/foreign_synapse.webp"
+            },
+            {
+              "key": "alien_life_core",
+              "title": {
+                "ru": "Чужеродное ядро",
+                "en": "Alien Life Core",
+                "zh": "异界生命核"
+              },
+              "icon": "assets/icons/items/common_enemies/alien_life_core.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "large_overgrown_breacher_primus",
+      "title": {
+        "ru": "Большой прорастающий протоген расщелин",
+        "en": "Large Overgrown Breacher Primus",
+        "zh": "大型狂蔓隙境原体"
+      },
+      "icon": "assets/icons/enemies/common_enemies/large_overgrown_breacher_primus.webp",
+      "enemy_group": "abyss",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nПротогены расщелин выходят за рамки известных биологических видов: это не животные, не растения, не грибы и даже не элементальные создания.\nСпоры между учёными Сумеру об их принадлежности к одному из видов так официально и не завершились, а затем и вовсе были запрещены как предмет научных исследований.\nПричина в том, что в рамках известного сейчас объёма человеческих знаний, этот вопрос, точно как «определение и сущность языка», невозможно трактовать однозначно.",
+        "en": "A strange life form that mostly appears in Elynas.\nThe nature of a Breacher Primus defies known categories: they are not animals, plants, Shroom-Kin, nor Elementals.\nThe debate among scholars of Sumeru never formally reached a consensus on just what it is, until it was finally banned as a research topic.\nThe reason is that based on the current system of knowledge,\nthis problem is like \"the definitions prescribed by language and the true nature of things,\"and it is impossible to have a meaningful, final answer.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n隙境原体在基本的生物特征上超出了已知的范畴：不属于动物、植物、蕈类与元素类。\n须弥的学者因此关于它到底是什么的争论从未正式结束，直到它一同被禁止作为学术研究课题立项，因为就目前人类的知识体系而言，这个问题与「语言的定义与本质」\n一样，无法得出有意义的确切结论。"
+      },
+      "description": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nПротогены расщелин выходят за рамки известных биологических видов: это не животные, не растения, не грибы и даже не элементальные создания.\nСпоры между учёными Сумеру об их принадлежности к одному из видов так официально и не завершились, а затем и вовсе были запрещены как предмет научных исследований.\nПричина в том, что в рамках известного сейчас объёма человеческих знаний, этот вопрос, точно как «определение и сущность языка», невозможно трактовать однозначно.",
+        "en": "A strange life form that mostly appears in Elynas.\nThe nature of a Breacher Primus defies known categories: they are not animals, plants, Shroom-Kin, nor Elementals.\nThe debate among scholars of Sumeru never formally reached a consensus on just what it is, until it was finally banned as a research topic.\nThe reason is that based on the current system of knowledge,\nthis problem is like \"the definitions prescribed by language and the true nature of things,\"and it is impossible to have a meaningful, final answer.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n隙境原体在基本的生物特征上超出了已知的范畴：不属于动物、植物、蕈类与元素类。\n须弥的学者因此关于它到底是什么的争论从未正式结束，直到它一同被禁止作为学术研究课题立项，因为就目前人类的知识体系而言，这个问题与「语言的定义与本质」\n一样，无法得出有意义的确切结论。"
+      },
+      "drops": [
+        {
+          "id": "shatterstone_breacher_primus_cores",
+          "title": {
+            "ru": "Ядро расщелины / Иноземный обломок / Чужеродное ядро",
+            "en": "Cores",
+            "zh": "隙间之核 / 外世突触 / 异界生命核"
+          },
+          "icon": "assets/icons/items/common_enemies/rift_core.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "rift_core",
+              "title": {
+                "ru": "Ядро расщелины",
+                "en": "Rift Core",
+                "zh": "隙间之核"
+              },
+              "icon": "assets/icons/items/common_enemies/rift_core.webp"
+            },
+            {
+              "key": "foreign_synapse",
+              "title": {
+                "ru": "Иноземный обломок",
+                "en": "Foreign Synapse",
+                "zh": "外世突触"
+              },
+              "icon": "assets/icons/items/common_enemies/foreign_synapse.webp"
+            },
+            {
+              "key": "alien_life_core",
+              "title": {
+                "ru": "Чужеродное ядро",
+                "en": "Alien Life Core",
+                "zh": "异界生命核"
+              },
+              "icon": "assets/icons/items/common_enemies/alien_life_core.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    },
+    {
+      "id": "overgrown_breacher_primus",
+      "title": {
+        "ru": "Прорастающий протоген расщелин",
+        "en": "Overgrown Breacher Primus",
+        "zh": "狂蔓隙境原体"
+      },
+      "icon": "assets/icons/enemies/common_enemies/overgrown_breacher_primus.webp",
+      "enemy_group": "abyss",
+      "region": "Фонтейн",
+      "game_version": "4.0",
+      "languages": [
+        "ru",
+        "en",
+        "zh"
+      ],
+      "text": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nСамые ранние зафиксированные наблюдения за протогенами расщелин появились вскоре после катастрофы.\nВ записях того времени говорится как о случаях, когда протогены расщелин нападали на людей, так и о случаях, когда протогены расщелин становились на защиту людей.",
+        "en": "A strange life form that mostly appears in Elynas.\nIn Fontaine, the earliest recorded observations of a Breacher Primus appeared shortly after the cataclysm.\nRecords from the time show instances of Breacher Primuses both attacking and protecting humans.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n在枫丹，最早观测到隙境原体是在灾难过后不久。\n当时同时留下了隙境原体攻击人与保护人的记录。"
+      },
+      "description": {
+        "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nСамые ранние зафиксированные наблюдения за протогенами расщелин появились вскоре после катастрофы.\nВ записях того времени говорится как о случаях, когда протогены расщелин нападали на людей, так и о случаях, когда протогены расщелин становились на защиту людей.",
+        "en": "A strange life form that mostly appears in Elynas.\nIn Fontaine, the earliest recorded observations of a Breacher Primus appeared shortly after the cataclysm.\nRecords from the time show instances of Breacher Primuses both attacking and protecting humans.",
+        "zh": "主要出现在厄里那斯的奇异生命体。\n在枫丹，最早观测到隙境原体是在灾难过后不久。\n当时同时留下了隙境原体攻击人与保护人的记录。"
+      },
+      "drops": [
+        {
+          "id": "shatterstone_breacher_primus_cores",
+          "title": {
+            "ru": "Ядро расщелины / Иноземный обломок / Чужеродное ядро",
+            "en": "Cores",
+            "zh": "隙间之核 / 外世突触 / 异界生命核"
+          },
+          "icon": "assets/icons/items/common_enemies/rift_core.webp",
+          "item_group": "common_enemies",
+          "entry_type": "enemy_drops",
+          "game_version": "4.0",
+          "materials": [
+            {
+              "key": "rift_core",
+              "title": {
+                "ru": "Ядро расщелины",
+                "en": "Rift Core",
+                "zh": "隙间之核"
+              },
+              "icon": "assets/icons/items/common_enemies/rift_core.webp"
+            },
+            {
+              "key": "foreign_synapse",
+              "title": {
+                "ru": "Иноземный обломок",
+                "en": "Foreign Synapse",
+                "zh": "外世突触"
+              },
+              "icon": "assets/icons/items/common_enemies/foreign_synapse.webp"
+            },
+            {
+              "key": "alien_life_core",
+              "title": {
+                "ru": "Чужеродное ядро",
+                "en": "Alien Life Core",
+                "zh": "异界生命核"
+              },
+              "icon": "assets/icons/items/common_enemies/alien_life_core.webp"
+            }
+          ],
+          "material_count": 3
+        }
+      ]
+    }
+  ],
+  "dropped_by_count": 4,
+  "item_group": "common_enemies",
+  "entry_type": "enemy_drops",
+  "materials": [
+    {
+      "key": "rift_core",
+      "title": {
+        "ru": "Ядро расщелины",
+        "en": "Rift Core",
+        "zh": "隙间之核"
+      },
+      "icon": "assets/icons/items/common_enemies/rift_core.webp",
+      "text": {
+        "ru": "Обломки, оставленные протогенами расщелин. Не похоже ни на какую другую наземную форму жизни.",
+        "en": "A shard left by Breacher Primus. It bears no resemblance to any other known form of life in the world.",
+        "zh": "隙境原体留下的碎屑。与地上任何生命形式都不具备相似之处。"
+      }
+    },
+    {
+      "key": "foreign_synapse",
+      "title": {
+        "ru": "Иноземный обломок",
+        "en": "Foreign Synapse",
+        "zh": "外世突触"
+      },
+      "icon": "assets/icons/items/common_enemies/foreign_synapse.webp",
+      "text": {
+        "ru": "Обломки, оставленные протогенами расщелин. Родина и основная среда обитания этой формы жизни - Элинас.",
+        "en": "A shard left by Breacher Primus. This strange life form originates in Elynas and inhabits the area.",
+        "zh": "隙境原体留下的碎屑。这种异形生命体的根源是厄里那斯，活动范围也以厄里那斯为主。"
+      }
+    },
+    {
+      "key": "alien_life_core",
+      "title": {
+        "ru": "Чужеродное ядро",
+        "en": "Alien Life Core",
+        "zh": "异界生命核"
+      },
+      "icon": "assets/icons/items/common_enemies/alien_life_core.webp",
+      "text": {
+        "ru": "Ядро, оставленное протогенами расщелин. Полностью уничтожить эту форму жизни невозможно.\nДаже если останется только ядро, она всё равно оживёт на следующий день или спустя десятилетия.\nК счастью, эта форма жизни не отличается большим интеллектом и агрессией, поэтому жители Фонтейна предпочитают относиться к ней с уважением, но\nдержаться на расстоянии.",
+        "en": "Breacher Primus's Core. There is no way to exterminate this life form. One reduced to nothing but its core will resurrect the next day or in decades.\nLuckily, it is neither aggressive nor intelligent, so Fontainians can just keep their distance.",
+        "zh": "隙境原体留下的核心。这种生命体并没有彻底消灭的手段，即使只剩下核心也会在翌日，或是数十年后再度复生。所幸似乎没有很强的攻击性与智性，所以枫丹人对其大多采取的是敬而远之的态度。"
+      }
+    }
+  ],
+  "material_count": 3
+}

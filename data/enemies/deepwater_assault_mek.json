@@ -31,7 +31,50 @@
     "en": "A clockwork meka designed to conducting underwater attacks.\nUnlike \"Underwater Patrol Mek\"models, it is expected to take on much larger and fiercer opponents.\nOf course, the price it pays for such capabilities and its cost of manufacture is that is unable to fully unleash its capabilities against smaller opponents.\nLong ago, Fontaine was once scarred by the tragic invasion of a massive monster.\nThe revered White Armada that sailed upon the great terrestrial lake was completely destroyed in defense of the nation.\nThe designer hoped that were such a thing to happen again, the clockwork meka would possess enough naval firepower to be the first line of defense,\ngoing before the soldiers and generals.",
     "zh": "设计目的是进行水下攻击的发条机关。\n与「水下巡游型」\n机关不同的是，预期中它的敌人会更大、更凶暴。\n当然性能与造价的代价是，面对小体型的敌人时便无法完全发挥威力。\n过去在枫丹曾经发生了巨大魔兽入侵的悲剧，在陆上大湖受到景仰的白色铁甲舰队为了护国全军覆没。\n设计者希望如有此类事件再次发生，至少能在水中以强大火力出击的发条机关能先于将官与士兵成为第一道防线。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "recon_log_mek_gears",
+      "title": {
+        "ru": "Сцепляющаяся шестерня / Шестерня механизма / Изощрённая динамическая шестерня",
+        "en": "Gears",
+        "zh": "啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+      },
+      "icon": "assets/icons/items/common_enemies/meshing_gear.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "4.0",
+      "materials": [
+        {
+          "key": "meshing_gear",
+          "title": {
+            "ru": "Сцепляющаяся шестерня",
+            "en": "Meshing Gear",
+            "zh": "啮合齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/meshing_gear.webp"
+        },
+        {
+          "key": "mechanical_spur_gear",
+          "title": {
+            "ru": "Шестерня механизма",
+            "en": "Mechanical Spur Gear",
+            "zh": "机关正齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/mechanical_spur_gear.webp"
+        },
+        {
+          "key": "artificed_dynamic_gear",
+          "title": {
+            "ru": "Изощрённая динамическая шестерня",
+            "en": "Artificed Dynamic Gear",
+            "zh": "奇械机芯齿轮"
+          },
+          "icon": "assets/icons/items/common_enemies/artificed_dynamic_gear.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

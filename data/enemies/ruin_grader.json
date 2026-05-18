@@ -31,7 +31,50 @@
     "en": "An ancient humanoid war machine.\nTheir form is similar to that of Ruin Guards, but is more distorted and more powerful. Energy cores have been installed in both its legs, as though to power its overly heavy form.",
     "zh": "古老的人形战斗机械。\n形态与遗迹守卫相似，但形态更为扭曲、力量更为强大。\n似乎是为了驱动过于沉重的躯体，在双脚上还额外装配了能量核心。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "ruin_chaos",
+      "title": {
+        "ru": "Устройство хаоса / Цепь хаоса / Ядро хаоса",
+        "en": "Chaos",
+        "zh": "混沌装置 / 混沌回路 / 混沌炉心"
+      },
+      "icon": "assets/icons/items/common_enemies/chaos_device.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "chaos_device",
+          "title": {
+            "ru": "Устройство хаоса",
+            "en": "Chaos Device",
+            "zh": "混沌装置"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_device.webp"
+        },
+        {
+          "key": "chaos_circuit",
+          "title": {
+            "ru": "Цепь хаоса",
+            "en": "Chaos Circuit",
+            "zh": "混沌回路"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_circuit.webp"
+        },
+        {
+          "key": "chaos_core",
+          "title": {
+            "ru": "Ядро хаоса",
+            "en": "Chaos Core",
+            "zh": "混沌炉心"
+          },
+          "icon": "assets/icons/items/common_enemies/chaos_core.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

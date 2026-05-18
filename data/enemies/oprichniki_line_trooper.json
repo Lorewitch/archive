@@ -31,7 +31,50 @@
     "en": "A soldier of the Fatui Oprichniki, equipped with a gunblade and tasked to hold the line as the resilient backbone of the Oprichniki forces.\nAccording to Snezhnayan infantry manuals, the primary duties of line troops are merely to aim, shoot, and charge.\nEven should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain a key foundation of the Snezhnayan military machine.",
     "zh": "隶属于愚人众特辖队的士兵，装备了铳刃，是维持阵线的中坚力量。\n在至冬的步兵典则中，线列军的首要职责唯有瞄准、射击与冲锋。\n尽管单兵作战能力并不出众，但集结成密集阵型的线列军总是至冬军势中最牢固的基石之一。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "oprichniki_line_trooper_warrants",
+      "title": {
+        "ru": "Потрёпанный мандат / Безупречный мандат / Заиндевевший мандат",
+        "en": "Warrants",
+        "zh": "磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+      },
+      "icon": "assets/icons/items/common_enemies/tattered_warrant.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "6.0",
+      "materials": [
+        {
+          "key": "tattered_warrant",
+          "title": {
+            "ru": "Потрёпанный мандат",
+            "en": "Tattered Warrant",
+            "zh": "磨损的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/tattered_warrant.webp"
+        },
+        {
+          "key": "immaculate_warrant",
+          "title": {
+            "ru": "Безупречный мандат",
+            "en": "Immaculate Warrant",
+            "zh": "精致的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/immaculate_warrant.webp"
+        },
+        {
+          "key": "frost_etched_warrant",
+          "title": {
+            "ru": "Заиндевевший мандат",
+            "en": "Frost-Etched Warrant",
+            "zh": "霜镌的执凭"
+          },
+          "icon": "assets/icons/items/common_enemies/frost_etched_warrant.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

@@ -31,7 +31,50 @@
     "en": "A reptile that has mutated after feeding from greater lifeforms.\nMajestic beasts are sometimes revered by human beings as the embodiment of a greater power, their visages turned to analogy to feed in reference to a person, feeding their ego.\nHowever, the majority of beasts that have absorbed the \"greater power\"were slain by the overwhelming nature of the power itself.\nOnly a few among their number evolved new forms.",
     "zh": "因为啃噬伟大的生命体，而扭曲异变的爬行动物。\n姿态威严的猛兽有时会受到人们的敬畏，被视为伟大力量的化身，并借由他们的形象彰显自己。\n而真的摄入「伟大力量」\n的野兽大多因此丧命，仅有少数进化出了新的形态。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "consecrated_horned_crocodile_shells",
+      "title": {
+        "ru": "Опустошённая оболочка / Прочная оболочка / Меченая оболочка",
+        "en": "Shells",
+        "zh": "残毁的横脊 / 密固的横脊 / 锲纹的横脊"
+      },
+      "icon": "assets/icons/items/common_enemies/desiccated_shell.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "3.1",
+      "materials": [
+        {
+          "key": "desiccated_shell",
+          "title": {
+            "ru": "Опустошённая оболочка",
+            "en": "Desiccated Shell",
+            "zh": "残毁的横脊"
+          },
+          "icon": "assets/icons/items/common_enemies/desiccated_shell.webp"
+        },
+        {
+          "key": "sturdy_shell",
+          "title": {
+            "ru": "Прочная оболочка",
+            "en": "Sturdy Shell",
+            "zh": "密固的横脊"
+          },
+          "icon": "assets/icons/items/common_enemies/sturdy_shell.webp"
+        },
+        {
+          "key": "marked_shell",
+          "title": {
+            "ru": "Меченая оболочка",
+            "en": "Marked Shell",
+            "zh": "锲纹的横脊"
+          },
+          "icon": "assets/icons/items/common_enemies/marked_shell.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

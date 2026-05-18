@@ -31,7 +31,50 @@
     "en": "A saurian with a hard, bony crest and a powerful body suited to dashing around volcanic landscapes.\nAccording to legend, the Tatankasaurus's ancestors were so large they could use their horns to move mountains, but they lacked the agility of their smaller, modern relatives.\nPerhaps the great power that Tatankasaurs still possess is a gift passed down through their bloodline.",
     "zh": "拥有坚硬的冠骨和强大身躯力量，能够在火山四周的原野上飞速疾驰的龙。\n传说中，原本的突角龙具有堪称庞大的形体，甚至可以用角顶着山峰进行移动，只不过行动远不如当今这样灵敏。\n或许如今突角龙身躯里所具备的那种力量，也是一种血脉之中的遗留。"
   },
-  "drops": [],
+  "drops": [
+    {
+      "id": "tepetlisaur_fangs",
+      "title": {
+        "ru": "Молодой клык / Клык взрослого / Клык тирана",
+        "en": "Fangs",
+        "zh": "稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+      },
+      "icon": "assets/icons/items/common_enemies/juvenile_fang.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "5.0",
+      "materials": [
+        {
+          "key": "juvenile_fang",
+          "title": {
+            "ru": "Молодой клык",
+            "en": "Juvenile Fang",
+            "zh": "稚嫩的尖齿"
+          },
+          "icon": "assets/icons/items/common_enemies/juvenile_fang.webp"
+        },
+        {
+          "key": "seasoned_fang",
+          "title": {
+            "ru": "Клык взрослого",
+            "en": "Seasoned Fang",
+            "zh": "老练的坚齿"
+          },
+          "icon": "assets/icons/items/common_enemies/seasoned_fang.webp"
+        },
+        {
+          "key": "tyrants_fang",
+          "title": {
+            "ru": "Клык тирана",
+            "en": "Tyrant's Fang",
+            "zh": "横行霸者的利齿"
+          },
+          "icon": "assets/icons/items/common_enemies/tyrants_fang.webp"
+        }
+      ],
+      "material_count": 3
+    }
+  ],
   "notes": {
     "general": "",
     "byVolume": {}

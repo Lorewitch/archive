@@ -33,6 +33,48 @@
   },
   "drops": [
     {
+      "id": "hilichurl_arrowheads",
+      "title": {
+        "ru": "Прочный наконечник стрелы / Острый наконечник стрелы / Старый наконечник стрелы",
+        "en": "Arrowheads",
+        "zh": "牢固的箭簇 / 锐利的箭簇 / 历战的箭簇"
+      },
+      "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
+      "item_group": "common_enemies",
+      "entry_type": "enemy_drops",
+      "game_version": "1.0",
+      "materials": [
+        {
+          "key": "firm_arrowhead",
+          "title": {
+            "ru": "Прочный наконечник стрелы",
+            "en": "Firm Arrowhead",
+            "zh": "牢固的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp"
+        },
+        {
+          "key": "sharp_arrowhead",
+          "title": {
+            "ru": "Острый наконечник стрелы",
+            "en": "Sharp Arrowhead",
+            "zh": "锐利的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/sharp_arrowhead.webp"
+        },
+        {
+          "key": "weathered_arrowhead",
+          "title": {
+            "ru": "Старый наконечник стрелы",
+            "en": "Weathered Arrowhead",
+            "zh": "历战的箭簇"
+          },
+          "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp"
+        }
+      ],
+      "material_count": 3
+    },
+    {
       "id": "hilichurl_masks",
       "title": {
         "ru": "Маски хиличурлов",
