@@ -57,6 +57,7 @@ ITEM_TYPE_DEFINITIONS = {
         "local_specialty": {"ru": "Диковинка", "en": "Local Specialty", "zh": "区域特产"},
         "plant": {"ru": "Растение", "en": "Plant", "zh": "植物"},
         "animal": {"ru": "Животное", "en": "Animal", "zh": "动物"},
+        "craft": {"ru": "Крафт", "en": "Crafting", "zh": "合成"},
         "teapot": {"ru": "Чайник", "en": "Serenitea Pot", "zh": "尘歌壶"},
     },
     "food_potions": {

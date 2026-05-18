@@ -193,6 +193,7 @@ const ITEM_GROUP_TYPE_FILTERS = {
     ["local_specialty", "Диковинки"],
     ["plant", "Растения"],
     ["animal", "Животные"],
+    ["craft", "Крафт"],
     ["teapot", "Чайник"],
   ],
   food_potions: [
@@ -217,6 +218,7 @@ const ITEM_GROUP_TYPE_LABELS = {
     local_specialty: { ru: "Диковинка", en: "Local Specialty", zh: "区域特产" },
     plant: { ru: "Растение", en: "Plant", zh: "植物" },
     animal: { ru: "Животное", en: "Animal", zh: "动物" },
+    craft: { ru: "Крафт", en: "Crafting", zh: "合成" },
     teapot: { ru: "Чайник", en: "Serenitea Pot", zh: "尘歌壶" },
   },
   food_potions: {
@@ -531,7 +533,7 @@ const state = {
       typeFiltersByGroup: {
         common_enemies: ["hilichurls", "elementals", "fatui", "automatons", "human_factions", "abyss", "mystical_beasts"],
         development_materials: ["talents", "character_ascension", "weapon_ascension"],
-        teyvat_resources: ["ore", "local_specialty", "plant", "animal", "teapot"],
+        teyvat_resources: ["ore", "local_specialty", "plant", "animal", "craft", "teapot"],
         food_potions: ["food", "ingredient", "potion"],
         useful_items: ["tool", "seelie", "equipment"]
       }

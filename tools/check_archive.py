@@ -29,7 +29,7 @@ KNOWN_DEVELOPMENT_MATERIAL_TYPES = {
     "talents", "character_ascension", "weapon_ascension",
 }
 KNOWN_ITEM_TYPES = {
-    "teyvat_resources": {"ore", "local_specialty", "plant", "animal", "teapot"},
+    "teyvat_resources": {"ore", "local_specialty", "plant", "animal", "craft", "teapot"},
     "food_potions": {"food", "ingredient", "potion"},
     "useful_items": {"tool", "seelie", "equipment"},
     "misc": {"misc"},
@@ -621,8 +621,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: остался старый код каскадной раскладки")
         if 'data-type-filter-toggle="all"' not in text or "toggle.indeterminate" not in text:
             fail("assets/js/archive.js: фильтры-галочки должны иметь общую галочку для быстрого выбора и снятия")
-        if '["teapot", "Чайник"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
-            fail("assets/js/archive.js: в фильтрах предметов должны быть Чайник и Ингредиенты")
+        if '["craft", "Крафт"]' not in text or '["teapot", "Чайник"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
+            fail("assets/js/archive.js: в фильтрах предметов должны быть Крафт, Чайник и Ингредиенты")
         if '<a class="enemy-loot-chip' not in text or 'routeHash("items", drop.id, group)' not in text:
             fail("assets/js/archive.js: дополнительные ресурсы в карточках противников должны быть кликабельными")
         if '<span class="toolbar-label">Язык</span>\n        <span class="toolbar-label">Язык</span>' in text:
