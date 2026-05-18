@@ -1,0 +1,38 @@
+# id: oprichniki_line_trooper
+# category: enemies
+# enemy_group: fatui
+# enemy_type: common_enemy
+
+# tags: Опричник: Боец фронта, Oprichniki Line Trooper, 愚人众特辖队·线列军
+
+# title_ru: Опричник: Боец фронта
+# title_en: Oprichniki Line Trooper
+# title_zh: 愚人众特辖队·线列军
+# region: Нод-Край
+# game_version: 6.0
+
+# icon: assets/icons/enemies/common_enemies/oprichniki_line_trooper.webp
+
+---
+
+## RU
+
+Солдат, входящий в состав опричников Фатуи, вооружённый мушкетом с лезвием. Он - опора оборонительной линии опричников.
+Согласно пехотному уставу Снежной, основная задача пехоты лишь стрелять и атаковать.
+Даже если боевая мощь отдельного солдата весьма посредственна, солдаты пехоты, наступающие плотным строем, остаются одним из краеугольных камней военной машины Снежной.
+
+## EN
+
+A soldier of the Fatui Oprichniki, equipped with a gunblade and tasked to hold the line as the resilient backbone of the Oprichniki forces.
+According to Snezhnayan infantry manuals, the primary duties of line troops are merely to aim, shoot, and charge.
+Even should the individual soldier's combat power not prove exceptional, soldiers of the line in tight formation remain a key foundation of the Snezhnayan military machine.
+
+## ZH
+
+隶属于愚人众特辖队的士兵，装备了铳刃，是维持阵线的中坚力量。
+在至冬的步兵典则中，线列军的首要职责唯有瞄准、射击与冲锋。
+尽管单兵作战能力并不出众，但集结成密集阵型的线列军总是至冬军势中最牢固的基石之一。
+
+## NOTES
+
+### Общие заметки Лороведьмы
