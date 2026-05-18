@@ -1,0 +1,39 @@
+{
+  "id": "geological_survey_mek",
+  "category": "enemies",
+  "enemy_group": "automatons",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/geological_survey_mek.webp",
+  "title": {
+    "ru": "Мек: Геологоразведка",
+    "en": "Geological Survey Mek",
+    "zh": "机关·地质勘探型"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Мек: Геологоразведка",
+    "Geological Survey Mek",
+    "机关·地质勘探型"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Мек, спроектированный и изготовленный для поиска под землёй ресурсов и особых минералов.\nОчень популярен среди похитителей сокровищ и искателей приключений благодаря выбору типа металла для поиска.",
+    "en": "A clockwork meka designed for surveying underground resources and certain minerals.\nDue to the fact that the desired metal type can be set, this device has proven very popular among Treasure Hoarders and Adventurers alike.",
+    "zh": "以探测地下资源及特定矿物为目的，设计制造的发条机关。\n因为能够设置搜寻的金属类型，所以也很受盗宝团与冒险家的欢迎。"
+  },
+  "description": {
+    "ru": "Мек, спроектированный и изготовленный для поиска под землёй ресурсов и особых минералов.\nОчень популярен среди похитителей сокровищ и искателей приключений благодаря выбору типа металла для поиска.",
+    "en": "A clockwork meka designed for surveying underground resources and certain minerals.\nDue to the fact that the desired metal type can be set, this device has proven very popular among Treasure Hoarders and Adventurers alike.",
+    "zh": "以探测地下资源及特定矿物为目的，设计制造的发条机关。\n因为能够设置搜寻的金属类型，所以也很受盗宝团与冒险家的欢迎。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "oprichniki_medic",
+  "category": "enemies",
+  "enemy_group": "fatui",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/oprichniki_medic.webp",
+  "title": {
+    "ru": "Опричник: Санитар",
+    "en": "Oprichniki Medic",
+    "zh": "愚人众特辖队·疗愈师"
+  },
+  "region": "Нод-Край",
+  "game_version": "6.0",
+  "tags": [
+    "Опричник: Санитар",
+    "Oprichniki Medic",
+    "愚人众特辖队·疗愈师"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Солдат опричников Фатуи, вооружённый устройством, похожим на посох, и призванный оказывать экстренную медицинскую помощь своим боевым товарищам.\nПо правде говоря, эти медики прошли лишь ускоренный курс подготовки, поэтому их целительские способности ограничены.\nНа практике они, как правило, используют более эффективные методы поддержки союзников - смешиваются с различными подразделениями и атакуют вражеские ряды.",
+    "en": "A soldier of the Fatui Oprichniki, equipped with a staff-like device and tasked with providing emergency medical support to their comrades in arms.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited.\nIn practice, they tend to adopt more efficient methods of supporting their allies — mixing in with the different units and charging at the enemy lines.",
+    "zh": "隶属于愚人众特辖队的士兵，装备了杖形器械，负责为战友提供应急医疗支援。\n事实上，疗愈师大多只受过速成培训，医疗援助能力十分有限。\n因此，他们更多时候会选择更高效的支援方式——与其他兵种混编，一同发起冲锋。"
+  },
+  "description": {
+    "ru": "Солдат опричников Фатуи, вооружённый устройством, похожим на посох, и призванный оказывать экстренную медицинскую помощь своим боевым товарищам.\nПо правде говоря, эти медики прошли лишь ускоренный курс подготовки, поэтому их целительские способности ограничены.\nНа практике они, как правило, используют более эффективные методы поддержки союзников - смешиваются с различными подразделениями и атакуют вражеские ряды.",
+    "en": "A soldier of the Fatui Oprichniki, equipped with a staff-like device and tasked with providing emergency medical support to their comrades in arms.\nIn truth, these medics have largely only taken crash-course training, and as such, their healing abilities are limited.\nIn practice, they tend to adopt more efficient methods of supporting their allies — mixing in with the different units and charging at the enemy lines.",
+    "zh": "隶属于愚人众特辖队的士兵，装备了杖形器械，负责为战友提供应急医疗支援。\n事实上，疗愈师大多只受过速成培训，医疗援助能力十分有限。\n因此，他们更多时候会选择更高效的支援方式——与其他兵种混编，一同发起冲锋。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

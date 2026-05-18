@@ -1,0 +1,39 @@
+{
+  "id": "yumkasaurus_warrior_whirling_leaves",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/yumkasaurus_warrior_whirling_leaves.webp",
+  "title": {
+    "ru": "Юмказавр-воин: Кружащая листва",
+    "en": "Yumkasaurus Warrior: Whirling Leaves",
+    "zh": "匿叶龙武士 · 旋锯飞叶"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Юмказавр-воин: Кружащая листва",
+    "Yumkasaurus Warrior: Whirling Leaves",
+    "匿叶龙武士 · 旋锯飞叶"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Могучий воин Потомков Крон, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может использовать крюк-кошку для увеличения дальности атаки.\nКрюки-кошки - неотъемлемая часть повседневной жизни Потомков Крон.\nОднако только самые дерзкие воины комбинируют крюки-кошки с лезвиями пилы, чтобы создать исключительно смертоносное, трудно контролируемое оружие.",
+    "en": "A powerful warrior from the Canopy, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can use a grappling hook to extend their attack range.\nGrappling hooks are an indispensable part of daily life for the Scions of the Canopy.\nHowever, only the wildest warriors will combine the hooks with sawblades to create a weapon both exceptionally lethal and difficult-to-control.",
+    "zh": "来自悬木之里，勇武受到认可，得以获授龙冠的强大武士。\n能够借助钩绳延展攻击范围的武者。\n钩绳是「悬木人」\n部族成员日常生活中不可缺少的组成部分。\n不过即使如此，只有最疯狂的战士才会将钩绳和锯刃相结合，变成难以操纵但杀伤力巨大的武器。"
+  },
+  "description": {
+    "ru": "Могучий воин Потомков Крон, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может использовать крюк-кошку для увеличения дальности атаки.\nКрюки-кошки - неотъемлемая часть повседневной жизни Потомков Крон.\nОднако только самые дерзкие воины комбинируют крюки-кошки с лезвиями пилы, чтобы создать исключительно смертоносное, трудно контролируемое оружие.",
+    "en": "A powerful warrior from the Canopy, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can use a grappling hook to extend their attack range.\nGrappling hooks are an indispensable part of daily life for the Scions of the Canopy.\nHowever, only the wildest warriors will combine the hooks with sawblades to create a weapon both exceptionally lethal and difficult-to-control.",
+    "zh": "来自悬木之里，勇武受到认可，得以获授龙冠的强大武士。\n能够借助钩绳延展攻击范围的武者。\n钩绳是「悬木人」\n部族成员日常生活中不可缺少的组成部分。\n不过即使如此，只有最疯狂的战士才会将钩绳和锯刃相结合，变成难以操纵但杀伤力巨大的武器。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "area_alert_mek",
+  "category": "enemies",
+  "enemy_group": "automatons",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/area_alert_mek.webp",
+  "title": {
+    "ru": "Мек: Сигнализация области",
+    "en": "Area Alert Mek",
+    "zh": "机关·区域警戒型"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Мек: Сигнализация области",
+    "Area Alert Mek",
+    "机关·区域警戒型"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Механизм, способный выстреливать энергию, выделенную в результате реакции аннигиляции.\nСтрого говоря, эта экспериментальная установка появилась во время исследований, связанных с Институтом натурфилософии, ещё до создания Исследовательского института Фонтейна.\nПо этой причине, несмотря на значительный коммерческий успех этого мека в качестве охранного и защитного устройства,\nбольшинство инженеров не рассматривают этот механизм как заводной в строгом смысле этого слова.",
+    "en": "A mechanism that is able to fire out the energy produced by an annihilation reaction.\nStrictly speaking,\nit was originally a test device that emerged from research undertaken by the Institute of Natural Philosophy before the Fontaine Research Institute had been established.\nAs such, despite its considerable commercial success as a sentinel and defensive device, most engineers do not consider it to be a true clockwork meka.",
+    "zh": "能够将湮灭产生的能量投射出去的机关。\n严格来说，是在枫丹科学院建立之前，自然哲学学院的相关研究中产生的试验装置。\n因此，尽管作为警戒与防御设备取得了相当的商业成功，大多数工程师并不将其视为严格意义的发条机关机械。"
+  },
+  "description": {
+    "ru": "Механизм, способный выстреливать энергию, выделенную в результате реакции аннигиляции.\nСтрого говоря, эта экспериментальная установка появилась во время исследований, связанных с Институтом натурфилософии, ещё до создания Исследовательского института Фонтейна.\nПо этой причине, несмотря на значительный коммерческий успех этого мека в качестве охранного и защитного устройства,\nбольшинство инженеров не рассматривают этот механизм как заводной в строгом смысле этого слова.",
+    "en": "A mechanism that is able to fire out the energy produced by an annihilation reaction.\nStrictly speaking,\nit was originally a test device that emerged from research undertaken by the Institute of Natural Philosophy before the Fontaine Research Institute had been established.\nAs such, despite its considerable commercial success as a sentinel and defensive device, most engineers do not consider it to be a true clockwork meka.",
+    "zh": "能够将湮灭产生的能量投射出去的机关。\n严格来说，是在枫丹科学院建立之前，自然哲学学院的相关研究中产生的试验装置。\n因此，尽管作为警戒与防御设备取得了相当的商业成功，大多数工程师并不将其视为严格意义的发条机关机械。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

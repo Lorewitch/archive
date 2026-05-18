@@ -1,0 +1,39 @@
+{
+  "id": "close_combat_storm_landcruiser",
+  "category": "enemies",
+  "enemy_group": "fatui",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/close_combat_storm_landcruiser.webp",
+  "title": {
+    "ru": "Сухопутный крейсер: Штурмовик ближнего боя",
+    "en": "Close Combat Storm Landcruiser",
+    "zh": "巡陆艇·近战攻坚型"
+  },
+  "region": "Нод-Край",
+  "game_version": "6.0",
+  "tags": [
+    "Сухопутный крейсер: Штурмовик ближнего боя",
+    "Close Combat Storm Landcruiser",
+    "巡陆艇·近战攻坚型"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с гусеничным ходом обычно используются для штурма позиций противника, где они могут преодолевать пересеченную местность, например грязь и тающий снег,\nнесмотря на тяжёлую броню и вооружение,\nблагодаря превосходной грузоподъёмности и проходимости.\nКогда сухопутные крейсера ближнего боя приближаются к линиям обороны противника строем, с вращающимися лопастями, расположенными по бокам,\nбольшинство противников сосредоточит огонь на них,\nдавая другим подразделениям возможность раскрыть весь потенциал своей огневой мощи...",
+    "en": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"Equipped with Crawler Track Movement Mechanisms,\nthese Landcruisers are normally used to storm enemy positions,\nwhere they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility.\nWhen close-combat Landcruisers approach enemy defensive lines in formation, rotating blades raised for battle, most foes will concentrate fire on them,\nallowing other units the opportunity to unleash their firepower...",
+    "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有履带式行走机构的巡陆艇通常被用于攻坚作战，得益于优秀的底盘承载与越野能力，它们可以搭载更为厚重的装甲和武装，轻松通过泥泞与融雪的恶劣地形。\n平举旋刃的近战巡陆艇展开队形抵近目标防线时，大部分敌军都会将火力聚焦在它们身上，如此一来，其他单位便拥有了发挥火力的良好条件…"
+  },
+  "description": {
+    "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nСухопутные крейсера с гусеничным ходом обычно используются для штурма позиций противника, где они могут преодолевать пересеченную местность, например грязь и тающий снег,\nнесмотря на тяжёлую броню и вооружение,\nблагодаря превосходной грузоподъёмности и проходимости.\nКогда сухопутные крейсера ближнего боя приближаются к линиям обороны противника строем, с вращающимися лопастями, расположенными по бокам,\nбольшинство противников сосредоточит огонь на них,\nдавая другим подразделениям возможность раскрыть весь потенциал своей огневой мощи...",
+    "en": "An autonomous machine that applies the principles of naval combat to land battles, a literal \"armed ship that cruises on land.\"Equipped with Crawler Track Movement Mechanisms,\nthese Landcruisers are normally used to storm enemy positions,\nwhere they can pass over rough terrain such as mud and melting snow despite heavy armor and armaments through their excellent load-bearing capabilities and off-road mobility.\nWhen close-combat Landcruisers approach enemy defensive lines in formation, rotating blades raised for battle, most foes will concentrate fire on them,\nallowing other units the opportunity to unleash their firepower...",
+    "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n装有履带式行走机构的巡陆艇通常被用于攻坚作战，得益于优秀的底盘承载与越野能力，它们可以搭载更为厚重的装甲和武装，轻松通过泥泞与融雪的恶劣地形。\n平举旋刃的近战巡陆艇展开队形抵近目标防线时，大部分敌军都会将火力聚焦在它们身上，如此一来，其他单位便拥有了发挥火力的良好条件…"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

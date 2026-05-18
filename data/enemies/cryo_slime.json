@@ -1,0 +1,39 @@
+{
+  "id": "cryo_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/cryo_slime.webp",
+  "title": {
+    "ru": "Крио слайм",
+    "en": "Cryo Slime",
+    "zh": "冰史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Крио слайм",
+    "Cryo Slime",
+    "冰史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Небольшой монстр, созданный из скопления Крио элемента, который рассеян по всему миру.\nЗлые языки поговаривали, что на винокурне «Рассвет» используют Крио слаймов, чтобы поддерживать нужную температуру в погребах и сохранять качество своей продукции.",
+    "en": "A small monster created through the coagulation of Cryo in the natural environment.\nCompetitors once spread malicious rumors that the Dawn Winery used Cryo Slimes to control the temperature of their wine cellar and preserve the quality of their alcohol.",
+    "zh": "逸散在自然之中的冰元素凝聚形成的小小魔物。\n过去曾经有竞争对手恶意谣传说，「晨曦酒庄」\n会利用冰史莱姆来调控酒窖的温度，以此保证酒品的质量。"
+  },
+  "description": {
+    "ru": "Небольшой монстр, созданный из скопления Крио элемента, который рассеян по всему миру.\nЗлые языки поговаривали, что на винокурне «Рассвет» используют Крио слаймов, чтобы поддерживать нужную температуру в погребах и сохранять качество своей продукции.",
+    "en": "A small monster created through the coagulation of Cryo in the natural environment.\nCompetitors once spread malicious rumors that the Dawn Winery used Cryo Slimes to control the temperature of their wine cellar and preserve the quality of their alcohol.",
+    "zh": "逸散在自然之中的冰元素凝聚形成的小小魔物。\n过去曾经有竞争对手恶意谣传说，「晨曦酒庄」\n会利用冰史莱姆来调控酒窖的温度，以此保证酒品的质量。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

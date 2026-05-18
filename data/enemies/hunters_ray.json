@@ -1,0 +1,39 @@
+{
+  "id": "hunters_ray",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/hunters_ray.webp",
+  "title": {
+    "ru": "Остроскат",
+    "en": "Hunter's Ray",
+    "zh": "猎刀鳐"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Остроскат",
+    "Hunter's Ray",
+    "猎刀鳐"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Скат, выпускающий водяные клинки.\nСреди инородов Фонтмера встречаются причудливые ксенохромные существа.\nКак гласят легенды, это не живые существа, а духи океана, которые не родились во плоти и не глотали наживки.\nОни даруют своё благословение тем, кого приняло первородное море или тем, кто способен его контролировать.\nКонечно, те, кто имеет глубокие познания в натурфилософии, не согласятся с подобными необоснованными утверждениями.",
+    "en": "A stingray that can release blades of water.\nAmong the Fontemer Aberrants, there are certain strange \"Xenochromatic\"lifeforms.\nIt is said that these are not actually living creatures, but rather spirits from the ocean that have neither taken physical form nor swallowed bait.\nThey are said to bestow blessings upon those accepted by the Fontemer as well as those that are able to control it.\nOf course, those that have a deeper understanding of natural philosophy would discount such groundless speculation.",
+    "zh": "能够释放水刃的鳐鱼。\n在原海异种中，存在着诡谲的「异色」\n生物。\n据说这种异色体并不是生物，而是海洋中未曾经受肉身诞生，不曾吞下饵食的灵魂，会向原海所认同者或是驾驭原海者施以祝福。\n当然对自然哲学更有研究与心得的人是不会认同这种毫无依据的说法的。"
+  },
+  "description": {
+    "ru": "Скат, выпускающий водяные клинки.\nСреди инородов Фонтмера встречаются причудливые ксенохромные существа.\nКак гласят легенды, это не живые существа, а духи океана, которые не родились во плоти и не глотали наживки.\nОни даруют своё благословение тем, кого приняло первородное море или тем, кто способен его контролировать.\nКонечно, те, кто имеет глубокие познания в натурфилософии, не согласятся с подобными необоснованными утверждениями.",
+    "en": "A stingray that can release blades of water.\nAmong the Fontemer Aberrants, there are certain strange \"Xenochromatic\"lifeforms.\nIt is said that these are not actually living creatures, but rather spirits from the ocean that have neither taken physical form nor swallowed bait.\nThey are said to bestow blessings upon those accepted by the Fontemer as well as those that are able to control it.\nOf course, those that have a deeper understanding of natural philosophy would discount such groundless speculation.",
+    "zh": "能够释放水刃的鳐鱼。\n在原海异种中，存在着诡谲的「异色」\n生物。\n据说这种异色体并不是生物，而是海洋中未曾经受肉身诞生，不曾吞下饵食的灵魂，会向原海所认同者或是驾驭原海者施以祝福。\n当然对自然哲学更有研究与心得的人是不会认同这种毫无依据的说法的。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

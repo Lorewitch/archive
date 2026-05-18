@@ -1,0 +1,39 @@
+{
+  "id": "swiftstep_seeker",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/swiftstep_seeker.webp",
+  "title": {
+    "ru": "Стремительный воин: Ищущая",
+    "en": "Swiftstep Seeker",
+    "zh": "疾迅勇士 · 引索客"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.0",
+  "tags": [
+    "Стремительный воин: Ищущая",
+    "Swiftstep Seeker",
+    "疾迅勇士 · 引索客"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Воительница Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nВ отличие от воинов других племён, эти воительницы всегда носят с собой крюки-кошки, чтобы совершать неожиданные атаки и побеждать противников.",
+    "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nUnlike the warriors of other tribes, these warriors, ever swinging around the mountains using their grappling hooks,\nare always considering how to defeat their opponents with unexpected attacks.",
+    "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n与其他部族的战士相比，这些终日借助钩绳在山间摆荡的战士对于环境更为敏感，时刻在想着如何使用意料之外的攻击击败对手。"
+  },
+  "description": {
+    "ru": "Воительница Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nВ отличие от воинов других племён, эти воительницы всегда носят с собой крюки-кошки, чтобы совершать неожиданные атаки и побеждать противников.",
+    "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nUnlike the warriors of other tribes, these warriors, ever swinging around the mountains using their grappling hooks,\nare always considering how to defeat their opponents with unexpected attacks.",
+    "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n与其他部族的战士相比，这些终日借助钩绳在山间摆荡的战士对于环境更为敏感，时刻在想着如何使用意料之外的攻击击败对手。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

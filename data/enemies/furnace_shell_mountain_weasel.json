@@ -1,0 +1,39 @@
+{
+  "id": "furnace_shell_mountain_weasel",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/furnace_shell_mountain_weasel.webp",
+  "title": {
+    "ru": "Термопанцирный горный хорь",
+    "en": "Furnace Shell Mountain Weasel",
+    "zh": "炉壳山鼬"
+  },
+  "region": "Натлан",
+  "game_version": "5.5",
+  "tags": [
+    "Термопанцирный горный хорь",
+    "Furnace Shell Mountain Weasel",
+    "炉壳山鼬"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древний вид горного хорька, который приспособился к уникальной, богатой флогистоном среде, изолированной от внешнего мира.\nПоглощая существ, богатых флогистоном, этот древний вид накапливает силу в своём панцире.\nПосле длительного существования в руинах Священной горы его адаптация к флогистону привела к тому, что на него стали влиять механизмы источника, находящиеся в руинах,\nи между ними возникли уникальные симбиотические отношения.",
+    "en": "An ancient variant of mountain weasel that has adapted to a unique, Phlogiston-rich environment isolated from the outside world.\nBy consuming creatures rich in Phlogiston, this species accumulates power in the shell it holds.\nAfter a prolonged existence in the ruins of the Sacred Mountain, its affinity for Phlogiston seems to have caused it to be influenced by the Source Mechanisms within the ruins,\ncreating a unique symbiotic relationship between them.",
+    "zh": "因生活在与外界隔绝的特殊燃素环境之内，而拥有特殊形态的古代种山鼬。\n通过进食富含燃素的生物，不断向背壳之中积蓄力量的古代兽种。\n于圣山废墟的长久生活之中，似乎由于独特的亲近燃素的性质，逐渐被圣山废墟之中的秘源机关影响，形成了独有的与秘源机关互相依附的生存状态。"
+  },
+  "description": {
+    "ru": "Древний вид горного хорька, который приспособился к уникальной, богатой флогистоном среде, изолированной от внешнего мира.\nПоглощая существ, богатых флогистоном, этот древний вид накапливает силу в своём панцире.\nПосле длительного существования в руинах Священной горы его адаптация к флогистону привела к тому, что на него стали влиять механизмы источника, находящиеся в руинах,\nи между ними возникли уникальные симбиотические отношения.",
+    "en": "An ancient variant of mountain weasel that has adapted to a unique, Phlogiston-rich environment isolated from the outside world.\nBy consuming creatures rich in Phlogiston, this species accumulates power in the shell it holds.\nAfter a prolonged existence in the ruins of the Sacred Mountain, its affinity for Phlogiston seems to have caused it to be influenced by the Source Mechanisms within the ruins,\ncreating a unique symbiotic relationship between them.",
+    "zh": "因生活在与外界隔绝的特殊燃素环境之内，而拥有特殊形态的古代种山鼬。\n通过进食富含燃素的生物，不断向背壳之中积蓄力量的古代兽种。\n于圣山废墟的长久生活之中，似乎由于独特的亲近燃素的性质，逐渐被圣山废墟之中的秘源机关影响，形成了独有的与秘源机关互相依附的生存状态。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

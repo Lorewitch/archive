@@ -1,0 +1,39 @@
+{
+  "id": "swiftstep_armed_courier",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/swiftstep_armed_courier.webp",
+  "title": {
+    "ru": "Стремительный воин: Вооружённый курьер",
+    "en": "Swiftstep Armed Courier",
+    "zh": "疾迅勇士 · 重刃讯使"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.0",
+  "tags": [
+    "Стремительный воин: Вооружённый курьер",
+    "Swiftstep Armed Courier",
+    "疾迅勇士 · 重刃讯使"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Воин Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nМногие сомневаются, что курьеры Потомков Крон могут использовать тяжёлые двуручные мечи, но, возможно, из-за их непростых обязанностей, такое оружие им необходимо.",
+    "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nMany wonder if claymores are too heavy to be wielded by the couriers of the Scions of the Canopy,\nbut perhaps it is precisely because their duties are heavier still that a weapon more capable of deterrence is a necessity.",
+    "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n常常有人怀疑，双手剑对于「悬木人」\n的讯使来说是否是种过重的武器，但或许正因为讯使承担的职责过于紧要，更具威慑力的武器才被视为一种必须。"
+  },
+  "description": {
+    "ru": "Воин Потомков Крон, племенной страж, патрулирующий лесные долины и горные ручьи.\nМногие сомневаются, что курьеры Потомков Крон могут использовать тяжёлые двуручные мечи, но, возможно, из-за их непростых обязанностей, такое оружие им необходимо.",
+    "en": "A warrior from the Canopy, and a tribal guardian that patrols the forest valleys and mountain streams.\nMany wonder if claymores are too heavy to be wielded by the couriers of the Scions of the Canopy,\nbut perhaps it is precisely because their duties are heavier still that a weapon more capable of deterrence is a necessity.",
+    "zh": "来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。\n常常有人怀疑，双手剑对于「悬木人」\n的讯使来说是否是种过重的武器，但或许正因为讯使承担的职责过于紧要，更具威慑力的武器才被视为一种必须。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

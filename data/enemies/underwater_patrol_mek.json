@@ -1,0 +1,39 @@
+{
+  "id": "underwater_patrol_mek",
+  "category": "enemies",
+  "enemy_group": "automatons",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/underwater_patrol_mek.webp",
+  "title": {
+    "ru": "Мек: Подводное патрулирование",
+    "en": "Underwater Patrol Mek",
+    "zh": "机关·水下巡游型"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Мек: Подводное патрулирование",
+    "Underwater Patrol Mek",
+    "机关·水下巡游型"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Мек, спроектированный для поиска и, если требуется, уничтожения подводных животных, которые негативно влияют на сооружения под водой.\nПосле первого наводнения в Исследовательском институте Фонтейна постоянно беспокоились, что однажды произойдёт второе наводнение.\nНекоторые стали задумываться о том, чтобы восстановить утраченные подводные руины и построить города под водой, а другие восхищались воздушными островами,\nкоторые парили на недосягаемой высоте,\nи мечтали построить небесный город.\nПатрульные меки произошли от первого плана, но если оценивать результат, сегодня последний, кажется, взял верх.",
+    "en": "This type of clockwork meka was designed to search out, repel, and if need be exterminate aquatic life forms that pose a threat to underwater equipment.\nEver since the first diluvian period, the Fontaine Research Institute has been preoccupied with the thought that there might be a second one.\nSome had the idea of taking back the ruins lost to the waves and building an underwater city,\nwhereas others looked up to the untouchable sky islands overhead with the intention of building a metropolis in the clouds.\nUnderwater Patrol Meks were conceived by the former, but judging from the results, it is the latter that have gained the upper hand in recent years.",
+    "zh": "这种发条机关的设计目的为搜寻、驱逐、消灭对水下设施有不利影响的水生动物。\n自第一次涨水期以来，枫丹科学院便一直忧心于或许有一天终将发生的第二次涨水期。\n其中一部分人开始构想收复丧失在水中的遗迹并建设海底之城，另一部分人则望着永远浮在不可触及高度的空中岛屿，梦想天空的都会。\n「水下巡游型」\n来自前者，但从结果而言，近些年后者似乎取得了上风。"
+  },
+  "description": {
+    "ru": "Мек, спроектированный для поиска и, если требуется, уничтожения подводных животных, которые негативно влияют на сооружения под водой.\nПосле первого наводнения в Исследовательском институте Фонтейна постоянно беспокоились, что однажды произойдёт второе наводнение.\nНекоторые стали задумываться о том, чтобы восстановить утраченные подводные руины и построить города под водой, а другие восхищались воздушными островами,\nкоторые парили на недосягаемой высоте,\nи мечтали построить небесный город.\nПатрульные меки произошли от первого плана, но если оценивать результат, сегодня последний, кажется, взял верх.",
+    "en": "This type of clockwork meka was designed to search out, repel, and if need be exterminate aquatic life forms that pose a threat to underwater equipment.\nEver since the first diluvian period, the Fontaine Research Institute has been preoccupied with the thought that there might be a second one.\nSome had the idea of taking back the ruins lost to the waves and building an underwater city,\nwhereas others looked up to the untouchable sky islands overhead with the intention of building a metropolis in the clouds.\nUnderwater Patrol Meks were conceived by the former, but judging from the results, it is the latter that have gained the upper hand in recent years.",
+    "zh": "这种发条机关的设计目的为搜寻、驱逐、消灭对水下设施有不利影响的水生动物。\n自第一次涨水期以来，枫丹科学院便一直忧心于或许有一天终将发生的第二次涨水期。\n其中一部分人开始构想收复丧失在水中的遗迹并建设海底之城，另一部分人则望着永远浮在不可触及高度的空中岛屿，梦想天空的都会。\n「水下巡游型」\n来自前者，但从结果而言，近些年后者似乎取得了上风。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

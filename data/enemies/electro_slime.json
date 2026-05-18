@@ -1,0 +1,39 @@
+{
+  "id": "electro_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/electro_slime.webp",
+  "title": {
+    "ru": "Электро слайм",
+    "en": "Electro Slime",
+    "zh": "雷史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Электро слайм",
+    "Electro Slime",
+    "雷史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Монстр, созданный из скопления Электро элемента, который рассеян по всему миру.\nАналитики сходятся во мнении, что эти существа реагируют на электрическое напряжение, присутствующее в земле.\nЕсли напряжение слишком высокое, слаймы взлетают в воздух.\nОсторожный искатель приключений сможет избежать опасных мест с высокой концентрацией Электро элемента, если будет внимательно наблюдать за поведением Электро слаймов.",
+    "en": "A small monster created by the coalescing of Electro dispersed throughout nature.\nAccording to analyses, the jumping of Electro Slimes reflects the electric potential difference in the ground.\nIn areas brimming over with Electro, their unusual movements can be observed and used to avoid danger.",
+    "zh": "逸散在自然之中的雷元素凝聚形成的小小魔物，能够放出微弱的电力。\n根据分析，雷史莱姆蹦蹦跳跳的运动方式能反映地面上的电势差。\n在雷元素极其丰沛的地方，可以通过观察雷史莱姆的异常运动，避开危险。"
+  },
+  "description": {
+    "ru": "Монстр, созданный из скопления Электро элемента, который рассеян по всему миру.\nАналитики сходятся во мнении, что эти существа реагируют на электрическое напряжение, присутствующее в земле.\nЕсли напряжение слишком высокое, слаймы взлетают в воздух.\nОсторожный искатель приключений сможет избежать опасных мест с высокой концентрацией Электро элемента, если будет внимательно наблюдать за поведением Электро слаймов.",
+    "en": "A small monster created by the coalescing of Electro dispersed throughout nature.\nAccording to analyses, the jumping of Electro Slimes reflects the electric potential difference in the ground.\nIn areas brimming over with Electro, their unusual movements can be observed and used to avoid danger.",
+    "zh": "逸散在自然之中的雷元素凝聚形成的小小魔物，能够放出微弱的电力。\n根据分析，雷史莱姆蹦蹦跳跳的运动方式能反映地面上的电势差。\n在雷元素极其丰沛的地方，可以通过观察雷史莱姆的异常运动，避开危险。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

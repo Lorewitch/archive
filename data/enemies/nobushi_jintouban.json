@@ -1,0 +1,39 @@
+{
+  "id": "nobushi_jintouban",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/nobushi_jintouban.webp",
+  "title": {
+    "ru": "Нобуси: Дзинтобан",
+    "en": "Nobushi: Jintouban",
+    "zh": "野伏·阵刀番"
+  },
+  "region": "Инадзума",
+  "game_version": "2.0",
+  "tags": [
+    "Нобуси: Дзинтобан",
+    "Nobushi: Jintouban",
+    "野伏·阵刀番"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nПоскольку они уже много лет находятся на тропе войны и отлично владеют мечом, они не часто используют его во благо.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+    "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nHaving pursued the path of a martial artist for a long time, they possess highly advanced sword skills but no longer use them for good.\nSometimes, they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+    "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n作为常年行走在武道上的人，有着精湛的剑术，如今却不将其用于正道。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+  },
+  "description": {
+    "ru": "Самураи, вступившие на путь бандитизма. Хотя они называются Нобуси, у них нет централизованной организации.\nПоскольку они уже много лет находятся на тропе войны и отлично владеют мечом, они не часто используют его во благо.\nИногда они даже вступают в сговор с Похитителями сокровищ или Фатуи, для получения прибыли или просто в целях выживания.",
+    "en": "Samurai who have fallen into banditry. Though they are called the Nobushi, they do not have a centralized organization.\nHaving pursued the path of a martial artist for a long time, they possess highly advanced sword skills but no longer use them for good.\nSometimes, they even collude with the Treasure Hoarders or Fatui out of a greed for wealth — or simply to survive.",
+    "zh": "落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。\n作为常年行走在武道上的人，有着精湛的剑术，如今却不将其用于正道。\n为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

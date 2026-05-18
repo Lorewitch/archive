@@ -1,0 +1,39 @@
+{
+  "id": "pyro_whopperflower",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/pyro_whopperflower.webp",
+  "title": {
+    "ru": "Пиро попрыгунья",
+    "en": "Pyro Whopperflower",
+    "zh": "炽热骗骗花"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Пиро попрыгунья",
+    "Pyro Whopperflower",
+    "炽热骗骗花"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Миметическое растение-монстр, которое атакует без предупреждения и использует элемент Пиро для охоты на свою добычу.\nТейват стал домом для растений, питающихся стихийными элементами. Со временем их интеллект возрос, а вместе с ним значительно выросла и потребность в питании...",
+    "en": "A mimetic plant monster that attacks without warning and uses Pyro to hunt its prey.\nThe world of Teyvat plays host to plants infused with the elements. Having gained a measure of intellect, their \"nutritional needs\"have also greatly increased...",
+    "zh": "古灵精怪的拟态植物魔物，会用火元素攻击猎物。\n提瓦特的世界中，存在着元素凭附的植物。\n因此获得了智性的它们，对「养分」\n的需求也大大提升了…"
+  },
+  "description": {
+    "ru": "Миметическое растение-монстр, которое атакует без предупреждения и использует элемент Пиро для охоты на свою добычу.\nТейват стал домом для растений, питающихся стихийными элементами. Со временем их интеллект возрос, а вместе с ним значительно выросла и потребность в питании...",
+    "en": "A mimetic plant monster that attacks without warning and uses Pyro to hunt its prey.\nThe world of Teyvat plays host to plants infused with the elements. Having gained a measure of intellect, their \"nutritional needs\"have also greatly increased...",
+    "zh": "古灵精怪的拟态植物魔物，会用火元素攻击猎物。\n提瓦特的世界中，存在着元素凭附的植物。\n因此获得了智性的它们，对「养分」\n的需求也大大提升了…"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

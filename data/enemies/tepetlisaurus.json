@@ -1,0 +1,39 @@
+{
+  "id": "tepetlisaurus",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/tepetlisaurus.webp",
+  "title": {
+    "ru": "Тепетлизавр",
+    "en": "Tepetlisaurus",
+    "zh": "嵴锋龙"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Тепетлизавр",
+    "Tepetlisaurus",
+    "嵴锋龙"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Завриан с рогом и когтями, способными пробивать камень и твёрдый флогистон.\nПо легенде, предок тепетлизавров был огромным драконом размером с гору, жил он невероятно долго.\nКогда он спал, на его спине образовывались горы, а когда просыпался, стряхивал грязь и камни, оставляя сверкающие самоцветы и нефрит среди своих чешуек.\nОгромные объекты в форме сверла у Детей Эха считаются останками рога этого дракона.",
+    "en": "A Saurian with a drill-like horn and strong claws that can tunnel through rocks and solid phlogiston.\nAccording to legend, the ancestor of all Tepetlisaurs was a massive drake as large as a mountain, with an exceptionally long lifespan.\nWhen it slept, mountains would form along its back, and when it woke, it would shake off the dirt and rocks, leaving behind gems and jade shining amongst its scales.\nThe huge, drill-shaped objects in the Children of Echoes are said to be the remains of that great drake's large drill-horn.",
+    "zh": "拥有钻角与坚爪，能够在山石与固态燃素中穿梭的龙。\n传说中，嵴锋龙的祖先是山一般巨大的龙兽，拥有相当漫长的寿命，沉睡时，群山在其背脊上成型，苏醒时，就会抖落身上的泥土与沉岩，唯留宝石与美玉在鳞角中熠熠生辉。\n「回声之子」\n部族中巨大的钻状物，据说是那时龙兽巨大钻角的遗留。"
+  },
+  "description": {
+    "ru": "Завриан с рогом и когтями, способными пробивать камень и твёрдый флогистон.\nПо легенде, предок тепетлизавров был огромным драконом размером с гору, жил он невероятно долго.\nКогда он спал, на его спине образовывались горы, а когда просыпался, стряхивал грязь и камни, оставляя сверкающие самоцветы и нефрит среди своих чешуек.\nОгромные объекты в форме сверла у Детей Эха считаются останками рога этого дракона.",
+    "en": "A Saurian with a drill-like horn and strong claws that can tunnel through rocks and solid phlogiston.\nAccording to legend, the ancestor of all Tepetlisaurs was a massive drake as large as a mountain, with an exceptionally long lifespan.\nWhen it slept, mountains would form along its back, and when it woke, it would shake off the dirt and rocks, leaving behind gems and jade shining amongst its scales.\nThe huge, drill-shaped objects in the Children of Echoes are said to be the remains of that great drake's large drill-horn.",
+    "zh": "拥有钻角与坚爪，能够在山石与固态燃素中穿梭的龙。\n传说中，嵴锋龙的祖先是山一般巨大的龙兽，拥有相当漫长的寿命，沉睡时，群山在其背脊上成型，苏醒时，就会抖落身上的泥土与沉岩，唯留宝石与美玉在鳞角中熠熠生辉。\n「回声之子」\n部族中巨大的钻状物，据说是那时龙兽巨大钻角的遗留。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

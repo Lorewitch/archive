@@ -1,0 +1,39 @@
+{
+  "id": "yumkasaur_whelp",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/yumkasaur_whelp.webp",
+  "title": {
+    "ru": "Детёныш юмказавра",
+    "en": "Yumkasaur Whelp",
+    "zh": "幼匿叶龙"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.0",
+  "tags": [
+    "Детёныш юмказавра",
+    "Yumkasaur Whelp",
+    "幼匿叶龙"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Молодые юмказавры могут выплёвывать пламегранатовый пектин, который хранят в защёчных мешочках, чтобы обвивать предметы на расстоянии.\nИх сила удержания объектов недостаточно велика, как и чувство равновесия, чтобы свободно перемещаться по воздуху.\nИногда они даже падают набок, просто сидя на хвостах.\nНо однажды они вырастут и смогут свободно раскачиваться между деревьями.",
+    "en": "A young Yumkasaurus with the ability to spit Flamegranate pectin hidden in their cheek pouches out, wrapping around distant objects.\nTheir hold on pectin-coated objects isn't strong enough, nor is their sense of balance good enough to allow them to move freely through the air.\nSometimes, they'll even fall over to one side just sitting on their tails.\nHowever, one day, they will grow into the form that can swing freely between the trees without a care.",
+    "zh": "年幼的匿叶龙，可以吐出藏在颊袋中的火榴果胶卷住远处的物体。\n卷住物体的力量并不强，自身的平衡感也远未达到可在空中自如穿梭的程度，有时即使是坐在尾巴上也会不由自主地向着一侧倾倒。\n不过终有一日，能够成长为在林间悠然摆荡的样貌吧。"
+  },
+  "description": {
+    "ru": "Молодые юмказавры могут выплёвывать пламегранатовый пектин, который хранят в защёчных мешочках, чтобы обвивать предметы на расстоянии.\nИх сила удержания объектов недостаточно велика, как и чувство равновесия, чтобы свободно перемещаться по воздуху.\nИногда они даже падают набок, просто сидя на хвостах.\nНо однажды они вырастут и смогут свободно раскачиваться между деревьями.",
+    "en": "A young Yumkasaurus with the ability to spit Flamegranate pectin hidden in their cheek pouches out, wrapping around distant objects.\nTheir hold on pectin-coated objects isn't strong enough, nor is their sense of balance good enough to allow them to move freely through the air.\nSometimes, they'll even fall over to one side just sitting on their tails.\nHowever, one day, they will grow into the form that can swing freely between the trees without a care.",
+    "zh": "年幼的匿叶龙，可以吐出藏在颊袋中的火榴果胶卷住远处的物体。\n卷住物体的力量并不强，自身的平衡感也远未达到可在空中自如穿梭的程度，有时即使是坐在尾巴上也会不由自主地向着一侧倾倒。\n不过终有一日，能够成长为在林间悠然摆荡的样貌吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

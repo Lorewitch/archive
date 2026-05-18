@@ -1,0 +1,39 @@
+{
+  "id": "large_cryo_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/large_cryo_slime.webp",
+  "title": {
+    "ru": "Большой Крио слайм",
+    "en": "Large Cryo Slime",
+    "zh": "大型冰史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Большой Крио слайм",
+    "Large Cryo Slime",
+    "大型冰史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Небольшой монстр, созданный из скопления Крио элемента, который рассеян по всему миру.\nЭти слаймы используют энергию Крио элемента, чтобы заморозить влагу в атмосфере и создать защитную оболочку.\nПодобным образом они замораживают воду в водоёмах.\nВ некотором смысле, это самый свободный вид слаймов, так как они способны пересекать моря и океаны.",
+    "en": "A monster created through the coagulation of Cryo in the natural environment.\nThese slimes can use the abundant Cryo energies within themselves to freeze the moisture in the atmosphere and form a protective shell around themselves.\nThey can also utilize a similar principle to freeze the water around them.\nOn some level, this can be considered to be the freest species of slime, as it can cross oceans and seas with ease.",
+    "zh": "逸散在自然之中的冰元素凝聚形成的魔物。\n会利用体内凝聚的丰沛的冰元素，将大气中的水汽凝结成具有保护性的外壳；\n也会利用同样的原理，将周围的水面冻结。\n某种意义上是最自由的史莱姆，可以轻松自在地渡过汪洋大海。"
+  },
+  "description": {
+    "ru": "Небольшой монстр, созданный из скопления Крио элемента, который рассеян по всему миру.\nЭти слаймы используют энергию Крио элемента, чтобы заморозить влагу в атмосфере и создать защитную оболочку.\nПодобным образом они замораживают воду в водоёмах.\nВ некотором смысле, это самый свободный вид слаймов, так как они способны пересекать моря и океаны.",
+    "en": "A monster created through the coagulation of Cryo in the natural environment.\nThese slimes can use the abundant Cryo energies within themselves to freeze the moisture in the atmosphere and form a protective shell around themselves.\nThey can also utilize a similar principle to freeze the water around them.\nOn some level, this can be considered to be the freest species of slime, as it can cross oceans and seas with ease.",
+    "zh": "逸散在自然之中的冰元素凝聚形成的魔物。\n会利用体内凝聚的丰沛的冰元素，将大气中的水汽凝结成具有保护性的外壳；\n也会利用同样的原理，将周围的水面冻结。\n某种意义上是最自由的史莱姆，可以轻松自在地渡过汪洋大海。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

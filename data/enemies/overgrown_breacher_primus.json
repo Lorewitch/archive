@@ -1,0 +1,39 @@
+{
+  "id": "overgrown_breacher_primus",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/overgrown_breacher_primus.webp",
+  "title": {
+    "ru": "Прорастающий протоген расщелин",
+    "en": "Overgrown Breacher Primus",
+    "zh": "狂蔓隙境原体"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Прорастающий протоген расщелин",
+    "Overgrown Breacher Primus",
+    "狂蔓隙境原体"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nСамые ранние зафиксированные наблюдения за протогенами расщелин появились вскоре после катастрофы.\nВ записях того времени говорится как о случаях, когда протогены расщелин нападали на людей, так и о случаях, когда протогены расщелин становились на защиту людей.",
+    "en": "A strange life form that mostly appears in Elynas.\nIn Fontaine, the earliest recorded observations of a Breacher Primus appeared shortly after the cataclysm.\nRecords from the time show instances of Breacher Primuses both attacking and protecting humans.",
+    "zh": "主要出现在厄里那斯的奇异生命体。\n在枫丹，最早观测到隙境原体是在灾难过后不久。\n当时同时留下了隙境原体攻击人与保护人的记录。"
+  },
+  "description": {
+    "ru": "Необычные живые существа, в основном появляющиеся рядом с Элинасом.\nСамые ранние зафиксированные наблюдения за протогенами расщелин появились вскоре после катастрофы.\nВ записях того времени говорится как о случаях, когда протогены расщелин нападали на людей, так и о случаях, когда протогены расщелин становились на защиту людей.",
+    "en": "A strange life form that mostly appears in Elynas.\nIn Fontaine, the earliest recorded observations of a Breacher Primus appeared shortly after the cataclysm.\nRecords from the time show instances of Breacher Primuses both attacking and protecting humans.",
+    "zh": "主要出现在厄里那斯的奇异生命体。\n在枫丹，最早观测到隙境原体是在灾难过后不久。\n当时同时留下了隙境原体攻击人与保护人的记录。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

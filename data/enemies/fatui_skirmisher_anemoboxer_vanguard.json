@@ -1,0 +1,39 @@
+{
+  "id": "fatui_skirmisher_anemoboxer_vanguard",
+  "category": "enemies",
+  "enemy_group": "fatui",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_anemoboxer_vanguard.webp",
+  "title": {
+    "ru": "Застрельщик Фатуи: Анемо борец",
+    "en": "Fatui Skirmisher - Anemoboxer Vanguard",
+    "zh": "愚人众先遣队·风拳前锋军"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Застрельщик Фатуи: Анемо борец",
+    "Fatui Skirmisher - Anemoboxer Vanguard",
+    "愚人众先遣队·风拳前锋军"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Застрельщик Фатуи, способный управлять Анемо и поднимать павших товарищей.\nОни покинули дом во славу своей родины.\nОни оставили свои семьи позади, но взамен получили надёжных товарищей, с которыми им предстоит пройти сквозь огонь и воду.\nВозможно, именно эти мысли помогают им справляться с грязной работой, из которой состоят почти все их миссии.",
+    "en": "A skirmisher armed with the ability to manipulate Anemo and heal their comrades.\nThey departed from their motherland and did so for its sake. They left their family, yet gained allies to stick through thick and thin with.\n—Perhaps such thoughts are what get them through the unscrupulous work that their missions entail.",
+    "zh": "能利用风的力量，复苏战友的先遣队士兵。\n远离故土又为了故乡。\n告别了亲人却获得了能相托以生死的战友。\n——或许他们以任务的名义干着丑恶的勾当时，也带着这样的想法。"
+  },
+  "description": {
+    "ru": "Застрельщик Фатуи, способный управлять Анемо и поднимать павших товарищей.\nОни покинули дом во славу своей родины.\nОни оставили свои семьи позади, но взамен получили надёжных товарищей, с которыми им предстоит пройти сквозь огонь и воду.\nВозможно, именно эти мысли помогают им справляться с грязной работой, из которой состоят почти все их миссии.",
+    "en": "A skirmisher armed with the ability to manipulate Anemo and heal their comrades.\nThey departed from their motherland and did so for its sake. They left their family, yet gained allies to stick through thick and thin with.\n—Perhaps such thoughts are what get them through the unscrupulous work that their missions entail.",
+    "zh": "能利用风的力量，复苏战友的先遣队士兵。\n远离故土又为了故乡。\n告别了亲人却获得了能相托以生死的战友。\n——或许他们以任务的名义干着丑恶的勾当时，也带着这样的想法。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

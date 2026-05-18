@@ -1,0 +1,39 @@
+{
+  "id": "large_pyro_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/large_pyro_slime.webp",
+  "title": {
+    "ru": "Большой Пиро слайм",
+    "en": "Large Pyro Slime",
+    "zh": "大型火史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Большой Пиро слайм",
+    "Large Pyro Slime",
+    "大型火史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Небольшой монстр, созданный из скопления Пиро элемента, который рассеян по всему миру.\nНесмотря на внушительный размер, это существо обладает скудными интеллектуальными способностями.\nВ сухую погоду это существо особенно пожароопасно.\nЕсли его разозлить, то он начнёт плеваться огненными шарами, а если слайму станет грустно, то он потемнеет.\nДействительно, выдающийся слайм.",
+    "en": "A monster created by the sedimentation of Pyro dispersed throughout nature.\nThough its intelligence has not increased with its size, it is very hot.\nDuring dry seasons, it can cause wildfires.\nIt will spit forth blazing fireballs when angered, and will turn dark when it is feeling down.\nA most expressive slime, indeed.",
+    "zh": "逸散在自然之中的火元素沉积形成的魔物。\n虽然智能水平并没有随着体型的成长而提高，但真的很热。\n在干燥的季节，可能会引发野火。\n愤怒的时候会喷吐炽热的火球，情绪低落的时候会变暗，是表达能力很强的史莱姆。"
+  },
+  "description": {
+    "ru": "Небольшой монстр, созданный из скопления Пиро элемента, который рассеян по всему миру.\nНесмотря на внушительный размер, это существо обладает скудными интеллектуальными способностями.\nВ сухую погоду это существо особенно пожароопасно.\nЕсли его разозлить, то он начнёт плеваться огненными шарами, а если слайму станет грустно, то он потемнеет.\nДействительно, выдающийся слайм.",
+    "en": "A monster created by the sedimentation of Pyro dispersed throughout nature.\nThough its intelligence has not increased with its size, it is very hot.\nDuring dry seasons, it can cause wildfires.\nIt will spit forth blazing fireballs when angered, and will turn dark when it is feeling down.\nA most expressive slime, indeed.",
+    "zh": "逸散在自然之中的火元素沉积形成的魔物。\n虽然智能水平并没有随着体型的成长而提高，但真的很热。\n在干燥的季节，可能会引发野火。\n愤怒的时候会喷吐炽热的火球，情绪低落的时候会变暗，是表达能力很强的史莱姆。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

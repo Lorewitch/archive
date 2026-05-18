@@ -1,0 +1,39 @@
+{
+  "id": "biting_cold_wayob_manifestation",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/biting_cold_wayob_manifestation.webp",
+  "title": {
+    "ru": "Воплощение Вайоб пронизывающего хлада",
+    "en": "Biting-Cold Wayob Manifestation",
+    "zh": "凛冽 · 大灵显化身"
+  },
+  "region": "Натлан",
+  "game_version": "5.2",
+  "tags": [
+    "Воплощение Вайоб пронизывающего хлада",
+    "Biting-Cold Wayob Manifestation",
+    "凛冽 · 大灵显化身"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Повелители Ночного Ветра верят в Вайоб, чьё воплощение на земле проявляется с помощью тотемов и ночных душ.\nПовелители Ночного Ветра пробовали использовать множество средств для связи с Царством Ночи.\nВ конце концов они обнаружили, что средством, позволяющим установить наиболее устойчивую связь с Вайоб, является обсидиан.\nВозможно, это объясняет, почему с течением времени воплощения Вайоб приобретают форму, напоминающую каменную статую.\nПовелители Ночного Ветра считают, что их Вайоб способна контролировать процесс замораживания и кристаллизации, а также повелевать осязаемостью и превращением.",
+    "en": "The Masters of the Night-Wind believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe Masters of the Night-Wind have tried using many mediums to communicate with the Night Kingdom.\nEventually, they discovered that the medium that allowed them to establish the most stable connection with the Wayob was obsidian.\nThis may explain why, over the ages, Wayob Manifestations have taken on a form that resembles a stone statue.\nThe Masters of the Night-Wind believe their Wayob has the power to control the process of freezing and crystallization, and can also command both fixedness and mutability.",
+    "zh": "「烟谜主」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n「烟谜主」\n部族的成员曾尝试过许多与夜魂的国度沟通的媒介，最后众人发现，能与「大灵」\n建立最为稳定联系的中介物质是黑曜石。\n这或许是大灵显化身在长久的岁月中形成类似石像般造型的原因。\n「烟谜主」\n的人相信他们的「大灵」\n拥有控制冰晶与冻结的力量，能够执掌固型和流变的话语。"
+  },
+  "description": {
+    "ru": "Повелители Ночного Ветра верят в Вайоб, чьё воплощение на земле проявляется с помощью тотемов и ночных душ.\nПовелители Ночного Ветра пробовали использовать множество средств для связи с Царством Ночи.\nВ конце концов они обнаружили, что средством, позволяющим установить наиболее устойчивую связь с Вайоб, является обсидиан.\nВозможно, это объясняет, почему с течением времени воплощения Вайоб приобретают форму, напоминающую каменную статую.\nПовелители Ночного Ветра считают, что их Вайоб способна контролировать процесс замораживания и кристаллизации, а также повелевать осязаемостью и превращением.",
+    "en": "The Masters of the Night-Wind believe in and worship the Wayob, which manifests upon the land with the power of totems and Nightsouls.\nThe Masters of the Night-Wind have tried using many mediums to communicate with the Night Kingdom.\nEventually, they discovered that the medium that allowed them to establish the most stable connection with the Wayob was obsidian.\nThis may explain why, over the ages, Wayob Manifestations have taken on a form that resembles a stone statue.\nThe Masters of the Night-Wind believe their Wayob has the power to control the process of freezing and crystallization, and can also command both fixedness and mutability.",
+    "zh": "「烟谜主」\n部族所信仰与崇拜的「大灵」，借由图腾与夜魂之力，于大地之上显化的形体。\n「烟谜主」\n部族的成员曾尝试过许多与夜魂的国度沟通的媒介，最后众人发现，能与「大灵」\n建立最为稳定联系的中介物质是黑曜石。\n这或许是大灵显化身在长久的岁月中形成类似石像般造型的原因。\n「烟谜主」\n的人相信他们的「大灵」\n拥有控制冰晶与冻结的力量，能够执掌固型和流变的话语。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

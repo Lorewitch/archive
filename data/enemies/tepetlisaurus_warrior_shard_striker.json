@@ -1,0 +1,39 @@
+{
+  "id": "tepetlisaurus_warrior_shard_striker",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/tepetlisaurus_warrior_shard_striker.webp",
+  "title": {
+    "ru": "Тепетлизавр-воин: Крушитель осколков",
+    "en": "Tepetlisaurus Warrior: Shard Striker",
+    "zh": "嵴锋龙武士 · 碎晶打者"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Тепетлизавр-воин: Крушитель осколков",
+    "Tepetlisaurus Warrior: Shard Striker",
+    "嵴锋龙武士 · 碎晶打者"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может ударить с силой камнепада.\nДаже среди Детей Эха, которые обожают камни и кристаллы, коронованные заврианами воины - мастера, лучше всех понимающие природу камня.\nГоворят, что они могут определить чистоту и текстуру руды, взглянув на её необработанную поверхность.",
+    "en": "A powerful warrior from the canyon, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can strike with the power of a rockfall.\nEven among the Children of Echoes, who live and breathe rock and crystal, Saurian-Crowned Warriors are masters who understand rock and stone better than any.\nIt is said they can even divine the purity and grain of the interior of raw ore merely by looking at the rough exterior.",
+    "zh": "来自峡谷之中，勇武受到认可，得以获授龙冠的强大武士。\n能够借助岩崩之力进行击打的武者。\n即使是在与山岩晶体亲近的「回声之子」\n中，龙冠武士也是领悟山岩之力更为透彻的高手。\n据说他们甚至能够透过原矿表面粗糙的风化皮，分析其内部的成色和纹理。"
+  },
+  "description": {
+    "ru": "Могучий воин каньона, получивший признание за свою храбрость, был награждён заврианской короной.\nЭтот воин может ударить с силой камнепада.\nДаже среди Детей Эха, которые обожают камни и кристаллы, коронованные заврианами воины - мастера, лучше всех понимающие природу камня.\nГоворят, что они могут определить чистоту и текстуру руды, взглянув на её необработанную поверхность.",
+    "en": "A powerful warrior from the canyon, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can strike with the power of a rockfall.\nEven among the Children of Echoes, who live and breathe rock and crystal, Saurian-Crowned Warriors are masters who understand rock and stone better than any.\nIt is said they can even divine the purity and grain of the interior of raw ore merely by looking at the rough exterior.",
+    "zh": "来自峡谷之中，勇武受到认可，得以获授龙冠的强大武士。\n能够借助岩崩之力进行击打的武者。\n即使是在与山岩晶体亲近的「回声之子」\n中，龙冠武士也是领悟山岩之力更为透彻的高手。\n据说他们甚至能够透过原矿表面粗糙的风化皮，分析其内部的成色和纹理。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

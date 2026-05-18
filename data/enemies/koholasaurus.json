@@ -1,0 +1,39 @@
+{
+  "id": "koholasaurus",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/koholasaurus.webp",
+  "title": {
+    "ru": "Кохолазавр",
+    "en": "Koholasaurus",
+    "zh": "鳍游龙"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Кохолазавр",
+    "Koholasaurus",
+    "鳍游龙"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Завриан с крепкими конечностями и длинным хвостом, который может плавать как в воде, так и в жидком флогистоне.\nПо легенде, древние драконы могли прекрасно адаптироваться к окружающей среде.\nСамый большой из них, плавая на поверхности воды, был похож на остров.\nГоворят, что современные кохолазавры - потомки этих огромных морских драконов.\nВ их широких спинах можно разглядеть черты древних морских чудовищ.",
+    "en": "A Saurian with thick, strong flippers and a long tail that can swim in water and liquid phlogiston.\nAccording to legend, more ancient dragons were even more able to adapt to their environments, and when the largest dragon in the ocean of the age floated on the surface,\nit could even be mistaken for an island.\nIt is said that today's Koholasaurus are the descendants of that great sea dragon, and in their broad backs the colossal forms of those ancient sea beasts may yet be glimpsed.",
+    "zh": "具有粗壮的鳍肢与长尾，能够在水域与液态燃素中游动的龙。\n传说中，更为远古的龙拥有更加强的环境适应度，那时海中最为巨大的龙漂浮在水面上时，甚至会让人误以为是一座浮起的岛屿。\n据说现在的鳍游龙就是那种巨大海龙的后裔，从其宽阔的背部，似乎也能窥得远古海兽的庞然形态。"
+  },
+  "description": {
+    "ru": "Завриан с крепкими конечностями и длинным хвостом, который может плавать как в воде, так и в жидком флогистоне.\nПо легенде, древние драконы могли прекрасно адаптироваться к окружающей среде.\nСамый большой из них, плавая на поверхности воды, был похож на остров.\nГоворят, что современные кохолазавры - потомки этих огромных морских драконов.\nВ их широких спинах можно разглядеть черты древних морских чудовищ.",
+    "en": "A Saurian with thick, strong flippers and a long tail that can swim in water and liquid phlogiston.\nAccording to legend, more ancient dragons were even more able to adapt to their environments, and when the largest dragon in the ocean of the age floated on the surface,\nit could even be mistaken for an island.\nIt is said that today's Koholasaurus are the descendants of that great sea dragon, and in their broad backs the colossal forms of those ancient sea beasts may yet be glimpsed.",
+    "zh": "具有粗壮的鳍肢与长尾，能够在水域与液态燃素中游动的龙。\n传说中，更为远古的龙拥有更加强的环境适应度，那时海中最为巨大的龙漂浮在水面上时，甚至会让人误以为是一座浮起的岛屿。\n据说现在的鳍游龙就是那种巨大海龙的后裔，从其宽阔的背部，似乎也能窥得远古海兽的庞然形态。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

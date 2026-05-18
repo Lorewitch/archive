@@ -1,0 +1,39 @@
+{
+  "id": "spiritspeaker_warrior_psychokinetic",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_psychokinetic.webp",
+  "title": {
+    "ru": "Говорящий с духами воин: Управляющий разумом",
+    "en": "Spiritspeaker Warrior: Psychokinetic",
+    "zh": "灵觉勇士 · 控念师"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Говорящий с духами воин: Управляющий разумом",
+    "Spiritspeaker Warrior: Psychokinetic",
+    "灵觉勇士 · 控念师"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nГоворят, что рисунки на их теле основаны на принципах флогистоновой гравировки. Только после долгих лет тренировок можно постичь их истинную силу.",
+    "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nIt is said that their body paint is an art that evolved from the practice of Phlogiston Engraving,\nand that it takes long years of training to fully master the power contained within.",
+    "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n据说身上的油彩涂鸦是燃素刻录演化到了如今的形式，需要经过漫长的修行才能真正掌握其中的力量。"
+  },
+  "description": {
+    "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nГоворят, что рисунки на их теле основаны на принципах флогистоновой гравировки. Только после долгих лет тренировок можно постичь их истинную силу.",
+    "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nIt is said that their body paint is an art that evolved from the practice of Phlogiston Engraving,\nand that it takes long years of training to fully master the power contained within.",
+    "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n据说身上的油彩涂鸦是燃素刻录演化到了如今的形式，需要经过漫长的修行才能真正掌握其中的力量。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

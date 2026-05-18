@@ -1,0 +1,39 @@
+{
+  "id": "shadowy_husk_line_breaker",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/shadowy_husk_line_breaker.webp",
+  "title": {
+    "ru": "Чёрный доспех: Штурмовик",
+    "en": "Shadowy Husk: Line Breaker",
+    "zh": "黯色空壳·破阵"
+  },
+  "region": "Ли Юэ",
+  "game_version": "2.5",
+  "tags": [
+    "Чёрный доспех: Штурмовик",
+    "Shadowy Husk: Line Breaker",
+    "黯色空壳·破阵"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, утративший человеческий разум.\nЖелание уничтожить врага и защищаться, казалось бы, высечено в этой пустой оболочке, даже если не осталось никого, кто мог бы сказать, где враг и что защищать.",
+    "en": "A pitch-dark soldier.\nOnce a proud warrior of an ancient underground nation,\nit no longer has any \"intelligence\"that it may still be called \"human.\"Yet the desire to destroy the foe and plunge into battle to defend others is etched into this empty suit of\narmor,\neven if no one remains to tell it where the enemy is or who or what exactly must be defended.",
+    "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经不再具备身为「人」\n的智性了。\n为了歼敌、为了守护而陷阵的意志似乎仍然刻在这幅空壳当中，就算已经没有人能告诉它们敌在何方，要守护的又是什么。"
+  },
+  "description": {
+    "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, утративший человеческий разум.\nЖелание уничтожить врага и защищаться, казалось бы, высечено в этой пустой оболочке, даже если не осталось никого, кто мог бы сказать, где враг и что защищать.",
+    "en": "A pitch-dark soldier.\nOnce a proud warrior of an ancient underground nation,\nit no longer has any \"intelligence\"that it may still be called \"human.\"Yet the desire to destroy the foe and plunge into battle to defend others is etched into this empty suit of\narmor,\neven if no one remains to tell it where the enemy is or who or what exactly must be defended.",
+    "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经不再具备身为「人」\n的智性了。\n为了歼敌、为了守护而陷阵的意志似乎仍然刻在这幅空壳当中，就算已经没有人能告诉它们敌在何方，要守护的又是什么。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

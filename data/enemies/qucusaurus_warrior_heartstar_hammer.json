@@ -1,0 +1,39 @@
+{
+  "id": "qucusaurus_warrior_heartstar_hammer",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/qucusaurus_warrior_heartstar_hammer.webp",
+  "title": {
+    "ru": "Кукузавр-воин: Молот звёзд",
+    "en": "Qucusaurus Warrior: Heartstar Hammer",
+    "zh": "绒翼龙武士 · 膛星之锤"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Кукузавр-воин: Молот звёзд",
+    "Qucusaurus Warrior: Heartstar Hammer",
+    "绒翼龙武士 · 膛星之锤"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nДаже в Натлане, стране Пиро, члены клана Цветочного Пера имеют уникальный подход к обращению с огнём.\nДля этих воинов, вооружённых тяжёлыми молотами, пламя - это нечто, вырывающееся при яростных столкновениях, символ накала эмоций.\nКогда они сражаются, бой обычно заканчивается в одно мгновение, а победа всегда остаётся за ними.",
+    "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nEven in Natlan, the Nation of Pyro, members of the Flower-Feather Clan have a unique approach when it comes to wielding fire and flames.\nFor these tribal warriors, armed as they are with heavy hammers, flames are something that burst forth from violent collisions, symbols of intense passion.\nWhen they do battle, the fight usually ends within an instant— and they are always the ones who stand victorious.",
+    "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n即便是在火之国纳塔，来自「花羽会」\n部族的成员对于火焰与燃烧的利用仍然别具一格。\n对于使用重锤的部族武士来说，火焰是冲撞与迸发，是激昂与热烈。\n对于他们来说，战斗往往在瞬息之间就将迎来结果，而他们总是获得胜利的一方。"
+  },
+  "description": {
+    "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nДаже в Натлане, стране Пиро, члены клана Цветочного Пера имеют уникальный подход к обращению с огнём.\nДля этих воинов, вооружённых тяжёлыми молотами, пламя - это нечто, вырывающееся при яростных столкновениях, символ накала эмоций.\nКогда они сражаются, бой обычно заканчивается в одно мгновение, а победа всегда остаётся за ними.",
+    "en": "A powerful warrior from the clifftops, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nEven in Natlan, the Nation of Pyro, members of the Flower-Feather Clan have a unique approach when it comes to wielding fire and flames.\nFor these tribal warriors, armed as they are with heavy hammers, flames are something that burst forth from violent collisions, symbols of intense passion.\nWhen they do battle, the fight usually ends within an instant— and they are always the ones who stand victorious.",
+    "zh": "来自山崖之上，勇武受到认可，得以获授龙冠的强大武士。\n即便是在火之国纳塔，来自「花羽会」\n部族的成员对于火焰与燃烧的利用仍然别具一格。\n对于使用重锤的部族武士来说，火焰是冲撞与迸发，是激昂与热烈。\n对于他们来说，战斗往往在瞬息之间就将迎来结果，而他们总是获得胜利的一方。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "winged_warrior_skymaster",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/winged_warrior_skymaster.webp",
+  "title": {
+    "ru": "Крылатый воин: Владыка небес",
+    "en": "Winged Warrior: Skymaster",
+    "zh": "结羽勇士 · 驭空客"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Крылатый воин: Владыка небес",
+    "Winged Warrior: Skymaster",
+    "结羽勇士 · 驭空客"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nНаблюдая за летающими заврианами и подражая их ударам когтей, эти воины постигли суть управления собственной силой. Их удары, наносимые с высоты, нельзя недооценивать.",
+    "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nBy observing and emulating the claw strikes of airborne Saurians, these warriors have grasped the essence of harnessing their own power.\nTheir kicks, delivered from up high, should not be underestimated.",
+    "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n从飞龙爪击的动作中体悟到运用力量真谛的战士，自高处使用的踢击不容小觑。"
+  },
+  "description": {
+    "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nНаблюдая за летающими заврианами и подражая их ударам когтей, эти воины постигли суть управления собственной силой. Их удары, наносимые с высоты, нельзя недооценивать.",
+    "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nBy observing and emulating the claw strikes of airborne Saurians, these warriors have grasped the essence of harnessing their own power.\nTheir kicks, delivered from up high, should not be underestimated.",
+    "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n从飞龙爪击的动作中体悟到运用力量真谛的战士，自高处使用的踢击不容小觑。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

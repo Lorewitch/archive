@@ -1,0 +1,39 @@
+{
+  "id": "grounded_hydroshroom",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/grounded_hydroshroom.webp",
+  "title": {
+    "ru": "Земляной Гидро моровик",
+    "en": "Grounded Hydroshroom",
+    "zh": "陆行水本真蕈"
+  },
+  "region": "Сумеру",
+  "game_version": "2.6",
+  "tags": [
+    "Земляной Гидро моровик",
+    "Grounded Hydroshroom",
+    "陆行水本真蕈"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Споровые образования, способные к мимикрии.\nПрекрасно умеют приспосабливаться к окружающей среде.\nХоть эти создания и выглядят, как птицы, но они не умеют летать.\nБлагодаря воздействию элемента Гидро, эти существа поразительно проворны по сравнению с другими себе подобными.\nНекоторые исследования показывают, что они на самом деле являются скоплением бесчисленных крошечных спор, а не единым организмом.\nЗанимают главенствующее положение среди плесенников и демонстрируют повышенные интеллектуальные способности.",
+    "en": "A mimetic life form made out of spores that has extreme adaptability.\nThis creature may look like a bird, but it cannot fly.\nDue to the influence of Hydro energies, it is astoundingly agile compared to others of its kind.\nSome research has inferred that this creature is in fact an aggregation of countless tiny spores rather than a single entity.\nThis creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match.",
+    "zh": "孢子构成的拟态生物，具有强大的环境适应能力。\n看上去像是鸟类，不过似乎并没有掌握飞行的能力。\n或许是因为水元素的影响，与同类相比其行动异常敏捷。\n也有研究推断这种蕈兽实际上是由无数细小的孢子集结构成的菌株，并不是单纯单一的生命体。\n在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。"
+  },
+  "description": {
+    "ru": "Споровые образования, способные к мимикрии.\nПрекрасно умеют приспосабливаться к окружающей среде.\nХоть эти создания и выглядят, как птицы, но они не умеют летать.\nБлагодаря воздействию элемента Гидро, эти существа поразительно проворны по сравнению с другими себе подобными.\nНекоторые исследования показывают, что они на самом деле являются скоплением бесчисленных крошечных спор, а не единым организмом.\nЗанимают главенствующее положение среди плесенников и демонстрируют повышенные интеллектуальные способности.",
+    "en": "A mimetic life form made out of spores that has extreme adaptability.\nThis creature may look like a bird, but it cannot fly.\nDue to the influence of Hydro energies, it is astoundingly agile compared to others of its kind.\nSome research has inferred that this creature is in fact an aggregation of countless tiny spores rather than a single entity.\nThis creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match.",
+    "zh": "孢子构成的拟态生物，具有强大的环境适应能力。\n看上去像是鸟类，不过似乎并没有掌握飞行的能力。\n或许是因为水元素的影响，与同类相比其行动异常敏捷。\n也有研究推断这种蕈兽实际上是由无数细小的孢子集结构成的菌株，并不是单纯单一的生命体。\n在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

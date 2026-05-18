@@ -1,0 +1,39 @@
+{
+  "id": "stretchy_pyro_fungus",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/stretchy_pyro_fungus.webp",
+  "title": {
+    "ru": "Растягивающийся Пиро плесенник",
+    "en": "Stretchy Pyro Fungus",
+    "zh": "伸缩火蕈兽"
+  },
+  "region": "Сумеру",
+  "game_version": "2.6",
+  "tags": [
+    "Растягивающийся Пиро плесенник",
+    "Stretchy Pyro Fungus",
+    "伸缩火蕈兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nЭто существо только выглядит взрывоопасным, на самом деле оно чрезвычайно нежное, если не подходить слишком близко…",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nThis creature only looks explosive — it is, in fact, a most gentle soul, so long as you don't get too close...",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n虽然看上去很火爆，但其实性格相当温和，只要不要靠的太近应该不会有什么危险...？"
+  },
+  "description": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nЭто существо только выглядит взрывоопасным, на самом деле оно чрезвычайно нежное, если не подходить слишком близко…",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nThis creature only looks explosive — it is, in fact, a most gentle soul, so long as you don't get too close...",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n虽然看上去很火爆，但其实性格相当温和，只要不要靠的太近应该不会有什么危险...？"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

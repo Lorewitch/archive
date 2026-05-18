@@ -1,0 +1,39 @@
+{
+  "id": "winged_dendroshroom",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/winged_dendroshroom.webp",
+  "title": {
+    "ru": "Крылатый Дендро моровик",
+    "en": "Winged Dendroshroom",
+    "zh": "有翼草本真蕈"
+  },
+  "region": "Сумеру",
+  "game_version": "2.6",
+  "tags": [
+    "Крылатый Дендро моровик",
+    "Winged Dendroshroom",
+    "有翼草本真蕈"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Споровые образования, способные к мимикрии.\nПрекрасно умеют приспосабливаться к окружающей среде.\nОни не только копируют внешний вид птиц, но и их повадки.\nОни используют крылья, созданные из спор, чтобы летать и разносить многочисленные споры в ещё более отдалённые места.\nЗанимают главенствующее положение среди плесенников и демонстрируют повышенные интеллектуальные способности.",
+    "en": "A mimetic life form made out of spores that has extreme adaptability.\nGoing well past mere appearances, this being even imitates the habits of birds.\nIt can use its spore-built wings to fly in the sky, spreading yet more spores to yet more distant places.\nThis creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match.",
+    "zh": "孢子构成的拟态生物，具有强大的环境适应能力。\n不仅看上去像，连生活习性也模仿了鸟类。\n可以依靠菌类组织的翅膀飞上天空，将孢子播撒到更远的地方。\n在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。"
+  },
+  "description": {
+    "ru": "Споровые образования, способные к мимикрии.\nПрекрасно умеют приспосабливаться к окружающей среде.\nОни не только копируют внешний вид птиц, но и их повадки.\nОни используют крылья, созданные из спор, чтобы летать и разносить многочисленные споры в ещё более отдалённые места.\nЗанимают главенствующее положение среди плесенников и демонстрируют повышенные интеллектуальные способности.",
+    "en": "A mimetic life form made out of spores that has extreme adaptability.\nGoing well past mere appearances, this being even imitates the habits of birds.\nIt can use its spore-built wings to fly in the sky, spreading yet more spores to yet more distant places.\nThis creature has a position of command amongst colonies of Fungi and exhibits heightened intelligence to match.",
+    "zh": "孢子构成的拟态生物，具有强大的环境适应能力。\n不仅看上去像，连生活习性也模仿了鸟类。\n可以依靠菌类组织的翅膀飞上天空，将孢子播撒到更远的地方。\n在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

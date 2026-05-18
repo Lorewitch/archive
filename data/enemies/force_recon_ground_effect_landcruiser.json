@@ -1,0 +1,39 @@
+{
+  "id": "force_recon_ground_effect_landcruiser",
+  "category": "enemies",
+  "enemy_group": "fatui",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/force_recon_ground_effect_landcruiser.webp",
+  "title": {
+    "ru": "Сухопутный крейсер: Наземный разведчик",
+    "en": "Force Recon Ground Effect Landcruiser",
+    "zh": "巡陆艇·强侦地效型"
+  },
+  "region": "Нод-Край",
+  "game_version": "6.0",
+  "tags": [
+    "Сухопутный крейсер: Наземный разведчик",
+    "Force Recon Ground Effect Landcruiser",
+    "巡陆艇·强侦地效型"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nЭта сухопутная машина способна «летать» на определённой высоте над землёй,\nподдерживая подъёмную силу и создавая перепад давления посредством распыления реактивных струй на высокой скорости,\nчто позволяет ему экономичнее достигать высокой крейсерской скорости боя, избегать мин и ловушек и проводить высокоэффективные штурмовые операции.\nОднако его стоимость и ограниченное время эксплуатации означают, что серийно выпускаемые модели имеют ограниченную полезную нагрузку.\nПоэтому в настоящее время они используются только в разведывательных целях...",
+    "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"The ground effect Landcruiser is able to \"fly\"a certain distance above ground by maintaining lift and generating pressure differentials\nthrough firing high-speed jet sprays at the surface,\nallowing it to more economically achieve combat cruising speed, avoid mines and traps, and perform highly effective assaults.\nHowever, costs and limits on operation time mean that mass-produced models carry limited payloads.\nAs such, they are currently limited to Force Recon roles...",
+    "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n「地效型」\n的动力机构通过向地面高速喷射流体的方式，在维持向上推力的同时获得一定压力差，从而使得巡陆艇能够在距离地面一定的高度「飞行」，以更经济的方式获得可观的战斗航速，并避开地雷等陷阱，实现高效突击。\n不过，碍于成本和续航时间的限制，大规模量产的地效巡陆艇的载荷有限，目前以搭载强侦型武装为主…"
+  },
+  "description": {
+    "ru": "Автономная машина, применяющая принципы морского боя к сухопутным сражениям, в буквальном смысле «вооружённый корабль, курсирующий по суше».\nЭта сухопутная машина способна «летать» на определённой высоте над землёй,\nподдерживая подъёмную силу и создавая перепад давления посредством распыления реактивных струй на высокой скорости,\nчто позволяет ему экономичнее достигать высокой крейсерской скорости боя, избегать мин и ловушек и проводить высокоэффективные штурмовые операции.\nОднако его стоимость и ограниченное время эксплуатации означают, что серийно выпускаемые модели имеют ограниченную полезную нагрузку.\nПоэтому в настоящее время они используются только в разведывательных целях...",
+    "en": "An autonomous machine that applies the principles of naval combat to land battles,\na literal \"armed ship that cruises on land.\"The ground effect Landcruiser is able to \"fly\"a certain distance above ground by maintaining lift and generating pressure differentials\nthrough firing high-speed jet sprays at the surface,\nallowing it to more economically achieve combat cruising speed, avoid mines and traps, and perform highly effective assaults.\nHowever, costs and limits on operation time mean that mass-produced models carry limited payloads.\nAs such, they are currently limited to Force Recon roles...",
+    "zh": "将海军理念应用在地面战之上的自律机关，正所谓「巡弋于陆地的武装舰艇」。\n「地效型」\n的动力机构通过向地面高速喷射流体的方式，在维持向上推力的同时获得一定压力差，从而使得巡陆艇能够在距离地面一定的高度「飞行」，以更经济的方式获得可观的战斗航速，并避开地雷等陷阱，实现高效突击。\n不过，碍于成本和续航时间的限制，大规模量产的地效巡陆艇的载荷有限，目前以搭载强侦型武装为主…"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

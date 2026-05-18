@@ -1,0 +1,39 @@
+{
+  "id": "eremite_daythunder",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/eremite_daythunder.webp",
+  "title": {
+    "ru": "Пустынник: Полуденный гром",
+    "en": "Eremite Daythunder",
+    "zh": "镀金旅团·白日鸣雷"
+  },
+  "region": "Сумеру",
+  "game_version": "3.0",
+  "tags": [
+    "Пустынник: Полуденный гром",
+    "Eremite Daythunder",
+    "镀金旅团·白日鸣雷"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПотомок истинного племени воинов, чьё призвание – сражаться.\nВопреки образу варвара, с лёгкостью орудующего огромным топором, воины этого племени на самом деле весьма сведущи в древних текстах и поэзии пустынных руин.\nЗловещий дух разрушения запечатан в его оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA true scion of a warrior tribe, such warriors see battle as their ordained purpose, and unlike some barbarian who wields a large ax with ease,\nthese tribespeople are also quite well-versed in the lore and songs of the desert ruins.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n以战斗为天职，真正的武士部族的后裔。\n与轻松挥舞巨斧的蛮人形象不同，这一族的战士实际上对沙中废都的古文与诗歌颇有研究。\n使用的武器中封印着残破的厄灵，会在危急是苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+  },
+  "description": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПотомок истинного племени воинов, чьё призвание – сражаться.\nВопреки образу варвара, с лёгкостью орудующего огромным топором, воины этого племени на самом деле весьма сведущи в древних текстах и поэзии пустынных руин.\nЗловещий дух разрушения запечатан в его оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA true scion of a warrior tribe, such warriors see battle as their ordained purpose, and unlike some barbarian who wields a large ax with ease,\nthese tribespeople are also quite well-versed in the lore and songs of the desert ruins.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n以战斗为天职，真正的武士部族的后裔。\n与轻松挥舞巨斧的蛮人形象不同，这一族的战士实际上对沙中废都的古文与诗歌颇有研究。\n使用的武器中封印着残破的厄灵，会在危急是苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

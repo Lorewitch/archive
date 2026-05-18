@@ -1,0 +1,39 @@
+{
+  "id": "geovishap_hatchling",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/geovishap_hatchling.webp",
+  "title": {
+    "ru": "Детёныш геовишапа",
+    "en": "Geovishap Hatchling",
+    "zh": "幼岩龙蜥"
+  },
+  "region": "Ли Юэ",
+  "game_version": "1.0",
+  "tags": [
+    "Детёныш геовишапа",
+    "Geovishap Hatchling",
+    "幼岩龙蜥"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Молодой вишап с твёрдым Гео панцирем.\nВишапы - исключительно проворные существа, которых не стоит недооценивать в бою.\nЭксперты из академии Сумеру считают, что, достигнув зрелости, они становятся драконами.\nИзбегая хищников и других опасностей, они, возможно, могут прожить достаточно долго, чтобы стать грозными властелинами гор.",
+    "en": "A young vishap with a hard Geo exoskeleton.\nVishaps are exceptionally agile creatures that one would be wise not to underestimate in battle.\nExperts from Sumeru Akademiya believe that they become dragons when fully grown.\nBy avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.",
+    "zh": "有着坚硬岩质甲壳的小型龙蜥。\n行动非常灵活，是不容小觑的对手。\n须弥教令院的研究认为，即使是这种幼兽，也有成为「龙」\n的潜质。\n假以时日，如果不受天灾与敌害，或许也有一天能成为撼动高山的巨大魔物吧。"
+  },
+  "description": {
+    "ru": "Молодой вишап с твёрдым Гео панцирем.\nВишапы - исключительно проворные существа, которых не стоит недооценивать в бою.\nЭксперты из академии Сумеру считают, что, достигнув зрелости, они становятся драконами.\nИзбегая хищников и других опасностей, они, возможно, могут прожить достаточно долго, чтобы стать грозными властелинами гор.",
+    "en": "A young vishap with a hard Geo exoskeleton.\nVishaps are exceptionally agile creatures that one would be wise not to underestimate in battle.\nExperts from Sumeru Akademiya believe that they become dragons when fully grown.\nBy avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.",
+    "zh": "有着坚硬岩质甲壳的小型龙蜥。\n行动非常灵活，是不容小觑的对手。\n须弥教令院的研究认为，即使是这种幼兽，也有成为「龙」\n的潜质。\n假以时日，如果不受天灾与敌害，或许也有一天能成为撼动高山的巨大魔物吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "rockfond_rifthound",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/rockfond_rifthound.webp",
+  "title": {
+    "ru": "Гончая Разрыва: Камнегрыз",
+    "en": "Rockfond Rifthound",
+    "zh": "嗜岩·兽境猎犬"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "2.2",
+  "tags": [
+    "Гончая Разрыва: Камнегрыз",
+    "Rockfond Rifthound",
+    "嗜岩·兽境猎犬"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nОни демонстрируют повадки, похожие на повадки настоящих волков. Возможно, они испытывают ревность к своим «ближайшим родственникам» и мечтают когда-нибудь заменить их.",
+    "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"They do display certain biological behaviors similar to those of real wolves.\nPerhaps they feel jealousy towards these their \"next of kin,\"and dream of replacing them someday.",
+    "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n会很微妙地表现出生物习性，就如同真正的狼一般。\n或许是对地上的「近亲」\n抱有仰慕或嫉妒的感情，而梦想取而代之吧。"
+  },
+  "description": {
+    "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nОни демонстрируют повадки, похожие на повадки настоящих волков. Возможно, они испытывают ревность к своим «ближайшим родственникам» и мечтают когда-нибудь заменить их.",
+    "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"They do display certain biological behaviors similar to those of real wolves.\nPerhaps they feel jealousy towards these their \"next of kin,\"and dream of replacing them someday.",
+    "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n会很微妙地表现出生物习性，就如同真正的狼一般。\n或许是对地上的「近亲」\n抱有仰慕或嫉妒的感情，而梦想取而代之吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

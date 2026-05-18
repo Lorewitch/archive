@@ -1,0 +1,39 @@
+{
+  "id": "consecrated_scorpion",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/consecrated_scorpion.webp",
+  "title": {
+    "ru": "Священный скорпион",
+    "en": "Consecrated Scorpion",
+    "zh": "圣骸毒蝎"
+  },
+  "region": "Сумеру",
+  "game_version": "3.4",
+  "tags": [
+    "Священный скорпион",
+    "Consecrated Scorpion",
+    "圣骸毒蝎"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Членистоногое, изменившееся после поглощения останков могущественных существ.\nРазвитие жизненных форм подчиняется законам эволюции, и эти законы милостивы к тем священным хищникам, кому повезло обнаружить останки могущественных существ раньше конкурентов.\nЖивотные куда больше похожи на людей, чем последние готовы признать.",
+    "en": "An arthropod that has mutated after feeding from greater lifeforms.\nLifeforms are governed by the laws of evolution,\nConsecrated Beasts exploited these rules by being fortunate enough to discover a long-dead carcass of a greater being before any of their competition ever did.\nAnimals and humans often have far more in common than the latter is willing to acknowledge.",
+    "zh": "因为啃噬伟大的生命体，而扭曲异变的节肢动物。\n生物有其进化之法则，而圣骸兽的法则则是拥有足够的运气，能在同族之前发现在遥远过去就已亡殁的强大生灵遗骸。\n动物与人的共性往往比人所甘愿承认的更多。"
+  },
+  "description": {
+    "ru": "Членистоногое, изменившееся после поглощения останков могущественных существ.\nРазвитие жизненных форм подчиняется законам эволюции, и эти законы милостивы к тем священным хищникам, кому повезло обнаружить останки могущественных существ раньше конкурентов.\nЖивотные куда больше похожи на людей, чем последние готовы признать.",
+    "en": "An arthropod that has mutated after feeding from greater lifeforms.\nLifeforms are governed by the laws of evolution,\nConsecrated Beasts exploited these rules by being fortunate enough to discover a long-dead carcass of a greater being before any of their competition ever did.\nAnimals and humans often have far more in common than the latter is willing to acknowledge.",
+    "zh": "因为啃噬伟大的生命体，而扭曲异变的节肢动物。\n生物有其进化之法则，而圣骸兽的法则则是拥有足够的运气，能在同族之前发现在遥远过去就已亡殁的强大生灵遗骸。\n动物与人的共性往往比人所甘愿承认的更多。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

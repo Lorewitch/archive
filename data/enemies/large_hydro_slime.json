@@ -1,0 +1,39 @@
+{
+  "id": "large_hydro_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/large_hydro_slime.webp",
+  "title": {
+    "ru": "Большой Гидро слайм",
+    "en": "Large Hydro Slime",
+    "zh": "大型水史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Большой Гидро слайм",
+    "Large Hydro Slime",
+    "大型水史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Монстр, созданный из скопления Гидро элемента, который рассеян по всему миру.\nБолее крупный и сильный Гидро слайм.\nУмеет захватывать своих врагов в гигантские пузыри.\nСчитается, что они могут достичь чудовищных размеров, если их среда обитания обеспечит их достаточным количеством энергии.\nОчевидцы утверждают, что в районе Вольфендома обитают слаймы размером с небольшую гору.",
+    "en": "A monster created by the sedimentation of Hydro dispersed throughout nature.\nA larger and more powerful Hydro Slime that can create bubbles to entrap its enemies.\nIt is said that they can grow to truly staggering sizes if given an energy-rich environment.\nEyewitnesses have supposedly seen Hydro Slimes as large as a small mound in Wolvendom.",
+    "zh": "逸散在自然之中的水元素沉积形成的魔物。\n力量更强大、体型更大的水史莱姆，可以产生水泡禁锢敌人。\n据说在某些力量充沛的地方，尺寸可以成长到非常夸张的程度。\n在奔狼领就曾有人目击过有一座小土丘那么大的水史莱姆。"
+  },
+  "description": {
+    "ru": "Монстр, созданный из скопления Гидро элемента, который рассеян по всему миру.\nБолее крупный и сильный Гидро слайм.\nУмеет захватывать своих врагов в гигантские пузыри.\nСчитается, что они могут достичь чудовищных размеров, если их среда обитания обеспечит их достаточным количеством энергии.\nОчевидцы утверждают, что в районе Вольфендома обитают слаймы размером с небольшую гору.",
+    "en": "A monster created by the sedimentation of Hydro dispersed throughout nature.\nA larger and more powerful Hydro Slime that can create bubbles to entrap its enemies.\nIt is said that they can grow to truly staggering sizes if given an energy-rich environment.\nEyewitnesses have supposedly seen Hydro Slimes as large as a small mound in Wolvendom.",
+    "zh": "逸散在自然之中的水元素沉积形成的魔物。\n力量更强大、体型更大的水史莱姆，可以产生水泡禁锢敌人。\n据说在某些力量充沛的地方，尺寸可以成长到非常夸张的程度。\n在奔狼领就曾有人目击过有一座小土丘那么大的水史莱姆。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

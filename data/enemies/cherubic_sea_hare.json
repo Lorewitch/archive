@@ -1,0 +1,39 @@
+{
+  "id": "cherubic_sea_hare",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/cherubic_sea_hare.webp",
+  "title": {
+    "ru": "Премилый морской заяц",
+    "en": "Cherubic Sea Hare",
+    "zh": "大天使海兔"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Премилый морской заяц",
+    "Cherubic Sea Hare",
+    "大天使海兔"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Взрослый милый морской заяц с жировыми складочками на спине в виде «двух крыльев», в которых накапливается элементальная энергия.\nЭто подводное животное проводит свою жизнь, питаясь и накапливая большое количество энергии, которая на самом деле ему не нужна.\nВозможно, благодаря этому оно сможет выжить, даже когда море пересохнет.\nИли попросту станет источником пропитания для других организмов.",
+    "en": "The adult form of an Angelic Sea Hare.\nThe \"wings\"on its back are actually fat used for storing elemental energy.\nThis type of sea creature spends its whole life eating and conserving energy far beyond its actual requirements.\nPerhaps if the oceans dry out some day, they will be able to continue to survive – or simply become an important source of nutrition for other creatures...",
+    "zh": "天使海兔成年后的形态，背上的「双翼」\n实际上是储存元素能量的脂肪块。\n这种水生动物究其一生都在进食、储存实际活动中并不需要的大量能量。\n或许在大海干涸后的末日，它能够继续存活很长的时间，或是成为其他生物的重要养分。"
+  },
+  "description": {
+    "ru": "Взрослый милый морской заяц с жировыми складочками на спине в виде «двух крыльев», в которых накапливается элементальная энергия.\nЭто подводное животное проводит свою жизнь, питаясь и накапливая большое количество энергии, которая на самом деле ему не нужна.\nВозможно, благодаря этому оно сможет выжить, даже когда море пересохнет.\nИли попросту станет источником пропитания для других организмов.",
+    "en": "The adult form of an Angelic Sea Hare.\nThe \"wings\"on its back are actually fat used for storing elemental energy.\nThis type of sea creature spends its whole life eating and conserving energy far beyond its actual requirements.\nPerhaps if the oceans dry out some day, they will be able to continue to survive – or simply become an important source of nutrition for other creatures...",
+    "zh": "天使海兔成年后的形态，背上的「双翼」\n实际上是储存元素能量的脂肪块。\n这种水生动物究其一生都在进食、储存实际活动中并不需要的大量能量。\n或许在大海干涸后的末日，它能够继续存活很长的时间，或是成为其他生物的重要养分。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

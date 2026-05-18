@@ -1,0 +1,39 @@
+{
+  "id": "koholasaurus_warrior_reefsplitter",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/koholasaurus_warrior_reefsplitter.webp",
+  "title": {
+    "ru": "Кохолазавр-воин: Дробящая рифы",
+    "en": "Koholasaurus Warrior: Reefsplitter",
+    "zh": "鳍游龙武士 · 裂礁之涛"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Кохолазавр-воин: Дробящая рифы",
+    "Koholasaurus Warrior: Reefsplitter",
+    "鳍游龙武士 · 裂礁之涛"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Могучая воительница Народа Родников, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница может временно использовать силу волн для быстрого передвижения.\nГоворят, чтобы овладеть этим навыком, нужно пройти три стадии обучения: сначала адаптация, затем подчинение и, наконец, управление.\nОвладение таким способом передвижения - базовое требование для коронованных заврианами воинов Народа Родников.\nЛучшие из них могут даже использовать этот навык для передвижения по земле.",
+    "en": "A powerful warrior from the source of the springs, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can temporarily harness the power of the waves to shuttle back and forth.\nIt is said that one must undergo three states of training to master this skill: First, to adapt.\nSecond, to submit.\nFinally, to drive.\nMastering this method of movement is merely the entry-level requirement to become a Saurian-Crowned Warrior of the People of the Springs,\nand the greatest among these Warriors can even use this skill to sail on land.",
+    "zh": "来自流泉之源，勇武受到认可，得以获授龙冠的强大武士。\n能短暂借助海浪之力来回穿梭的武者。\n据说要熟练掌握这样的技巧需要三个阶段的修炼：首先适应，其次依从，最后驱使。\n掌握这样的运力之法只是成为「流泉之众」\n龙冠武士的入门要求，而龙冠武士中的高手甚至可以短暂借此施行陆上行舟的法门。"
+  },
+  "description": {
+    "ru": "Могучая воительница Народа Родников, получившая признание за свою храбрость, была награждена заврианской короной.\nЭта воительница может временно использовать силу волн для быстрого передвижения.\nГоворят, чтобы овладеть этим навыком, нужно пройти три стадии обучения: сначала адаптация, затем подчинение и, наконец, управление.\nОвладение таким способом передвижения - базовое требование для коронованных заврианами воинов Народа Родников.\nЛучшие из них могут даже использовать этот навык для передвижения по земле.",
+    "en": "A powerful warrior from the source of the springs, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nA warrior who can temporarily harness the power of the waves to shuttle back and forth.\nIt is said that one must undergo three states of training to master this skill: First, to adapt.\nSecond, to submit.\nFinally, to drive.\nMastering this method of movement is merely the entry-level requirement to become a Saurian-Crowned Warrior of the People of the Springs,\nand the greatest among these Warriors can even use this skill to sail on land.",
+    "zh": "来自流泉之源，勇武受到认可，得以获授龙冠的强大武士。\n能短暂借助海浪之力来回穿梭的武者。\n据说要熟练掌握这样的技巧需要三个阶段的修炼：首先适应，其次依从，最后驱使。\n掌握这样的运力之法只是成为「流泉之众」\n龙冠武士的入门要求，而龙冠武士中的高手甚至可以短暂借此施行陆上行舟的法门。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

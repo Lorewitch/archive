@@ -1,0 +1,39 @@
+{
+  "id": "large_electro_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/large_electro_slime.webp",
+  "title": {
+    "ru": "Большой Электро слайм",
+    "en": "Large Electro Slime",
+    "zh": "大型雷史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Большой Электро слайм",
+    "Large Electro Slime",
+    "大型雷史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Монстр, созданный из скопления Электро элемента, который рассеян по всему миру.\nТела этих существ наполнены элементом Электро.\nСлаймы периодически выпускают его в форме электрических разрядов.\nМногие пытаются направить уникальные свойства этих созданий в продуктивное русло.\nМожет быть, нас скоро ждёт новый научный прорыв...",
+    "en": "A monster created by the coalescing of Electro dispersed throughout nature.\nDue to the abundant Electro within its form, it will deliver an electric shock to its surroundings from time to time.\nAt present, some have attempted to harness this energy to aid in production activities.\nPerhaps some new science will be born from this...?",
+    "zh": "逸散在自然之中的雷元素凝聚形成的魔物。\n因为体内充沛的雷元素，会间歇性向周围放电。\n目前，已经有人开始尝试利用这种能量去进行有益的生产活动了，新的学科或许不日也将应运而生…？"
+  },
+  "description": {
+    "ru": "Монстр, созданный из скопления Электро элемента, который рассеян по всему миру.\nТела этих существ наполнены элементом Электро.\nСлаймы периодически выпускают его в форме электрических разрядов.\nМногие пытаются направить уникальные свойства этих созданий в продуктивное русло.\nМожет быть, нас скоро ждёт новый научный прорыв...",
+    "en": "A monster created by the coalescing of Electro dispersed throughout nature.\nDue to the abundant Electro within its form, it will deliver an electric shock to its surroundings from time to time.\nAt present, some have attempted to harness this energy to aid in production activities.\nPerhaps some new science will be born from this...?",
+    "zh": "逸散在自然之中的雷元素凝聚形成的魔物。\n因为体内充沛的雷元素，会间歇性向周围放电。\n目前，已经有人开始尝试利用这种能量去进行有益的生产活动了，新的学科或许不日也将应运而生…？"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

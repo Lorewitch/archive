@@ -1,0 +1,39 @@
+{
+  "id": "large_geo_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/large_geo_slime.webp",
+  "title": {
+    "ru": "Большой Гео слайм",
+    "en": "Large Geo Slime",
+    "zh": "大型岩史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Большой Гео слайм",
+    "Large Geo Slime",
+    "大型岩史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Монстры, созданные из скоплений Гео элемента в земле.\nОни способны покрыть своё тело каменным панцирем, который будет защищать их от атак.\nСреди Похитителей сокровищ была популярна легенда о «Золотом Гео слайме Короле».\nОни считают, что если руда и самоцветы содержат в себе Гео энергию, то Гео слаймы тоже могут считаться своего рода драгоценными камнями.",
+    "en": "Monsters created through the buildup of Geo within the earth.\nThey can harden the energy within their bodies into a carapace of stone that protects them and prevents damage.\nThe legend of a \"Golden Geo Slime King\"once circulated among the Treasure Hoarders.\nThey believed that since gemstones and ores have Geo energy in them, Geo Slimes, which also contain Geo energy, may also be a type of gemstone or ore.",
+    "zh": "大地之中的岩元素凝聚形成的魔物。\n能将体内的力量凝结成岩壳，保护自己不受伤害。\n过去在盗宝团中一度流传着「大黄金岩史莱姆王」\n的说法，认为既然不少宝石与矿物中蕴含岩元素，那蕴含岩元素的史莱姆同样很可能是宝石与矿物。"
+  },
+  "description": {
+    "ru": "Монстры, созданные из скоплений Гео элемента в земле.\nОни способны покрыть своё тело каменным панцирем, который будет защищать их от атак.\nСреди Похитителей сокровищ была популярна легенда о «Золотом Гео слайме Короле».\nОни считают, что если руда и самоцветы содержат в себе Гео энергию, то Гео слаймы тоже могут считаться своего рода драгоценными камнями.",
+    "en": "Monsters created through the buildup of Geo within the earth.\nThey can harden the energy within their bodies into a carapace of stone that protects them and prevents damage.\nThe legend of a \"Golden Geo Slime King\"once circulated among the Treasure Hoarders.\nThey believed that since gemstones and ores have Geo energy in them, Geo Slimes, which also contain Geo energy, may also be a type of gemstone or ore.",
+    "zh": "大地之中的岩元素凝聚形成的魔物。\n能将体内的力量凝结成岩壳，保护自己不受伤害。\n过去在盗宝团中一度流传着「大黄金岩史莱姆王」\n的说法，认为既然不少宝石与矿物中蕴含岩元素，那蕴含岩元素的史莱姆同样很可能是宝石与矿物。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

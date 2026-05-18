@@ -1,0 +1,39 @@
+{
+  "id": "cryo_whopperflower",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/cryo_whopperflower.webp",
+  "title": {
+    "ru": "Крио попрыгунья",
+    "en": "Cryo Whopperflower",
+    "zh": "冰霜骗骗花"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Крио попрыгунья",
+    "Cryo Whopperflower",
+    "冰霜骗骗花"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Миметическое растение-монстр, которое появляется из ниоткуда и использует элемент Крио в бою.\nЭти растения прячутся под поверхностью земли и устраивают засаду на ничего не подозревающую добычу.\nПо прошествии лет, при достаточном питании и благоприятной окружающей среде, они могут пустить корни и превратиться в гигантский Крио папоротник...",
+    "en": "A mimetic plant monster that appears out of nowhere and uses Cryo in combat.\nThese plants lurk under the surface and ambush unsuspecting prey.\nWith the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant Cryo Regisvine...",
+    "zh": "神出鬼没的拟态植物魔物，会利用冰元素战斗。\n有时会隐藏在地表下，捕猎浑然不觉的猎物。\n如果有足够的年月、养分与环境，或许能扎根某处，长成巨大的急冻树…"
+  },
+  "description": {
+    "ru": "Миметическое растение-монстр, которое появляется из ниоткуда и использует элемент Крио в бою.\nЭти растения прячутся под поверхностью земли и устраивают засаду на ничего не подозревающую добычу.\nПо прошествии лет, при достаточном питании и благоприятной окружающей среде, они могут пустить корни и превратиться в гигантский Крио папоротник...",
+    "en": "A mimetic plant monster that appears out of nowhere and uses Cryo in combat.\nThese plants lurk under the surface and ambush unsuspecting prey.\nWith the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant Cryo Regisvine...",
+    "zh": "神出鬼没的拟态植物魔物，会利用冰元素战斗。\n有时会隐藏在地表下，捕猎浑然不觉的猎物。\n如果有足够的年月、养分与环境，或许能扎根某处，长成巨大的急冻树…"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

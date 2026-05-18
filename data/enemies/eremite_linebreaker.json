@@ -1,0 +1,39 @@
+{
+  "id": "eremite_linebreaker",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/eremite_linebreaker.webp",
+  "title": {
+    "ru": "Штурмовик Пустынников",
+    "en": "Eremite Linebreaker",
+    "zh": "镀金旅团·破阵者"
+  },
+  "region": "Сумеру",
+  "game_version": "3.0",
+  "tags": [
+    "Штурмовик Пустынников",
+    "Eremite Linebreaker",
+    "镀金旅团·破阵者"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nМастер боевых искусств, сражающийся с помощью уникального кинжала.\nОн присоединился к Пустынникам в поисках более сильных врагов.\nВ отличие от других наёмников, сражается не ради награды, а чтобы совершенствовать технику боя.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThis warrior wields a unique fist blade and joined the Eremites to seek out stronger foes.\nRather than the pay, these warriors fight more to attain greater martial might.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n装备了独特拳刃的武道家，为了寻找更多更强的对手而加入了镀金旅团。\n战斗与其说是为了报酬，不如说是为了追求更高的武技。"
+  },
+  "description": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nМастер боевых искусств, сражающийся с помощью уникального кинжала.\nОн присоединился к Пустынникам в поисках более сильных врагов.\nВ отличие от других наёмников, сражается не ради награды, а чтобы совершенствовать технику боя.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThis warrior wields a unique fist blade and joined the Eremites to seek out stronger foes.\nRather than the pay, these warriors fight more to attain greater martial might.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n装备了独特拳刃的武道家，为了寻找更多更强的对手而加入了镀金旅团。\n战斗与其说是为了报酬，不如说是为了追求更高的武技。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "eremite_axe_vanguard",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/eremite_axe_vanguard.webp",
+  "title": {
+    "ru": "Топорник Пустынников",
+    "en": "Eremite Axe Vanguard",
+    "zh": "镀金旅团·阵前斧手"
+  },
+  "region": "Сумеру",
+  "game_version": "3.0",
+  "tags": [
+    "Топорник Пустынников",
+    "Eremite Axe Vanguard",
+    "镀金旅团·阵前斧手"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nЭти женщины с топорами без страха вступают в бой, создавая проходы для товарищей.\nВ родном краю они порой сидят у костра и поют баллады о заблудших в пустыне душах.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThese ax-wielding ladies often wade into the slaughter without fear, creating openings for their comrades to capitalize on.\nThey will sometimes sit by the fireside in their sand-swept homeland and play songs that were lost in that golden sea.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n使用手斧的女战士在厮杀时往往一往无前，以此打乱敌人的阵脚，为战友创造机会。\n在沙漠的故乡里，她们有时会坐在篝火边，弹起那些失落在沙海中的悠远歌谣。"
+  },
+  "description": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nЭти женщины с топорами без страха вступают в бой, создавая проходы для товарищей.\nВ родном краю они порой сидят у костра и поют баллады о заблудших в пустыне душах.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nThese ax-wielding ladies often wade into the slaughter without fear, creating openings for their comrades to capitalize on.\nThey will sometimes sit by the fireside in their sand-swept homeland and play songs that were lost in that golden sea.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n使用手斧的女战士在厮杀时往往一往无前，以此打乱敌人的阵脚，为战友创造机会。\n在沙漠的故乡里，她们有时会坐在篝火边，弹起那些失落在沙海中的悠远歌谣。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

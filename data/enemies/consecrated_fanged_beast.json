@@ -1,0 +1,39 @@
+{
+  "id": "consecrated_fanged_beast",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/consecrated_fanged_beast.webp",
+  "title": {
+    "ru": "Священный клыкастый зверь",
+    "en": "Consecrated Fanged Beast",
+    "zh": "圣骸牙兽"
+  },
+  "region": "Сумеру",
+  "game_version": "3.6",
+  "tags": [
+    "Священный клыкастый зверь",
+    "Consecrated Fanged Beast",
+    "圣骸牙兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Рептилия, мутировавшая после поедания развитых форм жизни.\nВ природе побеждает тот, кто сильнее, но домашние животные и священные хищники - исключение.\nСлучайно или нет, но людская прикормка и бессмертные останки являются ловушкой.\nЗа дары сильных приходится платить намного более мучительную цену, чем жизнь в клетке.",
+    "en": "A predator that has mutated after feeding from greater lifeforms.\nSurvival of the fittest is written in the law of nature.\nBut pets and Consecrated Beasts are exceptions.\nHuman beings' baits and the remains of immortal beings are essentially deliberate or unintentional traps.\nThe price of coveting the gift of the strongest is much more painful than being locked in a cage.",
+    "zh": "因为啃噬伟大的生命体，而扭曲异变的掠食者。\n自然的规律是弱肉强食，宠物和圣骸兽则是例外。\n人类的饵食与不朽的遗骸，本质都是有意或无意的圈套。\n贪图至强者的馈赠，代价比被关进笼子要惨痛得多。"
+  },
+  "description": {
+    "ru": "Рептилия, мутировавшая после поедания развитых форм жизни.\nВ природе побеждает тот, кто сильнее, но домашние животные и священные хищники - исключение.\nСлучайно или нет, но людская прикормка и бессмертные останки являются ловушкой.\nЗа дары сильных приходится платить намного более мучительную цену, чем жизнь в клетке.",
+    "en": "A predator that has mutated after feeding from greater lifeforms.\nSurvival of the fittest is written in the law of nature.\nBut pets and Consecrated Beasts are exceptions.\nHuman beings' baits and the remains of immortal beings are essentially deliberate or unintentional traps.\nThe price of coveting the gift of the strongest is much more painful than being locked in a cage.",
+    "zh": "因为啃噬伟大的生命体，而扭曲异变的掠食者。\n自然的规律是弱肉强食，宠物和圣骸兽则是例外。\n人类的饵食与不朽的遗骸，本质都是有意或无意的圈套。\n贪图至强者的馈赠，代价比被关进笼子要惨痛得多。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

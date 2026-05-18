@@ -1,0 +1,39 @@
+{
+  "id": "geo_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/geo_slime.webp",
+  "title": {
+    "ru": "Гео слайм",
+    "en": "Geo Slime",
+    "zh": "岩史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Гео слайм",
+    "Geo Slime",
+    "岩史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Небольшой монстр, созданный из скопления Гео элемента.\nВ широком смысле, земная кора наполнена Гео энергией. Созданные этой энергией слаймы обладают весьма приземлёнными свойствами.",
+    "en": "Small monsters created through the buildup of Geo within the earth.\nGenerally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly \"down-to-earth\"sort of feeling.",
+    "zh": "大地之中的岩元素凝聚形成的小小魔物。\n广义而言，地壳之中蕴含着丰富的岩元素。\n由此产生的岩史莱姆也让人有着脚踏实地的感觉。"
+  },
+  "description": {
+    "ru": "Небольшой монстр, созданный из скопления Гео элемента.\nВ широком смысле, земная кора наполнена Гео энергией. Созданные этой энергией слаймы обладают весьма приземлёнными свойствами.",
+    "en": "Small monsters created through the buildup of Geo within the earth.\nGenerally speaking, the crust of the earth is filled with Geo energy. Geo Slimes that are formed this way have a similarly \"down-to-earth\"sort of feeling.",
+    "zh": "大地之中的岩元素凝聚形成的小小魔物。\n广义而言，地壳之中蕴含着丰富的岩元素。\n由此产生的岩史莱姆也让人有着脚踏实地的感觉。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

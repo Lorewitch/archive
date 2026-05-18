@@ -1,0 +1,39 @@
+{
+  "id": "large_dendro_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/large_dendro_slime.webp",
+  "title": {
+    "ru": "Большой Дендро слайм",
+    "en": "Large Dendro Slime",
+    "zh": "大型草史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Большой Дендро слайм",
+    "Large Dendro Slime",
+    "大型草史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Из-за избытка Дендро элемента в окружающей среде в этом слайме произошли непоправимые изменения.\nНекоторые сравнивают данный вид слаймов с попрыгуньями из-за схожего поведения.\nОни скрывают настоящую сущность и обманывают своих жертв.\nЕсть мнение, что этот вид слаймов паразитирует на определённых растениях.\nВероятно, что с этой точки зрения в слаймах возможно обнаружить некую медицинскую ценность...",
+    "en": "A slime that has undergone ecological changes due to abundant Dendro in its environment.\nThere are some who see it as something similar to the Whopperflowers, hiding its true form to trick and hunt its prey,\nand some regard it as a slime that has been parasitized by some special plant.\nFrom this point of view, might some cultures also see these slimes as having some special medicinal value?",
+    "zh": "因为充沛的草元素，而发生了生态上的质变的史莱姆。\n但也有人认为，从热衷于通过欺骗性的伪装来偷袭猎物，类似骗骗花的捕猎行为来看，或许是被特殊的植物寄生的史莱姆。\n从这个角度来看，草史莱姆在某些文化当中，或许被认为具有特别的药用价值…？"
+  },
+  "description": {
+    "ru": "Из-за избытка Дендро элемента в окружающей среде в этом слайме произошли непоправимые изменения.\nНекоторые сравнивают данный вид слаймов с попрыгуньями из-за схожего поведения.\nОни скрывают настоящую сущность и обманывают своих жертв.\nЕсть мнение, что этот вид слаймов паразитирует на определённых растениях.\nВероятно, что с этой точки зрения в слаймах возможно обнаружить некую медицинскую ценность...",
+    "en": "A slime that has undergone ecological changes due to abundant Dendro in its environment.\nThere are some who see it as something similar to the Whopperflowers, hiding its true form to trick and hunt its prey,\nand some regard it as a slime that has been parasitized by some special plant.\nFrom this point of view, might some cultures also see these slimes as having some special medicinal value?",
+    "zh": "因为充沛的草元素，而发生了生态上的质变的史莱姆。\n但也有人认为，从热衷于通过欺骗性的伪装来偷袭猎物，类似骗骗花的捕猎行为来看，或许是被特殊的植物寄生的史莱姆。\n从这个角度来看，草史莱姆在某些文化当中，或许被认为具有特别的药用价值…？"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

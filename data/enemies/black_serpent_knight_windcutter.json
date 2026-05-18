@@ -1,0 +1,39 @@
+{
+  "id": "black_serpent_knight_windcutter",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/black_serpent_knight_windcutter.webp",
+  "title": {
+    "ru": "Рыцарь Чёрного Змея: Разрезающий ветер",
+    "en": "Black Serpent Knight: Windcutter",
+    "zh": "黑蛇骑士·斩风之剑"
+  },
+  "region": "Ли Юэ",
+  "game_version": "2.6",
+  "tags": [
+    "Рыцарь Чёрного Змея: Разрезающий ветер",
+    "Black Serpent Knight: Windcutter",
+    "黑蛇骑士·斩风之剑"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Высокопоставленные императорские гвардейцы расправлялись с врагами правителей с помощью фехтовального искусства, известного под названием «Искатель истины».\nСумеречный Меч некогда был из их числа. Но слава этих земель угасла, и прошлого уже не вернуть.",
+    "en": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\"The Twilight Sword was once one of their number.\nThat realm's glory has been extinguished, never again to be reclaimed.",
+    "zh": "在宫廷当中颇具地位的近卫军人，以名唤「至真之术」\n的剑斗技巧，扫除王家的敌人。\n「末光之剑」\n也曾是他们当中的一员。\n在王国的光荣尽数失落、一切都无可挽回之前。"
+  },
+  "description": {
+    "ru": "Высокопоставленные императорские гвардейцы расправлялись с врагами правителей с помощью фехтовального искусства, известного под названием «Искатель истины».\nСумеречный Меч некогда был из их числа. Но слава этих земель угасла, и прошлого уже не вернуть.",
+    "en": "A guard of some standing in the court, sundering the foes of the nation's rulers using a sword art known as \"Truthseeker.\"The Twilight Sword was once one of their number.\nThat realm's glory has been extinguished, never again to be reclaimed.",
+    "zh": "在宫廷当中颇具地位的近卫军人，以名唤「至真之术」\n的剑斗技巧，扫除王家的敌人。\n「末光之剑」\n也曾是他们当中的一员。\n在王国的光荣尽数失落、一切都无可挽回之前。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "blubberbeast",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/blubberbeast.webp",
+  "title": {
+    "ru": "Пухлень",
+    "en": "Blubberbeast",
+    "zh": "膨膨兽"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Пухлень",
+    "Blubberbeast",
+    "膨膨兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Млекопитающее, обитающие в водах Фонтейна, издаёт мелодичные звуки для общения с товарищами.\nИз-за более высокой плотности вода гораздо лучше передаёт звук, чем воздух.\nВдохновившись пухленем, некто в Исследовательском институте изобрёл технологию для преобразования изображения в данные и их мгновенной передачи,\nно она не получила широкого распространения за пределами института из-за различных технических ограничений.\nНо на самом деле, технология передачи данных на основе жидкостей и звука существовала и в более отдалённые времена.\nВсё повторяется.",
+    "en": "A type of mammal that resides in the watery regions of Fontaine.\nIt communicates with its companions through melodious sounds.\nDue to its density, water is a much more efficient medium of sound than air.\nDrawing inspiration from the Blubberbeast, someone from the Research Institute invented a type of technology that converted images into data to facilitate instant transmission.\nBut due to the technical limitations of the experiment, it never became widely adopted outside the Institute.\nIn reality, however, data transmission technology based on fluid and sound has existed since ancient times.\nAs the saying goes, there's nothing new under the sun.",
+    "zh": "生活在枫丹水域的哺乳动物，能够发出悠扬的声音与同伴进行通讯。\n依据密度的原则，水作为声音传播的介质，效率远远高于空气。\n基于源自膨膨兽的灵感，科学院中有人发明了将图像转为数据并即时传输的技术，但由于实验的技术限制诸多所以并未在科学院外广泛使用。\n但事实上在更遥远的古代就有过基于液体与声音的数据传输技术了。\n世上没有新鲜事。"
+  },
+  "description": {
+    "ru": "Млекопитающее, обитающие в водах Фонтейна, издаёт мелодичные звуки для общения с товарищами.\nИз-за более высокой плотности вода гораздо лучше передаёт звук, чем воздух.\nВдохновившись пухленем, некто в Исследовательском институте изобрёл технологию для преобразования изображения в данные и их мгновенной передачи,\nно она не получила широкого распространения за пределами института из-за различных технических ограничений.\nНо на самом деле, технология передачи данных на основе жидкостей и звука существовала и в более отдалённые времена.\nВсё повторяется.",
+    "en": "A type of mammal that resides in the watery regions of Fontaine.\nIt communicates with its companions through melodious sounds.\nDue to its density, water is a much more efficient medium of sound than air.\nDrawing inspiration from the Blubberbeast, someone from the Research Institute invented a type of technology that converted images into data to facilitate instant transmission.\nBut due to the technical limitations of the experiment, it never became widely adopted outside the Institute.\nIn reality, however, data transmission technology based on fluid and sound has existed since ancient times.\nAs the saying goes, there's nothing new under the sun.",
+    "zh": "生活在枫丹水域的哺乳动物，能够发出悠扬的声音与同伴进行通讯。\n依据密度的原则，水作为声音传播的介质，效率远远高于空气。\n基于源自膨膨兽的灵感，科学院中有人发明了将图像转为数据并即时传输的技术，但由于实验的技术限制诸多所以并未在科学院外广泛使用。\n但事实上在更遥远的古代就有过基于液体与声音的数据传输技术了。\n世上没有新鲜事。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

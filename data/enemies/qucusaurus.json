@@ -1,0 +1,39 @@
+{
+  "id": "qucusaurus",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/qucusaurus.webp",
+  "title": {
+    "ru": "Кукузавр",
+    "en": "Qucusaurus",
+    "zh": "绒翼龙"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Кукузавр",
+    "Qucusaurus",
+    "绒翼龙"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Завриан с огромными гибкими крыльями, который довольно долго может летать в небе.\nГоворят, что предки кукузавров были наиболее близки по форме к могучим крылатым драконам и могли парить в небе подобно облакам.\nПо словам сказителей, когда самый большой из таких драконов расправлял крылья, он заслонял собой всё небо.\nКонечно, кукузавры, которых мы видим сегодня, уже не такие, но когти, которые они прячут в своих пушистых перьях, остаются такими же острыми, как и прежде.",
+    "en": "A Saurian with large, supple wings that can glide through the air for long periods.\nIt is said that the ancestors of the Qucusaurs were the closest in form to the mighty winged dragons, and that they could soar through the sky like clouds.\nAccording to the storytellers, when the greatest of such dragons spread its wings, the entire sky would be blotted out.\nOf course, the Qucusaurs we see today no longer possess such forms, but the claws they hide within their downy feather coats remain as sharp as ever.",
+    "zh": "拥有巨大且柔软的羽翅，能够在空中长时间滑行的龙。\n据说绒翼龙的先祖是最接近巨大翼龙形态的龙兽，能够如云一般在天际巡游。\n叙事人的故事里，远古翼龙里最伟大的那只，只要张开翅膀，就可以遮蔽一整片天空。\n如今的绒翼龙自然不再具有那样的形态，只有藏在绒羽之中的龙爪仍如从前一般锋利。"
+  },
+  "description": {
+    "ru": "Завриан с огромными гибкими крыльями, который довольно долго может летать в небе.\nГоворят, что предки кукузавров были наиболее близки по форме к могучим крылатым драконам и могли парить в небе подобно облакам.\nПо словам сказителей, когда самый большой из таких драконов расправлял крылья, он заслонял собой всё небо.\nКонечно, кукузавры, которых мы видим сегодня, уже не такие, но когти, которые они прячут в своих пушистых перьях, остаются такими же острыми, как и прежде.",
+    "en": "A Saurian with large, supple wings that can glide through the air for long periods.\nIt is said that the ancestors of the Qucusaurs were the closest in form to the mighty winged dragons, and that they could soar through the sky like clouds.\nAccording to the storytellers, when the greatest of such dragons spread its wings, the entire sky would be blotted out.\nOf course, the Qucusaurs we see today no longer possess such forms, but the claws they hide within their downy feather coats remain as sharp as ever.",
+    "zh": "拥有巨大且柔软的羽翅，能够在空中长时间滑行的龙。\n据说绒翼龙的先祖是最接近巨大翼龙形态的龙兽，能够如云一般在天际巡游。\n叙事人的故事里，远古翼龙里最伟大的那只，只要张开翅膀，就可以遮蔽一整片天空。\n如今的绒翼龙自然不再具有那样的形态，只有藏在绒羽之中的龙爪仍如从前一般锋利。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "iktomisaurus_warrior_cryocrystal_cannon",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/iktomisaurus_warrior_cryocrystal_cannon.webp",
+  "title": {
+    "ru": "Иктомизавр-воин: Криокристаллическая пушка",
+    "en": "Iktomisaurus Warrior: Cryocrystal Cannon",
+    "zh": "暝视龙武士 · 冰晶炮手"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Иктомизавр-воин: Криокристаллическая пушка",
+    "Iktomisaurus Warrior: Cryocrystal Cannon",
+    "暝视龙武士 · 冰晶炮手"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nГоворят, что все воины племени, получившие признание иктомизавров, обладают невероятной проницательностью и сильным духом.\nОни способны изменять траекторию полёта пушечных снарядов.",
+    "en": "A powerful warrior from the Night-Wind, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nWithout exception, it is said that tribal warriors who win the acknowledgment of the Iktomisaurs must possess extraordinarily keen senses and formidable mental strength.\nThey can even use their power to make slight alterations to the trajectory of the projectiles that they fire from their cannons.",
+    "zh": "来自谜烟之内，勇武受到认可，得以获授龙冠的强大武士。\n据说能够被暝视龙承认的部族武士无一不有着超然的敏锐感知和强大坚韧的精神力。\n她们甚至能够借由这份力量微微改变火炮射出的弹药的轨迹。"
+  },
+  "description": {
+    "ru": "Могучий воин с вершин скал, всеми признанный храбрец, который может носить заврианскую корону.\nГоворят, что все воины племени, получившие признание иктомизавров, обладают невероятной проницательностью и сильным духом.\nОни способны изменять траекторию полёта пушечных снарядов.",
+    "en": "A powerful warrior from the Night-Wind, whose bravery has been acknowledged and for which they may wear the Saurian Crown.\nWithout exception, it is said that tribal warriors who win the acknowledgment of the Iktomisaurs must possess extraordinarily keen senses and formidable mental strength.\nThey can even use their power to make slight alterations to the trajectory of the projectiles that they fire from their cannons.",
+    "zh": "来自谜烟之内，勇武受到认可，得以获授龙冠的强大武士。\n据说能够被暝视龙承认的部族武士无一不有着超然的敏锐感知和强大坚韧的精神力。\n她们甚至能够借由这份力量微微改变火炮射出的弹药的轨迹。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

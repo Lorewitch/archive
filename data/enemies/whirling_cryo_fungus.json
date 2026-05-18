@@ -1,0 +1,39 @@
+{
+  "id": "whirling_cryo_fungus",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/whirling_cryo_fungus.webp",
+  "title": {
+    "ru": "Кружащий Крио плесенник",
+    "en": "Whirling Cryo Fungus",
+    "zh": "旋转冰蕈兽"
+  },
+  "region": "Сумеру",
+  "game_version": "2.6",
+  "tags": [
+    "Кружащий Крио плесенник",
+    "Whirling Cryo Fungus",
+    "旋转冰蕈兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nЕсли положить плесенника на лёд, он не станет вкуснее, но, по крайней мере, будет обладать охлаждающим эффектом.",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nPutting Fungi on ice does not make them taste any better, but it does at least help with relieving the heat.",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n经过冰镇之后的蕈兽也不会变得更好吃，不过倒也因此有着消暑的功效。"
+  },
+  "description": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nЕсли положить плесенника на лёд, он не станет вкуснее, но, по крайней мере, будет обладать охлаждающим эффектом.",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nPutting Fungi on ice does not make them taste any better, but it does at least help with relieving the heat.",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n经过冰镇之后的蕈兽也不会变得更好吃，不过倒也因此有着消暑的功效。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

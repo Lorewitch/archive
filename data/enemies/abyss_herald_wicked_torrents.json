@@ -1,0 +1,39 @@
+{
+  "id": "abyss_herald_wicked_torrents",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/abyss_herald_wicked_torrents.webp",
+  "title": {
+    "ru": "Вестник Бездны: Злые течения",
+    "en": "Abyss Herald: Wicked Torrents",
+    "zh": "深渊使徒·激流"
+  },
+  "region": "Ли Юэ, Инадзума",
+  "game_version": "1.4",
+  "tags": [
+    "Вестник Бездны: Злые течения",
+    "Abyss Herald: Wicked Torrents",
+    "深渊使徒·激流"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Чудовище Ордена Бездны, способное использовать в бою силы Гидро.\nЭти молчаливые создания - авангард Бездны.\nИх Клинки прибоя сметают всё на своём пути, сокрушая доспехи и истребляя еретиков.\nБеспечным глупцам не уйти от предначертанного судьбой наказания.",
+    "en": "Servants of the Abyss Order that use Hydro in combat.\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics.\nThey shall bring preordained damnation upon the foolish masses.",
+    "zh": "利用水元素战斗的魔物，隶属于「深渊教团」。\n这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。"
+  },
+  "description": {
+    "ru": "Чудовище Ордена Бездны, способное использовать в бою силы Гидро.\nЭти молчаливые создания - авангард Бездны.\nИх Клинки прибоя сметают всё на своём пути, сокрушая доспехи и истребляя еретиков.\nБеспечным глупцам не уйти от предначертанного судьбой наказания.",
+    "en": "Servants of the Abyss Order that use Hydro in combat.\nThese silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics.\nThey shall bring preordained damnation upon the foolish masses.",
+    "zh": "利用水元素战斗的魔物，隶属于「深渊教团」。\n这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

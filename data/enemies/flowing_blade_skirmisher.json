@@ -1,0 +1,39 @@
+{
+  "id": "flowing_blade_skirmisher",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/flowing_blade_skirmisher.webp",
+  "title": {
+    "ru": "Клинок течений: Налётчица",
+    "en": "Flowing Blade Skirmisher",
+    "zh": "流刃勇士 · 游击人"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.0",
+  "tags": [
+    "Клинок течений: Налётчица",
+    "Flowing Blade Skirmisher",
+    "流刃勇士 · 游击人"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Воительница Народа Родников, племенной страж, патрулирующий воды и берега.\nЭти воительницы сражаются без оружия, используя только физическую силу.\nИх кулаки и ноги обладают силой сокрушительных волн.",
+    "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nIn lieu of weapons, these tribal warriors have mastered the techniques of raw, physical combat.\nTheir seemingly ordinary fists and feet contain the power equal to the crashing waves.",
+    "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n手中空空，精通最原始搏击技巧的部族战士。\n看似平平无奇的拳脚中，蕴藏着海浪般的力量。"
+  },
+  "description": {
+    "ru": "Воительница Народа Родников, племенной страж, патрулирующий воды и берега.\nЭти воительницы сражаются без оружия, используя только физическую силу.\nИх кулаки и ноги обладают силой сокрушительных волн.",
+    "en": "A warrior from the source of the springs, and a tribal guardian that patrols the waters and shores.\nIn lieu of weapons, these tribal warriors have mastered the techniques of raw, physical combat.\nTheir seemingly ordinary fists and feet contain the power equal to the crashing waves.",
+    "zh": "来自流泉之源的勇士，在临水流域巡游的部族守卫者。\n手中空空，精通最原始搏击技巧的部族战士。\n看似平平无奇的拳脚中，蕴藏着海浪般的力量。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

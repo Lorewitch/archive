@@ -1,0 +1,39 @@
+{
+  "id": "hydro_abyss_mage",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/hydro_abyss_mage.webp",
+  "title": {
+    "ru": "Гидро маг Бездны",
+    "en": "Hydro Abyss Mage",
+    "zh": "水深渊法师"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Гидро маг Бездны",
+    "Hydro Abyss Mage",
+    "水深渊法师"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Порождение Бездны, использующее Гидро энергию в сражениях.\nСреди искателей приключений бытует мнение, что маги Бездны находятся на дне иерархии Ордена Бездны.\nОни скитаются по разным уголкам континента и стремятся уничтожить всё.\nПриключенцы часто шутят про этих магов и говорят, что они способны вызвать лишь простуду или ревматизм.\nНо не стоит недооценивать опасность этих созданий.",
+    "en": "Abyss creatures that utilize Hydro energy in battle.\nStories circulate among adventurers that Abyss Mages are at the lowest rung of the Abyss Order's hierarchy and that they roam the various lands to scheme fell deeds of destruction.\nThough they also often make fun of these Abyss Mages, saying that the most harm they can do is to cause rheumatism or a common cold, their power is not to be underestimated.",
+    "zh": "利用水元素战斗的深渊魔物。\n在冒险者当中有传说说，深渊法师作为「深渊教团」\n底层的执行者，活跃在世界各地、从事各种阴谋破坏。\n尽管他们还戏称这种水深渊法师的最大危害是会导致风湿发作，其实它们有着不容小觑的力量。"
+  },
+  "description": {
+    "ru": "Порождение Бездны, использующее Гидро энергию в сражениях.\nСреди искателей приключений бытует мнение, что маги Бездны находятся на дне иерархии Ордена Бездны.\nОни скитаются по разным уголкам континента и стремятся уничтожить всё.\nПриключенцы часто шутят про этих магов и говорят, что они способны вызвать лишь простуду или ревматизм.\nНо не стоит недооценивать опасность этих созданий.",
+    "en": "Abyss creatures that utilize Hydro energy in battle.\nStories circulate among adventurers that Abyss Mages are at the lowest rung of the Abyss Order's hierarchy and that they roam the various lands to scheme fell deeds of destruction.\nThough they also often make fun of these Abyss Mages, saying that the most harm they can do is to cause rheumatism or a common cold, their power is not to be underestimated.",
+    "zh": "利用水元素战斗的深渊魔物。\n在冒险者当中有传说说，深渊法师作为「深渊教团」\n底层的执行者，活跃在世界各地、从事各种阴谋破坏。\n尽管他们还戏称这种水深渊法师的最大危害是会导致风湿发作，其实它们有着不容小觑的力量。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tepetlisaur_whelp",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/tepetlisaur_whelp.webp",
+  "title": {
+    "ru": "Детёныш тепетлизавра",
+    "en": "Tepetlisaur Whelp",
+    "zh": "幼嵴锋龙"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.0",
+  "tags": [
+    "Детёныш тепетлизавра",
+    "Tepetlisaur Whelp",
+    "幼嵴锋龙"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Молодые тепетлизавры могут пробивать тоннели сквозь камни и твёрдый флогистон.\nУ них ещё не сформировались рога на лбу, и их навыки копания всё ещё развиваются.\nМолодые тепетлизавры часто застревают в камнях, когда тренируются копать.\nОднажды они вырастут и смогут свободно передвигаться даже через самые твёрдые грунты.",
+    "en": "A young Tepetlisaurus with the ability to tunnel between rocks and solid phlogiston.\nThey have not yet formed the horns on their forehead, and their digging skills are still developing as well.\nIt is even common to hear about young Tepetlisaurs getting trapped by rocks while practicing their digging.\nHowever, one day, they will grow into a form that may travel freely through even the toughest of soils.",
+    "zh": "年幼的嵴锋龙，拥有在山石与固态燃素中穿梭的能力。\n额前尚未形成钻角，而开掘的技术也不够熟练。\n甚至经常听闻练习挖掘的幼嵴锋龙被山石困住的事。\n不过终有一日，能够成长为在坚土中自由穿行的样貌吧。"
+  },
+  "description": {
+    "ru": "Молодые тепетлизавры могут пробивать тоннели сквозь камни и твёрдый флогистон.\nУ них ещё не сформировались рога на лбу, и их навыки копания всё ещё развиваются.\nМолодые тепетлизавры часто застревают в камнях, когда тренируются копать.\nОднажды они вырастут и смогут свободно передвигаться даже через самые твёрдые грунты.",
+    "en": "A young Tepetlisaurus with the ability to tunnel between rocks and solid phlogiston.\nThey have not yet formed the horns on their forehead, and their digging skills are still developing as well.\nIt is even common to hear about young Tepetlisaurs getting trapped by rocks while practicing their digging.\nHowever, one day, they will grow into a form that may travel freely through even the toughest of soils.",
+    "zh": "年幼的嵴锋龙，拥有在山石与固态燃素中穿梭的能力。\n额前尚未形成钻角，而开掘的技术也不够熟练。\n甚至经常听闻练习挖掘的幼嵴锋龙被山石困住的事。\n不过终有一日，能够成长为在坚土中自由穿行的样貌吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

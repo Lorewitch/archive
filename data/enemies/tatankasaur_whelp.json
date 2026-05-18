@@ -1,0 +1,39 @@
+{
+  "id": "tatankasaur_whelp",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/tatankasaur_whelp.webp",
+  "title": {
+    "ru": "Детёныш татанказавра",
+    "en": "Tatankasaur Whelp",
+    "zh": "幼突角龙"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.5",
+  "tags": [
+    "Детёныш татанказавра",
+    "Tatankasaur Whelp",
+    "幼突角龙"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Молодой татанказавр, который ещё не может полностью контролировать силу своего тела, поэтому несколько неуклюж.\nВторая пара рогов выросла не полностью, а силы спины и брюха недостаточно, чтобы разрушать преграждающие путь камни.\nНо если малыш вырастет здоровым, однажды он будет вольготно бродить по плодородным равнинам.",
+    "en": "A young Tatankasaurus that has not yet mastered full control of its powerful frame, leaving its movements clumsy.\nIts second set of horns are still growing out, and its back and snout are not quite strong enough to smash through rocks that block the road.\nGiven the time to grow, it will one day be able to roam freely across the fertile plains.",
+    "zh": "年幼的突角龙，因无法完全掌控身躯的力量而有些笨拙。\n第二对副角并未生长完全，背部与腹部的力量也没有到能够摧毁挡路岩石的程度。\n但只要能够茁壮成长，总有能够在沃土平原之上自由驰骋的时刻吧。"
+  },
+  "description": {
+    "ru": "Молодой татанказавр, который ещё не может полностью контролировать силу своего тела, поэтому несколько неуклюж.\nВторая пара рогов выросла не полностью, а силы спины и брюха недостаточно, чтобы разрушать преграждающие путь камни.\nНо если малыш вырастет здоровым, однажды он будет вольготно бродить по плодородным равнинам.",
+    "en": "A young Tatankasaurus that has not yet mastered full control of its powerful frame, leaving its movements clumsy.\nIts second set of horns are still growing out, and its back and snout are not quite strong enough to smash through rocks that block the road.\nGiven the time to grow, it will one day be able to roam freely across the fertile plains.",
+    "zh": "年幼的突角龙，因无法完全掌控身躯的力量而有些笨拙。\n第二对副角并未生长完全，背部与腹部的力量也没有到能够摧毁挡路岩石的程度。\n但只要能够茁壮成长，总有能够在沃土平原之上自由驰骋的时刻吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

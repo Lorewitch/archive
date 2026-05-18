@@ -1,0 +1,39 @@
+{
+  "id": "hydro_specter",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/hydro_specter.webp",
+  "title": {
+    "ru": "Гидро призрак",
+    "en": "Hydro Specter",
+    "zh": "水飘浮灵"
+  },
+  "region": "Инадзума",
+  "game_version": "2.1",
+  "tags": [
+    "Гидро призрак",
+    "Hydro Specter",
+    "水飘浮灵"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Монстр, рожденный из высокой концентрации Гидро, который может парить в воздухе.\nЛунными ночами Гидро призраки испускают призрачное сияние, паря у берегов рек. Прохожие принимают их за блуждающих духов, поэтому они часто встречаются во многих народных сказках.",
+    "en": "A monster birthed from a high concentration of Hydro that can float in the air.\nOn moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank.\nTheir furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales.",
+    "zh": "高浓度的水元素孕育而生的魔物，能够飘浮在空中。\n在月夜里，飘荡在河边的水飘浮灵散发着幽光。\n鬼鬼祟祟的它们常被路过的旅人当作游魂，也因此成为了不少乡间民话的常客。"
+  },
+  "description": {
+    "ru": "Монстр, рожденный из высокой концентрации Гидро, который может парить в воздухе.\nЛунными ночами Гидро призраки испускают призрачное сияние, паря у берегов рек. Прохожие принимают их за блуждающих духов, поэтому они часто встречаются во многих народных сказках.",
+    "en": "A monster birthed from a high concentration of Hydro that can float in the air.\nOn moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank.\nTheir furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales.",
+    "zh": "高浓度的水元素孕育而生的魔物，能够飘浮在空中。\n在月夜里，飘荡在河边的水飘浮灵散发着幽光。\n鬼鬼祟祟的它们常被路过的旅人当作游魂，也因此成为了不少乡间民话的常客。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

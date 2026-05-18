@@ -1,0 +1,39 @@
+{
+  "id": "eremite_sunfrost",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/eremite_sunfrost.webp",
+  "title": {
+    "ru": "Пустынник: Пылающий лёд",
+    "en": "Eremite Sunfrost",
+    "zh": "镀金旅团・炽阳凝冰"
+  },
+  "region": "Сумеру",
+  "game_version": "3.0",
+  "tags": [
+    "Пустынник: Пылающий лёд",
+    "Eremite Sunfrost",
+    "镀金旅团・炽阳凝冰"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПрофессиональный наёмник, которого не волнует ничего, кроме работы и поставленной задачи.\nДля таких людей единственной программой действий является выполнение задания, и их высокие расценки соответствуют этому обязательству.\nЗловещий дух разрушения запечатан в оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA professional mercenary who cares about nothing outside of work and the mission at hand.\nTo such people, their only game plan is to complete the mission, and their high asking prices on the market match that committment.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n对职责与任务之外的一切事宜漠不关心的职业佣兵。\n将完成委托作为唯一的行动纲领，在佣兵市场上的要价也是最高的。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+  },
+  "description": {
+    "ru": "Член неорганизованной группы наёмников из золотых песков.\nРаботает на кого угодно, лишь бы платили хорошо.\nПрофессиональный наёмник, которого не волнует ничего, кроме работы и поставленной задачи.\nДля таких людей единственной программой действий является выполнение задания, и их высокие расценки соответствуют этому обязательству.\nЗловещий дух разрушения запечатан в оружии.\nЭтот дух пробуждается в минуты опасности.\nА когда он пробуждается, то утихомирить его могут только крики побеждённого – будь то владелец оружия или его враг.",
+    "en": "A member of a loosely-organized mercenary corps from the golden desert sands.\nWill work for anyone as long as the pay is good.\nA professional mercenary who cares about nothing outside of work and the mission at hand.\nTo such people, their only game plan is to complete the mission, and their high asking prices on the market match that committment.\nAn ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril.\nOnce it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder's foe.",
+    "zh": "来自黄金一般的沙漠，是松散佣兵团体中的一员。\n为了报酬，愿意为任何人效力。\n对职责与任务之外的一切事宜漠不关心的职业佣兵。\n将完成委托作为唯一的行动纲领，在佣兵市场上的要价也是最高的。\n使用的武器中封印着残破的厄灵，会在危急时苏醒。\n只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

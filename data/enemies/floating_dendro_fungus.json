@@ -1,0 +1,39 @@
+{
+  "id": "floating_dendro_fungus",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/floating_dendro_fungus.webp",
+  "title": {
+    "ru": "Парящий Дендро плесенник",
+    "en": "Floating Dendro Fungus",
+    "zh": "浮游草蕈兽"
+  },
+  "region": "Сумеру",
+  "game_version": "2.6",
+  "tags": [
+    "Парящий Дендро плесенник",
+    "Floating Dendro Fungus",
+    "浮游草蕈兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nОдин учёный высказал предположение, что это какой-то вид Дендро призрака.\nПолучив резкую критику своей позиции, он отступил, заявив, что это просто «образное выражение».",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nA researcher once said that these are some species of Dendro Specter.\nAfter this view was criticized, he changed his tack, claiming that this was just a literary turn of phrase.",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n曾经有学者撰文宣称它们是草漂浮灵的一种。\n在受到批驳后，他便改口说这是一种诗信的「修辞」。"
+  },
+  "description": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nОдин учёный высказал предположение, что это какой-то вид Дендро призрака.\nПолучив резкую критику своей позиции, он отступил, заявив, что это просто «образное выражение».",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nA researcher once said that these are some species of Dendro Specter.\nAfter this view was criticized, he changed his tack, claiming that this was just a literary turn of phrase.",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n曾经有学者撰文宣称它们是草漂浮灵的一种。\n在受到批驳后，他便改口说这是一种诗信的「修辞」。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

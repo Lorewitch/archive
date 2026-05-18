@@ -1,0 +1,39 @@
+{
+  "id": "abyss_lector_fathomless_flames",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/abyss_lector_fathomless_flames.webp",
+  "title": {
+    "ru": "Чтец Бездны: Пламя бездны",
+    "en": "Abyss Lector: Fathomless Flames",
+    "zh": "深渊咏者·渊火"
+  },
+  "region": "Ли Юэ, Инадзума",
+  "game_version": "2.4",
+  "tags": [
+    "Чтец Бездны: Пламя бездны",
+    "Abyss Lector: Fathomless Flames",
+    "深渊咏者·渊火"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Управляющий огнём Бездны монстр, который стремится постигнуть смысл магических писаний. Принадлежит ордену Бездны.\nОбычные люди называют этих существ «Чтецами», но истинное значение их прозвища несколько иное.\n«Чтец» также означает «учёный».\nОни считают, что чтение магических писаний делает их сильнее.",
+    "en": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\nThe surface people have a slightly distorted understanding of what their name means,\ncalling them \"Lectors,\"when their name can also mean \"exegete.\"Reading the word of grace grants them great power.",
+    "zh": "驱使深渊之火，追寻着章典之意义的魔物。\n隶属于「深渊教团」。\n地上之人对他们的称呼其实和本意略有偏差。\n「咏者」\n也有「读经士」\n之意。\n诵读恩典之章，便会拥有强大的力量。"
+  },
+  "description": {
+    "ru": "Управляющий огнём Бездны монстр, который стремится постигнуть смысл магических писаний. Принадлежит ордену Бездны.\nОбычные люди называют этих существ «Чтецами», но истинное значение их прозвища несколько иное.\n«Чтец» также означает «учёный».\nОни считают, что чтение магических писаний делает их сильнее.",
+    "en": "Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.\nThe surface people have a slightly distorted understanding of what their name means,\ncalling them \"Lectors,\"when their name can also mean \"exegete.\"Reading the word of grace grants them great power.",
+    "zh": "驱使深渊之火，追寻着章典之意义的魔物。\n隶属于「深渊教团」。\n地上之人对他们的称呼其实和本意略有偏差。\n「咏者」\n也有「读经士」\n之意。\n诵读恩典之章，便会拥有强大的力量。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

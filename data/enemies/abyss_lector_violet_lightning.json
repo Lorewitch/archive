@@ -1,0 +1,39 @@
+{
+  "id": "abyss_lector_violet_lightning",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/abyss_lector_violet_lightning.webp",
+  "title": {
+    "ru": "Чтец Бездны: Пурпурная молния",
+    "en": "Abyss Lector: Violet Lightning",
+    "zh": "深渊咏者·紫电"
+  },
+  "region": "Ли Юэ, Инадзума",
+  "game_version": "1.5",
+  "tags": [
+    "Чтец Бездны: Пурпурная молния",
+    "Abyss Lector: Violet Lightning",
+    "深渊咏者·紫电"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Чудовище Ордена Бездны, возносящее хвалу тьме и обуздавшее силы Электро.\nОни - учёные и проповедники Бездны.\nЗаставляя от раскатов грома дрожать бездонные ночи, они чёрной слизью мудрости наполняют сердца неверующих, а бесчисленными вспышками молний возвещают, что великие силы,\nразъедающие человеческий разум, совсем рядом.",
+    "en": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.\nThese are the evangelists and the scholars of the Abyss.\nTheir violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night,\nits violet glow proclaiming the existence of a great power that corrodes human intellect.",
+    "zh": "驱雷掣电，高颂着漆黑渊薮的魔物，隶属于「深渊教团」。\n它们是深渊的布道者、学士。\n以狂雷将冥冥长夜所扭曲的深黑智慧，灌入不信者的心中，以无边的紫电，昭告侵蚀人智的伟大力量的存在。"
+  },
+  "description": {
+    "ru": "Чудовище Ордена Бездны, возносящее хвалу тьме и обуздавшее силы Электро.\nОни - учёные и проповедники Бездны.\nЗаставляя от раскатов грома дрожать бездонные ночи, они чёрной слизью мудрости наполняют сердца неверующих, а бесчисленными вспышками молний возвещают, что великие силы,\nразъедающие человеческий разум, совсем рядом.",
+    "en": "A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.\nThese are the evangelists and the scholars of the Abyss.\nTheir violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night,\nits violet glow proclaiming the existence of a great power that corrodes human intellect.",
+    "zh": "驱雷掣电，高颂着漆黑渊薮的魔物，隶属于「深渊教团」。\n它们是深渊的布道者、学士。\n以狂雷将冥冥长夜所扭曲的深黑智慧，灌入不信者的心中，以无边的紫电，昭告侵蚀人智的伟大力量的存在。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

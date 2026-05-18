@@ -1,0 +1,39 @@
+{
+  "id": "stretchy_anemo_fungus",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/stretchy_anemo_fungus.webp",
+  "title": {
+    "ru": "Растягивающийся Анемо плесенник",
+    "en": "Stretchy Anemo Fungus",
+    "zh": "伸缩风蕈兽"
+  },
+  "region": "Сумеру",
+  "game_version": "2.6",
+  "tags": [
+    "Растягивающийся Анемо плесенник",
+    "Stretchy Anemo Fungus",
+    "伸缩风蕈兽"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nЭтот плесенник быстро впитывает питательные вещества через вытянутый ствол, а его зонтикообразная шляпка поворачивается в направлении ветра.",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nThis mushroom quickly absorbs nutrients through its extended column, and its umbrella-shaped cap turns where the wind's flow carries it.",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n通过伸长的菌柱快速吸收养分的蕈兽，伞状的菌盖会随着风的流向移动。"
+  },
+  "description": {
+    "ru": "Споры с зачатками интеллекта.\nПрекрасно умеют приспосабливаться к окружающей среде.\nЭтот плесенник быстро впитывает питательные вещества через вытянутый ствол, а его зонтикообразная шляпка поворачивается в направлении ветра.",
+    "en": "A spore organism of some intelligence.\nIt possesses extreme adaptability.\nThis mushroom quickly absorbs nutrients through its extended column, and its umbrella-shaped cap turns where the wind's flow carries it.",
+    "zh": "拥有一定智能的孢子生物。\n具有强大的环境适应能力。\n通过伸长的菌柱快速吸收养分的蕈兽，伞状的菌盖会随着风的流向移动。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "treasure_hoarders_electro_potioneer",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_electro_potioneer.webp",
+  "title": {
+    "ru": "Похитители сокровищ: Электро химик",
+    "en": "Treasure Hoarders: Electro Potioneer",
+    "zh": "盗宝团·雷之药剂师"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Похитители сокровищ: Электро химик",
+    "Treasure Hoarders: Electro Potioneer",
+    "盗宝团·雷之药剂师"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Члены децентрализованной организации разбойников, чьи следы можно встретить в любой части континента и даже в глубоких неизведанных подземельях.\nХимиками называют тех членов Похитителей сокровищ, которые знают, как готовить опасные химические препараты.\n«А? Где написано, что это сокровище принадлежит Гильдии искателей приключений?»\n- так сказал один химик из Похитителей сокровищ искателю приключений.",
+    "en": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\"Potioneer\"is the nickname given to members of\nthe Treasure Hoarder organization who know how to brew up dangerous chemicals.\"What?\nDid you think this treasure has 'Adventurers' Guild' written all over it or something?\"—A certain Treasure Hoarder Potioneer during a confrontation with adventurers",
+    "zh": "足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。\n「药剂师」\n是盗宝团成员当中，为这些具有调配危险化学物质知识的人物取的诨名。\n「嗯？\n这宝物上写了你们冒险家协会的名字么？\n」\n——某名盗宝团的「药剂师」\n与冒险家对峙时说的话"
+  },
+  "description": {
+    "ru": "Члены децентрализованной организации разбойников, чьи следы можно встретить в любой части континента и даже в глубоких неизведанных подземельях.\nХимиками называют тех членов Похитителей сокровищ, которые знают, как готовить опасные химические препараты.\n«А? Где написано, что это сокровище принадлежит Гильдии искателей приключений?»\n- так сказал один химик из Похитителей сокровищ искателю приключений.",
+    "en": "A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.\"Potioneer\"is the nickname given to members of\nthe Treasure Hoarder organization who know how to brew up dangerous chemicals.\"What?\nDid you think this treasure has 'Adventurers' Guild' written all over it or something?\"—A certain Treasure Hoarder Potioneer during a confrontation with adventurers",
+    "zh": "足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。\n「药剂师」\n是盗宝团成员当中，为这些具有调配危险化学物质知识的人物取的诨名。\n「嗯？\n这宝物上写了你们冒险家协会的名字么？\n」\n——某名盗宝团的「药剂师」\n与冒险家对峙时说的话"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "shadowy_husk_standard_bearer",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/shadowy_husk_standard_bearer.webp",
+  "title": {
+    "ru": "Чёрный доспех: Знаменосец",
+    "en": "Shadowy Husk: Standard Bearer",
+    "zh": "黯色空壳·旗令"
+  },
+  "region": "Ли Юэ",
+  "game_version": "2.5",
+  "tags": [
+    "Чёрный доспех: Знаменосец",
+    "Shadowy Husk: Standard Bearer",
+    "黯色空壳·旗令"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Потемневший солдат. Когда-то он был гордым воином древнего подземного царства, но теперь утратил разум и память.\nНесмотря на это, он сражается с высоко поднятым знаменем королевского дома. Пусть уже забыт облик соратников и благословение королевской семьи, но никогда не спустится его флаг.",
+    "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it has now lost any awareness of memory.\nBut even so, it holds the banner of the royal house aloft into battle.\nThough it has forgotten its comrades or any royal blessing they might have been given, it will never lay this banner down.",
+    "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经失去了一切知觉与记忆吧。\n即使如此，也会高举着王家的旗号进行战斗。\n就算忘记了同侪的模样、王家的祝福，只有这枚旗印，对它而言是绝对不能放下的。"
+  },
+  "description": {
+    "ru": "Потемневший солдат. Когда-то он был гордым воином древнего подземного царства, но теперь утратил разум и память.\nНесмотря на это, он сражается с высоко поднятым знаменем королевского дома. Пусть уже забыт облик соратников и благословение королевской семьи, но никогда не спустится его флаг.",
+    "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it has now lost any awareness of memory.\nBut even so, it holds the banner of the royal house aloft into battle.\nThough it has forgotten its comrades or any royal blessing they might have been given, it will never lay this banner down.",
+    "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今已经失去了一切知觉与记忆吧。\n即使如此，也会高举着王家的旗号进行战斗。\n就算忘记了同侪的模样、王家的祝福，只有这枚旗印，对它而言是绝对不能放下的。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "cryo_abyss_mage",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/cryo_abyss_mage.webp",
+  "title": {
+    "ru": "Крио маг Бездны",
+    "en": "Cryo Abyss Mage",
+    "zh": "冰深渊法师"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Крио маг Бездны",
+    "Cryo Abyss Mage",
+    "冰深渊法师"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Создание Бездны, способное использовать в бою Крио силы.\nОни наделены огромной мощью и даже могут создавать сосульки из рассеянной в атмосфере воды, однако их хрупкие тела весьма уязвимы.\nКак только падёт их защитный барьер, они начнут молить вас о пощаде.",
+    "en": "Abyss creatures that call upon Cryo in battle.\nThough they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves.\nOnce their protective barrier has been broken, they are at your mercy.",
+    "zh": "驾驭着极寒的冰元素进行战斗的深渊魔物。\n尽管染指了强大的力量，甚至能将大气中的水蒸气凝结成冰锥，本身却佝偻而孱弱。\n一旦保护自身的护罩被打破，就只能任人鱼肉了。"
+  },
+  "description": {
+    "ru": "Создание Бездны, способное использовать в бою Крио силы.\nОни наделены огромной мощью и даже могут создавать сосульки из рассеянной в атмосфере воды, однако их хрупкие тела весьма уязвимы.\nКак только падёт их защитный барьер, они начнут молить вас о пощаде.",
+    "en": "Abyss creatures that call upon Cryo in battle.\nThough they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves.\nOnce their protective barrier has been broken, they are at your mercy.",
+    "zh": "驾驭着极寒的冰元素进行战斗的深渊魔物。\n尽管染指了强大的力量，甚至能将大气中的水蒸气凝结成冰锥，本身却佝偻而孱弱。\n一旦保护自身的护罩被打破，就只能任人鱼肉了。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

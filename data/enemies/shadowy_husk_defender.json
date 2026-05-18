@@ -1,0 +1,39 @@
+{
+  "id": "shadowy_husk_defender",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/shadowy_husk_defender.webp",
+  "title": {
+    "ru": "Чёрный доспех: Гвардеец",
+    "en": "Shadowy Husk: Defender",
+    "zh": "黯色空壳·近卫"
+  },
+  "region": "Ли Юэ",
+  "game_version": "2.5",
+  "tags": [
+    "Чёрный доспех: Гвардеец",
+    "Shadowy Husk: Defender",
+    "黯色空壳·近卫"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, но теперь это лишь пустая оболочки с воспоминаниями о битве.\nВ конце всё сущее придёт в упадок. Эта пустая оболочка - то, во что превратился Рыцарь Чёрного Змея под гнётом греха, проклятия и времени.",
+    "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it is now nothing but a husk that only bears memories of battle.\nAll shall decay in the end, and this is all that is left of the Black Serpent Knights amidst the merciless march of their sins, curses, and time itself.",
+    "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今不过是一具残留着战斗记忆的空壳罢了。\n万物尽头皆是废退，而这种空壳就是「黑蛇骑士」\n在罪、诅咒、时间的冲刷之下变成的模样。"
+  },
+  "description": {
+    "ru": "Потемневший солдат. Некогда гордый воин древних подземелий, но теперь это лишь пустая оболочки с воспоминаниями о битве.\nВ конце всё сущее придёт в упадок. Эта пустая оболочка - то, во что превратился Рыцарь Чёрного Змея под гнётом греха, проклятия и времени.",
+    "en": "A pitch-dark soldier. Once a proud warrior of an ancient underground nation, it is now nothing but a husk that only bears memories of battle.\nAll shall decay in the end, and this is all that is left of the Black Serpent Knights amidst the merciless march of their sins, curses, and time itself.",
+    "zh": "漆黑的士兵。\n曾经是地下古国的骄傲军人，如今不过是一具残留着战斗记忆的空壳罢了。\n万物尽头皆是废退，而这种空壳就是「黑蛇骑士」\n在罪、诅咒、时间的冲刷之下变成的模样。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

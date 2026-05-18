@@ -1,0 +1,39 @@
+{
+  "id": "winged_warrior_skysoarer",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/winged_warrior_skysoarer.webp",
+  "title": {
+    "ru": "Крылатый воин: Взмывающий ввысь",
+    "en": "Winged Warrior: Skysoarer",
+    "zh": "结羽勇士 · 腾空士"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Крылатый воин: Взмывающий ввысь",
+    "Winged Warrior: Skysoarer",
+    "结羽勇士 · 腾空士"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nЭти воины племени доверяют больше собственным рукам, чем оружию. Известны своей ловкостью.",
+    "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nThese tribal warriors trust their own two hands more than any weapon. Above all else, they are renowned for their lithe and agile bearing.",
+    "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n比起武器更信任自己双手的部族战士。\n最为人称道的是其轻盈的身姿。"
+  },
+  "description": {
+    "ru": "Воин с вершин скал. Страж племени, патрулирующий крутые утёсы.\nЭти воины племени доверяют больше собственным рукам, чем оружию. Известны своей ловкостью.",
+    "en": "A warrior from the clifftops, and a tribal guardian that patrols the steep mountain ridges.\nThese tribal warriors trust their own two hands more than any weapon. Above all else, they are renowned for their lithe and agile bearing.",
+    "zh": "来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。\n比起武器更信任自己双手的部族战士。\n最为人称道的是其轻盈的身姿。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

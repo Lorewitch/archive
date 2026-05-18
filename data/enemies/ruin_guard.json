@@ -1,0 +1,39 @@
+{
+  "id": "ruin_guard",
+  "category": "enemies",
+  "enemy_group": "automatons",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/ruin_guard.webp",
+  "title": {
+    "ru": "Страж руин",
+    "en": "Ruin Guard",
+    "zh": "遗迹守卫"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Страж руин",
+    "Ruin Guard",
+    "遗迹守卫"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древняя человекоподобная боевая машина.\nЛегенды рассказывают о погибшей цивилизации, которая создала эти машины.\nТеперь они скитаются по руинам и нападают на неосторожных путешественников.\nИсследователям удалось выяснить, что стражи руин и руины, которые они охраняют, относятся к разным эпохам и их отделяют по меньшей мере несколько тысяч лет.\nТак почему же стражи руин остаются в этих руинах и используют свою огневую мощь для защиты груды камней и осыпающихся стен?",
+    "en": "An ancient humanoid war machine.\nLegend has it that these machines were combat automatons created by a long-destroyed nation.\nThey now wander ruins and ancient detritus, attacking offending travelers.\nResearch indicates that the Ruin Guards and the ruins they operate in do not originate from the same source,\nsuggesting that there may be a difference of as much as several thousand years between them on the timeline.\nSo why then do the Ruin Guards continue staying among these ruins, using their \"explosive firepower\"to protect the crumbling walls and broken tiles?",
+    "zh": "古老的人形战斗机械。\n传说是已经覆灭的国度留下的战争机械，会徘徊至世界各地的遗迹废都，并攻击冒失的旅人。\n研究表明遗迹守卫与这些废墟并非同源，表明两者的时代也相差至少数千年，为何遗迹守卫会驻留在其中，并以「爆炸性的火力」\n守护这些残垣断壁呢…"
+  },
+  "description": {
+    "ru": "Древняя человекоподобная боевая машина.\nЛегенды рассказывают о погибшей цивилизации, которая создала эти машины.\nТеперь они скитаются по руинам и нападают на неосторожных путешественников.\nИсследователям удалось выяснить, что стражи руин и руины, которые они охраняют, относятся к разным эпохам и их отделяют по меньшей мере несколько тысяч лет.\nТак почему же стражи руин остаются в этих руинах и используют свою огневую мощь для защиты груды камней и осыпающихся стен?",
+    "en": "An ancient humanoid war machine.\nLegend has it that these machines were combat automatons created by a long-destroyed nation.\nThey now wander ruins and ancient detritus, attacking offending travelers.\nResearch indicates that the Ruin Guards and the ruins they operate in do not originate from the same source,\nsuggesting that there may be a difference of as much as several thousand years between them on the timeline.\nSo why then do the Ruin Guards continue staying among these ruins, using their \"explosive firepower\"to protect the crumbling walls and broken tiles?",
+    "zh": "古老的人形战斗机械。\n传说是已经覆灭的国度留下的战争机械，会徘徊至世界各地的遗迹废都，并攻击冒失的旅人。\n研究表明遗迹守卫与这些废墟并非同源，表明两者的时代也相差至少数千年，为何遗迹守卫会驻留在其中，并以「爆炸性的火力」\n守护这些残垣断壁呢…"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

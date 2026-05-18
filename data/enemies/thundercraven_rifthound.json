@@ -1,0 +1,39 @@
+{
+  "id": "thundercraven_rifthound",
+  "category": "enemies",
+  "enemy_group": "abyss",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/thundercraven_rifthound.webp",
+  "title": {
+    "ru": "Гончая Разрыва: Громоед",
+    "en": "Thundercraven Rifthound",
+    "zh": "嗜雷·兽境猎犬"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "2.2",
+  "tags": [
+    "Гончая Разрыва: Громоед",
+    "Thundercraven Rifthound",
+    "嗜雷·兽境猎犬"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nВ прошлом они сеяли хаос по всему континенту, пока на них не началась массовая охота.\nНо недавно они снова появились.\nСтая чёрных волков, угрожавшая Спрингвейлу и Вольфендому - это они!",
+    "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"Once upon a time, they ran riot across the continent, but they went extinct for a time due to resistance and mass hunts.\nRecently, however, they have re-emerged.\nThe pack of black wolves that now threaten Springvale and Wolvendom are such creatures.",
+    "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n曾经肆虐大陆，然后遭到反抗与猎捕而一度绝迹。\n但最近它们却又再度出现了。\n威胁到了清泉镇与奔狼领的黑狼之群，说的正是它们。"
+  },
+  "description": {
+    "ru": "Звери с демонической кровью, способные стереть границы между мирами. Создания «Золота».\nВ прошлом они сеяли хаос по всему континенту, пока на них не началась массовая охота.\nНо недавно они снова появились.\nСтая чёрных волков, угрожавшая Спрингвейлу и Вольфендому - это они!",
+    "en": "A beast with monstrous blood that is capable of eroding the boundaries of the world.\nThey were created by \"Gold.\"Once upon a time, they ran riot across the continent, but they went extinct for a time due to resistance and mass hunts.\nRecently, however, they have re-emerged.\nThe pack of black wolves that now threaten Springvale and Wolvendom are such creatures.",
+    "zh": "能够侵蚀世界边界的魔血之兽。\n「黄金」\n的造物。\n曾经肆虐大陆，然后遭到反抗与猎捕而一度绝迹。\n但最近它们却又再度出现了。\n威胁到了清泉镇与奔狼领的黑狼之群，说的正是它们。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

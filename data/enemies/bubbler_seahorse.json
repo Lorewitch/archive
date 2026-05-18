@@ -1,0 +1,39 @@
+{
+  "id": "bubbler_seahorse",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/bubbler_seahorse.webp",
+  "title": {
+    "ru": "Сильный конёк-пузырёк",
+    "en": "Bubbler Seahorse",
+    "zh": "泡泡雄海马"
+  },
+  "region": "Фонтейн",
+  "game_version": "4.0",
+  "tags": [
+    "Сильный конёк-пузырёк",
+    "Bubbler Seahorse",
+    "泡泡雄海马"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Взрослый самец конька-пузырька. Очень агрессивен. Некоторые видели вождя коньков-пузырьков. Говорят, это гордое существо с длинными конечностями.",
+    "en": "The adult form of a male Bubbly Seahorse.\nIt is extremely aggressive.\nSome people even claim to have encountered the king among the seahorses.\nIt is said that they are proud beings with four long limbs.",
+    "zh": "雄性的泡泡海马成年后的形态，具有非常强的攻击性。\n曾经有人遇见过海马当中的王者，据说那是拥有修长四肢的高傲生灵。"
+  },
+  "description": {
+    "ru": "Взрослый самец конька-пузырька. Очень агрессивен. Некоторые видели вождя коньков-пузырьков. Говорят, это гордое существо с длинными конечностями.",
+    "en": "The adult form of a male Bubbly Seahorse.\nIt is extremely aggressive.\nSome people even claim to have encountered the king among the seahorses.\nIt is said that they are proud beings with four long limbs.",
+    "zh": "雄性的泡泡海马成年后的形态，具有非常强的攻击性。\n曾经有人遇见过海马当中的王者，据说那是拥有修长四肢的高傲生灵。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

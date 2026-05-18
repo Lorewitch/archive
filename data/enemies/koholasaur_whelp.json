@@ -1,0 +1,39 @@
+{
+  "id": "koholasaur_whelp",
+  "category": "enemies",
+  "enemy_group": "mystical_beasts",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/koholasaur_whelp.webp",
+  "title": {
+    "ru": "Детёныш кохолазавра",
+    "en": "Koholasaur Whelp",
+    "zh": "幼鳍游龙"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.0",
+  "tags": [
+    "Детёныш кохолазавра",
+    "Koholasaur Whelp",
+    "幼鳍游龙"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Молодые кохолазавры могут плавать в воде и жидком флогистоне.\nИх кожа и ласты всё ещё мягкие и нежные, поэтому они не могут выдерживать высокие температуры, как взрослые кохолазавры.\nОднако однажды они вырастут и смогут свободно плавать в воде.",
+    "en": "A young Koholasaurus with the ability to swim through water and liquid phlogiston.\nTheir skin and flippers are still soft and tender, to the point that they can't even tolerate hot environments for long periods like adults.\nHowever, one day, they will grow into the form that can swim freely through the water.",
+    "zh": "年幼的鳍游龙，拥有在水域与液态燃素中游动的能力。\n皮肤与鳍肢尚且稚嫩，甚至还无法像成年的鳍游龙那样长时间待在高热的环境中。\n不过终有一日，能够成长为在水中自由遨游的样貌吧。"
+  },
+  "description": {
+    "ru": "Молодые кохолазавры могут плавать в воде и жидком флогистоне.\nИх кожа и ласты всё ещё мягкие и нежные, поэтому они не могут выдерживать высокие температуры, как взрослые кохолазавры.\nОднако однажды они вырастут и смогут свободно плавать в воде.",
+    "en": "A young Koholasaurus with the ability to swim through water and liquid phlogiston.\nTheir skin and flippers are still soft and tender, to the point that they can't even tolerate hot environments for long periods like adults.\nHowever, one day, they will grow into the form that can swim freely through the water.",
+    "zh": "年幼的鳍游龙，拥有在水域与液态燃素中游动的能力。\n皮肤与鳍肢尚且稚嫩，甚至还无法像成年的鳍游龙那样长时间待在高热的环境中。\n不过终有一日，能够成长为在水中自由遨游的样貌吧。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

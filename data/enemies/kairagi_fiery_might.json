@@ -1,0 +1,39 @@
+{
+  "id": "kairagi_fiery_might",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/kairagi_fiery_might.webp",
+  "title": {
+    "ru": "Кайраги: Огненная мощь",
+    "en": "Kairagi: Fiery Might",
+    "zh": "海乱鬼·炎威"
+  },
+  "region": "Инадзума",
+  "game_version": "2.0",
+  "tags": [
+    "Кайраги: Огненная мощь",
+    "Kairagi: Fiery Might",
+    "海乱鬼·炎威"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Самураи, вступившие на путь бандитизма.\nОни с малых лет занимались боевыми искусствами, но потеряли возможность служить обществу и встали на путь зла.\nЛезвия их клинков не холодные, как у обычной стали, а горят огнём гнева.\nПохоже, что для их накаливания они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
+    "en": "Samurai who have fallen into banditry.\nThey practiced martial arts since they were young, but lost the opportunity to serve the people due to certain reasons and turned from the righteous path.\nTheir blade's edges are not cold like ordinary steel, but instead burn with a bitter flame.\nThey seem to have used paper seals, created from a lost Kamuna art, to set their blades afire.",
+    "zh": "落草为寇的流浪武人。\n自幼时便专注于武道从未懈怠，却因为种种原因失去了奉公的机会，背离了正道，走上恶逆之路。\n刀刃不似一般的钢铁那般冰冷，而是充满了忿恨的炽热怒火——似乎是利用了本应失传的惟神技术制造的符纸，为刀刃附上火焰。"
+  },
+  "description": {
+    "ru": "Самураи, вступившие на путь бандитизма.\nОни с малых лет занимались боевыми искусствами, но потеряли возможность служить обществу и встали на путь зла.\nЛезвия их клинков не холодные, как у обычной стали, а горят огнём гнева.\nПохоже, что для их накаливания они используют особые талисманы, изготовленные по якобы утраченной технике Камуны.",
+    "en": "Samurai who have fallen into banditry.\nThey practiced martial arts since they were young, but lost the opportunity to serve the people due to certain reasons and turned from the righteous path.\nTheir blade's edges are not cold like ordinary steel, but instead burn with a bitter flame.\nThey seem to have used paper seals, created from a lost Kamuna art, to set their blades afire.",
+    "zh": "落草为寇的流浪武人。\n自幼时便专注于武道从未懈怠，却因为种种原因失去了奉公的机会，背离了正道，走上恶逆之路。\n刀刃不似一般的钢铁那般冰冷，而是充满了忿恨的炽热怒火——似乎是利用了本应失传的惟神技术制造的符纸，为刀刃附上火焰。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

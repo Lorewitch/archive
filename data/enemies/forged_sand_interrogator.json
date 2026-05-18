@@ -1,0 +1,39 @@
+{
+  "id": "forged_sand_interrogator",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/forged_sand_interrogator.webp",
+  "title": {
+    "ru": "Кованый песок: Допросчица",
+    "en": "Forged Sand Interrogator",
+    "zh": "铸砂勇士 · 叩问人"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "5.0",
+  "tags": [
+    "Кованый песок: Допросчица",
+    "Forged Sand Interrogator",
+    "铸砂勇士 · 叩问人"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Храбрая воительница каньона и племенной страж, патрулирующая кристальные горы и реки.\nВооружённая булавой, она ударами может превращать в пыль даже самые твёрдые скалы.\nКогда она не сражается, то разбивает камни в поисках самоцветов и кристаллов флогистона.",
+    "en": "A valiant warrior of the canyon, and a tribal guardian who patrols the crystal mountains and rivers.\nA tribal warrior wielding a ball-headed club, she can turn even the hardest of rocks into dust with her crushing blows.\nWhen not using her weapon to fight, she instead often smashes open rocks in search of precious gems and traces of phlogiston crystals.",
+    "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n手持球首棒的部族战士，其敲击能让一切坚石化为齑粉。\n在不进行战斗的时候，她经常用武器敲碎山岩，以寻找宝石和燃素晶块的踪迹。"
+  },
+  "description": {
+    "ru": "Храбрая воительница каньона и племенной страж, патрулирующая кристальные горы и реки.\nВооружённая булавой, она ударами может превращать в пыль даже самые твёрдые скалы.\nКогда она не сражается, то разбивает камни в поисках самоцветов и кристаллов флогистона.",
+    "en": "A valiant warrior of the canyon, and a tribal guardian who patrols the crystal mountains and rivers.\nA tribal warrior wielding a ball-headed club, she can turn even the hardest of rocks into dust with her crushing blows.\nWhen not using her weapon to fight, she instead often smashes open rocks in search of precious gems and traces of phlogiston crystals.",
+    "zh": "来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。\n手持球首棒的部族战士，其敲击能让一切坚石化为齑粉。\n在不进行战斗的时候，她经常用武器敲碎山岩，以寻找宝石和燃素晶块的踪迹。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

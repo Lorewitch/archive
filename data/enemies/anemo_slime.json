@@ -1,0 +1,39 @@
+{
+  "id": "anemo_slime",
+  "category": "enemies",
+  "enemy_group": "elementals",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/anemo_slime.webp",
+  "title": {
+    "ru": "Анемо слайм",
+    "en": "Anemo Slime",
+    "zh": "风史莱姆"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "game_version": "1.0",
+  "tags": [
+    "Анемо слайм",
+    "Anemo Slime",
+    "风史莱姆"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Небольшой монстр, созданный из скопления Анемо элемента, который рассеян по всему миру.\nАнемо силы позволяют ему недолго парить в воздухе.",
+    "en": "A small monster created by the coalescing of Anemo dispersed throughout nature.\nIt is able to float in the air to a certain degree due to the power of Anemo.",
+    "zh": "逸散在自然之中的风元素凝聚形成的小小魔物。\n因为风元素的力量，所以具有一定程度的飘浮能力。"
+  },
+  "description": {
+    "ru": "Небольшой монстр, созданный из скопления Анемо элемента, который рассеян по всему миру.\nАнемо силы позволяют ему недолго парить в воздухе.",
+    "en": "A small monster created by the coalescing of Anemo dispersed throughout nature.\nIt is able to float in the air to a certain degree due to the power of Anemo.",
+    "zh": "逸散在自然之中的风元素凝聚形成的小小魔物。\n因为风元素的力量，所以具有一定程度的飘浮能力。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}

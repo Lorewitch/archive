@@ -1,0 +1,39 @@
+{
+  "id": "spiritspeaker_warrior_determinator",
+  "category": "enemies",
+  "enemy_group": "human_factions",
+  "enemy_type": "common_enemy",
+  "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_determinator.webp",
+  "title": {
+    "ru": "Говорящий с духами воин: Мастер настойчивости",
+    "en": "Spiritspeaker Warrior: Determinator",
+    "zh": "灵觉勇士 · 执意师"
+  },
+  "region": "Натлан",
+  "game_version": "5.0",
+  "tags": [
+    "Говорящий с духами воин: Мастер настойчивости",
+    "Spiritspeaker Warrior: Determinator",
+    "灵觉勇士 · 执意师"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nМожет использовать силу красок на теле, чтобы управлять оружием и атаковать врагов.",
+    "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nTo a certain degree, they can draw upon the power of their body paint to wield their weapons with their willpower.",
+    "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n能够借由身上油彩涂鸦的力量，一定程度地凭借意念操控手中的武器进行攻击。"
+  },
+  "description": {
+    "ru": "Воин Ночного Ветра. Страж племени, патрулирующий туманные ущелья.\nМожет использовать силу красок на теле, чтобы управлять оружием и атаковать врагов.",
+    "en": "A warrior from the Night-Wind, and a tribal guardian that patrols the misty canyons.\nTo a certain degree, they can draw upon the power of their body paint to wield their weapons with their willpower.",
+    "zh": "来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。\n能够借由身上油彩涂鸦的力量，一定程度地凭借意念操控手中的武器进行攻击。"
+  },
+  "drops": [],
+  "notes": {
+    "general": "",
+    "byVolume": {}
+  }
+}
