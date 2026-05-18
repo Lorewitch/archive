@@ -273,6 +273,7 @@ function itemTypeFilterValue(item, config = getSectionConfig()) {
 function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
   if (config.id === "books") return BOOK_TYPE_FILTERS;
   if (config.id === "weapons") return RARITY_FILTERS;
+  if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
   if (config.id === "items") return ITEM_GROUP_TYPE_FILTERS[state.subsection] || [];
   return [];
@@ -379,8 +380,7 @@ function itemCommonEnemyTypes(item) {
 }
 
 function catalogFilterLabel(config) {
-  if (isCommonEnemyCatalog(config)) return "Все типы противников";
-  if (config.id === "items" && state.subsection && (isDevelopmentMaterialsCatalog(config) || itemGroupUsesTypeFilters(state.subsection))) {
+  if (config.id === "items" && state.subsection && (isCommonEnemyCatalog(config) || isDevelopmentMaterialsCatalog(config) || itemGroupUsesTypeFilters(state.subsection))) {
     return "Все регионы";
   }
   return config.filterLabel;
@@ -519,6 +519,7 @@ const state = {
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
+        common_enemies: ["hilichurls", "elementals", "fatui", "automatons", "human_factions", "abyss", "mystical_beasts"],
         development_materials: ["talents", "character_ascension", "weapon_ascension"],
         teyvat_resources: ["ore", "local_specialty", "plant", "animal"],
         food_potions: ["food", "potion"],
@@ -763,25 +764,27 @@ function renderGameVersionBadge(item) {
   return `<span class="game-version-badge" title="Версия игры ${escapeHtml(version)}" aria-label="Версия игры ${escapeHtml(version)}">v${escapeHtml(version)}</span>`;
 }
 
-function renderTitleWithGameVersion(item) {
-  const rawTitle = String(titleOf(item, "ru") || "").trim();
-  const badge = renderGameVersionBadge(item);
+function renderTextWithAttachedBadge(value, badge) {
+  const rawText = String(value || "").trim();
 
-  if (!badge) return escapeHtml(rawTitle);
-  if (!rawTitle) return badge;
+  if (!badge) return escapeHtml(rawText);
+  if (!rawText) return badge;
 
-  // Keep the version badge attached to the last word of the Russian title.
-  // This lets the browser wrap the whole "last word + badge" group together
-  // instead of leaving the badge alone on the next line.
-  const match = rawTitle.match(/^([\s\S]*?)(\S+)$/u);
+  // Keep the version badge attached to the last word of the visible title.
+  // This prevents orphaned version badges in narrow catalog columns.
+  const match = rawText.match(/^([\s\S]*?)(\S+)$/u);
   if (!match) {
-    return `${escapeHtml(rawTitle)}${badge}`;
+    return `${escapeHtml(rawText)}${badge}`;
   }
 
   const prefix = match[1] || "";
-  const lastWord = match[2] || rawTitle;
+  const lastWord = match[2] || rawText;
 
   return `${escapeHtml(prefix)}<span class="book-title-tail">${escapeHtml(lastWord)}${badge}</span>`;
+}
+
+function renderTitleWithGameVersion(item) {
+  return renderTextWithAttachedBadge(titleOf(item, "ru"), renderGameVersionBadge(item));
 }
 
 function bookTypeValue(item) {
@@ -835,7 +838,7 @@ function renderCommonEnemyMaterialsCell(item) {
           <div class="catalog-material-plain-item">
             ${icon}
             <span class="catalog-material-plain-text">
-              <span class="catalog-material-plain-ru"><span class="catalog-material-title-label">${escapeHtml(materialTitle(material, "ru"))}</span>${index === 0 ? versionBadge : ""}</span>
+              <span class="catalog-material-plain-ru"><span class="catalog-material-title-label">${renderTextWithAttachedBadge(materialTitle(material, "ru"), index === 0 ? versionBadge : "")}</span></span>
               <span class="catalog-material-plain-sub">${escapeHtml([materialTitle(material, "en"), materialTitle(material, "zh")].filter(Boolean).join(" · "))}</span>
             </span>
           </div>
@@ -949,10 +952,14 @@ function renderDroppedBySection(item) {
   const enemies = droppedByEnemies(item);
   if (!enemies.length) return "";
 
+  const gridClass = enemies.length === 1
+    ? "dropped-by-grid is-single"
+    : enemies.length === 2 ? "dropped-by-grid is-pair" : "dropped-by-grid";
+
   return `
     <div class="dropped-by-section">
       <div class="dropped-by-title">Выпадает с</div>
-      <div class="dropped-by-grid">
+      <div class="${gridClass}">
         ${enemies.map(enemy => {
           const icon = enemy.icon
             ? `<img class="dropped-by-icon" src="${escapeHtml(versionedAssetPath(enemy.icon))}" alt="" loading="lazy" decoding="async" width="46" height="46">`
@@ -1114,7 +1121,6 @@ function collectionForCatalog(config) {
 }
 
 function optionsFor(config) {
-  if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (config.filter === "region") return REGION_FILTERS;
   if (config.fixedOptions) return config.fixedOptions;
   return [];
@@ -1124,9 +1130,7 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
   let matchesMainFilter = true;
 
   if (selected !== "all") {
-    if (isCommonEnemyCatalog(config)) {
-      matchesMainFilter = itemCommonEnemyTypes(item).has(normalizeCommonEnemyType(selected));
-    } else if (config.filter === "region") {
+    if (config.filter === "region") {
       const regions = Array.isArray(item.filter_regions)
         ? item.filter_regions
         : String(item.region || "").split(",").map(region => region.trim()).filter(Boolean);
@@ -1140,6 +1144,9 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
   if (!matchesMainFilter) return false;
 
   if (activeTypeSet) {
+    if (isCommonEnemyCatalog(config)) {
+      return Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type));
+    }
     return activeTypeSet.has(itemTypeFilterValue(item, config));
   }
 

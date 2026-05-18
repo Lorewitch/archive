@@ -450,6 +450,41 @@ def check_material_chip_wrapping() -> None:
                 fail("src/css/07-responsive.css: material-chip в каталоге боссов должен переноситься внутри своей колонки")
 
 
+def check_common_enemy_layout_guards() -> None:
+    catalog_css = SRC_CSS_DIR / "04-catalog.css"
+    entries_css = SRC_CSS_DIR / "06-entries.css"
+    responsive_css = SRC_CSS_DIR / "07-responsive.css"
+
+    if catalog_css.exists():
+        catalog_text = catalog_css.read_text(encoding="utf-8")
+        common_block = re.search(r"\.catalog-row\.cols-items-common-enemy \{(?P<body>.*?)\}", catalog_text, re.S)
+        if not common_block:
+            fail("src/css/04-catalog.css: отсутствует раскладка каталога материалов обычных противников")
+        else:
+            body = common_block.group("body")
+            if "minmax(420px" not in body or "gap: 24px" not in body:
+                fail("src/css/04-catalog.css: колонки типа противника и выпадения должны быть отодвинуты от материалов без костылей")
+
+    if entries_css.exists():
+        entries_text = entries_css.read_text(encoding="utf-8")
+        required = [
+            ".dropped-by-grid {",
+            "display: grid",
+            ".dropped-by-grid.is-single",
+            ".dropped-by-grid.is-pair",
+        ]
+        for fragment in required:
+            if fragment not in entries_text:
+                fail(f"src/css/06-entries.css: отсутствует защита раскладки блока Выпадает с: {fragment}")
+        if "column-count" in entries_text:
+            fail("src/css/06-entries.css: блок Выпадает с не должен оставаться на column-count после перехода на управляемую сетку")
+
+    if responsive_css.exists():
+        responsive_text = responsive_css.read_text(encoding="utf-8")
+        if ".dropped-by-grid.is-pair" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
+            fail("src/css/07-responsive.css: мобильная раскладка блока Выпадает с должна складывать карточки в одну колонку")
+
+
 def check_workflow_guards() -> None:
     workflow = ROOT / ".github" / "workflows" / "build-archive.yml"
     if not workflow.exists():
@@ -538,6 +573,18 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: состояние спойлера описания босса должно быть привязано к записи")
         if "rememberEnemyDescriptionState(panel, !isCollapsed)" not in text:
             fail("assets/js/archive.js: переключение спойлера должно сохранять его состояние")
+        if "function renderTextWithAttachedBadge" not in text or 'renderTextWithAttachedBadge(materialTitle(material, "ru")' not in text:
+            fail("assets/js/archive.js: бейдж версии должен переноситься вместе с последним словом названия, включая материалы")
+        if "function optionsFor(config) {\n  if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;" in text:
+            fail("assets/js/archive.js: в материалах обычных противников выпадающий фильтр должен быть по региону, а не по типу противника")
+        if "function typeFiltersForCurrentCatalog" not in text or "if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;" not in text:
+            fail("assets/js/archive.js: группы обычных противников должны быть доступны как фильтры-галочки")
+        if "Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type))" not in text:
+            fail("assets/js/archive.js: фильтры-галочки обычных противников должны работать по пересечению групп")
+        if "dropped-by-grid is-single" not in text or "dropped-by-grid is-pair" not in text:
+            fail("assets/js/archive.js: блоки противников должны получать классы для одиночной и парной раскладки")
+        if '<span class="toolbar-label">Язык</span>\n        <span class="toolbar-label">Язык</span>' in text:
+            fail("assets/js/archive.js: не должно быть дублирующихся подписей Язык в переключателях")
         if "function rememberCatalogScrollPosition()" not in text:
             fail("assets/js/archive.js: каталог должен запоминать позицию скролла перед переходом в запись")
         if "function scheduleRouteScroll(routeChanged)" not in text:
@@ -568,6 +615,7 @@ def main() -> int:
         check_summary(indexes)
     check_generated_css()
     check_material_chip_wrapping()
+    check_common_enemy_layout_guards()
 
     if errors:
         print("Проверка архива: найдены ошибки", file=sys.stderr)
