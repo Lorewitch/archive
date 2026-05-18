@@ -1,0 +1,110 @@
+{
+  "id": "nagadus_emerald_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/nagadus_emerald_sliver.webp",
+  "title": {
+    "ru": "Осколок изумруда Нагадус / Фрагмент изумруда Нагадус / Кусок изумруда Нагадус / Драгоценный изумруд Нагадус",
+    "en": "Nagadus Emerald Gemstones",
+    "zh": "生长碧翡碎屑 / 生长碧翡断片 / 生长碧翡块 / 生长碧翡"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "3.0",
+  "tags": [
+    "Nagadus Emerald",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "nagadus_emerald_sliver",
+      "title": {
+        "ru": "Осколок изумруда Нагадус",
+        "en": "Nagadus Emerald Sliver",
+        "zh": "生长碧翡碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/nagadus_emerald_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.",
+        "en": "Character Ascension Material.",
+        "zh": "角色突破素材。"
+      }
+    },
+    {
+      "key": "nagadus_emerald_fragment",
+      "title": {
+        "ru": "Фрагмент изумруда Нагадус",
+        "en": "Nagadus Emerald Fragment",
+        "zh": "生长碧翡断片"
+      },
+      "icon": "assets/icons/items/development_materials/nagadus_emerald_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Я видел долгий, долгий сон…»",
+        "en": "Character Ascension Material.\n\"I had a very, very long dream...\"",
+        "zh": "角色突破素材。\n「我做了一个很长很长的梦…」"
+      }
+    },
+    {
+      "key": "nagadus_emerald_chunk",
+      "title": {
+        "ru": "Кусок изумруда Нагадус",
+        "en": "Nagadus Emerald Chunk",
+        "zh": "生长碧翡块"
+      },
+      "icon": "assets/icons/items/development_materials/nagadus_emerald_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Я видел долгий, долгий сон…\nЛюди, взявшись за руки, кружились в танце. Мудрецы и простаки, девицы и храбрецы, куклы и статуи божеств…»",
+        "en": "Character Ascension Material.\n\"I had a very, very long dream...\"\n\"In it, people were holding hands, dancing in a circle, be they sages or fools, dancers or warriors, puppets or statues of gods...\"",
+        "zh": "角色突破素材。\n「我做了一个很长很长的梦…」\n「人们手握着手转圈。贤者与愚者，舞女与勇士，人偶与神像…」"
+      }
+    },
+    {
+      "key": "nagadus_emerald_gemstone",
+      "title": {
+        "ru": "Драгоценный изумруд Нагадус",
+        "en": "Nagadus Emerald Gemstone",
+        "zh": "生长碧翡"
+      },
+      "icon": "assets/icons/items/development_materials/nagadus_emerald_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Я видел долгий, долгий сон…\nЛюди, взявшись за руки, кружились в танце. Мудрецы и простаки, девицы и храбрецы, куклы и статуи божеств…\nВ их танце была зашифрована вся вселенная. \"Жизнь\"  – вот вечная цель, а \"мудрость\" всего лишь средство».",
+        "en": "Character Ascension Material.\n\"I had a very, very long dream...\"\n\"In it, people were holding hands, dancing in a circle, be they sages or fools, dancers or warriors, puppets or statues of gods...\"\n\"That dancing circle embodied everything about the universe. Life has always been the end, while it is wisdom that shall be the means.\"",
+        "zh": "角色突破素材。\n「我做了一个很长很长的梦…」\n「人们手握着手转圈。贤者与愚者，舞女与勇士，人偶与神像…」\n「大家的欢舞里蕴藏着宇宙的一切。『生命』一直都是目的，『智慧』才是手段。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

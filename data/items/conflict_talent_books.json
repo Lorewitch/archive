@@ -1,0 +1,90 @@
+{
+  "id": "conflict_talent_books",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/teachings_of_conflict.webp",
+  "title": {
+    "ru": "Учения о «Раздоре» / Указания о «Раздоре» / Философия о «Раздоре»",
+    "en": "Conflict Talent Books",
+    "zh": "「纷争」的教导 / 「纷争」的指引 / 「纷争」的哲学"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [
+    "Conflict",
+    "материалы развития",
+    "Натлан"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "teachings_of_conflict",
+      "title": {
+        "ru": "Учения о «Раздоре»",
+        "en": "Teachings of Conflict",
+        "zh": "「纷争」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/teachings_of_conflict.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nВ стране Пиро конфликт считается законом.\nВместо того чтобы избегать конфликтов, нужно встречать их лицом к лицу. Как только станет ясен исход, определится дальнейший путь.",
+        "en": "Talent Level-Up material.\nConflict is considered reason in the Nation of Pyro.\nRather than avoiding conflict, one should face confrontations head-on.\nOnce the outcome has been made manifest, the path forward should be determined accordingly.",
+        "zh": "天赋培养素材。\n火之国土的事理是纷争。\n不去避让矛盾，而是直面冲突，在纷争的结果彰显后，根据此结果决定将行的道路。"
+      }
+    },
+    {
+      "key": "guide_to_conflict",
+      "title": {
+        "ru": "Указания о «Раздоре»",
+        "en": "Guide to Conflict",
+        "zh": "「纷争」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/guide_to_conflict.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nВ стране Пиро конфликт считается законом.\nКонфликты всегда могут быть разрешены более мощными силами.\nА значит, что ими можно управлять.\nКонфликт также служит ограничением, которое не позволяет людям уклоняться от ответственности без учёта последствий.\nКонфликт требует быстрого и решительного разрешения разногласий.",
+        "en": "Talent Level-Up material.\nConflict is considered reason in the Nation of Pyro.\nConflicts can always be resolved by greater powers.\nThis fact means that they can always be managed, as opposed to developing into something uncontrollable.\nConflict is also a kind of limitation, preventing people from endless shirking of responsibilities without weighing the costs.\nIt demands that participants settle their scores decisively and efficiently.",
+        "zh": "天赋培养素材。\n火之国土的事理是纷争。\n纷争永远能够被更高层面的力量介入并解决，而非不可收拾，这让一切都得以进入可控的境地。\n纷争亦是一种局限，禁止不计成本地推诿下去，而是要求参与方更干净利落地得出结果。"
+      }
+    },
+    {
+      "key": "philosophies_of_conflict",
+      "title": {
+        "ru": "Философия о «Раздоре»",
+        "en": "Philosophies of Conflict",
+        "zh": "「纷争」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/philosophies_of_conflict.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nВ стране Пиро конфликт считается законом.\nОснова конфликта - необходимость честно признать свои желания. Только в разгар борьбы или дебатов можно оставаться верным своим целям и стремлениям.",
+        "en": "Talent Level-Up material.\nConflict is considered reason in the Nation of Pyro.\nThe premise of conflict is that all parties involved must confront their own desires with the utmost sincerity.\nOnly then, amid the fight or debate, can they remain mindful of what they wish to achieve and stay true to their original objectives.",
+        "zh": "天赋培养素材。\n火之国土的事理是纷争。\n纷争的前提是，参与争端的人都会真诚地面对自己的欲望，面对欲望，然后在争辩或战斗之中，才不会忘记自己想要取得的东西，也不会偏离原本的目的。"
+      }
+    }
+  ],
+  "material_count": 3
+}

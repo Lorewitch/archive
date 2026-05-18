@@ -1,0 +1,110 @@
+{
+  "id": "prithiva_topaz_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/prithiva_topaz_sliver.webp",
+  "title": {
+    "ru": "Осколок топаза Притхива / Фрагмент топаза Притхива / Кусок топаза Притхива / Драгоценный топаз Притхива",
+    "en": "Prithiva Topaz Gemstones",
+    "zh": "坚牢黄玉碎屑 / 坚牢黄玉断片 / 坚牢黄玉块 / 坚牢黄玉"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Prithiva Topaz",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "prithiva_topaz_sliver",
+      "title": {
+        "ru": "Осколок топаза Притхива",
+        "en": "Prithiva Topaz Sliver",
+        "zh": "坚牢黄玉碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/prithiva_topaz_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.",
+        "en": "Character Ascension Material.",
+        "zh": "角色突破素材。"
+      }
+    },
+    {
+      "key": "prithiva_topaz_fragment",
+      "title": {
+        "ru": "Фрагмент топаза Притхива",
+        "en": "Prithiva Topaz Fragment",
+        "zh": "坚牢黄玉断片"
+      },
+      "icon": "assets/icons/items/development_materials/prithiva_topaz_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Валютой здесь является кровь».",
+        "en": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood.\"",
+        "zh": "角色突破素材。\n「大陆所流通的一切银钱皆是我的血肉。」"
+      }
+    },
+    {
+      "key": "prithiva_topaz_chunk",
+      "title": {
+        "ru": "Кусок топаза Притхива",
+        "en": "Prithiva Topaz Chunk",
+        "zh": "坚牢黄玉块"
+      },
+      "icon": "assets/icons/items/development_materials/prithiva_topaz_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Валютой здесь является кровь.\nЯ гарант усердия, мудрости и будущего народа».",
+        "en": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood.\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.\"",
+        "zh": "角色突破素材。\n「大陆所流通的一切银钱皆是我的血肉。\n「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。」"
+      }
+    },
+    {
+      "key": "prithiva_topaz_gemstone",
+      "title": {
+        "ru": "Драгоценный топаз Притхива",
+        "en": "Prithiva Topaz Gemstone",
+        "zh": "坚牢黄玉"
+      },
+      "icon": "assets/icons/items/development_materials/prithiva_topaz_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Валютой здесь является кровь.\nЯ гарант усердия, мудрости и будущего народа.\nТаково оказанное мной доверие. Предай его, и ты осквернишь мою кровь».",
+        "en": "Character Ascension material.\n\"The currencies that flow through this land are my flesh and blood.\nFor thus did I become the guarantor of the people's hard work, wisdom, and future.\nThis is the trust I have placed in them. Betray it, and you taint my blood.\"",
+        "zh": "角色突破素材。\n「大陆所流通的一切银钱皆是我的血肉。\n「我在以这样的方式，为人类一切的汗水、智慧和未来做担保。\n「这是我对众生的信任，辜负了它就是玷污了我的血。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

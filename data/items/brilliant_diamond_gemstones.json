@@ -1,0 +1,110 @@
+{
+  "id": "brilliant_diamond_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/brilliant_diamond_sliver.webp",
+  "title": {
+    "ru": "Осколок бриллианта / Фрагмент бриллианта / Кусок бриллианта / Драгоценный бриллиант",
+    "en": "Brilliant Diamond Gemstones",
+    "zh": "璀璨原钻碎屑 / 璀璨原钻断片 / 璀璨原钻块 / 璀璨原钻"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Brilliant Diamond",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "brilliant_diamond_sliver",
+      "title": {
+        "ru": "Осколок бриллианта",
+        "en": "Brilliant Diamond Sliver",
+        "zh": "璀璨原钻碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/brilliant_diamond_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Добро пожаловать в мир!»",
+        "en": "Character Ascension material.\n\"Welcome to this world.\"",
+        "zh": "角色突破素材。\n「欢迎来到世界。」"
+      }
+    },
+    {
+      "key": "brilliant_diamond_fragment",
+      "title": {
+        "ru": "Фрагмент бриллианта",
+        "en": "Brilliant Diamond Fragment",
+        "zh": "璀璨原钻断片"
+      },
+      "icon": "assets/icons/items/development_materials/brilliant_diamond_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Добро пожаловать в мир!»",
+        "en": "Character Ascension material.\n\"Welcome to this world.\"",
+        "zh": "角色突破素材。\n「欢迎来到世界。」"
+      }
+    },
+    {
+      "key": "brilliant_diamond_chunk",
+      "title": {
+        "ru": "Кусок бриллианта",
+        "en": "Brilliant Diamond Chunk",
+        "zh": "璀璨原钻块"
+      },
+      "icon": "assets/icons/items/development_materials/brilliant_diamond_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Добро пожаловать в мир!»",
+        "en": "Character Ascension material.\n\"Welcome to this world.\"",
+        "zh": "角色突破素材。\n「欢迎来到世界。」"
+      }
+    },
+    {
+      "key": "brilliant_diamond_gemstone",
+      "title": {
+        "ru": "Драгоценный бриллиант",
+        "en": "Brilliant Diamond Gemstone",
+        "zh": "璀璨原钻"
+      },
+      "icon": "assets/icons/items/development_materials/brilliant_diamond_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Добро пожаловать в мир!»",
+        "en": "Character Ascension material.\n\"Welcome to this world.\"",
+        "zh": "角色突破素材。\n「欢迎来到世界。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

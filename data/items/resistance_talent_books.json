@@ -1,0 +1,90 @@
+{
+  "id": "resistance_talent_books",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/teachings_of_resistance.webp",
+  "title": {
+    "ru": "Учения о «Борьбе» / Указания о «Борьбе» / Философия о «Борьбе»",
+    "en": "Resistance Talent Books",
+    "zh": "「抗争」的教导 / 「抗争」的指引 / 「抗争」的哲学"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Resistance",
+    "материалы развития",
+    "Мондштадт"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "teachings_of_resistance",
+      "title": {
+        "ru": "Учения о «Борьбе»",
+        "en": "Teachings of Resistance",
+        "zh": "「抗争」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/teachings_of_resistance.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nСопротивление - это основа царства ветров.\nИстория Мондштадта - это история сопротивления.\nЛюди восстали, чтобы не были забыты конфликты прошлого.\nОни словно ростки, прорывающиеся сквозь почву, словно вечный ветер, разрушающий каменные стены.",
+        "en": "Talent Level-Up material.\nResistance is the backbone of the land of the wind.\nThe history of Mondstadt is one of resistances.\nPeople rose up to prevent past conflicts from ever being forgotten, like sprouts breaking through the soil,\nlike the eternal wind eroding through stone walls.",
+        "zh": "天赋培养素材。\n风之国土的脊梁是抗争。\n蒙德的历史即是抗争的历史。\n抗争是为了蒙德过去的一切抗争不被遗忘，如同草木突破土壤，如同恒风洞穿石墙。"
+      }
+    },
+    {
+      "key": "guide_to_resistance",
+      "title": {
+        "ru": "Указания о «Борьбе»",
+        "en": "Guide to Resistance",
+        "zh": "「抗争」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/guide_to_resistance.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nСопротивление - это основа царства ветров.\nИстория Мондштадта - это история сопротивления.\nЛюди восстали, чтобы отвоевать свою свободу.\nОни словно Анемо Архонт, раздувающий снега, словно Веннесса, которая поднимается с колен, чтобы сражаться.",
+        "en": "Talent Level-Up material.\nResistance is the backbone of the city of Wind.\nThe history of Mondstadt is one of resistances.\nPeople rose up to grant the citizens of Mondstadt the freedom they now enjoy, like the Anemo Archon blowing away the snow,\nor like Vennessa rising up to fight.",
+        "zh": "天赋培养素材。\n风之国土的脊梁是抗争。\n蒙德的历史即是抗争的历史。\n抗争是为了蒙德现在的人们能够拥有自由，正如风之神吹散冰雪，正如温妮莎奋起抗争。"
+      }
+    },
+    {
+      "key": "philosophies_of_resistance",
+      "title": {
+        "ru": "Философия о «Борьбе»",
+        "en": "Philosophies of Resistance",
+        "zh": "「抗争」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/philosophies_of_resistance.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nСопротивление - это основа царства ветров.\nИстория Мондштадта - это история сопротивления.\nЛюди восстали, чтобы поэзия и песни будущего Мондштадта летели по ветру свободы и распространились по всей земле.",
+        "en": "Talent Level-Up material.\nResistance is the backbone of the land of the wind.\nThe history of Mondstadt is one of resistances.\nPeople rose up to allow the future Mondstadt's poetry to freely be that of the wind and be spread across the land.",
+        "zh": "天赋培养素材。\n风之国土的脊梁是抗争。\n蒙德的历史即是抗争的历史。\n抗争是为了蒙德未来的诗文，也能自由地随着眷顾的风，传到远方。"
+      }
+    }
+  ],
+  "material_count": 3
+}

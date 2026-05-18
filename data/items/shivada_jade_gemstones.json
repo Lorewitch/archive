@@ -1,0 +1,110 @@
+{
+  "id": "shivada_jade_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/shivada_jade_sliver.webp",
+  "title": {
+    "ru": "Осколок нефрита Шивада / Фрагмент нефрита Шивада / Кусок нефрита Шивада / Драгоценный нефрит Шивада",
+    "en": "Shivada Jade Gemstones",
+    "zh": "哀叙冰玉碎屑 / 哀叙冰玉断片 / 哀叙冰玉块 / 哀叙冰玉"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Shivada Jade",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "shivada_jade_sliver",
+      "title": {
+        "ru": "Осколок нефрита Шивада",
+        "en": "Shivada Jade Sliver",
+        "zh": "哀叙冰玉碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/shivada_jade_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.",
+        "en": "Character Ascension Material.",
+        "zh": "角色突破素材。"
+      }
+    },
+    {
+      "key": "shivada_jade_fragment",
+      "title": {
+        "ru": "Фрагмент нефрита Шивада",
+        "en": "Shivada Jade Fragment",
+        "zh": "哀叙冰玉断片"
+      },
+      "icon": "assets/icons/items/development_materials/shivada_jade_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«... Простите...»",
+        "en": "Character Ascension material.\n\"Sorry...\"",
+        "zh": "角色突破素材。\n「…抱歉…」"
+      }
+    },
+    {
+      "key": "shivada_jade_chunk",
+      "title": {
+        "ru": "Кусок нефрита Шивада",
+        "en": "Shivada Jade Chunk",
+        "zh": "哀叙冰玉块"
+      },
+      "icon": "assets/icons/items/development_materials/shivada_jade_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«... Простите...»\n«Что заставил вас взять все обиды мира на себя».",
+        "en": "Character Ascension material.\n\"Sorry...\"\n\"... to also have you shoulder the grievances of the world.\"",
+        "zh": "角色突破素材。\n「…抱歉…\n「让你们一起和我背负了整个世界的哀思。」"
+      }
+    },
+    {
+      "key": "shivada_jade_gemstone",
+      "title": {
+        "ru": "Драгоценный нефрит Шивада",
+        "en": "Shivada Jade Gemstone",
+        "zh": "哀叙冰玉"
+      },
+      "icon": "assets/icons/items/development_materials/shivada_jade_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«... Простите... Что заставил вас взять все обиды мира на себя\nВы выдержали мой жестокий холод, значит в вас буйствует желание жечь.\nТогда сожгите для меня этот старый мир».",
+        "en": "Character Ascension material.\n\"Sorry... to also have you shoulder the grievances of the world.\n\"Since you could endure my bitter cold, you must have the desire to burn?\n\"Then, burn away the old world for me.\"",
+        "zh": "角色突破素材。\n「…抱歉让你们一起和我背负了整个世界的哀思。\n「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？\n「那么，替我燃烧旧世界吧。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

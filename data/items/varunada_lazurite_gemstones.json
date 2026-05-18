@@ -1,0 +1,110 @@
+{
+  "id": "varunada_lazurite_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/varunada_lazurite_sliver.webp",
+  "title": {
+    "ru": "Осколок лазурита Варунада / Фрагмент лазурита Варунада / Кусок лазурита Варунада / Драгоценный лазурит Варунада",
+    "en": "Varunada Lazurite Gemstones",
+    "zh": "涤净青金碎屑 / 涤净青金断片 / 涤净青金块 / 涤净青金"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Varunada Lazurite",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "varunada_lazurite_sliver",
+      "title": {
+        "ru": "Осколок лазурита Варунада",
+        "en": "Varunada Lazurite Sliver",
+        "zh": "涤净青金碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/varunada_lazurite_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.",
+        "en": "Character Ascension Material.",
+        "zh": "角色突破素材。"
+      }
+    },
+    {
+      "key": "varunada_lazurite_fragment",
+      "title": {
+        "ru": "Фрагмент лазурита Варунада",
+        "en": "Varunada Lazurite Fragment",
+        "zh": "涤净青金断片"
+      },
+      "icon": "assets/icons/items/development_materials/varunada_lazurite_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Мои идеалы кристально чисты!»",
+        "en": "Character Ascension material.\n\"My ideals have no stains.\"",
+        "zh": "角色突破素材。\n「我的理想之内并没有一丝污浊。」"
+      }
+    },
+    {
+      "key": "varunada_lazurite_chunk",
+      "title": {
+        "ru": "Кусок лазурита Варунада",
+        "en": "Varunada Lazurite Chunk",
+        "zh": "涤净青金块"
+      },
+      "icon": "assets/icons/items/development_materials/varunada_lazurite_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Мои идеалы кристально чисты!»\n«Позволь мне поправить тебя... В глазах божеств люди безгрешны...»",
+        "en": "Character Ascension material.\n\"My ideals have no stains.\nI must correct you. People here bear no sins in the eyes of the gods...\"",
+        "zh": "角色突破素材。\n「我的理想之内并没有一丝污浊。\n「我要纠正你，在这里，人并不对神背负罪孽…」"
+      }
+    },
+    {
+      "key": "varunada_lazurite_gemstone",
+      "title": {
+        "ru": "Драгоценный лазурит Варунада",
+        "en": "Varunada Lazurite Gemstone",
+        "zh": "涤净青金"
+      },
+      "icon": "assets/icons/items/development_materials/varunada_lazurite_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Мои идеалы кристально чисты!»\n«Позволь мне поправить тебя... В глазах божеств люди безгрешны... Только законы и Трибунал могут судить.\nОни могут судить даже меня. Так вознеси моё великолепие и непорочность».",
+        "en": "Character Ascension material.\n\"My ideals have no stains.\nI must correct you. People here bear no sins in the eyes of the gods... Only laws and the Tribunal can judge someone.\nThey can judge even me. So praise my magnificence and purity.\"",
+        "zh": "角色突破素材。\n「我的理想之内并没有一丝污浊。\n「我要纠正你，在这里，人并不对神背负罪孽，能下达判决的只有法律与裁判庭。\n「他们甚至连我也可以裁判。赞美我的崇高与纯洁吧。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

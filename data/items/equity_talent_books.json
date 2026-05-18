@@ -1,0 +1,90 @@
+{
+  "id": "equity_talent_books",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/teachings_of_equity.webp",
+  "title": {
+    "ru": "Учения о «Беспристрастии» / Указания о «Беспристрастии» / Философия о «Беспристрастии»",
+    "en": "Equity Talent Books",
+    "zh": "「公平」的教导 / 「公平」的指引 / 「公平」的哲学"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.0",
+  "tags": [
+    "Equity",
+    "материалы развития",
+    "Фонтейн"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "teachings_of_equity",
+      "title": {
+        "ru": "Учения о «Беспристрастии»",
+        "en": "Teachings of Equity",
+        "zh": "「公平」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/teachings_of_equity.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nБерега водного царства - пристанище беспристрастии.\nБеспристрастие устанавливает границы прав.\nБез неё предоставленные законом права могут быть использованы не по назначению и стать орудием разрушения наших добродетельных устоев.",
+        "en": "The shore of the Nation of Water is equity.\nEquity sets boundaries on rights. Without equity, the rights granted by law will be abused, and become a tool to damage our virtuous customs.",
+        "zh": "水之国土的堤岸是公平。\n公平限制了权利的边界。\n若无公平，律法赋予的权利亦会被滥用，成为损害善良风俗的工具。"
+      }
+    },
+    {
+      "key": "guide_to_equity",
+      "title": {
+        "ru": "Указания о «Беспристрастии»",
+        "en": "Guide to Equity",
+        "zh": "「公平」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/guide_to_equity.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nБерега водного царства - пристанище беспристрастия.\nБеспристрастие - это фундамент, на котором зиждется Фонтейн.\nБеспристрастие формирует стандарт права.\nЕсли право утратит беспристрастие, оно превратится в шахматную доску, на которой ведётся игра ради прибыли.",
+        "en": "The shore of the Nation of Water is equity.\nEquity is the foundation upon which Fontaine was founded.\nEquity forms the standard of the law.\nIf law loses the essence of equity, it will become a chessboard played for profit.",
+        "zh": "水之国土的堤岸是公平。\n公平是枫丹立国的基础。\n公平形成了律法的准绳。\n假若律法失去公平的本质，必沦为敛利的棋盘。"
+      }
+    },
+    {
+      "key": "philosophies_of_equity",
+      "title": {
+        "ru": "Философия о «Беспристрастии»",
+        "en": "Philosophies of Equity",
+        "zh": "「公平」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/philosophies_of_equity.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nБерега водного царства - пристанище беспристрастия.\nБеспристрастие - это фундамент, на котором зиждется Фонтейн.\nБеспристрастие требует постоянной и неуклонной поддержки со стороны морали и права, а мораль и право постоянно меняются,\nисходя из неизменного принципа Беспристрастия.",
+        "en": "The shore of the Nation of Water is equity.\nEquity is the foundation upon which Fontaine was founded.\nEquity requires the continuous and steady support of morality and law,\nand morality and law constantly change based upon the invariant principle of equity.",
+        "zh": "水之国土的堤岸是公平。\n公平是枫丹立国的基础。\n公平总是需要稳固的道德与律法加以支撑，道德与律法亦基于不变的公平准则而流变不息。"
+      }
+    }
+  ],
+  "material_count": 3
+}

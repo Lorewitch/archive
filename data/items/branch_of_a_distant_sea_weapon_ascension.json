@@ -1,0 +1,104 @@
+{
+  "id": "branch_of_a_distant_sea_weapon_ascension",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/coral_branch_of_a_distant_sea.webp",
+  "title": {
+    "ru": "Коралловая ветвь внешних морей / Драгоценная ветвь внешних морей / Нефритовая ветвь внешних морей / Золотая ветвь внешних морей",
+    "en": "Branch Of A Distant Sea Weapon Ascension Materials",
+    "zh": "远海夷地的瑚枝 / 远海夷地的玉枝 / 远海夷地的琼枝 / 远海夷地的金枝"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [
+    "Branch Of A Distant Sea",
+    "материалы развития",
+    "Инадзума"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  },
+  "materials": [
+    {
+      "key": "coral_branch_of_a_distant_sea",
+      "title": {
+        "ru": "Коралловая ветвь внешних морей",
+        "en": "Coral Branch of a Distant Sea",
+        "zh": "远海夷地的瑚枝"
+      },
+      "icon": "assets/icons/items/development_materials/coral_branch_of_a_distant_sea.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nОстров Ватацуми - самый отдалённый в цепочке инадзумского архипелага, а его название на древнем языке острова означает «бог морей».\nСогласно легенде, когда исполинский змей впервые вышел из царства вечной ночи, его тело было полностью покрыто светящимися кораллами.",
+        "en": "Weapon Ascension Material.\nWatatsumi Island is the furthest from Narukami Island in the Inazuman island chain,\nand its name means \"the god of the oceans\" in the island's ancient tongue.\nLegend has it that when the great serpent first arose within the abyssal nation of ever-night,\nits fluorescent body was covered in myriad-colored coral.",
+        "zh": "赋予武器突破之力的材料。\n稻妻列岛中距离鸣神岛最遥远的「海祇」，在海祇岛的古语中的意思是「统管诸海的大神」。\n传说大蛇在常夜的渊下国土中初次现身时，身上覆满了四色的珊瑚枝，散发着煌煌的荧光。"
+      }
+    },
+    {
+      "key": "jeweled_branch_of_a_distant_sea",
+      "title": {
+        "ru": "Драгоценная ветвь внешних морей",
+        "en": "Jeweled Branch of a Distant Sea",
+        "zh": "远海夷地的玉枝"
+      },
+      "icon": "assets/icons/items/development_materials/jeweled_branch_of_a_distant_sea.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nТаких кораллов не сыскать во всём Тейвате.\nЭто дар, который получил исполинский змей, когда вторгся в Тёмное море.\nДля змея кораллы на его теле были символом могущества, а лишиться их означало потерять его.\nИначе говоря, эти кораллы наделены невероятной силой.",
+        "en": "Weapon Ascension Material.\nThis coral cannot be found anywhere in Teyvat, but was a gift that the great serpent obtained when it broke into the Dark Sea.\nFor that abyssal snake, to be filled with coral was to be mighty, and its power would be shaved away as those corals were lost.\nIn other words, those corals contain power far beyond the norm.",
+        "zh": "赋予武器突破之力的材料。\n这种珊瑚在提瓦特的大地上是见不到的，是大蛇闯入「暗之外海」时，获得的礼赠。\n因此对于深海的大蛇而言，身负珊瑚枝象征着力量；\n而失去珊瑚枝时，力量会相应地折损。\n换言之，折断的珊瑚枝中也蕴含着超常的力量。"
+      }
+    },
+    {
+      "key": "jade_branch_of_a_distant_sea",
+      "title": {
+        "ru": "Нефритовая ветвь внешних морей",
+        "en": "Jade Branch of a Distant Sea",
+        "zh": "远海夷地的琼枝"
+      },
+      "icon": "assets/icons/items/development_materials/jade_branch_of_a_distant_sea.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nПотеряв всё, божество бежало в морскую пучину и увидело там отвергнутый народ, у которого ничего не было.\nТак, оно решило остаться и стать их «Оробаси но микото», их «Ватацуми Омиками».\nГоворят, что бог-змей однажды отломал с себя все ветви, чтобы дать своим свившимся кольцами во тьме детям свет.\nТакже говорят, что из коралловых ветвей он соорудил лестницу, чтобы его дети смогли подняться на поверхность и увидеть солнечный свет.",
+        "en": "Weapon Ascension Material.\nFleeing into the Dark Sea, the god that had lost everything met the abandoned people who had nothing within the ocean depths.\nThus it elected to remain and become their \"Orobashi no Mikoto,\" their \"Watatsumi Omikami.\"\nIt is said that the great snake god once broke off all the coral branches on its body to give light to the children who were curled up in the\ndarkness.\nThey also say that it used these coral branches to create a huge ladder to allow those children to once again reach the surface and see the light of\nday.",
+        "zh": "赋予武器突破之力的材料。\n失去了一切、逃向暗之外海的魔神在海渊中，见到了什么都没有的弃民。\n于是它决定留下来，成为他们的「远吕羽氏尊」、「海祇大御神」。\n传说大蛇神曾经折下身上所有的珊瑚枝，让蜷缩在黑暗中的孩子们拥有照亮周遭的光明。\n又有一说它用折下的珊瑚枝架起了登高的阶梯，让它的孩子们再次回到了地面上，见到阳光。"
+      }
+    },
+    {
+      "key": "golden_branch_of_a_distant_sea",
+      "title": {
+        "ru": "Золотая ветвь внешних морей",
+        "en": "Golden Branch of a Distant Sea",
+        "zh": "远海夷地的金枝"
+      },
+      "icon": "assets/icons/items/development_materials/golden_branch_of_a_distant_sea.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nНазвание «Ватацуми» означает безответные надежды, которые отвергнутый народ морских глубин возложил на ведшего их бога-змея.\nИ потому, что теперь у бога-змея был народ, который ему преклонялся, он остался в мире, который должен был давно покинуть,\nотламывая со своего тела коралловые ветви, ступая там, где ступать был не должен, и борясь с противником,\nкоторого ему было не одолеть - пока наконец его божественная форма не была разрублена вместе с горами, его кровь стала плазмой,\nа его сила и воля превратились в вечный яд - Татаригами.",
+        "en": "Weapon Ascension Material.\nThe meaning that lies behind the name \"Watatsumi\" is simply the unrequited hopes that the abandoned people who dwelt in the deep sea pinned upon the\nserpent god that led them.\nAnd it was also because the serpent god now had people who worshiped it that it stayed in the world it should have long fled,\nbreaking off the coral branches that adorned its body, treading upon land where it should not have,\nand facing a foe it could never hope to match — till at last, its divine form was sundered along with the mountains, its ichor turned into plasma,\nand its will and power became a curse that could never be extinguished: Tatarigami.",
+        "zh": "赋予武器突破之力的材料。\n「海祇」之名所背负的含义，归根到底只是曾栖身在深海中的弃民，对引领他们的蛇神一厢情愿的期许罢了。\n也正是因为有了仰望自己的子民，所以蛇神不得不留在本应逃离的世界里，折下身上的珊瑚枝，向自己不应涉足的土地入侵，与自己无法抗衡的敌手战斗，直到神体与山丘一同被斩断；\n直到鲜血化为电浆；\n直到思念与力量沦为永远无法消散的「祟神」。"
+      }
+    }
+  ],
+  "material_count": 4
+}

@@ -1,0 +1,104 @@
+{
+  "id": "of_the_far_north_scions_weapon_ascension",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/sundered_glory_of_the_far_north_scions.webp",
+  "title": {
+    "ru": "Растоптанная слава последователей крайнего севера / Упрямое заблуждение последователей крайнего севера / Подношение последователей крайнего севера / Златое сияние последователей крайнего севера",
+    "en": "Of The Far North Scions Weapon Ascension Materials",
+    "zh": "终北遗嗣的哀荣 / 终北遗嗣的迷顽 / 终北遗嗣的祷献 / 终北遗嗣的煌熠"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [
+    "Of The Far North Scions",
+    "материалы развития",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  },
+  "materials": [
+    {
+      "key": "sundered_glory_of_the_far_north_scions",
+      "title": {
+        "ru": "Растоптанная слава последователей крайнего севера",
+        "en": "Sundered Glory of the Far-North Scions",
+        "zh": "终北遗嗣的哀荣"
+      },
+      "icon": "assets/icons/items/development_materials/sundered_glory_of_the_far_north_scions.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nГоворят, задолго до того, как страна золота и белого камня ушла под воду, предки, поклонявшиеся луне,\nпод руководством звезды рассвета воздвигли башню, стремящуюся к небесам.\nПозже и самая сумасшедшая мечта - объединить жизнь и мир воедино, мечта, недостижимая даже для монарха, властвующего над всеми народами,\n- рухнула вместе с городом под гневом небес.\nОставшиеся без дома бежали на юг под угасающим светом Морозной Луны, рыдая и распевая гимны славе, принадлежавшей им тысячи лет назад.",
+        "en": "Weapon Ascension Material.\nIt is told that in the years before the country of gold and white stone sank,\nthe moon-worshipping ancestors were guided by the star of dawn to build a tower reaching to the heavens.\nLater on, the most transgressive of wild fantasies, one to unify life and the world into one,\none that even the monarch who ruled all nations on earth failed to achieve, was toppled along with the city in the wrath of the high heavens.\nThe homeless survivors fled to the south by the waning light of the Frostmoon, chanting in tears of a glory that belonged to them millennia ago.",
+        "zh": "赋予武器突破之力的材料。\n传说在黄金与白石之国尚未沉沦的年岁，崇月的先民曾在拂晓之星的引导下，筑起直抵天穹的高塔。\n后来，那最为僭越的狂想——即便是统领地上万国的君王也未能成就的、令生命与世界同构的狂想，在高天的震怒中与城邑一同倾覆。\n失乡的幸存者循着霜月的残光逃向南方，在泪中吟咏昔日的哀荣，那已是数千年前的故事了。"
+      }
+    },
+    {
+      "key": "unyielding_delusion_of_the_far_north_scions",
+      "title": {
+        "ru": "Упрямое заблуждение последователей крайнего севера",
+        "en": "Unyielding Delusion of the Far-North Scions",
+        "zh": "终北遗嗣的迷顽"
+      },
+      "icon": "assets/icons/items/development_materials/unyielding_delusion_of_the_far_north_scions.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nВеликого города из золота и белого камня больше не существовало. Под бледным светом луны изгнанники скитались по чужой пустоши.\nСлава и мощь прошлого исчезли, как утренняя роса, но древнее заблуждение по-прежнему струилось под кожей гордых потомков,\nв отличие от погребённых временем могил.\nПодобно земледельцам, выводящим новые сорта, старшие жрицы, служившие лунному свету, из поколения в поколение отбирали чистейшие крови,\nнаиболее близкие к прародителям, не считаясь с ценой...",
+        "en": "Weapon Ascension Material.\nThe grand city of gold and white stone was no more.\nFollowing the moonlight's pale guidance, its exiled inhabitants wandered to a desolate foreign land.\nThe glory and prowess of the past had dried up like morning dew, yet the earliest delusion still flowed beneath the skin of the proud,\nunlike the graves now lost to time.\nLike farmers breeding their crops, the Archpriestesses who served the moonlight, for generation after generation,\nselected the purest bloodlines closest to their progenitors, no matter the cost...",
+        "zh": "赋予武器突破之力的材料。\n黄金与白石的大城早已不复，循着月光苍冷的指引，流亡的遗民踏上了阴恶荒寒的异土。\n往日的荣光与神妙的技艺如晨露般枯涸，然而最初的妄执却依然流淌在顽傲者的肌肤下，未曾与衰朽的坟墓一同失却。\n侍奉月光的主祭者们像农人修剪地里的作物那般，世代相继地拣选着最接近原初的纯净血脉，无论要何人为此付出何种代偿…"
+      }
+    },
+    {
+      "key": "oblation_of_the_far_north_scions",
+      "title": {
+        "ru": "Подношение последователей крайнего севера",
+        "en": "Oblation of the Far-North Scions",
+        "zh": "终北遗嗣的祷献"
+      },
+      "icon": "assets/icons/items/development_materials/oblation_of_the_far_north_scions.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nКлинок, чистый как лунный свет, символизирует милосердие доброй руки.\nВо имя сострадания все существа возлагают надежды на завтрашний день.\nДаже те, кто стремится к целостности, ощущают благословение луны, струящееся под кожей.\nДаже самые скромные дары, накопленные вместе, приближают благочестивых наследников к грядущему раю.\nВсе грехи и злобные помыслы очищаются чистым лунным светом.\nВсе слёзы и страдания воспринимаются как необходимые жертвы.\nТак искренне верили те, кто поклонялся луне.",
+        "en": "Weapon Ascension Material.\nA blade as pure as moonlight is the compassion of a benevolent hand.\nIn the name of mercy, all beings offer hope for tomorrow.\nEven those looking to be made whole can feel the moonlight's pristine blessing flowing beneath their skin.\nEven the smallest blessings, accumulated, can guide the pious scions immersed in them closer to the coming Elysium.\nAll sins and wicked thoughts are cleansed by the pristine moonlight,\nall tears and suffering are necessary sacrifices — at least that is what the people who worship the moon once firmly believed.",
+        "zh": "赋予武器突破之力的材料。\n银白如清辉的锋刃是恩主的慈恻。\n以仁慈之名，众生皆得以向明日献上希望。\n即便是未能「完成」的残次品，肤下流淌的亦是月光无垢的祝福。\n即便是微不足道的祝福，铢积寸累，亦能让浸入其中的圣嗣更接近终将到来的「乐园」。\n一切罪愆与凶慝最终都会被无瑕的月光洗净，因此一切泪水与苦厄皆为必要的牺牲——至少崇月的人们曾如此坚信不疑。"
+      }
+    },
+    {
+      "key": "aureate_radiance_of_the_far_north_scions",
+      "title": {
+        "ru": "Златое сияние последователей крайнего севера",
+        "en": "Aureate Radiance of the Far-North Scions",
+        "zh": "终北遗嗣的煌熠"
+      },
+      "icon": "assets/icons/items/development_materials/aureate_radiance_of_the_far_north_scions.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nС безблагодатным рождением пророченного сына тысячелетний план привёл к мрачным сумеркам.\nЗамысел, рождённый хитростью, был разрушен глупым предательством.\nЮноша, которому суждено было стать королём, увёл с собой служанку и похитил сокровище, которое должно было принадлежать ему, лишь для того,\nчтобы отвергнуть венцы, уготованные ему судьбой.\nСо временем король, которому было суждено править раем, вошёл в историю как великий Вор.\nА когда истинное новолуние осветило землю, последняя золотая мечта крайнего севера уже была похоронена жрицей, что никогда не верила в богов,\nв пустой могиле своего короля.",
+        "en": "Weapon Ascension Material.\nWith the unblessed birth of the prophesied son, a millennia-long plan ushered in a bleak twilight.\nA scheme born of cunning was shattered by foolish betrayal.\nThe youth who was supposed to be king took the maid who was supposed to serve him and stole the secret treasure that was supposed to be his,\nonly to reject the crowns that fate had ordained for him.\nIn time, the king who was destined to rule Elysium went down in history as an unpardonable thief,\nand by the time the true new moon shone upon the land, the far north's final wish of golden grandeur had already been buried by a priestess,\nwho had never believed in any god, in the empty grave of her king.",
+        "zh": "赋予武器突破之力的材料。\n伴随着预言之子不受祝福的降生，千年的规划迎来了黯然的暮色。\n用尽心机的谋算因背叛的愚行轰然破碎，理应为王的少年带走本该服膺他的侍女，窃取本该属于他的秘宝，却只是将命运为他留存的冠冕悉数否决。\n后来，注定统治乐园的王以罪无可赦的大盗之名沦入历史，而真正的新月照临大地之时，终北之国辉煌如黄金的悲愿，也已经被从未信仰过任何神明的祭司，葬入了她的王空无一物的坟茔。"
+      }
+    }
+  ],
+  "material_count": 4
+}

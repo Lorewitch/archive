@@ -1,0 +1,90 @@
+{
+  "id": "diligence_talent_books",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/teachings_of_diligence.webp",
+  "title": {
+    "ru": "Учения об «Усердии» / Указания об «Усердии» / Философия об «Усердии»",
+    "en": "Diligence Talent Books",
+    "zh": "「勤劳」的教导 / 「勤劳」的指引 / 「勤劳」的哲学"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Diligence",
+    "материалы развития",
+    "Ли Юэ"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "teachings_of_diligence",
+      "title": {
+        "ru": "Учения об «Усердии»",
+        "en": "Teachings of Diligence",
+        "zh": "「勤劳」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/teachings_of_diligence.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nТрудолюбие - это фундамент царства земли.\nТрудолюбие - это покорение гор и морей, стремление к процветанию, золотой храбрости и власти честной, тяжелой работой.",
+        "en": "Talent Level-Up material.\nIndustriousness is the foundation of the land of Geo.\nDiligence is having the bravery and the strength to conquer mountains and seas and to pursue gold and prosperity through honest, hard work.",
+        "zh": "天赋培养素材。\n岩之国土的根基是勤劳。\n勤劳即为通过人的努力，克服高山与大海，追求繁荣与黄金的勇气与力量。"
+      }
+    },
+    {
+      "key": "guide_to_diligence",
+      "title": {
+        "ru": "Указания об «Усердии»",
+        "en": "Guide to Diligence",
+        "zh": "「勤劳」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/guide_to_diligence.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nТрудолюбие - это фундамент царства земли.\nТрудолюбие - это катализатор, который течёт в крови народа Ли Юэ, способный превращать камень в золото. Это то, что придаёт величие торговому порту.",
+        "en": "Talent Level-Up material.\nIndustriousness is the foundation of the land of Geo.\nIndustriousness is the catalyst that flows in the blood of the people of Liyue, able to turn rocks into gold.\nIt is what lies behind the greatness of its great commercial port.",
+        "zh": "天赋培养素材。\n岩之国土的根基是勤劳。\n勤劳是流传在璃月人血脉中的催化剂，能将岩石化为黄金，是伟大商港之所以为伟大商港的原因。"
+      }
+    },
+    {
+      "key": "philosophies_of_diligence",
+      "title": {
+        "ru": "Философия об «Усердии»",
+        "en": "Philosophies of Diligence",
+        "zh": "「勤劳」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/philosophies_of_diligence.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nТрудолюбие - это фундамент царства земли.\nТрудолюбие - это вера в свою способность заработать место в царстве богов потом, мудростью и силой.",
+        "en": "Talent Level-Up material.\nIndustriousness is the foundation of the land of Geo.\nIndustriousness is believing in one's own ability to earn a place in the land of the gods through sweat, wisdom, and power.",
+        "zh": "天赋培养素材。\n岩之国土的根基是勤劳。\n勤劳即为相信自己，即为相信通过汗水、智慧与力量，在诸神的土地上，人人都可以拥有自己的一席之地。"
+      }
+    }
+  ],
+  "material_count": 3
+}

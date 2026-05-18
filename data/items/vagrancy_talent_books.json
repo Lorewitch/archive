@@ -1,0 +1,90 @@
+{
+  "id": "vagrancy_talent_books",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/teachings_of_vagrancy.webp",
+  "title": {
+    "ru": "Учения о «Скитании» / Указания о «Скитании» / Философия о «Скитании»",
+    "en": "Vagrancy Talent Books",
+    "zh": "「浪迹」的教导 / 「浪迹」的指引 / 「浪迹」的哲学"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [
+    "Vagrancy",
+    "материалы развития",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "teachings_of_vagrancy",
+      "title": {
+        "ru": "Учения о «Скитании»",
+        "en": "Teachings of Vagrancy",
+        "zh": "「浪迹」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/teachings_of_vagrancy.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nСкитание - это жизнь под лунным небом.\nНасладись мгновением покоя и отправляйся в путь до того, как небо потемнеет. Рассвет - это не конец, а начало нового путешествия.",
+        "en": "Talent Level-Up material.\n\"Vagrancy\" is the living of the land beneath the moon.\nEnjoy a moment's respite, then depart before the sky turns black. Dawn is not the end, but the beginning of another journey.",
+        "zh": "天赋培养素材。\n「浪迹」是月下之地的生活。\n安享短暂的休整，于黑夜到来前启程。\n黎明并非终点，而是另一次旅途的开幕。"
+      }
+    },
+    {
+      "key": "guide_to_vagrancy",
+      "title": {
+        "ru": "Указания о «Скитании»",
+        "en": "Guide to Vagrancy",
+        "zh": "「浪迹」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/guide_to_vagrancy.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nСкитание - это жизнь под лунным небом.\nЖить - значит странствовать, ведь никому не суждено остаться в этом мире навсегда. Запоминается не момент прибытия, а следы, что мы оставляем на пути.",
+        "en": "Talent Level-Up material.\n\"Vagrancy\" is the living of the land beneath the moon.\nTo live is to wander, for none of us can settle in this world.\nWhat is remembered is not the moment of arrival, but the footprints that we leave along the way.",
+        "zh": "天赋培养素材。\n「浪迹」是月下之地的生活。\n生命与流浪本身并无差别，无人在世间永远驻留，不过是暂作停歇。\n值得纪念的不是抵达终点的时刻，而是沿途留下的足迹。"
+      }
+    },
+    {
+      "key": "philosophies_of_vagrancy",
+      "title": {
+        "ru": "Философия о «Скитании»",
+        "en": "Philosophies of Vagrancy",
+        "zh": "「浪迹」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/philosophies_of_vagrancy.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nСкитание - это жизнь под лунным небом.\nСквозь гром и бурю, через горы и снежные поля, даже израненный и уставший, странник не останавливается.\nОн будет идти, пока не найдёт место, которое сможет назвать домом.",
+        "en": "Talent Level-Up material.\n\"Vagrancy\" is the living of the land beneath the moon.\nThrough thunder and storms, across mountains and snowfields, though scarred and weary,\nthe wanderer does not stop — nor will they till they find a place to call home.",
+        "zh": "天赋培养素材。\n「浪迹」是月下之地的生活。\n穿越雷霆与风暴，跨过山峦和雪原，即便遍体鳞伤，也绝不就此驻足。\n浪迹之人之所以还没有停下脚步，是因为他们还没有找到可以称之为「家」的地方。"
+      }
+    }
+  ],
+  "material_count": 3
+}

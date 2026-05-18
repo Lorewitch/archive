@@ -1,0 +1,104 @@
+{
+  "id": "of_an_ancient_chord_weapon_ascension",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/fragment_of_an_ancient_chord.webp",
+  "title": {
+    "ru": "Фрагмент отзвука древней струны / Незаконченный отзвук древней струны / Песнь отзвука древней струны / Эхо отзвука древней струны",
+    "en": "Of An Ancient Chord Weapon Ascension Materials",
+    "zh": "悠古弦音的残章 / 悠古弦音的断章 / 悠古弦音的乐章 / 悠古弦音的回响"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.0",
+  "tags": [
+    "Of An Ancient Chord",
+    "материалы развития",
+    "Фонтейн"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  },
+  "materials": [
+    {
+      "key": "fragment_of_an_ancient_chord",
+      "title": {
+        "ru": "Фрагмент отзвука древней струны",
+        "en": "Fragment of an Ancient Chord",
+        "zh": "悠古弦音的残章"
+      },
+      "icon": "assets/icons/items/development_materials/fragment_of_an_ancient_chord.webp",
+      "text": {
+        "ru": "Прогнившая лира. Голос её заглох, на ней нельзя ни играть, ни слышать её звучания.\nГоворят, что потомки забытой музыки когда-то покрыли механическую деревянную лиру золотом, чтобы возродить великолепные остатки древней династии,\nтщетно пытаясь сопоставить её с молчаливыми големами...\nПрошло много лет, потом ещё больше, а испорченная лира так и осталась в руках безмолвного великана, ласкаемая волнами,\nисполняя лишь печальную мелодию.",
+        "en": "A harp with rotten keys. Its voice blocked, it cannot be played nor its sound heard.\nIt is said the descendants of the forgotten music once lacquered mechanical wooden harps with gold in order to revive the magnificent remnants of the ancient dynasty,\nfutilely attempting to match them to the silent golems...\nA long time passed, and then more, and the rotten, off-key harps remained in the grasp of those silent giants, caressed by the waves,\nplaying only sorrowful strains.",
+        "zh": "琴键已然腐朽的竖琴，其音腔被阻塞，已经无法奏出声响。\n据说，遗忘乐章的后人为复活古老王朝的华丽残迹，曾在木制的机械竖琴上涂刷金漆，徒劳地将之与无言的魔像相配…\n很久很久以后，腐朽走调的竖琴仍旧留在那些沉默的巨像手中，任海浪抚摩，奏出忧伤的余音。"
+      }
+    },
+    {
+      "key": "chapter_of_an_ancient_chord",
+      "title": {
+        "ru": "Незаконченный отзвук древней струны",
+        "en": "Chapter of an Ancient Chord",
+        "zh": "悠古弦音的断章"
+      },
+      "icon": "assets/icons/items/development_materials/chapter_of_an_ancient_chord.webp",
+      "text": {
+        "ru": "Легенды гласят, что оставшиеся в живых представители древней династии однажды отлили из чёрного железа лиру, чтобы отдать дань памяти и скорби.\nИграть на лире из чёрного железа невозможно.\nВ память о той древней династии, которая когда-то так гордилась своей золотой музыкой,\nвыжившие выковали этот тяжёлый инструмент и его не менее тягостное молчание.\nИ по сей день лира из чёрного железа остаётся столь же безмолвной, как и та ушедшая эпоха.",
+        "en": "Legends say that the survivors of that ancient dynasty once cast a harp out of black iron to commemorate and mourn.\nA harp cast of black iron cannot be played.\nTo mourn that ancient dynasty that was once so proud of its golden music, those remaining forged this heavy instrument and its yet weightier silence.\nBut no matter what, the black iron harp remained as silent as that lost era.",
+        "zh": "传说古老王朝的遗民曾以黑铁铸成竖琴，用于纪念与哀悼。\n黑铁所铸成的竖琴，是奏不出声音的。\n为了哀悼那个以金色乐曲为傲的古老王朝，遗民们打造了这些沉重而沉默的乐器。\n但无论如何，正如那沉默的时代一般，黑铁是奏不出音调的。"
+      }
+    },
+    {
+      "key": "movement_of_an_ancient_chord",
+      "title": {
+        "ru": "Песнь отзвука древней струны",
+        "en": "Movement of an Ancient Chord",
+        "zh": "悠古弦音的乐章"
+      },
+      "icon": "assets/icons/items/development_materials/movement_of_an_ancient_chord.webp",
+      "text": {
+        "ru": "В той великой катастрофе золотой дворец утонул вместе с престолом, музыка разбилась вдребезги, ноты превратились в тишину...\nНо выжившие жители той империи никогда не отказывались от своего стремления спастись и превзойти судьбу.\nДабы сберечь свою угасающую цивилизацию и давнюю мечту о трансцендентности, «Золотая труппа» исполняла чарующие мелодии, завлекая детей,\nчтобы они отдали свои драгоценные души спящим големам.",
+        "en": "In that great disaster, the golden palace sank with its throne, the music was shattered, the notes turned to silence...\nBut the remnants of that empire never gave up their desire for salvation and to surpass fate.\nTo save their waning civilization and their desire to transcend, the Golden Troupe played melodies most wondrous,\nenticing children to offer their precious souls to the sleeping golems.",
+        "zh": "在黄金宫殿与王座同沉的灾难中，乐章破碎，音符沉默…\n但帝国的遗民从未放弃拯救与超越命运的执望。\n为了拯救没落的文明与超越的旧梦，「金色剧团」奏响美妙的乐曲，指引孩童向沉睡的魔像献出高贵灵魂。"
+      }
+    },
+    {
+      "key": "echo_of_an_ancient_chord",
+      "title": {
+        "ru": "Эхо отзвука древней струны",
+        "en": "Echo of an Ancient Chord",
+        "zh": "悠古弦音的回响"
+      },
+      "icon": "assets/icons/items/development_materials/echo_of_an_ancient_chord.webp",
+      "text": {
+        "ru": "Большая симфония Царя богов состоит из бесчисленных мелодий, связанных между собой, но её основной смысл подчинён общей судьбе водной нации.\nСонаты и гармонии тех беззаботных лет когда-то были величайшим олицетворением цивилизации и порядка,\nно когда процветающая империя превратилась в площадку для игрищ тиранов, жестокие деспоты под покровом золотых плащей разорвали связь с истоками,\nи раздор окончательно охватил империю...\nИсконная песнь судьбы продолжала звучать на партитуре немеркнущего золота, не давая покоя никому... пока всё не растворилось,\nи всё не погрузилось в хаос.",
+        "en": "The God King's Grand Symphony is composed of countless melodies linked together,\nbut its main thesis is submerged under the common destiny of the Water Nation.\nThe harmonies of those carefree years and sonatas were once the greatest representation of civilization and order,\nbut when the prosperous empire descended into a playground for tyrants,\nthe brutal despots tore the connection with the source asunder under the cover of golden cloaks, and discord finally swarmed through the empire—\nThe original song of fate continued to ring out on a score of fading gold, unperturbed by all... until all was dissolved, and all returned to chaos.",
+        "zh": "神王的宏大乐章由无数曲调连缀而成，但其主调深潜于水国的共同命运之下。\n无虑之年的协和奏鸣曲曾是文明与秩序的最高代表，但当盛世帝国沦为暴君的乐园，横暴者以华丽的黄金大氅为遮掩撕裂着与源泉的联系，不和谐的噪音终于在帝国各处蜂起扰攘之时——\n那最初的命运之曲仍不受骚乱的影响，在黄金日渐褪色的乐谱上持续奏响着…直至一切皆被溶解，一切重回混沌。"
+      }
+    }
+  ],
+  "material_count": 4
+}

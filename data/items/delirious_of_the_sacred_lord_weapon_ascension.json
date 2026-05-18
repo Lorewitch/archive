@@ -1,0 +1,104 @@
+{
+  "id": "delirious_of_the_sacred_lord_weapon_ascension",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/delirious_decadence_of_the_sacred_lord.webp",
+  "title": {
+    "ru": "Безумный декаданс Святого Мудреца / Безумное опустошение Святого Мудреца / Безумный облик Святого Мудреца / Безумная духовность Святого Мудреца",
+    "en": "Delirious Of The Sacred Lord Weapon Ascension Materials",
+    "zh": "谵妄圣主的朽败 / 谵妄圣主的余哀 / 谵妄圣主的容光 / 谵妄圣主的神面"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [
+    "Delirious Of The Sacred Lord",
+    "материалы развития",
+    "Натлан"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  },
+  "materials": [
+    {
+      "key": "delirious_decadence_of_the_sacred_lord",
+      "title": {
+        "ru": "Безумный декаданс Святого Мудреца",
+        "en": "Delirious Decadence of the Sacred Lord",
+        "zh": "谵妄圣主的朽败"
+      },
+      "icon": "assets/icons/items/development_materials/delirious_decadence_of_the_sacred_lord.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nГоворят, что загадочный вдохновитель, позже ставший известным как Святой Мудрец запретного города, был когда-то заключён в тюрьму.\nПервый человек, достигший возвышения, проявил к нему великое милосердие.\nКогда он вышел из-под защиты когда-то великого народа, он был принят своим прежним племенем.\nС тех пор он скрывает своё лицо под маской, пряча золотые узоры. Все свои силы он отдаёт служению мастеру, которому дал клятву.",
+        "en": "Weapon Ascension Material.\nIt is said that the controversial mastermind who later came to be known as the Sacred Lord of the ineffable city was once imprisoned.\nThe first human to ascend, who at the time had not yet attained divine form, showed him great compassion.\nThus, after emerging from the mighty wing-shadows of a once-great race, he was accepted by the tribe who had once been his.\nSince then, he has concealed his true visage beneath a mask, hiding the golden patterns that mark it,\nand resolved to offer up everything to the master who holds his vow.",
+        "zh": "赋予武器突破之力的材料。\n据说后来被称为禁城圣主的备受争议的谋主曾一度受到拘禁，而最初的人神，但当时并未具备神体的那位，向他展露了宽阔的胸怀。\n于是原本属于他的族群接纳了他，自他从一度伟大的种族巨大翅膀的阴影中走出之后。\n那以后，他将文有金纹的真容藏在面具之下，决定为那个掌握了他誓言的主人献出一切。"
+      }
+    },
+    {
+      "key": "delirious_desolation_of_the_sacred_lord",
+      "title": {
+        "ru": "Безумное опустошение Святого Мудреца",
+        "en": "Delirious Desolation of the Sacred Lord",
+        "zh": "谵妄圣主的余哀"
+      },
+      "icon": "assets/icons/items/development_materials/delirious_desolation_of_the_sacred_lord.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nВо время войны с драконами тот самый мудрец, скрывавший своё лицо под маской,\nпомогал воинам расшифровывать золотые узоры на древних нечеловеческих руинах.\nЭти знания давно утрачены.\nОн выучил язык и научился мыслить как враги. Возможно, использование этих навыков против них приносило ему глубокое удовлетворение.\nОднако его очевидная ненависть к врагам беспокоила его соратников.",
+        "en": "Weapon Ascension Material.\nDuring the war with the dragons,\nthat mastermind of all the tribes — the same one who had hidden his face behind a mask — deciphered the golden patterns on the non-human ruins for the\nwarriors.\nThe knowledge with which he did so is now long lost.\nIt was from their enemies that he learned the language and thought patterns required to do this.\nFor him, wielding these skills against them was perhaps a deeply satisfying act of revenge.\nYet his unconcealed hatred for them was a recurring cause of great concern among his fellow heroes.",
+        "zh": "赋予武器突破之力的材料。\n在与巨龙进行战争之时，众部族的谋主，那位以面具掩藏起面目者，为部族的战士们解读非人遗迹上金色纹路的信息，那是在现今早已失落的技巧。\n这语言与思想由自己的敌人所授予，或许对谋主来说，站在相对的立场驱使它们是相当快意的复仇之事吧。\n只是他那份毫不掩饰的恨意，偶尔也会换来同行英杰们的深深担忧。"
+      }
+    },
+    {
+      "key": "delirious_demeanor_of_the_sacred_lord",
+      "title": {
+        "ru": "Безумный облик Святого Мудреца",
+        "en": "Delirious Demeanor of the Sacred Lord",
+        "zh": "谵妄圣主的容光"
+      },
+      "icon": "assets/icons/items/development_materials/delirious_demeanor_of_the_sacred_lord.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nИменно в ту эпоху первый человек, достигший возвышения, оставил трон и вошёл в Священное пламя, когда смертный мир ожидал преемника.\nВ это же время загадочный вдохновитель взял всю власть в свои руки.\nК несчастью, самопровозглашённый Святой Мудрец решил, что бог, которого он любил и ради которого проливал золотые слёзы,\nдолжен остаться без преемника.\nОн превысил свои полномочия, ставя свои эгоистичные желания выше заповедей почитаемого бога, создав город, где небо и земля были разделены.",
+        "en": "Weapon Ascension Material.\nIt was in that era that the first human to ascend arose from the throne to enter the Sacred Flame,\nwhile the mortal world awaited the arrival of their successor.\nIt was also the era that the mastermind took up the reins of all authority in their stead.\nUnfortunately, this self-proclaimed Sacred Lord,\nthis usurper who believed that the god he had loved and shed golden tears for should forever remain the one and only — overstepped his authority.\nPlacing selfish desire above the commandments left by that revered god,\nhe established a city in which the heavens and the earth were separated from one another.",
+        "zh": "赋予武器突破之力的材料。\n那是端居在王座的，最初的人神走入了圣火，而凡俗的世界等待着王厅继任者的时代。\n也是谋主代执一切权柄的时代。\n可惜自称圣主的，这位认为他所爱的、他愿意为之垂下金泪的神应该永远只有那一位的僭越者，将私心凌驾于敬爱之神留下的诫言，建立了地天隔绝的城邑。"
+      }
+    },
+    {
+      "key": "delirious_divinity_of_the_sacred_lord",
+      "title": {
+        "ru": "Безумная духовность Святого Мудреца",
+        "en": "Delirious Divinity of the Sacred Lord",
+        "zh": "谵妄圣主的神面"
+      },
+      "icon": "assets/icons/items/development_materials/delirious_divinity_of_the_sacred_lord.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nСвятой Мудрец запретного города часто бормотал во сне на нечеловеческих языках.\nА когда смотрелся в зеркало, замечал, что его единственный видимый сквозь маску зрачок постепенно становился вертикальным.\nЭто только усиливало его ненависть к драконам.\nГоворят, когда юноша с алыми глазами сжигал этот город, погружённый в тень, он увидел перед королевским залом безумца.\nВ ярости тот словно рвал своё лицо, срывая божественный облик и обнажая зловещие драконьи раны.\nПоглощённая золотым пламенем, изуродованная фигура этого безумца рухнула с высоты в чёрную трясину внизу.\nПокинутый всеми, он встретил свою трагическую судьбу.",
+        "en": "Weapon Ascension Material.\nThe Sacred Lord of the ineffable city often murmured non-human languages in his dreams, and when he beheld himself in the mirror,\nhe saw how the single pupil that was visible through his mask was gradually becoming bertical.\nThis only served to further fuel his growing hatred for the dragons.\nIt is said that when the scarlet-eyed youth burned down that city above a city, submerged in shadow as it was,\nhe witnessed a half-human figure before the royal hall who had been driven mad.\nAs if tearing off its very face, it ripped away at its indelible divine visage, revealing gaping holes that were fearsomely draconic.\nConsumed by the golden flames it spewed, the disfigured form of that deranged soul fell from a great height into the pitch-black mire below.\nForsaken by all, thus was the tragic end that this delusional outcast is said to have met.",
+        "zh": "赋予武器突破之力的材料。\n禁城的圣主经常在梦中呓语中叙说非人的语言，并在镜中，面具唯一能露出的眼睛中看到逐渐竖立的瞳孔，而这也是他愈加厌恶龙众的原因。\n传说在赤瞳的少年用火焚烧那被幽影淹没的城上之城时，曾看到王厅前，陷入疯狂的半人如揭下脸皮一般撕下无法脱去的神面，露出犹如巨龙一般的狰狞窍孔。\n癫狂之人口中喷吐的金焰熔化了自己，失形的魂魄自高处沉入了漆黑的泥沼之中，而据说，这就是这位众叛亲离的谵妄者可悲的结局。"
+      }
+    }
+  ],
+  "material_count": 4
+}

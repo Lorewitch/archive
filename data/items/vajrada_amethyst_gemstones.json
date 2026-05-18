@@ -1,0 +1,110 @@
+{
+  "id": "vajrada_amethyst_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/vajrada_amethyst_sliver.webp",
+  "title": {
+    "ru": "Осколок аметиста Ваджрада / Фрагмент аметиста Ваджрада / Кусок аметиста Ваджрада / Драгоценный аметист Ваджрада",
+    "en": "Vajrada Amethyst Gemstones",
+    "zh": "最胜紫晶碎屑 / 最胜紫晶断片 / 最胜紫晶块 / 最胜紫晶"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Vajrada Amethyst",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "vajrada_amethyst_sliver",
+      "title": {
+        "ru": "Осколок аметиста Ваджрада",
+        "en": "Vajrada Amethyst Sliver",
+        "zh": "最胜紫晶碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/vajrada_amethyst_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.",
+        "en": "Character Ascension Material.",
+        "zh": "角色突破素材。"
+      }
+    },
+    {
+      "key": "vajrada_amethyst_fragment",
+      "title": {
+        "ru": "Фрагмент аметиста Ваджрада",
+        "en": "Vajrada Amethyst Fragment",
+        "zh": "最胜紫晶断片"
+      },
+      "icon": "assets/icons/items/development_materials/vajrada_amethyst_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Это тело самое благородное и выдающееся из всех в этом мире».",
+        "en": "Character Ascension material.\n\"This body is the noblest and most eminent of all in this world.\"",
+        "zh": "角色突破素材。\n「此身即是尘世最为殊胜尊贵之身。」"
+      }
+    },
+    {
+      "key": "vajrada_amethyst_chunk",
+      "title": {
+        "ru": "Кусок аметиста Ваджрада",
+        "en": "Vajrada Amethyst Chunk",
+        "zh": "最胜紫晶块"
+      },
+      "icon": "assets/icons/items/development_materials/vajrada_amethyst_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Это тело самое благородное и выдающееся из всех в этом мире.\nОно непременно должно властвовать над этим миром».",
+        "en": "Character Ascension material.\n\"This body is the noblest and most eminent of all in this world.\nIt should hold absolute control over this world.\"",
+        "zh": "角色突破素材。\n「此身即是尘世最为殊胜尊贵之身。\n「应持天下之大权。」"
+      }
+    },
+    {
+      "key": "vajrada_amethyst_gemstone",
+      "title": {
+        "ru": "Драгоценный аметист Ваджрада",
+        "en": "Vajrada Amethyst Gemstone",
+        "zh": "最胜紫晶"
+      },
+      "icon": "assets/icons/items/development_materials/vajrada_amethyst_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Это тело самое благородное и выдающееся из всех в этом мире.\nОно непременно должно властвовать над этим миром.\nОднажды оно пообещало осуществить мечту народа - неизменную \"вечность\"».",
+        "en": "Character Ascension material.\n\"This body is the noblest and most eminent of all in this world.\n\"It should hold absolute control over this world.\n\"It once promised its people a dream: the never-changing 'eternity.'\"",
+        "zh": "角色突破素材。\n「此身即是尘世最为殊胜尊贵之身。\n「应持天下之大权。\n「此身曾许诺予臣民一梦，既是千世万代不变不移的『永恒』。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

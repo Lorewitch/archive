@@ -1,0 +1,110 @@
+{
+  "id": "vayuda_turquoise_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/vayuda_turquoise_sliver.webp",
+  "title": {
+    "ru": "Осколок бирюзы Вайюда / Фрагмент бирюзы Вайюда / Кусок бирюзы Вайюда / Драгоценная бирюза Вайюда",
+    "en": "Vayuda Turquoise Gemstones",
+    "zh": "自在松石碎屑 / 自在松石断片 / 自在松石块 / 自在松石"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Vayuda Turquoise",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "vayuda_turquoise_sliver",
+      "title": {
+        "ru": "Осколок бирюзы Вайюда",
+        "en": "Vayuda Turquoise Sliver",
+        "zh": "自在松石碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/vayuda_turquoise_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.",
+        "en": "Character Ascension Material.",
+        "zh": "角色突破素材。"
+      }
+    },
+    {
+      "key": "vayuda_turquoise_fragment",
+      "title": {
+        "ru": "Фрагмент бирюзы Вайюда",
+        "en": "Vayuda Turquoise Fragment",
+        "zh": "自在松石断片"
+      },
+      "icon": "assets/icons/items/development_materials/vayuda_turquoise_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Ветра могут поменять направление».",
+        "en": "Character Ascension material.\n\"Still, the winds change direction.\"",
+        "zh": "角色突破素材。\n「但风向是会转变的。」"
+      }
+    },
+    {
+      "key": "vayuda_turquoise_chunk",
+      "title": {
+        "ru": "Кусок бирюзы Вайюда",
+        "en": "Vayuda Turquoise Chunk",
+        "zh": "自在松石块"
+      },
+      "icon": "assets/icons/items/development_materials/vayuda_turquoise_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Ветра могут поменять направление».\n«Когда-нибудь они будут дуть в сторону лучшего будущего...»",
+        "en": "Character Ascension material.\n\"Still, the winds change direction.\nSomeday, they will blow towards a brighter future...\"",
+        "zh": "角色突破素材。\n「但风向是会转变的。\n「终有一天，会吹向更有光亮的方向。」"
+      }
+    },
+    {
+      "key": "vayuda_turquoise_gemstone",
+      "title": {
+        "ru": "Драгоценная бирюза Вайюда",
+        "en": "Vayuda Turquoise Gemstone",
+        "zh": "自在松石"
+      },
+      "icon": "assets/icons/items/development_materials/vayuda_turquoise_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Ветра могут поменять направление».\n«Когда-нибудь они будут дуть в сторону лучшего будущего...»\n«Прими мои благословения и живи свободно!»",
+        "en": "Character Ascension material.\n\"Still, the winds change direction.\n\"Someday, they will blow towards a brighter future...\n\"Take my blessings and live leisurely from this day onward.\"",
+        "zh": "角色突破素材。\n「但风向是会转变的。\n「终有一天，会吹向更有光亮的方向。\n「从今往后，带着我的祝福，活得更加从容一些吧。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

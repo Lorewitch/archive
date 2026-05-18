@@ -1,0 +1,90 @@
+{
+  "id": "gold_talent_books",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/teachings_of_gold.webp",
+  "title": {
+    "ru": "Учения о «Золоте» / Указания о «Золоте» / Философия о «Золоте»",
+    "en": "Gold Talent Books",
+    "zh": "「黄金」的教导 / 「黄金」的指引 / 「黄金」的哲学"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Gold",
+    "материалы развития",
+    "Ли Юэ"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "teachings_of_gold",
+      "title": {
+        "ru": "Учения о «Золоте»",
+        "en": "Teachings of Gold",
+        "zh": "「黄金」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/teachings_of_gold.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nЗолото - это символ царства земли.\nЗолото - это кровь, текущая глубоко под землёй Ли Юэ, это мышцы, которые сокращают сердце Ли Юэ, это кости,\nкоторые заставляют Ли Юэ гордо стоять на ногах.",
+        "en": "Talent Level-Up material.\nGold is the symbol of the land of Geo.\nGold is the blood that flows deep within Liyue's veins, the muscle that makes up Liyue's beating heart, and the bones that make Liyue stand proud.",
+        "zh": "天赋培养素材。\n岩之国土的象征是黄金。\n黄金是流淌在璃月土地深处的血液，是鼓动璃月的心脏有力搏动的肌肉，是让璃月傲然挺立的筋骨。"
+      }
+    },
+    {
+      "key": "guide_to_gold",
+      "title": {
+        "ru": "Указания о «Золоте»",
+        "en": "Guide to Gold",
+        "zh": "「黄金」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/guide_to_gold.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nЗолото - это символ царства земли.\nЗолото символизирует преобразование.\nЭто негласное взаимопонимание между горами, землёй, городом Ли Юэ и его народом.\nВ Ли Юэ трудолюбие превращается в золото, а золото - в процветание.",
+        "en": "Talent Level-Up material.\nGold is the symbol of the land of Geo.\nGold symbolizes conversion.\nThis is the unspoken understanding between Liyue's mountains, land, city, and people.\nIn Liyue, industriousness is converted into gold, and gold into prosperity.",
+        "zh": "天赋培养素材。\n岩之国土的象征是黄金。\n黄金意味着转换，这是璃月的岩山、大地、港城与人们的默契。\n在璃月，勤劳被转换为黄金，而黄金被转换为繁荣。"
+      }
+    },
+    {
+      "key": "philosophies_of_gold",
+      "title": {
+        "ru": "Философия о «Золоте»",
+        "en": "Philosophies of Gold",
+        "zh": "「黄金」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/philosophies_of_gold.webp",
+      "text": {
+        "ru": "Материал повышения таланта.\nЗолото - это символ царства земли.\nЗолото - это богатство Ли Юэ, но истинное богатство Ли Юэ - это сердца его народа, которые сияют ярче золота.",
+        "en": "Talent Level-Up material.\nGold is the symbol of the land of Geo.\nGold is the wealth of Liyue, but Liyue's true wealth is the hearts of its people that shine like gold.",
+        "zh": "天赋培养素材。\n岩之国土的象征是黄金。\n黄金是璃月的财富。\n但璃月真正的财富，是璃月的人们那如黄金般闪耀的心灵。"
+      }
+    }
+  ],
+  "material_count": 3
+}

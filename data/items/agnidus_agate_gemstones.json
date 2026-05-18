@@ -1,0 +1,110 @@
+{
+  "id": "agnidus_agate_gemstones",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/agnidus_agate_sliver.webp",
+  "title": {
+    "ru": "Осколок агата Агнидус / Фрагмент агата Агнидус / Кусок агата Агнидус / Драгоценный агат Агнидус",
+    "en": "Agnidus Agate Gemstones",
+    "zh": "燃愿玛瑙碎屑 / 燃愿玛瑙断片 / 燃愿玛瑙块 / 燃愿玛瑙"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Agnidus Agate",
+    "материалы развития",
+    "Мондштадт",
+    "Ли Юэ",
+    "Инадзума",
+    "Сумеру",
+    "Фонтейн",
+    "Натлан",
+    "Нод-Край"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "character_ascension",
+  "material_type_title": {
+    "ru": "Возвышение персонажа",
+    "en": "Character Ascension",
+    "zh": "角色突破"
+  },
+  "materials": [
+    {
+      "key": "agnidus_agate_sliver",
+      "title": {
+        "ru": "Осколок агата Агнидус",
+        "en": "Agnidus Agate Sliver",
+        "zh": "燃愿玛瑙碎屑"
+      },
+      "icon": "assets/icons/items/development_materials/agnidus_agate_sliver.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.",
+        "en": "Character Ascension Material.",
+        "zh": "角色突破素材。"
+      }
+    },
+    {
+      "key": "agnidus_agate_fragment",
+      "title": {
+        "ru": "Фрагмент агата Агнидус",
+        "en": "Agnidus Agate Fragment",
+        "zh": "燃愿玛瑙断片"
+      },
+      "icon": "assets/icons/items/development_materials/agnidus_agate_fragment.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Паломничество за желанием, битва за имя...»",
+        "en": "Character Ascension material.\n\"A pilgrimage for a wish; a battle to earn a name...\"",
+        "zh": "角色突破素材。\n「为了愿望而步上巡礼，为了最强之名而云聚争斗…」"
+      }
+    },
+    {
+      "key": "agnidus_agate_chunk",
+      "title": {
+        "ru": "Кусок агата Агнидус",
+        "en": "Agnidus Agate Chunk",
+        "zh": "燃愿玛瑙块"
+      },
+      "icon": "assets/icons/items/development_materials/agnidus_agate_chunk.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Паломничество за желанием, битва за имя...\nСгоревшие дотла за мечту».",
+        "en": "Character Ascension material.\n\"A pilgrimage for a wish; a battle to earn a name...\nBurnt to cinders for a dream.\"",
+        "zh": "角色突破素材。\n「为了愿望而步上巡礼，为了最强之名而云聚争斗…\n「最后为了梦在劫火中燃尽。」"
+      }
+    },
+    {
+      "key": "agnidus_agate_gemstone",
+      "title": {
+        "ru": "Драгоценный агат Агнидус",
+        "en": "Agnidus Agate Gemstone",
+        "zh": "燃愿玛瑙"
+      },
+      "icon": "assets/icons/items/development_materials/agnidus_agate_gemstone.webp",
+      "text": {
+        "ru": "Материал возвышения персонажа.\n«Паломничество за желанием, битва за имя...\nСгоревшие дотла за мечту.\nНамерения никуда не делись, и он добился истины ██».",
+        "en": "Character Ascension material.\n\"A pilgrimage for a wish; a battle to earn a name...\nBurnt to cinders for a dream.\nIf the intention yet remains, achieved ██'s truth he has.\"",
+        "zh": "角色突破素材。\n「为了愿望而步上巡礼，为了最强之名而云聚争斗…\n「最后为了梦在劫火中燃尽。\n「灰烬中如果留下了最初的心，那他就达成了██的真实。」"
+      }
+    }
+  ],
+  "material_count": 4
+}

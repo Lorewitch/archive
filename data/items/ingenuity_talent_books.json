@@ -1,0 +1,90 @@
+{
+  "id": "ingenuity_talent_books",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/teachings_of_ingenuity.webp",
+  "title": {
+    "ru": "Учения об «Остроумии» / Указания об «Остроумии» / Философия об «Остроумии»",
+    "en": "Ingenuity Talent Books",
+    "zh": "「巧思」的教导 / 「巧思」的指引 / 「巧思」的哲学"
+  },
+  "region": "Сумеру",
+  "rarity": null,
+  "game_version": "3.0",
+  "tags": [
+    "Ingenuity",
+    "материалы развития",
+    "Сумеру"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "talents",
+  "material_type_title": {
+    "ru": "Таланты",
+    "en": "Talents",
+    "zh": "天赋"
+  },
+  "materials": [
+    {
+      "key": "teachings_of_ingenuity",
+      "title": {
+        "ru": "Учения об «Остроумии»",
+        "en": "Teachings of Ingenuity",
+        "zh": "「巧思」的教导"
+      },
+      "icon": "assets/icons/items/development_materials/teachings_of_ingenuity.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nОстроумие – прожилки листьев страны мудрости.\nОстроумие рождается из доброй воли.\nГоворят, что ядовитое дерево не приносит добрых плодов.\nТак и гениальные идеи рождаются лишь в решительных и благожелательных умах, ибо лишь они достойны быть носителями мудрости.",
+        "en": "Talent Level-Up material.\nIngenuity is the leaf-veins of the nation of wisdom.\nIngenuity springs forth from benevolent consideration.\nThey say that \"a poisonous tree bears no kind fruit.\" Similarly, ingenious nascent ideas are always born from determined and benign minds,\nfor only they are worthy bearers of wisdom.",
+        "zh": "天赋培养素材。\n「巧思」是智慧之国的叶脉。\n巧思生自良善的意旨。\n所谓「毒树不结善果」，良善坚定的意念才能孕育巧妙周到的思谋，方不玷污智慧之名。"
+      }
+    },
+    {
+      "key": "guide_to_ingenuity",
+      "title": {
+        "ru": "Указания об «Остроумии»",
+        "en": "Guide to Ingenuity",
+        "zh": "「巧思」的指引"
+      },
+      "icon": "assets/icons/items/development_materials/guide_to_ingenuity.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nОстроумие – прожилки листьев страны мудрости.\nОстроумие направляет верные речи.\nТот, кто думает ясно и со тщанием, никогда не отклоняется от пути благодеяний.\nСлова же того, кто мыслит с нерадивостью и злобой, звучат презренно.",
+        "en": "Talent Level-Up material.\nIngenuity is the leaf-veins of the nation of wisdom.\nIngenuity sets words of integrity on the right path.\nOne who thinks out of goodwill and in a clever and careful fashion never deviates from the path of boons.\nYet one who thinks with contempt and malice shall taint their words with despicable colors.",
+        "zh": "天赋培养素材。\n「巧思」是智慧之国的叶脉。\n巧思引导正直的言语。\n巧妙而周密的向善思索，令出口之言不偏离福祉之正道；\n怠慢与歹意则令言行卑劣不堪。"
+      }
+    },
+    {
+      "key": "philosophies_of_ingenuity",
+      "title": {
+        "ru": "Философия об «Остроумии»",
+        "en": "Philosophies of Ingenuity",
+        "zh": "「巧思」的哲学"
+      },
+      "icon": "assets/icons/items/development_materials/philosophies_of_ingenuity.webp",
+      "text": {
+        "ru": "Материал повышения талантов.\nОстроумие – прожилки листьев страны мудрости.\nОстроумие находит своё воплощение в гармоничном поведении.\nЦветы древа мудрости распускаются там, где мысли не расходятся со словами, а слова с делами.",
+        "en": "Talent Level-Up material.\nIngenuity is the leaf-veins of the nation of wisdom.\nIngenuity is completed by harmonious conduct. What is done completes what is thought.\nWisdom blooms where the mind, words, and practice converge.",
+        "zh": "天赋培养素材。\n「巧思」是智慧之国的叶脉。\n巧思成于谐和的品行。\n行为赋予思想完美形态，思、言、行的彼此印证，是令智慧之树绽放出花朵的忠实基干。"
+      }
+    }
+  ],
+  "material_count": 3
+}

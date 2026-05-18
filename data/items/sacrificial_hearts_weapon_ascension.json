@@ -1,0 +1,104 @@
+{
+  "id": "sacrificial_hearts_weapon_ascension",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/blazing_sacrificial_hearts_terror.webp",
+  "title": {
+    "ru": "Ужас пылающего жертвенного сердца / Сомнение пылающего жертвенного сердца / Решимость пылающего жертвенного сердца / Великолепие пылающего жертвенного сердца",
+    "en": "Sacrificial Hearts Weapon Ascension Materials",
+    "zh": "贡祭炽心的惶恐 / 贡祭炽心的踌躇 / 贡祭炽心的决绝 / 贡祭炽心的荣膺"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [
+    "Sacrificial Hearts",
+    "материалы развития",
+    "Натлан"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  },
+  "materials": [
+    {
+      "key": "blazing_sacrificial_hearts_terror",
+      "title": {
+        "ru": "Ужас пылающего жертвенного сердца",
+        "en": "Blazing Sacrificial Heart's Terror",
+        "zh": "贡祭炽心的惶恐"
+      },
+      "icon": "assets/icons/items/development_materials/blazing_sacrificial_hearts_terror.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nСогласно древним племенным традициям, всё, что человек берёт у этого мира, должно быть возвращено обратно.",
+        "en": "Weapon Ascension Material.\nAccording to ancient tribal tradition, all that a person takes comes from this world — so naturally,\nall that they gain shall also be given back to it.",
+        "zh": "赋予武器突破之力的材料。\n在部族古老的传统之中，有这样的观点：你所取的都是来自于这个世界，于是你所得的也将献于这个世界。"
+      }
+    },
+    {
+      "key": "blazing_sacrificial_hearts_hesitance",
+      "title": {
+        "ru": "Сомнение пылающего жертвенного сердца",
+        "en": "Blazing Sacrificial Heart's Hesitance",
+        "zh": "贡祭炽心的踌躇"
+      },
+      "icon": "assets/icons/items/development_materials/blazing_sacrificial_hearts_hesitance.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nКогда первобытные цивилизации рухнули, словно разбитый нефрит, а те, кто наслаждался жизнью на небесах и руководил земными цивилизациями,\nбыли поглощены пробудившимися драконами, человечество погрузилось в хаос, утратив способность воспринимать мир.\nОни вернулись к своим самым первобытным инстинктам, уверенные в таинственной силе земли.\nТак началась эпоха, когда охотничья добыча стала приноситься в жертву.",
+        "en": "Weapon Ascension Material.\nAfter the original civilizations crumbled like shattered jade — and those envoys from the skies above,\nunder whose guidance the earthly civilizations had thrived, were devoured by the awakened dragons — humanity plunged into savagery,\nlosing the ability to perceive the world anew.\nThus did they revert to their most primal beliefs, convinced of the inherent mystery of the earth that nurtured all things.\nThis marked the dawn of the era where hunted prey began to be offered as sacrifices.",
+        "zh": "赋予武器突破之力的材料。\n在原有的文明如破碎的玉石般失落，自天上来，引导地上文明的使者被醒来的巨龙吞噬殆尽之后，步入荒蛮的人失去了重新认识世界的能力。\n于是他们将一切所得都归于最为原始的信仰，认为承载一切的大地自有其神秘，于是，所获的猎物被作为祭品上贡的时代开始了。"
+      }
+    },
+    {
+      "key": "blazing_sacrificial_hearts_resolve",
+      "title": {
+        "ru": "Решимость пылающего жертвенного сердца",
+        "en": "Blazing Sacrificial Heart's Resolve",
+        "zh": "贡祭炽心的决绝"
+      },
+      "icon": "assets/icons/items/development_materials/blazing_sacrificial_hearts_resolve.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nГоворят, что Мудрец украденного пламени, передав тайные знания, позволившие племени овладеть всеми формами пламени, надеялся,\nчто они поднимутся по ступеням цивилизации и откажутся от ошибочных практик своих предков.\nОднако укоренившиеся практики были непоколебимы.\nНаделённые властью молодые люди разжигали конфликты внутри племени ради большего количества жертвоприношений.\nЭто может объяснить разочарование мудреца и его исчезновение из истории.\nПримечательно, что именно во время правления Святого Мудреца в запретном городе практика живых жертвоприношений была окончательно запрещена.\nХотя истинной мотивацией Святого Мудреца для отмены многих обычаев было укрепление власти,\nэтот акт можно также рассматривать как начало новой цивилизации.",
+        "en": "Weapon Ascension Material.\nIt is said that the Sage of the Stolen Flame,\nafter imparting the secret knowledge of the mastery of flames in all their many forms to the tribespeople,\nhoped that they would climb the ladder of civilization and abandon the wrongful practices of their forebears.\nYet dogma deeply entrenched is difficult indeed to shake,\nand the now empowered youngsters instead ignited conflicts within their own tribes merely for the sake of more offerings.\nThis may explain the sage's eventual disillusionment and withdrawal from history.\nNotably, it was precisely during the reign of the Sacred Lord of the ineffable city that the practice of offering live sacrifices was banned outright.\nThough the Sacred Lord's true motivation for abolishing many of their customs was the consolidation of authority,\nthis particular act might also be seen as the start of a new kind of civilization.",
+        "zh": "赋予武器突破之力的材料。\n据说盗取火种的贤者，在他将掌握各种形态火焰的秘术交给部族的民众之后，曾希望他们得以踏上文明的阶梯，摆脱古老的陋习。\n但传承的迂腐总是难以撼动，而掌握力量的稚童仅仅为了更多的献祭之物就能开启同族之间的战端，这或许也是贤者最后心灰意冷，而从历史中隐去身形的原因。\n值得一说的事是，将生命献祭的仪式遭到全面禁止，却恰恰是禁城的圣主掌权之时。\n后者为了执掌权威而废弃了种种民俗，却也可视为一类文明的开端。"
+      }
+    },
+    {
+      "key": "blazing_sacrificial_hearts_splendor",
+      "title": {
+        "ru": "Великолепие пылающего жертвенного сердца",
+        "en": "Blazing Sacrificial Heart's Splendor",
+        "zh": "贡祭炽心的荣膺"
+      },
+      "icon": "assets/icons/items/development_materials/blazing_sacrificial_hearts_splendor.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\n«Если ты хочешь обладать всем, что может предложить мир, ты должен сначала отдать этому миру всё, что у тебя есть».\nПосле того как Святой Мудрец запретного города запретил людям молиться Царству Ночи, духовные узы, когда-то установленные, рухнули.\nЮноша с алыми глазами, пройдя через множество испытаний, столкнулся с последним: подражая первому возвысившемуся человеку,\nон должен был золотым кинжалом принести в жертву своё сердце.\nСамопожертвование считалось честью, предназначенной для победителя.\nПоэтому, без колебаний блестящим лезвием он разрезал свою грудь.\nСледующее его появление было связано с возвращением из королевства, где вода была подобна лучам света, готовым заново вдохнуть жизнь в великое дело.",
+        "en": "Weapon Ascension Material.\n\"If you wish to possess all that the world has to offer, you must first offer all you have to the world.\"\nAfter the Sacred Lord of the ineffable city forbade the people from praying to the Night Kingdom,\nthe spiritual bonds that had once been established fell into ruin.\nThe scarlet-eyed youth, guided through numerous trials, now faced his final test:\nto emulate the first human to ascend and confront his own demise by offering up his heart with a golden dagger.\nSelf-sacrifice was seen as an honor reserved for the victor — and thus, without even a moment's hesitation,\nhe sliced open his chest with the gleaming blade.\nIn the end, his sacrifice received the response it deserved,\nand he was able to return from the kingdom where water flows as rays of light to set out upon a grand new endeavor.",
+        "zh": "赋予武器突破之力的材料。\n「如果你想要拥世上的一切，那就先将自己的一切献给世界吧。」\n在禁城的圣主不再允许众人向夜晚的国度祈求之后，一度建立的精神的纽带业已荒毁。\n受指引的赤瞳的少年经历种种考验，其最后一项就是要效仿最初的人神那样，用黄金的匕首献上自己的心脏。\n自我的献祭是一种胜者的荣膺，他没有丝毫的犹豫，用烁光的利刃劈开自己的胸膛。\n而他再次出现的时候，已是从水如流光的国度归来，即将重造伟业的时刻了。"
+      }
+    }
+  ],
+  "material_count": 4
+}

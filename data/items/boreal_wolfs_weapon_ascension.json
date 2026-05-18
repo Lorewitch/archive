@@ -1,0 +1,104 @@
+{
+  "id": "boreal_wolfs_weapon_ascension",
+  "category": "items",
+  "icon": "assets/icons/items/development_materials/boreal_wolfs_milk_tooth.webp",
+  "title": {
+    "ru": "Молочный зуб арктического волка / Треснувший зуб арктического волка / Сломанный клык арктического волка / Ностальгия арктического волка",
+    "en": "Boreal Wolfs Weapon Ascension Materials",
+    "zh": "凛风奔狼的始龀 / 凛风奔狼的裂齿 / 凛风奔狼的断牙 / 凛风奔狼的怀乡"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [
+    "Boreal Wolfs",
+    "материалы развития",
+    "Мондштадт"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "description": {
+    "ru": "",
+    "en": "",
+    "zh": ""
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по серии материалов.",
+    "byVolume": {}
+  },
+  "item_group": "development_materials",
+  "entry_type": "material_set",
+  "material_type": "weapon_ascension",
+  "material_type_title": {
+    "ru": "Возвышение оружия",
+    "en": "Weapon Ascension",
+    "zh": "武器突破"
+  },
+  "materials": [
+    {
+      "key": "boreal_wolfs_milk_tooth",
+      "title": {
+        "ru": "Молочный зуб арктического волка",
+        "en": "Boreal Wolf's Milk Tooth",
+        "zh": "凛风奔狼的始龀"
+      },
+      "icon": "assets/icons/items/development_materials/boreal_wolfs_milk_tooth.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nВолчья стая Андриуса - это его благословенный почётный караул, и даже молочные зубы волчат обладают огромной мощью.\nВ древности долгом богов было любить людей. Андриус выделялся из их рядов, он принимал в свою стаю только брошенных детей и бродяг.",
+        "en": "Weapon Ascension Material.\nAndrius' wolf pack is its blessed honor guard, and even the milk teeth of a wolf cub possess great potential.\nIn the past, the gods had the responsibility to love all people.\nAndrius was therefore quite unusual in that he became leader of the wolves,\nwhile only welcoming abandoned babies and wanderers when it came to humans.",
+        "zh": "赋予武器突破之力的材料。\n群狼是受它祝福的近卫军，就算是小狼的乳牙也有相当的潜力。\n曾经的众神皆背负爱人的责任。\n因此引导群狼，却只收养弃婴、接纳流浪者的「安德留斯」十分异类。"
+      }
+    },
+    {
+      "key": "boreal_wolfs_cracked_tooth",
+      "title": {
+        "ru": "Треснувший зуб арктического волка",
+        "en": "Boreal Wolf's Cracked Tooth",
+        "zh": "凛风奔狼的裂齿"
+      },
+      "icon": "assets/icons/items/development_materials/boreal_wolfs_cracked_tooth.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nВолчья жизнь не проходит без насилия и жестокости. Нет ничего особенного в сломанных костях или выбитых зубах.\nАндриус разочаровался в людях и верил в детскую невинность.\nЕсли волчья стая и найдёныши принимали друг друга, то они становились Лупикал - семьёй, предназначенной судьбой.",
+        "en": "Weapon Ascension Material.\nThe life of a wolf is not without violence; broken bones or cracked teeth are nothing special.\nAndrius found humans to be a disappointment, but believed babies to be innocent.\nIf both the wolf pack and the adopted children chose each other, then they become a Lupical, a fated family.",
+        "zh": "赋予武器突破之力的材料。\n狼的生活经常伴有厮杀，断骨裂齿的死斗也不罕见。\n「安德留斯」认为人类只会带来失望，但是纯真的婴儿是无辜的。\n狼群选择了孩子，孩子如果也选择了狼，那么他们就结成了「卢皮卡」——命运的家族。"
+      }
+    },
+    {
+      "key": "boreal_wolfs_broken_fang",
+      "title": {
+        "ru": "Сломанный клык арктического волка",
+        "en": "Boreal Wolf's Broken Fang",
+        "zh": "凛风奔狼的断牙"
+      },
+      "icon": "assets/icons/items/development_materials/boreal_wolfs_broken_fang.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nВолчья стая понимает, что люди - не существа одиночества. Почётный сломанный зуб - это такой подарок на память, который приносит защиту и удачу.\nЛегенды далёкого мира рассказывают историю о волчице, усыновившей двух великих людей.\nИх домом была волчья пещера, которую они называли словом Луперкал, имевшим то же значение в их мире, что и Лупикал в этом.",
+        "en": "Weapon Ascension Material.\nThe wolf pack also understands that humans are not solitary creatures. The honorary broken tooth is a parting gift said to bring protection and luck.\nIn the legends of a far-off world, a female wolf once adopted two great humans.\nTheir home was known as the Cave of Wolves, or Lupercal - that word meaning the same thing as Lupical does in this world.",
+        "zh": "赋予武器突破之力的材料。\n狼群也充分理解，人如果没有同类会感到孤独。\n光荣的断牙是狼们离别的赠礼，据说真的有保护平安的魔力。\n在遥远世界的传说里，有一只母狼领养了伟大的双子。\n狼与人所同住的「家」则被称为「狼之洞」，也就是「卢佩卡」，与这个世界的「卢皮卡」同义。"
+      }
+    },
+    {
+      "key": "boreal_wolfs_nostalgia",
+      "title": {
+        "ru": "Ностальгия арктического волка",
+        "en": "Boreal Wolf's Nostalgia",
+        "zh": "凛风奔狼的怀乡"
+      },
+      "icon": "assets/icons/items/development_materials/boreal_wolfs_nostalgia.webp",
+      "text": {
+        "ru": "Материал возвышения оружия.\nКороль волков, презирающий человеческий род, никогда не мог представить людей счастливыми, поэтому он был недостоин стать Владыкой ветров.\nНо, покинув этот мир, он всё же продолжил молчаливо оберегать тех, кого этот мир бросил на произвол судьбы.",
+        "en": "Weapon Ascension Material.\nThe Wolf King, believing himself to despise humans, thought himself unable to envision a happy life for humanity,\nmaking him unworthy of becoming the Lord of the Winds of the world.\nTherefore, he chose to disappear.\nYet, in truth, he gazes on the ones abandoned by the world ever so gently.",
+        "zh": "赋予武器突破之力的材料。\n认为自己讨厌人类的奔狼之王，自觉无法去描绘人类的幸福生活，因此没有资格成为尘世的风之王。\n于是它选择了消失。\n但是事实不是这样的，它看着被抛弃之人的眼神是如此温柔。"
+      }
+    }
+  ],
+  "material_count": 4
+}
