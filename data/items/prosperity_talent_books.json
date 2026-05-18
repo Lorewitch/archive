@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/teachings_of_prosperity.webp",
       "text": {
-        "ru": "Материал повышения таланта. Процветание - это стремление царства земли. Процветание - это благословение Ли Юэ, великого города,\nоснованного богами и людьми, это источник мира на земле.",
-        "en": "Talent Level-Up material. Prosperity is the people's pursuit in the land of Geo. Prosperity is the blessing of Liyue,\nit is the foundation of the great city built by the gods and the people of Liyue, and it is the source of the peace and safety of the land.",
-        "zh": "天赋培养素材。岩之国土的追求是繁荣。繁荣是璃月的恩惠，是璃月的神与人共同建立的伟大城市，是璃月的大地安全和平的源泉。"
+        "ru": "Материал повышения таланта. Процветание - это стремление царства земли. Процветание - это благословение Ли Юэ, великого города, основанного богами и людьми, это источник мира на земле.",
+        "en": "Talent Level-Up material. Prosperity is the people's pursuit in the land of Geo. Prosperity is the blessing of Liyue, it is the foundation of the great city built by the gods and the people of Liyue, and it is the source of the peace and safety of the land.",
+        "zh": "天赋培养素材。 岩之国土的追求是繁荣。 繁荣是璃月的恩惠，是璃月的神与人共同建立的伟大城市，是璃月的大地安全和平的源泉。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/guide_to_prosperity.webp",
       "text": {
-        "ru": "Материал повышения таланта. Процветание - это стремление царства земли.\nПроцветание - это обещание Ли Юэ перед своими детьми вознаградить усердие рабочих достаточным количеством золота для того, чтобы украсить эти земли.",
-        "en": "Talent Level-Up material. Prosperity is the people's pursuit in the land of Geo. Prosperity is the promise made by Liyue to its children:\nTo repay the hard-working laborers with enough gold to brighten up this land.",
-        "zh": "天赋培养素材。岩之国土的追求是繁荣。繁荣是璃月对它的子女的许诺：以繁荣回报勤劳者，以黄金照亮这片土地。"
+        "ru": "Материал повышения таланта. Процветание - это стремление царства земли. Процветание - это обещание Ли Юэ перед своими детьми вознаградить усердие рабочих достаточным количеством золота для того, чтобы украсить эти земли.",
+        "en": "Talent Level-Up material. Prosperity is the people's pursuit in the land of Geo. Prosperity is the promise made by Liyue to its children: To repay the hard-working laborers with enough gold to brighten up this land.",
+        "zh": "天赋培养素材。 岩之国土的追求是繁荣。 繁荣是璃月对它的子女的许诺：以繁荣回报勤劳者，以黄金照亮这片土地。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/philosophies_of_prosperity.webp",
       "text": {
-        "ru": "Материал повышения таланта. Процветание - это стремление царства земли. Процветание - это прошлое, настоящее и будущее Ли Юэ.\nЛи Юэ и её дети довольствуются процветанием, не имеющим себе равных и недостижимым для других королевств.",
-        "en": "Talent Level-Up material. Prosperity is the people's pursuit in the land of Geo. Prosperity is Liyue's past, present, and future.\nThis prosperity is unmatched and unobtainable by any other nations — it all belongs to Liyue and its inhabitants.",
-        "zh": "天赋培养素材。岩之国土的追求是繁荣。繁荣是璃月的过去、现在与未来。在此世间一切国度都无法企及的繁荣，均归于璃月，以及璃月的子女。"
+        "ru": "Материал повышения таланта. Процветание - это стремление царства земли. Процветание - это прошлое, настоящее и будущее Ли Юэ. Ли Юэ и её дети довольствуются процветанием, не имеющим себе равных и недостижимым для других королевств.",
+        "en": "Talent Level-Up material. Prosperity is the people's pursuit in the land of Geo. Prosperity is Liyue's past, present, and future. This prosperity is unmatched and unobtainable by any other nations — it all belongs to Liyue and its inhabitants.",
+        "zh": "天赋培养素材。 岩之国土的追求是繁荣。 繁荣是璃月的过去、现在与未来。 在此世间一切国度都无法企及的繁荣，均归于璃月，以及璃月的子女。"
       }
     }
   ],

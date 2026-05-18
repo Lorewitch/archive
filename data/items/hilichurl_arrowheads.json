@@ -509,7 +509,7 @@
       "icon": "assets/icons/items/common_enemies/firm_arrowhead.webp",
       "text": {
         "ru": "Грубо изготовленный наконечник стрелы. Не сильно впечатляет, однако не стоит его недооценивать. Всё, что ему требуется, - это правильный момент.",
-        "en": "A roughly produced arrowhead. Though unimpressive, neither it nor the bow should be underestimated,\nfor even the bravest knight can be felled by an arrow from the rear.",
+        "en": "A roughly produced arrowhead. Though unimpressive, neither it nor the bow should be underestimated, for even the bravest knight can be felled by an arrow from the rear.",
         "zh": "做工粗糙的箭簇。即使如此，也不容小觑：弩是危险的武器，即使贵为骑士，也可能被从后方来的弩矢击倒。"
       }
     },
@@ -536,9 +536,9 @@
       },
       "icon": "assets/icons/items/common_enemies/weathered_arrowhead.webp",
       "text": {
-        "ru": "Старый наконечник стрелы, покрытый кровью. Он давно потерял свою остроту, и, следовательно, его нельзя использовать в качестве оружия.\nОднако этот наконечник является гордостью охотника и выполняет роль амулета или медали.",
-        "en": "An old arrowhead coated in blood. The arrowhead has long since lost its sharpness and thus its use as a weapon. However,\nit represents the pride of a hunter and acts as both an amulet and a medal.",
-        "zh": "老旧的、沾染了干涸血迹的箭簇。箭头在反复的使用中已经失去了应有的锐利，根本不能作为武器使用。但它也代表着猎手的骄傲，是它们的护身符与奖章。"
+        "ru": "Старый наконечник стрелы, покрытый кровью. Он давно потерял свою остроту, и, следовательно, его нельзя использовать в качестве оружия. Однако этот наконечник является гордостью охотника и выполняет роль амулета или медали.",
+        "en": "An old arrowhead coated in blood. The arrowhead has long since lost its sharpness and thus its use as a weapon. However, it represents the pride of a hunter and acts as both an amulet and a medal.",
+        "zh": "老旧的、沾染了干涸血迹的箭簇。箭头在反复的使用中已经失去了应有的锐利，根本不能作为武器使用。 但它也代表着猎手的骄傲，是它们的护身符与奖章。"
       }
     }
   ],

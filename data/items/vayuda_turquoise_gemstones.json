@@ -72,9 +72,9 @@
       },
       "icon": "assets/icons/items/development_materials/vayuda_turquoise_fragment.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Ветра могут поменять направление».",
-        "en": "Character Ascension material.\n\"Still, the winds change direction.\"",
-        "zh": "角色突破素材。\n「但风向是会转变的。」"
+        "ru": "Материал возвышения персонажа. «Ветра могут поменять направление».",
+        "en": "Character Ascension material. \"Still, the winds change direction.\"",
+        "zh": "角色突破素材。 「但风向是会转变的。」"
       }
     },
     {
@@ -86,9 +86,9 @@
       },
       "icon": "assets/icons/items/development_materials/vayuda_turquoise_chunk.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Ветра могут поменять направление». «Когда-нибудь они будут дуть в сторону лучшего будущего...»",
-        "en": "Character Ascension material.\n\"Still, the winds change direction. Someday, they will blow towards a brighter future...\"",
-        "zh": "角色突破素材。\n「但风向是会转变的。「终有一天，会吹向更有光亮的方向。」"
+        "ru": "Материал возвышения персонажа. «Ветра могут поменять направление». «Когда-нибудь они будут дуть в сторону лучшего будущего...»",
+        "en": "Character Ascension material. \"Still, the winds change direction. Someday, they will blow towards a brighter future...\"",
+        "zh": "角色突破素材。 「但风向是会转变的。 「终有一天，会吹向更有光亮的方向。」"
       }
     },
     {
@@ -100,9 +100,9 @@
       },
       "icon": "assets/icons/items/development_materials/vayuda_turquoise_gemstone.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Ветра могут поменять направление». «Когда-нибудь они будут дуть в сторону лучшего будущего...» «Прими мои благословения и живи свободно!»",
-        "en": "Character Ascension material.\n\"Still, the winds change direction. \"Someday, they will blow towards a brighter future... \"Take my blessings and live leisurely from this day onward.\"",
-        "zh": "角色突破素材。\n「但风向是会转变的。「终有一天，会吹向更有光亮的方向。「从今往后，带着我的祝福，活得更加从容一些吧。」"
+        "ru": "Материал возвышения персонажа. «Ветра могут поменять направление». «Когда-нибудь они будут дуть в сторону лучшего будущего...» «Прими мои благословения и живи свободно!»",
+        "en": "Character Ascension material. \"Still, the winds change direction. \"Someday, they will blow towards a brighter future... \"Take my blessings and live leisurely from this day onward.\"",
+        "zh": "角色突破素材。 「但风向是会转变的。 「终有一天，会吹向更有光亮的方向。 「从今往后，带着我的祝福，活得更加从容一些吧。」"
       }
     }
   ],

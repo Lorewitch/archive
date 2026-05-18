@@ -124,9 +124,9 @@
       },
       "icon": "assets/icons/items/common_enemies/cold_cracked_shellshard.webp",
       "text": {
-        "ru": "Кусок панциря, добытый с термопанцирного горного хоря после его поражения. Когда-то пылал ярким огнём, но теперь давно остыл.\nБылой пламенный блеск угас без следа.",
-        "en": "A chunk of shell carved from a Furnace Shell Mountain Weasel's back after its defeat. Where it once blazed brightly,\nthis piece has long since gone cold. The fire-like luster it once held is no more.",
-        "zh": "击败炉壳山鼬后，从其背上取得的背壳的残片。一度燃烧，但此时已经冷却的背壳的裂块，已经失去其中原本蕴藏的如火的光彩。"
+        "ru": "Кусок панциря, добытый с термопанцирного горного хоря после его поражения. Когда-то пылал ярким огнём, но теперь давно остыл. Былой пламенный блеск угас без следа.",
+        "en": "A chunk of shell carved from a Furnace Shell Mountain Weasel's back after its defeat. Where it once blazed brightly, this piece has long since gone cold. The fire-like luster it once held is no more.",
+        "zh": "击败炉壳山鼬后，从其背上取得的背壳的残片。 一度燃烧，但此时已经冷却的背壳的裂块，已经失去其中原本蕴藏的如火的光彩。"
       }
     },
     {
@@ -138,9 +138,9 @@
       },
       "icon": "assets/icons/items/common_enemies/warm_back_shell.webp",
       "text": {
-        "ru": "Часть панциря, снятая со спины термопанцирного горного хоря после его поражения. Термопанцирный горный хорь накапливает флогистон в своём панцире,\nполучая его из пищи, чтобы использовать в критических ситуациях. Давно уж не видели его пылающий след на Священной горе.",
-        "en": "A portion of shell removed from a Furnace Shell Mountain Weasel's back after its defeat.\nFurnace Shell Mountain Weasels accumulate Phlogiston in their shells from feeding to be used in emergencies.\nThe sight of them blazing fiery trails over the Sacred Mountain has not been seen since ancient times.",
-        "zh": "击败炉壳山鼬后，从其背上取得的背壳的部分结构。炉壳山鼬会在背壳之后蕴积进食所得的燃素，以备不时之需，燃火的鼬兽在圣山中腾跃时的一抹焰色，\n或许是长久以来都未曾被人窥得的风景吧。"
+        "ru": "Часть панциря, снятая со спины термопанцирного горного хоря после его поражения. Термопанцирный горный хорь накапливает флогистон в своём панцире, получая его из пищи, чтобы использовать в критических ситуациях. Давно уж не видели его пылающий след на Священной горе.",
+        "en": "A portion of shell removed from a Furnace Shell Mountain Weasel's back after its defeat. Furnace Shell Mountain Weasels accumulate Phlogiston in their shells from feeding to be used in emergencies. The sight of them blazing fiery trails over the Sacred Mountain has not been seen since ancient times.",
+        "zh": "击败炉壳山鼬后，从其背上取得的背壳的部分结构。 炉壳山鼬会在背壳之后蕴积进食所得的燃素，以备不时之需，燃火的鼬兽在圣山中腾跃时的一抹焰色，或许是长久以来都未曾被人窥得的风景吧。"
       }
     },
     {
@@ -152,9 +152,9 @@
       },
       "icon": "assets/icons/items/common_enemies/blazing_prismshell.webp",
       "text": {
-        "ru": "Цельный сияющий панцирь, добытый со спины термопанцирного горного хоря после его поражения. Говорят,\nчем больше флогистона накопил термопанцирный горный хорь в своём панцире, тем выше его статус в стае.\nОбъяснение этому явлению может быть довольно простым: более доминирующие особи реже прибегают к использованию запасов флогистона по сравнению с менее влиятельными сородичами.",
-        "en": "A whole piece of radiant shell liberated from a Furnace Shell Mountain Weasel's back after its defeat.\nIt is said that the more Phlogiston a Furnace Shell Mountain Weasel has stored in its back, the higher its status in the pack.\nThe reasoning for this phenomenon may be quite simple: More dominant Furnace Shell Mountain Weasels likely have less need to call on their Phlogiston reserves than their less prominent peers.",
-        "zh": "击败炉壳山鼬后，从其背上取得的完整的背壳碎块。据说在一个种群之中，地位越高的炉壳山鼬，其背后蕴藏的燃素会更多，而地位越低越弱的个体，\n背后蕴藏的燃素越少。形成这个现象的原因也许很好解释：地位越高的炉壳山鼬，需要运用到背后积蓄的燃素的机会或许永远没有地位低的个体那样多吧。"
+        "ru": "Цельный сияющий панцирь, добытый со спины термопанцирного горного хоря после его поражения. Говорят, чем больше флогистона накопил термопанцирный горный хорь в своём панцире, тем выше его статус в стае. Объяснение этому явлению может быть довольно простым: более доминирующие особи реже прибегают к использованию запасов флогистона по сравнению с менее влиятельными сородичами.",
+        "en": "A whole piece of radiant shell liberated from a Furnace Shell Mountain Weasel's back after its defeat. It is said that the more Phlogiston a Furnace Shell Mountain Weasel has stored in its back, the higher its status in the pack. The reasoning for this phenomenon may be quite simple: More dominant Furnace Shell Mountain Weasels likely have less need to call on their Phlogiston reserves than their less prominent peers.",
+        "zh": "击败炉壳山鼬后，从其背上取得的完整的背壳碎块。 据说在一个种群之中，地位越高的炉壳山鼬，其背后蕴藏的燃素会更多，而地位越低越弱的个体，背后蕴藏的燃素越少。形成这个现象的原因也许很好解释：地位越高的炉壳山鼬，需要运用到背后积蓄的燃素的机会或许永远没有地位低的个体那样多吧。"
       }
     }
   ],

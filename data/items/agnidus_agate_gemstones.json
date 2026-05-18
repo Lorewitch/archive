@@ -72,9 +72,9 @@
       },
       "icon": "assets/icons/items/development_materials/agnidus_agate_fragment.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Паломничество за желанием, битва за имя...»",
-        "en": "Character Ascension material.\n\"A pilgrimage for a wish; a battle to earn a name...\"",
-        "zh": "角色突破素材。\n「为了愿望而步上巡礼，为了最强之名而云聚争斗…」"
+        "ru": "Материал возвышения персонажа. «Паломничество за желанием, битва за имя...»",
+        "en": "Character Ascension material. \"A pilgrimage for a wish; a battle to earn a name...\"",
+        "zh": "角色突破素材。 「为了愿望而步上巡礼，为了最强之名而云聚争斗…」"
       }
     },
     {
@@ -86,9 +86,9 @@
       },
       "icon": "assets/icons/items/development_materials/agnidus_agate_chunk.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Паломничество за желанием, битва за имя... Сгоревшие дотла за мечту».",
-        "en": "Character Ascension material.\n\"A pilgrimage for a wish; a battle to earn a name... Burnt to cinders for a dream.\"",
-        "zh": "角色突破素材。\n「为了愿望而步上巡礼，为了最强之名而云聚争斗…「最后为了梦在劫火中燃尽。」"
+        "ru": "Материал возвышения персонажа. «Паломничество за желанием, битва за имя... Сгоревшие дотла за мечту».",
+        "en": "Character Ascension material. \"A pilgrimage for a wish; a battle to earn a name... Burnt to cinders for a dream.\"",
+        "zh": "角色突破素材。 「为了愿望而步上巡礼，为了最强之名而云聚争斗… 「最后为了梦在劫火中燃尽。」"
       }
     },
     {
@@ -100,9 +100,9 @@
       },
       "icon": "assets/icons/items/development_materials/agnidus_agate_gemstone.webp",
       "text": {
-        "ru": "Материал возвышения персонажа.\n«Паломничество за желанием, битва за имя... Сгоревшие дотла за мечту. Намерения никуда не делись, и он добился истины ██».",
-        "en": "Character Ascension material.\n\"A pilgrimage for a wish; a battle to earn a name... Burnt to cinders for a dream. If the intention yet remains, achieved ██'s truth he has.\"",
-        "zh": "角色突破素材。\n「为了愿望而步上巡礼，为了最强之名而云聚争斗…「最后为了梦在劫火中燃尽。「灰烬中如果留下了最初的心，那他就达成了██的真实。」"
+        "ru": "Материал возвышения персонажа. «Паломничество за желанием, битва за имя... Сгоревшие дотла за мечту. Намерения никуда не делись, и он добился истины ██».",
+        "en": "Character Ascension material. \"A pilgrimage for a wish; a battle to earn a name... Burnt to cinders for a dream. If the intention yet remains, achieved ██'s truth he has.\"",
+        "zh": "角色突破素材。 「为了愿望而步上巡礼，为了最强之名而云聚争斗… 「最后为了梦在劫火中燃尽。 「灰烬中如果留下了最初的心，那他就达成了██的真实。」"
       }
     }
   ],

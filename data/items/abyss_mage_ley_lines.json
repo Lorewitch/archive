@@ -683,7 +683,7 @@
       "icon": "assets/icons/items/common_enemies/dead_ley_line_branch.webp",
       "text": {
         "ru": "Хрупкие ветви из глубин земли. Даже спустя годы, из-под пятнистой поверхности видно, что их сила ещё не полностью утеряна.",
-        "en": "Fragile branches from deep within the earth. Even after years of aging,\nfrom beneath it's mottled surface you can see that its power is not yet entirely lost.",
+        "en": "Fragile branches from deep within the earth. Even after years of aging, from beneath it's mottled surface you can see that its power is not yet entirely lost.",
         "zh": "来自深邃地底的脆弱枯枝。即使饱经岁月，也能从斑驳的树皮下，看出尚未散尽的力量。"
       }
     },
@@ -710,8 +710,8 @@
       },
       "icon": "assets/icons/items/common_enemies/ley_line_sprout.webp",
       "text": {
-        "ru": "Говорят, что гигантские корни мирового древа расползаются под поверхностью всей земли, и этот росток когда-то был их частью. Он полон жизненной силы,\nкак будто всё ещё связан со своими материнскими корнями.",
-        "en": "It is said that there was a great tree whose roots once spread out to every corner of the world, and this branch is said to be part of it.\nIt is almost if it was never broken off and taken far away, for its vitality is such that it still sprouts new leaves even now.",
+        "ru": "Говорят, что гигантские корни мирового древа расползаются под поверхностью всей земли, и этот росток когда-то был их частью. Он полон жизненной силы, как будто всё ещё связан со своими материнскими корнями.",
+        "en": "It is said that there was a great tree whose roots once spread out to every corner of the world, and this branch is said to be part of it. It is almost if it was never broken off and taken far away, for its vitality is such that it still sprouts new leaves even now.",
         "zh": "据说有一株巨木曾经贯彻了世界的各处；据说这枝是它的一部分。仿佛从未被人折下带到遥远的地表，仍然充满了勃发的生机，长出了新叶。"
       }
     }

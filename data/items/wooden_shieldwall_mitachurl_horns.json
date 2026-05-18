@@ -964,7 +964,7 @@
       },
       "icon": "assets/icons/items/common_enemies/heavy_horn.webp",
       "text": {
-        "ru": "Грубо сделанный рог, служащий инструментом для поднятия тревоги у хиличурлов. Но сейчас этот рог в таком состоянии,\nчто он вряд ли сможет кого-то предупредить об угрозе.",
+        "ru": "Грубо сделанный рог, служащий инструментом для поднятия тревоги у хиличурлов. Но сейчас этот рог в таком состоянии, что он вряд ли сможет кого-то предупредить об угрозе.",
         "en": "A crude horn used by hilichurls to warn each other. Given the damage to the horn, it won't be warning anyone any time soon.",
         "zh": "粗砺的号角，是丘丘人用来警告同伴的道具。现在散布在号角上的战损使其失去了发声的功能。"
       }
@@ -992,8 +992,8 @@
       },
       "icon": "assets/icons/items/common_enemies/black_crystal_horn.webp",
       "text": {
-        "ru": "Металлический рог, испускающий таинственный свет. Декорирован драгоценными камнями неизвестного происхождения. Выглядит новеньким. Скорее всего,\nон использовался в таинственных ритуалах хиличурлов.",
-        "en": "A metallic horn with an ominous shine decorated with black crystals of an unknown source. It has hardly been used at all.\nIt is likely a ceremonial item of the hilichurls'.",
+        "ru": "Металлический рог, испускающий таинственный свет. Декорирован драгоценными камнями неизвестного происхождения. Выглядит новеньким. Скорее всего, он использовался в таинственных ритуалах хиличурлов.",
+        "en": "A metallic horn with an ominous shine decorated with black crystals of an unknown source. It has hardly been used at all. It is likely a ceremonial item of the hilichurls'.",
         "zh": "隐隐反射着不祥光芒的金属号角，饰有材质不明的黑晶。几乎没有使用过，推测是丘丘人重要的仪式器具。"
       }
     }

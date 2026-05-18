@@ -1649,7 +1649,7 @@
       "icon": "assets/icons/items/common_enemies/fungal_spores.webp",
       "text": {
         "ru": "Тускло мерцающий споровый порошок, который оставили плесенники. Кажется, стоит только чихнуть, и он бесследно исчезнет.",
-        "en": "A small amount of glittering spore powder left behind by Floating Fungi.\nSeems that a sneeze is all it takes for this powder to vanish without a trace.",
+        "en": "A small amount of glittering spore powder left behind by Floating Fungi. Seems that a sneeze is all it takes for this powder to vanish without a trace.",
         "zh": "蕈兽留下的零星孢子粉末，闪烁着点点微光。仿佛只需一个喷嚏，便会被吹散得无影无踪。"
       }
     },
@@ -1662,8 +1662,8 @@
       },
       "icon": "assets/icons/items/common_enemies/luminescent_pollen.webp",
       "text": {
-        "ru": "Крохотная сумка со светящимся споровым порошком плесенников - распространённый лекарственный ингредиент в землях тропических лесов.\nТорговцы обычно продают их в бумажных пакетах.",
-        "en": "A small parcel of luminescent Fungal Spore powder, a common medical ingredient in the land of rainforests.\nMerchants usually sell them in paper packets.",
+        "ru": "Крохотная сумка со светящимся споровым порошком плесенников - распространённый лекарственный ингредиент в землях тропических лесов. Торговцы обычно продают их в бумажных пакетах.",
+        "en": "A small parcel of luminescent Fungal Spore powder, a common medical ingredient in the land of rainforests. Merchants usually sell them in paper packets.",
         "zh": "小小一包散发着荧光的蕈兽孢子粉末，在雨林之国是一剂常见的药材，往往被商人用纸包封装起来贩售。"
       }
     },
@@ -1676,8 +1676,8 @@
       },
       "icon": "assets/icons/items/common_enemies/crystalline_cyst_dust.webp",
       "text": {
-        "ru": "Изрядное количество спорового порошка, который был собран из целой споровой сумки. Если его поместить в среду с подходящими условиями,\nвскоре её заполонит выводок плесенников...",
-        "en": "A huge lump of spore powder collected from a structurally complete spore cyst. Put it in an appropriate environment,\nand the area might be filled with a thriving aggregation of Floating Fungi later...",
+        "ru": "Изрядное количество спорового порошка, который был собран из целой споровой сумки. Если его поместить в среду с подходящими условиями, вскоре её заполонит выводок плесенников...",
+        "en": "A huge lump of spore powder collected from a structurally complete spore cyst. Put it in an appropriate environment, and the area might be filled with a thriving aggregation of Floating Fungi later...",
         "zh": "从完整的孢子囊中精心收集的大团孢子粉末，想必在合适的环境条件下，将会孕育出一个颇有规模的蕈兽群落吧…"
       }
     }

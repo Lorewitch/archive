@@ -196,8 +196,8 @@
       },
       "icon": "assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp",
       "text": {
-        "ru": "Дикий цветок, которым очень дорожил хиличурл-изгой. Его сорвали, когда тот ещё не распустился.\nПри обходе пустоши хиличурл-изгой берёт с собой только этот нераспустившийся цветок.",
-        "en": "A wild flower that a Hilichurl Rogue treasured. It was plucked before it could bloom.\nThe hilichurl takes nothing with it in its sojourn across the wilderness save this flower.",
+        "ru": "Дикий цветок, которым очень дорожил хиличурл-изгой. Его сорвали, когда тот ещё не распустился. При обходе пустоши хиличурл-изгой берёт с собой только этот нераспустившийся цветок.",
+        "en": "A wild flower that a Hilichurl Rogue treasured. It was plucked before it could bloom. The hilichurl takes nothing with it in its sojourn across the wilderness save this flower.",
         "zh": "丘丘游侠曾珍视的野花。在开放前就被摘下了。它在荒野的巡礼中并不携带任何多余的物品，除了这朵未开之花。"
       }
     },
@@ -210,8 +210,8 @@
       },
       "icon": "assets/icons/items/common_enemies/treasured_flower.webp",
       "text": {
-        "ru": "Дикий цветок, которым очень дорожил хиличур-изгой. Ничем особенным не выделяется.\nВо многих культурах цветы дарят в качестве подарка или благодарности.",
-        "en": "A wild flower that a Hilichurl Rogue treasured, bereft of any special qualities.\nFlowers can be used as gifts or offerings to express one's feelings in many cultures.",
+        "ru": "Дикий цветок, которым очень дорожил хиличур-изгой. Ничем особенным не выделяется. Во многих культурах цветы дарят в качестве подарка или благодарности.",
+        "en": "A wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. Flowers can be used as gifts or offerings to express one's feelings in many cultures.",
         "zh": "丘丘游侠曾珍视的野花，并不具有什么特别之处。花朵在许多文明当中都是表达心意的赠礼或谢礼。"
       }
     },
@@ -224,8 +224,8 @@
       },
       "icon": "assets/icons/items/common_enemies/wanderers_blooming_flower.webp",
       "text": {
-        "ru": "Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется. Вечный чужеземец желает не награды, а лишь того,\nчтобы его труды дали плоды...",
-        "en": "A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. The eternal outlander asks not for reward,\nbut only to see their deeds come to fruition...",
+        "ru": "Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется. Вечный чужеземец желает не награды, а лишь того, чтобы его труды дали плоды...",
+        "en": "A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. The eternal outlander asks not for reward, but only to see their deeds come to fruition...",
         "zh": "丘丘游侠曾珍视的盛放野花，并不具有什么特别之处。永恒的异乡人从不索要酬劳，所行所为最终都将开花结果…"
       }
     }

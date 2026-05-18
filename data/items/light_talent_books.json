@@ -52,9 +52,9 @@
       },
       "icon": "assets/icons/items/development_materials/teachings_of_light.webp",
       "text": {
-        "ru": "Материал повышения таланта. Свет - это чаяния царства гроз. Государь, который считает себя постигшим всё, вечно стремится стяжать небесную славу.\nНо это видение, которое невозможно разделить с другими, заставляет людей преследовать его с ещё более жарким рвением,\nподобно летящим на огонь мотылькам.",
-        "en": "Talent Level-Up material. Light is the yearning of the land of thunder.\nThe ruler who claims to have perceived all forever aims to hoard celestial glory.\nBut this vision that cannot be shared only leads people to long for it more fiercely, like moths diving into the flame.",
-        "zh": "天赋培养素材。雷之国土的愿望是天光。自认通透一切的大君，永远企图将高天之光彩尽收囊中。然而无从分享的愿景，却反令须臾之人更加炽烈地追求，\n犹如飞蛾扑火。"
+        "ru": "Материал повышения таланта. Свет - это чаяния царства гроз. Государь, который считает себя постигшим всё, вечно стремится стяжать небесную славу. Но это видение, которое невозможно разделить с другими, заставляет людей преследовать его с ещё более жарким рвением, подобно летящим на огонь мотылькам.",
+        "en": "Talent Level-Up material. Light is the yearning of the land of thunder. The ruler who claims to have perceived all forever aims to hoard celestial glory. But this vision that cannot be shared only leads people to long for it more fiercely, like moths diving into the flame.",
+        "zh": "天赋培养素材。 雷之国土的愿望是天光。 自认通透一切的大君，永远企图将高天之光彩尽收囊中。 然而无从分享的愿景，却反令须臾之人更加炽烈地追求，犹如飞蛾扑火。"
       }
     },
     {
@@ -66,9 +66,9 @@
       },
       "icon": "assets/icons/items/development_materials/guide_to_light.webp",
       "text": {
-        "ru": "Материал повышения таланта. Свет - это чаяния царства гроз. Хоть солнце и закрыли бесчисленные грозовые тучи,\nна земле божества грома по-прежнему остаются те, кто мечтает пронзить разгневанное море молний в попытке найти свет, не боясь жестокой расправы.",
-        "en": "Talent Level-Up material. Light is the yearning of the land of thunder.\nThough the sun rays themselves should be blocked by layers upon layers of clouds,\nthere are still those in the thunder god's land who dream of piercing that wrathful sea of lightning to pursue the glory of the divine,\nfearing not that they shall be cruelly struck down.",
-        "zh": "天赋培养素材。雷之国土的愿望是天光。即使晖光被重重雷云所掩盖，鸣神的国土之上，依旧有志士如云雀般突破雷光与天之怒海，追寻天光之迹，\n哪怕迎来冷酷的殛灭。"
+        "ru": "Материал повышения таланта. Свет - это чаяния царства гроз. Хоть солнце и закрыли бесчисленные грозовые тучи, на земле божества грома по-прежнему остаются те, кто мечтает пронзить разгневанное море молний в попытке найти свет, не боясь жестокой расправы.",
+        "en": "Talent Level-Up material. Light is the yearning of the land of thunder. Though the sun rays themselves should be blocked by layers upon layers of clouds, there are still those in the thunder god's land who dream of piercing that wrathful sea of lightning to pursue the glory of the divine, fearing not that they shall be cruelly struck down.",
+        "zh": "天赋培养素材。 雷之国土的愿望是天光。 即使晖光被重重雷云所掩盖，鸣神的国土之上，依旧有志士如云雀般突破雷光与天之怒海，追寻天光之迹，哪怕迎来冷酷的殛灭。"
       }
     },
     {
@@ -80,9 +80,9 @@
       },
       "icon": "assets/icons/items/development_materials/philosophies_of_light.webp",
       "text": {
-        "ru": "Материал повышения таланта. Свет - это чаяния царства гроз. Обречённое вечно жить на земле, человечество всегда будет тянуться к свету.\nЛюди всегда будут стремиться, превозмогать, и ни за что не остановятся. Запечатанная вечность, конечно же, изумительна, но суть её есть смерть.",
-        "en": "Talent Level-Up material. Light is the yearning of the land of thunder. Though they must live forever on the earth,\nhumanity will always reach for the light. Mortals will pursue and surpass, and they will never stop. A sealed eternity may, perhaps, look magnificent,\nbut its essence is death.",
-        "zh": "天赋培养素材。雷之国土的愿望是天光。即使永远生活在地下，人也会不屈地祈求天光。人总是追逐超越，无可止步。静止封闭的永恒亦固然壮丽，\n但其本质终究是死亡。"
+        "ru": "Материал повышения таланта. Свет - это чаяния царства гроз. Обречённое вечно жить на земле, человечество всегда будет тянуться к свету. Люди всегда будут стремиться, превозмогать, и ни за что не остановятся. Запечатанная вечность, конечно же, изумительна, но суть её есть смерть.",
+        "en": "Talent Level-Up material. Light is the yearning of the land of thunder. Though they must live forever on the earth, humanity will always reach for the light. Mortals will pursue and surpass, and they will never stop. A sealed eternity may, perhaps, look magnificent, but its essence is death.",
+        "zh": "天赋培养素材。 雷之国土的愿望是天光。 即使永远生活在地下，人也会不屈地祈求天光。 人总是追逐超越，无可止步。 静止封闭的永恒亦固然壮丽，但其本质终究是死亡。"
       }
     }
   ],

@@ -340,9 +340,9 @@
       },
       "icon": "assets/icons/items/common_enemies/concealed_claw.webp",
       "text": {
-        "ru": "Остатки телесных тканей, принадлежавших одному из волков Разрыва. По законам логики,\nстоль чуждые этому миру предметы не должны были сохраниться после того, как эти существа были изгнаны.",
-        "en": "Residual body tissue left behind by one of the Riftwolves. By ordinary logic, these objects, so alien to this world,\nshould not have remained behind after these abnormal creatures were excised from the land.",
-        "zh": "兽境群狼的残留身体组织。按照常理来说，这种与此世不容的事物不应在这种异常造物被驱逐后，残留于世才对。"
+        "ru": "Остатки телесных тканей, принадлежавших одному из волков Разрыва. По законам логики, столь чуждые этому миру предметы не должны были сохраниться после того, как эти существа были изгнаны.",
+        "en": "Residual body tissue left behind by one of the Riftwolves. By ordinary logic, these objects, so alien to this world, should not have remained behind after these abnormal creatures were excised from the land.",
+        "zh": "兽境群狼的残留身体组织。 按照常理来说，这种与此世不容的事物不应在这种异常造物被驱逐后，残留于世才对。"
       }
     },
     {
@@ -354,9 +354,9 @@
       },
       "icon": "assets/icons/items/common_enemies/concealed_unguis.webp",
       "text": {
-        "ru": "Телесные ткани, принадлежавшие одному из волков Разрыва. Они очень любопытны, но с Дурином, шедевром гумусового слоя,\nэти псы элювиального слоя не идут ни в какое сравнение.",
-        "en": "Body tissue left behind by one of the Riftwolves. Though they are quite wondrous indeed,\nthese hunting hounds of \"Alfisol\" are nothing of note before Durin of \"Humus.\"",
-        "zh": "兽境群狼的身体组织。虽然奇妙，但是和大杰作「腐殖层」杜林相比，「淋溶层」猎犬不值一提。"
+        "ru": "Телесные ткани, принадлежавшие одному из волков Разрыва. Они очень любопытны, но с Дурином, шедевром гумусового слоя, эти псы элювиального слоя не идут ни в какое сравнение.",
+        "en": "Body tissue left behind by one of the Riftwolves. Though they are quite wondrous indeed, these hunting hounds of \"Alfisol\" are nothing of note before Durin of \"Humus.\"",
+        "zh": "兽境群狼的身体组织。 虽然奇妙，但是和大杰作「腐殖层」杜林相比，「淋溶层」猎犬不值一提。"
       }
     },
     {
@@ -370,7 +370,7 @@
       "text": {
         "ru": "Острый коготь, принадлежавший одному из волков Разрыва. Все чудеса этого мира меркнут перед величайшим шедевром - меловым слоем.",
         "en": "A sharp nail left behind by one of the Riftwolves. All the marvels in the world must pale before \"Cretaceus,\" the greatest work of them all.",
-        "zh": "兽境群狼的利爪。世之奇珍，但是和最高杰作「白垩层」相比，只是寻常之物罢了。"
+        "zh": "兽境群狼的利爪。 世之奇珍，但是和最高杰作「白垩层」相比，只是寻常之物罢了。"
       }
     }
   ],
