@@ -475,6 +475,12 @@ def check_common_enemy_layout_guards() -> None:
         if "type-filter-toggle" not in catalog_text:
             fail("src/css/04-catalog.css: общая галочка фильтров должна иметь отдельный стиль")
 
+        typed_first_block = re.search(r"\.catalog-row\.cols-items-typed\.item > div:first-child \{(?P<body>.*?)\}", catalog_text, re.S)
+        if not typed_first_block:
+            fail("src/css/04-catalog.css: отсутствует выравнивание первого столбца типовых предметов")
+        elif "align-self: center" not in typed_first_block.group("body"):
+            fail("src/css/04-catalog.css: название типовых предметов должно выравниваться по центру высокой строки, а не прилипать к верху")
+
     if entries_css.exists():
         entries_text = entries_css.read_text(encoding="utf-8")
         required = [

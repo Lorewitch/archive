@@ -182,7 +182,7 @@
 }
 
 .catalog-row.cols-items-typed.item > div:first-child {
-  align-self: start;
+  align-self: center;
 }
 
 .catalog-row:last-child {
