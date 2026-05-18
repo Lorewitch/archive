@@ -22,18 +22,15 @@
 
 ## RU
 
-Пустая ракушка, которую принесло на берег с приливом.
-Приложите её к уху - и вы услышите зов тоскующего моря.
+Пустая ракушка, которую принесло на берег с приливом. Приложите её к уху - и вы услышите зов тоскующего моря.
 
 ## EN
 
-Empty seashells brought ashore by the tides.
-Hold it close to your ear, and hear the longing calls of the sea.
+Empty seashells brought ashore by the tides. Hold it close to your ear, and hear the longing calls of the sea.
 
 ## ZH
 
-随着海潮来到沙滩上的螺。
-将耳朵凑近空壳，能听见海充满思念的呼唤。
+随着海潮来到沙滩上的螺。将耳朵凑近空壳，能听见海充满思念的呼唤。
 
 ## NOTES
 

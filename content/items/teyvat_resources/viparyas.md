@@ -22,18 +22,15 @@
 
 ## RU
 
-Цветок без семян.
-Земля вспомнит, и випариас расцветёт.
+Цветок без семян. Земля вспомнит, и випариас расцветёт.
 
 ## EN
 
-A flower without seeds.
-Once the earth remembers, the Viparyas will bloom.
+A flower without seeds. Once the earth remembers, the Viparyas will bloom.
 
 ## ZH
 
-没有种子的花卉。
-只要大地重新记起，毗波耶就会绽放。
+没有种子的花卉。只要大地重新记起，毗波耶就会绽放。
 
 ## NOTES
 

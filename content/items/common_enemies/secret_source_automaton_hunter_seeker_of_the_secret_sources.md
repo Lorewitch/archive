@@ -38,59 +38,50 @@
 
 ### material: axis_of_the_secret_source
 
-Компонент неактивного Автоматона таинственного источника.
-Он использовался для соединения двух механизмов.
+Компонент неактивного Автоматона таинственного источника. Он использовался для соединения двух механизмов.
 
 ### material: sheath_of_the_secret_source
 
-Механизм от неактивного Автоматона таинственного источника.
-Он питал механизм, но теперь его ядро пустое.
+Механизм от неактивного Автоматона таинственного источника. Он питал механизм, но теперь его ядро пустое.
 
 ### material: heart_of_the_secret_source
 
-Неповреждённое ядро от неактивного Автоматона таинственного источника.
-Это странное устройство, произведённое как универсальный компонент.
-Согласно легенде, древние мыслители использовали ту же мудрость, что и при создании золотых узоров, чтобы разработать чертежи для этих необычных
-машин.
-Возможно, это ядро было одним из них.
+Неповреждённое ядро от неактивного Автоматона таинственного источника. Это странное устройство, произведённое как универсальный компонент.
+Согласно легенде, древние мыслители использовали ту же мудрость, что и при создании золотых узоров,
+чтобы разработать чертежи для этих необычных машин. Возможно, это ядро было одним из них.
 
 ## EN
 
 ### material: axis_of_the_secret_source
 
-Comes from a now-defunct Secret Source Automaton.
-It appears to be just a component that was used to connect two mechanisms.
+Comes from a now-defunct Secret Source Automaton. It appears to be just a component that was used to connect two mechanisms.
 
 ### material: sheath_of_the_secret_source
 
-Comes from a now-defunct Secret Source Automaton.
-It appears to be the mechanism by which the Secret Source Automaton was powered, but its core is now empty.
+Comes from a now-defunct Secret Source Automaton. It appears to be the mechanism by which the Secret Source Automaton was powered,
+but its core is now empty.
 
 ### material: heart_of_the_secret_source
 
-Comes from a now-defunct Secret Source Automaton.
-It appears to be an intact core by which the Secret Source Automaton was powered, a strange device that seems to have been produced as a universal
-component.
-According to legend, the ingenious thinkers of antiquity drew upon the same wisdom used in the creation of golden patterns to design the blueprints
-by which these extraordinary machines functioned.
+Comes from a now-defunct Secret Source Automaton. It appears to be an intact core by which the Secret Source Automaton was powered,
+a strange device that seems to have been produced as a universal component. According to legend,
+the ingenious thinkers of antiquity drew upon the same wisdom used in the creation of golden patterns to design the blueprints by which these extraordinary machines functioned.
 Perhaps this core was one of them.
 
 ## ZH
 
 ### material: axis_of_the_secret_source
 
-来自不再活动的秘源机兵。
-看上去只是两个机关之间的承接结构。
+来自不再活动的秘源机兵。看上去只是两个机关之间的承接结构。
 
 ### material: sheath_of_the_secret_source
 
-来自不再活动的秘源机兵。
-看上去是承载秘源机械体运作的机关，但其核心之处空空如也。
+来自不再活动的秘源机兵。看上去是承载秘源机械体运作的机关，但其核心之处空空如也。
 
 ### material: heart_of_the_secret_source
 
-来自不再活动的秘源机兵。
-看上去是完整的驱动秘源机械体运作的核心，似乎是作为通用的组件而被制造出来的奇特装置。传说古老文明的伟大住民会用金纹创生的智慧勾勒奇异机械体运作的蓝图，或许这核心也是其中之一吧。
+来自不再活动的秘源机兵。看上去是完整的驱动秘源机械体运作的核心，似乎是作为通用的组件而被制造出来的奇特装置。
+传说古老文明的伟大住民会用金纹创生的智慧勾勒奇异机械体运作的蓝图，或许这核心也是其中之一吧。
 
 ## NOTES
 

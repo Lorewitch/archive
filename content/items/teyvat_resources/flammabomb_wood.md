@@ -22,21 +22,18 @@
 
 ## RU
 
-Древесина, полученная из взрывопламенных деревьев.
-Вопреки своему названию, такая древесина после обработки методами Удела Благодатных Земель устойчива к возгоранию и взрывам.
-Служит для изготовления декора.
+Древесина, полученная из взрывопламенных деревьев. Вопреки своему названию,
+такая древесина после обработки методами Удела Благодатных Земель устойчива к возгоранию и взрывам. Служит для изготовления декора.
 
 ## EN
 
-Timber obtained from Flammabomb trees.
-Unlike what their names suggest, such timber is resistant to catching fire or exploding once processed using methods recommended by the
-Collective of Plenty.
+Timber obtained from Flammabomb trees. Unlike what their names suggest,
+such timber is resistant to catching fire or exploding once processed using methods recommended by the Collective of Plenty.
 Can be used to create furnishings.
 
 ## ZH
 
-产自「燃爆树」的木材，与名字不同，这种木材经过「沃陆之邦」推荐的方法处理后，不易燃不易爆，相当可靠。
-可用于制作摆设。
+产自「燃爆树」的木材，与名字不同，这种木材经过「沃陆之邦」推荐的方法处理后，不易燃不易爆，相当可靠。可用于制作摆设。
 
 ## NOTES
 

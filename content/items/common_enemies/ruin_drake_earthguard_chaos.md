@@ -42,34 +42,34 @@
 
 ### material: chaos_module
 
-Найден в древнем драконе руин.«Драконы» – самая древняя и примитивная форма воплощения высших элементов.
-Впоследствии все они были разбиты, завоёваны или ассимилированы.
+Найден в древнем драконе руин.«Драконы» – самая древняя и примитивная форма воплощения высших элементов. Впоследствии все они были разбиты,
+завоёваны или ассимилированы.
 
 ### material: chaos_bolt
 
-Найден в древнем драконе руин. Подданные одного из исчезнувших древних царств были одержимы теорией биомимесиса.
-Они были уверены, что любую силу, будь то чистые и упорядоченные элементы гипостазисов или древняя первобытная мощь драконов, следует воспроизвести и
-усовершенствовать, чтобы она превзошла первоисточник.
-Так будет создана высшая и чистейшая телесная форма, которая заменит бренную оболочку, обречённую на гибель и разложение.
+Найден в древнем драконе руин. Подданные одного из исчезнувших древних царств были одержимы теорией биомимесиса. Они были уверены, что любую силу,
+будь то чистые и упорядоченные элементы гипостазисов или древняя первобытная мощь драконов, следует воспроизвести и усовершенствовать,
+чтобы она превзошла первоисточник. Так будет создана высшая и чистейшая телесная форма, которая заменит бренную оболочку,
+обречённую на гибель и разложение.
 
 ## EN
 
 ### material: chaos_storage
 
-Comes from a now-inactive ancient Ruin Drake.
-Ruin Drakes can absorb Elemental Energy from the outside and store it in this component inside their "neck."
+Comes from a now-inactive ancient Ruin Drake. Ruin Drakes can absorb Elemental Energy from the outside and store it in this component inside their "neck.
+"
 
 ### material: chaos_module
 
-Comes from a now-inactive ancient Ruin Drake.
-The dragons were once the most primitive and ancient bodily form of the supreme elements until they were defeated, conquered, or assimilated.
+Comes from a now-inactive ancient Ruin Drake. The dragons were once the most primitive and ancient bodily form of the supreme elements until they were defeated,
+conquered, or assimilated.
 
 ### material: chaos_bolt
 
 Comes from a now-inactive ancient Ruin Drake. Among the lost ancient kingdoms, there was a group of people who were obsessed with the idea of mimesis.
-Be it the Hypostases' pure ordered elements or the ancient primitive power of the dragons, these people believed that they might all be replicated
-and modified to the point where they had surpassed their natural counterparts.
-By this means, a superior and unsullied bodily form could replace the continuously decaying and shattering order.
+Be it the Hypostases' pure ordered elements or the ancient primitive power of the dragons,
+these people believed that they might all be replicated and modified to the point where they had surpassed their natural counterparts. By this means,
+a superior and unsullied bodily form could replace the continuously decaying and shattering order.
 
 ## ZH
 
@@ -83,7 +83,8 @@ By this means, a superior and unsullied bodily form could replace the continuous
 
 ### material: chaos_bolt
 
-来自不再活动的古代遗迹龙兽。已经失落的古国之中，曾有一派人醉心于拟生之原理。无论是无相的纯粹秩序元素，或是龙的亘古原始力量，都应当加以拟造、改良，最终达成超越。如此便能以更为优越的无垢之身，取代终将朽败、终将破碎的秩序。
+来自不再活动的古代遗迹龙兽。已经失落的古国之中，曾有一派人醉心于拟生之原理。无论是无相的纯粹秩序元素，或是龙的亘古原始力量，都应当加以拟造、
+改良，最终达成超越。如此便能以更为优越的无垢之身，取代终将朽败、终将破碎的秩序。
 
 ## NOTES
 

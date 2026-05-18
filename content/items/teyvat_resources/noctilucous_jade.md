@@ -22,18 +22,15 @@
 
 ## RU
 
-Редкий минерал, который блестит в темноте.
-Говорят, что это драгоценный камень, видоизменённый под действием бурлящих элементов этого мира.
+Редкий минерал, который блестит в темноте. Говорят, что это драгоценный камень, видоизменённый под действием бурлящих элементов этого мира.
 
 ## EN
 
-A rare mineral that glimmers in the dark.
-It's said to be a mutated gemstone condensed from the flourishing elements of the world.
+A rare mineral that glimmers in the dark. It's said to be a mutated gemstone condensed from the flourishing elements of the world.
 
 ## ZH
 
-稀有的特质矿石，在静谧的暗夜里会幽幽地发光。
-据称是天地间奔流的元素在异变中凝聚成的珍奇宝石。
+稀有的特质矿石，在静谧的暗夜里会幽幽地发光。据称是天地间奔流的元素在异变中凝聚成的珍奇宝石。
 
 ## NOTES
 

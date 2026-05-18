@@ -22,18 +22,15 @@
 
 ## RU
 
-Синий краситель.
-Безусловно пригодится для изготовления декора.
+Синий краситель. Безусловно пригодится для изготовления декора.
 
 ## EN
 
-Blue dye.
-It will surely be of use in making furnishings.
+Blue dye. It will surely be of use in making furnishings.
 
 ## ZH
 
-蓝色的染料。
-制作摆设时应该能派上用场。
+蓝色的染料。制作摆设时应该能派上用场。
 
 ## NOTES
 

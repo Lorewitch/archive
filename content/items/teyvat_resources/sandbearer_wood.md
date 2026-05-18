@@ -22,20 +22,17 @@
 
 ## RU
 
-Древесина, полученная из песчаного дерева.
-Обладает исключительной прочностью, устойчива к ветру и дождю и отличается длительным сроком службы.
+Древесина, полученная из песчаного дерева. Обладает исключительной прочностью, устойчива к ветру и дождю и отличается длительным сроком службы.
 Служит для изготовления декора.
 
 ## EN
 
-Timber from the Sandbearer Tree.
-Said to be an exceptionally hardy plant resistant to wind and rain with a long lifespan.
+Timber from the Sandbearer Tree. Said to be an exceptionally hardy plant resistant to wind and rain with a long lifespan.
 Can be used to create furnishings.
 
 ## ZH
 
-产自「却砂树」的木材，据说有着风雨不侵，百年不朽的卓越木质。
-可用于制作摆设。
+产自「却砂树」的木材，据说有着风雨不侵，百年不朽的卓越木质。可用于制作摆设。
 
 ## NOTES
 

@@ -26,8 +26,7 @@
 
 ## EN
 
-A small flower with strong vitality.
-It is said that its downward-blooming flower keeps its fragrance from dissipating.
+A small flower with strong vitality. It is said that its downward-blooming flower keeps its fragrance from dissipating.
 
 ## ZH
 

@@ -22,18 +22,15 @@
 
 ## RU
 
-Часть светлячка, которая испускает свет.
-Популярна среди влюблённых и в качестве медицинского препарата.
+Часть светлячка, которая испускает свет. Популярна среди влюблённых и в качестве медицинского препарата.
 
 ## EN
 
-The light-emitting part of a firefly.
-Used for courtship, and in medicine to help recover strength.
+The light-emitting part of a firefly. Used for courtship, and in medicine to help recover strength.
 
 ## ZH
 
-萤火虫发出磷光的部位。
-对它而言是求偶的器官，对人则是能强健力量的良药。
+萤火虫发出磷光的部位。对它而言是求偶的器官，对人则是能强健力量的良药。
 
 ## NOTES
 

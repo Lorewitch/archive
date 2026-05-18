@@ -22,18 +22,15 @@
 
 ## RU
 
-Необработанные кристаллы, которые встречаются только в Инадзуме.
-Только профессиональный ремесленник может выявить его истинную ценность.
+Необработанные кристаллы, которые встречаются только в Инадзуме. Только профессиональный ремесленник может выявить его истинную ценность.
 
 ## EN
 
-An uncut crystal that can only be found in Inazuma.
-Some professional craftsmanship will bring out its true value.
+An uncut crystal that can only be found in Inazuma. Some professional craftsmanship will bring out its true value.
 
 ## ZH
 
-未经削切的矿物晶体，仅在稻妻列岛上产生。
-经过专门处理后，能展现其真正的价值。
+未经削切的矿物晶体，仅在稻妻列岛上产生。经过专门处理后，能展现其真正的价值。
 
 ## NOTES
 

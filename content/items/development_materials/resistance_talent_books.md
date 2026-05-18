@@ -43,74 +43,51 @@
 
 ### material: teachings_of_resistance
 
-Материал повышения таланта.
-Сопротивление - это основа царства ветров.
-История Мондштадта - это история сопротивления.
-Люди восстали, чтобы не были забыты конфликты прошлого.
-Они словно ростки, прорывающиеся сквозь почву, словно вечный ветер, разрушающий каменные стены.
+Материал повышения таланта. Сопротивление - это основа царства ветров. История Мондштадта - это история сопротивления. Люди восстали,
+чтобы не были забыты конфликты прошлого. Они словно ростки, прорывающиеся сквозь почву, словно вечный ветер, разрушающий каменные стены.
 
 ### material: guide_to_resistance
 
-Материал повышения таланта.
-Сопротивление - это основа царства ветров.
-История Мондштадта - это история сопротивления.
-Люди восстали, чтобы отвоевать свою свободу.
-Они словно Анемо Архонт, раздувающий снега, словно Веннесса, которая поднимается с колен, чтобы сражаться.
+Материал повышения таланта. Сопротивление - это основа царства ветров. История Мондштадта - это история сопротивления. Люди восстали,
+чтобы отвоевать свою свободу. Они словно Анемо Архонт, раздувающий снега, словно Веннесса, которая поднимается с колен, чтобы сражаться.
 
 ### material: philosophies_of_resistance
 
-Материал повышения таланта.
-Сопротивление - это основа царства ветров.
-История Мондштадта - это история сопротивления.
-Люди восстали, чтобы поэзия и песни будущего Мондштадта летели по ветру свободы и распространились по всей земле.
+Материал повышения таланта. Сопротивление - это основа царства ветров. История Мондштадта - это история сопротивления. Люди восстали,
+чтобы поэзия и песни будущего Мондштадта летели по ветру свободы и распространились по всей земле.
 
 ## EN
 
 ### material: teachings_of_resistance
 
-Talent Level-Up material.
-Resistance is the backbone of the land of the wind.
-The history of Mondstadt is one of resistances.
+Talent Level-Up material. Resistance is the backbone of the land of the wind. The history of Mondstadt is one of resistances.
 People rose up to prevent past conflicts from ever being forgotten, like sprouts breaking through the soil,
 like the eternal wind eroding through stone walls.
 
 ### material: guide_to_resistance
 
-Talent Level-Up material.
-Resistance is the backbone of the city of Wind.
-The history of Mondstadt is one of resistances.
+Talent Level-Up material. Resistance is the backbone of the city of Wind. The history of Mondstadt is one of resistances.
 People rose up to grant the citizens of Mondstadt the freedom they now enjoy, like the Anemo Archon blowing away the snow,
 or like Vennessa rising up to fight.
 
 ### material: philosophies_of_resistance
 
-Talent Level-Up material.
-Resistance is the backbone of the land of the wind.
-The history of Mondstadt is one of resistances.
+Talent Level-Up material. Resistance is the backbone of the land of the wind. The history of Mondstadt is one of resistances.
 People rose up to allow the future Mondstadt's poetry to freely be that of the wind and be spread across the land.
 
 ## ZH
 
 ### material: teachings_of_resistance
 
-天赋培养素材。
-风之国土的脊梁是抗争。
-蒙德的历史即是抗争的历史。
-抗争是为了蒙德过去的一切抗争不被遗忘，如同草木突破土壤，如同恒风洞穿石墙。
+天赋培养素材。风之国土的脊梁是抗争。蒙德的历史即是抗争的历史。抗争是为了蒙德过去的一切抗争不被遗忘，如同草木突破土壤，如同恒风洞穿石墙。
 
 ### material: guide_to_resistance
 
-天赋培养素材。
-风之国土的脊梁是抗争。
-蒙德的历史即是抗争的历史。
-抗争是为了蒙德现在的人们能够拥有自由，正如风之神吹散冰雪，正如温妮莎奋起抗争。
+天赋培养素材。风之国土的脊梁是抗争。蒙德的历史即是抗争的历史。抗争是为了蒙德现在的人们能够拥有自由，正如风之神吹散冰雪，正如温妮莎奋起抗争。
 
 ### material: philosophies_of_resistance
 
-天赋培养素材。
-风之国土的脊梁是抗争。
-蒙德的历史即是抗争的历史。
-抗争是为了蒙德未来的诗文，也能自由地随着眷顾的风，传到远方。
+天赋培养素材。风之国土的脊梁是抗争。蒙德的历史即是抗争的历史。抗争是为了蒙德未来的诗文，也能自由地随着眷顾的风，传到远方。
 
 ## NOTES
 

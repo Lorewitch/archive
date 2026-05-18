@@ -22,18 +22,15 @@
 
 ## RU
 
-Странный цветок, встречающийся на равнинах и нагорьях.
-Созревшие бутоны распускаются после удара.
+Странный цветок, встречающийся на равнинах и нагорьях. Созревшие бутоны распускаются после удара.
 
 ## EN
 
-A strange flower that can be found all over the plains and highlands.
-Mature buds will bloom after being hit.
+A strange flower that can be found all over the plains and highlands. Mature buds will bloom after being hit.
 
 ## ZH
 
-散布在平原与高土的奇特花朵。
-成熟的花苞会在受到冲击后绽放开来。
+散布在平原与高土的奇特花朵。成熟的花苞会在受到冲击后绽放开来。
 
 ## NOTES
 

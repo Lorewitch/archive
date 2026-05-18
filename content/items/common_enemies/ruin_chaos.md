@@ -42,8 +42,8 @@
 
 ### material: chaos_circuit
 
-Часть древнего механического тела. Это логическая схема, которая отвечала за его движение.
-В ней заключены великие знания, но, увы, ещё никто не смог их добыть.
+Часть древнего механического тела. Это логическая схема, которая отвечала за его движение. В ней заключены великие знания, но, увы,
+ещё никто не смог их добыть.
 
 ### material: chaos_core
 
@@ -57,13 +57,13 @@ Comes from ancient defunct relic structures. A part that once held the structure
 
 ### material: chaos_circuit
 
-Comes from ancient defunct relic structures. Was once a logic circuit responsible for movement functions.
-Sadly, no one is able to make sense of how it worked.
+Comes from ancient defunct relic structures. Was once a logic circuit responsible for movement functions. Sadly,
+no one is able to make sense of how it worked.
 
 ### material: chaos_core
 
-Comes from ancient defunct relic structures. The core that once drove a mechanical beast.
-Should you come to understand its workings and reproduce it, you could perhaps change the world.
+Comes from ancient defunct relic structures. The core that once drove a mechanical beast. Should you come to understand its workings and reproduce it,
+you could perhaps change the world.
 
 ## ZH
 

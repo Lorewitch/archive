@@ -22,15 +22,13 @@
 
 ## RU
 
-Семена из сундука семян.
-Эти превосходные семена полны жизни.
-Посадите их на поле Чайника безмятежности, чтобы через некоторое время вырос сосновый янтарь.
+Семена из сундука семян. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности,
+чтобы через некоторое время вырос сосновый янтарь.
 
 ## EN
 
-A seed obtained from the Seed Dispensary.
-A quality seed full of life, just waiting to be planted in the fields of the Realm Within.
-After some time, it will grow into a Pine Amber.
+A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time,
+it will grow into a Pine Amber.
 
 ## ZH
 

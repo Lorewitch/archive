@@ -22,24 +22,20 @@
 
 ## RU
 
-Древесина, полученная из пепельного аратику.
-Кроме более светлого оттенка, она мало чем отличается от большинства деревьев Натлана.
-Взрослые заврианы с лёгкостью переносят её.
-Некоторые легенды рассказывают о племенных воинах, использующих такие связки древесины для тренировки.
+Древесина, полученная из пепельного аратику. Кроме более светлого оттенка, она мало чем отличается от большинства деревьев Натлана.
+Взрослые заврианы с лёгкостью переносят её. Некоторые легенды рассказывают о племенных воинах, использующих такие связки древесины для тренировки.
 Служит для изготовления декора.
 
 ## EN
 
-Timber obtained from Ashen Aratiku Trees.
-Other than being lighter, it isn't all that different from most regional trees in Natlan.
+Timber obtained from Ashen Aratiku Trees. Other than being lighter, it isn't all that different from most regional trees in Natlan.
 Mature Saurian companions can carry it with ease, and some legends even tell of tribal warriors who use bundles of such timber as fitness gear.
 Can be used to create furnishings.
 
 ## ZH
 
 产自「灰灰楼林树」的木材，有着较为轻便的优势，其余性能与大部分纳塔木材相差无几，成年的龙伙伴可以轻松搬运，
-传说也有部族战士将成捆的灰灰楼林木当成健身器材。
-可用于制作摆设。
+传说也有部族战士将成捆的灰灰楼林木当成健身器材。可用于制作摆设。
 
 ## NOTES
 

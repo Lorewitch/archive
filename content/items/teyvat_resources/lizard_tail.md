@@ -22,19 +22,15 @@
 
 ## RU
 
-Свернувшийся хвост ящерицы.
-Очень горький, но обладает свойствами, укрепляющими кожу.
+Свернувшийся хвост ящерицы. Очень горький, но обладает свойствами, укрепляющими кожу.
 
 ## EN
 
-A lizard tail that curled up after losing its owner.
-Very bitter, but has skin hardening properties.
+A lizard tail that curled up after losing its owner. Very bitter, but has skin hardening properties.
 
 ## ZH
 
-失去生命后微微卷曲的蜥蜴尾巴。
-含有强烈的药性，能让人皮肤变硬。
-味道很苦。
+失去生命后微微卷曲的蜥蜴尾巴。含有强烈的药性，能让人皮肤变硬。味道很苦。
 
 ## NOTES
 

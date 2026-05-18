@@ -32,8 +32,7 @@ Their drooping flowers seem to be in mourning for heroes long past.
 
 ## ZH
 
-绽放在古老战场上的鲜红之花，即便在荒漠中也能顽强生长。
-低垂的花朵似乎是在哀悼曾在此牺牲的英灵。
+绽放在古老战场上的鲜红之花，即便在荒漠中也能顽强生长。低垂的花朵似乎是在哀悼曾在此牺牲的英灵。
 
 ## NOTES
 

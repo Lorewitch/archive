@@ -22,24 +22,17 @@
 
 ## RU
 
-Материал для ковки оружия.
-Может быть использован для создания двуручного оружия 4★.
-Философы говорят, что за всеми мирскими материями стоят четыре первопричины.
-Цель этих заготовок – стать оружием в руках настоящего героя.
+Материал для ковки оружия. Может быть использован для создания двуручного оружия 4★. Философы говорят,
+что за всеми мирскими материями стоят четыре первопричины. Цель этих заготовок – стать оружием в руках настоящего героя.
 
 ## EN
 
-Weapon forging material.
-Can be used to forge 4-star claymores.
-Philosophers believe that there are four purposes behind earthly things.
+Weapon forging material. Can be used to forge 4-star claymores. Philosophers believe that there are four purposes behind earthly things.
 The purpose of these billets is to become a weapon worthy of accompanying a hero.
 
 ## ZH
 
-生产武器的原材料。
-通过锻造，可以生产出4星的双手剑。
-哲学中认为尘世间事物，皆具备四种成因。
-这些原胚的「目的」，正是成为陪伴英雄的武器。
+生产武器的原材料。通过锻造，可以生产出4星的双手剑。哲学中认为尘世间事物，皆具备四种成因。这些原胚的「目的」，正是成为陪伴英雄的武器。
 
 ## NOTES
 

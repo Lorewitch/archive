@@ -23,25 +23,21 @@
 ## RU
 
 Прелестный нежный цветок розового оттенка. Хотя его называют розой, по своей природе он более близок к лилии. Говорят,
-что он символизирует страсть и романтические встречи. Согласно древним записям, радужные розы когда-то были обычным
-явлением. Их яркие цвета почти могли соперничать с пылающим пламенем семи небес. Этот цветок вымер, а когда эпоха
-подошла к бурному концу, растение, некогда росшее с ним в симбиозе, украло имя «радужная роза».
+что он символизирует страсть и романтические встречи. Согласно древним записям, радужные розы когда-то были обычным явлением.
+Их яркие цвета почти могли соперничать с пылающим пламенем семи небес. Этот цветок вымер, а когда эпоха подошла к бурному концу, растение,
+некогда росшее с ним в симбиозе, украло имя «радужная роза».
 
 ## EN
 
-A delicate and tender pink flower. Despite the name, Rainbow Roses are essentially more akin to Lilies. It is said to
-represent passion and romantic encounters. According to ancient records, rainbow-colored roses were once a common
-sight. Their bright colors could almost rival the blazing flames of the seven heavens. This flower has gone extinct,
-and as the era came to a tumultuous end, a plant that used to grow symbiotically with it stole the name "Rainbow
-Rose."
+A delicate and tender pink flower. Despite the name, Rainbow Roses are essentially more akin to Lilies.
+It is said to represent passion and romantic encounters. According to ancient records, rainbow-colored roses were once a common sight.
+Their bright colors could almost rival the blazing flames of the seven heavens. This flower has gone extinct, and as the era came to a tumultuous end,
+a plant that used to grow symbiotically with it stole the name "Rainbow Rose."
 
 ## ZH
 
-纤婉而柔洁的粉色花卉。
-虽然被称作蔷薇，但本质上更接近百合。
-据说象征着热情与浪漫的邂逅。
-据古代记录，虹彩蔷薇曾随处可见，其鲜艳的色彩几乎能与七天之上燃烧的火焰相媲美。
-如今这种花已经灭绝，而在那个时代动荡终结之时，一种曾与它共生的植物盗用了「虹彩蔷薇」之名。
+纤婉而柔洁的粉色花卉。虽然被称作蔷薇，但本质上更接近百合。据说象征着热情与浪漫的邂逅。据古代记录，虹彩蔷薇曾随处可见，
+其鲜艳的色彩几乎能与七天之上燃烧的火焰相媲美。如今这种花已经灭绝，而在那个时代动荡终结之时，一种曾与它共生的植物盗用了「虹彩蔷薇」之名。
 
 ## NOTES
 

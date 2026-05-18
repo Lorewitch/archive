@@ -22,16 +22,13 @@
 
 ## RU
 
-Древесина, полученная из ясеня.
-Очень прочная, из неё можно изготовить высокопрочные несущие конструкции, панели для укрепления стен или грузовые ящики и другие изделия, которые
-должны выдерживать высокие нагрузки.
-Служит для изготовления декора.
+Древесина, полученная из ясеня. Очень прочная, из неё можно изготовить высокопрочные несущие конструкции,
+панели для укрепления стен или грузовые ящики и другие изделия, которые должны выдерживать высокие нагрузки. Служит для изготовления декора.
 
 ## EN
 
-Wood from the Ash Tree.
-With its extremely high strength, it is not only used for making strong load-bearing components, but also for making sheets to be used as wall
-reinforcements, and for transportation crates subject to frequent shocks.
+Wood from the Ash Tree. With its extremely high strength, it is not only used for making strong load-bearing components,
+but also for making sheets to be used as wall reinforcements, and for transportation crates subject to frequent shocks.
 Can be used to create furnishings.
 
 ## ZH

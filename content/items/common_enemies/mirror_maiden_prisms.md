@@ -42,14 +42,12 @@
 
 ### material: crystal_prism
 
-Отклоняющая лучи света призма.
-Этой призмой можно создавать иллюзии и в некотором смысле управлять сердцами людей.
+Отклоняющая лучи света призма. Этой призмой можно создавать иллюзии и в некотором смысле управлять сердцами людей.
 
 ### material: polarizing_prism
 
-Отклоняющая лучи света призма.
-В темноте такие призмы распространяют луч света по большей площади.
-Быть может, именно из-за этой особенности они способны принести толику покоя тем, чьи сердца объяты тьмой.
+Отклоняющая лучи света призма. В темноте такие призмы распространяют луч света по большей площади. Быть может,
+именно из-за этой особенности они способны принести толику покоя тем, чьи сердца объяты тьмой.
 
 ## EN
 
@@ -59,13 +57,12 @@ This was once a prism that could polarize light, but has grown dull through the 
 
 ### material: crystal_prism
 
-A prism that can bend light.
-Illusory images can be made using such prisms, giving such devices — in a manner of speaking — the power to sway human hearts.
+A prism that can bend light. Illusory images can be made using such prisms, giving such devices — in a manner of speaking —
+the power to sway human hearts.
 
 ### material: polarizing_prism
 
-A prism that can bend light.
-In the darkness, these prisms can spread thin light into a wider area.
+A prism that can bend light. In the darkness, these prisms can spread thin light into a wider area.
 Perhaps this is due to this quirk that these prisms can grant a measure of peace to those whose hearts are oft shrouded in darkness.
 
 ## ZH
@@ -76,13 +73,12 @@ Perhaps this is due to this quirk that these prisms can grant a measure of peace
 
 ### material: crystal_prism
 
-能够偏转光线的棱镜。
-利用这种棱镜，可以制造虚幻的影像。从某种意义而言，也因此有着操纵人心的力量。
+能够偏转光线的棱镜。利用这种棱镜，可以制造虚幻的影像。从某种意义而言，也因此有着操纵人心的力量。
 
 ### material: polarizing_prism
 
-能够偏转光线的棱镜。
-在黑暗中，棱镜可以将细微的光明散布到更大的范围里。或许也是因为这样的特性，这种棱镜对于内心常常被黑暗笼罩的人，有着令他们稍稍安心的力量。
+能够偏转光线的棱镜。在黑暗中，棱镜可以将细微的光明散布到更大的范围里。或许也是因为这样的特性，这种棱镜对于内心常常被黑暗笼罩的人，
+有着令他们稍稍安心的力量。
 
 ## NOTES
 

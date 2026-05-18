@@ -38,8 +38,8 @@
 
 ### material: desiccated_shell
 
-Разрушенная оболочка священного хищника. Осязаемое свидетельство великого бедствия, поглотившего давние земли.
-Обычно встречается в тех местах, куда мало кто осмеливается ступать.
+Разрушенная оболочка священного хищника. Осязаемое свидетельство великого бедствия, поглотившего давние земли. Обычно встречается в тех местах,
+куда мало кто осмеливается ступать.
 
 ### material: sturdy_shell
 
@@ -55,37 +55,34 @@
 
 ### material: desiccated_shell
 
-The ruined shell of a Consecrated Beast.
-A tangible effigy to the grand calamity that devoured the lands of yore, usually only discovered in places few dare tread.
+The ruined shell of a Consecrated Beast. A tangible effigy to the grand calamity that devoured the lands of yore,
+usually only discovered in places few dare tread.
 
 ### material: sturdy_shell
 
-The sturdy shell of a Consecrated Beast.
-The remains of a ruinous beast that once gnawed at the flesh of great, fallen beings.
+The sturdy shell of a Consecrated Beast. The remains of a ruinous beast that once gnawed at the flesh of great, fallen beings.
 Even should the beasts sup a sliver of power from the gods of yesteryear, they too will greet the same end as said gods.
 
 ### material: marked_shell
 
-The marked shell of a Consecrated Beast inscribed with ancient script.
-On the pallid contours of the shell, the regrets of a time long past have been inlaid.
-One day, the bones of the beast will scatter like dust in the wind, and then, finally, may the exalted deceased greet their final rest...
+The marked shell of a Consecrated Beast inscribed with ancient script. On the pallid contours of the shell,
+the regrets of a time long past have been inlaid. One day, the bones of the beast will scatter like dust in the wind, and then, finally,
+may the exalted deceased greet their final rest...
 
 ## ZH
 
 ### material: desiccated_shell
 
-圣骸兽脊背上残毁的骨壳。
-昔日遍布四方之土的灾厄之证，如今唯有在人迹罕至之处方能寻得踪影。
+圣骸兽脊背上残毁的骨壳。昔日遍布四方之土的灾厄之证，如今唯有在人迹罕至之处方能寻得踪影。
 
 ### material: sturdy_shell
 
-圣骸兽脊背上坚实的骨壳。
-噬啮殒落的伟大生灵之躯骸，并藉此升衍的灾兽之骨。纵然窃得昔日权能的片影，兽群终究无法逃过与诸神相同的终局。
+圣骸兽脊背上坚实的骨壳。噬啮殒落的伟大生灵之躯骸，并藉此升衍的灾兽之骨。纵然窃得昔日权能的片影，兽群终究无法逃过与诸神相同的终局。
 
 ### material: marked_shell
 
-圣骸兽脊背上铭镌着古老徽记的骨壳。
-琅霜般净固的骨壳上，依稀萦绕着遥世的遗恨。终有一日，兽骨会在时之风中散作白灰，而那旧日倾殒的高贵者，最终也会迎来安眠之日吧…
+圣骸兽脊背上铭镌着古老徽记的骨壳。琅霜般净固的骨壳上，依稀萦绕着遥世的遗恨。终有一日，兽骨会在时之风中散作白灰，而那旧日倾殒的高贵者，
+最终也会迎来安眠之日吧…
 
 ## NOTES
 

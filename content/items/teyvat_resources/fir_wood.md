@@ -22,19 +22,15 @@
 
 ## RU
 
-Древесина, полученная из пихты.
-Широко используется благодаря отличному качеству и привлекательному узору.
-Служит для изготовления декора.
+Древесина, полученная из пихты. Широко используется благодаря отличному качеству и привлекательному узору. Служит для изготовления декора.
 
 ## EN
 
-Wood from the tree known as "Faber's Fir." Widely used for its fine quality and attractive grain.
-Can be used to create furnishings.
+Wood from the tree known as "Faber's Fir." Widely used for its fine quality and attractive grain. Can be used to create furnishings.
 
 ## ZH
 
-「冷杉」出产的木材，有着不错的木质和纹理，被广泛使用于各种领域。
-可用于制作摆设。
+「冷杉」出产的木材，有着不错的木质和纹理，被广泛使用于各种领域。可用于制作摆设。
 
 ## NOTES
 

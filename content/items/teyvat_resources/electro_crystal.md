@@ -22,18 +22,15 @@
 
 ## RU
 
-Заряженный электричеством кристалл, который продолжает тянуть электричество из окружающего воздуха.
-Если взять его в руку, то она начнёт неметь.
+Заряженный электричеством кристалл, который продолжает тянуть электричество из окружающего воздуха. Если взять его в руку, то она начнёт неметь.
 
 ## EN
 
-A power-rich crystal that draws electricity from the air around it.
-Holding it makes your hand a little numb.
+A power-rich crystal that draws electricity from the air around it. Holding it makes your hand a little numb.
 
 ## ZH
 
-富含电力的晶石，由逸散在大气与大地中的电气积聚而成。
-摸起来酥酥麻麻的。
+富含电力的晶石，由逸散在大气与大地中的电气积聚而成。摸起来酥酥麻麻的。
 
 ## NOTES
 

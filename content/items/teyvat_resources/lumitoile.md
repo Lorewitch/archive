@@ -22,18 +22,15 @@
 
 ## RU
 
-Моллюск, излучающий в воде мягкое мерцание.
-В основном прикрепляется к стенам строений у воды или под водой.
+Моллюск, излучающий в воде мягкое мерцание. В основном прикрепляется к стенам строений у воды или под водой.
 
 ## EN
 
-A soft-bodied animal that emits a gentle light.
-Often found climbing the walls of buildings near the water or underwater.
+A soft-bodied animal that emits a gentle light. Often found climbing the walls of buildings near the water or underwater.
 
 ## ZH
 
-在水中会发出柔浅微光的软体动物。
-大多攀附在水边或水下的人造建筑表面。
+在水中会发出柔浅微光的软体动物。大多攀附在水边或水下的人造建筑表面。
 
 ## NOTES
 

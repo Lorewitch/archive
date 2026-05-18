@@ -32,8 +32,7 @@ Crystals from mines that were eroded by the energy of the Ley Lines cannot be pr
 
 ## ZH
 
-可以通过「委托锻造」，利用原粹树脂，提炼成武器经验材料。
-受地脉的能量侵蚀的水晶矿，寻常手段无法处理。
+可以通过「委托锻造」，利用原粹树脂，提炼成武器经验材料。受地脉的能量侵蚀的水晶矿，寻常手段无法处理。
 
 ## NOTES
 

@@ -38,55 +38,48 @@
 
 ### material: feathery_fin
 
-Фрагмент плавника, извлечённый из спины поверженного зверя Сюаньвэнь.
-Хотя Сюаньвэнь не может летать на большие расстояния, благодаря этим плавникам, напоминающим перья, он может быстро преследовать добычу.
+Фрагмент плавника, извлечённый из спины поверженного зверя Сюаньвэнь. Хотя Сюаньвэнь не может летать на большие расстояния, благодаря этим плавникам,
+напоминающим перья, он может быстро преследовать добычу.
 
 ### material: lunar_fin
 
-Плавник, извлечённый из спины поверженного зверя Сюаньвэнь.
-Мягкое свечение плавника, напоминающее лунный свет, создаёт ощущение безмятежности.
+Плавник, извлечённый из спины поверженного зверя Сюаньвэнь. Мягкое свечение плавника, напоминающее лунный свет, создаёт ощущение безмятежности.
 
 ### material: chasmlight_fin
 
-Изящный плавник, извлечённый из спины поверженного зверя Сюаньвэнь.
-Лёгкое свечение после преломления о него содержит элементы силы Адептов.
+Изящный плавник, извлечённый из спины поверженного зверя Сюаньвэнь. Лёгкое свечение после преломления о него содержит элементы силы Адептов.
 В тишине ночи даже самые жестокие звери ненадолго погружаются в мирную дрёму, вспоминая времена, когда сны принадлежали не только людям.
 
 ## EN
 
 ### material: feathery_fin
 
-A fin fragment taken from a defeated Xuanwen Beast's back.
-Even though Xuanwen Beasts can't fly over long distances, these feather-like fins enable them to swiftly pursue their prey.
+A fin fragment taken from a defeated Xuanwen Beast's back. Even though Xuanwen Beasts can't fly over long distances,
+these feather-like fins enable them to swiftly pursue their prey.
 
 ### material: lunar_fin
 
-A fin taken from a defeated Xuanwen Beast's back.
-The soft, moonlight-esque glow on the fin gives off a sense of serenity.
+A fin taken from a defeated Xuanwen Beast's back. The soft, moonlight-esque glow on the fin gives off a sense of serenity.
 
 ### material: chasmlight_fin
 
-An elegant fin taken from a defeated Xuanwen Beast's back.
-The faint light it reflects contains traces of adeptal energy.
-In the still of the night, even the most violent beasts briefly sink into a peaceful slumber, reminiscing on times when dreams belonged not only to
-humans.
+An elegant fin taken from a defeated Xuanwen Beast's back. The faint light it reflects contains traces of adeptal energy. In the still of the night,
+even the most violent beasts briefly sink into a peaceful slumber, reminiscing on times when dreams belonged not only to humans.
 
 ## ZH
 
 ### material: feathery_fin
 
-击败玄文兽后，从其背上取得的鳍翅残片。
-尽管不具备长距离飞行的能力，这些如同鸟羽一般的鳍翅依然能让玄文兽在驰逐猎物时更为迅疾。
+击败玄文兽后，从其背上取得的鳍翅残片。尽管不具备长距离飞行的能力，这些如同鸟羽一般的鳍翅依然能让玄文兽在驰逐猎物时更为迅疾。
 
 ### material: lunar_fin
 
-击败玄文兽后，从其背上取得的鳍翅。
-其上隐隐折射着如月色般温润的幽光，不知为何给人一种宁谧感。
+击败玄文兽后，从其背上取得的鳍翅。其上隐隐折射着如月色般温润的幽光，不知为何给人一种宁谧感。
 
 ### material: chasmlight_fin
 
-击败玄文兽后，从其背上取得的华美鳍翅。
-其上折射着幽邃的微光，能隐隐感受到仙力的痕迹。更深夜静之时，即便是凶暴的野兽亦会短暂沉入宁谧的安眠，追忆「梦」尚不独属于人的年岁。
+击败玄文兽后，从其背上取得的华美鳍翅。其上折射着幽邃的微光，能隐隐感受到仙力的痕迹。更深夜静之时，即便是凶暴的野兽亦会短暂沉入宁谧的安眠，
+追忆「梦」尚不独属于人的年岁。
 
 ## NOTES
 

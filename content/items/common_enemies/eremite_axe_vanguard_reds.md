@@ -38,8 +38,8 @@
 
 ### material: faded_red_satin
 
-Выцветшая лента из красного шёлка, которой завязывали глаза.
-Многие Пустынники завязывают себе глаза, но первоначальный смысл этого обычая давно потерян в песках времени.
+Выцветшая лента из красного шёлка, которой завязывали глаза. Многие Пустынники завязывают себе глаза,
+но первоначальный смысл этого обычая давно потерян в песках времени.
 
 ### material: trimmed_red_silk
 
@@ -48,18 +48,17 @@
 
 ### material: rich_red_brocade
 
-Красная шёлковая лента, расшитая золотым узором.
-Потерянный народ, что появился на свет среди золотых песков пустыни, иногда поёт свою песню, смысл которой давно забыт.
-Они славят знойное солнце, что светит всем поровну, они с горечью провожают последние отсветы вечерней зари.
-В конце песни повторяются незнакомые слова – говорят, это имена их древних божеств.
-Когда король пустыни был жив, его подданные закрывали глаза повязками, чтобы не обжечься, смотря на его солнцеподобный лик.
+Красная шёлковая лента, расшитая золотым узором. Потерянный народ, что появился на свет среди золотых песков пустыни, иногда поёт свою песню,
+смысл которой давно забыт. Они славят знойное солнце, что светит всем поровну, они с горечью провожают последние отсветы вечерней зари.
+В конце песни повторяются незнакомые слова – говорят, это имена их древних божеств. Когда король пустыни был жив,
+его подданные закрывали глаза повязками, чтобы не обжечься, смотря на его солнцеподобный лик.
 
 ## EN
 
 ### material: faded_red_satin
 
-A piece of red satin used to cover the eyes. The fabric is slightly torn.
-Many Eremites tend to cover their eyes with textiles, but the original intention of this practice has long been lost to the sands of time.
+A piece of red satin used to cover the eyes. The fabric is slightly torn. Many Eremites tend to cover their eyes with textiles,
+but the original intention of this practice has long been lost to the sands of time.
 
 ### material: trimmed_red_silk
 
@@ -69,12 +68,11 @@ Word has it that they are more than convinced that all things betray, even their
 
 ### material: rich_red_brocade
 
-A piece of red brocade woven with golden thread.
-Those born in the gilded desert under the sun occasionally sing a song, of which the meaning has been forgotten.
-They would praise the scorching sun that illuminates the earth as equally as ever and bewail the afterglow at the end of the dusk.
+A piece of red brocade woven with golden thread. Those born in the gilded desert under the sun occasionally sing a song,
+of which the meaning has been forgotten. They would praise the scorching sun that illuminates the earth as equally as ever and bewail the afterglow at the end of the dusk.
 Some unfamiliar words recur at the end of the song, which are said to be the names of ancient gods.
-Legend has it that when the King of the Desert was still alive, his people chose to cover their eyes as they dared not look upon him, whose
-brilliance was beyond that of the sun.
+Legend has it that when the King of the Desert was still alive, his people chose to cover their eyes as they dared not look upon him,
+whose brilliance was beyond that of the sun.
 
 ## ZH
 
@@ -84,11 +82,13 @@ brilliance was beyond that of the sun.
 
 ### material: trimmed_red_silk
 
-镶有简单装饰的红色绸缎。老练的战士能够从对手眼神中的破绽，找到先机。镀金旅团早已失去了可效忠的主，能够相信的只有自己。据说，他们坚信万物皆会背叛，连自己的双眼也不例外。
+镶有简单装饰的红色绸缎。老练的战士能够从对手眼神中的破绽，找到先机。镀金旅团早已失去了可效忠的主，能够相信的只有自己。据说，
+他们坚信万物皆会背叛，连自己的双眼也不例外。
 
 ### material: rich_red_brocade
 
-以金丝织成纹路的红色绸缎。在日光之下如同镀金的沙漠当中出生的遗民，偶尔会唱起含义已被遗忘的歌谣，赞美平等照耀大地的烈日，痛惜黄昏之末的余晖。在歌谣的终章反复出现的陌生词汇，据说是古老神明的名讳。据说，沙漠之王尚在时，子民们不敢直视太阳般的光辉，因而遮住了自己的双目。
+以金丝织成纹路的红色绸缎。在日光之下如同镀金的沙漠当中出生的遗民，偶尔会唱起含义已被遗忘的歌谣，赞美平等照耀大地的烈日，痛惜黄昏之末的余晖。
+在歌谣的终章反复出现的陌生词汇，据说是古老神明的名讳。据说，沙漠之王尚在时，子民们不敢直视太阳般的光辉，因而遮住了自己的双目。
 
 ## NOTES
 

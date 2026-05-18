@@ -22,18 +22,16 @@
 
 ## RU
 
-Раковиновидная форма, излучающая тусклый свет.
-По-видимому, это результат конденсации более примитивной элементальной энергии, а не панцирь некоего существа.
+Раковиновидная форма, излучающая тусклый свет. По-видимому, это результат конденсации более примитивной элементальной энергии,
+а не панцирь некоего существа.
 
 ## EN
 
-A conch-like structure that gives off a faint glow.
-Despite the name, it is not a shell but something condensed from pure elemental energy.
+A conch-like structure that gives off a faint glow. Despite the name, it is not a shell but something condensed from pure elemental energy.
 
 ## ZH
 
-散发着幽光的贝状结构。
-似乎是纯净的元素能量凝结而成的产物，而非某种生物的甲壳。
+散发着幽光的贝状结构。似乎是纯净的元素能量凝结而成的产物，而非某种生物的甲壳。
 
 ## NOTES
 

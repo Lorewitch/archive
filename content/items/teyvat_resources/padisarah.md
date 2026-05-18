@@ -22,19 +22,15 @@
 
 ## RU
 
-Священный, благородный и очень капризный цветок.
-Из его бутонов производят ценные благовония.
+Священный, благородный и очень капризный цветок. Из его бутонов производят ценные благовония.
 
 ## EN
 
-A holy and noble plant.
-The conditions for growth in its environment are very demanding.
-The flower buds can be processed to make valuable spices.
+A holy and noble plant. The conditions for growth in its environment are very demanding. The flower buds can be processed to make valuable spices.
 
 ## ZH
 
-圣洁而高贵的花卉，对生长环境的要求十分苛刻。
-花蕊经过加工后可以制成珍贵的香料。
+圣洁而高贵的花卉，对生长环境的要求十分苛刻。花蕊经过加工后可以制成珍贵的香料。
 
 ## NOTES
 

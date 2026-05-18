@@ -42,15 +42,14 @@
 
 ### material: mechanical_spur_gear
 
-Шестерня от мека.
-Пусть кинематика заводных механизмов и шагнула далеко вперёд, но никому так и не удалось превзойти заложенные 400 лет назад Аленом Гильотеном основы
-динамики и его структуру.
+Шестерня от мека. Пусть кинематика заводных механизмов и шагнула далеко вперёд,
+но никому так и не удалось превзойти заложенные 400 лет назад Аленом Гильотеном основы динамики и его структуру.
 
 ### material: artificed_dynamic_gear
 
 Шестерня от мека. Достижения в точности обработки и материаловедении сыграли ключевую роль в прогрессе меков Фонтейна.
-Благодаря современному оборудованию любой инженер может создать механизм, который превзойдёт устройства времён мастера заводных механизмов Алена
-Гильотена.
+Благодаря современному оборудованию любой инженер может создать механизм,
+который превзойдёт устройства времён мастера заводных механизмов Алена Гильотена.
 
 ## EN
 
@@ -60,9 +59,8 @@ Clockwork meka's gear. It is a crucial part of the meka's transmission structure
 
 ### material: mechanical_spur_gear
 
-Clockwork meka's gear.
-Although many breakthroughs have been made in the kinematics of clockwork meka, its dynamics research has not seen any major advancements beyond the
-framework laid down by Alain Guillotin four hundred years ago.
+Clockwork meka's gear. Although many breakthroughs have been made in the kinematics of clockwork meka,
+its dynamics research has not seen any major advancements beyond the framework laid down by Alain Guillotin four hundred years ago.
 
 ### material: artificed_dynamic_gear
 

@@ -22,13 +22,12 @@
 
 ## RU
 
-Древесина ольхи.
-Обладает высокой устойчивостью к влаге и холоду, поэтому хорошо подходит для изготовления мебели и музыкальных инструментов.
+Древесина ольхи. Обладает высокой устойчивостью к влаге и холоду, поэтому хорошо подходит для изготовления мебели и музыкальных инструментов.
 
 ## EN
 
-Wood from the Alder Tree.
-It demonstrates considerable resistance to moisture and cold, making it a fine raw material for both furniture and musical instruments.
+Wood from the Alder Tree. It demonstrates considerable resistance to moisture and cold,
+making it a fine raw material for both furniture and musical instruments.
 
 ## ZH
 

@@ -22,13 +22,11 @@
 
 ## RU
 
-Внешне цветок напоминает странное каменистое растение.
-Только во время цветения обнаруживается великолепная, похожая на кристалл сердцевина.
+Внешне цветок напоминает странное каменистое растение. Только во время цветения обнаруживается великолепная, похожая на кристалл сердцевина.
 
 ## EN
 
-A strange plant whose flower's exterior resembles stone.
-Only in bloom does it reveal a resplendent, crystal-like core.
+A strange plant whose flower's exterior resembles stone. Only in bloom does it reveal a resplendent, crystal-like core.
 
 ## ZH
 

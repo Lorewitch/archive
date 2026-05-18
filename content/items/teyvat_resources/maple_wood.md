@@ -22,20 +22,15 @@
 
 ## RU
 
-Древесина, полученная из веерного клёна.
-Умеренная жёсткость, отличное качество, изысканный окрас и текстура.
-Служит для изготовления декора.
+Древесина, полученная из веерного клёна. Умеренная жёсткость, отличное качество, изысканный окрас и текстура. Служит для изготовления декора.
 
 ## EN
 
-Timber from the Amur Maple.
-Excellent quality wood with a fine color and texture.
-Can be used to create furnishings.
+Timber from the Amur Maple. Excellent quality wood with a fine color and texture. Can be used to create furnishings.
 
 ## ZH
 
-产自「羽扇枫」的木材，硬度适中，品质优异，色泽与纹理上佳。
-可用于制作摆设。
+产自「羽扇枫」的木材，硬度适中，品质优异，色泽与纹理上佳。可用于制作摆设。
 
 ## NOTES
 

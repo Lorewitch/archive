@@ -22,18 +22,15 @@
 
 ## RU
 
-Ядро кристальной бабочки.
-Поглощает элементальную энергию из воздуха.
+Ядро кристальной бабочки. Поглощает элементальную энергию из воздуха.
 
 ## EN
 
-The core of a crystal butterfly.
-It absorbs elemental energy that has escaped into the atmosphere.
+The core of a crystal butterfly. It absorbs elemental energy that has escaped into the atmosphere.
 
 ## ZH
 
-晶蝶的核心。
-是吸食着大气中逸散的细小元素的晶蝶长出的奇妙器官。
+晶蝶的核心。是吸食着大气中逸散的细小元素的晶蝶长出的奇妙器官。
 
 ## NOTES
 

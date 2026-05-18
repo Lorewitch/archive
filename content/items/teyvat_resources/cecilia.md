@@ -22,13 +22,12 @@
 
 ## RU
 
-Цветы, такие же прекрасные, как и их имя.
-Они растут только там, где дует резкий холодный ветер.
+Цветы, такие же прекрасные, как и их имя. Они растут только там, где дует резкий холодный ветер.
 
 ## EN
 
-A beautiful flower with a name that suits its appearance.
-It only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.
+A beautiful flower with a name that suits its appearance. It only grows where harsh winds blow,
+and is just as intangible as the true heart of an unbound soul.
 
 ## ZH
 

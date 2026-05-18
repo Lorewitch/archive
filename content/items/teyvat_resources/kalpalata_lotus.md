@@ -22,19 +22,17 @@
 
 ## RU
 
-Цветы вьющегося растения, произрастающего на скалах и валунах.
-Хоть эти растения и называются «лотосами», но, кроме внешнего вида, не имеют с ними ничего общего.
+Цветы вьющегося растения, произрастающего на скалах и валунах. Хоть эти растения и называются «лотосами», но, кроме внешнего вида,
+не имеют с ними ничего общего.
 
 ## EN
 
-Flowers from vines that grow on cliff sides.
-It is called a lotus only because it has a similar appearance to one.
-Aside from that, it bears no other similar properties to the lotus.
+Flowers from vines that grow on cliff sides. It is called a lotus only because it has a similar appearance to one. Aside from that,
+it bears no other similar properties to the lotus.
 
 ## ZH
 
-生长在山崖峭壁之上的攀援植物开出的花朵。
-被称为莲只是因为外形相似，本身和莲花并没有什么关系。
+生长在山崖峭壁之上的攀援植物开出的花朵。被称为莲只是因为外形相似，本身和莲花并没有什么关系。
 
 ## NOTES
 

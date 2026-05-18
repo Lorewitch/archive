@@ -59,14 +59,12 @@
 ### material: shivada_jade_chunk
 
 Материал возвышения персонажа.
-«... Простите...»
-«Что заставил вас взять все обиды мира на себя».
+«... Простите...» «Что заставил вас взять все обиды мира на себя».
 
 ### material: shivada_jade_gemstone
 
 Материал возвышения персонажа.
-«... Простите... Что заставил вас взять все обиды мира на себя
-Вы выдержали мой жестокий холод, значит в вас буйствует желание жечь.
+«... Простите... Что заставил вас взять все обиды мира на себя Вы выдержали мой жестокий холод, значит в вас буйствует желание жечь.
 Тогда сожгите для меня этот старый мир».
 
 ## EN
@@ -83,15 +81,13 @@ Character Ascension material.
 ### material: shivada_jade_chunk
 
 Character Ascension material.
-"Sorry..."
-"... to also have you shoulder the grievances of the world."
+"Sorry..." "... to also have you shoulder the grievances of the world."
 
 ### material: shivada_jade_gemstone
 
 Character Ascension material.
-"Sorry... to also have you shoulder the grievances of the world.
-"Since you could endure my bitter cold, you must have the desire to burn?
-"Then, burn away the old world for me."
+"Sorry... to also have you shoulder the grievances of the world. "Since you could endure my bitter cold, you must have the desire to burn? "Then,
+burn away the old world for me."
 
 ## ZH
 
@@ -107,15 +103,12 @@ Character Ascension material.
 ### material: shivada_jade_chunk
 
 角色突破素材。
-「…抱歉…
-「让你们一起和我背负了整个世界的哀思。」
+「…抱歉…「让你们一起和我背负了整个世界的哀思。」
 
 ### material: shivada_jade_gemstone
 
 角色突破素材。
-「…抱歉让你们一起和我背负了整个世界的哀思。
-「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？
-「那么，替我燃烧旧世界吧。」
+「…抱歉让你们一起和我背负了整个世界的哀思。「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？「那么，替我燃烧旧世界吧。」
 
 ## NOTES
 

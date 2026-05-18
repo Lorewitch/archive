@@ -60,8 +60,8 @@ An insignia with a different shape to distinguish the sergeants from new recruit
 
 ### material: lieutenants_insignia
 
-An insignia to identify officers.
-The Fatui possess a colossal army, so there must be something extraordinary about the ones who achieved this rank within the group.
+An insignia to identify officers. The Fatui possess a colossal army,
+so there must be something extraordinary about the ones who achieved this rank within the group.
 
 ## ZH
 

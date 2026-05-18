@@ -22,21 +22,15 @@
 
 ## RU
 
-Древесина, полученная из инадзумского кедра.
-От природы податливая, узор прямой.
-Она источает лёгкий и нежный аромат.
-Служит для изготовления декора.
+Древесина, полученная из инадзумского кедра. От природы податливая, узор прямой. Она источает лёгкий и нежный аромат. Служит для изготовления декора.
 
 ## EN
 
-Wood from the Inazuman Cedar.
-It is soft, has straight veins, and gives off a light fragrance.
-Can be used to create furnishings.
+Wood from the Inazuman Cedar. It is soft, has straight veins, and gives off a light fragrance. Can be used to create furnishings.
 
 ## ZH
 
-「柳杉」出产的木材，质地柔软，纹理平直，散发着浅淡的清香。
-可用于制作摆设。
+「柳杉」出产的木材，质地柔软，纹理平直，散发着浅淡的清香。可用于制作摆设。
 
 ## NOTES
 

@@ -22,18 +22,15 @@
 
 ## RU
 
-Кристаллизованные Гео элементы, которые растут вместе с другими минералами.
-Ещё их называют «Каменным сердцем».
+Кристаллизованные Гео элементы, которые растут вместе с другими минералами. Ещё их называют «Каменным сердцем».
 
 ## EN
 
-A precious crystal of condensed pure Geo element that usually grows along with other minerals.
-It's also commonly called "Cor Petrae."
+A precious crystal of condensed pure Geo element that usually grows along with other minerals. It's also commonly called "Cor Petrae."
 
 ## ZH
 
-极纯的岩元素凝成的珍稀晶石，常与其他矿物伴生。
-也被称为「岩之心」。
+极纯的岩元素凝成的珍稀晶石，常与其他矿物伴生。也被称为「岩之心」。
 
 ## NOTES
 

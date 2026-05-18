@@ -22,16 +22,13 @@
 
 ## RU
 
-Древесина персиковой пальмы.
-Как следует из названия, это кора, похожая на кокосовую оболочку, которая становится гладкой и привлекательной после шлифовки.
-Обладает исключительной твёрдостью и влагостойкостью...
-Служит для изготовления декора.
+Древесина персиковой пальмы. Как следует из названия, это кора, похожая на кокосовую оболочку,
+которая становится гладкой и привлекательной после шлифовки. Обладает исключительной твёрдостью и влагостойкостью... Служит для изготовления декора.
 
 ## EN
 
-Timber from Peach Palm Trees.
-As the name suggests, the bark has the feel of coconut palm husks, and is both smooth and aesthetically pleasing once sanded and polished, with
-exceptional hardness and humidity-resistant qualities...
+Timber from Peach Palm Trees. As the name suggests, the bark has the feel of coconut palm husks,
+and is both smooth and aesthetically pleasing once sanded and polished, with exceptional hardness and humidity-resistant qualities...
 Can be used to create furnishings.
 
 ## ZH

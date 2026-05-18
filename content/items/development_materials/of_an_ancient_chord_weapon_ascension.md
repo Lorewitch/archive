@@ -49,19 +49,17 @@
 
 ### material: fragment_of_an_ancient_chord
 
-Прогнившая лира. Голос её заглох, на ней нельзя ни играть, ни слышать её звучания.
-Говорят, что потомки забытой музыки когда-то покрыли механическую деревянную лиру золотом, чтобы возродить великолепные остатки древней династии,
-тщетно пытаясь сопоставить её с молчаливыми големами...
-Прошло много лет, потом ещё больше, а испорченная лира так и осталась в руках безмолвного великана, ласкаемая волнами,
-исполняя лишь печальную мелодию.
+Прогнившая лира. Голос её заглох, на ней нельзя ни играть, ни слышать её звучания. Говорят,
+что потомки забытой музыки когда-то покрыли механическую деревянную лиру золотом, чтобы возродить великолепные остатки древней династии,
+тщетно пытаясь сопоставить её с молчаливыми големами... Прошло много лет, потом ещё больше,
+а испорченная лира так и осталась в руках безмолвного великана, ласкаемая волнами, исполняя лишь печальную мелодию.
 
 ### material: chapter_of_an_ancient_chord
 
 Легенды гласят, что оставшиеся в живых представители древней династии однажды отлили из чёрного железа лиру, чтобы отдать дань памяти и скорби.
-Играть на лире из чёрного железа невозможно.
-В память о той древней династии, которая когда-то так гордилась своей золотой музыкой,
-выжившие выковали этот тяжёлый инструмент и его не менее тягостное молчание.
-И по сей день лира из чёрного железа остаётся столь же безмолвной, как и та ушедшая эпоха.
+Играть на лире из чёрного железа невозможно. В память о той древней династии, которая когда-то так гордилась своей золотой музыкой,
+выжившие выковали этот тяжёлый инструмент и его не менее тягостное молчание. И по сей день лира из чёрного железа остаётся столь же безмолвной,
+как и та ушедшая эпоха.
 
 ### material: movement_of_an_ancient_chord
 
@@ -75,9 +73,8 @@
 Большая симфония Царя богов состоит из бесчисленных мелодий, связанных между собой, но её основной смысл подчинён общей судьбе водной нации.
 Сонаты и гармонии тех беззаботных лет когда-то были величайшим олицетворением цивилизации и порядка,
 но когда процветающая империя превратилась в площадку для игрищ тиранов, жестокие деспоты под покровом золотых плащей разорвали связь с истоками,
-и раздор окончательно охватил империю...
-Исконная песнь судьбы продолжала звучать на партитуре немеркнущего золота, не давая покоя никому... пока всё не растворилось,
-и всё не погрузилось в хаос.
+и раздор окончательно охватил империю... Исконная песнь судьбы продолжала звучать на партитуре немеркнущего золота, не давая покоя никому...
+пока всё не растворилось, и всё не погрузилось в хаос.
 
 ## EN
 
@@ -85,16 +82,15 @@
 
 A harp with rotten keys. Its voice blocked, it cannot be played nor its sound heard.
 It is said the descendants of the forgotten music once lacquered mechanical wooden harps with gold in order to revive the magnificent remnants of the ancient dynasty,
-futilely attempting to match them to the silent golems...
-A long time passed, and then more, and the rotten, off-key harps remained in the grasp of those silent giants, caressed by the waves,
-playing only sorrowful strains.
+futilely attempting to match them to the silent golems... A long time passed, and then more, and the rotten,
+off-key harps remained in the grasp of those silent giants, caressed by the waves, playing only sorrowful strains.
 
 ### material: chapter_of_an_ancient_chord
 
 Legends say that the survivors of that ancient dynasty once cast a harp out of black iron to commemorate and mourn.
-A harp cast of black iron cannot be played.
-To mourn that ancient dynasty that was once so proud of its golden music, those remaining forged this heavy instrument and its yet weightier silence.
-But no matter what, the black iron harp remained as silent as that lost era.
+A harp cast of black iron cannot be played. To mourn that ancient dynasty that was once so proud of its golden music,
+those remaining forged this heavy instrument and its yet weightier silence. But no matter what,
+the black iron harp remained as silent as that lost era.
 
 ### material: movement_of_an_ancient_chord
 
@@ -116,28 +112,24 @@ The original song of fate continued to ring out on a score of fading gold, unper
 
 ### material: fragment_of_an_ancient_chord
 
-琴键已然腐朽的竖琴，其音腔被阻塞，已经无法奏出声响。
-据说，遗忘乐章的后人为复活古老王朝的华丽残迹，曾在木制的机械竖琴上涂刷金漆，徒劳地将之与无言的魔像相配…
-很久很久以后，腐朽走调的竖琴仍旧留在那些沉默的巨像手中，任海浪抚摩，奏出忧伤的余音。
+琴键已然腐朽的竖琴，其音腔被阻塞，已经无法奏出声响。据说，遗忘乐章的后人为复活古老王朝的华丽残迹，曾在木制的机械竖琴上涂刷金漆，
+徒劳地将之与无言的魔像相配…很久很久以后，腐朽走调的竖琴仍旧留在那些沉默的巨像手中，任海浪抚摩，奏出忧伤的余音。
 
 ### material: chapter_of_an_ancient_chord
 
-传说古老王朝的遗民曾以黑铁铸成竖琴，用于纪念与哀悼。
-黑铁所铸成的竖琴，是奏不出声音的。
-为了哀悼那个以金色乐曲为傲的古老王朝，遗民们打造了这些沉重而沉默的乐器。
-但无论如何，正如那沉默的时代一般，黑铁是奏不出音调的。
+传说古老王朝的遗民曾以黑铁铸成竖琴，用于纪念与哀悼。黑铁所铸成的竖琴，是奏不出声音的。为了哀悼那个以金色乐曲为傲的古老王朝，
+遗民们打造了这些沉重而沉默的乐器。但无论如何，正如那沉默的时代一般，黑铁是奏不出音调的。
 
 ### material: movement_of_an_ancient_chord
 
-在黄金宫殿与王座同沉的灾难中，乐章破碎，音符沉默…
-但帝国的遗民从未放弃拯救与超越命运的执望。
-为了拯救没落的文明与超越的旧梦，「金色剧团」奏响美妙的乐曲，指引孩童向沉睡的魔像献出高贵灵魂。
+在黄金宫殿与王座同沉的灾难中，乐章破碎，音符沉默…但帝国的遗民从未放弃拯救与超越命运的执望。为了拯救没落的文明与超越的旧梦，
+「金色剧团」奏响美妙的乐曲，指引孩童向沉睡的魔像献出高贵灵魂。
 
 ### material: echo_of_an_ancient_chord
 
-神王的宏大乐章由无数曲调连缀而成，但其主调深潜于水国的共同命运之下。
-无虑之年的协和奏鸣曲曾是文明与秩序的最高代表，但当盛世帝国沦为暴君的乐园，横暴者以华丽的黄金大氅为遮掩撕裂着与源泉的联系，不和谐的噪音终于在帝国各处蜂起扰攘之时——
-那最初的命运之曲仍不受骚乱的影响，在黄金日渐褪色的乐谱上持续奏响着…直至一切皆被溶解，一切重回混沌。
+神王的宏大乐章由无数曲调连缀而成，但其主调深潜于水国的共同命运之下。无虑之年的协和奏鸣曲曾是文明与秩序的最高代表，但当盛世帝国沦为暴君的乐园，
+横暴者以华丽的黄金大氅为遮掩撕裂着与源泉的联系，不和谐的噪音终于在帝国各处蜂起扰攘之时——那最初的命运之曲仍不受骚乱的影响，
+在黄金日渐褪色的乐谱上持续奏响着…直至一切皆被溶解，一切重回混沌。
 
 ## NOTES
 

@@ -22,13 +22,11 @@
 
 ## RU
 
-Гриб, растущий под тёплыми бризами.
-Сам ветер питает жизнь в этих грибах.
+Гриб, растущий под тёплыми бризами. Сам ветер питает жизнь в этих грибах.
 
 ## EN
 
-A fungus that grows in the warm caress of the wind.
-It is as everlasting as the wind, nourishing life.
+A fungus that grows in the warm caress of the wind. It is as everlasting as the wind, nourishing life.
 
 ## ZH
 

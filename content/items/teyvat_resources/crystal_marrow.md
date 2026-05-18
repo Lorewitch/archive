@@ -22,18 +22,15 @@
 
 ## RU
 
-В этих кристаллах содержится сила Татаригами.
-Их добавление при выплавке значительно повышает прочность и упругость металлических изделий.
+В этих кристаллах содержится сила Татаригами. Их добавление при выплавке значительно повышает прочность и упругость металлических изделий.
 
 ## EN
 
-A crystal that contains a sliver of Tatarigami power.
-Adding this material during smelting will greatly increase the strength and toughness of metals.
+A crystal that contains a sliver of Tatarigami power. Adding this material during smelting will greatly increase the strength and toughness of metals.
 
 ## ZH
 
-蕴含着「祟神」力量的晶体。
-冶炼时加入这种物质的话，能极大地提高钢铁制品的强度与韧性。
+蕴含着「祟神」力量的晶体。冶炼时加入这种物质的话，能极大地提高钢铁制品的强度与韧性。
 
 ## NOTES
 

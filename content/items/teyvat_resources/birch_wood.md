@@ -22,22 +22,17 @@
 
 ## RU
 
-Древесина, полученная из берёзы.
-Она легко поддаётся обработке и позволяет выполнять плавные срезы.
-Мебель, изготовленная из этого дерева, красива и долговечна.
-Служит для изготовления декора.
+Древесина, полученная из берёзы. Она легко поддаётся обработке и позволяет выполнять плавные срезы. Мебель, изготовленная из этого дерева,
+красива и долговечна. Служит для изготовления декора.
 
 ## EN
 
-Timber obtained from birches.
-It is easy to work with and produces smooth cuts.
-Furniture made using such wood is both beautiful and durable.
+Timber obtained from birches. It is easy to work with and produces smooth cuts. Furniture made using such wood is both beautiful and durable.
 Can be used to create furnishings.
 
 ## ZH
 
-产自「桦树」的木材，易于加工，切面光滑，用这种木材制作的家具器物大多美观而耐用。
-可用于制作摆设。
+产自「桦树」的木材，易于加工，切面光滑，用这种木材制作的家具器物大多美观而耐用。可用于制作摆设。
 
 ## NOTES
 

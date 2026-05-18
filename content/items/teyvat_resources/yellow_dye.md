@@ -22,18 +22,15 @@
 
 ## RU
 
-Жёлтый краситель.
-Безусловно пригодится для изготовления декора.
+Жёлтый краситель. Безусловно пригодится для изготовления декора.
 
 ## EN
 
-Yellow dye.
-It will surely be of use in making furnishings.
+Yellow dye. It will surely be of use in making furnishings.
 
 ## ZH
 
-黄色的染料。
-制作摆设时应该能派上用场。
+黄色的染料。制作摆设时应该能派上用场。
 
 ## NOTES
 

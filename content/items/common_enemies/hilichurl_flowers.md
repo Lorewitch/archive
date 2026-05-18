@@ -48,8 +48,8 @@
 
 ### material: wanderers_blooming_flower
 
-Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется.
-Вечный чужеземец желает не награды, а лишь того, чтобы его труды дали плоды...
+Распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. Ничем особенным не выделяется. Вечный чужеземец желает не награды, а лишь того,
+чтобы его труды дали плоды...
 
 ## EN
 
@@ -65,8 +65,8 @@ Flowers can be used as gifts or offerings to express one's feelings in many cult
 
 ### material: wanderers_blooming_flower
 
-A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities.
-The eternal outlander asks not for reward, but only to see their deeds come to fruition...
+A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special qualities. The eternal outlander asks not for reward,
+but only to see their deeds come to fruition...
 
 ## ZH
 

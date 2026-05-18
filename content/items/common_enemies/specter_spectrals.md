@@ -43,25 +43,23 @@
 
 ### material: spectral_heart
 
-Энергетическое ядро, которое позволяет призракам парить.
-Эти элементальные формы жизни весьма необычны. Иногда их резко становится больше, а потом они вдруг исчезают.
+Энергетическое ядро, которое позволяет призракам парить. Эти элементальные формы жизни весьма необычны. Иногда их резко становится больше,
+а потом они вдруг исчезают.
 
 ### material: spectral_nucleus
 
-Цельное энергетическое ядро, которое иногда можно получить после победы над призраками.
-Среди тех, кому просто необходимо разделить мир на победителей и проигравших, идёт спор: что лучше парит - призрак или Анемо слайм?
+Цельное энергетическое ядро, которое иногда можно получить после победы над призраками. Среди тех,
+кому просто необходимо разделить мир на победителей и проигравших, идёт спор: что лучше парит - призрак или Анемо слайм?
 
 ## EN
 
 ### material: spectral_husk
 
-An energy core that allows the Specters to float. It contains a small amount of elemental energy.
-Most of the rest has already dispersed.
+An energy core that allows the Specters to float. It contains a small amount of elemental energy. Most of the rest has already dispersed.
 
 ### material: spectral_heart
 
-An energy core that allows the Specters to float.
-These elemental life-forms have strange behavioral patterns and will periodically surge in number before disappearing.
+An energy core that allows the Specters to float. These elemental life-forms have strange behavioral patterns and will periodically surge in number before disappearing.
 
 ### material: spectral_nucleus
 
@@ -72,18 +70,15 @@ There is a debate among those who just have to divide the world into winners and
 
 ### material: spectral_husk
 
-能让飘浮灵浮游的能量核，其中含有些微的元素。
-大部分的能量似乎已经逸散了。
+能让飘浮灵浮游的能量核，其中含有些微的元素。大部分的能量似乎已经逸散了。
 
 ### material: spectral_heart
 
-能让飘浮灵浮游的能量核。
-这种元素生物似乎有奇异的习性，会周期性大量涌现、消失。
+能让飘浮灵浮游的能量核。这种元素生物似乎有奇异的习性，会周期性大量涌现、消失。
 
 ### material: spectral_nucleus
 
-击败飘浮灵后有时能发现的完整的能量核。
-在热衷于给任何事物都分个高下的人当中，经常发生这样的争论：飘浮灵和风史莱姆的浮力，究竟孰高孰低。
+击败飘浮灵后有时能发现的完整的能量核。在热衷于给任何事物都分个高下的人当中，经常发生这样的争论：飘浮灵和风史莱姆的浮力，究竟孰高孰低。
 
 ## NOTES
 

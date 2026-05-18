@@ -22,18 +22,15 @@
 
 ## RU
 
-Пылающий ярким огнём цветок.
-Даже будучи потушенным, он всё равно продолжает испускать тепло.
+Пылающий ярким огнём цветок. Даже будучи потушенным, он всё равно продолжает испускать тепло.
 
 ## EN
 
-The stamen of a fiercely burning flower.
-Even after being extinguished, it still emits heat.
+The stamen of a fiercely burning flower. Even after being extinguished, it still emits heat.
 
 ## ZH
 
-火辣辣的花芯。
-熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。
+火辣辣的花芯。熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。
 
 ## NOTES
 

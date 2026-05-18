@@ -22,18 +22,15 @@
 
 ## RU
 
-Драконий клык, напитанный силой.
-Его блеск и текстура заметно изменились...
+Драконий клык, напитанный силой. Его блеск и текстура заметно изменились...
 
 ## EN
 
-A Dragontooth infused with power.
-Its luster and texture appear to have been somewhat transformed...
+A Dragontooth infused with power. Its luster and texture appear to have been somewhat transformed...
 
 ## ZH
 
-汲取了生命力的龙牙。
-无论是光泽还是质感，都愈加让人不安…
+汲取了生命力的龙牙。无论是光泽还是质感，都愈加让人不安…
 
 ## NOTES
 

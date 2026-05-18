@@ -42,8 +42,8 @@
 
 ### material: scoop_of_tainted_water
 
-Вода, полученная после победы над фантазмом мутных вод. Похоже, в ней ещё теплится жизненная сила.
-Океанид чистых вод в Фонтейне больше нет, остались лишь эти неуклюжие элементальные существа.
+Вода, полученная после победы над фантазмом мутных вод. Похоже, в ней ещё теплится жизненная сила. Океанид чистых вод в Фонтейне больше нет,
+остались лишь эти неуклюжие элементальные существа.
 
 ### material: newborn_tainted_hydro_phantasm
 
@@ -58,13 +58,13 @@ A small drop of water obtained from a defeated Tainted Hydro Phantasm. The life 
 
 ### material: scoop_of_tainted_water
 
-Water obtained from a defeated Tainted Hydro Phantasm. The life force in it has yet to ebb away.
-Today, with the Oceanids extirpated from Fontaine, strange elemental life forms that are far from elegant have appeared in the waters.
+Water obtained from a defeated Tainted Hydro Phantasm. The life force in it has yet to ebb away. Today, with the Oceanids extirpated from Fontaine,
+strange elemental life forms that are far from elegant have appeared in the waters.
 
 ### material: newborn_tainted_hydro_phantasm
 
-A new lifeform that arose from the dispersed Tainted Hydro Phantasm. It is trapped inside a bottle.
-The life contained within the waters is formless, and formless life is born of water and gains water's shape.
+A new lifeform that arose from the dispersed Tainted Hydro Phantasm. It is trapped inside a bottle. The life contained within the waters is formless,
+and formless life is born of water and gains water's shape.
 
 ## ZH
 

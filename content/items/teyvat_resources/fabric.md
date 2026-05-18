@@ -22,18 +22,15 @@
 
 ## RU
 
-Ткань хорошего качества.
-Безусловно пригодится для изготовления декора.
+Ткань хорошего качества. Безусловно пригодится для изготовления декора.
 
 ## EN
 
-Some fabric of fine make.
-It will surely be of use in making furnishings.
+Some fabric of fine make. It will surely be of use in making furnishings.
 
 ## ZH
 
-优质的布匹。
-制作摆设时应该能派上用场。
+优质的布匹。制作摆设时应该能派上用场。
 
 ## NOTES
 

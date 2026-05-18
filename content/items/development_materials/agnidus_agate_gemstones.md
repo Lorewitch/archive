@@ -59,15 +59,12 @@
 ### material: agnidus_agate_chunk
 
 Материал возвышения персонажа.
-«Паломничество за желанием, битва за имя...
-Сгоревшие дотла за мечту».
+«Паломничество за желанием, битва за имя... Сгоревшие дотла за мечту».
 
 ### material: agnidus_agate_gemstone
 
 Материал возвышения персонажа.
-«Паломничество за желанием, битва за имя...
-Сгоревшие дотла за мечту.
-Намерения никуда не делись, и он добился истины ██».
+«Паломничество за желанием, битва за имя... Сгоревшие дотла за мечту. Намерения никуда не делись, и он добился истины ██».
 
 ## EN
 
@@ -83,15 +80,12 @@ Character Ascension material.
 ### material: agnidus_agate_chunk
 
 Character Ascension material.
-"A pilgrimage for a wish; a battle to earn a name...
-Burnt to cinders for a dream."
+"A pilgrimage for a wish; a battle to earn a name... Burnt to cinders for a dream."
 
 ### material: agnidus_agate_gemstone
 
 Character Ascension material.
-"A pilgrimage for a wish; a battle to earn a name...
-Burnt to cinders for a dream.
-If the intention yet remains, achieved ██'s truth he has."
+"A pilgrimage for a wish; a battle to earn a name... Burnt to cinders for a dream. If the intention yet remains, achieved ██'s truth he has."
 
 ## ZH
 
@@ -107,15 +101,12 @@ If the intention yet remains, achieved ██'s truth he has."
 ### material: agnidus_agate_chunk
 
 角色突破素材。
-「为了愿望而步上巡礼，为了最强之名而云聚争斗…
-「最后为了梦在劫火中燃尽。」
+「为了愿望而步上巡礼，为了最强之名而云聚争斗…「最后为了梦在劫火中燃尽。」
 
 ### material: agnidus_agate_gemstone
 
 角色突破素材。
-「为了愿望而步上巡礼，为了最强之名而云聚争斗…
-「最后为了梦在劫火中燃尽。
-「灰烬中如果留下了最初的心，那他就达成了██的真实。」
+「为了愿望而步上巡礼，为了最强之名而云聚争斗…「最后为了梦在劫火中燃尽。「灰烬中如果留下了最初的心，那他就达成了██的真实。」
 
 ## NOTES
 

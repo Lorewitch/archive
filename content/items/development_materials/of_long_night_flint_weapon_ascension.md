@@ -49,78 +49,62 @@
 
 ### material: ember_of_long_night_flint
 
-Материал возвышения оружия.
-В земной поэзии свет часто служит метафорой надежды. Огонь гаснет в тишине лишь затем, чтобы обозначить путь во тьме перед рассветом.
-Но ни первый Литейщик факелов, ни друг, с которым он в детстве рисовал рай, так и не узнали, куда ведёт этот освещённый путь,
-пока свет окончательно не погас.
+Материал возвышения оружия. В земной поэзии свет часто служит метафорой надежды. Огонь гаснет в тишине лишь затем,
+чтобы обозначить путь во тьме перед рассветом. Но ни первый Литейщик факелов, ни друг, с которым он в детстве рисовал рай, так и не узнали,
+куда ведёт этот освещённый путь, пока свет окончательно не погас.
 
 ### material: afterglow_of_long_night_flint
 
-Материал возвышения оружия.
-Зажжённый светильник может развеять тьму, и потому жители пограничья верили: пока фонари светоносцев горят, в жилище живых не будет злых духов.
-В то же самое верили и воины, поклявшиеся охранять ночь.
-Именно поэтому человек, словно мотылёк на свет, шёл навстречу горе зла в доспехах, чтобы защитить своё хрупкое тело.
-Пока чёрные волны не поглотят его плоть или его плоть не поглотит чёрные волны, отличить одно от другого невозможно.
+Материал возвышения оружия. Зажжённый светильник может развеять тьму, и потому жители пограничья верили: пока фонари светоносцев горят,
+в жилище живых не будет злых духов. В то же самое верили и воины, поклявшиеся охранять ночь. Именно поэтому человек, словно мотылёк на свет,
+шёл навстречу горе зла в доспехах, чтобы защитить своё хрупкое тело. Пока чёрные волны не поглотят его плоть или его плоть не поглотит чёрные волны,
+отличить одно от другого невозможно.
 
 ### material: flare_of_long_night_flint
 
-Материал возвышения оружия.
-Эмблема Светоносцев - это соловей с пылающим фитилём в клюве.
-Говорят, когда-то этот соловей был гербом знатного рода северного королевства.
-В уголке, куда не проникал свет, мальчик, ставший позже Великим Вором, вырезал вместе с другом первую эмблему ворона, подражая соловью.
-Но то было давно.
-Теперь вороньи эмблемы встречаются повсюду, а соловей, на которого ворон когда-то равнялся, всё ещё живёт на своей башне,
-воспевая свету скорбь зимнего города.
+Материал возвышения оружия. Эмблема Светоносцев - это соловей с пылающим фитилём в клюве. Говорят,
+когда-то этот соловей был гербом знатного рода северного королевства. В уголке, куда не проникал свет, мальчик, ставший позже Великим Вором,
+вырезал вместе с другом первую эмблему ворона, подражая соловью. Но то было давно. Теперь вороньи эмблемы встречаются повсюду, а соловей,
+на которого ворон когда-то равнялся, всё ещё живёт на своей башне, воспевая свету скорбь зимнего города.
 
 ### material: blaze_of_long_night_flint
 
-Материал возвышения оружия.
-В те долгие годы, когда ночь сковала землю, первый Литейщик факелов зажёг огонь, разгоняющий тьму, и поклялся стоять на страже против чёрных волн.
-Так он заслужил королевский указ, учредивший Светоносцев.
-В отличие от Охотников Сумеречного двора, Светоносцы, патрулировавшие ночью, не обладали ни древними техниками утраченной империи,
-ни знатными титулами.
+Материал возвышения оружия. В те долгие годы, когда ночь сковала землю, первый Литейщик факелов зажёг огонь, разгоняющий тьму,
+и поклялся стоять на страже против чёрных волн. Так он заслужил королевский указ, учредивший Светоносцев. В отличие от Охотников Сумеречного двора,
+Светоносцы, патрулировавшие ночью, не обладали ни древними техниками утраченной империи, ни знатными титулами.
 Они полагались лишь на слабое тело в серебряных доспехах, на мечи и фонари в своих руках и на древнюю клятву, передаваемую из поколения в поколение.
-Сколь бы много душ ни пало под тусклым светом, катастрофа тьмы не в силах сломить волю смертных.
-Ведь долгая ночь может отнять жизнь, но не зарю, что однажды взойдёт.
+Сколь бы много душ ни пало под тусклым светом, катастрофа тьмы не в силах сломить волю смертных. Ведь долгая ночь может отнять жизнь, но не зарю,
+что однажды взойдёт.
 
 ## EN
 
 ### material: ember_of_long_night_flint
 
-Weapon Ascension Material.
-In earthly poetry, light is often a metaphor of hope. The fires burn out in silence, only to reveal the onward path in the darkness before dawn.
-Regardless,
-neither the first Torchforger nor the friend with whom he painted Elysium as a child ever knew where the illuminated path would lead until the moment
-the lights were extinguished.
+Weapon Ascension Material. In earthly poetry, light is often a metaphor of hope. The fires burn out in silence,
+only to reveal the onward path in the darkness before dawn. Regardless,
+neither the first Torchforger nor the friend with whom he painted Elysium as a child ever knew where the illuminated path would lead until the moment the lights were extinguished.
 
 ### material: afterglow_of_long_night_flint
 
-Weapon Ascension Material.
-Lighting a lamp can dispel darkness, and so the people of the borderlands believed that as long as the lamps of the Lightkeepers were lit,
-the home of the living would be free of evil spirits.
-The warriors who had sworn to watch over the night believed the same.
-That is why, like moths to a flame, man faced a mountain of evil clad in armor to protect his fragile flesh.
-Until the black tide consumes his flesh, or his flesh devours the black tide, the two cannot be told apart.
+Weapon Ascension Material. Lighting a lamp can dispel darkness, and so the people of the borderlands believed that as long as the lamps of the Lightkeepers were lit,
+the home of the living would be free of evil spirits. The warriors who had sworn to watch over the night believed the same. That is why,
+like moths to a flame, man faced a mountain of evil clad in armor to protect his fragile flesh. Until the black tide consumes his flesh,
+or his flesh devours the black tide, the two cannot be told apart.
 
 ### material: flare_of_long_night_flint
 
-Weapon Ascension Material.
-The insignia of the Lightkeepers is a nightingale holding a burning wick in its beak.
-It is said that in the past, the nightingale insignia belonged to a renowned noble house in the northern kingdom.
-In the shadow untouched by light, a boy, who would become a legendary thief,
-carved his first raven insignia with his friend in imitation of the nightingale.
-But that was many years ago.
+Weapon Ascension Material. The insignia of the Lightkeepers is a nightingale holding a burning wick in its beak. It is said that in the past,
+the nightingale insignia belonged to a renowned noble house in the northern kingdom. In the shadow untouched by light, a boy,
+who would become a legendary thief, carved his first raven insignia with his friend in imitation of the nightingale. But that was many years ago.
 Nowadays, the raven insignia can be seen everywhere, but the nightingale that the raven once looked up to still dwells on its tower,
 lamenting the winter city to the light.
 
 ### material: blaze_of_long_night_flint
 
-Weapon Ascension Material.
-In the long years when the night grasped the land,
+Weapon Ascension Material. In the long years when the night grasped the land,
 the first Torchforger lit the flames that dispelled the darkness and swore vigilance against the black tide,
-so earning the royal edict that established the Lightkeepers.
-Unlike the Marechaussee Hunters of the high seas, the Lightkeepers who patrolled the night did not possess any ancient techniques from a lost empire,
-or prestigious titles and ranks.
+so earning the royal edict that established the Lightkeepers. Unlike the Marechaussee Hunters of the high seas,
+the Lightkeepers who patrolled the night did not possess any ancient techniques from a lost empire, or prestigious titles and ranks.
 All they could rely on was weak flesh clad in silver armor, the swords and lamps in their hands, and an ancient oath passed down through generations.
 No matter how many souls perish beneath the dim light, the dark disaster cannot overturn mortal resolve — for the long night can only steal life,
 and not the dawn that will eventually rise.
@@ -129,35 +113,26 @@ and not the dawn that will eventually rise.
 
 ### material: ember_of_long_night_flint
 
-赋予武器突破之力的材料。
-在尘世的诗歌中，灯火常为希望的譬喻。
-燃薪在寂静中焚尽，只为让人们在黎明前的黑夜中望见前行的旅路。
-话虽如此，无论是最初的铸灯者，还是年幼时与他共同描绘乐园的挚友，直至灯火熄灭的时刻，也未曾知晓那被照亮的道路究竟通往何方。
+赋予武器突破之力的材料。在尘世的诗歌中，灯火常为希望的譬喻。燃薪在寂静中焚尽，只为让人们在黎明前的黑夜中望见前行的旅路。话虽如此，
+无论是最初的铸灯者，还是年幼时与他共同描绘乐园的挚友，直至灯火熄灭的时刻，也未曾知晓那被照亮的道路究竟通往何方。
 
 ### material: afterglow_of_long_night_flint
 
-赋予武器突破之力的材料。
-正如点亮灯盏便能驱散黑暗，边地的人们深信，只要执灯人的燧火长明，卑污的邪祟便不会沾染生者的家园。
-誓言守望长夜的战士亦曾如此相信。
-正因如此，如灯蛾赴火那般，男人以铁胄中脆弱的血肉迎向如山的灾厄。
-直至漆黑的荒潮噬尽他的血肉，亦或他的血肉将污浊的黑潮吞噬，二者再也无从界别。
+赋予武器突破之力的材料。正如点亮灯盏便能驱散黑暗，边地的人们深信，只要执灯人的燧火长明，卑污的邪祟便不会沾染生者的家园。
+誓言守望长夜的战士亦曾如此相信。正因如此，如灯蛾赴火那般，男人以铁胄中脆弱的血肉迎向如山的灾厄。直至漆黑的荒潮噬尽他的血肉，
+亦或他的血肉将污浊的黑潮吞噬，二者再也无从界别。
 
 ### material: flare_of_long_night_flint
 
-赋予武器突破之力的材料。
-口衔燃芯的夜莺即是执灯人的徽记。
-据说在过去，夜莺的纹章曾属于北国某个声名烜赫的贵族家系。
-曾几何时，在灯火不抵的阴影中，后来以大盗闻名诸国的少年亦是仿照夜莺的形貌，与挚友共同刻下了最初的鸦印。
-但那也已经是许多年前的事了。
-时至今日，鸦印已经遍及大地四方，而黑鸦曾仰望的夜莺依然留驻在高塔上，向光明低唱着冬都的哀歌。
+赋予武器突破之力的材料。口衔燃芯的夜莺即是执灯人的徽记。据说在过去，夜莺的纹章曾属于北国某个声名烜赫的贵族家系。曾几何时，在灯火不抵的阴影中，
+后来以大盗闻名诸国的少年亦是仿照夜莺的形貌，与挚友共同刻下了最初的鸦印。但那也已经是许多年前的事了。时至今日，鸦印已经遍及大地四方，
+而黑鸦曾仰望的夜莺依然留驻在高塔上，向光明低唱着冬都的哀歌。
 
 ### material: blaze_of_long_night_flint
 
-赋予武器突破之力的材料。
-在长夜笼罩边地的年岁里，最初的铸灯者点燃驱散黑暗的明焰，以守望黑潮的重誓换来了特许的御敕，「执灯人」便是这样诞生的。
-与高海的逐影猎人们不同，巡夜的执灯士们既没有失落帝国传承的古老技艺，也没有显荣的封号与头衔，能倚靠的只有银胄下羸弱的血肉之躯、手中的刀剑与灯盏，以及世代背负的古老誓约。
-无论多少魂灵伴着微茫的灯火一同消逝，漆黑的灾厄也无法覆尽凡人的决意。
-因为长夜能夺去的唯有生命，却夺不去终将到来的黎明。
+赋予武器突破之力的材料。在长夜笼罩边地的年岁里，最初的铸灯者点燃驱散黑暗的明焰，以守望黑潮的重誓换来了特许的御敕，「执灯人」便是这样诞生的。
+与高海的逐影猎人们不同，巡夜的执灯士们既没有失落帝国传承的古老技艺，也没有显荣的封号与头衔，能倚靠的只有银胄下羸弱的血肉之躯、手中的刀剑与灯盏，
+以及世代背负的古老誓约。无论多少魂灵伴着微茫的灯火一同消逝，漆黑的灾厄也无法覆尽凡人的决意。因为长夜能夺去的唯有生命，却夺不去终将到来的黎明。
 
 ## NOTES
 

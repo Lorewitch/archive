@@ -22,20 +22,17 @@
 
 ## RU
 
-Древесина, полученная из тамариска.
-Материал, устойчивый одновременно к сухости и влаге, что делает его невероятно долговечным.
+Древесина, полученная из тамариска. Материал, устойчивый одновременно к сухости и влаге, что делает его невероятно долговечным.
 Служит для изготовления декора.
 
 ## EN
 
-Wood of the Athel Tree.
-It has a special texture and is resilient to both drought and humidity, making it very durable.
+Wood of the Athel Tree. It has a special texture and is resilient to both drought and humidity, making it very durable.
 Can be used to create furnishings.
 
 ## ZH
 
-产自「柽树」的木材，质地特别，能够同时抵抗干旱和潮湿，极耐衰损。
-可用于制作摆设。
+产自「柽树」的木材，质地特别，能够同时抵抗干旱和潮湿，极耐衰损。可用于制作摆设。
 
 ## NOTES
 

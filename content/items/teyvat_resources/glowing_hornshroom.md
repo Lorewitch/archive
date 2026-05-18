@@ -22,13 +22,11 @@
 
 ## RU
 
-Гриб, излучающий слабый свет в темноте.
-Его форма напоминает роговой гребень иктомизавра.
+Гриб, излучающий слабый свет в темноте. Его форма напоминает роговой гребень иктомизавра.
 
 ## EN
 
-A fungus that emits a faint light in the darkness.
-It is so named because its shape resembles the horny crest of an Iktomisaurus.
+A fungus that emits a faint light in the darkness. It is so named because its shape resembles the horny crest of an Iktomisaurus.
 
 ## ZH
 

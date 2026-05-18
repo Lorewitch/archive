@@ -26,8 +26,7 @@
 
 ## EN
 
-A flower with a shape like floating wings.
-Its petals sway in an unbelievably relaxed, serene manner as they are caressed by the wind.
+A flower with a shape like floating wings. Its petals sway in an unbelievably relaxed, serene manner as they are caressed by the wind.
 
 ## ZH
 

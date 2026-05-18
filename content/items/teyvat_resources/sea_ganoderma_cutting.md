@@ -22,14 +22,12 @@
 
 ## RU
 
-Образец из сундука семян.
-Этот превосходный образец полон жизни.
-Посадите его на поле Чайника безмятежности, чтобы через некоторое время вырос морской гриб.
+Образец из сундука семян. Этот превосходный образец полон жизни. Посадите его на поле Чайника безмятежности,
+чтобы через некоторое время вырос морской гриб.
 
 ## EN
 
-A cutting obtained from the Seed Dispensary.
-A quality cutting full of life, just waiting to be planted in the Realm Within's fields.
+A cutting obtained from the Seed Dispensary. A quality cutting full of life, just waiting to be planted in the Realm Within's fields.
 After some time it will grow into a Sea Ganoderma.
 
 ## ZH

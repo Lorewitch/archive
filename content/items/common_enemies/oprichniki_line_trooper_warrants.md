@@ -38,52 +38,45 @@
 
 ### material: tattered_warrant
 
-Мандат, выданный опричнику Фатуи.
-Невольно задумываешься, какая решимость побудила его владельца вступить в их ряды.
+Мандат, выданный опричнику Фатуи. Невольно задумываешься, какая решимость побудила его владельца вступить в их ряды.
 
 ### material: immaculate_warrant
 
-Мандат, выданный опричнику Фатуи.
-Невольно задумываешься, не скрывается ли за изысканным оформлением цена, уплаченная за повышение его владельца.
+Мандат, выданный опричнику Фатуи. Невольно задумываешься, не скрывается ли за изысканным оформлением цена, уплаченная за повышение его владельца.
 
 ### material: frost_etched_warrant
 
-Мандат, выданный опричнику Фатуи.
-Украшен кристаллом ледяного цвета - символом славы. Невольно задумываешься, какими поступками обладатель доказал свою преданность и значимость.
+Мандат, выданный опричнику Фатуи. Украшен кристаллом ледяного цвета - символом славы. Невольно задумываешься,
+какими поступками обладатель доказал свою преданность и значимость.
 
 ## EN
 
 ### material: tattered_warrant
 
-A warrant issued to members of the Fatui Oprichniki.
-One wonders what resolve drove its bearer to sign up.
+A warrant issued to members of the Fatui Oprichniki. One wonders what resolve drove its bearer to sign up.
 
 ### material: immaculate_warrant
 
-A warrant issued to members of the Fatui Oprichniki.
-One wonders if the exquisite styling might hide a price paid for its owner's promotion.
+A warrant issued to members of the Fatui Oprichniki. One wonders if the exquisite styling might hide a price paid for its owner's promotion.
 
 ### material: frost_etched_warrant
 
-A warrant issued to members of the Fatui Oprichniki.
-Adorned by a frost-colored crystal — a symbol of glory. One wonders what deeds its bearer must have performed to prove their loyalty and worth.
+A warrant issued to members of the Fatui Oprichniki. Adorned by a frost-colored crystal — a symbol of glory.
+One wonders what deeds its bearer must have performed to prove their loyalty and worth.
 
 ## ZH
 
 ### material: tattered_warrant
 
-配发给愚人众特辖队的执凭。
-不知持有它的人，怀抱了怎样的决意加入这支队伍。
+配发给愚人众特辖队的执凭。不知持有它的人，怀抱了怎样的决意加入这支队伍。
 
 ### material: immaculate_warrant
 
-配发给愚人众特辖队的执凭。
-精致造型的背后，或许也有执凭的主人为了晋升所付出的代价吧。
+配发给愚人众特辖队的执凭。精致造型的背后，或许也有执凭的主人为了晋升所付出的代价吧。
 
 ### material: frost_etched_warrant
 
-配发给愚人众特辖队的执凭。
-镶嵌着霜色晶石的执凭是荣耀的象征，想必执有凭证者已在过去的行动中证明了自己的忠诚与价值。
+配发给愚人众特辖队的执凭。镶嵌着霜色晶石的执凭是荣耀的象征，想必执有凭证者已在过去的行动中证明了自己的忠诚与价值。
 
 ## NOTES
 

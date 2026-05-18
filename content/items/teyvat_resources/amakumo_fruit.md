@@ -22,13 +22,11 @@
 
 ## RU
 
-Плод облачной травы, которая растёт на острове Сэйрай.
-Если поднести его к уху, можно услышать слабое потрескивание тока.
+Плод облачной травы, которая растёт на острове Сэйрай. Если поднести его к уху, можно услышать слабое потрескивание тока.
 
 ## EN
 
-The fruit of the Amakumo Grass, which grows on Seirai Island.
-You can hear it crackling with a tiny current if you hold it up to your ear.
+The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it crackling with a tiny current if you hold it up to your ear.
 
 ## ZH
 

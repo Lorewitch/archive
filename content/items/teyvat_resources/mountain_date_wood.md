@@ -22,20 +22,17 @@
 
 ## RU
 
-Древесина, полученная из финиковой пальмы.
-Не отличается красивым узором или интересной текстурой, зато прекрасно умеет удерживать влагу и легка в уходе.
-Служит для изготовления декора.
+Древесина, полученная из финиковой пальмы. Не отличается красивым узором или интересной текстурой,
+зато прекрасно умеет удерживать влагу и легка в уходе. Служит для изготовления декора.
 
 ## EN
 
-Wood of the Mountain Date Tree.
-Although it neither feels special to touch nor possesses a special texture, it retains water exceedingly well and is thus easy to grow.
-Can be used to create furnishings.
+Wood of the Mountain Date Tree. Although it neither feels special to touch nor possesses a special texture,
+it retains water exceedingly well and is thus easy to grow. Can be used to create furnishings.
 
 ## ZH
 
-「刺葵树」出产的木材，虽然没有优秀的质感和纹理，但锁水能力极强，便于维护。
-可用于制作摆设。
+「刺葵树」出产的木材，虽然没有优秀的质感和纹理，但锁水能力极强，便于维护。可用于制作摆设。
 
 ## NOTES
 

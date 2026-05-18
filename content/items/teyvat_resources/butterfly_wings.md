@@ -22,19 +22,15 @@
 
 ## RU
 
-Ярко окрашенные крылья покрыты светящейся пылью.
-Может быть, именно благодаря ей бабочки могут летать?
+Ярко окрашенные крылья покрыты светящейся пылью. Может быть, именно благодаря ей бабочки могут летать?
 
 ## EN
 
-Brightly colored wings.
-The powder that falls from them shimmers a little.
-Perhaps this is what allows them to fly?
+Brightly colored wings. The powder that falls from them shimmers a little. Perhaps this is what allows them to fly?
 
 ## ZH
 
-色彩靓丽的翅膀。
-散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。
+色彩靓丽的翅膀。散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。
 
 ## NOTES
 

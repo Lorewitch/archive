@@ -22,18 +22,17 @@
 
 ## RU
 
-Необычный жук, который водится в богатых элементом Электро областях.
-Хоть и панцирь оникабуто напоминает злобного демона, сам жук миролюбив и медлителен.
+Необычный жук, который водится в богатых элементом Электро областях. Хоть и панцирь оникабуто напоминает злобного демона,
+сам жук миролюбив и медлителен.
 
 ## EN
 
-A strange beetle that inhabits areas rich with Electro energy.
-Its docile and sedentary temperament could not be more different from the fierce, demonic visage displayed on its armored shell.
+A strange beetle that inhabits areas rich with Electro energy. Its docile and sedentary temperament could not be more different from the fierce,
+demonic visage displayed on its armored shell.
 
 ## ZH
 
-栖息在雷元素富集区域的奇异甲虫。
-与甲壳上宛如怒目而视的恶鬼之相相反，鬼兜虫其实非常温顺迟钝。
+栖息在雷元素富集区域的奇异甲虫。与甲壳上宛如怒目而视的恶鬼之相相反，鬼兜虫其实非常温顺迟钝。
 
 ## NOTES
 

@@ -47,8 +47,8 @@
 
 ### material: crystalline_cyst_dust
 
-Изрядное количество спорового порошка, который был собран из целой споровой сумки.
-Если его поместить в среду с подходящими условиями, вскоре её заполонит выводок плесенников...
+Изрядное количество спорового порошка, который был собран из целой споровой сумки. Если его поместить в среду с подходящими условиями,
+вскоре её заполонит выводок плесенников...
 
 ## EN
 
@@ -64,8 +64,8 @@ Merchants usually sell them in paper packets.
 
 ### material: crystalline_cyst_dust
 
-A huge lump of spore powder collected from a structurally complete spore cyst.
-Put it in an appropriate environment, and the area might be filled with a thriving aggregation of Floating Fungi later...
+A huge lump of spore powder collected from a structurally complete spore cyst. Put it in an appropriate environment,
+and the area might be filled with a thriving aggregation of Floating Fungi later...
 
 ## ZH
 

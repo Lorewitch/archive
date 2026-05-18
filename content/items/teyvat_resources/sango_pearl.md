@@ -22,13 +22,11 @@
 
 ## RU
 
-Драгоценная жемчужина с берегов Ватацуми.
-Излучает мягкую лунную прохладу.
+Драгоценная жемчужина с берегов Ватацуми. Излучает мягкую лунную прохладу.
 
 ## EN
 
-A precious pearl that grows in the coral of Watatsumi.
-Gives off a cool sheen like that of the moonlight.
+A precious pearl that grows in the coral of Watatsumi. Gives off a cool sheen like that of the moonlight.
 
 ## ZH
 

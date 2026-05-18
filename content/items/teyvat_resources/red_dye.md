@@ -22,18 +22,15 @@
 
 ## RU
 
-Красный краситель.
-Безусловно пригодится для изготовления декора.
+Красный краситель. Безусловно пригодится для изготовления декора.
 
 ## EN
 
-Red dye.
-It will surely be of use in making furnishings.
+Red dye. It will surely be of use in making furnishings.
 
 ## ZH
 
-红色的染料。
-制作摆设时应该能派上用场。
+红色的染料。制作摆设时应该能派上用场。
 
 ## NOTES
 

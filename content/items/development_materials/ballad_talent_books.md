@@ -43,46 +43,34 @@
 
 ### material: teachings_of_ballad
 
-Материал повышения таланта.
-Поэзия - это душа царства ветров.
-Поэзия - это проявление прекрасных чувств.
+Материал повышения таланта. Поэзия - это душа царства ветров. Поэзия - это проявление прекрасных чувств.
 Приятным летним днём ветер несёт слова песен и стихов, которые касаются людских сердец, как ветер, ласкающий листья деревьев.
 
 ### material: guide_to_ballad
 
-Материал повышения таланта.
-Поэзия - это душа царства ветров.
-Поэзия - это проявление желания воодушевлять.
+Материал повышения таланта. Поэзия - это душа царства ветров. Поэзия - это проявление желания воодушевлять.
 Тёмным летним днём злой ветер на улицах и в переулках шепчет слова ярости, словно бой военных барабанов, словно грохот бури.
 
 ### material: philosophies_of_ballad
 
-Материал повышения таланта.
-Поэзия - это душа царства ветров.
-Поэзия - это проявление желания распространить слово.
+Материал повышения таланта. Поэзия - это душа царства ветров. Поэзия - это проявление желания распространить слово.
 Ничто не вечно и ничто не будет прежним, но только поэзия ветра будет вечно лететь по небесам, земле и морям во все уголки мира.
 
 ## EN
 
 ### material: teachings_of_ballad
 
-Talent Level-Up material.
-Poetry is the soul of the land of the wind.
-Poetry is the manifestations of beautiful feelings.
-On a beautiful day, the breezes carry with them poetry that touches the heart of people like the wind caressing the leaves.
+Talent Level-Up material. Poetry is the soul of the land of the wind. Poetry is the manifestations of beautiful feelings. On a beautiful day,
+the breezes carry with them poetry that touches the heart of people like the wind caressing the leaves.
 
 ### material: guide_to_ballad
 
-Talent Level-Up material.
-Poetry is the soul of the land of the wind.
-Poetry is the manifestations of the will to encourage.
-In the dark days, the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.
+Talent Level-Up material. Poetry is the soul of the land of the wind. Poetry is the manifestations of the will to encourage. In the dark days,
+the gales in the streets and alleyways whisper words of fury, like the battle drums, like the low rumbling before the storm.
 
 ### material: philosophies_of_ballad
 
-Talent Level-Up material.
-Poetry is the soul of the land of the wind.
-Poetry is the manifestations of the desire to spread the word.
+Talent Level-Up material. Poetry is the soul of the land of the wind. Poetry is the manifestations of the desire to spread the word.
 Though nothing is eternal, though nothing will be the same, the wind's poetry will still spread beyond the skies, the land,
 the seas to every corner of the world.
 
@@ -90,24 +78,16 @@ the seas to every corner of the world.
 
 ### material: teachings_of_ballad
 
-天赋培养素材。
-风之国土的灵魂是诗文。
-诗文是美好的心意。
-在美好的日子里，吹拂原野的风中飘扬着田园诗、情诗，如和风拨动草叶般拨动人们的心。
+天赋培养素材。风之国土的灵魂是诗文。诗文是美好的心意。在美好的日子里，吹拂原野的风中飘扬着田园诗、情诗，如和风拨动草叶般拨动人们的心。
 
 ### material: guide_to_ballad
 
-天赋培养素材。
-风之国土的灵魂是诗文。
-诗文是激励的心意。
-在黯淡的日子里，穿过巷道的风中低语着愤怒的诗文，如同战鼓，如同风暴前的低鸣。
+天赋培养素材。风之国土的灵魂是诗文。诗文是激励的心意。在黯淡的日子里，穿过巷道的风中低语着愤怒的诗文，如同战鼓，如同风暴前的低鸣。
 
 ### material: philosophies_of_ballad
 
-天赋培养素材。
-风之国土的灵魂是诗文。
-诗文是传颂的心意。
-即使一切都将逝去，即使一切都将不再，随风而行的诗歌，仍会将此世间一切美好传遍天空、大地与海洋的一切角落。
+天赋培养素材。风之国土的灵魂是诗文。诗文是传颂的心意。即使一切都将逝去，即使一切都将不再，随风而行的诗歌，仍会将此世间一切美好传遍天空、
+大地与海洋的一切角落。
 
 ## NOTES
 

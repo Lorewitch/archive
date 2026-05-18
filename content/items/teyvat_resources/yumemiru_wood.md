@@ -22,21 +22,16 @@
 
 ## RU
 
-Древесина, полученная из сакуры.
-Гладкая и насыщенная влагой.
-Говорят, она способна переносить в тёплые весенние сны.
-Служит для изготовления декора.
+Древесина, полученная из сакуры. Гладкая и насыщенная влагой. Говорят, она способна переносить в тёплые весенние сны. Служит для изготовления декора.
 
 ## EN
 
-Timber obtained from Sakura Trees.
-Exquisite in quality and full of moisture, people say that it can lull people into dreams as sweet as the warm spring.
-Can be used to create furnishings.
+Timber obtained from Sakura Trees. Exquisite in quality and full of moisture,
+people say that it can lull people into dreams as sweet as the warm spring. Can be used to create furnishings.
 
 ## ZH
 
-产自「樱树」的木材，质感细腻，富含水分，据说能为人们带来暖春般的美梦。
-可用于制作摆设。
+产自「樱树」的木材，质感细腻，富含水分，据说能为人们带来暖春般的美梦。可用于制作摆设。
 
 ## NOTES
 

@@ -22,15 +22,13 @@
 
 ## RU
 
-Семена из сундука семян.
-Эти превосходные семена полны жизни.
-Посадите их на поле Чайника безмятежности, чтобы через некоторое время вырос заоблачный камнелист.
+Семена из сундука семян. Эти превосходные семена полны жизни. Посадите их на поле Чайника безмятежности,
+чтобы через некоторое время вырос заоблачный камнелист.
 
 ## EN
 
-A seed obtained from the Seed Dispensary.
-A quality seed full of life, just waiting to be planted in the fields of the Realm Within.
-After some time, it will grow into Skysplit Gemblooms.
+A seed obtained from the Seed Dispensary. A quality seed full of life, just waiting to be planted in the fields of the Realm Within. After some time,
+it will grow into Skysplit Gemblooms.
 
 ## ZH
 

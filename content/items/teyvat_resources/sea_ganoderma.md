@@ -22,18 +22,17 @@
 
 ## RU
 
-Особый вид растения, который произрастает только в определённых морских областях и на островах.
-Хотя по внешнему виду и похож на гриб, на самом деле он состоит из скопления продуктов секреции некоторых моллюсков.
+Особый вид растения, который произрастает только в определённых морских областях и на островах. Хотя по внешнему виду и похож на гриб,
+на самом деле он состоит из скопления продуктов секреции некоторых моллюсков.
 
 ## EN
 
-A plant species that only grows in certain regions and islands of the ocean.
-Though it looks like a fungus of some sort, it actually comes from a substance secreted by certain soft-bodied organisms.
+A plant species that only grows in certain regions and islands of the ocean. Though it looks like a fungus of some sort,
+it actually comes from a substance secreted by certain soft-bodied organisms.
 
 ## ZH
 
-在某些特殊的海域中、岛屿上才会生长的特殊物种。
-虽然外形看起来像菌类，但其实是由软体生物分泌增生而成的。
+在某些特殊的海域中、岛屿上才会生长的特殊物种。虽然外形看起来像菌类，但其实是由软体生物分泌增生而成的。
 
 ## NOTES
 

@@ -22,18 +22,16 @@
 
 ## RU
 
-Ясный и чистый зелёный цветок рождается там, где сходятся водные артерии.
-У него простой тонкий аромат, освежающий, но нежный.
+Ясный и чистый зелёный цветок рождается там, где сходятся водные артерии. У него простой тонкий аромат, освежающий, но нежный.
 
 ## EN
 
-A clear and clean azure flower, it is born where Water Veins come together.
-It has a simple, cool, and elegant fragrance, pungent and refreshing yet gentle.
+A clear and clean azure flower, it is born where Water Veins come together. It has a simple, cool, and elegant fragrance,
+pungent and refreshing yet gentle.
 
 ## ZH
 
-明澈而澄净的苍色花卉。
-生于水脉汇聚之处，其香清冷淡雅，辛凉柔婉。
+明澈而澄净的苍色花卉。生于水脉汇聚之处，其香清冷淡雅，辛凉柔婉。
 
 ## NOTES
 

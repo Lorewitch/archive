@@ -22,20 +22,18 @@
 
 ## RU
 
-Покрытая колючками ягода. Постоянно цепляется за волчью шерсть. Если долго смотреть на эту ягоду, то можно услышать
-волчий вой. Волчий крюк обладает лечебными свойствами и помогает при лёгких недомоганиях. Правда, в изначальном виде
-он может навредить неосторожным людям или животным...
+Покрытая колючками ягода. Постоянно цепляется за волчью шерсть. Если долго смотреть на эту ягоду, то можно услышать волчий вой.
+Волчий крюк обладает лечебными свойствами и помогает при лёгких недомоганиях. Правда,
+в изначальном виде он может навредить неосторожным людям или животным...
 
 ## EN
 
-A berry with thorns that often gets attached to a wolf's pelt. When you look at it, you can almost hear the echoing
-cries of the wolves in the woods. Wolfhook has medicinal properties useful in treating minor illnesses. Although, in
-its original form, it can also harm careless people or animals...
+A berry with thorns that often gets attached to a wolf's pelt. When you look at it, you can almost hear the echoing cries of the wolves in the woods.
+Wolfhook has medicinal properties useful in treating minor illnesses. Although, in its original form, it can also harm careless people or animals...
 
 ## ZH
 
-带着勾刺的莓果，会挂在狼的毛皮上来迁徙。
-看见它时，仿佛能听见狼的凄嚎在林间回荡…钩钩果具有治疗小病的药用价值。
+带着勾刺的莓果，会挂在狼的毛皮上来迁徙。看见它时，仿佛能听见狼的凄嚎在林间回荡…钩钩果具有治疗小病的药用价值。
 不过它原本的形态也会伤害粗心的人或动物…
 
 ## NOTES

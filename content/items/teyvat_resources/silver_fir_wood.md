@@ -22,14 +22,13 @@
 
 ## RU
 
-Древесина серебряной пихты используется людьми с древних времён.
-Подходит как для изготовления небольших предметов, например бочек, так и для крупных, включая строительные панели и другие архитектурные
-элементы.
+Древесина серебряной пихты используется людьми с древних времён. Подходит как для изготовления небольших предметов, например бочек, так и для крупных,
+включая строительные панели и другие архитектурные элементы.
 
 ## EN
 
-Wood harvested from the Silver Fir Tree.
-Humans have favored this type of wood since ancient times for its wide range of uses, from crafting barrels to constructing frameworks.
+Wood harvested from the Silver Fir Tree. Humans have favored this type of wood since ancient times for its wide range of uses,
+from crafting barrels to constructing frameworks.
 
 ## ZH
 

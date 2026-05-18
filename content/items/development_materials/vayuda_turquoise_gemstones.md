@@ -59,15 +59,12 @@
 ### material: vayuda_turquoise_chunk
 
 Материал возвышения персонажа.
-«Ветра могут поменять направление».
-«Когда-нибудь они будут дуть в сторону лучшего будущего...»
+«Ветра могут поменять направление». «Когда-нибудь они будут дуть в сторону лучшего будущего...»
 
 ### material: vayuda_turquoise_gemstone
 
 Материал возвышения персонажа.
-«Ветра могут поменять направление».
-«Когда-нибудь они будут дуть в сторону лучшего будущего...»
-«Прими мои благословения и живи свободно!»
+«Ветра могут поменять направление». «Когда-нибудь они будут дуть в сторону лучшего будущего...» «Прими мои благословения и живи свободно!»
 
 ## EN
 
@@ -83,15 +80,12 @@ Character Ascension material.
 ### material: vayuda_turquoise_chunk
 
 Character Ascension material.
-"Still, the winds change direction.
-Someday, they will blow towards a brighter future..."
+"Still, the winds change direction. Someday, they will blow towards a brighter future..."
 
 ### material: vayuda_turquoise_gemstone
 
 Character Ascension material.
-"Still, the winds change direction.
-"Someday, they will blow towards a brighter future...
-"Take my blessings and live leisurely from this day onward."
+"Still, the winds change direction. "Someday, they will blow towards a brighter future... "Take my blessings and live leisurely from this day onward."
 
 ## ZH
 
@@ -107,15 +101,12 @@ Character Ascension material.
 ### material: vayuda_turquoise_chunk
 
 角色突破素材。
-「但风向是会转变的。
-「终有一天，会吹向更有光亮的方向。」
+「但风向是会转变的。「终有一天，会吹向更有光亮的方向。」
 
 ### material: vayuda_turquoise_gemstone
 
 角色突破素材。
-「但风向是会转变的。
-「终有一天，会吹向更有光亮的方向。
-「从今往后，带着我的祝福，活得更加从容一些吧。」
+「但风向是会转变的。「终有一天，会吹向更有光亮的方向。「从今往后，带着我的祝福，活得更加从容一些吧。」
 
 ## NOTES
 

@@ -63,8 +63,8 @@ Proper training is required for using this strange weapon.
 
 ### material: inspectors_sacrificial_knife
 
-In the hands of its lord, this fierce weapon has handled many "debts." No one has eyes in the back of their heads, and this weapon and its related
-techniques are designed around that weakness.
+In the hands of its lord, this fierce weapon has handled many "debts." No one has eyes in the back of their heads,
+and this weapon and its related techniques are designed around that weakness.
 
 ## ZH
 

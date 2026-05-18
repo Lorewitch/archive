@@ -17,27 +17,22 @@
 
 ## RU
 
-Это чудовище появилось из отростка артерий земли, который впитал эссенцию пронизывающего холода.
-Некоторые исследователи утверждают,
+Это чудовище появилось из отростка артерий земли, который впитал эссенцию пронизывающего холода. Некоторые исследователи утверждают,
 что растения подобны организму этого мира: они нормализуют турбулентные элементальные потоки артерий земли.
 Примерами такого явления стали туманный цветок, попрыгунья и другие наполненные элементальной энергией растения.
-В определённых обстоятельствах на протяжении многих лет некоторые растения могут превратиться в существ огромного размера и чудовищных
-намерений.
+В определённых обстоятельствах на протяжении многих лет некоторые растения могут превратиться в существ огромного размера и чудовищных намерений.
 
 ## EN
 
 A monster formed from a vine that was imbued with the essence of biting frost within the ley lines.
 Some studies suggest that plants are like the organs of the world, harmonizing the turbulent elemental energies of the ley lines.
-Concrete examples of this phenomena are Mist Flowers, Whopperflowers, and the like, which brim over with elemental energy.
-In certain circumstances,
+Concrete examples of this phenomena are Mist Flowers, Whopperflowers, and the like, which brim over with elemental energy. In certain circumstances,
 certain plants will turn into creatures of monstrous size and intent — such as the Cryo Regisvines — in the course of many years.
 
 ## ZH
 
-地脉中的寒霜附着在藤蔓上，由此形成的魔物。
-有研究认为，植物就像世界的器官一样，调和着元素奔涌的地脉；
-而这种生态在地表上的结晶就是冰雾花、骗骗花等，充满了元素能量的产物。
-而生长在特定环境的特定植物，经年累月或许就会成为急冻树这样的，如同魔兽一般庞大而凶猛的生命体吧…
+地脉中的寒霜附着在藤蔓上，由此形成的魔物。有研究认为，植物就像世界的器官一样，调和着元素奔涌的地脉；而这种生态在地表上的结晶就是冰雾花、
+骗骗花等，充满了元素能量的产物。而生长在特定环境的特定植物，经年累月或许就会成为急冻树这样的，如同魔兽一般庞大而凶猛的生命体吧…
 
 ---
 
@@ -53,9 +48,8 @@ certain plants will turn into creatures of monstrous size and intent — such as
 
 ### Инеевое ядро
 
-Ядро Крио папоротника, внутри которого содержатся чистые Крио элементы.
-Энергия и мысли, которые копятся глубоко в земле, в конечном итоге вспыхнут на поверхности.
-Даже смертельно тихий мороз заставит лозы и ветви пойти против своего естества и стать огромными и жестокими охотниками.
+Ядро Крио папоротника, внутри которого содержатся чистые Крио элементы. Энергия и мысли, которые копятся глубоко в земле,
+в конечном итоге вспыхнут на поверхности. Даже смертельно тихий мороз заставит лозы и ветви пойти против своего естества и стать огромными и жестокими охотниками.
 
 ## EN
 
@@ -63,18 +57,14 @@ certain plants will turn into creatures of monstrous size and intent — such as
 
 The exposed core of a defeated Cryo Regisvine. Pure Cryo energy is contained within it.
 Energy and thoughts that swell deep within the earth will eventually erupt on the surface.
-Even the deathly silent frost will attach to living things on the ground, turning even ordinary vegetation like vines into huge,
-vicious predators.
+Even the deathly silent frost will attach to living things on the ground, turning even ordinary vegetation like vines into huge, vicious predators.
 
 ## ZH
 
 ### 极寒之核
 
-急冻树被击败后，裸露出的原核。
-其中蕴含着纯净的冰元素。
-在大地深处中奔涌的能量与思念终归会喷发。
-就连哀思般沉寂的寒霜，也会附着在地面上的生命形态当中；
-即使原本不该狩猎生灵的藤蔓植物，也会变得庞大而凶悍吧。
+急冻树被击败后，裸露出的原核。其中蕴含着纯净的冰元素。在大地深处中奔涌的能量与思念终归会喷发。就连哀思般沉寂的寒霜，
+也会附着在地面上的生命形态当中；即使原本不该狩猎生灵的藤蔓植物，也会变得庞大而凶悍吧。
 
 ## NOTES
 

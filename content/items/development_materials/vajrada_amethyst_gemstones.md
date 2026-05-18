@@ -59,14 +59,12 @@
 ### material: vajrada_amethyst_chunk
 
 Материал возвышения персонажа.
-«Это тело самое благородное и выдающееся из всех в этом мире.
-Оно непременно должно властвовать над этим миром».
+«Это тело самое благородное и выдающееся из всех в этом мире. Оно непременно должно властвовать над этим миром».
 
 ### material: vajrada_amethyst_gemstone
 
 Материал возвышения персонажа.
-«Это тело самое благородное и выдающееся из всех в этом мире.
-Оно непременно должно властвовать над этим миром.
+«Это тело самое благородное и выдающееся из всех в этом мире. Оно непременно должно властвовать над этим миром.
 Однажды оно пообещало осуществить мечту народа - неизменную "вечность"».
 
 ## EN
@@ -83,14 +81,12 @@ Character Ascension material.
 ### material: vajrada_amethyst_chunk
 
 Character Ascension material.
-"This body is the noblest and most eminent of all in this world.
-It should hold absolute control over this world."
+"This body is the noblest and most eminent of all in this world. It should hold absolute control over this world."
 
 ### material: vajrada_amethyst_gemstone
 
 Character Ascension material.
-"This body is the noblest and most eminent of all in this world.
-"It should hold absolute control over this world.
+"This body is the noblest and most eminent of all in this world. "It should hold absolute control over this world.
 "It once promised its people a dream: the never-changing 'eternity.'"
 
 ## ZH
@@ -107,15 +103,12 @@ Character Ascension material.
 ### material: vajrada_amethyst_chunk
 
 角色突破素材。
-「此身即是尘世最为殊胜尊贵之身。
-「应持天下之大权。」
+「此身即是尘世最为殊胜尊贵之身。「应持天下之大权。」
 
 ### material: vajrada_amethyst_gemstone
 
 角色突破素材。
-「此身即是尘世最为殊胜尊贵之身。
-「应持天下之大权。
-「此身曾许诺予臣民一梦，既是千世万代不变不移的『永恒』。」
+「此身即是尘世最为殊胜尊贵之身。「应持天下之大权。「此身曾许诺予臣民一梦，既是千世万代不变不移的『永恒』。」
 
 ## NOTES
 

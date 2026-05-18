@@ -22,18 +22,15 @@
 
 ## RU
 
-Цветок, скованный в вечном льду.
-Даже будучи сорванным, этот цветок испускает холод.
+Цветок, скованный в вечном льду. Даже будучи сорванным, этот цветок испускает холод.
 
 ## EN
 
-A flower bud encased in solid ice.
-Even after being picked, the flower continues to emit cold.
+A flower bud encased in solid ice. Even after being picked, the flower continues to emit cold.
 
 ## ZH
 
-封闭在坚冰当中的花芯。
-即使离开了植株也持续散发着寒气的冰凉植物。
+封闭在坚冰当中的花芯。即使离开了植株也持续散发着寒气的冰凉植物。
 
 ## NOTES
 

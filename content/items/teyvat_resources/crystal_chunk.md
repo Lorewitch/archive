@@ -22,18 +22,15 @@
 
 ## RU
 
-Необработанные кристаллы.
-Только профессиональный ремесленник может выявить его истинную ценность.
+Необработанные кристаллы. Только профессиональный ремесленник может выявить его истинную ценность.
 
 ## EN
 
-An uncut crystal.
-Only professional craftsmanship can bring out its true value.
+An uncut crystal. Only professional craftsmanship can bring out its true value.
 
 ## ZH
 
-未经削切的晶体。
-在专门处理后，才能真正展现价值吧。
+未经削切的晶体。在专门处理后，才能真正展现价值吧。
 
 ## NOTES
 

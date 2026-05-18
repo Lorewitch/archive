@@ -38,52 +38,47 @@
 
 ### material: fractured_eye_of_the_deep_shadow
 
-Останки рассеявшейся формы рыболова из иного мира.
-Когда оболочка треснула, злоба внутри неё тоже исчезла.
+Останки рассеявшейся формы рыболова из иного мира. Когда оболочка треснула, злоба внутри неё тоже исчезла.
 
 ### material: aberrant_core_of_the_deep_shadow
 
-Останки рассеявшейся формы рыболова из иного мира.
-Это ядро, которое полностью прекратило работу, не имеет ничего общего со строением органов каких-либо существ на этой земле.
+Останки рассеявшейся формы рыболова из иного мира. Это ядро, которое полностью прекратило работу,
+не имеет ничего общего со строением органов каких-либо существ на этой земле.
 
 ### material: hooked_beak_of_the_deep_shadow
 
-Останки рассеявшейся формы рыболова из иного мира.
-Клюв, изогнутый подобно птичьему. Хищники из иных миров используют его, чтобы удерживать захваченную биомассу.
+Останки рассеявшейся формы рыболова из иного мира. Клюв, изогнутый подобно птичьему. Хищники из иных миров используют его,
+чтобы удерживать захваченную биомассу.
 
 ## EN
 
 ### material: fractured_eye_of_the_deep_shadow
 
-The remains of a fisher from beyond this world, left after its body dissolved.
-Once its shell cracked, the malice housed within faded away as well.
+The remains of a fisher from beyond this world, left after its body dissolved. Once its shell cracked, the malice housed within faded away as well.
 
 ### material: aberrant_core_of_the_deep_shadow
 
-The remains of a fisher from beyond this world, left after its body dissolved.
-A core whose functions have fully shut down, and its structure resembles no organ of any creature found on this earth.
+The remains of a fisher from beyond this world, left after its body dissolved. A core whose functions have fully shut down,
+and its structure resembles no organ of any creature found on this earth.
 
 ### material: hooked_beak_of_the_deep_shadow
 
-The remains of a fisher from beyond this world, left after its body dissolved.
-A birdlike, hook-shaped beak used by predators from beyond this world to store the biomass they seize.
+The remains of a fisher from beyond this world, left after its body dissolved. A birdlike,
+hook-shaped beak used by predators from beyond this world to store the biomass they seize.
 
 ## ZH
 
 ### material: fractured_eye_of_the_deep_shadow
 
-自异界侵入的钓客，在形体消散后留下的残屑。
-表壳碎裂后，寄宿在其中的恶意也随之消泯。
+自异界侵入的钓客，在形体消散后留下的残屑。表壳碎裂后，寄宿在其中的恶意也随之消泯。
 
 ### material: aberrant_core_of_the_deep_shadow
 
-自异界侵入的钓客，在形体消散后留下的残屑。
-机能已然停止的核心，与地上任何生物的器官组织都没有相似之处。
+自异界侵入的钓客，在形体消散后留下的残屑。机能已然停止的核心，与地上任何生物的器官组织都没有相似之处。
 
 ### material: hooked_beak_of_the_deep_shadow
 
-自异界侵入的钓客，在形体消散后留下的残屑。
-形如禽类的钩喙，乃是天外的捕食者们用于储存所攫获生物质的容器。
+自异界侵入的钓客，在形体消散后留下的残屑。形如禽类的钩喙，乃是天外的捕食者们用于储存所攫获生物质的容器。
 
 ## NOTES
 

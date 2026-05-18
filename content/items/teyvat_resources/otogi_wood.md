@@ -22,20 +22,16 @@
 
 ## RU
 
-Древесина, полученная из отоги.
-Поскольку она содержит оптимальное количество влаги и масел, ей находится множество применений.
+Древесина, полученная из отоги. Поскольку она содержит оптимальное количество влаги и масел, ей находится множество применений.
 Служит для изготовления декора.
 
 ## EN
 
-Wood from the Otogi Tree.
-It has just the right amount of moisture and oil, and as such has a great many uses.
-Can be used to create furnishings.
+Wood from the Otogi Tree. It has just the right amount of moisture and oil, and as such has a great many uses. Can be used to create furnishings.
 
 ## ZH
 
-「御伽树」出产的木材，水分和油脂的含量恰到好处，因此有着各种用途。
-可用于制作摆设。
+「御伽树」出产的木材，水分和油脂的含量恰到好处，因此有着各种用途。可用于制作摆设。
 
 ## NOTES
 

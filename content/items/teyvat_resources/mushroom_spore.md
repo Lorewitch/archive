@@ -22,14 +22,11 @@
 
 ## RU
 
-Споры из сундука семян.
-Эти превосходные споры полны жизни.
-Посадите их на поле Чайника безмятежности, чтобы через некоторое время вырос гриб.
+Споры из сундука семян. Эти превосходные споры полны жизни. Посадите их на поле Чайника безмятежности, чтобы через некоторое время вырос гриб.
 
 ## EN
 
-A spore obtained from the Seed Dispensary.
-A quality spore full of life, just waiting to be planted in the Realm Within's fields.
+A spore obtained from the Seed Dispensary. A quality spore full of life, just waiting to be planted in the Realm Within's fields.
 After some time it will grow into a Mushroom.
 
 ## ZH
