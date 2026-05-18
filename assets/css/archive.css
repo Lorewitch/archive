@@ -1621,45 +1621,38 @@ h3,
 }
 
 .dropped-by-grid {
-  column-count: 3;
-  column-gap: 12px;
+  display: grid;
+  gap: 12px;
+  align-items: start;
 }
 
 .dropped-by-grid.is-single {
-  column-count: 1;
-}
-
-.dropped-by-grid.is-pair,
-.dropped-by-grid.is-trio {
-  display: grid;
-  gap: 12px;
+  grid-template-columns: minmax(0, 1fr);
 }
 
 .dropped-by-grid.is-pair {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.dropped-by-grid.is-trio {
+.dropped-by-grid.is-trio,
+.dropped-by-grid.is-cascade {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.dropped-by-column {
+  display: grid;
+  min-width: 0;
+  gap: 12px;
+  align-content: start;
+}
+
 .dropped-by-card {
-  display: inline-block;
   width: 100%;
   min-width: 0;
-  margin: 0 0 12px;
   border: 1px solid rgba(91, 74, 62, 0.14);
   border-radius: 14px;
   background: rgba(203, 191, 175, 0.2);
   overflow: hidden;
-  break-inside: avoid;
-  page-break-inside: avoid;
-}
-
-.dropped-by-grid.is-pair .dropped-by-card,
-.dropped-by-grid.is-trio .dropped-by-card {
-  display: block;
-  margin: 0;
 }
 
 .dropped-by-card-inner {
@@ -2896,23 +2889,15 @@ a.enemy-loot-chip:focus-visible {
 }
 
 @media (max-width: 1160px) {
-  .dropped-by-grid {
-    column-count: 2;
-  }
-
-  .dropped-by-grid.is-single {
-    column-count: 1;
+  .dropped-by-grid.is-cascade {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 620px) {
-  .dropped-by-grid,
-  .dropped-by-grid.is-single {
-    column-count: 1;
-  }
-
   .dropped-by-grid.is-pair,
-  .dropped-by-grid.is-trio {
+  .dropped-by-grid.is-trio,
+  .dropped-by-grid.is-cascade {
     grid-template-columns: minmax(0, 1fr);
   }
 

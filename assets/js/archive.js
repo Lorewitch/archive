@@ -962,36 +962,62 @@ function renderEnemyNameBlock(enemy, className = "dropped-by-names") {
   `;
 }
 
+function droppedByGridClass(count) {
+  if (count === 1) return "dropped-by-grid is-single";
+  if (count === 2) return "dropped-by-grid is-pair";
+  if (count === 3) return "dropped-by-grid is-trio";
+  return "dropped-by-grid is-cascade";
+}
+
+function distributeDroppedByColumns(enemies, columnCount = 3) {
+  const columns = Array.from({ length: Math.min(columnCount, enemies.length) }, () => []);
+  enemies.forEach((enemy, index) => {
+    columns[index % columns.length].push(enemy);
+  });
+  return columns;
+}
+
+function renderDroppedByCard(enemy, currentItemId = "") {
+  const icon = enemy.icon
+    ? `<img class="dropped-by-icon" src="${escapeHtml(versionedAssetPath(enemy.icon))}" alt="" loading="lazy" decoding="async" width="46" height="46">`
+    : `<span class="dropped-by-icon entry-icon placeholder" aria-hidden="true">⌁</span>`;
+
+  return `
+    <article class="dropped-by-card">
+      <div class="dropped-by-card-inner">
+        <div class="dropped-by-header">
+          ${icon}
+          ${renderEnemyNameBlock(enemy)}
+        </div>
+        ${renderEnemyDropDetail(enemy, currentItemId)}
+      </div>
+    </article>
+  `;
+}
+
+function renderDroppedByCards(enemies, currentItemId = "") {
+  if (enemies.length <= 3) {
+    return enemies.map(enemy => renderDroppedByCard(enemy, currentItemId)).join("");
+  }
+
+  return distributeDroppedByColumns(enemies)
+    .map(column => `
+      <div class="dropped-by-column">
+        ${column.map(enemy => renderDroppedByCard(enemy, currentItemId)).join("")}
+      </div>
+    `)
+    .join("");
+}
+
 function renderDroppedBySection(item) {
   const enemies = droppedByEnemies(item);
   if (!enemies.length) return "";
 
-  const gridClass = enemies.length === 1
-    ? "dropped-by-grid is-single"
-    : enemies.length === 2 ? "dropped-by-grid is-pair"
-    : enemies.length === 3 ? "dropped-by-grid is-trio"
-    : "dropped-by-grid";
-
   return `
     <div class="dropped-by-section">
       <div class="dropped-by-title">Выпадает с</div>
-      <div class="${gridClass}">
-        ${enemies.map(enemy => {
-          const icon = enemy.icon
-            ? `<img class="dropped-by-icon" src="${escapeHtml(versionedAssetPath(enemy.icon))}" alt="" loading="lazy" decoding="async" width="46" height="46">`
-            : `<span class="dropped-by-icon entry-icon placeholder" aria-hidden="true">⌁</span>`;
-          return `
-            <article class="dropped-by-card">
-              <div class="dropped-by-card-inner">
-                <div class="dropped-by-header">
-                  ${icon}
-                  ${renderEnemyNameBlock(enemy)}
-                </div>
-                ${renderEnemyDropDetail(enemy, item?.id || "")}
-              </div>
-            </article>
-          `;
-        }).join("")}
+      <div class="${droppedByGridClass(enemies.length)}">
+        ${renderDroppedByCards(enemies, item?.id || "")}
       </div>
     </div>
   `;

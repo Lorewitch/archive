@@ -1079,23 +1079,15 @@
 }
 
 @media (max-width: 1160px) {
-  .dropped-by-grid {
-    column-count: 2;
-  }
-
-  .dropped-by-grid.is-single {
-    column-count: 1;
+  .dropped-by-grid.is-cascade {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 620px) {
-  .dropped-by-grid,
-  .dropped-by-grid.is-single {
-    column-count: 1;
-  }
-
   .dropped-by-grid.is-pair,
-  .dropped-by-grid.is-trio {
+  .dropped-by-grid.is-trio,
+  .dropped-by-grid.is-cascade {
     grid-template-columns: minmax(0, 1fr);
   }
 

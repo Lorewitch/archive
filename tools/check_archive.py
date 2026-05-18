@@ -479,28 +479,34 @@ def check_common_enemy_layout_guards() -> None:
         entries_text = entries_css.read_text(encoding="utf-8")
         required = [
             ".dropped-by-grid {",
-            "column-count: 3",
-            "break-inside: avoid",
-            ".dropped-by-grid.is-single",
-            "column-count: 1",
-            ".dropped-by-grid.is-pair",
-            ".dropped-by-grid.is-trio",
-            "grid-template-columns: repeat(3, minmax(0, 1fr))",
             "display: grid",
-            ".dropped-by-grid.is-pair .dropped-by-card",
-            ".dropped-by-grid.is-trio .dropped-by-card",
+            "align-items: start",
+            ".dropped-by-grid.is-single",
+            ".dropped-by-grid.is-pair",
+            ".dropped-by-grid.is-trio,",
+            ".dropped-by-grid.is-cascade",
+            "grid-template-columns: repeat(3, minmax(0, 1fr))",
+            ".dropped-by-column",
+            "align-content: start",
             "a.enemy-loot-chip:hover",
         ]
         for fragment in required:
             if fragment not in entries_text:
                 fail(f"src/css/06-entries.css: отсутствует каскадная раскладка блока Выпадает с: {fragment}")
+        forbidden = ["is-masonry", "column-count", "column-width", "column-gap"]
+        for fragment in forbidden:
+            if fragment in entries_text:
+                fail(f"src/css/06-entries.css: остался старый код каскадной раскладки: {fragment}")
 
     if responsive_css.exists():
         responsive_text = responsive_css.read_text(encoding="utf-8")
-        if ".dropped-by-grid" not in responsive_text or "column-count: 2" not in responsive_text:
+        if ".dropped-by-grid.is-cascade" not in responsive_text or "repeat(2, minmax(0, 1fr))" not in responsive_text:
             fail("src/css/07-responsive.css: каскадная раскладка блока Выпадает с должна сжиматься до двух колонок на средних экранах")
-        if ".dropped-by-grid.is-pair" not in responsive_text or ".dropped-by-grid.is-trio" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
+        if ".dropped-by-grid.is-pair" not in responsive_text or ".dropped-by-grid.is-trio" not in responsive_text or ".dropped-by-grid.is-cascade" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильная раскладка блока Выпадает с должна складывать карточки в одну колонку")
+        for fragment in ["is-masonry", "column-count", "column-width", "column-gap"]:
+            if fragment in responsive_text:
+                fail(f"src/css/07-responsive.css: остался старый код каскадной раскладки: {fragment}")
 
 
 def check_workflow_guards() -> None:
@@ -599,8 +605,12 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: группы обычных противников должны быть доступны как фильтры-галочки")
         if "Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type))" not in text:
             fail("assets/js/archive.js: фильтры-галочки обычных противников должны работать по пересечению групп")
-        if "dropped-by-grid is-single" not in text or "dropped-by-grid is-pair" not in text or "dropped-by-grid is-trio" not in text:
-            fail("assets/js/archive.js: блоки противников должны получать классы для одиночной, парной и тройной раскладки")
+        if "function droppedByGridClass" not in text or "dropped-by-grid is-single" not in text or "dropped-by-grid is-pair" not in text or "dropped-by-grid is-trio" not in text or "dropped-by-grid is-cascade" not in text:
+            fail("assets/js/archive.js: блоки противников должны получать классы для одиночной, парной, тройной и каскадной раскладки")
+        if "function distributeDroppedByColumns" not in text or "dropped-by-column" not in text or "index % columns.length" not in text:
+            fail("assets/js/archive.js: каскадная раскладка должна распределять 4+ противников по трём явным колонкам")
+        if "is-masonry" in text or "column-count" in text:
+            fail("assets/js/archive.js: остался старый код каскадной раскладки")
         if 'data-type-filter-toggle="all"' not in text or "toggle.indeterminate" not in text:
             fail("assets/js/archive.js: фильтры-галочки должны иметь общую галочку для быстрого выбора и снятия")
         if '["teapot", "Чайник"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
