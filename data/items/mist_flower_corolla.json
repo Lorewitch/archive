@@ -1,0 +1,41 @@
+{
+  "id": "mist_flower_corolla",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/mist_flower_corolla.webp",
+  "title": {
+    "ru": "Туманный цветок (венчик)",
+    "en": "Mist Flower Corolla",
+    "zh": "冰雾花花朵"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Цветок, скованный в вечном льду.\nДаже будучи сорванным, этот цветок испускает холод.",
+    "en": "A flower bud encased in solid ice.\nEven after being picked, the flower continues to emit cold.",
+    "zh": "封闭在坚冰当中的花芯。\n即使离开了植株也持续散发着寒气的冰凉植物。"
+  },
+  "description": {
+    "ru": "Цветок, скованный в вечном льду.\nДаже будучи сорванным, этот цветок испускает холод.",
+    "en": "A flower bud encased in solid ice.\nEven after being picked, the flower continues to emit cold.",
+    "zh": "封闭在坚冰当中的花芯。\n即使离开了植株也持续散发着寒气的冰凉植物。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "plant",
+  "item_type_title": {
+    "ru": "Растение",
+    "en": "Plant",
+    "zh": "植物"
+  }
+}

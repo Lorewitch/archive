@@ -1,0 +1,41 @@
+{
+  "id": "empowered_dragontooth",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/empowered_dragontooth.webp",
+  "title": {
+    "ru": "Напитанный силой драконий клык",
+    "en": "Empowered Dragontooth",
+    "zh": "汲取了生命力的龙牙"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.2",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Драконий клык, напитанный силой.\nЕго блеск и текстура заметно изменились...",
+    "en": "A Dragontooth infused with power.\nIts luster and texture appear to have been somewhat transformed...",
+    "zh": "汲取了生命力的龙牙。\n无论是光泽还是质感，都愈加让人不安…"
+  },
+  "description": {
+    "ru": "Драконий клык, напитанный силой.\nЕго блеск и текстура заметно изменились...",
+    "en": "A Dragontooth infused with power.\nIts luster and texture appear to have been somewhat transformed...",
+    "zh": "汲取了生命力的龙牙。\n无论是光泽还是质感，都愈加让人不安…"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "craft",
+  "item_type_title": {
+    "ru": "Крафт",
+    "en": "Crafting",
+    "zh": "合成"
+  }
+}

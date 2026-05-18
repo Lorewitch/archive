@@ -1,0 +1,41 @@
+{
+  "id": "aralia_wood",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/aralia_wood.webp",
+  "title": {
+    "ru": "Аралия",
+    "en": "Aralia Wood",
+    "zh": "孔雀木"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древесина, полученная из инадзумского кедра.\nОт природы податливая, узор прямой.\nОна источает лёгкий и нежный аромат.\nСлужит для изготовления декора.",
+    "en": "Wood from the Inazuman Cedar.\nIt is soft, has straight veins, and gives off a light fragrance.\nCan be used to create furnishings.",
+    "zh": "「柳杉」出产的木材，质地柔软，纹理平直，散发着浅淡的清香。\n可用于制作摆设。"
+  },
+  "description": {
+    "ru": "Древесина, полученная из инадзумского кедра.\nОт природы податливая, узор прямой.\nОна источает лёгкий и нежный аромат.\nСлужит для изготовления декора.",
+    "en": "Wood from the Inazuman Cedar.\nIt is soft, has straight veins, and gives off a light fragrance.\nCan be used to create furnishings.",
+    "zh": "「柳杉」出产的木材，质地柔软，纹理平直，散发着浅淡的清香。\n可用于制作摆设。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "teapot",
+  "item_type_title": {
+    "ru": "Чайник",
+    "en": "Serenitea Pot",
+    "zh": "尘歌壶"
+  }
+}

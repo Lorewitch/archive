@@ -1,0 +1,41 @@
+{
+  "id": "lumidouce_bell",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/lumidouce_bell.webp",
+  "title": {
+    "ru": "Ламповый колокольчик",
+    "en": "Lumidouce Bell",
+    "zh": "柔灯铃"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Утончённый прекрасный цветок фиолетового оттенка.\nБлагодаря лёгкому и стойкому аромату, а также нежной и мягкой структуре его часто используют для приготовления ценных духов.",
+    "en": "A serene and tranquil violet flower.\nIt has a light, soft, and lasting scent and is often used for making luxurious perfumes.",
+    "zh": "静雅而清美的紫色花卉。\n其香清淡悠长、细腻柔和，因此常被用来制作名贵的香水。"
+  },
+  "description": {
+    "ru": "Утончённый прекрасный цветок фиолетового оттенка.\nБлагодаря лёгкому и стойкому аромату, а также нежной и мягкой структуре его часто используют для приготовления ценных духов.",
+    "en": "A serene and tranquil violet flower.\nIt has a light, soft, and lasting scent and is often used for making luxurious perfumes.",
+    "zh": "静雅而清美的紫色花卉。\n其香清淡悠长、细腻柔和，因此常被用来制作名贵的香水。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

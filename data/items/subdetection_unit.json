@@ -1,0 +1,41 @@
+{
+  "id": "subdetection_unit",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/subdetection_unit.webp",
+  "title": {
+    "ru": "Миниатюрный детектор",
+    "en": "Subdetection Unit",
+    "zh": "子探测单元"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.1",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Миниатюрные детекторы были созданы Исследовательским институтом Фонтейна с применением новаторских компонентов и предназначались для наблюдения\nза природными явлениями.",
+    "en": "Detection units produced by Fontaine Research Institute using new models of artificed components.\nIts original purpose was monitoring all kinds of environmental data.",
+    "zh": "枫丹科学院利用新型奇械构件生产的微型探测单元，原本用以监测各类环境数据。"
+  },
+  "description": {
+    "ru": "Миниатюрные детекторы были созданы Исследовательским институтом Фонтейна с применением новаторских компонентов и предназначались для наблюдения\nза природными явлениями.",
+    "en": "Detection units produced by Fontaine Research Institute using new models of artificed components.\nIts original purpose was monitoring all kinds of environmental data.",
+    "zh": "枫丹科学院利用新型奇械构件生产的微型探测单元，原本用以监测各类环境数据。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

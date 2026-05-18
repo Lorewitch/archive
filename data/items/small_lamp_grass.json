@@ -1,0 +1,41 @@
+{
+  "id": "small_lamp_grass",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/small_lamp_grass.webp",
+  "title": {
+    "ru": "Трава-светяшка",
+    "en": "Small Lamp Grass",
+    "zh": "小灯草"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Дикая трава, испускающая тусклый свет в ночи.\nИспользуется в качестве приправы к блюдам.",
+    "en": "A wild grass that emits light at night.\nUsed in cooking to enhance other flavors.",
+    "zh": "在夜间会隐隐散发辉光的野花。\n与其他食材一同烹饪能提升鲜味。"
+  },
+  "description": {
+    "ru": "Дикая трава, испускающая тусклый свет в ночи.\nИспользуется в качестве приправы к блюдам.",
+    "en": "A wild grass that emits light at night.\nUsed in cooking to enhance other flavors.",
+    "zh": "在夜间会隐隐散发辉光的野花。\n与其他食材一同烹饪能提升鲜味。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

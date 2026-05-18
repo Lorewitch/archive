@@ -1,0 +1,41 @@
+{
+  "id": "padisarah",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/padisarah.webp",
+  "title": {
+    "ru": "Падисара",
+    "en": "Padisarah",
+    "zh": "帕蒂沙兰"
+  },
+  "region": "Сумеру",
+  "rarity": null,
+  "game_version": "3.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Священный, благородный и очень капризный цветок.\nИз его бутонов производят ценные благовония.",
+    "en": "A holy and noble plant.\nThe conditions for growth in its environment are very demanding.\nThe flower buds can be processed to make valuable spices.",
+    "zh": "圣洁而高贵的花卉，对生长环境的要求十分苛刻。\n花蕊经过加工后可以制成珍贵的香料。"
+  },
+  "description": {
+    "ru": "Священный, благородный и очень капризный цветок.\nИз его бутонов производят ценные благовония.",
+    "en": "A holy and noble plant.\nThe conditions for growth in its environment are very demanding.\nThe flower buds can be processed to make valuable spices.",
+    "zh": "圣洁而高贵的花卉，对生长环境的要求十分苛刻。\n花蕊经过加工后可以制成珍贵的香料。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pine_wood",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/pine_wood.webp",
+  "title": {
+    "ru": "Сосна",
+    "en": "Pine Wood",
+    "zh": "松木"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума",
+  "rarity": null,
+  "game_version": "1.5",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древесина, полученная из сосны.\nЕё цвет и узор ничем не примечательны, но неприхотливая природа сама по себе элегантна.\nОтличается особой прочностью.\nВ умелых руках изделия из сосны устойчивы к паразитам и гниению.\nСлужит для изготовления декора.",
+    "en": "Timber obtained from pines.\nIts color and grain are nothing to write home about, but its unpretentious nature is elegant in its own right.\nThe wood is very sturdy as well.\nIn able hands, its products should be able to resist moth and rot alike.\nCan be used to create furnishings.",
+    "zh": "产自「松树」的木材，色泽与木纹并不亮眼，但以朴实无华、低调素雅著称。\n且木质坚实，只需老练的木匠处理，就能耐受虫蛀和腐蚀。\n可用于制作摆设。"
+  },
+  "description": {
+    "ru": "Древесина, полученная из сосны.\nЕё цвет и узор ничем не примечательны, но неприхотливая природа сама по себе элегантна.\nОтличается особой прочностью.\nВ умелых руках изделия из сосны устойчивы к паразитам и гниению.\nСлужит для изготовления декора.",
+    "en": "Timber obtained from pines.\nIts color and grain are nothing to write home about, but its unpretentious nature is elegant in its own right.\nThe wood is very sturdy as well.\nIn able hands, its products should be able to resist moth and rot alike.\nCan be used to create furnishings.",
+    "zh": "产自「松树」的木材，色泽与木纹并不亮眼，但以朴实无华、低调素雅著称。\n且木质坚实，只需老练的木匠处理，就能耐受虫蛀和腐蚀。\n可用于制作摆设。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "teapot",
+  "item_type_title": {
+    "ru": "Чайник",
+    "en": "Serenitea Pot",
+    "zh": "尘歌壶"
+  }
+}

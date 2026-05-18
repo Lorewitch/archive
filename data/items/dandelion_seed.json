@@ -1,0 +1,41 @@
+{
+  "id": "dandelion_seed",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/dandelion_seed.webp",
+  "title": {
+    "ru": "Семена одуванчика",
+    "en": "Dandelion Seed",
+    "zh": "蒲公英籽"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Крошечные семена, парящие на ветру.\nДаже без своих мнимых крыльев они продолжают мечтать о дальних краях.",
+    "en": "A tiny seed that rides on the wind.\nEven without its feathered wings, it still holds the hope from afar within.",
+    "zh": "随风而行的细小种子。\n即使拔去了旅行的羽絮，其中也寄宿着远方的希望吧。"
+  },
+  "description": {
+    "ru": "Крошечные семена, парящие на ветру.\nДаже без своих мнимых крыльев они продолжают мечтать о дальних краях.",
+    "en": "A tiny seed that rides on the wind.\nEven without its feathered wings, it still holds the hope from afar within.",
+    "zh": "随风而行的细小种子。\n即使拔去了旅行的羽絮，其中也寄宿着远方的希望吧。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

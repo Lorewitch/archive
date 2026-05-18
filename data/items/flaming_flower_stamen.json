@@ -1,0 +1,41 @@
+{
+  "id": "flaming_flower_stamen",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/flaming_flower_stamen.webp",
+  "title": {
+    "ru": "Пылающий цветок (тычинка)",
+    "en": "Flaming Flower Stamen",
+    "zh": "烈焰花花蕊"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Пылающий ярким огнём цветок.\nДаже будучи потушенным, он всё равно продолжает испускать тепло.",
+    "en": "The stamen of a fiercely burning flower.\nEven after being extinguished, it still emits heat.",
+    "zh": "火辣辣的花芯。\n熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。"
+  },
+  "description": {
+    "ru": "Пылающий ярким огнём цветок.\nДаже будучи потушенным, он всё равно продолжает испускать тепло.",
+    "en": "The stamen of a fiercely burning flower.\nEven after being extinguished, it still emits heat.",
+    "zh": "火辣辣的花芯。\n熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "plant",
+  "item_type_title": {
+    "ru": "Растение",
+    "en": "Plant",
+    "zh": "植物"
+  }
+}

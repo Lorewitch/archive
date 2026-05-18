@@ -1,0 +1,41 @@
+{
+  "id": "hazelnut_wood",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/hazelnut_wood.webp",
+  "title": {
+    "ru": "Древесина орешника",
+    "en": "Hazelnut Wood",
+    "zh": "榛木"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древесина орешника.\nХотя деревья, из которых её получают, могут сильно различаться по форме, поверхность этой древесины обычно содержит особые компоненты,\nобеспечивающие высокую устойчивость к насекомым и гниению.\nОчень прочная и долговечная.",
+    "en": "Wood sourced from the Hazelnut Tree.\nThough the subspecies this wood comes from vary wildly in appearance, they mostly share the same unique compounds that offer excellent resistance\nto insects and decay, making it a remarkably durable material.",
+    "zh": "产自「榛树」的木材，虽然来源的树种形态多样，但木材表层大多具有独特的成分，防虫防腐能力可观，极为耐用。"
+  },
+  "description": {
+    "ru": "Древесина орешника.\nХотя деревья, из которых её получают, могут сильно различаться по форме, поверхность этой древесины обычно содержит особые компоненты,\nобеспечивающие высокую устойчивость к насекомым и гниению.\nОчень прочная и долговечная.",
+    "en": "Wood sourced from the Hazelnut Tree.\nThough the subspecies this wood comes from vary wildly in appearance, they mostly share the same unique compounds that offer excellent resistance\nto insects and decay, making it a remarkably durable material.",
+    "zh": "产自「榛树」的木材，虽然来源的树种形态多样，但木材表层大多具有独特的成分，防虫防腐能力可观，极为耐用。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "teapot",
+  "item_type_title": {
+    "ru": "Чайник",
+    "en": "Serenitea Pot",
+    "zh": "尘歌壶"
+  }
+}

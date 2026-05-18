@@ -1,0 +1,41 @@
+{
+  "id": "kalpalata_lotus",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/kalpalata_lotus.webp",
+  "title": {
+    "ru": "Лотос кальпалата",
+    "en": "Kalpalata Lotus",
+    "zh": "劫波莲"
+  },
+  "region": "Сумеру",
+  "rarity": null,
+  "game_version": "3.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Цветы вьющегося растения, произрастающего на скалах и валунах.\nХоть эти растения и называются «лотосами», но, кроме внешнего вида, не имеют с ними ничего общего.",
+    "en": "Flowers from vines that grow on cliff sides.\nIt is called a lotus only because it has a similar appearance to one.\nAside from that, it bears no other similar properties to the lotus.",
+    "zh": "生长在山崖峭壁之上的攀援植物开出的花朵。\n被称为莲只是因为外形相似，本身和莲花并没有什么关系。"
+  },
+  "description": {
+    "ru": "Цветы вьющегося растения, произрастающего на скалах и валунах.\nХоть эти растения и называются «лотосами», но, кроме внешнего вида, не имеют с ними ничего общего.",
+    "en": "Flowers from vines that grow on cliff sides.\nIt is called a lotus only because it has a similar appearance to one.\nAside from that, it bears no other similar properties to the lotus.",
+    "zh": "生长在山崖峭壁之上的攀援植物开出的花朵。\n被称为莲只是因为外形相似，本身和莲花并没有什么关系。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

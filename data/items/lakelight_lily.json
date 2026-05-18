@@ -1,0 +1,41 @@
+{
+  "id": "lakelight_lily",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/lakelight_lily.webp",
+  "title": {
+    "ru": "Лилия озёрного света",
+    "en": "Lakelight Lily",
+    "zh": "湖光铃兰"
+  },
+  "region": "Фонтейн",
+  "rarity": null,
+  "game_version": "4.2",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Ясный и чистый зелёный цветок рождается там, где сходятся водные артерии.\nУ него простой тонкий аромат, освежающий, но нежный.",
+    "en": "A clear and clean azure flower, it is born where Water Veins come together.\nIt has a simple, cool, and elegant fragrance, pungent and refreshing yet gentle.",
+    "zh": "明澈而澄净的苍色花卉。\n生于水脉汇聚之处，其香清冷淡雅，辛凉柔婉。"
+  },
+  "description": {
+    "ru": "Ясный и чистый зелёный цветок рождается там, где сходятся водные артерии.\nУ него простой тонкий аромат, освежающий, но нежный.",
+    "en": "A clear and clean azure flower, it is born where Water Veins come together.\nIt has a simple, cool, and elegant fragrance, pungent and refreshing yet gentle.",
+    "zh": "明澈而澄净的苍色花卉。\n生于水脉汇聚之处，其香清冷淡雅，辛凉柔婉。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

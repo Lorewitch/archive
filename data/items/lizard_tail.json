@@ -1,0 +1,41 @@
+{
+  "id": "lizard_tail",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/lizard_tail.webp",
+  "title": {
+    "ru": "Хвост ящерицы",
+    "en": "Lizard Tail",
+    "zh": "蜥蜴尾巴"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Свернувшийся хвост ящерицы.\nОчень горький, но обладает свойствами, укрепляющими кожу.",
+    "en": "A lizard tail that curled up after losing its owner.\nVery bitter, but has skin hardening properties.",
+    "zh": "失去生命后微微卷曲的蜥蜴尾巴。\n含有强烈的药性，能让人皮肤变硬。\n味道很苦。"
+  },
+  "description": {
+    "ru": "Свернувшийся хвост ящерицы.\nОчень горький, но обладает свойствами, укрепляющими кожу.",
+    "en": "A lizard tail that curled up after losing its owner.\nVery bitter, but has skin hardening properties.",
+    "zh": "失去生命后微微卷曲的蜥蜴尾巴。\n含有强烈的药性，能让人皮肤变硬。\n味道很苦。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "animal",
+  "item_type_title": {
+    "ru": "Животное",
+    "en": "Animal",
+    "zh": "动物"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "birch_wood",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/birch_wood.webp",
+  "title": {
+    "ru": "Берёза",
+    "en": "Birch Wood",
+    "zh": "桦木"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.5",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древесина, полученная из берёзы.\nОна легко поддаётся обработке и позволяет выполнять плавные срезы.\nМебель, изготовленная из этого дерева, красива и долговечна.\nСлужит для изготовления декора.",
+    "en": "Timber obtained from birches.\nIt is easy to work with and produces smooth cuts.\nFurniture made using such wood is both beautiful and durable.\nCan be used to create furnishings.",
+    "zh": "产自「桦树」的木材，易于加工，切面光滑，用这种木材制作的家具器物大多美观而耐用。\n可用于制作摆设。"
+  },
+  "description": {
+    "ru": "Древесина, полученная из берёзы.\nОна легко поддаётся обработке и позволяет выполнять плавные срезы.\nМебель, изготовленная из этого дерева, красива и долговечна.\nСлужит для изготовления декора.",
+    "en": "Timber obtained from birches.\nIt is easy to work with and produces smooth cuts.\nFurniture made using such wood is both beautiful and durable.\nCan be used to create furnishings.",
+    "zh": "产自「桦树」的木材，易于加工，切面光滑，用这种木材制作的家具器物大多美观而耐用。\n可用于制作摆设。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "teapot",
+  "item_type_title": {
+    "ru": "Чайник",
+    "en": "Serenitea Pot",
+    "zh": "尘歌壶"
+  }
+}

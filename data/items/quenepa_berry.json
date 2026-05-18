@@ -1,0 +1,41 @@
+{
+  "id": "quenepa_berry",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/quenepa_berry.webp",
+  "title": {
+    "ru": "Ягода квенепа",
+    "en": "Quenepa Berry",
+    "zh": "青蜜莓"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Синие сочные ягоды, которые в больших количествах растут возле племени Потомков Крон и напоминают пламегранат.",
+    "en": "Bluish, juicy berries that grow in large amounts near the Scions of the Canopy.\nTheir shape is similar to that of Flamegranates.",
+    "zh": "青蓝色的，汁液丰富的莓果。\n其果树大片生长在「悬木人」部族附近，是形态与火榴果相近的植物。"
+  },
+  "description": {
+    "ru": "Синие сочные ягоды, которые в больших количествах растут возле племени Потомков Крон и напоминают пламегранат.",
+    "en": "Bluish, juicy berries that grow in large amounts near the Scions of the Canopy.\nTheir shape is similar to that of Flamegranates.",
+    "zh": "青蓝色的，汁液丰富的莓果。\n其果树大片生长在「悬木人」部族附近，是形态与火榴果相近的植物。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

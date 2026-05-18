@@ -1,0 +1,41 @@
+{
+  "id": "magical_crystal_chunk",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/magical_crystal_chunk.webp",
+  "title": {
+    "ru": "Магический кристальный обломок",
+    "en": "Magical Crystal Chunk",
+    "zh": "魔晶块"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.1",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Эти обломки кристаллов могут быть переработаны в материалы опыта оружия с помощью Первородной смолы.\nТакие кристаллы из шахт впитали энергию артерий земли и не могут быть обработаны обычными методами.",
+    "en": "These crystal chunks can be refined into Weapon EXP materials by using Original Resin.\nCrystals from mines that were eroded by the energy of the Ley Lines cannot be processed by ordinary means.",
+    "zh": "可以通过「委托锻造」，利用原粹树脂，提炼成武器经验材料。\n受地脉的能量侵蚀的水晶矿，寻常手段无法处理。"
+  },
+  "description": {
+    "ru": "Эти обломки кристаллов могут быть переработаны в материалы опыта оружия с помощью Первородной смолы.\nТакие кристаллы из шахт впитали энергию артерий земли и не могут быть обработаны обычными методами.",
+    "en": "These crystal chunks can be refined into Weapon EXP materials by using Original Resin.\nCrystals from mines that were eroded by the energy of the Ley Lines cannot be processed by ordinary means.",
+    "zh": "可以通过「委托锻造」，利用原粹树脂，提炼成武器经验材料。\n受地脉的能量侵蚀的水晶矿，寻常手段无法处理。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "ore",
+  "item_type_title": {
+    "ru": "Руда",
+    "en": "Ore",
+    "zh": "矿石"
+  }
+}

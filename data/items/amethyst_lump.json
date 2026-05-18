@@ -1,0 +1,41 @@
+{
+  "id": "amethyst_lump",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/amethyst_lump.webp",
+  "title": {
+    "ru": "Кусок аметиста",
+    "en": "Amethyst Lump",
+    "zh": "紫晶块"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Необработанные кристаллы, которые встречаются только в Инадзуме.\nТолько профессиональный ремесленник может выявить его истинную ценность.",
+    "en": "An uncut crystal that can only be found in Inazuma.\nSome professional craftsmanship will bring out its true value.",
+    "zh": "未经削切的矿物晶体，仅在稻妻列岛上产生。\n经过专门处理后，能展现其真正的价值。"
+  },
+  "description": {
+    "ru": "Необработанные кристаллы, которые встречаются только в Инадзуме.\nТолько профессиональный ремесленник может выявить его истинную ценность.",
+    "en": "An uncut crystal that can only be found in Inazuma.\nSome professional craftsmanship will bring out its true value.",
+    "zh": "未经削切的矿物晶体，仅在稻妻列岛上产生。\n经过专门处理后，能展现其真正的价值。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "ore",
+  "item_type_title": {
+    "ru": "Руда",
+    "en": "Ore",
+    "zh": "矿石"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "midlander_polearm_billet",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/midlander_polearm_billet.webp",
+  "title": {
+    "ru": "Заготовка копья центральных земель",
+    "en": "Midlander Polearm Billet",
+    "zh": "央陆长柄武器原胚"
+  },
+  "region": "Сумеру, Фонтейн",
+  "rarity": null,
+  "game_version": "3.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Материал для ковки оружия.\nМожет быть использован для создания древкового оружия 4★.\nФилософы говорят, что за всеми мирскими материями стоят четыре первопричины.\nЦель этих заготовок – стать оружием в руках настоящего героя.",
+    "en": "Weapon forging material.\nCan be used to forge 4-star polearms.\nPhilosophers believe that there are four purposes behind earthly things.\nThe purpose of these billets is to become a weapon worthy of accompanying a hero.",
+    "zh": "生产武器的原材料。\n通过锻造，可以生产出4星的长柄武器。\n哲学中认为尘世间事物，皆具备四种成因。\n这些原胚的「目的」，正是成为陪伴英雄的武器。"
+  },
+  "description": {
+    "ru": "Материал для ковки оружия.\nМожет быть использован для создания древкового оружия 4★.\nФилософы говорят, что за всеми мирскими материями стоят четыре первопричины.\nЦель этих заготовок – стать оружием в руках настоящего героя.",
+    "en": "Weapon forging material.\nCan be used to forge 4-star polearms.\nPhilosophers believe that there are four purposes behind earthly things.\nThe purpose of these billets is to become a weapon worthy of accompanying a hero.",
+    "zh": "生产武器的原材料。\n通过锻造，可以生产出4星的长柄武器。\n哲学中认为尘世间事物，皆具备四种成因。\n这些原胚的「目的」，正是成为陪伴英雄的武器。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "craft",
+  "item_type_title": {
+    "ru": "Крафт",
+    "en": "Crafting",
+    "zh": "合成"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "trishiraite",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/trishiraite.webp",
+  "title": {
+    "ru": "Тришираит",
+    "en": "Trishiraite",
+    "zh": "万相石"
+  },
+  "region": "Сумеру",
+  "rarity": null,
+  "game_version": "3.6",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Великолепный камень света, который встречается в недрах безлюдных гор.\nПо-видимому, образовался из сгустка элементальной энергии.",
+    "en": "A splendorous stone that can be found in the depths of desolate mountains, seemingly formed from congealed elemental energy.",
+    "zh": "分布在荒原群山的深处，散发着异彩的特殊辉石，似乎是由混化的元素能量凝结而成的。"
+  },
+  "description": {
+    "ru": "Великолепный камень света, который встречается в недрах безлюдных гор.\nПо-видимому, образовался из сгустка элементальной энергии.",
+    "en": "A splendorous stone that can be found in the depths of desolate mountains, seemingly formed from congealed elemental energy.",
+    "zh": "分布在荒原群山的深处，散发着异彩的特殊辉石，似乎是由混化的元素能量凝结而成的。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

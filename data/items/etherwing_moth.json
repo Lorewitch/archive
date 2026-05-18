@@ -1,0 +1,41 @@
+{
+  "id": "etherwing_moth",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/etherwing_moth.webp",
+  "title": {
+    "ru": "Эфирокрылый мотылёк",
+    "en": "Etherwing Moth",
+    "zh": "空羽蛾"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "6.5",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Странное существо, излучающее священное золотое сияние, парящее словно мотылёк в столь же странных залах.",
+    "en": "A singular entity bathed in a divine, golden radiance, drifting through uncanny interstices as if a moth in flight.",
+    "zh": "闪耀着神圣金色光辉的奇异生命，如飞蛾般游曳在同样奇异的隙间。"
+  },
+  "description": {
+    "ru": "Странное существо, излучающее священное золотое сияние, парящее словно мотылёк в столь же странных залах.",
+    "en": "A singular entity bathed in a divine, golden radiance, drifting through uncanny interstices as if a moth in flight.",
+    "zh": "闪耀着神圣金色光辉的奇异生命，如飞蛾般游曳在同样奇异的隙间。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

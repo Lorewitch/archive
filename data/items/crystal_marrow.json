@@ -1,0 +1,41 @@
+{
+  "id": "crystal_marrow",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/crystal_marrow.webp",
+  "title": {
+    "ru": "Кристальный костный мозг",
+    "en": "Crystal Marrow",
+    "zh": "晶化骨髓"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "В этих кристаллах содержится сила Татаригами.\nИх добавление при выплавке значительно повышает прочность и упругость металлических изделий.",
+    "en": "A crystal that contains a sliver of Tatarigami power.\nAdding this material during smelting will greatly increase the strength and toughness of metals.",
+    "zh": "蕴含着「祟神」力量的晶体。\n冶炼时加入这种物质的话，能极大地提高钢铁制品的强度与韧性。"
+  },
+  "description": {
+    "ru": "В этих кристаллах содержится сила Татаригами.\nИх добавление при выплавке значительно повышает прочность и упругость металлических изделий.",
+    "en": "A crystal that contains a sliver of Tatarigami power.\nAdding this material during smelting will greatly increase the strength and toughness of metals.",
+    "zh": "蕴含着「祟神」力量的晶体。\n冶炼时加入这种物质的话，能极大地提高钢铁制品的强度与韧性。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

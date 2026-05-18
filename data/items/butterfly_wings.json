@@ -1,0 +1,41 @@
+{
+  "id": "butterfly_wings",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/butterfly_wings.webp",
+  "title": {
+    "ru": "Крылья бабочки",
+    "en": "Butterfly Wings",
+    "zh": "蝴蝶翅膀"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Ярко окрашенные крылья покрыты светящейся пылью.\nМожет быть, именно благодаря ей бабочки могут летать?",
+    "en": "Brightly colored wings.\nThe powder that falls from them shimmers a little.\nPerhaps this is what allows them to fly?",
+    "zh": "色彩靓丽的翅膀。\n散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。"
+  },
+  "description": {
+    "ru": "Ярко окрашенные крылья покрыты светящейся пылью.\nМожет быть, именно благодаря ей бабочки могут летать?",
+    "en": "Brightly colored wings.\nThe powder that falls from them shimmers a little.\nPerhaps this is what allows them to fly?",
+    "zh": "色彩靓丽的翅膀。\n散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "animal",
+  "item_type_title": {
+    "ru": "Животное",
+    "en": "Animal",
+    "zh": "动物"
+  }
+}

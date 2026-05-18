@@ -1,0 +1,41 @@
+{
+  "id": "clearwater_jade",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/clearwater_jade.webp",
+  "title": {
+    "ru": "Нефрит чистой воды",
+    "en": "Clearwater Jade",
+    "zh": "清水玉"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "4.4",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Нефрит из долины Чэньюй, получил своё название за ощущение прохлады и свежести при прикосновении, как от прохладной воды.",
+    "en": "Jade from Chenyu Vale.\nNamed for its cool, refreshing touch, that is much like clear water.",
+    "zh": "出产于沉玉谷的玉石。\n触感凉如清水，因此而得名。"
+  },
+  "description": {
+    "ru": "Нефрит из долины Чэньюй, получил своё название за ощущение прохлады и свежести при прикосновении, как от прохладной воды.",
+    "en": "Jade from Chenyu Vale.\nNamed for its cool, refreshing touch, that is much like clear water.",
+    "zh": "出产于沉玉谷的玉石。\n触感凉如清水，因此而得名。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

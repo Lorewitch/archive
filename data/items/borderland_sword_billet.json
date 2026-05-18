@@ -1,0 +1,41 @@
+{
+  "id": "borderland_sword_billet",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/borderland_sword_billet.webp",
+  "title": {
+    "ru": "Заготовка одноручного меча приграничных земель",
+    "en": "Borderland Sword Billet",
+    "zh": "垠土单手剑原胚"
+  },
+  "region": "Нод-Край, Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Материал для ковки оружия.\nМожет быть использован для создания одноручного оружия 4★.\nЧто касается оружия, которое можно создать из заготовок, то его потенциал давно заложен в исходных материалах, но точные формы, которые оно может\nпринять, до сих пор неизвестны...",
+    "en": "Weapon forging material.\nCan be used to forge 4-star swords.\nIn terms of the \"state\" of the many weapons that can be crafted from billets, while their potential has long been contained within the original\nmaterials, the exact forms these weapons will ultimately take remain unknown to this day...",
+    "zh": "生产武器的原材料。\n通过锻造，可以生产出4星的单手剑。\n原胚所能打造而出的诸多武器的「事态」，其结果的「可能」虽然早已包含在了原物之中，但是最终能被制成怎样的形制，仍是现在无人知晓之事…"
+  },
+  "description": {
+    "ru": "Материал для ковки оружия.\nМожет быть использован для создания одноручного оружия 4★.\nЧто касается оружия, которое можно создать из заготовок, то его потенциал давно заложен в исходных материалах, но точные формы, которые оно может\nпринять, до сих пор неизвестны...",
+    "en": "Weapon forging material.\nCan be used to forge 4-star swords.\nIn terms of the \"state\" of the many weapons that can be crafted from billets, while their potential has long been contained within the original\nmaterials, the exact forms these weapons will ultimately take remain unknown to this day...",
+    "zh": "生产武器的原材料。\n通过锻造，可以生产出4星的单手剑。\n原胚所能打造而出的诸多武器的「事态」，其结果的「可能」虽然早已包含在了原物之中，但是最终能被制成怎样的形制，仍是现在无人知晓之事…"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "craft",
+  "item_type_title": {
+    "ru": "Крафт",
+    "en": "Crafting",
+    "zh": "合成"
+  }
+}

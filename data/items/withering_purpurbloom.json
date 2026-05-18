@@ -1,0 +1,41 @@
+{
+  "id": "withering_purpurbloom",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/withering_purpurbloom.webp",
+  "title": {
+    "ru": "Сухой пурпурник",
+    "en": "Withering Purpurbloom",
+    "zh": "枯叶紫英"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.2",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Цветок с листьями и лепестками, которые выглядят обожжёнными и увядшими.\nЕго часто можно встретить в местах, где много золы.",
+    "en": "A flower, the leaves and petals of which look scorched and withered, that can often be seen in places where ash abounds.",
+    "zh": "叶片与花瓣呈现枯焦之态的花朵，常常能在流灰弥漫之处看到它。"
+  },
+  "description": {
+    "ru": "Цветок с листьями и лепестками, которые выглядят обожжёнными и увядшими.\nЕго часто можно встретить в местах, где много золы.",
+    "en": "A flower, the leaves and petals of which look scorched and withered, that can often be seen in places where ash abounds.",
+    "zh": "叶片与花瓣呈现枯焦之态的花朵，常常能在流灰弥漫之处看到它。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

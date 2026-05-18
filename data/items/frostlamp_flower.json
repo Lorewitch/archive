@@ -1,0 +1,41 @@
+{
+  "id": "frostlamp_flower",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/frostlamp_flower.webp",
+  "title": {
+    "ru": "Инеевый цветок",
+    "en": "Frostlamp Flower",
+    "zh": "霜盏花"
+  },
+  "region": "Нод-Край",
+  "rarity": null,
+  "game_version": "6.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Цветок, напоминающий подсвечник, часто встречается у воды.\nИзлучает холодный, простой аромат с успокаивающим эффектом.\nКонтрастные цвета тычинки и стебля, как полагают, символизируют два разных вида куувяки, однако этот цветок - одно из немногих редких растений,\nневосприимчивых к куувяки, поэтому Дети Морозной Луны иногда считают его символом неверия и отступничества.\nГоворят, этот цветок странной формы впервые появился в конце чёрного бедствия пятьсот лет назад, но это утверждение никогда не было достоверно\nподтверждено.",
+    "en": "A flower that resembles a candle lamp, commonly found near water.\nIt emits a cold, simple aroma that has a calming effect.\nThe contrasting colors of its stamen and stem are thought to symbolize the two different types of kuuvahki, yet despite this symbolism, it is one\nof the few rare plants that are immune to kuuvahki's influence.\nAs a result, the Frostmoon Scions sometimes regard it as a symbol of faithlessness and apostasy.\nIt is said that this strangely shaped flower first appeared at the end of the dark calamity five hundred years ago, but this claim has never been\nrigorously verified.",
+    "zh": "形如烛盏的花卉，多生长在水边，香气寒冽素净，有安神的功效。\n花蕊与花茎彼此相异的色彩被认为是两种不同的月矩力的象征，然而霜盏花却是极为罕有的、不会受到月矩力任何影响的植物，\n因此有时也会被霜月之子的追随者们视为无信者与叛离者的象征。\n据说五百年前的漆黑灾厄结束时，这种造型奇异的花朵才出现在大地上，但这种说法从未得到过严谨的考证。"
+  },
+  "description": {
+    "ru": "Цветок, напоминающий подсвечник, часто встречается у воды.\nИзлучает холодный, простой аромат с успокаивающим эффектом.\nКонтрастные цвета тычинки и стебля, как полагают, символизируют два разных вида куувяки, однако этот цветок - одно из немногих редких растений,\nневосприимчивых к куувяки, поэтому Дети Морозной Луны иногда считают его символом неверия и отступничества.\nГоворят, этот цветок странной формы впервые появился в конце чёрного бедствия пятьсот лет назад, но это утверждение никогда не было достоверно\nподтверждено.",
+    "en": "A flower that resembles a candle lamp, commonly found near water.\nIt emits a cold, simple aroma that has a calming effect.\nThe contrasting colors of its stamen and stem are thought to symbolize the two different types of kuuvahki, yet despite this symbolism, it is one\nof the few rare plants that are immune to kuuvahki's influence.\nAs a result, the Frostmoon Scions sometimes regard it as a symbol of faithlessness and apostasy.\nIt is said that this strangely shaped flower first appeared at the end of the dark calamity five hundred years ago, but this claim has never been\nrigorously verified.",
+    "zh": "形如烛盏的花卉，多生长在水边，香气寒冽素净，有安神的功效。\n花蕊与花茎彼此相异的色彩被认为是两种不同的月矩力的象征，然而霜盏花却是极为罕有的、不会受到月矩力任何影响的植物，\n因此有时也会被霜月之子的追随者们视为无信者与叛离者的象征。\n据说五百年前的漆黑灾厄结束时，这种造型奇异的花朵才出现在大地上，但这种说法从未得到过严谨的考证。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

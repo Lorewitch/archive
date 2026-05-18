@@ -1,0 +1,41 @@
+{
+  "id": "peach_palm_wood",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/peach_palm_wood.webp",
+  "title": {
+    "ru": "Древесина персиковой пальмы",
+    "en": "Peach Palm Wood",
+    "zh": "桃椰子木"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древесина персиковой пальмы.\nКак следует из названия, это кора, похожая на кокосовую оболочку, которая становится гладкой и привлекательной после шлифовки.\nОбладает исключительной твёрдостью и влагостойкостью...\nСлужит для изготовления декора.",
+    "en": "Timber from Peach Palm Trees.\nAs the name suggests, the bark has the feel of coconut palm husks, and is both smooth and aesthetically pleasing once sanded and polished, with\nexceptional hardness and humidity-resistant qualities...\nCan be used to create furnishings.",
+    "zh": "产自「桃椰子树」的木材，正如其名，树皮有着椰子壳般的质感，打磨后光滑而美观，硬度和防潮性能都极为出色…可用于制作摆设。"
+  },
+  "description": {
+    "ru": "Древесина персиковой пальмы.\nКак следует из названия, это кора, похожая на кокосовую оболочку, которая становится гладкой и привлекательной после шлифовки.\nОбладает исключительной твёрдостью и влагостойкостью...\nСлужит для изготовления декора.",
+    "en": "Timber from Peach Palm Trees.\nAs the name suggests, the bark has the feel of coconut palm husks, and is both smooth and aesthetically pleasing once sanded and polished, with\nexceptional hardness and humidity-resistant qualities...\nCan be used to create furnishings.",
+    "zh": "产自「桃椰子树」的木材，正如其名，树皮有着椰子壳般的质感，打磨后光滑而美观，硬度和防潮性能都极为出色…可用于制作摆设。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "teapot",
+  "item_type_title": {
+    "ru": "Чайник",
+    "en": "Serenitea Pot",
+    "zh": "尘歌壶"
+  }
+}

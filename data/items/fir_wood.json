@@ -1,0 +1,41 @@
+{
+  "id": "fir_wood",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/fir_wood.webp",
+  "title": {
+    "ru": "Пихта",
+    "en": "Fir Wood",
+    "zh": "杉木"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.5",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Древесина, полученная из пихты.\nШироко используется благодаря отличному качеству и привлекательному узору.\nСлужит для изготовления декора.",
+    "en": "Wood from the tree known as \"Faber's Fir.\" Widely used for its fine quality and attractive grain.\nCan be used to create furnishings.",
+    "zh": "「冷杉」出产的木材，有着不错的木质和纹理，被广泛使用于各种领域。\n可用于制作摆设。"
+  },
+  "description": {
+    "ru": "Древесина, полученная из пихты.\nШироко используется благодаря отличному качеству и привлекательному узору.\nСлужит для изготовления декора.",
+    "en": "Wood from the tree known as \"Faber's Fir.\" Widely used for its fine quality and attractive grain.\nCan be used to create furnishings.",
+    "zh": "「冷杉」出产的木材，有着不错的木质和纹理，被广泛使用于各种领域。\n可用于制作摆设。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "teapot",
+  "item_type_title": {
+    "ru": "Чайник",
+    "en": "Serenitea Pot",
+    "zh": "尘歌壶"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cecilia",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/cecilia.webp",
+  "title": {
+    "ru": "Сесилия",
+    "en": "Cecilia",
+    "zh": "塞西莉亚花"
+  },
+  "region": "Мондштадт",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Цветы, такие же прекрасные, как и их имя.\nОни растут только там, где дует резкий холодный ветер.",
+    "en": "A beautiful flower with a name that suits its appearance.\nIt only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.",
+    "zh": "名字与外形同等美丽的花朵，只生长在清冷而风急的高处，如同浪子一样真心难以触碰。"
+  },
+  "description": {
+    "ru": "Цветы, такие же прекрасные, как и их имя.\nОни растут только там, где дует резкий холодный ветер.",
+    "en": "A beautiful flower with a name that suits its appearance.\nIt only grows where harsh winds blow, and is just as intangible as the true heart of an unbound soul.",
+    "zh": "名字与外形同等美丽的花朵，只生长在清冷而风急的高处，如同浪子一样真心难以触碰。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

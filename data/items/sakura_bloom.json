@@ -1,0 +1,41 @@
+{
+  "id": "sakura_bloom",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/sakura_bloom.webp",
+  "title": {
+    "ru": "Цвет сакуры",
+    "en": "Sakura Bloom",
+    "zh": "绯樱绣球"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Лепестки Священной сакуры Великого храма Наруками.\nВ них заключена любовь к Инадзуме.",
+    "en": "Blossoms from the Sacred Sakura at the Grand Narukami Shrine, filled with a fondness for Inazuma.",
+    "zh": "从鸣神大社的神樱上飘落的花瓣，怀着稻妻大地的眷顾。"
+  },
+  "description": {
+    "ru": "Лепестки Священной сакуры Великого храма Наруками.\nВ них заключена любовь к Инадзуме.",
+    "en": "Blossoms from the Sacred Sakura at the Grand Narukami Shrine, filled with a fondness for Inazuma.",
+    "zh": "从鸣神大社的神樱上飘落的花瓣，怀着稻妻大地的眷顾。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

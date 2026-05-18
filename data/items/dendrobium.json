@@ -1,0 +1,41 @@
+{
+  "id": "dendrobium",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/dendrobium.webp",
+  "title": {
+    "ru": "Кровоцвет",
+    "en": "Dendrobium",
+    "zh": "血斛"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Это яркое растение, прозванное поэтами и писателями «багряный бутон», однажды исчезло с островов Инадзумы, но недавно начало появляться вновь на\nполях сражений.\nГоворят, оно цветёт особенно пышно там, где пролилась кровь.",
+    "en": "A vibrant plant that has also been named the \"lycoris\" by the poets.\nIt was once thought extinct in the Inazuman archipelago, only to re-emerge now upon the battlefields.\nIt is said that it blooms most enchantingly where much blood was spilled.",
+    "zh": "在诗文中也被称为「赤蕊」的鲜艳植物，一度在稻妻列岛绝迹，如今在战场上再度重现。\n传说在血腥的战场上，它们开得格外妖艳。"
+  },
+  "description": {
+    "ru": "Это яркое растение, прозванное поэтами и писателями «багряный бутон», однажды исчезло с островов Инадзумы, но недавно начало появляться вновь на\nполях сражений.\nГоворят, оно цветёт особенно пышно там, где пролилась кровь.",
+    "en": "A vibrant plant that has also been named the \"lycoris\" by the poets.\nIt was once thought extinct in the Inazuman archipelago, only to re-emerge now upon the battlefields.\nIt is said that it blooms most enchantingly where much blood was spilled.",
+    "zh": "在诗文中也被称为「赤蕊」的鲜艳植物，一度在稻妻列岛绝迹，如今在战场上再度重现。\n传说在血腥的战场上，它们开得格外妖艳。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

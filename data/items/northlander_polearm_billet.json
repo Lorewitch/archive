@@ -1,0 +1,41 @@
+{
+  "id": "northlander_polearm_billet",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/northlander_polearm_billet.webp",
+  "title": {
+    "ru": "Заготовка копья северянина",
+    "en": "Northlander Polearm Billet",
+    "zh": "北陆长柄武器原胚"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Материал для ковки оружия.\nМожет быть использован для создания древкового оружия 4★.\nФилософы говорят, что любой кусок мрамора потенциально является прекрасной статуей.\nУ этих заготовок тоже безграничный потенциал.",
+    "en": "Weapon forging material.\nCan be used to forge 4-star polearms.\nPhilosophers believe marble has the potential to be sculpted into a beautiful statue.\nLikewise, these billets have the potential to become something greater.",
+    "zh": "生产武器的原材料。\n通过锻造，可以生产出4星的长柄武器。\n哲学中认为大理石蕴藏着成为美丽雕塑的潜能。\n这些原胚也孕育了无限可能。\n真让人期待。"
+  },
+  "description": {
+    "ru": "Материал для ковки оружия.\nМожет быть использован для создания древкового оружия 4★.\nФилософы говорят, что любой кусок мрамора потенциально является прекрасной статуей.\nУ этих заготовок тоже безграничный потенциал.",
+    "en": "Weapon forging material.\nCan be used to forge 4-star polearms.\nPhilosophers believe marble has the potential to be sculpted into a beautiful statue.\nLikewise, these billets have the potential to become something greater.",
+    "zh": "生产武器的原材料。\n通过锻造，可以生产出4星的长柄武器。\n哲学中认为大理石蕴藏着成为美丽雕塑的潜能。\n这些原胚也孕育了无限可能。\n真让人期待。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "craft",
+  "item_type_title": {
+    "ru": "Крафт",
+    "en": "Crafting",
+    "zh": "合成"
+  }
+}

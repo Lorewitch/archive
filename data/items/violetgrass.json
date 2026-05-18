@@ -1,0 +1,41 @@
+{
+  "id": "violetgrass",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/violetgrass.webp",
+  "title": {
+    "ru": "Стеклянные колокольчики",
+    "en": "Violetgrass",
+    "zh": "琉璃袋"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Говорят, что цветки этого живучего растения наклонены вниз для того, чтобы сохранить свой прекрасный аромат.",
+    "en": "A small flower with strong vitality.\nIt is said that its downward-blooming flower keeps its fragrance from dissipating.",
+    "zh": "拥有旺盛生命力的小花，传说朝下盛开的花姿是为了守住它的香气。"
+  },
+  "description": {
+    "ru": "Говорят, что цветки этого живучего растения наклонены вниз для того, чтобы сохранить свой прекрасный аромат.",
+    "en": "A small flower with strong vitality.\nIt is said that its downward-blooming flower keeps its fragrance from dissipating.",
+    "zh": "拥有旺盛生命力的小花，传说朝下盛开的花姿是为了守住它的香气。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

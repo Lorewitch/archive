@@ -1,0 +1,41 @@
+{
+  "id": "fluorescent_fungus",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/fluorescent_fungus.webp",
+  "title": {
+    "ru": "Светящийся гриб",
+    "en": "Fluorescent Fungus",
+    "zh": "幽灯蕈"
+  },
+  "region": "Инадзума",
+  "rarity": null,
+  "game_version": "2.2",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Гриб, который светится как ночник.\nВ нём скрыта непостижимая сила.",
+    "en": "A mushroom that glows like a night-light.\nSome curious power lies hidden within it.",
+    "zh": "如同夜灯般微微发光的蘑菇，其中蕴含着不可思议的力量。"
+  },
+  "description": {
+    "ru": "Гриб, который светится как ночник.\nВ нём скрыта непостижимая сила.",
+    "en": "A mushroom that glows like a night-light.\nSome curious power lies hidden within it.",
+    "zh": "如同夜灯般微微发光的蘑菇，其中蕴含着不可思议的力量。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

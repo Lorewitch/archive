@@ -1,0 +1,41 @@
+{
+  "id": "silk_flower",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/silk_flower.webp",
+  "title": {
+    "ru": "Шелковица",
+    "en": "Silk Flower",
+    "zh": "霓裳花"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Цветы алого цвета.\nВо время цветения напоминают радужные облака Ли Юэ.\nИз них можно сделать шёлковую ткань.",
+    "en": "A crimson flower that blooms like the rainbow clouds in Liyue.\nIt can be made into silky-smooth fabric.",
+    "zh": "在璃月如霓云般盛放的妖红之花，能制成如水般顺滑的织物。"
+  },
+  "description": {
+    "ru": "Цветы алого цвета.\nВо время цветения напоминают радужные облака Ли Юэ.\nИз них можно сделать шёлковую ткань.",
+    "en": "A crimson flower that blooms like the rainbow clouds in Liyue.\nIt can be made into silky-smooth fabric.",
+    "zh": "在璃月如霓云般盛放的妖红之花，能制成如水般顺滑的织物。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}

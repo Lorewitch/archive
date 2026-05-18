@@ -1,0 +1,41 @@
+{
+  "id": "bamboo_segment",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/bamboo_segment.webp",
+  "title": {
+    "ru": "Бамбук",
+    "en": "Bamboo Segment",
+    "zh": "竹节"
+  },
+  "region": "Ли Юэ",
+  "rarity": null,
+  "game_version": "1.5",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Сегменты бамбука, лёгкие и намного более прочные, чем можно предположить, глядя на их скромный внешний вид.\nИсточают лёгкий аромат.\nСлужит для изготовления декора.",
+    "en": "Segments of bamboo that are light and far stronger than their humble appearance might suggest.\nIt lets off a light fragrance.\nCan be used to create furnishings.",
+    "zh": "翠竹的竹段，轻巧而结实，远比谦逊的外表坚韧，散发着独特的清幽气息。\n可用于制作摆设。"
+  },
+  "description": {
+    "ru": "Сегменты бамбука, лёгкие и намного более прочные, чем можно предположить, глядя на их скромный внешний вид.\nИсточают лёгкий аромат.\nСлужит для изготовления декора.",
+    "en": "Segments of bamboo that are light and far stronger than their humble appearance might suggest.\nIt lets off a light fragrance.\nCan be used to create furnishings.",
+    "zh": "翠竹的竹段，轻巧而结实，远比谦逊的外表坚韧，散发着独特的清幽气息。\n可用于制作摆设。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "teapot",
+  "item_type_title": {
+    "ru": "Чайник",
+    "en": "Serenitea Pot",
+    "zh": "尘歌壶"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cacahuatl",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/cacahuatl.webp",
+  "title": {
+    "ru": "Какауатль",
+    "en": "Cacahuatl",
+    "zh": "苦种"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Растение с богатым вкусом.\nПлод обладает уникальной горечью, а его семена после ферментации и выпекания могут стать основой для других деликатесов.",
+    "en": "A crop rich in flavor.\nThe fleshy part itself features a unique bitterness and its seeds, after being fermented and baked, can be made into other delicacies.",
+    "zh": "风味浓郁的作物。\n果肉本身会有独特的苦涩味，其种子在发酵及烘焙后，可以制成其他的美食。"
+  },
+  "description": {
+    "ru": "Растение с богатым вкусом.\nПлод обладает уникальной горечью, а его семена после ферментации и выпекания могут стать основой для других деликатесов.",
+    "en": "A crop rich in flavor.\nThe fleshy part itself features a unique bitterness and its seeds, after being fermented and baked, can be made into other delicacies.",
+    "zh": "风味浓郁的作物。\n果肉本身会有独特的苦涩味，其种子在发酵及烘焙后，可以制成其他的美食。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "plant",
+  "item_type_title": {
+    "ru": "Растение",
+    "en": "Plant",
+    "zh": "植物"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "crystal_chunk",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/crystal_chunk.webp",
+  "title": {
+    "ru": "Обломок кристалла",
+    "en": "Crystal Chunk",
+    "zh": "水晶块"
+  },
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "rarity": null,
+  "game_version": "1.0",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Необработанные кристаллы.\nТолько профессиональный ремесленник может выявить его истинную ценность.",
+    "en": "An uncut crystal.\nOnly professional craftsmanship can bring out its true value.",
+    "zh": "未经削切的晶体。\n在专门处理后，才能真正展现价值吧。"
+  },
+  "description": {
+    "ru": "Необработанные кристаллы.\nТолько профессиональный ремесленник может выявить его истинную ценность.",
+    "en": "An uncut crystal.\nOnly professional craftsmanship can bring out its true value.",
+    "zh": "未经削切的晶体。\n在专门处理后，才能真正展现价值吧。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "ore",
+  "item_type_title": {
+    "ru": "Руда",
+    "en": "Ore",
+    "zh": "矿石"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "dracolite",
+  "category": "items",
+  "icon": "assets/icons/items/teyvat_resources/dracolite.webp",
+  "title": {
+    "ru": "Драколит",
+    "en": "Dracolite",
+    "zh": "琉鳞石"
+  },
+  "region": "Натлан",
+  "rarity": null,
+  "game_version": "5.5",
+  "tags": [],
+  "languages": [
+    "ru",
+    "en",
+    "zh"
+  ],
+  "text": {
+    "ru": "Эти красные, похожие на чешуйки кристаллы образуются в местах, богатых флогистоном.\nОни чрезвычайно горячие.",
+    "en": "Formed gradually in areas rich in Phlogiston, these red, scale-like crystals are blazing-hot to the touch.",
+    "zh": "沉积在富含燃素的区域，逐渐形成的红色鳞状晶石，蕴含极高的热量。"
+  },
+  "description": {
+    "ru": "Эти красные, похожие на чешуйки кристаллы образуются в местах, богатых флогистоном.\nОни чрезвычайно горячие.",
+    "en": "Formed gradually in areas rich in Phlogiston, these red, scale-like crystals are blazing-hot to the touch.",
+    "zh": "沉积在富含燃素的区域，逐渐形成的红色鳞状晶石，蕴含极高的热量。"
+  },
+  "notes": {
+    "general": "Здесь можно оставить внутренние заметки по предмету.",
+    "byVolume": {}
+  },
+  "item_group": "teyvat_resources",
+  "entry_type": "item",
+  "item_type": "local_specialty",
+  "item_type_title": {
+    "ru": "Диковинка",
+    "en": "Local Specialty",
+    "zh": "区域特产"
+  }
+}
