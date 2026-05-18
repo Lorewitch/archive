@@ -1,0 +1,192 @@
+# id: mask_of_the_weapon_ascension
+# category: items
+# item_group: development_materials
+# entry_type: material_set
+
+# material_type: weapon_ascension
+# material_type_ru: Возвышение оружия
+# material_type_en: Weapon Ascension
+# material_type_zh: 武器突破
+
+# tags: Mask Of The, материалы развития, Инадзума
+
+# title_ru: Маска злого военачальника / Маска тигриной пасти / Маска однорогого / Маска кидзин
+# title_en: Mask Of The Weapon Ascension Materials
+# title_zh: 今昔剧画之恶尉 / 今昔剧画之虎啮 / 今昔剧画之一角 / 今昔剧画之鬼人
+# icon: assets/icons/items/development_materials/mask_of_the_wicked_lieutenant.webp
+
+# region: Инадзума
+# game_version: 2.0
+---
+
+# material_1_id: mask_of_the_wicked_lieutenant
+# material_1_ru: Маска злого военачальника
+# material_1_en: Mask of the Wicked Lieutenant
+# material_1_zh: 今昔剧画之恶尉
+# material_1_icon: assets/icons/items/development_materials/mask_of_the_wicked_lieutenant.webp
+
+# material_2_id: mask_of_the_tigers_bite
+# material_2_ru: Маска тигриной пасти
+# material_2_en: Mask of the Tiger's Bite
+# material_2_zh: 今昔剧画之虎啮
+# material_2_icon: assets/icons/items/development_materials/mask_of_the_tigers_bite.webp
+
+# material_3_id: mask_of_the_one_horned
+# material_3_ru: Маска однорогого
+# material_3_en: Mask of the One-Horned
+# material_3_zh: 今昔剧画之一角
+# material_3_icon: assets/icons/items/development_materials/mask_of_the_one_horned.webp
+
+# material_4_id: mask_of_the_kijin
+# material_4_ru: Маска кидзин
+# material_4_en: Mask of the Kijin
+# material_4_zh: 今昔剧画之鬼人
+# material_4_icon: assets/icons/items/development_materials/mask_of_the_kijin.webp
+
+---
+
+## RU
+
+### material: mask_of_the_wicked_lieutenant
+
+Материал возвышения оружия.
+Согласно преданию, когда-то существовала они по имени Торатиё.
+Она была воительницей столь великолепной, что могла кружиться среди тысячи клинков в танце, лоскутки её дзюни-хитоэ падали, словно лепестки сакуры,
+но сама она оставалась невредимой.
+В конечном счету она предала сёгуна, в битве против него лишилась руки и рога, бежала, и в порыве безумного неистовства свела счёты с жизнью.
+Ходят слухи, что сердца упрямых они зачастую наполнены страхом и тревогой.
+Что, мечтая о вечности, они боятся мгновения, а одержимость страхом или злобой - их заслуженная участь.
+На этой маске с оголёнными клыками запечатлена Торатиё.
+
+### material: mask_of_the_tigers_bite
+
+Материал возвышения оружия.
+В «Сумирэдзомэ сангэцу когэцукан» описывается, как свирепый óни Торатиё одним укусом разгрызает нагинату сёгуна, получая временное преимущество в бою.
+Поэтому на его масках всегда есть старательно выточенные клыки.
+В конце этой истории раненый óни бежит в лес, до смерти боясь показаться даже холодному свету луны.
+Ветер, который завывает по долинам и ущельям, словно раненый демон, получил поэтичное сезонное название «ветра Торатиё».
+
+### material: mask_of_the_one_horned
+
+Материал возвышения оружия.
+В утраченных песнях кормилиц, óни Торатиё представал элегантным юношей с сильным телом и прекрасным лицом.
+Сей некогда любимый военачальник сёгуна преданно следовал за госпожой в кромешные бездны, чтобы повергнуть нечестивых и завоевать славу для óни,
+кровь которых с каждым днём разжижалась.
+Хоть песен этих никто теперь и не поёт, даже в иной форме маска рогатого óни обладает невероятной мощью.
+
+### material: mask_of_the_kijin
+
+Материал возвышения оружия.
+Однажды Тиё, воительницу племени они с символом Электро мицудомоэ на спине,
+в сражении с силами тьмы целиком поглотила тварь из иного мира с телом тигра и хвостом змеи.
+Храбрая девушка всё-таки смогла разорвать брюхо чудовища и уцелеть.
+Так возникло имя «Тигриная пасть Тиё», которое со временем сократилось до «Торатиё».
+Но в чреве зверя её запятнала скверна, и она видела, как окровавленные клыки раздирают её соратников.
+Погрязнув в непроглядной тьме, она обратила свой меч против всемогущей Наруками Огосё.
+Её ведущая рука и рог были отсечены, и она, словно дикий зверь, бежала в лес.
+Говорят, после этого то ли тэнгу, то ли Сюмацубан, или даже выходец из клана Ивакура убили её, приняв за неведомое чудовище,
+поскольку ненависть и мучительная боль от ран исказили её изящные черты.
+Или же у останков исполинского змея она повстречала куклу в маске они с мечом в руках, и там же прервалась тропа её жизни.
+Почти никто из тогда противостоявших силам тьмы не избежал чёрных как смоль кошмаров.
+Немало из тех, кто убивал чудовищ, в них же и превратились.
+Грань между мирами становится всё тоньше.
+Быть может, она разлагается с обеих сторон.
+
+## EN
+
+### material: mask_of_the_wicked_lieutenant
+
+Weapon Ascension Material.
+Folktales tell that once upon a time, there lived an oni named Torachiyo.
+Torachiyo was a highly skilled warrior, such that it was once said the Torachiyo might dance amid a thousand blades,
+juunihitoe robes becoming shredded like falling violet petals, and yet not receive a single wound.
+Yet this oni would eventually betray the Shogun and revolt,
+becoming shorn of an arm and a horn in the battle before fleeing and slaying itself in a fit of furious madness.
+Hearsay holds that the stubborn oni often hold fear and distress in their hearts.
+That they should fantasize about eternity yet fear the moment, and are apt to become swallowed by terror or anger is their just reward.
+This mask depicts Torachiyo, fangs bared.
+
+### material: mask_of_the_tigers_bite
+
+Weapon Ascension Material.
+"Sumirezome Sangetsu Kogetsukan" depicts the fierce oni Torachiyo shattering the Shogun's naginata with a single bite,
+thus gaining the upper hand for a time.
+As such, masks that are based on him have finely crafted fangs.
+In the denouement of this tale, the wounded oni fled into the forest, deathly afraid of showing himself even to the cold moonlight.
+The wind that whispers through the alleys and valleys can be said to resemble his quiet cries of agony,
+and so there is a poetic seasonal expression for this in Inazuma: "Torachiyo's Wind."
+
+### material: mask_of_the_one_horned
+
+Weapon Ascension Material.
+In the lost songs of the oni nursemaids, Torachiyo was an elegant young man, strong of body and fair of face.
+He was once a beloved lieutenant of the Shogun, and he followed her into the dark abyssal realms to repel the defiled ones,
+winning renown for the oni, whose blood thinned with each passing day.
+None now sing these songs, but the mask of a horned oni, even in a different form, still possesses power beyond the norm.
+
+### material: mask_of_the_kijin
+
+Weapon Ascension Material.
+Chiyo, a warrior of the oni tribe with the Electro Mitsudomoe emblem emblazoned on her back,
+was once swallowed whole by a beast from beyond this world that had a tiger's body and a serpent's tail while holding back the forces of darkness.
+At last, she tore the creature's innards apart from within, breaking free.
+This is the origin of the phrase "Chiyo the Tiger-Bite," and would be changed over many years to "Torachiyo."
+But within the belly of the beast, she was stained by a deep sin and saw her comrades ripped to shreds by those blood-red teeth.
+Steeped in darkness as far as the eye could see, she would eventually draw her sword upon the Almighty Narukami Ogosho.
+Her sword-arm and one horn would be cloven, and she would flee from the city into the forest like a wounded beast.
+There, they say that she was taken for some unknown monster and slain by the tengu,
+or perhaps by the Shuumatsuban — or perhaps by a scion of the Iwakura Clan training deep in the mountains,
+for her features had been twisted by hatred and the agony of her wounds.
+Or perhaps she even met the oni-masked, sword-bearing doll near the corpse of the giant serpent, and there ended her life's journey.
+Few among those who fought against the abyss in those days were spared pitch-dark dreams.
+Those who slew monsters and then became them were hardly the minority.
+The border between worlds grows fragile, and corruption of this kind is perhaps not merely monodirectional.
+
+## ZH
+
+### material: mask_of_the_wicked_lieutenant
+
+赋予武器突破之力的材料。
+民话传说中，过去有名鬼人「虎千代」。
+武艺高强，曾有在刀剑一千柄当中狂舞，被割破的十二单如同菫花般零落，身体却未受一丝伤害的说法。
+后来却对将军大人露出獠牙，拔刀反叛，被斩下一臂一角后遁逃，最终郁愤发狂，自裁而殁。
+狂言称怀抱执妄之鬼往往内心惊悸而忧患。
+妄想永恒却恐惧须臾，总会为恐惧与怨怒吞没，是为自业自得。
+这种面具刻画的就是露出尖牙的虎千代。
+
+### material: mask_of_the_tigers_bite
+
+赋予武器突破之力的材料。
+《菫染山月虎啮鉴》中描绘的鬼人「虎千代」，曾以利齿咬碎将军的薙刀，取得过一时的上风。
+因此以他为原型制造的面具上往往有精心雕琢的尖牙。
+在其结局中，负伤之兽般遁入林野，连清凉的月光也避之唯恐不及。
+穿过窄巷与峡谷的风声像是受伤的鬼在低声哀嚎，因此也有「虎千代风」这一季语。
+
+### material: mask_of_the_one_horned
+
+赋予武器突破之力的材料。
+在鬼族失落的子守奉公子守歌中，鬼人「虎千代」是一位翩翩少年，拥有优雅勇健的身姿与华丽的容貌。
+他原本是将军麾下的爱将，曾忠心追随她深入漆黑的渊薮，击退邪秽之物，为血脉日渐稀薄的鬼族争取功绩。
+纵使如今这样的歌谣已经无人传唱了，以另一种形象流传下来的有角鬼面形象仍然有着非凡的力量。
+
+### material: mask_of_the_kijin
+
+赋予武器突破之力的材料。
+背上「雷之三重巴」的纹样时名为「千代」的鬼族女武者，面对漆黑的军势时，曾被虎躯蛇尾的世外之兽吞下。
+最后她撕开魔兽的胸腔，得以幸存。
+这是「虎啮的千代」之名的来由。
+在此后的岁月中，这一名号渐渐简化为「虎千代」。
+但在深邃之兽的腹中，她染上了深罪的黯色，也透过猩红的利齿看见同行者被撕碎。
+沉湎于漆黑景色的她最终向御建鸣神主尊拔剑；
+后来，她持刀之臂与尖角被斩落，如同负伤的野兽般从城中逃向林野；
+再后来似乎是被天狗，或是终末番，或是山中修行的岩藏之胤当成不认得的怪物，收拾掉了罢，因为她俊美的容貌已经因为漆黑的仇恨与负伤痛苦变得狰狞扭曲。
+抑或是遇见了大蛇遗骸附近的鬼面执剑人形，故此结束了命运的旅途。
+昔日曾与渊薮战斗者难免梦见漆黑的剧画。
+曾与魔兽厮杀又沦为当中一员者亦不在少数。
+世界的边缘正在变得稀薄而脆弱，这种侵蚀或许并非是单向的。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+Здесь можно оставить внутренние заметки по серии материалов.
