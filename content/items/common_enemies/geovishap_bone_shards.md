@@ -9,7 +9,7 @@
 # title_ru: Хрупкие останки / Крепкие останки / Окаменевшие останки
 # title_en: Bone Shards
 # title_zh: 脆弱的骨片 / 结实的骨片 / 石化的骨片
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Ли Юэ, Инадзума
 # icon: assets/icons/items/common_enemies/fragile_bone_shard.webp
 
 # dropped_by: geovishap_hatchling, geovishap, primordial_bathysmal_vishap, primordial_bathysmal_vishap_hatchling, rimebiter_bathysmal_vishap_hatchling, bolteater_bathysmal_vishap_hatchling

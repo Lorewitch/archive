@@ -7,7 +7,7 @@
     "en": "Chaos",
     "zh": "混沌机关 / 混沌枢纽 / 混沌真眼"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
   "rarity": null,
   "game_version": "2.0",
   "tags": [
@@ -51,7 +51,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_cruiser.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "2.0",
       "languages": [
         "ru",
@@ -122,7 +122,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_destroyer.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "2.0",
       "languages": [
         "ru",
@@ -193,7 +193,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_defender.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "2.0",
       "languages": [
         "ru",
@@ -264,7 +264,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_scout.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "2.0",
       "languages": [
         "ru",

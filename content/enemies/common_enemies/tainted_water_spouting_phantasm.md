@@ -8,7 +8,7 @@
 # title_ru: Извергающий воду фантазм
 # title_en: Tainted Water-Spouting Phantasm
 # title_zh: 浊水喷吐幻灵
-# region: Фонтейн
+# region: Ли Юэ, Фонтейн
 # game_version: 4.0
 
 # icon: assets/icons/enemies/common_enemies/tainted_water_spouting_phantasm.webp

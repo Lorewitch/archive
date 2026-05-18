@@ -8,7 +8,7 @@
 # title_ru: Клинок течений: Налётчица
 # title_en: Flowing Blade Skirmisher
 # title_zh: 流刃勇士 · 游击人
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/flowing_blade_skirmisher.webp

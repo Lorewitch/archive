@@ -51,7 +51,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -164,7 +164,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -277,7 +277,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -390,7 +390,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",

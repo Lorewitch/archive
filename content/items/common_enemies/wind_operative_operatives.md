@@ -9,7 +9,7 @@
 # title_ru: Старые карманные часы сенешаля / Штатные карманные часы сенешаля / Постоянство сенешаля
 # title_en: Operatives
 # title_zh: 老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Фонтейн
 # icon: assets/icons/items/common_enemies/old_operatives_pocket_watch.webp
 
 # dropped_by: wind_operative, frost_operative

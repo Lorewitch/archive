@@ -7,7 +7,7 @@
     "en": "Nectars",
     "zh": "骗骗花蜜 / 微光花蜜 / 原素花蜜"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
   "rarity": null,
   "game_version": "1.0",
   "tags": [
@@ -50,7 +50,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/pyro_whopperflower.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -121,7 +121,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/electro_whopperflower.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -192,7 +192,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/cryo_whopperflower.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "1.0",
       "languages": [
         "ru",

@@ -8,7 +8,7 @@
 # title_ru: Детёныш татанказавра
 # title_en: Tatankasaur Whelp
 # title_zh: 幼突角龙
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.5
 
 # icon: assets/icons/enemies/common_enemies/tatankasaur_whelp.webp

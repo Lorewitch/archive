@@ -7,7 +7,7 @@
     "en": "Spectrals",
     "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
   },
-  "region": "Инадзума",
+  "region": "Инадзума, Сумеру",
   "rarity": null,
   "game_version": "2.1",
   "tags": [
@@ -54,7 +54,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/pyro_specter.webp",
       "enemy_group": "elementals",
-      "region": "Инадзума",
+      "region": "Инадзума, Сумеру",
       "game_version": "2.1",
       "languages": [
         "ru",
@@ -125,7 +125,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hydro_specter.webp",
       "enemy_group": "elementals",
-      "region": "Инадзума",
+      "region": "Инадзума, Сумеру",
       "game_version": "2.1",
       "languages": [
         "ru",
@@ -196,7 +196,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/anemo_specter.webp",
       "enemy_group": "elementals",
-      "region": "Инадзума",
+      "region": "Инадзума, Сумеру",
       "game_version": "2.1",
       "languages": [
         "ru",
@@ -267,7 +267,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/electro_specter.webp",
       "enemy_group": "elementals",
-      "region": "Инадзума",
+      "region": "Инадзума, Сумеру",
       "game_version": "2.1",
       "languages": [
         "ru",
@@ -338,7 +338,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/dendro_specter.webp",
       "enemy_group": "elementals",
-      "region": "Инадзума",
+      "region": "Инадзума, Сумеру",
       "game_version": "2.1",
       "languages": [
         "ru",
@@ -409,7 +409,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/cryo_specter.webp",
       "enemy_group": "elementals",
-      "region": "Инадзума",
+      "region": "Инадзума, Сумеру",
       "game_version": "2.1",
       "languages": [
         "ru",
@@ -480,7 +480,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/geo_specter.webp",
       "enemy_group": "elementals",
-      "region": "Инадзума",
+      "region": "Инадзума, Сумеру",
       "game_version": "2.1",
       "languages": [
         "ru",

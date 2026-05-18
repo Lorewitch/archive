@@ -8,7 +8,7 @@
 # title_ru: Митачурл с электрическим топором
 # title_en: Crackling Axe Mitachurl
 # title_zh: 雷斧丘丘暴徒
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/mitachurl.webp
 

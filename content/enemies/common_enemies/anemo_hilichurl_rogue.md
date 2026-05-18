@@ -8,7 +8,7 @@
 # title_ru: Анемо хиличурл-изгой
 # title_en: Anemo Hilichurl Rogue
 # title_zh: 丘丘风行游侠
-# region: Тейват
+# region: Сумеру, Фонтейн
 
 # icon: assets/icons/enemies/common_enemies/anemo_hilichurl_rogue.webp
 

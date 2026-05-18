@@ -8,7 +8,7 @@
 # title_ru: Гончая Разрыва: Громоед
 # title_en: Thundercraven Rifthound
 # title_zh: 嗜雷·兽境猎犬
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 2.2
 
 # icon: assets/icons/enemies/common_enemies/thundercraven_rifthound.webp

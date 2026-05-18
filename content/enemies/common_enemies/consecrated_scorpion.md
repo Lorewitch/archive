@@ -8,7 +8,7 @@
 # title_ru: Священный скорпион
 # title_en: Consecrated Scorpion
 # title_zh: 圣骸毒蝎
-# region: Сумеру
+# region: Инадзума, Сумеру
 # game_version: 3.4
 
 # icon: assets/icons/enemies/common_enemies/consecrated_scorpion.webp

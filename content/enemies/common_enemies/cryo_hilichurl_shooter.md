@@ -8,7 +8,7 @@
 # title_ru: Крио хиличурл-стрелок
 # title_en: Cryo Hilichurl Shooter
 # title_zh: 冰箭丘丘人
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/cryo_hilichurl.webp
 

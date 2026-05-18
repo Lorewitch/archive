@@ -7,7 +7,7 @@
     "en": "Bone Shards",
     "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Ли Юэ, Инадзума",
   "rarity": null,
   "game_version": "1.0",
   "tags": [
@@ -195,7 +195,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/primordial_bathysmal_vishap.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Инадзума",
       "game_version": "2.4",
       "languages": [
         "ru",
@@ -266,7 +266,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/primordial_bathysmal_vishap_hatchling.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Инадзума",
       "game_version": "2.4",
       "languages": [
         "ru",
@@ -337,7 +337,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/rimebiter_bathysmal_vishap_hatchling.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Инадзума",
       "game_version": "2.4",
       "languages": [
         "ru",
@@ -408,7 +408,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/bolteater_bathysmal_vishap_hatchling.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Инадзума",
       "game_version": "2.4",
       "languages": [
         "ru",

@@ -8,7 +8,7 @@
 # title_ru: Застрельщик Фатуи: Крио бомбардир
 # title_en: Fatui Skirmisher - Cryogunner Legionnaire
 # title_zh: 愚人众先遣队·冰铳重卫士
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/fatui_skirmisher_cryogunner_legionnaire.webp

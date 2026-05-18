@@ -8,7 +8,7 @@
 # title_ru: Стремительный воин: Вооружённый курьер
 # title_en: Swiftstep Armed Courier
 # title_zh: 疾迅勇士 · 重刃讯使
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/swiftstep_armed_courier.webp

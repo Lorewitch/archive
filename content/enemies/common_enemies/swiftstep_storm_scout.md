@@ -8,7 +8,7 @@
 # title_ru: Стремительный воин: Разведчик ветра
 # title_en: Swiftstep Storm Scout
 # title_zh: 疾迅勇士 · 荡风斥候
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/swiftstep_storm_scout.webp

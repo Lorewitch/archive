@@ -7,7 +7,7 @@
     "en": "Operatives",
     "zh": "老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Фонтейн",
   "rarity": null,
   "game_version": "4.1",
   "tags": [
@@ -49,7 +49,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/wind_operative.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Фонтейн",
       "game_version": "4.1",
       "languages": [
         "ru",
@@ -120,7 +120,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/frost_operative.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Фонтейн",
       "game_version": "4.1",
       "languages": [
         "ru",

@@ -9,7 +9,7 @@
 # title_ru: Нектар попрыгуньи / Мерцающий нектар / Элементальный нектар
 # title_en: Nectars
 # title_zh: 骗骗花蜜 / 微光花蜜 / 原素花蜜
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
 # icon: assets/icons/items/common_enemies/whopperflower_nectar.webp
 
 # dropped_by: pyro_whopperflower, electro_whopperflower, cryo_whopperflower

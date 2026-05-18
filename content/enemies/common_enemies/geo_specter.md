@@ -8,7 +8,7 @@
 # title_ru: Гео призрак
 # title_en: Geo Specter
 # title_zh: 岩飘浮灵
-# region: Инадзума
+# region: Инадзума, Сумеру
 # game_version: 2.1
 
 # icon: assets/icons/enemies/common_enemies/geo_specter.webp

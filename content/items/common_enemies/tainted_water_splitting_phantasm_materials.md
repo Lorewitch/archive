@@ -9,7 +9,7 @@
 # title_ru: Мутная капля / Мутная лужица / Новорождённый фантазм мутных вод
 # title_en: Tainteds
 # title_zh: 浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵
-# region: Фонтейн
+# region: Ли Юэ, Фонтейн
 # icon: assets/icons/items/common_enemies/drop_of_tainted_water.webp
 
 # dropped_by: tainted_water_splitting_phantasm, tainted_water_spouting_phantasm

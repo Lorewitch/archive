@@ -8,7 +8,7 @@
 # title_ru: Клинок течений: Метатель гарпуна
 # title_en: Flowing Blade Harpoon-Thrower
 # title_zh: 流刃勇士 · 掷叉猎手
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/flowing_blade_harpoon_thrower.webp

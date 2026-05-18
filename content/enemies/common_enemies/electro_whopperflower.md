@@ -8,7 +8,7 @@
 # title_ru: Электро попрыгунья
 # title_en: Electro Whopperflower
 # title_zh: 电气骗骗花
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/electro_whopperflower.webp

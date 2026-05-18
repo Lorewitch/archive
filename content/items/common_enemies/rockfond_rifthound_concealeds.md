@@ -9,7 +9,7 @@
 # title_ru: Скрытый коготь / Скрытый заточенный коготь / Скрытый дьявольский коготь
 # title_en: Concealeds
 # title_zh: 隐兽指爪 / 隐兽利爪 / 隐兽鬼爪
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # icon: assets/icons/items/common_enemies/concealed_claw.webp
 
 # dropped_by: rockfond_rifthound_whelp, thundercraven_rifthound_whelp, rockfond_rifthound, thundercraven_rifthound

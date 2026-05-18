@@ -7,7 +7,7 @@
     "en": "Tainteds",
     "zh": "浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵"
   },
-  "region": "Фонтейн",
+  "region": "Ли Юэ, Фонтейн",
   "rarity": null,
   "game_version": "4.0",
   "tags": [
@@ -49,7 +49,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/tainted_water_splitting_phantasm.webp",
       "enemy_group": "elementals",
-      "region": "Фонтейн",
+      "region": "Ли Юэ, Фонтейн",
       "game_version": "4.0",
       "languages": [
         "ru",
@@ -120,7 +120,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/tainted_water_spouting_phantasm.webp",
       "enemy_group": "elementals",
-      "region": "Фонтейн",
+      "region": "Ли Юэ, Фонтейн",
       "game_version": "4.0",
       "languages": [
         "ru",

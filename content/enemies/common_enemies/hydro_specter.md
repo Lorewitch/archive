@@ -8,7 +8,7 @@
 # title_ru: Гидро призрак
 # title_en: Hydro Specter
 # title_zh: 水飘浮灵
-# region: Инадзума
+# region: Инадзума, Сумеру
 # game_version: 2.1
 
 # icon: assets/icons/enemies/common_enemies/hydro_specter.webp

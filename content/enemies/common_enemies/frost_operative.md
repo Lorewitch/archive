@@ -8,7 +8,7 @@
 # title_ru: Оперативник мороза
 # title_en: Frost Operative
 # title_zh: 愚人众•霜役人
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Фонтейн
 # game_version: 4.1
 
 # icon: assets/icons/enemies/common_enemies/frost_operative.webp

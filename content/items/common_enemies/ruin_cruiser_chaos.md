@@ -9,7 +9,7 @@
 # title_ru: Механизм хаоса / Ось хаоса / Око хаоса
 # title_en: Chaos
 # title_zh: 混沌机关 / 混沌枢纽 / 混沌真眼
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Ли Юэ, Инадзума, Сумеру, Фонтейн
 # icon: assets/icons/items/common_enemies/chaos_gear.webp
 
 # dropped_by: ruin_cruiser, ruin_destroyer, ruin_defender, ruin_scout

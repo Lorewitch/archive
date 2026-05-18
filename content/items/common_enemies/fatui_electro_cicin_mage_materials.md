@@ -9,7 +9,7 @@
 # title_ru: Пыльца туманной травы / Мешочек с туманной травой / Пучок туманной травы
 # title_en: Mist Grass Pollen
 # title_zh: 雾虚花粉 / 雾虚草囊 / 雾虚灯芯
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # icon: assets/icons/items/common_enemies/mist_grass_pollen.webp
 
 # dropped_by: fatui_electro_cicin_mage, fatui_cryo_cicin_mage

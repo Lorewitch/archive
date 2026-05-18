@@ -77,7 +77,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/forged_sand_interrogator.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -148,7 +148,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/forged_sand_shieldbreaker.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -219,7 +219,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/forged_sand_javelineer.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -290,7 +290,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/swiftstep_seeker.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -361,7 +361,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/swiftstep_storm_scout.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -432,7 +432,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/swiftstep_armed_courier.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -503,7 +503,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/flowing_blade_skirmisher.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -574,7 +574,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/flowing_blade_grease_saw.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",
@@ -645,7 +645,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/flowing_blade_harpoon_thrower.webp",
       "enemy_group": "human_factions",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Натлан",
       "game_version": "5.0",
       "languages": [
         "ru",

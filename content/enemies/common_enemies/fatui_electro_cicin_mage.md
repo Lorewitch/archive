@@ -8,7 +8,7 @@
 # title_ru: Фатуи: Маг Электро цицинов
 # title_en: Fatui Electro Cicin Mage
 # title_zh: 愚人众·雷萤术士
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/fatui_electro_cicin_mage.webp

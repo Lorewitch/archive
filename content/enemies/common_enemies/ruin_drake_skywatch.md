@@ -8,7 +8,7 @@
 # title_ru: Дракон руин: Страж небес
 # title_en: Ruin Drake: Skywatch
 # title_zh: 遗迹龙兽·空巡
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Сумеру, Фонтейн
 # game_version: 3.0
 
 # icon: assets/icons/enemies/common_enemies/ruin_drake_skywatch.webp

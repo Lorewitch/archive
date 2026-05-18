@@ -7,7 +7,7 @@
     "en": "Concealeds",
     "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
   "rarity": null,
   "game_version": "2.2",
   "tags": [
@@ -51,7 +51,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/rockfond_rifthound_whelp.webp",
       "enemy_group": "abyss",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "2.2",
       "languages": [
         "ru",
@@ -122,7 +122,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/thundercraven_rifthound_whelp.webp",
       "enemy_group": "abyss",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "2.2",
       "languages": [
         "ru",
@@ -193,7 +193,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/rockfond_rifthound.webp",
       "enemy_group": "abyss",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "2.2",
       "languages": [
         "ru",
@@ -264,7 +264,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/thundercraven_rifthound.webp",
       "enemy_group": "abyss",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "2.2",
       "languages": [
         "ru",

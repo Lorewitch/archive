@@ -8,7 +8,7 @@
 # title_ru: Лавачурл с инеевым панцирем
 # title_en: Frostarm Lawachurl
 # title_zh: 丘丘霜铠王
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/frostarm_lawachurl.webp
 

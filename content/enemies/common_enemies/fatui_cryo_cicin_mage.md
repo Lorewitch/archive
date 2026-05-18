@@ -8,7 +8,7 @@
 # title_ru: Фатуи: Маг Крио цицинов
 # title_en: Fatui Cryo Cicin Mage
 # title_zh: 愚人众·冰萤术士
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 1.2
 
 # icon: assets/icons/enemies/common_enemies/fatui_cryo_cicin_mage.webp

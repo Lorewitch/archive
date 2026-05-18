@@ -8,7 +8,7 @@
 # title_ru: Кованый песок: Крушитель щитов
 # title_en: Forged Sand Shieldbreaker
 # title_zh: 铸砂勇士 · 碎盾者
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/forged_sand_shieldbreaker.webp

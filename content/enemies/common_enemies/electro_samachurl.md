@@ -8,7 +8,7 @@
 # title_ru: Электро шамачурл
 # title_en: Electro Samachurl
 # title_zh: 雷丘丘萨满
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/electro_samachurl.webp
 

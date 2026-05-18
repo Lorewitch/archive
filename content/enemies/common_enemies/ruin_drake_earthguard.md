@@ -8,7 +8,7 @@
 # title_ru: Дракон руин: Страж земли
 # title_en: Ruin Drake: Earthguard
 # title_zh: 遗迹龙兽·地巡
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Сумеру, Фонтейн
 # game_version: 3.0
 
 # icon: assets/icons/enemies/common_enemies/ruin_drake_earthguard.webp

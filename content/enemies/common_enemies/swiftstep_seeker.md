@@ -8,7 +8,7 @@
 # title_ru: Стремительный воин: Ищущая
 # title_en: Swiftstep Seeker
 # title_zh: 疾迅勇士 · 引索客
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/swiftstep_seeker.webp

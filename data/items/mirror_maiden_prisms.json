@@ -7,7 +7,7 @@
     "en": "Prisms",
     "zh": "黯淡棱镜 / 水晶棱镜 / 偏光棱镜"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
   "rarity": null,
   "game_version": "2.0",
   "tags": [
@@ -48,7 +48,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mirror_maiden.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "2.0",
       "languages": [
         "ru",

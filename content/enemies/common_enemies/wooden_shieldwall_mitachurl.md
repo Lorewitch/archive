@@ -8,7 +8,7 @@
 # title_ru: Митачурл с деревянным щитом
 # title_en: Wooden Shieldwall Mitachurl
 # title_zh: 木盾丘丘暴徒
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/mitachurl.webp
 

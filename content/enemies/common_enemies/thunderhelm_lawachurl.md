@@ -8,7 +8,7 @@
 # title_ru: Лавачурл с громовым шлемом
 # title_en: Thunderhelm Lawachurl
 # title_zh: 丘丘雷兜王
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp
 

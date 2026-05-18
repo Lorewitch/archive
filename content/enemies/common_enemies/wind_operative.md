@@ -8,7 +8,7 @@
 # title_ru: Оперативник ветра
 # title_en: Wind Operative
 # title_zh: 愚人众·风役人
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Фонтейн
 # game_version: 4.1
 
 # icon: assets/icons/enemies/common_enemies/wind_operative.webp

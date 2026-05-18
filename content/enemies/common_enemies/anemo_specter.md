@@ -8,7 +8,7 @@
 # title_ru: Анемо призрак
 # title_en: Anemo Specter
 # title_zh: 风飘浮灵
-# region: Инадзума
+# region: Инадзума, Сумеру
 # game_version: 2.1
 
 # icon: assets/icons/enemies/common_enemies/anemo_specter.webp

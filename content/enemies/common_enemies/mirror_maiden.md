@@ -8,7 +8,7 @@
 # title_ru: Зеркальная дева Фатуи
 # title_en: Mirror Maiden
 # title_zh: 愚人众·藏镜仕女
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 2.0
 
 # icon: assets/icons/enemies/common_enemies/mirror_maiden.webp

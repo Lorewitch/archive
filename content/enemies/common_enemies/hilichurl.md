@@ -8,7 +8,7 @@
 # title_ru: Хиличурл
 # title_en: Hilichurl
 # title_zh: 丘丘人
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/hilichurl.webp
 

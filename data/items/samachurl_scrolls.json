@@ -53,7 +53,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hydro_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -166,7 +166,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/anemo_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -279,7 +279,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -392,7 +392,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -505,7 +505,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/cryo_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -618,7 +618,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/geo_samachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",

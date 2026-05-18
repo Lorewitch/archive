@@ -8,7 +8,7 @@
 # title_ru: Руинный охотник
 # title_en: Ruin Hunter
 # title_zh: 遗迹猎者
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Ли Юэ, Инадзума, Сумеру, Фонтейн
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/ruin_hunter.webp

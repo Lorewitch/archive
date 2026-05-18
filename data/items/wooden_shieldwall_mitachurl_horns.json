@@ -55,7 +55,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -168,7 +168,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -281,7 +281,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -394,7 +394,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -507,7 +507,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -620,7 +620,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -733,7 +733,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/frostarm_lawachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",
@@ -846,7 +846,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/stonehide_lawachurl.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
       "game_version": "",
       "languages": [
         "ru",

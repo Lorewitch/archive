@@ -8,7 +8,7 @@
 # title_ru: Электро призрак
 # title_en: Electro Specter
 # title_zh: 雷飘浮灵
-# region: Инадзума
+# region: Инадзума, Сумеру
 # game_version: 2.1
 
 # icon: assets/icons/enemies/common_enemies/electro_specter.webp

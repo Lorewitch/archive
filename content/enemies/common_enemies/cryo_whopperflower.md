@@ -8,7 +8,7 @@
 # title_ru: Крио попрыгунья
 # title_en: Cryo Whopperflower
 # title_zh: 冰霜骗骗花
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/cryo_whopperflower.webp

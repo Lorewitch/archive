@@ -8,7 +8,7 @@
 # title_ru: Детёныш кохолазавра
 # title_en: Koholasaur Whelp
 # title_zh: 幼鳍游龙
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/koholasaur_whelp.webp

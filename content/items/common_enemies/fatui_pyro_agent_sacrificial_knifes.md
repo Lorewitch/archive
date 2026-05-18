@@ -9,7 +9,7 @@
 # title_ru: Церемониальный нож охотника / Церемониальный нож агента / Церемониальный нож инспектора
 # title_en: Sacrificial Knifes
 # title_zh: 猎兵祭刀 / 特工祭刀 / 督察长祭刀
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
 # icon: assets/icons/items/common_enemies/hunters_sacrificial_knife.webp
 
 # dropped_by: fatui_pyro_agent

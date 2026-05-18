@@ -8,7 +8,7 @@
 # title_ru: Крио шамачурл
 # title_en: Cryo Samachurl
 # title_zh: 冰丘丘萨满
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/cryo_samachurl.webp
 

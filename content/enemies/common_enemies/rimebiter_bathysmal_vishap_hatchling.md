@@ -8,7 +8,7 @@
 # title_ru: Молодой вишап глубин: Ледогрыз
 # title_en: Rimebiter Bathysmal Vishap Hatchling
 # title_zh: 深海龙蜥幼体·啮冰
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Инадзума
 # game_version: 2.4
 
 # icon: assets/icons/enemies/common_enemies/rimebiter_bathysmal_vishap_hatchling.webp

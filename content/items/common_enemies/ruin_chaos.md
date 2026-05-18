@@ -9,7 +9,7 @@
 # title_ru: Устройство хаоса / Цепь хаоса / Ядро хаоса
 # title_en: Chaos
 # title_zh: 混沌装置 / 混沌回路 / 混沌炉心
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # icon: assets/icons/items/common_enemies/chaos_device.webp
 
 # dropped_by: ruin_guard, ruin_hunter, ruin_grader

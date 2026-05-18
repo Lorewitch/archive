@@ -9,7 +9,7 @@
 # title_ru: Сосуд хаоса / Модуль хаоса / Анкер хаоса
 # title_en: Chaos
 # title_zh: 混沌容器 / 混沌模块 / 混沌锚栓
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Сумеру, Фонтейн
 # icon: assets/icons/items/common_enemies/chaos_storage.webp
 
 # dropped_by: ruin_drake_earthguard, ruin_drake_skywatch

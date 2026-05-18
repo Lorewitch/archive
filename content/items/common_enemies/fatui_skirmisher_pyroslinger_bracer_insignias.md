@@ -9,7 +9,7 @@
 # title_ru: Шеврон рядового / Шеврон сержанта / Шеврон офицера
 # title_en: Insignias
 # title_zh: 新兵的徽记 / 士官的徽记 / 尉官的徽记
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # icon: assets/icons/items/common_enemies/recruits_insignia.webp
 
 # dropped_by: fatui_skirmisher_pyroslinger_bracer, fatui_skirmisher_hydrogunner_legionnaire, fatui_skirmisher_anemoboxer_vanguard, fatui_skirmisher_electrohammer_vanguard, fatui_skirmisher_cryogunner_legionnaire, fatui_skirmisher_geochanter_bracer, fatui_pyro_agent, fatui_electro_cicin_mage, fatui_cryo_cicin_mage

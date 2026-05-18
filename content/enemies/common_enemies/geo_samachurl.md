@@ -8,7 +8,7 @@
 # title_ru: Гео шамачурл
 # title_en: Geo Samachurl
 # title_zh: 岩丘丘萨满
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/geo_samachurl.webp
 

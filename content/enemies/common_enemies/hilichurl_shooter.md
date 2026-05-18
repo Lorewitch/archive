@@ -8,7 +8,7 @@
 # title_ru: Хиличурл-стрелок
 # title_en: Hilichurl Shooter
 # title_zh: 射手丘丘人
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/hilichurl.webp
 

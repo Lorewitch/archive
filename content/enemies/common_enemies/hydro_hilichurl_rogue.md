@@ -8,7 +8,7 @@
 # title_ru: Гидро хиличурл-изгой
 # title_en: Hydro Hilichurl Rogue
 # title_zh: 丘丘水行游侠
-# region: Тейват
+# region: Сумеру, Фонтейн
 
 # icon: assets/icons/enemies/common_enemies/hydro_hilichurl_rogue.webp
 

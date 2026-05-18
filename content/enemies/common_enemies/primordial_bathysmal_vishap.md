@@ -8,7 +8,7 @@
 # title_ru: Вишап глубин: Исток
 # title_en: Primordial Bathysmal Vishap
 # title_zh: 深海龙蜥·原种
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Инадзума
 # game_version: 2.4
 
 # icon: assets/icons/enemies/common_enemies/primordial_bathysmal_vishap.webp

@@ -8,7 +8,7 @@
 # title_ru: Щенок Разрыва: Камнегрыз
 # title_en: Rockfond Rifthound Whelp
 # title_zh: 嗜岩·兽境幼兽
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 2.2
 
 # icon: assets/icons/enemies/common_enemies/rockfond_rifthound_whelp.webp

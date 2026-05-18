@@ -9,7 +9,7 @@
 # title_ru: Тёмная призма / Кристальная призма / Поляризационная призма
 # title_en: Prisms
 # title_zh: 黯淡棱镜 / 水晶棱镜 / 偏光棱镜
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # icon: assets/icons/items/common_enemies/dismal_prism.webp
 
 # dropped_by: mirror_maiden

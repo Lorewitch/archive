@@ -7,7 +7,7 @@
     "en": "Flowers",
     "zh": "来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Сумеру, Фонтейн",
   "rarity": null,
   "game_version": "3.6",
   "tags": [
@@ -49,7 +49,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/hydro_hilichurl_rogue.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Сумеру, Фонтейн",
       "game_version": "",
       "languages": [
         "ru",
@@ -120,7 +120,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/anemo_hilichurl_rogue.webp",
       "enemy_group": "hilichurls",
-      "region": "Тейват",
+      "region": "Сумеру, Фонтейн",
       "game_version": "",
       "languages": [
         "ru",

@@ -8,7 +8,7 @@
 # title_ru: Молодой вишап глубин: Громоглот
 # title_en: Bolteater Bathysmal Vishap Hatchling
 # title_zh: 深海龙蜥幼体·吞雷
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Инадзума
 # game_version: 2.4
 
 # icon: assets/icons/enemies/common_enemies/bolteater_bathysmal_vishap_hatchling.webp

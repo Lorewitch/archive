@@ -8,7 +8,7 @@
 # title_ru: Застрельщик Фатуи: Гидро бомбардир
 # title_en: Fatui Skirmisher - Hydrogunner Legionnaire
 # title_zh: 愚人众先遣队·水铳重卫士
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/fatui_skirmisher_hydrogunner_legionnaire.webp

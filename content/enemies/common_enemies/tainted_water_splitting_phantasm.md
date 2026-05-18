@@ -8,7 +8,7 @@
 # title_ru: Дробящий воду фантазм
 # title_en: Tainted Water-Splitting Phantasm
 # title_zh: 浊水粉碎幻灵
-# region: Фонтейн
+# region: Ли Юэ, Фонтейн
 # game_version: 4.0
 
 # icon: assets/icons/enemies/common_enemies/tainted_water_splitting_phantasm.webp

@@ -8,7 +8,7 @@
 # title_ru: Хиличурл с каменным щитом
 # title_en: Rock Shield Hilichurl Guard
 # title_zh: 岩盾丘丘人
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/hilichurl.webp
 

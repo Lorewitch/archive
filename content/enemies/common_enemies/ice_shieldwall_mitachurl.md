@@ -8,7 +8,7 @@
 # title_ru: Митачурл с ледяным щитом
 # title_en: Ice Shieldwall Mitachurl
 # title_zh: 冰盾丘丘暴徒
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/mitachurl.webp
 

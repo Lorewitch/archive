@@ -8,7 +8,7 @@
 # title_ru: Детёныш юмказавра
 # title_en: Yumkasaur Whelp
 # title_zh: 幼匿叶龙
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/yumkasaur_whelp.webp

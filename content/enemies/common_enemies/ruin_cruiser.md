@@ -8,7 +8,7 @@
 # title_ru: Руинный патрульный
 # title_en: Ruin Cruiser
 # title_zh: 遗迹巡弋者
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Ли Юэ, Инадзума, Сумеру, Фонтейн
 # game_version: 2.0
 
 # icon: assets/icons/enemies/common_enemies/ruin_cruiser.webp

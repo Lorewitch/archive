@@ -9,7 +9,7 @@
 # title_ru: Опустошённая оболочка / Прочная оболочка / Меченая оболочка
 # title_en: Shells
 # title_zh: 残毁的横脊 / 密固的横脊 / 锲纹的横脊
-# region: Сумеру
+# region: Инадзума, Сумеру
 # icon: assets/icons/items/common_enemies/desiccated_shell.webp
 
 # dropped_by: consecrated_horned_crocodile, consecrated_fanged_beast, consecrated_red_vulture, consecrated_scorpion, consecrated_flying_serpent

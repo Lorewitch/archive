@@ -7,7 +7,7 @@
     "en": "Chaos",
     "zh": "混沌容器 / 混沌模块 / 混沌锚栓"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Сумеру, Фонтейн",
   "rarity": null,
   "game_version": "3.0",
   "tags": [
@@ -49,7 +49,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_drake_earthguard.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Сумеру, Фонтейн",
       "game_version": "3.0",
       "languages": [
         "ru",
@@ -120,7 +120,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_drake_skywatch.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Сумеру, Фонтейн",
       "game_version": "3.0",
       "languages": [
         "ru",

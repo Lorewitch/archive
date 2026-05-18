@@ -7,7 +7,7 @@
     "en": "Insignias",
     "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
   "rarity": null,
   "game_version": "1.0",
   "tags": [
@@ -56,7 +56,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_pyroslinger_bracer.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -127,7 +127,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_hydrogunner_legionnaire.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -198,7 +198,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_anemoboxer_vanguard.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -269,7 +269,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_electrohammer_vanguard.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -340,7 +340,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_cryogunner_legionnaire.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -411,7 +411,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_geochanter_bracer.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -482,7 +482,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_pyro_agent.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -595,7 +595,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_electro_cicin_mage.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -708,7 +708,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_cryo_cicin_mage.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.2",
       "languages": [
         "ru",

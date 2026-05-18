@@ -8,7 +8,7 @@
 # title_ru: Пиро попрыгунья
 # title_en: Pyro Whopperflower
 # title_zh: 炽热骗骗花
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/pyro_whopperflower.webp

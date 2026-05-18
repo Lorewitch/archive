@@ -7,7 +7,7 @@
     "en": "Shells",
     "zh": "残毁的横脊 / 密固的横脊 / 锲纹的横脊"
   },
-  "region": "Сумеру",
+  "region": "Инадзума, Сумеру",
   "rarity": null,
   "game_version": "3.1",
   "tags": [
@@ -265,7 +265,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/consecrated_scorpion.webp",
       "enemy_group": "mystical_beasts",
-      "region": "Сумеру",
+      "region": "Инадзума, Сумеру",
       "game_version": "3.4",
       "languages": [
         "ru",

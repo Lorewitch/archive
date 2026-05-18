@@ -9,7 +9,7 @@
 # title_ru: Призрачная оболочка / Призрачное сердце / Призрачное ядро
 # title_en: Spectrals
 # title_zh: 浮游干核 / 浮游幽核 / 浮游晶化核
-# region: Инадзума
+# region: Инадзума, Сумеру
 # icon: assets/icons/items/common_enemies/spectral_husk.webp
 
 # dropped_by: pyro_specter, hydro_specter, anemo_specter, electro_specter, dendro_specter, cryo_specter, geo_specter

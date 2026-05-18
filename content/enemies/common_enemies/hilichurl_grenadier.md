@@ -8,7 +8,7 @@
 # title_ru: Хиличурл-гренадёр
 # title_en: Hilichurl Grenadier
 # title_zh: 爆弹丘丘人
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/pyro_hilichurl.webp
 

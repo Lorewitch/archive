@@ -8,7 +8,7 @@
 # title_ru: Руинный молотильщик
 # title_en: Ruin Grader
 # title_zh: 遗迹重机
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 1.2
 
 # icon: assets/icons/enemies/common_enemies/ruin_grader.webp

@@ -8,7 +8,7 @@
 # title_ru: Электро хиличурл-стрелок
 # title_en: Electro Hilichurl Shooter
 # title_zh: 雷箭丘丘人
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/electro_hilichurl.webp
 

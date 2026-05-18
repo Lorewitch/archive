@@ -8,7 +8,7 @@
 # title_ru: Анемо шамачурл
 # title_en: Anemo Samachurl
 # title_zh: 风丘丘萨满
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/anemo_samachurl.webp
 

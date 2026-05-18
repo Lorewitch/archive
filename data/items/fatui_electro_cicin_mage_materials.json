@@ -7,7 +7,7 @@
     "en": "Mist Grass Pollen",
     "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
   "rarity": null,
   "game_version": "1.0",
   "tags": [
@@ -49,7 +49,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_electro_cicin_mage.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -162,7 +162,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/fatui_cryo_cicin_mage.webp",
       "enemy_group": "fatui",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.2",
       "languages": [
         "ru",

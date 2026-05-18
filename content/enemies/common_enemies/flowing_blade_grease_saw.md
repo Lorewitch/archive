@@ -8,7 +8,7 @@
 # title_ru: Клинок течений: Режущий
 # title_en: Flowing Blade Grease-Saw
 # title_zh: 流刃勇士 · 锯脂者
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/flowing_blade_grease_saw.webp

@@ -8,7 +8,7 @@
 # title_ru: Пиро призрак
 # title_en: Pyro Specter
 # title_zh: 火飘浮灵
-# region: Инадзума
+# region: Инадзума, Сумеру
 # game_version: 2.1
 
 # icon: assets/icons/enemies/common_enemies/pyro_specter.webp

@@ -8,7 +8,7 @@
 # title_ru: Дендро призрак
 # title_en: Dendro Specter
 # title_zh: 草飘浮灵
-# region: Инадзума
+# region: Инадзума, Сумеру
 # game_version: 2.1
 
 # icon: assets/icons/enemies/common_enemies/dendro_specter.webp

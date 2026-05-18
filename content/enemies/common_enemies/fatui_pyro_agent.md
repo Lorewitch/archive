@@ -8,7 +8,7 @@
 # title_ru: Фатуи: Пиро агент
 # title_en: Fatui Pyro Agent
 # title_zh: 愚人众·火之债务处理人
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/fatui_pyro_agent.webp

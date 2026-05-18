@@ -8,7 +8,7 @@
 # title_ru: Крио призрак
 # title_en: Cryo Specter
 # title_zh: 冰飘浮灵
-# region: Инадзума
+# region: Инадзума, Сумеру
 # game_version: 2.1
 
 # icon: assets/icons/enemies/common_enemies/cryo_specter.webp

@@ -8,7 +8,7 @@
 # title_ru: Митачурл с огненным топором
 # title_en: Blazing Axe Mitachurl
 # title_zh: 火斧丘丘暴徒
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/mitachurl.webp
 

@@ -9,7 +9,7 @@
 # title_ru: Нераспустившийся цветок / Заветный цветок / Распустившийся цветок странника
 # title_en: Flowers
 # title_zh: 来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Сумеру, Фонтейн
 # icon: assets/icons/items/common_enemies/a_flower_yet_to_bloom.webp
 
 # dropped_by: hydro_hilichurl_rogue, anemo_hilichurl_rogue

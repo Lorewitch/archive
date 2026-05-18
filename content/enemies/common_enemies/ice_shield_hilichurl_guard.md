@@ -8,7 +8,7 @@
 # title_ru: Хиличурл с ледяным щитом
 # title_en: Ice Shield Hilichurl Guard
 # title_zh: 冰盾丘丘人
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/hilichurl.webp
 

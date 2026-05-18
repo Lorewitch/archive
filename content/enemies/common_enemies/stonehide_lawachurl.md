@@ -8,7 +8,7 @@
 # title_ru: Лавачурл с каменным панцирем
 # title_en: Stonehide Lawachurl
 # title_zh: 丘丘岩盔王
-# region: Тейват
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
 
 # icon: assets/icons/enemies/common_enemies/stonehide_lawachurl.webp
 

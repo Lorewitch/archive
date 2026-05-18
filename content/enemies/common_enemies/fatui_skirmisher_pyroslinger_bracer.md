@@ -8,7 +8,7 @@
 # title_ru: Застрельщик Фатуи: Пиро мушкетёр
 # title_en: Fatui Skirmisher - Pyroslinger Bracer
 # title_zh: 愚人众先遣队·火铳游击兵
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
 # game_version: 1.0
 
 # icon: assets/icons/enemies/common_enemies/fatui_skirmisher_pyroslinger_bracer.webp

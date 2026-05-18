@@ -7,7 +7,7 @@
     "en": "Chaos",
     "zh": "混沌装置 / 混沌回路 / 混沌炉心"
   },
-  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+  "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
   "rarity": null,
   "game_version": "1.0",
   "tags": [
@@ -50,7 +50,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_guard.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -121,7 +121,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_hunter.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
       "game_version": "1.0",
       "languages": [
         "ru",
@@ -192,7 +192,7 @@
       },
       "icon": "assets/icons/enemies/common_enemies/ruin_grader.webp",
       "enemy_group": "automatons",
-      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+      "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
       "game_version": "1.2",
       "languages": [
         "ru",

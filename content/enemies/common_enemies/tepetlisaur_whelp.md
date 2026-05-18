@@ -8,7 +8,7 @@
 # title_ru: Детёныш тепетлизавра
 # title_en: Tepetlisaur Whelp
 # title_zh: 幼嵴锋龙
-# region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# region: Натлан
 # game_version: 5.0
 
 # icon: assets/icons/enemies/common_enemies/tepetlisaur_whelp.webp

@@ -776,7 +776,7 @@
       "en": "Shells",
       "zh": "残毁的横脊 / 密固的横脊 / 锲纹的横脊"
     },
-    "region": "Сумеру",
+    "region": "Инадзума, Сумеру",
     "game_version": "3.1",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -889,11 +889,12 @@
       "mystical_beasts"
     ],
     "filter_regions": [
+      "Инадзума",
       "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 3001000,
-    "search_text": "опустошённая оболочка / прочная оболочка / меченая оболочка shells 残毁的横脊 / 密固的横脊 / 锲纹的横脊 сумеру 3.1 common_enemies enemy_drops desiccated shell sturdy shell marked shell обычные противники consecrated_horned_crocodile consecrated_fanged_beast consecrated_red_vulture consecrated_scorpion consecrated_flying_serpent священный рогатый крокодил consecrated horned crocodile 圣骸角鳄 священный клыкастый зверь consecrated fanged beast 圣骸牙兽 священный красный стервятник consecrated red vulture 圣骸赤鹫 священный скорпион consecrated scorpion 圣骸毒蝎 священный летучий змей consecrated flying serpent 圣骸飞蛇 desiccated_shell sturdy_shell marked_shell опустошённая оболочка 残毁的横脊 прочная оболочка 密固的横脊 меченая оболочка 锲纹的横脊 разрушенная оболочка священного хищника. осязаемое свидетельство великого бедствия, поглотившего давние земли. обычно встречается в тех местах, куда мало кто осмеливается ступать. the ruined shell of a consecrated beast. a tangible effigy to the grand calamity that devoured the lands of yore, usually only discovered in places few dare tread. 圣骸兽脊背上残毁的骨壳。 昔日遍布四方之土的灾厄之证，如今唯有在人迹罕至之处方能寻得踪影。 прочная оболочка священного хищника. останки губительного зверя, который когда-то вгрызался в плоть великих низвергнутых созданий. даже если он унаследовал частицу силы божеств прошлого, ему суждено разделить их участь. the sturdy shell of a consecrated beast. the remains of a ruinous beast that once gnawed at the flesh of great, fallen beings. even should the beasts sup a sliver of power from the gods of yesteryear, they too will greet the same end as said gods. 圣骸兽脊背上坚实的骨壳。 噬啮殒落的伟大生灵之躯骸，并藉此升衍的灾兽之骨。纵然窃得昔日权能的片影，兽群终究无法逃过与诸神相同的终局。 оболочка священного хищника, покрытая древними письменами. на бледных контурах оболочки начертаны сожаления о давно минувших временах. когда-нибудь кости зверя будут развеяны, как пыль на ветру, и тогда возвышенные павшие наконец обретут покой… the marked shell of a consecrated beast inscribed with ancient script. on the pallid contours of the shell, the regrets of a time long past have been inlaid. one day, the bones of the beast will scatter like dust in the wind, and then, finally, may the exalted deceased greet their final rest... 圣骸兽脊背上铭镌着古老徽记的骨壳。 琅霜般净固的骨壳上，依稀萦绕着遥世的遗恨。终有一日，兽骨会在时之风中散作白灰，而那旧日倾殒的高贵者，最终也会迎来安眠之日吧…"
+    "search_text": "опустошённая оболочка / прочная оболочка / меченая оболочка shells 残毁的横脊 / 密固的横脊 / 锲纹的横脊 инадзума, сумеру 3.1 common_enemies enemy_drops desiccated shell sturdy shell marked shell обычные противники consecrated_horned_crocodile consecrated_fanged_beast consecrated_red_vulture consecrated_scorpion consecrated_flying_serpent священный рогатый крокодил consecrated horned crocodile 圣骸角鳄 священный клыкастый зверь consecrated fanged beast 圣骸牙兽 священный красный стервятник consecrated red vulture 圣骸赤鹫 священный скорпион consecrated scorpion 圣骸毒蝎 священный летучий змей consecrated flying serpent 圣骸飞蛇 desiccated_shell sturdy_shell marked_shell опустошённая оболочка 残毁的横脊 прочная оболочка 密固的横脊 меченая оболочка 锲纹的横脊 разрушенная оболочка священного хищника. осязаемое свидетельство великого бедствия, поглотившего давние земли. обычно встречается в тех местах, куда мало кто осмеливается ступать. the ruined shell of a consecrated beast. a tangible effigy to the grand calamity that devoured the lands of yore, usually only discovered in places few dare tread. 圣骸兽脊背上残毁的骨壳。 昔日遍布四方之土的灾厄之证，如今唯有在人迹罕至之处方能寻得踪影。 прочная оболочка священного хищника. останки губительного зверя, который когда-то вгрызался в плоть великих низвергнутых созданий. даже если он унаследовал частицу силы божеств прошлого, ему суждено разделить их участь. the sturdy shell of a consecrated beast. the remains of a ruinous beast that once gnawed at the flesh of great, fallen beings. even should the beasts sup a sliver of power from the gods of yesteryear, they too will greet the same end as said gods. 圣骸兽脊背上坚实的骨壳。 噬啮殒落的伟大生灵之躯骸，并藉此升衍的灾兽之骨。纵然窃得昔日权能的片影，兽群终究无法逃过与诸神相同的终局。 оболочка священного хищника, покрытая древними письменами. на бледных контурах оболочки начертаны сожаления о давно минувших временах. когда-нибудь кости зверя будут развеяны, как пыль на ветру, и тогда возвышенные павшие наконец обретут покой… the marked shell of a consecrated beast inscribed with ancient script. on the pallid contours of the shell, the regrets of a time long past have been inlaid. one day, the bones of the beast will scatter like dust in the wind, and then, finally, may the exalted deceased greet their final rest... 圣骸兽脊背上铭镌着古老徽记的骨壳。 琅霜般净固的骨壳上，依稀萦绕着遥世的遗恨。终有一日，兽骨会在时之风中散作白灰，而那旧日倾殒的高贵者，最终也会迎来安眠之日吧…"
   },
   {
     "id": "domain_keeper_flaming_hilts",
@@ -1288,7 +1289,7 @@
       "en": "Mist Grass Pollen",
       "zh": "雾虚花粉 / 雾虚草囊 / 雾虚灯芯"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
     "game_version": "1.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -1373,12 +1374,11 @@
       "Инадзума",
       "Сумеру",
       "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "пыльца туманной травы / мешочек с туманной травой / пучок туманной травы mist grass pollen 雾虚花粉 / 雾虚草囊 / 雾虚灯芯 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops mist grass mist grass wick обычные противники fatui_electro_cicin_mage fatui_cryo_cicin_mage фатуи: маг электро цицинов fatui electro cicin mage 愚人众·雷萤术士 фатуи: маг крио цицинов fatui cryo cicin mage 愚人众·冰萤术士 mist_grass_pollen mist_grass mist_grass_wick пыльца туманной травы 雾虚花粉 мешочек с туманной травой 雾虚草囊 пучок туманной травы 雾虚灯芯 туманная трава выделяет эти необычные споры, находясь в закрытом пространстве. любимое лакомство цицинов. strange spores created by mist grass in enclosed spaces. they are the cicins' favorite food. 雾虚草在密闭空间中会产生的奇妙孢子，是飞萤喜好的食物。 хорошо сохранившаяся туманная трава. некоторые люди могут управлять цицинами, пользуясь их любовью к этой траве. well-preserved mist grass. some would take advantage of the cicins' love for the mist grass to control them. 保存完好的雾虚草。有的人会利用飞萤对雾虚草的喜好，来控制它们。 небольшой пучок туманной травы, испускающий мягкое свечение. те, кто носит её, привлекают к себе цицинов и неудачу. a rare bundle of mist grass that gives off a faint glow. those who carry it invite both the cicins and misfortune. 将本就罕见的雾虚草集结成的束，会散发出幽晦的冥光；提着这种灯的人，则会召来飞萤与不幸。"
+    "search_text": "пыльца туманной травы / мешочек с туманной травой / пучок туманной травы mist grass pollen 雾虚花粉 / 雾虚草囊 / 雾虚灯芯 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 common_enemies enemy_drops mist grass mist grass wick обычные противники fatui_electro_cicin_mage fatui_cryo_cicin_mage фатуи: маг электро цицинов fatui electro cicin mage 愚人众·雷萤术士 фатуи: маг крио цицинов fatui cryo cicin mage 愚人众·冰萤术士 mist_grass_pollen mist_grass mist_grass_wick пыльца туманной травы 雾虚花粉 мешочек с туманной травой 雾虚草囊 пучок туманной травы 雾虚灯芯 туманная трава выделяет эти необычные споры, находясь в закрытом пространстве. любимое лакомство цицинов. strange spores created by mist grass in enclosed spaces. they are the cicins' favorite food. 雾虚草在密闭空间中会产生的奇妙孢子，是飞萤喜好的食物。 хорошо сохранившаяся туманная трава. некоторые люди могут управлять цицинами, пользуясь их любовью к этой траве. well-preserved mist grass. some would take advantage of the cicins' love for the mist grass to control them. 保存完好的雾虚草。有的人会利用飞萤对雾虚草的喜好，来控制它们。 небольшой пучок туманной травы, испускающий мягкое свечение. те, кто носит её, привлекают к себе цицинов и неудачу. a rare bundle of mist grass that gives off a faint glow. those who carry it invite both the cicins and misfortune. 将本就罕见的雾虚草集结成的束，会散发出幽晦的冥光；提着这种灯的人，则会召来飞萤与不幸。"
   },
   {
     "id": "fatui_pyro_agent_sacrificial_knifes",
@@ -1389,7 +1389,7 @@
       "en": "Sacrificial Knifes",
       "zh": "猎兵祭刀 / 特工祭刀 / 督察长祭刀"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
     "game_version": "1.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -1462,13 +1462,11 @@
       "Ли Юэ",
       "Инадзума",
       "Сумеру",
-      "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "церемониальный нож охотника / церемониальный нож агента / церемониальный нож инспектора sacrificial knifes 猎兵祭刀 / 特工祭刀 / 督察长祭刀 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops hunter's sacrificial knife agent's sacrificial knife inspector's sacrificial knife обычные противники fatui_pyro_agent фатуи: пиро агент fatui pyro agent 愚人众·火之债务处理人 hunters_sacrificial_knife agents_sacrificial_knife inspectors_sacrificial_knife церемониальный нож охотника 猎兵祭刀 церемониальный нож агента 特工祭刀 церемониальный нож инспектора 督察长祭刀 заточенное оружие из сплава. хоть и без хозяина, оно всё ещё отражает беспокойно холодный свет. a sharp alloy weapon. though its owner has been lost, it still reflects a disturbingly cold light. 某种锋利的合金武具。即便失去了原本的主人，仍反射着令人不安的寒光。 оружие необычной формы, сделанное при помощи продвинутой технологии снежной, когда-то принадлежало старшему агенту. без особой подготовки обычный человек это странное оружие использовать не сможет. an oddly-shaped weapon made with superior snezhnayan technology that once belonged to a senior agent. proper training is required for using this strange weapon. 利用至冬国优越的技术制造的异形兵器，曾经属于某位资深特工。一般人不经训练，根本无法使用这种奇怪的武具。 в умелых руках это оружие раздало обратно немало «долгов». ни у кого нет глаз на затылке. боевые приёмы с церемониальным ножом инспектора разработаны так, чтобы пользоваться слабыми местами противника. in the hands of its lord, this fierce weapon has handled many \"debts.\" no one has eyes in the back of their heads, and this weapon and its related techniques are designed around that weakness. 在故主手中，曾处理过许多「债务」的凶恶武具。世上无人背后长眼，而这种兵器与相关的武艺则是针对这种弱点设计的。"
+    "search_text": "церемониальный нож охотника / церемониальный нож агента / церемониальный нож инспектора sacrificial knifes 猎兵祭刀 / 特工祭刀 / 督察长祭刀 мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 common_enemies enemy_drops hunter's sacrificial knife agent's sacrificial knife inspector's sacrificial knife обычные противники fatui_pyro_agent фатуи: пиро агент fatui pyro agent 愚人众·火之债务处理人 hunters_sacrificial_knife agents_sacrificial_knife inspectors_sacrificial_knife церемониальный нож охотника 猎兵祭刀 церемониальный нож агента 特工祭刀 церемониальный нож инспектора 督察长祭刀 заточенное оружие из сплава. хоть и без хозяина, оно всё ещё отражает беспокойно холодный свет. a sharp alloy weapon. though its owner has been lost, it still reflects a disturbingly cold light. 某种锋利的合金武具。即便失去了原本的主人，仍反射着令人不安的寒光。 оружие необычной формы, сделанное при помощи продвинутой технологии снежной, когда-то принадлежало старшему агенту. без особой подготовки обычный человек это странное оружие использовать не сможет. an oddly-shaped weapon made with superior snezhnayan technology that once belonged to a senior agent. proper training is required for using this strange weapon. 利用至冬国优越的技术制造的异形兵器，曾经属于某位资深特工。一般人不经训练，根本无法使用这种奇怪的武具。 в умелых руках это оружие раздало обратно немало «долгов». ни у кого нет глаз на затылке. боевые приёмы с церемониальным ножом инспектора разработаны так, чтобы пользоваться слабыми местами противника. in the hands of its lord, this fierce weapon has handled many \"debts.\" no one has eyes in the back of their heads, and this weapon and its related techniques are designed around that weakness. 在故主手中，曾处理过许多「债务」的凶恶武具。世上无人背后长眼，而这种兵器与相关的武艺则是针对这种弱点设计的。"
   },
   {
     "id": "fatui_skirmisher_pyroslinger_bracer_insignias",
@@ -1479,7 +1477,7 @@
       "en": "Insignias",
       "zh": "新兵的徽记 / 士官的徽记 / 尉官的徽记"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
     "game_version": "1.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -1641,12 +1639,11 @@
       "Инадзума",
       "Сумеру",
       "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops recruit's insignia sergeant's insignia lieutenant's insignia обычные противники fatui_skirmisher_pyroslinger_bracer fatui_skirmisher_hydrogunner_legionnaire fatui_skirmisher_anemoboxer_vanguard fatui_skirmisher_electrohammer_vanguard fatui_skirmisher_cryogunner_legionnaire fatui_skirmisher_geochanter_bracer fatui_pyro_agent fatui_electro_cicin_mage fatui_cryo_cicin_mage застрельщик фатуи: пиро мушкетёр fatui skirmisher - pyroslinger bracer 愚人众先遣队·火铳游击兵 застрельщик фатуи: гидро бомбардир fatui skirmisher - hydrogunner legionnaire 愚人众先遣队·水铳重卫士 застрельщик фатуи: анемо борец fatui skirmisher - anemoboxer vanguard 愚人众先遣队·风拳前锋军 застрельщик фатуи: электро молотобоец fatui skirmisher - electrohammer vanguard 愚人众先遣队·雷锤前锋军 застрельщик фатуи: крио бомбардир fatui skirmisher - cryogunner legionnaire 愚人众先遣队·冰铳重卫士 застрельщик фатуи: гео заклинатель fatui skirmisher - geochanter bracer 愚人众先遣队·岩使游击兵 фатуи: пиро агент fatui pyro agent 愚人众·火之债务处理人 фатуи: маг электро цицинов fatui electro cicin mage 愚人众·雷萤术士 фатуи: маг крио цицинов fatui cryo cicin mage 愚人众·冰萤术士 recruits_insignia sergeants_insignia lieutenants_insignia шеврон рядового 新兵的徽记 шеврон сержанта 士官的徽记 шеврон офицера 尉官的徽记 знак, определяющий рекрута. интересно, у кого хватило мозгов стать частью военной машины фатуи. an insignia to identify the recruits. makes one wonder about what the ones joining the fatui's war machine were thinking. 标识着新兵身份的徽记。不知曾经带着它的人，是怀着何种心情加入愚人众的战争机器的呢。 знак, отличающий обычного рядового от сержанта. наверное, за ним скрываются сложные эмоции. an insignia with a different shape to distinguish the sergeants from new recruits. perhaps there are complicated emotions behind it. 标识着士官身份的徽记，有着区分一般士兵的奇异造型。其中或许蕴含着复杂的情绪吧。 знак, определяющий офицера. у фатуи огромная армия, поэтому в человеке, дослужившемся до офицера, должно быть что-то особенное. an insignia to identify officers. the fatui possess a colossal army, so there must be something extraordinary about the ones who achieved this rank within the group. 标识着尉官身份的徽记。愚人众拥有庞大的军队，能在其中担任尉官者，想必是有过人之处吧。"
+    "search_text": "шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 common_enemies enemy_drops recruit's insignia sergeant's insignia lieutenant's insignia обычные противники fatui_skirmisher_pyroslinger_bracer fatui_skirmisher_hydrogunner_legionnaire fatui_skirmisher_anemoboxer_vanguard fatui_skirmisher_electrohammer_vanguard fatui_skirmisher_cryogunner_legionnaire fatui_skirmisher_geochanter_bracer fatui_pyro_agent fatui_electro_cicin_mage fatui_cryo_cicin_mage застрельщик фатуи: пиро мушкетёр fatui skirmisher - pyroslinger bracer 愚人众先遣队·火铳游击兵 застрельщик фатуи: гидро бомбардир fatui skirmisher - hydrogunner legionnaire 愚人众先遣队·水铳重卫士 застрельщик фатуи: анемо борец fatui skirmisher - anemoboxer vanguard 愚人众先遣队·风拳前锋军 застрельщик фатуи: электро молотобоец fatui skirmisher - electrohammer vanguard 愚人众先遣队·雷锤前锋军 застрельщик фатуи: крио бомбардир fatui skirmisher - cryogunner legionnaire 愚人众先遣队·冰铳重卫士 застрельщик фатуи: гео заклинатель fatui skirmisher - geochanter bracer 愚人众先遣队·岩使游击兵 фатуи: пиро агент fatui pyro agent 愚人众·火之债务处理人 фатуи: маг электро цицинов fatui electro cicin mage 愚人众·雷萤术士 фатуи: маг крио цицинов fatui cryo cicin mage 愚人众·冰萤术士 recruits_insignia sergeants_insignia lieutenants_insignia шеврон рядового 新兵的徽记 шеврон сержанта 士官的徽记 шеврон офицера 尉官的徽记 знак, определяющий рекрута. интересно, у кого хватило мозгов стать частью военной машины фатуи. an insignia to identify the recruits. makes one wonder about what the ones joining the fatui's war machine were thinking. 标识着新兵身份的徽记。不知曾经带着它的人，是怀着何种心情加入愚人众的战争机器的呢。 знак, отличающий обычного рядового от сержанта. наверное, за ним скрываются сложные эмоции. an insignia with a different shape to distinguish the sergeants from new recruits. perhaps there are complicated emotions behind it. 标识着士官身份的徽记，有着区分一般士兵的奇异造型。其中或许蕴含着复杂的情绪吧。 знак, определяющий офицера. у фатуи огромная армия, поэтому в человеке, дослужившемся до офицера, должно быть что-то особенное. an insignia to identify officers. the fatui possess a colossal army, so there must be something extraordinary about the ones who achieved this rank within the group. 标识着尉官身份的徽记。愚人众拥有庞大的军队，能在其中担任尉官者，想必是有过人之处吧。"
   },
   {
     "id": "fisher_of_hidden_depths_of_the_deep_shadows",
@@ -2682,7 +2679,7 @@
       "en": "Bone Shards",
       "zh": "脆弱的骨片 / 结实的骨片 / 石化的骨片"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Ли Юэ, Инадзума",
     "game_version": "1.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -2806,17 +2803,12 @@
       "mystical_beasts"
     ],
     "filter_regions": [
-      "Мондштадт",
       "Ли Юэ",
-      "Инадзума",
-      "Сумеру",
-      "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Инадзума"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops fragile bone shard sturdy bone shard fossilized bone shard обычные противники geovishap_hatchling geovishap primordial_bathysmal_vishap primordial_bathysmal_vishap_hatchling rimebiter_bathysmal_vishap_hatchling bolteater_bathysmal_vishap_hatchling детёныш геовишапа geovishap hatchling 幼岩龙蜥 геовишап 岩龙蜥 вишап глубин: исток primordial bathysmal vishap 深海龙蜥·原种 молодой вишап глубин: исток primordial bathysmal vishap hatchling 深海龙蜥幼体·原种 молодой вишап глубин: ледогрыз rimebiter bathysmal vishap hatchling 深海龙蜥幼体·啮冰 молодой вишап глубин: громоглот bolteater bathysmal vishap hatchling 深海龙蜥幼体·吞雷 fragile_bone_shard sturdy_bone_shard fossilized_bone_shard хрупкие останки 脆弱的骨片 крепкие останки 结实的骨片 окаменевшие останки 石化的骨片 осколок кости, найденный на теле геовишапа. эти кости очень хрупкие, но они всё ещё содержат в себе неописуемую силу. a bone shard once carried by a geovishap. although they are quite fragile, they seem to still harbor some indescribable power. 从龙蜥身上找到的某种骨片。 尽管十分脆弱，其中似乎蕴含着某种难以言喻的力量。 фрагмент костей неизвестного существа, которые очень любят геовишапы. фрагмент выглядит довольно древним. по каким-то непонятным причинам эти драконоподобные существа, не имеющие своего языка, испытывают особую привязанность к осколкам этих костей. a fragment of an unknown creature's bones that appear to be prized by geovishaps for some reason. the fragment appears to be quite aged. despite being dragon-like beasts with no spoken language, they still seem to have some sort of special affection for these bone shards. 出于某种理由，龙蜥十分珍惜的某种生物骨片。 看上去有一定的年头。即使是这种不通人言的龙兽，似乎对这种遗骸也拥有某种特殊的憧憬。 окаменевший фрагмент кости, который иногда можно найти после победы над геовишапом. геовишапы мечтают когда-нибудь стать великими драконами. они бережно хранят эти костяные осколки, возможно, потому что они надеются получить силу и долголетие настоящих драконов. a fossilized bone fragment sometimes found after defeating geovishaps. geovishaps all dream of growing into great dragons one day. they see these fossils as dragon bones and greatly cherish them, perhaps because they too hope to attain the dragons' longevity and power. 击败龙蜥后有时能找到的石化骨片。 龙蜥都梦想着成长为真正的龙。会把古老的化石认作是龙之骨而加以珍惜，或许是因为希冀着龙的永恒与强大吧。"
+    "search_text": "хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片 ли юэ, инадзума 1.0 common_enemies enemy_drops fragile bone shard sturdy bone shard fossilized bone shard обычные противники geovishap_hatchling geovishap primordial_bathysmal_vishap primordial_bathysmal_vishap_hatchling rimebiter_bathysmal_vishap_hatchling bolteater_bathysmal_vishap_hatchling детёныш геовишапа geovishap hatchling 幼岩龙蜥 геовишап 岩龙蜥 вишап глубин: исток primordial bathysmal vishap 深海龙蜥·原种 молодой вишап глубин: исток primordial bathysmal vishap hatchling 深海龙蜥幼体·原种 молодой вишап глубин: ледогрыз rimebiter bathysmal vishap hatchling 深海龙蜥幼体·啮冰 молодой вишап глубин: громоглот bolteater bathysmal vishap hatchling 深海龙蜥幼体·吞雷 fragile_bone_shard sturdy_bone_shard fossilized_bone_shard хрупкие останки 脆弱的骨片 крепкие останки 结实的骨片 окаменевшие останки 石化的骨片 осколок кости, найденный на теле геовишапа. эти кости очень хрупкие, но они всё ещё содержат в себе неописуемую силу. a bone shard once carried by a geovishap. although they are quite fragile, they seem to still harbor some indescribable power. 从龙蜥身上找到的某种骨片。 尽管十分脆弱，其中似乎蕴含着某种难以言喻的力量。 фрагмент костей неизвестного существа, которые очень любят геовишапы. фрагмент выглядит довольно древним. по каким-то непонятным причинам эти драконоподобные существа, не имеющие своего языка, испытывают особую привязанность к осколкам этих костей. a fragment of an unknown creature's bones that appear to be prized by geovishaps for some reason. the fragment appears to be quite aged. despite being dragon-like beasts with no spoken language, they still seem to have some sort of special affection for these bone shards. 出于某种理由，龙蜥十分珍惜的某种生物骨片。 看上去有一定的年头。即使是这种不通人言的龙兽，似乎对这种遗骸也拥有某种特殊的憧憬。 окаменевший фрагмент кости, который иногда можно найти после победы над геовишапом. геовишапы мечтают когда-нибудь стать великими драконами. они бережно хранят эти костяные осколки, возможно, потому что они надеются получить силу и долголетие настоящих драконов. a fossilized bone fragment sometimes found after defeating geovishaps. geovishaps all dream of growing into great dragons one day. they see these fossils as dragon bones and greatly cherish them, perhaps because they too hope to attain the dragons' longevity and power. 击败龙蜥后有时能找到的石化骨片。 龙蜥都梦想着成长为真正的龙。会把古老的化石认作是龙之骨而加以珍惜，或许是因为希冀着龙的永恒与强大吧。"
   },
   {
     "id": "hilichurl_arrowheads",
@@ -2950,7 +2942,7 @@
       "en": "Flowers",
       "zh": "来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Сумеру, Фонтейн",
     "game_version": "3.6",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -3030,17 +3022,12 @@
       "hilichurls"
     ],
     "filter_regions": [
-      "Мондштадт",
-      "Ли Юэ",
-      "Инадзума",
       "Сумеру",
-      "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 3006000,
-    "search_text": "нераспустившийся цветок / заветный цветок / распустившийся цветок странника flowers 来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 3.6 common_enemies enemy_drops a flower yet to bloom treasured flower wanderer's blooming flower обычные противники hydro_hilichurl_rogue anemo_hilichurl_rogue гидро хиличурл-изгой hydro hilichurl rogue 丘丘水行游侠 анемо хиличурл-изгой anemo hilichurl rogue 丘丘风行游侠 a_flower_yet_to_bloom treasured_flower wanderers_blooming_flower нераспустившийся цветок 来自何处的待放之花 заветный цветок 何人所珍藏之花 распустившийся цветок странника 漫游者的盛放之花 дикий цветок, которым очень дорожил хиличурл-изгой. его сорвали, когда тот ещё не распустился. при обходе пустоши хиличурл-изгой берёт с собой только этот нераспустившийся цветок. a wild flower that a hilichurl rogue treasured. it was plucked before it could bloom. the hilichurl takes nothing with it in its sojourn across the wilderness save this flower. 丘丘游侠曾珍视的野花。在开放前就被摘下了。它在荒野的巡礼中并不携带任何多余的物品，除了这朵未开之花。 дикий цветок, которым очень дорожил хиличур-изгой. ничем особенным не выделяется. во многих культурах цветы дарят в качестве подарка или благодарности. a wild flower that a hilichurl rogue treasured, bereft of any special qualities. flowers can be used as gifts or offerings to express one's feelings in many cultures. 丘丘游侠曾珍视的野花，并不具有什么特别之处。花朵在许多文明当中都是表达心意的赠礼或谢礼。 распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. ничем особенным не выделяется. вечный чужеземец желает не награды, а лишь того, чтобы его труды дали плоды... a blooming wild flower that a hilichurl rogue treasured, bereft of any special qualities. the eternal outlander asks not for reward, but only to see their deeds come to fruition... 丘丘游侠曾珍视的盛放野花，并不具有什么特别之处。永恒的异乡人从不索要酬劳，所行所为最终都将开花结果…"
+    "search_text": "нераспустившийся цветок / заветный цветок / распустившийся цветок странника flowers 来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花 сумеру, фонтейн 3.6 common_enemies enemy_drops a flower yet to bloom treasured flower wanderer's blooming flower обычные противники hydro_hilichurl_rogue anemo_hilichurl_rogue гидро хиличурл-изгой hydro hilichurl rogue 丘丘水行游侠 анемо хиличурл-изгой anemo hilichurl rogue 丘丘风行游侠 a_flower_yet_to_bloom treasured_flower wanderers_blooming_flower нераспустившийся цветок 来自何处的待放之花 заветный цветок 何人所珍藏之花 распустившийся цветок странника 漫游者的盛放之花 дикий цветок, которым очень дорожил хиличурл-изгой. его сорвали, когда тот ещё не распустился. при обходе пустоши хиличурл-изгой берёт с собой только этот нераспустившийся цветок. a wild flower that a hilichurl rogue treasured. it was plucked before it could bloom. the hilichurl takes nothing with it in its sojourn across the wilderness save this flower. 丘丘游侠曾珍视的野花。在开放前就被摘下了。它在荒野的巡礼中并不携带任何多余的物品，除了这朵未开之花。 дикий цветок, которым очень дорожил хиличур-изгой. ничем особенным не выделяется. во многих культурах цветы дарят в качестве подарка или благодарности. a wild flower that a hilichurl rogue treasured, bereft of any special qualities. flowers can be used as gifts or offerings to express one's feelings in many cultures. 丘丘游侠曾珍视的野花，并不具有什么特别之处。花朵在许多文明当中都是表达心意的赠礼或谢礼。 распустившийся дикий цветок, которым очень дорожил хиличурл-изгой. ничем особенным не выделяется. вечный чужеземец желает не награды, а лишь того, чтобы его труды дали плоды... a blooming wild flower that a hilichurl rogue treasured, bereft of any special qualities. the eternal outlander asks not for reward, but only to see their deeds come to fruition... 丘丘游侠曾珍视的盛放野花，并不具有什么特别之处。永恒的异乡人从不索要酬劳，所行所为最终都将开花结果…"
   },
   {
     "id": "hilichurl_masks",
@@ -3051,7 +3038,7 @@
       "en": "Hilichurl Masks",
       "zh": "丘丘人的面具"
     },
-    "region": "",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
     "game_version": "1.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -3403,10 +3390,18 @@
     "enemy_type_keys": [
       "hilichurls"
     ],
-    "filter_regions": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "маски хиличурлов hilichurl masks 丘丘人的面具 1.0 common_enemies enemy_drops обычные противники hilichurl hilichurl_fighter hilichurl_berserker wooden_shield_hilichurl_guard ice_shield_hilichurl_guard rock_shield_hilichurl_guard hilichurl_shooter pyro_hilichurl_shooter electro_hilichurl_shooter cryo_hilichurl_shooter hilichurl_grenadier electro_hilichurl_grenadier cryo_hilichurl_grenadier wooden_shieldwall_mitachurl rock_shieldwall_mitachurl ice_shieldwall_mitachurl blazing_axe_mitachurl crackling_axe_mitachurl thunderhelm_lawachurl frostarm_lawachurl stonehide_lawachurl anemo_samachurl electro_samachurl dendro_samachurl hydro_samachurl geo_samachurl cryo_samachurl хиличурл 丘丘人 хиличурл-боец hilichurl fighter 打手丘丘人 хиличурл-берсерк hilichurl berserker 冲锋丘丘人 хиличурл с деревянным щитом wooden shield hilichurl guard 木盾丘丘人 хиличурл с ледяным щитом ice shield hilichurl guard 冰盾丘丘人 хиличурл с каменным щитом rock shield hilichurl guard 岩盾丘丘人 хиличурл-стрелок hilichurl shooter 射手丘丘人 пиро хиличурл-стрелок pyro hilichurl shooter 火箭丘丘人 электро хиличурл-стрелок electro hilichurl shooter 雷箭丘丘人 крио хиличурл-стрелок cryo hilichurl shooter 冰箭丘丘人 хиличурл-гренадёр hilichurl grenadier 爆弹丘丘人 электро хиличурл-гренадёр electro hilichurl grenadier 雷弹丘丘人 крио хиличурл-гренадёр cryo hilichurl grenadier 冰弹丘丘人 митачурл с деревянным щитом wooden shieldwall mitachurl 木盾丘丘暴徒 митачурл с каменным щитом rock shieldwall mitachurl 岩盾丘丘暴徒 митачурл с ледяным щитом ice shieldwall mitachurl 冰盾丘丘暴徒 митачурл с огненным топором blazing axe mitachurl 火斧丘丘暴徒 митачурл с электрическим топором crackling axe mitachurl 雷斧丘丘暴徒 лавачурл с громовым шлемом thunderhelm lawachurl 丘丘雷兜王 лавачурл с инеевым панцирем frostarm lawachurl 丘丘霜铠王 лавачурл с каменным панцирем stonehide lawachurl 丘丘岩盔王 анемо шамачурл anemo samachurl 风丘丘萨满 электро шамачурл electro samachurl 雷丘丘萨满 дендро шамачурл dendro samachurl 草丘丘萨满 гидро шамачурл hydro samachurl 水丘丘萨满 гео шамачурл geo samachurl 岩丘丘萨满 крио шамачурл cryo samachurl 冰丘丘萨满 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具 разбитая костяная маска, давным-давно принадлежавшая какому-то хиличурлу. разбита на мелкие осколки, поэтому не может выполнять свою основную функцию. a broken bone mask that once belonged to some hilichurl. now more broken than complete, it can no longer perform its primary function. 破碎的骨质面具，曾经属于某个丘丘人。 破损的部分比完整的部分更多，已经失去了假面应有的功能。 костяная маска со слабым запахом, покрытая странными пятнами. хоть и предназначена для лица, но только хиличурл может носить подобное. a bone mask, covered in unidentifiable stains, that emanates a mysterious odor. yet such is the devotion of hilichurls to masks that they will wear it nonetheless. 沾满了难以辨认的污渍，散发着微妙气味的骨质面具。 即使这样也要戴在脸上，这就是丘丘人的执着。 покрытая узором костяная маска, предназначенная для запугивания врагов. никто не знает, почему хиличурлы никогда не снимают свои маски. есть версия, что они просто боятся своего отражения в воде. a glossy bone mask with oil markings painted on it, meant to intimidate enemies. no one really knows why hilichurls are so fascinated with masks. some say that it's because they don't want to see their own reflections in the water. 光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。"
+    "search_text": "маски хиличурлов hilichurl masks 丘丘人的面具 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops обычные противники hilichurl hilichurl_fighter hilichurl_berserker wooden_shield_hilichurl_guard ice_shield_hilichurl_guard rock_shield_hilichurl_guard hilichurl_shooter pyro_hilichurl_shooter electro_hilichurl_shooter cryo_hilichurl_shooter hilichurl_grenadier electro_hilichurl_grenadier cryo_hilichurl_grenadier wooden_shieldwall_mitachurl rock_shieldwall_mitachurl ice_shieldwall_mitachurl blazing_axe_mitachurl crackling_axe_mitachurl thunderhelm_lawachurl frostarm_lawachurl stonehide_lawachurl anemo_samachurl electro_samachurl dendro_samachurl hydro_samachurl geo_samachurl cryo_samachurl хиличурл 丘丘人 хиличурл-боец hilichurl fighter 打手丘丘人 хиличурл-берсерк hilichurl berserker 冲锋丘丘人 хиличурл с деревянным щитом wooden shield hilichurl guard 木盾丘丘人 хиличурл с ледяным щитом ice shield hilichurl guard 冰盾丘丘人 хиличурл с каменным щитом rock shield hilichurl guard 岩盾丘丘人 хиличурл-стрелок hilichurl shooter 射手丘丘人 пиро хиличурл-стрелок pyro hilichurl shooter 火箭丘丘人 электро хиличурл-стрелок electro hilichurl shooter 雷箭丘丘人 крио хиличурл-стрелок cryo hilichurl shooter 冰箭丘丘人 хиличурл-гренадёр hilichurl grenadier 爆弹丘丘人 электро хиличурл-гренадёр electro hilichurl grenadier 雷弹丘丘人 крио хиличурл-гренадёр cryo hilichurl grenadier 冰弹丘丘人 митачурл с деревянным щитом wooden shieldwall mitachurl 木盾丘丘暴徒 митачурл с каменным щитом rock shieldwall mitachurl 岩盾丘丘暴徒 митачурл с ледяным щитом ice shieldwall mitachurl 冰盾丘丘暴徒 митачурл с огненным топором blazing axe mitachurl 火斧丘丘暴徒 митачурл с электрическим топором crackling axe mitachurl 雷斧丘丘暴徒 лавачурл с громовым шлемом thunderhelm lawachurl 丘丘雷兜王 лавачурл с инеевым панцирем frostarm lawachurl 丘丘霜铠王 лавачурл с каменным панцирем stonehide lawachurl 丘丘岩盔王 анемо шамачурл anemo samachurl 风丘丘萨满 электро шамачурл electro samachurl 雷丘丘萨满 дендро шамачурл dendro samachurl 草丘丘萨满 гидро шамачурл hydro samachurl 水丘丘萨满 гео шамачурл geo samachurl 岩丘丘萨满 крио шамачурл cryo samachurl 冰丘丘萨满 damaged_mask stained_mask ominous_mask разбитая маска damaged mask 破损的面具 грязная маска stained mask 污秽的面具 зловещая маска ominous mask 不祥的面具 разбитая костяная маска, давным-давно принадлежавшая какому-то хиличурлу. разбита на мелкие осколки, поэтому не может выполнять свою основную функцию. a broken bone mask that once belonged to some hilichurl. now more broken than complete, it can no longer perform its primary function. 破碎的骨质面具，曾经属于某个丘丘人。 破损的部分比完整的部分更多，已经失去了假面应有的功能。 костяная маска со слабым запахом, покрытая странными пятнами. хоть и предназначена для лица, но только хиличурл может носить подобное. a bone mask, covered in unidentifiable stains, that emanates a mysterious odor. yet such is the devotion of hilichurls to masks that they will wear it nonetheless. 沾满了难以辨认的污渍，散发着微妙气味的骨质面具。 即使这样也要戴在脸上，这就是丘丘人的执着。 покрытая узором костяная маска, предназначенная для запугивания врагов. никто не знает, почему хиличурлы никогда не снимают свои маски. есть версия, что они просто боятся своего отражения в воде. a glossy bone mask with oil markings painted on it, meant to intimidate enemies. no one really knows why hilichurls are so fascinated with masks. some say that it's because they don't want to see their own reflections in the water. 光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。"
   },
   {
     "id": "mirror_maiden_prisms",
@@ -3417,7 +3412,7 @@
       "en": "Prisms",
       "zh": "黯淡棱镜 / 水晶棱镜 / 偏光棱镜"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
     "game_version": "2.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -3486,17 +3481,15 @@
       "fatui"
     ],
     "filter_regions": [
-      "Мондштадт",
       "Ли Юэ",
       "Инадзума",
       "Сумеру",
       "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 2000000,
-    "search_text": "тёмная призма / кристальная призма / поляризационная призма prisms 黯淡棱镜 / 水晶棱镜 / 偏光棱镜 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 common_enemies enemy_drops dismal prism crystal prism polarizing prism обычные противники mirror_maiden зеркальная дева фатуи mirror maiden 愚人众·藏镜仕女 dismal_prism crystal_prism polarizing_prism тёмная призма 黯淡棱镜 кристальная призма 水晶棱镜 поляризационная призма 偏光棱镜 когда-то этой призмой преломляли свет, но со временем она помутнела. this was once a prism that could polarize light, but has grown dull through the passing of years. 原本是能偏转光线的棱镜，在流水般的年岁中渐渐变得黯淡。 отклоняющая лучи света призма. этой призмой можно создавать иллюзии и в некотором смысле управлять сердцами людей. a prism that can bend light. illusory images can be made using such prisms, giving such devices — in a manner of speaking — the power to sway human hearts. 能够偏转光线的棱镜。 利用这种棱镜，可以制造虚幻的影像。从某种意义而言，也因此有着操纵人心的力量。 отклоняющая лучи света призма. в темноте такие призмы распространяют луч света по большей площади. быть может, именно из-за этой особенности они способны принести толику покоя тем, чьи сердца объяты тьмой. a prism that can bend light. in the darkness, these prisms can spread thin light into a wider area. perhaps this is due to this quirk that these prisms can grant a measure of peace to those whose hearts are oft shrouded in darkness. 能够偏转光线的棱镜。 在黑暗中，棱镜可以将细微的光明散布到更大的范围里。或许也是因为这样的特性，这种棱镜对于内心常常被黑暗笼罩的人，有着令他们稍稍安心的力量。"
+    "search_text": "тёмная призма / кристальная призма / поляризационная призма prisms 黯淡棱镜 / 水晶棱镜 / 偏光棱镜 ли юэ, инадзума, сумеру, фонтейн, натлан 2.0 common_enemies enemy_drops dismal prism crystal prism polarizing prism обычные противники mirror_maiden зеркальная дева фатуи mirror maiden 愚人众·藏镜仕女 dismal_prism crystal_prism polarizing_prism тёмная призма 黯淡棱镜 кристальная призма 水晶棱镜 поляризационная призма 偏光棱镜 когда-то этой призмой преломляли свет, но со временем она помутнела. this was once a prism that could polarize light, but has grown dull through the passing of years. 原本是能偏转光线的棱镜，在流水般的年岁中渐渐变得黯淡。 отклоняющая лучи света призма. этой призмой можно создавать иллюзии и в некотором смысле управлять сердцами людей. a prism that can bend light. illusory images can be made using such prisms, giving such devices — in a manner of speaking — the power to sway human hearts. 能够偏转光线的棱镜。 利用这种棱镜，可以制造虚幻的影像。从某种意义而言，也因此有着操纵人心的力量。 отклоняющая лучи света призма. в темноте такие призмы распространяют луч света по большей площади. быть может, именно из-за этой особенности они способны принести толику покоя тем, чьи сердца объяты тьмой. a prism that can bend light. in the darkness, these prisms can spread thin light into a wider area. perhaps this is due to this quirk that these prisms can grant a measure of peace to those whose hearts are oft shrouded in darkness. 能够偏转光线的棱镜。 在黑暗中，棱镜可以将细微的光明散布到更大的范围里。或许也是因为这样的特性，这种棱镜对于内心常常被黑暗笼罩的人，有着令他们稍稍安心的力量。"
   },
   {
     "id": "nobushi_jintouban_handguards",
@@ -4447,7 +4440,7 @@
       "en": "Concealeds",
       "zh": "隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
     "game_version": "2.2",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -4554,12 +4547,11 @@
       "Инадзума",
       "Сумеру",
       "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 2002000,
-    "search_text": "скрытый коготь / скрытый заточенный коготь / скрытый дьявольский коготь concealeds 隐兽指爪 / 隐兽利爪 / 隐兽鬼爪 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.2 common_enemies enemy_drops concealed claw concealed unguis concealed talon обычные противники rockfond_rifthound_whelp thundercraven_rifthound_whelp rockfond_rifthound thundercraven_rifthound щенок разрыва: камнегрыз rockfond rifthound whelp 嗜岩·兽境幼兽 щенок разрыва: громоед thundercraven rifthound whelp 嗜雷·兽境幼兽 гончая разрыва: камнегрыз rockfond rifthound 嗜岩·兽境猎犬 гончая разрыва: громоед thundercraven rifthound 嗜雷·兽境猎犬 concealed_claw concealed_unguis concealed_talon скрытый коготь 隐兽指爪 скрытый заточенный коготь 隐兽利爪 скрытый дьявольский коготь 隐兽鬼爪 остатки телесных тканей, принадлежавших одному из волков разрыва. по законам логики, столь чуждые этому миру предметы не должны были сохраниться после того, как эти существа были изгнаны. residual body tissue left behind by one of the riftwolves. by ordinary logic, these objects, so alien to this world, should not have remained behind after these abnormal creatures were excised from the land. 兽境群狼的残留身体组织。 按照常理来说，这种与此世不容的事物不应在这种异常造物被驱逐后，残留于世才对。 телесные ткани, принадлежавшие одному из волков разрыва. они очень любопытны, но с дурином, шедевром гумусового слоя, эти псы элювиального слоя не идут ни в какое сравнение. body tissue left behind by one of the riftwolves. though they are quite wondrous indeed, these hunting hounds of \"alfisol\" are nothing of note before durin of \"humus.\" 兽境群狼的身体组织。 虽然奇妙，但是和大杰作「腐殖层」杜林相比，「淋溶层」猎犬不值一提。 острый коготь, принадлежавший одному из волков разрыва. все чудеса этого мира меркнут перед величайшим шедевром - меловым слоем. a sharp nail left behind by one of the riftwolves. all the marvels in the world must pale before \"cretaceus,\" the greatest work of them all. 兽境群狼的利爪。 世之奇珍，但是和最高杰作「白垩层」相比，只是寻常之物罢了。"
+    "search_text": "скрытый коготь / скрытый заточенный коготь / скрытый дьявольский коготь concealeds 隐兽指爪 / 隐兽利爪 / 隐兽鬼爪 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 2.2 common_enemies enemy_drops concealed claw concealed unguis concealed talon обычные противники rockfond_rifthound_whelp thundercraven_rifthound_whelp rockfond_rifthound thundercraven_rifthound щенок разрыва: камнегрыз rockfond rifthound whelp 嗜岩·兽境幼兽 щенок разрыва: громоед thundercraven rifthound whelp 嗜雷·兽境幼兽 гончая разрыва: камнегрыз rockfond rifthound 嗜岩·兽境猎犬 гончая разрыва: громоед thundercraven rifthound 嗜雷·兽境猎犬 concealed_claw concealed_unguis concealed_talon скрытый коготь 隐兽指爪 скрытый заточенный коготь 隐兽利爪 скрытый дьявольский коготь 隐兽鬼爪 остатки телесных тканей, принадлежавших одному из волков разрыва. по законам логики, столь чуждые этому миру предметы не должны были сохраниться после того, как эти существа были изгнаны. residual body tissue left behind by one of the riftwolves. by ordinary logic, these objects, so alien to this world, should not have remained behind after these abnormal creatures were excised from the land. 兽境群狼的残留身体组织。 按照常理来说，这种与此世不容的事物不应在这种异常造物被驱逐后，残留于世才对。 телесные ткани, принадлежавшие одному из волков разрыва. они очень любопытны, но с дурином, шедевром гумусового слоя, эти псы элювиального слоя не идут ни в какое сравнение. body tissue left behind by one of the riftwolves. though they are quite wondrous indeed, these hunting hounds of \"alfisol\" are nothing of note before durin of \"humus.\" 兽境群狼的身体组织。 虽然奇妙，但是和大杰作「腐殖层」杜林相比，「淋溶层」猎犬不值一提。 острый коготь, принадлежавший одному из волков разрыва. все чудеса этого мира меркнут перед величайшим шедевром - меловым слоем. a sharp nail left behind by one of the riftwolves. all the marvels in the world must pale before \"cretaceus,\" the greatest work of them all. 兽境群狼的利爪。 世之奇珍，但是和最高杰作「白垩层」相比，只是寻常之物罢了。"
   },
   {
     "id": "ruin_chaos",
@@ -4570,7 +4562,7 @@
       "en": "Chaos",
       "zh": "混沌装置 / 混沌回路 / 混沌炉心"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
     "game_version": "1.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -4666,12 +4658,11 @@
       "Инадзума",
       "Сумеру",
       "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Натлан"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "устройство хаоса / цепь хаоса / ядро хаоса chaos 混沌装置 / 混沌回路 / 混沌炉心 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops chaos device chaos circuit chaos core обычные противники ruin_guard ruin_hunter ruin_grader страж руин ruin guard 遗迹守卫 руинный охотник ruin hunter 遗迹猎者 руинный молотильщик ruin grader 遗迹重机 chaos_device chaos_circuit chaos_core устройство хаоса 混沌装置 цепь хаоса 混沌回路 ядро хаоса 混沌炉心 часть древнего механического тела. раньше она поддерживала его целостность. выполнена с высоким мастерством. comes from ancient defunct relic structures. a part that once held the structure together. its aesthetically-pleasing engineering is quite exquisite. 来自不再活动的古代遗迹构装体。曾经是维系它身躯的某个部位，有着精妙的工学美感。 часть древнего механического тела. это логическая схема, которая отвечала за его движение. в ней заключены великие знания, но, увы, ещё никто не смог их добыть. comes from ancient defunct relic structures. was once a logic circuit responsible for movement functions. sadly, no one is able to make sense of how it worked. 来自不再活动的古代遗迹构装体。曾经是驱使它行动的逻辑回路。其中蕴含的伟大技术，如今已经无人可解。 часть древнего механического тела. она была источником его жизненной силы. если бы кто-то постиг её тайны, то смог бы изменить весь мир. comes from ancient defunct relic structures. the core that once drove a mechanical beast. should you come to understand its workings and reproduce it, you could perhaps change the world. 来自不再活动的古代遗迹构装体。曾经是驱动它活动的能源之心。若能理解、重构这样的神秘技术，或许能改变这个世界也说不定。"
+    "search_text": "устройство хаоса / цепь хаоса / ядро хаоса chaos 混沌装置 / 混沌回路 / 混沌炉心 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 common_enemies enemy_drops chaos device chaos circuit chaos core обычные противники ruin_guard ruin_hunter ruin_grader страж руин ruin guard 遗迹守卫 руинный охотник ruin hunter 遗迹猎者 руинный молотильщик ruin grader 遗迹重机 chaos_device chaos_circuit chaos_core устройство хаоса 混沌装置 цепь хаоса 混沌回路 ядро хаоса 混沌炉心 часть древнего механического тела. раньше она поддерживала его целостность. выполнена с высоким мастерством. comes from ancient defunct relic structures. a part that once held the structure together. its aesthetically-pleasing engineering is quite exquisite. 来自不再活动的古代遗迹构装体。曾经是维系它身躯的某个部位，有着精妙的工学美感。 часть древнего механического тела. это логическая схема, которая отвечала за его движение. в ней заключены великие знания, но, увы, ещё никто не смог их добыть. comes from ancient defunct relic structures. was once a logic circuit responsible for movement functions. sadly, no one is able to make sense of how it worked. 来自不再活动的古代遗迹构装体。曾经是驱使它行动的逻辑回路。其中蕴含的伟大技术，如今已经无人可解。 часть древнего механического тела. она была источником его жизненной силы. если бы кто-то постиг её тайны, то смог бы изменить весь мир. comes from ancient defunct relic structures. the core that once drove a mechanical beast. should you come to understand its workings and reproduce it, you could perhaps change the world. 来自不再活动的古代遗迹构装体。曾经是驱动它活动的能源之心。若能理解、重构这样的神秘技术，或许能改变这个世界也说不定。"
   },
   {
     "id": "ruin_cruiser_chaos",
@@ -4682,7 +4673,7 @@
       "en": "Chaos",
       "zh": "混沌机关 / 混沌枢纽 / 混沌真眼"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
     "game_version": "2.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -4784,17 +4775,14 @@
       "automatons"
     ],
     "filter_regions": [
-      "Мондштадт",
       "Ли Юэ",
       "Инадзума",
       "Сумеру",
-      "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 2000000,
-    "search_text": "механизм хаоса / ось хаоса / око хаоса chaos 混沌机关 / 混沌枢纽 / 混沌真眼 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 common_enemies enemy_drops chaos gear chaos axis chaos oculus обычные противники ruin_cruiser ruin_destroyer ruin_defender ruin_scout руинный патрульный ruin cruiser 遗迹巡弋者 руинный крушитель ruin destroyer 遗迹歼击者 руинный защитник ruin defender 遗迹防卫者 руинный шпион ruin scout 遗迹侦察者 chaos_gear chaos_axis chaos_oculus механизм хаоса 混沌机关 ось хаоса 混沌枢纽 око хаоса 混沌真眼 часть древнего механизма из руин. служит источником энергии биомиметических механизмов. comes from a now-inactive ancient ruin machine. this is the energy source of that biomimetic mechanism. 来自不再活动的古代遗迹机关。 似乎是拟生机关的动力来源。 часть древнего механизма из руин. когда целостность механизма была нарушена, исчезли и заключённые в нём великая технология и таинственная энергия. comes from a now-inactive ancient ruin machine. even the great techniques and unknown power of this device must come to nothing should the machine that contained them ever fail to maintain structural integrity. 来自不再活动的古代遗迹机关。 在无法维持机关构装体的结构性之后，其中蕴含的伟大技术与未知力量也失去意义了吧。 часть древнего механизма из руин. механизмы руин называются так потому, что они наиболее активны в руинах. вот только с развалинами, где они обычно обитают, у них ничего общего. в далёком прошлом эти развалины были частью великой цивилизации, способной прикоснуться к куполу небосвода, а «руины» затаились в земных глубинах и до сих пор ждут приказа растоптать все королевства. comes from a now-inactive ancient ruin machine. the \"ruin\" part of the name comes from the areas where they are most active. however, ruin machines actually have little in common with the detritus in which they are often found. in the ancient past, these ruins were once part of a civilization mighty enough to almost touch the dome of the firmament, while \"ruin\" still waits in the deep places of the earth, awaiting the order to arise and tread all kingdoms underfoot. 来自不再活动的古代遗迹机关。 这类机关的「遗迹」之名源自它们热衷的活动区域。但遗迹机关本身与它们所寄居的残垣断壁之间却没有多少共同之处。 在遥远的过去，遗迹曾经属于伟大的、几乎可以触碰天空穹顶的文明，而「遗迹」则在大地的深处蓄势待发，等待着踏平一切国度的指令下达。"
+    "search_text": "механизм хаоса / ось хаоса / око хаоса chaos 混沌机关 / 混沌枢纽 / 混沌真眼 ли юэ, инадзума, сумеру, фонтейн 2.0 common_enemies enemy_drops chaos gear chaos axis chaos oculus обычные противники ruin_cruiser ruin_destroyer ruin_defender ruin_scout руинный патрульный ruin cruiser 遗迹巡弋者 руинный крушитель ruin destroyer 遗迹歼击者 руинный защитник ruin defender 遗迹防卫者 руинный шпион ruin scout 遗迹侦察者 chaos_gear chaos_axis chaos_oculus механизм хаоса 混沌机关 ось хаоса 混沌枢纽 око хаоса 混沌真眼 часть древнего механизма из руин. служит источником энергии биомиметических механизмов. comes from a now-inactive ancient ruin machine. this is the energy source of that biomimetic mechanism. 来自不再活动的古代遗迹机关。 似乎是拟生机关的动力来源。 часть древнего механизма из руин. когда целостность механизма была нарушена, исчезли и заключённые в нём великая технология и таинственная энергия. comes from a now-inactive ancient ruin machine. even the great techniques and unknown power of this device must come to nothing should the machine that contained them ever fail to maintain structural integrity. 来自不再活动的古代遗迹机关。 在无法维持机关构装体的结构性之后，其中蕴含的伟大技术与未知力量也失去意义了吧。 часть древнего механизма из руин. механизмы руин называются так потому, что они наиболее активны в руинах. вот только с развалинами, где они обычно обитают, у них ничего общего. в далёком прошлом эти развалины были частью великой цивилизации, способной прикоснуться к куполу небосвода, а «руины» затаились в земных глубинах и до сих пор ждут приказа растоптать все королевства. comes from a now-inactive ancient ruin machine. the \"ruin\" part of the name comes from the areas where they are most active. however, ruin machines actually have little in common with the detritus in which they are often found. in the ancient past, these ruins were once part of a civilization mighty enough to almost touch the dome of the firmament, while \"ruin\" still waits in the deep places of the earth, awaiting the order to arise and tread all kingdoms underfoot. 来自不再活动的古代遗迹机关。 这类机关的「遗迹」之名源自它们热衷的活动区域。但遗迹机关本身与它们所寄居的残垣断壁之间却没有多少共同之处。 在遥远的过去，遗迹曾经属于伟大的、几乎可以触碰天空穹顶的文明，而「遗迹」则在大地的深处蓄势待发，等待着踏平一切国度的指令下达。"
   },
   {
     "id": "ruin_drake_earthguard_chaos",
@@ -4805,7 +4793,7 @@
       "en": "Chaos",
       "zh": "混沌容器 / 混沌模块 / 混沌锚栓"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Сумеру, Фонтейн",
     "game_version": "3.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -4885,17 +4873,12 @@
       "automatons"
     ],
     "filter_regions": [
-      "Мондштадт",
-      "Ли Юэ",
-      "Инадзума",
       "Сумеру",
-      "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 3000000,
-    "search_text": "сосуд хаоса / модуль хаоса / анкер хаоса chaos 混沌容器 / 混沌模块 / 混沌锚栓 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 3.0 common_enemies enemy_drops chaos storage chaos module chaos bolt обычные противники ruin_drake_earthguard ruin_drake_skywatch дракон руин: страж земли ruin drake: earthguard 遗迹龙兽·地巡 дракон руин: страж небес ruin drake: skywatch 遗迹龙兽·空巡 chaos_storage chaos_module chaos_bolt сосуд хаоса 混沌容器 модуль хаоса 混沌模块 анкер хаоса 混沌锚栓 найден в древнем драконе руин. драконы руин поглощают элементальную энергию внешнего мира и накапливают её у себя в «зобу». comes from a now-inactive ancient ruin drake. ruin drakes can absorb elemental energy from the outside and store it in this component inside their \"neck.\" 来自不再活动的古代遗迹龙兽。遗迹龙兽可以吸收外界的元素能量，并储存在「颈部」的构件中。 найден в древнем драконе руин.«драконы» – самая древняя и примитивная форма воплощения высших элементов. впоследствии все они были разбиты, завоёваны или ассимилированы. comes from a now-inactive ancient ruin drake. the dragons were once the most primitive and ancient bodily form of the supreme elements until they were defeated, conquered, or assimilated. 来自不再活动的古代遗迹龙兽。「龙」是最为原始、古老的顶级元素受肉之形态，直到它们被击溃、被征服，抑或是被同化。 найден в древнем драконе руин. подданные одного из исчезнувших древних царств были одержимы теорией биомимесиса. они были уверены, что любую силу, будь то чистые и упорядоченные элементы гипостазисов или древняя первобытная мощь драконов, следует воспроизвести и усовершенствовать, чтобы она превзошла первоисточник. так будет создана высшая и чистейшая телесная форма, которая заменит бренную оболочку, обречённую на гибель и разложение. comes from a now-inactive ancient ruin drake. among the lost ancient kingdoms, there was a group of people who were obsessed with the idea of mimesis. be it the hypostases' pure ordered elements or the ancient primitive power of the dragons, these people believed that they might all be replicated and modified to the point where they had surpassed their natural counterparts. by this means, a superior and unsullied bodily form could replace the continuously decaying and shattering order. 来自不再活动的古代遗迹龙兽。已经失落的古国之中，曾有一派人醉心于拟生之原理。无论是无相的纯粹秩序元素，或是龙的亘古原始力量，都应当加以拟造、改良，最终达成超越。如此便能以更为优越的无垢之身，取代终将朽败、终将破碎的秩序。"
+    "search_text": "сосуд хаоса / модуль хаоса / анкер хаоса chaos 混沌容器 / 混沌模块 / 混沌锚栓 сумеру, фонтейн 3.0 common_enemies enemy_drops chaos storage chaos module chaos bolt обычные противники ruin_drake_earthguard ruin_drake_skywatch дракон руин: страж земли ruin drake: earthguard 遗迹龙兽·地巡 дракон руин: страж небес ruin drake: skywatch 遗迹龙兽·空巡 chaos_storage chaos_module chaos_bolt сосуд хаоса 混沌容器 модуль хаоса 混沌模块 анкер хаоса 混沌锚栓 найден в древнем драконе руин. драконы руин поглощают элементальную энергию внешнего мира и накапливают её у себя в «зобу». comes from a now-inactive ancient ruin drake. ruin drakes can absorb elemental energy from the outside and store it in this component inside their \"neck.\" 来自不再活动的古代遗迹龙兽。遗迹龙兽可以吸收外界的元素能量，并储存在「颈部」的构件中。 найден в древнем драконе руин.«драконы» – самая древняя и примитивная форма воплощения высших элементов. впоследствии все они были разбиты, завоёваны или ассимилированы. comes from a now-inactive ancient ruin drake. the dragons were once the most primitive and ancient bodily form of the supreme elements until they were defeated, conquered, or assimilated. 来自不再活动的古代遗迹龙兽。「龙」是最为原始、古老的顶级元素受肉之形态，直到它们被击溃、被征服，抑或是被同化。 найден в древнем драконе руин. подданные одного из исчезнувших древних царств были одержимы теорией биомимесиса. они были уверены, что любую силу, будь то чистые и упорядоченные элементы гипостазисов или древняя первобытная мощь драконов, следует воспроизвести и усовершенствовать, чтобы она превзошла первоисточник. так будет создана высшая и чистейшая телесная форма, которая заменит бренную оболочку, обречённую на гибель и разложение. comes from a now-inactive ancient ruin drake. among the lost ancient kingdoms, there was a group of people who were obsessed with the idea of mimesis. be it the hypostases' pure ordered elements or the ancient primitive power of the dragons, these people believed that they might all be replicated and modified to the point where they had surpassed their natural counterparts. by this means, a superior and unsullied bodily form could replace the continuously decaying and shattering order. 来自不再活动的古代遗迹龙兽。已经失落的古国之中，曾有一派人醉心于拟生之原理。无论是无相的纯粹秩序元素，或是龙的亘古原始力量，都应当加以拟造、改良，最终达成超越。如此便能以更为优越的无垢之身，取代终将朽败、终将破碎的秩序。"
   },
   {
     "id": "samachurl_scrolls",
@@ -5496,7 +5479,7 @@
       "en": "Spectrals",
       "zh": "浮游干核 / 浮游幽核 / 浮游晶化核"
     },
-    "region": "Инадзума",
+    "region": "Инадзума, Сумеру",
     "game_version": "2.1",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -5631,11 +5614,12 @@
       "elementals"
     ],
     "filter_regions": [
-      "Инадзума"
+      "Инадзума",
+      "Сумеру"
     ],
     "filter_type": "",
     "sort_version": 2001000,
-    "search_text": "призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核 инадзума 2.1 common_enemies enemy_drops spectral husk spectral heart spectral nucleus обычные противники pyro_specter hydro_specter anemo_specter electro_specter dendro_specter cryo_specter geo_specter пиро призрак pyro specter 火飘浮灵 гидро призрак hydro specter 水飘浮灵 анемо призрак anemo specter 风飘浮灵 электро призрак electro specter 雷飘浮灵 дендро призрак dendro specter 草飘浮灵 крио призрак cryo specter 冰飘浮灵 гео призрак geo specter 岩飘浮灵 spectral_husk spectral_heart spectral_nucleus призрачная оболочка 浮游干核 призрачное сердце 浮游幽核 призрачное ядро 浮游晶化核 энергетическое ядро, которое позволяет призракам парить. оно содержит небольшое количество элементальной энергии. большая часть остальной энергии уже рассеялась. an energy core that allows the specters to float. it contains a small amount of elemental energy. most of the rest has already dispersed. 能让飘浮灵浮游的能量核，其中含有些微的元素。 大部分的能量似乎已经逸散了。 энергетическое ядро, которое позволяет призракам парить. эти элементальные формы жизни весьма необычны. иногда их резко становится больше, а потом они вдруг исчезают. an energy core that allows the specters to float. these elemental life-forms have strange behavioral patterns and will periodically surge in number before disappearing. 能让飘浮灵浮游的能量核。 这种元素生物似乎有奇异的习性，会周期性大量涌现、消失。 цельное энергетическое ядро, которое иногда можно получить после победы над призраками. среди тех, кому просто необходимо разделить мир на победителей и проигравших, идёт спор: что лучше парит - призрак или анемо слайм? a complete energy core that can sometimes be found after defeating specters. there is a debate among those who just have to divide the world into winners and losers: what floats better — a specter or an anemo slime? 击败飘浮灵后有时能发现的完整的能量核。 在热衷于给任何事物都分个高下的人当中，经常发生这样的争论：飘浮灵和风史莱姆的浮力，究竟孰高孰低。"
+    "search_text": "призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核 инадзума, сумеру 2.1 common_enemies enemy_drops spectral husk spectral heart spectral nucleus обычные противники pyro_specter hydro_specter anemo_specter electro_specter dendro_specter cryo_specter geo_specter пиро призрак pyro specter 火飘浮灵 гидро призрак hydro specter 水飘浮灵 анемо призрак anemo specter 风飘浮灵 электро призрак electro specter 雷飘浮灵 дендро призрак dendro specter 草飘浮灵 крио призрак cryo specter 冰飘浮灵 гео призрак geo specter 岩飘浮灵 spectral_husk spectral_heart spectral_nucleus призрачная оболочка 浮游干核 призрачное сердце 浮游幽核 призрачное ядро 浮游晶化核 энергетическое ядро, которое позволяет призракам парить. оно содержит небольшое количество элементальной энергии. большая часть остальной энергии уже рассеялась. an energy core that allows the specters to float. it contains a small amount of elemental energy. most of the rest has already dispersed. 能让飘浮灵浮游的能量核，其中含有些微的元素。 大部分的能量似乎已经逸散了。 энергетическое ядро, которое позволяет призракам парить. эти элементальные формы жизни весьма необычны. иногда их резко становится больше, а потом они вдруг исчезают. an energy core that allows the specters to float. these elemental life-forms have strange behavioral patterns and will periodically surge in number before disappearing. 能让飘浮灵浮游的能量核。 这种元素生物似乎有奇异的习性，会周期性大量涌现、消失。 цельное энергетическое ядро, которое иногда можно получить после победы над призраками. среди тех, кому просто необходимо разделить мир на победителей и проигравших, идёт спор: что лучше парит - призрак или анемо слайм? a complete energy core that can sometimes be found after defeating specters. there is a debate among those who just have to divide the world into winners and losers: what floats better — a specter or an anemo slime? 击败飘浮灵后有时能发现的完整的能量核。 在热衷于给任何事物都分个高下的人当中，经常发生这样的争论：飘浮灵和风史莱姆的浮力，究竟孰高孰低。"
   },
   {
     "id": "tainted_water_splitting_phantasm_materials",
@@ -5646,7 +5630,7 @@
       "en": "Tainteds",
       "zh": "浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵"
     },
-    "region": "Фонтейн",
+    "region": "Ли Юэ, Фонтейн",
     "game_version": "4.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -5726,11 +5710,12 @@
       "elementals"
     ],
     "filter_regions": [
+      "Ли Юэ",
       "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4000000,
-    "search_text": "мутная капля / мутная лужица / новорождённый фантазм мутных вод tainteds 浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵 фонтейн 4.0 common_enemies enemy_drops drop of tainted water scoop of tainted water newborn tainted hydro phantasm обычные противники tainted_water_splitting_phantasm tainted_water_spouting_phantasm дробящий воду фантазм tainted water-splitting phantasm 浊水粉碎幻灵 извергающий воду фантазм tainted water-spouting phantasm 浊水喷吐幻灵 drop_of_tainted_water scoop_of_tainted_water newborn_tainted_hydro_phantasm мутная капля 浊水的一滴 мутная лужица 浊水的一掬 новорождённый фантазм мутных вод 初生的浊水幻灵 капля, полученная после победы над фантазмом мутных вод. похоже, в ней ещё теплится жизненная сила. a small drop of water obtained from a defeated tainted hydro phantasm. the life force in it has yet to ebb away. 击败浊水幻灵后，取得的一小滴水。其中的生命力似乎尚未完全消散。 вода, полученная после победы над фантазмом мутных вод. похоже, в ней ещё теплится жизненная сила. океанид чистых вод в фонтейне больше нет, остались лишь эти неуклюжие элементальные существа. water obtained from a defeated tainted hydro phantasm. the life force in it has yet to ebb away. today, with the oceanids extirpated from fontaine, strange elemental life forms that are far from elegant have appeared in the waters. 击败浊水幻灵后，取得的水。其中的生命力似乎尚未完全消散。过去的纯水精灵如今在枫丹已经绝迹，从水中升起的只有这些不具备优美形态的奇异元素生命体。 новая жизнь, появившаяся после победы над фантазмом мутных вод и заключённая во флакон. не имеющая формы жизнь зарождается в воде и заимствует её форму. a new lifeform that arose from the dispersed tainted hydro phantasm. it is trapped inside a bottle. the life contained within the waters is formless, and formless life is born of water and gains water's shape. 击散浊水幻灵后，即将再度升起的新生命体，被装在了禁锢的瓶中。水中所蕴含着的生命是无形的，而无形的生命也寄于水中，借由水之形诞生。"
+    "search_text": "мутная капля / мутная лужица / новорождённый фантазм мутных вод tainteds 浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵 ли юэ, фонтейн 4.0 common_enemies enemy_drops drop of tainted water scoop of tainted water newborn tainted hydro phantasm обычные противники tainted_water_splitting_phantasm tainted_water_spouting_phantasm дробящий воду фантазм tainted water-splitting phantasm 浊水粉碎幻灵 извергающий воду фантазм tainted water-spouting phantasm 浊水喷吐幻灵 drop_of_tainted_water scoop_of_tainted_water newborn_tainted_hydro_phantasm мутная капля 浊水的一滴 мутная лужица 浊水的一掬 новорождённый фантазм мутных вод 初生的浊水幻灵 капля, полученная после победы над фантазмом мутных вод. похоже, в ней ещё теплится жизненная сила. a small drop of water obtained from a defeated tainted hydro phantasm. the life force in it has yet to ebb away. 击败浊水幻灵后，取得的一小滴水。其中的生命力似乎尚未完全消散。 вода, полученная после победы над фантазмом мутных вод. похоже, в ней ещё теплится жизненная сила. океанид чистых вод в фонтейне больше нет, остались лишь эти неуклюжие элементальные существа. water obtained from a defeated tainted hydro phantasm. the life force in it has yet to ebb away. today, with the oceanids extirpated from fontaine, strange elemental life forms that are far from elegant have appeared in the waters. 击败浊水幻灵后，取得的水。其中的生命力似乎尚未完全消散。过去的纯水精灵如今在枫丹已经绝迹，从水中升起的只有这些不具备优美形态的奇异元素生命体。 новая жизнь, появившаяся после победы над фантазмом мутных вод и заключённая во флакон. не имеющая формы жизнь зарождается в воде и заимствует её форму. a new lifeform that arose from the dispersed tainted hydro phantasm. it is trapped inside a bottle. the life contained within the waters is formless, and formless life is born of water and gains water's shape. 击散浊水幻灵后，即将再度升起的新生命体，被装在了禁锢的瓶中。水中所蕴含着的生命是无形的，而无形的生命也寄于水中，借由水之形诞生。"
   },
   {
     "id": "tenebrous_mimiflora_buds",
@@ -6230,7 +6215,7 @@
       "en": "Nectars",
       "zh": "骗骗花蜜 / 微光花蜜 / 原素花蜜"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
     "game_version": "1.0",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -6325,13 +6310,11 @@
       "Ли Юэ",
       "Инадзума",
       "Сумеру",
-      "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 1000000,
-    "search_text": "нектар попрыгуньи / мерцающий нектар / элементальный нектар nectars 骗骗花蜜 / 微光花蜜 / 原素花蜜 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 common_enemies enemy_drops whopperflower nectar shimmering nectar energy nectar обычные противники pyro_whopperflower electro_whopperflower cryo_whopperflower пиро попрыгунья pyro whopperflower 炽热骗骗花 электро попрыгунья electro whopperflower 电气骗骗花 крио попрыгунья cryo whopperflower 冰霜骗骗花 whopperflower_nectar shimmering_nectar energy_nectar нектар попрыгуньи 骗骗花蜜 мерцающий нектар 微光花蜜 элементальный нектар 原素花蜜 нектар из цветов попрыгуньи с остаточным содержанием элементов. вкус нектара имеет нотки цветка-сахарка. nectar extracted from the stamen of a whopperflower that contains trace amounts of elemental energy. the taste of the nectar has a hint of sweet flower in it. 从花蕊中提取出的花蜜，其中含有少量元素。 尝起来和甜甜花的味道有些微妙地相似。 нектар, наполненный чистыми элементами. учёные сходятся во мнении, что попрыгунья является высшей формой жизни среди элементальных растений, но объяснения их хищному поведению у них ещё нет. nectar that is full of pure elemental energy. scholars generally concur that whopperflowers are advanced life forms among the elemental plants, but there has yet to be a satisfactory explanation regarding their predatory habits. 元素纯度较高的花蜜。 学界一般认为骗骗花是元素植物的高级生命形态，但始终无法解明它的掠食习性。 густой липкий мёд, наполненный энергией. попрыгунья обманывает свою жертву и съедает её для того, чтобы эволюционировать в более сильную и чистую форму жизни. a thick and sticky honey that is full of energy. the whopperflower hunts by tricking its prey, a process it uses to possibly evolve into a more powerful and pure form. 饱含能量的黏稠蜜汁。 骗骗花欺瞒猎物是为了狩猎，而狩猎进食或许是为了进化成某种更强大、更纯粹的姿态吧…"
+    "search_text": "нектар попрыгуньи / мерцающий нектар / элементальный нектар nectars 骗骗花蜜 / 微光花蜜 / 原素花蜜 мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 common_enemies enemy_drops whopperflower nectar shimmering nectar energy nectar обычные противники pyro_whopperflower electro_whopperflower cryo_whopperflower пиро попрыгунья pyro whopperflower 炽热骗骗花 электро попрыгунья electro whopperflower 电气骗骗花 крио попрыгунья cryo whopperflower 冰霜骗骗花 whopperflower_nectar shimmering_nectar energy_nectar нектар попрыгуньи 骗骗花蜜 мерцающий нектар 微光花蜜 элементальный нектар 原素花蜜 нектар из цветов попрыгуньи с остаточным содержанием элементов. вкус нектара имеет нотки цветка-сахарка. nectar extracted from the stamen of a whopperflower that contains trace amounts of elemental energy. the taste of the nectar has a hint of sweet flower in it. 从花蕊中提取出的花蜜，其中含有少量元素。 尝起来和甜甜花的味道有些微妙地相似。 нектар, наполненный чистыми элементами. учёные сходятся во мнении, что попрыгунья является высшей формой жизни среди элементальных растений, но объяснения их хищному поведению у них ещё нет. nectar that is full of pure elemental energy. scholars generally concur that whopperflowers are advanced life forms among the elemental plants, but there has yet to be a satisfactory explanation regarding their predatory habits. 元素纯度较高的花蜜。 学界一般认为骗骗花是元素植物的高级生命形态，但始终无法解明它的掠食习性。 густой липкий мёд, наполненный энергией. попрыгунья обманывает свою жертву и съедает её для того, чтобы эволюционировать в более сильную и чистую форму жизни. a thick and sticky honey that is full of energy. the whopperflower hunts by tricking its prey, a process it uses to possibly evolve into a more powerful and pure form. 饱含能量的黏稠蜜汁。 骗骗花欺瞒猎物是为了狩猎，而狩猎进食或许是为了进化成某种更强大、更纯粹的姿态吧…"
   },
   {
     "id": "wilderness_exile_mistshrouds",
@@ -6437,7 +6420,7 @@
       "en": "Operatives",
       "zh": "老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻"
     },
-    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "region": "Фонтейн",
     "game_version": "4.1",
     "item_group": "common_enemies",
     "entry_type": "enemy_drops",
@@ -6517,17 +6500,11 @@
       "fatui"
     ],
     "filter_regions": [
-      "Мондштадт",
-      "Ли Юэ",
-      "Инадзума",
-      "Сумеру",
-      "Фонтейн",
-      "Натлан",
-      "Нод-Край"
+      "Фонтейн"
     ],
     "filter_type": "",
     "sort_version": 4001000,
-    "search_text": "старые карманные часы сенешаля / штатные карманные часы сенешаля / постоянство сенешаля operatives 老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 4.1 common_enemies enemy_drops old operative's pocket watch operative's standard pocket watch operative's constancy обычные противники wind_operative frost_operative оперативник ветра wind operative 愚人众·风役人 оперативник мороза frost operative 愚人众•霜役人 old_operatives_pocket_watch operatives_standard_pocket_watch operatives_constancy старые карманные часы сенешаля 老旧的役人怀表 штатные карманные часы сенешаля 役人的制式怀表 постоянство сенешаля 役人的时时刻刻 штатные карманные часы, которые выдаются сенешалям фатуи. эрозия и окисление на корпусе - верная память о днях, проведённых владельцем этих часов в роли исполнителя воли фатуи. a standard-issue pocket watch given to fatui operatives. the erosion and oxidation on the casing serve as a loyal record of its owners' days spent as an instrument, enforcing the fatui's will. 配发给愚人众役人的制式怀表。猎壳上徽记的磨损与氧化褪色忠实地记录着身为执行者，所度过的时日。 штатные карманные часы, которые выдаются сенешалям фатуи. заводная головка часов расположена неудачно, а излишняя угловатость корпуса протирает одежду, поэтому всегда находится кто-то, кто переставляет механизм в более простой и невзрачный корпус. a standard-issue pocket watch given to fatui operatives. the head of the watch is not well-designed, as the outer casing has way too many sharp angles, which can cause excessive wear and tear on clothes. as such, there will always be those who will stuff this watch into a more practical, less distinctive casing for use. 配发给愚人众役人的制式怀表。怀表把头的位置设计并不合理，外壳过多的棱角也容易将衣物磨破，所以总有人会将其中的机芯装配在更加朴实、缺乏特征性的壳套中使用。 украшение с глазом порчи, источник силы элементов у сенешалей фатуи. даже если снять это украшение, физические данные сенешаля всё равно будут значительно выше, чем у обычного человека, как результат многолетних тренировок и практического опыта. они понимают, что положили своё прошлое, настоящее и будущее на алтарь идеального царства фатуи, поэтому вред, который они наносят себе, используя силу глаза порчи, не имеет никакого значения. an accessory with a delusion mounted on it. this is source of the fatui operative's power. that said, taking it off would not detract from the fact that said operative has physical abilities far beyond that of ordinary humans, forged through long years of training and combat experience. as for them, they are well-aware that they have sacrificed their past, present, and future upon the altar of the fatui's ideal paradise, such that the damage they cause themselves on account of using a delusion's power matters not at all. 装载着「邪眼」的饰物，是愚人众役人元素力量的来源。但即使将之取下，役者仍然有着远超常人的身体素质，这些都来自漫长岁月的训练与实战经验；而她们往往清楚，自己的过去、现在与未来已经奉献给了愚人众的理想国，驱使邪眼的力量所带来的折损因此也不值一提。"
+    "search_text": "старые карманные часы сенешаля / штатные карманные часы сенешаля / постоянство сенешаля operatives 老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻 фонтейн 4.1 common_enemies enemy_drops old operative's pocket watch operative's standard pocket watch operative's constancy обычные противники wind_operative frost_operative оперативник ветра wind operative 愚人众·风役人 оперативник мороза frost operative 愚人众•霜役人 old_operatives_pocket_watch operatives_standard_pocket_watch operatives_constancy старые карманные часы сенешаля 老旧的役人怀表 штатные карманные часы сенешаля 役人的制式怀表 постоянство сенешаля 役人的时时刻刻 штатные карманные часы, которые выдаются сенешалям фатуи. эрозия и окисление на корпусе - верная память о днях, проведённых владельцем этих часов в роли исполнителя воли фатуи. a standard-issue pocket watch given to fatui operatives. the erosion and oxidation on the casing serve as a loyal record of its owners' days spent as an instrument, enforcing the fatui's will. 配发给愚人众役人的制式怀表。猎壳上徽记的磨损与氧化褪色忠实地记录着身为执行者，所度过的时日。 штатные карманные часы, которые выдаются сенешалям фатуи. заводная головка часов расположена неудачно, а излишняя угловатость корпуса протирает одежду, поэтому всегда находится кто-то, кто переставляет механизм в более простой и невзрачный корпус. a standard-issue pocket watch given to fatui operatives. the head of the watch is not well-designed, as the outer casing has way too many sharp angles, which can cause excessive wear and tear on clothes. as such, there will always be those who will stuff this watch into a more practical, less distinctive casing for use. 配发给愚人众役人的制式怀表。怀表把头的位置设计并不合理，外壳过多的棱角也容易将衣物磨破，所以总有人会将其中的机芯装配在更加朴实、缺乏特征性的壳套中使用。 украшение с глазом порчи, источник силы элементов у сенешалей фатуи. даже если снять это украшение, физические данные сенешаля всё равно будут значительно выше, чем у обычного человека, как результат многолетних тренировок и практического опыта. они понимают, что положили своё прошлое, настоящее и будущее на алтарь идеального царства фатуи, поэтому вред, который они наносят себе, используя силу глаза порчи, не имеет никакого значения. an accessory with a delusion mounted on it. this is source of the fatui operative's power. that said, taking it off would not detract from the fact that said operative has physical abilities far beyond that of ordinary humans, forged through long years of training and combat experience. as for them, they are well-aware that they have sacrificed their past, present, and future upon the altar of the fatui's ideal paradise, such that the damage they cause themselves on account of using a delusion's power matters not at all. 装载着「邪眼」的饰物，是愚人众役人元素力量的来源。但即使将之取下，役者仍然有着远超常人的身体素质，这些都来自漫长岁月的训练与实战经验；而她们往往清楚，自己的过去、现在与未来已经奉献给了愚人众的理想国，驱使邪眼的力量所带来的折损因此也不值一提。"
   },
   {
     "id": "wooden_shieldwall_mitachurl_horns",
