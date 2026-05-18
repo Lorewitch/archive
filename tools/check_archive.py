@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 ASSETS_DIR = ROOT / "assets"
 SRC_CSS_DIR = ROOT / "src" / "css"
-SECTIONS = ("books", "artifacts", "weapons", "items", "enemies")
+SECTIONS = ("books", "artifacts", "weapons", "items", "stories", "enemies")
 LANGS = {"ru", "en", "zh"}
 
 KNOWN_REGIONS = {
@@ -42,6 +42,7 @@ KNOWN_ENEMY_GROUPS = {
     "abyss", "mystical_beasts",
 }
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
+KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
 
 CSS_MODULES = [
     "00-tokens.css",
@@ -354,6 +355,16 @@ def check_items(items: dict[str, dict[str, Any]], enemies: dict[str, dict[str, A
                     check_asset(enemy.get("icon"), f"{owner}#enemy:{enemy_id}")
 
 
+def check_stories(stories: dict[str, dict[str, Any]]) -> None:
+    for item_id, story in stories.items():
+        owner = f"data/stories/{item_id}.json"
+        story_group = str(story.get("story_group") or story.get("category_type") or "").strip()
+        if story_group not in KNOWN_STORY_GROUPS:
+            fail(f"{owner}: неизвестная группа истории {story_group or '—'}")
+        if not localized_text_present(story):
+            fail(f"{owner}: история без текста")
+
+
 def check_enemies(enemies: dict[str, dict[str, Any]]) -> None:
     for item_id, enemy in enemies.items():
         owner = f"data/enemies/{item_id}.json"
@@ -531,6 +542,7 @@ def check_workflow_guards() -> None:
 
     text = workflow.read_text(encoding="utf-8")
     required_fragments = [
+        "content/stories/**",
         "assets/icons/**",
         "fetch-depth: 0",
         "git diff --name-only \"$before\"",
@@ -649,6 +661,12 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: мобильное меню должно фиксировать body, чтобы задний фон не прокручивался на iOS")
         if 'drawerBackdrop?.addEventListener("touchmove", event => event.preventDefault(), { passive: false })' not in text:
             fail("assets/js/archive.js: backdrop мобильного меню должен гасить touchmove, иначе фон может прокручиваться")
+        if 'let STORIES = []' not in text or 'id: "stories"' not in text or 'STORY_CHILD_GROUPS' not in text:
+            fail("assets/js/archive.js: раздел Истории и вложенные подкатегории должны быть подключены в клиенте")
+        if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
+            fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
+        if 'hasChildGroups(config, state.subsection)' not in text or 'parentGroupFor(config, state.subsection)' not in text:
+            fail("assets/js/archive.js: вложенные категории Историй должны открываться отдельным уровнем, а не плоским списком")
 
 
 def main() -> int:
@@ -666,6 +684,7 @@ def main() -> int:
         check_books(details.get("books", {}))
         check_artifacts(details.get("artifacts", {}))
         check_weapons(details.get("weapons", {}))
+        check_stories(details.get("stories", {}))
         check_enemies(details.get("enemies", {}))
         check_items(details.get("items", {}), details.get("enemies", {}))
         check_summary(indexes)

@@ -8,6 +8,7 @@ on:
       - 'content/artifacts/**'
       - 'content/weapons/**'
       - 'content/items/**'
+      - 'content/stories/**'
       - 'content/enemies/**'
       - 'src/css/**'
       - 'tools/build_archive.py'

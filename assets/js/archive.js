@@ -2,6 +2,7 @@ let BOOKS = [];
 let ARTIFACTS = [];
 let WEAPONS = [];
 let ITEMS = [];
+let STORIES = [];
 const DETAILS = new Map();
 const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
@@ -65,6 +66,7 @@ function assignSectionData(sectionId, data) {
   if (sectionId === "artifacts") ARTIFACTS = list;
   if (sectionId === "weapons") WEAPONS = list;
   if (sectionId === "items") ITEMS = list;
+  if (sectionId === "stories") STORIES = list;
 }
 
 async function loadSectionData(sectionId) {
@@ -152,6 +154,28 @@ const ITEM_GROUPS = [
   ["useful_items", "Полезные предметы", "Инструменты, гаджеты и особые вещицы: маленькие помощники путешествия, без которых дорога становится куда капризнее."],
   ["misc", "Прочее", "Редкие и странные находки без отдельной полки: всё, что не пожелало аккуратно вписаться в другие разделы."]
 ];
+
+const STORY_GROUPS = [
+  ["quest_stories", "Истории заданий", "Сюжетные записи и пересказы квестов: от главных арок до тихих историй мира."],
+  ["character_stories", "Истории персонажей", "Личные истории, профили и тексты персонажей: маленькие ключи к их прошлому и мотивам."],
+  ["world_stories", "Истории мира", "Мифы, хроники и разрозненные предания Тейвата, которые помогают собрать общую картину мира."]
+];
+
+const STORY_CHILD_GROUPS = {
+  quest_stories: [
+    ["archon_quests", "Задания Архонтов", "Главные сюжетные главы: путешествие, регионы, Архонты и большие повороты истории."],
+    ["legend_quests", "Задания Легенд", "Истории персонажей в формате личных квестов: их выборы, связи и тихие раскрытия."],
+    ["world_quests", "Задания мира", "Местные истории и побочные цепочки, где Тейват говорит через людей, руины и странные находки."]
+  ]
+};
+
+const STORY_GROUP_PARENT = Object.fromEntries(
+  Object.entries(STORY_CHILD_GROUPS).flatMap(([parent, children]) => children.map(([child]) => [child, parent]))
+);
+
+const STORY_GROUP_LABELS = Object.fromEntries(
+  [...STORY_GROUPS, ...Object.values(STORY_CHILD_GROUPS).flat()].map(([key, label]) => [key, label])
+);
 
 const ENEMY_DROP_GROUPS = ["weekly_bosses", "world_bosses", "common_enemies"];
 
@@ -506,6 +530,27 @@ const SECTIONS = [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
     ]
+  },
+  {
+    id: "stories",
+    icon: "assets/icons/06_history_logo.webp",
+    title: "Истории",
+    description: "Сюжетные истории, личные главы персонажей и хроники мира: отдельная полка для больших повествований Тейвата.",
+    data: () => STORIES,
+    groups: STORY_GROUPS,
+    childGroups: STORY_CHILD_GROUPS,
+    groupParents: STORY_GROUP_PARENT,
+    groupField: "story_group",
+    defaultGroup: "world_stories",
+    filter: "region",
+    filterLabel: "Все регионы",
+    columns: ["Название", "Категория", "Регион"],
+    empty: "В этой категории пока нет историй.",
+    row: item => [
+      renderTitleCell(item),
+      escapeHtml(storyGroupLabel(item.story_group || state.subsection)),
+      escapeHtml(item.region || "—")
+    ]
   }
 ];
 
@@ -537,7 +582,8 @@ const state = {
         food_potions: ["food", "ingredient", "potion"],
         useful_items: ["tool", "seelie", "equipment"]
       }
-    }
+    },
+    stories: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 }
   }
 };
 
@@ -1054,8 +1100,27 @@ function closeMenu() {
   window.scrollTo(0, menuScrollY || 0);
 }
 
+function childGroupsFor(config, groupKey) {
+  return config.childGroups?.[groupKey] || [];
+}
+
+function hasChildGroups(config, groupKey) {
+  return childGroupsFor(config, groupKey).length > 0;
+}
+
+function parentGroupFor(config, groupKey) {
+  return config.groupParents?.[groupKey] || "";
+}
+
+function groupsForSelector(config, parentKey = "") {
+  return parentKey ? childGroupsFor(config, parentKey) : (config.groups || []);
+}
+
 function groupKeys(config) {
-  return (config.groups || []).map(([key]) => key);
+  return [
+    ...(config.groups || []).map(([key]) => key),
+    ...Object.values(config.childGroups || {}).flat().map(([key]) => key),
+  ];
 }
 
 function isKnownGroup(config, value) {
@@ -1063,12 +1128,23 @@ function isKnownGroup(config, value) {
 }
 
 function groupValue(item, config) {
-  const value = item?.[config.groupField] || item?.book_type || item?.subtype || item?.item_group || item?.category_type || item?.type || config.defaultGroup;
+  const value = item?.[config.groupField] || item?.book_type || item?.subtype || item?.item_group || item?.story_group || item?.category_type || item?.type || config.defaultGroup;
   return value || config.defaultGroup;
 }
 
+function storyGroupLabel(key) {
+  return STORY_GROUP_LABELS[key] || key || "—";
+}
+
 function groupLabel(config, key) {
-  return (config.groups || []).find(([value]) => value === key)?.[1] || key;
+  return (config.groups || []).find(([value]) => value === key)?.[1]
+    || Object.values(config.childGroups || {}).flat().find(([value]) => value === key)?.[1]
+    || key;
+}
+
+function catalogBackTarget(config, groupKey = state.subsection) {
+  const parent = parentGroupFor(config, groupKey);
+  return parent ? { section: config.id, subsection: parent } : { section: config.id, subsection: null };
 }
 
 function catalogBackLabel(config, groupKey = state.subsection) {
@@ -1088,6 +1164,12 @@ function catalogBackLabel(config, groupKey = state.subsection) {
       misc: "прочего",
     };
     return `← Назад к списку ${labels[groupKey] || "предметов"}`;
+  }
+
+  if (config.id === "stories") {
+    const parent = parentGroupFor(config, groupKey);
+    if (parent) return `← Назад к разделу «${groupLabel(config, parent)}»`;
+    return `← Назад к списку ${String(groupLabel(config, groupKey) || "историй").toLocaleLowerCase("ru-RU")}`;
   }
 
   return `← Назад к списку ${String(config.title || "каталога").toLocaleLowerCase("ru-RU")}`;
@@ -1339,18 +1421,38 @@ function catalogRow(item, config) {
   `;
 }
 
-function renderGroupSelector(config) {
+function groupEntryCount(config, groupKey) {
+  const children = childGroupsFor(config, groupKey);
+  if (children.length) {
+    const childKeys = new Set(children.map(([key]) => key));
+    return config.data().filter(item => childKeys.has(groupValue(item, config))).length;
+  }
+  return config.data().filter(item => groupValue(item, config) === groupKey).length;
+}
+
+function groupDescription(config, groupKey) {
+  const group = (config.groups || []).find(([key]) => key === groupKey)
+    || Object.values(config.childGroups || {}).flat().find(([key]) => key === groupKey);
+  return group?.[2] || config.description || "";
+}
+
+function renderGroupSelector(config, parentKey = "") {
   activeDetail = null;
-  const groups = config.groups || [];
+  const groups = groupsForSelector(config, parentKey);
+  const title = parentKey ? groupLabel(config, parentKey) : config.title;
+  const description = parentKey ? groupDescription(config, parentKey) : config.description;
+  const backButton = parentKey ? `<button class="back-link" id="back-groups" type="button">← Назад к разделам</button>` : "";
+
   app.innerHTML = `
     <section class="page-card catalog-page">
+      ${backButton}
       <div class="page-head">
-        <h1>${escapeHtml(config.title)}</h1>
-        <p class="lead">${escapeHtml(config.description)}</p>
+        <h1>${escapeHtml(title)}</h1>
+        <p class="lead">${escapeHtml(description)}</p>
       </div>
       <div class="group-grid">
         ${groups.map(([key, label, description]) => {
-          const count = config.data().filter(item => groupValue(item, config) === key).length;
+          const count = groupEntryCount(config, key);
           return `
             <button class="group-card" type="button" data-group="${escapeHtml(key)}">
               <span class="group-card-title">${escapeHtml(label)}</span>
@@ -1461,8 +1563,8 @@ function renderCatalog(config) {
 
       ${config.groups && state.subsection ? `
         <div class="catalog-subhead">
-          <button class="back-link" id="back-groups" type="button">← Назад к разделам</button>
-          <div class="catalog-subtitle">${escapeHtml(config.title)} / ${escapeHtml(subsectionTitle)}</div>
+          <button class="back-link" id="back-groups" type="button">${escapeHtml(parentGroupFor(config, state.subsection) ? `← Назад к разделу «${groupLabel(config, parentGroupFor(config, state.subsection))}»` : "← Назад к разделам")}</button>
+          <div class="catalog-subtitle">${escapeHtml([config.title, parentGroupFor(config, state.subsection) ? groupLabel(config, parentGroupFor(config, state.subsection)) : "", subsectionTitle].filter(Boolean).join(" / "))}</div>
         </div>
       ` : ""}
 
@@ -2017,7 +2119,8 @@ function handleAppClick(event) {
   }
 
   if (event.target.closest("#back-groups")) {
-    setRoute(currentCatalogConfig().id);
+    const target = catalogBackTarget(currentCatalogConfig(), state.subsection);
+    setRoute(target.section, null, target.subsection);
     return;
   }
 
@@ -2270,8 +2373,8 @@ async function render() {
     if (sequence !== renderSequence) return;
   }
 
-  if (!state.entryId && config.groups && !state.subsection) {
-    renderGroupSelector(config);
+  if (!state.entryId && config.groups && (!state.subsection || hasChildGroups(config, state.subsection))) {
+    renderGroupSelector(config, state.subsection || "");
     markRouteRendered(routeKey, routeChanged);
     return;
   }

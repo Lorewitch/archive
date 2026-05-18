@@ -106,6 +106,7 @@ COMMON_ENEMY_TYPE_ALIASES = {
 
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
+STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
 
 
 def read_text(path: Path) -> str:
@@ -621,6 +622,11 @@ def normalized_generic_item_type(item_group: str, meta: dict[str, str]) -> str:
     return next(iter(definitions), "")
 
 
+def normalized_story_group(meta: dict[str, str]) -> str:
+    value = (meta.get("story_group") or meta.get("group") or meta.get("subtype") or meta.get("category_type") or "world_stories").strip()
+    return value if value in STORY_GROUPS else "world_stories"
+
+
 def generic_item_type_title_from_meta(item_group: str, meta: dict[str, str]) -> dict[str, str]:
     key = normalized_generic_item_type(item_group, meta)
     defaults = ITEM_TYPE_DEFINITIONS.get(item_group, {}).get(key, {"ru": "", "en": "", "zh": ""})
@@ -804,6 +810,9 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     if category == "weapons":
         entry["weapon_type"] = normalized_weapon_type(meta)
         entry["type"] = entry["weapon_type"]
+    if category == "stories":
+        entry["story_group"] = normalized_story_group(meta)
+        entry["category_type"] = entry["story_group"]
     if category == "items":
         entry["item_group"] = normalized_item_group(meta)
         entry["entry_type"] = entry_type
@@ -1064,6 +1073,31 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def index_story(item: dict[str, Any]) -> dict[str, Any]:
+    story_group = item.get("story_group", "world_stories")
+    return {
+        "id": item["id"],
+        "category": "stories",
+        "icon": item.get("icon", ""),
+        "title": item.get("title", {}),
+        "region": item.get("region", ""),
+        "game_version": item.get("game_version", ""),
+        "story_group": story_group,
+        "category_type": story_group,
+        "tags": item.get("tags", []),
+        "languages": item.get("languages", LANGS),
+        **index_runtime_fields(item, story_group),
+        "search_text": make_search_text(
+            item.get("title", {}),
+            item.get("region", ""),
+            item.get("game_version", ""),
+            story_group,
+            item.get("tags", []),
+            item.get("description", {}),
+        ),
+    }
+
+
 def build_collection(
     name: str,
     builder,
@@ -1176,6 +1210,7 @@ def build() -> None:
     books = build_collection("books", build_book, index_book)
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
+    stories = build_collection("stories", lambda path: build_generic(path, "stories"), index_story)
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
     enemy_source_dir.mkdir(parents=True, exist_ok=True)
     enemies = [build_enemy(md_file) for md_file in sorted(enemy_source_dir.rglob("*.md"))]
@@ -1191,6 +1226,7 @@ def build() -> None:
         "artifacts": len(artifacts),
         "weapons": len(weapons),
         "items": len(items),
+        "stories": len(stories),
         "enemies": len(enemies),
     }
     write_json(DATA_DIR / "archive_summary.json", summary)
