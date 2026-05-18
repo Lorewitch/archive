@@ -9,11 +9,10 @@
   position: sticky;
   top: 28px;
   align-self: start;
-  height: calc(100vh - 56px);
+  min-height: calc(100vh - 56px);
+  height: auto;
   padding: 20px;
-  overflow: auto;
-  scrollbar-width: thin;
-  scrollbar-color: var(--line-strong) transparent;
+  overflow: visible;
 }
 
 .brand {

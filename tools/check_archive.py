@@ -436,6 +436,20 @@ def check_generated_css() -> None:
         fail("assets/css/archive.css: найден !important")
 
 
+    navigation_css = SRC_CSS_DIR / "03-navigation.css"
+    if navigation_css.exists():
+        navigation_text = navigation_css.read_text(encoding="utf-8")
+        sidebar_block = re.search(r"\.sidebar \{(?P<body>.*?)\}", navigation_text, re.S)
+        if not sidebar_block:
+            fail("src/css/03-navigation.css: отсутствует основной блок .sidebar")
+        else:
+            body = sidebar_block.group("body")
+            if "overflow: auto" in body or "scrollbar-width" in body or "scrollbar-color" in body:
+                fail("src/css/03-navigation.css: десктопное меню не должно иметь внутренний скроллбар")
+            if "min-height: calc(100vh - 56px)" not in body or "height: auto" not in body or "overflow: visible" not in body:
+                fail("src/css/03-navigation.css: боковое меню должно быть цельной карточкой без внутренней прокрутки")
+
+
 def check_material_chip_wrapping() -> None:
     catalog_css = SRC_CSS_DIR / "04-catalog.css"
     responsive_css = SRC_CSS_DIR / "07-responsive.css"
