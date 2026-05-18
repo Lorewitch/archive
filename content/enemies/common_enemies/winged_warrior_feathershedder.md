@@ -1,6 +1,6 @@
 # id: winged_warrior_feathershedder
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Крылатый воин: Срезающий перья, Winged Warrior: Feathershedder, 结羽勇士 · 削羽人

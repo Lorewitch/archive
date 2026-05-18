@@ -1,6 +1,6 @@
 # id: treasure_hoarders_electro_potioneer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Похитители сокровищ: Электро химик, Treasure Hoarders: Electro Potioneer, 盗宝团·雷之药剂师

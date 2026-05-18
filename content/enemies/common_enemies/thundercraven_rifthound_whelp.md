@@ -1,6 +1,6 @@
 # id: thundercraven_rifthound_whelp
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Щенок Разрыва: Громоед, Thundercraven Rifthound Whelp, 嗜雷·兽境幼兽

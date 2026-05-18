@@ -1,6 +1,6 @@
 # id: eremite_scorching_loremaster
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Пустынник: Пылающий повествователь, Eremite Scorching Loremaster, 镀金旅团·炽沙叙事人

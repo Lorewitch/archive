@@ -1,6 +1,6 @@
 # id: pyro_abyss_mage
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Пиро маг Бездны, Pyro Abyss Mage, 火深渊法师

@@ -1,6 +1,6 @@
 # id: abyss_lector_fathomless_flames
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Чтец Бездны: Пламя бездны, Abyss Lector: Fathomless Flames, 深渊咏者·渊火

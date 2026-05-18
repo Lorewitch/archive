@@ -1,6 +1,6 @@
 # id: eremite_floral_ring_dancer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Пустынник: Танцовщица лиственного круга, Eremite Floral Ring-Dancer, 镀金旅团·叶轮舞者

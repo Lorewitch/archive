@@ -1,6 +1,6 @@
 # id: abyss_herald_wicked_torrents
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Вестник Бездны: Злые течения, Abyss Herald: Wicked Torrents, 深渊使徒·激流

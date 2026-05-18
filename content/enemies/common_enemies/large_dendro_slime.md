@@ -1,6 +1,6 @@
 # id: large_dendro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Большой Дендро слайм, Large Dendro Slime, 大型草史莱姆

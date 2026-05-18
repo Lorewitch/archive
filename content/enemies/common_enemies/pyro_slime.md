@@ -1,6 +1,6 @@
 # id: pyro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Пиро слайм, Pyro Slime, 火史莱姆

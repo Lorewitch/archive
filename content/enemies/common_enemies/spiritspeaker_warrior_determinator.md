@@ -1,6 +1,6 @@
 # id: spiritspeaker_warrior_determinator
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Говорящий с духами воин: Мастер настойчивости, Spiritspeaker Warrior: Determinator, 灵觉勇士 · 执意师

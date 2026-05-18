@@ -1,6 +1,6 @@
 # id: qucusaurus_warrior_heartstar_hammer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кукузавр-воин: Молот звёзд, Qucusaurus Warrior: Heartstar Hammer, 绒翼龙武士 · 膛星之锤

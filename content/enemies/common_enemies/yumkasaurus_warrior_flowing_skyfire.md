@@ -1,6 +1,6 @@
 # id: yumkasaurus_warrior_flowing_skyfire
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Юмказавр-воин: Текущий огонь, Yumkasaurus Warrior: Flowing Skyfire, 匿叶龙武士 · 流火鸣空

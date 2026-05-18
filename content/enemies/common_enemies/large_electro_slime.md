@@ -1,6 +1,6 @@
 # id: large_electro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Большой Электро слайм, Large Electro Slime, 大型雷史莱姆

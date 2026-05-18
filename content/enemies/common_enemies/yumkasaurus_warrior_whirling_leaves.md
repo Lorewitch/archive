@@ -1,6 +1,6 @@
 # id: yumkasaurus_warrior_whirling_leaves
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Юмказавр-воин: Кружащая листва, Yumkasaurus Warrior: Whirling Leaves, 匿叶龙武士 · 旋锯飞叶

@@ -1,6 +1,6 @@
 # id: cryo_specter
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Крио призрак, Cryo Specter, 冰飘浮灵

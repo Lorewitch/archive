@@ -1,6 +1,6 @@
 # id: large_pyro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Большой Пиро слайм, Large Pyro Slime, 大型火史莱姆

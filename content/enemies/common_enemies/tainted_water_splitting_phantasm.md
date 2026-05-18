@@ -1,6 +1,6 @@
 # id: tainted_water_splitting_phantasm
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Дробящий воду фантазм, Tainted Water-Splitting Phantasm, 浊水粉碎幻灵

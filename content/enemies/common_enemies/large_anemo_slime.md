@@ -1,6 +1,6 @@
 # id: large_anemo_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Большой Анемо слайм, Large Anemo Slime, 大型风史莱姆

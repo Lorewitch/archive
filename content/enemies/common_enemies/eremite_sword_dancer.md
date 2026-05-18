@@ -1,6 +1,6 @@
 # id: eremite_sword_dancer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Мечник Пустынников, Eremite Sword-Dancer, 镀金旅团·刀舞者

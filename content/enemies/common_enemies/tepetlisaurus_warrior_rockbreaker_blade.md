@@ -1,6 +1,6 @@
 # id: tepetlisaurus_warrior_rockbreaker_blade
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Тепетлизавр-воин: Камнедробитель, Tepetlisaurus Warrior: Rockbreaker Blade, 嵴锋龙武士 · 破岩锐刃

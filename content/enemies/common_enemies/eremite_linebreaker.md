@@ -1,6 +1,6 @@
 # id: eremite_linebreaker
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Штурмовик Пустынников, Eremite Linebreaker, 镀金旅团·破阵者

@@ -1,6 +1,6 @@
 # id: anemo_specter
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Анемо призрак, Anemo Specter, 风飘浮灵

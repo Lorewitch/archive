@@ -1,6 +1,6 @@
 # id: spiritspeaker_warrior_psychokinetic
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Говорящий с духами воин: Управляющий разумом, Spiritspeaker Warrior: Psychokinetic, 灵觉勇士 · 控念师

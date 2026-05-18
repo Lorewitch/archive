@@ -1,6 +1,6 @@
 # id: qucusaurus_warrior_blazing_sky
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кукузавр-воин: Пылающее небо, Qucusaurus Warrior: Blazing Sky, 绒翼龙武士 · 长空明焰

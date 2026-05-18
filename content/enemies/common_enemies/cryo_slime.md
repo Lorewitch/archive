@@ -1,6 +1,6 @@
 # id: cryo_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Крио слайм, Cryo Slime, 冰史莱姆

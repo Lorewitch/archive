@@ -1,6 +1,6 @@
 # id: treasure_hoarders_pyro_potioneer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Похитители сокровищ: Пиро химик, Treasure Hoarders: Pyro Potioneer, 盗宝团·火之药剂师

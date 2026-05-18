@@ -1,6 +1,6 @@
 # id: cryo_abyss_mage
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Крио маг Бездны, Cryo Abyss Mage, 冰深渊法师

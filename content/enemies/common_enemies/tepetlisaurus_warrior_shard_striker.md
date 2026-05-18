@@ -1,6 +1,6 @@
 # id: tepetlisaurus_warrior_shard_striker
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Тепетлизавр-воин: Крушитель осколков, Tepetlisaurus Warrior: Shard Striker, 嵴锋龙武士 · 碎晶打者

@@ -1,6 +1,6 @@
 # id: treasure_hoarders_hydro_potioneer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Похитители сокровищ: Гидро химик, Treasure Hoarders: Hydro Potioneer, 盗宝团·水之药剂师

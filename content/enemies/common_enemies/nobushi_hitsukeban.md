@@ -1,6 +1,6 @@
 # id: nobushi_hitsukeban
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Нобуси: Хицукэбан, Nobushi: Hitsukeban, 野伏·火付番

@@ -1,6 +1,6 @@
 # id: swiftstep_storm_scout
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Стремительный воин: Разведчик ветра, Swiftstep Storm Scout, 疾迅勇士 · 荡风斥候

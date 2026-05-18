@@ -1,6 +1,6 @@
 # id: treasure_hoarders_seaman
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Похитители сокровищ: Морячок, Treasure Hoarders - Seaman, 盗宝团·海上男儿

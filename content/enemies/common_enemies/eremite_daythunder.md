@@ -1,6 +1,6 @@
 # id: eremite_daythunder
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Пустынник: Полуденный гром, Eremite Daythunder, 镀金旅团·白日鸣雷

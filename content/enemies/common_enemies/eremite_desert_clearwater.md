@@ -1,6 +1,6 @@
 # id: eremite_desert_clearwater
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Пустынник: Родник в песках, Eremite Desert Clearwater, 镀金旅团・沙中净水

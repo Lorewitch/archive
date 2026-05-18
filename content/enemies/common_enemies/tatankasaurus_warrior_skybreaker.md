@@ -1,6 +1,6 @@
 # id: tatankasaurus_warrior_skybreaker
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Татанказавр-воин: Разрушитель небес, Tatankasaurus Warrior: Skybreaker, 突角龙武士·破空轰动

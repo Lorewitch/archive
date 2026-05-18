@@ -1,6 +1,6 @@
 # id: eremite_axe_vanguard
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Топорник Пустынников, Eremite Axe Vanguard, 镀金旅团·阵前斧手

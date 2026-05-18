@@ -1,6 +1,6 @@
 # id: flowing_blade_harpoon_thrower
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Клинок течений: Метатель гарпуна, Flowing Blade Harpoon-Thrower, 流刃勇士 · 掷叉猎手

@@ -1,6 +1,6 @@
 # id: swiftstep_armed_courier
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Стремительный воин: Вооружённый курьер, Swiftstep Armed Courier, 疾迅勇士 · 重刃讯使

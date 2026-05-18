@@ -1,6 +1,6 @@
 # id: spiritspeaker_warrior_contemplator
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Говорящий с духами воин: Размышляющий, Spiritspeaker Warrior: Contemplator, 灵觉勇士 · 冥思者

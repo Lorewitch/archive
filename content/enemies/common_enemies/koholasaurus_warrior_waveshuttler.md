@@ -1,6 +1,6 @@
 # id: koholasaurus_warrior_waveshuttler
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кохолазавр-воин: Пронзающая волны, Koholasaurus Warrior: Waveshuttler, 鳍游龙武士 · 穿浪之梭

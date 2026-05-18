@@ -1,6 +1,6 @@
 # id: large_cryo_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Большой Крио слайм, Large Cryo Slime, 大型冰史莱姆

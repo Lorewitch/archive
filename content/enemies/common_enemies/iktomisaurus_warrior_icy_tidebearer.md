@@ -1,6 +1,6 @@
 # id: iktomisaurus_warrior_icy_tidebearer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Иктомизавр-воин: Несущий ледяную волну, Iktomisaurus Warrior: Icy Tidebearer, 暝视龙武士 · 寒涌持者

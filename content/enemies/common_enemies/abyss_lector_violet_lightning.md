@@ -1,6 +1,6 @@
 # id: abyss_lector_violet_lightning
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Чтец Бездны: Пурпурная молния, Abyss Lector: Violet Lightning, 深渊咏者·紫电

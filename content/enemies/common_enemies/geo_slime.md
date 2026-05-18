@@ -1,6 +1,6 @@
 # id: geo_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Гео слайм, Geo Slime, 岩史莱姆

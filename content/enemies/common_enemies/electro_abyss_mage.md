@@ -1,6 +1,6 @@
 # id: electro_abyss_mage
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Электро маг Бездны, Electro Abyss Mage, 雷深渊法师

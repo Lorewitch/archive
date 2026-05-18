@@ -1,6 +1,6 @@
 # id: shadowy_husk_defender
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Чёрный доспех: Гвардеец, Shadowy Husk: Defender, 黯色空壳·近卫

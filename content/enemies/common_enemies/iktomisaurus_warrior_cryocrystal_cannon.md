@@ -1,6 +1,6 @@
 # id: iktomisaurus_warrior_cryocrystal_cannon
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Иктомизавр-воин: Криокристаллическая пушка, Iktomisaurus Warrior: Cryocrystal Cannon, 暝视龙武士 · 冰晶炮手

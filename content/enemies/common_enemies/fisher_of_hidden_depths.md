@@ -1,6 +1,6 @@
 # id: fisher_of_hidden_depths
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Рыболов скрытых глубин, Fisher of Hidden Depths, 深黯钓客

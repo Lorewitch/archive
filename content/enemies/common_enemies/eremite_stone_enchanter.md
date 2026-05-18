@@ -1,6 +1,6 @@
 # id: eremite_stone_enchanter
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Пустынник: Зачарователь камней, Eremite Stone Enchanter, 镀金旅团·魔岩役使

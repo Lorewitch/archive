@@ -1,6 +1,6 @@
 # id: treasure_hoarders_marksman
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Похитители сокровищ: Стрелок, Treasure Hoarders - Marksman, 盗宝团·神射手

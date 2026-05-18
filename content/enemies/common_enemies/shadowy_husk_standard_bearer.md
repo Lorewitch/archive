@@ -1,6 +1,6 @@
 # id: shadowy_husk_standard_bearer
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Чёрный доспех: Знаменосец, Shadowy Husk: Standard Bearer, 黯色空壳·旗令

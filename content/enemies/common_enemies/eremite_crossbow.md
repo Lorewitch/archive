@@ -1,6 +1,6 @@
 # id: eremite_crossbow
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Арбалетчик Пустынников, Eremite Crossbow, 镀金旅团·机弩兵

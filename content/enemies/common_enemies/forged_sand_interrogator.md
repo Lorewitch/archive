@@ -1,6 +1,6 @@
 # id: forged_sand_interrogator
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кованый песок: Допросчица, Forged Sand Interrogator, 铸砂勇士 · 叩问人

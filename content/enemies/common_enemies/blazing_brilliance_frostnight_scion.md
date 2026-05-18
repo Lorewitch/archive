@@ -1,6 +1,6 @@
 # id: blazing_brilliance_frostnight_scion
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Пылающее сияние: Потомок морозной ночи, Blazing Brilliance: Frostnight Scion, 灼烜·霜夜灵嗣

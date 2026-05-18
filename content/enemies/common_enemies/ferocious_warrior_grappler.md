@@ -1,6 +1,6 @@
 # id: ferocious_warrior_grappler
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Свирепый воин: Ловец, Ferocious Warrior: Grappler, 横蛮勇士·抓扑人

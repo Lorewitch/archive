@@ -1,6 +1,6 @@
 # id: geo_specter
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Гео призрак, Geo Specter, 岩飘浮灵

@@ -1,6 +1,6 @@
 # id: flowing_blade_skirmisher
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Клинок течений: Налётчица, Flowing Blade Skirmisher, 流刃勇士 · 游击人

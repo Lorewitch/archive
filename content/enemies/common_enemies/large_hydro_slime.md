@@ -1,6 +1,6 @@
 # id: large_hydro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Большой Гидро слайм, Large Hydro Slime, 大型水史莱姆

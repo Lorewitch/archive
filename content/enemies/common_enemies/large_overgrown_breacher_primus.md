@@ -1,6 +1,6 @@
 # id: large_overgrown_breacher_primus
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Большой прорастающий протоген расщелин, Large Overgrown Breacher Primus, 大型狂蔓隙境原体

@@ -1,6 +1,6 @@
 # id: black_serpent_knight_windcutter
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Рыцарь Чёрного Змея: Разрезающий ветер, Black Serpent Knight: Windcutter, 黑蛇骑士·斩风之剑

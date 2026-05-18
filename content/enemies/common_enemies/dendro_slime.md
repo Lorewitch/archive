@@ -1,6 +1,6 @@
 # id: dendro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Дендро слайм, Dendro Slime, 草史莱姆

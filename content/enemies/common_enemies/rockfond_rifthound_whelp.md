@@ -1,6 +1,6 @@
 # id: rockfond_rifthound_whelp
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Щенок Разрыва: Камнегрыз, Rockfond Rifthound Whelp, 嗜岩·兽境幼兽

@@ -1,6 +1,6 @@
 # id: eremite_sunfrost
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Пустынник: Пылающий лёд, Eremite Sunfrost, 镀金旅团・炽阳凝冰

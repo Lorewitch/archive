@@ -1,6 +1,6 @@
 # id: shadowy_husk_line_breaker
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Чёрный доспех: Штурмовик, Shadowy Husk: Line Breaker, 黯色空壳·破阵

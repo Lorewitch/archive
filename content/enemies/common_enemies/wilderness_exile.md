@@ -1,6 +1,6 @@
 # id: wilderness_exile
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Изгнанник пустошей, Wilderness Exile, 荒野幽徒

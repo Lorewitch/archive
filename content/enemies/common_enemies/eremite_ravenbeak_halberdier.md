@@ -1,6 +1,6 @@
 # id: eremite_ravenbeak_halberdier
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Алебардщик Пустынников, Eremite Ravenbeak Halberdier, 镀金旅团·鸦喙戟手

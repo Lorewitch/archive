@@ -1,6 +1,6 @@
 # id: icy_crystal_frostnight_scion
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Ледяной кристалл: Потомок морозной ночи, Icy Crystal: Frostnight Scion, 凌晶·霜夜灵嗣

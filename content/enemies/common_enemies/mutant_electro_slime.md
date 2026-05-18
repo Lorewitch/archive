@@ -1,6 +1,6 @@
 # id: mutant_electro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Электро слайм-мутант, Mutant Electro Slime, 变异雷史莱姆

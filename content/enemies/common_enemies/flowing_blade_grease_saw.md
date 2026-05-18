@@ -1,6 +1,6 @@
 # id: flowing_blade_grease_saw
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Клинок течений: Режущий, Flowing Blade Grease-Saw, 流刃勇士 · 锯脂者

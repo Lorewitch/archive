@@ -1,6 +1,6 @@
 # id: forged_sand_javelineer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кованый песок: Копьеносец, Forged Sand Javelineer, 铸砂勇士 · 投矛手

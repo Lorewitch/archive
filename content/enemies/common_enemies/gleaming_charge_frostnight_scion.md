@@ -1,6 +1,6 @@
 # id: gleaming_charge_frostnight_scion
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Сияющая молния: Потомок морозной ночи, Gleaming Charge: Frostnight Scion, 辉电·霜夜灵嗣

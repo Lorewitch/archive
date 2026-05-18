@@ -1,6 +1,6 @@
 # id: ferocious_warrior_wrestler
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Свирепый воин: Борец, Ferocious Warrior: Wrestler, 横蛮勇士·摔跤客

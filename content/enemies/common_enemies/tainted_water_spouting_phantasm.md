@@ -1,6 +1,6 @@
 # id: tainted_water_spouting_phantasm
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Извергающий воду фантазм, Tainted Water-Spouting Phantasm, 浊水喷吐幻灵

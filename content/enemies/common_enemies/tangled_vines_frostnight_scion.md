@@ -1,6 +1,6 @@
 # id: tangled_vines_frostnight_scion
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Переплетённая лоза: Потомок морозной ночи, Tangled Vines: Frostnight Scion, 蔓结·霜夜灵嗣

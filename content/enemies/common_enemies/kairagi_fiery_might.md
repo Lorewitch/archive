@@ -1,6 +1,6 @@
 # id: kairagi_fiery_might
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кайраги: Огненная мощь, Kairagi: Fiery Might, 海乱鬼·炎威

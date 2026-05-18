@@ -1,6 +1,6 @@
 # id: swiftstep_seeker
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Стремительный воин: Ищущая, Swiftstep Seeker, 疾迅勇士 · 引索客

@@ -1,6 +1,6 @@
 # id: anemo_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Анемо слайм, Anemo Slime, 风史莱姆

@@ -1,6 +1,6 @@
 # id: koholasaurus_warrior_reefsplitter
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кохолазавр-воин: Дробящая рифы, Koholasaurus Warrior: Reefsplitter, 鳍游龙武士 · 裂礁之涛

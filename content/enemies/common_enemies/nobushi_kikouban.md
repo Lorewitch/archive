@@ -1,6 +1,6 @@
 # id: nobushi_kikouban
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Нобуси: Кикобан, Nobushi: Kikouban, 野伏·机巧番

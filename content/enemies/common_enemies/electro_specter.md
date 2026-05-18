@@ -1,6 +1,6 @@
 # id: electro_specter
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Электро призрак, Electro Specter, 雷飘浮灵

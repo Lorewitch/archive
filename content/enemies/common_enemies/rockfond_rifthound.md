@@ -1,6 +1,6 @@
 # id: rockfond_rifthound
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Гончая Разрыва: Камнегрыз, Rockfond Rifthound, 嗜岩·兽境猎犬

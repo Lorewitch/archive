@@ -1,6 +1,6 @@
 # id: electro_slime
 # category: enemies
-# enemy_group: elemental_lifeforms
+# enemy_group: elementals
 # enemy_type: common_enemy
 
 # tags: Электро слайм, Electro Slime, 雷史莱姆

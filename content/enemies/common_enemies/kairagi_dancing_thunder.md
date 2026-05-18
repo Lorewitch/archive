@@ -1,6 +1,6 @@
 # id: kairagi_dancing_thunder
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кайраги: Громовое вознесение, Kairagi: Dancing Thunder, 海乱鬼·雷腾

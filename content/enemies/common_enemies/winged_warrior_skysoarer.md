@@ -1,6 +1,6 @@
 # id: winged_warrior_skysoarer
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Крылатый воин: Взмывающий ввысь, Winged Warrior: Skysoarer, 结羽勇士 · 腾空士

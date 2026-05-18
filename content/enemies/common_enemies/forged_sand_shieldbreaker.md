@@ -1,6 +1,6 @@
 # id: forged_sand_shieldbreaker
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Кованый песок: Крушитель щитов, Forged Sand Shieldbreaker, 铸砂勇士 · 碎盾者

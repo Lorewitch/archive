@@ -1,6 +1,6 @@
 # id: treasure_hoarders_crusher
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Похитители сокровищ: Сокрушитель, Treasure Hoarders - Crusher, 盗宝团·粉碎者

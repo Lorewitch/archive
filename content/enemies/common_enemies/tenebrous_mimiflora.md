@@ -1,6 +1,6 @@
 # id: tenebrous_mimiflora
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Сумрачная мимифлора, Tenebrous Mimiflora, 深邃拟覆叶

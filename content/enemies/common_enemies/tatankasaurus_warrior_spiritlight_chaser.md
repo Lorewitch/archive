@@ -1,6 +1,6 @@
 # id: tatankasaurus_warrior_spiritlight_chaser
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Татанказавр-воин: Ловчая света, Tatankasaurus Warrior: Spiritlight Chaser, 突角龙武士·追缉灵光

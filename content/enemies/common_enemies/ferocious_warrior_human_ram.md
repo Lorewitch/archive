@@ -1,6 +1,6 @@
 # id: ferocious_warrior_human_ram
 # category: enemies
-# enemy_group: other_human_factions
+# enemy_group: human_factions
 # enemy_type: common_enemy
 
 # tags: Свирепый воин: Таран, Ferocious Warrior: Human Ram, 横蛮勇士·冲撞手

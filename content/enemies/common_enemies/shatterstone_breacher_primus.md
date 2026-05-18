@@ -1,6 +1,6 @@
 # id: shatterstone_breacher_primus
 # category: enemies
-# enemy_group: the_abyss
+# enemy_group: abyss
 # enemy_type: common_enemy
 
 # tags: Камнедробящий протоген расщелин, Shatterstone Breacher Primus, 碎石隙境原体
