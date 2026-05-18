@@ -469,18 +469,22 @@ def check_common_enemy_layout_guards() -> None:
         entries_text = entries_css.read_text(encoding="utf-8")
         required = [
             ".dropped-by-grid {",
-            "display: grid",
+            "column-count: 3",
+            "break-inside: avoid",
             ".dropped-by-grid.is-single",
+            "column-count: 1",
             ".dropped-by-grid.is-pair",
+            "display: grid",
+            ".dropped-by-grid.is-pair .dropped-by-card",
         ]
         for fragment in required:
             if fragment not in entries_text:
-                fail(f"src/css/06-entries.css: отсутствует защита раскладки блока Выпадает с: {fragment}")
-        if "column-count" in entries_text:
-            fail("src/css/06-entries.css: блок Выпадает с не должен оставаться на column-count после перехода на управляемую сетку")
+                fail(f"src/css/06-entries.css: отсутствует каскадная раскладка блока Выпадает с: {fragment}")
 
     if responsive_css.exists():
         responsive_text = responsive_css.read_text(encoding="utf-8")
+        if ".dropped-by-grid" not in responsive_text or "column-count: 2" not in responsive_text:
+            fail("src/css/07-responsive.css: каскадная раскладка блока Выпадает с должна сжиматься до двух колонок на средних экранах")
         if ".dropped-by-grid.is-pair" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильная раскладка блока Выпадает с должна складывать карточки в одну колонку")
 

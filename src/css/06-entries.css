@@ -248,25 +248,36 @@
 }
 
 .dropped-by-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 12px;
+  column-count: 3;
+  column-gap: 12px;
 }
 
 .dropped-by-grid.is-single {
-  grid-template-columns: minmax(0, 1fr);
+  column-count: 1;
 }
 
 .dropped-by-grid.is-pair {
+  display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
 }
 
 .dropped-by-card {
+  display: inline-block;
+  width: 100%;
   min-width: 0;
+  margin: 0 0 12px;
   border: 1px solid rgba(91, 74, 62, 0.14);
   border-radius: 14px;
   background: rgba(203, 191, 175, 0.2);
   overflow: hidden;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.dropped-by-grid.is-pair .dropped-by-card {
+  display: block;
+  margin: 0;
 }
 
 .dropped-by-card-inner {

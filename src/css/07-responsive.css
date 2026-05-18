@@ -1080,16 +1080,20 @@
 
 @media (max-width: 1160px) {
   .dropped-by-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-count: 2;
   }
 
   .dropped-by-grid.is-single {
-    grid-template-columns: minmax(0, 1fr);
+    column-count: 1;
   }
 }
 
 @media (max-width: 620px) {
   .dropped-by-grid,
+  .dropped-by-grid.is-single {
+    column-count: 1;
+  }
+
   .dropped-by-grid.is-pair {
     grid-template-columns: minmax(0, 1fr);
   }
