@@ -256,10 +256,18 @@
   column-count: 1;
 }
 
-.dropped-by-grid.is-pair {
+.dropped-by-grid.is-pair,
+.dropped-by-grid.is-trio {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
+}
+
+.dropped-by-grid.is-pair {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.dropped-by-grid.is-trio {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .dropped-by-card {
@@ -275,7 +283,8 @@
   page-break-inside: avoid;
 }
 
-.dropped-by-grid.is-pair .dropped-by-card {
+.dropped-by-grid.is-pair .dropped-by-card,
+.dropped-by-grid.is-trio .dropped-by-card {
   display: block;
   margin: 0;
 }
@@ -357,6 +366,16 @@
   font-size: 12px;
   font-weight: 760;
   line-height: 1.2;
+  text-decoration: none;
+  transition: background 0.16s ease, border-color 0.16s ease, color 0.16s ease;
+}
+
+a.enemy-loot-chip:hover,
+a.enemy-loot-chip:focus-visible {
+  background: rgba(203, 191, 175, 0.48);
+  border-color: rgba(91, 74, 62, 0.24);
+  color: var(--ink);
+  outline: none;
 }
 
 .enemy-loot-chip.current {

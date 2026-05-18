@@ -192,9 +192,11 @@ const ITEM_GROUP_TYPE_FILTERS = {
     ["local_specialty", "Диковинки"],
     ["plant", "Растения"],
     ["animal", "Животные"],
+    ["teapot", "Чайник"],
   ],
   food_potions: [
     ["food", "Еда"],
+    ["ingredient", "Ингредиенты"],
     ["potion", "Зелья"],
   ],
   useful_items: [
@@ -214,9 +216,11 @@ const ITEM_GROUP_TYPE_LABELS = {
     local_specialty: { ru: "Диковинка", en: "Local Specialty", zh: "区域特产" },
     plant: { ru: "Растение", en: "Plant", zh: "植物" },
     animal: { ru: "Животное", en: "Animal", zh: "动物" },
+    teapot: { ru: "Чайник", en: "Serenitea Pot", zh: "尘歌壶" },
   },
   food_potions: {
     food: { ru: "Еда", en: "Food", zh: "食物" },
+    ingredient: { ru: "Ингредиент", en: "Ingredient", zh: "食材" },
     potion: { ru: "Зелье", en: "Potion", zh: "药剂" },
   },
   useful_items: {
@@ -291,7 +295,7 @@ function activeTypeFilters(config = getSectionConfig()) {
     saved = filterState.typeFilters || [];
   }
 
-  if (!Array.isArray(saved) || !saved.length) return defaults;
+  if (!Array.isArray(saved)) return defaults;
   return saved.filter(value => defaults.includes(value));
 }
 
@@ -300,8 +304,13 @@ function renderTypeFilters(config) {
   if (!options.length) return "";
 
   const activeTypes = new Set(activeTypeFilters(config));
+  const allSelected = options.every(([value]) => activeTypes.has(value));
   return `
     <div class="type-filter-row" aria-label="Дополнительный фильтр">
+      <label class="type-filter-chip type-filter-toggle">
+        <input type="checkbox" data-type-filter-toggle="all" ${allSelected ? "checked" : ""}>
+        <span>Все</span>
+      </label>
       ${options.map(([value, label]) => `
         <label class="type-filter-chip">
           <input type="checkbox" value="${escapeHtml(value)}" ${activeTypes.has(value) ? "checked" : ""}>
@@ -521,8 +530,8 @@ const state = {
       typeFiltersByGroup: {
         common_enemies: ["hilichurls", "elementals", "fatui", "automatons", "human_factions", "abyss", "mystical_beasts"],
         development_materials: ["talents", "character_ascension", "weapon_ascension"],
-        teyvat_resources: ["ore", "local_specialty", "plant", "animal"],
-        food_potions: ["food", "potion"],
+        teyvat_resources: ["ore", "local_specialty", "plant", "animal", "teapot"],
+        food_potions: ["food", "ingredient", "potion"],
         useful_items: ["tool", "seelie", "equipment"]
       }
     }
@@ -910,7 +919,12 @@ function renderLootChip(drop, currentItemId = "") {
   const icon = drop.icon ? `<img src="${escapeHtml(versionedAssetPath(drop.icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
   const currentClass = drop.id === currentItemId ? " current" : "";
   const title = titleOf(drop, state.lang);
-  return `<span class="enemy-loot-chip${currentClass}">${icon}<span>${escapeHtml(title)}</span></span>`;
+  const label = `${icon}<span>${escapeHtml(title)}</span>`;
+  if (!drop.id || drop.id === currentItemId) {
+    return `<span class="enemy-loot-chip${currentClass}">${label}</span>`;
+  }
+  const group = drop.item_group || state.subsection || "common_enemies";
+  return `<a class="enemy-loot-chip${currentClass}" href="${escapeHtml(routeHash("items", drop.id, group))}" aria-label="Открыть ${escapeHtml(title)}">${label}</a>`;
 }
 
 function renderEnemyDropDetail(enemy, currentItemId = "") {
@@ -954,7 +968,9 @@ function renderDroppedBySection(item) {
 
   const gridClass = enemies.length === 1
     ? "dropped-by-grid is-single"
-    : enemies.length === 2 ? "dropped-by-grid is-pair" : "dropped-by-grid";
+    : enemies.length === 2 ? "dropped-by-grid is-pair"
+    : enemies.length === 3 ? "dropped-by-grid is-trio"
+    : "dropped-by-grid";
 
   return `
     <div class="dropped-by-section">
@@ -2088,13 +2104,27 @@ function handleAppChange(event) {
   }
 
   if (event.target.matches(".type-filter-chip input")) {
-    const checked = Array.from(app.querySelectorAll(".type-filter-chip input:checked")).map(item => item.value);
+    const options = typeFiltersForCurrentCatalog(config);
+    const defaultValues = options.map(([value]) => value);
+    const itemInputs = Array.from(app.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])'));
+    const toggle = app.querySelector('[data-type-filter-toggle="all"]');
+
+    if (event.target.matches('[data-type-filter-toggle="all"]')) {
+      itemInputs.forEach(input => { input.checked = event.target.checked; });
+    }
+
+    const checked = itemInputs.filter(input => input.checked).map(input => input.value).filter(value => defaultValues.includes(value));
+    if (toggle) {
+      toggle.checked = checked.length === defaultValues.length;
+      toggle.indeterminate = checked.length > 0 && checked.length < defaultValues.length;
+    }
+
     filterState.page = 1;
     if (config.id === "items") {
       if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
-      filterState.typeFiltersByGroup[state.subsection] = checked.length ? checked : [];
+      filterState.typeFiltersByGroup[state.subsection] = checked;
     } else {
-      filterState.typeFilters = checked.length ? checked : [];
+      filterState.typeFilters = checked;
     }
     updateCatalogTable(config);
   }

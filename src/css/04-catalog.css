@@ -138,8 +138,9 @@
 }
 
 .catalog-row.cols-items-enemy {
-  --catalog-columns: minmax(260px, 1.35fr) minmax(300px, 1.25fr)
-    minmax(150px, 0.75fr);
+  --catalog-columns: minmax(320px, 1.52fr) minmax(300px, 1.12fr)
+    minmax(150px, 0.66fr);
+  gap: 22px;
 }
 
 .catalog-row.cols-items-common-enemy {
@@ -643,4 +644,9 @@
   width: 14px;
   height: 14px;
   accent-color: var(--accent);
+}
+
+.type-filter-toggle {
+  border-color: rgba(91, 74, 62, 0.24);
+  background: rgba(203, 191, 175, 0.36);
 }

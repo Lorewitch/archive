@@ -1094,7 +1094,8 @@
     column-count: 1;
   }
 
-  .dropped-by-grid.is-pair {
+  .dropped-by-grid.is-pair,
+  .dropped-by-grid.is-trio {
     grid-template-columns: minmax(0, 1fr);
   }
 

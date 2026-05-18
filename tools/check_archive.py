@@ -29,8 +29,8 @@ KNOWN_DEVELOPMENT_MATERIAL_TYPES = {
     "talents", "character_ascension", "weapon_ascension",
 }
 KNOWN_ITEM_TYPES = {
-    "teyvat_resources": {"ore", "local_specialty", "plant", "animal"},
-    "food_potions": {"food", "potion"},
+    "teyvat_resources": {"ore", "local_specialty", "plant", "animal", "teapot"},
+    "food_potions": {"food", "ingredient", "potion"},
     "useful_items": {"tool", "seelie", "equipment"},
     "misc": {"misc"},
 }
@@ -465,6 +465,16 @@ def check_common_enemy_layout_guards() -> None:
             if "minmax(420px" not in body or "gap: 24px" not in body:
                 fail("src/css/04-catalog.css: колонки типа противника и выпадения должны быть отодвинуты от материалов без костылей")
 
+        enemy_block = re.search(r"\.catalog-row\.cols-items-enemy \{(?P<body>.*?)\}", catalog_text, re.S)
+        if not enemy_block:
+            fail("src/css/04-catalog.css: отсутствует раскладка каталога материалов боссов")
+        else:
+            body = enemy_block.group("body")
+            if "minmax(320px" not in body or "gap: 22px" not in body:
+                fail("src/css/04-catalog.css: колонка материалов в каталоге боссов должна быть сдвинута правее общей сеткой")
+        if "type-filter-toggle" not in catalog_text:
+            fail("src/css/04-catalog.css: общая галочка фильтров должна иметь отдельный стиль")
+
     if entries_css.exists():
         entries_text = entries_css.read_text(encoding="utf-8")
         required = [
@@ -474,8 +484,12 @@ def check_common_enemy_layout_guards() -> None:
             ".dropped-by-grid.is-single",
             "column-count: 1",
             ".dropped-by-grid.is-pair",
+            ".dropped-by-grid.is-trio",
+            "grid-template-columns: repeat(3, minmax(0, 1fr))",
             "display: grid",
             ".dropped-by-grid.is-pair .dropped-by-card",
+            ".dropped-by-grid.is-trio .dropped-by-card",
+            "a.enemy-loot-chip:hover",
         ]
         for fragment in required:
             if fragment not in entries_text:
@@ -485,7 +499,7 @@ def check_common_enemy_layout_guards() -> None:
         responsive_text = responsive_css.read_text(encoding="utf-8")
         if ".dropped-by-grid" not in responsive_text or "column-count: 2" not in responsive_text:
             fail("src/css/07-responsive.css: каскадная раскладка блока Выпадает с должна сжиматься до двух колонок на средних экранах")
-        if ".dropped-by-grid.is-pair" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
+        if ".dropped-by-grid.is-pair" not in responsive_text or ".dropped-by-grid.is-trio" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильная раскладка блока Выпадает с должна складывать карточки в одну колонку")
 
 
@@ -585,8 +599,14 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: группы обычных противников должны быть доступны как фильтры-галочки")
         if "Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type))" not in text:
             fail("assets/js/archive.js: фильтры-галочки обычных противников должны работать по пересечению групп")
-        if "dropped-by-grid is-single" not in text or "dropped-by-grid is-pair" not in text:
-            fail("assets/js/archive.js: блоки противников должны получать классы для одиночной и парной раскладки")
+        if "dropped-by-grid is-single" not in text or "dropped-by-grid is-pair" not in text or "dropped-by-grid is-trio" not in text:
+            fail("assets/js/archive.js: блоки противников должны получать классы для одиночной, парной и тройной раскладки")
+        if 'data-type-filter-toggle="all"' not in text or "toggle.indeterminate" not in text:
+            fail("assets/js/archive.js: фильтры-галочки должны иметь общую галочку для быстрого выбора и снятия")
+        if '["teapot", "Чайник"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
+            fail("assets/js/archive.js: в фильтрах предметов должны быть Чайник и Ингредиенты")
+        if '<a class="enemy-loot-chip' not in text or 'routeHash("items", drop.id, group)' not in text:
+            fail("assets/js/archive.js: дополнительные ресурсы в карточках противников должны быть кликабельными")
         if '<span class="toolbar-label">Язык</span>\n        <span class="toolbar-label">Язык</span>' in text:
             fail("assets/js/archive.js: не должно быть дублирующихся подписей Язык в переключателях")
         if "function rememberCatalogScrollPosition()" not in text:
