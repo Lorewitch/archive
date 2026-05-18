@@ -14,6 +14,7 @@ let renderedRouteKey = "";
 let activeDetail = null;
 let backgroundPrefetchStarted = false;
 let lastPrefetchedEntryKey = "";
+let menuScrollY = 0;
 
 function currentAssetVersion() {
   const script = document.currentScript || document.querySelector('script[src*="archive.js"]');
@@ -1025,8 +1026,30 @@ function renderDroppedBySection(item) {
 
 
 
+function openMenu() {
+  if (document.body.classList.contains("menu-open")) return;
+  menuScrollY = window.scrollY || document.documentElement.scrollTop || 0;
+  document.documentElement.classList.add("menu-open");
+  document.body.classList.add("menu-open");
+  document.body.style.position = "fixed";
+  document.body.style.top = `-${menuScrollY}px`;
+  document.body.style.left = "0";
+  document.body.style.right = "0";
+  document.body.style.width = "100%";
+  document.body.style.overflow = "hidden";
+}
+
 function closeMenu() {
+  if (!document.body.classList.contains("menu-open")) return;
+  document.documentElement.classList.remove("menu-open");
   document.body.classList.remove("menu-open");
+  document.body.style.position = "";
+  document.body.style.top = "";
+  document.body.style.left = "";
+  document.body.style.right = "";
+  document.body.style.width = "";
+  document.body.style.overflow = "";
+  window.scrollTo(0, menuScrollY || 0);
 }
 
 function groupKeys(config) {
@@ -1118,24 +1141,33 @@ function isCatalogRoute() {
   return !state.entryId;
 }
 
+function resetHorizontalScroll() {
+  const currentY = window.scrollY || document.documentElement.scrollTop || 0;
+  if (!window.scrollX && !document.documentElement.scrollLeft && !document.body.scrollLeft) return;
+  document.documentElement.scrollLeft = 0;
+  document.body.scrollLeft = 0;
+  window.scrollTo(0, currentY);
+}
+
 function rememberCatalogScrollPosition() {
   if (!renderedRouteKey || !isCatalogRoute()) return;
   catalogScrollPositions.set(currentCatalogScrollKey(), {
-    x: window.scrollX || 0,
     y: window.scrollY || 0,
   });
 }
 
 function targetScrollPositionForRoute() {
-  if (state.entryId) return { x: 0, y: 0 };
-  return catalogScrollPositions.get(currentCatalogScrollKey()) || { x: 0, y: 0 };
+  if (state.entryId) return { y: 0 };
+  return catalogScrollPositions.get(currentCatalogScrollKey()) || { y: 0 };
 }
 
 function scheduleRouteScroll(routeChanged) {
   if (!routeChanged) return;
   const target = targetScrollPositionForRoute();
   requestAnimationFrame(() => {
-    window.scrollTo(target.x, target.y);
+    window.scrollTo(0, target.y);
+    document.documentElement.scrollLeft = 0;
+    document.body.scrollLeft = 0;
     updateToTopButton();
   });
 }
@@ -1453,7 +1485,9 @@ function renderCatalog(config) {
 
 function updateCatalogTable(config = getSectionConfig()) {
   const holder = document.getElementById("catalog-holder");
-  if (holder) holder.innerHTML = renderCatalogTable(config);
+  if (!holder) return;
+  holder.innerHTML = renderCatalogTable(config);
+  requestAnimationFrame(resetHorizontalScroll);
 }
 
 function toggleSort(config) {
@@ -1930,10 +1964,9 @@ function renderGenericDetail(item, config) {
 }
 
 function preserveScrollRender(renderFn) {
-  const x = window.scrollX;
   const y = window.scrollY;
   renderFn();
-  requestAnimationFrame(() => window.scrollTo(x, y));
+  requestAnimationFrame(() => window.scrollTo(0, y));
 }
 
 function currentCatalogConfig() {
@@ -2308,8 +2341,10 @@ app.addEventListener("input", handleAppInput);
 app.addEventListener("change", handleAppChange);
 app.addEventListener("mouseover", handleAppPrefetch);
 app.addEventListener("focusin", handleAppPrefetch);
-document.getElementById("open-menu")?.addEventListener("click", () => document.body.classList.add("menu-open"));
-document.getElementById("drawer-backdrop")?.addEventListener("click", closeMenu);
+document.getElementById("open-menu")?.addEventListener("click", openMenu);
+const drawerBackdrop = document.getElementById("drawer-backdrop");
+drawerBackdrop?.addEventListener("click", closeMenu);
+drawerBackdrop?.addEventListener("touchmove", event => event.preventDefault(), { passive: false });
 window.addEventListener("hashchange", render);
 window.addEventListener("keydown", event => {
   if (event.key === "Escape") closeMenu();

@@ -160,6 +160,16 @@
     opacity: 1;
     pointer-events: auto;
   }
+
+  html.menu-open,
+  body.menu-open {
+    overflow: hidden;
+    overscroll-behavior: none;
+  }
+
+  .drawer-backdrop {
+    touch-action: none;
+  }
 }
 
 @media (max-width: 980px) {
@@ -181,9 +191,47 @@
     font-size: clamp(14px, 2.6vw, 17px);
   }
 
+  html,
+  body,
+  .app,
+  .content,
+  .page-card,
+  .catalog-page {
+    max-width: 100%;
+    overflow-x: clip;
+  }
+
   .toolbar {
     grid-template-columns: minmax(0, 1fr);
     gap: 10px;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .toolbar > *,
+  .search,
+  .select,
+  .type-filter-row,
+  .catalog-subhead {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .search input,
+  .select {
+    max-width: 100%;
+    font-size: 16px;
+  }
+
+  .search input:focus,
+  .select:focus {
+    box-shadow: inset 0 0 0 2px rgba(91, 74, 62, 0.18);
+  }
+
+  .type-filter-chip span {
+    min-width: 0;
+    overflow-wrap: anywhere;
   }
 
   .catalog-table {
@@ -465,7 +513,7 @@
   .search input,
   .select {
     min-height: 42px;
-    font-size: 14px;
+    font-size: 16px;
   }
 
   .catalog-row.item {

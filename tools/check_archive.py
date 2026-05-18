@@ -500,6 +500,14 @@ def check_common_enemy_layout_guards() -> None:
 
     if responsive_css.exists():
         responsive_text = responsive_css.read_text(encoding="utf-8")
+        if "html.menu-open," not in responsive_text or "overscroll-behavior: none" not in responsive_text or "touch-action: none" not in responsive_text:
+            fail("src/css/07-responsive.css: мобильное меню должно блокировать прокрутку фона, а не только затемнять его")
+        if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text:
+            fail("src/css/07-responsive.css: мобильная страница каталога должна защищаться от горизонтального скролла")
+        if ".search input:focus" not in responsive_text or "inset 0 0 0 2px" not in responsive_text:
+            fail("src/css/07-responsive.css: focus-обводка поиска на мобильном не должна раздувать ширину страницы")
+        if "font-size: 16px;" not in responsive_text:
+            fail("src/css/07-responsive.css: мобильные поля ввода должны быть 16px, чтобы iOS не зумил страницу и не создавал горизонтальный скролл")
         if ".dropped-by-grid.is-cascade" not in responsive_text or "repeat(2, minmax(0, 1fr))" not in responsive_text:
             fail("src/css/07-responsive.css: каскадная раскладка блока Выпадает с должна сжиматься до двух колонок на средних экранах")
         if ".dropped-by-grid.is-pair" not in responsive_text or ".dropped-by-grid.is-trio" not in responsive_text or ".dropped-by-grid.is-cascade" not in responsive_text or "grid-template-columns: minmax(0, 1fr)" not in responsive_text:
@@ -627,6 +635,14 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: после рендера маршрута должна применяться позиция скролла")
         if "state.section = normalizedSection" in text:
             fail("assets/js/archive.js: setRoute не должен менять state до hashchange, иначе ломается сохранение скролла")
+        if "function resetHorizontalScroll()" not in text or "window.scrollTo(0, currentY)" not in text:
+            fail("assets/js/archive.js: случайный горизонтальный скролл каталога должен сбрасываться без потери вертикальной позиции")
+        if "window.scrollTo(0, target.y)" not in text or "catalogScrollPositions.set(currentCatalogScrollKey()" not in text or "x: window.scrollX" in text:
+            fail("assets/js/archive.js: сохранение позиции каталога не должно сохранять горизонтальный scrollX")
+        if "function openMenu()" not in text or 'document.body.style.position = "fixed"' not in text or 'document.documentElement.classList.add("menu-open")' not in text:
+            fail("assets/js/archive.js: мобильное меню должно фиксировать body, чтобы задний фон не прокручивался на iOS")
+        if 'drawerBackdrop?.addEventListener("touchmove", event => event.preventDefault(), { passive: false })' not in text:
+            fail("assets/js/archive.js: backdrop мобильного меню должен гасить touchmove, иначе фон может прокручиваться")
 
 
 def main() -> int:
