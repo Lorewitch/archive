@@ -3524,6 +3524,51 @@ html.is-mobile-landscape .drawer-backdrop {
   margin: 0;
 }
 
+
+@supports (padding: env(safe-area-inset-left)) {
+  @media (max-width: 1180px) and (orientation: landscape) {
+    body::before {
+      content: "";
+      position: fixed;
+      z-index: -1;
+      top: 0;
+      bottom: 0;
+      left: calc(-1 * env(safe-area-inset-left));
+      right: calc(-1 * env(safe-area-inset-right));
+      display: block;
+      background: var(--surface);
+      pointer-events: none;
+    }
+
+    .drawer-backdrop {
+      left: calc(-1 * env(safe-area-inset-left));
+      right: calc(-1 * env(safe-area-inset-right));
+      width: auto;
+      max-width: none;
+    }
+  }
+
+  html.is-mobile-landscape body::before {
+    content: "";
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: calc(-1 * env(safe-area-inset-left));
+    right: calc(-1 * env(safe-area-inset-right));
+    display: block;
+    background: var(--surface);
+    pointer-events: none;
+  }
+
+  html.is-mobile-landscape .drawer-backdrop {
+    left: calc(-1 * env(safe-area-inset-left));
+    right: calc(-1 * env(safe-area-inset-right));
+    width: auto;
+    max-width: none;
+  }
+}
+
 @media (max-width: 430px) {
   .weapon-description-panel:not(.no-icon) {
     display: block;
