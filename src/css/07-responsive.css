@@ -160,7 +160,7 @@
     z-index: 100;
     top: 66px;
     bottom: auto;
-    left: max(12px, env(safe-area-inset-left));
+    left: 12px;
     width: min(380px, calc(100vw - 72px));
     height: auto;
     min-height: 0;
@@ -490,6 +490,7 @@
 }
 
 @media (max-width: 560px) {
+  html,
   body {
     background: var(--surface);
   }
@@ -1373,6 +1374,7 @@
   }
 }
 
+
 @supports (padding: max(0px)) {
   @media (max-width: 1180px) {
     .mobile-top {
@@ -1394,6 +1396,31 @@
       top: calc(66px + env(safe-area-inset-top));
       max-height: calc(100dvh - 78px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
     }
+  }
+}
+
+@media (max-width: 1180px) and (orientation: landscape) {
+  html,
+  body {
+    background: var(--surface);
+  }
+
+  .app {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .content {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .page-card,
+  .text-card {
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
   }
 }
 

@@ -3,6 +3,18 @@
 
 :root {
   --bg: #e8ded4;
+  --page-bg-paint:
+    radial-gradient(
+      circle at 8% 0%,
+      rgba(203, 191, 175, 0.5),
+      transparent 31rem
+    ),
+    radial-gradient(
+      circle at 94% 4%,
+      rgba(91, 74, 62, 0.08),
+      transparent 27rem
+    ),
+    linear-gradient(135deg, #f6f2eb 0%, #e8ded4 52%, #cbbfaf 100%);
   --surface: #f6f2eb;
   --surface-soft: #efe8de;
   --surface-muted: #e1d6c8;

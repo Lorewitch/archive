@@ -681,6 +681,8 @@ def check_common_enemy_layout_guards() -> None:
         mobile_sidebar = re.search(r"@media \(max-width: 1180px\).*?\.sidebar \{(?P<body>.*?)\}", responsive_text, re.S)
         if not mobile_sidebar or "calc(100vw - 72px)" not in mobile_sidebar.group("body") or "overflow-y: auto" not in mobile_sidebar.group("body"):
             fail("src/css/07-responsive.css: мобильное меню должно оставлять широкую область для закрытия и прокручиваться внутри карточки")
+        if not mobile_sidebar or "left: 12px" not in mobile_sidebar.group("body") or "safe-area-inset-left" in mobile_sidebar.group("body"):
+            fail("src/css/07-responsive.css: мобильное меню не должно использовать боковую safe-area как отступ — она оставляет белое поле в landscape")
         if not mobile_sidebar or "bottom: auto" not in mobile_sidebar.group("body") or "min-height: 0" not in mobile_sidebar.group("body") or "max-height: calc(100vh - 78px)" not in mobile_sidebar.group("body"):
             fail("src/css/07-responsive.css: мобильное меню должно подстраиваться под высоту содержимого, а не растягивать бежевую карточку до низа экрана")
         if re.search(r"(?<!max-)height: calc\(100dvh - 16px\)", responsive_text) or "bottom: max(12px, env(safe-area-inset-bottom))" in responsive_text:
@@ -691,10 +693,16 @@ def check_common_enemy_layout_guards() -> None:
             fail("src/css/07-responsive.css: landscape-меню не должно снова занимать почти всю ширину экрана")
         if "@supports (width: 100dvw)" not in responsive_text or "calc(100dvw - 72px)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильное меню должно использовать dvw-поправку для поворота экрана")
-        if "padding-left: max(10px, env(safe-area-inset-left))" in responsive_text or "padding-right: max(10px, env(safe-area-inset-right))" in responsive_text or "padding-left: max(12px, env(safe-area-inset-left))" in responsive_text:
+        if "safe-area-inset-left" in responsive_text or "safe-area-inset-right" in responsive_text:
             fail("src/css/07-responsive.css: боковые safe-area не должны добавлять белые поля и горизонтальный сдвиг при landscape-повороте")
+        if "@media (max-width: 1180px) and (orientation: landscape)" not in responsive_text or "padding-left: 0;" not in responsive_text or "padding-right: 0;" not in responsive_text or "border-radius: 0;" not in responsive_text:
+            fail("src/css/07-responsive.css: в landscape мобильная оболочка должна быть full-bleed, без белых боковых gutters")
         if "viewport-fit=cover" not in (ROOT / "index.html").read_text(encoding="utf-8"):
             fail("index.html: нужен viewport-fit=cover для окрашивания боковых safe-area на iOS")
+        base_text = (SRC_CSS_DIR / "01-base.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "01-base.css").exists() else ""
+        tokens_text = (SRC_CSS_DIR / "00-tokens.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "00-tokens.css").exists() else ""
+        if "--page-bg-paint" not in tokens_text or "background: var(--page-bg-paint)" not in base_text or "min-height: 100dvh" not in base_text:
+            fail("src/css/01-base.css: фон страницы должен прокрашивать весь viewport/safe-area, включая landscape на iOS")
         if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text or "@supports (overflow: clip)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильная страница каталога должна защищаться от горизонтального скролла")
         if ".search input:focus" not in responsive_text or "inset 0 0 0 2px" not in responsive_text:

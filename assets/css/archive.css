@@ -8,6 +8,18 @@
 
 :root {
   --bg: #e8ded4;
+  --page-bg-paint:
+    radial-gradient(
+      circle at 8% 0%,
+      rgba(203, 191, 175, 0.5),
+      transparent 31rem
+    ),
+    radial-gradient(
+      circle at 94% 4%,
+      rgba(91, 74, 62, 0.08),
+      transparent 27rem
+    ),
+    linear-gradient(135deg, #f6f2eb 0%, #e8ded4 52%, #cbbfaf 100%);
   --surface: #f6f2eb;
   --surface-soft: #efe8de;
   --surface-muted: #e1d6c8;
@@ -49,7 +61,7 @@ body {
 }
 
 html {
-  background: #e8ded4;
+  background: var(--bg);
   overscroll-behavior-x: none;
 }
 
@@ -60,21 +72,19 @@ html {
   }
 }
 
+@supports (height: 100dvh) {
+  html,
+  body {
+    min-height: 100dvh;
+  }
+}
+
 body {
   margin: 0;
+  min-height: 100vh;
+  min-height: 100dvh;
   color: var(--ink);
-  background:
-    radial-gradient(
-      circle at 8% 0%,
-      rgba(203, 191, 175, 0.5),
-      transparent 31rem
-    ),
-    radial-gradient(
-      circle at 94% 4%,
-      rgba(91, 74, 62, 0.08),
-      transparent 27rem
-    ),
-    linear-gradient(135deg, #f6f2eb 0%, #e8ded4 52%, #cbbfaf 100%);
+  background: var(--page-bg-paint);
   font-family:
     Inter,
     ui-sans-serif,
@@ -2204,7 +2214,7 @@ a.enemy-loot-chip:focus-visible {
     z-index: 100;
     top: 66px;
     bottom: auto;
-    left: max(12px, env(safe-area-inset-left));
+    left: 12px;
     width: min(380px, calc(100vw - 72px));
     height: auto;
     min-height: 0;
@@ -2534,6 +2544,7 @@ a.enemy-loot-chip:focus-visible {
 }
 
 @media (max-width: 560px) {
+  html,
   body {
     background: var(--surface);
   }
@@ -3417,6 +3428,7 @@ a.enemy-loot-chip:focus-visible {
   }
 }
 
+
 @supports (padding: max(0px)) {
   @media (max-width: 1180px) {
     .mobile-top {
@@ -3438,6 +3450,31 @@ a.enemy-loot-chip:focus-visible {
       top: calc(66px + env(safe-area-inset-top));
       max-height: calc(100dvh - 78px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
     }
+  }
+}
+
+@media (max-width: 1180px) and (orientation: landscape) {
+  html,
+  body {
+    background: var(--surface);
+  }
+
+  .app {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .content {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .page-card,
+  .text-card {
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
   }
 }
 
