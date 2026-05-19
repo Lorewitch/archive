@@ -960,13 +960,21 @@ function iconFor(item) {
   return item?.icon || item?.image || item?.icon_path || "";
 }
 
+function weaponRarityBackgroundClass(item) {
+  const rarity = String(item?.rarity || "").trim();
+  return item?.category === "weapons" && ["5", "4", "3", "2", "1"].includes(rarity)
+    ? `weapon-rarity-bg-${rarity}`
+    : "";
+}
+
 function renderTitleCell(item) {
   const en = titleOf(item, "en");
   const zh = titleOf(item, "zh");
   const subtitles = [en, zh].filter(Boolean).join(" · ");
   const icon = iconFor(item);
+  const iconClass = ["entry-icon", weaponRarityBackgroundClass(item)].filter(Boolean).join(" ");
   const iconMarkup = icon
-    ? `<img class="entry-icon" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="42" height="42">`
+    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
   const materialsPreview = isEnemyDropEntry(item) ? `<div class="entry-material-preview">${renderMaterialsCell(item)}</div>` : "";
   return `
@@ -2143,8 +2151,9 @@ function renderGenericDetail(item, config) {
   const isWeapon = config.id === "weapons";
   const isSimpleItem = config.id === "items";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
+  const weaponIconClass = ["weapon-description-icon", weaponRarityBackgroundClass(item)].filter(Boolean).join(" ");
   const weaponIcon = isWeapon && item.icon
-    ? `<img class="weapon-description-icon" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
+    ? `<img class="${escapeHtml(weaponIconClass)}" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
   const itemFloatIcon = isSimpleItem && item.icon
     ? `<img class="item-description-float-icon" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="104" height="104">`

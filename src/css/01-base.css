@@ -69,3 +69,23 @@ video,
 canvas {
   max-width: 100%;
 }
+
+.weapon-rarity-bg-5 {
+  --icon-bg: var(--weapon-rarity-5-bg);
+}
+
+.weapon-rarity-bg-4 {
+  --icon-bg: var(--weapon-rarity-4-bg);
+}
+
+.weapon-rarity-bg-3 {
+  --icon-bg: var(--weapon-rarity-3-bg);
+}
+
+.weapon-rarity-bg-2 {
+  --icon-bg: var(--weapon-rarity-2-bg);
+}
+
+.weapon-rarity-bg-1 {
+  --icon-bg: var(--weapon-rarity-1-bg);
+}

@@ -440,9 +440,13 @@ def check_generated_css() -> None:
         if "!important" in text:
             fail(f"{rel(path)}: найден !important")
 
-    if "!important" in css.read_text(encoding="utf-8"):
+    css_text = css.read_text(encoding="utf-8")
+    if "!important" in css_text:
         fail("assets/css/archive.css: найден !important")
 
+    for rarity in ["5", "4", "3", "2", "1"]:
+        if f"weapon-rarity-bg-{rarity}" not in css_text or f"--weapon-rarity-{rarity}-bg" not in css_text:
+            fail(f"assets/css/archive.css: отсутствует цветная подложка оружия редкости {rarity}★")
 
     navigation_css = SRC_CSS_DIR / "03-navigation.css"
     if navigation_css.exists():
@@ -580,6 +584,9 @@ def check_workflow_guards() -> None:
 
 
 def check_content_structure() -> None:
+    if (ASSETS_DIR / "icons" / "hystory").exists():
+        fail("assets/icons/hystory: опечатка в названии папки; используйте assets/icons/history/character")
+
     content_items = ROOT / "content" / "items"
     teapot_dir = content_items / "serenitea_pot"
     teyvat_dir = content_items / "teyvat_resources"
@@ -670,6 +677,10 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: локальные ассеты должны получать cache-busting версию")
         if "versionedAssetPath(item.icon)" not in text or "versionedAssetPath(material.icon)" not in text:
             fail("assets/js/archive.js: иконки записей и материалов должны версионироваться")
+        if "function weaponRarityBackgroundClass" not in text or "weapon-rarity-bg-${rarity}" not in text:
+            fail("assets/js/archive.js: оружейные иконки должны получать класс подложки по редкости")
+        if "weaponIconClass" not in text or "weapon-description-icon" not in text:
+            fail("assets/js/archive.js: подложка редкости должна работать и в карточке оружия")
         if "const expandedEnemyDescriptionKeys = new Set()" not in text:
             fail("assets/js/archive.js: раскрытый спойлер описания босса должен переживать смену языка")
         if "function rememberEnemyDescriptionState" not in text or "data-description-key" not in text:

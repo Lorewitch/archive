@@ -614,7 +614,7 @@
   flex: 0 0 42px;
   object-fit: contain;
   border-radius: 8px;
-  background: rgba(203, 191, 175, 0.24);
+  background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
 .entry-icon.placeholder {

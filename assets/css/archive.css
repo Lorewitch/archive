@@ -25,6 +25,11 @@
   --radius-page: 18px;
   --radius-card: 14px;
   --radius-control: 9px;
+  --weapon-rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
+  --weapon-rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
+  --weapon-rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
+  --weapon-rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
+  --weapon-rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
 }
 
 /* Base reset and global typography
@@ -97,6 +102,26 @@ svg,
 video,
 canvas {
   max-width: 100%;
+}
+
+.weapon-rarity-bg-5 {
+  --icon-bg: var(--weapon-rarity-5-bg);
+}
+
+.weapon-rarity-bg-4 {
+  --icon-bg: var(--weapon-rarity-4-bg);
+}
+
+.weapon-rarity-bg-3 {
+  --icon-bg: var(--weapon-rarity-3-bg);
+}
+
+.weapon-rarity-bg-2 {
+  --icon-bg: var(--weapon-rarity-2-bg);
+}
+
+.weapon-rarity-bg-1 {
+  --icon-bg: var(--weapon-rarity-1-bg);
 }
 
 /* Page layout and shared surfaces
@@ -983,7 +1008,7 @@ h3,
   flex: 0 0 42px;
   object-fit: contain;
   border-radius: 8px;
-  background: rgba(203, 191, 175, 0.24);
+  background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
 .entry-icon.placeholder {
@@ -1465,7 +1490,7 @@ h3,
   height: 88px;
   object-fit: contain;
   border-radius: 12px;
-  background: rgba(246, 242, 235, 0.52);
+  background: var(--icon-bg, rgba(246, 242, 235, 0.52));
   flex: 0 0 auto;
 }
 

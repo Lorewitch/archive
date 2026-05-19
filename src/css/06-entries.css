@@ -52,7 +52,7 @@
   height: 88px;
   object-fit: contain;
   border-radius: 12px;
-  background: rgba(246, 242, 235, 0.52);
+  background: var(--icon-bg, rgba(246, 242, 235, 0.52));
   flex: 0 0 auto;
 }
 
