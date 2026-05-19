@@ -1149,10 +1149,10 @@ h3,
 
 .book-page h1 {
   max-width: 1120px;
-  font-size: clamp(34px, 3.35vw, 58px);
+  font-size: clamp(34px, 2.9vw, 54px);
   overflow-wrap: normal;
   word-break: normal;
-  hyphens: manual;
+  hyphens: none;
   text-wrap: balance;
 }
 
@@ -1165,39 +1165,31 @@ h3,
 
 .detail-hero {
   display: flex;
-  align-items: center;
-  gap: 22px;
+  align-items: flex-start;
+  gap: 24px;
   min-width: 0;
-}
-
-.detail-title-icon {
-  display: block;
-  width: 96px;
-  height: 96px;
-  flex: 0 0 96px;
-  object-fit: contain;
-  border-radius: 16px;
-  background: var(--icon-bg, rgba(203, 191, 175, 0.24));
-}
-
-.story-detail-icon {
-  width: 128px;
-  height: 128px;
-  flex-basis: 128px;
-  border-radius: 20px;
+}  .detail-title-icon {
+    width: min(54vw, 176px);
+    height: min(54vw, 176px);
+    flex: 0 0 auto;
+    margin-top: 0;
+    border-radius: 22px;
+}  .story-detail-icon {
+    width: min(58vw, 192px);
+    height: min(58vw, 192px);
+    flex-basis: auto;
+    border-radius: 24px;
 }
 
 .detail-hero-text {
   min-width: 0;
-}
-
-.detail-hero-text h1 {
-  max-width: 100%;
-  font-size: clamp(34px, 3.35vw, 58px);
-  overflow-wrap: normal;
-  word-break: normal;
-  hyphens: manual;
-  text-wrap: balance;
+}  .detail-hero-text h1 {
+    font-size: clamp(30px, 8.8vw, 42px);
+    line-height: 1.04;
+    overflow-wrap: normal;
+    word-break: normal;
+    hyphens: none;
+    text-wrap: balance;
 }
 
 .story-toolbar {
@@ -2654,11 +2646,11 @@ a.enemy-loot-chip:focus-visible {
 
   .book-page h1 {
     max-width: 100%;
-    font-size: clamp(32px, 10vw, 44px);
-    line-height: 1;
+    font-size: clamp(31px, 9.2vw, 42px);
+    line-height: 1.04;
     overflow-wrap: normal;
     word-break: normal;
-    hyphens: manual;
+    hyphens: none;
     text-wrap: balance;
   }
 
@@ -2730,12 +2722,11 @@ a.enemy-loot-chip:focus-visible {
     flex-wrap: wrap;
     overflow: visible;
     padding: 0;
-  }
-
-  .book-toolbar .volume-scroll button,
+  }  .book-toolbar .volume-scroll button,
   .artifact-toolbar .volume-scroll button,
   .story-toolbar .volume-scroll button {
     flex: 0 1 auto;
+    width: auto;
     min-width: 0;
     max-width: 100%;
     white-space: normal;
@@ -2743,7 +2734,7 @@ a.enemy-loot-chip:focus-visible {
     text-overflow: clip;
     overflow-wrap: normal;
     word-break: normal;
-    hyphens: manual;
+    hyphens: none;
     text-wrap: pretty;
   }
 
@@ -3538,7 +3529,7 @@ a.enemy-loot-chip:focus-visible {
     line-height: 1.02;
     overflow-wrap: normal;
     word-break: normal;
-    hyphens: manual;
+    hyphens: none;
     text-wrap: balance;
   }
 

@@ -636,11 +636,11 @@
 
   .book-page h1 {
     max-width: 100%;
-    font-size: clamp(32px, 10vw, 44px);
-    line-height: 1;
+    font-size: clamp(31px, 9.2vw, 42px);
+    line-height: 1.04;
     overflow-wrap: normal;
     word-break: normal;
-    hyphens: manual;
+    hyphens: none;
     text-wrap: balance;
   }
 
@@ -712,12 +712,11 @@
     flex-wrap: wrap;
     overflow: visible;
     padding: 0;
-  }
-
-  .book-toolbar .volume-scroll button,
+  }  .book-toolbar .volume-scroll button,
   .artifact-toolbar .volume-scroll button,
   .story-toolbar .volume-scroll button {
     flex: 0 1 auto;
+    width: auto;
     min-width: 0;
     max-width: 100%;
     white-space: normal;
@@ -725,7 +724,7 @@
     text-overflow: clip;
     overflow-wrap: normal;
     word-break: normal;
-    hyphens: manual;
+    hyphens: none;
     text-wrap: pretty;
   }
 
@@ -1494,33 +1493,28 @@
     align-items: center;
     gap: 12px;
     text-align: center;
-  }
-
-  .detail-title-icon {
-    width: 92px;
-    height: 92px;
-    flex: 0 0 92px;
-    border-radius: 17px;
-  }
-
-  .story-detail-icon {
-    width: 104px;
-    height: 104px;
-    flex-basis: 104px;
-    border-radius: 20px;
+  }  .detail-title-icon {
+    width: min(54vw, 176px);
+    height: min(54vw, 176px);
+    flex: 0 0 auto;
+    margin-top: 0;
+    border-radius: 22px;
+  }  .story-detail-icon {
+    width: min(58vw, 192px);
+    height: min(58vw, 192px);
+    flex-basis: auto;
+    border-radius: 24px;
   }
 
   .detail-hero-text {
     width: 100%;
     text-align: center;
-  }
-
-  .detail-hero-text h1 {
-    font-size: clamp(30px, 9.2vw, 42px);
-    line-height: 1.02;
+  }  .detail-hero-text h1 {
+    font-size: clamp(30px, 8.8vw, 42px);
+    line-height: 1.04;
     overflow-wrap: normal;
     word-break: normal;
-    hyphens: manual;
+    hyphens: none;
     text-wrap: balance;
   }
 
