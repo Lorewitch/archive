@@ -806,6 +806,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: backdrop мобильного меню должен гасить touchmove, иначе фон может прокручиваться")
         if 'let STORIES = []' not in text or 'id: "stories"' not in text or 'STORY_CHILD_GROUPS' not in text:
             fail("assets/js/archive.js: раздел Истории и вложенные подкатегории должны быть подключены в клиенте")
+        if 'BACKGROUND_PREFETCH_SECTIONS = new Set(["artifacts", "weapons"])' not in text:
+            fail("assets/js/archive.js: тяжёлые индексы items/stories не должны загружаться фоновым prefetch на первом экране")
         if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
         if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:

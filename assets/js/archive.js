@@ -17,6 +17,11 @@ let backgroundPrefetchStarted = false;
 let lastPrefetchedEntryKey = "";
 let menuScrollY = 0;
 
+// Keep idle prefetch limited to small catalog indexes.
+// Heavy sections stay lazy-loaded so the first visit does not quietly pull
+// several megabytes of JSON after rendering the start page.
+const BACKGROUND_PREFETCH_SECTIONS = new Set(["artifacts", "weapons"]);
+
 function currentAssetVersion() {
   const script = document.currentScript || document.querySelector('script[src*="archive.js"]');
   if (!script?.src) return "";
@@ -2669,7 +2674,7 @@ function scheduleBackgroundSectionPrefetch() {
   requestIdleTask(() => {
     SECTIONS
       .map(section => section.id)
-      .filter(sectionId => sectionId !== state.section)
+      .filter(sectionId => sectionId !== state.section && BACKGROUND_PREFETCH_SECTIONS.has(sectionId))
       .forEach((sectionId, index) => {
         window.setTimeout(() => loadSectionData(sectionId).catch(() => {}), index * 90);
       });
