@@ -1122,7 +1122,8 @@ function renderStoryElementPill(element) {
 function renderStoryElementCell(item) {
   const elements = storyElementValues(item);
   if (!elements.length) return "—";
-  return `<div class="story-element-list">${elements.map(renderStoryElementPill).join("")}</div>`;
+  const className = ["story-element-list", elements.length > 3 ? "is-many" : ""].filter(Boolean).join(" ");
+  return `<div class="${escapeHtml(className)}">${elements.map(renderStoryElementPill).join("")}</div>`;
 }
 
 
@@ -2311,7 +2312,7 @@ function renderStoryDetail(story, config) {
         <div class="reader-toolbar story-toolbar" aria-label="Управление чтением истории">
           <div class="volume-strip" aria-label="Оглавление истории">
             <button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? "Читать по разделам" : "Читать всё подряд"}</button>
-            <div class="parts-row">
+            <div class="parts-row story-parts-row">
               <span class="toolbar-label">Разделы</span>
               <div class="volume-scroll">
                 ${parts.map(part => `<button type="button" data-story-part="${escapeHtml(part.number)}" class="${!state.storyReadAll && Number(state.storyPart) === Number(part.number) ? "active" : ""}">${escapeHtml(storyPartTitle(part))}</button>`).join("")}

@@ -458,6 +458,13 @@ def check_generated_css() -> None:
         if f"rarity-bg-{rarity}" not in css_text or f"--rarity-{rarity}-bg" not in css_text:
             fail(f"assets/css/archive.css: отсутствует цветная подложка иконок редкости {rarity}★")
 
+    if "story-detail-icon" not in css_text or "width: 112px" not in css_text:
+        fail("assets/css/archive.css: иконка персонажа внутри истории должна быть увеличена отдельным story-detail-icon")
+    if "story-toolbar .volume-strip" not in css_text or "story-toolbar .volume-scroll button" not in css_text:
+        fail("assets/css/archive.css: панель разделов истории должна иметь отдельную безопасную раскладку без вылезания кнопок")
+    if "minmax(280px" not in css_text or "cols-stories-character" not in css_text:
+        fail("assets/css/archive.css: колонка элементов историй персонажей должна быть расширена")
+
     navigation_css = SRC_CSS_DIR / "03-navigation.css"
     if navigation_css.exists():
         navigation_text = navigation_css.read_text(encoding="utf-8")
@@ -699,6 +706,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: иконки записей и материалов должны версионироваться")
         if "function entryRarityBackgroundClass" not in text or "rarity-bg-${rarity}" not in text:
             fail("assets/js/archive.js: иконки записей с редкостью должны получать класс подложки по редкости")
+        if 'elements.length > 3 ? "is-many"' not in text:
+            fail("assets/js/archive.js: множественные элементы персонажа должны получать отдельный класс для аккуратной раскладки")
         if "weaponRarityBackgroundClass" in text or "weapon-rarity-bg" in text:
             fail("assets/js/archive.js: остался старый оружейный код подложек редкости")
         if "weaponIconClass" not in text or "weapon-description-icon" not in text:

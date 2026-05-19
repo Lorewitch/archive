@@ -186,8 +186,8 @@
 }
 
 .catalog-row.cols-stories-character {
-  --catalog-columns: minmax(300px, 1.5fr) minmax(130px, 0.52fr)
-    minmax(110px, 0.42fr) minmax(170px, 0.62fr);
+  --catalog-columns: minmax(310px, 1.05fr) minmax(280px, 0.95fr)
+    minmax(110px, 0.34fr) minmax(170px, 0.58fr);
 }
 
 .catalog-row.cols-stories-character.item > div {
@@ -345,6 +345,15 @@
   gap: 7px;
   align-items: center;
   min-width: 0;
+}
+
+.story-element-list.is-many {
+  gap: 7px 8px;
+  max-width: 100%;
+}
+
+.catalog-row.cols-stories-character .story-element-list.is-many .element-pill {
+  flex: 0 1 auto;
 }
 
 
@@ -628,10 +637,10 @@
 }
 
 .story-character-entry-icon {
-  width: 52px;
-  height: 52px;
-  flex-basis: 52px;
-  border-radius: 12px;
+  width: 64px;
+  height: 64px;
+  flex-basis: 64px;
+  border-radius: 14px;
 }
 
 .entry-icon.placeholder {

@@ -696,6 +696,18 @@
     padding: 8px 12px;
   }
 
+  .story-toolbar .volume-scroll {
+    flex-wrap: wrap;
+    overflow: visible;
+    padding: 0;
+  }
+
+  .story-toolbar .volume-scroll button {
+    min-width: 0;
+    max-width: 100%;
+    white-space: normal;
+  }
+
   .text-card {
     padding: 16px;
   }
@@ -1467,10 +1479,17 @@
     border-radius: 14px;
   }
 
+  .story-detail-icon {
+    width: 86px;
+    height: 86px;
+    flex-basis: 86px;
+    border-radius: 18px;
+  }
+
   .story-character-entry-icon {
-    width: 48px;
-    height: 48px;
-    flex-basis: 48px;
+    width: 56px;
+    height: 56px;
+    flex-basis: 56px;
   }
 
   .type-filter-stack {

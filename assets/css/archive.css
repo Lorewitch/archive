@@ -580,8 +580,8 @@ h3,
 }
 
 .catalog-row.cols-stories-character {
-  --catalog-columns: minmax(300px, 1.5fr) minmax(130px, 0.52fr)
-    minmax(110px, 0.42fr) minmax(170px, 0.62fr);
+  --catalog-columns: minmax(310px, 1.05fr) minmax(280px, 0.95fr)
+    minmax(110px, 0.34fr) minmax(170px, 0.58fr);
 }
 
 .catalog-row.cols-stories-character.item > div {
@@ -739,6 +739,15 @@ h3,
   gap: 7px;
   align-items: center;
   min-width: 0;
+}
+
+.story-element-list.is-many {
+  gap: 7px 8px;
+  max-width: 100%;
+}
+
+.catalog-row.cols-stories-character .story-element-list.is-many .element-pill {
+  flex: 0 1 auto;
 }
 
 
@@ -1022,10 +1031,10 @@ h3,
 }
 
 .story-character-entry-icon {
-  width: 52px;
-  height: 52px;
-  flex-basis: 52px;
-  border-radius: 12px;
+  width: 64px;
+  height: 64px;
+  flex-basis: 64px;
+  border-radius: 14px;
 }
 
 .entry-icon.placeholder {
@@ -1168,12 +1177,76 @@ h3,
   background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
+.story-detail-icon {
+  width: 112px;
+  height: 112px;
+  flex-basis: 112px;
+  border-radius: 20px;
+}
+
 .detail-hero-text {
   min-width: 0;
 }
 
 .story-toolbar {
   margin-top: 8px;
+}
+
+.story-toolbar .volume-strip {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: stretch;
+  gap: 12px;
+  min-width: 0;
+}
+
+.story-toolbar .mode-button {
+  width: 100%;
+  min-height: 46px;
+  justify-content: center;
+}
+
+.story-toolbar .parts-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  width: 100%;
+  min-width: 0;
+}
+
+.story-toolbar .toolbar-label {
+  display: inline-flex;
+  align-items: center;
+  align-self: center;
+  flex: 0 0 auto;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.story-toolbar .volume-scroll {
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+  align-items: center;
+  width: auto;
+  max-width: 100%;
+  overflow: visible;
+  padding: 0;
+  scrollbar-width: none;
+}
+
+.story-toolbar .volume-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.story-toolbar .volume-scroll button {
+  flex: 0 1 auto;
+  min-width: 0;
+  max-width: min(100%, 260px);
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.22;
+  text-align: center;
 }
 
 .reader-toolbar {
@@ -2628,6 +2701,18 @@ a.enemy-loot-chip:focus-visible {
     padding: 8px 12px;
   }
 
+  .story-toolbar .volume-scroll {
+    flex-wrap: wrap;
+    overflow: visible;
+    padding: 0;
+  }
+
+  .story-toolbar .volume-scroll button {
+    min-width: 0;
+    max-width: 100%;
+    white-space: normal;
+  }
+
   .text-card {
     padding: 16px;
   }
@@ -3399,10 +3484,17 @@ a.enemy-loot-chip:focus-visible {
     border-radius: 14px;
   }
 
+  .story-detail-icon {
+    width: 86px;
+    height: 86px;
+    flex-basis: 86px;
+    border-radius: 18px;
+  }
+
   .story-character-entry-icon {
-    width: 48px;
-    height: 48px;
-    flex-basis: 48px;
+    width: 56px;
+    height: 56px;
+    flex-basis: 56px;
   }
 
   .type-filter-stack {
