@@ -31,6 +31,31 @@
   overflow-wrap: anywhere;
 }
 
+.detail-hero {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  min-width: 0;
+}
+
+.detail-title-icon {
+  display: block;
+  width: 88px;
+  height: 88px;
+  flex: 0 0 88px;
+  object-fit: contain;
+  border-radius: 16px;
+  background: var(--icon-bg, rgba(203, 191, 175, 0.24));
+}
+
+.detail-hero-text {
+  min-width: 0;
+}
+
+.story-toolbar {
+  margin-top: 8px;
+}
+
 .reader-toolbar {
   margin: 24px 0 18px;
   padding: 12px 0;

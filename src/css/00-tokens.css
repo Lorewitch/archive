@@ -20,9 +20,9 @@
   --radius-page: 18px;
   --radius-card: 14px;
   --radius-control: 9px;
-  --weapon-rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
-  --weapon-rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
-  --weapon-rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
-  --weapon-rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
-  --weapon-rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
+  --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
+  --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
+  --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
+  --rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
+  --rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
 }

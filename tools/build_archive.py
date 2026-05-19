@@ -860,6 +860,25 @@ def build_enemy(path: Path) -> dict[str, Any]:
     }
 
 
+
+def build_story_parts(text_by_lang: dict[str, str]) -> list[dict[str, Any]]:
+    blocks_by_lang = {lang: split_subsections(text_by_lang.get(lang, "")) for lang in LANGS}
+    count = max((len(blocks) for blocks in blocks_by_lang.values()), default=0)
+    parts: list[dict[str, Any]] = []
+
+    for index in range(count):
+        title: dict[str, str] = {}
+        text: dict[str, str] = {}
+        for lang in LANGS:
+            blocks = blocks_by_lang.get(lang, [])
+            if index < len(blocks):
+                block = blocks[index]
+                title[lang] = block.get("title", "").strip()
+                text[lang] = block.get("text", "").strip()
+        parts.append({"number": index + 1, "title": title, "text": text})
+
+    return parts
+
 def build_generic(path: Path, category: str) -> dict[str, Any]:
     meta, body = parse_meta_and_body(read_text(path))
     sections = split_top_sections(body)
@@ -910,6 +929,10 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
             story_elements = list(STORY_ELEMENT_ORDER)
         entry["elements"] = story_elements
         entry["element"] = story_elements[0] if len(story_elements) == 1 else ""
+        story_parts = build_story_parts(full_text_by_lang)
+        if story_parts:
+            entry["parts"] = story_parts
+            entry["part_count"] = len(story_parts)
     if category == "items":
         entry["item_group"] = normalized_item_group(meta)
         entry["entry_type"] = entry_type

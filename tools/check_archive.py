@@ -451,10 +451,12 @@ def check_generated_css() -> None:
     css_text = css.read_text(encoding="utf-8")
     if "!important" in css_text:
         fail("assets/css/archive.css: найден !important")
+    if "element-icon-stack" in css_text or "element-pill-multi" in css_text or "weapon-rarity-bg" in css_text:
+        fail("assets/css/archive.css: остался старый CSS для стопки элементов или оружейных подложек")
 
     for rarity in ["5", "4", "3", "2", "1"]:
-        if f"weapon-rarity-bg-{rarity}" not in css_text or f"--weapon-rarity-{rarity}-bg" not in css_text:
-            fail(f"assets/css/archive.css: отсутствует цветная подложка оружия редкости {rarity}★")
+        if f"rarity-bg-{rarity}" not in css_text or f"--rarity-{rarity}-bg" not in css_text:
+            fail(f"assets/css/archive.css: отсутствует цветная подложка иконок редкости {rarity}★")
 
     navigation_css = SRC_CSS_DIR / "03-navigation.css"
     if navigation_css.exists():
@@ -695,8 +697,10 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: локальные ассеты должны получать cache-busting версию")
         if "versionedAssetPath(item.icon)" not in text or "versionedAssetPath(material.icon)" not in text:
             fail("assets/js/archive.js: иконки записей и материалов должны версионироваться")
-        if "function weaponRarityBackgroundClass" not in text or "weapon-rarity-bg-${rarity}" not in text:
-            fail("assets/js/archive.js: оружейные иконки должны получать класс подложки по редкости")
+        if "function entryRarityBackgroundClass" not in text or "rarity-bg-${rarity}" not in text:
+            fail("assets/js/archive.js: иконки записей с редкостью должны получать класс подложки по редкости")
+        if "weaponRarityBackgroundClass" in text or "weapon-rarity-bg" in text:
+            fail("assets/js/archive.js: остался старый оружейный код подложек редкости")
         if "weaponIconClass" not in text or "weapon-description-icon" not in text:
             fail("assets/js/archive.js: подложка редкости должна работать и в карточке оружия")
         if "const expandedEnemyDescriptionKeys = new Set()" not in text:
@@ -719,7 +723,7 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: каскадная раскладка должна распределять 4+ противников по трём явным колонкам")
         if "is-masonry" in text or "column-count" in text:
             fail("assets/js/archive.js: остался старый код каскадной раскладки")
-        if 'data-type-filter-toggle="all"' not in text or "toggle.indeterminate" not in text:
+        if 'data-type-filter-toggle' not in text or "toggle.indeterminate" not in text:
             fail("assets/js/archive.js: фильтры-галочки должны иметь общую галочку для быстрого выбора и снятия")
         if '["craft", "Крафт"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
             fail("assets/js/archive.js: в фильтрах ресурсов Тейвата должны быть Крафт и Ингредиенты")
@@ -729,6 +733,14 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: старая категория Еда и зелья или старый фильтр Чайник не должны оставаться в клиенте")
         if 'title: "Инвентарь"' not in text:
             fail("assets/js/archive.js: раздел Предметы должен быть переименован в Инвентарь")
+        if "function renderStoryDetail" not in text or 'id="toggle-story-read-all"' not in text or "data-story-part" not in text:
+            fail("assets/js/archive.js: истории должны читаться по разделам и в режиме читать всё подряд")
+        if "story-element-list" not in text or "element-icon-stack" in text or "element-pill-multi" in text:
+            fail("assets/js/archive.js: несколько элементов персонажа должны выводиться отдельными чипами")
+        if "type-filter-stack" not in text or "type-filter-row-label" not in text:
+            fail("assets/js/archive.js: фильтры элементов и редкости историй персонажей должны быть разделены по строкам")
+        if "entryRarityBackgroundClass(item)" not in text or "story-character-entry-icon" not in text:
+            fail("assets/js/archive.js: иконки персонажей с редкостью должны быть увеличены и получать фон редкости")
         if '<a class="enemy-loot-chip' not in text or 'routeHash("items", drop.id, group)' not in text:
             fail("assets/js/archive.js: дополнительные ресурсы в карточках противников должны быть кликабельными")
         if '<span class="toolbar-label">Язык</span>\n        <span class="toolbar-label">Язык</span>' in text:

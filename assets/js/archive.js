@@ -435,18 +435,25 @@ function activeTypeFilters(config = getSectionConfig()) {
   return saved.filter(value => defaults.includes(value));
 }
 
-function renderTypeFilters(config) {
-  const options = typeFiltersForCurrentCatalog(config);
+function renderTypeFilterRow(options, activeTypes, settings = {}) {
   if (!options.length) return "";
 
-  const activeTypes = new Set(activeTypeFilters(config));
-  const allSelected = options.every(option => activeTypes.has(typeFilterOptionValue(option)));
+  const scope = settings.scope || "all";
+  const showToggle = settings.showToggle !== false;
+  const values = options.map(typeFilterOptionValue);
+  const selectedCount = values.filter(value => activeTypes.has(value)).length;
+  const allSelected = selectedCount === values.length;
+  const isPartial = selectedCount > 0 && selectedCount < values.length;
+
   return `
-    <div class="type-filter-row" aria-label="Дополнительный фильтр">
-      <label class="type-filter-chip type-filter-toggle">
-        <input type="checkbox" data-type-filter-toggle="all" ${allSelected ? "checked" : ""}>
-        <span>Все</span>
-      </label>
+    <div class="type-filter-row" data-type-filter-scope="${escapeHtml(scope)}" aria-label="${escapeHtml(settings.label || "Дополнительный фильтр")}">
+      ${settings.label ? `<span class="type-filter-row-label">${escapeHtml(settings.label)}</span>` : ""}
+      ${showToggle ? `
+        <label class="type-filter-chip type-filter-toggle">
+          <input type="checkbox" data-type-filter-toggle="${escapeHtml(scope)}" ${allSelected ? "checked" : ""} ${isPartial ? 'data-indeterminate="true"' : ""}>
+          <span>${escapeHtml(settings.toggleLabel || "Все")}</span>
+        </label>
+      ` : ""}
       ${options.map(option => {
         const value = typeFilterOptionValue(option);
         const label = typeFilterOptionLabel(option);
@@ -454,7 +461,7 @@ function renderTypeFilters(config) {
         const group = typeFilterOptionGroup(option);
         return `
         <label class="type-filter-chip ${group ? `type-filter-${escapeHtml(group)}` : ""}">
-          <input type="checkbox" value="${escapeHtml(value)}" ${activeTypes.has(value) ? "checked" : ""}>
+          <input type="checkbox" value="${escapeHtml(value)}" data-type-filter-group="${escapeHtml(group || scope)}" ${activeTypes.has(value) ? "checked" : ""}>
           ${icon ? `<img class="type-filter-icon" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : ""}
           <span>${escapeHtml(label)}</span>
         </label>
@@ -463,6 +470,27 @@ function renderTypeFilters(config) {
     </div>
   `;
 }
+
+function renderTypeFilters(config) {
+  const options = typeFiltersForCurrentCatalog(config);
+  if (!options.length) return "";
+
+  const activeTypes = new Set(activeTypeFilters(config));
+
+  if (isCharacterStoriesCatalog(config)) {
+    const elementOptions = options.filter(option => typeFilterOptionGroup(option) === "element");
+    const rarityOptions = options.filter(option => typeFilterOptionGroup(option) === "rarity");
+    return `
+      <div class="type-filter-stack" aria-label="Фильтры историй персонажей">
+        ${renderTypeFilterRow(elementOptions, activeTypes, { scope: "element", toggleLabel: "Все", label: "Элемент" })}
+        ${renderTypeFilterRow(rarityOptions, activeTypes, { scope: "rarity", showToggle: false, label: "Редкость" })}
+      </div>
+    `;
+  }
+
+  return renderTypeFilterRow(options, activeTypes);
+}
+
 
 const COMMON_ENEMY_TYPE_FILTERS = [
   ["hilichurls", "Хиличурлы"],
@@ -688,6 +716,8 @@ const state = {
   artifactReadAll: false,
   itemMaterial: "",
   itemReadAll: false,
+  storyPart: 1,
+  storyReadAll: false,
   filters: {
     books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["book_series", "notes"] },
     artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
@@ -989,11 +1019,15 @@ function iconFor(item) {
   return item?.icon || item?.image || item?.icon_path || "";
 }
 
-function weaponRarityBackgroundClass(item) {
+function entryRarityBackgroundClass(item) {
   const rarity = String(item?.rarity || "").trim();
-  return item?.category === "weapons" && ["5", "4", "3", "2", "1"].includes(rarity)
-    ? `weapon-rarity-bg-${rarity}`
+  return ["5", "4", "3", "2", "1"].includes(rarity)
+    ? `rarity-bg-${rarity}`
     : "";
+}
+
+function isCharacterStoryEntry(item) {
+  return item?.category === "stories" && (item?.story_group || state.subsection) === "character_stories";
 }
 
 function renderTitleCell(item) {
@@ -1001,7 +1035,7 @@ function renderTitleCell(item) {
   const zh = titleOf(item, "zh");
   const subtitles = [en, zh].filter(Boolean).join(" · ");
   const icon = iconFor(item);
-  const iconClass = ["entry-icon", weaponRarityBackgroundClass(item)].filter(Boolean).join(" ");
+  const iconClass = ["entry-icon", entryRarityBackgroundClass(item), isCharacterStoryEntry(item) ? "story-character-entry-icon" : ""].filter(Boolean).join(" ");
   const iconMarkup = icon
     ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="42" height="42">`
     : `<span class="entry-icon placeholder" aria-hidden="true">⌁</span>`;
@@ -1073,34 +1107,24 @@ function renderGenericItemTypeCell(item) {
   return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
 }
 
-function renderStoryElementCell(item) {
-  const elements = storyElementValues(item);
-  if (!elements.length) return "—";
-
-  if (elements.length === 1) {
-    const element = elements[0];
-    const icon = storyElementIcon(element);
-    const label = storyElementTitle(element);
-    if (!icon) return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
-    return `
-      <span class="element-pill">
-        <img src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">
-        <span>${escapeHtml(label)}</span>
-      </span>
-    `;
-  }
-
+function renderStoryElementPill(element) {
+  const icon = storyElementIcon(element);
+  const label = storyElementTitle(element);
+  if (!icon) return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
   return `
-    <span class="element-pill element-pill-multi" title="${escapeHtml(elements.map(storyElementTitle).join(", "))}">
-      <span class="element-icon-stack" aria-hidden="true">
-        ${elements.map(element => `
-          <img src="${escapeHtml(versionedAssetPath(storyElementIcon(element)))}" alt="" loading="lazy" decoding="async" width="22" height="22">
-        `).join("")}
-      </span>
-      <span>Все элементы</span>
+    <span class="element-pill">
+      <img src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">
+      <span>${escapeHtml(label)}</span>
     </span>
   `;
 }
+
+function renderStoryElementCell(item) {
+  const elements = storyElementValues(item);
+  if (!elements.length) return "—";
+  return `<div class="story-element-list">${elements.map(renderStoryElementPill).join("")}</div>`;
+}
+
 
 function renderStoryRarityCell(item) {
   const rarity = String(item?.rarity || "").trim();
@@ -1725,6 +1749,16 @@ function renderCatalogTable(config) {
   `;
 }
 
+function syncTypeFilterToggles() {
+  app.querySelectorAll('[data-type-filter-toggle]').forEach(toggle => {
+    const row = toggle.closest(".type-filter-row");
+    const rowInputs = Array.from(row?.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])') || []);
+    const rowChecked = rowInputs.filter(input => input.checked).length;
+    toggle.checked = rowInputs.length > 0 && rowChecked === rowInputs.length;
+    toggle.indeterminate = rowChecked > 0 && rowChecked < rowInputs.length;
+  });
+}
+
 function renderCatalog(config) {
   activeDetail = null;
   const filterState = state.filters[config.id];
@@ -1766,6 +1800,7 @@ function renderCatalog(config) {
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
     </section>
   `;
+  syncTypeFilterToggles();
 }
 
 function updateCatalogTable(config = getSectionConfig()) {
@@ -2178,6 +2213,119 @@ function fitItemMaterialTabs() {
   });
 }
 
+function storyParts(item) {
+  if (Array.isArray(item?.parts) && item.parts.length) return item.parts;
+
+  const text = localizedEntryText(item);
+  if (!text) return [];
+  return [{
+    number: 1,
+    title: { ru: "История", en: "Story", zh: "故事" },
+    text: { [state.lang]: text, ru: item?.text?.ru || text, en: item?.text?.en || "", zh: item?.text?.zh || "" }
+  }];
+}
+
+function storyPartTitle(part, lang = state.lang) {
+  return part?.title?.[lang] || part?.title?.ru || part?.title?.en || part?.title?.zh || `История ${part?.number || ""}`.trim();
+}
+
+function storyPartText(part, lang = state.lang) {
+  return part?.text?.[lang] || part?.text?.ru || part?.text?.en || part?.text?.zh || "[нет текста]";
+}
+
+function normalizeActiveStoryPart(parts) {
+  if (!parts.length) {
+    state.storyPart = 1;
+    state.storyReadAll = false;
+    return;
+  }
+  if (!parts.some(part => Number(part.number) === Number(state.storyPart))) {
+    state.storyPart = Number(parts[0].number) || 1;
+  }
+}
+
+function renderStoryTextArea(story) {
+  const parts = storyParts(story);
+  normalizeActiveStoryPart(parts);
+  const visibleParts = state.storyReadAll ? parts : parts.filter(part => Number(part.number) === Number(state.storyPart));
+  const generalNote = cleanPublicNote(story.notes?.general || "");
+
+  return visibleParts.map((part, index) => {
+    const languageControl = index === 0 ? `
+      <div class="lang-control" aria-label="Язык текста">
+        <span class="toolbar-label">Язык</span>
+        <div class="lang-switch">
+          ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
+        </div>
+      </div>
+    ` : "";
+    const notesBlock = index === 0 && generalNote ? `
+      <div class="notes">
+        <div class="notes-title">Заметки Лороведьмы</div>
+        <div class="notes-body">${markdownToHtml(generalNote, { allowLists: true })}</div>
+      </div>
+    ` : "";
+
+    return `
+      <article class="text-card story-text-card" id="story-part-${escapeHtml(part.number)}">
+        <div class="volume-title">
+          <div class="volume-title-main"><h3>${escapeHtml(storyPartTitle(part))}</h3></div>
+          ${languageControl}
+        </div>
+        <div class="prose">${markdownToHtml(storyPartText(part))}</div>
+        ${notesBlock}
+      </article>
+    `;
+  }).join("");
+}
+
+function renderStoryDetail(story, config) {
+  activeDetail = { type: "story", data: story, configId: config.id };
+  if (!story) {
+    renderError("История не найдена.");
+    return;
+  }
+
+  const parts = storyParts(story);
+  normalizeActiveStoryPart(parts);
+  const showPartToolbar = parts.length > 1;
+  const icon = iconFor(story);
+  const iconClass = ["detail-title-icon", "story-detail-icon", entryRarityBackgroundClass(story)].filter(Boolean).join(" ");
+  const iconMarkup = icon
+    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
+    : "";
+
+  app.innerHTML = `
+    <section class="page-card book-page story-page">
+      <button class="back-link" id="back-section" type="button">${escapeHtml(catalogBackLabel(config, state.subsection))}</button>
+
+      <div class="page-head detail-hero story-detail-head">
+        ${iconMarkup}
+        <div class="detail-hero-text">
+          <h1>${escapeHtml(titleOf(story, "ru"))}</h1>
+          <div class="subtitle">${escapeHtml([titleOf(story, "en"), titleOf(story, "zh")].filter(Boolean).join(" · "))}</div>
+        </div>
+      </div>
+
+      ${showPartToolbar ? `
+        <div class="reader-toolbar story-toolbar" aria-label="Управление чтением истории">
+          <div class="volume-strip" aria-label="Оглавление истории">
+            <button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? "Читать по разделам" : "Читать всё подряд"}</button>
+            <div class="parts-row">
+              <span class="toolbar-label">Разделы</span>
+              <div class="volume-scroll">
+                ${parts.map(part => `<button type="button" data-story-part="${escapeHtml(part.number)}" class="${!state.storyReadAll && Number(state.storyPart) === Number(part.number) ? "active" : ""}">${escapeHtml(storyPartTitle(part))}</button>`).join("")}
+              </div>
+            </div>
+          </div>
+        </div>
+      ` : ""}
+
+      <div id="reader-text-area">${renderStoryTextArea(story)}</div>
+    </section>
+  `;
+}
+
 function renderGenericDetail(item, config) {
   activeDetail = { type: "generic", data: item, configId: config.id };
   if (!item) {
@@ -2196,12 +2344,13 @@ function renderGenericDetail(item, config) {
   const isWeapon = config.id === "weapons";
   const isSimpleItem = config.id === "items";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
-  const weaponIconClass = ["weapon-description-icon", weaponRarityBackgroundClass(item)].filter(Boolean).join(" ");
+  const weaponIconClass = ["weapon-description-icon", entryRarityBackgroundClass(item)].filter(Boolean).join(" ");
   const weaponIcon = isWeapon && item.icon
     ? `<img class="${escapeHtml(weaponIconClass)}" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
+  const itemIconClass = ["item-description-float-icon", entryRarityBackgroundClass(item)].filter(Boolean).join(" ");
   const itemFloatIcon = isSimpleItem && item.icon
-    ? `<img class="item-description-float-icon" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="104" height="104">`
+    ? `<img class="${escapeHtml(itemIconClass)}" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="104" height="104">`
     : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
         <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
@@ -2275,6 +2424,7 @@ function renderActiveDetail() {
   if (activeDetail.type === "book") renderBookDetail(activeDetail.data);
   if (activeDetail.type === "artifact") renderArtifactDetail(activeDetail.data);
   if (activeDetail.type === "enemyDrops") renderEnemyDropsDetail(activeDetail.data, config);
+  if (activeDetail.type === "story") renderStoryDetail(activeDetail.data, config);
   if (activeDetail.type === "generic") renderGenericDetail(activeDetail.data, config);
 }
 
@@ -2376,6 +2526,20 @@ function handleAppClick(event) {
     return;
   }
 
+  if (event.target.closest("#toggle-story-read-all") && activeDetail?.type === "story") {
+    state.storyReadAll = !state.storyReadAll;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
+  const storyPartButton = event.target.closest("[data-story-part]");
+  if (storyPartButton && activeDetail?.type === "story") {
+    state.storyPart = Number(storyPartButton.dataset.storyPart) || 1;
+    state.storyReadAll = false;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
   const volumeButton = event.target.closest("[data-volume]");
   if (volumeButton && activeDetail?.type === "book") {
     state.volume = Number(volumeButton.dataset.volume);
@@ -2452,18 +2616,26 @@ function handleAppChange(event) {
   if (event.target.matches(".type-filter-chip input")) {
     const options = typeFiltersForCurrentCatalog(config);
     const defaultValues = options.map(typeFilterOptionValue);
+    const currentRow = event.target.closest(".type-filter-row");
+
+    if (event.target.matches("[data-type-filter-toggle]")) {
+      const rowInputs = Array.from(currentRow?.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])') || []);
+      rowInputs.forEach(input => { input.checked = event.target.checked; });
+    }
+
     const itemInputs = Array.from(app.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])'));
-    const toggle = app.querySelector('[data-type-filter-toggle="all"]');
+    const checked = itemInputs
+      .filter(input => input.checked)
+      .map(input => input.value)
+      .filter(value => defaultValues.includes(value));
 
-    if (event.target.matches('[data-type-filter-toggle="all"]')) {
-      itemInputs.forEach(input => { input.checked = event.target.checked; });
-    }
-
-    const checked = itemInputs.filter(input => input.checked).map(input => input.value).filter(value => defaultValues.includes(value));
-    if (toggle) {
-      toggle.checked = checked.length === defaultValues.length;
-      toggle.indeterminate = checked.length > 0 && checked.length < defaultValues.length;
-    }
+    app.querySelectorAll('[data-type-filter-toggle]').forEach(toggle => {
+      const row = toggle.closest(".type-filter-row");
+      const rowInputs = Array.from(row?.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])') || []);
+      const rowChecked = rowInputs.filter(input => input.checked).length;
+      toggle.checked = rowInputs.length > 0 && rowChecked === rowInputs.length;
+      toggle.indeterminate = rowChecked > 0 && rowChecked < rowInputs.length;
+    });
 
     filterState.page = 1;
     if (config.id === "items" || config.id === "stories") {
@@ -2599,6 +2771,8 @@ async function render() {
       if (sequence !== renderSequence) return;
       if (config.id === "items" && isEnemyDropEntry(item)) {
         renderEnemyDropsDetail(item, config);
+      } else if (config.id === "stories") {
+        renderStoryDetail(item, config);
       } else {
         renderGenericDetail(item, config);
       }

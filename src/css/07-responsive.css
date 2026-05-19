@@ -1453,3 +1453,27 @@
     margin-right: 10px;
   }
 }
+
+@media (max-width: 720px) {
+  .detail-hero {
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .detail-title-icon {
+    width: 68px;
+    height: 68px;
+    flex-basis: 68px;
+    border-radius: 14px;
+  }
+
+  .story-character-entry-icon {
+    width: 48px;
+    height: 48px;
+    flex-basis: 48px;
+  }
+
+  .type-filter-stack {
+    gap: 8px;
+  }
+}

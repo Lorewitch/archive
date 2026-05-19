@@ -25,11 +25,11 @@
   --radius-page: 18px;
   --radius-card: 14px;
   --radius-control: 9px;
-  --weapon-rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
-  --weapon-rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
-  --weapon-rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
-  --weapon-rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
-  --weapon-rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
+  --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
+  --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
+  --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
+  --rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
+  --rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
 }
 
 /* Base reset and global typography
@@ -104,24 +104,24 @@ canvas {
   max-width: 100%;
 }
 
-.weapon-rarity-bg-5 {
-  --icon-bg: var(--weapon-rarity-5-bg);
+.rarity-bg-5 {
+  --icon-bg: var(--rarity-5-bg);
 }
 
-.weapon-rarity-bg-4 {
-  --icon-bg: var(--weapon-rarity-4-bg);
+.rarity-bg-4 {
+  --icon-bg: var(--rarity-4-bg);
 }
 
-.weapon-rarity-bg-3 {
-  --icon-bg: var(--weapon-rarity-3-bg);
+.rarity-bg-3 {
+  --icon-bg: var(--rarity-3-bg);
 }
 
-.weapon-rarity-bg-2 {
-  --icon-bg: var(--weapon-rarity-2-bg);
+.rarity-bg-2 {
+  --icon-bg: var(--rarity-2-bg);
 }
 
-.weapon-rarity-bg-1 {
-  --icon-bg: var(--weapon-rarity-1-bg);
+.rarity-bg-1 {
+  --icon-bg: var(--rarity-1-bg);
 }
 
 /* Page layout and shared surfaces
@@ -733,25 +733,15 @@ h3,
   object-fit: contain;
 }
 
-.element-icon-stack {
-  display: inline-flex;
+.story-element-list {
+  display: flex;
   flex-wrap: wrap;
+  gap: 7px;
   align-items: center;
-  gap: 2px;
-  max-width: 76px;
+  min-width: 0;
 }
 
-.element-icon-stack img {
-  display: block;
-  width: 20px;
-  height: 20px;
-  flex: 0 0 20px;
-  object-fit: contain;
-}
 
-.element-pill-multi {
-  align-items: center;
-}
 
 .entry-material-preview {
   display: none;
@@ -1031,6 +1021,13 @@ h3,
   background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
+.story-character-entry-icon {
+  width: 52px;
+  height: 52px;
+  flex-basis: 52px;
+  border-radius: 12px;
+}
+
 .entry-icon.placeholder {
   display: grid;
   place-items: center;
@@ -1068,6 +1065,21 @@ h3,
   gap: 8px;
   align-items: center;
   min-width: 0;
+}
+
+.type-filter-stack {
+  grid-column: 1 / -1;
+  display: grid;
+  gap: 9px;
+  min-width: 0;
+}
+
+.type-filter-row-label {
+  color: var(--soft);
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
 }
 
 .type-filter-chip {
@@ -1137,6 +1149,31 @@ h3,
   color: var(--muted);
   font-size: clamp(17px, 1.8vw, 22px);
   overflow-wrap: anywhere;
+}
+
+.detail-hero {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  min-width: 0;
+}
+
+.detail-title-icon {
+  display: block;
+  width: 88px;
+  height: 88px;
+  flex: 0 0 88px;
+  object-fit: contain;
+  border-radius: 16px;
+  background: var(--icon-bg, rgba(203, 191, 175, 0.24));
+}
+
+.detail-hero-text {
+  min-width: 0;
+}
+
+.story-toolbar {
+  margin-top: 8px;
 }
 
 .reader-toolbar {
@@ -3346,5 +3383,29 @@ a.enemy-loot-chip:focus-visible {
     width: 66px;
     height: 66px;
     margin-right: 10px;
+  }
+}
+
+@media (max-width: 720px) {
+  .detail-hero {
+    align-items: flex-start;
+    gap: 14px;
+  }
+
+  .detail-title-icon {
+    width: 68px;
+    height: 68px;
+    flex-basis: 68px;
+    border-radius: 14px;
+  }
+
+  .story-character-entry-icon {
+    width: 48px;
+    height: 48px;
+    flex-basis: 48px;
+  }
+
+  .type-filter-stack {
+    gap: 8px;
   }
 }
