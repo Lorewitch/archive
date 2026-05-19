@@ -585,7 +585,17 @@ def check_workflow_guards() -> None:
 
 def check_content_structure() -> None:
     if (ASSETS_DIR / "icons" / "hystory").exists():
-        fail("assets/icons/hystory: опечатка в названии папки; используйте assets/icons/history/character")
+        fail("assets/icons/hystory: опечатка в названии папки; используйте assets/icons/stories/character")
+    if (ASSETS_DIR / "icons" / "history").exists():
+        fail("assets/icons/history: папка переименована; используйте assets/icons/stories/character")
+
+    character_story_content_dir = ROOT / "content" / "stories" / "character"
+    if not character_story_content_dir.exists():
+        fail("content/stories/character: для историй персонажей должна быть отдельная папка контента")
+
+    character_story_icon_dir = ASSETS_DIR / "icons" / "stories" / "character"
+    if not character_story_icon_dir.exists():
+        fail("assets/icons/stories/character: для иконок историй персонажей должна быть отдельная папка")
 
     content_items = ROOT / "content" / "items"
     teapot_dir = content_items / "serenitea_pot"

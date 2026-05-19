@@ -108,6 +108,33 @@ COMMON_ENEMY_TYPE_ALIASES = {
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
 STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
+STORY_GROUP_ALIASES = {
+    "archon": "archon_quests",
+    "archon_quest": "archon_quests",
+    "archon_quests": "archon_quests",
+    "legend": "legend_quests",
+    "legend_quest": "legend_quests",
+    "legend_quests": "legend_quests",
+    "world_quest": "world_quests",
+    "world_quests": "world_quests",
+    "character": "character_stories",
+    "characters": "character_stories",
+    "character_story": "character_stories",
+    "character_stories": "character_stories",
+    "world_story": "world_stories",
+    "world_stories": "world_stories",
+}
+STORY_FOLDER_GROUPS = {
+    "archon": "archon_quests",
+    "archon_quests": "archon_quests",
+    "legend": "legend_quests",
+    "legend_quests": "legend_quests",
+    "world_quests": "world_quests",
+    "character": "character_stories",
+    "character_stories": "character_stories",
+    "world": "world_stories",
+    "world_stories": "world_stories",
+}
 STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 STORY_ELEMENT_ALIASES = {
     "pyro": "pyro", "пиро": "pyro",
@@ -633,9 +660,26 @@ def normalized_generic_item_type(item_group: str, meta: dict[str, str]) -> str:
     return next(iter(definitions), "")
 
 
-def normalized_story_group(meta: dict[str, str]) -> str:
-    value = (meta.get("story_group") or meta.get("group") or meta.get("subtype") or meta.get("category_type") or "world_stories").strip()
-    return value if value in STORY_GROUPS else "world_stories"
+def story_group_from_path(path: Path) -> str:
+    try:
+        parts = path.relative_to(CONTENT_DIR / "stories").parts[:-1]
+    except ValueError:
+        parts = path.parts[:-1]
+
+    for part in reversed(parts):
+        key = re.sub(r"[^a-z0-9]+", "_", part.strip().lower()).strip("_")
+        if key in STORY_FOLDER_GROUPS:
+            return STORY_FOLDER_GROUPS[key]
+    return "world_stories"
+
+
+def normalized_story_group(meta: dict[str, str], path: Path | None = None) -> str:
+    raw_value = (meta.get("story_group") or meta.get("group") or meta.get("subtype") or meta.get("category_type") or "").strip()
+    if raw_value:
+        value = re.sub(r"[^a-z0-9]+", "_", raw_value.lower()).strip("_")
+        value = STORY_GROUP_ALIASES.get(value, value)
+        return value if value in STORY_GROUPS else "world_stories"
+    return story_group_from_path(path) if path else "world_stories"
 
 
 def normalized_story_element(meta: dict[str, str]) -> str:
@@ -829,7 +873,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         entry["weapon_type"] = normalized_weapon_type(meta)
         entry["type"] = entry["weapon_type"]
     if category == "stories":
-        entry["story_group"] = normalized_story_group(meta)
+        entry["story_group"] = normalized_story_group(meta, path)
         entry["category_type"] = entry["story_group"]
         entry["element"] = normalized_story_element(meta)
     if category == "items":
