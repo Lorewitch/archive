@@ -697,6 +697,10 @@ def check_common_enemy_layout_guards() -> None:
             fail("src/css/07-responsive.css: боковые safe-area не должны добавлять белые поля и горизонтальный сдвиг при landscape-повороте")
         if "@media (max-width: 1180px) and (orientation: landscape)" not in responsive_text or "padding-left: 0;" not in responsive_text or "padding-right: 0;" not in responsive_text or "border-radius: 0;" not in responsive_text:
             fail("src/css/07-responsive.css: в landscape мобильная оболочка должна быть full-bleed, без белых боковых gutters")
+        if "html.is-mobile-landscape .app" not in responsive_text or "html.is-mobile-landscape .content" not in responsive_text or "max-width: none;" not in responsive_text:
+            fail("src/css/07-responsive.css: для iOS нужен JS-класс is-mobile-landscape, чтобы убирать планшетный max-width даже при нестабильном orientation")
+        if "html.menu-open .drawer-backdrop" not in responsive_text or "inset: 0;" not in responsive_text or "width: auto;" not in responsive_text:
+            fail("src/css/07-responsive.css: затемнение мобильного меню должно покрывать весь viewport, а не только центральный контейнер")
         if "viewport-fit=cover" not in (ROOT / "index.html").read_text(encoding="utf-8"):
             fail("index.html: нужен viewport-fit=cover для окрашивания боковых safe-area на iOS")
         base_text = (SRC_CSS_DIR / "01-base.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "01-base.css").exists() else ""
@@ -911,6 +915,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: случайный горизонтальный скролл каталога должен сбрасываться без потери вертикальной позиции")
         if "function scheduleViewportCleanup()" not in text or 'window.addEventListener("orientationchange", scheduleViewportCleanup' not in text or 'window.visualViewport?.addEventListener("resize", scheduleViewportCleanup' not in text or "viewportCleanupTimers = [80, 240, 520]" not in text:
             fail("assets/js/archive.js: поворот телефона должен несколько раз сбрасывать горизонтальный скролл, включая visualViewport на iOS")
+        if "function updateMobileLandscapeClass()" not in text or "is-mobile-landscape" not in text or "window.visualViewport" not in text or "isTouchLikeViewport()" not in text:
+            fail("assets/js/archive.js: телефонный landscape должен определяться через visualViewport и отдельный класс, чтобы убрать белые gutters, даже если CSS orientation сработал нестабильно")
         if "window.scrollTo(0, target.y)" not in text or "catalogScrollPositions.set(currentCatalogScrollKey()" not in text or "x: window.scrollX" in text:
             fail("assets/js/archive.js: сохранение позиции каталога не должно сохранять горизонтальный scrollX")
         if "function openMenu()" not in text or 'document.body.style.position = "fixed"' not in text or 'document.documentElement.classList.add("menu-open")' not in text:

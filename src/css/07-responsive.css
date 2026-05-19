@@ -1406,12 +1406,17 @@
   }
 
   .app {
+    width: 100%;
+    max-width: none;
+    margin-left: 0;
+    margin-right: 0;
     padding-left: 0;
     padding-right: 0;
   }
 
   .content {
     width: 100%;
+    max-width: none;
     margin-left: 0;
     margin-right: 0;
   }
@@ -1422,6 +1427,47 @@
     border-right: 0;
     border-radius: 0;
   }
+}
+
+html.is-mobile-landscape,
+html.is-mobile-landscape body {
+  background: var(--surface);
+}
+
+html.is-mobile-landscape .app {
+  width: 100%;
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+html.is-mobile-landscape .content {
+  width: 100%;
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+html.is-mobile-landscape .page-card,
+html.is-mobile-landscape .text-card {
+  border-left: 0;
+  border-right: 0;
+  border-radius: 0;
+}
+
+html.menu-open {
+  background: rgba(42, 37, 33, 0.36);
+}
+
+html.menu-open .drawer-backdrop,
+html.is-mobile-landscape .drawer-backdrop {
+  position: fixed;
+  inset: 0;
+  width: auto;
+  max-width: none;
+  margin: 0;
 }
 
 @media (max-width: 430px) {

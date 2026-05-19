@@ -2880,6 +2880,22 @@ let responsiveFitFrame = 0;
 let viewportCleanupFrame = 0;
 let viewportCleanupTimers = [];
 
+function isTouchLikeViewport() {
+  return Boolean(
+    window.matchMedia?.("(hover: none) and (pointer: coarse)").matches ||
+    navigator.maxTouchPoints > 0 ||
+    "ontouchstart" in window
+  );
+}
+
+function updateMobileLandscapeClass() {
+  const viewport = window.visualViewport;
+  const width = viewport?.width || window.innerWidth || document.documentElement.clientWidth || 0;
+  const height = viewport?.height || window.innerHeight || document.documentElement.clientHeight || 0;
+  const isMobileLandscape = isTouchLikeViewport() && width > height && width <= 1180;
+  document.documentElement.classList.toggle("is-mobile-landscape", isMobileLandscape);
+}
+
 function scheduleResponsiveFit() {
   if (responsiveFitFrame) return;
   responsiveFitFrame = window.requestAnimationFrame(() => {
@@ -2891,6 +2907,7 @@ function scheduleResponsiveFit() {
 
 function applyViewportCleanup() {
   viewportCleanupFrame = 0;
+  updateMobileLandscapeClass();
   resetHorizontalScroll();
   scheduleResponsiveFit();
 }
@@ -2903,6 +2920,7 @@ function scheduleViewportCleanup() {
     window.clearTimeout(timer);
   }
   viewportCleanupTimers = [80, 240, 520].map(delay => window.setTimeout(() => {
+    updateMobileLandscapeClass();
     resetHorizontalScroll();
     scheduleResponsiveFit();
   }, delay));
@@ -2920,6 +2938,7 @@ toTopButton?.addEventListener("click", () => {
 window.addEventListener("scroll", updateToTopButton, { passive: true });
 updateToTopButton();
 
+updateMobileLandscapeClass();
 init();
 
 window.addEventListener("resize", scheduleViewportCleanup, { passive: true });
