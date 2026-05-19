@@ -252,7 +252,7 @@
   color: #211b17;
   font-size: 17px;
   font-weight: 900;
-  line-height: 1.32;
+  line-height: 1.24;
   overflow-wrap: normal;
   word-break: normal;
 }
@@ -288,9 +288,10 @@
 }
 
 .book-subtitle {
-  margin-top: 3px;
+  margin-top: 2px;
   color: var(--muted);
   font-size: 13px;
+  line-height: 1.22;
   overflow-wrap: anywhere;
 }
 
@@ -605,7 +606,7 @@
   color: #211b17;
   font-size: 19px;
   font-weight: 920;
-  line-height: 1.18;
+  line-height: 1.13;
   letter-spacing: -0.025em;
 }
 
@@ -621,8 +622,8 @@
 
 .entry-title-cell {
   display: flex;
-  align-items: center;
-  gap: 12px;
+  align-items: flex-start;
+  gap: 11px;
   min-width: 0;
 }
 
@@ -631,19 +632,25 @@
 }
 
 .entry-icon {
-  --entry-icon-size: 42px;
+  --entry-icon-size: 44px;
   display: block;
   width: var(--entry-icon-size);
   height: var(--entry-icon-size);
   flex: 0 0 var(--entry-icon-size);
   object-fit: contain;
   border-radius: 8px;
+  margin-top: 1px;
   background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
 .story-character-entry-icon {
   --entry-icon-size: 72px;
+  margin-top: 0;
   border-radius: 14px;
+}
+
+.catalog-row.cols-stories-character .entry-title-cell {
+  align-items: center;
 }
 
 .entry-icon.placeholder {

@@ -637,10 +637,38 @@ def check_common_enemy_layout_guards() -> None:
         ):
             if old_selector in responsive_text:
                 fail("src/css/07-responsive.css: мобильное выравнивание иконок должно быть единым для карточек каталога, без категорийных заплаток")
-        if ".catalog-row.item .entry-title-cell" not in responsive_text or ".catalog-row.item .entry-icon" not in responsive_text:
-            fail("src/css/07-responsive.css: отсутствует единое мобильное выравнивание иконок карточек каталога")
-        if "--entry-icon-size: 44px" not in responsive_text or "line-height: 1.24" not in responsive_text:
-            fail("src/css/07-responsive.css: мобильные иконки и плотность строк каталога должны быть настроены единым правилом")
+        catalog_css = SRC_CSS_DIR / "04-catalog.css"
+        if catalog_css.exists():
+            catalog_text = catalog_css.read_text(encoding="utf-8")
+            title_cell = re.search(r"\.entry-title-cell \{(?P<body>.*?)\}", catalog_text, re.S)
+            icon_block = re.search(r"\.entry-icon \{(?P<body>.*?)\}", catalog_text, re.S)
+            title_block = re.search(r"\.book-title \{(?P<body>.*?)\}", catalog_text, re.S)
+            subtitle_block = re.search(r"\.book-subtitle \{(?P<body>.*?)\}", catalog_text, re.S)
+            group_title_block = re.search(r"\.group-card-title \{(?P<body>.*?)\}", catalog_text, re.S)
+            if not title_cell or "align-items: flex-start" not in title_cell.group("body") or "gap: 11px" not in title_cell.group("body"):
+                fail("src/css/04-catalog.css: выравнивание иконки по заголовку должно быть единым базовым правилом для каталога")
+            if not icon_block or "--entry-icon-size: 44px" not in icon_block.group("body") or "margin-top: 1px" not in icon_block.group("body"):
+                fail("src/css/04-catalog.css: размер и отступ иконок каталога должны задаваться единым базовым правилом")
+            story_title_cell = re.search(r"\.catalog-row\.cols-stories-character \.entry-title-cell \{(?P<body>.*?)\}", catalog_text, re.S)
+            story_icon_block = re.search(r"\.story-character-entry-icon \{(?P<body>.*?)\}", catalog_text, re.S)
+            if not story_title_cell or "align-items: center" not in story_title_cell.group("body"):
+                fail("src/css/04-catalog.css: истории персонажей должны явно сохранять центрирование большой портретной иконки")
+            if not story_icon_block or "--entry-icon-size: 72px" not in story_icon_block.group("body") or "margin-top: 0" not in story_icon_block.group("body"):
+                fail("src/css/04-catalog.css: размер портретных иконок историй персонажей должен задаваться отдельным правилом")
+            if not title_block or "line-height: 1.24" not in title_block.group("body"):
+                fail("src/css/04-catalog.css: плотность заголовков каталога должна задаваться единым базовым правилом")
+            if not subtitle_block or "line-height: 1.22" not in subtitle_block.group("body") or "margin-top: 2px" not in subtitle_block.group("body"):
+                fail("src/css/04-catalog.css: плотность подзаголовков каталога должна задаваться единым базовым правилом")
+            if not group_title_block or "line-height: 1.13" not in group_title_block.group("body"):
+                fail("src/css/04-catalog.css: плотность названий категорий должна задаваться единым базовым правилом")
+        for redundant_selector in (
+            ".catalog-row.item .entry-title-cell",
+            ".catalog-row.item .entry-icon",
+            ".catalog-row.item .book-subtitle",
+            ".group-card-title",
+        ):
+            if redundant_selector in responsive_text:
+                fail("src/css/07-responsive.css: базовое выравнивание, размер и плотность каталога не должны дублироваться в мобильных заплатках")
         if "html.menu-open," not in responsive_text or "overscroll-behavior: none" not in responsive_text or "touch-action: none" not in responsive_text:
             fail("src/css/07-responsive.css: мобильное меню должно блокировать прокрутку фона, а не только затемнять его")
         if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text:
