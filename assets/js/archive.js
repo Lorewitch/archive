@@ -142,6 +142,7 @@ const REGION_FILTERS = [
   ["Натлан", "Натлан"],
   ["Нод-Край", "Нод-Край"],
   ["Снежная", "Снежная"],
+  ["Иной мир", "Иной мир"],
 ];
 
 const ITEM_GROUPS = [
@@ -186,6 +187,11 @@ const ELEMENT_FILTERS = [
   ["cryo", "Крио", "assets/icons/element/06_Cryo.webp"],
   ["geo", "Гео", "assets/icons/element/07_Geo.webp"],
 ];
+const ELEMENT_ORDER = ELEMENT_FILTERS.map(([value]) => value);
+const ALL_ELEMENT_ALIASES = new Set([
+  "all", "all_elements", "all_element", "traveler", "aether", "lumine",
+  "все", "все_элементы", "все_элементы_путешественника", "путешественник"
+]);
 
 const STORY_CHARACTER_TYPE_FILTERS = [
   ...ELEMENT_FILTERS.map(([value, label, icon]) => ({ value: `element:${value}`, label, icon, group: "element" })),
@@ -351,6 +357,29 @@ function normalizeStoryElement(value) {
   return ELEMENT_ALIASES[key] || key;
 }
 
+function storyElementValues(item) {
+  const fromArray = Array.isArray(item?.elements) ? item.elements : [];
+  const result = [];
+
+  for (const value of fromArray) {
+    const normalized = normalizeStoryElement(value);
+    if (ALL_ELEMENT_ALIASES.has(normalized)) return [...ELEMENT_ORDER];
+    if (ELEMENT_LABELS[normalized] && !result.includes(normalized)) result.push(normalized);
+  }
+
+  if (result.length) return result;
+
+  const raw = item?.element || item?.vision || "";
+  const direct = normalizeStoryElement(raw);
+  if (ALL_ELEMENT_ALIASES.has(direct)) return [...ELEMENT_ORDER];
+  if (ELEMENT_LABELS[direct]) return [direct];
+
+  return String(raw)
+    .split(/[,;/|+]+/)
+    .map(part => normalizeStoryElement(part))
+    .filter((value, index, list) => ELEMENT_LABELS[value] && list.indexOf(value) === index);
+}
+
 function storyElementTitle(value) {
   const key = normalizeStoryElement(value);
   return ELEMENT_LABELS[key]?.label || String(value || "—");
@@ -366,9 +395,9 @@ function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
     .map(([value]) => value)
     .filter(value => activeTypeSet.has(`element:${value}`));
   const selectedRarities = ["5", "4"].filter(value => activeTypeSet.has(`rarity:${value}`));
-  const itemElement = normalizeStoryElement(item?.element || item?.vision || "");
+  const itemElements = storyElementValues(item);
   const itemRarity = String(item?.rarity || "").trim();
-  return selectedElements.includes(itemElement) && selectedRarities.includes(itemRarity);
+  return itemElements.some(element => selectedElements.includes(element)) && selectedRarities.includes(itemRarity);
 }
 
 function itemTypeFilterValue(item, config = getSectionConfig()) {
@@ -1045,14 +1074,30 @@ function renderGenericItemTypeCell(item) {
 }
 
 function renderStoryElementCell(item) {
-  const element = normalizeStoryElement(item?.element || item?.vision || "");
-  const icon = storyElementIcon(element);
-  const label = storyElementTitle(element);
-  if (!icon) return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
+  const elements = storyElementValues(item);
+  if (!elements.length) return "—";
+
+  if (elements.length === 1) {
+    const element = elements[0];
+    const icon = storyElementIcon(element);
+    const label = storyElementTitle(element);
+    if (!icon) return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
+    return `
+      <span class="element-pill">
+        <img src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">
+        <span>${escapeHtml(label)}</span>
+      </span>
+    `;
+  }
+
   return `
-    <span class="element-pill">
-      <img src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">
-      <span>${escapeHtml(label)}</span>
+    <span class="element-pill element-pill-multi" title="${escapeHtml(elements.map(storyElementTitle).join(", "))}">
+      <span class="element-icon-stack" aria-hidden="true">
+        ${elements.map(element => `
+          <img src="${escapeHtml(versionedAssetPath(storyElementIcon(element)))}" alt="" loading="lazy" decoding="async" width="22" height="22">
+        `).join("")}
+      </span>
+      <span>Все элементы</span>
     </span>
   `;
 }

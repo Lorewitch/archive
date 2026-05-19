@@ -135,7 +135,8 @@ STORY_FOLDER_GROUPS = {
     "world": "world_stories",
     "world_stories": "world_stories",
 }
-STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
+STORY_ELEMENT_ORDER = ["pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"]
+STORY_ELEMENTS = set(STORY_ELEMENT_ORDER)
 STORY_ELEMENT_ALIASES = {
     "pyro": "pyro", "пиро": "pyro",
     "hydro": "hydro", "гидро": "hydro",
@@ -144,6 +145,10 @@ STORY_ELEMENT_ALIASES = {
     "dendro": "dendro", "дендро": "dendro",
     "cryo": "cryo", "крио": "cryo",
     "geo": "geo", "гео": "geo",
+}
+STORY_ALL_ELEMENTS = {
+    "all", "all_elements", "all_element", "traveler", "aether", "lumine",
+    "все", "все_элементы", "все_элементы_путешественника", "путешественник",
 }
 
 
@@ -682,11 +687,36 @@ def normalized_story_group(meta: dict[str, str], path: Path | None = None) -> st
     return story_group_from_path(path) if path else "world_stories"
 
 
+def normalize_story_element_token(value: str) -> str:
+    key = value.strip().lower().replace("ё", "е")
+    key = re.sub(r"[^a-zа-я0-9]+", "_", key).strip("_")
+    return STORY_ELEMENT_ALIASES.get(key, key)
+
+
+def normalized_story_elements(meta: dict[str, str]) -> list[str]:
+    raw = (meta.get("elements") or meta.get("element") or meta.get("vision") or "").strip()
+    if not raw:
+        return []
+
+    direct = normalize_story_element_token(raw)
+    if direct in STORY_ALL_ELEMENTS:
+        return list(STORY_ELEMENT_ORDER)
+    if direct in STORY_ELEMENTS:
+        return [direct]
+
+    elements: list[str] = []
+    for part in re.split(r"[,;/|+]+", raw):
+        normalized = normalize_story_element_token(part)
+        if normalized in STORY_ALL_ELEMENTS:
+            return list(STORY_ELEMENT_ORDER)
+        if normalized in STORY_ELEMENTS and normalized not in elements:
+            elements.append(normalized)
+    return elements
+
+
 def normalized_story_element(meta: dict[str, str]) -> str:
-    value = (meta.get("element") or meta.get("vision") or "").strip().lower().replace("ё", "е")
-    value = re.sub(r"[^a-zа-я0-9]+", "_", value).strip("_")
-    value = STORY_ELEMENT_ALIASES.get(value, value)
-    return value if value in STORY_ELEMENTS else ""
+    elements = normalized_story_elements(meta)
+    return elements[0] if len(elements) == 1 else ""
 
 
 def generic_item_type_title_from_meta(item_group: str, meta: dict[str, str]) -> dict[str, str]:
@@ -875,7 +905,11 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     if category == "stories":
         entry["story_group"] = normalized_story_group(meta, path)
         entry["category_type"] = entry["story_group"]
-        entry["element"] = normalized_story_element(meta)
+        story_elements = normalized_story_elements(meta)
+        if not story_elements and entry["story_group"] == "character_stories" and entry_id in {"traveler", "aether", "lumine"}:
+            story_elements = list(STORY_ELEMENT_ORDER)
+        entry["elements"] = story_elements
+        entry["element"] = story_elements[0] if len(story_elements) == 1 else ""
     if category == "items":
         entry["item_group"] = normalized_item_group(meta)
         entry["entry_type"] = entry_type
@@ -1148,6 +1182,7 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "story_group": story_group,
         "category_type": story_group,
         "element": item.get("element", ""),
+        "elements": item.get("elements", []),
         "rarity": item.get("rarity"),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
@@ -1158,6 +1193,7 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
             item.get("game_version", ""),
             story_group,
             item.get("element", ""),
+            item.get("elements", []),
             item.get("rarity", ""),
             item.get("tags", []),
             item.get("description", {}),

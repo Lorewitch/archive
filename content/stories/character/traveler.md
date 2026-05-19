@@ -5,7 +5,7 @@
 # title_zh: 旅行者
 # region: Тейват
 # element: multi
-# element_variants: anemo, geo, electro, dendro, hydro, pyro
+# element_variants: anemo, geo, electro, dendro, hydro, pyro, cryo
 # traveler_variants_collapsed: true
 # rarity: 5
 # game_version: 1.0

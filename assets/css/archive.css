@@ -733,6 +733,26 @@ h3,
   object-fit: contain;
 }
 
+.element-icon-stack {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px;
+  max-width: 76px;
+}
+
+.element-icon-stack img {
+  display: block;
+  width: 20px;
+  height: 20px;
+  flex: 0 0 20px;
+  object-fit: contain;
+}
+
+.element-pill-multi {
+  align-items: center;
+}
+
 .entry-material-preview {
   display: none;
   margin-top: 10px;

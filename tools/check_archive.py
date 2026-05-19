@@ -19,7 +19,7 @@ KNOWN_REGIONS = {
     "Мондштадт", "Ли Юэ", "Инадзума", "Сумеру", "Фонтейн", "Натлан",
     "Нод-Край", "Снежная", "Тейват", "Энканомия", "Разлом",
     "Подземные шахты Разлома", "Море древности", "Селестия", "Каэнри'ах",
-    "Каэнри’ах",
+    "Каэнри’ах", "Иной мир",
 }
 KNOWN_ITEM_GROUPS = {
     "weekly_bosses", "world_bosses", "common_enemies", "development_materials",
@@ -363,9 +363,17 @@ def check_stories(stories: dict[str, dict[str, Any]]) -> None:
         if story_group not in KNOWN_STORY_GROUPS:
             fail(f"{owner}: неизвестная группа истории {story_group or '—'}")
         if story_group == "character_stories":
-            element = str(story.get("element") or "").strip()
-            if element not in KNOWN_STORY_ELEMENTS:
-                fail(f"{owner}: история персонажа должна иметь element из списка, получено {element or 'пусто'}")
+            elements_raw = story.get("elements")
+            if isinstance(elements_raw, list):
+                elements = [str(value).strip() for value in elements_raw if str(value).strip()]
+            else:
+                element = str(story.get("element") or "").strip()
+                elements = [element] if element else []
+
+            unknown_elements = sorted(value for value in elements if value not in KNOWN_STORY_ELEMENTS)
+            if not elements or unknown_elements:
+                got = ", ".join(unknown_elements or elements) or "пусто"
+                fail(f"{owner}: история персонажа должна иметь element/elements из списка, получено {got}")
             rarity = story.get("rarity")
             if str(rarity) not in {"4", "5"}:
                 fail(f"{owner}: история персонажа должна иметь rarity 4 или 5, получено {rarity or 'пусто'}")
