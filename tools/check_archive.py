@@ -460,8 +460,8 @@ def check_generated_css() -> None:
 
     if "story-detail-icon" not in css_text or "width: 128px" not in css_text:
         fail("assets/css/archive.css: иконка персонажа внутри истории должна быть увеличена отдельным story-detail-icon")
-    if "detail-hero-text h1" not in css_text or "overflow-wrap: anywhere" not in css_text:
-        fail("assets/css/archive.css: длинные заголовки в detail-hero должны безопасно переноситься")
+    if "detail-hero-text h1" not in css_text or "text-wrap: balance" not in css_text or "overflow-wrap: break-word" not in css_text:
+        fail("assets/css/archive.css: длинные заголовки в detail-hero должны адаптивно переноситься без грубого разрыва слов")
     if "story-character-entry-icon" not in css_text or "width: 72px" not in css_text:
         fail("assets/css/archive.css: иконки персонажей в каталоге должны быть увеличены")
     if "story-toolbar .volume-strip" not in css_text or "story-toolbar .volume-scroll button" not in css_text:
@@ -473,11 +473,17 @@ def check_generated_css() -> None:
     else:
         story_button_css = story_button_block.group("body")
         if "white-space: nowrap" not in story_button_css or "flex: 0 0 auto" not in story_button_css:
-            fail("assets/css/archive.css: длинные названия разделов истории должны переноситься целым чипом, без переноса слов внутри")
-        forbidden_story_button_css = ["text-overflow: ellipsis", "overflow: hidden", "white-space: normal", "overflow-wrap: anywhere"]
+            fail("assets/css/archive.css: на десктопе длинные названия разделов истории должны переноситься целым чипом")
+        forbidden_story_button_css = ["text-overflow: ellipsis", "overflow: hidden", "overflow-wrap: anywhere"]
         for forbidden in forbidden_story_button_css:
             if forbidden in story_button_css:
-                fail(f"assets/css/archive.css: осталась старая логика обрезки/переноса кнопок истории: {forbidden}")
+                fail(f"assets/css/archive.css: осталась старая логика обрезки/грубого переноса кнопок истории: {forbidden}")
+
+    responsive_css = (SRC_CSS_DIR / "07-responsive.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "07-responsive.css").exists() else ""
+    if ".story-toolbar .volume-scroll button" not in responsive_css or "min-width: 0" not in responsive_css or "overflow-wrap: break-word" not in responsive_css:
+        fail("src/css/07-responsive.css: на мобильной версии длинный текст чипов разделов должен переноситься внутри чипа без горизонтального скролла")
+    if ".detail-hero" not in responsive_css or "flex-direction: column" not in responsive_css:
+        fail("src/css/07-responsive.css: мобильный detail-hero должен ставить иконку над заголовком, чтобы длинные названия не ломались")
     if "minmax(280px" not in css_text or "cols-stories-character" not in css_text:
         fail("assets/css/archive.css: колонка элементов историй персонажей должна быть расширена")
 
