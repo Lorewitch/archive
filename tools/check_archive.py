@@ -693,20 +693,8 @@ def check_common_enemy_layout_guards() -> None:
             fail("src/css/07-responsive.css: landscape-меню не должно снова занимать почти всю ширину экрана")
         if "@supports (width: 100dvw)" not in responsive_text or "calc(100dvw - 72px)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильное меню должно использовать dvw-поправку для поворота экрана")
-        forbidden_side_safe_area = [
-            "left: max(12px, env(safe-area-inset-left))",
-            "padding-left: env(safe-area-inset-left)",
-            "padding-right: env(safe-area-inset-right)",
-            "margin-left: env(safe-area-inset-left)",
-            "margin-right: env(safe-area-inset-right)",
-        ]
-        for fragment in forbidden_side_safe_area:
-            if fragment in responsive_text:
-                fail(f"src/css/07-responsive.css: боковая safe-area не должна добавляться как отступ: {fragment}")
-        if "width: calc(100% + env(safe-area-inset-left) + env(safe-area-inset-right))" not in responsive_text or "margin-left: calc(-1 * env(safe-area-inset-left))" not in responsive_text or "right: calc(-1 * env(safe-area-inset-right))" not in responsive_text:
-            fail("src/css/07-responsive.css: iOS landscape должен расширять оболочку и backdrop за пределы safe-layout viewport, иначе остаются белые боковые поля")
-        if "left: calc(12px - env(safe-area-inset-left))" not in responsive_text:
-            fail("src/css/07-responsive.css: мобильное меню в iOS landscape должно начинаться от физического края экрана, а не от safe-layout viewport")
+        if "safe-area-inset-left" in responsive_text or "safe-area-inset-right" in responsive_text:
+            fail("src/css/07-responsive.css: боковые safe-area не должны добавлять белые поля и горизонтальный сдвиг при landscape-повороте")
         if "@media (max-width: 1180px) and (orientation: landscape)" not in responsive_text or "padding-left: 0;" not in responsive_text or "padding-right: 0;" not in responsive_text or "border-radius: 0;" not in responsive_text:
             fail("src/css/07-responsive.css: в landscape мобильная оболочка должна быть full-bleed, без белых боковых gutters")
         if "html.is-mobile-landscape .app" not in responsive_text or "html.is-mobile-landscape .content" not in responsive_text or "max-width: none;" not in responsive_text:
