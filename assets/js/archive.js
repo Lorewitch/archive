@@ -632,7 +632,6 @@ const SECTIONS = [
     filterLabel: "Все регионы",
     columns: ["Название", "Частей", "Тип", "Регион"],
     empty: "В этом разделе пока нет текстов.",
-    mobileTitleCellAlign: "start",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.volume_count || item.volumes?.length || 1),
@@ -650,7 +649,6 @@ const SECTIONS = [
     filterLabel: "Все регионы",
     columns: ["Название", "Регион", "Частей"],
     empty: "Артефакты пока не добавлены.",
-    mobileTitleCellAlign: "start",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
@@ -668,7 +666,6 @@ const SECTIONS = [
     fixedOptions: WEAPON_TYPES,
     columns: ["Название", "Тип", "Редкость"],
     empty: "Оружие пока не добавлено.",
-    mobileTitleCellAlign: "start",
     row: item => [
       renderTitleCell(item),
       escapeHtml(labelFromOptions(item.weapon_type || item.type, WEAPON_TYPES) || item.weapon_type || item.type || "—"),
@@ -1702,7 +1699,6 @@ function catalogRowClasses(config, modifiers = []) {
     "catalog-row",
     ...modifiers,
     catalogLayoutClass(config),
-    config.mobileTitleCellAlign === "start" ? "title-icon-start" : "",
   ].filter(Boolean).join(" ");
 }
 

@@ -631,19 +631,18 @@
 }
 
 .entry-icon {
+  --entry-icon-size: 42px;
   display: block;
-  width: 42px;
-  height: 42px;
-  flex: 0 0 42px;
+  width: var(--entry-icon-size);
+  height: var(--entry-icon-size);
+  flex: 0 0 var(--entry-icon-size);
   object-fit: contain;
   border-radius: 8px;
   background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
 .story-character-entry-icon {
-  width: 72px;
-  height: 72px;
-  flex-basis: 72px;
+  --entry-icon-size: 72px;
   border-radius: 14px;
 }
 
