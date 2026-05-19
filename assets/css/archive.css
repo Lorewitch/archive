@@ -3149,17 +3149,6 @@ a.enemy-loot-chip:focus-visible {
     flex-basis: 44px;
   }
 
-  .catalog-row.cols-items-enemy .material-list {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 7px;
-    width: 100%;
-  }
-
-  .catalog-row.cols-items-enemy .material-chip {
-    width: 100%;
-    justify-content: flex-start;
-  }
 }
 
 @media (max-width: 860px) {
