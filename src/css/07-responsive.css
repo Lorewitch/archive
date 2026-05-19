@@ -130,13 +130,15 @@
     z-index: 100;
     top: 66px;
     bottom: 12px;
-    left: 12px;
-    width: min(420px, calc(100vw - 24px));
+    left: max(12px, env(safe-area-inset-left));
+    width: min(380px, calc(100vw - 72px));
     height: auto;
-    max-width: calc(100vw - 24px);
+    max-width: calc(100vw - 72px);
     transform: translateX(calc(-100% - 24px));
     transition: transform 0.22s ease;
     overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
     box-shadow: 0 24px 70px rgba(91, 74, 62, 0.22);
   }
 

@@ -671,6 +671,9 @@ def check_common_enemy_layout_guards() -> None:
                 fail("src/css/07-responsive.css: базовое выравнивание, размер и плотность каталога не должны дублироваться в мобильных заплатках")
         if "html.menu-open," not in responsive_text or "overscroll-behavior: none" not in responsive_text or "touch-action: none" not in responsive_text:
             fail("src/css/07-responsive.css: мобильное меню должно блокировать прокрутку фона, а не только затемнять его")
+        mobile_sidebar = re.search(r"@media \(max-width: 1180px\).*?\.sidebar \{(?P<body>.*?)\}", responsive_text, re.S)
+        if not mobile_sidebar or "calc(100vw - 72px)" not in mobile_sidebar.group("body") or "overflow-y: auto" not in mobile_sidebar.group("body"):
+            fail("src/css/07-responsive.css: мобильное меню должно оставлять широкую область для закрытия и прокручиваться внутри карточки")
         if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text:
             fail("src/css/07-responsive.css: мобильная страница каталога должна защищаться от горизонтального скролла")
         if ".search input:focus" not in responsive_text or "inset 0 0 0 2px" not in responsive_text:
