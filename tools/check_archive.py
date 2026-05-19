@@ -462,6 +462,18 @@ def check_generated_css() -> None:
         fail("assets/css/archive.css: иконка персонажа внутри истории должна быть увеличена отдельным story-detail-icon")
     if "story-toolbar .volume-strip" not in css_text or "story-toolbar .volume-scroll button" not in css_text:
         fail("assets/css/archive.css: панель разделов истории должна иметь отдельную безопасную раскладку без вылезания кнопок")
+
+    story_button_block = re.search(r"\.story-toolbar \.volume-scroll button \{(?P<body>.*?)\}", css_text, re.S)
+    if not story_button_block:
+        fail("assets/css/archive.css: не найден блок кнопок разделов истории")
+    else:
+        story_button_css = story_button_block.group("body")
+        if "white-space: nowrap" not in story_button_css or "flex: 0 0 auto" not in story_button_css:
+            fail("assets/css/archive.css: длинные названия разделов истории должны переноситься целым чипом, без переноса слов внутри")
+        forbidden_story_button_css = ["text-overflow: ellipsis", "overflow: hidden", "white-space: normal", "overflow-wrap: anywhere"]
+        for forbidden in forbidden_story_button_css:
+            if forbidden in story_button_css:
+                fail(f"assets/css/archive.css: осталась старая логика обрезки/переноса кнопок истории: {forbidden}")
     if "minmax(280px" not in css_text or "cols-stories-character" not in css_text:
         fail("assets/css/archive.css: колонка элементов историй персонажей должна быть расширена")
 

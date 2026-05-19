@@ -1239,15 +1239,14 @@ h3,
   display: none;
 }
 
-.story-toolbar .volume-scroll button {
-  flex: 0 1 auto;
-  min-width: 0;
-  max-width: min(100%, 260px);
-  white-space: normal;
-  overflow-wrap: anywhere;
-  line-height: 1.22;
-  text-align: center;
-}
+  .story-toolbar .volume-scroll button {
+    flex: 0 0 auto;
+    min-width: max-content;
+    white-space: nowrap;
+    overflow: visible;
+    text-overflow: clip;
+    overflow-wrap: normal;
+  }
 
 .reader-toolbar {
   margin: 24px 0 18px;
@@ -2708,9 +2707,12 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .story-toolbar .volume-scroll button {
-    min-width: 0;
-    max-width: 100%;
-    white-space: normal;
+    flex: 0 0 auto;
+    min-width: max-content;
+    white-space: nowrap;
+    overflow: visible;
+    text-overflow: clip;
+    overflow-wrap: normal;
   }
 
   .text-card {
