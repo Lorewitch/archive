@@ -2878,7 +2878,7 @@ window.addEventListener("keydown", event => {
 const toTopButton = document.getElementById("to-top-button");
 let responsiveFitFrame = 0;
 let viewportCleanupFrame = 0;
-let viewportCleanupTimer = 0;
+let viewportCleanupTimers = [];
 
 function scheduleResponsiveFit() {
   if (responsiveFitFrame) return;
@@ -2899,11 +2899,13 @@ function scheduleViewportCleanup() {
   if (!viewportCleanupFrame) {
     viewportCleanupFrame = window.requestAnimationFrame(applyViewportCleanup);
   }
-  window.clearTimeout(viewportCleanupTimer);
-  viewportCleanupTimer = window.setTimeout(() => {
+  for (const timer of viewportCleanupTimers) {
+    window.clearTimeout(timer);
+  }
+  viewportCleanupTimers = [80, 240, 520].map(delay => window.setTimeout(() => {
     resetHorizontalScroll();
     scheduleResponsiveFit();
-  }, 180);
+  }, delay));
 }
 
 function updateToTopButton() {
@@ -2922,3 +2924,4 @@ init();
 
 window.addEventListener("resize", scheduleViewportCleanup, { passive: true });
 window.addEventListener("orientationchange", scheduleViewportCleanup, { passive: true });
+window.visualViewport?.addEventListener("resize", scheduleViewportCleanup, { passive: true });

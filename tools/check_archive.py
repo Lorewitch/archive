@@ -481,6 +481,13 @@ def check_generated_css() -> None:
         if "!important" in text:
             fail(f"{rel(path)}: найден !important")
 
+
+    index_html = ROOT / "index.html"
+    if index_html.exists():
+        index_text = index_html.read_text(encoding="utf-8")
+        if "viewport-fit=cover" not in index_text:
+            fail("index.html: viewport должен использовать viewport-fit=cover, чтобы iOS не оставлял белые поля в landscape")
+
     css_text = css.read_text(encoding="utf-8")
     if "!important" in css_text:
         fail("assets/css/archive.css: найден !important")
@@ -680,7 +687,11 @@ def check_common_enemy_layout_guards() -> None:
             fail("src/css/07-responsive.css: landscape-меню не должно снова занимать почти всю ширину экрана")
         if "@supports (width: 100dvw)" not in responsive_text or "calc(100dvw - 72px)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильное меню должно использовать dvw-поправку для поворота экрана")
-        if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text:
+        if "padding-left: max(10px, env(safe-area-inset-left))" in responsive_text or "padding-right: max(10px, env(safe-area-inset-right))" in responsive_text or "padding-left: max(12px, env(safe-area-inset-left))" in responsive_text:
+            fail("src/css/07-responsive.css: боковые safe-area не должны добавлять белые поля и горизонтальный сдвиг при landscape-повороте")
+        if "viewport-fit=cover" not in (ROOT / "index.html").read_text(encoding="utf-8"):
+            fail("index.html: нужен viewport-fit=cover для окрашивания боковых safe-area на iOS")
+        if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text or "@supports (overflow: clip)" not in responsive_text:
             fail("src/css/07-responsive.css: мобильная страница каталога должна защищаться от горизонтального скролла")
         if ".search input:focus" not in responsive_text or "inset 0 0 0 2px" not in responsive_text:
             fail("src/css/07-responsive.css: focus-обводка поиска на мобильном не должна раздувать ширину страницы")
@@ -886,8 +897,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: setRoute не должен менять state до hashchange, иначе ломается сохранение скролла")
         if "function resetHorizontalScroll()" not in text or "window.scrollTo(0, currentY)" not in text:
             fail("assets/js/archive.js: случайный горизонтальный скролл каталога должен сбрасываться без потери вертикальной позиции")
-        if "function scheduleViewportCleanup()" not in text or 'window.addEventListener("orientationchange", scheduleViewportCleanup' not in text:
-            fail("assets/js/archive.js: поворот телефона должен сбрасывать сохранённый горизонтальный скролл")
+        if "function scheduleViewportCleanup()" not in text or 'window.addEventListener("orientationchange", scheduleViewportCleanup' not in text or 'window.visualViewport?.addEventListener("resize", scheduleViewportCleanup' not in text or "viewportCleanupTimers = [80, 240, 520]" not in text:
+            fail("assets/js/archive.js: поворот телефона должен несколько раз сбрасывать горизонтальный скролл, включая visualViewport на iOS")
         if "window.scrollTo(0, target.y)" not in text or "catalogScrollPositions.set(currentCatalogScrollKey()" not in text or "x: window.scrollX" in text:
             fail("assets/js/archive.js: сохранение позиции каталога не должно сохранять горизонтальный scrollX")
         if "function openMenu()" not in text or 'document.body.style.position = "fixed"' not in text or 'document.documentElement.classList.add("menu-open")' not in text:

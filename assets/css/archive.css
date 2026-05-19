@@ -48,6 +48,11 @@ body {
   overflow-x: hidden;
 }
 
+html {
+  background: #e8ded4;
+  overscroll-behavior-x: none;
+}
+
 @supports (overflow: clip) {
   html,
   body {
@@ -79,6 +84,7 @@ body {
     "Segoe UI",
     sans-serif;
   line-height: 1.6;
+  overscroll-behavior-x: none;
 }
 
 body.menu-open {
@@ -2113,8 +2119,7 @@ a.enemy-loot-chip:focus-visible {
     justify-content: space-between;
     gap: 10px;
     min-height: 56px;
-    padding: 10px max(12px, env(safe-area-inset-left)) 10px
-      max(12px, env(safe-area-inset-right));
+    padding: 10px clamp(12px, 2.4vw, 22px);
     border-bottom: 1px solid rgba(91, 74, 62, 0.18);
     background: rgba(246, 242, 235, 0.96);
     backdrop-filter: blur(14px);
@@ -2170,6 +2175,28 @@ a.enemy-loot-chip:focus-visible {
   .content {
     width: min(100%, 980px);
     margin: 0 auto;
+  }
+
+  html,
+  body,
+  .app,
+  .content,
+  .page-card,
+  .catalog-page {
+    max-width: 100%;
+    min-width: 0;
+    overflow-x: hidden;
+  }
+
+  @supports (overflow: clip) {
+    html,
+    body,
+    .app,
+    .content,
+    .page-card,
+    .catalog-page {
+      overflow-x: clip;
+    }
   }
 
   .sidebar {
@@ -2244,16 +2271,6 @@ a.enemy-loot-chip:focus-visible {
   .lead,
   .subtitle {
     font-size: clamp(14px, 2.6vw, 17px);
-  }
-
-  html,
-  body,
-  .app,
-  .content,
-  .page-card,
-  .catalog-page {
-    max-width: 100%;
-    overflow-x: clip;
   }
 
   .toolbar {
@@ -3389,14 +3406,14 @@ a.enemy-loot-chip:focus-visible {
   @media (max-width: 1180px) {
     .mobile-top {
       padding-top: max(10px, env(safe-area-inset-top));
-      padding-left: max(12px, env(safe-area-inset-left));
-      padding-right: max(12px, env(safe-area-inset-right));
+      padding-left: clamp(12px, 2.4vw, 22px);
+      padding-right: clamp(12px, 2.4vw, 22px);
     }
 
     .app {
       padding-top: calc(72px + env(safe-area-inset-top));
-      padding-left: max(10px, env(safe-area-inset-left));
-      padding-right: max(10px, env(safe-area-inset-right));
+      padding-left: clamp(10px, 2.4vw, 22px);
+      padding-right: clamp(10px, 2.4vw, 22px);
       padding-bottom: max(24px, env(safe-area-inset-bottom));
     }
 
