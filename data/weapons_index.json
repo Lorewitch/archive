@@ -1297,6 +1297,32 @@
     "search_text": "сновидения тысячи ночей a thousand floating dreams 千夜浮梦 catalyst 5 3.2 оружие катализатор"
   },
   {
+    "id": "angelos_heptades",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/catalyst/angelos_heptades.webp",
+    "title": {
+      "ru": "Гептада ангела",
+      "en": "Angelos' Heptades",
+      "zh": "尘光七谕"
+    },
+    "weapon_type": "catalyst",
+    "type": "catalyst",
+    "rarity": 5,
+    "game_version": "6.6",
+    "tags": [
+      "Николь"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 6006000,
+    "search_text": "гептада ангела angelos' heptades 尘光七谕 catalyst 5 6.6 николь"
+  },
+  {
     "id": "apprentices_notes",
     "category": "weapons",
     "icon": "assets/icons/weapons/catalyst/apprentices_notes.webp",
@@ -4022,6 +4048,33 @@
     "filter_type": "4",
     "sort_version": 4005000,
     "search_text": "диалог пустынных мудрецов dialogues of the desert sages 沙中伟贤的对答 polearm 4 4.5 оружие древковое"
+  },
+  {
+    "id": "disaster_and_remorse",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/polearm/disaster_and_remorse.webp",
+    "title": {
+      "ru": "Бедствие и раскаяние",
+      "en": "Disaster and Remorse",
+      "zh": "灾悔"
+    },
+    "weapon_type": "polearm",
+    "type": "polearm",
+    "rarity": 5,
+    "game_version": "6.6",
+    "tags": [
+      "Лоэн",
+      "Имунлаукр"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 6006000,
+    "search_text": "бедствие и раскаяние disaster and remorse 灾悔 polearm 5 6.6 лоэн имунлаукр"
   },
   {
     "id": "dragons_bane",
