@@ -638,9 +638,9 @@
     max-width: 100%;
     font-size: clamp(32px, 10vw, 44px);
     line-height: 1;
-    overflow-wrap: break-word;
+    overflow-wrap: normal;
     word-break: normal;
-    hyphens: auto;
+    hyphens: manual;
     text-wrap: balance;
   }
 
@@ -723,9 +723,10 @@
     white-space: normal;
     overflow: visible;
     text-overflow: clip;
-    overflow-wrap: break-word;
+    overflow-wrap: normal;
     word-break: normal;
-    hyphens: auto;
+    hyphens: manual;
+    text-wrap: pretty;
   }
 
   .text-card {
@@ -1490,8 +1491,9 @@
   .detail-hero {
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     gap: 12px;
+    text-align: center;
   }
 
   .detail-title-icon {
@@ -1510,14 +1512,15 @@
 
   .detail-hero-text {
     width: 100%;
+    text-align: center;
   }
 
   .detail-hero-text h1 {
-    font-size: clamp(32px, 10vw, 44px);
-    line-height: 1;
-    overflow-wrap: break-word;
+    font-size: clamp(30px, 9.2vw, 42px);
+    line-height: 1.02;
+    overflow-wrap: normal;
     word-break: normal;
-    hyphens: auto;
+    hyphens: manual;
     text-wrap: balance;
   }
 

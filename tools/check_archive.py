@@ -460,8 +460,11 @@ def check_generated_css() -> None:
 
     if "story-detail-icon" not in css_text or "width: 128px" not in css_text:
         fail("assets/css/archive.css: иконка персонажа внутри истории должна быть увеличена отдельным story-detail-icon")
-    if "detail-hero-text h1" not in css_text or "text-wrap: balance" not in css_text or "overflow-wrap: break-word" not in css_text:
-        fail("assets/css/archive.css: длинные заголовки в detail-hero должны адаптивно переноситься без грубого разрыва слов")
+    if "detail-hero-text h1" not in css_text or "text-wrap: balance" not in css_text or "hyphens: manual" not in css_text:
+        fail("assets/css/archive.css: длинные заголовки в detail-hero должны переноситься по словам без автоматического разрыва слова")
+    title_block = re.search(r"\.detail-hero-text h1 \{(?P<body>.*?)\}", css_text, re.S)
+    if not title_block or "overflow-wrap: break-word" in title_block.group("body") or "hyphens: auto" in title_block.group("body"):
+        fail("assets/css/archive.css: заголовки detail-hero не должны ломать слова посередине")
     if "story-character-entry-icon" not in css_text or "width: 72px" not in css_text:
         fail("assets/css/archive.css: иконки персонажей в каталоге должны быть увеличены")
     if "story-toolbar .volume-strip" not in css_text or "story-toolbar .volume-scroll button" not in css_text:
@@ -480,10 +483,13 @@ def check_generated_css() -> None:
                 fail(f"assets/css/archive.css: осталась старая логика обрезки/грубого переноса кнопок истории: {forbidden}")
 
     responsive_css = (SRC_CSS_DIR / "07-responsive.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "07-responsive.css").exists() else ""
-    if ".story-toolbar .volume-scroll button" not in responsive_css or "min-width: 0" not in responsive_css or "overflow-wrap: break-word" not in responsive_css:
-        fail("src/css/07-responsive.css: на мобильной версии длинный текст чипов разделов должен переноситься внутри чипа без горизонтального скролла")
-    if ".detail-hero" not in responsive_css or "flex-direction: column" not in responsive_css:
-        fail("src/css/07-responsive.css: мобильный detail-hero должен ставить иконку над заголовком, чтобы длинные названия не ломались")
+    if ".story-toolbar .volume-scroll button" not in responsive_css or "min-width: 0" not in responsive_css or "text-wrap: pretty" not in responsive_css:
+        fail("src/css/07-responsive.css: мобильные чипы разделов должны переносить текст внутри чипа без разрыва слов")
+    if ".detail-hero" not in responsive_css or "flex-direction: column" not in responsive_css or "align-items: center" not in responsive_css:
+        fail("src/css/07-responsive.css: мобильный detail-hero должен ставить иконку над заголовком и центрировать шапку")
+    mobile_title_block = re.search(r"\.detail-hero-text h1 \{(?P<body>.*?)\}", responsive_css, re.S)
+    if not mobile_title_block or "overflow-wrap: break-word" in mobile_title_block.group("body") or "hyphens: auto" in mobile_title_block.group("body"):
+        fail("src/css/07-responsive.css: мобильные заголовки не должны переноситься посередине слова")
     if "minmax(280px" not in css_text or "cols-stories-character" not in css_text:
         fail("assets/css/archive.css: колонка элементов историй персонажей должна быть расширена")
 
