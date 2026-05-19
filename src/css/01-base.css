@@ -7,10 +7,18 @@
 
 html,
 body {
+  position: relative;
   width: 100%;
   max-width: 100%;
   min-height: 100%;
   overflow-x: hidden;
+}
+
+@supports (overflow: clip) {
+  html,
+  body {
+    overflow-x: clip;
+  }
 }
 
 body {

@@ -674,6 +674,12 @@ def check_common_enemy_layout_guards() -> None:
         mobile_sidebar = re.search(r"@media \(max-width: 1180px\).*?\.sidebar \{(?P<body>.*?)\}", responsive_text, re.S)
         if not mobile_sidebar or "calc(100vw - 72px)" not in mobile_sidebar.group("body") or "overflow-y: auto" not in mobile_sidebar.group("body"):
             fail("src/css/07-responsive.css: мобильное меню должно оставлять широкую область для закрытия и прокручиваться внутри карточки")
+        if "width: 100vw" in responsive_text:
+            fail("src/css/07-responsive.css: не должен использоваться width: 100vw — на iOS он может создавать горизонтальный скролл")
+        if "calc(100vw - 16px)" in responsive_text:
+            fail("src/css/07-responsive.css: landscape-меню не должно снова занимать почти всю ширину экрана")
+        if "@supports (width: 100dvw)" not in responsive_text or "calc(100dvw - 72px)" not in responsive_text:
+            fail("src/css/07-responsive.css: мобильное меню должно использовать dvw-поправку для поворота экрана")
         if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text:
             fail("src/css/07-responsive.css: мобильная страница каталога должна защищаться от горизонтального скролла")
         if ".search input:focus" not in responsive_text or "inset 0 0 0 2px" not in responsive_text:
@@ -880,6 +886,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: setRoute не должен менять state до hashchange, иначе ломается сохранение скролла")
         if "function resetHorizontalScroll()" not in text or "window.scrollTo(0, currentY)" not in text:
             fail("assets/js/archive.js: случайный горизонтальный скролл каталога должен сбрасываться без потери вертикальной позиции")
+        if "function scheduleViewportCleanup()" not in text or 'window.addEventListener("orientationchange", scheduleViewportCleanup' not in text:
+            fail("assets/js/archive.js: поворот телефона должен сбрасывать сохранённый горизонтальный скролл")
         if "window.scrollTo(0, target.y)" not in text or "catalogScrollPositions.set(currentCatalogScrollKey()" not in text or "x: window.scrollX" in text:
             fail("assets/js/archive.js: сохранение позиции каталога не должно сохранять горизонтальный scrollX")
         if "function openMenu()" not in text or 'document.body.style.position = "fixed"' not in text or 'document.documentElement.classList.add("menu-open")' not in text:

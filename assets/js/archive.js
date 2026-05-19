@@ -2877,6 +2877,8 @@ window.addEventListener("keydown", event => {
 
 const toTopButton = document.getElementById("to-top-button");
 let responsiveFitFrame = 0;
+let viewportCleanupFrame = 0;
+let viewportCleanupTimer = 0;
 
 function scheduleResponsiveFit() {
   if (responsiveFitFrame) return;
@@ -2885,6 +2887,23 @@ function scheduleResponsiveFit() {
     fitItemMaterialTabs();
     fitEnemyDescriptionPanel();
   });
+}
+
+function applyViewportCleanup() {
+  viewportCleanupFrame = 0;
+  resetHorizontalScroll();
+  scheduleResponsiveFit();
+}
+
+function scheduleViewportCleanup() {
+  if (!viewportCleanupFrame) {
+    viewportCleanupFrame = window.requestAnimationFrame(applyViewportCleanup);
+  }
+  window.clearTimeout(viewportCleanupTimer);
+  viewportCleanupTimer = window.setTimeout(() => {
+    resetHorizontalScroll();
+    scheduleResponsiveFit();
+  }, 180);
 }
 
 function updateToTopButton() {
@@ -2901,4 +2920,5 @@ updateToTopButton();
 
 init();
 
-window.addEventListener("resize", scheduleResponsiveFit);
+window.addEventListener("resize", scheduleViewportCleanup, { passive: true });
+window.addEventListener("orientationchange", scheduleViewportCleanup, { passive: true });
