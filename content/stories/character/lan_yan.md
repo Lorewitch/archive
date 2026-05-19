@@ -1,0 +1,422 @@
+# id: lan_yan
+# story_group: character_stories
+# title_ru: Лань Янь
+# title_en: Lan Yan
+# title_zh: 蓝砚
+# region: Ли Юэ
+# element: anemo
+# rarity: 4
+# game_version: 5.3
+# icon: assets/icons/stories/character/lan_yan.webp
+# tags:
+
+## RU
+
+### О персонаже
+
+Когда приходит время украсить свой дом, жители долины Чэньюй могут выбрать не только обычные деревянные кровати и столы с затейливой резьбой. У них также есть прекрасный выбор плетёной мебели из ротанга, искусно изготовленной их мастером.
+Последний вариант отличает оригинальный, современный и элегантный стиль. Жители долины могут быть уверены, что сделали правильный выбор.
+Шелка из гавани Ли Юэ очень красивы, но ткани домашнего окрашивания прочны и долговечны, а их узоры и цвета приятны глазу.
+Однако именно создание великолепных по красоте изделий из серебра и нефрита, пожалуй, наиболее характерно для ремесленников долины Чэньюй, настолько, что владелец ювелирного дома «Минсин» - проверенного временем и уважаемого заведения в гавани Ли Юэ - регулярно посылает своих представителей на поиски товаров.
+Чеканка по серебру, резьба по нефриту, окрашивание тканей, плетение из ротанга и бесчисленное множество других ремёсел - долина Чэньюй прославилась как родина самых выдающихся мастеров в каждой области. Искусные, ловкие, творческие - вот лишь несколько слов, которыми можно их описать.
+Лань Янь - мастер плетения из ротанга и член Ассоциации ремесленников долины Чэньюй.
+Если бродяга заблудится в безмятежной долине между искрящимися горными источниками и древними чайными деревьями и наткнётся на улыбающуюся девушку, покрытую серебряными украшениями, это вполне может быть Лань Янь, собирающая ротанговые лозы.
+Не стесняйтесь спросить у неё дорогу, и она любезно проведёт вас сквозь клубящиеся горные туманы долины Чэньюй и направит к живописной деревушке Цяоин с её белыми кирпичными стенами и серыми черепичными крышами.
+
+### История персонажа 1
+
+Долина Чэньюй издавна считается колыбелью ремесленников: многие мастера оттачивали своё мастерство в живописных окрестностях деревни Цяоин.
+Умельцы поколениями живут и работают вместе, и вполне естественно, что ремесленники деревни решили создать коллектив для защиты своих общих интересов. Они с гордостью называют себя членами Ассоциации ремесленников долины Чэньюй, повсюду поддерживая престиж своего родного края и своего мастерства.
+Члены ассоциации не только помогают друг другу в вопросах ремесла и торговли, но и образуют сплочённую группу соседей и друзей, которые всегда готовы помочь друг другу в хорошие и плохие времена.
+Если вы спросите любого члена ассоциации о плетении из ротанга, то услышите всего одно имя - Лань Янь. Несмотря на юный возраст, она не только превосходно плетёт всевозможные изделия из ротанга, но и разбирается в магическом искусстве Цимэнь.
+Говорят, «мастерство, доведённое до совершенства, порождает искусство, восходящее к сфере божественного». Почтенные мастера верят, что каждый, кто достигнет вершин в своём ремесле, откроет в себе способности, преодолевающие духовную пропасть. Для них Лань Янь, с её видением и восприятием искусства Цимэнь, поистине выдающаяся девушка.
+Но сама Лань Янь так не думает. Когда её осыпают похвалами, она обычно отвечает, слегка смущаясь: «На самом деле меня интересует только плетение из ротанга».
+Однажды торговец из гавани Ли Юэ пришёл с золотыми дарами и хвалебными речами. Он смиренно попросил, чтобы «мастер ротанга Лань Янь» изготовила два предмета мебели для его нового дома.
+Терпеливо ожидая в коридорах Ассоциации, он предполагал, что его встретит серьёзное, даже угрюмое лицо - возможно, умудрённое годами. Но когда вошла Лань Янь, он был потрясён, увидев перед собой юную девушку с ясными глазами и румяным лицом.
+Она радостно поприветствовала каждого члена Ассоциации, в её манерах не было и следа высокомерия. Когда торговец заговорил о своей просьбе, она лишь кивнула, сказав: «Поручите это мне», - как будто это была такая же простая задача, как налить чашку чая. После чего она перекинула корзину через плечо и направилась к холмам, чтобы собрать необходимые материалы.
+Ремесленник, которому было поручено приветствовать гостей Ассоциации, похлопал торговца по плечу. «Лань Янь - простая молодая мастерица, с ней не нужно церемониться. Она согласилась выполнить твою просьбу и приступила к работе. Пойдём, перекусим чем-нибудь, пока ты ждёшь».
+
+### История персонажа 2
+
+По мнению Лань Янь, процесс плетения из ротанга очень прост.
+Первым делом необходимо собрать достаточное количество лозы.
+В покрытых зеленью горах первые лучи утреннего солнца - самые чистые. Когда последние проснувшиеся птицы вторят рассветному хору, Лань Янь отправляется к лесистым склонам с надёжной бамбуковой корзиной и ножом.
+Лианы любят влажную почву, но будут ли они греться на солнце или укроются в тени - вопрос характера и личных предпочтений.
+Разные лозы подходят для плетения различных предметов. Например, для складной ширмы требуется определённая упругость. Лань Янь часто ищет такие лозы в старых лесах, с их высокими вековыми деревьями - чтобы взбираться и цепляться за такие внушительные деревья, требуется прочное строение лозы.
+Для плетёных цветочных корзин, напротив, требуются лианы более гибкие. Такие лианы обычно можно найти у кромки воды, где изнывающие от жажды ротанговые пальмы пускают мириады мягких отростков, покрывающих землю, словно ковёр. Именно такие мягкие лианы можно согнуть, придав им форму корзины, и они не сломаются от напряжения.
+Когда лозы собраны, наступает время вернуться домой и обработать их.
+Древесные сердцевины можно использовать для создания прочного каркаса, а из снятой коры можно сплести материал, похожий на ткань, который придаёт изделиям из ротанга законченную форму. Оба этих материала необходимо предварительно вымыть и высушить.
+Лань Янь любит петь, пока замачивает и разминает лозы, а также когда вытаскивает их из воды, чтобы высушить во дворе. Иногда к ней присоединяются мать и отец, и они разговаривают и смеются, раскладывая их на солнце.
+Когда сердцевина и кора обработаны, наступает время приступить к самой ответственной части - плетению.
+Плетение из ротанга требует особой концентрации - нити основы и волокна, вдоль и поперёк. Из груды сердцевин и полосок коры начинает формироваться идеальный предмет.
+Лань Янь считает плоды своего труда не столько продуктами, сколько живыми существами, с любовью созданными её руками.
+Даже если два её творения могут показаться стороннему наблюдателю абсолютно идентичными, она может отличить их друг от друга по тонким изменениям в прикосновениях и силе, которую она приложила, по порядку плетения или по эмоциям, которые она испытывала во время их создания. Каждое из её ротанговых детищ имеет свой собственный уникальный характер.
+Занимаясь плетением, Лань Янь не отвлекается ни на пустые разговоры, ни на взволнованные крики соседских кошек и собак, ни на изящную ласточку, пролетающую под карнизом. Бывает, что, спасаясь от шума, она уносит работу на знакомый склон горы, чтобы побыть в тишине и спокойно поработать.
+В отличие от её семьи дома, цветы, птицы, рыбы и насекомые в лесу отнюдь не стараются окружить Лань Янь тишиной.
+Самые озорные нарушители спокойствия - маленькие лисята, которые не в силах побороть своё природное любопытство, приходят посмотреть, как работает Лань Янь, тычутся в её кувшины и банки, проливают лак и ненароком замазывают им лапы.
+В панике лисы топчут лапами цветочную корзину, которую так тщательно плетёт Лань Янь, оставляя на ней яркие и блестящие отпечатки лап. Благодаря этому уникальному штриху - чистому и невинному колориту дикой природы - эта цветочная корзина станет одним из любимых творений Лань Янь.
+Именно так выглядит плетение из ротанга - простое, но никогда не надоедающее, и эти моменты - одни из самых заветных и счастливых в жизни Лань Янь, посвятившей свою жизнь ремеслу.
+
+### История персонажа 3
+
+Подобно экзорцистам, обитающим на горе Тяньхэн, клан Лань, увлекающийся искусствами Цимэнь, давно и прочно обосновался в долине Чэньюй.
+В одном из искусств необходимо использовать фигурки из ротанга. Поэтому сами фигурки и навыки их изготовления высоко ценятся в клане Лань. Лань Янь отличает то, что в отличие от остальных членов семьи, которые рассматривают плетение из ротанга как средство достижения цели, она считает его искусством, значение которого намного превосходит эзотерические цели, очаровывающие её родственников.
+Хотя Лань Янь когда-то изучала классические тексты искусств Цимэнь под руководством своих родственников, она лишь поверхностно ознакомилась с ними, и её знания меркнут по сравнению с более опытными практиками. Впрочем, она и не претендует на звание эксперта, но это не мешает любопытным членам Ассоциации просить её провести ритуалы или отвести дурные предзнаменования.
+Лань Янь не знала, что отвечать, когда таких просьб стало слишком много.
+Лань Янь родилась в низшей ветви клана Лань и не соответствует типичному образу геоманта, который ожидает увидеть посторонний человек. Единственный видимый признак её происхождения, серебряное украшение в волосах, «Серебрянокрылая чёрная птица».
+Эта ценная реликвия символизирует связь клана Лань с Восемью Великими - значимыми фигурами в истории Ли Юэ.
+Восемь Великих - это восемь великих героев, которые когда-то сражались с божеством Тао Доу. Из них Серебрянокрылая чёрная птица, Одинокая бабочка багрового огня и Златоглазая серебристая лошадь известны как Три зверя Тао Доу.
+Из оставшихся пяти героев Повелитель Ветра, Малыш Уван и Рыбак Юньлай почитались как три отшельника Гуй цзан. Вместе с двумя мудрецами Ляншань эти пять героев были людьми.
+Серебрянокрылая чёрная птица имела глубокую связь с Повелителем Ветра, который был поистине выдающейся личностью. Именно он первым обучил клан Лань секретам искусства Цимэнь.
+Серебряное украшение, которое Лань Янь носит в волосах, передавалось из поколения в поколение, чтобы потомки клана Лань не забывали о своих истоках.
+Лань Янь хорошо знала историю Восьми Великих и время от времени слушала оперы о клане Лань, но история не произвела на неё сильного впечатления.
+На протяжении всей истории Ли Юэ самоотверженные поступки во благо будущих поколений - или «предшественники сажают деревья, преемники пользуются их тенью», как любят говорить местные жители - были неизменным источником вдохновения. Многие из этих историй затерялись в ветрах времени, другие вошли в коллективное сознание и стали частью народной памяти Ли Юэ.
+Именно благодаря таким историям беззаботные и жизнерадостные юноши и девушки, подобные Лань Янь, могут свободно бродить по диким склонам долины Чэньюй, улыбаться, смеяться и петь народные песни среди великолепия природы.
+
+### История персонажа 4
+
+Каждый год в Праздник морских фонарей у Департамента по делам граждан гавани Ли Юэ очень много работы: улицы заполнены, повсюду проходят представления... Для подготовки к празднику требуется самая разная помощь.
+Служащие настолько заняты, что рассылают приглашения с просьбой о помощи во все концы света. Они ищут талантливых людей, готовых помочь в проведении самого важного праздника в году.
+В предыдущие годы Ассоциация ремесленников долины Чэньюй уже оказывала такую помощь, а в этом году Департамент по делам граждан пригласил Лань Янь.
+Лань Янь, выросшая в долине Чэньюй, редко покидала горы, лишь изредка сопровождая дедушку в поездках. Строго говоря, это было её первое далёкое путешествие.
+Подобно многим гостям, которые приезжали в долину Чэньюй в поисках ремесленников, Департамент по делам граждан был удивлён, обнаружив, что приглашённый ими мастер - юная девушка.
+Молодая мастерица вежливо отказалась от еды и жилья, предложенных Департаментом по делам граждан, и сказала: «Я впервые приехала в Ли Юэ, так далеко от дома и в одиночку. Позвольте мне немного осмотреться». Затем она отправилась гулять по улицам Ли Юэ, где общалась с самыми разными людьми.
+Первый раз она ела в ресторане «Народный выбор», где выпила большую чашку воды, потому что рыба была очень острой.
+В первую ночь после приезда она провела много времени, гуляя по горе Тигра, и уснула под звуки гавани Ли Юэ.
+Первым незнакомцем, с которым она заговорила, был солдат, возвращавшийся из Разлома. Лань Янь заблудилась, и он указал ей дорогу, а когда узнал, что она из долины Чэньюй, то рассказал ей о красных горах Разлома и сыграл величественную и трогательную мелодию.
+«Мир огромен», - подумала она.
+В одном только Ли Юэ так много разных пейзажей и людей: вода в долине Чэньюй красива и прозрачна, что, безусловно, является прекрасным пейзажем; улицы гавани Ли Юэ пестры и ярки круглый год; небо и горы Разлома широки и открыты, что ещё больше завораживает. Нет нужды говорить о том, что за пределами Ли Юэ есть большой мир...
+Впервые в жизни она от всего сердца пожелала увидеть больше пейзажей и вплести их в своё сердце с помощью ротанговых лоз, растущих в долине Чэньюй.
+
+### История персонажа 5
+
+Лань Янь всегда выглядит жизнерадостной, и даже лучшие друзья редко видят, как она хмурится или проливает слезу.
+Конечно, иногда у неё бывает плохое настроение, но такие моменты случаются редко. Нужно лишь немного поиграть с ягнятами и щенками, чтобы всё поправить. Вот своенравный ягнёнок подталкивает её ногой, а вот пушистый щенок с молочными зубами пытается укусить её за руку - и всё, что грузом лежит на сердце, испаряется.
+Величайшая мудрость Лань Янь заключается в следующем: если постоянно думать о несчастьях, то теряешь время, которое лучше потратить на овечек, щенков, котят, ласточек, лисиц и белок!
+Небольшая прогулка по чайным полям и короткие игры с животными обычно помогают ей обрести покой.
+Но бывают моменты, когда невозможно успокоиться, несмотря ни на что, и тогда единственное, что может помочь, - это поплавать среди дикой природы.
+Она плавала во всех больших и малых водоёмах за пределами деревни Цяоин на восточном склоне горы Линмэн, каждая волна касалась её руки, каждый источник отражал её лицо.
+Её тёмные волосы расплывались в прозрачной воде, рыбы касались её босых ног, лёгкое течение обмеряло её талию, а солнечные лучи отбрасывали струящуюся тень.
+Ей снились зелёные сны, в которых она жила обычной жизнью.
+Она встаёт рано утром, выпивает чашку чая, поёт, собирая свой бамбуковый плот, а дом, в котором она живёт, по-прежнему выложен белой и серой черепицей. Во сне она по-прежнему плетёт из ротанга, а к ней подбегает собачка и лижет ей руку, после чего она просыпается.
+Лань Янь - дитя долины Чэньюй, а дети долины Чэньюй просты и чисты в своих мыслях, как и здешний пейзаж.
+Ей не на что жаловаться в жизни, и поэтому ей больше не о чем мечтать.
+Свет вдалеке притягивает её, как порхающие бабочки, привлекают лесных оленей. И даже если олени из любопытства ненадолго покидают травянистый склон и бродят вокруг, то всё равно возвращаются на свой склон, чтобы пастись.
+Куда бы ни отправилась Лань Янь, вскоре она возвращается в долину Чэньюй.
+Даже самый прекрасный сон не сравнится с ароматом чая, даже самая далёкая мечта не будет более манящей, чем покрытая туманом гора Сюаньлянь, так что просыпаться не жаль.
+Высушив волосы у кромки воды, Лань Янь надевает одежду и серебряные браслеты на запястья, серебряную ленту на ногу, серебряное ожерелье на шею и вставляет серебряные серьги в уши. Пора возвращаться домой.
+Все эти серебряные украшения - подарок семьи, и всякий раз, когда она движется, слышен чистый звон, словно проникновенная песня гор. Куда бы она ни пошла, эта песня повсюду следует за ней.
+Дедушка не раз говорил ей, что купаться в дикой местности опасно, и, если об этом станет известно, то её отругают. Поэтому Лань Янь решила, что в следующий раз лучше пойти с друзьями.
+Но это в другой раз, а сегодня на ужин копчённые в чайных листьях голуби.
+
+### «Песня ласточки»
+
+«Когда наступает весна, ласточки строят гнезда, но, когда гремит гром и сверкают молнии, они прячутся в моём доме».
+«Я стою перед призрачными воротами и не успеваю уйти далеко. Птицы спасают мне жизнь и влетают внутрь».
+Это одно из многих старых поверий, о которых вам поведала Лань Янь. В нём говорится, что люди должны быть добрыми к ласточкам, и тогда, возможно, в последние минуты их жизни ласточки будут летать перед перевалом Тао Доу, чтобы принять их страдания на себя. А ещё дедушка говорил ей, что если люди не будут хорошо относиться к ласточкам, то их ждёт смерть.
+Смысл быть добрым и защищать живое вполне понятен, но утверждение, что можно погибнуть из-за малейшей ошибки, кажется несколько преувеличенным.
+Многие старые суеверия так же необъяснимы, как смена хорошей и плохой погоды. Например, нельзя стричь ногти на ночь, нельзя класть палочки горизонтально на миску и нельзя давать маленьким детям первую чашку чая в сезон сбора чая.
+Хотя защита ласточек - широко распространённое суеверие среди жителей долины Чэньюй, большинство молодых людей считают, что это всего лишь детский стишок, который напевают, дразня маленьких детей.
+Только клан Лань строго соблюдает неписаное правило защиты ласточек, и всякий раз, когда новая ласточка прилетает строить гнездо, никому не разрешается её прогонять.
+«Иногда это очень утомительно, но после того я подружусь с ласточками, они запрыгивают мне на плечи и составляют компанию, пока я плету из ротанга».
+Когда она говорила это, вы были на бамбуковом плоту в Нефритовом жерле. Бо Су, как обычно, пел свою морскую песенку, дул ласковый ветер, а на корме спали пеликаны.
+Серебряная ласточка в её чёрных волосах сверкала на солнце так же ярко, как и её глаза.
+Может быть, традиция клана Лань оберегать ласточек имеет отношение к связи их предков со Серебрянокрылой чёрной птицей? Глядя на эту ласточку, вы не можете не почувствовать эту связь, и ваши мысли уносятся в те давние времена.
+Она замечает, что вы задумались, и подходит ближе.
+Вы будто просыпаетесь от сна. Открыв глаза, вы видите её улыбчивые глаза. Причал уже близко. Бамбуковый плот скоро причалит к берегу.
+
+### Глаз Бога
+
+Как и любое другое ремесло, плетение из ротанга требует больше физической работы, чем умственной.
+Каждый раз после того, как форма была задана, Лань Янь остаётся только погрузиться в себя и тщательно переплетать вертикальные и горизонтальные лозы. После долгой практики навыки и техника плетения не только отложились в голове, но и закрепились в «памяти» рук.
+Её мысли проясняются и очищаются.
+Лань Янь - мастер плетения из ротанга, у неё никогда не было грандиозных планов, таких как дотянуться до солнца и луны. И разумеется, она не похожа на одарённых мастеров единоборств из романов о боевых искусствах, которые живут в уединённом месте.
+Её жизнь проста и естественна.
+Когда она плетёт из ротанга, её руки следуют за воспоминаниями о каждом прошедшем дне и искусно создают тонкие узоры и формы.
+Но мысли её не дремлют: она думает о тумане в горах, о лианах, карабкающихся по склонам скал, и об опавших листьях, мягких на ощупь, когда по ним ступают босые ноги.
+Она думает о долине Чэньюй, о доме среди горных пейзажей, и лозы становятся мягкими.
+Она надеется сплести прекрасные вещи своими руками, надеется, что эти воспоминания навсегда останутся в её работах, возможно, потому что сердце полно нежности и доброты, сосуды Лань Янь всегда отличаются простотой и теплотой.
+В такое время к ней особенно охотно подходят кошки и собаки, а также птицы и белки, обитающие в долине.
+«Даже небожителям, наверное, нравится смотреть, как наша Лань Янь плетёт из ротанга», - с гордостью хвалит её дедушка.
+Никто не знает, действительно ли боги когда-либо останавливались, чтобы посмотреть, как Лань Янь плетёт из ротанга, но сама она верит, что боги, которые готовы использовать свою божественную силу, чтобы защитить этот прекрасный пейзаж, позволить людям жить в мире и работать в счастье, обязательно оценят работы, сплетённые людьми с большой преданностью, и увидят в них возвышенный смысл.
+Поэтому, когда в ротанговой сумке, которую она всегда носит с собой, появился сверкающий Глаз Бога, она ничуть не удивилась, а достала его и с радостью отправилась собирать ротанг.
+
+## EN
+
+### Character Details
+
+When it comes time for the residents of Chenyu Vale to spruce up their homes, there is more than just the usual panoply of intricately carved wooden beds and tables on offer. They also have a fine selection of wickerwork furnishings to choose from — delicately crafted by their own master rattan weaver.
+This latter option provides a distinctive, refreshing, and elegant style and is something the Vale's residents know they can always rely on as a safe choice.
+While fine silk garments imported from Liyue Harbor have an undeniable allure, cloth dyed locally is both durable and functional, and exhibits patterns and colors that exude a familiar charm.
+Yet it is the crafting of silver and jade into objects of great beauty for which Chenyu Vale's artisans are perhaps best known, so much so that the owner of Mingxing Jewelry — a time-honored and respected establishment in Liyue Harbor — regularly dispatches representatives to come looking for wares.
+Silver-smithing, jade-carving, cloth-dying, rattan-weaving, and countless other crafts — Chenyu Vale is famed as the home of the most outstanding and accomplished artisans in each field. Skilled, dextrous, and creative are but a few words that could be used to describe them.
+Lan Yan is a master rattan weaver and a Chenyu Vale Artisans Association member.
+Should a wandering traveler get lost in the tranquil valley, betwixt sparkling mountain springs and gnarled and ancient tea trees, and there stumble upon a smiling young woman, adorned in silver ornaments, it might well be Lan Yan, out collecting rattan vines.
+Feel free to ask her for directions, for she will kindly guide you through the swirling mountain mists of Chenyu Vale and set you on the path to the picturesque hamlet of Qiaoying Village, with its white brick walls and gray tiled roofs.
+
+### Character Story 1
+
+Chenyu Vale has long been praised as a cradle of artisans, with many a master craftsperson honing their skills in the picturesque surroundings of Qiaoying Village.
+With generations of artisans living and working together, the village tradespeople naturally chose to form a collective to protect their shared interests. Now, they proudly announce themselves as members of the Chenyu Vale Artisans Association, spreading prestige for their hometown and their skills everywhere they go.
+Members of the association not only look out for each other in crafting and trade, but they form a close-knit, neighborly group who are always there for each other in good times and in bad.
+Ask any member of the association about rattan weaving, and one name above all you would hear — Lan Yan. Despite her youth, she excels at weaving all manner of rattan goods while also having a grasp on the arcane Qimen arts.
+It is said that "skills honed to the highest pinnacle produce art that touches the divine realm." The venerable masters believe that anyone who reaches the apex of their craft will uncover abilities that cut through the spiritual divide. To them, Lan Yan — with her Vision and attunement to the Qimen arts — is a truly remarkable young woman.
+As for Lan Yan herself, well, she's having none of it. When others shower her with praise, this is her usual, slightly abashed retort: "I'm really only interested in rattan weaving."
+A merchant from Liyue Harbor once came bearing gifts of gold and words of praise. He humbly requested that "Lan Yan the Master Rattan Weaver" produce two pieces of furniture for his new home.
+While waiting patiently in the association's halls, he had expected to be greeted by a serious, even taciturn face — one perhaps wizened by age. Yet when Lan Yan entered, he was shocked to discover a bright-eyed, fresh-faced young woman.
+Her joy and exuberance were evident as she greeted all those present with glee. There was no hint of arrogance in her demeanor. When the merchant told her of his request, she simply nodded and said, "Leave it to me!" as though her craft was as simple as pouring a cup of tea. With that, she shouldered her basket and headed out into the hills to pick the necessary vines.
+The artisan tasked with greeting the association's guests patted the merchant on the shoulder. "Lan Yan's a straightforward young craftswoman, there's no need to stand on ceremony with her. She agreed to your request, so, the way she sees it, why not get started? Come on, let's go and get something to snack on while you wait."
+
+### Character Story 2
+
+To Lan Yan's mind, the process of weaving rattan goods is a simple one.
+The first step is to gather enough vines.
+In the verdant mountains, the first rays of the morning sun are the purest, and as the last birds to rise lend their voices to the dawn chorus, Lan Yan sets off towards the wooded slopes with her trusty bamboo basket and pruning knife in hand.
+The vines like to grow where the soil is moist, though whether they prefer to bask in the sunlight or take shelter in the shade appears to be a matter of temperament and personal preference.
+Different vines are suited to the weaving of different objects. A folding screen, for example, requires a certain stubborn resilience. Lan Yan often looks for such vines in old-growth forests, with their ancient trees towering high overhead — to climb and cling on to such imposing trees requires a more rugged constitution.
+In contrast, a woven flower basket calls for vines of a more supple nature. These vines are often found by the water's edge, where the thirsty rattan palms send out myriad soft offshoots that cover the ground like a carpet. Such soft vines can be bent to form the shape of a basket without snapping.
+Once enough vines have been collected, it is time to return home and process them.
+The woody cores can be used to shape and weave a solid frame, while the skin, once peeled away, can be woven into a fabric-like material that helps give rattan goods their finished shape. Both of these materials must first be washed and dried.
+Lan Yan likes to sing while she soaks and stirs the rattan strips — and as she pulls them out of the water, one by one, to dry them in the courtyard. Sometimes her mother and father will join her, and they will talk and laugh while they lay the strips out in the sun.
+Once the cores and skins have been processed, then comes the most crucial part of the process — weaving.
+Rattan weaving requires significant concentration — warp and weft, along and across. From a pile of cores and strips of skin, a perfectly sculpted object begins to take shape.
+Lan Yan views the fruits of her labor not so much as products, but as living entities, lovingly birthed by her hands.
+Even if two of her creations might appear indistinguishable to an outside observer, she can tell them apart by the subtle changes in touch and force applied, the order of her weaving, or the emotions she felt while she made them. Each of her rattan children has its unique feel.
+While weaving, Lan Yan maintains a singular focus on her task. She is not easily distracted by idle chatter, nor the excited cries of her neighbors' cats and dogs, nor graceful swallows swooping beneath the eaves. There are times — perhaps to escape the noise — when she will take her work to a familiar mountainside to sit in silence and weave.
+Unlike her family at home, the flowers, birds, fish, and insects that roam freely in the forested hills feel no need to leave a quiet space for Lan Yan to weave in.
+The most mischievous offenders are the little foxes, who, indulging their natural curiosity, come to watch Lan Yan as she works, nudging and sniffing at her jugs and jars, spilling her varnish and inadvertently waterproofing their paws.
+The panicked foxes then trample on the flower basket she has been weaving, leaving shiny paw prints in their wake. Thanks to this unique touch — the innocence of the wilderness — this basket will become one of Lan Yan's favorite creations.
+That is how rattan weaving is — simple yet never boring, and this experience is one of Lan Yan's most cherished and happiest moments in a life spent devoted to her craft.
+
+### Character Story 3
+
+Much like the exorcists who dwell on Mt. Tianheng, the Lan clan, with their affinity for the Qimen arts, have long made Chenyu Vale their home.
+One such art requires the use of rattan figures. As a result, such figures — and the skills to make them — are something the Lan clan values highly. What sets Lan Yan apart, is that unlike the rest of her family, who view rattan weaving as a means to an end, she views it as an art in itself, one whose importance far outstrips the arcane and esoteric purposes that fascinate her kin.
+Though Lan Yan once studied the classic texts of the Qimen arts under the tutelage of her relatives, she did little more than scratch the surface, and her knowledge pales before experienced practitioners. Then again, she does not claim to be an expert, though that doesn't stop curious members of the association from asking her to perform rituals or ward off ill omens.
+After receiving too many such requests, Lan Yan can only sigh.
+Born into a branch of the Lan clan, Lan Yan does not conform to the typical image of a geomancer that an outsider might have. The only visible sign of her heritage is her silver hair ornament, modeled after the "Jade-Plumed Silverwing."
+This heirloom symbolizes the Lan clan's connections to the "Eight Adepts" — significant figures in Liyue's history.
+The term refers to eight great heroes who once fought against the god Tao Dou. Of these eight heroes, the Jade-Plumed Silverwing, Lone Butterfly of the Crimson Flame, and Gold-Eyed Celadon Mare are known as the Three Beasts of Tao Dou.
+Of the remaining five, Wind Reader, the Wuwang Kid, and the Yunlai Angler were honored as the Three Hermits of Guizang. They and the Two Sages of Lianshan were all human.
+The Jade-Plumed Silverwing had a deep connection with Wind Reader, who was a truly remarkable individual. It was he who first taught the Lan clan the secrets of the Qimen arts.
+The silver ornament that Lan Yan now wears in her hair has been passed down from generation to generation so that the descendants of the Lan clan never forget where they came from.
+Lan Yan knows the story of the Eight Adepts well and regularly makes trips to watch Liyue opera performances that tell of their exploits. Despite this, their story never left a strong impression on her.
+Throughout Liyue's long history, selfless acts for the benefit of future generations — or "planting trees for the children of tomorrow," as the locals like to say — have been a recurring motif. Many such tales have already been lost to the winds of time, while others have entered the collective psyche and become part of Liyue's living folk memory.
+And because such stories exist, carefree, exuberant young men and women like Lan Yan are free to roam the wild slopes of Chenyu Vale, smiling and laughing and singing folk songs amidst nature's beauty.
+
+### Character Story 4
+
+Whenever Lantern Rite rolls along, the Ministry of Civil Affairs in Liyue Harbor is especially busy organizing street fairs, performances, and all sorts of other festive activities.
+Ministry officials — often rushed off their feet — can be seen dashing hither and thither, attempting to enlist the most capable members of Liyue society to contribute toward the most important festival of the year.
+In previous years, the Chenyu Vale Artisans Association has always been happy to send their representatives to help. This year, the Ministry of Civil Affairs asked specifically for Lan Yan.
+For Lan Yan, who grew up in the leafy confines of the vale, rarely venturing beyond its verdant slopes except to accompany her grandfather on his travels, this was her first real journey to the city.
+Like so many customers who have traveled to Chenyu Vale to seek the services of the famed rattan weaving master, those at the Ministry of Civil Affairs were shocked to discover that the master artisan whose help they sought was a fresh-faced, unimposing young woman.
+The young artisan politely rejected the food and lodging the ministry offered, preferring to wander the city streets by herself, conversing with visitors and citizens alike — to use her own words, "This is my first time coming as far as Liyue Harbor, I'd like to find my own way around."
+She ate her first meal in the Wanmin Restaurant, where she was taken unawares by the spicy boiled fish, and was left gulping down water to cool the fires on her tongue.
+She then spent much of her first evening wandering Chihu Rock, before Liyue Harbor's nighttime soundscape soothed her to sleep.
+Her first conversation was with a soldier returning home from a posting to the Chasm. The soldier helped a lost Lan Yan find her bearings and, upon hearing she had come from Chenyu Vale, told her at length of the red mountains of the Chasm and played her a melodious tune.
+"The world truly is a large place," she thought.
+Liyue itself is already home to many people and places, each unique in their own way. The waters of Chenyu Vale sport gentle beauty and natural charm, the clamorous streets of Liyue Harbor burst with bustling color, and the stark landscapes of the Chasm are vast and imposing. And outside Liyue... an even larger world awaits.
+For the first time in her life, Lan Yan desired to see more of the world, to use the rattan strands of her hometown to weave the scenes she might see there to become one with her own heart.
+
+### Character Story 5
+
+It is rare to see Lan Yan without a smile on her face, and even her best friends would be hard-pressed to recall a time they've seen her cry.
+Of course, she too has moments of unhappiness, though they are few and far between. Whenever she feels sad, all she needs to do is allow a mischievous lamb to butt its head against her leg or a fluffy puppy to nip her hand, and her worries melt away like morning snow.
+As far as Lan Yan is concerned, every second spent thinking unhappy thoughts is time that could be better devoted to playing happily with the beasts of the fields and forests.
+Most of the time, an afternoon whiled away among the tea trees with her animal friends is enough to dispel unpleasant feelings.
+However, there are times when more drastic action is required — such as letting her cares wash away while swimming in the wilds.
+There isn't a pool or waterway between Qiaoying Village and Mt. Lingmeng that Lan Yan hasn't swum in, nor a crisp mountain spring that hasn't filled her cupped hands or reflected her face.
+She reclines in the water, the gentle current keeping her afloat, as her black hair swirls on the surface and tiny fish nibble playfully at her feet. All the while, warm rays of sunlight cast dappled shadows on the streambed below.
+Here she daydreams in viridian and emerald hues of a life much the same as hers.
+She wakes at dawn in such dreams, in a house with white brick walls and a gray tiled roof. There she drinks a cup of morning tea, before punting a bamboo raft down the stream outside, singing all the while. In her dream, too, she weaves rattan objects, as a tiny dog bounds over to her side and licks her hand. And with that, she awakens.
+Like every son and daughter of Chenyu Vale, Lan Yan is as simple and pure as a clear mountain spring.
+She has everything she wants and so doesn't dwell on dreams.
+The bright lights and exotic sights of the world outside are no more attractive to her than a butterfly to a deer. Sure, a curious deer may leave its verdant slopes to gaze upon a passing butterfly, but it will soon return to whence it came to happily graze once more.
+Wherever Lan Yan's travels may take her, it is never long before she returns home to Chenyu Vale.
+Even the most wonderful dreams cannot compare to the scent of freshly roasted tea leaves, just as even the most distant fantasies cannot compete with the beauty of the swirling mountain mists that wreath Mt. Xuanlian.
+After wringing out her hair by the water's edge and getting back into her dry clothes, Lan Yan carefully dons each of her silver bracelets, earrings, and necklace. It is time for her to return home.
+The silver ornamentations that adorn her are gifts from her family, and they chime and jingle as she walks, playing a melodious mountain tune. Wherever she goes, she is accompanied by joyful music.
+Swimming in the wilds is not without its dangers, and she has been reprimanded by her grandfather on more than one occasion. There would surely be more stern words if she were to be caught again today. Next time, she muses, it might be better to take a friend.
+But that's a matter for another day. Tonight, there is Tea-Smoked Squab on the menu.
+
+### Song of Swallows
+
+"Swallows nest when skies are fair, but hide when storms are in the air."
+"When death is near and all hopes fade, the swallow comes, a life to trade."
+This is one of the many superstitions that Lan Yan has told you of. She warned you to treat swallows with care, for when our final moments approach, a swallow may well appear before the gates of Tao Dou to take your place in death. To hear her tell it, her grandfather also claimed that swallows could bring about an early demise if treated unkindly.
+It's easy to get on board with the message preaching kindness and the sanctity of life, but the part about dying if you're not quite nice enough seems a little extreme.
+Many such old superstitions are as unfathomable to people today as rain that falls from a cloudless sky — ideas such as "fingernails shouldn't be cut at night," "chopsticks mustn't be laid horizontally on bowls," or "a new season's first picking of tea cannot be drunk by children."
+In truth, even though kindness to swallows is a widely practiced folk tradition in Chenyu Vale, to most youths, the idea is nothing more than a nursery rhyme, sung to them as infants.
+Only the Lan family upholds this tradition with the rigor of an unwritten rule — any swallow that builds its nest beneath their eaves is welcome to stay for as long as it may please.
+"They can be bothersome at times, but once the swallows get to know me, they like to hop up on my shoulder and keep me company while I weave."
+When she told you this, you were with her in Jademouth, riding Uncle Bosu's bamboo raft. The old man's singing was accompanied by a gentle breeze, while a pelican lay fast asleep in the back of the boat.
+The silver swallow in her hair glinted brightly in the sunlight, as warm and lustrous as her eyes.
+Gazing at that ornament, you couldn't help but wonder if the Lan family's tradition of caring for swallows might stem from their history with the Jade-Plumed Silverwing, and your thoughts turned to the stories of those ancient days.
+Seeing the glazed expression in your eyes, Lan Yan leaned in and gently tweaked your nose.
+As though waking from a dream, you were greeted by her smiling face, and not far in the distance, the sights and sounds of the docks told you that your journey was almost at an end.
+
+### Vision
+
+Much like all handicrafts, rattan weaving is a skill that relies more on the body than the mind.
+Once a frame has been crafted and the overall shape of an object set, Lan Yan must use the utmost care to weave each warp and every weft. After years of practice, the skills and movements of her craft have not only been burned into her brain but become second nature and muscle memory.
+On a deeper level, this process has also gradually refined and clarified her spirit.
+Lan Yan is a master rattan weaver. She has never been given over to grandiose dreams of chasing the moon and the stars, nor of forsaking all that she has and living her life as a hermit on some distant mountain.
+Her life is a simple one, natural and unadorned.
+As she weaves, her hands honor the memories of days past, retracing their steps to expertly craft delicate patterns and shapes.
+All the while, her heart does not lie idle, for she is thinking of the mountain mists, the vines that climb the cliffs and crags, and the sensation of freshly fallen leaves beneath her bare and carefree feet.
+She thinks of Chenyu Vale — of her family amidst the mountains and rivers — and the rattan in her hands becomes supple and pliable to her will.
+She dreams of weaving these beautiful things with her own two hands so that her memories can live forever in the objects she creates. Perhaps because her heart is filled with warmth and kindness, the objects that Lan Yan crafts exude a simple, gentle spirit.
+Perhaps that's also why the cats, dogs, birds, and squirrels of Chenyu Vale are never scared to approach her.
+"Even the adepti come to watch Lan Yan weave." Her grandfather had once proudly claimed.
+No one could know for sure if the adepti had ever truly stopped in passing to watch Lan Yan perform her craft. Lan Yan herself believes that beings who would pour their power into protecting the waters and mountains of the vale, and all those who dwelt there, would surely have an appreciation for handicrafts so lovingly created and imbued with the spirit of their creator.
+So when she discovered a Vision glinting softly at the bottom of her rattan basket, she was not surprised. She simply picked it up and continued on her way, gathering rattan vines.
+
+## ZH
+
+### 角色详细
+
+在沉玉谷，每当居民们需要置办家私时，除了精雕细刻的木桌木床之外，还可以选择本地藤编师制作的藤制家具。
+后者格调清新雅致，不失为一种好选择。
+璃月港舶来的绫罗绸缎固然美丽，不过自家染出的布结实耐用，纹样与颜色瞧着也亲切。
+打银与雕玉更是沉玉谷手工艺师傅们的强项，璃月港珠宝老字号「明星斋」时不时便会遣人来看货。
+藤编、染布、打银、雕玉，还有许多其他技艺，这些领域最杰出的手工艺师傅都来自沉玉谷，心灵手巧是对他们最好的形容。
+蓝砚就是沉玉谷手工艺工会中的一位藤编师。
+在幽静的山谷中，碧水与古茶树之间，迷路的游人若是遇到了一位满身佩银的爱笑姑娘，那或许就是外出采藤的蓝砚。
+请放心向她问路吧，热情的她会带你走出沉玉谷迷蒙的山雾，进入白砖灰瓦的秀丽小镇翘英庄。
+
+### 角色故事1
+
+沉玉谷素来人杰地灵，当地小镇翘英庄培养出的优秀手工艺师傅实在太多。
+众人长期共同生活、做活，最终便商议组成工会，以保证集体利益，凡事先报上沉玉谷手工艺工会的名头，以传扬家乡的名声。
+工会中的成员们不仅会在工作中彼此照应，平日也是逢事一呼百应的好邻居。
+在大家口中，要论藤编这一门技术，数遍全工会，最厉害的无疑是蓝砚。因为她虽年纪轻，却既擅长编制藤器，又懂得奇门术法。
+所谓「技进乎道，艺可通神」，老师傅们认为能把任何一门技术钻研到极致的人，就领悟到了通神的本事。故而，拥有神之眼、且略通奇门术法的蓝砚在他们眼中便是一个了不起的年轻人。
+不过蓝砚自己并不这么觉得，「我只是很喜欢编藤这件事啦」，被大家换着法子夸的时候，略微有些不好意思的蓝砚笑着如此解释道。
+曾经有商人从璃月港慕名而来，备好礼金，以极低的姿态来请「藤编大师蓝砚」为他的新居准备两件藤制家具。
+对方在工会等待时，原以为自己会见到一位不苟言笑的古板人物，但等到蓝砚推开工会大门，却只见一位眼眸明亮的亲切女孩。
+她高高兴兴地和工会里的每个人打了招呼，并未流露出任何倨傲的态度。聊到商人想要的藤器时，点点头讲了句「好哦你放心」，态度平常得像是要去倒一杯茶，便背起筐进山采藤去了。
+管事的师傅拍拍商人的肩膀，「我们蓝砚是个简单的姑娘，不用那些麻烦的礼节，说了能做就是能做。走吧，去吃点茶酥等一等。」
+
+### 角色故事2
+
+蓝砚觉得编藤的工序并不复杂。
+首先她需要采集足够数量的藤枝。
+清晨山中的阳光最纯净，一些晚起的鸟儿会在太阳完全升起后才开始歌唱，蓝砚往往会在这时候带着竹筐和砍刀，进山采藤。
+藤类喜好在湿润的环境中生长，有些藤喜阳，有些藤耐阴，就像人的脾气一样千奇百怪。
+不同的藤适合用来编不同的器皿。编屏风用的藤需要硬挺一些，蓝砚会去古老的树林中寻找，那里的树木长得高大，攀附在树木上的藤也生得更有骨气。
+编花篮得藤需要柔软一些，蓝砚会去水边寻找，那里的藤会伸出无数柔软的枝桠，在地面上铺展开薄薄一层网，这种藤枝条柔韧，易弯不折。
+采集完毕后就该回家处理藤枝了。
+藤芯和去了皮的藤枝用来塑形，藤皮编出的块面用来维形，都得先洗后晒。
+蓝砚喜欢边唱歌边搅和大缸里的藤条，再把它们一把把捞出来，铺在院子里干燥的地上。有时候蓝砚的爸爸妈妈也会来帮忙，一边聊些家常一边帮忙晒藤。这个步骤中的笑声最多，也最简单。
+初步处理好藤枝与藤皮之后，来到了最重要的编织步骤。
+编藤是一个需要高度集中的步骤，在一经一纬、一横一竖的织造中，一个本无骨骼、也不具形貌的器皿在她的手下诞生。
+蓝砚并不仅仅把它们当作自己的作品，而是从自己手下诞生的新生命。
+即便它们形制完全相同，外人眼中根本看不出区别，但她自己知道，在编织时她下手轻重不同，先编了某一面后编了另一面，编这一只腰包时心里欢欣，编那一只时心里沉静，都会使这些新生命有不同的气质。
+这时候的蓝砚不常与家人闲聊，只是专心编藤，邻居家来串门的猫儿、狗儿还有过路的燕子都无法让她分心。偶尔她也会带上工具与原料，去自己熟悉的山头上安安静静坐着编藤。
+山上的花鸟鱼虫自由得很，并不会像她的家人一样自觉给蓝砚留出安静的空间。
+最调皮的是小狐狸，经常有那么几只好奇的狐狸过来瞧蓝砚做活，小狐狸们到处嗅探、用爪子推搡她带上山的瓶瓶罐罐，弄得蓝砚带来的清漆被洒得到处都是，本来这些漆是要被刷到器皿上用以防水的，现在它们全都被沾到了小狐狸们的爪子上了。
+被吓坏的小狐狸们惊恐地把爪子按到了她刚编好的花篮上，给花篮表面留下了几个亮晶晶的爪印，反而显得野趣盎然，后来成为了蓝砚最喜欢的作品之一。
+编藤就是这样一件简单有趣的事，也是蓝砚至今的生命中最快乐的事之一。
+
+### 角色故事3
+
+和以天衡山为道场的方士类似，擅长使用奇门术法的蓝氏一族常居沉玉谷。
+术法中有一门需要利用藤人施术，因此族中向来重视编藤这门技艺。当然，重视术法的宗家藤编师们只把编藤当作手段，而蓝砚则不同，编藤这件事本身就是她的目的，术法反而只是她学着玩的小小游戏。
+虽然幼年曾经跟随宗家亲戚背诵过术法经典，但蓝砚对奇门的了解还只停留在浅层，达不到与资深修行者匹敌的水准。她自己也不以术士自居，只是工会里总有好奇的师傅来问她，能不能帮忙做点法事除晦气、驱小人。
+被问太多次之后，蓝砚也很无奈。
+分家出身的蓝砚并不符合外界想象中掌握阴阳秘术的蓝家人形象，她身上唯一象征蓝氏身份的是发间那件银饰——「银翎翦玉玄鸟」。
+这是她们这一脉珍藏的宝物，象征了蓝氏族人与璃月历史人物「八奇」之间的关联。
+所谓「八奇」，是指曾与魔神桃都作战的八位英雄，其中银翎翦玉玄鸟、朱赤引火幽蝶、金目乘黄月驹三位共称「桃都三怪」。
+万象风角灵官、无妄童子、云来钓叟被誉为「归藏三隐」，另有连山二贤，这五人均是肉体凡胎。
+八奇中的「银翎翦玉玄鸟」与「万象风角灵官」之间颇有渊源，后者亦是妙人，所有蓝氏一门的术法都从他手中传下的。
+这件银饰正是先辈们为提醒所有蓝姓后人他们从何而来留下的。
+蓝砚十分熟悉八奇掌故，以此为蓝本的璃月戏她也时常去听，不过这个故事在她心中的印象并不沉重。
+前人为后人栽树的事在璃月历史上一再发生，很多故事已随时光消散于风中，余下的则融入了后人的生活，变成乡土记忆的一部分。
+正因有这样的故事存在，像蓝砚这样欢欣灵动的年轻人才能在沉玉谷秀丽的山野中歌唱。
+
+### 角色故事4
+
+每逢海灯节，璃月港的总务司都会变得异常忙碌，街会、演出…种种节庆准备需人协助。
+忙得团团转的官员们不得不向各方发出邀请，寻觅璃月各地的能人来为这一年中最重要的节日出些力气。
+往年，沉玉谷手工艺工会也曾出人帮忙，今年，总务司邀请的是蓝砚。
+自小在沉玉谷长大的蓝砚不常出山，少有的几次远行也都是同爷爷一道，这次是她严格意义上的第一次远行。
+和许多慕名前往沉玉谷请藤编师制作家私的客人一样，总务司的雇员们惊讶地发现他们要接洽的大师居然是一个俏丽的小姑娘。
+年轻的大师婉拒了总务司提供的食宿，按她的说法「我第一次自己来璃月港这么远的地方，许我自己转转吧」，在璃月港的街头四处闲逛，和各种各样的人自由攀谈。
+她的第一顿饭在万民堂，被水煮鱼辣得喝了一大碗水。
+她落脚之后的第一晚，在吃虎岩逛了许久，璃月港夜间的市声伴她入眠。
+她第一个搭话的陌生人是从层岩巨渊回乡换岗的士兵，对方帮迷路的她搞清了方向，听说她从沉玉谷来之后，和她聊起了层岩巨渊红色的山峦，并为她拉奏了一曲磅礴悠扬的琴歌。
+「世界真大啊」，她这样想道。
+仅仅是璃月，就有那么多不同的风土与人情：沉玉谷的水俊秀柔美，当然是好风光；璃月港的街景五光十色，一年到头，几乎没有黯淡的时候；层岩巨渊的天与山豁达广袤，更令人遐想。不用说，在璃月之外，还有更大的世界…
+有生第一次，她打从心底希望自己能见到更多的风景，再用沉玉谷生长的藤枝把它们编入自己的心中。
+
+### 角色故事5
+
+蓝砚总是一副开开心心的样子，嘴角永远翘着，再好的朋友也很少见她撇着嘴或是落眼泪。
+她当然也会不快乐，不过这种时候很少。只要跟路过的小羊羔、小狗崽玩上一阵，被犯倔的小羊顶一顶腿，被毛乎乎的小狗崽用乳牙咬一咬手，心里那几颗硌人的小石子就不知道滚到哪里去了。
+对蓝砚来说，最大的道理就是——一直想着不开心的事，就浪费了和小羊、小狗、小猫还有燕子、狐狸、松鼠一起玩的时间！
+大多数时候，只要在茶坡转悠一阵，和小动物们玩个半天，她的气就消了。
+不过也有无论如何还是无法释怀的时候，那就只能去游野泳了。
+翘英庄外，灵濛山东面，大大小小的水潭她都游过，每一道水波都拂过她的手，每一汪泉眼都倒映过她的脸。
+她的黑发会在清透的潭水里荡开，鱼儿要啄她光着的脚，和缓的水流丈量她的腰，一线一线的阳光在水底投下流动的影子。
+她会做苍青色的梦，梦里的她过着和平时一样的生活。
+清晨起来，她先喝一杯茶，撑竹筏的时候她一样唱歌，住的屋子依然是白墙灰瓦。她也还是在梦里编藤，编着编着，跑来一只小狗舔她的手，她就醒了。
+蓝砚是沉玉谷的儿女，沉玉谷的儿女心思简单干净，就和这里的山水一样。
+她对生活没什么不满的，因此不留恋梦。
+远方的五光十色对她的吸引就像翩飞的蝴蝶吸引林间的鹿，就算因一时好奇离开了青草遍地的山坡，四处徘徊之后，鹿还是会回到它们的山坡吃草。
+不管蓝砚去哪里旅行，没过多久她还是要回到沉玉谷。
+再美的梦也没新炒出的茶香，再遥远的幻想也不会比山岚笼罩的悬练山更动人，所以梦醒了也就醒了。
+在水边绞干头发之后，披起衣服，一道一道戴好手腕上的银镯、腿上的缠银丝带、颈上的银项圈还有耳间的银铛，蓝砚该回家啦。
+满身的银饰是家人送她的礼物，每当她走动起来，叮叮当当的清脆声音就像灵动的山歌，她来到哪里，歌就唱到哪里。
+游野泳很危险，爷爷说过她好几次了，这次要是被发现又得挨训了，她想下次自己还是和伙伴一起去比较好。
+不过这些先放一边，今天晚上有茶熏乳鸽吃呢。
+
+### 《燕子歌》
+
+「天暖燕子么搭窝窝，升雷扯闪么我家躲。」
+「鬼门关外么走不得，雀儿飞来么救我活。」
+这是蓝砚告诉你的许多旧时迷信中的一种，说是人应当善待燕子，或许人在临终的那一刻，桃都关前会有燕子飞来代人受过。而且，她又补充了另一点，爷爷告诉她若人没有善待燕子，反而会招致死祸。
+你可以理解其中仁善护生的意味，但稍有不慎就会殒命这一点还是有些夸张了。
+许多旧时的迷信就像天之晴雨一般让人摸不着头脑，譬如夜里不可以剪指甲、筷子不能横着放在碗上、采茶时节第一道新茗不可以给小孩子喝。
+事实上，尽管护燕是沉玉谷居民中广泛存在的迷信，但大多数青年人就只把它当作一首儿歌，只在逗小孩的时候哼。
+唯有蓝氏一门会严格遵守爱护燕子的不成文规定，但凡有新燕飞来筑巢，绝对不可以驱赶。
+「虽然有时候真的很麻烦，不过和燕子们混熟之后，它们会在我做藤编的时候跳到我肩膀上陪我哩。」
+她告诉你这件事的时候，你们正在宝玦口乘竹筏，泊溯一如既往地唱他的船歌，风也温柔，鹈鹕在船尾睡觉。
+她黑发上的银燕在日头下闪着莹润的光，和她的眼睛一样亮。
+蓝氏的护燕传统是否和他们先祖与「银翎翦玉玄鸟」之间的渊源有关呢…看着那只燕子，你不禁产生了联想，思绪飘去了那个古老的年代。
+看你在发呆，她凑近点了一下你的鼻子。
+你像从睡梦中醒来，睁眼就是她带笑的眸子，不远处就是码头，竹筏即将到岸。
+
+### 神之眼
+
+就像所有的手工艺活计一样，编藤是一项依赖肢体多过依赖大脑的工作。
+每次定好型之后，蓝砚要做的就是静心，用双手认真编好每一条经纬。经过长期练习，编织的技巧与技艺不仅储存在她的头脑里，更内化成为了她双手的「记忆」。
+她的心灵也在这个过程中逐渐变得澄澈、洗练。
+蓝砚是一位藤编师，她未曾有过追逐日月一般宏大的理想，当然也不是武侠小说中里幽居的天纵奇才。
+她的生活简简单单，淳朴自然。
+编藤的时候，她的双手会循着过去每一天的记忆，熟练地织出细密的花纹和形状。
+与此同时，她的心并没有沉眠，她想着山间的雾，石崖边攀援而下的藤，光着脚踩起来绵绵软软的落叶。
+想着沉玉谷，想着她山水中的家，手下的藤也变得柔软起来。
+她希望能把这些美好的东西都用自己的双手编织出来，希望这些回忆能永远停留于自己的作品之中，或许是因为心中饱含温柔和善意，蓝砚编出的器皿总是透着一股拙朴温厚的味道。
+而在这种时候，猫儿、狗儿，还有山谷中的鸟雀、松鼠也都格外愿意亲近她。
+「就算是天上的神仙，肯定也愿意看我们蓝砚编藤哩。」爷爷曾经这样自豪地称赞她。
+没人知道是否曾经真的有神仙驻足观看蓝砚编藤，但蓝砚自己相信，既然神仙们愿意倾注自己的神力，庇护这一方清秀山水，令人安居乐业，肯定也会赞赏人类用心织出的作品，赞赏作品中的珍惜之意。
+所以当她看到自己随身携带的藤包中出现了一枚莹亮的神之眼时，一点也不惊讶，倒是拿起它，开开心心地采藤去了。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+### Заметки по историям
+
+#### История персонажа 1
+
+#### История персонажа 2
+
+#### История персонажа 3
+
+#### История персонажа 4
+
+#### История персонажа 5
+
+#### Видение

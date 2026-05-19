@@ -1,0 +1,256 @@
+# id: xingqiu
+# story_group: character_stories
+# title_ru: Син Цю
+# title_en: Xingqiu
+# title_zh: 行秋
+# region: Ли Юэ
+# element: hydro
+# rarity: 4
+# game_version: 1.0
+# icon: assets/icons/stories/character/xingqiu.webp
+# tags:
+
+## RU
+
+### О персонаже
+
+Все торговцы Ли Юэ знакомы с молодым господином Син Цю из торговой гильдии «Фэйюнь».
+Окружающие видят в нём доброго и воспитанного юношу, стремящегося к познаниям.
+Будучи вторым сыном в семье, Син Цю не придётся взваливать на себя бремя ведения дел гильдии, однако пока дети других торговцев тратят деньги своих отцов, Син Цю занимается учёбой и слушает своих учителей.
+Старший брат Син Цю, получивший экономическое образование от своего отца, также считает, что его младший брат будет полезным в будущем.
+Но заканчивая читать учебники по коммерции и философии, он вырезал страницы и тайком носил в этих книгах романы о боевых искусствах.
+Син Цю зачастую пропадал часами. Когда его спрашивали, где он был, он отвечал: «Я всего лишь хочу минуточку одиночества».
+
+### История персонажа 1
+
+Для Син Цю «минуточка одиночества» означала совсем не то, что для других людей.
+Он мог, к примеру, сходить в книжный магазин «Ваньвэнь» за новым романом или пойти в чайный дом «Хэюй» попробовать новые рецепты Юнь Цзинь.
+Но также «минуточка одиночества» могла означать время, когда Син Цю становился «воином справедливости».
+Обязанности «воина» заключались в том, чтобы сражаться с бандитами на дороге, отгонять монстров от города и помогать детишкам снимать воздушных змеев с деревьев.
+Как герои в его романах, помогая другим, Син Цю скрывает своё лицо, но и не боится использовать своё положение в торговой гильдии, если другого выхода из ситуации нет.
+
+### История персонажа 2
+
+Однажды, когда Син Цю не было дома, к нему в комнату зашёл брат. Когда Син Цю вернулся, у них состоялся серьёзный разговор в коридоре.
+«В твоей комнате полный бардак, мне пришлось за тобой прибраться. Послушай, и ты, и я вместе ответственны за репутацию нашей гильдии, и мы должны подойти к своим обязанностям со всей ответственностью. Если ты не можешь навести порядок в своей комнате, то как ты изменишь мир? Адепты как-то сказали...»
+После получасовой поучительной лекции брат наконец отпустил Син Цю, но уходя он добавил:
+«Когда мне нужно будет зайти в твою комнату в следующий раз, я тебя предупрежу... Также скажу служанкам делать то же самое».
+Син Цю не понял, о чём говорит его брат, который подумал про себя:
+«Я не стану проверять, какие книги он прячет под кроватью. Син Цю уже совсем взрослый, не хочу, чтобы он думал, что я без конца его поучаю. Может, он просто так становится юношей?»
+В итоге даже сам Син Цю был удивлён тем, сколько романов о боевых искусствах он прятал под своей кроватью. Он был готов к тому, что горничные станут смотреть на него косо, но оказалось, что ни одна из них не убиралась достаточно тщательно, чтобы увидеть его секрет.
+
+### История персонажа 3
+
+Чтобы Син Цю не сидел целыми днями в книжном магазине, его отец записал его в школу боевых искусств Гухуа. Но вскоре Син Цю обнаружил, что школа Гухуа оказалась в полном упадке. В ней не только не оказалось сносных учителей, но и то роскошное додзё, в котором проходила церемония посвящения, было коварным прикрытием. Отец знал об этом и в своё оправдание говорил, что он хотел бы, чтобы увлечение Син Цю боевыми искусствами было мимолётным развлечением. Он и подумать не мог, что умный и начитанный Син Цю добьётся таких успехов в стиле Гухуа. Благодаря глубоким познаниям в древности и литературе, Син Цю удалось вернуть школу Гухуа к её былому величию. Поначалу же Син Цю был разочарован школой, но он внезапно отыскал вдохновение в прикладных «трюках» этой школы, таких как известковый порошок, дымящийся песок, бумажная рыба, глотание мечей и дыхание огнём... Обилие этих трюков ослепило Син Цю, он тут же решил выучить их все, сколько бы времени у него на это ни ушло. Он знал, что всё это обязательно пригодится ему в его «другой» героической жизни.
+
+### История персонажа 4
+
+Син Цю является довольно двуликим мастером меча. Перед незнакомыми людьми он обычно ведёт себя тихо и робко, но со своими близкими и друзьями он тот ещё экстраверт, да к тому же и ужасный ворчун (но не такой ворчун, как его брат).
+Бывает, что он даже показывает свою озорную сторону. Жертвой его игр обычно становится некто по имени Чун Юнь, которого можно найти на лесных тропинках у Ли Юэ.
+«Чун Юнь... Я нашёл дом с привидениями, в котором ты сможешь потренироваться!»
+«Чун Юнь... Я честно не расставил там ловушек... Что? Там нет привидений? Что ж... Откуда мне было знать?»
+«Чун Юнь... Не смотри так на меня. Ты уже поранился. Лучше просто лежи спокойно и не шевелись...»
+«Чун Юнь... У нас есть одна служанка, которая училась массажу в доме знатного человека из Сумеру. Я попрошу, чтобы она осмотрела твои раны... За это ты теперь у меня в долгу...»
+
+### История персонажа 5
+
+Что делает обычного человека героем? У разных людей на этот счёт разные мнения.
+Героем может быть тот, кто умеет отличать добро от зла, и действует в соответствии со своим чувством справедливости.
+Однако для Син Цю это просто означает быть хорошим и делать добро людям.
+Он родился в семье богатейшего торговца Ли Юэ, и ему было суждено плыть на волнах коммерции.
+Жизнь борца за справедливость и геройские поступки с возрастом отдалялись от него.
+Однако получив Глаз Бога, Син Цю мог наконец совершать подвиги, о которых в детстве так мечтал.
+Конечно, он не может просто так отказаться от своих обязанностей в гильдии, но работа героем на полставки всегда приносила ему удовольствие.
+Улыбку на его лице могли стереть только люди, с цинизмом говорящие, что герой - это всего лишь статус, личная выгода и тайные сделки...
+Таких людей Син Цю записывал в свой чёрный список - список людей, которых он ненавидел больше, чем морковь.
+
+### «Легенда о клинке»
+
+Син Цю написал роман о боевых искусствах «Легенда о клинке», взяв за основу собственный опыт, и собирался было опубликовать его в Ли Юэ.
+К его удивлению местные издательства рукопись отвергли, заявив, что место и время действия романа возмутительны, а сюжет до крайности избит.
+Син Цю не примирился, и подложил несколько копий в любимый книжный магазин «Ваньвэнь». Роман, однако, и правда никому не понравился, что сильно задело Син Цю.
+Но он не догадывался, что один странствующий купец купил и привёз одну из копий домой, в Инадзуму, где книгу встретили с восторгом. «Легенда о клинке» вызвала целую волну подражателей, но успех романа не удалось превзойти никому. С тех пор роман стал культовым и занял особое место в литературе Инадзумы.
+
+### Глаз Бога
+
+Школа боевых искусств Гухуа последние несколько сотен лет находилась в упадке. В славные времена имя школы сталью гремело по землям Ли Юэ. Согласно легенде, у школы существовало три великих тайных искусства: «Путь светлого жала» для владеющих копьём, «Путь лезвия дождя» для избравших меч, и «Путь жнеца жизни» для тех, кто преуспел с обоими видами оружия. Эти техники передавались и оттачивались из поколения в поколение, и со временем достигли вершины. Но сила школы продолжала угасать, и она теряла былое влияние... Три великих искусства - словно запылившееся сокровище, которое ожидало своего наследника. И через множество лет он пришёл в лице Син Цю. Он стал единственным, кто смог постичь «Истину боя» всего лишь за четыре года. Боевое искусство Гухуа рассматривало оружие как продолжение тела бойца, как и многие другие школы Ли Юэ. Но по мнению Син Цю в основе боя с мечом и копьём лежало использование Глаза Бога. Глаз Бога был продолжением тела бойца, в то время как его оружие было продолжением Глаза Бога. Таким образом, как утверждает он, искусство меча и копья являются искусством «глаза». Разгадав эту тайну, Син Цю взмахнул пером и записал Истину боя в стихотворной форме. До слёз потрясённый стихом глава школы воскликнул: «Это не Син Цю нужна школа Гухуа, а школе Гухуа нужен Син Цю!» С тех пор стихотворение хранится в сердце школы в зале Ваншань. Ученикам, и тем более посторонним, читать его запрещается. А вот и сам стих:
+Искусство Гухуа я изучал, пока секреты его не познал. Сталь Гухуа ржавчиной покрылась, но сегодня знанием умылась.
+Как лепестки цветов на ветру искрятся мечи, копья подобны пляске огней во мраке ночи.
+Вам скажут, что меч - продолжение вас. Не правы они. Меч - это блеск глаз.
+Странник не ведает тяжести пут, клинки его дождь и свет рассекут. Как древний дракон, неуловим, он режет и колет глазом своим.
+По правде говоря, содержание стиха следовало сделать доступным для всех учеников. Спрятали его ото всех из-за ужасного почерка Син Цю.
+
+## EN
+
+### Character Details
+
+Every merchant in Liyue Harbor knows of Xingqiu from the Feiyun Commerce Guild.
+All see him as a kind and well-mannered young man who is an excellent student, a top talent in every sense.
+As the second-born son of the family, Xingqiu is not required to shoulder the burden of managing the Guild's affairs. However, Xingqiu possesses a unique scholarly talent among his peers — that is, the offspring of Liyue's wealthiest merchants — and was often praised by his tutors as a young student.
+Xingqiu's elder brother, while he was learning the family business from their father, firmly believed that Xingqiu would become a great asset to the business one day.
+However, little did he know that Xingqiu, after finishing the dauntingly thick volumes on commerce and philosophy, would hollow them out and sneak martial art novels into them, which he read incessantly thereafter.
+Sometimes, Xingqiu suddenly disappears for hours at a time with no explanation. When asked why, he simply replies: "A moment of solitude."
+
+### Character Story 1
+
+To Xingqiu, "a moment of solitude" can mean all sorts of things.
+Examples include visiting Wanwen Bookhouse to peruse the latest novels and going to Heyu Tea House to sample Yun Jin's latest drink.
+Sometimes, it means that he is off to fight for justice in the name of chivalry.
+Defeating bandits on the road, driving away monsters, helping distressed children by fetching their kites from the tree tops... there are all manner of responsibilities that fall into the category of chivalry.
+Inspired by tropes from his beloved martial arts novels — such as the king who wears a disguise and mingles with the common folk — Xingqiu does not hesitate to leverage the power of the Feiyun Commerce Guild to resolve more complex issues when violence isn't the answer.
+
+### Character Story 2
+
+One day, Xingqiu's older brother came looking for him, only to find he wasn't around. When Xingqiu later returned, he came across his brother in the hallway.
+"Your room was a mess, so I cleaned it up. Listen, both you and I are responsible for the reputation of Feiyun Commerce Guild. We have to act the part. If you can't clean up a room, how will you clean up the world? An adeptus once said..."
+After half an hour of lecturing, Xingqiu was finally let go, but his brother said something strange at the end:
+"I'll not enter your room without permission next time... I'll make sure the maids do the same."
+Xingqiu had no idea what he was talking about. However, as his brother turned away, with a despondent look upon his face, he muttered to himself:
+"Those books under his bed... No. No, I shouldn't go looking at what kind of books they are... Xingqiu is growing up after all... Don't want to be lecturing him all the time... Puberty perhaps?"
+Afterwards, even Xingqiu found it odd. Expecting that one of the maids would have something to say about the stash of martial arts novels under his bed, he had long since prepared his response, but in the end, no one ever bothered to check his room again.
+
+### Character Story 3
+
+To keep Xingqiu from spending his whole day at Wanwen Bookhouse in Feiyun Slope, his father agreed to let him learn martial arts from the Guhua Clan. Much to his dismay, Xingqiu quickly discovered that Guhua was a dying art that had been in constant decline for years. There was no proper tuition and it turned out the luxury dojo he had signed up in didn't even belong to the clan — they had just rented it temporarily to keep up appearances.
+Xingqiu's father was, of course, fully aware of this state of affairs in advance. To him, the whole thing was just for fun; he thought Xingqiu would be content to learn a spot of bladework for show, not for serious self-defense.
+He hadn't counted on the prodigiously intelligent and extremely well-read Xingqiu being as outstanding a talent in Guhua as he was in every other discipline he had turned his hand to. A combination of his own intuition and extensive knowledge of ancient literature meant he was able to completely revitalize the dead art.
+Xingqiu was disappointed by Guhua's martial arts program at the beginning, but he found the other tricks they taught to be exactly what he had hoped for.
+Quicklime, smoking sand, paper fish, sword-swallowing, fire-breathing... Xingqiu was spoilt for choice.
+He decided on the spot that he would learn them all, no matter how long it would take him. He reasoned that they would be useful to have in his repertoire during his future exploits as a chivalrous hero.
+
+### Character Story 4
+
+There are two sides to the swashbuckling Xingqiu's personality. While quiet and unassuming in front of strangers, he is gregarious and chatty in the company of close friends and family. Though more restrained than his elder brother, he even has a playful and mischievous side.
+The one who usually bears the brunt of his bizarre sense of humor is someone named Chongyun, an exorcist usually found on one of the forest trails around Liyue.
+"Chongyun... I found a haunted house for you to practice in..."
+"Chongyun, you have to believe me... It wasn't me who laid the traps inside that haunted house— What? It's not haunted? Well... I, uh, couldn't have known that, could I?"
+"Chongyun... Don't glare at me like that... Look, you're injured. You'd better just lie there and get some rest."
+"Tell you what, Chongyun, we have a maid who learned the art of essential oil therapy in a nobleman's house in Sumeru... How about I ask her to tend to your wounds? You owe me for this, though..."
+
+### Character Story 5
+
+The notion of chivalry means different things to different people.
+Chivalry means listening to your conscience calling you to action when you see an injustice, right? Or is chivalry simply about knowing right from wrong? No, that's not enough — it must have something to do with being a righteous person...
+To Xingqiu, chivalry simply means: Be good, and do good.
+As a son of a wealthy merchant in Liyue Harbor, he was born to ride the waves in the world of trade. Notions of chivalry should have gradually left him as he grew up.
+However, obtaining a Vision changed everything — it meant he was finally able accomplish those legendary deeds he could only dream of as a child.
+Of course, there is no way he can completely divest himself of his duties in the Guild, but so long as he gets to go out and be the hero even occasionally, he is perfectly content with his life.
+The only thing that can wipe the smile from Xingqiu's face is when cynics question the true motives of chivalrous heroes.
+Rank, reputation, reward, shadowy deals... Whenever Xingqiu hears people smearing the names of true heroes, the expression on his face may not change, but he will be sure to add that person to the special section of his blacklist reserved for people he despises even more than carrots.
+
+### "A Legend of Sword"
+
+Xingqiu once wrote a martial arts novel named "A Legend of Sword" based on his own experiences, intending to publish it in Liyue Harbor.
+To his surprise, his manuscript was rejected by local publishing houses, who believed that no one would have any interest in a story with "a setting as wildly unrealistic as the plot is banal."
+Undeterred, Xingqiu had a few copies printed privately, and sneakily placed them on the shelves of Wanwen Bookhouse during one of his many trips there. But just as the publishers had suspected, it failed to garner much interest from readers. This was quite a blow to Xingqiu's confidence.
+Unbeknownst to him, however, a passing merchant from Inazuma did purchase a copy to bring home, where it received rave reviews. Writers the region over attempted to copy the success of "A Legend of Sword," but none succeeded — it maintains permanent residency in the number one bestseller spot to this day.
+
+### Vision
+
+The martial arts school known as the Guhua Clan has been in decline for several hundred years now. In its heyday, the name of the Clan rang like steel throughout the harbor. It was said that the Clan harbored three great secret arts — the ways of the "Light Piercer" for polearms, "Rain Cutter" for swords, and "Life Ender" for those who excelled in both. The three arts would be refined over the generations, and with time would reach their apex. Yet the Clan's strength would continue to wane, leading to them losing their influence... The three arts became diamonds hidden in the rough, quietly awaiting a successor.
+After many years, the Guhua Clan would finally get one in Xingqiu. It was he who successfully grasped the ancient "Martial Principle" after merely four years of study.
+The Guhua weapon arts stress using the weapon as an extension of your body, and indeed this is a common idea amongst the various schools of martial arts in Liyue. But the way Xingqiu saw it, the basis of the polearm and sword was the use of a Vision. Martial artists were meant to see a Vision as an extension of themselves, and see their weapon as an extension of the Vision. Hence, he says that: the arts of both the polearm and the sword are just the art of the "eye."
+Having come to this epiphany, Xingqiu took up a quill and penned a verse on the Martial Principle. Reading it, the Guhua head was shaken with tears, declaring that "it is not Xingqiu who needs the Guhua Clan, but the Guhua Clan that needs Xingqiu." Since then, this verse has been sealed up at the Clan headquarters at Wangshan Hall. Disciples are proscribed from reading it, much less outsiders.
+The verse reads thus:
+Guhua's arts I have studied long, in its secrets I am trained, now its long-lost depths fall upon me like the coming of blessed rain.
+The beating heart of Guhua's sword art is as a shower of floating flowers. One amidst may seize a bloom, but those without read only doom.
+The Guhua lance is a lantern's dance, like flames in night's deep glooming. Like sparks, they scatter with ease in the dark, then join like the daybreak looming.
+They say the sword is as your arm — I say its glint is the beholder's eye, a light like the bright dawn coming.
+Those who wander are burdened not. Freely they cut rain, and enlightened they pierce light. Like a snaking dragon, they cannot be subdued. In their right eye the blade, and in the other the spear.
+This text should have been free for all to read. The only reason why it was sealed is the dreadful handwriting.
+
+## ZH
+
+### 角色详细
+
+璃月港的商人都知道，飞云商会里有一位行秋少爷。
+在旁人看来，行秋待人温和有礼，又勤奋好学，是年轻一代中的翘楚。
+作为家族次子，商会事务尚不需要行秋主持。但在各大巨贾子弟中，行秋拥有罕见的读书天赋，向来受教书先生们赞赏。
+家中那位正在向老爹学习经商与持家的大哥，也认为行秋将来必成大器。
+殊不知，行秋看完厚度惊人的经商总集与贤人哲思以后，会把它们从中间挖空，塞进武侠小说看个不停。
+偶尔，行秋也会突然消失。旁人问及去了哪里、做了什么时，他总是回答：「偷得浮生半日闲」。
+
+### 角色故事1
+
+对行秋来说，「偷得浮生半日闲」可以指代很多意思。
+有时指的是去「万文集舍」看新进的小说；有时指的是去「和裕茶馆」缠着云堇老板开发新饮料。
+而在某些特别的时候，指的是「独自行侠仗义」。
+击败拦路的恶匪、赶走捣乱的怪物、帮哭泣的孩子摘下挂在树梢上的风筝…这一切都在行秋「行侠仗义」的范围之内。
+就像武侠逸闻中广为流传的「微服私访」故事那样——在某些冒险的尽头，行秋并不在乎动用飞云商会的力量来解决一些武力之外的问题。
+
+### 角色故事2
+
+某日，行秋的大哥前来寻他，屋内却没有人在。回来后，行秋遇到了候在走廊上的大哥。
+「你房内太过凌乱，我便自作主张替你收拾了一番。行秋啊，你与大哥同样肩负着飞云商会的名声，理应为众人作出表率。岂能不知一屋不扫，何以扫天下？昔年仙人有云…」
+对着行秋唠叨半小时后，大哥终于放过了他，临走前留下一句奇怪的话：
+「下次，大哥不会未经许可进入你房间了，丫鬟那边我也会提点一句。」
+行秋一头雾水，不知该作何回答。离去的大哥却在转身后换上一副惆怅面孔，自言自语道：
+「床底下还藏了书…嗯…大哥可不会去看那是什么书的。哎，行秋也长大啦，以后会不会嫌我的管教太啰嗦呢？这叫做什么来着…青春期，是吗？」
+行秋也很奇怪。他藏了这么多武侠小说，早已做好与帮佣们斗智斗勇的准备，可为什么一直没人来探查他的房间呢？
+
+### 角色故事3
+
+为了不让行秋成日泡在绯云坡的书店「万文集舍」里，老爹允许他前往「古华派」学武。不过，行秋很快发现，「古华派」只是没落已久的小门派，压根给不出像样的教导，就连报名用的豪华道场也是临时租借而来，根本不归门派所有。
+老爹当然也知道这一点。他只是想让行秋学一些华而不实的剑术，聊以娱乐。
+出乎意料的是，博闻强识、通读古书的行秋已经达到一法通万法通的境界。他在「古华派」修习，凭借自身知识辅以古籍记载，彻底振兴了衰退已久的古华武术。
+初入门的行秋曾对古华派武术感到失望。然而，门人善使的「小术」完全符合他的渴望。
+灰粉、烟雾砂、纸鱼游水、吞剑吐火…生在商贾之家，行秋就是喜欢这种琳琅满目的选择感。
+当即决定花上十天半月，将古华派一百门江湖奇术学全。行秋认为，这对行侠仗义而言，也是种极有力的补充。
+
+### 角色故事4
+
+剑客少爷行秋，人前静若处子，人后动若脱兔，对着亲近的人则会变得唠叨。虽说还不及大哥，却也足够调皮捣蛋了。
+而这般古灵精怪个性的主要受害者，是一位出没在璃月山林一带的少年方士——重云。
+「重云啊重云，昨日我为你找到一座闹鬼的凶宅，快去练练手吧。」
+「重云啊重云，你千万要相信我，那间凶宅里的机关不是我布置的…什么？你说根本不是凶宅？嗯，这倒不是我能预料的事…」
+「重云啊重云，何必用那种眼神瞪我呢？瞧你身上都青一块紫一块了，还是好好躺着吧。」
+「重云啊重云，我家有个丫鬟，曾在须弥国贵族府中研习精油理疗秘术。我找她来帮你推拿筋骨，你可要领我这份人情呀…」
+
+### 角色故事5
+
+「侠义」一词，释义因人而异。
+自由仗义者为侠，善恶分明者为侠，一身正气者为侠…
+但在行秋看来，「侠义」的意义，仅仅是做好事、做好人。
+身为璃月港巨贾之后，行秋的本分是在生意场里摸爬滚打，「侠义」二字，本该与他渐行渐远。
+但在「神之眼」的帮助下，他开始办成一桩又一桩曾经只能向往的「传奇轶事」。
+商会的事自然不能放下，但只要能亲自行侠仗义，哪怕只是偶尔，也已让行秋倍感满足。
+唯一会削减行秋笑容的，只有他人口中对那些「侠士」动机的庸俗猜测。
+地位、名利、暗中交易…当听到有人如此编排侠客的本心，行秋面上波澜不惊，心中却已将那人列入黑名单，放在比最讨厌吃的胡萝卜更低的位置。
+
+### 《沉秋拾剑录》
+
+行秋以自身经历为素材，撰写了一部武侠小说《沉秋拾剑录》，想要在璃月港出版。
+不料，却被璃月港的出版机构以「设定过于离谱，剧情却意外地俗套，没人会喜欢」为由拒了稿。
+不服气的行秋自己印了几本，偷偷放在常去的书店「万文集舍」里，然而，确实没人爱看，令他颇受打击。
+行秋不知道的是，路过的稻妻客商看到这本书，买下一本带回稻妻国，竟在当地广受好评。稻妻文人争相模仿，却无一部能超越《沉秋拾剑录》。自此这本书便在稻妻文坛常驻一席之地。
+
+### 神之眼
+
+数百年来，武学门派「古华派」式微。辉煌时期，「古华派」曾以枪剑闻名璃月。相传，其有三大镇派秘术——枪法「刺明法」、剑法「裁雨法」，以及枪剑双绝的「生克法」。此三绝之术随代代传承不断精进，时光推移，三绝技巧渐臻化境，威力却不断削弱，导致古华派势力低迷，人心流散…三绝更是如尘埃中的宝库，静候一位继承者。
+多年后，尘封的古华派等来了行秋。数百年间，唯有他一人仅仅花费四年便悟出了传古承今的「武理」。
+古华枪剑讲究「如臂使指」，在璃月诸派武术中，这是相当常见的意识。而依行秋之见，枪与剑的运用，其根本是对于「神之眼」的运用。武人应将「神之眼」视为身体的延伸，枪与剑则又是「神之眼」的延伸。即是说：枪术与剑术的本质，乃是瞳术。
+行秋参悟此道，挥毫写就武理歌诀一篇。古华派宗主观之落泪，当即宣布：「并非行秋需要古华派，而是古华派需要行秋。」自此，这篇歌诀被供奉在古华派重地「王山厅」，不许弟子瞻仰，外人更是无从得见。
+以下为歌诀全文：
+我習古華久，深秘我已悉。古華槍劍長浮鏽，今日溶洗與爾知。
+古華之劍華，若雨若飄華。飄華人可擷，雨線人難畫。古華之槍華，灼灼兮燈華。燈華易脆散，複聚如燃霞。
+如燃霞，三尺光，何輝煌。人謂使劍如使指，我言劍光是目光。
+游離物外無重量，裁雨者雨，刺明者明。動如龍蛇捉不住，青眼為劍，側目為槍。
+——其实，歌诀内容本应对所有弟子公开，封存真迹的原因只是字实在太丑了。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+### Заметки по историям
+
+#### История персонажа 1
+
+#### История персонажа 2
+
+#### История персонажа 3
+
+#### История персонажа 4
+
+#### История персонажа 5
+
+#### Видение

@@ -1,0 +1,378 @@
+# id: eula
+# story_group: character_stories
+# title_ru: Эола
+# title_en: Eula
+# title_zh: 优菈
+# region: Мондштадт
+# element: cryo
+# rarity: 5
+# game_version: 1.5
+# icon: assets/icons/stories/character/eula.webp
+# tags:
+
+## RU
+
+### О персонаже
+
+Эола - капитан разведывательного отряда рыцарей Ордо Фавониус.
+По роду своей деятельности она сражается с монстрами и орденом Бездны, а потому редко бывает в Мондштадте.
+Также известная как Рыцарь Морская пена, Эола мастерски владеет мечом и является бесстрашным и проницательным стратегом. Она получила высокую оценку магистра Ордо Фавониус Варки, который сказал, что Эола - выдающийся воин, стоящий на одном уровне с Рыцарем Одуванчиком.
+Тот факт, что оба рыцаря стоят на защите Мондштадта, должен быть поводом для радости, но между Эолой и Джинн есть явные различия.
+Эола - потомок клана Лоуренс, рода старых аристократов. В её венах течёт кровь преступников, погрузивших Мондштадт во тьму.
+Из-за своего происхождения она имеет дурную репутацию среди жителей. Клан Лоуренс символизирует времена невежества и тирании, иными словами, вечного страдания народа.
+Каждый раз, когда Эола появляется на людях, эта старая рана вновь открывается. Они ненавидят аристократов и не скрывают своего отношения к ней, даже несмотря на то, что она вступила в ряды рыцарей Ордо Фавониус и дослужилась до звания капитана.
+В ответ на непонимание горожан Эола говорит, что она так поступает ради «мести». Многих пугало это грубое высказывание и некоторое время в ордене её считали шпионом.
+Однако у действующего магистра Джинн своё мнение на этот счёт, и она всегда дружелюбно относилась к Эоле.
+«Это ложные слухи. Просто люди ещё плохо знают Рыцаря Морскую пену».
+
+### История персонажа 1
+
+Эола - потомок преступного аристократического клана Лоуренсов и одна из лучших мечниц в Мондштадте.
+В ней сочетаются преступная родословная и отличные боевые навыки.
+Для жителей Мондштадта капитан разведывательного отряда рыцарей также непредсказуема, как штормовые волны. Никогда не знаешь, когда она атакует и какими будут её действия...
+Эола реагирует на это отношение со свойственным ей равнодушием и высокомерием. Когда кто-то осмеливается сомневаться в ней, она говорит: «Возмездие настигнет тебя, запомни это!»
+Преследуемая ненавистью, она несёт службу вдали от Мондштадта и лишь изредка появляется в штаб-квартире ордена.
+Двое только что заступивших на пост стражников не посмели шелохнуться, увидев Эолу, и молча смотрели, как она с огромным мечом в руках направляется прямиком в кабинет магистра Джинн.
+К их удивлению прошло несколько часов, а из кабинета так и не донеслось никаких звуков борьбы.
+Обеспокоенные стражники обратились к проходившим мимо капитану Кэйе и библиотекарю Лизе.
+«Снова этот командир разведчиков? Что, она сегодня опять пришла к действующему магистру с мечом в руке?»
+«Ну и ну, тогда мне тоже нужно поторопиться. Разве я могу пропустить чаепитие?» - сказала Лиза, после чего поспешно направилась в кабинет.
+Кэйа, в свою очередь, подвёл двух стражников к двери и объяснил с улыбкой: «Вам известно, что действующий магистр Джинн очень проницательна, верно? В Ордо Фавониус важны способности, а не происхождение. Поэтому она нашла время, чтобы сразиться с капитаном разведки на мечах, как для защиты достоинства ордена, так и для того, чтобы в битве излить прошлые обиды. Разве не умно?»
+«О... Теперь понятно!»
+«А "чаепитие" означает обмен опытом».
+Такие вещи случаются каждый месяц. Но почему тогда загадочный обмен опытом происходит абсолютно бесшумно...
+
+### История персонажа 2
+
+На самом деле, Эола совсем не такая грозная, какой кажется. Скорее уж она является жертвой стереотипов. В начале служба Эолы была полна неприятностей: магазины отказывались продавать ей товары, рестораны плохо готовили её заказы, а местные жители в районах несения службы отказывались с ней сотрудничать. В случае возникновения конфликта Эола резко заявляла, что она не забывает недоброго отношения и всегда платит по счетам. Эти слова были похожи на заклинание, которое гасило конфликт ещё до того, как он вспыхнет. Любопытно, что Эола, к которой относились с большой насторожённостью, всегда уважала закон и никогда не причинила вреда ни одному жителю Мондштадта. У неё холодная манера поведения, но подобающие высказывания и действия. Из-за её безупречного поведения страх начал уменьшаться. Люди также осознали, что её слова о мести - не более, чем способ остановить разгорячившегося собеседника. Эола хочет уничтожить Ордо Фавониус, Эола - шпион... В глазах новобранцев ордена она была сложным человеком. Когда магистр Джинн отправила к Эоле новобранца с указаниями, Эола равнодушно ответила: «Если тебе приходится поручать свою работу потомку твоих бывших угнетателей, возможно, тебе не хватает компетентности». Несмотря на подобную отчуждённость на словах, она идеально выполнила все поручения. Новобранцу пришлось признать, что с её способностями неудивительно, что Эола за столь короткий срок дослужилась до капитана разведывательного отряда. Холодная и отстранённая Рыцарь Морская пена, ненавидящая Ордо Фавониус аристократка, злодейка, с которой сложно ужиться... Так ли это на самом деле? На обратном пути в город новобранец вспоминал действия капитана разведки. «Почему её взгляд кажется добрым и сильным, когда на неё никто не смотрит? Похоже, она серьезно относится к своей работе... Так, может быть, на неё всё-таки можно положиться?»
+
+### История персонажа 3
+
+Мондштадт - город свободы и радости, здесь даже потомки преступников заводят хороших друзей.
+Есть один человек, которому может доверять Эола и остальные жители - Эмбер, рыцарь-скаут.
+Когда они вместе ходят по магазинам, владельцы продают Эоле товары по нормальной цене, потому что все обожают Эмбер. А если они в хорошем настроении, то даже могут завязать с Эолой светскую беседу. В такие моменты она демонстрирует наиболее социально приемлемый образ.
+Добросердечная Эмбер часто сопровождает её, помогает выполнять поручения и посылает все необходимые товары прямо домой к Эоле.
+Помимо прочего, Эмбер доносит до жителей Мондштадта служебные достижения капитана разведывательного отряда, которые не оставляют никого равнодушными.
+Ранним утром в выходные дни Эмбер, стоя на самодельной трибуне, сделанной из деревянных ящиков, зачитывает результаты нового сражения Эолы: «Недавно капитан разведывательного отряда рыцарей Ордо Фавониус спасла женщину в Терновом порту и с её помощью провела расследование, в ходе которого были пойманы некоторые члены ордена Бездны, скрывавшиеся в этом районе. Спасённая женщина была известным экспертом в области права Ли Юэ. После инцидента Палата связей Ли Юэ направила благодарственное письмо рыцарям Ордо Фавониус...»
+Возможно, неустанные усилия Эмбер изменили предрассудки, накопившиеся за долгую историю, или достижения Эолы как рыцаря развеяли тот страх, который граждане испытывали к ней. За последние несколько лет жизнь Эолы претерпела некоторые изменения. Большинство людей перестало относиться к ней враждебно, а с каждой новой битвой рыцари всё больше стали восхищаться её мастерством.
+Эола пользуется безоговорочной поддержкой своего отряда. Вместе они стали крепким щитом и гарантом мира в окрестностях Мондштадта.
+Больше всего эти изменения порадовали саму Эмбер, ведь она приложила к этому титанические усилия. Они были знакомы ещё до того, как Эола присоединилась к Ордо Фавониус, поэтому Рыцарь Морская пена всегда полностью доверяла очаровательной девушке, которую лично воспитывал её дедушка.
+
+### История персонажа 4
+
+Несмотря на свою отстранённость и холодность в отношении с людьми, Эола проявляет настоящую страсть к кулинарии.
+Разведывательные отряды часто гордятся тем, что у них есть «лучшие пайки ордена». В дорожных сумках у них всегда есть лунный пирог. Все, кто его пробовал, восторгаются его вкусом.
+Повар пояснила, что этот пирог был приготовлен на основе рецепта капитана отряда. Она продлила время выпекания, чтобы корочка сохраняла внешний вид и вкусовые качества пирога, а также заменила скоропортящиеся ингредиенты, что позволило продлить срок хранения пирога и снизить его стоимость.
+Даже при такой модификации пирог сохранил свой великолепный вкус. Наслаждаясь этим пирогом, рыцари не могли не задаться вопросом: «Каков же вкус оригинального пирога капитана?»
+Ответ на этот вопрос скрыт в одной из старинных книг библиотеки. Несмотря на то, что клан Лоуренс давно пал, он все ещё ожидает возвращения былого величия. Чтобы быть готовыми к этому великому моменту, члены клана воспитывают своих детей с патологической строгостью.
+Так называемый «долг аристократа» - быть безупречным во всех отношениях. Не только изысканные манеры, этикет и знания, но также приготовление еды и уборка.
+Клан Лоуренс решил, что освобождённому Мондштадту не хватает манер и хорошего вкуса. Когда семья вернёт себе власть в будущем, она может не найти квалифицированную прислугу и погрязнет в пучине вульгарности.
+Учитель кулинарии семьи Лоуренс был довольно требовательным. В тесте не хватает пол ложки муки, в приправе не хватает несколько крупинок соли, блюдо простояло в печи на две секунды дольше положенного... Всё это могло привести к порицанию и наказанию. Навыки приготовления пищи, которым позавидовали бы все остальные, были лишь одним из бесполезных результатов следования старым семейным правилам.
+Единственный способ попробовать её блюда - получить одобрение. Единственным таким человеком может быть тот, про кого она говорит «кто много раз мстил, кто беспокоит и не может быть прямолинейным, кто всегда находится рядом».
+
+### История персонажа 5
+
+Помимо традиционного этикета и манер, искусство, также именуемое «второй душой», имеет большое значение для аристократов.
+Ритуальный танец, обряд высокой знати, в котором аристократы проявляли изящество и величие, называется квинтэссенцией «второй души» и самой прекрасной жемчужиной на скипетре аристократии.
+Говорят, что величайшие знатные семьи создали ритуальный танец задолго до начала кровавого правления аристократов.
+Самой важной частью всего ритуального танца был сольный танец под названием «Мерцание свечи» в третьем акте, который представлял клан Лоуренс. Танцовщица имела высокий статус и обычно являлась старшей дочерью семьи.
+Клан нанимал лучших учителей, чтобы они оттачивали каждый танцевальный шаг старших дочерей и делали из них великолепных танцоров. Во время этих строгих тренировок кровоточащие ноги были признаком усердия и величия.
+Этот танец передаётся из поколения в поколение и по сей день. Аристократы уже давно изгнаны, но эта традиция сохранилась в клане Лоуренсов.
+Исчезли грандиозные приёмы и балы, ритуальный танец утратил своё величие. Требования к танцорам постепенно снижаются, потому что больше нет учителей танцев. Клан Лоуренс со временем перевёл ритуальный танец из обязательной программы обучения в разряд увлечений.
+Со временем негативные аспекты танца угасли, и осталась только его красота.
+По сравнению с другими удушающими уроками, это было единственное беззаботное детское занятие старшей дочери нынешнего поколения клана Лоуренс - Эолы.
+Сейчас Эола полностью изолирована от искусства. Вряд ли звание Рыцарь Морская пена будет ассоциироваться с танцем в воображении зрителей.
+Однако художественное качество танца и непередаваемая красота ритма находят отражение в каждом движении искусства владения мечом Эолы.
+Двуручный меч взлетел и опустился, а её элегантная фигура будто исполняет танец под луной, далёкий, совершенный и недостижимый.
+
+### Лёд и морская пена
+
+У Эолы есть «Печать льда» - герб клана Лоуренс. Это высший символ силы, олицетворяющий первородный дух клана Лоуренс, ещё не погрузившегося во тьму: холодный, чистый и непоколебимый дух подобен льду, который не тает в огне.
+За прошедшую тысячу лет лишь немногие прошли испытания клана и получили герб.
+Когда Эола проходила испытания, она была ещё ребёнком, но прошла их с игривой лёгкостью и поэтому была награждена гербом. С этим символом славы она покинула клан и почти не поддерживала отношений с его членами.
+Сила её ледяного меча подобна снежной буре, которая может прогнать любого врага.
+Её звание - Рыцарь Морская пена, и многие думают, что она владеет элементальной силой Гидро.
+Но на самом деле за этим стоит другая причина.
+Эола носит с собой искусно сделанный костяной свисток. Всякий раз, когда она дует в него, вокруг слышится рёв волн.
+Её отряд располагается недалеко от побережья, и рёв волн может сбить с толку врага, а также заставить существ с низким интеллектом разбегаться во всех направлениях предполагая, что приближается буря.
+Благодаря этому умению Эола много раз выигрывала сражения, несмотря на перевес в силе врага. Она известна как Рыцарь Морская пена из-за своей уникальной тактики.
+На костяном свистке можно сыграть разные звуки, но у Эолы есть свои причины, по которым она выбрала именно рёв волн.
+Ей больше подошло бы звание Рыцарь Лёд.
+Возможно, гребешки волн нравятся ей больше, чем твёрдый лёд...
+Свободно мчаться по миру, сталкиваясь с рифами и набегая на берег.
+Свободные волны больше соответствуют её устремлениям, чем неподвижная печать льда.
+
+### Глаз Бога
+
+Какова природа ненависти?
+Гнетущие обстоятельства или несчастливое прошлое?
+А что такое месть?
+Восстановить справедливость для себя или погрузить врага в пучину горечи?
+Вернуть величие клана, завоевать благоговение людей, вернуться на вершину власти... Ничто из этого, по мнению Эолы, не имеет значения.
+Вместо того, чтобы испытывать так называемые позор и унижение, она наоборот страдает от наследия своего клана, пытаясь упорным трудом получить одобрение мира.
+Её ненависть и месть - это просто привычка, защита.
+Над какими замечаниями нужно посмеяться, а какие нужно принять во внимание...
+Как порвать с тяжёлой родословной?.. Как с ней бороться?..
+Переполненная сомнениями, Эола учится у всеми забытого старого рыцаря-разведчика. У своего учителя она перенимает беспрецедентный уровень открытости и настойчивость.
+Сначала найти своё истинное «я», оно важнее ненависти и мести, важнее клана и всего остального.
+«Я» в выживании, «я» в самосохранении, «я» в неумолимом упорстве...
+Ненависть и месть не смогут изменить природу доброты и настойчивости.
+Путь ненависти, по которому шла Эола, - нежный путь ненависти. В тот момент, когда она нашла его, открылся Глаз Бога.
+
+## EN
+
+### Character Details
+
+Eula's role within the Knights of Favonius is Captain of the Reconnaisance Company.
+The nature of her work means that she rarely sets foot in the city — she spends most of her time out in the wild, leading her team of scouts as they hunt down Abyss Order operatives and other monsters.
+Known as the Spindrift Knight, Eula wields her blade with consummate skill, but perhaps more importantly, she is well-versed in strategy and possesses great courage and excellent intuition. Grand Master Varka had nothing but the highest praise for her, even declaring once that she was the Dandelion Knight's equal on the battlefield.
+On the face of it, to have two such outstanding knights attending to the defense of Mondstadt in a single generation should be a cause for nothing but celebration. But dig a little deeper and there is a fundamental difference between Jean and Eula.
+For Eula is a descendant of the once-aristocratic Lawrence Clan. The blood that flows through her veins once flowed through those of Mondstadt's oppressors during one of the darkest periods of the city's history.
+Consequently, Eula has been viewed with contempt by the citizens of Mondstadt since birth. The Lawrence name stands for a legacy of depravity and despotism that stains Mondstadt's past and scars the minds of its citizens even to this day.
+So, whenever Eula appears, old wounds resurface. People despise the aristocracy, and this does no favors for her reputation.
+However, Eula is strong-willed and in spite of everything, she joined the Knights of Favonius and rose to the rank of Captain.
+When people in the city voiced their reservations, she would respond head-on, claiming that her chosen course of action was out of a desire for "vengeance." This matter-of-fact confession would alarm them all the more and has convinced everyone that she joined the Knights of Favonius only to serve as a mole for the former aristocracy.
+One person who sees things differently is Acting Grand Master Jean. In fact, she speaks rather fondly of Eula.
+"The rumors are all groundless. The Spindrift Knight is simply misunderstood, that's all."
+
+### Character Story 1
+
+On the one hand, she is a descendant of the disgraced Lawrence Clan, the scion of a corrupt aristocracy. On the other, she is one of the top two sword fighters in Mondstadt.
+In other words, Eula is equal parts tainted blood and superior swordsmanship.
+There is no knowing when she might strike, nor what she might take from you... In the eyes of the citizens of Mondstadt, the Reconnaissance Captain is as unpredictable and tumultuous as the waves on a stormy sea.
+Eula responds with a cold haughtiness to accusations of this nature. To any who dare insinuate such things to her face, she replies, "How dare you. Hmph, I will remember this."
+She is consumed by the desire to avenge herself, but is often on the move far away from the city. Sometimes upon her return to Mondstadt, she will brandish her greatsword and march straight to the Knights of Favonius headquarters.
+On one occasion, two fresh recruits standing guard on their first day on patrol watched just such a scene play out before their eyes. Alarmed and unsure how to respond, they ultimately did not dare to intervene. Instead, they simply watched on helplessly while Eula made a beeline for Master Jean's office.
+Much to their surprise, however, hours passed and no sound of a struggle was heard from within.
+Still worried, the guards raised their concerns to Cavalry Captain Kaeya and Librarian Lisa as they were passing by.
+"The Reconnaissance Captain is back again? When you saw her, was she marching towards Jean's office with her sword in hand, looking like she wanted to settle a score?"
+"Goodness, I must head there straight away. How can they have a tea break without me?"
+Lisa hurried to Jean's office the moment she finished speaking. Meanwhile, Kaeya took the two guards outside and explained to them whilst trying to suppress a fit of the giggles:
+"We all know that the Acting Grand Master is a good judge of character, don't we? The Knights of Favonius are interested in a person's ability, not their family history. That's why she gives up her time to spar with the Reconnaissance Captain. In doing so, she can preserve the dignity of the Knights of Favonius while also providing a way of settling old grievances. Quite brilliant, don't you think?"
+"Ohh... S—So that's how it is..." "...So 'tea break' is code for 'sparring'...?"
+This kind of thing occurs almost on a monthly basis. But... if they're engaged in some sort of strange sparring ritual in there for the sake of settling old grievances and honing their fighting skills... How come they don't make a ton of noise?
+
+### Character Story 2
+
+In truth, Eula is nothing like the fearsome predator many imagine her to be. On the contrary, constantly being met with prejudice at every turn means she is often the victim.
+At one time, shops would refuse to sell her their goods, restaurants would put no care and attention into her orders, and the citizens on her patrol route would refuse to cooperate with her. So, Eula's work is fraught with difficulties.
+When conflict arises, Eula fights back with a sternly worded threat to indicate that she will remember this grievance and make the offending party pay for it one day. It seems to work like a magic spell, because as soon as these words are uttered, the conflict ceases immediately without ever having to escalate to the level of an all-out confrontation.
+Funnily enough, although people always have their guard up around Eula, she is a law-abiding citizen and has never harmed another Mondstadter in her life. She may come across as having a somewhat frosty demeanor, but she is entirely scrupulous in her speech and conduct.
+No one can ever find fault with her actions, and as people gradually get to know her, their morbid fear of her will dissipate. They will also start to realize her threats of vengeance are nothing more than a figure of speech that simply serve as a verbal warning in the moment.
+Eula, who may or may not be working to bring down the Knights of Favonius from the inside... Eula, who may or may not be an aristocrat mole... New recruits in the Knights of Favonius find her the most difficult person to deal with.
+When Jean sends a new recruit to track down Eula in the wilds and deliver a new set of verbal orders, they always receive the same response: "If you have to resort to tasking the descendant of your former oppressors with doing your work, then perhaps you are not as strong as I thought."
+But despite the antagonism in her words, she will complete her newly assigned tasks to perfection. The new recruit is invariably forced to admit that with her abilities, it is no wonder she was able to achieve a captaincy within just a few years of joining the Knights.
+Everyone knows Eula as the frosty and antagonistic Spindrift Knight, the aristocrat who has a score to settle with the Knights of Favonius, an openly hostile and potentially dangerous individual... but is this really the truth of who she is?
+On the way back, the new recruit thinks back over Eula's every action.
+"What was that kind and resilient look I saw in her eyes when she wasn't looking at me? She seems to take her work seriously... So, surely she can be relied on after all?"
+
+### Character Story 3
+
+Mondstadt is a city of freedom and happiness where even the descendants of a disgraced former ruling class can find true friends.
+Fortunately, there is one person whom Eula can rely on to be her spokesperson to the Mondstadt masses, and that person is Outrider Amber.
+Everybody loves Amber, so when she is around, shopkeepers will sell their wares to Eula at the normal price. If they're in an especially good mood, they may even exchange a few words with her during the process. It is at moments like this that Eula shows her most agreeable side.
+Because of this, and because Amber is just so nice, she'll often accompany Eula on trips out, or even run all her errands for her and deliver the goods straight to her home.
+Amber is also the reason that the city folk end up hearing all about the Reconnaissance Captain's accomplishments out in the field. Each time Amber informs them of Eula's long list of achievements in battle, they can't help but let out a little gasp of surprise.
+Early one weekend morning, Amber stood atop a makeshift stage of wooden crates and began announcing Eula's latest highlights: "Recently, the Knights of Favonius Reconnaissance Captain saved the life of a woman at Dornman Port. After further investigation with this woman's close cooperation, she then proceeded to successfully capture all the Abyss Order operatives hiding in the vicinity of the port. The woman in question was a renowned legal expert from Liyue, and the Knights of Favonius have since received official correspondence from the Liyue Communications Office thanking the Reconnaissance Captain for her deeds..."
+Whether because Amber's persistent efforts have overcome historical prejudices or because Eula's achievements as a knight have quelled the long-standing fear in people's hearts, Eula's life has changed noticeably in recent years. Most of the city folk are no longer openly hostile towards her, and she has won over the members of the Knights of Favonius with her consistent results in the field.
+As for the members of the Reconnaissance Company under her leadership, they support her unconditionally. They always have her back when they head out to Mondstadt's outskirts to defend the peace of their nation.
+Of course, the person who has always tirelessly rooted for Eula, and who is now the most delighted to see people's attitudes towards her change, is Amber. They had been friends for a long time before Eula ever joined the Knights of Favonius, and as the beloved mentee of Amber's grandfather, the first Outrider, Eula has her complete trust.
+
+### Character Story 4
+
+One might not expect this from her frosty attitude and sharp tongue, but Eula is a talented chef.
+The Reconnaissance Company today prides itself on having the best field rations in the Knights of Favonius. One staple of their inventory is a moon-shaped pie. Though a field ration, this wonderfully delicious and highly portable food is loved by all who try it.
+The Reconnaissance Company's designated chef once admitted that when developing this item, she was inspired by the captain's own baked goods. She extended the baking time to make the crust tougher and also substituted a few highly perishable ingredients with ones that last longer, reducing the cost while significantly prolonging the shelf life.
+Even after such a major change to the recipe, the pie still tasted delicious. So, whenever the scouts are snacking, they can't help but wonder: If this is the field ration version, how delicious must the captain's original recipe taste?
+The answer to this question is buried deep within the pages of a dusty old book in the library. The Lawrence Clan may have been overthrown a long time ago, but they have never given up hope of one day rising again and reclaiming their place as the ruling class. So that they are always prepared for this monumental moment, their offspring are subjected to an educational regime so unbelievably harsh that it is considered borderline abusive.
+"Noble obligations" must be performed to absolute perfection in every possible sense, and these obligations cover etiquette, ritual, and study as well as cooking and other domestic chores.
+In the eyes of the Lawrence Clan, "Post-liberation Mondstadt lacks etiquette and taste. When the day comes for our clan to seize power once more, there shall be none who are qualified to be our servants. We must be cautious. We must never stoop to the level of the commoners and set foot in the quagmire of vulgarity."
+The Lawrence Clan's culinary arts teacher was particularly strict. If your dough was missing a half-spoonful of flour, or if your condiment was a few grains of salt short, or if you were two seconds late removing something from the oven, you were likely to be both scolded and disciplined. As far as Eula is concerned, the haute cuisine revered by the aristocrats is just another worthless consequence of people dogmatically following outdated rules.
+For this reason, the only kind of person who Eula will permit to try her own home baking is someone who she... respects...? No, that would be taking it too far. Rather, it should be someone who she grudgingly accepts "will keep following me around and bothering me, seemingly undeterred by my warnings, despite having crossed me many times to date."
+
+### Character Story 5
+
+Besides traditional etiquette, art is the second most highly prized asset to the aristocrats, known as the "second soul."
+The "Dance of Sacrifice" — a ritual used by illustrious families to display their nobility — is thought of as the crystallized form of this soul, the prize gem in the ruler's scepter.
+Folklore holds that Mondstadt's most illustrious clans jointly created the Dance of Sacrifice long before the aristocracy's reign of bloodshed began.
+The third act, which represents the Lawrence Clan, is a solo dance known as "Flickering Candlelight." The most important part of the Dance of Sacrifice, it was performed by the most senior dancer, who was typically the eldest daughter of the clan.
+The Lawrence Clan would summon top dancers to serve as tutors for the eldest daughter and ensure it was performed to perfection. Bleeding toes were seen as a point of pride and a rite of passage for every dancer.
+This ancient ceremony was a continuous tradition for so long that even today, long after being expelled by the people of Mondstadt, the Lawrence Clan still honors it.
+However, without the grand banquet and the gorgeous stage that once featured prominently in ceremonial performances, the Dance of Sacrifice is now far from the grandiose affair it once was. Furthermore, the stringent requirements regarding the dancer's posture and movements have also been relaxed due to the lack of tutors. In the end, the Lawrence Clan reluctantly decided that it could no longer be a mandatory part of the curriculum, and they relegated it to an artistic pastime.
+Over time, the negative connotations and elitist expectations associated with this dance have faded away, and today it survives simply as a graceful dance.
+As the eldest daughter of the present-day Lawrence Clan, Eula found it to be a relaxing pastime in her youth and a welcome respite from her other grueling courses of study.
+Today, Eula appears to have put her artistic pursuits behind her. At least, no one pictures dancing when they think of the Spindrift Knight.
+Nevertheless, a distinctly dance-like aesthetic can be observed in Eula's bladework, along with an elegant rhythm and musicality that are difficult to capture in words.
+As her greatsword rises and falls and sways to and fro, her distinctive and graceful poise is like that of a dancer under the moonlight: faraway, immaculate, and sublime.
+
+### Glaciers and Waves
+
+Eula is the bearer of the Lawrence family crest, the "Glacial Seal." It is the highest martial symbol of the clan and represents the spirit of the Lawrence Clan in the early days of Mondstadt before their fall from grace: cold and unsullied, undaunted by any flame, composed and unshaken in all circumstances.
+Few among their number have passed the clan's trials in a thousand years, and the hopes of the clan are passed down from one seal-bearer to the next.
+Eula was still quite young when she underwent the trial but she passed with ease, taking up the seal in the process. Then she departed with that badge of honor in her possession and has barely contacted the clan since.
+Her icy sword is a manifestation of the strength represented by the seal, striking with the cold, brutal force of a relentless blizzard and driving her foes into retreat.
+Yet, sharp and bright as ice as she is, she has the title of "Spindrift Knight," a name that leads many who hear it to assume that she manipulates Hydro instead of Cryo.
+There is a story behind that misunderstanding — the story of a habit.
+Eula carries an exquisitely crafted bone whistle with her at all times. Each time she blows it, the vivid sound of ocean waves rings out loud and clear, far and wide.
+Since the area her company is in charge of borders the sea, reproducing the sound of waves can be an excellent means of disturbing the enemy's judgment, or of deceiving less intelligent monsters into believing that a tsunami is inbound, causing them to flee in panic.
+Using this unique combat tactic has helped Eula emerge victorious against larger forces than her own on numerous occasions, and has also earned her the moniker of "Spindrift Knight."
+Of course, a bone whistle is capable of imitating many other sounds, and Eula has her reasons for imitating the ocean waves.
+It would seem that something akin to the "Glacier Knight" should suit her better.
+But perhaps Eula herself prefers the rolling waves to the cold and unyielding ice...
+Roaming freely across the world, gentle but firm with the reefs and sands in their dominion...
+Yes, she yearns not to be sharp and rigid like ice, but to be free and unbound like the ocean spray.
+
+### Vision
+
+Where do "grievances" come from?
+Dire straits in the present? Or the misfortunes of the past?
+And what does "vengeance" mean?
+To right wrongs and rebalance the scales of justice in one's favor? Or to drive one's foes into a pit of agony?
+"Restore the clan's former glory, win the respect of the common folk, stand once more at the apex of rulership"... These things were utterly unimportant to Eula.
+She had never experienced the great humiliation of her clan — and all the torment she had endured in life had been at their own hands. She attempted to free herself from their shackles, yet struggled to obtain recognition from the outside world.
+Her talk of grievances and vengeance was but a habit, a signal, a shield.
+For someone in her unique circumstances and position, what remarks should she just laugh off, and what ideas should she hold onto?
+How should she fight this battle to break free, once and for all, from the great burden of her bloodline?
+It was with all these questions and more circling around in her mind that Eula came under the tutelage of a long-forgotten old outrider. From him, she learned an open-mindedness and down-to-earth persistence that she had never previously encountered.
+Before grappling with grievances and vengeance, before questions of clan and outsider, she first had to discover herself.
+Her survival mechanism... her means of self-preservation... her grit and determination...
+She may articulate it in terms of "grievances" and "vengeance," but nothing can change what it is at its core: something both strong and kind.
+Eula finally found herself on a gentle path of revenge that was hers alone... and the moment she set foot on that path, there it appeared before her — her Vision.
+
+## ZH
+
+### 角色详细
+
+优菈在西风骑士团担任「游击小队」队长一职。
+因职责需要，她长期率队在外追猎魔物和深渊教团，不常返回蒙德城内。
+有「浪花骑士」之称的优菈不仅剑术精湛，更兼备谋略与胆识。大团长法尔伽曾给予她极高的评价，称她为可与「蒲公英骑士」比肩的优秀战士。
+两位优秀的骑士共同守护蒙德，本是件值得庆幸的好事。然而，优菈与琴有着根本的区别。
+她是旧贵族劳伦斯家的末裔，体内流淌着与从前那些将蒙德桎梏在黑暗中的罪人们相同的血。
+因为出身，优菈在蒙德民间的风评极差。劳伦斯家族象征着旧蒙德的愚昧与暴政，等同于人们心底永恒的痛苦。
+优菈每每露面，都像是把古老的伤口再次撕开。人们厌恶旧贵族，自然不会给她什么好脸色。
+然而，这样的优菈却毅然加入骑士团，晋升到了队长职位。
+面对城内种种惊疑，她毫不掩饰，称自己的作为全是「复仇」。人们畏惧于如此坦率的自白，一度认为她是骑士团的「内鬼」。
+西风骑士团代理团长琴对此则有着不同看法。谈及优菈，她的态度相当友好。
+「传言并不属实，人们只是还不了解真正的浪花骑士而已。」
+
+### 角色故事1
+
+既是罪人劳伦斯家后裔、旧贵族的遗毒，也是蒙德数一数二的剑术高手。
+罪恶的血脉与高超的武艺共同构成了优菈这一个体。
+不知何时就会发起攻势，不知会夺走什么…对蒙德居民来说，这位游击队长是如暴风天的海浪一般叵测的存在。
+对此，优菈表现得高傲又冷淡。如果有人胆敢在她面前提出质疑，她只会说：「胆子不小，这份仇我记下了。」
+被仇恨缠绕的她，常年在外奔波，偶尔回城便会提着大剑赶往西风骑士团总部。
+两名新到岗的值班卫兵看见她来，紧张得手足无措，却又不敢上前制止，只能目送她径直走向琴团长的办公室。
+奇怪的是，几小时过去，办公室内仍未传出任何械斗的声响。
+出于担忧，卫兵们向路过的骑兵队长凯亚与图书管理员丽莎提出疑问。
+「那位游击队长又来了吗？怎么，今天也气势汹汹提着剑去找代理团长了？」
+「哎呀，那我也得赶紧过去了，喝茶怎么能少了我呢？」
+丽莎说罢，快步朝办公室走去。凯亚则把两位卫兵拉到门外，笑嘻嘻地解释道：
+「代理团长大人眼光很好，这一点你们都知道的吧？对我们西风骑士团而言，重要的是能力而非出身。所以她才会抽时间与游击队长切磋剑术，既捍卫了骑士团的尊严，也为过往的恩怨倾情一战。很高明吧？」
+「哦、哦…原来是这样吗…」「喝茶，是切磋的意思啊…」
+这样的事几乎每个月都在发生。可…终结恩怨、增进剑技的神秘切磋，究竟为什么不会发出巨响呢？
+
+### 角色故事2
+
+事实上，优菈完全没有危险人物该有的样子。被成见包围的她，有时反而像是弱势的一方。
+起初，商店拒绝向她出售货物，餐馆对她的订单粗制滥造，执勤区域里的民众也拒绝配合。优菈的工作中充斥着各种麻烦。
+若是发生争执，优菈便会以严厉说辞回击，声称自己已经记下这份仇恨，他日必会追讨。这番话如同某种咒语，一旦抛出，就能将矛盾终止在爆发前一刻。
+有趣的是，被人们倍加提防的优菈向来遵纪守法，从未伤害任何蒙德民众。她的态度稍显冷淡，言行举止却很得体。
+人们无法从她的行为中挑出毛病，渐渐地，心底那份恐惧便淡去了。她的那番记仇言论，自然也被当成了「点到即止」的警告。
+或许会摧垮西风骑士团的优菈、最可能是内鬼的优菈…她在骑士团新人眼中从来都是难对付的人。
+新兵带着琴团长的口信到野外找优菈传令，得到的总是她冷淡的回复：「居然要劳动蒙德罪人的后裔，看来你们的能力还是差了一些啊。」
+话语很是疏远，结果却是完美地完成了所有任务。连传达命令的新兵也不得不承认，有这般过人的实力，难怪优菈能快速晋升，短短几年就接管了「游击小队」。
+冷淡疏远的浪花骑士，与骑士团交恶的旧贵族、难相处的邪恶分子…事实真是如此吗？
+回程途中，新兵努力回忆着游击队长优菈的一举一动。
+为什么她的眼神不落在自己身上时，神情便会显得和善又坚强呢？如此认真的人，难道不可靠吗？
+
+### 角色故事3
+
+不过，蒙德毕竟是自由快乐之城。即使是罪人的后裔也会交到好朋友。
+优菈与民众之间有位值得信赖的沟通者，那就是侦察骑士安柏。
+讨人喜欢的安柏在场时，店家看在她的份上，会以正常价格向优菈出售货品，心情要是够好，还会有一句没一句地与她俩闲聊。每到这种时候，优菈便会呈现出最为得体的社交形象。
+也因为这样，好心的安柏常常陪着优菈出门，甚至会帮忙跑腿，将所需物资直接送去优菈家里。
+至于游击队长在外的种种战绩，通常也经由安柏传达给民众。人们听说优菈的累累战果，不免发出小小的惊叹。
+周末的清晨，安柏站在木箱搭起的临时演讲台上宣读优菈的新战绩：「近日，西风骑士团游击队长于荆夫港港口救下一位女性，并在其帮助下展开调查，将藏匿于港口地区的深渊教团成员一网打尽。获救女子是璃月著名的律法专家，因此事件，璃月和记厅特向骑士团致函感谢游击队长…」
+也许安柏坚持不懈的努力改变了历史赋予的偏见，或是优菈作为骑士的成就压倒了蒙德居民心中持续多年的畏惧感。最近几年，优菈的生活的确发生了变化。大部分居民不再对她抱有明显敌意，骑士团成员也在一次次的实战中为她的能力所折服。
+优菈所率领的「游击小队」更是无条件支持她，担当她强大的后盾，与她一同守护着蒙德周边的安宁。
+变化背后，最努力也最高兴的人自然是安柏了。毕竟，早在优菈加入骑士团之前，她们就已相识许久。她对这位祖父亲自培养的爱徒，向来有着百分百的信任。
+
+### 角色故事4
+
+有别于平日那份疏远与锐利，优菈在厨艺方面颇有心得，能做一手好菜。
+如今的游击小队常以「骑士团最好的军粮」自傲。他们行囊中常备有一种月亮形状的派。这类便携口粮味道相当美妙，尝过的人都赞不绝口。
+小队专属的厨师姑娘曾提过，她研发这种口粮时参考了队长做的点心，通过延长烘烤时间来为派皮增加韧性，更替换了食谱中难保存的材料，在降低成本的同时大大延长了食品保存周期。
+即使经过了如此程度的改良，派本身仍很美味。游击小队的大家吃着点心，忍不住遐想起来：队长做的原版月亮派，到底有多美味？
+这一问题的答案，藏在图书馆某本古籍之中——即使早已没落，劳伦斯家仍期望着重回统治阶层。为了随时迎接这一伟大时刻，他们对子女的教育和培养严苛到了堪称病态的地步。
+所谓「高贵者的义务」，是要在方方面面做到无可挑剔。不止仪态、礼节和学术，还有厨艺与家务。
+劳伦斯家认定，「解放后的蒙德缺乏礼教和品味。他日家族重夺大权，却未必能找到合格的佣人。必须小心，绝不可落入俗人的泥潭。」
+劳伦斯家的厨艺老师相当苛刻。调制面团只差半勺小麦粉、调料的用量只差几颗盐、出炉时机只差两秒…都有可能招致训斥与惩罚。旁人羡煞的厨艺，对优菈而言，仅仅是遵循陈旧家规的无用结果之一。
+因此，唯有获得她的认可…不，唯有被她认定「已记仇多次，令人困扰又无法直言相待，总是徘徊在身旁」的对象，才能尝到她亲手制作的点心吧。
+
+### 角色故事5
+
+传统礼仪之外，艺术是旧贵族最为重视的「第二灵魂」。
+祭礼之舞——名门望族用以彰显自身高贵的仪式，则被誉为这一灵魂的结晶、权杖顶端最为璀璨的宝石。
+据民间传闻，早在旧贵族对蒙德降下血腥统治之前，鼎盛的几大家族就已共同创编祭礼之舞。
+代表劳伦斯家的第三幕独舞名为「闪灼的烛光」，乃是祭礼之舞的重中之重。舞者地位高贵，通常由家族长女担当。
+为锻炼出极致的舞步，劳伦斯家会召集顶尖舞者来担任家族长女的舞蹈教师。脚尖淌血不过是荣光的点缀，每一位舞者都应以此为傲。
+古老的仪式延续了太久，直到被民众驱逐多年的今天，劳伦斯家族仍保有这一传统。
+失去了与之匹配的盛大晚宴与华贵舞台，「祭礼之舞」早已不如从前那般高贵。对舞姿的要求，也因缺乏舞者教导而放宽。劳伦斯家终于变得有心无力了，仅将它作为业余技艺而非必修课程。
+时过境迁，这种舞蹈所背负的负面色彩逐渐褪净，最终留传下来的，只有优美舞姿。
+比起那些令人窒息的课程，它反而是本代劳伦斯家族长女——优菈——童年时代唯一轻松的消遣。
+如今的优菈，看似与艺术完全绝缘。旁人对「浪花骑士」之名的想象，也不可能与舞蹈挂钩。
+然而，那份独属于舞蹈的艺术之质、难以言传的韵律与节奏之美，正流淌在优菈的剑技之中。
+大剑开阖，她那独特而典雅的身姿总如月下起舞一般，遥远、完美又高不可攀。
+
+### 「坚冰」与「浪花」
+
+优菈掌管着劳伦斯的家徽「坚冰之印」。它是家族武力的至高象征，代表着蒙德开垦初期劳伦斯一族尚未堕落的意志：冷冽高洁不惧怒焰、坚韧沉着不被撼动。
+千年来，成功通过家族试炼的只有寥寥几人。这枚家徽会与家族的希望一同交由他们来传承。
+优菈接受试炼时年纪尚小，却轻松通过试炼，获授「坚冰之印」。带着这份荣耀，她离开了家族，此后联系甚少。
+她的冰之剑，正是如此实力的体现——像寒风暴雪般凛冽，足以逼退任何人。
+剔透又璀璨的她本应如同寒冰，却有着「浪花骑士」之名。人们听见这一名字，总会以为她能够驱动水元素力。
+误会背后，是一种习惯。
+优菈会随身携带一支精巧的骨哨。每当她吹起骨哨，四周便会响起惟妙惟肖的海浪声。
+她所带领的队伍，执勤区域临近海岸。海浪声是一大助力，能干扰敌方判断，也能令智力低下的魔物误认为海啸将至，四散而逃。
+凭借这种技巧，优菈多次以少胜多。因独特的战术手段，她被称为「浪花骑士」。
+当然，骨哨本身可模拟的音色绝不止一种。优菈选择海浪，有她自己的理由。
+比起「浪花」一词，「坚冰骑士」更适合她。
+或许，与冷硬的坚冰相比，她更喜爱翻卷的浪花…
+奔行于世间，面对暗礁与砂石能以恰到好处的烈度将其包容。
+比起锐利的封闭者，自由不羁的浪花才符合她的向往。
+
+### 神之眼
+
+「仇恨」的本质究竟是什么？
+是惨淡的境遇？还是不幸的往事？
+「报复」又意味着什么？
+为自己讨回公道？还是将敌人打入苦痛的深渊？
+夺回家族荣耀，赢取凡人的敬畏，重返统治之巅…在优菈心中，这些都无关紧要。
+她未曾经历所谓的屈辱，反倒饱受家族的折磨。试图挣脱厚重枷锁，又难以得到世人的认可。
+她的仇恨与报复，只是一种习惯、一个信号、一面盾牌。
+有着特殊身份与立场的自己，该对怎样的言论一笑置之，该将怎样的观念放在心上…
+该如何战斗，才能与沉重的血脉作出了断…
+带着种种疑问，优菈投入一名早已被遗忘的老侦察骑士门下学习。从老师身上，她学到了前所未有的豁达与脚踏实地的坚持。
+比起仇恨与报复，比起家族与他人，在那之前，首先要找到「我」。
+「我」的生存方法、「我」的自我保护、「我」的不懈执着…
+哪怕称之为仇恨、称之为报复，也不会改变它善良而顽强的本质。
+只属于优菈的、温柔的仇恨之路。在她找到它的瞬间，神之眼悄然浮现。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+### Заметки по историям
+
+#### История персонажа 1
+
+#### История персонажа 2
+
+#### История персонажа 3
+
+#### История персонажа 4
+
+#### История персонажа 5
+
+#### Видение

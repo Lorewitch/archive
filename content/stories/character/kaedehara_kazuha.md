@@ -1,0 +1,283 @@
+# id: kaedehara_kazuha
+# story_group: character_stories
+# title_ru: Кадзуха
+# title_en: Kaedehara Kazuha
+# title_zh: 枫原万叶
+# region: Инадзума
+# element: anemo
+# rarity: 5
+# game_version: 1.6
+# icon: assets/icons/stories/character/kaedehara_kazuha.webp
+# tags:
+
+## RU
+
+### О персонаже
+
+При первой встрече большинство принимает Каэдэхара Кадзуху за юнгу флота Южного креста. В конце концов, этот мирный молодой человек в свободное время любит читать стихи, а разговоры ведёт неторопливо. Кто бы мог подумать, что он возглавляет списки разыскиваемых сёгунатом Инадзумы? Даже когда Бэй Доу с её тонким знанием людей решила принять его в команду, то понятия не имела, что он обращается с мечом с мастерством бывалого воина. Быть может, лишения и невзгоды сгладили острые грани юноши, или это сдержанность, что удерживает его клинок в ножнах.
+
+### История персонажа 1
+
+Южный Крест, вооружённый флот Ли Юэ, уже многие годы ходит по морям, и его матросы уже давно привыкли к причудам чужих краёв. Поэтому никого не удивляет, что на флагмане флота, «Алькоре», служит выходец из другой страны. Его взяли на борт, когда «Алькор» стоял в инадзумском порту на острове Рито. Капитан Бэй Доу и этот молодой человек подружились, а когда он поднялся на корабль, Бэй Доу сказала команде: «Этот парень некоторое время побудет с нами. Позаботьтесь о нём». Матросы доверяли суждениям Бэй Доу, а потрясающее умение инадзумца предсказывать погоду перевешивало его скрытность о своём прошлом, поэтому они приняли его. Тем не менее любопытство матросов не угасало, и под разными предлогами они частенько расспрашивали его о пережитом. «Говорят, в Инадзуме делают отменные мечи, и чем ты важнее, тем круче у тебя меч. А как насчёт твоего?» «...» Кадзуха всегда отмалчивался. Не получив ответов, моряки в конечном счёте сдались, пока однажды старпом Чжун Цзо не получил неожиданный ответ на свою случайную жалобу. «Слышь, инадзумец? А ты ведь ещё нам даже имени своего не сказал. И как нам тебя называть?» - моряк мозолистой ладонью вытер со лба пот. «Меня зовут Каэдэхара Кадзуха. Вы оказали мне честь, приняв меня, и я перед вами в долгу. Поэтому зовите меня просто Кадзуха».
+
+### История персонажа 2
+
+Кадзуха родился не в семье простолюдинов, но в знатном древнем роду - он последний сын клана Каэдэхара. Даже среди знатных семейств Инадзумы имя Каэдэхара гремело громче других. Но судьба изменчива, и к тому времени, когда Кадзуха стал наследником, род уже был разорён. Предотвратить его падение молодой хозяин Кадзуха был не в силах. Но, невзирая на это бессилие, когда деньги от дома покрыли долги, а прислуга была распущена, он вздохнул с облегчением: воспользоваться этой возможностью и стать вольным скитальцем было совсем недурно. Всю жизнь Кадзуха мечтал бродить по горам и лесам, ведь он восхищался красотой и естественностью природы ещё с детства. Для Кадзухи природа никогда не была немой - чувства и настроения она выражала особым языком. Когда вдруг стихает ветер и всё кругом замирает, значит, вот-вот зайдётся в рыданиях небо. А внезапная дрожь на пруду есть знак надвигающегося землетрясения. Такой самобытной поэтичностью наделила Кадзуху природа, а роскошь его никогда не привлекала. И раз родовое бремя больше его не тяготило, можно было отправиться налегке по белу свету. Так Кадзуха, словно подхваченный ветром лист, начал своё путешествие.
+
+### История персонажа 3
+
+Каждый странник должен быть в чём-нибудь хорош. Конёк Кадзухи - предсказывать погоду. С тех пор, как Кадзуха покинул Инадзуму, он повсюду странствовал. Теперь всё было по-другому: небо, земля, да горы с морями стали ему родным домом. В прогулках под плывущими облаками с музыкой вод и ветров он обрёл счастье. Всё увиденное и услышанное в пути было наполнено новизной. В таком расположении духа Кадзуха шёл к горе на юге. Стояло дождливое раннее лето, и горные тропы превратились в вязкую грязь. Заходило солнце. Кадзуха отправился искать убежище от дождя и в конце тропы увидел соломенную хижину. Бродячий купец, с которым ему случилось познакомиться по пути, увидел её и радостно воскликнул: «Кадзуха, смотри! Теперь нам есть где заночевать!» Кадзуха не ответил, но внимательно прислушался и только потом молвил: «Если хочешь знать моё мнение... лучше туда не ходить». Купец, не желая стоять под дождём, оставил Кадзуху и устремился к хижине. На стук открыла миловидная женщина, которая предложила ему укрыться от дождя, а ещё ароматного чаю, горячей еды и даже ночлег. Быть может, еда была так хороша, что стоило купцу поесть, как он сразу сомлел и уснул. Когда он проснулся, крыши над головой не было, глаза слепило солнце и рядом стоял и улыбался один лишь Кадзуха. Едва купец открыл рот, как его тут же вырвало пожёванными листьями и грязью. Ну а вместо мягкой, тёплой постели под ним была мокрая земля. Кадзуха рассмеялся и пояснил: «Ветер рядом с жилищем обычно тише. Но на этой горе звук ветра неизменный. А ещё эта хижина будто с неба упала. Мне кажется, над тобой подшутил бакэ-дануки. Ох, в следующий раз будь осторожнее и прислушивайся к ветру».
+
+### История персонажа 4
+
+В странствиях Кадзуха повстречал самых разных друзей. С одним из них он стал особенно близок, и некоторое время они странствовали вместе. Но цели их путешествий были разные, и однажды им предстояло расстаться. Случайные прохожие, они понимали друг друга так, будто их свела сама судьба. Они бы на время расстались, но обязательно встретились бы вновь. По крайней мере, так считал Кадзуха. Но произошло нечто, что не оставило и следа от его беззаботности - сёгун Райдэн лично огласила указ об охоте на Глаза Бога и поклялась отнять их все. Обладатели Глаз Бога, даже Кадзуха, пришли в смятение, сменили свои имена на чужие, а дни и ночи проводили в убежищах. И тогда до Кадзухи дошла поразительная новость: кто-то осмелился на дворцовую дуэль. Это был не кто иной, как друг Кадзухи. Проигравшего в такой дуэли ожидало наказание великого сёгуна, но даже столь великая опасность не поколебала его решимости столкнуться с могущественным соперником и показать всем, что означает храбрость. Но объявлять дуэль в такое время... Если он проиграет, безжалостные молнии сёгуна поглотят его жизнь. Даже неизменно безмятежный Кадзуха более не мог сохранять спокойствие. Он обнажил меч и вихрем ворвался в Тэнсюкаку, но уже было слишком поздно... От меча друга остались одни осколки, а его Глаз Бога стал пустой оболочкой. С горечью в сердце Кадзуха был вынужден спасаться бегством, а сёгунат заклеймил его как опасного преступника. С тех пор Кадзуха беспрестанно сражался, более не зная покоя. Кадзуха нисколько не боялся боя, но из-за постоянных сражений сделался растерянным и опустошённым. Он не сожалел, что попытался спасти своего друга, и не обвинял его, что тот оставил его в одиночестве, только... «Неужели единственный способ отстаивать идеалы - постоянно сражаться с другими?»
+
+### История персонажа 5
+
+Теперь флот Южного Креста - дом Кадзухи, и вместе они ходят по морям. Иногда его всё ещё находят неприятности, но с поддержкой флотских справляться с ними куда проще. В вороньем гнезде «Алькора», взирая на лазурное море и синее небо, он нашёл время для осмысления пережитого в тревожном прошлом. «Каждый самурай желает прожить пламенную жизнь, снискав наивысшей славы с мечом в руках. Но всегда найдутся те, кого низменные желания уведут с пути человечности и справедливости. Боги жаловали нам, смертным, плоть, кровь и своё покровительство не для того, чтобы мы друг друга изничтожали. Клинок в моих руках должен не губить, но спасать. Таков мой путь самурая, и я буду придерживаться его до последнего издыхания». Эти мысли вдохновили Кадзуху записать несколько строк в качестве максимы, чтобы возвращаться к ней в будущем... но тут снизу донёсся раздражённый окрик: «Эй, Кадзуха, довольно любоваться облаками! Спустись-ка и помоги тут!» Ладно, это рулевой Хай Лун зовёт. Максиме придётся подождать.
+
+### Оболочка Глаза Бога
+
+Кадзуха с огромным удивлением узнал, что в той великой битве Глаз Бога засиял на несколько мгновений. Везде и всюду он искал того, кто мог бы зажечь этот Глаз Бога вновь, но его огонёк неожиданно ожил для самого Кадзухи. Казалось, будто это ему помогал покойный друг. Оболочка Глаза Бога не только доказала это, но и принесла Кадзухе множество судьбоносных встреч: ему помогали люди из сопротивления, его спасла и приняла на корабль Бэй Доу, а ещё он встретился с легендарной Путешественницей/легендарным Путешественником... Жизнь была полна тягостных скитаний, но были и ни с чем не сравнимые встречи. Его жизнь походила на путь через горы: иногда идти было невыносимо, но порой было достаточно протянуть руку, чтобы прикоснуться к облакам.
+
+### Глаз Бога
+
+Рассветный туман вуалью лёг на горные кручи, а по узкой тропе шёл один Кадзуха. Кругом воцарилась тишина, и ни трепет крыльев, ни стрекот насекомых не смел её нарушить. Волны и те словно задремали. Остался лишь угасающий шёпот ветра. Кадзуха высунул язык - на вкус воздух оказался мрачным и душным. Он знал: пойдёт дождь. Он пристально посмотрел вперёд и вдали увидел струйку дыма да несколько соломенных хижин. Значит, этой ночью у него мог бы быть ночлег. Когда он сказал хозяину хижины, что пойдёт проливной дождь, тот сначала не поверил, но едва дошло до полудня, как хлынул ливень. Поражённый умением путника хозяин радушно предложил кров и еду. Ночью всё ещё было холодно. Кадзуха закутался в одеяло и под шум бивших по листьям капель невольно погрузился в раздумья. С тех пор как клан Каэдэхара оказался разорён, а Кадзуха отправился в странствия, он побывал на множестве островов и познал уйму трудностей, что поджидают любого путника. Чтобы перебраться с одного острова Инадзумы на другой, часто требовалось преодолевать море. Кадзуха в одиночку переплывал на маленьком, медленном челноке, и ветра с грозами делали его путь ещё труднее и опаснее. Но путь этот, где небо и земля - дом, а всё живое - друзья, был полон бесконечного очарования. «Пустому» сердцу весь мир будет «пустой», а если сердце «чистое», то и всё под небесами будет «чистым». С клинком в руке и справедливостью в сердце он мог пройти свой путь с песней и без страха взирать на опасности. Разобравшись таким образом в своих чувствах, Кадзуха уснул глубоким сном. А на следующий день он проснулся под щебетание птиц и с сияющим Глазом Бога в руке.
+
+## EN
+
+### Character Details
+
+Most people who meet Kaedehara Kazuha for the first time might be inclined to assume that he is just a trainee sailor with the Crux Fleet.
+After all, he is a gentle soul who enjoys reciting poetry when idle, and who speaks to everyone in a leisurely manner. Who could tell that he is a wanted man throughout Inazuma?
+Even Beidou, ever the good judge of character, could not tell that Kazuha could wield a sword with the skill of a seasoned warrior when she first decided to take him in.
+Who knows if it was the storms of life that smoothed out his rough edges, or if his natural restraint has kept his edge sheathed.
+
+### Character Story 1
+
+The Crux, an armed fleet from Liyue, spends much of the year on the high seas, and its sailors are quite used to the vagaries of life in other nations. So they were more curious than surprised when an outlander began serving as a sailor on their flagship, the Alcor.
+The sailor in question was picked up when the Alcor docked at the Inazuman port of Ritou.
+Beidou had made friends with this young man, and when he came on board, she told her crew, "This guy's gonna be staying with us for a while. Take care of him, now."
+The sailors trusted Beidou's judgment and admired the newcomer for his martial prowess, not to mention his ability to predict the weather, so they were happy to overlook his reticence to discuss his past, and welcomed him aboard.
+Still, their curiosity did not abate, and they would often find all sorts of excuses to try and ply him for information about his experiences.
+"I've heard that they make some sweet blades there in Inazuma and that the bigger the fish you are, the swankier the sword. So, uh... how's yours measure up?"
+"..."
+Kazuha would remain silent in the face of all such queries.
+Over time, after countless attempts to garner a response proved futile, the sailors would simply give up asking.
+Eventually, it was an off-the-cuff remark from Chief Mate, Juza, just a few days later that finally managed to elicit a reply.
+"Hey, Inazuma boy. What are the lads supposed to call you if they don't even know your name?"
+The young sailor wiped the sweat from his brow with his callused hands.
+"My name is Kaedehara Kazuha, a wandering samurai. I am in your debt for taking me in, so just call me 'Kazuha.'"
+
+### Character Story 2
+
+Kazuha was not born a commoner. He hails from an Inazuman noble house of old, the last son of the Kaedehara Clan.
+Inazuma City is home to many illustrious clans, and the Kaedehara name was once one of the most renowned among them. But fortune is fickle, and the Kaedeharas' fortunes had already collapsed by the time they were Kazuha's to inherit.
+As the young master of the house, Kazuha could do nothing but watch as his family's future crumbled around him. But as helpless as this made him feel, when the moment came that the home was officially repossessed and the last attendant was finally dismissed, he breathed a sigh of relief: As far as he was concerned, this was a golden opportunity to begin leading a free and wandering life.
+He had always longed to roam the mountains and forests, and had held a deep admiration for the beauty and authenticity of nature since his youth.
+To Kazuha, nature had never been silent. It had always spoken to him, conveying its feelings in its own unique language.
+When the wind ceases to speak and the world falls silent, that is the calm before the skies begin to weep. When silent springs suddenly leap into activity, it is the omen of a great earthquake.
+These are the unique poetics that nature has bestowed upon him, and Kazuha was never one to be preoccupied with luxury anyway — so if the burden of family responsibility should drop from his shoulders, why not go wandering, and travel light?
+Thus did Kazuha strike out on his journey, like a falling leaf in the yard carried away by the wind.
+
+### Character Story 3
+
+All travelers who outdoors roam need some skill to call their own. For Kazuha, this is his ability to read the sounds of nature.
+After leaving Inazuma City, Kazuha wandered here and there. Things were different now: all of nature was his treasured home, and the sounds of wind and water beneath the sight of drifting clouds set his heart at ease.
+All that he saw on the road filled him with curiosity. It was in this state of mind that Kazuha arrived at a mountain in the south.
+It was early summer, and the frequent and heavy rainfall had turned the mountain roads to mud. Seeing that night was soon to fall, Kazuha decided to find somewhere to shelter from the rain. No sooner had he had this thought than he turned around to see a small straw hut at the far end of the road.
+The traveling merchant with whom he was traveling at that time whooped for joy at the sight of the hut: "Kazuha, look! We'll have a roof over our heads tonight!"
+But Kazuha did not speak. He paused and listened intently for a long while before he finally replied: "If you were to ask my opinion... it may be best to stay away."
+But the merchant did not wish to remain in the rain. He left Kazuha and made his way to the house.
+Upon knocking at the door, the traveling merchant was met by a lovely woman who offered him shelter, tea, food, and even bedding for the night.
+Perhaps it was the excellent food, but the merchant quickly became drowsy and fell asleep immediately after finishing his meal.
+When he awoke the following morning, there was no roof over his head. The bright sunlight pierced his eyes, and all he could see was Kazuha stood nearby, looking down at him and smiling.
+Before the merchant could speak, he vomited a great pile of leaves and mud. And as for the bedding upon which he had slept so soundly, ah, it too was mud.
+Kazuha smiled and said: "The wind is weaker where there are houses. Yet here stood a hut, and there was no change in the mountain breeze. I think you might have been the victim of a bake-danuki's prank. Never mind. Next time, listen more closely to the wind and tread with care."
+
+### Character Story 4
+
+Kazuha made many friends during his travels. One of them was particularly close to his heart, and for a time, the two journeyed together.
+But they too would part, for their destinations were different.
+To have met merely by chance and then form such a strong bond, there must be a fated connection between them... so, although they would part ways for now, surely they would meet again. Or so Kazuha thought.
+But something happened soon thereafter that would shatter his calm disposition — the Almighty Shogun promulgated the Vision Hunt Decree and swore to retrieve all Visions.
+All who wielded them, including Kazuha, were stricken with panic, concealing their identities and going into hiding.
+It was then that Kazuha received shocking news: Someone had dared to call for a "duel before the throne," and that someone was none other than Kazuha's dear friend.
+The defeated party in a duel before the throne would face punishment at the hand of the Shogun herself. His friend was prepared to risk all to come before the throne, partly for the chance to fight against a strong foe, but also to demonstrate the meaning of courage to all.
+And yet, to call for this challenge now, of all times... Kazuha feared that his punishment, should he fail, would be absolute: The Almighty Shogun would unleash her lightning upon him in its full fury, and it would surely take his life.
+Even the normally calm Kazuha could not restrain himself. He drew his sword and stormed into Tenshukaku like a whirlwind... But alas, he arrived too late.
+His friend's sword lay shattered in pieces, his Vision now an empty husk. Now a wanted man himself, Kazuha fled with grief in his heart.
+From that moment on, the days of peaceful wanderings were over, and Kazuha's life became an unending series of battles.
+Kazuha did not fear battle, of course, but the constant fighting left him feeling lost and perplexed.
+He did not regret having set out on his doomed rescue mission, nor did he begrudge his friend for leaving him, but he could not help but think...
+"Is this endless conflict truly the only way to assert one's ideals?"
+
+### Character Story 5
+
+The Crux Fleet became Kazuha's new home, and he drifted on the ocean wherever it took him.
+Trouble still found him from time to time, but no issue was insurmountable with the support of the Crux crew.
+From his vantage point on the Alcor's crow's nest, gazing out at the azure sea and sky, he finally had the space to think over the tumultuous events of his past and what it all meant to him.
+"Every samurai wishes to live their life with passion and to claim the greatest reputation possible using the sword in their hands."
+"But there will always be those whose base desires lead them astray from the path of justice and virtue, and whose blades leave an endless trail of enmity in their wake."
+"Surely the heavens did not give us fleshly forms and the gods did not watch over our lives all so that we might take up arms against one another."
+"Then, this sword I wield is not meant to slay, but to save..."
+"Yes, this shall be my path as a samurai, and I shall defend it all my days."
+As he reached the conclusion of his thoughts, Kazuha was suddenly inspired to pen down a few verses to serve as a maxim for himself thereafter... but before he could get started, he was interrupted by an irate voice from down below:
+"Hey, Kazuha, quit gawking at the sky — get down here and lend a hand!"
+It seemed the maxim would have to wait for another day. Whatever the helmsman, Sea Drake, needed help with clearly couldn't wait.
+
+### Vision Shell
+
+Kazuha was just as surprised as everybody else when the Vision briefly lit up during that great battle.
+For in all the time that he had spent searching high and low trying to find someone who might rekindle it, never had he imagined that he could be the one to cause its light to shine once more. It was almost as if his late friend were lending him his aid from behind the scenes.
+This empty shell of a Vision not only proved this, but had also brought him many fateful encounters along the way:
+He had been aided by the resistance, saved and taken in by Captain Beidou, and he had even met the fabled Traveler...
+In life there were seasons of hopelessness and desperation, but there were also moments of great serendipity.
+His journey was like the rise and fall of a mountain path — at times, the struggle was all but too much to bear, but there would always be moments when he would touch the clouds.
+
+### Vision
+
+The morning mist covered the mountains like a blanket as Kazuha trod a small trail alone.
+The world was silent. Not a single feather flapped, and not a single cicada sang.
+Even the roiling waves seemed to have fallen into slumber, leaving just the faint whisper of the wind audible against the silence. Kazuha stuck out his tongue — the air tasted heavy and gloomy.
+This told him that it would soon rain.
+He peered into the distance and spotted a plume of smoke up ahead. Below it were several straw huts. Tonight, it seemed, he would have a roof over his head.
+He informed the owner of the house that a storm was coming. At first, he was met with skepticism, but come noon the rains arrived right on cue.
+In awe of this wanderer's skill, the master of the house eagerly offered him lodging.
+The storm raged into the night. Kazuha held his quilt close, and as he listened to the onslaught of rain against the autumn leaves, his mind began to wander.
+In the time since the Kaedehara Clan's fortune had faded away and he had set off on his journey, Kazuha had traveled across many of Inazuma's islands and had become intimately acquainted with the plight of the wanderer.
+Moving between islands usually necessitated traveling by sea. Kazuha would make these trips alone, in a small, slow boat, making things all the more perilous when he had to battle against strong headwinds or violent thunderstorms...
+And yet, there was limitless fascination to be found in this same journey of his, where the vast sky and boundless earth was his home, and all living things that inhabited them were his friends.
+If one's heart is empty, all under heaven is empty.
+But if one's heart is pure, all under heaven is pure.
+With his sword in his hand and his chosen path in his heart, he could go on his way with a song on his lips and with nothing to fear, no matter the perils he may face.
+Kazuha slept soundly that night, his mind at rest having made peace with his feelings.
+The next day, he awoke to the sound of birds... and a shining Vision lying upon his chest.
+
+## ZH
+
+### 角色详细
+
+初见枫原万叶时，大多数人都以为他不过是「南十字」船队的见习水手。
+毕竟，这位少年的个性实在是平和，闲时又酷爱吟诗，与人谈话时又总是一副悠然模样。谁能看出他是受到稻妻幕府通缉的危险人物呢？
+就算是擅于识人的船长北斗，在决定收留枫原万叶前，也没能看出这个平和的少年出刀竟能如此利落，简直是身经百战之辈。
+不知是风雨磨平了少年人的棱角，还是本性内敛的他藏起了自己的锋芒。
+
+### 角色故事1
+
+璃月武装船队「南十字」经年航行于海波之上，船员们早见惯了异域风情，甚至旗舰「死兆星」号上就有一名出身别国的水手。
+水手是在「死兆星」号停泊于稻妻口岸——离岛时，被接上船的。
+船长北斗与这位年轻人是朋友，他来时，北斗告诉手下们：「这位兄弟要在船上停留一段时日，大家多关照关照他。」
+船员们相信北斗的眼光，也欣赏这个稻妻人一身好武艺又有预判天气的本事，所以，哪怕他不愿透露私事，仍同意将他留在船上。
+然而，大家不会就此罢休，总是找些借口，旁敲侧击地打听他的经历。
+「听说稻妻出产的刀剑非常了不起，而且越是大人物越是会用好刀，你的刀怎么样？厉不厉害？」
+「……」
+对此，他只会保持沉默。
+如此尝试了许多次，从未得到答案，船员们只得放弃。
+直到数天后，大副重佐随口一句抱怨，却引来了意料之外的回答。
+「喂稻妻来的，你都没个名字，叫兄弟们怎么称呼你啊…」
+水手抬起布满粗茧的手，擦了擦汗。
+「我姓枫原，名万叶，原本是一名浪人武士。承蒙收留，大家请直接叫我万叶吧。」
+
+### 角色故事2
+
+万叶本非庶民，而是昔年的稻妻贵胄——枫原家的末代子弟。
+在豪门林立的稻妻城中，枫原一姓也曾叱咤风云。然而时运无常，当家业传至万叶手中时，枫原家已经是颓势如山倒了。
+对于这一点，当时的少爷万叶颇为无奈。虽说无奈，可真到了宅屋抵债、家仆散去的那一刻，他反倒松了口气：以此为契机，做个浪迹天涯的自在人也不错。
+漫游山林一直是万叶的心愿。自幼年起，他便懂得欣赏自然的美与真。
+对万叶而言，自然从不是静默的。它一直在用独特的语言诉说心情。
+风声忽而止息，万物静默，那是天空垂泪前的平静。清泉忽而跃起，即是大地震怒的征兆。
+这是自然赠予他的独特诗性，万叶生来就不是汲汲于荣华之人。既然家族重担不再，那么便轻装上路吧。
+仿佛庭院中垂下一片落叶，随风散入天涯，万叶开始了他的旅程。
+
+### 角色故事3
+
+旅人在外行走，总要有些傍身功夫。听风观云的本事，便是万叶的底牌。
+离开稻妻城之后，万叶四处游历。自从踏上旅途，一切都变得不同了：天地山海成了他最亲近的家园，走在云下听着风声水声，身心总是无比舒畅。
+一路的见闻，更令他倍感新奇。如此心境之中，万叶来到了位于南边的一座山丘。
+初夏多雨，山路因而变得泥泞。眼看夜晚降临，万叶想找一处屋舍避雨，甫一转身，便在路的尽头看见了一座草庵。
+同在赶路的还有一位偶然结识的行商，见此草庵，不由得欢呼起来：「万叶快看！晚上有地方住了！」
+万叶却不作声，侧耳倾听了许久，才道：若要问我的意见…恐怕还是不去为好。
+行商不愿淋在雨中，当即丢下万叶，一人去了草庵。
+行商敲门后，有一位相貌美丽的妇人出来迎接，请他入内避雨，并为他端来香茶、美味饭食与被褥。
+或许是食物太过美味，行商吃着吃着便困了，倒头就睡。
+再度醒来已是次日凌晨，头上的房顶不知哪儿去了，阳光直射在脸上无比刺目，视野内只有万叶，正笑着俯视他。
+行商未等开口就吐出了大把嚼过的树叶与泥巴。至于身下，哪有什么被褥，只是脏兮兮的泥地而已。
+万叶笑道：「有房屋的地方，风声会比别处轻些。可这山上风声照常，面前却有一处突如其来的草庵。依我看，你多半是被狸妖捉弄了吧？哎呀…出门行走，可得多听风声、多留个心眼啊。」
+
+### 角色故事4
+
+万叶在旅途中结识了形形色色的朋友。其中有一位，与他感情尤其笃厚，两人一度结伴同行。
+但友人旅行的目的地与万叶并不相同，二人只得中途分别。
+与友人本是萍水相逢，却能惺惺相惜，足见缘分颇深。虽然暂时分别，但或许不期之时又会重逢，万叶本是这么想的。
+但随后发生的时事却破坏了他这份悠然的心态——将军大人亲颁眼狩令，誓要猎尽神之眼。
+包括万叶在内，身怀神之眼者，无不惶惶。隐姓埋名，终日躲藏。
+就在这时，万叶竟得知一个惊人的消息。有人毅然发起了「御前决斗」，而此人，正是万叶的友人。
+「御前决斗」中，战败者将受将军之罚。友人不惜冒此大险也要步上御前，既是为了与强者决胜，也是为了向世人昭示何为勇气。
+但在如此关头发起「御前决斗」，一旦落败，他的生命恐怕会被将军大人的万丈雷明吞没。
+一向淡泊的万叶再难平静，提刀一路风行闯入天守阁，但一切为时已晚…
+刀已断，神之眼成了空壳，抱憾逃离的万叶也遭到幕府通缉。
+从此以后，万叶无奈卷入一场又一场争斗，他的生活再也没有了从容。
+万叶并不惧怕争斗，只是这样无止尽的争斗让他感到茫然。
+他不后悔自己那次无结果的营救行动，也不埋怨壮烈成仁留他孤身一人的友人，只是…
+「要贯彻道义，难道就必须如此与人相争吗？」
+
+### 角色故事5
+
+如今的万叶以「南十字」船队为家，漂泊于四海之上。
+偶尔地，麻烦依然会找上门来，但有「南十字」一众人支持，这些麻烦处理起来也不再棘手。
+坐在「死兆星」号那高高的观测台上，眺望着碧海蓝天，他终于有心情去回味自己在过去那段动荡日子里的感受。
+武士们都愿自己一生热烈，以手中之刀博取无上名誉。
+但其中总有人受欲念引诱，偏离「仁」与「义」的正道，挥刀留下无穷的仇恨。
+上天赋予众生血肉，神明护佑他们的生命，不是为了让人举刀相争的。
+我所握的，不应当是杀人刀，而应是活人剑。
+终武士一生，须守一道，这便是我的「道」。
+如此想着，万叶不禁起了诗兴，正想留下数句作日后的座右铭，但这时船上传来了不满的声音：
+「万叶啊，别窝在观测台上望天了，快下来搭把手啊！」
+好吧，掌舵手海龙在叫他了，那座右铭的事便下次再想吧。
+
+### 神之眼的空壳
+
+那场大战中，「神之眼」竟然短暂亮起，万叶自己也感到十分意外。
+千万般找寻，本想借别人的手再次点亮这枚「神之眼」，没想到它最终却因自己而亮起。如此情景，就像是从前的朋友仍在背后支持自己一般。
+「神之眼」的空壳不仅证明了这一点，还牵引着万叶获得了许多新的缘分——
+旅途中受反抗军接济，被大姐头救下、收留，与传闻中的旅人相逢…
+活在世上固然有颠沛流离的时刻，却也有及时无比的邂逅。
+人生一途，如山路起伏，虽苦难万般，仍有触及云顶之时。
+
+### 神之眼
+
+清晨山崖间纱雾蒙蒙，小径上，正在行路的，唯有万叶一人。
+此时万籁俱寂，既不见一羽之振，又不闻一虫之鸣。
+就连涛涛海浪似乎也已眠去，仅剩风声幽响，万叶伸出舌头。空气中的味道阴郁沉闷。
+他知道，天要下雨了。
+万叶抬头眺望，视线尽头，有一缕炊烟，几间茅屋。那么今晚的宿处应该有着落了。
+他告诉茅屋的主人，大雨将至。主人起初将信将疑，但刚至晌午，瓢泼大雨忽然簌簌而下。
+主人便衷心佩服起这个旅人来，殷勤供上膳宿。
+夜晚窗外依旧潇然，万叶拥着被子，卧听雨打秋叶，不由得发起呆来。
+自从枫原家家财散尽，少爷万叶踏上旅程，他已走过数座岛屿，知道旅人行路的诸多难处。
+从稻妻的一座岛到另一座岛，通常需要渡海。万叶孤身旅行，乘一叶小舟在海上缓慢前行时，若遭遇逆风或雷暴，路途将愈发艰险…
+不过，这一路以天地为屋宇，万灵为诗友，亦有无穷趣味。
+心至「空」处，天地万物皆为「空」；
+心中「净」澈，万物天地皆为「净」。
+手中有刀，心中有道，他便能一路歌咏前行，再多崎岖也无畏惧。
+如此重整心情的他，带着满足沉沉睡去。
+翌日，万叶被鸟鸣唤醒时，怀中多出了一枚莹亮的神之眼。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+### Заметки по историям
+
+#### История персонажа 1
+
+#### История персонажа 2
+
+#### История персонажа 3
+
+#### История персонажа 4
+
+#### История персонажа 5
+
+#### Видение

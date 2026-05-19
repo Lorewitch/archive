@@ -1,0 +1,452 @@
+# id: iansan
+# story_group: character_stories
+# title_ru: Иансан
+# title_en: Iansan
+# title_zh: 伊安珊
+# region: Натлан
+# element: electro
+# rarity: 4
+# game_version: 5.5
+# icon: assets/icons/stories/character/iansan.webp
+# tags:
+
+## RU
+
+### О персонаже
+
+Когда жители Натлана говорят об Уделе Благодатных Земель, первым делом на ум приходят их высокие, стройные, мускулистые фигуры, развитые благодаря серьёзному увлечению спортом.
+Однако многие приезжие, впервые попавшие в Удел Благодатных Земель, с удивлением обнаруживают, что спортивное светило племени разительно отличается от привычного образа. Её рост едва превышает рост ребёнка, а руки и ноги кажутся хрупкими, словно тонкие ветви, особенно на фоне могучих соплеменников.
+Эта девушка, чья невыразительная фигура создаёт впечатление, что её может сдуть ветром, - Иансан, главный тренер спортивного клуба Удела Благодатных Земель.
+Поначалу многие гости считали, что племя таким образом разыгрывает чужаков.
+Но вскоре у новеньких появилась возможность наблюдать, как тренер Иансан руководит тренировками, и её ученики в изнеможении падают наземь, а она сама едва успевает вспотеть.
+Иансан установила абсолютный рекорд по количеству побед в Паломничестве возвращения Священного пламени, и весь Натлан был свидетелем этого.
+Иансан стала самым известным тренером Натлана. Она даже организовала свой собственный уникальный тренировочный лагерь, где обучает техникам, необходимым для достижения победы в Паломничестве возвращения Священного пламени.
+Люди потрясены силой Иансан и гадают относительно её источника. Ходят слухи, что в Иансан течёт особая кровь - люди с таким происхождением не отличаются высоким ростом, но могут развить сверхчеловеческую силу.
+Однако, когда посторонние пытаются подтвердить эти слухи у жителей Удела Благодатных Земель, в ответ они получают лишь ледяные взгляды и односложный ответ из трёх слов:
+«Она упорно тренируется».
+Освободившись от тягот соблюдения приличий, жители Удела Благодатных Земель без лишних слов возвращаются к работе, оставляя растерянных чужаков гадать, чем же они заслужили столь холодный приём.
+И вот поползли новые слухи, утверждающие, что сила Иансан проистекает из секретного оружия племени. Оружия, о котором запрещено говорить с посторонними.
+Едва только подобные слухи начинают распространяться, Иансан тут же обращается к любопытствующим:
+«Вы тоже можете стать такими же сильными, как я. Приходите на тренировки, и я гарантирую вам результат!»
+Когда удивление проходит, большинство отказывается от предложения. Возможно, они не верят, что тренер Иансан действительно может гарантировать успех, а возможно, уже слышали истории о том, насколько изнурительны её тренировки.
+Слухи вокруг Иансан продолжают распространяться. В редкие моменты, когда она не тренируется и у неё есть время обратить на них внимание, Иансан остаётся только сокрушённо вздыхать и укоризненно качать головой:
+«Не перестаю повторять, что всё дело в тренировках... Почему никто не слушает?»
+
+### История персонажа 1
+
+С самого детства Иансан понимала, что не вырастет высокой.
+В её жилах течёт кровь Эгунгун, как и в жилах бесчисленных поколений её рода. Предки Иансан никогда не вырастали выше детей.
+Удел Благодатных Земель - самое высокорослое и сильное племя во всём Натлане, но Иансан и её семья - полная противоположность. Их линия крови пресекла все надежды на то, что они когда-нибудь станут такими же статными, как их соплеменники, и при этом не дала им никаких очевидных благ взамен. По сравнению с проклятием их рода даже чародейки из сказок, которые предлагают искателям приключений силу в обмен на всё самое ценное, кажутся более справедливыми.
+К счастью, жители Удела Благодатных Земель - люди отзывчивые и добрые. Приняв семью Иансан, они никогда не относились к ним с предубеждением, а наоборот, проявляли заботу. Когда начиналась война, предки Иансан всегда держались в стороне от фронта, служа санитарами и поварами. Они не такие смелые и ловкие, как воины племени, и выработали привычку не высовываться и придерживаться привычного уклада.
+С самого детства Иансан помогала родителям в их работе. Но, в отличие от них, она всегда чувствовала неудержимую тревогу, которая словно звала её на поле боя. При любой возможности она всегда направлялась на шум битвы, чтобы дождаться возвращения воинов. Но ожидание не приносило плодов - встревоженные стражи племени всегда возвращали её родителям задолго до того, как она успевала приблизиться к месту сражения. Похоже, её судьба - пойти по стопам родителей и прожить жизнь, предначертанную ей кровью Эгунгун.
+Пока однажды не случилось нечто неожиданное, заставшее всё племя врасплох - древнее имя «Сила» выбрало Иансан своей наследницей.
+Соплеменники были удивлены не меньше самой Иансан, но надпись была чёткой и не оставляла места для сомнений. Иансан стала центром внимания всего племени, но взгляды, устремлённые на неё, в основном не были дружелюбными. «Сила» - это очень значимое слово в Уделе Благодатных Земель, а также великая честь и тяжкое бремя. Большинство членов племени смотрели на Иансан свысока как в прямом, так и в переносном смысле. Они сомневались, достойна ли она такой чести, и беспокоились, сможет ли она взять на себя такую ответственность.
+Однако больше всего этот вопрос волновал родителей Иансан. Они были трудолюбивыми и порядочными людьми и понимали, что не могут дать дочери полезного совета в этом вопросе. Поэтому они долгое время хранили молчание. Но после продолжительного молчания оба заговорили почти одновременно и заверили Иансан, что безоговорочно поддержат её решение.
+Через несколько дней Иансан предстала перед Акатлем, который был не только вождём племени, но и главным тренером в спортивном клубе:
+«Тренер, я хочу тренироваться!»
+
+### История персонажа 2
+
+В Уделе Благодатных Земель физическая подготовка - это священное занятие, которое уступает лишь Паломничеству возвращения Священного пламени. Соплеменники активно пропагандируют здоровый образ жизни и гордятся своими достижениями на этом поприще.
+Но когда Иансан появилась на тренировочной площадке, все подумали, что чем раньше она оставит это дело, тем лучше. Все считали, что тренировки не подходят Иансан, а точнее, что они могут быть опасны, ведь некоторые гири были тяжелее самой Иансан.
+Поэтому, в надежде отпугнуть её, перед Иансан положили снаряжение для начинающих и заявили, что это основное требование для вступления в клуб. Иансан не растерялась. Она выбрала небольшую штангу и приложила все свои силы. Но не успела штанга оторваться от земли, как окружающие услышали пугающий треск костей и бросились на помощь...
+Уже через две недели Иансан смогла снова встать на ноги. Этим она была обязана своему отцу, искусному врачевателю. Благодаря ему ей не пришлось месяцами лежать в постели из-за серьёзной травмы. Говорят, что когда Иансан поправилась, Акатль пришёл навестить её. В последнее время его часто критиковали за то, что он не остановил Иансан. Возможно, он пришёл, чтобы лично уговорить её сдаться. Поэтому Иансан очень переживала из-за его визита.
+«Значит, у спорта высокий порог вхождения?»
+«Но занятия спортом - это не привилегия, занятия спортом - это выбор».
+Акатль успокоил Иансан и поведал историю основателя клуба.
+Воин по имени Мицкара когда-то был вождём племени Удела Благодатных Земель. Он был невероятно силён и считался одним из сильнейших воинов всех времён. Во время его правления Удел Благодатных Земель насчитывал всего несколько поколений и ещё не успел прочно обосноваться у подножия Священной горы. Своей могучей силой он боролся с дикими зверями и потоками лавы. Днём и ночью он защищал свой народ, словно бог-покровитель. Но затем Священная гора внезапно стала более активной. Извержения участились, и даже могучий Мицкара почувствовал, что его сил не хватает. Всё больше и больше людей искали его защиты. Он понимал, что один не справится, но не сдавался.
+«Станьте такими, как я! Вы все можете стать такими, как я!»
+Он относился к соплеменникам как к своим ученикам и щедро делился с ними методиками обучения. Вместе они противостояли угрозам, нависшим над племенем. С каждым новым испытанием члены племени понимали, что они тоже способны защитить свою родину. Когда Мицкара состарился и ослаб и уже не мог противиться ходу времени, многие из его учеников уже давно превзошли его и стали новыми защитниками племени. В итоге Удел Благодатных Земель нашёл своё место и стал мирно жить у подножия Священной горы.
+«Так возник наш спортивный клуб, и то, что я только что рассказал, - это предупреждение Мицкары потомкам. Если бы ты сказала, что у спорта высокий порог вхождения, уверен, он бы не согласился».
+«Иансан, я знаю, что ты не можешь использовать даже самое простое спортивное оборудование. Но это не значит, что у тебя нет возможности заниматься спортом. Хотя тебе будет сложно найти тренера, потому что твоя комплекция находится за пределами опыта большинства тренеров. Поэтому я должен быть честен с тобой: спорт неизбежно станет для тебя серьёзным испытанием».
+«Но выбор за тобой».
+Акатль ушёл, а Иансан снова погрузилась в молчание на много дней, как тогда, когда впервые узнала о своём древнем имени. Наконец она снова пришла к Акатлю.
+«Тренер, я хочу тренироваться!»
+Иансан вернулась на тренировочную площадку, и члены клуба больше не пытались отговорить её. На этот раз они отвели её в недавно оборудованную зону подальше от опасного тяжёлого спортивного оборудования. Там же находилось отдельное место для отдыха, очевидно, специально подготовленное для Иансан.
+На этот раз в их глазах читалось не только беспокойство, но и восхищение - ведь все знали, что эта девушка добровольно выбрала одинокую дорогу совершенствования.
+
+### История персонажа 3
+
+В первые дни в спортивном клубе Иансан не переставала упорно тренироваться и становилась сильнее. Однако её несгибаемая сила воли не могла облегчить ни боли и ломоты, которые часто терзали её тело, ни постоянных травм.
+В те дни в клубе царила культура соревновательной настойчивости, и члены клуба оценивали свои успехи по степени жгучей боли в мышцах. Многие тренирующиеся предпочитали совершенствоваться, преодолевая пределы своих возможностей.
+Почти все травмы Иансан получила, пытаясь подражать этому стилю тренировок.
+Однажды, когда Иансан восстанавливалась после вывиха сустава, она, ковыляя на костылях, проходила мимо битком набитых тренировочных площадок и остановилась, чтобы посмотреть на спортивный инвентарь. Она вдруг осознала, что больше не чувствует того восторга и энтузиазма, которые он когда-то вызывал. Единственное, что чувствовала Иансан, лишь боль и дискомфорт, которые он причиняет.
+Тогда Иансан впервые остро почувствовала, что не создана для спорта.
+Иансан на неделю закрылась в комнате и отгородилась от внешнего мира. Мать заметила её сомнения. Она не могла смотреть, как дочь страдает, и решила воодушевить её.
+«Есть много вещей, в которых мы не можем конкурировать с другими, но у нас есть свои таланты. Например... лечить раненых и готовить еду...»
+Мать Иансан замолчала. Если опытные тренеры в спортивном клубе не смогли привести её дочь к успеху, то какой шанс был у неё, человека, который ни дня в жизни не тренировался? Но, к её удивлению, в глазах Иансан вновь вспыхнул огонёк решимости.
+«Да, мы отлично умеем лечить раны и готовить еду!»
+После месяца восстановления Иансан снова вернулась на тренировочную площадку. На этот раз она прошла мимо опытных спортсменов, демонстрировавших друг другу свои мускулы, а затем и мимо груды спортивного оборудования, которое так мучило её раньше. На этот раз она взяла в руки кастрюлю и начала тренироваться - двигаться, записывать, готовить.
+Её тренировки выглядели гораздо более неторопливыми, чем раньше. Она следовала своему распорядку и каждый день выполняла несколько комплексов одних и тех же упражнений. В то же время она казалась более занятой, казалось, что каждый час каждого дня был заранее распланирован. Она снизила свои ожидания и редко доводила себя до предела, в отличие от других членов спортивного клуба. И в то же время её требования как будто стали более строгими: она больше не пропускала ни одной тренировки, а еду готовила сама и тщательно контролировала рацион.
+Странное поведение Иансан стало заметно спустя несколько недель. Поползли слухи, что она нашла секретный способ преодолеть ограничения своей родословной. Люди пришли посмотреть на её необычные тренировки словно на спектакль...
+«Проще говоря, всё зависит исключительно от правильного планирования тренировок, контроля за калориями и сбалансированного потребления питательных веществ».
+Любопытные зрители разошлись, похоже, разочарованные объяснениями Иансан. Философия, которую она им описала, не представляла собой ничего сложного. Они не могли понять, как нечто столь простое могло помочь Иансан преодолеть себя.
+Никто из них не заметил, что с тех пор, как она изменила режим тренировок, все показатели физической подготовки Иансан медленно, но неуклонно улучшались - от бега до отжиманий. Возможно, это потому, что другие не замечали этих показателей, но для Иансан подобные последовательные улучшения были прочными и стабильными, как сталь, которую складывают снова и снова - каждое крошечное улучшение ведёт к фундаментальным изменениям.
+В то время Иансан даже не подозревала, что представила Натлану совершенно новую концепцию - науку о питании. Всё, что она знала, - это то, что она наконец-то нашла способ тренироваться, который соответствует её индивидуальным потребностям.
+
+### История персонажа 4
+
+Иансан познакомилась со своим заврианом-спутником благодаря одной традиции Удела Благодатных Земель. Соплеменники любят состязаться с татанказаврами, а победа в таких состязаниях считается большой честью. Проведя некоторое время в спортивном клубе, Иансан тоже захотела поучаствовать в этом испытании. Однако, несмотря на все усилия, она не смогла сдвинуть с места ни одного взрослого татанказавра. В то время Иансан часто травмировалась на спортивном оборудовании, и все беспокоились, что такие состязания могут быть опасны для неё. Так, по рекомендации старших товарищей, Иансан познакомилась с Эмелой. Эмела была совсем маленькой и потеряла родителей, поэтому члены племени взяли её к себе. Татанказаврик стал идеальным соперником для Иансан.
+Между ребёнком, о котором недостаточно заботились, и ребёнком, о котором хорошо заботились, существует некое противоборство. Поэтому, узнав друг в друге соперников, они обе ещё больше настроились на победу. В первом поединке Иансан и Эмела выложились на все сто: одна сожалела, что ей не хватило сил защитить родителей, а другая жаждала, чтобы у неё хватило сил защитить родителей. В итоге обе упали на землю без сил. Победитель так и не был определён.
+С этого момента соперничество между ними стало набирать обороты.
+Как только Иансан подобрала подходящий метод тренировок, она медленно, но верно продвигалась вперёд и в конце концов превзошла саму себя. В то время она всегда была на шаг впереди Эмелы.
+Эмела, казалось, быстро оправилась от потери родителей. Она быстро выросла, пока однажды не оставила Иансан далеко позади.
+Иансан стала примером для всего племени. В один неожиданный момент она раскрыла свою силу и победила вожака татанказавров. В итоге она стала главным тренером клуба.
+Эмела росла быстрее, чем ожидалось. Её размеры быстро превзошли размеры всего вида, и она стала новым вожаком.
+Но соперничество между ними продолжалось. Казалось, оба делали всё возможное, чтобы вырваться вперёд и оставить соперницу позади.
+Соревнуясь в скорости и силе, Эмела стала позволять Иансан забираться к ней на спину. Она несла её на себе, и они обе всматривались в бескрайние просторы равнины...
+Когда война с Бездной закончилась, ученики привели Иансан к могиле Эмелы. Они чувствовали вину за то, что у Иансан не было возможности попрощаться с ней.
+«Врагов было так много, что любой, кто пробежал бы насквозь, не выжил бы. Но всё же... Если бы тренер была там, она бы точно сумела её остановить...»
+«Нет, если бы я была там, я бы помчалась вместе с ней и постаралась обогнать её».
+Возложив цветы в память о погибшей подруге, Иансан произнесла правило соперничества, о котором они с Эмелой молчаливо договорились, но о котором никто раньше не слышал...
+«Мы должны двигаться вперёд, чтобы иметь возможность защитить тех, кого мы хотим защитить».
+
+### История персонажа 5
+
+Когда вновь зазвучали рог Паломничества возвращения Священного пламени, Иансан вновь вышла в центр стадиона Священного пламени и установила новый рекорд победной серии.
+Никто больше не сомневался в её способностях как тренера, никто не смел больше насмехаться над её низким ростом. Все были поражены достижениями Иансан, но это не обескуражило её. Она продолжала обновлять свой план тренировок и меню питания, не прекращая следовать своим принципам.
+Но, к удивлению Иансан, все вдруг начали говорить о её происхождении и завидовать её «таланту». Большинство выходцев из других племён не знали её семью и не видели, как упорно она тренировалась. Они были настолько поражены её силой, что начали строить дикие предположения. В результате распространились слухи о том, что это кровь Эгунгун наделяет её сверхъестественными способностями, и вскоре заговорили о том, что Иансан получила свою сверхчеловеческую силу лишь ценой низкого роста.
+Так Иансан стала вызывать ещё больше восхищения. Её бывшие соперники, которых она одолела, также признали разницу в «таланте». Восхваляя Иансан, они находили оправдание своим поражениям.
+Сама Иансан на это ничего не ответила. Хвалебные слова, на которые она раньше не обращала внимания, теперь заставляли её хмуриться.
+Вскоре после этого воспитанники спортивного клуба Удела Благодатных Земель начали раздавать листовки на стадионе Священного пламени. Получившие листовки сначала подумали, что это приглашение на какое-то племенное мероприятие, но, взглянув на содержание, они были потрясены:
+«Академия чемпионов Паломничества возвращения Священного пламени набирает учеников! Никаких ограничений по племени, полу или возрасту! Ты тоже можешь стать чемпионом!»
+Убедившись, что это действительно листовки Иансан, потрясение сменилось растерянностью. К этому времени все уже знали о крови Эгунгун. Разве может обучение помочь им преодолеть недостатки их собственной ничем не примечательной родословной? Все предположили, что Иансан разыгрывает их.
+Но затем появилась сама Иансан, чтобы опровергнуть слухи и лично раздать листовки. Некоторые любопытствующие даже пришли по адресу, указанному на листовках, и обнаружили, что Иансан переместила свою тренировочную площадку из отдалённого уголка Удел Благодатных Земель ближе к стадиону Священного пламени, видимо, готовясь принять учеников из других племён.
+Большинство отнеслись к этому скептически, но несколько смельчаков всё же пришли на недавно открывшуюся тренировочную площадку. Многие из них были ограничены в физической силе, но жаждали стать сильнее, как Иансан когда-то. Разница заключалась лишь в том, что этих людей сдерживала их собственная неуверенность. Руководствуясь этим принципом, Иансан должна была дать им стимул двигаться вперёд и одновременно указать путь.
+«Я не буду отрицать, талант важен. Он определяет нашу скорость на пути к прогрессу, но не определяет, как далеко мы продвинемся».
+Спустя год спокойного упорства эти первопроходцы, как и обещала Иансан, стали лидерами Паломничества возвращения Священного пламени. Под самоотверженным руководством тренера Иансан многочисленные ученики добились успехов, а некоторые из них даже превзошли свою наставницу.
+Тем не менее многие продолжали относиться к ней скептически, но это не вызывало у Иансан особого беспокойства - к ней записывалось всё больше и больше учеников. В следующей партии листовок она добавила новую строчку:
+«Настоящая сила достигается упорным трудом. Это не врождённый талант».
+Иансан понимала, что, преодолев границы своего «я», она уже оправдала своё древнее имя, но всё равно хотела продвинуться дальше. Строчка, которую она добавила, была её личным примечанием к древнему имени «Сила». Настанет день, когда она докажет свою философию всему Натлану, как уже сделала это в Уделе Благодатных Земель.
+
+### Алай
+
+Давным-давно этот узорчатый череп стал для Иансан чем-то вроде талисмана. Говорят, что он принадлежал татанказавру, трагически погибшему в раннем возрасте. Возможно, Иансан хранит его в память об этом несчастном малыше.
+Однажды ученики издали заметили, как Иансан тренируется в одиночку. Они были потрясены, услышав, что череп говорит голосом татанказавра. Похоже, он подбадривал её.
+«Значит, он ещё жив?»
+«О, у меня не было случая представить его вам. Его зовут Алай, и он вроде моего ассистента по тренировкам. Он очень стеснительный и не говорит ничего, когда рядом люди».
+Иансан впервые рассказала своим изумлённым ученикам о происхождении черепа. Однажды Эмела, завриан-спутник Иансан, неожиданно обратилась к ней за помощью. Эмела обнаружила, что душа молодого татанказавра всё ещё обитает рядом с его останками, не желая перейти в Царство Ночи. Иансан разыскала Ситлали, великого шамана Повелителей Ночного Ветра, и попросил её применить к останкам татанказавра заклинание, подобное тому, что используется для создания Цицимитль. Таким образом ей удалось удержать его душу в черепе, не позволив ей потеряться и вечно блуждать среди живых.
+Рассказав историю, Иансан нежно погладила череп, как бы успокаивая его.
+«Он всегда подбадривает меня, когда я тренируюсь. Наверное, он тоже мечтает вырасти и стать большим и сильным татанказавром, как его товарищи, и поэтому не хочет уходить».
+
+### Глаз Бога
+
+Ещё до того, как Иансан стала главным тренером, в центральной части тренировочной площадки неизменно находилась тяжёлая штанга.
+Говорят, что её оставил основатель спортивного клуба, и поднять её мог только тот, кто достиг вершин в искусстве тренировок, знаменуя тем самым своё восхождение в качестве нового лидера спортивного мира Натлана. Штанга стала главным испытанием для всех тренеров, несмотря на то что до сих пор никому не удавалось её поднять.
+Каждый раз, когда к штанге подходил новый претендент, все собирались, чтобы посмотреть, обсудить и сделать ставки на исход испытания. Для жителей Удела Благодатных Земель поднятие штанги было высочайшей проверкой их достижений в физической подготовке. Каждый хотел стать тем единственным, кто сможет это сделать, и каждый гадал, кто же в итоге справится с этой ношей.
+Пока однажды Иансан не подошла к штанге, задумчиво глядя на неё. Когда окружающие заметили в её глазах стремление, они попытались отговорить Иансан.
+«Ты знаешь, сколько сил нужно, чтобы поднять штангу?»
+В их словах слышались сомнения, но прежде всего - забота. Все понимали, что если Иансан решится пройти испытание штангой, то травмы, которые она получит, могут оказаться ещё более серьёзными, чем когда она только начала тренироваться.
+«Я подниму её с помощью силы тысячи дней!»
+Таков был ответ Иансан.
+Все переглянулись, не понимая, что означает «сила тысячи дней», и решили, что Иансан, должно быть, осваивает очередной диковинный метод тренировок. Убедившись, что она не делает ничего такого, что могло бы ей навредить, все снова разошлись. Однако они не заметили, что в глазах Иансан было не стремление, а решимость.
+Первые сто дней Иансан продолжала заниматься, как обычно, повторяя упражнения в соответствии с разработанным ею планом. Этот метод тренировок был настолько прост и однообразен, что не привлекал внимания. Но она упорно продолжала заниматься изо дня в день, как и её предки, выполнявшие свою кропотливую работу. Те, кто поначалу пытался отговорить её, давно позабыли об этом. В клубе всё вернулось на круги своя. Казалось, ничего не изменилось.
+На третьем стодневном цикле в тренировках Иансан наметились изменения. Возможно, из-за возросшей интенсивности она снова стала получать травмы, но быстро восстанавливалась. Причиной тому могли быть целительные техники, которым она научилась у родителей, а может быть, необычные блюда, которые она готовила каждый день. Иансан продолжала придерживаться монотонного режима упражнений, и в отличие от членов клуба, которые хвастались даже самыми незначительными успехами, она была похожа на тихие, но бескомпромиссные мельничные жернова. Там, куда не доходили чужие взоры, она медленно и неуклонно работала день за днём, словно хотела перемолоть что-то в пыль.
+Во время пятого стодневного цикла члены клуба, как обычно, демонстрировали свои мускулы и болтали о том, что некоторым пришлось начать тренироваться заново, потому что они слишком расслабились. Подобные ситуации были обычным делом, ведь подавляющее большинство спортсменов освоили такие техники, как «идеальный пресс за месяц», поэтому почти никого не волновала кратковременная потеря формы.
+К седьмому стодневному циклу более проницательные из них снова отметили, что что-то изменилось, хотя и не могли точно сказать, что именно, пока не вернулся один из соплеменников, отсутствовавший больше года. Остальные обратили внимание на происходящее благодаря его удивлённому восклицанию - Иансан начала использовать на тренировках тот же вес, что и остальные члены племени. Изменения происходили незаметно в течение последних пяти сотен дней. Медленно, но неуклонно, настолько, что никто ничего не заметил.
+На девятом стодневном цикле кто-то наконец понял, какой план тренировок разработала для себя Иансан, и вспомнил ответ, который она дала в своё время. Однако на этот раз те, кто поначалу инстинктивно пытался отговорить её, засомневались. Молчаливые жернова Иансан вращались так долго, что, казалось, что-то перемололи в их сердцах.
+В последние сто дней всё внимание было приковано к зоне для тренировок Иансан. Сама того не осознавая, она стала выступать в роли человека, который демонстрирует другим свои достижения в тренировках. Люди собирались вокруг неё, восхваляя её подвиг, когда она совсем недавно сразилась с вожаком татанказавров. Сама она, похоже, не обращала на это внимания, а продолжала следовать первоначальному плану. Не спеша, не отвлекаясь.
+Наконец наступил тысячный день, и спустя почти три года Иансан снова встала перед штангой. Все, кто тренировался в племени, собрались вокруг Иансан, с волнением ожидая, когда она совершит свой подвиг. В отличие от других случаев, в этот раз никто не спорил о том, получится у претендента или нет. Предшествующие этому моменту девятьсот девяносто девять дней тренировок превратили это действо в подвиг, который Иансан могла совершить совершенно непринуждённо.
+Иансан подошла к штанге и неожиданно обнаружила на грифе сияющий Глаз Бога.
+Иансан поняла, что только что столкнулась лицом к лицу со своим «желанием». Но для неё это была обычная «цель» в программе тренировок. Впрочем, она не стала долго раздумывать над этим, потому что для неё больше не существовало большой разницы между этими двумя понятиями.
+Иансан взяла Глаз Бога и продолжила тренироваться в соответствии со своим планом.
+
+## EN
+
+### Character Details
+
+When the people of Natlan think about the Collective of Plenty, the first thing that springs to mind is the tribe's culture of fitness — followed shortly by mental images of towering, muscular, chiseled physiques...
+Many first-time visitors to the Collective of Plenty, therefore, are surprised to learn that the current leading light of the tribe's fitness scene is about as far away from those mental images as it's possible to be. As tall — or short — as a child, the young lady in question is positively scrawny when compared with most of her peers.
+This young lady — whose unimposing frame gives the impression that a strong gust of wind might well blow her away — is the head coach of the fitness club at the Collective of Plenty: Coach Iansan.
+At first, many visitors had assumed that the tribe were merely playing a trick on outsiders.
+But in due course, there was ample opportunity for newcomers to witness Coach Iansan directing training sessions — and the aftermath, with her students collapsed exhausted on the floor while she herself had hardly broken a sweat.
+Eventually, with the eyes of all Natlan watching, Iansan proved her prowess on the greatest stage, setting an all-time victory record in the Pilgrimage of the Return of the Sacred Flame.
+And now, Iansan is widely recognized as the gold standard for trainers in Natlan. She has even set up her own special training camp to teach the techniques required to attain victory in the Pilgrimage of the Return of the Sacred Flame.
+Folk are shocked by Iansan's strength and curious as to its source. There are rumors that she has an unusual lineage, one which bestows her with extraordinary strength, but also uncommon shortness.
+Whenever outsiders to the tribe attempt to confirm these rumors with the Collective of Plenty, however, their questions are met by little more than icy stares and an equally frosty answer:
+"Hmph, she trains hard."
+Having met their perfunctory burden of manners, the people of the Collective of Plenty will then return to working out, leaving behind befuddled outsiders who are unsure exactly what they did to cause offense.
+And so new rumors begin to spread, ones that claim Iansan's power is derived from a secret tribal weapon belonging to the Collective of Plenty — a weapon that they are forbidden from talking to outsiders about.
+Whenever such rumors begin to do the rounds, Iansan is quick to seek out the curious questioners.
+"You too can be as strong as me. Join my training academy and I guarantee you results!"
+Once their shock has faded, most people decline the offer. Perhaps they don't believe that Coach Iansan can really guarantee success, or perhaps they've already heard stories of just how grueling her training really is.
+The rumors surrounding Iansan continue to swirl and spread. On the rare occasions when she isn't training and has the time to pay them heed, Iansan can only sigh and shake her head.
+"I keep telling them it's down to the training... Why doesn't anybody listen?"
+
+### Character Story 1
+
+For as long as she can remember, Iansan has known that she will never grow any taller.
+The "Blood of Egungun" runs through her veins, as it has through the veins of countless generations of her family. Her ancestors never grow to be taller than children.
+The tribespeople of the Collective of Plenty are the biggest and strongest in all of Natlan, yet Iansan and her family are anomalies. Their bloodline has thwarted all hopes of them ever becoming as formidable of stature as their tribal peers, while providing them with no obvious boon in return. Compared to the curse of their bloodline, even the tainted bargains of fairytale witches seem fair by comparison.
+Fortunately, the tribespeople of the Collective of Plenty are accepting and kind. After taking Iansan's family in, they have never treated them with prejudice, instead adopting a protective attitude. Whenever war broke out, Iansan's ancestors have always been kept from the front lines, serving as medics and cooks. They are not as courageous or nimble as the warriors of the tribe, having developed a habit of keeping their heads down and sticking to routine.
+Ever since Iansan can remember, she had helped her parents with their work. But compared with her parents' diligence, she had felt a persistent restlessness that seemed to call her toward the battlefield. Whenever she had the chance, she would always head toward the sound of the latest battle to await the returning warriors. Not that her waiting bore fruit — concerned tribal guards always returned her to her parents long before she could get near the fighting. It seemed that her fate was to follow in the footsteps of her parents and live the life predetermined for her by the "Blood of Egungun."
+Until, that is, an unexpected event that shocked the whole tribe occurred — she was chosen by the ancient name "Power" to serve as its vessel.
+Iansan was as shocked as the rest of her tribe, but the inscription on the ancient name was clear beyond doubt. Overnight, Iansan became the center of attention, but most of the gazes that now fell on her were far from kind. For the Collective of Plenty, the ancient name "Power" was especially significant — representing unrivaled honor and unparalleled responsibility. Most of the tribe looked down on Iansan, both in terms of her ambition and stature. They questioned not only whether she deserved this honor, but also whether she could live up to its expectations.
+But those most troubled by this turn of events were her parents, who — despite their hard work — had always been content knowing their place in society. They knew they could offer no help to Iansan in this matter, and could not even speak of it for the longest time. When they finally broached the subject with their daughter, it was to express their unconditional support for whatever path she chose.
+And so, a few days later, Iansan approached Acatl — who was both the tribal chief and head coach of the Collective of Plenty's fitness club at the time.
+"Coach, I want to train!"
+
+### Character Story 2
+
+In the Collective of Plenty, fitness is sacrosanct, second in importance only to the Pilgrimage of the Return of the Sacred Flame. The tribespeople advocate for a universal focus on working out and take great pride in the results of their training.
+Despite this, when Iansan appeared at the hallowed tribal training grounds, there was much grumbling from her peers. "This kid should quit before something happens," many thought. After all, to most observers, Iansan working out wasn't a question of suitability, but one of basic safety — some of the weights being thrown around weighed more than she did!
+Her fellow fitness enthusiasts collected all the entry-level equipment they could and placed it in front of Iansan, explaining that it represented the threshold required to join the club. They thought this would dissuade her, but Iansan merely selected a small barbell and put all of her effort into trying to lift it. Before the plates had even left the ground, the gathered crowd heard the loud crack of creaking bones, and rushed forward to stop Iansan...
+It was weeks before Iansan could get out of bed and walk by herself, and even that was only due to her father's skills as a medic — otherwise, she might have been bedridden for months. Upon hearing that Iansan was getting better, Acatl paid her a visit. Ever since failing to stop Iansan from hurting herself, Acatl had been facing much criticism from the tribe. Iansan was worried that his visit was a personal attempt to persuade her to abandon her chosen path.
+"So, fitness has a threshold?"
+"Fitness isn't a question of credentials, it's a question of choice."
+Acatl assuaged Iansan's concerns before telling her the story of the founder of the Collective of Plenty's fitness club.
+This great warrior, Meztcala, was once chief of the Collective of Plenty. He had a mighty physique and a strength seldom matched before or since. Back then, the tribe had experienced much upheaval since its founding and was yet to establish a firm foothold by the slopes of the Sacred Mountain. He used his prodigious strength to conquer monsters and magma alike, while protecting his people day and night. At that time, the Sacred Mountain had just entered a new eruption cycle. As volcanic activity became more and more intense, even Meztcala, strong as he was, began to feel tired and overwhelmed. In the face of growing pleas for shelter from his people, he knew he alone could not weather the storm, yet he never abandoned them.
+"You can all become like me. You can all choose to become like me!"
+He made the tribespeople his students, taught them his training techniques, and then led them against the dangers that threatened their tribe. Through countless grueling trials, the people of the Collective of Plenty learned that they too had the strength and power to protect their homeland. By the time Meztcala grew old and succumbed to the irresistible force of time, his students had surpassed him and now formed a protective barrier around their tribe. In the end, the tribespeople of the Collective of Plenty established a secure and peaceful homeland at the foot of the great volcano.
+"That is the origin of our fitness club, and the words I just told you are a warning passed down by Meztcala himself. If anyone claims that training has a threshold, do you think he would agree?"
+"Iansan, I've heard about your troubles lifting even the most basic training equipment. This doesn't mean you lack the credentials to train, it simply means that everyone else lacks the ability to train you. Your physical condition is beyond the boundaries of practically any fitness trainee's personal experience. And so, it would be remiss of me not to point out that training, for you, will be a very difficult path to follow."
+"However, the path you take is ultimately a choice that only you can make."
+After Acatl had left, Iansan lapsed into a multi-day silence, as she had when she first discovered her ancient name. Eventually, when she emerged from her solitude, it was to seek out Acatl once more.
+"Coach, I want to train!"
+With that, Iansan returned to the tribal training grounds. But this time, she was not met with a pile of weights and equipment designed as a deterrent. Instead, the members of the fitness club brought Iansan to a freshly prepared patch of ground, far from the dangerously heavy, swinging weights of the main workout area. In this space, they had prepared for Iansan her own personal place to train, complete with everything she might need.
+This time, their gazes contained more than just concern for her safety. Now, there was a hint of admiration as well — for they all understood that this young woman had actively chosen to walk a lonely path of training.
+
+### Character Story 3
+
+In her early days at the fitness club, Iansan's determination to train and become stronger never faltered. Yet her indomitable willpower did nothing to lighten the pain and soreness that frequently racked her body, nor the persistent injuries.
+In those days, a culture of competitive perseverance permeated the club, with members measuring their success by the levels of burning pain in their muscles. Many of the trainees preferred to chase improvement by challenging their absolute limits.
+Iansan's injuries were almost wholly brought about by trying to imitate this style of training.
+Once, while recovering from an injury, Iansan — hobbling on crutches — passed the packed training grounds and stopped to stare at the equipment. She suddenly realized that she no longer felt the excitement and enthusiasm towards the challenge these objects once presented, rather, she could only feel the aching pain in the joint she'd recently dislocated.
+That was the first time Iansan truly felt like she wasn't cut out for fitness training.
+After a week of staying inside and shutting out the outside world, Iansan's mother — torn by her daughter's obvious anguish — tried her best to comfort her.
+"There are many ways we can't compete with others, but we have our own talents. For example... treating injuries and cooking food..."
+Iansan's mother fell silent. If the experienced trainees at the fitness club couldn't help guide her daughter to success, what chance did she have, as someone who had never trained a day in her life? But to her surprise, the blazing fires of determination began to burn anew in Iansan's eyes.
+"You're right. We can treat injuries and cook food!"
+After a month of recuperation, Iansan returned once more to the training grounds. This time, she walked straight past the experienced trainees, who were flexing and flashing poses at each other, and straight past the piles of equipment that had so tormented her before. This time, she picked up a pot and began to train — moving around, taking notes, and cooking.
+Her training seemed far more leisurely than before. She followed her routine and completed a few sets of the same exercises each day. At the same time, she somehow seemed busier: as though every hour of every day had been planned out. She appeared to have lowered her expectations, rarely pushing herself close to her limits — unlike the other fitness club members. And yet, her expectations also seemed somehow to be more stringent, as she no longer missed a single day's training, all while cooking her own meals and strictly regulating her diet.
+After weeks of this strange behavior, people started to notice. Rumors began to circulate that Iansan had found the secret to overcoming the limits of her bloodline. They flocked to her unusual training sessions, and gathered around as though watching a piece of performance art...
+"In the simplest of terms, my strength comes from a well-scheduled workout routine, controlled caloric intake, and precise supplemental nutrition."
+The curious onlookers dispersed, disappointed with Iansan's explanation. The philosophy she had described to them did not seem to offer even the slightest challenge. They couldn't fathom how something so simple could allow Iansan to break through the limits of her self.
+What none of them seemed to have noticed was that ever since shaking up her training regimen, all of Iansan's fitness metrics had been steadily improving — from running farther, to performing more pushups. Perhaps this was because the other trainees didn't care much for that sort of data, but to Iansan, these gradual improvements were solid and consistent, like steel folded over and over — each tiny milestone building towards a fundamental change.
+At that time, Iansan had no idea that she had already introduced a brand-new concept to Natlan — the science of nutrition. All she knew was that she had finally found a mode of fitness training that suited her individual needs.
+
+### Character Story 4
+
+Iansan's friendship with her saurian companion stems from a tradition of the Collective of Plenty — the people of the tribe enjoy wrestling with Tatankasaurs, with victory in such contests being a mark of great honor. A little while after joining the fitness club, Iansan also attempted this feat, but try as she might, she couldn't so much as budge a single adult Tatankasaurus. Fearing that her attempts were likely to end the same way as her brushes with equipment at the training grounds, her more experienced peers introduced her to Emela. Emela had been orphaned not long after her birth, and was taken in by the tribe. She was a baby Tatankasaurus, and it seemed more fitting for Iansan to train with someone of her own size.
+One child had lost the care of her parents, and the other had been coddled a little too much by hers. There was a natural rivalry between the two — one that only intensified once they were assigned as training partners. They both poured everything they had into their first duel, one regretting how they had lacked the strength to protect their parents, the other wishing to gain the strength to protect her own. In the end, they both fell, exhausted, to the floor, with no clear winner left standing.
+From that moment on, their rivalry officially began.
+Once Iansan found a method of training that suited her, though improvements came slowly, she gradually managed to push beyond her limits. During that time, she was in the lead.
+But as Emela moved out from under the shadow of her parents' passing, she began to thrive in the light, until eventually, she surpassed Iansan, and had her eating her dust.
+By this point, Iansan's progress had gradually attracted the attention of the entire tribe. In an unexpected turn of events, she ended up defeating the chief of the Tatankasaurs and eventually took over from Acatl as the head coach of the fitness club.
+Emela's own progress was likewise exceeding everyone's expectations. She had long since grown larger than any other Tatankasaurus in the tribe, and rose to become their new chief.
+All the while, their rivalry continued. Both of them seemed desperate to constantly surpass the other, leaving their rival to play catch-up.
+Despite this intense competition, when they were not challenging each other in contests of strength, Emela would allow Iansan to ride on her back as they explored the wilderness together.
+Once the war to repel the Abyss invasion had ended, Iansan's students brought her to the place where Emela was buried. They felt a great sense of responsibility for the fact that Iansan had not seen her dear friend one last time before her passing.
+"There were so many enemies, she must have known that she wouldn't return if she charged in... If you'd been there with her instead of us, you could have stopped her..."
+"No. If I'd been there with her, I would've charged, right by her side. We'd have raced to see who could reach the enemy first."
+Iansan laid down a flower for her old friend and uttered, for the first time, the unspoken rule that was at the heart of her and Emela's rivalry —
+"Only by taking the lead can you protect the ones you've left behind."
+
+### Character Story 5
+
+As the horns sounded to herald the Pilgrimage of the Return of the Sacred Flame, Iansan returned to the Stadium of the Sacred Flame once more to set a new record for consecutive victories.
+People no longer questioned her credentials as the head coach of the fitness club, nor did anyone dare mock her unassuming stature. While others may express shock at her results, Iansan remained unmoved — she simply focused on updating her training plans and recipes, unceasing in the implementation of her fitness philosophy.
+What did surprise Iansan, was that everyone discussing her bloodline now suddenly expressed envy towards her "gift." Most members of other tribes knew nothing of Iansan's family background, nor had they witnessed her hard work. Amazed by her achievements, they began to grasp for explanations. In the midst of this speculation, rumors abounded that the "Blood of Egungun" was a mark of innate power, one that bestows otherwise unattainable strength for the price of a lifetime of being unable to grow.
+Even more shockingly, Iansan's vanquished opponents readily accepted the truth of this "gift," not only praising Iansan's talents, but also claiming it as justification for their losses.
+Only Iansan remained silent, her frown deepening at these rumors that she had at first ignored.
+Not long after, the trainees of the Collective of Plenty's fitness club began distributing flyers at the Stadium of the Sacred Flame. Upon receiving these flyers, most people assumed they were invitations to some sort of tribal event, but when they read the contents, their mouths were left agape in shock...
+"The Pilgrimage Victors Academy is looking for students! Any tribe, any age, any gender! You too can become a record holder with a winning streak!"
+After confirming that these flyers did indeed come from Iansan, shock turned to confusion. By now, everyone knew about the "Blood of Egungun" — what sort of training could possibly help them overcome the disadvantages of their own unremarkable bloodlines? Everyone assumed that this must be Iansan playing a prank.
+But then Iansan appeared, both to deny the rumors and to hand out flyers in person. Some curious souls even visited the address on the flyers and discovered that Iansan had relocated the fitness club from deep within Collective of Plenty territory to a spot much closer to the Stadium of the Sacred Flame, seemingly in preparation for taking on trainees from other tribes.
+Not many were swayed by Iansan's flyers, but an intrepid few made their way to the newly relocated training grounds. Most of them were limited by their own physical shortcomings but yearned to become stronger, just as Iansan once had. The only difference was that these people had let themselves be held back by their own uncertainties. Iansan's guiding principle was to provide them with the motivation to move forward, while showing them the path.
+"I won't deny it, talent is important. It decides how fast we walk on the paths we choose... but it cannot decide how far we can go."
+After a year of quiet persistence, these pioneering trainees emerged as outstanding competitors in the Pilgrimage of the Return of the Sacred Flame — just as Coach Iansan had promised. Under her dedicated tutelage, countless students achieved their own breakthroughs, some of them going on to surpass even their coach's abilities.
+Even so, skeptics were still the majority, not that this caused Iansan much concern — more and more trainees were signing up for her academy. On her next round of flyers, she added a new line:
+"You need not be born with power. Toil is what truly imparts strength."
+Iansan understood that by breaking through the limits of her self, she had already lived up to her ancient name, yet she still wished to push herself further. The line she had added was her personal footnote to the ancient name of "Power." There would come a day when she would prove her philosophy to all of Natlan, just as she had already done with the Collective of Plenty.
+
+### Alaye
+
+For a long time, Iansan's patterned skull has been something of an icon. It is said that its original owner was a Tatankasaurus who tragically died young. Perhaps Iansan keeps it to commemorate this unfortunate child.
+One day, a group of trainees — approaching from a distance — noticed Iansan training on her own. They were shocked to discover her skull grunting like a live Tatankasaurus. It appeared to be cheering her on.
+"So... it's not dead?"
+"Oh, I still haven't introduced you all! This is Alaye, you can think of it as my training partner. It's a little shy, so usually it only speaks when no one's around."
+And so Iansan began to tell her astonished students the story behind her skull. One day, Iansan's saurian companion, Emela, came to ask her for help. Emela had encountered a Tatankasaurus spirit lingering over its remains, unwilling to journey on to the Night Kingdom. Iansan sought out the help of Citlali from the Masters of the Night-Wind and asked her if she could weave her magic with the Tatankasaurus's remains, much like creating a Tzitzimitl. And so, the Tatankasaurus spirit was bound inside its skull, where it would neither lose its way nor fade with time.
+When she had finished speaking, Iansan caressed the skull gently, as though comforting it.
+"Whenever I'm working out, it gives me encouragement. It must have wanted to grow into a strong, dashing adult Tatankasaurus like its peers. That's why it wasn't ready to leave."
+
+### Vision
+
+Long before Iansan took over as head coach of the fitness club, an immensely heavy barbell had been given a place of honor at the center of the training grounds.
+It was rumored to have been left there by the original founder of the fitness club. Only someone who had attained the pinnacle of strength would be able to lift it, and doing so would cement their place as the new leading light of Natlanese fitness. As such, lifting this barbell was the ultimate goal of all the club's members. And yet, no one had ever succeeded.
+Whenever a new challenger would approach the bar, everyone would gather around to discuss — and wager on — the outcome. For the tribespeople of the Collective of Plenty, lifting this barbell was proof that one embodied the pinnacle of fitness. It was a challenge that everyone wished to pass, and one that garnered a huge deal of speculation as to who would finally be the one to do so.
+Then one day, Iansan herself approached the bar and stood there, lost in thought. Those nearby could see the yearning in her eyes and did their best to persuade her not to try.
+"Do you know what sort of power it would take to lift this bar?"
+There was doubt in their voices, but also concern. Everyone knew that if Iansan tried to lift the barbell, the resulting injuries would be far worse than any she had suffered when she first started training.
+"It would take the 'Power of a Thousand Days'!"
+That is how Iansan answered them.
+The gathered onlookers exchanged puzzled glances — none of them knew what the "Power of a Thousand Days" was. Most assumed it must be some new esoteric training philosophy Iansan was dabbling in. After ensuring that Iansan wasn't about to do anything that might hurt herself, the crowd dispersed. None of them had noticed the yearning in Iansan's eyes turn to a steely determination.
+For the first set of 100 days, Iansan trained as usual, repeating the same self-assigned routine of bland, boring exercises — nothing that would draw anyone's attention — persisting day after day, just as her ancestors had always persisted in their labor. Soon, everyone had forgotten about her words before the barbell and everything at the fitness club returned to normality.
+By the third set of 100 days, Iansan's training was finally showing signs of change. Perhaps because of the increased intensity, she was plagued by injuries during this time, yet shrugged each one off in short order. This may have been due to the healing skills she had acquired from her parents, or it may have been down to the unusual food she was cooking for herself. She was still sticking mostly to the same old exercises she had assigned herself — slowly grinding out set after set in an unnoticed corner and abstaining from displaying her gains like most of her fellow club members.
+By the fifth set of 100 days, the fitness club's members were flexing their muscles and discussing which of their peers needed to get back on the gains-mobile after taking it too easy for too long. This ebb and flow of effort was common at the fitness club, but as most members were familiar with dozens of different programs to get "muscles in a month," it seldom took them long to go back to being ripped after a short period of slacking off.
+By the seventh set of 100 days, a few more observant trainees had noticed that something was different — not that they could pinpoint exactly what it was. It was only when a club member, who had been away from the tribe for over a year, returned and yelped out his surprise that a shocking revelation was made — Iansan was now using the same fitness equipment as everyone else! This change had taken place over the last several hundred days, so gradually that no one had noticed.
+By the ninth set of 100 days, someone finally stumbled across the training plan that Iansan had made for herself. Thinking back to her words from over two years ago, those who had persuaded her not to try lifting the barbell were no longer so certain. It was as though Iansan's months and months of silent grinding had pulverized their concerns into dust.
+By the final 100 days, the once-unnoticed corner where Iansan trained had become the focal point of everyone's attention. At some point in the preceding weeks and months, she had become the flexer-in-chief of the fitness club. The other members gathered around and gasped in admiration at her recent triumph over the chief of the Tatankasaurs. Not that Iansan paid them much mind — she was single-mindedly focused on steadily executing her training plan, keeping her head down, and sticking to her routine.
+When the thousandth day rolled around, almost three years in the making, Iansan finally returned to stand before the barbell. Everyone in the tribe with even a passing interest in fitness was there to watch, eagerly awaiting the miracle that was due to take place before their eyes. This time, no one was discussing the outcome — everyone who had witnessed Iansan's hard work over the preceding years already knew what was about to unfold.
+As Iansan approached the bar, to her surprise, she found a twinkling Vision hanging from it — who knew when it had been put there?
+Iansan understood this was proof that she was staring down the imminent fulfillment of her wish. Yet to her, this was just a "target" on her training plan. Perhaps, in Iansan's world, there was no difference between the two.
+Iansan removed the Vision and then lifted the barbell, with as much ease and certainty as if it was merely another item on her training plan.
+
+## ZH
+
+### 角色详细
+
+纳塔人谈起沃陆之邦这个部族，总会首先想起他们的健身习俗，脑海中浮现出属于健身者的种种形象，或是高大的体型，或是壮硕的肌肉…
+然而，许多初到沃陆之邦的外族人都会很快了解到一个令他们震惊的事实——沃陆之邦健身界当下的掌舵人与上述画面毫无关联，她只有孩童般的身高，比起沃陆之邦的绝大部分族民，她的四肢就像是纤细的枝条。
+这位看上去弱不禁风的少女，就是沃陆之邦健身俱乐部的总教练伊安珊。
+起初，大家都以为这只是一个用来捉弄外族人的玩笑。
+后来，真的有人看到伊安珊带队拉练。身后的学员全部累倒之后，她仍然健步如飞。
+最终，伊安珊在全纳塔人的见证下，创造了归火圣夜巡礼的全胜记录。
+然后到今天，伊安珊已经成为全纳塔公认的金牌导师。她甚至还开设了一个培训班，专门传授归火圣夜巡礼的优胜技巧。
+人们惊叹于伊安珊的强大，也好奇她的这份强大来自何处。有种传言说伊安珊的血统很特殊，拥有这种血统的人无法长高，但可以获得远超常人的力量。
+不过，当某些好奇的外族人尝试向沃陆之邦的族民确认这种说法时，却会遭到对方的冷眼相待。
+「哼，欠练了。」
+沃陆之邦的族民往往会丢下这样一句话，然后继续在健身活动中挥洒汗水，留下一众疑惑的外族人，思考着自己到底在什么地方冒犯到了他们。
+于是又有新的传言开始在人群中流动，大家开始以为伊安珊掌握的力量是沃陆之邦的秘密武器，因此他们才对外人讳莫如深。
+然而就在这样的传言流传开来时，伊安珊主动找上了这些好奇的人。
+「我的力量你也可以拥有哦，来参加我的培训班吧，包教包会！」
+震惊之余，大多数人还是拒绝了伊安珊的邀请。或许是因为不相信伊安珊的承诺，又或许是因为了解伊安珊的培训课程有多么恐怖。
+之后，关于伊安珊的种种传言依旧层出不穷。在训练之余的休息时间，她偶尔也会对此发表感叹。
+「都说了是健身的成果，怎么就不信呢？」
+
+### 角色故事1
+
+从懂事起，伊安珊就明白自己今生都无法长得更高了。
+她来自一个流淌着「沃贡贡之血」的家族，她的祖辈直到去世都只有孩童般的身高。
+沃陆之邦是全纳塔最强壮的部族，而伊安珊的家族完全是部族内的一个异类。伊安珊的祖辈也曾渴望过变得和其他族民一样强壮，然而他们的血统否定了这种可能，同时也没有提供任何能够被称为增益的特征。比起这种血统，童话故事里那些诱使冒险者牺牲珍视之物换取力量的巫师都显得公正了许多。
+好在沃陆之邦的族民大多古道热肠，他们接纳了伊安珊的家族后并没有表现出任何歧视，而是将其视为需要保护的对象。每当战事发生，伊安珊的家族都会被安排到后方，负责一些治伤和煮饭的杂活。他们不像部族战士那样勇武和机敏，而是在日复一日的日常工作中养成了按部就班，严格按照计划办事的习惯。
+伊安珊从记事起就跟着父母一起忙碌，很快就成为一名得力的助手。但是比起勤劳稳重的父母，伊安珊身上多了一份指向战场的不安定感。忙碌之余，她总会跑到战场附近，向战士归来的方向张望。这种张望一直没有什么结果，富有责任心的部族战士们很快就会把她送回到父母身边。她似乎也注定要像父母那样，延续「沃贡贡之血」为这个家族圈定好的生活。
+直到某一天，一场令整个部族都没有想到的变故降临在伊安珊身上——名为「力量」的古名选择了她作为继承人。
+族民们和伊安珊本人一样惊讶，然而古名上的铭文十分清晰，容不得半点质疑。伊安珊随之成为了整个部族的焦点人物，只是聚集在她身上的目光大多不太友善。「力量」这个古名对于沃陆之邦来说意义重大，它是无上的荣耀，也是沉重的责任。无论从心态出发还是从身高出发，大多数族民都俯视着伊安珊，既质疑她是否拥有获得荣耀的资格，也担心她是否拥有承担责任的能力。
+而最为此事劳心的，还得是伊安珊的父母。这对父母辛劳勤恳，但也循规蹈矩，他们深知自己无法在这件事上提供有用的建议，只能在女儿面前长久地保持沉默。但是漫长的沉默过后，父母几乎同时发言，表示愿意无条件支持伊安珊的决定。
+于是数天之后，伊安珊来到时任部族首领兼健身俱乐部总教练的阿卡特跟前。
+「教练，我想健身！」
+
+### 角色故事2
+
+在沃陆之邦，健身是在神圣性上仅次于归火圣夜巡礼的活动。沃陆之邦的族民们提倡所有人都参加健身，并以自己的健身成果为傲。
+不过，当伊安珊也出现在健身场地时，其他人还是或多或少地出现了「这个孩子应该尽早退出」的想法。毕竟在当时的大家看来，健身对于伊安珊来说已经不是合不合适的问题，而是安不安全的问题，毕竟大家常用的某些健身器材比伊安珊整个人都要重。
+于是大家将新手入门用的器材摆到伊安珊跟前，并声称这是加入俱乐部的门槛，旨在将其作为一种劝退的手段。伊安珊没有退缩，她选中了一副小号的杠铃，使出全身的力气向它发起了挑战。然而杠铃刚尚未离开地面时，周围的人就听见了几声骨骼的脆响，急忙出手制止了伊安珊…
+伊安珊能够重新下床走路已经是半个月之后，这还要得益于她的父亲是个治伤好手，让她免于因为严重的骨伤而卧床数月之久。听说伊安珊伤势好转后，阿卡特前来慰问。这段时间，阿卡特因为当初没有劝阻伊安珊的事而受到了很多人的指责，这次前来恐怕是要亲自劝退她。因此，面对这次来访，伊安珊十分不安。
+「所以，健身是有门槛的？」
+「但健身不是一种资格，健身是一种选择。」
+阿卡特抚平了伊安珊的不安，开始讲述俱乐部创建者的故事。
+那位名为梅兹卡拉的勇士也担任过沃陆之邦的部族首领，他的体格十分强壮，是古今罕见的大力士。在他生活的年代，沃陆之邦自创建起刚刚经历了几代人的变迁，尚未在圣山下站稳脚跟。他依靠自身强壮的体格抗击猛兽和岩浆，日夜守护着族民们，宛若部族的守护神。然而彼时的圣山忽然进入了一段活跃期，随着岩浆活动的日益加剧，强壮如梅兹卡拉也开始感受到疲惫。面对越来越多祈求庇护的族民，他明白自己独木难支，但他并没有逃避。
+「那就让你们成为我，你们都可以选择成为我！」
+他将族民们当成了自己的学生，将自己的锻炼方法倾囊相授，带领他们一起面对部族的威胁。在一次次的历练中，这些族民渐渐发现，他们真的也可以拥有保护家乡的力量。等到梅兹卡拉垂垂老矣，无力再对抗岁月时，他的许多学生早已超越了他，成为了沃陆之邦新的城墙。最终，沃陆之邦站稳了脚跟，在圣山之下安居乐业。
+「那就是健身俱乐部的源起，而我刚刚跟你说的话，就是梅兹卡拉留给后人的告诫。如果你要说健身有门槛，他首先就不会答应吧？」
+「伊安珊，你连最基础的健身器材都无法使用的事我已经听说了。但这不代表你没有健身的资格，而是代表没有人能向你提供指导，因为你的身体条件已经脱离了绝大多数健身者的经验范畴。因此，我有义务向你说明，健身对你来说注定是一个非常艰巨的选择。」
+「不过，最终还是要由你来做选择。」
+阿卡特离开后，伊安珊又沉寂了很多天，就像最初得知自己的古名时那样。最终，伊安珊再次来到阿卡特跟前。
+「教练，我想健身！」
+于是伊安珊重新回到健身场地，俱乐部的成员没有再次进行之前那种劝退仪式，而是将伊安珊带领到一片新开辟的场地。这里远离大个子们挥舞健身器材的危险区域，还特地安置了单独的休息设施，明显是专门为伊安珊个人准备的健身场所。
+这一次，大家看向她的眼神中除了担忧之外还多出了些许敬佩——他们都知道，这个女孩儿主动选择了踏上一条孤单的修行之路。
+
+### 角色故事3
+
+最初加入俱乐部的那段日子，伊安珊通过健身变强的决心从未动摇过，然而每隔几天就到来的伤痛并没有因为她的主观意志而减轻分毫。
+彼时的健身俱乐部崇尚一种比拼毅力的健身模式，大多数成员都将肌肉的酸痛感作为衡量健身成果的标准，有不少成员还喜欢挑战自己的极限以寻求突破。
+而伊安珊的绝大部分伤病都来源于对这种健身方式的模仿。
+某一次养伤期间，伊安珊拄着拐路过族人聚集的健身场所，望着那里的器材发呆。她忽然发现，自己看向这些器材时已经感受不到挑战带来的兴奋和悸动，只能感受到不久前脱臼的关节又在隐隐作痛。
+在那段时间，伊安珊第一次产生了健身不适合她的想法。
+在伊安珊闭门不出一个星期后，母亲看出了伊安珊的犹豫。比较心软的她看不得伊安珊经受这样的折磨，于是尝试鼓舞自己的女儿。
+「我们跟其他人自然是没法比的，但我们也有自己擅长的事，比如…比如治伤和煮饭…」
+母亲最终还是沉默了，俱乐部的那些前辈都无法为伊安珊提供有效的指导，又何况是她这位从来没有接触过健身的母亲。但令母亲意外的是，伊安珊那沉寂许久的眼眸中重新燃起了某种火光。
+「对啊，我们擅长治伤和煮饭！」
+一个月的修养结束后，伊安珊再次回到健身场地。这次她既没有前去参观前辈们互秀肌肉的表演，也没有继续与那些健身器材较劲，而是架起一口锅，运动、记录、煮饭。
+她似乎十分悠闲，每天只是按部就班地完成固定的几套动作。她又似乎十分忙碌，几乎每天的每个小时都有安排。她对自己提出的要求似乎十分宽松，很少像其他人那样挑战自己的极限。她对自己的要求又似乎十分严苛，几乎从不缺席每天的健身，并且三餐都亲自准备，还严格控制食材。
+这一连数周的怪异举动最终引起了大家的注意，有小道消息说伊安珊已经找到了能够突破血统的健身方式，于是就像围观其他人展示创意动作那样，大家也前来围观伊安珊的「创意」——
+「简单来说，就是规划运动时间，控制热量摄入，补充营养物质。」
+一番交流后，被好奇心驱使而来的众人又失望地散开。伊安珊所描述的一切在他们看来根本没有任何难度，他们不明白这样的方法如何能帮助伊安珊突破自我。
+不过众人没有留意到的是，自从改变健身方法后，伊安珊的各项指标确实都有所提升，从多做五个俯卧撑，到多跑五百米。只是这些数据在其他成员眼中是如此微小，根本吸引不了他们的目光。只有伊安珊本人能真切地感受到，这些提升坚实且稳定，就像百炼钢表面上那些细密的花纹，隐隐指向了某种质变的可能。
+而彼时的伊安珊尚不知道她已经创立了纳塔的营养学，只是觉得终于找到了适合自己的健身方法。
+
+### 角色故事4
+
+伊安珊与龙伙伴的相识源自沃陆之邦的一个习俗——那里的族民喜欢与突角龙角力，并将获得这种比试的胜利视为一种荣耀。伊安珊加入俱乐部一段时间后，也开始尝试这种比试。然而彼时的她即便使出全身的力气，也无法撼动任何一头成年突角龙。那段时间，伊安珊因为健身器材受伤的事经常发生，大家都担心这种比试对于伊安珊来说也会是一种危险。于是在前辈的安排下，伊安珊结识了伊莫拉。当时的伊莫拉刚出生不久，但已经不幸地失去了双亲，被族民们收养。它作为一头幼年突角龙，对于伊安珊来说自然是一个更合适的对手。
+不过，一个缺少呵护的孩子和一个被过度呵护的孩子之间似乎天然存在着某种竞争，明确互为彼此的对手后，双方的求胜心更上一层。第一次对决，伊安珊和伊莫拉便都使出全力，一个懊悔于没有保护爸爸妈妈的力量，一个渴求着拥有保护爸爸妈妈的力量。最后双双累倒在地，不分胜负。
+从那时起，这场竞争便正式开始了。
+伊安珊找到适合自己的健身方法后，虽然进步缓慢，但也终于突破了自我。那段时间，伊安珊是跑在前面的那一个。
+而伊莫拉似乎迅速走出了失去双亲的阴影，它飞速成长着，直到某一天，反将伊安珊甩到身后。
+伊安珊的进步逐渐获得了整个部族的瞩目，她甚至在某次突发事件中爆发力量战胜了突角龙族群的首领，最终接任阿卡特成为了健身俱乐部的总教练。
+伊莫拉的成长也愈发超出大家的预期，它的体型很早就冠绝了整个族群，并最终成为了新的首领。
+而这场竞争仍在继续，双方似乎都极力想冲得更靠前一些，好把对方甩在身后。
+只是在比拼速度和力量之余，伊莫拉开始允许伊安珊骑到自己背上，载着她一起去眺望远处的原野…
+抗击深渊入侵的战争结束后，伊安珊在学员的带领下来到埋葬伊莫拉的地方。对于没能让伊安珊见到伊莫拉最后一面这件事，学员们都很自责。
+「当时有那么多敌人，冲过去的话肯定回不来，但它还是…如果教练在的话，肯定能拦住它…」
+「不，如果我在的话，我会一起冲过去，还要争取比它更快。」
+伊安珊献上了祭奠故友的花朵，同时说出了那个她和伊莫拉彼此都心照不宣，却从未向他人提起的竞争规则——
+「必须冲得更靠前一些，才能把想保护的人护在身后啊。」
+
+### 角色故事5
+
+随着归火圣夜巡礼的号角声再次响起，伊安珊又一次来到圣火竞技场中央，创造了新的连胜记录。
+不再有人质疑她身为总教练的资格，也不再有人敢于嘲笑她那矮小的体格。大家的惊叹于伊安珊的成绩，但这些惊叹并没有让伊安珊动摇，她继续更新着自己的健身计划表和营养食谱，没有停下践行理念的脚步。
+然而令伊安珊感到意外的是，大家忽然开始讨论她的血统，羡慕她的「天赋」。其他部族的人大多并不了解过伊安珊的家族，也没有亲眼见证过伊安珊所付出的努力。他们震惊于伊安珊展示出的力量，纷纷开始了自己的猜测。在众人的传言中，「沃贡贡之血」成为了一种天生神力的标志，伊安珊以永远长不高为代价，获得了常人无法企及的力量。
+于是伊安珊收获了更多的惊叹，曾经的输给伊安珊的对手们也纷纷接受了「天赋」上的差距，一边加入对伊安珊的赞叹，一边也为自己的失败找到了理由。
+只有伊安珊沉默着，这些原本并不让她在意的惊叹开始锁紧她的眉头。
+不久之后，沃陆之邦健身俱乐部的学员忽然开始在圣火竞技场分发传单。刚刚收到传单的人还以为这是某种部族活动的邀请函，然后就被传单上内容惊掉了下巴——
+「归火圣夜巡礼优胜者培训班正式开始招收学员，不限部族，不限性别，不限年龄，你也可以成为连胜记录的保持者！」
+多次确认这些传单的发布者就是伊安珊本人后，大家由惊讶变得疑惑。「沃贡贡之血」的传闻早已深入人心，大家都不明白什么样的培训才能让他们跨越血统带来的差距，只能猜测这是伊安珊开的一个玩笑。
+然而伊安珊否认了所有猜测，还亲自参加了分发传单的工作。一些好奇的人悄悄前往了传单给出的报名地点，发现伊安珊甚至已经把健身俱乐部的训练场由部族内部远远地迁到了更靠近圣火竞技场的地方，似乎已经做好准备要招收其他部族的学员。
+大多数人都持观望态度，但也有少数人抱着试一试的态度来到了伊安珊的训练场。这些人大多受困于自己的弱小，渴望着变得更强，一如当初的伊安珊那样。但不同于伊安珊的的是，这些人因为自身的迷茫而犹豫不前。而伊安珊的训导则为他们提供了前进的动力，也为他们指明了前进的方向。
+「是的，天赋很重要，它决定了我们前进的速度，连我也无法否认这一点——但它无法决定我们能走多远。」
+经过一年的沉寂后，真的如同伊安珊最初宣传的那样，这些人纷纷成为了新一届归火圣夜巡礼中的佼佼者。在伊安珊的努力之下，许多学员都在她这里取得了突破，其中不乏一些青出于蓝而胜于蓝的后辈。
+然而即便如此，持怀疑态度的人还是占了绝大多数。但伊安珊并不担心，因为她看到前来报名的学员也越来越多。在第二届培训班即将开始招生时，伊安珊在传单上添了一句话：
+「力量无须与生俱来，力量无法不劳而获。」
+伊安珊明白，她在突破自我时便已完成了对古名的践行，但她想走得更远一些，而这句话正是她想为「力量」这个古名添加的新注解。终有一天她会向整个纳塔证明自己的理念，就像她折服整个沃陆之邦时那样。
+
+### 阿雷
+
+在很久之前，那枚覆盖着花纹的颅骨就成为了伊安珊的标志性配饰。据说这枚颅骨来自一头不幸夭折的幼年突角龙，伊安珊留下这枚颅骨，或许就是为了纪念这个可怜的孩子。
+直到有一天，几名学员远远地看到了正在独自训练的伊安珊，惊讶地发现那枚颅骨正在发出突角龙特有的叫声，似乎是在帮伊安珊喊号子。
+「所以，它是还没死吗？」
+「哦，之前一直没机会向你们介绍它。它叫阿雷，算是我的训练助手吧。只是它太怕生了，有其他人在的时候总是不说话。」
+面对惊讶的学员们，伊安珊第一次讲起这枚颅骨的来历。某一天，伊安珊的龙伙伴伊莫拉突然来向她求助。原来伊莫拉发现一头幼年突角龙的灵魂一直在它的遗骨附近徘徊，迟迟不肯前往夜神之国。伊安珊找到了烟谜主的大萨满茜特菈莉，委托她使用一种与制作星魔类似的法术处理了这头突角龙的遗骨，这才将它的灵魂留在它的颅骨中，免于在长久的徘徊中迷失和消散。
+说完这一切，伊安珊轻轻抚摸那枚颅骨，仿佛在安抚着什么。
+「在我健身的时候，它总是会为我加油打气。它肯定也很想成为和同伴一样帅气、强壮的成年突角龙吧，所以才不肯离去呢。」
+
+### 神之眼
+
+在伊安珊尚未成为总教练之前，俱乐部的训练场中央一直摆放着一副沉重的杠铃。
+据说它是健身俱乐部的创建者留下的，只有在健身造诣上登峰造极的人才能把它举起来，此举也将象征着他成为纳塔健身界新的领路人。因此，这副杠铃是所有健身者共同的挑战对象，只是从来没有人成功过。
+于是，每当有新的挑战者来到这副杠铃跟前，附近的人都会前来围观，并为本次的挑战结果争论、打赌。在沃陆之邦的族人看来，举起这副杠铃是对健身成果的终极证明。大家都想成为证明自己的那个人，大家也都好奇那个人最终会是谁。
+直到某一天，伊安珊也来到这副杠铃附近，看着它思考。而附近的人看出她眼中的某种渴望后，纷纷加以劝阻。
+「你知道举起这副杠铃需要什么样的力量吗？」
+旁人的话语中有质疑，但更多的还是关切。大家都知道，如果伊安珊向这副杠铃发起挑战的话，她受的伤恐怕要比刚开始健身时还严重。
+「就用『一千天的力量』把它举起来好了！」
+而伊安珊则如此回答。
+众人面面相觑，他们并不了解这「一千天的力量」意味着什么，只是觉得伊安珊又开始钻研某种古怪的健身方法。在确认伊安珊并没有做出任何可能伤害到自己的举动后，众人再次散去。然而没有人留意到，伊安珊眼中闪烁的不再是某种渴望，而是某种决心。
+第一个一百天，伊安珊一如往常那样，按照她自行设计的一套动作反复锻炼。这种「健身」是如此平淡、无聊，吸引不了任何目光。但她每天都坚持如此，就像她的祖辈一板一眼地劳作时那样。而当初劝阻她的那些人早就忘掉了她的豪言，俱乐部的一切都恢复了以往的样子，仿佛什么都没有改变。
+第三个一百天，伊安珊的健身动作终于有了一些变化，或许是因为强度的上升，伊安珊又开始被伤病困扰，但她总是能很快恢复。这或许是因为她从父母那里学来的治伤手段，又或许是因为她每天亲自为自己烹饪的古怪料理。那套枯燥的健身动作仍被伊安珊坚持着，比起那些刚有些成果就拿去向旁人展示的俱乐部成员，她就像是一面沉默的磨盘。在众人目光没有触及的角落里，她缓慢而又重复地转动着，日复一日，仿佛想碾碎某些东西。
+第五个一百天，俱乐部的成员一如往常那样互相秀着肌肉，顺便谈论着某些成员因为一时松懈而不得不重新练起的事。这种事在俱乐部时常发生，不过俱乐部的绝大多数成员都熟练掌握着「一个月腹肌速成」之类的绝技，所以短时间的身材走样并不会让多少人在意。
+第七个一百天，某些心思细腻的人察觉到了某种变化，却无法言明这种变化来自何处，直到某位离开部族一年多的成员重新归来后，大家才从他的惊呼声中发现了那个令所有人震惊的事实——伊安珊已经开始和其他成员使用相同分量的健身器材。这种变化在五百天的时间里悄然进行着，缓慢却又坚实，以至于旁人难以察觉。
+第九个一百天，终于有人发现了伊安珊为自己制定的健身计划，并重新想起了她在很久之前给出的那个回答。而这一次，最初本能想要劝阻伊安珊的那些人却都犹豫起来。伊安珊这面磨盘沉默地转动了很久，似乎早已把他们心里的某些东西碾碎了。
+最后一个一百天，专属于伊安珊的那片健身场地成为了众人视线的聚焦之处。不知从何时起，伊安珊成为了向大家展示健身成果的那个人。众人聚集在她的周围，赞叹着不久前她独自面对突角龙首领的事迹。而她自己似乎并不在乎这一切，只是继续执行着她在无人关注时就制定好的那份计划，按部就班，不急也不慢。
+第一千天终于到来，时隔将近三年后，伊安珊终于再次站到那副杠铃跟前。部族里的健身者全都聚集到了伊安珊周围，兴奋地等待见证她创造的奇迹。不同以往的是，这次没有人争论挑战者是否会成功——见证了之前的九百九十九天之后，在他们看来，这个「奇迹」已经成为了伊安珊自然而然就能办到的事。
+伊安珊走到那副杠铃跟前，意外地发现，一枚闪亮的神之眼不知何时被挂在了杠铃的横杆上。
+伊安珊明白，这意味着她正在直面自己的「愿望」。然而在她看来，她面对的只是一个写在健身计划表上的「目标」。不过她没有疑惑太久，或许对于她来说，这两者并没有本质上的区别。
+伊安珊摘下神之眼，而后，就像这之前每天按计划健身时那样，把这副杠铃举了起来。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+### Заметки по историям
+
+#### История персонажа 1
+
+#### История персонажа 2
+
+#### История персонажа 3
+
+#### История персонажа 4
+
+#### История персонажа 5
+
+#### Видение
