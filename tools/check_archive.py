@@ -196,6 +196,8 @@ def check_index_and_details(indexes: dict[str, list[dict[str, Any]]]) -> dict[st
             check_regions(item, owner)
             check_asset(item.get("icon"), owner)
             check_common_index_fields(item, owner, enemy=(section == "enemies"))
+            if section == "stories" and len(str(item.get("search_text") or "")) > 1200:
+                fail(f"{owner}: stories_index должен быть лёгким, без полного текста истории в search_text")
 
             path = detail_path(section, item_id)
             if not path.exists():
@@ -214,6 +216,37 @@ def check_index_and_details(indexes: dict[str, list[dict[str, Any]]]) -> dict[st
             fail(f"дублирующийся глобальный id {global_id}")
 
     return details
+
+
+def check_story_search_index(indexes: dict[str, list[dict[str, Any]]]) -> None:
+    path = DATA_DIR / "stories_search.json"
+    story_ids = {str(item.get("id") or "") for item in indexes.get("stories", []) if item.get("id")}
+
+    if not story_ids:
+        return
+    if not path.exists():
+        fail("data/stories_search.json: отсутствует ленивый полнотекстовый индекс историй")
+        return
+
+    data = read_json(path)
+    if not isinstance(data, list):
+        fail("data/stories_search.json: индекс должен быть списком")
+        return
+
+    search_ids = {str(item.get("id") or "") for item in data if isinstance(item, dict) and item.get("id")}
+    missing = sorted(story_ids - search_ids)
+    extra = sorted(search_ids - story_ids)
+    if missing:
+        fail(f"data/stories_search.json: нет записей для {', '.join(missing[:10])}")
+    if extra:
+        fail(f"data/stories_search.json: лишние записи {', '.join(extra[:10])}")
+
+    for item in data:
+        if not isinstance(item, dict):
+            fail("data/stories_search.json: каждая запись должна быть объектом")
+            continue
+        if not str(item.get("search_text") or "").strip():
+            fail(f"data/stories_search.json#{item.get('id')}: пустой search_text")
 
 
 def check_books(books: dict[str, dict[str, Any]]) -> None:
@@ -808,6 +841,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: раздел Истории и вложенные подкатегории должны быть подключены в клиенте")
         if 'BACKGROUND_PREFETCH_SECTIONS = new Set(["artifacts", "weapons"])' not in text:
             fail("assets/js/archive.js: тяжёлые индексы items/stories не должны загружаться фоновым prefetch на первом экране")
+        if 'function loadStorySearchIndex()' not in text or 'data/stories_search.json' not in text or 'ensureStorySearchIndexForQuery' not in text:
+            fail("assets/js/archive.js: полный поиск по историям должен грузиться лениво, а не вместе с каталогом")
         if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
         if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
@@ -831,6 +866,7 @@ def main() -> int:
     else:
         indexes = load_indexes()
         details = check_index_and_details(indexes)
+        check_story_search_index(indexes)
         check_books(details.get("books", {}))
         check_artifacts(details.get("artifacts", {}))
         check_weapons(details.get("weapons", {}))

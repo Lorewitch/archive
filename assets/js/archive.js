@@ -7,6 +7,8 @@ const DETAILS = new Map();
 const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
 const SEARCH_TEXT_CACHE = new WeakMap();
+const STORY_SEARCH_TEXTS = new Map();
+let storySearchLoad = null;
 const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
 const catalogScrollPositions = new Map();
 const expandedEnemyDescriptionKeys = new Set();
@@ -56,6 +58,34 @@ async function fetchOptionalJson(path) {
   } catch (_) {
     return [];
   }
+}
+
+async function loadStorySearchIndex() {
+  if (STORY_SEARCH_TEXTS.size) return STORY_SEARCH_TEXTS;
+  if (storySearchLoad) return storySearchLoad;
+
+  storySearchLoad = fetchOptionalJson("data/stories_search.json")
+    .then(rows => {
+      rows.forEach(row => {
+        const id = String(row?.id || "").trim();
+        if (!id) return;
+        STORY_SEARCH_TEXTS.set(id, String(row.search_text || "").toLocaleLowerCase("ru-RU"));
+      });
+      return STORY_SEARCH_TEXTS;
+    })
+    .finally(() => { storySearchLoad = null; });
+
+  return storySearchLoad;
+}
+
+function ensureStorySearchIndexForQuery(config, query) {
+  if (config.id !== "stories" || !String(query || "").trim() || STORY_SEARCH_TEXTS.size || storySearchLoad) return;
+
+  loadStorySearchIndex().then(() => {
+    if (state.section === "stories" && currentFilterState().query.trim()) {
+      updateCatalogTable(getSectionConfig("stories"));
+    }
+  }).catch(() => {});
 }
 
 function normalizeList(data, fallbackKey) {
@@ -1586,6 +1616,13 @@ function searchableText(item) {
   return text;
 }
 
+function searchableTextForCatalog(item, config) {
+  if (config.id === "stories" && STORY_SEARCH_TEXTS.has(item.id)) {
+    return STORY_SEARCH_TEXTS.get(item.id) || searchableText(item);
+  }
+  return searchableText(item);
+}
+
 function gameVersionSortValue(value) {
   const text = String(value ?? "").trim().replace(",", ".");
   if (!text) return -1;
@@ -1622,7 +1659,7 @@ function filteredEntries(config) {
     : null;
 
   const rows = collectionForCatalog(config).filter(item => {
-    const queryOk = !query || searchableText(item).includes(query);
+    const queryOk = !query || searchableTextForCatalog(item, config).includes(query);
     const filterOk = itemMatchesFilter(item, config, filterState.filter, activeTypeSet);
     return queryOk && filterOk;
   });
@@ -1791,6 +1828,7 @@ function syncTypeFilterToggles() {
 function renderCatalog(config) {
   activeDetail = null;
   const filterState = state.filters[config.id];
+  ensureStorySearchIndexForQuery(config, filterState.query);
   const options = optionsFor(config);
   const allowedFilters = new Set(["all", ...options.map(([value]) => value)]);
   if (!allowedFilters.has(filterState.filter)) {
@@ -2603,6 +2641,7 @@ function handleAppInput(event) {
   filterState.query = event.target.value;
   filterState.page = 1;
   document.getElementById("clear-search")?.classList.toggle("visible", Boolean(filterState.query));
+  ensureStorySearchIndexForQuery(currentCatalogConfig(), filterState.query);
   debouncedCatalogUpdate();
 }
 

@@ -1200,6 +1200,19 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
     }
 
 
+def story_catalog_search_values(item: dict[str, Any], story_group: str) -> tuple[Any, ...]:
+    return (
+        item.get("title", {}),
+        item.get("region", ""),
+        item.get("rarity", ""),
+        item.get("game_version", ""),
+        story_group,
+        item.get("element", ""),
+        item.get("elements", []),
+        item.get("tags", []),
+    )
+
+
 def index_story(item: dict[str, Any]) -> dict[str, Any]:
     story_group = item.get("story_group", "world_stories")
     return {
@@ -1217,16 +1230,16 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
         **index_runtime_fields(item, story_group),
+        "search_text": make_search_text(*story_catalog_search_values(item, story_group)),
+    }
+
+
+def story_search_entry(item: dict[str, Any]) -> dict[str, Any]:
+    story_group = item.get("story_group", "world_stories")
+    return {
+        "id": item["id"],
         "search_text": make_search_text(
-            item.get("title", {}),
-            item.get("region", ""),
-            item.get("rarity", ""),
-            item.get("game_version", ""),
-            story_group,
-            item.get("element", ""),
-            item.get("elements", []),
-            item.get("rarity", ""),
-            item.get("tags", []),
+            *story_catalog_search_values(item, story_group),
             item.get("description", {}),
         ),
     }
@@ -1345,6 +1358,7 @@ def build() -> None:
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
     stories = build_collection("stories", lambda path: build_generic(path, "stories"), index_story)
+    write_json(DATA_DIR / "stories_search.json", [story_search_entry(entry) for entry in stories])
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
     enemy_source_dir.mkdir(parents=True, exist_ok=True)
     enemies = [build_enemy(md_file) for md_file in sorted(enemy_source_dir.rglob("*.md"))]
