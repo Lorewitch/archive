@@ -241,6 +241,34 @@
     "search_text": "душа храбреца brave heart 勇士之心 мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
+    "id": "celestial_gift",
+    "category": "artifacts",
+    "icon": "assets/icons/artifacts/celestial_gift.webp",
+    "title": {
+      "ru": "Дар небес",
+      "en": "Celestial Gift",
+      "zh": "天之美赐"
+    },
+    "region": "Нод-Край",
+    "piece_count": 5,
+    "game_version": "6.6",
+    "tags": [
+      "артефакты",
+      "сет артефактов"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6006000,
+    "search_text": "дар небес celestial gift 天之美赐 нод-край 6.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+  },
+  {
     "id": "crimson_witch_of_flames",
     "category": "artifacts",
     "icon": "assets/icons/artifacts/crimson_witch_of_flames.webp",
@@ -354,6 +382,34 @@
     "filter_type": "",
     "sort_version": 3003000,
     "search_text": "хроники чертогов в пустыне desert pavilion chronicle 沙上楼阁史话 сумеру 3.3 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
+  },
+  {
+    "id": "disenchantment_in_deep_shadow",
+    "category": "artifacts",
+    "icon": "assets/icons/artifacts/disenchantment_in_deep_shadow.webp",
+    "title": {
+      "ru": "Застывшее в тени разочарование",
+      "en": "Disenchantment in Deep Shadow",
+      "zh": "影中沉凝的幻灭"
+    },
+    "region": "Нод-Край",
+    "piece_count": 5,
+    "game_version": "6.6",
+    "tags": [
+      "артефакты",
+      "сет артефактов"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6006000,
+    "search_text": "застывшее в тени разочарование disenchantment in deep shadow 影中沉凝的幻灭 нод-край 6.6 артефакты сет артефактов цветок жизни flower of life 生之花 перо смерти plume of death 死之羽 пески времени sands of eon 时之沙 кубок пространства goblet of eonothem 空之杯 корона разума circlet of logos 理之冠"
   },
   {
     "id": "echoes_of_an_offering",

@@ -18417,6 +18417,75 @@
     "search_text": "ужас бури stormterror 裂空的魔龙 мондштадт 1.0 weekly_bosses enemy_drops дракон востока двалин, один из мондштадтских хранителей четырёх ветров. за долгие годы существования во мраке даже самый чистый драгоценный камень покроется пылью и потемнеет, и даже гордый дракон может преисполниться ненавистью, а злоба осквернит его душу. но нужно помнить, что пыль легко стереть, а сомнения и яд можно уничтожить. «пари свободно в небесах. пари, как тогда, когда мы с тобой встретились, и я шёл по земле, распевая песни ветра, а ты летел в вышине, взирая оттуда на мир. сейчас нет больше в небе снежных бурь. на земле зеленеет трава... так красиво. если бы ты тоже мог ходить по земле, слушать, как разносятся в воздухе песни пастушков и перезвон ветра, попробовать вино, сладкое как мёд, ты бы понял. как было бы здорово, если бы ты моими глазами видел себя, прекрасного и гордого, парящего в голубой вышине. тогда бы ты понял, что за это небо и эту землю стоит сражаться». one of the four winds of mondstadt: dvalin, the dragon of the east. with the passage of long years and amid boundless darkness, even the purest gem will become dulled by dust, and even the noble dragon might be corrupted and cankered by hatred. but never forget that dust can be wiped away, and the power of doubt and poison can be shattered. \"fly freely in the sky. \"just like you did in those days when we met, when i walked upon this land and sang the songs of the wind, \"and you soared on high, looking down on the world from above. \"today, the sky is no longer swept by wind and snow. the green grass grows all over the earth, and it is beautiful. \"if you too could walk the earth and listen to the songs of shepherds and the scattered sound of wind chimes in the distance, if you could have tasted wine as sweet as honey, you would understand. \"how wonderful it would have been if you were as i, witnessing your noble, beautiful form as you soared through the blue sky. \"then you would know that this sky and this earth are both things worth fighting for.\" 蒙德的「四风守护」 之一，东风之龙特瓦林。 在漫长的岁月与无边的黑暗中，清澈的宝石也会蒙尘而变得黯淡，高傲的龙也会被侵蚀而充满了忿恨。 不过，要记住，尘埃能被轻易拭去，疑惧与毒也能被粉碎。 「自由地在深空中翱翔吧。 「就如当年你我相遇时，我行走在大地上，唱着风的歌曲； 「你则在大气稀薄的高天上，俯瞰世界。 「如今的天空中没有风雪，大地上充满了绿草，会很美丽吧。 「如果你也在地面上行走过，听过牧歌和风铃在远方错落的歌，尝过蜜一样甜的酒，就会明白吧。 「如果你曾是我，看见过你在蓝蓝的天上滑翔的孤高模样，见识过你的美丽身姿就好了。 「如此，你就会明白，这样的天空与大地，是值得为之奋战的。 」 dvalins_claw dvalins_plume dvalins_sigh коготь двалина dvalin's claw 东风之爪 перо из хвоста двалина dvalin's plume 东风之翎 вздох двалина dvalin's sigh 东风的吐息 коготь дракона востока. как когда-то он разрывал плоть теневого дракона «дурина», так и содержал в себе его злобный яд. однако благодаря вашему очищению и исцелению он больше не токсичен. a claw from the dragon of the east. it once contained the shadow dragon durin's vile poison, having torn through the latter's flesh in battle. thanks to your purification and healing, it is no longer toxic. 从蒙德的东风之主身上，取下的一丝锋锐。 因为过去撕裂了伟大魔龙「杜林」 的血肉的缘故，过去蕴含着骇人的猛毒。 但经过你的净化与治愈，其中躁动的毒性终于平息。 перо из хвоста дракона востока. это - перо дракона, испытавшее тысячелетние ветра. его стремление быть свободным вызывает лёгкий ветерок, чтобы освободить его от оков, но его предыдущий владелец оставил вам это перо в знак признательности. a feather from the tail of the dragon of the east. as a dragon's feather it has experienced more than a thousand years' worth of winds. one senses within it a yearning for freedom so strong that it could whip up a light breeze to rescue it from its current confines. its former owner's recognition of you is what makes it content to stay in your hands. 从蒙德的东风之主身上，取下的一枚翎羽。 那是经历了千年之风的龙之羽。 追求自由的本心使它几乎唤起轻风，好逃离现今的桎梏； 但它的旧主对你的赏识，使它留在了你的掌心里。 сила, извлечённая из вихрей, вызванных драконом востока. прекрасный и невидимый, ветер следует за ним, он - его голос и свобода. и враги его, сражающиеся с ветром, многочисленны. a bit of power taken from the whirlwinds evoked by the dragon of the east. beautiful and transparent, both trade winds and tornadoes will work in his name. the winds move as his companion, his voice, and his freedom. his enemies are the thousands who stand against the wind. 从蒙德的东风之主唤起的狂风中，采来的些许力量。 它的身躯是优美而通透的，信风与龙卷都愿为它效力。 只要乘风而行，风就是它的同伴、它的歌声与它的自由。 而它的敌人，就是一千种名字各异的风的敌人。"
   },
   {
+    "id": "exalted_master_of_the_heretical_path",
+    "category": "items",
+    "icon": "assets/icons/enemies/exalted_master_of_the_heretical_path.webp",
+    "title": {
+      "ru": "Вознёсшийся мастер пути ереси",
+      "en": "Exalted Master of the Heretical Path",
+      "zh": "左道的胜义尊"
+    },
+    "region": "Сумеру",
+    "game_version": "6.6",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "counterfeit_resin",
+        "title": {
+          "ru": "Поддельная смола",
+          "en": "Counterfeit Resin",
+          "zh": "赝作的树脂"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_counterfeit_resin.webp"
+      },
+      {
+        "key": "twisted_withered_branch",
+        "title": {
+          "ru": "Искажённая сухая ветка",
+          "en": "Twisted Withered Branch",
+          "zh": "扭曲的枯枝"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_twisted_withered_branch.webp"
+      },
+      {
+        "key": "profaned_sprout",
+        "title": {
+          "ru": "Осквернённый росток",
+          "en": "Profaned Sprout",
+          "zh": "亵渎的新芽"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_profaned_sprout.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "Еретик ложной луны",
+      "Дотторе",
+      "Доктор",
+      "Зандик"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 6006000,
+    "search_text": "вознёсшийся мастер пути ереси exalted master of the heretical path 左道的胜义尊 сумеру 6.6 weekly_bosses enemy_drops еретик ложной луны дотторе доктор зандик чтобы довести свой запретный эксперимент до конца, дотторе, освободившись от оков смертной плоти, ныне слился с древом мира - ирминсулем, пронизывающим весь тейват. этот мир изначально существовал прежде, чем появился «порядок». никто не может определить начало и конец всего сущего, пока их не постигнет «порядок». но слабые, стремясь избавиться от бремени свободы, охотно склоняются перед троном «определённости». лишь те, кто осмеливается прозреть за пределы обыденных представлений, получают шанс обрести право на создание «нового мира». это область «возможности» - великий эксперимент, которому не суждено завершиться. так пусть же этот скучный, неизменный мир станет интереснее... «откуда ты знаешь, что я не смогу сделать лучше?» to push his heretical experiments to their end, dottore has severed the constraints of his corporeal form. now, he has merged as one with the irminsul that threads through all of teyvat. this world inherently predates any natural order. until it cast its gaze, the origin and terminus of all matter were indeterminate. yet the weak, seeking to escape the crushing weight of freedom, would rather bow before the throne of \"certainty.\" only those with the resolve to pierce the veil of mundane perception may earn the right to forge a \"new world.\" that is the domain of \"possibility\" — a perpetual and magnificent experiment that shall never reach its end. it's time to enliven this stagnant, unchanging reality... \"how can you be certain that i am not capable of perfecting it?\" 为了将左道的实验进行到底，在摆脱了凡俗肉身的桎梏后，如今的多托雷已与贯穿提瓦特的世界树融为一体。 这个世界本就先于「理」而存在。 在被「理」所观测之前，谁也无法确定世间万物的起始与终末。 然而弱者为了逃避自由的重负，却甘愿向「确定性」的王座俯首。 唯有敢于勘破俗见的觉悟者，才有机会取得创造「新世界」的资格。 那是属于「可能性」的领域，那是永远不会迎来终结的伟大实验。 让这枯燥乏味、一成不变的世界变得有趣起来吧… 「你怎么知道，我就不能做得更好呢？」 counterfeit_resin twisted_withered_branch profaned_sprout поддельная смола counterfeit resin 赝作的树脂 искажённая сухая ветка twisted withered branch 扭曲的枯枝 осквернённый росток profaned sprout 亵渎的新芽 смола, извлечённая из разрушенных глубин артерий земли после поражения еретика, скрывавшегося в ирминсуле. когда-то это был кристалл, призванный хранить множество прекрасных воспоминаний этого мира, но теперь он наполнен заблуждениями и злобой, которым здесь не место. a resin recovered from the shattered depths of the ley lines after the defeat of the heretic hidden within irminsul. once a crystal meant to bear the many beautiful memories that make up this world, it is now filled instead with delusions and malice that do not belong here. 战胜藏身于世界树中的异端者后，从残毁的地脉深处拾得的树脂。 本应承载着构成这个世界的诸多美好记忆的晶体，如今却被种种不属于此世的妄想与恶念所填满。 искривлённая ветвь, извлечённая из разрушенных глубин артерий земли после поражения еретика, скрывавшегося в ирминсуле. искажённая ветка, выросшая из гигантского дерева, которому суждено было оставаться глубоко под землёй. даже будучи отделённой от источника, она по-прежнему хранит странную и зловещую силу. a withered branch recovered from the shattered depths of the ley lines after the defeat of the heretic hidden within irminsul. a twisted bough grown from a giant tree meant to remain buried deep beneath the earth. even cut off from its source, it still holds a strange and malevolent power. 战胜藏身于世界树中的异端者后，从残毁的地脉深处拾得的枯枝。 自本应隐藏于深邃地底的巨木上生长出的扭曲枝条。即使远离它的原主，其中也残留着怪异邪恶的力量。 ветвь, извлечённая из разрушенных глубин артерий земли после поражения еретика, скрывавшегося в ирминсуле. росток, который должен был символизировать надежду, ныне превратился в маяк кощунства. древо грехов, разрастаясь по жилкам листов, неуклонно тянется к небу. a sprig recovered from the shattered depths of the ley lines after the defeat of the heretic hidden within irminsul. what should have been a bud of hope has now become a beacon of profanation. through its spreading veins, the sinful tree continues to climb toward the sky. 战胜藏身于世界树中的异端者后,从残毁的地脉深处拾得的枝叶。 本应象征着希望的新芽, 如今已化作亵渎的信标。深罪的树木借由叶脉的延展, 正不断向着天空攀升。"
+  },
+  {
     "id": "aeonblight_drake",
     "category": "items",
     "icon": "assets/icons/enemies/aeonblight_drake.webp",
