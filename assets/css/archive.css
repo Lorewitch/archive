@@ -1239,14 +1239,16 @@ h3,
   display: none;
 }
 
-  .story-toolbar .volume-scroll button {
-    flex: 0 0 auto;
-    min-width: max-content;
-    white-space: nowrap;
-    overflow: visible;
-    text-overflow: clip;
-    overflow-wrap: normal;
-  }
+.story-toolbar .volume-scroll button {
+  flex: 0 0 auto;
+  min-width: max-content;
+  white-space: nowrap;
+  overflow: visible;
+  text-overflow: clip;
+  overflow-wrap: normal;
+  line-height: 1.22;
+  text-align: center;
+}
 
 .reader-toolbar {
   margin: 24px 0 18px;
