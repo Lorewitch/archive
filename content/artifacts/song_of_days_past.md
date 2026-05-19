@@ -5,6 +5,7 @@
 # title_en: Song of Days Past
 # title_zh: 昔时之歌
 # region: Фонтейн
+# rarity: 5
 # piece_count: 5
 # game_version: 4.3
 # tags: артефакты, сет артефактов

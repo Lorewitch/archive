@@ -6,6 +6,7 @@
 # title_en: Tequil the Brave
 # title_zh: 勇敢的特奎
 # region: Натлан
+# rarity: 3
 # volume_count: 2
 # game_version: 5.1
 # tags: книги, Натлан

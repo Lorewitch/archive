@@ -6,6 +6,7 @@
 # title_en: Verses of Equilibrium
 # title_zh: 玑衡经
 # region: Ли Юэ
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Ли Юэ

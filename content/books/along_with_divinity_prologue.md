@@ -6,6 +6,7 @@
 # title_en: Along with Divinity: Prologue
 # title_zh: 与神性同行
 # region: Мондштадт
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

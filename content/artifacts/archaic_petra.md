@@ -5,6 +5,7 @@
 # title_en: Archaic Petra
 # title_zh: 悠古的磐岩
 # region: Ли Юэ
+# rarity: 5
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

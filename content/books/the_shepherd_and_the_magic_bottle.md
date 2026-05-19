@@ -6,6 +6,7 @@
 # title_en: The Shepherd and the Magic Bottle
 # title_zh: 牧童与魔瓶的故事
 # region: Сумеру
+# rarity: 4
 # volume_count: 1
 # game_version: 3.0
 # tags: книги, Сумеру

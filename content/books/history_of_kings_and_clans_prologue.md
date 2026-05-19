@@ -6,6 +6,7 @@
 # title_en: History of Kings and Clans: Prologue
 # title_zh: 列王与宗室史·序
 # region: Мондштадт
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

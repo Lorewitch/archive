@@ -1031,9 +1031,9 @@ h3,
 }
 
 .story-character-entry-icon {
-  width: 64px;
-  height: 64px;
-  flex-basis: 64px;
+  width: 72px;
+  height: 72px;
+  flex-basis: 72px;
   border-radius: 14px;
 }
 
@@ -1169,23 +1169,28 @@ h3,
 
 .detail-title-icon {
   display: block;
-  width: 88px;
-  height: 88px;
-  flex: 0 0 88px;
+  width: 96px;
+  height: 96px;
+  flex: 0 0 96px;
   object-fit: contain;
   border-radius: 16px;
   background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
 .story-detail-icon {
-  width: 112px;
-  height: 112px;
-  flex-basis: 112px;
+  width: 128px;
+  height: 128px;
+  flex-basis: 128px;
   border-radius: 20px;
 }
 
 .detail-hero-text {
   min-width: 0;
+}
+
+.detail-hero-text h1 {
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 
 .story-toolbar {
@@ -2708,13 +2713,24 @@ a.enemy-loot-chip:focus-visible {
     padding: 0;
   }
 
+  .book-toolbar .volume-scroll,
+  .artifact-toolbar .volume-scroll,
+  .story-toolbar .volume-scroll {
+    flex-wrap: wrap;
+    overflow: visible;
+    padding: 0;
+  }
+
+  .book-toolbar .volume-scroll button,
+  .artifact-toolbar .volume-scroll button,
   .story-toolbar .volume-scroll button {
-    flex: 0 0 auto;
-    min-width: max-content;
-    white-space: nowrap;
+    flex: 0 1 auto;
+    max-width: 100%;
+    white-space: normal;
     overflow: visible;
     text-overflow: clip;
     overflow-wrap: normal;
+    word-break: normal;
   }
 
   .text-card {
@@ -3477,28 +3493,36 @@ a.enemy-loot-chip:focus-visible {
 
 @media (max-width: 720px) {
   .detail-hero {
-    align-items: flex-start;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    align-items: center;
     gap: 14px;
   }
 
   .detail-title-icon {
-    width: 68px;
-    height: 68px;
-    flex-basis: 68px;
-    border-radius: 14px;
+    width: 76px;
+    height: 76px;
+    flex-basis: 76px;
+    border-radius: 15px;
   }
 
   .story-detail-icon {
-    width: 86px;
-    height: 86px;
-    flex-basis: 86px;
+    width: 92px;
+    height: 92px;
+    flex-basis: 92px;
     border-radius: 18px;
   }
 
+  .detail-hero-text h1 {
+    font-size: clamp(32px, 9vw, 46px);
+    line-height: 0.96;
+    overflow-wrap: anywhere;
+  }
+
   .story-character-entry-icon {
-    width: 56px;
-    height: 56px;
-    flex-basis: 56px;
+    width: 62px;
+    height: 62px;
+    flex-basis: 62px;
   }
 
   .type-filter-stack {

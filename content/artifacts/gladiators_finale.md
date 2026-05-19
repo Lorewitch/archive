@@ -5,6 +5,7 @@
 # title_en: Gladiator's Finale
 # title_zh: 角斗士的终幕礼
 # region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# rarity: 5
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

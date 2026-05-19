@@ -6,6 +6,7 @@
 # title_en: Sangonomiya Chronicles
 # title_zh: 珊瑚宫记
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.0
 # tags: книги, Инадзума

@@ -6,6 +6,7 @@
 # title_en: Hymns of the Far North
 # title_zh: 终北祷歌集
 # region: Нод-Край
+# rarity: 4
 # volume_count: 3
 # game_version: 6.0
 # tags: книги, Нод-Край, Гиперборея

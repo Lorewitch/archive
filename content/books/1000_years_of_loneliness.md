@@ -6,6 +6,7 @@
 # title_en: 1000 Years of Loneliness
 # title_zh: 千年孤独
 # region: Мондштадт
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

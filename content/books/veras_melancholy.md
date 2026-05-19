@@ -6,6 +6,7 @@
 # title_en: Vera's Melancholy
 # title_zh: 少女薇拉的忧郁
 # region: Мондштадт
+# rarity: 4
 # volume_count: 12
 # game_version: 6.5
 # tags: книги

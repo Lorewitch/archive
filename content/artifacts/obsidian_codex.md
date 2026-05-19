@@ -5,6 +5,7 @@
 # title_en: Obsidian Codex
 # title_zh: 黑曜秘典
 # region: Натлан
+# rarity: 5
 # piece_count: 5
 # game_version: 5.0
 # tags: артефакты, сет артефактов

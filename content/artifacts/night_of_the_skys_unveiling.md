@@ -5,6 +5,7 @@
 # title_en: Night of the Sky's Unveiling
 # title_zh: 穹境示现之夜
 # region: Нод-Край
+# rarity: 5
 # piece_count: 5
 # game_version: 6.0
 # tags: артефакты, сет артефактов

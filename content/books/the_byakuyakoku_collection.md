@@ -6,6 +6,7 @@
 # title_en: The Byakuyakoku Collection
 # title_zh: 白夜国馆藏
 # region: Инадзума
+# rarity: 3
 # volume_count: 5
 # game_version: 2.4
 # tags: книги, Инадзума, Энканомия

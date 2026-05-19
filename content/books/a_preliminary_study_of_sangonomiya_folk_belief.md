@@ -6,6 +6,7 @@
 # title_en: A Preliminary Study of Sangonomiya Folk Belief
 # title_zh: 珊瑚宫民间信仰初勘
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.2
 # tags: книги, Инадзума

@@ -6,6 +6,7 @@
 # title_en: Legend of the Lone Sword
 # title_zh: 荒山孤剑录
 # region: Ли Юэ
+# rarity: 4
 # volume_count: 4
 # game_version: 1.0
 # tags: книги, Ли Юэ

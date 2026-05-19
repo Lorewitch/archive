@@ -6,6 +6,7 @@
 # title_en: Humor From Tianheng
 # title_zh: 天衡绝倒集
 # region: Ли Юэ
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Ли Юэ

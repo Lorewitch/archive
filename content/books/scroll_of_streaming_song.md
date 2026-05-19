@@ -6,6 +6,7 @@
 # title_en: Scroll of Streaming Song
 # title_zh: 浮槃歌卷
 # region: Сумеру
+# rarity: 4
 # volume_count: 3
 # game_version: 3.0
 # tags: книги, Сумеру

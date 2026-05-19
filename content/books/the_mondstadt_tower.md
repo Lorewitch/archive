@@ -6,6 +6,7 @@
 # title_en: The Mondstadt Tower
 # title_zh: 蒙德高塔
 # region: Мондштадт
+# rarity: 2
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

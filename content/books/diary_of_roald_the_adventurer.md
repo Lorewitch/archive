@@ -6,6 +6,7 @@
 # title_en: Diary of Roald the Adventurer
 # title_zh: 冒险家罗尔德的日志
 # region: Мондштадт
+# rarity: 3
 # volume_count: 11
 # game_version: 2.2
 # tags: книги

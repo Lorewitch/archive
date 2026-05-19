@@ -6,6 +6,7 @@
 # title_en: Tales of a Snow-Winged Goose
 # title_zh: 雪翅雁童话集
 # region: Фонтейн
+# rarity: 4
 # volume_count: 3
 # game_version: 4.2
 # tags: книги

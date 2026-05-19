@@ -6,6 +6,7 @@
 # title_en: Tales From the Waves
 # title_zh: 浮浪记
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 3
 # game_version: 1.0
 # tags: книги, Ли Юэ

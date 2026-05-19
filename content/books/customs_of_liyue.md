@@ -6,6 +6,7 @@
 # title_en: Customs of Liyue
 # title_zh: 璃月风土志
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 3
 # game_version: 1.2
 # tags: книги, Ли Юэ

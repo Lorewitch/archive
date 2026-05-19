@@ -6,6 +6,7 @@
 # title_en: Stone Tablet Compilations: Vol. I
 # title_zh: 石书辑录·卷一
 # region: Ли Юэ
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Ли Юэ

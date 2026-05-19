@@ -5,6 +5,7 @@
 # title_en: Brave Heart
 # title_zh: 勇士之心
 # region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн
+# rarity: 4
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

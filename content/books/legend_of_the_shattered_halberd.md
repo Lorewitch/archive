@@ -6,6 +6,7 @@
 # title_en: Legend of the Shattered Halberd
 # title_zh: 神霄折戟录
 # region: Ли Юэ
+# rarity: 4
 # volume_count: 6
 # game_version: 1.0
 # tags: книги, Ли Юэ

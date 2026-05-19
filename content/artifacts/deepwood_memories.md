@@ -5,6 +5,7 @@
 # title_en: Deepwood Memories
 # title_zh: 深林的记忆
 # region: Сумеру
+# rarity: 5
 # piece_count: 5
 # game_version: 3.0
 # tags: артефакты, сет артефактов

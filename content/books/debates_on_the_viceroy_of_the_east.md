@@ -6,6 +6,7 @@
 # title_en: Debates on the "Viceroy of the East"
 # title_zh: 「东王」史辩
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.2
 # tags: книги, Инадзума

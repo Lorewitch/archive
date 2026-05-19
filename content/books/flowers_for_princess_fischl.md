@@ -6,6 +6,7 @@
 # title_en: Flowers for Princess Fischl
 # title_zh: 菲谢尔皇女夜谭
 # region: Мондштадт
+# rarity: 4
 # volume_count: 1
 # game_version: 2.1
 # tags: книги, Мондштадт

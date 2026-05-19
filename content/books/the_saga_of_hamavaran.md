@@ -6,6 +6,7 @@
 # title_en: The Saga of Hamavaran
 # title_zh: 哈玛瓦兰战记
 # region: Сумеру
+# rarity: 3
 # volume_count: 3
 # game_version: 2.0
 # tags: книги, Сумеру

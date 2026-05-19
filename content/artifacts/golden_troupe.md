@@ -5,6 +5,7 @@
 # title_en: Golden Troupe
 # title_zh: 黄金剧团
 # region: Фонтейн
+# rarity: 5
 # piece_count: 5
 # game_version: 4.0
 # tags: артефакты, сет артефактов

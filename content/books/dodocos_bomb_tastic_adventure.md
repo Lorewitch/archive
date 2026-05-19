@@ -6,6 +6,7 @@
 # title_en: Dodoco’s Bomb-Tastic Adventure
 # title_zh: 嘟嘟可轰轰奇遇记
 # region: Мондштадт
+# rarity: 3
 # volume_count: 1
 # game_version: 4.1
 # tags: книги, Мондштадт, Инадзума

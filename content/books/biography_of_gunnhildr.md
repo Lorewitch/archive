@@ -6,6 +6,7 @@
 # title_en: Biography of Gunnhildr
 # title_zh: 古恩希尔德小传
 # region: Мондштадт
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

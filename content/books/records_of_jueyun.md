@@ -6,6 +6,7 @@
 # title_en: Records of Jueyun
 # title_zh: 绝云记闻
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 6
 # game_version: 1.3
 # tags: книги, Ли Юэ

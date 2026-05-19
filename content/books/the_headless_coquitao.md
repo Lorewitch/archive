@@ -6,6 +6,7 @@
 # title_en: The Headless Coquitao
 # title_zh: 无头的科奎塔奥
 # region: Натлан
+# rarity: 3
 # volume_count: 2
 # game_version: 5.5
 # tags: книги, Натлан

@@ -558,6 +558,7 @@ def build_book(path: Path) -> dict[str, Any]:
         "icon": meta.get("icon", "").strip(),
         "title": title_from_meta(meta),
         "region": meta.get("region", ""),
+        "rarity": int_from_meta(meta, "rarity", None),
         "volume_count": int_from_meta(meta, "volume_count", len(volumes) or 1),
         "game_version": game_version_from_meta(meta),
         "tags": tags_from_meta(meta),
@@ -623,6 +624,7 @@ def build_artifact(path: Path) -> dict[str, Any]:
         "icon": meta.get("icon", "").strip(),
         "title": title_from_meta(meta),
         "region": meta.get("region", ""),
+        "rarity": int_from_meta(meta, "rarity", None),
         "piece_count": int_from_meta(meta, "piece_count", len(parts) or 5),
         "game_version": game_version_from_meta(meta),
         "tags": tags_from_meta(meta),
@@ -1043,6 +1045,7 @@ def index_book(book: dict[str, Any]) -> dict[str, Any]:
         "icon": book.get("icon", ""),
         "title": book.get("title", {}),
         "region": book.get("region", ""),
+        "rarity": book.get("rarity"),
         "volume_count": book.get("volume_count", 1),
         "game_version": book.get("game_version", ""),
         "tags": book.get("tags", []),
@@ -1051,6 +1054,7 @@ def index_book(book: dict[str, Any]) -> dict[str, Any]:
         "search_text": make_search_text(
             book.get("title", {}),
             book.get("region", ""),
+            book.get("rarity", ""),
             book.get("subtype", ""),
             book.get("book_type", ""),
             book.get("game_version", ""),
@@ -1067,6 +1071,7 @@ def index_artifact(item: dict[str, Any]) -> dict[str, Any]:
         "icon": item.get("icon", ""),
         "title": item.get("title", {}),
         "region": item.get("region", ""),
+        "rarity": item.get("rarity"),
         "piece_count": item.get("piece_count", 5),
         "game_version": item.get("game_version", ""),
         "tags": item.get("tags", []),
@@ -1075,6 +1080,7 @@ def index_artifact(item: dict[str, Any]) -> dict[str, Any]:
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("region", ""),
+            item.get("rarity", ""),
             item.get("game_version", ""),
             item.get("tags", []),
             [part.get("title", {}) for part in item.get("parts", [])],
@@ -1175,6 +1181,7 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("region", ""),
+            item.get("rarity", ""),
             item.get("game_version", ""),
             item.get("item_group", ""),
             item.get("entry_type", ""),
@@ -1213,6 +1220,7 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "search_text": make_search_text(
             item.get("title", {}),
             item.get("region", ""),
+            item.get("rarity", ""),
             item.get("game_version", ""),
             story_group,
             item.get("element", ""),

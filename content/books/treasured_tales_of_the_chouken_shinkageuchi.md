@@ -6,6 +6,7 @@
 # title_en: Treasured Tales of the Chouken Shinkageuchi
 # title_zh: 珍说澄研真影打
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.2
 # tags: книги, Инадзума

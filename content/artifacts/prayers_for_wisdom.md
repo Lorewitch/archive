@@ -5,6 +5,7 @@
 # title_en: Prayers for Wisdom
 # title_zh: 祭雷之人
 # region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# rarity: 4
 # piece_count: 1
 # game_version: 1.0
 # tags: артефакты, сет артефактов

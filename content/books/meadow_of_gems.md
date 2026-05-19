@@ -6,6 +6,7 @@
 # title_en: Meadow of Gems
 # title_zh: 珠玑宝矿
 # region: Ли Юэ
+# rarity: 0
 # volume_count: 1
 # game_version: 1.2
 # tags: книги, Ли Юэ

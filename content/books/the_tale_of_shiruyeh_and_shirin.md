@@ -6,6 +6,7 @@
 # title_en: The Tale of Shiruyeh and Shirin
 # title_zh: 希鲁伊与希琳的故事
 # region: Сумеру
+# rarity: 4
 # volume_count: 2
 # game_version: 3.0
 # tags: книги, Сумеру

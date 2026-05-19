@@ -5,6 +5,7 @@
 # title_en: Maiden Beloved
 # title_zh: 被怜爱的少女
 # region: Мондштадт
+# rarity: 5
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

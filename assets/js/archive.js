@@ -1052,6 +1052,29 @@ function renderTitleCell(item) {
   `;
 }
 
+function renderDetailHero(item, options = {}) {
+  const icon = iconFor(item);
+  const iconClass = [
+    "detail-title-icon",
+    options.iconClass || "",
+    entryRarityBackgroundClass(item),
+  ].filter(Boolean).join(" ");
+  const iconMarkup = icon
+    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
+    : "";
+  const subtitle = [titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · ");
+
+  return `
+    <div class="page-head detail-hero ${escapeHtml(options.className || "")}">
+      ${iconMarkup}
+      <div class="detail-hero-text">
+        <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
+        <div class="subtitle">${escapeHtml(subtitle)}</div>
+      </div>
+    </div>
+  `;
+}
+
 function materialTitle(material, lang = "ru") {
   return material?.title?.[lang] || material?.title?.ru || material?.title?.en || material?.title?.zh || material?.name || material?.key || "Материал";
 }
@@ -1824,10 +1847,7 @@ function renderBookDetail(book) {
     <section class="page-card book-page">
       <button class="back-link" id="back-books" type="button">← Назад к списку книг</button>
 
-      <div class="page-head">
-        <h1>${escapeHtml(titleOf(book, "ru"))}</h1>
-        <div class="subtitle">${escapeHtml(titleOf(book, "en"))} · ${escapeHtml(titleOf(book, "zh"))}</div>
-      </div>
+      ${renderDetailHero(book, { className: "book-detail-head" })}
 
       <div class="reader-toolbar book-toolbar" aria-label="Управление чтением">
         <div class="volume-strip" aria-label="Оглавление томов">
@@ -1930,10 +1950,7 @@ function renderArtifactDetail(artifact) {
     <section class="page-card book-page">
       <button class="back-link" id="back-artifacts" type="button">← Назад к списку артефактов</button>
 
-      <div class="page-head">
-        <h1>${escapeHtml(titleOf(artifact, "ru"))}</h1>
-        <div class="subtitle">${escapeHtml([titleOf(artifact, "en"), titleOf(artifact, "zh")].filter(Boolean).join(" · "))}</div>
-      </div>
+      ${renderDetailHero(artifact, { className: "artifact-detail-head" })}
 
       ${artifactToolbar}
 
@@ -2290,23 +2307,11 @@ function renderStoryDetail(story, config) {
   const parts = storyParts(story);
   normalizeActiveStoryPart(parts);
   const showPartToolbar = parts.length > 1;
-  const icon = iconFor(story);
-  const iconClass = ["detail-title-icon", "story-detail-icon", entryRarityBackgroundClass(story)].filter(Boolean).join(" ");
-  const iconMarkup = icon
-    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
-    : "";
-
   app.innerHTML = `
     <section class="page-card book-page story-page">
       <button class="back-link" id="back-section" type="button">${escapeHtml(catalogBackLabel(config, state.subsection))}</button>
 
-      <div class="page-head detail-hero story-detail-head">
-        ${iconMarkup}
-        <div class="detail-hero-text">
-          <h1>${escapeHtml(titleOf(story, "ru"))}</h1>
-          <div class="subtitle">${escapeHtml([titleOf(story, "en"), titleOf(story, "zh")].filter(Boolean).join(" · "))}</div>
-        </div>
-      </div>
+      ${renderDetailHero(story, { className: "story-detail-head", iconClass: "story-detail-icon" })}
 
       ${showPartToolbar ? `
         <div class="reader-toolbar story-toolbar" aria-label="Управление чтением истории">

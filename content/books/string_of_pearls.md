@@ -6,6 +6,7 @@
 # title_en: String of Pearls
 # title_zh: 连心珠
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 5
 # game_version: 1.5
 # tags: книги, Ли Юэ

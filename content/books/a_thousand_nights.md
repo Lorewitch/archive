@@ -6,6 +6,7 @@
 # title_en: A Thousand Nights
 # title_zh: 千夜故事集
 # region: Сумеру
+# rarity: 4
 # volume_count: 6
 # game_version: 3.4
 # tags: книги, Сумеру

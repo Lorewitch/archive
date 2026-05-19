@@ -40,23 +40,28 @@
 
 .detail-title-icon {
   display: block;
-  width: 88px;
-  height: 88px;
-  flex: 0 0 88px;
+  width: 96px;
+  height: 96px;
+  flex: 0 0 96px;
   object-fit: contain;
   border-radius: 16px;
   background: var(--icon-bg, rgba(203, 191, 175, 0.24));
 }
 
 .story-detail-icon {
-  width: 112px;
-  height: 112px;
-  flex-basis: 112px;
+  width: 128px;
+  height: 128px;
+  flex-basis: 128px;
   border-radius: 20px;
 }
 
 .detail-hero-text {
   min-width: 0;
+}
+
+.detail-hero-text h1 {
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 
 .story-toolbar {

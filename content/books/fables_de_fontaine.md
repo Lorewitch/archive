@@ -6,6 +6,7 @@
 # title_en: Fables de Fontaine
 # title_zh: 枫丹动物寓言集
 # region: Фонтейн
+# rarity: 4
 # volume_count: 3
 # game_version: 4.0
 # tags: книги, Фонтейн

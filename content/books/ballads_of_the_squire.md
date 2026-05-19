@@ -6,6 +6,7 @@
 # title_en: Ballads of the Squire
 # title_zh: 侍从骑士之歌
 # region: Мондштадт
+# rarity: 3
 # volume_count: 2
 # game_version: 1.0
 # tags: книги, Мондштадт

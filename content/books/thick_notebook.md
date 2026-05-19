@@ -6,6 +6,7 @@
 # title_en: Thick Notebook
 # title_zh: 厚厚的笔记
 # region: Мондштадт
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

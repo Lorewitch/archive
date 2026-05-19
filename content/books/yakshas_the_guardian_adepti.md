@@ -6,6 +6,7 @@
 # title_en: Yakshas: The Guardian Adepti
 # title_zh: 护法仙众夜叉录
 # region: Ли Юэ
+# rarity: 0
 # volume_count: 1
 # game_version: 1.3
 # tags: книги, Ли Юэ

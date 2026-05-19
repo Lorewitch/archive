@@ -6,6 +6,7 @@
 # title_en: Perinheri
 # title_zh: 裴伦埃里
 # region: Фонтейн
+# rarity: 3
 # volume_count: 2
 # game_version: 4.5
 # tags: книги, Каэнри'ах

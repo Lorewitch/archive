@@ -6,6 +6,7 @@
 # title_en: Maawe and Monetoo
 # title_zh: 玛阿威与幻写灵
 # region: Натлан
+# rarity: 3
 # volume_count: 3
 # game_version: 5.0
 # tags: книги, Натлан

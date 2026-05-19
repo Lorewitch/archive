@@ -6,6 +6,7 @@
 # title_en: The Legends of Reed Miller, Thief Extraordinaire
 # title_zh: 大盗雷德·米勒传奇
 # region: Нод-Край
+# rarity: 3
 # volume_count: 3
 # game_version: 6.0
 # tags: книги, Нод-Край

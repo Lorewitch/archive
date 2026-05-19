@@ -6,6 +6,7 @@
 # title_en: New Chronicles of the Six Kitsune
 # title_zh: 新六狐传
 # region: Инадзума
+# rarity: 4
 # volume_count: 6
 # game_version: 2.1
 # tags: книги, Инадзума

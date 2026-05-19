@@ -6,6 +6,7 @@
 # title_en: Men of Lithin
 # title_zh: 石素人
 # region: Натлан
+# rarity: 3
 # volume_count: 3
 # game_version: 5.4
 # tags: книги, Натлан

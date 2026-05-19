@@ -6,6 +6,7 @@
 # title_en: Pretty Please, Kitsune Guuji?
 # title_zh: 拜托了我的狐仙宫司
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.6
 # tags: книги, Инадзума

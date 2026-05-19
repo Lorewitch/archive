@@ -6,6 +6,7 @@
 # title_en: The Folio of Foliage
 # title_zh: 遐叶论经
 # region: Сумеру
+# rarity: 4
 # volume_count: 3
 # game_version: 3.0
 # tags: книги, Сумеру

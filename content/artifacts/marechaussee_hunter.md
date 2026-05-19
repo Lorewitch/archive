@@ -5,6 +5,7 @@
 # title_en: Marechaussee Hunter
 # title_zh: 逐影猎人
 # region: Фонтейн
+# rarity: 5
 # piece_count: 5
 # game_version: 4.0
 # tags: артефакты, сет артефактов

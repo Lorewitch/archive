@@ -5,6 +5,7 @@
 # title_en: Pale Flame
 # title_zh: 苍白之火
 # region: Ли Юэ
+# rarity: 5
 # piece_count: 5
 # game_version: 1.5
 # tags: артефакты, сет артефактов

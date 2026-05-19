@@ -6,6 +6,7 @@
 # title_en: Shogun Almighty: Reborn as Raiden With Unlimited Power
 # title_zh: 转生成为雷电将军，然后天下无敌
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.6
 # tags: книги, Инадзума

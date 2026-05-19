@@ -6,6 +6,7 @@
 # title_en: Heart of Clear Springs
 # title_zh: 清泉之心
 # region: Мондштадт
+# rarity: 3
 # volume_count: 4
 # game_version: 1.0
 # tags: книги, Мондштадт

@@ -6,6 +6,7 @@
 # title_en: Breeze Amidst the Forest
 # title_zh: 林间风
 # region: Мондштадт
+# rarity: 3
 # volume_count: 2
 # game_version: 1.0
 # tags: книги, Мондштадт

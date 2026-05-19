@@ -6,6 +6,7 @@
 # title_en: Conch Echoes
 # title_zh: 海螺的回响
 # region: Нод-Край
+# rarity: 4
 # volume_count: 2
 # game_version: 6.0
 # tags: книги

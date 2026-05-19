@@ -6,6 +6,7 @@
 # title_en: Legend of the Geo Archon: God of the Stove
 # title_zh: 岩神传说：炉灶之神
 # region: Ли Юэ
+# rarity: 2
 # volume_count: 4
 # game_version: 1.0
 # tags: книги, Ли Юэ

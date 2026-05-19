@@ -5,6 +5,7 @@
 # title_en: Ocean-Hued Clam
 # title_zh: 海染砗磲
 # region: Инадзума
+# rarity: 5
 # piece_count: 5
 # game_version: 2.3
 # tags: артефакты, сет артефактов

@@ -458,8 +458,12 @@ def check_generated_css() -> None:
         if f"rarity-bg-{rarity}" not in css_text or f"--rarity-{rarity}-bg" not in css_text:
             fail(f"assets/css/archive.css: отсутствует цветная подложка иконок редкости {rarity}★")
 
-    if "story-detail-icon" not in css_text or "width: 112px" not in css_text:
+    if "story-detail-icon" not in css_text or "width: 128px" not in css_text:
         fail("assets/css/archive.css: иконка персонажа внутри истории должна быть увеличена отдельным story-detail-icon")
+    if "detail-hero-text h1" not in css_text or "overflow-wrap: anywhere" not in css_text:
+        fail("assets/css/archive.css: длинные заголовки в detail-hero должны безопасно переноситься")
+    if "story-character-entry-icon" not in css_text or "width: 72px" not in css_text:
+        fail("assets/css/archive.css: иконки персонажей в каталоге должны быть увеличены")
     if "story-toolbar .volume-strip" not in css_text or "story-toolbar .volume-scroll button" not in css_text:
         fail("assets/css/archive.css: панель разделов истории должна иметь отдельную безопасную раскладку без вылезания кнопок")
 
@@ -718,6 +722,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: иконки записей и материалов должны версионироваться")
         if "function entryRarityBackgroundClass" not in text or "rarity-bg-${rarity}" not in text:
             fail("assets/js/archive.js: иконки записей с редкостью должны получать класс подложки по редкости")
+        if "function renderDetailHero" not in text or "renderDetailHero(book" not in text or "renderDetailHero(artifact" not in text:
+            fail("assets/js/archive.js: в читалках книг и артефактов должен использоваться общий hero-блок с иконкой")
         if 'elements.length > 3 ? "is-many"' not in text:
             fail("assets/js/archive.js: множественные элементы персонажа должны получать отдельный класс для аккуратной раскладки")
         if "weaponRarityBackgroundClass" in text or "weapon-rarity-bg" in text:

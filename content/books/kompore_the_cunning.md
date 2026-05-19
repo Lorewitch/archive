@@ -6,6 +6,7 @@
 # title_en: Kompore the Cunning
 # title_zh: 狡诈的康波雷
 # region: Натлан
+# rarity: 4
 # volume_count: 3
 # game_version: 5.5
 # tags: книги, Натлан

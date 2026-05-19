@@ -6,6 +6,7 @@
 # title_en: Sacred Sakura Cleansing Summary
 # title_zh: 神樱大祓要略
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.0
 # tags: книги, Инадзума

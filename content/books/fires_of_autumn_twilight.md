@@ -6,6 +6,7 @@
 # title_en: Fires of Autumn Twilight
 # title_zh: 秋暮之火
 # region: Натлан
+# rarity: 3
 # volume_count: 3
 # game_version: 5.2
 # tags: книги, Натлан

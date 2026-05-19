@@ -5,6 +5,7 @@
 # title_en: Lavawalker
 # title_zh: 渡过烈火的贤人
 # region: Ли Юэ
+# rarity: 5
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

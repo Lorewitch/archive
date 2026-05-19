@@ -6,6 +6,7 @@
 # title_en: Hilichurl Ballad Selection
 # title_zh: 丘丘人诗歌选
 # region: Мондштадт
+# rarity: 3
 # volume_count: 2
 # game_version: 1.0
 # tags: книги, Мондштадт

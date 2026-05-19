@@ -6,6 +6,7 @@
 # title_en: The Fox in the Dandelion Sea
 # title_zh: 蒲公英海的狐狸
 # region: Мондштадт
+# rarity: 4
 # volume_count: 11
 # game_version: 1.1
 # tags: книги, Мондштадт

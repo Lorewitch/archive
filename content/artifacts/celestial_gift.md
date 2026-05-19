@@ -5,6 +5,7 @@
 # title_en: Celestial Gift
 # title_zh: 天之美赐
 # region: Нод-Край
+# rarity: 5
 # piece_count: 5
 # game_version: 6.6
 # tags: артефакты, сет артефактов

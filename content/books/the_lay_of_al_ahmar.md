@@ -6,6 +6,7 @@
 # title_en: The Lay of Al-Ahmar
 # title_zh: 阿赫玛尔的故事
 # region: Сумеру
+# rarity: 4
 # volume_count: 1
 # game_version: 3.0
 # tags: книги, Сумеру

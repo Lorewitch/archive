@@ -6,6 +6,7 @@
 # title_en: Ancient Investigation Journal: Part I
 # title_zh: 古老的考察日志·其之一
 # region: Мондштадт
+# rarity: 0
 # volume_count: 3
 # game_version: 1.2
 # tags: книги, Мондштадт

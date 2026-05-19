@@ -5,6 +5,7 @@
 # title_en: Bloodstained Chivalry
 # title_zh: 染血的骑士道
 # region: Ли Юэ
+# rarity: 5
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

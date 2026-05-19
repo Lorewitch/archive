@@ -6,6 +6,7 @@
 # title_en: The Tale of Kuntur
 # title_zh: 昆图尔的故事
 # region: Натлан
+# rarity: 0
 # volume_count: 1
 # game_version: 5.2
 # tags: Натлан, Кунтур

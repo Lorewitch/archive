@@ -6,6 +6,7 @@
 # title_en: Records of Hanan Pacha
 # title_zh: 哈南帕查记事
 # region: Натлан
+# rarity: 3
 # volume_count: 3
 # game_version: 5.0
 # tags: книги, Натлан

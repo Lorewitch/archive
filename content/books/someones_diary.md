@@ -6,6 +6,7 @@
 # title_en: Someone's Diary
 # title_zh: 谁人的日志
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 6
 # game_version: 2.0
 # tags: книги, Ли Юэ

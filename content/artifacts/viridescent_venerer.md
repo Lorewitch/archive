@@ -5,6 +5,7 @@
 # title_en: Viridescent Venerer
 # title_zh: 翠绿之影
 # region: Мондштадт
+# rarity: 5
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

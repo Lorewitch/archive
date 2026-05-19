@@ -6,6 +6,7 @@
 # title_en: Princess Mina of the Fallen Nation
 # title_zh: 亡国的美奈姬
 # region: Инадзума
+# rarity: 4
 # volume_count: 6
 # game_version: 2.1
 # tags: книги, Инадзума

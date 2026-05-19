@@ -6,6 +6,7 @@
 # title_en: The Tale of Qoyllor and Ukuku
 # title_zh: 奎伊露和乌库库的故事
 # region: Натлан
+# rarity: 0
 # volume_count: 1
 # game_version: 5.0
 # tags: Натлан, Койллор, Укуку

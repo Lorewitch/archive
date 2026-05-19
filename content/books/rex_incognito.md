@@ -6,6 +6,7 @@
 # title_en: Rex Incognito
 # title_zh: 帝君尘游记
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 4
 # game_version: 1.0
 # tags: книги, Ли Юэ

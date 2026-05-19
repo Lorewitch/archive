@@ -6,6 +6,7 @@
 # title_en: The Pale Princess and the Six Pygmies
 # title_zh: 白之公主与六侏儒
 # region: Мондштадт
+# rarity: 4
 # volume_count: 7
 # game_version: 1.0
 # tags: книги, Мондштадт

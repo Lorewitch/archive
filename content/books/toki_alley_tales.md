@@ -6,6 +6,7 @@
 # title_en: Toki Alley Tales
 # title_zh: 鹮巷物语
 # region: Инадзума
+# rarity: 4
 # volume_count: 6
 # game_version: 2.1
 # tags: книги, Инадзума

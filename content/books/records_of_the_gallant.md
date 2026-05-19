@@ -6,6 +6,7 @@
 # title_en: Records of the Gallant
 # title_zh: 侠客记
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 2
 # game_version: 1.5
 # tags: книги, Ли Юэ

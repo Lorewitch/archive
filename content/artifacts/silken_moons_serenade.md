@@ -5,6 +5,7 @@
 # title_en: Silken Moon's Serenade
 # title_zh: 纺月的夜歌
 # region: Нод-Край
+# rarity: 5
 # piece_count: 5
 # game_version: 6.0
 # tags: артефакты, сет артефактов

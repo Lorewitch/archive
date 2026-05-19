@@ -5,6 +5,7 @@
 # title_en: Prayers for Illumination
 # title_zh: 祭火之人
 # region: Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край
+# rarity: 4
 # piece_count: 1
 # game_version: 1.0
 # tags: артефакты, сет артефактов

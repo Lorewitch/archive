@@ -5,6 +5,7 @@
 # title_en: Unfinished Reverie
 # title_zh: 未竟的遐思
 # region: Фонтейн
+# rarity: 5
 # piece_count: 5
 # game_version: 4.6
 # tags: артефакты, сет артефактов

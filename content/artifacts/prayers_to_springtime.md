@@ -5,6 +5,7 @@
 # title_en: Prayers to Springtime
 # title_zh: 祭冰之人
 # region: Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан
+# rarity: 4
 # piece_count: 1
 # game_version: 1.0
 # tags: артефакты, сет артефактов

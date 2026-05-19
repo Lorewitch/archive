@@ -5,6 +5,7 @@
 # title_en: Desert Pavilion Chronicle
 # title_zh: 沙上楼阁史话
 # region: Сумеру
+# rarity: 5
 # piece_count: 5
 # game_version: 3.3
 # tags: артефакты, сет артефактов

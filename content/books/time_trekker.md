@@ -6,6 +6,7 @@
 # title_en: Time Trekker
 # title_zh: 旅时者
 # region: Фонтейн
+# rarity: 3
 # volume_count: 3
 # game_version: 4.4
 # tags: книги, Фонтейн

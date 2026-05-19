@@ -5,6 +5,7 @@
 # title_en: Martial Artist
 # title_zh: 武人
 # region: Ли Юэ, Сумеру, Фонтейн
+# rarity: 4
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

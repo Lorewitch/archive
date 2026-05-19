@@ -5,6 +5,7 @@
 # title_en: Gilded Dreams
 # title_zh: 饰金之梦
 # region: Сумеру
+# rarity: 5
 # piece_count: 5
 # game_version: 3.0
 # tags: артефакты, сет артефактов

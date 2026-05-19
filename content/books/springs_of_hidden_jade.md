@@ -6,6 +6,7 @@
 # title_en: Springs of Hidden Jade
 # title_zh: 隐玉之泉
 # region: Ли Юэ
+# rarity: 4
 # volume_count: 2
 # game_version: 5.2
 # tags: книги, Ли Юэ

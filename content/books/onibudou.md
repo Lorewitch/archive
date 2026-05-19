@@ -6,6 +6,7 @@
 # title_en: Onibudou
 # title_zh: 鬼武道
 # region: Инадзума
+# rarity: 3
 # volume_count: 1
 # game_version: 2.1
 # tags: книги, Инадзума

@@ -5,6 +5,7 @@
 # title_en: Echoes of an Offering
 # title_zh: 来歆余响
 # region: Ли Юэ
+# rarity: 5
 # piece_count: 5
 # game_version: 2.6
 # tags: артефакты, сет артефактов

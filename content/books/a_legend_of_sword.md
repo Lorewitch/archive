@@ -6,6 +6,7 @@
 # title_en: A Legend of Sword
 # title_zh: 沉秋拾剑录
 # region: Ли Юэ
+# rarity: 4
 # volume_count: 6
 # game_version: 2.6
 # tags: книги, Ли Юэ

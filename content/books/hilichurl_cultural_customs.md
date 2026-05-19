@@ -6,6 +6,7 @@
 # title_en: Hilichurl Cultural Customs
 # title_zh: 丘丘人习俗考察
 # region: Мондштадт
+# rarity: 3
 # volume_count: 4
 # game_version: 1.0
 # tags: книги, Мондштадт

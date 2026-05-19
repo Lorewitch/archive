@@ -6,6 +6,7 @@
 # title_en: Hex & Hound
 # title_zh: 犬又二分之一
 # region: Мондштадт
+# rarity: 4
 # volume_count: 11
 # game_version: 2.0
 # tags: книги, Мондштадт

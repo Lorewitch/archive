@@ -6,6 +6,7 @@
 # title_en: Mt. Lingmeng Gossip
 # title_zh: 灵濛山夜话
 # region: Ли Юэ
+# rarity: 3
 # volume_count: 3
 # game_version: 5.2
 # tags: книги, Ли Юэ

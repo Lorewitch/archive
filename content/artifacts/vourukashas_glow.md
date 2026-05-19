@@ -5,6 +5,7 @@
 # title_en: Vourukasha's Glow
 # title_zh: 花海甘露之光
 # region: Сумеру
+# rarity: 5
 # piece_count: 5
 # game_version: 3.6
 # tags: артефакты, сет артефактов

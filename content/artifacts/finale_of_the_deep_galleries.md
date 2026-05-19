@@ -5,6 +5,7 @@
 # title_en: Finale of the Deep Galleries
 # title_zh: 深廊终曲
 # region: Натлан
+# rarity: 5
 # piece_count: 5
 # game_version: 5.5
 # tags: артефакты, сет артефактов

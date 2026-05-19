@@ -6,6 +6,7 @@
 # title_en: A Brief History of the Pale Starborn
 # title_zh: 苍星妖灵史略
 # region: Нод-Край
+# rarity: 3
 # volume_count: 1
 # game_version: 6.3
 # tags: книги, Снежная

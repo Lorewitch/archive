@@ -6,6 +6,7 @@
 # title_en: The Feline Firm
 # title_zh: 猫咪事务所
 # region: Фонтейн
+# rarity: 3
 # volume_count: 8
 # game_version: 4.7
 # tags: книги, Фонтейн

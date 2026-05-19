@@ -6,6 +6,7 @@
 # title_en: Wind, Courage, and Wings
 # title_zh: 风、勇气和翅膀
 # region: Мондштадт
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

@@ -6,6 +6,7 @@
 # title_en: The History of the Decline and Fall of Remuria
 # title_zh: 雷穆利亚衰亡史
 # region: Фонтейн
+# rarity: 4
 # volume_count: 3
 # game_version: 4.0
 # tags: книги, Фонтейн

@@ -6,6 +6,7 @@
 # title_en: The Legend of Vennessa
 # title_zh: 温妮莎传奇
 # region: Мондштадт
+# rarity: 3
 # volume_count: 2
 # game_version: 1.0
 # tags: книги, Мондштадт

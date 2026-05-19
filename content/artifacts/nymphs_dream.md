@@ -5,6 +5,7 @@
 # title_en: Nymph's Dream
 # title_zh: 水仙之梦
 # region: Сумеру
+# rarity: 5
 # piece_count: 5
 # game_version: 3.6
 # tags: артефакты, сет артефактов

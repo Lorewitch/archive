@@ -6,6 +6,7 @@
 # title_en: Gliding Instruction Manual
 # title_zh: 飞行指南
 # region: Мондштадт
+# rarity: 0
 # volume_count: 1
 # game_version: 1.0
 # tags: книги, Мондштадт

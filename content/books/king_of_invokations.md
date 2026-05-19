@@ -6,6 +6,7 @@
 # title_en: King of Invokations
 # title_zh: 《召唤王》
 # region: Сумеру
+# rarity: 0
 # volume_count: 1
 # game_version: 3.7
 # tags: книги, Сумеру

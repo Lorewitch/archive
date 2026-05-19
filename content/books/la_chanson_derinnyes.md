@@ -6,6 +6,7 @@
 # title_en: La Chanson d'Erinnyes
 # title_zh: 伊黎耶之歌
 # region: Фонтейн
+# rarity: 4
 # volume_count: 3
 # game_version: 4.2
 # tags: книги, Фонтейн

@@ -6,6 +6,7 @@
 # title_en: The Boar Princess
 # title_zh: 野猪公主
 # region: Мондштадт
+# rarity: 4
 # volume_count: 7
 # game_version: 1.2
 # tags: книги, Мондштадт

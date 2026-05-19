@@ -5,6 +5,7 @@
 # title_en: Disenchantment in Deep Shadow
 # title_zh: 影中沉凝的幻灭
 # region: Нод-Край
+# rarity: 5
 # piece_count: 5
 # game_version: 6.6
 # tags: артефакты, сет артефактов

@@ -6,6 +6,7 @@
 # title_en: Sundjatta's First Foray
 # title_zh: 松伽塔的初阵
 # region: Натлан
+# rarity: 4
 # volume_count: 3
 # game_version: 5.5
 # tags: книги, Натлан

@@ -6,6 +6,7 @@
 # title_en: An Ode to Khvarena
 # title_zh: 灵光颂
 # region: Сумеру
+# rarity: 4
 # volume_count: 1
 # game_version: 3.0
 # tags: книги, Сумеру

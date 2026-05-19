@@ -6,6 +6,7 @@
 # title_en: Night Murmurs From the Far Border: Varcolac
 # title_zh: 边乡夜语·鬣兽
 # region: Нод-Край
+# rarity: 3
 # volume_count: 1
 # game_version: 6.3
 # tags: книги, Нод-Край

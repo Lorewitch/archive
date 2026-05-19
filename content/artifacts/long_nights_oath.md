@@ -5,6 +5,7 @@
 # title_en: Long Night's Oath
 # title_zh: 长夜之誓
 # region: Натлан
+# rarity: 5
 # piece_count: 5
 # game_version: 5.5
 # tags: артефакты, сет артефактов

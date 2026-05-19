@@ -6,6 +6,7 @@
 # title_en: The Fall of the Faded Castle
 # title_zh: 褪色古堡的崩塌
 # region: Фонтейн
+# rarity: 3
 # volume_count: 3
 # game_version: 4.2
 # tags: книги, Фонтейн

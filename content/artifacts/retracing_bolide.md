@@ -5,6 +5,7 @@
 # title_en: Retracing Bolide
 # title_zh: 逆飞的流星
 # region: Ли Юэ
+# rarity: 5
 # piece_count: 5
 # game_version: 1.0
 # tags: артефакты, сет артефактов

@@ -6,6 +6,7 @@
 # title_en: The Little Witch and the Undying Fire
 # title_zh: 小魔女与不熄灭的火
 # region: Мондштадт
+# rarity: 4
 # volume_count: 7
 # game_version: 4.7
 # tags: книги

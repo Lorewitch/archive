@@ -5,6 +5,7 @@
 # title_en: Emblem of Severed Fate
 # title_zh: 绝缘之旗印
 # region: Инадзума
+# rarity: 5
 # piece_count: 5
 # game_version: 2.0
 # tags: артефакты, сет артефактов

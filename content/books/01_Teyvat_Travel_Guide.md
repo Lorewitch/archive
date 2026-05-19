@@ -6,6 +6,7 @@
 # title_en: Teyvat Travel Guide
 # title_zh: 提瓦特游览指南
 # region: Мондштадт, Ли Юэ, Инадзума
+# rarity: 0
 # volume_count: 3
 # game_version: 2.6
 # tags: книги, Мондштадт, Ли Юэ, Инадзума, путеводитель

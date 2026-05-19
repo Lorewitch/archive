@@ -5,6 +5,7 @@
 # title_en: Vermillion Hereafter
 # title_zh: 辰砂往生录
 # region: Ли Юэ
+# rarity: 5
 # piece_count: 5
 # game_version: 2.6
 # tags: артефакты, сет артефактов

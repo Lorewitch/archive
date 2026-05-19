@@ -6,6 +6,7 @@
 # title_en: A Drunkard's Tale
 # title_zh: 醉客轶事
 # region: Мондштадт
+# rarity: 3
 # volume_count: 4
 # game_version: 1.0
 # tags: книги, Мондштадт

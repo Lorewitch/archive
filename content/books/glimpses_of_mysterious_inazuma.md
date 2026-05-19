@@ -6,6 +6,7 @@
 # title_en: Glimpses of Mysterious Inazuma
 # title_zh: 稻妻秘见录
 # region: Инадзума
+# rarity: 3
 # volume_count: 2
 # game_version: 5.4
 # tags: книги, Инадзума
