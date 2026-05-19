@@ -413,16 +413,6 @@
     text-align: left;
   }
 
-  .catalog-row.item .entry-title-cell {
-    align-items: flex-start;
-    gap: 11px;
-  }
-
-  .catalog-row.item .entry-icon {
-    --entry-icon-size: 44px;
-    margin-top: 1px;
-  }
-
   .catalog-row.item .story-character-entry-icon {
     --entry-icon-size: 62px;
     margin-top: 0;
@@ -430,16 +420,6 @@
 
   .catalog-row.item .book-title {
     font-size: clamp(17px, 3.5vw, 20px);
-    line-height: 1.24;
-  }
-
-  .catalog-row.item .book-subtitle {
-    margin-top: 2px;
-    line-height: 1.22;
-  }
-
-  .group-card-title {
-    line-height: 1.13;
   }
 
   .game-version-badge {
