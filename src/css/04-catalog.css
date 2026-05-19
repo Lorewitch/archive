@@ -626,6 +626,10 @@
   min-width: 0;
 }
 
+.entry-title-text {
+  min-width: 0;
+}
+
 .entry-icon {
   display: block;
   width: 42px;

@@ -627,6 +627,17 @@ def check_common_enemy_layout_guards() -> None:
 
     if responsive_css.exists():
         responsive_text = responsive_css.read_text(encoding="utf-8")
+        if ".catalog-row.item .entry-title-cell" in responsive_text or ".catalog-row.item .entry-icon" in responsive_text:
+            fail("src/css/07-responsive.css: мобильное выравнивание иконок не должно цеплять все карточки каталога")
+        for old_selector in (
+            ".catalog-row.item.cols-books .entry-title-cell",
+            ".catalog-row.item.cols-artifacts .entry-title-cell",
+            ".catalog-row.item.cols-weapons .entry-title-cell",
+        ):
+            if old_selector in responsive_text:
+                fail("src/css/07-responsive.css: выравнивание иконок должно идти через смысловой класс title-icon-start, а не через заплатки по категориям")
+        if ".catalog-row.item.title-icon-start .entry-title-cell" not in responsive_text or ".catalog-row.item.title-icon-start .entry-icon" not in responsive_text:
+            fail("src/css/07-responsive.css: отсутствует чистое мобильное выравнивание title-icon-start")
         if "html.menu-open," not in responsive_text or "overscroll-behavior: none" not in responsive_text or "touch-action: none" not in responsive_text:
             fail("src/css/07-responsive.css: мобильное меню должно блокировать прокрутку фона, а не только затемнять его")
         if "overflow-x: clip" not in responsive_text or ".catalog-page" not in responsive_text:
@@ -809,6 +820,10 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: старая категория Еда и зелья или старый фильтр Чайник не должны оставаться в клиенте")
         if 'title: "Инвентарь"' not in text:
             fail("assets/js/archive.js: раздел Предметы должен быть переименован в Инвентарь")
+        if "function catalogLayoutClass" not in text or "function catalogRowClasses" not in text:
+            fail("assets/js/archive.js: классы строк каталога должны формироваться централизованно, без дублирования условий")
+        if 'mobileTitleCellAlign: "start"' not in text or 'config.mobileTitleCellAlign === "start" ? "title-icon-start"' not in text:
+            fail("assets/js/archive.js: мобильное выравнивание иконок должно включаться смысловым флагом секции")
         if "function renderStoryDetail" not in text or 'id="toggle-story-read-all"' not in text or "data-story-part" not in text:
             fail("assets/js/archive.js: истории должны читаться по разделам и в режиме читать всё подряд")
         if "story-element-list" not in text or "element-icon-stack" in text or "element-pill-multi" in text:

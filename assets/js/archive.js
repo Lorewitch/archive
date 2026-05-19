@@ -632,6 +632,7 @@ const SECTIONS = [
     filterLabel: "Все регионы",
     columns: ["Название", "Частей", "Тип", "Регион"],
     empty: "В этом разделе пока нет текстов.",
+    mobileTitleCellAlign: "start",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.volume_count || item.volumes?.length || 1),
@@ -649,6 +650,7 @@ const SECTIONS = [
     filterLabel: "Все регионы",
     columns: ["Название", "Регион", "Частей"],
     empty: "Артефакты пока не добавлены.",
+    mobileTitleCellAlign: "start",
     row: item => [
       renderTitleCell(item),
       escapeHtml(item.region || "—"),
@@ -666,6 +668,7 @@ const SECTIONS = [
     fixedOptions: WEAPON_TYPES,
     columns: ["Название", "Тип", "Редкость"],
     empty: "Оружие пока не добавлено.",
+    mobileTitleCellAlign: "start",
     row: item => [
       renderTitleCell(item),
       escapeHtml(labelFromOptions(item.weapon_type || item.type, WEAPON_TYPES) || item.weapon_type || item.type || "—"),
@@ -1675,16 +1678,37 @@ function filteredEntries(config) {
   return rows;
 }
 
+function catalogLayoutClass(config) {
+  if (config.id === "stories" && state.subsection === "character_stories") {
+    return "cols-stories-character";
+  }
+  if (config.id === "items" && state.subsection === "common_enemies") {
+    return "cols-items-common-enemy";
+  }
+  if (config.id === "items" && state.subsection === "development_materials") {
+    return "cols-items-development";
+  }
+  if (config.id === "items" && itemGroupUsesTypeFilters(state.subsection)) {
+    return "cols-items-typed";
+  }
+  if (config.id === "items" && isEnemyDropGroup(state.subsection)) {
+    return "cols-items-enemy";
+  }
+  return `cols-${config.id}`;
+}
+
+function catalogRowClasses(config, modifiers = []) {
+  return [
+    "catalog-row",
+    ...modifiers,
+    catalogLayoutClass(config),
+    config.mobileTitleCellAlign === "start" ? "title-icon-start" : "",
+  ].filter(Boolean).join(" ");
+}
+
 function catalogRow(item, config) {
-  const rowClass = config.id === "stories" && state.subsection === "character_stories"
-    ? "cols-stories-character"
-    : config.id === "items" && state.subsection === "common_enemies"
-    ? "cols-items-common-enemy"
-    : config.id === "items" && state.subsection === "development_materials" ? "cols-items-development"
-    : config.id === "items" && itemGroupUsesTypeFilters(state.subsection) ? "cols-items-typed"
-    : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   return `
-    <div class="catalog-row item ${rowClass}" data-entry-id="${escapeHtml(item.id)}" data-section-id="${escapeHtml(config.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
+    <div class="${catalogRowClasses(config, ["item"])}" data-entry-id="${escapeHtml(item.id)}" data-section-id="${escapeHtml(config.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
       ${config.row(item).map(cell => `<div>${cell}</div>`).join("")}
     </div>
   `;
@@ -1788,18 +1812,11 @@ function renderCatalogTable(config) {
   const sortUp = filterState.sort === "asc" ? "active" : "";
   const sortDown = filterState.sort === "desc" ? "active" : "";
   const columns = typeof config.columns === "function" ? config.columns() : config.columns;
-  const rowClass = config.id === "stories" && state.subsection === "character_stories"
-    ? "cols-stories-character"
-    : config.id === "items" && state.subsection === "common_enemies"
-    ? "cols-items-common-enemy"
-    : config.id === "items" && state.subsection === "development_materials" ? "cols-items-development"
-    : config.id === "items" && itemGroupUsesTypeFilters(state.subsection) ? "cols-items-typed"
-    : config.id === "items" && isEnemyDropGroup(state.subsection) ? "cols-items-enemy" : `cols-${config.id}`;
   const sortableFirstColumn = !isCommonEnemyCatalog(config) && !isDevelopmentMaterialsCatalog(config);
 
   return `
     <div class="catalog-table" id="catalog-table">
-      <div class="catalog-row head ${rowClass}">
+      <div class="${catalogRowClasses(config, ["head"])}">
         ${columns.map((column, index) => index === 0 && sortableFirstColumn ? `
           <div>
             <button class="sortable-head" id="sort-title" type="button" aria-label="Сортировать по названию">
