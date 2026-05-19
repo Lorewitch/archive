@@ -41,7 +41,7 @@ ARTIFACT_PART_LABELS = {
 
 ITEM_GROUPS = {
     "weekly_bosses", "world_bosses", "common_enemies", "development_materials",
-    "teyvat_resources", "food_potions", "useful_items", "misc",
+    "teyvat_resources", "serenitea_pot", "useful_items", "misc",
 }
 
 DEVELOPMENT_MATERIAL_TYPES = {
@@ -58,12 +58,13 @@ ITEM_TYPE_DEFINITIONS = {
         "plant": {"ru": "Растение", "en": "Plant", "zh": "植物"},
         "animal": {"ru": "Животное", "en": "Animal", "zh": "动物"},
         "craft": {"ru": "Крафт", "en": "Crafting", "zh": "合成"},
-        "teapot": {"ru": "Чайник", "en": "Serenitea Pot", "zh": "尘歌壶"},
-    },
-    "food_potions": {
-        "food": {"ru": "Еда", "en": "Food", "zh": "食物"},
         "ingredient": {"ru": "Ингредиент", "en": "Ingredient", "zh": "食材"},
-        "potion": {"ru": "Зелье", "en": "Potion", "zh": "药剂"},
+    },
+    "serenitea_pot": {
+        "wood": {"ru": "Древесина", "en": "Wood", "zh": "木材"},
+        "blueprint": {"ru": "Чертёж", "en": "Blueprint", "zh": "图纸"},
+        "seed": {"ru": "Семена", "en": "Seed", "zh": "种子"},
+        "misc": {"ru": "Прочее", "en": "Miscellaneous", "zh": "其他"},
     },
     "useful_items": {
         "tool": {"ru": "Инструмент", "en": "Tool", "zh": "道具"},
@@ -107,6 +108,16 @@ COMMON_ENEMY_TYPE_ALIASES = {
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
 STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
+STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
+STORY_ELEMENT_ALIASES = {
+    "pyro": "pyro", "пиро": "pyro",
+    "hydro": "hydro", "гидро": "hydro",
+    "anemo": "anemo", "анемо": "anemo",
+    "electro": "electro", "электро": "electro",
+    "dendro": "dendro", "дендро": "dendro",
+    "cryo": "cryo", "крио": "cryo",
+    "geo": "geo", "гео": "geo",
+}
 
 
 def read_text(path: Path) -> str:
@@ -627,6 +638,13 @@ def normalized_story_group(meta: dict[str, str]) -> str:
     return value if value in STORY_GROUPS else "world_stories"
 
 
+def normalized_story_element(meta: dict[str, str]) -> str:
+    value = (meta.get("element") or meta.get("vision") or "").strip().lower().replace("ё", "е")
+    value = re.sub(r"[^a-zа-я0-9]+", "_", value).strip("_")
+    value = STORY_ELEMENT_ALIASES.get(value, value)
+    return value if value in STORY_ELEMENTS else ""
+
+
 def generic_item_type_title_from_meta(item_group: str, meta: dict[str, str]) -> dict[str, str]:
     key = normalized_generic_item_type(item_group, meta)
     defaults = ITEM_TYPE_DEFINITIONS.get(item_group, {}).get(key, {"ru": "", "en": "", "zh": ""})
@@ -813,6 +831,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     if category == "stories":
         entry["story_group"] = normalized_story_group(meta)
         entry["category_type"] = entry["story_group"]
+        entry["element"] = normalized_story_element(meta)
     if category == "items":
         entry["item_group"] = normalized_item_group(meta)
         entry["entry_type"] = entry_type
@@ -1084,6 +1103,8 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "game_version": item.get("game_version", ""),
         "story_group": story_group,
         "category_type": story_group,
+        "element": item.get("element", ""),
+        "rarity": item.get("rarity"),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
         **index_runtime_fields(item, story_group),
@@ -1092,6 +1113,8 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
             item.get("region", ""),
             item.get("game_version", ""),
             story_group,
+            item.get("element", ""),
+            item.get("rarity", ""),
             item.get("tags", []),
             item.get("description", {}),
         ),

@@ -23,14 +23,14 @@ KNOWN_REGIONS = {
 }
 KNOWN_ITEM_GROUPS = {
     "weekly_bosses", "world_bosses", "common_enemies", "development_materials",
-    "teyvat_resources", "food_potions", "useful_items", "misc",
+    "teyvat_resources", "serenitea_pot", "useful_items", "misc",
 }
 KNOWN_DEVELOPMENT_MATERIAL_TYPES = {
     "talents", "character_ascension", "weapon_ascension",
 }
 KNOWN_ITEM_TYPES = {
-    "teyvat_resources": {"ore", "local_specialty", "plant", "animal", "craft", "teapot"},
-    "food_potions": {"food", "ingredient", "potion"},
+    "teyvat_resources": {"ore", "local_specialty", "plant", "animal", "craft", "ingredient"},
+    "serenitea_pot": {"wood", "blueprint", "seed", "misc"},
     "useful_items": {"tool", "seelie", "equipment"},
     "misc": {"misc"},
 }
@@ -43,6 +43,7 @@ KNOWN_ENEMY_GROUPS = {
 }
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
 KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
+KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 
 CSS_MODULES = [
     "00-tokens.css",
@@ -361,6 +362,13 @@ def check_stories(stories: dict[str, dict[str, Any]]) -> None:
         story_group = str(story.get("story_group") or story.get("category_type") or "").strip()
         if story_group not in KNOWN_STORY_GROUPS:
             fail(f"{owner}: неизвестная группа истории {story_group or '—'}")
+        if story_group == "character_stories":
+            element = str(story.get("element") or "").strip()
+            if element not in KNOWN_STORY_ELEMENTS:
+                fail(f"{owner}: история персонажа должна иметь element из списка, получено {element or 'пусто'}")
+            rarity = story.get("rarity")
+            if str(rarity) not in {"4", "5"}:
+                fail(f"{owner}: история персонажа должна иметь rarity 4 или 5, получено {rarity or 'пусто'}")
         if not localized_text_present(story):
             fail(f"{owner}: история без текста")
 
@@ -499,6 +507,8 @@ def check_common_enemy_layout_guards() -> None:
                 fail("src/css/04-catalog.css: колонка материалов в каталоге боссов должна быть сдвинута правее общей сеткой")
         if "type-filter-toggle" not in catalog_text:
             fail("src/css/04-catalog.css: общая галочка фильтров должна иметь отдельный стиль")
+        if ".catalog-row.cols-stories-character" not in catalog_text or ".type-filter-icon" not in catalog_text or ".element-pill" not in catalog_text:
+            fail("src/css/04-catalog.css: для историй персонажей нужны колонки и стили иконок элементов")
 
         typed_first_block = re.search(r"\.catalog-row\.cols-items-typed\.item > div:first-child \{(?P<body>.*?)\}", catalog_text, re.S)
         if not typed_first_block:
@@ -567,6 +577,35 @@ def check_workflow_guards() -> None:
     for fragment in required_fragments:
         if fragment not in text:
             fail(f"{rel(workflow)}: отсутствует защитный фрагмент workflow: {fragment}")
+
+
+def check_content_structure() -> None:
+    content_items = ROOT / "content" / "items"
+    teapot_dir = content_items / "serenitea_pot"
+    teyvat_dir = content_items / "teyvat_resources"
+
+    if not teapot_dir.exists():
+        fail("content/items/serenitea_pot: для Чайника Безмятежности должна быть отдельная папка контента")
+
+    if teyvat_dir.exists():
+        for path in sorted(teyvat_dir.glob("*.md")):
+            text = path.read_text(encoding="utf-8")
+            if "# item_group: serenitea_pot" in text or "# item_type: teapot" in text:
+                fail(f"{rel(path)}: контент Чайника не должен лежать в Ресурсах Тейвата")
+
+    if teapot_dir.exists():
+        teapot_types: set[str] = set()
+        for path in sorted(teapot_dir.glob("*.md")):
+            text = path.read_text(encoding="utf-8")
+            if "# item_group: serenitea_pot" not in text:
+                fail(f"{rel(path)}: файл в папке Чайника должен иметь item_group: serenitea_pot")
+            match = re.search(r"^#\s*item_type\s*:\s*(.+?)\s*$", text, re.MULTILINE)
+            if match:
+                teapot_types.add(match.group(1).strip())
+        required = {"wood", "seed", "misc"}
+        missing = required - teapot_types
+        if missing:
+            fail(f"content/items/serenitea_pot: не найдены типы Чайника: {', '.join(sorted(missing))}")
 
 
 def check_infrastructure_files() -> None:
@@ -653,8 +692,14 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: остался старый код каскадной раскладки")
         if 'data-type-filter-toggle="all"' not in text or "toggle.indeterminate" not in text:
             fail("assets/js/archive.js: фильтры-галочки должны иметь общую галочку для быстрого выбора и снятия")
-        if '["craft", "Крафт"]' not in text or '["teapot", "Чайник"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
-            fail("assets/js/archive.js: в фильтрах предметов должны быть Крафт, Чайник и Ингредиенты")
+        if '["craft", "Крафт"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
+            fail("assets/js/archive.js: в фильтрах ресурсов Тейвата должны быть Крафт и Ингредиенты")
+        if '["serenitea_pot", "Чайник Безмятежности"' not in text or '["wood", "Древесина"]' not in text or '["blueprint", "Чертежи"]' not in text or '["seed", "Семена"]' not in text or '["misc", "Прочее"]' not in text:
+            fail("assets/js/archive.js: Чайник Безмятежности должен быть отдельной подкатегорией с фильтрами древесины, чертежей, семян и прочего")
+        if 'food_potions' in text or 'Еда и зелья' in text or '["teapot", "Чайник"]' in text:
+            fail("assets/js/archive.js: старая категория Еда и зелья или старый фильтр Чайник не должны оставаться в клиенте")
+        if 'title: "Инвентарь"' not in text:
+            fail("assets/js/archive.js: раздел Предметы должен быть переименован в Инвентарь")
         if '<a class="enemy-loot-chip' not in text or 'routeHash("items", drop.id, group)' not in text:
             fail("assets/js/archive.js: дополнительные ресурсы в карточках противников должны быть кликабельными")
         if '<span class="toolbar-label">Язык</span>\n        <span class="toolbar-label">Язык</span>' in text:
@@ -679,11 +724,16 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: раздел Истории и вложенные подкатегории должны быть подключены в клиенте")
         if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
+        if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
+            fail("assets/js/archive.js: истории персонажей должны иметь фильтры и колонки элемента/редкости")
+        if 'assets/icons/element/01_Pyro.webp' not in text or 'element:pyro' not in text or 'rarity:5' not in text or 'rarity:4' not in text:
+            fail("assets/js/archive.js: фильтры историй персонажей должны использовать иконки элементов и редкость")
         if 'hasChildGroups(config, state.subsection)' not in text or 'parentGroupFor(config, state.subsection)' not in text:
             fail("assets/js/archive.js: вложенные категории Историй должны открываться отдельным уровнем, а не плоским списком")
 
 
 def main() -> int:
+    check_content_structure()
     check_infrastructure_files()
     check_workflow_guards()
     check_line_endings()

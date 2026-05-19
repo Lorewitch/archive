@@ -30,12 +30,12 @@
     "general": "Здесь можно оставить внутренние заметки по предмету.",
     "byVolume": {}
   },
-  "item_group": "teyvat_resources",
+  "item_group": "serenitea_pot",
   "entry_type": "item",
-  "item_type": "teapot",
+  "item_type": "wood",
   "item_type_title": {
-    "ru": "Чайник",
-    "en": "Serenitea Pot",
-    "zh": "尘歌壶"
+    "ru": "Древесина",
+    "en": "Wood",
+    "zh": "木材"
   }
 }

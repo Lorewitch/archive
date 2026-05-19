@@ -554,6 +554,15 @@ h3,
   align-self: center;
 }
 
+.catalog-row.cols-stories-character {
+  --catalog-columns: minmax(300px, 1.5fr) minmax(130px, 0.52fr)
+    minmax(110px, 0.42fr) minmax(170px, 0.62fr);
+}
+
+.catalog-row.cols-stories-character.item > div {
+  align-self: center;
+}
+
 .catalog-row:last-child {
   border-bottom: 0;
 }
@@ -673,6 +682,30 @@ h3,
   font-size: 12px;
   font-weight: 780;
   line-height: 1.2;
+}
+
+.element-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  width: fit-content;
+  max-width: 100%;
+  padding: 5px 9px;
+  border: 1px solid rgba(91, 74, 62, 0.12);
+  border-radius: 9px;
+  background: rgba(232, 222, 212, 0.64);
+  color: #342b25;
+  font-size: 13px;
+  font-weight: 820;
+  line-height: 1.2;
+}
+
+.element-pill img {
+  display: block;
+  width: 24px;
+  height: 24px;
+  flex: 0 0 24px;
+  object-fit: contain;
 }
 
 .entry-material-preview {
@@ -1013,6 +1046,14 @@ h3,
   width: 14px;
   height: 14px;
   accent-color: var(--accent);
+}
+
+.type-filter-icon {
+  display: block;
+  width: 22px;
+  height: 22px;
+  flex: 0 0 22px;
+  object-fit: contain;
 }
 
 .type-filter-toggle {
@@ -2180,6 +2221,8 @@ a.enemy-loot-chip:focus-visible {
 
   .catalog-row.cols-items-common-enemy .dropped-by-catalog-chip,
   .catalog-row.cols-items-typed .common-enemy-type-chip,
+  .catalog-row.cols-stories-character .common-enemy-type-chip,
+  .catalog-row.cols-stories-character .element-pill,
   .catalog-row.cols-items-development .common-enemy-type-chip,
   .catalog-row.cols-books .common-enemy-type-chip,
   .catalog-row.cols-weapons .common-enemy-type-chip {
@@ -2998,6 +3041,7 @@ a.enemy-loot-chip:focus-visible {
   .catalog-row.head.cols-books,
   .catalog-row.head.cols-weapons,
   .catalog-row.head.cols-items-typed,
+  .catalog-row.head.cols-stories-character,
   .catalog-row.head.cols-items {
     display: none;
   }
@@ -3005,6 +3049,7 @@ a.enemy-loot-chip:focus-visible {
   .catalog-row.cols-books,
   .catalog-row.cols-weapons,
   .catalog-row.cols-items-typed,
+  .catalog-row.cols-stories-character,
   .catalog-row.cols-items {
     grid-template-columns: 1fr;
   }
@@ -3012,6 +3057,7 @@ a.enemy-loot-chip:focus-visible {
   .catalog-row.cols-books.item > div:not(:first-child),
   .catalog-row.cols-weapons.item > div:not(:first-child),
   .catalog-row.cols-items-typed.item > div:not(:first-child),
+  .catalog-row.cols-stories-character.item > div:not(:first-child),
   .catalog-row.cols-items.item > div:not(:first-child) {
     display: none;
   }
@@ -3019,6 +3065,7 @@ a.enemy-loot-chip:focus-visible {
   .catalog-row.cols-books.item > div:first-child,
   .catalog-row.cols-weapons.item > div:first-child,
   .catalog-row.cols-items-typed.item > div:first-child,
+  .catalog-row.cols-stories-character.item > div:first-child,
   .catalog-row.cols-items.item > div:first-child {
     display: block;
   }
@@ -3026,6 +3073,7 @@ a.enemy-loot-chip:focus-visible {
   .catalog-row.cols-books.item > div::before,
   .catalog-row.cols-weapons.item > div::before,
   .catalog-row.cols-items-typed.item > div::before,
+  .catalog-row.cols-stories-character.item > div::before,
   .catalog-row.cols-items.item > div::before {
     display: none;
     content: "";

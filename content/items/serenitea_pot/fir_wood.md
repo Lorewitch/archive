@@ -1,0 +1,39 @@
+# id: fir_wood
+# category: items
+# item_group: serenitea_pot
+# entry_type: item
+
+# item_type: wood
+# item_type_ru: Древесина
+# item_type_en: Wood
+# item_type_zh: 木材
+
+# tags:
+
+# title_ru: Пихта
+# title_en: Fir Wood
+# title_zh: 杉木
+# region: Мондштадт
+# game_version: 1.5
+
+# icon: assets/icons/items/teyvat_resources/fir_wood.webp
+
+---
+
+## RU
+
+Древесина, полученная из пихты. Широко используется благодаря отличному качеству и привлекательному узору. Служит для изготовления декора.
+
+## EN
+
+Wood from the tree known as "Faber's Fir." Widely used for its fine quality and attractive grain. Can be used to create furnishings.
+
+## ZH
+
+「冷杉」出产的木材，有着不错的木质和纹理，被广泛使用于各种领域。 可用于制作摆设。
+
+## NOTES
+
+### Общие заметки Лороведьмы
+
+Здесь можно оставить внутренние заметки по предмету.

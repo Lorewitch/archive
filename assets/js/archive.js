@@ -149,8 +149,8 @@ const ITEM_GROUPS = [
   ["world_bosses", "Материалы с мировых боссов", "Диковинные трофеи владык открытого мира: кристаллы, ядра и осколки сил для возвышения персонажей."],
   ["common_enemies", "Материалы с обычных противников", "Повседневная добыча с монстров и вражеских отрядов: маски, знаки, обломки и другие маленькие улики мира."],
   ["development_materials", "Материалы развития", "Книги талантов и материалы возвышения: тихие ступени роста, через которые персонажи становятся сильнее."],
-  ["teyvat_resources", "Ресурсы Тейвата", "Руды, растения, диковины и собираемые редкости: природные следы регионов, спрятанные в траве, камне и лунном свете."],
-  ["food_potions", "Еда и зелья", "Блюда, ингредиенты и алхимические зелья: всё, что лечит, усиливает, согревает и иногда подозрительно вкусно пахнет."],
+  ["teyvat_resources", "Ресурсы Тейвата", "Руды, растения, диковины, ингредиенты и собираемые редкости: природные следы регионов, спрятанные в траве, камне и лунном свете."],
+  ["serenitea_pot", "Чайник Безмятежности", "Древесина, чертежи, семена и прочие вещи для обустройства собственной тихой обители."],
   ["useful_items", "Полезные предметы", "Инструменты, гаджеты и особые вещицы: маленькие помощники путешествия, без которых дорога становится куда капризнее."],
   ["misc", "Прочее", "Редкие и странные находки без отдельной полки: всё, что не пожелало аккуратно вписаться в другие разделы."]
 ];
@@ -177,6 +177,33 @@ const STORY_GROUP_LABELS = Object.fromEntries(
   [...STORY_GROUPS, ...Object.values(STORY_CHILD_GROUPS).flat()].map(([key, label]) => [key, label])
 );
 
+const ELEMENT_FILTERS = [
+  ["pyro", "Пиро", "assets/icons/element/01_Pyro.webp"],
+  ["hydro", "Гидро", "assets/icons/element/02_Hydro.webp"],
+  ["anemo", "Анемо", "assets/icons/element/03_Anemo.webp"],
+  ["electro", "Электро", "assets/icons/element/04_Electro.webp"],
+  ["dendro", "Дендро", "assets/icons/element/05_Dendro.webp"],
+  ["cryo", "Крио", "assets/icons/element/06_Cryo.webp"],
+  ["geo", "Гео", "assets/icons/element/07_Geo.webp"],
+];
+
+const STORY_CHARACTER_TYPE_FILTERS = [
+  ...ELEMENT_FILTERS.map(([value, label, icon]) => ({ value: `element:${value}`, label, icon, group: "element" })),
+  { value: "rarity:5", label: "5★", group: "rarity" },
+  { value: "rarity:4", label: "4★", group: "rarity" },
+];
+
+const ELEMENT_LABELS = Object.fromEntries(ELEMENT_FILTERS.map(([value, label, icon]) => [value, { label, icon }]));
+const ELEMENT_ALIASES = {
+  pyro: "pyro", пиро: "pyro",
+  hydro: "hydro", гидро: "hydro",
+  anemo: "anemo", анемо: "anemo",
+  electro: "electro", электро: "electro",
+  dendro: "dendro", дендро: "dendro",
+  cryo: "cryo", крио: "cryo",
+  geo: "geo", гео: "geo",
+};
+
 const ENEMY_DROP_GROUPS = ["weekly_bosses", "world_bosses", "common_enemies"];
 
 function isEnemyDropGroup(group) {
@@ -195,6 +222,10 @@ function isCommonEnemyCatalog(config = getSectionConfig()) {
 
 function isDevelopmentMaterialsCatalog(config = getSectionConfig()) {
   return config?.id === "items" && state.subsection === "development_materials";
+}
+
+function isCharacterStoriesCatalog(config = getSectionConfig()) {
+  return config?.id === "stories" && state.subsection === "character_stories";
 }
 
 
@@ -218,12 +249,13 @@ const ITEM_GROUP_TYPE_FILTERS = {
     ["plant", "Растения"],
     ["animal", "Животные"],
     ["craft", "Крафт"],
-    ["teapot", "Чайник"],
-  ],
-  food_potions: [
-    ["food", "Еда"],
     ["ingredient", "Ингредиенты"],
-    ["potion", "Зелья"],
+  ],
+  serenitea_pot: [
+    ["wood", "Древесина"],
+    ["blueprint", "Чертежи"],
+    ["seed", "Семена"],
+    ["misc", "Прочее"],
   ],
   useful_items: [
     ["tool", "Инструменты"],
@@ -232,8 +264,24 @@ const ITEM_GROUP_TYPE_FILTERS = {
   ],
 };
 
+function typeFilterOptionValue(option) {
+  return Array.isArray(option) ? option[0] : option.value;
+}
+
+function typeFilterOptionLabel(option) {
+  return Array.isArray(option) ? option[1] : option.label;
+}
+
+function typeFilterOptionIcon(option) {
+  return Array.isArray(option) ? option[2] : option.icon;
+}
+
+function typeFilterOptionGroup(option) {
+  return Array.isArray(option) ? "" : option.group || "";
+}
+
 const ITEM_GROUP_TYPE_KEYS = Object.fromEntries(
-  Object.entries(ITEM_GROUP_TYPE_FILTERS).map(([group, options]) => [group, new Set(options.map(([value]) => value))])
+  Object.entries(ITEM_GROUP_TYPE_FILTERS).map(([group, options]) => [group, new Set(options.map(typeFilterOptionValue))])
 );
 
 const ITEM_GROUP_TYPE_LABELS = {
@@ -243,12 +291,13 @@ const ITEM_GROUP_TYPE_LABELS = {
     plant: { ru: "Растение", en: "Plant", zh: "植物" },
     animal: { ru: "Животное", en: "Animal", zh: "动物" },
     craft: { ru: "Крафт", en: "Crafting", zh: "合成" },
-    teapot: { ru: "Чайник", en: "Serenitea Pot", zh: "尘歌壶" },
-  },
-  food_potions: {
-    food: { ru: "Еда", en: "Food", zh: "食物" },
     ingredient: { ru: "Ингредиент", en: "Ingredient", zh: "食材" },
-    potion: { ru: "Зелье", en: "Potion", zh: "药剂" },
+  },
+  serenitea_pot: {
+    wood: { ru: "Древесина", en: "Wood", zh: "木材" },
+    blueprint: { ru: "Чертёж", en: "Blueprint", zh: "图纸" },
+    seed: { ru: "Семена", en: "Seed", zh: "种子" },
+    misc: { ru: "Прочее", en: "Miscellaneous", zh: "其他" },
   },
   useful_items: {
     tool: { ru: "Инструмент", en: "Tool", zh: "道具" },
@@ -292,6 +341,36 @@ function itemGroupTypeTitle(item, lang = "ru") {
   return item?.item_type_title?.[lang] || labels?.[lang] || labels?.ru || item?.item_type || "—";
 }
 
+function normalizeStoryElement(value) {
+  const key = String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/ё/g, "е")
+    .replace(/[^a-zа-я0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+  return ELEMENT_ALIASES[key] || key;
+}
+
+function storyElementTitle(value) {
+  const key = normalizeStoryElement(value);
+  return ELEMENT_LABELS[key]?.label || String(value || "—");
+}
+
+function storyElementIcon(value) {
+  const key = normalizeStoryElement(value);
+  return ELEMENT_LABELS[key]?.icon || "";
+}
+
+function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
+  const selectedElements = ELEMENT_FILTERS
+    .map(([value]) => value)
+    .filter(value => activeTypeSet.has(`element:${value}`));
+  const selectedRarities = ["5", "4"].filter(value => activeTypeSet.has(`rarity:${value}`));
+  const itemElement = normalizeStoryElement(item?.element || item?.vision || "");
+  const itemRarity = String(item?.rarity || "").trim();
+  return selectedElements.includes(itemElement) && selectedRarities.includes(itemRarity);
+}
+
 function itemTypeFilterValue(item, config = getSectionConfig()) {
   const prepared = String(item?.filter_type || "").trim();
   if (prepared) return prepared;
@@ -306,6 +385,7 @@ function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
   if (config.id === "weapons") return RARITY_FILTERS;
   if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
+  if (isCharacterStoriesCatalog(config)) return STORY_CHARACTER_TYPE_FILTERS;
   if (config.id === "items") return ITEM_GROUP_TYPE_FILTERS[state.subsection] || [];
   return [];
 }
@@ -313,10 +393,10 @@ function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
 function activeTypeFilters(config = getSectionConfig()) {
   const filterState = state.filters[config.id];
   const options = typeFiltersForCurrentCatalog(config);
-  const defaults = options.map(([value]) => value);
+  const defaults = options.map(typeFilterOptionValue);
 
   let saved = [];
-  if (config.id === "items") {
+  if (config.id === "items" || config.id === "stories") {
     saved = filterState.typeFiltersByGroup?.[state.subsection] || [];
   } else {
     saved = filterState.typeFilters || [];
@@ -331,19 +411,26 @@ function renderTypeFilters(config) {
   if (!options.length) return "";
 
   const activeTypes = new Set(activeTypeFilters(config));
-  const allSelected = options.every(([value]) => activeTypes.has(value));
+  const allSelected = options.every(option => activeTypes.has(typeFilterOptionValue(option)));
   return `
     <div class="type-filter-row" aria-label="Дополнительный фильтр">
       <label class="type-filter-chip type-filter-toggle">
         <input type="checkbox" data-type-filter-toggle="all" ${allSelected ? "checked" : ""}>
         <span>Все</span>
       </label>
-      ${options.map(([value, label]) => `
-        <label class="type-filter-chip">
+      ${options.map(option => {
+        const value = typeFilterOptionValue(option);
+        const label = typeFilterOptionLabel(option);
+        const icon = typeFilterOptionIcon(option);
+        const group = typeFilterOptionGroup(option);
+        return `
+        <label class="type-filter-chip ${group ? `type-filter-${escapeHtml(group)}` : ""}">
           <input type="checkbox" value="${escapeHtml(value)}" ${activeTypes.has(value) ? "checked" : ""}>
+          ${icon ? `<img class="type-filter-icon" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : ""}
           <span>${escapeHtml(label)}</span>
         </label>
-      `).join("")}
+      `;
+      }).join("")}
     </div>
   `;
 }
@@ -496,8 +583,8 @@ const SECTIONS = [
   {
     id: "items",
     icon: "assets/icons/02_inventory_icon.webp",
-    title: "Предметы",
-    description: "Предметы и материалы: трофеи, ресурсы, еда, инструменты и другие маленькие ключи к устройству мира.",
+    title: "Инвентарь",
+    description: "Инвентарь Тейвата: трофеи, ресурсы, материалы, инструменты и другие маленькие ключи к устройству мира.",
     data: () => ITEMS,
     groups: ITEM_GROUPS,
     groupField: "item_group",
@@ -544,9 +631,16 @@ const SECTIONS = [
     defaultGroup: "world_stories",
     filter: "region",
     filterLabel: "Все регионы",
-    columns: ["Название", "Категория", "Регион"],
+    columns: () => state.subsection === "character_stories"
+      ? ["Название", "Элемент", "Редкость", "Регион"]
+      : ["Название", "Категория", "Регион"],
     empty: "В этой категории пока нет историй.",
-    row: item => [
+    row: item => state.subsection === "character_stories" ? [
+      renderTitleCell(item),
+      renderStoryElementCell(item),
+      renderStoryRarityCell(item),
+      escapeHtml(item.region || "—")
+    ] : [
       renderTitleCell(item),
       escapeHtml(storyGroupLabel(item.story_group || state.subsection)),
       escapeHtml(item.region || "—")
@@ -578,12 +672,21 @@ const state = {
       typeFiltersByGroup: {
         common_enemies: ["hilichurls", "elementals", "fatui", "automatons", "human_factions", "abyss", "mystical_beasts"],
         development_materials: ["talents", "character_ascension", "weapon_ascension"],
-        teyvat_resources: ["ore", "local_specialty", "plant", "animal", "craft", "teapot"],
-        food_potions: ["food", "ingredient", "potion"],
+        teyvat_resources: ["ore", "local_specialty", "plant", "animal", "craft", "ingredient"],
+        serenitea_pot: ["wood", "blueprint", "seed", "misc"],
         useful_items: ["tool", "seelie", "equipment"]
       }
     },
-    stories: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 }
+    stories: {
+      query: "",
+      filter: "all",
+      sort: "version",
+      page: 1,
+      pageSize: 10,
+      typeFiltersByGroup: {
+        character_stories: ["element:pyro", "element:hydro", "element:anemo", "element:electro", "element:dendro", "element:cryo", "element:geo", "rarity:5", "rarity:4"]
+      }
+    }
   }
 };
 
@@ -933,6 +1036,24 @@ function renderGenericItemTypeCell(item) {
   return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
 }
 
+function renderStoryElementCell(item) {
+  const element = normalizeStoryElement(item?.element || item?.vision || "");
+  const icon = storyElementIcon(element);
+  const label = storyElementTitle(element);
+  if (!icon) return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
+  return `
+    <span class="element-pill">
+      <img src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">
+      <span>${escapeHtml(label)}</span>
+    </span>
+  `;
+}
+
+function renderStoryRarityCell(item) {
+  const rarity = String(item?.rarity || "").trim();
+  return rarity ? `<span class="common-enemy-type-chip">${escapeHtml(rarity)}★</span>` : "—";
+}
+
 function renderCommonEnemyTypesCell(item) {
   const labels = itemCommonEnemyTypeLabels(item);
   if (!labels.length) return "—";
@@ -1159,7 +1280,7 @@ function catalogBackLabel(config, groupKey = state.subsection) {
       common_enemies: "обычных противников",
       development_materials: "материалов развития",
       teyvat_resources: "ресурсов Тейвата",
-      food_potions: "еды и зелий",
+      serenitea_pot: "Чайника Безмятежности",
       useful_items: "полезных предметов",
       misc: "прочего",
     };
@@ -1305,6 +1426,9 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
     if (isCommonEnemyCatalog(config)) {
       return Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type));
     }
+    if (isCharacterStoriesCatalog(config)) {
+      return storyCharacterMatchesTypeFilters(item, activeTypeSet);
+    }
     return activeTypeSet.has(itemTypeFilterValue(item, config));
   }
 
@@ -1409,7 +1533,9 @@ function filteredEntries(config) {
 }
 
 function catalogRow(item, config) {
-  const rowClass = config.id === "items" && state.subsection === "common_enemies"
+  const rowClass = config.id === "stories" && state.subsection === "character_stories"
+    ? "cols-stories-character"
+    : config.id === "items" && state.subsection === "common_enemies"
     ? "cols-items-common-enemy"
     : config.id === "items" && state.subsection === "development_materials" ? "cols-items-development"
     : config.id === "items" && itemGroupUsesTypeFilters(state.subsection) ? "cols-items-typed"
@@ -1519,7 +1645,9 @@ function renderCatalogTable(config) {
   const sortUp = filterState.sort === "asc" ? "active" : "";
   const sortDown = filterState.sort === "desc" ? "active" : "";
   const columns = typeof config.columns === "function" ? config.columns() : config.columns;
-  const rowClass = config.id === "items" && state.subsection === "common_enemies"
+  const rowClass = config.id === "stories" && state.subsection === "character_stories"
+    ? "cols-stories-character"
+    : config.id === "items" && state.subsection === "common_enemies"
     ? "cols-items-common-enemy"
     : config.id === "items" && state.subsection === "development_materials" ? "cols-items-development"
     : config.id === "items" && itemGroupUsesTypeFilters(state.subsection) ? "cols-items-typed"
@@ -2269,7 +2397,7 @@ function handleAppChange(event) {
 
   if (event.target.matches(".type-filter-chip input")) {
     const options = typeFiltersForCurrentCatalog(config);
-    const defaultValues = options.map(([value]) => value);
+    const defaultValues = options.map(typeFilterOptionValue);
     const itemInputs = Array.from(app.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])'));
     const toggle = app.querySelector('[data-type-filter-toggle="all"]');
 
@@ -2284,7 +2412,7 @@ function handleAppChange(event) {
     }
 
     filterState.page = 1;
-    if (config.id === "items") {
+    if (config.id === "items" || config.id === "stories") {
       if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
       filterState.typeFiltersByGroup[state.subsection] = checked;
     } else {
