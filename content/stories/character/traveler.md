@@ -3,7 +3,7 @@
 # title_ru: Путешественник
 # title_en: Traveler
 # title_zh: 旅行者
-# region: Тейват
+# region: Иной мир
 # element: multi
 # element_variants: anemo, geo, electro, dendro, hydro, pyro, cryo
 # traveler_variants_collapsed: true
