@@ -681,6 +681,10 @@ def check_common_enemy_layout_guards() -> None:
         mobile_sidebar = re.search(r"@media \(max-width: 1180px\).*?\.sidebar \{(?P<body>.*?)\}", responsive_text, re.S)
         if not mobile_sidebar or "calc(100vw - 72px)" not in mobile_sidebar.group("body") or "overflow-y: auto" not in mobile_sidebar.group("body"):
             fail("src/css/07-responsive.css: мобильное меню должно оставлять широкую область для закрытия и прокручиваться внутри карточки")
+        if not mobile_sidebar or "bottom: auto" not in mobile_sidebar.group("body") or "min-height: 0" not in mobile_sidebar.group("body") or "max-height: calc(100vh - 78px)" not in mobile_sidebar.group("body"):
+            fail("src/css/07-responsive.css: мобильное меню должно подстраиваться под высоту содержимого, а не растягивать бежевую карточку до низа экрана")
+        if re.search(r"(?<!max-)height: calc\(100dvh - 16px\)", responsive_text) or "bottom: max(12px, env(safe-area-inset-bottom))" in responsive_text:
+            fail("src/css/07-responsive.css: старое landscape-меню не должно принудительно растягиваться на всю высоту экрана")
         if "width: 100vw" in responsive_text:
             fail("src/css/07-responsive.css: не должен использоваться width: 100vw — на iOS он может создавать горизонтальный скролл")
         if "calc(100vw - 16px)" in responsive_text:

@@ -159,11 +159,13 @@
     position: fixed;
     z-index: 100;
     top: 66px;
-    bottom: 12px;
+    bottom: auto;
     left: max(12px, env(safe-area-inset-left));
     width: min(380px, calc(100vw - 72px));
     height: auto;
+    min-height: 0;
     max-width: calc(100vw - 72px);
+    max-height: calc(100vh - 78px);
     transform: translateX(calc(-100% - 24px));
     transition: transform 0.22s ease;
     overflow-x: hidden;
@@ -196,6 +198,12 @@
     .sidebar {
       width: min(380px, calc(100dvw - 72px));
       max-width: calc(100dvw - 72px);
+    }
+  }
+
+  @supports (height: 100dvh) {
+    .sidebar {
+      max-height: calc(100dvh - 78px);
     }
   }
 
@@ -830,12 +838,13 @@
 
   .sidebar {
     top: 8px;
-    bottom: 8px;
+    bottom: auto;
     left: 8px;
     width: min(500px, calc(100vw - 48px));
+    height: auto;
+    min-height: 0;
     max-width: calc(100vw - 48px);
-    height: calc(100dvh - 16px);
-    max-height: calc(100dvh - 16px);
+    max-height: calc(100vh - 16px);
     padding: 12px;
     border-radius: 16px;
     overflow-y: auto;
@@ -845,6 +854,12 @@
     .sidebar {
       width: min(500px, calc(100dvw - 48px));
       max-width: calc(100dvw - 48px);
+    }
+  }
+
+  @supports (height: 100dvh) {
+    .sidebar {
+      max-height: calc(100dvh - 16px);
     }
   }
 
@@ -1372,10 +1387,12 @@
       padding-right: clamp(10px, 2.4vw, 22px);
       padding-bottom: max(24px, env(safe-area-inset-bottom));
     }
+  }
 
+  @media (max-width: 1180px) and (min-height: 521px) {
     .sidebar {
       top: calc(66px + env(safe-area-inset-top));
-      bottom: max(12px, env(safe-area-inset-bottom));
+      max-height: calc(100dvh - 78px - env(safe-area-inset-top) - env(safe-area-inset-bottom));
     }
   }
 }
