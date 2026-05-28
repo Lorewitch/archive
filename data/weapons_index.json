@@ -15,7 +15,9 @@
     "tags": [
       "лук",
       "линнея",
-      "аркадия"
+      "аркадия",
+      "сигна Линнея",
+      "сигнатурное оружие Линнея"
     ],
     "languages": [
       "ru",
@@ -25,7 +27,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6005000,
-    "search_text": "золотая клятва льда dawn's salutation returned 与君致意的黎明 bow 5 6.5 лук линнея аркадия"
+    "search_text": "золотая клятва льда dawn's salutation returned 与君致意的黎明 bow 5 6.5 лук линнея аркадия сигна линнея сигнатурное оружие линнея"
   },
   {
     "id": "alley_hunter",
@@ -69,7 +71,9 @@
     "game_version": "1.0",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Гань Юй",
+      "сигнатурное оружие Гань Юй"
     ],
     "languages": [
       "ru",
@@ -79,7 +83,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "лук амоса amos' bow 阿莫斯之弓 bow 5 1.0 оружие лук"
+    "search_text": "лук амоса amos' bow 阿莫斯之弓 bow 5 1.0 оружие лук сигна гань юй сигнатурное оружие гань юй"
   },
   {
     "id": "aqua_simulacra",
@@ -96,7 +100,9 @@
     "game_version": "2.7",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Е Лань",
+      "сигнатурное оружие Е Лань"
     ],
     "languages": [
       "ru",
@@ -106,7 +112,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2007000,
-    "search_text": "аква симулякрум aqua simulacra 若水 bow 5 2.7 оружие лук"
+    "search_text": "аква симулякрум aqua simulacra 若水 bow 5 2.7 оружие лук сигна е лань сигнатурное оружие е лань"
   },
   {
     "id": "astral_vultures_crimson_plumage",
@@ -123,7 +129,9 @@
     "game_version": "5.2",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Часка",
+      "сигнатурное оружие Часка"
     ],
     "languages": [
       "ru",
@@ -133,7 +141,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5002000,
-    "search_text": "алое перо звёздного грифа astral vulture's crimson plumage 星鹫赤羽 bow 5 5.2 оружие лук"
+    "search_text": "алое перо звёздного грифа astral vulture's crimson plumage 星鹫赤羽 bow 5 5.2 оружие лук сигна часка сигнатурное оружие часка"
   },
   {
     "id": "blackcliff_warbow",
@@ -204,7 +212,9 @@
     "game_version": "4.7",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Сетос",
+      "сигнатурное оружие Сетос"
     ],
     "languages": [
       "ru",
@@ -214,7 +224,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4007000,
-    "search_text": "выкованный из облаков cloudforged 筑云 bow 4 4.7 оружие лук"
+    "search_text": "выкованный из облаков cloudforged 筑云 bow 4 4.7 оружие лук сигна сетос сигнатурное оружие сетос"
   },
   {
     "id": "compound_bow",
@@ -258,7 +268,9 @@
     "game_version": "1.4",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Венти",
+      "сигнатурное оружие Венти"
     ],
     "languages": [
       "ru",
@@ -268,7 +280,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1004000,
-    "search_text": "элегия погибели elegy for the end 终末嗟叹之诗 bow 5 1.4 оружие лук"
+    "search_text": "элегия погибели elegy for the end 终末嗟叹之诗 bow 5 1.4 оружие лук сигна венти сигнатурное оружие венти"
   },
   {
     "id": "end_of_the_line",
@@ -447,7 +459,9 @@
     "game_version": "3.0",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Тигнари",
+      "сигнатурное оружие Тигнари"
     ],
     "languages": [
       "ru",
@@ -457,7 +471,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3000000,
-    "search_text": "охотничья тропа hunter's path 猎人之径 bow 5 3.0 оружие лук"
+    "search_text": "охотничья тропа hunter's path 猎人之径 bow 5 3.0 оружие лук сигна тигнари сигнатурное оружие тигнари"
   },
   {
     "id": "ibis_piercer",
@@ -555,7 +569,9 @@
     "game_version": "1.6",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Фишль",
+      "сигнатурное оружие Фишль"
     ],
     "languages": [
       "ru",
@@ -565,7 +581,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1006000,
-    "search_text": "вальс нирваны ночи mitternachts waltz 幽夜华尔兹 bow 4 1.6 оружие лук"
+    "search_text": "вальс нирваны ночи mitternachts waltz 幽夜华尔兹 bow 4 1.6 оружие лук сигна фишль сигнатурное оружие фишль"
   },
   {
     "id": "mouuns_moon",
@@ -609,7 +625,9 @@
     "game_version": "2.2",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Тарталья",
+      "сигнатурное оружие Тарталья"
     ],
     "languages": [
       "ru",
@@ -619,7 +637,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2002000,
-    "search_text": "полярная звезда polar star 冬极白星 bow 5 2.2 оружие лук"
+    "search_text": "полярная звезда polar star 冬极白星 bow 5 2.2 оружие лук сигна тарталья сигнатурное оружие тарталья"
   },
   {
     "id": "predator",
@@ -636,7 +654,9 @@
     "game_version": "2.1",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Элой",
+      "сигнатурное оружие Элой"
     ],
     "languages": [
       "ru",
@@ -646,7 +666,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2001000,
-    "search_text": "хищник predator 掠食者 bow 4 2.1 оружие лук"
+    "search_text": "хищник predator 掠食者 bow 4 2.1 оружие лук сигна элой сигнатурное оружие элой"
   },
   {
     "id": "prototype_crescent",
@@ -987,7 +1007,9 @@
     "game_version": "4.7",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Сиджвин",
+      "сигнатурное оружие Сиджвин"
     ],
     "languages": [
       "ru",
@@ -997,7 +1019,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4007000,
-    "search_text": "сердечные струны дождя silvershower heartstrings 白雨心弦 bow 5 4.7 оружие лук"
+    "search_text": "сердечные струны дождя silvershower heartstrings 白雨心弦 bow 5 4.7 оружие лук сигна сиджвин сигнатурное оружие сиджвин"
   },
   {
     "id": "skyward_harp",
@@ -1122,7 +1144,9 @@
     "game_version": "6.2",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Венти",
+      "сигнатурное оружие Венти"
     ],
     "languages": [
       "ru",
@@ -1132,7 +1156,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6002000,
-    "search_text": "хроники рассвета the daybreak chronicles 黎明破晓之史 bow 5 6.2 оружие лук"
+    "search_text": "хроники рассвета the daybreak chronicles 黎明破晓之史 bow 5 6.2 оружие лук сигна венти сигнатурное оружие венти"
   },
   {
     "id": "the_first_great_magic",
@@ -1149,7 +1173,9 @@
     "game_version": "4.0",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Лини",
+      "сигнатурное оружие Лини"
     ],
     "languages": [
       "ru",
@@ -1159,7 +1185,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4000000,
-    "search_text": "первый великий фокус the first great magic 最初的大魔术 bow 5 4.0 оружие лук"
+    "search_text": "первый великий фокус the first great magic 最初的大魔术 bow 5 4.0 оружие лук сигна лини сигнатурное оружие лини"
   },
   {
     "id": "the_stringless",
@@ -1230,7 +1256,9 @@
     "game_version": "2.0",
     "tags": [
       "оружие",
-      "лук"
+      "лук",
+      "сигна Ёимия",
+      "сигнатурное оружие Ёимия"
     ],
     "languages": [
       "ru",
@@ -1240,7 +1268,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2000000,
-    "search_text": "громовой пульс thundering pulse 飞雷之弦振 bow 5 2.0 оружие лук"
+    "search_text": "громовой пульс thundering pulse 飞雷之弦振 bow 5 2.0 оружие лук сигна ёимия сигнатурное оружие ёимия"
   },
   {
     "id": "windblume_ode",
@@ -1284,7 +1312,9 @@
     "game_version": "3.2",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Нахида",
+      "сигнатурное оружие Нахида"
     ],
     "languages": [
       "ru",
@@ -1294,7 +1324,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3002000,
-    "search_text": "сновидения тысячи ночей a thousand floating dreams 千夜浮梦 catalyst 5 3.2 оружие катализатор"
+    "search_text": "сновидения тысячи ночей a thousand floating dreams 千夜浮梦 catalyst 5 3.2 оружие катализатор сигна нахида сигнатурное оружие нахида"
   },
   {
     "id": "angelos_heptades",
@@ -1310,7 +1340,9 @@
     "rarity": 5,
     "game_version": "6.6",
     "tags": [
-      "Николь"
+      "Николь",
+      "сигна Николь",
+      "сигнатурное оружие Николь"
     ],
     "languages": [
       "ru",
@@ -1320,7 +1352,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6006000,
-    "search_text": "гептада ангела angelos' heptades 尘光七谕 catalyst 5 6.6 николь"
+    "search_text": "гептада ангела angelos' heptades 尘光七谕 catalyst 5 6.6 николь сигна николь сигнатурное оружие николь"
   },
   {
     "id": "apprentices_notes",
@@ -1472,7 +1504,9 @@
     "game_version": "4.1",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Ризли",
+      "сигнатурное оружие Ризли"
     ],
     "languages": [
       "ru",
@@ -1482,7 +1516,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4001000,
-    "search_text": "казначейский надзор cashflow supervision 金流监督 catalyst 5 4.1 оружие катализатор"
+    "search_text": "казначейский надзор cashflow supervision 金流监督 catalyst 5 4.1 оружие катализатор сигна ризли сигнатурное оружие ризли"
   },
   {
     "id": "cranes_echoing_call",
@@ -1499,7 +1533,9 @@
     "game_version": "4.4",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Сянь Юнь",
+      "сигнатурное оружие Сянь Юнь"
     ],
     "languages": [
       "ru",
@@ -1509,7 +1545,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4004000,
-    "search_text": "звонкий клич журавля crane's echoing call 鹤鸣余音 catalyst 5 4.4 оружие катализатор"
+    "search_text": "звонкий клич журавля crane's echoing call 鹤鸣余音 catalyst 5 4.4 оружие катализатор сигна сянь юнь сигнатурное оружие сянь юнь"
   },
   {
     "id": "dawning_frost",
@@ -1553,7 +1589,9 @@
     "game_version": "1.6",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Кли",
+      "сигнатурное оружие Кли"
     ],
     "languages": [
       "ru",
@@ -1563,7 +1601,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1006000,
-    "search_text": "истории додоко dodoco tales 嘟嘟可故事集 catalyst 4 1.6 оружие катализатор"
+    "search_text": "истории додоко dodoco tales 嘟嘟可故事集 catalyst 4 1.6 оружие катализатор сигна кли сигнатурное оружие кли"
   },
   {
     "id": "emerald_orb",
@@ -1634,7 +1672,9 @@
     "game_version": "2.1",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Кокоми",
+      "сигнатурное оружие Кокоми"
     ],
     "languages": [
       "ru",
@@ -1644,7 +1684,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2001000,
-    "search_text": "вечное лунное сияние everlasting moonglow 不灭月华 catalyst 5 2.1 оружие катализатор"
+    "search_text": "вечное лунное сияние everlasting moonglow 不灭月华 catalyst 5 2.1 оружие катализатор сигна кокоми сигнатурное оружие кокоми"
   },
   {
     "id": "eye_of_perception",
@@ -1823,7 +1863,9 @@
     "game_version": "3.6",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Бай Чжу",
+      "сигнатурное оружие Бай Чжу"
     ],
     "languages": [
       "ru",
@@ -1833,7 +1875,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3006000,
-    "search_text": "великолепие лазурного свода jadefall's splendor 碧落之珑 catalyst 5 3.6 оружие катализатор"
+    "search_text": "великолепие лазурного свода jadefall's splendor 碧落之珑 catalyst 5 3.6 оружие катализатор сигна бай чжу сигнатурное оружие бай чжу"
   },
   {
     "id": "kaguras_verity",
@@ -1850,7 +1892,9 @@
     "game_version": "2.5",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Яэ Мико",
+      "сигнатурное оружие Яэ Мико"
     ],
     "languages": [
       "ru",
@@ -1860,7 +1904,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2005000,
-    "search_text": "истина кагура kagura's verity 神乐之真意 catalyst 5 2.5 оружие катализатор"
+    "search_text": "истина кагура kagura's verity 神乐之真意 catalyst 5 2.5 оружие катализатор сигна яэ мико сигнатурное оружие яэ мико"
   },
   {
     "id": "lost_prayer_to_the_sacred_winds",
@@ -1877,7 +1921,9 @@
     "game_version": "1.0",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Кли",
+      "сигнатурное оружие Кли"
     ],
     "languages": [
       "ru",
@@ -1887,7 +1933,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "молитва святым ветрам lost prayer to the sacred winds 四风原典 catalyst 5 1.0 оружие катализатор"
+    "search_text": "молитва святым ветрам lost prayer to the sacred winds 四风原典 catalyst 5 1.0 оружие катализатор сигна кли сигнатурное оружие кли"
   },
   {
     "id": "magic_guide",
@@ -1958,7 +2004,9 @@
     "game_version": "1.1",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Нин Гуан",
+      "сигнатурное оружие Нин Гуан"
     ],
     "languages": [
       "ru",
@@ -1968,7 +2016,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1001000,
-    "search_text": "память о пыли memory of dust 尘世之锁 catalyst 5 1.1 оружие катализатор"
+    "search_text": "память о пыли memory of dust 尘世之锁 catalyst 5 1.1 оружие катализатор сигна нин гуан сигнатурное оружие нин гуан"
   },
   {
     "id": "nightweavers_looking_glass",
@@ -1985,7 +2033,9 @@
     "game_version": "6.0",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Лаума",
+      "сигнатурное оружие Лаума"
     ],
     "languages": [
       "ru",
@@ -1995,7 +2045,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6000000,
-    "search_text": "зеркало прядильщицы ночи nightweaver's looking glass 纺夜天镜 catalyst 5 6.0 оружие катализатор"
+    "search_text": "зеркало прядильщицы ночи nightweaver's looking glass 纺夜天镜 catalyst 5 6.0 оружие катализатор сигна лаума сигнатурное оружие лаума"
   },
   {
     "id": "nocturnes_curtain_call",
@@ -2012,7 +2062,9 @@
     "game_version": "6.3",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Колумбина",
+      "сигнатурное оружие Колумбина"
     ],
     "languages": [
       "ru",
@@ -2022,7 +2074,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6003000,
-    "search_text": "вызов ноктюрна nocturne's curtain call 帷间夜曲 catalyst 5 6.3 оружие катализатор"
+    "search_text": "вызов ноктюрна nocturne's curtain call 帷间夜曲 catalyst 5 6.3 оружие катализатор сигна колумбина сигнатурное оружие колумбина"
   },
   {
     "id": "oathsworn_eye",
@@ -2147,7 +2199,9 @@
     "game_version": "6.1",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Нефер",
+      "сигнатурное оружие Нефер"
     ],
     "languages": [
       "ru",
@@ -2157,7 +2211,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6001000,
-    "search_text": "шкатулка истин reliquary of truth 真语秘匣 catalyst 5 6.1 оружие катализатор"
+    "search_text": "шкатулка истин reliquary of truth 真语秘匣 catalyst 5 6.1 оружие катализатор сигна нефер сигнатурное оружие нефер"
   },
   {
     "id": "ring_of_yaxche",
@@ -2336,7 +2390,9 @@
     "game_version": "5.3",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Ситлали",
+      "сигнатурное оружие Ситлали"
     ],
     "languages": [
       "ru",
@@ -2346,7 +2402,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5003000,
-    "search_text": "бдение взывающего к звёздам starcaller's watch 祭星者之望 catalyst 5 5.3 оружие катализатор"
+    "search_text": "бдение взывающего к звёздам starcaller's watch 祭星者之望 catalyst 5 5.3 оружие катализатор сигна ситлали сигнатурное оружие ситлали"
   },
   {
     "id": "sunny_morning_sleep_in",
@@ -2363,7 +2419,9 @@
     "game_version": "5.4",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Мидзуки",
+      "сигнатурное оружие Мидзуки"
     ],
     "languages": [
       "ru",
@@ -2373,7 +2431,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5004000,
-    "search_text": "сон солнечным утром sunny morning sleep-in 寝正月初晴 catalyst 5 5.4 оружие катализатор"
+    "search_text": "сон солнечным утром sunny morning sleep-in 寝正月初晴 catalyst 5 5.4 оружие катализатор сигна мидзуки сигнатурное оружие мидзуки"
   },
   {
     "id": "surfs_up",
@@ -2390,7 +2448,9 @@
     "game_version": "5.0",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Муалани",
+      "сигнатурное оружие Муалани"
     ],
     "languages": [
       "ru",
@@ -2400,7 +2460,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5000000,
-    "search_text": "лови волну surf's up 冲浪时光 catalyst 5 5.0 оружие катализатор"
+    "search_text": "лови волну surf's up 冲浪时光 catalyst 5 5.0 оружие катализатор сигна муалани сигнатурное оружие муалани"
   },
   {
     "id": "the_widsith",
@@ -2471,7 +2531,9 @@
     "game_version": "4.1",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Нёвиллет",
+      "сигнатурное оружие Нёвиллет"
     ],
     "languages": [
       "ru",
@@ -2481,7 +2543,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4001000,
-    "search_text": "обряд вечного течения tome of the eternal flow 万世流涌大典 catalyst 5 4.1 оружие катализатор"
+    "search_text": "обряд вечного течения tome of the eternal flow 万世流涌大典 catalyst 5 4.1 оружие катализатор сигна нёвиллет сигнатурное оружие нёвиллет"
   },
   {
     "id": "tulaytullahs_remembrance",
@@ -2498,7 +2560,9 @@
     "game_version": "3.3",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Странник",
+      "сигнатурное оружие Странник"
     ],
     "languages": [
       "ru",
@@ -2508,7 +2572,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3003000,
-    "search_text": "воспоминания тулайтуллы tulaytullah's remembrance 图莱杜拉的回忆 catalyst 5 3.3 оружие катализатор"
+    "search_text": "воспоминания тулайтуллы tulaytullah's remembrance 图莱杜拉的回忆 catalyst 5 3.3 оружие катализатор сигна странник сигнатурное оружие странник"
   },
   {
     "id": "twin_nephrite",
@@ -2552,7 +2616,9 @@
     "game_version": "5.5",
     "tags": [
       "оружие",
-      "катализатор"
+      "катализатор",
+      "сигна Вареса",
+      "сигнатурное оружие Вареса"
     ],
     "languages": [
       "ru",
@@ -2562,7 +2628,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5005000,
-    "search_text": "переливающиеся чаяния vivid notions 溢彩心念 catalyst 5 5.5 оружие катализатор"
+    "search_text": "переливающиеся чаяния vivid notions 溢彩心念 catalyst 5 5.5 оружие катализатор сигна вареса сигнатурное оружие вареса"
   },
   {
     "id": "wandering_evenstar",
@@ -2660,7 +2726,9 @@
     "game_version": "5.3",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Мавуика",
+      "сигнатурное оружие Мавуика"
     ],
     "languages": [
       "ru",
@@ -2670,7 +2738,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5003000,
-    "search_text": "тысяча ослепительных солнц a thousand blazing suns 焚曜千阳 claymore 5 5.3 оружие двуручное"
+    "search_text": "тысяча ослепительных солнц a thousand blazing suns 焚曜千阳 claymore 5 5.3 оружие двуручное сигна мавуика сигнатурное оружие мавуика"
   },
   {
     "id": "akuoumaru",
@@ -2714,7 +2782,9 @@
     "game_version": "3.5",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Дэхья",
+      "сигнатурное оружие Дэхья"
     ],
     "languages": [
       "ru",
@@ -2724,7 +2794,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3005000,
-    "search_text": "маяк тростникового моря beacon of the reed sea 苇海信标 claymore 5 3.5 оружие двуручное"
+    "search_text": "маяк тростникового моря beacon of the reed sea 苇海信标 claymore 5 3.5 оружие двуручное сигна дэхья сигнатурное оружие дэхья"
   },
   {
     "id": "blackcliff_slasher",
@@ -2849,7 +2919,9 @@
     "game_version": "5.0",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Кинич",
+      "сигнатурное оружие Кинич"
     ],
     "languages": [
       "ru",
@@ -2859,7 +2931,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5000000,
-    "search_text": "клык горного короля fang of the mountain king 山王长牙 claymore 5 5.0 оружие двуручное"
+    "search_text": "клык горного короля fang of the mountain king 山王长牙 claymore 5 5.0 оружие двуручное сигна кинич сигнатурное оружие кинич"
   },
   {
     "id": "favonius_greatsword",
@@ -3011,7 +3083,9 @@
     "game_version": "6.4",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Варка",
+      "сигнатурное оружие Варка"
     ],
     "languages": [
       "ru",
@@ -3021,7 +3095,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6004000,
-    "search_text": "подвиг могучего волка gest of the mighty wolf 狼的武功歌 claymore 5 6.4 оружие двуручное"
+    "search_text": "подвиг могучего волка gest of the mighty wolf 狼的武功歌 claymore 5 6.4 оружие двуручное сигна варка сигнатурное оружие варка"
   },
   {
     "id": "katsuragikiri_nagamasa",
@@ -3308,7 +3382,9 @@
     "game_version": "2.3",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Аратаки Итто",
+      "сигнатурное оружие Аратаки Итто"
     ],
     "languages": [
       "ru",
@@ -3318,7 +3394,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2003000,
-    "search_text": "краснорогий камнеруб redhorn stonethresher 赤角石溃杵 claymore 5 2.3 оружие двуручное"
+    "search_text": "краснорогий камнеруб redhorn stonethresher 赤角石溃杵 claymore 5 2.3 оружие двуручное сигна аратаки итто сигнатурное оружие аратаки итто"
   },
   {
     "id": "royal_greatsword",
@@ -3497,7 +3573,9 @@
     "game_version": "1.5",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Эола",
+      "сигнатурное оружие Эола"
     ],
     "languages": [
       "ru",
@@ -3507,7 +3585,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1005000,
-    "search_text": "песнь разбитых сосен song of broken pines 松籁响起之时 claymore 5 1.5 оружие двуручное"
+    "search_text": "песнь разбитых сосен song of broken pines 松籁响起之时 claymore 5 1.5 оружие двуручное сигна эола сигнатурное оружие эола"
   },
   {
     "id": "talking_stick",
@@ -3659,7 +3737,9 @@
     "game_version": "4.3",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Навия",
+      "сигнатурное оружие Навия"
     ],
     "languages": [
       "ru",
@@ -3669,7 +3749,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4003000,
-    "search_text": "вердикт verdict 裁断 claymore 5 4.3 оружие двуручное"
+    "search_text": "вердикт verdict 裁断 claymore 5 4.3 оружие двуручное сигна навия сигнатурное оружие навия"
   },
   {
     "id": "waster_greatsword",
@@ -3767,7 +3847,9 @@
     "game_version": "1.0",
     "tags": [
       "оружие",
-      "двуручное"
+      "двуручное",
+      "сигна Дилюк",
+      "сигнатурное оружие Дилюк"
     ],
     "languages": [
       "ru",
@@ -3777,7 +3859,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "волчья погибель wolf's gravestone 狼的末路 claymore 5 1.0 оружие двуручное"
+    "search_text": "волчья погибель wolf's gravestone 狼的末路 claymore 5 1.0 оружие двуручное сигна дилюк сигнатурное оружие дилюк"
   },
   {
     "id": "ballad_of_the_fjords",
@@ -3902,7 +3984,9 @@
     "game_version": "6.0",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Флинс",
+      "сигнатурное оружие Флинс"
     ],
     "languages": [
       "ru",
@@ -3912,7 +3996,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6000000,
-    "search_text": "окровавленные руины bloodsoaked ruins 血染荒城 polearm 5 6.0 оружие древковое"
+    "search_text": "окровавленные руины bloodsoaked ruins 血染荒城 polearm 5 6.0 оружие древковое сигна флинс сигнатурное оружие флинс"
   },
   {
     "id": "calamity_queller",
@@ -3929,7 +4013,9 @@
     "game_version": "2.4",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Шэнь Хэ",
+      "сигнатурное оружие Шэнь Хэ"
     ],
     "languages": [
       "ru",
@@ -3939,7 +4025,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2004000,
-    "search_text": "усмиритель бед calamity queller 息灾 polearm 5 2.4 оружие древковое"
+    "search_text": "усмиритель бед calamity queller 息灾 polearm 5 2.4 оружие древковое сигна шэнь хэ сигнатурное оружие шэнь хэ"
   },
   {
     "id": "crescent_pike",
@@ -3983,7 +4069,9 @@
     "game_version": "4.6",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Арлекино",
+      "сигнатурное оружие Арлекино"
     ],
     "languages": [
       "ru",
@@ -3993,7 +4081,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4006000,
-    "search_text": "очертания алой луны crimson moon’s semblance 赤月之形 polearm 5 4.6 оружие древковое"
+    "search_text": "очертания алой луны crimson moon’s semblance 赤月之形 polearm 5 4.6 оружие древковое сигна арлекино сигнатурное оружие арлекино"
   },
   {
     "id": "deathmatch",
@@ -4064,7 +4152,9 @@
     "game_version": "6.6",
     "tags": [
       "Лоэн",
-      "Имунлаукр"
+      "Имунлаукр",
+      "сигна Лоэн",
+      "сигнатурное оружие Лоэн"
     ],
     "languages": [
       "ru",
@@ -4074,7 +4164,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6006000,
-    "search_text": "бедствие и раскаяние disaster and remorse 灾悔 polearm 5 6.6 лоэн имунлаукр"
+    "search_text": "бедствие и раскаяние disaster and remorse 灾悔 polearm 5 6.6 лоэн имунлаукр сигна лоэн сигнатурное оружие лоэн"
   },
   {
     "id": "dragons_bane",
@@ -4145,7 +4235,9 @@
     "game_version": "2.1",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Райдэн Сёгун",
+      "сигнатурное оружие Райдэн Сёгун"
     ],
     "languages": [
       "ru",
@@ -4155,7 +4247,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2001000,
-    "search_text": "сияющая жатва engulfing lightning 薙草之稻光 polearm 5 2.1 оружие древковое"
+    "search_text": "сияющая жатва engulfing lightning 薙草之稻光 polearm 5 2.1 оружие древковое сигна райдэн сёгун сигнатурное оружие райдэн сёгун"
   },
   {
     "id": "favonius_lance",
@@ -4226,7 +4318,9 @@
     "game_version": "5.8",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Инеффа",
+      "сигнатурное оружие Инеффа"
     ],
     "languages": [
       "ru",
@@ -4236,7 +4330,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5008000,
-    "search_text": "расколотый ореол fractured halo 支离轮光 polearm 5 5.8 оружие древковое"
+    "search_text": "расколотый ореол fractured halo 支离轮光 polearm 5 5.8 оружие древковое сигна инеффа сигнатурное оружие инеффа"
   },
   {
     "id": "halberd",
@@ -4361,7 +4455,9 @@
     "game_version": "4.8",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Эмилия",
+      "сигнатурное оружие Эмилия"
     ],
     "languages": [
       "ru",
@@ -4371,7 +4467,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4008000,
-    "search_text": "элегия люмидус lumidouce elegy 柔灯挽歌 polearm 5 4.8 оружие древковое"
+    "search_text": "элегия люмидус lumidouce elegy 柔灯挽歌 polearm 5 4.8 оружие древковое сигна эмилия сигнатурное оружие эмилия"
   },
   {
     "id": "missive_windspear",
@@ -4469,7 +4565,9 @@
     "game_version": "1.0",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Сяо",
+      "сигнатурное оружие Сяо"
     ],
     "languages": [
       "ru",
@@ -4479,7 +4577,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "нефритовый коршун primordial jade winged-spear 和璞鸢 polearm 5 1.0 оружие древковое"
+    "search_text": "нефритовый коршун primordial jade winged-spear 和璞鸢 polearm 5 1.0 оружие древковое сигна сяо сигнатурное оружие сяо"
   },
   {
     "id": "prospectors_drill",
@@ -4685,7 +4783,9 @@
     "game_version": "1.3",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Ху Тао",
+      "сигнатурное оружие Ху Тао"
     ],
     "languages": [
       "ru",
@@ -4695,7 +4795,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1003000,
-    "search_text": "посох хомы staff of homa 护摩之杖 polearm 5 1.3 оружие древковое"
+    "search_text": "посох хомы staff of homa 护摩之杖 polearm 5 1.3 оружие древковое сигна ху тао сигнатурное оружие ху тао"
   },
   {
     "id": "staff_of_the_scarlet_sands",
@@ -4712,7 +4812,9 @@
     "game_version": "3.1",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Сайно",
+      "сигнатурное оружие Сайно"
     ],
     "languages": [
       "ru",
@@ -4722,7 +4824,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3001000,
-    "search_text": "посох алых песков staff of the scarlet sands 赤沙之杖 polearm 5 3.1 оружие древковое"
+    "search_text": "посох алых песков staff of the scarlet sands 赤沙之杖 polearm 5 3.1 оружие древковое сигна сайно сигнатурное оружие сайно"
   },
   {
     "id": "symphonist_of_scents",
@@ -4739,7 +4841,9 @@
     "game_version": "5.6",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Эскофье",
+      "сигнатурное оружие Эскофье"
     ],
     "languages": [
       "ru",
@@ -4749,7 +4853,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5006000,
-    "search_text": "симфонист ароматов symphonist of scents 香韵奏者 polearm 5 5.6 оружие древковое"
+    "search_text": "симфонист ароматов symphonist of scents 香韵奏者 polearm 5 5.6 оружие древковое сигна эскофье сигнатурное оружие эскофье"
   },
   {
     "id": "tamayuratei_no_ohanashi",
@@ -4820,7 +4924,9 @@
     "game_version": "1.1",
     "tags": [
       "оружие",
-      "древковое"
+      "древковое",
+      "сигна Чжун Ли",
+      "сигнатурное оружие Чжун Ли"
     ],
     "languages": [
       "ru",
@@ -4830,7 +4936,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1001000,
-    "search_text": "покоритель вихря vortex vanquisher 贯虹之槊 polearm 5 1.1 оружие древковое"
+    "search_text": "покоритель вихря vortex vanquisher 贯虹之槊 polearm 5 1.1 оружие древковое сигна чжун ли сигнатурное оружие чжун ли"
   },
   {
     "id": "wavebreakers_fin",
@@ -4900,7 +5006,9 @@
     "rarity": 5,
     "game_version": "4.7",
     "tags": [
-      "Клоринда"
+      "Клоринда",
+      "сигна Клоринда",
+      "сигнатурное оружие Клоринда"
     ],
     "languages": [
       "ru",
@@ -4910,7 +5018,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4007000,
-    "search_text": "отпущение грехов absolution 赦罪 sword 5 4.7 клоринда"
+    "search_text": "отпущение грехов absolution 赦罪 sword 5 4.7 клоринда сигна клоринда сигнатурное оружие клоринда"
   },
   {
     "id": "amenoma_kageuchi",
@@ -4977,7 +5085,9 @@
     "rarity": 5,
     "game_version": "6.2",
     "tags": [
-      "Дурин"
+      "Дурин",
+      "сигна Дурин",
+      "сигнатурное оружие Дурин"
     ],
     "languages": [
       "ru",
@@ -4987,7 +5097,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6002000,
-    "search_text": "атаме артис athame artis 黑蚀 sword 5 6.2 дурин"
+    "search_text": "атаме артис athame artis 黑蚀 sword 5 6.2 дурин сигна дурин сигнатурное оружие дурин"
   },
   {
     "id": "azurelight",
@@ -5005,7 +5115,9 @@
     "tags": [
       "Скирк",
       "ангел",
-      "Койтар"
+      "Койтар",
+      "сигна Скирк",
+      "сигнатурное оружие Скирк"
     ],
     "languages": [
       "ru",
@@ -5015,7 +5127,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5007000,
-    "search_text": "лазурное сияние azurelight 苍耀 sword 5 5.7 скирк ангел койтар"
+    "search_text": "лазурное сияние azurelight 苍耀 sword 5 5.7 скирк ангел койтар сигна скирк сигнатурное оружие скирк"
   },
   {
     "id": "blackcliff_longsword",
@@ -5086,7 +5198,9 @@
     "game_version": "2.3",
     "tags": [
       "оружие",
-      "одноручное"
+      "одноручное",
+      "сигна Альбедо",
+      "сигнатурное оружие Альбедо"
     ],
     "languages": [
       "ru",
@@ -5096,7 +5210,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2003000,
-    "search_text": "киноварное веретено cinnabar spindle 辰砂之纺锤 sword 4 2.3 оружие одноручное"
+    "search_text": "киноварное веретено cinnabar spindle 辰砂之纺锤 sword 4 2.3 оружие одноручное сигна альбедо сигнатурное оружие альбедо"
   },
   {
     "id": "cool_steel",
@@ -5355,7 +5469,9 @@
     "rarity": 5,
     "game_version": "1.6",
     "tags": [
-      "Кадзуха"
+      "Кадзуха",
+      "сигна Кадзуха",
+      "сигнатурное оружие Кадзуха"
     ],
     "languages": [
       "ru",
@@ -5365,7 +5481,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1006000,
-    "search_text": "клятва свободы freedom-sworn 苍古自由之誓 sword 5 1.6 кадзуха"
+    "search_text": "клятва свободы freedom-sworn 苍古自由之誓 sword 5 1.6 кадзуха сигна кадзуха сигнатурное оружие кадзуха"
   },
   {
     "id": "haran_geppaku_futsu",
@@ -5381,7 +5497,9 @@
     "rarity": 5,
     "game_version": "2.6",
     "tags": [
-      "Аято"
+      "Аято",
+      "сигна Аято",
+      "сигнатурное оружие Аято"
     ],
     "languages": [
       "ru",
@@ -5391,7 +5509,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2006000,
-    "search_text": "харан гэппаку фуцу haran geppaku futsu 波乱月白经津 sword 5 2.6 аято"
+    "search_text": "харан гэппаку фуцу haran geppaku futsu 波乱月白经津 sword 5 2.6 аято сигна аято сигнатурное оружие аято"
   },
   {
     "id": "harbinger_of_dawn",
@@ -5488,7 +5606,9 @@
     "rarity": 5,
     "game_version": "3.1",
     "tags": [
-      "Нилу"
+      "Нилу",
+      "сигна Нилу",
+      "сигнатурное оружие Нилу"
     ],
     "languages": [
       "ru",
@@ -5498,7 +5618,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3001000,
-    "search_text": "ключ хадж-нисут key of khaj-nisut 圣显之钥 sword 5 3.1 нилу"
+    "search_text": "ключ хадж-нисут key of khaj-nisut 圣显之钥 sword 5 3.1 нилу сигна нилу сигнатурное оружие нилу"
   },
   {
     "id": "light_of_foliar_incision",
@@ -5515,7 +5635,9 @@
     "game_version": "3.4",
     "tags": [
       "Аль-Хайтам",
-      "Хайтам"
+      "Хайтам",
+      "сигна Аль-Хайтам",
+      "сигнатурное оружие Аль-Хайтам"
     ],
     "languages": [
       "ru",
@@ -5525,7 +5647,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3004000,
-    "search_text": "свет лиственного разреза light of foliar incision 裁叶萃光 sword 5 3.4 аль-хайтам хайтам"
+    "search_text": "свет лиственного разреза light of foliar incision 裁叶萃光 sword 5 3.4 аль-хайтам хайтам сигна аль-хайтам сигнатурное оружие аль-хайтам"
   },
   {
     "id": "lightbearing_moonshard",
@@ -5542,7 +5664,9 @@
     "game_version": "6.3",
     "tags": [
       "белая лошадь",
-      "Цзы Бай"
+      "Цзы Бай",
+      "сигна Цзы Бай",
+      "сигнатурное оружие Цзы Бай"
     ],
     "languages": [
       "ru",
@@ -5552,7 +5676,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6003000,
-    "search_text": "светоносный осколок луны lightbearing moonshard 朏魄含光 sword 5 6.3 белая лошадь цзы бай"
+    "search_text": "светоносный осколок луны lightbearing moonshard 朏魄含光 sword 5 6.3 белая лошадь цзы бай сигна цзы бай сигнатурное оружие цзы бай"
   },
   {
     "id": "lions_roar",
@@ -5595,7 +5719,9 @@
     "rarity": 5,
     "game_version": "2.0",
     "tags": [
-      "Аяка"
+      "Аяка",
+      "сигна Аяка",
+      "сигнатурное оружие Аяка"
     ],
     "languages": [
       "ru",
@@ -5605,7 +5731,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2000000,
-    "search_text": "рассекающий туман mistsplitter reforged 雾切之回光 sword 5 2.0 аяка"
+    "search_text": "рассекающий туман mistsplitter reforged 雾切之回光 sword 5 2.0 аяка сигна аяка сигнатурное оружие аяка"
   },
   {
     "id": "moonweavers_dawn",
@@ -5648,7 +5774,9 @@
     "rarity": 5,
     "game_version": "5.1",
     "tags": [
-      "Шилонен"
+      "Шилонен",
+      "сигна Шилонен",
+      "сигнатурное оружие Шилонен"
     ],
     "languages": [
       "ru",
@@ -5658,7 +5786,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5001000,
-    "search_text": "песнь патруля пиков peak patrol song 岩峰巡歌 sword 5 5.1 шилонен"
+    "search_text": "песнь патруля пиков peak patrol song 岩峰巡歌 sword 5 5.1 шилонен сигна шилонен сигнатурное оружие шилонен"
   },
   {
     "id": "primordial_jade_cutter",
@@ -5911,7 +6039,9 @@
     "rarity": 5,
     "game_version": "4.2",
     "tags": [
-      "Фурина"
+      "Фурина",
+      "сигна Фурина",
+      "сигнатурное оружие Фурина"
     ],
     "languages": [
       "ru",
@@ -5921,7 +6051,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4002000,
-    "search_text": "блеск тихих вод splendor of tranquil waters 静水流涌之辉 sword 5 4.2 фурина"
+    "search_text": "блеск тихих вод splendor of tranquil waters 静水流涌之辉 sword 5 4.2 фурина сигна фурина сигнатурное оружие фурина"
   },
   {
     "id": "sturdy_bone",
@@ -5989,7 +6119,9 @@
     "game_version": "1.0",
     "tags": [
       "оружие",
-      "одноручное"
+      "одноручное",
+      "сигна Путешественник",
+      "сигнатурное оружие Путешественник"
     ],
     "languages": [
       "ru",
@@ -5999,7 +6131,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "меч нисхождения sword of descension 降临之剑 sword 4 1.0 оружие одноручное"
+    "search_text": "меч нисхождения sword of descension 降临之剑 sword 4 1.0 оружие одноручное сигна путешественник сигнатурное оружие путешественник"
   },
   {
     "id": "sword_of_narzissenkreuz",
@@ -6204,7 +6336,9 @@
     "rarity": 5,
     "game_version": "4.5",
     "tags": [
-      "Тиори"
+      "Тиори",
+      "сигна Тиори",
+      "сигнатурное оружие Тиори"
     ],
     "languages": [
       "ru",
@@ -6214,7 +6348,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4005000,
-    "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword 5 4.5 тиори"
+    "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword 5 4.5 тиори сигна тиори сигнатурное оружие тиори"
   },
   {
     "id": "wolf_fang",
