@@ -31,6 +31,35 @@ ARTIFACT_SLOT_NAMES = {
     "корона разума", "circlet of logos", "理之冠",
 }
 
+
+GENERIC_WEAPON_TAGS = {
+    # generic category/type tags; they should not create “сигна X” aliases
+    "оружие", "weapon", "weapons", "武器",
+    "меч", "одноручное", "одноручный", "одноручный меч", "sword", "single handed sword", "one handed sword", "单手剑",
+    "двуручное", "двуручный", "двуручный меч", "клеймор", "claymore", "two handed sword", "双手剑",
+    "древковое", "древковый", "древковое оружие", "копье", "копьё", "polearm", "长柄武器",
+    "лук", "bow", "弓",
+    "катализатор", "catalyst", "法器",
+    "5", "4", "3", "2", "1",
+    # broad regions/factions that are not signature owners
+    "мондштадт", "монд", "mondstadt",
+    "ли юэ", "лиюэ", "liyue", "li yue",
+    "инадзума", "inazuma",
+    "сумеру", "sumeru",
+    "фонтейн", "fontaine",
+    "натлан", "natlan",
+    "снежная", "snezhnaya",
+    "каэнриах", "кхаенриах", "khaenri'ah", "khaenriah",
+    "фатуй", "фатуи", "fatui",
+}
+
+SIGNATURE_TAG_PREFIXES = (
+    "сигна:", "сигна=", "сигна ",
+    "сигнатурка:", "сигнатурка=", "сигнатурка ",
+    "signature:", "signature=", "signature ",
+    "bis:", "bis=", "bis ",
+)
+
 TITLE_LABEL_RE = re.compile(
     r"^\s*\*\*\s*(?:Название|Name|名称)\s*[:：]\s*\*\*\s*(.+?)\s*$",
     re.IGNORECASE | re.MULTILINE,
@@ -161,6 +190,81 @@ def extract_artifact_part_names(item: dict[str, Any]) -> list[str]:
     return names
 
 
+def tag_values(value: Any) -> list[str]:
+    """Extract flat tag strings from current/future tag shapes."""
+    values: list[str] = []
+    if isinstance(value, dict):
+        for nested in value.values():
+            values.extend(tag_values(nested))
+    elif isinstance(value, list):
+        for item in value:
+            values.extend(tag_values(item))
+    elif isinstance(value, str):
+        values.append(value)
+    return unique_nonempty(values)
+
+
+def explicit_signature_owners(tags: list[str]) -> list[str]:
+    owners: list[str] = []
+    for tag in tags:
+        normalized = normalize(tag)
+        raw = str(tag or "").strip()
+        for prefix in SIGNATURE_TAG_PREFIXES:
+            if normalized.startswith(normalize(prefix)):
+                owner = raw[len(prefix):].strip(" :：=-—–")
+                if owner:
+                    owners.append(owner)
+                break
+    return unique_nonempty(owners)
+
+
+def implicit_weapon_signature_owners(tags: list[str]) -> list[str]:
+    """Treat non-generic weapon tags as signature owners.
+
+    This makes a weapon tag like “Николь” generate safe aliases like
+    “сигна Николь”, but it never turns the bare tag “Николь” into a passive
+    trigger for the weapon.
+    """
+    owners: list[str] = []
+    for tag in tags:
+        normalized = normalize(tag)
+        if not normalized:
+            continue
+        if normalized in GENERIC_WEAPON_TAGS:
+            continue
+        if any(normalized.startswith(normalize(prefix)) for prefix in SIGNATURE_TAG_PREFIXES):
+            continue
+        # Skip tags that are too broad or too short to be useful as owner names.
+        if len(normalized) < 3:
+            continue
+        owners.append(str(tag).strip())
+    return unique_nonempty(owners)
+
+
+def signature_aliases_for_owner(owner: str) -> list[str]:
+    owner = str(owner or "").strip()
+    if not owner:
+        return []
+    return unique_nonempty([
+        f"сигна {owner}",
+        f"сигну {owner}",
+        f"сигнатурка {owner}",
+        f"сигнатурку {owner}",
+        f"сигнатурное оружие {owner}",
+        f"signature {owner}",
+        f"bis {owner}",
+    ])
+
+
+def weapon_signature_aliases(item: dict[str, Any]) -> list[str]:
+    tags = tag_values(item.get("tags"))
+    owners = unique_nonempty(explicit_signature_owners(tags) + implicit_weapon_signature_owners(tags))
+    aliases: list[str] = []
+    for owner in owners:
+        aliases.extend(signature_aliases_for_owner(owner))
+    return unique_nonempty(aliases)
+
+
 def item_material_names(item: dict[str, Any]) -> list[str]:
     names: list[str] = []
     for material in item.get("materials") or []:
@@ -180,9 +284,11 @@ def entry_names(section: str, item: dict[str, Any]) -> list[str]:
         names.extend(extract_artifact_part_names(item))
     elif section == "items":
         names.extend(item_material_names(item))
+    elif section == "weapons":
+        # Safe tag-derived aliases, e.g. weapon tag “Николь” → “сигна Николь”.
+        # Bare tags are not added as names to avoid noisy passive triggers.
+        names.extend(weapon_signature_aliases(item))
 
-    # Tags are intentionally not included: they are useful for site filtering,
-    # but too broad for a passive Telegram mention bot.
     return unique_nonempty(names)
 
 
@@ -211,6 +317,10 @@ def build_entry(section: str, index_item: dict[str, Any]) -> dict[str, Any] | No
     if not names:
         names = [title]
 
+    tags = tag_values(item.get("tags"))
+    signature_aliases = weapon_signature_aliases(item) if section == "weapons" else []
+    aliases = unique_nonempty(title_values(item.get("aliases")) + signature_aliases)
+
     return {
         "key": f"{section}:{item_id}",
         "section": section,
@@ -222,7 +332,10 @@ def build_entry(section: str, index_item: dict[str, Any]) -> dict[str, Any] | No
         "route": route,
         "button_text": f"{meta['emoji']} {title}",
         "names": names,
-        "aliases": title_values(item.get("aliases")),
+        "aliases": aliases,
+        "tags": tags,
+        "signature_aliases": signature_aliases,
+        "passive_aliases": signature_aliases,
     }
 
 
