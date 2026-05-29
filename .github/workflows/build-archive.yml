@@ -12,6 +12,7 @@ on:
       - 'content/enemies/**'
       - 'src/css/**'
       - 'tools/build_archive.py'
+      - 'tools/build_bot_mentions_index.py'
       - 'tools/build_css.py'
       - 'tools/check_archive.py'
       - 'tools/bump_cache_version.py'
@@ -39,6 +40,9 @@ jobs:
 
       - name: Build JSON data from Markdown
         run: python tools/build_archive.py
+
+      - name: Build bot mentions index
+        run: python tools/build_bot_mentions_index.py
 
       - name: Build CSS bundle
         run: python tools/build_css.py
