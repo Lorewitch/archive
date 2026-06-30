@@ -222,3 +222,135 @@ html.is-mobile-landscape .app,
 html.is-mobile-landscape .content {
   max-width: none;
 }
+
+@media (max-width: 1180px) {
+  .catalog-row.item {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0;
+    width: 100%;
+    padding: 16px;
+    border: 1px solid rgba(91, 74, 62, 0.20);
+    background: rgba(246, 242, 235, 0.88);
+    box-shadow: 0 12px 28px rgba(91, 74, 62, 0.07);
+  }
+
+  .catalog-row.item > div:not(:first-child) {
+    display: none;
+  }
+
+  .catalog-row.cols-items-common-enemy.item,
+  .catalog-row.cols-items-development.item,
+  .catalog-row.cols-items-typed.item {
+    gap: 12px;
+  }
+
+  .catalog-row.cols-items-common-enemy.item > div,
+  .catalog-row.cols-items-development.item > div,
+  .catalog-row.cols-items-typed.item > div {
+    display: block;
+  }
+
+  .catalog-row.cols-items-common-enemy.item > div:nth-child(2) {
+    display: none;
+  }
+
+  .catalog-row.cols-items-common-enemy.item > div:nth-child(3),
+  .catalog-row.cols-items-development.item > div:not(:first-child),
+  .catalog-row.cols-items-typed.item > div:not(:first-child) {
+    margin-top: 0;
+    padding-top: 10px;
+    border-top: 1px solid rgba(91, 74, 62, 0.12);
+  }
+
+  .catalog-row.cols-items-development.item > div::before,
+  .catalog-row.cols-items-typed.item > div::before {
+    display: block;
+    margin-bottom: 7px;
+    color: var(--soft);
+    font-size: 11px;
+    font-weight: 900;
+    letter-spacing: 0.075em;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+
+  .catalog-row.cols-items-development.item > div:nth-child(2)::before {
+    content: "Тип материала";
+  }
+
+  .catalog-row.cols-items-development.item > div:nth-child(3)::before {
+    content: "Регион";
+  }
+
+  .catalog-row.cols-items-typed.item > div:nth-child(2)::before {
+    content: "Тип";
+  }
+
+  .catalog-row.cols-items-typed.item > div:nth-child(3)::before {
+    content: "Регион";
+  }
+
+  .catalog-row.cols-items-common-enemy .catalog-material-plain-list {
+    gap: 8px;
+  }
+
+  .catalog-row.cols-items-common-enemy .catalog-material-plain-item {
+    grid-template-columns: 34px minmax(0, 1fr);
+    gap: 9px;
+  }
+
+  .catalog-row.cols-items-common-enemy .catalog-material-plain-item img {
+    width: 34px;
+    height: 34px;
+  }
+
+  .catalog-row.cols-items-common-enemy .catalog-material-plain-ru,
+  .catalog-row.cols-items-development .catalog-material-plain-ru {
+    font-size: 14px;
+  }
+
+  .catalog-row.cols-items-common-enemy .catalog-material-plain-sub,
+  .catalog-row.cols-items-development .catalog-material-plain-sub {
+    font-size: 12px;
+  }
+
+  .catalog-row.cols-items-common-enemy .dropped-by-catalog-chip,
+  .catalog-row.cols-items-typed .common-enemy-type-chip,
+  .catalog-row.cols-stories-character .common-enemy-type-chip,
+  .catalog-row.cols-stories-character .element-pill,
+  .catalog-row.cols-items-development .common-enemy-type-chip,
+  .catalog-row.cols-books .common-enemy-type-chip,
+  .catalog-row.cols-weapons .common-enemy-type-chip {
+    font-size: 12px;
+  }
+
+  .entry-material-preview {
+    display: flex;
+  }
+
+  .catalog-row.cols-items-enemy .material-chip,
+  .material-chip {
+    min-width: 0;
+    padding: 5px 7px;
+    font-size: 12px;
+    white-space: normal;
+  }
+
+  .material-chip img {
+    width: 22px;
+    height: 22px;
+    flex-basis: 22px;
+  }
+}
+
+@media (max-width: 720px) {
+  .material-float-icon,
+  .common-enemy-material-card .material-float-icon,
+  .item-description-float-icon,
+  .enemy-description-icon {
+    float: none;
+    display: block;
+    margin: 0 auto 14px;
+  }
+}

@@ -1,19 +1,16 @@
-.dropped-by-grid {
-  display: grid;
-  align-items: start;
+.dropped-by-section {
+  margin-top: 24px;
+  padding-top: 22px;
+  border-top: 1px solid rgba(91, 74, 62, 0.16);
 }
 
-.dropped-by-grid,
-.dropped-by-grid-two,
-.dropped-by-grid-three,
-.dropped-by-grid-many,
-.dropped-by-columns,
-.catalog-material-list,
-.enemy-card-grid {
+.dropped-by-title {
+  margin-bottom: 12px;
+}
+
+.dropped-by-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 10px;
-  margin-top: 12px;
+  gap: 12px;
   align-items: start;
 }
 
@@ -32,7 +29,8 @@
 
 .dropped-by-column {
   display: grid;
-  gap: 10px;
+  min-width: 0;
+  gap: 12px;
   align-content: start;
 }
 
@@ -40,25 +38,108 @@
 .catalog-material-card,
 .catalog-material-plain,
 .enemy-card {
-  padding: 12px;
-  background: rgba(246, 242, 235, 0.62);
-  border: 1px solid rgba(91, 74, 62, 0.12);
-}
-
-.enemy-loot-chip {
-  text-decoration: none;
-}
-
-a.enemy-loot-chip:hover {
-  background: rgba(91, 74, 62, 0.16);
-  color: #211b17;
-}
-
-.enemy-description-panel.is-collapsed .enemy-description-body {
-  max-height: 8.5em;
+  width: 100%;
+  min-width: 0;
+  border: 1px solid rgba(91, 74, 62, 0.14);
+  background: rgba(203, 191, 175, 0.20);
   overflow: hidden;
 }
 
-.weapon-description-icon {
-  background: var(--icon-bg, rgba(216, 206, 192, 0.72));
+.dropped-by-card-inner {
+  padding: 14px 16px;
+}
+
+.dropped-by-header {
+  display: grid;
+  grid-template-columns: 46px minmax(0, 1fr);
+  gap: 10px;
+  align-items: start;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(91, 74, 62, 0.12);
+  user-select: text;
+}
+
+.dropped-by-icon {
+  display: block;
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+  background: rgba(246, 242, 235, 0.58);
+}
+
+.dropped-by-names {
+  min-width: 0;
+  user-select: text;
+}
+
+.dropped-by-name,
+.dropped-by-meta,
+.dropped-by-zh {
+  display: block;
+  min-width: 0;
+  line-height: 1.24;
+  overflow-wrap: anywhere;
+}
+
+.dropped-by-name {
+  color: #211b17;
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.dropped-by-meta,
+.dropped-by-zh {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 520;
+}
+
+.dropped-by-card .prose {
+  font-size: 15px;
+  line-height: 1.75;
+}
+
+.enemy-loot-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 10px;
+}
+
+.enemy-loot-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 100%;
+  padding: 5px 8px;
+  border: 1px solid rgba(91, 74, 62, 0.12);
+  background: rgba(246, 242, 235, 0.62);
+  color: #342b25;
+  font-size: 12px;
+  font-weight: 760;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: background 0.16s ease, border-color 0.16s ease, color 0.16s ease;
+}
+
+a.enemy-loot-chip:hover,
+a.enemy-loot-chip:focus-visible {
+  background: rgba(203, 191, 175, 0.48);
+  border-color: rgba(91, 74, 62, 0.24);
+  color: var(--ink);
+  outline: none;
+}
+
+.enemy-loot-chip.current {
+  background: rgba(91, 74, 62, 0.12);
+  border-color: rgba(91, 74, 62, 0.24);
+}
+
+.enemy-loot-chip img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  flex: 0 0 22px;
 }
