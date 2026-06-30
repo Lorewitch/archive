@@ -1,79 +1,138 @@
-/* Page layout and shared surfaces
-   Source module for assets/css/archive.css. */
-
-.app {
+.archive-layout {
+  position: fixed;
+  inset: 0;
   display: grid;
-  grid-template-columns: var(--sidebar) minmax(0, 1fr);
-  gap: 24px;
-  width: min(1500px, calc(100% - 52px));
-  min-height: 100vh;
-  margin: 0 auto;
-  padding: 28px 0;
+  grid-template-columns: var(--sidebar-width) var(--menu-rail-width) minmax(0, 1fr);
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
 }
 
-.sidebar,
+.stage {
+  grid-column: 3;
+  min-width: 0;
+  height: 100vh;
+  height: 100dvh;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) var(--content-rail-width);
+  gap: 12px;
+  padding: var(--stage-pad-y) var(--stage-pad-right) var(--stage-pad-y) var(--layout-gap);
+  overflow: hidden;
+}
+
+.content-card {
+  min-width: 0;
+  height: calc(100dvh - (var(--stage-pad-y) * 2));
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.58);
+  border-radius: var(--content-radius);
+  box-shadow: var(--shadow-card);
+  overflow: hidden;
+}
+
+.content-scroll {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 44px 44px 56px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.content-scroll::-webkit-scrollbar,
+.sidebar-scroll::-webkit-scrollbar,
+.volume-scroll::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
+}
+
+.content-rail {
+  width: var(--content-rail-width);
+  height: calc(100dvh - (var(--stage-pad-y) * 2));
+}
+
+.custom-rail {
+  position: relative;
+  background: transparent;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 120ms ease;
+}
+
+.custom-rail.has-scroll {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.custom-rail::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 3px;
+  width: 2px;
+  background: var(--rail-track);
+}
+
+.custom-thumb {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 4px;
+  min-height: 28px;
+  background: var(--rail-thumb);
+  transform: translateY(0);
+  will-change: transform, height;
+}
+
+.custom-thumb:hover,
+.custom-thumb.is-dragging {
+  background: var(--rail-thumb-hover);
+}
+
+.content,
 .page-card,
-.text-card {
-  border: 1px solid rgba(91, 74, 62, 0.2);
-  border-radius: var(--radius-page);
-  background: rgba(246, 242, 235, 0.9);
-  box-shadow: var(--shadow-soft);
-  backdrop-filter: blur(14px);
+.catalog-page {
+  min-width: 0;
 }
 
 .content {
   display: grid;
   gap: 20px;
-  min-width: 0;
 }
 
 .page-card {
-  min-width: 0;
-  padding: 30px 34px;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  padding: 0;
 }
 
-.page-head {
-  margin-bottom: 26px;
+.mobile-top,
+.drawer-backdrop {
+  display: none;
 }
 
-h1,
-h2,
-h3 {
-  margin: 0;
-  color: #211b17;
-  line-height: 1.05;
-  letter-spacing: -0.045em;
+.to-top-button {
+  position: fixed;
+  right: 34px;
+  bottom: 28px;
+  z-index: 20;
+  width: 42px;
+  height: 42px;
+  background: var(--accent);
+  color: #f6f2eb;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(8px);
+  transition: opacity 140ms ease, transform 140ms ease;
 }
 
-h1 {
-  font-size: clamp(38px, 4.5vw, 64px);
-  font-weight: 950;
-}
-
-h2 {
-  font-size: clamp(30px, 3vw, 46px);
-  font-weight: 930;
-}
-
-h3 {
-  font-size: clamp(23px, 2vw, 32px);
-  font-weight: 900;
-}
-
-.lead {
-  max-width: 860px;
-  margin-top: 12px;
-  color: var(--muted);
-  font-size: 18px;
-}
-
-h1,
-h2,
-h3,
-.catalog-material-plain-ru,
-.catalog-material-plain-sub,
-.dropped-by-name,
-.dropped-by-meta,
-.dropped-by-zh {
-  overflow-wrap: anywhere;
+.to-top-button.visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
 }

@@ -1,40 +1,46 @@
-/* Design tokens
-   Source module for assets/css/archive.css. */
-
 :root {
   --bg: #e8ded4;
   --page-bg-paint:
-    radial-gradient(
-      circle at 8% 0%,
-      rgba(203, 191, 175, 0.5),
-      transparent 31rem
-    ),
-    radial-gradient(
-      circle at 94% 4%,
-      rgba(91, 74, 62, 0.08),
-      transparent 27rem
-    ),
+    radial-gradient(circle at 8% 0%, rgba(203, 191, 175, 0.50), transparent 31rem),
+    radial-gradient(circle at 94% 4%, rgba(91, 74, 62, 0.08), transparent 27rem),
     linear-gradient(135deg, #f6f2eb 0%, #e8ded4 52%, #cbbfaf 100%);
-  --surface: #f6f2eb;
+  --surface: rgba(246, 242, 235, 0.92);
+  --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
   --surface-muted: #e1d6c8;
   --ink: #2a2521;
   --muted: #6f665f;
   --soft: #8a8077;
-  --line: #cbbfaf;
-  --line-strong: #afa394;
+  --line: rgba(91, 74, 62, 0.20);
+  --line-strong: rgba(91, 74, 62, 0.34);
   --accent: #5b4a3e;
   --accent-hover: #6f5d50;
   --accent-soft: #d8cec0;
-  --shadow: 0 16px 38px rgba(91, 74, 62, 0.11);
   --shadow-soft: 0 8px 22px rgba(91, 74, 62, 0.075);
+  --shadow-card: 0 16px 38px rgba(91, 74, 62, 0.11);
+  --sidebar-width: 310px;
   --sidebar: 310px;
+  --menu-rail-width: 8px;
+  --content-rail-width: 8px;
+  --layout-gap: 26px;
+  --stage-pad-y: 28px;
+  --stage-pad-right: 22px;
+  --content-radius: 18px;
   --radius-page: 18px;
-  --radius-card: 14px;
-  --radius-control: 9px;
+  --radius-card: 0;
+  --radius-control: 0;
+  --rail-thumb: #5b4a3e;
+  --rail-thumb-hover: #3e332b;
+  --rail-track: rgba(91, 74, 62, 0.10);
   --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
   --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
   --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
   --rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
   --rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
 }
+
+.rarity-bg-5 { --icon-bg: var(--rarity-5-bg); }
+.rarity-bg-4 { --icon-bg: var(--rarity-4-bg); }
+.rarity-bg-3 { --icon-bg: var(--rarity-3-bg); }
+.rarity-bg-2 { --icon-bg: var(--rarity-2-bg); }
+.rarity-bg-1 { --icon-bg: var(--rarity-1-bg); }

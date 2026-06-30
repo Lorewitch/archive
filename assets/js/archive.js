@@ -1524,7 +1524,9 @@ function isCatalogRoute() {
 }
 
 function resetHorizontalScroll() {
+  const currentY = window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0;
   if (!window.scrollX && !document.documentElement.scrollLeft && !document.body.scrollLeft) return;
+  window.scrollTo(0, currentY);
   document.documentElement.scrollLeft = 0;
   document.body.scrollLeft = 0;
 }
@@ -1546,6 +1548,7 @@ function scheduleRouteScroll(routeChanged) {
   const target = targetScrollPositionForRoute();
   requestAnimationFrame(() => {
     scrollPrimaryTo(target.y);
+    window.scrollTo(0, target.y);
     document.documentElement.scrollLeft = 0;
     document.body.scrollLeft = 0;
     updateToTopButton();
