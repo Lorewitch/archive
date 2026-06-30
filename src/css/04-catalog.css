@@ -711,3 +711,109 @@
   background: rgba(232, 222, 212, 0.56);
   border: 1px solid rgba(91, 74, 62, 0.14);
 }
+
+/* Icon filter buttons without visible checkboxes */
+.type-filter-chip input {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.type-filter-row:has(.type-filter-chip-iconic) .type-filter-row-label {
+  display: none;
+}
+
+.type-filter-chip-iconic {
+  width: 40px;
+  min-width: 40px;
+  height: 40px;
+  min-height: 40px;
+  padding: 0;
+  background: rgba(35, 31, 28, 0.92);
+  border: 1px solid rgba(255, 244, 228, 0.08);
+  color: var(--filter-color, #e8d8c3);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.16);
+}
+
+.type-filter-chip-iconic:hover {
+  background: rgba(45, 39, 34, 0.96);
+  color: var(--filter-color, #fff1d6);
+}
+
+.type-filter-chip-iconic:has(input:not(:checked)) {
+  opacity: 0.52;
+  filter: grayscale(0.45);
+}
+
+.type-filter-chip-iconic:has(input:checked) {
+  opacity: 1;
+  background: rgba(41, 36, 31, 0.98);
+  border-color: color-mix(in srgb, var(--filter-color, #d9bea0) 44%, transparent);
+  box-shadow:
+    inset 0 -3px 0 color-mix(in srgb, var(--filter-color, #d9bea0) 72%, transparent),
+    0 8px 18px rgba(0, 0, 0, 0.20);
+}
+
+.type-filter-chip-iconic .type-filter-label {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+.type-filter-icon {
+  display: block;
+  width: 24px;
+  height: 24px;
+  flex: 0 0 24px;
+  background: currentColor;
+  -webkit-mask: var(--filter-icon-url) center / contain no-repeat;
+  mask: var(--filter-icon-url) center / contain no-repeat;
+}
+
+.filter-tone-rarity-5 { --filter-color: #f4b35e; }
+.filter-tone-rarity-4 { --filter-color: #b897ff; }
+.filter-tone-rarity-3 { --filter-color: #92c9ff; }
+.filter-tone-rarity-2 { --filter-color: #91c97a; }
+.filter-tone-rarity-1 { --filter-color: #d0d0d0; }
+
+.filter-tone-element-pyro { --filter-color: #ff7a5a; }
+.filter-tone-element-hydro { --filter-color: #69c7ff; }
+.filter-tone-element-anemo { --filter-color: #7ee0c5; }
+.filter-tone-element-electro { --filter-color: #c18cff; }
+.filter-tone-element-dendro { --filter-color: #89d86d; }
+.filter-tone-element-cryo { --filter-color: #aeefff; }
+.filter-tone-element-geo { --filter-color: #e7c15f; }
+
+.filter-tone-weapon-sword,
+.filter-tone-weapon-claymore,
+.filter-tone-weapon-bow,
+.filter-tone-weapon-catalyst,
+.filter-tone-weapon-polearm {
+  --filter-color: #e4d7c4;
+}
+
+.filter-tone-special-witchcraft { --filter-color: #d9a5ff; }
+.filter-tone-special-lunar { --filter-color: #9fd8ff; }
+.filter-tone-special-star-blade { --filter-color: #ffd36c; }
+
+.rarity-filter-icon {
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  color: var(--filter-color, #e8d8c3);
+  background: rgba(35, 31, 28, 0.92);
+  border: 1px solid rgba(255, 244, 228, 0.08);
+  vertical-align: middle;
+}
+
+.rarity-filter-icon .type-filter-icon {
+  width: 21px;
+  height: 21px;
+}

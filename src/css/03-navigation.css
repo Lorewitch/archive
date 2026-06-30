@@ -185,3 +185,65 @@
   height: 100vh;
   height: 100dvh;
 }
+
+/* Dark-brown navigation skin and mask icons */
+.sidebar {
+  background:
+    radial-gradient(circle at 18% 0%, rgba(119, 91, 65, 0.26), transparent 17rem),
+    linear-gradient(180deg, #241b15 0%, #17110d 100%);
+  border-right-color: rgba(226, 206, 180, 0.12);
+  box-shadow: 12px 0 38px rgba(0, 0, 0, 0.24);
+}
+
+.brand-title {
+  color: #f3e8d8;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.34);
+}
+
+.brand-subtitle {
+  color: rgba(233, 219, 199, 0.72);
+}
+
+.nav {
+  border-top-color: rgba(233, 219, 199, 0.14);
+}
+
+.nav-button,
+.nav-child,
+.nav-item {
+  color: rgba(236, 225, 210, 0.86);
+}
+
+.nav-button:hover,
+.nav-child:hover,
+.nav-item:hover {
+  background: rgba(233, 219, 199, 0.08);
+  color: #fff4e4;
+}
+
+.nav-button.is-active,
+.nav-child.is-active,
+.nav-item.active {
+  background: rgba(233, 219, 199, 0.15);
+  color: #fff7eb;
+  box-shadow: inset 3px 0 0 #b78d62;
+}
+
+.nav-button:focus-visible,
+.nav-child:focus-visible,
+.nav-item:focus-visible {
+  background: rgba(233, 219, 199, 0.10);
+  box-shadow: inset 3px 0 0 rgba(183, 141, 98, 0.86);
+}
+
+.nav-chevron,
+.nav-meta {
+  color: rgba(233, 219, 199, 0.56);
+}
+
+.nav-icon {
+  background: currentColor;
+  opacity: 0.95;
+  -webkit-mask: var(--nav-icon-url) center / contain no-repeat;
+  mask: var(--nav-icon-url) center / contain no-repeat;
+}

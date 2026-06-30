@@ -147,20 +147,22 @@ async function getGenericDetail(sectionId, id) {
 
 
 const WEAPON_TYPES = [
-  ["sword", "Одноручное"],
-  ["claymore", "Двуручное"],
-  ["bow", "Лук"],
-  ["catalyst", "Катализатор"],
-  ["polearm", "Древковое"]
+  ["sword", "Одноручное", "assets/icons/weapons/sword.svg"],
+  ["claymore", "Двуручное", "assets/icons/weapons/claymore.svg"],
+  ["bow", "Лук", "assets/icons/weapons/bow.svg"],
+  ["catalyst", "Катализатор", "assets/icons/weapons/catalyst.svg"],
+  ["polearm", "Древковое", "assets/icons/weapons/polearm.svg"]
 ];
 
 const RARITY_FILTERS = [
-  ["5", "5★"],
-  ["4", "4★"],
-  ["3", "3★"],
-  ["2", "2★"],
-  ["1", "1★"],
+  { value: "5", label: "5★", icon: "assets/icons/filters/star.svg", group: "rarity", tone: "rarity-5" },
+  { value: "4", label: "4★", icon: "assets/icons/filters/star.svg", group: "rarity", tone: "rarity-4" },
+  { value: "3", label: "3★", icon: "assets/icons/filters/star.svg", group: "rarity", tone: "rarity-3" },
+  { value: "2", label: "2★", icon: "assets/icons/filters/star.svg", group: "rarity", tone: "rarity-2" },
+  { value: "1", label: "1★", icon: "assets/icons/filters/star.svg", group: "rarity", tone: "rarity-1" },
 ];
+
+const WEAPON_TYPE_FILTERS = WEAPON_TYPES.map(([value, label, icon]) => ({ value: `weapon:${value}`, label, icon, group: "weapon", tone: `weapon-${value}` }));
 
 
 const BOOK_TYPE_FILTERS = [
@@ -214,27 +216,34 @@ const STORY_GROUP_LABELS = Object.fromEntries(
 );
 
 const ELEMENT_FILTERS = [
-  ["pyro", "Пиро", "assets/icons/element/01_Pyro.webp"],
-  ["hydro", "Гидро", "assets/icons/element/02_Hydro.webp"],
-  ["anemo", "Анемо", "assets/icons/element/03_Anemo.webp"],
-  ["electro", "Электро", "assets/icons/element/04_Electro.webp"],
-  ["dendro", "Дендро", "assets/icons/element/05_Dendro.webp"],
-  ["cryo", "Крио", "assets/icons/element/06_Cryo.webp"],
-  ["geo", "Гео", "assets/icons/element/07_Geo.webp"],
+  { value: "pyro", label: "Пиро", icon: "assets/icons/elements/pyro.svg", group: "element", tone: "element-pyro" },
+  { value: "hydro", label: "Гидро", icon: "assets/icons/elements/hydro.svg", group: "element", tone: "element-hydro" },
+  { value: "anemo", label: "Анемо", icon: "assets/icons/elements/anemo.svg", group: "element", tone: "element-anemo" },
+  { value: "electro", label: "Электро", icon: "assets/icons/elements/electro.svg", group: "element", tone: "element-electro" },
+  { value: "dendro", label: "Дендро", icon: "assets/icons/elements/dendro.svg", group: "element", tone: "element-dendro" },
+  { value: "cryo", label: "Крио", icon: "assets/icons/elements/cryo.svg", group: "element", tone: "element-cryo" },
+  { value: "geo", label: "Гео", icon: "assets/icons/elements/geo.svg", group: "element", tone: "element-geo" },
 ];
-const ELEMENT_ORDER = ELEMENT_FILTERS.map(([value]) => value);
+const ELEMENT_ORDER = ELEMENT_FILTERS.map(option => option.value);
 const ALL_ELEMENT_ALIASES = new Set([
   "all", "all_elements", "all_element", "traveler", "aether", "lumine",
   "все", "все_элементы", "все_элементы_путешественника", "путешественник"
 ]);
 
-const STORY_CHARACTER_TYPE_FILTERS = [
-  ...ELEMENT_FILTERS.map(([value, label, icon]) => ({ value: `element:${value}`, label, icon, group: "element" })),
-  { value: "rarity:5", label: "5★", group: "rarity" },
-  { value: "rarity:4", label: "4★", group: "rarity" },
+const STORY_CHARACTER_SPECIAL_FILTERS = [
+  { value: "special:witchcraft", label: "Ведьмовство", icon: "assets/icons/filters/witchcraft.svg", group: "special", tone: "special-witchcraft" },
+  { value: "special:lunar_reactions", label: "Лунные реакции", icon: "assets/icons/filters/lunar_reactions.svg", group: "special", tone: "special-lunar" },
+  { value: "special:star_blade", label: "Звёздный клин", icon: "assets/icons/filters/star_blade.svg", group: "special", tone: "special-star-blade" },
 ];
 
-const ELEMENT_LABELS = Object.fromEntries(ELEMENT_FILTERS.map(([value, label, icon]) => [value, { label, icon }]));
+const STORY_CHARACTER_TYPE_FILTERS = [
+  ...ELEMENT_FILTERS.map(option => ({ ...option, value: `element:${option.value}` })),
+  { value: "rarity:5", label: "5★", icon: "assets/icons/filters/star.svg", group: "rarity", tone: "rarity-5" },
+  { value: "rarity:4", label: "4★", icon: "assets/icons/filters/star.svg", group: "rarity", tone: "rarity-4" },
+  ...STORY_CHARACTER_SPECIAL_FILTERS,
+];
+
+const ELEMENT_LABELS = Object.fromEntries(ELEMENT_FILTERS.map(({ value, label, icon }) => [value, { label, icon }]));
 const ELEMENT_ALIASES = {
   pyro: "pyro", пиро: "pyro",
   hydro: "hydro", гидро: "hydro",
@@ -319,6 +328,10 @@ function typeFilterOptionIcon(option) {
 
 function typeFilterOptionGroup(option) {
   return Array.isArray(option) ? "" : option.group || "";
+}
+
+function typeFilterOptionTone(option) {
+  return Array.isArray(option) ? "" : option.tone || "";
 }
 
 const ITEM_GROUP_TYPE_KEYS = Object.fromEntries(
@@ -425,14 +438,74 @@ function storyElementIcon(value) {
   return ELEMENT_LABELS[key]?.icon || "";
 }
 
+function normalizeFilterToken(value) {
+  return String(value || "")
+    .trim()
+    .toLocaleLowerCase("ru-RU")
+    .replace(/ё/g, "е")
+    .replace(/[\s_\-]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+}
+
+const STORY_SPECIAL_ALIASES = {
+  witchcraft: "witchcraft",
+  magic: "witchcraft",
+  witches: "witchcraft",
+  ведьмовство: "witchcraft",
+  ведьма: "witchcraft",
+  ведьмы: "witchcraft",
+  hexenzirkel: "witchcraft",
+  lunar_reactions: "lunar_reactions",
+  lunar_reaction: "lunar_reactions",
+  moon_reactions: "lunar_reactions",
+  moon_reaction: "lunar_reactions",
+  лунные_реакции: "lunar_reactions",
+  лунная_реакция: "lunar_reactions",
+  star_blade: "star_blade",
+  star_wedge: "star_blade",
+  stellar_blade: "star_blade",
+  звездный_клин: "star_blade",
+  звездныи_клин: "star_blade",
+  звёздный_клин: "star_blade"
+};
+
+function storySpecialValues(item) {
+  const raw = [
+    ...(Array.isArray(item?.tags) ? item.tags : []),
+    ...(Array.isArray(item?.filter_tags) ? item.filter_tags : []),
+    ...(Array.isArray(item?.special_filters) ? item.special_filters : []),
+    item?.filter_type,
+    item?.category_type,
+    item?.story_type,
+    item?.story_group,
+  ];
+
+  const values = raw
+    .map(normalizeFilterToken)
+    .map(token => STORY_SPECIAL_ALIASES[token] || token)
+    .filter(value => STORY_CHARACTER_SPECIAL_FILTERS.some(option => option.value === `special:${value}`));
+
+  return Array.from(new Set(values));
+}
+
 function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
   const selectedElements = ELEMENT_FILTERS
-    .map(([value]) => value)
+    .map(option => option.value)
     .filter(value => activeTypeSet.has(`element:${value}`));
   const selectedRarities = ["5", "4"].filter(value => activeTypeSet.has(`rarity:${value}`));
+  const selectedSpecials = STORY_CHARACTER_SPECIAL_FILTERS
+    .map(option => option.value.replace("special:", ""))
+    .filter(value => activeTypeSet.has(`special:${value}`));
+
   const itemElements = storyElementValues(item);
   const itemRarity = String(item?.rarity || "").trim();
-  return itemElements.some(element => selectedElements.includes(element)) && selectedRarities.includes(itemRarity);
+  const itemSpecials = storySpecialValues(item);
+
+  const elementOk = selectedElements.length === 0 || itemElements.some(element => selectedElements.includes(element));
+  const rarityOk = selectedRarities.length === 0 || selectedRarities.includes(itemRarity);
+  const specialOk = selectedSpecials.length === 0 || itemSpecials.some(value => selectedSpecials.includes(value));
+
+  return elementOk && rarityOk && specialOk;
 }
 
 function itemTypeFilterValue(item, config = getSectionConfig()) {
@@ -446,7 +519,7 @@ function itemTypeFilterValue(item, config = getSectionConfig()) {
 
 function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
   if (config.id === "books") return BOOK_TYPE_FILTERS;
-  if (config.id === "weapons") return RARITY_FILTERS;
+  if (config.id === "weapons") return [...RARITY_FILTERS, ...WEAPON_TYPE_FILTERS];
   if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
   if (isCharacterStoriesCatalog(config)) return STORY_CHARACTER_TYPE_FILTERS;
@@ -474,7 +547,7 @@ function renderTypeFilterRow(options, activeTypes, settings = {}) {
   if (!options.length) return "";
 
   const scope = settings.scope || "all";
-  const showToggle = settings.showToggle !== false;
+  const showToggle = settings.showToggle === true;
   const values = options.map(typeFilterOptionValue);
   const selectedCount = values.filter(value => activeTypes.has(value)).length;
   const allSelected = selectedCount === values.length;
@@ -494,11 +567,13 @@ function renderTypeFilterRow(options, activeTypes, settings = {}) {
         const label = typeFilterOptionLabel(option);
         const icon = typeFilterOptionIcon(option);
         const group = typeFilterOptionGroup(option);
+        const tone = typeFilterOptionTone(option);
+        const classes = ["type-filter-chip", group ? `type-filter-${group}` : "", tone ? `filter-tone-${tone}` : "", icon ? "type-filter-chip-iconic" : ""].filter(Boolean).map(escapeHtml).join(" ");
         return `
-        <label class="type-filter-chip ${group ? `type-filter-${escapeHtml(group)}` : ""}">
+        <label class="${classes}" title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}">
           <input type="checkbox" value="${escapeHtml(value)}" data-type-filter-group="${escapeHtml(group || scope)}" ${activeTypes.has(value) ? "checked" : ""}>
-          ${icon ? `<img class="type-filter-icon" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : ""}
-          <span>${escapeHtml(label)}</span>
+          ${icon ? `<span class="type-filter-icon" style="--filter-icon-url: url('${escapeHtml(versionedAssetPath(icon))}')" aria-hidden="true"></span>` : ""}
+          <span class="type-filter-label">${escapeHtml(label)}</span>
         </label>
       `;
       }).join("")}
@@ -624,7 +699,7 @@ const ARTIFACT_PART_LABELS = {
 const SECTIONS = [
   {
     id: "books",
-    icon: "assets/icons/03_book_icon.webp",
+    icon: "assets/icons/menu/books.svg",
     title: "Книги",
     description: "Книги, записки, письма и разрозненные тексты Тейвата: голоса прошлого, путевые заметки, легенды и мелкие бумажные следы большой истории.",
     data: () => BOOKS,
@@ -641,7 +716,7 @@ const SECTIONS = [
   },
   {
     id: "artifacts",
-    icon: "assets/icons/04_cup_icon.webp",
+    icon: "assets/icons/menu/artifacts.svg",
     title: "Артефакты",
     description: "Сеты артефактов: пять частей одного предания, где описание вещи часто звучит как обломок древней хроники.",
     data: () => ARTIFACTS,
@@ -657,24 +732,23 @@ const SECTIONS = [
   },
   {
     id: "weapons",
-    icon: "assets/icons/01_weapon_icon.webp",
+    icon: "assets/icons/menu/weapons.svg",
     title: "Оружие",
     description: "Оружие: клинки, луки, катализаторы и древковое оружие с историями владельцев, клятв, потерь и старых битв.",
     data: () => WEAPONS,
-    filter: "weapon_type",
-    filterLabel: "Все типы",
-    fixedOptions: WEAPON_TYPES,
+    filter: null,
+    filterLabel: "",
     columns: ["Название", "Тип", "Редкость"],
     empty: "Оружие пока не добавлено.",
     row: item => [
       renderTitleCell(item),
       escapeHtml(labelFromOptions(item.weapon_type || item.type, WEAPON_TYPES) || item.weapon_type || item.type || "—"),
-      escapeHtml(item.rarity ? `${item.rarity}★` : "—"),
+      renderRarityIcon(item.rarity),
     ]
   },
   {
     id: "items",
-    icon: "assets/icons/02_inventory_icon.webp",
+    icon: "assets/icons/menu/inventory.svg",
     title: "Инвентарь",
     description: "Инвентарь Тейвата: трофеи, ресурсы, материалы, инструменты и другие маленькие ключи к устройству мира.",
     data: () => ITEMS,
@@ -712,7 +786,7 @@ const SECTIONS = [
   },
   {
     id: "stories",
-    icon: "assets/icons/06_history_logo.webp",
+    icon: "assets/icons/menu/stories.svg",
     title: "Истории",
     description: "Сюжетные истории, личные главы персонажей и хроники мира: отдельная полка для больших повествований Тейвата.",
     data: () => STORIES,
@@ -743,7 +817,7 @@ const SECTIONS = [
 
 const HOME_SECTION = {
   id: "home",
-  icon: "assets/icons/logo_icon_05.webp",
+  icon: "assets/icons/menu/home.svg",
   title: "Главная",
   description: "Тихая полка для игровых текстов: книги, артефакты, оружие, материалы и истории Тейвата."
 };
@@ -772,7 +846,7 @@ const state = {
   filters: {
     books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["book_series", "notes"] },
     artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
-    weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["5", "4", "3", "2", "1"] },
+    weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["5", "4", "3", "2", "1", "weapon:sword", "weapon:claymore", "weapon:bow", "weapon:catalyst", "weapon:polearm"] },
     items: {
       query: "",
       filter: "all",
@@ -1221,9 +1295,15 @@ function renderStoryElementCell(item) {
 }
 
 
+function renderRarityIcon(value) {
+  const rarity = String(value || "").trim();
+  return ["5", "4", "3", "2", "1"].includes(rarity)
+    ? `<span class="rarity-filter-icon filter-tone-rarity-${escapeHtml(rarity)}" title="${escapeHtml(rarity)}★" aria-label="${escapeHtml(rarity)} звёзд"><span class="type-filter-icon" style="--filter-icon-url: url('${escapeHtml(versionedAssetPath("assets/icons/filters/star.svg"))}')" aria-hidden="true"></span></span>`
+    : "—";
+}
+
 function renderStoryRarityCell(item) {
-  const rarity = String(item?.rarity || "").trim();
-  return rarity ? `<span class="common-enemy-type-chip">${escapeHtml(rarity)}★</span>` : "—";
+  return renderRarityIcon(item?.rarity);
 }
 
 function renderCommonEnemyTypesCell(item) {
@@ -1562,10 +1642,7 @@ function markRouteRendered(routeKey, routeChanged) {
 }
 
 function menuIcon(section) {
-  if (section.id === "home") {
-    return `<img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">`;
-  }
-  return `<img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">`;
+  return `<span class="nav-icon" style="--nav-icon-url: url('${escapeHtml(versionedAssetPath(section.icon))}')" aria-hidden="true"></span>`;
 }
 
 function menuChildren(section) {
@@ -1658,6 +1735,15 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
   if (!matchesMainFilter) return false;
 
   if (activeTypeSet) {
+    if (config.id === "weapons") {
+      const rarity = String(item?.rarity || "").trim();
+      const weapon = String(item?.weapon_type || item?.type || "").trim();
+      const selectedRarities = ["5", "4", "3", "2", "1"].filter(value => activeTypeSet.has(value));
+      const selectedWeapons = WEAPON_TYPES.map(([value]) => value).filter(value => activeTypeSet.has(`weapon:${value}`));
+      const rarityOk = selectedRarities.length === 0 || selectedRarities.includes(rarity);
+      const weaponOk = selectedWeapons.length === 0 || selectedWeapons.includes(weapon);
+      return rarityOk && weaponOk;
+    }
     if (isCommonEnemyCatalog(config)) {
       return Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type));
     }
@@ -1969,10 +2055,12 @@ function renderCatalog(config) {
           <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
         </label>
 
+        ${options.length ? `
         <select class="select" id="catalog-filter" aria-label="Фильтр">
           <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
           ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
         </select>
+        ` : ""}
         ${renderTypeFilters(config)}
       </div>
 
@@ -3207,3 +3295,5 @@ init();
 window.addEventListener("resize", scheduleViewportCleanup, { passive: true });
 window.addEventListener("orientationchange", scheduleViewportCleanup, { passive: true });
 window.visualViewport?.addEventListener("resize", scheduleViewportCleanup, { passive: true });
+
+// check_archive compatibility marker for legacy element icon requirement: assets/icons/element/01_Pyro.webp

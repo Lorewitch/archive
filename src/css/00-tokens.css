@@ -1,9 +1,9 @@
 :root {
-  --bg: #e8ded4;
+  --bg: #15100c;
   --page-bg-paint:
-    radial-gradient(circle at 8% 0%, rgba(203, 191, 175, 0.50), transparent 31rem),
-    radial-gradient(circle at 94% 4%, rgba(91, 74, 62, 0.08), transparent 27rem),
-    linear-gradient(135deg, #f6f2eb 0%, #e8ded4 52%, #cbbfaf 100%);
+    radial-gradient(circle at 12% 0%, rgba(104, 76, 52, 0.38), transparent 28rem),
+    radial-gradient(circle at 90% 8%, rgba(63, 45, 32, 0.46), transparent 30rem),
+    linear-gradient(135deg, #120d0a 0%, #1c130e 54%, #2a1d15 100%);
   --surface: rgba(246, 242, 235, 0.92);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
@@ -16,8 +16,8 @@
   --accent: #5b4a3e;
   --accent-hover: #6f5d50;
   --accent-soft: #d8cec0;
-  --shadow-soft: 0 8px 22px rgba(91, 74, 62, 0.075);
-  --shadow-card: 0 16px 38px rgba(91, 74, 62, 0.11);
+  --shadow-soft: 0 8px 22px rgba(20, 12, 8, 0.20);
+  --shadow-card: 0 18px 44px rgba(10, 7, 5, 0.34);
   --sidebar-width: 310px;
   --sidebar: 310px;
   --menu-rail-width: 8px;
@@ -29,9 +29,9 @@
   --radius-page: 18px;
   --radius-card: 0;
   --radius-control: 0;
-  --rail-thumb: #5b4a3e;
-  --rail-thumb-hover: #3e332b;
-  --rail-track: rgba(91, 74, 62, 0.10);
+  --rail-thumb: #6f5642;
+  --rail-thumb-hover: #9c7659;
+  --rail-track: rgba(232, 216, 194, 0.12);
   --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
   --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
   --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
