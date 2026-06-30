@@ -2606,6 +2606,37 @@
     "search_text": "розария rosaria 罗莎莉亚 мондштадт 4 1.4 character_stories cryo"
   },
   {
+    "id": "sandrone",
+    "category": "stories",
+    "icon": "assets/icons/stories/character/sandrone.webp",
+    "title": {
+      "ru": "Сандроне",
+      "en": "Sandrone",
+      "zh": "桑多涅"
+    },
+    "region": "Фонтейн",
+    "game_version": "6.7",
+    "story_group": "character_stories",
+    "category_type": "character_stories",
+    "element": "cryo",
+    "elements": [
+      "cryo"
+    ],
+    "rarity": 5,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "character_stories",
+    "sort_version": 6007000,
+    "search_text": "сандроне sandrone 桑多涅 фонтейн 5 6.7 character_stories cryo"
+  },
+  {
     "id": "sangonomiya_kokomi",
     "category": "stories",
     "icon": "assets/icons/stories/character/sangonomiya_kokomi.webp",

@@ -2677,6 +2677,32 @@
     "search_text": "вино и песни wine and song 暗巷的酒与诗 catalyst 4 1.4 оружие катализатор"
   },
   {
+    "id": "a_teaspoon_of_transcendence",
+    "category": "weapons",
+    "icon": "assets/icons/weapons/claymore/a_teaspoon_of_transcendence.webp",
+    "title": {
+      "ru": "Чайная ложка трансцендентности",
+      "en": "A Teaspoon of Transcendence",
+      "zh": "超越之匙"
+    },
+    "weapon_type": "claymore",
+    "type": "claymore",
+    "rarity": 5,
+    "game_version": "6.7",
+    "tags": [
+      "оружие"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "filter_regions": [],
+    "filter_type": "5",
+    "sort_version": 6007000,
+    "search_text": "чайная ложка трансцендентности a teaspoon of transcendence 超越之匙 claymore 5 6.7 оружие"
+  },
+  {
     "id": "a_thousand_blazing_suns",
     "category": "weapons",
     "icon": "assets/icons/weapons/claymore/a_thousand_blazing_suns.webp",
