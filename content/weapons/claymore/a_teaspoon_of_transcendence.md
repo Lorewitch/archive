@@ -1,7 +1,7 @@
 # id: a_teaspoon_of_transcendence
 # category: weapons
 # weapon_type: claymore
-# icon: assets/icons/weapons/a_teaspoon_of_transcendence.webp
+# icon: assets/icons/weapons/claymore/a_teaspoon_of_transcendence.webp
 # title_ru: Чайная ложка трансцендентности
 # title_en: A Teaspoon of Transcendence
 # title_zh: 超越之匙
