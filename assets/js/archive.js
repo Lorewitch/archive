@@ -740,8 +740,24 @@ const SECTIONS = [
   }
 ];
 
+
+const HOME_SECTION = {
+  id: "home",
+  icon: "assets/icons/logo_icon_05.webp",
+  title: "Главная",
+  description: "Тихая полка для игровых текстов: книги, артефакты, оружие, материалы и истории Тейвата."
+};
+
+const MENU_CHILDREN = {
+  books: [["book_series", "Книги"], ["notes", "Записки"]],
+  items: ITEM_GROUPS.map(([key, label]) => [key, label]),
+  stories: STORY_GROUPS.map(([key, label]) => [key, label])
+};
+
+const expandedMenuSections = new Set();
+
 const state = {
-  section: "books",
+  section: "home",
   subsection: null,
   entryId: null,
   lang: "ru",
@@ -786,6 +802,26 @@ const state = {
 
 const app = document.getElementById("app");
 const nav = document.getElementById("nav");
+const contentScroll = document.getElementById("content-scroll");
+const sidebarScroll = document.getElementById("sidebar-scroll");
+
+function primaryScrollY() {
+  return contentScroll ? contentScroll.scrollTop : (window.scrollY || document.documentElement.scrollTop || 0);
+}
+
+function scrollPrimaryTo(y = 0, behavior = "auto") {
+  if (contentScroll) {
+    contentScroll.scrollTo({ top: Math.max(0, Number(y) || 0), behavior });
+  } else {
+    window.scrollTo({ top: Math.max(0, Number(y) || 0), behavior });
+  }
+}
+
+function syncCustomScrollbarsSoon() {
+  if (typeof window.__archiveSyncScrollbars === "function") {
+    window.requestAnimationFrame(() => window.__archiveSyncScrollbars());
+  }
+}
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
 const DEFAULT_CATALOG_PAGE_SIZE = 10;
 
@@ -1333,7 +1369,7 @@ function renderDroppedBySection(item) {
 
 function openMenu() {
   if (document.body.classList.contains("menu-open")) return;
-  menuScrollY = window.scrollY || document.documentElement.scrollTop || 0;
+  menuScrollY = primaryScrollY();
   document.documentElement.classList.add("menu-open");
   document.body.classList.add("menu-open");
   document.body.style.position = "fixed";
@@ -1354,7 +1390,7 @@ function closeMenu() {
   document.body.style.right = "";
   document.body.style.width = "";
   document.body.style.overflow = "";
-  window.scrollTo(0, menuScrollY || 0);
+  scrollPrimaryTo(menuScrollY || 0);
 }
 
 function childGroupsFor(config, groupKey) {
@@ -1440,9 +1476,8 @@ function routeHash(section, entryId = null, subsection = null) {
 }
 
 function setRoute(section, entryId = null, subsection = null) {
-  const config = getSectionConfig(section);
-  const normalizedSection = config.id;
-  const nextHash = routeHash(normalizedSection, entryId, subsection);
+  const normalizedSection = section === "home" ? "home" : getSectionConfig(section).id;
+  const nextHash = normalizedSection === "home" ? "#/home" : routeHash(normalizedSection, entryId, subsection);
 
   closeMenu();
 
@@ -1456,11 +1491,17 @@ function setRoute(section, entryId = null, subsection = null) {
 
 function parseHash() {
   const parts = window.location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
-  const section = parts[0] || "books";
-  const config = getSectionConfig(section);
-  state.section = config.id;
+  const section = parts[0] || "home";
   state.subsection = null;
   state.entryId = null;
+
+  if (section === "home") {
+    state.section = "home";
+    return;
+  }
+
+  const config = getSectionConfig(section);
+  state.section = config.id;
 
   if (config.groups && isKnownGroup(config, parts[1])) {
     state.subsection = parts[1];
@@ -1471,11 +1512,11 @@ function parseHash() {
 }
 
 function currentRouteKey() {
-  return [state.section || "books", state.subsection || "", state.entryId || ""].join("/");
+  return [state.section || "home", state.subsection || "", state.entryId || ""].join("/");
 }
 
 function currentCatalogScrollKey() {
-  return [state.section || "books", state.subsection || ""].join("/");
+  return [state.section || "home", state.subsection || ""].join("/");
 }
 
 function isCatalogRoute() {
@@ -1483,17 +1524,15 @@ function isCatalogRoute() {
 }
 
 function resetHorizontalScroll() {
-  const currentY = window.scrollY || document.documentElement.scrollTop || 0;
   if (!window.scrollX && !document.documentElement.scrollLeft && !document.body.scrollLeft) return;
   document.documentElement.scrollLeft = 0;
   document.body.scrollLeft = 0;
-  window.scrollTo(0, currentY);
 }
 
 function rememberCatalogScrollPosition() {
   if (!renderedRouteKey || !isCatalogRoute()) return;
   catalogScrollPositions.set(currentCatalogScrollKey(), {
-    y: window.scrollY || 0,
+    y: primaryScrollY(),
   });
 }
 
@@ -1506,10 +1545,11 @@ function scheduleRouteScroll(routeChanged) {
   if (!routeChanged) return;
   const target = targetScrollPositionForRoute();
   requestAnimationFrame(() => {
-    window.scrollTo(0, target.y);
+    scrollPrimaryTo(target.y);
     document.documentElement.scrollLeft = 0;
     document.body.scrollLeft = 0;
     updateToTopButton();
+    syncCustomScrollbarsSoon();
   });
 }
 
@@ -1518,14 +1558,70 @@ function markRouteRendered(routeKey, routeChanged) {
   scheduleRouteScroll(routeChanged);
 }
 
-function renderNav() {
-  nav.innerHTML = SECTIONS.map(section => `
-    <button class="nav-item ${state.section === section.id ? "active" : ""}" type="button" data-section="${section.id}">
-      <span class="nav-left"><img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="26" height="26">${section.title}</span>
-      <span>›</span>
-    </button>
-  `).join("");
+function menuIcon(section) {
+  if (section.id === "home") {
+    return `<img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">`;
+  }
+  return `<img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">`;
 }
+
+function menuChildren(section) {
+  return MENU_CHILDREN[section.id] || [];
+}
+
+function childActive(sectionId, key) {
+  if (state.section !== sectionId) return false;
+  if (sectionId === "items" || sectionId === "stories") {
+    return state.subsection === key;
+  }
+  if (sectionId === "books") {
+    const active = state.filters.books.typeFilters || [];
+    return active.length === 1 && active[0] === key;
+  }
+  return false;
+}
+
+function renderNav() {
+  const rows = [HOME_SECTION, ...SECTIONS].map(section => {
+    const children = menuChildren(section);
+    const hasChildren = children.length > 0;
+    const isOpen = expandedMenuSections.has(section.id);
+    const isActive = state.section === section.id;
+
+    if (!hasChildren) {
+      return `
+        <div class="nav-section">
+          <button class="nav-button ${isActive ? "is-active" : ""}" type="button" data-section="${escapeHtml(section.id)}">
+            ${menuIcon(section)}
+            <span class="nav-label">${escapeHtml(section.title)}</span>
+            <span class="nav-meta"></span>
+          </button>
+        </div>
+      `;
+    }
+
+    return `
+      <div class="nav-section ${isOpen ? "is-open" : ""}">
+        <button class="nav-button ${isActive ? "is-active" : ""}" type="button" data-menu-toggle="${escapeHtml(section.id)}" aria-expanded="${isOpen ? "true" : "false"}">
+          ${menuIcon(section)}
+          <span class="nav-label">${escapeHtml(section.title)}</span>
+          <span class="nav-chevron">›</span>
+        </button>
+        <div class="nav-children">
+          ${children.map(([key, label]) => `
+            <button class="nav-child ${childActive(section.id, key) ? "is-active" : ""}" type="button" data-menu-action="child" data-menu-section="${escapeHtml(section.id)}" data-menu-key="${escapeHtml(key)}">
+              ${escapeHtml(label)}
+            </button>
+          `).join("")}
+        </div>
+      </div>
+    `;
+  }).join("");
+
+  nav.innerHTML = rows;
+  syncCustomScrollbarsSoon();
+}
+
 
 function collectionForCatalog(config) {
   let rows = config.data();
@@ -1887,7 +1983,7 @@ function updateCatalogTable(config = getSectionConfig()) {
   const holder = document.getElementById("catalog-holder");
   if (!holder) return;
   holder.innerHTML = renderCatalogTable(config);
-  requestAnimationFrame(resetHorizontalScroll);
+  requestAnimationFrame(() => { resetHorizontalScroll(); syncCustomScrollbarsSoon(); });
 }
 
 function toggleSort(config) {
@@ -2461,9 +2557,12 @@ function renderGenericDetail(item, config) {
 }
 
 function preserveScrollRender(renderFn) {
-  const y = window.scrollY;
+  const y = primaryScrollY();
   renderFn();
-  requestAnimationFrame(() => window.scrollTo(0, y));
+  requestAnimationFrame(() => {
+    scrollPrimaryTo(y);
+    syncCustomScrollbarsSoon();
+  });
 }
 
 function currentCatalogConfig() {
@@ -2495,6 +2594,38 @@ function rerenderActiveDetailPreservingScroll() {
 }
 
 function handleNavClick(event) {
+  const toggle = event.target.closest("[data-menu-toggle]");
+  if (toggle) {
+    const sectionId = toggle.dataset.menuToggle;
+    if (expandedMenuSections.has(sectionId)) expandedMenuSections.delete(sectionId);
+    else expandedMenuSections.add(sectionId);
+    renderNav();
+    return;
+  }
+
+  const child = event.target.closest("[data-menu-action='child']");
+  if (child) {
+    const sectionId = child.dataset.menuSection;
+    const key = child.dataset.menuKey;
+
+    if (sectionId === "books") {
+      state.filters.books.typeFilters = [key];
+      state.filters.books.page = 1;
+      setRoute("books");
+      return;
+    }
+
+    if (sectionId === "items") {
+      setRoute("items", null, key);
+      return;
+    }
+
+    if (sectionId === "stories") {
+      setRoute("stories", null, key);
+      return;
+    }
+  }
+
   const button = event.target.closest("[data-section]");
   if (!button) return;
   setRoute(button.dataset.section);
@@ -2750,6 +2881,29 @@ function handleAppPrefetch(event) {
 }
 
 
+function renderHome() {
+  activeDetail = null;
+  app.innerHTML = `
+    <section class="page-card home-page">
+      <div class="page-head">
+        <h1>Главная</h1>
+        <p class="lead">Библиотека Лороведьмы — публичная база игровых текстов Genshin Impact: книги, артефакты, оружие, предметы и истории в одной аккуратной полке.</p>
+      </div>
+      <div class="home-grid">
+        ${SECTIONS.map(section => `
+          <button class="home-tile" type="button" data-home-section="${escapeHtml(section.id)}">
+            <span class="home-tile-title">${escapeHtml(section.title)}</span>
+            <span class="home-tile-text">${escapeHtml(section.description)}</span>
+          </button>
+        `).join("")}
+      </div>
+    </section>
+  `;
+  app.querySelectorAll("[data-home-section]").forEach(button => {
+    button.addEventListener("click", () => setRoute(button.dataset.homeSection));
+  });
+}
+
 function renderLoading(message = "Загружаю архив…") {
   app.innerHTML = `
     <section class="page-card">
@@ -2775,6 +2929,14 @@ async function render() {
   const routeKey = currentRouteKey();
   const routeChanged = routeKey !== previousRouteKey;
   renderNav();
+
+  if (state.section === "home") {
+    renderHome();
+    markRouteRendered(routeKey, routeChanged);
+    syncCustomScrollbarsSoon();
+    return;
+  }
+
   const config = getSectionConfig();
 
   if (!LOADED_SECTIONS.has(config.id)) {
@@ -2875,6 +3037,103 @@ window.addEventListener("keydown", event => {
 });
 
 
+
+function setupCustomScrollbar(scrollEl, railEl, thumbEl) {
+  if (!scrollEl || !railEl || !thumbEl) return () => {};
+  let dragging = false;
+  let startY = 0;
+  let startScroll = 0;
+
+  function metrics() {
+    const overflow = scrollEl.scrollHeight - scrollEl.clientHeight;
+    const maxScroll = overflow > 18 ? overflow : 0;
+    const railHeight = railEl.clientHeight;
+    const thumbHeight = maxScroll > 0 ? Math.max(28, Math.floor((scrollEl.clientHeight / scrollEl.scrollHeight) * railHeight)) : 0;
+    const maxThumbTop = Math.max(0, railHeight - thumbHeight);
+    const thumbTop = maxScroll > 0 && maxThumbTop > 0 ? Math.round((scrollEl.scrollTop / maxScroll) * maxThumbTop) : 0;
+    return { maxScroll, thumbHeight, maxThumbTop, thumbTop };
+  }
+
+  function update() {
+    const m = metrics();
+    const canScroll = m.maxScroll > 0 && m.maxThumbTop > 0;
+    railEl.classList.toggle("has-scroll", canScroll);
+    thumbEl.style.height = `${m.thumbHeight}px`;
+    thumbEl.style.transform = `translateY(${m.thumbTop}px)`;
+  }
+
+  function scrollToPointer(clientY) {
+    const rect = railEl.getBoundingClientRect();
+    const m = metrics();
+    if (!m.maxScroll || !m.maxThumbTop) return;
+    const y = Math.min(Math.max(clientY - rect.top - m.thumbHeight / 2, 0), m.maxThumbTop);
+    scrollEl.scrollTop = (y / m.maxThumbTop) * m.maxScroll;
+  }
+
+  scrollEl.addEventListener("scroll", update, { passive: true });
+  window.addEventListener("resize", update);
+  railEl.addEventListener("wheel", event => {
+    if (!metrics().maxScroll) return;
+    event.preventDefault();
+    scrollEl.scrollTop += event.deltaY;
+  }, { passive: false });
+
+  railEl.addEventListener("pointerdown", event => {
+    if (!metrics().maxScroll) return;
+    if (event.target !== thumbEl) scrollToPointer(event.clientY);
+  });
+
+  thumbEl.addEventListener("pointerdown", event => {
+    const m = metrics();
+    if (!m.maxScroll) return;
+    dragging = true;
+    startY = event.clientY;
+    startScroll = scrollEl.scrollTop;
+    thumbEl.classList.add("is-dragging");
+    thumbEl.setPointerCapture(event.pointerId);
+    event.preventDefault();
+  });
+
+  thumbEl.addEventListener("pointermove", event => {
+    if (!dragging) return;
+    const m = metrics();
+    if (!m.maxScroll || !m.maxThumbTop) return;
+    const delta = event.clientY - startY;
+    scrollEl.scrollTop = startScroll + (delta / m.maxThumbTop) * m.maxScroll;
+  });
+
+  function stopDrag() {
+    dragging = false;
+    thumbEl.classList.remove("is-dragging");
+  }
+
+  thumbEl.addEventListener("pointerup", stopDrag);
+  thumbEl.addEventListener("pointercancel", stopDrag);
+
+  if ("ResizeObserver" in window) {
+    const observer = new ResizeObserver(update);
+    observer.observe(scrollEl);
+    observer.observe(railEl);
+  }
+  if ("MutationObserver" in window) {
+    const observer = new MutationObserver(update);
+    observer.observe(scrollEl, { childList: true, subtree: true, characterData: true });
+  }
+  update();
+  return update;
+}
+
+const updateMenuRail = setupCustomScrollbar(sidebarScroll, document.getElementById("menu-rail"), document.getElementById("menu-thumb"));
+const updateContentRail = setupCustomScrollbar(contentScroll, document.getElementById("content-rail"), document.getElementById("content-thumb"));
+window.__archiveSyncScrollbars = function archiveSyncScrollbars() {
+  updateMenuRail();
+  updateContentRail();
+  requestAnimationFrame(() => {
+    updateMenuRail();
+    updateContentRail();
+  });
+};
+
 const toTopButton = document.getElementById("to-top-button");
 let responsiveFitFrame = 0;
 let viewportCleanupFrame = 0;
@@ -2928,13 +3187,14 @@ function scheduleViewportCleanup() {
 
 function updateToTopButton() {
   if (!toTopButton) return;
-  toTopButton.classList.toggle("visible", window.scrollY > 520);
+  toTopButton.classList.toggle("visible", primaryScrollY() > 520);
 }
 
 toTopButton?.addEventListener("click", () => {
-  window.scrollTo({ top: 0, behavior: "smooth" });
+  scrollPrimaryTo(0, "smooth");
 });
 
+contentScroll?.addEventListener("scroll", updateToTopButton, { passive: true });
 window.addEventListener("scroll", updateToTopButton, { passive: true });
 updateToTopButton();
 

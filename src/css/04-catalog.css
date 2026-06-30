@@ -742,3 +742,45 @@
   border-color: rgba(91, 74, 62, 0.24);
   background: rgba(203, 191, 175, 0.36);
 }
+
+/* Compact catalog footer: no large empty stripe under the list. */
+.pagination {
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 8px;
+  margin-top: 8px;
+  padding-top: 0;
+  border-top: 0;
+}
+.pagination-size {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 7px;
+  margin-left: 0;
+}
+.pagination-size span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  white-space: nowrap;
+}
+.pagination-size select {
+  width: 70px;
+  min-width: 70px;
+  height: 32px;
+  padding: 5px 24px 5px 9px;
+}
+.pagination-count {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  margin-left: 0;
+}
+.pagination-pages:empty { display: none; }
+.catalog-table .empty {
+  display: block;
+  min-height: 0;
+}
+.catalog-table .empty-card {
+  display: block;
+}

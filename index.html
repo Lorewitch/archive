@@ -6,61 +6,51 @@
   <title>Библиотека Лороведьмы — архив</title>
   <meta name="description" content="Интерактивный архив игровых текстов Библиотеки Лороведьмы" />
   <meta name="theme-color" content="#E8DED4" />
-  <link
-    rel="preload"
-    href="assets/icons/logo_icon_05.webp?v=113"
-    as="image"
-    type="image/webp"
-  />
-  <link rel="preload" href="assets/css/archive.css?v=113" as="style" />
-  <link rel="stylesheet" href="assets/css/archive.css?v=113" />
+  <link rel="preload" href="assets/icons/logo_icon_05.webp?v=403" as="image" type="image/webp" />
+  <link rel="preload" href="assets/css/archive.css?v=403" as="style" />
+  <link rel="stylesheet" href="assets/css/archive.css?v=403" />
 </head>
 <body>
   <div class="mobile-top">
     <button class="menu-button" id="open-menu" type="button">☰ Разделы</button>
     <div class="mobile-brand">
-      <img
-        src="assets/icons/logo_icon_05.webp?v=113"
-        alt=""
-        width="28"
-        height="28"
-        loading="eager"
-        decoding="async"
-      >
+      <img src="assets/icons/logo_icon_05.webp?v=403" alt="" width="28" height="28" loading="eager" decoding="async">
       <span>Библиотека Лороведьмы</span>
     </div>
   </div>
   <div class="drawer-backdrop" id="drawer-backdrop"></div>
 
-  <div class="app">
-    <aside class="sidebar" id="sidebar">
-      <div class="brand">
-        <div class="brand-head">
+  <div class="archive-layout">
+    <aside class="sidebar" id="sidebar" aria-label="Разделы архива">
+      <div class="sidebar-scroll" id="sidebar-scroll">
+        <div class="brand">
           <div class="brand-mark">
-            <img
-              src="assets/icons/logo_icon_05.webp?v=113"
-              alt="Логотип Библиотеки Лороведьмы"
-              width="56"
-              height="56"
-              loading="eager"
-              decoding="async"
-            >
+            <img src="assets/icons/logo_icon_05.webp?v=403" alt="Логотип Библиотеки Лороведьмы" width="42" height="42" loading="eager" decoding="async">
           </div>
           <div class="brand-title">Библиотека<br>Лороведьмы</div>
+          <div class="brand-subtitle">публичная база игровых текстов</div>
         </div>
-        <div class="brand-subtitle">публичная база игровых текстов</div>
-      </div>
-      <nav class="nav" id="nav"></nav>
-      <div class="sidebar-legal" aria-label="Описание и правовая информация">
-        <p><strong>Архив Лороведьмы</strong> — тихая полка для игровых текстов <strong>Genshin Impact</strong>: книг, историй персонажей, описаний оружия, артефактов, предметов, подземелий и заданий.</p>
-        <p>Он создан Лороведьмой для лороведов — с душой и любовью к лору: чтобы тексты на разных языках было проще находить, сверять и разбирать без бесконечных поисков по разным уголкам Тейвата.</p>
-        <p class="sidebar-legal-separator">Genshin Impact и все игровые материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo.</p>
+        <nav class="nav" id="nav"></nav>
       </div>
     </aside>
-    <main class="content" id="app"></main>
+
+    <div class="menu-rail custom-rail" id="menu-rail" aria-hidden="true">
+      <div class="custom-thumb" id="menu-thumb"></div>
+    </div>
+
+    <main class="stage">
+      <section class="content-card" aria-label="Содержимое архива">
+        <div class="content-scroll" id="content-scroll" tabindex="0">
+          <main class="content" id="app"></main>
+        </div>
+      </section>
+      <div class="content-rail custom-rail" id="content-rail" aria-hidden="true">
+        <div class="custom-thumb" id="content-thumb"></div>
+      </div>
+    </main>
   </div>
 
   <button class="to-top-button" id="to-top-button" type="button" aria-label="Наверх">↑</button>
-  <script defer src="assets/js/archive.js?v=113"></script>
+  <script defer src="assets/js/archive.js?v=403"></script>
 </body>
 </html>
