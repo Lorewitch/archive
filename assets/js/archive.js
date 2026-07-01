@@ -868,9 +868,13 @@ const state = {
 
 const app = document.getElementById("app");
 const nav = document.getElementById("nav");
+const contentCard = document.querySelector(".content-card");
 const contentScroll = document.getElementById("content-scroll");
 const sidebarScroll = document.getElementById("sidebar-scroll");
-const contentCard = document.querySelector(".content-card");
+
+function syncReaderModeClass() {
+  contentCard?.classList.toggle("has-reader-page", Boolean(app?.querySelector(".reader-page")));
+}
 
 function primaryScrollY() {
   return contentScroll ? contentScroll.scrollTop : (window.scrollY || document.documentElement.scrollTop || 0);
@@ -1284,7 +1288,7 @@ function renderReaderStickyHead(item, options = {}) {
   return `
     <div class="reader-sticky-head ${escapeHtml(options.className || "")}">
       <div class="reader-head-nav">
-        <button class="back-link reader-back-link" id="${escapeHtml(options.backId || "back-section")}" type="button">${escapeHtml(options.backLabel || "← Назад")}</button>
+        <button class="back-link" id="${escapeHtml(options.backId || "back-section")}" type="button">${escapeHtml(options.backLabel || "← Назад")}</button>
       </div>
       <div class="reader-head-main">
         ${iconMarkup}
@@ -1667,10 +1671,6 @@ function isCatalogRoute() {
   return !state.entryId;
 }
 
-function updateContentCardMode() {
-  contentCard?.classList.toggle("has-reader-view", Boolean(state.entryId));
-}
-
 function resetHorizontalScroll() {
   const currentY = window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0;
   if (!window.scrollX && !document.documentElement.scrollLeft && !document.body.scrollLeft) return;
@@ -1706,6 +1706,7 @@ function scheduleRouteScroll(routeChanged) {
 
 function markRouteRendered(routeKey, routeChanged) {
   renderedRouteKey = routeKey;
+  syncReaderModeClass();
   scheduleRouteScroll(routeChanged);
 }
 
@@ -3119,7 +3120,6 @@ async function render() {
   rememberCatalogScrollPosition();
   const previousRouteKey = renderedRouteKey;
   parseHash();
-  updateContentCardMode();
   const routeKey = currentRouteKey();
   const routeChanged = routeKey !== previousRouteKey;
   renderNav();
