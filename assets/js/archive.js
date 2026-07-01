@@ -46,6 +46,28 @@ function versionedAssetPath(path) {
   return `${value}${separator}v=${encodeURIComponent(DATA_CACHE_VERSION)}`;
 }
 
+function cssUrl(value) {
+  return `url("${String(value || "").replace(/"/g, "%22")}")`;
+}
+
+
+function maskIconStyle(icon, color = "") {
+  const parts = [];
+  if (color) parts.push(`--filter-color: ${color}`);
+  if (icon) {
+    const url = cssUrl(versionedAssetPath(icon));
+    parts.push(`-webkit-mask-image: ${url}`);
+    parts.push(`mask-image: ${url}`);
+    parts.push(`-webkit-mask-repeat: no-repeat`);
+    parts.push(`mask-repeat: no-repeat`);
+    parts.push(`-webkit-mask-position: center`);
+    parts.push(`mask-position: center`);
+    parts.push(`-webkit-mask-size: contain`);
+    parts.push(`mask-size: contain`);
+  }
+  return parts.join("; ");
+}
+
 async function fetchJson(path) {
   const url = versionedDataPath(path);
   const response = await fetch(url);
@@ -534,15 +556,13 @@ function renderTypeFilterRow(options, activeTypes, settings = {}) {
         const icon = typeFilterOptionIcon(option);
         const color = typeFilterOptionColor(option);
         const group = typeFilterOptionGroup(option);
-        const style = [
-          icon ? `--icon-url: url('${escapeHtml(versionedAssetPath(icon))}')` : "",
-          color ? `--filter-color: ${escapeHtml(color)}` : ""
-        ].filter(Boolean).join("; ");
+        const parentStyle = color ? `--filter-color: ${escapeHtml(color)}` : "";
+        const iconStyle = icon ? maskIconStyle(icon, color) : "";
         const activeClass = activeTypes.has(value) ? "is-active" : "";
         return `
-        <label class="type-filter-chip ${icon ? "has-icon" : ""} ${group ? `type-filter-${escapeHtml(group)}` : ""} ${activeClass}" ${style ? `style="${style}"` : ""} title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}">
+        <label class="type-filter-chip ${icon ? "has-icon" : ""} ${group ? `type-filter-${escapeHtml(group)}` : ""} ${activeClass}" ${parentStyle ? `style="${parentStyle}"` : ""} title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}">
           <input type="checkbox" value="${escapeHtml(value)}" data-type-filter-group="${escapeHtml(group || scope)}" ${activeTypes.has(value) ? "checked" : ""}>
-          ${icon ? `<span class="type-filter-icon" aria-hidden="true"></span>` : ""}
+          ${icon ? `<span class="type-filter-icon" style="${escapeHtml(iconStyle)}" aria-hidden="true"></span>` : ""}
           <span class="type-filter-label">${escapeHtml(label)}</span>
         </label>
       `;
@@ -1261,9 +1281,10 @@ function renderStoryElementPill(element) {
   const label = storyElementTitle(key);
   const color = ELEMENT_LABELS[key]?.color || "";
   if (!icon) return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
+  const iconStyle = maskIconStyle(icon, color);
   return `
-    <span class="element-pill" style="--icon-url: url('${escapeHtml(versionedAssetPath(icon))}'); --filter-color: ${escapeHtml(color)}">
-      <span class="element-icon" aria-hidden="true"></span>
+    <span class="element-pill" style="--filter-color: ${escapeHtml(color)}">
+      <span class="element-icon" style="${escapeHtml(iconStyle)}" aria-hidden="true"></span>
       <span>${escapeHtml(label)}</span>
     </span>
   `;
@@ -1281,7 +1302,8 @@ function renderStoryRarityCell(item) {
   const rarity = String(item?.rarity || "").trim();
   const option = RARITY_FILTERS.find(entry => entry.value === `rarity:${rarity}`);
   if (!option) return rarity ? `${escapeHtml(rarity)}★` : "—";
-  return `<span class="rarity-icon-pill" style="--icon-url: url('${escapeHtml(versionedAssetPath(option.icon))}'); --filter-color: ${escapeHtml(option.color)}" title="${escapeHtml(option.label)}" aria-label="${escapeHtml(option.label)}"><span class="rarity-icon" aria-hidden="true"></span></span>`;
+  const iconStyle = maskIconStyle(option.icon, option.color);
+  return `<span class="rarity-icon-pill" style="--filter-color: ${escapeHtml(option.color)}" title="${escapeHtml(option.label)}" aria-label="${escapeHtml(option.label)}"><span class="rarity-icon" style="${escapeHtml(iconStyle)}" aria-hidden="true"></span></span>`;
 }
 
 function renderCommonEnemyTypesCell(item) {
