@@ -835,6 +835,7 @@ const state = {
   itemReadAll: false,
   storyPart: 1,
   storyReadAll: false,
+  storyContentType: "stories",
   filters: {
     books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
     artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
@@ -1239,13 +1240,24 @@ function detailTitleVariant(item, lang = "ru") {
 }
 
 
-function renderReaderLangControl(extraClass = "") {
+function renderReaderLangControl(extraClass = "", options = {}) {
+  const label = options.showLabel === false ? "" : `<span class="toolbar-label">Язык</span>`;
   return `
     <div class="lang-control reader-lang-control ${escapeHtml(extraClass)}" aria-label="Язык текста">
-      <span class="toolbar-label">Язык</span>
+      ${label}
       <div class="lang-switch">
         ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
       </div>
+    </div>
+  `;
+}
+
+function renderReaderCornerControls(...blocks) {
+  const controls = blocks.filter(Boolean).join("");
+  return `
+    <div class="reader-corner-controls" aria-label="Быстрые действия чтения">
+      ${controls}
+      ${renderReaderLangControl("reader-corner-lang-control", { showLabel: false })}
     </div>
   `;
 }
@@ -1264,10 +1276,10 @@ function renderReaderTabBlock(label, buttonsMarkup) {
 
 function renderReaderControls(...blocks) {
   const controls = blocks.filter(Boolean).join("");
+  if (!controls) return "";
   return `
     <div class="reader-top-controls" aria-label="Управление чтением">
       ${controls}
-      ${renderReaderLangControl()}
     </div>
   `;
 }
@@ -1280,7 +1292,7 @@ function renderReaderStickyHead(item, options = {}) {
     entryRarityBackgroundClass(item),
   ].filter(Boolean).join(" ");
   const iconMarkup = icon
-    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="96" height="96">`
+    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="72" height="72">`
     : `<span class="reader-head-icon reader-head-icon-placeholder" aria-hidden="true">⌁</span>`;
   const englishTitle = detailTitleVariant(item, "en");
   const chineseTitle = detailTitleVariant(item, "zh");
@@ -1289,6 +1301,7 @@ function renderReaderStickyHead(item, options = {}) {
     <div class="reader-sticky-head ${escapeHtml(options.className || "")}">
       <div class="reader-head-nav">
         <button class="back-link" id="${escapeHtml(options.backId || "back-section")}" type="button">${escapeHtml(options.backLabel || "← Назад")}</button>
+        ${options.cornerControls || renderReaderCornerControls()}
       </div>
       <div class="reader-head-main">
         ${iconMarkup}
@@ -1298,7 +1311,7 @@ function renderReaderStickyHead(item, options = {}) {
           ${chineseTitle ? `<div class="reader-title-alt reader-title-zh">${escapeHtml(chineseTitle)}</div>` : ""}
         </div>
       </div>
-      ${options.controls || renderReaderControls()}
+      ${options.controls || ""}
     </div>
   `;
 }
@@ -2317,8 +2330,10 @@ function toggleSort(config) {
 function renderBookDetail(book) {
   activeDetail = { type: "book", data: book };
   const volumeButtons = book.volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("");
+  const cornerControls = renderReaderCornerControls(
+    `<button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>`
+  );
   const controls = renderReaderControls(
-    `<button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>`,
     renderReaderTabBlock("Части", volumeButtons)
   );
 
@@ -2328,6 +2343,7 @@ function renderBookDetail(book) {
         className: "book-detail-head",
         backId: "back-books",
         backLabel: "← Назад к списку книг",
+        cornerControls,
         controls,
       })}
 
@@ -2378,8 +2394,10 @@ function renderArtifactDetail(artifact) {
 
   const isSinglePartArtifact = parts.length === 1;
   const partButtons = isSinglePartArtifact ? "" : parts.map(part => `<button type="button" data-artifact-part="${escapeHtml(part.key)}" class="${!state.artifactReadAll && state.artifactPart === part.key ? "active" : ""}">${escapeHtml(artifactPartTitle(part, state.lang))}</button>`).join("");
+  const cornerControls = renderReaderCornerControls(
+    isSinglePartArtifact ? "" : `<button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>`
+  );
   const controls = renderReaderControls(
-    isSinglePartArtifact ? "" : `<button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>`,
     renderReaderTabBlock("Части", partButtons)
   );
 
@@ -2389,6 +2407,7 @@ function renderArtifactDetail(artifact) {
         className: "artifact-detail-head",
         backId: "back-artifacts",
         backLabel: "← Назад к списку артефактов",
+        cornerControls,
         controls,
       })}
 
@@ -2527,8 +2546,10 @@ function renderEnemyDropsDetail(item, config) {
   const developmentMaterialPage = item.item_group === "development_materials";
   const bossLootPage = isEnemyDropGroup(item.item_group) && !commonEnemyLootPage;
   const materialButtons = materials.map(material => `<button type="button" data-item-material="${escapeHtml(material.key)}" class="${!state.itemReadAll && state.itemMaterial === material.key ? "active" : ""}">${escapeHtml(materialTitle(material, state.lang))}</button>`).join("");
+  const cornerControls = renderReaderCornerControls(
+    `<button class="mode-button ${state.itemReadAll ? "active" : ""}" id="toggle-item-read-all" type="button">${state.itemReadAll ? "Читать по материалам" : "Читать все материалы"}</button>`
+  );
   const controls = renderReaderControls(
-    `<button class="mode-button ${state.itemReadAll ? "active" : ""}" id="toggle-item-read-all" type="button">${state.itemReadAll ? "Читать по материалам" : "Читать все материалы"}</button>`,
     renderReaderTabBlock("Материалы", materialButtons)
   );
 
@@ -2538,6 +2559,7 @@ function renderEnemyDropsDetail(item, config) {
         className: "items-detail-head",
         backId: "back-section",
         backLabel: catalogBackLabel(config, state.subsection),
+        cornerControls,
         controls,
       })}
 
@@ -2619,12 +2641,94 @@ function storyParts(item) {
   }];
 }
 
+function localizedStoryField(value, lang = state.lang) {
+  if (typeof value === "string") return value;
+  if (!value || typeof value !== "object") return "";
+  return value?.[lang] || value?.ru || value?.en || value?.zh || value?.text || value?.title || "";
+}
+
+function storyReplicaSource(item) {
+  return item?.replicas || item?.quotes || item?.voicelines || item?.voice_lines || item?.voiceLines || item?.lines || item?.speech || null;
+}
+
+function normalizeStoryReplicaPart(rawPart, index) {
+  const titleSource = rawPart?.title ?? rawPart?.name ?? rawPart?.label ?? rawPart?.key;
+  const textSource = rawPart?.text ?? rawPart?.content ?? rawPart?.description ?? rawPart?.line ?? rawPart?.value ?? rawPart;
+  const defaultTitle = `Реплика ${index + 1}`;
+  const textRu = localizedStoryField(textSource, "ru");
+  const textEn = localizedStoryField(textSource, "en");
+  const textZh = localizedStoryField(textSource, "zh");
+  const hasText = [textRu, textEn, textZh].some(Boolean);
+  if (!hasText) return null;
+
+  return {
+    number: index + 1,
+    title: {
+      ru: localizedStoryField(titleSource, "ru") || defaultTitle,
+      en: localizedStoryField(titleSource, "en") || localizedStoryField(titleSource, "ru") || `Voice-Over ${index + 1}`,
+      zh: localizedStoryField(titleSource, "zh") || localizedStoryField(titleSource, "ru") || defaultTitle,
+    },
+    text: {
+      ru: textRu,
+      en: textEn,
+      zh: textZh,
+    }
+  };
+}
+
+function storyReplicaParts(item) {
+  const source = storyReplicaSource(item);
+  if (!source) return [];
+
+  if (Array.isArray(source)) {
+    return source.map(normalizeStoryReplicaPart).filter(Boolean);
+  }
+
+  if (typeof source !== "object") {
+    const normalized = normalizeStoryReplicaPart(source, 0);
+    return normalized ? [normalized] : [];
+  }
+
+  const nested = source.parts || source.items || source.lines || source.entries || source.list;
+  if (Array.isArray(nested)) {
+    return nested.map(normalizeStoryReplicaPart).filter(Boolean);
+  }
+
+  const textSource = source.text || source.content || source.description;
+  if (textSource) {
+    const normalized = normalizeStoryReplicaPart(source, 0);
+    return normalized ? [normalized] : [];
+  }
+
+  return Object.entries(source)
+    .map(([key, value], index) => normalizeStoryReplicaPart({ key, ...(typeof value === "object" && value ? value : { text: value }) }, index))
+    .filter(Boolean);
+}
+
+function storyContentTypes(item) {
+  const types = [{ key: "stories", label: { ru: "Истории", en: "Stories", zh: "故事" } }];
+  if (storyReplicaParts(item).length) {
+    types.push({ key: "replicas", label: { ru: "Реплики", en: "Voice-Overs", zh: "语音" } });
+  }
+  return types;
+}
+
+function activeStoryContentType(item) {
+  const available = storyContentTypes(item).map(type => type.key);
+  if (available.includes(state.storyContentType)) return state.storyContentType;
+  return "stories";
+}
+
+function storyContentParts(item, contentType = activeStoryContentType(item)) {
+  return contentType === "replicas" ? storyReplicaParts(item) : storyParts(item);
+}
+
 function storyPartTitle(part, lang = state.lang) {
-  return part?.title?.[lang] || part?.title?.ru || part?.title?.en || part?.title?.zh || `История ${part?.number || ""}`.trim();
+  return localizedStoryField(part?.title, lang) || `История ${part?.number || ""}`.trim();
 }
 
 function storyPartText(part, lang = state.lang) {
-  return part?.text?.[lang] || part?.text?.ru || part?.text?.en || part?.text?.zh || "[нет текста]";
+  return localizedStoryField(part?.text, lang) || "[нет текста]";
 }
 
 function normalizeActiveStoryPart(parts) {
@@ -2639,12 +2743,12 @@ function normalizeActiveStoryPart(parts) {
 }
 
 function renderStoryTextArea(story) {
-  const parts = storyParts(story);
+  const contentType = activeStoryContentType(story);
+  const parts = storyContentParts(story, contentType);
   normalizeActiveStoryPart(parts);
   const visibleParts = state.storyReadAll ? parts : parts.filter(part => Number(part.number) === Number(state.storyPart));
-  const generalNote = cleanPublicNote(story.notes?.general || "");
 
-  return visibleParts.map((part, index) => {
+  return visibleParts.map(part => {
     const notesBlock = "";
 
     return `
@@ -2666,13 +2770,24 @@ function renderStoryDetail(story, config) {
     return;
   }
 
-  const parts = storyParts(story);
+  const contentTypes = storyContentTypes(story);
+  const contentType = activeStoryContentType(story);
+  state.storyContentType = contentType;
+
+  const parts = storyContentParts(story, contentType);
   normalizeActiveStoryPart(parts);
   const showPartToolbar = parts.length > 1;
   const partButtons = showPartToolbar ? parts.map(part => `<button type="button" data-story-part="${escapeHtml(part.number)}" class="${!state.storyReadAll && Number(state.storyPart) === Number(part.number) ? "active" : ""}">${escapeHtml(storyPartTitle(part))}</button>`).join("") : "";
+  const contentTypeButtons = contentTypes.length > 1
+    ? contentTypes.map(type => `<button type="button" data-story-content="${escapeHtml(type.key)}" class="${contentType === type.key ? "active" : ""}">${escapeHtml(localizedStoryField(type.label))}</button>`).join("")
+    : "";
+  const readAllButton = showPartToolbar
+    ? `<button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? (contentType === "replicas" ? "Читать по репликам" : "Читать по разделам") : (contentType === "replicas" ? "Читать все реплики" : "Читать всё подряд")}</button>`
+    : "";
+  const cornerControls = renderReaderCornerControls(readAllButton);
   const controls = renderReaderControls(
-    showPartToolbar ? `<button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? "Читать по разделам" : "Читать всё подряд"}</button>` : "",
-    renderReaderTabBlock("Разделы", partButtons)
+    contentTypeButtons ? renderReaderTabBlock("Материал", contentTypeButtons) : "",
+    renderReaderTabBlock(contentType === "replicas" ? "Реплики" : "Разделы", partButtons)
   );
 
   app.innerHTML = `
@@ -2682,6 +2797,7 @@ function renderStoryDetail(story, config) {
         iconClass: "story-detail-icon",
         backId: "back-section",
         backLabel: catalogBackLabel(config, state.subsection),
+        cornerControls,
         controls,
       })}
 
@@ -2738,7 +2854,6 @@ function renderGenericDetail(item, config) {
         className: `${escapeHtml(config.id)}-detail-head`,
         backId: "back-section",
         backLabel: catalogBackLabel(config, state.subsection),
-        controls: renderReaderControls(),
       })}
       <article class="text-card generic-text-card ${config.id}-detail-card">
         <div class="volume-title generic-title">
@@ -2919,6 +3034,15 @@ function handleAppClick(event) {
 
   if (event.target.closest("#toggle-story-read-all") && activeDetail?.type === "story") {
     state.storyReadAll = !state.storyReadAll;
+    rerenderActiveDetailPreservingScroll();
+    return;
+  }
+
+  const storyContentButton = event.target.closest("[data-story-content]");
+  if (storyContentButton && activeDetail?.type === "story") {
+    state.storyContentType = storyContentButton.dataset.storyContent || "stories";
+    state.storyPart = 1;
+    state.storyReadAll = false;
     rerenderActiveDetailPreservingScroll();
     return;
   }

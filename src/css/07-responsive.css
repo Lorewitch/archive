@@ -110,6 +110,7 @@
   .reader-head-nav {
     top: 64px;
     left: 10px;
+    right: calc(10px + var(--content-rail-width) + 8px);
   }
 
 
@@ -406,8 +407,35 @@ html.is-mobile-landscape .content {
 
 @media (max-width: 820px) {
   .reader-sticky-head {
+    --reader-corner-row-height: 40px;
+    --reader-corner-row-gap: 12px;
     gap: 14px;
     padding-bottom: 16px;
+  }
+
+  .reader-head-nav {
+    gap: 8px;
+  }
+
+  .reader-head-nav .back-link,
+  .reader-corner-controls .mode-button,
+  .reader-corner-controls .lang-switch button {
+    height: var(--reader-corner-row-height);
+    min-height: var(--reader-corner-row-height);
+    padding: 0 10px;
+    font-size: 11px;
+  }
+
+  .reader-corner-controls {
+    gap: 7px;
+  }
+
+  .reader-corner-controls .lang-switch {
+    gap: 5px;
+  }
+
+  .reader-corner-controls .lang-switch button {
+    min-width: 40px;
   }
 
   .reader-head-main {
@@ -436,14 +464,13 @@ html.is-mobile-landscape .content {
     align-items: stretch;
   }
 
-  .reader-top-controls > .mode-button,
-  .reader-tabs-row,
-  .reader-lang-control {
+  .reader-tabs-row {
     width: 100%;
-    margin-left: 0;
   }
 
-  .reader-lang-control {
+  .reader-top-controls .reader-lang-control {
+    width: 100%;
+    margin-left: 0;
     justify-content: flex-start;
   }
 }
