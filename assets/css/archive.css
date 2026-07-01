@@ -155,6 +155,7 @@ a {
 .content-card {
   min-width: 0;
   height: calc(100dvh - (var(--stage-pad-y) * 2));
+  position: relative;
   background: var(--surface);
   border: 1px solid rgba(255, 255, 255, 0.58);
   border-radius: var(--content-radius);
@@ -163,13 +164,27 @@ a {
   isolation: isolate;
 }
 
+.content-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  height: var(--content-pad-top);
+  background: var(--surface-solid);
+  border-radius: var(--content-radius) var(--content-radius) 0 0;
+  pointer-events: none;
+}
+
 .content-scroll {
   position: relative;
+  z-index: 1;
   width: 100%;
   height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: var(--content-pad-top) var(--content-pad-x) var(--content-pad-bottom);
+  padding: 0;
   background: var(--surface);
   scrollbar-width: none;
   -ms-overflow-style: none;
@@ -235,7 +250,10 @@ a {
 
 .content {
   display: grid;
+  min-height: 100%;
   gap: 20px;
+  padding: var(--content-pad-top) var(--content-pad-x) var(--content-pad-bottom);
+  box-sizing: border-box;
 }
 
 .page-card {
@@ -519,11 +537,26 @@ a {
 .catalog-sticky-head {
   position: sticky;
   top: 0;
-  z-index: 8;
+  z-index: 12;
   margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 0;
   padding: var(--content-pad-top) var(--content-pad-x) 24px;
   background: var(--surface-solid);
+  border-radius: var(--content-radius) var(--content-radius) 0 0;
   border-bottom: 1px solid var(--surface-line);
+  box-shadow: 0 -1px 0 var(--surface-solid);
+}
+
+.catalog-sticky-head::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  height: var(--content-pad-top);
+  background: var(--surface-solid);
+  border-radius: var(--content-radius) var(--content-radius) 0 0;
+  pointer-events: none;
 }
 
 .catalog-top {
