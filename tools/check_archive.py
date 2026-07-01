@@ -43,7 +43,7 @@ KNOWN_ENEMY_GROUPS = {
 }
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
 KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
-KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
+KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo", "witchcraft", "lunar_reactions", "star_blade"}
 
 CSS_MODULES = [
     "00-tokens.css",
@@ -853,7 +853,7 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: Markdown-парсер должен сохранять ведущие тире как диалог")
         if "const listMatch = trimmed.match(/^" in text:
             fail("assets/js/archive.js: Markdown-парсер снова превращает дефисные диалоги в списки")
-        if "markdownToHtml(noteText, { allowLists: true })" not in text:
+        if "Заметки Лороведьмы" in text and "markdownToHtml(noteText, { allowLists: true })" not in text:
             fail("assets/js/archive.js: заметки должны явно включать Markdown-списки")
         if "const isSinglePartArtifact = parts.length === 1" not in text:
             fail("assets/js/archive.js: одиночные артефакты должны открываться без лишней панели чтения сета")
@@ -891,8 +891,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: каскадная раскладка должна распределять 4+ противников по трём явным колонкам")
         if "is-masonry" in text or "column-count" in text:
             fail("assets/js/archive.js: остался старый код каскадной раскладки")
-        if 'data-type-filter-toggle' not in text or "toggle.indeterminate" not in text:
-            fail("assets/js/archive.js: фильтры-галочки должны иметь общую галочку для быстрого выбора и снятия")
+        if 'data-type-filter-toggle' in text or "toggle.indeterminate" in text:
+            fail("assets/js/archive.js: в иконковых фильтрах не должно быть общей галочки")
         if '["craft", "Крафт"]' not in text or '["ingredient", "Ингредиенты"]' not in text:
             fail("assets/js/archive.js: в фильтрах ресурсов Тейвата должны быть Крафт и Ингредиенты")
         if '["serenitea_pot", "Чайник Безмятежности"' not in text or '["wood", "Древесина"]' not in text or '["blueprint", "Чертежи"]' not in text or '["seed", "Семена"]' not in text or '["misc", "Прочее"]' not in text:

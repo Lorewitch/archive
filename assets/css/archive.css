@@ -22,12 +22,12 @@
   --accent: #5b4a3e;
   --accent-hover: #6f5d50;
   --accent-soft: #d8cec0;
-  --menu-bg: #1f1915;
-  --menu-bg-deep: #15110f;
-  --menu-ink: #fff8ec;
-  --menu-muted: rgba(232, 222, 212, 0.68);
-  --menu-line: rgba(232, 222, 212, 0.12);
-  --menu-active: rgba(232, 222, 212, 0.13);
+  --menu-bg: #241c17;
+  --menu-bg-deep: #120e0c;
+  --menu-ink: #fff4e4;
+  --menu-muted: rgba(255, 244, 228, 0.74);
+  --menu-line: rgba(232, 204, 174, 0.15);
+  --menu-active: rgba(185, 137, 85, 0.20);
   --shadow-soft: 0 18px 48px rgba(0, 0, 0, 0.18);
   --shadow-card: 0 30px 90px rgba(0, 0, 0, 0.32);
   --sidebar-width: 310px;
@@ -274,9 +274,11 @@ a {
   height: 100vh;
   height: 100dvh;
   min-height: 0;
-  background:
-    linear-gradient(180deg, rgba(39, 31, 27, 0.95) 0%, rgba(22, 18, 15, 0.96) 100%),
-    radial-gradient(circle at 30% 0%, rgba(232, 222, 212, 0.14), transparent 18rem);
+  background-color: var(--menu-bg-deep);
+  background-image:
+    radial-gradient(circle at 0% 0%, rgba(201, 154, 103, 0.18), transparent 16rem),
+    radial-gradient(circle at 100% 72%, rgba(91, 74, 62, 0.32), transparent 18rem),
+    linear-gradient(180deg, #2a211c 0%, #1d1714 46%, #120e0c 100%);
   border-right: 1px solid var(--menu-line);
   box-shadow: 12px 0 34px rgba(0, 0, 0, 0.20);
   color: var(--menu-ink);
@@ -363,12 +365,13 @@ a {
   background: transparent;
   border: 0;
   outline: 0;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.34);
 }
 
 .nav-button:hover,
 .nav-child:hover,
 .nav-item:hover {
-  background: rgba(232, 222, 212, 0.08);
+  background: rgba(185, 137, 85, 0.12);
 }
 
 .nav-button.is-active,
@@ -376,7 +379,7 @@ a {
 .nav-item.active {
   background: var(--menu-active);
   color: var(--menu-ink);
-  box-shadow: inset 3px 0 0 #b98955;
+  box-shadow: inset 3px 0 0 #c99561;
 }
 
 .nav-button:focus-visible,
@@ -391,13 +394,20 @@ a {
 .nav-icon-text {
   width: 24px;
   height: 24px;
-  background: currentColor;
-  -webkit-mask: var(--icon-url) center / contain no-repeat;
-  mask: var(--icon-url) center / contain no-repeat;
   text-align: center;
   font-size: 15px;
   line-height: 1;
   opacity: 0.96;
+}
+
+.nav-icon {
+  object-fit: contain;
+  filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.36));
+}
+
+.nav-icon-text {
+  display: inline-grid;
+  place-items: center;
 }
 
 .nav-label,
@@ -655,15 +665,83 @@ a {
   color: #211b17;
 }
 
-.type-filter-chip input {
-  margin: 0;
-  accent-color: var(--accent);
+.type-filter-chip {
+  position: relative;
+  cursor: pointer;
+  user-select: none;
 }
 
-.type-filter-icon {
+.type-filter-chip input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: 0;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.type-filter-chip.has-icon {
+  width: 38px;
+  height: 38px;
+  min-height: 38px;
+  padding: 7px;
+  background: rgba(34, 27, 23, 0.92);
+  color: var(--filter-color, var(--accent-soft));
+  box-shadow: inset 0 -3px 0 rgba(216, 206, 192, 0.18);
+}
+
+.type-filter-chip.has-icon:hover {
+  background: rgba(47, 38, 32, 0.96);
+  color: var(--filter-color, var(--accent-soft));
+}
+
+.type-filter-chip:has(input:checked),
+.type-filter-chip.is-active {
+  background: rgba(91, 74, 62, 0.18);
+  color: #211b17;
+}
+
+.type-filter-chip.has-icon:has(input:checked),
+.type-filter-chip.has-icon.is-active {
+  background: color-mix(in srgb, var(--filter-color, #d8cec0) 24%, #211b17 76%);
+  box-shadow: inset 0 -3px 0 var(--filter-color, #d8cec0);
+}
+
+.type-filter-chip.has-icon .type-filter-label {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.type-filter-icon,
+.rarity-icon,
+.element-icon {
+  display: block;
+  width: 24px;
+  height: 24px;
+  background: var(--filter-color, currentColor);
+  -webkit-mask: var(--icon-url) center / contain no-repeat;
+  mask: var(--icon-url) center / contain no-repeat;
+}
+
+.rarity-icon-pill {
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  background: color-mix(in srgb, var(--filter-color, #d8cec0) 20%, rgba(34, 27, 23, 0.92) 80%);
+  box-shadow: inset 0 -3px 0 var(--filter-color, #d8cec0);
+}
+
+.rarity-icon {
   width: 22px;
   height: 22px;
-  object-fit: contain;
 }
 
 .group-grid,
@@ -953,10 +1031,14 @@ a {
   flex-wrap: wrap;
 }
 
-.element-pill img {
+.element-pill {
+  padding: 4px 7px;
+  background: rgba(91, 74, 62, 0.08);
+}
+
+.element-icon {
   width: 22px;
   height: 22px;
-  object-fit: contain;
 }
 
 .entry-material-preview {
@@ -1511,6 +1593,13 @@ a {
 .common-enemy-loot-page .reader-toolbar,
 .development-material-page .reader-toolbar {
   margin-top: 8px;
+}
+
+
+/* Private catalog notes are not shown on public cards/pages. */
+.catalog-meta,
+.notes {
+  display: none;
 }
 
 .dropped-by-section {

@@ -525,21 +525,9 @@ function renderTypeFilterRow(options, activeTypes, settings = {}) {
   if (!options.length) return "";
 
   const scope = settings.scope || "all";
-  const showToggle = settings.showToggle !== false;
-  const values = options.map(typeFilterOptionValue);
-  const selectedCount = values.filter(value => activeTypes.has(value)).length;
-  const allSelected = selectedCount === values.length;
-  const isPartial = selectedCount > 0 && selectedCount < values.length;
-
   return `
     <div class="type-filter-row" data-type-filter-scope="${escapeHtml(scope)}" aria-label="${escapeHtml(settings.label || "Дополнительный фильтр")}">
       ${settings.label ? `<span class="type-filter-row-label">${escapeHtml(settings.label)}</span>` : ""}
-      ${showToggle ? `
-        <label class="type-filter-chip type-filter-toggle">
-          <input type="checkbox" data-type-filter-toggle="${escapeHtml(scope)}" ${allSelected ? "checked" : ""} ${isPartial ? 'data-indeterminate="true"' : ""}>
-          <span>${escapeHtml(settings.toggleLabel || "Все")}</span>
-        </label>
-      ` : ""}
       ${options.map(option => {
         const value = typeFilterOptionValue(option);
         const label = typeFilterOptionLabel(option);
@@ -550,8 +538,9 @@ function renderTypeFilterRow(options, activeTypes, settings = {}) {
           icon ? `--icon-url: url('${escapeHtml(versionedAssetPath(icon))}')` : "",
           color ? `--filter-color: ${escapeHtml(color)}` : ""
         ].filter(Boolean).join("; ");
+        const activeClass = activeTypes.has(value) ? "is-active" : "";
         return `
-        <label class="type-filter-chip ${icon ? "has-icon" : ""} ${group ? `type-filter-${escapeHtml(group)}` : ""}" ${style ? `style="${style}"` : ""} title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}">
+        <label class="type-filter-chip ${icon ? "has-icon" : ""} ${group ? `type-filter-${escapeHtml(group)}` : ""} ${activeClass}" ${style ? `style="${style}"` : ""} title="${escapeHtml(label)}" aria-label="${escapeHtml(label)}">
           <input type="checkbox" value="${escapeHtml(value)}" data-type-filter-group="${escapeHtml(group || scope)}" ${activeTypes.has(value) ? "checked" : ""}>
           ${icon ? `<span class="type-filter-icon" aria-hidden="true"></span>` : ""}
           <span class="type-filter-label">${escapeHtml(label)}</span>
@@ -815,7 +804,6 @@ const HOME_SECTION = {
 };
 
 const MENU_CHILDREN = {
-  books: [["book_series", "Книги"], ["notes", "Записки"]],
   items: ITEM_GROUPS.map(([key, label]) => [key, label]),
   stories: STORY_GROUPS.map(([key, label]) => [key, label])
 };
@@ -1268,12 +1256,14 @@ function renderGenericItemTypeCell(item) {
 }
 
 function renderStoryElementPill(element) {
-  const icon = storyElementIcon(element);
-  const label = storyElementTitle(element);
+  const key = normalizeStoryElement(element);
+  const icon = storyElementIcon(key);
+  const label = storyElementTitle(key);
+  const color = ELEMENT_LABELS[key]?.color || "";
   if (!icon) return `<span class="common-enemy-type-chip">${escapeHtml(label)}</span>`;
   return `
-    <span class="element-pill">
-      <img src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="24" height="24">
+    <span class="element-pill" style="--icon-url: url('${escapeHtml(versionedAssetPath(icon))}'); --filter-color: ${escapeHtml(color)}">
+      <span class="element-icon" aria-hidden="true"></span>
       <span>${escapeHtml(label)}</span>
     </span>
   `;
@@ -1630,7 +1620,7 @@ function markRouteRendered(routeKey, routeChanged) {
 }
 
 function menuIcon(section) {
-  return `<span class="nav-icon" style="--icon-url: url('${escapeHtml(versionedAssetPath(section.icon))}')" aria-hidden="true"></span>`;
+  return `<img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="24" height="24" aria-hidden="true">`;
 }
 
 function menuChildren(section) {
@@ -1641,10 +1631,6 @@ function childActive(sectionId, key) {
   if (state.section !== sectionId) return false;
   if (sectionId === "items" || sectionId === "stories") {
     return state.subsection === key;
-  }
-  if (sectionId === "books") {
-    const active = state.filters.books.typeFilters || [];
-    return active.length === 1 && active[0] === key;
   }
   return false;
 }
@@ -1997,15 +1983,6 @@ function renderCatalogTable(config) {
   `;
 }
 
-function syncTypeFilterToggles() {
-  app.querySelectorAll('[data-type-filter-toggle]').forEach(toggle => {
-    const row = toggle.closest(".type-filter-row");
-    const rowInputs = Array.from(row?.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])') || []);
-    const rowChecked = rowInputs.filter(input => input.checked).length;
-    toggle.checked = rowInputs.length > 0 && rowChecked === rowInputs.length;
-    toggle.indeterminate = rowChecked > 0 && rowChecked < rowInputs.length;
-  });
-}
 
 function renderCatalog(config) {
   activeDetail = null;
@@ -2051,7 +2028,6 @@ function renderCatalog(config) {
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
     </section>
   `;
-  syncTypeFilterToggles();
 }
 
 function updateCatalogTable(config = getSectionConfig()) {
@@ -2090,16 +2066,6 @@ function renderBookDetail(book) {
 
       <div id="reader-text-area">${renderTextArea(book)}</div>
 
-      <details class="catalog-meta">
-        <summary>Сведения для каталога и фильтров</summary>
-        <div class="catalog-meta-body">
-          <div><strong>Регион:</strong> ${escapeHtml(book.region || "—")}</div>
-          <div><strong>Частей:</strong> ${escapeHtml(book.volume_count || book.volumes.length)}</div>
-          <div><strong>Языки:</strong> ${(book.languages || []).map(langLabel).join(" · ")}</div>
-          <div class="tag-list">${(book.tags || []).map(tag => `<span class="tiny-pill">#${escapeHtml(tag)}</span>`).join("")}</div>
-        </div>
-      </details>
-
     </section>
   `;
 }
@@ -2122,12 +2088,7 @@ function renderTextArea(book) {
 
     const volumeNote = cleanPublicNote(volumeNotes[volume.number] || "");
     const noteText = volumeNote || (index === 0 ? generalNote : "");
-    const notesBlock = noteText ? `
-        <div class="notes">
-          <div class="notes-title">Заметки Лороведьмы</div>
-          <div class="notes-body">${markdownToHtml(noteText, { allowLists: true })}</div>
-        </div>
-    ` : "";
+    const notesBlock = "";
 
     return `
       <article class="text-card" id="volume-${volume.number}">
@@ -2182,16 +2143,6 @@ function renderArtifactDetail(artifact) {
       ${artifactToolbar}
 
       <div id="reader-text-area">${renderArtifactTextArea(artifact)}</div>
-
-      <details class="catalog-meta">
-        <summary>Сведения для каталога и фильтров</summary>
-        <div class="catalog-meta-body">
-          <div><strong>Регион:</strong> ${escapeHtml(artifact.region || "—")}</div>
-          <div><strong>Частей:</strong> ${escapeHtml(artifact.piece_count || parts.length)}</div>
-          <div><strong>Языки:</strong> ${(artifact.languages || []).map(langLabel).join(" · ")}</div>
-          <div class="tag-list">${(artifact.tags || []).map(tag => `<span class="tiny-pill">#${escapeHtml(tag)}</span>`).join("")}</div>
-        </div>
-      </details>
     </section>
   `;
 }
@@ -2214,12 +2165,7 @@ function renderArtifactTextArea(artifact) {
     ` : "";
 
     const noteText = cleanPublicNote(partNotes[part.key] || "") || (index === 0 ? generalNote : "");
-    const notesBlock = noteText ? `
-        <div class="notes">
-          <div class="notes-title">Заметки Лороведьмы</div>
-          <div class="notes-body">${markdownToHtml(noteText, { allowLists: true })}</div>
-        </div>
-    ` : "";
+    const notesBlock = "";
 
     return `
       <article class="text-card artifact-text-card" id="artifact-part-${escapeHtml(part.key)}">
@@ -2370,17 +2316,6 @@ function renderEnemyDropsDetail(item, config) {
       <div id="reader-text-area">${renderEnemyMaterialsTextArea(item)}</div>
 
       ${item.item_group === "common_enemies" ? renderDroppedBySection(item) : ""}
-
-      <details class="catalog-meta">
-        <summary>Сведения для каталога и фильтров</summary>
-        <div class="catalog-meta-body">
-          <div><strong>Категория:</strong> ${escapeHtml(groupLabel(config, item.item_group) || "—")}</div>
-          <div><strong>Регион:</strong> ${escapeHtml(item.region || "—")}</div>
-          <div><strong>Материалов:</strong> ${escapeHtml(item.material_count || materials.length)}</div>
-          <div><strong>Языки:</strong> ${(item.languages || []).map(langLabel).join(" · ")}</div>
-          <div class="tag-list">${(item.tags || []).map(tag => `<span class="tiny-pill">#${escapeHtml(tag)}</span>`).join("")}</div>
-        </div>
-      </details>
     </section>
   `;
 
@@ -2415,12 +2350,7 @@ function renderEnemyMaterialsTextArea(item) {
     ` : "";
     const iconSize = isCompactMaterialSet ? 104 : 128;
     const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="${iconSize}" height="${iconSize}">` : "";
-    const notesBlock = index === 0 && generalNote ? `
-      <div class="notes">
-        <div class="notes-title">Заметки Лороведьмы</div>
-        <div class="notes-body">${markdownToHtml(generalNote, { allowLists: true })}</div>
-      </div>
-    ` : "";
+    const notesBlock = "";
 
     return `
       <article class="text-card artifact-text-card${isCompactMaterialSet ? " common-enemy-material-card" : ""}" id="item-material-${escapeHtml(material.key)}">
@@ -2504,12 +2434,7 @@ function renderStoryTextArea(story) {
         </div>
       </div>
     ` : "";
-    const notesBlock = index === 0 && generalNote ? `
-      <div class="notes">
-        <div class="notes-title">Заметки Лороведьмы</div>
-        <div class="notes-body">${markdownToHtml(generalNote, { allowLists: true })}</div>
-      </div>
-    ` : "";
+    const notesBlock = "";
 
     return `
       <article class="text-card story-text-card" id="story-part-${escapeHtml(part.number)}">
@@ -2568,12 +2493,7 @@ function renderGenericDetail(item, config) {
 
   const text = localizedEntryText(item) || "Текст этой записи будет добавлен позже.";
   const noteText = genericNotes(item);
-  const notesBlock = noteText ? `
-    <div class="notes">
-      <div class="notes-title">Заметки Лороведьмы</div>
-      <div class="notes-body">${markdownToHtml(noteText, { allowLists: true })}</div>
-    </div>
-  ` : "";
+  const notesBlock = "";
   const isWeapon = config.id === "weapons";
   const isSimpleItem = config.id === "items";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
@@ -2683,12 +2603,6 @@ function handleNavClick(event) {
     const sectionId = child.dataset.menuSection;
     const key = child.dataset.menuKey;
 
-    if (sectionId === "books") {
-      state.filters.books.typeFilters = [key];
-      state.filters.books.page = 1;
-      setRoute("books");
-      return;
-    }
 
     if (sectionId === "items") {
       setRoute("items", null, key);
@@ -2885,26 +2799,14 @@ function handleAppChange(event) {
   if (event.target.matches(".type-filter-chip input")) {
     const options = typeFiltersForCurrentCatalog(config);
     const defaultValues = options.map(typeFilterOptionValue);
-    const currentRow = event.target.closest(".type-filter-row");
+    event.target.closest(".type-filter-chip")?.classList.toggle("is-active", event.target.checked);
 
-    if (event.target.matches("[data-type-filter-toggle]")) {
-      const rowInputs = Array.from(currentRow?.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])') || []);
-      rowInputs.forEach(input => { input.checked = event.target.checked; });
-    }
-
-    const itemInputs = Array.from(app.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])'));
+    const itemInputs = Array.from(app.querySelectorAll('.type-filter-chip input'));
     const checked = itemInputs
       .filter(input => input.checked)
       .map(input => input.value)
       .filter(value => defaultValues.includes(value));
 
-    app.querySelectorAll('[data-type-filter-toggle]').forEach(toggle => {
-      const row = toggle.closest(".type-filter-row");
-      const rowInputs = Array.from(row?.querySelectorAll('.type-filter-chip input:not([data-type-filter-toggle])') || []);
-      const rowChecked = rowInputs.filter(input => input.checked).length;
-      toggle.checked = rowInputs.length > 0 && rowChecked === rowInputs.length;
-      toggle.indeterminate = rowChecked > 0 && rowChecked < rowInputs.length;
-    });
 
     filterState.page = 1;
     if (config.id === "items" || config.id === "stories") {

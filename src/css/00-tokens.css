@@ -17,12 +17,12 @@
   --accent: #5b4a3e;
   --accent-hover: #6f5d50;
   --accent-soft: #d8cec0;
-  --menu-bg: #1f1915;
-  --menu-bg-deep: #15110f;
-  --menu-ink: #fff8ec;
-  --menu-muted: rgba(232, 222, 212, 0.68);
-  --menu-line: rgba(232, 222, 212, 0.12);
-  --menu-active: rgba(232, 222, 212, 0.13);
+  --menu-bg: #241c17;
+  --menu-bg-deep: #120e0c;
+  --menu-ink: #fff4e4;
+  --menu-muted: rgba(255, 244, 228, 0.74);
+  --menu-line: rgba(232, 204, 174, 0.15);
+  --menu-active: rgba(185, 137, 85, 0.20);
   --shadow-soft: 0 18px 48px rgba(0, 0, 0, 0.18);
   --shadow-card: 0 30px 90px rgba(0, 0, 0, 0.32);
   --sidebar-width: 310px;

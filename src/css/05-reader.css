@@ -341,3 +341,10 @@
 .development-material-page .reader-toolbar {
   margin-top: 8px;
 }
+
+
+/* Private catalog notes are not shown on public cards/pages. */
+.catalog-meta,
+.notes {
+  display: none;
+}
