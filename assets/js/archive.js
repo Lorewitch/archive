@@ -198,7 +198,7 @@ const ICON_COLORS = {
   rarity4: "#b293e0",
   rarity3: "#9fd0ed",
   rarity2: "#9dcd75",
-  rarity1: "#c2bbb2",
+  rarity1: "#756f66",
 };
 
 const WEAPON_TYPE_FILTERS = [
@@ -1228,7 +1228,7 @@ function renderMaterialsCell(item) {
   const visible = materials.slice(0, 1);
   const rest = materials.length - visible.length;
   return `
-    <div class="material-list">
+    <div class="material-list${rest > 0 ? " has-more" : ""}">
       ${visible.map(material => {
         const icon = material.icon ? `<img src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="28" height="28">` : "";
         return `<span class="material-chip">${icon}<span>${renderTextWithAttachedBadge(materialTitle(material, "ru"), "")}</span></span>`;
@@ -1304,7 +1304,7 @@ function renderDroppedByCell(item) {
   const rest = enemies.length - visible.length;
 
   return `
-    <div class="dropped-by-catalog-list">
+    <div class="dropped-by-catalog-list${rest > 0 ? " has-more" : ""}">
       ${visible.map(enemy => {
         const icon = enemy.icon ? `<img src="${escapeHtml(versionedAssetPath(enemy.icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
         return `<span class="dropped-by-catalog-chip">${icon}<span>${escapeHtml(titleOf(enemy, "ru"))}</span></span>`;
@@ -2046,7 +2046,7 @@ function renderGroupSelector(config, parentKey = "") {
   activeDetail = null;
   const groups = groupsForSelector(config, parentKey);
   app.innerHTML = `
-    <section class="page-card catalog-page">
+    <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}">
       <div class="group-grid">
         ${groups.map(([key, label, description]) => {
           const count = groupEntryCount(config, key);
@@ -2175,7 +2175,7 @@ function renderCatalog(config) {
   void currentParentGroup;
 
   app.innerHTML = `
-    <section class="page-card catalog-page">
+    <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}">
       <div class="catalog-sticky-head">
         <header class="catalog-top">
           <h1>${escapeHtml(catalogDisplayTitle(config))}</h1>

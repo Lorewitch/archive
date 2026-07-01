@@ -30,10 +30,10 @@
 
 .brand {
   display: grid;
-  grid-template-columns: 54px minmax(0, 1fr);
+  grid-template-columns: 74px minmax(0, 1fr);
   gap: 14px;
   align-items: center;
-  margin-bottom: 34px;
+  margin-bottom: 32px;
 }
 
 .brand-head {
@@ -41,8 +41,8 @@
 }
 
 .brand-mark {
-  width: 54px;
-  height: 54px;
+  width: 74px;
+  height: 82px;
   display: grid;
   place-items: center;
   background: transparent;
@@ -51,15 +51,15 @@
 }
 
 .brand-mark img {
-  width: 42px;
-  height: 42px;
+  width: 70px;
+  height: 82px;
   object-fit: contain;
 }
 
 .brand-title {
   color: var(--menu-ink);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 26px;
+  font-size: 25px;
   font-weight: 600;
   line-height: 1;
   letter-spacing: -0.025em;

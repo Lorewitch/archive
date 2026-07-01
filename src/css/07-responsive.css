@@ -76,6 +76,12 @@
     font-weight: 850;
   }
 
+  .mobile-brand img {
+    width: 30px;
+    height: 35px;
+    object-fit: contain;
+  }
+
   .archive-layout {
     grid-template-columns: 0 0 minmax(0, 1fr);
   }
@@ -94,6 +100,11 @@
   .content-card,
   .content-rail {
     height: calc(100dvh - 76px);
+  }
+
+  .to-top-button {
+    right: calc(10px + var(--content-rail-width) + 8px);
+    bottom: 12px;
   }
 
 
