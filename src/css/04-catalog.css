@@ -109,7 +109,7 @@
 .select:focus,
 .pagination-size select:focus {
   outline: 0;
-  box-shadow: inset 3px 0 0 rgba(91, 74, 62, 0.55);
+  box-shadow: none;
 }
 
 .search-symbol,
@@ -835,7 +835,7 @@
   min-height: 148px;
   min-width: 0;
   padding: 16px 18px 20px;
-  background: linear-gradient(145deg, #5a4c42 0%, #483b33 56%, #332a25 100%);
+  background: #5a4c42;
   color: #f6eddf;
   border: 0;
   border-radius: 0;
@@ -850,12 +850,12 @@
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: radial-gradient(circle at 12% 0%, rgba(255, 255, 255, 0.075), transparent 34%);
+  background: none;
 }
 
 .catalog-card:hover {
   transform: translateY(-2px);
-  background: linear-gradient(145deg, #625348 0%, #504238 58%, #3a302a 100%);
+  background: #625348;
   filter: saturate(1.02);
 }
 
@@ -1033,12 +1033,18 @@
 }
 
 .catalog-card-meta-item.has-chip-list {
+  display: flex;
   flex: 1 1 100%;
   width: 100%;
+  min-width: 0;
 }
 
 .catalog-card-meta-item.has-chip-list .catalog-card-meta-value {
+  display: flex;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
   width: 100%;
+  min-width: 0;
 }
 
 .catalog-card-meta-item.has-chip-list .material-list,
@@ -1046,11 +1052,13 @@
 .catalog-card-meta-item.has-chip-list .common-enemy-type-list,
 .catalog-card-meta-item.has-chip-list .story-element-list {
   display: flex;
-  flex: 1 1 100%;
+  flex: 1 1 auto;
   flex-wrap: wrap;
   width: 100%;
   min-width: 0;
+  max-width: 100%;
   align-items: center;
+  overflow: visible;
 }
 
 .catalog-more-pill {
@@ -1079,8 +1087,10 @@
 .catalog-card-meta-value .material-chip,
 .catalog-card-meta-value .dropped-by-catalog-chip,
 .catalog-card-meta-value .common-enemy-type-chip {
-  flex: 0 0 auto;
+  flex: 0 1 auto;
+  width: auto;
   max-width: 100%;
+  min-width: 0;
 }
 
 .catalog-card-meta-value .material-chip span,

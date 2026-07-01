@@ -190,11 +190,11 @@ const ICON_COLORS = {
   witchcraft: "#d690d6",
   lunar_reactions: "#72c7dc",
   star_blade: "#d7b35a",
-  sword: "#d8cec0",
-  claymore: "#d8cec0",
-  bow: "#d8cec0",
-  catalyst: "#d8cec0",
-  polearm: "#d8cec0",
+  sword: "#4a3327",
+  claymore: "#4a3327",
+  bow: "#4a3327",
+  catalyst: "#4a3327",
+  polearm: "#4a3327",
   rarity5: "#f0b45e",
   rarity4: "#b293e0",
   rarity3: "#9fd0ed",
@@ -1220,25 +1220,7 @@ function materialTitle(material, lang = "ru") {
 function renderCommonEnemyMaterialsCell(item) {
   const materials = Array.isArray(item?.materials) ? item.materials : [];
   if (!materials.length) return "—";
-
-  const versionBadge = renderGameVersionBadge(item);
-
-  return `
-    <div class="catalog-material-plain-list">
-      ${materials.map((material, index) => {
-        const icon = material.icon ? `<img src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="38" height="38">` : "";
-        return `
-          <div class="catalog-material-plain-item">
-            ${icon}
-            <span class="catalog-material-plain-text">
-              <span class="catalog-material-plain-ru"><span class="catalog-material-title-label">${renderTextWithAttachedBadge(materialTitle(material, "ru"), index === 0 ? versionBadge : "")}</span></span>
-              <span class="catalog-material-plain-sub">${escapeHtml([materialTitle(material, "en"), materialTitle(material, "zh")].filter(Boolean).join(" · "))}</span>
-            </span>
-          </div>
-        `;
-      }).join("")}
-    </div>
-  `;
+  return renderMaterialsCell(item);
 }
 
 function renderMaterialsCell(item) {
@@ -1250,7 +1232,7 @@ function renderMaterialsCell(item) {
     <div class="material-list">
       ${visible.map(material => {
         const icon = material.icon ? `<img src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="28" height="28">` : "";
-        return `<span class="material-chip">${icon}<span>${escapeHtml(materialTitle(material, "ru"))}</span></span>`;
+        return `<span class="material-chip">${icon}<span>${renderTextWithAttachedBadge(materialTitle(material, "ru"), "")}</span></span>`;
       }).join("")}
       ${rest > 0 ? `<span class="tiny-pill catalog-more-pill">+${rest}</span>` : ""}
     </div>
@@ -1940,6 +1922,44 @@ function renderCatalogCardMedia(item) {
   `;
 }
 
+const CATALOG_CARD_FIELD_RULES = {
+  default: {
+    hidden: ["редкость", "регион", "тип противника", "тип материала"],
+    labels: [],
+    chipColumns: ["материалы", "выпадает с", "элемент", "категория"],
+  },
+  books: {
+    hidden: ["регион"],
+    labels: ["частей"],
+    chipColumns: [],
+  },
+  artifacts: {
+    hidden: ["регион", "частей"],
+    labels: [],
+  },
+};
+
+function catalogCardFieldRules(config) {
+  const specific = CATALOG_CARD_FIELD_RULES[config?.id] || {};
+  const base = CATALOG_CARD_FIELD_RULES.default;
+  return {
+    hidden: new Set([...(base.hidden || []), ...(specific.hidden || [])]),
+    labels: new Set([...(base.labels || []), ...(specific.labels || [])]),
+    chipColumns: new Set([...(base.chipColumns || []), ...(specific.chipColumns || [])]),
+  };
+}
+
+function catalogCardFieldDefinition(column, config) {
+  const normalized = normalizeCatalogCardMetaColumn(column);
+  const rules = catalogCardFieldRules(config);
+  return {
+    key: normalized,
+    hidden: rules.hidden.has(normalized) || (normalized === "частей" && config?.id !== "books"),
+    keepLabel: rules.labels.has(normalized),
+    chipLike: rules.chipColumns.has(normalized),
+  };
+}
+
 function catalogCellHasContent(cell) {
   const html = String(cell || "").trim();
   if (!html) return false;
@@ -1961,15 +1981,11 @@ function normalizeCatalogCardMetaColumn(column) {
 }
 
 function catalogCardMetaColumnIsHidden(column, config) {
-  const normalized = normalizeCatalogCardMetaColumn(column);
-  if (["редкость", "регион", "тип противника", "тип материала"].includes(normalized)) return true;
-  if (normalized === "частей" && config?.id !== "books") return true;
-  return false;
+  return catalogCardFieldDefinition(column, config).hidden;
 }
 
 function catalogCardMetaColumnKeepsLabel(column, config) {
-  const normalized = normalizeCatalogCardMetaColumn(column);
-  return config?.id === "books" && normalized === "частей";
+  return catalogCardFieldDefinition(column, config).keepLabel;
 }
 
 function renderCatalogCardMeta(item, config) {
@@ -1981,7 +1997,8 @@ function renderCatalogCardMeta(item, config) {
     const cell = cells[index + 1] || "";
     if (!catalogCellHasContent(cell)) return "";
     const keepLabel = catalogCardMetaColumnKeepsLabel(column, config);
-    const chipListClass = /class="(?:material-list|dropped-by-catalog-list|common-enemy-type-list|story-element-list)"/.test(cell) ? "has-chip-list" : "";
+    const field = catalogCardFieldDefinition(column, config);
+    const chipListClass = field.chipLike || /class="(?:material-list|catalog-material-plain-list|dropped-by-catalog-list|common-enemy-type-list|story-element-list)"/.test(cell) ? "has-chip-list" : "";
     return `
       <span class="catalog-card-meta-item ${keepLabel ? "has-label" : "is-value-only"} ${chipListClass}">
         ${keepLabel ? `<span class="catalog-card-meta-label">${escapeHtml(column)}</span>` : ""}
@@ -2028,17 +2045,8 @@ function groupDescription(config, groupKey) {
 function renderGroupSelector(config, parentKey = "") {
   activeDetail = null;
   const groups = groupsForSelector(config, parentKey);
-  const title = parentKey ? groupLabel(config, parentKey) : config.title;
-  const description = parentKey ? groupDescription(config, parentKey) : config.description;
-  const backButton = parentKey ? `<button class="back-link" id="back-groups" type="button">← Назад к разделам</button>` : "";
-
   app.innerHTML = `
     <section class="page-card catalog-page">
-      ${backButton}
-      <div class="page-head">
-        <h1>${escapeHtml(title)}</h1>
-        <p class="lead">${escapeHtml(description)}</p>
-      </div>
       <div class="group-grid">
         ${groups.map(([key, label, description]) => {
           const count = groupEntryCount(config, key);
@@ -2137,9 +2145,8 @@ function resetCatalogFilters(config = currentCatalogConfig()) {
 }
 
 function renderCatalogFilterReset(config = currentCatalogConfig()) {
-  const hasFilters = optionsFor(config).length || typeFiltersForCurrentCatalog(config).length;
-  if (!hasFilters) return "";
-  return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры" ${hasActiveCatalogFilters(config) ? "" : "disabled"}><span aria-hidden="true">🗑</span></button>`;
+  if (!hasActiveCatalogFilters(config)) return "";
+  return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры"><span aria-hidden="true">🗑</span></button>`;
 }
 
 function renderCatalog(config) {
@@ -2152,21 +2159,12 @@ function renderCatalog(config) {
     filterState.filter = "all";
   }
   const subsectionTitle = state.subsection ? groupLabel(config, state.subsection) : "";
+  const currentParentGroup = state.subsection ? parentGroupFor(config, state.subsection) : "";
+  void subsectionTitle;
+  void currentParentGroup;
 
   app.innerHTML = `
     <section class="page-card catalog-page">
-      <div class="page-head">
-        <h1>${escapeHtml(subsectionTitle || config.title)}</h1>
-        <p class="lead">${escapeHtml(subsectionTitle ? config.description : config.description)}</p>
-      </div>
-
-      ${config.groups && state.subsection ? `
-        <div class="catalog-subhead">
-          <button class="back-link" id="back-groups" type="button">${escapeHtml(parentGroupFor(config, state.subsection) ? `← Назад к разделу «${groupLabel(config, parentGroupFor(config, state.subsection))}»` : "← Назад к разделам")}</button>
-          <div class="catalog-subtitle">${escapeHtml([config.title, parentGroupFor(config, state.subsection) ? groupLabel(config, parentGroupFor(config, state.subsection)) : "", subsectionTitle].filter(Boolean).join(" / "))}</div>
-        </div>
-      ` : ""}
-
       <div class="toolbar">
         <div class="catalog-search-bar">
           <label class="search" aria-label="Поиск">

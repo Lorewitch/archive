@@ -1,6 +1,6 @@
 :root {
-  --bg: #1f1814;
-  --page-bg-paint: linear-gradient(135deg, #2b211c 0%, #241b17 58%, #1a1411 100%);
+  --bg: #17100d;
+  --page-bg-paint: linear-gradient(135deg, #241a14 0%, #1b120e 54%, #120c09 100%);
   --surface: rgba(246, 242, 235, 0.94);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
@@ -13,13 +13,13 @@
   --accent: #6b5747;
   --accent-hover: #806a58;
   --accent-soft: #d8cec0;
-  --menu-bg: #241b17;
-  --menu-bg-deep: #1a1411;
+  --menu-bg: #1d1511;
+  --menu-bg-deep: #120c09;
   --menu-ink: #fff1df;
   --menu-muted: rgba(255, 241, 223, 0.76);
   --menu-line: rgba(246, 237, 223, 0.12);
-  --menu-active: rgba(246, 237, 223, 0.075);
-  --menu-active-bar: #c09d71;
+  --menu-active: rgba(95, 76, 63, 0.44);
+  --menu-active-bar: #b58d61;
   --shadow-soft: none;
   --shadow-card: none;
   --sidebar-width: 310px;

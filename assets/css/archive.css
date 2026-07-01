@@ -4,8 +4,8 @@
 */
 
 :root {
-  --bg: #1f1814;
-  --page-bg-paint: linear-gradient(135deg, #2b211c 0%, #241b17 58%, #1a1411 100%);
+  --bg: #17100d;
+  --page-bg-paint: linear-gradient(135deg, #241a14 0%, #1b120e 54%, #120c09 100%);
   --surface: rgba(246, 242, 235, 0.94);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
@@ -18,13 +18,13 @@
   --accent: #6b5747;
   --accent-hover: #806a58;
   --accent-soft: #d8cec0;
-  --menu-bg: #241b17;
-  --menu-bg-deep: #1a1411;
+  --menu-bg: #1d1511;
+  --menu-bg-deep: #120c09;
   --menu-ink: #fff1df;
   --menu-muted: rgba(255, 241, 223, 0.76);
   --menu-line: rgba(246, 237, 223, 0.12);
-  --menu-active: rgba(246, 237, 223, 0.075);
-  --menu-active-bar: #c09d71;
+  --menu-active: rgba(95, 76, 63, 0.44);
+  --menu-active-bar: #b58d61;
   --shadow-soft: none;
   --shadow-card: none;
   --sidebar-width: 310px;
@@ -272,7 +272,7 @@ a {
   height: 100dvh;
   min-height: 0;
   background-color: var(--menu-bg-deep);
-  background-image: linear-gradient(180deg, #2b211c 0%, #241b17 58%, #1a1411 100%);
+  background-image: linear-gradient(180deg, #281e18 0%, #1d1511 58%, #120c09 100%);
   border-right: 1px solid var(--menu-line);
   box-shadow: none;
   color: var(--menu-ink);
@@ -570,7 +570,7 @@ a {
 .select:focus,
 .pagination-size select:focus {
   outline: 0;
-  box-shadow: inset 3px 0 0 rgba(91, 74, 62, 0.55);
+  box-shadow: none;
 }
 
 .search-symbol,
@@ -1296,7 +1296,7 @@ a {
   min-height: 148px;
   min-width: 0;
   padding: 16px 18px 20px;
-  background: linear-gradient(145deg, #5a4c42 0%, #483b33 56%, #332a25 100%);
+  background: #5a4c42;
   color: #f6eddf;
   border: 0;
   border-radius: 0;
@@ -1311,12 +1311,12 @@ a {
   inset: 0;
   z-index: -1;
   pointer-events: none;
-  background: radial-gradient(circle at 12% 0%, rgba(255, 255, 255, 0.075), transparent 34%);
+  background: none;
 }
 
 .catalog-card:hover {
   transform: translateY(-2px);
-  background: linear-gradient(145deg, #625348 0%, #504238 58%, #3a302a 100%);
+  background: #625348;
   filter: saturate(1.02);
 }
 
@@ -1494,12 +1494,18 @@ a {
 }
 
 .catalog-card-meta-item.has-chip-list {
+  display: flex;
   flex: 1 1 100%;
   width: 100%;
+  min-width: 0;
 }
 
 .catalog-card-meta-item.has-chip-list .catalog-card-meta-value {
+  display: flex;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
   width: 100%;
+  min-width: 0;
 }
 
 .catalog-card-meta-item.has-chip-list .material-list,
@@ -1507,11 +1513,13 @@ a {
 .catalog-card-meta-item.has-chip-list .common-enemy-type-list,
 .catalog-card-meta-item.has-chip-list .story-element-list {
   display: flex;
-  flex: 1 1 100%;
+  flex: 1 1 auto;
   flex-wrap: wrap;
   width: 100%;
   min-width: 0;
+  max-width: 100%;
   align-items: center;
+  overflow: visible;
 }
 
 .catalog-more-pill {
@@ -1540,8 +1548,10 @@ a {
 .catalog-card-meta-value .material-chip,
 .catalog-card-meta-value .dropped-by-catalog-chip,
 .catalog-card-meta-value .common-enemy-type-chip {
-  flex: 0 0 auto;
+  flex: 0 1 auto;
+  width: auto;
   max-width: 100%;
+  min-width: 0;
 }
 
 .catalog-card-meta-value .material-chip span,
@@ -2287,7 +2297,7 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .search input:focus {
-    box-shadow: inset 0 0 0 2px rgba(91, 74, 62, 0.55);
+    box-shadow: inset 0 0 0 2px rgba(91, 74, 62, 0);
   }
 
   .search input,
