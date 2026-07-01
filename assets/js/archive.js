@@ -2133,10 +2133,7 @@ function hasActiveCatalogFilters(config = currentCatalogConfig()) {
 }
 
 function catalogHasFilterControls(config = currentCatalogConfig()) {
-  return Boolean(
-    optionsFor(config).length ||
-    typeFiltersForCurrentCatalog(config).length
-  );
+  return Boolean(typeFiltersForCurrentCatalog(config).length);
 }
 
 function resetCatalogFilters(config = currentCatalogConfig()) {
