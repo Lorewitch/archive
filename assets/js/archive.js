@@ -1265,9 +1265,10 @@ function renderReaderCornerControls(...blocks) {
 function renderReaderTabBlock(label, buttonsMarkup, options = {}) {
   if (!buttonsMarkup) return "";
   const rowClass = ["parts-row", "reader-tabs-row", options.className || ""].filter(Boolean).join(" ");
+  const labelMarkup = label ? `<span class="toolbar-label">${escapeHtml(label)}</span>` : "";
   return `
     <div class="${escapeHtml(rowClass)}">
-      <span class="toolbar-label">${escapeHtml(label)}</span>
+      ${labelMarkup}
       <div class="volume-scroll reader-section-scroll">
         ${buttonsMarkup}
       </div>
@@ -2686,7 +2687,8 @@ function storyReplicaParts(item) {
 
 function storyContentTypes(item) {
   const types = [{ key: "stories", label: { ru: "Истории", en: "Stories", zh: "故事" } }];
-  if (storyReplicaParts(item).length) {
+  const hasReplicas = storyReplicaParts(item).length > 0;
+  if (hasReplicas || isCharacterStoryEntry(item)) {
     types.push({ key: "replicas", label: { ru: "Реплики", en: "Voice-Overs", zh: "语音" } });
   }
   return types;
@@ -2725,6 +2727,23 @@ function renderStoryTextArea(story) {
   const contentType = activeStoryContentType(story);
   const parts = storyContentParts(story, contentType);
   normalizeActiveStoryPart(parts);
+
+  if (!parts.length) {
+    const emptyTitle = contentType === "replicas" ? "Реплики" : "Истории";
+    const emptyText = contentType === "replicas"
+      ? "Реплики для этого персонажа пока не добавлены."
+      : "Истории для этой записи пока не добавлены.";
+
+    return `
+      <article class="text-card story-text-card story-empty-card">
+        <div class="volume-title">
+          <div class="volume-title-main"><h3>${emptyTitle}</h3></div>
+        </div>
+        <div class="prose"><p>${emptyText}</p></div>
+      </article>
+    `;
+  }
+
   const visibleParts = state.storyReadAll ? parts : parts.filter(part => Number(part.number) === Number(state.storyPart));
 
   return visibleParts.map(part => {
@@ -2765,7 +2784,7 @@ function renderStoryDetail(story, config) {
     : "";
   const cornerControls = renderReaderCornerControls(contentTypeButtons, readAllButton);
   const controls = renderReaderControls(
-    renderReaderTabBlock(contentType === "replicas" ? "Реплики" : "Разделы", partButtons, { className: "story-inner-tabs-row" })
+    renderReaderTabBlock("", partButtons, { className: "story-inner-tabs-row" })
   );
 
   app.innerHTML = `
