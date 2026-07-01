@@ -2296,7 +2296,11 @@ a {
 }
 
 .reader-corner-controls .mode-button,
+.reader-corner-controls .reader-content-type-button,
 .reader-corner-controls .lang-switch button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   height: var(--reader-corner-row-height);
   min-height: var(--reader-corner-row-height);
   padding: 0 16px;
@@ -2311,8 +2315,21 @@ a {
   white-space: nowrap;
 }
 
+.reader-corner-controls .mode-button {
+  flex: 0 0 188px;
+  width: 188px;
+  min-width: 188px;
+}
+
+.reader-corner-controls .reader-content-type-button {
+  flex: 0 0 auto;
+  min-width: 96px;
+}
+
 .reader-corner-controls .mode-button:hover,
 .reader-corner-controls .mode-button.active,
+.reader-corner-controls .reader-content-type-button:hover,
+.reader-corner-controls .reader-content-type-button.active,
 .reader-corner-controls .lang-switch button:hover,
 .reader-corner-controls .lang-switch button.active {
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 56%, var(--card-bg));
@@ -2333,8 +2350,8 @@ a {
 
 .reader-head-main {
   display: grid;
-  grid-template-columns: 80px minmax(0, 1fr);
-  gap: 16px;
+  grid-template-columns: 116px minmax(0, 1fr);
+  gap: 18px;
   align-items: center;
   min-width: 0;
 }
@@ -2342,10 +2359,10 @@ a {
 .reader-head-icon,
 .reader-head-icon.story-detail-icon {
   display: block;
-  width: 72px;
-  height: 72px;
+  width: 108px;
+  height: 108px;
   object-fit: contain;
-  background: var(--icon-bg, rgba(216, 206, 192, 0.72));
+  background: rgba(216, 206, 192, 0.72);
   border: 1px solid rgba(91, 74, 62, 0.16);
   margin: 0;
 }
@@ -2366,7 +2383,7 @@ a {
 .reader-head-titles h1 {
   margin: 0;
   color: var(--text-dark, var(--ink));
-  font-size: clamp(24px, 2.15vw, 34px);
+  font-size: clamp(28px, 2.75vw, 42px);
   font-weight: 780;
   line-height: 1.08;
   letter-spacing: 0.025em;
@@ -2407,6 +2424,39 @@ a {
 .reader-tabs-row .volume-scroll {
   flex: 1 1 auto;
   min-width: 0;
+}
+
+.reader-tabs-row .reader-section-scroll {
+  gap: 8px;
+  padding-bottom: 8px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--rail-thumb) rgba(86, 81, 72, 0.12);
+}
+
+.reader-tabs-row .reader-section-scroll::-webkit-scrollbar {
+  display: block;
+  width: 7px;
+  height: 7px;
+}
+
+.reader-tabs-row .reader-section-scroll::-webkit-scrollbar-track {
+  background: rgba(86, 81, 72, 0.12);
+}
+
+.reader-tabs-row .reader-section-scroll::-webkit-scrollbar-thumb {
+  background: var(--rail-thumb);
+}
+
+.reader-tabs-row .reader-section-scroll::-webkit-scrollbar-thumb:hover {
+  background: var(--rail-thumb-hover);
+}
+
+.story-inner-tabs-row {
+  align-items: flex-start;
+}
+
+.story-inner-tabs-row .toolbar-label {
+  padding-top: 10px;
 }
 
 .reader-lang-control {
@@ -2986,11 +3036,22 @@ html.is-mobile-landscape .content {
 
   .reader-head-nav .back-link,
   .reader-corner-controls .mode-button,
+  .reader-corner-controls .reader-content-type-button,
   .reader-corner-controls .lang-switch button {
     height: var(--reader-corner-row-height);
     min-height: var(--reader-corner-row-height);
     padding: 0 10px;
     font-size: 11px;
+  }
+
+  .reader-corner-controls .mode-button {
+    flex-basis: 150px;
+    width: 150px;
+    min-width: 150px;
+  }
+
+  .reader-corner-controls .reader-content-type-button {
+    min-width: 78px;
   }
 
   .reader-corner-controls {
@@ -3006,20 +3067,20 @@ html.is-mobile-landscape .content {
   }
 
   .reader-head-main {
-    grid-template-columns: 76px minmax(0, 1fr);
+    grid-template-columns: 84px minmax(0, 1fr);
     gap: 13px;
     text-align: left;
   }
 
   .reader-head-icon,
   .reader-head-icon.story-detail-icon {
-    width: 72px;
-    height: 72px;
+    width: 80px;
+    height: 80px;
     margin: 0;
   }
 
   .reader-head-titles h1 {
-    font-size: clamp(22px, 8vw, 32px);
+    font-size: clamp(22px, 7vw, 32px);
     letter-spacing: 0.025em;
   }
 

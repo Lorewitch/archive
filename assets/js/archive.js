@@ -1262,12 +1262,13 @@ function renderReaderCornerControls(...blocks) {
   `;
 }
 
-function renderReaderTabBlock(label, buttonsMarkup) {
+function renderReaderTabBlock(label, buttonsMarkup, options = {}) {
   if (!buttonsMarkup) return "";
+  const rowClass = ["parts-row", "reader-tabs-row", options.className || ""].filter(Boolean).join(" ");
   return `
-    <div class="parts-row reader-tabs-row">
+    <div class="${escapeHtml(rowClass)}">
       <span class="toolbar-label">${escapeHtml(label)}</span>
-      <div class="volume-scroll">
+      <div class="volume-scroll reader-section-scroll">
         ${buttonsMarkup}
       </div>
     </div>
@@ -1292,7 +1293,7 @@ function renderReaderStickyHead(item, options = {}) {
     entryRarityBackgroundClass(item),
   ].filter(Boolean).join(" ");
   const iconMarkup = icon
-    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="72" height="72">`
+    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="108" height="108">`
     : `<span class="reader-head-icon reader-head-icon-placeholder" aria-hidden="true">⌁</span>`;
   const englishTitle = detailTitleVariant(item, "en");
   const chineseTitle = detailTitleVariant(item, "zh");
@@ -1602,31 +1603,9 @@ function catalogBackTarget(config, groupKey = state.subsection) {
 }
 
 function catalogBackLabel(config, groupKey = state.subsection) {
-  if (config.id === "books") return "← Назад к списку книг";
-  if (config.id === "artifacts") return "← Назад к списку артефактов";
-  if (config.id === "weapons") return "← Назад к списку оружия";
-
-  if (config.id === "items") {
-    const labels = {
-      weekly_bosses: "еженедельных боссов",
-      world_bosses: "мировых боссов",
-      common_enemies: "обычных противников",
-      development_materials: "материалов развития",
-      teyvat_resources: "ресурсов Тейвата",
-      serenitea_pot: "Чайника Безмятежности",
-      useful_items: "полезных предметов",
-      misc: "прочего",
-    };
-    return `← Назад к списку ${labels[groupKey] || "предметов"}`;
-  }
-
-  if (config.id === "stories") {
-    const parent = parentGroupFor(config, groupKey);
-    if (parent) return `← Назад к разделу «${groupLabel(config, parent)}»`;
-    return `← Назад к списку ${String(groupLabel(config, groupKey) || "историй").toLocaleLowerCase("ru-RU")}`;
-  }
-
-  return `← Назад к списку ${String(config.title || "каталога").toLocaleLowerCase("ru-RU")}`;
+  void config;
+  void groupKey;
+  return "← Назад к спискам";
 }
 
 function routeHash(section, entryId = null, subsection = null) {
@@ -2342,7 +2321,7 @@ function renderBookDetail(book) {
       ${renderReaderStickyHead(book, {
         className: "book-detail-head",
         backId: "back-books",
-        backLabel: "← Назад к списку книг",
+        backLabel: "← Назад к спискам",
         cornerControls,
         controls,
       })}
@@ -2406,7 +2385,7 @@ function renderArtifactDetail(artifact) {
       ${renderReaderStickyHead(artifact, {
         className: "artifact-detail-head",
         backId: "back-artifacts",
-        backLabel: "← Назад к списку артефактов",
+        backLabel: "← Назад к спискам",
         cornerControls,
         controls,
       })}
@@ -2779,15 +2758,14 @@ function renderStoryDetail(story, config) {
   const showPartToolbar = parts.length > 1;
   const partButtons = showPartToolbar ? parts.map(part => `<button type="button" data-story-part="${escapeHtml(part.number)}" class="${!state.storyReadAll && Number(state.storyPart) === Number(part.number) ? "active" : ""}">${escapeHtml(storyPartTitle(part))}</button>`).join("") : "";
   const contentTypeButtons = contentTypes.length > 1
-    ? contentTypes.map(type => `<button type="button" data-story-content="${escapeHtml(type.key)}" class="${contentType === type.key ? "active" : ""}">${escapeHtml(localizedStoryField(type.label))}</button>`).join("")
+    ? contentTypes.map(type => `<button class="reader-content-type-button ${contentType === type.key ? "active" : ""}" type="button" data-story-content="${escapeHtml(type.key)}">${escapeHtml(localizedStoryField(type.label))}</button>`).join("")
     : "";
   const readAllButton = showPartToolbar
     ? `<button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? (contentType === "replicas" ? "Читать по репликам" : "Читать по разделам") : (contentType === "replicas" ? "Читать все реплики" : "Читать всё подряд")}</button>`
     : "";
-  const cornerControls = renderReaderCornerControls(readAllButton);
+  const cornerControls = renderReaderCornerControls(contentTypeButtons, readAllButton);
   const controls = renderReaderControls(
-    contentTypeButtons ? renderReaderTabBlock("Материал", contentTypeButtons) : "",
-    renderReaderTabBlock(contentType === "replicas" ? "Реплики" : "Разделы", partButtons)
+    renderReaderTabBlock(contentType === "replicas" ? "Реплики" : "Разделы", partButtons, { className: "story-inner-tabs-row" })
   );
 
   app.innerHTML = `

@@ -419,11 +419,22 @@ html.is-mobile-landscape .content {
 
   .reader-head-nav .back-link,
   .reader-corner-controls .mode-button,
+  .reader-corner-controls .reader-content-type-button,
   .reader-corner-controls .lang-switch button {
     height: var(--reader-corner-row-height);
     min-height: var(--reader-corner-row-height);
     padding: 0 10px;
     font-size: 11px;
+  }
+
+  .reader-corner-controls .mode-button {
+    flex-basis: 150px;
+    width: 150px;
+    min-width: 150px;
+  }
+
+  .reader-corner-controls .reader-content-type-button {
+    min-width: 78px;
   }
 
   .reader-corner-controls {
@@ -439,20 +450,20 @@ html.is-mobile-landscape .content {
   }
 
   .reader-head-main {
-    grid-template-columns: 76px minmax(0, 1fr);
+    grid-template-columns: 84px minmax(0, 1fr);
     gap: 13px;
     text-align: left;
   }
 
   .reader-head-icon,
   .reader-head-icon.story-detail-icon {
-    width: 72px;
-    height: 72px;
+    width: 80px;
+    height: 80px;
     margin: 0;
   }
 
   .reader-head-titles h1 {
-    font-size: clamp(22px, 8vw, 32px);
+    font-size: clamp(22px, 7vw, 32px);
     letter-spacing: 0.025em;
   }
 
