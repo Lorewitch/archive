@@ -1,6 +1,6 @@
 :root {
-  --bg: #302821;
-  --page-bg-paint: linear-gradient(135deg, #5a4c42 0%, #483b33 54%, #332a25 100%);
+  --bg: #1f1814;
+  --page-bg-paint: linear-gradient(135deg, #2b211c 0%, #241b17 58%, #1a1411 100%);
   --surface: rgba(246, 242, 235, 0.94);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
@@ -13,13 +13,13 @@
   --accent: #6b5747;
   --accent-hover: #806a58;
   --accent-soft: #d8cec0;
-  --menu-bg: #483b33;
-  --menu-bg-deep: #332a25;
+  --menu-bg: #241b17;
+  --menu-bg-deep: #1a1411;
   --menu-ink: #fff1df;
   --menu-muted: rgba(255, 241, 223, 0.76);
   --menu-line: rgba(246, 237, 223, 0.12);
-  --menu-active: rgba(246, 237, 223, 0.10);
-  --menu-active-bar: #d8b06f;
+  --menu-active: rgba(246, 237, 223, 0.075);
+  --menu-active-bar: #c09d71;
   --shadow-soft: none;
   --shadow-card: none;
   --sidebar-width: 310px;
@@ -35,7 +35,7 @@
   --radius-control: 0;
   --rail-thumb: #b29a84;
   --rail-thumb-hover: #d2b891;
-  --rail-track: rgba(246, 237, 223, 0.12);
+  --rail-track: rgba(246, 237, 223, 0.09);
   --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
   --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
   --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);

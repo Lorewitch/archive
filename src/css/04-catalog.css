@@ -56,13 +56,18 @@
   line-height: 1.45;
 }
 
-.toolbar,
+.toolbar {
+  display: grid;
+  gap: 12px;
+  margin: 0 0 14px;
+}
+
+.catalog-search-bar,
 .search-panel {
   display: grid;
   grid-template-columns: minmax(0, 1fr) max-content;
   gap: 12px;
   align-items: center;
-  margin: 0 0 14px;
   padding: 14px;
   background: rgba(232, 222, 212, 0.48);
   border: 1px solid rgba(91, 74, 62, 0.16);
@@ -133,15 +138,16 @@
 .toolbar-filters {
   display: flex;
   align-items: center;
-  gap: 8px;
-  grid-column: 1 / -1;
+  justify-content: flex-start;
+  gap: 10px;
   min-width: 0;
+  padding: 0 2px;
 }
 
 .toolbar-filters .type-filter-row,
 .toolbar-filters .type-filter-stack,
 .toolbar-filters .filter-row {
-  flex: 1 1 auto;
+  flex: 0 1 auto;
   grid-column: auto;
   min-width: 0;
 }
@@ -164,7 +170,7 @@
 .filter-row {
   display: flex;
   flex-wrap: nowrap;
-  gap: 7px;
+  gap: 9px;
   grid-column: 1 / -1;
   align-items: center;
   max-width: 100%;
@@ -176,18 +182,22 @@
 .type-filter-stack {
   display: flex;
   flex-wrap: nowrap;
-  gap: 7px;
+  gap: 9px;
   grid-column: 1 / -1;
 }
 
 
 .filter-reset-button {
-  min-height: 36px;
-  padding: 8px 13px;
-  color: #f0dfc8;
-  background: rgba(91, 74, 62, 0.22);
-  border: 1px solid rgba(216, 176, 126, 0.28);
-  font-size: 13px;
+  flex: 0 0 auto;
+  width: 42px;
+  height: 42px;
+  min-height: 42px;
+  margin-left: 8px;
+  padding: 0;
+  color: #e9d8c2;
+  background: rgba(52, 41, 34, 0.72);
+  border: 0;
+  font-size: 18px;
   font-weight: 820;
   line-height: 1;
   white-space: nowrap;
@@ -195,7 +205,7 @@
 
 .filter-reset-button:hover {
   color: #fff1df;
-  background: rgba(128, 106, 88, 0.34);
+  background: rgba(72, 57, 47, 0.86);
 }
 
 .filter-reset-button:disabled {
@@ -234,14 +244,14 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 7px;
-  min-height: 30px;
-  padding: 6px 10px;
+  gap: 8px;
+  min-height: 36px;
+  padding: 8px 12px;
   background: rgba(91, 74, 62, 0.08);
   color: var(--muted);
   border: 0;
-  font-size: 12px;
-  font-weight: 780;
+  font-size: 13px;
+  font-weight: 800;
   line-height: 1.25;
 }
 
@@ -280,18 +290,18 @@
 }
 
 .type-filter-chip.has-icon {
-  width: 36px;
-  height: 36px;
-  min-width: 36px;
-  min-height: 36px;
-  padding: 6px;
+  width: 42px;
+  height: 42px;
+  min-width: 42px;
+  min-height: 42px;
+  padding: 7px;
   background: transparent;
   color: var(--filter-color, var(--accent-soft));
   box-shadow: none;
 }
 
 .type-filter-chip.has-icon:hover {
-  background: rgba(91, 74, 62, 0.10);
+  background: rgba(91, 74, 62, 0.12);
   color: var(--filter-color, var(--accent-soft));
 }
 
@@ -323,8 +333,8 @@
 .rarity-icon,
 .element-icon {
   display: block;
-  width: 24px;
-  height: 24px;
+  width: 28px;
+  height: 28px;
   background-color: var(--filter-color, currentColor);
   background-image: none;
   -webkit-mask-repeat: no-repeat;
@@ -1022,6 +1032,34 @@
   color: rgba(246, 237, 223, 0.9);
 }
 
+.catalog-card-meta-item.has-chip-list {
+  flex: 1 1 100%;
+  width: 100%;
+}
+
+.catalog-card-meta-item.has-chip-list .catalog-card-meta-value {
+  width: 100%;
+}
+
+.catalog-card-meta-item.has-chip-list .material-list,
+.catalog-card-meta-item.has-chip-list .dropped-by-catalog-list,
+.catalog-card-meta-item.has-chip-list .common-enemy-type-list,
+.catalog-card-meta-item.has-chip-list .story-element-list {
+  display: flex;
+  flex: 1 1 100%;
+  flex-wrap: wrap;
+  width: 100%;
+  min-width: 0;
+  align-items: center;
+}
+
+.catalog-more-pill {
+  flex: 0 0 auto;
+  color: rgba(246, 237, 223, 0.84);
+  background: rgba(255, 255, 255, 0.09);
+  border: 0;
+}
+
 .catalog-card-meta-value .common-enemy-type-chip,
 .catalog-card-meta-value .dropped-by-catalog-chip,
 .catalog-card-meta-value .material-chip {
@@ -1082,7 +1120,7 @@
 .card-rarity-3 { --card-rarity: #74bae4; }
 .card-rarity-2 { --card-rarity: #83bc6b; }
 .card-rarity-1 { --card-rarity: #aaa39a; }
-.card-neutral { --card-rarity: #b9a48d; }
+.card-neutral { --card-rarity: #6f675f; }
 
 
 .pagination {

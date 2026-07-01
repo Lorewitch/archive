@@ -1244,12 +1244,15 @@ function renderCommonEnemyMaterialsCell(item) {
 function renderMaterialsCell(item) {
   const materials = Array.isArray(item?.materials) ? item.materials : [];
   if (!materials.length) return "—";
+  const visible = materials.slice(0, 1);
+  const rest = materials.length - visible.length;
   return `
     <div class="material-list">
-      ${materials.map(material => {
+      ${visible.map(material => {
         const icon = material.icon ? `<img src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="28" height="28">` : "";
         return `<span class="material-chip">${icon}<span>${escapeHtml(materialTitle(material, "ru"))}</span></span>`;
       }).join("")}
+      ${rest > 0 ? `<span class="tiny-pill catalog-more-pill">+${rest}</span>` : ""}
     </div>
   `;
 }
@@ -1316,7 +1319,7 @@ function renderDroppedByCell(item) {
     return Array.isArray(item?.materials) && item.materials.length ? renderMaterialsCell(item) : "—";
   }
 
-  const visible = enemies.slice(0, 3);
+  const visible = enemies.slice(0, 1);
   const rest = enemies.length - visible.length;
 
   return `
@@ -1325,7 +1328,7 @@ function renderDroppedByCell(item) {
         const icon = enemy.icon ? `<img src="${escapeHtml(versionedAssetPath(enemy.icon))}" alt="" loading="lazy" decoding="async" width="22" height="22">` : "";
         return `<span class="dropped-by-catalog-chip">${icon}<span>${escapeHtml(titleOf(enemy, "ru"))}</span></span>`;
       }).join("")}
-      ${rest > 0 ? `<span class="tiny-pill">+${rest}</span>` : ""}
+      ${rest > 0 ? `<span class="tiny-pill catalog-more-pill">+${rest}</span>` : ""}
     </div>
   `;
 }
@@ -1957,8 +1960,11 @@ function normalizeCatalogCardMetaColumn(column) {
     .replace(/\s+/g, " ");
 }
 
-function catalogCardMetaColumnIsHidden(column) {
-  return ["редкость", "регион"].includes(normalizeCatalogCardMetaColumn(column));
+function catalogCardMetaColumnIsHidden(column, config) {
+  const normalized = normalizeCatalogCardMetaColumn(column);
+  if (["редкость", "регион", "тип противника", "тип материала"].includes(normalized)) return true;
+  if (normalized === "частей" && config?.id !== "books") return true;
+  return false;
 }
 
 function catalogCardMetaColumnKeepsLabel(column, config) {
@@ -1971,12 +1977,13 @@ function renderCatalogCardMeta(item, config) {
   const cells = config.row(item);
 
   return columns.slice(1).map((column, index) => {
-    if (catalogCardMetaColumnIsHidden(column)) return "";
+    if (catalogCardMetaColumnIsHidden(column, config)) return "";
     const cell = cells[index + 1] || "";
     if (!catalogCellHasContent(cell)) return "";
     const keepLabel = catalogCardMetaColumnKeepsLabel(column, config);
+    const chipListClass = /class="(?:material-list|dropped-by-catalog-list|common-enemy-type-list|story-element-list)"/.test(cell) ? "has-chip-list" : "";
     return `
-      <span class="catalog-card-meta-item ${keepLabel ? "has-label" : "is-value-only"}">
+      <span class="catalog-card-meta-item ${keepLabel ? "has-label" : "is-value-only"} ${chipListClass}">
         ${keepLabel ? `<span class="catalog-card-meta-label">${escapeHtml(column)}</span>` : ""}
         <span class="catalog-card-meta-value">${cell}</span>
       </span>
@@ -2132,7 +2139,7 @@ function resetCatalogFilters(config = currentCatalogConfig()) {
 function renderCatalogFilterReset(config = currentCatalogConfig()) {
   const hasFilters = optionsFor(config).length || typeFiltersForCurrentCatalog(config).length;
   if (!hasFilters) return "";
-  return `<button class="filter-reset-button" id="reset-filters" type="button" ${hasActiveCatalogFilters(config) ? "" : "disabled"}>Сброс фильтров</button>`;
+  return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры" ${hasActiveCatalogFilters(config) ? "" : "disabled"}><span aria-hidden="true">🗑</span></button>`;
 }
 
 function renderCatalog(config) {
@@ -2161,18 +2168,21 @@ function renderCatalog(config) {
       ` : ""}
 
       <div class="toolbar">
-        <label class="search" aria-label="Поиск">
-          <span class="search-symbol">⌕</span>
-          <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Начни вводить текст…" value="${escapeHtml(filterState.query)}">
-          <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
-        </label>
+        <div class="catalog-search-bar">
+          <label class="search" aria-label="Поиск">
+            <span class="search-symbol">⌕</span>
+            <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Начни вводить текст…" value="${escapeHtml(filterState.query)}">
+            <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
+          </label>
 
-        ${options.length ? `
-          <select class="select" id="catalog-filter" aria-label="Фильтр">
-            <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
-            ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
-          </select>
-        ` : ""}
+          ${options.length ? `
+            <select class="select" id="catalog-filter" aria-label="Фильтр">
+              <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
+              ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
+            </select>
+          ` : ""}
+        </div>
+
         <div class="toolbar-filters">
           ${renderTypeFilters(config)}
           ${renderCatalogFilterReset(config)}
