@@ -224,6 +224,39 @@ html.is-mobile-landscape .content {
 }
 
 @media (max-width: 1180px) {
+
+  .catalog-card-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .catalog-card {
+    grid-template-columns: 96px minmax(0, 1fr);
+    min-height: 138px;
+    padding: 14px 16px 19px;
+  }
+
+  .catalog-card-media {
+    width: 88px;
+    height: 88px;
+  }
+
+  .catalog-card-img {
+    max-width: 78px;
+    max-height: 80px;
+  }
+
+  .catalog-card-body {
+    padding-right: 30px;
+  }
+
+  .catalog-card-title {
+    font-size: 18px;
+  }
+
+  .catalog-card-meta {
+    font-size: 12px;
+  }
+
   .catalog-row.item {
     display: grid;
     grid-template-columns: minmax(0, 1fr);

@@ -1888,6 +1888,105 @@ function catalogRow(item, config) {
   `;
 }
 
+function cssClassToken(value) {
+  return String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/[^a-z0-9_-]+/g, "-")
+    .replace(/^-+|-+$/g, "") || "none";
+}
+
+function catalogCardRarityClass(item, config) {
+  const rarity = String(item?.rarity || "").trim();
+  if (["5", "4", "3", "2", "1"].includes(rarity)) return `card-rarity-${rarity}`;
+  if (config.id === "items") return `card-group-${cssClassToken(item?.item_group || state.subsection || "items")}`;
+  if (config.id === "books") return `card-type-${cssClassToken(bookTypeValue(item))}`;
+  if (config.id === "stories") return `card-group-${cssClassToken(item?.story_group || state.subsection || "stories")}`;
+  return `card-section-${cssClassToken(config.id)}`;
+}
+
+function catalogCardClasses(item, config) {
+  return [
+    "catalog-card",
+    `catalog-card--${cssClassToken(config.id)}`,
+    catalogCardRarityClass(item, config),
+    isCharacterStoryEntry(item) ? "catalog-card--character-story" : "",
+    isEnemyDropEntry(item) ? "catalog-card--enemy-drops" : "",
+  ].filter(Boolean).join(" ");
+}
+
+function renderCatalogCardVersion(item) {
+  const version = normalizedGameVersion(item?.game_version || item?.release_version);
+  if (!version) return "";
+  return `<span class="catalog-card-version" title="Версия игры ${escapeHtml(version)}" aria-label="Версия игры ${escapeHtml(version)}">v${escapeHtml(version)}</span>`;
+}
+
+function renderCatalogCardMedia(item) {
+  const icon = iconFor(item);
+  const iconClass = [
+    "catalog-card-img",
+    entryRarityBackgroundClass(item),
+    isCharacterStoryEntry(item) ? "is-person" : "",
+  ].filter(Boolean).join(" ");
+
+  if (!icon) {
+    return `<span class="catalog-card-media"><span class="catalog-card-placeholder" aria-hidden="true">⌁</span></span>`;
+  }
+
+  return `
+    <span class="catalog-card-media">
+      <img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="96" height="96">
+    </span>
+  `;
+}
+
+function catalogCellHasContent(cell) {
+  const html = String(cell || "").trim();
+  if (!html) return false;
+  const plain = html
+    .replace(/<[^>]+>/g, "")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&mdash;|&ndash;/g, "—")
+    .trim();
+  if (plain && plain !== "—") return true;
+  return /<(img|span|div)[\s>]/i.test(html);
+}
+
+function renderCatalogCardMeta(item, config) {
+  const columns = typeof config.columns === "function" ? config.columns() : config.columns;
+  const cells = config.row(item);
+
+  return columns.slice(1).map((column, index) => {
+    const cell = cells[index + 1] || "";
+    if (!catalogCellHasContent(cell)) return "";
+    return `
+      <span class="catalog-card-meta-item">
+        <span class="catalog-card-meta-label">${escapeHtml(column)}</span>
+        <span class="catalog-card-meta-value">${cell}</span>
+      </span>
+    `;
+  }).filter(Boolean).join("");
+}
+
+function renderCatalogCard(item, config) {
+  const subtitle = [titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · ");
+  const meta = renderCatalogCardMeta(item, config);
+
+  return `
+    <div class="${escapeHtml(catalogCardClasses(item, config))}" data-entry-id="${escapeHtml(item.id)}" data-section-id="${escapeHtml(config.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
+      ${renderCatalogCardVersion(item)}
+      <span class="catalog-card-rarity-line" aria-hidden="true"></span>
+      <span class="catalog-card-open" aria-hidden="true">›</span>
+      ${renderCatalogCardMedia(item)}
+      <span class="catalog-card-body">
+        <span class="catalog-card-title">${escapeHtml(titleOf(item, "ru"))}</span>
+        ${subtitle ? `<span class="catalog-card-subtitle">${escapeHtml(subtitle)}</span>` : ""}
+        ${meta ? `<span class="catalog-card-meta">${meta}</span>` : ""}
+      </span>
+    </div>
+  `;
+}
+
 function groupEntryCount(config, groupKey) {
   const children = childGroupsFor(config, groupKey);
   if (children.length) {
@@ -1983,24 +2082,10 @@ function renderCatalogTable(config) {
   const currentPage = Math.min(Math.max(1, Number(filterState.page) || 1), totalPages);
   filterState.page = currentPage;
   const rows = allRows.slice((currentPage - 1) * pageSize, currentPage * pageSize);
-  const sortUp = filterState.sort === "asc" ? "active" : "";
-  const sortDown = filterState.sort === "desc" ? "active" : "";
-  const columns = typeof config.columns === "function" ? config.columns() : config.columns;
-  const sortableFirstColumn = !isCommonEnemyCatalog(config) && !isDevelopmentMaterialsCatalog(config);
 
   return `
-    <div class="catalog-table" id="catalog-table">
-      <div class="${catalogRowClasses(config, ["head"])}">
-        ${columns.map((column, index) => index === 0 && sortableFirstColumn ? `
-          <div>
-            <button class="sortable-head" id="sort-title" type="button" aria-label="Сортировать по названию">
-              <span>${escapeHtml(column)}</span>
-              <span class="sort-arrows" aria-hidden="true"><span class="${sortUp}">▲</span><span class="${sortDown}">▼</span></span>
-            </button>
-          </div>
-        ` : `<div>${escapeHtml(column)}</div>`).join("")}
-      </div>
-      ${rows.map(item => catalogRow(item, config)).join("") || `<div class="empty"><div class="empty-card">${escapeHtml(config.empty)}</div></div>`}
+    <div class="catalog-card-grid ${escapeHtml(catalogLayoutClass(config))}" id="catalog-table">
+      ${rows.map(item => renderCatalogCard(item, config)).join("") || `<div class="empty"><div class="empty-card">${escapeHtml(config.empty)}</div></div>`}
     </div>
     ${renderPaginationControls(config, currentPage, totalPages, allRows.length)}
   `;
