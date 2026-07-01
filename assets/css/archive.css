@@ -4,27 +4,27 @@
 */
 
 :root {
-  --bg: #17100d;
-  --page-bg-paint: linear-gradient(135deg, #241a14 0%, #1b120e 54%, #120c09 100%);
-  --surface: rgba(246, 242, 235, 0.94);
-  --surface-solid: #f6f2eb;
-  --surface-soft: #efe8de;
-  --surface-muted: #e1d6c8;
-  --ink: #2a2521;
-  --muted: #6f665f;
-  --soft: #8a8077;
-  --line: rgba(91, 74, 62, 0.20);
-  --line-strong: rgba(91, 74, 62, 0.34);
-  --accent: #6b5747;
-  --accent-hover: #806a58;
-  --accent-soft: #d8cec0;
-  --menu-bg: #1d1511;
-  --menu-bg-deep: #120c09;
-  --menu-ink: #fff1df;
-  --menu-muted: rgba(255, 241, 223, 0.76);
-  --menu-line: rgba(246, 237, 223, 0.12);
-  --menu-active: rgba(95, 76, 63, 0.44);
-  --menu-active-bar: #b58d61;
+  --bg: #1a1411;
+  --page-bg-paint: linear-gradient(135deg, #1a1411 0%, #241c18 58%, #17100d 100%);
+  --surface: rgba(232, 225, 215, 0.96);
+  --surface-solid: #e8e1d7;
+  --surface-soft: #ded4c7;
+  --surface-muted: #cfc2b4;
+  --ink: #1d1511;
+  --muted: #62574f;
+  --soft: #817468;
+  --line: rgba(77, 61, 51, 0.20);
+  --line-strong: rgba(77, 61, 51, 0.34);
+  --accent: #5d4e43;
+  --accent-hover: #67574b;
+  --accent-soft: #d0a05f;
+  --menu-bg: #211915;
+  --menu-bg-deep: #17100d;
+  --menu-ink: #f4ebdc;
+  --menu-muted: rgba(214, 198, 181, 0.82);
+  --menu-line: rgba(244, 235, 220, 0.11);
+  --menu-active: rgba(55, 43, 36, 0.76);
+  --menu-active-bar: #d0a05f;
   --shadow-soft: none;
   --shadow-card: none;
   --sidebar-width: 310px;
@@ -271,8 +271,8 @@ a {
   height: 100vh;
   height: 100dvh;
   min-height: 0;
-  background-color: var(--menu-bg-deep);
-  background-image: linear-gradient(180deg, #281e18 0%, #1d1511 58%, #120c09 100%);
+  background-color: var(--menu-bg);
+  background-image: linear-gradient(180deg, #241c18 0%, #211915 52%, #17100d 100%);
   border-right: 1px solid var(--menu-line);
   box-shadow: none;
   color: var(--menu-ink);
@@ -656,7 +656,7 @@ a {
   margin-left: 8px;
   padding: 0;
   color: #e9d8c2;
-  background: rgba(52, 41, 34, 0.72);
+  background: rgba(93, 78, 67, 0.72);
   border: 0;
   font-size: 18px;
   font-weight: 820;
@@ -666,12 +666,12 @@ a {
 
 .filter-reset-button:hover {
   color: #fff1df;
-  background: rgba(72, 57, 47, 0.86);
+  background: rgba(103, 87, 75, 0.9);
 }
 
 .filter-reset-button:disabled {
-  opacity: 0.42;
-  pointer-events: none;
+  opacity: 0.38;
+  cursor: default;
 }
 
 .type-filter-row::-webkit-scrollbar,
@@ -1296,8 +1296,8 @@ a {
   min-height: 148px;
   min-width: 0;
   padding: 16px 18px 20px;
-  background: #5a4c42;
-  color: #f6eddf;
+  background: #5d4e43;
+  color: #f4ebdc;
   border: 0;
   border-radius: 0;
   box-shadow: none;
@@ -1316,7 +1316,7 @@ a {
 
 .catalog-card:hover {
   transform: translateY(-2px);
-  background: #625348;
+  background: #67574b;
   filter: saturate(1.02);
 }
 
@@ -1338,7 +1338,7 @@ a {
   position: absolute;
   top: 12px;
   right: 14px;
-  color: rgba(234, 220, 202, 0.72);
+  color: rgba(214, 198, 181, 0.76);
   font-size: 11px;
   font-weight: 900;
   letter-spacing: 0.08em;
@@ -1350,7 +1350,7 @@ a {
   position: absolute;
   right: 15px;
   bottom: 16px;
-  color: rgba(246, 237, 223, 0.74);
+  color: rgba(244, 235, 220, 0.74);
   font-size: 24px;
   line-height: 1;
   opacity: 0;
@@ -1369,7 +1369,7 @@ a {
   align-self: center;
   display: grid;
   place-items: center;
-  background: rgba(255, 255, 255, 0.055);
+  background: rgba(112, 96, 82, 0.55);
 }
 
 .catalog-card-img {
@@ -1395,7 +1395,7 @@ a {
   height: 112px;
   align-self: center;
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.06);
+  background: rgba(112, 96, 82, 0.55);
 }
 
 .catalog-card-placeholder {
@@ -1403,7 +1403,7 @@ a {
   place-items: center;
   width: 56px;
   height: 56px;
-  color: rgba(246, 237, 223, 0.62);
+  color: rgba(244, 235, 220, 0.62);
   font-size: 24px;
 }
 
@@ -1420,7 +1420,7 @@ a {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
   overflow: hidden;
-  color: #f6eddf;
+  color: #f4ebdc;
   font-size: clamp(18px, 1.45vw, 23px);
   font-weight: 950;
   line-height: 1.05;
@@ -1431,12 +1431,12 @@ a {
 
 .catalog-card--character-story .catalog-card-title {
   font-size: clamp(20px, 1.6vw, 25px);
-  text-transform: none;
+  text-transform: uppercase;
 }
 
 .catalog-card-subtitle {
   margin-top: 7px;
-  color: rgba(222, 207, 186, 0.86);
+  color: rgba(214, 198, 181, 0.9);
   font-size: 12.5px;
   font-weight: 520;
   line-height: 1.34;
@@ -1452,7 +1452,7 @@ a {
   gap: 8px 10px;
   margin-top: 14px;
   min-width: 0;
-  color: rgba(246, 237, 223, 0.88);
+  color: rgba(244, 235, 220, 0.9);
   font-size: 12.5px;
   font-weight: 760;
   line-height: 1.3;
@@ -1476,7 +1476,7 @@ a {
 }
 
 .catalog-card-meta-label {
-  color: rgba(222, 207, 186, 0.56);
+  color: rgba(214, 198, 181, 0.58);
   font-size: 10px;
   font-weight: 900;
   letter-spacing: 0.08em;
@@ -1490,7 +1490,7 @@ a {
   align-items: center;
   flex-wrap: wrap;
   gap: 7px;
-  color: rgba(246, 237, 223, 0.9);
+  color: rgba(244, 235, 220, 0.92);
 }
 
 .catalog-card-meta-item.has-chip-list {
@@ -1534,7 +1534,7 @@ a {
 .catalog-card-meta-value .material-chip {
   border: 0;
   background: rgba(255, 255, 255, 0.075);
-  color: rgba(246, 237, 223, 0.9);
+  color: rgba(244, 235, 220, 0.92);
   white-space: nowrap;
 }
 
@@ -1583,7 +1583,7 @@ a {
 .catalog-card-meta-value .element-pill {
   padding: 3px 6px;
   background: rgba(255, 255, 255, 0.075);
-  color: rgba(246, 237, 223, 0.9);
+  color: rgba(244, 235, 220, 0.92);
 }
 
 .card-rarity-5 { --card-rarity: #f0ae43; }

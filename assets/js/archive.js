@@ -2132,6 +2132,13 @@ function hasActiveCatalogFilters(config = currentCatalogConfig()) {
   );
 }
 
+function catalogHasFilterControls(config = currentCatalogConfig()) {
+  return Boolean(
+    optionsFor(config).length ||
+    typeFiltersForCurrentCatalog(config).length
+  );
+}
+
 function resetCatalogFilters(config = currentCatalogConfig()) {
   const filterState = state.filters[config.id];
   filterState.filter = "all";
@@ -2145,8 +2152,9 @@ function resetCatalogFilters(config = currentCatalogConfig()) {
 }
 
 function renderCatalogFilterReset(config = currentCatalogConfig()) {
-  if (!hasActiveCatalogFilters(config)) return "";
-  return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры"><span aria-hidden="true">🗑</span></button>`;
+  if (!catalogHasFilterControls(config)) return "";
+  const disabled = hasActiveCatalogFilters(config) ? "" : " disabled";
+  return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры"${disabled}><span aria-hidden="true">🗑</span></button>`;
 }
 
 function renderCatalog(config) {
