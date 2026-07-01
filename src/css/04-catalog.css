@@ -674,12 +674,14 @@
   font-size: 13px;
   font-weight: 720;
   line-height: 1.25;
-  white-space: normal;
+  white-space: nowrap;
 }
 
 .material-chip span {
   min-width: 0;
-  overflow-wrap: anywhere;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .material-chip img {
@@ -782,6 +784,14 @@
   font-size: 12px;
   font-weight: 720;
   line-height: 1.25;
+  white-space: nowrap;
+}
+
+.dropped-by-catalog-chip span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .dropped-by-catalog-chip img {
@@ -904,15 +914,17 @@
 }
 
 .catalog-card-img.is-person {
-  max-width: 98px;
-  max-height: 112px;
-  align-self: end;
+  max-width: 108px;
+  max-height: 108px;
+  align-self: center;
 }
 
 .catalog-card--character-story .catalog-card-media {
+  width: 112px;
   height: 112px;
-  align-self: end;
+  align-self: center;
   overflow: hidden;
+  background: rgba(255, 255, 255, 0.06);
 }
 
 .catalog-card-placeholder {
@@ -966,8 +978,8 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8px 14px;
-  margin-top: 15px;
+  gap: 8px 10px;
+  margin-top: 14px;
   min-width: 0;
   color: rgba(246, 237, 223, 0.88);
   font-size: 12.5px;
@@ -983,7 +995,7 @@
   max-width: 100%;
 }
 
-.catalog-card-meta-item::before {
+.catalog-card-meta-item.has-label::before {
   content: "";
   width: 5px;
   height: 5px;
@@ -1016,6 +1028,7 @@
   border: 0;
   background: rgba(255, 255, 255, 0.075);
   color: rgba(246, 237, 223, 0.9);
+  white-space: nowrap;
 }
 
 .catalog-card-meta-value .material-list,
@@ -1023,6 +1036,21 @@
 .catalog-card-meta-value .common-enemy-type-list,
 .catalog-card-meta-value .story-element-list {
   gap: 6px;
+}
+
+.catalog-card-meta-value .material-chip,
+.catalog-card-meta-value .dropped-by-catalog-chip,
+.catalog-card-meta-value .common-enemy-type-chip {
+  flex: 0 0 auto;
+  max-width: 100%;
+}
+
+.catalog-card-meta-value .material-chip span,
+.catalog-card-meta-value .dropped-by-catalog-chip span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .catalog-card-meta-value .material-chip img,
@@ -1054,17 +1082,7 @@
 .card-rarity-3 { --card-rarity: #74bae4; }
 .card-rarity-2 { --card-rarity: #83bc6b; }
 .card-rarity-1 { --card-rarity: #aaa39a; }
-.card-type-book_series { --card-rarity: #7f94d8; }
-.card-type-notes { --card-rarity: #a982e6; }
-.card-group-development_materials { --card-rarity: #9d70f2; }
-.card-group-common_enemies { --card-rarity: #74bae4; }
-.card-group-world_bosses { --card-rarity: #f0ae43; }
-.card-group-weekly_bosses { --card-rarity: #f0ae43; }
-.card-group-teyvat_resources { --card-rarity: #83bc6b; }
-.card-group-serenitea_pot { --card-rarity: #d5b37a; }
-.card-group-useful_items { --card-rarity: #65bfc9; }
-.card-section-artifacts { --card-rarity: #9d70f2; }
-.card-section-stories { --card-rarity: #7f94d8; }
+.card-neutral { --card-rarity: #b9a48d; }
 
 
 .pagination {

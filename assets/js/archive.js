@@ -1316,7 +1316,7 @@ function renderDroppedByCell(item) {
     return Array.isArray(item?.materials) && item.materials.length ? renderMaterialsCell(item) : "—";
   }
 
-  const visible = enemies.slice(0, 4);
+  const visible = enemies.slice(0, 3);
   const rest = enemies.length - visible.length;
 
   return `
@@ -1899,10 +1899,7 @@ function cssClassToken(value) {
 function catalogCardRarityClass(item, config) {
   const rarity = String(item?.rarity || "").trim();
   if (["5", "4", "3", "2", "1"].includes(rarity)) return `card-rarity-${rarity}`;
-  if (config.id === "items") return `card-group-${cssClassToken(item?.item_group || state.subsection || "items")}`;
-  if (config.id === "books") return `card-type-${cssClassToken(bookTypeValue(item))}`;
-  if (config.id === "stories") return `card-group-${cssClassToken(item?.story_group || state.subsection || "stories")}`;
-  return `card-section-${cssClassToken(config.id)}`;
+  return "card-neutral";
 }
 
 function catalogCardClasses(item, config) {
@@ -1952,16 +1949,35 @@ function catalogCellHasContent(cell) {
   return /<(img|span|div)[\s>]/i.test(html);
 }
 
+function normalizeCatalogCardMetaColumn(column) {
+  return String(column || "")
+    .trim()
+    .toLowerCase()
+    .replace(/ё/g, "е")
+    .replace(/\s+/g, " ");
+}
+
+function catalogCardMetaColumnIsHidden(column) {
+  return ["редкость", "регион"].includes(normalizeCatalogCardMetaColumn(column));
+}
+
+function catalogCardMetaColumnKeepsLabel(column, config) {
+  const normalized = normalizeCatalogCardMetaColumn(column);
+  return config?.id === "books" && normalized === "частей";
+}
+
 function renderCatalogCardMeta(item, config) {
   const columns = typeof config.columns === "function" ? config.columns() : config.columns;
   const cells = config.row(item);
 
   return columns.slice(1).map((column, index) => {
+    if (catalogCardMetaColumnIsHidden(column)) return "";
     const cell = cells[index + 1] || "";
     if (!catalogCellHasContent(cell)) return "";
+    const keepLabel = catalogCardMetaColumnKeepsLabel(column, config);
     return `
-      <span class="catalog-card-meta-item">
-        <span class="catalog-card-meta-label">${escapeHtml(column)}</span>
+      <span class="catalog-card-meta-item ${keepLabel ? "has-label" : "is-value-only"}">
+        ${keepLabel ? `<span class="catalog-card-meta-label">${escapeHtml(column)}</span>` : ""}
         <span class="catalog-card-meta-value">${cell}</span>
       </span>
     `;

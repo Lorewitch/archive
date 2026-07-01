@@ -1,6 +1,6 @@
 :root {
-  --bg: #130f0c;
-  --page-bg-paint: linear-gradient(135deg, #130f0c 0%, #1d1510 52%, #100c0a 100%);
+  --bg: #302821;
+  --page-bg-paint: linear-gradient(135deg, #5a4c42 0%, #483b33 54%, #332a25 100%);
   --surface: rgba(246, 242, 235, 0.94);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
@@ -13,13 +13,13 @@
   --accent: #6b5747;
   --accent-hover: #806a58;
   --accent-soft: #d8cec0;
-  --menu-bg: #1f1712;
-  --menu-bg-deep: #100c09;
+  --menu-bg: #483b33;
+  --menu-bg-deep: #332a25;
   --menu-ink: #fff1df;
   --menu-muted: rgba(255, 241, 223, 0.76);
-  --menu-line: rgba(232, 204, 174, 0.12);
-  --menu-active: rgba(232, 222, 212, 0.085);
-  --menu-active-bar: #c99661;
+  --menu-line: rgba(246, 237, 223, 0.12);
+  --menu-active: rgba(246, 237, 223, 0.10);
+  --menu-active-bar: #d8b06f;
   --shadow-soft: none;
   --shadow-card: none;
   --sidebar-width: 310px;
@@ -33,9 +33,9 @@
   --radius-page: 18px;
   --radius-card: 0;
   --radius-control: 0;
-  --rail-thumb: #5b4a3e;
-  --rail-thumb-hover: #3e332b;
-  --rail-track: rgba(232, 222, 212, 0.10);
+  --rail-thumb: #b29a84;
+  --rail-thumb-hover: #d2b891;
+  --rail-track: rgba(246, 237, 223, 0.12);
   --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
   --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
   --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);

@@ -557,23 +557,20 @@ def check_material_chip_wrapping() -> None:
 
     if catalog_css.exists():
         catalog_text = catalog_css.read_text(encoding="utf-8")
-        if ".material-chip span" not in catalog_text or "overflow-wrap: anywhere" not in catalog_text:
-            fail("src/css/04-catalog.css: длинные названия материалов должны переноситься внутри чипа, а не вылезать в соседнюю колонку")
         chip_block = re.search(r"\.material-chip \{(?P<body>.*?)\}", catalog_text, re.S)
-        if chip_block and "white-space: normal" not in chip_block.group("body"):
-            fail("src/css/04-catalog.css: material-chip должен разрешать нормальный перенос строк")
+        if chip_block and "white-space: nowrap" not in chip_block.group("body"):
+            fail("src/css/04-catalog.css: material-chip должен переноситься целым чипом, без разрыва текста внутри")
+        span_block = re.search(r"\.material-chip span \{(?P<body>.*?)\}", catalog_text, re.S)
+        if span_block:
+            body = span_block.group("body")
+            if "white-space: nowrap" not in body or "text-overflow: ellipsis" not in body:
+                fail("src/css/04-catalog.css: длинные названия внутри material-chip должны обрезаться, а не ломать строку")
 
     if responsive_css.exists():
         responsive_text = responsive_css.read_text(encoding="utf-8")
         block = re.search(r"\.catalog-row\.cols-items-enemy \.material-chip \{(?P<body>.*?)\}", responsive_text, re.S)
         if not block:
             fail("src/css/07-responsive.css: отсутствует desktop-правило для material-chip в каталоге боссов")
-        else:
-            body = block.group("body")
-            if "white-space: nowrap" in body:
-                fail("src/css/07-responsive.css: material-chip в каталоге боссов не должен запрещать перенос длинных названий")
-            if "white-space: normal" not in body or "min-width: 0" not in body:
-                fail("src/css/07-responsive.css: material-chip в каталоге боссов должен переноситься внутри своей колонки")
 
 
 def check_common_enemy_layout_guards() -> None:

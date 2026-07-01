@@ -4,8 +4,8 @@
 */
 
 :root {
-  --bg: #130f0c;
-  --page-bg-paint: linear-gradient(135deg, #130f0c 0%, #1d1510 52%, #100c0a 100%);
+  --bg: #302821;
+  --page-bg-paint: linear-gradient(135deg, #5a4c42 0%, #483b33 54%, #332a25 100%);
   --surface: rgba(246, 242, 235, 0.94);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
@@ -18,13 +18,13 @@
   --accent: #6b5747;
   --accent-hover: #806a58;
   --accent-soft: #d8cec0;
-  --menu-bg: #1f1712;
-  --menu-bg-deep: #100c09;
+  --menu-bg: #483b33;
+  --menu-bg-deep: #332a25;
   --menu-ink: #fff1df;
   --menu-muted: rgba(255, 241, 223, 0.76);
-  --menu-line: rgba(232, 204, 174, 0.12);
-  --menu-active: rgba(232, 222, 212, 0.085);
-  --menu-active-bar: #c99661;
+  --menu-line: rgba(246, 237, 223, 0.12);
+  --menu-active: rgba(246, 237, 223, 0.10);
+  --menu-active-bar: #d8b06f;
   --shadow-soft: none;
   --shadow-card: none;
   --sidebar-width: 310px;
@@ -38,9 +38,9 @@
   --radius-page: 18px;
   --radius-card: 0;
   --radius-control: 0;
-  --rail-thumb: #5b4a3e;
-  --rail-thumb-hover: #3e332b;
-  --rail-track: rgba(232, 222, 212, 0.10);
+  --rail-thumb: #b29a84;
+  --rail-thumb-hover: #d2b891;
+  --rail-track: rgba(246, 237, 223, 0.12);
   --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
   --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
   --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
@@ -272,7 +272,7 @@ a {
   height: 100dvh;
   min-height: 0;
   background-color: var(--menu-bg-deep);
-  background-image: linear-gradient(180deg, #241a14 0%, #1b130f 48%, #100c09 100%);
+  background-image: linear-gradient(180deg, #5a4c42 0%, #483b33 54%, #332a25 100%);
   border-right: 1px solid var(--menu-line);
   box-shadow: none;
   color: var(--menu-ink);
@@ -1135,12 +1135,14 @@ a {
   font-size: 13px;
   font-weight: 720;
   line-height: 1.25;
-  white-space: normal;
+  white-space: nowrap;
 }
 
 .material-chip span {
   min-width: 0;
-  overflow-wrap: anywhere;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .material-chip img {
@@ -1243,6 +1245,14 @@ a {
   font-size: 12px;
   font-weight: 720;
   line-height: 1.25;
+  white-space: nowrap;
+}
+
+.dropped-by-catalog-chip span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .dropped-by-catalog-chip img {
@@ -1365,15 +1375,17 @@ a {
 }
 
 .catalog-card-img.is-person {
-  max-width: 98px;
-  max-height: 112px;
-  align-self: end;
+  max-width: 108px;
+  max-height: 108px;
+  align-self: center;
 }
 
 .catalog-card--character-story .catalog-card-media {
+  width: 112px;
   height: 112px;
-  align-self: end;
+  align-self: center;
   overflow: hidden;
+  background: rgba(255, 255, 255, 0.06);
 }
 
 .catalog-card-placeholder {
@@ -1427,8 +1439,8 @@ a {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8px 14px;
-  margin-top: 15px;
+  gap: 8px 10px;
+  margin-top: 14px;
   min-width: 0;
   color: rgba(246, 237, 223, 0.88);
   font-size: 12.5px;
@@ -1444,7 +1456,7 @@ a {
   max-width: 100%;
 }
 
-.catalog-card-meta-item::before {
+.catalog-card-meta-item.has-label::before {
   content: "";
   width: 5px;
   height: 5px;
@@ -1477,6 +1489,7 @@ a {
   border: 0;
   background: rgba(255, 255, 255, 0.075);
   color: rgba(246, 237, 223, 0.9);
+  white-space: nowrap;
 }
 
 .catalog-card-meta-value .material-list,
@@ -1484,6 +1497,21 @@ a {
 .catalog-card-meta-value .common-enemy-type-list,
 .catalog-card-meta-value .story-element-list {
   gap: 6px;
+}
+
+.catalog-card-meta-value .material-chip,
+.catalog-card-meta-value .dropped-by-catalog-chip,
+.catalog-card-meta-value .common-enemy-type-chip {
+  flex: 0 0 auto;
+  max-width: 100%;
+}
+
+.catalog-card-meta-value .material-chip span,
+.catalog-card-meta-value .dropped-by-catalog-chip span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .catalog-card-meta-value .material-chip img,
@@ -1515,17 +1543,7 @@ a {
 .card-rarity-3 { --card-rarity: #74bae4; }
 .card-rarity-2 { --card-rarity: #83bc6b; }
 .card-rarity-1 { --card-rarity: #aaa39a; }
-.card-type-book_series { --card-rarity: #7f94d8; }
-.card-type-notes { --card-rarity: #a982e6; }
-.card-group-development_materials { --card-rarity: #9d70f2; }
-.card-group-common_enemies { --card-rarity: #74bae4; }
-.card-group-world_bosses { --card-rarity: #f0ae43; }
-.card-group-weekly_bosses { --card-rarity: #f0ae43; }
-.card-group-teyvat_resources { --card-rarity: #83bc6b; }
-.card-group-serenitea_pot { --card-rarity: #d5b37a; }
-.card-group-useful_items { --card-rarity: #65bfc9; }
-.card-section-artifacts { --card-rarity: #9d70f2; }
-.card-section-stories { --card-rarity: #7f94d8; }
+.card-neutral { --card-rarity: #b9a48d; }
 
 
 .pagination {
