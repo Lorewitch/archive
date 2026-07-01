@@ -864,8 +864,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: иконки записей и материалов должны версионироваться")
         if "function entryRarityBackgroundClass" not in text or "rarity-bg-${rarity}" not in text:
             fail("assets/js/archive.js: иконки записей с редкостью должны получать класс подложки по редкости")
-        if "function renderDetailHero" not in text or "renderDetailHero(book" not in text or "renderDetailHero(artifact" not in text:
-            fail("assets/js/archive.js: в читалках книг и артефактов должен использоваться общий hero-блок с иконкой")
+        if "function renderReaderStickyHead" not in text or "renderReaderStickyHead(book" not in text or "renderReaderStickyHead(artifact" not in text:
+            fail("assets/js/archive.js: в читалках должен использоваться общий sticky-топ с иконкой")
         if 'elements.length > 3 ? "is-many"' not in text:
             fail("assets/js/archive.js: множественные элементы персонажа должны получать отдельный класс для аккуратной раскладки")
         if "weaponRarityBackgroundClass" in text or "weapon-rarity-bg" in text:

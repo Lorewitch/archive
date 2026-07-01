@@ -348,3 +348,135 @@
 .notes {
   display: none;
 }
+
+.reader-sticky-head {
+  position: sticky;
+  top: 0;
+  z-index: 12;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  align-items: stretch;
+  margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 18px;
+  padding: var(--content-pad-top) var(--content-pad-x) 18px;
+  background: var(--surface-solid);
+  border-radius: var(--content-radius) var(--content-radius) 0 0;
+  border-bottom: 1px solid var(--surface-line);
+  box-shadow: 0 -1px 0 var(--surface-solid);
+}
+
+.reader-sticky-head::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  height: var(--content-pad-top);
+  background: var(--surface-solid);
+  border-radius: var(--content-radius) var(--content-radius) 0 0;
+  pointer-events: none;
+}
+
+.reader-sticky-head.book-detail-head,
+.reader-sticky-head.artifact-detail-head,
+.reader-sticky-head.story-detail-head,
+.reader-sticky-head.generic-detail-head,
+.reader-sticky-head.items-detail-head,
+.reader-sticky-head.weapons-detail-head {
+  grid-template-columns: 1fr;
+}
+
+.reader-head-nav {
+  display: flex;
+  justify-content: flex-start;
+  min-width: 0;
+}
+
+.reader-head-main {
+  display: grid;
+  grid-template-columns: 104px minmax(0, 1fr);
+  gap: 18px;
+  align-items: center;
+  min-width: 0;
+}
+
+.reader-head-icon,
+.reader-head-icon.story-detail-icon {
+  display: block;
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  background: var(--icon-bg, rgba(216, 206, 192, 0.72));
+  border: 1px solid rgba(91, 74, 62, 0.16);
+  margin: 0;
+}
+
+.reader-head-icon-placeholder {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(91, 74, 62, 0.5);
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.reader-head-titles {
+  min-width: 0;
+}
+
+.reader-head-titles h1 {
+  margin: 0;
+  color: var(--text-dark, var(--ink));
+  font-size: clamp(28px, 3.15vw, 44px);
+  font-weight: 760;
+  line-height: 1.08;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+  overflow-wrap: anywhere;
+}
+
+.reader-title-alt {
+  max-width: 100%;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 15px;
+  font-weight: 560;
+  line-height: 1.35;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reader-title-zh {
+  margin-top: 3px;
+}
+
+.reader-top-controls {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  min-width: 0;
+}
+
+.reader-tabs-row {
+  flex: 1 1 420px;
+  min-width: min(100%, 280px);
+  max-width: 100%;
+}
+
+.reader-tabs-row .volume-scroll {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.reader-lang-control {
+  margin-left: auto;
+  flex: 0 0 auto;
+}
+
+.reader-page .text-card:first-of-type,
+.reader-page .enemy-description-panel:first-of-type {
+  margin-top: 0;
+}

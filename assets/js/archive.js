@@ -1212,6 +1212,92 @@ function renderDetailHero(item, options = {}) {
   `;
 }
 
+function detailHeaderIconFor(item) {
+  const directIcon = iconFor(item);
+  if (directIcon) return directIcon;
+
+  const materials = Array.isArray(item?.materials) ? item.materials : [];
+  return materials.find(material => material?.icon)?.icon || "";
+}
+function detailTitleVariant(item, lang = "ru") {
+  const direct = item?.title?.[lang] || item?.[`title_${lang}`];
+  if (direct) return direct;
+
+  if ((item?.item_group === "common_enemies" || item?.entry_type === "material_set") && Array.isArray(item?.materials) && item.materials.length) {
+    return item.materials
+      .map(material => material?.title?.[lang] || material?.[`title_${lang}`] || "")
+      .filter(Boolean)
+      .join(" · ");
+  }
+
+  return lang === "ru" ? titleOf(item, "ru") : "";
+}
+
+
+function renderReaderLangControl(extraClass = "") {
+  return `
+    <div class="lang-control reader-lang-control ${escapeHtml(extraClass)}" aria-label="Язык текста">
+      <span class="toolbar-label">Язык</span>
+      <div class="lang-switch">
+        ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
+      </div>
+    </div>
+  `;
+}
+
+function renderReaderTabBlock(label, buttonsMarkup) {
+  if (!buttonsMarkup) return "";
+  return `
+    <div class="parts-row reader-tabs-row">
+      <span class="toolbar-label">${escapeHtml(label)}</span>
+      <div class="volume-scroll">
+        ${buttonsMarkup}
+      </div>
+    </div>
+  `;
+}
+
+function renderReaderControls(...blocks) {
+  const controls = blocks.filter(Boolean).join("");
+  return `
+    <div class="reader-top-controls" aria-label="Управление чтением">
+      ${controls}
+      ${renderReaderLangControl()}
+    </div>
+  `;
+}
+
+function renderReaderStickyHead(item, options = {}) {
+  const icon = detailHeaderIconFor(item);
+  const iconClass = [
+    "reader-head-icon",
+    options.iconClass || "",
+    entryRarityBackgroundClass(item),
+  ].filter(Boolean).join(" ");
+  const iconMarkup = icon
+    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="96" height="96">`
+    : `<span class="reader-head-icon reader-head-icon-placeholder" aria-hidden="true">⌁</span>`;
+  const englishTitle = detailTitleVariant(item, "en");
+  const chineseTitle = detailTitleVariant(item, "zh");
+
+  return `
+    <div class="reader-sticky-head ${escapeHtml(options.className || "")}">
+      <div class="reader-head-nav">
+        <button class="back-link" id="${escapeHtml(options.backId || "back-section")}" type="button">${escapeHtml(options.backLabel || "← Назад")}</button>
+      </div>
+      <div class="reader-head-main">
+        ${iconMarkup}
+        <div class="reader-head-titles">
+          <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
+          ${englishTitle ? `<div class="reader-title-alt">${escapeHtml(englishTitle)}</div>` : ""}
+          ${chineseTitle ? `<div class="reader-title-alt reader-title-zh">${escapeHtml(chineseTitle)}</div>` : ""}
+        </div>
+      </div>
+      ${options.controls || renderReaderControls()}
+    </div>
+  `;
+}
+
 function materialTitle(material, lang = "ru") {
   return material?.title?.[lang] || material?.title?.ru || material?.title?.en || material?.title?.zh || material?.name || material?.key || "Материал";
 }
@@ -2224,23 +2310,20 @@ function toggleSort(config) {
 
 function renderBookDetail(book) {
   activeDetail = { type: "book", data: book };
+  const volumeButtons = book.volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("");
+  const controls = renderReaderControls(
+    `<button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>`,
+    renderReaderTabBlock("Части", volumeButtons)
+  );
+
   app.innerHTML = `
-    <section class="page-card book-page">
-      <button class="back-link" id="back-books" type="button">← Назад к списку книг</button>
-
-      ${renderDetailHero(book, { className: "book-detail-head" })}
-
-      <div class="reader-toolbar book-toolbar" aria-label="Управление чтением">
-        <div class="volume-strip" aria-label="Оглавление томов">
-          <button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>
-          <div class="parts-row">
-            <span class="toolbar-label">Части</span>
-            <div class="volume-scroll">
-              ${book.volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("")}
-            </div>
-          </div>
-        </div>
-      </div>
+    <section class="page-card book-page reader-page">
+      ${renderReaderStickyHead(book, {
+        className: "book-detail-head",
+        backId: "back-books",
+        backLabel: "← Назад к списку книг",
+        controls,
+      })}
 
       <div id="reader-text-area">${renderTextArea(book)}</div>
 
@@ -2255,15 +2338,6 @@ function renderTextArea(book) {
 
   return volumes.map((volume, index) => {
     const volumeTitle = escapeHtml(volume.title?.[state.lang] || "Том " + volume.number);
-    const languageControl = index === 0 ? `
-      <div class="lang-control" aria-label="Язык текста">
-        <span class="toolbar-label">Язык</span>
-        <div class="lang-switch">
-          ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
-        </div>
-      </div>
-    ` : "";
-
     const volumeNote = cleanPublicNote(volumeNotes[volume.number] || "");
     const noteText = volumeNote || (index === 0 ? generalNote : "");
     const notesBlock = "";
@@ -2272,7 +2346,6 @@ function renderTextArea(book) {
       <article class="text-card" id="volume-${volume.number}">
         <div class="volume-title">
           <div class="volume-title-main"><h3>${volumeTitle}</h3></div>
-          ${languageControl}
         </div>
         <div class="prose">${markdownToHtml(volume.text?.[state.lang] || "[нет текста]")}</div>
         ${notesBlock}
@@ -2298,27 +2371,20 @@ function renderArtifactDetail(artifact) {
   }
 
   const isSinglePartArtifact = parts.length === 1;
-  const artifactToolbar = isSinglePartArtifact ? "" : `
-      <div class="reader-toolbar artifact-toolbar" aria-label="Управление чтением сета артефактов">
-        <div class="volume-strip" aria-label="Части сета">
-          <button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>
-          <div class="parts-row">
-            <span class="toolbar-label">Части</span>
-            <div class="volume-scroll">
-              ${parts.map(part => `<button type="button" data-artifact-part="${escapeHtml(part.key)}" class="${!state.artifactReadAll && state.artifactPart === part.key ? "active" : ""}">${escapeHtml(artifactPartTitle(part, state.lang))}</button>`).join("")}
-            </div>
-          </div>
-        </div>
-      </div>
-  `;
+  const partButtons = isSinglePartArtifact ? "" : parts.map(part => `<button type="button" data-artifact-part="${escapeHtml(part.key)}" class="${!state.artifactReadAll && state.artifactPart === part.key ? "active" : ""}">${escapeHtml(artifactPartTitle(part, state.lang))}</button>`).join("");
+  const controls = renderReaderControls(
+    isSinglePartArtifact ? "" : `<button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>`,
+    renderReaderTabBlock("Части", partButtons)
+  );
 
   app.innerHTML = `
-    <section class="page-card book-page">
-      <button class="back-link" id="back-artifacts" type="button">← Назад к списку артефактов</button>
-
-      ${renderDetailHero(artifact, { className: "artifact-detail-head" })}
-
-      ${artifactToolbar}
+    <section class="page-card book-page reader-page artifact-page">
+      ${renderReaderStickyHead(artifact, {
+        className: "artifact-detail-head",
+        backId: "back-artifacts",
+        backLabel: "← Назад к списку артефактов",
+        controls,
+      })}
 
       <div id="reader-text-area">${renderArtifactTextArea(artifact)}</div>
     </section>
@@ -2333,15 +2399,6 @@ function renderArtifactTextArea(artifact) {
 
   return selectedParts.map((part, index) => {
     const partTitle = escapeHtml(artifactPartTitle(part, state.lang));
-    const languageControl = index === 0 ? `
-      <div class="lang-control" aria-label="Язык текста">
-        <span class="toolbar-label">Язык</span>
-        <div class="lang-switch">
-          ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
-        </div>
-      </div>
-    ` : "";
-
     const noteText = cleanPublicNote(partNotes[part.key] || "") || (index === 0 ? generalNote : "");
     const notesBlock = "";
 
@@ -2349,7 +2406,6 @@ function renderArtifactTextArea(artifact) {
       <article class="text-card artifact-text-card" id="artifact-part-${escapeHtml(part.key)}">
         <div class="volume-title">
           <div class="volume-title-main"><h3>${partTitle}</h3></div>
-          ${languageControl}
         </div>
         <div class="prose">${markdownToHtml(emphasizeArtifactLabels(part.text?.[state.lang] || "[нет текста]"))}</div>
         ${notesBlock}
@@ -2463,33 +2519,23 @@ function renderEnemyDropsDetail(item, config) {
   ` : "";
   const commonEnemyLootPage = item.item_group === "common_enemies";
   const developmentMaterialPage = item.item_group === "development_materials";
-  const simpleMaterialSetPage = commonEnemyLootPage || developmentMaterialPage;
   const bossLootPage = isEnemyDropGroup(item.item_group) && !commonEnemyLootPage;
-  const pageHeadBlock = simpleMaterialSetPage ? "" : `
-      <div class="page-head">
-        <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
-        <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
-      </div>
-  `;
+  const materialButtons = materials.map(material => `<button type="button" data-item-material="${escapeHtml(material.key)}" class="${!state.itemReadAll && state.itemMaterial === material.key ? "active" : ""}">${escapeHtml(materialTitle(material, state.lang))}</button>`).join("");
+  const controls = renderReaderControls(
+    `<button class="mode-button ${state.itemReadAll ? "active" : ""}" id="toggle-item-read-all" type="button">${state.itemReadAll ? "Читать по материалам" : "Читать все материалы"}</button>`,
+    renderReaderTabBlock("Материалы", materialButtons)
+  );
 
   app.innerHTML = `
-    <section class="page-card book-page${commonEnemyLootPage ? " common-enemy-loot-page" : ""}${developmentMaterialPage ? " development-material-page" : ""}${bossLootPage ? " boss-loot-page" : ""}">
-      <button class="back-link" id="back-section" type="button">${escapeHtml(catalogBackLabel(config, state.subsection))}</button>
-      ${pageHeadBlock}
+    <section class="page-card book-page reader-page${commonEnemyLootPage ? " common-enemy-loot-page" : ""}${developmentMaterialPage ? " development-material-page" : ""}${bossLootPage ? " boss-loot-page" : ""}">
+      ${renderReaderStickyHead(item, {
+        className: "items-detail-head",
+        backId: "back-section",
+        backLabel: catalogBackLabel(config, state.subsection),
+        controls,
+      })}
 
       ${enemyDescriptionBlock}
-
-      <div class="reader-toolbar artifact-toolbar" aria-label="Материалы">
-        <div class="volume-strip" aria-label="Материалы">
-          <button class="mode-button ${state.itemReadAll ? "active" : ""}" id="toggle-item-read-all" type="button">${state.itemReadAll ? "Читать по материалам" : "Читать все материалы"}</button>
-          <div class="parts-row">
-            <span class="toolbar-label">Материалы</span>
-            <div class="volume-scroll item-material-tabs">
-              ${materials.map(material => `<button type="button" data-item-material="${escapeHtml(material.key)}" class="${!state.itemReadAll && state.itemMaterial === material.key ? "active" : ""}">${escapeHtml(materialTitle(material, state.lang))}</button>`).join("")}
-            </div>
-          </div>
-        </div>
-      </div>
 
       <div id="reader-text-area">${renderEnemyMaterialsTextArea(item)}</div>
 
@@ -2500,7 +2546,6 @@ function renderEnemyDropsDetail(item, config) {
   fitItemMaterialTabs();
   requestAnimationFrame(fitEnemyDescriptionPanel);
 }
-
 
 function renderEnemyMaterialsTextArea(item) {
   const materials = Array.isArray(item.materials) ? item.materials : [];
@@ -2518,14 +2563,6 @@ function renderEnemyMaterialsTextArea(item) {
         ${escapeHtml([materialTitle(material, "en"), materialTitle(material, "zh")].filter(Boolean).join(" · "))}
       </div>
     ` : "";
-    const languageControl = index === 0 ? `
-      <div class="lang-control" aria-label="Язык текста">
-        <span class="toolbar-label">Язык</span>
-        <div class="lang-switch">
-          ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
-        </div>
-      </div>
-    ` : "";
     const iconSize = isCompactMaterialSet ? 104 : 128;
     const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="${iconSize}" height="${iconSize}">` : "";
     const notesBlock = "";
@@ -2534,7 +2571,6 @@ function renderEnemyMaterialsTextArea(item) {
       <article class="text-card artifact-text-card${isCompactMaterialSet ? " common-enemy-material-card" : ""}" id="item-material-${escapeHtml(material.key)}">
         <div class="volume-title">
           <div class="volume-title-main"><h3>${title}</h3>${titleSubtitle}</div>
-          ${languageControl}
         </div>
         <div class="prose material-reader-body">${iconMarkup}${markdownToHtml(text)}</div>
         ${notesBlock}
@@ -2542,7 +2578,6 @@ function renderEnemyMaterialsTextArea(item) {
     `;
   }).join("");
 }
-
 
 function fitItemMaterialTabs() {
   document.querySelectorAll(".item-material-tabs").forEach(tabs => {
@@ -2604,21 +2639,12 @@ function renderStoryTextArea(story) {
   const generalNote = cleanPublicNote(story.notes?.general || "");
 
   return visibleParts.map((part, index) => {
-    const languageControl = index === 0 ? `
-      <div class="lang-control" aria-label="Язык текста">
-        <span class="toolbar-label">Язык</span>
-        <div class="lang-switch">
-          ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
-        </div>
-      </div>
-    ` : "";
     const notesBlock = "";
 
     return `
       <article class="text-card story-text-card" id="story-part-${escapeHtml(part.number)}">
         <div class="volume-title">
           <div class="volume-title-main"><h3>${escapeHtml(storyPartTitle(part))}</h3></div>
-          ${languageControl}
         </div>
         <div class="prose">${markdownToHtml(storyPartText(part))}</div>
         ${notesBlock}
@@ -2637,25 +2663,21 @@ function renderStoryDetail(story, config) {
   const parts = storyParts(story);
   normalizeActiveStoryPart(parts);
   const showPartToolbar = parts.length > 1;
+  const partButtons = showPartToolbar ? parts.map(part => `<button type="button" data-story-part="${escapeHtml(part.number)}" class="${!state.storyReadAll && Number(state.storyPart) === Number(part.number) ? "active" : ""}">${escapeHtml(storyPartTitle(part))}</button>`).join("") : "";
+  const controls = renderReaderControls(
+    showPartToolbar ? `<button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? "Читать по разделам" : "Читать всё подряд"}</button>` : "",
+    renderReaderTabBlock("Разделы", partButtons)
+  );
+
   app.innerHTML = `
-    <section class="page-card book-page story-page">
-      <button class="back-link" id="back-section" type="button">${escapeHtml(catalogBackLabel(config, state.subsection))}</button>
-
-      ${renderDetailHero(story, { className: "story-detail-head", iconClass: "story-detail-icon" })}
-
-      ${showPartToolbar ? `
-        <div class="reader-toolbar story-toolbar" aria-label="Управление чтением истории">
-          <div class="volume-strip" aria-label="Оглавление истории">
-            <button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? "Читать по разделам" : "Читать всё подряд"}</button>
-            <div class="parts-row story-parts-row">
-              <span class="toolbar-label">Разделы</span>
-              <div class="volume-scroll">
-                ${parts.map(part => `<button type="button" data-story-part="${escapeHtml(part.number)}" class="${!state.storyReadAll && Number(state.storyPart) === Number(part.number) ? "active" : ""}">${escapeHtml(storyPartTitle(part))}</button>`).join("")}
-              </div>
-            </div>
-          </div>
-        </div>
-      ` : ""}
+    <section class="page-card book-page reader-page story-page">
+      ${renderReaderStickyHead(story, {
+        className: "story-detail-head",
+        iconClass: "story-detail-icon",
+        backId: "back-section",
+        backLabel: catalogBackLabel(config, state.subsection),
+        controls,
+      })}
 
       <div id="reader-text-area">${renderStoryTextArea(story)}</div>
     </section>
@@ -2705,21 +2727,16 @@ function renderGenericDetail(item, config) {
     : "";
 
   app.innerHTML = `
-    <section class="page-card book-page">
-      <button class="back-link" id="back-section" type="button">${escapeHtml(catalogBackLabel(config, state.subsection))}</button>
-      <div class="page-head">
-        <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
-        <div class="subtitle">${escapeHtml([titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · "))}</div>
-      </div>
+    <section class="page-card book-page reader-page">
+      ${renderReaderStickyHead(item, {
+        className: `${escapeHtml(config.id)}-detail-head`,
+        backId: "back-section",
+        backLabel: catalogBackLabel(config, state.subsection),
+        controls: renderReaderControls(),
+      })}
       <article class="text-card generic-text-card ${config.id}-detail-card">
         <div class="volume-title generic-title">
           <div class="volume-title-main"><h3>${(config.id === "weapons" || config.id === "items") ? "Описание" : "Текст"}</h3></div>
-          <div class="lang-control" aria-label="Язык текста">
-            <span class="toolbar-label">Язык</span>
-            <div class="lang-switch">
-              ${["ru", "en", "zh"].map(lang => `<button type="button" data-lang="${lang}" class="${state.lang === lang ? "active" : ""}">${langLabel(lang)}</button>`).join("")}
-            </div>
-          </div>
         </div>
         ${bodyBlock}
         ${droppedByBlock}
