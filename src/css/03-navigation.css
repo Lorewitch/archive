@@ -11,12 +11,9 @@
   height: 100dvh;
   min-height: 0;
   background-color: var(--menu-bg-deep);
-  background-image:
-    radial-gradient(circle at 0% 0%, rgba(201, 154, 103, 0.18), transparent 16rem),
-    radial-gradient(circle at 100% 72%, rgba(91, 74, 62, 0.32), transparent 18rem),
-    linear-gradient(180deg, #2a211c 0%, #1d1714 46%, #120e0c 100%);
+  background-image: linear-gradient(180deg, #241a14 0%, #1b130f 48%, #100c09 100%);
   border-right: 1px solid var(--menu-line);
-  box-shadow: 12px 0 34px rgba(0, 0, 0, 0.20);
+  box-shadow: none;
   color: var(--menu-ink);
   overflow: hidden;
 }
@@ -107,7 +104,7 @@
 .nav-button:hover,
 .nav-child:hover,
 .nav-item:hover {
-  background: rgba(185, 137, 85, 0.12);
+  background: rgba(232, 222, 212, 0.06);
 }
 
 .nav-button.is-active,
@@ -115,15 +112,15 @@
 .nav-item.active {
   background: var(--menu-active);
   color: var(--menu-ink);
-  box-shadow: inset 3px 0 0 #c99561;
+  box-shadow: inset 3px 0 0 var(--menu-active-bar);
 }
 
 .nav-button:focus-visible,
 .nav-child:focus-visible,
 .nav-item:focus-visible {
   outline: 0;
-  background: rgba(232, 222, 212, 0.10);
-  box-shadow: inset 3px 0 0 rgba(232, 222, 212, 0.55);
+  background: rgba(232, 222, 212, 0.08);
+  box-shadow: inset 3px 0 0 rgba(232, 222, 212, 0.35);
 }
 
 .nav-icon,
@@ -138,7 +135,7 @@
 
 .nav-icon {
   object-fit: contain;
-  filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.36));
+  filter: none;
 }
 
 .nav-icon-text {

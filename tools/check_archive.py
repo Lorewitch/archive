@@ -909,8 +909,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: истории должны читаться по разделам и в режиме читать всё подряд")
         if "story-element-list" not in text or "element-icon-stack" in text or "element-pill-multi" in text:
             fail("assets/js/archive.js: несколько элементов персонажа должны выводиться отдельными чипами")
-        if "type-filter-stack" not in text or "type-filter-row-label" not in text:
-            fail("assets/js/archive.js: фильтры элементов и редкости историй персонажей должны быть разделены по строкам")
+        if "renderTypeFilterRow([...rarityOptions, ...elementOptions]" not in text:
+            fail("assets/js/archive.js: иконковые фильтры историй персонажей должны идти в одну строку и начинаться со звёздности")
         if "entryRarityBackgroundClass(item)" not in text or "story-character-entry-icon" not in text:
             fail("assets/js/archive.js: иконки персонажей с редкостью должны быть увеличены и получать фон редкости")
         if '<a class="enemy-loot-chip' not in text or 'routeHash("items", drop.id, group)' not in text:

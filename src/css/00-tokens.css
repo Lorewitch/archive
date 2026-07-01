@@ -1,10 +1,6 @@
 :root {
-  --bg: #15110f;
-  --page-bg-paint:
-    radial-gradient(circle at 8% 0%, rgba(232, 222, 212, 0.16), transparent 30rem),
-    radial-gradient(circle at 78% 10%, rgba(175, 163, 148, 0.18), transparent 34rem),
-    radial-gradient(circle at 56% 92%, rgba(91, 74, 62, 0.42), transparent 42rem),
-    linear-gradient(135deg, #17120f 0%, #211a16 48%, #120f0d 100%);
+  --bg: #130f0c;
+  --page-bg-paint: linear-gradient(135deg, #130f0c 0%, #1d1510 52%, #100c0a 100%);
   --surface: rgba(246, 242, 235, 0.94);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
@@ -14,17 +10,18 @@
   --soft: #8a8077;
   --line: rgba(91, 74, 62, 0.20);
   --line-strong: rgba(91, 74, 62, 0.34);
-  --accent: #5b4a3e;
-  --accent-hover: #6f5d50;
+  --accent: #6b5747;
+  --accent-hover: #806a58;
   --accent-soft: #d8cec0;
-  --menu-bg: #241c17;
-  --menu-bg-deep: #120e0c;
-  --menu-ink: #fff4e4;
-  --menu-muted: rgba(255, 244, 228, 0.74);
-  --menu-line: rgba(232, 204, 174, 0.15);
-  --menu-active: rgba(185, 137, 85, 0.20);
-  --shadow-soft: 0 18px 48px rgba(0, 0, 0, 0.18);
-  --shadow-card: 0 30px 90px rgba(0, 0, 0, 0.32);
+  --menu-bg: #1f1712;
+  --menu-bg-deep: #100c09;
+  --menu-ink: #fff1df;
+  --menu-muted: rgba(255, 241, 223, 0.76);
+  --menu-line: rgba(232, 204, 174, 0.12);
+  --menu-active: rgba(232, 222, 212, 0.085);
+  --menu-active-bar: #c99661;
+  --shadow-soft: none;
+  --shadow-card: none;
   --sidebar-width: 310px;
   --sidebar: 310px;
   --menu-rail-width: 8px;

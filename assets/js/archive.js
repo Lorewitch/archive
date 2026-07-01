@@ -502,9 +502,13 @@ function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
     .map(([value]) => value)
     .filter(value => activeTypeSet.has(`element:${value}`));
   const selectedRarities = ["5", "4"].filter(value => activeTypeSet.has(`rarity:${value}`));
+  if (!selectedElements.length && !selectedRarities.length) return true;
+
   const itemElements = storyElementValues(item);
   const itemRarity = String(item?.rarity || "").trim();
-  return itemElements.some(element => selectedElements.includes(element)) && selectedRarities.includes(itemRarity);
+  const elementOk = !selectedElements.length || itemElements.some(element => selectedElements.includes(element));
+  const rarityOk = !selectedRarities.length || selectedRarities.includes(itemRarity);
+  return elementOk && rarityOk;
 }
 
 function itemTypeFilterValue(item, config = getSectionConfig()) {
@@ -529,7 +533,7 @@ function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
 function activeTypeFilters(config = getSectionConfig()) {
   const filterState = state.filters[config.id];
   const options = typeFiltersForCurrentCatalog(config);
-  const defaults = options.map(typeFilterOptionValue);
+  const allowedValues = options.map(typeFilterOptionValue);
 
   let saved = [];
   if (config.id === "items" || config.id === "stories") {
@@ -538,9 +542,8 @@ function activeTypeFilters(config = getSectionConfig()) {
     saved = filterState.typeFilters || [];
   }
 
-  if (!Array.isArray(saved)) return defaults;
-  const normalized = saved.map(migrateTypeFilterValue).filter(value => defaults.includes(value));
-  return normalized.length ? normalized : defaults;
+  if (!Array.isArray(saved)) return [];
+  return saved.map(migrateTypeFilterValue).filter(value => allowedValues.includes(value));
 }
 
 function renderTypeFilterRow(options, activeTypes, settings = {}) {
@@ -580,23 +583,13 @@ function renderTypeFilters(config) {
   if (config.id === "weapons") {
     const weaponOptions = options.filter(option => typeFilterOptionGroup(option) === "weapon");
     const rarityOptions = options.filter(option => typeFilterOptionGroup(option) === "rarity");
-    return `
-      <div class="type-filter-stack" aria-label="Фильтры оружия">
-        ${renderTypeFilterRow(weaponOptions, activeTypes, { scope: "weapon", showToggle: false })}
-        ${renderTypeFilterRow(rarityOptions, activeTypes, { scope: "rarity", showToggle: false })}
-      </div>
-    `;
+    return renderTypeFilterRow([...rarityOptions, ...weaponOptions], activeTypes, { scope: "weapon-rarity", showToggle: false });
   }
 
   if (isCharacterStoriesCatalog(config)) {
     const elementOptions = options.filter(option => typeFilterOptionGroup(option) === "element");
     const rarityOptions = options.filter(option => typeFilterOptionGroup(option) === "rarity");
-    return `
-      <div class="type-filter-stack" aria-label="Фильтры историй персонажей">
-        ${renderTypeFilterRow(elementOptions, activeTypes, { scope: "element", showToggle: false })}
-        ${renderTypeFilterRow(rarityOptions, activeTypes, { scope: "rarity", showToggle: false })}
-      </div>
-    `;
+    return renderTypeFilterRow([...rarityOptions, ...elementOptions], activeTypes, { scope: "character-stories", showToggle: false });
   }
 
   return renderTypeFilterRow(options, activeTypes);
@@ -844,9 +837,9 @@ const state = {
   storyPart: 1,
   storyReadAll: false,
   filters: {
-    books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["book_series", "notes"] },
+    books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
     artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
-    weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: ["weapon:sword", "weapon:claymore", "weapon:bow", "weapon:catalyst", "weapon:polearm", "rarity:5", "rarity:4", "rarity:3", "rarity:2", "rarity:1"] },
+    weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
     items: {
       query: "",
       filter: "all",
@@ -854,11 +847,11 @@ const state = {
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
-        common_enemies: ["hilichurls", "elementals", "fatui", "automatons", "human_factions", "abyss", "mystical_beasts"],
-        development_materials: ["talents", "character_ascension", "weapon_ascension"],
-        teyvat_resources: ["ore", "local_specialty", "plant", "animal", "craft", "ingredient"],
-        serenitea_pot: ["wood", "blueprint", "seed", "misc"],
-        useful_items: ["tool", "seelie", "equipment"]
+        common_enemies: [],
+        development_materials: [],
+        teyvat_resources: [],
+        serenitea_pot: [],
+        useful_items: []
       }
     },
     stories: {
@@ -868,7 +861,7 @@ const state = {
       page: 1,
       pageSize: 10,
       typeFiltersByGroup: {
-        character_stories: ["element:pyro", "element:hydro", "element:anemo", "element:electro", "element:dendro", "element:cryo", "element:geo", "element:witchcraft", "element:lunar_reactions", "element:star_blade", "rarity:5", "rarity:4"]
+        character_stories: []
       }
     }
   }
@@ -1731,10 +1724,18 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
   if (!matchesMainFilter) return false;
 
   if (activeTypeSet) {
+    if (!activeTypeSet.size) return true;
+
     if (config.id === "weapons") {
+      const selectedRarities = ["5", "4", "3", "2", "1"].filter(value => activeTypeSet.has(`rarity:${value}`));
+      const selectedWeaponTypes = WEAPON_TYPE_FILTERS
+        .map(option => option.value)
+        .filter(value => activeTypeSet.has(value));
       const rarity = `rarity:${String(item?.rarity || "").trim()}`;
       const weaponType = `weapon:${String(item?.weapon_type || item?.type || "").trim()}`;
-      return activeTypeSet.has(rarity) && activeTypeSet.has(weaponType);
+      const rarityOk = !selectedRarities.length || activeTypeSet.has(rarity);
+      const weaponOk = !selectedWeaponTypes.length || activeTypeSet.has(weaponType);
+      return rarityOk && weaponOk;
     }
     if (isCommonEnemyCatalog(config)) {
       return Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type));
@@ -2006,6 +2007,29 @@ function renderCatalogTable(config) {
 }
 
 
+
+function hasActiveCatalogFilters(config = currentCatalogConfig()) {
+  const filterState = state.filters[config.id];
+  return Boolean(
+    String(filterState.query || "").trim() ||
+    filterState.filter !== "all" ||
+    activeTypeFilters(config).length
+  );
+}
+
+function resetCatalogFilters(config = currentCatalogConfig()) {
+  const filterState = state.filters[config.id];
+  filterState.query = "";
+  filterState.filter = "all";
+  filterState.page = 1;
+  if (config.id === "items" || config.id === "stories") {
+    if (!filterState.typeFiltersByGroup) filterState.typeFiltersByGroup = {};
+    filterState.typeFiltersByGroup[state.subsection] = [];
+  } else {
+    filterState.typeFilters = [];
+  }
+}
+
 function renderCatalog(config) {
   activeDetail = null;
   const filterState = state.filters[config.id];
@@ -2044,6 +2068,7 @@ function renderCatalog(config) {
             ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
           </select>
         ` : ""}
+        <button class="filter-reset-button" id="reset-filters" type="button" ${hasActiveCatalogFilters(config) ? "" : "disabled"}>Сброс</button>
         ${renderTypeFilters(config)}
       </div>
 
@@ -2708,7 +2733,16 @@ function handleAppClick(event) {
       search.focus();
     }
     clearSearch?.classList.remove("visible");
+    syncCatalogResetButton(currentCatalogConfig());
     updateCatalogTable(currentCatalogConfig());
+    return;
+  }
+
+  if (event.target.closest("#reset-filters")) {
+    const config = currentCatalogConfig();
+    resetCatalogFilters(config);
+    renderCatalog(config);
+    requestAnimationFrame(() => syncCustomScrollbarsSoon());
     return;
   }
 
@@ -2790,12 +2824,19 @@ function handleAppKeydown(event) {
   setRoute(sectionId, row.dataset.entryId, state.subsection);
 }
 
+
+function syncCatalogResetButton(config = currentCatalogConfig()) {
+  const resetButton = document.getElementById("reset-filters");
+  if (resetButton) resetButton.disabled = !hasActiveCatalogFilters(config);
+}
+
 function handleAppInput(event) {
   if (!event.target.matches("#catalog-search")) return;
   const filterState = currentFilterState();
   filterState.query = event.target.value;
   filterState.page = 1;
   document.getElementById("clear-search")?.classList.toggle("visible", Boolean(filterState.query));
+  syncCatalogResetButton(currentCatalogConfig());
   ensureStorySearchIndexForQuery(currentCatalogConfig(), filterState.query);
   debouncedCatalogUpdate();
 }
@@ -2807,6 +2848,7 @@ function handleAppChange(event) {
   if (event.target.matches("#catalog-filter")) {
     filterState.filter = event.target.value;
     filterState.page = 1;
+    syncCatalogResetButton(config);
     updateCatalogTable(config);
     return;
   }
@@ -2837,6 +2879,7 @@ function handleAppChange(event) {
     } else {
       filterState.typeFilters = checked;
     }
+    syncCatalogResetButton(config);
     updateCatalogTable(config);
   }
 }

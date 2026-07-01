@@ -302,7 +302,7 @@
   line-height: 1.2;
   cursor: pointer;
   text-decoration: none;
-  box-shadow: 0 5px 14px rgba(91, 74, 62, 0.08);
+  box-shadow: none;
 }
 
 .enemy-description-panel.is-collapsible .enemy-description-toggle {
