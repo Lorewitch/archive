@@ -190,11 +190,11 @@ const ICON_COLORS = {
   witchcraft: "#d690d6",
   lunar_reactions: "#72c7dc",
   star_blade: "#d7b35a",
-  sword: "#4a3327",
-  claymore: "#4a3327",
-  bow: "#4a3327",
-  catalyst: "#4a3327",
-  polearm: "#4a3327",
+  sword: "#565148",
+  claymore: "#565148",
+  bow: "#565148",
+  catalyst: "#565148",
+  polearm: "#565148",
   rarity5: "#f0b45e",
   rarity4: "#b293e0",
   rarity3: "#9fd0ed",
@@ -1620,7 +1620,8 @@ function markRouteRendered(routeKey, routeChanged) {
 }
 
 function menuIcon(section) {
-  return `<img class="nav-icon" src="${escapeHtml(versionedAssetPath(section.icon))}" alt="" loading="lazy" decoding="async" width="24" height="24" aria-hidden="true">`;
+  const iconStyle = section.icon ? maskIconStyle(section.icon) : "";
+  return `<span class="nav-icon" style="${escapeHtml(iconStyle)}" aria-hidden="true"></span>`;
 }
 
 function menuChildren(section) {
@@ -2154,6 +2155,12 @@ function renderCatalogFilterReset(config = currentCatalogConfig()) {
   return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры"${disabled}><span aria-hidden="true">&#128465;</span></button>`;
 }
 
+
+function catalogDisplayTitle(config) {
+  if (state.subsection) return groupLabel(config, state.subsection);
+  return config?.title || "Каталог";
+}
+
 function renderCatalog(config) {
   activeDetail = null;
   const filterState = state.filters[config.id];
@@ -2170,25 +2177,30 @@ function renderCatalog(config) {
 
   app.innerHTML = `
     <section class="page-card catalog-page">
-      <div class="toolbar">
-        <div class="catalog-search-bar">
-          <label class="search" aria-label="Поиск">
-            <span class="search-symbol">⌕</span>
-            <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Начни вводить текст…" value="${escapeHtml(filterState.query)}">
-            <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
-          </label>
+      <div class="catalog-sticky-head">
+        <header class="catalog-top">
+          <h1>${escapeHtml(catalogDisplayTitle(config))}</h1>
+        </header>
 
-          ${options.length ? `
-            <select class="select" id="catalog-filter" aria-label="Фильтр">
-              <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
-              ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
-            </select>
-          ` : ""}
-        </div>
+        <div class="toolbar">
+          <div class="catalog-search-bar">
+            <label class="search" aria-label="Поиск">
+              <span class="search-symbol">⌕</span>
+              <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Начни вводить текст…" value="${escapeHtml(filterState.query)}">
+              <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
+            </label>
+          </div>
 
-        <div class="toolbar-filters">
-          ${renderTypeFilters(config)}
-          ${renderCatalogFilterReset(config)}
+          <div class="toolbar-filters">
+            ${options.length ? `
+              <select class="select" id="catalog-filter" aria-label="Фильтр">
+                <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
+                ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
+              </select>
+            ` : ""}
+            ${renderTypeFilters(config)}
+            ${renderCatalogFilterReset(config)}
+          </div>
         </div>
       </div>
 
