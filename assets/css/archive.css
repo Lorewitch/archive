@@ -1671,15 +1671,26 @@ a {
   flex-wrap: nowrap;
 }
 
+.catalog-card-meta-value .material-list.has-more,
+.catalog-card-meta-value .dropped-by-catalog-list.has-more {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+}
+
 .catalog-card-meta-value .material-list.has-more .material-chip,
 .catalog-card-meta-value .dropped-by-catalog-list.has-more .dropped-by-catalog-chip {
-  flex: 1 1 auto;
+  width: 100%;
   min-width: 0;
-  max-width: none;
+  max-width: 100%;
 }
 
 .catalog-card-meta-value .material-list.has-more .catalog-more-pill,
 .catalog-card-meta-value .dropped-by-catalog-list.has-more .catalog-more-pill {
+  justify-self: end;
   flex: 0 0 auto;
 }
 
