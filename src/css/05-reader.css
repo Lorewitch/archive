@@ -332,11 +332,6 @@
   margin: 0 0 18px;
 }
 
-.common-enemy-loot-page .back-link,
-.development-material-page .back-link {
-  margin-bottom: 10px;
-}
-
 .common-enemy-loot-page .reader-toolbar,
 .development-material-page .reader-toolbar {
   margin-top: 8px;
@@ -349,14 +344,6 @@
   display: none;
 }
 
-.content-card.has-reader-view {
-  border-top-left-radius: 0;
-}
-
-.content-card.has-reader-view::before {
-  display: none;
-}
-
 .reader-sticky-head {
   position: sticky;
   top: 0;
@@ -366,15 +353,11 @@
   gap: 16px;
   align-items: stretch;
   margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 18px;
-  padding: calc(var(--content-pad-top) + 28px) var(--content-pad-x) 18px;
+  padding: var(--content-pad-top) var(--content-pad-x) 18px;
   background: var(--surface-solid);
   border-radius: var(--content-radius) var(--content-radius) 0 0;
   border-bottom: 1px solid var(--surface-line);
   box-shadow: 0 -1px 0 var(--surface-solid);
-}
-
-.content-card.has-reader-view .reader-sticky-head {
-  border-top-left-radius: 0;
 }
 
 .reader-sticky-head::before {
@@ -390,10 +373,6 @@
   pointer-events: none;
 }
 
-.content-card.has-reader-view .reader-sticky-head::before {
-  border-top-left-radius: 0;
-}
-
 .reader-sticky-head.book-detail-head,
 .reader-sticky-head.artifact-detail-head,
 .reader-sticky-head.story-detail-head,
@@ -405,30 +384,41 @@
 
 .reader-head-nav {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: -1px;
+  left: -1px;
   z-index: 2;
   display: flex;
   justify-content: flex-start;
   min-width: 0;
 }
 
-.reader-back-link {
-  min-height: 48px;
-  padding: 0 18px;
+.reader-head-nav .back-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 49px;
+  max-width: min(420px, calc(100vw - 32px));
+  padding: 0 22px;
   background: var(--accent);
   color: #f6f2eb;
   border: 1px solid rgba(246, 242, 235, 0.16);
   border-top: 0;
   border-left: 0;
   border-radius: 0;
+  box-shadow: none;
+  font-size: 13px;
+  font-weight: 750;
+  line-height: 1.1;
+  letter-spacing: 0.035em;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.reader-back-link:hover,
-.reader-back-link:focus-visible {
+.reader-head-nav .back-link:hover {
   background: var(--accent-hover);
-  color: #fff;
-  outline: none;
+  color: #fffaf2;
 }
 
 .reader-head-main {

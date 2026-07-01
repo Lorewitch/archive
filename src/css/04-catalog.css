@@ -304,8 +304,6 @@
 .lang-switch button,
 .volume-scroll button,
 .pagination button,
-.back-link,
-.back-button,
 .sortable-head,
 .enemy-loot-chip,
 .enemy-description-toggle,
@@ -336,8 +334,6 @@
 .volume-scroll button.active,
 .pagination button:hover:not(:disabled),
 .pagination button.active,
-.back-link:hover,
-.back-button:hover,
 .enemy-loot-chip:hover,
 .enemy-description-toggle:hover {
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 64%, var(--card-bg));
