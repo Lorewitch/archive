@@ -23,15 +23,15 @@
 
 .catalog-sticky-head {
   position: sticky;
-  top: -44px;
+  top: 0;
   z-index: 8;
-  padding: 0 0 22px;
+  padding: 0 0 24px;
   background: var(--surface);
   border-bottom: 1px solid var(--surface-line);
 }
 
 .catalog-top {
-  margin: 0 0 22px;
+  margin: 0 0 24px;
 }
 
 .catalog-top h1 {
@@ -103,6 +103,7 @@
 
 .search {
   min-width: 0;
+  height: 44px;
   min-height: 44px;
   display: grid;
   grid-template-columns: 20px minmax(0, 1fr) 26px;
@@ -227,10 +228,13 @@
   min-height: 38px;
   margin-left: 6px;
   padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   color: var(--card-bg);
   background: transparent;
   border: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 400;
   line-height: 1;
   white-space: nowrap;
@@ -250,6 +254,7 @@
 
 .filter-reset-button:disabled:hover {
   color: var(--card-bg);
+  background: transparent;
   opacity: 0.32;
 }
 
@@ -285,8 +290,8 @@
   align-items: center;
   justify-content: center;
   gap: 8px;
-  min-height: 36px;
-  padding: 8px 12px;
+  min-height: 38px;
+  padding: 0 13px;
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 74%, var(--card-bg));
   color: color-mix(in srgb, var(--text-dark, var(--ink)) 70%, transparent);
   border: 0;
@@ -335,7 +340,7 @@
   height: 38px;
   min-width: 38px;
   min-height: 38px;
-  padding: 6px;
+  padding: 7px;
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 74%, var(--card-bg));
   color: var(--filter-color, var(--accent-soft));
   box-shadow: none;

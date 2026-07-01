@@ -33,20 +33,20 @@
   --menu-active-bar: #a9b17c;
   --shadow-soft: none;
   --shadow-card: none;
-  --sidebar-width: 278px;
-  --sidebar: 278px;
+  --sidebar-width: 320px;
+  --sidebar: 320px;
   --menu-rail-width: 0px;
   --content-rail-width: 10px;
-  --layout-gap: 52px;
+  --layout-gap: 46px;
   --stage-pad-y: 28px;
-  --stage-pad-right: 34px;
+  --stage-pad-right: 42px;
   --content-radius: 28px;
   --radius-page: 28px;
   --radius-card: 0;
   --radius-control: 0;
-  --rail-thumb: #8c9270;
+  --rail-thumb: #8b9270;
   --rail-thumb-hover: #a9b17c;
-  --rail-track: rgba(243, 236, 223, 0.09);
+  --rail-track: rgba(243, 236, 223, 0.08);
   --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
   --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
   --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
@@ -290,7 +290,7 @@ a {
   height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: 30px 24px 28px 24px;
+  padding: 30px 24px 28px;
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
@@ -300,7 +300,7 @@ a {
   grid-template-columns: 54px minmax(0, 1fr);
   gap: 14px;
   align-items: center;
-  margin-bottom: 22px;
+  margin-bottom: 34px;
 }
 
 .brand-head {
@@ -325,10 +325,11 @@ a {
 
 .brand-title {
   color: var(--menu-ink);
-  font-size: 19px;
-  font-weight: 930;
-  line-height: 1.05;
-  letter-spacing: -0.045em;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.025em;
 }
 
 .brand-subtitle {
@@ -336,18 +337,19 @@ a {
   color: var(--menu-muted);
   font-size: 12px;
   line-height: 1.45;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
 .nav {
-  display: block;
-  padding-top: 12px;
+  display: grid;
+  gap: 6px;
+  padding-top: 0;
   border-top: 0;
 }
 
 .nav-section {
-  margin: 0 0 12px;
+  margin: 0;
 }
 
 .nav-button,
@@ -365,7 +367,7 @@ a {
   background: transparent;
   border: 0;
   outline: 0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.34);
+  text-shadow: none;
 }
 
 .nav-button:hover,
@@ -402,8 +404,8 @@ a {
 
 .nav-icon {
   display: block;
-  width: 21px;
-  height: 21px;
+  width: 19px;
+  height: 19px;
   background: var(--menu-active-bar);
   opacity: 0.92;
   -webkit-mask-repeat: no-repeat;
@@ -459,7 +461,7 @@ a {
 
 .nav-children {
   display: none;
-  padding: 3px 0 7px;
+  padding: 4px 0 8px;
 }
 
 .nav-section.is-open .nav-children {
@@ -510,15 +512,15 @@ a {
 
 .catalog-sticky-head {
   position: sticky;
-  top: -44px;
+  top: 0;
   z-index: 8;
-  padding: 0 0 22px;
+  padding: 0 0 24px;
   background: var(--surface);
   border-bottom: 1px solid var(--surface-line);
 }
 
 .catalog-top {
-  margin: 0 0 22px;
+  margin: 0 0 24px;
 }
 
 .catalog-top h1 {
@@ -590,6 +592,7 @@ a {
 
 .search {
   min-width: 0;
+  height: 44px;
   min-height: 44px;
   display: grid;
   grid-template-columns: 20px minmax(0, 1fr) 26px;
@@ -714,10 +717,13 @@ a {
   min-height: 38px;
   margin-left: 6px;
   padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   color: var(--card-bg);
   background: transparent;
   border: 0;
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 400;
   line-height: 1;
   white-space: nowrap;
@@ -737,6 +743,7 @@ a {
 
 .filter-reset-button:disabled:hover {
   color: var(--card-bg);
+  background: transparent;
   opacity: 0.32;
 }
 
@@ -772,8 +779,8 @@ a {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  min-height: 36px;
-  padding: 8px 12px;
+  min-height: 38px;
+  padding: 0 13px;
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 74%, var(--card-bg));
   color: color-mix(in srgb, var(--text-dark, var(--ink)) 70%, transparent);
   border: 0;
@@ -822,7 +829,7 @@ a {
   height: 38px;
   min-width: 38px;
   min-height: 38px;
-  padding: 6px;
+  padding: 7px;
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 74%, var(--card-bg));
   color: var(--filter-color, var(--accent-soft));
   box-shadow: none;
@@ -2248,7 +2255,7 @@ a.enemy-loot-chip:focus-visible {
 
 @media (max-width: 1180px) {
   :root {
-    --sidebar-width: 270px;
+    --sidebar-width: 320px;
     --layout-gap: 16px;
   }
 

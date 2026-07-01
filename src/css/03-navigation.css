@@ -23,7 +23,7 @@
   height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: 30px 24px 28px 24px;
+  padding: 30px 24px 28px;
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
@@ -33,7 +33,7 @@
   grid-template-columns: 54px minmax(0, 1fr);
   gap: 14px;
   align-items: center;
-  margin-bottom: 22px;
+  margin-bottom: 34px;
 }
 
 .brand-head {
@@ -58,10 +58,11 @@
 
 .brand-title {
   color: var(--menu-ink);
-  font-size: 19px;
-  font-weight: 930;
-  line-height: 1.05;
-  letter-spacing: -0.045em;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.025em;
 }
 
 .brand-subtitle {
@@ -69,18 +70,19 @@
   color: var(--menu-muted);
   font-size: 12px;
   line-height: 1.45;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
 .nav {
-  display: block;
-  padding-top: 12px;
+  display: grid;
+  gap: 6px;
+  padding-top: 0;
   border-top: 0;
 }
 
 .nav-section {
-  margin: 0 0 12px;
+  margin: 0;
 }
 
 .nav-button,
@@ -98,7 +100,7 @@
   background: transparent;
   border: 0;
   outline: 0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.34);
+  text-shadow: none;
 }
 
 .nav-button:hover,
@@ -135,8 +137,8 @@
 
 .nav-icon {
   display: block;
-  width: 21px;
-  height: 21px;
+  width: 19px;
+  height: 19px;
   background: var(--menu-active-bar);
   opacity: 0.92;
   -webkit-mask-repeat: no-repeat;
@@ -192,7 +194,7 @@
 
 .nav-children {
   display: none;
-  padding: 3px 0 7px;
+  padding: 4px 0 8px;
 }
 
 .nav-section.is-open .nav-children {
