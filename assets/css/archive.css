@@ -2903,7 +2903,18 @@ html.is-mobile-landscape .content {
 @media (max-width: 820px) {
   .reader-sticky-head {
     gap: 14px;
+    padding-top: calc(var(--content-pad-top) + 24px);
     padding-bottom: 16px;
+  }
+
+  .reader-back-link {
+    min-height: 44px;
+    padding: 0 14px;
+    max-width: min(82vw, 460px);
+    justify-content: flex-start;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .reader-head-main {
