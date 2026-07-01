@@ -590,6 +590,36 @@ a {
   min-width: 160px;
 }
 
+
+.toolbar-filters {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  grid-column: 1 / -1;
+  min-width: 0;
+}
+
+.toolbar-filters .type-filter-row,
+.toolbar-filters .type-filter-stack,
+.toolbar-filters .filter-row {
+  flex: 1 1 auto;
+  grid-column: auto;
+  min-width: 0;
+}
+
+.search-clear {
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+
+.search-clear:hover {
+  color: #211b17;
+}
+
 .type-filter-row,
 .type-filter-stack,
 .filter-row {

@@ -2011,7 +2011,6 @@ function renderCatalogTable(config) {
 function hasActiveCatalogFilters(config = currentCatalogConfig()) {
   const filterState = state.filters[config.id];
   return Boolean(
-    String(filterState.query || "").trim() ||
     filterState.filter !== "all" ||
     activeTypeFilters(config).length
   );
@@ -2019,7 +2018,6 @@ function hasActiveCatalogFilters(config = currentCatalogConfig()) {
 
 function resetCatalogFilters(config = currentCatalogConfig()) {
   const filterState = state.filters[config.id];
-  filterState.query = "";
   filterState.filter = "all";
   filterState.page = 1;
   if (config.id === "items" || config.id === "stories") {
@@ -2028,6 +2026,12 @@ function resetCatalogFilters(config = currentCatalogConfig()) {
   } else {
     filterState.typeFilters = [];
   }
+}
+
+function renderCatalogFilterReset(config = currentCatalogConfig()) {
+  const hasFilters = optionsFor(config).length || typeFiltersForCurrentCatalog(config).length;
+  if (!hasFilters) return "";
+  return `<button class="filter-reset-button" id="reset-filters" type="button" ${hasActiveCatalogFilters(config) ? "" : "disabled"}>Сброс фильтров</button>`;
 }
 
 function renderCatalog(config) {
@@ -2068,8 +2072,10 @@ function renderCatalog(config) {
             ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
           </select>
         ` : ""}
-        <button class="filter-reset-button" id="reset-filters" type="button" ${hasActiveCatalogFilters(config) ? "" : "disabled"}>Сброс</button>
-        ${renderTypeFilters(config)}
+        <div class="toolbar-filters">
+          ${renderTypeFilters(config)}
+          ${renderCatalogFilterReset(config)}
+        </div>
       </div>
 
       <div id="catalog-holder">${renderCatalogTable(config)}</div>
@@ -2733,7 +2739,6 @@ function handleAppClick(event) {
       search.focus();
     }
     clearSearch?.classList.remove("visible");
-    syncCatalogResetButton(currentCatalogConfig());
     updateCatalogTable(currentCatalogConfig());
     return;
   }
@@ -2836,7 +2841,6 @@ function handleAppInput(event) {
   filterState.query = event.target.value;
   filterState.page = 1;
   document.getElementById("clear-search")?.classList.toggle("visible", Boolean(filterState.query));
-  syncCatalogResetButton(currentCatalogConfig());
   ensureStorySearchIndexForQuery(currentCatalogConfig(), filterState.query);
   debouncedCatalogUpdate();
 }
