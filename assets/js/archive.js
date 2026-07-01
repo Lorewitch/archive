@@ -190,11 +190,11 @@ const ICON_COLORS = {
   witchcraft: "#d690d6",
   lunar_reactions: "#72c7dc",
   star_blade: "#d7b35a",
-  sword: "#565148",
-  claymore: "#565148",
-  bow: "#565148",
-  catalyst: "#565148",
-  polearm: "#565148",
+  sword: "#34362d",
+  claymore: "#34362d",
+  bow: "#34362d",
+  catalyst: "#34362d",
+  polearm: "#34362d",
   rarity5: "#f0b45e",
   rarity4: "#b293e0",
   rarity3: "#9fd0ed",
@@ -2189,15 +2189,15 @@ function renderCatalog(config) {
               <input id="catalog-search" type="text" inputmode="search" autocomplete="off" spellcheck="false" placeholder="Начни вводить текст…" value="${escapeHtml(filterState.query)}">
               <button class="search-clear ${filterState.query ? "visible" : ""}" id="clear-search" type="button" aria-label="Очистить поиск">×</button>
             </label>
-          </div>
-
-          <div class="toolbar-filters">
             ${options.length ? `
               <select class="select" id="catalog-filter" aria-label="Фильтр">
                 <option value="all">${escapeHtml(catalogFilterLabel(config))}</option>
                 ${options.map(([value, label]) => `<option value="${escapeHtml(value)}" ${filterState.filter === value ? "selected" : ""}>${escapeHtml(label)}</option>`).join("")}
               </select>
             ` : ""}
+          </div>
+
+          <div class="toolbar-filters">
             ${renderTypeFilters(config)}
             ${renderCatalogFilterReset(config)}
           </div>
