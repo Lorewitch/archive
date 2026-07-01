@@ -1,10 +1,11 @@
 :root {
-  --bg: #15100c;
+  --bg: #15110f;
   --page-bg-paint:
-    radial-gradient(circle at 12% 0%, rgba(104, 76, 52, 0.38), transparent 28rem),
-    radial-gradient(circle at 90% 8%, rgba(63, 45, 32, 0.46), transparent 30rem),
-    linear-gradient(135deg, #120d0a 0%, #1c130e 54%, #2a1d15 100%);
-  --surface: rgba(246, 242, 235, 0.92);
+    radial-gradient(circle at 8% 0%, rgba(232, 222, 212, 0.16), transparent 30rem),
+    radial-gradient(circle at 78% 10%, rgba(175, 163, 148, 0.18), transparent 34rem),
+    radial-gradient(circle at 56% 92%, rgba(91, 74, 62, 0.42), transparent 42rem),
+    linear-gradient(135deg, #17120f 0%, #211a16 48%, #120f0d 100%);
+  --surface: rgba(246, 242, 235, 0.94);
   --surface-solid: #f6f2eb;
   --surface-soft: #efe8de;
   --surface-muted: #e1d6c8;
@@ -16,8 +17,14 @@
   --accent: #5b4a3e;
   --accent-hover: #6f5d50;
   --accent-soft: #d8cec0;
-  --shadow-soft: 0 8px 22px rgba(20, 12, 8, 0.20);
-  --shadow-card: 0 18px 44px rgba(10, 7, 5, 0.34);
+  --menu-bg: #1f1915;
+  --menu-bg-deep: #15110f;
+  --menu-ink: #fff8ec;
+  --menu-muted: rgba(232, 222, 212, 0.68);
+  --menu-line: rgba(232, 222, 212, 0.12);
+  --menu-active: rgba(232, 222, 212, 0.13);
+  --shadow-soft: 0 18px 48px rgba(0, 0, 0, 0.18);
+  --shadow-card: 0 30px 90px rgba(0, 0, 0, 0.32);
   --sidebar-width: 310px;
   --sidebar: 310px;
   --menu-rail-width: 8px;
@@ -29,9 +36,9 @@
   --radius-page: 18px;
   --radius-card: 0;
   --radius-control: 0;
-  --rail-thumb: #6f5642;
-  --rail-thumb-hover: #9c7659;
-  --rail-track: rgba(232, 216, 194, 0.12);
+  --rail-thumb: #5b4a3e;
+  --rail-thumb-hover: #3e332b;
+  --rail-track: rgba(232, 222, 212, 0.10);
   --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
   --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
   --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
