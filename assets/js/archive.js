@@ -2151,7 +2151,7 @@ function resetCatalogFilters(config = currentCatalogConfig()) {
 function renderCatalogFilterReset(config = currentCatalogConfig()) {
   if (!catalogHasFilterControls(config)) return "";
   const disabled = hasActiveCatalogFilters(config) ? "" : " disabled";
-  return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры"${disabled}><span aria-hidden="true">🗑</span></button>`;
+  return `<button class="filter-reset-button" id="reset-filters" type="button" title="Сбросить фильтры" aria-label="Сбросить фильтры"${disabled}><span aria-hidden="true">&#128465;</span></button>`;
 }
 
 function renderCatalog(config) {

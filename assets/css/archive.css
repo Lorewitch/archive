@@ -5,8 +5,8 @@
 
 :root {
   --bg: #151512;
-  --page-bg-paint: radial-gradient(circle at 18% 0%, rgba(32, 32, 27, 0.68), transparent 42%), linear-gradient(135deg, #151512 0%, #20201b 100%);
-  --surface: rgba(232, 226, 216, 0.96);
+  --page-bg-paint: radial-gradient(circle at 18% 0%, rgba(32, 32, 27, 0.52), transparent 44%), linear-gradient(135deg, #151512 0%, #20201b 100%);
+  --surface: rgba(232, 226, 216, 0.97);
   --surface-solid: #e8e2d8;
   --surface-soft: #ded5c9;
   --surface-muted: #d1c7ba;
@@ -23,19 +23,19 @@
   --menu-ink: #f3ecdf;
   --menu-muted: rgba(213, 203, 189, 0.82);
   --menu-line: rgba(243, 236, 223, 0.11);
-  --menu-active: rgba(52, 54, 45, 0.84);
+  --menu-active: #34362d;
   --menu-active-bar: #a9b17c;
   --shadow-soft: none;
   --shadow-card: none;
-  --sidebar-width: 310px;
-  --sidebar: 310px;
+  --sidebar-width: 288px;
+  --sidebar: 288px;
   --menu-rail-width: 8px;
-  --content-rail-width: 8px;
-  --layout-gap: 26px;
+  --content-rail-width: 10px;
+  --layout-gap: 18px;
   --stage-pad-y: 28px;
-  --stage-pad-right: 22px;
-  --content-radius: 18px;
-  --radius-page: 18px;
+  --stage-pad-right: 10px;
+  --content-radius: 28px;
+  --radius-page: 28px;
   --radius-card: 0;
   --radius-control: 0;
   --rail-thumb: #8c9270;
@@ -194,7 +194,7 @@ a {
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 3px;
+  left: 4px;
   width: 2px;
   background: var(--rail-track);
 }
@@ -202,7 +202,7 @@ a {
 .custom-thumb {
   position: absolute;
   top: 0;
-  left: 2px;
+  left: 3px;
   width: 4px;
   min-height: 28px;
   background: var(--rail-thumb);
@@ -272,8 +272,8 @@ a {
   height: 100dvh;
   min-height: 0;
   background-color: var(--menu-bg);
-  background-image: linear-gradient(180deg, #20201b 0%, #1b1a16 54%, #151512 100%);
-  border-right: 1px solid var(--menu-line);
+  background-image: linear-gradient(180deg, color-mix(in srgb, var(--menu-bg) 94%, #fff 6%) 0%, var(--menu-bg) 54%, var(--menu-bg-deep) 100%);
+  border-right: 0;
   box-shadow: none;
   color: var(--menu-ink);
   overflow: hidden;
@@ -284,7 +284,7 @@ a {
   height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: 22px 18px 28px 20px;
+  padding: 22px 16px 28px 20px;
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
@@ -337,7 +337,7 @@ a {
 .nav {
   display: block;
   padding-top: 12px;
-  border-top: 1px solid var(--menu-line);
+  border-top: 0;
 }
 
 .nav-section {
@@ -352,7 +352,7 @@ a {
   grid-template-columns: 24px minmax(0, 1fr) auto;
   align-items: center;
   gap: 13px;
-  min-height: 46px;
+  min-height: 45px;
   padding: 11px 10px;
   color: var(--menu-muted);
   text-align: left;
@@ -373,7 +373,7 @@ a {
 .nav-item.active {
   background: var(--menu-active);
   color: var(--menu-ink);
-  box-shadow: inset 3px 0 0 var(--menu-active-bar);
+  box-shadow: none;
 }
 
 .nav-button:focus-visible,
@@ -381,7 +381,7 @@ a {
 .nav-item:focus-visible {
   outline: 0;
   background: rgba(246, 237, 223, 0.06);
-  box-shadow: inset 3px 0 0 rgba(232, 222, 212, 0.35);
+  box-shadow: none;
 }
 
 .nav-icon,
@@ -409,9 +409,9 @@ a {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
-  font-size: 15px;
-  font-weight: 560;
-  letter-spacing: 0.085em;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.105em;
   text-transform: uppercase;
 }
 
@@ -449,8 +449,8 @@ a {
   min-height: 38px;
   padding: 8px 10px;
   font-size: 13px;
-  font-weight: 540;
-  letter-spacing: 0.075em;
+  font-weight: 500;
+  letter-spacing: 0.095em;
   text-transform: uppercase;
   color: var(--menu-muted);
 }
@@ -533,8 +533,8 @@ a {
   gap: 12px;
   align-items: center;
   padding: 14px;
-  background: rgba(232, 222, 212, 0.48);
-  border: 1px solid rgba(91, 74, 62, 0.16);
+  background: color-mix(in srgb, var(--surface-solid) 72%, var(--accent));
+  border: 1px solid color-mix(in srgb, var(--surface-muted) 70%, var(--accent));
   box-shadow: none;
 }
 
@@ -545,8 +545,8 @@ a {
   align-items: center;
   gap: 10px;
   padding: 9px 12px;
-  background: rgba(246, 242, 235, 0.92);
-  border: 1px solid rgba(91, 74, 62, 0.18);
+  background: color-mix(in srgb, var(--surface-solid) 88%, #fff 12%);
+  border: 1px solid rgba(86, 81, 72, 0.22);
 }
 
 .search input,
@@ -557,7 +557,7 @@ a {
   width: 100%;
   border: 1px solid rgba(91, 74, 62, 0.18);
   outline: 0;
-  background: rgba(246, 242, 235, 0.92);
+  background: color-mix(in srgb, var(--surface-solid) 88%, #fff 12%);
   color: var(--ink);
   padding: 9px 12px;
 }
@@ -653,28 +653,35 @@ a {
 
 .filter-reset-button {
   flex: 0 0 auto;
-  width: 42px;
-  height: 42px;
-  min-height: 42px;
-  margin-left: 8px;
+  width: 30px;
+  height: 38px;
+  min-height: 38px;
+  margin-left: 4px;
   padding: 0;
-  color: var(--accent-soft);
-  background: rgba(86, 81, 72, 0.72);
+  color: var(--accent);
+  background: transparent;
   border: 0;
-  font-size: 18px;
-  font-weight: 820;
+  font-size: 22px;
+  font-weight: 600;
   line-height: 1;
   white-space: nowrap;
+  opacity: 0.78;
 }
 
 .filter-reset-button:hover {
-  color: var(--menu-ink);
-  background: rgba(98, 93, 82, 0.94);
+  color: var(--accent-soft);
+  background: transparent;
+  opacity: 1;
 }
 
 .filter-reset-button:disabled {
-  opacity: 0.38;
+  opacity: 0.32;
   cursor: default;
+}
+
+.filter-reset-button:disabled:hover {
+  color: var(--accent);
+  opacity: 0.32;
 }
 
 .type-filter-row::-webkit-scrollbar,
@@ -2183,7 +2190,7 @@ a.enemy-loot-chip:focus-visible {
 
 @media (max-width: 1180px) {
   :root {
-    --sidebar-width: 284px;
+    --sidebar-width: 270px;
     --layout-gap: 16px;
   }
 
@@ -2197,7 +2204,7 @@ a.enemy-loot-chip:focus-visible {
     left: 12px;
     top: 64px;
     bottom: auto;
-    width: min(310px, calc(100vw - 72px));
+    width: min(288px, calc(100vw - 72px));
     min-height: 0;
     max-height: calc(100vh - 78px);
     height: auto;
@@ -2208,7 +2215,7 @@ a.enemy-loot-chip:focus-visible {
 
   @supports (width: 100dvw) {
     .sidebar {
-      width: min(310px, calc(100dvw - 72px));
+      width: min(288px, calc(100dvw - 72px));
     }
   }
 

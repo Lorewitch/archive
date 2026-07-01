@@ -1,7 +1,7 @@
 :root {
   --bg: #151512;
-  --page-bg-paint: radial-gradient(circle at 18% 0%, rgba(32, 32, 27, 0.68), transparent 42%), linear-gradient(135deg, #151512 0%, #20201b 100%);
-  --surface: rgba(232, 226, 216, 0.96);
+  --page-bg-paint: radial-gradient(circle at 18% 0%, rgba(32, 32, 27, 0.52), transparent 44%), linear-gradient(135deg, #151512 0%, #20201b 100%);
+  --surface: rgba(232, 226, 216, 0.97);
   --surface-solid: #e8e2d8;
   --surface-soft: #ded5c9;
   --surface-muted: #d1c7ba;
@@ -18,19 +18,19 @@
   --menu-ink: #f3ecdf;
   --menu-muted: rgba(213, 203, 189, 0.82);
   --menu-line: rgba(243, 236, 223, 0.11);
-  --menu-active: rgba(52, 54, 45, 0.84);
+  --menu-active: #34362d;
   --menu-active-bar: #a9b17c;
   --shadow-soft: none;
   --shadow-card: none;
-  --sidebar-width: 310px;
-  --sidebar: 310px;
+  --sidebar-width: 288px;
+  --sidebar: 288px;
   --menu-rail-width: 8px;
-  --content-rail-width: 8px;
-  --layout-gap: 26px;
+  --content-rail-width: 10px;
+  --layout-gap: 18px;
   --stage-pad-y: 28px;
-  --stage-pad-right: 22px;
-  --content-radius: 18px;
-  --radius-page: 18px;
+  --stage-pad-right: 10px;
+  --content-radius: 28px;
+  --radius-page: 28px;
   --radius-card: 0;
   --radius-control: 0;
   --rail-thumb: #8c9270;
