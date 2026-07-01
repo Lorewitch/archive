@@ -1,4 +1,3 @@
-// check_archive legacy marker: assets/icons/element/01_Pyro.webp element:pyro rarity:5 rarity:4
 let BOOKS = [];
 let ARTIFACTS = [];
 let WEAPONS = [];

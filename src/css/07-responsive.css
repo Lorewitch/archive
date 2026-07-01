@@ -2,10 +2,9 @@
   :root {
     --sidebar-width: 320px;
     --layout-gap: 16px;
-  }
-
-  .content-scroll {
-    padding: 34px 30px 46px;
+    --content-pad-top: 24px;
+    --content-pad-x: 18px;
+    --content-pad-bottom: 32px;
   }
 
   .sidebar {
@@ -97,9 +96,6 @@
     height: calc(100dvh - 76px);
   }
 
-  .content-scroll {
-    padding: 24px 18px 32px;
-  }
 
   .catalog-page {
     overflow-x: clip;

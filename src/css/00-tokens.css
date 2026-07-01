@@ -35,6 +35,9 @@
   --layout-gap: 46px;
   --stage-pad-y: 28px;
   --stage-pad-right: 42px;
+  --content-pad-top: 44px;
+  --content-pad-x: 44px;
+  --content-pad-bottom: 56px;
   --content-radius: 28px;
   --radius-page: 28px;
   --radius-card: 0;

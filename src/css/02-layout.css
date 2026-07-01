@@ -29,14 +29,17 @@
   border-radius: var(--content-radius);
   box-shadow: var(--shadow-card);
   overflow: hidden;
+  isolation: isolate;
 }
 
 .content-scroll {
+  position: relative;
   width: 100%;
   height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
-  padding: 44px 44px 56px;
+  padding: var(--content-pad-top) var(--content-pad-x) var(--content-pad-bottom);
+  background: var(--surface);
   scrollbar-width: none;
   -ms-overflow-style: none;
 }

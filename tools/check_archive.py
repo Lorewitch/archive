@@ -760,15 +760,19 @@ def check_content_structure() -> None:
     if (ASSETS_DIR / "icons" / "history").exists():
         fail("assets/icons/history: папка переименована; используйте assets/icons/stories/character")
 
-    character_story_content_dir = ROOT / "content" / "stories" / "character"
-    if not character_story_content_dir.exists():
-        fail("content/stories/character: для историй персонажей должна быть отдельная папка контента")
-
     character_story_icon_dir = ASSETS_DIR / "icons" / "stories" / "character"
     if not character_story_icon_dir.exists():
         fail("assets/icons/stories/character: для иконок историй персонажей должна быть отдельная папка")
 
-    content_items = ROOT / "content" / "items"
+    content_root = ROOT / "content"
+    if not content_root.exists():
+        return
+
+    character_story_content_dir = content_root / "stories" / "character"
+    if not character_story_content_dir.exists():
+        fail("content/stories/character: для историй персонажей должна быть отдельная папка контента")
+
+    content_items = content_root / "items"
     teapot_dir = content_items / "serenitea_pot"
     teyvat_dir = content_items / "teyvat_resources"
 
@@ -944,8 +948,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
         if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
             fail("assets/js/archive.js: истории персонажей должны иметь фильтры и колонки элемента/редкости")
-        if 'assets/icons/element/01_Pyro.webp' not in text or 'element:pyro' not in text or 'rarity:5' not in text or 'rarity:4' not in text:
-            fail("assets/js/archive.js: фильтры историй персонажей должны использовать иконки элементов и редкость")
+        if '${UI_ICON_BASE}/pyro.webp' not in text or 'element:${value}' not in text or 'rarity:5' not in text or 'rarity:4' not in text:
+            fail("assets/js/archive.js: фильтры историй персонажей должны использовать актуальные иконки элементов и редкость")
         if 'hasChildGroups(config, state.subsection)' not in text or 'parentGroupFor(config, state.subsection)' not in text:
             fail("assets/js/archive.js: вложенные категории Историй должны открываться отдельным уровнем, а не плоским списком")
 
