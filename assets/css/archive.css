@@ -557,7 +557,7 @@ a {
   top: 0;
   left: 0;
   right: 0;
-  z-index: 0;
+  z-index: -1;
   height: var(--content-pad-top);
   background: var(--surface-solid);
   border-radius: var(--content-radius) var(--content-radius) 0 0;
@@ -860,50 +860,6 @@ a {
 .enemy-description-toggle:hover {
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 64%, var(--card-bg));
   color: var(--text-dark, var(--ink));
-}
-
-.back-link,
-.back-button {
-  position: relative;
-  justify-content: flex-start;
-  min-height: 46px;
-  padding: 0 28px 0 16px;
-  overflow: visible;
-  background: var(--accent);
-  color: #f6f2eb;
-  border: 1px solid rgba(246, 242, 235, 0.16);
-  border-right: 0;
-  font-size: 13px;
-  font-weight: 720;
-  letter-spacing: 0.035em;
-}
-
-.back-link::after,
-.back-button::after {
-  content: "";
-  position: absolute;
-  top: -1px;
-  bottom: -1px;
-  right: -22px;
-  z-index: 0;
-  width: 22px;
-  background: inherit;
-  border-top: inherit;
-  border-bottom: inherit;
-  clip-path: polygon(0 0, 100% 50%, 0 100%);
-  pointer-events: none;
-}
-
-.back-link:hover,
-.back-button:hover {
-  background: var(--accent-hover);
-  color: #f6f2eb;
-}
-
-.back-link:focus-visible,
-.back-button:focus-visible {
-  outline: 2px solid var(--accent-soft);
-  outline-offset: 4px;
 }
 
 .type-filter-chip {
@@ -1464,6 +1420,7 @@ a {
 .catalog-card {
   --card-rarity: var(--accent-soft);
   position: relative;
+  isolation: isolate;
   overflow: hidden;
   display: grid;
   grid-template-columns: 104px minmax(0, 1fr);
@@ -1485,7 +1442,7 @@ a {
   content: "";
   position: absolute;
   inset: 0;
-  z-index: 0;
+  z-index: -1;
   pointer-events: none;
   background: none;
 }
@@ -2278,10 +2235,44 @@ a {
   grid-template-columns: 1fr;
 }
 
+.content-card:has(.reader-head-nav .back-link) {
+  border-top-left-radius: 0;
+}
+
+.content-card:has(.reader-head-nav .back-link)::before {
+  border-top-left-radius: 0;
+}
+
+.reader-sticky-head:has(.reader-head-nav .back-link) {
+  border-top-left-radius: 0;
+}
+
+.reader-sticky-head:has(.reader-head-nav .back-link)::before {
+  border-top-left-radius: 0;
+}
+
 .reader-head-nav {
   display: flex;
   justify-content: flex-start;
   min-width: 0;
+  margin: calc(-1 * var(--content-pad-top)) 0 0 calc(-1 * var(--content-pad-x));
+}
+
+.reader-head-nav .back-link {
+  min-height: 48px;
+  padding: 0 22px;
+  background: var(--accent);
+  color: #f6f2eb;
+  border: 1px solid rgba(246, 242, 235, 0.16);
+  border-left: 0;
+  border-top: 0;
+  border-radius: 0;
+  font-weight: 720;
+}
+
+.reader-head-nav .back-link:hover {
+  background: var(--accent-hover);
+  color: #f6f2eb;
 }
 
 .reader-head-main {
