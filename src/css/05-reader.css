@@ -85,7 +85,7 @@
 .dropped-by-section {
   margin-top: 14px;
   padding: 18px;
-  background: rgba(232, 222, 212, 0.50);
+  background: color-mix(in srgb, var(--surface-muted) 78%, var(--surface-solid));
   border: 0;
   box-shadow: var(--shadow-soft);
 }
@@ -202,8 +202,32 @@
   min-width: 0;
 }
 
+.reader-block-heading {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 36px;
+  margin: 20px 0 8px;
+  padding: 0 14px;
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: 0.035em;
+  text-transform: uppercase;
+}
+
+.reader-block-heading-accent {
+  background: var(--accent);
+  color: #f6f2eb;
+}
+
+.reader-block-heading-light {
+  background: color-mix(in srgb, var(--surface-muted) 86%, var(--surface-solid));
+  color: #211b17;
+}
+
 .weapon-description-panel {
-  margin-top: 14px;
+  margin-top: 0;
   padding: 18px 20px;
   background: var(--accent);
   color: #f6f2eb;
@@ -211,11 +235,6 @@
   box-shadow: var(--shadow-soft);
 }
 
-.weapon-description-panel .volume-title {
-  margin-bottom: 10px;
-}
-
-.weapon-description-panel .volume-title h3,
 .weapon-description-panel .prose,
 .weapon-description-panel .prose h1,
 .weapon-description-panel .prose h2,
@@ -226,6 +245,16 @@
 
 .weapon-description-panel .prose {
   min-width: 0;
+}
+
+.weapon-description-panel ::selection {
+  background: rgba(246, 242, 235, 0.92);
+  color: var(--accent);
+}
+
+.weapon-description-panel ::-moz-selection {
+  background: rgba(246, 242, 235, 0.92);
+  color: var(--accent);
 }
 
 .enemy-description-content .prose {

@@ -1058,6 +1058,40 @@ function splitWeaponDescriptionText(value) {
   };
 }
 
+const READER_SECTION_LABELS = {
+  description: { ru: "Описание", en: "Description", zh: "描述" },
+  history: { ru: "История", en: "Story", zh: "故事" }
+};
+
+function readerSectionLabel(key) {
+  const labels = READER_SECTION_LABELS[key] || {};
+  return labels[state.lang] || labels.ru || key;
+}
+
+function stripLeadingMarkdownHeading(value, fallbackTitle) {
+  const raw = String(value ?? "").replace(/\r\n/g, "\n").trim();
+  if (!raw) return { title: fallbackTitle, body: "" };
+
+  const headingMatch = raw.match(/^#{1,6}\s+(.+?)\s*$/m);
+  if (!headingMatch || headingMatch.index !== 0) {
+    return { title: fallbackTitle, body: raw };
+  }
+
+  const title = headingMatch[1]
+    .replace(/[*_`~]/g, "")
+    .replace(/\s+/g, " ")
+    .trim() || fallbackTitle;
+
+  return {
+    title,
+    body: raw.slice(headingMatch[0].length).trim()
+  };
+}
+
+function renderReaderBlockHeading(title, className = "") {
+  return `<div class="reader-block-heading ${escapeHtml(className)}">${escapeHtml(title)}</div>`;
+}
+
 
 function isTemplatePublicNote(value) {
   const text = String(value ?? "")
@@ -2830,16 +2864,16 @@ function renderGenericDetail(item, config) {
   const itemIconClass = ["inventory-card-icon", "item-description-float-icon", entryRarityBackgroundClass(item)].filter(Boolean).join(" ");
   const itemFloatIcon = isSimpleItem ? renderInventoryIcon(item, itemIconClass, 112) : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
+      ${renderReaderBlockHeading(readerSectionLabel("description"), "reader-block-heading-accent")}
       <article class="weapon-description-panel ${config.id}-detail-card">
-        <div class="volume-title generic-title">
-          <div class="volume-title-main"><h3>Описание</h3></div>
-        </div>
         <div class="prose">${markdownToHtml(weaponTextParts.description)}</div>
       </article>
   ` : "";
-  const weaponHistoryBlock = isWeapon && weaponTextParts.details ? `
+  const weaponHistoryParts = isWeapon ? stripLeadingMarkdownHeading(weaponTextParts.details, readerSectionLabel("history")) : { title: "", body: "" };
+  const weaponHistoryBlock = isWeapon && weaponHistoryParts.body ? `
+      ${renderReaderBlockHeading(weaponHistoryParts.title, "reader-block-heading-light")}
       <article class="text-card generic-text-card weapon-history-card ${config.id}-detail-card">
-        <div class="prose weapon-detail-main-text">${markdownToHtml(weaponTextParts.details)}</div>
+        <div class="prose weapon-detail-main-text">${markdownToHtml(weaponHistoryParts.body)}</div>
       </article>
   ` : "";
   const bodyBlock = isSimpleItem ? `
@@ -2851,7 +2885,7 @@ function renderGenericDetail(item, config) {
     ? renderDroppedBySection(item)
     : "";
   const detailMarkup = isWeapon ? `
-      ${weaponDescriptionBlock || `<article class="weapon-description-panel ${config.id}-detail-card"><div class="prose">${markdownToHtml(text)}</div></article>`}
+      ${weaponDescriptionBlock || `${renderReaderBlockHeading(readerSectionLabel("description"), "reader-block-heading-accent")}<article class="weapon-description-panel ${config.id}-detail-card"><div class="prose">${markdownToHtml(text)}</div></article>`}
       ${weaponHistoryBlock}
       ${notesBlock}
   ` : `
