@@ -11,9 +11,11 @@ on:
       - 'content/stories/**'
       - 'content/enemies/**'
       - 'src/css/**'
+      - 'src/js/**'
       - 'tools/build_archive.py'
       - 'tools/build_bot_mentions_index.py'
       - 'tools/build_css.py'
+      - 'tools/build_js.py'
       - 'tools/check_archive.py'
       - 'tools/bump_cache_version.py'
       - 'assets/js/archive.js'
@@ -47,6 +49,9 @@ jobs:
       - name: Build CSS bundle
         run: python tools/build_css.py
 
+      - name: Build JS bundle
+        run: python tools/build_js.py
+
       - name: Bump cache version when public assets changed
         shell: bash
         run: |
@@ -56,7 +61,7 @@ jobs:
           changed_files="$(mktemp)"
           before="${{ github.event.before }}"
 
-          if ! git diff --quiet -- data assets/css/archive.css; then
+          if ! git diff --quiet -- data assets/css/archive.css assets/js/archive.js; then
             public_changed=true
           fi
 
@@ -87,7 +92,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data assets/css/archive.css index.html
+          git add data assets/css/archive.css assets/js/archive.js index.html
           if git diff --cached --quiet; then
             echo "No generated file changes."
           else

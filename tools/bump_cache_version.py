@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_INDEX = ROOT / "index.html"
-CACHE_RE = re.compile(r"(assets/(?:css/archive\.css|js/archive\.js|icons/logo_icon_05\.webp)\?v=)([A-Za-z0-9_.-]+)")
+CACHE_RE = re.compile(r"(assets/(?:css/archive\.css|js/archive\.js|icons/(?:logo_icon_05|logo_menu_symbol)\.webp)\?v=)([A-Za-z0-9_.-]+)")
 
 
 def next_version_from(text: str) -> str:

@@ -397,7 +397,6 @@ a {
 
 .brand {
   display: grid;
-  gap: 14px;
   align-items: start;
   margin-bottom: 32px;
 }
@@ -421,13 +420,15 @@ a {
   font-size: var(--font-size-logo);
   line-height: 1.06;
   letter-spacing: 0.02em;
-  color: var(--menu-text);
+  color: var(--menu-ink);
 }
 
 .brand-subtitle {
+  margin-top: 9px;
+  padding-left: 102px;
   color: var(--menu-muted);
-  font-size: var(--font-size-nav-meta);
-  line-height: 1.45;
+  font-size: 12px;
+  line-height: 1.35;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
