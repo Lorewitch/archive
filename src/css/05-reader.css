@@ -478,8 +478,10 @@
 }
 
 .reader-corner-controls .reader-content-type-button {
-  flex: 0 0 auto;
-  min-width: 96px;
+  flex: 0 0 126px;
+  width: 126px;
+  min-width: 126px;
+  max-width: 126px;
 }
 
 .reader-corner-controls .mode-button:hover,
@@ -584,27 +586,27 @@
 
 .reader-tabs-row .reader-section-scroll {
   gap: 8px;
-  padding-bottom: 8px;
+  padding-bottom: 5px;
   scrollbar-width: thin;
-  scrollbar-color: var(--rail-thumb) rgba(86, 81, 72, 0.12);
+  scrollbar-color: var(--accent) rgba(86, 81, 72, 0.08);
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar {
   display: block;
-  width: 7px;
-  height: 7px;
+  width: 3px;
+  height: 3px;
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar-track {
-  background: rgba(86, 81, 72, 0.12);
+  background: rgba(86, 81, 72, 0.08);
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar-thumb {
-  background: var(--rail-thumb);
+  background: var(--accent);
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar-thumb:hover {
-  background: var(--rail-thumb-hover);
+  background: var(--accent-hover);
 }
 
 .story-inner-tabs-row {

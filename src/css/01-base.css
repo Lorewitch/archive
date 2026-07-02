@@ -28,6 +28,16 @@ body {
   overscroll-behavior-x: none;
 }
 
+::selection {
+  background: color-mix(in srgb, var(--accent) 82%, transparent);
+  color: #fffaf2;
+}
+
+::-moz-selection {
+  background: color-mix(in srgb, var(--accent) 82%, transparent);
+  color: #fffaf2;
+}
+
 button,
 input,
 select,

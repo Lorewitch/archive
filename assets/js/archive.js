@@ -2779,9 +2779,7 @@ function renderStoryDetail(story, config) {
   const contentTypeButtons = contentTypes.length > 1
     ? contentTypes.map(type => `<button class="reader-content-type-button ${contentType === type.key ? "active" : ""}" type="button" data-story-content="${escapeHtml(type.key)}">${escapeHtml(localizedStoryField(type.label))}</button>`).join("")
     : "";
-  const readAllButton = showPartToolbar
-    ? `<button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? (contentType === "replicas" ? "Читать по репликам" : "Читать по разделам") : (contentType === "replicas" ? "Читать все реплики" : "Читать всё подряд")}</button>`
-    : "";
+  const readAllButton = `<button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? (contentType === "replicas" ? "Читать по репликам" : "Читать по разделам") : (contentType === "replicas" ? "Читать все реплики" : "Читать всё подряд")}</button>`;
   const cornerControls = renderReaderCornerControls(contentTypeButtons, readAllButton);
   const controls = renderReaderControls(
     renderReaderTabBlock("", partButtons, { className: "story-inner-tabs-row" })

@@ -434,7 +434,10 @@ html.is-mobile-landscape .content {
   }
 
   .reader-corner-controls .reader-content-type-button {
-    min-width: 78px;
+    flex-basis: 98px;
+    width: 98px;
+    min-width: 98px;
+    max-width: 98px;
   }
 
   .reader-corner-controls {
