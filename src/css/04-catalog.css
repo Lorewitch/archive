@@ -432,6 +432,16 @@
   background-color: var(--filter-color, currentColor);
 }
 
+.type-filter-chip.has-icon.type-filter-weapon:has(input:checked),
+.type-filter-chip.has-icon.type-filter-weapon.is-active {
+  color: var(--menu-ink);
+}
+
+.type-filter-chip.has-icon.type-filter-weapon:has(input:checked) .type-filter-icon,
+.type-filter-chip.has-icon.type-filter-weapon.is-active .type-filter-icon {
+  background-color: currentColor;
+}
+
 .type-filter-chip.has-icon .type-filter-label {
   position: absolute;
   width: 1px;
