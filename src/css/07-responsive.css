@@ -396,9 +396,8 @@ html.is-mobile-landscape .content {
 
 @media (max-width: 720px) {
   .material-float-icon,
-  .common-enemy-material-card .material-float-icon,
-  .item-description-float-icon,
-  .enemy-description-icon {
+  .inventory-card-icon,
+  .item-description-float-icon {
     float: none;
     display: block;
     margin: 0 auto 14px;

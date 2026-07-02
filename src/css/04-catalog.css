@@ -306,7 +306,6 @@
 .pagination button,
 .sortable-head,
 .enemy-loot-chip,
-.enemy-description-toggle,
 .type-filter-toggle {
   display: inline-flex;
   align-items: center;
@@ -334,8 +333,7 @@
 .volume-scroll button.active,
 .pagination button:hover:not(:disabled),
 .pagination button.active,
-.enemy-loot-chip:hover,
-.enemy-description-toggle:hover {
+.enemy-loot-chip:hover:hover {
   background: color-mix(in srgb, var(--surface-main, var(--surface-solid)) 64%, var(--card-bg));
   color: var(--text-dark, var(--ink));
 }

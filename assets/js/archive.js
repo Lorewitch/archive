@@ -10,8 +10,8 @@ const SEARCH_TEXT_CACHE = new WeakMap();
 const STORY_SEARCH_TEXTS = new Map();
 let storySearchLoad = null;
 const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
-const catalogScrollPositions = new Map();
 const expandedEnemyDescriptionKeys = new Set();
+const catalogScrollPositions = new Map();
 let renderSequence = 0;
 let renderedRouteKey = "";
 let activeDetail = null;
@@ -831,8 +831,6 @@ const state = {
   readAll: false,
   artifactPart: "flower",
   artifactReadAll: false,
-  itemMaterial: "",
-  itemReadAll: false,
   storyPart: 1,
   storyReadAll: false,
   storyContentType: "stories",
@@ -1360,6 +1358,42 @@ function renderReaderStickyHead(item, options = {}) {
 
 function materialTitle(material, lang = "ru") {
   return material?.title?.[lang] || material?.title?.ru || material?.title?.en || material?.title?.zh || material?.name || material?.key || "Материал";
+}
+
+function inventoryTitleLines(entry, titleGetter, fallback = "Без названия") {
+  const ru = titleGetter(entry, "ru");
+  const en = titleGetter(entry, "en");
+  const zh = titleGetter(entry, "zh");
+  return {
+    ru: ru || en || zh || fallback,
+    en: en || "",
+    zh: zh || "",
+  };
+}
+
+function renderInventoryTitleBlock(entry, options = {}) {
+  const titleGetter = options.titleGetter || ((value, lang) => titleOf(value, lang));
+  const titles = inventoryTitleLines(entry, titleGetter, options.fallback || "Без названия");
+  const subtitle = [titles.en, titles.zh].filter(Boolean).join(" · ");
+  return `
+    <div class="volume-title-main inventory-card-title-main">
+      <h3>${escapeHtml(titles.ru)}</h3>
+      ${subtitle ? `<div class="material-title-subtitle">${escapeHtml(subtitle)}</div>` : ""}
+    </div>
+  `;
+}
+
+function renderInventoryMaterialTitleBlock(material) {
+  return renderInventoryTitleBlock(material, {
+    titleGetter: (value, lang) => materialTitle(value, lang),
+    fallback: "Материал",
+  });
+}
+
+function renderInventoryIcon(entry, className, size) {
+  return entry?.icon
+    ? `<img class="${escapeHtml(className)}" src="${escapeHtml(versionedAssetPath(entry.icon))}" alt="" loading="lazy" decoding="async" width="${size}" height="${size}">`
+    : "";
 }
 
 function renderCommonEnemyMaterialsCell(item) {
@@ -2502,38 +2536,19 @@ function rememberEnemyDescriptionState(panel, expanded) {
   }
 }
 
-function fitEnemyDescriptionPanel() {
-  document.querySelectorAll(".enemy-description-panel").forEach(panel => {
-    const textNode = panel.querySelector(".enemy-description-text");
-    const button = panel.querySelector(".enemy-description-toggle");
-    if (!textNode || !button) return;
+function renderBossOverviewCard(item) {
+  const text = localizedEntryText(item);
+  if (!text && !item?.icon) return "";
+  const icon = renderInventoryIcon(item, "inventory-card-icon boss-overview-icon", 112);
 
-    const descriptionKey = panel.dataset.descriptionKey || "";
-    const wasExpanded = expandedEnemyDescriptionKeys.has(descriptionKey)
-      || (panel.classList.contains("is-collapsible") && !panel.classList.contains("is-collapsed"));
-
-    panel.classList.remove("is-collapsible", "is-collapsed");
-    button.hidden = true;
-    button.setAttribute("aria-expanded", "false");
-    button.textContent = "Показать полностью";
-
-    const styles = getComputedStyle(textNode);
-    const lineHeight = parseFloat(styles.lineHeight) || 28;
-    const maxVisibleHeight = lineHeight * 3.15;
-    const isTooTall = textNode.scrollHeight > maxVisibleHeight + 6;
-
-    if (!isTooTall) return;
-
-    panel.classList.add("is-collapsible");
-    button.hidden = false;
-
-    if (wasExpanded) {
-      button.setAttribute("aria-expanded", "true");
-      button.textContent = "Свернуть";
-    } else {
-      panel.classList.add("is-collapsed");
-    }
-  });
+  return `
+    <article class="text-card inventory-card boss-overview-card" data-description-key="${escapeHtml(enemyDescriptionKey(item, activeDetail?.configId || state.section))}">
+      <div class="volume-title">
+        ${renderInventoryTitleBlock(item)}
+      </div>
+      <div class="prose inventory-card-body">${icon}${markdownToHtml(text || "Описание босса будет добавлено позже.")}</div>
+    </article>
+  `;
 }
 
 function renderEnemyDropsDetail(item, config) {
@@ -2544,34 +2559,10 @@ function renderEnemyDropsDetail(item, config) {
     return;
   }
 
-  if (!materials.some(material => material.key === state.itemMaterial)) {
-    state.itemMaterial = materials[0].key;
-  }
-
-  const enemyDescription = localizedEntryText(item);
-  const descriptionKey = enemyDescriptionKey(item, config.id);
-  const enemyIcon = item.icon
-    ? `<img class="enemy-description-icon" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
-    : "";
-  const enemyDescriptionBlock = enemyDescription ? `
-      <div class="enemy-overview-card enemy-description-panel${enemyIcon ? "" : " no-icon"}" data-description-key="${escapeHtml(descriptionKey)}">
-        ${enemyIcon}
-        <div class="enemy-description-content">
-          <div class="prose enemy-description-text">${markdownToHtml(enemyDescription)}</div>
-          <button class="enemy-description-toggle" type="button" aria-expanded="false" hidden>Показать полностью</button>
-        </div>
-      </div>
-  ` : "";
   const commonEnemyLootPage = item.item_group === "common_enemies";
   const developmentMaterialPage = item.item_group === "development_materials";
   const bossLootPage = isEnemyDropGroup(item.item_group) && !commonEnemyLootPage;
-  const materialButtons = materials.map(material => `<button type="button" data-item-material="${escapeHtml(material.key)}" class="${!state.itemReadAll && state.itemMaterial === material.key ? "active" : ""}">${escapeHtml(materialTitle(material, state.lang))}</button>`).join("");
-  const cornerControls = renderReaderCornerControls(
-    `<button class="mode-button ${state.itemReadAll ? "active" : ""}" id="toggle-item-read-all" type="button">${state.itemReadAll ? "Читать по материалам" : "Читать все материалы"}</button>`
-  );
-  const controls = renderReaderControls(
-    renderReaderTabBlock("Материалы", materialButtons)
-  );
+  const bossDescriptionBlock = bossLootPage ? renderBossOverviewCard(item) : "";
 
   app.innerHTML = `
     <section class="page-card book-page reader-page${commonEnemyLootPage ? " common-enemy-loot-page" : ""}${developmentMaterialPage ? " development-material-page" : ""}${bossLootPage ? " boss-loot-page" : ""}">
@@ -2579,74 +2570,36 @@ function renderEnemyDropsDetail(item, config) {
         className: "items-detail-head",
         backId: "back-section",
         backLabel: catalogBackLabel(config, state.subsection),
-        cornerControls,
-        controls,
+        cornerControls: renderReaderCornerControls(),
       })}
 
-      ${enemyDescriptionBlock}
+      ${bossDescriptionBlock}
 
       <div id="reader-text-area">${renderEnemyMaterialsTextArea(item)}</div>
 
       ${item.item_group === "common_enemies" ? renderDroppedBySection(item) : ""}
     </section>
   `;
-
-  fitItemMaterialTabs();
-  requestAnimationFrame(fitEnemyDescriptionPanel);
 }
 
 function renderEnemyMaterialsTextArea(item) {
   const materials = Array.isArray(item.materials) ? item.materials : [];
-  const selectedMaterials = state.itemReadAll ? materials : materials.filter(material => material.key === state.itemMaterial);
-  const generalNote = cleanPublicNote(item.notes?.general || "");
 
-  return selectedMaterials.map((material, index) => {
-    const isCommonEnemyMaterial = item?.item_group === "common_enemies";
-    const isDevelopmentMaterial = item?.item_group === "development_materials";
-    const isCompactMaterialSet = isCommonEnemyMaterial || isDevelopmentMaterial;
-    const title = escapeHtml(materialTitle(material, isCompactMaterialSet ? "ru" : state.lang));
+  return materials.map(material => {
     const text = localizedMaterialText(material) || "Описание материала будет добавлено позже.";
-    const titleSubtitle = isCompactMaterialSet ? `
-      <div class="material-title-subtitle">
-        ${escapeHtml([materialTitle(material, "en"), materialTitle(material, "zh")].filter(Boolean).join(" · "))}
-      </div>
-    ` : "";
-    const iconSize = isCompactMaterialSet ? 104 : 128;
-    const iconMarkup = material.icon ? `<img class="material-float-icon" src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="${iconSize}" height="${iconSize}">` : "";
+    const iconMarkup = material.icon ? `<img class="inventory-card-icon material-float-icon" src="${escapeHtml(versionedAssetPath(material.icon))}" alt="" loading="lazy" decoding="async" width="112" height="112">` : "";
     const notesBlock = "";
 
     return `
-      <article class="text-card artifact-text-card${isCompactMaterialSet ? " common-enemy-material-card" : ""}" id="item-material-${escapeHtml(material.key)}">
+      <article class="text-card artifact-text-card inventory-card inventory-material-card" id="item-material-${escapeHtml(material.key)}">
         <div class="volume-title">
-          <div class="volume-title-main"><h3>${title}</h3>${titleSubtitle}</div>
+          ${renderInventoryMaterialTitleBlock(material)}
         </div>
-        <div class="prose material-reader-body">${iconMarkup}${markdownToHtml(text)}</div>
+        <div class="prose material-reader-body inventory-card-body">${iconMarkup}${markdownToHtml(text)}</div>
         ${notesBlock}
       </article>
     `;
   }).join("");
-}
-
-function fitItemMaterialTabs() {
-  document.querySelectorAll(".item-material-tabs").forEach(tabs => {
-    const buttons = Array.from(tabs.querySelectorAll("[data-item-material]"));
-    if (!buttons.length) return;
-
-    buttons.forEach(button => {
-      button.classList.remove("item-material-wide");
-      button.style.removeProperty("--item-material-label-width");
-    });
-
-    const available = tabs.clientWidth;
-    if (!available) return;
-
-    buttons.forEach(button => {
-      const measuredWidth = button.scrollWidth;
-      if (measuredWidth > available * 0.62) {
-        button.classList.add("item-material-wide");
-      }
-    });
-  });
 }
 
 function storyParts(item) {
@@ -2858,10 +2811,8 @@ function renderGenericDetail(item, config) {
   const weaponIcon = isWeapon && item.icon
     ? `<img class="${escapeHtml(weaponIconClass)}" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
     : "";
-  const itemIconClass = ["item-description-float-icon", entryRarityBackgroundClass(item)].filter(Boolean).join(" ");
-  const itemFloatIcon = isSimpleItem && item.icon
-    ? `<img class="${escapeHtml(itemIconClass)}" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="104" height="104">`
-    : "";
+  const itemIconClass = ["inventory-card-icon", "item-description-float-icon", entryRarityBackgroundClass(item)].filter(Boolean).join(" ");
+  const itemFloatIcon = isSimpleItem ? renderInventoryIcon(item, itemIconClass, 112) : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
         <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
           ${weaponIcon}
@@ -2875,7 +2826,7 @@ function renderGenericDetail(item, config) {
         ${weaponDescriptionBlock || weaponDetailsBlock || `<div class="prose">${markdownToHtml(text)}</div>`}
         ${weaponDescriptionBlock ? weaponDetailsBlock : ""}
   ` : isSimpleItem ? `
-        <div class="prose item-description-prose">${itemFloatIcon}${markdownToHtml(text)}</div>
+        <div class="prose item-description-prose inventory-card-body">${itemFloatIcon}${markdownToHtml(text)}</div>
   ` : `
         <div class="prose">${markdownToHtml(text)}</div>
   `;
@@ -2892,7 +2843,7 @@ function renderGenericDetail(item, config) {
       })}
       <article class="text-card generic-text-card ${config.id}-detail-card">
         <div class="volume-title generic-title">
-          <div class="volume-title-main"><h3>${(config.id === "weapons" || config.id === "items") ? "Описание" : "Текст"}</h3></div>
+          ${isSimpleItem ? renderInventoryTitleBlock(item) : `<div class="volume-title-main"><h3>${config.id === "weapons" ? "Описание" : "Текст"}</h3></div>`}
         </div>
         ${bodyBlock}
         ${droppedByBlock}
@@ -3081,12 +3032,6 @@ function handleAppClick(event) {
     return;
   }
 
-  if (event.target.closest("#toggle-item-read-all") && activeDetail?.type === "enemyDrops") {
-    state.itemReadAll = !state.itemReadAll;
-    rerenderActiveDetailPreservingScroll();
-    return;
-  }
-
   if (event.target.closest("#toggle-story-read-all") && activeDetail?.type === "story") {
     state.storyReadAll = !state.storyReadAll;
     rerenderActiveDetailPreservingScroll();
@@ -3122,14 +3067,6 @@ function handleAppClick(event) {
   if (artifactPartButton && activeDetail?.type === "artifact") {
     state.artifactPart = artifactPartButton.dataset.artifactPart;
     state.artifactReadAll = false;
-    rerenderActiveDetailPreservingScroll();
-    return;
-  }
-
-  const itemMaterialButton = event.target.closest("[data-item-material]");
-  if (itemMaterialButton && activeDetail?.type === "enemyDrops") {
-    state.itemMaterial = itemMaterialButton.dataset.itemMaterial;
-    state.itemReadAll = false;
     rerenderActiveDetailPreservingScroll();
     return;
   }
@@ -3599,8 +3536,6 @@ function scheduleResponsiveFit() {
   if (responsiveFitFrame) return;
   responsiveFitFrame = window.requestAnimationFrame(() => {
     responsiveFitFrame = 0;
-    fitItemMaterialTabs();
-    fitEnemyDescriptionPanel();
     syncReaderSectionScrollbars();
   });
 }
