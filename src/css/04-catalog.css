@@ -1055,33 +1055,6 @@
   flex-direction: column;
 }
 
-.catalog-card:not(.catalog-card--character-story) {
-  align-items: start;
-}
-
-.catalog-card:not(.catalog-card--character-story) .catalog-card-media {
-  grid-column: 1;
-  grid-row: 1;
-}
-
-.catalog-card:not(.catalog-card--character-story) .catalog-card-body {
-  display: contents;
-  padding-right: 0;
-}
-
-.catalog-card:not(.catalog-card--character-story) .catalog-card-title-block {
-  grid-column: 2;
-  grid-row: 1;
-  align-self: center;
-  padding-right: 36px;
-}
-
-.catalog-card:not(.catalog-card--character-story) .catalog-card-meta {
-  grid-column: 1 / -1;
-  width: 100%;
-  margin-top: 0;
-  padding-right: 28px;
-}
 
 .catalog-card-title {
   display: -webkit-box;
