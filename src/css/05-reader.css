@@ -290,6 +290,15 @@
   pointer-events: none;
 }
 
+.reader-sticky-head.reader-sticky-head-compact {
+  gap: 0;
+  padding-bottom: 0;
+}
+
+.reader-sticky-head.reader-sticky-head-compact .reader-head-main {
+  display: none;
+}
+
 .reader-sticky-head.book-detail-head,
 .reader-sticky-head.artifact-detail-head,
 .reader-sticky-head.story-detail-head,

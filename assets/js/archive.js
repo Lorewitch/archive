@@ -1325,6 +1325,7 @@ function renderReaderControls(...blocks) {
 }
 
 function renderReaderStickyHead(item, options = {}) {
+  const showMain = options.showMain !== false;
   const icon = detailHeaderIconFor(item);
   const iconClass = [
     "reader-head-icon",
@@ -1336,21 +1337,28 @@ function renderReaderStickyHead(item, options = {}) {
     : `<span class="reader-head-icon reader-head-icon-placeholder" aria-hidden="true">⌁</span>`;
   const englishTitle = detailTitleVariant(item, "en");
   const chineseTitle = detailTitleVariant(item, "zh");
+  const headClass = [
+    "reader-sticky-head",
+    options.className || "",
+    showMain ? "" : "reader-sticky-head-compact",
+  ].filter(Boolean).join(" ");
 
   return `
-    <div class="reader-sticky-head ${escapeHtml(options.className || "")}">
+    <div class="${escapeHtml(headClass)}">
       <div class="reader-head-nav">
         <button class="back-link" id="${escapeHtml(options.backId || "back-section")}" type="button">${escapeHtml(options.backLabel || "← Назад")}</button>
         ${options.cornerControls || renderReaderCornerControls()}
       </div>
-      <div class="reader-head-main">
-        ${iconMarkup}
-        <div class="reader-head-titles">
-          <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
-          ${englishTitle ? `<div class="reader-title-alt">${escapeHtml(englishTitle)}</div>` : ""}
-          ${chineseTitle ? `<div class="reader-title-alt reader-title-zh">${escapeHtml(chineseTitle)}</div>` : ""}
+      ${showMain ? `
+        <div class="reader-head-main">
+          ${iconMarkup}
+          <div class="reader-head-titles">
+            <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
+            ${englishTitle ? `<div class="reader-title-alt">${escapeHtml(englishTitle)}</div>` : ""}
+            ${chineseTitle ? `<div class="reader-title-alt reader-title-zh">${escapeHtml(chineseTitle)}</div>` : ""}
+          </div>
         </div>
-      </div>
+      ` : ""}
       ${options.controls || ""}
     </div>
   `;
@@ -2571,6 +2579,7 @@ function renderEnemyDropsDetail(item, config) {
         backId: "back-section",
         backLabel: catalogBackLabel(config, state.subsection),
         cornerControls: renderReaderCornerControls(),
+        showMain: false,
       })}
 
       ${bossDescriptionBlock}
@@ -2840,6 +2849,7 @@ function renderGenericDetail(item, config) {
         className: `${escapeHtml(config.id)}-detail-head`,
         backId: "back-section",
         backLabel: catalogBackLabel(config, state.subsection),
+        showMain: !isSimpleItem,
       })}
       <article class="text-card generic-text-card ${config.id}-detail-card">
         <div class="volume-title generic-title">
