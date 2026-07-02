@@ -871,22 +871,8 @@ const contentCard = document.querySelector(".content-card");
 const contentScroll = document.getElementById("content-scroll");
 const sidebarScroll = document.getElementById("sidebar-scroll");
 
-function syncFixedControlsToContentCard() {
-  if (!contentCard) return;
-  const viewport = window.visualViewport;
-  const viewportWidth = viewport?.width || window.innerWidth || document.documentElement.clientWidth || 0;
-  const viewportHeight = viewport?.height || window.innerHeight || document.documentElement.clientHeight || 0;
-  const rect = contentCard.getBoundingClientRect();
-
-  document.documentElement.style.setProperty("--fixed-control-top", `${Math.max(0, Math.round(rect.top))}px`);
-  document.documentElement.style.setProperty("--fixed-control-left", `${Math.max(0, Math.round(rect.left))}px`);
-  document.documentElement.style.setProperty("--fixed-control-right", `${Math.max(0, Math.round(viewportWidth - rect.right))}px`);
-  document.documentElement.style.setProperty("--fixed-control-bottom", `${Math.max(0, Math.round(viewportHeight - rect.bottom))}px`);
-}
-
 function syncReaderModeClass() {
   contentCard?.classList.toggle("has-reader-page", Boolean(app?.querySelector(".reader-page")));
-  syncFixedControlsToContentCard();
 }
 
 function primaryScrollY() {
@@ -937,10 +923,7 @@ function syncCustomScrollbarsSoon() {
   if (typeof window.__archiveSyncScrollbars === "function") {
     window.requestAnimationFrame(() => window.__archiveSyncScrollbars());
   } else {
-    window.requestAnimationFrame(() => {
-      syncFixedControlsToContentCard();
-      syncReaderSectionScrollbars();
-    });
+    window.requestAnimationFrame(syncReaderSectionScrollbars);
   }
 }
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
@@ -2373,11 +2356,6 @@ function renderCatalogFilterReset(config = currentCatalogConfig()) {
 }
 
 
-function catalogDisplayTitle(config) {
-  if (state.subsection) return groupLabel(config, state.subsection);
-  return config?.title || "Каталог";
-}
-
 function renderCatalog(config) {
   activeDetail = null;
   const filterState = state.filters[config.id];
@@ -2395,10 +2373,6 @@ function renderCatalog(config) {
   app.innerHTML = `
     <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}">
       <div class="catalog-sticky-head">
-        <header class="catalog-top">
-          <h1>${escapeHtml(catalogDisplayTitle(config))}</h1>
-        </header>
-
         <div class="toolbar">
           <div class="catalog-search-bar">
             <label class="search" aria-label="Поиск">
@@ -3004,11 +2978,13 @@ function handleNavClick(event) {
 
     if (sectionId === "items") {
       setRoute("items", null, key);
+      closeMenu();
       return;
     }
 
     if (sectionId === "stories") {
       setRoute("stories", null, key);
+      closeMenu();
       return;
     }
   }
@@ -3016,6 +2992,7 @@ function handleNavClick(event) {
   const button = event.target.closest("[data-section]");
   if (!button) return;
   setRoute(button.dataset.section);
+  closeMenu();
 }
 
 function handleAppClick(event) {
@@ -3512,12 +3489,10 @@ function setupCustomScrollbar(scrollEl, railEl, thumbEl) {
 const updateMenuRail = setupCustomScrollbar(sidebarScroll, document.getElementById("menu-rail"), document.getElementById("menu-thumb"));
 const updateContentRail = setupCustomScrollbar(contentScroll, document.getElementById("content-rail"), document.getElementById("content-thumb"));
 window.__archiveSyncScrollbars = function archiveSyncScrollbars() {
-  syncFixedControlsToContentCard();
   updateMenuRail();
   updateContentRail();
   syncReaderSectionScrollbars();
   requestAnimationFrame(() => {
-    syncFixedControlsToContentCard();
     updateMenuRail();
     updateContentRail();
     syncReaderSectionScrollbars();
@@ -3614,7 +3589,6 @@ function scheduleResponsiveFit() {
   if (responsiveFitFrame) return;
   responsiveFitFrame = window.requestAnimationFrame(() => {
     responsiveFitFrame = 0;
-    syncFixedControlsToContentCard();
     syncReaderSectionScrollbars();
   });
 }
@@ -3622,7 +3596,6 @@ function scheduleResponsiveFit() {
 function applyViewportCleanup() {
   viewportCleanupFrame = 0;
   updateMobileLandscapeClass();
-  syncFixedControlsToContentCard();
   resetHorizontalScroll();
   scheduleResponsiveFit();
 }
@@ -3655,13 +3628,7 @@ window.addEventListener("scroll", updateToTopButton, { passive: true });
 updateToTopButton();
 
 updateMobileLandscapeClass();
-syncFixedControlsToContentCard();
 init();
-
-if ("ResizeObserver" in window && contentCard) {
-  const fixedControlsObserver = new ResizeObserver(syncFixedControlsToContentCard);
-  fixedControlsObserver.observe(contentCard);
-}
 
 window.addEventListener("resize", scheduleViewportCleanup, { passive: true });
 window.addEventListener("orientationchange", scheduleViewportCleanup, { passive: true });
