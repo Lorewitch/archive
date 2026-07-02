@@ -2391,10 +2391,21 @@ function toggleSort(config) {
 
 function renderBookDetail(book) {
   activeDetail = { type: "book", data: book };
-  const volumeButtons = book.volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("");
-  const cornerControls = renderReaderCornerControls(
-    `<button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>`
-  );
+  const volumes = Array.isArray(book.volumes) ? book.volumes : [];
+  const isSingleVolumeBook = volumes.length <= 1;
+
+  if (isSingleVolumeBook) {
+    state.readAll = false;
+    state.volume = volumes[0]?.number || 1;
+  }
+
+  const volumeButtons = isSingleVolumeBook
+    ? ""
+    : volumes.map(volume => `<button type="button" data-volume="${volume.number}" class="${!state.readAll && state.volume === volume.number ? "active" : ""}">${escapeHtml(volume.title?.[state.lang] || "Том " + volume.number)}</button>`).join("");
+  const readAllButton = isSingleVolumeBook
+    ? ""
+    : `<button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>`;
+  const cornerControls = renderReaderCornerControls(readAllButton);
   const controls = renderReaderControls(
     renderReaderTabBlock("", volumeButtons)
   );
