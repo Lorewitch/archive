@@ -2396,7 +2396,7 @@ function renderBookDetail(book) {
     `<button class="mode-button ${state.readAll ? "active" : ""}" id="toggle-read-all" type="button">${state.readAll ? "Читать по томам" : "Читать всё подряд"}</button>`
   );
   const controls = renderReaderControls(
-    renderReaderTabBlock("Части", volumeButtons)
+    renderReaderTabBlock("", volumeButtons)
   );
 
   app.innerHTML = `
@@ -2460,7 +2460,7 @@ function renderArtifactDetail(artifact) {
     isSinglePartArtifact ? "" : `<button class="mode-button ${state.artifactReadAll ? "active" : ""}" id="toggle-artifact-read-all" type="button">${state.artifactReadAll ? "Читать по частям" : "Читать весь сет"}</button>`
   );
   const controls = renderReaderControls(
-    renderReaderTabBlock("Части", partButtons)
+    renderReaderTabBlock("", partButtons)
   );
 
   app.innerHTML = `
