@@ -206,15 +206,6 @@
   color: var(--menu-muted);
 }
 
-.nav-child[data-menu-key="misc"] {
-  color: #d84a41;
-  font-weight: 800;
-}
-
-.nav-child[data-menu-key="misc"].is-active {
-  color: #ff6f62;
-  font-weight: 900;
-}
 
 .menu-rail {
   grid-column: 2;
