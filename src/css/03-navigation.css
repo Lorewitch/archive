@@ -30,43 +30,19 @@
 
 .brand {
   display: grid;
-  grid-template-columns: clamp(68px, 3.9vw, 74px) minmax(0, 1fr);
-  gap: clamp(12px, 0.75vw, 14px);
-  align-items: center;
+  gap: 14px;
+  align-items: start;
   margin-bottom: 32px;
 }
 
-.brand-head {
-  display: contents;
-}
-
-.brand-mark {
-  width: clamp(68px, 3.9vw, 74px);
-  height: clamp(76px, 4.3vw, 82px);
-  display: grid;
-  place-items: center;
-  background: transparent;
-  border: 0;
-  box-shadow: none;
-}
-
-.brand-mark img {
-  width: clamp(64px, 3.65vw, 70px);
-  height: clamp(76px, 4.3vw, 82px);
+.brand-logo {
+  display: block;
+  width: min(225px, 100%);
+  height: auto;
   object-fit: contain;
 }
 
-.brand-title {
-  color: var(--menu-ink);
-  font-family: var(--font-logo);
-  font-size: var(--font-size-logo);
-  font-weight: 600;
-  line-height: 1;
-  letter-spacing: -0.025em;
-}
-
 .brand-subtitle {
-  grid-column: 1 / -1;
   color: var(--menu-muted);
   font-size: var(--font-size-nav-meta);
   line-height: 1.45;

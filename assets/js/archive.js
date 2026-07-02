@@ -3219,24 +3219,13 @@ function renderHome() {
   activeDetail = null;
   app.innerHTML = `
     <section class="page-card home-page">
-      <div class="page-head">
-        <h1>О Библиотеке</h1>
-        <p class="lead">Библиотека Лороведьмы — это не википедия и не справочник с числовыми обозначениями. Здесь нет расчётов, таблиц характеристик и игровых подсказок.</p>
-        <p class="lead">Это архив текстов и ничего более: книги, артефакты, оружие, предметы и истории, собранные в спокойной форме для чтения. Создано Лороведьмой для лороведов.</p>
-      </div>
-      <div class="home-grid">
-        ${SECTIONS.map(section => `
-          <button class="home-tile" type="button" data-home-section="${escapeHtml(section.id)}">
-            <span class="home-tile-title">${escapeHtml(section.title)}</span>
-            <span class="home-tile-text">${escapeHtml(section.description)}</span>
-          </button>
-        `).join("")}
-      </div>
+      <article class="home-intro" aria-label="О Библиотеке">
+        <p>Библиотека Лороведьмы — это тихий архив игровых текстов. Не википедия, не справочник с числовыми обозначениями и не таблица характеристик, а место, где можно спокойно читать книги, записки, описания предметов, оружия и артефактов.</p>
+        <p>Здесь собраны тексты Тейвата в удобной форме: без лишнего шума, без пересказов и без попытки заменить сам источник. Только строки, которые уже есть в игре, аккуратно разложенные по полкам.</p>
+        <p>Эта библиотека создана Лороведьмой для лороведов — для тех, кто любит возвращаться к деталям, сверять формулировки, искать связи и просто читать мир внимательнее.</p>
+      </article>
     </section>
   `;
-  app.querySelectorAll("[data-home-section]").forEach(button => {
-    button.addEventListener("click", () => setRoute(button.dataset.homeSection));
-  });
 }
 
 function renderLoading(message = "Загружаю архив…") {
