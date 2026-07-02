@@ -57,7 +57,7 @@
     color: #f6f2eb;
     border: 0;
     border-radius: 0;
-    font-size: 12px;
+    font-size: var(--font-size-mobile-menu-button);
     font-weight: 780;
     letter-spacing: 0.07em;
     line-height: 1;
@@ -76,7 +76,8 @@
     justify-content: flex-end;
     gap: 9px;
     color: var(--menu-ink);
-    font-size: clamp(16px, 4.4vw, 22px);
+    font-family: var(--font-logo);
+    font-size: var(--font-size-mobile-logo);
     font-weight: 600;
     line-height: 1;
     letter-spacing: -0.025em;
@@ -174,11 +175,11 @@
   }
 
   .brand-title {
-    font-size: 22px;
+    font-size: var(--font-size-sidebar-logo-mobile);
   }
 
   .brand-subtitle {
-    font-size: 11px;
+    font-size: var(--font-size-mobile-control);
   }
 
   .nav {
@@ -358,16 +359,16 @@
 
   .catalog-card-title,
   .catalog-card--character-story .catalog-card-title {
-    font-size: 16px;
+    font-size: var(--font-size-card-title-mobile-lg);
     line-height: 1.2;
   }
 
   .catalog-card-subtitle {
-    font-size: 12px;
+    font-size: var(--font-size-card-meta-mobile);
   }
 
   .catalog-card-meta {
-    font-size: 12px;
+    font-size: var(--font-size-card-meta-mobile);
     gap: 7px 8px;
   }
 
@@ -415,7 +416,7 @@
     display: block;
     margin-bottom: 7px;
     color: var(--soft);
-    font-size: 11px;
+    font-size: var(--font-size-mobile-control);
     font-weight: 900;
     letter-spacing: 0.075em;
     line-height: 1.2;
@@ -490,7 +491,7 @@
     height: var(--reader-corner-row-height);
     min-height: var(--reader-corner-row-height);
     padding: 0 10px;
-    font-size: 11px;
+    font-size: var(--font-size-mobile-control);
   }
 
   .reader-corner-controls .mode-button {
@@ -525,12 +526,12 @@
   }
 
   .reader-head-titles h1 {
-    font-size: clamp(22px, 7vw, 32px);
+    font-size: var(--font-size-reader-title-mobile-lg);
     letter-spacing: 0.025em;
   }
 
   .reader-title-alt {
-    font-size: 13px;
+    font-size: var(--font-size-reader-subtitle);
   }
 
   .story-toolbar .volume-scroll button {
@@ -609,7 +610,7 @@
 
   .catalog-card-title,
   .catalog-card--character-story .catalog-card-title {
-    font-size: 15px;
+    font-size: var(--font-size-card-title-mobile);
   }
 
   .catalog-card-subtitle {
@@ -634,7 +635,7 @@
   }
 
   .reader-head-titles h1 {
-    font-size: clamp(22px, 8vw, 30px);
+    font-size: var(--font-size-reader-title-mobile);
   }
 
   .dropped-by-grid.is-pair,
@@ -659,7 +660,7 @@
 
   .menu-button {
     padding: 0 10px;
-    font-size: 11px;
+    font-size: var(--font-size-mobile-control);
   }
 
   .catalog-card {

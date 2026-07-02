@@ -100,7 +100,7 @@
 
 .dropped-by-name {
   color: #f6f2eb;
-  font-size: 16px;
+  font-size: var(--font-size-dropped-title);
   font-weight: 900;
 }
 
@@ -108,14 +108,14 @@
 .dropped-by-zh {
   margin-top: 3px;
   color: rgba(246, 242, 235, 0.72);
-  font-size: 13px;
+  font-size: var(--font-size-dropped-meta);
   font-weight: 520;
 }
 
 .dropped-by-card .prose {
   color: rgba(246, 242, 235, 0.88);
-  font-size: 15px;
-  line-height: 1.75;
+  font-size: var(--font-size-reader-body);
+  line-height: var(--line-height-description);
 }
 
 .dropped-by-card .prose h1,
@@ -151,7 +151,7 @@
   border: 0;
   background: rgba(246, 242, 235, 0.18);
   color: #f6f2eb;
-  font-size: 12px;
+  font-size: var(--font-size-chip);
   font-weight: 760;
   line-height: 1.2;
   text-decoration: none;

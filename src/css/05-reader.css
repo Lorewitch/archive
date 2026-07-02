@@ -35,7 +35,7 @@
 .detail-hero-text h1 {
   margin: 0;
   color: #211b17;
-  font-size: clamp(36px, 5vw, 58px);
+  font-size: var(--font-size-reader-hero-title);
   line-height: 1;
   letter-spacing: -0.065em;
   text-wrap: balance;
@@ -99,7 +99,7 @@
 .dropped-by-title {
   margin: 0;
   color: #211b17;
-  font-size: 21px;
+  font-size: var(--font-size-reader-section-title);
   font-weight: 880;
   line-height: 1.2;
   letter-spacing: -0.035em;
@@ -117,8 +117,8 @@
 .detail-text,
 .notes-body {
   color: #342d27;
-  font-size: 16px;
-  line-height: 1.78;
+  font-size: var(--font-size-reader-body);
+  line-height: var(--line-height-description);
 }
 
 .prose p,
@@ -182,7 +182,7 @@
 .material-title-subtitle {
   margin-top: 5px;
   color: var(--muted);
-  font-size: 17px;
+  font-size: var(--font-size-material-subtitle);
   font-weight: 520;
   line-height: 1.35;
   letter-spacing: 0;
@@ -190,6 +190,24 @@
 
 .inventory-card-title-main {
   min-width: 0;
+}
+
+.inventory-card-title-main h3,
+.material-title-subtitle,
+.inventory-card-body,
+.dropped-by-name,
+.dropped-by-meta,
+.dropped-by-zh {
+  font-family: var(--font-main);
+}
+
+.inventory-card-title-main h3 {
+  font-weight: 800;
+  letter-spacing: -0.015em;
+}
+
+.material-title-subtitle {
+  font-weight: 600;
 }
 
 .inventory-card .volume-title,
@@ -208,7 +226,7 @@
   min-height: 36px;
   margin: 20px 0 8px;
   padding: 0 14px;
-  font-size: 14px;
+  font-size: var(--font-size-block-heading);
   font-weight: 800;
   line-height: 1.1;
   letter-spacing: 0.035em;
@@ -279,8 +297,8 @@
 
 .boss-overview-card .inventory-card-body {
   color: #4d4037;
-  font-size: 17px;
-  line-height: 1.82;
+  font-size: var(--font-size-reader-body);
+  line-height: var(--line-height-description);
 }
 
 .catalog-meta,
@@ -377,7 +395,7 @@
   border-left: 0;
   border-radius: 0;
   box-shadow: none;
-  font-size: 13px;
+  font-size: var(--font-size-control);
   font-weight: 750;
   line-height: 1.1;
   letter-spacing: 0.035em;
@@ -412,7 +430,7 @@
   color: var(--ink);
   border: 0;
   box-shadow: none;
-  font-size: 13px;
+  font-size: var(--font-size-control);
   font-weight: 750;
   line-height: 1.1;
   letter-spacing: 0.04em;
@@ -479,7 +497,7 @@
   align-items: center;
   justify-content: center;
   color: rgba(91, 74, 62, 0.5);
-  font-size: 30px;
+  font-size: var(--font-size-reader-placeholder);
   font-weight: 700;
 }
 
@@ -490,7 +508,7 @@
 .reader-head-titles h1 {
   margin: 0;
   color: var(--text-dark, var(--ink));
-  font-size: clamp(28px, 2.75vw, 42px);
+  font-size: var(--font-size-reader-title);
   font-weight: 780;
   line-height: 1.08;
   letter-spacing: 0.025em;
@@ -502,7 +520,7 @@
   max-width: 100%;
   margin-top: 6px;
   color: var(--muted);
-  font-size: 15px;
+  font-size: var(--font-size-reader-subtitle);
   font-weight: 560;
   line-height: 1.35;
   white-space: nowrap;
