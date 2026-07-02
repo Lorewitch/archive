@@ -1289,8 +1289,8 @@ function renderReaderCornerControls(...blocks) {
   const controls = blocks.filter(Boolean).join("");
   return `
     <div class="reader-corner-controls" aria-label="Быстрые действия чтения">
-      ${controls}
       ${renderReaderLangControl("reader-corner-lang-control", { showLabel: false })}
+      ${controls}
     </div>
   `;
 }
@@ -1613,6 +1613,14 @@ function renderDroppedBySection(item) {
 
 
 
+function updateMobileMenuButton() {
+  const button = document.getElementById("open-menu");
+  if (!button) return;
+  const isOpen = document.body.classList.contains("menu-open");
+  button.setAttribute("aria-expanded", String(isOpen));
+  button.setAttribute("aria-label", isOpen ? "Закрыть разделы" : "Открыть разделы");
+}
+
 function openMenu() {
   if (document.body.classList.contains("menu-open")) return;
   menuScrollY = primaryScrollY();
@@ -1624,6 +1632,8 @@ function openMenu() {
   document.body.style.right = "0";
   document.body.style.width = "100%";
   document.body.style.overflow = "hidden";
+  updateMobileMenuButton();
+  syncCustomScrollbarsSoon();
 }
 
 function closeMenu() {
@@ -1636,7 +1646,13 @@ function closeMenu() {
   document.body.style.right = "";
   document.body.style.width = "";
   document.body.style.overflow = "";
+  updateMobileMenuButton();
   scrollPrimaryTo(menuScrollY || 0);
+}
+
+function toggleMenu() {
+  if (document.body.classList.contains("menu-open")) closeMenu();
+  else openMenu();
 }
 
 function childGroupsFor(config, groupKey) {
@@ -3321,7 +3337,7 @@ app.addEventListener("input", handleAppInput);
 app.addEventListener("change", handleAppChange);
 app.addEventListener("mouseover", handleAppPrefetch);
 app.addEventListener("focusin", handleAppPrefetch);
-document.getElementById("open-menu")?.addEventListener("click", openMenu);
+document.getElementById("open-menu")?.addEventListener("click", toggleMenu);
 const drawerBackdrop = document.getElementById("drawer-backdrop");
 drawerBackdrop?.addEventListener("click", closeMenu);
 drawerBackdrop?.addEventListener("touchmove", event => event.preventDefault(), { passive: false });

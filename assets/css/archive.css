@@ -3446,3 +3446,282 @@ html.is-mobile-landscape .app,
 html.is-mobile-landscape .content {
   max-width: none;
 }
+
+@media (max-width: 1180px) {
+  :root {
+    --content-radius: 0px;
+  }
+
+  .mobile-top {
+    z-index: 110;
+    justify-content: flex-start;
+    gap: 12px;
+  }
+
+  .menu-button {
+    width: 46px;
+    min-width: 46px;
+    height: 46px;
+    padding: 0;
+    font-size: 19px;
+    line-height: 1;
+  }
+
+  .mobile-brand {
+    justify-content: flex-start;
+    text-align: left;
+  }
+
+  .mobile-brand span {
+    max-width: calc(100% - 96px);
+  }
+
+  .archive-layout > .sidebar,
+  .sidebar {
+    position: fixed;
+    z-index: 100;
+    top: 56px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    max-width: none;
+    height: calc(100dvh - 56px);
+    max-height: none;
+    overflow: hidden;
+    transform: translateY(-100%);
+    transition: transform 180ms ease;
+    box-shadow: none;
+  }
+
+  body.menu-open .archive-layout > .sidebar,
+  body.menu-open .sidebar {
+    transform: translateY(0);
+  }
+
+  .sidebar .brand {
+    display: none;
+  }
+
+  .sidebar-scroll {
+    height: 100%;
+    max-height: none;
+    padding: 22px 18px 42px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .sidebar-scroll::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+
+  .nav {
+    gap: 8px;
+  }
+
+  .nav-button,
+  .nav-child,
+  .nav-item {
+    min-height: 48px;
+    padding: 13px 14px;
+  }
+
+  .drawer-backdrop,
+  body.menu-open .drawer-backdrop,
+  html.menu-open .drawer-backdrop {
+    display: none;
+  }
+
+  .content-card,
+  .content-card::before,
+  .catalog-sticky-head,
+  .catalog-sticky-head::before,
+  .reader-sticky-head,
+  .reader-sticky-head::before,
+  .catalog-card,
+  .catalog-card-media,
+  .text-card,
+  .detail-block,
+  .volume-card,
+  .inventory-card,
+  .weapon-description-panel,
+  .weapon-story-panel,
+  .dropped-by-card,
+  .boss-overview-card,
+  .search,
+  .select,
+  .search input,
+  .select select,
+  .type-filter-chip,
+  .filter-button,
+  .mode-button,
+  .lang-switch button,
+  .volume-scroll button,
+  .pagination button,
+  .sortable-head,
+  .enemy-loot-chip,
+  .type-filter-toggle,
+  .reader-head-nav .back-link,
+  .reader-corner-controls .mode-button,
+  .reader-corner-controls .reader-content-type-button,
+  .reader-corner-controls .lang-switch button {
+    border-radius: 0;
+  }
+
+  .reader-sticky-head {
+    --reader-corner-row-height: 40px;
+    --reader-corner-row-gap: 12px;
+    --reader-corner-stack-height: calc((var(--reader-corner-row-height) * 2) + 22px);
+    gap: 14px;
+    padding-top: var(--reader-corner-stack-height);
+  }
+
+  .reader-sticky-head::before {
+    height: var(--reader-corner-stack-height);
+  }
+
+  .reader-head-nav {
+    top: 56px;
+    left: 8px;
+    right: 8px;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    min-width: 0;
+    overflow: visible;
+  }
+
+  .reader-head-nav .back-link {
+    width: max-content;
+    max-width: 100%;
+    height: var(--reader-corner-row-height);
+    min-height: var(--reader-corner-row-height);
+    padding: 0 12px;
+    flex: 0 0 auto;
+  }
+
+  .reader-corner-controls {
+    width: 100%;
+    max-width: 100%;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 6px;
+    padding-bottom: 8px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: var(--accent) color-mix(in srgb, var(--accent) 24%, transparent);
+  }
+
+  .reader-corner-controls::-webkit-scrollbar {
+    display: block;
+    height: 8px;
+  }
+
+  .reader-corner-controls::-webkit-scrollbar-track {
+    background: color-mix(in srgb, var(--accent) 24%, transparent);
+  }
+
+  .reader-corner-controls::-webkit-scrollbar-thumb {
+    background: var(--accent);
+  }
+
+  .reader-corner-controls::-webkit-scrollbar-button,
+  .reader-corner-controls::-webkit-scrollbar-corner {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+
+  .reader-corner-controls .reader-lang-control,
+  .reader-corner-controls .lang-switch {
+    flex-wrap: nowrap;
+  }
+
+  .reader-corner-controls .reader-lang-control {
+    margin-left: 0;
+    order: 0;
+  }
+
+  .reader-corner-controls .reader-content-type-button {
+    order: 1;
+  }
+
+  .reader-corner-controls .mode-button {
+    order: 2;
+  }
+
+  .reader-head-main {
+    grid-template-columns: 76px minmax(0, 1fr);
+    gap: 12px;
+    align-items: center;
+    text-align: left;
+  }
+
+  .reader-head-icon,
+  .reader-head-icon.story-detail-icon {
+    width: 72px;
+    height: 72px;
+    margin: 0;
+  }
+
+  .reader-head-titles h1 {
+    font-size: clamp(24px, 5vw, 32px);
+    line-height: 1.08;
+  }
+}
+
+@media (max-width: 720px) {
+  :root {
+    --content-radius: 0px;
+  }
+
+  .reader-head-main {
+    grid-template-columns: 68px minmax(0, 1fr);
+    gap: 11px;
+    text-align: left;
+  }
+
+  .reader-head-icon,
+  .reader-head-icon.story-detail-icon {
+    width: 64px;
+    height: 64px;
+    margin: 0;
+  }
+
+  .reader-head-titles h1 {
+    font-size: clamp(22px, 7vw, 28px);
+  }
+
+  .reader-title-alt {
+    white-space: normal;
+  }
+
+  .reader-corner-controls .mode-button {
+    flex-basis: 154px;
+    width: 154px;
+  }
+
+  .reader-corner-controls .reader-content-type-button {
+    flex-basis: 102px;
+    width: 102px;
+  }
+}
+
+@media (max-width: 1180px) and (orientation: landscape) {
+  .archive-layout > .sidebar,
+  .sidebar {
+    top: 50px;
+    height: calc(100dvh - 50px);
+  }
+
+  .reader-head-nav {
+    top: 50px;
+  }
+}
