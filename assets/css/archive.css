@@ -26,6 +26,8 @@
   --font-size-category-title: clamp(17px, 1.7vw, 24px);
   --font-size-subcategory-title: clamp(16px, 1.55vw, 22px);
   --font-size-lead: 19px;
+  --font-size-home-title: 22px;
+  --font-size-home-text: 14px;
   --font-size-list-title: 19px;
   --font-size-catalog-row-title: 15px;
   --font-size-card-title: 17px;
@@ -655,27 +657,40 @@ a {
   letter-spacing: 0.05em;
 }
 
-.home-intro {
-  max-width: 920px;
+.home-grid {
   display: grid;
-  gap: 18px;
-  padding: clamp(24px, 3vw, 38px);
-  background: rgba(232, 222, 212, 0.58);
-  border-left: 6px solid var(--accent);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 26px;
 }
 
-.home-intro p {
-  margin: 0;
+.home-tile {
+  min-height: 126px;
+  display: grid;
+  align-content: space-between;
+  gap: 12px;
+  padding: 18px;
+  background: rgba(232, 222, 212, 0.70);
+  border: 1px solid rgba(91, 74, 62, 0.16);
+  text-align: left;
+  box-shadow: none;
+}
+
+.home-tile:hover {
+  background: rgba(225, 214, 200, 0.78);
+}
+
+.home-tile-title {
   color: #211b17;
-  font-size: var(--font-size-lead);
-  line-height: 1.62;
+  font-size: var(--font-size-home-title);
+  font-weight: 890;
+  letter-spacing: -0.035em;
 }
 
-.home-intro p:first-child::first-letter {
-  color: var(--accent);
-  font-size: 1.55em;
-  font-weight: 860;
-  line-height: 0.9;
+.home-tile-text {
+  color: var(--muted);
+  font-size: var(--font-size-home-text);
+  line-height: 1.45;
 }
 
 
@@ -1907,7 +1922,8 @@ a {
 .catalog-row,
 .material-chip,
 .common-enemy-type-chip,
-.dropped-by-catalog-chip
+.dropped-by-catalog-chip,
+.home-tile,
 .empty-card,
 .filter-reset-button {
   box-shadow: none;
@@ -3373,6 +3389,10 @@ a.enemy-loot-chip:focus-visible {
     min-width: 0;
     text-wrap: pretty;
     white-space: normal;
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
   }
 
   .dropped-by-grid.is-cascade {
