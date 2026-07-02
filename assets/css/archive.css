@@ -34,28 +34,28 @@
   --shadow-soft: none;
   --shadow-card: none;
 
-  /* Desktop scale system: the archive keeps the compact 90% feel without browser zoom. */
-  --content-max-width: clamp(1040px, 76vw, 1480px);
-  --sidebar-width: clamp(286px, 16.7vw, 320px);
+  /* Desktop comfort scale: base 100%, with a capped content width for 2K/4K/TV screens. */
+  --content-max-width: clamp(1180px, 82vw, 1720px);
+  --sidebar-width: clamp(300px, 16.7vw, 340px);
   --menu-rail-width: 0px;
   --content-rail-width: 10px;
-  --layout-gap: clamp(24px, 2.4vw, 46px);
-  --stage-pad-y: clamp(22px, 1.45vw, 28px);
-  --stage-pad-right: clamp(28px, 2.2vw, 42px);
-  --content-pad-top: clamp(36px, 2.3vw, 44px);
-  --content-pad-x: clamp(32px, 2.3vw, 44px);
-  --content-pad-bottom: clamp(42px, 2.9vw, 56px);
-  --content-radius: clamp(24px, 1.45vw, 28px);
+  --layout-gap: clamp(34px, 2.4vw, 46px);
+  --stage-pad-y: 28px;
+  --stage-pad-right: clamp(32px, 2.2vw, 42px);
+  --content-pad-top: 44px;
+  --content-pad-x: 44px;
+  --content-pad-bottom: 56px;
+  --content-radius: 28px;
   --radius-page: var(--content-radius);
   --radius-card: 0;
   --radius-control: 0;
-  --control-height: clamp(40px, 2.3vw, 44px);
-  --catalog-card-media-size: clamp(88px, 5vw, 96px);
-  --catalog-card-character-media-size: clamp(100px, 5.85vw, 112px);
-  --catalog-card-title-size: clamp(15.5px, 0.9vw, 17px);
-  --catalog-card-subtitle-size: clamp(12px, 0.66vw, 12.5px);
-  --reader-head-icon-size: clamp(100px, 6vw, 116px);
-  --reader-title-size: clamp(30px, 2.4vw, 42px);
+  --control-height: 44px;
+  --catalog-card-media-size: 96px;
+  --catalog-card-character-media-size: 112px;
+  --catalog-card-title-size: 17px;
+  --catalog-card-subtitle-size: 12.5px;
+  --reader-head-icon-size: 116px;
+  --reader-title-size: clamp(28px, 2.75vw, 42px);
   --fixed-control-top: var(--stage-pad-y);
   --fixed-control-left: calc(var(--sidebar-width) + var(--menu-rail-width) + var(--layout-gap));
   --fixed-control-right: calc(var(--stage-pad-right) + var(--content-rail-width) + 12px);
@@ -2674,7 +2674,7 @@ a.enemy-loot-chip:focus-visible {
 
 /*
   Mobile and tablet layout.
-  Desktop keeps the compact 90% design scale from tokens; this file turns the
+  Desktop keeps the restored 100% comfort scale from tokens; this file turns the
   archive into a stable drawer + card layout for phones, tablets and small laptops.
 */
 
