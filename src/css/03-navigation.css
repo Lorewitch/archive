@@ -36,15 +36,15 @@
 
 .brand-lockup {
   display: grid;
-  grid-template-columns: 88px minmax(0, 1fr);
+  grid-template-columns: 78px minmax(0, 1fr);
   align-items: center;
   gap: 14px;
 }
 
 .brand-logo {
   display: block;
-  width: 88px;
-  height: 88px;
+  width: 78px;
+  height: 78px;
   object-fit: contain;
 }
 
@@ -58,12 +58,14 @@
 
 .brand-subtitle {
   margin-top: 9px;
-  padding-left: 102px;
+  width: 100%;
+  padding-left: 0;
   color: var(--menu-muted);
   font-size: 12px;
   line-height: 1.35;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .nav {
@@ -202,6 +204,16 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--menu-muted);
+}
+
+.nav-child[data-menu-key="misc"] {
+  color: #d84a41;
+  font-weight: 800;
+}
+
+.nav-child[data-menu-key="misc"].is-active {
+  color: #ff6f62;
+  font-weight: 900;
 }
 
 .menu-rail {

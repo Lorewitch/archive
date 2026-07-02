@@ -420,6 +420,11 @@
   box-shadow: none;
 }
 
+.type-filter-chip.type-filter-rarity:has(input:checked),
+.type-filter-chip.type-filter-rarity.is-active {
+  color: var(--filter-color);
+}
+
 .type-filter-chip.has-icon:has(input:checked) .type-filter-icon,
 .type-filter-chip.has-icon.is-active .type-filter-icon {
   background-color: currentColor;
@@ -501,6 +506,11 @@
   font-weight: 880;
   line-height: 1.13;
   letter-spacing: -0.035em;
+}
+
+.group-card[data-group="misc"] .group-card-title {
+  color: #9c241f;
+  font-weight: 950;
 }
 
 .entry-title {
@@ -1255,11 +1265,11 @@
   color: rgba(243, 236, 223, 0.92);
 }
 
-.card-rarity-5 { --card-rarity: #f0ae43; }
-.card-rarity-4 { --card-rarity: #9d70f2; }
-.card-rarity-3 { --card-rarity: #74bae4; }
-.card-rarity-2 { --card-rarity: #83bc6b; }
-.card-rarity-1 { --card-rarity: #aaa39a; }
+.card-rarity-5 { --card-rarity: #ffb13d; }
+.card-rarity-4 { --card-rarity: #b072ff; }
+.card-rarity-3 { --card-rarity: #55c5ff; }
+.card-rarity-2 { --card-rarity: #8fda69; }
+.card-rarity-1 { --card-rarity: #c5bbae; }
 .card-neutral { --card-rarity: #8b8177; }
 
 

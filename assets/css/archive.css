@@ -109,11 +109,11 @@
   --rail-thumb: #8b9270;
   --rail-thumb-hover: #a9b17c;
   --rail-track: rgba(243, 236, 223, 0.08);
-  --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
-  --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
-  --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
-  --rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
-  --rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
+  --rarity-5-bg: linear-gradient(135deg, #d96f24 0%, #ffc15a 100%);
+  --rarity-4-bg: linear-gradient(135deg, #7d4ed6 0%, #c08cff 100%);
+  --rarity-3-bg: linear-gradient(135deg, #3298d6 0%, #73d1ff 100%);
+  --rarity-2-bg: linear-gradient(135deg, #5da84d 0%, #a9e56d 100%);
+  --rarity-1-bg: linear-gradient(135deg, #827b72 0%, #d9d0c4 100%);
 }
 
 .rarity-bg-5 { --icon-bg: var(--rarity-5-bg); }
@@ -403,15 +403,15 @@ a {
 
 .brand-lockup {
   display: grid;
-  grid-template-columns: 88px minmax(0, 1fr);
+  grid-template-columns: 78px minmax(0, 1fr);
   align-items: center;
   gap: 14px;
 }
 
 .brand-logo {
   display: block;
-  width: 88px;
-  height: 88px;
+  width: 78px;
+  height: 78px;
   object-fit: contain;
 }
 
@@ -425,12 +425,14 @@ a {
 
 .brand-subtitle {
   margin-top: 9px;
-  padding-left: 102px;
+  width: 100%;
+  padding-left: 0;
   color: var(--menu-muted);
   font-size: 12px;
   line-height: 1.35;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .nav {
@@ -569,6 +571,16 @@ a {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--menu-muted);
+}
+
+.nav-child[data-menu-key="misc"] {
+  color: #d84a41;
+  font-weight: 800;
+}
+
+.nav-child[data-menu-key="misc"].is-active {
+  color: #ff6f62;
+  font-weight: 900;
 }
 
 .menu-rail {
@@ -1001,6 +1013,11 @@ a {
   box-shadow: none;
 }
 
+.type-filter-chip.type-filter-rarity:has(input:checked),
+.type-filter-chip.type-filter-rarity.is-active {
+  color: var(--filter-color);
+}
+
 .type-filter-chip.has-icon:has(input:checked) .type-filter-icon,
 .type-filter-chip.has-icon.is-active .type-filter-icon {
   background-color: currentColor;
@@ -1082,6 +1099,11 @@ a {
   font-weight: 880;
   line-height: 1.13;
   letter-spacing: -0.035em;
+}
+
+.group-card[data-group="misc"] .group-card-title {
+  color: #9c241f;
+  font-weight: 950;
 }
 
 .entry-title {
@@ -1836,11 +1858,11 @@ a {
   color: rgba(243, 236, 223, 0.92);
 }
 
-.card-rarity-5 { --card-rarity: #f0ae43; }
-.card-rarity-4 { --card-rarity: #9d70f2; }
-.card-rarity-3 { --card-rarity: #74bae4; }
-.card-rarity-2 { --card-rarity: #83bc6b; }
-.card-rarity-1 { --card-rarity: #aaa39a; }
+.card-rarity-5 { --card-rarity: #ffb13d; }
+.card-rarity-4 { --card-rarity: #b072ff; }
+.card-rarity-3 { --card-rarity: #55c5ff; }
+.card-rarity-2 { --card-rarity: #8fda69; }
+.card-rarity-1 { --card-rarity: #c5bbae; }
 .card-neutral { --card-rarity: #8b8177; }
 
 

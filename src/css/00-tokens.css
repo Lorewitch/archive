@@ -104,11 +104,11 @@
   --rail-thumb: #8b9270;
   --rail-thumb-hover: #a9b17c;
   --rail-track: rgba(243, 236, 223, 0.08);
-  --rarity-5-bg: linear-gradient(135deg, #c8742f 0%, #f0b45e 100%);
-  --rarity-4-bg: linear-gradient(135deg, #7252a8 0%, #b293e0 100%);
-  --rarity-3-bg: linear-gradient(135deg, #4f92bf 0%, #9fd0ed 100%);
-  --rarity-2-bg: linear-gradient(135deg, #6a9f62 0%, #b8d58d 100%);
-  --rarity-1-bg: linear-gradient(135deg, #8d8984 0%, #d0cac2 100%);
+  --rarity-5-bg: linear-gradient(135deg, #d96f24 0%, #ffc15a 100%);
+  --rarity-4-bg: linear-gradient(135deg, #7d4ed6 0%, #c08cff 100%);
+  --rarity-3-bg: linear-gradient(135deg, #3298d6 0%, #73d1ff 100%);
+  --rarity-2-bg: linear-gradient(135deg, #5da84d 0%, #a9e56d 100%);
+  --rarity-1-bg: linear-gradient(135deg, #827b72 0%, #d9d0c4 100%);
 }
 
 .rarity-bg-5 { --icon-bg: var(--rarity-5-bg); }

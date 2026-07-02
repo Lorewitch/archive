@@ -961,6 +961,12 @@ def build_bot_mentions_index() -> dict[str, Any]:
 
 def main() -> int:
     index = build_bot_mentions_index()
+    if index["entry_count"] == 0:
+        counts = ", ".join(f"{key}: {value}" for key, value in index["source_counts"].items())
+        raise RuntimeError(
+            "Bot mention index is empty; existing data/bot_mentions_index.json was not overwritten "
+            f"({counts}). Run tools/build_archive.py with a complete content/ tree first."
+        )
     write_json(DATA_DIR / "bot_mentions_index.json", index)
     counts = ", ".join(f"{key}: {value}" for key, value in index["source_counts"].items())
     report = index["report"]

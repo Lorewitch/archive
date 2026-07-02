@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from pathlib import Path
 from typing import Any
 
@@ -165,6 +166,50 @@ def clean_json_dir(path: Path) -> None:
     path.mkdir(parents=True, exist_ok=True)
     for file in path.glob("*.json"):
         file.unlink()
+
+
+def markdown_files(path: Path) -> list[Path]:
+    if not path.exists():
+        return []
+    return sorted(path.rglob("*.md"))
+
+
+def require_content_sources() -> None:
+    """Stop before touching generated data if source Markdown is missing.
+
+    The repository can be exported as a ready-to-publish archive with only
+    generated JSON in data/. Running the builder against such an export used to
+    create empty content folders and overwrite the archive with empty indexes.
+    Failing early is safer: existing data remains intact and the user sees the
+    real cause.
+    """
+    if not CONTENT_DIR.is_dir():
+        raise RuntimeError(
+            "Папка content/ не найдена. Сборка остановлена, чтобы не затереть data/*.json пустыми индексами."
+        )
+
+    required_sources = {
+        "books": CONTENT_DIR / "books",
+        "artifacts": CONTENT_DIR / "artifacts",
+        "weapons": CONTENT_DIR / "weapons",
+        "items": CONTENT_DIR / "items",
+        "stories": CONTENT_DIR / "stories",
+        "enemies/common_enemies": CONTENT_DIR / "enemies" / "common_enemies",
+    }
+    missing = [name for name, path in required_sources.items() if not path.is_dir()]
+    empty = [name for name, path in required_sources.items() if path.is_dir() and not markdown_files(path)]
+
+    if missing or empty:
+        details: list[str] = []
+        if missing:
+            details.append("нет папок: " + ", ".join(missing))
+        if empty:
+            details.append("нет .md-файлов: " + ", ".join(empty))
+        raise RuntimeError(
+            "Неполный content/. Сборка остановлена, чтобы не удалить существующие данные ("
+            + "; ".join(details)
+            + ")."
+        )
 
 
 def slug_from_path(path: Path) -> str:
@@ -1252,11 +1297,10 @@ def build_collection(
 ) -> list[dict[str, Any]]:
     source_dir = CONTENT_DIR / name
     detail_dir = DATA_DIR / name
-    source_dir.mkdir(parents=True, exist_ok=True)
     clean_json_dir(detail_dir)
 
     entries: list[dict[str, Any]] = []
-    for md_file in sorted(source_dir.rglob("*.md")):
+    for md_file in markdown_files(source_dir):
         entry = builder(md_file)
         entries.append(entry)
         write_json(detail_dir / f"{entry['id']}.json", entry)
@@ -1314,9 +1358,8 @@ def brief_item(item: dict[str, Any]) -> dict[str, Any]:
 
 def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
     source_dir = CONTENT_DIR / "items"
-    source_dir.mkdir(parents=True, exist_ok=True)
 
-    items = [build_generic(md_file, "items") for md_file in sorted(source_dir.rglob("*.md"))]
+    items = [build_generic(md_file, "items") for md_file in markdown_files(source_dir)]
     enemies_by_id = {enemy.get("id"): enemy for enemy in enemies if enemy.get("id")}
 
     enemy_to_items: dict[str, list[dict[str, Any]]] = {enemy_id: [] for enemy_id in enemies_by_id}
@@ -1353,6 +1396,7 @@ def build_items(enemies: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def build() -> None:
+    require_content_sources()
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     books = build_collection("books", build_book, index_book)
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
@@ -1360,8 +1404,7 @@ def build() -> None:
     stories = build_collection("stories", lambda path: build_generic(path, "stories"), index_story)
     write_json(DATA_DIR / "stories_search.json", [story_search_entry(entry) for entry in stories])
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
-    enemy_source_dir.mkdir(parents=True, exist_ok=True)
-    enemies = [build_enemy(md_file) for md_file in sorted(enemy_source_dir.rglob("*.md"))]
+    enemies = [build_enemy(md_file) for md_file in markdown_files(enemy_source_dir)]
 
     items = build_items(enemies)
 
@@ -1382,4 +1425,8 @@ def build() -> None:
 
 
 if __name__ == "__main__":
-    build()
+    try:
+        build()
+    except RuntimeError as exc:
+        print(f"Ошибка сборки: {exc}", file=sys.stderr)
+        raise SystemExit(1) from None
