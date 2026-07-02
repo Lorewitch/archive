@@ -1007,18 +1007,13 @@ a {
 .type-filter-chip.has-icon:has(input:checked),
 .type-filter-chip.has-icon.is-active {
   background: var(--menu-active);
-  color: var(--menu-ink);
+  color: var(--filter-color, var(--menu-ink));
   box-shadow: none;
-}
-
-.type-filter-chip.type-filter-rarity:has(input:checked),
-.type-filter-chip.type-filter-rarity.is-active {
-  color: var(--filter-color);
 }
 
 .type-filter-chip.has-icon:has(input:checked) .type-filter-icon,
 .type-filter-chip.has-icon.is-active .type-filter-icon {
-  background-color: currentColor;
+  background-color: var(--filter-color, currentColor);
 }
 
 .type-filter-chip.has-icon .type-filter-label {
