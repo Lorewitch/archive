@@ -1,11 +1,19 @@
 .dropped-by-section {
   margin-top: 24px;
-  padding-top: 22px;
-  border-top: 0;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
 }
 
 .dropped-by-title {
-  margin-bottom: 12px;
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  margin: 0 0 12px;
+  padding: 0 14px;
+  background: var(--accent);
+  color: #f6f2eb;
 }
 
 .dropped-by-grid {
@@ -34,7 +42,6 @@
   align-content: start;
 }
 
-.dropped-by-card,
 .catalog-material-card,
 .catalog-material-plain,
 .enemy-card {
@@ -42,6 +49,15 @@
   min-width: 0;
   border: 1px solid rgba(91, 74, 62, 0.14);
   background: rgba(203, 191, 175, 0.20);
+  overflow: hidden;
+}
+
+.dropped-by-card {
+  width: 100%;
+  min-width: 0;
+  background: var(--accent);
+  border: 0;
+  box-shadow: var(--shadow-soft);
   overflow: hidden;
 }
 
@@ -56,7 +72,7 @@
   align-items: start;
   margin-bottom: 10px;
   padding-bottom: 10px;
-  border-bottom: 1px solid rgba(91, 74, 62, 0.12);
+  border-bottom: 1px solid rgba(246, 242, 235, 0.18);
   user-select: text;
 }
 
@@ -65,7 +81,7 @@
   width: 46px;
   height: 46px;
   object-fit: contain;
-  background: rgba(246, 242, 235, 0.58);
+  background: rgba(246, 242, 235, 0.16);
 }
 
 .dropped-by-names {
@@ -83,7 +99,7 @@
 }
 
 .dropped-by-name {
-  color: #211b17;
+  color: #f6f2eb;
   font-size: 16px;
   font-weight: 900;
 }
@@ -91,14 +107,32 @@
 .dropped-by-meta,
 .dropped-by-zh {
   margin-top: 3px;
-  color: var(--muted);
+  color: rgba(246, 242, 235, 0.72);
   font-size: 13px;
   font-weight: 520;
 }
 
 .dropped-by-card .prose {
+  color: rgba(246, 242, 235, 0.88);
   font-size: 15px;
   line-height: 1.75;
+}
+
+.dropped-by-card .prose h1,
+.dropped-by-card .prose h2,
+.dropped-by-card .prose h3,
+.dropped-by-card .prose h4 {
+  color: #f6f2eb;
+}
+
+.dropped-by-card ::selection {
+  background: rgba(246, 242, 235, 0.92);
+  color: var(--accent);
+}
+
+.dropped-by-card ::-moz-selection {
+  background: rgba(246, 242, 235, 0.92);
+  color: var(--accent);
 }
 
 .enemy-loot-list {
@@ -114,9 +148,9 @@
   gap: 6px;
   max-width: 100%;
   padding: 5px 8px;
-  border: 1px solid rgba(91, 74, 62, 0.12);
-  background: rgba(246, 242, 235, 0.62);
-  color: #342b25;
+  border: 0;
+  background: rgba(246, 242, 235, 0.18);
+  color: #f6f2eb;
   font-size: 12px;
   font-weight: 760;
   line-height: 1.2;
@@ -126,15 +160,14 @@
 
 a.enemy-loot-chip:hover,
 a.enemy-loot-chip:focus-visible {
-  background: rgba(203, 191, 175, 0.48);
-  border-color: rgba(91, 74, 62, 0.24);
-  color: var(--ink);
+  background: rgba(246, 242, 235, 0.26);
+  color: #f6f2eb;
   outline: none;
 }
 
 .enemy-loot-chip.current {
-  background: rgba(91, 74, 62, 0.12);
-  border-color: rgba(91, 74, 62, 0.24);
+  background: rgba(246, 242, 235, 0.12);
+  color: rgba(246, 242, 235, 0.78);
 }
 
 .enemy-loot-chip img {

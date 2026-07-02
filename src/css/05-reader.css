@@ -81,8 +81,7 @@
 .text-card,
 .detail-block,
 .catalog-meta,
-.notes,
-.dropped-by-section {
+.notes {
   margin-top: 14px;
   padding: 18px;
   background: color-mix(in srgb, var(--surface-muted) 78%, var(--surface-solid));
