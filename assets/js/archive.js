@@ -1288,9 +1288,14 @@ function renderReaderLangControl(extraClass = "", options = {}) {
 function renderReaderCornerControls(...blocks) {
   const controls = blocks.filter(Boolean).join("");
   return `
-    <div class="reader-corner-controls" aria-label="Быстрые действия чтения">
-      ${renderReaderLangControl("reader-corner-lang-control", { showLabel: false })}
-      ${controls}
+    <div class="reader-corner-track reader-tabs-row">
+      <div class="reader-corner-controls reader-section-scroll" data-scroll-preserve="reader-corner-controls" aria-label="Быстрые действия чтения">
+        ${renderReaderLangControl("reader-corner-lang-control", { showLabel: false })}
+        ${controls}
+      </div>
+      <div class="reader-section-scrollbar reader-corner-scrollbar" data-scrollbar-for="reader-corner-controls" aria-hidden="true">
+        <span class="reader-section-scrollbar-thumb"></span>
+      </div>
     </div>
   `;
 }
@@ -1619,6 +1624,7 @@ function updateMobileMenuButton() {
   const isOpen = document.body.classList.contains("menu-open");
   button.setAttribute("aria-expanded", String(isOpen));
   button.setAttribute("aria-label", isOpen ? "Закрыть разделы" : "Открыть разделы");
+  button.textContent = isOpen ? "×" : "☰";
 }
 
 function openMenu() {

@@ -675,21 +675,26 @@ def check_common_enemy_layout_guards() -> None:
                 fail("src/css/07-responsive.css: базовое выравнивание, размер и плотность каталога не должны дублироваться в мобильных заплатках")
         if "html.menu-open," not in responsive_text or "overscroll-behavior: none" not in responsive_text or "touch-action: none" not in responsive_text:
             fail("src/css/07-responsive.css: мобильное меню должно блокировать прокрутку фона, а не только затемнять его")
-        mobile_sidebar = re.search(r"@media \(max-width: 1180px\).*?\.sidebar \{(?P<body>.*?)\}", responsive_text, re.S)
-        if not mobile_sidebar or "calc(100vw - 72px)" not in mobile_sidebar.group("body") or "overflow-y: auto" not in mobile_sidebar.group("body"):
-            fail("src/css/07-responsive.css: мобильное меню должно оставлять широкую область для закрытия и прокручиваться внутри карточки")
-        if not mobile_sidebar or "left: 12px" not in mobile_sidebar.group("body") or "safe-area-inset-left" in mobile_sidebar.group("body"):
+        mobile_sidebar = re.search(r"@media \(max-width: 1180px\).*?\.archive-layout > \.sidebar,\s*\.sidebar \{(?P<body>.*?)\}", responsive_text, re.S)
+        if not mobile_sidebar:
+            fail("src/css/07-responsive.css: не найден основной мобильный блок меню")
+        else:
+            sidebar_body = mobile_sidebar.group("body")
+            required_sidebar_fragments = ["top: var(--reader-mobile-bar-top)", "left: 0", "right: 0", "bottom: 0", "width: 100%", "overflow: hidden", "transform: translateY(-100%)"]
+            for fragment in required_sidebar_fragments:
+                if fragment not in sidebar_body:
+                    fail(f"src/css/07-responsive.css: полноэкранное мобильное меню собрано не полностью: {fragment}")
+        sidebar_scroll_block = re.search(r"\n  \.sidebar-scroll \{(?P<body>.*?)\}", responsive_text, re.S)
+        if not sidebar_scroll_block or "overflow-y: auto" not in sidebar_scroll_block.group("body") or "scrollbar-width: none" not in sidebar_scroll_block.group("body"):
+            fail("src/css/07-responsive.css: мобильное меню должно прокручиваться внутри и скрывать системный скролл")
+        if "safe-area-inset-left" in (mobile_sidebar.group("body") if mobile_sidebar else ""):
             fail("src/css/07-responsive.css: мобильное меню не должно использовать боковую safe-area как отступ — она оставляет белое поле в landscape")
-        if not mobile_sidebar or "bottom: auto" not in mobile_sidebar.group("body") or "min-height: 0" not in mobile_sidebar.group("body") or "max-height: calc(100vh - 78px)" not in mobile_sidebar.group("body"):
-            fail("src/css/07-responsive.css: мобильное меню должно подстраиваться под высоту содержимого, а не растягивать бежевую карточку до низа экрана")
         if re.search(r"(?<!max-)height: calc\(100dvh - 16px\)", responsive_text) or "bottom: max(12px, env(safe-area-inset-bottom))" in responsive_text:
             fail("src/css/07-responsive.css: старое landscape-меню не должно принудительно растягиваться на всю высоту экрана")
         if "width: 100vw" in responsive_text:
             fail("src/css/07-responsive.css: не должен использоваться width: 100vw — на iOS он может создавать горизонтальный скролл")
         if "calc(100vw - 16px)" in responsive_text:
             fail("src/css/07-responsive.css: landscape-меню не должно снова занимать почти всю ширину экрана")
-        if "@supports (width: 100dvw)" not in responsive_text or "calc(100dvw - 72px)" not in responsive_text:
-            fail("src/css/07-responsive.css: мобильное меню должно использовать dvw-поправку для поворота экрана")
         forbidden_side_safe_area = [
             "left: max(12px, env(safe-area-inset-left))",
             "padding-left: env(safe-area-inset-left)",
@@ -710,8 +715,8 @@ def check_common_enemy_layout_guards() -> None:
             fail("src/css/07-responsive.css: в landscape мобильная оболочка должна быть full-bleed, без белых боковых gutters")
         if "html.is-mobile-landscape .app" not in responsive_text or "html.is-mobile-landscape .content" not in responsive_text or "max-width: none;" not in responsive_text:
             fail("src/css/07-responsive.css: для iOS нужен JS-класс is-mobile-landscape, чтобы убирать планшетный max-width даже при нестабильном orientation")
-        if "html.menu-open .drawer-backdrop" not in responsive_text or "inset: 0;" not in responsive_text or "width: auto;" not in responsive_text:
-            fail("src/css/07-responsive.css: затемнение мобильного меню должно покрывать весь viewport, а не только центральный контейнер")
+        if ".drawer-backdrop" not in responsive_text or "display: none" not in responsive_text:
+            fail("src/css/07-responsive.css: полноэкранное мобильное меню не должно оставлять старую кликабельную подложку поверх навигации")
         if "viewport-fit=cover" not in (ROOT / "index.html").read_text(encoding="utf-8"):
             fail("index.html: нужен viewport-fit=cover для окрашивания боковых safe-area на iOS")
         base_text = (SRC_CSS_DIR / "01-base.css").read_text(encoding="utf-8") if (SRC_CSS_DIR / "01-base.css").exists() else ""

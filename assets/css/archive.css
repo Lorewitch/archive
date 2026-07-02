@@ -2314,6 +2314,15 @@ a {
   color: #fffaf2;
 }
 
+.reader-corner-track {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.reader-corner-track .reader-section-scrollbar {
+  display: none;
+}
+
 .reader-corner-controls {
   display: flex;
   align-items: flex-start;
@@ -2722,7 +2731,13 @@ a.enemy-loot-chip:focus-visible {
     --content-pad-top: 26px;
     --content-pad-x: 20px;
     --content-pad-bottom: 34px;
-    --content-radius: 24px;
+    --content-radius: 0px;
+    --reader-mobile-bar-top: 56px;
+    --reader-mobile-bar-side: 10px;
+    --reader-mobile-row-height: 40px;
+    --reader-mobile-row-gap: 8px;
+    --reader-mobile-controls-scroll: 14px;
+    --reader-mobile-stack-height: calc((var(--reader-mobile-row-height) * 2) + var(--reader-mobile-row-gap) + var(--reader-mobile-controls-scroll) + 12px);
   }
 
   html,
@@ -2749,185 +2764,151 @@ a.enemy-loot-chip:focus-visible {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 60;
+    z-index: 120;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 12px;
-    height: 56px;
-    padding: 8px 14px;
+    justify-content: flex-start;
+    gap: 14px;
+    height: var(--reader-mobile-bar-top);
+    padding: 7px 14px;
     background: linear-gradient(180deg, color-mix(in srgb, var(--menu-bg) 96%, #fff 4%) 0%, var(--menu-bg-deep) 100%);
     border-bottom: 1px solid var(--menu-line);
     color: var(--menu-ink);
   }
 
   .menu-button {
-    flex: 0 0 auto;
-    min-width: 0;
-    height: 38px;
-    padding: 0 12px;
+    flex: 0 0 42px;
+    width: 42px;
+    min-width: 42px;
+    height: 42px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    background: var(--accent);
-    color: #f6f2eb;
+    padding: 0;
+    background: transparent;
+    color: var(--menu-ink);
     border: 0;
     border-radius: 0;
-    font-size: var(--font-size-mobile-menu-button);
-    font-weight: 780;
-    letter-spacing: 0.07em;
+    box-shadow: none;
+    font-family: var(--font-main);
+    font-size: 28px;
+    font-weight: 420;
     line-height: 1;
-    text-transform: uppercase;
-    white-space: nowrap;
+    letter-spacing: 0;
+    text-transform: none;
   }
 
-  .menu-button:active {
-    background: var(--accent-hover);
+  .menu-button:active,
+  .menu-button:hover,
+  .menu-button:focus-visible {
+    background: transparent;
+    color: #fffaf2;
+    outline: 0;
   }
 
   .mobile-brand {
     min-width: 0;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
-    gap: 9px;
-    color: var(--menu-ink);
-    font-family: var(--font-logo);
-    font-size: var(--font-size-mobile-logo);
-    font-weight: 600;
-    line-height: 1;
-    letter-spacing: -0.025em;
-    text-align: right;
+    justify-content: flex-start;
+    color: var(--menu-active-bar);
+    font-family: var(--font-main);
+    font-size: clamp(11px, 3.2vw, 14px);
+    font-weight: 420;
+    line-height: 1.55;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    text-align: left;
   }
 
   .mobile-brand img {
-    flex: 0 0 auto;
-    width: 30px;
-    height: 35px;
-    object-fit: contain;
+    display: none;
   }
 
   .mobile-brand span {
+    display: block;
     min-width: 0;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    max-width: calc(100vw - 84px);
+    overflow: visible;
+    text-overflow: clip;
+    white-space: normal;
   }
 
   .archive-layout {
     grid-template-columns: 0 0 minmax(0, 1fr);
   }
 
+  .archive-layout > .sidebar,
   .sidebar {
     position: fixed;
-    z-index: 80;
-    left: 12px;
-    top: 64px;
-    bottom: auto;
-    width: min(320px, calc(100vw - 72px));
+    z-index: 100;
+    top: var(--reader-mobile-bar-top);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    max-width: none;
+    height: calc(100dvh - var(--reader-mobile-bar-top));
     min-height: 0;
-    max-height: calc(100vh - 78px);
-    height: auto;
-    overflow-x: hidden;
-    overflow-y: auto;
+    max-height: none;
+    overflow: hidden;
     background-color: var(--menu-bg);
     background-image: linear-gradient(180deg, color-mix(in srgb, var(--menu-bg) 94%, #fff 6%) 0%, var(--menu-bg) 54%, var(--menu-bg-deep) 100%);
-    box-shadow: 0 22px 64px rgba(0, 0, 0, 0.44);
-    transform: translateX(calc(-100% - 24px));
+    box-shadow: none;
+    transform: translateY(-100%);
     transition: transform 180ms ease;
     will-change: transform;
   }
 
-  @supports (width: 100dvw) {
-    .sidebar {
-      width: min(320px, calc(100dvw - 72px));
-    }
+  body.menu-open .archive-layout > .sidebar,
+  body.menu-open .sidebar {
+    transform: translateY(0);
   }
 
-  body.menu-open .sidebar {
-    transform: translateX(0);
+  .sidebar .brand {
+    display: none;
   }
 
   .sidebar-scroll {
-    height: auto;
-    max-height: inherit;
+    width: 100%;
+    height: 100%;
+    max-height: none;
     overflow-x: hidden;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    padding: 22px 18px 24px;
-    scrollbar-width: thin;
-    scrollbar-color: var(--menu-active-bar) rgba(243, 236, 223, 0.08);
+    padding: 22px 18px 42px;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
   }
 
   .sidebar-scroll::-webkit-scrollbar {
-    width: 4px;
-    height: 4px;
-    display: block;
-  }
-
-  .sidebar-scroll::-webkit-scrollbar-track {
-    background: rgba(243, 236, 223, 0.08);
-  }
-
-  .sidebar-scroll::-webkit-scrollbar-thumb {
-    background: var(--menu-active-bar);
-    border-radius: 0;
-  }
-
-  .brand {
-    grid-template-columns: 58px minmax(0, 1fr);
-    gap: 12px;
-    margin-bottom: 22px;
-  }
-
-  .brand-mark {
-    width: 58px;
-    height: 66px;
-  }
-
-  .brand-mark img {
-    width: 56px;
-    height: 66px;
-  }
-
-  .brand-title {
-    font-size: var(--font-size-sidebar-logo-mobile);
-  }
-
-  .brand-subtitle {
-    font-size: var(--font-size-mobile-control);
+    display: none;
+    width: 0;
+    height: 0;
   }
 
   .nav {
-    gap: 5px;
+    gap: 8px;
   }
 
   .nav-button,
   .nav-child,
   .nav-item {
-    min-height: 44px;
-    padding: 12px 10px;
-    gap: 10px;
+    min-height: 48px;
+    padding: 13px 14px;
+    gap: 12px;
   }
 
   .nav-child {
-    min-height: 38px;
-    padding: 10px 12px;
+    min-height: 40px;
+    padding: 10px 14px 10px 50px;
     white-space: normal;
   }
 
-  .drawer-backdrop {
-    display: none;
-  }
-
+  .drawer-backdrop,
   body.menu-open .drawer-backdrop,
   html.menu-open .drawer-backdrop {
-    position: fixed;
-    inset: 0;
-    z-index: 70;
-    display: block;
-    width: auto;
-    background: rgba(12, 11, 9, 0.62);
+    display: none;
   }
 
   .menu-rail {
@@ -2940,22 +2921,49 @@ a.enemy-loot-chip:focus-visible {
     gap: 8px;
     width: 100%;
     height: 100dvh;
-    padding: 64px 10px 12px;
+    padding: calc(var(--reader-mobile-bar-top) + 8px) 10px 12px;
     overflow: hidden;
   }
 
   .content-card,
   .content-rail {
-    height: calc(100dvh - 76px);
+    height: calc(100dvh - var(--reader-mobile-bar-top) - 20px);
   }
 
-  .content-card {
-    border-radius: var(--content-radius);
-  }
-
+  .content-card,
   .content-card::before,
-  .catalog-sticky-head::before {
-    border-radius: var(--content-radius) var(--content-radius) 0 0;
+  .catalog-sticky-head,
+  .catalog-sticky-head::before,
+  .reader-sticky-head,
+  .reader-sticky-head::before,
+  .catalog-card,
+  .catalog-card-media,
+  .text-card,
+  .detail-block,
+  .volume-card,
+  .inventory-card,
+  .weapon-description-panel,
+  .weapon-story-panel,
+  .dropped-by-card,
+  .boss-overview-card,
+  .search,
+  .select,
+  .search input,
+  .select select,
+  .type-filter-chip,
+  .filter-button,
+  .mode-button,
+  .lang-switch button,
+  .volume-scroll button,
+  .pagination button,
+  .sortable-head,
+  .enemy-loot-chip,
+  .type-filter-toggle,
+  .reader-head-nav .back-link,
+  .reader-corner-controls .mode-button,
+  .reader-corner-controls .reader-content-type-button,
+  .reader-corner-controls .lang-switch button {
+    border-radius: 0;
   }
 
   .content-scroll {
@@ -2974,14 +2982,8 @@ a.enemy-loot-chip:focus-visible {
     height: 44px;
   }
 
-  .reader-head-nav {
-    top: 64px;
-    left: 10px;
-    right: calc(10px + var(--content-rail-width) + 8px);
-  }
-
   .catalog-page {
-    overflow-x: clip;
+    overflow-x: hidden;
   }
 
   @supports (overflow: clip) {
@@ -3024,7 +3026,17 @@ a.enemy-loot-chip:focus-visible {
     overflow-x: auto;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
-    scrollbar-width: thin;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .toolbar-filters::-webkit-scrollbar,
+  .type-filter-row::-webkit-scrollbar,
+  .type-filter-stack::-webkit-scrollbar,
+  .filter-row::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
   }
 
   .catalog-row,
@@ -3182,42 +3194,116 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .reader-sticky-head {
-    --reader-corner-row-height: 40px;
-    --reader-corner-row-gap: 12px;
+    position: relative;
+    top: auto;
+    z-index: 10;
+    --reader-corner-row-height: var(--reader-mobile-row-height);
+    --reader-corner-row-gap: var(--reader-mobile-row-gap);
     gap: 14px;
-    padding-bottom: 16px;
+    margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 18px;
+    padding: calc(var(--reader-mobile-stack-height) + 14px) var(--content-pad-x) 16px;
+    border-radius: 0;
+  }
+
+  .reader-sticky-head::before {
+    height: var(--reader-mobile-stack-height);
+    border-radius: 0;
   }
 
   .reader-head-nav {
-    gap: 8px;
+    position: fixed;
+    top: var(--reader-mobile-bar-top);
+    left: var(--reader-mobile-bar-side);
+    right: calc(var(--reader-mobile-bar-side) + var(--content-rail-width) + 8px);
+    z-index: 115;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    gap: var(--reader-mobile-row-gap);
+    min-width: 0;
+    overflow: visible;
+  }
+
+  .reader-head-nav .back-link {
+    width: 100%;
+    max-width: none;
+    height: var(--reader-mobile-row-height);
+    min-height: var(--reader-mobile-row-height);
+    padding: 0 12px;
+    flex: 0 0 auto;
+  }
+
+  .reader-corner-track {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    flex: 0 0 auto;
+    display: block;
   }
 
   .reader-corner-controls {
-    gap: 7px;
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 6px;
     overflow-x: auto;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
-    scrollbar-width: thin;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .reader-corner-controls::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+
+  .reader-corner-scrollbar {
+    display: block;
+    height: 8px;
+    margin-top: 6px;
+  }
+
+  .reader-corner-controls .reader-lang-control,
+  .reader-corner-controls .lang-switch {
+    flex-wrap: nowrap;
+  }
+
+  .reader-corner-controls .reader-lang-control {
+    margin-left: 0;
+    order: 0;
+  }
+
+  .reader-corner-controls .reader-content-type-button {
+    order: 1;
+  }
+
+  .reader-corner-controls .mode-button {
+    order: 2;
   }
 
   .reader-head-nav .back-link,
   .reader-corner-controls .mode-button,
   .reader-corner-controls .reader-content-type-button,
   .reader-corner-controls .lang-switch button {
-    height: var(--reader-corner-row-height);
-    min-height: var(--reader-corner-row-height);
+    height: var(--reader-mobile-row-height);
+    min-height: var(--reader-mobile-row-height);
     padding: 0 10px;
     font-size: var(--font-size-mobile-control);
   }
 
   .reader-corner-controls .mode-button {
-    flex: 0 0 150px;
-    width: 150px;
+    flex: 0 0 154px;
+    width: 154px;
   }
 
   .reader-corner-controls .reader-content-type-button {
-    flex: 0 0 98px;
-    width: 98px;
+    flex: 0 0 102px;
+    width: 102px;
   }
 
   .reader-corner-controls .lang-switch {
@@ -3229,25 +3315,31 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .reader-head-main {
-    grid-template-columns: 84px minmax(0, 1fr);
-    gap: 13px;
+    grid-template-columns: 76px minmax(0, 1fr);
+    gap: 12px;
+    align-items: center;
     text-align: left;
   }
 
   .reader-head-icon,
   .reader-head-icon.story-detail-icon {
-    width: 80px;
-    height: 80px;
+    width: 72px;
+    height: 72px;
     margin: 0;
   }
 
   .reader-head-titles h1 {
-    font-size: var(--font-size-reader-title-mobile-lg);
+    font-size: clamp(24px, 5vw, 32px);
+    line-height: 1.08;
     letter-spacing: 0.025em;
   }
 
   .reader-title-alt {
     font-size: var(--font-size-reader-subtitle);
+  }
+
+  .reader-top-controls {
+    min-width: 0;
   }
 
   .story-toolbar .volume-scroll button {
@@ -3270,7 +3362,8 @@ a.enemy-loot-chip:focus-visible {
     --content-pad-top: 22px;
     --content-pad-x: 14px;
     --content-pad-bottom: 28px;
-    --content-radius: 20px;
+    --content-radius: 0px;
+    --reader-mobile-bar-side: 8px;
   }
 
   .stage {
@@ -3289,11 +3382,8 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .reader-head-nav {
+    left: 8px;
     right: 8px;
-  }
-
-  .mobile-brand span {
-    max-width: 58vw;
   }
 
   .catalog-card-grid {
@@ -3339,19 +3429,24 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .reader-head-main {
-    grid-template-columns: 1fr;
-    text-align: center;
+    grid-template-columns: 68px minmax(0, 1fr);
+    gap: 11px;
+    text-align: left;
   }
 
   .reader-head-icon,
   .reader-head-icon.story-detail-icon {
-    width: 96px;
-    height: 96px;
-    margin: 0 auto;
+    width: 64px;
+    height: 64px;
+    margin: 0;
   }
 
   .reader-head-titles h1 {
-    font-size: var(--font-size-reader-title-mobile);
+    font-size: clamp(22px, 7vw, 28px);
+  }
+
+  .reader-title-alt {
+    white-space: normal;
   }
 
   .dropped-by-grid.is-pair,
@@ -3370,13 +3465,16 @@ a.enemy-loot-chip:focus-visible {
 }
 
 @media (max-width: 380px) {
-  .mobile-brand span {
-    max-width: 48vw;
+  .mobile-brand {
+    font-size: 11px;
+    letter-spacing: 0.3em;
   }
 
   .menu-button {
-    padding: 0 10px;
-    font-size: var(--font-size-mobile-control);
+    flex-basis: 38px;
+    width: 38px;
+    min-width: 38px;
+    font-size: 26px;
   }
 
   .catalog-card {
@@ -3402,32 +3500,25 @@ a.enemy-loot-chip:focus-visible {
     padding-right: 0;
   }
 
-  .mobile-top {
-    height: 50px;
-    padding-top: 6px;
-    padding-bottom: 6px;
+  :root {
+    --reader-mobile-bar-top: 50px;
   }
 
-  .archive-layout,
-  .stage,
-  .content-card {
-    border-radius: 0;
+  .mobile-top {
+    height: var(--reader-mobile-bar-top);
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   .stage {
-    padding-top: 58px;
+    padding-top: calc(var(--reader-mobile-bar-top) + 8px);
     padding-left: 0;
     padding-right: 0;
   }
 
-  .sidebar {
-    top: 58px;
-    max-height: calc(100vh - 72px);
-  }
-
   .content-card,
   .content-rail {
-    height: calc(100dvh - 70px);
+    height: calc(100dvh - var(--reader-mobile-bar-top) - 20px);
   }
 }
 
@@ -3445,283 +3536,4 @@ html.is-mobile-landscape body::before {
 html.is-mobile-landscape .app,
 html.is-mobile-landscape .content {
   max-width: none;
-}
-
-@media (max-width: 1180px) {
-  :root {
-    --content-radius: 0px;
-  }
-
-  .mobile-top {
-    z-index: 110;
-    justify-content: flex-start;
-    gap: 12px;
-  }
-
-  .menu-button {
-    width: 46px;
-    min-width: 46px;
-    height: 46px;
-    padding: 0;
-    font-size: 19px;
-    line-height: 1;
-  }
-
-  .mobile-brand {
-    justify-content: flex-start;
-    text-align: left;
-  }
-
-  .mobile-brand span {
-    max-width: calc(100% - 96px);
-  }
-
-  .archive-layout > .sidebar,
-  .sidebar {
-    position: fixed;
-    z-index: 100;
-    top: 56px;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    max-width: none;
-    height: calc(100dvh - 56px);
-    max-height: none;
-    overflow: hidden;
-    transform: translateY(-100%);
-    transition: transform 180ms ease;
-    box-shadow: none;
-  }
-
-  body.menu-open .archive-layout > .sidebar,
-  body.menu-open .sidebar {
-    transform: translateY(0);
-  }
-
-  .sidebar .brand {
-    display: none;
-  }
-
-  .sidebar-scroll {
-    height: 100%;
-    max-height: none;
-    padding: 22px 18px 42px;
-    overflow-x: hidden;
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-  }
-
-  .sidebar-scroll::-webkit-scrollbar {
-    display: none;
-    width: 0;
-    height: 0;
-  }
-
-  .nav {
-    gap: 8px;
-  }
-
-  .nav-button,
-  .nav-child,
-  .nav-item {
-    min-height: 48px;
-    padding: 13px 14px;
-  }
-
-  .drawer-backdrop,
-  body.menu-open .drawer-backdrop,
-  html.menu-open .drawer-backdrop {
-    display: none;
-  }
-
-  .content-card,
-  .content-card::before,
-  .catalog-sticky-head,
-  .catalog-sticky-head::before,
-  .reader-sticky-head,
-  .reader-sticky-head::before,
-  .catalog-card,
-  .catalog-card-media,
-  .text-card,
-  .detail-block,
-  .volume-card,
-  .inventory-card,
-  .weapon-description-panel,
-  .weapon-story-panel,
-  .dropped-by-card,
-  .boss-overview-card,
-  .search,
-  .select,
-  .search input,
-  .select select,
-  .type-filter-chip,
-  .filter-button,
-  .mode-button,
-  .lang-switch button,
-  .volume-scroll button,
-  .pagination button,
-  .sortable-head,
-  .enemy-loot-chip,
-  .type-filter-toggle,
-  .reader-head-nav .back-link,
-  .reader-corner-controls .mode-button,
-  .reader-corner-controls .reader-content-type-button,
-  .reader-corner-controls .lang-switch button {
-    border-radius: 0;
-  }
-
-  .reader-sticky-head {
-    --reader-corner-row-height: 40px;
-    --reader-corner-row-gap: 12px;
-    --reader-corner-stack-height: calc((var(--reader-corner-row-height) * 2) + 22px);
-    gap: 14px;
-    padding-top: var(--reader-corner-stack-height);
-  }
-
-  .reader-sticky-head::before {
-    height: var(--reader-corner-stack-height);
-  }
-
-  .reader-head-nav {
-    top: 56px;
-    left: 8px;
-    right: 8px;
-    flex-direction: column;
-    align-items: stretch;
-    gap: 8px;
-    min-width: 0;
-    overflow: visible;
-  }
-
-  .reader-head-nav .back-link {
-    width: max-content;
-    max-width: 100%;
-    height: var(--reader-corner-row-height);
-    min-height: var(--reader-corner-row-height);
-    padding: 0 12px;
-    flex: 0 0 auto;
-  }
-
-  .reader-corner-controls {
-    width: 100%;
-    max-width: 100%;
-    align-items: center;
-    flex-wrap: nowrap;
-    gap: 6px;
-    padding-bottom: 8px;
-    overflow-x: auto;
-    overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: thin;
-    scrollbar-color: var(--accent) color-mix(in srgb, var(--accent) 24%, transparent);
-  }
-
-  .reader-corner-controls::-webkit-scrollbar {
-    display: block;
-    height: 8px;
-  }
-
-  .reader-corner-controls::-webkit-scrollbar-track {
-    background: color-mix(in srgb, var(--accent) 24%, transparent);
-  }
-
-  .reader-corner-controls::-webkit-scrollbar-thumb {
-    background: var(--accent);
-  }
-
-  .reader-corner-controls::-webkit-scrollbar-button,
-  .reader-corner-controls::-webkit-scrollbar-corner {
-    display: none;
-    width: 0;
-    height: 0;
-  }
-
-  .reader-corner-controls .reader-lang-control,
-  .reader-corner-controls .lang-switch {
-    flex-wrap: nowrap;
-  }
-
-  .reader-corner-controls .reader-lang-control {
-    margin-left: 0;
-    order: 0;
-  }
-
-  .reader-corner-controls .reader-content-type-button {
-    order: 1;
-  }
-
-  .reader-corner-controls .mode-button {
-    order: 2;
-  }
-
-  .reader-head-main {
-    grid-template-columns: 76px minmax(0, 1fr);
-    gap: 12px;
-    align-items: center;
-    text-align: left;
-  }
-
-  .reader-head-icon,
-  .reader-head-icon.story-detail-icon {
-    width: 72px;
-    height: 72px;
-    margin: 0;
-  }
-
-  .reader-head-titles h1 {
-    font-size: clamp(24px, 5vw, 32px);
-    line-height: 1.08;
-  }
-}
-
-@media (max-width: 720px) {
-  :root {
-    --content-radius: 0px;
-  }
-
-  .reader-head-main {
-    grid-template-columns: 68px minmax(0, 1fr);
-    gap: 11px;
-    text-align: left;
-  }
-
-  .reader-head-icon,
-  .reader-head-icon.story-detail-icon {
-    width: 64px;
-    height: 64px;
-    margin: 0;
-  }
-
-  .reader-head-titles h1 {
-    font-size: clamp(22px, 7vw, 28px);
-  }
-
-  .reader-title-alt {
-    white-space: normal;
-  }
-
-  .reader-corner-controls .mode-button {
-    flex-basis: 154px;
-    width: 154px;
-  }
-
-  .reader-corner-controls .reader-content-type-button {
-    flex-basis: 102px;
-    width: 102px;
-  }
-}
-
-@media (max-width: 1180px) and (orientation: landscape) {
-  .archive-layout > .sidebar,
-  .sidebar {
-    top: 50px;
-    height: calc(100dvh - 50px);
-  }
-
-  .reader-head-nav {
-    top: 50px;
-  }
 }
