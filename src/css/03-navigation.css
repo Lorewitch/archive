@@ -58,7 +58,6 @@
 
 .brand-title {
   color: var(--menu-ink);
-  font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(22px, 1.3vw, 25px);
   font-weight: 600;
   line-height: 1;

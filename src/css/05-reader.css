@@ -283,7 +283,6 @@
   line-height: 1.82;
 }
 
-/* Private catalog notes are not shown on public cards/pages. */
 .catalog-meta,
 .notes {
   display: none;
@@ -338,11 +337,6 @@
   grid-template-columns: 1fr;
 }
 
-/*
-  Back button for reader pages. It is positioned the same way as the fixed
-  “to top” button: outside the scrolling flow, flush with the content card corner.
-  The card itself keeps its rounded corner; the dark button only visually covers it.
-*/
 .content-card.has-reader-page .content-scroll {
   z-index: 4;
 }

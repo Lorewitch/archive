@@ -19,9 +19,6 @@ let backgroundPrefetchStarted = false;
 let lastPrefetchedEntryKey = "";
 let menuScrollY = 0;
 
-// Keep idle prefetch limited to small catalog indexes.
-// Heavy sections stay lazy-loaded so the first visit does not quietly pull
-// several megabytes of JSON after rendering the start page.
 const BACKGROUND_PREFETCH_SECTIONS = new Set(["artifacts", "weapons"]);
 
 function currentAssetVersion() {
@@ -1013,10 +1010,6 @@ function markdownToHtml(value, options = {}) {
       quote.push(quoteMatch[1]);
       continue;
     }
-
-    // Lists are opt-in because Russian book text often uses a leading dash
-    // for dialogue. Without this guard, dialogue turns into bullet lists.
-    // In prose mode we normalize any leading -, – or — into a readable em dash.
     const dialogueMatch = trimmed.match(/^[-–—]\s+(.+)$/);
     if (!allowLists && dialogueMatch) {
       flushList();
@@ -1198,9 +1191,6 @@ function renderTextWithAttachedBadge(value, badge) {
 
   if (!badge) return escapeHtml(rawText);
   if (!rawText) return badge;
-
-  // Keep the version badge attached to the last word of the visible title.
-  // This prevents orphaned version badges in narrow catalog columns.
   const match = rawText.match(/^([\s\S]*?)(\S+)$/u);
   if (!match) {
     return `${escapeHtml(rawText)}${badge}`;
@@ -1256,29 +1246,6 @@ function renderTitleCell(item) {
         <div class="book-title">${renderTitleWithGameVersion(item)}</div>
         <div class="book-subtitle">${escapeHtml(subtitles)}</div>
         ${materialsPreview}
-      </div>
-    </div>
-  `;
-}
-
-function renderDetailHero(item, options = {}) {
-  const icon = iconFor(item);
-  const iconClass = [
-    "detail-title-icon",
-    options.iconClass || "",
-    entryRarityBackgroundClass(item),
-  ].filter(Boolean).join(" ");
-  const iconMarkup = icon
-    ? `<img class="${escapeHtml(iconClass)}" src="${escapeHtml(versionedAssetPath(icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
-    : "";
-  const subtitle = [titleOf(item, "en"), titleOf(item, "zh")].filter(Boolean).join(" · ");
-
-  return `
-    <div class="page-head detail-hero ${escapeHtml(options.className || "")}">
-      ${iconMarkup}
-      <div class="detail-hero-text">
-        <h1>${escapeHtml(titleOf(item, "ru"))}</h1>
-        <div class="subtitle">${escapeHtml(subtitle)}</div>
       </div>
     </div>
   `;
@@ -1708,12 +1675,6 @@ function storyGroupLabel(key) {
   return STORY_GROUP_LABELS[key] || key || "—";
 }
 
-function groupLabel(config, key) {
-  return (config.groups || []).find(([value]) => value === key)?.[1]
-    || Object.values(config.childGroups || {}).flat().find(([value]) => value === key)?.[1]
-    || key;
-}
-
 function catalogBackTarget(config, groupKey = state.subsection) {
   const parent = parentGroupFor(config, groupKey);
   return parent ? { section: config.id, subsection: parent } : { section: config.id, subsection: null };
@@ -2066,14 +2027,6 @@ function catalogRowClasses(config, modifiers = []) {
   ].filter(Boolean).join(" ");
 }
 
-function catalogRow(item, config) {
-  return `
-    <div class="${catalogRowClasses(config, ["item"])}" data-entry-id="${escapeHtml(item.id)}" data-section-id="${escapeHtml(config.id)}" tabindex="0" role="button" aria-label="Открыть ${escapeHtml(titleOf(item))}">
-      ${config.row(item).map(cell => `<div>${cell}</div>`).join("")}
-    </div>
-  `;
-}
-
 function cssClassToken(value) {
   return String(value || "")
     .trim()
@@ -2237,12 +2190,6 @@ function groupEntryCount(config, groupKey) {
   return config.data().filter(item => groupValue(item, config) === groupKey).length;
 }
 
-function groupDescription(config, groupKey) {
-  const group = (config.groups || []).find(([key]) => key === groupKey)
-    || Object.values(config.childGroups || {}).flat().find(([key]) => key === groupKey);
-  return group?.[2] || config.description || "";
-}
-
 function renderGroupSelector(config, parentKey = "") {
   activeDetail = null;
   const groups = groupsForSelector(config, parentKey);
@@ -2356,10 +2303,6 @@ function renderCatalogFilterReset(config = currentCatalogConfig()) {
 }
 
 
-function catalogDisplayTitle(config) {
-  if (state.subsection) return groupLabel(config, state.subsection);
-  return config?.title || "Каталог";
-}
 
 function renderCatalog(config) {
   activeDetail = null;
@@ -2370,13 +2313,9 @@ function renderCatalog(config) {
   if (!allowedFilters.has(filterState.filter)) {
     filterState.filter = "all";
   }
-  const subsectionTitle = state.subsection ? groupLabel(config, state.subsection) : "";
-  const currentParentGroup = state.subsection ? parentGroupFor(config, state.subsection) : "";
-  void subsectionTitle;
-  void currentParentGroup;
-
+  const isNestedStoryGroup = config.id === "stories" && Boolean(parentGroupFor(config, state.subsection));
   app.innerHTML = `
-    <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}">
+    <section class="page-card catalog-page${state.subsection ? " is-subsection" : ""}${isNestedStoryGroup ? " has-parent-group" : ""}">
       <div class="catalog-sticky-head">
         <div class="toolbar">
           <div class="catalog-search-bar">
@@ -2412,12 +2351,6 @@ function updateCatalogTable(config = getSectionConfig()) {
   requestAnimationFrame(() => { resetHorizontalScroll(); syncCustomScrollbarsSoon(); });
 }
 
-function toggleSort(config) {
-  const filterState = state.filters[config.id];
-  filterState.sort = filterState.sort === "asc" ? "desc" : "asc";
-  filterState.page = 1;
-  updateCatalogTable(config);
-}
 
 function renderBookDetail(book) {
   activeDetail = { type: "book", data: book };
@@ -3037,10 +2970,6 @@ function handleAppClick(event) {
     return;
   }
 
-  if (event.target.closest("#sort-title")) {
-    toggleSort(currentCatalogConfig());
-    return;
-  }
 
   const pageButton = event.target.closest("[data-catalog-page]");
   if (pageButton) {

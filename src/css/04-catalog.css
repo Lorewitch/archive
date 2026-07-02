@@ -825,7 +825,7 @@
 
 .catalog-material-plain-sub {
   color: var(--muted);
-  font-size: 12.5px;
+  font-size: var(--font-size-card-meta);
   font-weight: 520;
   line-height: 1.25;
   overflow-wrap: anywhere;
@@ -1001,19 +1001,7 @@
   box-shadow: none;
 }
 
-.catalog-card-img.is-person {
-  max-width: 84px;
-  max-height: 88px;
-  align-self: center;
-}
 
-.catalog-card--character-story .catalog-card-media {
-  width: 96px;
-  height: 96px;
-  align-self: center;
-  overflow: hidden;
-  background: rgba(113, 107, 96, 0.58);
-}
 
 .catalog-card-placeholder {
   display: grid;
@@ -1038,7 +1026,7 @@
   -webkit-line-clamp: 2;
   overflow: hidden;
   color: var(--menu-ink);
-  font-size: 17px;
+  font-size: var(--font-size-card-title);
   font-weight: 720;
   line-height: 1.18;
   letter-spacing: 0.08em;
@@ -1046,15 +1034,11 @@
   overflow-wrap: anywhere;
 }
 
-.catalog-card--character-story .catalog-card-title {
-  font-size: 17px;
-  text-transform: uppercase;
-}
 
 .catalog-card-subtitle {
   margin-top: 7px;
   color: rgba(213, 203, 189, 0.9);
-  font-size: 12.5px;
+  font-size: var(--font-size-card-meta);
   font-weight: 520;
   line-height: 1.34;
   white-space: nowrap;
@@ -1070,7 +1054,7 @@
   margin-top: 14px;
   min-width: 0;
   color: rgba(243, 236, 223, 0.9);
-  font-size: 12.5px;
+  font-size: var(--font-size-card-meta);
   font-weight: 760;
   line-height: 1.3;
 }
@@ -1312,7 +1296,6 @@
 
 
 
-/* Clean visual pass: no dirty shadows on controls and rows. */
 .toolbar,
 .search-panel,
 .search,

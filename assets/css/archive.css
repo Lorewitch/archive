@@ -5,6 +5,12 @@
 
 :root {
   --bg: #151512;
+  --font-main: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-size-base: 16px;
+  --font-size-small: 13px;
+  --font-size-card-title: 17px;
+  --font-size-card-meta: 12.5px;
+  --font-size-reader-title: clamp(28px, 2.55vw, 42px);
   --page-bg-paint: radial-gradient(circle at 18% 0%, rgba(32, 32, 27, 0.52), transparent 44%), linear-gradient(135deg, #151512 0%, #20201b 100%);
   --surface: rgba(232, 226, 216, 0.97);
   --surface-solid: #e8e2d8;
@@ -93,7 +99,7 @@ body {
   min-height: 100dvh;
   color: var(--ink);
   background: var(--page-bg-paint);
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: var(--font-main);
   line-height: 1.6;
   overscroll-behavior-x: none;
 }
@@ -370,7 +376,6 @@ a {
 
 .brand-title {
   color: var(--menu-ink);
-  font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(22px, 1.3vw, 25px);
   font-weight: 600;
   line-height: 1;
@@ -1359,7 +1364,7 @@ a {
 
 .catalog-material-plain-sub {
   color: var(--muted);
-  font-size: 12.5px;
+  font-size: var(--font-size-card-meta);
   font-weight: 520;
   line-height: 1.25;
   overflow-wrap: anywhere;
@@ -1535,19 +1540,7 @@ a {
   box-shadow: none;
 }
 
-.catalog-card-img.is-person {
-  max-width: 84px;
-  max-height: 88px;
-  align-self: center;
-}
 
-.catalog-card--character-story .catalog-card-media {
-  width: 96px;
-  height: 96px;
-  align-self: center;
-  overflow: hidden;
-  background: rgba(113, 107, 96, 0.58);
-}
 
 .catalog-card-placeholder {
   display: grid;
@@ -1572,7 +1565,7 @@ a {
   -webkit-line-clamp: 2;
   overflow: hidden;
   color: var(--menu-ink);
-  font-size: 17px;
+  font-size: var(--font-size-card-title);
   font-weight: 720;
   line-height: 1.18;
   letter-spacing: 0.08em;
@@ -1580,15 +1573,11 @@ a {
   overflow-wrap: anywhere;
 }
 
-.catalog-card--character-story .catalog-card-title {
-  font-size: 17px;
-  text-transform: uppercase;
-}
 
 .catalog-card-subtitle {
   margin-top: 7px;
   color: rgba(213, 203, 189, 0.9);
-  font-size: 12.5px;
+  font-size: var(--font-size-card-meta);
   font-weight: 520;
   line-height: 1.34;
   white-space: nowrap;
@@ -1604,7 +1593,7 @@ a {
   margin-top: 14px;
   min-width: 0;
   color: rgba(243, 236, 223, 0.9);
-  font-size: 12.5px;
+  font-size: var(--font-size-card-meta);
   font-weight: 760;
   line-height: 1.3;
 }
@@ -1846,7 +1835,6 @@ a {
 
 
 
-/* Clean visual pass: no dirty shadows on controls and rows. */
 .toolbar,
 .search-panel,
 .search,
@@ -2149,7 +2137,6 @@ a {
   line-height: 1.82;
 }
 
-/* Private catalog notes are not shown on public cards/pages. */
 .catalog-meta,
 .notes {
   display: none;
@@ -2204,11 +2191,6 @@ a {
   grid-template-columns: 1fr;
 }
 
-/*
-  Back button for reader pages. It is positioned the same way as the fixed
-  “to top” button: outside the scrolling flow, flush with the content card corner.
-  The card itself keeps its rounded corner; the dark button only visually covers it.
-*/
 .content-card.has-reader-page .content-scroll {
   z-index: 4;
 }
@@ -2664,12 +2646,6 @@ a.enemy-loot-chip:focus-visible {
   flex: 0 0 22px;
 }
 
-/*
-  Адаптивная оболочка.
-  Десктопные размеры из 00-tokens/02-layout/03-navigation не переопределяются:
-  мобильные правила включаются только ниже 1180px.
-*/
-
 @media (max-width: 1180px) {
   :root {
     --sidebar-width: 320px;
@@ -2748,7 +2724,6 @@ a.enemy-loot-chip:focus-visible {
     justify-content: flex-end;
     gap: 9px;
     color: var(--menu-ink);
-    font-family: Georgia, "Times New Roman", serif;
     font-size: clamp(16px, 4.4vw, 22px);
     font-weight: 600;
     line-height: 1;
