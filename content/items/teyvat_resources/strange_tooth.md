@@ -31,9 +31,3 @@ A Dragontooth you picked up in Dragonspine. Perhaps someone would know something
 ## ZH
 
 从雪山上拾得的「牙齿」。 也许有人会知道关于它的一些信息…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

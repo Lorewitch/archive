@@ -36,7 +36,3 @@ This creature has a position of command amongst colonies of Fungi and exhibits h
 不仅看上去像，连生活习性也模仿了鸟类。
 可以依靠菌类组织的翅膀飞上天空，将孢子播撒到更远的地方。
 在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。
-
-## NOTES
-
-### Общие заметки Лороведьмы

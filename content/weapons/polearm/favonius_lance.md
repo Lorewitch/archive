@@ -88,14 +88,3 @@ All the better to slay her with...
 那么——无论是怂恿兄长嫡子追逐侠盗的梦想，最终又欺瞒令他逃亡，好让自己被扶正也好，还是暗地里师从某位使枪的魔女，循着她的技艺寻找死之隙，最终又将她除去也好…
 「纵使后世贬损又如何。
 只要能达到目的，一切手段都可以」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

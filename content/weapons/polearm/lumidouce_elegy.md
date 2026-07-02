@@ -189,14 +189,3 @@ And at the end of that long pursuit, even fate did not offer her the blossoming 
 直至记忆消溶水中，她也未曾知晓，柔灯铃真正的花语从来也不是希望，
 就像母亲在生前曾教导过她的道理那般，生于灰烬的，终将沦坠于灰烬，
 而在那漫长追迹的尽头，纵是命运也未曾向她献上理应如繁花般的挽歌。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

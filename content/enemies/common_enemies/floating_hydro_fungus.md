@@ -31,7 +31,3 @@ It is said that it tastes awful. However, such fungi have lots of moisture withi
 具有强大的环境适应能力。
 据说很难吃。
 但这种蕈兽因为含有丰富的水分，所以也能成为应急水源…
-
-## NOTES
-
-### Общие заметки Лороведьмы

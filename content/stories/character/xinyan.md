@@ -9,6 +9,7 @@
 # game_version: 1.1
 # icon: assets/icons/stories/character/xinyan.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -364,21 +365,3 @@ Thus did her musical journey begin, with showers of sparks and explosions keepin
 滚烫火热的「神之眼」，成为了画龙点睛的最后一笔。
 辛焱跑下山去，在璃月港举行了她的第一次摇滚音乐会。
 火花与爆炸为她打着节拍，她的音乐之路，由此开始。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

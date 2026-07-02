@@ -31,9 +31,3 @@ A bright and clear crystal with a core that is both tough and malleable.
 ## ZH
 
 澄澈明净的晶石，矿芯具备良好的韧性与塑性。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

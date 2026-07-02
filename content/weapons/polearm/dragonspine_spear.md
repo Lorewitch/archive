@@ -77,14 +77,3 @@ So he thought most sincerely as he lay dying.
 而那宝石般美丽的巨龙如同爱人般，将利齿没入他的脖颈。
 「再见了，妈妈，我的旅途结束了」「沉睡在白银般闪耀的雪中也不错」「再见了，美丽的诗人、美丽的龙」「如果我们能在不同的时间、地点」「相遇、欢唱、共舞，那该有多好」垂死的他由衷地想。
 「在我的血管当中鼓动的深刻祝福」「我所诞生的漆黑宇宙的美丽图景」「就由你们继承吧」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

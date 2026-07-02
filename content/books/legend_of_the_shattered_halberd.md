@@ -468,35 +468,3 @@ Chief Editor, Yae Publishing House
 当然，我们也完全理解前五卷粉丝的心情，「黑木书匣」五卷收藏版也正在制作中。在书店蹭书看完《折戟录》的孩子们，要记得买哦。啊对了，关于「断罪皇女」的故事，也请期待。
 
 八重总编 留
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-
-#### Том 6
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

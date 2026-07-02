@@ -37,7 +37,3 @@ The shield formed by its various components can resist any frontal attack.
 传说是已经覆灭的国度留下的战争机械。
 相比更为广泛存在的「遗迹守卫」，在设计上有着更强的仿生学意义。
 模仿昆虫的肢体相较于拟人机器更加方便移动，各部件结成的护盾能够抵御任何来自正面的攻击。
-
-## NOTES
-
-### Общие заметки Лороведьмы

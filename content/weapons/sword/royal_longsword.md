@@ -68,14 +68,3 @@ The oath itself will forever be borne by the winds, gently caressing Mondstadt l
 但根据记载，最终他们忘却了智慧与优雅，剑术沦为形式。
 两千六百年前，蒙德大地上最古老的血脉们，在新风神降生重塑天地后，立下庄重的誓言。
 「永护蒙德，永护蒙德青绿的平原、山岭与丘陵与森林，愿它永葆苍翠」「永护蒙德，不再受暴君般的风雪，风雪般的暴君所困，愿它永远自由」无论岁月如何变迁，即使土地被暴君与魔兽蹂躏，即便立誓的铭碑被毁，誓言的灵魂仍然随着千风，如恋人般轻抚着蒙德，如父亲般保卫着蒙德。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

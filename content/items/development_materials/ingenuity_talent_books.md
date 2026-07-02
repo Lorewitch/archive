@@ -80,9 +80,3 @@ Talent Level-Up material. Ingenuity is the leaf-veins of the nation of wisdom. I
 ### material: philosophies_of_ingenuity
 
 天赋培养素材。 「巧思」是智慧之国的叶脉。 巧思成于谐和的品行。 行为赋予思想完美形态，思、言、行的彼此印证，是令智慧之树绽放出花朵的忠实基干。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

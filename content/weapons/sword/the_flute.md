@@ -71,14 +71,3 @@ He named himself the Dawn Knight in her honor, and knew in his heart what he mus
 即便失却了一切希望，失去了所有同伴，殊死决斗时，她的剑仍高唱着光明的歌，被称为「宛若晨光的剑士」。
 晨曦骑士莱艮芬德曾经是侍从骑士，随行观赏角斗时，为她最后的剑舞所触动。
 他据此决定了自己的骑士名以及应做之事…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/sucrose.webp
 # tags:
+# character_filters: witchcraft
 
 ## RU
 
@@ -332,21 +333,3 @@ Still, there was no denying that she had reaped a great reward from this experim
 她想知道蒲公英籽和「神之眼」还能产生什么样的反应。
 可惜，在又熬煮了三个小时之后，本次试验仍以失败告终。
 但砂糖收获巨大——「神之眼」提供的元素力，成为了她「生物炼金」路上至关重要的工具。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

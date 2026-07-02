@@ -32,7 +32,3 @@ This mushroom may have a sizable cap, but the umbrella-shaped structure is in fa
 拥有一定智能的孢子生物。
 具有强大的环境适应能力。
 虽然有着不小的菌帽，但这些伞状组织的结构其实是中空的，因此难以作为食材使用。
-
-## NOTES
-
-### Общие заметки Лороведьмы

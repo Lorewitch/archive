@@ -35,7 +35,3 @@ Though the story is filled with childlike wonder, the reaction after proved that
 重甲蟹会在成长的阶段中不断寻找适合自己体格的外壳。
 曾经有畅销的童话书，描述了重甲蟹寻找属于自己的住所的坎坷历程。
 那是充满了童趣的故事，但事后的反响证明了它与不少别的童话一样，为成年人带来的感触更深。
-
-## NOTES
-
-### Общие заметки Лороведьмы

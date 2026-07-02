@@ -173,14 +173,3 @@ What? Were you trying to slink away while one was distracted!?"
 「也罢，既然本仙恰好也稍稍有些兴致，不妨就说一说吧」
 「去那边搬把椅子过来。讲起来不算长，也就八九个时辰…」
 「…喂，你刚才是不是打算趁着本仙不注意偷偷溜走？！」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

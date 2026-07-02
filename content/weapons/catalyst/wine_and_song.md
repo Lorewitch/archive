@@ -76,14 +76,3 @@ They give the unfortunate a little courage to face tomorrow, and stand up to the
 在德政广施的后世，已经无人传唱侠盗的故事，也无人再需要侠盗。
 酒与剑，美人与英雄，畅快的开篇与完美的结局，自然是当时平民所爱的通俗诗章。
 不论真实情况如何，不论二人结局如何，酒与充满希望的歌，都能让不幸的人们鼓起小小的，面对明天、面对权贵的勇气…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

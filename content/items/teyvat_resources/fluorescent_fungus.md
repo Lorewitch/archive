@@ -31,9 +31,3 @@ A mushroom that glows like a night-light. Some curious power lies hidden within 
 ## ZH
 
 如同夜灯般微微发光的蘑菇，其中蕴含着不可思议的力量。 在笼罩鹤观的雾气之中，这些幽灯蕈可以帮助照亮前路。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

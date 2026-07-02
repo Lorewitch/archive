@@ -177,14 +177,3 @@ Came to don the antlered crown — pure, defiled, and illusory — as though wra
 就这样，哀矜而善弱的圣女，总会为月下的苦厄泪流不止的圣女，
 
 如作茧自缚那般，将纯净的、秽浊的、虚妄的角冠，加冕于额前。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

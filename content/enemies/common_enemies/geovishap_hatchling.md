@@ -36,7 +36,3 @@ By avoiding predators and natural disasters, perhaps they can even live long eno
 须弥教令院的研究认为，即使是这种幼兽，也有成为「龙」
 的潜质。
 假以时日，如果不受天灾与敌害，或许也有一天能成为撼动高山的巨大魔物吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы

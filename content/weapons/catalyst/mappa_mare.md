@@ -67,14 +67,3 @@ Like the ocean, this chart answers to no master. Like the seafarers, it harbors 
 在异国，老练的海员会将海洋视为恋人，也用「她」这样的代词称呼咸涩的水体。
 或许是因为大海的喜怒无常和宽广胸怀，或许是因为他们仍记得踏上旅途的浪漫。
 而这本图册如大海一般没有主人，也如水手一般怀着梦想与浪漫，去往世界各地。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

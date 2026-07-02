@@ -28,8 +28,3 @@ These archers wield simple crossbows, and unmelting ice shrouds their arrowheads
 
 提瓦特荒野中游荡的原始住民。
 手持简陋弩机的射手，箭头上凝着不化的寒冰。好像听说这种箭头留下的伤口很难愈合，因为寒冷会减缓血液流通的速度。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

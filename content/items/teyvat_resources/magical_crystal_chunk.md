@@ -31,9 +31,3 @@ These crystal chunks can be refined into Weapon EXP materials by using Original 
 ## ZH
 
 可以通过「委托锻造」，利用原粹树脂，提炼成武器经验材料。 受地脉的能量侵蚀的水晶矿，寻常手段无法处理。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

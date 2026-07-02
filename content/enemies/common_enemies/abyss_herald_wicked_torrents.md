@@ -32,7 +32,3 @@ They shall bring preordained damnation upon the foolish masses.
 
 利用水元素战斗的魔物，隶属于「深渊教团」。
 这些沉默的身影是深渊的先行者，挥舞着席卷一切的浪潮之锋，斩碎一切铠甲的防御与不信的异端之心，向无虑的愚氓降下宿命的惩戒。
-
-## NOTES
-
-### Общие заметки Лороведьмы

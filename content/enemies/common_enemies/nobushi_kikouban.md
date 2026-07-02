@@ -35,7 +35,3 @@ Sometimes they even collude with the Treasure Hoarders or Fatui out of a greed f
 除了作为武者必修的剑术之外，还会熟练地使用手弩偷袭对手，只要能够取胜便会不择手段。
 抛弃了武家之名的人，也常常会抛弃武家的自矜。
 为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。
-
-## NOTES
-
-### Общие заметки Лороведьмы

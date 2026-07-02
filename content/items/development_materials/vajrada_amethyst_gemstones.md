@@ -98,9 +98,3 @@ Character Ascension material. "This body is the noblest and most eminent of all 
 ### material: vajrada_amethyst_gemstone
 
 角色突破素材。 「此身即是尘世最为殊胜尊贵之身。 「应持天下之大权。 「此身曾许诺予臣民一梦，既是千世万代不变不移的『永恒』。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

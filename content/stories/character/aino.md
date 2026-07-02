@@ -9,6 +9,7 @@
 # game_version: 6.0
 # icon: assets/icons/stories/character/aino.webp
 # tags:
+# character_filters: lunar_omen
 
 ## RU
 
@@ -315,21 +316,3 @@ Though Ineffa did not answer, what responded to Aino was the faint shimmer of he
 听到有人在喊她起床，揉揉发胀的脑袋后，爱诺才勉强睁开了眼睛，她看到自己身边的少女还静静闭着眼睛，刚才好像是一场幻梦。
 「应该很快就会实现了吧，对吧，伊涅芙…」
 回应她的是神之眼上闪过的微光——正是爱诺之前错当零件摸到的那一枚。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

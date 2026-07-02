@@ -64,14 +64,3 @@ On the night of his death there was a storm. Amidst the howling wind and rain th
 关于他的辞世，有传说道：他在世时，夜里宅邸随弦声迸出紫芒，烈若震曜，魔物妖邪均不敢近。
 他去世那夜有风雨。
 雷鸣仅一声，闪电却是向天上射去的，炙如天汉。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

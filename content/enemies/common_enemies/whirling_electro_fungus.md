@@ -34,7 +34,3 @@ If further developed, perhaps this study may give rise to a wide range of uses..
 拥有一定智能的孢子生物。
 具有强大的环境适应能力。
 有研究表明，这类蕈兽内部电流的方向会随时间发生周期性的变化，如果加以开放说不定会有更广泛的用途...
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -166,26 +166,3 @@ Month: Unknown. Day: Unknown. Weather: Can't tell from where I am now...
 …这是最后一块遗留在大地上的火磷石了，让我把它带到这里也是你的计划吗？不过这样也好，这样就不会再有人受你的欺骗了…
 
 …我不会让你得到它的，因为我们会在这里终结你的计划！
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

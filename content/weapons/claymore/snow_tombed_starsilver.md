@@ -70,14 +70,3 @@ Then, he descended the mountain to search for a land full of war and strife — 
 「既然如此，就以钢铁与血的歌，给你们消遣吧。」
 异乡人将少女交给他的，本应斩碎风雪的星银留在了壁画之间。
 然后下山寻找充满纷争与战斗的地方，能让他泼洒鲜血的地方。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

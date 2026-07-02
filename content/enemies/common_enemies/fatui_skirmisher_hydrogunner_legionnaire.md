@@ -34,7 +34,3 @@ These skirmishers do not question if they shall live or die as they advance into
 配备着能在一定程度上制御元素的装备，可以利用铳形的武器喷射激烈的水流。
 「先遣队」
 之名意味着生死不问，深入祖国以外的土地完成前期任务，为未来的某些行动夯实基础。
-
-## NOTES
-
-### Общие заметки Лороведьмы

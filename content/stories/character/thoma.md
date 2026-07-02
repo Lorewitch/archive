@@ -9,6 +9,7 @@
 # game_version: 2.2
 # icon: assets/icons/stories/character/thoma.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -399,21 +400,3 @@ As if to respond to Thoma's choice - on this night of divergent destinies, a Vis
 为忠义而燃烧的意志铸就出强烈愿望，引来了神明的注视。
 
 像是要回应托马的选择一般——在这个命运分歧的夜晚，他身边多出了一颗鲜红如烈焰的「神之眼」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

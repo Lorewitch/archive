@@ -72,14 +72,3 @@ Even if it meant that their spear-wielding shadow could never see any light but 
 传说中，也曾经有流着贵族血脉的青年，找寻匠人定制了这柄有着家族华美纹样，却与青年本人一样，如果不让鲜血泼洒，永远也不可能得到家族承认的尖锐兵器。
 若想要带来变革，就必须掌握一切力量。
 即使是被认定不符合贵族气度的兵器也一样，即使执枪的孤影只能在深夜月下舞动也一样。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

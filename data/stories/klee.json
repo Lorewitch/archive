@@ -36,6 +36,9 @@
     "pyro"
   ],
   "element": "pyro",
+  "character_filters": [
+    "witchcraft"
+  ],
   "parts": [
     {
       "number": 1,

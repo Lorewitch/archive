@@ -81,14 +81,3 @@ Legend even has it that the song yet echoes within seashells and the bellies of 
 能证明她在此世兴风作浪的，仅余这柄依旧锋锐的薙刀。
 只要海上仍有波浪扰动，那歌曲的记忆就会流转下去吧。
 传说在海螺与沉没深海的巨鲸腹中，仍能听见歌的回音。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

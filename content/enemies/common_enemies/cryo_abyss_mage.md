@@ -32,7 +32,3 @@ Once their protective barrier has been broken, they are at your mercy.
 驾驭着极寒的冰元素进行战斗的深渊魔物。
 尽管染指了强大的力量，甚至能将大气中的水蒸气凝结成冰锥，本身却佝偻而孱弱。
 一旦保护自身的护罩被打破，就只能任人鱼肉了。
-
-## NOTES
-
-### Общие заметки Лороведьмы

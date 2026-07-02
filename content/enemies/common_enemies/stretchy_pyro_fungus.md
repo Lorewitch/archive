@@ -32,7 +32,3 @@ This creature only looks explosive — it is, in fact, a most gentle soul, so lo
 拥有一定智能的孢子生物。
 具有强大的环境适应能力。
 虽然看上去很火爆，但其实性格相当温和，只要不要靠的太近应该不会有什么危险...？
-
-## NOTES
-
-### Общие заметки Лороведьмы

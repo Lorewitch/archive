@@ -44,14 +44,3 @@ Which might grant the unarmed and unschooled commoners a weapon with which to re
 
 ### 故事
 在过去的蒙德，长枪是被贵族禁止的兵器。表面上说，剑术才是高尚之人的武术修为，据说实际是因为长枪可以填补训练的差距，让缺乏兵器与练习的平民拥有抗争的武装。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

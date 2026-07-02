@@ -9,6 +9,7 @@
 # game_version: 3.1
 # icon: assets/icons/stories/character/nilou.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -356,21 +357,3 @@ Nilou thought then that she had perhaps found the purpose of dance at last —
 妮露想着，或许她已经找到舞蹈对自己的意义了——
 
 成为美，然后，传递艺术的美丽与价值。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

@@ -198,23 +198,3 @@ Never cease to pursue freedom, even when the land is bare!
 当时日昏暗无光，绝望再次袭上脸庞
 切莫忘记大英雄温妮莎的故事
 莫放弃自由的希望！
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

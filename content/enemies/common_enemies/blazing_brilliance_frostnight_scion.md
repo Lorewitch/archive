@@ -38,7 +38,3 @@ Perhaps this is why it finds the tainting of its pale purity with the seven colo
 即便是在寒冷的边地，周身依然萦绕着永不熄灭的流火。
 在终北遗存的祷歌中，它们是受霜月祝福而诞生的生命，象征着纯然的源质与肇始的辉光。
 或许正是因为如此，它们才会因无法忍受自身的纯白被染上天光的七色，而开始拒斥一切过于接近它们的生灵吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы

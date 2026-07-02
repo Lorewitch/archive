@@ -31,7 +31,3 @@ The world of Teyvat plays host to plants infused with the elements. Having gaine
 提瓦特的世界中，存在着元素凭附的植物。
 因此获得了智性的它们，对「养分」
 的需求也大大提升了…
-
-## NOTES
-
-### Общие заметки Лороведьмы

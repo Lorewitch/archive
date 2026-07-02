@@ -74,20 +74,3 @@ Today, the Gunnhildr Clan is a source of many brave knights and outstanding cler
 古恩希尔德的后代也是蒙德的显贵宗室之一。但与作恶多端的劳伦斯家族不同，古恩希尔德家族始终秉持着「永护蒙德」的祖训，尽自己的最大努力守护蒙德的人民。在推翻贵族的斗争中，他们站在了蒙德民众的一边，也正因如此，避免了被驱逐的命运。
 
 如今的古恩希尔德家族为西风骑士团提供了许多伟大的教士与勇猛的骑士，可以想见，该家族将永远坚守祖辈的理想与风神的嘱托，守护蒙德的土地和人民。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

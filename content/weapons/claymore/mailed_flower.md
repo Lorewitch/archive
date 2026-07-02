@@ -132,14 +132,3 @@ The day when the kingdom was dotted with those flowers would be the day when the
 那种花儿与寻常的花朵不同。风愈猛，根茎便越强壮，繁衍也越多。
 
 当花朵遍布王城，高塔倒塌的时刻就会到来。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

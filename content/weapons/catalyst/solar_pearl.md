@@ -68,14 +68,3 @@ But did this phenomenon mean that Kunwu had indeed received divine assistance in
 即使故事听来如此离奇，璃月人仍旧多深信匠人昆吾的技艺远胜天工。
 有胆大者前去询问年老的名匠，乖僻老人置之一哂：「打磨不辍而已」但学徒暗中透露：「匣里日月」磨削将成之时，天降异彩，血月盈空。
 此等异象是匠人真有神助，还是其超凡的灵感与意志震动了日月苍穹？
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -32,7 +32,3 @@ Even out in the wild where there are no Mist Flowers to be found, they can have 
 足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。
 冰之药剂师在盗宝团当中相当受欢迎，因为他们调配的冰之灵药有快速降温的作用。
 即使是在没有冰雾花的野外，也可以制作冰镇酒类饮料。
-
-## NOTES
-
-### Общие заметки Лороведьмы

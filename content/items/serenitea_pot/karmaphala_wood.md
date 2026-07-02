@@ -31,9 +31,3 @@ The wood of the Karmaphala Tree. One can easily get a nice, smooth surface while
 ## ZH
 
 「业果树」出产的木材，只需简单的处理就能得到光滑的切面，无需精细加工就极为美观。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

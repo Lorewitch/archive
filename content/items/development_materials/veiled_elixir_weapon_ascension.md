@@ -98,9 +98,3 @@ Weapon Ascension Material. An elixir of the highest quality. It embodies a state
 ### material: mist_veiled_primo_elixir
 
 赋予武器突破之力的材料。 这是金丹的最高品质，它模拟了混沌初开、清浊不分、天地一体的状态。 据说这个是天地创世的缩影。 当然，那位是知道的，世界的重现不是这样的。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

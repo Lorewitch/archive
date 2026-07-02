@@ -85,14 +85,3 @@ And in a deserted, water-eroded cave, it would bear witness to a clash between i
 往后，挥舞这柄长枪的人多半都罹受类似的命运，但不受百里之命而讨敌、不曾矢誓而捍卫黎民者，对这样的命运多半也不会有所怨咎吧…
 也有一说这柄长枪曾经被其他人相中借走。
 并在冷清的水蚀洞窟中见证过至交的反目。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

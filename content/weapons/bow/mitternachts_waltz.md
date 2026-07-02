@@ -106,15 +106,3 @@ That was merely a natural secretion from her royal eyes, affronted as they were 
 那只是无礼的沙进入了她的眼角，身体产生的排异反应罢了。
 
 ～本卷完～
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

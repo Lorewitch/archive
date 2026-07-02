@@ -31,9 +31,3 @@ A fungus that grows in the warm caress of the wind. It is as everlasting as the 
 ## ZH
 
 沐浴着和煦的风而生长的菌类，与风一样生生不息，滋养生命。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

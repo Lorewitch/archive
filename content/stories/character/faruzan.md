@@ -9,6 +9,7 @@
 # game_version: 3.3
 # icon: assets/icons/stories/character/faruzan.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -513,21 +514,3 @@ And in the distance, a Vision shone brightly at the side of an unconscious Faruz
 「不对…欸…等等！那里好像躺着个人！」
 
 远处，昏迷不醒的珐露珊身旁，一枚神之眼正闪烁着夺目的光。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

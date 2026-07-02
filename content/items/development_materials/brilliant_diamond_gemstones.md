@@ -98,9 +98,3 @@ Character Ascension material. "Welcome to this world."
 ### material: brilliant_diamond_gemstone
 
 角色突破素材。 「欢迎来到世界。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

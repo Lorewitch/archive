@@ -77,14 +77,3 @@ It was even said that the Wolf Pup Rostam ran this organization in secret, behin
 起事失败后，克留兹理德的处分方式不明，或许从侧面印证了他的显贵出生。
 传说他被贬黜后，怀着亡没同僚的遗志，建起了致力于推翻贵族的地下组织，并在来自遥远西方的异国角斗奴的起义中鼎力相助。
 在过去，更有茶余饭后的闲谈认为，克留兹理德的组织一直在工作，为了守护蒙德，为西风骑士团做那些骑士不应当做的事情，传说，就连「幼狼」鲁斯坦也背着大团长经营这无名组织…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

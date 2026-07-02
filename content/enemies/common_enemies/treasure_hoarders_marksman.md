@@ -38,7 +38,3 @@ Just point the wider end at the enemy, pull the trigger, and bam — that's all 
 毕竟他们使用的是弩，而不是弓这样需要长期训练的武器。
 要知道，就连丘丘人也会用弩。
 只要把比较宽的那头对准敌人，然后扣下扳机就行了。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -48,14 +48,3 @@ However, it is still reasonable value for money when compared with genuine top-q
 盒子里附带着没有人听说过的所谓权威机构签署的甲级证书！
 如果缺乏鉴别宝玉的眼光，很容易被华丽的包装与配件误导。
 然而比起真正的美玉，这种玉器的价格仍旧算得上平易近人。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

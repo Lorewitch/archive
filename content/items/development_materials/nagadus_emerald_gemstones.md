@@ -98,9 +98,3 @@ Character Ascension Material. "I had a very, very long dream..." "In it, people 
 ### material: nagadus_emerald_gemstone
 
 角色突破素材。 「我做了一个很长很长的梦…」 「人们手握着手转圈。贤者与愚者，舞女与勇士，人偶与神像…」 「大家的欢舞里蕴藏着宇宙的一切。『生命』一直都是目的，『智慧』才是手段。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

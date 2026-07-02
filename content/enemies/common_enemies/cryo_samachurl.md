@@ -28,8 +28,3 @@ Hilichurls especially gifted in commanding the elements who often reach the zeni
 
 嘟嘟囔囔的老年丘丘人，冰元素的呼求者。
 在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。这些萨满熟忆寒霜的低语，更精通将之用于制敌的技艺。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

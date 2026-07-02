@@ -84,14 +84,3 @@ When peaceful days finally returned, the Blackcliff Agate quietly disappeared wi
 血玉感应着地脉，如沸血一般的红光时明时暗，警示着将要发生的异动，由此，如星斗一般指引着人们躲避山崩地怒。
 这件法器被供在天衡山下。
 最终，在大地复归平静之日，黑岩绯玉也如地心的忿怒一般悄然消失了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

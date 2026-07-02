@@ -146,14 +146,3 @@ Then be adorned and modified into a theatrical prop for children's performances 
 少年英雄的故事就此结束，德吕阿蒂丝也不过是纷乱年代的一个传说尔尔。
 而曾经扰动奥里略斯命运的这把弓经历无数次易手为深居水下的某人拾获，
 又被添上装饰，改造为为故乡的孩子们表演的舞台道具，则是另一个故事。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

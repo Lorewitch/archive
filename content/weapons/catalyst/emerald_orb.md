@@ -45,14 +45,3 @@ It is a highly efficient defensive Catalyst as well as a good-looking accessory.
 翡玉雕琢而成的轻盈法器，经久耐用，价格低廉，颇受江湖人士欢迎。
 由于外形小巧精致，雕工精细，通常被璃月人称为「翡玉丸」。
 不仅可以作为高效的防身法器，佩戴在身上也是不错的首饰。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

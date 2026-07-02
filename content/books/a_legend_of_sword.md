@@ -368,35 +368,3 @@ Yes. Someone who no longer had a past, someone whose eyes could no longer behold
 「你的姓氏与名字，已经被今川那个奸人剥夺，但那样的过去，就抛弃了吧。从此以后，你便叫做『蝉丸』吧。」
 
 是的，一个不再拥有过去之人，一个不再能用双眼看到宇宙万象之人，广袤的宇宙就这样在他的面前展开了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-
-#### Том 6
-
-## INTERNAL
-
-# internal_source_ru: 
-# internal_source_en: 
-# internal_source_zh: 
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

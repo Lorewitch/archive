@@ -75,9 +75,3 @@ A new lifeform that arose from the dispersed Tainted Hydro Phantasm. It is trapp
 ### material: newborn_tainted_hydro_phantasm
 
 击散浊水幻灵后，即将再度升起的新生命体，被装在了禁锢的瓶中。水中所蕴含着的生命是无形的，而无形的生命也寄于水中，借由水之形诞生。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

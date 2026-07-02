@@ -103,14 +103,3 @@ Did the hunter finally cast his blade aside. He then turned toward the deepwood 
 直至再也没有失去了容身之所的孩子被迫栖身于冰冷的林间，
 直至年老的守护者将最后的言语也一并遗忘在无尽的白夜中，
 猎人抛下手中的长剑，转身走入密林，再无人看到他的身影。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

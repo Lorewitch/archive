@@ -92,14 +92,3 @@ Han Ce could have traveled the world with this trusty weapon in hand, but he cho
 枪尖锋寒，凛如冰，坚如岩。
 但他并不倚枪行遍天下；
 从此寒家锻炉的烟火直至今日，也不曾熄灭。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

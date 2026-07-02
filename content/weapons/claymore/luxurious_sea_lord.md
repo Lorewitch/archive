@@ -104,14 +104,3 @@ As the nights deepen, the pulsing of its gills translates as such:
 「挥舞老身的力士哟。
 「嚯嚯嚯…
 「等到所有水系流入大海，「所有星辰熄灭之日，「当一切都在原初生命大海里相会，「要不要和我比试一场呢？」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

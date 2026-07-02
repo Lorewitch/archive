@@ -98,9 +98,3 @@ Character Ascension material. "Sorry... to also have you shoulder the grievances
 ### material: shivada_jade_gemstone
 
 角色突破素材。 「…抱歉让你们一起和我背负了整个世界的哀思。 「你们既然能忍受我的苦寒，那心中一定都有炽烈的欲望吧？ 「那么，替我燃烧旧世界吧。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

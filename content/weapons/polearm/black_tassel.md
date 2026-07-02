@@ -50,14 +50,3 @@ He demanded that he dye the newly made polearm's tassel black.
 某夜，持白缨枪的士官与诗人相遇共饮，于觥筹交错之际，诗人不意打翻了砚台。
 就这样，豪侠枪上白缨被染成了墨黑色。
 「当然，这只是武人与诗人之间的轶事」「与我手头这支黑缨长枪无甚关联」老铁匠在学徒脑袋上拍了一掌，命他把一束新的白缨浸入墨漆。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -76,14 +76,3 @@ As for the overly lengthy name, it is said that Iwakura Douin specified to Ameno
 在这之后，凭借剑术他创立了岩藏流，成为了九条家的指南役，并向当时的天目定制了随胤之名流传的名刀「薄缘满光天目」。
 那把刀的事迹有着诸多传说，据说锋利得连人的缘分也能斩断。
 至于冗长的刀号，传说是岩藏道胤在定制时向天目特别指定的。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

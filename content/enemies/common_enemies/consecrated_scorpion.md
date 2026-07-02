@@ -33,7 +33,3 @@ Animals and humans often have far more in common than the latter is willing to a
 因为啃噬伟大的生命体，而扭曲异变的节肢动物。
 生物有其进化之法则，而圣骸兽的法则则是拥有足够的运气，能在同族之前发现在遥远过去就已亡殁的强大生灵遗骸。
 动物与人的共性往往比人所甘愿承认的更多。
-
-## NOTES
-
-### Общие заметки Лороведьмы

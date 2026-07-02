@@ -80,9 +80,3 @@ The sword of the Nation of Water is justice. The law of Fontaine walks with the 
 ### material: philosophies_of_justice
 
 水之国土的利剑是正义。 枫丹的律法秉正义之剑而行。 正义意味着裁决与调和，以裁决的剑锋遏止恶行，以调和的手段维护秩序。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

@@ -80,9 +80,3 @@ Talent Level-Up material. Transience is the dream of the nation of thunder. The 
 ### material: philosophies_of_transience
 
 天赋培养素材。 雷之国土的梦想是浮世。 浮世之短暂乃是人之美的本性所在。 人之在世岂不与稻光相近？ 神威显现的刹那恍若隽永，而永恒的威鸣又有谁人能够承受？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

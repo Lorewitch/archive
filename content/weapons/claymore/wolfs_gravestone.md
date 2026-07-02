@@ -79,14 +79,3 @@ Watching over the land the Knight once protected.
 北风的骑士最终以剑为冢，将狼埋葬在远离城市的郊野。
 北风的骑士从此抛弃城塞，心怀狼的自由，再随风流浪。
 而狼不灭的灵，则永久地盘踞在此，眷守着骑士曾经守护过的青翠土地。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

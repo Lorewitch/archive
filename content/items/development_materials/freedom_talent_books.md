@@ -80,9 +80,3 @@ Talent Level-Up material. Freedom is the spirit of the land of the wind. To sing
 ### material: philosophies_of_freedom
 
 天赋培养素材。 风之国土的精神是自由。 自由其三，是歌唱的自由，即是能在风之神塑造的美好土地上歌唱，让自己的心与歌一同随风而去的自由。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

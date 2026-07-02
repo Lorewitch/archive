@@ -32,7 +32,3 @@ They usually wind up in criminal circles due to poverty or lack of education, bu
 足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。
 在团队协作中，职责通常是踩点与盯梢。
 落草为寇通常因为贫困与缺乏教育，但从他们的装备来看，即使选择了盗贼之路，也没有因此变得富裕…
-
-## NOTES
-
-### Общие заметки Лороведьмы

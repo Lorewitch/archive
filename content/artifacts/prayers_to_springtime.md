@@ -67,21 +67,3 @@ In those days, life was weak, and the earth was blanketed in unending ice.
 据说：曾经有一个时代，大地上的人们还能直接听到来自天空岛的启示。
 神的使者行走在蒙昧的人当中。
 彼时万物的气息渐弱，大地永冻。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Заметки пока не заполнены.
-
-### Заметки по частям
-
-#### Корона разума
-
-Заметки пока не заполнены.
-
-## INTERNAL
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# internal_hoyowiki_entry_id: 2086

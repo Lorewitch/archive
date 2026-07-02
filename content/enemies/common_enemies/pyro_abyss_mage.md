@@ -32,7 +32,3 @@ They say that Abyss Mages utter a long-forgotten language from which they draw m
 拥有魔力，利用火元素战斗的深渊魔物。
 出于某种不为人知的缘由，深渊法师精通丘丘人的笨拙语言，能驾驭它们的心智。
 据说深渊法师略通如今几乎无人可解的失落古语，并利用这种语言的力量行使魔法。
-
-## NOTES
-
-### Общие заметки Лороведьмы

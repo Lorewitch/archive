@@ -98,9 +98,3 @@ Weapon Ascension Material. The people did not bow to Decarabian out of respect o
 ### material: scattered_piece_of_decarabians_dream
 
 赋予武器突破之力的材料。 众人对高塔上的孤王俯身并非出于敬仰爱戴，而是被它的烈风吹得无法起身。 这是巴巴托斯崛起之前，风神之一柱的野心与碎梦。 它是如此用力地做梦，因此梦的碎片也带着强大的力量。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

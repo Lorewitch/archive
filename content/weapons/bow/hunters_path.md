@@ -133,14 +133,3 @@ Looking into the clear water under the moonlight, the hunter found that she, too
 「真奇怪。有那么一瞬间，我还以为是迷失森林的少女呢…」
 
 「继续西行吧。为了正义…为了清算将人歪曲为野兽的罪。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -105,14 +105,3 @@ Riding on the boundless winds, Dvalin takes to the skies once more.
 长达百年的沉睡中，蒙德的众生忘却了特瓦林的气势。
 但由于近日的风波，风龙六翼的身姿重现在人们眼前。
 携着巴巴托斯的歌声，携着风神的祝福，携着不羁的千风，他终于再度翱翔深空。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

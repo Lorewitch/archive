@@ -31,8 +31,3 @@ Since the pitch-black calamity from five hundred years ago, they have begun to s
 提瓦特荒野中游荡的原始住民。
 与人类轮廓相似，却失去了智能与灵性。据记载，在大地上出没超过千年，却没有历史与文明。
 自五百年前漆黑的灾祸以来，便广泛地分布在大地各处。虽然力量弱小，缺乏组织，但有时也能给人们带来不小的麻烦。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

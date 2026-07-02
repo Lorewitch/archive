@@ -31,9 +31,3 @@ Wood from the Alder Tree. It demonstrates considerable resistance to moisture an
 ## ZH
 
 「桤树」出产的木材，对于水汽和寒气有着可观的耐受性，亦是不错的家具和乐器原材…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

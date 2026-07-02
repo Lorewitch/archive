@@ -125,14 +125,3 @@ All the puzzles of the past are left merely waiting for those who accidentally p
 沉默的玉珑未曾自己讲述先民那流离漂泊的古老历史，
 
 过去的一切谜团，仅仅留待无心拾取者去猜测和想象。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

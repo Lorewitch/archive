@@ -34,7 +34,3 @@ They seem to have used paper seals, created from a lost Kamuna art, to set their
 落草为寇的流浪武人。
 自幼时便专注于武道从未懈怠，却因为种种原因失去了奉公的机会，背离了正道，走上恶逆之路。
 刀刃不似一般的钢铁那般冰冷，而是充满了忿恨的炽热怒火——似乎是利用了本应失传的惟神技术制造的符纸，为刀刃附上火焰。
-
-## NOTES
-
-### Общие заметки Лороведьмы

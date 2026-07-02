@@ -31,7 +31,3 @@ As such, their petal-like wings are most likely to be a mimetic organ first and 
 高浓度的风元素孕育而生的魔物，能够飘浮在空中。
 从理论上来说，风元素凝固而成的魔物本身就具有一定的飘浮能力。
 由此看来，它们花瓣一样的翅叶首先应该是一种拟态器官。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -83,14 +83,3 @@ She once frolicked with that reckless young man, whose only strength was his str
 「待我带回传说中那大妖天狗的面具，阿姐可一定要如约完成未竟之事。」
 「好呀。
 若你到时还是满口妄言，我便命巨鲸扬起大浪，洗洗你的嘴巴。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

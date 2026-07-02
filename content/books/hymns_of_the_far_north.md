@@ -578,26 +578,3 @@ Cleanse us of our sins, I pray, and wipe away the endless pains and tears of tho
 【祷歌其二十二：月之少女·库塔尔】
 澄净无瑕的新月呀，我以霜月的神使之名，祈求你的恩泽与慈惠，
 愿你涤净我等的罪，为无缘得见乐园之人，拭去千种苦痛与泪水。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -80,9 +80,3 @@ Talent Level-Up material. Offering up kindling is the established rule of the Na
 ### material: philosophies_of_kindling
 
 天赋培养素材。 火之国土的成规是焚燔。 所谓的焚燔，是在得到之前，先献出代价，但往往并非一定会有回应与回报。 不求回报地付出代价，才是焚燔的真意，因为取得成果的日子终究会到来。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

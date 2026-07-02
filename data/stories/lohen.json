@@ -36,6 +36,9 @@
     "cryo"
   ],
   "element": "cryo",
+  "character_filters": [
+    "witchcraft"
+  ],
   "parts": [
     {
       "number": 1,

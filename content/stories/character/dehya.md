@@ -9,6 +9,7 @@
 # game_version: 3.5
 # icon: assets/icons/stories/character/dehya.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -454,21 +455,3 @@ She is a mercenary. Someone who lives and dies by the blade. Such a person trust
 迪希雅喜欢她的神之眼，但也不会只因这一注视就化身为神明的狂信徒。
 
 她是佣兵，靠挥舞武器生存。这样的人最信任自己与过去无数战斗中洒下的汗水。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

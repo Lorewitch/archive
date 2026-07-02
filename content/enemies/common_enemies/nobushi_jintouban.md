@@ -32,7 +32,3 @@ Sometimes, they even collude with the Treasure Hoarders or Fatui out of a greed 
 落草为寇的流浪武人，虽然常被称为「野伏」，但并不隶属于某个统一的团体。
 作为常年行走在武道上的人，有着精湛的剑术，如今却不将其用于正道。
 为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。
-
-## NOTES
-
-### Общие заметки Лороведьмы

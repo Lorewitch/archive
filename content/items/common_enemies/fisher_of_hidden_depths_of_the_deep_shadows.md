@@ -75,9 +75,3 @@ The remains of a fisher from beyond this world, left after its body dissolved. A
 ### material: hooked_beak_of_the_deep_shadow
 
 自异界侵入的钓客，在形体消散后留下的残屑。 形如禽类的钩喙，乃是天外的捕食者们用于储存所攫获生物质的容器。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

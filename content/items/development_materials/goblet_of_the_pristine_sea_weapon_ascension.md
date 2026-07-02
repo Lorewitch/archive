@@ -98,9 +98,3 @@ When the Usurper of the sunken city played the last movement of the golden symph
 ### material: golden_goblet_of_the_pristine_sea
 
 沉没之城的僭主弹奏黄金乐章的最后一曲时，深受宠渥的乐师窃走了满盛灵露的金杯。 为神王的背叛愚行所震惊，乐师召集了最后的禁卫，用不溶的灵露将魔龙封印于高塔之下，同王城一起沉沦海渊。 后来，这高贵窃贼的身影从历史上默默消湮，只有「金色剧团」仍忠诚地记得他的预言。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

@@ -41,7 +41,3 @@ The Children of Echoes believe that their Wayob has the power to shape mountains
 「回声之子」
 的人相信他们的「大灵」
 拥有塑造山峰与低谷的力量，能够执掌山石摩擦的回响。
-
-## NOTES
-
-### Общие заметки Лороведьмы

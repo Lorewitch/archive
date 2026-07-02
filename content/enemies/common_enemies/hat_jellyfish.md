@@ -34,7 +34,3 @@ In the words of someone who once did this:"That wasn't very clever, was it?"
 的底部，所以将其戴在头上实在是很不明智的行为。
 过去曾经有人证实过这一点：「事后回想起来，那确实是很不明智的行为。
 」
-
-## NOTES
-
-### Общие заметки Лороведьмы

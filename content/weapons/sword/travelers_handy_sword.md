@@ -49,14 +49,3 @@ Hence the name, Traveler's Handy Sword. It contains all sorts of handy items for
 取而代之的是在掏空的剑柄里塞了微型水果刀、剪子、火绒等小件。
 之所以叫旅行剑，就是因为里面有各种旅行道具……
 ？
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

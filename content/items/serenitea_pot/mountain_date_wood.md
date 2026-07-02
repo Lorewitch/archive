@@ -31,9 +31,3 @@ Wood of the Mountain Date Tree. Although it neither feels special to touch nor p
 ## ZH
 
 「刺葵树」出产的木材，虽然没有优秀的质感和纹理，但锁水能力极强，便于维护。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -32,7 +32,3 @@ With the passage of years, sufficient nutrition, and the right environment, it c
 神出鬼没的拟态植物魔物，会利用冰元素战斗。
 有时会隐藏在地表下，捕猎浑然不觉的猎物。
 如果有足够的年月、养分与环境，或许能扎根某处，长成巨大的急冻树…
-
-## NOTES
-
-### Общие заметки Лороведьмы

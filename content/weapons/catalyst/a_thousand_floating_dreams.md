@@ -139,14 +139,3 @@ Where the dew-covered rose still swayed softly in the moonlit breeze, waiting fo
 沾露的蔷薇依然在沐月的风中轻曳，待她将新的故事述说：
 
 「纵然昨夜的回忆永不再，我们仍要为今夜的美梦欢歌。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

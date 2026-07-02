@@ -80,9 +80,3 @@ Talent Level-Up material. Praxes are the roots of the nation of wisdom. Praxes b
 ### material: philosophies_of_praxis
 
 天赋培养素材。 「笃行」是智慧之国的根系。 笃行促生智慧的果实。 行为实证行为本身的意义，行、言、思的联结一体，是令贤智之人得见完美的唯一通途。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

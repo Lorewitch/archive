@@ -83,14 +83,3 @@ She could only hope that that old cat wouldn't come charging into the storm...
 过去在影向山偷学的真正的「法术」，虽说对不起天狗老师，就用在这里吧。
 解开维系千年的大结界，让紫电之鸢垂死的怨恨，肆虐雷神旗号的舰船吧。
 只希望那匹老猫，不要闯进雷霆里来…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

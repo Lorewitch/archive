@@ -28,8 +28,3 @@ Hilichurls especially gifted in commanding the elements who often reach the zeni
 
 嘟嘟囔囔的老年丘丘人，草元素的唤醒者。
 在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。承载着面具下的不甘，憎恨人心的毒藤随呢喃蔓生而出。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

@@ -28,8 +28,3 @@ Hilichurls especially gifted in commanding the elements who often reach the zeni
 
 嘟嘟囔囔的老年丘丘人，岩元素的倾听者。
 在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。同千古的顽岩相比，即使最年老的丘丘人也不过孩童，但记忆与经验引导它们获得了操使岩石的权能。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

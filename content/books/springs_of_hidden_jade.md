@@ -182,23 +182,3 @@ Many years later, the young man, now old and grey, recalled this moment by chanc
 再一次，就像曾经在竹林中面对另一个陌生的孩子那样，她只是笑笑，没有再说话。
 于是，青年叹口气，向女人颔首作别。
 多年后，已然老去的青年偶然回忆起此刻，纵使那时已精熟流水般的剑术，开宗立派成为一方师长，却依然无法理解她所讲述的最后故事。而她依然在命运的丝线之上奔走，将踪迹隐匿于林野与清泉之下，远离神明的目光，守护着那些即使自己也渐渐遗忘的古老故事。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

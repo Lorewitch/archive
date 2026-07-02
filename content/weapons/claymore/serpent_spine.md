@@ -93,14 +93,3 @@ But when one sails far abroad, sometimes one can still hear the spine-chilling s
 「待到海流风向正确时，我便出海为她寻仇，沉迷涛声的人儿啊」「葬身鱼腹又如何，这样便能将她中意的船歌传到她所在的深海」如今的海上，再也没有会在暴雨中，伴随着惊涛骇浪升起的巨兽。
 以海兽的遗骨装饰船首、龙骨的风俗，也随着海兽绝迹被遗忘了。
 但远航时，偶尔还能听见深海中如同雷声，令人脊背发麻的低鸣…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

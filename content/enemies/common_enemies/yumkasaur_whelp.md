@@ -34,7 +34,3 @@ However, one day, they will grow into the form that can swing freely between the
 年幼的匿叶龙，可以吐出藏在颊袋中的火榴果胶卷住远处的物体。
 卷住物体的力量并不强，自身的平衡感也远未达到可在空中自如穿梭的程度，有时即使是坐在尾巴上也会不由自主地向着一侧倾倒。
 不过终有一日，能够成长为在林间悠然摆荡的样貌吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы

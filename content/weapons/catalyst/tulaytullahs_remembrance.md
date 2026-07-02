@@ -185,14 +185,3 @@ And the sapphire city would fade, dissipating like tears beneath the scorching s
 最终，一切良人与恶徒，都平等地被命运的磨盘碾碎，
 
 蓝宝石之城邦失色分崩离析，恰似泪滴在烈日下干涸。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -35,7 +35,3 @@ They possess the capacity to communicate with the Night Kingdom or Wayob, though
 尚未生长出覆羽，甚至看上去并不聪慧。
 据说暝视龙在现有的龙众中拥有最漫长的寿命，也拥有更长的幼年期。
 它们拥有与夜神之国或是大灵沟通的能力，只不过年幼的暝视龙要能够理解其中的一切或许还需经历许多岁月。
-
-## NOTES
-
-### Общие заметки Лороведьмы

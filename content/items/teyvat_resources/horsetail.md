@@ -31,9 +31,3 @@ A purple plant that sometimes grows amidst Silvergrass but grows taller, straigh
 ## ZH
 
 偶然随荻草生长的紫色植物。 比周围的荻草更为挺拔、饱满，如同崇高的人。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

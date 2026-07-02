@@ -31,7 +31,3 @@ All shall decay in the end, and this is all that is left of the Black Serpent Kn
 曾经是地下古国的骄傲军人，如今不过是一具残留着战斗记忆的空壳罢了。
 万物尽头皆是废退，而这种空壳就是「黑蛇骑士」
 在罪、诅咒、时间的冲刷之下变成的模样。
-
-## NOTES
-
-### Общие заметки Лороведьмы

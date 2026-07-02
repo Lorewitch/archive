@@ -36,7 +36,3 @@ Rather than the pay, these warriors fight more to attain greater martial might.
 为了报酬，愿意为任何人效力。
 装备了独特拳刃的武道家，为了寻找更多更强的对手而加入了镀金旅团。
 战斗与其说是为了报酬，不如说是为了追求更高的武技。
-
-## NOTES
-
-### Общие заметки Лороведьмы

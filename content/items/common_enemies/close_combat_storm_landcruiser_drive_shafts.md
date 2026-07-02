@@ -75,9 +75,3 @@ The drive shaft of a Landcruiser refined by the Design Bureau. On the blueprints
 ### material: precision_drive_shaft
 
 由设计局精制的巡陆艇机轴。 在北国的工程师规划的图纸上，这不起眼的小东西曾经是象征着荣耀与技术进步的完美杰作，无数世代智慧的成果凝结在这小小的金属元件之中。于是它就这样散落在冰冷的泥土中，等待下一次的回收。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

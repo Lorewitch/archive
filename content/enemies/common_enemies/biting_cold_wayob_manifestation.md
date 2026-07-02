@@ -42,7 +42,3 @@ The Masters of the Night-Wind believe their Wayob has the power to control the p
 「烟谜主」
 的人相信他们的「大灵」
 拥有控制冰晶与冻结的力量，能够执掌固型和流变的话语。
-
-## NOTES
-
-### Общие заметки Лороведьмы

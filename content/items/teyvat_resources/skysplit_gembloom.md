@@ -31,9 +31,3 @@ A strange plant whose flower's exterior resembles stone. Only in bloom does it r
 ## ZH
 
 花叶的外侧犹如石质的奇特植物，在绽放后，会露出晶石一般的芯。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

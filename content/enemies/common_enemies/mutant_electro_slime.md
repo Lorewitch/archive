@@ -40,7 +40,3 @@ One wonders if some great new science could emerge from the study of such phenom
 但紫色的雷史莱姆之间并不会通电。
 由此看来，雷史莱姆似乎具有两极。
 以此为基点，或许能成为某种伟大学科的开端…
-
-## NOTES
-
-### Общие заметки Лороведьмы

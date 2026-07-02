@@ -35,7 +35,3 @@ Seeing them as they wander the land in their seemingly aimless way, one can't he
 没有神之眼的人类，理应是无法像她们这样自如地操控元素的；
 但她们却在利用雾虚草操控冰萤之余，肆无忌惮地挥霍着寒冰的力量。
 看似漫无目的地四处游荡的她们，又领受着何种不为人知的使命呢…
-
-## NOTES
-
-### Общие заметки Лороведьмы

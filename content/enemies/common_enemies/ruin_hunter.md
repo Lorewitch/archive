@@ -38,7 +38,3 @@ Considering these mere relics possess such extraordinary power, one cannot help 
 似乎是为了提高战斗性能，设计上放弃了低效的拟人形态。
 无论是白刃战还是远程炮火的威力都相当恐怖。
 仅仅是废弃的古代兵器就有如此能力，曾经能生产这种兵器的文明又是如何呢…
-
-## NOTES
-
-### Общие заметки Лороведьмы

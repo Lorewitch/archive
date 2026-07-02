@@ -171,14 +171,3 @@ Without a sound, like bitter tears falling into the infinite and endless ocean.
 但这些便是后话了，怀有过大野心之人总会消失在沙漠中，
 
 无声无息，正如几滴苦涩的泪水融入无边无垠的大洋那般。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

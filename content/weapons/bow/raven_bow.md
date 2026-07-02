@@ -43,14 +43,3 @@ Or so claimed the weapon vendors.
 
 ### 故事
 相传渡鸦是报死的使者。若将鸦羽装饰在弓臂上，振弦之声想必会为猎物宣告死期。至少，那些武器商人是这么说的。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

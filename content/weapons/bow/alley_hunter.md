@@ -76,14 +76,3 @@ In the end, the noble thief listened to the advice of his brothers. Abandoning h
 在最后，寻找死亡的魔女花朵般的面容上被刻下了罪人的墨印，而后又不知所踪…
 在最后，贵族义贼听从了胞弟的劝诫，抛弃了誓言，遁入不属于任何人的大海——「不知道她是否记得我的歌？
 记得在巷道中循着酒的气味与献给她的歌声追踪我的岁月」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

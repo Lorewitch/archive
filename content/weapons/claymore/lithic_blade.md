@@ -82,14 +82,3 @@ But this also meant that the world would be at peace, and neither guardians nor 
 这把巨剑无比沉重而牢固，就像守护者的责任与意志。
 最早削岩为剑，武装兵团的星氏与寒氏或许也预见了，在未来，拥有伟力运用这种岩剑战斗的人会越来越少。
 但这也代表世间和平，守护者与剑终于不再被需要了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

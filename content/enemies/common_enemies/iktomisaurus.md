@@ -34,7 +34,3 @@ Some also say that the first Iktomisaur to emerge from the Night Kingdom was not
 状态技巧的龙。
 传说中，暝视龙的祖先不具备真正的实体，而能如游魂一般在魂灵和现实的世界穿梭，可以借由夜色显化自己的形体。
 也有传言，世上第一只暝视龙并非真正的龙，而是自夜神的国度走出的有别于正常龙众的种族。
-
-## NOTES
-
-### Общие заметки Лороведьмы

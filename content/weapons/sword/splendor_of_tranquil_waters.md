@@ -356,20 +356,3 @@ Neither blood nor tears were in his thoughts. Only the sound of a distant flute,
 从未寻得所谓的救赎。而在许多年后，被尊称为黄金猎人的乐师再度回忆起这个名字的时候，
 
 浮现在他思绪之中的，没有血，也没有泪，唯有那遥远的芦笛声中，那水色月下缠绵的旋舞。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

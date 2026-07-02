@@ -43,14 +43,3 @@ But this is naught but an old folk legend.
 
 ### 故事
 传说过去在蒙德，曾经有利用弓弦奏乐，或者说利用乐器的琴弦放箭的流浪乐手。但那只不过是遥远古代的民间传说罢了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

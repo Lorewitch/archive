@@ -76,14 +76,3 @@ Should its beauty captivate the people, then Liyue will be sure to see no shorta
 飞矢破空时，弦光薄而凛冽，如残月流华般过目难忘。
 长弓获赐名「澹月」。
 如美人之姿令人神往而令人效仿，日后璃月所有长弓中无不可见试作澹月的影子。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

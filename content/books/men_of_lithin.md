@@ -342,26 +342,3 @@ In that case, what will your answer be?
 而在那些记忆的起点，你看到一个巨大的身影投映在被逐出古城的人们身上。那身影似乎说了些什么，但你已经想不起来了，你只知道你很想他。
 或许每一代「无知之人」最后都会回到这里，给出他的答案。
 那么，你的答案又会是什么呢？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

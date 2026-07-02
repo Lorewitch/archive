@@ -28,8 +28,3 @@ This huge hilichurl is referred to as "Lawa" by its brethren. Its giant body is 
 
 雷暴中漫行的神秘「王者」。
 被同胞称为「Lawa」的庞大丘丘人。巨像般的身躯充满了丰富的雷元素，散逸出的元素能量以电气水晶的形式从身体的缝隙中生长出来。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

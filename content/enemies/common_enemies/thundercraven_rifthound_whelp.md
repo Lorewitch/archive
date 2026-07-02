@@ -31,7 +31,3 @@ large swarms of these hounds would go before them to deliquesce the borders of t
 「黄金」
 将其命名为「淋溶」。
 曾经的年代里，巨大的魔兽降临之时，会有大量猎犬提前显现，溶解世界的边界，打开通道。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -9,6 +9,7 @@
 # game_version: 1.2
 # icon: assets/icons/stories/character/ganyu.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -241,21 +242,3 @@ Qilin are paragons of benevolence among the adepti, drinking only freshwater and
 这一刻，甘雨内心充满了平和的安定感。
 哪怕变得更为强大，也无需驱动「神之眼」之力，而是将「神之眼」作为保护璃月的终极手段。
 作为仙兽与人类的混血，她选择成为两个种族的桥梁。「神之眼」，便是她的新责任与新见证。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

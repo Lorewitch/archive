@@ -80,9 +80,3 @@ Talent Level-Up material. Gold is the symbol of the land of Geo. Gold is the wea
 ### material: philosophies_of_gold
 
 天赋培养素材。 岩之国土的象征是黄金。 黄金是璃月的财富。 但璃月真正的财富，是璃月的人们那如黄金般闪耀的心灵。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

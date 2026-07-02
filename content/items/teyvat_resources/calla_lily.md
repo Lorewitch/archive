@@ -31,9 +31,3 @@ A flower that grows near water sources. When cooked, the petals have a chunky te
 ## ZH
 
 生长在水边的花。 花瓣经过烹制口感爽脆，清甜微苦。 现代药理学承认嘟嘟莲具有解毒功效，但它涩涩的味道让许多人敬而远之。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

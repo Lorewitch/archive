@@ -36,7 +36,3 @@ For the Saurian-Crowned warriors of the Scions of the Canopy, refining one's ski
 经过精巧机关的组装后，其手中的手砲可以利用钩绳触动发射。
 对于「悬木人」
 部族的龙冠武士们来说，更重要的不是对精神和意志的锤炼，而是对技艺与思绪的精研。
-
-## NOTES
-
-### Общие заметки Лороведьмы

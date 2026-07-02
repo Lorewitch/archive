@@ -116,14 +116,3 @@ Even the massive body of the Volcano Lord is but a grain of sand compared to the
 就算是身材庞大的火山大王，与浩瀚的大海比起来，也不过像是一粒小小的砂子，更何况大海里还有更多比它还要可怕得多的东西呢。
 总之，火山大王在海里狼狈地扑腾了半天，最后好不容易才抓住一根芦苇，漂了好久好久才漂回岸边。
 虽然柯夏尼娜大人还是没能彻底把它赶出纳塔，但从那以后，火山大王就再也不敢打「流泉之众」的主意了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

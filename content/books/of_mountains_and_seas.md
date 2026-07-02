@@ -235,23 +235,3 @@ Just like the baby eagles from the fairy tale, who learned to fly at the summit 
 假如能够像隼鸟一样飞入高空的话…
 就像儿时的故事中，在山巅学习飞翔的幼鹰一样…
 ……
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

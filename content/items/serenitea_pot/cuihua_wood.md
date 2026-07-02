@@ -31,9 +31,3 @@ Timber obtained from Cuihua Trees. With its lovely color and unique make, it wil
 ## ZH
 
 产自「萃华树」的木材，色泽秀美，木质独特，经过适当的加工，能胜任各种用途。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

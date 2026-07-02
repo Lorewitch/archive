@@ -36,6 +36,7 @@
     "pyro"
   ],
   "element": "pyro",
+  "character_filters": [],
   "parts": [
     {
       "number": 1,

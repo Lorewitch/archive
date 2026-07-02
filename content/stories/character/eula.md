@@ -9,6 +9,7 @@
 # game_version: 1.5
 # icon: assets/icons/stories/character/eula.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -358,21 +359,3 @@ Eula finally found herself on a gentle path of revenge that was hers alone... an
 「我」的生存方法、「我」的自我保护、「我」的不懈执着…
 哪怕称之为仇恨、称之为报复，也不会改变它善良而顽强的本质。
 只属于优菈的、温柔的仇恨之路。在她找到它的瞬间，神之眼悄然浮现。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

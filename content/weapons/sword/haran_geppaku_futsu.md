@@ -193,20 +193,3 @@ The one made by mute Masayoshi was formidable as the driving hurricane, and was 
 《名物帐》中记叙了月白经津不同的形姿。
 由经津实锻造的名作，如同夜晚海面清净柔美，故得「波穗」之名，
 无言的政芳重锻的那把，则有疾风暴雨般的威势，被称为「波乱」。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

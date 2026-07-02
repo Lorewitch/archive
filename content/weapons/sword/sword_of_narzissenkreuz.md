@@ -70,14 +70,3 @@ Leaving behind naught but stories beyond count and a slightly brighter future.
 但在最后，
 为了少女，他放弃了广袤的大地、深邃的天，
 协会的同伴，以及冰冷钢铁锻铸的可靠老友。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

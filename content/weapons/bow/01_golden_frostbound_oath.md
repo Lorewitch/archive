@@ -156,20 +156,3 @@ And held to the hope that the one who had set the Jack Frost here might also, on
 将再无神性的金枝赠予离客，祝福脆弱而渺小的凡人寻得新生的黎明，
 
 也期盼着有朝一日，将霜精安置在此地的创造主，能够同样踏上归途…
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -66,14 +66,3 @@ Gradually, they strayed onto the path of depravity, and lost the affection of Mo
 在漫长的历史中，即使祭礼不再，他们一直扮演着这样的角色。
 这个角色最终遭到了曲解。
 他们渐渐地视自己为征服者、王者，渐渐走上了歪曲的道路，并最终失去了蒙德之风的宠爱。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

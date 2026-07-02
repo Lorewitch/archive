@@ -80,9 +80,3 @@ The shore of the Nation of Water is equity. Equity is the foundation upon which 
 ### material: philosophies_of_equity
 
 水之国土的堤岸是公平。 公平是枫丹立国的基础。 公平总是需要稳固的道德与律法加以支撑，道德与律法亦基于不变的公平准则而流变不息。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

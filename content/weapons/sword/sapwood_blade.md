@@ -88,14 +88,3 @@ The traces of our past friendship are said to slumber quietly, like an Aranara t
 即使如此，在沙漠的深处，如同森林王留下足印，你我留下故事，
 
 过去友情的痕迹，听说如同化为子种的兰那罗，仍在静静沉睡着。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -75,9 +75,3 @@ A large crystal obtained from a defeated Fontemer Aberrant. It contains a myster
 ### material: xenochromatic_crystal
 
 击败原海异种后，从其体内取得的大颗结晶。其中蕴含着神秘的能量。尽管是万水之源，但枫丹之水流向异国之后却失去了其独特的性质。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

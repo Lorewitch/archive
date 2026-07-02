@@ -89,14 +89,3 @@ And may they carry my innocent, bitter fruit as they enact justice.
 因某人以无暇的绯红精髓浇灌，原本早应当死去的白树，回想起了过去，汇集了一切力量，结出了果实…
 将我曾荫蔽的人们，将曾讴歌我的祭司，将常常在我身畔绘画的那位美丽的少女，不曾拥有的幸福，结成绯红的冰冷果实。
 让能向恶毒的世界降下公正「报偿」者，能带着无人之过的「苦果」，施展正义。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -72,14 +72,3 @@ The spirit of resistance is in Mondstadters' blood.
 蒙德本就应是那样的」温妮莎不过是推倒腐朽大厦的最后一双手。
 在她之前，氤氲的怒火已经开始显露力量。
 无论是受人暗地里称颂的暗巷义贼，或是能看见死亡的少女，还是意图行刺的剑乐团，蒙德人的血脉中传承着反抗的灵魂。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

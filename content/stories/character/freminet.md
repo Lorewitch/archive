@@ -9,6 +9,7 @@
 # game_version: 4.0
 # icon: assets/icons/stories/character/freminet.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -529,21 +530,3 @@ He never told a soul what really happened that day. After all, true heroes aren'
 这时他才发现，一颗如寒晶般明澈的「神之眼」挂在了他的潜水服上。
 
 这件事后来他从没有对其他人讲起，正如英雄不是为了被铭记而成为英雄。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

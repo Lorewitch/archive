@@ -109,14 +109,3 @@ This final shred of resolve it refuses to abandon, no matter what.
 「我将『回火』之名归还于夜域，换取最后的火种」
 「柴火的往昔，烈焰的今时，皆为永不回头的生命」
 「所行的一切，火必将审问，我们终将在火中重逢」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

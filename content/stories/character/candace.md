@@ -9,6 +9,7 @@
 # game_version: 3.1
 # icon: assets/icons/stories/character/candace.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -419,21 +420,3 @@ A "Vision" is also a resolute heart — and no finer ornament than it may be fou
 神明的目光察觉到了她，为她送去认可。
 
 「神之眼」，即为坚定的心。它会是最好的首饰。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

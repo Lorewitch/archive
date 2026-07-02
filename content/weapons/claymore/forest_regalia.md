@@ -128,14 +128,3 @@ But even if you, like me, have never met a king, you would still get the impress
 后来水流改变了，明月被冲散了。许多的事物变化了，也有许多的事物从此不再改变。
 
 但你们与我一样，就算不曾见过王，也残留着「老虎」是高贵强大的森林王者的印象。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

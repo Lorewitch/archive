@@ -146,20 +146,3 @@ But why waste Mora here on rocks, and have none left to spare? I'd rather spend 
 其十
 夜泊名石次第排，绯云坡上价高抬。
 青石一篓何为贵？不如坐饮玉京台。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

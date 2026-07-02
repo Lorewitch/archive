@@ -100,14 +100,3 @@ A rather special oil-paper umbrella. While long wanderings may make one used to 
 「我是从一位稻妻的友人那里听到这个故事的。只不过，我在鸣神各地的神社探访了很久，也没人听说过供奉伞的事情。当我将这件事告诉那位友人时，她不禁笑了起来：
 
 「『不会吧，洛柯蒂小姐 ，您莫非把怪谈当真啦？』」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

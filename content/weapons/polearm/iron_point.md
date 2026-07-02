@@ -43,14 +43,3 @@ Even the most mundane of weapons might be ten times as powerful as it seems.
 
 ### 故事
 散发着些许威严感的简陋兵器。对于有着应当守护的事物的人，或是除却己身一无所有的旅者，再简陋的武器都能发挥十倍的力量吧。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

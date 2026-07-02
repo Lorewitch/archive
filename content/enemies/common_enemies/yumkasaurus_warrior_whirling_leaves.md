@@ -36,7 +36,3 @@ However, only the wildest warriors will combine the hooks with sawblades to crea
 钩绳是「悬木人」
 部族成员日常生活中不可缺少的组成部分。
 不过即使如此，只有最疯狂的战士才会将钩绳和锯刃相结合，变成难以操纵但杀伤力巨大的武器。
-
-## NOTES
-
-### Общие заметки Лороведьмы

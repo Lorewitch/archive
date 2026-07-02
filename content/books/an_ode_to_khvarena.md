@@ -136,20 +136,3 @@ May the eternal Khvarena guide us on the upward path.
 倘若暗潮再现，黑渊重临。
 便唱起这颂歌，祭祷那无往不胜的灵光吧。
 永恒的灵光，将指引我们上升的道路。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -132,20 +132,3 @@ And the sparks showering forth from the hammer's blows are the song dedicated to
 「待一切喧阗沉寂，心要向何方而行？」
 「无人永驻于世间，不过是暂息途经。」
 「但这里曾有繁花——这里曾有歌声。」
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

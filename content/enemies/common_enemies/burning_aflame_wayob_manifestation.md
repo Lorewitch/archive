@@ -38,7 +38,3 @@ The people of the Flower-Feather Clan believe their Wayob has the power to contr
 「花羽会」
 的人相信他们的「大灵」
 拥有控制火焰与燃烧的力量，能够执掌热量与焚风的流转。
-
-## NOTES
-
-### Общие заметки Лороведьмы

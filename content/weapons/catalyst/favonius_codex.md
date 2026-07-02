@@ -78,14 +78,3 @@ But tales tell of a far more profound secret hidden within.
 据说大火也没能熏黑，早在图书馆建立之前，早在骑士团建立之前就矗立在此的那对木门。
 骑士团官方对外宣称那是禁书区。
 但据说，其中藏着更幽邃的秘密…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

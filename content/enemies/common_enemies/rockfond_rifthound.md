@@ -34,7 +34,3 @@ Perhaps they feel jealousy towards these their "next of kin,"and dream of replac
 会很微妙地表现出生物习性，就如同真正的狼一般。
 或许是对地上的「近亲」
 抱有仰慕或嫉妒的感情，而梦想取而代之吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы

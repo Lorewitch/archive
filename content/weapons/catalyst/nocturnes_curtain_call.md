@@ -159,14 +159,3 @@ Amid honeyed veils of dreamy hues, she tarried silently, waiting for the appoint
 「请别为苦难与离别心伤哀恸」
 「繁花终会再度盛开在你窗边」
 「在明夜的梦中与月相伴而眠」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

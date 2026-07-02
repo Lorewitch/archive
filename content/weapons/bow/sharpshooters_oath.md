@@ -50,14 +50,3 @@ And so, the great archer fell prey to a foot infection.
 那是远古的悲剧，兄弟操使兵器，互相讨伐。
 当中，有一名伟大弓手受辱，因此许下毒誓：在诛杀大敌之前，在飞簇洞穿仇敌的咽喉前，在仇人那可憎的血液放干之前，绝对不洗脚。
 传说中，此人最终因为脚气感染倒下了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -32,7 +32,3 @@ They say that some have seen a truly strange sight — antelopes standing on cli
 长久浸浴古老月之力而演化出独特生态的魔兽。
 在月光眷顾的土地上曾降下异雷，而原本凡弱的奇羊也因此而获得了驱使雷电的能力。
 据说也曾有人目睹奇羊立于雷暴汇聚的崖边，主动吸引雷电淬炼己身的奇异景象。
-
-## NOTES
-
-### Общие заметки Лороведьмы

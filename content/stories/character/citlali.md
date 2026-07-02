@@ -9,6 +9,7 @@
 # game_version: 5.3
 # icon: assets/icons/stories/character/citlali.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -423,21 +424,3 @@ Following a trail of shimmering colors, Citlali opened up her hand. As if from n
 「是的，但它对于你说来好像不只是一份使命。」
 循着色彩的指引，茜特菈莉张开手，一枚闪亮的神之眼不知何时出现在她的手心。
 「它似乎也是你的『心愿』呢。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

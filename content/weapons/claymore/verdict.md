@@ -275,14 +275,3 @@ But in dreams, she finally remembered. "At that time, the pounding barrage of th
 但她最后在梦中想起。
 那时舰炮的轰击并没有动摇我们分毫。
 猎犬们潜入的黯道不应有外人知晓。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

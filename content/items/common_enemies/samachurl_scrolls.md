@@ -75,9 +75,3 @@ A scroll inscribed with ancient images. It is said that few can decipher its mea
 ### material: forbidden_curse_scroll
 
 绘制着古代形象的古书抄本。鲜有人能解读它的含义；据说最终理解了其中真意的学者都陷入了癫狂。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

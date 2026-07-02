@@ -63,21 +63,3 @@ So to understand this doom, The chief priest, head crowned with white branches, 
 祭坛、宫殿会被埋入地心，仅有银白之木与之相伴吗…
 知无不言的，天上的使者没有回应。
 为了通晓命运，头戴白枝祭冠的主祭之人，走向了大地的至深之处…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Заметки пока не заполнены.
-
-### Заметки по частям
-
-#### Корона разума
-
-Заметки пока не заполнены.
-
-## INTERNAL
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# internal_hoyowiki_entry_id: 2087

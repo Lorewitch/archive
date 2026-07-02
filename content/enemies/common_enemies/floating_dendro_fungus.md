@@ -35,7 +35,3 @@ After this view was criticized, he changed his tack, claiming that this was just
 具有强大的环境适应能力。
 曾经有学者撰文宣称它们是草漂浮灵的一种。
 在受到批驳后，他便改口说这是一种诗信的「修辞」。
-
-## NOTES
-
-### Общие заметки Лороведьмы

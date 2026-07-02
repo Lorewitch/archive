@@ -31,9 +31,3 @@ Timber from Peach Palm Trees. As the name suggests, the bark has the feel of coc
 ## ZH
 
 产自「桃椰子树」的木材，正如其名，树皮有着椰子壳般的质感，打磨后光滑而美观，硬度和防潮性能都极为出色…可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

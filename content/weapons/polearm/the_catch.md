@@ -88,14 +88,3 @@ The bandit named Ako Domeki's voice was thick with emotion. Then he said...
 「世界尽头究竟长什么样子，就让我去见识！」
 「在所有航道的终点，我们一定会再见面的！」
 「到时候，就轮到我对你唠叨远国的故事啦！」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -31,9 +31,3 @@ The wood of the Adhigama Tree. Can be found everywhere and therefore appears rat
 ## ZH
 
 产自「证悟树」的木材，几乎随处可见，看似平凡，实则有着轻便耐用的特点。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

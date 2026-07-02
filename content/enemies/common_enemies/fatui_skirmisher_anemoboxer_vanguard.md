@@ -34,7 +34,3 @@ They departed from their motherland and did so for its sake. They left their fam
 远离故土又为了故乡。
 告别了亲人却获得了能相托以生死的战友。
 ——或许他们以任务的名义干着丑恶的勾当时，也带着这样的想法。
-
-## NOTES
-
-### Общие заметки Лороведьмы

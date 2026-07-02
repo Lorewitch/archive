@@ -162,14 +162,3 @@ Charge! For freedom, and chivalry indomitable!
 「是『北风』，是『北风』回来了！」
 在人群的欢呼中，瑞文伍德阖上双眼…
 冲锋吧！为自由，为了不灭的骑士道！
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -28,8 +28,3 @@ These archers wield simple crossbows, and their arrowheads are coated with a thi
 
 提瓦特荒野中游荡的原始住民。
 手持简陋弩机的射手，箭头上敷了一层薄薄的易燃材料，以便烧灼其目标。前代的艾尔·马斯克认为，这是头脑灵光的丘丘人想要在捕猎时顺便完成烹饪而为的创新之事。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

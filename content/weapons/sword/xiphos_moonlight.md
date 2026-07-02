@@ -154,14 +154,3 @@ Ultimately, the black key and the young prince's quest to rejuvenate his kingdom
 城池与命运都被磨成砂砾，砂原之风又将一切磨成不可视的细碎沙流。
 
 被托付给年幼王子的复国命运与黑色钥匙，最终都沉入了流沙的怀抱…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

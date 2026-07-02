@@ -39,7 +39,3 @@ The Collective of Plenty believe their Wayob has the power to control thunder an
 「沃陆之邦」
 的人相信他们的「大灵」
 拥有控制雷霆与速度的力量，能够为土地带来富饶的物产。
-
-## NOTES
-
-### Общие заметки Лороведьмы

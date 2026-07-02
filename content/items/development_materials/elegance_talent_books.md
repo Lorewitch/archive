@@ -80,9 +80,3 @@ Talent Level-Up material. Elegance is the form of the nation of thunder. Eleganc
 ### material: philosophies_of_elegance
 
 天赋培养素材。 雷之国土的姿容是风雅。 风雅是不庸俗。 风雅之人永远是独行的。 不屈于平庸之恶，不感动于平庸之爱，不逃避于平庸的无知，才可能明辨何为雅致与鄙陋。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

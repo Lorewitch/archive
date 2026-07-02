@@ -80,9 +80,3 @@ Talent Level-Up material. Admonition is the branches of the nation of wisdom. Ad
 ### material: philosophies_of_admonition
 
 天赋培养素材。 「诤言」是智慧之国的枝干。 诤言终于至善的操行。 行为赋予言语真实含义，言、思、行的协同一致，是令智慧之树结出善果的丰厚养分。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

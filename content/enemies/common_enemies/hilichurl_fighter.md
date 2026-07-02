@@ -28,8 +28,3 @@ Ill-tempered warriors for their tribes, they are simple-minded believers in the 
 
 提瓦特荒野中游荡的原始住民。
 坏脾气的部落战士，朴实地信奉着肌肉的力量。如果肌肉够结实，力量够强，那终有一天也能举起巨大的盾牌，成为「丘丘暴徒」…？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

@@ -77,14 +77,3 @@ Due to its unparalleled strength, this sword subsequently became the model for t
 游侠告诉寒武：此刀古色典雅，宜动宜静。
 如此大中有细的佳品，不妨唤之「古华」。
 此种气度成为了日后璃月千柄重剑的规范。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

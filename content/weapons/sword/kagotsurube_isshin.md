@@ -113,14 +113,3 @@ As he passed away amidst the vast snow, the man only wished to forge a renowned 
 丹羽一族宅心仁厚，以烧刃见长。
 怀着对「一心」的狂热执念，赤目一门始终追逐「斩人剑」所能达到的终极。
 薄葬雪原时，亡人只期望名刀一本、枫原之名能顺利抵返故里，为人所惊叹…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

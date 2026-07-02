@@ -80,14 +80,3 @@ After Rostam met his fate, Arundolyn never displayed his strength again. For no 
 他为自己的力量感到骄傲。
 整个骑士团乃至整个蒙德也为这样的团长感到骄傲。
 在鲁斯坦殒命后，艾伦德林不再展示自己的力量，不再以挑战凶暴魔兽为荣耀。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

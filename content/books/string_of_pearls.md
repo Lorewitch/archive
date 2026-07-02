@@ -1286,32 +1286,3 @@ Zixin: And with lowered head, the promise is made.
 范皆：白月皎皎映梓花。
 梓心：首自低垂诺已达。
 —完—
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

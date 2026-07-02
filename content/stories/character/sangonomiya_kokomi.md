@@ -9,6 +9,7 @@
 # game_version: 2.1
 # icon: assets/icons/stories/character/sangonomiya_kokomi.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -225,21 +226,3 @@ As the Divine Priestess, Kokomi naturally has her own Vision. And ever since the
 这份努力，究竟是源于现人神的意志，还是心海自身的责任感…亦或是二者都有？
 作为现人神巫女，心海自然也有着自己的神之眼。自那日在珊瑚宫外俯瞰海祇岛起，她的愿望就从未变过——
 「守护海祇岛的一切，让这里的每一个人，都能幸福快乐地活下去。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

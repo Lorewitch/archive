@@ -9,6 +9,7 @@
 # game_version: 3.0
 # icon: assets/icons/stories/character/tighnari.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -517,21 +518,3 @@ When the meeting ended and Tighnari stood to leave, he heard a crisp, clear "cli
 至于后者的原因…虽然不太想承认，但大概就是当时摸着自己头的爸爸笑着说的那样——
 
 「这孩子的毛发绿得发黑，一定很难承受沙漠的热量吧！」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

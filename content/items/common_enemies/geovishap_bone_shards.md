@@ -75,9 +75,3 @@ A fossilized bone fragment sometimes found after defeating Geovishaps. Geovishap
 ### material: fossilized_bone_shard
 
 击败龙蜥后有时能找到的石化骨片。 龙蜥都梦想着成长为真正的龙。会把古老的化石认作是龙之骨而加以珍惜，或许是因为希冀着龙的永恒与强大吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

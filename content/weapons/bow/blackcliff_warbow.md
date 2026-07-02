@@ -87,14 +87,3 @@ As she watched the clouds flow beneath the moon, she knew that her prayer had be
 听闻云掌柜喜爱射箭，如不嫌弃还请一试」凰朝天放箭。
 飞矢如逆行欃枪奔空怒雷，而留弦之音则久久回荡在山林之中。
 远眺月下流云，她只觉转机已到…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -39,7 +39,3 @@ How great is that, eh?"—A certain Treasure Hoarder Seaman, in response to a qu
 」
 ——某名盗宝团的「海上男儿」
 对怀有疑问的新人说的话
-
-## NOTES
-
-### Общие заметки Лороведьмы

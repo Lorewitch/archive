@@ -9,6 +9,7 @@
 # game_version: 4.7
 # icon: assets/icons/stories/character/sigewinne.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -377,21 +378,3 @@ How she wished her Teacher were here in this moment! That way, she could submit 
 不过，希格雯并未表现出过多的惊喜，她只是将这枚神之眼当作了那个答案的诸多注解之一。
 她希望老师还在，这样她就终于能还上那个答案了。
 「他们脸上的笑！他们脸上的泪！」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

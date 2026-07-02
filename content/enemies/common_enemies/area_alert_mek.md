@@ -34,7 +34,3 @@ As such, despite its considerable commercial success as a sentinel and defensive
 能够将湮灭产生的能量投射出去的机关。
 严格来说，是在枫丹科学院建立之前，自然哲学学院的相关研究中产生的试验装置。
 因此，尽管作为警戒与防御设备取得了相当的商业成功，大多数工程师并不将其视为严格意义的发条机关机械。
-
-## NOTES
-
-### Общие заметки Лороведьмы

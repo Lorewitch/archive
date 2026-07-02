@@ -9,6 +9,7 @@
 # game_version: 5.8
 # icon: assets/icons/stories/character/ineffa.webp
 # tags:
+# character_filters: lunar_omen
 
 ## RU
 
@@ -495,21 +496,3 @@ That gemstone, which had witnessed the passing of countless years, shone brightl
 「…不过是她众多的研究对象之一罢了，不用在意。况且母亲为我留下的最珍贵的事物，不是它，也不是碎链…」
 那枚见证过无数岁月的「宝石」，在莉安歌手中熠熠生辉，仿佛永不熄灭的龙瞳。
 「…是期待我践行这道途的『愿望』。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

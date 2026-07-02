@@ -32,7 +32,3 @@ Even should the individual soldier's combat power not prove exceptional, soldier
 隶属于愚人众特辖队的士兵，装备了铳刃，是维持阵线的中坚力量。
 在至冬的步兵典则中，线列军的首要职责唯有瞄准、射击与冲锋。
 尽管单兵作战能力并不出众，但集结成密集阵型的线列军总是至冬军势中最牢固的基石之一。
-
-## NOTES
-
-### Общие заметки Лороведьмы

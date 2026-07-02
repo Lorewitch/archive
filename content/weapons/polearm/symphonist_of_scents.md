@@ -126,14 +126,3 @@ Would transcend the symphony of harmony and glory, and endure to present-day Fon
 恶与善平等沦落海渊，然而那最朴素的愿望，
 与一切荣耀无关、众人安乐享用美食的愿望，
 依然超越谐荣的乐章，存续到了今日的枫丹…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -31,9 +31,3 @@ You can only find such husks deep in the desert where the Quicksand Eels breed. 
 ## ZH
 
 在沙漠深处流沙鳗鳗的繁殖地才能找到的枯壳。 其坚硬的表壳是为了保护流沙鳗鳗的幼体，直到它们得以适应炎热干燥的沙漠环境而存在的。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

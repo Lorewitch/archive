@@ -292,35 +292,3 @@ And so, the sealed fortresses became giant, silent tombs, with naught left in th
 在数千年的风霜与动荡之中，遁玉之谷的坚城巍然矗立，直至五百年前依然与欣欣向荣的璃月港有所往来。
 但随着黑色的灾异自深渊而起，遁玉的居民封闭了古城，背井离乡流散各地。没有人知道这些流民封存家乡的原因究竟为何，即使见惯了世间千年纷扰的仙人和夜叉也缄口不言。
 于是，被封闭的城塞化成了巨大而空洞的陵墓，空余潭水与风声久居其中。因而璃月人将之称作「遁玉陵」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-
-#### Том 6
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

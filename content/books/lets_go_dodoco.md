@@ -187,20 +187,3 @@ And now, you are Dodoco's good friends too. So you, too, should go on a grand ad
 可莉也忍不住说：「我们是永远都不会分开的好朋友。」
 你看，和好朋友们在一起的时候嘟嘟可多开心呀。
 现在，你也是嘟嘟可的好朋友了，那么你也要开开心心，和好朋友们一起去经历最伟大的冒险。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

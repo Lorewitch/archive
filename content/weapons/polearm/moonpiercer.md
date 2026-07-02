@@ -129,14 +129,3 @@ In countless tales, not a single tear will be in vain.
 为月亮所迷的孩子望着月亮时会流泪，是因为月亮化成的细沙进入了眼中。
 
 在许许多多的故事里，没有一滴眼泪会是白流的。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

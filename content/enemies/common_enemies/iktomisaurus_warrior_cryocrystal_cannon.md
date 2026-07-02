@@ -32,7 +32,3 @@ They can even use their power to make slight alterations to the trajectory of th
 来自谜烟之内，勇武受到认可，得以获授龙冠的强大武士。
 据说能够被暝视龙承认的部族武士无一不有着超然的敏锐感知和强大坚韧的精神力。
 她们甚至能够借由这份力量微微改变火炮射出的弹药的轨迹。
-
-## NOTES
-
-### Общие заметки Лороведьмы

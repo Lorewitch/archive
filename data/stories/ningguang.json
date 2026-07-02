@@ -36,6 +36,7 @@
     "geo"
   ],
   "element": "geo",
+  "character_filters": [],
   "parts": [
     {
       "number": 1,

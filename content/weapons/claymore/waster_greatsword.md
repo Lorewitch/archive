@@ -39,14 +39,3 @@ The one who uses this heavy, edgeless two-handed greatsword knows this well:It m
 
 ### 故事
 使用这种沉重、无锋双手大剑的人最清楚，兵器如何都无所谓，重要的是自己的力量。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

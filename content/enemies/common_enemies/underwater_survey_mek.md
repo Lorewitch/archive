@@ -32,7 +32,3 @@ For machines designed to perform specific tasks, biomimesis has sometimes provid
 以水下探测为目的，设计制造的发条机关。
 在发条机关的设计上，在动力学无法得到突破的情况下，运动学是最重要的研究对象。
 在特定目的的机械设计上，仿生学有时能提供最便捷的解法。
-
-## NOTES
-
-### Общие заметки Лороведьмы

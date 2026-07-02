@@ -240,20 +240,3 @@ In those days, the Oni Chiyo danced in her resplendent juunihitoe, sword in hand
 
 言归正传。少女发现这刀在战场之外的妙用时，距离编织那副画卷的未来尚有时日。
 当时，鬼人千代身着无比华丽的十二单执剑而舞的身姿，有如春日风中落花般绚烂。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

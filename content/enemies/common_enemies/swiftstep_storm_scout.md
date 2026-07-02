@@ -32,7 +32,3 @@ But just as leaves fall silently, so are the slashes of these swift couriers sou
 来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。
 据说使剑的部族人在训练自己的战斗技巧时，需要站在树下，劈开一天内落下的所有叶子。
 但就像落叶其实是没有声音的，讯使们的斩击往往也会悄然而至。
-
-## NOTES
-
-### Общие заметки Лороведьмы

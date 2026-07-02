@@ -31,9 +31,3 @@ A plant that adores the wind. To the proud children of the wind, or the citizens
 ## ZH
 
 喜好风的植物。 对于崇信风、本身也如风一般爽朗自在的蒙德人而言，风车菊便是「看得见的风」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

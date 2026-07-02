@@ -74,20 +74,3 @@ Notably, people still call outstanding warriors "the scions of Touzannou," altho
 一切尘埃落定，一切事与愿违。
 
 值得一提的是，在当今的海祇岛，人们仍旧会将那些英武矫健的勇士称作「东山王的子孙」，尽管年轻狂妄的「东山王」未曾来得及与心仪的人彼此结合，安然享受和平无波澜的未来。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -36,6 +36,7 @@
     "anemo"
   ],
   "element": "anemo",
+  "character_filters": [],
   "parts": [
     {
       "number": 1,

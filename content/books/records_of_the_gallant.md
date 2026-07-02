@@ -129,23 +129,3 @@ Still, the legends hold that the riverbank that maiden had used to roam remains 
 
 但随着璃月港的灯火日渐吞没郊野的荒村，这等传奇也渐渐消亡了。
 传说女子曾经徘徊的那处河岸，如今正盛开着琉璃百合的花朵。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

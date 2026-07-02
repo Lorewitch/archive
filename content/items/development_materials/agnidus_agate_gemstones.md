@@ -98,9 +98,3 @@ Character Ascension material. "A pilgrimage for a wish; a battle to earn a name.
 ### material: agnidus_agate_gemstone
 
 角色突破素材。 「为了愿望而步上巡礼，为了最强之名而云聚争斗… 「最后为了梦在劫火中燃尽。 「灰烬中如果留下了最初的心，那他就达成了██的真实。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

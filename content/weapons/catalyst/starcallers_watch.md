@@ -156,14 +156,3 @@ And amidst the night wind and cold light of day, ants stole the secret rites tha
 「将这造像带在身边，我最忠诚的侍仆丁加，追随初升的晨曦踏上旅途吧」
 「我会永远注视着你，只属于我一人的英雄，我会如丝弦萦系在你的肩畔」
 「直至你我的灵魂在幽邃的安宁中永世交缠，即使死亡也无法将我们分离」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

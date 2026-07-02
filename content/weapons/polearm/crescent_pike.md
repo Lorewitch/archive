@@ -81,14 +81,3 @@ In the end, the pain of finality, which pierced her heart like a needle, finally
 惧怕死亡是因为有挂念的事与人吧」「啊啊。
 好想再见他一面，那个抓不住、杀不死的贼人」「好想再听一次他的歌。
 如果能活下来，我一定要对他」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

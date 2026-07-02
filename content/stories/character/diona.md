@@ -9,6 +9,7 @@
 # game_version: 1.1
 # icon: assets/icons/stories/character/diona.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -332,21 +333,3 @@ Still, Diona gaining power over Cryo did not help reconcile her to wine at all.
 「凉凉的，真是太好喝啦，哈哈哈哈…哎哟…」
 能够喝上自己女儿帮忙调的酒，这件事本身的镇痛效果就远远大于酒精了吧。
 ——尽管这件事让迪奥娜获得了操控冰元素的力量，但还是没能成为她与酒和解的契机。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

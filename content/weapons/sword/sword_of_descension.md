@@ -90,14 +90,3 @@ And cut open all the challenges and mysteries that it has to offer you.
 作为防身的武器是很不错的。
 毕竟它就是为了像你这样的，「挑战之人」、「追寻之人」而铸造的兵器。
 带着它，行走在这个世界上，然后，去斩开「世界」留给你的一切谜团与挑战吧。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

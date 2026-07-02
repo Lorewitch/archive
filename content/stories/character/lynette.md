@@ -9,6 +9,7 @@
 # game_version: 4.0
 # icon: assets/icons/stories/character/lynette.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -661,21 +662,3 @@ A Vision, reflecting both the dawn sun and the twins' sleeping faces, hung at Ly
 「好好睡一觉吧。你们已经带回…更珍贵的战利品了。」
 
 一枚神之眼，倒映着晨曦与双子的睡颜，在琳妮特腰间静静闪烁。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

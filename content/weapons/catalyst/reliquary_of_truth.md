@@ -222,14 +222,3 @@ And, as if collecting moonlight like amber honey, the holy one had taken the kin
 
 此后王权便被异族的代伊们所篡夺，直到列邦皆被砂原之风碾作尘埃。
 而如同收纳如琥珀如蜜的月光那般，圣者将君王最后的真意收作答案。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

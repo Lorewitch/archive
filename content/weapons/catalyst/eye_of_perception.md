@@ -81,14 +81,3 @@ Both are reminiscent of the murmuring of demons that feed on wicked thoughts, a 
 个中原理无人知晓，常归结于民话传说。
 据说，在午夜有时能听见它隐约作响，像空穴中微风吹拂，像乱石间泉水流淌。
 而两者，都与过去劝人为善的妇孺传说中，以恶念为食的妖兽的躁动十分相似。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

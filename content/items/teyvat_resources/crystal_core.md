@@ -31,9 +31,3 @@ The core of a crystal butterfly. It absorbs elemental energy that has escaped in
 ## ZH
 
 晶蝶的核心。 是吸食着大气中逸散的细小元素的晶蝶长出的奇妙器官。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

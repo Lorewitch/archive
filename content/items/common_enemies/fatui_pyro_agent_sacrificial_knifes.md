@@ -75,9 +75,3 @@ In the hands of its lord, this fierce weapon has handled many "debts." No one ha
 ### material: inspectors_sacrificial_knife
 
 在故主手中，曾处理过许多「债务」的凶恶武具。世上无人背后长眼，而这种兵器与相关的武艺则是针对这种弱点设计的。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

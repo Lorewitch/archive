@@ -42,6 +42,7 @@
     "geo"
   ],
   "element": "",
+  "character_filters": [],
   "parts": [
     {
       "number": 1,

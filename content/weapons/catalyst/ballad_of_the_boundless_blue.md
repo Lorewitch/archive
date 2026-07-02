@@ -129,14 +129,3 @@ Leaning on their spirited souls to pursue a boundless and unshackled freedom.
 诸多民众便如飞向高天的蒲公英那般，
 
 以自由之心纷纷追寻无拘无束的幸福。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

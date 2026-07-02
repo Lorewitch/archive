@@ -29,7 +29,3 @@ They are adept at using their horn-studded blades to strike at enemy weak spots 
 
 来自平原之上的勇士，在金穗田间巡游的部族守卫者。
 精通如何利用刃角攻击敌人弱点的技巧，切忌被其发现自身的破绽。
-
-## NOTES
-
-### Общие заметки Лороведьмы

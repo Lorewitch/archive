@@ -69,14 +69,3 @@ For this reason the weapon became known as "Starglitter" among later practitione
 夜里置于室外沐浴月华，拂晓时，可见枪尖一点寒光如星。
 云辉观此神兵，忆起父亲年轻时舞枪的英姿，情之所至，取父亲名号中的星字为它命名。
 璃月日后枪戟之祖，是故就此命名「星镰」。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

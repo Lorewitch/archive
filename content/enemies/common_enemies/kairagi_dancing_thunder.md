@@ -34,7 +34,3 @@ They use paper seals, created from a Kamuna art that has been lost for centuries
 落草为寇的流浪武人。
 有着高强的武道修养，却因为种种原因而没有用武之地，走投无路中踏上了恶逆之道。
 会利用本应在数百年前失传的惟神技术制造的符纸，为刀剑附上雷霆的力量。
-
-## NOTES
-
-### Общие заметки Лороведьмы

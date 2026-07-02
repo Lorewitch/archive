@@ -9,6 +9,7 @@
 # game_version: 6.4
 # icon: assets/icons/stories/character/varka.webp
 # tags:
+# character_filters: witchcraft
 
 ## RU
 
@@ -717,21 +718,3 @@ This is what humanity has always done best.
 「——下一步，我会超越他的剑舞。」
 借鉴，传承，然后超越。
 自古以来，就是人类最擅长的事。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

@@ -459,29 +459,3 @@ The wolf was most displeased, and violently expelled a puff of air from its nost
 一转头，却发现醉汉在柔软的松针床上酣睡已久。
 
 孤狼无奈地喷出鼻息，将这坨酒气熏天的家伙丢在一旁，自顾自离开了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

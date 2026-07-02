@@ -199,20 +199,3 @@ In the morning light, the warrior — his shadow trailing long behind him — to
 清晨的阳光下，拖着长影的勇者接过白日王赐予的宝剑，又一次踏上了冒险的旅途。
 「这样的循环或许会持续很久，直到你也变成空壳的那一天吧。」
 「不过无论如何也要坚持下去，至少要活到下次见面的时候啊。」
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

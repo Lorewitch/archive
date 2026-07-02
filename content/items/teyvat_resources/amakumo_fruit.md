@@ -31,9 +31,3 @@ The fruit of the Amakumo Grass, which grows on Seirai Island. You can hear it cr
 ## ZH
 
 生长在清籁岛的天云草结成的果实，贴在耳畔能听见微弱的电流声。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

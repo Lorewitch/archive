@@ -106,14 +106,3 @@ But surely, this must have been the desire of those who walked stalwartly throug
 其名在平和的岁月中，有了爱与欢愉的内涵。
 这就是在黑暗中坚定徒行的人们所希冀的吧…
 「盛放的花就应当象征爱、象征春天降临，」「而不再是抗争的狼烟、揭旗之人的暗号…」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

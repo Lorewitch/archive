@@ -32,7 +32,3 @@ Their ordnance and knowledge of squad-based combat thus constitute no small thre
 操使着烈焰之铳的愚人众士兵。
 先遣队配置的武器在一定程度上能制御元素，战斗策略上则会利用元素反应。
 因为拥有这样的武装与知识，先遣队团队作战时能带来无法小觑的威胁。
-
-## NOTES
-
-### Общие заметки Лороведьмы

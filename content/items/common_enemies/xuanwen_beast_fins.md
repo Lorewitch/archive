@@ -75,9 +75,3 @@ An elegant fin taken from a defeated Xuanwen Beast's back. The faint light it re
 ### material: chasmlight_fin
 
 击败玄文兽后，从其背上取得的华美鳍翅。 其上折射着幽邃的微光，能隐隐感受到仙力的痕迹。更深夜静之时，即便是凶暴的野兽亦会短暂沉入宁谧的安眠，追忆「梦」尚不独属于人的年岁。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

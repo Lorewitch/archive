@@ -9,6 +9,7 @@
 # game_version: 2.6
 # icon: assets/icons/stories/character/kamisato_ayato.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -335,21 +336,3 @@ And when the first light of the next dawn alighted upon the desk, the young heir
 为了未来，为了家人安全，凡是可用之物，不择手段地使用，凡是阻碍之人，不惜代价地清除。
 这一夜，房内无灯，神之眼是唯一陪伴他的光源。
 当黎明第一束光透过窗户洒上桌面，年少的长子已经做好迎接一切的准备。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

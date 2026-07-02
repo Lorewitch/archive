@@ -289,29 +289,3 @@ But sadly, the spring fairy who fled from her true feelings could never believe 
 传说每当大雨降下，落入池塘的雨滴中间总会混杂着泉水精灵的泪滴。
 当少年终于老去，他依然对这样的无稽之谈深信不疑。
 不幸的是，逃避真心的泉水精灵同样对这等事实无法质疑。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

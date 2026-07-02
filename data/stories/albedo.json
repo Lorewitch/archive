@@ -36,6 +36,9 @@
     "geo"
   ],
   "element": "geo",
+  "character_filters": [
+    "witchcraft"
+  ],
   "parts": [
     {
       "number": 1,

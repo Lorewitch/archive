@@ -31,9 +31,3 @@ A gem formed from the resin of the towering ancient trees that once blanketed No
 ## ZH
 
 古时覆盖挪德卡莱的参天巨木，流淌下的树脂凝结而成的宝石，散发着璀璨的色彩。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

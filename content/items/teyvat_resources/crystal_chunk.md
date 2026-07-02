@@ -31,9 +31,3 @@ An uncut crystal. Only professional craftsmanship can bring out its true value.
 ## ZH
 
 未经削切的晶体。 在专门处理后，才能真正展现价值吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

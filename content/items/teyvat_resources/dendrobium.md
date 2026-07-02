@@ -31,9 +31,3 @@ A vibrant plant that has also been named the "lycoris" by the poets. It was once
 ## ZH
 
 在诗文中也被称为「赤蕊」的鲜艳植物，一度在稻妻列岛绝迹，如今在战场上再度重现。 传说在血腥的战场上，它们开得格外妖艳。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

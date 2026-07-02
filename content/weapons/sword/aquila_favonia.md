@@ -89,20 +89,3 @@ Let the wind of justice and freedom lead.
 但凡有受禁锢的，那就带来自由；
 但凡有受蒙蔽的，那就带来智慧。
 听凭风引，便是正义与自由之风。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

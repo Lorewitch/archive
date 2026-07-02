@@ -49,14 +49,3 @@ Nevertheless, the book is still the most authoritative guide to magic in existen
 且不论《第七章：风元素运用原理》与常识相悖，有关水元素与雷元素的基础性内容更是错漏甚多。
 显然该书在定稿前并未经过同行审阅，遑论试行。
 但无论如何，它还是当今最权威的魔导入门指南。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

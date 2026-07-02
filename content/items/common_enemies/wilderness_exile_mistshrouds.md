@@ -75,9 +75,3 @@ A helmet found in the mists of the Wild Hunt. Perhaps because the sullying prese
 ### material: mistshroud_helmet
 
 在狂猎的迷雾中寻得的兜鍪。 或许是因为来自异界的不洁存在汲取了地脉中古老的记忆，造型与失落古国的遗物颇为相似。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

@@ -193,26 +193,3 @@ But maybe running into this noisy little thing is a stroke of good luck for me..
 这样胡思乱想着，哈玛瓦兰又开始后悔自己没有去读神秘学，而是学习了海洋生物研究这门冷门课程…
 不仅要远渡稻妻，更要面临活地狱般的论文答辩…
 不过如今身边多了一个聒噪的小东西，或许多少算是个转机吧…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

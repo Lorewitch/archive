@@ -35,7 +35,3 @@ On some level, this can be considered to be the freest species of slime, as it c
 会利用体内凝聚的丰沛的冰元素，将大气中的水汽凝结成具有保护性的外壳；
 也会利用同样的原理，将周围的水面冻结。
 某种意义上是最自由的史莱姆，可以轻松自在地渡过汪洋大海。
-
-## NOTES
-
-### Общие заметки Лороведьмы

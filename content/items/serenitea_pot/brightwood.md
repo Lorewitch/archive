@@ -31,9 +31,3 @@ Timber from the Brightwood Tree. It seems to have different properties from ordi
 ## ZH
 
 产自「辉树」的木材，似乎有着与普通木材不同的构造，质地较软，但极为坚韧，易于染色，用途较为特别。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -33,7 +33,3 @@ yet the territory of the Armored Crab is naught but the small home upon its back
 
 寄居在螺与壳之中的螃蟹。
 几乎不具备野生动物常有的攻击性，因为食欲之外的攻击性常常源自领域意识，而重甲蟹的领土就是其背在身后的小小家园。
-
-## NOTES
-
-### Общие заметки Лороведьмы

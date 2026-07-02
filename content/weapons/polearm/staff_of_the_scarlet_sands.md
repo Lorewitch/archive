@@ -179,14 +179,3 @@ But I do not wish that the poison ingested by mistake should remain in this worl
 只是，唯独我误服下的毒，不应该留在这个世界。不知她能否念旧友之情——
 
 ——就算，不是为了我，也没关系。为了我们共同的挚友，最后帮我一个忙…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

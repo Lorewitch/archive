@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/razor.webp
 # tags:
+# character_filters: witchcraft
 
 ## RU
 
@@ -278,21 +279,3 @@ Because the day may come when his Lupical faces another threat, and this time, h
 「不想再让任何同伴受伤了。」
 雷泽使用「神之眼」的技巧日渐熟练。他暗暗下了决心：要变强，变得比谁都强。
 危险来临时，他必将保护他的「卢皮卡」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

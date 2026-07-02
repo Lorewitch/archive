@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/keqing.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -337,21 +338,3 @@ Thank the Archons she hadn't destroyed it back then, or she'd have regretted it 
 「比力量来源更重要的，是力量的驱使者。」
 无论曾经如何看待「神之眼」，如今这份力量已是刻晴不可缺少的一部分了。
 幸好当年没有破坏掉，不然，她一定会后悔莫及——谁让她是实用主义者呢？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

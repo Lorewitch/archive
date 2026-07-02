@@ -137,14 +137,3 @@ Everyone here sure likes making selfish decisions, huh? You and that fellow both
 「…真是自私的决定。一个两个都喜欢这样，你也是，那个人也是」
 「哼…既然如此，那就让我也做一件贪得无厌的事吧，■■■■■」
 「你留给我的这枚翎羽——我要让它在你从未回到的故乡传承千年」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

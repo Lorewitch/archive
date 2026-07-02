@@ -102,14 +102,3 @@ When his vision was taken by the fire of delirium, it seemed to him that he hear
 「终有一日，你会知晓自己为何踏上这苍翠的旅路」
 「柴火的往昔，烈焰的今时，皆为永不回头的生命」
 「所行的一切，火必将审问，这便是独属你的道途」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

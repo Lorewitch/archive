@@ -66,14 +66,3 @@ Conspiracy and coded language are interwoven with ease under the pale blue full 
 胸怀宏大野心，坐拥强大资财之人，往往更能精巧地顺风远航，从而躲避无处不在的竞夺与恶意，在逆流的湍瀑之间扶摇直上。
 「话虽如此，我可全无大人物的心性，也耐不得那许多无聊」「更愿享受茶室香茗，乐见世事如六面骰子投出的万千结果」「曾在夜幕下潜入贼人藏匿之处，也曾破获异国强敌的阴谋」「但这并非为达官显富扫除异己而张目行事，仅因水亦有源」为了保护源头的纯净，水的温柔意志亦当化作利刃，成为良弓。
 淡蓝满月之下，阴谋与密语交织之中游刃有余，是为水形之智。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

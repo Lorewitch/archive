@@ -45,7 +45,3 @@ Fear not, however, for those who still remember will never betray the spirit of 
 是无知或是怀着蔑视的心不去区分沙海中诸多部族的外人对他们的统称。
 在被称为镀金旅团的人当中，有许多人已经忘记了沙漠的故事。
 如今仍然能记起许多故事的人，是不会背叛流淌在体内的沙漠血脉的。
-
-## NOTES
-
-### Общие заметки Лороведьмы

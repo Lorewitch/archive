@@ -45,7 +45,3 @@ Once it does, it can only be silenced by the cries of the vanquished — whether
 或许只有血管中澎湃着战斗的旋律时，她才能拜托魂灵的低语吧。
 使用的武器中封印着残破的厄灵，会在危急是苏醒。
 只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。
-
-## NOTES
-
-### Общие заметки Лороведьмы

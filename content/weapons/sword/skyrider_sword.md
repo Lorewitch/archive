@@ -50,14 +50,3 @@ But die it did not, his dream of flight.
 直到断裂的声音顺着筋骨传入脑中——他才知道，有的事情剑术也无法实现。
 虽说当掉锃亮的钢剑，换了金创药丸。
 可御剑公子明白，飞天的伟大征程还未结束！
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

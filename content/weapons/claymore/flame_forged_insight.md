@@ -123,14 +123,3 @@ When the great blade was forged, Akamai and Kau Kau handed it to the would-be wa
 
 「就让过往的回忆陪着你们出发吧，在父辈无法伴随你们踏上长路的如今…」
 「过往如斯随血脉向新时代延展，就像不灭的新火于永燃的仪式代代相传。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

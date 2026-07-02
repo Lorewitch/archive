@@ -133,20 +133,3 @@ The result of our wager is still undecided. I must return to Asase's side...
 如同紧握垂入黑暗的蜘蛛丝般，紧握破碎刀柄的武者，
 在漆黑的浓雾中，仍然拗执地在内心中不断告诉自己：
 赌局的胜负尚且没有定论。我一定要回到浅濑的身边…
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

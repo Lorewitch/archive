@@ -42,7 +42,3 @@ Once it does, it can only be silenced by the cries of the vanquished — whether
 将完成委托作为唯一的行动纲领，在佣兵市场上的要价也是最高的。
 使用的武器中封印着残破的厄灵，会在危急时苏醒。
 只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。
-
-## NOTES
-
-### Общие заметки Лороведьмы

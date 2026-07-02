@@ -65,20 +65,3 @@ Thus did Gothson's house lose two hunters and gain two sick people in the space 
 戈德森的父亲在夺路而逃时撞倒了一位胖太太，自己也闪了腰，腿一软便将全身体重压在了儿子身上。接着，倾倒的烤肉又和着人们的尖叫砸了下来…
 骑士团花了三天时间才完全清理干净遍布广场的烤肉、生菜和各种花里胡哨的食材，抬走那些被肉汁浸泡入味的观众，并且不得不宣布以后的羽球节庆典都在城外举行。
 就这样，戈德森家里一夜之间少了两个猎人，却多了两个病人。而他们得到的唯一补偿，是迟了两天才寄来的冠军镀金奖牌。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

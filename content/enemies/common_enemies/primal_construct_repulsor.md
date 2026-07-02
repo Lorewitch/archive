@@ -33,7 +33,3 @@ Today, that utopia is long gone, and the dreams and oaths, forgotten by the worl
 这些机械最初的用途并非是把守宫殿与神庙，而是要在沙海之上重现痴愚之王梦想中乐园。
 如今「乐园」
 早已湮灭，只有蚀刻在这些机械上的咒文还记录着那些已被世人忘却的梦想与承诺。
-
-## NOTES
-
-### Общие заметки Лороведьмы

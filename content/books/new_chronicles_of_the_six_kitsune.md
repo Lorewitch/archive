@@ -564,35 +564,3 @@ Five centuries may seem long to mortals, but the joys and sorrows left by the th
 这时，斋宫大人第三次离去，也是永远地离开了。
 
 五百年的时光或许于凡人而言过于漫长，但其事变留下的悲欢伤痛，不论对于朝生夕死者、或是常生难灭者而言，都是难以抹除的。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-
-#### Том 6
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

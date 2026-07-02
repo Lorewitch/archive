@@ -35,7 +35,3 @@ No one knows what those covered eyes have seen, nor what kind of obsession might
 优雅自如的操控着水镜的力量，让为之所炫的人，心甘情愿的坠入她的幻境。
 似乎一切都逃不过她的耳朵。
 被蒙住的双眼，不知见识过什么景象，也不知其中会倒映出怎样的执妄…
-
-## NOTES
-
-### Общие заметки Лороведьмы

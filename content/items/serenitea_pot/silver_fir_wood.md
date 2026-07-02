@@ -31,9 +31,3 @@ Wood harvested from the Silver Fir Tree. Humans have favored this type of wood s
 ## ZH
 
 「银冷杉树」出产的木材，被人类运用的历史悠久，可以胜任小到木桶，大到建筑板材的各种需求…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

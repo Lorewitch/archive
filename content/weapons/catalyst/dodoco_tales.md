@@ -83,14 +83,3 @@ This small, precious book was given by the freest mother in the world to the luc
 所以呀，当一个毛茸茸的「嘟嘟可」从「金苹果群岛」滚落海中，或者一下子跃入风中，纷纷扬扬地向远方而去时，便将会有一个幸运的孩子与最好的朋友相聚。
 这本珍贵的小书，由全世界最自由的妈妈送给全世界最幸运的女儿，记录了嘟嘟可与她相遇之前所经历的无数冒险；
 还有与她相识之后所期许的，充满了火花、宝物与伙伴的，更大的冒险！
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

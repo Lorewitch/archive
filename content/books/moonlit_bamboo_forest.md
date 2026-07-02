@@ -439,29 +439,3 @@ He turned and looked, and there was nothing behind him, but a single strand of h
 
 晨阳的朝霞中，少年听到嘶鸣与远去的蹄声。
 转头观望，身后空无一物，只发现肩头落了一缕白色鬃毛。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

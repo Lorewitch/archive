@@ -227,14 +227,3 @@ Glittering like the flames of roaring wildfire, they crashed into the mountains 
 就这样，特诺切从六大部落召集齐了盟友，
 
 如明亮灿烂的野火般，与黑色的山岳相撞…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 3.0
 # icon: assets/icons/stories/character/dori.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -461,21 +462,3 @@ In the countless days and nights that have followed, she has constantly kept her
 「只有执念是不够的。我会为了想要的东西不停努力，直至耗尽最后一分力气。」
 
 「桑歌玛哈巴依老爷，没有做不到的事。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

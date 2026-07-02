@@ -28,8 +28,3 @@ These archers wield simple crossbows, and their arrowheads are crafted from carv
 
 提瓦特荒野中游荡的原始住民。
 手持简陋弩机的射手，箭头以电气水晶的碎片磨削而成，以便命中时造成电击。据说射术百里挑一的丘丘人射手可以一次发射五枚箭矢，非常厉害。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

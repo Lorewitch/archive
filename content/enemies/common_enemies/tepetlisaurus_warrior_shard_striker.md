@@ -36,7 +36,3 @@ It is said they can even divine the purity and grain of the interior of raw ore 
 即使是在与山岩晶体亲近的「回声之子」
 中，龙冠武士也是领悟山岩之力更为透彻的高手。
 据说他们甚至能够透过原矿表面粗糙的风化皮，分析其内部的成色和纹理。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -38,7 +38,3 @@ So why then do the Ruin Guards continue staying among these ruins, using their "
 传说是已经覆灭的国度留下的战争机械，会徘徊至世界各地的遗迹废都，并攻击冒失的旅人。
 研究表明遗迹守卫与这些废墟并非同源，表明两者的时代也相差至少数千年，为何遗迹守卫会驻留在其中，并以「爆炸性的火力」
 守护这些残垣断壁呢…
-
-## NOTES
-
-### Общие заметки Лороведьмы

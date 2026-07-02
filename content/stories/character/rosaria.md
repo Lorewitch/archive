@@ -9,6 +9,7 @@
 # game_version: 1.4
 # icon: assets/icons/stories/character/rosaria.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -358,21 +359,3 @@ Did he let me replace him on purpose? ...Could a false father have harbored genu
 ——有「神之眼」的人肯定比快老死的贼厉害。再说，你吃得也少，还能节约些粮食。
 罗莎莉亚冰块般凝结的心中忽然浮出一个疑问：
 他是故意让我顶替他吗？…捡来的孩子，也会让虚假的父亲产生包庇之心吗？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

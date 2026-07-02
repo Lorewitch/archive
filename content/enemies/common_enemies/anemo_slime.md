@@ -29,7 +29,3 @@ It is able to float in the air to a certain degree due to the power of Anemo.
 
 逸散在自然之中的风元素凝聚形成的小小魔物。
 因为风元素的力量，所以具有一定程度的飘浮能力。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -36,7 +36,3 @@ The great towers and palaces that now sleep beneath the waves once bore witness 
 驱使其战斗的不知是灵魂，抑或是魔法。
 传说魔像组成的军团曾征服高海上的列邦，它或许也是其中的一员。
 沉没海底的高塔与宫殿，见证了敢于阻挡命运轮轴之人的下场。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -9,6 +9,7 @@
 # game_version: 4.7
 # icon: assets/icons/stories/character/clorinde.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -394,21 +395,3 @@ As Clorinde raised her sword and spoke these words, the merchant simply stared b
 「在这里，只有剑能证明你的名誉。」
 克洛琳德举剑说道，不知道何时出现在她胸前的「神之眼」倒映着富商惊恐的神情。
 「…还是说，你压根没有为自己的名誉挥剑的『勇气』？」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

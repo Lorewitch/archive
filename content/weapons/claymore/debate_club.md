@@ -51,14 +51,3 @@ The needs of the many outweigh the needs of the one.
 是谓之金石良言。
 最终在人们的抗议中，被勒令停止制造。
 是谓之众口铄金。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

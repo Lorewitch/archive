@@ -31,9 +31,3 @@ Wood sourced from the Hazelnut Tree. Though the subspecies this wood comes from 
 ## ZH
 
 产自「榛树」的木材，虽然来源的树种形态多样，但木材表层大多具有独特的成分，防虫防腐能力可观，极为耐用。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

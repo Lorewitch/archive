@@ -32,7 +32,3 @@ The very power and consciousness gained by Consecrated Beasts devouring these li
 因为啃噬伟大的生命体，而扭曲异变的食腐猛禽。
 圣骸兽所吞食的尸骸当中，常常夹杂着有永远无法陷入沉寂的意志。
 而这些意志与力量又会驱使它无穷尽地渴求厮杀与亡骸。
-
-## NOTES
-
-### Общие заметки Лороведьмы

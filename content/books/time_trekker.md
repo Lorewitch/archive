@@ -310,26 +310,3 @@ I never saw Ciric Neven again.
 「我不指望你们能相信我的话，」克里克站起身来，扫视着我们，「就把这些当作是我为了掩盖自己没能制造出时间机器而编造出的胡话吧，把它当作一个蹩脚的故事，一个纯粹出自妄想的梦吧。那么——失陪了，女士们，先生们，我要去为未来的我留下谜题了。」
 
 我再也没见过克里克·内文。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

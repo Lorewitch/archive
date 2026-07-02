@@ -85,14 +85,3 @@ These tunes would change and shift with the passage of time like dawn's glow eve
 「诸多的恐怖与不可思议，皆未尝令她心感恐惧，稍作退缩」山民如此以歌谣盛赞他们的女儿，但歌谣的主人终究没有回返。
 歌谣随时光流转，如霞光变幻至今，然而长弓的主人仍未返还。
 「我唯一恐惧介怀的事，仅有遗忘与失去而已」「若厄运将我掩埋在无名之地，请莫把我忘记」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 5.0
 # icon: assets/icons/stories/character/mualani.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -371,21 +372,3 @@ Following the rays of sunlight streaming in through the window, she caressed it 
 她睁开眼，将硬物拿到手里，竟然是一颗晶莹剔透的神之眼。
 顺着窗外照进来的阳光，她来回摩挲，反复观察，确认这并不是家里人买来的玩具。
 「这算是初战告捷的战利品吗？还挺吉利的嘛。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

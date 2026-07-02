@@ -111,14 +111,3 @@ The wolf who once broke into this place had long since departed. Only unfulfille
 「他们失去了一切形与神寄宿的家乡，只剩下歌与回忆。」
 最后的歌者，最初的仙灵，弹奏着终曲，坐在天使的厅堂。
 一度闯入这里的狼早已离去，只留下未竟的梦追逐着幻影。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

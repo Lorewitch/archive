@@ -40,7 +40,3 @@ From this ability, one can glimpse the scale of the ambition that the civilizati
 较之真正的龙蜥,具有更强的「吸收」，抑或是说「反制」
 元素的能力。
 能创造出这样可怕兵器的文明，又会因为什么而覆灭呢…
-
-## NOTES
-
-### Общие заметки Лороведьмы

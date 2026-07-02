@@ -31,7 +31,3 @@ This also signifies that these warriors have reached a new phase in their mental
 
 来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。
 只有力量经过考验的卫从才能在身上绘制具有特殊力量的油彩涂鸦，也意味着部族勇士关于意念的修行到达了下一个阶段。
-
-## NOTES
-
-### Общие заметки Лороведьмы

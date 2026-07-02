@@ -75,9 +75,3 @@ Breacher Primus's Core. There is no way to exterminate this life form. One reduc
 ### material: alien_life_core
 
 隙境原体留下的核心。这种生命体并没有彻底消灭的手段，即使只剩下核心也会在翌日，或是数十年后再度复生。所幸似乎没有很强的攻击性与智性，所以枫丹人对其大多采取的是敬而远之的态度。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

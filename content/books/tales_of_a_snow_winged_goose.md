@@ -358,26 +358,3 @@ Later, as all children know, Mr. Fox and the Clockwork Guardsman lived long, lon
 于是，望见未来的发条警卫坦然放弃了死亡。而他的挚友狐狸先生也鬼鬼祟祟地缩回手，放弃了偷窃的念头——「生命不是茶，死亡也不是糖。既然我尚有朋友陪我一起将苦涩饮尽，我又何必如此着急、如此贪婪地求取不属于凡世的宝石呢？」
 
 后来，孩子们都知道，狐狸先生与发条警卫又活了好久好久，活到他们所在的小小世界变得一片荒芜，活到他们的太阳熄灭、月亮陨落…在那之后，他们的故事仍旧无穷无尽，在许许多多世界之间传扬。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

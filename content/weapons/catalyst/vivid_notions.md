@@ -126,14 +126,3 @@ And this prop, with which she had played the "hero" for many years, she handed t
 「暴雨过后会有彩虹升起，但虚假的虹色终究只是水汽中的幻景」
 「无论是英雄，还是扮演英雄的凡人，迟早都要有退场的那一天」
 「这就是摔角的规矩。接下来就让这面具见证你的道途吧，泰卡」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

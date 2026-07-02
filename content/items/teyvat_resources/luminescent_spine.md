@@ -31,9 +31,3 @@ The light-emitting part of a firefly. Used for courtship, and in medicine to hel
 ## ZH
 
 萤火虫发出磷光的部位。 对它而言是求偶的器官，对人则是能强健力量的良药。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

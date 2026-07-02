@@ -131,20 +131,3 @@ Just one mouthful in and I'm gasping for breath. "Why is this so salty?" I gentl
 中原杂碎颇辛咸，吃得我要咧嘴喘。
 「杂碎怎能这么咸？」我把疑问提一遍。
 苏二娘，把脸变：「爱吃不吃，就是这么咸！」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

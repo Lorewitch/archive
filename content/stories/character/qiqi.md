@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/qiqi.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -275,21 +276,3 @@ The mighty and illuminated adepti all acknowledged this as a legitimate form of 
 「如果时间能停留在过去，该有多好…」
 如此想着，泪珠从垂死的女孩眼角滑落，滴在陡然出现的「神之眼」上。
 「三眼五显仙人」们认同了它作为「三眼」的正统性——人对逝去岁月的渴望，亦是一种守护之志。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

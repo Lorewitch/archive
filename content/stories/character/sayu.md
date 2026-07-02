@@ -9,6 +9,7 @@
 # game_version: 2.0
 # icon: assets/icons/stories/character/sayu.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -300,21 +301,3 @@ Regarding her growing taller, it seems that even a Vision is unable to do anythi
 如今，借助「神之眼」的力量，早柚能举起比自己身高还高的双手剑，也不必为乱世中无处不在的争斗感到恐惧。
 只是，她本人最切身的烦恼还未得到解决。
 对于长高这件事，似乎连「神之眼」都无能为力呢。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

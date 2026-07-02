@@ -78,20 +78,3 @@ Speaking of which, why is Mondstadt's Adventurers' Guild still so tiny?
 不知道冒险家协会那边，能不能帮我找到有『神之眼』，又愿意来帮忙的人。
 
 话说回来，蒙德城冒险家协会的规模怎么还是这么小……
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -32,7 +32,3 @@ This mushroom quickly absorbs nutrients through its extended column, and its umb
 拥有一定智能的孢子生物。
 具有强大的环境适应能力。
 通过伸长的菌柱快速吸收养分的蕈兽，伞状的菌盖会随着风的流向移动。
-
-## NOTES
-
-### Общие заметки Лороведьмы

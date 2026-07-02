@@ -31,9 +31,3 @@ Detection units produced by Fontaine Research Institute using new models of arti
 ## ZH
 
 枫丹科学院利用新型奇械构件生产的微型探测单元，原本用以监测各类环境数据。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

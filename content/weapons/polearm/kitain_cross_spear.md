@@ -69,15 +69,3 @@ And having been a demon hunter for so long, it is unavoidable that one might imb
 来形容如同欃枪般，曾经一度照亮大地的耀眼武人。
 其中原本有许多其他名字，但都随着历史被抹去了。
 常年身为樊篱诛杀妖邪者，难免会饮下瘴晦的污血。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 1.2
 # icon: assets/icons/stories/character/albedo.webp
 # tags:
+# character_filters: witchcraft
 
 ## RU
 
@@ -263,21 +264,3 @@ One day, he will understand all there is to know about this world — and Vision
 对阿贝多而言，这一物件只是方便他研究的工具罢了。
 真正让他感到喜悦的，还是将「未知」变为知识。
 总有一天，他会读懂世上一切奥秘与智慧——包括「神之眼」在内。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

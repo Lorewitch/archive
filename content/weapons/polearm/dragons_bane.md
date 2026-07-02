@@ -69,14 +69,3 @@ Freed at last from the shackles of its past, it displayed the full force of its 
 曾有屠龙之士勇壮非凡，秉此枪叱咤大洋，鏖战海中魔物。
 多年以后，屠龙英雄无踪可觅，海上徒然回荡着龙吟之声。
 英雄已然成为了街巷间的传说，灭龙的长枪也随着传说失落，一朝内失去了来自过去的束缚，便如龙归大海一般尽显锋芒。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

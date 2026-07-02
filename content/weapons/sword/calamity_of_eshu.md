@@ -135,14 +135,3 @@ To turn the stacks of woven scroll into a veil, so as to hide a past that should
 用久远的言辞训诫那些轻视未来危险的无脑莽夫。
 自那以后，知悉一切故事的桑哈杰编织弥天大谎，
 让重叠的织卷化作迷障，藏起不应被触碰的过往。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -102,14 +102,3 @@ I will cherish the stories you handed to me, stories of our adventure. Should ca
 就算是再苦涩的故事，其中也有勇气、具有力量。就算故事始终不如「记忆」强大，也有力量。
 
 你交给我的，与我们一同冒险的故事，我会珍惜。当月亮再度异变时，它们就会替你保护森林。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

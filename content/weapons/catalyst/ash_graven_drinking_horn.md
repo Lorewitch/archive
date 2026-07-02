@@ -178,14 +178,3 @@ Above all else, there are two things that must never be forsaken — unity and p
 流泉之上永是歌唱，黄昏之下永是宴席。
 但新生一代的青年，切莫将这告诫忘记：
 唯有团结不可抛舍，唯有约定不可背弃。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

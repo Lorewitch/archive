@@ -9,6 +9,7 @@
 # game_version: 3.6
 # icon: assets/icons/stories/character/kaveh.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -515,21 +516,3 @@ Kaveh stared at it, unable to believe his eyes. It had arrived quite a few years
 碎裂的面饼里面静静躺着一颗璀璨的「神之眼」。
 
 卡维难以置信地看着它。它来晚了好些年，最终降临到他眼前。如此绚烂，犹如天上幻国。好在比起理想，它那么的近。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

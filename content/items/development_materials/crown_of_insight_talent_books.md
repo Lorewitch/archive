@@ -44,9 +44,3 @@ A precious Talent Level-Up material. Once a medium for the storage and transfer 
 ### material: crown_of_insight
 
 提升天赋所需的珍贵素材。 远古时期，承载与传授智识所用的仪式器具。 尽管如今，智慧居于言语及典籍中，但「智识之冕」中残存的力量与智慧仍能给如今的人们带来伟大的突破吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

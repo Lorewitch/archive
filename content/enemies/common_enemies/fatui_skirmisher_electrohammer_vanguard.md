@@ -32,7 +32,3 @@ But at the same time, it also means much time away from home and family and putt
 体格健壮的先遣队士兵，装备了附有雷元素的战锤。
 成为愚人众的军人意味着优渥的资源：军饷、武装与物资。
 但与此同时，也意味着远离故土与亲眷，将余命交给过去不曾谋面的战友。
-
-## NOTES
-
-### Общие заметки Лороведьмы

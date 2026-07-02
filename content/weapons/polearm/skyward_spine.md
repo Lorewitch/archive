@@ -90,14 +90,3 @@ He would again pierce the heavens, scatter the darkness, and sing to the sounds 
 在胜利时分，烈毒的污血却正渗透巨龙齿间，涌入其脏腑之中。
 腐毒痛彻骨髓，风之巨龙蜷缩在悠古的遗迹深处。
 ——舔舐伤疮的特瓦林坚信着，它将再度被唤醒，贯穿高天、逐散阴霾，助唱挚友、风之神的琴声。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

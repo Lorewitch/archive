@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/fischl.webp
 # tags:
+# character_filters: witchcraft
 
 ## RU
 
@@ -323,21 +324,3 @@ They would become the Prinzessin's new friends, though that would happen even fu
 从结果上来看，断罪的父皇与母后，都能见到奥兹，并且认为奥兹就是皇女的第一个朋友。
 而「受累世厄运诅咒的探险家」、「异世界的来访者」，以及「奇怪的小精灵外貌的应急食品」…
 他们成为皇女的新朋友，则是更久以后的事情了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

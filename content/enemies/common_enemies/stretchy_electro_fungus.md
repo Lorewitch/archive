@@ -35,7 +35,3 @@ When in danger, it will release small electric orbs as a form of self-defense.
 具有强大的环境适应能力。
 不同于其他蕈兽，除了菌盖外还长有会发光的触角。
 遇到危险的话会释放出小电球来保护自己。
-
-## NOTES
-
-### Общие заметки Лороведьмы

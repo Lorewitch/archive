@@ -44,7 +44,8 @@ KNOWN_ENEMY_GROUPS = {
 }
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
 KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
-KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo", "witchcraft", "lunar_reactions", "star_blade"}
+KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
+KNOWN_CHARACTER_FILTERS = {"lunar_omen", "witchcraft", "star_blade"}
 
 CSS_MODULES = [
     "00-tokens.css",
@@ -427,6 +428,15 @@ def check_stories(stories: dict[str, dict[str, Any]]) -> None:
             if not elements or unknown_elements:
                 got = ", ".join(unknown_elements or elements) or "пусто"
                 fail(f"{owner}: история персонажа должна иметь element/elements из списка, получено {got}")
+            character_filters_raw = story.get("character_filters", [])
+            if isinstance(character_filters_raw, list):
+                character_filters = [str(value).strip() for value in character_filters_raw if str(value).strip()]
+            else:
+                character_filters = [str(character_filters_raw).strip()] if str(character_filters_raw or "").strip() else []
+            unknown_character_filters = sorted(value for value in character_filters if value not in KNOWN_CHARACTER_FILTERS)
+            if unknown_character_filters:
+                fail(f"{owner}: неизвестный фильтр персонажа {', '.join(unknown_character_filters)}")
+
             rarity = story.get("rarity")
             if str(rarity) not in {"4", "5"}:
                 fail(f"{owner}: история персонажа должна иметь rarity 4 или 5, получено {rarity or 'пусто'}")
@@ -836,9 +846,19 @@ def check_content_structure() -> None:
     if not content_root.exists():
         return
 
+    for path in sorted(content_root.rglob("*.md")):
+        text = path.read_text(encoding="utf-8")
+        if re.search(r"^##\s+(NOTES|INTERNAL)\s*$", text, re.MULTILINE):
+            fail(f"{rel(path)}: служебные блоки NOTES/INTERNAL должны быть удалены из md")
+
     character_story_content_dir = content_root / "stories" / "character"
     if not character_story_content_dir.exists():
         fail("content/stories/character: для историй персонажей должна быть отдельная папка контента")
+    else:
+        for path in sorted(character_story_content_dir.glob("*.md")):
+            text = path.read_text(encoding="utf-8")
+            if not re.search(r"^#\s*character_filters\s*:", text, re.MULTILINE):
+                fail(f"{rel(path)}: в шаблоне персонажа должно быть поле character_filters")
 
     content_items = content_root / "items"
     teapot_dir = content_items / "serenitea_pot"
@@ -980,7 +1000,7 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: истории должны читаться по разделам и в режиме читать всё подряд")
         if "story-element-list" not in text or "element-icon-stack" in text or "element-pill-multi" in text:
             fail("assets/js/archive.js: несколько элементов персонажа должны выводиться отдельными чипами")
-        if "renderTypeFilterRow([...rarityOptions, ...elementOptions]" not in text:
+        if "renderTypeFilterRow([...rarityOptions, ...elementOptions, ...traitOptions]" not in text:
             fail("assets/js/archive.js: иконковые фильтры историй персонажей должны идти в одну строку и начинаться со звёздности")
         if "entryRarityBackgroundClass(item)" not in text or "story-character-entry-icon" not in text:
             fail("assets/js/archive.js: иконки персонажей с редкостью должны быть увеличены и получать фон редкости")
@@ -1016,10 +1036,10 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: полный поиск по историям должен грузиться лениво, а не вместе с каталогом")
         if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
-        if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
+        if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'CHARACTER_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
             fail("assets/js/archive.js: истории персонажей должны иметь фильтры и колонки элемента/редкости")
-        if '${UI_ICON_BASE}/pyro.webp' not in text or 'element:${value}' not in text or 'rarity:5' not in text or 'rarity:4' not in text:
-            fail("assets/js/archive.js: фильтры историй персонажей должны использовать актуальные иконки элементов и редкость")
+        if '${UI_ICON_BASE}/pyro.webp' not in text or 'element:${value}' not in text or 'trait:${value}' not in text or 'rarity:5' not in text or 'rarity:4' not in text or 'Лунное знамение' not in text:
+            fail("assets/js/archive.js: фильтры историй персонажей должны использовать актуальные иконки элементов, дополнительные фильтры и редкость")
         if 'hasChildGroups(config, state.subsection)' not in text or 'parentGroupFor(config, state.subsection)' not in text:
             fail("assets/js/archive.js: вложенные категории Историй должны открываться отдельным уровнем, а не плоским списком")
 

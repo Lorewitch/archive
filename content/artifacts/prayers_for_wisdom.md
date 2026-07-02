@@ -58,21 +58,3 @@ So the chief priest who wore the white-branched crown went forth to appease the 
 为此疑问天空的权威，为此妄图登上诸神的庭园。
 即使许诺了神的爱、繁荣与智慧，天空的使者也为之震怒。
 因为，对永恒的怀疑是不允许的，尘泥之地对天空的试探，绝对不能原谅——头戴白枝祭冠的主祭之人，为了平息御使的怒火，走向了大地的至深之处，寻求古都中银树上掩藏着的智慧…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Заметки пока не заполнены.
-
-### Заметки по частям
-
-#### Корона разума
-
-Заметки пока не заполнены.
-
-## INTERNAL
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# internal_hoyowiki_entry_id: 2089

@@ -95,29 +95,3 @@ But whenever a child asks in earnest exactly how long the Lord of Rock has been 
 但是，当有孩子认真地问起，岩王爷到底在这个世界上度过了多少岁月时，大人们只能这么应付：
 
 「很久…很久…」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -31,9 +31,3 @@ A crop rich in flavor. The fleshy part itself features a unique bitterness and i
 ## ZH
 
 风味浓郁的作物。 果肉本身会有独特的苦涩味，其种子在发酵及烘焙后，可以制成其他的美食。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -75,9 +75,3 @@ A prism that can bend light. In the darkness, these prisms can spread thin light
 ### material: polarizing_prism
 
 能够偏转光线的棱镜。 在黑暗中，棱镜可以将细微的光明散布到更大的范围里。或许也是因为这样的特性，这种棱镜对于内心常常被黑暗笼罩的人，有着令他们稍稍安心的力量。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

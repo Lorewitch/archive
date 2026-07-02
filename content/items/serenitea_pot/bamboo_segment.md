@@ -31,9 +31,3 @@ Segments of bamboo that are light and far stronger than their humble appearance 
 ## ZH
 
 翠竹的竹段，轻巧而结实，远比谦逊的外表坚韧，散发着独特的清幽气息。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

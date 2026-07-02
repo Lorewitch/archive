@@ -51,14 +51,3 @@ His dream of flight came to an end, but his sword and story would never fade...
 他这么想道——在壮绝的孤云阁，公子迎来了壮绝的结局。
 飞天之旅终于告终，但他的剑与故事永远流传……
 ？
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

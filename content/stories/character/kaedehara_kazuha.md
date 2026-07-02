@@ -9,6 +9,7 @@
 # game_version: 1.6
 # icon: assets/icons/stories/character/kaedehara_kazuha.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -263,21 +264,3 @@ The next day, he awoke to the sound of birds... and a shining Vision lying upon 
 手中有刀，心中有道，他便能一路歌咏前行，再多崎岖也无畏惧。
 如此重整心情的他，带着满足沉沉睡去。
 翌日，万叶被鸟鸣唤醒时，怀中多出了一枚莹亮的神之眼。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

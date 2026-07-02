@@ -41,14 +41,3 @@ It is the pure heart of the wandering exorcist that is the true bane of evil.
 
 ### 故事
 与民间信仰相悖，银其实不具有退魔的功效。心无杂念的执剑旅人，才是斩妖除魔的关键。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

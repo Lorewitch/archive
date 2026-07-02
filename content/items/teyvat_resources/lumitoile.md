@@ -31,9 +31,3 @@ A soft-bodied animal that emits a gentle light. Often found climbing the walls o
 ## ZH
 
 在水中会发出柔浅微光的软体动物。 大多攀附在水边或水下的人造建筑表面。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

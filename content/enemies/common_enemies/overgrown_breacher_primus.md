@@ -32,7 +32,3 @@ Records from the time show instances of Breacher Primuses both attacking and pro
 主要出现在厄里那斯的奇异生命体。
 在枫丹，最早观测到隙境原体是在灾难过后不久。
 当时同时留下了隙境原体攻击人与保护人的记录。
-
-## NOTES
-
-### Общие заметки Лороведьмы

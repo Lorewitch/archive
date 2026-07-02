@@ -31,9 +31,3 @@ This iron chunk can be turned into a multitude of handy items in the hands of a 
 ## ZH
 
 铁的矿石，在拥有相应技能的工匠手中能绽放光采吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

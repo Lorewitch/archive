@@ -40,7 +40,3 @@ and the greatest among these Warriors can even use this skill to sail on land.
 据说要熟练掌握这样的技巧需要三个阶段的修炼：首先适应，其次依从，最后驱使。
 掌握这样的运力之法只是成为「流泉之众」
 龙冠武士的入门要求，而龙冠武士中的高手甚至可以短暂借此施行陆上行舟的法门。
-
-## NOTES
-
-### Общие заметки Лороведьмы

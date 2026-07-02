@@ -88,14 +88,3 @@ The silver moon of Watatsumi shall still pierce through the clouds and scatter f
 将丧失的痛楚送给静静翻腾的咸水，将耀眼的明珠就此珍藏。
 让神代的事话与牺牲，与「真珠海波」的纹样永远流传下去。
 即使雷云日渐集聚，紫电之威凶险难测，海祇的月华也将透过云霭，播撒皓光吧。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

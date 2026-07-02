@@ -32,7 +32,3 @@ Given the time to grow, it will one day be able to roam freely across the fertil
 年幼的突角龙，因无法完全掌控身躯的力量而有些笨拙。
 第二对副角并未生长完全，背部与腹部的力量也没有到能够摧毁挡路岩石的程度。
 但只要能够茁壮成长，总有能够在沃土平原之上自由驰骋的时刻吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы

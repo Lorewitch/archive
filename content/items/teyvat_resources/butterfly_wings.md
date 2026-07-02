@@ -31,9 +31,3 @@ Brightly colored wings. The powder that falls from them shimmers a little. Perha
 ## ZH
 
 色彩靓丽的翅膀。 散落的鳞粉微微地发着光，或许是让蝴蝶能轻快飞翔的成分。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

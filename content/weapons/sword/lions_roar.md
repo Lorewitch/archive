@@ -82,14 +82,3 @@ For the sharp blade seeks only to bathe in the blood of its victims, and no shea
 锋刃犹在，刀鞘却化作了传说。
 锋利的刀永远渴求连天的血光。
 再好的匣也无法拘束它。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

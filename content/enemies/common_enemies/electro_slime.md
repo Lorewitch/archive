@@ -33,7 +33,3 @@ In areas brimming over with Electro, their unusual movements can be observed and
 逸散在自然之中的雷元素凝聚形成的小小魔物，能够放出微弱的电力。
 根据分析，雷史莱姆蹦蹦跳跳的运动方式能反映地面上的电势差。
 在雷元素极其丰沛的地方，可以通过观察雷史莱姆的异常运动，避开危险。
-
-## NOTES
-
-### Общие заметки Лороведьмы

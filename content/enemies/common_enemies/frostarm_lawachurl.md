@@ -28,8 +28,3 @@ This huge hilichurl is referred to as a "lawa" by its brethren. Its body, honed 
 
 雪雾中漫行的神秘「王者」。
 被同胞称为「Lawa」的庞大丘丘人。锻炼至极致的肉身似乎已和环境中满溢的冰元素相互融合，沉默威严有如北国的冰川。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

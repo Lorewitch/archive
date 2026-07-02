@@ -29,7 +29,3 @@ Due to the fact that the desired metal type can be set, this device has proven v
 
 以探测地下资源及特定矿物为目的，设计制造的发条机关。
 因为能够设置搜寻的金属类型，所以也很受盗宝团与冒险家的欢迎。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -34,7 +34,3 @@ one that shares a similar composition to a certain type of smelting material fro
 因为啃噬伟大的生命体，而扭曲异变的爬行动物。
 即使获得了操使元素的异能，圣骸兽自身无法将体内不朽的亡骸彻底消化。
 其中的力量与动物本身融合，长出的骨质甲壳据说在成分上与主要产自稻妻的冶炼材料有相近之处。
-
-## NOTES
-
-### Общие заметки Лороведьмы

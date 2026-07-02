@@ -40,14 +40,3 @@ With the spaces between words, it records a student's striving.
 
 ### 故事
 用字句记录了学习、实验笔记与咒语，用字句之间的空白记录了学徒的努力。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

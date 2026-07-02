@@ -75,9 +75,3 @@ An obsidian talisman that houses a Wayob Manifestation. It consists of a jade id
 ### material: sigil_of_a_striding_will
 
 大灵显化身寄宿的黑曜石符像。 环绕黑曜石的玉偶雕像，据说从前的人经常用这样的雕像，尝试与夜神国度中的「大灵」进行沟通，或许这也是「大灵」能够凭依在其上，并显化出形体的缘由吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

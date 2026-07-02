@@ -31,9 +31,3 @@ Flowers from vines that grow on cliff sides. It is called a lotus only because i
 ## ZH
 
 生长在山崖峭壁之上的攀援植物开出的花朵。 被称为莲只是因为外形相似，本身和莲花并没有什么关系。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

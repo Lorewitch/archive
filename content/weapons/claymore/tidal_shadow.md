@@ -179,14 +179,3 @@ It was only after that she smiled and called out, as performed in the opera hous
 「小子们、姑娘们！看样子没有我你们真的不行啊，但叙旧的话晚点再说！」
 
 「让我们先把那个不知天高地厚的大块头，轰到大瀑布下边去！」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

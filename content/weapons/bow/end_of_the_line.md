@@ -81,14 +81,3 @@ As long as you are pious and kind, you can get a fish even in the midst of the d
 这个故事告诉我们的道理是：
 
 只要虔心向善，即使是在沙海中央也能得到鱼。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

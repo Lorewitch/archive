@@ -107,20 +107,3 @@ Just as it did when Rex Lapis made his solemn oath before the people.
 如今乡野间仍有传说，日后它的真正主人将重现人间。
 那时这柄长刀将再次放射金光，斩断世上最大的不公…
 正如数千年前，岩王在民众面前立下的宏伟誓约那样。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

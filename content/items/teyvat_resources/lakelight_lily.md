@@ -31,9 +31,3 @@ A clear and clean azure flower, it is born where Water Veins come together. It h
 ## ZH
 
 明澈而澄净的苍色花卉。 生于水脉汇聚之处，其香清冷淡雅，辛凉柔婉。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

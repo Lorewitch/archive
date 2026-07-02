@@ -31,9 +31,3 @@ Wood from the Otogi Tree. It has just the right amount of moisture and oil, and 
 ## ZH
 
 「御伽树」出产的木材，水分和油脂的含量恰到好处，因此有着各种用途。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

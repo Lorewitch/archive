@@ -9,6 +9,7 @@
 # game_version: 2.4
 # icon: assets/icons/stories/character/shenhe.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -287,21 +288,3 @@ In the past, it had guided Shenhe from her miserable fate. In the future, it wou
 一颗晶亮的事物落到申鹤的手中。天平完全倒向申鹤，胜负终定。
 剔透莹亮的冰之光芒刺破黑暗，如同霞光，预示着未来的路。
 从前，它指引申鹤走出苦难的命运，未来，它也将指引申鹤重返尘世。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

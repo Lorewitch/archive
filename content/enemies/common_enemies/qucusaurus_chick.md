@@ -36,7 +36,3 @@ there can be no doubt that the soft-feathered fledgling will eventually grow str
 脖颈与羽翼尚未完全生长开，对气态燃素的运用也十分生疏。
 也有年长的绒翼龙为促进幼龙的飞行而将它们推下山崖的逸话。
 虽然不知传言的真假，不过只要经历夜以继日的锻炼，稚嫩的翎羽总会有逐渐变得坚硬的一天。
-
-## NOTES
-
-### Общие заметки Лороведьмы

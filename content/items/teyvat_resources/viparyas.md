@@ -31,9 +31,3 @@ A flower without seeds. Once the earth remembers, the Viparyas will bloom.
 ## ZH
 
 没有种子的花卉。 只要大地重新记起，毗波耶就会绽放。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

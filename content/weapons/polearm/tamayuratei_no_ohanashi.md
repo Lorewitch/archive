@@ -120,14 +120,3 @@ Allowing it to recall, if but momentarily, a past it can never reclaim.
 唯有在众人云集，谈天说地时才会出现。
 或许那述说者一一讲述幻梦奇谭的氛围，
 能让其稍稍想起，再无法复归的过往吧。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

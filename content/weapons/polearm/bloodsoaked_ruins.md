@@ -97,14 +97,3 @@ The Torchforger, bathed in the moon's eternal light, lit the everlasting flame a
 那个为悲伤所浸满的漫长雪夜。断头台上故友的话语在他的耳边回荡，
 月下世界被悲剧的命运所桎梏，找不到归途的人们在他们的故乡流浪。
 沐浴着永夜到来时洒下的月光，铸灯者挑起不熄的灯开始了他的守望。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

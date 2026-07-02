@@ -75,14 +75,3 @@ With a thousand Lithic Spears lined up in formation, no evil could prevail again
 千岩军为格外强壮的士兵配发了古代战争中留下的，极为沉重的千岩长枪，作为挖掘工具，以搜救伤员。
 「千岩长枪之利，能轻易贯通岩石」「若再有千人偕阵，可一往而无前」然而在更早以前的过去，在更为动荡的战争时代中，千岩军中的每个人，都有操使这种沉重兵器的本领。
 如此，才能守护岩王帝君的国土，守卫自己的家园，千人偕阵，凭千岩长枪之利，靖妖闲邪，一往无前。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -75,14 +75,3 @@ And yet, as the snow slowly melted and Mondstadt began to take shape, gradually 
 无论来者是魔物也好，贼匪也好，不论自己是否能回到恋人的臂弯里，只要浴血奋战，在厮杀中高声咆哮，职责便完成了。
 如此惘然的血脉，本应无法在历史中长久延续，因为他们的战斗没有终结，也没有胜利的希望。
 但随着冰雪消融、蒙德建立，他们最终有了值得守护的对象。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

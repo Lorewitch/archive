@@ -32,7 +32,3 @@ In practice, they tend to adopt more efficient methods of supporting their allie
 隶属于愚人众特辖队的士兵，装备了杖形器械，负责为战友提供应急医疗支援。
 事实上，疗愈师大多只受过速成培训，医疗援助能力十分有限。
 因此，他们更多时候会选择更高效的支援方式——与其他兵种混编，一同发起冲锋。
-
-## NOTES
-
-### Общие заметки Лороведьмы

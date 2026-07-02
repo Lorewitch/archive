@@ -627,29 +627,3 @@ The young noble could not help but smile and indeed had never seemed happier sin
 贵公子不禁莞尔，似乎从进店起他从来没有笑得如此开心。
 
 「正如你的故事，什么玉牌是古代货币之事，也是我随口胡诌的。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

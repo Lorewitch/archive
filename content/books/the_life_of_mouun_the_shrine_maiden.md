@@ -62,20 +62,3 @@ Mouun made to retreat when she heard that Omikami and Touzannou had been slain t
 
 后来，「大检校」与它的海兽仆从们就这样随曚云姐妹为大御神尽忠血战，直至无奈的终焉来临…
 得知大御神与「东山王」一同战殁的消息后，曚云巫女在撤退途中为天狗笹百合的旧部所伏击，终于同巨鲸「大检校」一并战死，遗体为幕府军所获。其妹「海御前」菖蒲，则在力战之后消失在腥红的大海之中，不知所向。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -90,14 +90,3 @@ It was time to fulfill his oath to the heavenly city...
 「大日之塔当听闻尔等之决议，自行崩毁，湮灭往昔之一切。」
 蛇神说完了最后的话语，然后它带着剩下的人民一同前去了海面。
 是时候履行它与天上之都的誓言了…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

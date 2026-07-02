@@ -41,7 +41,3 @@ Once these weapons awaken, they can only be silenced by the cries of the vanquis
 使用的武器中封印着残破的厄灵，会在危急时苏醒。
 只有战败者的哀嚎才能平息他们的愤怒。
 ——不论败者是武器的主人，抑或是敌人。
-
-## NOTES
-
-### Общие заметки Лороведьмы

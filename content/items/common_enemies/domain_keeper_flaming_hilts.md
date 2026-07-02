@@ -75,9 +75,3 @@ The hilt remains of a flaming sword once wielded by a Domain Keeper. A sword of 
 ### material: jeweled_flaming_hilt
 
 辖域守护者所持的焰剑熄灭后遗留下的剑柄。 发火焰的宝剑是戒谕的象征，依仗「空」之权柄，宣告了绝对且无谬的神意。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

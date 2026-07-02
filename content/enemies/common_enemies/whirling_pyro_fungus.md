@@ -33,7 +33,3 @@ and thus are considered a dangerous invasive species to the forest.
 拥有一定智能的孢子生物。
 具有强大的环境适应能力。
 因为含有富集的火元素，在干燥的季节容易引发林火，对森林来说是非常危险的入侵物种。
-
-## NOTES
-
-### Общие заметки Лороведьмы

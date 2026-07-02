@@ -36,7 +36,3 @@ This researcher would become a little-known writer of fairy tales.
 非常相似。
 他在一番考据后得出结论，所谓的兰那罗其实就是漂浮灵。
 后来这位研究员成为了籍籍无名的童话作家。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -31,7 +31,3 @@ Similarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages ta
 会利用飞萤喜爱「雾虚草」
 的特性，操控它们为自己而战。
 正如雾虚草的气味会令雷萤迷醉，嗜虐的术士也贪恋着戏弄对手的快感。
-
-## NOTES
-
-### Общие заметки Лороведьмы

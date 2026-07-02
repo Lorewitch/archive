@@ -80,9 +80,3 @@ Talent Level-Up material. "Vagrancy" is the living of the land beneath the moon.
 ### material: philosophies_of_vagrancy
 
 天赋培养素材。 「浪迹」是月下之地的生活。 穿越雷霆与风暴，跨过山峦和雪原，即便遍体鳞伤，也绝不就此驻足。 浪迹之人之所以还没有停下脚步，是因为他们还没有找到可以称之为「家」的地方。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

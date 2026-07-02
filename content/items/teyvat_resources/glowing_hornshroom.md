@@ -31,9 +31,3 @@ A fungus that emits a faint light in the darkness. It is so named because its sh
 ## ZH
 
 在黑暗中微微发出光芒的菌类，因为形似暝视龙的角冠而被称为角菌。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -31,9 +31,3 @@ A Dragontooth infused with power. Its luster and texture appear to have been som
 ## ZH
 
 汲取了生命力的龙牙。 无论是光泽还是质感，都愈加让人不安…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

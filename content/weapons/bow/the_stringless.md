@@ -85,14 +85,3 @@ The only thing he regretted was finally discovering true love, only to never hav
 据说他爱上了蒙德的一位平民女子，她却被选为羽球节的悲惨公主。
 据说他并不为自己无名屈死于他乡异国的命运懊悔。
 他遗憾的只有自己终于发现了爱情，却再也没有机会唱出恋歌一事…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -232,23 +232,3 @@ Domu upa
 Gusha dada
 
 似乎许多丘丘人部落都会有在月光下围着篝火交换歌谣的传统。本诗就是其中一首篝火歌谣，是由丘丘人酋长歌咏的终曲。这首诗结束后，部落长老会高呼三遍「nunu！」大概是「睡觉！」的意思。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -105,14 +105,3 @@ That is another story altogether, completely unrelated to Maghan the dragon slay
 「旧日的盟约将破碎，新的盟约将由你立定，你将为它们带去真正的和平」
 「直至再度相逢之日，我最忠诚的侍仆丁加，命定为王的屠龙者马古汉啊」
 「这是我最后的命令，只属于我一人的英雄，让米克特兰之名延续千年吧」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

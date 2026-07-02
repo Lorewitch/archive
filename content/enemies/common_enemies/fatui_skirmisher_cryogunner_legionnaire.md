@@ -32,7 +32,3 @@ Though this may confer elemental power beyond the ken of ordinary humans, that p
 愚人众战争机器中的士兵。
 配备着能在一定程度上制御元素的装备，可以利用铳形的武器喷射急冻的寒霜。
 虽然拥有常人不能企及的元素力量，但这种力量或许也是有其代价的吧…
-
-## NOTES
-
-### Общие заметки Лороведьмы

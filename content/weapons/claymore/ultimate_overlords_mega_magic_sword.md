@@ -160,14 +160,3 @@ After some discussion, the Melusines reached a consensus. This, the mightiest sw
 她们找来大贝壳给她当作盾牌，用水草替代月桂编成头冠，拿厄里那斯内部破碎的船帆做成披风，最后用难得干燥的纸板做成了宝剑。
 就这样，勇者美露莘踏上了打败螃蟹魔王的征程，凭借究极无敌的魔剑，打败了横行霸道的蟹皇陛下，不再是担任魔王陛下的螃蟹先生从此也就成为了美露莘们的好朋友…
 经过短暂的商议，各位美露莘一致决定，将这柄曾经在过去的映影中大放异彩的，海沫村最强大的剑送给究极无敌的勇者，作为友谊的纪念。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

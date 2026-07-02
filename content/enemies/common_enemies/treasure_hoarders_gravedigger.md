@@ -39,7 +39,3 @@ What a noble endeavor, am I right?"—A certain Treasure Hoarder Gravedigger, wh
 」
 ——某名盗宝团的「掘墓者」
 在挖掘遗迹中的财宝时说的话
-
-## NOTES
-
-### Общие заметки Лороведьмы

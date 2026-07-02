@@ -143,14 +143,3 @@ But in the end, they would leave the lips of men, for in the time after the dark
 「你可曾听见少女在顺风低唱：永别、永别了」
 「朝阳吻去了我的泪水，告诉我黎明已经破晓」
 「我的爱人，黎明已经破晓」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

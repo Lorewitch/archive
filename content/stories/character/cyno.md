@@ -9,6 +9,7 @@
 # game_version: 3.1
 # icon: assets/icons/stories/character/cyno.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -433,21 +434,3 @@ He was about to be entrusted with the sacred power to judge those who had erred,
 如果一切顺利的话，在半个小时后，他就将成为教令院新任的「大风纪官」。
 
 他即将被赋予神圣的裁决之权，而这枚「神之眼」则将确保这神圣的权力得以顺利践行。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

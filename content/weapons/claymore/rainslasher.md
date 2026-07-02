@@ -93,14 +93,3 @@ One to whom Guhua had shown kindness founded what is now known as the Guhua Scho
 据称，在古华行侠之旅的最末，在华光紫气当中，他化作星宿。
 
 曾蒙古华之恩的人以其之名创立了门派。但派阀最终总会没落。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

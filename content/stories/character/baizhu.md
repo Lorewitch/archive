@@ -9,6 +9,7 @@
 # game_version: 3.6
 # icon: assets/icons/stories/character/baizhu.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -509,21 +510,3 @@ The Vision was like the gaze of a god who had witness to everything, but it was 
 此刻首先映入他竖瞳的，是一枚「神之眼」。萤火一般，悄然出现在墓碑上。
 
 仿佛神明的视线，见证了一切；又如师父的目光，温柔的期许。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

@@ -36,6 +36,7 @@
     "cryo"
   ],
   "element": "cryo",
+  "character_filters": [],
   "parts": [
     {
       "number": 1,

@@ -79,14 +79,3 @@ Over the years, the wild Glaze Lilies, too, dwindled till at last they were no m
 「看来还是无法和你一同走下去了。
 那把锁的事情，忘了它吧」「这是盟约的信物，也是我对你的挑战」「我的一切智慧，都藏在这把石锁之中」「如果能解开它的话——」许多年，他都没能解开这把锁，也不知道那句话的下文。
 随着岁月变迁，如今野生的琉璃百合也几乎不见踪迹了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

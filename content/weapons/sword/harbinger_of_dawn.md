@@ -51,15 +51,3 @@ Arrows rained down upon him.
 这把剑拥有一个更响亮的全名：「斩开黎明指向胜利的拂晓神剑」。
 但在战场上，仅有一人因它倒下：是夜，他拔出宝剑高喊胜利之名，刹时漆黑的夜幕被映得明如白昼。
 因为闪亮，此公成了显眼的目标，如金属引雷般招来了如雨的箭矢。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

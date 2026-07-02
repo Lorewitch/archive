@@ -75,9 +75,3 @@ A huge lump of spore powder collected from a structurally complete spore cyst. P
 ### material: crystalline_cyst_dust
 
 从完整的孢子囊中精心收集的大团孢子粉末，想必在合适的环境条件下，将会孕育出一个颇有规模的蕈兽群落吧…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

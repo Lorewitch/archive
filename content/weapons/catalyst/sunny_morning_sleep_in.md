@@ -202,14 +202,3 @@ Perhaps all the ups and downs had been naught but a fleeting bathhouse dream, he
 
 恍惚着回过神来，慧黠的少年依旧在插科打诨，戏谑的笑意如往常般恼人。
 也许浮沉终究不过是钱汤一梦，而所谓的醒转，亦不过是初晴慵暖的一眠。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

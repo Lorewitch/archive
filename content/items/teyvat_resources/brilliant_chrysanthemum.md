@@ -31,9 +31,3 @@ A flower with a shape like floating wings. Its petals sway in an unbelievably re
 ## ZH
 
 形如飘然羽翼的花，花瓣的姿态在风中无比悠然。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -31,9 +31,3 @@ A translucent white flower that only grows on the highest stone peaks. It eschew
 ## ZH
 
 只生长在孤高石峰的通透白花。 不愿接受平原的温暖与湿润，宁可在清冷的尖峰眺望远方。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

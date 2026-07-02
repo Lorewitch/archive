@@ -139,14 +139,3 @@ However, the end of that pursuit was most unexpected, and had nothing to do with
 「大师。这已经是第二个了，接下来恐怕…」
 
 「我知道。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

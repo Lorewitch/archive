@@ -73,14 +73,3 @@ Nevertheless, there are still those who work tirelessly to maintain the dignity 
 在那之后，这支部队就名存实亡了。
 但编制留存至今。
 如今仍有人为了不辱没侦察骑士之名，而不懈努力着。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -143,20 +143,3 @@ The mountains stand silent, while the cold moon hanging over the harbor city hol
 直到妖氛殄灭，天下乂安，昔日善战的部民也成了盛露厅中锱铢必较的商人。
 如今，只有在他们兜售以晶砂烧制的精美瓷器时，才会说起古时不经的逸话。
 群山不言，唯有高悬港城之上的冷月，依旧如千百年前般映照着每一条河川。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

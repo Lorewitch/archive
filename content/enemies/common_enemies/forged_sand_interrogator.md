@@ -32,7 +32,3 @@ When not using her weapon to fight, she instead often smashes open rocks in sear
 来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。
 手持球首棒的部族战士，其敲击能让一切坚石化为齑粉。
 在不进行战斗的时候，她经常用武器敲碎山岩，以寻找宝石和燃素晶块的踪迹。
-
-## NOTES
-
-### Общие заметки Лороведьмы

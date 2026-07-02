@@ -36,7 +36,3 @@ When they do battle, the fight usually ends within an instant— and they are al
 部族的成员对于火焰与燃烧的利用仍然别具一格。
 对于使用重锤的部族武士来说，火焰是冲撞与迸发，是激昂与热烈。
 对于他们来说，战斗往往在瞬息之间就将迎来结果，而他们总是获得胜利的一方。
-
-## NOTES
-
-### Общие заметки Лороведьмы

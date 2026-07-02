@@ -157,20 +157,3 @@ Regardless, Prince Faramarz's name vanished within the rainforest henceforth, re
 又有孩童的梦呓称他从此忘记了故乡的名字，也忘记了称王的梦想。
 
 从此以后，王子法拉玛兹之名消堙在雨林之中，随风沙回归了大漠。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

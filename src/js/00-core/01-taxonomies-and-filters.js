@@ -19,7 +19,7 @@ const ICON_COLORS = {
   cryo: "#83d6e8",
   geo: "#d2a23a",
   witchcraft: "#d690d6",
-  lunar_reactions: "#72c7dc",
+  lunar_omen: "#72c7dc",
   star_blade: "#d7b35a",
   sword: "#34362d",
   claymore: "#34362d",
@@ -108,11 +108,14 @@ const ELEMENT_FILTERS = [
   ["dendro", "Дендро", `${UI_ICON_BASE}/dendro.webp`, ICON_COLORS.dendro],
   ["cryo", "Крио", `${UI_ICON_BASE}/cryo.webp`, ICON_COLORS.cryo],
   ["geo", "Гео", `${UI_ICON_BASE}/geo.webp`, ICON_COLORS.geo],
-  ["witchcraft", "Ведьмовство", `${UI_ICON_BASE}/witchcraft.webp`, ICON_COLORS.witchcraft],
-  ["lunar_reactions", "Лунные реакции", `${UI_ICON_BASE}/lunar_reactions.webp`, ICON_COLORS.lunar_reactions],
-  ["star_blade", "Звёздный клин", `${UI_ICON_BASE}/star_blade.webp`, ICON_COLORS.star_blade],
 ];
 const ELEMENT_ORDER = ELEMENT_FILTERS.map(([value]) => value);
+
+const CHARACTER_FILTERS = [
+  ["lunar_omen", "Лунное знамение", `${UI_ICON_BASE}/lunar_reactions.webp`, ICON_COLORS.lunar_omen],
+  ["witchcraft", "Ведьмовство", `${UI_ICON_BASE}/witchcraft.webp`, ICON_COLORS.witchcraft],
+  ["star_blade", "Звёздный клин", `${UI_ICON_BASE}/star_blade.webp`, ICON_COLORS.star_blade],
+];
 const ALL_ELEMENT_ALIASES = new Set([
   "all", "all_elements", "all_element", "traveler", "aether", "lumine",
   "все", "все_элементы", "все_элементы_путешественника", "путешественник"
@@ -120,10 +123,12 @@ const ALL_ELEMENT_ALIASES = new Set([
 
 const STORY_CHARACTER_TYPE_FILTERS = [
   ...ELEMENT_FILTERS.map(([value, label, icon, color]) => ({ value: `element:${value}`, label, icon, color, group: "element" })),
+  ...CHARACTER_FILTERS.map(([value, label, icon, color]) => ({ value: `trait:${value}`, label, icon, color, group: "trait" })),
   ...RARITY_FILTERS.filter(option => option.value === "rarity:5" || option.value === "rarity:4"),
 ];
 
 const ELEMENT_LABELS = Object.fromEntries(ELEMENT_FILTERS.map(([value, label, icon, color]) => [value, { label, icon, color }]));
+const CHARACTER_FILTER_LABELS = Object.fromEntries(CHARACTER_FILTERS.map(([value, label, icon, color]) => [value, { label, icon, color }]));
 const ELEMENT_ALIASES = {
   pyro: "pyro", пиро: "pyro",
   hydro: "hydro", гидро: "hydro",
@@ -132,9 +137,21 @@ const ELEMENT_ALIASES = {
   dendro: "dendro", дендро: "dendro",
   cryo: "cryo", крио: "cryo",
   geo: "geo", гео: "geo",
-  witchcraft: "witchcraft", ведьмовство: "witchcraft", магия: "witchcraft",
-  lunar_reactions: "lunar_reactions", лунные: "lunar_reactions", лунные_реакции: "lunar_reactions",
-  star_blade: "star_blade", звездный_клин: "star_blade", звёздный_клин: "star_blade",
+};
+const CHARACTER_FILTER_ALIASES = {
+  lunar_omen: "lunar_omen",
+  лунное_знамение: "lunar_omen",
+  лунные_знамения: "lunar_omen",
+  лунные: "lunar_omen",
+  lunar_reactions: "lunar_omen",
+  лунные_реакции: "lunar_omen",
+  witchcraft: "witchcraft",
+  ведьмовство: "witchcraft",
+  ведьмоство: "witchcraft",
+  магия: "witchcraft",
+  star_blade: "star_blade",
+  звездный_клин: "star_blade",
+  звёздный_клин: "star_blade",
 };
 
 const ENEMY_DROP_GROUPS = ["weekly_bosses", "world_bosses", "common_enemies"];
@@ -318,6 +335,34 @@ function storyElementValues(item) {
     .filter((value, index, list) => ELEMENT_LABELS[value] && list.indexOf(value) === index);
 }
 
+function normalizeCharacterFilter(value) {
+  const key = String(value || "")
+    .trim()
+    .toLowerCase()
+    .replace(/ё/g, "е")
+    .replace(/[^a-zа-я0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+  return CHARACTER_FILTER_ALIASES[key] || key;
+}
+
+function storyCharacterFilterValues(item) {
+  const fromArray = Array.isArray(item?.character_filters) ? item.character_filters : [];
+  const result = [];
+
+  for (const value of fromArray) {
+    const normalized = normalizeCharacterFilter(value);
+    if (CHARACTER_FILTER_LABELS[normalized] && !result.includes(normalized)) result.push(normalized);
+  }
+
+  if (result.length) return result;
+
+  const raw = item?.character_filter || item?.trait || item?.traits || "";
+  return String(raw)
+    .split(/[,;/|+]+/)
+    .map(part => normalizeCharacterFilter(part))
+    .filter((value, index, list) => CHARACTER_FILTER_LABELS[value] && list.indexOf(value) === index);
+}
+
 function storyElementTitle(value) {
   const key = normalizeStoryElement(value);
   return ELEMENT_LABELS[key]?.label || String(value || "—");
@@ -332,14 +377,19 @@ function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
   const selectedElements = ELEMENT_FILTERS
     .map(([value]) => value)
     .filter(value => activeTypeSet.has(`element:${value}`));
+  const selectedTraits = CHARACTER_FILTERS
+    .map(([value]) => value)
+    .filter(value => activeTypeSet.has(`trait:${value}`));
   const selectedRarities = ["5", "4"].filter(value => activeTypeSet.has(`rarity:${value}`));
-  if (!selectedElements.length && !selectedRarities.length) return true;
+  if (!selectedElements.length && !selectedTraits.length && !selectedRarities.length) return true;
 
   const itemElements = storyElementValues(item);
+  const itemTraits = storyCharacterFilterValues(item);
   const itemRarity = String(item?.rarity || "").trim();
   const elementOk = !selectedElements.length || itemElements.some(element => selectedElements.includes(element));
+  const traitOk = !selectedTraits.length || itemTraits.some(trait => selectedTraits.includes(trait));
   const rarityOk = !selectedRarities.length || selectedRarities.includes(itemRarity);
-  return elementOk && rarityOk;
+  return elementOk && traitOk && rarityOk;
 }
 
 function itemTypeFilterValue(item, config = getSectionConfig()) {
@@ -419,8 +469,9 @@ function renderTypeFilters(config) {
 
   if (isCharacterStoriesCatalog(config)) {
     const elementOptions = options.filter(option => typeFilterOptionGroup(option) === "element");
+    const traitOptions = options.filter(option => typeFilterOptionGroup(option) === "trait");
     const rarityOptions = options.filter(option => typeFilterOptionGroup(option) === "rarity");
-    return renderTypeFilterRow([...rarityOptions, ...elementOptions], activeTypes, { scope: "character-stories", showToggle: false });
+    return renderTypeFilterRow([...rarityOptions, ...elementOptions, ...traitOptions], activeTypes, { scope: "character-stories", showToggle: false });
   }
 
   return renderTypeFilterRow(options, activeTypes);

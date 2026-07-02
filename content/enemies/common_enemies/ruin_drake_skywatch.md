@@ -40,7 +40,3 @@ How, you wonder, did a civilization that could make such frightening machines of
 较之真正的龙蜥,具有更强的「吸收」，抑或是说「反制」
 元素的能力。
 从这种能力来看，创造出这样可怕兵器的文明曾经有过相当宏大的野心吧…
-
-## NOTES
-
-### Общие заметки Лороведьмы

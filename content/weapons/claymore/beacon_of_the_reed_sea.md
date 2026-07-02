@@ -157,14 +157,3 @@ In the name of the Reed Sea that never existed, they connected with the dream th
 失去了沙之梦，又不愿放弃沙海的人们聚集于此。
 
 以从未存在的苇海为名，与曾经应许的梦相回响…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 2.3
 # icon: assets/icons/stories/character/gorou.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -231,21 +232,3 @@ Thinking back on it, this may have opened the door for Gorou to obtain his Visio
 一支队伍只有做到集体强大，才能在战场上无往不利。
 意识到这一点的五郎不再追求极致的弓术，而是把精力投给身边人，关注同伴各方面状态，帮助大家一起进步。
 ——现在想来，这或许也是五郎获得神之眼的契机。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

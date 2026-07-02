@@ -31,9 +31,3 @@ Wood from the Cedar tree. Also known as the "Fragrant Cedar" for the aromatic oi
 ## ZH
 
 产自「苍柏」的木材，因其富含油脂，香气别致，有着「垂香木」的别称。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

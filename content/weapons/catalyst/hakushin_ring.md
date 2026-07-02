@@ -169,14 +169,3 @@ Everything, all of this — they are all things that I yearn for.
 「如果您能看见我所珍重之物，」「那么就请您饶恕那些生灵吧。」
 「如果您恩准我提出一个愿望，」「就请您将我永远明亮的记忆，」「归还给我热爱的这片土地吧。」
 「希望以此，在您的肆虐之后，」「仍然有美好的东西能留下来…」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

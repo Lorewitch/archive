@@ -467,26 +467,3 @@ When the candles were lit again, the man was gone, but he had left his musket be
 还没等老板说完话，一道惊雷在酒馆外落下。呼啸的狂风刮开木门，黑夜如海水般灌进酒馆，淹没了众人。
 等到酒馆的烛火重新被点亮，面前的男人已经消失不见，只有他那把漆黑的铳枪留了下来，宛如一个肃穆的死神，寂静地注视着众人，注视着这份属于它的黑夜…
 ——《两个铳枪手》，完。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

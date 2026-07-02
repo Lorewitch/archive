@@ -136,20 +136,3 @@ And may these words by fire's light His Majesty's heart please.
 诸夜叉者，不知终焉。
 以此牺牲，慰诸亡魂。
 以此灯火，祭告帝君。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

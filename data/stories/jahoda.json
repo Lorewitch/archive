@@ -36,6 +36,9 @@
     "anemo"
   ],
   "element": "anemo",
+  "character_filters": [
+    "lunar_omen"
+  ],
   "parts": [
     {
       "number": 1,

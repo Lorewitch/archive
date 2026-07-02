@@ -37,7 +37,3 @@ This creature has a position of command amongst colonies of fungal beasts and ex
 受到岩元素的影响，部分组织似乎已经完全角质化了。
 考虑到蕈类本就是从孢子进化而来，假以时日，或许可以以此为基础发展出另一种全新的生命形态。
 在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。
-
-## NOTES
-
-### Общие заметки Лороведьмы

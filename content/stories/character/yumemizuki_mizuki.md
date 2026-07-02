@@ -9,6 +9,7 @@
 # game_version: 5.4
 # icon: assets/icons/stories/character/yumemizuki_mizuki.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -561,21 +562,3 @@ She believed that all the good and beauty that people cherished deep inside them
 此后，瑞希似乎得到了启发，换了个思路。
 她要将人们引向松弛与舒然的梦，唤起人们心中对宝贵事物的回忆。
 相信人们心底珍藏的美好，必定会在关键的时刻苏醒，为梦境着色，将其装点成最瑰丽的模样。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

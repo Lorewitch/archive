@@ -9,6 +9,7 @@
 # game_version: 1.5
 # icon: assets/icons/stories/character/yanfei.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -255,21 +256,3 @@ That is why Yanfei possesses a Vision, one that is of equal weight to her princi
 烟绯信奉的是「没有规矩不成方圆」，而她期望的则是「随心所欲不逾矩」。
 璃月的仙人与凡人，都在用自己的方式守护着璃月。
 所以烟绯也拥有神之眼——而且她的神之眼，与她信奉的「规则」等价。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

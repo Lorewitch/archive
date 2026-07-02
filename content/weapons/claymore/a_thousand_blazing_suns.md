@@ -132,14 +132,3 @@ He saw the warm blood, offered unto the burning sparks of stars that lit up the 
 
 「夜神啊，请记录下最初的太阳，也是最初的古名『基扬戈兹』。」
 「我会将希望留给未来，只要火尚未熄灭，就依旧还有『希望』。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -32,7 +32,3 @@ To complete their tasks and reduce losses in men and materiel, their tactics are
 能驱使岩元素构成护罩，保护战友的先遣队士兵。
 不同于少数精锐的债务处理人与萤术士，先遣队的单兵实力与装备较为薄弱。
 为了完成任务，为了减少人员与物资的损耗，先遣队的战术更讲究团队协作。
-
-## NOTES
-
-### Общие заметки Лороведьмы

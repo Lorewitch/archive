@@ -9,6 +9,7 @@
 # game_version: 3.3
 # icon: assets/icons/stories/character/wanderer.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -513,21 +514,3 @@ The Vision descended, and caught between bright light and darkness, the glitteri
 在他闪电般行动起来的刹那，一道璀璨的光挡下了七叶寂照秘密主的攻击。他的意志与选择唤来了神的目光。
 
 「神之眼」降临，华光明暗之间，那发光的饰物犹如一颗带笑的眼睛，遥遥质问他：有了如此强烈愿望的你，还能算是没有心的吗？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

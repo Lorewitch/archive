@@ -75,9 +75,3 @@ It is said that there was a great tree whose roots once spread out to every corn
 ### material: ley_line_sprout
 
 据说有一株巨木曾经贯彻了世界的各处；据说这枝是它的一部分。仿佛从未被人折下带到遥远的地表，仍然充满了勃发的生机，长出了新叶。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

@@ -49,20 +49,3 @@ As most know, only The Seven emerged from the wrack and ruin of the war that rol
 
 那「鸣神权现·初代将军」自稻妻之境上的大御所落成之日起，便携其胞妹伴身。二人一明一暗，一真一影，斡旋于朝廷，讨敌于战阵。这位胞妹，单名「EI」，倘若写作明文，恐怕应该也是和初代将军名讳相对的「影」字吧，其人便是第二代幕府「影将军」是也。
 众人皆知，那席卷浮世红尘的大战之中，仅有七神可以得存。影将军虽武艺通神、剑技无双，但自觉本身不过武人，无法通达人心，便选择身陨道消，助她的胞姐上洛「天上之京」，成为稻妻的执掌天下之人。「真」将军随后设立幕府，施政稻妻。自然念有旧情，（鸣神权现）唤回「影」之神识，重塑其身形，将她作为自己的「影武者」安置于御侧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

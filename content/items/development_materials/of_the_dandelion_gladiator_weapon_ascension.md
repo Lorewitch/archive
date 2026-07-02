@@ -98,9 +98,3 @@ Weapon Ascension Material. Vennessa may have been freed from slavery, but she th
 ### material: dream_of_the_dandelion_gladiator
 
 赋予武器突破之力的材料。 温妮莎从奴役之中得到了自由。 结果锁住她的东西越来越大了：从族人变成了整个蒙德，甚至变成了「自由」，乃至这个世界。 她是发自真心这么希望着的：愿这个世界变得更加坚强一些。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

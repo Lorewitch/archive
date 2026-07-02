@@ -36,7 +36,3 @@ Awakened by Abyssal taint, these warriors now see all who trespass as prey.
 在北陆茫茫的冻土之下，掩埋着失落古国的伟大战士。
 即便存在过的痕迹早已被抹去，勇士们的英魂依旧守护着黄金之国的故土。
 如今这些灵魂因深渊的污染而苏醒，所有敢于入侵之人都会被他们当作猎物。
-
-## NOTES
-
-### Общие заметки Лороведьмы

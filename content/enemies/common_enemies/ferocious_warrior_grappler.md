@@ -32,7 +32,3 @@ Warriors who embark on the long path of training for such an art must possess th
 来自平原之上的勇士，在金穗田间巡游的部族守卫者。
 仅用肢体进行格斗在「沃陆之邦」
 被视为一种荣耀之行，为此踏上修行之路的战士，拥有将投矛投出万钧之势的臂力。
-
-## NOTES
-
-### Общие заметки Лороведьмы

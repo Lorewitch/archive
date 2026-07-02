@@ -31,9 +31,3 @@ Timber obtained from birches. It is easy to work with and produces smooth cuts. 
 ## ZH
 
 产自「桦树」的木材，易于加工，切面光滑，用这种木材制作的家具器物大多美观而耐用。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

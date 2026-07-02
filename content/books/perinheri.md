@@ -231,23 +231,3 @@ Mr. Yun's notes on Liyue Culture (15th edition)
 整理自卡尔·英戈德先生记录的《废都考察纪行》（第十三版）
 唐泽先生的杂学、博物学支持（第十四版）
 云老先生对于璃月文化部分的注释（第十五版）
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

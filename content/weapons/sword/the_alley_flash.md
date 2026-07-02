@@ -85,14 +85,3 @@ And he remembered his vow to his family, to past and present, to his land, and t
 后来发生了很多事情。
 最终在月光下他将同行多年的长剑埋葬，逃亡出海时，又想起当年，临行前从家中宝库偷出这把长剑的自己，对家族、对过去与未来、对这片土地，和对同父异母的胞弟厄伯哈特的宣言：「就算是只有微不足道的一点点。
 我也想用自己的力量扭转这个漆黑的世界」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

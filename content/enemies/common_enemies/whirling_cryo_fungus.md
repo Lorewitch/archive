@@ -32,7 +32,3 @@ Putting Fungi on ice does not make them taste any better, but it does at least h
 拥有一定智能的孢子生物。
 具有强大的环境适应能力。
 经过冰镇之后的蕈兽也不会变得更好吃，不过倒也因此有着消暑的功效。
-
-## NOTES
-
-### Общие заметки Лороведьмы

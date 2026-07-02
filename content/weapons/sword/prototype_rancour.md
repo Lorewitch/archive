@@ -73,14 +73,3 @@ This sword that cuts through rocks like butter became the basis for all subseque
 寒武深以为天意，为这柄剑取名「斩岩」。
 一剑动山河，万锋藏于刃。
 斩岩如断水的它，是日后璃月刀剑的原本。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

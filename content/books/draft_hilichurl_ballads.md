@@ -73,26 +73,3 @@ Yeye kucha kucha!
 
 ### 卷三
 艾拉‧马斯克创作的丘丘语诗歌。据她说，这首「优美的抒情诗」中蕴含着许多人的心血。但是，读起来总感觉怪怪的…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

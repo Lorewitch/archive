@@ -60,14 +60,3 @@ And when the soldiers of the Millelith assumed a tactical formation, it was the 
 千岩军的领队总是勇往直前，在队伍中充当险地的前锋与盾牌。
 护卫他们的不仅有忠诚的战友，更有多年演习不辍的精熟武艺。
 对于任何敢于靠近的敌人，第一线挥舞着钺矛的军官格外致命，而在坚如磐岩的士兵阵列中间，他们正是千岩之阵的真正核心。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -137,14 +137,3 @@ Like this ancient, magnificent bow, many stories eventually sink into the still,
 同这柄古老的良弓一样，诸多故事终究沉入无声海渊，化作荒唐的传说。
 
 最终「蛮荒」统治曾经的国土，许多故事与歌也演绎为无害的虚构戏剧…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

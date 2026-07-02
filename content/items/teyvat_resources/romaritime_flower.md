@@ -31,9 +31,3 @@ An ethereal and elegant blue flower. Its tender petals are elastic and water-abs
 ## ZH
 
 幽淡而高贵的蓝色花卉。 柔软的花蕊具备良好的吸水性和弹性，是诸多日用品的原材料。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

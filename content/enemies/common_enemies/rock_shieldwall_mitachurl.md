@@ -31,8 +31,3 @@ All young hilichurls dream of growing up to become a big and strong mitachurl, b
 以顽岩为盾的丘丘人大块头。
 对于丘丘人而言，最重要的事情就是吃肉和打架，让身体变得强壮。
 如果能成为丘丘暴徒这样又大又壮的战士，就能吃更多肉、打更多架、举起（几乎）坚不可摧的巨大岩盾了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

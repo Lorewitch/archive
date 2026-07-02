@@ -31,9 +31,3 @@ Common frog found in moist environments. Full of energy, they secrete a substanc
 ## ZH
 
 常见的蛙类，生活在潮湿的环境。 总是富有活力。 身上会分泌出让人充满活力的物质。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

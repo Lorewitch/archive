@@ -35,7 +35,3 @@ The huge, drill-shaped objects in the Children of Echoes are said to be the rema
 传说中，嵴锋龙的祖先是山一般巨大的龙兽，拥有相当漫长的寿命，沉睡时，群山在其背脊上成型，苏醒时，就会抖落身上的泥土与沉岩，唯留宝石与美玉在鳞角中熠熠生辉。
 「回声之子」
 部族中巨大的钻状物，据说是那时龙兽巨大钻角的遗留。
-
-## NOTES
-
-### Общие заметки Лороведьмы

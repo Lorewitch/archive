@@ -31,9 +31,3 @@ A beautiful flower with a name that suits its appearance. It only grows where ha
 ## ZH
 
 名字与外形同等美丽的花朵，只生长在清冷而风急的高处，如同浪子一样真心难以触碰。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -347,20 +347,3 @@ Refers to the ruins that lie to the northwest of Mondstadt. Legend holds that th
 
 7、风龙废墟
 （近期增补）蒙德西北方的古城遗址。曾经是传说中高塔暴君的都城，但近期被风龙特瓦林占据，成为其临时避难所。因此这片遗迹近来定名为「风龙废墟」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

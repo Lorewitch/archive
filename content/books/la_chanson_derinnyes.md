@@ -406,26 +406,3 @@ And then she left with the spirit who had been by her side from the start, never
 
 海色明眸的骑士言罢，丢出手中的剑，将它掷入湖水。剑无声沉下去，消失得无影无踪，
 随后，她便与最初陪伴在她身边的精灵一同离去，从此在世上再也没人看见过她的身影。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

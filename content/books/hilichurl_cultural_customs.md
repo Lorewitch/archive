@@ -167,29 +167,3 @@ The practices of the Eclipse tribe are the most occult of any in Mondstadt. They
 「好睡族」更倾向于抓住一切可能的时机打瞌睡，它们甚至会专门为更舒适的睡眠而搭建简陋的房屋，挑选柔软暖和的兽皮作为床铺。可能由于睡眠充足的优势，它们是丘丘人中最狡猾和精明的。
 
 「黑日族」是蒙德丘丘人部落中最神秘的一支。比起肌肉和小聪明，它们更重视信仰的神秘力量。与一般丘丘人信仰的自然元素力量不同，它们崇拜的对象似乎是一个仿若黑色太阳的简陋符号。它们的萨满比其他部落的萨满拥有更强的力量。在部落营地的中央，黑日族为地位最高的萨满准备了最高大的「御座」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -36,7 +36,3 @@ The price of coveting the gift of the strongest is much more painful than being 
 自然的规律是弱肉强食，宠物和圣骸兽则是例外。
 人类的饵食与不朽的遗骸，本质都是有意或无意的圈套。
 贪图至强者的馈赠，代价比被关进笼子要惨痛得多。
-
-## NOTES
-
-### Общие заметки Лороведьмы

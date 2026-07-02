@@ -33,7 +33,3 @@ Oprichniki officers know that empty words will never bring back those who have f
 隶属于愚人众特辖队的精锐士官，擅长以重炮撕裂敌阵，同时以厚重的大盾保护共同战斗的友伴。
 苦难将盾染成霜白，凝积的鲜血为它们镀上黑色的边缘。
 特辖队的士官知晓空洞的言语从来无法挽回那些不可避免的牺牲，唯有冰雹般的轰响，方能将这污秽的旧世界撼动。
-
-## NOTES
-
-### Общие заметки Лороведьмы

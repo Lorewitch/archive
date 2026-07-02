@@ -224,20 +224,3 @@ And I shall gather my tribespeople and friends, and we shall go there together.
 我将再度同族人相聚在海里尼的花园，
 那是被遗忘的人之君王出生的地方，
 我将召集起族人与亲友，一同前往。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

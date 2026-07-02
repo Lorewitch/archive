@@ -39,7 +39,3 @@ It is said that this sword art was once practiced from horseback.
 擅长使用大弯刀的沙漠武士。
 其所掌握的传承自失落文明的刀法不仅是一种战技，由其发展而来的刀舞更成为了在各国都广泛受欢迎的杂技表演。
 这种大弯刀据说在古时是用于骑乘战斗的。
-
-## NOTES
-
-### Общие заметки Лороведьмы

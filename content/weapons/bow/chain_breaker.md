@@ -126,14 +126,3 @@ Where even those who were weak, feeble, and homeless would no need fear the wind
 「无人能于此称王，因为人人皆是无冕之王。抛却繁文缛节吧，能取悦我们的唯有歌声」
 「不过，若是你果真如同你的言语那般挚诚，若是你果真渴望掀起烧却亘古枷锁的焚风」
 「若是你果真能够赐予弱者平等的容身之所，被称作勇者的异邦人啊，我亦愿伴你同行」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

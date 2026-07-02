@@ -382,26 +382,3 @@ Thus, the Mistress of Pushpavatika spoke:
 他们竟能在你身边，悉心聆听你的教诲。」
 
 …自此，二位女王便缔下了坚实的盟约，与自始至终陪伴在她们身边的那一位，就是（鲜血？怨怒？红冠？）的君王，三人勠力同心，共同引领（…）的子民走向永恒的繁荣。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -33,7 +33,3 @@ Today, that utopia is long gone, and the dreams and oaths, forgotten by the worl
 为了构筑梦想中的乐园，沙海的主人曾探究禁忌的知识，这些神秘的机械或许正是其造物。
 如今「乐园」
 早已湮灭，只有蚀刻在这些机械上的咒文还记录着那些已被世人忘却的梦想与承诺。
-
-## NOTES
-
-### Общие заметки Лороведьмы

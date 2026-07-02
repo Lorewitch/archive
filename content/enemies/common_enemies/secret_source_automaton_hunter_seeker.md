@@ -36,7 +36,3 @@ Today, that civilization has been lost, and all that remains are these strange m
 传说是远古遗迹特殊的工作用机械，本身主要是为了捕捉或采集样本这一实验目的而被设计使用，仅赋予了基础的战斗机能。
 传言并非是人类制造出来机械，而是更远古的文明的造物。
 如今，古老的文明已经失落，只留有这些古怪的机械四处巡游。
-
-## NOTES
-
-### Общие заметки Лороведьмы

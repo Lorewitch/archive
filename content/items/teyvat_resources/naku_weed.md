@@ -31,9 +31,3 @@ Even on windless days, this plant will tremble lightly amid the cries of thunder
 ## ZH
 
 即使在无风的日子里，亦会随雷鸣之声隐隐振动的植物。 看起来像是花瓣的结构其实是叶片的延伸，保护着脆弱的花朵。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

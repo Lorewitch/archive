@@ -30,7 +30,3 @@ Risk-takers who utilize their knowledge of chemistry to mix volatile and flammab
 足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。
 利用化学的知识，铤而走险的人。
 会调配出易燃易爆的物质，与团伙中其他的同伴一同作案。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -42,7 +42,3 @@ Once it does, it can only be silenced by the cries of the vanquished — whether
 与轻松挥舞巨斧的蛮人形象不同，这一族的战士实际上对沙中废都的古文与诗歌颇有研究。
 使用的武器中封印着残破的厄灵，会在危急是苏醒。
 只有战败者的哀嚎才能平息其忿怒——不论败者是武器的主任，抑或是敌人。
-
-## NOTES
-
-### Общие заметки Лороведьмы

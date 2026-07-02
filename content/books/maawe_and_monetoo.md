@@ -425,26 +425,3 @@ Maawe passed on all of the songs it had heard and learned to the humans born fro
 就这样，玛阿威在温泉之地定居下来，四肢利爪化为流线型的美丽鱼鳍，干瘦的躯体变得圆润，成为了最初的鳍游龙。
 当然，玛阿威并没有忘记它的伙伴，不，它怎能忘记随它一起冒险的好朋友呢？
 玛阿威将它所听到的、所学会的歌，全部传授给了清泉中新生的人类。没错，这些人类正是我们的祖先。而我们梅兹特利部族所传承的歌，正是源自那个古老年代的遗响。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

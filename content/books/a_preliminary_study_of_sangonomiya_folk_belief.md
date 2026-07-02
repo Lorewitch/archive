@@ -218,20 +218,3 @@ However, these legends that hint at the "truth" are but unimportant anecdotes co
 只是海渊之字世上少有人懂，藏书也在渊下宫中无法得见。真相恐怕也无法得见天日了。
 
 不过这个隐喻了「事实」的传说，和上面隐喻了「意识」传说相比，只是无关紧要的稗官野史罢了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

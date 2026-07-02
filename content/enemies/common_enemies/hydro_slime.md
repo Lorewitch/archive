@@ -32,7 +32,3 @@ But due to the high concentration of Hydro within these slimes, direct ingestion
 逸散在自然之中的水元素沉积形成的小小魔物。
 传说中，有的人会将水史莱姆当作应急用水，在去往水源难寻的干旱地带、深邃的秘境之前储备好水史莱姆。
 但因为浓厚的水元素，直饮史莱姆其实对人体有害。
-
-## NOTES
-
-### Общие заметки Лороведьмы

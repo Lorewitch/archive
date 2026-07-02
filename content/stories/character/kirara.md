@@ -9,6 +9,7 @@
 # game_version: 3.7
 # icon: assets/icons/stories/character/kirara.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -454,21 +455,3 @@ The landlord and old woman peered outside, and there they saw a youthful lady wi
 「既然这样的话，我来送您回去吧！」门外突然传来一位少女的声音。
 
 屋主人和老奶奶一同向外望去，只见那少女身后立着两条好动的尾巴，腰间挂着一颗亮晶晶的神之眼。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

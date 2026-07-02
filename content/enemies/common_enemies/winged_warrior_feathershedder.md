@@ -29,7 +29,3 @@ Proud sword wielders whose blade strokes are as sweeping as a Qucusaur's outstre
 
 来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。
 挥剑犹如翼龙展开翅膀般大开大合的高傲剑士，被其剑刃劈开的伤口之中，鲜血将如飞羽般挥洒而出。
-
-## NOTES
-
-### Общие заметки Лороведьмы

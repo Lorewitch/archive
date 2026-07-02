@@ -427,26 +427,3 @@ Is by no means beneficial. Indeed, it only leads to more suffering.
 
 这个故事是说，打算模仿别人来刻意掩盖本性，
 到头来不仅徒劳无益，反而会为自己招致害盈。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

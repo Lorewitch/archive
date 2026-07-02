@@ -9,6 +9,7 @@
 # game_version: 4.2
 # icon: assets/icons/stories/character/charlotte.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -507,21 +508,3 @@ Scrutinizing it, all she could manage was to mumble a few words:
 夏洛蒂端详着它，无奈地喃喃说道：
 
 「…这件事，就别报道了吧。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

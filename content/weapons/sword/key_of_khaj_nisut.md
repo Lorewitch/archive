@@ -187,20 +187,3 @@ As for the aged blind poet, he would follow the trace of stories and blood-taint
 它曾如同钱币在人的霸主与王手中流转，最终也回到了流沙的怀抱之中。
 
 而老迈的盲眼诗人追随者故事的痕迹与血涂的足印，最终来到了森林中…
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

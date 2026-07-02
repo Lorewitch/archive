@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/diluc.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -295,21 +296,3 @@ But to those with conviction, a Vision is simply an extension of their strength,
 他不谈论过去，也不否认过去。
 对于那些无法辨别道路的人，「神之眼」或许是神赐予的引路之灯。
 可对于明确了信念的人，它只是力量的延伸、意志的模型，是无穷历练的奖章与回望来路的标识。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

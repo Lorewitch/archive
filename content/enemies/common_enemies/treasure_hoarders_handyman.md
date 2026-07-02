@@ -32,7 +32,3 @@ They are often laughed at for their physique — but when the gang comes under a
 足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。
 在盗宝团当中从事着体力工作，地位比较低下的成员，因为自己的身材还经常被同伙取笑。
 但在团队遇袭时，会展现出人意料的身手与力量！
-
-## NOTES
-
-### Общие заметки Лороведьмы

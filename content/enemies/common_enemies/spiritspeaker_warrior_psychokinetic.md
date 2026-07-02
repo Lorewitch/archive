@@ -30,7 +30,3 @@ and that it takes long years of training to fully master the power contained wit
 
 来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。
 据说身上的油彩涂鸦是燃素刻录演化到了如今的形式，需要经过漫长的修行才能真正掌握其中的力量。
-
-## NOTES
-
-### Общие заметки Лороведьмы

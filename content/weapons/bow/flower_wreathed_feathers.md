@@ -138,14 +138,3 @@ Until all hope turned into betrayal, and until tomorrow would never come again.
 「好好地睡上一觉，等事情办完以后，我马上就会回来的」
 「待漆黑之潮褪去，我就会立刻赶回你的身旁，将你唤醒」
 「待春日重返大地，我就和你一同去看高崖上绽放的新花」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

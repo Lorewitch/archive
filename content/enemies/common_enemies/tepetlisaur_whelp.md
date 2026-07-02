@@ -35,7 +35,3 @@ However, one day, they will grow into a form that may travel freely through even
 额前尚未形成钻角，而开掘的技术也不够熟练。
 甚至经常听闻练习挖掘的幼嵴锋龙被山石困住的事。
 不过终有一日，能够成长为在坚土中自由穿行的样貌吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы

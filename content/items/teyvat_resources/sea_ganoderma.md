@@ -31,9 +31,3 @@ A plant species that only grows in certain regions and islands of the ocean. Tho
 ## ZH
 
 在某些特殊的海域中、岛屿上才会生长的特殊物种。 虽然外形看起来像菌类，但其实是由软体生物分泌增生而成的。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

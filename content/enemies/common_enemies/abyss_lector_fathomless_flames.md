@@ -37,7 +37,3 @@ calling them "Lectors,"when their name can also mean "exegete."Reading the word 
 也有「读经士」
 之意。
 诵读恩典之章，便会拥有强大的力量。
-
-## NOTES
-
-### Общие заметки Лороведьмы

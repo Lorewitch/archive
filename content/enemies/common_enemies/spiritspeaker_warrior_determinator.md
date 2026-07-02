@@ -29,7 +29,3 @@ To a certain degree, they can draw upon the power of their body paint to wield t
 
 来自谜烟之内的勇士，在漫霾峡谷巡游的部族守卫者。
 能够借由身上油彩涂鸦的力量，一定程度地凭借意念操控手中的武器进行攻击。
-
-## NOTES
-
-### Общие заметки Лороведьмы

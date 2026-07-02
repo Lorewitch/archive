@@ -9,6 +9,7 @@
 # game_version: 3.4
 # icon: assets/icons/stories/character/alhaitham.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -256,21 +257,3 @@ And just like the knowledge he has acquired, what he has obtained shall always r
 他不打算花太多时间打量他的神之眼。既然是属于他的东西，什么时候查看都一样。
 
 就像已学会的知识一样，到手的东西跑不了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

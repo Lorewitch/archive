@@ -35,7 +35,3 @@ and whoever dares to oppose them will invoke the full force of their wrath.
 「以眼还眼，以牙还牙」
 也是一种债。
 无论是谁，只要损害了愚人众的利益，那就要十倍奉还。
-
-## NOTES
-
-### Общие заметки Лороведьмы

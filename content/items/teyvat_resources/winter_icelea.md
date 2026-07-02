@@ -31,9 +31,3 @@ A hardy plant known for withstanding relentless wind and frost, it survives even
 ## ZH
 
 生命力极其顽强的花草，即便历经风吹霜打，依旧在苦寒的冬日里迎风摇曳。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -31,9 +31,3 @@ Wood from the Inazuman Cedar. It is soft, has straight veins, and gives off a li
 ## ZH
 
 「柳杉」出产的木材，质地柔软，纹理平直，散发着浅淡的清香。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

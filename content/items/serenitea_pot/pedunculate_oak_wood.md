@@ -31,9 +31,3 @@ Wood sourced from the Pedunculate Oak Tree. While its density is relatively low,
 ## ZH
 
 产自「夏栎树」的木材，密度较低，韧性却相当不错，且有着不错的防水性能，因此常被用作水畔建筑…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

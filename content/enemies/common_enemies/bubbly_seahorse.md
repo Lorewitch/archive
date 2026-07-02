@@ -32,7 +32,3 @@ As with clockwork meka enthusiasts, a small minority of Fontemer Aberrant enthus
 通过发射水弹进行狩猎的水生动物。
 在（为数不多的）原海异种动物爱好者当中，泡泡海马有着相当多的拥趸。
 当然，原海异种爱好者和发条机关爱好者一样，当中的细分群体对其他群体有很强的攻击性。
-
-## NOTES
-
-### Общие заметки Лороведьмы

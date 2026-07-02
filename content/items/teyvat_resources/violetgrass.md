@@ -31,9 +31,3 @@ A small flower with strong vitality. It is said that its downward-blooming flowe
 ## ZH
 
 拥有旺盛生命力的小花，传说朝下盛开的花姿是为了守住它的香气。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

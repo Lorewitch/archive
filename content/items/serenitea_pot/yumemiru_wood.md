@@ -31,9 +31,3 @@ Timber obtained from Sakura Trees. Exquisite in quality and full of moisture, pe
 ## ZH
 
 产自「樱树」的木材，质感细腻，富含水分，据说能为人们带来暖春般的美梦。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

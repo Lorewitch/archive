@@ -75,9 +75,3 @@ A thick and sticky honey that is full of energy. The Whopperflower hunts by tric
 ### material: energy_nectar
 
 饱含能量的黏稠蜜汁。 骗骗花欺瞒猎物是为了狩猎，而狩猎进食或许是为了进化成某种更强大、更纯粹的姿态吧…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

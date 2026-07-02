@@ -411,26 +411,3 @@ Anyway, after the Sage of the Stolen Flame left, Chaac accepted the guidance of 
 「一听就是叙事人的套词，还是不要留下这种悬念了吧？」
 
 总之，「盗火贤者」离开后，察阿克接受了夜神的指引，在地上也建起了定居的部族。纳塔人类的时代开始了，但那就是另外的故事了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

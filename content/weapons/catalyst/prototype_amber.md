@@ -76,14 +76,3 @@ Thereafter, all catalysts made in Liyue were modeled on Yun Hui's prototype.
 玉珀色泽明快犹如琥珀，通体透金。
 协商后，云辉为法器题名「金珀」。
 它是日后所有璃月靖妖祓邪之器的始祖。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

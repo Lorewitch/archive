@@ -32,7 +32,3 @@ It is said that in the past, tribespeople would use these skills to hunt massive
 来自流泉之源的勇士，在临水流域巡游的部族守卫者。
 手中常握着长叉的勇士，他们在渔猎中习得的本领不容小觑。
 据说，从前的部族人就是凭借这手技巧，在海面上追逐鳍鳞坚韧的巨兽。
-
-## NOTES
-
-### Общие заметки Лороведьмы

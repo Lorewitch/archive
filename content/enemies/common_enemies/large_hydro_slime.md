@@ -36,7 +36,3 @@ Eyewitnesses have supposedly seen Hydro Slimes as large as a small mound in Wolv
 力量更强大、体型更大的水史莱姆，可以产生水泡禁锢敌人。
 据说在某些力量充沛的地方，尺寸可以成长到非常夸张的程度。
 在奔狼领就曾有人目击过有一座小土丘那么大的水史莱姆。
-
-## NOTES
-
-### Общие заметки Лороведьмы

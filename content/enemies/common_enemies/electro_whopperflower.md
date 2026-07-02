@@ -29,7 +29,3 @@ When fully-charged with Electro energy, they can unleash a strong electric curre
 
 元气满满的拟态植物魔物，会用雷元素攻击猎物。
 在元素能量充满的时候，可以从花冠中释放出强大的电流，因此也有学者试图将其用于一些其他方面的用途…
-
-## NOTES
-
-### Общие заметки Лороведьмы

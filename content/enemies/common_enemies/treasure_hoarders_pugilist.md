@@ -31,7 +31,3 @@ leading to some dissatisfaction from their fellow Treasure Hoarders.
 足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。
 热衷于肌肉和战斗的人。
 对食物很挑剔，并且总是向周围的人宣扬肌肉的好处，所以其他盗宝团成员通常对这种人多有微辞。
-
-## NOTES
-
-### Общие заметки Лороведьмы

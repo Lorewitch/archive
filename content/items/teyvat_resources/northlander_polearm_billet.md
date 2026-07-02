@@ -31,9 +31,3 @@ Weapon forging material. Can be used to forge 4-star polearms. Philosophers beli
 ## ZH
 
 生产武器的原材料。 通过锻造，可以生产出4星的长柄武器。 哲学中认为大理石蕴藏着成为美丽雕塑的潜能。 这些原胚也孕育了无限可能。 真让人期待。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

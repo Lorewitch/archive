@@ -121,20 +121,3 @@ The laws shall not be tested, nor shall the strictures be questioned, or the scr
 
 「与爱为敌的支配者总会有其动摇之刻，」
 「面纱破碎时迎向大地的是崭新的曙光。」
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

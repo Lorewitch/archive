@@ -31,8 +31,3 @@ Axes forged from steel are highly conductive material. The image of those tall a
 持长柄大斧的丘丘人大块头。
 攻击大开大合，会利用雷史莱姆为战斧附上雷元素，具有强大的破坏力。
 钢铁锻造的斧头是非常良好的感电材料。高大魁梧的雷斧丘丘暴徒高举大斧，召引天雷的样子对丘丘人而言可是相当雄壮的景象。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

@@ -75,9 +75,3 @@ An insignia to identify officers. The Fatui possess a colossal army, so there mu
 ### material: lieutenants_insignia
 
 标识着尉官身份的徽记。愚人众拥有庞大的军队，能在其中担任尉官者，想必是有过人之处吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

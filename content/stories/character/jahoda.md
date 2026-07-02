@@ -9,6 +9,7 @@
 # game_version: 6.2
 # icon: assets/icons/stories/character/jahoda.webp
 # tags:
+# character_filters: lunar_omen
 
 ## RU
 
@@ -591,21 +592,3 @@ A lie repeated a thousand times had somehow willed itself into truth.
 已经起身离开的奈芙尔，突然瞥见了一抹转瞬即逝的青色微光。
 秘闻馆的老板有些讶异，然后又不禁失笑。
 某个重复了一千遍的谎言，居然成真了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

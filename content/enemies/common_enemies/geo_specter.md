@@ -32,7 +32,3 @@ As such, they are held by some ancient tales to be the fruit of a giant tree in 
 高浓度的岩元素孕育而生的魔物，能够飘浮在空中。
 岩飘浮灵在翅叶闭合时会拟态成某种植物果实的样子。
 因此在一些古老的传说中，它们被当作天上巨木结出的果实，被认为有着神奇的药用价值。
-
-## NOTES
-
-### Общие заметки Лороведьмы

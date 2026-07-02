@@ -28,8 +28,3 @@ Hilichurl warriors who have wooden shields. These shields are not only sturdy de
 
 提瓦特荒野中游荡的原始住民。
 拥有木盾的丘丘人战士，木盾不仅是坚固的防具，也是属于部落的珍贵宝物。根据不少人的报告，丘丘人会冲向扎营烹饪的旅人，撵走他们，然后抢走他们的锅盖。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

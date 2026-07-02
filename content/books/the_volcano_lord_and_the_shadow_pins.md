@@ -255,20 +255,3 @@ Why, he must have mastered some marvelous skill, of course. After all, there are
 至于敢于身当诱饵的陶奥鲁，石室的出口被火山大王的手塞住，他是怎么逃脱出来的？
 
 想必那是他掌握了什么了不起的技巧吧，毕竟，在这之后，还有许多和陶奥鲁有关的传说呢。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -113,14 +113,3 @@ Until thousands of years later, in the Siege of Poisson, when their use caused a
 于赞助的歌剧中被传颂为幻影猎团的行刑人，成为无害的偶像后，
 亦不曾失传，而是在高位者的默许下，为后世的逐影猎人所续习，
 直至千百年后的白淞之围中，以它誓言守护之人的血将河水染红…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

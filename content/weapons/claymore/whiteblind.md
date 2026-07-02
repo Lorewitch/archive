@@ -105,14 +105,3 @@ The bladesmith was thoroughly miserable and would not stop complaining about the
 「真是浪费！
 这些年的岁月付之东流，我只为给你造这把大剑」固执的铁匠满口怨言。
 但结局至少圆满，剑也确是一流的好剑。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

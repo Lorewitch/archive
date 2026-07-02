@@ -31,9 +31,3 @@ A flower, the leaves and petals of which look scorched and withered, that can of
 ## ZH
 
 叶片与花瓣呈现枯焦之态的花朵，常常能在流灰弥漫之处看到它。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -94,14 +94,3 @@ While the Akuou himself would face the blinding ray of lightning alongside the G
 「然后，把面具带给菖蒲和曚云阿姐做伴手礼吧！」
 最后，浪潮如融化沙上楼阁般卷走了所有的梦想。
 如同赤红之星的天狗假面在乱战中如海砂般粉碎，如同深海月光照亮往日少年心灵的巫女不再复归，而「恶王」也随着大蛇直面化作一线的耀眼稻光。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

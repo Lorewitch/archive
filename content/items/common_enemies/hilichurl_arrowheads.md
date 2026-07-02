@@ -75,9 +75,3 @@ An old arrowhead coated in blood. The arrowhead has long since lost its sharpnes
 ### material: weathered_arrowhead
 
 老旧的、沾染了干涸血迹的箭簇。箭头在反复的使用中已经失去了应有的锐利，根本不能作为武器使用。 但它也代表着猎手的骄傲，是它们的护身符与奖章。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

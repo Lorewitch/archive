@@ -147,6 +147,23 @@ STORY_ELEMENT_ALIASES = {
     "cryo": "cryo", "крио": "cryo",
     "geo": "geo", "гео": "geo",
 }
+CHARACTER_FILTER_ORDER = ["lunar_omen", "witchcraft", "star_blade"]
+CHARACTER_FILTERS = set(CHARACTER_FILTER_ORDER)
+CHARACTER_FILTER_ALIASES = {
+    "lunar_omen": "lunar_omen",
+    "лунное_знамение": "lunar_omen",
+    "лунные_знамения": "lunar_omen",
+    "лунные": "lunar_omen",
+    "lunar_reactions": "lunar_omen",
+    "лунные_реакции": "lunar_omen",
+    "witchcraft": "witchcraft",
+    "ведьмовство": "witchcraft",
+    "ведьмоство": "witchcraft",
+    "магия": "witchcraft",
+    "star_blade": "star_blade",
+    "звездный_клин": "star_blade",
+    "звёздный_клин": "star_blade",
+}
 STORY_ALL_ELEMENTS = {
     "all", "all_elements", "all_element", "traveler", "aether", "lumine",
     "все", "все_элементы", "все_элементы_путешественника", "путешественник",
@@ -766,6 +783,33 @@ def normalized_story_element(meta: dict[str, str]) -> str:
     return elements[0] if len(elements) == 1 else ""
 
 
+def normalize_character_filter_token(value: str) -> str:
+    key = value.strip().lower().replace("ё", "е")
+    key = re.sub(r"[^a-zа-я0-9]+", "_", key).strip("_")
+    return CHARACTER_FILTER_ALIASES.get(key, key)
+
+
+def normalized_character_filters(meta: dict[str, str]) -> list[str]:
+    raw = (
+        meta.get("character_filters")
+        or meta.get("character_filter")
+        or meta.get("character_traits")
+        or meta.get("character_trait")
+        or meta.get("traits")
+        or meta.get("trait")
+        or ""
+    ).strip()
+    if not raw:
+        return []
+
+    filters: list[str] = []
+    for part in re.split(r"[,;/|+]+", raw):
+        normalized = normalize_character_filter_token(part)
+        if normalized in CHARACTER_FILTERS and normalized not in filters:
+            filters.append(normalized)
+    return filters
+
+
 def generic_item_type_title_from_meta(item_group: str, meta: dict[str, str]) -> dict[str, str]:
     key = normalized_generic_item_type(item_group, meta)
     defaults = ITEM_TYPE_DEFINITIONS.get(item_group, {}).get(key, {"ru": "", "en": "", "zh": ""})
@@ -976,6 +1020,7 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
             story_elements = list(STORY_ELEMENT_ORDER)
         entry["elements"] = story_elements
         entry["element"] = story_elements[0] if len(story_elements) == 1 else ""
+        entry["character_filters"] = normalized_character_filters(meta) if entry["story_group"] == "character_stories" else []
         story_parts = build_story_parts(full_text_by_lang)
         if story_parts:
             entry["parts"] = story_parts

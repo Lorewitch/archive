@@ -30,7 +30,3 @@ When they bring their two-handed weapon down in a mighty strike, the sheer force
 
 来自平原之上的勇士，在金穗田间巡游的部族守卫者。
 从立志成为战士之初便不断训练自身的力量的战士，手持双手武器下劈时，具有常人无法抵挡的威势。
-
-## NOTES
-
-### Общие заметки Лороведьмы

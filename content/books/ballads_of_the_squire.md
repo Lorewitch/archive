@@ -217,23 +217,3 @@ And buried it where the gentle winds meet in communion.
 那是她的最后一首歌谣，但再不会是绝唱。
 无名的骑士将她的剑带离溅血的大竞技场，
 埋葬在和风集聚的地方。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

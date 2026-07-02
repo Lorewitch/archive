@@ -51,14 +51,3 @@ Though such rituals as these are no longer in fashion, some few still remember w
 但这把剑通常不是作为武器使用的。
 依照远古的战士礼仪，战友倒下时，会将闪亮的武器立在英杰殒命之地。
 虽然这种仪式不再流行，但仍有少数人记得其中的含义…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

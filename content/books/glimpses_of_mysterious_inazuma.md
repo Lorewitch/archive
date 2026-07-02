@@ -263,23 +263,3 @@ And just like that, the young baku stayed by the elderly couple's side. With the
 「哎呀，这有什么关系嘛！只要你不说，这里有谁会知道你是什么『貘』呢？就算有人驯养林猪，也不会让其他人觉得奇怪呀！」
 「您的说法的确不无道理。不过，我不是林猪，我是貘。」
 就这样，小貘决定留在老夫妇身边，和他们生活在一起。靠着她做出的那些美味的点心，老爷爷和老奶奶安逸幸福地度过了晚年。可喜可贺，可喜可贺。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

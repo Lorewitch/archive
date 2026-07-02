@@ -31,9 +31,3 @@ A rare and precious ore formed by the unique geographical conditions and Ley Lin
 ## ZH
 
 因为龙脊雪山的特殊地理环境与地脉，而产生的珍稀矿石。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

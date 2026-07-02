@@ -59,21 +59,3 @@ So, the people chose from among them a chief priest, And adorning his head with 
 那这样美好的时代是否有朝一日也会走向终结呢…
 天空的使者并没有回答。
 于是，人们选出了主祭，让他戴上了白枝的祭冠，让他走向大地至深之处，从深埋地底的古代祭场、废都中寻求启示与答案…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Заметки пока не заполнены.
-
-### Заметки по частям
-
-#### Корона разума
-
-Заметки пока не заполнены.
-
-## INTERNAL
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# internal_hoyowiki_entry_id: 2088

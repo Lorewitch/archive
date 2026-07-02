@@ -43,14 +43,3 @@ The antique shop owner rubbed their chin and smiled.
 
 ### 故事
 据说，在很久以前的某段时期，璃月港的人们，好以飞箭传书。「可是，那样不会射伤路人吗」「正因如此，这弓才成了古董」古董店店主摸摸下巴，微笑道。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

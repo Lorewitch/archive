@@ -184,14 +184,3 @@ With utmost calm, she took up the master thief's black spine bone, leaving the C
 她从容取得大盗乌漆的脊骨，丢下解毒用的嘟嘟莲便撤身离去——
 「你方才对诸盗所言，得使大盗的理念昭彰，故留你性命不取」
 「可真正的公允并不存于秩序之下，而在于，无人能制定秩序」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

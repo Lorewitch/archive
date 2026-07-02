@@ -35,7 +35,3 @@ Its bodily structure is also quite likely to be denser than others of its kind.
 具有强大的环境适应能力。
 富集的岩元素在它们的菌盖上形成了坚硬的外壳。
 为了挥舞沉重的头部，想必其身体结构相比同类也更加紧密。
-
-## NOTES
-
-### Общие заметки Лороведьмы

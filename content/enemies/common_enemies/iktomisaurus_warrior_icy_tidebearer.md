@@ -43,7 +43,3 @@ it is said that the most exceptional of Spiritspeakers can lift boulders as tall
 的天赋。
 据说，「灵觉」
 最为出众的武士，甚至能够凭借特殊涂鸦和精神的力量抬起一人高的巨石。
-
-## NOTES
-
-### Общие заметки Лороведьмы

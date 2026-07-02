@@ -9,6 +9,7 @@
 # game_version: 2.1
 # icon: assets/icons/stories/character/kujou_sara.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -318,21 +319,3 @@ Sara believed that this was neither her duty nor a result of her foster father's
 一眼的注视，赐予她一生的力量。她所享有的一切，都可说是将军大人的垂怜。
 如果是为将军而战…
 裟罗认为，那不是命令，不是养父的计谋，而是她真心所向。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

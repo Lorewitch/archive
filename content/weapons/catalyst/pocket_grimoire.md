@@ -43,14 +43,3 @@ Currently obsolete due to the revisions made in the 12th edition of the Magic Gu
 
 ### 故事
 在学徒当中流行的魔导辅导书，可以装在口袋里的尺寸。略去了教科书中冗长的原理与习题，只留下会考的内容。目前因为《魔导绪论》第十二版的改动而变得不合时宜。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

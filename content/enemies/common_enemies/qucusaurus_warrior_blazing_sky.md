@@ -40,7 +40,3 @@ This concept, gradually refined over time, is said to have been the origin of ma
 据说从前部族的勇士在看到绯色的翼龙将火石从高处投掷以取乐时，迸发出了连环爆炸的弹药的想法。
 这一逐渐完善的想法，据说就是「花羽会」
 诸多火器的雏形。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -255,14 +255,3 @@ And thusly she designed a "grand magic trick" that belonged to them.
 「没有贵族没有王，没有指着你们的刀剑！」
 
 「没有生来的富贵，没有无法摆脱的贫困！」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -33,7 +33,3 @@ But most died with their god, and for the survivors, the world no longer has any
 在纯水精灵如今在枫丹已经绝迹的当下，水中出现的奇异元素生命体。
 据说在厄歌莉娅的时代，纯水精灵常常与人同行，也曾经散布各地的清澈泉水中，借此将世界的水脉相互联系。
 但她们大多都随她们的神一同死去了，余下的也不再有她们的神。
-
-## NOTES
-
-### Общие заметки Лороведьмы

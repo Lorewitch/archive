@@ -85,14 +85,3 @@ Who, then, will be able to subdue That Which Lies in the Deep?
 终有一天，曾因为岩之君的神枪封印而归于死寂的漩涡会再度苏醒。
 风会将深海的腥臭带上陆地，那是九头海蛇般的水龙卷暴起的前兆。
 在那时，能镇住那「海里的东西」的，究竟会是谁呢…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -184,14 +184,3 @@ The Godfather, draped in finery yet still gripping a shovel, had come to underst
 身着华服却手握铁锹的教父，已领会了雷德·米勒所主张的公义：
 「倘若这个世界的秩序注定是失衡的，金流向金，土归于土」
 「那么就需要有人来使秩序恢复平衡。而这种人，正是盗贼」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

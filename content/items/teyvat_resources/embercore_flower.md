@@ -31,9 +31,3 @@ A strange flower that can be found all over the plains and highlands. Mature bud
 ## ZH
 
 散布在平原与高土的奇特花朵。 成熟的花苞会在受到冲击后绽放开来。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

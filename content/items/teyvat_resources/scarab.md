@@ -31,9 +31,3 @@ A tenacious beetle that finds repose within the vast ocean of desert sand. The g
 ## ZH
 
 栖息在浩瀚沙海之中的顽强甲虫。 甲壳上的金色纹路似乎暗示着它们与遍布沙漠的古老遗迹间存在某种渊源。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

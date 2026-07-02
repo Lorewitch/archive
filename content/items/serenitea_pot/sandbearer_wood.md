@@ -31,9 +31,3 @@ Timber from the Sandbearer Tree. Said to be an exceptionally hardy plant resista
 ## ZH
 
 产自「却砂树」的木材，据说有着风雨不侵，百年不朽的卓越木质。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

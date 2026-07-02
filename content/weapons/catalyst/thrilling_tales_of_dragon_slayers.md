@@ -62,14 +62,3 @@ But I'm no writer, just a regular fellow in his mid twenties without an honest j
 我加入队伍其实是因为找不到工作。
 是人都能胜任文案一职。
 其实我也不是作家，只是个二十过半没有正经工作的年轻人。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

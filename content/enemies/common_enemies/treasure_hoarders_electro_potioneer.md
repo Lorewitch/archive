@@ -38,7 +38,3 @@ Did you think this treasure has 'Adventurers' Guild' written all over it or some
 」
 ——某名盗宝团的「药剂师」
 与冒险家对峙时说的话
-
-## NOTES
-
-### Общие заметки Лороведьмы

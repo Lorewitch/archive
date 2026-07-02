@@ -31,9 +31,3 @@ A lizard tail that curled up after losing its owner. Very bitter, but has skin h
 ## ZH
 
 失去生命后微微卷曲的蜥蜴尾巴。 含有强烈的药性，能让人皮肤变硬。 味道很苦。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

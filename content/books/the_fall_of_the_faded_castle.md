@@ -320,26 +320,3 @@ There is nothing there now, bar darkness, death, and loss.
 透过破碎阴森的窗户，许多雕像般的怪物穿行而过，
 伴随着不和谐的旋律，不断地下沉，直到坠入深海。
 而在那里，除了黑暗、死亡与哀歌之外，别无他物。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

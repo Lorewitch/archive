@@ -178,14 +178,3 @@ Though he stayed in Mondstadt for but a few years, in leaving, his shadow has ev
 但这样的事件写成诗歌则十分无趣，才华横溢的行诗人们便将这段对话，以及骑士在蒙德的一些事迹相结合，创作出了许许多多的故事。
 
 他在蒙德滞留了短短的数年，离去时他的影子却永远刻在了蒙德。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -32,7 +32,3 @@ Though it has forgotten its comrades or any royal blessing they might have been 
 曾经是地下古国的骄傲军人，如今已经失去了一切知觉与记忆吧。
 即使如此，也会高举着王家的旗号进行战斗。
 就算忘记了同侪的模样、王家的祝福，只有这枚旗印，对它而言是绝对不能放下的。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -9,6 +9,7 @@
 # game_version: 4.4
 # icon: assets/icons/stories/character/gaming.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -356,21 +357,3 @@ Only then did the doubt clouding over Gaming's heart clear, and in response, he 
 眼观六路耳听八方，似瑞兽耳聪目慧之姿。
 拳打恶匪脚踢强盗，有祥猊除祟降瑞之势。
 嘉明心中的疑云这才被拨开，他迅速用衣角擦了擦手，郑重地接过了这枚神之眼。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

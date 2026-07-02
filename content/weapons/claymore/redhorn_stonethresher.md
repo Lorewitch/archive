@@ -113,14 +113,3 @@ Even later on, the Lavender Melon tree that he kicked down would, with careful t
 再之后，与御伽大王比试摔跤的鬼人断臂折角后遁逃，影向山的大天狗也避世隐居山林，不曾再在人前露面。
 就结果而言，吹嘘这把奇形大刀的话的确算是成真了，游手好闲的怪人御伽金刚狮子大王，却没有再现身过。
 后来，怪人踢倒的菫瓜树经细心护养再度结出了果实。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -35,7 +35,3 @@ They believed that since gemstones and ores have Geo energy in them, Geo Slimes,
 能将体内的力量凝结成岩壳，保护自己不受伤害。
 过去在盗宝团中一度流传着「大黄金岩史莱姆王」
 的说法，认为既然不少宝石与矿物中蕴含岩元素，那蕴含岩元素的史莱姆同样很可能是宝石与矿物。
-
-## NOTES
-
-### Общие заметки Лороведьмы

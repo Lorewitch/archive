@@ -31,9 +31,3 @@ Blue dye. It will surely be of use in making furnishings.
 ## ZH
 
 蓝色的染料。 制作摆设时应该能派上用场。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

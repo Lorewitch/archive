@@ -44,14 +44,3 @@ But this old greatsword seems to silently say,
 
 ### 故事
 他总会提起自己年轻时的冒险经历，都是令人生厌的老掉牙的夸张故事。但这把老旧的大剑似乎在无声地说，「是有点夸张没错。但当时我也在」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

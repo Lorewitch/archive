@@ -44,14 +44,3 @@ but Tiger Fish fillets have become synonymous with delicious fish for the people
 
 ### 故事
 传说，璃月过去盛产螭虎鱼，是平民最爱吃的鱼。但街头巷尾谈论久了，便讹成了「吃虎鱼」。如今，真正的螭虎鱼已不多见，吃虎鱼一词却成了璃月人大啖鱼肉的代名词。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

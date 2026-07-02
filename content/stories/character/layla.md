@@ -9,6 +9,7 @@
 # game_version: 3.2
 # icon: assets/icons/stories/character/layla.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -357,21 +358,3 @@ It lay there upon a thick stack of notes, like a fallen star pressed into the pa
 系列研讨会结束后，莱依拉再次打开记录了她与诃般荼「辩论」过程的文件袋时，意外发现袋中出现了一枚亮晶晶的「神之眼」。
 
 它就躺在一大摞厚厚的手写报告上，犹如一颗落地的星。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

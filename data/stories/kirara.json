@@ -36,6 +36,7 @@
     "dendro"
   ],
   "element": "dendro",
+  "character_filters": [],
   "parts": [
     {
       "number": 1,

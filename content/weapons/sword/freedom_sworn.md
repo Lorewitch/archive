@@ -121,20 +121,3 @@ And that drinking song rose up with force enough to shake the city walls, spurri
 「假如有人刺瞎你的双眼，你依旧可以用耳朵张望」
 「但是，假如谁人胆敢夺走你歌唱、你张望的自由」
 「——那就，绝对绝对不能容赦」
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

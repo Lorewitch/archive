@@ -174,14 +174,3 @@ Bereft of the strength to pick even a simple lock, the woman cursed his name one
 如往常般，发誓要用余生破解他诈死的谜题，让他心悦诚服——
 直至岁月夺去了她引以为傲的美貌，也夺去了她最后的叹息，
 再也无力打开锁的女人最后一次痛骂他的名字，躺入了空棺。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

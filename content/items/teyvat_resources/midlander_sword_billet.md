@@ -31,9 +31,3 @@ Weapon forging material. Can be used to forge 4-star swords. Philosophers believ
 ## ZH
 
 生产武器的原材料。 通过锻造，可以生产出4星的单手剑。 哲学中认为尘世间事物，皆具备四种成因。 这些原胚的「目的」，正是成为陪伴英雄的武器。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

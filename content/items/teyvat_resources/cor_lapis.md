@@ -31,9 +31,3 @@ A precious crystal of condensed pure Geo element that usually grows along with o
 ## ZH
 
 极纯的岩元素凝成的珍稀晶石，常与其他矿物伴生。 也被称为「岩之心」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -31,9 +31,3 @@ A seed obtained from the Seed Dispensary. A quality seed full of life, just wait
 ## ZH
 
 通过「化种匣」获取的种子，富有活力，品质上佳，种植于壶中洞天的田亩后，可在一段时间后生长为「松珀香」。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

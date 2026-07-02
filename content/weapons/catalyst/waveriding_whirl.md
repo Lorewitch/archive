@@ -135,14 +135,3 @@ And thus did he witness death's door showing itself to him, just as he had once 
 背负着炽焰的主人来到火的归处，夜神的告诫依旧回荡在耳边。
 他的传奇将永远铭刻在大地之上，不逊于任何一位太古的英雄。
 于是他看到死荫的门向他显现，就如同他曾与神明誓言的那样。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -31,9 +31,3 @@ Wood of the Athel Tree. It has a special texture and is resilient to both drough
 ## ZH
 
 产自「柽树」的木材，质地特别，能够同时抵抗干旱和潮湿，极耐衰损。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

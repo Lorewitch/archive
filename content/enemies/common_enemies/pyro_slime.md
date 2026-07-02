@@ -30,7 +30,3 @@ Its intelligence is very basic, but its uses are just as broad — well, for hil
 逸散在自然之中的火元素沉积形成的小小魔物。
 具有非常基础的智能水平，但似乎具有很广泛的用途。
 对丘丘人而言。
-
-## NOTES
-
-### Общие заметки Лороведьмы

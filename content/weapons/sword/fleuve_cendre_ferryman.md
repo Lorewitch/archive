@@ -191,14 +191,3 @@ But on the future.
 他们看着前方，面容被留影机的灯光照得发白。他们注视着的似乎不是英戈德，也不是留影机，
 
 而是未来。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

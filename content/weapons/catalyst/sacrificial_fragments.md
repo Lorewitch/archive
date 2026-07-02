@@ -62,14 +62,3 @@ Perhaps that is why later generations presumed the shrine to have always been to
 但将这篇剧本腐蚀得无法辨析的，终究还是无情的时之神。
 但是，两者冲刷吹拂时，常给人带来相似的感伤。
 或许这是后来者认为神殿祭祀的始终是风的原因。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

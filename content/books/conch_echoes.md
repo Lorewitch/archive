@@ -251,23 +251,3 @@ And placed the conch amidst the children.
 其貌不扬的男孩，身量短小的男孩，聪颖的男孩。
 他将卷曲了的刀刃扔进海浪里。
 他将海螺放在了众孩童的中间。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

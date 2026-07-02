@@ -80,9 +80,3 @@ Talent Level-Up material. Prosperity is the people's pursuit in the land of Geo.
 ### material: philosophies_of_prosperity
 
 天赋培养素材。 岩之国土的追求是繁荣。 繁荣是璃月的过去、现在与未来。 在此世间一切国度都无法企及的繁荣，均归于璃月，以及璃月的子女。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

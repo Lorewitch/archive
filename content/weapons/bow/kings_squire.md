@@ -155,14 +155,3 @@ And others, when they gazed upon the great agony others suffered, decided to bid
 后来，有的孩子成为了森林的守护者，并将森林的语言、保护王土的责任传给更多人，
 
 也有人在面对他人的巨大痛苦时，决定告别生涯尽头的猎场，成为令恶兽胆寒的猎手。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

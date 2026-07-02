@@ -35,7 +35,3 @@ As such, none can personally attest to having witnessed or recorded such a thing
 据称，幼岩龙蜥历经漫长岁月的积累后，会蜕去原本保护自己的装甲，成为「岩龙蜥」。
 但这两者，以及更古老、更伟大的「古岩龙蜥」，在过去的许多年中都蛰伏在山下，直到近期才开始活动。
 因此这种说法没有第一手观测记录证明。
-
-## NOTES
-
-### Общие заметки Лороведьмы

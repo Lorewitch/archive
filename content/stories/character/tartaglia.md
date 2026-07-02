@@ -9,6 +9,7 @@
 # game_version: 1.1
 # icon: assets/icons/stories/character/tartaglia.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -255,21 +256,3 @@ Thus did Childe, having received his Delusion, swear an oath of fealty to the on
 冷酷而纯粹，傲慢却锋利。
 她不仅是高高在上的冰之神，也是一位真正的战士。
 就这样，获授邪眼的「公子」，向至冬国惟一的女皇献上了效忠的誓言。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

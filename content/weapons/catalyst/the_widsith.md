@@ -67,14 +67,3 @@ But the spirit of resistance they embodied will always flow in Mondstadters' vei
 最终试图闯入城中，诛讨暴虐的旧贵族。
 剑乐团已经不再，他们的反抗也被人遗忘了。
 但抗争的意志，如同血脉，将永远流传下去。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -89,14 +89,3 @@ And together, they sang a rallying cry to save the nation, the hitherto-unsung h
 当异国的角斗奴随着风之神的苏醒奋起，揭起叛逆的高旗时，被称为无名牧者的年长圣徒迅速动员了西风教会真正的教众，最终又与不少人一同，用自己的鲜血灌溉了这片青翠的大地。
 而救国起事的信号，是这首小曲在那之前不曾唱出的另一半。
 「将尖锐的铁片留给值得献出生命的战斗」「将绞刑架留给小贼」「将生锈的箭头磨利」「留到松籁响起之时，将那衣冠禽兽射落」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -77,14 +77,3 @@ Ever since then, the name of the sword and his title were changed forever.
 努力进入官府，并以百倍的勤奋与清明，洗刷家族污名。
 就算自己的寄骑桂木有一丝的渎职，也毫不留情地斩落。
 在那之后，这把刀的名字与他的别称，就永远地改变了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

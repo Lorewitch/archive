@@ -11,6 +11,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/traveler.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -174,21 +175,3 @@ You have needed to consider many such thought-provoking questions, ones that req
 你自己是得不到「神之眼」的。外界生物不属于世间众生，所以他们往往只能隔岸观火…
 将某一瞬间的渴望贯彻一生，到底是好事还是坏事呢？
 在你穿行于诸多世界的旅途中，如「神之眼」一样，需要花时间去思考的见闻，还有很多…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

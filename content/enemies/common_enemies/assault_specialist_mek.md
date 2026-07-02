@@ -38,7 +38,3 @@ However, its ability to attack people – thereby avoiding the need to put frien
 这在当时是用以区分传统发条势能动力的机械机关用的说法）。
 名称是用来纪念发明者的友人而起的，最初设计的目的是帮助人。
 但后来的使用者普遍认为用它攻击人较之用人攻击人的相对优势更大。
-
-## NOTES
-
-### Общие заметки Лороведьмы

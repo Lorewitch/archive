@@ -30,7 +30,3 @@ Their kicks, delivered from up high, should not be underestimated.
 
 来自山崖之上的勇士，在陡峭山峰巡游的部族守卫者。
 从飞龙爪击的动作中体悟到运用力量真谛的战士，自高处使用的踢击不容小觑。
-
-## NOTES
-
-### Общие заметки Лороведьмы

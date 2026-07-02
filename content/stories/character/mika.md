@@ -9,6 +9,7 @@
 # game_version: 3.5
 # icon: assets/icons/stories/character/mika.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -582,21 +583,3 @@ That day, the Reconnaissance Company's dinner was especially sumptuous. Everyone
 同僚们讶异地发现，两名深渊法师的元素护罩早已残破不堪。看着米卡右腕光彩璀璨的「神之眼」，他们似乎明白了什么…
 
 那一天，游击小队的晚饭格外丰盛，大家都为米卡举杯庆祝，只有米卡本人还惊魂未定，云里雾里。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

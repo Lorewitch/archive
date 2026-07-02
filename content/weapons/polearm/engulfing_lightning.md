@@ -86,14 +86,3 @@ But since no one can overturn the impermanence of the world, and the barren natu
 毕竟哪…
 毕竟目睹了深黑的湮灭将珍重之人淹没的景象，又如何不视理不尽的生灭、无解的羁缘为死仇。
 既然谁人都无法逆转现世之无常、绪绝的独乐，那就将心中的常世净土带到她所珍爱的国度吧。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

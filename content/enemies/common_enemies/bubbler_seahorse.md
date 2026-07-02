@@ -30,7 +30,3 @@ It is said that they are proud beings with four long limbs.
 
 雄性的泡泡海马成年后的形态，具有非常强的攻击性。
 曾经有人遇见过海马当中的王者，据说那是拥有修长四肢的高傲生灵。
-
-## NOTES
-
-### Общие заметки Лороведьмы

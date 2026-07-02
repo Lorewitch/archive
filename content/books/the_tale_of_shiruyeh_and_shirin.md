@@ -352,23 +352,3 @@ At this time, the moon was already high in the sky, and the distant, ancient tim
 「有人说，希琳后来被吾主阿赫玛尔所收服，羁押在了精美的银色魔瓶之中。也有人说，她至今还在沙漠中游荡，纠缠着不知天高地厚的冒险家，不知疲倦地找寻着跌进漆黑世界的爱子……」
 精灵骄傲地微笑着，煞有介事地为故事做了总结。
 此时，月已上高天，正是沙漠尚未成为沙漠的遥远古代，神姬举行生祭的时刻。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

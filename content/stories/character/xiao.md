@@ -9,6 +9,7 @@
 # game_version: 1.3
 # icon: assets/icons/stories/character/xiao.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -250,21 +251,3 @@ At that moment, another special feeling blossomed in Xiao's heart. Loneliness? P
 如此时刻，魈心中也有一股特别的情感随之升起。
 寂寞？安心？抑或是，对未来的恐惧？
 少年身姿的仙人扪心自问，却得不出答案。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

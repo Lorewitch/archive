@@ -198,20 +198,3 @@ That day, various worlds bore witness to the young man's wish:
 「如是，我要让司掌决斗的王者永垂不朽。」
 
 —《召唤王》第一部，堂堂完结！—
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

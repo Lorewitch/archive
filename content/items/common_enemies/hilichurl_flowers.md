@@ -75,9 +75,3 @@ A blooming wild flower that a Hilichurl Rogue treasured, bereft of any special q
 ### material: wanderers_blooming_flower
 
 丘丘游侠曾珍视的盛放野花，并不具有什么特别之处。永恒的异乡人从不索要酬劳，所行所为最终都将开花结果…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

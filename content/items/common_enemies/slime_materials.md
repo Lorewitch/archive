@@ -75,9 +75,3 @@ Concentrated slime essence. When left alone, it will begin to move on its own.
 ### material: slime_concentrate
 
 浓缩的史莱姆原浆，静置时会自主进行不规则运动。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

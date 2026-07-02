@@ -75,9 +75,3 @@ A stone hilt obtained from an ancient statue. Only the recentness of its separat
 ### material: still_smoldering_hilt
 
 自古老雕像上取得的的石质剑柄。 或许是因为刚刚离开其主人的缘故，剑柄中的火光还尚未熄灭。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

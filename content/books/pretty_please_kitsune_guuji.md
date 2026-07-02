@@ -179,20 +179,3 @@ It's just... Why does it feel so sweet at the corner of my lips?
 我惊醒，刚刚的情景实在是超出了我的想象范围，毕竟政子此时此刻应该还是在为我疏于政事而生气。
 
 只是…嘴角为何是甜的？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

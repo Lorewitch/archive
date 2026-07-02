@@ -281,35 +281,3 @@ Besides, the housing here is much cheaper than in Liyue Harbor.
 城里一定会有许多工作机会吧，不如就放弃冒险的傻念头，在这个国家找份正经工作。等积蓄起了一笔钱，有了自己的房子，就可以把东东也接过来一起住了。
 
 再怎么说，这里的房子总比璃月港便宜。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-
-#### Том 6
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

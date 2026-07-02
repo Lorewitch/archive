@@ -33,7 +33,3 @@ And this was all that was asked of them in return for the moonlight shining down
 
 长久浸浴古老月之力而演化出独特生态的魔兽。
 据说从前，在边界之地曾被漆黑的阴影笼罩之时，唯有巨犀能通过族群的奔行将可令万物流转的力量重新带回此处…而这也是月光降下恩赐后，向它们索求的唯一的报答。
-
-## NOTES
-
-### Общие заметки Лороведьмы

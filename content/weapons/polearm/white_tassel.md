@@ -58,14 +58,3 @@ He demanded a white tassel for the newly made polearm.
 千岩军士兵素以擅使长兵闻名天下，其所持白缨长枪由黑岩厂批量生产，这武器历经了千百年来无数战火的考验，白缨纵使在硝烟中污损，仍旧傲然飘扬。
 传说军中曾经有枪法精绝的高手，能在千军之中刺上将而不沾白缨。
 「但那故事属于持枪的豪侠」「他的兵器本身却并不出奇」老铁匠在学徒脑袋上拍了一掌，要他给新打造的长枪配上白缨。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -222,38 +222,3 @@ A fairytale story that has been told throughout Teyvat for ages. The final insta
 说完，夜母的人形分崩消融，化成污泥与毒虫散入泥潭。
 
 在悲伤与悔恨之中，侏儒如丧魂魄。他将残躯藏进一处树洞，便孤身走进夜幕，踏上了流放的路途。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-
-#### Том 6
-
-
-#### Том 7
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

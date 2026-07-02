@@ -358,37 +358,3 @@ In dreams between the eternal and the fleeting, we await the final hour offered 
 
 
 古时为空月献上赞美诗的诗人，在念诵出最后一个音节时摘下的银冠。
-
-
-## NOTES
-
-### Общие заметки Лороведьмы
-— общий комментарий по сету;
-— кому посвящён;
-— связи с регионом/персонажами/событиями.
-
-### Заметки по частям
-
-#### Цветок
-— заметка к цветку.
-
-#### Перо
-— заметка к перу.
-
-#### Часы
-— заметка к часам.
-
-#### Кубок
-— заметка к кубку.
-
-#### Корона
-— заметка к короне.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

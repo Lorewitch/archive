@@ -32,7 +32,3 @@ For the Children of Echoes, who delight in gemstones and all manner of crafted o
 来自峡谷之中的勇士，在琉晶山川巡游的部族守卫者。
 双手挥舞巨锤的部族战士，会率先攻破敌人防御的先锋。
 在喜好宝石和装饰品工艺的「回声之子」，锤子往往是战士们仍在孩童时期就经常接触的工具。
-
-## NOTES
-
-### Общие заметки Лороведьмы

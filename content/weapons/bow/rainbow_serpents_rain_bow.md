@@ -162,14 +162,3 @@ There, according to legend, stood the first Iktomisaurus, newly emerged from the
 正疑惑于方才目睹的异象是否只是因一时疲惫产生的幻梦，
 身侧柔软如绒羽、清冷如夜风的触感却让青年不由得回头——
 ——传说那是自夜神的国度走出的，第一只真正的暝视龙。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

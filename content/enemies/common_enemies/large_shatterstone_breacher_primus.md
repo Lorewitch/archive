@@ -32,7 +32,3 @@ The visual perception of Melusines is very different from humans.
 主要出现在厄里那斯的奇异生命体。
 在美露莘的认知里，隙境原体是基本上无害的生物，甚至有美露莘认为它十分可爱。
 美露莘的视觉感知与人有很大的区别。
-
-## NOTES
-
-### Общие заметки Лороведьмы

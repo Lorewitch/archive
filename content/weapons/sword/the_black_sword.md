@@ -109,14 +109,3 @@ Until he came upon an ancient, ruined realm, where he discovered the ultimate in
 就算少女献给你的白花被血污染黑，就算剑不再明亮，就算英俊的面容变得扭曲可怖，不得不用铁面具遮掩，就算受你保护的寻常世人不能理解，也绝不要停下来！
 被染黑的骑士在声张正义的巡礼中，循着魔物的踪迹，找到了覆灭的古国。
 其中，他终于发现了至大的不公…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

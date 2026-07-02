@@ -122,16 +122,4 @@ And so the solitary guide now stands, her crown wrought from the countless joys 
 在那只属于她一人的旅途与回忆之上，寻得了她无可替代的华冠。
 昔日不曾投下目光的世间，镌刻在无法再度歌唱之人瞳中的世间，
 万丈红尘，歌哭悲欢，凡人英雄的冒险，皆为孤独的指引者加冕。
-——多美的世界啊。 
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.
+——多美的世界啊。

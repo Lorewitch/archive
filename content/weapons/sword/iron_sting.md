@@ -74,14 +74,3 @@ Reminiscing about a girl from his hometown, a love that ended too soon, and a pr
 每有好事者问起，船主都置之一哂。
 传言在风中回荡，有人说是战胜海盗的猎获，也有人称是劫掠的战利品。
 但当晚霞落幕，风帆降下时，大副总会轻轻擦拭着佩剑，回想着风之国的旧梦，回想着自己身为游侠的失落时光，回想着在故乡遇到的少女、无果的恋情，与重逢的约定。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

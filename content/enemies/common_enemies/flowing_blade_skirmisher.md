@@ -32,7 +32,3 @@ Their seemingly ordinary fists and feet contain the power equal to the crashing 
 来自流泉之源的勇士，在临水流域巡游的部族守卫者。
 手中空空，精通最原始搏击技巧的部族战士。
 看似平平无奇的拳脚中，蕴藏着海浪般的力量。
-
-## NOTES
-
-### Общие заметки Лороведьмы

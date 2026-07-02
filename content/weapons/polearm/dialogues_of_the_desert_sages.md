@@ -112,14 +112,3 @@ All of this is part of this version of the story of "King of Invokations."
 
 然而鳄之王与鹮之王没有理解赫曼努比斯的告诫，仍然争斗不休。在最后他们发明了奇怪的召唤魔法。鳄之王与鹮之王跨越了千年，在七圣召唤的赛场上继续着当年的胜负…
 这些就是《召唤王》版本的故事了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

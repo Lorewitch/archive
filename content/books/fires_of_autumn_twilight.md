@@ -136,26 +136,3 @@ And in the end, she thought to herself, there was indeed to be no escape.
 最终还是没能逃脱，她想。
 
 「都死了，」恩扬贡德霍长老擦了擦额头上反射着烛油的汗，将半缕烧成灰的帷幔从横梁上扯下，丢到一旁。匆匆赶来救火的小伙子们围在他身边，不明白平日里看守森严的仓库怎么会突然烧起来。他叹了口气，四下里看了看，不抱希望地想要找到起火的线索。然而，和刚才一样，除了两具焦黑的遗骸，和高高悬挂在他们上方的龙头骨标本——几年前被她独自讨伐的恶龙，整个库房早已被烧得一干二净。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

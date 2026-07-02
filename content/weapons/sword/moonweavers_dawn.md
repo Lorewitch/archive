@@ -111,14 +111,3 @@ So, even as the pure silver blade pierced her back, the last Archpriestess of th
 
 「呵…索洛维先生说得没错，您只是在向我们编织谎言而已呀，娄维娅奶奶」
 「否则…您的纺线崩断时，流淌的为何不是银白的月光，而是猩红的曙色呢」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

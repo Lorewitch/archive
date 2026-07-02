@@ -85,14 +85,3 @@ The atlas, meanwhile, has been entrusted to one worthy of the honor.
 如今，蒙德的天空平静蔚蓝。
 风神与风龙找到了新的归宿。
 而此卷则被委托予可信之人。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

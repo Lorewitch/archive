@@ -30,7 +30,3 @@ Receives a powerful shock from encountering ousia or pneuma energy, and thus Bre
 
 主要出现在厄里那斯的奇异生命体。
 在遇到荒性或芒性能量似乎会受到很强的刺激，因此尽管并不具有很强的攻击性与侵略性，这种手段似乎能够有效驱除隙境原体。
-
-## NOTES
-
-### Общие заметки Лороведьмы

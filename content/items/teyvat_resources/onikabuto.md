@@ -31,9 +31,3 @@ A strange beetle that inhabits areas rich with Electro energy. Its docile and se
 ## ZH
 
 栖息在雷元素富集区域的奇异甲虫。 与甲壳上宛如怒目而视的恶鬼之相相反，鬼兜虫其实非常温顺迟钝。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

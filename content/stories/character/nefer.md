@@ -9,6 +9,7 @@
 # game_version: 6.1
 # icon: assets/icons/stories/character/nefer.webp
 # tags:
+# character_filters: lunar_omen
 
 ## RU
 
@@ -525,21 +526,3 @@ This extraordinary item should serve as a powerful deterrent at the meeting thre
 ——看来，图特的万千谎言之中，还存在着一点点真心话。
 随后，她把这枚姗姗来迟的礼物丢进了文件袋。
 在三天后的谈判会上，这枚超凡之物，应当能起到很好的震慑作用。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

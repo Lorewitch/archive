@@ -163,14 +163,3 @@ And just as he was wailing and rejoicing, the young heir of the Flower-Feather C
 
 即便是远谋深算的僭主也未能料及，通往权柄的阻碍竟被如此轻易扫去。
 而就在他哀恸与欣喜之余，花羽会年轻的继承人向他献上了另一条密谏…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

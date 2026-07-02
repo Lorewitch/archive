@@ -69,14 +69,3 @@ Those with fire in their hearts can still hear these whispered words from flicke
 那些被恶业与灾殃缠上的往者，未能承受深重哀伤的逝者，将在火中化作灰之蛱蝶，自浊世的一切不幸与嗟伤中解脱。
 而点燃无数柴禾堆的医者，传说也最终化成了飞蝶般的烟。
 即使这种祭仪随着和平与岁月被遗忘，漆黑的明威面前中，心中怀着烈火的人总能听见，炫惑的火之舞低吟，只有无羁的炽焰能净化天地…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

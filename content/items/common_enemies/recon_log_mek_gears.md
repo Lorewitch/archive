@@ -75,9 +75,3 @@ Clockwork meka's gear. Precision processing and advancement of material science 
 ### material: artificed_dynamic_gear
 
 发条机关的齿轮。加工精度与材料学的进步是枫丹发条机关进步的关键。在先进设备的支持下，任何工程师都有制造出超越「奇械公」吉约丹时代机械的可能。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

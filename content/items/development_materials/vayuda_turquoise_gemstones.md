@@ -98,9 +98,3 @@ Character Ascension material. "Still, the winds change direction. "Someday, they
 ### material: vayuda_turquoise_gemstone
 
 角色突破素材。 「但风向是会转变的。 「终有一天，会吹向更有光亮的方向。 「从今往后，带着我的祝福，活得更加从容一些吧。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

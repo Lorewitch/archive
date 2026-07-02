@@ -29,8 +29,3 @@ They may also lend their aid to other hilichurls or hilichurl tribes for various
 
 不属于任何部族的丘丘人流浪者，如同自我流放一般在荒野中四处漫游。
 会在因缘的指引下帮助需要帮助的丘丘人、丘丘聚落，并在完成使命、因缘结束后启程离开。相比寻常的丘丘人似乎有更高的智能水平。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

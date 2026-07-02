@@ -39,7 +39,3 @@ These weapons once had a true name, but it has long been lost to the desert sand
 的武器进行战斗。
 传说在古代，侍奉沙漠神祇的隐士会携带这种战戟作为身份的象征。
 这种武器的真名已经失落在沙海中。
-
-## NOTES
-
-### Общие заметки Лороведьмы

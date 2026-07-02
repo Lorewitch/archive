@@ -35,7 +35,3 @@ Perhaps if the oceans dry out some day, they will be able to continue to survive
 实际上是储存元素能量的脂肪块。
 这种水生动物究其一生都在进食、储存实际活动中并不需要的大量能量。
 或许在大海干涸后的末日，它能够继续存活很长的时间，或是成为其他生物的重要养分。
-
-## NOTES
-
-### Общие заметки Лороведьмы

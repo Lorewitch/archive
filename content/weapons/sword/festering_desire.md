@@ -71,14 +71,3 @@ This is a memory, a memory that a child named Durin had of his mother...
 然后，我可爱的孩子们啊，就像雨水流向溪流，草木向阳光伸展那样，到美好的地方去，骄傲展现自己的美丽吧。
 这是名为杜林的孩子，对「母亲」的回忆…
 「妈妈，谢谢你，妈妈」「给了我翱翔的翅膀，给了我健壮的身躯」「我啊，想到有美好歌声的地方去，妈妈」「告诉他们，大家的事情，和妈妈的事情」「告诉他们，我出生的地方，有多么美丽」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

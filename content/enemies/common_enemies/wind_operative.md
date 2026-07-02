@@ -38,7 +38,3 @@ In order to effectively carry out missions of a more special nature,"Operatives"
 依据命令与任务的内容，她们既可以与士兵同进退，也能独自或者与埋在各地的「钉子」
 一同，进行谍报、反侦察、护卫、抹杀等工作。
 为了那些更为特殊的任务，役人往往也需要掌握多种多样的技能乃至才艺。
-
-## NOTES
-
-### Общие заметки Лороведьмы

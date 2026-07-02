@@ -32,7 +32,3 @@ That realm's glory has been extinguished, never again to be reclaimed.
 「末光之剑」
 也曾是他们当中的一员。
 在王国的光荣尽数失落、一切都无可挽回之前。
-
-## NOTES
-
-### Общие заметки Лороведьмы

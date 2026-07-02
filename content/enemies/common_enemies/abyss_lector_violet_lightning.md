@@ -34,7 +34,3 @@ its violet glow proclaiming the existence of a great power that corrodes human i
 驱雷掣电，高颂着漆黑渊薮的魔物，隶属于「深渊教团」。
 它们是深渊的布道者、学士。
 以狂雷将冥冥长夜所扭曲的深黑智慧，灌入不信者的心中，以无边的紫电，昭告侵蚀人智的伟大力量的存在。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -75,9 +75,3 @@ A sharp nail left behind by one of the Riftwolves. All the marvels in the world 
 ### material: concealed_talon
 
 兽境群狼的利爪。 世之奇珍，但是和最高杰作「白垩层」相比，只是寻常之物罢了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

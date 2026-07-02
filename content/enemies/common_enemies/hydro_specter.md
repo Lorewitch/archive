@@ -31,7 +31,3 @@ Their furtive forms are often mistaken by passers-by for wandering spirits, whic
 高浓度的水元素孕育而生的魔物，能够飘浮在空中。
 在月夜里，飘荡在河边的水飘浮灵散发着幽光。
 鬼鬼祟祟的它们常被路过的旅人当作游魂，也因此成为了不少乡间民话的常客。
-
-## NOTES
-
-### Общие заметки Лороведьмы

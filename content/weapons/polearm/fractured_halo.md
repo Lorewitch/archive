@@ -126,14 +126,3 @@ Hidden where no one else will ever know, kept safe to this very day.
 寰宇行宫中的那些沉默的侧影，悄悄藏起了一片落于身前的月骸。
 此时正置于旋刃机关中央的空腔，
 于再无他人知晓之处，保存至今。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/mona.webp
 # tags:
+# character_filters: witchcraft
 
 ## RU
 
@@ -326,21 +327,3 @@ Until one day, when a Vision of her very own would quietly indwell this old teac
 那是师父作为教具赠予她的物件。关于那段与师父共同度过的岁月，它是当下唯一的证物。
 她小心地保存着这份遥远的记忆。造型精巧的教具就这样陪伴着她，宛如普通女孩所用的饰物。
 直到某一天，属于她自己的「神之眼」，悄然降临到这枚古老的教具中…
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

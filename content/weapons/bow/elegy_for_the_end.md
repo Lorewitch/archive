@@ -83,14 +83,3 @@ And after her voice and her tears had run dry, the girl swore to use her life's 
 真想再听听她唱的歌」「至少艾伦德林与罗兰无恙。
 她归乡时，灾厄应该已经平息了吧」称颂神、记载双龙之战的诗有许多，最终又慢慢佚失，那位少女曾经爱唱的小曲，也在她返乡后，变了样子。
 「蒲公英随着晨间的风远行」「秋日的风带回收获的芬芳」「但无论怎样的风」「也不能再为我带来你的注视了」泪水与歌声都枯竭后，少女决定挥霍生命之火，洗净世界的歪曲…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

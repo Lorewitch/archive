@@ -31,9 +31,3 @@ A shiny pearl spat out by a loach that has mystical medicinal properties. Minera
 ## ZH
 
 鳅鳅吐出的闪亮珍珠，有神奇的药用效果。 鳅鳅会将摄入的矿物质和元素凝结成带有微弱魔力的珠子，在紧急情况下，会将这些珠子吐出来迷惑狩猎者，以保全性命。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -80,14 +80,3 @@ As the final cry of the bird he had murdered pierced his heart, just as his arro
 但这柄弓最终被一名士兵随手操起，放箭击落飞雁。
 「真是好弓」无心的士兵由衷称赞道。
 但禽鸟垂死时的嘶鸣，也如利箭一般击碎了他的心。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

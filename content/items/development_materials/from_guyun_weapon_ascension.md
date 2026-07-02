@@ -98,9 +98,3 @@ Weapon Ascension Material. That which lurks within and animates this relic are t
 ### material: divine_body_from_guyun
 
 赋予武器突破之力的材料。 于此躁动、作祟的，正是嗟叹连绵的众神圣骸之体。 它们是未能实现的理想，对人类另一种幸福生活的描绘。 它们以深海、层岩收纳，却不愿意就此入梦。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

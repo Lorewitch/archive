@@ -82,14 +82,3 @@ A pristine bow that is as sharp as the glaciers of the far north.
 「愿随我等走向至暗之地者，一同创造新世界吧。」
 「须知一切的尽毁将是全新秩序的肇始。」
 「在坏灭的终点迎来的将是无垢的黎明。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

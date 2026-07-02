@@ -75,9 +75,3 @@ A glossy bone mask with oil markings painted on it, meant to intimidate enemies.
 ### material: ominous_mask
 
 光亮的骨质面具，上面涂绘着意在恐吓敌人的油彩。 丘丘人对面具的执着缘起为何，至今无人能解。一说认为是不愿看见自己在水中的倒影。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно написать заметки по группе материалов «Маски хиличурлов».

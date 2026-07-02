@@ -28,8 +28,3 @@ These sneaky fellows are skilled in the use of Pyro Slimes, using them as weapon
 
 提瓦特荒野中游荡的原始住民。
 擅长活用火史莱姆的狡猾家伙，把火史莱姆用作迎击来犯者的武器。利用火史莱姆的爆炸，投掷技巧精湛的爆弹丘丘人或许可以一次击碎五根木柱吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

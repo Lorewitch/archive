@@ -89,14 +89,3 @@ That is me who sings the songs of freedom, of the winds.
 扉页上，飘逸的字迹如是写道：风之神的孩子啊，要永远记住：众生从风中来，也将随风而去。
 千万，千万不要为我感到哀伤：尘泥中酣睡的只是我的骨与肉，真正的我已化作千风中的一缕。
 闻见花香时，听见树涛沙沙时，便是我在唱自由的歌，风的歌。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

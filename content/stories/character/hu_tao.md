@@ -9,6 +9,7 @@
 # game_version: 1.3
 # icon: assets/icons/stories/character/hu_tao.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -376,21 +377,3 @@ Perhaps this then constituted a heavenly gift... the ultimate recognition of her
 水食耗尽、掏得空空的背包中，不知何时，悄然多了一枚流光溢彩的「神之眼」。
 作为极少数敢在「边界」逗留的生者，胡桃作为或许打动了某位不可言说的神明。
 她因而获得高天的馈赠…极致的力量之证。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

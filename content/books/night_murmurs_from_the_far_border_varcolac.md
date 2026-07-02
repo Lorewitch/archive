@@ -137,20 +137,3 @@ The tale abruptly ends here. Who can say for certain whether this is a legend or
 话音未落，那怪物猛地张口，獠牙闪烁寒光，一口咬向猎人的脖颈。
 
 故事到这里戛然而止。谁又能说清，这究竟是传说，还是未被揭穿的真相？或许名为鬣兽的妖精真的长着两颗心脏？名为「鬣兽」的妖精如今已经近乎绝迹，不少人已经将他们当成荒诞不经的传说了。不过，听说至冬国的叶芙兰皮娅·奥尔洛娃王公夫人正是鬣兽，只不过并不是浑身狼毛的鬣兽罢了。想要印证这个传说也很容易，不过，亲爱的读者，恐怕您并没有这个胆量向那位高高在上的夫人查问吧！
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

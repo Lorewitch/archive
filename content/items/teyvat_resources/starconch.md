@@ -31,9 +31,3 @@ Empty seashells brought ashore by the tides. Hold it close to your ear, and hear
 ## ZH
 
 随着海潮来到沙滩上的螺。 将耳朵凑近空壳，能听见海充满思念的呼唤。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -28,8 +28,3 @@ Hilichurls especially gifted in commanding the elements who often reach the zeni
 
 嘟嘟囔囔的老年丘丘人，风元素的传信者。
 在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰，其牵掣流风的能力，正是来源于黑暗晦暝的失落记忆。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

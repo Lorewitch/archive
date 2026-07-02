@@ -91,20 +91,3 @@ But the silence of the tranquil moment shared by Octave and the girl was interru
 
 在大主教的命令下，内心单纯的奥克塔维趁着沉沉夜幕爬上了宫廷客房的阳台。但看到月光下哭泣的少女，这从未见过的景象在他的心中激起了一阵波动。只顾在阳台呆望少女的奥克塔维，恍然间忘记了自己的任务。
 直到贵族仆人们喧哗突起，将他和少女从纯洁的静默中惊醒……
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

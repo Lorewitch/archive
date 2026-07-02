@@ -31,9 +31,3 @@ Timber from the Amur Maple. Excellent quality wood with a fine color and texture
 ## ZH
 
 产自「羽扇枫」的木材，硬度适中，品质优异，色泽与纹理上佳。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

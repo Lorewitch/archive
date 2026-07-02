@@ -35,7 +35,3 @@ These cure-alls certainly seem to serve better in combat than they ever did in c
 据说部分盗宝团的药剂师，在加入盗宝团之前，曾经是在城镇间漫游，兜售自己调配的…「灵药」、「圣水」
 的江湖骗子。
 这些灵药、圣水显然在战斗中更能大放异彩。
-
-## NOTES
-
-### Общие заметки Лороведьмы

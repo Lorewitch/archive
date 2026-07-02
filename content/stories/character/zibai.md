@@ -9,6 +9,7 @@
 # game_version: 6.3
 # icon: assets/icons/stories/character/zibai.webp
 # tags:
+# character_filters: lunar_omen
 
 ## RU
 
@@ -489,21 +490,3 @@ In that fleeting moment of chill, she realized that before she was consumed by t
 也是那个时刻，月的徽章像眼泪一样滴落在了她的脊背。
 那是她目睹过也拒绝过的冷辉，给予了她和给予花园中的花草一样的宁静与抚慰。
 在片刻的冰凉下，她想到了，在焚于晨星的炙烤前，她也能再爱她的花朵亿万年。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

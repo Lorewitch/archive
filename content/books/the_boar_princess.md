@@ -400,38 +400,3 @@ The Princess took the pup by his paw, and the two merrily returned to their home
 公主牵起小狼的爪子，一起回到了家乡。
 
 【最后一页夹着一张卡片，字迹娟秀细腻：「老公，我觉得这本童话书还是捐给图书馆比较好。」】
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-
-#### Том 5
-
-
-#### Том 6
-
-
-#### Том 7
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

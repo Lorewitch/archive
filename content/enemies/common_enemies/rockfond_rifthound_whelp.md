@@ -32,7 +32,3 @@ Fortunately, there are few of them left now in this world.
 将其命名为「淋溶」。
 有伴随渊薮的渗透，吞噬元素的习性。
 值得庆幸的是这些魔兽如今数量并不多。
-
-## NOTES
-
-### Общие заметки Лороведьмы

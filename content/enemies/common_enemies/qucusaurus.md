@@ -35,7 +35,3 @@ Of course, the Qucusaurs we see today no longer possess such forms, but the claw
 据说绒翼龙的先祖是最接近巨大翼龙形态的龙兽，能够如云一般在天际巡游。
 叙事人的故事里，远古翼龙里最伟大的那只，只要张开翅膀，就可以遮蔽一整片天空。
 如今的绒翼龙自然不再具有那样的形态，只有藏在绒羽之中的龙爪仍如从前一般锋利。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -47,14 +47,3 @@ Reach the far side of philosophy, and create a new destiny for myself and your b
 要欢愉地从烈火中分离尘土，自粗劣中炼化精妙。
 因宇宙皆源于一物，是故一物之思索可衍化万物。
 你要遂行名录中的长兄，一角的白骏所未竟之事，抵达哲学之彼岸，为你的兄弟与我织造新的命运…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

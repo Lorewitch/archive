@@ -125,14 +125,3 @@ Until the last shadow of the ashen sun burns away the old world, until the Crims
 「若是厄月之骸早已将你锚定于死，旧日血仇又有何意义可寻」
 「若是她编织的命运这般讥嘲我等，我等亦不妨高声讥嘲命运」
 「直至烬日最后的残影焚灭旧世界，直至赤月见证无垢的明晨」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

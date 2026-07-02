@@ -9,6 +9,7 @@
 # game_version: 6.0
 # icon: assets/icons/stories/character/lauma.webp
 # tags:
+# character_filters: lunar_omen
 
 ## RU
 
@@ -348,21 +349,3 @@ So she held that puzzling Moon Wheel in her palm, silently reciting the three pr
 然后她马上制止了自己，以免陷入谎言的陷阱。
 又或许这就是这枚月之轮的作用，是对她的警戒、限制，与以及责任的象征。
 于是她将那枚令她不解的月之轮握在手心，在心中又默念了一遍三条戒律。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

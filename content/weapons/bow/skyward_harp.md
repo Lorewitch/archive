@@ -91,14 +91,3 @@ Soon, Dvalin shall hear once more his songs.
 仇怨压倒了怀念之情，象征主神的竖琴却仍在思慕。
 百年的误会终将消除。
 它终重又听见他的歌。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

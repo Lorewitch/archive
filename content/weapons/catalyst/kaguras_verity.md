@@ -128,14 +128,3 @@ And the wait for her to come around seemed to stretch out infinitely, but I knew
 剑豪漆黑的残魂、隐伏神林的灾异之兽，亦被尽皆平祓…
 与殿下追逐的永恒一梦相比，这些不过瞬息即灭的插曲，等待殿下醒转的日子仿佛无穷尽，但我自认有的是时间。
 「毕竟相比无风无月的净土中，那永不凋零的莲与优昙」「俗气如我者可耐不得这种寂寞，无心无梦者未免无聊」「莫如呆笑着醉折雷樱花枝，同放肆的妖怪们流觞欢闹」「这些呀，都是并不遥远的过去，亦是充满希望的将来」「不知待到雪融之刻，还能否随同殿下共赏那淡紫初芽」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

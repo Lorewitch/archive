@@ -9,6 +9,7 @@
 # game_version: 4.1
 # icon: assets/icons/stories/character/wriothesley.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -411,21 +412,3 @@ Wriothesley smiled back by way of reply, but made no further comment.
 第一个对此表态的是为他授予称号的最高审判官。那维莱特的微笑十分礼貌，恰到好处，但他看起来仍比莱欧斯利本人要更高兴些：「恭喜，你终于找到自己想做的事情了。」
 
 莱欧斯利听罢笑了笑，未加说明。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

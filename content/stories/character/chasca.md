@@ -9,6 +9,7 @@
 # game_version: 5.2
 # icon: assets/icons/stories/character/chasca.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -566,21 +567,3 @@ Picking it up, she flicked it into the air with her thumb before catching it.
 她低头，那是一枚闪烁着光芒的神之眼。
 她捡起神之眼，用拇指将它弹到半空，又伸手接住。
 「来吧，不管前面还有多少的争斗，我都会逐一调停…包括『你』在内。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

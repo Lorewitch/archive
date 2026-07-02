@@ -115,14 +115,3 @@ It has been used for several purposes beyond its original design during some cer
 由于它是可以随身携带而不用受到怀疑与盘问的长弓，
 
 因此在某些特别的时代，也曾被用在设计外的目的上。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

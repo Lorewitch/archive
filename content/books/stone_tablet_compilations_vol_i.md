@@ -68,20 +68,3 @@ Rex Lapis pacified the gods, adepti and yakshas were content in their positions,
 …
 
 岩王平定诸魔神，仙人夜叉各安其位，璃月复归平和。此前魔神混战千年，桑田尽毁。璃月之民遂以商贾、巧工为业。其佼佼者联合一体，名之「七星」。故璃月港雏形既成。七星下辖又有八门，内外诸业无所不包。又有千岩之军听令七星，内抚民众，外镇妖魔。是所谓岩王帝君之治。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

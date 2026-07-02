@@ -31,9 +31,3 @@ A special feather-shaped species of plant that grows by the seaside. It looks ki
 ## ZH
 
 生长在海边如羽状的特殊物种，看似是水草般的植物，实际上是形态特殊的水栖软体珊瑚。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

@@ -337,20 +337,3 @@ And who knows? Perhaps the fruit of this strange encounter — the creation of t
 果酒湖的危机解除了，嘟嘟可和火花骑士立了大功！
 
 说不定，这一次奇遇的收获––––制作特别蹦蹦的经验，以后还有用到的机会呢！
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

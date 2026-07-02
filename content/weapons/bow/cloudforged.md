@@ -135,14 +135,3 @@ Deus Auri's contract never stipulated that mortal resolve could never surpass ad
 「有云氏之巧，斫木为鸢，削竹为鹊，游飏三日而不集，是谓天下至工」
 「然则其世业，镌岩为坊，筑云为阁，贯天衡以成黑岩，故谓之利于民」
 「有云氏所言：何谓之巧？何谓之拙？利于民者谓之巧，余者皆谓之拙」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

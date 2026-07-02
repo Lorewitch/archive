@@ -173,14 +173,3 @@ Oh. Sorry."
 「是喔…再讲讲别的故事吧！」
 
 「别的故事吗…下次吧。今天就讲到这里，不然鱼儿都被吓跑了。」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -125,14 +125,3 @@ And like some other tools, unauthorized possession of it also became prohibited 
 后来它随着各种进步而退出了枫丹的历史舞台，
 
 未经允许的持有也与一些其它工具一同，为行政命令所禁止。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

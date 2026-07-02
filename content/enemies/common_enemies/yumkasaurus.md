@@ -35,7 +35,3 @@ However, in order to maintain their form after their abilities degenerated, they
 传说中，原本的匿叶龙并非现在的模样，而是更小，小到不易被观察到的程度。
 它们甚至可以随意游荡在风中，依附在其他巨龙的身体表面，或是如云一般群聚与游移。
 只是后来为了能够维持住能力退化后的形态，不得不选择现在的身姿。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -78,14 +78,3 @@ But his fervor, along with his will to protect Mondstadt, have stayed with the k
 但永远恪守职责，一切为了蒙德的他没能活到那一天。
 鲁斯坦创造的剑术，没有人能达到他过去曾有的高度。
 但他的热诚与守护之心，却实实在在地传承到了今天。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

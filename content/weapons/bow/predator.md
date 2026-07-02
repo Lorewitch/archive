@@ -52,14 +52,3 @@ She was just going to use this to hunt wild boars next, since it appeared that i
 但是奇怪的少女纠正说不是。
 单纯是因为这个世界用弓箭狩猎，居然可以收获兽肉。
 她准备接下来就去抓林猪。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -73,14 +73,3 @@ But the wording of the oath on the inscription was lost forever.
 而贤明的宫廷魔导师们，从此不再提及那历史与誓言。
 西风骑士团时代里，这座神像得到重建。
 但铭文上的誓言内容已经被永远遗忘了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

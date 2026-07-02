@@ -183,23 +183,3 @@ But in these times of peace, the belief of the Four Winds has gradually eroded a
 但在和平的时代，四风守护的信仰已经佚失，对应的庙宇也荒弃了。
 
 【某人的批注：当我们终于发现，与骑士团数次交战的陌生害兽「风魔龙」，就是四风守护中的特瓦林时，仇恨驱动的对立已经形成，无法和解。时隔百年后苏醒的它，无疑只能感受到这座城市对它的背叛吧……】
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

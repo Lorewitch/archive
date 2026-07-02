@@ -35,7 +35,3 @@ They will sometimes sit by the fireside in their sand-swept homeland and play so
 为了报酬，愿意为任何人效力。
 使用手斧的女战士在厮杀时往往一往无前，以此打乱敌人的阵脚，为战友创造机会。
 在沙漠的故乡里，她们有时会坐在篝火边，弹起那些失落在沙海中的悠远歌谣。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -9,6 +9,7 @@
 # game_version: 4.2
 # icon: assets/icons/stories/character/furina.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -483,21 +484,3 @@ And as for several vivid figures from the story, they would eventually be given 
 当她好不容易和沙龙成员一起把受灾的屋子都收拾妥当，她接到了来自公寓管理者的最后通牒——
 
 「就算它们是勋爵或者夫人，本公寓也禁止饲养宠物。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

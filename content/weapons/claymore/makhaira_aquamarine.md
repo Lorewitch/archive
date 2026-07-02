@@ -135,14 +135,3 @@ The displaced, thrown into the sea of sand by the whirlpool that consumed everyt
 善舞大剑的姬妾最终没能成为王后，活下来讲述这一切的年迈贤臣也失去了双眼。
 
 被消磨一切的漩涡抛向沙海的失国者，成了流浪者，成了佣兵，最终被林海淹没…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

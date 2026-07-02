@@ -30,7 +30,3 @@ Their form is similar to that of Ruin Guards, but is more distorted and more pow
 古老的人形战斗机械。
 形态与遗迹守卫相似，但形态更为扭曲、力量更为强大。
 似乎是为了驱动过于沉重的躯体，在双脚上还额外装配了能量核心。
-
-## NOTES
-
-### Общие заметки Лороведьмы

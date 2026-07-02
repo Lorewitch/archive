@@ -72,14 +72,3 @@ But the Gunnhildr Clan continues to act as guardians of Mondstadt to this day.
 终幕讲述的是守护者，守护生命与自由的故事。
 祭礼的传统与历史如今，已经彻底遗失。
 但古恩希尔德一族至今仍在扮演守护者。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

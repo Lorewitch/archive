@@ -67,14 +67,3 @@ At the end of the war, and when the wind of resistance first blew,In the company
 那是北风的僭主与高塔君王鏖战的年代，女猎手误以为自己曾拥有奴隶主的宠爱。
 在战斗的最末，在抗争之风吹起的时候，她同无名的少年、无名的精灵、无名的骑士一同，登上如剑刺向深空的尖塔，挑战风中的乖僻王者。
 「如此便能得到他的注视吧」然而直到她将箭矢射向他的那一刻，直到聚拢的烈风将她撕碎的那一刻，她才意识到自己与烈风之主的距离。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

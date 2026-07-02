@@ -50,14 +50,3 @@ It then dawned on him that he had made a bow.
 于是他将弹弓的弹子改成木制的长杆，后面加上适应气流的鸟羽。
 为了新的弹子又将弹弓的把手去除，将弓弭加长反曲以加强拉力。
 最后他发现自己做了一把弓。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

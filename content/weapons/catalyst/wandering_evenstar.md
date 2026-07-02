@@ -129,14 +129,3 @@ When the teachings of death were whispered in his ear, he finally realized the m
 「若流离的宿命将我引向月色的白弓，若晚星昭示着末路」
 
 「那么，欣然接受自己的命运，多少也强过死于追逐猎鹰」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

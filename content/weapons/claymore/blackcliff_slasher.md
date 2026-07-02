@@ -93,14 +93,3 @@ The Tianshu of that age personally engraved an inscription upon the blade:
 龛中巨剑隐隐闪烁，如泣如诉。
 寒策连夜入山，取回了斩刀。
 当代天枢星亲笔为它赐铭：「开山裂海，撕云断月」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

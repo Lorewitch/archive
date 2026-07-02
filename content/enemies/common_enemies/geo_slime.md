@@ -30,7 +30,3 @@ Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes
 大地之中的岩元素凝聚形成的小小魔物。
 广义而言，地壳之中蕴含着丰富的岩元素。
 由此产生的岩史莱姆也让人有着脚踏实地的感觉。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -29,8 +29,3 @@ If these monsters capable of only crude language and bereft of missing history c
 
 不属于任何部族，似乎是在追寻一族命运之肇始，寻找如今已经失落的光辉的丘丘人流浪者。
 假使这些只有简单语言，也不具备文书传承的魔物当中，有史诗、有传奇，它们应当就是其中的主角吧。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

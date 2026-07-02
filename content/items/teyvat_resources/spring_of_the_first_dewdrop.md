@@ -31,9 +31,3 @@ A limpid drop of dew floating amidst the waters of Morte Region. It is different
 ## ZH
 
 悬浮于莫尔泰区水体深处的清澈露滴，与常见的纯水造物不同，似乎凝聚着更为原始而纯粹的元素能量。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

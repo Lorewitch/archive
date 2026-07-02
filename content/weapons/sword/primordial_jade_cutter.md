@@ -89,20 +89,3 @@ Gifts ungiven and bonds unspoken will become sharp blades with which to cleave e
 
 当酒器被血水溢满，温情被冷酷的欲望撕碎，化作尘埃飞散，
 未能送出的赠礼，未能诉说的友谊，亦成了斩向旧友的利刃。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

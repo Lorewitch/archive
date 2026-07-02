@@ -218,20 +218,3 @@ I would even dare to say that if I could speak the language of Slimes or Hilichu
 我敢断言，假设我能掌握史莱姆或者丘丘人的语言，那它们也会折服在这句话的魔力之下。因此我并不希望所有人都学会这句话，尤其是我的竞争对手。
 
 ……
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

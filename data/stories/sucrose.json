@@ -36,6 +36,9 @@
     "anemo"
   ],
   "element": "anemo",
+  "character_filters": [
+    "witchcraft"
+  ],
   "parts": [
     {
       "number": 1,

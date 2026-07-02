@@ -38,7 +38,3 @@ Some say that his research materials were eaten during a fungal infestation.
 曾经有一名学者阿尔瓦·尼古拉，在教令院学习时曾对雷深渊法师使用的雷元素模型进行过系统的研究，最终提出了名为「尼古拉线圈」
 的理论武器，可惜至今无人将其付诸实践。
 一说认为他的研究资料在蕈兽泛滥的时候被吃掉了。
-
-## NOTES
-
-### Общие заметки Лороведьмы

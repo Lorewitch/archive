@@ -138,26 +138,3 @@ As for how the story will unfold, pay close attention, for all will be revealed 
 我连忙把伙伴们全召集来，连淡水也没来得及带，一路逃回了船上。这时我们定睛一看，哪里还有什么岛屿，身后只有一片汪洋而已。
 
 至于后事如何，且听下卷分解。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 1.0
 # icon: assets/icons/stories/character/xingqiu.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -236,21 +237,3 @@ This text should have been free for all to read. The only reason why it was seal
 如燃霞，三尺光，何輝煌。人謂使劍如使指，我言劍光是目光。
 游離物外無重量，裁雨者雨，刺明者明。動如龍蛇捉不住，青眼為劍，側目為槍。
 ——其实，歌诀内容本应对所有弟子公开，封存真迹的原因只是字实在太丑了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

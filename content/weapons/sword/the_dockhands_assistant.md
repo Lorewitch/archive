@@ -105,14 +105,3 @@ The name inscribed on this blade belongs to one of Poisson's former mayors.
 因此常在手柄及申领的刀片上刻上名字，避免遗失。
 
 这把剑上的名字属于白淞镇的一任镇长。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

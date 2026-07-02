@@ -75,9 +75,3 @@ A rare bundle of Mist Grass that gives off a faint glow. Those who carry it invi
 ### material: mist_grass_wick
 
 将本就罕见的雾虚草集结成的束，会散发出幽晦的冥光；提着这种灯的人，则会召来飞萤与不幸。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

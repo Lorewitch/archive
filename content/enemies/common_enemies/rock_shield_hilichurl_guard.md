@@ -28,8 +28,3 @@ Hardy hilichurls who have congregated in a region where Geo energies are abundan
 
 提瓦特荒野中游荡的原始住民。
 岩元素富集的地域中顽强生存的丘丘人，其坚不可摧的盾牌上增生着层层磐岩。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

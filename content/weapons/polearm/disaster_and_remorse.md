@@ -120,15 +120,3 @@ This was the very moment he finally ceased longing for salvation and turned away
 自言渴望以纷争与血的歌为神明奉上消遣的勇士，
 自弃却不甘自弃、妄图救赎却只引致悲痛的勇士，
 自这一刻，终是不再渴慕救赎，终是不再为勇士。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

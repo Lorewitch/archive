@@ -235,26 +235,3 @@ I was stunned for a moment. He raised the cane.
 「您的观察相当敏锐，」叔父放下手中的烟斗，站起身来，依然握着他那把在月光下映着冰冷光芒的白钢手杖，「但您似乎忽视了一点，对案件来说最关键的一点。」
 我愣了一下，而他则举起了手杖。
 「您——前来投奔自己素未谋面的叔父、自称是『布瓦列特』的先生，彼时也在现场的人群当中。对吧，洛本先生？」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

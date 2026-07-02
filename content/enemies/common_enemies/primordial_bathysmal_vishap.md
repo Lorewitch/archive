@@ -34,7 +34,3 @@ But their former Seven Sovereigns were defeated by a power from the heavens, wit
 生活在海渊之下的龙蜥。
 它们曾经是海渊之下的支配种族——其实在更加久远的过去，龙们就是这个世界的支配者。
 曾经的七王被高天之力打败，相继凋零了。
-
-## NOTES
-
-### Общие заметки Лороведьмы

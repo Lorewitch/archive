@@ -181,14 +181,3 @@ The prussian green-skinned king slowly paced towards the battlefield decreed by 
 于是他将长弓系在身侧，这或是从前自己梦中期盼的得胜之姿。
 
 而后，苍青色面容的王，缓缓踱向命运为他安排的战场。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

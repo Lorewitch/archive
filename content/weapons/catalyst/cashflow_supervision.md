@@ -236,14 +236,3 @@ Nor shall the wealth of the Gods descend, to rescue the dignity of the poor from
 不再有神的力量介入，从贫者面前粉饰富者的威势，
 
 不再有神的财富涌入，从富者脚下拯救贫者的尊严。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

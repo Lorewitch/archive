@@ -35,7 +35,3 @@ Today, that utopia is long gone, and the dreams and oaths, forgotten by the worl
 统治沙海的烈日之王曾向他的子民许诺过彼岸的乐土，然而事实证明那不过是君王愚痴的妄念。
 如今「乐园」
 早已湮灭，只有蚀刻在这些机械上的咒文还记录着那些已被世人忘却的梦想与承诺。
-
-## NOTES
-
-### Общие заметки Лороведьмы

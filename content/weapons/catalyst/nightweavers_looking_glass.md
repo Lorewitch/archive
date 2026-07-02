@@ -212,14 +212,3 @@ And until the Whitenight erases the final witnesses of that era, only the moonli
 「直到『新月』初升，牵动起命运的纺轮」
 「追逐着潮汐的人们并未停止欢歌与祈祷」
 「因为新的月神将要如古老的预言般重临」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

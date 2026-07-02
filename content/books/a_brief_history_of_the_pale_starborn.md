@@ -257,20 +257,3 @@ In the seventh year of the 799th Cycle, the Imperial Order Reformation Edict was
 第七百九十九纪的第六年，女皇设立皇都评议会，处理王公缺位产生的行政问题，并指派人类约安娜·伊万诺夫娜为初任议长。
 第七百九十九纪的第七年，《帝国秩序改良诏书》颁布。许多妖精王公深感女皇恩德，主动放弃贵族的名誉头衔，离开至冬。
 ……
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

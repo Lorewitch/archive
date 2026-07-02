@@ -31,8 +31,3 @@ Usually, repeatedly quenching a weapon the way a Blazing Axe Mitachurl does will
 手持长柄大斧的丘丘人大块头。
 攻击大开大合，会利用火史莱姆为战斧附上火元素，具有强大的破坏力。
 通常，像火斧丘丘暴徒这样为武器反复淬火会导致钢铁的硬度下降，进而导致刃口容易受损。但丘丘暴徒的力量足够强大，斧子就算刃口没了也可以当锤子用。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

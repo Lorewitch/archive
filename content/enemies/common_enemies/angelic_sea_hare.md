@@ -32,7 +32,3 @@ As such, it can be inferred that at some point in the past, Fontaine's original 
 通过发射水弹进行狩猎的水生动物。
 从演化的角度而言，原海异种是因为枫丹特殊的环境而产生了变化的水生动物。
 也因此可以认为在过去的某个时点前，枫丹原始的水生动物与提瓦特其他地区的水生动物并没有多少区别。
-
-## NOTES
-
-### Общие заметки Лороведьмы

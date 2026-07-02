@@ -105,14 +105,3 @@ And those who could skillfully utilize these saws were gradually washed away alo
 再后来在城外绝对安全的地方建设起了发条机关最大的工厂，
 
 能够熟练使用它的人就与它一同渐渐消失在了进步的洪流中。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

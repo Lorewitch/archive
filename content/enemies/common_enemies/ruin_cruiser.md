@@ -35,7 +35,3 @@ The inspiration for its decentralized design and combat modes seem to have come 
 传说是已经覆灭的国度留下的战争机械。
 相比更为广泛存在的「遗迹守卫」，在形态上有着更强的仿生学意义。
 分散化的设计和战斗模式似乎模仿了蜂群，能够变换成各种形态从不同方向发起攻击。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -467,26 +467,3 @@ Sundjatta lay down, contented — truly now did he deserve a hero's name!
 直到顽岩的龙头开裂，直到黑烟被锤风吹散。
 直到老龙魂飞魄散，岩浆之湖都冷却了大半，
 松伽塔心满意足地躺倒，从此英雄名实相堪！
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

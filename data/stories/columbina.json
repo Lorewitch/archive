@@ -36,6 +36,9 @@
     "hydro"
   ],
   "element": "hydro",
+  "character_filters": [
+    "lunar_omen"
+  ],
   "parts": [
     {
       "number": 1,

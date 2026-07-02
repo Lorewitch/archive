@@ -58,20 +58,3 @@ Though Rex Lapis enjoys immortality, mortals require provisions and preparation 
 ……
 
 帝君虽寿，余等亦当有备而无忧。璃月之永固，人世之绸缪，愿据此大计，徐徐而行。革新之务，宜缓图之，不可失虑急求。恰如岩底秉烛削凿，久而珠玑宝玉竟出，璃月繁事亦当如是。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

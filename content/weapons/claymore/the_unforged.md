@@ -89,14 +89,3 @@ Yet, if those legends are true, how did this sword come to be lost?
 作为封印之一，魔物或是奸佞的人皆无法触碰。
 如果传说属实，只有心澄如镜的人可以靠近它。
 如果传说属实的话，这把剑又为何不知所踪呢…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

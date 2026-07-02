@@ -9,6 +9,7 @@
 # game_version: 4.0
 # icon: assets/icons/stories/character/lyney.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -566,21 +567,3 @@ Lyney did not guess at the meaning of the shining Vision he saw in his hand. The
 火焰的力量扭转了坠落的方向，风的力量保护他们不受伤害，月夜之下两道华光交缠扩散，又像舞台落幕的掌声那样缓缓消失。
 
 看向手中光芒璀璨的神之眼，林尼没有去揣度它的含义，因为这已经不重要了。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

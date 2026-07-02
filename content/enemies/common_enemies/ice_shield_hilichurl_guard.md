@@ -28,8 +28,3 @@ Hilichurls display a strong sense of adaptability to their surroundings. In icy 
 
 提瓦特荒野中游荡的原始住民。
 丘丘人有着强大的环境适应性的证明。在冰元素富集的环境中，能设法利用坚冰制成盾牌保护自己。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

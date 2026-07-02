@@ -177,14 +177,3 @@ But the Bishui River flows eternal, just as the luster of the sacred jade within
 须臾，茶席上的小小争论告一段落，人与神的争论总难免以无理取闹作结。
 
 但碧水之河永流不变，投入其中的碧玉祀珑亦如先主那般，未曾改换光色。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

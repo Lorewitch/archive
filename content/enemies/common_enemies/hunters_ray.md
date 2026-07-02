@@ -38,7 +38,3 @@ Of course, those that have a deeper understanding of natural philosophy would di
 生物。
 据说这种异色体并不是生物，而是海洋中未曾经受肉身诞生，不曾吞下饵食的灵魂，会向原海所认同者或是驾驭原海者施以祝福。
 当然对自然哲学更有研究与心得的人是不会认同这种毫无依据的说法的。
-
-## NOTES
-
-### Общие заметки Лороведьмы

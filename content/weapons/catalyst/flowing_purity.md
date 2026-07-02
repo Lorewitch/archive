@@ -177,14 +177,3 @@ Coppelia: This heart of mine, which beats as though it were ensconced in a vesse
 歌裴莉娅：这颗心，如血肉之躯一般跳动着的心，已经在旅途中染上了同样的重罪。最为痛苦的悔恨折磨着这颗心，它又该去哪里寻得安宁？
 
 ……
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

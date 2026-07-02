@@ -38,7 +38,3 @@ The People of the Springs believe their Wayob has the power to control the tides
 「流泉之众」
 的人相信他们的「大灵」
 拥有控制潮汐与海浪的力量，能够执掌流水与腐水的变化。
-
-## NOTES
-
-### Общие заметки Лороведьмы

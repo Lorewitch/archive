@@ -46,14 +46,3 @@ How will this mysterious fate be passed on?
 更不知道幼时与他交战的那位鲁斯坦会成为他的得力副手，并在服务蒙德人民二十三年后因公殉职。
 如今，「光之狮」所持大剑的仿品又落在了另一双年轻的手中。
 这伟大神秘的宿命传承，又将以何种方式继续？
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

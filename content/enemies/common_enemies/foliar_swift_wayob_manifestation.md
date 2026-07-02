@@ -39,7 +39,3 @@ and can also control the roots of crops and draw the patterns of the veins of le
 「悬木人」
 的人相信他们的「大灵」
 拥有控制果实与林叶生长的力量，能够执掌作物的根茎，画下叶脉的走势。
-
-## NOTES
-
-### Общие заметки Лороведьмы

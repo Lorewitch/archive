@@ -28,8 +28,3 @@ Hilichurls especially gifted in commanding the elements who often reach the zeni
 
 嘟嘟囔囔的老年丘丘人，水元素的吟颂者。
 在元素掌控方面颇富天资的丘丘人，其能力往往会在年老时达到顶峰。究竟是怎样的过去，令这些愚昧的生物竟能掌握生水唤雨的秘诀？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

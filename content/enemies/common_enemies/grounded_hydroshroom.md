@@ -39,7 +39,3 @@ This creature has a position of command amongst colonies of Fungi and exhibits h
 或许是因为水元素的影响，与同类相比其行动异常敏捷。
 也有研究推断这种蕈兽实际上是由无数细小的孢子集结构成的菌株，并不是单纯单一的生命体。
 在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。
-
-## NOTES
-
-### Общие заметки Лороведьмы

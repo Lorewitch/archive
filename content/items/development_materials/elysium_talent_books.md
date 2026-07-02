@@ -80,9 +80,3 @@ Talent Level-Up material. "Elysium" is the dream of the land beneath the moon. S
 ### material: philosophies_of_elysium
 
 天赋培养素材。 「乐园」是月下之地的狂想。 乐园的定义因人而异。 对那些从不安于现状的人而言，再也没有比挪德卡莱更适合称作乐园的地方了。 但对剩下的人来说，情况则恰恰相反。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

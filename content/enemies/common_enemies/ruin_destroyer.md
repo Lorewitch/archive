@@ -36,7 +36,3 @@ One wonders what one has to go through in order to design such scary machine.
 传说是已经覆灭的国度留下的战争机械。
 相比更为广泛存在的「遗迹守卫」，在设计上有着更强的仿生学意义。
 由若干部件构成的巨大花冠像是某种可怕的植物，不知道经历过什么才能设计出这种可怕的机械。
-
-## NOTES
-
-### Общие заметки Лороведьмы

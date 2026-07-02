@@ -35,7 +35,3 @@ Though they also often make fun of these Abyss Mages, saying that the most harm 
 在冒险者当中有传说说，深渊法师作为「深渊教团」
 底层的执行者，活跃在世界各地、从事各种阴谋破坏。
 尽管他们还戏称这种水深渊法师的最大危害是会导致风湿发作，其实它们有着不容小觑的力量。
-
-## NOTES
-
-### Общие заметки Лороведьмы

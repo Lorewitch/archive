@@ -105,14 +105,3 @@ At the end of that glorious journey, it was the unwavering faith he had held fro
 
 直至数十个冬天过去，穷尽余生也未能将约定兑现的「王」方才意识到，
 在那荣耀的旅路尽头，最终令他追悔莫及的，正是最初恪守不渝的信念。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

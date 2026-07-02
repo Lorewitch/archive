@@ -162,14 +162,3 @@ Gazing upon the face of the one she loved beside her, the woman gently placed a 
 
 「我的孩子，我的孩子…为什么躁动呢？」
 「是因为知晓母亲的心…而感到畏惧吗？」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -32,7 +32,3 @@ They are the most outstanding soldiers among the Fatui, with extraordinary skill
 愚人众当中精锐的特务。
 自幼就被选中的人，经长久年月的教化与训练，在无数次的汰换后才能成为所谓的「役人」。
 是愚人众的阵列中最优秀的士兵，有着出色的身手与不渝的忠诚心。
-
-## NOTES
-
-### Общие заметки Лороведьмы

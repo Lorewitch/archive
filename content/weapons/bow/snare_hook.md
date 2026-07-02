@@ -184,14 +184,3 @@ Few secrets last forever, save for those buried deep within the grave...
 然而，那名为「游离者」的窃贼，却终究没能从死亡的阴影中逃离。
 世间少有永不为人所知的秘密，除非将这个秘密埋入坟茔——
 「我最亲爱的挚友啊，希望这个谜团，你一生也无法解开」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

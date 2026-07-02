@@ -9,6 +9,7 @@
 # game_version: 2.1
 # icon: assets/icons/stories/character/raiden_shogun.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -266,21 +267,3 @@ Such, then, was the tacit agreement between the two old friends. Yae Miko unders
 以八重神子这般性格，就算卖掉神之心也没什么奇怪。但她向来不愿吃亏也是事实。
 旧友之间自有默契。八重神子领会影的意思，便笑着接过了那枚贵重的神之心。
 「这话可是你说的。不准反悔哦。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

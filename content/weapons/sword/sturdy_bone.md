@@ -141,14 +141,3 @@ And she gripped the hilt of that bleached bone blade, silently waiting for the b
 「当然是真的，不用它只是因为大多数时候都用不着，光用手就够了」
 在临出战前的篝火旁，已能看到岸边漆黑巨兽的轮廓，万杰鲁这样说，
 她握住那白色骨刃的刀柄，静静等待着那值得她再次拔出长剑的战场。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

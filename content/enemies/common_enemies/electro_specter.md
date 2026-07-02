@@ -37,7 +37,3 @@ By the way, he was later investigated for academic corruption.
 他认为无相元素有元素特征、会在元素浓度高的区域诞生，和飘浮灵完全一样。
 所以飘浮灵是一种无相。
 他后来被调查出了学术腐败。
-
-## NOTES
-
-### Общие заметки Лороведьмы

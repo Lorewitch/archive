@@ -31,7 +31,3 @@ ended up with the Treasure Hoarders for various reasons.
 足迹遍布大陆各处，甚至深入未知秘境的松散盗贼组织中的一员。
 原本是在矿下工作的人。
 层岩巨渊封锁后，尽管领取着津贴，还是出于各种缘由加入了盗宝团。
-
-## NOTES
-
-### Общие заметки Лороведьмы

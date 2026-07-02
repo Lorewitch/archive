@@ -41,14 +41,3 @@ Are the sword in their hand and the dream in their heart.
 
 ### 故事
 旅途中总是充满了相遇与别离。始终不会抛弃旅人的忠实旅伴，恐怕只有长剑与远行的梦想了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

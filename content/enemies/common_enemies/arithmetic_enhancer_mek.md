@@ -32,7 +32,3 @@ As a result, overloading it with excessive energy will cause its original equili
 以中继并增幅信号为目的，设计制造的发条机关。
 驱动发条机关的能源是通过荒性与芒性在动力核心内部进行可控湮灭反应而产生的。
 因此向其释放过度的能量会导致原本的平衡被打破。
-
-## NOTES
-
-### Общие заметки Лороведьмы

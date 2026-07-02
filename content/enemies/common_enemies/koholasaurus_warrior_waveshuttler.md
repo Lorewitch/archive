@@ -35,7 +35,3 @@ Today, the tribe believes this to be a sophisticated, complex art used to drive 
 能短暂借助海浪之力来回穿梭的武者。
 传说中，部族的英杰甚至能够借由极高的速度，不凭借任何工具即可在水面上折返来回。
 如今的部族人认为，这是一种相当精巧的驱使海浪的技艺，其重点在于移动时的方法。
-
-## NOTES
-
-### Общие заметки Лороведьмы

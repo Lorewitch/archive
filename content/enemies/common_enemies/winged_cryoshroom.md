@@ -37,7 +37,3 @@ This creature has a position of command amongst colonies of fungal beasts and ex
 不仅看上去像，连生活习性也模仿了鸟类。
 飞舞的时候会散落出轻盈的冰花，这些冰晶的晶核其实也是孢子。
 在蕈兽群落中占有主导地位，显示出其拥有着更高的智能。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -31,9 +31,3 @@ A plant that grows in environments rich with Hydro. This plant can be found ever
 ## ZH
 
 生长在水元素富集之处的植物。 枫丹漫长的雨季后，随处可见其踪影，因此而得名。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

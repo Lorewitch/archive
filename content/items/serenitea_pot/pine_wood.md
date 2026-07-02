@@ -31,9 +31,3 @@ Timber obtained from pines. Its color and grain are nothing to write home about,
 ## ZH
 
 产自「松树」的木材，色泽与木纹并不亮眼，但以朴实无华、低调素雅著称。 且木质坚实，只需老练的木匠处理，就能耐受虫蛀和腐蚀。 可用于制作摆设。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

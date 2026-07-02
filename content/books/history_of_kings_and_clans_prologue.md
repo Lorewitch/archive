@@ -50,20 +50,3 @@ The reader may wish for this work to serve as a cautionary tale to future genera
 全书共分为三个部分：「烈风高塔之王与北风的狼王」，主要叙述巴巴托斯降临之前，旧蒙德冰霜列王相争的历史；「蒙德的开拓时代」，主要讲述巴巴托斯为蒙德唤得新生之后，蒙德先民与贵族先祖们在这片大地上的开拓史；「僭主、贵胄与反抗者」，主要讲述旧贵族在蒙德的漫长统治。
 
 或许读者会希望这本书会成为后来人的殷鉴，但这绝非我的本意。巴巴托斯赐予的「自由」也是解脱过去枷锁、追寻真相的自由，我只希望本书能够尽可能切实地将过去被禁止的故事展现在读者面前。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

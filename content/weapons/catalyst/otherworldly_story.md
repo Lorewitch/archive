@@ -49,14 +49,3 @@ It only shares one thing in common with the real world: most of the precious met
 力量伟大者，弹指间让室内冬暖夏凉，夜明如昼。
 是毫无现实意义的故事。
 只有一点与现实相通：绝大多数的贵金属为被少数人所有，藏匿在宝库里。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

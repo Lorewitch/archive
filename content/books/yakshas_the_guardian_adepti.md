@@ -86,20 +86,3 @@ Thus, divine endowment doth carry with it that ultimate and unbreakable trial: t
 是故大神通者必遭大摧折。失却一切亲友同袍，积孽业障，永憎不息。以旧日之忿怨为仇雠，无酬报亦无解脱，实空游饿鬼之苦，万劫不灭。
 
 【因此，拥有大神通者必然会经历极大的苦痛摧残。（夜叉）失去了所有亲友与同袍，积累了太多的罪孽业障，心中永远充满憎恨，不得止息。以旧日遗留的愤恨与怨念为仇敌，既得不到酬报，也没有解脱，（如此的苦难）实在是空游饿鬼的痛苦，纵使经历万劫，也不会得以结束。】
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -36,6 +36,7 @@
     "electro"
   ],
   "element": "electro",
+  "character_filters": [],
   "parts": [
     {
       "number": 1,

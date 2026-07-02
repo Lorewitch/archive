@@ -99,14 +99,3 @@ Dull eyes stained with dried blood and tears regained their radiance, but were p
 而作为豪赌的胜果，将军御赐的铭弓被交予巫女的手里。
 再后来，在狐斋宫不再现身的神林中、在相约再见的地方，自渊薮蹒跚而来的孤独归人，终又与不再年轻的巫女再逢。
 血泪干涸的漆黑眼眸重获神采，却被威光闪烁的钩矢射穿。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

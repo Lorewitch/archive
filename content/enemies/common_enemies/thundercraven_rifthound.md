@@ -37,7 +37,3 @@ The pack of black wolves that now threaten Springvale and Wolvendom are such cre
 曾经肆虐大陆，然后遭到反抗与猎捕而一度绝迹。
 但最近它们却又再度出现了。
 威胁到了清泉镇与奔狼领的黑狼之群，说的正是它们。
-
-## NOTES
-
-### Общие заметки Лороведьмы

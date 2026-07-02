@@ -70,15 +70,3 @@ Released from its thundering roars were the people of Liyue.
 岩神于是亲手用玉石与矶岩塑了一只鸢鸟。
 石鸟甫一造成，便挣脱了万物桎梏的大地盘旋登上高空，如烈日投出的长枪般，直插大洋中心魔兽与岩鲸激斗的战场，巨兽应声被钉入了黑暗的海沟，不复浮出。
 从此璃月的人们便摆脱了海中巨兽的咆哮。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

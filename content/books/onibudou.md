@@ -290,20 +290,3 @@ As a hazy figure materialized before Riko's eyes, she muttered, irrepressible re
 「片叶深彻，都是你的错…」
 「下次绝不会让你逃走了。」
 ……
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

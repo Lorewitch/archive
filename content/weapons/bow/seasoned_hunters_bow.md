@@ -41,14 +41,3 @@ It matters not if their target is beast, monster or the wicked — this method r
 
 ### 故事
 猎手要永远处于下风处；避免直立行走在山脊上。无论狩猎的对象是野兽，是魔物或是恶人都一样。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

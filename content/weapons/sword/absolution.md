@@ -209,20 +209,3 @@ But he remembered the promise he had made to her. If nothing else, they two alon
 
 所以，当妻子在最后问他同样的问题时，他依旧没能想明白。
 但他记得与她曾立下过约定。至少两人能够守住最初的契约。
-
-
-## NOTES
-
-### Заметки Лороведьмы
-— связи с персонажами;
-— отсылки;
-— подозрительные формулировки.
-
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

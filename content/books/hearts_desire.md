@@ -795,29 +795,3 @@ She spoke as if posing her question to the curtain of rain, but knowing that the
 狐目的店主伫立窗边，望着雾雨中的小街深处。
 「但是…他们是否真的解脱了呢？」
 仿佛对着雨幕，她提出了一个没有答案的问题。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-
-#### Том 4
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -30,7 +30,3 @@ Competitors once spread malicious rumors that the Dawn Winery used Cryo Slimes t
 逸散在自然之中的冰元素凝聚形成的小小魔物。
 过去曾经有竞争对手恶意谣传说，「晨曦酒庄」
 会利用冰史莱姆来调控酒窖的温度，以此保证酒品的质量。
-
-## NOTES
-
-### Общие заметки Лороведьмы

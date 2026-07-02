@@ -210,15 +210,3 @@ And so the dragon only watched as the hero fell into the rift, and he and his dr
 「所以，你看，对于故事而言，正义善良的勇者取得胜利，总是会更受欢迎。」
 「不同故事中的勇者，自然会找到不同的圣剑，最终又将要面对不同的宿敌。」
 「而在所有故事最后，即便力量强大诡计多端，恶徒总会被持剑的勇者打败…」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

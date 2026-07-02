@@ -110,26 +110,3 @@ Do the proud descendants of the mountain folk yet remember and memorialize their
 「昔桂旗兮安在？觅高车兮幽篁。」
 「哀哉啸兮玄文，潭昏黑兮所思。」
 山民的骄傲后代是否对失落的魔神仍旧留存着记忆，延续着纪念？大部分鲜明的故事已经被流水般的时光磨灭，仅在歌谣之中如溪涧下的绿玉那般若隐若现。也许正如某位迷途船工的所见那般，在深涧与渊薮之中，尚且能够听到远古的心跳，正搏动着碧血的回响？
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

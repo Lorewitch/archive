@@ -75,9 +75,3 @@ Comes from ancient defunct relic structures. The core that once drove a mechanic
 ### material: chaos_core
 
 来自不再活动的古代遗迹构装体。曾经是驱动它活动的能源之心。若能理解、重构这样的神秘技术，或许能改变这个世界也说不定。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

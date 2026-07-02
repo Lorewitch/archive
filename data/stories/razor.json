@@ -36,6 +36,9 @@
     "electro"
   ],
   "element": "electro",
+  "character_filters": [
+    "witchcraft"
+  ],
   "parts": [
     {
       "number": 1,

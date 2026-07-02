@@ -133,14 +133,3 @@ Thus did a new battle begin, bearing the new flame rekindled from the ashes, and
 山石融化的炉水，经由工匠们精心的锻打，化作一柄柄锋刃的长枪。
 矿山的首长松伽塔跨上剑龙穆胡鲁的脊背，从岩壁间取走其中一柄。
 携着灰烬后重燃的新火以及无数愿望淬成的祝福，新的征战开始了。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

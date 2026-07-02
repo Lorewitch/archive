@@ -151,14 +151,3 @@ The skeletal corpses of those burned away by the musician's passion, exposed at 
 终有一日当高耸的歌剧院在海啸之中崩毁时，人们才惶恐地发现——
 
 被乐师的激情所燃尽的人们，其尸骸躯壳终于从地基之下曝露而出。
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

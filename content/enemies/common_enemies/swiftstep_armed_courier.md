@@ -31,7 +31,3 @@ but perhaps it is precisely because their duties are heavier still that a weapon
 来自悬木之里的勇士，在林涧溪谷巡游的部族守卫者。
 常常有人怀疑，双手剑对于「悬木人」
 的讯使来说是否是种过重的武器，但或许正因为讯使承担的职责过于紧要，更具威慑力的武器才被视为一种必须。
-
-## NOTES
-
-### Общие заметки Лороведьмы

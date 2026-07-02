@@ -75,9 +75,3 @@ A warrant issued to members of the Fatui Oprichniki. Adorned by a frost-colored 
 ### material: frost_etched_warrant
 
 配发给愚人众特辖队的执凭。 镶嵌着霜色晶石的执凭是荣耀的象征，想必执有凭证者已在过去的行动中证明了自己的忠诚与价值。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

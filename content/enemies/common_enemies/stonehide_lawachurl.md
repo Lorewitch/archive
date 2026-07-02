@@ -28,8 +28,3 @@ This huge hilichurl is referred to as a "lawa" by its brethren. The abundant Geo
 
 千嶂中漫行的神秘「王者」。
 被同胞称为「Lawa」的庞大丘丘人。环境中增生的岩元素化成了它们身体的一部分，仿佛血肉与皮肤皆由不移的山岩雕琢而成。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-

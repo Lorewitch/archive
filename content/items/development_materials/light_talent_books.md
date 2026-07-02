@@ -80,9 +80,3 @@ Talent Level-Up material. Light is the yearning of the land of thunder. Though t
 ### material: philosophies_of_light
 
 天赋培养素材。 雷之国土的愿望是天光。 即使永远生活在地下，人也会不屈地祈求天光。 人总是追逐超越，无可止步。 静止封闭的永恒亦固然壮丽，但其本质终究是死亡。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

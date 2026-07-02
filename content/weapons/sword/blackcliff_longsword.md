@@ -96,14 +96,3 @@ Perhaps the crew knew that the sword's cry was to foreshadow an earthquake years
 ——在深入骨髓的黑暗中，匠人将剑拼尽余力击向山岩。
 剑气轰然如平地惊雷。
 或许从那时的剑啸中他们已经听见了，在一些年后的未来中，将会发生的地震…
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -31,9 +31,3 @@ The stamen of a fiercely burning flower. Even after being extinguished, it still
 ## ZH
 
 火辣辣的花芯。 熊熊燃烧的炙热花朵，即使被水浇熄了也隐隐地放出热量。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

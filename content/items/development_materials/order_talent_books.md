@@ -80,9 +80,3 @@ The shield of the Nation of Water is order. All law in Fontaine ultimately serve
 ### material: philosophies_of_order
 
 水之国土的坚盾是秩序。 枫丹的一切律法终究服务于稳固的秩序。 公平与正义源于秩序，亦服务于秩序。 正如枫丹恒无风浪的绵延水面那般，秩序构成了枫丹存在的基石。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по серии материалов.

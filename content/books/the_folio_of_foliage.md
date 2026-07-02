@@ -146,26 +146,3 @@ Following her guidance, the princess of the kingdom of dreams gently snapped off
 森林曾在漆黑的兽潮前倾覆, 无尽的迷宫也在焚火中轰然倒塌; 万兽的君王发出垂死的怒吼, 为守护她所交付的一切而陨落。但不管是什么样的苦厄, 都不能将她馈赐的美梦攫夺一一只要人们依然期待着下一夜的梦, 就总会有新的回忆, 在晨露与月尘中绽出安宁的花朵。
 
 这便是她赋予梦者的许诺, 最初与最终的许诺。因为所有的思念, 都如同珍珠一般, 纵然被风沙干般劘砺, 终究也不会改变它洁净的本色。因为所有的美梦, 都如同微草一般, 纵然一度被烈火吞没, 终究也会在温煦的春风中摇曳。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

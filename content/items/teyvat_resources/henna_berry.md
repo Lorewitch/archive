@@ -31,9 +31,3 @@ A fruit that grows even in the most hostile of desert environments. Its vibrant 
 ## ZH
 
 在恶劣的沙漠环境中也能存活的植物所结的果子，赤红的果实在黄沙映村下显得格外动人。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

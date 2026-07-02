@@ -39,7 +39,3 @@ Underwater Patrol Meks were conceived by the former, but judging from the result
 其中一部分人开始构想收复丧失在水中的遗迹并建设海底之城，另一部分人则望着永远浮在不可触及高度的空中岛屿，梦想天空的都会。
 「水下巡游型」
 来自前者，但从结果而言，近些年后者似乎取得了上风。
-
-## NOTES
-
-### Общие заметки Лороведьмы

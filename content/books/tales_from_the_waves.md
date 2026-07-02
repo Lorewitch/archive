@@ -277,26 +277,3 @@ The Skipper awoke to find himself on the deck of some unknown merchant ship. Hav
 船师在陌生的商船上醒来，他已失去了自己的船与所有船员，徒留满身疮痍，与一个永远回荡着空灵船歌的深海旧梦——
 
 「待到海流风向正确时，我便出海为她寻仇，沉迷涛声的人儿……」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-
-#### Том 3
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -31,9 +31,3 @@ A precious pearl that grows in the coral of Watatsumi. Gives off a cool sheen li
 ## ZH
 
 与海祇的珊瑚相伴而生的宝珠，散发着月光般的丝丝凉意。
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-Здесь можно оставить внутренние заметки по предмету.

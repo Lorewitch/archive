@@ -35,7 +35,3 @@ The ultimate resolution of the Oprichniki is, undoubtedly, the shield that prote
 更坚韧，坚持更久的一方才能获胜。
 而特辖队的「支撑」
 正是支援兵的盾牌——只要盾牌不倒，胜利的希望就仍然存在。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -910,23 +910,3 @@ They took the offered water and food, and said:
 「但我们的心和血却不是为我自己而留，它是为了公允与正义，善者与勇者而存在。」
 
 「点起火吧，我们会和你们一同，让那火焰永不熄灭。」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-
-### Заметки по томам
-
-#### Том 1
-
-
-#### Том 2
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.

@@ -9,6 +9,7 @@
 # game_version: 2.5
 # icon: assets/icons/stories/character/yae_miko.webp
 # tags:
+# character_filters:
 
 ## RU
 
@@ -333,21 +334,3 @@ Yae Miko gave a thin, enigmatic smile as she was faced with the traveler's curio
 「不也挺有趣的么？毕竟你们想听的，无非就是这样那样的『故事』吧？」
 面对旅者的好奇，八重神子露出促狭而莫测的微笑。
 「何况就算我如实相告：『我的神之眼只是件装装样子的首饰』你会信吗，小家伙？」
-
-## NOTES
-
-### Общие заметки Лороведьмы
-
-### Заметки по историям
-
-#### История персонажа 1
-
-#### История персонажа 2
-
-#### История персонажа 3
-
-#### История персонажа 4
-
-#### История персонажа 5
-
-#### Видение

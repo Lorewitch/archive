@@ -34,7 +34,3 @@ Sometimes they even collude with the Treasure Hoarders or Fatui out of a greed f
 不仅掌握着精湛的剑术，还会使用具有元素的焰硝药粉攻击。
 从客观来说，或许这是背离武之道，转而寻求胜之途的体现吧。
 为了生计与财富，有时候甚至会与盗宝团、愚人众沆瀣一气。
-
-## NOTES
-
-### Общие заметки Лороведьмы

@@ -81,14 +81,3 @@ But his master's seat was empty, save for a wine goblet and silver platter, topp
 最终的表演，您是否满意呢」但主子的座位空空如也，只有怫然离去时翻倒的酒杯银盘。
 「起初只是为了自己而战。
 为了自由沸腾战意与鲜血」「不知从何时开始，变成了为那位大人的荣誉而厮杀」「为了他人，才能毫无挂念地像愚钝的猛兽那样战斗」「为了族人，而不是为自己而战的你，一定也明白吧」
-## NOTES
-
-### Общие заметки Лороведьмы
-
-## INTERNAL
-
-# internal_source_ru:
-# internal_source_en:
-# internal_source_zh:
-# public_credit: Оригинальный игровой текст: Genshin Impact
-# rights_note: Genshin Impact и оригинальные материалы принадлежат HoYoverse / COGNOSPHERE / miHoYo. Заметки и разборы — Лороведьме.
