@@ -1266,10 +1266,11 @@ function renderReaderTabBlock(label, buttonsMarkup, options = {}) {
   if (!buttonsMarkup) return "";
   const rowClass = ["parts-row", "reader-tabs-row", options.className || ""].filter(Boolean).join(" ");
   const labelMarkup = label ? `<span class="toolbar-label">${escapeHtml(label)}</span>` : "";
+  const scrollKey = options.scrollKey || "reader-tabs";
   return `
     <div class="${escapeHtml(rowClass)}">
       ${labelMarkup}
-      <div class="volume-scroll reader-section-scroll">
+      <div class="volume-scroll reader-section-scroll" data-scroll-preserve="${escapeHtml(scrollKey)}">
         ${buttonsMarkup}
       </div>
     </div>
@@ -2782,7 +2783,7 @@ function renderStoryDetail(story, config) {
   const readAllButton = `<button class="mode-button ${state.storyReadAll ? "active" : ""}" id="toggle-story-read-all" type="button">${state.storyReadAll ? (contentType === "replicas" ? "Читать по репликам" : "Читать по разделам") : (contentType === "replicas" ? "Читать все реплики" : "Читать всё подряд")}</button>`;
   const cornerControls = renderReaderCornerControls(contentTypeButtons, readAllButton);
   const controls = renderReaderControls(
-    renderReaderTabBlock("", partButtons, { className: "story-inner-tabs-row" })
+    renderReaderTabBlock("", partButtons, { className: "story-inner-tabs-row", scrollKey: "story-inner-tabs" })
   );
 
   app.innerHTML = `
@@ -2864,9 +2865,23 @@ function renderGenericDetail(item, config) {
 
 function preserveScrollRender(renderFn) {
   const y = primaryScrollY();
+  const horizontalScrollPositions = new Map(
+    Array.from(app.querySelectorAll("[data-scroll-preserve]")).map(element => [
+      element.dataset.scrollPreserve || "reader-tabs",
+      element.scrollLeft || 0,
+    ])
+  );
+
   renderFn();
+
   requestAnimationFrame(() => {
     scrollPrimaryTo(y);
+    app.querySelectorAll("[data-scroll-preserve]").forEach(element => {
+      const key = element.dataset.scrollPreserve || "reader-tabs";
+      if (horizontalScrollPositions.has(key)) {
+        element.scrollLeft = horizontalScrollPositions.get(key) || 0;
+      }
+    });
     syncCustomScrollbarsSoon();
   });
 }

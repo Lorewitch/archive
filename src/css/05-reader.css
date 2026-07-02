@@ -586,27 +586,45 @@
 
 .reader-tabs-row .reader-section-scroll {
   gap: 8px;
-  padding-bottom: 5px;
+  padding-bottom: 8px;
   scrollbar-width: thin;
-  scrollbar-color: var(--accent) rgba(86, 81, 72, 0.08);
+  scrollbar-color: var(--accent) transparent;
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar {
   display: block;
-  width: 3px;
-  height: 3px;
+  width: 4px;
+  height: 4px;
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar-track {
-  background: rgba(86, 81, 72, 0.08);
+  background: linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent calc(50% - 1px),
+    color-mix(in srgb, var(--accent) 28%, transparent) calc(50% - 1px),
+    color-mix(in srgb, var(--accent) 28%, transparent) calc(50% + 1px),
+    transparent calc(50% + 1px),
+    transparent 100%
+  );
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar-thumb {
   background: var(--accent);
+  border: 0;
+  border-radius: 0;
 }
 
 .reader-tabs-row .reader-section-scroll::-webkit-scrollbar-thumb:hover {
   background: var(--accent-hover);
+}
+
+.reader-tabs-row .reader-section-scroll::-webkit-scrollbar-button,
+.reader-tabs-row .reader-section-scroll::-webkit-scrollbar-corner {
+  display: none;
+  width: 0;
+  height: 0;
+  background: transparent;
 }
 
 .story-inner-tabs-row {
