@@ -46,6 +46,36 @@
   pointer-events: none;
 }
 
+.catalog-top {
+  margin: 0 0 24px;
+}
+
+.catalog-top h1 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  min-height: 48px;
+  margin: 0;
+  padding: 0 18px;
+  background: var(--accent);
+  color: #f6f2eb;
+  border: 1px solid rgba(246, 242, 235, 0.16);
+  border-radius: 10px;
+  font-size: clamp(17px, 1.7vw, 24px);
+  font-weight: 760;
+  line-height: 1.1;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+  text-wrap: balance;
+}
+
+.catalog-page.is-subsection .catalog-top h1 {
+  font-size: clamp(16px, 1.55vw, 22px);
+  font-weight: 760;
+  line-height: 1.1;
+  letter-spacing: 0.05em;
+}
 
 .home-grid {
   display: grid;
@@ -971,6 +1001,20 @@
   box-shadow: none;
 }
 
+.catalog-card-img.is-person {
+  max-width: 84px;
+  max-height: 88px;
+  align-self: center;
+}
+
+.catalog-card--character-story .catalog-card-media {
+  width: 96px;
+  height: 96px;
+  align-self: center;
+  overflow: hidden;
+  background: rgba(113, 107, 96, 0.58);
+}
+
 .catalog-card-placeholder {
   display: grid;
   place-items: center;
@@ -1000,6 +1044,11 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   overflow-wrap: anywhere;
+}
+
+.catalog-card--character-story .catalog-card-title {
+  font-size: 17px;
+  text-transform: uppercase;
 }
 
 .catalog-card-subtitle {

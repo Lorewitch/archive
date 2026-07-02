@@ -33,21 +33,16 @@
   --menu-active-bar: #a9b17c;
   --shadow-soft: none;
   --shadow-card: none;
-  --sidebar-width: clamp(300px, 16.67vw, 340px);
-  --sidebar: var(--sidebar-width);
+  --sidebar-width: 320px;
+  --sidebar: 320px;
   --menu-rail-width: 0px;
   --content-rail-width: 10px;
-  --content-max-width: 1560px;
-  --stage-grid-gap: 12px;
-  --layout-gap: clamp(30px, 2.4vw, 46px);
-  --stage-pad-y: clamp(24px, 1.45vw, 30px);
-  --stage-pad-right: clamp(30px, 2.2vw, 44px);
-  --content-pad-top: clamp(38px, 2.3vw, 46px);
-  --content-pad-x: clamp(34px, 2.3vw, 46px);
-  --content-pad-bottom: clamp(48px, 3vw, 58px);
-  --stage-inline-available: calc(100vw - var(--sidebar-width) - var(--menu-rail-width) - var(--layout-gap) - var(--stage-pad-right));
-  --stage-content-set: calc(var(--content-max-width) + var(--content-rail-width) + var(--stage-grid-gap));
-  --stage-center-offset: max(0px, calc((var(--stage-inline-available) - var(--stage-content-set)) / 2));
+  --layout-gap: 46px;
+  --stage-pad-y: 28px;
+  --stage-pad-right: 42px;
+  --content-pad-top: 44px;
+  --content-pad-x: 44px;
+  --content-pad-bottom: 56px;
   --content-radius: 28px;
   --radius-page: 28px;
   --radius-card: 0;
@@ -161,9 +156,8 @@ a {
   height: 100vh;
   height: 100dvh;
   display: grid;
-  grid-template-columns: minmax(0, var(--content-max-width)) var(--content-rail-width);
-  justify-content: center;
-  gap: var(--stage-grid-gap);
+  grid-template-columns: minmax(0, 1fr) var(--content-rail-width);
+  gap: 12px;
   padding: var(--stage-pad-y) var(--stage-pad-right) var(--stage-pad-y) var(--layout-gap);
   overflow: hidden;
 }
@@ -286,7 +280,7 @@ a {
 
 .to-top-button {
   position: fixed;
-  right: calc(var(--stage-pad-right) + var(--stage-center-offset) + var(--content-rail-width) + var(--stage-grid-gap));
+  right: calc(var(--stage-pad-right) + var(--content-rail-width) + 12px);
   bottom: var(--stage-pad-y);
   z-index: 20;
   width: 48px;
@@ -580,6 +574,36 @@ a {
   pointer-events: none;
 }
 
+.catalog-top {
+  margin: 0 0 24px;
+}
+
+.catalog-top h1 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  min-height: 48px;
+  margin: 0;
+  padding: 0 18px;
+  background: var(--accent);
+  color: #f6f2eb;
+  border: 1px solid rgba(246, 242, 235, 0.16);
+  border-radius: 10px;
+  font-size: clamp(17px, 1.7vw, 24px);
+  font-weight: 760;
+  line-height: 1.1;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+  text-wrap: balance;
+}
+
+.catalog-page.is-subsection .catalog-top h1 {
+  font-size: clamp(16px, 1.55vw, 22px);
+  font-weight: 760;
+  line-height: 1.1;
+  letter-spacing: 0.05em;
+}
 
 .home-grid {
   display: grid;
@@ -1505,6 +1529,20 @@ a {
   box-shadow: none;
 }
 
+.catalog-card-img.is-person {
+  max-width: 84px;
+  max-height: 88px;
+  align-self: center;
+}
+
+.catalog-card--character-story .catalog-card-media {
+  width: 96px;
+  height: 96px;
+  align-self: center;
+  overflow: hidden;
+  background: rgba(113, 107, 96, 0.58);
+}
+
 .catalog-card-placeholder {
   display: grid;
   place-items: center;
@@ -1534,6 +1572,11 @@ a {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   overflow-wrap: anywhere;
+}
+
+.catalog-card--character-story .catalog-card-title {
+  font-size: 17px;
+  text-transform: uppercase;
 }
 
 .catalog-card-subtitle {
@@ -2167,8 +2210,8 @@ a {
 .reader-head-nav {
   position: fixed;
   top: var(--stage-pad-y);
-  left: calc(var(--sidebar-width) + var(--menu-rail-width) + var(--layout-gap) + var(--stage-center-offset));
-  right: calc(var(--stage-pad-right) + var(--stage-center-offset) + var(--content-rail-width) + var(--stage-grid-gap));
+  left: calc(var(--sidebar-width) + var(--menu-rail-width) + var(--layout-gap));
+  right: calc(var(--stage-pad-right) + var(--content-rail-width) + 12px);
   z-index: 21;
   display: flex;
   align-items: flex-start;
@@ -2615,21 +2658,21 @@ a.enemy-loot-chip:focus-visible {
   flex: 0 0 22px;
 }
 
+/*
+  Адаптивная оболочка.
+  Десктопные размеры из 00-tokens/02-layout/03-navigation не переопределяются:
+  мобильные правила включаются только ниже 1180px.
+*/
+
 @media (max-width: 1180px) {
   :root {
-    --sidebar-width: 0px;
-    --sidebar: 0px;
-    --layout-gap: 0px;
-    --stage-pad-y: 12px;
-    --stage-pad-right: 12px;
-    --content-rail-width: 0px;
-    --content-max-width: 100%;
-    --stage-grid-gap: 0px;
+    --sidebar-width: 320px;
+    --layout-gap: 16px;
+    --content-rail-width: 8px;
     --content-pad-top: 26px;
-    --content-pad-x: 22px;
+    --content-pad-x: 20px;
     --content-pad-bottom: 34px;
     --content-radius: 24px;
-    --stage-center-offset: 0px;
   }
 
   html,
@@ -2646,36 +2689,50 @@ a.enemy-loot-chip:focus-visible {
     touch-action: none;
   }
 
+  body.menu-open .sidebar,
+  body.menu-open .sidebar-scroll {
+    touch-action: pan-y;
+  }
+
   .mobile-top {
-    display: flex;
     position: fixed;
+    top: 0;
     left: 0;
     right: 0;
-    top: 0;
-    z-index: 90;
-    height: 56px;
+    z-index: 60;
+    display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 12px;
-    padding: 0 max(14px, env(safe-area-inset-left)) 0 max(14px, env(safe-area-inset-right));
-    background: var(--menu-bg);
-    color: var(--menu-ink);
+    height: 56px;
+    padding: 8px 14px;
+    background: linear-gradient(180deg, color-mix(in srgb, var(--menu-bg) 96%, #fff 4%) 0%, var(--menu-bg-deep) 100%);
     border-bottom: 1px solid var(--menu-line);
-    box-shadow: none;
+    color: var(--menu-ink);
   }
 
   .menu-button {
     flex: 0 0 auto;
-    min-height: 38px;
-    padding: 0 13px;
+    min-width: 0;
+    height: 38px;
+    padding: 0 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     background: var(--accent);
     color: #f6f2eb;
     border: 0;
+    border-radius: 0;
     font-size: 12px;
     font-weight: 780;
+    letter-spacing: 0.07em;
     line-height: 1;
-    letter-spacing: 0.055em;
     text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .menu-button:active {
+    background: var(--accent-hover);
   }
 
   .mobile-brand {
@@ -2683,19 +2740,20 @@ a.enemy-loot-chip:focus-visible {
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    gap: 8px;
+    gap: 9px;
     color: var(--menu-ink);
-    font-size: 13px;
-    font-weight: 750;
-    line-height: 1.1;
-    letter-spacing: 0.035em;
-    text-transform: uppercase;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(16px, 4.4vw, 22px);
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: -0.025em;
+    text-align: right;
   }
 
   .mobile-brand img {
     flex: 0 0 auto;
-    width: 28px;
-    height: 34px;
+    width: 30px;
+    height: 35px;
     object-fit: contain;
   }
 
@@ -2707,38 +2765,32 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .archive-layout {
-    grid-template-columns: minmax(0, 1fr);
-    width: 100%;
-    height: 100dvh;
+    grid-template-columns: 0 0 minmax(0, 1fr);
   }
 
-  .archive-layout > .sidebar,
   .sidebar {
     position: fixed;
     z-index: 80;
     left: 12px;
     top: 64px;
     bottom: auto;
-    width: min(288px, calc(100vw - 72px));
+    width: min(320px, calc(100vw - 72px));
     min-height: 0;
     max-height: calc(100vh - 78px);
     height: auto;
-    background-color: var(--menu-bg);
-    background-image: linear-gradient(180deg, color-mix(in srgb, var(--menu-bg) 94%, #fff 6%) 0%, var(--menu-bg) 58%, var(--menu-bg-deep) 100%);
-    color: var(--menu-ink);
     overflow-x: hidden;
     overflow-y: auto;
-    transform: translateX(calc(-100% - 28px));
+    background-color: var(--menu-bg);
+    background-image: linear-gradient(180deg, color-mix(in srgb, var(--menu-bg) 94%, #fff 6%) 0%, var(--menu-bg) 54%, var(--menu-bg-deep) 100%);
+    box-shadow: 0 22px 64px rgba(0, 0, 0, 0.44);
+    transform: translateX(calc(-100% - 24px));
     transition: transform 180ms ease;
-    box-shadow: none;
-    pointer-events: auto;
-    touch-action: pan-y;
-    -webkit-overflow-scrolling: touch;
+    will-change: transform;
   }
 
   @supports (width: 100dvw) {
     .sidebar {
-      width: min(288px, calc(100dvw - 72px));
+      width: min(320px, calc(100dvw - 72px));
     }
   }
 
@@ -2748,13 +2800,13 @@ a.enemy-loot-chip:focus-visible {
 
   .sidebar-scroll {
     height: auto;
-    max-height: none;
+    max-height: inherit;
     overflow-x: hidden;
-    overflow-y: visible;
-    padding: 24px 20px 26px;
+    overflow-y: auto;
     -webkit-overflow-scrolling: touch;
+    padding: 22px 18px 24px;
     scrollbar-width: thin;
-    scrollbar-color: var(--rail-thumb) transparent;
+    scrollbar-color: var(--menu-active-bar) rgba(243, 236, 223, 0.08);
   }
 
   .sidebar-scroll::-webkit-scrollbar {
@@ -2764,48 +2816,96 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .sidebar-scroll::-webkit-scrollbar-track {
-    background: transparent;
+    background: rgba(243, 236, 223, 0.08);
   }
 
   .sidebar-scroll::-webkit-scrollbar-thumb {
-    background: var(--rail-thumb);
+    background: var(--menu-active-bar);
     border-radius: 0;
   }
 
-  html.menu-open .drawer-backdrop,
-  body.menu-open .drawer-backdrop {
-    display: block;
+  .brand {
+    grid-template-columns: 58px minmax(0, 1fr);
+    gap: 12px;
+    margin-bottom: 22px;
+  }
+
+  .brand-mark {
+    width: 58px;
+    height: 66px;
+  }
+
+  .brand-mark img {
+    width: 56px;
+    height: 66px;
+  }
+
+  .brand-title {
+    font-size: 22px;
+  }
+
+  .brand-subtitle {
+    font-size: 11px;
+  }
+
+  .nav {
+    gap: 5px;
+  }
+
+  .nav-button,
+  .nav-child,
+  .nav-item {
+    min-height: 44px;
+    padding: 12px 10px;
+    gap: 10px;
+  }
+
+  .nav-child {
+    min-height: 38px;
+    padding: 10px 12px;
+    white-space: normal;
+  }
+
+  .drawer-backdrop {
+    display: none;
+  }
+
+  body.menu-open .drawer-backdrop,
+  html.menu-open .drawer-backdrop {
     position: fixed;
     inset: 0;
     z-index: 70;
+    display: block;
     width: auto;
-    background: rgba(10, 9, 8, 0.54);
+    background: rgba(12, 11, 9, 0.62);
   }
 
-  .menu-rail,
-  .content-rail {
+  .menu-rail {
     display: none;
   }
 
   .stage {
-    grid-column: 1;
-    grid-template-columns: minmax(0, 1fr);
-    justify-content: stretch;
-    gap: 0;
+    grid-column: 3;
+    grid-template-columns: minmax(0, 1fr) var(--content-rail-width);
+    gap: 8px;
     width: 100%;
     height: 100dvh;
-    padding: calc(56px + var(--stage-pad-y)) 12px 12px;
+    padding: 64px 10px 12px;
+    overflow: hidden;
+  }
+
+  .content-card,
+  .content-rail {
+    height: calc(100dvh - 76px);
   }
 
   .content-card {
-    width: 100%;
-    max-width: min(100%, 980px);
-    justify-self: center;
-    height: calc(100dvh - 56px - (var(--stage-pad-y) * 2));
+    border-radius: var(--content-radius);
   }
 
-  .content-card::before {
-    height: var(--content-pad-top);
+  .content-card::before,
+  .catalog-sticky-head::before {
+    border-radius: var(--content-radius) var(--content-radius) 0 0;
   }
 
   .content-scroll {
@@ -2813,103 +2913,21 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .content {
+    gap: 18px;
     padding: var(--content-pad-top) var(--content-pad-x) var(--content-pad-bottom);
   }
 
   .to-top-button {
-    right: 12px;
+    right: calc(10px + var(--content-rail-width) + 8px);
     bottom: 12px;
     width: 44px;
     height: 44px;
   }
 
-  .catalog-sticky-head {
-    margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 0;
-    padding: var(--content-pad-top) var(--content-pad-x) 18px;
-  }
-
-  .toolbar,
-  .search-panel {
-    grid-template-columns: 1fr;
-    gap: 14px;
-  }
-
-  .catalog-search-bar,
-  .search-panel {
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 12px;
-  }
-
-  .toolbar-filters {
-    justify-content: flex-start;
-    overflow-x: auto;
-    overflow-y: hidden;
-    flex-wrap: nowrap;
-    padding-bottom: 2px;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-
-  .toolbar-filters::-webkit-scrollbar,
-  .type-filter-row::-webkit-scrollbar,
-  .type-filter-stack::-webkit-scrollbar,
-  .filter-row::-webkit-scrollbar {
-    display: none;
-    width: 0;
-    height: 0;
-  }
-
-  .search input,
-  .search-input,
-  .select,
-  .pagination-size select {
-    font-size: 16px;
-  }
-
-  .search input:focus {
-    box-shadow: inset 0 0 0 2px rgba(91, 74, 62, 0);
-  }
-
-  .catalog-card-grid {
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr));
-    gap: 14px;
-    margin-top: 16px;
-  }
-
-  .catalog-card {
-    grid-template-columns: 96px minmax(0, 1fr);
-    gap: 16px;
-    min-height: 138px;
-    padding: 14px 16px 19px;
-  }
-
-  .catalog-card-media {
-    width: 88px;
-    height: 88px;
-  }
-
-  .catalog-card-img,
-  .catalog-card-img.is-person {
-    max-width: 78px;
-    max-height: 80px;
-  }
-
-  .catalog-card-body {
-    padding-right: 30px;
-  }
-
-  .catalog-card-title,
-  .catalog-card--character-story .catalog-card-title {
-    font-size: 18px;
-  }
-
-  .catalog-card-meta {
-    font-size: 12px;
-  }
-
-  .group-grid,
-  .home-grid {
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+  .reader-head-nav {
+    top: 64px;
+    left: 10px;
+    right: calc(10px + var(--content-rail-width) + 8px);
   }
 
   .catalog-page {
@@ -2920,6 +2938,43 @@ a.enemy-loot-chip:focus-visible {
     .catalog-page {
       overflow-x: clip;
     }
+  }
+
+  .catalog-sticky-head {
+    margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 0;
+    padding: var(--content-pad-top) var(--content-pad-x) 18px;
+  }
+
+  .toolbar,
+  .catalog-search-bar,
+  .search-panel {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .search,
+  .select,
+  .search-input,
+  .pagination-size select {
+    width: 100%;
+    min-width: 0;
+    font-size: 16px;
+  }
+
+  .search input:focus {
+    box-shadow: inset 0 0 0 2px rgba(91, 74, 62, 0);
+  }
+
+  .toolbar-filters,
+  .type-filter-row,
+  .type-filter-stack,
+  .filter-row {
+    justify-content: flex-start;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
   }
 
   .catalog-row,
@@ -2935,14 +2990,62 @@ a.enemy-loot-chip:focus-visible {
     display: none;
   }
 
+  .catalog-row.cols-items-enemy .material-chip {
+    white-space: normal;
+    min-width: 0;
+  }
+
+  .catalog-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+
+  .catalog-card {
+    grid-template-columns: 96px minmax(0, 1fr);
+    min-height: 138px;
+    gap: 16px;
+    padding: 14px 16px 18px;
+  }
+
+  .catalog-card-media,
+  .catalog-card--character-story .catalog-card-media {
+    width: 88px;
+    height: 88px;
+  }
+
+  .catalog-card-img,
+  .catalog-card-img.is-person {
+    max-width: 78px;
+    max-height: 80px;
+  }
+
+  .catalog-card-body {
+    padding-right: 28px;
+  }
+
+  .catalog-card-title,
+  .catalog-card--character-story .catalog-card-title {
+    font-size: 16px;
+    line-height: 1.2;
+  }
+
+  .catalog-card-subtitle {
+    font-size: 12px;
+  }
+
+  .catalog-card-meta {
+    font-size: 12px;
+    gap: 7px 8px;
+  }
+
   .catalog-row.item {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     gap: 0;
     width: 100%;
     padding: 16px;
-    border: 1px solid rgba(91, 74, 62, 0.16);
     background: rgba(246, 242, 235, 0.88);
+    border: 1px solid rgba(91, 74, 62, 0.16);
     box-shadow: none;
   }
 
@@ -2986,73 +3089,10 @@ a.enemy-loot-chip:focus-visible {
     text-transform: uppercase;
   }
 
-  .catalog-row.cols-items-development.item > div:nth-child(2)::before {
-    content: "Тип материала";
-  }
-
-  .catalog-row.cols-items-development.item > div:nth-child(3)::before {
-    content: "Регион";
-  }
-
-  .catalog-row.cols-items-typed.item > div:nth-child(2)::before {
-    content: "Тип";
-  }
-
-  .catalog-row.cols-items-typed.item > div:nth-child(3)::before {
-    content: "Регион";
-  }
-
-  .catalog-row.cols-items-common-enemy .catalog-material-plain-list {
-    gap: 8px;
-  }
-
-  .catalog-row.cols-items-common-enemy .catalog-material-plain-item {
-    grid-template-columns: 34px minmax(0, 1fr);
-    gap: 9px;
-  }
-
-  .catalog-row.cols-items-common-enemy .catalog-material-plain-item img {
-    width: 34px;
-    height: 34px;
-  }
-
-  .catalog-row.cols-items-common-enemy .catalog-material-plain-ru,
-  .catalog-row.cols-items-development .catalog-material-plain-ru {
-    font-size: 14px;
-  }
-
-  .catalog-row.cols-items-common-enemy .catalog-material-plain-sub,
-  .catalog-row.cols-items-development .catalog-material-plain-sub {
-    font-size: 12px;
-  }
-
-  .catalog-row.cols-items-common-enemy .dropped-by-catalog-chip,
-  .catalog-row.cols-items-typed .common-enemy-type-chip,
-  .catalog-row.cols-stories-character .common-enemy-type-chip,
-  .catalog-row.cols-stories-character .element-pill,
-  .catalog-row.cols-items-development .common-enemy-type-chip,
-  .catalog-row.cols-books .common-enemy-type-chip,
-  .catalog-row.cols-weapons .common-enemy-type-chip {
-    font-size: 12px;
-  }
-
-  .entry-material-preview {
-    display: flex;
-  }
-
-  .catalog-row.cols-items-enemy .material-chip,
-  .material-chip {
-    min-width: 0;
-    padding: 5px 7px;
-    font-size: 12px;
-    white-space: normal;
-  }
-
-  .material-chip img {
-    width: 22px;
-    height: 22px;
-    flex-basis: 22px;
-  }
+  .catalog-row.cols-items-development.item > div:nth-child(2)::before { content: "Тип материала"; }
+  .catalog-row.cols-items-development.item > div:nth-child(3)::before { content: "Регион"; }
+  .catalog-row.cols-items-typed.item > div:nth-child(2)::before { content: "Тип"; }
+  .catalog-row.cols-items-typed.item > div:nth-child(3)::before { content: "Регион"; }
 
   .book-detail-head,
   .artifact-detail-head,
@@ -3062,6 +3102,20 @@ a.enemy-loot-chip:focus-visible {
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .detail-hero-text h1 {
+    text-wrap: balance;
+    overflow-wrap: normal;
+    word-break: normal;
+    hyphens: none;
+  }
+
+  .reader-head-titles h1 {
+    text-wrap: balance;
+    overflow-wrap: normal;
+    word-break: normal;
+    hyphens: none;
   }
 
   .detail-icon,
@@ -3077,28 +3131,23 @@ a.enemy-loot-chip:focus-visible {
     margin: 0 auto;
   }
 
-  .detail-hero-text h1 {
-    text-wrap: balance;
-    overflow-wrap: normal;
-    word-break: normal;
-    hyphens: none;
-  }
-
   .reader-sticky-head {
-    --reader-corner-row-height: 42px;
+    --reader-corner-row-height: 40px;
     --reader-corner-row-gap: 12px;
     gap: 14px;
     padding-bottom: 16px;
   }
 
   .reader-head-nav {
-    top: 68px;
-    left: 12px;
-    right: 12px;
     gap: 8px;
-    z-index: 50;
-    padding-right: 0;
+  }
+
+  .reader-corner-controls {
+    gap: 7px;
+    overflow-x: auto;
+    overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
   }
 
   .reader-head-nav .back-link,
@@ -3111,27 +3160,18 @@ a.enemy-loot-chip:focus-visible {
     font-size: 11px;
   }
 
-  .reader-corner-controls {
-    gap: 7px;
-    flex-wrap: nowrap;
-  }
-
   .reader-corner-controls .mode-button {
     flex: 0 0 150px;
     width: 150px;
-    min-width: 150px;
   }
 
   .reader-corner-controls .reader-content-type-button {
     flex: 0 0 98px;
     width: 98px;
-    min-width: 98px;
-    max-width: 98px;
   }
 
   .reader-corner-controls .lang-switch {
     gap: 5px;
-    flex-wrap: nowrap;
   }
 
   .reader-corner-controls .lang-switch button {
@@ -3139,20 +3179,20 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .reader-head-main {
-    grid-template-columns: 88px minmax(0, 1fr);
+    grid-template-columns: 84px minmax(0, 1fr);
     gap: 13px;
     text-align: left;
   }
 
   .reader-head-icon,
   .reader-head-icon.story-detail-icon {
-    width: 84px;
-    height: 84px;
+    width: 80px;
+    height: 80px;
     margin: 0;
   }
 
   .reader-head-titles h1 {
-    font-size: clamp(22px, 5.6vw, 32px);
+    font-size: clamp(22px, 7vw, 32px);
     letter-spacing: 0.025em;
   }
 
@@ -3160,35 +3200,14 @@ a.enemy-loot-chip:focus-visible {
     font-size: 13px;
   }
 
-  .reader-top-controls {
-    align-items: stretch;
-  }
-
-  .reader-tabs-row {
-    width: 100%;
-  }
-
-  .reader-tabs-row .volume-scroll {
-    -webkit-overflow-scrolling: touch;
-  }
-
   .story-toolbar .volume-scroll button {
     min-width: 0;
     text-wrap: pretty;
     white-space: normal;
-    overflow-wrap: normal;
-    word-break: normal;
   }
 
-  .catalog-row.cols-items-enemy .material-chip {
-    white-space: normal;
-    min-width: 0;
-  }
-
-  .reader-top-controls .reader-lang-control {
-    width: 100%;
-    margin-left: 0;
-    justify-content: flex-start;
+  .home-grid {
+    grid-template-columns: 1fr;
   }
 
   .dropped-by-grid.is-cascade {
@@ -3198,59 +3217,33 @@ a.enemy-loot-chip:focus-visible {
 
 @media (max-width: 720px) {
   :root {
-    --stage-pad-y: 10px;
     --content-pad-top: 22px;
-    --content-pad-x: 16px;
-    --content-pad-bottom: 30px;
+    --content-pad-x: 14px;
+    --content-pad-bottom: 28px;
     --content-radius: 20px;
   }
 
-  .mobile-top {
-    height: 54px;
-    padding-left: max(10px, env(safe-area-inset-left));
-    padding-right: max(10px, env(safe-area-inset-right));
-  }
-
-  .menu-button {
-    min-height: 36px;
-    padding: 0 11px;
-    font-size: 11px;
-  }
-
-  .mobile-brand {
-    font-size: 12px;
-    letter-spacing: 0.025em;
-  }
-
-  .mobile-brand img {
-    width: 25px;
-    height: 31px;
-  }
-
-  .archive-layout > .sidebar,
-  .sidebar {
-    left: 12px;
-    top: 64px;
-    bottom: auto;
-    width: min(288px, calc(100vw - 72px));
-  }
-
   .stage {
-    padding: calc(54px + var(--stage-pad-y)) 10px 10px;
-  }
-
-  .content-card {
-    height: calc(100dvh - 54px - (var(--stage-pad-y) * 2));
-  }
-
-  .catalog-search-bar,
-  .search-panel {
     grid-template-columns: minmax(0, 1fr);
-    gap: 10px;
+    gap: 6px;
+    padding-left: 8px;
+    padding-right: 8px;
   }
 
-  .select {
-    width: 100%;
+  .content-rail {
+    display: none;
+  }
+
+  .to-top-button {
+    right: 8px;
+  }
+
+  .reader-head-nav {
+    right: 8px;
+  }
+
+  .mobile-brand span {
+    max-width: 58vw;
   }
 
   .catalog-card-grid {
@@ -3260,12 +3253,13 @@ a.enemy-loot-chip:focus-visible {
 
   .catalog-card {
     grid-template-columns: 82px minmax(0, 1fr);
-    gap: 13px;
-    min-height: 126px;
-    padding: 13px 14px 18px;
+    min-height: 124px;
+    gap: 12px;
+    padding: 13px 14px 17px;
   }
 
-  .catalog-card-media {
+  .catalog-card-media,
+  .catalog-card--character-story .catalog-card-media {
     width: 76px;
     height: 76px;
   }
@@ -3282,76 +3276,38 @@ a.enemy-loot-chip:focus-visible {
 
   .catalog-card-title,
   .catalog-card--character-story .catalog-card-title {
-    font-size: 16px;
-    line-height: 1.18;
+    font-size: 15px;
   }
 
-  .catalog-card-subtitle,
-  .catalog-card-meta {
-    font-size: 11.5px;
-  }
-
-  .catalog-card-version {
-    top: 10px;
-    right: 12px;
-    font-size: 10px;
+  .catalog-card-subtitle {
+    white-space: normal;
   }
 
   .catalog-card-open {
     right: 12px;
     bottom: 14px;
-    opacity: 0.86;
-    transform: none;
-  }
-
-  .group-grid,
-  .home-grid {
-    grid-template-columns: minmax(0, 1fr);
-  }
-
-  .page-head h1 {
-    font-size: clamp(30px, 12vw, 42px);
-  }
-
-  .page-head .lead,
-  .lead {
-    font-size: 16px;
-  }
-
-  .reader-head-nav {
-    top: 64px;
-    left: 10px;
-    right: 10px;
-  }
-
-  .reader-sticky-head {
-    --reader-corner-row-height: 40px;
-    padding-bottom: 14px;
   }
 
   .reader-head-main {
-    grid-template-columns: 76px minmax(0, 1fr);
-    gap: 12px;
+    grid-template-columns: 1fr;
+    text-align: center;
   }
 
   .reader-head-icon,
   .reader-head-icon.story-detail-icon {
-    width: 72px;
-    height: 72px;
+    width: 96px;
+    height: 96px;
+    margin: 0 auto;
   }
 
   .reader-head-titles h1 {
-    font-size: clamp(20px, 7vw, 28px);
+    font-size: clamp(22px, 8vw, 30px);
   }
 
-  .reader-title-alt {
-    font-size: 12px;
-  }
-
-  .volume-scroll button,
-  .story-toolbar .volume-scroll button {
-    min-width: 0;
-    white-space: nowrap;
+  .dropped-by-grid.is-pair,
+  .dropped-by-grid.is-trio,
+  .dropped-by-grid.is-cascade {
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .material-float-icon,
@@ -3361,27 +3317,32 @@ a.enemy-loot-chip:focus-visible {
     display: block;
     margin: 0 auto 14px;
   }
-
-  .dropped-by-grid.is-pair,
-  .dropped-by-grid.is-trio,
-  .dropped-by-grid.is-cascade {
-    grid-template-columns: minmax(0, 1fr);
-  }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 380px) {
   .mobile-brand span {
-    max-width: 150px;
+    max-width: 48vw;
   }
 
-  .reader-head-nav .back-link {
-    max-width: 178px;
+  .menu-button {
+    padding: 0 10px;
+    font-size: 11px;
   }
 
-  .reader-corner-controls .mode-button {
-    flex-basis: 142px;
-    width: 142px;
-    min-width: 142px;
+  .catalog-card {
+    grid-template-columns: 72px minmax(0, 1fr);
+  }
+
+  .catalog-card-media,
+  .catalog-card--character-story .catalog-card-media {
+    width: 68px;
+    height: 68px;
+  }
+
+  .catalog-card-img,
+  .catalog-card-img.is-person {
+    max-width: 60px;
+    max-height: 62px;
   }
 }
 
@@ -3391,6 +3352,12 @@ a.enemy-loot-chip:focus-visible {
     padding-right: 0;
   }
 
+  .mobile-top {
+    height: 50px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+
   .archive-layout,
   .stage,
   .content-card {
@@ -3398,17 +3365,19 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .stage {
-    padding-top: 62px;
+    padding-top: 58px;
+    padding-left: 0;
+    padding-right: 0;
   }
 
-  .content-card {
-    height: calc(100dvh - 72px);
-  }
-
-  .archive-layout > .sidebar,
   .sidebar {
-    top: 62px;
-    bottom: auto;
+    top: 58px;
+    max-height: calc(100vh - 72px);
+  }
+
+  .content-card,
+  .content-rail {
+    height: calc(100dvh - 70px);
   }
 }
 

@@ -2356,6 +2356,11 @@ function renderCatalogFilterReset(config = currentCatalogConfig()) {
 }
 
 
+function catalogDisplayTitle(config) {
+  if (state.subsection) return groupLabel(config, state.subsection);
+  return config?.title || "Каталог";
+}
+
 function renderCatalog(config) {
   activeDetail = null;
   const filterState = state.filters[config.id];
@@ -2978,13 +2983,11 @@ function handleNavClick(event) {
 
     if (sectionId === "items") {
       setRoute("items", null, key);
-      closeMenu();
       return;
     }
 
     if (sectionId === "stories") {
       setRoute("stories", null, key);
-      closeMenu();
       return;
     }
   }
@@ -2992,7 +2995,6 @@ function handleNavClick(event) {
   const button = event.target.closest("[data-section]");
   if (!button) return;
   setRoute(button.dataset.section);
-  closeMenu();
 }
 
 function handleAppClick(event) {
