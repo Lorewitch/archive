@@ -16,6 +16,9 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -28,7 +31,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6000000,
-    "search_text": "айно aino 爱诺 нод-край 4 6.0 character_stories hydro"
+    "search_text": "айно aino 爱诺 нод-край 4 6.0 character_stories hydro lunar_omen"
   },
   {
     "id": "albedo",
@@ -47,6 +50,9 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -59,7 +65,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 1002000,
-    "search_text": "альбедо albedo 阿贝多 мондштадт 5 1.2 character_stories geo"
+    "search_text": "альбедо albedo 阿贝多 мондштадт 5 1.2 character_stories geo witchcraft"
   },
   {
     "id": "alhaitham",
@@ -78,6 +84,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -109,6 +116,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -140,6 +148,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -171,6 +180,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -202,6 +212,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -233,6 +244,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -264,6 +276,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -295,6 +308,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -326,6 +340,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -357,6 +372,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -388,6 +404,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -419,6 +436,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -450,6 +468,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -481,6 +500,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -512,6 +532,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -543,6 +564,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -574,6 +596,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -605,6 +628,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -636,6 +660,9 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -648,7 +675,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6003000,
-    "search_text": "коломбина columbina 哥伦比娅 нод-край 5 6.3 character_stories hydro"
+    "search_text": "коломбина columbina 哥伦比娅 нод-край 5 6.3 character_stories hydro lunar_omen"
   },
   {
     "id": "cyno",
@@ -667,6 +694,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -698,6 +726,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -729,6 +758,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -760,6 +790,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -791,6 +822,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -822,6 +854,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -853,6 +886,9 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -865,7 +901,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6002000,
-    "search_text": "дурин durin 杜林 мондштадт 5 6.2 character_stories pyro"
+    "search_text": "дурин durin 杜林 мондштадт 5 6.2 character_stories pyro witchcraft"
   },
   {
     "id": "emilie",
@@ -884,6 +920,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -915,6 +952,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -946,6 +984,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -977,6 +1016,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1008,6 +1048,9 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1020,7 +1063,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 1000000,
-    "search_text": "фишль fischl 菲谢尔 мондштадт 4 1.0 character_stories electro"
+    "search_text": "фишль fischl 菲谢尔 мондштадт 4 1.0 character_stories electro witchcraft"
   },
   {
     "id": "flins",
@@ -1039,6 +1082,9 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1051,7 +1097,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6000000,
-    "search_text": "флинс flins 菲林斯 нод-край 5 6.0 character_stories electro"
+    "search_text": "флинс flins 菲林斯 нод-край 5 6.0 character_stories electro lunar_omen"
   },
   {
     "id": "freminet",
@@ -1070,6 +1116,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1101,6 +1148,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1132,6 +1180,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1163,6 +1212,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1194,6 +1244,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1225,6 +1276,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1256,6 +1308,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1287,6 +1340,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1318,6 +1372,9 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1330,7 +1387,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6003000,
-    "search_text": "иллуги illuga 叶洛亚 нод-край 4 6.3 character_stories geo"
+    "search_text": "иллуги illuga 叶洛亚 нод-край 4 6.3 character_stories geo lunar_omen"
   },
   {
     "id": "ineffa",
@@ -1349,6 +1406,9 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1361,7 +1421,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 5008000,
-    "search_text": "инеффа ineffa 伊涅芙 нод-край 5 5.8 character_stories electro"
+    "search_text": "инеффа ineffa 伊涅芙 нод-край 5 5.8 character_stories electro lunar_omen"
   },
   {
     "id": "jahoda",
@@ -1380,6 +1440,9 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1392,7 +1455,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6002000,
-    "search_text": "ягода jahoda 雅珂达 нод-край 4 6.2 character_stories anemo"
+    "search_text": "ягода jahoda 雅珂达 нод-край 4 6.2 character_stories anemo lunar_omen"
   },
   {
     "id": "jean",
@@ -1411,6 +1474,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1442,6 +1506,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1473,6 +1538,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1504,6 +1570,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1535,6 +1602,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1566,6 +1634,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1597,6 +1666,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1628,6 +1698,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1659,6 +1730,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1690,6 +1762,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1721,6 +1794,9 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1733,7 +1809,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 1000000,
-    "search_text": "кли klee 可莉 мондштадт 5 1.0 character_stories pyro"
+    "search_text": "кли klee 可莉 мондштадт 5 1.0 character_stories pyro witchcraft"
   },
   {
     "id": "kujou_sara",
@@ -1752,6 +1828,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1783,6 +1860,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1814,6 +1892,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1845,6 +1924,9 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1857,7 +1939,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6000000,
-    "search_text": "лаума lauma 菈乌玛 нод-край 5 6.0 character_stories dendro"
+    "search_text": "лаума lauma 菈乌玛 нод-край 5 6.0 character_stories dendro lunar_omen"
   },
   {
     "id": "layla",
@@ -1876,6 +1958,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1907,6 +1990,9 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1919,7 +2005,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6005000,
-    "search_text": "линнея linnea 莉奈娅 нод-край 5 6.5 character_stories geo"
+    "search_text": "линнея linnea 莉奈娅 нод-край 5 6.5 character_stories geo lunar_omen"
   },
   {
     "id": "lisa",
@@ -1938,6 +2024,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -1969,6 +2056,9 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -1981,7 +2071,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6006000,
-    "search_text": "лоэн lohen 洛恩 мондштадт 5 6.6 character_stories cryo"
+    "search_text": "лоэн lohen 洛恩 мондштадт 5 6.6 character_stories cryo witchcraft"
   },
   {
     "id": "lynette",
@@ -2000,6 +2090,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2031,6 +2122,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2062,6 +2154,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2093,6 +2186,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2124,6 +2218,9 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2136,7 +2233,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 1000000,
-    "search_text": "мона mona 莫娜 мондштадт 5 1.0 character_stories hydro"
+    "search_text": "мона mona 莫娜 мондштадт 5 1.0 character_stories hydro witchcraft"
   },
   {
     "id": "mualani",
@@ -2155,6 +2252,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2186,6 +2284,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2217,6 +2316,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2248,6 +2348,9 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2260,7 +2363,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6001000,
-    "search_text": "нефер nefer 奈芙尔 нод-край 5 6.1 character_stories dendro"
+    "search_text": "нефер nefer 奈芙尔 нод-край 5 6.1 character_stories dendro lunar_omen"
   },
   {
     "id": "neuvillette",
@@ -2279,6 +2382,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2310,6 +2414,9 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [
       "ангел"
@@ -2324,7 +2431,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6006000,
-    "search_text": "николь nicole 尼可 нод-край 5 6.6 character_stories pyro ангел"
+    "search_text": "николь nicole 尼可 нод-край 5 6.6 character_stories pyro ангел witchcraft"
   },
   {
     "id": "nilou",
@@ -2343,6 +2450,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2374,6 +2482,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2405,6 +2514,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2436,6 +2546,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2467,6 +2578,9 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2479,7 +2593,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6006000,
-    "search_text": "прюн prune 布伦妮 мондштадт 4 6.6 character_stories anemo"
+    "search_text": "прюн prune 布伦妮 мондштадт 4 6.6 character_stories anemo witchcraft"
   },
   {
     "id": "qiqi",
@@ -2498,6 +2612,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2529,6 +2644,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2560,6 +2676,9 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2572,7 +2691,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 1000000,
-    "search_text": "рэйзор razor 雷泽 мондштадт 4 1.0 character_stories electro"
+    "search_text": "рэйзор razor 雷泽 мондштадт 4 1.0 character_stories electro witchcraft"
   },
   {
     "id": "rosaria",
@@ -2591,6 +2710,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2622,6 +2742,9 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [
+      "star_blade"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2634,7 +2757,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6007000,
-    "search_text": "сандроне sandrone 桑多涅 фонтейн 5 6.7 character_stories cryo"
+    "search_text": "сандроне sandrone 桑多涅 фонтейн 5 6.7 character_stories cryo star_blade"
   },
   {
     "id": "sangonomiya_kokomi",
@@ -2653,6 +2776,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2684,6 +2808,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2715,6 +2840,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2746,6 +2872,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2777,6 +2904,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2808,6 +2936,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2839,6 +2968,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2870,6 +3000,9 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2882,7 +3015,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 1000000,
-    "search_text": "сахароза sucrose 砂糖 мондштадт 4 1.0 character_stories anemo"
+    "search_text": "сахароза sucrose 砂糖 мондштадт 4 1.0 character_stories anemo witchcraft"
   },
   {
     "id": "tartaglia",
@@ -2901,6 +3034,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -2932,6 +3066,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -2963,6 +3098,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3000,6 +3136,7 @@
       "cryo",
       "geo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3031,6 +3168,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3062,6 +3200,9 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3074,7 +3215,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6004000,
-    "search_text": "варка varka 法尔伽 мондштадт 5 6.4 character_stories anemo"
+    "search_text": "варка varka 法尔伽 мондштадт 5 6.4 character_stories anemo witchcraft"
   },
   {
     "id": "venti",
@@ -3093,6 +3234,9 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [
+      "witchcraft"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3105,7 +3249,7 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 1000000,
-    "search_text": "венти venti 温迪 мондштадт 5 1.0 character_stories anemo"
+    "search_text": "венти venti 温迪 мондштадт 5 1.0 character_stories anemo witchcraft"
   },
   {
     "id": "wanderer",
@@ -3124,6 +3268,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3155,6 +3300,7 @@
     "elements": [
       "cryo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3186,6 +3332,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -3217,6 +3364,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3248,6 +3396,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3279,6 +3428,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3310,6 +3460,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -3341,6 +3492,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -3372,6 +3524,7 @@
     "elements": [
       "electro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3403,6 +3556,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -3434,6 +3588,7 @@
     "elements": [
       "dendro"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -3465,6 +3620,7 @@
     "elements": [
       "hydro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3496,6 +3652,7 @@
     "elements": [
       "pyro"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3527,6 +3684,7 @@
     "elements": [
       "anemo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3558,6 +3716,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 4,
     "tags": [],
     "languages": [
@@ -3589,6 +3748,7 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3620,6 +3780,9 @@
     "elements": [
       "geo"
     ],
+    "character_filters": [
+      "lunar_omen"
+    ],
     "rarity": 5,
     "tags": [],
     "languages": [
@@ -3632,6 +3795,6 @@
     ],
     "filter_type": "character_stories",
     "sort_version": 6003000,
-    "search_text": "цзы бай zibai 兹白 ли юэ 5 6.3 character_stories geo"
+    "search_text": "цзы бай zibai 兹白 ли юэ 5 6.3 character_stories geo lunar_omen"
   }
 ]

@@ -217,6 +217,8 @@ def check_index_and_details(indexes: dict[str, list[dict[str, Any]]]) -> dict[st
             check_regions(item, owner)
             check_asset(item.get("icon"), owner)
             check_common_index_fields(item, owner, enemy=(section == "enemies"))
+            if section == "stories" and item.get("story_group") == "character_stories" and "character_filters" not in item:
+                fail(f"{owner}: в индексной записи персонажа отсутствует character_filters")
             if section == "stories" and len(str(item.get("search_text") or "")) > 1200:
                 fail(f"{owner}: stories_index должен быть лёгким, без полного текста истории в search_text")
 
@@ -230,6 +232,11 @@ def check_index_and_details(indexes: dict[str, list[dict[str, Any]]]) -> dict[st
                 continue
             if str(detail.get("id") or "").strip() != item_id:
                 fail(f"{rel(path)}: id detail-файла не совпадает с индексом")
+            if section == "stories" and item.get("story_group") == "character_stories":
+                index_filters = item.get("character_filters", [])
+                detail_filters = detail.get("character_filters", [])
+                if index_filters != detail_filters:
+                    fail(f"{owner}: character_filters в индексе не совпадают с detail-файлом")
             details[section][item_id] = detail
 
     for global_id, count in Counter(all_global_ids).items():

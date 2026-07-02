@@ -1305,6 +1305,7 @@ def story_catalog_search_values(item: dict[str, Any], story_group: str) -> tuple
 
 def index_story(item: dict[str, Any]) -> dict[str, Any]:
     story_group = item.get("story_group", "world_stories")
+    character_filters = item.get("character_filters", []) if story_group == "character_stories" else []
     return {
         "id": item["id"],
         "category": "stories",
@@ -1316,11 +1317,12 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "category_type": story_group,
         "element": item.get("element", ""),
         "elements": item.get("elements", []),
+        "character_filters": character_filters,
         "rarity": item.get("rarity"),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
         **index_runtime_fields(item, story_group),
-        "search_text": make_search_text(*story_catalog_search_values(item, story_group)),
+        "search_text": make_search_text(*story_catalog_search_values(item, story_group), character_filters),
     }
 
 
