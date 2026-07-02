@@ -126,7 +126,7 @@
 .search-panel {
   display: grid;
   grid-template-columns: minmax(250px, 1fr) auto;
-  gap: 20px;
+  gap: clamp(16px, 1.05vw, 20px);
   align-items: center;
   padding: 0;
   background: transparent;
@@ -136,8 +136,8 @@
 
 .search {
   min-width: 0;
-  height: 44px;
-  min-height: 44px;
+  height: var(--control-height);
+  min-height: var(--control-height);
   display: grid;
   grid-template-columns: 20px minmax(0, 1fr) 26px;
   align-items: center;
@@ -893,8 +893,8 @@
 .catalog-card-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
-  margin-top: 16px;
+  gap: clamp(14px, 0.9vw, 16px);
+  margin-top: clamp(14px, 0.9vw, 16px);
 }
 
 .catalog-card-grid .empty {
@@ -907,12 +907,12 @@
   isolation: isolate;
   overflow: hidden;
   display: grid;
-  grid-template-columns: 104px minmax(0, 1fr);
-  gap: 18px;
+  grid-template-columns: var(--catalog-card-media-size) minmax(0, 1fr);
+  gap: clamp(15px, 0.95vw, 18px);
   align-items: center;
-  min-height: 148px;
+  min-height: clamp(134px, 7.7vw, 148px);
   min-width: 0;
-  padding: 16px 18px 20px;
+  padding: clamp(14px, 0.83vw, 16px) clamp(16px, 0.95vw, 18px) clamp(18px, 1.05vw, 20px);
   background: var(--accent);
   color: var(--menu-ink);
   border: 0;
@@ -981,8 +981,8 @@
 }
 
 .catalog-card-media {
-  width: 96px;
-  height: 96px;
+  width: var(--catalog-card-media-size);
+  height: var(--catalog-card-media-size);
   align-self: center;
   display: grid;
   place-items: center;
@@ -991,8 +991,8 @@
 
 .catalog-card-img {
   display: block;
-  max-width: 84px;
-  max-height: 88px;
+  max-width: calc(var(--catalog-card-media-size) - 12px);
+  max-height: calc(var(--catalog-card-media-size) - 8px);
   width: auto;
   height: auto;
   object-fit: contain;
@@ -1002,14 +1002,14 @@
 }
 
 .catalog-card-img.is-person {
-  max-width: 108px;
-  max-height: 108px;
+  max-width: calc(var(--catalog-card-character-media-size) - 4px);
+  max-height: calc(var(--catalog-card-character-media-size) - 4px);
   align-self: center;
 }
 
 .catalog-card--character-story .catalog-card-media {
-  width: 112px;
-  height: 112px;
+  width: var(--catalog-card-character-media-size);
+  height: var(--catalog-card-character-media-size);
   align-self: center;
   overflow: hidden;
   background: rgba(113, 107, 96, 0.58);
@@ -1029,7 +1029,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-right: 36px;
+  padding-right: clamp(28px, 1.85vw, 36px);
 }
 
 .catalog-card-title {
@@ -1038,7 +1038,7 @@
   -webkit-line-clamp: 2;
   overflow: hidden;
   color: var(--menu-ink);
-  font-size: 17px;
+  font-size: var(--catalog-card-title-size);
   font-weight: 720;
   line-height: 1.18;
   letter-spacing: 0.08em;
@@ -1047,14 +1047,14 @@
 }
 
 .catalog-card--character-story .catalog-card-title {
-  font-size: 17px;
+  font-size: var(--catalog-card-title-size);
   text-transform: uppercase;
 }
 
 .catalog-card-subtitle {
   margin-top: 7px;
   color: rgba(213, 203, 189, 0.9);
-  font-size: 12.5px;
+  font-size: var(--catalog-card-subtitle-size);
   font-weight: 520;
   line-height: 1.34;
   white-space: nowrap;
@@ -1070,7 +1070,7 @@
   margin-top: 14px;
   min-width: 0;
   color: rgba(243, 236, 223, 0.9);
-  font-size: 12.5px;
+  font-size: var(--catalog-card-subtitle-size);
   font-weight: 760;
   line-height: 1.3;
 }
