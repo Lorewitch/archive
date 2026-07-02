@@ -175,8 +175,7 @@
   }
 
   .detail-icon,
-  .item-description-float-icon,
-  .weapon-description-icon {
+  .item-description-float-icon {
     width: min(54vw, 176px);
     height: min(54vw, 176px);
     margin: 0 auto;

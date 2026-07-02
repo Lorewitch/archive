@@ -692,8 +692,7 @@
 
 .catalog-icon,
 .detail-icon,
-.item-description-float-icon,
-.weapon-description-icon {
+.item-description-float-icon {
   --entry-icon-size: 44px;
   width: var(--entry-icon-size);
   height: var(--entry-icon-size);

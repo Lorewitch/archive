@@ -860,7 +860,7 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: одиночные артефакты должны открываться без лишней панели чтения сета")
         if "function versionedAssetPath(path)" not in text:
             fail("assets/js/archive.js: локальные ассеты должны получать cache-busting версию")
-        if "versionedAssetPath(item.icon)" not in text or "versionedAssetPath(material.icon)" not in text:
+        if "versionedAssetPath(icon)" not in text or "versionedAssetPath(material.icon)" not in text:
             fail("assets/js/archive.js: иконки записей и материалов должны версионироваться")
         if "function entryRarityBackgroundClass" not in text or "rarity-bg-${rarity}" not in text:
             fail("assets/js/archive.js: иконки записей с редкостью должны получать класс подложки по редкости")
@@ -870,8 +870,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: множественные элементы персонажа должны получать отдельный класс для аккуратной раскладки")
         if "weaponRarityBackgroundClass" in text or "weapon-rarity-bg" in text:
             fail("assets/js/archive.js: остался старый оружейный код подложек редкости")
-        if "weaponIconClass" not in text or "weapon-description-icon" not in text:
-            fail("assets/js/archive.js: подложка редкости должна работать и в карточке оружия")
+        if "renderReaderStickyHead(item" not in text or "entryRarityBackgroundClass(item)" not in text:
+            fail("assets/js/archive.js: подложка редкости должна работать в шапке карточки оружия")
         if "const expandedEnemyDescriptionKeys = new Set()" not in text:
             fail("assets/js/archive.js: раскрытый спойлер описания босса должен переживать смену языка")
         if "function rememberEnemyDescriptionState" not in text or "data-description-key" not in text:

@@ -2827,25 +2827,22 @@ function renderGenericDetail(item, config) {
   const isWeapon = config.id === "weapons";
   const isSimpleItem = config.id === "items";
   const weaponTextParts = isWeapon ? splitWeaponDescriptionText(text) : { description: text, details: "" };
-  const weaponIconClass = ["weapon-description-icon", entryRarityBackgroundClass(item)].filter(Boolean).join(" ");
-  const weaponIcon = isWeapon && item.icon
-    ? `<img class="${escapeHtml(weaponIconClass)}" src="${escapeHtml(versionedAssetPath(item.icon))}" alt="" loading="lazy" decoding="async" width="88" height="88">`
-    : "";
   const itemIconClass = ["inventory-card-icon", "item-description-float-icon", entryRarityBackgroundClass(item)].filter(Boolean).join(" ");
   const itemFloatIcon = isSimpleItem ? renderInventoryIcon(item, itemIconClass, 112) : "";
   const weaponDescriptionBlock = isWeapon && weaponTextParts.description ? `
-        <div class="weapon-description-panel${weaponIcon ? "" : " no-icon"}">
-          ${weaponIcon}
-          <div class="prose">${markdownToHtml(weaponTextParts.description)}</div>
+      <article class="weapon-description-panel ${config.id}-detail-card">
+        <div class="volume-title generic-title">
+          <div class="volume-title-main"><h3>Описание</h3></div>
         </div>
+        <div class="prose">${markdownToHtml(weaponTextParts.description)}</div>
+      </article>
   ` : "";
-  const weaponDetailsBlock = isWeapon && weaponTextParts.details ? `
+  const weaponHistoryBlock = isWeapon && weaponTextParts.details ? `
+      <article class="text-card generic-text-card weapon-history-card ${config.id}-detail-card">
         <div class="prose weapon-detail-main-text">${markdownToHtml(weaponTextParts.details)}</div>
+      </article>
   ` : "";
-  const bodyBlock = isWeapon ? `
-        ${weaponDescriptionBlock || weaponDetailsBlock || `<div class="prose">${markdownToHtml(text)}</div>`}
-        ${weaponDescriptionBlock ? weaponDetailsBlock : ""}
-  ` : isSimpleItem ? `
+  const bodyBlock = isSimpleItem ? `
         <div class="prose item-description-prose inventory-card-body">${itemFloatIcon}${markdownToHtml(text)}</div>
   ` : `
         <div class="prose">${markdownToHtml(text)}</div>
@@ -2853,6 +2850,20 @@ function renderGenericDetail(item, config) {
   const droppedByBlock = config.id === "items" && item?.item_group === "common_enemies"
     ? renderDroppedBySection(item)
     : "";
+  const detailMarkup = isWeapon ? `
+      ${weaponDescriptionBlock || `<article class="weapon-description-panel ${config.id}-detail-card"><div class="prose">${markdownToHtml(text)}</div></article>`}
+      ${weaponHistoryBlock}
+      ${notesBlock}
+  ` : `
+      <article class="text-card generic-text-card ${config.id}-detail-card">
+        <div class="volume-title generic-title">
+          ${isSimpleItem ? renderInventoryTitleBlock(item) : `<div class="volume-title-main"><h3>Текст</h3></div>`}
+        </div>
+        ${bodyBlock}
+        ${droppedByBlock}
+        ${notesBlock}
+      </article>
+  `;
 
   app.innerHTML = `
     <section class="page-card book-page reader-page">
@@ -2862,14 +2873,7 @@ function renderGenericDetail(item, config) {
         backLabel: catalogBackLabel(config, state.subsection),
         showMain: !isSimpleItem,
       })}
-      <article class="text-card generic-text-card ${config.id}-detail-card">
-        <div class="volume-title generic-title">
-          ${isSimpleItem ? renderInventoryTitleBlock(item) : `<div class="volume-title-main"><h3>${config.id === "weapons" ? "Описание" : "Текст"}</h3></div>`}
-        </div>
-        ${bodyBlock}
-        ${droppedByBlock}
-        ${notesBlock}
-      </article>
+      ${detailMarkup}
     </section>
   `;
 }

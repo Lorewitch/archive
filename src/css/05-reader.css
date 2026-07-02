@@ -14,8 +14,7 @@
 }
 
 .detail-icon,
-.item-description-float-icon,
-.weapon-description-icon {
+.item-description-float-icon {
   width: 96px;
   height: 96px;
   object-fit: contain;
@@ -87,7 +86,7 @@
   margin-top: 14px;
   padding: 18px;
   background: rgba(232, 222, 212, 0.50);
-  border: 1px solid rgba(91, 74, 62, 0.14);
+  border: 0;
   box-shadow: var(--shadow-soft);
 }
 
@@ -204,34 +203,37 @@
 }
 
 .weapon-description-panel {
-  display: grid;
-  grid-template-columns: auto minmax(0, 1fr);
-  gap: 18px;
-  align-items: center;
-  padding: 16px 18px;
-  border: 1px solid rgba(91, 74, 62, 0.12);
-  background: rgba(203, 191, 175, 0.22);
+  margin-top: 14px;
+  padding: 18px 20px;
+  background: var(--accent);
+  color: #f6f2eb;
+  border: 0;
+  box-shadow: var(--shadow-soft);
 }
 
-.weapon-description-panel.no-icon {
-  grid-template-columns: 1fr;
+.weapon-description-panel .volume-title {
+  margin-bottom: 10px;
 }
 
-.weapon-description-icon {
-  display: block;
-  width: 88px;
-  height: 88px;
-  object-fit: contain;
-  flex: 0 0 auto;
-}
-
+.weapon-description-panel .volume-title h3,
 .weapon-description-panel .prose,
+.weapon-description-panel .prose h1,
+.weapon-description-panel .prose h2,
+.weapon-description-panel .prose h3,
+.weapon-description-panel .prose h4 {
+  color: #f6f2eb;
+}
+
+.weapon-description-panel .prose {
+  min-width: 0;
+}
+
 .enemy-description-content .prose {
   min-width: 0;
 }
 
 .weapon-detail-main-text {
-  margin-top: 26px;
+  margin-top: 0;
 }
 
 .items-detail-card.generic-text-card {
