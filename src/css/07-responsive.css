@@ -12,7 +12,7 @@
     --reader-mobile-row-height: 40px;
     --reader-mobile-row-gap: 8px;
     --reader-mobile-controls-scroll: 14px;
-    --reader-mobile-stack-height: calc((var(--reader-mobile-row-height) * 2) + var(--reader-mobile-row-gap) + var(--reader-mobile-controls-scroll) + 12px);
+    --reader-mobile-button-width: 142px;
   }
 
   html,
@@ -476,28 +476,31 @@
     --reader-corner-row-gap: var(--reader-mobile-row-gap);
     gap: 14px;
     margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 18px;
-    padding: calc(var(--reader-mobile-stack-height) + 14px) var(--content-pad-x) 16px;
+    padding: 0 var(--content-pad-x) 16px;
     border-radius: 0;
   }
 
   .reader-sticky-head::before {
-    height: var(--reader-mobile-stack-height);
-    border-radius: 0;
+    display: none;
   }
 
   .reader-head-nav {
-    position: fixed;
-    top: var(--reader-mobile-bar-top);
-    left: var(--reader-mobile-bar-side);
-    right: calc(var(--reader-mobile-bar-side) + var(--content-rail-width) + 8px);
-    z-index: 115;
+    position: relative;
+    top: auto;
+    left: auto;
+    right: auto;
+    z-index: 15;
     display: flex;
     flex-direction: column;
     align-items: stretch;
     justify-content: flex-start;
     gap: var(--reader-mobile-row-gap);
     min-width: 0;
-    overflow: visible;
+    margin: 0 calc(-1 * var(--content-pad-x)) 14px;
+    padding: 0 var(--content-pad-x) 10px;
+    background: var(--surface-solid);
+    border-bottom: 1px solid var(--surface-line);
+    overflow: hidden;
   }
 
   .reader-head-nav .back-link {
@@ -523,7 +526,7 @@
     display: flex;
     align-items: center;
     flex-wrap: nowrap;
-    gap: 6px;
+    gap: 8px;
     overflow-x: auto;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
@@ -537,7 +540,7 @@
     height: 0;
   }
 
-  .reader-corner-scrollbar {
+  .reader-corner-track .reader-corner-scrollbar {
     display: block;
     height: 8px;
     margin-top: 6px;
@@ -571,22 +574,17 @@
     font-size: var(--font-size-mobile-control);
   }
 
-  .reader-corner-controls .mode-button {
-    flex: 0 0 154px;
-    width: 154px;
-  }
-
-  .reader-corner-controls .reader-content-type-button {
-    flex: 0 0 102px;
-    width: 102px;
+  .reader-corner-controls .mode-button,
+  .reader-corner-controls .reader-content-type-button,
+  .reader-corner-controls .lang-switch button {
+    flex: 0 0 var(--reader-mobile-button-width);
+    width: var(--reader-mobile-button-width);
+    min-width: var(--reader-mobile-button-width);
+    max-width: var(--reader-mobile-button-width);
   }
 
   .reader-corner-controls .lang-switch {
-    gap: 5px;
-  }
-
-  .reader-corner-controls .lang-switch button {
-    min-width: 40px;
+    gap: 8px;
   }
 
   .reader-head-main {
@@ -639,6 +637,7 @@
     --content-pad-bottom: 28px;
     --content-radius: 0px;
     --reader-mobile-bar-side: 8px;
+    --reader-mobile-button-width: 136px;
   }
 
   .stage {
@@ -657,8 +656,8 @@
   }
 
   .reader-head-nav {
-    left: 8px;
-    right: 8px;
+    left: auto;
+    right: auto;
   }
 
   .catalog-card-grid {
