@@ -889,9 +889,43 @@ function scrollPrimaryTo(y = 0, behavior = "auto") {
   }
 }
 
+function readerScrollbarMetrics(scroller, bar) {
+  const maxScroll = Math.max(0, scroller.scrollWidth - scroller.clientWidth);
+  const barWidth = Math.max(0, bar.clientWidth);
+  const thumbWidth = maxScroll > 0
+    ? Math.max(28, Math.min(barWidth, Math.round((scroller.clientWidth / Math.max(1, scroller.scrollWidth)) * barWidth)))
+    : barWidth;
+  const maxThumbLeft = Math.max(0, barWidth - thumbWidth);
+  return { maxScroll, barWidth, thumbWidth, maxThumbLeft };
+}
+
+function syncReaderSectionScrollbars() {
+  app?.querySelectorAll(".reader-section-scrollbar").forEach(bar => {
+    const row = bar.closest(".reader-tabs-row");
+    const scroller = row?.querySelector(".reader-section-scroll");
+    const thumb = bar.querySelector(".reader-section-scrollbar-thumb");
+    if (!scroller || !thumb) return;
+
+    const m = readerScrollbarMetrics(scroller, bar);
+    const hasScroll = m.maxScroll > 1 && m.barWidth > 0;
+    bar.classList.toggle("has-scroll", hasScroll);
+    if (!hasScroll) {
+      thumb.style.width = "0px";
+      thumb.style.transform = "translateX(0px)";
+      return;
+    }
+
+    const left = m.maxScroll > 0 ? (scroller.scrollLeft / m.maxScroll) * m.maxThumbLeft : 0;
+    thumb.style.width = `${m.thumbWidth}px`;
+    thumb.style.transform = `translateX(${Math.max(0, Math.min(m.maxThumbLeft, left))}px)`;
+  });
+}
+
 function syncCustomScrollbarsSoon() {
   if (typeof window.__archiveSyncScrollbars === "function") {
     window.requestAnimationFrame(() => window.__archiveSyncScrollbars());
+  } else {
+    window.requestAnimationFrame(syncReaderSectionScrollbars);
   }
 }
 const collator = new Intl.Collator("ru", { numeric: true, sensitivity: "base" });
@@ -1270,8 +1304,13 @@ function renderReaderTabBlock(label, buttonsMarkup, options = {}) {
   return `
     <div class="${escapeHtml(rowClass)}">
       ${labelMarkup}
-      <div class="volume-scroll reader-section-scroll" data-scroll-preserve="${escapeHtml(scrollKey)}">
-        ${buttonsMarkup}
+      <div class="reader-tabs-track">
+        <div class="volume-scroll reader-section-scroll" data-scroll-preserve="${escapeHtml(scrollKey)}">
+          ${buttonsMarkup}
+        </div>
+        <div class="reader-section-scrollbar" data-scrollbar-for="${escapeHtml(scrollKey)}" aria-hidden="true">
+          <span class="reader-section-scrollbar-thumb"></span>
+        </div>
       </div>
     </div>
   `;
@@ -2874,7 +2913,7 @@ function preserveScrollRender(renderFn) {
 
   renderFn();
 
-  requestAnimationFrame(() => {
+  function restoreScrollPositions() {
     scrollPrimaryTo(y);
     app.querySelectorAll("[data-scroll-preserve]").forEach(element => {
       const key = element.dataset.scrollPreserve || "reader-tabs";
@@ -2882,6 +2921,12 @@ function preserveScrollRender(renderFn) {
         element.scrollLeft = horizontalScrollPositions.get(key) || 0;
       }
     });
+    syncReaderSectionScrollbars();
+  }
+
+  restoreScrollPositions();
+  requestAnimationFrame(() => {
+    restoreScrollPositions();
     syncCustomScrollbarsSoon();
   });
 }
@@ -3456,11 +3501,78 @@ const updateContentRail = setupCustomScrollbar(contentScroll, document.getElemen
 window.__archiveSyncScrollbars = function archiveSyncScrollbars() {
   updateMenuRail();
   updateContentRail();
+  syncReaderSectionScrollbars();
   requestAnimationFrame(() => {
     updateMenuRail();
     updateContentRail();
+    syncReaderSectionScrollbars();
   });
 };
+
+let readerSectionScrollbarDrag = null;
+
+function scrollerForReaderSectionScrollbar(bar) {
+  return bar?.closest(".reader-tabs-row")?.querySelector(".reader-section-scroll") || null;
+}
+
+app?.addEventListener("scroll", event => {
+  if (event.target instanceof Element && event.target.classList.contains("reader-section-scroll")) {
+    syncReaderSectionScrollbars();
+  }
+}, true);
+
+app?.addEventListener("pointerdown", event => {
+  const bar = event.target.closest?.(".reader-section-scrollbar");
+  if (!bar) return;
+
+  const scroller = scrollerForReaderSectionScrollbar(bar);
+  if (!scroller) return;
+  const m = readerScrollbarMetrics(scroller, bar);
+  if (!m.maxScroll || !m.maxThumbLeft) return;
+
+  const rect = bar.getBoundingClientRect();
+  if (!event.target.closest?.(".reader-section-scrollbar-thumb")) {
+    const targetLeft = Math.max(0, Math.min(m.maxThumbLeft, event.clientX - rect.left - (m.thumbWidth / 2)));
+    scroller.scrollLeft = (targetLeft / m.maxThumbLeft) * m.maxScroll;
+    syncReaderSectionScrollbars();
+  }
+
+  const thumb = bar.querySelector(".reader-section-scrollbar-thumb");
+  readerSectionScrollbarDrag = {
+    pointerId: event.pointerId,
+    bar,
+    scroller,
+    startX: event.clientX,
+    startScrollLeft: scroller.scrollLeft,
+  };
+  thumb?.classList.add("is-dragging");
+  bar.setPointerCapture?.(event.pointerId);
+  event.preventDefault();
+});
+
+app?.addEventListener("pointermove", event => {
+  const drag = readerSectionScrollbarDrag;
+  if (!drag || drag.pointerId !== event.pointerId) return;
+
+  const m = readerScrollbarMetrics(drag.scroller, drag.bar);
+  if (!m.maxScroll || !m.maxThumbLeft) return;
+
+  const delta = event.clientX - drag.startX;
+  drag.scroller.scrollLeft = drag.startScrollLeft + (delta / m.maxThumbLeft) * m.maxScroll;
+  syncReaderSectionScrollbars();
+  event.preventDefault();
+});
+
+function stopReaderSectionScrollbarDrag(event) {
+  const drag = readerSectionScrollbarDrag;
+  if (!drag || drag.pointerId !== event.pointerId) return;
+  drag.bar.querySelector(".reader-section-scrollbar-thumb")?.classList.remove("is-dragging");
+  drag.bar.releasePointerCapture?.(event.pointerId);
+  readerSectionScrollbarDrag = null;
+}
+
+app?.addEventListener("pointerup", stopReaderSectionScrollbarDrag);
+app?.addEventListener("pointercancel", stopReaderSectionScrollbarDrag);
 
 const toTopButton = document.getElementById("to-top-button");
 let responsiveFitFrame = 0;
@@ -3489,6 +3601,7 @@ function scheduleResponsiveFit() {
     responsiveFitFrame = 0;
     fitItemMaterialTabs();
     fitEnemyDescriptionPanel();
+    syncReaderSectionScrollbars();
   });
 }
 

@@ -26,7 +26,7 @@
   height: calc(100dvh - (var(--stage-pad-y) * 2));
   position: relative;
   background: var(--surface);
-  border: 1px solid rgba(255, 255, 255, 0.58);
+  border: 0;
   border-radius: var(--content-radius);
   box-shadow: var(--shadow-card);
   overflow: hidden;
