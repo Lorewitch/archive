@@ -791,21 +791,49 @@ a {
 }
 
 .toolbar-filters {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: start;
   gap: 10px;
   min-width: 0;
   padding: 0;
-  flex-wrap: wrap;
 }
 
-.toolbar-filters .type-filter-row,
-.toolbar-filters .type-filter-stack,
-.toolbar-filters .filter-row {
-  flex: 0 1 auto;
-  grid-column: auto;
+.toolbar-filter-track {
   min-width: 0;
+  max-width: 100%;
+}
+
+.toolbar-filter-scroll {
+  display: block;
+  min-width: 0;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.toolbar-filter-scroll::-webkit-scrollbar,
+.toolbar-filter-scroll::-webkit-scrollbar-track,
+.toolbar-filter-scroll::-webkit-scrollbar-thumb,
+.toolbar-filter-scroll::-webkit-scrollbar-button,
+.toolbar-filter-scroll::-webkit-scrollbar-corner {
+  display: none;
+  width: 0;
+  height: 0;
+  background: transparent;
+}
+
+.toolbar-filter-scroll .type-filter-row,
+.toolbar-filter-scroll .type-filter-stack,
+.toolbar-filter-scroll .filter-row {
+  flex: 0 0 auto;
+  grid-column: auto;
+  width: max-content;
+  min-width: max-content;
+  max-width: none;
+  overflow: visible;
 }
 
 .search-clear {
@@ -848,7 +876,7 @@ a {
   width: 30px;
   height: 38px;
   min-height: 38px;
-  margin-left: 6px;
+  margin-left: 0;
   padding: 0;
   display: inline-flex;
   align-items: center;
@@ -918,6 +946,7 @@ a {
   font-weight: 650;
   line-height: 1.25;
   letter-spacing: 0.04em;
+  white-space: nowrap;
 }
 
 .type-filter-chip:hover,
@@ -1607,6 +1636,40 @@ a {
   flex-direction: column;
   justify-content: center;
   padding-right: 36px;
+}
+
+.catalog-card-title-block {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.catalog-card:not(.catalog-card--character-story) {
+  align-items: start;
+}
+
+.catalog-card:not(.catalog-card--character-story) .catalog-card-media {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.catalog-card:not(.catalog-card--character-story) .catalog-card-body {
+  display: contents;
+  padding-right: 0;
+}
+
+.catalog-card:not(.catalog-card--character-story) .catalog-card-title-block {
+  grid-column: 2;
+  grid-row: 1;
+  align-self: center;
+  padding-right: 36px;
+}
+
+.catalog-card:not(.catalog-card--character-story) .catalog-card-meta {
+  grid-column: 1 / -1;
+  width: 100%;
+  margin-top: 0;
+  padding-right: 28px;
 }
 
 .catalog-card-title {
@@ -2806,33 +2869,6 @@ a.enemy-loot-chip:focus-visible {
     outline: 0;
   }
 
-  .mobile-brand {
-    min-width: 0;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    color: var(--menu-active-bar);
-    font-family: var(--font-main);
-    font-size: clamp(11px, 3.2vw, 14px);
-    font-weight: 420;
-    line-height: 1.55;
-    letter-spacing: 0.34em;
-    text-transform: uppercase;
-    text-align: left;
-  }
-
-  .mobile-brand img {
-    display: none;
-  }
-
-  .mobile-brand span {
-    display: block;
-    min-width: 0;
-    max-width: calc(100vw - 84px);
-    overflow: visible;
-    text-overflow: clip;
-    white-space: normal;
-  }
 
   .archive-layout {
     grid-template-columns: 0 0 minmax(0, 1fr);
@@ -2993,8 +3029,18 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .catalog-sticky-head {
-    margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 0;
-    padding: var(--content-pad-top) var(--content-pad-x) 18px;
+    position: relative;
+    top: auto;
+    z-index: 1;
+    margin: 0 0 18px;
+    padding: 0 0 18px;
+    background: transparent;
+    border-bottom: 0;
+    box-shadow: none;
+  }
+
+  .catalog-sticky-head::before {
+    display: none;
   }
 
   .toolbar,
@@ -3017,7 +3063,6 @@ a.enemy-loot-chip:focus-visible {
     box-shadow: inset 0 0 0 2px rgba(91, 74, 62, 0);
   }
 
-  .toolbar-filters,
   .type-filter-row,
   .type-filter-stack,
   .filter-row {
@@ -3030,7 +3075,6 @@ a.enemy-loot-chip:focus-visible {
     -ms-overflow-style: none;
   }
 
-  .toolbar-filters::-webkit-scrollbar,
   .type-filter-row::-webkit-scrollbar,
   .type-filter-stack::-webkit-scrollbar,
   .filter-row::-webkit-scrollbar {
@@ -3200,9 +3244,12 @@ a.enemy-loot-chip:focus-visible {
     --reader-corner-row-height: var(--reader-mobile-row-height);
     --reader-corner-row-gap: var(--reader-mobile-row-gap);
     gap: 14px;
-    margin: calc(-1 * var(--content-pad-top)) calc(-1 * var(--content-pad-x)) 18px;
-    padding: 0 var(--content-pad-x) 16px;
+    margin: 0 0 18px;
+    padding: 0 0 16px;
+    background: transparent;
+    border: 0;
     border-radius: 0;
+    box-shadow: none;
   }
 
   .reader-sticky-head::before {
@@ -3221,10 +3268,10 @@ a.enemy-loot-chip:focus-visible {
     justify-content: flex-start;
     gap: var(--reader-mobile-row-gap);
     min-width: 0;
-    margin: 0 calc(-1 * var(--content-pad-x)) 14px;
-    padding: 0 var(--content-pad-x) 10px;
-    background: var(--surface-solid);
-    border-bottom: 1px solid var(--surface-line);
+    margin: 0 0 14px;
+    padding: 0;
+    background: transparent;
+    border-bottom: 0;
     overflow: hidden;
   }
 
@@ -3300,12 +3347,18 @@ a.enemy-loot-chip:focus-visible {
   }
 
   .reader-corner-controls .mode-button,
-  .reader-corner-controls .reader-content-type-button,
-  .reader-corner-controls .lang-switch button {
-    flex: 0 0 var(--reader-mobile-button-width);
-    width: var(--reader-mobile-button-width);
+  .reader-corner-controls .reader-content-type-button {
+    flex: 0 0 auto;
+    width: auto;
     min-width: var(--reader-mobile-button-width);
-    max-width: var(--reader-mobile-button-width);
+    max-width: none;
+  }
+
+  .reader-corner-controls .lang-switch button {
+    flex: 0 0 48px;
+    width: 48px;
+    min-width: 48px;
+    max-width: 48px;
   }
 
   .reader-corner-controls .lang-switch {
@@ -3464,10 +3517,6 @@ a.enemy-loot-chip:focus-visible {
 }
 
 @media (max-width: 380px) {
-  .mobile-brand {
-    font-size: 11px;
-    letter-spacing: 0.3em;
-  }
 
   .menu-button {
     flex-basis: 38px;

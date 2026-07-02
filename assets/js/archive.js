@@ -2195,8 +2195,10 @@ function renderCatalogCard(item, config) {
       <span class="catalog-card-open" aria-hidden="true">›</span>
       ${renderCatalogCardMedia(item)}
       <span class="catalog-card-body">
-        <span class="catalog-card-title">${escapeHtml(titleOf(item, "ru"))}</span>
-        ${subtitle ? `<span class="catalog-card-subtitle">${escapeHtml(subtitle)}</span>` : ""}
+        <span class="catalog-card-title-block">
+          <span class="catalog-card-title">${escapeHtml(titleOf(item, "ru"))}</span>
+          ${subtitle ? `<span class="catalog-card-subtitle">${escapeHtml(subtitle)}</span>` : ""}
+        </span>
         ${meta ? `<span class="catalog-card-meta">${meta}</span>` : ""}
       </span>
     </div>
@@ -2354,10 +2356,26 @@ function renderCatalog(config) {
             ` : ""}
           </div>
 
-          <div class="toolbar-filters">
-            ${renderTypeFilters(config)}
-            ${renderCatalogFilterReset(config)}
-          </div>
+          ${(() => {
+            const typeFilters = renderTypeFilters(config);
+            const resetFilter = renderCatalogFilterReset(config);
+            if (!typeFilters && !resetFilter) return "";
+            return `
+              <div class="toolbar-filters">
+                ${resetFilter}
+                ${typeFilters ? `
+                  <div class="toolbar-filter-track reader-tabs-row">
+                    <div class="toolbar-filter-scroll reader-section-scroll" data-scroll-preserve="catalog-filters">
+                      ${typeFilters}
+                    </div>
+                    <div class="reader-section-scrollbar toolbar-filter-scrollbar" data-scrollbar-for="catalog-filters" aria-hidden="true">
+                      <span class="reader-section-scrollbar-thumb"></span>
+                    </div>
+                  </div>
+                ` : ""}
+              </div>
+            `;
+          })()}
         </div>
       </div>
 
