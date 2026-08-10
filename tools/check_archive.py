@@ -47,6 +47,11 @@ KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_c
 QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
 KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 KNOWN_CHARACTER_FILTERS = {"lunar_omen", "witchcraft", "star_blade"}
+KNOWN_QUEST_COLLECTIONS = {"witch_homework"}
+TECHNICAL_TEXT_PATTERN = re.compile(
+    r"\{(?:REALNAME|PLAYERAVATAR|MATEAVATAR|RUBY|REGEX|TMPVALUE|ABYSSWAR|NON_BREAK_SPACE|B)(?:[#[(])|\$(?:HIDDEN|UNRELEASED)",
+    flags=re.I,
+)
 
 CSS_MODULES = [
     "00-tokens.css",
@@ -87,7 +92,7 @@ TEXT_SUFFIXES = {
     ".css", ".html", ".js", ".json", ".md", ".py", ".txt", ".yml", ".yaml",
 }
 TEXT_NAMES = {".editorconfig", ".gitattributes", ".gitignore", ".gitkeep", ".nojekyll"}
-SKIP_DIRS = {".git", "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache", "node_modules"}
+SKIP_DIRS = {".git", "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache", "node_modules", "tmp"}
 
 errors: list[str] = []
 
@@ -533,7 +538,7 @@ def check_lore_corpus() -> None:
 def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
     quests = {item_id: item for item_id, item in stories.items() if item.get("story_group") in QUEST_STORY_GROUPS}
     quest_ids = set(quests)
-    expected_counts = {"archon_quests": 47, "legend_quests": 81, "world_quests": 1089, "event_chronicles": 172}
+    expected_counts = {"archon_quests": 47, "legend_quests": 81, "world_quests": 628, "event_chronicles": 633}
     actual_counts = Counter(str(item.get("story_group") or "") for item in quests.values())
     if dict(actual_counts) != expected_counts:
         fail(f"quest corpus: wrong group counts: {dict(actual_counts)}")
@@ -561,8 +566,31 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
                 title = part.get("title") if isinstance(part, dict) and isinstance(part.get("title"), dict) else {}
                 text = part.get("text") if isinstance(part, dict) and isinstance(part.get("text"), dict) else {}
                 for lang in LANGS:
-                    if not str(title.get(lang) or "").strip() or not str(text.get(lang) or "").strip():
+                    localized_title = str(title.get(lang) or "").strip()
+                    localized_text = str(text.get(lang) or "").strip()
+                    if not localized_title or not localized_text:
                         fail(f"{owner}#part-{number}: missing {lang} title or text")
+                    if TECHNICAL_TEXT_PATTERN.search(localized_title) or TECHNICAL_TEXT_PATTERN.search(localized_text):
+                        fail(f"{owner}#part-{number}: technical placeholder remains in {lang}")
+
+                dialogue_counts = {
+                    lang: len(re.findall(r"^\*\*[^\n]+:\*\*|^- \*\*", str(text.get(lang) or ""), flags=re.M))
+                    for lang in LANGS
+                }
+                largest_count = max(dialogue_counts.values(), default=0)
+                smallest_count = min(dialogue_counts.values(), default=0)
+                if largest_count >= 10 and smallest_count < largest_count * 0.6:
+                    fail(f"{owner}#part-{number}: probable truncated localization {dialogue_counts}")
+
+        quest_collections = quest.get("quest_collections", [])
+        if not isinstance(quest_collections, list):
+            fail(f"{owner}: quest_collections must be a list")
+        else:
+            unknown_collections = sorted(str(value) for value in quest_collections if str(value) not in KNOWN_QUEST_COLLECTIONS)
+            if unknown_collections:
+                fail(f"{owner}: unknown quest collections {', '.join(unknown_collections)}")
+            if "witch_homework" in quest_collections and quest.get("story_group") != "world_quests":
+                fail(f"{owner}: Witch's Homework must remain a world-quest collection")
 
         for field in ("previous_quests", "next_quests", "related_quests", "quest_chain"):
             values = quest.get(field)
@@ -1196,6 +1224,10 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: полный поиск по историям должен грузиться лениво, а не вместе с каталогом")
         if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
+        if "STORY_QUEST_TYPE_FILTERS" not in text or "isQuestStoriesCatalog" not in text or "storyQuestMatchesTypeFilters" not in text:
+            fail("assets/js/archive.js: все задания должны открываться единым каталогом с фильтрами по типу")
+        if 'collection:witch_homework' not in text or 'label: "Уроки ведьм"' not in text:
+            fail("assets/js/archive.js: Уроки ведьм должны быть отдельной подборкой заданий мира")
         if 'event_chronicles' not in text or 'id: "bestiary"' not in text or 'BESTIARY_GROUPS' not in text:
             fail("assets/js/archive.js: хроники событий и сгруппированный Бестиарий должны быть подключены в клиенте")
         if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'CHARACTER_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:

@@ -1055,6 +1055,13 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
             entry["related_quests"] = comma_list_from_meta(meta, "related_quests")
             entry["quest_chain"] = comma_list_from_meta(meta, "quest_chain")
             entry["quest_series"] = [value.strip() for value in meta.get("quest_series", "").split("||") if value.strip()]
+            entry["quest_collections"] = comma_list_from_meta(meta, "quest_collections")
+            normalized_series = {
+                re.sub(r"[^a-z0-9]+", " ", value.casefold()).strip()
+                for value in entry["quest_series"]
+            }
+            if "witch s homework" in normalized_series and "witch_homework" not in entry["quest_collections"]:
+                entry["quest_collections"].append("witch_homework")
             # Quest prose already lives in structured parts.  Keeping the same
             # text two more times under text/description triples the generated
             # corpus without adding anything to the reader or search index.
@@ -1337,6 +1344,7 @@ def story_catalog_search_values(item: dict[str, Any], story_group: str) -> tuple
         item.get("tags", []),
         item.get("chapter_num", {}),
         item.get("quest_series", []),
+        item.get("quest_collections", []),
     )
 
 
@@ -1361,6 +1369,7 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "part_count": item.get("part_count", 0),
         "chapter_num": item.get("chapter_num", {}),
         "quest_series": item.get("quest_series", []),
+        "quest_collections": item.get("quest_collections", []),
         **index_runtime_fields(item, story_group),
         "search_text": make_search_text(*story_catalog_search_values(item, story_group), character_filters),
     }

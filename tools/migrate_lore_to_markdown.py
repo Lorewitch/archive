@@ -30,6 +30,14 @@ def meta_list(values: Any, separator: str = ",") -> str:
     return separator.join(meta_text(value) for value in (values or []) if meta_text(value))
 
 
+def meta_line(name: str, value: Any) -> str:
+    return f"# {name}: {meta_text(value)}".rstrip()
+
+
+def meta_list_line(name: str, values: Any, separator: str = ",") -> str:
+    return f"# {name}: {meta_list(values, separator)}".rstrip()
+
+
 def clean_part_title(value: Any, fallback: str) -> str:
     title = meta_text(value)
     title = re.sub(r"^#+\s*", "", title)
@@ -41,25 +49,25 @@ def render_markdown(entry: dict[str, Any], metadata: dict[str, Any]) -> str:
     chapter = entry.get("chapter_num") or {}
     parts = entry.get("parts") or []
     lines = [
-        f"# id: {meta_text(entry.get('id'))}",
-        f"# story_group: {meta_text(entry.get('story_group'))}",
-        f"# title_ru: {meta_text(title.get('ru'))}",
-        f"# title_en: {meta_text(title.get('en'))}",
-        f"# title_zh: {meta_text(title.get('zh'))}",
-        f"# region: {meta_text(entry.get('region'))}",
-        f"# game_version: {meta_text(metadata.get('game_version'))}",
-        f"# release_versions: {meta_list(metadata.get('release_versions'))}",
-        f"# source_id: {meta_text(entry.get('source_id'))}",
-        f"# chapter_num_ru: {meta_text(chapter.get('ru'))}",
-        f"# chapter_num_en: {meta_text(chapter.get('en'))}",
-        f"# chapter_num_zh: {meta_text(chapter.get('zh'))}",
-        f"# part_source_ids: {meta_list(part.get('source_id') for part in parts)}",
-        f"# previous_quests: {meta_list(metadata.get('previous_quests'))}",
-        f"# next_quests: {meta_list(metadata.get('next_quests'))}",
-        f"# related_quests: {meta_list(metadata.get('related_quests'))}",
-        f"# quest_chain: {meta_list(metadata.get('quest_chain'))}",
-        f"# quest_series: {meta_list(metadata.get('quest_series'), ' || ')}",
-        f"# version_source: {meta_text(metadata.get('version_source'))}",
+        meta_line("id", entry.get("id")),
+        meta_line("story_group", metadata.get("story_group") or entry.get("story_group")),
+        meta_line("title_ru", title.get("ru")),
+        meta_line("title_en", title.get("en")),
+        meta_line("title_zh", title.get("zh")),
+        meta_line("region", entry.get("region")),
+        meta_line("game_version", metadata.get("game_version")),
+        meta_list_line("release_versions", metadata.get("release_versions")),
+        meta_line("source_id", entry.get("source_id")),
+        meta_line("chapter_num_ru", chapter.get("ru")),
+        meta_line("chapter_num_en", chapter.get("en")),
+        meta_line("chapter_num_zh", chapter.get("zh")),
+        meta_list_line("part_source_ids", (part.get("source_id") for part in parts)),
+        meta_list_line("previous_quests", metadata.get("previous_quests")),
+        meta_list_line("next_quests", metadata.get("next_quests")),
+        meta_list_line("related_quests", metadata.get("related_quests")),
+        meta_list_line("quest_chain", metadata.get("quest_chain")),
+        meta_list_line("quest_series", metadata.get("quest_series"), " || "),
+        meta_line("version_source", metadata.get("version_source")),
         "",
     ]
 
@@ -94,16 +102,22 @@ def main() -> int:
     for source_path in sorted(args.source.glob("quest_*.json")):
         entry = read_json(source_path)
         entry_id = str(entry.get("id") or "")
-        group = str(entry.get("story_group") or "")
-        if not entry_id or group not in QUEST_GROUPS:
+        source_group = str(entry.get("story_group") or "")
+        if not entry_id or source_group not in QUEST_GROUPS:
             raise RuntimeError(f"Unexpected quest entry: {source_path}")
         metadata = metadata_by_id.get(entry_id)
         if not metadata or not metadata.get("game_version"):
             raise RuntimeError(f"Missing verified metadata: {entry_id}")
+        group = str(metadata.get("story_group") or source_group)
+        if group not in QUEST_GROUPS:
+            raise RuntimeError(f"Unexpected classified quest group for {entry_id}: {group}")
 
         output_path = args.output / group / f"{entry_id}.md"
         output_path.parent.mkdir(parents=True, exist_ok=True)
         output_path.write_text(render_markdown(entry, metadata), encoding="utf-8", newline="\n")
+        old_output_path = args.output / source_group / f"{entry_id}.md"
+        if old_output_path != output_path and old_output_path.is_file():
+            old_output_path.unlink()
         written += 1
         group_counts[group] = group_counts.get(group, 0) + 1
 

@@ -290,6 +290,10 @@ def record_from_page(page: dict[str, Any]) -> dict[str, Any] | None:
     ids = sorted({int(value) for value in re.findall(r"(?<!\d)\d{3,6}(?!\d)", fields.get("id", ""))})
     chapter = clean_wiki_value(fields.get("chapter", ""))
     event_name = clean_wiki_value(fields.get("event_name", "") or fields.get("event", ""))
+    category_keys = {category.casefold() for category in categories}
+    event_category = "category:event quests" in category_keys
+    valid_event_name = bool(re.search(r"[A-Za-z0-9\u4e00-\u9fff]", event_name))
+    is_event_quest = valid_event_name or event_category
     category_series = []
     for category in categories:
         match = re.match(r"Category:(.+?) Chapter Quests$", category, flags=re.I)
@@ -303,6 +307,8 @@ def record_from_page(page: dict[str, Any]) -> dict[str, Any] | None:
         "next_titles": relation_titles(fields.get("next", "")),
         "chapter": chapter,
         "event": event_name,
+        "event_category": event_category,
+        "is_event_quest": is_event_quest,
         "series": list(dict.fromkeys(filter(None, [event_name, chapter, *category_series]))),
     }
 
@@ -493,13 +499,12 @@ def build_metadata(
 
     ids = sorted(entry_by_id)
     connected = DisjointSet(ids)
+    # A quest chain is defined only by explicit Previous Quest / Next Quest
+    # links on the wiki.  Series and category labels are descriptive metadata
+    # and must never pull additional quests into the chain.
     for entry_id in ids:
         for target in previous[entry_id] | following[entry_id]:
             connected.union(entry_id, target)
-    for members in series_members.values():
-        ordered_members = sorted(members)
-        for target in ordered_members[1:]:
-            connected.union(ordered_members[0], target)
 
     components: dict[str, list[str]] = defaultdict(list)
     for entry_id in ids:
@@ -537,6 +542,17 @@ def build_metadata(
         ordered_components[root] = ordered
 
     output: dict[str, Any] = {}
+
+    def is_direct_event_record(record: dict[str, Any]) -> bool:
+        event_name = str(record.get("event") or "").strip()
+        valid_event_name = bool(re.search(r"[A-Za-z0-9\u4e00-\u9fff]", event_name))
+        if "event_category" in record:
+            return valid_event_name or bool(record.get("event_category"))
+        # Backward compatibility for cached records created before the
+        # category flag was stored separately.  A true flag with an empty
+        # event field can only have come from Category:Event Quests.
+        return valid_event_name or (bool(record.get("is_event_quest")) and not event_name)
+
     for entry_id in ids:
         root = connected.find(entry_id)
         chain = ordered_components[root]
@@ -557,6 +573,11 @@ def build_metadata(
             "related_quests": [value for value in chain if value != entry_id],
             "quest_chain": chain,
             "quest_series": labels,
+            "story_group": (
+                "event_chronicles"
+                if any(is_direct_event_record(record) for record in matched_records.get(entry_id, []))
+                else str(entry_by_id[entry_id].get("story_group") or "")
+            ),
             "metadata_match": match_kind.get(entry_id, "unmatched"),
             "version_source": "wiki_release_category" if versions else ("verified_override" if entry_id in VERIFIED_VERSION_OVERRIDES else ""),
             "matched_pages": sorted((record["title"] for record in matched_records.get(entry_id, [])), key=str.casefold),

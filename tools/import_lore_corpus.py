@@ -127,6 +127,22 @@ TYPE_LABELS = {
 FALLBACK_PART = {"ru": "Без названия", "en": "Untitled", "zh": "未命名"}
 SCENE_LABEL = {"ru": "Сцена", "en": "Scene", "zh": "场景"}
 TRAVELER_LABEL = {"ru": "Путешественник", "en": "Traveler", "zh": "旅行者"}
+DYNAMIC_NAME_LABELS = {
+    "ru": {"1": "Странник", "2": "Малыш"},
+    "en": {"1": "Wanderer", "2": "Little One"},
+    "zh": {"1": "流浪者", "2": "小家伙"},
+}
+TRAVELER_NAMES = {
+    "ru": {"PLAYERAVATAR": "Итэр/Люмин", "MATEAVATAR": "Люмин/Итэр"},
+    "en": {"PLAYERAVATAR": "Aether/Lumine", "MATEAVATAR": "Lumine/Aether"},
+    "zh": {"PLAYERAVATAR": "空/荧", "MATEAVATAR": "荧/空"},
+}
+DYNAMIC_VALUE_LABELS = {
+    "ru": {"TMPVALUE": "выбранное имя", "ABYSSWAR": "число павших"},
+    "en": {"TMPVALUE": "chosen name", "ABYSSWAR": "number of fallen warriors"},
+    "zh": {"TMPVALUE": "选定的名字", "ABYSSWAR": "阵亡勇士人数"},
+}
+PUZZLE_SYMBOLS = {"E000": "◆", "E001": "●", "E002": "▲"}
 
 
 def write_json(path: Path, value: Any, *, compact: bool = False) -> None:
@@ -217,6 +233,39 @@ def clean_game_text(value: Any, lang: str = "") -> str:
     text = re.sub(r"\{LINK#[^}]+\}|\{/LINK\}", "", text, flags=re.I)
     text = re.sub(r"\{SPRITE#[^}]+\}", "", text, flags=re.I)
     text = text.replace("$UNRELEASED", "").replace("$HIDDEN", "")
+    text = re.sub(r"\{RUBY#\[[^]]*\]([^{}]*)\}", r"\1", text, flags=re.I)
+    text = re.sub(r"\{B#([^{}]*)\}", r"\1", text, flags=re.I)
+    text = text.replace("{NON_BREAK_SPACE}", "\u00a0")
+    text = re.sub(
+        r"\{REALNAME\[ID\((\d+)\)[^}]*\]\}",
+        lambda match: DYNAMIC_NAME_LABELS.get(lang, DYNAMIC_NAME_LABELS["en"]).get(match.group(1), TRAVELER_LABEL.get(lang, "Traveler")),
+        text,
+        flags=re.I,
+    )
+    text = re.sub(
+        r"\{(PLAYERAVATAR|MATEAVATAR)#SEXPRO\[[^}]+\]\}",
+        lambda match: TRAVELER_NAMES.get(lang, TRAVELER_NAMES["en"])[match.group(1).upper()],
+        text,
+        flags=re.I,
+    )
+    text = re.sub(
+        r"\{REGEX#UNICODE\[(E\d+)\]\}",
+        lambda match: PUZZLE_SYMBOLS.get(match.group(1).upper(), "◇"),
+        text,
+        flags=re.I,
+    )
+    text = re.sub(
+        r"\{TMPVALUE\([^}]+\)\}",
+        lambda _match: f"[{DYNAMIC_VALUE_LABELS.get(lang, DYNAMIC_VALUE_LABELS['en'])['TMPVALUE']}]",
+        text,
+        flags=re.I,
+    )
+    text = re.sub(
+        r"\{ABYSSWAR#[^}]+\}",
+        lambda _match: f"[{DYNAMIC_VALUE_LABELS.get(lang, DYNAMIC_VALUE_LABELS['en'])['ABYSSWAR']}]",
+        text,
+        flags=re.I,
+    )
     text = re.sub(
         r"#?\{M#([^{}]*)\}\{F#([^{}]*)\}",
         lambda match: f"{match.group(1)} / {match.group(2)}",
@@ -299,7 +348,7 @@ def render_main_quest(main_quest: dict[str, Any], lang: str) -> str:
     for step in ordered_records(main_quest.get("story")):
         raw_title = str(step.get("title") or "")
         normalized_raw_title = raw_title.casefold()
-        if any(marker in normalized_raw_title for marker in ("(test)", "（test）", "$hidden", "скрыт", "隐藏")):
+        if any(marker in normalized_raw_title for marker in ("(test)", "（test）", "$hidden", "$unreleased")):
             continue
         title = clean_game_text(step.get("title"), lang)
         task_blocks: list[str] = []
@@ -330,7 +379,7 @@ def localized_info(details: dict[str, dict[str, Any]], field: str) -> dict[str, 
     result: dict[str, str] = {}
     for lang in LANGS:
         info = details[lang].get("info") if isinstance(details[lang].get("info"), dict) else {}
-        result[lang] = clean_game_text(info.get(field))
+        result[lang] = clean_game_text(info.get(field), lang)
     return result
 
 
@@ -338,7 +387,7 @@ def localized_main_info(rows: dict[str, dict[str, Any]], field: str) -> dict[str
     result: dict[str, str] = {}
     for lang in LANGS:
         info = rows[lang].get("info") if isinstance(rows[lang].get("info"), dict) else {}
-        result[lang] = clean_game_text(info.get(field))
+        result[lang] = clean_game_text(info.get(field), lang)
     return result
 
 
@@ -518,7 +567,7 @@ def build_entry(
             if not part_title[lang]:
                 part_title[lang] = f"{FALLBACK_PART[lang]} {main_id}"
             info = rows[lang].get("info") if isinstance(rows[lang].get("info"), dict) else {}
-            description = clean_game_text(info.get("description"))
+            description = clean_game_text(info.get("description"), lang)
             if description:
                 descriptions[lang].append(description)
         text = {lang: render_main_quest(rows[lang], lang) for lang in LANGS}
