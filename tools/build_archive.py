@@ -108,7 +108,7 @@ COMMON_ENEMY_TYPE_ALIASES = {
 
 WEAPON_TYPES = {"sword", "claymore", "bow", "catalyst", "polearm"}
 BOOK_SUBTYPES = {"book_series", "notes"}
-STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
+STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
 STORY_GROUP_ALIASES = {
     "archon": "archon_quests",
     "archon_quest": "archon_quests",
@@ -118,6 +118,10 @@ STORY_GROUP_ALIASES = {
     "legend_quests": "legend_quests",
     "world_quest": "world_quests",
     "world_quests": "world_quests",
+    "event": "event_chronicles",
+    "events": "event_chronicles",
+    "event_chronicle": "event_chronicles",
+    "event_chronicles": "event_chronicles",
     "character": "character_stories",
     "characters": "character_stories",
     "character_story": "character_stories",
@@ -131,6 +135,9 @@ STORY_FOLDER_GROUPS = {
     "legend": "legend_quests",
     "legend_quests": "legend_quests",
     "world_quests": "world_quests",
+    "event": "event_chronicles",
+    "events": "event_chronicles",
+    "event_chronicles": "event_chronicles",
     "character": "character_stories",
     "character_stories": "character_stories",
     "world": "world_stories",
@@ -174,9 +181,13 @@ def read_text(path: Path) -> str:
     return path.read_text(encoding="utf-8-sig")
 
 
-def write_json(path: Path, data: Any) -> None:
+def write_json(path: Path, data: Any, *, compact: bool = False) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8", newline="\n")
+    path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=None if compact else 2, separators=(",", ":") if compact else None),
+        encoding="utf-8",
+        newline="\n",
+    )
 
 
 def clean_json_dir(path: Path) -> None:
@@ -952,7 +963,7 @@ def build_enemy(path: Path) -> dict[str, Any]:
 
 
 
-def build_story_parts(text_by_lang: dict[str, str]) -> list[dict[str, Any]]:
+def build_story_parts(text_by_lang: dict[str, str], source_ids: list[str] | None = None) -> list[dict[str, Any]]:
     blocks_by_lang = {lang: split_subsections(text_by_lang.get(lang, "")) for lang in LANGS}
     count = max((len(blocks) for blocks in blocks_by_lang.values()), default=0)
     parts: list[dict[str, Any]] = []
@@ -966,7 +977,13 @@ def build_story_parts(text_by_lang: dict[str, str]) -> list[dict[str, Any]]:
                 block = blocks[index]
                 title[lang] = block.get("title", "").strip()
                 text[lang] = block.get("text", "").strip()
-        parts.append({"number": index + 1, "title": title, "text": text})
+        part = {"number": index + 1, "title": title, "text": text}
+        if source_ids and index < len(source_ids):
+            try:
+                part["source_id"] = int(source_ids[index])
+            except ValueError:
+                part["source_id"] = source_ids[index]
+        parts.append(part)
 
     return parts
 
@@ -1021,10 +1038,28 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
         entry["elements"] = story_elements
         entry["element"] = story_elements[0] if len(story_elements) == 1 else ""
         entry["character_filters"] = normalized_character_filters(meta) if entry["story_group"] == "character_stories" else []
-        story_parts = build_story_parts(full_text_by_lang)
+        story_parts = build_story_parts(full_text_by_lang, comma_list_from_meta(meta, "part_source_ids"))
         if story_parts:
             entry["parts"] = story_parts
             entry["part_count"] = len(story_parts)
+        if entry["story_group"] in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}:
+            entry["source_id"] = int_from_meta(meta, "source_id", None)
+            entry["chapter_num"] = {
+                "ru": meta.get("chapter_num_ru", "").strip(),
+                "en": meta.get("chapter_num_en", "").strip(),
+                "zh": meta.get("chapter_num_zh", "").strip(),
+            }
+            entry["release_versions"] = comma_list_from_meta(meta, "release_versions")
+            entry["previous_quests"] = comma_list_from_meta(meta, "previous_quests")
+            entry["next_quests"] = comma_list_from_meta(meta, "next_quests")
+            entry["related_quests"] = comma_list_from_meta(meta, "related_quests")
+            entry["quest_chain"] = comma_list_from_meta(meta, "quest_chain")
+            entry["quest_series"] = [value.strip() for value in meta.get("quest_series", "").split("||") if value.strip()]
+            # Quest prose already lives in structured parts.  Keeping the same
+            # text two more times under text/description triples the generated
+            # corpus without adding anything to the reader or search index.
+            entry.pop("text", None)
+            entry.pop("description", None)
     if category == "items":
         entry["item_group"] = normalized_item_group(meta)
         entry["entry_type"] = entry_type
@@ -1300,6 +1335,8 @@ def story_catalog_search_values(item: dict[str, Any], story_group: str) -> tuple
         item.get("element", ""),
         item.get("elements", []),
         item.get("tags", []),
+        item.get("chapter_num", {}),
+        item.get("quest_series", []),
     )
 
 
@@ -1321,6 +1358,9 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "rarity": item.get("rarity"),
         "tags": item.get("tags", []),
         "languages": item.get("languages", LANGS),
+        "part_count": item.get("part_count", 0),
+        "chapter_num": item.get("chapter_num", {}),
+        "quest_series": item.get("quest_series", []),
         **index_runtime_fields(item, story_group),
         "search_text": make_search_text(*story_catalog_search_values(item, story_group), character_filters),
     }
@@ -1328,11 +1368,15 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
 
 def story_search_entry(item: dict[str, Any]) -> dict[str, Any]:
     story_group = item.get("story_group", "world_stories")
+    quest_group = story_group in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
     return {
         "id": item["id"],
         "search_text": make_search_text(
             *story_catalog_search_values(item, story_group),
-            item.get("description", {}),
+            ([part.get("title", {}) for part in item.get("parts", [])] if quest_group else item.get("description", {})),
+            item.get("previous_quests", []),
+            item.get("next_quests", []),
+            item.get("related_quests", []),
         ),
     }
 
@@ -1350,10 +1394,11 @@ def build_collection(
     for md_file in markdown_files(source_dir):
         entry = builder(md_file)
         entries.append(entry)
-        write_json(detail_dir / f"{entry['id']}.json", entry)
+        compact = name == "stories" and entry.get("story_group") in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
+        write_json(detail_dir / f"{entry['id']}.json", entry, compact=compact)
 
     index = [indexer(entry) for entry in entries]
-    write_json(DATA_DIR / f"{name}_index.json", index)
+    write_json(DATA_DIR / f"{name}_index.json", index, compact=(name == "stories"))
     return entries
 
 
@@ -1449,7 +1494,7 @@ def build() -> None:
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
     stories = build_collection("stories", lambda path: build_generic(path, "stories"), index_story)
-    write_json(DATA_DIR / "stories_search.json", [story_search_entry(entry) for entry in stories])
+    write_json(DATA_DIR / "stories_search.json", [story_search_entry(entry) for entry in stories], compact=True)
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
     enemies = [build_enemy(md_file) for md_file in markdown_files(enemy_source_dir)]
 

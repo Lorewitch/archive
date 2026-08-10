@@ -43,7 +43,8 @@ KNOWN_ENEMY_GROUPS = {
     "abyss", "mystical_beasts",
 }
 KNOWN_ENEMY_TYPES = {"common_enemy", "world_boss", "weekly_boss", "boss"}
-KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "character_stories", "world_stories"}
+KNOWN_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles", "character_stories", "world_stories"}
+QUEST_STORY_GROUPS = {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
 KNOWN_STORY_ELEMENTS = {"pyro", "hydro", "anemo", "electro", "dendro", "cryo", "geo"}
 KNOWN_CHARACTER_FILTERS = {"lunar_omen", "witchcraft", "star_blade"}
 
@@ -447,8 +448,152 @@ def check_stories(stories: dict[str, dict[str, Any]]) -> None:
             rarity = story.get("rarity")
             if str(rarity) not in {"4", "5"}:
                 fail(f"{owner}: история персонажа должна иметь rarity 4 или 5, получено {rarity or 'пусто'}")
+        if story_group in QUEST_STORY_GROUPS:
+            continue
         if not localized_text_present(story):
             fail(f"{owner}: история без текста")
+
+
+def check_lore_corpus() -> None:
+    root = DATA_DIR / "lore_corpus"
+    index_path = root / "index.json"
+    search_path = root / "search.json"
+    manifest_path = root / "manifest.json"
+    for path in (index_path, search_path, manifest_path):
+        if not path.exists():
+            fail(f"{rel(path)}: файл корпуса заданий отсутствует")
+            return
+
+    index = read_json(index_path)
+    search = read_json(search_path)
+    manifest = read_json(manifest_path)
+    if not isinstance(index, list) or not isinstance(search, list) or not isinstance(manifest, dict):
+        fail("data/lore_corpus: index/search должны быть списками, manifest — объектом")
+        return
+
+    ids = [str(item.get("id") or "") for item in index if isinstance(item, dict)]
+    if len(ids) != len(index) or any(not item_id for item_id in ids):
+        fail("data/lore_corpus/index.json: каждая запись должна быть объектом с id")
+    duplicates = sorted(item_id for item_id, count in Counter(ids).items() if item_id and count > 1)
+    if duplicates:
+        fail(f"data/lore_corpus/index.json: дублирующиеся id {', '.join(duplicates[:10])}")
+
+    search_ids = {
+        str(item.get("id") or "")
+        for item in search
+        if isinstance(item, dict) and str(item.get("id") or "")
+    }
+    if search_ids != set(ids):
+        fail("data/lore_corpus/search.json: набор id не совпадает с индексом")
+
+    actual_counts: Counter[str] = Counter()
+    for item in index:
+        if not isinstance(item, dict):
+            continue
+        item_id = str(item.get("id") or "")
+        owner = f"data/lore_corpus/index.json#{item_id}"
+        group = str(item.get("story_group") or "")
+        if group not in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}:
+            fail(f"{owner}: неизвестная группа заданий {group or '—'}")
+        actual_counts[group] += 1
+        check_languages(item, owner)
+        check_regions(item, owner)
+        title = item.get("title") if isinstance(item.get("title"), dict) else {}
+        for lang in LANGS:
+            if not str(title.get(lang) or "").strip():
+                fail(f"{owner}: пустое название {lang}")
+
+        expected_detail = f"data/lore_corpus/{item_id}.json"
+        if item.get("detail_path") != expected_detail:
+            fail(f"{owner}: неверный detail_path")
+        detail_path_value = root / f"{item_id}.json"
+        detail = read_json(detail_path_value)
+        if not isinstance(detail, dict):
+            fail(f"{rel(detail_path_value)}: detail-файл отсутствует или повреждён")
+            continue
+        if detail.get("id") != item_id:
+            fail(f"{rel(detail_path_value)}: id не совпадает с индексом")
+        parts = detail.get("parts")
+        if not isinstance(parts, list) or not parts:
+            fail(f"{rel(detail_path_value)}: нет частей с текстом")
+            continue
+        for part_number, part in enumerate(parts, start=1):
+            text = part.get("text") if isinstance(part, dict) and isinstance(part.get("text"), dict) else {}
+            for lang in LANGS:
+                if not str(text.get(lang) or "").strip():
+                    fail(f"{rel(detail_path_value)}#part-{part_number}: пустой текст {lang}")
+
+    if manifest.get("entry_count") != len(index):
+        fail("data/lore_corpus/manifest.json: entry_count не совпадает с индексом")
+    declared_counts = manifest.get("counts") if isinstance(manifest.get("counts"), dict) else {}
+    if dict(actual_counts) != declared_counts:
+        fail("data/lore_corpus/manifest.json: counts не совпадает с индексом")
+
+
+def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
+    quests = {item_id: item for item_id, item in stories.items() if item.get("story_group") in QUEST_STORY_GROUPS}
+    quest_ids = set(quests)
+    expected_counts = {"archon_quests": 47, "legend_quests": 81, "world_quests": 1089, "event_chronicles": 172}
+    actual_counts = Counter(str(item.get("story_group") or "") for item in quests.values())
+    if dict(actual_counts) != expected_counts:
+        fail(f"quest corpus: wrong group counts: {dict(actual_counts)}")
+    if (DATA_DIR / "lore_corpus").exists():
+        fail("data/lore_corpus: obsolete parallel JSON corpus must not exist")
+
+    for group, expected in expected_counts.items():
+        markdown_count = len(list((ROOT / "content" / "stories" / "quests" / group).glob("*.md")))
+        if markdown_count != expected:
+            fail(f"content/stories/quests/{group}: {markdown_count} Markdown files, expected {expected}")
+
+    for item_id, quest in quests.items():
+        owner = f"data/stories/{item_id}.json"
+        version = str(quest.get("game_version") or "").strip()
+        if not re.fullmatch(r"\d+\.\d+(?:\.\d+)?", version):
+            fail(f"{owner}: missing verified release version")
+        if version not in [str(value) for value in quest.get("release_versions", [])]:
+            fail(f"{owner}: game_version is not present in release_versions")
+
+        parts = quest.get("parts")
+        if not isinstance(parts, list) or not parts:
+            fail(f"{owner}: quest has no parts")
+        else:
+            for number, part in enumerate(parts, start=1):
+                title = part.get("title") if isinstance(part, dict) and isinstance(part.get("title"), dict) else {}
+                text = part.get("text") if isinstance(part, dict) and isinstance(part.get("text"), dict) else {}
+                for lang in LANGS:
+                    if not str(title.get(lang) or "").strip() or not str(text.get(lang) or "").strip():
+                        fail(f"{owner}#part-{number}: missing {lang} title or text")
+
+        for field in ("previous_quests", "next_quests", "related_quests", "quest_chain"):
+            values = quest.get(field)
+            if not isinstance(values, list):
+                fail(f"{owner}: {field} must be a list")
+                continue
+            if len(values) != len(set(map(str, values))):
+                fail(f"{owner}: duplicate IDs in {field}")
+            missing = sorted(str(value) for value in values if str(value) not in quest_ids)
+            if missing:
+                fail(f"{owner}: broken {field} links: {', '.join(missing[:10])}")
+
+        chain = [str(value) for value in quest.get("quest_chain", [])]
+        related = [str(value) for value in quest.get("related_quests", [])]
+        if item_id not in chain:
+            fail(f"{owner}: quest_chain does not contain itself")
+        if related != [value for value in chain if value != item_id]:
+            fail(f"{owner}: related_quests differs from quest_chain without itself")
+
+    for item_id, quest in quests.items():
+        owner = f"data/stories/{item_id}.json"
+        chain = [str(value) for value in quest.get("quest_chain", [])]
+        for target in chain:
+            if target in quests and [str(value) for value in quests[target].get("quest_chain", [])] != chain:
+                fail(f"{owner}: chain differs from linked quest {target}")
+        for target in quest.get("previous_quests", []):
+            if target in quests and item_id not in quests[target].get("next_quests", []):
+                fail(f"{owner}: {target} has no inverse next link")
+        for target in quest.get("next_quests", []):
+            if target in quests and item_id not in quests[target].get("previous_quests", []):
+                fail(f"{owner}: {target} has no inverse previous link")
 
 
 def check_enemies(enemies: dict[str, dict[str, Any]]) -> None:
@@ -525,7 +670,7 @@ def check_generated_js() -> None:
         if actual != expected:
             fail("assets/js/archive.js: файл не совпадает со сборкой из src/js/**")
 
-    source_modules = sorted(str(path.relative_to(SRC_JS_DIR)) for path in SRC_JS_DIR.rglob("*.js")) if SRC_JS_DIR.exists() else []
+    source_modules = sorted(path.relative_to(SRC_JS_DIR).as_posix() for path in SRC_JS_DIR.rglob("*.js")) if SRC_JS_DIR.exists() else []
     if source_modules != sorted(JS_MODULES):
         fail("src/js: набор JS-модулей отличается от ожидаемого списка сборки")
 
@@ -853,14 +998,22 @@ def check_content_structure() -> None:
     if not content_root.exists():
         return
 
+    stories_content_root = content_root / "stories"
+    expected_story_folders = {"character_stories", "quests"}
+    actual_story_folders = {path.name for path in stories_content_root.iterdir() if path.is_dir()} if stories_content_root.exists() else set()
+    if actual_story_folders != expected_story_folders:
+        fail(f"content/stories: top-level folders must be {sorted(expected_story_folders)}, got {sorted(actual_story_folders)}")
+    if list(stories_content_root.glob("*.md")):
+        fail("content/stories: Markdown files must live under character_stories/ or quests/")
+
     for path in sorted(content_root.rglob("*.md")):
         text = path.read_text(encoding="utf-8")
         if re.search(r"^##\s+(NOTES|INTERNAL)\s*$", text, re.MULTILINE):
             fail(f"{rel(path)}: служебные блоки NOTES/INTERNAL должны быть удалены из md")
 
-    character_story_content_dir = content_root / "stories" / "character"
+    character_story_content_dir = content_root / "stories" / "character_stories"
     if not character_story_content_dir.exists():
-        fail("content/stories/character: для историй персонажей должна быть отдельная папка контента")
+        fail("content/stories/character_stories: для историй персонажей должна быть отдельная папка контента")
     else:
         for path in sorted(character_story_content_dir.glob("*.md")):
             text = path.read_text(encoding="utf-8")
@@ -1043,6 +1196,8 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: полный поиск по историям должен грузиться лениво, а не вместе с каталогом")
         if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
+        if 'event_chronicles' not in text or 'id: "bestiary"' not in text or 'BESTIARY_GROUPS' not in text:
+            fail("assets/js/archive.js: хроники событий и сгруппированный Бестиарий должны быть подключены в клиенте")
         if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'CHARACTER_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
             fail("assets/js/archive.js: истории персонажей должны иметь фильтры и колонки элемента/редкости")
         if '${UI_ICON_BASE}/pyro.webp' not in text or 'element:${value}' not in text or 'trait:${value}' not in text or 'rarity:5' not in text or 'rarity:4' not in text or 'Лунное знамение' not in text:
@@ -1065,6 +1220,7 @@ def main() -> int:
         indexes = load_indexes()
         details = check_index_and_details(indexes)
         check_story_search_index(indexes)
+        check_quest_corpus(details.get("stories", {}))
         check_books(details.get("books", {}))
         check_artifacts(details.get("artifacts", {}))
         check_weapons(details.get("weapons", {}))

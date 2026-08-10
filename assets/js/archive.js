@@ -15,6 +15,7 @@
   let WEAPONS = [];
   let ITEMS = [];
   let STORIES = [];
+  let ENEMIES = [];
   const DETAILS = new Map();
   const LOADED_SECTIONS = new Set();
   const SECTION_LOADS = new Map();
@@ -96,7 +97,8 @@
     if (storySearchLoad) return storySearchLoad;
 
     storySearchLoad = fetchOptionalJson("data/stories_search.json")
-      .then(rows => {
+      .then(source => {
+        const rows = normalizeList(source, "stories");
         rows.forEach(row => {
           const id = String(row?.id || "").trim();
           if (!id) return;
@@ -133,15 +135,20 @@
     if (sectionId === "weapons") WEAPONS = list;
     if (sectionId === "items") ITEMS = list;
     if (sectionId === "stories") STORIES = list;
+    if (sectionId === "bestiary") ENEMIES = list.map(item => ({
+      ...item,
+      detail_path: item.detail_path || `data/enemies/${encodeURIComponent(item.id)}.json`
+    }));
   }
 
   async function loadSectionData(sectionId) {
     if (LOADED_SECTIONS.has(sectionId)) return;
     if (SECTION_LOADS.has(sectionId)) return SECTION_LOADS.get(sectionId);
 
-    const path = `data/${sectionId}_index.json`;
+    const path = sectionId === "bestiary" ? "data/enemies_index.json" : `data/${sectionId}_index.json`;
     const loader = sectionId === "books" ? fetchJson : fetchOptionalJson;
-    const promise = loader(path)
+    const indexLoad = loader(path);
+    const promise = indexLoad
       .then(data => {
         assignSectionData(sectionId, data);
         LOADED_SECTIONS.add(sectionId);
@@ -170,7 +177,8 @@
     if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
     const collection = getSectionConfig(sectionId).data();
     const fromIndex = collection.find(item => item.id === id) || null;
-    const detail = await fetchOptionalJson(`data/${sectionId}/${encodeURIComponent(id)}.json`);
+    const detailPath = fromIndex?.detail_path || `data/${sectionId}/${encodeURIComponent(id)}.json`;
+    const detail = await fetchOptionalJson(detailPath);
     const result = detail?.id ? detail : fromIndex;
     DETAILS.set(cacheKey, result);
     return result;
@@ -243,6 +251,8 @@
     ["Натлан", "Натлан"],
     ["Нод-Край", "Нод-Край"],
     ["Снежная", "Снежная"],
+    ["Тейват", "Тейват"],
+    ["Каэнри'ах", "Каэнри'ах"],
     ["Иной мир", "Иной мир"],
   ];
 
@@ -267,9 +277,20 @@
     quest_stories: [
       ["archon_quests", "Задания Архонтов", "Главные сюжетные главы: путешествие, регионы, Архонты и большие повороты истории."],
       ["legend_quests", "Задания Легенд", "Истории персонажей в формате личных квестов: их выборы, связи и тихие раскрытия."],
-      ["world_quests", "Задания мира", "Местные истории и побочные цепочки, где Тейват говорит через людей, руины и странные находки."]
+      ["world_quests", "Задания мира", "Местные истории и побочные цепочки, где Тейват говорит через людей, руины и странные находки."],
+      ["event_chronicles", "Хроники событий", "Сюжет временных событий, который исчез из игры, но остался важной частью истории мира."]
     ]
   };
+
+  const BESTIARY_GROUPS = [
+    ["hilichurls", "Хиличурлы", "Племена, шаманы и воины хиличурлов: их разновидности, обычаи и следы утраченной истории."],
+    ["elementals", "Элементальные существа", "Существа, чья природа тесно связана с элементами, артериями земли и законами Тейвата."],
+    ["fatui", "Фатуи", "Солдаты, агенты и особые подразделения Фатуи — военная и политическая сила Снежной."],
+    ["automatons", "Автоматоны", "Древние механизмы и боевые машины разных цивилизаций: от руинных стражей до новых конструкций."],
+    ["human_factions", "Люди и фракции", "Разбойники, наёмники, воины и организации, через которых видны конфликты и уклад регионов."],
+    ["abyss", "Бездна", "Орден Бездны и связанные с ним существа — одна из главных нитей к истории Каэнри'ах."],
+    ["mystical_beasts", "Мистические звери", "Древние, освящённые и необычные создания, в чьих описаниях сохранились легенды мира."]
+  ];
 
   const STORY_GROUP_PARENT = Object.fromEntries(
     Object.entries(STORY_CHILD_GROUPS).flatMap(([parent, children]) => children.map(([child]) => [child, parent]))
@@ -843,6 +864,25 @@
       ]
     },
     {
+      id: "bestiary",
+      icon: `${UI_ICON_BASE}/inventory.webp`,
+      title: "Бестиарий",
+      description: "Противники, существа и фракции Тейвата: не только боевые цели, но и следы цивилизаций, организаций и древних катастроф.",
+      data: () => ENEMIES,
+      groups: BESTIARY_GROUPS,
+      groupField: "enemy_group",
+      defaultGroup: "hilichurls",
+      filter: "region",
+      filterLabel: "Все регионы",
+      columns: ["Название", "Группа", "Регион"],
+      empty: "В этой части бестиария пока нет записей.",
+      row: item => [
+        renderTitleCell(item),
+        escapeHtml(labelFromOptions(item.enemy_group, BESTIARY_GROUPS) || item.enemy_group || "—"),
+        escapeHtml(item.region || "—")
+      ]
+    },
+    {
       id: "stories",
       icon: `${UI_ICON_BASE}/stories.webp`,
       title: "Истории",
@@ -882,6 +922,7 @@
 
   const MENU_CHILDREN = {
     items: ITEM_GROUPS.map(([key, label]) => [key, label]),
+    bestiary: BESTIARY_GROUPS.map(([key, label]) => [key, label]),
     stories: STORY_GROUPS.map(([key, label]) => [key, label])
   };
 
@@ -906,6 +947,7 @@
       books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
       artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
       weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
+      bestiary: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
       items: {
         query: "",
         filter: "all",
@@ -1891,11 +1933,7 @@
   }
 
   function childActive(sectionId, key) {
-    if (state.section !== sectionId) return false;
-    if (sectionId === "items" || sectionId === "stories") {
-      return state.subsection === key;
-    }
-    return false;
+    return state.section === sectionId && state.subsection === key;
   }
 
   function renderNav() {
@@ -2861,6 +2899,37 @@
     }).join("");
   }
 
+  function renderQuestRelations(story) {
+    const chainIds = Array.isArray(story?.quest_chain) ? story.quest_chain : [];
+    if (chainIds.length < 2) return "";
+
+    const labels = {
+      ru: { title: "Цепочка связанных заданий", item: "заданий", current: "Текущее" },
+      en: { title: "Related quest chain", item: "quests", current: "Current" },
+      zh: { title: "相关任务链", item: "个任务", current: "当前" },
+    };
+    const label = labels[state.lang] || labels.ru;
+    const storyById = new Map(STORIES.map(item => [String(item.id), item]));
+    const items = chainIds.map((id, index) => {
+      const linked = storyById.get(String(id));
+      if (!linked) return "";
+      const current = String(id) === String(story.id);
+      const title = titleOf(linked, state.lang) || String(id);
+      const version = linked.game_version ? `<span class="quest-chain-version">${escapeHtml(linked.game_version)}</span>` : "";
+      const body = `<span class="quest-chain-number">${index + 1}</span><span class="quest-chain-title">${escapeHtml(title)}</span>${version}${current ? `<span class="quest-chain-current">${escapeHtml(label.current)}</span>` : ""}`;
+      return current
+        ? `<div class="quest-chain-link is-current" aria-current="page">${body}</div>`
+        : `<a class="quest-chain-link" href="${escapeHtml(routeHash("stories", linked.id, linked.story_group))}">${body}</a>`;
+    }).join("");
+
+    return `
+      <details class="quest-chain-card" ${chainIds.length <= 10 ? "open" : ""}>
+        <summary><span>${escapeHtml(label.title)}</span><span class="quest-chain-count">${chainIds.length} ${escapeHtml(label.item)}</span></summary>
+        <div class="quest-chain-list">${items}</div>
+      </details>
+    `;
+  }
+
   function renderStoryDetail(story, config) {
     activeDetail = { type: "story", data: story, configId: config.id };
     if (!story) {
@@ -2896,6 +2965,7 @@
           controls,
         })}
 
+        ${renderQuestRelations(story)}
         <div id="reader-text-area">${renderStoryTextArea(story)}</div>
       </section>
     `;
@@ -3039,15 +3109,10 @@
     if (child) {
       const sectionId = child.dataset.menuSection;
       const key = child.dataset.menuKey;
-
-
-      if (sectionId === "items") {
-        setRoute("items", null, key);
-        return;
-      }
-
-      if (sectionId === "stories") {
-        setRoute("stories", null, key);
+      const section = SECTIONS.find(item => item.id === sectionId);
+      const isKnownChild = section && menuChildren(section).some(([childKey]) => childKey === key);
+      if (isKnownChild) {
+        setRoute(sectionId, null, key);
         return;
       }
     }

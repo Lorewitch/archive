@@ -194,11 +194,7 @@ function menuChildren(section) {
 }
 
 function childActive(sectionId, key) {
-  if (state.section !== sectionId) return false;
-  if (sectionId === "items" || sectionId === "stories") {
-    return state.subsection === key;
-  }
-  return false;
+  return state.section === sectionId && state.subsection === key;
 }
 
 function renderNav() {

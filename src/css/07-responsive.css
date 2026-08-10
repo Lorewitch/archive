@@ -649,6 +649,14 @@
 }
 
 @media (max-width: 720px) {
+  .quest-chain-link {
+    grid-template-columns: 24px minmax(0, 1fr) auto;
+  }
+
+  .quest-chain-current {
+    display: none;
+  }
+
   :root {
     --content-pad-top: 22px;
     --content-pad-x: 14px;

@@ -1,0 +1,1123 @@
+# id: quest_eq_10210
+# story_group: event_chronicles
+# title_ru: Письмо Ночного Ветра
+# title_en: Night-Wind Letter
+# title_zh: 谜烟之信
+# region: Натлан
+# game_version: 5.2
+# release_versions: 5.2
+# source_id: 10210
+# chapter_num_ru: Свитки поиска духов Иктоми I
+# chapter_num_en: Iktomi Spiritseeking Scrolls: Volume I
+# chapter_num_zh: 暝视寻灵织卷·上
+# part_source_ids: 40171
+# previous_quests: 
+# next_quests: quest_eq_10211
+# related_quests: quest_eq_10211,quest_eq_10212
+# quest_chain: quest_eq_10210,quest_eq_10211,quest_eq_10212
+# quest_series: Iktomi Spiritseeking Scrolls
+# version_source: wiki_release_category
+
+## RU
+
+### Письмо Ночного Ветра
+
+Вы получили письмо с просьбой о помощи от Повелителей Ночного Ветра за подписью Оророна. Что же случилось?
+
+#### Сцена
+
+**Оророн:** Путешественник наверняка что-нибудь придумает...
+
+**Паймон:** Оророн! Мы здесь!
+
+**Оророн:** Путешественник, Паймон, привет!
+
+**Паймон:** Мы узнали, что ты нас искал, и сразу пришли.
+
+**Оророн:** Да? У меня так тепло на сердце. Это и есть счастье?
+
+**Паймон:** Э? Ты чего это вдруг?
+
+**Оророн:** Вы настоящие друзья. И даже овощи на моих грядках после встречи с вами стали бы расти быстрее.
+
+**Паймон:** Эм... Ты что такое говоришь?
+
+**Оророн:** Я пытаюсь вас похвалить. Говорят, похвала делает людей счастливее. Ну как, вы стали счастливее?
+
+Да. Но вот ты счастливым не выглядишь.
+
+**Оророн:** Это так заметно? Да, я сейчас как тля, что не может добраться до цветка. Бабушка стоит у меня на пути.
+
+Ты про Ситлали?
+
+**Оророн:** Да. Вы ведь знаете, моя бабушка настоящий гений. А гении всегда встают на пути у других людей, повергая их в отчаяние.
+
+**Оророн:** А я к тому же её внук. И значит, моё отчаяние вдвое сильнее.
+
+**Оророн:** Наверное, из моих слов вы поняли серьёзность сложившегося положения... Поэтому я и решил попросить вашей помощи, чтобы всё уладить.
+
+**Паймон:** А что именно произошло? Ты так говоришь, будто разыгралась настоящая трагедия...
+
+**Оророн:** Мне нужно привлечь вас на свою сторону. Кто ещё сумеет сладить с бабушкой?..
+
+- **Путешественник:** Только я.
+
+- **Путешественник:** Ха-ха, неужели я?
+
+**Оророн:** Вот именно. Я тоже сразу подумал о тебе.
+
+**Оророн:** Именно ты! Я сразу подумал о тебе!
+
+**Оророн:** Путешественник, при нашей первой встрече я назвал тебя дедулей / бабулей. Меня тогда отругали, но позволь мне ещё раз назвать тебя так.
+
+**Оророн:** Ты не такой / такая, как все остальные. И даже бабушка Ситлали относится к тебе иначе. И всё, что случилось после нашей встречи, только подтверждает мои слова.
+
+**Оророн:** Будь у меня свиток, на котором перечислялось сорок человек, способных справиться с бабушкой Ситлали, Путешественник шёл / шла бы в нём под номером один.
+
+**Паймон:** А остальные тридцать девять человек? Кто они?
+
+**Оророн:** Тоже Путешественник. В этом свитке я сорок раз написал бы имя «Путешественник».
+
+- **Путешественник:** Ты можешь называть меня как угодно, но для дедушки я слишком молод / для бабушки я слишком молода.
+
+- **Путешественник:** Что угодно для любимого внука.
+
+**Оророн:** Прошу, помоги мне. Это очень важно.
+
+**Оророн:** Дедуля / Бабуля, значит, ты готов(а) помочь? Это очень важно!
+
+**Оророн:** Вам может показаться, что я бездельничаю, но на самом деле я раздосадован от того, что бабушка Ситлали преградила мне путь. Дальше идти некуда.
+
+**Оророн:** Но с вашей помощью я вновь смогу двигаться вперёд. Пока время ещё не кончилось.
+
+Хорошо, что нужно делать?
+
+**Оророн:** Ты ведь знаешь, что бабушка обожает вино, долгий сон и лёгкие романы. Если ты предложишь ей то, что она любит, скорее всего, она клюнет на удочку.
+
+**Паймон:** Ты хочешь сказать, мы должны подсунуть Ситлали приманку, чтобы отвлечь её внимание от тебя?
+
+**Оророн:** Да. Не беспокойтесь, я без дела не сидел, у меня готов целый план. Я даже придумал, что вам сказать. Вы подойдёте к ней и скажете:
+
+**Оророн:** «Дорогая бабушка, у нас есть последний том "Войны миражей". И специальное издание спин-оффа "Дела госпожи Орит". Хочешь, почитаем вместе?»
+
+**Оророн:** Сначала она притворится, что её это не интересует, но потом придумает, как согласиться. Путешественник, если ты придёшь к ней с таким предложением, она точно клюнет.
+
+Ты серьёзно думаешь, что я имею на неё такое влияние?
+
+**Паймон:** Да это пустая вежливость! Даже Паймон понимает, что Оророн просто хочет тебя уболтать!
+
+**Оророн:** Нет, я действительно так думаю. Бабушка сама этого не признает, но я вижу, что она к тебе неравнодушна.
+
+**Паймон:** Ну ладно... Всё равно Паймон ты не убедил, но если наша задача состоит в том, чтобы поболтать с Ситлали, Паймон не возражает.
+
+**Оророн:** Вам это будет так же просто, как полить огород! Будь здесь мои овощи... Извините, нет времени рассуждать про овощи...
+
+**Оророн:** Доверьтесь мне, ладно? Я вас к ней отведу. Если Путешественник с ней поговорит, всё будет в порядке.
+
+#### Отправляйтесь к месту, указанному Оророном
+
+**Оророн:** Любимый дедуля / Любимая бабуля, прошу тебя, загляни внутрь!
+
+**Оророн:** ...М?
+
+**Паймон:** Что такое?
+
+**Оророн:** Бабушка... Её нет.
+
+**Оророн:** Она стояла у входа в пещеру и не давала мне пройти. Она преграждала мне путь.
+
+**Паймон:** То есть она в прямом смысле стояла у тебя на дороге? А Паймон до сих пор думала, что это такой образ...
+
+**Оророн:** Бабушка говорит, надуманные образы превращают лёгкий роман в сборник банальностей. Я не хочу быть банальным.
+
+**Паймон:** Погоди, ты сравниваешь себя с лёгким романом? А тебе не кажется такой образ надуманным?
+
+**Оророн:** Что? Ох, вот же...
+
+Ладно, теперь дорога свободна.
+
+**Паймон:** Да, наверное, Ситлали поняла, что пора уйти с твоего пути. Теперь ты можешь показать, на что способен.
+
+**Оророн:** Думаю, всё не так просто... Непохоже на бабушку.
+
+**Оророн:** Там наверняка стоит ловушка. Или она поставила на входе особое заклинание для слежки за мной...
+
+Зачем ей тебя останавливать?
+
+**Паймон:** Да, и ставить ловушки? Или ты снова... затеял что-то подозрительное?
+
+**Оророн:** Я только хочу спасти одного человека... а бабушка мне не даёт.
+
+**Паймон:** Спасти?! Кто-то попал в беду?
+
+**Оророн:** Могу я попросить вас зайти внутрь и взглянуть на него? Думаю, сейчас он в безопасности, но если мы упустим время, всё может измениться.
+
+**Паймон:** А ты что собираешься делать?
+
+**Оророн:** Я буду ждать снаружи. Иначе попадусь в бабушкину ловушку.
+
+**Паймон:** Значит, ты хочешь, чтобы в ловушку попались мы?
+
+**Оророн:** Нет, что ты! Бабушкины ловушки вас знают. Вам они не навредят.
+
+Ты серьёзно?
+
+**Оророн:** Конечно! Понимаете, я рассказывал своей тле о ваших подвигах. Значит, бабушка своим ловушкам тоже о вас рассказала.
+
+**Паймон:** Довольно смелое предположение!
+
+**Оророн:** Словом, дедуля / бабуля, я на тебя рассчитываю.
+
+**Паймон:** Путешественник, раз это вопрос жизни и смерти, так и быть, давай заглянем в пещеру!
+
+#### Войдите в пещеру и осмотритесь
+
+**Паймон:** Ого, свиток готов! Тут какой-то человек... Кто это?
+
+**Ситлали:** ...
+
+**Оророн:** ...
+
+**Ситлали:** Это Санхадж Компоре...
+
+**Паймон:** Что? Тот самый Санхадж? Герой из древнего имени Оророна?
+
+**Ситлали:** Да. Он был не только одним из шести героев, но и легендарным Мастером Рубежей нашего племени. Прошло пятьсот лет, а остатки его духа всё ещё полны силы...
+
+**Оророн:** «Мастер Рубежей» - почётный титул. Им удостаивают только самых незаурядных людей - таких, как бабушка Ситлали.
+
+**Ситлали:** Нет. Сильнейшие Мастера Рубежей умеют расширять границы Царства Ночи, чтобы его часть на время проявилась в реальном мире.
+
+**Ситлали:** И пусть я владею заклинаниями рубежей, до Санхаджа мне далеко.
+
+**Ситлали:** Если верить легенде, именно мастерство рубежей Санхаджа пятьсот лет назад переломило ход битвы при Пепельном море. Санхадж призвал крошечное Царство Ночи, взорвал его и отбросил чёрное бедствие.
+
+**Паймон:** Ого! Вот это сила!
+
+**Ситлали:** Конечно, ему пришлось дорого за это заплатить. Насколько я понимаю, Санхадж и Теноч, глава объединённой армии натланских племён, пожертвовали собой, чтобы заклинание сработало.
+
+**Ситлали:** Не знаю, что было на уме у Лейлы... Даже я бы подумала дважды, прежде чем обратиться к Санхаджу Компоре во время духовидения. А этот чурбан... Наверное, храбрость часто коренится в глупости.
+
+**Ситлали:** Но мне начинает казаться, что всё не так просто. Вот что, я схожу к нему домой. Вдруг там отыщутся новые подсказки.
+
+Нам продолжать поиски, пока тебя не будет?
+
+**Ситлали:** Да, продолжайте сбор блуждающих духов. Если найдёте дух Лейлы, это сбережёт нам много сил...
+
+**Ситлали:** Но сначала придётся решить ещё одну задачку. Контакт с духом Санхаджа Компоре вызвал здесь настоящий переполох, все монстры в округе встали на уши.
+
+**Ситлали:** Путешественник, если у тебя найдётся немного времени, не мог(ла) бы ты их успокоить? Иначе они могут напасть на прохожих.
+
+**Оророн:** Давай лучше я.
+
+**Ситлали:** Уймись, Оророн. Путешественник и так изрядно потрудился / потрудилась. Не хочу, чтобы он / она ещё и от монстров тебя спасал(а).
+
+**Оророн:** Ладно... Путешественник, нам снова приходится просить тебя о помощи.
+
+Ерунда.
+
+**Паймон:** Да, не переживай! Самое главное сейчас - отыскать дух Лейлы!
+
+**Ситлали:** Ладно, я пошла. Увидимся позже!
+
+#### Войдите в пещеру и осмотритесь
+
+**Паймон:** Фух! Вот мы и внутри, ничего страшного не случилось. Может, ловушки Ситлали в самом деле нас знают.
+
+**Паймон:** Ой, смотри! Там кто-то есть!
+
+**Паймон:** Эй! С тобой всё в порядке? Ты нас слышишь?
+
+Не отвечает.
+
+**Паймон:** Он спит? Или болен... Наверное, это и есть человек, которого Оророн хотел спасти?
+
+**Паймон:** А что он здесь забыл? Тут столько разных загадочных штуковин...
+
+Напоминает какой-то ритуал.
+
+**Паймон:** Да, наверное... Давай позовём Оророна? Он должен знать, что здесь происходит.
+
+**Оророн:** Прости, бабушка.
+
+**Ситлали:** Ты у нас теперь взрослый?
+
+**Оророн:** ...Прости, правда.
+
+**Ситлали:** Думаешь, раз ты теперь один из шести героев, тебе можно творить, что вздумается? М?
+
+**Ситлали:** Что молчишь, паршивец? Рассказывай, как именно ты собирался помочь этому чурбану?
+
+**Паймон:** Оророн! И Ситлали... Ха-ха, привет!
+
+**Ситлали:** Что? Что-о-о? Как вы...
+
+**Ситлали:** (Вот же! Откуда они здесь взялись? Надеюсь, Путешественник не слышал(а), как я кричу на Оророна? Ох, что они обо мне подумают!)
+
+**Ситлали:** Ха-ха, привет! Мы с Оророном... э-э-э... решили пошутить. Разыграть сценку.
+
+**Ситлали:** Знаете, разыгрываем сценки из лёгких романов, перебрасываемся цитатами. Сама бы я никогда так не сказала. Правда, Оророн?
+
+**Оророн:** А? Д-да, конечно, бабушка.
+
+**Оророн:** Путешественник, я виноват. Попросил тебя о помощи, а сам расслабился и попал в лапы к бабушке, в итоге мы начали разыгрывать сценки...
+
+- **Путешественник:** Тебе не за что извиняться.
+
+- **Путешественник:** В следующий раз будь осторожнее.
+
+- **Путешественник:** Сценки, говоришь? Могу я к вам присоединиться?
+
+**Паймон:** Путешественник, перестань. Сейчас не время для игр.
+
+**Паймон:** Ситлали, Оророн... Объясните наконец, что происходит? Этот бедняга попал в беду?
+
+**Ситлали:** Да. Его имя Лейла. У него случились неприятности во время духовидения.
+
+Что ещё за духовидение?
+
+**Ситлали:** Существует заклинание, которое позволяет духу ненадолго покинуть тело, чтобы получить доступ к секретному знанию. Вы ведь наверняка читали в романах про медиумов? Вот и здесь что-то подобное.
+
+**Ситлали:** Проблема в том, что дух Лейлы заблудился и не может вернуться в тело.
+
+**Паймон:** То есть его тело здесь, а душа где-то далеко!
+
+**Ситлали:** Строго говоря, дух и душа не совсем одно и то же, но в целом всё верно.
+
+**Оророн:** Я только хотел вернуть дух Лейлы в тело...
+
+**Ситлали:** И я бы не стала тебя останавливать, будь на его месте обычный человек. Но Лейла - духовный чурбан.
+
+**Паймон:** Что такое «духовный чурбан»?
+
+**Ситлали:** Человек, лишённый всякой чувствительности к духовным сущностям. Такие люди не чувствуют мир духов, не могут ими управлять и тем более не могут пользоваться заклинаниями.
+
+**Ситлали:** Конечно, есть определённые методы, способные ввести в состояние духовидения даже самых непробиваемых чурбанов, но... Результат налицо. Вы сами видели, что случилось с Лейлой.
+
+**Ситлали:** Все заклинания Повелителей Ночного Ветра зиждятся на общении с духовными сущностями. То же самое и с методами решения проблем. Поэтому на чурбанов обычные средства лечения не действуют.
+
+**Ситлали:** Если такой чурбан попал в беду, пустив в ход заклинание, сделать ничего нельзя.
+
+**Оророн:** Можно. Если речь идёт о душе, я могу помочь...
+
+**Ситлали:** Слышали? Наверняка вы уже догадались, какая светлая мысль пришла в голову нашему Оророну.
+
+**Паймон:** Ой, ты решил воспользоваться своей особой способностью? А это не опасно?
+
+**Оророн:** Всё будет в порядке, бабушка напрасно беспокоится. Я себя чувствую хорошо, уверен, я буду в безопасности. И это единственная возможность спасти Лейлу.
+
+**Ситлали:** Даже не думай. А если это опаснее, чем ты воображаешь? Я прекрасно знаю, ты поставишь на карту всё, лишь бы его спасти. Сказать по правде, ты у нас чурбан похлеще Лейлы.
+
+**Паймон:** Ох, как трудно... Оророн действительно готов отказаться от себя ради других. Но и Ситлали склонна тревожиться на пустом месте...
+
+- **Путешественник:** Я (согласна)(согласен) с Ситлали. Оророн - чурбан.
+
+- **Путешественник:** Я (согласна)(согласен) с Оророном. Ситлали, ты сама чурбан.
+
+- **Путешественник:** Ситлали, у тебя готов собственный план?
+
+**Оророн:** Зовите меня как хотите. Но я знаю, что смогу вернуть его дух. Мне только нужна ваша помощь.
+
+**Ситлали:** Так, достаточно! С каких это пор тебе дали право командовать взрослыми? Само собой, бабушка лучше тебя знает, что делать.
+
+**Ситлали:** Эй! Ну-ка! За кого вы принимаете Бабушку Ицтли? Само собой, я знаю, что делать.
+
+**Ситлали:** Ха-ха, конечно! Зачем иначе Бабушка Ицтли сюда пожаловала?
+
+**Паймон:** Правда?!
+
+**Оророн:** Ты серьёзно? То есть ты знаешь, как его спасти?
+
+**Ситлали:** Да. Решение не самое изящное, но... это не суть! А суть в том, что не надо совать свой нос в бабушкины дела.
+
+**Ситлали:** Путешественник, на самом деле я и сама хотела обратиться к тебе, потому что мой план предполагает большую работу. Возможно, понадобится твоя помощь.
+
+**Паймон:** Класс! Хорошо, что Оророн нас сюда привёл!
+
+Конечно! Что мне делать?
+
+**Ситлали:** Я хочу подойти к делу с двух сторон. Первый способ довольно примитивный: перетряхнуть стог сена, чтобы найти иголку.
+
+**Ситлали:** Видите линию, которой я обвела тело Лейлы? Это врата в Царство Ночи.
+
+**Ситлали:** Когда врата придут в движение, все блуждающие духи в окрестностях слетятся на зов. Если нам повезёт, среди них мы найдём дух Лейлы.
+
+**Ситлали:** Как и раньше, я дам тебе на время часть своей силы, чтобы у тебя тоже включилось духовидение. Но тебе понадобится курильница, иначе способ не сработает.
+
+**Ситлали:** Не беспокойся, на этот раз всё пройдёт гладко! Ты просто почувствуешь, что (оказалась)(оказался) в Царстве Ночи, увидишь кругом много блуждающих духов. Тебе нужно будет собрать их вместе.
+
+**Ситлали:** А дальше пусть Оророн ищет среди них дух Лейлы. Раз он так хочет помочь, пусть берёт на себя самую тяжёлую работу.
+
+А второй способ?
+
+**Ситлали:** Приманить его, используя мои познания о природе духа. Всем известно, что к духовидению чаще всего прибегают, чтобы разгадать некую тайну.
+
+**Ситлали:** Узнав, что за тайна так занимала Лейлу, мы сможем приманить его заблудившийся дух.
+
+**Ситлали:** Я сама займусь духовидением, а тело Лейлы будем моим посредником. Это позволит мне узнать, о чём он думал.
+
+**Паймон:** Кажется, Паймон понимает! Первый способ похож на рыболовную сеть, а второй на удочку! Как когда Оророн предложил нам поймать тебя на крючок лёгкими романами!
+
+**Оророн:** Эм... Паймон, ты могла бы обойтись без примера.
+
+**Ситлали:** Что? Так, кое-кого ждёт серьёзный разговор...
+
+**Оророн:** Но бабушка, я и не знал, что ты умеешь уходить в духовидение через человека! Невероятно! Я думал, посредником может быть только предмет.
+
+**Ситлали:** Пф, я твою лесть насквозь вижу. От человека, лишившегося своей духовной сути, остаётся одна телесная оболочка, а для нас это всё равно что неодушевлённый предмет.
+
+**Ситлали:** Путешественник, там стоит мой духовный станок, который записывает все разрозненные картины, что являются мне во время духовидения. Когда я начну, помоги мне перенести их на тканый свиток.
+
+**Ситлали:** Дай знать, когда будешь готов(а). Пора браться за дело.
+
+#### Сотките свиток на духовном станке
+
+**Оророн:** Путешественник, у нас всё получится! Мы отыщем Лейлу!
+
+#### Поговорите с Ситлали
+
+**Ситлали:** Ты готов(а)? Не беспокойся, управлять станком совсем не сложно.
+
+- **Путешественник:** Хорошо, я попробую.
+
+- **Путешественник:** Мне нужно ещё немного времени.
+
+**Ситлали:** Наверное, ты никогда раньше на нём не работал(а)? Но я уверена, ты отлично справишься.
+
+**Ситлали:** Хорошо.
+
+## EN
+
+### Night-Wind Letter
+
+You receive a letter from the Masters of the Night-Wind asking for your help, signed by Ororon. Just what could have happened...
+
+#### Scene
+
+**Ororon:** Once Traveler shows up, everything will get better...
+
+**Paimon:** Hey! Ororon, over here!
+
+**Ororon:** Oh, hey there, Traveler and Paimon.
+
+**Paimon:** So, you were looking for us? We came as soon as we heard.
+
+**Ororon:** You did? That makes me feel... warm and fuzzy. Is this what happiness feels like?
+
+**Paimon:** ...The heck? Where is this coming from...?
+
+**Ororon:** You are truly the best friends I could ask for. If my vegetables met you, I'm sure they'd grow all the more lush for it.
+
+**Paimon:** Uh... what makes you say that?
+
+**Ororon:** Well, it's a compliment. I heard that complimenting people makes them happy. Did it work? Are you happy?
+
+Very much so, but what about you? You don't look too happy.
+
+**Ororon:** It's that obvious, huh? Well, you're right. I feel like an aphid who can't find a flower. Granny is standing in my way.
+
+You mean, Citlali?
+
+**Ororon:** Yes. Granny's a genius, as you know. Geniuses often stand in the way of others, leading them to despair.
+
+**Ororon:** And on top of that, I'm her grandson. Which means I get a double dose of despair.
+
+**Ororon:** If that sounds serious... it's because it is. So please, help me deal with her.
+
+**Paimon:** What happened, exactly? You make it sound so dramatic...
+
+**Ororon:** I had to get you involved. Most people can't deal with Granny, and...
+
+- **Traveler:** And I'm an exception.
+
+- **Traveler:** Haha, and you think I can!?
+
+**Ororon:** Exactly! You were the first person I thought of, Gramps / other Granny.
+
+**Ororon:** Of course you can! You were the first person I thought of, Gramps / other Granny.
+
+**Ororon:** "Gramps" / "Granny" is what I called you when we first met, and I know I got told off for it... but please let me off for calling you that one more time.
+
+**Ororon:** It feels like there's something unique about you. Even Granny Citlali treats you like you're someone special. And everything that's happened since we met suggests it's true.
+
+**Ororon:** If I had a woven scroll that listed the forty people who can deal with Granny Citlali, your name would be at the top of that list.
+
+**Paimon:** Wait, so who are these other thirty-nine?
+
+**Ororon:** They're also Traveler. A whole thirty-nine Traveler after the first one.
+
+- **Traveler:** You flatter me, but I'm too young to be a grandparent.
+
+- **Traveler:** Anything for my favorite grandson.
+
+**Ororon:** Please, you've gotta help me. This is really important.
+
+**Ororon:** Great, so you're gonna help me, right "Gramps" / "Granny"? I can't stress how important this is.
+
+**Ororon:** Although it looks like I'm just hanging around with nothing to do, inside, I'm distraught about the path ahead. Granny Citlali is blocking my way and I can't get past.
+
+**Ororon:** But now that you're here, I can start moving again. Before time runs out.
+
+Okay, so what do you need me to do?
+
+**Ororon:** You know how much Granny loves to drink, nap, and read light novels, right? If you offer her what she wants, I'm sure you can lure her away.
+
+**Paimon:** You mean, use those things as bait to distract her, so she won't notice what you're up to?
+
+**Ororon:** That's right. Don't worry, I won't make you do all the work — I've planned it all out, including what you need to say. All you need to do is walk up to her, and tell her this:
+
+**Ororon:** "Dear Granny, I have the latest volume of 'Mirage Warriors' here, along with a special-edition spinoff of 'The Case Files of Miss Orith.' Wanna read them together?"
+
+**Ororon:** She'll pretend not to be interested for a few seconds, then think of an excuse to say yes. As long as you're the one doing the fishing, she'll definitely take the bait.
+
+You really think I have that effect on her?
+
+**Paimon:** He's just trying to butter you up! Even Paimon can tell. He's just saying whatever it takes to persuade you.
+
+**Ororon:** No, I mean it. Granny might not say it out loud, but I can tell — she has a soft spot for Traveler.
+
+**Paimon:** If you say so... Paimon's still not convinced, but if all we have to do is say a few words to Citlali, it's hardly putting us out.
+
+**Ororon:** It'll be as easy as watering vegetables — and if my vegetables were here, they'd... Uh, sorry, there's no time for vegetable talk.
+
+**Ororon:** Just trust me. Let me take you to her. With you there, everything will be better.
+
+#### Head to the location pointed out by Ororon
+
+**Ororon:** You are the best, Gramps / Granny. Please, can you go inside and take a look?
+
+**Ororon:** ...Huh?
+
+**Paimon:** What's the matter?
+
+**Ororon:** It's Granny... She's gone.
+
+**Ororon:** She was standing there at the cave entrance to stop me from going in. Standing right in my way.
+
+**Paimon:** Oh, you meant literally standing in your way... This whole time, Paimon thought you were being metaphorical.
+
+**Ororon:** Granny says it's tacky when light novels use contrived metaphors. I don't wanna be tacky.
+
+**Paimon:** Wait, but aren't you comparing yourself to a light novel? Isn't that kinda contrived...?
+
+**Ororon:** What? Oh... darn it...
+
+Anyway, looks like your path ahead has been cleared.
+
+**Paimon:** Yeah, Citlali probably figured there was no point standing in your way anymore. Ororon, whatever it is you so desperately need to do, you're now free to do it.
+
+**Ororon:** I don't think it'll be that simple... Granny wouldn't release me from her grasp so easily.
+
+**Ororon:** She might have laid a trap for me. Or maybe when I get inside, I'll get caught by one of her surveillance spells...
+
+But why would she want to stop you?
+
+**Paimon:** Yeah, let alone lay a trap for you! Unless... You haven't been up to no good again, have you?
+
+**Ororon:** I just want to rescue someone... and Granny won't let me.
+
+**Paimon:** Rescue someone!? Oh no, what happened?
+
+**Ororon:** Could I ask you to go inside and take a look at him? I think he should be safe for now, but he'll be at greater and greater risk as time goes by.
+
+**Paimon:** But then... What are you going to do?
+
+**Ororon:** I'll have to wait outside, or I might fall into one of Granny's traps.
+
+**Paimon:** ...You mean, you want us to fall into her traps instead?
+
+**Ororon:** No, you'll be fine. Granny's traps will recognize it's Traveler, so they'll leave you alone.
+
+Really? That's a thing?
+
+**Ororon:** Sure it is — I mean, I've told my aphids all about your heroic deeds, so I assume Granny's told her traps, too.
+
+**Paimon:** You... You can't just assume that!
+
+**Ororon:** Either way... I'm counting on you, Gramps / Granny.
+
+**Paimon:** Well, Traveler, sounds like someone's life is at stake so we should probably head in and check things out.
+
+#### Enter the cave to check on the situation
+
+**Paimon:** Oh! The woven scroll is ready! This looks like a person... Who is it?
+
+**Citlali:** ...
+
+**Ororon:** ...
+
+**Citlali:** It's Sanhaj Kompore...
+
+**Paimon:** Huh? You mean, THAT Sanhaj? Ororon's ancient name hero guy?
+
+**Citlali:** That's right. He was not only one of the six heroes, but also a legendary Border Master of our tribe. Five hundred years on, and the remains of his spirit is still so strong...
+
+**Ororon:** "Border Master" is a honorable title, by the way. It's only given to powerful figures, like Granny Citlali.
+
+**Citlali:** No, not like me. The most powerful Border Masters can expand the borders of the Night Kingdom, and temporarily manifest part of it in the real world.
+
+**Citlali:** I'm no amateur with border spells, but Sanhaj is in a league of his own.
+
+**Citlali:** They say his border mastery was what turned the tide in the Battle of the Mare Jivari five hundred years ago. Legend has it that Sanhaj summoned a miniature Night Kingdom and exploded it to defeat the encroaching dark calamity.
+
+**Paimon:** Whoa! He must have been really strong!
+
+**Citlali:** Of course, it came at a great price. As far as I understand, both Sanhaj and Tenoch, the leader of the tribal coalition forces, gave their lives to activate this spell.
+
+**Citlali:** I don't know what Leyla was thinking... Even I'd think twice before seeking out Sanhaj Kompore during clairvoyance, so what sort of spirit-duffer in their right mind would... Hmph, I guess folly is the greater part of bravery.
+
+**Citlali:** I'm starting to feel like something else is at play here. I think I'll pay a visit to his house and see if I can find any clues.
+
+What about the other approach? Shall we keep that up while you're gone?
+
+**Citlali:** Yep, you can keep gathering the roaming spirits, that won't be affected. Hopefully you do find Leyla that way, because it'll save us an awful lot of trouble...
+
+**Citlali:** But before that, it looks like we now have another problem on our hands. Connecting with the spirit of Sanhaj Kompore has caused quite a stir... I think we may have just spooked all the monsters in the area.
+
+**Citlali:** Traveler, if you've got some time, could you go and get them to pipe down a bit? We don't want them to start attacking innocent bystanders.
+
+**Ororon:** It's fine, I can handle that.
+
+**Citlali:** Oh no — you're staying right here, mister! Traveler has enough to do already without coming to your rescue.
+
+**Ororon:** Alright then... Sorry, Traveler. Over to you, I guess.
+
+No problem, it'll be a piece of cake.
+
+**Paimon:** Yeah, don't sweat it. The most important thing right now is getting Leyla's spirit back.
+
+**Citlali:** Alright, I'm heading out. See you guys later.
+
+#### Enter the cave to check on the situation
+
+**Paimon:** Phew, we made it in without a hitch! Maybe Citlali's traps can recognize us after all!
+
+**Paimon:** Wait, look! There's someone there!
+
+**Paimon:** Hi! Are you okay? Can you hear us?
+
+He's not responding.
+
+**Paimon:** Is he asleep? Or sick? ...Do you think this is the guy Ororon was talking about?
+
+**Paimon:** Also, what the heck's been going on here? Lots of strange and mysterious stuff around...
+
+Looks like some kind of ritual.
+
+**Paimon:** Hmm, could be... Let's get Ororon in here. He'll know what this is all about.
+
+**Ororon:** Sorry, Granny.
+
+**Citlali:** All grown up now, are we?
+
+**Ororon:** ...I'm truly sorry.
+
+**Citlali:** Now that you're one of the six heroes, you think you can do as you please, do you? Hmm?
+
+**Citlali:** Well? Explain yourself, you dummy! How exactly were you thinking of helping that spirit-duffer?
+
+**Paimon:** Ororon! And, uhh... hey, Citlali.
+
+**Citlali:** Huh? HUH??? When did you guys...
+
+**Citlali:** (Drat, I wasn't expecting them. And now Traveler probably caught me yelling at Ororon... Aah, this is not a good look for me!)
+
+**Citlali:** Haha... Hello there, you two. We were just, um... Ororon and I, we were, uh... play acting...
+
+**Citlali:** You know, acting out some scenes from a light novel, quoting the lines... I didn't actually mean what I was saying. Right, Ororon?
+
+**Ororon:** Huh? Uh... Yes, that's right.
+
+**Ororon:** I owe you an apology too, Traveler. I asked you for help, but I forgot to watch my back, and Granny caught me... And now we're play-acting.
+
+- **Traveler:** There's no need to apologize.
+
+- **Traveler:** Just watch your back next time.
+
+- **Traveler:** Play acting, huh? Can I join in?
+
+**Paimon:** Come on. Now's not the time for games.
+
+**Paimon:** So, what are you two up to, exactly? Did something happen to this poor guy?
+
+**Citlali:** Yeah — Leyla's his name. He got into some trouble during a clairvoyance session.
+
+Clairvoyance?
+
+**Citlali:** It's a kind of spell that lets your spirit leave your body, so you can access secret knowledge. You know what a medium is, right? You've probably come across them in novels. Anyway, it's similar to that.
+
+**Citlali:** Leyla's problem is, his spirit has gotten lost and can't find its way back to his body.
+
+**Paimon:** So, in other words, his body's here, but his soul's gone!
+
+**Citlali:** Well, technically the soul and the spirit aren't quite the same thing... but yes, in a nutshell, that's basically it.
+
+**Ororon:** I just wanted to help bring Leyla's spirit back...
+
+**Citlali:** Hmph, and I wouldn't have stopped him if it was anyone else. But the issue is, Mr. Leyla here is what we call a "spirit-duffer."
+
+**Paimon:** What's a spirit-duffer?
+
+**Citlali:** Someone with no spiritual sensitivity whatsoever. Spirit-duffers can't sense or control spirits, much less use spells on them.
+
+**Citlali:** Now, there are certain methods that can force even spirit-duffers into a clairvoyant state, but... well, I mean, look what happened to Mr. Leyla.
+
+**Citlali:** The spells of the Masters of the Night-Wind are all based on dealing with spirits, and so are all our problem-solving methods. So for spirit-duffers, even our healing methods don't work on them.
+
+**Citlali:** So if they get into trouble trying to use a spell, there's basically nothing we can do.
+
+**Ororon:** Yes, there is. As long as the soul is involved, I should be able to help...
+
+**Citlali:** You hear that? No prizes for guessing what Ororon's bright idea was.
+
+**Paimon:** Oh! Because of your special constitution, right? But isn't that kinda risky for you?
+
+**Ororon:** I'll be fine — Granny's just worrying too much. I'm feeling fine now, so I should be able to do it safely. Besides, it's probably our only hope of bringing Leyla back.
+
+**Citlali:** Don't kid yourself. What happens if it's not as safe as you're hoping, hmm? We both know you'll risk it all to try and rescue him anyway. Honestly, you're such an idiot sometimes.
+
+**Paimon:** Um... This is a tricky one. It's true that Ororon can be self-sacrificing to a fault, but it's also true that Citlali tends to worry too much...
+
+- **Traveler:** I'm with Citlali on this. Ororon is being an idiot.
+
+- **Traveler:** I'm with Ororon. Citlali's the one being an idiot.
+
+- **Traveler:** I bet you've got a plan, huh, Citlali?
+
+**Ororon:** Call me an idiot all you want — I know I can bring his spirit back. I just need your support.
+
+**Citlali:** Hey! That's enough, you little squirt. Since when does the grandkid call the shots? Granny obviously knows how to handle this.
+
+**Citlali:** Hey! That's Granny Itztli to you! Who do you take me for? I obviously know how to handle this.
+
+**Citlali:** Hehe, you're darn right Granny Itztli's got a plan! Why else do you think I'd be here?
+
+**Paimon:** Huh? You do?
+
+**Ororon:** Wait, really? You actually know a way to save him?
+
+**Citlali:** Yes! I mean, it's a crude solution... but that's beside the point! The point being, don't interfere when Granny's already got things under control!
+
+**Citlali:** Anyway. Traveler, I was actually going to ask for your help on this. My plan will take quite a lot of work, and it's a little too much for one person.
+
+**Paimon:** Oh, great! Well, it's a good thing Ororon brought us here then!
+
+Sure, how can I help?
+
+**Citlali:** I intend to use a two-pronged approach. The first is the crude method — basically, it's looking for a needle in a haystack.
+
+**Citlali:** See the thing I've drawn around Leyla's body? That's a gateway to the Night Kingdom.
+
+**Citlali:** Once the gateway is activated, all roaming spirits in the area will be drawn to it. If we're lucky, we'll find the one that belongs to Leyla.
+
+**Citlali:** I'll lend you some of my power like last time, so you can use my clairvoyance. It only works if you use this projection censer first though, so don't forget that step.
+
+**Citlali:** Don't worry, this time nothing can go wrong! You'll just feel like you're in the Night Kingdom, and you'll see a lot of roaming spirits around you. All you need to do is gather them up.
+
+**Citlali:** You can leave Ororon to sift through them and find Leyla. Since he wants to help so bad, he can take the hardest job.
+
+What's the other approach?
+
+**Citlali:** Draw him back, using what I know about the instincts of spirits. As we all know, clairvoyance is usually conducted with the goal of unraveling mysteries.
+
+**Citlali:** If we can find out what mystery Leyla wanted to learn the truth of, we can use that to draw his lost spirit back here.
+
+**Citlali:** I'll do some clairvoyance of my own, and channel it through Leyla's body. That should give me some idea of what he was thinking.
+
+**Paimon:** Oh! Paimon thinks she gets it now. The first approach is like fishing with a net, and the second is like fishing with bait. Just like how Ororon wanted us to lure you away with the promise of light novels!
+
+**Ororon:** Um... Your point would have been just as clear without the example, Paimon.
+
+**Citlali:** What!? ...Don't think I won't revisit this later.
+
+**Ororon:** But Granny, it's amazing that you can use a person as a clairvoyance medium. I always thought you had to use inanimate objects.
+
+**Citlali:** Hmph, you can't flatter your way out of this one! But you're not wrong. A person without a spirit is just a physical shell — which, for our purposes, makes them an inanimate object.
+
+**Citlali:** Traveler, just over there is my spiritloom, which will record the fragments I see during clairvoyance. Once I begin, please arrange them on a woven scroll for me.
+
+**Citlali:** Let me know when you're ready. We should get to work.
+
+#### Use the spiritloom to weave the scroll
+
+**Ororon:** You can do it, Traveler! Together, we'll bring Leyla back for sure.
+
+#### Talk to Citlali
+
+**Citlali:** Are you ready? Don't worry, the spiritloom is very easy to use.
+
+- **Traveler:** Alright, I'll give it a try.
+
+- **Traveler:** I need a little more time.
+
+**Citlali:** I know this is your first time working with it, but I have a feeling you'll do great.
+
+**Citlali:** Sure.
+
+## ZH
+
+### 谜烟之信
+
+收到了一封来自烟谜主的求救信，署名是欧洛伦，发生什么事了呢…
+
+#### 场景
+
+**欧洛伦:** 只要旅行者出现，一切就会好起来…
+
+**派蒙:** 嘿！欧洛伦，这边！
+
+**欧洛伦:** 啊，旅行者，派蒙。你们好。
+
+**派蒙:** 听说你有事找我们，所以就立刻过来啦。
+
+**欧洛伦:** 原来是这样…让我心里很温暖，这就是幸福的感觉吗？
+
+**派蒙:** 噫！干嘛突然说这种话…
+
+**欧洛伦:** 你们是真正的好朋友。如果我家的蔬菜见到你们，一定也会长得更茂盛。
+
+**派蒙:** 那又是什么原理啊？
+
+**欧洛伦:** 是夸奖，听说夸奖别人会让人快乐。你快乐了吗？
+
+谢谢。但你好像不是很快乐？
+
+**欧洛伦:** 被你发现了。确实，我现在就跟产蜜困难的蜜虫一样烦恼。奶奶堵住了我的前路。
+
+茜特菈莉？
+
+**欧洛伦:** 是的，你们知道，奶奶是个天才，天才总会堵住别人的路，让别人绝望。
+
+**欧洛伦:** 而我又是她的孙子，她让别人有多绝望，在我这个孙子身上都是要加倍的…
+
+**欧洛伦:** 应该说得很严重了吧，嗯，所以，请你们帮忙搞定奶奶。
+
+**派蒙:** 你经历了什么哦？说得这么严重，到底是怎么回事…
+
+**欧洛伦:** 我需要拉拢你们，毕竟，能搞定奶奶的人…
+
+- **旅行者:** 那个人就是我。
+
+- **旅行者:** 哈哈，不可能是我吧？
+
+**欧洛伦:** 没错，我也是第一个就想到了爷爷 / 奶奶你。
+
+**欧洛伦:** 就是你，我第一个就想到了爷爷 / 奶奶你。
+
+**欧洛伦:** 爷爷 / 奶奶，最开始见面的时候，我就是这么叫你的。虽然被批评了，但请允许我再叫一次。
+
+**欧洛伦:** 你给人的感觉不太一样，茜特菈莉奶奶对你的态度也不一样。后来的事情也证明了这两点。
+
+**欧洛伦:** 我想，如果翻开名为「搞定茜特菈莉的四十人」的织卷，排在首位的就会是旅行者。
+
+**派蒙:** 那后面不是还有三十九个吗？
+
+**欧洛伦:** 后面的也是旅行者，三十九个旅行者。
+
+- **旅行者:** 就算你这么说，我也还不想认孙子。
+
+- **旅行者:** 乖孙，爷爷 / 奶奶我啊，已经心花怒放了。
+
+**欧洛伦:** 拜托了，请帮帮我，真的很重要。
+
+**欧洛伦:** 好的，那爷爷 / 奶奶你一定愿意帮忙了吧？这真的很重要。
+
+**欧洛伦:** 我只是看上去无所事事，其实在为前路感到烦恼，奶奶她成了拦路虎，让我无路可走。
+
+**欧洛伦:** 但现在你们到了，就可以开始行动起来了，时间不会一直等着我。
+
+那我要怎么帮你？
+
+**欧洛伦:** 你肯定知道奶奶喜欢看轻小说，喝闷酒，睡大觉，如果是你，一定可以对症下药，把她引走。
+
+**派蒙:** 所以就是让我们像钓鱼那样钓走茜特菈莉，这样她就没空管你了？
+
+**欧洛伦:** 是的。我当然没有闲着，去做了不少功课，说辞我也准备了一些。你们可以走到奶奶面前说：
+
+**欧洛伦:** 「亲爱的奶奶，我有一本《蜃楼战记》最新卷，还有一本《奥西兹小姐事件簿》特别番外，要来一起看看吗？」
+
+**欧洛伦:** 她就会假矜持几句，然后马上给自己找台阶下，满口答应。旅行者，如果是你抛出的诱饵，奶奶一定会上钩。
+
+可我真的有这种功效？
+
+**派蒙:** 是场面话啦！连我都听出来了，欧洛伦说的都是好听的场面话。
+
+**欧洛伦:** 不对。奶奶嘴上不说而已，我能看得出来，她正在关注旅行者。
+
+**派蒙:** 好吧…虽然我还是觉得欧洛伦在病急乱投医，但如果只是和茜特菈莉说几句话什么的，倒也不费劲。
+
+**欧洛伦:** 简直就像给蔬菜浇水一样轻松，如果我家的蔬菜在这里…啊…抱歉，没时间再讲蔬菜了…
+
+**欧洛伦:** 请相信我，跟我来一趟吧，只要旅行者出现，一切就会好起来。
+
+#### 前往欧洛伦指出的位置
+
+**欧洛伦:** 好爷爷 / 奶奶！拜托了，请你们先进去看看吧？
+
+**欧洛伦:** 咦？
+
+**派蒙:** 怎么了？
+
+**欧洛伦:** 奶奶…居然不见了…
+
+**欧洛伦:** 她原本就站在那个洞口，防止我进去。我的前路就是这样被阻断的。
+
+**派蒙:** 原来是字面意义上的拦路虎啊！我还以为这也是比喻呢。
+
+**欧洛伦:** 奶奶说，一个段落比喻两次的轻小说是二流。我不想变成二流。
+
+**派蒙:** 喂，你把自己比成轻小说了吧？这是第二次比喻了吧？
+
+**欧洛伦:** 什么？糟糕…
+
+总之，现在欧洛伦应该畅行无阻了。
+
+**派蒙:** 对哦，看来茜特菈莉已经想通了。欧洛伦，不管想干什么，你都可以大展身手啦。
+
+**欧洛伦:** 我觉得没那么简单…奶奶不会这么轻易放弃抓我的。
+
+**欧洛伦:** 也许我一走进去洞里，就会被奶奶的监视法术发现，又或者踩中她留下的陷阱…
+
+可她干嘛要抓你呢？
+
+**派蒙:** 是啊，甚至还布置了陷阱！不会你又像之前那样…干了什么引人怀疑的事吧？
+
+**欧洛伦:** 我只是想救人而已…是奶奶不让。
+
+**派蒙:** 救、救人？！谁出事了？
+
+**欧洛伦:** 能请你们先去洞里面看看吗？虽然现在应该还安全，但是拖得越久，有危险的人就会越有危险。
+
+**派蒙:** 那你怎么办？
+
+**欧洛伦:** 我只能先在门口等一会，以防自投奶奶的罗网。
+
+**派蒙:** 可如果有陷阱的话，踩中的人岂不就是我们了？
+
+**欧洛伦:** 不会有事的，奶奶的陷阱认得旅行者，不会把你们怎么样的。
+
+有这回事？
+
+**欧洛伦:** 嗯，我跟我家的蜜虫讲过你的丰功伟绩，奶奶应该也跟她的陷阱讲过。
+
+**派蒙:** 不要以为所有人都像你啊！
+
+**欧洛伦:** 总而言之，拜托了，好爷爷 / 奶奶。
+
+**派蒙:** 旅行者，既然事关人命，我们还是先进去看看吧！
+
+#### 进入山洞内查看情况
+
+**派蒙:** 噢！织物出来了！这好像是个人…是谁啊？
+
+**茜特菈莉:** ……
+
+**欧洛伦:** ……
+
+**茜特菈莉:** 是桑哈杰·康波雷…
+
+**派蒙:** 欸？是之前欧洛伦古名里出来的那个英杰桑哈杰吗？
+
+**茜特菈莉:** 没错，他不仅是英杰，还是烟谜主历史上有名的边界大师，即使已经逝去五百年，他的灵性残留也依然强大…
+
+**欧洛伦:** 补充说明，边界大师是一种尊称，专门给像奶奶这样厉害的人物。
+
+**茜特菈莉:** 不，强大的边界大师能够拓展夜神之国的边界，让其部分短暂降临现世。
+
+**茜特菈莉:** 虽然奶奶我的边界法术也不差，但比桑哈杰还差得远。
+
+**茜特菈莉:** 传说中，五百年前烬寂海大战，桑哈杰就是使出了这样的法术，召唤并引爆一个微型夜神空间，才得以击退漆黑灾厄。
+
+**派蒙:** 好…好强大！
+
+**茜特菈莉:** 不是没有代价的，据我所知，除了桑哈杰本人，部族联军的牵头人特诺切也是因这道法术而牺牲。
+
+**茜特菈莉:** 这个勒拉到底想干什么，连我也不敢轻易暝视桑哈杰·康波雷，这个灵性白痴居然…该说无知者无畏吗？
+
+**茜特菈莉:** 我有一种预感，事情没有这么简单，我打算去他家一趟，最好能找到什么线索。
+
+那之前说的还要继续吗？
+
+**茜特菈莉:** 嗯，聚集那些游灵并没有影响，如果能正好找出勒拉的灵性，我们也不用这么麻烦了。
+
+**茜特菈莉:** 不过现在好像又多了一个问题。暝视桑哈杰·康波雷动静不小，周遭的魔物可能已经被惊动了。
+
+**茜特菈莉:** 旅行者，如果你有时间，能去让它们安静一点吗？防止危害到往来的路人。
+
+**欧洛伦:** 这种事让我来就行了。
+
+**茜特菈莉:** 凭你的身手还是省省吧，旅行者已经够辛苦了，我可不想听到他 / 她去救你的消息。
+
+**欧洛伦:** 那好吧…旅行者，看来还是要麻烦你了。
+
+小事一桩。
+
+**派蒙:** 嗯，现在还是把这个家伙的灵性找回来最重要！
+
+**茜特菈莉:** 那我就先离开了，回见。
+
+#### 进入山洞内查看情况
+
+**派蒙:** 呼~顺利地走进来了，什么都没发生。也许茜特菈莉的陷阱真的认识我们！
+
+**派蒙:** 呜哇！快看！那里有个人！
+
+**派蒙:** 嗨！你还好吗？喂！听得见我们说话吗？
+
+似乎没反应。
+
+**派蒙:** 睡着了吗？还是生病了…会不会这就是欧洛伦说要救的人？
+
+**派蒙:** 这个营地也是神神秘秘的，是干什么的？
+
+像是什么仪式。
+
+**派蒙:** 唔…我们去叫欧洛伦进来吧，他肯定知道这是什么。
+
+**欧洛伦:** 对不起，奶奶。
+
+**茜特菈莉:** 翅膀硬了啊？
+
+**欧洛伦:** …真的对不起。
+
+**茜特菈莉:** 是不是觉得自己当上了六个英雄之一，可以无法无天了？嗯？
+
+**茜特菈莉:** 给我解释一下，臭小子，凭什么插手那个灵性白痴的事？
+
+**派蒙:** 欧洛伦！还有茜特菈莉…哈哈…你也来了啊。
+
+**茜特菈莉:** 欸？欸欸欸？你们怎么…
+
+**茜特菈莉:** （糟糕，他们 / 她们怎么现在就来了，我刚才凶巴巴的样子不会被旅行者看见了吧？哦天，我的形象！）
+
+**茜特菈莉:** 哈哈…你们好啊，那什么…刚才我和欧洛伦在玩，模仿游戏…
+
+**茜特菈莉:** 就是模仿轻小说里的人物和情节，背他们的台词，我说的话都不是我的本意，对吧，欧洛伦？
+
+**欧洛伦:** 啊？啊…对的，对的，奶奶。
+
+**欧洛伦:** 旅行者，也对不起你，本来是请你来帮忙的，结果我却没有注意身后，先被奶奶抓住了，和她一起玩模仿游戏。
+
+- **旅行者:** 这种事就不用道歉了。
+
+- **旅行者:** 下次注意。
+
+- **旅行者:** 模仿游戏？带我一个。
+
+**派蒙:** 现在不是玩游戏的时候啦。
+
+**派蒙:** 茜特菈莉和欧洛伦，你们到底在干什么呀？是不是这个人出了问题？
+
+**茜特菈莉:** 嗯，他叫勒拉，在一次暝视中出了岔子，变成了现在这个样子。
+
+暝视是什么？
+
+**茜特菈莉:** 一种操纵灵性出体、用来获知神秘的法术，你有在小说里见到过通灵这种事吗？跟那个就很像。
+
+**茜特菈莉:** 而现在他的问题是，他的灵性在某处迷路了，无法返回身体。
+
+**派蒙:** 也就是说，他只是身体在这，但灵魂不在了！
+
+**茜特菈莉:** 虽说灵魂和灵性不完全是一回事，但现在可以简单这么理解。
+
+**欧洛伦:** 嗯，我就是想把勒拉失踪的灵性找回来…
+
+**茜特菈莉:** 哼，如果这个勒拉是一般人就罢了，我不会阻止欧洛伦。可问题在于，勒拉是个灵性白痴。
+
+**派蒙:** 灵性白痴又是什么？
+
+**茜特菈莉:** 就是对灵性完全脱敏的人，他们无法感知、操控灵性，更无法使用相关的法术。
+
+**茜特菈莉:** 反过来，如果他们用特殊方式强行施法…后果你们看到了，就是这位勒拉。
+
+**茜特菈莉:** 我们烟谜主的法术与灵性密不可分，解决问题的手段也如此，所以对灵性白痴而言，一般的治疗手段都不起效。
+
+**茜特菈莉:** 他们一旦因为施法出现问题，就约等于无药可救。
+
+**欧洛伦:** 有药可救的，只要是灵魂层面的事，我就还有办法…
+
+**茜特菈莉:** 听明白了吧？你们应该都知道欧洛伦这小子想干嘛了吧？
+
+**派蒙:** 噢！欧洛伦，你是想用你的特殊体质…会不会对你比较危险？
+
+**欧洛伦:** 不会有事的，奶奶太操心了。我的身体基本没问题了，现在应该能找到安全的办法。我想，只有这样才能找回勒拉的灵性。
+
+**茜特菈莉:** 你想你想，想都别想。如果勒拉的问题有点难办，你会做到什么程度，我还不知道吗？我看你也是个白痴。
+
+**派蒙:** 唔…欧洛伦确实是很会舍己为人的那种，这点让人担忧。但茜特菈莉也是操心的性格，真难办啊…
+
+- **旅行者:** 我支持茜特菈莉，欧洛伦是白痴。
+
+- **旅行者:** 我支持欧洛伦，茜特菈莉才是白痴。
+
+- **旅行者:** 茜特菈莉一定还有办法的吧？
+
+**欧洛伦:** 说我是白痴也无所谓，只要你们支持我，我就能把勒拉的灵性找回来。
+
+**茜特菈莉:** 喂！你把奶奶我当成什么了？什么时候轮到孙子来撑场面了？我当然还有办法。
+
+**茜特菈莉:** 喂！喂！你们都把黑曜石奶奶当成什么了？我当然也有办法！
+
+**茜特菈莉:** 哼哼，那是当然，不然黑曜石奶奶我在这里干什么？
+
+**派蒙:** 噢？！哦？！
+
+**欧洛伦:** 欸？奶奶真的还有办法吗？
+
+**茜特菈莉:** 笨办法也是办法！真是会给人找麻烦，你这臭小子。
+
+**茜特菈莉:** 旅行者，其实我本来就打算联系你的，因为我的办法动静比较大，可能需要你搭把手。
+
+**派蒙:** 那正好呀，欧洛伦已经把我们先找来了！
+
+没问题，要怎么帮忙？
+
+**茜特菈莉:** 我打算从两个方向开始，一个就是大海捞针的笨办法。
+
+**茜特菈莉:** 我在勒拉的周围画下了通往夜神之国的边界之门。就是这个。
+
+**茜特菈莉:** 边界之门发动后，会吸引附近所有游离的灵性，运气好的话，就能找到属于勒拉的部分。
+
+**茜特菈莉:** 旅行者，和之前一样，我会把能力暂时借给你，与你共享暝视，但要依靠这个出神香炉才能实现，别忘了先用。
+
+**茜特菈莉:** 放心，不会再有上次那种意外！你只会感觉自己到了夜神之国，能看见很多游灵，只要把它们都集中起来就好。
+
+**茜特菈莉:** 至于之后的分辨工作，就交给欧洛伦吧，既然他执意要管这件事，就让他干最辛苦的活。
+
+另一个方向呢？
+
+**茜特菈莉:** 利用灵性的本能聚合性质。众所周知，暝视一般都是为了探寻某种神秘。
+
+**茜特菈莉:** 如果我们能够知道勒拉原本想知道的事，就有可能把他失散的灵性吸引过来。
+
+**茜特菈莉:** 我会以勒拉的身体为媒介进行暝视，多少能探查出一些勒拉的所思所想。
+
+**派蒙:** 噢！我有点听明白了，如果说第一个方法是网鱼，第二个方法就是钓鱼。就像前面欧洛伦让旅行者用轻小说来钓你一样！
+
+**欧洛伦:** 唔…派蒙，不举这个例子也没关系的。
+
+**茜特菈莉:** 哈？回头再来收拾你们…
+
+**欧洛伦:** 但是奶奶，你真厉害，居然可以用人为媒介来进行暝视，我一直以为只能用物品。
+
+**茜特菈莉:** 拍马屁也没用，哼哼。一个人如果失去了灵性，剩下的不过是躯壳，和物品也没什么区别。
+
+**茜特菈莉:** 旅行者，那边是我的灵性织机，能记录我暝视出的一些破碎片段，在我开始的时候，请你帮忙把它们拼接到织物上。
+
+**茜特菈莉:** 准备好了就和我说一声，现在要开始干活了。
+
+#### 使用灵性织机编织织物
+
+**欧洛伦:** 加油，旅行者，我们一起把勒拉找回来！
+
+#### 与茜特菈莉交谈
+
+**茜特菈莉:** 准备好了吗？灵性织机的使用方法很简单的。
+
+- **旅行者:** 那我来试试吧。
+
+- **旅行者:** 再等一下。
+
+**茜特菈莉:** 这可能是你第一次接触这些，但我感觉你会做得很好。
+
+**茜特菈莉:** 嗯。

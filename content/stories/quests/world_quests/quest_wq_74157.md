@@ -1,0 +1,589 @@
+# id: quest_wq_74157
+# story_group: world_quests
+# title_ru: Леруа: Прекрасные друзья
+# title_en: Leroy: Beautiful Friends
+# title_zh: 勒鲁瓦·漂亮朋友
+# region: Фонтейн
+# game_version: 4.3
+# release_versions: 4.3
+# source_id: 74157
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 74157
+# previous_quests: quest_wq_74156
+# next_quests: 
+# related_quests: quest_wq_74149,quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74156
+# quest_chain: quest_wq_74149,quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74156,quest_wq_74157
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Леруа: Прекрасные друзья
+
+Вы снова оказались рядом с особняком Леруа...
+
+#### Поговорите с Молли
+
+**Объявление о продаже:** Дом выставлен на продажу. Разумная цена! Успейте купить!
+
+**Молли:** Братец / Сестрица Путешественник, сестрица Паймон, кажется, господин Леруа здесь больше не живёт! Вы его не видели?
+
+**Паймон:** (Хотим ли мы рассказать правду?)
+
+- **Путешественник:** Мы видели его.
+
+- **Путешественник:** Мы его не видели.
+
+**Молли:** Правда? Вы сказали ему, что угощение было очень вкусным?
+
+- **Путешественник:** Да, сказали.
+
+- **Путешественник:** Нет, мы забыли.
+
+**Молли:** Я знала, что братец / сестрица Путешественник не забудет! Вы лучше всех. Я принесла пузырины - угощайтесь!
+
+**Молли:** Очень жаль. Думаю, у меня никогда не будет возможности сказать об этом господину Леруа. А пузырины... Возьми их.
+
+**Молли:** О, как жаль. Наверное, я больше никогда не увижу господина Леруа.
+
+**Молли:** Я принесла пузырины и хотела угостить его, если увижу... но, раз он здесь больше не живёт, может быть, вы возьмёте их?
+
+**Молли:** Как бы то ни было, я всегда буду помнить господина Леруа! Пока-пока!
+
+Молли вздыхает, машет рукой на прощание, и как раз в тот момент, когда она собирается уходить...
+
+Дверь открывается, и оттуда выходят Осень и Атос.
+
+**Мортиша:** Так вот чьи голоса мы слышали снаружи! Что вам ещё нужно?
+
+- **Путешественник:** Мы просто проходили мимо.
+
+- **Путешественник:** А Бенуа?
+
+- **Путешественник:** Как дела у Бенуа?
+
+**Атос:** Да неужели? Мир так тесен. А мы с Осенью как раз собирались уходить.
+
+**Атос:** О, он отправился в другое место. Туда, куда мы попадём только через несколько десятилетий. Вряд ли вы увидите его в ближайшее время.
+
+**Атос:** Хотя... не стоит загадывать. Никогда не знаешь, что наступит раньше - завтрашний день или безвременная кончина.
+
+**Атос:** Этот мир полон несправедливости, нищеты и алчности. Наказание, которое не могут назначить законы Фонтейна, мы исполним вместо них.
+
+**Атос:** Я хочу сказать, что он отправился туда, где ему самое место.
+
+**Атос:** А не та ли это маленькая плутовка, которая постоянно его ищет?
+
+**Мортиша:** ...
+
+**Молли:** Здравствуйте, тётя!
+
+**Мортиша:** ...Так похожи, и те же фиалковые глаза...
+
+**Молли:** Что-то случилось?
+
+**Мортиша:** Сколько тебе лет?
+
+**Молли:** Девять!
+
+**Мортиша:** Как зовут твоих родителей?
+
+**Молли:** Э-э... Тётя, с вами всё в порядке?
+
+**Атос:** Что случилось? С девочкой что-то не так? Подожди, это ведь не может быть совпадением?
+
+**Мортиша:** Тебя удочерили? Скажи мне.
+
+**Молли:** Братец / Сестрица Путешественник, ты знаешь эту тётеньку?
+
+**Атос:** Кто задаёт такие вопросы? Позвольте мне.
+
+**Атос:** Юная барышня, я помню, что вы дружны с нашим папой, верно?
+
+**Молли:** Да! Господин Леруа очень хорошо ко мне относится. Дяденька, он здесь больше не живёт?
+
+**Атос:** Верно, он уехал очень далеко и больше не вернётся.
+
+**Атос:** О чём наш папа обычно говорит с тобой? Можешь сказать? Я поеду к нему в гости и расскажу, как ты по нему соскучилась.
+
+**Молли:** Господин Леруа всегда угощает меня лакомствами, разрешает погладить Нану и говорит, что у меня красивые глаза!
+
+**Атос:** А что ещё?
+
+**Молли:** Он часто просит меня передать от него привет маме и папе, но им это очень не нравится...
+
+**Молли:** Папа очень сердится и говорит, что господин Леруа плохой человек и что он их шантажирует.
+
+**Молли:** Они запретили мне приходить сюда, но я договорилась с господином Леруа и тайком посещаю его. Пожалуйста, не говорите папе, дяденька!
+
+**Мортиша:** Это в его духе. Он не перестанет давить, пока не выжмет всё до последней капли.
+
+**Атос:** Сволочь... Простите. Это я о другом.
+
+**Молли:** Дяденька, тётенька, вы хотите спросить ещё что-нибудь? Если нет, то я пойду домой.
+
+**Мортиша:** Твои мама и папа любят тебя?
+
+**Молли:** Они самые лучшие родители на свете!
+
+**Мортиша:** ...
+
+**Мортиша:** Я рада.
+
+**Молли:** Мне пора домой. Дяденька, тётенька, до свидания!
+
+**Мортиша:** Пока.
+
+- **Путешественник:** И это всё?
+
+- **Путешественник:** Ты ничего ей не расскажешь?
+
+**Мортиша:** Я много раз представляла себе нашу встречу... Но нет ничего лучше, чем знать, что она счастлива. Для меня этого достаточно.
+
+**Мортиша:** Я... Я не мой отец. Я не хочу создавать проблемы её приёмной семье.
+
+**Атос:** Это не моё дело, но ты купила музыкальную шкатулку. Не хочешь подарить ей?
+
+**Мортиша:** ...
+
+**Мортиша:** Нет, в этом нет необходимости. Она... не похожа на ребёнка, который испытывает недостаток в подобных вещах.
+
+**Мортиша:** Я придумаю способ навещать её в будущем. В чём бы она ни нуждалась, я найду способ достать это.
+
+**Мортиша:** ...Я подарю музыкальную шкатулку кому-нибудь другому. В конце концов, я потратила много времени и сил, чтобы её выбрать.
+
+**Мортиша:** Прошу прощения, маленькая беловолосая девочка... Любишь подарки?
+
+**Паймон:** Ты Паймон спрашиваешь? Ты хочешь подарить шкатулку Паймон?
+
+**Мортиша:** Да. Не стесняйся пользоваться ею. Надеюсь, этот подарок будет иметь для тебя хоть какую-то ценность.
+
+**Мортиша:** Прости, Атос. Думаю, нам придётся задержаться в Кур-де-Фонтейне на некоторое время.
+
+**Атос:** Как скажешь, мне всё равно. Идём.
+
+Вы смотрите, как они уходят. Так заканчивается история семьи Леруа.
+
+**Объявление о продаже:** Дом выставлен на продажу. Разумная цена! Успейте купить!
+
+**Молли:** Братец / Сестрица Путешественник и сестрица Паймон! Вы пришли поговорить с господином Леруа?
+
+- **Путешественник:** Бенуа дома?
+
+- **Путешественник:** Мы просто проходили мимо.
+
+**Молли:** Его здесь нет. Папа сказал, что господин Леруа здесь больше не живёт. Теперь он будет жить под землёй.
+
+**Молли:** Я как раз думала, не сказать ли вам, что господин Леруа переехал.
+
+**Молли:** Папа сказал, что господин Леруа здесь больше не живёт. Теперь он будет жить под землёй.
+
+Во Флёв Сандр?
+
+**Паймон:** Это тот самый Флёв Сандр, в котором мы были ранее?
+
+**Молли:** Скорее всего, нет. Отец сказал, что господин Леруа ушёл гораздо глубже под землю.
+
+**Молли:** В «Паровой птице» написано, что господин Леруа поднимался на гору и упал с большой высоты.
+
+**Молли:** Если честно, я не понимаю, как связаны неудачное падение и переезд...
+
+**Молли:** Кстати, я видела зятя господина Леруа! И с ним была очень милая тётенька.
+
+**Молли:** Я ей понравилась, а ещё у нас одинаковые глаза! Фиалковые.
+
+**Молли:** Она спросила, где я живу. Сказала, что будет навещать меня, когда будет время, и что станет моей подругой! В семье Леруа все такие хорошие!
+
+**Молли:** Ох, я принесла пузырины для господина Леруа, но его здесь нет...
+
+**Молли:** Можно подарить их вам?
+
+**Паймон:** Спасибо, Молли.
+
+**Молли:** Не за что! Мама и папа всегда говорят, что мы должны быть щедрыми с друзьями.
+
+**Молли:** Ура! Сегодня я сделала ещё одно хорошее дело! Вернусь домой и запишу в дневник!
+
+Счастливая Молли уходит. На этом история Леруа заканчивается.
+
+## EN
+
+### Leroy: Beautiful Friends
+
+You find yourselves passing by the Leroy residence again...
+
+#### Talk to Molli
+
+**House-for-Sale Notice:** This house is for sale. Very reasonable price — purchase before it's too late!
+
+**Molli:** Mr. / Ms. Traveler, Ms. Paimon, it seems like Mr. Leroy doesn't live here anymore! Have you seen him?
+
+**Paimon:** (Hey, do we want to tell the truth?)
+
+- **Traveler:** We ran into him.
+
+- **Traveler:** Haven't bumped into him.
+
+**Molli:** So you did see him! Did you tell him the snacks were delicious?
+
+- **Traveler:** We did.
+
+- **Traveler:** We forgot.
+
+**Molli:** I knew Mr. / Ms. Traveler was trustworthy! You're the best. I brought some Bulle Fruit over — have some with me!
+
+**Molli:** Oh, really? That's a pity. I guess I'll never get a chance to let Mr. Leroy know. As for the Bulle Fruit I brought over... I guess I should just give it to you.
+
+**Molli:** Oh, that's a pity. I suppose I'll never get to see Mr. Leroy again, huh.
+
+**Molli:** I brought some Bulle Fruit over, and was planning on giving them to him if I saw him... but since he doesn't live here anymore, why don't you take them?
+
+**Molli:** But no matter what, I think I'll always remember Mr. Leroy! Bye bye!
+
+Molli sighs, and waves goodbye, and just as she is about to leave...
+
+The door opens, and Autumn and Athos walk out.
+
+**Morticia:** So it was your voices we heard outside. Is there still something you want?
+
+- **Traveler:** We were just passing by.
+
+- **Traveler:** And Benoit?
+
+- **Traveler:** How's Benoit?
+
+**Athos:** Really? Small world. Autumn and I were just leaving.
+
+**Athos:** Oh, he's already gone somewhere else. A place that we'll only be going after a few more decades. I don't think you will be seeing him anytime soon.
+
+**Athos:** Though that's hard to say. Which will come first, tomorrow or an untimely end? Who knows?
+
+**Athos:** This world is full of inequity, extreme poverty, and excessive greed. The punishment that the laws of Fontaine fail to mete out, we shall execute in their stead.
+
+**Athos:** I mean to say, he has gone to where he belongs.
+
+**Athos:** Ah, and isn't this the little rascal who's always looking for him?
+
+**Morticia:** ...
+
+**Molli:** Hi, Lady!
+
+**Morticia:** ...You look just like me. And you even have lavender eyes...
+
+**Molli:** L—Lady, can I help you...?
+
+**Morticia:** How old are you?
+
+**Molli:** I'm nine!
+
+**Morticia:** What are your parents' names?
+
+**Molli:** Uh... Are you okay, Lady?
+
+**Athos:** Your expression... Is something wrong with the kid? ... Wait, this can't be a coincidence, can it?
+
+**Morticia:** Are you adopted? Tell me.
+
+**Molli:** ...Mr. / Ms. Traveler, do you know this lady? What is she doing...
+
+**Athos:** Who asks questions like that? Allow me.
+
+**Athos:** Young miss, I remember you're very close with our Dad, right?
+
+**Molli:** Yeah! Mr. Leroy treats me really well. Mr. Son-in-Law, does he not live here anymore?
+
+**Athos:** That's right, he's gone somewhere very far away and won't be coming back again.
+
+**Athos:** What does our Dad usually talk with you about? Can you tell me? When I go back, I can tell him how much you miss him.
+
+**Molli:** Mr. Leroy always treats me to snacks, lets me pet Nana, and tells me my eyes are pretty!
+
+**Athos:** Anything else?
+
+**Molli:** He often tells me to say hi to my Mama and Papa for him, but they really don't like that...
+
+**Molli:** Papa gets really angry and says that Mr. Leroy is a bad person, and that he's "blackmailing" them.
+
+**Molli:** Though they've forbidden me from coming here, I made an agreement with Mr. Leroy, so I sneak over. Please don't tell Papa, Mister!
+
+**Morticia:** That's just like him. He won't stop squeezing until he's wrung the last drop of value out.
+
+**Athos:** ...That bastard. ...Sorry. We were talking about something else just now.
+
+**Molli:** M—Mister, Lady, is there anything else? If not, then I—I'll just go home now.
+
+**Morticia:** ...Do your mother and father love you?
+
+**Molli:** They're the best parents in the whole wide world.
+
+**Morticia:** ...
+
+**Morticia:** That's good, then.
+
+**Molli:** I'm going home now! Bye, Lady! Bye, Mister!
+
+**Morticia:** Goodbye.
+
+- **Traveler:** Is this really okay?
+
+- **Traveler:** You don't plan on telling her?
+
+**Morticia:** I have imagined this scene time and time again... But nothing is better than knowing that she's happy. That's enough for me.
+
+**Morticia:** I... I'm not my father. I don't want to cause trouble for her current family.
+
+**Athos:** I don't mean to be that guy, but didn't you buy a music box for her? Are you not going to give it to her now?
+
+**Morticia:** ...
+
+**Morticia:** No, there's no need. She... doesn't look like she lacks for things like that.
+
+**Morticia:** I'll think of ways to keep visiting her in the future. Whatever she needs, I'll find a way.
+
+**Morticia:** ...I'll give the music box to someone else. After all, I spent a lot of time and effort picking it out.
+
+**Morticia:** Excuse me, little white-haired girl... Do you like gifts?
+
+**Paimon:** Do you mean Paimon? Wait, you want to give this to Paimon?
+
+**Morticia:** Yes, I do. It's a gift, so please, enjoy it. I hope it will still have some bit of value to you.
+
+**Morticia:** Sorry, Athos, but I think we'll need to stay in the Court of Fontaine a bit longer.
+
+**Athos:** Don't worry, it's all the same to me. Let's go.
+
+You watch the two of them walk away, leaving this street behind — thus does the story of the Leroy family draw to an end.
+
+**House-for-Sale Notice:** This house is for sale. Very reasonable price — purchase before it's too late!
+
+**Molli:** Mr. / Ms. Traveler and Ms. Paimon! Are you guys here to talk to Mr. Leroy?
+
+- **Traveler:** Is Benoit at home?
+
+- **Traveler:** We were just passing by.
+
+**Molli:** He isn't here. Father said Mr. Leroy will never live here again — he's gone to live underground.
+
+**Molli:** I was just thinking if I should tell you that Mr. Leroy moved.
+
+**Molli:** Father said Mr. Leroy will never live here again, and that he's gone to live underground.
+
+In the Fleuve Cendre?
+
+**Paimon:** Is it the same Fleuve Cendre we went to before?
+
+**Molli:** If so, then no, not that place. Father said he's gone much deeper underground.
+
+**Molli:** The Steambird said that Mr. Leroy fell from a very high place while climbing a mountain, and went tumbling down.
+
+**Molli:** Though to be honest, I don't really know how having a bad fall and moving are connected...
+
+**Molli:** By the way, I saw Mr. Leroy's son-in-law! And there was a very nice lady too.
+
+**Molli:** The lady really liked me, and she has the same eyes as I do! Our eyes are both lavender.
+
+**Molli:** She even asked me where I lived, and said she'd come see me if she had time, and be my good friend! I guess everyone in the Leroy family is a good person!
+
+**Molli:** *sigh* I even brought some Bulle Fruit over for Mr. Leroy, but since he isn't there...
+
+**Molli:** Can I give it to you, instead?
+
+**Paimon:** Thank you, Molli!
+
+**Molli:** Don't mention it! Mama and Papa always say we should be generous with our friends.
+
+**Molli:** I did another good thing today! I'm going to go back and write it in my diary, yay!
+
+As you watch the happy Molli leave that street behind, the story of the Leroy family draws to an end.
+
+## ZH
+
+### 勒鲁瓦·漂亮朋友
+
+你们再次路过勒鲁瓦家附近…
+
+#### 与茉莉对话
+
+**房屋出售信息:** 此屋待售。价格实惠，欲购从速。
+
+**茉莉:** 旅行者哥哥 / 姐姐，还有派蒙姐姐，勒鲁瓦先生好像不住在这里了。你们后来见过他吗？
+
+**派蒙:** （喂，要说实话吗？）
+
+- **旅行者:** 见过。
+
+- **旅行者:** 没见过。
+
+**茉莉:** 原来你们见过！那你帮我告诉他点心很好吃了吗？
+
+- **旅行者:** 说了。
+
+- **旅行者:** 忘记了。
+
+**茉莉:** 我就知道旅行者哥哥 / 姐姐会守信用，你们真好，我带了泡泡桔过来，请你们一起吃。
+
+**茉莉:** 啊，好吧。那太遗憾了，唉，看来我是再也没机会让勒鲁瓦先生知道了。那我带过来的泡泡桔…还是送给你们好了。
+
+**茉莉:** 啊，那太可惜了，我应该再也见不到勒鲁瓦先生了。
+
+**茉莉:** 我带了泡泡桔过来，本来觉得说不定能见到勒鲁瓦先生，既然他不住在这里了，这些桔子就给哥哥姐姐 / 姐姐们吧。
+
+**茉莉:** 不管怎么说，我想我会一直记得勒鲁瓦先生的。再见啦。
+
+茉莉叹了口气，向你们挥手作别，正打算离开这条街道…
+
+大门打开，秋和阿托斯从屋内走了出来。
+
+**莫蒂西娅:** 果然外面的声音是你们。还有什么事吗？
+
+- **旅行者:** 只是正巧路过。
+
+- **旅行者:** 伯努瓦呢？
+
+- **旅行者:** 伯努瓦怎么样了？
+
+**阿托斯:** 是吗？世界真小。正好我和秋也打算离开了。
+
+**阿托斯:** 哦，他已经去别的地方了，那个地方我们几十年后才会去，你们短期内应该见不到他了。
+
+**阿托斯:** 不过这也不好说，明天和意外究竟哪个先来？谁知道呢？
+
+**阿托斯:** 这个世界上充满了不均衡，过度的贫乏和过度的贪婪，枫丹的律法没能施予的惩罚，就由我们自己施予吧。
+
+**阿托斯:** 我的意思是，他去他该去的地方了。
+
+**阿托斯:** 这不是那个总来找伯努瓦的小鬼吗？
+
+**莫蒂西娅:** ……
+
+**茉莉:** 阿姨你好。
+
+**莫蒂西娅:** …太像了，还有紫色的眼睛…
+
+**茉莉:** 阿、阿姨有什么事吗？
+
+**莫蒂西娅:** 你多大了？
+
+**茉莉:** 我九岁。
+
+**莫蒂西娅:** 你爸爸妈妈叫什么？
+
+**茉莉:** 唔…阿姨怎么了？
+
+**阿托斯:** 你的表情…这个小孩怎么了？…总不会这么巧吧？
+
+**莫蒂西娅:** 告诉我你是不是被收养的，快。
+
+**茉莉:** …旅行者哥哥 / 姐姐，这个阿姨你认识吗？她要干什么…
+
+**阿托斯:** 哪有你这么问的，我来吧。
+
+**阿托斯:** 小姑娘，我记得你和爸爸关系很好，对吧？
+
+**茉莉:** 对，勒鲁瓦先生对我特别好。女婿叔叔，他是不住在这里了吗？
+
+**阿托斯:** 没错，他去了很远的地方，以后不回来住了。
+
+**阿托斯:** 爸爸他平常都和你们聊些什么呀？可以告诉我吗，回去我可以告诉爸爸，你很想念他。
+
+**茉莉:** 勒鲁瓦先生请我吃点心，让我摸娜娜，还会夸我眼睛好看！
+
+**阿托斯:** 还有呢？
+
+**茉莉:** 他经常让我代他向爸爸妈妈问好，虽然爸爸妈妈非常不喜欢这样…
+
+**茉莉:** 每次爸爸都会很生气，说勒鲁瓦先生是坏人，是「勒索」他们。
+
+**茉莉:** 虽然爸爸妈妈不许我过来，但是我和勒鲁瓦先生约好了，所以我还是会偷偷过来，叔叔你不要告诉我爸爸哦。
+
+**莫蒂西娅:** 他就是会做这样的事，不把最后一点价值榨干绝对不停手。
+
+**阿托斯:** …混账…不好意思，刚才我们在说别的事。
+
+**茉莉:** 叔、叔叔阿姨还有别的事情吗？没有的话，我、我先回家了。
+
+**莫蒂西娅:** …你的爸爸和妈妈爱你吗？
+
+**茉莉:** 他们是世界上最好的爸爸和妈妈。
+
+**莫蒂西娅:** ……
+
+**莫蒂西娅:** 这很好。
+
+**茉莉:** 我要回家了，叔叔阿姨再见。
+
+**莫蒂西娅:** 再见。
+
+- **旅行者:** 这样就行了？
+
+- **旅行者:** 不打算让她知道？
+
+**莫蒂西娅:** 这个场景我想象过很多次…没有一个比知道她过得幸福更好，这样就够了。
+
+**莫蒂西娅:** 我…不是我父亲，我不打算给她现在的家庭找麻烦。
+
+**阿托斯:** 不是我故意扫兴，你不是买了一个音乐盒给她吗？也不送了？
+
+**莫蒂西娅:** ……
+
+**莫蒂西娅:** 没有必要了，她…看起来不缺这种东西。
+
+**莫蒂西娅:** 以后我会经常想办法来看她的，她需要什么我会想办法。
+
+**莫蒂西娅:** …这个盒子我送给别人吧，好歹挑了那么久。
+
+**莫蒂西娅:** 白头发的小女孩，你喜欢礼物吗？
+
+**派蒙:** 我吗？你要送给我？
+
+**莫蒂西娅:** 是的，就送给你，让它发挥最后一点价值吧。
+
+**莫蒂西娅:** 阿托斯，抱歉，我们还要在枫丹廷逗留一阵。
+
+**阿托斯:** 没关系，去哪里对我来说都一样。走吧。
+
+你们目送他俩走出这条街，勒鲁瓦一家的故事就此结束。
+
+**房屋出售信息:** 此屋待售。价格实惠，欲购从速。
+
+**茉莉:** 旅行者哥哥 / 姐姐，还有派蒙姐姐，你们是来找勒鲁瓦先生的吗？
+
+- **旅行者:** 伯努瓦在家吗？
+
+- **旅行者:** 只是正巧路过。
+
+**茉莉:** 不在这里，爸爸说勒鲁瓦先生不会再住在这里了，他住到地下去了。
+
+**茉莉:** 我刚才在想，要不要告诉哥哥姐姐 / 姐姐们，勒鲁瓦先生搬家了。
+
+**茉莉:** 爸爸说勒鲁瓦先生不会再住在这里了，他住到地下去了。
+
+灰河？
+
+**派蒙:** 是我们之前去过的那个灰河吗？
+
+**茉莉:** 那个的话，不是的，爸爸说的是更地下的地下。
+
+**茉莉:** 蒸汽鸟报上说，勒鲁瓦先生爬山的时候从很高的地方摔下来，摔了一个大跟头。
+
+**茉莉:** 其实我不是很明白摔跟头和搬家之间有什么联系…
+
+**茉莉:** 对了，我刚刚来的时候见到女婿叔叔了，还有一个非常好心的大姐姐。
+
+**茉莉:** 大姐姐很喜欢我，她的眼睛和我一样，都是紫色的呢。
+
+**茉莉:** 她还问了我家住在哪里，说有空会去看望我，做我的好朋友。果然勒鲁瓦先生一家都是很好的人。
+
+**茉莉:** 唉，本来带了泡泡桔过来想送给勒鲁瓦先生的，现在他不在这里…
+
+**茉莉:** 哥哥姐姐 / 姐姐们，我送给你们吧？
+
+**派蒙:** 谢谢你，小茉莉。
+
+**茉莉:** 不客气啦，爸爸妈妈说对待朋友要慷慨。
+
+**茉莉:** 今天我又做了一件好事，回去我就把它写到日记里去，开心！
+
+你目送快乐的茉莉走出这条街，勒鲁瓦一家的故事就此结束。

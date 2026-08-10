@@ -1,0 +1,187 @@
+# id: quest_wq_70674
+# story_group: world_quests
+# title_ru: Божественное мастерство: Коллекционирование
+# title_en: Divine Ingenuity: Collector's Chapter
+# title_zh: 神工天巧·宝录之章
+# region: Мондштадт
+# game_version: 3.7
+# release_versions: 3.7
+# source_id: 70674
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 70674
+# previous_quests: 
+# next_quests: 
+# related_quests: 
+# quest_chain: quest_wq_70674
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Божественное мастерство: Коллекционирование
+
+Вы вновь встречаете Хун Лана неподалёку от Мондштадта. Похоже, он исследует загадочное подземелье...
+
+#### Поговорите с Хун Ланом
+
+**Хун Лан:** Почему на этот раз в Мондштадте?..
+
+- **Путешественник:** Хун Лан?
+
+- **Путешественник:** Это...
+
+**Хун Лан:** Путешественник? Вот так встреча! Не ожидал увидеть тебя здесь...
+
+**Хун Лан:** Что касается нынешней ситуации... Просто посмотри на дверь рядом со мной. Полагаю, ты всё понял(а).
+
+- **Путешественник:** То подземелье снова появилось?
+
+- **Путешественник:** Ты же уже исследовал подобное подземелье?
+
+**Хун Лан:** Именно так. Благодаря твоей помощи в исследовании того подземелья мы смогли получить много важных данных.
+
+**Хун Лан:** Однако у нас не было возможности получить более полезную информацию о том подземелье извне. Разумеется, Гильдия пыталась, но увы.
+
+**Хун Лан:** В связи с этим, мы хотели отправить туда больше людей. Мы даже позвали искателей приключений из других Гильдий... но подземелье вдруг исчезло.
+
+**Хун Лан:** И больше мы о нём не слышали до тех пор, пока оно не появилось снова в Мондштадте. Я здесь благодаря искателям приключений из местной Гильдии, которые своевременно оповестили нас о подземелье.
+
+Вы уже начали исследование?
+
+**Хун Лан:** Конечно! Разве можно отказаться от представившейся возможности?
+
+**Хун Лан:** Правила подземелья почти не поменялись. Оно по-прежнему создаёт разные вещи в зависимости от воображения вошедшего в него.
+
+**Хун Лан:** Но по мере того, как мы углублялись в подземелье, мы обнаружили, что теперь оно может создавать определённых «противников».
+
+**Хун Лан:** Они атаковали нас и выдворили из подземелья. Это было весьма болезненно.
+
+**Хун Лан:** Как бы это сказать... Это ничем не отличалось от настоящего сражения, которое другие искатели приключений сочли бы увлекательным.
+
+**Хун Лан:** Но многие навоображали противников, которых не смогли победить, и в итоге им понадобилась помощь...
+
+**Хун Лан:** Кхе... В общем, неважно. Не согласишься ли ты ещё раз исследовать это подземелье вместе с нами?
+
+- **Путешественник:** Конечно.
+
+- **Путешественник:** Это не слишком опасно?
+
+**Хун Лан:** Ха-ха-ха, замечательно! С твоей помощью нас ждёт успех, я уверен.
+
+**Хун Лан:** Думаю, с тобой всё будет в порядке. Просто соблюдай осторожность!
+
+**Хун Лан:** В общем, если ты согласишься исследовать подземелье вместе с нами, нас ждёт успех, я уверен.
+
+## EN
+
+### Divine Ingenuity: Collector's Chapter
+
+You once again encounter Honglang in the outskirts of Mondstadt. He appears to still be investigating that strange Domain...
+
+#### Talk to Honglang
+
+**Honglang:** Why is it in Mondstadt this time...
+
+- **Traveler:** Honglang?
+
+- **Traveler:** This is...
+
+**Honglang:** Traveler? What a coincidence! I didn't expect you to be here...
+
+**Honglang:** As for the present situation... Well, just look at this door next to me. I suppose you already understand.
+
+- **Traveler:** So a Domain of that kind has appeared again?
+
+- **Traveler:** Is this the same sort of Domain as that other one you were investigating?
+
+**Honglang:** That's right. Thanks to your help in investigating that other Domain, we were able to obtain all manner of important data.
+
+**Honglang:** However, there wasn't any way of getting more useful information on that Domain from the outside. Not for lack of trying by the Guild, but still.
+
+**Honglang:** As such, we were getting ready to send more people into it. We'd even called people from other Guilds in... but then it vanished.
+
+**Honglang:** And that was the last we heard of it until it showed up today in Mondstadt. I only got here in time thanks to timely notice from our colleagues in Mondstadt.
+
+Have you started exploring it?
+
+**Honglang:** Of course. Why would I fall back with the prize before me?
+
+**Honglang:** The rules of this Domain haven't changed a great deal. It still creates various things based on the imaginations of those who enter it.
+
+**Honglang:** But as we plumbed its depths, we found that this Domain is now able to create certain "enemies."
+
+**Honglang:** They would attack us, and we actually felt real pain when they did.
+
+**Honglang:** How should I put this... It was no different from a real battle, which the other adventurers found rather interesting.
+
+**Honglang:** However, some of them conjured foes they could not beat, and wound up needing help to beat them...
+
+**Honglang:** *cough* But never mind that. If you're willing, Traveler, could you explore this Domain together with us once again?
+
+- **Traveler:** No problem.
+
+- **Traveler:** It won't be too dangerous, will it...
+
+**Honglang:** Hahaha, wonderful, then! With your help, I'm sure that progress will be smooth indeed.
+
+**Honglang:** Um, I reckon you'll be fine. Just be cautious!
+
+**Honglang:** Regardless, if you're willing to explore this Domain with us, I'm sure that progress will be smooth indeed.
+
+## ZH
+
+### 神工天巧·宝录之章
+
+在蒙德郊外，你又遇见了宏朗，他似乎依然在研究那一处奇异的秘境…
+
+#### 与宏朗对话
+
+**宏朗:** 怎么这次跑到蒙德来了…
+
+- **旅行者:** 宏朗？
+
+- **旅行者:** 这是…
+
+**宏朗:** 旅行者！真是太巧了，没想到会在这里遇见你。
+
+**宏朗:** 至于现在的情况…看看旁边这道门，你应该差不多明白了吧。
+
+- **旅行者:** 上次的那种秘境又出现了？
+
+- **旅行者:** 是你一直在研究的那种秘境？
+
+**宏朗:** 没错。多亏了你上次帮忙探索了那处秘境，我们得到了很多宝贵的资料。
+
+**宏朗:** 不过…虽然协会也已经帮忙四处调查，但几乎没有从外界找到更多有价值的信息。
+
+**宏朗:** 我们正准备派出更多人手探索，甚至联系了其他协会的人来帮忙，这个秘境却突然消失了…
+
+**宏朗:** 直到今天，它才突然出现在了蒙德…多亏了蒙德冒险家协会的兄弟传来了消息，我才能第一时间赶来。
+
+你们开始探索了吗？
+
+**宏朗:** 那是当然，秘境就摆在面前，我们可没有退缩的道理。
+
+**宏朗:** 这个秘境的「规则」似乎没有变太多，依然是根据进入者的念头而拟想出某种物品。
+
+**宏朗:** 但在探索过程中，我们发现…这处秘境居然可以变化出一些「敌人」了。
+
+**宏朗:** 这些「敌人」会对我们发动攻击，被攻击到后，我们也会感受到真实的痛感。
+
+**宏朗:** 怎么说呢…简直和真实的「战斗」没什么两样了，冒险家们对这件事也十分感兴趣。
+
+**宏朗:** 但是，有些冒险家连自己拟想出的「敌人」都打不过，还要别人帮他搞定，真是…
+
+**宏朗:** 咳！不说这些了，旅行者，如果你愿意的话，就再和我们一起探索这处秘境吧。
+
+- **旅行者:** 没问题。
+
+- **旅行者:** 我不会遇见啥危险吧…
+
+**宏朗:** 哈哈哈，那太好了！有你帮忙，我们的工作一定能事半功倍。
+
+**宏朗:** 呃…以你的身手，只要提高警惕，应该不会有问题的。
+
+**宏朗:** 总之，如果你愿意的话，就帮我们探索一下这处秘境吧，有你帮忙，我们的工作一定能事半功倍。

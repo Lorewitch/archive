@@ -1,0 +1,541 @@
+# id: quest_wq_75021
+# story_group: world_quests
+# title_ru: Пусть звезда исполнит желание
+# title_en: To Wish Upon a Star
+# title_zh: 向星星许愿
+# region: Натлан
+# game_version: 5.0
+# release_versions: 5.0
+# source_id: 75021
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 75021
+# previous_quests: 
+# next_quests: 
+# related_quests: 
+# quest_chain: quest_wq_75021
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Пусть звезда исполнит желание
+
+Вы встретили ребёнка, который ищет осколки упавшей звезды...
+
+#### Сцена
+
+**Орко:** Папа наверняка обрадуется...
+
+#### Сцена
+
+**Орко:** Эй, чего ты ждёшь? Скорее помести разбросанные осколки обратно на звезду!
+
+#### Сцена
+
+**Орко:** Ух ты! Потрясающе! Вы нашли все осколки!
+
+**Орко:** Я скопил немало карманных средств, помогая маме Коко. Я отдам вам всё до последней моры, если вы отдадите мне осколки звезды!
+
+**Паймон:** Осколки звезды? Для чего они? И что здесь делает маленький ребёнок, причём один?
+
+**Орко:** ...Все зовут меня Орко, так что и вы тоже можете так меня называть. Хотя это всего лишь кодовое имя...
+
+**Орко:** Я здесь лишь затем, чтобы собрать осколки звезды! Вы ведь видели большой камень внизу? Это звезда, упавшая с неба!
+
+**Орко:** Если собрать разбросанные осколки и вернуть их на место, то можно обрести утраченную силу... Пожалуйста, я умоляю вас, мне очень нужны эти осколки звезды...
+
+- **Путешественник:** Звучит довольно сомнительно...
+
+- **Путешественник:** Неужели они настолько потрясающие? Тогда я точно не могу отдать их тебе.
+
+**Паймон:** Паймон согласна... Но ведь это тоже считается подсказкой, верно? Давай попробуем и посмотрим, что получится.
+
+**Паймон:** Эй, он же ребёнок! Полегче. Мы не знаем, правда это или нет, но почему бы не попробовать?
+
+**Паймон:** Но всё же, осколки звезды, утраченная сила и всё такое... Больше похоже на роман.
+
+**Орко:** Вы не слышали историю о Койллор и Укуку? Мой папа рассказывал мне её миллион раз, я её уже наизусть выучил. С радостью перескажу вам!
+
+**Орко:** Но давайте сначала спустимся всё вместе!
+
+*Вы с Орко идёте к упавшей звезде...*
+
+**Орко:** Поскорее верни осколки на звезду! Ух ты... Интересно, какая сила пробудится? Может, я тоже смогу подняться в небо... Хе-хе!
+
+#### Сцена
+
+**Паймон:** Эй, что ты здесь делаешь?
+
+**Орко:** ...А! Ты меня до полусмерти напугала! А если бы я упал? Как бы ты расплатилась со мной? Мои скрытые силы ещё не пробудились, знаешь ли. Я всего лишь беспомощный ребёнок.
+
+**Паймон:** Ах! Прости, Паймон не хотела тебя напугать! Но... скрытые силы? Это какая-то супер-пупер способность?
+
+**Орко:** Слушай, она не просто так называется скрытой. Если она скрыта, откуда мне знать, что это такое?
+
+- **Путешественник:** Логично.
+
+- **Путешественник:** Такой юный, а уже так много болтает.
+
+**Орко:** Давай пока не будем об этом. Ты можешь помочь мне найти осколки звезды? Я скопил немало карманных средств, помогая маме Коко, и ты можешь взять всё до последней моры.
+
+**Паймон:** Раз уж ты просишь нас о помощи, то мог бы хотя бы представиться. Кстати, Паймон зовут Паймон, а это Путешественник.
+
+**Орко:** Имя, которое я использую сейчас, кодовое... Но все зовут меня Орко, так что ты тоже можешь так меня называть. Итак, вы поможете с осколками звезды?
+
+**Паймон:** И всё-таки... Что такое осколок звезды? Не похоже, что его будет легко достать.
+
+**Орко:** Это осколки, отколовшиеся от упавших с неба звёзд! Если найти их и вернуть на прежнее место, можно получить утраченную силу.
+
+**Орко:** Смотрите! Внизу лежит упавшая звезда, там должны быть подсказки, которые позволят найти осколки звезды. Пожалуйста, помогите мне!
+
+**Паймон:** Ладно, ладно, на этот раз мы тебе поможем! Но всё же, осколки звезды, утраченная сила и всё такое... Больше похоже на роман.
+
+**Орко:** Вы не слышали историю о Койллор и Укуку? Мой папа рассказывал мне её миллион раз, я её уже наизусть выучил. С радостью перескажу вам!
+
+**Орко:** Но давайте сначала спустимся и осмотрим всё вместе!
+
+#### Поговорите с Орко
+
+**Орко:** Фух! Я бы один не справился, спасибо!
+
+**Паймон:** Так это и есть упавшая звезда? Если присмотреться...
+
+- **Путешественник:** А-а-а-а-а! Таинственная сила проникает в моё тело!
+
+- **Путешественник:** Какой странный камень.
+
+**Паймон:** Что?! Правда? Но мы же даже осколки ещё не нашли!
+
+**Паймон:** Кстати, об осколках. Здесь есть подсказки, где их искать? Паймон ничего не видит...
+
+**Паймон:** Он определённо выглядит необычно... Может, Паймон чего-то не понимает, но Паймон не чувствует никакой таинственной силы, исходящей от него?
+
+**Паймон:** Что будем делать дальше?
+
+**Орко:** Придётся прибегнуть к грубой силе. Ударь по нему всей мощью тепетлизавра, и, возможно, мы узнаем, где находятся недостающие осколки.
+
+**Орко:** Грубая сила может решить большинство проблем! Так говорит мой отец. Но я до сих пор не пробудил в себе силу, да и своего завриана у меня нет... Так что ты - всё, что у меня есть.
+
+#### Поговорите с Орко
+
+**Паймон:** Вот и всё, да? Это поручение оказалось гораздо проще, чем Паймон думала! И всё же, разве такие чудесные способности существуют? Раньше Паймон была настроена весьма скептически...
+
+Паймон тоже хочет пробудить скрытые силы?
+
+**Паймон:** Конечно! Если бы у Паймон была суперспособность к поиску сокровищ или возможность уничтожить любого монстра одним ударом, разве это не было бы круто и не упростило бы жизнь? Ну же, Путешественник, разве ты не хочешь этого?
+
+- **Путешественник:** Мне нужно больше силы!
+
+- **Путешественник:** Я и так достаточно (сильна)(силён).
+
+**Паймон:** О!
+
+**Паймон:** А? Разве не говорят, что путь к силе бесконечен?
+
+**Орко:** Поскорее верни осколки на звезду! Ух ты... Интересно, какая сила пробудится? Может, я тоже смогу подняться в небо... Хе-хе!
+
+#### Поговорите с Орко
+
+**Паймон:** Путешественник, ты чувствуешь какую-нибудь невероятную силу?
+
+Вроде ничего особенного.
+
+**Паймон:** Большой камень ничуть не изменился! Ни таинственного свечения, ни внезапного толчка или трещины.
+
+**Паймон:** Мы использовали не то заклинание? Паймон кажется, что всё было правильно...
+
+**Паймон:** Впрочем, мы иногда сталкиваемся с подобными ситуациями, когда исследуем руины! Если неправильно запомнить пароль или сигнал, механизм не сработает.
+
+**Орко:** Странно... Мне сказали, что если произнести это, то можно высвободить скрытую силу...
+
+**Орко:** А человек, рассказавший мне это, закрыл глаза и начал стонать от боли вскоре после того, как произнёс это заклинание! А ещё у него появился «волшебный глаз», с помощью которого он мог определять стоимость самоцветов!
+
+- **Путешественник:** Фантастика!
+
+- **Путешественник:** Знакомые проявления...
+
+**Паймон:** Подозрительно это всё.
+
+**Мама Коко:** Вот ты где, маленький негодник! Как ты здесь очутился? Твой отец переживает!
+
+**Орко:** Я сказал ему, что вернусь, когда придёт время садиться за стол! Он должен был сказать тебе...
+
+**Мама Коко:** Препираешься? Эй, вы, детишки, не задерживайтесь там! Кто знает, какие опасности могут подстерегать вас, если вы пробудете там слишком долго!
+
+*Вы отводите Орко наверх и объясняете ситуацию...*
+
+**Мама Коко:** Ох, это обычные детские фантазии. Простите, что вам пришлось участвовать в его шалостях.
+
+**Мама Коко:** Он стал очень непослушным, ведь никто за ним особо не следит. Мамы нет, а у отца плохое зрение. Я стараюсь помогать по-соседски, но и у меня нет столько сил.
+
+**Паймон:** О, так вот оно что! Паймон так и знала! Стоит только собрать несколько каменных осколков и можно получить чудесные способности... Быть такого не может...
+
+**Орко:** Я не хулиганю, я делаю это ради папы...
+
+**Мама Коко:** Глупенький, слушай тех, кто старше и мудрее. На этот раз все целы и невредимы, но ты когда-нибудь задумывался о том, что будет, если однажды ты попадёшь в беду?
+
+**Мама Коко:** Хмф! Хватит. Веди себя хорошо и пойдём со мной.
+
+**Орко:** Отлично... Но сначала... Вот, возьмите. У нас был уговор. Вот мора, которую я обещал.
+
+**Мама Коко:** Возьмите. Мы не хотим, чтобы он стал человеком, который не держит своего слова.
+
+**Паймон:** Что ж, в таком случае... Мы не откажемся.
+
+**Орко:** Да, и, возможно, в будущем мне понадобится ваша помощь! В этот раз мы потерпели неудачу, но это не значит, что в следующий раз у нас ничего не получится, верно?
+
+**Паймон:** Что?
+
+**Мама Коко:** Маленький негодник...
+
+**Орко:** Мама Коко, идём, папа ждёт! Спасибо вам, увидимся в следующий раз!
+
+## EN
+
+### To Wish Upon a Star
+
+You encounter a child looking for star shards out in the wild...
+
+#### Scene
+
+**Orqo:** Dad'll be happy, for sure...
+
+#### Scene
+
+**Orqo:** Hey, what're you waiting for? Hurry up! We've gotta put the scattered fragments back on the star!
+
+#### Scene
+
+**Orqo:** Wow! Amazing! You guys found all the star shards!
+
+**Orqo:** I've saved up quite a bit of pocket money from helping out Mama Coco. I'll give you every last Mora if you give the shards to me!
+
+**Paimon:** Star shards? What are they for? Uh... And before that, what the heck is a little kid doing out here all alone?
+
+**Orqo:** ...Everyone else calls me Orqo, so you might as well too. Though it's only a codename...
+
+**Orqo:** I'm only here to collect the star shards! You guys saw the big rock down below too, right? That's a star, fallen from the sky!
+
+**Orqo:** As long as we can collect the scattered shards and return them to it, we can gain the power that was lost... Please, I'm begging you, I really do need these star shards...
+
+- **Traveler:** Sounds pretty dubious...
+
+- **Traveler:** Whoa, that amazing? Okay, I definitely can't give 'em to you now.
+
+**Paimon:** Yeah... But it still counts as a clue, right? Why don't we give it a try and see what happens?
+
+**Paimon:** Hey, he's just a little kid! Ease up a bit. And even though we don't know if it's true or not, why don't we give it a try and see what happens?
+
+**Paimon:** Still, though, star shards and lost power and whatnot... That sounds like something out of a novel.
+
+**Orqo:** You've never even heard the story of Qoyllor and Ukuku? My dad's told me it a million times, I've got it completely memorized. I'd be happy to share it with you!
+
+**Orqo:** But let's go down there together first!
+
+*You and Orqo arrive beside the "fallen star"...*
+
+**Orqo:** C'mon, hurry up and put the fragments back on the star! Wow... I wonder what power will awaken? Maybe I'll even ascend to the sky... Hehe!
+
+#### Scene
+
+**Paimon:** Hey, what are you doing here?
+
+**Orqo:** ...Whoa! You scared me half to death! What if I fell? How would you pay me back? My hidden powers haven't been awakened yet, you know, I'm just a helpless little child.
+
+**Paimon:** Ah! Sorry, Paimon didn't mean to give you a fright! But... hidden powers? Would you develop some super duper ultimate technique or something?
+
+**Orqo:** Look, it's called a "hidden" power for a reason. If it's hidden, how the heck would I know what it is?
+
+- **Traveler:** He's got a point.
+
+- **Traveler:** So young, yet so full of baloney.
+
+**Orqo:** Look, let's put all that to the side for now. Can you help me find the star shards? I've saved up quite a bit of pocket money from helping out Mama Coco, and you can have every last Mora.
+
+**Paimon:** Well, since you're asking us for help, could you at least tell us your name? By the way, Paimon's Paimon, and this is Traveler.
+
+**Orqo:** The name I use now is nothing but a code name, that's all... But everyone calls me Orqo, so you might as well too. Now, about those star shards, will you help?
+
+**Paimon:** Though... Just what is a star shard? Doesn't sound like it's something you can come by too easily.
+
+**Orqo:** They're shards split off from stars that fell from the sky! As long as you find them and return them to their original spot, you can regain the power that was lost.
+
+**Orqo:** Look! A fallen star is just down below, so there's gotta be some leads to find star shards down there. C'mon, please gimme a hand!
+
+**Paimon:** Okay, okay, we'll help you out this time! Still, though, star shards and lost power and whatnot... That feels like something out of a novel.
+
+**Orqo:** You've never even heard the story of Qoyllor and Ukuku? My dad's told me it a million times, I've got it completely memorized. I'd be happy to share it with you!
+
+**Orqo:** But let's go down and take a look together first!
+
+#### Talk to Orqo
+
+**Orqo:** Phew! I'd never have made it by myself, thank you!
+
+**Paimon:** So is this the fallen star? If you look at it up close...
+
+- **Traveler:** Aaaah! A mysterious power is surging through my body!
+
+- **Traveler:** What a weird rock.
+
+**Paimon:** Eh!? Really? Hey, wait a sec, we haven't even found the scattered fragments yet!
+
+**Paimon:** Speaking of the fragments, are there really clues to them around here? Paimon doesn't see anything...
+
+**Paimon:** It definitely looks peculiar enough... But is Paimon just a bit slow? She doesn't feel any kind of mysterious power from it at all...
+
+**Paimon:** So, what's next?
+
+**Orqo:** We'll have to rely on our raw strength. Hit it with all the might of a Tepetlisaurus, and maybe we'll find out where the missing fragments are.
+
+**Orqo:** Brute force can solve most problems! That's what my dad says. But I still haven't awoken my strength, and I don't have my own Saurian either... So you're all I've got.
+
+#### Talk to Orqo
+
+**Paimon:** That should be all, right? This commission was way easier than Paimon thought it'd be! Still, do miraculous powers like that exist? Paimon was pretty skeptical before...
+
+Want to awaken some hidden powers too, do you?
+
+**Paimon:** Of course! Wouldn't it make things really easy if you had, say, a super treasure-seeking ability or the power to just destroy any monster with one punch? C'mon, Traveler, wouldn't you want that?
+
+- **Traveler:** I want more poweeer!
+
+- **Traveler:** I'm strong enough as-is. I don't need it.
+
+**Paimon:** Ooh!
+
+**Paimon:** Eh? But doesn't everyone say that the pursuit of more power is endless?
+
+**Orqo:** C'mon, hurry up and put the fragments back on the star! Wow... I wonder what power will awaken? Maybe I'll even ascend to the sky... Hehe!
+
+#### Talk to Orqo
+
+**Paimon:** Traveler, do you feel any unbelievable power?
+
+Not really, no.
+
+**Paimon:** The big rock hasn't changed a bit! No mysterious glow, not even sudden shaking or just cracking right open.
+
+**Paimon:** Uh, did we use the wrong incantation? It sounded right to Paimon, though...
+
+**Paimon:** Still, we occasionally run into situations like this when we're exploring ruins! If you misremember the password or signal, the mechanism just won't respond.
+
+**Orqo:** Weird... I was told saying that stuff would liberate the hidden power...
+
+**Orqo:** And the person who told me closed their eyes and started moaning in pain soon after they recited it! Not only that, but afterward, he gained a "magic eye" that could tell the value of gems!
+
+- **Traveler:** Wow, so cool!
+
+- **Traveler:** Those symptoms sound familiar...
+
+**Paimon:** Eh? Sounds kinda dubious.
+
+**Mama Coco:** Oh my! I've finally found you, you silly little goose! How'd you end up out here? Your father's been worried sick about you!
+
+**Orqo:** I told him I'd go back when it's time to eat! Did he have to tell you...
+
+**Mama Coco:** Still talking back? You two kids down there, don't you tarry either! Who knows what kind of dangers might show up if you dally there!
+
+*You bring Orqo back up, and explain the situation...*
+
+**Mama Coco:** *sigh* Those are just childish fantasies he was talking about. Sorry you had to get involved in his mischief.
+
+**Mama Coco:** He's gotten quite naughty, as nobody really disciplines him. After all, his mother isn't around and his father's eyesight is poor. I try to help out as a neighbor, but I haven't got unlimited energy either.
+
+**Paimon:** Ohh, so that's it! Paimon knew it! There's no way something like that could be true... Imagine just collecting a few stone fragments and getting mysterious powers...
+
+**Orqo:** I'm not being naughty, it's for dad...
+
+**Mama Coco:** Don't be so bird-brained! It's all because you won't listen to those older and wiser. At least you're safe and sound this time, but did you ever stop to think about what would happen if you got into some real trouble someday?
+
+**Mama Coco:** Hmph! Enough. You just behave now and come back with me.
+
+**Orqo:** Fine... But first... Here you go, you two. We did agree. Here's the Mora I promised.
+
+**Mama Coco:** Do take it. We wouldn't want him to be someone who isn't true to their word.
+
+**Paimon:** Well, since you put it that way... We won't say no.
+
+**Orqo:** Yeah, and maybe I'll need your help in the future! We failed this time, but that doesn't mean we won't succeed next time, right?
+
+**Paimon:** ...Huh?
+
+**Mama Coco:** You little munchkin...
+
+**Orqo:** C'mon, Mama Coco. Let's go, my dad's waiting! Thank you both, see you next time!
+
+## ZH
+
+### 向星星许愿
+
+在野外遇到了寻找星星碎片的小孩…
+
+#### 场景
+
+**奥尔科:** 爸爸肯定也会高兴的…
+
+#### 场景
+
+**奥尔科:** 哥哥 / 姐姐在犹豫什么？快把失散的碎片放回星星上吧。
+
+#### 场景
+
+**奥尔科:** 哇！好厉害，你们找到全部的星星碎片了！
+
+**奥尔科:** 我平时给卡卡妈妈帮忙，攒下不少零花钱，这些摩拉全给你们，把星星碎片卖给我吧。
+
+**派蒙:** 星星碎片？你知道它们是做什么用的吗？呃，在这之前，你一个小孩子为什么独自在这种地方呀？
+
+**奥尔科:** …别人都叫我奥尔科，你们也可以这样叫我。虽然现在的名字不过是个代号罢了…
+
+**奥尔科:** 我就是为了收集星星碎片才到这里来的，你们也看到下面的大石头了吧，那就是从天上掉下来的星星。
+
+**奥尔科:** 只要把失散的碎片交还给它，就能获得失去的力量…拜托了，哥哥姐姐 / 姐姐，我真的很需要这些星星碎片…
+
+- **旅行者:** 听起来好可疑…
+
+- **旅行者:** 还有这种好事？那更不能给你了。
+
+**派蒙:** 嗯…不过也算是线索吧，要不就我们一起试试看？
+
+**派蒙:** 对方只是个小孩子而已，不用这么较真吧。而且他说的话也不知道是真是假，不如就我们一起试试看？
+
+**派蒙:** 话说回来，什么星星碎片、失去的力量…听起来就像是小说里的情节呢。
+
+**奥尔科:** 你们都没听说过奎伊露和乌库库的故事吗？这个就送给你们好了，爸爸给我讲过很多遍，我已经倒背如流了。
+
+**奥尔科:** 但现在要紧的是，我们先一起下去吧。
+
+*和奥尔科一起来到「坠落的星星」前…*
+
+**奥尔科:** 哥哥 / 姐姐，快把失散的碎片放回星星上吧。哇…我会觉醒什么力量呢？说不定能去到天上…嘿嘿。
+
+#### 场景
+
+**派蒙:** 喂，你在这里干什么呢？
+
+**奥尔科:** …哇！吓死我了，万一掉下去了你怎么赔我？隐藏力量还没有觉醒的现在，我只是个无力的小孩啊。
+
+**派蒙:** 啊，抱歉，我不是故意要吓你的。不过…隐藏力量？是很厉害的绝招之类的吗？
+
+**奥尔科:** 既然是隐藏起来的力量，我哪会知道它到底是什么。
+
+- **旅行者:** 好有道理。
+
+- **旅行者:** 小小年纪，歪理倒是不少。
+
+**奥尔科:** 先不说这些了，你们能帮我找回星星碎片吗？我平时给卡卡妈妈帮忙，攒下不少零花钱，这些摩拉全给你们。
+
+**派蒙:** 既然有求于人，至少先报上名来吧。顺带一提，我是派蒙，他 / 她是旅行者。
+
+**奥尔科:** 现在的名字不过是个代号罢了…别人都叫我奥尔科，你们也可以这样叫我。那星星碎片的事，你们愿意帮忙吗？
+
+**派蒙:** 唔，说到底，星星碎片到底是什么东西呀？听起来不像是能轻易找到的东西呢。
+
+**奥尔科:** 那是星星从天上掉下来的时候失散的碎片，只要把它们找到并且放回原处，就能获得曾经失去的力量。
+
+**奥尔科:** 你们瞧，从天上掉下来的星星就在下面，在那儿肯定可以找到星星碎片的线索。好心的哥哥姐姐 / 姐姐们，帮帮我嘛。
+
+**派蒙:** 好啦好啦，那就帮你这一次。不过话说回来，什么星星碎片、失去的力量…就像是小说里的情节呢。
+
+**奥尔科:** 你们都没听说过奎伊露和乌库库的故事吗？这个就送给你们好了，爸爸给我讲过很多遍，我已经倒背如流了。
+
+**奥尔科:** 但现在要紧的是，我们先一起下去看看吧。
+
+#### 与奥尔科对话
+
+**奥尔科:** 呼——我一个人肯定下不来，谢谢你们。
+
+**派蒙:** 这个就是天上掉下来的星星吗？这么凑近看的话…
+
+- **旅行者:** 啊啊体内涌出了神秘的力量！
+
+- **旅行者:** 好怪的石头。
+
+**派蒙:** 欸？！真的吗？不对，不是还没找到失散的碎片吗！
+
+**派蒙:** 话说回来，这里真的有碎片的线索吗？一点头绪也没有…
+
+**派蒙:** 的确很独特…不过是我太迟钝了吗？并没有感受到神秘的力量…
+
+**派蒙:** 那我们接下来该怎么办呢？
+
+**奥尔科:** 只有靠大力了吧。用嵴锋龙那么大的力气拍拍它说不定就能知道失散的碎片在哪里了。
+
+**奥尔科:** 大部分的问题都可以靠蛮力解决，爸爸是这么说的。但我还没有觉醒力量，也没有自己的龙…就拜托哥哥姐姐 / 姐姐们了。
+
+#### 与奥尔科对话
+
+**派蒙:** 应该就这些了吧？这次的委托比想象中简单很多呢！不过，真的有这么神奇吗？之前还有点半信半疑的…
+
+派蒙也想觉醒隐藏力量吗？
+
+**派蒙:** 那当然啦，要是有什么超强宝箱搜寻能力，或者超级大力可以一拳一个魔物，不是很便利嘛！旅行者难道不想要吗？
+
+- **旅行者:** 我需要更多力量！
+
+- **旅行者:** 我已经够强了所以不需要。
+
+**派蒙:** 哦哦！
+
+**派蒙:** 欸？不是都说，在追求力量的路上是不应该有尽头的…
+
+**奥尔科:** 哥哥 / 姐姐，快把失散的碎片放回星星上吧。哇…我会觉醒什么力量呢？说不定能去到天上…嘿嘿。
+
+#### 与奥尔科对话
+
+**派蒙:** 旅行者，你有感觉到什么不可思议的力量吗？
+
+没什么特别的感觉。
+
+**派蒙:** 这块大石头也没什么变化呢，没有发出神秘光芒，也没有突然震动起来或者干脆裂开。
+
+**派蒙:** 呃，会不会是刚才念的咒语不对？虽然听起来像模像样的…
+
+**派蒙:** 但是我们在遗迹探险时偶尔也会遇到这种情况呢！只是记错了某个密码或者暗号，机关就完全没反应。
+
+**奥尔科:** 真奇怪…这些话是别人告诉我的，说是只要这样做了，就能解放隐藏的力量。
+
+**奥尔科:** 告诉我这件事的人当时念完之后没过一会儿就捂着眼睛发出痛苦的声音，但是在那之后就获得了能分辨宝石价值的「魔眼」呢！
+
+- **旅行者:** 哇，真是太酷了！
+
+- **旅行者:** 这症状听起来有点耳熟…
+
+**派蒙:** 欸？我倒是觉得相当可疑呢。
+
+**卡卡妈妈:** 哎哟！可算让我找到了，小傻瓜，怎么跑到这种地方来！你爸爸找不到你，在家都急坏了。
+
+**奥尔科:** 我都跟他说了到吃饭时间会自己回去的，有必要让卡卡妈妈知道吗…
+
+**卡卡妈妈:** 还顶嘴呢。旁边两个小朋友也别在下边耽搁了，在下面呆久了谁知道有什么危险！
+
+*带奥尔科一起回到了地面，并且说明了情况…*
+
+**卡卡妈妈:** 唉，他说的那些东西，都是小孩子乱想，也难为你们陪他胡闹。
+
+**卡卡妈妈:** 这孩子因为从小妈妈不在身边，爸爸眼睛又不方便，没人管教，顽皮得很。我作为邻居虽然也想帮衬点，但毕竟精力有限。
+
+**派蒙:** 原来是这样。我就知道！哪会有这么好的事，只是收集几个石头碎片就能获得神秘力量什么的。
+
+**奥尔科:** 我这不是顽皮，是为了爸爸…
+
+**卡卡妈妈:** 小傻瓜，就是不肯听比你懂得多的人的劝告。这次倒是平安无事，但万一哪天酿成大祸不就晚了么？
+
+**卡卡妈妈:** 行了行了，你先老实跟我回去。
+
+**奥尔科:** 好吧，不过在那之前…哥哥姐姐 / 姐姐们，我们说好的，这些摩拉全都给你们。
+
+**卡卡妈妈:** 你们收下吧，不能让他做个言而无信的人。
+
+**派蒙:** 既然你们这样说…那我们就不推辞了。
+
+**奥尔科:** 嗯，说不定以后还要麻烦你们呢，这次失败了，不代表下次就不会成功嘛。
+
+**派蒙:** 欸？
+
+**卡卡妈妈:** 你这孩子…
+
+**奥尔科:** 卡卡妈妈，我们走吧，别让爸爸等急了。好心的哥哥姐姐 / 姐姐们，那就再见咯！

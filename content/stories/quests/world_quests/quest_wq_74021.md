@@ -1,0 +1,1558 @@
+# id: quest_wq_74021
+# story_group: world_quests
+# title_ru: Хорошие вещи в неумелых руках
+# title_en: Good Stuff, but Terrible Taste
+# title_zh: 好东西，坏品味
+# region: Тейват
+# game_version: 4.0
+# release_versions: 4.0
+# source_id: 74021
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 74021
+# previous_quests: 
+# next_quests: quest_wq_74023
+# related_quests: quest_wq_74015,quest_wq_74019,quest_wq_74020,quest_wq_74022,quest_wq_74023
+# quest_chain: quest_wq_74015,quest_wq_74019,quest_wq_74020,quest_wq_74021,quest_wq_74022,quest_wq_74023
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Хорошие вещи в неумелых руках
+
+Помогите Сальсе расставить предметы в подходящие места.
+
+#### Поговорите с Сальсой
+
+**Паймон:** Эм... Путешественник, тебе не кажется, что это какая-то странная головоломка?
+
+- **Путешественник:** Какая разница. Главное, что в результате мы получаем сундук.
+
+- **Путешественник:** Странная? По-моему, совсем нет.
+
+**Паймон:** Ты прав(а), конечно...
+
+**Паймон:** Паймон не знает, в чём дело, но... стоит посмотреть на неё, и в носу становится щекотно!
+
+**Паймон:** Столько вопросов: кто и зачем расставил здесь все эти предметы? И почему именно здесь?
+
+- **Путешественник:** Иногда лишние мысли только портят настроение.
+
+- **Путешественник:** Может, некий таинственный человек, преследуя свои таинственные цели...
+
+**Паймон:** Но некоторые вопросы, однажды появившись в голове, никуда не хотят уходить... Паймон закрывает глаза, и они начинают летать вокруг, словно призраки... Брр...
+
+**Паймон:** Ты сейчас пытаешься запудрить Паймон мозги!
+
+**Паймон:** Но у Паймон есть своя догадка! Головоломки поставила здесь Гильдия искателей приключений, чтобы новые члены Гильдии могли потренироваться!
+
+**Паймон:** Как ни крути, а руины и подземелья очень опасны! Там встречаются разные смертоносные механизмы... а такие головоломки совсем безвредны.
+
+**Паймон:** А эту странную головоломку... наверняка придумал какой-то новичок из Гильдии искателей приключений! Опыта у него маловато, потому она и выглядит так странно.
+
+**Паймон:** Ну как? Вполне разумное объяснение?
+
+Но тогда получается, что новички тренируют новичков?
+
+**Паймон:** Ну и что? Никто не рождается опытным работником, и если бы для каждой работы был необходим опыт, тогда люди вообще бы никогда не работали!
+
+**Паймон:** Да, теперь Паймон всё поняла и не возражает против странных головоломок.
+
+**Сальса:** Какая слабость! Доброта к людям есть жестокость к себе!
+
+**Паймон:** Ой! Ты откуда тут взялась, девочка?
+
+**Сальса:** Сестрёнка, я не просто какая-то безымянная девочка. Перед тобой стоит великая художница Сальса, будущее живописи Фонтейна.
+
+**Паймон:** Сестрёнка?! Это... это она про Паймон?
+
+Вряд ли я гожусь в сестрёнки. / Я, конечно, сестрёнка, но...
+
+**Сальса:** Разумеется! Смотри, я намного выше тебя! Правда, пока что ниже твоего друга / твоей подруги...
+
+**Сальса:** Но мама говорит, если я буду пить много молока и вовремя ложиться спать, то вырасту очень высокой. Так что пройдёт ещё несколько лет, и я буду старшей сестрой, а ты моим братиком / моей сестрёнкой!
+
+- **Путешественник:** Это так не работает.
+
+- **Путешественник:** Хорошо, старшая сестрица Сальса!
+
+**Паймон:** Путешественник, перестань ей подыгрывать!
+
+**Паймон:** Сальса, скажи лучше, что ты здесь делаешь? Ой! Это твой мольберт?
+
+**Сальса:** Да, здесь очень красиво, для этюда с натуры лучше места не придумаешь. Если бы не эти уродливые штуковины, я бы давно закончила картину.
+
+**Сальса:** Дядя / Тётя и летающая сестрёнка, вы тоже пришли писать пейзаж с натуры? Прекрасный выбор!
+
+**Паймон:** Ой, мы забыли представиться... Паймон это Паймон, а никакая не «летающая сестрёнка»! А рядом со мной Путешественник, мы с ним / ней искатели приключений, которые путешествуют по всему свету!
+
+**Сальса:** Что? Значит, вы тоже состоите в этом гнусном объединении?! Ох, как же я просчиталась...
+
+**Паймон:** Каком ещё гнусном объединении?
+
+**Сальса:** Сестрёнка Паймон только что сама сказала! Гнусное объединение отправило гнусных людей в зелёных костюмах поставить здесь этот ужас! Они испортили весь пейзаж...
+
+**Сальса:** Я не знала, что вы с ними заодно! Что же мне теперь делать...
+
+**Паймон:** Паймон ведь сказала... Эх, ладно. Мы можем тебе помочь? Путешественник и правда состоит в Гильдии искателей приключений...
+
+**Сальса:** О! Значит, вы решили перейти на сторону добра? Правильно!
+
+**Сальса:** Мы должны действовать сообща и уничтожить эту злую организацию, чтобы в мире больше не было уродливых вещей, от которых у всех болят глаза!
+
+**Паймон:** Паймон не понимает... Что нам нужно сделать? Нельзя же просто взять и ворваться в штаб Гильдии?
+
+**Сальса:** Папа говорит, что каждую задачу нужно делить на этапы. Поэтому начать следует со штуковин, которые стоят перед нами.
+
+**Сальса:** (Сестрёнка)(Братишка) Путешественник и сестрёнка Паймон, помогите мне убрать эти уродливые штуковины. Пожалуйста!
+
+**Сальса:** Под руководством великой художницы Сальсы это будет совсем не сложно. Так что не беспокойтесь.
+
+**Паймон:** Ладно, тогда ждём твоих распоряжений. Что скажешь, Путешественник, попробуем?
+
+**Сальса:** (Сестрёнка)(Братишка) Путешественник и сестрёнка Паймон, мы снова встретились!
+
+**Паймон:** Привет, Сальса. Мы увидели мольберт и подумали, вдруг ты где-то рядом.
+
+**Паймон:** В прошлый раз прощание у нас вышло немного поспешным... Как дела? Родители тебя не наругали?
+
+**Сальса:** Хе-хе, когда мама и папа вернулись домой, я сидела за столом и прилежно училась. У них не было причин поучать меня.
+
+**Сальса:** Хотя на самом деле я не делала уроки, а только притворялась. Но притворяться, что делаешь уроки, тоже очень утомительно.
+
+**Сальса:** Чтобы папа с мамой ни о чём не догадались, я притворялась очень убедительно.
+
+- **Путешественник:** Можешь стать актрисой, когда вырастешь.
+
+- **Путешественник:** По-моему, спокойно делать уроки проще, чем упражняться в актёрском мастерстве...
+
+**Сальса:** Да? Но я уже решила, что стану великой художницей. Кстати, я могу стать актрисой, которая играет художницу. Гм... Нет, что-то здесь не то.
+
+**Сальса:** Учиться утомительно и притворяться тоже утомительно. Как же мне тяжело!
+
+**Сальса:** ...Как думаете, мама с папой правда не поняли, что я притворяюсь? Или поняли, но тоже решили притвориться, что не поняли...
+
+**Паймон:** Какие сложные семейные отношения...
+
+**Сальса:** Я долго размышляла над этим вопросом, но так и не смогла выяснить ответ. Мне не хватает наблюдательности...
+
+**Сальса:** Поэтому я снова вышла порисовать. Я хотела найти подходящее место, чтобы отточить наблюдательность...
+
+**Сальса:** Но гнусные люди в зелёном и здесь поставили свои ловушки! Просто возмутительно!
+
+- **Путешественник:** Да, возмутительно.
+
+- **Путешественник:** Я рад(а) любой ловушке, если там есть сундук...
+
+**Паймон:** Да, они портят пейзаж, в этом нет ничего хорошего... Но стоит ли так злиться?
+
+**Паймон:** Это не настоящая ловушка...
+
+**Паймон:** Хм... Может, нам снова их переставить? В тот раз мы просто поменяли местами некоторые предметы, и всё наладилось.
+
+**Сальса:** Сестрёнка Паймон права! Чтобы разрушить ловушки гнусных людей в зелёном, нужно просто поменять их местами!
+
+**Сальса:** Путешественник, сестрёнка Паймон! У-у-у...
+
+**Паймон:** Привет, Сальса! Что случилось? Ты какая-то грустная. Ой, здесь тоже стоят «ловушки гнусных людей в зелёном»? Поэтому ты так расстроилась...
+
+**Сальса:** Я... я скоро умру?
+
+**Паймон:** А? Ты серьёзно? Да, они довольно бестолково расставлены, но не до такой же степени! Дело обстоит не намного хуже, чем в прошлые разы...
+
+**Паймон:** Неужели гнусное объединение настолько испортило вкус Паймон, что теперь Паймон не отличает красоту от уродства?
+
+**Сальса:** Нет, я не про то... Я больна. У меня обсессивно-компульсивное расстройство.
+
+**Паймон:** Обсессивно-компульсивное расстройство?
+
+**Сальса:** Да, я прочитала о нём в одной книге. И нашла у себя все симптомы. Мама с папой не придают проблеме особого значения. Говорят: «Ну, просто не смотри на них».
+
+**Сальса:** Но я не могу ничего с собой сделать. Мысли о прекрасных пейзажах, испорченных уродливыми штуковинами, которые понаставило гнусное объединение, не дают мне ни есть, ни спать.
+
+**Сальса:** Я серьёзно больна. Ох, Фонтейн лишится великой художницы...
+
+Тебе бы к врачу.
+
+**Паймон:** Да, Путешественник прав(а). В такой ситуации лучше довериться специалистам...
+
+**Паймон:** Правда, Паймон сомневается, что Сальса серьёзно больна. Никому не понравится смотреть, как портят красивый пейзаж.
+
+**Паймон:** И потом, Паймон знает, как тебе помочь! Нужно всего-навсего переставить некрасивые штуковины, чтобы они стали частью пейзажа! И проблема решится сама собой.
+
+Это временное решение.
+
+**Паймон:** Временное решение - тоже решение! Путешественник, за дело! Под руководством Сальсы мы быстро наведём здесь порядок!
+
+**Сальса:** Привет! Рада вас видеть!
+
+**Паймон:** Привет, Сальса! Да, в тот раз... Паймон была не права. Ты не сердишься?
+
+**Сальса:** Мм? В тот раз? А что случилось?
+
+**Паймон:** Эм... У тебя было такое хорошее настроение... Паймон не стоило напоминать тебе про уроки и всё такое.
+
+**Сальса:** А, вот ты о чём... Но я и правда забыла про уроки.
+
+**Паймон:** А?
+
+**Сальса:** Я пришла домой и поняла, что забыла доделать уроки. Если бы не ты, сначала мне пришлось бы выслушивать нотации от родителей, а потом ещё и от учителя.
+
+**Паймон:** Видишь! Паймон так и знала! И кто у нас тут самый дальновидный?
+
+Мне кажется, это простое совпадение.
+
+**Паймон:** Но всё кончилось хорошо только благодаря Паймон!
+
+**Сальса:** Да, всё кончилось хорошо! Я доделала уроки, папа с мамой остались очень довольны, и мне не пришлось притворяться! Все рады, всё хорошо!
+
+Ну и ну. Выходит, Паймон зря изводилась.
+
+**Паймон:** Да! У Паймон даже аппетит пропал от переживаний, что Паймон огорчила Сальсу... Но кто бы мог подумать, что всегда серьёзная Сальса допустит такую оплошность.
+
+**Сальса:** Просто я ещё ребёнок. Дети часто что-нибудь забывают.
+
+**Сальса:** Даже взрослые постоянно что-нибудь забывают. Например, папа однажды забыл вовремя сдать документы. И получил нагоняй от мамы, а потом ещё и от делопроизводителя...
+
+**Сальса:** И целую неделю головы не мог поднять от стыда.
+
+**Сальса:** Это просто ужасно. Ни за что не пойду работать в Исследовательский институт.
+
+**Паймон:** Твои родители работают в Исследовательском институте?
+
+**Сальса:** Да, поэтому они постоянно заняты и редко бывают дома. Но мне такая жизнь по душе. Если бы они постоянно сидели дома, я не могла бы так часто писать этюды с натуры.
+
+**Сальса:** Мне нравится, как мы живём. Родители любят свою работу, а я свою.
+
+**Паймон:** Свою работу? Ты про уроки?
+
+**Сальса:** Нет, конечно. Смотри, новая ловушка, оставленная гнусным объединением. Моя работа... наша работа состоит в том, чтобы уничтожать эти ловушки. Разве не так?
+
+**Паймон:** А, вот ты о чём... Ну, тут ничего сложного, мы уже много раз это проделывали. Путешественник, давай поможем Сальсе?
+
+**Сальса:** Дядя / Тётя Путешественник и сестрёнка Паймон... Привет...
+
+**Паймон:** Привет, Сальса! Всё в порядке? Невесёлая ты какая-то...
+
+**Сальса:** Как вы думаете, время когда-нибудь кончается?
+
+**Паймон:** Откуда вдруг такой сложный вопрос?
+
+**Сальса:** Просто интересно, кончится ли когда-нибудь моя борьба с гнусным объединением.
+
+**Сальса:** Мне хочется просто приходить в красивое место, играть с вами, разговаривать...
+
+**Сальса:** Но при каждой нашей встрече кругом торчат разные уродливые штуковины, которые портят пейзаж... И нам приходится тратить много времени, чтобы всё поправить...
+
+**Сальса:** Что вы думаете? Почему нам уготована такая судьба?
+
+**Паймон:** Разве это судьба? Просто совпадение. Если в красивом месте поставить что-нибудь некрасивое, люди из любопытства придут посмотреть, что из этого вышло.
+
+**Паймон:** А ты что думаешь, Путешественник?
+
+- **Путешественник:** Я немного... устал(а)...
+
+- **Путешественник:** Меня интересуют только сундуки с сокровищами.
+
+**Паймон:** Конечно... Это уже пятый раз! Стоит ли удивляться, что ты устал(а)...
+
+**Паймон:** А как же прекрасные виды, которые встречаются по пути?
+
+**Паймон:** Хм... Если умеешь видеть красоту, прекрасные пейзажи можно найти повсюду! Можно пойти полюбоваться видом в другом месте, а на уродливые вещи просто не смотреть.
+
+**Сальса:** Сестрёнка Паймон, это называется «прятать голову в песок»! Так проблему никогда не решить! Да, вы ведь сами члены гнусного объединения, вы собрали для меня нужную информацию?
+
+**Паймон:** А?.. Нас всего двое, это не так просто. Но мы можем устранить насущную проблему! Вперёд, за дело! Избавимся от гнусной ловушки!
+
+**Сальса:** Ладно...
+
+#### Поговорите с Сальсой
+
+**Сальса:** В эту ловушку могли попасть другие искатели приключений, восходящие к вершинам...
+
+**Сальса:** Дядя / Тётя Путешественник, мы это делаем для общего блага, правда?
+
+**Сальса:** Подходящее место эта штука украсит, а в неподходящем станет обычной помехой.
+
+**Сальса:** А они поставили её прямо посреди дороги! Что за гнусная ловушка...
+
+**Сальса:** По-моему, она не должна быть центральной частью композиции. А раз так, её нужно убрать из середины.
+
+#### Сцена
+
+**Сальса:** Неплохо, неплохо! Посмотрите, стало намного красивее!
+
+**Сальса:** Теперь все точки, линии и плоскости согласуются друг с другом, каждая деталь работает на общее впечатление. И картина радует глаз. Да!
+
+**Сальса:** Папа говорил, что на свете нет мусора, который нельзя было бы спасти, есть только ресурсы, которые находятся в неверных местах. И он был прав!
+
+**Сальса:** Дядя / Тётя Путешественник и сестрёнка Паймон! Спасибо вам за работу! Благодаря вам мир сделал еще один шаг в сторону прекрасного!
+
+**Паймон:** Хе-хе, пустяки, ничего особенного.
+
+**Паймон:** Когда мы всё переставили, глазу правда стало намного приятнее. Оказывается, надо было всего лишь передвинуть предметы... И беспорядка как не бывало.
+
+**Паймон:** Паймон думала, ты просто маленькая девочка, которая слишком много о себе возомнила... А ты правда столько всего знаешь о композиции!
+
+**Сальса:** Что? Мы ведь боевые товарищи, которые бок о бок сражаются с гнусным объединением! А ты в меня совсем не веришь? Как грустно...
+
+**Паймон:** Нет, Паймон верит, очень даже верит! Просто... Ох, не грусти!
+
+**Сальса:** ...Ой! Нет!
+
+**Паймон:** А? Что такое?
+
+**Сальса:** Чуть не забыла! Мама с папой сегодня возвращаются домой!
+
+А что, они обычно не дома?
+
+**Сальса:** Нет, они ведь очень классные. А у классных людей всегда много работы.
+
+**Сальса:** У меня тоже много работы, но я пока не такая классная. Вот стану великой художницей, тогда тоже смогу городить разный вздор, как папа с мамой.
+
+**Паймон:** А? Как одно связано с другим?
+
+**Сальса:** Просто дома мама с папой обязательно проверяют мои уроки. И даже если уроки я давно сделала, стоит им увидеть, что я не сижу за столом над тетрадками, и начинается...
+
+**Сальса:** «Сальса, Сальса... Опять ты не стараешься... Целыми днями возишься с красками и кисточками, подумай о будущем...»
+
+**Сальса:** Даже если сказать, что уроки давно сделаны, нотации будут продолжаться... Нет, это никакие не нотации, а просто вздор. Но я не могу их переспорить, ведь я пока не такая классная.
+
+**Сальса:** Поэтому когда мама с папой возвращаются домой, я притворяюсь, что делаю уроки, даже если уроки давно готовы. Так они ничего мне не скажут.
+
+**Сальса:** Когда я стану такой же классной, как они... нет, ещё более классной, тоже смогу городить разный вздор.
+
+**Паймон:** Как-то это неправильно...
+
+**Сальса:** Ой! Я уже опаздываю! Надо скорее бежать домой!
+
+**Сальса:** Дядя / Тётя Путешественник и сестрёнка Паймон! Была очень рада с вами познакомиться! Спасибо за помощь, я побежала!
+
+Будь осторожна.
+
+**Паймон:** Смотри не упади!
+
+*Сальса убегает, прихватив мольберт и ящик с красками...*
+
+**Паймон:** ...Она прямо как маленький вихрь. Да уж, детям сейчас приходится несладко. Хорошо, что Паймон не нужно делать уроки...
+
+Паймон, Паймон... Опять ты не стараешься...
+
+**Паймон:** Нет, перестань! Путешественник, перестань немедленно!
+
+**Сальса:** Да, вот так! Теперь гнусные ловушки уничтожены! Я лучше всех!
+
+**Паймон:** Да, стало лучше. Но мы всего-навсего передвинули кое-какие предметы...
+
+**Паймон:** Было совсем не сложно! Хм, интересно, почему некоторые люди так бестолково расставляют вещи...
+
+И выбирают для этого места с красивым видом.
+
+**Паймон:** Точно! Это у них так сильно развито эстетическое чутьё? Или, наоборот, совсем не развито?
+
+**Паймон:** Лучше бы Сальса дала пару уроков новичкам из Гильдии, чтобы они научились нормально расставлять вещи.
+
+**Сальса:** Ты думаешь, они согласятся? Я бы столько всего им рассказала! Но они меня даже слушать не хотят...
+
+**Паймон:** Ого... Ты правда ходила в Гильдию жаловаться?
+
+**Сальса:** Ага, я разговаривала с Катериной. Но она такая странная, заладила одно и то же: «К звёздам и к безднам!» И не сказала, кто всё-таки ответственен за этот кошмар...
+
+- **Путешественник:** Мне она тоже говорит «К звёздам и к безднам!»
+
+- **Путешественник:** Наверное, ты просто неправильно задала вопрос.
+
+**Паймон:** Кроме этого, она ещё много всего говорит.
+
+**Паймон:** Да, если ты с порога спросила Катерину о ловушках, расставленных «гнусным объединением», она могла тебя не понять...
+
+**Паймон:** Хм... Может быть, Сальса пока слишком маленькая, поэтому никто не воспринимает её всерьез, когда она задает вопросы или высказывает мнение.
+
+**Сальса:** Паймон, а к тебе Катерина прислушивается?
+
+**Паймон:** Ну... да.
+
+**Сальса:** Но я намного старше тебя. Паймон ещё малышка.
+
+**Сальса:** А я не ребёнок! Не думай, будто я ничего не понимаю. Я много всего знаю. Пф!
+
+**Паймон:** Да, все дети так говорят...
+
+**Сальса:** Я взрослая девочка. У меня много знаний и много обязанностей. Ой! Мне надо домой!
+
+**Сальса:** Я хотела поиграть с вами подольше, но мне пора бежать!
+
+*Сальса убегает, прихватив мольберт и ящик...*
+
+**Паймон:** Опять убежала... Мы даже не успели нормально попрощаться. Интересно, встретимся ли мы снова...
+
+**Сальса:** Я выздоровела! Теперь мне намного лучше!
+
+**Сальса:** Дядя / Тётя Путешественник и сестрёнка Паймон, вы были правы! Вещи, которые портят вид, вовсе не обязательно плохие. Если правильно их расставить, они могут оказаться очень даже хорошими.
+
+**Сальса:** Минус одно некрасивое, плюс одно красивое! И мир делает сразу два шага к красоте!
+
+- **Путешественник:** Двойной эффект!
+
+- **Путешественник:** По-моему, твои расчёты стоит подкорректировать...
+
+**Паймон:** Что-то не так с твоими подсчётами...
+
+**Сальса:** Дядя / Тётя Путешественник и сестрёнка Паймон, какие вы глупые! Один плюс один будет два! Так что я права.
+
+**Паймон:** Путешественник не это имел(а) в виду...
+
+**Сальса:** Главное, что у нас всё отлично получается! Если будем продолжать в том же духе, однажды мир станет прекрасным местом, где не будет уродливых штуковин...
+
+**Паймон:** Гм... Наверное, втроём выполнить такую миссию будет непросто. К тому же у (путешественницы)(путешественника) есть и другие важные дела, а Сальсе нужно делать уроки.
+
+**Сальса:** У-у-у... Сестрёнка Паймон, зачем тебе понадобилось портить мне настроение... Мы ведь с вами плечом к плечу сражаемся за правое дело!
+
+**Сальса:** Я наконец нашла повод для радости, а теперь мне снова грустно... Даже ты брюзжишь про уроки. Ладно, тогда я ухожу!
+
+**Сальса:** Пока!
+
+*Сальса сердито убегает, прихватив мольберт и ящик с красками...*
+
+**Паймон:** Ох... Уже убежала...
+
+Видишь, что ты наделала, Паймон.
+
+**Паймон:** Но это ради её же блага... Паймон ведь не сказала ничего обидного?
+
+**Паймон:** Ох... Ну... Когда мы встретимся в следующий раз, Паймон обязательно извинится перед Сашей...
+
+**Сальса:** Так стало намного лучше. Наверное, это и есть реконструкция. Как с Исследовательским институтом, когда в результате реконструкции руин Институту вернули прежний вид.
+
+**Паймон:** Реконструкция?
+
+**Сальса:** Да! Мама говорит, до того как Центральная лаборатория взлетела в воздух, она была очень красивой. Не то что сейчас.
+
+**Сальса:** Но некоторым кажется, что сейчас лаборатория красивее, чем была раньше, поэтому Исследовательский институт рассматривает возможность организовать «Тур по руинам» для всех желающих.
+
+**Сальса:** Скажу вам по секрету: я была в руинах возле Исследовательского института.
+
+**Сальса:** Тогда я и узнала про «Тур по руинам». Двое взрослых спорили, нужно ли оставлять руины в том виде, в котором они есть сейчас.
+
+**Сальса:** Один сказал, что обычное здание никого не заинтересует, потому что в Фонтейне много образцов прекрасной архитектуры.
+
+**Сальса:** А вот руины - это что-то новенькое.
+
+**Сальса:** Руины будут хорошо «продаваться», привлекут много посетителей, и это поможет Исследовательскому институту выйти из финансового кризиса.
+
+- **Путешественник:** Хорошо продаваться...
+
+- **Путешественник:** Финансовый кризис?
+
+**Паймон:** ...Институт - это ведь исследовательское учреждение?
+
+**Сальса:** Мама говорила, что из-за кризиса работникам становится всё сложнее добиться финансирования своих проектов.
+
+**Сальса:** Мне всё-таки больше нравится прежний облик Исследовательского института. Он был как картинка.
+
+**Сальса:** А теперь эта лаборатория между небом и землёй... похожа на одну из ловушек гнусного объединения. По отдельности всё неплохо, но из-за неудачной композиции вместе получается что попало.
+
+**Паймон:** Эм... Паймон не особенно разбирается в таких вещах. Но когда мы переставляем предметы под твоим руководством, получается правда здорово. Наверное, это и есть «художественный талант»?
+
+**Сальса:** Сестрёнка Паймон, ты только сейчас это поняла? Я ведь говорила, что стану великой художницей!
+
+- **Путешественник:** Да! Ура великой художнице!
+
+- **Путешественник:** Не забывай о нас, когда прославишься.
+
+**Сальса:** Я пока ещё не великая, но... Однажды этот день настанет!
+
+**Сальса:** Как я могу забыть! Ведь Путешественник и сестрёнка Паймон сражаются вместе со мной за правое дело!
+
+Вы весело проводите время с Сальсой...
+Потом вы прощаетесь, и Сальса, подхватив мольберт и ящик с красками, вприпрыжку бежит домой...
+
+**Сальса:** Вот и всё! Но... Гнусное объединение обладает большим могуществом, их ловушки повсюду... Втроём мы мало что можем сделать...
+
+- **Путешественник:** Придётся смириться.
+
+- **Путешественник:** Уничтожим их все!
+
+**Паймон:** Да, в жизни не всё бывает так, как нам хочется.
+
+**Паймон:** Ты хочешь уничтожить ловушки, переставив предметы, верно?
+
+**Паймон:** ...Ты ведь не собираешься по-настоящему их уничтожать?
+
+**Сальса:** К сожалению, в мире мало борцов за правое дело, которые были бы наделены чувством прекрасного и желанием действовать. Фонтейн стал бы прекрасной страной, будь в нём сто таких Сальс, как я.
+
+- **Путешественник:** Можно раскрасить меков, чтобы они стали похожи на Сальсу...
+
+- **Путешественник:** Получится ещё одна гнусная ловушка...
+
+**Паймон:** Страшно представить, что получится!
+
+**Паймон:** Сто Сальс... Паймон представила, как сто Сальс называют её сестрёнкой, и сразу стало не по себе...
+
+**Сальса:** Мир стал бы намного лучше, если бы в нём было больше таких людей, как Путешественник и сестрёнка Паймон, преданных правому делу...
+
+**Паймон:** Сальса, почему ты не обратишься за помощью к другим? А если ты попросишь родителей, они оставят поручение в Гильдии искателей приключений...
+
+**Сальса:** Что? Ты хочешь, чтобы я стала заодно с этим гнусным объединением? Ну уж нет.
+
+**Паймон:** Сальса, не забывай, что Путешественник тоже вроде как состоит в Гильдии...
+
+**Сальса:** Вы - другое дело. Вы мои друзья, которые отвернулись от зла и решили бороться за правое дело. Но ты верно говоришь, мне нужны и другие помощники.
+
+**Сальса:** Я должна найти художников, наделённых чувством прекрасного и желанием действовать. И образовать с ними союз.
+
+**Сальса:** Ради будущего Фонтейна и ради будущего всего Тейвата мы должны дать отпор гнусному объединению, которое портит прекрасные пейзажи.
+
+**Сальса:** Да, точно! Путешественник и сестрёнка Паймон, вы принимаетесь в мой «Союз художников во имя будущего Фонтейна и борьбы с гнусным объединением» под номером один и номером два!
+
+**Паймон:** «Союз художников во имя будущего Фонтейна и борьбы с гнусным объединением»?
+
+**Сальса:** Как вам? Красиво звучит?
+
+**Паймон:** Эм, ага... Но если Путешественник и Паймон будут первым и вторым номером, какой номер будет у Сальсы?
+
+**Сальса:** Я основательница Союза! Поэтому у меня будет нулевой номер!
+
+**Сальса:** Ох, впереди у нас столько дел! Нельзя медлить! От нас зависит будущее всего Тейвата!
+
+**Паймон:** Это и правда похоже на дело, которому стоит посвятить всю жизнь, но Паймон кажется, что ты не до конца понимаешь...
+
+**Паймон:** Ладно, неважно! Главное, что ты рада! И делаешь хорошее дело.
+
+**Сальса:** Да, мы боремся за правое дело! Поэтому я должна прямо сейчас отправиться на поиски единомышленников! Нельзя терять ни минуты!
+
+**Паймон:** Пора прощаться? Удачи тебе, Сальса! Паймон надеется, что скоро мы встретимся снова!
+
+- **Путешественник:** Пока, нулевой номер!
+
+- **Путешественник:** Удачи, Сальса! Ты молодец!
+
+**Сальса:** Пока, Номер один и Номер два! Надеюсь, наша новая встреча случится в более прекрасном Фонтейне!
+
+## EN
+
+### Good Stuff, but Terrible Taste
+
+Help Salsa place the object(s) in a suitable location.
+
+#### Talk to Salsa
+
+**Paimon:** Umm, Traveler, don't you think this puzzle is a little strange...
+
+- **Traveler:** I think it's fine as long as it gives us a treasure chest.
+
+- **Traveler:** Strange? I don't think it's strange at all.
+
+**Paimon:** You're not wrong, but uh...
+
+**Paimon:** Paimon's not sure, it's just... just looking at it makes Paimon's nose tickle!
+
+**Paimon:** Paimon has so many questions. Who placed these items? And why did they place them here?
+
+- **Traveler:** Sometimes the more you think about it, the worse it makes you feel.
+
+- **Traveler:** Perhaps a mysterious person with an equally mysterious agenda is behind this...
+
+**Paimon:** But some questions don't go away once they pop up in your head... Every time Paimon closes her eyes, they spin around like Specters... Hmm...
+
+**Paimon:** Paimon knows when you're just making things up! Hmph!
+
+**Paimon:** Paimon got it! These puzzles in the wild are actually set up by the Adventurers' Guild! The aim is to train the Guild's rookie adventurers!
+
+**Paimon:** After all, places like ruins and dungeons are really dangerous. Most puzzles in the wild are safer compared to those deadly devices.
+
+**Paimon:** As for this strange puzzle... A rookie adventurer from the Adventurers' Guild must have set it up! This person has no experience so it ended up looking pretty strange.
+
+**Paimon:** How's that? Makes a lot of sense, right?
+
+So... it's a case of rookies training fellow rookies?
+
+**Paimon:** U—Umm, that can't be helped! No one is born with work experience, so if you must have experience before you can do the job, then no one will be able to work!
+
+**Paimon:** Yeah, Paimon doesn't mind a strange puzzle if that's the case.
+
+**Salsa:** How weak! To be kind to others is to be cruel to yourself!
+
+**Paimon:** Woah! Wh—Where did you pop up from, little girl?
+
+**Salsa:** Lil' Miss, I'm not some nameless little girl. Behold, standing before you is the great artist Salsa, who will be the future of Fontaine's art scene.
+
+**Paimon:** Lil' Miss!? Is she referring to Paimon?
+
+I don't think I will ever be addressed as "Lil' Miss." / I'm a Lil' Miss, yes, but...
+
+**Salsa:** Well of course! Look, I'm THIS much taller than you! Although I'm shorter than the Mister / Miss next to you...
+
+**Salsa:** But Mom said that as long as I drink a lot of milk and go to bed on time, I'll definitely grow taller! So I'll be a big sister in a few years' time, and you'll be a younger brother / younger sister!
+
+- **Traveler:** I don't think it works that way.
+
+- **Traveler:** Yay, Big Sis Salsa!
+
+**Paimon:** Traveler, not you too!
+
+**Paimon:** But Salsa, what are you doing here? Oh! Is this canvas yours?
+
+**Salsa:** Yeah, the scenery's really pretty here so it's a great place to sketch. If it weren't for these ugly things, I would have completed my painting long ago.
+
+**Salsa:** Mister / Miss and flying Lil' Miss, are you two here to sketch too? Excellent taste!
+
+**Paimon:** Oh, we forgot to introduce ourselves... Paimon's Paimon, not some "flying Lil' Miss"! He / She is Traveler, and we are adventurers traveling around the world.
+
+**Salsa:** Wha—! So you guys are members of that evil organization!? Oh no, I let my guard down...
+
+**Paimon:** Evil organization?
+
+**Salsa:** Didn't Lil' Miss Paimon mention it just now? Those bad guys in green from that evil organization. They installed all these ugly things here, and ruined all the beautiful scenery...
+
+**Salsa:** I didn't realize you two were together with those evil green guys! What am I gonna do now...
+
+**Paimon:** Didn't Paimon say that— Sigh, forget it. Is there anything we can do to help? After all, Traveler is a member of the Adventurers' Guild...
+
+**Salsa:** Ooohhh! Are you going to become one of the good guys now? That's the right choice!
+
+**Salsa:** We should work together to defeat the evil organization, so our eyes no longer get polluted by ugly things!
+
+**Paimon:** Paimon doesn't understand... What do we have to do, exactly? We can't just charge into the headquarters of the Adventurers' Guild, right?
+
+**Salsa:** Dad said that we have to do things one step at a time. So, we should start with what's in front of us.
+
+**Salsa:** Traveler and Lil' Miss Paimon, please help me rearrange these ugly things!
+
+**Salsa:** With Great Artist Salsa's guidance, this is going to be a piece of cake, so don't worry.
+
+**Paimon:** O—Okay then, we'll listen to you. Traveler, let's give it a try?
+
+**Salsa:** Wow! It's Traveler and Lil' Miss Paimon! We meet again!
+
+**Paimon:** Hi, Salsa. We were just wondering if you would be around after we saw the canvas.
+
+**Paimon:** We parted ways in a hurry back then... How have you been? Did you get scolded by your parents when you got home?
+
+**Salsa:** Hehe, I was studying at my desk when Mom and Dad came home, so they didn't have any excuse to scold me.
+
+**Salsa:** Although I wasn't actually studying and was just putting on an act, pretending to be studying was really tiring.
+
+**Salsa:** I put up my best performance so Mom and Dad can't see through it.
+
+- **Traveler:** Well, you can consider acting to be a future career path.
+
+- **Traveler:** I think studying hard is easier than practicing how to act...
+
+**Salsa:** Oh? But I've decided to become a great artist. Wait, I can become an actress who plays an artist. That doesn't sound right, though...
+
+**Salsa:** Studying is so tiring, but acting isn't any better. Why is my life so hard?
+
+**Salsa:** ...But now that I think about it, did Mom and Dad truly not realize that I was just acting? Or are they just pretending not to know...?
+
+**Paimon:** What a complicated family relationship...
+
+**Salsa:** I thought long and hard, but I still can't figure things out. I don't have enough observation skills to realize the truth...
+
+**Salsa:** So I came out to sketch again. I thought that I could practice my observation skills once I found a sketching place with a beautiful view...
+
+**Salsa:** But it turns out those evil green guys laid their traps here too! Ugh, this is so annoying!
+
+- **Traveler:** How annoying!
+
+- **Traveler:** Even if it's a trap, as long as there are treasure chests, I'll—
+
+**Paimon:** It's terrible that they're ruining the scenery and everything... but why are you getting so worked up?
+
+**Paimon:** It's not even a real trap...
+
+**Paimon:** Hmm... how about rearranging it like last time? We only adjusted the item positions and everything immediately felt right.
+
+**Salsa:** Lil' Miss Paimon is right! We just have to adjust the positions and destroy those evil green guys' traps!
+
+**Salsa:** Traveler and Lil' Miss Paimon! *sobs*
+
+**Paimon:** Hello Salsa! What's wrong? You're looking really upset. Oh, there are "traps laid by the evil green guys" here too. No wonder you're in a bad mood...
+
+**Salsa:** A—Am I going to die soon?
+
+**Paimon:** Huh!? Is it that serious? It does look kinda strange, but Paimon doesn't think it's that bad. At least, it's not worse than before...
+
+**Paimon:** Oh no... Has Paimon's aesthetic sense been corrupted by the evil organization to the point she can't tell good from bad?
+
+**Salsa:** No, no, that's not it. It's me, I got a case of "obsessive compulsive disorder."
+
+**Paimon:** "Obsessive compulsive disorder?"
+
+**Salsa:** Yeah, I've read about this disorder in books, and I can relate to the symptoms. Mom and Dad didn't really take it seriously and told me "Then you should just stop reading about it."
+
+**Salsa:** But I can't control myself. When I think about the beautiful scenery that has been destroyed by those ugly things planted by the evil organization, I'm so bothered that I can't eat or sleep at all.
+
+**Salsa:** I feel really sick. My goodness, Fontaine is about to lose a great budding artist...
+
+Maybe you should go see a doctor?
+
+**Paimon:** Yeah, Traveler's right. Paimon thinks it's best to let medical professionals handle it...
+
+**Paimon:** But Paimon doesn't think Salsa's issue is that severe. Anyone would be upset to see a beautiful landscape destroyed.
+
+**Paimon:** Besides, Paimon already knows how to make you feel better! We just have to reposition those ugly things and make them part of the pretty scenery, and the problem will be solved.
+
+It's a temporary solution.
+
+**Paimon:** A temporary solution is still a solution! Let's get started, Traveler! With Salsa's guidance, we can definitely recreate the lovely view, right?
+
+**Salsa:** Hello, it's nice to see you two again!
+
+**Paimon:** Hi Salsa. Oh right, about what happened last time... Paimon's sorry, are you still angry?
+
+**Salsa:** Hmm? Last time? What happened?
+
+**Paimon:** Umm... Paimon shouldn't have brought up a nasty topic like homework when you were in a good mood...
+
+**Salsa:** Oh, that... Actually, I really forgot about my homework.
+
+**Paimon:** Huh?
+
+**Salsa:** When I got home, I realized that I hadn't finished my homework. If it weren't for you, I would have been scolded by Mom and Dad, and my teacher too.
+
+**Paimon:** See! Told you it was for Salsa's sake! It's all thanks to Paimon's foresight, hehe.
+
+I guess it's a fluke, then.
+
+**Paimon:** It's all thanks to Paimon that everything turned out well, okay?
+
+**Salsa:** It all worked out! I finished my homework so Mom and Dad are pleased, and I didn't have to try so hard to put on an act. Everyone's happy, so this is a perfect ending!
+
+Paimon was worried for nothing, what a huge loss.
+
+**Paimon:** Yep yep! Paimon was so worried about upsetting Salsa, she could barely enjoy her food! Who would have thought that the ever-reliable Salsa would make such a blunder?
+
+**Salsa:** That's because I'm still a kid. Isn't it normal for children to be forgetful?
+
+**Salsa:** Even adults forget about things. Dad also forgot to turn in some paperwork before, and not only was he scolded by Mom, but also by the clerk...
+
+**Salsa:** He ended up being embarrassed for a whole week!
+
+**Salsa:** It's super terrifying! I'm never going to work at the Fontaine Research Institute.
+
+**Paimon:** Your parents work there?
+
+**Salsa:** Yeah, that's why they are always busy and often away from home. But it's better that way. If they were at home every day, I wouldn't be able to go out and sketch so often.
+
+**Salsa:** I like the way it is now. My parents' work is fulfilling, and so is my work.
+
+**Paimon:** Your work? You mean homework?
+
+**Salsa:** Of course not. Look, there's a trap left by the evil organization here. Our job is to clear these traps, remember?
+
+**Paimon:** Ah, the traps... Then it wouldn't be too hard since we've done the same thing many times before. Traveler, let's help Salsa again this time!
+
+**Salsa:** Traveler and Lil' Miss Paimon... Hello there...
+
+**Paimon:** Hello, Salsa. Are you alright? You don't look too good...
+
+**Salsa:** Do you think there's an end to time?
+
+**Paimon:** Wh—Why are you asking such a deep question out of the blue?
+
+**Salsa:** I'm just wondering if there will be an end to the days of fighting the evil organization.
+
+**Salsa:** All I wanna do is play and chat with you while enjoying this beautiful scenery...
+
+**Salsa:** But every time we meet, ugly things will appear and get in our way... And we end up having to spend a lot of time trying to restore the view...
+
+**Salsa:** Don't you have anything to say about this fate that has befallen us?
+
+**Paimon:** Can this be called fate? It just seems like a coincidence... If there's something that stands out in a place with a beautiful view, people will come to see it out of curiosity.
+
+**Paimon:** What do you think, Traveler?
+
+- **Traveler:** Ugh... I'm feeling a little... tired...
+
+- **Traveler:** Nothing matters, except for treasure chests.
+
+**Paimon:** Let Paimon see... This is already the fifth time! No wonder you're tired...
+
+**Paimon:** You're going to miss out on the scenery along the way!
+
+**Paimon:** Hmm... As long as you have an eye for beauty, there is actually amazing scenery everywhere! Why not admire the view elsewhere and ignore these ugly things?
+
+**Salsa:** Paimon, you're avoiding the issue! Running away is not going to solve the problem... Oh yes, since you're members of that evil organization, have you gathered any inside news?
+
+**Paimon:** Huh? That's gonna be a bit difficult if it's just the two of us... But we can solve the problem right here, right away! C'mon, let's get rid of the evil trap!
+
+**Salsa:** Alright then...
+
+#### Talk to Salsa
+
+**Salsa:** I wonder if other mountaineering adventurers would get caught in such a sinister trap...
+
+**Salsa:** Traveler, this is for everyone's sake, isn't it?
+
+**Salsa:** If you put it in the right place, it will be a decoration, but if you put it in the wrong place, it's basically a nuisance.
+
+**Salsa:** And they placed it right in the middle of the road!? What an evil trap...
+
+**Salsa:** The way I see it, it's not the centerpiece so it shouldn't be in the middle at all.
+
+#### Scene
+
+**Salsa:** Good, very good. It looks so much better this way!
+
+**Salsa:** The points, lines, and planes are all in harmony, with every detail being executed flawlessly. Everything just looks so much more pleasing. Mm!
+
+**Salsa:** Dad was right when he said "There's no trash in this world that can't be saved, only resources in the wrong places."
+
+**Salsa:** Traveler and Paimon, thanks to your hard work, our world has taken another step in the right direction!
+
+**Paimon:** Hehe, we didn't do much.
+
+**Paimon:** Now that Paimon looks at it, everything sure looks better after we rearranged them. All we did was change things around a little... The sense of disarray from before is completely gone.
+
+**Paimon:** Paimon thought you were just a kid who was full of herself... Paimon didn't expect you to actually know a lot about composition and framing.
+
+**Salsa:** Wha—! Aren't we buddies who battle against the evil organization together? Such little faith... I'm devastated.
+
+**Paimon:** It's not that Paimon doesn't believe in your skills, it's just... Aww, don't be sad.
+
+**Salsa:** ...Ah! Oh no!
+
+**Paimon:** Huh? What now?
+
+**Salsa:** I nearly forgot, Mom and Dad are coming home today!
+
+They aren't usually at home?
+
+**Salsa:** Yeah, because Mom and Dad are amazing. Amazing people are always very, very busy.
+
+**Salsa:** I'm also very, very busy now, but I'm nowhere near as amazing. When I become a great artist, I can be as unreasonable as I want, just like Mom and Dad.
+
+**Paimon:** Huh? What does being amazing have to do with being unreasonable?
+
+**Salsa:** That's because Mom and Dad always check my homework when they're back. Even when I've finished everything! As long as I'm not sitting at my desk, they'll say...
+
+**Salsa:** "Salsa, oh Salsa, you're slacking off again. What are you going to do in the future if you play with brushes and paints all day long?"
+
+**Salsa:** Even though I tell them that I've long finished my homework, they will continue nagging... But no matter how unreasonable they are, I can't get a word in because they're too brilliant.
+
+**Salsa:** So I always pretend to be working really hard whenever Mom and Dad come home, even when I haven't finished my homework. Then they won't have anything to say!
+
+**Salsa:** Hmph! I'll say unreasonable things however I like when I become as amazing as my parents... or even better than them.
+
+**Paimon:** This feels kinda wrong somehow...
+
+**Salsa:** Oh no! I'm running late... I won't make it if I don't go off now!
+
+**Salsa:** It was so nice to meet you, Traveler and Paimon! Thank you so much for helping, I gotta go home now!
+
+Take care.
+
+**Paimon:** Be careful not to fall!
+
+*Salsa runs off with her canvas and box of drawing tools...*
+
+**Paimon:** ...She's like a little whirlwind. Children these days don't have it easy, huh? Thank goodness Paimon doesn't have homework.
+
+Paimon, oh, Paimon, you're slacking off again...
+
+**Paimon:** Nooo, Traveler, stop! Paimon can't hear you!
+
+**Salsa:** Yes, yes! Now the evil traps are all gone! I'm the best!
+
+**Paimon:** It sure looks a lot better now. But all we did was just change the positions of the items...
+
+**Paimon:** It doesn't seem difficult at all! Hmm, Paimon wonders why some people arrange things in such a strange way to begin with...
+
+And they pick the places with beautiful scenery.
+
+**Paimon:** Exactly! Paimon wonders if it's because they have a sense of beauty, or a lack of it...
+
+**Paimon:** Paimon thinks we should get Salsa to teach the rookie members of the Adventurers' Guild the art of item arrangement.
+
+**Salsa:** Really? I have so much to tell those members of the evil organization! But they don't really listen to me...
+
+**Paimon:** Wow... Did you really go to the Adventurers' Guild to send a complaint?
+
+**Salsa:** Mmhmm, I talked to Katheryne, but she's really strange. All she said was "ad astra abyssosque," and she never told me which member was behind this...
+
+- **Traveler:** She tells me "ad astra abyssosque" too.
+
+- **Traveler:** Maybe you didn't approach this correctly.
+
+**Paimon:** Paimon's pretty sure she says other things.
+
+**Paimon:** Oh right, if you suddenly talk about traps from an evil organization, Paimon's not sure if Katheryne can understand.
+
+**Paimon:** Hmm... Maybe it's because you're too young, so no one really takes you seriously when you're asking questions or giving opinions.
+
+**Salsa:** Paimon, does Katheryne listen to you?
+
+**Paimon:** Y—Yes?
+
+**Salsa:** But I'm so much older than you... You're basically a kid!
+
+**Salsa:** But I'm not a child. Don't treat me as if I don't know anything! I know a lot, hmph.
+
+**Paimon:** Umm, you say that, but...
+
+**Salsa:** I'm a big girl. Not only do I know a lot, I have a lot of things to do! ...Ah, I have to get home.
+
+**Salsa:** I really wanna play with you and Paimon a little longer, but I have to go now!
+
+*Salsa leaves with her canvas and small box...*
+
+**Paimon:** She left in a hurry as always... We didn't even say goodbye properly this time... Paimon wonders if we'll meet her again...
+
+**Salsa:** I'm all cured now! This looks so much nicer.
+
+**Salsa:** You're right, Traveler and Paimon. Ugly things aren't bad things. As long as we place them properly, they can become good things.
+
+**Salsa:** One ugly thing down, another good thing is born. We have moved two steps forward towards a world of beauty!
+
+- **Traveler:** Half the effort, twice the results!
+
+- **Traveler:** I don't think we can count it like this.
+
+**Paimon:** Uhh, something feels wrong with this calculation method...
+
+**Salsa:** You guys are silly. Everyone knows that one plus one equals two!
+
+**Paimon:** That's not what Traveler meant...
+
+**Salsa:** Anyway, the three of us are doing great! If we keep this up, all the ugly things will someday be gone from this world!
+
+**Paimon:** Hmm... Wouldn't it be difficult with just the three of us? Traveler has important things to do, and Salsa has homework, right?
+
+**Salsa:** *sobs* Paimon, why do you have to say such discouraging things when everything is going well... Aren't we a team fighting for justice?
+
+**Salsa:** I finally found something that made me happy, and now I'm sad again... Even you're nagging at me to do my homework... I'm going home right now!
+
+**Salsa:** Bye!
+
+*Salsa leaves in a huff with her canvas and small box...*
+
+**Paimon:** Oh... She's gone in a flash...
+
+Look what you've done, Paimon.
+
+**Paimon:** P—Paimon didn't want her to get scolded... Paimon didn't say anything too harsh, right?
+
+**Paimon:** Umm, anyway, Paimon should probably apologize if we ever meet Salsa again...
+
+**Salsa:** This looks so much better. This is a... reconstruction project, right? It's just like how they rebuilt the Fontaine Research Institute, and restored the ruins to its original state.
+
+**Paimon:** Reconstruction project?
+
+**Salsa:** Yeah! Mom said the Central Laboratory was a really pretty building before it flew up into the sky, unlike now.
+
+**Salsa:** But some felt that the lab in the sky is more beautiful than it was before. That's why the Fontaine Research Institute is considering launching a "Ruins Tour" for outsiders.
+
+**Salsa:** Don't tell anyone, but I've been to the ruins near the Fontaine Research Institute.
+
+**Salsa:** That's when I heard about the "Ruins Tour." Two adults were arguing over whether to leave the ruins as they were.
+
+**Salsa:** One of them said that if it were an ordinary building, people wouldn't be interested in it, because Fontaine has so much beautiful architecture.
+
+**Salsa:** But if it were ruins, people would find it novel.
+
+**Salsa:** So if they were to use "ruins" as a "selling point," they would be able to attract many visitors, and the Fontaine Research Institute's financial problems would be solved.
+
+- **Traveler:** Selling point...
+
+- **Traveler:** Financial problems?
+
+**Paimon:** ...Fontaine Research Institute is a research organization, right?
+
+**Salsa:** Mom said that the financial problems made it even harder to apply for funding.
+
+**Salsa:** I still think the former Fontaine Research Institute is prettier. It looks exactly like the one in the drawings.
+
+**Salsa:** The lab in the sky now... looks just like a trap laid by the evil organization. Its elements are all there, but the way it's arranged is wrong, so the way it looks is wrong too.
+
+**Paimon:** Umm... Paimon doesn't really understand. But everything looks pretty good after we rearranged them according to your suggestions! Huh, is this what they call "artistic talent"?
+
+**Salsa:** Hmph, you're only saying this now? I told you, I'm a great budding artist!
+
+- **Traveler:** Yay! All hail the great artist!
+
+- **Traveler:** Don't forget about us when you're famous.
+
+**Salsa:** I'm not there just yet... But I hope the day will come soon, hehe.
+
+**Salsa:** Of course I won't! Traveler and Paimon are my buddies of justice!
+
+You spend a relaxing time with Salsa...
+When it's time to part, you say your goodbyes, and Salsa skips away merrily with her canvas and small box...
+
+**Salsa:** And we're done! But... the evil forces are everywhere, and there're traps laid by them all over the place. There's no way the three of us will be enough...
+
+- **Traveler:** There's nothing we can do but to accept the reality.
+
+- **Traveler:** Let's destroy all of this!
+
+**Paimon:** Mmhmm, things don't always go the way we want.
+
+**Paimon:** You're trying to make the trap disappear by rearranging things, right?
+
+**Paimon:** ...You're not really going to destroy them all, are you?
+
+**Salsa:** Unfortunately, there aren't many people with a sense of beauty and the urge to take action like me. If there were 100 Salsas, Fontaine would surely be a more beautiful country.
+
+- **Traveler:** Why don't we paint the clockwork meka so that they look like Salsa?
+
+- **Traveler:** I think that'll end up becoming another evil trap...
+
+**Paimon:** That's gonna be so scary!
+
+**Paimon:** One hundred Salsas... Paimon's head hurts just thinking about a hundred Salsas calling Paimon "Lil' Miss"...
+
+**Salsa:** If there were more people like Traveler and Paimon who are willing to contribute to the cause of justice, I'm sure things would be better than they are now...
+
+**Paimon:** Salsa, why don't you ask other people too? If you ask your parents, you might be able to submit a request to the Adventurers' Guild.
+
+**Salsa:** Wha—! Wouldn't that mean that I would have to join those evil guys? No way.
+
+**Paimon:** Salsa, have you forgotten that Traveler's also sort of from the Adventurers' Guild?
+
+**Salsa:** You guys are different, because you're my good friends who abandoned evil ways and decided to fight for justice. But you're right, I definitely need other helpers.
+
+**Salsa:** I have to find artists who have a sense of beauty and are willing to take action like me, so that we can form an alliance.
+
+**Salsa:** For the future of Fontaine and the future of this land, we will stand against the evil organization that destroys the scenery.
+
+**Salsa:** Yes, that's right! Traveler and Paimon are members one and two of the "Alliance of Artists to Overthrow the Evil Organization and Protect the Future of Fontaine."
+
+**Paimon:** "A—Alliance of Artists to Overthrow the Evil Organization and Protect the Future of Fontaine"?
+
+**Salsa:** Whaddya think? It's a super-cool name, right?
+
+**Paimon:** Umm, okay... But if we're member number one and two, then what about you, Salsa?
+
+**Salsa:** I'm the founder, so of course I'm number zero!
+
+**Salsa:** Oh, the more I think about it, the more excited I am! I have so much work to do, I can't wait! The future of this world depends on us.
+
+**Paimon:** This does sound like a job worth devoting your life to, but Paimon thinks there are a lot of things you haven't figured out...
+
+**Paimon:** Oh well, never mind, as long as Salsa is happy. We're doing good things anyway.
+
+**Salsa:** Mmhmm, we are fighting for a good cause! That's why I have to go find more like-minded companions right now, there's no time to waste!
+
+**Paimon:** Is it time to say goodbye? All the best Salsa, hopefully we'll meet again!
+
+- **Traveler:** Goodbye, Number Zero!
+
+- **Traveler:** Good luck Salsa, you got this.
+
+**Salsa:** Bye bye, Number One and Two! I hope to see you again in a more beautiful Fontaine!
+
+## ZH
+
+### 好东西，坏品味
+
+帮助萨莎把物件放到合适的位置上去吧。
+
+#### 与萨莎对话
+
+**派蒙:** 说起来，旅行者有没有觉得这个解谜有点怪怪的…
+
+- **旅行者:** 只要有宝箱就无所谓吧。
+
+- **旅行者:** 哪里怪了，一点也不怪啊。
+
+**派蒙:** 话是这么说啦…
+
+**派蒙:** 我也说不清楚，就是…就是光是看到都觉得鼻子痒痒的！
+
+**派蒙:** 仔细想想，这些东西到底是什么人出于什么目的放在这里的？而且，为什么要放在这里呢？
+
+- **旅行者:** 有时候想太多反而会不快乐。
+
+- **旅行者:** 可能是神秘人为了神秘目的…
+
+**派蒙:** 可是有些问题就是一旦浮现在脑海里就会挥之不去嘛…每次闭上眼睛它会像飘浮灵一样围着脑袋绕圈…唔唔…
+
+**派蒙:** 你这么说只是想敷衍我对吧？哼！
+
+**派蒙:** 其实我有一个猜想，那就是，野外这些解谜都是冒险家协会设置的！目的嘛，就是为了训练协会的新人冒险家！
+
+**派蒙:** 毕竟遗迹呀废墟呀之类的地方都很危险嘛。比起那些可能致命的机关，野外的解谜大部分都比较安全呢。
+
+**派蒙:** 至于这个怪怪的解谜…一定是冒险家协会的新人冒险家设置的！因为没有经验，所以看起来怪怪的。
+
+**派蒙:** 怎么样，是不是很有道理？
+
+那岂不是让新人训练新人？
+
+**派蒙:** 这、这也没办法嘛！毕竟谁也不是生来就有工作经验的，如果必须要有工作经验才可以胜任工作，那大家都没资格工作了。
+
+**派蒙:** 嗯，只要这么想，就算是怪怪的解谜，感觉也可以原谅了呢。
+
+**萨莎:** 软弱！对别人仁慈就是对自己残忍！
+
+**派蒙:** 哇！你、你是…从哪里冒出来的小姑娘？
+
+**萨莎:** 小妹妹，我可不是没来头的无名小姑娘，好好看看我，在你们面前的可是肩负了枫丹艺术界未来的大画家萨莎。
+
+**派蒙:** 小妹妹？！难道…难道是在说我吗？
+
+我应该当不了妹妹。 / 我是妹妹没错，可是…
+
+**萨莎:** 那当然了，你看，我比你个头高这——么多呢！至于旁边的…哥哥 / 姐姐，虽然现在还比不过…
+
+**萨莎:** 但是妈妈说过，只要多喝牛奶，按时睡觉，一定可以很快长高。所以，再过几年我又可以当姐姐啦，到时你就是弟弟 / 妹妹了！
+
+- **旅行者:** 应该不是这回事吧。
+
+- **旅行者:** 好欸，萨莎姐姐！
+
+**派蒙:** 旅行者不要也跟她一起胡闹啦！
+
+**派蒙:** 话说回来，萨莎为什么来这里？哦！这里的画板难道是萨莎的？
+
+**萨莎:** 对呀对呀，这里风景很好，在这里写生再适合不过啦。如果不是因为这些丑东西，我的画作早就完成了。
+
+**萨莎:** 哥哥 / 姐姐和会飞的小妹妹，你们也是来写生的吗？眼光真不错！
+
+**派蒙:** 都忘了自我介绍了…我是派蒙，不是什么会飞的小妹妹！他 / 她是旅行者，我们是四处旅行的冒险家。
+
+**萨莎:** 什…！原来你们也是那个邪恶组织的成员吗？！唔…大意了。
+
+**派蒙:** 邪恶组织？
+
+**萨莎:** 派蒙妹妹刚才不是说过吗，是邪恶组织的邪恶绿衣人在这里放了这些丑东西，把好好的风景全都破坏掉啦…
+
+**萨莎:** 没想到你们居然跟邪恶绿衣人是一伙的，我该怎么办呢…
+
+**派蒙:** 都说了我不是…唉，算了。有什么我们能帮上忙的吗？毕竟旅行者的确是冒险家协会的成员…
+
+**萨莎:** 哦哦！你们要弃暗投明了吗？这样才对嘛！
+
+**萨莎:** 我们应该齐心协力，打倒邪恶组织，这样一来世界上就再也不会有丑东西伤害大家的眼睛了！
+
+**派蒙:** 虽然不是很明白…我们具体要做些什么呢？总不能真的冲进冒险家协会的总部吧…
+
+**萨莎:** 爸爸说过，做事要一步一个脚印，所以，就先从眼前的工作开始。
+
+**萨莎:** 旅行者哥哥 / 姐姐和派蒙妹妹帮帮我，把这些丑东西重新摆放一下吧！
+
+**萨莎:** 有大画家萨莎提供指导建议，一点也不难，你们就放心好啦。
+
+**派蒙:** 好、好吧，姑且就先听萨莎的，旅行者，我们先试试？
+
+**萨莎:** 哇！是旅行者哥哥 / 姐姐和派蒙妹妹，我们又见面了！
+
+**派蒙:** 是萨莎啊，你好呀。看到画板时还在想你会不会在附近呢。
+
+**派蒙:** 毕竟上次分别挺匆忙的…怎么样，回家有没有被爸爸妈妈教训？
+
+**萨莎:** 哼哼，爸爸妈妈回家时我正坐在书桌前用功学习，这下他们也没理由教训我啦。
+
+**萨莎:** 虽然不是真的在用功学习只是在演戏而已，但是装作在用功学习的样子也好累哦。
+
+**萨莎:** 为了不让爸爸妈妈看出破绽，我可是很认真地在演。
+
+- **旅行者:** 可以考虑以后当演员。
+
+- **旅行者:** 可能认真学习比磨练演技更省力吧…
+
+**萨莎:** 欸——但是我已经决定要当大画家了。对了，也可以当演员，然后扮演画家？唔，好像不太对。
+
+**萨莎:** 学习也好累，演戏也好累，我真辛苦啊。
+
+**萨莎:** …你们说，爸爸妈妈真的没有发现我只是在演戏吗？还是说，其实他们发现了，但是他们也在演戏，装出完全没发现的样子…
+
+**派蒙:** 好、好复杂的家庭关系…
+
+**萨莎:** 我想了好久也没想明白，一定是我的观察力还不够，没办法看穿真相…
+
+**萨莎:** 所以就又出来写生了，本来以为找到了风景绝佳的写生地点，可以好好磨练观察力…
+
+**萨莎:** 结果这里居然也有邪恶绿衣人设下的陷阱！唔…真是太可恶了！
+
+- **旅行者:** 真是太可恶了！
+
+- **旅行者:** 只要有宝箱，就算是陷阱我也…
+
+**派蒙:** 从破坏风景的角度说是很可恶…不过有必要连你也这么生气吗？
+
+**派蒙:** 倒也不是真的陷阱啦…
+
+**派蒙:** 唔…不如就像上次一样，我们来重新归置一下？上次也只是重新改换了一下物件的位置，别扭的感觉就消失不见了呢。
+
+**萨莎:** 派蒙妹妹说得对，只要改换位置，就可以破坏掉邪恶绿衣人布下的陷阱了！
+
+**萨莎:** 旅行者哥哥 / 姐姐和派蒙妹妹！呜…
+
+**派蒙:** 萨莎，你好呀，怎么不太开心的样子？哦，这里也有「邪恶绿衣人设下的陷阱」，萨莎看了的确会不高兴…
+
+**萨莎:** 我…我是不是马上要死了…
+
+**派蒙:** 欸？！有这么严重吗？是摆得很奇怪没错，可是也没有到这种程度吧？感觉和前两次差不多…
+
+**派蒙:** 难、难道是我的审美已经被邪恶组织同化了，所以分辨不出好坏了？
+
+**萨莎:** 不是这样…不是这样的。是我得病了，我得了「强迫症」。
+
+**派蒙:** 「强迫症」？
+
+**萨莎:** 嗯，我在书上看到这种病，病症和我的情况好像。爸爸妈妈都不会计较这些，他们只会说「那你不要看不就好了？」
+
+**萨莎:** 可是我控制不了我自己，一想到原本美丽和谐的风景会被邪恶组织的丑东西给破坏掉，我就饭也吃不下，觉也睡不着。
+
+**萨莎:** 我感觉自己病得好严重，天呐，枫丹要失去我这个未来的大画家了…
+
+去看看医生？
+
+**派蒙:** 嗯，旅行者说得对，这种专业的事情还是交给专业的医生来判断比较好…
+
+**派蒙:** 不过我是觉得萨莎的问题应该没有那么严重啦，不管是谁，看到美丽的风景被破坏应该都会不高兴的。
+
+**派蒙:** 而且，我大概知道怎么治好萨莎了，只要像之前一样，把丑东西重新摆放，让它们也变成美丽风景的一部分，问题不就解决了吗？
+
+问题暂时解决了。
+
+**派蒙:** 暂时解决也是解决嘛！旅行者，我们现在就开始！只要有萨莎指导，肯定能让美丽风景再现的，对吧？
+
+**萨莎:** 又见面了！你们好呀！
+
+**派蒙:** 萨莎，你好呀。对了，关于上次的事…上次是我不好，你还在生气吗？
+
+**萨莎:** 嗯？上次？什么事呀？
+
+**派蒙:** 唔…就是我不该在正高兴的时候提作业什么的扫兴的话…
+
+**萨莎:** 喔…其实…其实真的忘记作业还没完成了。
+
+**派蒙:** 欸？
+
+**萨莎:** 回到家才想起来作业真的没有做完。多亏了派蒙，不然不仅要挨爸爸妈妈训，还要挨老师的训呢。
+
+**派蒙:** 什么嘛！我就说都是为了萨莎好，还是我比较有远见，哼哼。
+
+算是歪打正着吧。
+
+**派蒙:** 从结果来看可是多亏了我呢。
+
+**萨莎:** 从结果来看，我完成了作业，爸爸妈妈也满意，我也不用费力演戏，大家都高兴，是个完美结局呢。
+
+派蒙白担心了，亏大了。
+
+**派蒙:** 是啊，因为担心惹萨莎不高兴了，吃饭都不香了…不过话说回来，没想到一直看起来很可靠的萨莎也会犯这样的小迷糊呢。
+
+**萨莎:** 因为我还是小孩子嘛，小孩子会忘事很普通吧？
+
+**萨莎:** 就算是大人也会常常忘事呢，就像爸爸那样，曾经因为忘记按时提交单据，不仅被妈妈教训，还被事务员教训…
+
+**萨莎:** …最后整整一个星期都抬不起头来。
+
+**萨莎:** 真是太可怕了，我以后一定不要去枫丹科学院工作。
+
+**派蒙:** 萨莎的父母在枫丹科学院工作吗？
+
+**萨莎:** 嗯，所以他们总是很忙，经常不在家。不过这样也好，如果他们每天都在家，那我就不能常常跑出来写生啦。
+
+**萨莎:** 还是现在这样比较好，他们的工作很充实，我的工作也很充实。
+
+**派蒙:** 你的工作？是指作业吗？
+
+**萨莎:** 当然不是啦，你瞧，这里不是也有邪恶组织留下的陷阱吗？我的工作，我们的工作就是清除掉这些陷阱，对吧？
+
+**派蒙:** 原来是说这个呀…倒是不费什么力气，之前做过好几次了，这次我们也来帮帮萨莎吧？
+
+**萨莎:** 旅行者哥哥 / 姐姐和派蒙妹妹…又见面了…
+
+**派蒙:** 萨莎，你好…怎么感觉萨莎不太精神的样子？
+
+**萨莎:** 你们说，时间是有尽头的吗？
+
+**派蒙:** 怎、怎么突然问这么复杂的问题？
+
+**萨莎:** 我只是好奇，像现在这样与邪恶组织抗争的日子，真的有尽头吗？
+
+**萨莎:** 我好想和旅行者哥哥 / 姐姐和派蒙妹妹在风景如画的地方玩耍聊天…
+
+**萨莎:** 可是我们每次见面，一定都有丑东西从中作梗，让我们和美丽风景分离…为了恢复如画的美丽风景，又得花费好多时间…
+
+**萨莎:** 旅行者哥哥 / 姐姐和派蒙妹妹对这样的命运都没有任何想法吗？
+
+**派蒙:** 这也能算是命运吗？感觉只是巧合而已…在原本风景优美的地方，摆着这么突兀的东西，总会忍不住好奇来看看嘛。
+
+**派蒙:** 旅行者是怎么想的呢？
+
+- **旅行者:** 略感疲惫…
+
+- **旅行者:** 除了宝箱其他东西都不放在眼里。
+
+**派蒙:** 我算算…居然已经五次了吗？难、难怪会觉得累…
+
+**派蒙:** 那样会错过沿途的风景的！
+
+**派蒙:** 唔…只要有发现美的眼睛，其实处处都有美景！不如多看看别处的美景，不要管这些让人看了不开心的丑东西了？
+
+**萨莎:** 派蒙妹妹这是在逃避！光靠逃避是解决不了问题的…对了，你们既然也是邪恶组织的成员，有没有帮我在组织内部打听一下？
+
+**派蒙:** 啊？这…光靠我们两个可能有些困难…不过眼前的问题我们还是有能力解决的！事不宜迟，我们现在就来消灭邪恶陷阱吧！
+
+**萨莎:** 好吧…
+
+#### 与萨莎对话
+
+**萨莎:** 不知道会不会有登山的冒险家被邪恶陷阱坑害…
+
+**萨莎:** 旅行者哥哥 / 姐姐，我们这都是为了大家好，对吧？
+
+**萨莎:** 放在合适的位置上是点缀，放在不合适的位置上根本就是障碍。
+
+**萨莎:** 居然把它放在路中间，真是邪恶的陷阱…
+
+**萨莎:** 依我看，它不是画面的主角，就不应该待在正中间。
+
+#### 场景
+
+**萨莎:** 不错，真不错，瞧瞧，这样不就好看多了吗！
+
+**萨莎:** 点、线、面都很协调，每个细节都发挥了自己的作用，让整体的画面更赏心悦目，嗯，嗯！
+
+**萨莎:** 「世上没有无可救药的垃圾，有的只是被放错位置的资源」，爸爸果然没有骗我。
+
+**萨莎:** 旅行者哥哥 / 姐姐和派蒙妹妹也辛苦了，因为你们的奋斗，我们的世界又向美好的方向迈进了一步呢！
+
+**派蒙:** 嘿嘿，我们也没做什么了不起的事啦。
+
+**派蒙:** 话说回来，这样重新摆放之后，的确看起来舒服多了呢。明明只是稍微换了一下位置…原来那种别扭的感觉一下子就没有了。
+
+**派蒙:** 原本以为萨莎只是个说大话的小家伙…没想到确实很懂什么构图取景之类的艺术呢。
+
+**萨莎:** 什…！我们不是一起打倒邪恶组织的战友吗？居然连这点信任也没有…我好难过。
+
+**派蒙:** 我不是完全不相信萨莎的能力啦，只是…欸，别这么难过嘛。
+
+**萨莎:** …哎呀！坏了！
+
+**派蒙:** 又、又怎么了？
+
+**萨莎:** 差点忘记了，今天是爸爸妈妈回家的日子！
+
+他们平常不回来吗？
+
+**萨莎:** 嗯，毕竟爸爸妈妈都很厉害嘛。很厉害的人总是很忙很忙的。
+
+**萨莎:** 虽然我现在也很忙很忙，但是还算不上厉害。等我也变成厉害的大画家，就可以像爸爸妈妈一样不讲道理了。
+
+**派蒙:** 欸？变得厉害和不讲道理之间有什么联系吗？
+
+**萨莎:** 因为爸爸妈妈回家的日子就是检查作业的日子，就算作业早就完成了，只要他们回家的时候我没在做作业，他们就一定会说…
+
+**萨莎:** 「萨莎呀小萨莎，又没在好好用功，成天摆弄画具和颜料，将来该怎么办呀。」
+
+**萨莎:** 就算我说作业早就完成了，他们也会讲很多道理…不对不对，根本就是不讲道理。但是因为他们都很厉害，我说不过他们。
+
+**萨莎:** 所以只好这样，在爸爸妈妈回家的日子，不管作业完成没有，都装作在用功的样子。这样他们就没话说啦。
+
+**萨莎:** 等我变得和他们一样厉害…比他们还厉害的时候，就可以像他们一样不讲道理了，哼哼。
+
+**派蒙:** 总觉得这套理论哪里都不太对…
+
+**萨莎:** 不好！不知不觉又耽搁了这么久…再不回家就赶不上了！
+
+**萨莎:** 旅行者哥哥 / 姐姐和派蒙妹妹，很高兴认识你们，谢谢你们帮忙，我先回家啦！
+
+路上小心。
+
+**派蒙:** 可别摔倒哦！
+
+*萨莎带着画板和装画材的小箱子一路小跑离开了…*
+
+**派蒙:** …简直就像是一阵旋风呢。不过现在的小孩子可真辛苦啊，幸好我没有作业要做。
+
+派蒙啊小派蒙，又没在好好用功…
+
+**派蒙:** 呜啊，旅行者快别说了，不听不听！
+
+**萨莎:** 嗯，嗯！这下邪恶陷阱就被消灭了，不愧是我！
+
+**派蒙:** 的确，现在这样看起来就好多了。明明只是改换一下物件的位置而已…
+
+**派蒙:** 感觉也不是很难嘛！不如说，为什么会有人一开始把东西摆得那么奇怪…
+
+而且专挑风景好的地方。
+
+**派蒙:** 对呀，真不知道到底是有审美还是没审美…
+
+**派蒙:** 要我说，不如让萨莎去给冒险家协会的新人冒险家上课，教教他们怎么把东西摆放好看。
+
+**萨莎:** 真的可以吗？我有好多话想说给邪恶组织的成员听呢！可是他们都不怎么理我…
+
+**派蒙:** 哇…萨莎真的找冒险家协会的人抱怨了吗？
+
+**萨莎:** 嗯，我有去找凯瑟琳说这件事，可是她好怪，除了会说「向着星辰与深渊」，都不告诉我到底是哪个成员干了这些坏事…
+
+- **旅行者:** 她对我也会说「向着星辰与深渊」。
+
+- **旅行者:** 可能是提问方式不对。
+
+**派蒙:** 除了这个之外也会说些别的吧？
+
+**派蒙:** 对哦，突然跟凯瑟琳小姐说什么邪恶组织的陷阱之类，她应该也听不懂吧？
+
+**派蒙:** 唔…可能是因为萨莎年纪还太小了，所以不管是提问还是提意见都不被认真对待。
+
+**萨莎:** 那凯瑟琳会听派蒙说话吗？
+
+**派蒙:** 会…吧？
+
+**萨莎:** 可是我比派蒙大多了，派蒙是妹妹欸。
+
+**萨莎:** 我才不是小孩子呢，别把我当什么都不懂的小孩子，我懂的可多了，哼。
+
+**派蒙:** 就算你这么说…
+
+**萨莎:** 我是大孩子，不仅懂很多，还有很多事要忙…哎呀，得快点回家了。
+
+**萨莎:** 虽然还想跟旅行者哥哥 / 姐姐和派蒙妹妹再玩一会儿…但是我得快点回去了！
+
+*萨莎带着画板和小箱子离开了…*
+
+**派蒙:** 还是老样子，像一阵旋风一样呢。这次都没有好好道别，不知道以后还有没有机会遇到她…
+
+**萨莎:** 我的病治好了！这样看起来就舒畅多啦。
+
+**萨莎:** 旅行者哥哥 / 姐姐和派蒙妹妹是对的，丑东西不是坏东西，只要重新摆放，就可以变成好东西。
+
+**萨莎:** 一个丑东西消灭了，一个好东西诞生了，世界又往美丽的方向前进了两步！
+
+- **旅行者:** 真是事半功倍啊！
+
+- **旅行者:** 这计算方法是不是有点问题。
+
+**派蒙:** 总觉得这种计算方法不太对…
+
+**萨莎:** 旅行者哥哥 / 姐姐真糊涂，一加一不是等于二吗？一点也没错呀。
+
+**派蒙:** 旅行者应该不是这个意思…
+
+**萨莎:** 不管怎么说，我们三个真是太了不起了！只要坚持下去，总有一天，这个世界会变成再也没有丑东西的美丽新世界…
+
+**派蒙:** 这…只靠我们三个应该会很困难吧。旅行者也有重要的事要做，萨莎不是也有作业要做吗？
+
+**萨莎:** 呜…派蒙妹妹为什么要在高兴的时候说这么扫兴的话…我们三个不是并肩作战的正义伙伴吗？
+
+**萨莎:** 好不容易有件高兴的事，现在又难过起来了…就连派蒙妹妹也唠叨作业什么的，那我现在就回家去！
+
+**萨莎:** 再见！
+
+*萨莎带着画板和小箱子，生气地离开了…*
+
+**派蒙:** 欸…她跑得好快…
+
+派蒙，看看你干的好事。
+
+**派蒙:** 我、我这不也是为她好吗…我应该没说什么过分的话吧？
+
+**派蒙:** 唔…总、总之，如果下次还有机会见到她，向她道个歉好了…
+
+**萨莎:** 这样看起来好太多了，嗯。这就是重建工程吧，就像重建枫丹科学院一样，把损毁的废墟恢复成原本应有的模样。
+
+**派蒙:** 重建工程？
+
+**萨莎:** 对呀，妈妈说，中央实验室飞上天以前，也是很好看的建筑，不像现在。
+
+**萨莎:** 不过也有人觉得天上的实验室比以前好看，所以枫丹科学院也在考虑对外开放「废墟旅游」。
+
+**萨莎:** 悄悄告诉你们，我以前去过枫丹科学院那边的废墟喔。
+
+**萨莎:** 就是在那时听到「废墟旅游」的事，当时有两个大人在争论，要不要让废墟保持原样。
+
+**萨莎:** 其中一个说，如果是普通的建筑，大家就不会感兴趣，毕竟枫丹还有很多厉害的建筑嘛。
+
+**萨莎:** 但是如果是废墟，大家就会觉得很新鲜了。
+
+**萨莎:** 所以说，如果用「废墟」当作「卖点」，一定可以吸引到很多参观者，这样，枫丹科学院的财务危机就解除啦。
+
+- **旅行者:** 卖点…
+
+- **旅行者:** 财务危机？
+
+**派蒙:** 枫丹科学院应该是研究机构吧…？
+
+**萨莎:** 因为财务危机，项目经费申请也变得越来越困难了呢，妈妈是这么说的。
+
+**萨莎:** 我还是觉得原来的枫丹科学院比较好看，和图纸里画出来的一模一样呢。
+
+**萨莎:** 现在的天上的实验室…就跟邪恶组织设下的陷阱一样，构成它们的要素都是好的，但是排列的方式不对，画面就不和谐了。
+
+**派蒙:** 哦…我是不太懂啦。不过每次按萨莎说的，把物件重新摆放之后效果都很好。可能这就是艺术天分吧？
+
+**萨莎:** 真是的，派蒙妹妹怎么现在还在说这个，我不是早就说过了吗，我可是未来的大画家！
+
+- **旅行者:** 哟！大画家！
+
+- **旅行者:** 希望成名以后不要忘了我们。
+
+**萨莎:** 现在还不是，不过…真希望未来快点来啊，嘿嘿。
+
+**萨莎:** 当然不会啦，旅行者哥哥 / 姐姐和派蒙妹妹是和我一起努力的正义的伙伴嘛。
+
+和萨莎一起度过一段悠闲的时光…
+到了分别的时刻，互道再见后，萨莎带着画板和小箱子一蹦一跳地离开了…
+
+**萨莎:** 这样就没问题了，可是…邪恶组织的势力好大，到处都有他们设下的陷阱，光靠我们三个怎么够呢…
+
+- **旅行者:** 只能接受现实了。
+
+- **旅行者:** 打爆这一切吧！
+
+**派蒙:** 是啊，现实就是总会遇到不顺心的事。
+
+**派蒙:** 你是说，用重新摆放物件的方式消灭陷阱，对吧？
+
+**派蒙:** …不是真的要打爆一切吧？
+
+**萨莎:** 可惜像我这样又有审美又有行动力的正义伙伴太少了，要是有一百个萨莎，枫丹一定会变成一个更美丽的国家。
+
+- **旅行者:** 把发条机关涂装成萨莎的样子…
+
+- **旅行者:** 感觉会变成另一种形式的邪恶陷阱…
+
+**派蒙:** 那也太可怕了吧！
+
+**派蒙:** 一百个萨莎…唔唔，想到一百个萨莎同时喊派蒙妹妹，头痛起来了…
+
+**萨莎:** 要是有更多像旅行者哥哥 / 姐姐和派蒙妹妹一样，愿意为正义事业做出贡献的伙伴，那情况也一定会比现在好很多…
+
+**派蒙:** 如果是这样，萨莎也可以去问问其他人？对了，如果拜托父母，说不定可以向冒险家协会发起委托呢。
+
+**萨莎:** 什…！那岂不是让我和邪恶组织同流合污…我才不要。
+
+**派蒙:** 萨莎是不是忘了旅行者姑且也算是冒险家协会的成员…
+
+**萨莎:** 你们不一样，你们是弃暗投明的好伙伴。但是，是应该再找些帮手了。
+
+**萨莎:** 应该找一些像我一样，又有审美又有行动力的艺术家，组成联盟。
+
+**萨莎:** 为了枫丹的未来，为了这片大陆的未来，对抗破坏风景的邪恶组织。
+
+**萨莎:** 嗯，嗯！就应该这样。旅行者哥哥 / 姐姐和派蒙妹妹就是「打倒邪恶组织守护枫丹未来艺术家联盟」的一号和二号人物啦。
+
+**派蒙:** 打、打倒邪恶组织守护枫丹未来艺术家联盟？
+
+**萨莎:** 怎么样，是不是很响亮的名字？
+
+**派蒙:** 哦、哦…我们是一号和二号的话，那萨莎呢？
+
+**萨莎:** 我作为创始人，当然是零号了！
+
+**萨莎:** 哎呀，这么一想，有好多事情要做，可不能继续耽搁下去了！这片大陆的未来，就全靠我们啦。
+
+**派蒙:** 听起来的确是值得为之奋斗终身的事业，但总觉得中间有很多误解…
+
+**派蒙:** 算了，不管了，只要萨莎高兴就好。反正的确是在做好事嘛。
+
+**萨莎:** 嗯，是正义的事业哦！所以，我得现在就出发去寻找更多志同道合的伙伴了，一分一秒都很珍贵。
+
+**派蒙:** 要道别了吗？那就祝萨莎一切顺利，希望之后还有机会见面！
+
+- **旅行者:** 再会，零号！
+
+- **旅行者:** 加油啊，萨莎，祝你成功。
+
+**萨莎:** 再见了，一号，二号，希望未来我们能在一个更加美丽的枫丹再会！

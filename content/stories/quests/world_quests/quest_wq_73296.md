@@ -1,0 +1,469 @@
+# id: quest_wq_73296
+# story_group: world_quests
+# title_ru: Художник в свободном плавании
+# title_en: An Artist Adrift
+# title_zh: 画家漂流记
+# region: Тейват
+# game_version: 3.6
+# release_versions: 3.6
+# source_id: 73296
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 73296
+# previous_quests: quest_wq_73295
+# next_quests: 
+# related_quests: quest_wq_73294,quest_wq_73295
+# quest_chain: quest_wq_73294,quest_wq_73295,quest_wq_73296
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Художник в свободном плавании
+
+Жюльен, прославленный художник из Фонтейна, задержался в Сумеру...
+
+#### Отправляйтесь в лагерь у воды
+
+**Жюльен:** Паймон, Путешественник, вы пришли! С друзьями гулять на природе намного веселее!
+
+**Паймон:** Мы обещали показать тебе дорогу. Быть проводниками не так уж и сложно. На самом деле, это проще простого!
+
+**Паймон:** Ты уверен, что хочешь так скоро вернуться в Фонтейн? В Сумеру столько великолепных пейзажей, которые ты ещё не видел...
+
+- **Путешественник:** Тропический лес очень красивый!
+
+- **Путешественник:** У пустыни свои ни с чем не сравнимые пейзажи.
+
+**Паймон:** Много деревьев и рек!
+
+**Паймон:** Много песка и руин!
+
+**Жюльен:** Я не сомневаюсь в их красоте, но... По правде говоря, я не подготовился должным образом к такой дальней поездке. Возможно, поездка была неудачной, но я считаю, что извлёк из неё несколько ценных уроков.
+
+**Паймон:** А ведь поблизости тоже есть на что посмотреть! Будет жаль, если ты этого не увидишь.
+
+Паймон плохого не посоветует.
+
+**Жюльен:** Раз вы настаиваете, полагаю, дальнейший отказ будет просто невежливым.
+
+**Паймон:** Хе-хе. Паймон - самый лучший проводник по Тейвату. Не забывай об этом! Позволь Паймон указать тебе путь и не отставай!
+
+#### Отправляйтесь в оазис Вурукаша
+
+**Паймон:** Говорят, что художники, прежде чем приступить к работе, рассматривают свой объект с разных сторон. Это какой-то... стереотип?
+
+**Паймон:** Мы могли бы сначала осмотреться, а если ничего не найдём, то поищем более подходящее место!
+
+**Жюльен:** Звучит вполне разумно. Я готов отправиться в путь.
+
+**Паймон:** Ну что, помчимся к цели? Ты готов(а), Путешественник?
+
+#### Поговорите с Жюльеном
+
+**Паймон:** Это место наполнено ароматом природы! Разве тебе не хочется сделать наброски? Оно не вдохновляет тебя?
+
+Вот это точно стереотип.
+
+**Паймон:** Да... но у Паймон возникает желание взять в руки кисть, понимаешь? Это место так полно жизни, и цвета такие яркие...
+
+Кхе.
+
+**Паймон:** Ой...
+
+**Паймон:** Извини! Паймон не это имела в виду...
+
+**Жюльен:** Ха-ха, всё в порядке. Я просто вижу пейзаж по-другому, вот и всё. Красотой нужно делиться, не так ли?
+
+**Паймон:** Точно! Паймон любит это место. Оно словно очищает сердце и душу.
+
+Нельзя сказать, что тебе это нужно, Паймон.
+
+**Жюльен:** Друзья мои, спасибо, что проявили ко мне доброту, несмотря на то, что я с самого начала обманывал вас.
+
+**Жюльен:** У вас воистину чистые сердца.
+
+**Паймон:** Хе-хе... Не нужно так сильно преувеличивать. Есть и более уникальные пейзажи!
+
+**Паймон:** Паймон уверена, что ты всё (поняла)(понял), Путешественник. Давай покажем Жюльену это место!
+
+#### Поговорите с Жюльеном
+
+Идём.
+
+**Паймон:** В путь!
+
+#### Поговорите с Жюльеном
+
+**Жюльен:** Фух... Я не думал, что рисование отнимает столько сил. Если бы я знал это, я бы...
+
+**Паймон:** Похоже, Жюльену очень непросто...
+
+**Жюльен:** Уф, ну, я... только недавно залечил раны...
+
+**Жюльен:** Здешние пейзажи поистине уникальны. Странно, что я раньше этого не замечал...
+
+**Паймон:** Впереди тоже неплохой вид. Хочешь пойти туда? Только будь осторожен.
+
+#### Поговорите с Жюльеном
+
+**Паймон:** Как тебе этот вид? Красиво, да? Перчику тоже нравится.
+
+**Жюльен:** Словами не описать эту красоту. Катерпиллер был прав. Мир за пределами железной клетки необъятен...
+
+**Паймон:** Железной клетки?.. Ты говорил, что в Фонтейне у тебя тесновато...
+
+Кхе, в Сумеру есть на что посмотреть.
+
+**Паймон:** Точно! Он решил стать настоящим художником, так что давай немного сменим обстановку, чтобы... как это называется... расширить горизонты!
+
+**Паймон:** Он сказал, что хочет сдаться, но Паймон считает, что рано так говорить! Ещё есть время передумать...
+
+**Паймон:** Только подумай об этом, Жюльен! Там могут быть такие же грандиозные пейзажи, как этот, а может быть, даже более грандиозные - такие, каких ты никогда не видел! Может быть, они дадут вдохновение, которое тебе так нужно!
+
+**Паймон:** Что касается твоего восприятия цвета, ты сам сказал, что просто видишь пейзаж по-другому...
+
+«Красотой нужно делиться».
+
+**Паймон:** Согласен?
+
+**Жюльен:** Да... Звучит вполне разумно.
+
+**Паймон:** Это твои собственные слова.
+
+**Жюльен:** Я... Ха-ха, я так и знал. Я знал это, но продолжал идти по ложному пути...
+
+**Паймон:** Мы узнали об этом месте только потому, что Перчик привёл тебя сюда. Разве можно считать это ложным путём?
+
+**Паймон:** Жаль, что мы не смогли помочь тебе найти путь паломничества океанид, хотя...
+
+Он вообще существует?
+
+**Жюльен:** До этого момента я верил, что он существует, но... Думаю, что неважно, были ли успешны мои поиски...
+
+**Жюльен:** ...главное - то, что я нашёл долгожданный ответ.
+
+**Жюльен:** Спасибо, друзья. Как мне вас отблагодарить?
+
+**Жюльен:** Если бы я только купил то мистическое яйцо, что может отгонять несчастья. Оно наверняка пригодилось бы искателям приключений вроде вас.
+
+- **Путешественник:** Да, и правда жаль.
+
+- **Путешественник:** Всё в порядке. Не думаю, что оно бы нам пригодилось.
+
+**Паймон:** Путешественник, ты что, во всё это веришь?
+
+**Паймон:** Почему нет? Даже если оно и не сможет защищать от несчастий, может быть... может быть, оно было бы в сто раз вкуснее обычного яйца!
+
+**Жюльен:** Я останусь здесь ненадолго. Это место успокаивает душу и хорошо подходит для размышлений.
+
+**Жюльен:** У меня есть предчувствие, что на этот раз я смогу нарисовать что-то особенное...
+
+**Жюльен:** Спасибо, дорогие друзья. Желаю вам удачи в путешествии!
+
+#### Сцена
+
+Но сначала нам нужно подготовиться.
+
+**Паймон:** Хорошо. Отправимся сразу, как будем готовы.
+
+## EN
+
+### An Artist Adrift
+
+The famous artist from Fontaine, Julien, remains in Sumeru...
+
+#### Go to the camp by the water
+
+**Julien:** Paimon, Traveler, you're here! Ah, indeed, one needs friends when on a journey outdoors.
+
+**Paimon:** Well, we did agree to show you the way, didn't we? Guiding people around is a walk in the park for us! Even though we'll be walking in a desert...
+
+**Paimon:** But are you sure you want to go back to Fontaine so soon? You made it all the way to Sumeru, after all. There's still so much to see here!
+
+- **Traveler:** The rainforest has some nice views.
+
+- **Traveler:** The desert has some fascinating sights.
+
+**Paimon:** There's lots of trees and rivers!
+
+**Paimon:** Sand and ruins as far as your eyes can see!
+
+**Julien:** They all sound really nice, but I feel that... I haven't made proper preparations for travel. This trip might've been a failure, but I suppose I did learn a lesson or two...
+
+**Paimon:** Oh, um... In that case, there's also great stuff to see nearby! It would be a pity if you missed them all.
+
+Paimon's recommendations are never wrong.
+
+**Julien:** If you insist... I guess it would be rude if I were to refuse.
+
+**Paimon:** Hehe, Paimon's Teyvat's number one guide, so leave the guiding to Paimon! Just remember to keep up.
+
+#### Go to the Vourukasha Oasis
+
+**Paimon:** They say that artists will observe their subject from many angles before they start. Is that some sort of... "stereotype"?
+
+**Paimon:** We could have a look around first, and if that fails, we can find a vantage point with a better view!
+
+**Julien:** That sounds like a good idea. I'm ready to set out.
+
+**Paimon:** Hehe, shall we race to the destination? Are you ready, Traveler?
+
+#### Talk to Julien
+
+**Paimon:** This place is filled with nature's scent! Doesn't it just make you feel like sketching? Doesn't it make you feel inspired?
+
+Now that's a stereotype.
+
+**Paimon:** Um... But it does make Paimon wanna pick up a brush! This place is so full of vitality, and the colors are so vivid...
+
+Ahem.
+
+**Paimon:** Oh...
+
+**Paimon:** Paimon's sorry... Paimon didn't mean to...
+
+**Julien:** Haha, it's fine. I just see something different, that's all. We can all appreciate beauty, right?
+
+**Paimon:** That's right! Paimon loves this place. It's almost as if it can purify your heart and soul.
+
+Not that you need it, Paimon.
+
+**Julien:** My friends, thank you for showing me such kindness — even to someone like me, who has failed to tell you the truth from the beginning.
+
+**Julien:** You are both indeed pure of heart.
+
+**Paimon:** Hehe... No need to exaggerate so much. Oh, and there are actually more unique sights than this!
+
+**Paimon:** Paimon's sure you know what she's referring to, Traveler. Let's show it to Julien as well!
+
+#### Talk to Julien
+
+Let's go!
+
+**Paimon:** Let's go!
+
+#### Talk to Julien
+
+**Julien:** Phew... I didn't think that drawing was such a taxing thing to do. If I had known that, I would've...
+
+**Paimon:** Looks like that was still a bit much for Julien...
+
+**Julien:** Well, I did just... recover from my injuries... *pants*
+
+**Julien:** But the sights here are truly unique. Indeed, I think it's strange that I never noticed them before...
+
+**Paimon:** The view's pretty good up ahead as well. Let's head over there — but be careful, okay?
+
+#### Talk to Julien
+
+**Paimon:** How's that? Pretty nice, eh? Pepper also seemed really happy.
+
+**Julien:** Having seen this, I find that words seem superfluous. Caterpillar was right. There is such a wide world outside my metal box...
+
+**Paimon:** A metal box... You said that you lived in a very small place in Fontaine, didn't you?
+
+Ahem. Sumeru sure does have lots of sights to see, huh?
+
+**Paimon:** Ah, right, that's right! He's already decided to be a proper artist, so let's switch up the scene a bit to... what do they call it... broaden our horizons!
+
+**Paimon:** He might have said that he wants to give up, but Paimon thinks it's still too early for that! There's still time to reconsider...
+
+**Paimon:** Just think about it, Julien! There might be sights just as grand as this, or maybe even grander — things you've never seen before! Maybe they'll grant you the inspiration you need!
+
+**Paimon:** As for your color recognition, well, you said it yourself! We just "see something different"...
+
+But we can all appreciate beauty.
+
+**Paimon:** Yeah!
+
+**Julien:** Yes... Your words do make sense.
+
+**Paimon:** Those were your words!
+
+**Julien:** I... Haha, so I knew it. I knew it after all, but I just kept walking the wrong path...
+
+**Paimon:** We only met because Pepper brought you here, right? So we shouldn't just think of it as the "wrong path"!
+
+**Paimon:** Well, it's a shame that we couldn't help you find the path of the Oceanids' pilgrimage, though...
+
+Does that even exist...
+
+**Julien:** I've always believed it does, but... I think that my ability or lack thereof to find it is unimportant either way.
+
+**Julien:** After all, I've already found the answer I desire.
+
+**Julien:** Thank you, my friends. *sigh* How can I ever show my gratitude?
+
+**Julien:** If only I had bought those mysterious bird eggs... A mystical item like that, one that can help to ward off ill fortune, would certainly be of more use to adventurers like you.
+
+- **Traveler:** That does seem like a bit of a pity.
+
+- **Traveler:** It's fine, but I don't think it's necessary.
+
+**Paimon:** Wait, do you really believe in something that convenient, Traveler?
+
+**Paimon:** Why not? Even if it can't really deflect bad luck, maybe... maybe it might taste a hundred times better than a normal egg!
+
+**Julien:** I will continue to stay here for a while. This place really calms the soul. It's quite good for self-reflection.
+
+**Julien:** I have a feeling that I might be able to draw something a little different this time...
+
+**Julien:** Thank you both, dear friends. I wish you smooth sailing in your journey!
+
+#### Scene
+
+Let's make some preparations first.
+
+**Paimon:** Alright then. Let's go once we're ready!
+
+## ZH
+
+### 画家漂流记
+
+自称枫丹知名画家的于连仍在须弥滞留…
+
+#### 前往水边营地
+
+**于连:** 派蒙，还有旅行者，你们果然来了！出门在外还是得靠朋友啊。
+
+**派蒙:** 因为答应了给你带路嘛，而且带路也不是什么难事！举手之劳…这时候该说是举足之劳吗？
+
+**派蒙:** 不过，你真的这么快就回枫丹吗？难得到了须弥，其实须弥可看的风景还是很多的…
+
+- **旅行者:** 雨林的风景很不错。
+
+- **旅行者:** 沙漠的景观很特别。
+
+**派蒙:** 有很多树，很多河！
+
+**派蒙:** 有很多沙，很多遗迹！
+
+**于连:** 听起来确实很诱人，但是我想…我其实还没有做好远游的准备。这次虽然是一次失败的旅行，但是也算是收获了一些教训吧…
+
+**派蒙:** 唔…那…那这附近也有很值得一看的景观呢！要是错过就太可惜啦。
+
+派蒙推荐的地方准没错。
+
+**于连:** 既然两位坚持，我再推辞就显得对好朋友失礼了。
+
+**派蒙:** 嘿嘿，我可是提瓦特的最佳向导，带路就交给我吧！你们可不要掉队啦。
+
+#### 前往甘露花海
+
+**派蒙:** 听说画家在动笔之前都会从不同角度观察…这应该不是什么「刻板印象」吧？
+
+**派蒙:** 我们一起在附近转转？还可以去视野更好的高处观察一下！
+
+**于连:** 听起来是个不错的主意，我已经准备好出发了。
+
+**派蒙:** 对了，不如我们比比谁先到终点？旅行者，准备好出发了吗？
+
+#### 与于连对话
+
+**派蒙:** 充满了大自然的气息…是不是很适合写生和寻找灵感？
+
+这是刻板印象啦。
+
+**派蒙:** 唔…可是如果是我就会很想提起画笔呢，这里的景物都有种充满生命力的美，而且色彩也都很绚丽…
+
+咳。
+
+**派蒙:** 啊…
+
+**派蒙:** 对不起…我不是…
+
+**于连:** 哈哈，没关系，我只是看到了不同的景色。但是美是共通的，对吧？
+
+**派蒙:** 嗯！我很喜欢这里的景色呢，感觉心灵都被净化了。
+
+派蒙的心灵应该不需要净化吧。
+
+**于连:** 两位好朋友，给了我这样一个一开始甚至没有说实话的陌生人这么多的善意…
+
+**于连:** 两位都是有着纯洁心灵的好人。
+
+**派蒙:** 嘿嘿…倒也不用这么夸奖啦。对了，其实还有更特别的景色呢！
+
+**派蒙:** 旅行者，你一定知道我在说什么，也让于连见识一下吧！
+
+#### 与于连对话
+
+我们出发吧！
+
+**派蒙:** 出发咯！
+
+#### 与于连对话
+
+**于连:** 呼…想…想不到画画对体力的要求也这么高，早知道我就…
+
+**派蒙:** 看来对于连来说还是太勉强了…
+
+**于连:** 毕…毕竟是刚养好伤…呼…
+
+**于连:** 不过这里的风景的确很独特，真奇怪，为什么之前都没注意到…
+
+**派蒙:** 前边视野应该也不错，我们去那边看看吧，要小心一点哦！
+
+#### 与于连对话
+
+**派蒙:** 怎么样，风景很不错吧？「胡椒」刚才也很高兴呢。
+
+**于连:** 面对这样的景色，语言已经显得多余了。卡特皮拉说得对，铁格子之外还有广阔的世界…
+
+**派蒙:** 铁格子…于连之前说自己在枫丹的住处很小…
+
+咳，须弥的自然风物挺多的。
+
+**派蒙:** …啊，对对！他已经决定要当个堂堂正正的画家了，换个环境也挺好的，那话怎么说的来着…拓宽视野！
+
+**派蒙:** 虽然于连自己说想要放弃…但我觉得没必要那么快就下结论嘛！可以再多考虑考虑…
+
+**派蒙:** 想一想还有很多和眼前的景色一样，或者比这还要壮美的绝景你都还没见识过呢，说不定…说不定看过之后就有灵感了！
+
+**派蒙:** 至于辨别颜色…于连自己也说了，「只是看到了不同的景色」…
+
+「但是美是共通的。」
+
+**派蒙:** 对吧？
+
+**于连:** 的确…你们的话很有道理。
+
+**派蒙:** 是你自己的话啦！
+
+**于连:** 我…哈哈，原来这道理我是明白的，只是…只是我总是走上错误的路…
+
+**派蒙:** 「胡椒」带你走了这条路，我们才能认识呢，所以这也不完全是「错误的路」吧？
+
+**派蒙:** 虽然没能帮你找到纯水精灵的朝圣之路挺遗憾的…唔…
+
+这种东西真的存在吗…
+
+**于连:** 我到现在也相信朝圣之路的确存在，不过…对我来说，能否找到它的终点已经不再重要了吧。
+
+**于连:** 因为我已经找到我想要的答案了。
+
+**于连:** 谢谢两位好朋友，唉，我该怎么感谢你们呢。
+
+**于连:** 要是之前买下了那枚神奇鸟蛋就好了…能够抵消掉一天的厄运的神奇道具，送给你们这样的冒险家正合适呢。
+
+- **旅行者:** 是啊，真可惜。
+
+- **旅行者:** 多谢，不过还是不用了吧。
+
+**派蒙:** 旅行者居然真的相信有这样方便的神奇道具吗？
+
+**派蒙:** 为什么呀！就算不能抵消厄运…说不定…说不定它是比普通鸟蛋好吃一百倍的鸟蛋呢！
+
+**于连:** 我打算在这里多留一下，这里让人心绪宁静，很适合思考。
+
+**于连:** 有种能够画出点什么不一样的东西的预感…
+
+**于连:** 谢谢两位的帮助，也祝好朋友旅途顺利！
+
+#### 场景
+
+还需要做一下准备。
+
+**派蒙:** 唔…那准备好之后再出发吧！

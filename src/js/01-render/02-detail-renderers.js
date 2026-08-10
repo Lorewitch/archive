@@ -385,6 +385,37 @@ function renderStoryTextArea(story) {
   }).join("");
 }
 
+function renderQuestRelations(story) {
+  const chainIds = Array.isArray(story?.quest_chain) ? story.quest_chain : [];
+  if (chainIds.length < 2) return "";
+
+  const labels = {
+    ru: { title: "Цепочка связанных заданий", item: "заданий", current: "Текущее" },
+    en: { title: "Related quest chain", item: "quests", current: "Current" },
+    zh: { title: "相关任务链", item: "个任务", current: "当前" },
+  };
+  const label = labels[state.lang] || labels.ru;
+  const storyById = new Map(STORIES.map(item => [String(item.id), item]));
+  const items = chainIds.map((id, index) => {
+    const linked = storyById.get(String(id));
+    if (!linked) return "";
+    const current = String(id) === String(story.id);
+    const title = titleOf(linked, state.lang) || String(id);
+    const version = linked.game_version ? `<span class="quest-chain-version">${escapeHtml(linked.game_version)}</span>` : "";
+    const body = `<span class="quest-chain-number">${index + 1}</span><span class="quest-chain-title">${escapeHtml(title)}</span>${version}${current ? `<span class="quest-chain-current">${escapeHtml(label.current)}</span>` : ""}`;
+    return current
+      ? `<div class="quest-chain-link is-current" aria-current="page">${body}</div>`
+      : `<a class="quest-chain-link" href="${escapeHtml(routeHash("stories", linked.id, linked.story_group))}">${body}</a>`;
+  }).join("");
+
+  return `
+    <details class="quest-chain-card" ${chainIds.length <= 10 ? "open" : ""}>
+      <summary><span>${escapeHtml(label.title)}</span><span class="quest-chain-count">${chainIds.length} ${escapeHtml(label.item)}</span></summary>
+      <div class="quest-chain-list">${items}</div>
+    </details>
+  `;
+}
+
 function renderStoryDetail(story, config) {
   activeDetail = { type: "story", data: story, configId: config.id };
   if (!story) {
@@ -420,6 +451,7 @@ function renderStoryDetail(story, config) {
         controls,
       })}
 
+      ${renderQuestRelations(story)}
       <div id="reader-text-area">${renderStoryTextArea(story)}</div>
     </section>
   `;

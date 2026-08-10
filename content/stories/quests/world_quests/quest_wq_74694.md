@@ -1,0 +1,391 @@
+# id: quest_wq_74694
+# story_group: world_quests
+# title_ru: Пророчество ведьмы: Указания путешествий
+# title_en: Witch's Revelation: Voyaging Instruction
+# title_zh: 魔女的谕示·舶来之谕
+# region: Фонтейн
+# game_version: 6.7
+# release_versions: 6.7
+# source_id: 74694
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 74694
+# previous_quests: 
+# next_quests: 
+# related_quests: quest_wq_74691,quest_wq_74692,quest_wq_74693,quest_wq_74695,quest_wq_74696,quest_wq_74697,quest_wq_74698
+# quest_chain: quest_wq_74691,quest_wq_74692,quest_wq_74693,quest_wq_74694,quest_wq_74695,quest_wq_74696,quest_wq_74697,quest_wq_74698
+# quest_series: Witch's Revelation
+# version_source: wiki_release_category
+
+## RU
+
+### Пророчество ведьмы: Указания путешествий
+
+У гадального киоска Барбелот вы встречаете Бэй Доу...
+
+#### Поговорите с Бэй Доу
+
+**Бэй Доу:** Значит, карту, которую я вытащила, всё-таки можно считать хорошей.
+
+**Барбелот:** Хе-хе, судьба - это просто судьба. Она не делает различия между плохим и хорошим.
+
+**Барбелот:** Однако, если говорить о выпавшей тебе карте «Сила» в прямом положении, то одно из её толкований отлично подходит твоему роду занятий.
+
+**Барбелот:** Эта карта символизирует страсть, храбрость, уверенность и стремление, а также совершенную, непоколебимую любовь.
+
+**Барбелот:** Какие бы сюрпризы ни подготовила тебе судьба, я уверена, что ты возьмёшь ситуацию под свой контроль и будешь уверенно идти к цели.
+
+**Бэй Доу:** Ха-ха-ха-ха! Ты меня захвалила! По нашим правилам, если предсказание благоприятное, за гадание нужно платить больше.
+
+**Бэй Доу:** Вот, я оставлю тебе свой кошелёк. Если найдётся время, не могла бы ты погадать моей команде?
+
+**Барбелот:** Хе-хе, я впервые слышу такую просьбу.
+
+**Бэй Доу:** Мы пересекли на этом корабле весь Тейват вдоль и поперёк, преодолевая ветры и волны. За все эти годы у каждого накопилась куча проблем.
+
+**Бэй Доу:** Я их капитан, но некоторые проблемы даже я не в силах им помочь решить.
+
+**Бэй Доу:** Встретив тебя, искусную предсказательницу, я подумала, что вдруг ты сможешь помочь им обрести душевное спокойствие.
+
+**Бэй Доу:** Что касается вознаграждения, не волнуйся, мы провернули несколько крупных сделок и неплохо заработали...
+
+**Барбелот:** Звучит заманчиво, но я воздержусь. В моей колоде не так много карт, сколько у тебя подчинённых.
+
+**Бэй Доу:** О, Путешественник, Паймон? Сколько лет, сколько зим! Вы тоже пришли погадать?
+
+- **Путешественник:** П-погадать?..
+
+- **Путешественник:** Что ты делаешь в Фонтейне, Бэй Доу?
+
+**Бэй Доу:** Я здесь по делам. И заодно помогаю одной особе найти новые торговые возможности.
+
+- **Путешественник:** Эта особа...
+
+- **Путешественник:** Должно быть, это...
+
+**Бэй Доу:** Конечно же, госпожа Воля Небес.
+
+**Бэй Доу:** Кто знает, какую авантюру она на этот раз придумала? Пару дней назад, совершенно неожиданно, она сказала мне, что в Фонтейне можно неплохо заработать.
+
+**Бэй Доу:** Не успела я и слова сказать, как она достала подробный маршрут и велела мне следовать указанным торговым путям. Оказалось, что она уже послала людей на разведку.
+
+**Бэй Доу:** В последнее время у меня не было никаких срочных дел, так что я последовала её совету, и знаешь что? Всё прошло как по маслу.
+
+**Бэй Доу:** Дела, на которые я планировала потратить две недели, уладились всего за неделю...
+
+**Бэй Доу:** Я подумала, раз уж мы оказались здесь, то почему бы не задержаться и не повеселиться. Поэтому я дала команде увольнение на берег, чтобы они могли отдохнуть и расслабиться.
+
+**Бэй Доу:** Вот вчера как раз забронировала зал в «Дебор Отеле», и мы отлично повеселились!
+
+**Бэй Доу:** Они отсыпаются в гостинице, а я вышла подышать свежим воздухом, чтобы протрезветь.
+
+**Бэй Доу:** Но не успела я пройти и пары шагов, как эта... эм, предсказательница остановила меня и предложила вытянуть карту...
+
+Ты уже вытянула карту?
+
+**Бэй Доу:** Вот, это карта «Сила»... Выглядит как хорошая карта, а раз она в прямом положении, то, наверное, это делает её ещё лучше?
+
+**Паймон:** «Сила» в прямом положении... как бы это сказать, действительно очень похоже на Бэй Доу.
+
+**Барбелот:** Верно. А теперь я расскажу о другом значении...
+
+**Бэй Доу:** Только не говори, что оно плохое...
+
+**Барбелот:** Я бы не сказала, что это хорошо или плохо, и... хе-хе, это не имеет прямого отношения к твоему будущему. Считай это «внеклассными размышлениями» после завершения гадания.
+
+**Барбелот:** Очевидно, что ты обладаешь как огромной физической силой, так и непоколебимым духом.
+
+**Барбелот:** Если проводить аналогию, ты подобна фонарю в ночи - рассеиваешь тьму и указываешь путь заблудшим.
+
+**Барбелот:** Но знай, что свет притягивает не только заблудших и слабых. К фонарю слетаются насекомые, борясь за свет и тепло.
+
+**Барбелот:** Пламя уверено, что способно согреть их всех, и потому готово гореть ещё ярче. Только так свет не потускнеет.
+
+**Барбелот:** Вот бы кто-нибудь прогнал этих насекомых...
+
+**Барбелот:** Но если этого не произойдёт, то, возможно, однажды фонарь сгорит дотла, и всё ради нескольких недостойных паразитов.
+
+**Бэй Доу:** ...Но если подумать, то волноваться не о чем.
+
+**Бэй Доу:** У меня есть подруга, которая знает, как помочь людям разобраться в ситуации, и... Ха-ха-ха, ей нравится избавляться от вредителей, прячущихся в укромных уголках.
+
+**Барбелот:** Такие друзья - большая редкость. Судя по твоим словам, ты очень доверяешь своей подруге, и она не из тех, кто легко собьётся с пути.
+
+**Бэй Доу:** Она? Ха-ха-ха, если уж она собьётся с пути, то в Ли Юэ не останется никого, кто способен остаться на правильном пути.
+
+**Бэй Доу:** Возьмём, к примеру, эту поездку. Именно она указала путь...
+
+**Бэй Доу:** ...
+
+**Бэй Доу:** Ха, теперь всё стало ясно! Я тут как раз подумала: если бы она и правда хотела заняться торговлей, она бы ни за что не позволила мне расслабляться.
+
+- **Путешественник:** Это определённо в стиле Воли Небес.
+
+- **Путешественник:** Даже чтобы отправить кого-то в отпуск, приходится прибегать к уловкам...
+
+**Паймон:** Хе-хе-хе, если коротко, Нин Гуан хотела, чтобы Бэй Доу взяла отпуск, но... но почему она пошла окольным путём?
+
+**Бэй Доу:** Уверена, она бы сказала что-то вроде: «Иногда приходится идти окольными путями. Только так можно найти кратчайшую дорогу».
+
+**Бэй Доу:** Мне никогда не удастся разгадать все хитросплетения её ума. Ха... Да и ладно, она же рассчитывает на мою помощь в расширении торговых путей, так что вряд ли навредит мне.
+
+**Бэй Доу:** Моя карта «Сила» позволяет мне рассекать волны и смело двигаться вперёд.
+
+**Бэй Доу:** ...Ох! Уже поздно. Пора вернуться и проверить ребят, а заодно помочь им протрезветь. Пора готовиться к отплытию.
+
+**Бэй Доу:** Путешественник, Паймон, и вы, госпожа гадалка, ещё увидимся!
+
+**Бэй Доу:** Эта карта - редкое сокровище... Можно ли её подарить? Наверное, не стоит... Хм... Хотя можно дать посмотреть...
+
+**Барбелот:** Свет, указывающий путь заблудшим... и тем, кто пришёл не только за его сиянием.
+
+**Барбелот:** Интересно. Если будет время, стоит снова посетить Ли Юэ...
+
+## EN
+
+### Witch's Revelation: Voyaging Instruction
+
+You encounter Beidou at Barbeloth's fortune-telling booth...
+
+#### Talk to Beidou
+
+**Beidou:** So, what you're saying is that this card I drew is actually pretty good?
+
+**Barbeloth:** Haha, fate is simply fate. It makes no distinction between bad and good.
+
+**Barbeloth:** However, talking solely about the upright Strength card you drew, one of its interpretations actually fits your profession well.
+
+**Barbeloth:** This card symbolizes passion, courage, confidence, and desire, as well as perfect, unfaltering love.
+
+**Barbeloth:** No matter what surprises fate throws your way, I believe you will take control and steer a steady course.
+
+**Beidou:** Hahahaha! Don't flatter me! By our rules, a good fortune means paying extra for the reading.
+
+**Beidou:** Here, I'll leave my coin pouch with you. If you have the time, could you read the fortunes of my crew?
+
+**Barbeloth:** Haha, that's the first time I've received a request like this.
+
+**Beidou:** We've sailed this ship from one corner of Teyvat to the other, braving the winds and waves. After so many years at sea, there isn't one among them who doesn't harbor troubles of their own.
+
+**Beidou:** I may be their captain, but there are things even I can't help them with.
+
+**Beidou:** So running into a fortune-teller like you, it made me think you might be able to help set their minds at ease.
+
+**Beidou:** As for recompense, that won't be a problem. We've done good business on our way here, and dragged in quite the haul...
+
+**Barbeloth:** As intriguing an offer as that is, I'm afraid I'll have to pass. I fear there aren't enough cards in my deck for such a sizable crew.
+
+**Beidou:** Ah, Traveler, Paimon? I haven't seen you in a long time! Are you here to have your fortunes read, too?
+
+- **Traveler:** Hey Beidou! Uhh...
+
+- **Traveler:** ...What are you doing in Fontaine?
+
+**Beidou:** I'm here on business, of course. And to help a certain someone scout out new trade opportunities while I'm at it.
+
+- **Traveler:** This certain someone...
+
+- **Traveler:** I'm guessing it's...
+
+**Beidou:** Our esteemed Tianquan, of course.
+
+**Beidou:** Who knows what kind of scheme she's cooked up this time? A few days ago — completely out of the blue — she tells me there's good business to be had in Fontaine.
+
+**Beidou:** Doesn't ask my opinion, just whips out a detailed itinerary and tells me to follow the trade route it outlines. Turns out she'd already sent people to scout ahead.
+
+**Beidou:** I haven't had any urgent business lately, so I went along with the whole thing. And what would you know, it's been plain sailing the whole way.
+
+**Beidou:** What was supposed to be a two-week job got wrapped up in just over one...
+
+**Beidou:** I figured since we're already here, we might as well stick around and have some fun. So I gave the crew some shore leave to kick back and relax.
+
+**Beidou:** Matter of fact, just yesterday I booked an event space at the Hotel Debord, and the lot of us drank up a storm!
+
+**Beidou:** The crew's still sleeping it off at the hotel, so I thought I'd venture out for some fresh air and to sober up.
+
+**Beidou:** But I only made it a few steps before this... uhm, fortune-teller stopped me and asked me to draw a card...
+
+So, you've already drawn one?
+
+**Beidou:** Here, it's the Strength card... Looks like a good one, and since it's the right side up, I think that makes it even better?
+
+**Paimon:** Upright Strength... How should Paimon put this... It really does suit you, Beidou.
+
+**Barbeloth:** It certainly does. Now, let me explain the other meaning it holds...
+
+**Beidou:** Don't tell me... It's bad news?
+
+**Barbeloth:** I wouldn't say it's good or bad, and... hehe, it's not directly related to your fortune either. Just a little "after-class musing" now that your reading is over.
+
+**Barbeloth:** It's clear that you possess both powerful outer strength and an indomitable inner spirit.
+
+**Barbeloth:** To borrow a metaphor, you're a lantern in the dark night. You dispel the darkness and guide lost souls on their forward paths.
+
+**Barbeloth:** But you must know that it's not only the lost and weak who are attracted to the glow. Bugs cling to the lantern, competing for light and heat.
+
+**Barbeloth:** Believing that it can keep them warm, the light burns more intensely. Only by doing so will its radiance not dim.
+
+**Barbeloth:** Now, it would be best if someone could drive these bugs away...
+
+**Barbeloth:** Because if no one does, perhaps one day the flame will consume its remaining fuel, all for the sake of a few unworthy pests.
+
+**Beidou:** ...If that's your concern, I don't think there's any need to worry.
+
+**Beidou:** I have a friend who knows how to help people figure things out, and... Well, hahaha, she enjoys taking care of pests who hide in the corners.
+
+**Barbeloth:** A rare friend to have. Judging by your tone, you must really trust her. She doesn't sound like someone who would easily lose her way.
+
+**Beidou:** Her? Hahaha! If she were the type to get lost, I doubt anyone in Liyue would know how to stay on course.
+
+**Beidou:** Take this trip, for instance. She's the one who pointed the way...
+
+**Beidou:** ...
+
+**Beidou:** Hah, it all makes sense now! I was just thinking, if she really wanted to do business, there's no way she'd let me kick back and relax.
+
+- **Traveler:** I suppose this is what you should expect from the Tianquan?
+
+- **Traveler:** Even giving someone time off requires an elaborate ruse...
+
+**Paimon:** Hehehe... So basically, Ningguang just wanted to give you a holiday! But why make you take such a massive detour?
+
+**Beidou:** I'm sure she'd say something like "Some detours are needed. Only by taking them can the shortcuts be found."
+
+**Beidou:** I'll never be able to unravel the twists and turns of her mind. Hah... She still needs me to help expand her trade routes though, so it's not like she'd do me harm.
+
+**Beidou:** As her "Strength" card, I'll remain up front, breaking the waves and forging a path ahead.
+
+**Beidou:** ...Whoa! Look at the time. I'd better head back and check on my crew. See if I can't sober 'em up a little — get them shipshape and ready to sail.
+
+**Beidou:** Traveler, Paimon, Lady Fortune Teller, I hope to see you around!
+
+**Beidou:** ...This card is a rare treasure... Can I keep it? Probably not... right? Hmm... I'll just take one last look...
+
+**Barbeloth:** A light that guides the lost... and those who come for more than its glow.
+
+**Barbeloth:** Interesting. If I have the time, I should pay another visit to Liyue...
+
+## ZH
+
+### 魔女的谕示·舶来之谕
+
+在芭比洛斯的占卜摊前，你遇见了北斗…
+
+#### 与北斗对话
+
+**北斗:** 那这么说来，我抽到的这张牌还算得上是一张好牌啊。
+
+**芭比洛斯:** 呵呵，命运就只是命运，从来都不分什么好坏。
+
+**芭比洛斯:** 不过，单单从你抽到的这张正位「力量」来说，其中的一层含义，倒是很适合你的职业。
+
+**芭比洛斯:** 这张牌象征热情、勇气、自信与渴望，也象征完美的、不迷失的爱。
+
+**芭比洛斯:** 无论面对何种突发事态，想必你都一定能主导并掌控局面吧。
+
+**北斗:** 哈哈哈哈哈哈，您别夸了，按照我们的规矩，抽到了好卦，要多多的给卦钱。
+
+**北斗:** 喏，我把钱袋子放桌上了，要是您有空，不如帮我们船上的兄弟都看看？
+
+**芭比洛斯:** 呵，我还是第一次听到这种请求。
+
+**北斗:** 我这一船的兄弟走南闯北，风里来浪里去的，这么多年了，每个人都揣着一肚子的难题。
+
+**北斗:** 我虽然是他们的老大，但有些问题，我也没办法帮他们解决。
+
+**北斗:** 如今遇见了您这么一位卦师，才想着请您去船上，帮他们多少开导一下心结。
+
+**北斗:** 报酬的话好说，反正我们这一趟过来，也做了几笔大生意，赚了不少…
+
+**芭比洛斯:** 虽然听着很有趣，但还是免了。我这个牌盒里，可没有那么多牌。
+
+**北斗:** 咦，旅行者，派蒙？真是好久不见，你们也来这里算卦么？
+
+- **旅行者:** 算、算卦…
+
+- **旅行者:** 北斗怎么来枫丹了？
+
+**北斗:** 当然是来做生意的，顺便来帮某人查探一下新生意的商路。
+
+- **旅行者:** 这个某人…
+
+- **旅行者:** 应该就是…
+
+**北斗:** 还能有谁，当然是咱们的天权星大人了。
+
+**北斗:** 这女人不知道又想出了什么鬼主意，前几天突然告诉我，枫丹有好生意可以做。
+
+**北斗:** 还没等我说什么，她就摸出了一张详尽的计划表，让我按着上面的商路走就好，她已经派人过去查探过了。
+
+**北斗:** 最近正好也没什么急生意，我就按着她说的来了，结果一来之后，所有事情都办得无比顺利。
+
+**北斗:** 本来准备忙活半个月的事，一个多星期就办好了…
+
+**北斗:** 我想着来都来了，就干脆在这里再玩一会吧，就给兄弟们放了个假，让他们也去放松放松。
+
+**北斗:** 这不，昨天刚在德波大饭店包了个场子，和兄弟们好好喝了一场。
+
+**北斗:** 他们现在还在旅馆里睡着呢，我一个人出来吹风醒醒酒。
+
+**北斗:** 不过嘛，刚走几步，就被这位…呃，卦师给叫住了，请我去抽一张牌…
+
+你已经抽好了？
+
+**北斗:** 喏，就是这张「力量」牌…看着是一张好牌，因为是正着摆的，所以更是好上加好？
+
+**派蒙:** 正位的「力量」…怎么说呢，感觉上确实很像北斗呢。
+
+**芭比洛斯:** 确实。那么，我接下来要说其中所蕴含的另外一层意义了…
+
+**北斗:** 难不成，还有什么坏消息？
+
+**芭比洛斯:** 谈不上好坏，和占卜…呵呵，也没有直接的关系，就当做是占卜结束后的一点「课余奇思」吧。
+
+**芭比洛斯:** 无论是从外在的力量，还是内在的心灵来说，你都的确是一位强大的人。
+
+**芭比洛斯:** 要打比方的话，你就像是在黑夜中的一盏灯火。你会驱散黑暗，会为迷失道路的众人指引前行的道路。
+
+**芭比洛斯:** 但你要知道，会被灯火吸引的，不只有迷路的弱者，还有趋光而行的虫孑。它们会依附在灯罩上，争夺光与热。
+
+**芭比洛斯:** 灯火自信能够同样温暖它们，于是便要燃烧得更彻底。只有这样，光芒才不会变得黯淡。
+
+**芭比洛斯:** 若是有人能将这些跗骨的虫孑驱赶走，倒还好说…
+
+**芭比洛斯:** 但若是没有的话，也许终有一天，灯火也会为不值得的虫孑，燃尽自己的余薪。
+
+**北斗:** …但这么想来，这个倒是不成问题。
+
+**北斗:** 我有一个朋友，她向来很擅长替人解惑，而且…哈哈哈，也经常亲手驱除那些藏在角落里的虫蝇鼠蚁。
+
+**芭比洛斯:** 那还真是难得。听你的语气，你应该很信任那位朋友，而她也不像是会迷失道路的人。
+
+**北斗:** 她？哈哈哈，要是她是迷路者，那整个璃月就没几个认路的人了。
+
+**北斗:** 就好比这一趟，就是她给我指的…
+
+**北斗:** ……
+
+**北斗:** 哈，怪不得。我还说呢，要是那女人真心想做笔大买卖，哪还能容我在这里优哉游哉。
+
+- **旅行者:** 该说不愧是天权星吗？
+
+- **旅行者:** 放假也放得这么有说法…
+
+**派蒙:** 嘿嘿嘿，简单来说，原来是凝光想要给北斗放假呀，可是，她为什么要绕这么大一个圈子呢？
+
+**北斗:** 那女人肯定会这么说：「有些圈子必须要绕，只有绕了，才能抄到近路。」
+
+**北斗:** 她脑子里的弯弯绕，我可弄不明白。呵…反正她还指着我帮她拓宽商路呢，总不会害我。
+
+**北斗:** 我这张「力量」牌，就好好地在前面劈波斩浪，勇往直前就是了。
+
+**北斗:** …哎哟！怎么都这个点了，我得回去看看那群家伙，顺便让他们醒醒酒，为出航做准备了。
+
+**北斗:** 旅行者，派蒙，还有这位算卦的女士，之后有机会再见啊！
+
+**北斗:** …这张牌也算是稀罕物了…能送出去么？应该不能吧…唔…看看应该还行…
+
+**芭比洛斯:** 庇引迷途之人的光辉…和不为光辉而来之人。
+
+**芭比洛斯:** 有意思，要是有空的话，就再去璃月看看吧…

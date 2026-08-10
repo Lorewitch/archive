@@ -89,6 +89,25 @@ const SECTIONS = [
     ]
   },
   {
+    id: "bestiary",
+    icon: `${UI_ICON_BASE}/inventory.webp`,
+    title: "Бестиарий",
+    description: "Противники, существа и фракции Тейвата: не только боевые цели, но и следы цивилизаций, организаций и древних катастроф.",
+    data: () => ENEMIES,
+    groups: BESTIARY_GROUPS,
+    groupField: "enemy_group",
+    defaultGroup: "hilichurls",
+    filter: "region",
+    filterLabel: "Все регионы",
+    columns: ["Название", "Группа", "Регион"],
+    empty: "В этой части бестиария пока нет записей.",
+    row: item => [
+      renderTitleCell(item),
+      escapeHtml(labelFromOptions(item.enemy_group, BESTIARY_GROUPS) || item.enemy_group || "—"),
+      escapeHtml(item.region || "—")
+    ]
+  },
+  {
     id: "stories",
     icon: `${UI_ICON_BASE}/stories.webp`,
     title: "Истории",
@@ -128,5 +147,6 @@ const HOME_SECTION = {
 
 const MENU_CHILDREN = {
   items: ITEM_GROUPS.map(([key, label]) => [key, label]),
+  bestiary: BESTIARY_GROUPS.map(([key, label]) => [key, label]),
   stories: STORY_GROUPS.map(([key, label]) => [key, label])
 };

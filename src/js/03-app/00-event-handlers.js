@@ -71,15 +71,10 @@ function handleNavClick(event) {
   if (child) {
     const sectionId = child.dataset.menuSection;
     const key = child.dataset.menuKey;
-
-
-    if (sectionId === "items") {
-      setRoute("items", null, key);
-      return;
-    }
-
-    if (sectionId === "stories") {
-      setRoute("stories", null, key);
+    const section = SECTIONS.find(item => item.id === sectionId);
+    const isKnownChild = section && menuChildren(section).some(([childKey]) => childKey === key);
+    if (isKnownChild) {
+      setRoute(sectionId, null, key);
       return;
     }
   }

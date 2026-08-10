@@ -1,0 +1,215 @@
+# id: quest_eq_10001
+# story_group: event_chronicles
+# title_ru: Праздник морских фонарей. День 1
+# title_en: Lantern Rite: Day 1
+# title_zh: 海灯节 第一天
+# region: Ли Юэ
+# game_version: 1.3
+# release_versions: 1.3
+# source_id: 10001
+# chapter_num_ru: Праздник морских фонарей. День 1
+# chapter_num_en: Lantern Rite: Day 1
+# chapter_num_zh: 海灯节 第一天
+# part_source_ids: 40001
+# previous_quests: 
+# next_quests: 
+# related_quests: 
+# quest_chain: quest_eq_10001
+# quest_series: 
+# version_source: verified_override
+
+## RU
+
+### Откуда появился свет?
+
+Каждый год, в день первого полнолуния, в Ли Юэ отмечают праздник морских фонарей. Ночью жители города запускают в небо много небесных фонариков и один большой Лунный фонарь. Внутри каждого фонарика находятся левитационный камень и самые сокровенные желания, написанные на специальных палочках. Фонарики медленно уплывают вдаль, освещая путь душам верных защитников Ли Юэ. В этот особой момент вы с Паймон прибываете в Ли Юэ...
+
+#### Направляйтесь к месту строительства лунного фонаря
+
+**Паймон:** Смотри, Путешественник! Камень действительно парит в воздухе! Цепь так туго натянута...
+
+**Паймон:** Если бы не цепь, кто знает, куда бы он улетел?..
+
+**Цзян Чжоу:** Плаустрит поднимет в воздух лунный фонарь. Весь Ночной рынок расположился вокруг него.
+
+**Паймон:** Привет. Кто вы?
+
+**Цзян Чжоу:** Меня зовут Цзян Чжоу. Я слежу за ходом строительства лунного фонаря.
+
+**Цзян Чжоу:** Вы здесь новенькие? Первый раз на Празднике морских фонарей?
+
+**Паймон:** Верно... Как вы догадались?
+
+**Цзян Чжоу:** Не припомню, чтобы в прошлом году на фестивале были такие странные создания.
+
+**Цзян Чжоу:** Я с радостью отвечу на любые ваши вопросы о празднике.
+
+Что такое лунный фонарь?
+
+**Цзян Чжоу:** Вы увидите, как люди будут запускать в небо множество маленьких фонарей. Эти фонари называются «небесные фонари». Ещё есть один огромный фонарь, его собирают все жители Ли Юэ. Мы зовём его «лунный фонарь».
+
+**Цзян Чжоу:** На Ночном рынке ты встретишь торговцев со всего Ли Юэ. Но они здесь не для того, чтобы заработать денег. Все вырученные средства пойдут на постройку лунного фонаря.
+
+**Цзян Чжоу:** Вы тоже можете поучаствовать, если хотите.
+
+**Паймон:** Какая нам выгода?
+
+**Цзян Чжоу:** Лунный фонарь щедро вознаградит вас за усердные труды. В первое полнолуние нового года, когда мы прощаемся со старым и приветствуем новое, все ваши желания...
+
+**Паймон:** То есть - ничего конкретного, да?
+
+**Цзян Чжоу:** Не стоит во всём искать практическую выгоду. Иногда бывает полезно просто помечтать, смотря на звёзды.
+
+**Цзян Чжоу:** Все, кто поучаствует в строительстве лунного фонаря, получат что-то с Ночного рынка.
+
+**Паймон:** После усердной работы нас будут ждать вкусные лакомства, верно?
+
+**Паймон:** Путешественник, за дело! Пойдём поговорим с торговцами на Ночном рынке.
+
+#### Направляйтесь к месту строительства лунного фонаря
+
+**Паймон:** Путешественник, кажется, у нас проблемы...
+
+## EN
+
+### Towards the Lanterns Origin
+
+Every year, on the day of the first full moon, the Lantern Rite of Liyue takes place. On that night, everyone in Liyue releases Xiao Lanterns and Mingxiao Lanterns into the bright night sky. Within each of the xiao lanterns, placed a natural levitation stone, and on it hung one's wishful prayer, or a painting depicting one's desire. The lanterns slowly fly away while carrying a hope that the lights emitted by the lanterns might guide the soul of once Liyue's faithful protector, to return and reunite once more. You and Paimon have arrived at this solemn moment of Liyue, preparing for your five-days-long journey...
+
+#### Talk to Paimon (Hidden)
+
+**Paimon:** Finally, we're in Liyue!
+
+**Bolai:** Young man / lady, if I may be so bold. How much for the floating thing?
+
+- **Traveler:** It's not for sale!
+
+- **Traveler:** Trust me, you couldn't afford it.
+
+**Paimon:** Paimon's not for sale!
+
+**Paimon:** What a strange thing to say!
+
+**Paimon:** But Paimon's curious... What number did you have in mind, exactly?
+
+**Paimon:** Ugh, forget it. Let's assume you meant Paimon is worth more than Mora can buy.
+
+**Bolai:** Hahaha... As a matter of fact, I'm having some financial trouble recently. I probably couldn't afford it.
+
+**Bolai:** I'm just a small-time merchant anyway, I don't deal in rare and exotic treasures.
+
+**Paimon:** Y'know, the more you talk, the more suspicious you sound...
+
+**Bolai:** My, someone's in a grumpy mood aren't they? Here, maybe some candy will make you feel better?
+
+**Paimon:** ...Ooh, suspiciously trustworthy!
+
+**Bolai:** So, I assume you two are in Liyue for the Lantern Rite?
+
+**Bolai:** This year's Mingxiao Lantern is supposed to be a sight well worth the wait. The Plaustrite that will lift the lantern into the air is the largest in twenty years!
+
+**Bolai:** It's big enough to make you wonder... if the fabled floating city in the clouds really does exist...
+
+**Bolai:** I guess it must just be held up by a similarly sized chunk of Plaustrite.
+
+**Paimon:** Sounds awesome!
+
+**Bolai:** Haha! I hope our paths cross again. Welcome to Liyue! ...Well, I can't speak for the whole of Liyue Harbor, but you're always welcome in my store at least!
+
+#### Go to the construction site of Mingxiao Lanterns
+
+**Paimon:** Look, Traveler! That chained-up stone is floating in the air.
+
+**Paimon:** If it wasn't held down, who knows where it would fly off to?
+
+**Jiangzhou:** This is the Plaustrite to be used for the Mingxiao Lantern. The whole of the Xiao Market is centered around it.
+
+**Paimon:** Oh, hello. Who are you?
+
+**Jiangzhou:** I'm Jiangzhou. Recently, I've been tracking progress on the construction of the Mingxiao Lantern.
+
+**Jiangzhou:** You seem like newcomers — is this your first Lantern Rite?
+
+**Paimon:** Yes... How can you tell?
+
+**Jiangzhou:** Well, I don't remember running into any weird and wonderful mascots at last year's festival.
+
+**Jiangzhou:** I'm very happy to answer any questions you have about the festival.
+
+What's the Mingxiao Lantern?
+
+**Jiangzhou:** You'll see lots of people releasing little lanterns during the festival — those ones are called Xiao Lanterns. But there's also a huge one, a joint effort by all the people of Liyue Harbor. That one is called the Mingxiao Lantern.
+
+**Jiangzhou:** Almost every business in Liyue has a booth at the annual Xiao Market — but despite its popularity, this is the one time of the year they're not looking to make a profit. The street market exists solely to raise the funds and materials required for the Mingxiao Lantern construction.
+
+**Jiangzhou:** If you want, you can come and help.
+
+**Paimon:** What's in it for us?
+
+**Jiangzhou:** The Mingxiao Lantern will honor your hard work. On the first full moon of the new year, when we bid farewell to the old and welcome the new, your wishes will be—
+
+**Paimon:** That's all well and good, but Paimon was hoping for something a little more... substantial.
+
+**Jiangzhou:** *sigh* Must you be so matter-of-fact? Yes, we need to keep our feet firmly planted on solid ground, but should we not also gaze up in wonder at the stars? In this life, you have to keep in touch with your inner child...
+
+**Jiangzhou:** But to get to the point, anyone who helps out with the Mingxiao Lantern gets something from the Xiao Market.
+
+**Paimon:** To get even more to the point... there are tasty snacks to play for here?
+
+**Paimon:** Traveler, let's hop to it! We should ask around at the Xiao Market.
+
+#### Go to the construction site of Mingxiao Lanterns
+
+**Paimon:** Traveler, we have a major situation here...
+
+## ZH
+
+### 灯自何处来
+
+每年第一个月圆之夜，就是璃月的「海灯节」。在夜里，人们会放出「霄灯」和「明霄灯」，升上夜空。「霄灯」中编入了天然浮空的「浮生石」，挂上书写心愿或绘制图画的愿签放飞，祈愿历史上曾护佑璃月的英雄魂魄寻灯归来，一聚团圆。你与派蒙来到了节日期间的璃月，准备度过为期五日的旅程…
+
+#### 前往「明霄灯」建设现场
+
+**派蒙:** 旅行者，快看！那块石头浮在空中欸，而且连链子都拉直了。
+
+**派蒙:** 如果没有锁链拴住，不知道它会飞去哪里呢？
+
+**江舟:** 这就是用来制作「明霄灯」的浮生石。整个「霄市」就是围绕着它布设的。
+
+**派蒙:** 啊，请问你是…？
+
+**江舟:** 我是江舟，最近负责明霄灯的建设进度统计。
+
+**江舟:** 看样子你们是第一次来璃月见识海灯节吧？
+
+**派蒙:** 没错…你怎么知道的？
+
+**江舟:** 去年我可不记得有带着奇怪吉祥物的旅行者来过。
+
+**江舟:** 我来介绍一下吧。
+
+所以「明霄灯」是…
+
+**江舟:** 节日里，人们手中放飞的小灯叫做「霄灯」。而全璃月人共同建造的巨灯，就是「明霄灯」了。
+
+**江舟:** 「霄市」上的摊位，是璃月各路商行一年一度、难得不为赚钱，只为筹集「明霄灯」的建设资材而开设的。
+
+**江舟:** 你们如果愿意，也可以一起来帮忙。
+
+**派蒙:** 那，那有什么好处吗？
+
+**江舟:** 你的努力「明霄灯」是会记住的。等到新年第一次月圆，辞旧迎新之时，你的愿望也会…
+
+**派蒙:** 就没有更实际一点的吗？
+
+**江舟:** 唉，何必如此务实？脚踏实地之外，也需要仰望星空啊。人生不能缺少梦想家的气质…
+
+**江舟:** 总而言之，帮助建设「明霄灯」的话，在「霄市」也自有回报。
+
+**派蒙:** 总而言之，只要努力就能换到好吃的，对吧？
+
+**派蒙:** 旅行者，要加油哦！我们去问问「霄市」上的人吧。
+
+#### 与枭总管对话
+
+**派蒙:** 旅行者，我发现了一个很严重的问题…

@@ -1,0 +1,235 @@
+# id: quest_wq_76191
+# story_group: world_quests
+# title_ru: Исследование животных: Капибара
+# title_en: Animal Research: Capybaras
+# title_zh: 动物调查·豚兽
+# region: Нод-Край
+# game_version: 6.5
+# release_versions: 6.5
+# source_id: 76191
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 76191
+# previous_quests: 
+# next_quests: quest_wq_76193
+# related_quests: quest_wq_76192,quest_wq_76193
+# quest_chain: quest_wq_76191,quest_wq_76192,quest_wq_76193
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Исследование животных: Капибара
+
+Согласно данным «Флагмана», банда контрабандистов похитила в Натлане капибару редкой окраски...
+
+#### Сцена
+
+Спустя некоторое время...
+
+#### Остановите Похитителей сокровищ
+
+**Альхома:** Я предупреждал тебя не раз - будь начеку. Это товар высшего сорта, лично заказанный нашими постоянными клиентами из Снежнограда.
+
+**Альхома:** И ты просто отпустил его? Что с тобой стряслось? Совесть вдруг проснулась, что ли?
+
+**Йело:** Босс, послушай, это действительно не моя вина. Хиличурлы...
+
+**Альхома:** Хиличурлы? И это твоя отмазка? Продолжай в том же духе, и ты погубишь нашу репутацию в бизнесе!
+
+**Йело:** Я не справился с ними, босс. Честно, не смог. Один синий, другой зелёный - бьют даже сильнее, чем агенты Фатуи...
+
+**Линнея:** (Эти двое явно контрабандисты...)
+
+**Альхома:** ...Кто здесь?!
+
+**Линнея:** Спокойно, Луми! Ещё не время.
+
+**Альхома:** Что это такое? Хм... Какое необычное существо.
+
+**Альхома:** С маленькой девочкой ты ведь справишься, да? Забирай её питомца. Компенсируем нашу потерю.
+
+**Йело:** Да, босс.
+
+**Линнея:** Ещё и на Луми замахнулись! Репутацию Похитителей сокровищ такие, как вы, только портят...
+
+**Йело:** Эм, а какая у Похитителей сокровищ репутация?
+
+**Альхома:** Хватит. Забирай, и пойдём.
+
+#### Победите противников
+
+(Похоже, поблизости есть что-то достойное изучения. Линнея отлично знает местную экосистему. Возможно, она что-то обнаружит...)
+
+#### Исследуйте клетку
+
+**Линнея:** Испугались и сбежали... Тьфу, трусы.
+
+**Линнея:** (Контрабандной капибары здесь нет... Может, это как-то связано с хиличурлами?)
+
+**Линнея:** (Давайте посмотрим, сможем ли мы найти поблизости какие-нибудь улики.)
+
+#### Исследуйте капибару
+
+**Линнея:** Это действительно серебряная капибара, не окрашенная и не обман зрения. Такая редкость, невероятно...
+
+**Линнея:** Я обыскала весь Натлан, но так и не смогла найти ни одной. А она здесь, в руках контрабандистов.
+
+**Линнея:** Но она, кажется, не ранена... Хе-хе, серебристая капибара! Не думала, что увижу её своими глазами! Дай-ка я... о, как хочется прикоснуться, хоть на мгновение, почувствовать, отличается ли она на ощупь от обычной...
+
+**Линнея:** Ой! Она обжигающе горячая!
+
+**Капибара:** ?
+
+**Линнея:** Ах, прости! Я почти забыла, что ты всё ещё в котле!
+
+**Линнея:** Неужели ты уже привыкла к жидкому флогистону Натлана, поэтому такая температура тебе нипочём?
+
+**Линнея:** В любом случае сейчас ты пойдёшь со мной!
+
+**Капибара:** ♪～
+
+## EN
+
+### Animal Research: Capybaras
+
+According to intel from The Flagship, a group of smugglers has been poaching rare-colored Capybaras in Natlan...
+
+#### Scene
+
+After some time...
+
+#### Stop the Treasure Hoarders
+
+**Alhoma:** I warned you more than once — keep your eyes open. This is premium stock, personally requested by repeat clients in Snezhnograd.
+
+**Alhoma:** And you just let it go? Have you gone soft on me? Did you suddenly grow a conscience or what?
+
+**Yelo:** Boss, listen, it's really not my fault. Those Hilichurls—
+
+**Alhoma:** Hilichurls? You're using that as an excuse? Keep this up and you'll make a joke of our Treasure Hoarder brand!
+
+**Yelo:** I couldn't handle them, boss. I really couldn't! The blue one and its green friend hit harder than those Agents...
+
+**Linnea:** (These two... they're definitely smugglers.)
+
+**Alhoma:** ...Who's there?
+
+**Linnea:** Easy, Lumi! Not yet.
+
+**Alhoma:** What's this? Hmm... A rare find.
+
+**Alhoma:** Hey, you can handle a little girl, yeah? This looks solid enough. Let's swap it in and call it a day.
+
+**Yelo:** Yes, boss.
+
+**Linnea:** You have the nerve to go after Lumi now? You're the reason the Treasure Hoarders' reputation is in the gutter...
+
+**Yelo:** "Reputation"? The Treasure Hoarders have a... what now?
+
+**Alhoma:** Stop wasting your breath on her!
+
+#### Defeat the opponents
+
+(There seems to be something nearby worth examining. Linnea, with her deep knowledge of the local ecology, might find something useful...)
+
+#### Investigate the cage
+
+**Linnea:** They fled in a panic... Tsk, pathetic.
+
+**Linnea:** (The smuggled Capybara isn't here... Could this have something to do with the Hilichurls?)
+
+**Linnea:** (Let's see if we can find any clues nearby.)
+
+#### Investigate Capybara
+
+**Linnea:** It really is a silver Capybara... No dye, no trick of the light. This is so incredibly rare... absolutely astonishing!
+
+**Linnea:** I searched all over Natlan and never managed to find one. Turns out, it got snatched by smugglers.
+
+**Linnea:** But it doesn't seem hurt... Hehe, a silver Capybara! Never imagined I'd get to see one with my own eyes! Let me just— oh, let me feel it for a moment, see if this silver one feels any different from the ordinary ones...
+
+**Linnea:** Ouch! It's burning hot!
+
+**Capybara:** ?
+
+**Linnea:** Ah, I almost forgot! You're still in the pot!
+
+**Linnea:** Could it be that you've grown used to Natlan's liquid Phlogiston, so this temperature barely fazes you?
+
+**Linnea:** Anyway, you're coming back with me for now!
+
+**Capybara:** ♪~
+
+## ZH
+
+### 动物调查·豚兽
+
+根据「旗舰」的消息，有一伙走私贩在纳塔劫掠了颜色罕见的豚兽…
+
+#### 场景
+
+蹲守了一段时间…
+
+#### 制止盗宝团
+
+**艾霍玛:** 三番五次提醒你，让你招子放亮点，这压箱底的尖货，可是至冬堡的熟客点名要的。
+
+**艾霍玛:** 得，你倒好，到我手下改吃素了还是怎么？突然就善心大发，给它放生了？
+
+**耶洛:** 大哥，你听我解释，这真怨不得我，是那丘丘人…
+
+**艾霍玛:** 丘丘人？亏你还好意思说呢！咱们盗宝团的招牌都要砸你手里了！
+
+**耶洛:** 打不过啊，大哥，真打不过！它们那一个蓝的一个绿的下手比债务处理人还狠…
+
+**莉奈娅:** （这两个家伙看起来就是走私贩了…）
+
+**艾霍玛:** …谁在那儿？！
+
+**莉奈娅:** 哎呀露米！还没到出场的时候呢！
+
+**艾霍玛:** 这是个什么玩意儿…看着挺稀罕。
+
+**艾霍玛:** 喂，小姑娘你总应付得来了吧？我看这货也够尖，就拿它替了吧。
+
+**耶洛:** 是。
+
+**莉奈娅:** 居然还想打露米的主意！盗宝团的名声就是被你们这种人败坏的…
+
+**耶洛:** 呃，盗宝团有什么名声？
+
+**艾霍玛:** 少跟她废话！
+
+#### 击败敌人
+
+（附近似乎有些值得调查的，如果是对本地生态十分了解的莉奈娅，或许会有所收获…）
+
+#### 调查笼子
+
+**莉奈娅:** 落荒而逃了…真没出息啊。
+
+**莉奈娅:** （走私的豚兽看起来不在这里…和丘丘人有什么关系吗？）
+
+**莉奈娅:** （在附近找找看有没有线索吧。）
+
+#### 调查豚兽
+
+**莉奈娅:** 真的是银色的豚兽，不是染色的也不是看错，太少见了，不可思议…
+
+**莉奈娅:** 之前在纳塔费尽心思也没找到，原来是被走私贩给抓到了。
+
+**莉奈娅:** 不过看起来好像没受伤…嘿嘿，银色的豚兽，真没想到能亲眼见到，让我摸摸看，银色的和普通的有没有区别…
+
+**莉奈娅:** …好烫！
+
+**豚兽:** ？
+
+**莉奈娅:** 差点忘了，你还在锅里呢！
+
+**莉奈娅:** 难道是已经习惯了纳塔的液态燃素，所以这点温度不算什么吗？
+
+**莉奈娅:** 不管怎么说，你先跟我回去吧！
+
+**豚兽:** ♪～

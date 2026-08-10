@@ -5,6 +5,7 @@ let ARTIFACTS = [];
 let WEAPONS = [];
 let ITEMS = [];
 let STORIES = [];
+let ENEMIES = [];
 const DETAILS = new Map();
 const LOADED_SECTIONS = new Set();
 const SECTION_LOADS = new Map();
@@ -86,7 +87,8 @@ async function loadStorySearchIndex() {
   if (storySearchLoad) return storySearchLoad;
 
   storySearchLoad = fetchOptionalJson("data/stories_search.json")
-    .then(rows => {
+    .then(source => {
+      const rows = normalizeList(source, "stories");
       rows.forEach(row => {
         const id = String(row?.id || "").trim();
         if (!id) return;
@@ -123,15 +125,20 @@ function assignSectionData(sectionId, data) {
   if (sectionId === "weapons") WEAPONS = list;
   if (sectionId === "items") ITEMS = list;
   if (sectionId === "stories") STORIES = list;
+  if (sectionId === "bestiary") ENEMIES = list.map(item => ({
+    ...item,
+    detail_path: item.detail_path || `data/enemies/${encodeURIComponent(item.id)}.json`
+  }));
 }
 
 async function loadSectionData(sectionId) {
   if (LOADED_SECTIONS.has(sectionId)) return;
   if (SECTION_LOADS.has(sectionId)) return SECTION_LOADS.get(sectionId);
 
-  const path = `data/${sectionId}_index.json`;
+  const path = sectionId === "bestiary" ? "data/enemies_index.json" : `data/${sectionId}_index.json`;
   const loader = sectionId === "books" ? fetchJson : fetchOptionalJson;
-  const promise = loader(path)
+  const indexLoad = loader(path);
+  const promise = indexLoad
     .then(data => {
       assignSectionData(sectionId, data);
       LOADED_SECTIONS.add(sectionId);
@@ -160,7 +167,8 @@ async function getGenericDetail(sectionId, id) {
   if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
   const collection = getSectionConfig(sectionId).data();
   const fromIndex = collection.find(item => item.id === id) || null;
-  const detail = await fetchOptionalJson(`data/${sectionId}/${encodeURIComponent(id)}.json`);
+  const detailPath = fromIndex?.detail_path || `data/${sectionId}/${encodeURIComponent(id)}.json`;
+  const detail = await fetchOptionalJson(detailPath);
   const result = detail?.id ? detail : fromIndex;
   DETAILS.set(cacheKey, result);
   return result;

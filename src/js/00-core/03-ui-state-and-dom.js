@@ -18,6 +18,7 @@ const state = {
     books: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
     artifacts: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10 },
     weapons: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
+    bestiary: { query: "", filter: "all", sort: "version", page: 1, pageSize: 10, typeFilters: [] },
     items: {
       query: "",
       filter: "all",

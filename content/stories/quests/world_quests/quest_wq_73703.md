@@ -1,0 +1,409 @@
+# id: quest_wq_73703
+# story_group: world_quests
+# title_ru: Свет мой, зеркальце, скажи
+# title_en: Tell Me, Mirror Mirror
+# title_zh: 镜子镜子告诉我
+# region: Сумеру
+# game_version: 3.8
+# release_versions: 3.8
+# source_id: 73703
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 73703
+# previous_quests: 
+# next_quests: 
+# related_quests: 
+# quest_chain: quest_wq_73703
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Свет мой, зеркальце, скажи
+
+До вас дошли слухи, что кто-то занимается необычными полевыми исследованиями, связанными с зеркалами, и ищет помощников. Может быть, вам стоит взглянуть...
+
+#### Найдите исследовательницу из Сумеру, занятую полевыми исследованиями
+
+**Ламия:** Кхм, привет!
+
+**Ламия:** Возможно, вам будет интересно поучаствовать в совершенно новой игре! Хе-хе, если вы выполните задание, то получите кучу моры на эксперименты!
+
+**Паймон:** Какие эксперименты?
+
+**Ламия:** Ой, извините! Начинаю заговариваться. Я хотела сказать, что вы получите замечательную награду, если сыграете в игру и заполните опрос.
+
+**Ламия:** Игра очень проста! Редко выпадает случай получить награду, почти ничего не делая...
+
+**Паймон:** Хм, всё это как-то подозрительно.
+
+- **Путешественник:** Новая схема мошенничества?
+
+- **Путешественник:** Может, стоит сообщить об этом матрам...
+
+**Ламия:** Эй, нет, вы что! Нельзя же всюду подозревать обман! ...Но следует признать, в подобном месте приглашение от незнакомки пройти какое-то непонятное испытание в самом деле может выглядеть подозрительно.
+
+**Ламия:** Но позвольте мне оправдаться! Нет, не так... Позвольте мне всё объяснить!
+
+Ладно, давай.
+
+**Ламия:** Наверное, по мне этого не скажешь, но я исследовательница из Академии, работаю в даршане Амурта. Меня зовут Ламия.
+
+**Паймон:** Почему, сразу видно, что ты исследовательница. На тебе униформа Академии.
+
+**Ламия:** Вот тут ты не права! Любой мошенник может облачиться в униформу Академии и выдавать себя за учёного.
+
+**Паймон:** ...
+
+**Ламия:** Конечно, я сейчас не о себе. Я просто хотела повысить вашу бдительность! Я действительно состою в даршане Амурта, а если не верите, можете поинтересоваться у матр. Моё имя в их списках на первых страницах.
+
+**Паймон:** И что... это разве хорошо?
+
+**Ламия:** Кхм! Неважно! Вы... Эм, я до сих пор не знаю, как вас зовут...
+
+**Паймон:** Меня зовут Паймон!
+
+А я Путешественник.
+
+**Ламия:** Ха-ха, в таком случае, Путешественник и Паймон, позвольте объяснить вам, в чём суть испытания...
+
+**Ламия:** В его основе лежит повесть, которую я читала ребёнком. Там рассказывалось о мальчике, который превратился в кота и попал в кошачью страну, где его ждало множество приключений!
+
+**Ламия:** Это очень славная история! Хе-хе, главный герой влюбился в прекрасную кошку, а потом превратился обратно в человеческого мальчика! И в конце та самая кошка, в которую он влюбился, стала его питомцем. Такой милый конец!
+
+**Паймон:** Нет... совсем не милый, а очень даже странный.
+
+**Ламия:** Но в самом конце мальчик узнал, что кошка, в которую он влюбился, на самом деле не кошка, а кот! Мне кажется, это отличная концовка для истории.
+
+**Ламия:** Хе-хе... Извините, я ушла от темы. Самое главное, что большая часть той повести была написана от лица разных животных. Мне это очень понравилось! Повзрослев и поступив в Академию, я решила посвятить себя изучению этой темы...
+
+**Ламия:** С помощью нового оборудования и усовершенствованной технологии Акаши мы смогли увидеть мир глазами животных.
+
+**Паймон:** Вот это уже интересно! Но ты вроде как используешь средства Академии, чтобы исполнить свою детскую мечту... Что это, как не злоупотребление служебным положением?
+
+**Ламия:** Ха-ха, скорее пользование общественным достоянием в личных целях. Да, я преследую и личный интерес, но моя разработка имеет большой потенциал практического использования.
+
+**Ламия:** Животные куда быстрее людей отыскивают жертв стихийного бедствия или исследуют древние обрушенные руины. И если мы позаимствуем их зрение...
+
+- **Путешественник:** То сможем пробраться туда, куда не следует.
+
+- **Путешественник:** Оно поможет быстро находить нужные вещи.
+
+**Паймон:** Подожди, что ты хочешь сказать? Ламия говорила о хороших вещах, её исследование служит благородным целям!
+
+**Ламия:** Ха-ха, точно! Путешественник, проницательные люди обычно довольно подозрительны к себе подобным, но рядом с животными они теряют бдительность.
+
+**Паймон:** Эй! Не смей использовать своё исследование в разных подозрительных целях!
+
+**Ламия:** Шутка, я пошутила! При каждом использовании нашей технологии обязательно ведётся запись. Так что если кому-то вздумается напроказить, его мигом накажут.
+
+**Ламия:** Ну, что думаете? Классное исследование, правда?
+
+**Ламия:** Точно! Например, зрение хорька-барахольщика поможет людям быстрее выполнять раскопки в руинах.
+
+**Ламия:** С птичьим зрением можно обозревать землю с большой высоты, и при ясной погоде такое зрение будет большим подспорьем для топографической съёмки.
+
+**Ламия:** Ха-ха, что думаете? Классное исследование, правда?
+
+**Паймон:** Да, впечатляет.
+
+**Ламия:** Я хотела спокойно заниматься своими разработками, но... но эти умники из Кшахревара взялись за похожую тему. Только они собираются использовать для тех же целей маленькие механизмы.
+
+**Ламия:** Это просто... какая-то ересь! Ересь и зло! Ведь иметь дело со зверюшками куда приятнее, чем с холодными бездушными механизмами!
+
+**Ламия:** Верно, Путешественник и Паймон?
+
+**Паймон:** Эм, ну...
+
+- **Путешественник:** Конечно, со зверюшками иметь дело приятнее.
+
+- **Путешественник:** Я из даршана «Бип! Бип! Машинки».
+
+**Ламия:** Я знала, что ты меня поймёшь, Путешественник!
+
+**Ламия:** ?
+
+**Паймон:** Пф, Паймон вообще не понимает, о чём ты говоришь!
+
+**Ламия:** Словом, я должна как можно скорее получить результаты, иначе кшахреварцы меня опередят. Поэтому мне и приходится уговаривать прохожих принять участие в эксперименте.
+
+**Ламия:** Хе-хе, видите, ничего подозрительного.
+
+**Паймон:** Да, всё вполне законно...
+
+«Редко выпадает случай получить награду, почти ничего не делая...»
+
+**Паймон:** Ладно, мы в деле!
+
+**Ламия:** Хе-хе, огромное спасибо!
+
+**Ламия:** Вот, держите! Это моё изобретение, называется «зеркало слежения». Зеркало будет показывать всё, что видит подключённое к нему животное!
+
+**Ламия:** С помощью отражений в зеркале слежения определите, где находятся подключённые животные. А потом поймайте их, и награда ваша!
+
+**Паймон:** Э? А если они разбегутся в разные стороны...
+
+**Ламия:** Нет-нет! Животные обучены оставаться в этой зоне! Они никуда не разбегутся, так что об этом не беспокойтесь!
+
+**Паймон:** Хорошо! Путешественник, в путь!
+
+## EN
+
+### Tell Me, Mirror Mirror
+
+You hear that there's a scholar out in the wild who's trying to recruit people to participate in a strange mirror-related activity. Maybe you should go take a look...
+
+#### Find the scholar in the wild
+
+**Lamiya:** Ahem! You two, over there, excuse me...
+
+**Lamiya:** There's a brand new game here for you two to play! Hehe, as long as you complete the challenge, you'll obtain a ton of funding for experiments!
+
+**Paimon:** Funding?
+
+**Lamiya:** Ah! No, sorry, I spoke too quickly! What I mean is, if you finish the game and fill out the survey, then you'll get amazing rewards!
+
+**Lamiya:** The game is really simple too! Heehee, there aren't many chances to obtain rewards this easily, you know...
+
+**Paimon:** Hm, that seems a bit suspicious to Paimon!
+
+- **Traveler:** Is this some kind of new scam?
+
+- **Traveler:** Should we report this to the matra?
+
+**Lamiya:** Whoa, whoa, don't be like that! There's no need to get so suspicious right off the bat, really... Though I admit that randomly inviting strangers passing by in a place like this might be seen as somewhat unusual.
+
+**Lamiya:** But at least listen to my excuse! Er, I mean, listen to my explanation!
+
+Alright, let's hear it.
+
+**Lamiya:** Though the two of you cannot tell, I am a researcher from the Amurta Darshan of the Akademiya. My name is Lamiya.
+
+**Paimon:** Um, it's actually really obvious, since you're wearing Akademiya clothing.
+
+**Lamiya:** Oho, that's where you're wrong! What if a con artist merely put on Akademiya robes to fool you into thinking they were a researcher?
+
+**Paimon:** ...
+
+**Lamiya:** Of course, I am most definitely not talking about myself! Pfff, come on, I was just reminding you two! I really am from Amurta, if you doubt me, just ask any matra! I'm definitely at the top of quite a few of their lists.
+
+**Paimon:** Is that supposed to be... a good thing?
+
+**Lamiya:** Ahem! Anyway, you two... oh, right! I haven't asked your names yet...
+
+**Paimon:** Paimon's name is Paimon!
+
+And I'm Traveler.
+
+**Lamiya:** Hehe, in that case, Traveler and Paimon, allow me to explain this little challenge to you!
+
+**Lamiya:** This is actually all related to a story I read when I was a child, about a boy who turns into a cat and has all kinds of adventures in the land of cats!
+
+**Lamiya:** It's a really cute story, hehe, after the protagonist falls in love with a beautiful cat, he turns back into a human! Then, the story ends with him as the owner of that gorgeous cat, living out their lives as pet and master... it's a pretty good ending.
+
+**Paimon:** No... That's actually a really weird ending.
+
+**Lamiya:** Well, at the very end, the boy finds out the beautiful cat is actually male! So I think the ending actually has quite a bit of literary value...
+
+**Lamiya:** Hehe... sorry, we got a bit off topic. Anyway, the whole point is that much of the story is written from the perspective of an animal, which fascinated me! After becoming a scholar, I decided that would be my research area.
+
+**Lamiya:** By combining the equipment I developed with the mature tech of the Akasha, we can see the world through the eyes of various animals.
+
+**Paimon:** Now that sounds more like it! Though, using the Akademiya's research funds to chase your dreams, isn't that a bit like abusing your position to get what you want?
+
+**Lamiya:** Haha, perhaps it is appropriating public technology for my private purposes, and a bit selfish, but this also is quite practical and has a lot of potential.
+
+**Lamiya:** When searching for victims after a disaster, or exploring collapsed ruins, small animals are far more agile than us, and if we could borrow their eyes...
+
+- **Traveler:** Then you can infiltrate places you aren't supposed to.
+
+- **Traveler:** Searching for things will be much easier.
+
+**Paimon:** What do you mean, infiltrate places you aren't supposed to...? Lamiya was clearly talking about really good and noble uses!
+
+**Lamiya:** Hehe, exactly! Quite perceptive, Traveler, humans tend to be cautious around their own kind, but are quite relaxed around animals.
+
+**Paimon:** HEY! Don't actually use it for any weird stuff!
+
+**Lamiya:** A joke, a jest! Each time the tech is used, everything is recorded. If you use it for anything naughty, you'll immediately be caught and punished.
+
+**Lamiya:** But still, what do you think? Sounds like some pretty amazing research, doesn't it?
+
+**Lamiya:** Exactly! For example, if you can borrow the vision of a Weasel Thief, you can explore ruins quite quickly.
+
+**Lamiya:** With the eyes of birds, you can look down from on high, and on a clear day with good visibility, it would be very easy to conduct topography or other forms of observation.
+
+**Lamiya:** Hehe, what do you think? Sounds like some pretty amazing research, doesn't it?
+
+**Paimon:** It actually does sound quite impressive.
+
+**Lamiya:** I was planning on taking my time, b—but those fools at Kshahrewar managed to see the promise in such research, and are planning to achieve similar results with tiny machines!
+
+**Lamiya:** It's b—blasphemy, I say! Corruption and evil! Compared to cute little animals, who wants cold machines!?
+
+**Lamiya:** Right, Traveler and Paimon!?
+
+**Paimon:** Well, uh...
+
+- **Traveler:** Of course animals are much cuter!
+
+- **Traveler:** I am from the "Beep, Construct, Beep" Darshan.
+
+**Lamiya:** I just knew you'd understand, Traveler!
+
+**Lamiya:** ?
+
+**Paimon:** Hmph, Paimon has no idea what you're talking about!
+
+**Lamiya:** Anyway, the point is that if I can't produce results ASAP, those Kshahrewar dolts will certainly beat me to the punch! So grabbing passersby out here away from prying eyes is my only option.
+
+**Lamiya:** Hehe, when you think about it like that, there's nothing suspicious about it at all.
+
+**Paimon:** Sounds like it's pretty legit after all!
+
+"Not many chances to obtain rewards this easily"...
+
+**Paimon:** Alright, then count us in!
+
+**Lamiya:** Hehe, thank you, thank you so much!
+
+**Lamiya:** Anyway, take this first! It's a tool I invented, I call it the Inscribed Mirror. The mirror will show you what the animal connected to my device sees!
+
+**Lamiya:** Just use the images shown in the Inscribed Mirror to figure out where the animals with the devices attached are, then catch them to earn your reward!
+
+**Paimon:** Huh? So if they're running around all over the place...
+
+**Lamiya:** It's fine, hehe, they're all trained, and will stay in the area! They won't go too far, so don't worry about that!
+
+**Paimon:** Okay! C'mon, Traveler, let's roll out!
+
+## ZH
+
+### 镜子镜子告诉我
+
+听说在野外有到处招揽人进行与镜子有关的奇怪活动的学者，去看看究竟怎么回事吧…
+
+#### 前往野外的须弥学者处
+
+**拉米雅:** 啊，那边的，那边的两位请留步…
+
+**拉米雅:** 这里有一个新的有奖小游戏想要两位参加，呵呵，只要完成了挑战，就能够获得丰厚的实验资金…
+
+**派蒙:** 实验资金？
+
+**拉米雅:** 啊不是，一时口快说错了，只要完成游戏并且填写完问卷就会获得挑战奖金。
+
+**拉米雅:** 挑战也很简单哦，轻轻松松就能拿到奖励的机会可不多哦，呵呵…
+
+**派蒙:** 唔，看上去有点可疑。
+
+- **旅行者:** 是什么新型诈骗吗…
+
+- **旅行者:** 要不要向风纪官举报…
+
+**拉米雅:** 哎，哎，别这样，别一言不合就怀疑别人嘛，好吧，我知道在这种地方邀请路过的人进行莫名其妙的挑战确实有点不合常理。
+
+**拉米雅:** 但是听我辩解，不是，听我解释一下嘛！
+
+好吧，那就给你个狡辩的机会。
+
+**拉米雅:** 虽然两位可能看不出来，其实我是个教令院生论派的学者…我的名字叫拉米雅。
+
+**派蒙:** 是学者这点还蛮明显啦，毕竟穿着教令院的衣服。
+
+**拉米雅:** 呵呵，这可不一定，说不定也有假扮学者骗人的家伙呢。
+
+**派蒙:** ……
+
+**拉米雅:** 我可不是说我自己啊，欸呀，只是给两位提个醒，我真的是生论派的学者啦，是各位风纪官笔记本里也排得上名号的那种。
+
+**派蒙:** 在风纪官的笔记本里排得上名号真的是好事吗…
+
+**拉米雅:** 咳咳，总之，二位…哦对了，还没请教二位的名字…
+
+**派蒙:** 我的名字是派蒙！
+
+我是旅行者…
+
+**拉米雅:** 呵呵，旅行者和派蒙，那我就给二位解释一下，这个挑战到底是怎么回事。
+
+**拉米雅:** 其实这都和我童年的时候读的故事有关，那是一个小少年变成猫，然后在猫的国度冒险的故事。
+
+**拉米雅:** 那个故事很可爱，呵呵，主角和美丽猫贴贴以后，重新变回人，和美丽猫最终变成主人和宠物的关系作为结局也很不错。
+
+**派蒙:** 不，这个结局显然很奇怪吧。
+
+**拉米雅:** 最后少年主角还发现美丽猫是一只公猫，我还觉得这结局挺有文学性的呢…
+
+**拉米雅:** 呵呵…说远了，就是因为这个故事里有很多以小动物第一视角的描写，让我很感兴趣，成为学者以后，也一直在做类似的研究。
+
+**拉米雅:** 通过研发出来的装置和成熟的虚空技术，就可以连接各种动物们的视觉。
+
+**派蒙:** 这个听上去终于正经了起来，不过，也像是在用教令院的经费满足自己的梦想呢，这就有点「公报私仇」了…
+
+**拉米雅:** 哈哈，应该算是有点「公器私用」啦。虽然确实有点私心，不过这本来也是比较有实际应用的课题前景。
+
+**拉米雅:** 在灾后搜寻需要救助的人员，或者查探坍塌的古遗迹，小动物们会比我们更加灵活，如果能够借用它们的视觉…
+
+- **旅行者:** 就能潜入不该潜入的地方。
+
+- **旅行者:** 就能更快找到要找的东西。
+
+**派蒙:** 什么叫不该潜入的地方啦，拉米雅说的用途明明就很正经。
+
+**拉米雅:** 呵呵，确实如此，真是敏锐啊旅行者，人会对同类有戒心，但是往往会对动物网开一面。
+
+**派蒙:** 欸——别真的用在奇怪的用途上啦！
+
+**拉米雅:** 开玩笑的，开玩笑的，每次这种技术的应用都会留下记录啦，干坏事也会立刻被抓到。
+
+**拉米雅:** 不过，怎么样，听上去是很了不起的研究吧。
+
+**拉米雅:** 正是如此，比如，如果能够借用盗宝鼬的视觉，就能够更快进行遗迹发掘。
+
+**拉米雅:** 如果能够借用鸟类的视觉，那么在高空进行俯瞰，天气晴朗能见度高的时候，对地形勘测和观察都会有很大的助益。
+
+**拉米雅:** 呵呵，怎么样，听上去是很了不起的研究吧。
+
+**派蒙:** 听上去倒是还挺厉害的。
+
+**拉米雅:** 本来可以慢慢进行研究，可、可是妙论派的家伙，居然也在做应用前景差不多的课题，他们打算用小型机关来做类似的事。
+
+**拉米雅:** 简、简直就是邪魔外道！比起冰冷的机关，还是小动物比较可爱吧！
+
+**拉米雅:** 对吧，旅行者和派蒙！
+
+**派蒙:** 嗯，这个嘛…
+
+- **旅行者:** 确实是动物比较可爱！
+
+- **旅行者:** 我是「嘎嘎——机械」派的。
+
+**拉米雅:** 我就知道旅行者一定能理解！
+
+**拉米雅:** ？
+
+**派蒙:** 哼，不知道你在说什么！
+
+**拉米雅:** 反正，我现在如果不能更快拿出成果的话，一定会被妙论派的课题组抢先。只能出此下策，在野外招揽路过的人进行实验。
+
+**拉米雅:** 呵呵，你看，这不是什么可疑的事吧。
+
+**派蒙:** 这样一听倒其实是正经的活动啦…
+
+「轻松拿奖励的机会可不多…」
+
+**派蒙:** 嗯，那我们就参加好了！
+
+**拉米雅:** 呵呵，那就感谢两位了！
+
+**拉米雅:** 总之，先拿着这个，这个道具就是我研发出的「铭随流镜」，镜子里能够显露出与其用装置关联的小动物视角中的事物。
+
+**拉米雅:** 通过「铭随流镜」所显现出来的，安装在它们身上的装置里提取到的影像，判断它们的位置。把它们抓住就可以领奖了！
+
+**派蒙:** 咦，那它们要是跑来跑去的…
+
+**拉米雅:** 没关系，呵呵，它们都是受过训练的动物，会在这个区域保持小范围的移动，不会跑到特别远的地方，这点还请不用担心。
+
+**派蒙:** 好！旅行者，我们这就开始出发吧！

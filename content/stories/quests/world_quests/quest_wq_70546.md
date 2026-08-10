@@ -1,0 +1,343 @@
+# id: quest_wq_70546
+# story_group: world_quests
+# title_ru: Бабах-приключения Додоко!
+# title_en: Dodoco's Boom-Bastic Escapades!
+# title_zh: 嘟嘟可砰砰历险记！
+# region: Мондштадт
+# game_version: 5.0
+# release_versions: 5.0
+# source_id: 70546
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 70546
+# previous_quests: 
+# next_quests: 
+# related_quests: 
+# quest_chain: quest_wq_70546
+# quest_series: 
+# version_source: wiki_release_category
+
+## RU
+
+### Бабах-приключения Додоко!
+
+Проходя мимо тихого сада в Мондштадте, вы с Паймон слышите, как два рыцаря обсуждают новую игру...
+
+#### Поговорите с двумя рыцарями
+
+**Эматол:** Ну же, Фония! Неужели ты не хочешь стать первым игроком в чудесную «Бабах-приключения Додоко»? Давай, ты ведь этого хочешь!
+
+**Эматол:** Совершенно новый боевой режим, более гибкий, чем когда-либо прежде, позволяющий не только совершать высокоточные взрывы, но и хитроумно расправляться с врагами. Разве это не потрясающе?
+
+**Фония:** Как бы это сказать... нет. Если ты целыми днями грезишь бомбами, это не значит, что все вокруг такие же.
+
+**Фония:** Кроме того, помощь в создании прототипа и настольной игры уже можно считать настоящей сверхурочной работой.
+
+**Фония:** Всё, чего я сейчас хочу, - это заказать еду из «Хорошего охотника», а затем вернуться в свою скромную обитель. К тому времени, как заказ доставят, я как раз закончу со стиркой, и наконец-то смогу расслабиться...
+
+**Фония:** Что касается твоей новой бабах-игры... Когда мы в следующий раз будем вместе дежурить, я, пожалуй, попробую сыграть. Я и так схожу с ума от скуки, так что вреда от неё точно не будет.
+
+**Паймон:** Неужели ты только что сказала слова «новая» и «игра» в одном предложении? Паймон стало любопытно... Можно нам взглянуть?
+
+**Эматол:** Минуточку, неужели это почётный рыцарь и (её)(его) помощница в белом? Не могу поверить своему счастью!
+
+- **Путешественник:** Я вспомнил(а)! Ты Бомбанутая!
+
+- **Путешественник:** А вы кто?
+
+**Эматол:** Ты знаешь, кто я, почётный рыцарь? Должно быть, я и правда произвела впечатление во время «Операции: Иглобрюхи»...
+
+**Эматол:** Я... Я... Я обещаю, что не подведу тебя!
+
+**Эматол:** В последнее время я постоянно совершенствую формулу и конструкцию своих бомб, стремясь сократить пропасть между мной и Рыцарем Искоркой, шаг за шагом, взрыв за взрывом...
+
+**Фония:** В общем, после предыдущей операции Эматол пришла к выводу, что ставка исключительно на дальнее бомбометание имеет существенные тактические просчёты и недостаточно эффективна при борьбе с определёнными типами препятствий и укрытий...
+
+**Фония:** Мы всего лишь винтики в хорошо отлаженной машине, коей являются рыцари Ордо Фавониус, поэтому неудивительно, что ты не слышал(а) о нас, почётный рыцарь, или что наши лица могли вылететь у тебя из головы. Вполне объяснимо!
+
+**Фония:** Я Фония, офицер-связист исследовательской команды, отвечаю за тестирование алхимического оборудования слежения. Это моя коллега, офицер-оружейник исследовательской команды Эматол, которая проявляет... скажем так, довольно незаурядный интерес к взрывчатым веществам.
+
+**Фония:** В прошлый раз мы отвечали за борьбу с иглобрюхами из Сумеру, вторгшимися в Сидровое озеро. Эта давняя операция прошла довольно гладко.
+
+**Фония:** После этого Эматол пришла к выводу, что ставка исключительно на дальнее бомбометание имеет существенные тактические просчёты и недостаточно эффективна при борьбе с определёнными типами препятствий и укрытий...
+
+**Фония:** Поэтому она начала экспериментировать с новым оборудованием. Чтобы испытать его, мы внесли некоторые улучшения в любимую настольную игру Рыцаря Искорки.
+
+**Эматол:** Именно так! А в последние дни, проанализировав стратегию боя Рыцаря Искорки, я придумала ещё один способ использования бомб!
+
+**Эматол:** У Рыцаря Искорки, вероятно, было бы такое решение: «Если одной Прыг-скок бомбы недостаточно, используйте три; если один Прыг-скок не может решить проблему, бросайте три». И да, увеличение огневой мощи - верный способ решить проблему.
+
+**Эматол:** Но для простых рыцарей, вроде нас, это не выход. Мы просто не можем конкурировать с Прыг-скок бомбами Рыцаря Искорки и их ударным фактором, поэтому мы сосредоточились на улучшении гибкости и точности, чтобы компенсировать недостаток силы.
+
+**Эматол:** Мы думали, что если создать нечто, способное отслеживать цели и подходить достаточно близко, чтобы заложить бомбы, то мы сможем поражать опасные цели с высокой точностью и тем самым получить максимальную отдачу!
+
+**Паймон:** Отслеживать врагов и закладывать бомбы? Звучит впечатляюще и страшно одновременно...
+
+**Паймон:** Если бы Паймон была хиличурлом, который вместе со своими приятелями гонится за лесным кабаном, и вдруг из ниоткуда выскочила какая-то штуковина и бросила в нас бомбу... Паймон бы, наверное, потеряла сознание от страха!
+
+- **Путешественник:** Круто...
+
+- **Путешественник:** А можно мне такое устройство?
+
+**Паймон:** Ты права... Сам факт того, что это будет ужасно страшно для монстров и врагов, доказывает, насколько полезно это будет для нас, рыцарей Фавониуса, равно как и для достойных искателей приключений!
+
+**Эматол:** Моя догадка оказалась верной! Ты (такая же любительница)(такой же любитель) взрывчатки, как и я...
+
+**Эматол:** Но это новое устройство находится на ранних стадиях тестирования. Потребуется некоторое время, прежде чем его можно будет официально выпускать и использовать... Я буду стараться изо всех сил!
+
+**Фония:** Учитывая, что проведение экспериментов в дикой местности нанесёт вред естественной экосистеме Мондштадта, и то, что это не настолько значимо, чтобы беспокоить капитана Альбедо, не стоило и подавать заявку на создание испытательного полигона.
+
+**Фония:** Посоветовавшись со мной, Эматол решила начать с небольшого тестового образца, чтобы проверить управление и взрывные возможности.
+
+**Фония:** Так получилось, что мы вспомнили о старой настольной игре, которая стала бы идеальной основой для подобного эксперимента. И Эматол привела меня к Лизе...
+
+**Эматол:** И, слава Архонту, у нас получилось! Благодаря энтузиазму Лизы, её советам и помощи в разработке сюжета, конечный результат получился... бомбическим!!!
+
+**Эматол:** Та-дам! Узрите, здесь, на этом игровом столе, прямо перед вами, долгожданное продолжение игры «Бомбические приключения Додоко»... «Бабах-приключения Додоко»!
+
+**Эматол:** Овладев искусством взрыва на близком расстоянии, Додоко и её фирменные Прыг-скок бомбы вернулись, наделённые неистовой мощью, чтобы следовать нашим командам и уничтожать полчища возродившихся врагов!
+
+**Эматол:** Станьте свидетелем эпической битвы умов между Додоко и Шипастым рыбоцарём, погрузитесь в напряженный игровой процесс и радостное разрушение... и, конечно же, помогите нам записать ценные экспериментальные данные для нашего нового устройства.
+
+**Паймон:** Ух ты! Так вот над какой игрой ты работала, Эматол? Новейшая часть саги о противостоянии Додоко и Шипастых рыбовоинов!
+
+**Фония:** Похоже, почётный рыцарь и помощница в белом полны энтузиазма по поводу новой игры. Их отзывы, несомненно, окажутся бесценными.
+
+**Эматол:** Это точно! Если вы потратите немного своего драгоценного времени на игру, я буду бесконечно благодарна!
+
+- **Путешественник:** Значит, мы будем первыми, кто сыграет в неё?
+
+- **Путешественник:** Ты никого не забыла?
+
+**Паймон:** Учитывая, что это продолжение истории о противостоянии Додоко и Шипастых рыбовоинов, разве Рыцарь Искорка не была бы самым подходящим тестировщиком?
+
+**Эматол:** Если учесть, что в новой игре фигурирует Додоко, это, безусловно, было бы честью для меня...
+
+**Эматол:** Но дело в том, что я хотела сделать так, чтобы, к тому моменту, когда Рыцарь Искорка получит возможность сыграть в игру, «Бабах-приключения Додоко» были настолько захватывающими, насколько это возможно, с минимальным количеством недостатков...
+
+**Паймон:** Хе-хе, Паймон всё поняла! Ты хочешь сказать, что на этот раз у нас будет два задания: помочь тебе протестировать новое устройство и выступить в роли тестировщиков игры, чтобы убедиться, что Кли она понравится!
+
+- **Путешественник:** Мне нравится эта идея!
+
+- **Путешественник:** Ради Кли и интересных игр!
+
+**Эматол:** Замечательно! Я бы сказала, что мы с вами отлично поладили!
+
+**Эматол:** Одна мысль о том, что я буду наблюдать за вашей игрой, приводит меня в полный восторг! Тогда не будем терять времени, давайте начнём!
+
+## EN
+
+### Dodoco's Boom-Bastic Escapades!
+
+While passing by a quiet garden in Mondstadt, a couple of Knights who are discussing a "new game" draw your and Paimon's attention...
+
+#### Talk to the two knights
+
+**Ematol:** C'mon, Phonia, c'mon! Don't you want to be the first player to ever experience the marvel that is "Dodoco's Boom-Bastic Escapades"? Go on, you know you want to!
+
+**Ematol:** An all-new combat mode that's more flexible than ever before, allowing you to not only achieve pinpoint-precise demolition but also outsmart crafty enemies while you're at it — how could that not be an absolute blast!
+
+**Phonia:** How about... no. Just because you spend all day fantasizing about bombs, doesn't mean the rest of us do too.
+
+**Phonia:** Heck, helping you out by getting the prototype and tabletop game up and running already counts as some serious overtime.
+
+**Phonia:** All I want to do now is order some takeout from the Good Hunter, then return to the comfort of my humble abode. By the time it arrives, I'll have just finished the last of the laundry, and it'll finally be time to kick back and relax...
+
+**Phonia:** As for this new boom shaka-lacking game of yours... Well, next time we're on shift together, I might give it a go. If I'm already bored out of my mind, what harm could it do anyway...?
+
+**Paimon:** Did you just say the words "new" and "game" together in the same sentence? Paimon's curious now... Could we take a look?
+
+**Ematol:** Wait a minute, is that you, Honorary Knight and their Helper in White? You're actually here! What are the chances!?
+
+- **Traveler:** I remember now, you're the "Bombaholic"!
+
+- **Traveler:** And you are...?
+
+**Ematol:** Y—You know who I am, Honorary Knight? I must really have left an impression during "Annihilate the Invasive Anglers"... Even you've heard about me?
+
+**Ematol:** I—I—I... I promise I won't let you down!
+
+**Ematol:** Recently, I've been making ongoing improvements to the formula and design of my bombs, striving to narrow the gap between me and the Spark Knight, bit by bit, boom by boom...
+
+**Phonia:** Anyway, after the previous operation, Ematol concluded that relying solely on long-distance bomb deployment had considerable tactical shortcomings, and wasn't effective enough at dealing with certain types of obstacles and cover...
+
+**Phonia:** Mere cogs in the well-oiled machine that is the Knights of Favonius that we are, it's no surprise that you haven't heard of us, Honorary Knight, or that our faces might have slipped your mind. Perfectly understandable!
+
+**Phonia:** I'm Phonia, Investigative Team Signals Officer, and I'm responsible for testing alchemical detection equipment. This is my colleague, Investigative Team Weapons Officer Ematol, who has a... shall we say, rather unique interest in explosives.
+
+**Phonia:** Last time, we were in charge of dealing with those Anglers from Sumeru invading Cider Lake. That operation, which took place quite a while back now, went pretty smoothly.
+
+**Phonia:** After that, Ematol concluded that relying solely on long-distance bomb deployment had considerable tactical shortcomings, and wasn't effective enough at dealing with certain types of obstacles and cover...
+
+**Phonia:** So she began experimenting with some new equipment. To test it out, we even made some improvements to the Spark Knight's beloved tabletop game.
+
+**Ematol:** That's right! And in recent days, after analyzing the Spark Knight's combat strategy, I've come up with another way to use the bombs!
+
+**Ematol:** If we were the Spark Knight, the solution would probably be: "If a single bomb's worth of explosives isn't enough, use three; if a lone Jumpy Dumpty can't solve the issue, throw three." And yes, increased firepower is a surefire way to solve the problem.
+
+**Ematol:** But for run-of-the-mill Knights like us, that just isn't an option. We simply can't compete with the Spark Knight's Jumpy Dumpties and their boom factor, so we've focused on improving flexibility and accuracy to make up for the lack of power.
+
+**Ematol:** Our thinking was that if we could create something that could track targets and get close enough to lay down bombs, we could strike dangerous targets with pinpoint accuracy and thereby maximize the load!
+
+**Paimon:** T—Tracking enemies and laying down bombs? Sounds pretty impressive, but also kinda scary...
+
+**Paimon:** If Paimon were a hilichurl chasing down a Forest Boar with her hilichurl buddies, and suddenly a little thingamajig popped out of nowhere and threw a bomb in our faces... she'd probably be so terrified she'd faint!
+
+- **Traveler:** That actually sounds pretty cool...
+
+- **Traveler:** ...Can I have one?
+
+**Paimon:** You're spot on... the fact that it would be so terrifying to monsters and enemies simply proves how useful it would be to us, the Knights of Favonius, and upstanding adventurers too!
+
+**Ematol:** My hunch was right! You're an explosives enthusiast, just like me...
+
+**Ematol:** But this new device is still in the early stages of testing. It'll take some time before it's ready for official production and use... I'll give it everything I've got!
+
+**Phonia:** Given that conducting experiments in the wild would harm Mondstadt's natural ecosystem and how this isn't important enough to justify us bothering Captain Albedo, it wasn't worth the trouble of applying for a testing ground.
+
+**Phonia:** After Ematol asked for my advice, we settled on a small-scale simulation prototype to test the controls and explosive capabilities.
+
+**Phonia:** It just so happened that we thought of an old tabletop game that would make the perfect foundation for such testing. So Ematol dragged me off to find Lisa...
+
+**Ematol:** And thank goodness we did! With Lisa's enthusiastic support, advice, and even some help with the storyline, the end result is... a-ma-zing!!!
+
+**Ematol:** Tada! Behold, here on this game table before your very eyes, the much-awaited sequel to Dodoco's Bomb-Tastic Adventure... "Dodoco's Boom-Bastic Escapades"!
+
+**Ematol:** After mastering the art of close-range demolition, Dodoco and her Special Jumpy Dumpties are back with an explosively volatile vengeance, here to follow our commands and obliterate hordes of resurgent enemies!
+
+**Ematol:** Bear witness to an epic battle of wits between Dodoco and the Spikey Fish King, and as you do, immerse yourself in intense action and joyous destruction... while helping us record valuable test data for our new device, of course.
+
+**Paimon:** Wow! So that's the game you've been working on, huh, Ematol? The latest installment in the Dodoco versus Spikey Fish saga!
+
+**Phonia:** Seems like the Honorary Knight and the Helper in White are pretty excited about it, Ematol. Their feedback will no doubt prove invaluable.
+
+**Ematol:** I can tell! If they'd be willing to spend some of their precious time playing, I'd be eternally grateful!
+
+- **Traveler:** Does that mean we'll be the first to play it?
+
+- **Traveler:** ...You're not forgetting someone, are you?
+
+**Paimon:** Given that it's the follow-up to the Dodoco v. Spikey Fish story, wouldn't the Spark Knight herself be the most suitable game tester of all?
+
+**Ematol:** Ah! Well... Considering that Dodoco features in the new game, that would of course be a true honor...
+
+**Ematol:** But I wanted to make sure that "Dodoco's Boom-Bastic Escapades" is as incredible an experience as possible, with as few flaws as is humanly possible, such that by the time the Spark Knight gets the chance to play it...
+
+**Paimon:** Hehe, Paimon's got it! You're saying that this time, we'll have multiple roles — not only are we helping you test out your new device, but we're also acting as game testers, making sure that Klee will love it!
+
+- **Traveler:** Sounds right up my street!
+
+- **Traveler:** In the name of Klee, and fun games too!
+
+**Ematol:** Wonderful! I'd say we're getting on like an exploding house on fire, wouldn't you agree?
+
+**Ematol:** Just the thought of watching you guys play gets me so pumped right now! Anyway, let's get this show on the road!
+
+## ZH
+
+### 嘟嘟可砰砰历险记！
+
+路过静谧的蒙德花园时，两位正在讨论「新游戏」的骑士吸引了派蒙和你的注意力…
+
+#### 与两位骑士对话
+
+**艾玛托:** 方妮雅，我的好姐姐！你难道不想成为「嘟嘟可砰砰历险记」的第一位玩家吗？试试这款新作吧！
+
+**艾玛托:** 灵活机动的作战方式，点对点的精准爆破，和狡猾游走的敌人斗智斗勇，怎么看都特别好玩吧！
+
+**方妮雅:** 不要。我又不像你，整天只想着和炸弹过日子。
+
+**方妮雅:** 帮你折腾测试样机和桌上游戏，已经属于高强度加班了。
+
+**方妮雅:** 我现在只想叫一份「猎鹿人」的外送订单，然后回家。等到门被敲响时，我刚好洗完最后一件衣服，心情愉快地接过我的餐品…
+
+**方妮雅:** 至于这个噼噼砰砰的新游戏，就等到下次和你一起值班，闲得无聊时再玩吧。
+
+**派蒙:** 什么新游戏，听得我都好奇了…可以让我们也看看吗？
+
+**艾玛托:** 等等，是荣誉骑士和白色小帮手？居然真的能遇见你们！
+
+- **旅行者:** 我想起来了，你是「炸弹怪人」！
+
+- **旅行者:** 你们是？
+
+**艾玛托:** 荣誉骑士认识我？看来上次我在「入侵角鲀歼灭战」的表现很出色…连您都听说了我的名字？
+
+**艾玛托:** 我我我…我一定继续加油！
+
+**艾玛托:** 最近我正在持续改良炸弹配方和设计，努力让我和火花骑士大人的差距再缩小一点点，一点点…
+
+**方妮雅:** 总之，上次行动过后，艾玛托认为，只靠远距离投放炸弹，还是存在不小的作战死角，而且面对一些屏蔽物和掩体时不够有效…
+
+**方妮雅:** 嗯…作为西风骑士团里不起眼的部件，荣誉骑士没听说过，或是不记得我们，都没关系。
+
+**方妮雅:** 我是调查小队的信号官方妮雅，负责试验炼金探测设备。她是我的同僚，武器官艾玛托，对爆炸物有着…独特的嗜好。
+
+**方妮雅:** 上次我们负责应对须弥「角鲀」入侵果酒湖事件，行动还算顺利，距今有些年月了。
+
+**方妮雅:** 在那之后，艾玛托认为，只靠远距离投放炸弹，还是存在不小的作战死角，而且面对一些屏蔽物和掩体时不够有效…
+
+**方妮雅:** 所以她开始折腾新的装备，为了验证这种装备，还特地改进了火花骑士爱玩的桌上游戏。
+
+**艾玛托:** 没错！这些天来我一直在分析火花骑士的战斗思路，想出了炸弹的另一种使用方式！
+
+**艾玛托:** 火花骑士的习惯大概是「一份装药的威力不够，就用三份；一枚蹦蹦炸弹解决不了，就丢三枚」，增大威力肯定能解决问题。
+
+**艾玛托:** 但这对我们普通骑士来说太困难了，不能在威力上和火花骑士大人的蹦蹦炸弹匹敌，就只能用灵活性和准确度弥补缺点。
+
+**艾玛托:** 如果开发出一种能够追踪目标，接近布置炸弹的装备，既可以实现对危险目标的精准打击，又可以最大程度利用负重！
+
+**派蒙:** 追…追着敌人放炸弹的装备？听起来很厉害，又有点吓人…
+
+**派蒙:** 假如我是个丘丘人，正和朋友追着野林猪呢，突然蹦出来个小东西，二话不说就把炸弹扔在我们脸上…我应该会吓得昏过去！
+
+- **旅行者:** 好像还挺酷的？
+
+- **旅行者:** 给我也来一台？
+
+**派蒙:** 也对哦…对魔物和敌人恐怖，就说明对我们、对西风骑士和冒险家有用！
+
+**艾玛托:** 我的预感果然没错，荣誉骑士也是个爆炸物爱好者…
+
+**艾玛托:** 不过，目前这种新装备还处于早期验证阶段，正式生产和投入使用还需要一段时间，我会加把劲的！
+
+**方妮雅:** 考虑到在野外进行试验会影响到蒙德的自然生态，这种小事也不到惊动阿贝多队长的程度，没必要特意申请一块试验区。
+
+**方妮雅:** 艾玛托咨询我后，决定先建造一个小型样机，进行模拟操纵和爆炸试验。
+
+**方妮雅:** 正好，之前有种桌上游戏，很适合进行缩比测试，艾玛托就拉着我找到了丽莎前辈…
+
+**艾玛托:** 然后获得了丽莎姐姐的支援和建议，甚至是故事情节的支援，就有了超棒的收获——
+
+**艾玛托:** 锵锵！请看这边的游戏桌，「嘟嘟可轰轰奇遇记」第二部，「嘟嘟可砰砰历险记」！
+
+**艾玛托:** 这回，学会了近距离爆破的嘟嘟可，带着特别蹦蹦炸弹强势回归，顺着我们的指挥，迎战卷土重来的敌人！
+
+**艾玛托:** 在嘟嘟可和角角鱼大王的斗智斗勇中，我们能充分享受火花的炙烈和爆炸的快乐…顺便为新式装备记录宝贵的测试数据。
+
+**派蒙:** 喔！艾玛托改进的游戏，嘟嘟可大战角角鱼！
+
+**方妮雅:** 看起来，荣誉骑士长官和白色小帮手还挺有兴趣的，他 / 她们也能提出极具参考价值的建议。
+
+**艾玛托:** 没错没错，如果荣誉骑士和白色小帮手愿意花费宝贵的时间来玩，我真是感激不尽！
+
+- **旅行者:** 这下我们成第一个试玩的了？
+
+- **旅行者:** 唔，是不是还忘了一个人？
+
+**派蒙:** 既然是嘟嘟可勇斗角角鱼的续作，是不是最应该邀请火花骑士来玩呢？
+
+**艾玛托:** 呜！考虑到新游戏借用了嘟嘟可的形象，我就无比荣幸了…
+
+**艾玛托:** 所以我想让「嘟嘟可砰砰历险记」更精彩、有趣，尽量在火花骑士大人玩到它之前，改进更多不足之处…
+
+**派蒙:** 哼哼，我明白了！这次我们身兼多职，要帮你测试新装备，要担任游戏的捉虫玩家，也要负责之后让可莉开开心心玩玩它！
+
+- **旅行者:** 正合我意！
+
+- **旅行者:** 为了可莉和好玩的游戏！
+
+**艾玛托:** 一拍即合，我和荣誉骑士，还有白色小帮手的默契增进了！
+
+**艾玛托:** 只是看着你们玩游戏，我的热情也会涌上来！那事不宜迟，我们现在就开始吧！

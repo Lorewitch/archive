@@ -1,0 +1,277 @@
+# id: quest_wq_79054
+# story_group: world_quests
+# title_ru: Память о звёздной ночи
+# title_en: A Starry Night, as Remembered
+# title_zh: 如留旧时的星影
+# region: Тейват
+# game_version: 3.8
+# release_versions: 3.8
+# source_id: 79054
+# chapter_num_ru: 
+# chapter_num_en: 
+# chapter_num_zh: 
+# part_source_ids: 79054
+# previous_quests: 
+# next_quests: 
+# related_quests: quest_eq_10117,quest_eq_10118,quest_eq_10119,quest_wq_10135,quest_wq_73526,quest_wq_73527,quest_wq_73528,quest_wq_73529,quest_wq_79041,quest_wq_79050
+# quest_chain: quest_eq_10117,quest_eq_10118,quest_eq_10119,quest_wq_10135,quest_wq_73526,quest_wq_73527,quest_wq_73528,quest_wq_73529,quest_wq_79041,quest_wq_79050,quest_wq_79054
+# quest_series: Secret Summer Paradise
+# version_source: wiki_release_category
+
+## RU
+
+### Память о звёздной ночи
+
+Джерони мечтает смотреть звёздное небо, когда захочет. Почему бы не сделать для него снимок? Даже если это всего лишь отражение в бутылке, а не настоящее небо, оно всё равно будет приятным сувениром.
+
+#### Сцена
+
+**Джерони:** О, как вы здесь оказались? Здесь высоко, да и рельсовых путей нет. Это ведь самый край Миража Велуриям!
+
+**Джерони:** Люди сюда редко захаживают. Даже Идия... Эх, сомневаюсь, что она вообще знает о существовании этого места.
+
+**Паймон:** Но здесь же совсем ничего нет. Что ты здесь вообще забыл, Джерони?
+
+**Джерони:** Да просто вышел прогуляться... Эй, не смотрите на меня так, как будто я ушёл из дома, потому что поругался с Фердинандом!
+
+**Джерони:** Да не ссорились мы, честно! А прогуливаюсь я просто... э-э... из интереса.
+
+**Джерони:** Думаю, вы знаете, что идея с Таратайкой Чух-Чух принадлежит мне. Тогда я всё ходил и мечтал, как было бы хорошо, если бы можно было с лёгкостью подниматься сюда...
+
+**Джерони:** Поэтому я... поэтому Джерони и придумал повозку Чух-Чух и рельсы. Всё благодаря любви к небу и высотам!
+
+**Джерони:** Звучит глупо, да? Слышал я как-то в Инадзуме одну фразу. Звучит как-то так: «покорить небеса стремятся только дым да безумцы»...
+
+- **Путешественник:** Удивительно, что в голову тебе пришла идея сотворить Чух-Чух.
+
+- **Путешественник:** Это очень интересная идея.
+
+**Джерони:** Вот только существует Чух-Чух лишь в Мираже Велуриям.
+
+**Джерони:** Ну, не будем об этом... Сюда я пришёл ещё по одной причине - полюбоваться звёздами.
+
+**Джерони:** Я знаю, что здешние звёзды - просто отражения своих сестёр за пределами Миража. Однако для меня они всё равно красивы.
+
+**Джерони:** Каждую ночь, что я смотрю на звёзды... моё сердце наполняют покой и безмятежность.
+
+Это точно Джерони? Такая любовь к звёздному небу...
+
+**Джерони:** Такое прекрасное небо не оставит равнодушным никого. Жаль только, что днём звёзды прячутся за облаками.
+
+**Джерони:** Но было бы ещё чудеснее, если бы мне не нужно было каждый раз взбираться сюда ради этого.
+
+**Паймон:** О! У Паймон появилась идея!
+
+**Джерони:** Ого, неужели есть способ решить эту проблему?
+
+Просто сфотографируй небо и любуйся себе.
+
+**Джерони:** С...сфотографировать? Вот до чего техника дошла.
+
+**Паймон:** Ага! Почему бы нам не сфотографировать звёздное небо для Джерони?
+
+**Джерони:** Вы правда сделаете это для меня?
+
+С радостью.
+
+**Паймон:** Но сперва нужно найти хороший ракурс...
+
+**Джерони:** Здесь! Ночью с этой платформы открывается чудесный вид на ночное небо! Поэтому я и прихожу именно сюда.
+
+**Паймон:** В самом деле? Отлично! Подожди, мы сделаем фотографию!
+
+#### Дождитесь ночи (19:00 - 05:00)
+
+**Начать съёмку:** Плейсхолдер
+
+#### Отправляйтесь на платформу и сфотографируйте звёздное небо
+
+**Паймон:** Джерони, мы вернулись! Смотри, вот твоё фото звёздного неба.
+
+**Джерони:** Ух ты... Прямо как настоящее!
+
+**Джерони:** Я что, правда могу забрать это фото себе?
+
+**Паймон:** Конечно, мы ведь его для тебя и сделали!
+
+**Джерони:** Ха-ха, спасибо! Спасибо, что показали мне эту удивительную технологию. Раз теперь мы можем фотографировать всё, что хотим сохранить на память... Быть может, однажды Чух-Чух и за пределами Миража появится!
+
+**Джерони:** Какие же красивые звёзды... Если бы только эта технология была доступна ещё тогда... Он бы тоже мог любоваться ночным небом в любое время!
+
+#### Вернитесь к Джерони
+
+**Джерони:** Фотографии... Да, люди - удивительные изобретатели. С этой штукой можно легко сохранять память о каждом пейзаже во время путешествия.
+
+**Джерони:** Ну что, Путешественник, (закончила)(закончил) с фотографиями? Так хочется посмотреть на снимок звёзд!
+
+## EN
+
+### A Starry Night, as Remembered
+
+Jeroney wishes to be able to see the starry sky whenever he wants, so why not take a photo of it for him? Even if it's only the reflection inside the bottle and not the real thing, it will be beautiful enough.
+
+#### Scene
+
+**Jeroney:** Why are you up here yourself? There isn't even a rail line here, and it's way high up at the very edge of the Mirage.
+
+**Jeroney:** People rarely come here. Even Idyia... Heh, I doubt she even knows this place exists.
+
+**Paimon:** So if there's nothing here, why are you here, Jeroney?
+
+**Jeroney:** I just came out for a little fresh air... Hey, don't give me that "you ran away from home after arguing with Ferdinand again" look!
+
+**Jeroney:** Come on, there really wasn't an argument. I'm just taking a stroll out of, well, I don't know, personal interest!
+
+**Jeroney:** I suppose you already knew that the Choo-Choo Cart was my idea. At that time, I was only thinking: What's something that could easily reach great heights...
+
+**Jeroney:** So I... So Jeroney brainstormed the Choo-Choo Cart and the rails, all for the love of the sky and heights.
+
+**Jeroney:** Sounds silly, doesn't it? I remember Inazuma has a saying that goes something like, "only idiots and smoke like to rise up high"...
+
+- **Traveler:** It's awesome that you could think up the Choo-Choo Cart.
+
+- **Traveler:** I think it is so much fun.
+
+**Jeroney:** But it can only exist in the Veluriyam Mirage.
+
+**Jeroney:** ...Forget it, let's not talk about it. I also came here to stargaze.
+
+**Jeroney:** I know the stars here are merely an ephemeral shadow from outside the Mirage, but they're pretty enough for me.
+
+**Jeroney:** Every night when I look upon the starry sky... I feel so peaceful.
+
+The one who loves the starry sky... is it Jeroney...?
+
+**Jeroney:** But whoever sees a starry sky like that couldn't help but fall in love with it. If only I could see the stars in the daytime...
+
+**Jeroney:** Or even better, if I didn't have to climb up here every day!
+
+**Paimon:** Wait! That's possible! Paimon's got an idea!
+
+**Jeroney:** Huh? Really?
+
+We can just take a photo...
+
+**Jeroney:** Pho... Photo? That sounds like some advanced technology.
+
+**Paimon:** Yeah, why don't we take a photo of the starry sky for Jeroney?
+
+**Jeroney:** Can you really do that?
+
+Of course you can!
+
+**Paimon:** But... Paimon isn't sure of any good spots to take pictures of the starry night...
+
+**Jeroney:** Here! At night, on the platform here, you can see the most beautiful starscape! That's the reason I came here in the first place.
+
+**Paimon:** Really? Great! Jeroney, you just wait for our photo!
+
+#### Wait until night (19:00 – 05:00)
+
+**Start Taking Photos:** Placeholder
+
+#### Go to the platform and take a photo of the night sky
+
+**Paimon:** Jeroney, we're back~! See, this is the photo! Check it out!
+
+**Jeroney:** ...Wow, it looks just like what my eyes would see.
+
+**Jeroney:** Are you really giving me this photo?
+
+**Paimon:** Of course, we took it just for you!
+
+**Jeroney:** Haha, thank you... thank you so much. I never thought I'd see such amazing technology. With technology like this, maybe one day we will also be able to build a Choo-Choo Cart outside the Mirage.
+
+**Jeroney:** What a gorgeous night sky... If only we had technology like this back then, then... then he would have been able to see this beautiful sight whenever he wanted.
+
+#### Report back to Jeroney
+
+**Jeroney:** Photos... I can't believe something so amazing exists already. Now, it's possible to keep a record of all kinds of amazing scenery...
+
+**Jeroney:** Well, Traveler, did you finish taking the photo? I'm really looking forward to seeing your photo of the starry sky!
+
+## ZH
+
+### 如留旧时的星影
+
+杰洛尼想要随时能够看到星空，不如用留影机为他拍摄一张星空的画片吧。虽然只是瓶中折射，不是真正的星空，但也是足以让人想念的美景。
+
+#### 场景
+
+**杰洛尼:** 咦，你们怎么到这里来了？这里没有轨道，也很高，又在整个琉形蜃境边缘的位置。
+
+**杰洛尼:** 平时很少有人会到这边来，就连伊迪娅…哼哼，我怀疑她自己都压根不知道有这么个地方。
+
+**派蒙:** 这里什么都没有嘛，杰洛尼在这里做什么呢？
+
+**杰洛尼:** 我只是稍微出来散散心啦…咦，别用那种「不会又和费迪南德吵架，所以离家出走了吧！」的眼神看我。
+
+**杰洛尼:** 没有，真的没有吵架，我之所以会到处跑是出于，呃，该怎么说，是出于个人兴趣。
+
+**杰洛尼:** 之前不是也说过吗，「呼呼飞车」一开始的想法是我提出的，那时我的想法就是，有什么东西能够轻松爬到高处就好了…
+
+**杰洛尼:** 所以我…所以杰洛尼才想出了飞车和轨道，那是因为喜欢天空和高处。
+
+**杰洛尼:** 很像个傻瓜吧，我记得稻妻也有那种谚语，什么只有脑子不好使的人和烟喜欢往上跑之类的…
+
+- **旅行者:** 能想到飞车就很了不起。
+
+- **旅行者:** 飞车很有趣哦。
+
+**杰洛尼:** 但是在琉形蜃境中，才能建起这样的飞车。
+
+**杰洛尼:** …算了，不提这个。我到这里来的原因还有一个，那就是为了观赏这里的星空。
+
+**杰洛尼:** 虽然琉形蜃境的星空应该也只是瓶外星空的折影，但是对我来说也足够美丽了。
+
+**杰洛尼:** 每天晚上…只要看着这片星空，心中就会感受到无比的安宁。
+
+喜欢星空的，是杰洛尼吗…
+
+**杰洛尼:** 只要看到那样的星空，不管谁都会喜欢上的。真是可惜啊，如果白天也能看到星空就好了。
+
+**杰洛尼:** 当然了，如果不用每天爬到这里也能看到那就更好了，哈哈。
+
+**派蒙:** 啊，这样的办法！我想到了一个！
+
+**杰洛尼:** 咦，真的有这样的办法吗？
+
+只要拍摄画片就好了…
+
+**杰洛尼:** …画、画片？原来现在还有那么先进的东西。
+
+**派蒙:** 嗯，不如我们拍一张星空的画片给杰洛尼看吧！
+
+**杰洛尼:** 真的可以吗？
+
+当然可以。
+
+**派蒙:** 不过，不知道哪里能拍出好看的星空呢…
+
+**杰洛尼:** 啊，这里！夜晚，在这边的平台上，能看到最漂亮的星空，这也是为什么我爬到这里来的原因。
+
+**派蒙:** 这样啊，好！杰洛尼你就等我们的画片吧！
+
+#### 等待至夜晚（19点—5点）
+
+**开始拍照:** 占位
+
+#### 前往高处平台拍摄星空
+
+**派蒙:** 杰洛尼！我们回来啦，你看，这就是我们说的画片。
+
+**杰洛尼:** …真的，看上去跟真的一模一样。
+
+**杰洛尼:** 这张画片，真的能给我吗？
+
+**派蒙:** 本来就是为你拍的啦！
+
+**杰洛尼:** 哈哈，谢谢…谢谢你们，没想到我还能看到这么厉害的技术。已经都有这样的技术了，说不定在蜃境之外能看到飞车也不是梦。
+
+**杰洛尼:** 真是漂亮的星空啊，如果那个时候有这样的技术就好了，这样…他也可以随时看到这片星空了吧…
+
+#### 回报杰洛尼
+
+**杰洛尼:** 画片啊…现在居然有这么神奇的东西，这样应该也能轻松记录沿途的风景吧。
+
+**杰洛尼:** 怎么了，旅行者，拍下画片了吗？我可是很期待你在那里拍出的星空呢。

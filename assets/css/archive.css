@@ -2583,6 +2583,66 @@ a {
   align-items: flex-start;
 }
 
+.quest-chain-card {
+  margin: 0 0 18px;
+  border: 1px solid color-mix(in srgb, var(--accent) 28%, var(--line));
+  background: color-mix(in srgb, var(--surface) 94%, var(--accent) 6%);
+}
+
+.quest-chain-card summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 16px;
+  cursor: pointer;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.quest-chain-count,
+.quest-chain-version,
+.quest-chain-current {
+  color: var(--muted);
+  font-size: .82rem;
+  font-weight: 600;
+}
+
+.quest-chain-list {
+  display: grid;
+  max-height: 360px;
+  overflow: auto;
+  border-top: 1px solid var(--line);
+}
+
+.quest-chain-link {
+  display: grid;
+  grid-template-columns: 30px minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: 10px;
+  min-height: 42px;
+  padding: 7px 16px;
+  border-bottom: 1px solid color-mix(in srgb, var(--line) 72%, transparent);
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.quest-chain-link:hover {
+  background: color-mix(in srgb, var(--accent) 10%, transparent);
+}
+
+.quest-chain-link.is-current {
+  background: color-mix(in srgb, var(--accent) 14%, transparent);
+}
+
+.quest-chain-number {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.quest-chain-title {
+  min-width: 0;
+}
 
 .reader-lang-control {
   margin-left: auto;
@@ -3423,6 +3483,14 @@ a.enemy-loot-chip:focus-visible {
 }
 
 @media (max-width: 720px) {
+  .quest-chain-link {
+    grid-template-columns: 24px minmax(0, 1fr) auto;
+  }
+
+  .quest-chain-current {
+    display: none;
+  }
+
   :root {
     --content-pad-top: 22px;
     --content-pad-x: 14px;
