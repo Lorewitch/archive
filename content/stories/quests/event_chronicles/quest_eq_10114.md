@@ -3,7 +3,7 @@
 # title_ru: Бросок дайсов! Новые знакомства
 # title_en: Roll! A Sea of New Acquaintances
 # title_zh: 骰落！新朋满座
-# region: Ли Юэ
+# region: Тейват
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10114
@@ -13,8 +13,8 @@
 # part_source_ids: 40108
 # previous_quests: quest_eq_10113
 # next_quests: quest_eq_10115
-# related_quests: quest_eq_10113,quest_eq_10115,quest_eq_10116,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
-# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
+# related_quests: quest_eq_10113,quest_eq_10115,quest_eq_10116
+# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116
 # quest_series: Duel! The Summoners' Summit!
 # version_source: wiki_release_category
 

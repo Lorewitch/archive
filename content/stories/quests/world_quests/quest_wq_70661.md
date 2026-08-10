@@ -3,19 +3,19 @@
 # title_ru: Взрывной рост популяции
 # title_en: Exploding Population
 # title_zh: 鱼群大爆发
-# region: Мондштадт
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 70661
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70661
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70661
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -3,7 +3,7 @@
 # title_ru: Раскрасим ночь в яркие краски!
 # title_en: A Curtain Call for a Colorful Summer Night!
 # title_zh: 收幕！将夏夜染作缤纷！
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 10248
@@ -12,7 +12,7 @@
 # chapter_num_zh: 绘夏！烈日？度假村！其四
 # part_source_ids: 15045
 # previous_quests: quest_lq_10247
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_10245,quest_lq_10246,quest_lq_10247
 # quest_chain: quest_lq_10245,quest_lq_10246,quest_lq_10247,quest_lq_10248
 # quest_series: Sunspray Summer Resort
@@ -204,7 +204,7 @@
 
 **Венти:** Ха-ха... скорее, это история, которая берёт своё начало во «Времени».
 
-**Венти:** Давным-давно «Вре{RUBY#[S]Астарот}мя» начало писать историю этого мира.
+**Венти:** Давным-давно «ВреАстаротмя» начало писать историю этого мира.
 
 **Венти:** Ко всем живым существам она относилась одинаково. И ни одно из них не занимало места в её сердце.
 
@@ -476,7 +476,7 @@ Time for a bedtime story?
 
 **Venti:** Haha... More like a story that begins with "Time" itself.
 
-**Venti:** Long, long ago, "Ti{RUBY#[D]Istaroth}me" began to write the story of this world.
+**Venti:** Long, long ago, "TiIstarothme" began to write the story of this world.
 
 **Venti:** To her, all living beings were equal, both in their value and insignificance.
 
@@ -748,7 +748,7 @@ Venti...
 
 **温迪:** 哈哈，这篇故事，要从「时间」开始说起。
 
-**温迪:** 很久很久以前，「时{RUBY#[D]伊斯塔露}间」开始记录这个世界。
+**温迪:** 很久很久以前，「时伊斯塔露间」开始记录这个世界。
 
 **温迪:** 她对栖息在尘世的生灵一视同仁，与此同时，这些生灵在她心中也是同等的无足轻重。
 

@@ -11,10 +11,10 @@
 # chapter_num_en: Vibrant Harriers Aloft in Spring Breeze: Part I
 # chapter_num_zh: 彩鹞栉春风 其一
 # part_source_ids: 40139
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10166
-# related_quests: quest_eq_10166,quest_eq_10167,quest_wq_40142,quest_wq_71530,quest_wq_71531,quest_wq_71532
-# quest_chain: quest_eq_10165,quest_eq_10166,quest_eq_10167,quest_wq_40142,quest_wq_71530,quest_wq_71531,quest_wq_71532
+# related_quests: quest_eq_10166,quest_eq_10167,quest_wq_40142
+# quest_chain: quest_eq_10165,quest_eq_10166,quest_eq_10167,quest_wq_40142
 # quest_series: Vibrant Harriers Aloft in Spring Breeze
 # version_source: wiki_release_category
 

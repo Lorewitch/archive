@@ -3,19 +3,19 @@
 # title_ru: Хаос, вызванный Пустынниками
 # title_en: Eremite Mayhem
 # title_zh: 镀金旅团引起的混乱
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73663
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73663
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73663
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

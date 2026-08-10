@@ -3,19 +3,19 @@
 # title_ru: Охота за сокровищами, исполняющими желания
 # title_en: Wish-Fulfilling Treasure Hunt
 # title_zh: 得偿所愿的寻宝之旅
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74164
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74164
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74164
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

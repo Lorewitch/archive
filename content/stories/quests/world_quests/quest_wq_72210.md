@@ -3,13 +3,13 @@
 # title_ru: Кошка Нэко: Дети
 # title_en: Neko Is a Cat: The Children
 # title_zh: 寝子是只猫·孩子们
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72210
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72210
 # previous_quests: quest_wq_72209
 # next_quests: quest_wq_72211

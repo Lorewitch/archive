@@ -3,19 +3,19 @@
 # title_ru: Сказания из Татары
 # title_en: Tatara Tales
 # title_zh: 踏鞴物语
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10036
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72114,72115,72116,72117,72118,72119,72120,72122
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_72154
 # related_quests: quest_wq_72154
 # quest_chain: quest_wq_10036,quest_wq_72154
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -3358,15 +3358,15 @@ Thank you.
 
 你好，请问你是泽维尔…
 
-**泽维尔:** 不错，在下正是泽维尔，泽维尔正是在下！在这样的时间与地点相遇，究竟是幸或是不幸呢？那么，请问{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}您是？
+**泽维尔:** 不错，在下正是泽维尔，泽维尔正是在下！在这样的时间与地点相遇，究竟是幸或是不幸呢？那么，请问空/荧您是？
 
 - **旅行者:** 我是个乐于助人的冒险家。
 
 - **旅行者:** 我是来帮忙的。
 
-**泽维尔:** 冒险家？朝向星辰与深渊永不停歇的脚步，竟然将冒险家{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}带到了纷争与祟神的岛上！
+**泽维尔:** 冒险家？朝向星辰与深渊永不停歇的脚步，竟然将冒险家空/荧带到了纷争与祟神的岛上！
 
-**泽维尔:** 帮忙？看{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}您的穿着，也与我一样，是沉醉于稻妻异国风情的旅者吧，真是奇遇！
+**泽维尔:** 帮忙？看空/荧您的穿着，也与我一样，是沉醉于稻妻异国风情的旅者吧，真是奇遇！
 
 **泽维尔:** 总而言之，非常感谢您的好意，但恕我直言，您应该帮不上我的忙…
 
@@ -3434,7 +3434,7 @@ Thank you.
 
 你的意思是…「猜」？
 
-**泽维尔:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}！这种说法并不准确，应当说是「根据经验与过往案例，进行外部观测，并据此进行推断」。
+**泽维尔:** 空/荧！这种说法并不准确，应当说是「根据经验与过往案例，进行外部观测，并据此进行推断」。
 
 所以，你的意思就是「猜」。
 
@@ -3558,7 +3558,7 @@ Thank you.
 
 你的意思是…「猜」？
 
-**泽维尔:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}！这种说法并不准确，应当说是「根据经验与过往案例，进行外部观测，并据此进行推断」。
+**泽维尔:** 空/荧！这种说法并不准确，应当说是「根据经验与过往案例，进行外部观测，并据此进行推断」。
 
 所以，你的意思就是「猜」。
 
@@ -3806,7 +3806,7 @@ Thank you.
 
 **泽维尔:** 但「御影炉心」成了现在这样，我看还是别制作比较好…
 
-**泽维尔:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}，这是个好问题！
+**泽维尔:** 空/荧，这是个好问题！
 
 **泽维尔:** 我时常质问自己，仅仅凭借我贫乏的知识与词汇，要如何才能向他人传达我美丽的故乡…的魅力呢？
 
@@ -3852,7 +3852,7 @@ Thank you.
 
 **泽维尔:** 但「御影炉心」成了现在这样，我看还是别制作比较好…
 
-**泽维尔:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}，这是个好问题！
+**泽维尔:** 空/荧，这是个好问题！
 
 **泽维尔:** 我时常质问自己，仅仅凭借我贫乏的知识与词汇，要如何才能向他人传达我美丽的故乡…的魅力呢？
 
@@ -3952,7 +3952,7 @@ Thank you.
 
 **泽维尔:** 真希望这件事能就此结束…
 
-**泽维尔:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}，真是幸会！关于「御影炉心」，我有一个好消息和一个坏消息，您想先听哪一个？
+**泽维尔:** 空/荧，真是幸会！关于「御影炉心」，我有一个好消息和一个坏消息，您想先听哪一个？
 
 - **旅行者:** 好消息。
 

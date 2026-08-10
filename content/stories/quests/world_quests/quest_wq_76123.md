@@ -3,13 +3,13 @@
 # title_ru: Её подарок
 # title_en: A Gift From Her
 # title_zh: 她的礼赠
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76123
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76123
 # previous_quests: quest_wq_76119
 # next_quests: quest_wq_76085

@@ -3,19 +3,19 @@
 # title_ru: Сеть всевездесущности
 # title_en: Omni-Ubiquity Net
 # title_zh: 四方八方之网
-# region: Инадзума
+# region: Тейват
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 72672
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72672
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72672
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

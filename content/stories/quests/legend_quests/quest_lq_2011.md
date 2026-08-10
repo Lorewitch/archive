@@ -11,11 +11,11 @@
 # chapter_num_en: Alatus Chapter: Act I
 # chapter_num_zh: 金翅鹏王之章 第一幕
 # part_source_ids: 11100,11101,11102,11103
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2011
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1750,7 +1750,7 @@ We'd like to borrow a censer and some lamps.
 
 **掇星攫辰天君:** 拥有力量，很多问题便能迎刃而解。不过我倒是很好奇，你难道与神明有什么过节？
 
-**派蒙:** 欸欸！你不管你的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}了吗！
+**派蒙:** 欸欸！你不管你的荧/空了吗！
 
 **掇星攫辰天君:** 嗯，人之常情。你看上去并非璃月人，却好像沾染了不少璃月的铜臭气。
 
@@ -2330,7 +2330,7 @@ We'd like to borrow a censer and some lamps.
 
 **菲尔戈黛特:** 他已经把客房退了，说是要去独自游历山川…
 
-**菲尔戈黛特:** 哦对了，那人还说如果有位带着「会说话的小仙灵」的旅行者来找他，就把这封信给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}。
+**菲尔戈黛特:** 哦对了，那人还说如果有位带着「会说话的小仙灵」的旅行者来找他，就把这封信给空/荧。
 
 **派蒙:** 会说话的小仙灵？谁啊？
 

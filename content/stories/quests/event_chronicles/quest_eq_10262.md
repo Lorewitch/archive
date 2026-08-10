@@ -13,8 +13,8 @@
 # part_source_ids: 40205
 # previous_quests: quest_eq_10261
 # next_quests: quest_eq_10263
-# related_quests: quest_eq_10261,quest_eq_10263,quest_wq_10264,quest_wq_40214,quest_wq_40215,quest_wq_40216,quest_wq_76653,quest_wq_76656,quest_wq_76658,quest_wq_76659
-# quest_chain: quest_eq_10261,quest_eq_10262,quest_eq_10263,quest_wq_10264,quest_wq_40214,quest_wq_40215,quest_wq_40216,quest_wq_76653,quest_wq_76656,quest_wq_76658,quest_wq_76659
+# related_quests: quest_eq_10261,quest_eq_10263,quest_wq_10264
+# quest_chain: quest_eq_10261,quest_eq_10262,quest_eq_10263,quest_wq_10264
 # quest_series: Clink Clank Clash
 # version_source: wiki_release_category
 

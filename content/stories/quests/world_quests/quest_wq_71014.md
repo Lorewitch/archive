@@ -3,19 +3,19 @@
 # title_ru: Океанская жемчужина
 # title_en: The Ocean Pearl
 # title_zh: 海上盛珠钿
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 71014
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71014
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71014
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -94,7 +94,7 @@
 
 **Тринидад:** Долгие годы наше племя отмечало Ночь Пламени поворота. Это традиционная церемония, в которой мы вспоминаем нашего предка, Буркина, и его спутника, Горного короля Конгамато.
 
-**Тринидад:** Буркина был героем, который нёс имя Мал{RUBY#[D]Пламя поворота}ипо, а Конгамато был могущественным воином-юмказавром. Вместе они сражались против Бездны.
+**Тринидад:** Буркина был героем, который нёс имя МалПламя поворотаипо, а Конгамато был могущественным воином-юмказавром. Вместе они сражались против Бездны.
 
 **Тринидад:** Они одержали победу, но она досталась им дорогой ценой... Буркина поплатился жизнью. Горный король выжил, но был заражён Бездной и по сей день пребывает в спячке.
 
@@ -126,7 +126,7 @@
 
 Но разве в вашем племени нет уже огненосца?
 
-**Тринидад:** Конечно, есть. К тому же он настоящий герой, который унаследовал имя Мал{RUBY#[D]Пламя поворота}ипо.
+**Тринидад:** Конечно, есть. К тому же он настоящий герой, который унаследовал имя МалПламя поворотаипо.
 
 **Паймон:** А, Кинич!
 
@@ -232,7 +232,7 @@
 
 **Тринидад:** С давних пор наше племя проводит церемонию под названием Ночь Пламени поворота. Это традиционная церемония, во время которой мы вспоминаем нашего предка Буркину и его спутника, Горного короля Конгамато.
 
-**Тринидад:** Буркина был героем, который носил имя Мал{RUBY#[D]Пламя поворота}ипо, а Конгамато был могущественным воином-юмказавром. Вместе они сражались против Бездны.
+**Тринидад:** Буркина был героем, который носил имя МалПламя поворотаипо, а Конгамато был могущественным воином-юмказавром. Вместе они сражались против Бездны.
 
 **Тринидад:** Они одержали победу, но она досталась им дорогой ценой... Буркина поплатился жизнью. Горный король выжил, но был заражён Бездной и по сей день пребывает в спячке.
 
@@ -264,7 +264,7 @@
 
 Но разве в вашем племени нет огненосца?
 
-**Тринидад:** Конечно есть. К тому же он настоящий герой, который унаследовал имя Мал{RUBY#[D]Пламя поворота}ипо.
+**Тринидад:** Конечно есть. К тому же он настоящий герой, который унаследовал имя МалПламя поворотаипо.
 
 **Паймон:** А, Кинич!
 
@@ -550,7 +550,7 @@ Save the VIP treatment. If you need a favor, let's talk.
 
 **Trinidad:** For many years, our tribe has celebrated the Turnfire Night. It is a traditional ceremony among the Scions of the Canopy, in which we remember our ancestor, Burkina, and his companion, Kongamato the Mountain King.
 
-**Trinidad:** Burkina was a hero who bore the ancient name Mal{RUBY#[D]Turnfire}ipo, and Kongamato was a powerful yumkasaur warrior. Together, they fought against the Abyss.
+**Trinidad:** Burkina was a hero who bore the ancient name MalTurnfireipo, and Kongamato was a powerful yumkasaur warrior. Together, they fought against the Abyss.
 
 **Trinidad:** They were victorious, but it came at a great cost... Burkina paid with his life. The Mountain King survived, but was contaminated by the Abyss, and he remains in hibernation to this day.
 
@@ -582,7 +582,7 @@ Wait, so he's still alive?
 
 Don't you already have a flame bearer in the tribe?
 
-**Trinidad:** Of course. Plus, he's a bona-fide hero who's inherited the Mal{RUBY#[D]Turnfire}ipo name.
+**Trinidad:** Of course. Plus, he's a bona-fide hero who's inherited the MalTurnfireipo name.
 
 **Paimon:** Oh, you mean Kinich!
 
@@ -688,7 +688,7 @@ Save the VIP treatment. If you need a favor, let's talk.
 
 **Trinidad:** For many years, our tribe has celebrated the Turnfire Night. It is a traditional ceremony among the Scions of the Canopy, in which we remember our ancestor, Burkina, and his companion, Kongamato the Mountain King.
 
-**Trinidad:** Burkina was a hero who bore the ancient name Mal{RUBY#[D]Turnfire}ipo, and Kongamato was a powerful yumkasaur warrior. Together, they fought against the Abyss.
+**Trinidad:** Burkina was a hero who bore the ancient name MalTurnfireipo, and Kongamato was a powerful yumkasaur warrior. Together, they fought against the Abyss.
 
 **Trinidad:** They were victorious, but it came at a great cost... Burkina paid with his life. The Mountain King survived, but was contaminated by the Abyss, and he remains in hibernation to this day.
 
@@ -720,7 +720,7 @@ Wait, so he's still alive?
 
 Don't you already have a flame bearer in the tribe?
 
-**Trinidad:** Of course. Plus, he's a bona-fide hero who's inherited the Mal{RUBY#[D]Turnfire}ipo name.
+**Trinidad:** Of course. Plus, he's a bona-fide hero who's inherited the MalTurnfireipo name.
 
 **Paimon:** Oh, you mean Kinich!
 
@@ -1006,7 +1006,7 @@ Paimon could probably get the job done, too.
 
 **特立尼达:** 很久以来，悬木人有着一个传统仪式，名叫回火夜，为的是祭祀五百年前的先祖布基纳和他的伙伴——山王康加玛托。
 
-**特立尼达:** 布基纳是持有古名「马{RUBY#[D]回火}力卜」的英雄，康加玛托则是一只强大的匿叶龙战士。他们曾并肩抗击深渊。
+**特立尼达:** 布基纳是持有古名「马回火力卜」的英雄，康加玛托则是一只强大的匿叶龙战士。他们曾并肩抗击深渊。
 
 **特立尼达:** 最后虽然他们获得了胜利，但先祖却付出了生命的代价，而山王也被污染，一直沉睡至今。
 
@@ -1038,7 +1038,7 @@ Paimon could probably get the job done, too.
 
 但你们应该有自己的游火人吧？
 
-**特立尼达:** 当然，我们可是有着继承「马{RUBY#[D]回火}力卜」的英雄呢。
+**特立尼达:** 当然，我们可是有着继承「马回火力卜」的英雄呢。
 
 **派蒙:** 哦，是基尼奇！
 
@@ -1144,7 +1144,7 @@ Paimon could probably get the job done, too.
 
 **特立尼达:** 很久以来，悬木人有着一个传统仪式，名叫回火夜，为的是祭祀五百年前的先祖布基纳和他的伙伴——山王康加玛托。
 
-**特立尼达:** 布基纳是持有古名「马力{RUBY#[D]回火}卜」的英雄，康加玛托则是一只强大的匿叶龙战士。他们曾并肩抗击深渊。
+**特立尼达:** 布基纳是持有古名「马力回火卜」的英雄，康加玛托则是一只强大的匿叶龙战士。他们曾并肩抗击深渊。
 
 **特立尼达:** 最后虽然他们获得了胜利，但先祖却付出了生命的代价，而山王也被污染，一直沉睡至今。
 
@@ -1176,7 +1176,7 @@ Paimon could probably get the job done, too.
 
 但你们应该有自己的游火人吧？
 
-**特立尼达:** 当然，我们可是有着继承「马力{RUBY#[D]回火}卜」的英雄呢。
+**特立尼达:** 当然，我们可是有着继承「马力回火卜」的英雄呢。
 
 **派蒙:** 哦，是基尼奇！
 

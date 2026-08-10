@@ -3,19 +3,19 @@
 # title_ru: Сокровище фермера
 # title_en: The Farmer's Treasure
 # title_zh: 农民的宝藏
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72199
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72199
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72199
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -4420,7 +4420,7 @@ We're not.
 
 **流寇头目:** 你来救他？
 
-**柴门二郎:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}不是…
+**柴门二郎:** 空/荧不是…
 
 **流寇头目:** 你闭嘴！
 

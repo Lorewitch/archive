@@ -13,8 +13,8 @@
 # part_source_ids: 6007,6008,6009,6010,6011
 # previous_quests: quest_aq_1600
 # next_quests: quest_aq_1603
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -1138,7 +1138,7 @@
 
 **Лаума:** Спасибо, что проделали этот путь и принесли его. Вы мне очень помогли.
 
-**Лаума:** И ещё... Если позволишь, мне кажется, что Куу{RUBY#[S]Дева Луны}тар может помочь тебе более детально разобраться в воспоминаниях о твоём космическом корабле.
+**Лаума:** И ещё... Если позволишь, мне кажется, что КууДева Лунытар может помочь тебе более детально разобраться в воспоминаниях о твоём космическом корабле.
 
 **Паймон:** Точно. Она же Куутар, в конце концов!
 
@@ -1228,7 +1228,7 @@
 
 **Субретка:** Останки Радужной Луны до сих пор не найдены, а Богиня Морозной Луны мертва, но её Луна так и не была разрушена.
 
-**Субретка:** Как гласило пророчество, однажды эта Луна породит новое божество - сущность, которую Дети Морозной Луны называют Куу{RUBY#[S]Дева Луны}тар.
+**Субретка:** Как гласило пророчество, однажды эта Луна породит новое божество - сущность, которую Дети Морозной Луны называют КууДева Лунытар.
 
 **Субретка:** Я чувствую, что моя сила связана с Морозной Луной. Но она находится за пределами ложного неба, слишком далеко от меня.
 
@@ -4378,7 +4378,7 @@ Paimon...
 
 **Lauma:** Ah. Thanks for coming all this way with it. You've been a huge help.
 
-**Lauma:** Also... If I may, I have a feeling that "Kuu{RUBY#[S]Moon Maiden}tar" might be able to help you get a more detailed glimpse at the memories about your spaceship.
+**Lauma:** Also... If I may, I have a feeling that "KuuMoon Maidentar" might be able to help you get a more detailed glimpse at the memories about your spaceship.
 
 **Paimon:** Ooh, that's true. She's the Kuutar, after all!
 
@@ -4468,7 +4468,7 @@ I think I sensed some other changes as well...
 
 **The Damselette:** The Iridescent Moon's remains have never been found, and while the Frost Moon's goddess died herself, her moon was never broken.
 
-**The Damselette:** As the prophecy stated, this moon would birth a new deity sooner or later — the entity the Frostmoon Scions call the "Kuu{RUBY#[S]Moon Maiden}tar."
+**The Damselette:** As the prophecy stated, this moon would birth a new deity sooner or later — the entity the Frostmoon Scions call the "KuuMoon Maidentar."
 
 **The Damselette:** I can sense that my power belongs to the Frost Moon. But it lies beyond the false sky, too distant from me.
 
@@ -7618,7 +7618,7 @@ You're way too wary of the Curatorium...
 
 **菈乌玛:** 谢谢你们专程送过来，帮大忙了。
 
-**菈乌玛:** 另外…我有一个推测。关于你的飞船，或许「库塔{RUBY#[S]月之少女}尔」能为你展现更多片段。
+**菈乌玛:** 另外…我有一个推测。关于你的飞船，或许「库塔月之少女尔」能为你展现更多片段。
 
 **派蒙:** 对哦！她可是「月神」呢！
 
@@ -7708,7 +7708,7 @@ You're way too wary of the Curatorium...
 
 **「少女」:** 「虹月」的遗骸从未被找到，「霜月」女神虽亡，但月亮的身形不曾破碎。
 
-**「少女」:** 正如预言所述，这样的月亮早晚将孕育出新的神明，也就是「霜月之子」口中的「库塔{RUBY#[S]月之少女}尔」。
+**「少女」:** 正如预言所述，这样的月亮早晚将孕育出新的神明，也就是「霜月之子」口中的「库塔月之少女尔」。
 
 **「少女」:** 我能感觉到自己的力量属于「霜月」。但它位于虚假之天外，离我太远。
 

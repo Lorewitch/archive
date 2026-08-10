@@ -12,7 +12,7 @@
 # chapter_num_zh: 流泉所归之处  第三幕
 # part_source_ids: 15007,15008,15009,15010
 # previous_quests: quest_lq_2056
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2055,quest_lq_2056
 # quest_chain: quest_lq_2055,quest_lq_2056,quest_lq_2057
 # quest_series: Where the Springs Return

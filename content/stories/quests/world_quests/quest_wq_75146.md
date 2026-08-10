@@ -3,19 +3,19 @@
 # title_ru: Краткая история камней
 # title_en: A Brief History of Rocks
 # title_zh: 碎岩及其往事
-# region: Натлан
+# region: Тейват
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75146
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75146
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75146
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -54,11 +54,11 @@
 
 **Мпосо:** Тогда что с вами делает детёныш тепетлизавра...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Мы встретили его по дороге!
 
-**Паймон:** Паймон зовут Паймон, это Путешественник, а это {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Паймон зовут Паймон, это Путешественник, а это Малыш.
 
 **Паймон:** Мы... искатели / искательницы приключений. И мы хотим найти способ попасть внутрь вулкана.
 
@@ -72,7 +72,7 @@
 
 **Мпосо:** Кхе-кхе... Кхе-кхе...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Очевидно...
 
@@ -84,7 +84,7 @@
 
 **Мпосо:** Но я догадываюсь, что вы хотите проникнуть в вулкан из-за этого малыша...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Мпосо:** Ха-ха, похоже, он сам пока не знает... Всегда находятся заврианы, которые в юном возрасте приходят к Священной горе, будто слышат зов.
 
@@ -98,11 +98,11 @@
 
 - **Путешественник:** Малышечка Паймон всем назло смеётся опасностям в лицо!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Паймон не поняла, о чём ты. Опять издеваешься?!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р!
+**Малыш:** Р-р!
 
 **Паймон:** Не смей повторять за ним / ней!
 
@@ -126,7 +126,7 @@
 
 **Мпосо:** С тех пор я всё время кашляю. Я бесполезный неудачник... Кхе-кхе... Я даже не могу справиться с камнями, которыми засыпает руины.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Мпосо:** Внутри вулкана опасно, и устроен он очень сложно. И ещё... там крайне необычная среда, есть даже следы Бездны. Вы уверены, что хотите туда отправиться?
 
@@ -172,11 +172,11 @@
 
 **Мпосо:** Тогда что с вами делает детёныш тепетлизавра...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Мы встретили его по дороге!
 
-**Паймон:** Паймон зовут Паймон, это Путешественник, а это {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Паймон зовут Паймон, это Путешественник, а это Малыш.
 
 **Мпосо:** У него отметина на голове... Благословение Повелителя огня. Вы... хотите отвести его в вулкан?
 
@@ -192,7 +192,7 @@
 
 **Мпосо:** Кхе-кхе... Мне не под силу их убрать. Вдруг вы согласитесь помочь мне расчистить эти камни?.. Хе-хе, а если найдёте что-нибудь ценное, можете оставить себе...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Серьёзно? Можно забрать себе всё, что найдём?
 
@@ -228,11 +228,11 @@
 
 **Мпосо:** Тогда что с вами делает детёныш тепетлизавра...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Мы встретили его по дороге!
 
-**Паймон:** Паймон зовут Паймон, это Путешественник, а это {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Паймон зовут Паймон, это Путешественник, а это Малыш.
 
 **Мпосо:** У него отметина на голове... Благословение Повелителя огня. Вы... хотите отвести его в вулкан?
 
@@ -260,7 +260,7 @@
 
 **Мпосо:** Кхе-кхе... Мне не под силу их убрать. Вдруг вы согласитесь помочь мне расчистить эти камни?.. Хе-хе, а если найдёте что-нибудь ценное, можете оставить себе...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Серьёзно? Можно забрать себе всё, что найдём?
 
@@ -296,11 +296,11 @@
 
 **Мпосо:** Тогда что с вами делает детёныш тепетлизавра...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Мы встретили его по дороге!
 
-**Паймон:** Паймон зовут Паймон, это Путешественник, а это {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Паймон зовут Паймон, это Путешественник, а это Малыш.
 
 **Паймон:** Мы... искатели / искательницы приключений. И мы хотим найти способ попасть внутрь вулкана. Мы ищем человека по имени дедушка Мпосо. Говорят, он каждый день ходит, следя за этой местностью...
 
@@ -324,7 +324,7 @@
 
 **Мпосо:** Кхе-кхе... Кхе-кхе...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Очевидно...
 
@@ -336,7 +336,7 @@
 
 **Мпосо:** Но я догадываюсь, что вы хотите проникнуть в вулкан из-за этого малыша...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Мпосо:** Ха-ха, похоже, он сам пока не знает... Всегда находятся заврианы, которые в юном возрасте приходят к Священной горе, будто слышат зов.
 
@@ -350,11 +350,11 @@
 
 - **Путешественник:** Малышечка Паймон всем назло смеётся опасностям в лицо!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Паймон не поняла, о чём ты. Опять издеваешься?!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р!
+**Малыш:** Р-р!
 
 **Паймон:** Не смей повторять за ним / ней!
 
@@ -378,7 +378,7 @@
 
 **Мпосо:** С тех пор я всё время кашляю. Я бесполезный неудачник... Кхе-кхе... Я даже не могу справиться с камнями, которыми засыпает руины.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 **Мпосо:** Такое дело. Внутри вулкана очень опасно. Вы уверены, что хотите туда пойти?
 
@@ -408,7 +408,7 @@
 
 **Паймон:** Мы её не ломали... Да?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Наверное, самое время сматываться?
 
@@ -430,7 +430,7 @@
 
 **Паймон:** Драконы... построили себе город внутри вулкана?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 Значит, мы видели...
 
@@ -438,7 +438,7 @@
 
 **Мпосо:** Во время извержения вулкан выбрасывает огромное количество флогистона и других веществ... В основном всё это оседает в окрестностях вулкана.
 
-**Мпосо:** Но из-за особых свойств флогистона некоторые фрагменты остаются парить в воздухе, формируя Корону небе{RUBY#[S]Трамплин Науацина}сного огня...
+**Мпосо:** Но из-за особых свойств флогистона некоторые фрагменты остаются парить в воздухе, формируя Корону небеТрамплин Науацинасного огня...
 
 **Мпосо:** Я про парящие нагромождения камней, что окружают вулкан... Вам нужно подняться на самый верх и оттуда спрыгнуть.
 
@@ -450,11 +450,11 @@
 
 **Мпосо:** Иначе... Кхе-кхе...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ясно...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р?
+**Малыш:** Р-р-р? Р-р?
 
 **Паймон:** Землетрясение... О нет, вулкан снова извергается!
 
@@ -470,7 +470,7 @@
 
 **Паймон:** Мы её не ломали... Да?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 - **Путешественник:** Она сама открылась...
 
@@ -496,7 +496,7 @@
 
 **Мпосо:** Но я догадываюсь, что вы хотите проникнуть в вулкан из-за этого малыша...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Мпосо:** Ха-ха, похоже, он сам пока не знает... Всегда находятся заврианы, которые в юном возрасте приходят к Священной горе, будто слышат зов.
 
@@ -520,7 +520,7 @@
 
 **Мпосо:** С тех пор я всё время кашляю. Я бесполезный неудачник... Кхе-кхе... Я даже не могу справиться с камнями, которыми засыпает руины.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 **Мпосо:** Такое дело. Внутри вулкана очень опасно. Вы уверены, что хотите туда пойти?
 
@@ -534,7 +534,7 @@
 
 **Мпосо:** Во время извержения вулкан выбрасывает огромное количество флогистона и других веществ... В основном всё это оседает в окрестностях вулкана.
 
-**Мпосо:** Но из-за особых свойств флогистона некоторые фрагменты остаются парить в воздухе, формируя Корону небе{RUBY#[S]Трамплин Науацина}сного огня...
+**Мпосо:** Но из-за особых свойств флогистона некоторые фрагменты остаются парить в воздухе, формируя Корону небеТрамплин Науацинасного огня...
 
 **Мпосо:** Я про парящие нагромождения камней, что окружают вулкан... Вам нужно подняться на самый верх и оттуда спрыгнуть.
 
@@ -546,11 +546,11 @@
 
 **Мпосо:** Иначе... Кхе-кхе...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Вот оно что...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р?
+**Малыш:** Р-р-р? Р-р?
 
 **Паймон:** Землетрясение... О нет, вулкан снова извергается!
 
@@ -566,7 +566,7 @@
 
 **Паймон:** Мы её не ломали... Да?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 - **Путешественник:** Она сама открылась...
 
@@ -586,7 +586,7 @@
 
 **Мпосо:** Но я догадываюсь, что вы хотите проникнуть в вулкан из-за этого малыша...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Мпосо:** Ха-ха, похоже, он сам пока не знает... Всегда находятся заврианы, которые в юном возрасте приходят к Священной горе, будто слышат зов.
 
@@ -610,7 +610,7 @@
 
 **Мпосо:** С тех пор я всё время кашляю. Я бесполезный неудачник... Кхе-кхе... Я даже не могу справиться с камнями, которыми засыпает руины.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 **Мпосо:** Такое дело. Внутри вулкана очень опасно. Вы уверены, что хотите туда пойти?
 
@@ -624,7 +624,7 @@
 
 **Мпосо:** Во время извержения вулкан выбрасывает огромное количество флогистона и других веществ... В основном всё это оседает в окрестностях вулкана.
 
-**Мпосо:** Но из-за особых свойств флогистона некоторые фрагменты остаются парить в воздухе, формируя Корону небе{RUBY#[S]Трамплин Науацина}сного огня...
+**Мпосо:** Но из-за особых свойств флогистона некоторые фрагменты остаются парить в воздухе, формируя Корону небеТрамплин Науацинасного огня...
 
 **Мпосо:** Я про парящие нагромождения камней, что окружают вулкан... Вам нужно подняться на самый верх и оттуда спрыгнуть.
 
@@ -636,11 +636,11 @@
 
 **Мпосо:** Иначе... Кхе-кхе...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ясно...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р?
+**Малыш:** Р-р-р? Р-р?
 
 **Паймон:** Землетрясение... О нет, вулкан снова извергается!
 
@@ -656,7 +656,7 @@
 
 **Паймон:** Мы её не ломали... Да?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 - **Путешественник:** Она сама открылась...
 
@@ -706,7 +706,7 @@
 
 **Паймон:** Мы её не ломали... Да?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 - **Путешественник:** Она сама открылась...
 
@@ -756,7 +756,7 @@
 
 **Паймон:** Мы её не ломали... Да?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Наверное, самое время сматываться?
 
@@ -794,11 +794,11 @@
 
 **Паймон:** ...Если бы у Паймон было столько сил, чтобы поднять тебя на руки, Паймон бросила бы тебя прямо в жерло!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Мпосо:** Ха-ха, желаю вам, кхе-кхе...
 
-**Мпосо:** Нет, не так. Путешественник, Паймон и {REALNAME[ID(2)|SHOWHOST(true)]}, у вас всё обязательно получится.
+**Мпосо:** Нет, не так. Путешественник, Паймон и Малыш, у вас всё обязательно получится.
 
 ## EN
 
@@ -836,11 +836,11 @@ One wonders if there are any clues to be found for entering the Great Volcano of
 
 **Mposo:** In that case, this little Tepetlisaurus...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Paimon:** He's a great friend we met during our travels!
 
-**Paimon:** My name's Paimon, this is Traveler, and this little fellow is {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** My name's Paimon, this is Traveler, and this little fellow is Little One.
 
 **Paimon:** We're... adventurers, and we're looking for a way to get into the volcano.
 
@@ -854,7 +854,7 @@ One wonders if there are any clues to be found for entering the Great Volcano of
 
 **Mposo:** *cough* *cough*
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 Evidently...
 
@@ -866,7 +866,7 @@ We're looking at someone it's happened to...
 
 **Mposo:** But I imagine your desire to visit may have something to do with your little companion here...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Mposo:** Haha, it looks like he doesn't even know it yet... There are always saurians like this, who, before reaching adulthood, are drawn to the Sacred Mountain — it's like they've heard the volcano's call.
 
@@ -880,11 +880,11 @@ We're looking at someone it's happened to...
 
 - **Traveler:** That's right, Paimon. We stand tall, even 'neath a crumbling wall!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Paimon doesn't understand what you said, but she knows it doesn't sound good!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawwr!
+**Little One:** Rawwr!
 
 **Paimon:** Hmph, don't you dare start copying him / her!
 
@@ -908,7 +908,7 @@ We're looking at someone it's happened to...
 
 **Mposo:** I haven't been able to stop coughing since then. Pretty hopeless, aren't I... *cough* Can't even clear up these rocks that keep falling on the ruins.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 **Mposo:** The volcano's a dangerous place and its internal structure is complex. Not to mention... the environment there is unique, and parts of it have been corroded by the Abyss... Are you sure you want to go, even so?
 
@@ -954,11 +954,11 @@ We're sure.
 
 **Mposo:** In that case, this little Tepetlisaurus...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Paimon:** He's a great friend we met during our travels!
 
-**Paimon:** My name's Paimon, this is Traveler, and this little fellow is {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** My name's Paimon, this is Traveler, and this little fellow is Little One.
 
 **Mposo:** Huh, that mark on his head... it's the Flamelord's Blessing. Are you... planning on taking him into the volcano?
 
@@ -974,7 +974,7 @@ We're sure.
 
 **Mposo:** *cough* I'm unable to clear them away. I don't suppose you could help me remove them, could you? Hehe, you can keep anything interesting you find...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Paimon:** Really? We can just take 'em and go?
 
@@ -1010,11 +1010,11 @@ Okay!
 
 **Mposo:** In that case, this little Tepetlisaurus...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Paimon:** He's a great friend we met during our travels!
 
-**Paimon:** My name's Paimon, this is Traveler, and this little fellow is {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** My name's Paimon, this is Traveler, and this little fellow is Little One.
 
 **Mposo:** Huh, that mark on his head... it's the Flamelord's Blessing. Are you... planning on taking him into the volcano?
 
@@ -1042,7 +1042,7 @@ Okay!
 
 **Mposo:** *cough* I'm unable to clear them away. I don't suppose you could help me remove them, could you? Hehe, you can keep anything interesting you find...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Paimon:** Really? We can just take 'em and go?
 
@@ -1078,11 +1078,11 @@ Okay!
 
 **Mposo:** In that case, this little Tepetlisaurus...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Paimon:** He's a great friend we met during our travels!
 
-**Paimon:** My name's Paimon, this is Traveler, and this little fellow is {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** My name's Paimon, this is Traveler, and this little fellow is Little One.
 
 **Paimon:** We're... adventurers, and we're looking for a way to get into the volcano. We're here to find someone called "Mposo." Someone told us that he should be patrolling around here somewhere...
 
@@ -1106,7 +1106,7 @@ Okay!
 
 **Mposo:** *cough* *cough*
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 Evidently...
 
@@ -1118,7 +1118,7 @@ We're looking at someone it's happened to...
 
 **Mposo:** But I imagine your desire to visit may have something to do with your little companion here...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Mposo:** Haha, it looks like he doesn't even know it yet... There are always saurians like this, who, before reaching adulthood, are drawn to the Sacred Mountain — it's like they've heard the volcano's call.
 
@@ -1132,11 +1132,11 @@ We're looking at someone it's happened to...
 
 - **Traveler:** That's right, Paimon. We stand tall, even 'neath a crumbling wall!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Paimon doesn't understand what you said, but she knows it doesn't sound good!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawwr!
+**Little One:** Rawwr!
 
 **Paimon:** Hmph, don't you dare start copying him / her!
 
@@ -1160,7 +1160,7 @@ We're looking at someone it's happened to...
 
 **Mposo:** I haven't been able to stop coughing since then. Pretty hopeless, aren't I... *cough* Can't even clear up these rocks that keep falling on the ruins.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroh...
+**Little One:** Wrroh...
 
 **Mposo:** So, yeah. The volcano's a dangerous place. Do you want to go even so?
 
@@ -1190,7 +1190,7 @@ We're sure.
 
 **Paimon:** We didn't break it... did we?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 **Paimon:** Sh—Should we be getting ready to run?
 
@@ -1212,7 +1212,7 @@ We're sure.
 
 **Paimon:** The d—dragons built a city... inside a volcano!?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooh...
+**Little One:** Rrooh...
 
 So, everything we saw before...
 
@@ -1220,7 +1220,7 @@ So, everything we saw before...
 
 **Mposo:** During an eruption, the volcano will eject a vast amount of Phlogiston and other things... Most of which fall on the surrounding area.
 
-**Mposo:** However, some of the things it spits out float — due to the Phlogiston — remaining in the air and accumulating to form the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"...
+**Mposo:** However, some of the things it spits out float — due to the Phlogiston — remaining in the air and accumulating to form the "SkyfireNahuatzin's Springboard Circlet"...
 
 **Mposo:** I'm talking about those fragmented structures that surround the volcano... You'll have to climb up above the mountain and look for your opportunity to jump inside.
 
@@ -1232,11 +1232,11 @@ So, everything we saw before...
 
 **Mposo:** Otherwise... *cough*
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** So that's how we do it...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Mrrroo?
+**Little One:** Rrrwar? Mrrroo?
 
 **Paimon:** It's an earthquake... Wait, no — the volcano's erupting!
 
@@ -1252,7 +1252,7 @@ So, everything we saw before...
 
 **Paimon:** We didn't break it... did we?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grawr...
+**Little One:** Grawr...
 
 - **Traveler:** It opened on its own...
 
@@ -1278,7 +1278,7 @@ You introduce yourselves to Mposo and explain that you wish to visit the volcano
 
 **Mposo:** But I imagine your desire may have something to do with your little companion here...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Mposo:** Haha, it looks like he doesn't even know it yet... There are always saurians like this, who, before reaching adulthood, are drawn to the Sacred Mountain — it's like they've heard the volcano's call.
 
@@ -1302,7 +1302,7 @@ You introduce yourselves to Mposo and explain that you wish to visit the volcano
 
 **Mposo:** I haven't been able to stop coughing since then. Pretty hopeless, aren't I... *cough* Can't even clear up these rocks that keep falling on the ruins.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 **Mposo:** So, yeah. The volcano's a dangerous place. Do you want to go even so?
 
@@ -1316,7 +1316,7 @@ We're sure.
 
 **Mposo:** During an eruption, the volcano will eject a vast amount of Phlogiston and other things... Most of which fall on the surrounding area.
 
-**Mposo:** However, some of the things it spits out float — due to the Phlogiston — remaining in the air and accumulating to form the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"...
+**Mposo:** However, some of the things it spits out float — due to the Phlogiston — remaining in the air and accumulating to form the "SkyfireNahuatzin's Springboard Circlet"...
 
 **Mposo:** I'm talking about those fragmented structures that surround the volcano... You'll have to climb up above the mountain and look for your opportunity to jump inside.
 
@@ -1328,11 +1328,11 @@ We're sure.
 
 **Mposo:** Otherwise... *cough*
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Paimon sees...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Mrrroo?
+**Little One:** Rrrwar? Mrrroo?
 
 **Paimon:** It's an earthquake... Wait, no — the volcano's erupting!
 
@@ -1348,7 +1348,7 @@ We're sure.
 
 **Paimon:** We didn't break it... did we?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroh...
+**Little One:** Wrroh...
 
 - **Traveler:** It opened on its own...
 
@@ -1368,7 +1368,7 @@ You introduce yourselves to Mposo and explain that you wish to visit the volcano
 
 **Mposo:** But I imagine your desire may have something to do with your little companion here...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
 **Mposo:** Haha, it looks like he doesn't even know it yet... There are always saurians like this, who, before reaching adulthood, are drawn to the Sacred Mountain — it's like they've heard the volcano's call.
 
@@ -1392,7 +1392,7 @@ You introduce yourselves to Mposo and explain that you wish to visit the volcano
 
 **Mposo:** I haven't been able to stop coughing since then. Pretty hopeless, aren't I... *cough* Can't even clear up these rocks that keep falling on the ruins.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroo...
+**Little One:** Rroo...
 
 **Mposo:** So, yeah. The volcano's a dangerous place. Do you want to go even so?
 
@@ -1406,7 +1406,7 @@ We're sure.
 
 **Mposo:** During an eruption, the volcano will eject a vast amount of Phlogiston and other things... Most of which fall on the surrounding area.
 
-**Mposo:** However, some of the things it spits out float — due to the Phlogiston — remaining in the air and accumulating to form the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"...
+**Mposo:** However, some of the things it spits out float — due to the Phlogiston — remaining in the air and accumulating to form the "SkyfireNahuatzin's Springboard Circlet"...
 
 **Mposo:** I'm talking about those fragmented structures that surround the volcano... You'll have to climb up above the mountain and look for your opportunity to jump inside.
 
@@ -1418,11 +1418,11 @@ We're sure.
 
 **Mposo:** Otherwise... *cough*
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Paimon sees...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Mrrroo?
+**Little One:** Rrrwar? Mrrroo?
 
 **Paimon:** It's an earthquake... Wait, no — the volcano's erupting!
 
@@ -1438,7 +1438,7 @@ We're sure.
 
 **Paimon:** We didn't break it... did we?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 - **Traveler:** It opened on its own...
 
@@ -1488,7 +1488,7 @@ We're sure.
 
 **Paimon:** We didn't break it... did we?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 - **Traveler:** It opened on its own...
 
@@ -1538,7 +1538,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **Paimon:** We didn't break it... did we?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grawr...
+**Little One:** Grawr...
 
 **Paimon:** Sh—Should we be getting ready to run?
 
@@ -1576,11 +1576,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **Paimon:** ...If Paimon had the strength to pick you up, Paimon would drop you straight into the crater!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Mposo:** Haha, I wish you— *cough*
 
-**Mposo:** No, luck isn't an option. Traveler, Paimon, and {REALNAME[ID(2)|SHOWHOST(true)]}, you must succeed!
+**Mposo:** No, luck isn't an option. Traveler, Paimon, and Little One, you must succeed!
 
 ## ZH
 
@@ -1618,11 +1618,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 那，这位年幼的嵴锋龙…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 我们是在路上遇到的！
 
-**派蒙:** 我叫派蒙，这位是旅行者，然后，它是{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 我叫派蒙，这位是旅行者，然后，它是小家伙。
 
 **派蒙:** 我们…我们是冒险家，正在找进入火山的办法。
 
@@ -1636,7 +1636,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 咳咳…咳咳…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
 很显然…
 
@@ -1648,7 +1648,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 不过，你们要进火山，恐怕和这小家伙有关系吧…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **恩波索:** 哈哈，看来它自己还不知道呢…总是有这样的龙，它们总是在成年之前，就像是受到感召那样前往圣山。
 
@@ -1662,11 +1662,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 - **旅行者:** 小人派蒙，立于危墙之下！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 虽然没听懂，但是我听出来了你没在说好话！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀呀！
+**小家伙:** 呀呀！
 
 **派蒙:** 哼，这种时候不许学他 / 她！
 
@@ -1690,7 +1690,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 从那以后就咳个不停呢，真是没出息…咳咳…就连遗迹上落下来的这些石头都处理不了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **恩波索:** 里面很危险，结构也很复杂，而且…那边的环境很特殊，甚至还有深渊侵蚀…即使如此你们也愿意去火山吗？
 
@@ -1736,11 +1736,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 那，这位年幼的嵴锋龙…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 我们是在路上遇到的！
 
-**派蒙:** 我叫派蒙，这位是旅行者，然后，它是{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 我叫派蒙，这位是旅行者，然后，它是小家伙。
 
 **恩波索:** 咦，看这家伙头上的印记…是「焰主之祝」吧。你们…难道想要带它进入火山？
 
@@ -1756,7 +1756,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 咳咳…也没法清理。不知你们愿不愿意帮忙清除下上面的岩石…呵呵，如果找到什么有意思的东西也可以拿走…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 可以、可以直接拿走吗？
 
@@ -1792,11 +1792,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 那，这位年幼的嵴锋龙…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 我们是在路上遇到的！
 
-**派蒙:** 我叫派蒙，这位是旅行者，然后，它是{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 我叫派蒙，这位是旅行者，然后，它是小家伙。
 
 **恩波索:** 咦，看这家伙头上的印记…是「焰主之祝」吧。你们…难道想要带它进入火山？
 
@@ -1824,7 +1824,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 咳咳…也没法清理。不知你们愿不愿意帮忙清除下上面的岩石…呵呵，如果找到什么有意思的东西也可以拿走…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 可以、可以直接拿走吗？
 
@@ -1860,11 +1860,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 那，这位年幼的嵴锋龙…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 我们是在路上遇到的！
 
-**派蒙:** 我叫派蒙，这位是旅行者，然后，它是{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 我叫派蒙，这位是旅行者，然后，它是小家伙。
 
 **派蒙:** 我们…我们是冒险家，正在找进入火山的办法，到这里是为了找一个叫恩波索爷爷的人，说是每天在这里巡逻…
 
@@ -1888,7 +1888,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 咳咳…咳咳…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
 很显然…
 
@@ -1900,7 +1900,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 不过，你们要进火山，恐怕和这小家伙有关系吧…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **恩波索:** 哈哈，看来它自己还不知道呢…总是有这样的龙，它们总是在成年之前，就像是受到感召那样前往圣山。
 
@@ -1914,11 +1914,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 - **旅行者:** 小人派蒙，立于危墙之下！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 虽然没听懂，但是我听出来了你没在说好话！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀呀！
+**小家伙:** 呀呀！
 
 **派蒙:** 哼，这种时候不许学他 / 她！
 
@@ -1942,7 +1942,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 从那以后就咳个不停呢，真是没出息…咳咳…就连遗迹上落下来的这些石头都处理不了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **恩波索:** 里面很危险，即使如此你们也愿意去火山吗？
 
@@ -1972,7 +1972,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** 应该不是我们撞坏的…吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 咦，现、现在是要准备逃跑的时候了吗？
 
@@ -1994,7 +1994,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** 巨龙…巨龙建立的城市？在火山里？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 难道之前看到的…
 
@@ -2002,7 +2002,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 在「喷吐」时期，海量的燃素和火山内的事物会被火山喷发出来…大部分都落在了周围。
 
-**恩波索:** 但是会有少部分火山内的事物因为燃素的「气态性」而浮在空中逐渐累积，形成了「天火{RUBY#[D]纳华钦的跳台}之冠」…
+**恩波索:** 但是会有少部分火山内的事物因为燃素的「气态性」而浮在空中逐渐累积，形成了「天火纳华钦的跳台之冠」…
 
 **恩波索:** 就是火山周围的那些破碎结构…必须得爬到火山之上，找准机会，才能跃入火山。
 
@@ -2014,11 +2014,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 不然…咳咳…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 这样啊…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？唔嗯？
+**小家伙:** 唔？唔嗯？
 
 **派蒙:** 地震…不、是火山又喷发了！
 
@@ -2034,7 +2034,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** 应该不是我们撞坏的…吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 - **旅行者:** 是它自己想开了…
 
@@ -2060,7 +2060,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 不过，你们要进火山，恐怕和这小家伙有关系吧…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **恩波索:** 哈哈，看来它自己还不知道呢…总是有这样的龙，它们总是在成年之前，就像是受到感召那样前往圣山。
 
@@ -2084,7 +2084,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 从那以后就咳个不停呢，真是没出息…咳咳…就连遗迹上落下来的这些石头都处理不了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **恩波索:** 里面很危险，即使如此你们也愿意去火山吗？
 
@@ -2098,7 +2098,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 在火山「喷吐」时，海量的燃素和火山内的事物会被火山喷发出来…大部分都落在了周围。
 
-**恩波索:** 但是会有少部分火山内的事物因为燃素的「气态性」而浮在空中逐渐累积，形成了「天火{RUBY#[D]纳华钦的跳台}之冠」…
+**恩波索:** 但是会有少部分火山内的事物因为燃素的「气态性」而浮在空中逐渐累积，形成了「天火纳华钦的跳台之冠」…
 
 **恩波索:** 就是火山周围的那些破碎结构…必须得爬到火山之上，才能找准机会跃入火山。
 
@@ -2110,11 +2110,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 不然…咳咳…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 这样啊...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？唔嗯？
+**小家伙:** 唔？唔嗯？
 
 **派蒙:** 地震…不、是火山又喷发了！
 
@@ -2130,7 +2130,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** 应该不是我们撞坏的…吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 - **旅行者:** 是它自己想开了…
 
@@ -2150,7 +2150,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 不过，你们要进火山，恐怕和这小家伙有关系吧…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **恩波索:** 哈哈，看来它自己还不知道呢…总是有这样的龙，它们总是在成年之前，就像是受到感召那样前往圣山。
 
@@ -2174,7 +2174,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 从那以后就咳个不停呢，真是没出息…咳咳…就连遗迹上落下来的这些石头都处理不了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **恩波索:** 里面很危险，即使如此你们也愿意去火山吗？
 
@@ -2188,7 +2188,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 在火山「喷吐」时，海量的燃素和火山内的事物会被火山喷发出来…大部分都落在了周围。
 
-**恩波索:** 但是会有少部分火山内的事物因为燃素的「气态性」而浮在空中逐渐累积，形成了「天火{RUBY#[D]纳华钦的跳台}之冠」…
+**恩波索:** 但是会有少部分火山内的事物因为燃素的「气态性」而浮在空中逐渐累积，形成了「天火纳华钦的跳台之冠」…
 
 **恩波索:** 就是火山周围的那些破碎结构…必须得爬到火山之上，才能找准机会跃入火山。
 
@@ -2200,11 +2200,11 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **恩波索:** 不然…咳咳…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 这样啊…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？唔嗯？
+**小家伙:** 唔？唔嗯？
 
 **派蒙:** 地震…不、是火山又喷发了！
 
@@ -2220,7 +2220,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** 应该不是我们撞坏的…吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 - **旅行者:** 是它自己想开了…
 
@@ -2270,7 +2270,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** 应该不是我们撞坏的…吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 - **旅行者:** 是它自己想开了…
 
@@ -2320,7 +2320,7 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** 应该不是我们撞坏的…吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 咦，现、现在是要准备逃跑的时候了吗？
 
@@ -2358,8 +2358,8 @@ Huh, you must be "Idle Old Man Mposo"...
 
 **派蒙:** …我，我要是拖得动你，我就直接把你扔火山口里，哼！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **恩波索:** 哈哈，祝你们，咳咳…
 
-**恩波索:** 不，旅行者、派蒙还有{REALNAME[ID(2)|SHOWHOST(true)]}，你们一定要成功啊。
+**恩波索:** 不，旅行者、派蒙还有小家伙，你们一定要成功啊。

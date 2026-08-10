@@ -3,19 +3,19 @@
 # title_ru: Сияй же, айдол Пипильпан!
 # title_en: Shine On, Pipilpan Idol!
 # title_zh: 闪耀！皮皮潘偶像大赛！
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75233
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75233
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75233
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

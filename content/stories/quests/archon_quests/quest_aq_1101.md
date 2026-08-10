@@ -13,8 +13,8 @@
 # part_source_ids: 1000,1002,1003,1008,1009,1018
 # previous_quests: quest_aq_1003
 # next_quests: quest_aq_1102
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: I
 # version_source: wiki_release_category
 
@@ -1992,13 +1992,13 @@ Having sought out the adepti and completed the task Moon Carver entrusted to you
 
 **长顺:** 哦，你也是想来沾点「仙气」的吗？
 
-**长顺:** 哈哈，你很懂嘛，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYA|INFO_FEMALE_PRONOUN_GIRLB]}！在这个日子许愿的话，帝君和仙人们都会保佑你的。
+**长顺:** 哈哈，你很懂嘛，空/荧！在这个日子许愿的话，帝君和仙人们都会保佑你的。
 
 **长顺:** 我已经许完愿了，这里让给你。
 
 **派蒙:** 谢谢！
 
-希望早点找到{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+希望早点找到荧/空…
 
 **派蒙:** 好了，既然已经许过愿了，那我们就在这里等仪式开始吧。
 
@@ -2360,6 +2360,16 @@ Having sought out the adepti and completed the task Moon Carver entrusted to you
 
 **派蒙:** 好吧，旅行者。为了最高品质的精美杏仁豆腐，我们就去厨房看一下吧。
 
+#### 在厨房查看
+
+**派蒙:** 这里好像什么都…
+
+**派蒙:** ……
+
+**派蒙:** …………
+
+**派蒙:** %^%*&……！！
+
 #### 将情形告知言笑
 
 **言笑:** 啊！你们果然也看到了！真的有鬼！
@@ -2420,9 +2430,9 @@ Having sought out the adepti and completed the task Moon Carver entrusted to you
 
 **小冥:** 小冥不会再捉弄住店的客人了。
 
-**小冥:** 下次，就换旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}再来和小冥一起玩吧。
+**小冥:** 下次，就换旅行者空/荧再来和小冥一起玩吧。
 
-**小冥:** 如果{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}不来的话，小冥会去找你的…
+**小冥:** 如果空/荧不来的话，小冥会去找你的…
 
 #### 将情形告知言笑
 

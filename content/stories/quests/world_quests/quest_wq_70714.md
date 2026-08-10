@@ -3,19 +3,19 @@
 # title_ru: Мясоеды и Брук
 # title_en: Brook the Carnivore
 # title_zh: 肉食者，布洛克
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70714
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70714
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70714
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

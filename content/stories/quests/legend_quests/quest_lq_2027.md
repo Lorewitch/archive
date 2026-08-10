@@ -12,7 +12,7 @@
 # chapter_num_zh: 天下人之章 第二幕
 # part_source_ids: 12032,12040,12041,12042
 # previous_quests: quest_lq_2023
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2023
 # quest_chain: quest_lq_2023,quest_lq_2027
 # quest_series: Imperatrix Umbrosa || Imperatrix Umbrosa Chapter
@@ -1270,7 +1270,7 @@
 
 **Сёгун Райдэн:** И сила эта за пределами моего понимания.
 
-**Сёгун Райдэн:** Этот клинок принадлежал Мак{RUBY#[D]Предыдущий Электро Архонт}ото. Возможно, он откликается всей своей мощью, только когда я по-настоящему понимаю и принимаю неё.
+**Сёгун Райдэн:** Этот клинок принадлежал МакПредыдущий Электро Архонтото. Возможно, он откликается всей своей мощью, только когда я по-настоящему понимаю и принимаю неё.
 
 **Сёгун Райдэн:** Когда я использовала Мусо иссин, я почувствовала, что она снова со мной.
 
@@ -1372,7 +1372,7 @@
 
 **Яэ Мико:** Хм... Я не уверена, что это была только сила Макото...
 
-**Сёгун Райдэн:** Я понимаю, о чём ты. Возможно, в это действительно была вовлечена высша{RUBY#[D]Астарот}я сила. Как бы то ни было, её решение спасло всех нас.
+**Сёгун Райдэн:** Я понимаю, о чём ты. Возможно, в это действительно была вовлечена высшаАстаротя сила. Как бы то ни было, её решение спасло всех нас.
 
 **Сёгун Райдэн:** Без Священной сакуры Инадзума погрязла бы в бедствиях ещё столетия назад.
 
@@ -2746,7 +2746,7 @@ We will not fail.
 
 **Raiden Shogun:** This power is beyond the limits of my understanding.
 
-**Raiden Shogun:** This blade belonged to Mak{RUBY#[S]the previous Shogun}oto. Perhaps it can only respond to me with its full power when I truly understand and believe in her.
+**Raiden Shogun:** This blade belonged to Makthe previous Shogunoto. Perhaps it can only respond to me with its full power when I truly understand and believe in her.
 
 **Raiden Shogun:** When I clasped Musou Isshin in my hands, I had the feeling that she was by my side once again.
 
@@ -2848,7 +2848,7 @@ Time was moving forward and backward at the same time.
 
 **Yae Miko:** Hmm, well I'm not convinced that it was Makoto's power alone...
 
-**Raiden Shogun:** I know what you mean. Perhaps a higher{RUBY#[S]Istaroth} power really was involved in all of this. But whatever the explanation, her solution is what saved us all.
+**Raiden Shogun:** I know what you mean. Perhaps a higherIstaroth power really was involved in all of this. But whatever the explanation, her solution is what saved us all.
 
 **Raiden Shogun:** Without the Sacred Sakura, Inazuma would likely have been completely swallowed up centuries ago by that disaster and the filth.
 
@@ -3342,11 +3342,11 @@ But out of those challenges will be born new opportunities.
 
 **派蒙:** 对了，旅行者，既然影亲身经历过那场战斗，那…
 
-你见过我的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}吗？
+你见过我的空/荧吗？
 
-**雷电将军:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}？唔…我曾听说你正在寻找家人。
+**雷电将军:** 空/荧？唔…我曾听说你正在寻找家人。
 
-**雷电将军:** 莫非，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}也和坎瑞亚那场灾难有关？
+**雷电将军:** 莫非，空/荧也和坎瑞亚那场灾难有关？
 
 **派蒙:** 从我们了解到的事来看，应该是这样没错。
 
@@ -3358,7 +3358,7 @@ But out of those challenges will be born new opportunities.
 
 **派蒙:** 唔…真可惜，但也没办法呢…
 
-**派蒙:** 你和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}都有令人难过的经历…
+**派蒙:** 你和空/荧都有令人难过的经历…
 
 **雷电将军:** 最后一杯茶，就敬给茶匠吧。
 
@@ -4132,7 +4132,7 @@ But out of those challenges will be born new opportunities.
 
 **雷电将军:** 你无愧「永恒的守护者」之名。
 
-**雷电将军:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们再次回到这个空间，就像是命运的必然一般。
+**雷电将军:** 空/荧们再次回到这个空间，就像是命运的必然一般。
 
 **雷电将军:** 那就以这决战，为我们五百多年的宿命画上句号吧。
 
@@ -4222,7 +4222,7 @@ But out of those challenges will be born new opportunities.
 
 **雷电将军:** 这份力量，甚至在我的认知之外。
 
-**雷电将军:** 这是真{RUBY#[D]前代雷神}的佩刀。可能在我真正理解并认同她的时候，刀才会全力回应我。
+**雷电将军:** 这是真前代雷神的佩刀。可能在我真正理解并认同她的时候，刀才会全力回应我。
 
 **雷电将军:** 握紧「梦想一心」，让我有了与她再次并肩的感觉。
 
@@ -4324,7 +4324,7 @@ But out of those challenges will be born new opportunities.
 
 **八重神子:** 我倒觉得，只靠真的力量，或许…
 
-**雷电将军:** 我明白你在想什么。或许真有「更高层{RUBY#[D]伊斯塔露}次的力量」参与其中。但无论如何，她的这个办法在最后关头保护了我们所有人。
+**雷电将军:** 我明白你在想什么。或许真有「更高层伊斯塔露次的力量」参与其中。但无论如何，她的这个办法在最后关头保护了我们所有人。
 
 **雷电将军:** 要是没有神樱树，稻妻可能早在几百年前就被灾难与污秽完全吞没了。
 

@@ -11,11 +11,11 @@
 # chapter_num_en: Trifolium Chapter: Act I
 # chapter_num_zh: 四叶草之章 第一幕
 # part_source_ids: 10200,10201,10202
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2009
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1314,7 +1314,7 @@ Because of Mondstadt's most powerful treasure?
 
 **派蒙:** 欸…好可惜。
 
-**派蒙:** 我还希望看{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}排上前五呢。
+**派蒙:** 我还希望看空/荧排上前五呢。
 
 **琴:** 哈哈。即使没有这方面的统计，我对这位荣誉骑士的实力也从未质疑过。
 
@@ -1326,7 +1326,7 @@ Because of Mondstadt's most powerful treasure?
 
 **琴:** 以你的「战力」，守护人们的安全，应当不成问题。
 
-**派蒙:** 好！如果能够把深渊教团解决掉的话，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的排名又会上升一点吧。
+**派蒙:** 好！如果能够把深渊教团解决掉的话，空/荧的排名又会上升一点吧。
 
 - **旅行者:** 没有那样的排名啦。
 
@@ -1450,7 +1450,7 @@ Because of Mondstadt's most powerful treasure?
 
 **派蒙:** （木牌…好像能明白宝物为什么会失踪了。）
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，我们赶快出发吧！
+**可莉:** 荣誉骑士空/荧，我们赶快出发吧！
 
 #### 向酒客们打听「最强战力」的事
 
@@ -1529,6 +1529,12 @@ Because of Mondstadt's most powerful treasure?
 **派蒙:** 嗯唔…听上去还有点神神秘秘的呢。
 
 **派蒙:** 不过，谢谢你的情报！
+
+#### (test)向酒客们打听「最强战力」的事
+
+**杰克:** 再见。
+
+**杰克:** 嗯，再见。祝你今后的冒险一切顺利。
 
 #### 向巴顿了解最近的话题
 
@@ -1609,6 +1615,14 @@ Because of Mondstadt's most powerful treasure?
 ### 「红衣女孩宝物」之谜
 
 你们从各处听说了有关「蒙德最强战力」的各种情报，但仍然无法肯定这个问题的答案。在骑士团总部，你们意外遇到了「强者候选人」——可莉，而她正面临宝物失窃的危机，亟待帮助。
+
+#### (test)追逐III
+
+**派蒙:** 站住！
+
+**深渊法师:** 呼…呼…如果你们不在，只有那小女孩一个人的话…
+
+**深渊法师:** 哼…
 
 #### 与深渊法师交涉
 
@@ -1712,7 +1726,7 @@ Because of Mondstadt's most powerful treasure?
 
 **可莉:** 嘿嘿，可莉是很厉害的！
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，我们走我们走。
+**可莉:** 荣誉骑士空/荧，我们走我们走。
 
 #### 场景
 
@@ -1782,7 +1796,7 @@ Because of Mondstadt's most powerful treasure?
 
 - **旅行者:** 真为你高兴。
 
-**可莉:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}到时候也一定要来哦！
+**可莉:** 空/荧到时候也一定要来哦！
 
 **派蒙:** 欸嘿，圆满的结局！
 

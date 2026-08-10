@@ -3,18 +3,18 @@
 # title_ru: Всеядные гурманы: глубинные ныряльщики
 # title_en: The Gourmet Supremos: The Deep Divers
 # title_zh: 全能美食队·深潜者
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72170
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72170
 # previous_quests: quest_wq_72169
 # next_quests: quest_wq_72800
-# related_quests: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72800,quest_wq_73800,quest_wq_73805
-# quest_chain: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73800,quest_wq_73805
+# related_quests: quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72800
+# quest_chain: quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800
 # quest_series: The Gourmet Supremos
 # version_source: wiki_release_category
 

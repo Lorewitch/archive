@@ -11,11 +11,11 @@
 # chapter_num_en: Nereides Chapter: Act I
 # chapter_num_zh: 海精之章 第一幕
 # part_source_ids: 14027,14028,14029,14030
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2048
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

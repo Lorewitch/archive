@@ -3,7 +3,7 @@
 # title_ru: Для того, кто в экспедиции
 # title_en: To Those Who Embark on the Expedition
 # title_zh: 致予远征之人
-# region: Мондштадт, Нод-Край
+# region: Мондштадт
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 2087
@@ -11,11 +11,11 @@
 # chapter_num_en: Lupus Majoris Chapter: Act I
 # chapter_num_zh: 天狼之章 第一幕
 # part_source_ids: 16009,16010,16011
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2087
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -321,7 +321,7 @@
 
 **Паймон:** Дух волка... Это тот большой волк, что живёт в Вольфендоме?
 
-**Джинн:** Как тебе, должно быть, известно, Волк С{RUBY#[D]Борей}евера - это то, что осталось от древнего боже{RUBY#[D]Андриус}ства.
+**Джинн:** Как тебе, должно быть, известно, Волк СБорейевера - это то, что осталось от древнего божеАндриусства.
 
 **Джинн:** А Рыцарь Бореалис - посредник, связывающий его с миром людей.
 
@@ -579,7 +579,7 @@
 
 **Рэйзор:** Лупус Бореалис... не ранен... Почему... слабеет? Я... недостаточно силён?
 
-**Борей:** Это не твоя вина... Твои железны{RUBY#[S]клинок}е когти отразили все удары, но... они атаковали не только тело.
+**Борей:** Это не твоя вина... Твои железныклиноке когти отразили все удары, но... они атаковали не только тело.
 
 **Борей:** Они пришли по моему следу с севера, используя артерии земли... Пытались осквернить мои владения. Но я не сдамся без боя.
 
@@ -667,7 +667,7 @@
 
 **Венти:** По счастью, наш общий старый друг сейчас свободен... Попросите хорошенько - может, он вас подвезёт. Сэкономите время.
 
-**Борей:** Хм... То-то я чую присутствие Хранителя{RUBY#[D]Двалин} Востока.
+**Борей:** Хм... То-то я чую присутствие ХранителяДвалин Востока.
 
 **Венти:** Если даже Мондштадт пострадал от последствий, то в Нод-Крае дела совсем плохи. Надеюсь, Варка справится.
 
@@ -685,7 +685,7 @@
 
 **Рэйзор:** ...Я тоже... останусь в Мондштадте... Путешественник / ца защитит Варку...
 
-**Борей:** ...Рэйзор, дай мне свой железны{RUBY#[S]клинок}й коготь.
+**Борей:** ...Рэйзор, дай мне свой железныклинокй коготь.
 
 **Борей:** Златовласый путешественник / Златовласая путешественница, вручи этот знак нынешнему Рыцарю Бореалису.
 
@@ -697,7 +697,7 @@
 
 **Борей:** ...Но сердце и плоть человека не выдержат душу волка. Слияние человека и зверя приведёт лишь к хаосу.
 
-**Борей:** Дабы избежать сплетения душ, я могу лишь временно заключить силу и мысли в стальные кл{RUBY#[S]клинок}ыки и когти.
+**Борей:** Дабы избежать сплетения душ, я могу лишь временно заключить силу и мысли в стальные клклинокыки и когти.
 
 **Борей:** Силы тому рыцарю не занимать. Ему нужнее мысли, сокрытые внутри... Впрочем, пусть он сам всё объяснит.
 
@@ -723,7 +723,7 @@
 
 **Венти:** Причина этих беспорядков кроется в остатках души, которые Андриус, Волчий лорд и божество северного ветра, оставил в Нод-Крае.
 
-**Венти:** Когда-то он покинул Нод-Край, чтобы бросить вызов Архонт{RUBY#[S]Декарабиан}у бури и оспорить его власть. Но когда башня пала, он отказался от своих притязаний.
+**Венти:** Когда-то он покинул Нод-Край, чтобы бросить вызов АрхонтДекарабиану бури и оспорить его власть. Но когда башня пала, он отказался от своих притязаний.
 
 **Венти:** Вместо этого он вернулся на север и проспал тысячу лет, а затем, уже под именем Борея, отправился в путь вместе с первым Рыцарем Бореалисом, чтобы увидеть новый облик Мондштадта.
 
@@ -944,7 +944,7 @@
 
 **Флинс:** Похоже, вы давно вынашивали этот план. Будто... предвидели будущее.
 
-**Варка:** На самом деле, да - я мельком увидел отражение судьбы. Но я не могу приписать это себе. Все благодаря пом{RUBY#[D]чаша для гадания}ощи друзей...
+**Варка:** На самом деле, да - я мельком увидел отражение судьбы. Но я не могу приписать это себе. Все благодаря помчаша для гаданияощи друзей...
 
 **Варка:** Я видел лишь угрозу Бездны на севере... Знай я больше, мы бы действовали эффективнее.
 
@@ -1016,7 +1016,7 @@
 
 **Паймон:** Это то, что мы ищем? И что дальше?
 
-**Варка:** Борей научил меня заключать душу в предметы. Осталось перенести её в мой{RUBY#[D]стальные когти} меч.
+**Варка:** Борей научил меня заключать душу в предметы. Осталось перенести её в мойстальные когти меч.
 
 **Варка:** Как тогда в лагере... но лучше отойди. На всякий случай.
 
@@ -1102,7 +1102,7 @@
 
 **Варка:** После гибели Рустана во время бедствия Бездны Роланд покинул Мондштадт и отправился странствовать по Тейвату. Магистр ордена Арундолин хотел передать ему это письмо...
 
-**Варка:** Но искать Роланда было всё равно что гоняться за те{RUBY#[D]Рустан}нью. Лев С{RUBY#[S]Арундолин}вета так и не нашёл его. И с тех пор письмо хранилось в штаб-квартире Ордо Фавониус.
+**Варка:** Но искать Роланда было всё равно что гоняться за теРустаннью. Лев САрундолинвета так и не нашёл его. И с тех пор письмо хранилось в штаб-квартире Ордо Фавониус.
 
 **Паймон:** Невероятная древность... Но оно правда может помочь найти Роланда?
 
@@ -1607,11 +1607,11 @@
 
 **Андриус:** ...Это ответ, который я нашёл... в конце своего путешествия?
 
-**Варка:** Андр{RUBY#[S]Борей}иус... Наконец-то я вернул твой знак в твоё сердце.
+**Варка:** АндрБорейиус... Наконец-то я вернул твой знак в твоё сердце.
 
 **Андриус:** Ха... Рыцарь Бореалис? Смотри...
 
-**Андриус:** ...это единственное, что во{RUBY#[S]я}лк может сделать для люд{RUBY#[S]вы}ей...
+**Андриус:** ...это единственное, что воялк может сделать для людвыей...
 
 **Варка:** ...От лица всего человечества благодарю тебя, Волчий лорд.
 
@@ -2086,7 +2086,7 @@ I have no objections...
 
 **Paimon:** "Wolf Spirit"... You mean that big blue wolf in Wolvendom?
 
-**Jean:** Correct. As you may already know, the Wo{RUBY#[D]Boreas}lf of the North is the surviving spirit of an ancie{RUBY#[D]Andrius}nt god.
+**Jean:** Correct. As you may already know, the WoBoreaslf of the North is the surviving spirit of an ancieAndriusnt god.
 
 **Jean:** And the Knight of Boreas serves as an intermediary between him and humanity.
 
@@ -2344,7 +2344,7 @@ He's saying, you passed the test.
 
 **Razor:** Lupus Boreas not injured... why so weak? Am I... not strong enough?
 
-**Boreas:** You are not to blame... With your Iron{RUBY#[D]blade}claw, you successfully blocked their attacks. However... their assault went beyond the mere physical world.
+**Boreas:** You are not to blame... With your Ironbladeclaw, you successfully blocked their attacks. However... their assault went beyond the mere physical world.
 
 **Boreas:** They followed my trail from the distant north across the Ley Lines... They sought to corrupt the territory I protect. But I shall not let them succeed without a fight.
 
@@ -2432,7 +2432,7 @@ Khaenri'ah, five hundred years ago...
 
 **Venti:** As luck would have it, another old friend of ours just so happens to be free right now... If you ask him nicely, he might give you a lift. That could save you a lot of time on the road.
 
-**Boreas:** Hmph... No wonder I can suddenly sense the East {RUBY#[D]Dvalin}Wind's presence.
+**Boreas:** Hmph... No wonder I can suddenly sense the East DvalinWind's presence.
 
 **Venti:** If even Mondstadt has been affected by the fallout, Nod-Krai must be in real trouble by now. I hope Varka can handle it.
 
@@ -2450,7 +2450,7 @@ Khaenri'ah, five hundred years ago...
 
 **Razor:** ...I... stay in Mondstadt, too... With Traveler's help, Varka will be safe...
 
-**Boreas:** ...Razor, give me your Iron{RUBY#[D]blade}claw.
+**Boreas:** ...Razor, give me your Ironbladeclaw.
 
 **Boreas:** Golden-haired Traveler, give this token to the current Knight of Boreas.
 
@@ -2462,7 +2462,7 @@ What's this?
 
 **Boreas:** ...But human hearts and flesh cannot bear the soul of a wolf directly. It would be akin to forcefully merging a human and a wolf into one being... they would descend into chaos.
 
-**Boreas:** To prevent the entanglement of souls, the most I can do is temporarily house my power and thoughts within cla{RUBY#[S]blade}ws and fangs wrought of steel.
+**Boreas:** To prevent the entanglement of souls, the most I can do is temporarily house my power and thoughts within clabladews and fangs wrought of steel.
 
 **Boreas:** Although, truth be told, that knight does not lack for power. What he needs more is the thoughts within... Hmph, but I shall leave this for him to explain.
 
@@ -2488,7 +2488,7 @@ Is it safe to separate a piece of the Wolf Spirit at a time like this?
 
 **Venti:** The root of this turmoil lies with the remnant soul that Andrius, Dominator of Wolves and God of the North Wind, left in Nod-Krai.
 
-**Venti:** He once left Nod-Krai and braved the blizzards to confront the God of {RUBY#[S]Decarabian}Storms and claim the right to rule. Yet even as the tower fell, he chose to abandon his claim.
+**Venti:** He once left Nod-Krai and braved the blizzards to confront the God of DecarabianStorms and claim the right to rule. Yet even as the tower fell, he chose to abandon his claim.
 
 **Venti:** Instead, he returned to the North and slumbered for a thousand years, before finally journeying back — under the name of Boreas — with the first Knight of Boreas to witness the new face of Mondstadt.
 
@@ -2709,7 +2709,7 @@ What was that?
 
 **Flins:** Sounds like this plan was a long time in the making... It's almost as if you... foresaw the future?
 
-**Varka:** As a matter of fact, I did — I caught a glimpse of fate's reflection. But I can't take credit for it. It was all thanks to the help of a few fri{RUBY#[D]scryglass}ends...
+**Varka:** As a matter of fact, I did — I caught a glimpse of fate's reflection. But I can't take credit for it. It was all thanks to the help of a few friscryglassends...
 
 **Varka:** Still, all I foresaw was that an Abyssal calamity was brewing in the North... Had I known more, we could have saved a lot of energy.
 
@@ -2781,7 +2781,7 @@ Wow. You've made a lot of progress already!
 
 **Paimon:** Is this what we're looking for? Um, what do we do with it?
 
-**Varka:** I once got Boreas to explain to me how he stores his soul inside objects. All I need to do is transfer it to my sw{RUBY#[S]claws of steel}ord.
+**Varka:** I once got Boreas to explain to me how he stores his soul inside objects. All I need to do is transfer it to my swclaws of steelord.
 
 **Varka:** Just like back at the camp... but this time, you'd best step back a bit. Just in case.
 
@@ -2867,7 +2867,7 @@ That's a heck of a thing to have sitting in your back pocket...
 
 **Varka:** After Rostam lost his life in the Abyssal calamity, Roland left Mondstadt to wander Teyvat. Grand Master Arundolyn had wanted to deliver this letter to him...
 
-**Varka:** But trying to track Roland down was like chasing a sha{RUBY#[D]Rostam}dow. H{RUBY#[S]Arundolyn}e never did find him. And so, this letter has been sitting at the Knights of Favonius headquarters ever since.
+**Varka:** But trying to track Roland down was like chasing a shaRostamdow. HArundolyne never did find him. And so, this letter has been sitting at the Knights of Favonius headquarters ever since.
 
 **Paimon:** Quite the antique, then... But how exactly is it supposed to anchor Roland?
 
@@ -3372,11 +3372,11 @@ Step forward... lonely warrior.
 
 **Andrius:** ...Is this the answer that I found... at my journey's end?
 
-**Varka:** And{RUBY#[D]Boreas}rius... At long last, I have delivered your token back into your heart.
+**Varka:** AndBoreasrius... At long last, I have delivered your token back into your heart.
 
 **Andrius:** Heh... A Knight of Boreas? Watch on...
 
-**Andrius:** ...This is all that a wo{RUBY#[S]I}lf can hope to do for human{RUBY#[S]you}kind...
+**Andrius:** ...This is all that a woIlf can hope to do for humanyoukind...
 
 **Varka:** ...On behalf of all humanity, I thank you, Lord of Wolves.
 
@@ -3851,7 +3851,7 @@ You saw an Abyssal calamity in the North, right?
 
 **派蒙:** 「狼灵」…难道就是奔狼领的那一位？
 
-**琴:** 不错，你们或许也已经有所了解，那位北风{RUBY#[D]玻瑞亚斯}王狼是旧日{RUBY#[D]安德留斯}魔神的孑遗。
+**琴:** 不错，你们或许也已经有所了解，那位北风玻瑞亚斯王狼是旧日安德留斯魔神的孑遗。
 
 **琴:** 而「北风骑士」，正是它与人类之间的桥梁。
 
@@ -4109,7 +4109,7 @@ You saw an Abyssal calamity in the North, right?
 
 **雷泽:** 王狼，明明，没有受伤…为什么…会虚弱？是我，还不够强吗？
 
-**玻瑞亚斯:** 这并非你的错…你的「铁{RUBY#[D]剑刃}爪」确实已经挡下了所有攻击，但「它们」并不只袭击了尘世。
+**玻瑞亚斯:** 这并非你的错…你的「铁剑刃爪」确实已经挡下了所有攻击，但「它们」并不只袭击了尘世。
 
 **玻瑞亚斯:** 它们追循远在北方的踪迹，跨越地脉而来…企图侵染被我庇护的领地。但我不会让它们轻易得逞。
 
@@ -4197,7 +4197,7 @@ You saw an Abyssal calamity in the North, right?
 
 **温迪:** 正巧我们的另一位「老朋友」现在有空，请他载你们一趟，应该是最快的？
 
-**玻瑞亚斯:** 哼…难怪从刚才开始，就能闻到「东风{RUBY#[D]特瓦林}守护」的气息。
+**玻瑞亚斯:** 哼…难怪从刚才开始，就能闻到「东风特瓦林守护」的气息。
 
 **温迪:** 连蒙德都受到了影响，现在的挪德卡莱，恐怕已经乱成一锅粥了吧？但愿法尔伽还能应付得来。
 
@@ -4215,7 +4215,7 @@ You saw an Abyssal calamity in the North, right?
 
 **雷泽:** …我也会，留在蒙德…有你在，法尔伽，会没事的…会没事的…
 
-**玻瑞亚斯:** …雷泽，把你的「铁{RUBY#[D]剑刃}爪」给我。
+**玻瑞亚斯:** …雷泽，把你的「铁剑刃爪」给我。
 
 **玻瑞亚斯:** 金发的旅人，将我的「信物」交给如今的北风骑士吧。
 
@@ -4227,7 +4227,7 @@ You saw an Abyssal calamity in the North, right?
 
 **玻瑞亚斯:** …但以人类的心脏和肢体，无法直接承载狼的灵魂，否则必将陷入混沌…就像强行融合的人群与狼群。
 
-**玻瑞亚斯:** 所以为了避免灵魂被混淆，只能以钢铁的{RUBY#[S]剑刃}爪牙，暂存我的力量与思绪。
+**玻瑞亚斯:** 所以为了避免灵魂被混淆，只能以钢铁的剑刃爪牙，暂存我的力量与思绪。
 
 **玻瑞亚斯:** 不过那名骑士并不缺少「力量」，他更需要的应是其中的「思绪」…哼，还是让他自去跟你们解释吧。
 
@@ -4253,7 +4253,7 @@ You saw an Abyssal calamity in the North, right?
 
 **温迪:** 这次动乱的根源，是群狼的领主、北风之魔神「安德留斯」，留在挪德卡莱的孑遗。
 
-**温迪:** 它曾从挪德卡莱跨越风雪而来，与龙卷之{RUBY#[S]迭卡拉庇安}魔神争夺执政的权柄，却在高塔崩毁之际自愿退出了角逐。
+**温迪:** 它曾从挪德卡莱跨越风雪而来，与龙卷之迭卡拉庇安魔神争夺执政的权柄，却在高塔崩毁之际自愿退出了角逐。
 
 **温迪:** 此后它返回北方沉睡千年，才同初代北风骑士踏上归程，以「玻瑞亚斯」之名见证了焕然一新的蒙德。
 
@@ -4474,7 +4474,7 @@ You saw an Abyssal calamity in the North, right?
 
 **菲林斯:** 听起来，您似乎早在很久以前，就已经在做相关的筹备了？简直就像预见了命运。
 
-**法尔伽:** 这可太抬举我了，托一些朋友{RUBY#[D]水占盘}的福，我确实瞥见过一点「命运」的倒影…
+**法尔伽:** 这可太抬举我了，托一些朋友水占盘的福，我确实瞥见过一点「命运」的倒影…
 
 **法尔伽:** 但我能「预见」到的，仅仅只是「北边有深渊灾厄正在酝酿」而已。否则我们之前也不必打得那么辛苦。
 
@@ -4546,7 +4546,7 @@ You saw an Abyssal calamity in the North, right?
 
 **派蒙:** 这就是狼灵碎片吗？接下来要怎么做？
 
-**法尔伽:** 我向玻瑞亚斯打听过一点将灵魂寄托于物的技巧。把它转移到我的剑{RUBY#[S]钢铁的爪牙}里就行。
+**法尔伽:** 我向玻瑞亚斯打听过一点将灵魂寄托于物的技巧。把它转移到我的剑钢铁的爪牙里就行。
 
 **法尔伽:** 和之前在营地里的时候一样…不过这次需要你们稍微退后一点，以防万一。
 
@@ -4632,7 +4632,7 @@ You saw an Abyssal calamity in the North, right?
 
 **法尔伽:** 鲁斯坦牺牲于深渊灾厄后，罗兰离开蒙德四处流浪。当时的大团长艾伦德林，曾想将这封信送到他手上…
 
-**法尔伽:** 奈何「光之{RUBY#[S]艾伦德林}狮」终其一生，都没追上自己影{RUBY#[D]鲁斯坦}子的弟{RUBY#[D]罗兰}子，所以这封信也就一直留在了骑士团里。
+**法尔伽:** 奈何「光之艾伦德林狮」终其一生，都没追上自己影鲁斯坦子的弟罗兰子，所以这封信也就一直留在了骑士团里。
 
 **派蒙:** 那还真是件不得了的古董…不过它真能用来锚定罗兰吗？
 
@@ -5137,11 +5137,11 @@ You saw an Abyssal calamity in the North, right?
 
 **安德留斯:** …是「我」在旅途终点…找到的答案吗？
 
-**法尔伽:** 「安德{RUBY#[D]玻瑞亚斯}留斯」…你的信，我可好好送回到「你」心里了。
+**法尔伽:** 「安德玻瑞亚斯留斯」…你的信，我可好好送回到「你」心里了。
 
 **安德留斯:** 呵…「北风骑士」吗，看着吧…
 
-**安德留斯:** …这就是「狼{RUBY#[S]我}」…唯一能为「人{RUBY#[S]你们}」做的事了…
+**安德留斯:** …这就是「狼我」…唯一能为「人你们」做的事了…
 
 **法尔伽:** …代表地上的人类，向您致谢，群狼的领主。
 

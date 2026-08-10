@@ -3,19 +3,19 @@
 # title_ru: Обновлённая мастерская
 # title_en: A Whole New Craftshop
 # title_zh: 焕然一新的工坊
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76657
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76657
 # previous_quests: quest_wq_76652
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_76652
 # quest_chain: quest_wq_76652,quest_wq_76657
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

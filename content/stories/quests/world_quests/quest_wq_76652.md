@@ -3,19 +3,19 @@
 # title_ru: Сортировщик проблем
 # title_en: Problem-Sorting Robot
 # title_zh: 问题分拣机器人
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76652
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76652
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76657
 # related_quests: quest_wq_76657
 # quest_chain: quest_wq_76652,quest_wq_76657
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

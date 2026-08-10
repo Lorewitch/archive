@@ -13,8 +13,8 @@
 # part_source_ids: 3000,3001,3002,3003,3004,3005,3006
 # previous_quests: quest_aq_1206
 # next_quests: quest_aq_1302
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: III
 # version_source: wiki_release_category
 
@@ -7682,7 +7682,7 @@ Speaking of which, Haypasia did mention...
 
 **派蒙:** 哇，是什么呀？
 
-**提纳里:** 它叫做「虚{RUBY#[D]阿卡西}空终端」，那是教令院利用大慈树王大人留下的遗产制作的工具，也有人说它是让须弥真正成为智慧之都的基石。
+**提纳里:** 它叫做「虚阿卡西空终端」，那是教令院利用大慈树王大人留下的遗产制作的工具，也有人说它是让须弥真正成为智慧之都的基石。
 
 **提纳里:** 教令院的人会教你们怎么使用它，我就不越俎代庖了。
 
@@ -7750,11 +7750,11 @@ Speaking of which, Haypasia did mention...
 
 **派蒙:** 咦，你怎么知道？
 
-**帕纳:** 因为在「虚{RUBY#[D]阿卡西}空」之中，目前还没有你们的信息。
+**帕纳:** 因为在「虚阿卡西空」之中，目前还没有你们的信息。
 
 **帕纳:** 哦，二位不用担心，我并非要阻止你们进入须弥城。相反，教令院会为每位来到须弥城的旅客都提供一件便利的工具。
 
-**帕纳:** 二位或许已经听说过，「虚{RUBY#[D]阿卡西}空」是大慈树王大人留下的遗产，是能够汇集知识的宝库。
+**帕纳:** 二位或许已经听说过，「虚阿卡西空」是大慈树王大人留下的遗产，是能够汇集知识的宝库。
 
 **帕纳:** 几百年间，教令院通过对虚空的不懈研究，终于开发出了「虚空终端」。
 

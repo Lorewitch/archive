@@ -7,15 +7,15 @@
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 70689
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70689
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_72738
 # related_quests: quest_wq_72738
 # quest_chain: quest_wq_70689,quest_wq_72738
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

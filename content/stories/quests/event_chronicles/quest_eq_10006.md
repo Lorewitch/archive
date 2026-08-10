@@ -11,10 +11,10 @@
 # chapter_num_en: Unreconciled Stars - I
 # chapter_num_zh: 未归的熄星 其一
 # part_source_ids: 41111
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10007
-# related_quests: quest_eq_10007,quest_eq_10008,quest_eq_10009,quest_wq_41120,quest_wq_41122,quest_wq_41123,quest_wq_41124,quest_wq_41126,quest_wq_41127,quest_wq_41130,quest_wq_41131,quest_wq_41135
-# quest_chain: quest_eq_10006,quest_eq_10007,quest_eq_10008,quest_eq_10009,quest_wq_41120,quest_wq_41122,quest_wq_41123,quest_wq_41124,quest_wq_41126,quest_wq_41127,quest_wq_41130,quest_wq_41131,quest_wq_41135
+# related_quests: quest_eq_10007,quest_eq_10008,quest_eq_10009
+# quest_chain: quest_eq_10006,quest_eq_10007,quest_eq_10008,quest_eq_10009
 # quest_series: Unreconciled Stars
 # version_source: wiki_release_category
 
@@ -670,7 +670,7 @@ Then everyone else will wake up, too!
 
 **派蒙:** 好、好有来头的人呢…
 
-**派蒙:** 我是派蒙，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是旅行者，请多关照啦！
+**派蒙:** 我是派蒙，空/荧是旅行者，请多关照啦！
 
 - **旅行者:** 你刚刚说，异世界？
 

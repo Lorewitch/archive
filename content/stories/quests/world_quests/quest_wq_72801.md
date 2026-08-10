@@ -3,19 +3,19 @@
 # title_ru: Международные путевые заметки
 # title_en: International Travel Log
 # title_zh: 诸国游记
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72801
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72801
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72801
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -574,7 +574,7 @@ He hasn't finished yet.
 
 #### 与小绿对话
 
-**小绿:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，你们拿到「游记」了吗？
+**小绿:** 旅行者空/荧，你们拿到「游记」了吗？
 
 这是拉姆齐先生给你的…
 
@@ -586,4 +586,4 @@ He hasn't finished yet.
 
 **小绿:** 是这样吗…我会等着拉姆齐叔叔写完的，等他写完，我再看完…我就又有故事给宏一讲了。
 
-**小绿:** 谢谢你，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，这些东西给你，请你收下吧。
+**小绿:** 谢谢你，空/荧，这些东西给你，请你收下吧。

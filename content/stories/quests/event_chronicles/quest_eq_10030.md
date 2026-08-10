@@ -12,9 +12,9 @@
 # chapter_num_zh: 盛夏！海岛？大冒险！ 其四
 # part_source_ids: 40013
 # previous_quests: quest_eq_10029
-# next_quests: 
-# related_quests: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
-# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
+# next_quests:
+# related_quests: quest_eq_10027,quest_eq_10028,quest_eq_10029
+# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030
 # quest_series: Midsummer Island Adventure
 # version_source: wiki_release_category
 
@@ -620,7 +620,7 @@ Yep!
 
 #### 回到装置旁与可莉对话
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，要放鳞片了吗？
+**可莉:** 荣誉骑士空/荧，要放鳞片了吗？
 
 是的。
 
@@ -644,7 +644,7 @@ Yep!
 
 **琴:** 可莉…兴致真高啊。
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，加油呀，可莉给你打气！
+**可莉:** 荣誉骑士空/荧，加油呀，可莉给你打气！
 
 #### 与可莉对话
 
@@ -682,13 +682,13 @@ Yep!
 
 **阿贝多:** ……
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，能不能请你来帮我按呢？
+**可莉:** 荣誉骑士空/荧，能不能请你来帮我按呢？
 
-可莉，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}不能帮你按。
+可莉，空/荧不能帮你按。
 
 **可莉:** 为什么呀？
 
-因为{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}要握紧武器。
+因为空/荧要握紧武器。
 
 这样就能保护你啦。
 
@@ -788,7 +788,7 @@ Yep!
 
 **艾莉丝:** 让我猜猜看，收到信的各位应该都在吧。凯亚先生、迪卢克先生、雷泽小朋友、琴小姐、芭芭拉小姐…
 
-**艾莉丝:** 然后是可靠又聪明的小阿贝多，以及…神秘的旅行者和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的好伙伴，派蒙。
+**艾莉丝:** 然后是可靠又聪明的小阿贝多，以及…神秘的旅行者和空/荧的好伙伴，派蒙。
 
 **艾莉丝:** 你们都是受我邀请前来陪伴可莉的人。谢谢你们，让这孩子过了一个不错的夏天。
 
@@ -874,7 +874,7 @@ Yep!
 
 **可莉:** 可莉最最最最喜欢妈妈啦！
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，你喜欢可莉吗？
+**可莉:** 荣誉骑士空/荧，你喜欢可莉吗？
 
 嗯。
 

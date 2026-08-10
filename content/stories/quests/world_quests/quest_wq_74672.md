@@ -3,19 +3,19 @@
 # title_ru: Давно провалившаяся Технология распознавания преступников...
 # title_en: The Long-Failed "Graph Adversarial Technology"...
 # title_zh: 早早失败的「图形对抗学」…
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74672
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74672
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74672
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -3,19 +3,19 @@
 # title_ru: Бледное пламя
 # title_en: Pale Fire
 # title_zh: 微暗之火
-# region: Сумеру
+# region: Тейват
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 10126
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73307,73309,73310,73312,73314,73315,73316,73317,73318,73332,73334
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10126
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

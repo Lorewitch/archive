@@ -3,19 +3,19 @@
 # title_ru: Хаос, вызванный фантазмами мутных вод
 # title_en: Hydro Phantasm Havoc
 # title_zh: 浊水幻灵引起的混乱
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74666
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74666
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74666
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

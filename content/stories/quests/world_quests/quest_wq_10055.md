@@ -3,19 +3,19 @@
 # title_ru: От заката до рассвета в Бякуякоку
 # title_en: From Dusk to Dawn in Byakuyakoku
 # title_zh: 白夜国晨昏记
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 10055
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72177,72190,72191,72192,72242
 # previous_quests: quest_wq_72233
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10031,quest_wq_72233
 # quest_chain: quest_wq_10031,quest_wq_72233,quest_wq_10055
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -82,7 +82,7 @@
 
 - **Путешественник:** ...Бякуякоку?
 
-**Эндзё:** Да, Бякуякоку. Это истинное название этого места. Потусторонний мир, куда не проникает свет. Истинная сущность, которая открывается лишь тогда, когда грехи, накопившиеся во тьме вечной{RUBY#[S]Токоё} ночи, получат искупление - Бякуякоку.
+**Эндзё:** Да, Бякуякоку. Это истинное название этого места. Потусторонний мир, куда не проникает свет. Истинная сущность, которая открывается лишь тогда, когда грехи, накопившиеся во тьме вечнойТокоё ночи, получат искупление - Бякуякоку.
 
 **Эндзё:** ...Но вернёмся к испытанию. Народ Бякуякоку был спасён Великим змеем и вернулся к свету небес. Все они поднялись из морской бездны.
 
@@ -120,7 +120,7 @@
 
 **Эндзё:** Ага, точно, она самая. А вы и правда талантливые герои.
 
-**Эндзё:** В книге говорится, что мастеру Абэраку н{RUBY#[S]Абракс}о Микото было приказано создать колесницу солнца, чтобы в вечной ночи появился свет.
+**Эндзё:** В книге говорится, что мастеру Абэраку нАбраксо Микото было приказано создать колесницу солнца, чтобы в вечной ночи появился свет.
 
 **Эндзё:** Сначала люди жили в постоянном страхе, а истинными повелителями были те, кто охотился во тьме, - вишапы глубин.
 
@@ -381,7 +381,7 @@
 
 - **Путешественник:** ...Бякуякоку?
 
-**Эндзё:** Да, Бякуякоку. Это истинное название этого места. Потусторонний мир, куда не проникает свет. Истинная сущность, которая открывается лишь тогда, когда грехи, накопившиеся во тьме вечной{RUBY#[S]Токоё} ночи, получат искупление - Бякуякоку.
+**Эндзё:** Да, Бякуякоку. Это истинное название этого места. Потусторонний мир, куда не проникает свет. Истинная сущность, которая открывается лишь тогда, когда грехи, накопившиеся во тьме вечнойТокоё ночи, получат искупление - Бякуякоку.
 
 **Эндзё:** ...Но вернёмся к испытанию. Народ Бякуякоку был спасён Великим змеем и вернулся к свету небес. Все они поднялись из морской бездны.
 
@@ -425,7 +425,7 @@
 
 **Эндзё:** Да. Она самая! Ну не совпадение ли?
 
-**Эндзё:** В книге говорится, что мастеру Абэраку н{RUBY#[S]Абракс}о Микото было приказано создать колесницу солнца, чтобы в вечной ночи появился свет.
+**Эндзё:** В книге говорится, что мастеру Абэраку нАбраксо Микото было приказано создать колесницу солнца, чтобы в вечной ночи появился свет.
 
 **Эндзё:** Сначала люди жили в постоянном страхе, а истинными повелителями были те, кто охотился во тьме, - вишапы глубин.
 
@@ -1046,7 +1046,7 @@ What do you know about that central tower?
 
 - **Traveler:** ...National treasure?
 
-**Enjou:** That's right, Byakuyakoku. That's the real name of this place. A nether realm without light. Byakuyakoku — the place where sins piled high in the ever-{RUBY#[S]Tokoyo}night, only to be cleansed, revealing their true colors.
+**Enjou:** That's right, Byakuyakoku. That's the real name of this place. A nether realm without light. Byakuyakoku — the place where sins piled high in the ever-Tokoyonight, only to be cleansed, revealing their true colors.
 
 **Enjou:** ...But back to the trial. The people of Byakuyakoku were saved by the Great Serpent, and thus re-attained the light of heaven. They all moved above the depths.
 
@@ -1084,7 +1084,7 @@ Is this what you're looking for?
 
 **Enjou:** Ah, yep. That's the one. You're pretty good at this hero business, aren't you?
 
-**Enjou:** The book says that the craftsman "Aberaku n{RUBY#[S]Abrax}o Mikoto" was ordered to create the chariot of the sun to finally bring light to the everlasting night.
+**Enjou:** The book says that the craftsman "Aberaku nAbraxo Mikoto" was ordered to create the chariot of the sun to finally bring light to the everlasting night.
 
 **Enjou:** Before this, the people lived in a constant state of fear, for it was the great hunters in the dark — the Bathysmal Vishaps — who were the original rulers of this land.
 
@@ -1345,7 +1345,7 @@ What do you know about that central tower?
 
 - **Traveler:** ...National treasure?
 
-**Enjou:** That's right, Byakuyakoku. That's the real name of this place. A nether realm without light. Byakuyakoku — the place where sins piled high in the ever-{RUBY#[S]Tokoyo}night, only to be cleansed, revealing their true colors.
+**Enjou:** That's right, Byakuyakoku. That's the real name of this place. A nether realm without light. Byakuyakoku — the place where sins piled high in the ever-Tokoyonight, only to be cleansed, revealing their true colors.
 
 **Enjou:** ...But back to the trial. The people of Byakuyakoku were saved by the Great Serpent, and thus re-attained the light of heaven. They all moved above the depths.
 
@@ -1389,7 +1389,7 @@ Is this what you're looking for?
 
 **Enjou:** Ah yes, that's the one! Why, isn't this a coincidence?
 
-**Enjou:** The book says that the craftsman "Aberaku n{RUBY#[S]Abrax}o Mikoto" was ordered to create the chariot of the sun to finally bring light to the everlasting night.
+**Enjou:** The book says that the craftsman "Aberaku nAbraxo Mikoto" was ordered to create the chariot of the sun to finally bring light to the everlasting night.
 
 **Enjou:** Before this, the people lived in a constant state of fear, for it was the great hunters in the dark — the Bathysmal Vishaps — who were the original rulers of this land.
 
@@ -2010,7 +2010,7 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 - **旅行者:** …传国之宝？
 
-**渊上:** 没错，白夜国。这片土地真正的名字。幽冥的无光世界。常{RUBY#[D]常世}夜中，罪孽积堆又被涤净之后的真色——白夜之国。
+**渊上:** 没错，白夜国。这片土地真正的名字。幽冥的无光世界。常常世夜中，罪孽积堆又被涤净之后的真色——白夜之国。
 
 **渊上:** 话说回试炼。白夜国民被大蛇海祇所救，终于可以重见天光了。他们全部搬到了海渊之上。
 
@@ -2048,7 +2048,7 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 **渊上:** 啊，没错。就是这个。你们，说不定很有当勇者的天赋啊。
 
-**渊上:** 书上传说，工匠「『阿倍{RUBY#[D]阿布拉克}良久』之命」奉命建造了太阳之车，终于为常夜带来了光明。
+**渊上:** 书上传说，工匠「『阿倍阿布拉克良久』之命」奉命建造了太阳之车，终于为常夜带来了光明。
 
 **渊上:** 在之前的常夜里，人们一直生活在恐惧中。黑暗中狩猎的深海龙蜥才是这片土地原本的霸王。
 
@@ -2309,7 +2309,7 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 - **旅行者:** …传国之宝？
 
-**渊上:** 没错，白夜国。这片土地真正的名字。幽冥的无光世界。常{RUBY#[D]常世}夜中，罪孽积堆又被涤净之后的真色——白夜之国。
+**渊上:** 没错，白夜国。这片土地真正的名字。幽冥的无光世界。常常世夜中，罪孽积堆又被涤净之后的真色——白夜之国。
 
 **渊上:** 话说回试炼。白夜国民被大蛇海祇所救，终于可以重见天光了。他们全部搬到了海渊之上。
 
@@ -2353,7 +2353,7 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 **渊上:** 没错，就是这个。这可真是太巧了。
 
-**渊上:** 书上传说，工匠「『阿倍{RUBY#[D]阿布拉克}良久』之命」奉命建造了太阳之车，终于为常夜带来了光明。
+**渊上:** 书上传说，工匠「『阿倍阿布拉克良久』之命」奉命建造了太阳之车，终于为常夜带来了光明。
 
 **渊上:** 在之前的常夜里，人们一直生活在恐惧中。黑暗中狩猎的深海龙蜥才是这片土地原本的霸王。
 

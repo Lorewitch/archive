@@ -3,19 +3,19 @@
 # title_ru: Игра тэмари
 # title_en: Temaria Game
 # title_zh: 「手鞠游戏」
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72176
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72176
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72176
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -250,17 +250,17 @@ Got it.
 
 #### 场景
 
-**鲸井小弟:** 嗨！{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，我这有好东西…
+**鲸井小弟:** 嗨！空/荧，我这有好东西…
 
 谢谢，没有兴趣。
 
 **派蒙:** 好可怜，年纪这么小就被人逼着干可疑的行当。
 
-**鲸井小弟:** 不是啦！我是想和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}玩手鞠。
+**鲸井小弟:** 不是啦！我是想和空/荧玩手鞠。
 
 **派蒙:** 「手鞠」？
 
-**鲸井小弟:** 简单来说，我会把手鞠藏在附近的某个地方。在一首手鞠歌的时间内，如果{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}能找到，那{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}就赢了。
+**鲸井小弟:** 简单来说，我会把手鞠藏在附近的某个地方。在一首手鞠歌的时间内，如果空/荧能找到，那空/荧就赢了。
 
 手鞠是这样玩的吗？
 
@@ -268,7 +268,7 @@ Got it.
 
 **鲸井小弟:** 「鲸井，好好记住。你一定要说，『如果你赢了，就可以得到好东西』。」
 
-**鲸井小弟:** 所以，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，如果你赢了，就可以得到好东西。
+**鲸井小弟:** 所以，空/荧，如果你赢了，就可以得到好东西。
 
 **派蒙:** 是好东西！旅行者，我觉得陪小孩子玩是天经地义的事情！
 
@@ -288,7 +288,7 @@ Got it.
 
 **派蒙:** 刚刚只是状态不好而已！
 
-**鲸井小弟:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你们要再试一次吗？
+**鲸井小弟:** 空/荧，你们要再试一次吗？
 
 **派蒙:** 当然了！旅行者，我们要让鲸井小弟见识一下我们的厉害才行！
 
@@ -298,7 +298,7 @@ Got it.
 
 #### 与鲸井小弟对话
 
-**鲸井小弟:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}好厉害，一下就找到了！
+**鲸井小弟:** 空/荧好厉害，一下就找到了！
 
 **派蒙:** 哼哼，旅行者可是身经百战，去过很多国度的旅行者。
 
@@ -324,13 +324,13 @@ Got it.
 
 **派蒙:** 才不是贪心！是担心！担心鲸井小弟一个人很无聊！
 
-**鲸井小弟:** 是呀，我也觉得{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}你们好好心，我很开心哦。
+**鲸井小弟:** 是呀，我也觉得空/荧你们好好心，我很开心哦。
 
 一个人呆在野外…
 
 **派蒙:** 你一个小孩子呆在野外，不怕遇到危险吗？而且身上还带着好东西。
 
-**鲸井小弟:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}真好心。不过不用担心，那个冒险家大姐姐教我，只要特别操作一下，手鞠就可以变成炸弹。
+**鲸井小弟:** 空/荧真好心。不过不用担心，那个冒险家大姐姐教我，只要特别操作一下，手鞠就可以变成炸弹。
 
 **派蒙:** 好危险！
 
@@ -338,7 +338,7 @@ Got it.
 
 **派蒙:** 危险的是你！
 
-**鲸井小弟:** 对了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}如果想要跟别的朋友玩手鞠的话…
+**鲸井小弟:** 对了，空/荧如果想要跟别的朋友玩手鞠的话…
 
 **鲸井小弟:** 我留个手鞠放在这里！它的规则是这样的…
 
@@ -348,8 +348,8 @@ Got it.
 
 **派蒙:** 一想到我们玩的居然是炸弹，就觉得好害怕…
 
-**鲸井小弟:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}不用怕，她还跟我说过「只会炸坏人。大概」。
+**鲸井小弟:** 空/荧不用怕，她还跟我说过「只会炸坏人。大概」。
 
 **派蒙:** 「大概」？！
 
-**鲸井小弟:** 那么，我去别的地方玩喽！{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}再见！
+**鲸井小弟:** 那么，我去别的地方玩喽！空/荧再见！

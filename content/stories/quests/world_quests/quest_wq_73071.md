@@ -3,19 +3,19 @@
 # title_ru: Дарите цветы
 # title_en: Giving Flowers
 # title_zh: 予人以花
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73071
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73071
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73071
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -572,7 +572,7 @@ But...
 
 - **旅行者:** 只是热心的旅行者。
 
-- **旅行者:** 在找失散的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 在找失散的荧/空…
 
 **派蒙:** 没错，所以没法对遇到困难的人置之不理。
 
@@ -662,7 +662,7 @@ But...
 
 - **旅行者:** 只是热心的旅行者。
 
-- **旅行者:** 在找失散的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 在找失散的荧/空…
 
 **派蒙:** 没错，所以没法对遇到困难的人置之不理。
 

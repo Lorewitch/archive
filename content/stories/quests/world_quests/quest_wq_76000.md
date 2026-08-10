@@ -3,19 +3,19 @@
 # title_ru: Приоритеты прежде всего
 # title_en: Priorities First
 # title_zh: 要事优先
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76000
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76000
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76058
 # related_quests: quest_wq_76058
 # quest_chain: quest_wq_76000,quest_wq_76058
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

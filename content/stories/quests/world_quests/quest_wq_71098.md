@@ -3,19 +3,19 @@
 # title_ru: Ода Гарсии
 # title_en: Garcia's Paean
 # title_zh: 加尔恰的赞歌
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71098
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71098
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71098
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

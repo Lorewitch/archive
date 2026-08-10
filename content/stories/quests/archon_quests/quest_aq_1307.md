@@ -11,10 +11,10 @@
 # chapter_num_en: Interlude Chapter: Act III
 # chapter_num_zh: 间章 第三幕
 # part_source_ids: 3029,3030,3031,3032
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_aq_1205,quest_aq_1207,quest_aq_1004
-# quest_chain: quest_aq_1205,quest_aq_1207,quest_aq_1307,quest_aq_1004
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_aq_1307
 # quest_series: Interlude || Interlude Chapter
 # version_source: wiki_release_category
 
@@ -2179,29 +2179,29 @@
 
 **Меха Сказителя:** !..
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Убирайся, идиот!
+**Странник:** Убирайся, идиот!
 
 **Паймон:** Исчез... Мы победили?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А чего ты ожидала? Разве я мог проиграть?
+**Странник:** А чего ты ожидала? Разве я мог проиграть?
 
 **Паймон:** Ох, узнаю этот тон. Ты явно стал прежним собой.
 
 **Паймон:** Подожди, но внутри той штуки тоже был ты. Так с чего тебе теперь гордиться?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Прости, я суров к себе и к остальным. Так уж я устроен.
+**Странник:** Прости, я суров к себе и к остальным. Так уж я устроен.
 
 - **Путешественник:** Ты вернул память...
 
 - **Путешественник:** Теперь прошлое сможет настигнуть тебя.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ха-ха, ты как будто волнуешься обо мне.
+**Странник:** Ха-ха, ты как будто волнуешься обо мне.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не переживай. Пусть мне ничего не удалось изменить, но благодаря тебе я теперь знаю правду.
+**Странник:** Не переживай. Пусть мне ничего не удалось изменить, но благодаря тебе я теперь знаю правду.
 
 **Нахида:** Похоже, восстановление памяти прошло успешно. Эта грёза выполнила своё предназначение.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Можем продолжить разговор после выхода.
+**Странник:** Можем продолжить разговор после выхода.
 
 ### Подобно утренней росе
 
@@ -2213,29 +2213,29 @@
 
 **Паймон:** Фух! Такое ощущение, что мы проделали очень долгий путь... Паймон устала.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Нахида:** Тебе не нравится, когда тебя так называют?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Нет, просто я подумал, что мне стоит поменять имя.
+**Странник:** Нет, просто я подумал, что мне стоит поменять имя.
 
 Ты больше не хочешь называться Сказителем?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** После того как я узнал обо всех деяниях Доктора, я не хочу называться именем, которое связано с ним.
+**Странник:** После того как я узнал обо всех деяниях Доктора, я не хочу называться именем, которое связано с ним.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я не планирую возвращаться к Фатуи, и они всё равно не приняли бы меня обратно. Недавние события затронули очень многих, они могут даже не вспомнить про номер шесть.
+**Странник:** Я не планирую возвращаться к Фатуи, и они всё равно не приняли бы меня обратно. Недавние события затронули очень многих, они могут даже не вспомнить про номер шесть.
 
 **Паймон:** Ты решил навсегда попрощаться с Фатуи?
 
 Назовём это тактическим отступлением...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты была права, малая властительница Кусанали. Даже в тщетных попытках есть своя польза. По крайней мере, я заставил многих забыть обо мне.
+**Странник:** Ты была права, малая властительница Кусанали. Даже в тщетных попытках есть своя польза. По крайней мере, я заставил многих забыть обо мне.
 
 **Нахида:** Но это не означает, что твоё прошлое исчезло.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Разумеется.
+**Странник:** Разумеется.
 
 **Нахида:** И твоя главная цель, ради которой ты отдал всё, что у тебя было... ты не смог её достичь. Надеюсь, ты сознаёшь это.
 
@@ -2243,33 +2243,33 @@
 
 **Нахида:** Ты искал полного уничтожения... но это не более чем фантазия. Даже ценой исчезновения Сказителя невозможно подчинить мир своей воле.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Да. Ха-ха, какая нелепость.
+**Странник:** ...Да. Ха-ха, какая нелепость.
 
 **Паймон:** Ты жалеешь о том, что пошёл на такие жертвы, получив так мало взамен?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Даже если я ничего не стою, в этом мире не о чем сожалеть.
+**Странник:** Даже если я ничего не стою, в этом мире не о чем сожалеть.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Малая властительница Кусанали, ты специально оставила эту информацию в Ирминсуле, не так ли?
+**Странник:** Малая властительница Кусанали, ты специально оставила эту информацию в Ирминсуле, не так ли?
 
 **Нахида:** Да, и я позаботилась о том, чтобы ты получил эту информацию естественным путём.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** К чему всё это? Ты тоже пытаешься переманить меня на свою сторону?
+**Странник:** К чему всё это? Ты тоже пытаешься переманить меня на свою сторону?
 
 **Нахида:** По правде говоря, твой прошлый опыт делает тебя полезным для Сумеру и для меня. Переманить тебя было частью моего плана.
 
 **Нахида:** Но прежде я хотела рассказать правду о твоём прошлом. Если бы я хотела просто использовать тебя, я бы ничем не отличалась от Доктора.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Очень умно.
+**Странник:** ...Очень умно.
 
 **Нахида:** Это одно из моих достоинств.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Быть полезным для других - значит быть ценным. Если принятие своих грехов снова сделает меня полезным, пусть будет так.
+**Странник:** Быть полезным для других - значит быть ценным. Если принятие своих грехов снова сделает меня полезным, пусть будет так.
 
 Нахида не этой логикой руководствуется.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ах да, чуть не забыл... вы хорошие. Вы за справедливость и всё такое.
+**Странник:** Ах да, чуть не забыл... вы хорошие. Вы за справедливость и всё такое.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Простите, у меня несколько иной взгляд на вещи. Но расчётливость не видится мне такой уж плохой. Самым мудрым лидерам суждено в итоге получить самых лучших помощников... Почему бы и нет.
+**Странник:** Простите, у меня несколько иной взгляд на вещи. Но расчётливость не видится мне такой уж плохой. Самым мудрым лидерам суждено в итоге получить самых лучших помощников... Почему бы и нет.
 
 **Нахида:** Я рада, что ты думаешь об этом в таком ключе.
 
@@ -2281,23 +2281,23 @@
 
 **Нахида:** Хорошо.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Путешественник.
+**Странник:** Путешественник.
 
 Да?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Почему ты (отправилась)(отправился) в Инадзуму после того, как я погрузился в информационный поток Ирминсуля?
+**Странник:** Почему ты (отправилась)(отправился) в Инадзуму после того, как я погрузился в информационный поток Ирминсуля?
 
 Потому что я хотел(а) узнать, что ты изменил.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Так вот как ты узнал(а), чья судьба изменилась и как.
+**Странник:** ...Так вот как ты узнал(а), чья судьба изменилась и как.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Какими бы ни были причины, ты оказал(а) мне услугу, и я сделаю всё возможное, чтобы вернуть долг.
+**Странник:** Какими бы ни были причины, ты оказал(а) мне услугу, и я сделаю всё возможное, чтобы вернуть долг.
 
 - **Путешественник:** ...Я сделал(а) это не ради награды.
 
 - **Путешественник:** Пожалуйста, не говори так, будто я принуждаю тебя к чему-то
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Брать и отдавать - единственные реальные отношения между людьми. Не волнуйся, рано или поздно мы будем в расчёте.
+**Странник:** Брать и отдавать - единственные реальные отношения между людьми. Не волнуйся, рано или поздно мы будем в расчёте.
 
 **Нахида:** Это неправда. Отношения между людьми - это не просто счёт, который можно сравнять.
 
@@ -2309,35 +2309,35 @@
 
 **Нахида:** Быть человеком - значит жить жизнью, полной несовершенств. Ты можешь выбрать, быть человеком или нет.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Разве можно быть человеком без сердца? Впрочем, это неважно, я давно оставил попытки стать человеком.
+**Странник:** Разве можно быть человеком без сердца? Впрочем, это неважно, я давно оставил попытки стать человеком.
 
 **Нахида:** Даже не имея сердца, ты прекрасно знаешь, что такое боль. Ты просто прячешь свои чувства.
 
 **Нахида:** Прошлое никуда не денется, но ты можешь идти вперёд. Чем длиннее будет твоё будущее, тем меньше места будет занимать прошлое. Пока однажды оно не станет лишь малой частью твоей жизни.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Похоже, у тебя есть планы на моё будущее.
+**Странник:** Похоже, у тебя есть планы на моё будущее.
 
 Надеюсь, ты дашь Нахиде шанс.
 
 **Паймон:** Всё так сложно, Паймон даже не знает, с чего начать... Но главное для тебя сейчас - слушать Нахиду. Иначе все наши усилия окажутся напрасными!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Тогда, пожалуй, с этого момента я буду помогать вам, действуя за кулисами.
+**Странник:** ...Тогда, пожалуй, с этого момента я буду помогать вам, действуя за кулисами.
 
 **Нахида:** Я рада, что ты принял наше предложение. Почему бы тебе не придумать себе новое имя в честь этого знаменательного события?
 
 **Паймон:** Скорее, скорее! Паймон хочет и тебе дать противное прозвище!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Почему?
+**Странник:** Почему?
 
 **Паймон:** Потому что... потому что ты всё ещё не нравишься Паймон!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В таком случае надеюсь, что мы будем редко видеться.
+**Странник:** В таком случае надеюсь, что мы будем редко видеться.
 
 **Нахида:** «Имя - первый дар жизни». Ты не произнёс этого вслух, но я знаю, что ты подумал именно об этом.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Нахида:** Путешественник и Паймон многое сделали для тебя. Если ты не можешь выбрать новое имя, возможно, стоит попросить их поделиться идеями.
 
@@ -2349,53 +2349,53 @@
 
 **Нахида:** Вот, теперь у тебя есть имя.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Как насчёт прозвища? Уже придумала?
+**Странник:** Как насчёт прозвища? Уже придумала?
 
 **Паймон:** Э-э-э, ещё думаю... Не торопи меня...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не торопись. Нам всё равно пока нет нужды встречаться, можешь подумать как следует.
+**Странник:** Не торопись. Нам всё равно пока нет нужды встречаться, можешь подумать как следует.
 
 Что будешь делать?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Все, кто манипулировал мной и причинял мне страдания, должны заплатить за это.
+**Странник:** Все, кто манипулировал мной и причинял мне страдания, должны заплатить за это.
 
 **Паймон:** Ты говоришь о Фатуи?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Как минимум, о Докторе.
+**Странник:** Как минимум, о Докторе.
 
 **Нахида:** Твоё положение изменилось, и я верю, что твой путь также изменится. Но не сразу... Тебе потребуется время, чтобы прийти в себя.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** И ещё кое-что.
+**Странник:** И ещё кое-что.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В Инадзуме до сих пор живут потомки Райдэн гокадэн. Некоторые из них знают... Они должны знать о связи между мной и Райдэн гокадэн.
+**Странник:** В Инадзуме до сих пор живут потомки Райдэн гокадэн. Некоторые из них знают... Они должны знать о связи между мной и Райдэн гокадэн.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В ближайшее время я не планирую покидать Сумеру. Если вы встретите их в Инадзуме, пожалуйста, расскажите им, что это я в ответе за падение Райдэн гокадэн.
+**Странник:** В ближайшее время я не планирую покидать Сумеру. Если вы встретите их в Инадзуме, пожалуйста, расскажите им, что это я в ответе за падение Райдэн гокадэн.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Даже если события стёрлись из памяти людей, они всё равно заслуживают правды.
+**Странник:** ...Даже если события стёрлись из памяти людей, они всё равно заслуживают правды.
 
 **Нахида:** Понятно... Тебе решать.
 
 **Паймон:** Хм? Но если мы сделаем это...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Всё в порядке. Они могут вонзить свои клинки в мою грудь, если им того захочется. Возможно, так и должно было случиться с самого начала...
+**Странник:** Всё в порядке. Они могут вонзить свои клинки в мою грудь, если им того захочется. Возможно, так и должно было случиться с самого начала...
 
 - **Путешественник:** ...
 
 - **Путешественник:** Хорошо.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Что вы на меня так смотрите? Я знаю, что делаю.
+**Странник:** Что вы на меня так смотрите? Я знаю, что делаю.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Этот день обязательно настанет.
+**Странник:** ...Этот день обязательно настанет.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вот и всё.
+**Странник:** Вот и всё.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хе-хе, не хмурься. Со мной всё в порядке.
+**Странник:** Хе-хе, не хмурься. Со мной всё в порядке.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Ладно, давайте на этом закончим.
+**Странник:** ...Ладно, давайте на этом закончим.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Прощай, мудрое божество. И вы тоже прощайте.
+**Странник:** Прощай, мудрое божество. И вы тоже прощайте.
 
 **Паймон:** Ушёл...
 
@@ -2425,7 +2425,7 @@
 
 **Савада:** «Жизнь слишком длинная, чтобы её можно было пересказать. Можно лишь пройти этот путь самостоятельно».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм...
+**Странник:** Хм...
 
 #### Вернитесь к месту отдыха
 
@@ -4644,29 +4644,29 @@ Are you saying...
 
 **The Balladeer's Mecha:** ...!!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Imbecile! Get out of my sight!
+**Wanderer:** Imbecile! Get out of my sight!
 
 **Paimon:** ...It disappeared... Did we win?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What did you expect? I'd never lose to that.
+**Wanderer:** What did you expect? I'd never lose to that.
 
 **Paimon:** Ehh, there's that tone of voice again. You're definitely back to your old self...
 
 **Paimon:** Wait, but it was you inside that thing, too. What have you got to be smug about?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sorry, I'm harsh on myself and everyone else. Just the way I am.
+**Wanderer:** Sorry, I'm harsh on myself and everyone else. Just the way I am.
 
 - **Traveler:** Now you've recovered your memories...
 
 - **Traveler:** The past will catch up with you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Haha, you sound like you're concerned about me.
+**Wanderer:** Haha, you sound like you're concerned about me.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But don't worry. Thanks to you, even if I didn't change a thing... at least I now know the truth.
+**Wanderer:** But don't worry. Thanks to you, even if I didn't change a thing... at least I now know the truth.
 
 **Nahida:** The memory recovery seems to have been a success. This dream has served its purpose.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Come on. Let's continue this outside.
+**Wanderer:** Come on. Let's continue this outside.
 
 ### As Though Morning Dew
 
@@ -4678,29 +4678,29 @@ The puppet has given up his original name. Just as the title "Wanderer" suggests
 
 **Paimon:** Whew! It feels like we just went on a really long journey... Paimon's exhausted.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Nahida:** You don't like being addressed by that name?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's fine. But I was just thinking, I should probably change it.
+**Wanderer:** It's fine. But I was just thinking, I should probably change it.
 
 You won't go by "The Balladeer" anymore?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** After learning about everything The Doctor did, there's no way I can carry on using a name connected to him.
+**Wanderer:** After learning about everything The Doctor did, there's no way I can carry on using a name connected to him.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I'm not planning on returning to the Fatui, and they wouldn't take me back anyway. Recent events will have affected a lot of people, and they might not even remember who the sixth is.
+**Wanderer:** I'm not planning on returning to the Fatui, and they wouldn't take me back anyway. Recent events will have affected a lot of people, and they might not even remember who the sixth is.
 
 **Paimon:** So you're quitting the Fatui for good?
 
 Let's call it a tactical retreat...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's like you said, Lesser Lord Kusanali. Everything may look futile, but it wasn't completely meaningless. At least I made a lot of people forget about me.
+**Wanderer:** It's like you said, Lesser Lord Kusanali. Everything may look futile, but it wasn't completely meaningless. At least I made a lot of people forget about me.
 
 **Nahida:** But that doesn't mean your own past has disappeared.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Of course.
+**Wanderer:** Of course.
 
 **Nahida:** And your main goal, for which you gave up everything you had... you weren't able to achieve it. I hope you can see and understand that.
 
@@ -4708,33 +4708,33 @@ Let's call it a tactical retreat...
 
 **Nahida:** What you were looking for is complete annihilation... But this is just a fantasy. Even if The Balladeer is removed from existence, the world will not heed your will.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Indeed. Haha, how ridiculous.
+**Wanderer:** ...Indeed. Haha, how ridiculous.
 
 **Paimon:** Do you regret doing all that, when you've gotten so little in return?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Even if I'm completely worthless, there's nothing in the world worth regretting.
+**Wanderer:** Even if I'm completely worthless, there's nothing in the world worth regretting.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Lesser Lord Kusanali, you purposely left that information in Irminsul, didn't you?
+**Wanderer:** Lesser Lord Kusanali, you purposely left that information in Irminsul, didn't you?
 
 **Nahida:** Yes, and I took pains to make sure that you'd acquire that information naturally.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Why would you go to such lengths? You trying to win me over too?
+**Wanderer:** Why would you go to such lengths? You trying to win me over too?
 
 **Nahida:** In all honesty, your past experiences have made you a useful asset to Sumeru and to me. Winning you over was indeed a part of my plan.
 
 **Nahida:** But before that, I wanted to tell you the truth about your past. If all I wanted to do was use you, then I'd be no different from The Doctor.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Very clever.
+**Wanderer:** ...Very clever.
 
 **Nahida:** I guess you could say that's one of my virtues.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Utility to others is what gives me worth. So if embracing my sins is what it takes to make me useful again, so be it.
+**Wanderer:** Utility to others is what gives me worth. So if embracing my sins is what it takes to make me useful again, so be it.
 
 Nahida doesn't see you in that way.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Oh right, I almost forgot... you're the good guys. You're into justice and all that.
+**Wanderer:** Oh right, I almost forgot... you're the good guys. You're into justice and all that.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sorry if I have a slightly different perspective on things. But, I don't feel like I've been duped. The wisest leaders are fated to end up with the best helpers... I can live with that.
+**Wanderer:** Sorry if I have a slightly different perspective on things. But, I don't feel like I've been duped. The wisest leaders are fated to end up with the best helpers... I can live with that.
 
 **Nahida:** I'm glad that you're able to think of it in that way.
 
@@ -4746,23 +4746,23 @@ Thank you. Let's hope you can find some answers.
 
 **Nahida:** I will try.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Traveler.
+**Wanderer:** Traveler.
 
 Yes?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** After I dove into the information torrents in Irminsul, why did you go to Inazuma?
+**Wanderer:** After I dove into the information torrents in Irminsul, why did you go to Inazuma?
 
 Because I wanted to know what you'd changed.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...So that's how you found out whose fate had changed, and how.
+**Wanderer:** ...So that's how you found out whose fate had changed, and how.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Well, whatever your reasons, you did me a favor, and I'll do everything I can to pay it back.
+**Wanderer:** Well, whatever your reasons, you did me a favor, and I'll do everything I can to pay it back.
 
 - **Traveler:** ...I didn't do all of this for a reward.
 
 - **Traveler:** Please don't make it sound like I'm extorting you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Borrowing and returning are the only real relationships between individuals. I'll balance the books one day, don't you worry.
+**Wanderer:** Borrowing and returning are the only real relationships between individuals. I'll balance the books one day, don't you worry.
 
 **Nahida:** That's not true. A relationship between two people is not simply a ledger that can be reset to zero.
 
@@ -4774,35 +4774,35 @@ Because I wanted to know what you'd changed.
 
 **Nahida:** To be human is to live with imperfections. You can choose whether or not you want to be human.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But humans can't live without a heart, can they? Anyway, I gave up trying to become a human a long time ago.
+**Wanderer:** But humans can't live without a heart, can they? Anyway, I gave up trying to become a human a long time ago.
 
 **Nahida:** You understand what pain is perfectly well, even without a heart. You're just burying your feelings.
 
 **Nahida:** The past is set in stone, but you can keep moving on. And the longer your future lasts, the shorter your past will become, until one day it is but a tiny fraction of your life.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It sounds like you've got a future planned out for me.
+**Wanderer:** It sounds like you've got a future planned out for me.
 
 I hope you can give Nahida a chance.
 
 **Paimon:** Everything's ended up being pretty darn complicated, Paimon doesn't even know where to start... But the most important thing now is that you need to follow Nahida. Otherwise, all our efforts will have been for nothing!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Then I guess I'll be helping you from behind the scenes from now on.
+**Wanderer:** ...Then I guess I'll be helping you from behind the scenes from now on.
 
 **Nahida:** I'm glad that you've accepted our proposal. Why don't you choose a new name to celebrate?
 
 **Paimon:** Ooh, ooh, ooh! Paimon wants to pick an ugly nickname for you too!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Why?
+**Wanderer:** Why?
 
 **Paimon:** Because... because Paimon still doesn't like you that much!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph. Then I hope we don't see much of each other in the future.
+**Wanderer:** Hmph. Then I hope we don't see much of each other in the future.
 
 **Nahida:** "A name is life's first gift." You didn't say it out loud, but I know that's what you're thinking.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Nahida:** Traveler and Paimon have helped you a lot. If you can't decide on a new name, maybe you can ask them for ideas.
 
@@ -4814,53 +4814,53 @@ Huh? You want us to decide?
 
 **Nahida:** There, now you have a name of your own.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What about a nickname? Are you done yet?
+**Wanderer:** What about a nickname? Are you done yet?
 
 **Paimon:** Uh, uhhh... still thinking... Stop rushing me...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Take your time. I don't need to see you again until you've thought of one.
+**Wanderer:** Take your time. I don't need to see you again until you've thought of one.
 
 What do you plan to do next?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Everyone who manipulated me and made me suffer will have to pay the price.
+**Wanderer:** Everyone who manipulated me and made me suffer will have to pay the price.
 
 **Paimon:** You mean, the Fatui?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The Doctor, at least.
+**Wanderer:** The Doctor, at least.
 
 **Nahida:** Now that your stance has changed, I believe your future path will change accordingly, but it won't be immediate... You still need some time to compose yourself.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** One more thing.
+**Wanderer:** One more thing.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** There are still some descendants of the Raiden Gokaden living in Inazuma. Some of them know... Well, they ought to know about the connection between the Raiden Gokaden and myself.
+**Wanderer:** There are still some descendants of the Raiden Gokaden living in Inazuma. Some of them know... Well, they ought to know about the connection between the Raiden Gokaden and myself.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I don't plan to leave Sumeru for the time being. If you see them in Inazuma, please tell them that I was the one responsible for the Raiden Gokaden's downfall.
+**Wanderer:** I don't plan to leave Sumeru for the time being. If you see them in Inazuma, please tell them that I was the one responsible for the Raiden Gokaden's downfall.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Even though the events have been erased from the world, they still deserve to know the truth.
+**Wanderer:** ...Even though the events have been erased from the world, they still deserve to know the truth.
 
 **Nahida:** I see... That is up to you.
 
 **Paimon:** Huh? But if we do that, then...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's fine. Let them stab their blades into my chest if they so desire. ...Maybe that's how it always should have been.
+**Wanderer:** It's fine. Let them stab their blades into my chest if they so desire. ...Maybe that's how it always should have been.
 
 - **Traveler:** ...
 
 - **Traveler:** Fine.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What's that look for? Don't make that face, I know what I'm doing.
+**Wanderer:** What's that look for? Don't make that face, I know what I'm doing.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...That day will come.
+**Wanderer:** ...That day will come.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Alright, we're done here.
+**Wanderer:** Alright, we're done here.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hehe, no nonsense. I like it.
+**Wanderer:** Hehe, no nonsense. I like it.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Alright, let's call it a day.
+**Wanderer:** ...Alright, let's call it a day.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Goodbye, wise deity, and you two.
+**Wanderer:** Goodbye, wise deity, and you two.
 
 **Paimon:** He's gone...
 
@@ -4890,7 +4890,7 @@ There were some bumps along the way, but it's all over now.
 
 **Sawada:** "Life is a story too long to be told, a journey that you must walk to behold."
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Hmph.
+**Wanderer:** ...Hmph.
 
 #### Return to the resting place
 
@@ -7109,29 +7109,29 @@ There were some bumps along the way, but it's all over now.
 
 **散兵机甲:** ————！！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 愚昧的东西，滚出我的视野！
+**流浪者:** 愚昧的东西，滚出我的视野！
 
 **派蒙:** …消失了…我们赢了？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 还用问吗？我不可能输给它。
+**流浪者:** 还用问吗？我不可能输给它。
 
 **派蒙:** 啊哈哈，口气又大起来了呢，侧面说明你找到了自我…
 
 **派蒙:** 可那里面也是你，你有什么好得意的！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 抱歉了，我对别人和对自己向来同样刻薄。
+**流浪者:** 抱歉了，我对别人和对自己向来同样刻薄。
 
 - **旅行者:** 记忆一旦恢复…
 
 - **旅行者:** 往事就会追上你。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哈哈，听你的口气，就好像在担心我一样。
+**流浪者:** 哈哈，听你的口气，就好像在担心我一样。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 别担心，托你的福，哪怕我没能改变什么…也算是知道了不少真相。
+**流浪者:** 别担心，托你的福，哪怕我没能改变什么…也算是知道了不少真相。
 
 **纳西妲:** 记忆读取应该很顺利。这片梦境的使命已经结束了哦。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 走吧，出去再说。
+**流浪者:** 走吧，出去再说。
 
 ### 如朝露一般
 
@@ -7143,29 +7143,29 @@ There were some bumps along the way, but it's all over now.
 
 **派蒙:** 呼！感觉经历了很长的旅途…累死我了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **纳西妲:** 莫非你是对这个名字感到不满？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没什么。只是在想，我也该换个名字了。
+**流浪者:** 没什么。只是在想，我也该换个名字了。
 
 你不打算叫「散兵」了？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 明知「博士」做了那么多事，我怎么可能继续采用跟他有关的称号。
+**流浪者:** 明知「博士」做了那么多事，我怎么可能继续采用跟他有关的称号。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我不打算也不可能回到愚人众那边。一定有许多人被这次的事影响，未必还能记得第六席是谁。
+**流浪者:** 我不打算也不可能回到愚人众那边。一定有许多人被这次的事影响，未必还能记得第六席是谁。
 
 **派蒙:** 意思是你要脱离组织了？
 
 也算是变相逃亡吧…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 正如你所说，小吉祥草王。一切看似徒劳，但并非没有意义，至少能让不少人忘记我。
+**流浪者:** 正如你所说，小吉祥草王。一切看似徒劳，但并非没有意义，至少能让不少人忘记我。
 
 **纳西妲:** 可那也不意味着你身上的往事就此消失。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这是自然。
+**流浪者:** 这是自然。
 
 **纳西妲:** 另外，你倾尽全力去追求的事，它最核心的目的…并没能达成，这一点还请你明白。
 
@@ -7173,33 +7173,33 @@ There were some bumps along the way, but it's all over now.
 
 **纳西妲:** 你所渴望的答案是极致的毁灭…它本质是虚妄。即便世上再没有「散兵」，世界也不会遵循你的意志而动。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …是啊。哈哈，真可笑。
+**流浪者:** …是啊。哈哈，真可笑。
 
 **派蒙:** 为这样的结果做到这种地步…不会后悔吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哪怕我一文不值，世上也从来没有值得后悔的事。
+**流浪者:** 哪怕我一文不值，世上也从来没有值得后悔的事。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 小吉祥草王，世界树里的信息，是你故意留在那里的吧。
+**流浪者:** 小吉祥草王，世界树里的信息，是你故意留在那里的吧。
 
 **纳西妲:** 为了让你尽可能自然地收获信息，我也费了不少心思呢。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 为什么不惜做到这一步？你也想拉拢我吗？
+**流浪者:** 为什么不惜做到这一步？你也想拉拢我吗？
 
 **纳西妲:** 必须诚实地说，过去的经历使你成为了一个对我和须弥有用的个体。拉拢你的确是我计划的一部分。
 
 **纳西妲:** 但在那之前，我想把过去的真相告诉你。如果只是利用，我就与「博士」毫无分别了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …你很聪明。
+**流浪者:** …你很聪明。
 
 **纳西妲:** 这大概是我应具有的美德吧。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 对他人有用就是价值。所以即使身为罪人，我也重新拥有了被利用的理由。
+**流浪者:** 对他人有用就是价值。所以即使身为罪人，我也重新拥有了被利用的理由。
 
 纳西妲并不是那么想的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 噢对，差点忘了…你们是「正义」的一方，与我不同。
+**流浪者:** 噢对，差点忘了…你们是「正义」的一方，与我不同。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不好意思，我看待事物的角度略有不同。但我不会称这一切为算计，你的智慧注定了你会拥有更好的帮手。
+**流浪者:** 不好意思，我看待事物的角度略有不同。但我不会称这一切为算计，你的智慧注定了你会拥有更好的帮手。
 
 **纳西妲:** 你能这么想就太好了。
 
@@ -7211,23 +7211,23 @@ There were some bumps along the way, but it's all over now.
 
 **纳西妲:** 嗯。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 旅行者。
+**流浪者:** 旅行者。
 
 什么事？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 为什么在我跳进世界树的信息洪流之后，你就去了稻妻？
+**流浪者:** 为什么在我跳进世界树的信息洪流之后，你就去了稻妻？
 
 因为我想知道你改变了什么。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …所以才打听到了那些人被改变后的命运吗。
+**流浪者:** …所以才打听到了那些人被改变后的命运吗。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不管怎么说，你帮了我的忙，这份恩情我都会尽力偿还。
+**流浪者:** 不管怎么说，你帮了我的忙，这份恩情我都会尽力偿还。
 
 - **旅行者:** …我做这些不是想要回报。
 
 - **旅行者:** 请不要说得像是我在勒索你。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 个体与个体之间只存在「借」和「还」的关系。我们迟早会两清，你不需要在意。
+**流浪者:** 个体与个体之间只存在「借」和「还」的关系。我们迟早会两清，你不需要在意。
 
 **纳西妲:** 不是这样的哦。人与人的关系，绝不是轻易就能抚回原状的白纸。
 
@@ -7239,35 +7239,35 @@ There were some bumps along the way, but it's all over now.
 
 **纳西妲:** 背负裂痕生活下去是人的行为。你可以选择是否成为人。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没有缺失心脏的人类，不是吗？再说，我早就不想成为人类了。
+**流浪者:** 没有缺失心脏的人类，不是吗？再说，我早就不想成为人类了。
 
 **纳西妲:** 没有心脏的你依然能理解痛苦。你只是封闭了感情。
 
 **纳西妲:** 过去不会被撼动，但你可以继续走。只要未来的线够长，总有一天「过去」会变成比例尺上很短小的一段。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 听起来，你已经想好怎么安排我了。
+**流浪者:** 听起来，你已经想好怎么安排我了。
 
 希望你能配合纳西妲。
 
 **派蒙:** 很多事情混在一起，都说不清楚了，反正最重要的是，你最好跟随纳西妲，否则我们为什么要做这么多嘛！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …那就让我作为黑暗中的助力与你们同在吧。
+**流浪者:** …那就让我作为黑暗中的助力与你们同在吧。
 
 **纳西妲:** 很高兴你能接受我们的提议。为表庆祝，不如给自己起个新名字吧？
 
 **派蒙:** 快快快，我也要给你起个难听的绰号！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 为什么？
+**流浪者:** 为什么？
 
 **派蒙:** 因为…因为我还是不怎么喜欢你呀！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼。那以后我们最好不要经常见面。
+**流浪者:** 哼。那以后我们最好不要经常见面。
 
 **纳西妲:** 「名字是人生第一份馈赠」——虽然你没明说，但我知道你是这么想的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **纳西妲:** 这次旅行者和派蒙帮了你不少忙，假如你无法决定要叫什么名字，可以问问他们的意见。
 
@@ -7279,53 +7279,53 @@ There were some bumps along the way, but it's all over now.
 
 **纳西妲:** 这么一来，你也是有名字的人了哦。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 绰号呢？想好了吗？
+**流浪者:** 绰号呢？想好了吗？
 
 **派蒙:** 呃…呃，还在想…别催呀…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 慢慢想。在你想好之前，我们暂时不必见面。
+**流浪者:** 慢慢想。在你想好之前，我们暂时不必见面。
 
 你打算做什么？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 那些构陷我令我陷入不幸的人，迟早都会付出代价。
+**流浪者:** 那些构陷我令我陷入不幸的人，迟早都会付出代价。
 
 **派蒙:** 是说愚人众吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 至少是「博士」。
+**流浪者:** 至少是「博士」。
 
 **纳西妲:** 立场变化了呢，相信未来你的道路也会因此改变。但不是现在…你还需要一些时间来整理自己。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 还有一件事。
+**流浪者:** 还有一件事。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 如今稻妻还有一些雷电五传的后人。他们中有人知道…或者说，本该知道我与雷电五传的关系。
+**流浪者:** 如今稻妻还有一些雷电五传的后人。他们中有人知道…或者说，本该知道我与雷电五传的关系。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我暂时不打算离开须弥，假如你在稻妻遇见他们，大可以告诉他们，我就是令雷电五传陨落的凶手。
+**流浪者:** 我暂时不打算离开须弥，假如你在稻妻遇见他们，大可以告诉他们，我就是令雷电五传陨落的凶手。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …哪怕这件事已经从世界上抹除，他们也应该得到真相。
+**流浪者:** …哪怕这件事已经从世界上抹除，他们也应该得到真相。
 
 **纳西妲:** 原来如此…这是你的选择。
 
 **派蒙:** 欸？可是这样一来…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没什么，只要他们愿意，大可以用刀子捅进我的胸膛。…说不定本来就该是那样。
+**流浪者:** 没什么，只要他们愿意，大可以用刀子捅进我的胸膛。…说不定本来就该是那样。
 
 - **旅行者:** ……
 
 - **旅行者:** 我明白了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你那是什么眼神？不用露出这种表情，我知道自己在做什么。
+**流浪者:** 你那是什么眼神？不用露出这种表情，我知道自己在做什么。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …会有那么一天的。
+**流浪者:** …会有那么一天的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 好了。
+**流浪者:** 好了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你很爽快，不错。
+**流浪者:** 你很爽快，不错。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …好了，就聊到这里吧。
+**流浪者:** …好了，就聊到这里吧。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 再会了，贤明的神，还有你们。
+**流浪者:** 再会了，贤明的神，还有你们。
 
 **派蒙:** 走掉了呢…
 
@@ -7355,7 +7355,7 @@ There were some bumps along the way, but it's all over now.
 
 **泽田:** 「此生路遥远，欲行已忘言。」
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …哼。
+**流浪者:** …哼。
 
 #### 返回休息处
 

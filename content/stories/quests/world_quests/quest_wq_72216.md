@@ -3,16 +3,16 @@
 # title_ru: Кошка Нэко: Запоздавшие добрые дела
 # title_en: Neko Is a Cat: A "Good Turn" Comes Late
 # title_zh: 寝子是只猫·迟来的「好事」
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72216
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72216
 # previous_quests: quest_wq_72215
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_72164,quest_wq_72209,quest_wq_72210,quest_wq_72211,quest_wq_72212,quest_wq_72213,quest_wq_72214,quest_wq_72215
 # quest_chain: quest_wq_72164,quest_wq_72209,quest_wq_72210,quest_wq_72211,quest_wq_72212,quest_wq_72213,quest_wq_72214,quest_wq_72215,quest_wq_72216
 # quest_series: Neko Is a Cat

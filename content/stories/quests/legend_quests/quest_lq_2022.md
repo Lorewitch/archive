@@ -11,11 +11,11 @@
 # chapter_num_en: Grus Nivis Chapter: Act I
 # chapter_num_zh: 雪鹤之章 第一幕
 # part_source_ids: 12004,12005,12006,12007,12008
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2022
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -4478,11 +4478,11 @@ Goodnight, Ayaka.
 
 没问题。
 
-**神里绫华:** 这是你和你的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}对吧？
+**神里绫华:** 这是你和你的荧/空对吧？
 
 **神里绫华:** 真可爱呢。
 
-嗯。我想找回{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}。
+嗯。我想找回荧/空。
 
 **派蒙:** 会找到的，一定要有信心！
 
@@ -4544,11 +4544,11 @@ Goodnight, Ayaka.
 
 **神里绫华:** 说起来，我和旅行者有点像呢，都有兄长。
 
-**神里绫华:** 有时我会觉得自己非常能理解你急于找回{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的心情。
+**神里绫华:** 有时我会觉得自己非常能理解你急于找回荧/空的心情。
 
-- **旅行者:** 嗯，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}对我非常重要。
+- **旅行者:** 嗯，荧/空对我非常重要。
 
-- **旅行者:** 寻找{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}，正是我旅行的意义。
+- **旅行者:** 寻找荧/空，正是我旅行的意义。
 
 **神里绫华:** ……
 
@@ -4556,7 +4556,7 @@ Goodnight, Ayaka.
 
 **神里绫华:** 家人和亲缘，是我们谁都无法杜绝的羁绊…是我们在这个世界上最重要的「根」。
 
-**神里绫华:** 你一定能找到{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的，千万不要放弃。
+**神里绫华:** 你一定能找到荧/空的，千万不要放弃。
 
 **神里绫华:** 作为…咳！作为朋友，我会一直守望、支持你。
 
@@ -4588,11 +4588,11 @@ Goodnight, Ayaka.
 
 **神里绫华:** 说起来，我和旅行者有点像呢，我有兄长，你也有妹妹。
 
-**神里绫华:** 有时我会觉得自己非常能理解你急于找回{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的心情。
+**神里绫华:** 有时我会觉得自己非常能理解你急于找回荧/空的心情。
 
-- **旅行者:** 嗯，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}对我非常重要。
+- **旅行者:** 嗯，荧/空对我非常重要。
 
-- **旅行者:** 寻找{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}，正是我旅行的意义。
+- **旅行者:** 寻找荧/空，正是我旅行的意义。
 
 **神里绫华:** ……
 
@@ -4600,7 +4600,7 @@ Goodnight, Ayaka.
 
 **神里绫华:** 家人和亲缘，是我们谁都无法杜绝的羁绊…是我们在这个世界上最重要的「根」。
 
-**神里绫华:** 你一定能找到{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的，千万不要放弃。
+**神里绫华:** 你一定能找到荧/空的，千万不要放弃。
 
 **神里绫华:** 作为…咳！作为朋友，我会一直守望、支持你。
 

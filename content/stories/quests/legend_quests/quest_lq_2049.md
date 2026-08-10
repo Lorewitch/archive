@@ -11,10 +11,10 @@
 # chapter_num_en: Lupus Aureus Chapter: Act II
 # chapter_num_zh: 金狼之章 第二幕
 # part_source_ids: 13035,13036,13037,13038,13039
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_lq_2032
-# quest_chain: quest_lq_2032,quest_lq_2049
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_lq_2049
 # quest_series: Lupus Aureus Chapter
 # version_source: wiki_release_category
 

@@ -3,19 +3,19 @@
 # title_ru: Сила и смекалка
 # title_en: Both Brains and Brawn
 # title_zh: 智勇双拳
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74060
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74060
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74060
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

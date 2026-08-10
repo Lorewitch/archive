@@ -3,7 +3,7 @@
 # title_ru: Карты на стол! Прощание с обидами
 # title_en: Cards Out! Grievances Begone
 # title_zh: 牌出！旧怨弭散
-# region: Инадзума
+# region: Тейват
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10115
@@ -13,8 +13,8 @@
 # part_source_ids: 40109
 # previous_quests: quest_eq_10114
 # next_quests: quest_eq_10116
-# related_quests: quest_eq_10113,quest_eq_10114,quest_eq_10116,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
-# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
+# related_quests: quest_eq_10113,quest_eq_10114,quest_eq_10116
+# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116
 # quest_series: Duel! The Summoners' Summit!
 # version_source: wiki_release_category
 

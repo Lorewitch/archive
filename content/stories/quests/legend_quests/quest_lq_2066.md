@@ -12,7 +12,7 @@
 # chapter_num_zh: 流淌着色彩的回忆  第三幕
 # part_source_ids: 15026,15027,15028,15029
 # previous_quests: quest_lq_2065
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2064,quest_lq_2065
 # quest_chain: quest_lq_2064,quest_lq_2065,quest_lq_2066
 # quest_series: Memories Flowing With Color

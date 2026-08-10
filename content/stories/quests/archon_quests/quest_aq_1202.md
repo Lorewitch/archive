@@ -13,8 +13,8 @@
 # part_source_ids: 2003,2004,2005,2006,2007,2011,2012,2013
 # previous_quests: quest_aq_1201
 # next_quests: quest_aq_1203
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: II
 # version_source: wiki_release_category
 
@@ -6744,7 +6744,7 @@ Thoma has set you a test to leave Ritou by your own power, lest your journey end
 
 **托马:** 好吧，真有你的，小姐。
 
-**神里绫华:** 我就说{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}不会置之不理的，我果然没有相信错人。
+**神里绫华:** 我就说空/荧不会置之不理的，我果然没有相信错人。
 
 **神里绫华:** 那么，至于那些…秘密的事，我们还是移步木漏茶室再做讨论吧？以免牵连社奉行里的一般人。
 
@@ -7408,7 +7408,7 @@ Thoma has set you a test to leave Ritou by your own power, lest your journey end
 
 - **旅行者:** 我们来做…酒和矿石生意。
 
-- **旅行者:** 我们是来找{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的。
+- **旅行者:** 我们是来找荧/空的。
 
 **荫山:** 是吗？目前只有「万国商会」的商人获准进行此类进出口生意，二位有来自商会的经商许可吗？
 
@@ -7996,7 +7996,7 @@ Thoma has set you a test to leave Ritou by your own power, lest your journey end
 
 **久利须:** 真是多谢托马先生，不过…是我们害得你和勘定奉行的人起了冲突…
 
-**托马:** 哎~我刚才是开玩笑的，这点代价不过小意思而已。要谢还是先谢谢这位旅行者吧，是{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}抓住了「扭转事态的契机」。
+**托马:** 哎~我刚才是开玩笑的，这点代价不过小意思而已。要谢还是先谢谢这位旅行者吧，是空/荧抓住了「扭转事态的契机」。
 
 **托马:** 今后想必那些足轻至少会收敛一些了。
 

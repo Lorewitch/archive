@@ -3,19 +3,19 @@
 # title_ru: Трёхкратные ожидания
 # title_en: Threefold Expectations
 # title_zh: 攸望三叠
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71106
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71106
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71106
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

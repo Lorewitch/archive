@@ -3,19 +3,19 @@
 # title_ru: О, Архонт! Правильно ли я поступил?
 # title_en: O Archon, Have I Done Right?
 # title_zh: 神明啊，我做得对吗？
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72803
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72803
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72803
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -420,7 +420,7 @@ It's like this...
 
 **宏一:** 具体的道理，我也说不清啦，你们要是想了解的话，就去问问七月姐吧，她很懂这种事的。
 
-**翔太:** 唔…那{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，我们就去找七月姐姐吧…
+**翔太:** 唔…那空/荧，我们就去找七月姐姐吧…
 
 #### 询问弥生七月的意见
 
@@ -490,7 +490,7 @@ It's like this...
 
 - **旅行者:** 完全没看见。
 
-**翔太:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你们看不见她吗？！她手里抱着好大一摞试卷啊！呜哇！不要啊！
+**翔太:** 空/荧，你们看不见她吗？！她手里抱着好大一摞试卷啊！呜哇！不要啊！
 
 **弥生七月:** 看来，那位神明大人还是很敬业的嘛。
 

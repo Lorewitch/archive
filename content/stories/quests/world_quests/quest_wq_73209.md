@@ -3,16 +3,16 @@
 # title_ru: Подаренная роза: Забвению не бывать
 # title_en: A Gifted Rose: Some People Never Fade Away
 # title_zh: 献给某人的蔷薇·曾有人战胜消逝
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73209
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73209
 # previous_quests: quest_wq_73207
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207
 # quest_chain: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
 # quest_series: A Gifted Rose
@@ -325,3 +325,13 @@ Let us help.
 「蔷薇啊蔷薇，实现我的愿望。」
 
 「花从石头中绽放，金蔷薇对我歌唱。」
+
+#### （test）苗圃变化
+
+**赛芭:** 只要用草元素的力量，就能让沉睡在这些嫩芽里的花醒过来。
+
+#### （test）用草元素的力量「唤醒」金蔷薇
+
+**阿凡:** 只要这几株能健康地生长，我们以后一定能培育出更多的金蔷薇。
+
+**阿凡:** 不过在这之前，还是得先看到这几株金蔷薇开花我才放心啊。

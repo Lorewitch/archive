@@ -13,8 +13,8 @@
 # part_source_ids: 370,371,372,373,374,375,376,377,379,380,381,382,383,384,20101
 # previous_quests: quest_aq_1001
 # next_quests: quest_aq_1003
-# related_quests: quest_aq_1001,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Prologue
 # version_source: wiki_release_category
 
@@ -3155,7 +3155,7 @@ Have an apple!
 
 **温迪:** 没错！现在旅行者正为了解决风魔龙事件，积极投身在最前线。
 
-**温迪:** 实在不愧于骑士团超新星{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}之名。
+**温迪:** 实在不愧于骑士团超新星空/荧之名。
 
 **派蒙:** 虽然感觉上已经越过了违法的边缘…
 
@@ -3185,7 +3185,7 @@ Have an apple!
 
 **迪卢克:** 不过我倒是没料到，你就这样相信了来历不明的异乡人…
 
-**琴:** 前辈这样严厉又谨慎的人，不也愿意去相信{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}吗？
+**琴:** 前辈这样严厉又谨慎的人，不也愿意去相信空/荧吗？
 
 **迪卢克:** 都说别叫我前辈…也罢，这回就难得地合作一次吧。
 
@@ -3567,6 +3567,38 @@ Have an apple!
 
 **「愚人众」守卫:** 「女士」大人会找到你们，把你们吊起来折磨——到那时可不要连累我啊！
 
+#### (test)与1号房NPC对话
+
+**「胆小」的守卫:** 你…你们是什么人，你们要干什么！啊啊啊！
+
+#### (test)与NPC交涉破裂-战斗前触发
+
+**「胆小」的守卫:** 呵呵……
+
+**「胆小」的守卫:** 我受够了！
+
+**「胆小」的守卫:** 我也是至冬国光荣的一员，我是不会屈服的！
+
+#### (test)踩中2号触发器
+
+**「胆小」的守卫:** 好吧！我也实在没办法…
+
+**「胆小」的守卫:** 作为守卫，我放过你们了。
+
+**「胆小」的守卫:** 钥匙在这里…从大厅继续往前走就是了，可别说是我给你的。
+
+#### (test)与2号房NPC对话
+
+**「贪婪」的守卫:** 你…你们是什么人，怎么混进来的？！
+
+#### (test)踩中3号触发器
+
+**「贪婪」的守卫:** 嗯……
+
+**「贪婪」的守卫:** 好吧！你们的好意我也不会拒绝。
+
+**「贪婪」的守卫:** 钥匙在这里…从大厅继续往前走就是了，可别说是我给你的。
+
 #### 与派蒙对话
 
 **派蒙:** 说起来，刚才那个人，消失不见了…
@@ -3574,6 +3606,92 @@ Have an apple!
 **派蒙:** 「女士」会制裁你们…蒙德的诗人会用你们的下场，编写令孩童无眠的梦魇！
 
 **派蒙:** 说得很凶狠但还是跑路了呢。
+
+#### (test)对NPC威胁
+
+投降吧，没人会来帮你的。
+
+**「胆小」的守卫:** 其他守卫都被打倒了吗？
+
+#### (test)对NPC宣战
+
+没什么可多说的，看招!
+
+**「胆小」的守卫:** 哇…就这样开打了吗！
+
+#### (test)与NPC交涉成功-返回
+
+**「胆小」的守卫:** 唔……
+
+#### (test)与NPC交涉失败-返回
+
+**「胆小」的守卫:** 好吧！我也实在没办法…
+
+**「胆小」的守卫:** 作为守卫，我放过你们了。
+
+**「胆小」的守卫:** 但可惜，钥匙不在我这里。你们还是去找下一个人看看吧。
+
+#### (test)一号房间-完成标记任务
+
+**「胆小」的守卫:** 我也是至冬国光荣的一员，我是不会屈服的！
+
+#### (test)对NPC2贿赂
+
+我们是蒙冬友爱协会的亲善大使。
+
+**「贪婪」的守卫:** 你们来这里要做什么？
+
+- **旅行者:** 来借天空之琴。
+
+- **旅行者:** 当然是来做一些…亲善的事了。
+
+- **旅行者:** 来调查你的贪污行为。
+
+**「贪婪」的守卫:** …太可疑了吧，就不能用好一点的借口来骗我吗？
+
+**「贪婪」的守卫:** 哦？呵呵，我们可以细谈一下…
+
+**「贪婪」的守卫:** 岂有此理！哪里冒出来的小鬼，把我当傻子吗！
+
+**「贪婪」的守卫:** 那么，你们打算怎么来「借」呢？
+
+**「贪婪」的守卫:** 这个…还有这种协会吗？
+
+**「贪婪」的守卫:** 你们是为了天空之琴来的吧？
+
+**「贪婪」的守卫:** 你们是为了天空之琴来的吧？
+
+#### (test)对NPC2宣战
+
+没什么可多说的，你投降吧。
+
+**「贪婪」的守卫:** 哼…我可不吃这一套！
+
+#### (test)与NPC2交涉成功-返回
+
+**「贪婪」的守卫:** 唔…
+
+#### (test)与NPC2交涉失败-返回
+
+**「贪婪」的守卫:** 嗯……
+
+**「贪婪」的守卫:** 好吧！你们的好意我也不会拒绝。
+
+**「贪婪」的守卫:** 作为守卫，我放过你们了。
+
+**「贪婪」的守卫:** 但可惜，钥匙不在我这里。你们还是去找下一个人看看吧。
+
+#### (test)与NPC2交涉失败-战斗环
+
+**「贪婪」的守卫:** 呵呵……
+
+**「贪婪」的守卫:** 小鬼，真是把我看扁了啊！
+
+**「贪婪」的守卫:** 至冬国的意志如冰一般坚硬，我是不会屈服的！
+
+#### (test)2号房间-完成标记任务
+
+**「贪婪」的守卫:** 至冬国的意志如冰一般坚硬，我是不会屈服的！
 
 #### 场景
 

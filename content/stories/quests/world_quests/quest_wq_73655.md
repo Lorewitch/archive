@@ -3,19 +3,19 @@
 # title_ru: Ягоды для Камлы
 # title_en: Kamla's Berries
 # title_zh: 卡姆拉的树莓需求
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73655
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73655
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73655
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

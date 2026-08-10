@@ -12,7 +12,7 @@
 # chapter_num_zh: 山中好长日·第三章
 # part_source_ids: 76096
 # previous_quests: quest_wq_10095
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10095
 # quest_chain: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10095,quest_wq_10132
 # quest_series: A Long Day in the Mountains

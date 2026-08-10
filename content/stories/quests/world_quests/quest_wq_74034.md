@@ -3,19 +3,19 @@
 # title_ru: Некое уведомление
 # title_en: A Certain Notice
 # title_zh: 一份通知
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74034
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74034
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_74035
 # related_quests: quest_wq_74035,quest_wq_74036,quest_wq_74127
 # quest_chain: quest_wq_74034,quest_wq_74035,quest_wq_74036,quest_wq_74127
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

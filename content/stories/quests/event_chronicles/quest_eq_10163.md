@@ -13,8 +13,8 @@
 # part_source_ids: 40134
 # previous_quests: quest_eq_10162
 # next_quests: quest_eq_10164
-# related_quests: quest_eq_10161,quest_eq_10162,quest_eq_10164,quest_eq_10169,quest_wq_74675,quest_wq_74679,quest_wq_74680,quest_wq_74681
-# quest_chain: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169,quest_wq_74675,quest_wq_74679,quest_wq_74680,quest_wq_74681
+# related_quests: quest_eq_10161,quest_eq_10162,quest_eq_10164,quest_eq_10169
+# quest_chain: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169
 # quest_series: Roses and Muskets
 # version_source: wiki_release_category
 

@@ -3,19 +3,19 @@
 # title_ru: Даже горы дрожат
 # title_en: No Restoring This Past Land of Beauty
 # title_zh: 恨繁囿兮作土
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 71022
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71022
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71022
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

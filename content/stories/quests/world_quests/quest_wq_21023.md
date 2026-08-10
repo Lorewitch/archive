@@ -3,19 +3,19 @@
 # title_ru: Временные меры
 # title_en: A Provisional Arrangement
 # title_zh: 暂行之策
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 21023
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 21023
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_21023
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

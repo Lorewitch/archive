@@ -3,7 +3,7 @@
 # title_ru: Неугасающая магия
 # title_en: The Magic That Never Fails
 # title_zh: 永不失效的魔法
-# region: Инадзума
+# region: Тейват
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10251
@@ -12,7 +12,7 @@
 # chapter_num_zh: 幻友绮旅 其三
 # part_source_ids: 40241
 # previous_quests: quest_eq_10250
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10249,quest_eq_10250
 # quest_chain: quest_eq_10249,quest_eq_10250,quest_eq_10251
 # quest_series: Phantasmal Pals

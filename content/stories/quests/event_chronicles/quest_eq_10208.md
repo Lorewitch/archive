@@ -13,8 +13,8 @@
 # part_source_ids: 40167
 # previous_quests: quest_eq_10207
 # next_quests: quest_eq_10209
-# related_quests: quest_eq_10207,quest_eq_10209,quest_wq_73352,quest_wq_73353,quest_wq_73354
-# quest_chain: quest_eq_10207,quest_eq_10208,quest_eq_10209,quest_wq_73352,quest_wq_73353,quest_wq_73354
+# related_quests: quest_eq_10207,quest_eq_10209
+# quest_chain: quest_eq_10207,quest_eq_10208,quest_eq_10209
 # quest_series: Chromatic Ode of Candies and Roses
 # version_source: wiki_release_category
 

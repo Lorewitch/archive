@@ -3,19 +3,19 @@
 # title_ru: Некий пустячок
 # title_en: A Certain Trifle
 # title_zh: 一件小事
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74035
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74035
 # previous_quests: quest_wq_74034
 # next_quests: quest_wq_74036
 # related_quests: quest_wq_74034,quest_wq_74036,quest_wq_74127
 # quest_chain: quest_wq_74034,quest_wq_74035,quest_wq_74036,quest_wq_74127
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

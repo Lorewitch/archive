@@ -3,19 +3,19 @@
 # title_ru: Повторное приглашение на чай: Мастер Шляпка
 # title_en: Tea Party Re-Invitation: Hat Guy
 # title_zh: 茶会的再邀·阿帽
-# region: Сумеру
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 73357
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73357
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73357
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

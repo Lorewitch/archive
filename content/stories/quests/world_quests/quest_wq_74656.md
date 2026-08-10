@@ -3,19 +3,19 @@
 # title_ru: Пузырин для Исменора
 # title_en: Ismenor's Bulle Fruit Bulletin
 # title_zh: 伊斯梅诺的泡泡桔需求
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74656
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74656
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74656
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

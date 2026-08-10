@@ -3,19 +3,19 @@
 # title_ru: Седьмой самурай
 # title_en: "The Seventh Samurai"
 # title_zh: 《第七个武士》
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72154
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72154
 # previous_quests: quest_wq_10036
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10036
 # quest_chain: quest_wq_10036,quest_wq_72154
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -448,7 +448,7 @@ What's the theme of your next film?
 
 **泽维尔:** 您这句话的情绪太激昂了，应该是…
 
-**泽维尔:** 哎哟，是您呐！我亲爱的好{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}，准是一阵好风送您过来的。
+**泽维尔:** 哎哟，是您呐！我亲爱的好空/荧，准是一阵好风送您过来的。
 
 **泽维尔:** 如您所见，我正在和这位士兵先生拍摄一部「剑阵映影」，名字叫做《第七个武士》。
 
@@ -492,7 +492,7 @@ What's the theme of your next film?
 
 **泽维尔:** 不仅挥剑快到「映影机」没法记录，而且有时候演着演着，就跑到了镜头外面…
 
-**泽维尔:** 当然！当然！您可是我心中永远的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HERO|INFO_FEMALE_PRONOUN_HEROINE]}！
+**泽维尔:** 当然！当然！您可是我心中永远的空/荧！
 
 **泽维尔:** 那部《踏鞴物语》我可一直记着呢。
 
@@ -580,7 +580,7 @@ What's the theme of your next film?
 
 #### 和泽维尔对话
 
-**泽维尔:** 完美！不愧是我心中永远的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HERO|INFO_FEMALE_PRONOUN_HEROINE]}！完美的示范！
+**泽维尔:** 完美！不愧是我心中永远的空/荧！完美的示范！
 
 - **旅行者:** 什么…什么一号？
 

@@ -3,19 +3,19 @@
 # title_ru: Эхо древнего мира
 # title_en: Echoes of the Ancient World
 # title_zh: 旧世遗音
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74038
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74038
 # previous_quests: quest_wq_74039
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74039
 # quest_chain: quest_wq_74039,quest_wq_74038
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

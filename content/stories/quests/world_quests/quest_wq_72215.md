@@ -3,13 +3,13 @@
 # title_ru: Кошка Нэко: Звенящий шарик
 # title_en: Neko Is a Cat: Ding-a-Ling Metal Ball
 # title_zh: 寝子是只猫·叮当的铁球
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72215
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72215
 # previous_quests: quest_wq_72214
 # next_quests: quest_wq_72216

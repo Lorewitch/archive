@@ -3,19 +3,19 @@
 # title_ru: Испытание возвышения I
 # title_en: Ascension Challenge I
 # title_zh: 牌手等级突破·一
-# region: Мондштадт
+# region: Тейват
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 70666
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70666
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_70667
 # related_quests: quest_wq_70667,quest_wq_70668,quest_wq_70669
 # quest_chain: quest_wq_70666,quest_wq_70667,quest_wq_70668,quest_wq_70669
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

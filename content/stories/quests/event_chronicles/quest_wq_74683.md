@@ -1,0 +1,283 @@
+# id: quest_wq_74683
+# story_group: event_chronicles
+# title_ru: Заметки режиссёра
+# title_en: Filmmaking Notes
+# title_zh: 映影制作札记
+# region: Тейват
+# game_version: 5.4
+# release_versions: 5.4
+# source_id: 74683
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 74683
+# previous_quests:
+# next_quests: quest_wq_74686
+# related_quests: quest_wq_74686
+# quest_chain: quest_wq_74683,quest_wq_74686
+# quest_series: Reel Ad-Venture }}
+# version_source: wiki_release_category
+
+## RU
+
+### Заметки режиссёра
+
+Встреча со старым другом в кафе «Лютес»...
+
+#### Поговорите с Ксавье
+
+**Ксавье:** Здравствуй, великий искатель / великая искательница приключений!
+
+- **Путешественник:** Приветствую, великий режиссёр.
+
+- **Путешественник:** Давно не виделись, Ксавье!
+
+**Ксавье:** Как дела?
+
+Как дела?
+
+**Ксавье:** О! Ты говоришь то же самое, что и я. Друзья всегда понимают друг друга. Но раз я опередил тебя на полсекунды, то давай ты первый / первая ответишь?
+
+- **Путешественник:** Как обычно, я работаю на Гильдию искателей приключений.
+
+- **Путешественник:** На полставки подрабатываю спасителем / спасительницей мира.
+
+**Ксавье:** Ха-ха, такая невозмутимость. Если бы кто-то другой мне так сказал, я бы решил, что это преувеличение. Но в твоём случае я уверен, что это правда.
+
+**Ксавье:** А я? Как обычно, готовлюсь к съёмкам следующего фильма...
+
+**Ксавье:** Недавно мне в голову пришла идея сюжета для приключенческой истории. Незнакомцы в опасном путешествии вместе преодолевают множество испытаний...
+
+**Ксавье:** Да, я ещё не решил, какие трудности им предстоит преодолеть, но всё будет хорошо. Они станут героями. А что до концовки...
+
+**Ксавье:** Я тоже ещё не решил. Может быть, наши герои пойдут разными путями или проложат тропу в царство сиквелов.
+
+**Ксавье:** Помимо этого, у меня есть ещё несколько идей. Честно говоря, мне кажется, что у меня в голове целое море идей. Когда я ложусь спать, меня затапливает вдохновением.
+
+**Ксавье:** Плохо то, что это мешает мне спать. Хорошо, что у меня всегда множество идей.
+
+Похоже, всё идёт по плану.
+
+**Ксавье:** Не всё гладко. Например, вопрос финансирования и спонсоров...
+
+**Ксавье:** Иногда я встречаю щедрых спонсоров, иногда выдаётся такая отличная возможность, как кинофестиваль «Фонтиналия». Но это происходит редко, поэтому приходится полагаться на собственные силы.
+
+Нужна помощь?
+
+**Ксавье:** Спасибо за заботу - но нет, я не нуждаюсь в особой помощи.
+
+**Ксавье:** Я не хочу пользоваться добротой друзей, чтобы исполнить свои желания. Я только хочу, чтобы вы оставались моими друзьями и чтобы мы время от времени общались.
+
+**Ксавье:** Я найду способ собрать нужную сумму. Например, я снимаю рекламу для некоторых спонсоров. Не очень большой заработок, зато стабильный.
+
+Реклама?
+
+**Ксавье:** Да, с тех пор как фильмы стали популярны, многие торговцы и организации заинтересовались этой инновационной формой рекламы. Они нанимают людей, чтобы придумать сценарий, а затем снимают ролик.
+
+**Ксавье:** В отличие от фильмов, рекламные ролики должны заинтересовать зрителей за короткое время, поэтому они должны быть короткими и оригинальными.
+
+**Ксавье:** И... и ещё мне приходится учитывать интересы спонсоров. Иногда их предложения противоречат друг другу, а иногда просто не имеют смысла.
+
+**Ксавье:** Ха, только никому не говори.
+
+Звучит непросто.
+
+**Ксавье:** Ничего. Такова цена создания историй, которые я действительно хочу снимать. Это как есть морепродукты - невозможно добраться до сладкого мяса, не расколов раковину, не так ли? Не беспокойтесь обо мне.
+
+**Ксавье:** Кроме того, если мои предыдущие примеры показались вам абсурдными, расскажу про одного спонсора. Он настоял на том, чтобы главный герой моего триллера, крутой, бескомпромиссный парень, появился в начале фильма, попивая их детское молоко...
+
+**Ксавье:** Больше рекламных роликов, снятых отдельно, означает меньшее размещение рекламы в моих фильмах... С этой точки зрения коммерческие съёмки гораздо предпочтительнее.
+
+**Ксавье:** Да, кстати, есть кое-что, о чём я хотел бы тебя попросить...
+
+Что же?
+
+**Ксавье:** Давненько мы не работали вместе, не так ли? Мы снимали много в прошлом, и получалось неплохо. Я помню, что тебе нравилось снимать фильмы.
+
+**Ксавье:** Может, попробуем снять рекламу вместе? Реклама немного отличается от фильмов, но это тоже очень интересно.
+
+**Ксавье:** Я уже отснял все нужные материалы. Тебе не придётся бегать и снимать. Нужно лишь проявить немного креативности во время монтажа...
+
+- **Путешественник:** Значит, на этот раз будем заниматься монтажом?
+
+- **Путешественник:** Креативность - моё всё!
+
+**Ксавье:** Ага. Заходи, как будет время. Не волнуйся о финальном продукте. Мне хочется опять с тобой поработать, а спонсоры за всё заплатят.
+
+**Ксавье:** К тому же реклама должна быть интересной. Давай доверимся вдохновению. Кто знает? Возможно, получится лучше, чем мы думаем!
+
+## EN
+
+### Filmmaking Notes
+
+Reunite with an old friend at Café Lutece...
+
+#### Talk to Xavier
+
+**Xavier:** Ho, we meet again, my gallant adventurer friend!
+
+- **Traveler:** Hello, my gallant film producer friend.
+
+- **Traveler:** Long time no see, Xavier.
+
+**Xavier:** How've you been recently?
+
+How've you been recently?
+
+**Xavier:** Oho, we're in sync! The mark of a friendship that has withstood the test of time, surely? But since I was a little faster, why don't we start with you?
+
+- **Traveler:** Same as always, working for the Adventurers' Guild.
+
+- **Traveler:** With a little bit of saving the world on the side.
+
+**Xavier:** Haha, composed as always, I see. Were it anyone else, I'd call him / her out for pulling my leg. But with you, I know it's all true.
+
+**Xavier:** As for me, things are the same as always — wrap shooting for one film, and it's time to start prepping for the next...
+
+**Xavier:** Recently, I've had this idea for an adventure plot — a group of people who start as strangers, but are forced to travel together after an accident to overcome a slew of trials and thrills...
+
+**Xavier:** Hmm, I haven't decided what sorts of thrills exactly, but things will go well enough for them to grow into heroes. As for the ending...
+
+**Xavier:** ...It's also undecided! Maybe our heroes shall go their separate ways, or blaze a trail into the realm of sequels.
+
+**Xavier:** I've got a few plot ideas besides that one. Frankly, I feel like I have a whole sea of them in my head that tips over every time I lie down at night, drowning me in inspiration.
+
+**Xavier:** On the one hand, I am sleep-deprived. But on the other, I'll never run out of great ideas for as long as I live.
+
+Sounds like everything's going smoothly.
+
+**Xavier:** Well, not everything. There's always funding and sponsorships...
+
+**Xavier:** Sometimes, I'll run into generous sponsors with great taste or get opportunities like the Fontinalia Film Festival, but those big breaks are few and far between, so I've had to think of my own solutions.
+
+Do you need any help?
+
+**Xavier:** Oho? Thanks for the concern — but no, I'm in no dire need of special assistance.
+
+**Xavier:** I'd avoid resorting to a friend's kindness to achieve my dream as much as possible. All I need from a friend are their kind regards, and to keep in touch.
+
+**Xavier:** I'll figure out some way to solve my financial problems. For instance, I'm helping my sponsors shoot some commercials. It doesn't pay very much, but it's a good source of stable income.
+
+Commercials?
+
+**Xavier:** Yes, ever since film became popular, many merchants and organizations have developed a taste for this new innovative marketing method. They'll go to someone with a plan, and have them help shoot the film.
+
+**Xavier:** Rather than focusing on narrative elements, a commercial needs to capture the audience's attention quickly, so they are faster-paced, and we filmmakers need to be more creative with our methods.
+
+**Xavier:** Oh... and the sponsors themselves are full of ideas, not all of them good. Some give contradictory suggestions, while others are befuddlingly unreasonable...
+
+**Xavier:** Ha, don't let anyone else hear a word of that, though.
+
+That sounds rough.
+
+**Xavier:** It's alright. There's a price to be paid for creating the stories I truly want to. It's like eating seafood — can't get at that sweet meat within without cracking the shell, can you? Don't worry about me.
+
+**Xavier:** Also, if you thought my previous examples were absurd, you should've seen the sponsor who insisted that I have my thriller film protagonist, a tough, no-nonsense guy, show up in the film's opening chugging a carton of their baby milk...
+
+**Xavier:** More commercials shot on the side means fewer product placements in my films... Put that way, commercial shootings seem like a much more pleasant option.
+
+**Xavier:** Ah, yes. Now that I think about it, there is a little something I could use your help with. Interested?
+
+What is it?
+
+**Xavier:** Well, it's been an age and a half since we last worked together. We shot tons of good films then, and if memory serves, you quite enjoyed the process too!
+
+**Xavier:** Want to try making a commercial together this time? They're quite different from films, but they have charms all their own.
+
+**Xavier:** I shot all the needed material beforehand, so you won't have to run around filming new scenes. All we need to do is add a little creative spice to the editing...
+
+- **Traveler:** So this is post-production and editing?
+
+- **Traveler:** If you need creative spice, you've come to the right person!
+
+**Xavier:** Great! In that case, come find me when you have time. Don't worry about the final product. I just want to do something meaningful with an old friend, and if anything comes up with the sponsors, I'll handle it.
+
+**Xavier:** Besides, commercials are meant to be interesting! Let us follow our muses and go with the flow. Who knows? Things might turn out better than we think!
+
+## ZH
+
+### 映影制作札记
+
+和一位老朋友再次相会在露泽咖啡厅…
+
+#### 与泽维尔对话
+
+**泽维尔:** 嗨，又见面了！亲爱的大冒险家！
+
+- **旅行者:** 你好，大映影家。
+
+- **旅行者:** 好久不见！泽维尔。
+
+**泽维尔:** 最近过得怎么样？
+
+最近过得怎么样？
+
+**泽维尔:** 哦！几乎异口同声呢，这就是老朋友的默契吧？不过既然是我快了半拍，不如就请你先说说？
+
+- **旅行者:** 老样子，在给冒险家协会打工。
+
+- **旅行者:** 顺便时不时拯救一下世界。
+
+**泽维尔:** 哈哈，还是这么镇定。如果是别人讲这种话，我赌他 / 她肯定在吹牛，但如果是你的话，肯定都是真事。
+
+**泽维尔:** 至于我嘛，也还是老样子：拍完一部映影，就开始为下一部做积累做准备…
+
+**泽维尔:** 最近我有一个冒险故事的点子：一群本来不相识的人，阴差阳错之后不得不结伴历险，克服一些惊心动魄的障碍…
+
+**泽维尔:** 嗯，具体让他们经历什么困难我还没想好，但结果不错，他们会成为英雄。至于结局嘛…
+
+**泽维尔:** …暂时也还没想好！可能会设计成分道扬镳，也可能结束在下一场冒险的路上。
+
+**泽维尔:** 除了这个计划之外，我还有几个别的点子。说实话，我感觉自己的点子无穷多，每天晚上睡觉之前，它们就开始在我脑子里乱飞。
+
+**泽维尔:** 坏处是这会影响睡眠，好处是有这么多点子，我这辈子不愁灵感枯竭。
+
+听起来准备得挺顺利。
+
+**泽维尔:** 也不是处处都顺利，比如资金跟赞助…
+
+**泽维尔:** 有时候我能碰上品味好出手也阔绰的赞助人，有的时候会有千灵映影节这样的好时机，但这种机遇总不常有，那就得靠自己想办法了。
+
+需要帮忙吗？
+
+**泽维尔:** 哦？多谢你的关心——不过答案是不，不需要你特意付出什么。
+
+**泽维尔:** 我还不想利用朋友的好心完成自己的愿望。作为朋友，我只需要你的问候，和时不时的联络。
+
+**泽维尔:** 我会自己想办法解决资金问题。比方说，我现在就在帮一些赞助商拍摄广告片。报酬不算多，但好在收入稳定。
+
+广告片？
+
+**泽维尔:** 嗯，自从映影开始流行之后，就有不少商家和组织也看上了这种新颖的宣传手段。他们会根据自己的需要，找人拟定方案，再拍摄成片。
+
+**泽维尔:** 比起注重叙事性的映影，广告片更需要在短时间内抓住观众的眼球，所以往往节奏更紧、创意更花。
+
+**泽维尔:** 哦…还有赞助商的意见也会更多。有时他们的修改意见还会自相矛盾，有的根本没有道理，让人理解不了…
+
+**泽维尔:** 哈，这话可不能让他们听见。
+
+听起来很辛苦。
+
+**泽维尔:** 没关系，为了做到真正想做成的事，总得付出点代价。就像吃海鲜一样，要取到贝里的肉，还得撬开壳呢，这不算什么。
+
+**泽维尔:** 何况我还遇到过更不讲道理的赞助商，非要我在一部悬疑映影的开头，让硬汉形象的主角喝着他们家的儿童牛奶登场…
+
+**泽维尔:** 在戏外多拍一些广告，在戏里就能少植入一点…这么一想，拍广告片的活就让人愉悦多啦。
+
+**泽维尔:** 哦对了，说起来，我还真的有点事情，想问问你感不感兴趣？
+
+是什么？
+
+**泽维尔:** 我们有一阵子没一起做点什么了吧？之前我们一起拍了不少东西，效果不错，我记得你也不讨厌拍映影这件事。
+
+**泽维尔:** 这次要不要一起试试制作广告片？广告和映影不太一样，不过也有它自己的趣味。
+
+**泽维尔:** 要用到的素材也都已经拍好了，不用再辛苦你跑片场，只需要加入一点点创意性的剪辑…
+
+- **旅行者:** 所以这回是后期和剪辑？
+
+- **旅行者:** 要问创意你可问对人了！
+
+**泽维尔:** 嗯，那你有空就来找我吧，不用在意最终成片效果如何，只是很久不见的老拍档一起做点有意思的东西，赞助商那边有我兜底。
+
+**泽维尔:** 何况广告嘛，有趣最要紧，顺着兴头剪一剪，说不定还会意外合适呢！

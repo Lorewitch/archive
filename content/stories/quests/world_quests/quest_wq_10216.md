@@ -40,7 +40,7 @@
 
 **Паймон:** Это тот самый «Тонатиу»? Ура, получилось!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Хотя он больше похож на огромный клубок ниток, чем на корабль! Или на змею. Как он весь перепутался...
 
@@ -72,15 +72,15 @@
 
 Кто бы говорил.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р! Р-р-р!
+**Малыш:** Р-р-р! Р-р-р!
 
-**Паймон:** Что такое, {REALNAME[ID(2)|SHOWHOST(true)]}? Ты что-то об этом знаешь?
+**Паймон:** Что такое, Малыш? Ты что-то об этом знаешь?
 
-**Паймон:** Ого! {REALNAME[ID(2)|SHOWHOST(true)]}! Похоже, ты наконец сможешь продемонстрировать свои навыки!
+**Паймон:** Ого! Малыш! Похоже, ты наконец сможешь продемонстрировать свои навыки!
 
 **Паймон:** Значит, теперь ты у нас будешь отвечать за все горячие находки!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** И-и! Р-р-р!
+**Малыш:** И-и! Р-р-р!
 
 **Бона:** Эй! Эй! Сюда!
 
@@ -94,11 +94,11 @@
 
 **Бона:** В общем, я рассчитываю на вас в поиске этих огненных камней. Если что-то понадобится, зовите!
 
-**Бона:** Вот вы где, Путешественник, Паймон и {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Бона:** Вот вы где, Путешественник, Паймон и Малыш.
 
 **Паймон:** Привет, Бона! Паймон рада, что с тобой всё в порядке!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Бона:** А? Паймон обо мне беспокоилась? Не волнуйся! Я ведь лучшая искательница приключений в клане Цветочного Пера. Думаешь, я бы потерялась?
 
@@ -150,7 +150,7 @@
 
 **Паймон:** Если это подсказка, возможно, нам стоит попробовать в деле пирофосфорит... Эм, подождите. А у нас остались пирофосфориты?
 
-{REALNAME[ID(2)|SHOWHOST(true)]} как раз носит один с собой...
+Малыш как раз носит один с собой...
 
 **Паймон:** Точно, мы нашли его по пути сюда...
 
@@ -188,9 +188,9 @@
 
 **Бона:** Я рассчитываю на вас. Если переберётесь на другой остров и не сможете вернуться, позовите меня.
 
-**Паймон:** Ладно, тогда {REALNAME[ID(2)|SHOWHOST(true)]} будет отвечать за переноску огненных камней. Вперёд!
+**Паймон:** Ладно, тогда Малыш будет отвечать за переноску огненных камней. Вперёд!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Возьмите Нефрит Возвращения
 
@@ -240,7 +240,7 @@
 
 **Паймон:** Постой, это ведь Золотое прошение? Такое же, как то, которое мы получили у каменной таблички!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р...
+**Малыш:** Р-р-р... Р-р-р...
 
 Ого, вот оно что!
 
@@ -402,7 +402,7 @@
 
 **Оч-кан:** А ещё ваш компаньон, детёныш тепетлизавра...
 
-**Оч-кан:** Да. {REALNAME[ID(2)|SHOWHOST(true)]}... он похож на меня...
+**Оч-кан:** Да. Малыш... он похож на меня...
 
 **Паймон:** А? Ты о чём? Вы совсем не похожи...
 
@@ -426,7 +426,7 @@
 
 **Паймон:** Эм, ладно. В общем, насколько Паймон поняла, нам нужно отнести оба дара к вулкану, так?
 
-**Паймон:** Похоже, если мы хотим во всём разобраться, мы и {REALNAME[ID(2)|SHOWHOST(true)]} должны отправиться к вулкану.
+**Паймон:** Похоже, если мы хотим во всём разобраться, мы и Малыш должны отправиться к вулкану.
 
 **Оч-кан:** Простите. Вы так много для меня сделали, но я не смог ответить на ваш вопрос... Однако, возможно, есть один способ получить ответ...
 
@@ -518,7 +518,7 @@
 
 **Несколько странный «человек»:** Будучи расой, природа которой подталкивает её к могуществу, мы очень хорошо видим иерархию, и эта иерархия сковывает нашу свободу.
 
-**Несколько странный «человек»:** После инсценированной смерти Пиро Д{RUBY#[D]Шиукоатль}ракона потомки древних драконов могли только склониться перед троном и наблюдать, как наша цивилизация с каждым днём неизбежно угасает.
+**Несколько странный «человек»:** После инсценированной смерти Пиро ДШиукоатльракона потомки древних драконов могли только склониться перед троном и наблюдать, как наша цивилизация с каждым днём неизбежно угасает.
 
 **Несколько странный «человек»:** Наша раса зашла в тупик. Но я нашёл новую надежду среди людей.
 
@@ -560,7 +560,7 @@
 
 **Несколько странный «человек»:** (Избранница)(Избранник) драконов, надежда живёт в тебе. Это ещё не конец пути. Возьми залог клятвы и отправляйся на священную гору.
 
-**Несколько странный «человек»:** Мы встретимся снова, когда всё закончится. А когда настанет время, ты примешь решение, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Несколько странный «человек»:** Мы встретимся снова, когда всё закончится. А когда настанет время, ты примешь решение, Малыш.
 
 «Для тебя это ещё не конец. Возьми мою часть и продолжай путь».
 
@@ -630,7 +630,7 @@
 
 **Оч-кан:** Золотое прошение... очень важно.
 
-**Паймон:** Конечно, важно. Если верить тому, что нам сказал Манку, {REALNAME[ID(2)|SHOWHOST(true)]} может вылечиться с его помощью. А Бона говорила, что в нём таится ключ к усмирению Бездны.
+**Паймон:** Конечно, важно. Если верить тому, что нам сказал Манку, Малыш может вылечиться с его помощью. А Бона говорила, что в нём таится ключ к усмирению Бездны.
 
 **Оч-кан:** Верно. Оно способно обуздать скверну Бездны во всём Натлане... Но не так, как вы себе это представляете... Именно поэтому я спрятал его на корабле...
 
@@ -638,9 +638,9 @@
 
 **Оч-кан:** А ещё ваш компаньон, детёныш тепетлизавра...
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Паймон:** Малыш?
 
-**Оч-кан:** Да. {REALNAME[ID(2)|SHOWHOST(true)]}... он похож на меня...
+**Оч-кан:** Да. Малыш... он похож на меня...
 
 **Паймон:** А? Ты о чём? Вы совсем не похожи...
 
@@ -660,7 +660,7 @@
 
 **Паймон:** Эм, ладно. В общем, насколько Паймон поняла, нам нужно отнести оба дара к вулкану, так?
 
-**Паймон:** Похоже, если мы хотим во всём разобраться, мы и {REALNAME[ID(2)|SHOWHOST(true)]} должны отправиться к вулкану.
+**Паймон:** Похоже, если мы хотим во всём разобраться, мы и Малыш должны отправиться к вулкану.
 
 **Оч-кан:** Простите. Вы так много для меня сделали, но я не смог ответить на ваш вопрос... Однако, возможно, есть один способ получить ответ...
 
@@ -860,7 +860,7 @@
 
 **Несколько странный «человек»:** Будучи расой, природа которой подталкивает её к могуществу, мы очень хорошо видим иерархию, и эта иерархия сковывает нашу свободу.
 
-**Несколько странный «человек»:** После инсценированной смерти Пиро Д{RUBY#[D]Шиукоатль}ракона потомки древних драконов могли только склониться перед троном и наблюдать, как наша цивилизация с каждым днём неизбежно угасает.
+**Несколько странный «человек»:** После инсценированной смерти Пиро ДШиукоатльракона потомки древних драконов могли только склониться перед троном и наблюдать, как наша цивилизация с каждым днём неизбежно угасает.
 
 **Несколько странный «человек»:** Наша раса зашла в тупик. Но я нашёл новую надежду среди людей.
 
@@ -902,7 +902,7 @@
 
 **Несколько странный «человек»:** (Избранница)(Избранник) драконов, надежда живёт в тебе. Это ещё не конец пути. Возьми залог клятвы и отправляйся на священную гору.
 
-**Несколько странный «человек»:** Мы встретимся снова, когда всё закончится. А когда настанет время, ты примешь решение, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Несколько странный «человек»:** Мы встретимся снова, когда всё закончится. А когда настанет время, ты примешь решение, Малыш.
 
 «Для тебя это ещё не конец. Возьми мою часть и продолжай путь».
 
@@ -932,9 +932,9 @@
 
 Вы рассказываете Паймон, что увидели в сознании Оч-Кана, стараясь упростить свой рассказ...
 
-**Паймон:** Что?! Там был {REALNAME[ID(2)|SHOWHOST(true)]}, а с ним был какой-то странный парень на «Тонатиу»?
+**Паймон:** Что?! Там был Малыш, а с ним был какой-то странный парень на «Тонатиу»?
 
-**Паймон:** Ох! А вдруг это не воспоминание, а то, что происходит прямо сейчас! {REALNAME[ID(2)|SHOWHOST(true)]} может быть в опасности...
+**Паймон:** Ох! А вдруг это не воспоминание, а то, что происходит прямо сейчас! Малыш может быть в опасности...
 
 **Паймон:** Ты говоришь, что он просто болтал какую-то ерунду, но Паймон всё равно немного беспокоится. Давай скорей вернёмся на «Тонатиу» и всё проверим.
 
@@ -944,7 +944,7 @@
 
 **Паймон:** Оч-Кан сказал, что оно обладает чудесными свойствами, но может быть очень опасно. Им нужно пользоваться осторожно... Давай расскажем об этом Боне.
 
-**Паймон:** Но мы не можем отдать его Боне, верно? Мы и {REALNAME[ID(2)|SHOWHOST(true)]} должны отнести это к вулкану... Хотя что делать там, мы пока не знаем...
+**Паймон:** Но мы не можем отдать его Боне, верно? Мы и Малыш должны отнести это к вулкану... Хотя что делать там, мы пока не знаем...
 
 О Боне...
 
@@ -964,7 +964,7 @@
 
 - **Путешественник:** Ты тоже кое-что узнала, Паймон.
 
-**Паймон:** Эй! Не пытайся делать то, что обычно делает {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Паймон:** Эй! Не пытайся делать то, что обычно делает Малыш!
 
 **Паймон:** Хе-хе. Тогда отправляемся на «Тонатиу», когда будешь (готова)(готов).
 
@@ -996,13 +996,13 @@ But you float.
 
 The "ground" here doesn't look too solid, either.
 
-**Paimon:** Don't scare Paimon like that! If we do fall, she can't pull both you and {REALNAME[ID(2)|SHOWHOST(true)]} back up!
+**Paimon:** Don't scare Paimon like that! If we do fall, she can't pull both you and Little One back up!
 
 **Cocouik:** Cheep, ku...
 
 **Paimon:** Is that the Tonatiuh? Woohoo, we've done it!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** It looks more like a huge ball of yarn than a ship, though! Or snakes, what with all those tangled lines...
 
@@ -1034,15 +1034,15 @@ I didn't realize...
 
 Oh, hey, the pot's calling the kettle black.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
-**Paimon:** What is it, {REALNAME[ID(2)|SHOWHOST(true)]}? Do you know something about this?
+**Paimon:** What is it, Little One? Do you know something about this?
 
-**Paimon:** Wow, {REALNAME[ID(2)|SHOWHOST(true)]}! It's finally your time to shine, huh?
+**Paimon:** Wow, Little One! It's finally your time to shine, huh?
 
 **Paimon:** Guess we'll let you handle any hot and sizzling treasures from now on!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Yee! Rawr!
+**Little One:** Yee! Rawr!
 
 **Bona:** Hey! Hey! Over here!
 
@@ -1056,11 +1056,11 @@ Oh, hey, the pot's calling the kettle black.
 
 **Bona:** Anyway, I'll be counting on you to find those Firestones. Just holler if you need anything!
 
-**Bona:** There you are, Traveler, Paimon, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Bona:** There you are, Traveler, Paimon, Little One.
 
 **Paimon:** Hey there Bona! Paimon's glad to see you're okay!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Bona:** Oh? Worried about me, Paimon? Don't worry! I'm the ace adventurer of the Flower-Feather Clan. It'll take a lot more to bring down someone like me.
 
@@ -1112,7 +1112,7 @@ Something tells me things won't be that simple.
 
 **Paimon:** If it's a clue, maybe we should try using the Pyrophosphorite to... Uh, hang on. We don't have any left, do we?
 
-{REALNAME[ID(2)|SHOWHOST(true)]}'s carrying one right now...
+Little One's carrying one right now...
 
 **Paimon:** Oh yeah, we stumbled upon this on our way here...
 
@@ -1150,9 +1150,9 @@ Luckily, I always rely on brute force.
 
 **Bona:** I'm counting on you to find them. Just holler over to me if you cross over to another floating island and can't get back here.
 
-**Paimon:** Alright, and we'll leave the job of holding the Firestones up to you, {REALNAME[ID(2)|SHOWHOST(true)]}. Let's go!
+**Paimon:** Alright, and we'll leave the job of holding the Firestones up to you, Little One. Let's go!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Retrieve the Jade of Return
 
@@ -1202,7 +1202,7 @@ Speaking of food, Paimon, your breakfast...
 
 **Paimon:** Wait a second, isn't this the Golden Entreaty? It's the same as the one we got at the stone tablet back then!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooo... Rawr...
+**Little One:** Rooo... Rawr...
 
 Wow, that really is the case!
 
@@ -1364,7 +1364,7 @@ Well, out with it, wicked dragon. Why'd you steal our token?
 
 **Och-Kan:** Hmm. And another thing. Your companion there, that little Tepetlisaurus...
 
-**Och-Kan:** Yes. {REALNAME[ID(2)|SHOWHOST(true)]}... is most similar to me...
+**Och-Kan:** Yes. Little One... is most similar to me...
 
 **Paimon:** Huh? What do you mean? You look very different...
 
@@ -1388,7 +1388,7 @@ We should get some rest first.
 
 **Paimon:** Uh, fine. Anyway, from what Paimon understands, you mean that we'll need to take two tokens over to the volcano, right?
 
-**Paimon:** Looks like going with {REALNAME[ID(2)|SHOWHOST(true)]} to the volcano is the only way to get to the bottom of this secret.
+**Paimon:** Looks like going with Little One to the volcano is the only way to get to the bottom of this secret.
 
 **Och-Kan:** My apologies. You've helped me so much, but I couldn't answer your question... That said, there is, perhaps, one way we could try to get your answer...
 
@@ -1480,7 +1480,7 @@ Who are you?
 
 **A Somewhat Strange "Person":** Races that by nature pursue power are bound by the very power that all too clearly orders their societies.
 
-**A Somewhat Strange "Person":** After the Pyro {RUBY#[D]Xiuhcoatl} Dragon's faked death, all that the descendants of the ancients knew was to kowtow before the throne, watching our civilization deteriorate by the day, marching inexorably towards decline.
+**A Somewhat Strange "Person":** After the Pyro Xiuhcoatl Dragon's faked death, all that the descendants of the ancients knew was to kowtow before the throne, watching our civilization deteriorate by the day, marching inexorably towards decline.
 
 **A Somewhat Strange "Person":** Our race had reached a dead end. But I found new hope for myself within humanity.
 
@@ -1522,7 +1522,7 @@ More like horrendous...
 
 **A Somewhat Strange "Person":** Chosen of Dragons, hope resides within you. This is not the end. Take the token of the oath, and go unto the sacred mountain.
 
-**A Somewhat Strange "Person":** We shall meet again when all is done. And when that time comes, you shall be the one to decide matters, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**A Somewhat Strange "Person":** We shall meet again when all is done. And when that time comes, you shall be the one to decide matters, Little One.
 
 "This is not the end for you. Take that which is my part, and set off on your journey."
 
@@ -1592,7 +1592,7 @@ Well, out with it, wicked dragon. Why'd you steal our token?
 
 **Och-Kan:** That Golden Entreaty... is very important.
 
-**Paimon:** Sure is. Based on what Manqu told us before, it can help cure {REALNAME[ID(2)|SHOWHOST(true)]}, but Bona said that it holds the key to quelling the Abyss.
+**Paimon:** Sure is. Based on what Manqu told us before, it can help cure Little One, but Bona said that it holds the key to quelling the Abyss.
 
 **Och-Kan:** The child is right: It can indeed tame the filth of the Abyss for all of Natlan... But not in the way that you imagine... Which is why I had to hide it on the ship...
 
@@ -1600,9 +1600,9 @@ Well, out with it, wicked dragon. Why'd you steal our token?
 
 **Och-Kan:** Hmm. And another thing. Your companion there, that little Tepetlisaurus...
 
-**Paimon:** You mean {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** You mean Little One?
 
-**Och-Kan:** Yes. {REALNAME[ID(2)|SHOWHOST(true)]}... is most similar to me...
+**Och-Kan:** Yes. Little One... is most similar to me...
 
 **Paimon:** Huh? What do you mean? You look very different...
 
@@ -1622,7 +1622,7 @@ We should get some rest first.
 
 **Paimon:** Uh, fine. Anyway, from what Paimon understands, you mean that we'll need to take these two tokens over to the volcano, right?
 
-**Paimon:** Looks like we've gotta get {REALNAME[ID(2)|SHOWHOST(true)]} to the volcano if we wanna get to the bottom of all this.
+**Paimon:** Looks like we've gotta get Little One to the volcano if we wanna get to the bottom of all this.
 
 **Och-Kan:** My apologies. You've helped me so much, but I couldn't answer your question... That said, there is, perhaps, one way we could try to get your answer...
 
@@ -1822,7 +1822,7 @@ Who are you?
 
 **A Somewhat Strange "Person":** Races that by nature pursue power are bound by the very power that all too clearly orders their societies.
 
-**A Somewhat Strange "Person":** After the Pyro {RUBY#[D]Xiuhcoatl} Dragon's faked death, all that the descendants of the ancients knew was to kowtow before the throne, watching our civilization deteriorate by the day, marching inexorably towards decline.
+**A Somewhat Strange "Person":** After the Pyro Xiuhcoatl Dragon's faked death, all that the descendants of the ancients knew was to kowtow before the throne, watching our civilization deteriorate by the day, marching inexorably towards decline.
 
 **A Somewhat Strange "Person":** Our race had reached a dead end. But I found new hope for myself within humanity.
 
@@ -1864,7 +1864,7 @@ More like horrendous...
 
 **A Somewhat Strange "Person":** Chosen of Dragons, hope resides within you. This is not the end. Take the token of the oath, and go unto the sacred mountain.
 
-**A Somewhat Strange "Person":** We shall meet again when all is done. And when that time comes, you shall be the one to decide matters, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**A Somewhat Strange "Person":** We shall meet again when all is done. And when that time comes, you shall be the one to decide matters, Little One.
 
 "This is not the end for you. Take that which is my part, and set off on your journey."
 
@@ -1894,9 +1894,9 @@ Yep.
 
 You recount what you witnessed within Och-Kan's mind to Paimon in the simplest way you can...
 
-**Paimon:** Huh!? You saw {REALNAME[ID(2)|SHOWHOST(true)]}, and there was some weird guy with him on the Tonatiuh?
+**Paimon:** Huh!? You saw Little One, and there was some weird guy with him on the Tonatiuh?
 
-**Paimon:** Uh oh. That might not be a memory, but something that's happening right now! {REALNAME[ID(2)|SHOWHOST(true)]} might be in danger...
+**Paimon:** Uh oh. That might not be a memory, but something that's happening right now! Little One might be in danger...
 
 **Paimon:** You claim he just said a bunch of weird things, but Paimon's still somewhat worried. Let's hurry back to the Tonatiuh and check things out.
 
@@ -1906,7 +1906,7 @@ But before that...
 
 **Paimon:** Based on what Och-Kan said, it has incredible uses, but it's also very dangerous and shouldn't be used lightly... We're going to have to tell Bona that.
 
-**Paimon:** But then, we can't give it to her either, can we? We'll have to take it to the volcano with {REALNAME[ID(2)|SHOWHOST(true)]}... Though we don't know what to do with it once we get there...
+**Paimon:** But then, we can't give it to her either, can we? We'll have to take it to the volcano with Little One... Though we don't know what to do with it once we get there...
 
 About Bona...
 
@@ -1926,7 +1926,7 @@ Let's head back to the Tonatiuh first. We can talk about this then.
 
 - **Traveler:** You've learned something too, Paimon.
 
-**Paimon:** Hey! Don't try to take on {REALNAME[ID(2)|SHOWHOST(true)]}'s role just because he's not around!
+**Paimon:** Hey! Don't try to take on Little One's role just because he's not around!
 
 **Paimon:** Hehe. In that case, let's head back to the Tonatiuh when you're ready.
 
@@ -1958,13 +1958,13 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 这里看着也不太结实。
 
-**派蒙:** 欸？你别吓我啊，一会要是真的掉下去的话，我一个人可拉不动你跟{REALNAME[ID(2)|SHOWHOST(true)]}两个！
+**派蒙:** 欸？你别吓我啊，一会要是真的掉下去的话，我一个人可拉不动你跟小家伙两个！
 
 **「绿松石」:** 叽咕…
 
 **派蒙:** 那就是天蛇船吗？我们成功啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 虽然与其说船还不如说是个大毛线球！看起来缠缠绕绕的，倒确实很像蛇呢。
 
@@ -1996,15 +1996,15 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 派蒙没资格说我吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
-**派蒙:** 嗯？{REALNAME[ID(2)|SHOWHOST(true)]}对这个有什么头绪吗？
+**派蒙:** 嗯？小家伙对这个有什么头绪吗？
 
-**派蒙:** 哇，{REALNAME[ID(2)|SHOWHOST(true)]}好厉害，看这样子说不定终于到了你大显身手的地方了呢。
+**派蒙:** 哇，小家伙好厉害，看这样子说不定终于到了你大显身手的地方了呢。
 
-**派蒙:** 接下来要是再发现什么烫烫的宝物，就都可以拜托{REALNAME[ID(2)|SHOWHOST(true)]}了！
+**派蒙:** 接下来要是再发现什么烫烫的宝物，就都可以拜托小家伙了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 噫，呀！
+**小家伙:** 噫，呀！
 
 **玻娜:** 喂！呀嚯，这里这里！
 
@@ -2018,11 +2018,11 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **玻娜:** 总之找火石的事情就拜托你们啦，有什么需要，随时招呼我就好了！
 
-**玻娜:** 总算找到你们了，旅行者、派蒙还有{REALNAME[ID(2)|SHOWHOST(true)]}。
+**玻娜:** 总算找到你们了，旅行者、派蒙还有小家伙。
 
 **派蒙:** 嘿嘿，玻娜，看到你没事真是太好了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **玻娜:** 嗯？小派蒙该不会是在担心我吧？不过放心啦，我可是花羽会的王牌冒险家。我的命很大的，才不会轻易丢掉呢。
 
@@ -2074,7 +2074,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **派蒙:** 如果说是线索的话，要不我们试试火磷石…呃，就算是这样，但我们也已经没有火磷石可用了吧。
 
-{REALNAME[ID(2)|SHOWHOST(true)]}不是正背着一个…
+小家伙不是正背着一个…
 
 **派蒙:** 对哦，我们刚才在路上正好捡到了这个…
 
@@ -2112,9 +2112,9 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **玻娜:** 找火石的事情就拜托你们啦，要是你们去了别的浮岛过不来的话，招呼我一声就好。
 
-**派蒙:** 好吧，既然这样那拿火石的工作就拜托{REALNAME[ID(2)|SHOWHOST(true)]}了，我们一起出发吧。
+**派蒙:** 好吧，既然这样那拿火石的工作就拜托小家伙了，我们一起出发吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 收取「回还之玉」
 
@@ -2164,7 +2164,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **派蒙:** 等等，仔细一看的话，这个不就是「通牒金盘」嘛！和我们之前在石碑那里拿到的一样啊。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呀…
+**小家伙:** 呜呀…
 
 哇，竟然是这样！
 
@@ -2326,7 +2326,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **奥奇坎:** 还有你们的那个伙伴，那只小嵴锋龙…
 
-**奥奇坎:** 对，{REALNAME[ID(2)|SHOWHOST(true)]}，那孩子…它和我很像…
+**奥奇坎:** 对，小家伙，那孩子…它和我很像…
 
 **派蒙:** 嗯？你是指哪方面啦，感觉长相上差别倒还挺大的…
 
@@ -2350,7 +2350,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **派蒙:** 呃，好吧。反正我听下来，意思就是我们要把两枚信物一起带去火山对吧？
 
-**派蒙:** 看来，剩下的秘密只有和{REALNAME[ID(2)|SHOWHOST(true)]}一起去了火山才能搞清楚了。
+**派蒙:** 看来，剩下的秘密只有和小家伙一起去了火山才能搞清楚了。
 
 **奥奇坎:** 很抱歉，你们帮了我这么多，我却没办法回答你们的问题…不过倒是还有一个办法，或许可以找到答案…
 
@@ -2442,7 +2442,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **有些怪异的「人」:** 以追求强大为天性的种族，由于太过清楚彼此力量的阶序，反而因此被力量所束缚。
 
-**有些怪异的「人」:** 在火{RUBY#[D]修库特尔}龙假死之后，古龙的末裔们却只知匍匐在御座的脚下，坐视我们的文明日趋堕落，迈向不可挽回的螺旋。
+**有些怪异的「人」:** 在火修库特尔龙假死之后，古龙的末裔们却只知匍匐在御座的脚下，坐视我们的文明日趋堕落，迈向不可挽回的螺旋。
 
 **有些怪异的「人」:** 我们的种族走向了死胡同，而那时的我却在人类身上找到了新的希望。
 
@@ -2484,7 +2484,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **有些怪异的「人」:** 受龙所选者啊，希望在你的身上。这里还不是终点，带着誓约的信物，前往圣山吧。
 
-**有些怪异的「人」:** 我们还会在终点再见的。等到那个时候，便由你来做出决断吧，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**有些怪异的「人」:** 我们还会在终点再见的。等到那个时候，便由你来做出决断吧，小家伙。
 
 「对你来说，这里还不是终点，带着我的那一份，踏上旅途吧。」
 
@@ -2554,7 +2554,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **奥奇坎:** 那个「通牒金盘」…很重要。
 
-**派蒙:** 是啊，按之前曼科和我们说的，那是可以用来帮{REALNAME[ID(2)|SHOWHOST(true)]}治病的信物，但是玻娜又说这是什么能镇压深渊的宝物。
+**派蒙:** 是啊，按之前曼科和我们说的，那是可以用来帮小家伙治病的信物，但是玻娜又说这是什么能镇压深渊的宝物。
 
 **奥奇坎:** 那孩子说的没错，它的确能够镇压整个纳塔的深渊污秽…但却不是用你们想象的方式…所以我把它藏到了船上…
 
@@ -2562,9 +2562,9 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **奥奇坎:** 还有你们的那个伙伴，那只小嵴锋龙…
 
-**派蒙:** 你是说{REALNAME[ID(2)|SHOWHOST(true)]}吗？
+**派蒙:** 你是说小家伙吗？
 
-**奥奇坎:** 对，{REALNAME[ID(2)|SHOWHOST(true)]}，那孩子…它和我很像…
+**奥奇坎:** 对，小家伙，那孩子…它和我很像…
 
 **派蒙:** 嗯？你是指哪方面啦，感觉长相上差别倒还挺大的…
 
@@ -2584,7 +2584,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **派蒙:** 呃，好吧。反正我听下来，意思就是我们要把这两个信物带去火山对吧？
 
-**派蒙:** 看来，剩下的秘密只有和{REALNAME[ID(2)|SHOWHOST(true)]}去了火山才能搞清楚了。
+**派蒙:** 看来，剩下的秘密只有和小家伙去了火山才能搞清楚了。
 
 **奥奇坎:** 很抱歉，你们帮了我这么多，我却没办法回答你们的问题…不过倒是还有一个办法，或许可以找到答案…
 
@@ -2784,7 +2784,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **有些怪异的「人」:** 以追求强大为天性的种族，由于太过清楚彼此力量的阶序，反而因此被力量所束缚。
 
-**有些怪异的「人」:** 在火{RUBY#[D]修库特尔}龙假死之后，古龙的末裔们却只知匍匐在御座的脚下，坐视我们的文明日趋堕落，迈向不可挽回的螺旋。
+**有些怪异的「人」:** 在火修库特尔龙假死之后，古龙的末裔们却只知匍匐在御座的脚下，坐视我们的文明日趋堕落，迈向不可挽回的螺旋。
 
 **有些怪异的「人」:** 我们的种族走向了死胡同，而那时的我却在人类身上找到了新的希望。
 
@@ -2826,7 +2826,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **有些怪异的「人」:** 受龙所选者啊，希望在你的身上。这里还不是终点，带着誓约的信物，前往圣山吧。
 
-**有些怪异的「人」:** 我们还会在终点再见的。等到那个时候，便由你来做出决断吧，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**有些怪异的「人」:** 我们还会在终点再见的。等到那个时候，便由你来做出决断吧，小家伙。
 
 「对你来说，这里还不是终点，带着我的那一份，踏上旅途吧。」
 
@@ -2856,9 +2856,9 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 你将在奥奇坎的脑海里看到的记忆，用尽量好懂的方式告诉了派蒙…
 
-**派蒙:** 欸？！你说看到了{REALNAME[ID(2)|SHOWHOST(true)]}，然后还有个奇怪的家伙一起在天蛇船上？
+**派蒙:** 欸？！你说看到了小家伙，然后还有个奇怪的家伙一起在天蛇船上？
 
-**派蒙:** 呃啊，总感觉那不是什么记忆，就是正在发生的事情吧！{REALNAME[ID(2)|SHOWHOST(true)]}说不定有什么危险…
+**派蒙:** 呃啊，总感觉那不是什么记忆，就是正在发生的事情吧！小家伙说不定有什么危险…
 
 **派蒙:** 虽然你说他只是说了一堆奇怪的话，但还是有点担心，我们赶紧回天蛇船看看吧。
 
@@ -2868,7 +2868,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 **派蒙:** 按奥奇坎说的，虽然确实有不得了的用处，但是也相当危险，不能轻易使用…得把这个告诉玻娜。
 
-**派蒙:** 但是这样的话，我们也不能把它交给玻娜了吧，得和{REALNAME[ID(2)|SHOWHOST(true)]}一起把它带去火山才行？虽然也不知道到了火山之后要怎么办…
+**派蒙:** 但是这样的话，我们也不能把它交给玻娜了吧，得和小家伙一起把它带去火山才行？虽然也不知道到了火山之后要怎么办…
 
 关于玻娜…
 
@@ -2888,7 +2888,7 @@ According to Bona, you need to collect burning Firestones and offer them up to t
 
 - **旅行者:** 你也学到了，派蒙。
 
-**派蒙:** 喂，不要趁{REALNAME[ID(2)|SHOWHOST(true)]}不在就扮演它的角色啊！
+**派蒙:** 喂，不要趁小家伙不在就扮演它的角色啊！
 
 **派蒙:** 嘿嘿，那准备好了我们就回天蛇船吧。
 

@@ -3,19 +3,19 @@
 # title_ru: Сквозь тайное зеркало
 # title_en: Through the Looking Glass
 # title_zh: 穿过谜镜
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74140
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74140
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_74141
 # related_quests: quest_wq_74141,quest_wq_74142,quest_wq_74143
 # quest_chain: quest_wq_74140,quest_wq_74141,quest_wq_74142,quest_wq_74143
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

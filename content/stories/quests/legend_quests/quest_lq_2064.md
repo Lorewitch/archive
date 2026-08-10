@@ -11,7 +11,7 @@
 # chapter_num_en: Memories Flowing With Color: Act I
 # chapter_num_zh: 流淌着色彩的回忆  第一幕
 # part_source_ids: 15024
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2065
 # related_quests: quest_lq_2065,quest_lq_2066
 # quest_chain: quest_lq_2064,quest_lq_2065,quest_lq_2066

@@ -12,7 +12,7 @@
 # chapter_num_zh: 荒泷生命摇滚虹色大巡回·下
 # part_source_ids: 40158
 # previous_quests: quest_eq_10190
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10190
 # quest_chain: quest_eq_10190,quest_eq_10191
 # quest_series: Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness

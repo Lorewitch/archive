@@ -3,19 +3,19 @@
 # title_ru: Блюдо за пределами человеческих познаний
 # title_en: A Dish Beyond Mortal Ken
 # title_zh: 此菜不应人间有
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 71829
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71829
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71829
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -510,7 +510,7 @@ And all that practice, for...
 
 **江雪:** 也很擅长使剑，对吧？我平日里也观察过。
 
-**江雪:** 不如，就让{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}来试试做这道奇菜。
+**江雪:** 不如，就让空/荧来试试做这道奇菜。
 
 但掌柜的是让言笑…
 

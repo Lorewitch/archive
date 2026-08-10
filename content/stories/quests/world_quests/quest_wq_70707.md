@@ -3,19 +3,19 @@
 # title_ru: Букет Альфреда
 # title_en: Alfred's Bouquet
 # title_zh: 阿尔弗雷德的花束
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70707
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70707
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70707
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

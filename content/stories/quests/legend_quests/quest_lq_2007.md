@@ -3,7 +3,7 @@
 # title_ru: Кулинарный тур по Мондштадту
 # title_en: Mondstadt Gastronomy Trip
 # title_zh: 蒙德食遇之旅
-# region: Мондштадт, Ли Юэ
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0,1.2
 # source_id: 2007
@@ -11,11 +11,11 @@
 # chapter_num_en: Trulla Chapter: Act I
 # chapter_num_zh: 长杓之章 第一幕
 # part_source_ids: 11000,11001,11002,11003,11004,11005
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2007
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2283,6 +2283,10 @@ Where will you go now?
 **香菱:** 别这么想，烹饪是件很快乐的事，放轻松放轻松！
 
 **香菱:** 准备好，最后冲刺啦！
+
+#### 火腿
+
+**杜拉夫:** 蒙德与璃月的料理碰撞，想想就让人觉得兴奋。
 
 #### 烹饪「美味的翡玉什锦袋」
 

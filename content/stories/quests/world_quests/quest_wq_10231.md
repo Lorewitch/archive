@@ -7,15 +7,15 @@
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 10231
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75151
 # previous_quests: quest_wq_10230
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_75169,quest_wq_10240,quest_wq_10230
 # quest_chain: quest_wq_75169,quest_wq_10240,quest_wq_10230,quest_wq_10231
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -30,13 +30,13 @@
 
 **Кукулькан:** Тем не менее ты меня удивляешь... Я не ожидал, что ты сможешь использовать силу крови до такой степени даже без истинного наставления...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ?
+**Малыш:** ?
 
 **Кукулькан:** Прими наставление истинного Священного пламени, позволь силе управлять твоим телом, а не просто будь её носителем.
 
 **Кукулькан:** Давай же!
 
-**Кукулькан:** Я так долго тебя ждал, Избранник{RUBY#[D]потомок драконов, который пошёл против пламени и вернулся} драконов.
+**Кукулькан:** Я так долго тебя ждал, Избранникпотомок драконов, который пошёл против пламени и вернулся драконов.
 
 По мере того как свет плывёт вокруг вас, бушующая сила внутри вашего тела словно циркулирует, подчиняясь постоянно меняющемуся циклу.
 Ваше тело словно приспосабливается к изменению...
@@ -51,7 +51,7 @@
 
 Сейчас же выдвигаемся!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Паймон:** Хе-хе, не волнуйся. Пошли!
 
@@ -65,7 +65,7 @@
 
 **Кукулькан:** Если бы они узнали, то мой план не сработал бы.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** На «Тонатиу»...
+**Малыш:** На «Тонатиу»...
 
 **Кукулькан:** Именно там я хранил Золотое прошение, и ещё здесь.
 
@@ -95,9 +95,9 @@
 
 **Кукулькан:** Какой выбор сделаешь?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Я?
+**Малыш:** Я?
 
-**Кукулькан:** Да, Избранник{RUBY#[D]потомок драконов, который пошёл против пламени и вернулся} драконов. Я хочу услышать твой ответ.
+**Кукулькан:** Да, Избранникпотомок драконов, который пошёл против пламени и вернулся драконов. Я хочу услышать твой ответ.
 
 #### Идите вперёд и исследуйте
 
@@ -151,7 +151,7 @@
 
 **Кукулькан:** «Это предзнаменование новой жизни, а также последнее прошение».
 
-**Кукулькан:** Начало процесса запуска. Три раунда подтверждений потребуются для активации или деактивации сметающего н{RUBY#[D]солнцетрясение}ебесного огня...
+**Кукулькан:** Начало процесса запуска. Три раунда подтверждений потребуются для активации или деактивации сметающего нсолнцетрясениеебесного огня...
 
 **Кукулькан:** Первое подтверждение. Вы уверены, что хотите активировать Уицилопочтли?
 
@@ -161,15 +161,15 @@
 
 **Паймон:** И мы бежали изо всех сил только из-за этого?!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Не то чтобы ты бежал - мы схватили тебя и бежали с тобой... И всё же ты нас здорово напугал, упав в обморок после боя! Ты всё ещё плохо себя чувствуешь?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Худшее, похоже, позади.
 
-**Паймон:** Хм, а что, благословение Повелителя огня исчезло? {REALNAME[ID(2)|SHOWHOST(true)]} всё ещё с отметиной на голове...
+**Паймон:** Хм, а что, благословение Повелителя огня исчезло? Малыш всё ещё с отметиной на голове...
 
 (Протянуть руку к детёнышу тепетлизавра...)
 
@@ -178,7 +178,7 @@
 Огненная отметка потухла и остыла.
 Очевидно, силы, скрывавшиеся в ней, исчезли.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ты был как будто поумнее, когда был больше...
 
@@ -192,7 +192,7 @@
 
 **Паймон:** Но после стольких приключений Паймон проголодалась... Хочется поесть пламенное тушёное мясо или тортик...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Гр-р, мр-р-р... Р-р-р! Р-р-р!
+**Малыш:** Р-р-р? Гр-р, мр-р-р... Р-р-р! Р-р-р!
 
 **Паймон:** То есть ты хочешь съесть и то, и другое? Заврианчик - обжорка!
 
@@ -204,9 +204,9 @@
 
 **Кукулькан:** Думаю, это второй раз, когда я встречаю тебя в таком обличье.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Кхе-кхе... Ой, это мой голос?
+**Малыш:** Р-р... Кхе-кхе... Ой, это мой голос?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Моё тело...
+**Малыш:** Моё тело...
 
 **Кукулькан:** Ты преобразился во взрослого дракона после того, как твоя мощь была правильно направлена. В противном случае эта дикая сила исказила бы твою форму.
 
@@ -218,7 +218,7 @@
 
 **Кукулькан:** Шиукоатль не хотел этого признавать, но знак на роге - это доказательство... Поначалу Повелитель Пиро драконов именно через свой рог передавал свет пламени и мудрость.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Значит, ты соврал о снятии благословения...
+**Малыш:** Значит, ты соврал о снятии благословения...
 
 **Кукулькан:** У меня есть свои причины. Если неправильно направить эту беспорядочную силу, она действительно убьёт большинство заврианов, у которых есть благословение.
 
@@ -230,7 +230,7 @@
 
 **Кукулькан:** ...Но позже ты поймёшь. У меня не было иного выбора.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Значит, Избранник драконов...
+**Малыш:** Значит, Избранник драконов...
 
 **Кукулькан:** ...подразумевает и избранного дракона, и избранного человека, который привёл дракона сюда.
 
@@ -238,7 +238,7 @@
 
 **Паймон:** Никому, кроме тебя, не дано пройти по последнему пути.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** (Ой, эта фраза так резонирует у меня в голове... Почему?)
+**Малыш:** (Ой, эта фраза так резонирует у меня в голове... Почему?)
 
 **Кукулькан:** Ладно, теперь ты знаешь, как говорят потомки драконов. Это совсем не похоже на грубый рёв заврианов Натлана...
 
@@ -250,27 +250,27 @@
 
 - **Путешественник:** Как мне к тебе обращаться?.. Кукулькан?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ты... Мудрец украденного пламени?
+**Малыш:** Ты... Мудрец украденного пламени?
 
 **Кукулькан:** Так меня назвали люди... Вашаклахун Уба Кан тоже одно из многих имён, созданных мной.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Как мне к тебе обращаться?.. Кукулькан?
+**Малыш:** Как мне к тебе обращаться?.. Кукулькан?
 
 **Кукулькан:** Это моё первое имя, а также имя, которое связывало «меня». Но потом, по мере удлинения списка моих имён, это имя значило всё меньше и меньше...
 
 **Кукулькан:** Кукулькан... Неважно. Хотя все имена скоро утратят смысл, но пока можешь звать меня так.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** (Кажется, я о чём-то забыл... о чём-то очень важном...)
+**Малыш:** (Кажется, я о чём-то забыл... о чём-то очень важном...)
 
 **Кукулькан:** Озадачен? Когда ты снова обретаешь мудрость, тебя затапливает море информации. Вполне естественно испытывать растерянность.
 
 **Кукулькан:** Или, чтобы успокоить тебя, я могу принять более знакомую тебе форму...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Гр-р-ру...
+**Малыш:** Гр-р-ру...
 
 **Кукулькан:** Ну, что скажешь? Весьма удобно, не так ли? Если захочешь, то овладеешь нашим искусством трансформации, стоит только подумать... хотя потребуется помощь нескольких маленьких душ.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Нет, я вполне доволен собой.
+**Малыш:** Нет, я вполне доволен собой.
 
 **Кукулькан:** «Простите меня за дерзость...» Так начинается история. Давайте же приступим.
 
@@ -298,7 +298,7 @@
 
 **Кукулькан:** По правде говоря, в последние дни он опять впал в состояние, которое ничем не отличалось от ложной смерти. А вся его раса превратилась в болтливых глупцов...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...
+**Малыш:** ...
 
 **Кукулькан:** Теперь ты обладаешь истинной мудростью. Ты наверняка понимаешь разницу между тем, кем был в прошлом, и тем, кем являешься сейчас.
 
@@ -306,11 +306,11 @@
 
 **Кукулькан:** ...и в конечном счёте Уицилопочтли.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Что такое Уицилопочтли?
+**Малыш:** Что такое Уицилопочтли?
 
 **Кукулькан:** Массив флогистонизации Натлана... То есть устройство, способное превратить весь Натлан в «землю, состоящую только из флогистоновой материи».
 
-**Кукулькан:** Флогистон - это атом, на который можно записать информацию, и сам по себе он является формой «компьютрониума» - элемента, который плетени{RUBY#[D]радужные надписи}е языка может использовать для имитации всего сущего.
+**Кукулькан:** Флогистон - это атом, на который можно записать информацию, и сам по себе он является формой «компьютрониума» - элемента, который плетенирадужные надписие языка может использовать для имитации всего сущего.
 
 **Кукулькан:** Вот почему флогистон может стабильно существовать в различных формах и даже преобразовываться из одной формы в другую. Это также причина, по которой вы видели фантомы ремонтных механизмов в Зале заседаний.
 
@@ -322,7 +322,7 @@
 
 **Кукулькан:** В будущем Бездна больше никогда не сможет даже увидеть эту страну.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Но жизни Натлана...
+**Малыш:** Но жизни Натлана...
 
 **Кукулькан:** Их либо уничтожит Уицилопочтли, либо они могут отказаться от своих тел и стать формами жизни, основанными на флогистоне...
 
@@ -330,7 +330,7 @@
 
 **Кукулькан:** И тогда драконы, отрёкшиеся от тел, ставшие флогистоновыми формами жизни, будут повелевать этим новым миром.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Какой ужас...
+**Малыш:** Какой ужас...
 
 **Кукулькан:** И я так подумал, когда впервые узнал об этом плане...
 
@@ -340,11 +340,11 @@
 
 **Кукулькан:** Так что... я искал другой способ... Может быть, мне стоит сменить облик для этого сегмента?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Бона...
+**Малыш:** Бона...
 
 **Кукулькан:** Как тебе такое? Невероятно, правда? Всё это возможно благодаря простым манипуляциям с флогистоном с помощью радужных надписей.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Кажется, меня сейчас стошнит...
+**Малыш:** Кажется, меня сейчас стошнит...
 
 **Кукулькан:** Ха-ха-ха, интересная реакция... Ладно, теперь мы отправляемся на «Тонатиу», чтобы найти Нефрит Возвращения, который уже не существует.
 
@@ -358,7 +358,7 @@
 
 **Кукулькан:** Обнаружено сильное повышение температуры.
 
-**Кукулькан:** Третье подтверждение. Вы уверены, что хотите активировать Уицил{RUBY#[D]солнцетрясение}опочтли?
+**Кукулькан:** Третье подтверждение. Вы уверены, что хотите активировать Уицилсолнцетрясениеопочтли?
 
 **Кукулькан:** «Тонатиу» - прекрасное название... До того как ложный небесный свод закрыл мир, город, лежавший под ним, мог соперничать с самим Толланом.
 
@@ -374,7 +374,7 @@
 
 **Кукулькан:** ...И, наконец, мы даже смогли бы позволить потомкам драконов ещё раз взглянуть на истину за небесами.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Но ты потерпел поражение.
+**Малыш:** Но ты потерпел поражение.
 
 **Кукулькан:** Да, в сравнении с могуществом и однообразностью душ драконов человеческие души слишком разные, и большая часть из них слишком слаба.
 
@@ -386,7 +386,7 @@
 
 **Кукулькан:** И вот фантазия стала реальностью, когда Шбаланке воспользовался уязвимостью Шиукоатля и убил его.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Уязвимость?
+**Малыш:** Уязвимость?
 
 **Кукулькан:** Шиукоатль был властелином первого пламени, властелином света, тепла и мудрости. Он властвовал над Первозданным огнём и даже мог сливаться с ним.
 
@@ -398,7 +398,7 @@
 
 **Кукулькан:** И так Шбаланке погиб вместе с ним.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Они погибли вместе?
+**Малыш:** Они погибли вместе?
 
 **Кукулькан:** Да. Шбаланке, несомненно, был убит в то время... Но потом он возродился и стал так называемым богом огня, Пиро Архонтом.
 
@@ -518,9 +518,9 @@
 
 **Паймон:** Что? Ничего не произошло... или ты нас спас?
 
-{REALNAME[ID(2)|SHOWHOST(true)]}?
+Малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ммм... Р-р!
+**Малыш:** Ммм... Р-р!
 
 **Паймон:** А? Раз ты так вырос, значит, ты выздоровел?
 
@@ -534,7 +534,7 @@
 
 Возможно, нам следует подготовиться.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-рур...
+**Малыш:** Р-р-рур...
 
 **Паймон:** Точно...
 
@@ -550,7 +550,7 @@
 
 **Паймон:** Хе-хе! Наконец-то всё!
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]} так вырос и теперь в полном порядке...
+**Паймон:** Малыш так вырос и теперь в полном порядке...
 
 **Паймон:** Вероятно, лишь в бою можно было снять проклятие крови.
 
@@ -560,13 +560,13 @@
 
 - **Путешественник:** Малыш, ты его видел?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ?
+**Малыш:** ?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Увр-р-р...
+**Малыш:** Увр-р-р...
 
 **Паймон:** Что с тобой? Ты ранен?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Гр-р-ру...
+**Малыш:** Гр-р-ру...
 
 **Паймон:** Избранник драконов, я выбираю тебя...
 
@@ -578,13 +578,13 @@
 
 ...
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}, ты в порядке?
+**Паймон:** Малыш, ты в порядке?
 
 **Паймон:** И даже вернулся к обычному размеру?
 
 **Паймон:** Ой-ой-ой, здесь всё трясётся! Неужели сейчас произойдёт извержение вулкана?
 
-{REALNAME[ID(2)|SHOWHOST(true)]}! Вынесем его!
+Малыш! Вынесем его!
 
 **Паймон:** О, и надо не забыть шарфик!
 
@@ -624,13 +624,13 @@ To enter the Heart of the Sacred Mountain, one need only offer up two Golden Ent
 
 **Kukulkan:** Even so, you surprise me... I did not expect that you could use the power within your blood to such an extent without having received the proper guidance...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...?
+**Little One:** ...?
 
 **Kukulkan:** Come, accept the guidance of the true Sacred Flame. Let the power bear you up, rather than use your body to bear this power.
 
 **Kukulkan:** Come forth—
 
-**Kukulkan:** Long have I awaited you, Chosen o{RUBY#[D]Dragonborn Who Braved the Flame and Returned}f Dragons.
+**Kukulkan:** Long have I awaited you, Chosen oDragonborn Who Braved the Flame and Returnedf Dragons.
 
 As the light floats around you, the rampaging power within your body seems to circulate, submitting to some ever-shifting cycle.
 Your body seems to adapt to this change...
@@ -645,7 +645,7 @@ The speaker's voice seems immeasurably distant, and after that, both your body a
 
 Yeah, not a moment to lose!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrah... Rawr!
+**Little One:** Rrah... Rawr!
 
 **Paimon:** Hehe, don't you worry. C'mon, let's go!
 
@@ -659,7 +659,7 @@ Yeah, not a moment to lose!
 
 **Kukulkan:** Had they found out, my plans now would have been rendered impossible.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** On Tonatiuh...
+**Little One:** On Tonatiuh...
 
 **Kukulkan:** A place where I stored the Golden Entreaty, alongside this place.
 
@@ -689,9 +689,9 @@ Yeah, not a moment to lose!
 
 **Kukulkan:** Let me witness your choice.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Mine?
+**Little One:** Mine?
 
-**Kukulkan:** Yes, Chosen o{RUBY#[D]Dragonborn Who Braved the Flame and Returned}f Dragons. I would hear your answer.
+**Kukulkan:** Yes, Chosen oDragonborn Who Braved the Flame and Returnedf Dragons. I would hear your answer.
 
 #### Explore up ahead
 
@@ -745,7 +745,7 @@ Yeah, not a moment to lose!
 
 **Kukulkan:** "This is an omen of new life, and also the final entreaty"—
 
-**Kukulkan:** Entering trigger sequence. Three rounds of confirmations will be required to either activate or deactivate the Sweeping{RUBY#[D]Sunquake} Skyfire...
+**Kukulkan:** Entering trigger sequence. Three rounds of confirmations will be required to either activate or deactivate the SweepingSunquake Skyfire...
 
 **Kukulkan:** First confirmation. Are you certain that you wish to activate Huitzilopochtli?
 
@@ -755,15 +755,15 @@ Yeah, not a moment to lose!
 
 **Paimon:** We ran ourselves silly just for that!?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 **Paimon:** Not that you had to run — we grabbed you and booked it... Still, you gave us quite the fright, fainting the way you did after the battle! Are you still feeling unwell?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Hehe, sure sounds like the worst is over.
 
-**Paimon:** Anyway, so, is that Flamelord's Blessing gone now? But {REALNAME[ID(2)|SHOWHOST(true)]} still has that mark on his head...
+**Paimon:** Anyway, so, is that Flamelord's Blessing gone now? But Little One still has that mark on his head...
 
 (Reach out to the little Tepetlisaurus...)
 
@@ -772,7 +772,7 @@ As you reach out your hand, he stands up straight on his hind legs, rubbing his 
 The mark, red as flame itself, has dimmed and cooled, no longer concealing that faint warmth.
 It seems that whatever power it once had is gone now.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Paimon can't help but feel like you were a bit smarter while you were bigger just now...
 
@@ -786,7 +786,7 @@ True, but he's *our* silly little guy. I like him just the way he is.
 
 **Paimon:** All this adventuring's made Paimon hungry, though... Should we go get some Blazed Meat Stew, or maybe a little cake...?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr? ...Grooar, mrrraa... Rawr! Rawr!
+**Little One:** Rawr? ...Grooar, mrrraa... Rawr! Rawr!
 
 **Paimon:** You wanna eat both? Pfft, you greedy little saurian!
 
@@ -798,9 +798,9 @@ True, but he's *our* silly little guy. I like him just the way he is.
 
 **Kukulkan:** I believe this is the second time I have formally met you in this form.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ra... *cough* Wait. My voice is...?
+**Little One:** Ra... *cough* Wait. My voice is...?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** And my body, too...
+**Little One:** And my body, too...
 
 **Kukulkan:** You have briefly achieved the form of a "mature dragon" after your power was channeled with the proper guidance. Were that not the case, that savage strength would have warped your form.
 
@@ -812,7 +812,7 @@ True, but he's *our* silly little guy. I like him just the way he is.
 
 **Kukulkan:** That which Xiuhcoatl would not admit, the mark on one's horn would prove... For in the beginning, it was through his horn that the Pyro Dragon Sovereign first transmitted flaming light and wisdom.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** So the removal of the Blessing was a lie you made up...
+**Little One:** So the removal of the Blessing was a lie you made up...
 
 **Kukulkan:** Only one of omission. If not guided correctly, this disordered power would indeed kill most saurians who bear the Blessing.
 
@@ -824,7 +824,7 @@ True, but he's *our* silly little guy. I like him just the way he is.
 
 **Kukulkan:** ...But you will understand, in time, that I no longer had any other choice.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** So, the so-called Chosen of Dragons...
+**Little One:** So, the so-called Chosen of Dragons...
 
 **Kukulkan:** Refers to both the chosen dragon, and the chosen human who brings the dragon here.
 
@@ -832,7 +832,7 @@ True, but he's *our* silly little guy. I like him just the way he is.
 
 **Paimon:** Now, only you can tread the final path.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** (Huh? Wait a minute, those words... They ring in my head... Why?)
+**Little One:** (Huh? Wait a minute, those words... They ring in my head... Why?)
 
 **Kukulkan:** Now, you have mastered the way Dragonborn speak — a distant thing, indeed, from the brute cries of Natlan's saurian-kind...
 
@@ -844,27 +844,27 @@ True, but he's *our* silly little guy. I like him just the way he is.
 
 - **Traveler:** So, what should I call you... Kukulkan, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** You're... the Sage of the Stolen Flame?
+**Little One:** You're... the Sage of the Stolen Flame?
 
 **Kukulkan:** That is what the humans named me... Waxaklahun Ubah Kan, too, is also one of the many names I created.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** So, what should I call you... Kukulkan, then?
+**Little One:** So, what should I call you... Kukulkan, then?
 
 **Kukulkan:** That was the first of my names, and also the one that bound "me" most tightly. Later, however, as my list of names grew, it grew to be insignificant...
 
 **Kukulkan:** But "Kukulkan" was... Ah, forget it. Though all names will very soon become meaningless, you may simply call me that for now.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** (Hmm... Strange. I feel like I've forgotten something very important...)
+**Little One:** (Hmm... Strange. I feel like I've forgotten something very important...)
 
 **Kukulkan:** Confused? Well, it is quite normal to, after having re-attained wisdom, be flooded by the sea of information.
 
 **Kukulkan:** But if you'd like me to assuage your discomfort, allow me to change into a form you'll find more familiar...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Kukulkan:** Well, what do you think? Quite convenient, no? Should you desire it, our transformative arts will reveal themselves to you with but a thought... though you will require the help of some little souls too.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** It's fine. I'm happy the way "I" am.
+**Little One:** It's fine. I'm happy the way "I" am.
 
 **Kukulkan:** Fair enough. "Forgive me for being presumptuous"... That is how the story began, no? In that case, let us start this way, too.
 
@@ -892,7 +892,7 @@ Confirm activation.
 
 **Kukulkan:** In truth, in his final days, he may as well have restarted his false death, for all the difference it made. All the while, his entire race had become a gaggle of squawking fools...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...
+**Little One:** ...
 
 **Kukulkan:** Now that you possess true wisdom, I have little doubt that you, too, understand how it feels to be a changed being.
 
@@ -900,11 +900,11 @@ Confirm activation.
 
 **Kukulkan:** And finally, Huitzilopochtli.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** What is Huitzilopochtli?
+**Little One:** What is Huitzilopochtli?
 
 **Kukulkan:** The Natlan Phlogistonization Array... That is to say, a device that can transform all Natlan into "a land of only phlogiston, or only of matter comprised of phlogiston."
 
-**Kukulkan:** Phlogiston is an atom upon which information may be transcribed, and is itself a form of "computronium" — an element that can be used to imitate the essence of any and all things through the weaving of{RUBY#[D]Iridescent Inscriptions} language.
+**Kukulkan:** Phlogiston is an atom upon which information may be transcribed, and is itself a form of "computronium" — an element that can be used to imitate the essence of any and all things through the weaving ofIridescent Inscriptions language.
 
 **Kukulkan:** This is why phlogiston can take on different forms and even switch between them, and this is also why you could see phantoms at the repair mechanisms in the Chamber of Deliberation.
 
@@ -916,7 +916,7 @@ Confirm activation.
 
 **Kukulkan:** The Abyss shall never again be allowed even to gaze upon this realm.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** But, all the lives in Natlan...
+**Little One:** But, all the lives in Natlan...
 
 **Kukulkan:** They will die by Huitzilopochtli's hand, or they can forsake their bodies and become pure phlogiston-based lifeforms...
 
@@ -924,7 +924,7 @@ Confirm activation.
 
 **Kukulkan:** At that time, those dragons who have discarded their bodies and become phlogiston lifeforms shall become the rulers of the "new world."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** That's... terrifying...
+**Little One:** That's... terrifying...
 
 **Kukulkan:** So I thought, too, when this plan was first revealed to me...
 
@@ -934,11 +934,11 @@ Confirm activation.
 
 **Kukulkan:** So, I sought another path... Hmm, perhaps I should don another guise for this bit?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Bona...
+**Little One:** Bona...
 
 **Kukulkan:** Well, what do you think? Quite fascinating, no? Things such as this are easily possible through proper phlogiston manipulation via Iridescent Inscriptions.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** I... kinda want to puke...
+**Little One:** I... kinda want to puke...
 
 **Kukulkan:** Hahaha, what an interesting response... Alright, now, let's head to Tonatiuh to search for that now non-existent Jade of Return, shall we?
 
@@ -952,7 +952,7 @@ Confirm activation.
 
 **Kukulkan:** High ambient heat detected.
 
-**Kukulkan:** Third confirmation. Are you certain that you wish to activate Huitzi{RUBY#[D]Sunquake}lopochtli?
+**Kukulkan:** Third confirmation. Are you certain that you wish to activate HuitziSunquakelopochtli?
 
 **Kukulkan:** Ah, Tonatiuh... Now that is a fine name. Before the false sky enveloped the world, the city that lay beneath it could have rivaled Tollan itself.
 
@@ -968,7 +968,7 @@ Confirm activation.
 
 **Kukulkan:** ...And perhaps even allow the Dragonborn the right to once more glimpse truth beyond the skies.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** But you failed.
+**Little One:** But you failed.
 
 **Kukulkan:** Indeed. Compared to the dragons, whose souls are more powerful and more uniform, the individual variation among human souls is far too great — and most of them are too fragile anyway.
 
@@ -980,7 +980,7 @@ Confirm activation.
 
 **Kukulkan:** And such a fantasy came true once, when Xbalanque seized upon Xiuhcoatl's weak point and slew him.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** A weak point, you say?
+**Little One:** A weak point, you say?
 
 **Kukulkan:** Xiuhcoatl was the master of the first flame, wielder of all light, heat, and wisdom. He controlled the primal flame, and could even plunge his entire body into it.
 
@@ -992,7 +992,7 @@ Confirm activation.
 
 **Kukulkan:** That is how Xbalanque was able to take him down alongside himself.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wait, they died together?
+**Little One:** Wait, they died together?
 
 **Kukulkan:** Yes. Xbalanque was undoubtedly slain at that time... But he was reborn then, and thus became the so-called god of fire, the Pyro Archon.
 
@@ -1112,9 +1112,9 @@ If there isn't a way back to them...
 
 **Paimon:** H... Huh? Nothing happened? Wait, no — did you save us?
 
-{REALNAME[ID(2)|SHOWHOST(true)]}?
+Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ermm? ... Rawr!
+**Little One:** Ermm? ... Rawr!
 
 **Paimon:** Uh, if you've grown this big, does that mean that you've recovered?
 
@@ -1128,7 +1128,7 @@ If there isn't a way back to them...
 
 Perhaps we should prepare a bit first.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrroar...
+**Little One:** Rrroar...
 
 **Paimon:** Oh, good point...
 
@@ -1144,7 +1144,7 @@ The curse has been lifted.
 
 **Paimon:** Hehe, guess it's finally over.
 
-**Paimon:** Paimon was gonna say, for you to have grown up this big and yet still be safe, {REALNAME[ID(2)|SHOWHOST(true)]}...
+**Paimon:** Paimon was gonna say, for you to have grown up this big and yet still be safe, Little One...
 
 **Paimon:** Could it be that fighting was just what was needed to remove the bloodline curse?
 
@@ -1154,13 +1154,13 @@ The curse has been lifted.
 
 - **Traveler:** Did you see him, little guy?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ?
+**Little One:** ?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Uworrgh...
+**Little One:** Uworrgh...
 
 **Paimon:** Wait, what's wrong? Were you hurt during the battle?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Paimon:** Chosen of Dragons, I chose you... after much deliberation...
 
@@ -1172,13 +1172,13 @@ The curse has been lifted.
 
 ...
 
-**Paimon:** Hey, {REALNAME[ID(2)|SHOWHOST(true)]}, what's gotten into you...
+**Paimon:** Hey, Little One, what's gotten into you...
 
 **Paimon:** And... Hey, you're back to your normal size!
 
 **Paimon:** Uh-oh, this whole place is shaking. Is the volcano about to blow?
 
-Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
+Let's get Little One out first!
 
 **Paimon:** Right — whoops, can't forget his scarf!
 
@@ -1218,13 +1218,13 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 尽管如此，在没有正确引导的情况下能够将血脉里的力量激发到如此的程度…还真是令人感到惊讶…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ……？
+**小家伙:** ……？
 
 **库库尔坎:** 来吧，接受真正的圣火的指引吧，让力量承载你的躯体，而非利用你的躯体去承载这些力量。
 
 **库库尔坎:** 来吧——
 
-**库库尔坎:** 我已等待你许久，「受龙所{RUBY#[D]溯火而归的龙裔}选者」。
+**库库尔坎:** 我已等待你许久，「受龙所溯火而归的龙裔选者」。
 
 那是随着周身浮起光亮时感受到的，体内狂躁的力量仿佛顺从着某种不断变化的循环开始流转。
 身躯仿佛在适应这种改变…
@@ -1239,7 +1239,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 嗯，现在就出发吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…呀！
+**小家伙:** 唔…呀！
 
 **派蒙:** 嘿嘿，不用担心，来，出发吧！
 
@@ -1253,7 +1253,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 如果他们能够发现，那今日的计划也根本不能成功。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 在「天蛇船」…
+**小家伙:** 在「天蛇船」…
 
 **库库尔坎:** 我存放「通牒金盘」的地方，还有这里。
 
@@ -1283,9 +1283,9 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 让我看看你的决断…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 我？
+**小家伙:** 我？
 
-**库库尔坎:** 对，让我看看「受龙所{RUBY#[D]溯火而归的龙裔}选者」，你的答案吧。
+**库库尔坎:** 对，让我看看「受龙所溯火而归的龙裔选者」，你的答案吧。
 
 #### 向前探索
 
@@ -1339,7 +1339,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 「此为新生的预兆，亦是最后的通牒」——
 
-**库库尔坎:** 进入发生程序，即将经过三重确认，以启动或停止「天火{RUBY#[D]太阳震}之荡」…
+**库库尔坎:** 进入发生程序，即将经过三重确认，以启动或停止「天火太阳震之荡」…
 
 **库库尔坎:** 第一重确认，请问，确认启动「维奇洛波奇特利」吗？
 
@@ -1349,15 +1349,15 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **派蒙:** 还害得我们跑得一身是汗！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀？
+**小家伙:** 呀？
 
 **派蒙:** 你是没有跑啦，是我们一路抱着你出来的…不过，刚才在战斗后突然晕倒，吓了我们一跳，现在还觉得难受吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀!
+**小家伙:** 呀!
 
 **派蒙:** 嘿嘿，看来似乎没有什么问题了。
 
-**派蒙:** 唔，那个什么「焰主之祝」没有了吗，明明…{REALNAME[ID(2)|SHOWHOST(true)]}的头上还有印记。
+**派蒙:** 唔，那个什么「焰主之祝」没有了吗，明明…小家伙的头上还有印记。
 
 （向着小嵴锋龙伸出手…）
 
@@ -1366,7 +1366,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 那红色如焰的印记已然黯淡，冷却，不再如从前那样潜藏着隐约的温度。
 显然，那印记之后已不再有丝毫的力量。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 总觉得你是不是在刚才变大的时候稍微聪明一些…
 
@@ -1380,7 +1380,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **派蒙:** 不过，冒险了那么久，肚子都饿了…到底是去吃火焰炖肉，还是吃小蛋糕好呢…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀？…唔唔嗯…呀！呀！
+**小家伙:** 呀？…唔唔嗯…呀！呀！
 
 **派蒙:** 想要两个都吃的意思吗，好贪心哦！
 
@@ -1392,9 +1392,9 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 这应该是第二次以这种形象正式与你见面了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…咳咳…咦，我的声音？
+**小家伙:** 呀…咳咳…咦，我的声音？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 还有，我的身躯…
+**小家伙:** 还有，我的身躯…
 
 **库库尔坎:** 是力量受到正确引导后，令你短暂拥有的「成熟之龙」的形态。如若不然，狰狞的力量会让你的形体发生畸变。
 
@@ -1406,7 +1406,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 即使修库特尔不愿意承认，出现在角上的印记也是证明…因为火龙之王最初以角传递焰光与智慧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 所以去除「焰主之祝」是你的谎言…
+**小家伙:** 所以去除「焰主之祝」是你的谎言…
 
 **库库尔坎:** 有所保留而已。如果不受到正确引导，无序的力量确实会杀死大部分有「焰主之祝」的龙。
 
@@ -1418,7 +1418,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** …不过你之后会明白的，时至今日，我已别无选择。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 所以受龙所选者…
+**小家伙:** 所以受龙所选者…
 
 **库库尔坎:** 是选定之龙，也是将龙带来此处的被选定的人。
 
@@ -1426,7 +1426,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **派蒙:** 现在，踏上最终之路的只有你自己了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** （咦，这句话在脑子里嗡嗡作响…为、为什么？）
+**小家伙:** （咦，这句话在脑子里嗡嗡作响…为、为什么？）
 
 **库库尔坎:** 好了，龙裔驱使语言的方式你已通晓，那是有别于现在纳塔龙众粗糙叫声的东西…
 
@@ -1438,27 +1438,27 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 - **旅行者:** 该如何称呼你…库库尔坎？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 你是…盗火贤者？
+**小家伙:** 你是…盗火贤者？
 
 **库库尔坎:** 那是人类取的称号…瓦萨克拉胡巴肯，那也只是我幻化的诸多名字之一。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 该如何称呼你…库库尔坎？
+**小家伙:** 该如何称呼你…库库尔坎？
 
 **库库尔坎:** 那是我最原初的名字，也是那个对「我」的束缚最强的名字，但是后来我拥有的名字逐日增多，这个名字的效用也显得无足轻重…
 
 **库库尔坎:** 库库尔坎…算了，虽然，一切的名字在很短的时间之后就会失去效用，不过现在，你就先这样称呼我吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** （唔…奇怪，感觉忘记了很重要的东西…）
+**小家伙:** （唔…奇怪，感觉忘记了很重要的东西…）
 
 **库库尔坎:** 感到迷惑吗，重新获得智慧时，自我会被淹没在如海的信息之中，感受到迷茫是正常的。
 
 **库库尔坎:** 或者，为了打消你的不安，我就变作你熟悉些的形象好了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **库库尔坎:** 怎么样，挺方便的不是吗，如果你愿意的话，只需一个念头，转换身形的方法就会浮现在你脑中…虽然要借助一些小小的灵魂。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 不用了，我对「自己」很满意。
+**小家伙:** 不用了，我对「自己」很满意。
 
 **库库尔坎:** 好吧，「恕我僭越」…故事就是这么开始的，那我们也这样开始吧。
 
@@ -1486,7 +1486,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 事实上，最后的时日里，他与重新假死亦无任何区别。而，一众的族裔已经变成了只会呀呀作声的蠢货…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ……
+**小家伙:** ……
 
 **库库尔坎:** 如今你拥有了真正的智慧，过往的自己和现在的自己的区别，你自己应该也有所体会。
 
@@ -1494,11 +1494,11 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 然后是「维奇洛波奇特利」。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 「维奇洛波奇特利」究竟是什么?
+**小家伙:** 「维奇洛波奇特利」究竟是什么?
 
 **库库尔坎:** 纳塔全境燃素化装置…是让整个纳塔变成「只有燃素、或只有燃素构成的物质的地方」的机关。
 
-**库库尔坎:** 燃素是能够记录信息的原子，本质上是一种「计算素」。是只要用语言{RUBY#[D]镌光铭印}编织，就能够模拟任何事物的基质。
+**库库尔坎:** 燃素是能够记录信息的原子，本质上是一种「计算素」。是只要用语言镌光铭印编织，就能够模拟任何事物的基质。
 
 **库库尔坎:** 这就是为何燃素能够稳定形成不同形态甚至还能互相转化，也是你们在「审议之庭」能看到修复机关虚影的缘故。
 
@@ -1510,7 +1510,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 以后，深渊将再也无法窥视这个国度。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 可是，在纳塔的生命…
+**小家伙:** 可是，在纳塔的生命…
 
 **库库尔坎:** 要不然就死于「维奇洛波奇特利」，要不然舍弃身躯，成为由「纯粹的燃素构成的生命」…
 
@@ -1518,7 +1518,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 那时，将身躯舍去，化作燃素生命的龙众就将成为「新世界」的主人。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 好可怕…
+**小家伙:** 好可怕…
 
 **库库尔坎:** 我第一次听到这个计划的时候也这么觉得…
 
@@ -1528,11 +1528,11 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 所以在那时…我曾经想找到别的办法…嗯，这段路就换成另一个形象来说如何？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 玻娜…
+**小家伙:** 玻娜…
 
 **库库尔坎:** 怎么样，很有意思吧，只要驱使镌光铭印正确地编织燃素，就能够做到这样的事。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 有点恶心了…
+**小家伙:** 有点恶心了…
 
 **库库尔坎:** 哈哈哈哈，真是有趣的反应…好了，接下来我们就去「天蛇船」，去找找已经不存在的「回还之玉」吧。
 
@@ -1546,7 +1546,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 已检测到环境高热。
 
-**库库尔坎:** 第三重确认，请问，确认启动「维奇洛波{RUBY#[D]太阳震}奇特利」吗？
+**库库尔坎:** 第三重确认，请问，确认启动「维奇洛波太阳震奇特利」吗？
 
 **库库尔坎:** 「天蛇船」真是个好名字…在虚假的天幕覆盖整个世界之前，这座「天蛇船」下的城市曾经是比肩图兰的大城。
 
@@ -1562,7 +1562,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** …甚至也可以令龙裔重获一窥天外真知的资格。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 但是你失败了。
+**小家伙:** 但是你失败了。
 
 **库库尔坎:** 是啊，相对于龙族的强大和单一，人类的灵魂的个体差别实在太大，其中大部分也太过脆弱了。
 
@@ -1574,7 +1574,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 这空想一度成为现实，在希巴拉克觑见修库特尔的破绽，并将后者杀死时。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 破绽？
+**小家伙:** 破绽？
 
 **库库尔坎:** 修库特尔是原初的焰之主，亦是掌握一切光热和智慧的个体，他执掌源火，甚至能够将全部的身躯遁入其中。
 
@@ -1586,7 +1586,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **库库尔坎:** 于是希巴拉克得以和他同归于尽了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 同归于尽？
+**小家伙:** 同归于尽？
 
 **库库尔坎:** 是啊，那时候的希巴拉克毫无疑问已经一度死亡…但是在他重又复生之时，才成为了所谓的火神。
 
@@ -1706,9 +1706,9 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **派蒙:** 咦…咦，怎么回事，什么都没有发生…还是说，你救了我们？
 
-{REALNAME[ID(2)|SHOWHOST(true)]}？
+小家伙？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯…呀！！
+**小家伙:** 嗯…呀！！
 
 **派蒙:** 咦，你既然能长那么大，是不是说明病已经好了？
 
@@ -1722,7 +1722,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 或许做些准备比较好。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯…
+**小家伙:** 唔嗯…
 
 **派蒙:** 说的也是呢…
 
@@ -1738,7 +1738,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 **派蒙:** 哼哼，终于结束了。
 
-**派蒙:** 我就说呢，{REALNAME[ID(2)|SHOWHOST(true)]}能够变得那么大又安全无恙…
+**派蒙:** 我就说呢，小家伙能够变得那么大又安全无恙…
 
 **派蒙:** 说不定其实就是要通过战斗来解除血脉的诅咒。
 
@@ -1748,13 +1748,13 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 - **旅行者:** 小家伙有见过他吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ？
+**小家伙:** ？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔啊…
+**小家伙:** 唔啊…
 
 **派蒙:** 怎么了？是不是刚才的战斗中受伤了？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **派蒙:** 受龙所选者，你啊，是我最终选择的人…
 
@@ -1766,7 +1766,7 @@ Let's get {REALNAME[ID(2)|SHOWHOST(true)]} out first!
 
 ……
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}，你怎么啦…
+**派蒙:** 小家伙，你怎么啦…
 
 **派蒙:** 而且，而且还缩回了小龙的样子？
 

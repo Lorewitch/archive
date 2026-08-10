@@ -11,11 +11,11 @@
 # chapter_num_en: Carmen Dei Chapter: Act I
 # chapter_num_zh: 歌仙之章 第一幕
 # part_source_ids: 10110,10111,10112,10113
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2013
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1728,7 +1728,7 @@ I'm listening.
 
 - **旅行者:** 很遗憾，但确实是这样。
 
-**派蒙:** 唔…本来还想见识一下的…对了，你的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}也有幻想朋友吗？
+**派蒙:** 唔…本来还想见识一下的…对了，你的荧/空也有幻想朋友吗？
 
 是有的喔。
 
@@ -2018,7 +2018,7 @@ I'm listening.
 
 - **旅行者:** 杰克怎么想？
 
-**斯坦利:** 哈哈，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYE|INFO_FEMALE_PRONOUN_GIRLE]}，跟你们在一起的，可是名震蒙德的大探险家斯坦利啊！
+**斯坦利:** 哈哈，空/荧，跟你们在一起的，可是名震蒙德的大探险家斯坦利啊！
 
 **斯坦利:** 难道还有走回头路的必要吗？
 

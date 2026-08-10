@@ -3,7 +3,7 @@
 # title_ru: Пожелание счастливого пути
 # title_en: A Wish For Smooth Sailing
 # title_zh: 一帆风顺的美愿
-# region: Фонтейн
+# region: Тейват
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 10235
@@ -12,7 +12,7 @@
 # chapter_num_zh: 和旋舞剧·尾声
 # part_source_ids: 40197
 # previous_quests: quest_eq_10234
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10232,quest_eq_10233,quest_eq_10234
 # quest_chain: quest_eq_10232,quest_eq_10233,quest_eq_10234,quest_eq_10235
 # quest_series: Whirling Waltz

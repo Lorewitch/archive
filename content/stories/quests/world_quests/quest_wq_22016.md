@@ -3,18 +3,18 @@
 # title_ru: Всеядные гурманы: о важности правильного питания
 # title_en: The Gourmet Supremos: The Importance of Eating Well
 # title_zh: 全能美食队·吃饱的重要性
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 22016
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 22016
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73800,quest_wq_73805
-# quest_chain: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73800,quest_wq_73805
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_22016
 # quest_series: The Gourmet Supremos
 # version_source: wiki_release_category
 

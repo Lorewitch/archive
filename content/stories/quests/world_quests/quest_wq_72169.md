@@ -3,18 +3,18 @@
 # title_ru: Всеядные гурманы: прибрежные отшельники
 # title_en: The Gourmet Supremos: The Seashore Strider
 # title_zh: 全能美食队·海滩的横行者
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72169
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72169
 # previous_quests: quest_wq_72171
 # next_quests: quest_wq_72170
-# related_quests: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72170,quest_wq_72800,quest_wq_73800,quest_wq_73805
-# quest_chain: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73800,quest_wq_73805
+# related_quests: quest_wq_72168,quest_wq_72171,quest_wq_72170,quest_wq_72800
+# quest_chain: quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800
 # quest_series: The Gourmet Supremos
 # version_source: wiki_release_category
 

@@ -13,8 +13,8 @@
 # part_source_ids: 40079
 # previous_quests: quest_eq_10097
 # next_quests: quest_eq_10099
-# related_quests: quest_eq_10097,quest_eq_10099,quest_wq_70518,quest_wq_70519,quest_wq_70520,quest_wq_70521,quest_wq_70522,quest_wq_70523,quest_wq_73677,quest_wq_73678,quest_wq_73679,quest_wq_73680,quest_wq_73681,quest_wq_73682
-# quest_chain: quest_eq_10097,quest_eq_10098,quest_eq_10099,quest_wq_70518,quest_wq_70519,quest_wq_70520,quest_wq_70521,quest_wq_70522,quest_wq_70523,quest_wq_73677,quest_wq_73678,quest_wq_73679,quest_wq_73680,quest_wq_73681,quest_wq_73682
+# related_quests: quest_eq_10097,quest_eq_10099
+# quest_chain: quest_eq_10097,quest_eq_10098,quest_eq_10099
 # quest_series: Of Ballads and Brews
 # version_source: wiki_release_category
 

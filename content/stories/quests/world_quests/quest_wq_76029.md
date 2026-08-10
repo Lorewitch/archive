@@ -3,13 +3,13 @@
 # title_ru: Лунная соната
 # title_en: Moonlight Sonata
 # title_zh: 月光奏鸣曲
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76029
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76029
 # previous_quests: quest_wq_76036
 # next_quests: quest_wq_76030

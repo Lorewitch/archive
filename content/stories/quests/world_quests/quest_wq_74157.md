@@ -3,19 +3,19 @@
 # title_ru: Леруа: Прекрасные друзья
 # title_en: Leroy: Beautiful Friends
 # title_zh: 勒鲁瓦·漂亮朋友
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74157
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74157
 # previous_quests: quest_wq_74156
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74149,quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74156
 # quest_chain: quest_wq_74149,quest_wq_74150,quest_wq_74151,quest_wq_74153,quest_wq_74154,quest_wq_74156,quest_wq_74157
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

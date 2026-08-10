@@ -1,0 +1,337 @@
+# id: quest_wq_71822
+# story_group: event_chronicles
+# title_ru: Учёные и предания
+# title_en: When Scholar and Legends Meet
+# title_zh: 学者与传说
+# region: Тейват
+# game_version: 1.3
+# release_versions: 1.3
+# source_id: 71822
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 71822
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_71822
+# quest_series: Lantern Rite Tales
+# version_source: wiki_release_category
+
+## RU
+
+### Учёные и предания
+
+Археолог Сорайя проводит исследование, связанное с горой Тяньхэн...
+
+#### Поговорите с Сорайей
+
+**Сорайя:** Гора Тяньхэн... Могучий Повелитель Небесных Пределов... Хм...
+
+Чего ты бормочешь?
+
+**Сорайя:** Ах, я просто исследую историю и легенды Праздника морских фонарей.
+
+**Сорайя:** Говорят, что в этом году лунный фонарь сделан по подобию Адепта, которого звали Могучим Повелителем Небесных Пределов.
+
+**Сорайя:** Согласно собранным мною легендам, этот Адепт также некоторое время сражался на стороне Властелина Камня.
+
+**Сорайя:** Вот только время сражений и враги в каждом источнике указаны разные...
+
+**Сорайя:** Но все они сходятся на том, что он уже погиб. Также утверждается, что он своими горами подпирал гору Тяньхэн.
+
+**Сорайя:** Поэтому я и пришла осмотреть гору Тяньхэн. Вдруг мне посчастливится что-нибудь найти...
+
+**Сорайя:** Но здесь полно чудовищ. Из-за них к месту, которое я наметила для исследований, не подойти...
+
+**Сорайя:** Путешественни(ца)(к), если у тебя есть время и желание, не мог(ла) бы ты помочь мне с исследованием и принести образцы почвы?
+
+Образцы... почвы?
+
+**Сорайя:** Ну... Так говорят у нас в Академии. На деле это куски земли из исследуемой области.
+
+**Сорайя:** Поскольку местные предания гласят, что Могучий Повелитель Небесных Пределов удерживал своими рогами гору Тяньхэн...
+
+**Сорайя:** То с точки зрения науки в местной почве могут оказаться необычные составляющие.
+
+**Сорайя:** Поэтому, пожалуйста, принеси мне оттуда один образец почвы.
+
+#### Возьмите образец почвы
+
+**Сорайя:** Рога... Гора Тяньхэн... Если всё это правда...
+
+#### Вернитесь к Сорайе
+
+**Сорайя:** Ты прин(есла)(ёс) образец?
+
+Да, вот он.
+
+**Сорайя:** Благодарю. Дай взглянуть.
+
+**Сорайя:** ...Хм. Кажется, ничего особенного в нём нет.
+
+А что именно ты ожидала обнаружить?
+
+**Сорайя:** Согласно легендам, Могучий Повелитель Небесных Пределов подпирал гору Тяньхэн своими рогами, чтобы та не рухнула на гавань Ли Юэ.
+
+**Сорайя:** Я предполагала, что смогу хотя бы найти немного фрагментов рогов...
+
+**Сорайя:** Конечно же, это всего лишь легенды... Или прошло столько времени, что все следы попросту исчезли?
+
+**Сорайя:** Но получить образец почвы уже неплохо...
+
+**Сорайя:** Путешественни(ца)(к), пройдёшь со мной ещё немного? Я хотела бы подняться в гору, это недалеко.
+
+- **Путешественник:** Хорошо, я пройдусь вместе с тобой.
+
+- **Путешественник:** Что ты хочешь найти на этот раз?
+
+**Сорайя:** На этот раз... Я хотела бы забраться на возвышенность, с которой можно было бы осмотреть рельеф горы Тяньхэн.
+
+**Сорайя:** По легенде, Властелин Камня и множество Адептов сражались в битве, из-за которой чуть не обрушилась гора Тяньхэн.
+
+**Сорайя:** Столь яростная схватка непременно оставила бы след на местном ландшафте.
+
+#### Поговорите с Сорайей
+
+**Сорайя:** Наконец-то добрались... Поход выдался нелёгким даже без чудовищ...
+
+**Сорайя:** В окружающем ландшафте нет ничего необычного...
+
+**Сорайя:** Там что-то на дереве. Небесный фонарь?
+
+**Сорайя:** Откуда он тут взялся? Неужто кто-то пришёл сюда, чтобы воздать почести погибшему Адепту?
+
+**Сорайя:** Там что-то написано...
+
+**Сорайя:** «Мир и благодать всем поколениям».
+
+- **Путешественник:** Величественное желание.
+
+- **Путешественник:** На воздаяние почестей непохоже...
+
+**Сорайя:** И в самом деле. Слишком уж это желание... грандиозное, что ли? Ни на почести, ни на желание непохоже.
+
+**Сорайя:** Что-нибудь подобное скорее мог загадать Адепт из легенд.
+
+**Сорайя:** Интересно, кто вложил это желание в фонарик? Как странно...
+
+**Сорайя:** Как бы то ни было, кто-то сберёг память о былом и пришёл запустить небесный фонарь. Тот Адепт был бы этому рад.
+
+**Сорайя:** Спасибо, что прош(ла)(ёл) со мной такой путь. Я останусь здесь и продолжу исследование...
+
+**Сорайя:** Да, это тебе в благодарность.
+
+**Сорайя:** Эх, в Ли Юэ столько легенд, а моё исследование не продвинулось ни на шаг...
+
+## EN
+
+### When Scholar and Legends Meet
+
+The scholar Soraya seems to be investigating something in Mt. Tianheng...
+
+#### Talk to Soraya
+
+**Soraya:** Mt. Tianheng... Skybracer... Hmm...
+
+What are you thinking about?
+
+**Soraya:** Ah, I'm currently researching the history and legends of Lantern Rite.
+
+**Soraya:** I've heard that this year's Mingxiao Lantern is modeled after an adeptus named Skybracer.
+
+**Soraya:** From what legends I've been able to gather, this adeptus also fought alongside Rex Lapis for a time.
+
+**Soraya:** The exact times and the enemies they faced have differed from text to ancient text...
+
+**Soraya:** But all the sources concur that Skybracer has already passed on, and it has been stated that this adeptus once held Mt. Tianheng up with their own antlers.
+
+**Soraya:** That's why I came to Mt. Tianheng to see for myself, thinking that if I got lucky, I might find something...
+
+**Soraya:** But as it turns out, Mt. Tianheng is crawling with monsters. After ascertaining the site for my investigations, I found it to be so full of monsters as to be impassable...
+
+**Soraya:** Traveler, if you're willing, could you help me investigate and take some soil samples?
+
+Soil... samples?
+
+**Soraya:** Well, that's what we'd say at the Akademiya, but what we really mean is some soil from the area in question.
+
+**Soraya:** Local legends hold that Skybracer held Mt. Tianheng up with their own antlers...
+
+**Soraya:** From an academic perspective, it stands to reason that the ground here might have an unusual composition.
+
+**Soraya:** So please, help me go there and retrieve a soil sample.
+
+#### Retrieve the Soil Sample
+
+**Soraya:** Antlers... Mt. Tianheng... Hmm, if this is real...
+
+#### Report back to Soraya
+
+**Soraya:** Have you brought the sample back with you?
+
+I've brought it.
+
+**Soraya:** Thank you very much. Let me have a look.
+
+**Soraya:** ...Hmm, there seems to be nothing special about the soil here.
+
+What were you hoping to find?
+
+**Soraya:** The legends say that Skybracer used their strong antlers to protect Liyue Harbor by preventing Mt. Tianheng from collapsing.
+
+**Soraya:** I thought that I could at least find some fragments of those antlers...
+
+**Soraya:** As I thought, legends are just that, legends... Or has so much time passed since that battle that all traces of it have long since vanished?
+
+**Soraya:** Still, getting a soil sample is, in and of itself, not a bad result...
+
+**Soraya:** Traveler, could you accompany me for a while longer? I'd like to head upwards, it shouldn't be too far.
+
+- **Traveler:** Leave it to me.
+
+- **Traveler:** What are you looking for this time?
+
+**Soraya:** This time... I want to get to a vantage point from which I can overlook Mt. Tianheng and study its terrain.
+
+**Soraya:** The tales say that Rex Lapis and many adepti took part in that battle, and very nearly caused Mt. Tianheng to collapse.
+
+**Soraya:** If the battle truly was that fierce, then perhaps we might be able to deduce something from the terrain.
+
+#### Talk to Soraya
+
+**Soraya:** We're finally here... That journey would have been tough enough even without those monsters...
+
+**Soraya:** Hmm... There doesn't seem to be anything special about the terrain here...
+
+**Soraya:** Huh? What's this in the tree... Oh, it's a Xiao Lantern...
+
+**Soraya:** Why would there be a Xiao Lantern here? Did someone come here to pay their respects to the deceased adeptus?
+
+**Soraya:** There's something written here...
+
+**Soraya:** "May all the world be at peace."
+
+- **Traveler:** A magnificent wish.
+
+- **Traveler:** It doesn't sound like this person was here to pay respects...
+
+**Soraya:** Indeed. But this wish... How should I put it... It seems a little too magnificent. This seems neither like a wish, nor a way of paying respects.
+
+**Soraya:** It seems more like a wish that one of those adepti of legend might make.
+
+**Soraya:** I wonder, who would write such a wish onto a Xiao Lantern? How strange...
+
+**Soraya:** Regardless, it seems that at least someone remembered to put a Xiao Lantern up here. That adeptus should be quite pleased.
+
+**Soraya:** Thank you for accompanying me all this way. I'd like to stay here and do a bit more research...
+
+**Soraya:** Ah, yes. This is for you. Consider it thanks for your help.
+
+**Soraya:** *sigh* Liyue has so many legends, and yet my research has seen no progress made at all...
+
+## ZH
+
+### 学者与传说
+
+学者索拉雅似乎正在天衡山中调查什么事…
+
+#### 与索拉雅对话
+
+**索拉雅:** 天衡山…移霄导天真君…嗯…
+
+你在想什么呢？
+
+**索拉雅:** 啊，我正在研究璃月海灯节的历史和传说呢。
+
+**索拉雅:** 我听说这次的「明霄灯」的造型，会是一位名叫「移霄导天真君」的仙人。
+
+**索拉雅:** 根据我搜集到的传说，那位仙人似乎也在某段时间里跟随「岩王帝君」征战…
+
+**索拉雅:** 虽然具体时间和面对的敌人在各种文献中有各种不同的说法…
+
+**索拉雅:** 但在各类记载和在坊间流传的说法中，都一致指出这位仙人已经牺牲了。而且这位仙人还以自己的角支撑起了天衡山。
+
+**索拉雅:** 所以，我来天衡山，想要实地考察一下，想着如果运气够好，说不定能够找到些什么…
+
+**索拉雅:** 但天衡山里的魔物众多，我确定了考察地点之后，却发现通往那里的路上都是魔物，压根过不去…
+
+**索拉雅:** 旅行者，如果你愿意的话，能不能请你帮我去那边搜索一下，帮我带些「土质样本」回来？
+
+土质…样本？
+
+**索拉雅:** 嗯…这是教令院里的说法，其实就是那片区域里的土壤啦。
+
+**索拉雅:** 既然在璃月的传说中，那位「移霄导天真君」用自己的角支撑起了天衡山…
+
+**索拉雅:** 那么从学术角度来说，我认为地质成分中也许会存在一些不同寻常的成分。
+
+**索拉雅:** 所以，请你帮我去那里，取一份土壤回来吧。
+
+#### 取回「土质样本」
+
+**索拉雅:** 鹿角…天衡山…唔，如果是真的话…
+
+#### 向索拉雅回报
+
+**索拉雅:** 你把样本带回来了吗？
+
+已经带回来了。
+
+**索拉雅:** 辛苦你了，请给我看一下。
+
+**索拉雅:** …唔，这份土壤好像也没什么特别的。
+
+你想发现什么吗…
+
+**索拉雅:** 根据传说，「移霄导天真君」是为了保护璃月港，用自己强壮的头角支起了即将倾颓的天衡山。
+
+**索拉雅:** 我还以为，会至少发现一些「角」的碎片…
+
+**索拉雅:** 果然传说也只是传说而已吗…或者说，那场大战距离现在的时间太远，痕迹也基本上消失了？
+
+**索拉雅:** 但能够搜集到天衡山的土壤样本倒也不错…
+
+**索拉雅:** 旅行者，你能再陪我一段路程吗？我想要再往上走走，倒也不会太远。
+
+- **旅行者:** 交给我了。
+
+- **旅行者:** 你又想去找什么？
+
+**索拉雅:** 这次…我想要去高处俯视一下天衡山，观察一下这里的地形。
+
+**索拉雅:** 在传说中，「岩王帝君」和许多仙人们都参与了那次大战，还险些导致天衡山倒塌。
+
+**索拉雅:** 如果战况激烈到那种程度…那我也许能从地形里观察出一些东西来。
+
+#### 与索拉雅对话
+
+**索拉雅:** 总算到这里了…这路可真难走，还有这么多魔物…
+
+**索拉雅:** 这周围的地形…好像也没什么特别的…
+
+**索拉雅:** 咦？这棵树上是什么，一盏霄灯…
+
+**索拉雅:** 这里怎么会有霄灯？难道有人来这里拜祭那位仙人了吗？
+
+**索拉雅:** 我看看这盏霄灯里写了什么…
+
+**索拉雅:** 「万世安泰，天下太平。」
+
+- **旅行者:** 是个很宏伟的愿望。
+
+- **旅行者:** 看起来不像是来拜祭的…
+
+**索拉雅:** 确实。但这个愿望…怎么说呢，有点太过宏伟了？不像是拜祭，也不像是「愿望」。
+
+**索拉雅:** 反而像是那种…在璃月传说里的仙人们才会许的愿望。
+
+**索拉雅:** 到底是谁会在霄灯上许这种愿望呢？真奇怪…
+
+**索拉雅:** 唔，不管怎么说，至少有人还记得来这里放霄灯，那位仙人应该也会很高兴吧。
+
+**索拉雅:** 谢谢你陪我走了这么远的路，我还想在这里再研究一下…
+
+**索拉雅:** 对了，这些东西请你收下，就当做是报酬吧。
+
+**索拉雅:** 唉，璃月有这么多传说，但我的研究怎么就一点进展都没有呢…

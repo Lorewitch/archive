@@ -3,7 +3,7 @@
 # title_ru: Шёпот меж звёздами и тьмой
 # title_en: Whispers Betwixt Stars and Night
 # title_zh: 星与夜的低语
-# region: Ли Юэ, Инадзума, Иной мир
+# region: Иной мир
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 2075
@@ -11,11 +11,11 @@
 # chapter_num_en: Crystallina Chapter: Act I
 # chapter_num_zh: 磷星之章 第一幕
 # part_source_ids: 15034,15035,15036,15037,15038
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2075
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

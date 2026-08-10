@@ -3,19 +3,19 @@
 # title_ru: Исследование растений: Инеевый цветок
 # title_en: Plant Research: Frostlamp Flowers
 # title_zh: 植物调查·霜盏花
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76199
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76199
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76170
 # related_quests: quest_wq_76198,quest_wq_76200,quest_wq_76201,quest_wq_76170
 # quest_chain: quest_wq_76198,quest_wq_76199,quest_wq_76200,quest_wq_76201,quest_wq_76170
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

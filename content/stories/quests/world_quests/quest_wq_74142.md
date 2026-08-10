@@ -7,15 +7,15 @@
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74142
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74142
 # previous_quests: quest_wq_74141
 # next_quests: quest_wq_74143
 # related_quests: quest_wq_74140,quest_wq_74141,quest_wq_74143
 # quest_chain: quest_wq_74140,quest_wq_74141,quest_wq_74142,quest_wq_74143
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

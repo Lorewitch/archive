@@ -13,8 +13,8 @@
 # part_source_ids: 40012
 # previous_quests: quest_eq_10028
 # next_quests: quest_eq_10030
-# related_quests: quest_eq_10027,quest_eq_10028,quest_eq_10030,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
-# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
+# related_quests: quest_eq_10027,quest_eq_10028,quest_eq_10030
+# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030
 # quest_series: Midsummer Island Adventure
 # version_source: wiki_release_category
 
@@ -1758,7 +1758,7 @@ I hope you can get some proper rest here.
 
 **雷泽:** 你…可靠，放心。
 
-**可莉:** 嗯，可莉也觉得荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}很可靠！
+**可莉:** 嗯，可莉也觉得荣誉骑士空/荧很可靠！
 
 **迪卢克:** 慢着。好好想一想，放入零件后会发生什么事？
 

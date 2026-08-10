@@ -3,19 +3,19 @@
 # title_ru: Обломки белого железа для Дварканат
 # title_en: Dwarkanath's White Iron Chunks
 # title_zh: 妲卡玛忒的白铁块需求
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73657
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73657
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73657
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

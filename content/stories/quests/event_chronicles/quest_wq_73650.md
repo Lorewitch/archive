@@ -1,0 +1,481 @@
+# id: quest_wq_73650
+# story_group: event_chronicles
+# title_ru: Тема для исследования: Он не пройдёт
+# title_en: Thesis Proposal: He Shall not Pass
+# title_zh: 无止境的开题报告
+# region: Тейват
+# game_version: 3.0
+# release_versions: 3.0
+# source_id: 73650
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 73650
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_73650
+# quest_series:
+# version_source: wiki_release_category
+
+## RU
+
+### Тема для исследования: Он не пройдёт
+
+В Порт-Ормосе ходят слухи о «ворчащем учёном из Академии». Интересно, что с ним случилось...
+
+#### Поговорите с ворчащим учёным
+
+**Джами:** Проклятье, моя академическая карьера завершилась, даже не начавшись...
+
+**Джами:** Какой же из меня учёный! Если бы я раньше знал, то тайком учился бы в Академии рисовать картины, чтобы стать художником. И то было бы больше проку. Ха-ха-ха!
+
+**Паймон:** Паймон когда-то слышала об учёном из Академии в Порт-Ормосе, который всё время ворчал. Паймон казалось, что это всего лишь какая-то глупая легенда...
+
+**Паймон:** А оказывается, в мире действительно существует ворчащий учёный из Академии!
+
+**Джами:** А, что? Что за ворчащий учёный из Академии? Это ты про меня?
+
+**Джами:** Эх, раньше бы я поспорил с тобой насчёт этого прозвища, а сейчас всё так и есть...
+
+**Джами:** Эх, иди туда, куда шла. Не беспокой того, у кого нет будущего. Таким, как я, остаётся только загнить, как тихий гриб в тёмном углу леса...
+
+**Джами:** По крайней мере, тогда усилия Академии не будут потрачены зря... Может, какой-нибудь талантливый учёный возьмёт этот особый гриб в качестве образца...
+
+**Джами:** Подопытный гриб Джами... Ха-ха, возможно, вот таким образом моё имя войдёт в историю...
+
+**Паймон:** Так тебя зовут Джами?
+
+**Джами:** Ага, всё верно, дружочек.
+
+**Паймон:** Я не дружочек тебе. Меня зовут Паймон!
+
+А я Путешественник.
+
+**Джами:** Путешественник и Паймон. Хорошо, я запомню. Чем могу быть вам полезен?
+
+**Паймон:** Мы просто услышали про постоянно ворчащего учёного из Академии в Порт-Ормосе, поэтому хотели узнать, что случилось.
+
+**Джами:** Ох, наверное, вы знаете, что у учёных Сумеру есть такая прекрасная штука, как «публикация исследований».
+
+**Джами:** И только самостоятельные научные публикации доказывают зрелость учёного. Только так можно закончить обучение. А это даёт право войти в академическое сообщество и получить признание общественности.
+
+**Джами:** После этого можно путешествовать под предлогом сбора материалов по Тейвату, а на выделяемые средства жить припеваючи.
+
+**Паймон:** А можно поподробнее насчёт «жить припеваючи»...
+
+- **Путешественник:** Эм...
+
+- **Путешественник:** Похоже, у него свои скрытые мотивы...
+
+**Джами:** Ну, это просто так, к слову. На самом деле, у меня полно великих идей, которые помогут изменить академический мир к лучшему...
+
+**Джами:** Жить припеваючи - путешествовать по всему миру, быть известным и так далее. Ну, это неизбежная часть жизни учёного... Кхе-кхе, что-то я ушёл от темы...
+
+**Джами:** В общем, сейчас я застрял с публикацией. Программа в Академии была очень насыщенной, а ещё мне нужно было сдать научную работу вовремя...
+
+**Джами:** В итоге мой доклад дважды отклоняли. В первый раз я хотел написать доклад на тему «Пищевая ценность грибов со спины грибосвинов». Какая же это была интересная тема...
+
+**Паймон:** Звучит как хорошая тема. Для неё нужно проводить многочисленные опыты!
+
+**Джами:** Ага, но в результате, мой наставник сказал, что эта тема никуда не годится и отклонил её без объяснения причин.
+
+**Джами:** А во второй раз я хотел рассмотреть «Разведение и содержание парящих Гидро плесенников». Но мой наставник снова отверг тему, сказав, что она слишком простая...
+
+**Джами:** Когда время сдачи уже подходило, я со злости придумал очень сложную тему. Тогда я ещё подумал, что проклятый старикашка пожалеет о своих словах!
+
+**Джами:** Я не ожидал, что мой наставник утвердит тему, а Академия удостоит меня похвалы. И вот моей темой стало...
+
+**Паймон:** Ну?
+
+**Джами:** ...стало «Исследование недостатков защиты биологических структур в ответ на стрессовые факторы при столкновении с противниками»...
+
+- **Путешественник:** Стрессовые что?..
+
+- **Путешественник:** Защиты... недостатка?
+
+**Паймон:** Ничего не понятно, но звучит нудно и сложно...
+
+**Джами:** Тема исследования должна быть немного загадочной. Говоря простым языком, это означает, что живые существа во время боя обнаруживают некоторые уязвимости в защите.
+
+**Джами:** Например, изначально хорошо защищённое уязвимое место может обнажиться при выполнении определённых движений. Именно такие уязвимости мне и нужны.
+
+**Паймон:** Всё равно не очень понятно, но тема кажется очень интересной!
+
+**Джами:** И что толку?! Мне нужны сражения и записи материалов в качестве доказательной базы. А я всего лишь хилый учёный, ничего не понимающий в боях! Эта тема слишком опасная!
+
+**Джами:** И как же мне теперь написать научную работу? У меня же ничего не получится, а это значит, что я не смогу выпуститься, эх...
+
+**Джами:** Ладно, придётся мне сразиться с монстрами. Если меня серьёзно ранят, то, может, мой наставник сжалится надо мной и разрешит мне закончить учёбу...
+
+**Паймон:** Нет, это не дело!
+
+**Джами:** Ну, тема определена, поэтому сейчас уже невозможно что-то изменить...
+
+**Джами:** Я просто поддался внезапному порыву. Таким же образом я бы мог отдать себя на съедение тигру. Правда, это было бы немного больно. Уж лучше мне броситься в реку у деревни Вимара. Там хотя бы вода чистая и прохладная...
+
+**Паймон:** Бедняга! Хоть ты и сам во всём виноват, но всё равно Паймон тебя жалко!
+
+**Паймон:** Путешественник, давай поможем ему!
+
+Ну, раз ты уже заикнулась...
+
+**Джами:** Честно? Но ведь это же опасно...
+
+**Паймон:** Ничего страшного. Мы уже привыкли сражаться!
+
+**Джами:** Ура, неужели мне удастся написать научную работу? Готов продать себя вам!
+
+**Паймон:** Не стоит! К тому же ты нам не нужен...
+
+**Джами:** Прости, я немного взволнован. Тогда давайте отправимся на заранее подготовленную арену...
+
+#### Поговорите с Джами
+
+**Паймон:** Паймон и представить не могла, что он проделает такой долгий путь...
+
+**Джами:** Тут уж ничего не поделаешь.
+
+**Паймон:** До Порт-Ормоса тоже не близко...
+
+**Джами:** Это связано с подопытными существами. Мой наставник хотел бы, чтобы я изучил всех живущих в Тейвате существ, но это невозможно!
+
+**Джами:** Поэтому я начал изучение с существ Сумеру и Ли Юэ.
+
+**Джами:** Кстати, возьмите вот это. Это особое зелье, которое я сварил ради исследования. Оно поможет вам на площадке для испытаний.
+
+**Джами:** Оно называется снадобье Фаиз! Это зелье было придумано старшими исследователями из Амурты. Зелье очень дорогое, а процесс изготовления сложен. Мне с трудом удалось приготовить немного.
+
+**Паймон:** А какое отношение это зелье имеет к твоему опыту?
+
+**Джами:** Ну, после приёма снадобья Фаиз тебе будет казаться, что время течёт очень-очень медленно, почти остановилось...
+
+**Джами:** Такой эффект поможет более детально наблюдать и снимать весь процесс!
+
+**Паймон:** Так с этим зельем ты и сам мог бы провести этот опыт...
+
+**Джами:** Сначала я тоже так думал, но не всё так просто.
+
+**Джами:** Я уже говорил, что будет «казаться» значительное замедление времени. Однако реакция тела всё же не будет поспевать, если ты недостаточно быстр...
+
+**Джами:** Например, выпив снадобье Фаиз во время нападения спинокрока, ты не сможешь отреагировать, чтобы уклониться от удара, несмотря на то, что удар будет казаться очень медленным...
+
+**Джами:** Затем ты увидишь его когти совсем близко от твоего лица, но не сможешь сдвинуться с места...
+
+**Джами:** «Почему я не могу пошевелиться!» - подумаешь ты. Однако это тебе не поможет. Когти будут так близко, что ты сможешь рассмотреть всю грязь и ил на них...
+
+**Паймон:** Эм...
+
+**Джами:** Поэтому учти, тебе только будет казаться, что время замедляется...
+
+Хорошо, я буду осторожнее!
+
+**Джами:** Судьба моего исследования в ваших руках.
+
+## EN
+
+### Thesis Proposal: He Shall not Pass
+
+Strange rumors are spreading in Port Ormos about a "groaning Akademiya researcher." You wonder what happened...
+
+#### Talk to the groaning researcher
+
+**Jami:** Ugh... My academic career has been sunk before it could even start...
+
+**Jami:** A scholar? Why bother being a scholar? If I had learned to draw in the Akademiya and became an illustrator, I wouldn't have ended up here... Haha... Hahahaha!
+
+**Paimon:** Y'know, when we first heard that there was an Akademiya researcher in Port Ormos who groans all day... Paimon thought it was some kind of strange tale.
+
+**Paimon:** But hey, guess he's real. Hey, "groaning Akademiya researcher"!
+
+**Jami:** What...? "Groaning Akademiya researcher"? Are you talking about me?
+
+**Jami:** *sigh* If you'd met me in the past, I would debate the veracity of such a slanderous title. But now... forget it.
+
+**Jami:** Go back to where you came from, little one. Don't disturb a young man, mired, adrift, without a future. People like me should just shrivel like a silent mushroom in the dark corner of the forest...
+
+**Jami:** At least the Akademiya's resources wouldn't be wasted then. I might even be taken back there as some special mushroom sample to be dissected by some real scholar...
+
+**Jami:** "Jami the Mushroom Sample." Wouldn't it be funny if that's how I wound up being remembered by history...
+
+**Paimon:** Jami? Oh, so that's your name.
+
+**Jami:** Yeah. What about it, little one?
+
+**Paimon:** The name's Paimon! Not "little one"!
+
+And I'm Traveler.
+
+**Jami:** Traveler and Paimon. Right, noted. So, how may I help you...?
+
+**Paimon:** Well, we just heard about the rumors of "groaning Akademiya researcher" in Port Ormos and wanted to know what was going on.
+
+**Jami:** *sigh*... What's going on, you say? Well, have you heard of this thing that happens for us researchers called "publishing our research"?
+
+**Jami:** Publishing independent research is how we prove that we are capable, self-sufficient scholars. That's how we graduate from under our mentor's tutelage and enter the academic world, where we can then gain renown...
+
+**Jami:** That way, we can travel to places in Teyvat in the name of collecting research material, with research grants sufficient to cover even fine food and drink!
+
+**Paimon:** Fine food and drink, huh... Say, you wouldn't mind elaborating on that, would you?
+
+- **Traveler:** Hmm...
+
+- **Traveler:** Looks like he has some ulterior motives...
+
+**Jami:** Uh, I was just saying... In truth, I dream of doing great things in the academic world.
+
+**Jami:** Good food, traveling, fame, things like these are just side benefits. I wouldn't reject them, of course, but... *cough* Either way, we're getting off topic.
+
+**Jami:** Anyway, I'm stuck at the "publish your research" part. The courses at Akademiya have a tight schedule already, and I have to get my thesis proposal passed in time.
+
+**Jami:** My proposals have been rejected twice. "The Edibleness of Mushrooms on the Back of Shroomboars" was the first one. I actually thought that one was pretty good...
+
+**Paimon:** Well, it certainly sounds like a good subject. One that warrants a couple hundred experiments, for sure!
+
+**Jami:** I know, right? But my mentor just said "is this even worth looking into?" and refused my request... Absolutely ridiculous.
+
+**Jami:** The second time, I applied to research "The Ecological Environment and Aquaculture of Floating Hydro Fungi," but got rejected again by my mentor, who called the topic too unambitious...
+
+**Jami:** The deadline for submitting the thesis proposal was drawing near, and so I wrote up a very ambitious proposal in a fit of pique... You know, as a way of saying "you old man, how dare you call me unambitious!"
+
+**Jami:** I didn't think that my mentor would let it pass or that it would get praise in the Akademiya. But there was no way back from there, so my report became...
+
+**Paimon:** Became what?
+
+**Jami:** Heh... a "Study on the Defense Deficiencies of Biological Structures in Response to Hostile Stressors"...
+
+- **Traveler:** Sorry, Hostile Stressor-what again?
+
+- **Traveler:** Defense... Deficiencies...?
+
+**Paimon:** Nope, Paimon doesn't know what you're talking about. Doesn't sound delicious or interesting either.
+
+**Jami:** The research topic of your study should ideally be a bit obscure. To put it in simple terms, creatures in combat will more or less reveal some weaknesses in their defenses.
+
+**Jami:** Some weak spots, which should have been well protected, will end up exposed when they make certain movements. And those are the Weaknesses I'm collecting for my research.
+
+**Paimon:** It's still kinda hard to understand... but it sounds awesome!
+
+**Jami:** Well, being awesome doesn't help you fight monsters or take pictures of research materials. I'm just a fragile researcher. This subject is way too dangerous for me!
+
+**Jami:** How am I supposed to finish this whole thing...? And with an unfinished thesis, I won't be able to graduate...
+
+**Jami:** Fighting monsters... Hah, whatever. Let's just do it. I might get heavily injured, but maybe my mentor might take pity on me and grant a pass to this poor student...
+
+**Paimon:** Please don't do that!
+
+**Jami:** But my thesis proposal has already been submitted. There's no time to switch topics. What can I do?
+
+**Jami:** I was too impulsive for my own good. Some researcher I am! I should just go feed myself to a Rishboland Tiger! Wait, no. That might hurt. Maybe I should drown myself in the river near Vimara Village instead. The water's cool and clean there...
+
+**Paimon:** Whoa, poor guy! It's partially his fault for ending up like this, but still...
+
+**Paimon:** Traveler, let's just help him, shall we?
+
+Well, now that you've said this much...
+
+**Jami:** R—Really? But it's a very dangerous job...
+
+**Paimon:** No worries! We're pretty good at fighting monsters!
+
+**Jami:** Ah, thank you! Thank you! Does this mean I can finish my thesis now? I'd even sell myself to you if you can help me do that!
+
+**Paimon:** Uh, you totally don't have to! And we don't wanna buy you, anyway...
+
+**Jami:** Sorry... apologies for my lack of composure. How about this, then? Let's go to the testing ground I've prepared.
+
+#### Talk to Jami
+
+**Paimon:** Paimon didn't realize that we had walked all this way here...
+
+**Jami:** There's no other way around, I fear.
+
+**Paimon:** This is too far from Port Ormos...
+
+**Jami:** Well, this is about my test subjects after all. You know, my mentor wanted me to observe every living being in Teyvat. An impossible task, I tell you!
+
+**Jami:** And that's why I started by researching creatures from Sumeru and Liyue...
+
+**Jami:** By the way, please hold this. It's a special potion for my research that works within the testing grounds.
+
+**Jami:** It's called the "Fayz Potion," and it was formulated by my seniors at Amurta. It's expensive and complicated to make, so I've only managed to make a few...
+
+**Paimon:** What's this potion gotta do with your experiment?
+
+**Jami:** Here's how it works: you will subjectively feel that time will slow down in a very extreme manner after taking the "Fayz Potion." It'll feel like one moment is eternal.
+
+**Jami:** This way, you can do more detailed photography and observations!
+
+**Paimon:** Wait a moment, couldn't you just do that yourself?
+
+**Jami:** I thought so too, but it's not that simple.
+
+**Jami:** As I said, you will subjectively feel time slowing down... But your body may not be able to keep up if you aren't agile enough...
+
+**Jami:** For example, if you quaff a Fayz Potion as a Spinocrocodile pounces on you but you aren't agile enough to dodge its lunging attack...
+
+**Jami:** Then you will see how its claws are ever so close to your face, yet your body just won't move out of the way...
+
+**Jami:** "Why can't I move my body!?" You may think to yourself. But it will be of no use. The paws will still stay so close to you that you can even see the dirty water and mud-stains on it.
+
+**Paimon:** Yikes...
+
+**Jami:** So, don't underestimate your opponents just because you feel that time is moving slowly.
+
+Will do!
+
+**Jami:** The fate of my research is in your hands...
+
+## ZH
+
+### 无止境的开题报告
+
+奥摩斯港最近似乎有个关于「唉声叹气教令院学者」的奇怪传言，到底发生了什么事呢…
+
+#### 与唉声叹气的学者对话
+
+**贾米:** 完蛋啦，唉…我的学术生涯还没开始，就已经夭折了…
+
+**贾米:** 当什么学者！当什么学者！早知道在教令院偷偷自学画画当个会画彩图的绘图师，也比现在有前途，呵呵…呵呵…
+
+**派蒙:** 之前就听说奥摩斯港有个教令院学者每天唉声叹气的…我还以为是什么奇怪的传说呢…
+
+**派蒙:** 原来真的有，「唉声叹气教令院学者」！
+
+**贾米:** 嗯，什么？什么「唉声叹气教令院学者」…是说我吗？
+
+**贾米:** 唉…要是以前我非得就这个外号和你理论一番，现在就算了…
+
+**贾米:** 小家伙，哪来的回哪去吧，别打扰一个前途渺茫的失志青年。像我这样的人就应该缩回森林最阴暗的角落当个蘑菇…
+
+**贾米:** 这样至少不会浪费教令院的学术资源…啊，说不定还有可能被当作什么特殊的蘑菇样品，被采集回来供真正有才能的学者解剖…
+
+**贾米:** 「作为实验样本的蘑菇贾米」，呵呵，说不定还能通过这样的方式留名研究史…
+
+**派蒙:** 贾米…你的名字叫贾米吗。
+
+**贾米:** 是啊，怎么了，小家伙。
+
+**派蒙:** 我才不是什么小家伙呢，我的名字叫派蒙！
+
+我的名字是旅行者。
+
+**贾米:** 旅行者和派蒙，行吧，我记住了，两位有什么事吗…
+
+**派蒙:** 我们只是听说了最近奥摩斯港有「唉声叹气教令院学者」的传言，所以想知道发生了什么事而已啦。
+
+**贾米:** 唉…你们知道，对于须弥的众学者而言，有一件美妙的事，其名曰：「发表研究」。
+
+**贾米:** 只要可以独立「发表研究」，就能被证明是独当一面的学者，从导师那里毕业，正经进入学术界，赢得声望…
+
+**贾米:** 这样就可以以外出取材为由到提瓦特各地旅行，还可以用下拨的课题经费吃香喝辣…
+
+**派蒙:** 吃香喝辣，那个，吃香喝辣的部分说得更详细一些嘛…
+
+- **旅行者:** 噫…
+
+- **旅行者:** 动机不纯呢…
+
+**贾米:** 只、只是口头说一说啦，我内心其实充满了想要在须弥学术界有所作为的宏大理想…
+
+**贾米:** 吃香喝辣啦，四处去旅行啦，变得有名啦，诸如此类的，只是我不怎么排斥的附带的部分…咳咳，说远了…
+
+**贾米:** 总之就是，我现在就卡在「发表研究」这一环，教令院各种课程本来时间就紧，还要在规定的时间内通过开题报告…
+
+**贾米:** 结果光开题报告就被否了两次，第一次我说我想做「蕈猪背部蘑菇的食用价值」，唉，这多好的题目啊…
+
+**派蒙:** 听上去是需要反复进行实验的好课题呢！
+
+**贾米:** 对吧，结果我的导师说什么「这有什么好研究的！」就给否了…真是莫名其妙。
+
+**贾米:** 第二次我说我想研究「浮游水蕈兽的生态环境与养殖」，结果又被导师否了，说我胸无大志…
+
+**贾米:** 眼看开题报告的时间就要过去了，我就赌气写了个大的…当时就觉得「啊，该死的老头子，居然敢说我胸无大志！」…
+
+**贾米:** 本来只是赌气，结果课题提上去当天就被导师通过，还在学院内获得一致好评，呵呵…骑虎难下，我的课题正式变成了…
+
+**派蒙:** 变成了？
+
+**贾米:** 呵呵…变成了「生物结构在对敌应激时的防御缺陷研究」…
+
+- **旅行者:** 对敌应激，什么…
+
+- **旅行者:** 什么…防御…缺陷？
+
+**派蒙:** 听不懂，但是听上去是又不好吃又不好玩的研究…
+
+**贾米:** 研究课题就是要稍微故弄玄虚一点啦，实际上就是在战斗中的生物，多多少少都会露出一些防御上的「破绽」。
+
+**贾米:** 比如原本保护得很好的弱点部位，在进行一些动作的时候就会暴露出来…类似这样的，就是我需要收集的「破绽」的资料。
+
+**派蒙:** 虽然不是很明白，不过听上去好像是个很厉害的课题呢…
+
+**贾米:** 厉害有什么用，又要战斗，又要拍摄下素材作为研究论据，唉，我只是个柔弱的学者…也太强人所难了一点吧！
+
+**贾米:** 我要怎么完成这个课题啊…唉，完不成课题，就没法毕业，唉…
+
+**贾米:** 算了，不就是去找那些魔物搏斗吗，呵呵…干脆我受个重伤，说不定导师看在我可怜的份上也会让我通过…
+
+**派蒙:** 这可不行！
+
+**贾米:** 唉…开题报告也提交了，根本没有换课题的时间，还能怎么办…
+
+**贾米:** 身为学者，居然被一时冲动左右，不如喂长鬓虎算了…啊，不过那样有点痛，不如去维摩庄附近跳河吧，那里河水清凉干净…
+
+**派蒙:** 呜哇，好可怜…虽然有自作自受的成分，但是还是好可怜！
+
+**派蒙:** 旅行者，我们就帮帮他吧！
+
+话都说到这份上了…
+
+**贾米:** 欸，真、真的吗，这可是很危险的工作…
+
+**派蒙:** 没问题的！而且说起战斗，我们可是老手了！
+
+**贾米:** …真的，我的课题有救了，呜呜，如果能够成功完成报告，把我自己卖给你都行…
+
+**派蒙:** 没必要那么夸张！而、而且我们也不想要你啦…
+
+**贾米:** 不好意思有些激动了，那这样，我们这就去之前准备的试验场地吧…
+
+#### 与贾米对话
+
+**派蒙:** 没想到居然走到这么远的地方…
+
+**贾米:** 这也没有办法。
+
+**派蒙:** 离奥摩斯港的距离也太远了…
+
+**贾米:** 毕竟也跟实验对象有关，虽然我的导师很希望我把全提瓦特所有生物都观察一遍，但是那怎么可能！
+
+**贾米:** 所以就从须弥和璃月分布的开始研究起了…
+
+**贾米:** 哦，对了，请拿好这个…这是我为了研究弄来的特殊药剂，能够在实验场地里生效。
+
+**贾米:** 其名为「溢神剂」！是阿弥利多学院的前辈做出来的药剂，造价高，工序复杂，我好不容易才做了这么一些…
+
+**派蒙:** 嗯？这个药剂和你的实验有什么关系呀…
+
+**贾米:** 其实是这样，服用了「溢神剂」之后，服用者就会主观地觉得时间变得非常非常…非常非常慢，几乎和停了一样…
+
+**贾米:** 这样就能进行更细致的拍摄和观察啦！
+
+**派蒙:** 咦，有了这样的药剂，你自己也可以做这个实验嘛…
+
+**贾米:** 唉…我本来也是这么以为的，但是事情哪有那么简单…
+
+**贾米:** 我已经说了，是「主观上」变得非常慢…你的身体的反应其实还是跟不过来的，身体如果不够灵敏…
+
+**贾米:** 比如你在棘冠鳄飞扑过来的时候喝下「溢神剂」，但是你又没有反应能力躲避它的飞扑…
+
+**贾米:** 你就会看到它的爪子离你的脸始终有那么近，像是停在那里…可身体就是没法躲开…
+
+**贾米:** 「为什么身子不动呀！」你这么想，但是没有用，爪子还是离那么近，你甚至可以看清爪子上的污水与淤泥…
+
+**派蒙:** 噫…
+
+**贾米:** 所以，不要因为主观上觉得时间过得慢就轻敌了，这点请注意…
+
+我会小心的！
+
+**贾米:** 唉…我的研究，就交给两位了…

@@ -12,9 +12,9 @@
 # chapter_num_zh: 蔷薇与铳枪 后日谈
 # part_source_ids: 40136
 # previous_quests: quest_eq_10164
-# next_quests: 
-# related_quests: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_wq_74675,quest_wq_74679,quest_wq_74680,quest_wq_74681
-# quest_chain: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169,quest_wq_74675,quest_wq_74679,quest_wq_74680,quest_wq_74681
+# next_quests:
+# related_quests: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164
+# quest_chain: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169
 # quest_series: Roses and Muskets
 # version_source: wiki_release_category
 

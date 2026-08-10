@@ -3,7 +3,7 @@
 # title_ru: Пространство и время для тебя
 # title_en: A Space and Time for You
 # title_zh: 你存在的时空
-# region: Натлан
+# region: Тейват
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 1506
@@ -13,8 +13,8 @@
 # part_source_ids: 8016,8017,8018
 # previous_quests: quest_aq_1504
 # next_quests: quest_aq_1602
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: V
 # version_source: wiki_release_category
 
@@ -26,7 +26,7 @@
 
 #### Отправляйтесь в Удел Благодатных Земель
 
-**Иансан:** Тума{RUBY#[S]Надежда}йни и Паймон! Вот так встреча! Не ожидала вас здесь увидеть.
+**Иансан:** ТумаНадеждайни и Паймон! Вот так встреча! Не ожидала вас здесь увидеть.
 
 **Паймон:** Тренер Иансан! А что ты здесь делаешь одна?
 
@@ -634,7 +634,7 @@
 
 #### Поговорите с дозорными на передовой
 
-**Сутура:** Это ведь (наша героиня)(наш герой) Тума{RUBY#[S]Надежда}йни! Мне довелось сражаться с тобой плечом к плечу. Но ты вряд ли меня помнишь, ха-ха...
+**Сутура:** Это ведь (наша героиня)(наш герой) ТумаНадеждайни! Мне довелось сражаться с тобой плечом к плечу. Но ты вряд ли меня помнишь, ха-ха...
 
 - **Путешественник:** Конечно, помню.
 
@@ -672,7 +672,7 @@
 
 #### Поговорите с дозорными на передовой
 
-**Кантало:** Это... Тума{RUBY#[S]Надежда}йни? Как ты здесь (оказалась)(оказался)? Решил(а) нас навестить?
+**Кантало:** Это... ТумаНадеждайни? Как ты здесь (оказалась)(оказался)? Решил(а) нас навестить?
 
 **Кантало:** Ой-ой, что же делать? Я так волнуюсь...
 
@@ -708,7 +708,7 @@
 
 **Кантало:** На победу не рассчитывал, но не ожидал, что разница в боевых навыках будет так велика...
 
-**Кантало:** Ха-ха! И всё равно, сражение с (героиней)(героем) Тума{RUBY#[S]Надежда}йни стоит того, чтобы помнить о нём всю жизнь. Сегодня я настоящий везунчик!
+**Кантало:** Ха-ха! И всё равно, сражение с (героиней)(героем) ТумаНадеждайни стоит того, чтобы помнить о нём всю жизнь. Сегодня я настоящий везунчик!
 
 **Паймон:** Интересно, почему после сражения ты заговорил совсем иначе?
 
@@ -1218,7 +1218,7 @@
 
 **Паймон:** Иансан, не обижайся, Дайн всегда так разговаривает, но на самом деле он очень хороший.
 
-**Иансан:** Ничего страшного, Уве{RUBY#[S]Сила}зо Иансан уважает силу. Я вижу, что господин Дайнслейф не хотел никого обидеть, и очень рада с ним познакомиться.
+**Иансан:** Ничего страшного, УвеСилазо Иансан уважает силу. Я вижу, что господин Дайнслейф не хотел никого обидеть, и очень рада с ним познакомиться.
 
 **Иансан:** Думаю, старым друзьям нужно много всего сказать друг другу, не буду вам мешать.
 
@@ -1822,7 +1822,7 @@
 
 **Иансан:** А вот и (наша героиня)(наш герой)! Мы тебя ждали.
 
-**Иансан:** Орден Бездны отступил, когда наши основные силы ещё не успели подойти... Наверное, это твоя заслуга, Тума{RUBY#[S]Надежда}йни? И господина Дайнслейфа, конечно.
+**Иансан:** Орден Бездны отступил, когда наши основные силы ещё не успели подойти... Наверное, это твоя заслуга, ТумаНадеждайни? И господина Дайнслейфа, конечно.
 
 **Иансан:** Что случилось? Ты выглядишь расстроенн(ой)(ым)...
 
@@ -1918,7 +1918,7 @@ Near the Collective of Plenty, you agree to help Iansan conduct a patrol. Howeve
 
 #### Head to the Collective of Plenty
 
-**Iansan:** Oh, "Tum{RUBY#[S]Hope}aini" and Paimon... Fancy that. I didn't expect to run into you two here.
+**Iansan:** Oh, "TumHopeaini" and Paimon... Fancy that. I didn't expect to run into you two here.
 
 **Paimon:** Oh, hey! Coach Iansan! What are you doing here all by yourself?
 
@@ -2526,7 +2526,7 @@ My sister / brother.
 
 #### Talk to the forward sentries
 
-**Sutura:** Wow! "Tuma{RUBY#[S]Hope}ini," our hero! We've actually fought together before. You probably don't remember it though, hahaha...
+**Sutura:** Wow! "TumaHopeini," our hero! We've actually fought together before. You probably don't remember it though, hahaha...
 
 - **Traveler:** Of course I do.
 
@@ -2564,7 +2564,7 @@ Have you seen anything out of the ordinary?
 
 #### Talk to the forward sentries
 
-**Kantalo:** Huh? ...Is... Is that "Tum{RUBY#[S]Hope}aini"? What brings you here? Is this, like, uh... a meet-and-greet?
+**Kantalo:** Huh? ...Is... Is that "TumHopeaini"? What brings you here? Is this, like, uh... a meet-and-greet?
 
 **Kantalo:** Um... Hahaha... I, uh... I wasn't... Ahh, I'm so nervous...
 
@@ -2600,7 +2600,7 @@ Have you seen anything out of the ordinary?
 
 **Kantalo:** Obviously, I never expected to win, but until now, I didn't appreciate just how great the gulf was between us...
 
-**Kantalo:** Hahaha, I'll be bragging about the day I got to spar with "Tum{RUBY#[S]Hope}aini" for the rest of my life. Today's really my lucky day!
+**Kantalo:** Hahaha, I'll be bragging about the day I got to spar with "TumHopeaini" for the rest of my life. Today's really my lucky day!
 
 **Paimon:** Paimon can't keep up with you. Your tone has changed all over again now you've had a spar with Traveler... What gives?
 
@@ -3110,7 +3110,7 @@ Many strange events have unfolded between you and the girl named Direidyth, all 
 
 **Paimon:** Please don't mind him, Iansan! He always talks like that, but he's a pretty nice guy deep down.
 
-**Iansan:** It's quite alright. Uwe{RUBY#[S]Power}zo Iansan respects those of great power. It's quite clear that he meant no offense, and I am still delighted to make his acquaintance.
+**Iansan:** It's quite alright. UwePowerzo Iansan respects those of great power. It's quite clear that he meant no offense, and I am still delighted to make his acquaintance.
 
 **Iansan:** Anyway, since you're old friends, I'll leave you to catch up for now. Take your time.
 
@@ -3810,7 +3810,7 @@ I cannot miss the chance to reunite with you five hundred years in the past — 
 
 #### 前往「沃陆之邦」
 
-**伊安珊:** 这么巧，我们的英雄「杜麦{RUBY#[S]希望}尼」还有派蒙，居然会在这里遇到你们。
+**伊安珊:** 这么巧，我们的英雄「杜麦希望尼」还有派蒙，居然会在这里遇到你们。
 
 **派蒙:** 这不是伊安珊教练嘛！你怎么一个人在这里…
 
@@ -4418,7 +4418,7 @@ I cannot miss the chance to reunite with you five hundred years in the past — 
 
 #### 与前线哨兵对话
 
-**苏图拉:** 哦~！我们的英雄「杜麦{RUBY#[S]希望}尼」！之前有幸跟您并肩作战过，不知道您还有没有印象，哈哈…
+**苏图拉:** 哦~！我们的英雄「杜麦希望尼」！之前有幸跟您并肩作战过，不知道您还有没有印象，哈哈…
 
 - **旅行者:** 当然记得。
 
@@ -4456,7 +4456,7 @@ I cannot miss the chance to reunite with you five hundred years in the past — 
 
 #### 与前线哨兵对话
 
-**坎塔鲁:** …是…是英雄「杜麦{RUBY#[S]希望}尼」吗？您怎么来了…是来慰问的吗？
+**坎塔鲁:** …是…是英雄「杜麦希望尼」吗？您怎么来了…是来慰问的吗？
 
 **坎塔鲁:** 怎么…怎么办，好紧张…
 
@@ -4492,7 +4492,7 @@ I cannot miss the chance to reunite with you five hundred years in the past — 
 
 **坎塔鲁:** 虽然从没想过要取胜，但没想到差距这么大啊…
 
-**坎塔鲁:** 哈哈，和英雄「杜麦{RUBY#[S]希望}尼」交过手，是值得吹一辈子的经历了，今天真走运。
+**坎塔鲁:** 哈哈，和英雄「杜麦希望尼」交过手，是值得吹一辈子的经历了，今天真走运。
 
 **派蒙:** 怎么打完架，你的语气完全变了呀？
 
@@ -5002,7 +5002,7 @@ I cannot miss the chance to reunite with you five hundred years in the past — 
 
 **派蒙:** 你不要见怪哦伊安珊，戴因这家伙的态度总是这样，但其实他心肠很好的。
 
-**伊安珊:** 当然没关系，「乌威{RUBY#[S]力量}佐」的伊安珊尊重力量，我也看得出这位先生并无冒犯之意，我依旧很开心与他结识。
+**伊安珊:** 当然没关系，「乌威力量佐」的伊安珊尊重力量，我也看得出这位先生并无冒犯之意，我依旧很开心与他结识。
 
 **伊安珊:** 你们这次的相遇毕竟也算是旧友重逢，应该需要一些叙旧的空间吧，那我就先不打扰了。
 
@@ -5606,7 +5606,7 @@ I cannot miss the chance to reunite with you five hundred years in the past — 
 
 **伊安珊:** 我们的英雄回来了，我们都在等你呢。
 
-**伊安珊:** 主力部队还没到战场，深渊教团就已经全线撤退了…想必又是「杜麦{RUBY#[S]希望}尼」的功劳吧？哦，肯定还有那位戴因斯雷布先生。
+**伊安珊:** 主力部队还没到战场，深渊教团就已经全线撤退了…想必又是「杜麦希望尼」的功劳吧？哦，肯定还有那位戴因斯雷布先生。
 
 **伊安珊:** 嗯？怎么了，看你有些愁眉苦脸的…
 

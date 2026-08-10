@@ -3,19 +3,19 @@
 # title_ru: В ночь, когда все напились
 # title_en: On This Intoxicating Night
 # title_zh: 在他们都喝醉的夜里
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76675
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76675
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76677
 # related_quests: quest_wq_76677
 # quest_chain: quest_wq_76675,quest_wq_76677
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -11,11 +11,11 @@
 # chapter_num_en: Lantern Rite: Day 4
 # chapter_num_zh: 海灯节 第四天
 # part_source_ids: 40004
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_eq_10004
-# quest_series: 
+# quest_series:
 # version_source: verified_override
 
 ## RU
@@ -188,7 +188,7 @@
 
 #### Поговорите с одним из «Похитителей сокровищ»
 
-**Бэй Эр:** Прости, (по)друг{B#а}, но это неверный путь. Куда бы ты ни направля(лась)(лся), тебе нужно в ту сторону!
+**Бэй Эр:** Прости, (по)друга, но это неверный путь. Куда бы ты ни направля(лась)(лся), тебе нужно в ту сторону!
 
 **Паймон:** Разве это не дорога в Ли Юэ?
 

@@ -11,10 +11,10 @@
 # chapter_num_en: The Exquisite Night Chimes: Part I
 # chapter_num_zh: 磬弦奏华夜 其一
 # part_source_ids: 40092
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10109
-# related_quests: quest_eq_10109,quest_wq_40096,quest_wq_71512,quest_wq_71513,quest_wq_71514,quest_wq_71515,quest_wq_71516
-# quest_chain: quest_eq_10108,quest_eq_10109,quest_wq_40096,quest_wq_71512,quest_wq_71513,quest_wq_71514,quest_wq_71515,quest_wq_71516
+# related_quests: quest_eq_10109,quest_wq_40096
+# quest_chain: quest_eq_10108,quest_eq_10109,quest_wq_40096
 # quest_series: The Exquisite Night Chimes
 # version_source: wiki_release_category
 

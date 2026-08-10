@@ -400,7 +400,7 @@
 
 **Сцилла:** От тебя поступило обещание Узурпатору Вод, что используешь дарованную ею чистую воду, чтобы создать мир бесконечного процветания, в котором не будет конфликтов.
 
-**Сцилла:** Я последовал за тобой на поверхность именно потому, что хотел стать свидетелем такого будущего, но вот как всё обернулось... Тебе не повезло, Рем. Ты не смог победить «суд{RUBY#[D]Фортуну}ьбу».
+**Сцилла:** Я последовал за тобой на поверхность именно потому, что хотел стать свидетелем такого будущего, но вот как всё обернулось... Тебе не повезло, Рем. Ты не смог победить «судФортунуьбу».
 
 **Сцилла:** Кровь снова окрасит высокое море в красный цвет, такова жестокость небес по отношению к своим творениям.
 
@@ -886,7 +886,7 @@ I am perfectly aware of all that you say...
 
 **Scylla:** You once promised the Usurper of Many Waters that you would use the pure water she granted you to create a world of endless prosperity, one without conflict.
 
-**Scylla:** I followed you to the surface precisely because I wished to witness that future, but this is how it turned out... You have failed, Remus. You could not defeat "fa{RUBY#[D]Fortuna}te."
+**Scylla:** I followed you to the surface precisely because I wished to witness that future, but this is how it turned out... You have failed, Remus. You could not defeat "faFortunate."
 
 **Scylla:** Blood shall stain the High Sea red once more — such is the cruelty the heavens show to their creations.
 
@@ -1372,7 +1372,7 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 你曾经向众水的僭主许诺，要用她交给你的纯水，创造出一个没有纷争，永恒幸福的世界。
 
-**斯库拉:** 我也是因为想要看看那个未来，才会随你来到地上，但结果却是这样…你失败了，雷穆斯，你无法战胜「命{RUBY#[D]法图纳}运」。
+**斯库拉:** 我也是因为想要看看那个未来，才会随你来到地上，但结果却是这样…你失败了，雷穆斯，你无法战胜「命法图纳运」。
 
 **斯库拉:** 鲜血将再度染红高海，高天对它的造物竟也如此残忍。
 

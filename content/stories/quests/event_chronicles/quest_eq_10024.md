@@ -12,9 +12,9 @@
 # chapter_num_zh: 风花节 其四
 # part_source_ids: 41413
 # previous_quests: quest_eq_10023
-# next_quests: 
-# related_quests: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
-# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
+# next_quests:
+# related_quests: quest_eq_10021,quest_eq_10022,quest_eq_10023
+# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024
 # quest_series: Invitation of Windblume
 # version_source: wiki_release_category
 

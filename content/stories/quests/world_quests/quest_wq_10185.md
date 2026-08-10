@@ -12,7 +12,7 @@
 # chapter_num_zh: 谐律上的咏叙诗·终章
 # part_source_ids: 74196
 # previous_quests: quest_wq_10181
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10183,quest_wq_10184,quest_wq_10182,quest_wq_10181
 # quest_chain: quest_wq_10183,quest_wq_10184,quest_wq_10182,quest_wq_10181,quest_wq_10185
 # quest_series: Canticles of Harmony
@@ -202,7 +202,7 @@
 
 **Фобос:** Желанием Сивиллы было подарить счастье всем, кого можно назвать людьми. Но она не обладала личностью, а её сил было недостаточно.
 
-**Фобос:** Посему она вверила свою мудрость Рему, который дополнил её своей силой и создал «симф{RUBY#[D]Фобос}онию». То есть меня.
+**Фобос:** Посему она вверила свою мудрость Рему, который дополнил её своей силой и создал «симфФобосонию». То есть меня.
 
 **Кассиодор:** Немыслимо...
 
@@ -578,7 +578,7 @@ Cassiodor...
 
 **"Phobos":** Sybilla's wish was to grant happiness to all in the world who are called humans. But she had no persona, and her strength was insufficient.
 
-**"Phobos":** Thus, she entrusted her wisdom to Remus, and with the addition of the power that Remus possessed, the "Symp{RUBY#[D]"Phobos"}hony" was created. That is to say, me.
+**"Phobos":** Thus, she entrusted her wisdom to Remus, and with the addition of the power that Remus possessed, the "Symp"Phobos"hony" was created. That is to say, me.
 
 **Cassiodor:** No, how can this...
 
@@ -954,7 +954,7 @@ But...
 
 **「福波斯」:** 「西比尔」的愿望是为世界上所有被称为人类的存在送去幸福，但她没有人格，也没有足够的力量。
 
-**「福波斯」:** 为此，她将自己的智慧交给了雷穆斯，加上雷穆斯所拥有的力量，便创造出了「乐{RUBY#[D]福波斯}章」，也就是我。
+**「福波斯」:** 为此，她将自己的智慧交给了雷穆斯，加上雷穆斯所拥有的力量，便创造出了「乐福波斯章」，也就是我。
 
 **卡西奥多:** 怎么会…
 

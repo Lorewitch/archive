@@ -3,19 +3,19 @@
 # title_ru: Снежный силуэт: Воссоединение
 # title_en: Snowy Silhouette: Reunion
 # title_zh: 白皑谜影·重逢
-# region: Мондштадт
+# region: Тейват
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 70803
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70803
 # previous_quests: quest_wq_70802
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_70123,quest_wq_70802
 # quest_chain: quest_wq_70123,quest_wq_70802,quest_wq_70803
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

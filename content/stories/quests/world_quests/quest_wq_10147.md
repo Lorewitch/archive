@@ -7,15 +7,15 @@
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 10147
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74082,74083,74084,74085
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10147
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

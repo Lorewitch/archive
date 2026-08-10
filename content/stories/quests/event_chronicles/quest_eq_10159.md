@@ -12,7 +12,7 @@
 # chapter_num_zh: 特尔克西的奇幻历险·下
 # part_source_ids: 40130
 # previous_quests: quest_eq_10158
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10157,quest_eq_10158
 # quest_chain: quest_eq_10157,quest_eq_10158,quest_eq_10159
 # quest_series: Thelxie's Fantastic Adventures

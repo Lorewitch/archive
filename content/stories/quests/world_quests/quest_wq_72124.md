@@ -3,19 +3,19 @@
 # title_ru: Мечты о фехтовании
 # title_en: Dreams of Sword Art
 # title_zh: 刀剑成梦
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72124
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72124
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72124
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

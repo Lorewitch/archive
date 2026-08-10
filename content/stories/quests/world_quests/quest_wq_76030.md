@@ -3,13 +3,13 @@
 # title_ru: Слабое сияние возвращения домой
 # title_en: Homecoming's Faint Glow
 # title_zh: 归家的微光
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76030
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76030
 # previous_quests: quest_wq_76029
 # next_quests: quest_wq_76031

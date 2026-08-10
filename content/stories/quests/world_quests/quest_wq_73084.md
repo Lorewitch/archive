@@ -3,19 +3,19 @@
 # title_ru: Дилемма Афрату
 # title_en: Afratu's Dilemma
 # title_zh: 阿弗拉图之惑
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73084
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73084
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73084
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -46,7 +46,7 @@
 
 **Афрату:** Вероятно, вам больше знакомо слово Каэнри'ах? Дахри - это архаичное имя, которое мы любим использовать в Вахумане.
 
-**Афрату:** Легенда гласит, что пятьсот лет назад Рыцарь Лебедя из Дах{RUBY#[S]Каэнри'ах}ри повёл эти машины против демонов, хлынувших из чёрной Бездны.
+**Афрату:** Легенда гласит, что пятьсот лет назад Рыцарь Лебедя из ДахКаэнри'ахри повёл эти машины против демонов, хлынувших из чёрной Бездны.
 
 **Афрату:** После той войны осталось три голема руин. Они были запечатаны мудрецами. Это один из них.
 
@@ -120,7 +120,7 @@
 
 **Афрату:** Вероятно, вам больше знакомо слово Каэнри'ах? Дахри - это архаичное имя, которое мы любим использовать в Вахумане.
 
-**Афрату:** Легенда гласит, что пятьсот лет назад Рыцарь Лебедя из Дах{RUBY#[S]Каэнри'ах}ри повёл эти машины против демонов, хлынувших из чёрной Бездны.
+**Афрату:** Легенда гласит, что пятьсот лет назад Рыцарь Лебедя из ДахКаэнри'ахри повёл эти машины против демонов, хлынувших из чёрной Бездны.
 
 **Афрату:** После той войны осталось три голема руин. Они были запечатаны мудрецами. Это один из них.
 
@@ -194,9 +194,9 @@
 
 **Афрату:** Я махамата, который отвечает за эту область, но на самом деле меня отправили сюда на временное задание, потому что я был в экспедиции и случайно оказался поблизости.
 
-**Афрату:** Кроме того, я из Ваху{RUBY#[D]школа этиологии}маны. Мои знания о големах руин ограничиваются несколькими словами в учебниках истории.
+**Афрату:** Кроме того, я из Вахушкола этиологииманы. Мои знания о големах руин ограничиваются несколькими словами в учебниках истории.
 
-**Афрату:** Тем не менее если получится побольше узнать об истории древнего Дах{RUBY#[D]Каэнри'ах}ри, я смогу использовать это в моих будущих исследованиях.
+**Афрату:** Тем не менее если получится побольше узнать об истории древнего ДахКаэнри'ахри, я смогу использовать это в моих будущих исследованиях.
 
 #### Вернитесь к Афрату
 
@@ -264,7 +264,7 @@ Dahri?
 
 **Afratu:** Hmm, perhaps you're more familiar with the name Khaenri'ah? Dahri is an archaic name that's commonly used in the Vahumana Darshan.
 
-**Afratu:** Legend has it that the Dah{RUBY#[S]Khaenri'ah}ri Schwanenritter once piloted these huge machines to combat the monsters from the abyss.
+**Afratu:** Legend has it that the DahKhaenri'ahri Schwanenritter once piloted these huge machines to combat the monsters from the abyss.
 
 **Afratu:** Three Ruin Golems survived that brutal war and were sealed by the sages. This is one of them.
 
@@ -338,7 +338,7 @@ Dahri?
 
 **Afratu:** Hmm, perhaps you're more familiar with the name Khaenri'ah? Dahri is an archaic name that's commonly used in the Vahumana Darshan.
 
-**Afratu:** Legend has it that the Dah{RUBY#[S]Khaenri'ah}ri Schwanenritter once piloted these huge machines to combat the monsters from the abyss.
+**Afratu:** Legend has it that the DahKhaenri'ahri Schwanenritter once piloted these huge machines to combat the monsters from the abyss.
 
 **Afratu:** Three Ruin Golems survived that brutal war and were sealed by the sages. This is one of them.
 
@@ -412,9 +412,9 @@ Dahri?
 
 **Afratu:** Although I'm the Mahamata in charge of this area, I was actually sent here on a temporary assignment because I was on an expedition and happened to be nearby.
 
-**Afratu:** Besides, I'm from Vahu{RUBY#[D]Aetiology}mana. My knowledge of the Ruin Golems is limited to the things I read in history books.
+**Afratu:** Besides, I'm from VahuAetiologymana. My knowledge of the Ruin Golems is limited to the things I read in history books.
 
-**Afratu:** But if I can use this opportunity to gain a deeper understanding of ancient Dah{RUBY#[S]Khaenri'ah}ri, it should be very helpful for my subsequent research.
+**Afratu:** But if I can use this opportunity to gain a deeper understanding of ancient DahKhaenri'ahri, it should be very helpful for my subsequent research.
 
 #### Report back to Afratu
 
@@ -482,7 +482,7 @@ That sounds like trouble.
 
 **阿弗拉图:** 嗯，通常的说法应该是坎瑞亚？荼诃是我们因论派喜欢用的古称。
 
-**阿弗拉图:** 传说五百年前，荼诃{RUBY#[D]坎瑞亚}古国的「白鹄骑士」曾驾驶着这些巨大的机械对抗黑渊涌出的魔群。
+**阿弗拉图:** 传说五百年前，荼诃坎瑞亚古国的「白鹄骑士」曾驾驶着这些巨大的机械对抗黑渊涌出的魔群。
 
 **阿弗拉图:** 在残酷的战争后，最终残留下来的三台遗迹巨像被贤者们所封印，这台遗迹巨像就是其中之一。
 
@@ -556,7 +556,7 @@ That sounds like trouble.
 
 **阿弗拉图:** 嗯，通常的说法应该是坎瑞亚？荼诃是我们因论派喜欢用的古称。
 
-**阿弗拉图:** 传说五百年前，荼诃{RUBY#[D]坎瑞亚}古国的「白鹄骑士」曾驾驶着这些巨大的机械对抗黑渊涌出的魔群。
+**阿弗拉图:** 传说五百年前，荼诃坎瑞亚古国的「白鹄骑士」曾驾驶着这些巨大的机械对抗黑渊涌出的魔群。
 
 **阿弗拉图:** 在残酷的战争后，最终残留下来的三台遗迹巨像被贤者们所封印，这台遗迹巨像就是其中之一。
 
@@ -630,9 +630,9 @@ That sounds like trouble.
 
 **阿弗拉图:** 虽然作为教令官负责这里，但我其实是因为要去考察，结果正好在附近而被临时委派到这里来的。
 
-**阿弗拉图:** 况且我来自伐护{RUBY#[D]因论派}末那学院，对遗迹巨像的了解也仅限于历史书上的只言片语。
+**阿弗拉图:** 况且我来自伐护因论派末那学院，对遗迹巨像的了解也仅限于历史书上的只言片语。
 
-**阿弗拉图:** 不过如果借此能对荼诃{RUBY#[D]坎瑞亚}古国的历史有更多了解的话，对我接下来的研究应该也会很有帮助。
+**阿弗拉图:** 不过如果借此能对荼诃坎瑞亚古国的历史有更多了解的话，对我接下来的研究应该也会很有帮助。
 
 #### 向阿弗拉图回报
 

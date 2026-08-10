@@ -3,19 +3,19 @@
 # title_ru: Ход времён под сенью веера
 # title_en: The Tales Behind the Fan
 # title_zh: 扇底春秋
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71101
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71101
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71101
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

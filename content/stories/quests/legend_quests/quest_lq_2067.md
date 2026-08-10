@@ -11,11 +11,11 @@
 # chapter_num_en: Sol Invictus Chapter: Act I
 # chapter_num_zh: 不败阳焰之章 第一幕
 # part_source_ids: 5027,5032,5033,5034
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2067
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1134,7 +1134,7 @@
 
 **Паймон:** А-а-а-а! Ох!
 
-**Мавуика:** Ну как? Небольшое мотошоу для разогрева! Я привезла нашего доброго друга! Встречайте - Тума{RUBY#[S]Надежда}йни!
+**Мавуика:** Ну как? Небольшое мотошоу для разогрева! Я привезла нашего доброго друга! Встречайте - ТумаНадеждайни!
 
 **Зритель на Стадионе:** У-у-у-у!
 
@@ -1658,7 +1658,7 @@
 
 **Шбаланке:** Я сразу разглядел в тебе настоящую воительницу. Под стать мне.
 
-**Шбаланке:** Ты ведь не откажешься от поединка? Наследница моего древнего имени, пылающее солнце, Мавуика Кион{RUBY#[D]Вождь}гози.
+**Шбаланке:** Ты ведь не откажешься от поединка? Наследница моего древнего имени, пылающее солнце, Мавуика КионВождьгози.
 
 **Мавуика:** Я согласна.
 
@@ -3052,7 +3052,7 @@ We know, it's our fault! We're really sorry!
 
 **Paimon:** Aaaaaah— Oof!
 
-**Mavuika:** How'd you like that? A short flamestrider show to start us off, and to introduce and welcome Natlan's great friend, "Tum{RUBY#[D]Hope}aini"!
+**Mavuika:** How'd you like that? A short flamestrider show to start us off, and to introduce and welcome Natlan's great friend, "TumHopeaini"!
 
 **Stadium Audience Member:** Woohoo!!
 
@@ -3576,7 +3576,7 @@ Huh? Okay... So, uh, what are you capable of?
 
 **Xbalanque:** From the moment I first saw you, I knew you to be a true warrior, just like me.
 
-**Xbalanque:** Surely, you shall not refuse me this battle — O inheritor of my Ancient Name, the burning sun, "Kion{RUBY#[D]Leader}gozi" Mavuika.
+**Xbalanque:** Surely, you shall not refuse me this battle — O inheritor of my Ancient Name, the burning sun, "KionLeadergozi" Mavuika.
 
 **Mavuika:** I accept.
 
@@ -4970,7 +4970,7 @@ Did you ever falter, or wonder if you might lose to him, even for a second?
 
 **派蒙:** 欸啊啊啊——唔！
 
-**玛薇卡:** 如何？开场一小段驰轮车表演，为观众朋友们带来纳塔的好朋友，「杜{RUBY#[D]希望}麦尼」！
+**玛薇卡:** 如何？开场一小段驰轮车表演，为观众朋友们带来纳塔的好朋友，「杜希望麦尼」！
 
 **竞技场观众:** 好！！
 
@@ -5494,7 +5494,7 @@ Did you ever falter, or wonder if you might lose to him, even for a second?
 
 **希巴拉克:** 从第一眼见到你，我就知道你和我一样，是真正的战士。
 
-**希巴拉克:** 你应该不会拒绝我的约战吧？我「古名」之继承者，燃烧的太阳，「基扬{RUBY#[D]领袖}戈兹」的玛薇卡。
+**希巴拉克:** 你应该不会拒绝我的约战吧？我「古名」之继承者，燃烧的太阳，「基扬领袖戈兹」的玛薇卡。
 
 **玛薇卡:** 好，我接受。
 

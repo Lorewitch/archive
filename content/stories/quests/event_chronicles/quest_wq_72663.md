@@ -1,0 +1,307 @@
+# id: quest_wq_72663
+# story_group: event_chronicles
+# title_ru: За луной
+# title_en: Over the Moon
+# title_zh: 月盈之刻
+# region: Тейват
+# game_version: 2.1
+# release_versions: 2.1
+# source_id: 72663
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 72663
+# previous_quests: quest_wq_72662
+# next_quests: quest_wq_72667
+# related_quests: quest_wq_72659,quest_wq_72661,quest_wq_72662,quest_wq_72667
+# quest_chain: quest_wq_72659,quest_wq_72661,quest_wq_72662,quest_wq_72663,quest_wq_72667
+# quest_series: Lunar Realm
+# version_source: wiki_release_category
+
+## RU
+
+### За луной
+
+Кудзирай Момидзи снова просит вас прийти, кажется, она пришла к каким-то выводам.
+
+#### Поговорите с Кудзирай Момидзи
+
+**Кудзирай Момидзи:** Вы вернулись. Простите, что опять вас беспокою.
+
+Ты хорошо выглядишь.
+
+**Кудзирай Момидзи:** Ха-ха, спасибо за комплимент. Я наконец поняла.
+
+**Кудзирай Момидзи:** Наверное, некоторые вещи нельзя торопить.
+
+**Кудзирай Момидзи:** Сходите со мной на западную отмель вечером? Я хочу вам кое-что дать.
+
+**Паймон:** Ого! Какое-нибудь морское сокровище?
+
+**Кудзирай Момидзи:** Приходите и узнаете.
+
+#### Отправляйтесь вечером на упомянутое Кудзирай Момидзи морское побережье
+
+**Кудзирай Момидзи:** Вот оно, это место. Тогда мой отец ушёл отсюда в последнее плавание. Была точно такая же ночь. И больше я его не видела.
+
+**Паймон:** Ты, наверное, очень по нему скучаешь? Твоё желание было увидеть его снова, да?
+
+**Кудзирай Момидзи:** Ха-ха, я действительно очень по нему скучаю. Но люди моря рано или поздно всегда в него возвращаются.
+
+**Кудзирай Момидзи:** Моё желание - стать более великим рыбаком, чем мой отец.
+
+**Кудзирай Момидзи:** В детстве я всегда хотела пойти в море с отцом, но он просил маму отвести меня домой. Он даже иногда брал соседского мальчика, но меня взять не соглашался.
+
+**Кудзирай Момидзи:** Он постоянно говорил что-то типа «Момидзи, хватит торчать у моря, иди займись девчачьими делами» или «Вот тебе денег, купи себе юбочку, нечего постоянно к лодке бегать»...
+
+**Кудзирай Момидзи:** Я не понимала. Почему? Что за девчачьи дела?
+
+**Кудзирай Момидзи:** Мне можно покупать конфеты, собирать цветы, быть маленькой принцессой.
+
+**Кудзирай Момидзи:** Но нельзя отправиться в приключение, выйти в море, бороздить океан?
+
+**Кудзирай Момидзи:** Чем больше мне запрещали, тем больше мне хотелось. Когда отец пропал, я стала рыбаком.
+
+**Кудзирай Момидзи:** Я переплыву моря, которые он не смог переплыть. Я поймаю большую рыбу, которую он не смог поймать.
+
+**Кудзирай Момидзи:** Я унаследую рыболовные техники семьи Кудзирай. Я приумножу её славу.
+
+**Кудзирай Момидзи:** Пусть легенда о Лунном левиафане - просто легенда. Я не остановлюсь.
+
+У тебя всё получится.
+
+**Кудзирай Момидзи:** Спасибо.
+
+**Кудзирай Момидзи:** Раз уж божественная рыба не здесь, я предам свои желания морю. Думаю, отец их увидит.
+
+**Кудзирай Момидзи:** У вас есть желания? Давайте вместе. Напишем свои желания, засунем их в бутылки и забросим со всей силы в море. Однажды они обязательно исполнятся.
+
+**Паймон:** Ого... А так можно?
+
+**Паймон:** Но у Паймон так много желаний, какое же выбрать... Так сложно!
+
+**Кудзирай Момидзи:** Спасибо вам большое за всё! Я даже не знаю, как вас отблагодарить. Вот небольшой подарок. Надеюсь, вы примете...
+
+**Паймон:** Ой! Смотрите, что это?!
+
+**Паймон:** Какая большая стая рыб! Да ещё и светится! Кажется, им нравятся наши бутылки!
+
+**Паймон:** Когда они собираются, как будто в море сияет луна!
+
+**Кудзирай Момидзи:** Это... Это же луннопёрки...
+
+**Кудзирай Момидзи:** А! Я поняла... Я поняла! Оказывается это и был Лунный левиафан!
+
+**Паймон:** А? Это Лунный левиафан?
+
+**Кудзирай Момидзи:** Да, я никогда не забуду, как он выглядел. Эти блёстки лунного сияния... Тогда Лунный левиафан тоже возник, когда Цзя Вэй кинул бутылку!
+
+**Кудзирай Момидзи:** Неудивительно, что за все эти годы никто так и не смог поймать Лунного левиафана!
+
+**Кудзирай Момидзи:** Это всё потому, что это просто стайка луннопёрок...
+
+**Кудзирай Момидзи:** Этим луннопёркам, оказывается, нравятся обычные бутылки?
+
+**Паймон:** Хе-хе, может быть, им нравятся желания, которые люди изливают в бутылки.
+
+**Кудзирай Момидзи:** Ха-ха! Тогда смотрите, как Кудзирай Момидзи сейчас их всех поймает!
+
+**Паймон:** И мы тоже! Мы тоже!
+
+**Кудзирай Момидзи:** Тогда позволь мне подарить вам эту удочку. Это особая удочка семьи Кудзирай для ловли Лунного левиафана.
+
+**Кудзирай Момидзи:** Хоть она и не выражает полностью, как я вам благодарна, но всё-таки примите её как знак моей признательности.
+
+**Кудзирай Момидзи:** Давайте поймаем ей всех луннопёрок!
+
+## EN
+
+### Over the Moon
+
+Kujirai Momiji invites you all over. She seems to have come to some conclusion...
+
+#### Talk to Kujirai Momiji
+
+**Kujirai Momiji:** There you are, sorry to bother you again.
+
+You look well.
+
+**Kujirai Momiji:** Haha, thanks for the compliment. I kind of thought it through.
+
+**Kujirai Momiji:** Perhaps, some things just can't be forced.
+
+**Kujirai Momiji:** Can you accompany me to the western beach tonight? I have something for you.
+
+**Paimon:** Wow, is it some kind of sea treasure!
+
+**Kujirai Momiji:** You'll see.
+
+#### Go to the beach that Kujirai Momiji mentioned at night
+
+**Kujirai Momiji:** We're here. This is where my father went to sea for the last time that year. It was a night like this too, and I never saw him again after that.
+
+**Paimon:** You miss him a lot, don't you? Is your wish to see your father again?
+
+**Kujirai Momiji:** Haha, I do miss him, but the people of the sea will have to return to the sea one day.
+
+**Kujirai Momiji:** But my wish is to become a fisherman who surpasses my father.
+
+**Kujirai Momiji:** When I was young, I always wanted to sail with my father, but he would only let my mother take me back. He sometimes even took the neighbor's son, and was not willing to take me.
+
+**Kujirai Momiji:** He always said, "Momiji, don't hang around on the beach, go do something girls should do." Or he would say, "Take the money and buy a dress, don't run to the boat all the time." ...
+
+**Kujirai Momiji:** But I didn't understand. Why? What are things that girls should do?
+
+**Kujirai Momiji:** I can buy candy, pick flowers, and be a little princess.
+
+**Kujirai Momiji:** But can't I go on an adventure, go far out to sea, or explore the ocean?
+
+**Kujirai Momiji:** The more my father didn't want me to do it, the more I wanted to. After my father left, I became a fisherman.
+
+**Kujirai Momiji:** Those seas he couldn't explore, I'll explore then. Those large fishes he couldn't catch, I'll catch them.
+
+**Kujirai Momiji:** I will inherit the fishing methods of the Kujirai family. I will carry on the name of the Kujirai family of fishermen.
+
+**Kujirai Momiji:** Even if the legend of the "Lunar Leviathan" is just a legend, I won't stop there.
+
+I believe you will succeed.
+
+**Kujirai Momiji:** Thank you.
+
+**Kujirai Momiji:** Since the divine fish is not here, I will pour my wishes into the sea. I think my father will see it.
+
+**Kujirai Momiji:** Do you have any wishes? Let's do this together, write down your wishes, stuff them into a drifting bottle, and throw it out with all your might. They will come true one day.
+
+**Paimon:** Wow— Does this really work?
+
+**Paimon:** But Paimon has so many wishes, which one to write... Paimon's so torn!
+
+**Kujirai Momiji:** Sorry for bothering you during this time! I don't even know how to thank you. Here are some gifts, I hope you don't mind...
+
+**Paimon:** Wow— Look, what's that!
+
+**Paimon:** What a big school of fish! They're glowing, they seem to like our drifting bottles!
+
+**Paimon:** When these guys gather together, it's like a big moon in the sea!
+
+**Kujirai Momiji:** These...these fish, they are "Moonfins"...
+
+**Kujirai Momiji:** Oh! I know...I know! So this is the "Lunar Leviathan!"
+
+**Paimon:** Eh? This is the "Lunar Leviathan?"
+
+**Kujirai Momiji:** That's right, I would never forget the way it looked. Its starry moonlit dots...That year that "Lunar Leviathan" also appeared under Jiawei when he dropped the drift bottle.
+
+**Kujirai Momiji:** No wonder, after all these years, no one's been really able to catch the "Lunar Leviathan!"
+
+**Kujirai Momiji:** Because it turns out, it is just composed of a school of "Moonfins."
+
+**Kujirai Momiji:** Those "Moonfins"...Who would have thought they would like an ordinary drifting bottle?
+
+**Paimon:** Hehe, maybe they like the wishes that people pour into the bottles.
+
+**Kujirai Momiji:** Haha! Perhaps, well then watch me Kujirai Momiji catch them all!
+
+**Paimon:** We want to come too! Let us help!
+
+**Kujirai Momiji:** In that case, allow me to give you this fishing rod. It was specially made by the Kujirai family in pursuit of the "Lunar Leviathan".
+
+**Kujirai Momiji:** Although it is far from being able to express my gratitude to you, but it is a small token of my appreciation.
+
+**Kujirai Momiji:** Let's use it to catch all the "Moonfins"!
+
+## ZH
+
+### 月盈之刻
+
+鲸井椛再次请你们过去，她或许已经想通了…
+
+#### 与鲸井椛对话
+
+**鲸井椛:** 你们来了，很抱歉又来麻烦你们了。
+
+你看起来气色不错。
+
+**鲸井椛:** 哈哈，多谢夸奖，我也算是想明白了。
+
+**鲸井椛:** 有些事或许就是不能强求的。
+
+**鲸井椛:** 晚上能陪我去一趟西边的海滩吗？我有东西送给你们。
+
+**派蒙:** 哇，是什么大海的宝藏吗！
+
+**鲸井椛:** 去了就知道了。
+
+#### 在晚上前往鲸井椛提到的海滩
+
+**鲸井椛:** 就是这里了，当年父亲最后一次出海就在这里，也是这样的夜晚，之后我就再也没有见过他了。
+
+**派蒙:** 很想念他吧，鲸井小姐的愿望是不是再见到一次父亲？
+
+**鲸井椛:** 哈哈，我确实很想念他，但是，大海的子民总有一天要回归大海的。
+
+**鲸井椛:** 但我的愿望，其实是要成为超越父亲的渔师啊。
+
+**鲸井椛:** 小时候，我总想和父亲一起出海，但他只会让妈妈把我带回去，有时候甚至带上了邻居家的哥哥，都不愿带上我。
+
+**鲸井椛:** 他总是说着，「椛啊，别在海边晃来晃去，去做些女孩子该做的事。」，「拿着钱去买小裙子吧，不要总往船上跑。」…
+
+**鲸井椛:** 我很不服气，为什么？什么是女孩子该做的事？
+
+**鲸井椛:** 我可以去买糖果，去摘鲜花，当小公主。
+
+**鲸井椛:** 但我不可以去冒险，去远洋，去遨游大海吗？
+
+**鲸井椛:** 我偏不，我偏要做。父亲走后，我干起了渔师的行当。
+
+**鲸井椛:** 他探索不了的海域，我来探索。他捕不了的大鱼，我来捕。
+
+**鲸井椛:** 「鲸井」流的钓鱼之法，我来继承。「鲸井」家的渔师名号，我来发扬光大。
+
+**鲸井椛:** 就算「海中月」的传说只是传说，我也不会止步不前的。
+
+嗯，你会成功的。
+
+**鲸井椛:** 谢谢你们。
+
+**鲸井椛:** 既然神鱼不在，那我就把心愿投入大海吧。我想，父亲会看见的。
+
+**鲸井椛:** 你们有什么愿望吗？一起来吧，写下心愿，塞进漂流瓶，然后用力丢出去。它们总有一天会实现。
+
+**派蒙:** 呜哇——这样可以吗？
+
+**派蒙:** 可是我有好多愿望，要写哪一个呢…好纠结！
+
+**鲸井椛:** 这段时间，辛苦你们了！我都不知道该如何感谢你们，只有一些礼物，希望不要嫌弃…
+
+**派蒙:** 哇——你们看，那是什么！
+
+**派蒙:** 好大一群鱼哦！还在发光，它们好像很喜欢我们的漂流瓶！
+
+**派蒙:** 这些家伙聚在一起，倒是很像一颗海里的大月亮呢！
+
+**鲸井椛:** 这…这些鱼，这些鱼是「月光鳍」…
+
+**鲸井椛:** 啊！我知道了…我知道了！原来如此，原来这就是「海中月」！
+
+**派蒙:** 欸？这就是「海中月」吗？
+
+**鲸井椛:** 没错，我不会忘记它的样子，这星星点点的月光啊…当年那只「海中月」，也是在嘉玮投下漂流瓶后出现的！
+
+**鲸井椛:** 难怪这么多年，都没有人真正捕上过「海中月」！
+
+**鲸井椛:** 原来是因为，它是由一群「月光鳍」汇聚组成啊。
+
+**鲸井椛:** 这些「月光鳍」…居然会喜欢这种普普通通的漂流瓶？
+
+**派蒙:** 嘿嘿，说不定它们是喜欢人们往瓶子里灌注的心愿呢。
+
+**鲸井椛:** 哈哈！既然如此，那就看我鲸井椛把它们全部钓上来！
+
+**派蒙:** 我们也来！我们也来！
+
+**鲸井椛:** 既然如此，那请允许我把这根钓竿送给你们，这是我鲸井家为了追捕「海中月」特制的钓竿。
+
+**鲸井椛:** 虽然远不能表达对你们的感谢，但也是我的一点心意。
+
+**鲸井椛:** 就用它把「月光鳍」全部钓上来吧！

@@ -12,7 +12,7 @@
 # chapter_num_zh: 望月·第三幕
 # part_source_ids: 76131,76143
 # previous_quests: quest_wq_10199
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10197,quest_wq_10199
 # quest_chain: quest_wq_10197,quest_wq_10199,quest_wq_10228
 # quest_series: Moon Gazing
@@ -420,7 +420,7 @@
 
 **След Нин-Киггии:** Если подумать, вполне возможно, что ты унаследуешь моё имя, ха-ха.
 
-**След Нин-Киггии:** Пора прощаться, иди и выполни свою миссию. И в заключение... приветствую тебя и всех созерцателей лу{RUBY#[D]звёздного неба}ны.
+**След Нин-Киггии:** Пора прощаться, иди и выполни свою миссию. И в заключение... приветствую тебя и всех созерцателей лузвёздного небаны.
 
 **Коломбина:** Вот так. Путешественник.
 
@@ -624,7 +624,7 @@
 
 **Яйцо:** Тогда однажды, обязательно пробьётся луч света, который станет рассветом, пронзающим ночную тьму.
 
-**Яйцо:** И наконец... мы... созерцатели лу{RUBY#[D]звёздного неба}ны из неприметного уголка Вселенной...
+**Яйцо:** И наконец... мы... созерцатели лузвёздного небаны из неприметного уголка Вселенной...
 
 **Яйцо:** Наши имена...
 
@@ -1090,7 +1090,7 @@ So this is how Eggie was born...
 
 **Nin-Kiggia's Mark:** Come to think of it, you might actually have inherited my name, hehe.
 
-**Nin-Kiggia's Mark:** It's time to say goodbye. Go complete your mission. And lastly... I salute you, and all your fellow Mo{RUBY#[S]starry sky}ongazers.
+**Nin-Kiggia's Mark:** It's time to say goodbye. Go complete your mission. And lastly... I salute you, and all your fellow Mostarry skyongazers.
 
 **Columbina:** And that's everything.
 
@@ -1294,7 +1294,7 @@ That sounds more feasible.
 
 **Eggie:** Then one day, there will surely come a ray of light that pierces the night like the dawn.
 
-**Eggie:** Last but not least... we are... Mo{RUBY#[S]starry sky}ongazers in an unremarkable corner of the universe...
+**Eggie:** Last but not least... we are... Mostarry skyongazers in an unremarkable corner of the universe...
 
 **Eggie:** Our names are...
 
@@ -1760,7 +1760,7 @@ Are you okay, Columbina?
 
 **宁希姬娅的印迹:** 这样一想，搞不好，你继承的可能会是我的名字呢，哈哈。
 
-**宁希姬娅的印迹:** 该说再见了，去完成你的使命吧。最后…向你和所有的望月{RUBY#[S]星空}者致意。
+**宁希姬娅的印迹:** 该说再见了，去完成你的使命吧。最后…向你和所有的望月星空者致意。
 
 **哥伦比娅:** 就是这样。旅行者。
 
@@ -1964,7 +1964,7 @@ Are you okay, Columbina?
 
 **黑蛋:** 那么总有一天，总有一束光，会成为刺破夜幕的曙光。
 
-**黑蛋:** 最后…我们是…宇宙中一个不起眼角落里的… 望月{RUBY#[S]星空}者…
+**黑蛋:** 最后…我们是…宇宙中一个不起眼角落里的… 望月星空者…
 
 **黑蛋:** 我们的名字是…
 

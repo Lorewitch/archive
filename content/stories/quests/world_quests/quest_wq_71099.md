@@ -3,19 +3,19 @@
 # title_ru: На сцене и за кулисами
 # title_en: On the Stage, Behind the Stage
 # title_zh: 台上台下
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71099
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71099
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71099
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

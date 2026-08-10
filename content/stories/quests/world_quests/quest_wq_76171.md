@@ -3,19 +3,19 @@
 # title_ru: Особая лекция по изучению минералов
 # title_en: Mineral Investigation Special Lecture
 # title_zh: 矿物调查特别授课
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76171
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76171
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76171
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

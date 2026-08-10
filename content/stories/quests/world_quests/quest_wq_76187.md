@@ -3,19 +3,19 @@
 # title_ru: Чай или пузырин?
 # title_en: Tea or Bulle Fruit?
 # title_zh: 茶叶还是泡泡桔？
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76187
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76187
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76187
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

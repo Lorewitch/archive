@@ -3,7 +3,7 @@
 # title_ru: Испытание смелости
 # title_en: Test of Courage
 # title_zh: 试胆大会
-# region: Ли Юэ, Инадзума
+# region: Инадзума
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 10110
@@ -11,7 +11,7 @@
 # chapter_num_en: Akitsu Kimodameshi: Part I
 # chapter_num_zh: 秋津森夜试胆会 其一
 # part_source_ids: 40089
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_72728
 # related_quests: quest_wq_72728,quest_eq_10111,quest_eq_10112,quest_wq_72729
 # quest_chain: quest_eq_10110,quest_wq_72728,quest_eq_10111,quest_eq_10112,quest_wq_72729
@@ -610,13 +610,13 @@
 
 **Сёгун Райдэн:** Я видела игру мельком, похоже, в ней нужно отбивать мяч парящей в воздухе платформой и сбивать элементальные блоки.
 
-**Сёгун Райдэн:** Игра называлась «Акицу Югэй». Предполагаю, что она произошла от «Акицу Хад{RUBY#[S]Ханэасоби}зуры». Мысль о ней навеяла воспоминания о былом.
+**Сёгун Райдэн:** Игра называлась «Акицу Югэй». Предполагаю, что она произошла от «Акицу ХадХанэасобизуры». Мысль о ней навеяла воспоминания о былом.
 
-**Паймон:** «Акицу Хад{RUBY#[S]Ханэасоби}зура»? Это ещё что такое?
+**Паймон:** «Акицу ХадХанэасобизура»? Это ещё что такое?
 
 **Сёгун Райдэн:** Это игра, в которой вы используете хагоиту, чтобы попасть мячом по цели. Когда-то она была очень популярна во время фестивалей.
 
-**Сёгун Райдэн:** Макото очень нравилось играть в «Акицу Хад{RUBY#[S]Ханэасоби}зура», когда она была жива. В то время ёкаи ещё существовали, и ночи в Инадзуме были гораздо более оживлёнными, чем сейчас.
+**Сёгун Райдэн:** Макото очень нравилось играть в «Акицу ХадХанэасобизура», когда она была жива. В то время ёкаи ещё существовали, и ночи в Инадзуме были гораздо более оживлёнными, чем сейчас.
 
 **Сёгун Райдэн:** Время от времени ёкаи устраивали фестивали и собирались, чтобы выпить, посмеяться, послушать музыку...
 
@@ -1536,13 +1536,13 @@ I think I saw someone I know just now...
 
 **Raiden Shogun:** I took a brief look, and it appeared to be a game where you control flippers hovering in the air to strike a ball and hit some positioned elemental cubes.
 
-**Raiden Shogun:** I saw the game was called "Akitsu Yuugei." I'm guessing it originated from "Akitsu Haz{RUBY#[S]Haneasobi}ura." The thought of that game caused me to recall some things from the past.
+**Raiden Shogun:** I saw the game was called "Akitsu Yuugei." I'm guessing it originated from "Akitsu HazHaneasobiura." The thought of that game caused me to recall some things from the past.
 
-**Paimon:** Akitsu Haz{RUBY#[S]Haneasobi}ura? What's that?
+**Paimon:** Akitsu HazHaneasobiura? What's that?
 
 **Raiden Shogun:** It's a game where you use hagoita to hit a ball towards a set target. It was once quite popular during festivals.
 
-**Raiden Shogun:** Makoto also enjoyed playing Akitsu Haz{RUBY#[S]Haneasobi}ura when she was alive. Hyakkiyakou was still around at that time, and nights in Inazuma were much more lively than they are now.
+**Raiden Shogun:** Makoto also enjoyed playing Akitsu HazHaneasobiura when she was alive. Hyakkiyakou was still around at that time, and nights in Inazuma were much more lively than they are now.
 
 **Raiden Shogun:** The youkai would hold festivals from time to time, gathering to drink, laugh, and play music...
 

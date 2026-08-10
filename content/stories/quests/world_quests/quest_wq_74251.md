@@ -3,19 +3,19 @@
 # title_ru: Истории из прошлого
 # title_en: Stories of the Past
 # title_zh: 过去的故事
-# region: Фонтейн
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74251
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74251
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74251
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

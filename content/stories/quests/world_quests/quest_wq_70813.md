@@ -3,19 +3,19 @@
 # title_ru: Держи вора!
 # title_en: Thief-Catcher
 # title_zh: 捕盗
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70813
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70813
 # previous_quests: quest_wq_20602,quest_wq_20603
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_20602,quest_wq_20603
 # quest_chain: quest_wq_20602,quest_wq_20603,quest_wq_70813
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

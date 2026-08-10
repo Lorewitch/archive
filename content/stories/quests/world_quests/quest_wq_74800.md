@@ -3,19 +3,19 @@
 # title_ru: В Кур-де-Фонтейне опасность поджидает на каждом шагу
 # title_en: Danger Lurks Everywhere in Fontaine
 # title_zh: 危机四伏的枫丹廷
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74800
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74800
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_70050
 # related_quests: quest_wq_70050
 # quest_chain: quest_wq_74800,quest_wq_70050
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

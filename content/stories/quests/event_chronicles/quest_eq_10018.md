@@ -11,10 +11,10 @@
 # chapter_num_en: Lantern Rite: Part I
 # chapter_num_zh: 海灯节 其一
 # part_source_ids: 41311
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10019
-# related_quests: quest_eq_10019,quest_eq_10020,quest_eq_40000
-# quest_chain: quest_eq_10018,quest_eq_10019,quest_eq_10020,quest_eq_40000
+# related_quests: quest_eq_10019,quest_eq_10020
+# quest_chain: quest_eq_10018,quest_eq_10019,quest_eq_10020
 # quest_series: Lantern Rite
 # version_source: wiki_release_category
 
@@ -734,7 +734,7 @@ Just about...
 
 **派蒙:** 终于到璃月了！
 
-**博来:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYA|INFO_FEMALE_PRONOUN_GIRLA]}，冒昧问一下。你身边飘着的这个小东西，多少钱可以卖？
+**博来:** 空/荧，冒昧问一下。你身边飘着的这个小东西，多少钱可以卖？
 
 - **旅行者:** 多少钱也不卖！
 

@@ -3,19 +3,19 @@
 # title_ru: Трёхцветный архив
 # title_en: Tricolor File
 # title_zh: 三色档案
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72236
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72236
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72236
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

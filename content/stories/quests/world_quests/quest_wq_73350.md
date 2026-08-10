@@ -3,19 +3,19 @@
 # title_ru: Воспоминания одного фонтейнца
 # title_en: Recollections of a Fontainian
 # title_zh: 一个枫丹人的回忆
-# region: Сумеру
+# region: Тейват
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73350
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73350
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73350
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

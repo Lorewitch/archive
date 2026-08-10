@@ -3,19 +3,19 @@
 # title_ru: Повторное приглашение на чай: Арлекино
 # title_en: Tea Party Re-Invitation: Arlecchino
 # title_zh: 茶会的再邀·阿蕾奇诺
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76220
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76220
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76220
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

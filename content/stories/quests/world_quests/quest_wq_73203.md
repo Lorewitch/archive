@@ -3,13 +3,13 @@
 # title_ru: Изгнанник: Цветение
 # title_en: The Exile: Blooming
 # title_zh: 流放者·花期
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73203
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73203
 # previous_quests: quest_wq_73193
 # next_quests: quest_wq_73204

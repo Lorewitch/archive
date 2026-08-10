@@ -3,16 +3,16 @@
 # title_ru: Отблески храбрости: Воспоминания о свете
 # title_en: Valor's Afterglow: The Faint Light Remembered
 # title_zh: 勇气的余晖·谨记微芒
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71039
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71039
 # previous_quests: quest_wq_71038
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_71036,quest_wq_71038
 # quest_chain: quest_wq_71036,quest_wq_71038,quest_wq_71039
 # quest_series: Valor's Afterglow

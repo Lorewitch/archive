@@ -3,19 +3,19 @@
 # title_ru: Эхо покинутой песни
 # title_en: Echoes of a Forsaken Song
 # title_zh: 放逐者的荒歌
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76074
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76074
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76074
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

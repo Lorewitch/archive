@@ -13,8 +13,8 @@
 # part_source_ids: 6025,6026
 # previous_quests: quest_aq_1604
 # next_quests: quest_aq_1606
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -1956,11 +1956,11 @@
 
 **Дурин:** Вы его знаете. И Альбедо его встречал. А вот магистр ордена и госпожа Лаума с ним пока не знакомы...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Можно обойтись и без представлений. Всё равно в нашем случае это неважно.
+**Странник:** Можно обойтись и без представлений. Всё равно в нашем случае это неважно.
 
 **Паймон:** Это... это ты!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Что такое? В Академии вроде нет правила, запрещающего путешествовать. И я официально взял отпуск.
+**Странник:** Что такое? В Академии вроде нет правила, запрещающего путешествовать. И я официально взял отпуск.
 
 **Дурин:** На самом деле я написал Мастеру Шляпке письмо, как только обрёл человеческое тело. И о том, через что я прошёл в Нод-Крае, он тоже знает.
 
@@ -1968,7 +1968,7 @@
 
 **Лаума:** Мастер Шляпка...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм...
+**Странник:** Хм...
 
 **Варка:** Да нет, знакомое имя.
 
@@ -1978,43 +1978,43 @@
 
 **Лаума:** Лаума, Голос Лунного Гимна из Детей Морозной Луны.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Академия Сумеру, даршан Вахумана, дриоши... Мастер Шляпка.
+**Странник:** ...Академия Сумеру, даршан Вахумана, дриоши... Мастер Шляпка.
 
 **Альбедо:** Вот мы и встретились снова, уважаемый Мастер Шляпка. Прошлая наша встреча случилась на корабле, который доставил нас сюда.
 
 (Значит, они приехали вместе...)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Угу. Так уж вышло, что в Нод-Крае находится человек, о котором мне нужно кое-что разузнать. Только за этим я и приехал.
+**Странник:** Угу. Так уж вышло, что в Нод-Крае находится человек, о котором мне нужно кое-что разузнать. Только за этим я и приехал.
 
 **Паймон:** Ты о ком это?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Доктор» Дотторе, номер два из Предвестников Фатуи.
+**Странник:** «Доктор» Дотторе, номер два из Предвестников Фатуи.
 
 (Вот оно что...)
 
 **Лаума:** Судя по твоему голосу... между вами были какие-то разногласия.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Просто недавно, разбирая документы, я обнаружил, что в архивах Академии слишком много ошибок и пропусков. Это так оставлять нельзя.
+**Странник:** ...Просто недавно, разбирая документы, я обнаружил, что в архивах Академии слишком много ошибок и пропусков. Это так оставлять нельзя.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Дотторе... тогда его звали «Зандик». Он учился в Академии, но был исключён, не окончив курс.
+**Странник:** Дотторе... тогда его звали «Зандик». Он учился в Академии, но был исключён, не окончив курс.
 
 **Варка:** Ха-ха-ха, какой некрасивый факт биографии! Тем более для Предвестника номер два.
 
 **Паймон:** Кстати, до прибытия в Нод-Край мы не раз слышали, будто Доктор что-то затевает... но в итоге мы его здесь даже не увидели.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Он появляется только там, где ему интересно. Возможно, его здесь уже нет.
+**Странник:** Он появляется только там, где ему интересно. Возможно, его здесь уже нет.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но то, что он здесь делал, является довольно важной информацией, которую я запишу в его досье.
+**Странник:** Но то, что он здесь делал, является довольно важной информацией, которую я запишу в его досье.
 
 **Варка:** Звучит так, будто ты не досье составляешь, а хочешь отдать преступника под суд, ха-ха.
 
 **Варка:** Кстати, мы сейчас идём на встречу с двумя Предвестницами Фатуи. Присоединяйся? Вдруг сможешь что-то разузнать.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хорошо.
+**Странник:** Хорошо.
 
 **Паймон:** Хотя обе они... эм, можно сказать, наши старые знакомые. Мастер Шляпка, если решишь с ними заговорить...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм. Я знаю.
+**Странник:** Хм. Я знаю.
 
 **Лаума:** У Детей Морозной Луны до сих пор напряжённые отношения с Фатуи, поэтому я с вами не пойду.
 
@@ -2022,23 +2022,23 @@
 
 **Варка:** Ха-ха-ха, как здорово, что все проведут время с пользой. Ладно, идём. Я покажу дорогу.
 
-Эй, {REALNAME[ID(1)|HOSTONLY(true)]}.
+Эй, Странник.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм?
+**Странник:** Хм?
 
 Ты здесь, чтобы отомстить?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Конечно, и за этим тоже. Но я не единственный, кто хочет свести с ним счёты.
+**Странник:** Конечно, и за этим тоже. Но я не единственный, кто хочет свести с ним счёты.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ни ты, ни малая властительница Кусанали, ни я... никто не хочет, чтобы он снова путался у нас под ногами, верно?
+**Странник:** Ни ты, ни малая властительница Кусанали, ни я... никто не хочет, чтобы он снова путался у нас под ногами, верно?
 
 - **Путешественник:** Хорошо. И ещё кое-что...
 
 - **Путешественник:** Когда вернёмся, хочу поговорить с тобой о Коломбине.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм. Кажется, ты очень взволнован(а).
+**Странник:** Хм. Кажется, ты очень взволнован(а).
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не волнуйся. Голубь всегда найдёт свой дом.
+**Странник:** Не волнуйся. Голубь всегда найдёт свой дом.
 
 (Зандик? Знакомое имя... Тот самый ученик, о котором говорил Царь ибисов в руинах? Он и есть Доктор?)
 
@@ -2050,11 +2050,11 @@
 
 **Марионетка:** Погоди, это и есть представитель Академии, о котором ты мне писал? Как-то не похож...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это должно удостоверить мою личность. На нём печать Храма Сурастаны.
+**Странник:** Это должно удостоверить мою личность. На нём печать Храма Сурастаны.
 
 **Марионетка:** И правда... Ладно, прошу прощения.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Всё нормально, я и не ждал ничего другого.
+**Странник:** Всё нормально, я и не ждал ничего другого.
 
 **Марионетка:** А?
 
@@ -2062,7 +2062,7 @@
 
 **Варка:** Но это строго конфиденциально. Поэтому знать о расследовании должны исключительно те люди, которые им занимаются.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если вас спросят, говорите, что меня привёл в Нод-Край научный интерес.
+**Странник:** Если вас спросят, говорите, что меня привёл в Нод-Край научный интерес.
 
 **Паймон:** Варка, ты столько всего сделал и ничего не говорил! У тебя и связь с Академией давно налажена!
 
@@ -2084,7 +2084,7 @@
 
 **Арлекино:** Вернёмся к теме. После истории с Лунным мстителем нам с Сандроне показалось странным бездействие Дотторе. Мы провели расследование, но ничего не обнаружили.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Он не допустит, чтобы кто-то узнал о его планах. Особенно если речь идёт о том, что ему дорого.
+**Странник:** Он не допустит, чтобы кто-то узнал о его планах. Особенно если речь идёт о том, что ему дорого.
 
 **Арлекино:** Хм. Возможно, Дотторе решил, что о нём забудут, если он будет сидеть тихо. Но с коллегами этот трюк не сработает.
 
@@ -2102,7 +2102,7 @@
 
 **Марионетка:** Кроме собственного блестящего ума, ему нужны ресурсы Цыплёнка и мора Дельца. Её величество может отнять всё это у него одним мановением руки.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но ведь уже не раз бывало такое, что на словах он соглашался, а делал всё по-своему?
+**Странник:** Но ведь уже не раз бывало такое, что на словах он соглашался, а делал всё по-своему?
 
 **Марионетка:** Действительно, такая опасность есть... Мне доводилось работать с ним над одним исследованием. Мы с ним совершенно разные люди.
 
@@ -2120,7 +2120,7 @@
 
 **Паймон:** Ты про историю с Лунным Светочем?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Полагаю, при проведении экспериментов Дотторе игнорирует протокол, портит оборудование, тратит больше ресурсов, чем необходимо, и в случае чего обвиняет во всём других.
+**Странник:** Полагаю, при проведении экспериментов Дотторе игнорирует протокол, портит оборудование, тратит больше ресурсов, чем необходимо, и в случае чего обвиняет во всём других.
 
 **Марионетка:** Да! Однажды он проводил эксперимент при сверхвысоких температурах, и вещество взорвалось. Чтобы зафиксировать результат, он приказал подчинённым немедленно открыть устройство и выпустить дым...
 
@@ -2134,13 +2134,13 @@
 
 **Арлекино:** Уважаемый Мастер Шляпка, я вижу, вы хорошо осведомлены о Предвестниках Фатуи. Особенно о Дотторе.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хочу поблагодарить уважаемых Предвестниц за столь ценную информацию. У меня больше нет вопросов, я вас оставлю.
+**Странник:** Хочу поблагодарить уважаемых Предвестниц за столь ценную информацию. У меня больше нет вопросов, я вас оставлю.
 
 **Паймон:** Эй, ты чего! Вот так берёшь и уходишь?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если хочешь, пойдём вместе.
+**Странник:** Если хочешь, пойдём вместе.
 
 **Паймон:** Эх, ну вот. Паймон думала, он немного пообтесался, но нет. Это всё тот же Мастер Шляпка...
 
@@ -2196,7 +2196,7 @@
 
 **Марионетка:** Я давно забыла, кто это сказал. Но сами слова запомнила накрепко.
 
-(Очень похоже на то, что сказал бы {REALNAME[ID(1)|HOSTONLY(true)]}. Вот почему ты не помнишь...)
+(Очень похоже на то, что сказал бы Странник. Вот почему ты не помнишь...)
 
 **Субретка:** (Но ты всегда хорошо делала свою работу. Сандроне, ты очень ответственный человек.)
 
@@ -2236,15 +2236,15 @@
 
 #### Обменяйтесь разведданными и оцените ситуацию
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вот вы где.
+**Странник:** Вот вы где.
 
 **Альбедо:** Это Мастер Шляпка.
 
 **Дурин:** Что ты здесь делаешь? Как прошли переговоры с Фатуи?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Нормально. Царица отозвала Дотторе. Других новостей нет.
+**Странник:** Нормально. Царица отозвала Дотторе. Других новостей нет.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А у вас есть успехи?
+**Странник:** А у вас есть успехи?
 
 **Дурин:** К сожалению, нет...
 
@@ -2256,35 +2256,35 @@
 
 **Дурин:** И если я не смогу выполнить возложенную на меня миссию, случится ещё одна трагедия?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Бессмысленные предположения.
+**Странник:** ...Бессмысленные предположения.
 
 **Альбедо:** Наблюдая подобные явления ранее, я пытался повлиять на фантомы и направлять их с помощью звука и света.
 
 **Альбедо:** Но конец всегда неизменен. Я могу лишь немного отсрочить развязку.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Свершившееся прошлое подобно судьбе, записанной в Ирминсуле. Ни одно живое существо в Тейвате не может убежать от своего прошлого...
+**Странник:** Свершившееся прошлое подобно судьбе, записанной в Ирминсуле. Ни одно живое существо в Тейвате не может убежать от своего прошлого...
 
 **Альбедо:** Но госпожа Алиса поручила нам найти способ изменить судьбу этих фантомов.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это невозможно. Почему вы не можете ей отказать?
+**Странник:** Это невозможно. Почему вы не можете ей отказать?
 
 **Дурин:** Если она дала такое задание, скорее всего, оно осуществимо... или вернее будет сказать, что ведьмы умеют превращать невозможное в возможное.
 
 **Дурин:** Иначе я бы не родился под именем «Дурин».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но ты говорил, что предпринял тридцать девять попыток, и все они закончились провалом.
+**Странник:** Но ты говорил, что предпринял тридцать девять попыток, и все они закончились провалом.
 
 **Дурин:** Верно...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но ты всё равно будешь продолжать?
+**Странник:** Но ты всё равно будешь продолжать?
 
 **Дурин:** Да.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** После стольких тщетных попыток ты наверняка понимаешь, что делаешь это вовсе не потому, что поверил словам какой-то ведьмы.
+**Странник:** После стольких тщетных попыток ты наверняка понимаешь, что делаешь это вовсе не потому, что поверил словам какой-то ведьмы.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А потому, что очень хочешь, чтобы её слова стали реальностью. И это самое искреннее твоё желание.
+**Странник:** А потому, что очень хочешь, чтобы её слова стали реальностью. И это самое искреннее твоё желание.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Подумай о том, чего ты хочешь. Пока ты сам не считаешь свою затею напрасной, в ней есть смысл.
+**Странник:** Подумай о том, чего ты хочешь. Пока ты сам не считаешь свою затею напрасной, в ней есть смысл.
 
 **Дурин:** ...Да!
 
@@ -2292,19 +2292,19 @@
 
 **Альбедо:** Чтобы выйти из затруднения, мы должны придумать, как обойти это правило.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да, согласен. Следование правилам приводит лишь к повторению неудачи, превращая нас в игрушки судьбы.
+**Странник:** Да, согласен. Следование правилам приводит лишь к повторению неудачи, превращая нас в игрушки судьбы.
 
 **Дурин:** Вы хотите сказать, что мы должны придумать, как до них дотронуться? Заранее зная, что это невозможно?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да. И я боюсь, что это под силу только тебе.
+**Странник:** Да. И я боюсь, что это под силу только тебе.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Все живые существа в Тейвате запечатлены в Ирминсуль, но зоны Увядания, которые раньше часто встречались в Сумеру, были одним из знаков того, что Ирминсуль загрязнён.
+**Странник:** Все живые существа в Тейвате запечатлены в Ирминсуль, но зоны Увядания, которые раньше часто встречались в Сумеру, были одним из знаков того, что Ирминсуль загрязнён.
 
 **Альбедо:** Загрязнение Ирминсуля привело к тому, что в Тейвате появились сущности, которых здесь не должно быть... Это всё равно, как если бы кто-то переписал реальность.
 
 **Дурин:** Ты хочешь сказать, что на фантомов можно повлиять с помощью энергии Бездны?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Никто этого не пробовал. Оцени, хватит ли тебе смелости и сможешь ли ты соблюсти меру, и тогда решай, пробовать тебе или нет.
+**Странник:** Никто этого не пробовал. Оцени, хватит ли тебе смелости и сможешь ли ты соблюсти меру, и тогда решай, пробовать тебе или нет.
 
 **Размаспес:** Эй, есть здесь кто-нибудь? Вы видели мою дочь?
 
@@ -2318,7 +2318,7 @@
 
 **Альбедо:** Да. Важна не природа силы, а то, как ты её используешь.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Чтобы запугать или помешать... Хм, да, очень похоже на то, как ведёт себя Бездна.
+**Странник:** Чтобы запугать или помешать... Хм, да, очень похоже на то, как ведёт себя Бездна.
 
 **Дурин:** ...Давай я попробую. У меня должно получиться.
 
@@ -2326,17 +2326,17 @@
 
 **Дурин:** Он... он правда ушёл! Получилось!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Рано радуешься. Следуй за ним и посмотри, что он будет делать дальше.
+**Странник:** Рано радуешься. Следуй за ним и посмотри, что он будет делать дальше.
 
 #### Сделайте так, чтобы Размаспес мог пройти
 
-*Покинув Экспериментальное конструкторское бюро куувяки, {REALNAME[ID(1)|HOSTONLY(true)]} отправился к Дурину и Альбедо, которые наблюдали за фантомами.*
+*Покинув Экспериментальное конструкторское бюро куувяки, Странник отправился к Дурину и Альбедо, которые наблюдали за фантомами.*
 
 **Размаспес:** И барьер исчез. Как странно...
 
 **Размаспес:** Ладно, мне надо идти дальше.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Идём за ним.
+**Странник:** Идём за ним.
 
 #### Используйте взрывчатку, чтобы помочь Размаспесу
 
@@ -2344,7 +2344,7 @@
 
 **Размаспес:** Как много монстров!..
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Дурин, не всё потеряно. Воспользуйся ловушками.
+**Странник:** Дурин, не всё потеряно. Воспользуйся ловушками.
 
 #### Защитите Размаспеса
 
@@ -2406,7 +2406,7 @@
 
 **Монстр:** ——
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Дурин, воспользуйся взрывчаткой! Как в прошлый раз!
+**Странник:** Дурин, воспользуйся взрывчаткой! Как в прошлый раз!
 
 #### Продолжайте сопровождать Размаспеса
 
@@ -2434,7 +2434,7 @@
 
 **Дурин:** Но... это единственная ниточка, которая ведёт к его дочери...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Может, эта не единственная зацепка. Лучше потерять подсказку, чем лишиться жизни.
+**Странник:** Может, эта не единственная зацепка. Лучше потерять подсказку, чем лишиться жизни.
 
 **Дурин:** Ладно...
 
@@ -2444,7 +2444,7 @@
 
 **Дурин:** Он отказывается идти куда-то ещё. Откроет он дверь или нет, его ждёт только смерть. Мы... всё равно не смогли изменить его судьбу.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Дурин:** Альбедо, Мастер Шляпка, давайте попробуем ещё раз. Зацепок у нас нет, но я не хочу так запросто сдаваться.
 
@@ -2452,7 +2452,7 @@
 
 **Дурин:** А? Что с тобой?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм.
+**Странник:** Хм.
 
 **Альбедо:** Он ведёт себя по-другому.
 
@@ -2472,7 +2472,7 @@
 
 **Дурин:** Н-нет...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да.
+**Странник:** Да.
 
 **Альбедо:** И всё же мы пытаемся найти выход.
 
@@ -2492,13 +2492,13 @@
 
 **Размаспес:** Сколько времени у меня осталось?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** По опыту, от пятнадцати до двадцати минут.
+**Странник:** По опыту, от пятнадцати до двадцати минут.
 
 **Размаспес:** От пятнадцати до двадцати минут... Эх.
 
 **Размаспес:** Спасибо вам за помощь. Давайте отдохнём. Вы тоже явно устали...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мы обойдёмся без твоего сочувствия.
+**Странник:** Мы обойдёмся без твоего сочувствия.
 
 **Размаспес:** Ха-ха, это не сочувствие... Я просто понял, что мне осталось всего десять минут...
 
@@ -2514,7 +2514,7 @@
 
 **Размаспес:** Хм... Там когда-то жили мои предки. А про Дельфы Пито слышали? Их отстроили заново?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Впервые слышу.
+**Странник:** Впервые слышу.
 
 **Размаспес:** А... Сал Виндагнир?
 
@@ -2532,9 +2532,9 @@
 
 **Дурин:** То и дело проходят праздники, люди собираются вместе, пьют вино, поют песни...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В Сумеру нравы намного строже. Там вечно появляются какие-то проблемы, которые требуют срочного решения, так что в Сумеру о беззаботной жизни можно только мечтать.
+**Странник:** В Сумеру нравы намного строже. Там вечно появляются какие-то проблемы, которые требуют срочного решения, так что в Сумеру о беззаботной жизни можно только мечтать.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Но это настоящий рай для тех, кто ищет знаний.
+**Странник:** ...Но это настоящий рай для тех, кто ищет знаний.
 
 **Размаспес:** Как прекрасно.
 
@@ -2554,17 +2554,17 @@
 
 **Альбедо:** Финал не изменился, но я считаю, что это была наша самая успешная попытка из всех.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Пусть у вас всё получится»... Если бы всё было так просто.
+**Странник:** «Пусть у вас всё получится»... Если бы всё было так просто.
 
 **Дурин:** Мастер Шляпка, могу я задать тебе один вопрос?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да?
+**Странник:** Да?
 
 **Дурин:** Ты никогда не рассказываешь о своём прошлом. Наверное, там какая-то сложная история... которая лежит на тебе тяжёлым грузом.
 
 **Дурин:** Ты сможешь мне рассказать? Видишь ли, иногда становится намного легче, когда выговоришься. По крайней мере, человек, которому мы пытались помочь, прощаясь с нами, улыбался.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Дурин:** Я знаю о прошлом Альбедо, мы делим с ним схожий опыт, и он меня создал.
 
@@ -2572,43 +2572,43 @@
 
 **Дурин:** Всё равно мы с тобой лучшие друзья, что бы ты ни решил! Но если бы я знал о тебе больше... я бы лучше понимал тебя.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я уже рассказал о себе. Я обычный студент Академии.
+**Странник:** Я уже рассказал о себе. Я обычный студент Академии.
 
 **Дурин:** А до этого ты чем занимался?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Готовился к экзаменам.
+**Странник:** Готовился к экзаменам.
 
 **Дурин:** ...Ладно. Если не хочешь рассказывать, давай не будем об этом.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я был куклой, созд{RUBY#[S]Симуланка}анной из ветви белого древа с помощью технологий, оставшихся от механиков Каэнри'ах.
+**Странник:** Я был куклой, создСимуланкаанной из ветви белого древа с помощью технологий, оставшихся от механиков Каэнри'ах.
 
 **Альбедо:** Белое древо? Ты про Ирминсуль?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да. Это была ветвь, некогда связанная с Ирминсулем.
+**Странник:** Да. Это была ветвь, некогда связанная с Ирминсулем.
 
 **Дурин:** Значит, тебя тоже кто-то создал...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да. Но моя создательница осталась недовольна результатом и бросила меня.
+**Странник:** Да. Но моя создательница осталась недовольна результатом и бросила меня.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А потом...
+**Странник:** А потом...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Дурин, противостоять влиянию Бездны, сдерживать разрушительные порывы, стараться не совершать ошибок... всё это очень непросто.
+**Странник:** Дурин, противостоять влиянию Бездны, сдерживать разрушительные порывы, стараться не совершать ошибок... всё это очень непросто.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но пойми, пытаться переписать свои прошлые ошибки намного труднее.
+**Странник:** Но пойми, пытаться переписать свои прошлые ошибки намного труднее.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты спросил, а вдруг случится новая трагедия, если у тебя ничего не получится. И я ответил, что такие предположения не имеют смысла.
+**Странник:** Ты спросил, а вдруг случится новая трагедия, если у тебя ничего не получится. И я ответил, что такие предположения не имеют смысла.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но настоящий ответ: да. Конечно, случится.
+**Странник:** Но настоящий ответ: да. Конечно, случится.
 
 **Дурин:** Мастер Шляпка...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но рядом с тобой есть люди, которые не дадут тебе свернуть на неправильный путь. Так что... продолжай стремиться к свету.
+**Странник:** Но рядом с тобой есть люди, которые не дадут тебе свернуть на неправильный путь. Так что... продолжай стремиться к свету.
 
 **Дурин:** Да. Обещаю.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ну ладно. Перерыв окончен.
+**Странник:** Ну ладно. Перерыв окончен.
 
 **Додокоммуникатор:** Додо!
 
@@ -2872,7 +2872,7 @@
 
 (...Она разрешила мне (самой)(самому) выбрать, как её называть. Почему я выбрал(а) имя «Коломбина»?)
 
-(Может, я чувствовал(а), что она никогда не хотела быть Куу{RUBY#[S]Дева Луны}тар? Не хотела, чтобы ей поклонялись?)
+(Может, я чувствовал(а), что она никогда не хотела быть КууДева Лунытар? Не хотела, чтобы ей поклонялись?)
 
 **Флинс:** Ночь лунной молитвы уже не за горами, время заканчивается. Надо искать других кандидатов.
 
@@ -4872,11 +4872,11 @@ We learned some stories from her early days.
 
 **Durin:** Someone you know. Albedo's met him, too. But I don't think Miss Lauma or the Grand Master have been introduced...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Introductions are overrated — especially in cases like this.
+**Wanderer:** Introductions are overrated — especially in cases like this.
 
 **Paimon:** It's you!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So? It's not like the Akademiya has prohibitions against going abroad. Also, I applied for leave.
+**Wanderer:** So? It's not like the Akademiya has prohibitions against going abroad. Also, I applied for leave.
 
 **Durin:** I've been writing to Hat Guy since obtaining a human form. I've already brought him up to speed on everything that's been going on in Nod-Krai.
 
@@ -4884,7 +4884,7 @@ We learned some stories from her early days.
 
 **Lauma:** Hat Guy...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph...
+**Wanderer:** Hmph...
 
 **Varka:** Turns out I actually have heard that name before.
 
@@ -4894,43 +4894,43 @@ We learned some stories from her early days.
 
 **Lauma:** Lauma, Moonchanter of the Frostmoon Scions.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** And I'm a Driyosh from the Vahumana Darshan of the Sumeru Akademiya... Hat Guy.
+**Wanderer:** And I'm a Driyosh from the Vahumana Darshan of the Sumeru Akademiya... Hat Guy.
 
 **Albedo:** Good to see you again, Mr. Guy. I believe we last saw each other on the boat ride here.
 
 (So they came to Nod-Krai together...)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Mmm. Mind you, the only reason I came here is because there's someone I want to look into.
+**Wanderer:** Mmm. Mind you, the only reason I came here is because there's someone I want to look into.
 
 **Paimon:** Who's that?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The Doctor, also known as Dottore. Second of the Fatui Harbingers.
+**Wanderer:** The Doctor, also known as Dottore. Second of the Fatui Harbingers.
 
 (Just as I thought...)
 
 **Lauma:** From the tone of your voice... it sounds like there is bad blood between you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...I was reviewing our archives and noticed that a lot of information about him was missing. Left a bad taste in my mouth. That's all there is to it.
+**Wanderer:** ...I was reviewing our archives and noticed that a lot of information about him was missing. Left a bad taste in my mouth. That's all there is to it.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Dottore... or Zandik as he was then known, once studied at the Akademiya. But he got kicked out before he could graduate.
+**Wanderer:** Dottore... or Zandik as he was then known, once studied at the Akademiya. But he got kicked out before he could graduate.
 
 **Varka:** Hahahaha! So the harbingers' number two man is a college dropout? How embarrassing for them.
 
 **Paimon:** Last we heard, he was planning something... We actually heard that a few times before even coming to Nod-Krai. But we haven't seen a trace of him since we got here.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He only appears when something interests him. For all we know, he might have left already.
+**Wanderer:** He only appears when something interests him. For all we know, he might have left already.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But the fact that he did something here at all is worth noting... It'll fill a couple extra lines in his file.
+**Wanderer:** But the fact that he did something here at all is worth noting... It'll fill a couple extra lines in his file.
 
 **Varka:** Heh, why does it sound less like a file you're writing, and more like a criminal record...
 
 **Varka:** Anyway, we were just about to meet two of the other Harbingers. Wanna come along? You might learn a thing or two about him there.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sure.
+**Wanderer:** Sure.
 
 **Paimon:** Even though they're Harbingers, uh... Well, they're old acquaintances of ours, so... y'know, when you talk to them, try to be...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph. I got it.
+**Wanderer:** Hmph. I got it.
 
 **Lauma:** The Frostmoon Scions' relations with the Fatui remain tense. Forgive me if I do not attend.
 
@@ -4938,23 +4938,23 @@ We learned some stories from her early days.
 
 **Varka:** Good stuff, everyone's having a fruitful time! Alright, we'd better get going — I'll lead the way.
 
-Hey, {REALNAME[ID(1)|HOSTONLY(true)]}.
+Hey, Wanderer.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmm?
+**Wanderer:** Hmm?
 
 Are you here for revenge?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Well yeah, that's obviously part of it. But I'm not the only one who has a score to settle with him.
+**Wanderer:** Well yeah, that's obviously part of it. But I'm not the only one who has a score to settle with him.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Neither you, nor Lesser Lord Kusanali, nor I want to see him meddling with things again.
+**Wanderer:** Neither you, nor Lesser Lord Kusanali, nor I want to see him meddling with things again.
 
 - **Traveler:** Fair enough. One other thing...
 
 - **Traveler:** When we return, let's talk about Columbina.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hah. What's the hurry?
+**Wanderer:** Hah. What's the hurry?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Don't worry. Pigeons always know which way home is.
+**Wanderer:** Don't worry. Pigeons always know which way home is.
 
 (Zandik? I've heard that name before... Back in the ruins, when the Ibis King mentioned that student — that was The Doctor?)
 
@@ -4966,11 +4966,11 @@ Are you here for revenge?
 
 **Marionette:** Wait, THIS is the Akademiya representative you wrote about? He doesn't exactly look the part...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I believe this will prove my identity. You'll notice it bears the seal of the Sanctuary of Surasthana.
+**Wanderer:** I believe this will prove my identity. You'll notice it bears the seal of the Sanctuary of Surasthana.
 
 **Marionette:** Well, what do you know. So it does... Alright then. My mistake.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's fine. I expected as much.
+**Wanderer:** It's fine. I expected as much.
 
 **Marionette:** What?
 
@@ -4978,7 +4978,7 @@ Are you here for revenge?
 
 **Varka:** But this matter remains top secret. Apart from those assisting in the investigation, the fewer people who know, the better.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** If anyone asks, I am here in Nod-Krai to pursue my personal academic interests.
+**Wanderer:** If anyone asks, I am here in Nod-Krai to pursue my personal academic interests.
 
 **Paimon:** Gotta say, Varka, you did pretty well to keep all this under wraps for so long. Sounds like you got in touch with the Akademiya about this way back.
 
@@ -5000,7 +5000,7 @@ Are you here for revenge?
 
 **The Knave:** Now, back on topic. In the wake of the Rächer of Solnari episode, Sandrone and I grew suspicious about Dottore's complete inaction during the entire affair. So we tried to find out what he'd been up to — but unfortunately, to no avail.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He never lets anyone in on his plans. The more he cares about something, the more secretive he gets.
+**Wanderer:** He never lets anyone in on his plans. The more he cares about something, the more secretive he gets.
 
 **The Knave:** Indeed. Perhaps he believes that by keeping a low profile, he can avoid trouble. But that trick isn't going to work on his colleagues.
 
@@ -5018,7 +5018,7 @@ Are you here for revenge?
 
 **Marionette:** Smarts alone won't get him all the way. He needs The Rooster's resources and Regrator's Mora — both of which the Tsaritsa can strip from him by waggling a finger.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But doesn't he have a track record of publicly following orders while going against them in private? He probably has it down to a fine art by now.
+**Wanderer:** But doesn't he have a track record of publicly following orders while going against them in private? He probably has it down to a fine art by now.
 
 **Marionette:** Wouldn't put it past him... We worked together on a research project once. Only briefly, but it was enough to show me that we're fundamentally different people.
 
@@ -5036,7 +5036,7 @@ Are you here for revenge?
 
 **Paimon:** Are you talking about the Moon Marrow stuff?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He also strikes me as the kind of person to disregard experimental regulations, ruin all the equipment, and go way over budget... then leave the first person he can find to deal with the fallout.
+**Wanderer:** He also strikes me as the kind of person to disregard experimental regulations, ruin all the equipment, and go way over budget... then leave the first person he can find to deal with the fallout.
 
 **Marionette:** Exactly! This one time, he was running some high-temperature experiment and the substance exploded. But does he care? No! He orders his subordinates to open the device so he can observe the results — which causes the gas inside to leak out...
 
@@ -5050,13 +5050,13 @@ Are you here for revenge?
 
 **The Knave:** Hat Guy, I must say — you seem awfully familiar with internal Fatui affairs... especially when it comes to Dottore.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Thank you, Lady Harbingers, for providing such valuable information. I have no other questions for now, so I'll be on my way.
+**Wanderer:** Thank you, Lady Harbingers, for providing such valuable information. I have no other questions for now, so I'll be on my way.
 
 **Paimon:** Wait, what? You're just gonna leave!?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You're welcome to join if you want.
+**Wanderer:** You're welcome to join if you want.
 
 **Paimon:** Ugh. Just when Paimon thought he'd finally mellowed out...
 
@@ -5112,7 +5112,7 @@ Are you here for revenge?
 
 **Marionette:** I forget who said it... But those words have always stuck with me.
 
-(Sounds like something {REALNAME[ID(1)|HOSTONLY(true)]} would say... No wonder.)
+(Sounds like something Wanderer would say... No wonder.)
 
 **The Damselette:** (But you've done your job exceptionally well all this time. Because at heart, you are a conscientious person.)
 
@@ -5152,15 +5152,15 @@ I want to shout it to her from the rooftops.
 
 #### Exchange intel and assess the situation
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Here you are.
+**Wanderer:** Here you are.
 
 **Albedo:** Ah, Hat Guy.
 
 **Durin:** How come you're back so soon? Did things go alright with the Fatui?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Fine. Dottore's been summoned home by the Tsaritsa. Couldn't get much more than that.
+**Wanderer:** Fine. Dottore's been summoned home by the Tsaritsa. Couldn't get much more than that.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** How about you? Any progress with the investigation?
+**Wanderer:** How about you? Any progress with the investigation?
 
 **Durin:** Unfortunately not...
 
@@ -5172,35 +5172,35 @@ I want to shout it to her from the rooftops.
 
 **Durin:** And... if I fail in the task I've been given... will I create yet another tragedy?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...That's just meaningless speculation.
+**Wanderer:** ...That's just meaningless speculation.
 
 **Albedo:** When we encountered similar phenomena previously, I tried to interfere with those illusions, using sounds and lights to guide them.
 
 **Albedo:** However, we could not change their fates. At most, we were able to extend their existences.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The events of the past are like fate that has been written into Irminsul. There isn't a living thing in Teyvat that can escape its past...
+**Wanderer:** The events of the past are like fate that has been written into Irminsul. There isn't a living thing in Teyvat that can escape its past...
 
 **Albedo:** But Ms. Alice instructed us to try to find ways to change the outcome that these phantoms face.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's an impossible task. Can't you just refuse?
+**Wanderer:** It's an impossible task. Can't you just refuse?
 
 **Durin:** Since she asked us to do this, I feel like it can't truly be impossible. Or, if it is... Well, mages can make the impossible possible.
 
 **Durin:** I could not have been born as "Durin" otherwise.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But you also said that your past thirty-nine attempts were fruitless.
+**Wanderer:** But you also said that your past thirty-nine attempts were fruitless.
 
 **Durin:** That's true...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But you're still going?
+**Wanderer:** But you're still going?
 
 **Durin:** Yes.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** After this many futile attempts, surely you realize that you're not doing this because you still believe what some mage told you.
+**Wanderer:** After this many futile attempts, surely you realize that you're not doing this because you still believe what some mage told you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's because you want her hypothesis to come true. It's something you wish for deep inside.
+**Wanderer:** It's because you want her hypothesis to come true. It's something you wish for deep inside.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So, think for yourself about what you want to do. As long as you don't believe it's futile, it isn't.
+**Wanderer:** So, think for yourself about what you want to do. As long as you don't believe it's futile, it isn't.
 
 **Durin:** ...Yeah!
 
@@ -5208,19 +5208,19 @@ I want to shout it to her from the rooftops.
 
 **Albedo:** If we want to clear this hurdle, we need to break this rule somehow.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Same thought here. Following the same rules means repeating the same failures — reducing ourselves to mere playthings of fate.
+**Wanderer:** Same thought here. Following the same rules means repeating the same failures — reducing ourselves to mere playthings of fate.
 
 **Durin:** So you mean... we need to figure out a way to make contact with them, despite knowing that we can't?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Yes. And I suspect that's something only you are capable of.
+**Wanderer:** Yes. And I suspect that's something only you are capable of.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Everything in Teyvat is logged in Irminsul, but The Withering that once occurred in Sumeru was a sign that that great world tree was being corrupted.
+**Wanderer:** Everything in Teyvat is logged in Irminsul, but The Withering that once occurred in Sumeru was a sign that that great world tree was being corrupted.
 
 **Albedo:** This corruption allowed things that should not have existed in Teyvat to appear... This is tantamount to rewriting reality to an extent.
 
 **Durin:** You're saying, Abyssal power might be able to affect these phantoms?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** No one's ever tried it before. If you're gonna try it, it'll take courage, and you have to be confident that you can control it.
+**Wanderer:** No one's ever tried it before. If you're gonna try it, it'll take courage, and you have to be confident that you can control it.
 
 **Razmaspes:** Is anyone there!? Has anyone seen my daughter...?
 
@@ -5234,7 +5234,7 @@ I want to shout it to her from the rooftops.
 
 **Albedo:** Yes. The important thing is not the nature of the power, but rather how you use it.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** To intimidate and obstruct... Hmph. Sounds about right for the Abyss.
+**Wanderer:** To intimidate and obstruct... Hmph. Sounds about right for the Abyss.
 
 **Durin:** ...Let me try. I should be able to influence that thing.
 
@@ -5242,17 +5242,17 @@ I want to shout it to her from the rooftops.
 
 **Durin:** He... He really left! We did it!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Don't celebrate too soon. Follow him, see what he does next.
+**Wanderer:** Don't celebrate too soon. Follow him, see what he does next.
 
 #### Make it possible for Razmaspes to pass through
 
-*After leaving the Kuuvahki Experimental Design Bureau, {REALNAME[ID(1)|HOSTONLY(true)]} goes to meet Durin and Albedo, who are observing the phantoms.*
+*After leaving the Kuuvahki Experimental Design Bureau, Wanderer goes to meet Durin and Albedo, who are observing the phantoms.*
 
 **Razmaspes:** The barrier's gone too. How odd...
 
 **Razmaspes:** Anyway, I guess I'll keep going.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Quickly, let's keep up.
+**Wanderer:** Quickly, let's keep up.
 
 #### Make use of explosives to aid Razmaspes
 
@@ -5260,7 +5260,7 @@ I want to shout it to her from the rooftops.
 
 **Razmaspes:** So many... monsters...!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** There's still a chance, Durin. Use the traps.
+**Wanderer:** There's still a chance, Durin. Use the traps.
 
 #### Protect Razmaspes
 
@@ -5324,7 +5324,7 @@ Oh!
 
 **Monster:** ——
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Durin, just like last time! Use the explosives!
+**Wanderer:** Durin, just like last time! Use the explosives!
 
 #### Continue escorting Razmaspes
 
@@ -5352,7 +5352,7 @@ Oh!
 
 **Durin:** But then... This clue could be the key to him finding his daughter...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It might not be the only one. Better he misses that clue than loses his life.
+**Wanderer:** It might not be the only one. Better he misses that clue than loses his life.
 
 **Durin:** I guess so...
 
@@ -5362,7 +5362,7 @@ Oh!
 
 **Durin:** He refuses to go anywhere else... Whether he opens this door or not, all that awaits him now is death. We... couldn't change his fate.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Durin:** Albedo, Hat Guy, let's try one more time. I don't know how we're going to do this, but I don't want to give up either.
 
@@ -5370,7 +5370,7 @@ Oh!
 
 **Durin:** Huh? What's going on?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Albedo:** His reactions have changed.
 
@@ -5390,7 +5390,7 @@ Oh!
 
 **Durin:** Wh... No, it isn't.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Yes, it is.
+**Wanderer:** Yes, it is.
 
 **Albedo:** Even so, we're trying to find a way out of this.
 
@@ -5410,13 +5410,13 @@ Oh!
 
 **Razmaspes:** How long do I have left?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Experience says fifteen to twenty minutes.
+**Wanderer:** Experience says fifteen to twenty minutes.
 
 **Razmaspes:** Fifteen to twenty... *sigh*
 
 **Razmaspes:** Thank you for all your help. Let's rest a while. You look exhausted too...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Now's not the time for you to start pitying us.
+**Wanderer:** Now's not the time for you to start pitying us.
 
 **Razmaspes:** Haha, it's not pity... I'm just... realizing that I've only got ten or so minutes left, you know?
 
@@ -5432,7 +5432,7 @@ Oh!
 
 **Razmaspes:** I see. That was where my ancestors once lived. What about Delphi Pytho? Was it later rebuilt?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I've never heard that name.
+**Wanderer:** I've never heard that name.
 
 **Razmaspes:** Then what about Sal Vindagnyr?
 
@@ -5450,9 +5450,9 @@ Oh!
 
 **Durin:** We have festivals a few times a year... everyone gets together to drink, sing, and be merry...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sumeru's a lot more uptight. Not really the kind of place where you can relax. It's a nation fraught with problems wherever you look.
+**Wanderer:** Sumeru's a lot more uptight. Not really the kind of place where you can relax. It's a nation fraught with problems wherever you look.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But if all you want in life is to seek knowledge, I guess it's pretty much paradise.
+**Wanderer:** But if all you want in life is to seek knowledge, I guess it's pretty much paradise.
 
 **Razmaspes:** That's wonderful.
 
@@ -5472,17 +5472,17 @@ Oh!
 
 **Albedo:** The ending of this tale did not change, but I believe that we've just made the most progress we have yet.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "May your wishes come true"... If only it were so simple.
+**Wanderer:** "May your wishes come true"... If only it were so simple.
 
 **Durin:** Hat Guy, could I ask you a question?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmm?
+**Wanderer:** Hmm?
 
 **Durin:** You've never talked about your past. It seems complicated... and it weighs heavily on you, too.
 
 **Durin:** Would you be willing to tell me about it? I mean, sometimes it's better to get things out in the open. Take that guy we tried to help, for instance — at least he said goodbye with a smile, right?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Durin:** I know about Albedo's past. Our experiences are very similar, and he created me.
 
@@ -5490,43 +5490,43 @@ Oh!
 
 **Durin:** Either way, I mean, we're still best friends! But... if I knew more about you, I might understand your thoughts a bit better...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I've told you about myself. I'm a student at the Akademiya.
+**Wanderer:** I've told you about myself. I'm a student at the Akademiya.
 
 **Durin:** And what did you do before that?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Prepared for the entrance exam.
+**Wanderer:** Prepared for the entrance exam.
 
 **Durin:** ...Alright. If you really don't want to talk about it, I won't press you any further.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I was a puppet bu{RUBY#[D]Simulanka}ilt from the branches of a white tree, using technology left behind by the Khaenri'ahn schools of mechanical engineering.
+**Wanderer:** I was a puppet buSimulankailt from the branches of a white tree, using technology left behind by the Khaenri'ahn schools of mechanical engineering.
 
 **Albedo:** A white tree? You mean an Irminsul tree?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Yes. A branch of Irminsul that was once connected to the main tree.
+**Wanderer:** Yes. A branch of Irminsul that was once connected to the main tree.
 
 **Durin:** So you had a human creator too...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Yeah. But my creator abandoned me after deciding that I was a failure.
+**Wanderer:** Yeah. But my creator abandoned me after deciding that I was a failure.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** After that...
+**Wanderer:** After that...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Durin, resisting the influence of the Abyss, suppressing the urge to destroy, trying to do the right thing... None of these things are easy.
+**Wanderer:** Durin, resisting the influence of the Abyss, suppressing the urge to destroy, trying to do the right thing... None of these things are easy.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But no matter how hard they are, trying to rewrite past wrongs is far harder.
+**Wanderer:** But no matter how hard they are, trying to rewrite past wrongs is far harder.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You asked me if you would create a new tragedy if you failed. I told you there was no point speculating about that.
+**Wanderer:** You asked me if you would create a new tragedy if you failed. I told you there was no point speculating about that.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But the real answer is... Yes. You absolutely will.
+**Wanderer:** But the real answer is... Yes. You absolutely will.
 
 **Durin:** Hat Guy...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But at least you've got people here to help steer you away from the wrong path. So... just keep aiming towards the light.
+**Wanderer:** But at least you've got people here to help steer you away from the wrong path. So... just keep aiming towards the light.
 
 **Durin:** I will. I promise.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Alright. Break time's over.
+**Wanderer:** Alright. Break time's over.
 
 **Dodocommunication Device:** Dodo!
 
@@ -5794,7 +5794,7 @@ That much!?
 
 (...She told me to pick whichever name took my fancy. Why did I pick "Columbina"?)
 
-(Maybe because I felt that she never wanted to become Kuu{RUBY#[S]The Moon Maiden}tar, and be worshiped as a god...)
+(Maybe because I felt that she never wanted to become KuuThe Moon Maidentar, and be worshiped as a god...)
 
 **Flins:** Moon-Prayer Night is getting closer by the day. We're running out of time. We need to look for other candidates.
 
@@ -7794,11 +7794,11 @@ Wait...
 
 **杜林:** 是你们认识的人，阿贝多也见过，但对大团长和菈乌玛女士来说比较陌生…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这种情况不介绍也没事，反正也无关紧要。
+**流浪者:** 这种情况不介绍也没事，反正也无关紧要。
 
 **派蒙:** 居、居然是你！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 怎么了，教令院应该没有禁止外出这条规矩吧。而且，我请过假了。
+**流浪者:** 怎么了，教令院应该没有禁止外出这条规矩吧。而且，我请过假了。
 
 **杜林:** 其实，在我有了人类的身体之后，我就用书信和阿帽取得了联系，这段时间在挪德卡莱的经历也告诉了他。
 
@@ -7806,7 +7806,7 @@ Wait...
 
 **菈乌玛:** 阿帽…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼…
+**流浪者:** 哼…
 
 **法尔伽:** 其实我知道这个名字。
 
@@ -7816,43 +7816,43 @@ Wait...
 
 **菈乌玛:** 菈乌玛，「霜月之子」的「咏月使」。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …须弥教令院，伐护末那学院帝利耶悉…阿帽。
+**流浪者:** …须弥教令院，伐护末那学院帝利耶悉…阿帽。
 
 **阿贝多:** 又见面了，阿帽先生，上次还是在同行至此地的船上。
 
 （原来他们是一起来的…）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嗯，挪德卡莱正好有个我想调查的人，就过来看看，仅此而已。
+**流浪者:** 嗯，挪德卡莱正好有个我想调查的人，就过来看看，仅此而已。
 
 **派蒙:** 人？谁啊。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 愚人众执行官第二席，「博士」多托雷。
+**流浪者:** 愚人众执行官第二席，「博士」多托雷。
 
 （果然…）
 
 **菈乌玛:** 你提起他的语气…就好像你们之间曾有些过节。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …只是最近整理资料发现教令院里留存的档案错漏甚多，实在看不过去。
+**流浪者:** …只是最近整理资料发现教令院里留存的档案错漏甚多，实在看不过去。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 多托雷…那时候叫「赞迪克」，曾经在教令院读过书，没毕业就被赶出去了。
+**流浪者:** 多托雷…那时候叫「赞迪克」，曾经在教令院读过书，没毕业就被赶出去了。
 
 **法尔伽:** 哈哈哈，听上去有点丢人，更何况是执行官第二席呢。
 
 **派蒙:** 说起来，我们到挪德卡莱之前，不止一次听到「博士」打算做什么，但最后好像连见都没见到他。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他只会出现在他感兴趣的地方，或许现在已经离开了。
+**流浪者:** 他只会出现在他感兴趣的地方，或许现在已经离开了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但他曾经在这里做了什么，也是相当重要的资料，我会用来填补他的档案。
+**流浪者:** 但他曾经在这里做了什么，也是相当重要的资料，我会用来填补他的档案。
 
 **法尔伽:** 听上去，不像是要做档案，而是要把犯人缉拿归案啊，哈哈。
 
 **法尔伽:** 正好，我们现在就要去愚人众那边见见两位执行官，大概你也能从中打听到什么。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 好。
+**流浪者:** 好。
 
 **派蒙:** 虽说那两个执行官都是…呃，算是我们的老交情吧，阿帽你说话的时候…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼。我知道的。
+**流浪者:** 哼。我知道的。
 
 **菈乌玛:** 「霜月之子」至今依然和「愚人众」关系紧张，我就不与各位随行了。
 
@@ -7860,23 +7860,23 @@ Wait...
 
 **法尔伽:** 哈哈哈，大家都能度过一段充实的时光，真不错。那我们走吧，我来引路。
 
-喂，{REALNAME[ID(1)|HOSTONLY(true)]}。
+喂，流浪者。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嗯？
+**流浪者:** 嗯？
 
 你是来寻仇的吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 当然有这层目的，只是要找他算账的人也不只我一个。
+**流浪者:** 当然有这层目的，只是要找他算账的人也不只我一个。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 无论是你、小吉祥草王，还是我，都不想在他身上再摔一跤，对吧。
+**流浪者:** 无论是你、小吉祥草王，还是我，都不想在他身上再摔一跤，对吧。
 
 - **旅行者:** 好吧。还有一件事…
 
 - **旅行者:** 回来之后，和我聊聊哥伦比娅。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼，你好像很心急啊。
+**流浪者:** 哼，你好像很心急啊。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 放心吧，鸽子总是知道家在哪里。
+**流浪者:** 放心吧，鸽子总是知道家在哪里。
 
 （「赞迪克」？这个名字之前听到过…是鹮之王那时在遗迹中提到过的学生，原来那就是「博士」？）
 
@@ -7888,11 +7888,11 @@ Wait...
 
 **「木偶」:** 等等，你信里说的教令院代表，就是他？看着不像…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这应该能证明我的身份。上面盖有净善宫的章。
+**流浪者:** 这应该能证明我的身份。上面盖有净善宫的章。
 
 **「木偶」:** 还真是…行吧，算我冒失了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没关系，意料之中。
+**流浪者:** 没关系，意料之中。
 
 **「木偶」:** 啊？
 
@@ -7900,7 +7900,7 @@ Wait...
 
 **法尔伽:** 但这件事目前仍然是机密，除了协助调查者之外，知道的人还是越少越好。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 有人问起，各位就说我是出于个人的学术意愿来到挪德卡莱的。
+**流浪者:** 有人问起，各位就说我是出于个人的学术意愿来到挪德卡莱的。
 
 **派蒙:** 原来法尔伽悄悄做了那么多事，早就和须弥教令院有过联络了呀。
 
@@ -7922,7 +7922,7 @@ Wait...
 
 **「仆人」:** 说回正题。在猎月人事件之后，我和桑多涅疑惑为何多托雷完全没有动作，查了一番，也没有眉目。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他不会让别人知道自己的计划，越是在意的事越是如此。
+**流浪者:** 他不会让别人知道自己的计划，越是在意的事越是如此。
 
 **「仆人」:** 嗯，可能他觉得销声匿迹就不会被找麻烦，可是这种伎俩对同僚并不奏效。
 
@@ -7940,7 +7940,7 @@ Wait...
 
 **「木偶」:** 除了聪明的大脑，他还需要「公鸡」的资源，「富人」的摩拉，女皇陛下摇摇手指，就能把这些都收回去。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 可是阳奉阴违之事，他以前就干过不少吧？
+**流浪者:** 可是阳奉阴违之事，他以前就干过不少吧？
 
 **「木偶」:** 的确有这种可能…我以前在研究上和他有短暂的合作，他和我基本是两类人。
 
@@ -7958,7 +7958,7 @@ Wait...
 
 **派蒙:** 指的是月髓那件事吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我猜还有平日里从来不看试验规范，弄坏无数设备，还频繁超支，再转嫁到随便一个什么人头上。
+**流浪者:** 我猜还有平日里从来不看试验规范，弄坏无数设备，还频繁超支，再转嫁到随便一个什么人头上。
 
 **「木偶」:** 对啊！他之前在做超高温实验，材料发生了爆炸，为了观测结果他命令手下立刻打开装置，释放里面的烟雾…
 
@@ -7972,13 +7972,13 @@ Wait...
 
 **「仆人」:** 阿帽先生，听上去你很了解愚人众执行官内部的事，尤其是多托雷。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 感谢二位执行官提供了如此宝贵的消息，我没有其他好奇的问题，就先失陪了。
+**流浪者:** 感谢二位执行官提供了如此宝贵的消息，我没有其他好奇的问题，就先失陪了。
 
 **派蒙:** 喂喂喂，你就走了吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 想走你也可以走。
+**流浪者:** 想走你也可以走。
 
 **派蒙:** 哎，可恶，本来还觉得他变得温和了点，结果还是那个阿帽…
 
@@ -8034,7 +8034,7 @@ Wait...
 
 **「木偶」:** 是谁说的我早就忘干净了，但不知怎么这句话一直记得很清楚。
 
-（这话很像是{REALNAME[ID(1)|HOSTONLY(true)]}会说出来的，难怪不记得了…）
+（这话很像是流浪者会说出来的，难怪不记得了…）
 
 **「少女」:** （但是一直以来你都做得很好，是非常认真的人。）
 
@@ -8074,15 +8074,15 @@ Wait...
 
 #### 共享与分析现有情报
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 原来在那里。
+**流浪者:** 原来在那里。
 
 **阿贝多:** 是阿帽先生。
 
 **杜林:** 你怎么来了？愚人众那边还顺利吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嗯，多托雷被女皇叫回去了，没什么更多的。
+**流浪者:** 嗯，多托雷被女皇叫回去了，没什么更多的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们这边呢，有什么进展吗？
+**流浪者:** 你们这边呢，有什么进展吗？
 
 **杜林:** 很遗憾，没有…
 
@@ -8094,35 +8094,35 @@ Wait...
 
 **杜林:** 若被赋予使命的我最后失败，是否又会制造出一场新的惨剧…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …这种假设毫无意义。
+**流浪者:** …这种假设毫无意义。
 
 **阿贝多:** 之前我们见到类似景象的时候，我尝试干涉此类虚影，用声音和光引导他们。
 
 **阿贝多:** 但是无法改变他们的结局，至多是让他们存续更长时间。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 已经发生的过去，就像写进世界树里的命运，整个提瓦特没有生命能够逃离…
+**流浪者:** 已经发生的过去，就像写进世界树里的命运，整个提瓦特没有生命能够逃离…
 
 **阿贝多:** 但艾莉丝女士指示我们尝试，寻找改变虚影结果的办法。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不可能的事。拒绝她不就好了？
+**流浪者:** 不可能的事。拒绝她不就好了？
 
 **杜林:** 既然她会这么说，我觉得就不是没有可能…或者说，魔女就是有化不可能为可能的能力。
 
 **杜林:** 否则，我就不会以「杜林」的身份诞生了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 可是你也说过，之前你尝试了足足三十九次，都失败了吧。
+**流浪者:** 可是你也说过，之前你尝试了足足三十九次，都失败了吧。
 
 **杜林:** 是的…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 要去？
+**流浪者:** 要去？
 
 **杜林:** 嗯。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 在经历那么多次徒劳之后，你应该明白吧？你依然想做——根本不是因为什么相信魔女的话。
+**流浪者:** 在经历那么多次徒劳之后，你应该明白吧？你依然想做——根本不是因为什么相信魔女的话。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 而是你也渴望魔女的假设能变成现实，这是你发自内心的愿望。
+**流浪者:** 而是你也渴望魔女的假设能变成现实，这是你发自内心的愿望。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 想想看要怎么办吧。只要你不认为这是徒劳，这便有意义。
+**流浪者:** 想想看要怎么办吧。只要你不认为这是徒劳，这便有意义。
 
 **杜林:** …嗯！
 
@@ -8130,19 +8130,19 @@ Wait...
 
 **阿贝多:** 想要跳出这个困境，就要设法打破这层规则。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嗯，我也这么想。循规蹈矩只能重复失败，成为既定命运的玩物。
+**流浪者:** 嗯，我也这么想。循规蹈矩只能重复失败，成为既定命运的玩物。
 
 **杜林:** 你们的意思是，明知不可触碰，却要寻找触碰的办法？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 而且，恐怕是只有你才能做到的办法。
+**流浪者:** 而且，恐怕是只有你才能做到的办法。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 提瓦特的一切都被世界树记录，但过去发生在须弥的「死域」现象，就是世界树被污染的表现。
+**流浪者:** 提瓦特的一切都被世界树记录，但过去发生在须弥的「死域」现象，就是世界树被污染的表现。
 
 **阿贝多:** 世界树被污染，从而令不存在于提瓦特的东西出现…这就相当于改写了某些事实。
 
 **杜林:** 你是说，深渊力量或许能够影响这些虚影？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没人尝试过这种事。但是否要做，就看你的勇气，以及能否把握住其中的分寸了。
+**流浪者:** 没人尝试过这种事。但是否要做，就看你的勇气，以及能否把握住其中的分寸了。
 
 **拉撒抹培:** 有人吗？有没有人看见我的女儿——！
 
@@ -8156,7 +8156,7 @@ Wait...
 
 **阿贝多:** 嗯，重要的不是力量的性质，而是你如何运用这份力量。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 用来「威吓」与「阻挡」吗…哼，还挺符合深渊给人的印象。
+**流浪者:** 用来「威吓」与「阻挡」吗…哼，还挺符合深渊给人的印象。
 
 **杜林:** …让我试试吧，我应该能影响那个东西。
 
@@ -8164,17 +8164,17 @@ Wait...
 
 **杜林:** 他、他真的离开了！我们成功了！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 别高兴得太早，跟上去，看他接下来会做什么。
+**流浪者:** 别高兴得太早，跟上去，看他接下来会做什么。
 
 #### 为拉撒抹培制造出通行的机会
 
-*{REALNAME[ID(1)|HOSTONLY(true)]}离开「月矩力试验设计局」后，便前去寻找观测虚影的杜林与阿贝多。*
+*流浪者离开「月矩力试验设计局」后，便前去寻找观测虚影的杜林与阿贝多。*
 
 **拉撒抹培:** 屏障也消失了？真奇怪…
 
 **拉撒抹培:** 总之，继续往前吧。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我们也跟上去。
+**流浪者:** 我们也跟上去。
 
 #### 利用炸药，协助拉撒抹培
 
@@ -8182,7 +8182,7 @@ Wait...
 
 **拉撒抹培:** 这么多魔物？！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 还有机会，杜林，利用好周围的陷阱。
+**流浪者:** 还有机会，杜林，利用好周围的陷阱。
 
 #### 保护拉撒抹培
 
@@ -8244,7 +8244,7 @@ Wait...
 
 **魔物:** ——
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 杜林，像之前一样，用炸药！
+**流浪者:** 杜林，像之前一样，用炸药！
 
 #### 继续护送拉撒抹培
 
@@ -8272,7 +8272,7 @@ Wait...
 
 **杜林:** 可是，这是他女儿最关键的线索…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 书或许不止这一本。失去线索，至少比失去生命要强。
+**流浪者:** 书或许不止这一本。失去线索，至少比失去生命要强。
 
 **杜林:** 好吧…
 
@@ -8282,7 +8282,7 @@ Wait...
 
 **杜林:** 他哪里也不愿意去了，无论打不打开这扇门，等待他的都是死亡。我们…还是没能改变他的命运。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **杜林:** 阿贝多，阿帽，我们再试一次吧，虽然没有头绪，但是我不想就这么放弃。
 
@@ -8290,7 +8290,7 @@ Wait...
 
 **杜林:** 欸，你怎么了？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼。
+**流浪者:** 哼。
 
 **阿贝多:** 他的反应变得不一样了。
 
@@ -8310,7 +8310,7 @@ Wait...
 
 **杜林:** 不、不是这样…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 就是这样。
+**流浪者:** 就是这样。
 
 **阿贝多:** 尽管是这样，我们还在努力寻找办法。
 
@@ -8330,13 +8330,13 @@ Wait...
 
 **拉撒抹培:** 距离我的死，还有多久？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 按照经验来看，十五到二十分钟吧。
+**流浪者:** 按照经验来看，十五到二十分钟吧。
 
 **拉撒抹培:** 十五到二十分钟…唉。
 
 **拉撒抹培:** 谢谢你们一直在帮我，我们休息一会儿吧。你们看上去也很疲惫的样子。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 还不需要你来同情我们。
+**流浪者:** 还不需要你来同情我们。
 
 **拉撒抹培:** 哈哈，不是同情…只是我意识到，我所拥有的全部，只有这十几分钟了。
 
@@ -8352,7 +8352,7 @@ Wait...
 
 **拉撒抹培:** 嗯…那曾是我祖先生活的城邦。德尔斐·皮托呢？后来重建了吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没听过这个名字。
+**流浪者:** 没听过这个名字。
 
 **拉撒抹培:** 那、那沙尔·芬德尼尔呢？
 
@@ -8370,9 +8370,9 @@ Wait...
 
 **杜林:** 隔三差五就会有节日，大家会聚在一起唱歌和喝酒…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 相比起来，须弥的氛围就严肃很多，它亟待解决的问题数不胜数，所以说不上是过得很悠闲的地方。
+**流浪者:** 相比起来，须弥的氛围就严肃很多，它亟待解决的问题数不胜数，所以说不上是过得很悠闲的地方。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ——但，对于向往知识的人来说，应该是不可多得的圣地。
+**流浪者:** ——但，对于向往知识的人来说，应该是不可多得的圣地。
 
 **拉撒抹培:** 真好啊。
 
@@ -8392,17 +8392,17 @@ Wait...
 
 **阿贝多:** 虽然结局并没有改变，但我觉得这是所有试验中进展最大的一次。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「得偿所愿」…如果事情真有他想的那么简单就好了。
+**流浪者:** 「得偿所愿」…如果事情真有他想的那么简单就好了。
 
 **杜林:** 阿帽，我可以问你一个问题吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嗯？
+**流浪者:** 嗯？
 
 **杜林:** 你从来不提你过去的事，它们好像是某种复杂又沉重的东西。
 
 **杜林:** 你愿意和我说说吗？你看，有时候把话说出来会好很多，至少这次那位朋友是微笑着和我们告别的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **杜林:** 我知道阿贝多的身世，他和我有类似的经历，他创造了我。
 
@@ -8410,43 +8410,43 @@ Wait...
 
 **杜林:** 我知道尽管这样，我们也是最好的朋友！但如果我知道更多你的事…我也能更了解你的想法。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我的事已经告诉过你了，我就是个教令院的学生。
+**流浪者:** 我的事已经告诉过你了，我就是个教令院的学生。
 
 **杜林:** 在那之前呢？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 备考生。
+**流浪者:** 备考生。
 
 **杜林:** …好吧，如果你无论如何都不想说的话，那我也不想继续勉强你。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我是由白树的枝条拟{RUBY#[D]希穆兰卡}真的人偶，使用了坎瑞亚机械工学派遗留下的技术。
+**流浪者:** 我是由白树的枝条拟希穆兰卡真的人偶，使用了坎瑞亚机械工学派遗留下的技术。
 
 **阿贝多:** 白树？是指「银白古树」？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嗯。它是世界树延伸出来的枝杈。曾和世界树相连。
+**流浪者:** 嗯。它是世界树延伸出来的枝杈。曾和世界树相连。
 
 **杜林:** 原来你也是被人创造的啊…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我的创造者在断定我是失败品后，就将我遗弃了。
+**流浪者:** 我的创造者在断定我是失败品后，就将我遗弃了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 后来…
+**流浪者:** 后来…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 杜林，对抗深渊的影响，克制毁灭的冲动，努力不要做错事，这些都并非易事。
+**流浪者:** 杜林，对抗深渊的影响，克制毁灭的冲动，努力不要做错事，这些都并非易事。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但它们再怎么困难，都不会比「想要改写错事」更难。
+**流浪者:** 但它们再怎么困难，都不会比「想要改写错事」更难。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你问我如果你失败了，是否会制造出新的惨剧，我对你说这种假设没有意义。
+**流浪者:** 你问我如果你失败了，是否会制造出新的惨剧，我对你说这种假设没有意义。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但真正的答案是会，肯定会。
+**流浪者:** 但真正的答案是会，肯定会。
 
 **杜林:** 阿帽…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但至少在场的人都会帮你排除错误的那条道路，你朝着光明努力就好。
+**流浪者:** 但至少在场的人都会帮你排除错误的那条道路，你朝着光明努力就好。
 
 **杜林:** 嗯，我一定会的！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 好了，也休息差不多了吧。
+**流浪者:** 好了，也休息差不多了吧。
 
 **嘟嘟通讯仪:** 嘟嘟——
 
@@ -8714,7 +8714,7 @@ Wait...
 
 （哥伦比娅…当初她让我挑喜欢的叫，为什么我会挑这个呢…？）
 
-（是因为觉得她或许不想成为「库塔{RUBY#[S]月之少女}尔」，不想被奉为神明吗？）
+（是因为觉得她或许不想成为「库塔月之少女尔」，不想被奉为神明吗？）
 
 **菲林斯:** 「祈月之夜」已经不远了，时间紧迫。我们再去找找看有没有其他人选吧。
 

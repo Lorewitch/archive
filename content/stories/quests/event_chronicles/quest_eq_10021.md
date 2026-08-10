@@ -11,10 +11,10 @@
 # chapter_num_en: Windblume Festival: Part I
 # chapter_num_zh: 风花节 其一
 # part_source_ids: 41410
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10022
-# related_quests: quest_eq_10022,quest_eq_10023,quest_eq_10024,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
-# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
+# related_quests: quest_eq_10022,quest_eq_10023,quest_eq_10024
+# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024
 # quest_series: Invitation of Windblume
 # version_source: wiki_release_category
 
@@ -1708,7 +1708,7 @@ A showdown between the pros.
 
 **派蒙:** 哟！听说你有烦恼要向那边的吟游诗人倾诉？我们是他的助手，说出你的烦恼吧！
 
-**艾琳:** 你们是…荣誉骑士和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的朋友！
+**艾琳:** 你们是…荣誉骑士和空/荧的朋友！
 
 **艾琳:** 没想到会在这里遇到你们呢，那…我就不客气地说了。
 

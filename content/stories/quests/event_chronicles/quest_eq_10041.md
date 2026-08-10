@@ -12,7 +12,7 @@
 # chapter_num_zh: 谜境悬兵 其四
 # part_source_ids: 40023
 # previous_quests: quest_eq_10040
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10038,quest_eq_10039,quest_eq_10040
 # quest_chain: quest_eq_10038,quest_eq_10039,quest_eq_10040,quest_eq_10041
 # quest_series: Labyrinth Warriors

@@ -11,7 +11,7 @@
 # chapter_num_en: Thelxie's Fantastic Adventures: Part I
 # chapter_num_zh: 特尔克西的奇幻历险·上
 # part_source_ids: 40128
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10158
 # related_quests: quest_eq_10158,quest_eq_10159
 # quest_chain: quest_eq_10157,quest_eq_10158,quest_eq_10159

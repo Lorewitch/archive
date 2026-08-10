@@ -3,19 +3,19 @@
 # title_ru: Пейзаж Лухуа
 # title_en: Luhua Landscape
 # title_zh: 渌华景画
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 71006
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71006
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71006
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

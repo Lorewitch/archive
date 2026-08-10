@@ -3,16 +3,16 @@
 # title_ru: Очищение Священной сакуры
 # title_en: Sacred Sakura Cleansing Ritual
 # title_zh: 神樱大祓
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10025
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72100,72105,72106,72107,72108
 # previous_quests: quest_eq_40053
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_40053
 # quest_chain: quest_eq_40053,quest_wq_10025
 # quest_series: Sacred Sakura Cleansing Ritual
@@ -5236,7 +5236,7 @@ Thank you, Ioroi.
 
 **小猛:** 居然那么轻松就爬上来了，你真厉害啊！
 
-**小猛:** 嗯…？看大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}你的样子，应该是外人吧？
+**小猛:** 嗯…？看大空/荧你的样子，应该是外人吧？
 
 **小猛:** 好久没看到外人了，真高兴！
 
@@ -5270,7 +5270,7 @@ Thank you, Ioroi.
 
 #### 场景
 
-**双叶:** 你好啊，穿着奇异服装的大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}！有什么事吗？
+**双叶:** 你好啊，穿着奇异服装的大空/荧！有什么事吗？
 
 最近有没有什么怪事…
 
@@ -5286,7 +5286,7 @@ Thank you, Ioroi.
 
 **派蒙:** 想起什么了吗？
 
-**双叶:** 有个穿得很奇怪的外国大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，和一个飘着的白色…的…东西？跟我搭话！
+**双叶:** 有个穿得很奇怪的外国大空/荧，和一个飘着的白色…的…东西？跟我搭话！
 
 确实很奇怪。
 
@@ -5518,7 +5518,7 @@ Thank you, Ioroi.
 
 #### 在井底探索
 
-**双叶:** 大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}要找的东西是那些袋子吗？顺着沟渠找的话，说不定就能找到哦！
+**双叶:** 大空/荧要找的东西是那些袋子吗？顺着沟渠找的话，说不定就能找到哦！
 
 #### 场景
 

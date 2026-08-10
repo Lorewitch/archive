@@ -3,19 +3,19 @@
 # title_ru: Последствия катастрофы
 # title_en: In the Aftermath
 # title_zh: 善后工作
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70825
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70825
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70825
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

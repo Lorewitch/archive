@@ -11,10 +11,10 @@
 # chapter_num_en: Midsummer Island Adventure: Part I
 # chapter_num_zh: 盛夏！海岛？大冒险！ 其一
 # part_source_ids: 40010
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10028
-# related_quests: quest_eq_10028,quest_eq_10029,quest_eq_10030,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
-# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
+# related_quests: quest_eq_10028,quest_eq_10029,quest_eq_10030
+# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030
 # quest_series: Midsummer Island Adventure
 # version_source: wiki_release_category
 
@@ -1402,7 +1402,7 @@ Carefree and ready to explore, classic Paimon.
 
 **派蒙:** 小可莉，好久不见啦！
 
-**可莉:** 啊！是荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}和小派蒙！
+**可莉:** 啊！是荣誉骑士空/荧和小派蒙！
 
 **可莉:** 呜呜，我刚想去找你们…
 
@@ -1494,7 +1494,7 @@ Carefree and ready to explore, classic Paimon.
 
 **派蒙:** 可是…我们都没见过叫这个名字的地方呀…
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，你一定有办法对不对？可莉相信你！
+**可莉:** 荣誉骑士空/荧，你一定有办法对不对？可莉相信你！
 
 **派蒙:** 就算你这么说…
 
@@ -1760,7 +1760,7 @@ Carefree and ready to explore, classic Paimon.
 
 **可莉:** 呜…他不相信可莉有资格成为嘟嘟可的家人…
 
-**可莉:** 可莉必须证明自己，荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}也会帮可莉的，对不对？
+**可莉:** 可莉必须证明自己，荣誉骑士空/荧也会帮可莉的，对不对？
 
 **琴:** 旅行者，派蒙，是这样吗？
 
@@ -1832,7 +1832,7 @@ Carefree and ready to explore, classic Paimon.
 
 **芭芭拉:** 各位，这边这边。
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，小派蒙~
+**可莉:** 荣誉骑士空/荧，小派蒙~
 
 **琴:** 你好。
 

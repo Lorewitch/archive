@@ -3,19 +3,19 @@
 # title_ru: Лучшие истории к чаю
 # title_en: Stories Make the Best Pastries
 # title_zh: 故事乃最好的茶点
-# region: Фонтейн
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74248
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74248
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74248
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

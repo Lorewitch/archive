@@ -3,7 +3,7 @@
 # title_ru: Когда они поговорят
 # title_en: When They Talk About Tonight
 # title_zh: 当他们谈起今夜
-# region: Инадзума, Фонтейн
+# region: Инадзума
 # game_version: 4.5
 # release_versions: 4.5
 # source_id: 2046
@@ -11,11 +11,11 @@
 # chapter_num_en: Cisoria Chapter: Act I
 # chapter_num_zh: 丝切铗之章 第一幕
 # part_source_ids: 14020,14021,14022
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2046
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

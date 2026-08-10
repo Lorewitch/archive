@@ -3,19 +3,19 @@
 # title_ru: Повторное приглашение на чай: Коломбина
 # title_en: Tea Party Re-Invitation: Columbina
 # title_zh: 茶会的再邀·哥伦比娅
-# region: Фонтейн
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76225
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76225
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76225
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -23,6 +23,20 @@
 ### Повторное приглашение на чай: Коломбина
 
 Отправляйтесь к скрытому убежищу, поставьте чайный столик и, усадив Сандроне, устройте чаепитие в компании Коломбины...
+
+#### Отправляйтесь в скрытое убежище, чтобы начать чаепитие
+
+**Субретка:** Спасибо за чай, Сандроне. Я люблю, когда ты рядом.
+
+- **Путешественник:** (Посидим ещё немного.)
+
+- **Путешественник:** Думаю, чаепитие пора заканчивать.
+
+**Марионетка:** (Посидим ещё немного.)
+
+**Марионетка:** Думаю, чаепитие пора заканчивать.
+
+**Субретка:** Ладно. Но ты ведь пригласишь меня снова?
 
 ## EN
 

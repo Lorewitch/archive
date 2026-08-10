@@ -210,7 +210,7 @@
 
 **Боэций:** Ты хочешь сказать, что мы должны отбросить гордость и славу ремурийцев и стать ничтожествами?
 
-**Боэций:** Как я могу допустить, чтобы мои сородичи вернулись в эти мешки разлагающейся плоти и снова стали рабами суд{RUBY#[D]Фортуны}ьбы?
+**Боэций:** Как я могу допустить, чтобы мои сородичи вернулись в эти мешки разлагающейся плоти и снова стали рабами судФортуныьбы?
 
 **Осси:** Похоже, тысячелетия не заставили тебя смириться с гибелью Ремурии. Более того, ты стал ещё упрямее.
 
@@ -490,7 +490,7 @@ You know this rude fella, Osse?
 
 **Boethius:** Do you mean to say, then, that we should abandon our honor as Remurians and degenerate into mere base insects?
 
-**Boethius:** How could I ever allow my kin to return to those bags of decaying flesh and become slaves to fa{RUBY#[D]Fortuna}te once more?
+**Boethius:** How could I ever allow my kin to return to those bags of decaying flesh and become slaves to faFortunate once more?
 
 **Osse:** It seems that the millennia have not led you to accept Remuria's downfall. If anything, you have grown more obstinate still.
 
@@ -770,7 +770,7 @@ We need to have a good talk before we go...
 
 **波爱修斯:** 你的意思是说，我们应当抛弃作为雷穆利亚人的荣耀，退化成为虫豸吗？
 
-**波爱修斯:** 我怎能让我的同族重新回到那速朽的身躯当中，受「命{RUBY#[D]法图纳}运」的奴役。
+**波爱修斯:** 我怎能让我的同族重新回到那速朽的身躯当中，受「命法图纳运」的奴役。
 
 **小呜斯:** 看来千年的时间并没有让你接受雷穆利亚已经不复存在的事实，反倒是更加固执己见了。
 

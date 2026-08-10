@@ -3,19 +3,19 @@
 # title_ru: Призрак одинокого парусника
 # title_en: The Lone Phantom Sail
 # title_zh: 孤帆幽影
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74040
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74040
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74040
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

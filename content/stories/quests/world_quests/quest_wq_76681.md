@@ -3,19 +3,19 @@
 # title_ru: Происхождение последовательности
 # title_en: Origin of the Sequence
 # title_zh: 序列之始
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76681
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76681
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76681
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -32,7 +32,7 @@
 
 **Древний терминал:** Приношу свои извинения. Система идентификации в данный момент не может подтвердить личность посетителя. В связи с этим я не могу обратиться к вам с использованием надлежащего титула. Начинаю воспроизведение стандартного приветствия.
 
-**Древний терминал:** Добро пожаловать в массив хранения Аб-И{RUBY#[D]№59}риму. Этот массив в первую очередь используется для управления гравированием и хранения различных исследовательских ресурсов.
+**Древний терминал:** Добро пожаловать в массив хранения Аб-И№59риму. Этот массив в первую очередь используется для управления гравированием и хранения различных исследовательских ресурсов.
 
 **Древний терминал:** Ошибка: Сбой критически важного компонента привёл к нарушению взаимосвязей между службами. Основные функции в настоящее время недоступны. Пожалуйста, выполните команду самодиагностики для восстановления критически важных узлов данных.
 
@@ -60,7 +60,7 @@ You discover a strangely familiar tower...
 
 **Ancient Terminal:** My apologies. The identification sequence is currently unable to verify the visitor. Consequently, I cannot address you by your proper title. Commencing universal greeting playback.
 
-**Ancient Terminal:** Welcome to the Ia-I{RUBY#[S]No. 59}limmu Storage Array. This array is primarily used to regulate the operation of the Engraving and to store various research resources.
+**Ancient Terminal:** Welcome to the Ia-INo. 59limmu Storage Array. This array is primarily used to regulate the operation of the Engraving and to store various research resources.
 
 **Ancient Terminal:** ERROR: Critical component failure has resulted in service dependency anomalies. Main functions are currently unavailable. Please execute a self-diagnostic command to restore critical data nodes.
 
@@ -88,7 +88,7 @@ You discover a strangely familiar tower...
 
 **古老的终端:** 请原谅。身份识别序列暂时无法识别来访者，因此无法以正确的头衔称呼您。准备播放通用问候语。
 
-**古老的终端:** 欢迎访问亚·伊{RUBY#[S]第五十九号}里穆存储阵列。本阵列主要用于调控「碑铭」运作，并存储各类研究资源。
+**古老的终端:** 欢迎访问亚·伊第五十九号里穆存储阵列。本阵列主要用于调控「碑铭」运作，并存储各类研究资源。
 
 **古老的终端:** 错误：关键组件损坏导致服务依赖异常，当前无法正常调用。请使用自我检查命令，修复关键数据节点。
 

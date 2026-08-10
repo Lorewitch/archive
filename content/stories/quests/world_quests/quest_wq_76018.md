@@ -3,19 +3,19 @@
 # title_ru: Ввысь к небесам обетованным
 # title_en: Drifting Toward a Promised Sky
 # title_zh: 飞向天空的约定
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76018
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76018
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76018
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -436,6 +436,52 @@ There might be other jellyfish that still need our help.
 
 **"Valberry Jelly":** ...
 
+#### Talk to Paimon
+
+**Paimon:** They seriously left the key right by the door...? The Fatui here aren't exactly the brightest, huh?
+
+- **Traveler:** Since they're the enemy, I'm fine with them being a little stupid.
+
+- **Traveler:** You're sharper than all those clueless Fatui, Paimon!
+
+**Paimon:** Right! If they were clever and actually tried, we'd never have found that key so easily!
+
+**Paimon:** Then that jellyfish... Hmm, how about we call it "Valberry Jelly"? ...It might not have made it out in time...
+
+**Paimon:** That doesn't sound like much of a compliment to Paimon...
+
+**Paimon:** If Paimon hadn't noticed this little puddle of Valberry Jelly... Hey, that's what we should call it! ...We probably would've missed the chance to save it, right?
+
+**Paimon:** Anyway, the barrier's open, so why's it still lying there?
+
+The rescued jellyfish tries to move, but its body gives out, and it collapses back onto the ground...
+
+**"Valberry Jelly":** ...
+
+**Paimon:** I—It still looks like it's in pain... Paimon thought it was because of the barrier...
+
+Maybe the kuuvahki is just too weak around here.
+
+**Paimon:** Are you not sensing much kuuvahki, Traveler?
+
+**Paimon:** You've been sensing it just fine since we arrived in Nod-Krai.
+
+**Paimon:** Could it be feeling this way because the environment suddenly changed?
+
+**"Valberry Jelly":** ...
+
+**Paimon:** Hang in there. We'll find a way to get you out of here!
+
+**Paimon:** Come on, Traveler, think of something!
+
+- **Traveler:** So, you're giving up the second thinking is involved?
+
+- **Traveler:** Well, if you can't do it, that just leaves me.
+
+**Paimon:** Th—That's only because the situation's desperate! That little jelly's just barely hanging on!
+
+**Paimon:** It must be because those nasty machines the Fatui set up are totally messing up the environment! Let's shut them all down!
+
 #### Follow the jellyfish
 
 **Paimon:** Wow, Valberry Jelly is floating! This must be what you're really like, huh? Paimon knew those nasty machines had something to do with it!
@@ -751,6 +797,52 @@ We cleared out all those nasty machines, and the environment's back to normal, s
 **派蒙:** 我们一起去把它们都找出来吧！
 
 **「落落莓果冻」:** ……
+
+#### 与派蒙对话
+
+**派蒙:** 真的就把钥匙放在了门边…这里的愚人众好像挺笨的呢。
+
+- **旅行者:** 既然是敌人，笨笨的也不错。
+
+- **旅行者:** 派蒙的头脑比愚人众还要灵光耶！
+
+**派蒙:** 对哦，要是遇到聪明又认真的家伙，我们找起钥匙来可就费劲了！
+
+**派蒙:** 那只水母…唔，不如就叫它「落落莓果冻」好了！说不定就来不及获救了…
+
+**派蒙:** 怎么听都不像是在好好夸我的样子…
+
+**派蒙:** 要不是我一开始发现了这滩落落莓果冻…嗯，不如就叫它这个名字好了！我们大概已经错过救援的机会了吧？
+
+**派蒙:** 话说回来，现在屏障都已经打开了，它怎么还是不动呢？
+
+被解救的水母挣扎着想要游动起来，却还是无力地瘫倒在地…
+
+**「落落莓果冻」:** ……
+
+**派蒙:** 怎、怎么还是很痛苦的样子…难道不光是因为被困住了吗？
+
+可能是由于这里的月矩力很稀薄。
+
+**派蒙:** 旅行者感受不到足够的月矩力吗…
+
+**派蒙:** 我们刚来到挪德卡莱的时候，旅行者就一直能感受到月矩力的存在。
+
+**派蒙:** 是不是因为这里的环境突然变了，它才这么不舒服的？
+
+**「落落莓果冻」:** ……
+
+**派蒙:** 再坚持一下，一定会救你出去的，我们来想办法！
+
+**派蒙:** 旅行者，快想想办法吧！
+
+- **旅行者:** 遇到要动脑筋立刻就放弃了…
+
+- **旅行者:** 嗯，派蒙不会的事当然只有我来了。
+
+**派蒙:** 那、那是因为情况紧急嘛，再这样下去感觉这个小家伙会坚持不住的！
+
+**派蒙:** 一定是因为愚人众在这儿建了乱七八糟的坏机器，所以这里的环境才出了问题的。把它们通通关掉吧！
 
 #### 跟随水母
 

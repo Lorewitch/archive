@@ -3,13 +3,13 @@
 # title_ru: Пусть лунный свет соединит нас
 # title_en: May the Moonlight Connect Us
 # title_zh: 月光联系你我
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76031
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76031
 # previous_quests: quest_wq_76030
 # next_quests: quest_wq_76051
@@ -124,7 +124,7 @@
 
 **Паймон:** Давно ты нас заметила?
 
-**Лаума:** Как я могла не почувствовать Куу{RUBY#[S]Девы Луны}тар и её куувяки?
+**Лаума:** Как я могла не почувствовать КууДевы Лунытар и её куувяки?
 
 **Лаума:** Могу я спросить, почему вы... следите за мной? Словно следите за моей работой...
 
@@ -140,7 +140,7 @@
 
 **Субретка:** ...Хм?
 
-**Лаума:** ...После всего увиденного, что Куу{RUBY#[S]Дева Луны}тар думает о современных Детях Морозной Луны?
+**Лаума:** ...После всего увиденного, что КууДева Лунытар думает о современных Детях Морозной Луны?
 
 **Субретка:** ...
 
@@ -264,7 +264,7 @@ Where should we take him?
 
 **Paimon:** Wait, you knew we were here!?
 
-**Lauma:** How could I possibly miss the "Kuu{RUBY#[S]Moon Maiden}tar" and her kuuvahki?
+**Lauma:** How could I possibly miss the "KuuMoon Maidentar" and her kuuvahki?
 
 **Lauma:** Although... I'm not quite sure why you're following me. It's quite unnerving... being "observed" at work like this...
 
@@ -280,7 +280,7 @@ Where should we take him?
 
 **The Damselette:** ...Hm?
 
-**Lauma:** ...Now that you have seen all this, "Kuu{RUBY#[S]Moon Maiden}tar", what do you think of the Frostmoon Scions today?
+**Lauma:** ...Now that you have seen all this, "KuuMoon Maidentar", what do you think of the Frostmoon Scions today?
 
 **The Damselette:** ...
 
@@ -404,7 +404,7 @@ Where should we take him?
 
 **派蒙:** 原来你早就发现我们了！
 
-**菈乌玛:** 我怎么可能遗漏「库塔{RUBY#[S]月之少女}尔」散发出的月矩力呢。
+**菈乌玛:** 我怎么可能遗漏「库塔月之少女尔」散发出的月矩力呢。
 
 **菈乌玛:** 你们…怎么一直跟着我？简直像在…视察我的工作一样。
 
@@ -420,7 +420,7 @@ Where should we take him?
 
 **「少女」:** …嗯？
 
-**菈乌玛:** …看过这些之后，「库塔{RUBY#[S]月之少女}尔」对如今的「霜月之子」怎么看？
+**菈乌玛:** …看过这些之后，「库塔月之少女尔」对如今的「霜月之子」怎么看？
 
 **「少女」:** ……
 

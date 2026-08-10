@@ -7,15 +7,15 @@
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73295
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73295
 # previous_quests: quest_wq_73294
 # next_quests: quest_wq_73296
 # related_quests: quest_wq_73294,quest_wq_73296
 # quest_chain: quest_wq_73294,quest_wq_73295,quest_wq_73296
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

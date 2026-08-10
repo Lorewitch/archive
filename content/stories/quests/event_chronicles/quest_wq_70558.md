@@ -1,0 +1,319 @@
+# id: quest_wq_70558
+# story_group: event_chronicles
+# title_ru: Обучение картографии
+# title_en: A Knight's Guide to Surveying
+# title_zh: 骑士的测绘教学
+# region: Тейват
+# game_version: 6.5
+# release_versions: 6.5
+# source_id: 70558
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 70558
+# previous_quests:
+# next_quests: quest_wq_70559
+# related_quests: quest_wq_70559
+# quest_chain: quest_wq_70558,quest_wq_70559
+# quest_series: Surveying & Mapping Studies
+# version_source: wiki_release_category
+
+## RU
+
+### Обучение картографии
+
+Рыцари обмениваются знаниями в области картографии...
+
+#### Поговорите с Микой
+
+**Трес:** Инструктор, как вам этот маршрут для картографирования?
+
+**Мика:** Высота... расположение препятствий... Здесь учтены и практические условия, и уровень сложности для испытаний... и даже присутствует игровой элемент. Вы проделали... превосходную работу.
+
+**Мика:** Господин Трес, я думаю, мне уже почти нечему вас учить. Теперь осталось лишь закрепить пройденное и научиться применять знания в новых обстоятельствах...
+
+**Трес:** Но...
+
+**Элоуэн:** О чём же ты всё ещё беспокоишься?
+
+**Элоуэн:** Будь у меня такая же способность к обучению, как у тебя, оружейные мастера восьмого отряда... особенно Кох... ставили бы меня в пример и стыдили бы мною всех бездельников!
+
+**Трес:** Да ну, Элоуэн, ты и так прекрасно справляешься...
+
+**Трес:** Ведь все цели калибровки в этот раз - твоей работы? Будь я на твоём месте, они бы, наверное, оказались на стенде неопознанных объектов заместителя капитана Лоэна...
+
+- **Путешественник:** Как дела?
+
+- **Путешественник:** Как тут людно!
+
+**Паймон:** Почему здесь столько народу собралось? Это что, пикник ордена?
+
+**Мика:** А, это же наш почётный рыцарь и Паймон! Здравствуйте!
+
+**Мика:** Это господин Трес. Недавно заместитель капитана Лоэн направил его ко мне, чтобы мы обменялись опытом в картографии, и мы вместе разработали испытание «Картографический поиск».
+
+**Мика:** А это Элоуэн, она, как и я, служит в разведывательном отряде. Последние несколько дней она нам очень помогала.
+
+**Трес:** Это знаменитый / ая почётный рыцарь и его / её верная спутница Паймон! Лучше один раз увидеть, чем сто раз услышать. Вы и вправду производите впечатление.
+
+**Элоуэн:** Ох... Передо мной величайшая из легенд, самый прославленный герой / самая прославленная героиня! Что же делать? Элоуэн, соберись, придумай что-нибудь...
+
+**Паймон:** Э-э? Нет-нет, не нужно так волноваться.
+
+**Трес:** Хм... Не беспокойся, Элоуэн иногда погружается в определённые «режимы». Сейчас, кажется, включился «режим безграничного почитания»?
+
+**Трес:** Показывать разные грани характера, чтобы другие не могли разгадать твою истинную сущность. Ух ты, я снова научился новому.
+
+**Элоуэн:** Трес, ну ты и любознательный! Но разве не естественно для неопытного новичка волноваться при встрече с величайшим рыцарем?
+
+**Элоуэн:** Тем более, сейчас же самое подходящее время попросить автограф... Подождите-подождите, дайте я подумаю, как лучше это сформулировать...
+
+**Паймон:** Ты уже это сказала!
+
+- **Путешественник:** Исполнить такое скромное желание - проще простого.
+
+- **Путешественник:** Я всё слышу. Конечно, дам автограф.
+
+**Элоуэн:** Тогда я сохраню его как величайшее сокровище. Хм? Сегодня и правда невероятно везёт.
+
+**Элоуэн:** Ах, точно! Ещё спасибо тебе, Мика. Если бы ты не попросил о помощи, у меня бы не оказалось такого шанса... В следующий раз зови ещё, если тебе понадобится помощь!
+
+**Мика:** Э-эм? Ну... заранее спасибо... Это главным образом потому, что наши почётный рыцарь и Паймон такие отзывчивые... и искренние...
+
+**Элоуэн:** И ты не забывай о своих заслугах! Из-за такого твоего поведения сослуживцам даже неловко получать зарплату!
+
+**Элоуэн:** В этом плане Трес прямо как ты. Очевидно, что он мастер картографии, но когда дело доходит до демонстрации...
+
+**Элоуэн:** Эй, постойте! Если бы это было на поле боя и я была бы вашим врагом, вы меня бы здорово обманули! Неужели это тоже часть вашей хитрой тактики?
+
+**Паймон:** Э? А в чём логика? Паймон такое даже в голову не приходило!
+
+- **Путешественник:** Он стремится к совершенству в картографировании.
+
+- **Путешественник:** Мика всегда строг к себе.
+
+**Мика:** Почётный рыцарь слишком меня хвалит... На самом деле, когда занимаешься картографией, действительно всегда чувствуешь, что сделал недостаточно, потому что результат часто влияет не только на тебя самого.
+
+**Трес:** Инструктор прав, поэтому я всегда стараюсь... постоянно контролировать каждую деталь, быть очень осторожным.
+
+**Элоуэн:** Раз уж мы об этом заговорили, почему бы нашему почётному рыцарю не попробовать себя в испытании «Картографический поиск», разработанном Тресом? Заодно посмотрим, каков уровень нашего Треса!
+
+**Мика:** Хм, это... кажется хорошей идеей... Если у почётного рыцаря и Паймон найдётся время...
+
+**Паймон:** Что? Картография... Звучит так сложно. Можно ли участвовать, даже если не изучал ничего подобного?
+
+- **Путешественник:** Я новичок.
+
+- **Путешественник:** Паймон тоже.
+
+**Мика:** А, новичок - это... это нестрашно... Наша цель - разработать «маршрут исследования, понятный даже непрофессионалу с первого раза», чтобы новобранцев было легче обучать.
+
+**Мика:** Даже при всём разнообразии рельефа и высокой сложности картографирования... для почётного рыцаря, чей опыт приключений огромен, это должно быть не сложнее детской игры!
+
+**Паймон:** Может, попробуем?
+
+**Паймон:** В конце концов, Путешественник отлично умеет учиться на месте. Он / Она сразу становится экспертом в любой области!
+
+**Мика:** Благодаря тому, что прошлые совместные учения помогли установить кое-какие связи... на этот раз мы получили помощь союзных войск разных стран, что позволило нам провести картографический поиск в различных ландшафтных условиях.
+
+**Мика:** Конечно, в качестве благодарности мы... мы поделимся с союзниками опытом и выводами. Можно сказать, что все вместе становимся сильнее!
+
+## EN
+
+### A Knight's Guide to Surveying
+
+A few knights seem to be exchanging information on surveying techniques...
+
+#### Talk to Mika
+
+**Tres:** Instructor, what do you think of the design of this survey route?
+
+**Mika:** The height here... and the obstacles... You've managed to preserve real-world conditions without compromising the difficulty of the challenge... And you've even managed to retain a degree of fun. Very well done.
+
+**Mika:** Mr. Tres, I don't think I have much more to teach you. The next step is to consolidate what you've learned and apply it to new scenarios...
+
+**Tres:** But...
+
+**Elowen:** What else are you worried about?
+
+**Elowen:** If I could learn as fast as you can, the gunsmiths of the 8th Coy... especially Koch, would parade me around as the poster child for hard work, then use me to guilt-trip those lazybones!
+
+**Tres:** You're already doing very well, Elowen...
+
+**Tres:** Didn't you make the calibration objects we used this time? If it had been my job, uh... they probably would have ended up in Vice Captain Lohen's display case of unidentified objects...
+
+- **Traveler:** What are you guys doing here?
+
+- **Traveler:** This place is buzzing!
+
+**Paimon:** There are so many people gathered here... Are the Knights of Favonius having a picnic?
+
+**Mika:** Ah, it's the Honorary Knight and Paimon! Greetings!
+
+**Mika:** This is Mr. Tres. Vice Captain Lohen sent him here to compare notes and learn some cartography skills with me, so together we designed the "Surveying and Searching" challenge...
+
+**Mika:** And this is Elowen. A member of the Reconnaissance Company, just like me. She's helped us a lot these past few days.
+
+**Tres:** Oh, it's the renowned Honorary Knight and his / her companion Paimon! I've heard so much about you, but seeing you in person is something else entirely. You have a truly commanding presence.
+
+**Elowen:** Wait... What!? My goodness, it's actually them... What do I do, what do I do...? Think, Elowen, think...
+
+**Paimon:** Huh? N-No need to get so nervous...
+
+**Tres:** Hmm... Don't worry, Elowen just slips into certain "states" sometimes... Right now, she should be in... a "state of utmost reverence"?
+
+**Tres:** Projecting a complex persona... Thereby making it more difficult for others to pin you down... Yes, that's right... Another trick for the toolkit...
+
+**Elowen:** ...Tres, I think you're thinking way too much. I'm just a rookie, and the world's best knight is standing right in front of me! Isn't it normal to be nervous?
+
+**Elowen:** Besides, this is the perfect time to ask for an autograph... W—Wait, how should I go about asking for that...
+
+**Paimon:** Hey, you've already said it!
+
+- **Traveler:** Consider it done. A little thing like that is no sweat at all.
+
+- **Traveler:** I heard you loud and clear! You're taking this autograph whether you like it or not!
+
+**Elowen:** Oh my goodness! I'm going to cherish this forever... Today is seriously my lucky day!
+
+**Elowen:** Oh, right! I have to thank you too, Mika. If you hadn't come to me for help, I never would have had such an amazing opportunity. Next time you need anything, I'll be here to lend a hand!
+
+**Mika:** Hm? Well, thanks in advance... But that's mainly because our Honorary Knight and Paimon are so kind and sincere.
+
+**Elowen:** Stop selling yourself short! If you keep acting like this, you'll make the rest of us feel guilty for even taking a paycheck!
+
+**Elowen:** Honestly, Tres is exactly like you in that regard. He's clearly mastered his cartography skills, but the way he carries himself...
+
+**Elowen:** Hey, wait a minute! If we were on the battlefield against each other, I would've been completely fooled! Is this some kind of scheme you two have cooked up?
+
+**Paimon:** Huh? Is that how this works? It went way over Paimon's head!
+
+- **Traveler:** Perhaps he's simply pursuing perfection in his cartography skills.
+
+- **Traveler:** Mika, you've always been so hard on yourself.
+
+**Mika:** You're flattering me too much, Honorary Knight... Honestly, when it comes to cartography, especially the surveying process, you always feel like you haven't done enough. This is because you're not the only person affected by the results.
+
+**Tres:** Instructor Mika is right. That's why I'm always thinking about... staying on top of every single detail. I have to be absolutely, a hundred and one percent certain that there's no room for error.
+
+**Elowen:** Speaking of which, why don't we let our Honorary Knight try out the "Surveying and Searching" challenge that Tres designed? It's the perfect chance to see how good he really is!
+
+**Mika:** Hmm, that seems like a good idea... If our Honorary Knight and Paimon have the time...
+
+**Paimon:** Are you sure we can handle it? Surveying... sounds super complicated. We haven't studied any of that stuff!
+
+- **Traveler:** I'm new to this.
+
+- **Traveler:** And so is Paimon.
+
+**Mika:** Ah, that's okay... Our goal is to design a survey route that even a novice can grasp on their first try. This way, we can guide our new recruits clearly and easily.
+
+**Mika:** Even if the terrain is diverse and the surveying process is quite complex... This should still be child's play for our Honorary Knight, who has adventure experience that's in a league of its own!
+
+**Paimon:** If that's the case, how about we give it a try?
+
+**Paimon:** After all, Traveler is a genius and can become a total pro at anything right on the spot!
+
+**Mika:** Thanks to the connections we've made during our last joint exercise, we received help from allied troops from different nations this time. This allowed us to survey and search objects across various terrains.
+
+**Mika:** Of course, we must share the experiences and lessons we've learned with our allies in return. That way, we can all grow stronger together!
+
+## ZH
+
+### 骑士的测绘教学
+
+几位骑士似乎正在交流学习测绘技术…
+
+#### 与米卡对话
+
+**特雷斯:** 教官，你看这条测绘路线设计得如何？
+
+**米卡:** 这里的高度…还有障碍…兼顾了实际情况和测试难度…甚至还保留了一定的趣味性，你做得很好。
+
+**米卡:** 特雷斯阁下，我觉得，我可以教给你的知识已经不剩多少了，接下来主要是巩固与举一反三…
+
+**特雷斯:** 可是…
+
+**埃洛雯:** 特雷斯还在担心什么呢？
+
+**埃洛雯:** 如果我要有你这样的学习速度，第八小队的枪匠们…尤其是科赫，都要把我当成典范供起来，敲打那些偷懒鬼了！
+
+**特雷斯:** 埃洛雯已经做得很好了啦…
+
+**特雷斯:** 这次用的标定物，不都是你做的吗？如果要让我来的话，呃，大概会被洛恩副队长放在什么「不明物品展示柜」里吧…
+
+- **旅行者:** 在忙什么呢？
+
+- **旅行者:** 好热闹啊。
+
+**派蒙:** 怎么这么多人聚在一起…是骑士团的野餐环节吗？
+
+**米卡:** 啊，是荣誉骑士前辈和派蒙，你们好！
+
+**米卡:** 这位是特雷斯阁下，最近洛恩副队长让他过来和我交流学习测绘技术，于是我们一起设计了「测绘寻物」的挑战…
+
+**米卡:** 这位是埃洛雯，和我一样也是游击小队的队员，这两天帮了我们大忙。
+
+**特雷斯:** 是大名鼎鼎的荣誉骑士前辈和他 / 她的好伙伴派蒙啊！百闻不如一见，真是气度不凡。
+
+**埃洛雯:** 嗯，嗯？！天哪，见到最厉害，最出名的风云人物了…我该怎么办好…埃洛雯，快想想啊…
+
+**派蒙:** 欸？不、不用这么紧张？
+
+**特雷斯:** 嗯…不用担心，埃洛雯只是有时候会沉浸于一些「状态」中——现在应该是「超级崇敬状态」？
+
+**特雷斯:** 展现出更多样的个性，让对方捉摸不透真实的你…嗯嗯，我又学到了一些新东西呢…
+
+**埃洛雯:** …特雷斯，你也未免太好学了啦。作为没什么资历的晚辈，见到最厉害的骑士，紧张不是很正常吗？
+
+**埃洛雯:** 更何况，现在正是要签名的绝佳时机啊…等、等等，我想想该怎么说出口好呢…
+
+**派蒙:** 你已经说出口了啦！
+
+- **旅行者:** 满足这个小小心愿可不在话下。
+
+- **旅行者:** 我听到了，这签名你非收不可。
+
+**埃洛雯:** 天哪！那我一定会好好保存的…嗯？今天真是一个好幸运的日子呢…
+
+**埃洛雯:** 哦对哦对，还要感谢米卡，要不是你来找我帮忙，我也不可能碰到这么棒的机会…下次你有需要，我还来帮你！
+
+**米卡:** 嗯？那先多谢了…主要还是因为我们荣誉骑士前辈和派蒙平易近人、待人真诚…
+
+**埃洛雯:** 你也不要老是忘掉自己的功劳！你这个样子，同事拿薪水都良心不安了！
+
+**埃洛雯:** 在这方面，特雷斯简直和你如出一辙，明明完全掌握了测绘技巧，但表现出来的时候…
+
+**埃洛雯:** 哎，不对！如果现在是在战场上，我作为敌方，已经狠狠地被欺骗了！等等，这难道也算是你们的小计谋？
+
+**派蒙:** 咦？还有这种逻辑？我一下子也没反应过来！
+
+- **旅行者:** 或许是只对测绘精益求精。
+
+- **旅行者:** 米卡总是严格要求自己啊。
+
+**米卡:** 荣誉骑士太夸奖我了…其实，测绘这件事，确实总会让人觉得自己做得不够，因为结果往往影响的不仅仅是你自己。
+
+**特雷斯:** 教官说得没错，所以我总想着…时时刻刻把控好每一个细节，务必小心、小心、再小心。
+
+**埃洛雯:** 那说到这，不如让我们荣誉骑士前辈来试试特雷斯设计的「测绘寻物」挑战？正好看看我们特雷斯的水平究竟如何！
+
+**米卡:** 唔，这似乎是个好主意…如果荣誉骑士前辈和派蒙有空的话…
+
+**派蒙:** 没关系吗？测绘…听起来就很复杂欸，没学过相关的东西也能来吗？
+
+- **旅行者:** 我是新手。
+
+- **旅行者:** 派蒙也是外行。
+
+**米卡:** 啊，新手也没关系的…我们的目的就是设计出「门外汉也能一遍学会的测绘路线」，这样才有助于深入浅出地引导新兵。
+
+**米卡:** 即便地形多样，测绘的复杂度较高…对于冒险经验无人可敌的荣誉骑士前辈而言，应该也只是趣味游戏的难度！
+
+**派蒙:** 这么一说，我们倒是可以试试看了？
+
+**派蒙:** 反正，旅行者也很擅长现场学习，原地变成任何领域的专家！
+
+**米卡:** 多亏上次联合演习牵线搭桥…这次我们得到了各国友军的帮助，得以在不同的地形条件下进行测绘寻物。
+
+**米卡:** 当然，作为回报，最后我们总结的经验教训，也要与友军们共享，可谓是一起变强！

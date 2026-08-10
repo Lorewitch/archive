@@ -7,15 +7,15 @@
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 10143
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74025,74026,74028
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_74134,quest_wq_74135
 # related_quests: quest_wq_10142,quest_wq_10146,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
 # quest_chain: quest_wq_10142,quest_wq_10146,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_10143,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

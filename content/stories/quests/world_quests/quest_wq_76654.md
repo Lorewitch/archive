@@ -3,19 +3,19 @@
 # title_ru: Молитвы Морозной Луне
 # title_en: Blessings of the Frost Moon
 # title_zh: 霜月的祝祷
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76654
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76654
 # previous_quests: quest_wq_76650
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_76650
 # quest_chain: quest_wq_76650,quest_wq_76654
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

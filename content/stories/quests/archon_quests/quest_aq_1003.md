@@ -13,8 +13,8 @@
 # part_source_ids: 388,389,390,393,394,396,397,398
 # previous_quests: quest_aq_1002
 # next_quests: quest_aq_1101
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Prologue
 # version_source: wiki_release_category
 
@@ -1890,9 +1890,9 @@ Yeah, about that...
 
 **温迪:** 嗯？你说凯亚的情报…
 
-**温迪:** …原来如此，深渊教团里有一位「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYD|INFO_FEMALE_PRONOUN_GIRLD]}」，主导了腐化特瓦林的计划？
+**温迪:** …原来如此，深渊教团里有一位「荧/空」，主导了腐化特瓦林的计划？
 
-**温迪:** 看来是想把特瓦林改造成深渊的战争兵器吧。话说回来，我可从没听说过，深渊教团里有什么「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYD|INFO_FEMALE_PRONOUN_GIRLD]}」…
+**温迪:** 看来是想把特瓦林改造成深渊的战争兵器吧。话说回来，我可从没听说过，深渊教团里有什么「荧/空」…
 
 - **旅行者:** 看来那不是教团的古老传承。
 
@@ -1900,7 +1900,7 @@ Yeah, about that...
 
 **温迪:** 我想也是。
 
-**温迪:** 但最近才出现的「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYD|INFO_FEMALE_PRONOUN_GIRLD]}」，又为什么能走上统领深渊教团的位置呢…？
+**温迪:** 但最近才出现的「荧/空」，又为什么能走上统领深渊教团的位置呢…？
 
 **派蒙:** 刚才的愚人众执行官，抢走「神之心」以后，马上就离开了呢。
 
@@ -1928,7 +1928,7 @@ Yeah, about that...
 
 **温迪:** 「神之心」是更高位的元素控制中枢，是七神之座的象征。
 
-**温迪:** 对不起，我不知道是七神中的哪一位，带走了你的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}。
+**温迪:** 对不起，我不知道是七神中的哪一位，带走了你的荧/空。
 
 **温迪:** 呀，话说回来，身为七神之一，我自己的嫌疑都还没洗清…！
 
@@ -1938,7 +1938,7 @@ Yeah, about that...
 
 **派蒙:** 可是，「卖唱的」只是化身形象，不能作为判断依据——
 
-**温迪:** 啊哈哈，我们确实是很好的搭档呢。等你找回{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}，有没有兴趣来当新的「四风守护」啊？
+**温迪:** 啊哈哈，我们确实是很好的搭档呢。等你找回荧/空，有没有兴趣来当新的「四风守护」啊？
 
 也许…
 
@@ -1964,7 +1964,7 @@ Yeah, about that...
 
 **芭芭拉:** 星球？
 
-**派蒙:** 啊！芭芭拉小姐不要听{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}说胡话！
+**派蒙:** 啊！芭芭拉小姐不要听空/荧说胡话！
 
 **芭芭拉:** 咦？嗯…好的，总之，刚才我发现你们晕倒在教堂外，就用元素力为你们治疗…
 
@@ -2388,9 +2388,9 @@ Yeah, about that...
 
 **凯亚:** 呵呵呵…你们可以认为是我在「语言」方面的天然才华吧。
 
-**凯亚:** 那位统领者，被深渊教团的怪物称为…「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYD|INFO_FEMALE_PRONOUN_GIRLD]}殿下」。
+**凯亚:** 那位统领者，被深渊教团的怪物称为…「荧/空殿下」。
 
-「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYD|INFO_FEMALE_PRONOUN_GIRLD]}」…
+「荧/空」…
 
 **凯亚:** 好了，情报共享就先到这里，我好像看到安柏正在向这边过来了。
 
@@ -2414,7 +2414,7 @@ Yeah, about that...
 
 **安柏:** 既然龙灾已经告一段落，你们接下来有什么安排呢？
 
-**派蒙:** 大概会离开蒙德，继续以走遍七国为目标，寻找{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}亲人的线索吧。
+**派蒙:** 大概会离开蒙德，继续以走遍七国为目标，寻找空/荧亲人的线索吧。
 
 **安柏:** 这样啊…那也就是说要暂时分别了吗…
 

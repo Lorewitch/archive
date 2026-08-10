@@ -13,8 +13,8 @@
 # part_source_ids: 2008,2009
 # previous_quests: quest_aq_1202
 # next_quests: quest_aq_1204
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: II
 # version_source: wiki_release_category
 
@@ -531,6 +531,10 @@
 **Тэппэй:** Что? Невозможно! Как они могли добраться досюда...
 
 **Тэппэй:** Лучше нам пойти посмотреть. Это шанс проявить себя в бою!
+
+#### Одолейте солдат сёгуната, которые планируют скрытую атаку
+
+**Тэппэй:** Спасибо за помощь! Ты решил(а), какое лекарство будем использовать?
 
 #### Поговорите с Тэппэем
 
@@ -1646,7 +1650,7 @@ Of course you can come.
 
 没有。
 
-**派蒙:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是特别的，不需要神之眼也可以使用元素力。
+**派蒙:** 空/荧是特别的，不需要神之眼也可以使用元素力。
 
 **哲平:** 真的假的？这也太棒了吧…这不就意味着，「眼狩令」对你完全无效吗？
 
@@ -1732,13 +1736,13 @@ Of course you can come.
 
 **将司:** 可以啊你小子，什么时候变得这么厉害了？
 
-**哲平:** 这位更是了不得。眼见我就要力竭败退，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}突然从旁边杀出，区区几个幕府武士完全不是对手，被{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}直接打倒在地。
+**哲平:** 这位更是了不得。眼见我就要力竭败退，空/荧突然从旁边杀出，区区几个幕府武士完全不是对手，被空/荧直接打倒在地。
 
-**哲平:** 听说{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}还搅乱了第一百颗神之眼的「狩眼仪式」，就连雷电将军都拿{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}没什么办法呢。
+**哲平:** 听说空/荧还搅乱了第一百颗神之眼的「狩眼仪式」，就连雷电将军都拿空/荧没什么办法呢。
 
 **德田:** 太厉害了你们。
 
-**德田:** 不过…别的我还相信，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}能正面对抗雷电将军，是不是有点夸张了？你怕不是没听过「无想的一刀」吧，哈哈。
+**德田:** 不过…别的我还相信，空/荧能正面对抗雷电将军，是不是有点夸张了？你怕不是没听过「无想的一刀」吧，哈哈。
 
 **德田:** 但不管怎样，原先我还在想最近输多赢少，是不是快撑不下去了。
 
@@ -1844,7 +1848,7 @@ Of course you can come.
 
 **哲平:** 没错！这次到来，也是为了向你们介绍一位新人。
 
-**哲平:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}在正面战场以一己之力干掉了三四个幕府武士，不费吹灰之力。
+**哲平:** 空/荧在正面战场以一己之力干掉了三四个幕府武士，不费吹灰之力。
 
 **哲平:** 而且勇敢地阻止了「狩眼仪式」，还从雷电将军手里活了下来！
 
@@ -1954,15 +1958,15 @@ Of course you can come.
 
 **九条裟罗:** …无妨。还有一件事，你们应该已经拿到最新的通缉令了吧，那个金发的旅行者，现在应该在你们那里。
 
-**九条裟罗:** 如果你们愿意把{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}交出来，我可以给你们一些喘息的时间。毕竟在这个时间点寻求决战，对你我双方都没有好处。
+**九条裟罗:** 如果你们愿意把空/荧交出来，我可以给你们一些喘息的时间。毕竟在这个时间点寻求决战，对你我双方都没有好处。
 
 **五郎:** 难道说你们突然增兵，就是为了…
 
-**九条裟罗:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}对将军大人很重要。
+**九条裟罗:** 空/荧对将军大人很重要。
 
-**九条裟罗:** 但我想，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}对于反抗军来说，应该可有可无。
+**九条裟罗:** 但我想，空/荧对于反抗军来说，应该可有可无。
 
-**五郎:** …你错了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}对反抗军同样很重要。{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}已经加入了反抗军，现在是我的部下，我不会把{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}交出来的。
+**五郎:** …你错了，空/荧对反抗军同样很重要。空/荧已经加入了反抗军，现在是我的部下，我不会把空/荧交出来的。
 
 **五郎:** 「反抗军不会出卖任何一名同伴」，这是珊瑚宫大人很早之前就定下来的规矩。
 

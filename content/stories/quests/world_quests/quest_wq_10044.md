@@ -3,19 +3,19 @@
 # title_ru: Сквозь туман
 # title_en: Through the Mists
 # title_zh: 雾海纪行
-# region: Инадзума
+# region: Тейват
 # game_version: 2.2
 # release_versions: 2.2
 # source_id: 10044
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72166,72167,72172,72173
 # previous_quests: quest_wq_10032
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10032
 # quest_chain: quest_wq_10032,quest_wq_10044
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -972,7 +972,7 @@
 
 Предвестник зари...
 
-**Паймон:** А был же тот ме{RUBY#[D]Предрассветный победоносный меч триумфатора}ч, который мы тогда от Кэйи получили?..
+**Паймон:** А был же тот меПредрассветный победоносный меч триумфаторач, который мы тогда от Кэйи получили?..
 
 **Сумида:** Ха-ха, звучит как очень сильное оружие. Даже слишком нарочито. Но всё же...
 
@@ -2904,7 +2904,7 @@
 
 **Сумида:** Мы не знаем, куда направляемся, и не знаем, когда вернёмся в Инадзуму. Мы можем столкнуться со многими опасностями. Именно поэтому я бы хотела, чтобы ты был рядом со мной!
 
-**Сумида:** Если не хочешь - ничего страшного. Всё-таки у каждого своя собственная жиз{RUBY#[S]история}нь.
+**Сумида:** Если не хочешь - ничего страшного. Всё-таки у каждого своя собственная жизисториянь.
 
 **Кама:** Я не против...
 
@@ -3148,7 +3148,7 @@
 
 **Ру:** И тогда я придумал ей имя Канна Капацири...
 
-**«Ру»:** Давай назовём тебя Канна К{RUBY#[S]Орёл грома}апацири!
+**«Ру»:** Давай назовём тебя Канна КОрёл громаапацири!
 
 **Прикоснуться:** ...Удивительно. Но мне всё равно.
 
@@ -3286,7 +3286,7 @@
 
 **Прикоснуться:** ...Раз вы позволили этой неповторимой песне стать кровью и понапрасну оросить эту землю...
 
-**Прикоснуться:** Тогда, пока я, Канна К{RUBY#[S]Орёл грома}апацири, не услышу снова песню этого человека... «Ру», земли эти будут во власти вечного бедствия...
+**Прикоснуться:** Тогда, пока я, Канна КОрёл громаапацири, не услышу снова песню этого человека... «Ру», земли эти будут во власти вечного бедствия...
 
 **Паймон:** Вот так всё было.
 
@@ -4470,7 +4470,7 @@ Katheryne seems to have a new commission for you.
 
 The Harbinger of Dawn counts, I guess?
 
-**Paimon:** Yeah, didn't we get that sw{RUBY#[S]Triumphant Harbinger of Dawn that Points Towards Victory}ord from Kaeya that one time?
+**Paimon:** Yeah, didn't we get that swTriumphant Harbinger of Dawn that Points Towards Victoryord from Kaeya that one time?
 
 **Sumida:** Hahah, that does sound very strong. Maybe even a bit too deliberately so. Still...
 
@@ -6402,7 +6402,7 @@ Ahem.
 
 **Sumida:** We don't know where we're going, nor do we know when we'll return to Inazuma. We might even encounter many dangers. But that's exactly why I'd like you to stay by my side!
 
-**Sumida:** Of course, it's fine if you're not willing. I mean, everyone has their own lif{RUBY#[S]story}e to lea{RUBY#[S]tell}d.
+**Sumida:** Of course, it's fine if you're not willing. I mean, everyone has their own lifstorye to leatelld.
 
 **Kama:** I don't mind...
 
@@ -6646,7 +6646,7 @@ I can't say this for sure, but...
 
 **Ruu:** And so I gave her the name Kanna Kapatcir...
 
-**"Ruu":** Let's name you "Kanna K{RUBY#[S]Great Eagle of the Storm}apatcir," then!
+**"Ruu":** Let's name you "Kanna KGreat Eagle of the Stormapatcir," then!
 
 **Touch:** ...Ridiculous. Still, it matters not to me.
 
@@ -6784,7 +6784,7 @@ The "feather."
 
 **Touch:** ...Since you have allowed this one and only song to flow in blood into this earth...
 
-**Touch:** Then until I, Kanna K{RUBY#[S]Great Eagle of the Storm}apatcir, hear that human... "Ruu"'s song once more, may these lands fall under an eternal catastrophe...
+**Touch:** Then until I, Kanna KGreat Eagle of the Stormapatcir, hear that human... "Ruu"'s song once more, may these lands fall under an eternal catastrophe...
 
 **Paimon:** So that's what happened.
 
@@ -7246,7 +7246,7 @@ Okay. Goodbye!
 
 **阿瑠:** 啊…
 
-**阿瑠:** 是旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}和派蒙…
+**阿瑠:** 是旅行者空/荧和派蒙…
 
 **阿瑠:** 你们不见了，我还以为你们会和别的人一样…
 
@@ -7338,11 +7338,11 @@ Okay. Goodbye!
 
 **阿瑠:** 我和卡帕奇莉约好了。待会我要和卡帕奇莉见面。还有大家会帮我准备。所以，现在我要走了。
 
-**阿瑠:** 栖木的事情，很感谢旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}和派蒙！有了你们，这次的祭典一定会顺利的吧！
+**阿瑠:** 栖木的事情，很感谢旅行者空/荧和派蒙！有了你们，这次的祭典一定会顺利的吧！
 
 **派蒙:** 哼哼，那当然。
 
-**阿瑠:** 唔…如果旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}你们愿意的话，再去祭场找又爷爷吧！
+**阿瑠:** 唔…如果旅行者空/荧你们愿意的话，再去祭场找又爷爷吧！
 
 **阿瑠:** 虽然栖木的问题解决了，不过应该还有事情需要帮忙。毕竟，祭典是很重要的事情，应该有很多要准备。
 
@@ -7358,7 +7358,7 @@ Okay. Goodbye!
 
 - **旅行者:** 我没什么所谓。
 
-**阿瑠:** 谢谢旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，谢谢派蒙！
+**阿瑠:** 谢谢旅行者空/荧，谢谢派蒙！
 
 **阿瑠:** 那么，我们晚点再见！
 
@@ -7968,11 +7968,11 @@ Okay. Goodbye!
 
 黎、黎明神剑…
 
-**派蒙:** 之前是不是有从凯亚手里拿到那把{RUBY#[D]「斩开黎明指向胜利的拂晓神剑」}长剑…来着？
+**派蒙:** 之前是不是有从凯亚手里拿到那把「斩开黎明指向胜利的拂晓神剑」长剑…来着？
 
 **墨田:** 听起来厉害得有点刻意呢，这个名字。无论如何…
 
-**墨田:** 被美{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}包围的生活？
+**墨田:** 被美荧/空包围的生活？
 
 **墨田:** 那么，在故事开始没多久，就击败巨龙的经历呢？抑或是，莫名其妙被卷入关系一国之存亡的大危机，与「有数字编号的少数精锐组成的反派团体」为敌？
 
@@ -8004,7 +8004,7 @@ Okay. Goodbye!
 
 「鹤观」？
 
-**墨田:** 是的。小说的名字暂定是《雾海纪行》。目前大致的设定是…无名的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}在永远浓雾笼罩的国度冒险的故事。
+**墨田:** 是的。小说的名字暂定是《雾海纪行》。目前大致的设定是…无名的空/荧在永远浓雾笼罩的国度冒险的故事。
 
 **墨田:** 其实故事情节现在还在构想。但我的究极目标是写出像《纪野之旅》那样触动人心的大长篇。
 
@@ -8032,7 +8032,7 @@ Okay. Goodbye!
 
 **墨田:** 实在是不好意思…拜托你到鹤观去，设法取得一个「木簧笛」带给我。那是数千年前消失的鹤观文明的传统乐器。
 
-**墨田:** 事情是这样的。《雾海纪行（暂定）》设定是发生在鹤观。当然故事是虚构的。当无名的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}进入鹤观时——
+**墨田:** 事情是这样的。《雾海纪行（暂定）》设定是发生在鹤观。当然故事是虚构的。当无名的空/荧进入鹤观时——
 
 **派蒙:** 旅行者，我们走吧。
 
@@ -8084,7 +8084,7 @@ Okay. Goodbye!
 
 **墨田:** 好。那长话短说，你有「拿到全村最好的剑」的经历吗？
 
-**墨田:** 被美{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}包围的生活？
+**墨田:** 被美荧/空包围的生活？
 
 **墨田:** 那么，在故事开始没多久，就击败巨龙的经历呢？抑或是，莫名其妙被卷入关系一国之存亡的大危机，与「有数字编号的少数精锐组成的反派团体」为敌？
 
@@ -8116,7 +8116,7 @@ Okay. Goodbye!
 
 「鹤观」？
 
-**墨田:** 是的。小说的名字暂定是《雾海纪行》。目前大致的设定是…无名的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}在永远浓雾笼罩的国度冒险的故事。
+**墨田:** 是的。小说的名字暂定是《雾海纪行》。目前大致的设定是…无名的空/荧在永远浓雾笼罩的国度冒险的故事。
 
 **墨田:** 其实故事情节现在还在构想。但我的究极目标是写出像《纪野之旅》那样触动人心的大长篇。
 
@@ -8144,7 +8144,7 @@ Okay. Goodbye!
 
 **墨田:** 实在是不好意思…拜托你到鹤观去，设法取得一个「木簧笛」带给我。那是数千年前消失的鹤观文明的传统乐器。
 
-**墨田:** 事情是这样的。《雾海纪行（暂定）》设定是发生在鹤观。当然故事是虚构的。当无名的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}进入鹤观时——
+**墨田:** 事情是这样的。《雾海纪行（暂定）》设定是发生在鹤观。当然故事是虚构的。当无名的空/荧进入鹤观时——
 
 **派蒙:** 旅行者，我们走吧。
 
@@ -8290,7 +8290,7 @@ Okay. Goodbye!
 
 不是有意要吓你…
 
-**？？？:** 是外面来的大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}…
+**？？？:** 是外面来的大空/荧…
 
 **？？？:** 和…白色的漂浮姐姐？妹妹？好开心！好久没看到外面来的人了！
 
@@ -8302,7 +8302,7 @@ Okay. Goodbye!
 
 - **旅行者:** 我是传说中的旅行者。
 
-**？？？:** 好厉害！是传说中的旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}！
+**？？？:** 好厉害！是传说中的旅行者空/荧！
 
 **派蒙:** 唔，总之现在最重要的事情是…
 
@@ -8338,7 +8338,7 @@ Okay. Goodbye!
 
 - **旅行者:** （总之，先听听阿瑠的说法吧。）
 
-**？？？:** 不过，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}和派蒙来得正好！我们今天正好是祭典哦！
+**？？？:** 不过，旅行者空/荧和派蒙来得正好！我们今天正好是祭典哦！
 
 **？？？:** 作为稀客来参加祭典，卡帕奇莉一定会开心的吧。
 
@@ -8354,7 +8354,7 @@ Okay. Goodbye!
 
 **？？？:** 不过，祭典开始之前，还有一些事情要处理！
 
-**？？？:** 总之，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙，跟我来吧！
+**？？？:** 总之，旅行者空/荧、派蒙，跟我来吧！
 
 #### 场景
 
@@ -8386,11 +8386,11 @@ Okay. Goodbye!
 
 - **旅行者:** 木簧笛…
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}需要木簧笛对吧？接下来的话，就应该去祭场了。
+**阿瑠:** 旅行者空/荧需要木簧笛对吧？接下来的话，就应该去祭场了。
 
 **阿瑠:** 因为祭典，所有木簧笛都放在那边。又爷爷应该也需要人帮忙，去供奉其他的栖木。
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙，那我们晚点再见吧！
+**阿瑠:** 旅行者空/荧、派蒙，那我们晚点再见吧！
 
 不和我们一起去么？
 
@@ -8466,7 +8466,7 @@ Okay. Goodbye!
 
 **牧梨:** 嗯。对不起。
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙，去找找羽毛吧！如果你们也帮忙供奉栖木，卡帕奇莉一定会开心的吧。
+**阿瑠:** 旅行者空/荧、派蒙，去找找羽毛吧！如果你们也帮忙供奉栖木，卡帕奇莉一定会开心的吧。
 
 **派蒙:** 唔…好吧。总之，先触碰栖木对吧？
 
@@ -8574,7 +8574,7 @@ Okay. Goodbye!
 
 #### 场景
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}！
+**阿瑠:** 旅行者空/荧！
 
 **伊部:** 怎么了？
 
@@ -8617,6 +8617,24 @@ Okay. Goodbye!
 **阿部:** 怎么会忘记呢…
 
 **阿部:** 可能，我只是希望他一切安好吧…
+
+#### 与派蒙对话
+
+**派蒙:** 既然栖木都处理好了，那祭典应该没问题了吧…？
+
+**派蒙:** 听阿瑠说了这么多，好期待祭典哪！
+
+- **旅行者:** 好期待！
+
+- **旅行者:** 但他其实什么都没说。
+
+**派蒙:** 欸？明明说了很多，很期待、很欢迎我们…
+
+**派蒙:** ……
+
+**派蒙:** 算了！不管了！
+
+**派蒙:** 就算不想去祭典，为了拿到木簧笛，还是要去一下！
 
 #### 返回「祭场」
 
@@ -9128,13 +9146,13 @@ Okay. Goodbye!
 
 **派蒙:** 阿瑠！你没事就好…
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙…
+**阿瑠:** 旅行者空/荧、派蒙…
 
 **阿瑠:** 为什么…你们为什么要这么做？
 
 **派蒙:** 欸…？
 
-**阿瑠:** 本来我以为，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙，你们人这么好，又这么厉害…
+**阿瑠:** 本来我以为，旅行者空/荧、派蒙，你们人这么好，又这么厉害…
 
 **阿瑠:** 而且，和以前的人不一样！你们会回来找我，一直听我说话，我以为「这次」的祭典，终于能顺利进行了…但是…
 
@@ -9178,7 +9196,7 @@ Okay. Goodbye!
 
 **阿瑠:** 这里变好了，然后左世姐姐就会回来，阿釜哥哥也会回来！爸爸也不用害怕，卡帕奇莉生气打雷！
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙，你们为什么要破坏祭典…
+**阿瑠:** 旅行者空/荧、派蒙，你们为什么要破坏祭典…
 
 **派蒙:** 因为这样是不对的！
 
@@ -9576,7 +9594,7 @@ Okay. Goodbye!
 
 之前说了我们一起到外面去冒险…
 
-**阿瑠:** 嗯，我记得喔。之前和旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}说好了，我们一起去看看其他的地方。
+**阿瑠:** 嗯，我记得喔。之前和旅行者空/荧说好了，我们一起去看看其他的地方。
 
 - **旅行者:** 要不要一起去清籁岛？
 
@@ -9882,7 +9900,7 @@ Okay. Goodbye!
 
 **墨田:** 没有目的地，不知道什么时候才回稻妻。或许会遇到很多危险也说不定。不过，因此我才更需要你待在我身边嘛！
 
-**墨田:** 当然，如果不愿意也没关系，毕竟每个人的「生{RUBY#[D]故事}活」，都只属于自己…
+**墨田:** 当然，如果不愿意也没关系，毕竟每个人的「生故事活」，都只属于自己…
 
 **阿釜:** 我没有什么所谓…
 
@@ -9978,7 +9996,7 @@ Okay. Goodbye!
 
 #### 前往指定地点
 
-**阿瑠:** 因为有你们，一切都变好了。能成为你们的朋友，真是太幸福了。谢谢你们，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，派蒙。
+**阿瑠:** 因为有你们，一切都变好了。能成为你们的朋友，真是太幸福了。谢谢你们，旅行者空/荧，派蒙。
 
 **阿瑠:** 好想和你们一起去旅行喔。
 
@@ -10004,7 +10022,7 @@ Okay. Goodbye!
 
 #### 前往指定地点调查
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙，我不是说了，不要再来了…
+**阿瑠:** 旅行者空/荧、派蒙，我不是说了，不要再来了…
 
 你没事就好。
 
@@ -10072,7 +10090,7 @@ Okay. Goodbye!
 
 雷鸟不一定想要这样…
 
-**阿瑠:** 但是，你怎么知道？旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}又没有见过卡帕奇莉。
+**阿瑠:** 但是，你怎么知道？旅行者空/荧又没有见过卡帕奇莉。
 
 **阿瑠:** 她好久好久没回来了，一定是生气了…
 
@@ -10126,7 +10144,7 @@ Okay. Goodbye!
 
 **阿瑠:** 然后，我就给她起名叫，菅名卡帕奇莉…
 
-**「阿瑠」:** 就叫你「菅名卡{RUBY#[D]雷霆的大鹫}帕奇莉」吧！
+**「阿瑠」:** 就叫你「菅名卡雷霆的大鹫帕奇莉」吧！
 
 **触摸:** …莫名其妙。不过，我没有什么所谓。
 
@@ -10164,7 +10182,7 @@ Okay. Goodbye!
 
 **阿瑠:** 但是，那是圣地，我们不能进去…
 
-**阿瑠:** 而且，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙，你们已经来了三次了，事情还是没有变好…
+**阿瑠:** 而且，旅行者空/荧、派蒙，你们已经来了三次了，事情还是没有变好…
 
 你跟我说过，「万事皆三」。
 
@@ -10200,7 +10218,7 @@ Okay. Goodbye!
 
 **派蒙:** 因为很担心你，所以我也紧张得出了好多汗！
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}好厉害！太厉害了！我都看到了！
+**阿瑠:** 旅行者空/荧好厉害！太厉害了！我都看到了！
 
 - **旅行者:** 嘿嘿。
 
@@ -10234,7 +10252,7 @@ Okay. Goodbye!
 
 **派蒙:** 在天云峠，我们打败了一个一模一样的魔物。然后，就得到了这枚特殊的羽毛。
 
-**阿瑠:** 嗯，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}的雷鸟的羽毛，原来是这么来的…
+**阿瑠:** 嗯，旅行者空/荧的雷鸟的羽毛，原来是这么来的…
 
 **阿釜:** 那么，看来在天云峠和这里有雷音权现，应该都和雷鸟有关。
 
@@ -10264,7 +10282,7 @@ Okay. Goodbye!
 
 **触摸:** …既然你们让独一无二的歌，化作血水白白流进了这片土地…
 
-**触摸:** 那么，直到我「菅名卡{RUBY#[D]雷霆的大鹫}帕奇莉」再度听见那个人儿…那个「阿瑠」的歌声，这片土地都将遭受永远的劫难…
+**触摸:** 那么，直到我「菅名卡雷霆的大鹫帕奇莉」再度听见那个人儿…那个「阿瑠」的歌声，这片土地都将遭受永远的劫难…
 
 **派蒙:** 就是这么回事。
 
@@ -10300,7 +10318,7 @@ Okay. Goodbye!
 
 **阿瑠:** 嗯。
 
-**阿瑠:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙…
+**阿瑠:** 旅行者空/荧、派蒙…
 
 **阿瑠:** 其实我都知道喔。我猜得到，卡帕奇莉的事情，还有自己的事情。
 
@@ -10344,7 +10362,7 @@ Okay. Goodbye!
 
 **阿瑠:** 如果能和大家一起看到这样的景象，那就好了…
 
-**阿瑠:** 啊，不过，和旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙一起，我也好开心！
+**阿瑠:** 啊，不过，和旅行者空/荧、派蒙一起，我也好开心！
 
 **阿瑠:** 不过，雾海外面的世界好神奇呀！天空原来这么高、这么远。
 
@@ -10372,7 +10390,7 @@ Okay. Goodbye!
 
 **派蒙:** ……
 
-**阿瑠:** 谢谢你们，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙。
+**阿瑠:** 谢谢你们，旅行者空/荧、派蒙。
 
 **阿瑠:** 全靠你们，我才能实现和卡帕奇莉的约定。而且…大家也不再是那个奇怪的样子了吧。
 
@@ -10390,7 +10408,7 @@ Okay. Goodbye!
 
 **阿瑠:** 所以，我想请你们带着她的羽毛，去旅行。
 
-**阿瑠:** 这样的话，我就能和旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙一起旅行了。还有卡帕奇莉一起！
+**阿瑠:** 这样的话，我就能和旅行者空/荧、派蒙一起旅行了。还有卡帕奇莉一起！
 
 **阿瑠:** 然后，一起看看外面的人，听听外面有什么样的歌曲。
 
@@ -10408,7 +10426,7 @@ Okay. Goodbye!
 
 嗯。再见。
 
-**阿瑠:** 嗯！下次再见，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，派蒙。
+**阿瑠:** 嗯！下次再见，旅行者空/荧，派蒙。
 
 **派蒙:** ……
 
@@ -10418,7 +10436,7 @@ Okay. Goodbye!
 
 **阿瑠:** 如果能和大家一起看到这样的景象，那就好了…
 
-**阿瑠:** 啊，不过，和旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙一起，我也好开心！
+**阿瑠:** 啊，不过，和旅行者空/荧、派蒙一起，我也好开心！
 
 **阿瑠:** 不过，雾海外面的世界好神奇呀！天空原来这么高、这么远。
 
@@ -10448,7 +10466,7 @@ Okay. Goodbye!
 
 **派蒙:** ……
 
-**阿瑠:** 谢谢你们，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙。
+**阿瑠:** 谢谢你们，旅行者空/荧、派蒙。
 
 **阿瑠:** 全靠你们，我才能实现和卡帕奇莉的约定。而且…大家也不再是那个奇怪的样子了吧。
 
@@ -10466,7 +10484,7 @@ Okay. Goodbye!
 
 **阿瑠:** 所以，我想请你们带着她的羽毛，去旅行。
 
-**阿瑠:** 这样的话，我就能和旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}、派蒙一起旅行了。还有卡帕奇莉一起！
+**阿瑠:** 这样的话，我就能和旅行者空/荧、派蒙一起旅行了。还有卡帕奇莉一起！
 
 **阿瑠:** 然后，一起看看外面的人，听听外面有什么样的歌曲。
 
@@ -10484,7 +10502,7 @@ Okay. Goodbye!
 
 嗯。再见。
 
-**阿瑠:** 嗯！下次再见，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，派蒙。
+**阿瑠:** 嗯！下次再见，旅行者空/荧，派蒙。
 
 **派蒙:** ……
 

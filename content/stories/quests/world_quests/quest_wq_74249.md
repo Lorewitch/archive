@@ -3,19 +3,19 @@
 # title_ru: За Фонтейн!
 # title_en: For Fontaine!
 # title_zh: 为了枫丹！
-# region: Фонтейн
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74249
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74249
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74249
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

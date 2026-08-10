@@ -11,11 +11,11 @@
 # chapter_num_en: Princeps Cretaceus Chapter: Act I
 # chapter_num_zh: 白垩之章 第一幕
 # part_source_ids: 11040,11041,11042,11043,11044,11045
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2017
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -3052,7 +3052,7 @@ Sure, even if you just want some company, find me anytime.
 
 **阿贝多:** 根据你完成的时间，以及达到的最快速度，我会进行分析与比较的。
 
-**派蒙:** 在湖的对岸，也就是说，想让{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}在雪山游泳？！
+**派蒙:** 在湖的对岸，也就是说，想让空/荧在雪山游泳？！
 
 **阿贝多:** 当不限制条件的时候，人就会本能地去选择自己认为最合理的方式完成目标。
 
@@ -3568,7 +3568,7 @@ Sure, even if you just want some company, find me anytime.
 
 - **旅行者:** 至少我现在还没有凋零。
 
-- **旅行者:** （不知道{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}现在怎么样了…）
+- **旅行者:** （不知道荧/空现在怎么样了…）
 
 **派蒙:** 欸？为什么突然气氛变成这样了？
 
@@ -3590,7 +3590,7 @@ Sure, even if you just want some company, find me anytime.
 
 **阿贝多:** 那…就拜托你了。
 
-**阿贝多:** 虽然一直在告诉{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}，说实验结果是「平凡」的…
+**阿贝多:** 虽然一直在告诉空/荧，说实验结果是「平凡」的…
 
 **阿贝多:** 但这不该出现在瓶底的沉淀，又是怎么一回事呢？
 

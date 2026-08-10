@@ -7,15 +7,15 @@
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 10230
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75149,75150,75166,75175,75176,75181,75189,75200,75201,75202
 # previous_quests: quest_wq_10240
 # next_quests: quest_wq_10231
 # related_quests: quest_wq_75169,quest_wq_10240,quest_wq_10231
 # quest_chain: quest_wq_75169,quest_wq_10240,quest_wq_10230,quest_wq_10231
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -34,13 +34,13 @@
 
 **Паймон:** Кхе-кхе... Как дела? У вас всё в порядке?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Голова кружится? Ты упал с такой высоты...
 
 **Паймон:** Ты не ранен?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Хм, похоже, ты в порядке. Путешественник, а ты?..
 
@@ -64,19 +64,19 @@
 
 **Паймон:** Предлагаю сначала осмотреться вокруг. Что скажете?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Поговорите со странным механизмом
 
-**Паймон:** Что такое, {REALNAME[ID(2)|SHOWHOST(true)]}? Ты что-то заметил?
+**Паймон:** Что такое, Малыш? Ты что-то заметил?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Уо-ор-р-р!
+**Малыш:** Уо-ор-р-р!
 
 **Паймон:** Хм. Это та самая статуя, которая недавно была у кукузавра. Видимо, он выронил её здесь...
 
-**Паймон:** Похоже на... тебя, {REALNAME[ID(2)|SHOWHOST(true)]}, только с большими ушами. И он свернулся в шар.
+**Паймон:** Похоже на... тебя, Малыш, только с большими ушами. И он свернулся в шар.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Не согласен? А Паймон уверена, что так и есть...
 
@@ -88,7 +88,7 @@
 
 **Эекатль:** ...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Хм, значит, это был какой-то механизм, а не статуя... Ну, он действительно похож на те механизмы источника. И этот странный свет вокруг него... Кажется, будто мы такое уже где-то видели...
 
@@ -112,7 +112,7 @@
 
 **Эекатль:** «Именно так. С тех пор это тело стали называть Эекатль...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Эекатль:** «Да, это я призвал тебя сюда. Подойди, мы отправимся к Сердцу Священной горы... пока не стало слишком поздно».
 
@@ -132,7 +132,7 @@
 
 **Эекатль:** «...Хм. Или, возможно, многие вещи, существовавшие в прошлом, были не более чем иллюзиями».
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Эекатль:** «Каждый из нас получит выгоду. Ты получишь то, за чем пришёл, а я надеюсь позаимствовать твою силу, чтобы решить парочку своих проблем...»
 
@@ -150,11 +150,11 @@
 
 #### Запустите механизм
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Ру-у...
+**Малыш:** Р-р-р... Ру-у...
 
 **Паймон:** Что с тобой? Выглядишь неважно.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-ргх!
+**Малыш:** Р-р-ргх!
 
 **Паймон:** Неужели Бездна?
 
@@ -166,7 +166,7 @@
 
 **Слуга источника:** «Возможно, они уже заполонили твой дом...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Зачем вы рассказываете эту жуткую историю?
 
@@ -174,7 +174,7 @@
 
 **Паймон:** Мудро, ничего не скажешь. Теперь придётся бегать за их ногами... Прекрасно!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Слуга источника:** «Ха-ха, не хочется тебя расстраивать, малышка, но у большинства монстров Бездны нет ног».
 
@@ -192,7 +192,7 @@
 
 **Слуга источника:** «Избранник драконов...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Слуга источника:** «Сердце Священной горы было вновь раскопано после основания Толлана... и первая статуя дракона тайного источника стоит на страже».
 
@@ -222,13 +222,13 @@
 
 **Эекатль:** «А я уже официально представлял вам его? Кажется, нет...»
 
-**Эекатль:** «Ну, ничего страшного. Добро пожаловать в первый Свящ{RUBY#[D]Страну Первозданного огня}енный город Толлан.
+**Эекатль:** «Ну, ничего страшного. Добро пожаловать в первый СвящСтрану Первозданного огняенный город Толлан.
 
 **Паймон:** Паймон... не ожидала, что вулкан будет так выглядеть изнутри...
 
 **Паймон:** Это точно вулкан? Может, мы прошли через вулкан и оказались в другом месте?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Эекатль:** «Без сомнений, мы внутри Священной горы. Но даже я не помню, когда видел это место в последний раз...»
 
@@ -238,7 +238,7 @@
 
 **Эекатль:** ...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Эекатль:** «О, прошу прощения. Я на мгновение погрузился в ненужные сентиментальные мысли...»
 
@@ -250,7 +250,7 @@
 
 **Эекатль:** «Того, кого вы называете Эекатль, давно уже нет... Для перезапуска Толлана требуется огромное количество энергии, и нельзя допускать лишнего расхода. Вы должны...»
 
-**Эекатль:** «...уничтожить печать на одном из двух Астральных{RUBY#[D]Цицимитль} собраний... и на другом... Только тогда вы сможете по-настоящему активировать Небесную ось в центре»...
+**Эекатль:** «...уничтожить печать на одном из двух АстральныхЦицимитль собраний... и на другом... Только тогда вы сможете по-настоящему активировать Небесную ось в центре»...
 
 **Эекатль:** «Эм...»
 
@@ -260,7 +260,7 @@
 
 **Эекатль:** «Эх... Ступай вперёд, Избранник драконов... О боль потери жизненной силы, даже спустя столько лет я... я не могу к этому привыкнуть...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Эекатль:** ...
 
@@ -276,7 +276,7 @@
 
 **Паймон:** Начнём поиски странных штуковин, о которых он говорил.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Продолжайте исследование
 
@@ -290,7 +290,7 @@
 
 **Слуга источника:** Оставшиеся Астральные собрания должны быть заново стабилизированы, чтобы получить силу, необходимую для повторного открытия печати...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-ру...
+**Малыш:** Р-р-ру...
 
 **Паймон:** На вид такой же, но ты не Эекатль...
 
@@ -306,7 +306,7 @@
 
 #### Следуйте к Небесной оси
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Слуга источника:** *вр-р-р... клик...*
 
@@ -326,7 +326,7 @@
 
 **Паймон:** Амару?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Слуга источника:** «При жизни он был высокомерным, несдержанным в речах, безмозглым, раздражающим... Но во время той войны он до последнего вздоха удерживал врага на пороге запечатанной Небесной оси...»
 
@@ -366,7 +366,7 @@
 
 **Паймон:** А, слуга источника... Хм. Паймон кажется, или этот больше других?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Слуга источника:** ?
 
@@ -384,7 +384,7 @@
 
 **Слуга источника:** Я прототип, созданный, чтобы помогать владыке Шиукоатлю записывать информацию, поэтому у меня нет имени.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у!
+**Малыш:** Ру-у-у!
 
 **Слуга источника:** Нет, я не безымянный. Я...
 
@@ -410,7 +410,7 @@
 
 - **Путешественник:** Давай тогда порасспрашиваем...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Сцена
 
@@ -508,7 +508,7 @@
 
 **Паймон:** Потом разберёмся. А сейчас представилась отличная возможность разделаться с Бездной!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 ### Покинутое море мудрости
 
@@ -617,7 +617,7 @@
 
 **Паймон:** Но кто были эти двое, которые разговаривали друг с другом? Странно...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р, р-р-р!
+**Малыш:** Р-р, р-р-р!
 
 **Паймон:** Но печать на Астральном собрании здесь должна уже быть сломана, да?
 
@@ -665,7 +665,7 @@
 
 **Паймон:** Он так блестит... Паймон хочет его потрогать...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Слуга источника:** «Ха-ха, лучше не надо... Он не различает, кто друг, а кто враг... Он поглощает всё, к чему прикасается».
 
@@ -677,9 +677,9 @@
 
 - **Путешественник:** Серьёзное предложение...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Слуга источника:** «Действительно. Неожиданная глубина от белой посланницы... Такая скрытая мудрость. Поразительно».
 
@@ -699,9 +699,9 @@
 
 Быстренько приведите сюда подходящего дракона!
 
-**Паймон:** И где бы найти такого дракона?.. О, а {REALNAME[ID(2)|SHOWHOST(true)]} не подойдёт?
+**Паймон:** И где бы найти такого дракона?.. О, а Малыш не подойдёт?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Слуга источника:** «У него... ещё нет такой власти».
 
@@ -715,7 +715,7 @@
 
 **Слуга источника:** «Я знал, что вы придёте, и поэтому пришёл поприветствовать вас...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Слуга источника:** «Я знаю, что это просто знак вежливости, но я действительно рад видеть тебя».
 
@@ -737,13 +737,13 @@
 
 **Слуга источника:** «Вот он, гравировочный свет, активирующий чешую. Это и есть разрешение...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Отсюда открывается вид... на весь Священный город!
 
 **Слуга источника:** «Действительно, отголоски славного и жалкого прошлого...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Вр-р-р-рор... Р-р?
+**Малыш:** Вр-р-р-рор... Р-р?
 
 **Слуга источника:** «Хочешь узнать, чем закончился суд? Хе-хе...»
 
@@ -751,7 +751,7 @@
 
 **Слуга источника:** «Тринадцать владык и три принца, говорившие беспрестанно, поспешно отказались от своих слов, и суд, который превратился в фарс, разрешился сам собой...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Слуга источника:** «Позднее... три принца были убиты в войне с людьми, десять владык погибли, когда обрушился Священный город Толлан, а один остался в Чичен Уктока...»
 
@@ -765,13 +765,13 @@
 
 **Слуга источника:** «Ступай, прикоснись к высеченному огнём свету... Заполучи разрешение отправиться к Сердцу Священной горы...»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...
+**Малыш:** ...
 
 **Паймон:** Аванью... Опять ушёл! Паймон ещё даже не привыкла к этому имени.
 
 **Паймон:** Зато у нас наконец-то есть разрешение войти в Сердце Священной горы...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-рур...
+**Малыш:** Р-р-рур...
 
 **Паймон:** Свет на этой стороне... он исчез...
 
@@ -803,13 +803,13 @@ You finally enter the volcano, only to find pitch darkness all around. Continue 
 
 **Paimon:** *cough* H—How's everyone? Still okay?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroooh...
+**Little One:** Rroooh...
 
 **Paimon:** Is your head okay? After all, you did fall from really high up...
 
 **Paimon:** You're not hurt, are you?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Hmm, you seem fine. What about you, Traveler? Are you okay?
 
@@ -833,19 +833,19 @@ You finally enter the volcano, only to find pitch darkness all around. Continue 
 
 **Paimon:** Let's just... explore the area a bit first, okay?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Talk to the strange mechanism
 
-**Paimon:** Hmm? {REALNAME[ID(2)|SHOWHOST(true)]}? What's up? Found something?
+**Paimon:** Hmm? Little One? What's up? Found something?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Whrooawr!
+**Little One:** Whrooawr!
 
 **Paimon:** Hmm. This... is the statue that Qucusaur had. So it dropped down here as well...
 
-**Paimon:** Y'know, it kinda looks like you, {REALNAME[ID(2)|SHOWHOST(true)]}, but with big ears, and rolled into a ball.
+**Paimon:** Y'know, it kinda looks like you, Little One, but with big ears, and rolled into a ball.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr!
+**Little One:** Rrrawr!
 
 **Paimon:** Really? You don't think so? Paimon sure does...
 
@@ -857,7 +857,7 @@ You finally enter the volcano, only to find pitch darkness all around. Continue 
 
 **Ehecatl:** ...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 **Paimon:** Huh, so this was some kinda mechanism, not a statue... Well, it does look like those Source Mechanisms. And that strange light floating around it... Feels like we've seen that before somewhere...
 
@@ -881,7 +881,7 @@ You finally enter the volcano, only to find pitch darkness all around. Continue 
 
 **Ehecatl:** "Yes, indeed. Since then, this body has been named Ehecatl..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Ehecatl:** "Yes, it was I who called you here. Come, let us go unto the Heart of the Sacred Mountain... before it is too late."
 
@@ -901,7 +901,7 @@ You finally enter the volcano, only to find pitch darkness all around. Continue 
 
 **Ehecatl:** "...Hmm. Or perhaps so many things that once existed were nothing more than illusions."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Ehecatl:** "We each stand to benefit, little one. You get what you came for, and I hope to borrow your power to solve a few problems of my own..."
 
@@ -919,11 +919,11 @@ You finally enter the volcano, only to find pitch darkness all around. Continue 
 
 #### Activate the mechanism
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr...Rroo...
+**Little One:** Ehrr...Rroo...
 
 **Paimon:** What's wrong? You don't look like you're doing so hot...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawrgh!
+**Little One:** Rawrgh!
 
 **Paimon:** Is that... the Abyss?
 
@@ -935,7 +935,7 @@ When you discover one Abyssal creature...
 
 **Secret Source Servant:** "Then perhaps your home is already completely infested with those stygian, viscid villains..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 **Paimon:** Ugh, why do you guys have to be so creepy about it?
 
@@ -943,7 +943,7 @@ We'll chop their legs off — that'll put a stop to any marching they might do!
 
 **Paimon:** Ooh, how very wise and insightful, now all we need to do is find their legs... Ha! As if Paimon could say that with a straight face!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Secret Source Servant:** "Haha. 'Tis a shame, little one, but I fear most Abyssal creatures may not need legs for locomotion."
 
@@ -961,7 +961,7 @@ Wait, don't you have those big fireballs...?
 
 **Secret Source Servant:** "O Chosen of Dragons..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 **Secret Source Servant:** "The Heart of the Sacred Mountain was re-excavated after Tollan was established... and the first Secret Source Dragon Idol stands guard over it."
 
@@ -991,13 +991,13 @@ Wait, don't you have those big fireballs...?
 
 **Ehecatl:** "Have I officially given you its name, by the by? I believe I have not..."
 
-**Ehecatl:** "No matter. Welcome to the first Sacred Ci{RUBY#[D]Land of Primal Flame}ty, Tollan."
+**Ehecatl:** "No matter. Welcome to the first Sacred CiLand of Primal Flamety, Tollan."
 
 **Paimon:** Whoa... Paimon was not expecting the volcano to look like this on the inside...
 
 **Paimon:** Is that really where we are? Or did we get yoinked to a different spot when we went through the volcano's mouth?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrah... Rawr!
+**Little One:** Rrah... Rawr!
 
 **Ehecatl:** "Oh, this is undoubtedly the Sacred Mountain's interior, but even I... know not how long it has been since I saw such a sight..."
 
@@ -1007,7 +1007,7 @@ Wait, don't you have those big fireballs...?
 
 **Ehecatl:** ...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Ehecatl:** "Ah, my apologies. Mere brief indulgence in unnecessary sentimentality..."
 
@@ -1019,7 +1019,7 @@ Wait, don't you have those big fireballs...?
 
 **Ehecatl:** "The one you name Ehecatl has long ceased to be amongst the living... To be brief, Tollan requires a great amount of energy to be restarted, and no waste can be permitted. You must..."
 
-**Ehecatl:** "Destroy the seal on one of the other two 'Astral As{RUBY#[D]Tzitzimimeh}semblages'... and the other... Only then can you truly activate the Celestial Axis in the center..."
+**Ehecatl:** "Destroy the seal on one of the other two 'Astral AsTzitzimimehsemblages'... and the other... Only then can you truly activate the Celestial Axis in the center..."
 
 **Ehecatl:** "Uhhh..."
 
@@ -1029,7 +1029,7 @@ You alright over there?
 
 **Ehecatl:** "*sigh* ... Onward then, Chosen of Dragons... Alas, the pain of a body losing its vitality... I am not used to it... even after all these years..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 **Ehecatl:** ...
 
@@ -1045,7 +1045,7 @@ You alright over there?
 
 **Paimon:** Oh well, let's take a look around and see if we can find those strange things he mentioned!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Keep exploring
 
@@ -1059,7 +1059,7 @@ You alright over there?
 
 **Secret Source Servant:** Remaining Astral Assemblages must be re-stabilized to gain the power needed to reopen the seal...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroo...
+**Little One:** Rroo...
 
 **Paimon:** Wait, this isn't Ehecatl. Even if they do look the same...
 
@@ -1075,7 +1075,7 @@ You alright over there?
 
 #### Go to the Celestial Axis
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooh!
+**Little One:** Rrooh!
 
 **Secret Source Servant:** *whirr-click*...
 
@@ -1095,7 +1095,7 @@ You alright over there?
 
 **Paimon:** Amaru?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Secret Source Servant:** "In life, he was arrogant, unrestrained in speech, brainless, and aggravating... But in the war, he held the threshold of the sealed Celestial Axis until his final breath..."
 
@@ -1135,7 +1135,7 @@ Read me the entries marked "Creating the Secret Source Servants..."
 
 **Paimon:** Ah! A Secret Source Servant... Huh. Is it just Paimon, or is this one bigger than the others?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Secret Source Servant:** ?
 
@@ -1153,7 +1153,7 @@ Read me the entries marked "Creating the Secret Source Servants..."
 
 **Secret Source Servant:** I am a prototype created to assist Lord Xiuhcoatl with information recording, so I have no name.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 **Secret Source Servant:** Wait... No... Not that I have no name, I...
 
@@ -1179,7 +1179,7 @@ Read me the entries marked "Creating the Secret Source Servants..."
 
 - **Traveler:** Well, let's fire away, then...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Scene
 
@@ -1277,7 +1277,7 @@ The Heart of the Sacred Mountain is infested by the Abyss. Its influence must be
 
 **Paimon:** Eh, that's a "later" question. Let's use it to send the Abyss packing, right here and now!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 ### The Forsaken Sea of Wisdom
 
@@ -1386,7 +1386,7 @@ You saw that too, Paimon?
 
 **Paimon:** But who were the two people who were speaking, then? Weird...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Graawrr...
+**Little One:** Graawrr...
 
 **Paimon:** Anyway, the seal on the Astral Assemblage here should be broken now, right?
 
@@ -1434,7 +1434,7 @@ A dragon judge... Is it just me, or is that familiar somehow?
 
 **Paimon:** It's so golden and shiny... Paimon wants to touch it!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Secret Source Servant:** "Haha, it would be best not to... It will not distinguish between 'friend' or 'foe'... It simply consumes everything it touches."
 
@@ -1446,9 +1446,9 @@ A dragon judge... Is it just me, or is that familiar somehow?
 
 - **Traveler:** A serious proposal — a rarity from our dear Paimon...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroah, Raowrr!
+**Little One:** Grroah, Raowrr!
 
 **Secret Source Servant:** "Indeed. I, too, did not expect our white herald to have such hidden depths... Such hidden wisdom. A shock, to be sure."
 
@@ -1468,9 +1468,9 @@ A dragon judge... Is it just me, or is that familiar somehow?
 
 Quickly, bring a dragon of suitable status to the stand!
 
-**Paimon:** Where are we supposed to find a dragon... Hey, wait! Does {REALNAME[ID(2)|SHOWHOST(true)]} count?
+**Paimon:** Where are we supposed to find a dragon... Hey, wait! Does Little One count?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Secret Source Servant:** "Not... at the moment, no."
 
@@ -1484,7 +1484,7 @@ Quickly, bring a dragon of suitable status to the stand!
 
 **Secret Source Servant:** "I knew you would arrive, and so I prepared a welcome of suitable pomp and circumstance..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Secret Source Servant:** "Though I know that you are only being polite, I am indeed glad to see you."
 
@@ -1506,13 +1506,13 @@ Quickly, bring a dragon of suitable status to the stand!
 
 **Secret Source Servant:** "There it is, the engraving light that can activate the scale. That is the permit..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Phew, you can see the whole Sacred City from here!
 
 **Secret Source Servant:** "Indeed, the shadow of a glorious, unhappy past..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroh... Rawrr?
+**Little One:** Wrroh... Rawrr?
 
 **Secret Source Servant:** "You wish to know the final outcome of that trial? Haha..."
 
@@ -1520,7 +1520,7 @@ Quickly, bring a dragon of suitable status to the stand!
 
 **Secret Source Servant:** "The Thirteen Lords and Three Princes, who before could not stop speaking, hastily withdrew their words, and the whole trial descended into farce, and was thus dissolved..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooo...
+**Little One:** Rrooo...
 
 **Secret Source Servant:** "Later on, the Three Princes would be slain in battle against humanity, while ten of the Thirteen Lords fell when the Sacred City of Tollan collapsed, with one remaining in Chichen Uctokah..."
 
@@ -1534,13 +1534,13 @@ Quickly, bring a dragon of suitable status to the stand!
 
 **Secret Source Servant:** "Go, touch the flame-engraved light... Win permission to reach the Sacred Mountain's heart..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...
+**Little One:** ...
 
 **Paimon:** Awanyu... Huh, gone again! Paimon was just getting used to using that name.
 
 **Paimon:** Still, the permit to enter the Heart of the Sacred Mountain is ours at last...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrroar...
+**Little One:** Rrroar...
 
 **Paimon:** The light on this side... It's gone...
 
@@ -1572,13 +1572,13 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 咳咳…怎么、怎么样？你们有没有事。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 怎么了，是头有点晕吗？毕竟从那么高的地方掉下来…
 
 **派蒙:** 没有受伤吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 唔，看来没有受伤，旅行者你呢…没出什么问题吧！
 
@@ -1602,19 +1602,19 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 还是先稍微探索下周围吧…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 与奇怪的机关对话
 
-**派蒙:** 咦，{REALNAME[ID(2)|SHOWHOST(true)]}，怎么了，你发现什么东西了吗？
+**派蒙:** 咦，小家伙，怎么了，你发现什么东西了吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呼嗯！
+**小家伙:** 呼嗯！
 
 **派蒙:** 啊，这个雕像，不就是之前被绒翼龙抓着的雕像嘛，居然也一起掉下来了…
 
-**派蒙:** 看上去就像是一个团起来的…大耳朵{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 看上去就像是一个团起来的…大耳朵小家伙。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯！
+**小家伙:** 唔嗯！
 
 **派蒙:** 是嘛，你觉得不像啊，我觉得还是挺像的呢…
 
@@ -1626,7 +1626,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **「厄卡特尔」:** ……
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀？
+**小家伙:** 呀？
 
 **派蒙:** 原来不是雕像，而是什么机关吗…仔细一看，确实和秘源机关长得有点像，它身上飘着的奇怪的光，总觉得在哪看到过…
 
@@ -1650,7 +1650,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **「厄卡特尔」:** 「没错，自那以后，就叫厄卡特尔…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **「厄卡特尔」:** 「对，是我，我是『呼唤』你到来者，来吧，到圣山之心…在一切还为时未晚之前。」
 
@@ -1670,7 +1670,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **「厄卡特尔」:** 「…又或者很多东西曾经存在，其实只不过是一种错觉。」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **「厄卡特尔」:** 「我们各取所需，小家伙，你有来的需要，而我又希望依靠你的力量解决一些问题…」
 
@@ -1688,11 +1688,11 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 #### 启动机关
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯…唔…
+**小家伙:** 嗯…唔…
 
 **派蒙:** 怎么了？看上去不是很舒服的样子。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呃呀！
+**小家伙:** 呃呀！
 
 **派蒙:** 那个难道是…深渊？
 
@@ -1704,7 +1704,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 「说不定家里已经全都是这些漆黑又黏答答的敌人了…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 唔，你们在说什么恐怖的话呢。
 
@@ -1712,7 +1712,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 真是让人豁然开朗，剩下的工作就是找到它们的腿在哪了…你以为我会这样说吗！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **秘源龙仆:** 「哈哈，真可惜，小家伙，也许大部分的深渊魔物都不靠腿移动呢。」
 
@@ -1730,7 +1730,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 「受龙所选者啊…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀？
+**小家伙:** 呀？
 
 **秘源龙仆:** 「圣山之心是图兰建立以后，才重新开掘的区域…由最初的一尊秘源龙像看守。」
 
@@ -1760,13 +1760,13 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **「厄卡特尔」:** 「我有向你们正式介绍它的名字吗？似乎没有…」
 
-**「厄卡特尔」:** 「但没关系，欢迎，欢迎来到初始圣城{RUBY#[D]源火之地}图兰。」
+**「厄卡特尔」:** 「但没关系，欢迎，欢迎来到初始圣城源火之地图兰。」
 
 **派蒙:** 哇，没想到火山里面，居然是这样的…
 
 **派蒙:** 这真的是火山里吗？不会是我们在穿过火山口的时候，被人偷偷送到了别的地方吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…呀！
+**小家伙:** 唔…呀！
 
 **「厄卡特尔」:** 「这里毫无疑问是圣山之内，不过即使是我…也不知道上一次看到如斯景象是什么时候了…」
 
@@ -1776,7 +1776,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **「厄卡特尔」:** ……
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **「厄卡特尔」:** 「哦，抱歉，只是陷入了一小会儿没有必要的感怀罢了…」
 
@@ -1788,7 +1788,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **「厄卡特尔」:** 「厄卡特尔，拥有这个名字的家伙早就不在了…长话短说，重启图兰或许会消耗掉许多力量，不能白费，你们需要…」
 
-**「厄卡特尔」:** 「其他两个『象拟{RUBY#[D]兹兹米特尔}聚星』，破坏其中一个的封印…和另一个」…「才能真正，开启中央的天轴」…
+**「厄卡特尔」:** 「其他两个『象拟兹兹米特尔聚星』，破坏其中一个的封印…和另一个」…「才能真正，开启中央的天轴」…
 
 **「厄卡特尔」:** 「呃…」
 
@@ -1798,7 +1798,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **「厄卡特尔」:** 「唉…向前吧，受龙所选者…啊，躯体失去生机的痛苦，即使许多年，我也…无法那样适应…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀？
+**小家伙:** 呀？
 
 **「厄卡特尔」:** ……
 
@@ -1814,7 +1814,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 唔，我们就先到处看看，找找他说的那些奇怪的东西吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 继续探索
 
@@ -1828,7 +1828,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 仍需重新稳定其余「象拟聚星」，以获得重新启封的力量…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **派蒙:** 看上去虽然长得一样，但不是厄卡特尔呢…
 
@@ -1844,7 +1844,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 #### 前往「天轴」处
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔！
+**小家伙:** 唔！
 
 **秘源龙仆:** 喀喀…
 
@@ -1864,7 +1864,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 阿玛鲁？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **秘源龙仆:** 「他自大，说话无遮无拦，没有脑子，惹人生厌…但是在那场战争中，他守在受封绝的天轴前鏖战至死…」
 
@@ -1904,7 +1904,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 啊，秘源龙仆…咦，这只是不是比别的要大上一圈？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **秘源龙仆:** ？
 
@@ -1922,7 +1922,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 我是被制造出来，以供修库特尔大人进行信息记录的原型机，因此没有名字。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **秘源龙仆:** 不，我并非没有名字，我是……
 
@@ -1948,7 +1948,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 - **旅行者:** 那就随便问问吧…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 场景
 
@@ -2046,7 +2046,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 不过是个好机会，就在这里把入侵的深渊一网打尽吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 ### 荒弃的智海
 
@@ -2155,7 +2155,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 真奇怪，那两个说话的人又是谁呢？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…唔…
+**小家伙:** 呀…唔…
 
 **派蒙:** 总之，这里的「象拟聚星」的封印应该就算被打破了吧！
 
@@ -2203,7 +2203,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **派蒙:** 而且，金光闪闪的…真想摸一摸…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **秘源龙仆:** 「哈哈，你最好还是打消那个念头…它可认不得你是『朋友』还是『敌人』…它只会无条件地烧却碰到的所有东西。」
 
@@ -2215,9 +2215,9 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 - **旅行者:** 好正经的提案…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 波嗯，呜呀！
+**小家伙:** 波嗯，呜呀！
 
 **秘源龙仆:** 「说得没错，没想到这位白色的使者还真是深藏不露…有着这样的智慧呢，真是让人讶异。」
 
@@ -2237,9 +2237,9 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 快，押来一条有身份的龙！
 
-**派蒙:** 哪有这样的龙啦…唔，{REALNAME[ID(2)|SHOWHOST(true)]}也是龙，不行吗？
+**派蒙:** 哪有这样的龙啦…唔，小家伙也是龙，不行吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **秘源龙仆:** 「它…现在还没有这样的权能。」
 
@@ -2253,7 +2253,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 「我就知道你们要到这里来，所以就提前来恭迎大驾了…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **秘源龙仆:** 「虽然我知道你只是出于礼貌，但我见到你确实很高兴。」
 
@@ -2275,13 +2275,13 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 「那里，能激活鳞石的镌刻之光，那就是许可…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 这里能够看到…看到整座圣城呢！
 
 **秘源龙仆:** 「是啊，真是昔日辉煌可悲的残影啊…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯…呀？
+**小家伙:** 唔嗯…呀？
 
 **秘源龙仆:** 「你想问那场审判最后的结果？呵呵…」
 
@@ -2289,7 +2289,7 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 「原本聒噪不休的十三位领主和三位亲王立刻收回了他们的话语，整场闹剧般的审判不了了之…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **秘源龙仆:** 「再然后…其中的三位亲王死于与人类的战争，众领主中的十位消亡于圣城图兰的崩塌，一位残留于奇琴乌图…」
 
@@ -2303,13 +2303,13 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 「去触碰那火鳞镌刻之光吧…去获取，通往圣山之心的许可…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ……
+**小家伙:** ……
 
 **派蒙:** 阿万尤…唔，又走了！这名字我都还没有叫上几次呢。
 
 **派蒙:** 不过，这下总算弄到了前往「圣山之心」的许可…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯…
+**小家伙:** 唔嗯…
 
 **派蒙:** 这边的光…消失了…
 

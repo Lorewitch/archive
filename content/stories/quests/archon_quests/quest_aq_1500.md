@@ -13,8 +13,8 @@
 # part_source_ids: 5000,5001,5002
 # previous_quests: quest_aq_1406
 # next_quests: quest_aq_1501,quest_wq_10203
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Between Pledge and Forgettance || V
 # version_source: wiki_release_category
 
@@ -136,7 +136,7 @@
 
 **Качина:** Но... Если вы уйдёте, я останусь совсем одна...
 
-**Семпо:** Прости нас, но у тебя впереди ещё много возможностей... Ты молода, и к тому же носишь древн{RUBY#[D]токаитль}ее имя.
+**Семпо:** Прости нас, но у тебя впереди ещё много возможностей... Ты молода, и к тому же носишь древнтокаитльее имя.
 
 **Семпо:** Мы обычные воины племени, за плечами которых долгие годы сражений и никакой славы. Не говоря уже о том, что бесконечные сражения изматывают физически... Мы давно не в лучшей форме.
 
@@ -148,7 +148,7 @@
 
 **Качина:** Хотела бы я быть сильнее. Я не иду ни в какое сравнение с другими носителями древнего имени...
 
-**Качина:** Неважно, не зря же меня называют Утха{RUBY#[D]Стойкость}бити. Уверена, я что-нибудь придумаю.
+**Качина:** Неважно, не зря же меня называют УтхаСтойкостьбити. Уверена, я что-нибудь придумаю.
 
 **Тлако:** Если в этот раз у нас всё получится, для тебя найдётся место на праздничном пиру.
 
@@ -170,7 +170,7 @@
 
 **Паймон:** Да, мы только что прибыли в Натлан.
 
-**Качина:** Приветствую! Меня зовут Качина Утха{RUBY#[D]Стойкость}бити.
+**Качина:** Приветствую! Меня зовут Качина УтхаСтойкостьбити.
 
 Утхабити?..
 
@@ -470,9 +470,9 @@
 
 #### Продолжайте исследовать территорию Детей Эха
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** Ого, {REALNAME[ID(2)|HOSTONLY(true)]}, и ты здесь!
+**Паймон:** Ого, Малыш, и ты здесь!
 
 **Качина:** Не может быть! У вас тоже есть завриан-спутник! Какой милаш! Думаю, ваш друг отлично поладит с Айо!
 
@@ -1676,7 +1676,7 @@
 
 **Муалани:** Слава всегда сопряжена с риском. Если бы победа была гарантирована, никто не стал бы ею гордиться.
 
-**Муалани:** Она не из тех, кто так просто сдаётся. Она ведь носит древнее имя - Утха{RUBY#[D]Стойкость}бити. Нам остаётся только заниматься своими делами...
+**Муалани:** Она не из тех, кто так просто сдаётся. Она ведь носит древнее имя - УтхаСтойкостьбити. Нам остаётся только заниматься своими делами...
 
 **Муалани:** Если подумать, вы ведь ни разу не были в моём племени. Хотите, я отведу вас туда?
 
@@ -2534,7 +2534,7 @@ We haven't met anyone from Natlan either.
 
 **Kachina:** B—But if you two leave, I'll be the only one left...
 
-**Cempoa:** We really are sorry, but you still have plenty of chances... You're young, and you bear an Ancient{RUBY#[D]tocaitl} Name on top of that.
+**Cempoa:** We really are sorry, but you still have plenty of chances... You're young, and you bear an Ancienttocaitl Name on top of that.
 
 **Cempoa:** We're just ordinary tribal warriors with years of battle under our belt, and no glory to show for it. Not to mention the physical toll of all that fighting... We're no longer in our prime.
 
@@ -2546,7 +2546,7 @@ We haven't met anyone from Natlan either.
 
 **Kachina:** I just wish I was stronger. I'm nothing compared to the other Ancient Name bearers...
 
-**Kachina:** But never mind — guess this is par for the course as Utha{RUBY#[D]Resilience}biti, huh? I'm sure I'll figure something out.
+**Kachina:** But never mind — guess this is par for the course as UthaResiliencebiti, huh? I'm sure I'll figure something out.
 
 **Tlaco:** Well, if we do well this time, there's still a spot for you at the Victory Feast.
 
@@ -2568,7 +2568,7 @@ Let's go check on her.
 
 **Paimon:** Yup! We just got to Natlan.
 
-**Kachina:** Oh! Welcome, welcome! I'm Kachina. "Utha{RUBY#[D]Resilience}biti" Kachina.
+**Kachina:** Oh! Welcome, welcome! I'm Kachina. "UthaResiliencebiti" Kachina.
 
 "Uthabiti"...?
 
@@ -2868,9 +2868,9 @@ Will the Pyro Archon be there?
 
 #### Continue exploring the Children of Echoes' territory
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrooh!
+**Little One:** Wrooh!
 
-**Paimon:** Oh, hehe! You're here too, {REALNAME[ID(2)|HOSTONLY(true)]}!
+**Paimon:** Oh, hehe! You're here too, Little One!
 
 **Kachina:** No way! You have a Saurian companion too! Aww, what a sweet little thing! I think your friend here will get along with Ayo just fine!
 
@@ -4074,7 +4074,7 @@ How unfortunate...
 
 **Mualani:** Glory always comes with a risk. If victory was assured, no one would take pride in it.
 
-**Mualani:** She's not one to fall so easily. She bears the Ancient Name, "Utha{RUBY#[D]Resilience}biti," after all. We just need to hold the fort while they're gone...
+**Mualani:** She's not one to fall so easily. She bears the Ancient Name, "UthaResiliencebiti," after all. We just need to hold the fort while they're gone...
 
 **Mualani:** Come to think of it, you've never visited my tribe, have you? Come on, I'll take you.
 
@@ -4944,7 +4944,7 @@ What is it?
 
 **卡齐娜:** 如果我更强一点就好了，和其他「古名」的继承者相比，我太弱了。
 
-**卡齐娜:** 没关系啦，谁让我的「古名」是「乌沙{RUBY#[D]坚强}博蒂」呢？我会自己想办法的。
+**卡齐娜:** 没关系啦，谁让我的「古名」是「乌沙坚强博蒂」呢？我会自己想办法的。
 
 **特拉科:** 要是我们这次真的拿了成绩，庆功宴一定不会忘了你。
 
@@ -4966,7 +4966,7 @@ What is it?
 
 **派蒙:** 是的，我们刚来纳塔。
 
-**卡齐娜:** 你们好，你们好，我是卡齐娜，「乌沙{RUBY#[D]坚强}博蒂」的卡齐娜。
+**卡齐娜:** 你们好，你们好，我是卡齐娜，「乌沙坚强博蒂」的卡齐娜。
 
 「乌沙博蒂」…？
 
@@ -5266,9 +5266,9 @@ What is it?
 
 #### 继续探索「回声之子」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜！
+**小家伙:** 呜呜！
 
-**派蒙:** 哇啊，嘿嘿，{REALNAME[ID(2)|HOSTONLY(true)]}你也来啦。
+**派蒙:** 哇啊，嘿嘿，小家伙你也来啦。
 
 **卡齐娜:** 欸，你们居然也有龙伙伴？！看上去也是个很乖巧的孩子呢，它们一定能变成好朋友！
 
@@ -6472,7 +6472,7 @@ What is it?
 
 **玛拉妮:** 荣耀总是与风险相伴，如果胜利是一种必然，也就不会有人为它感到骄傲了吧。
 
-**玛拉妮:** 我相信她不会轻易倒下，她的古名可是「乌沙{RUBY#[D]坚强}博蒂」。所以我们也要做好我们的事情…
+**玛拉妮:** 我相信她不会轻易倒下，她的古名可是「乌沙坚强博蒂」。所以我们也要做好我们的事情…
 
 **玛拉妮:** 你们还没有去过「流泉之众」吧？走，我带你们去。
 

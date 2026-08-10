@@ -13,8 +13,8 @@
 # part_source_ids: 3007,3008,3009,3010,3011,3012,3014
 # previous_quests: quest_aq_1301
 # next_quests: quest_aq_1306
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: III
 # version_source: wiki_release_category
 
@@ -6555,7 +6555,7 @@ You are Lesser Lord Kusanali.
 
 **派蒙:** 欸！你刚才说什么味道！？
 
-**派蒙:** 唔…就让{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}帮我选吧，我想吃日落果味的！
+**派蒙:** 唔…就让空/荧帮我选吧，我想吃日落果味的！
 
 **毗伽尔:** 没问题，这五个糖果盒子，从左到右是一号到五号，你选几号呢？
 
@@ -6563,7 +6563,7 @@ You are Lesser Lord Kusanali.
 
 **毗伽尔:** 哦？可真是毫不犹豫呢，这么自信满满。好吧，恭喜你，四号就是日落果味的。
 
-**派蒙:** 哈哈，可不是我吹牛，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的运气一直都很厉害！
+**派蒙:** 哈哈，可不是我吹牛，空/荧的运气一直都很厉害！
 
 - **旅行者:** 一号是蜥蜴尾巴口味。
 
@@ -6577,7 +6577,7 @@ You are Lesser Lord Kusanali.
 
 **毗伽尔:** 啊…等等，你怎么知道的？难道这五个盒子对应的口味你全都知道？
 
-**派蒙:** 什么？{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}全都说对了吗？
+**派蒙:** 什么？空/荧全都说对了吗？
 
 **毗伽尔:** 这肯定不能用运气来解释了吧，这、这怎么可能？盒子都是我早上装好的，一直没打开过，你不可能提前知道。
 
@@ -7897,7 +7897,7 @@ You are Lesser Lord Kusanali.
 
 我…约定了什么？
 
-**纳西妲:** 派蒙，你冷静一点，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}现在就在这里嘛。而且还一副听不懂的样子。
+**纳西妲:** 派蒙，你冷静一点，空/荧现在就在这里嘛。而且还一副听不懂的样子。
 
 **派蒙:** 呜呜…我不管，我昨天一直想要出去找你，但是你之前又不让我出城…我就又纠结又着急又害怕一直到晚上！
 
@@ -7915,7 +7915,7 @@ You are Lesser Lord Kusanali.
 
 **纳西妲:** 原来如此，利用两个人不同的视角吗…
 
-**派蒙:** 后来，旅行者到了城外，明明我的视线一直追着{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的，可{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的身影却在某一个瞬间消失了…
+**派蒙:** 后来，旅行者到了城外，明明我的视线一直追着空/荧的，可空/荧的身影却在某一个瞬间消失了…
 
 没有看错吗，会不会走神了之类的？
 
@@ -8005,7 +8005,7 @@ You are Lesser Lord Kusanali.
 
 **派蒙:** 须弥人只是以为自己不会做梦，而真相是虚空在他们不知情的情况下偷走了那些梦？
 
-**派蒙:** 那些「无人的空间」都是被夺走、失去了主人的梦吗？怪不得听{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的描述里，那些空间里的景象那么奇异…
+**派蒙:** 那些「无人的空间」都是被夺走、失去了主人的梦吗？怪不得听空/荧的描述里，那些空间里的景象那么奇异…
 
 **派蒙:** 所以说须弥人其实是会做梦的，而且现在我们大家都在梦里…
 

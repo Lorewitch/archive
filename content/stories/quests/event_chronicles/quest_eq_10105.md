@@ -12,7 +12,7 @@
 # chapter_num_zh: 智巧灵蕈大竞逐 第六幕
 # part_source_ids: 40086
 # previous_quests: quest_eq_10104
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10100,quest_eq_10101,quest_eq_10102,quest_eq_10103,quest_eq_10104
 # quest_chain: quest_eq_10100,quest_eq_10101,quest_eq_10102,quest_eq_10103,quest_eq_10104,quest_eq_10105
 # quest_series: Fabulous Fungus Frenzy

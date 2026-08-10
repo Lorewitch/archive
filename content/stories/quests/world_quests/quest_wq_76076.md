@@ -3,19 +3,19 @@
 # title_ru: Клятва Светоносцев
 # title_en: Lightkeepers' Oath
 # title_zh: 执灯人誓言
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76076
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76076
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76076
-# quest_series: 
+# quest_series:
 # version_source: verified_override
 
 ## RU

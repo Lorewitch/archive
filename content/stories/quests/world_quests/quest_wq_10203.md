@@ -7,14 +7,14 @@
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 10203
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75000,75002,75019
 # previous_quests: quest_aq_1500
 # next_quests: quest_wq_75008
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Between Pledge and Forgettance
 # version_source: wiki_release_category
 
@@ -26,9 +26,9 @@
 
 #### Сцена
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** Гм... {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)} тоже неплохое имя. К тому же его Паймон придумала! Хи-хи!
+**Паймон:** Гм... [выбранное имя] тоже неплохое имя. К тому же его Паймон придумала! Хи-хи!
 
 #### Сцена
 
@@ -86,7 +86,7 @@
 
 #### Победите гончих Разрыва
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! М... Р-р!
+**Малыш:** Р-р! М... Р-р!
 
 #### Поговорите с гигантским зверем
 
@@ -96,7 +96,7 @@
 
 #### Разбейте камни и спасите детёныша
 
-**Паймон:** Тогда дадим малышу имя {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}?
+**Паймон:** Тогда дадим малышу имя [выбранное имя]?
 
 #### Сцена
 
@@ -134,21 +134,21 @@
 
 **Паймон:** Ха-ха, Путешественник, он такой послушный!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 Вот так.
 
 **Паймон:** Ну что, малыш? Тебе получше?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Ну вот, кажется, ему лучше. Фух... Но слушай, как ты оказался в ловушке? И откуда взялись гончие Разрыва...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Мм?
+**Малыш:** Мм?
 
 **Паймон:** Выходит, ты сам не знаешь. А даже если знаешь, мы всё равно тебя не поймём... Но теперь мы тебя спасли, можешь идти домой.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Мм?
+**Малыш:** Мм?
 
 **Паймон:** Ох. Ты что, не знаешь, где твой дом?
 
@@ -156,7 +156,7 @@
 
 **Паймон:** Что нам делать, Путешественник? Не можем ведь мы бросить его здесь?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Можно пока что взять его с собой...
 
@@ -168,11 +168,11 @@
 
 **Паймон:** Знаешь, Натлан называют страной драконов. А вдруг наш малыш... тоже дракон?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Он немного похож на вишапа. Ну, у него две лапы и хвост.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р-р?
+**Малыш:** Р-р-р-р?
 
 Я не против взять его с собой...
 
@@ -180,17 +180,17 @@
 
 **Паймон:** Да, ты прав(а)! Малыш, ты согласен путешествовать вместе с нами?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...
+**Малыш:** ...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ха-ха! Кажется, согласен! Да, Паймон зовут Паймон. А это Путешественник!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р? Р-р-р...
+**Малыш:** Р-р? Р-р-р...
 
 **Паймон:** Да, тебе ведь тоже нужно имя... Надо подумать. У тебя чёрно-жёлтый окрас... Может, назовём тебя Оладушком?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р...
+**Малыш:** Р-р-р... Р-р-р...
 
 - **Путешественник:** Наверное, такое имя поймут только в «Хорошем охотнике»...
 
@@ -198,7 +198,7 @@
 
 **Паймон:** Ты хочешь сказать, больше никому и нигде оно не понравится?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Хочешь, чтобы Путешественник придумал(а) тебе имя? Но Паймон не уверена, что (она)(он) придумает что-нибудь путное...
 
@@ -212,11 +212,11 @@
 
 #### Поговорите с заврианом-спутником
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}. Теперь тебя зовут {REALNAME[ID(2)|SHOWHOST(true)]}, малыш.
+**Паймон:** Малыш. Теперь тебя зовут Малыш, малыш.
 
-{REALNAME[ID(2)|SHOWHOST(true)]}...
+Малыш...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...Р-р-р!
+**Малыш:** ...Р-р-р!
 
 **Паймон:** Кажется, ему нравится! Паймон надеется, что в Натлане нам удастся разгадать твою тайну. И заодно выяснить, почему Путешественник вдруг (очутилась)(очутился) в теле дракона!
 
@@ -234,19 +234,19 @@
 
 **Паймон:** Стоило нам оказаться в Натлане, а уже столько всего случилось... Ну ладно, и как нам теперь отсюда выбраться?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Мм? Ты знаешь, где выход?
 
 #### Следуйте за заврианом-спутником
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Отличное имя! В нём чувствуется сила!
 
 #### Сцена
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Кажется, непросто ему будет с таким именем... Путешественник, давай не будем его так называть!
 
@@ -258,7 +258,7 @@
 
 **Манку:** Как и ожидалось, испытание Мудреца украденного пламени уже началось.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 - **Путешественник:** Нужно разрушить барьер?..
 
@@ -276,7 +276,7 @@
 
 **Манку:** Возможно, именно из-за этого... он оставил здесь дар. Если верить древним свиткам, «у людей есть своё место, у заврианов тоже есть своё место».
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Паймон не понимает!
 
@@ -288,13 +288,13 @@
 
 **Паймон:** Хоть Паймон и не совсем понимает, о какой невидимой связи речь, но мы не подведём!
 
-**Паймон:** Верно, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Паймон:** Верно, Малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 Р-р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ?
+**Малыш:** ?
 
 **Манку:** Да, правильный настрой. А теперь, пожалуйста, попробуйте открыть барьер, преграждающий вход.
 
@@ -308,15 +308,15 @@
 
 **Паймон:** Ого! Даже дна не видно... Мы друзья, так что, конечно, пойдём вместе!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}, смотри, мы почти закончили!
+**Паймон:** Малыш, смотри, мы почти закончили!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Ты тоже видел что-то странное?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Не бойся...
 
@@ -324,9 +324,9 @@
 
 **Паймон:** Паймон не знает, что случилось, но Путешественник прав(а). Мы всегда будем рядом!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!.. Р-р!
+**Малыш:** Р-р-р!.. Р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** О, похоже, он наконец-то оживился! Ладно, похоже, мы можем продолжить спускаться... Это место кажется опасным...
 
@@ -334,13 +334,13 @@
 
 И тогда ты сможешь войти в последний рай.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 Похоже, внизу действительно опасно.
 
 **Паймон:** Значит, золотые узоры тоже говорят вам об этом?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Хорошо. Путешественник, давай передохнём. А потом, когда ты будешь (готова)(готов), пойдём дальше!
 
@@ -348,71 +348,71 @@
 
 **Паймон:** Ого... Похоже, это настоящий вход в руины. И тот же странный барьер, что и в первом тоннеле.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р!
+**Малыш:** Р-р... Р-р-р!
 
-**Паймон:** Хм, да, это похоже на вход в руины, Путешественник проходит под жёлтым устройством слева, а {REALNAME[ID(2)|SHOWHOST(true)]} проходит под зелёным устройством справа...
+**Паймон:** Хм, да, это похоже на вход в руины, Путешественник проходит под жёлтым устройством слева, а Малыш проходит под зелёным устройством справа...
 
 **Паймон:** Вот только на этот раз высоковато взбираться...
 
 И маршрут тоже другой...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** Всё в порядке, {REALNAME[ID(2)|SHOWHOST(true)]}. Даже если мы немного разделимся, всё равно сможем видеть друг друга!
+**Паймон:** Всё в порядке, Малыш. Даже если мы немного разделимся, всё равно сможем видеть друг друга!
 
 **Паймон:** Если будет страшно, помаши лапами и рычи как можно громче!
 
 **Паймон:** А мы помашем тебе. Не бойся, ладно?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Рарр, рарр... Р-р-р!
+**Малыш:** Рарр, рарр... Р-р-р!
 
 Р-р-р!
 
-**Паймон:** Не дразнись! Вдруг ты скажешь что-то такое, из-за чего {REALNAME[ID(2)|SHOWHOST(true)]} неправильно тебя поймёт?
+**Паймон:** Не дразнись! Вдруг ты скажешь что-то такое, из-за чего Малыш неправильно тебя поймёт?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р, р-р-р!
+**Малыш:** Р-р, р-р-р!
 
 **Паймон:** У тебя вдруг улучшилось настроение.
 
 **Паймон:** Паймон не совсем понимает тебя. Когда ты счастлив, а когда боишься?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Похоже, ты в хорошем настроении. Давай попробуем снять барьер.
 
-{REALNAME[ID(2)|SHOWHOST(true)]}, попробуй подойти.
+Малыш, попробуй подойти.
 
 **Паймон:** И как только барьер снимется, мы встретимся перед вратами!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-#### Встретьтесь со своим другом {REALNAME[ID(2)|SHOWHOST(true)]}
+#### Встретьтесь со своим другом Малыш
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** О, {REALNAME[ID(2)|SHOWHOST(true)]}, у тебя получилось! Отлично!
+**Паймон:** О, Малыш, у тебя получилось! Отлично!
 
-**Паймон:** Не знаю почему, но {REALNAME[ID(2)|SHOWHOST(true)]} становится всё более надёжен. Паймон очень рада.
+**Паймон:** Не знаю почему, но Малыш становится всё более надёжен. Паймон очень рада.
 
 ...Даже надёжнее Паймон!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Нет, нет! Не соглашайся с ним / ней! Эх вы, Паймон немного похвалила вас, и вот что она получила в ответ...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...Р-р?
+**Малыш:** ...Р-р?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...У-ру, р-р? Вр-р?
+**Малыш:** ...У-ру, р-р? Вр-р?
 
 **Паймон:** Ты про Паймон? Паймон не сердится и не плачет!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** У-ру, р-р-р? Р-р?
+**Малыш:** У-ру, р-р-р? Р-р?
 
 **Паймон:** Ладно, ладно! И Паймон порычит! Р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 - **Путешественник:** Мне кажется, я его понимаю...
 
@@ -430,19 +430,19 @@
 
 Тогда продолжим двигаться вперёд!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Исследуйте руины
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-ра... Вав!
+**Малыш:** Р-р-ра... Вав!
 
-**Паймон:** Впервые Паймон слышит, чтобы {REALNAME[ID(2)|SHOWHOST(true)]} издавал такой звук.
+**Паймон:** Впервые Паймон слышит, чтобы Малыш издавал такой звук.
 
 **Паймон:** Но он прав, это огромный рисунок! Хм, пусть Паймон посмотрит... Два человека, каждый держит в руках что-то круглое...
 
 **Паймон:** Подождите, а почему у одного из них странная голова?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 Это... дракон?
 
@@ -456,7 +456,7 @@
 
 - **Путешественник:** О первом Пиро Архонте и Мудреце украденного пламени...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Так вот почему история показалась Паймон знакомой...
 
@@ -474,9 +474,9 @@
 
 **Паймон:** Хм... Значит, в те времена его выбирал не великий тепетлизавр... а этот Мудрец?
 
-Возможно, {REALNAME[ID(2)|SHOWHOST(true)]} сделал выбор.
+Возможно, Малыш сделал выбор.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, это вполне могло случиться. Очень странно...
 
@@ -484,7 +484,7 @@
 
 Пройдите по коридорам слева и справа от вас. Путь будет разворачиваться перед вашими глазами...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** В чём дело?
 
@@ -492,9 +492,9 @@
 
 **Паймон:** Нам нужно пройти через эти две двери? Но у каждой из них есть свой барьер и механизм... Может, человек должен пройти через одну, а дракон - через другую?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** На этот раз Паймон даже не видит... {REALNAME[ID(2)|SHOWHOST(true)]}, ты думаешь, это слишком сложно? Если да, то мы можем отступить.
+**Паймон:** На этот раз Паймон даже не видит... Малыш, ты думаешь, это слишком сложно? Если да, то мы можем отступить.
 
 **Паймон:** Если это слишком сложно, мы можем подождать, пока ты не будешь готов, и потом попробовать ещё раз. Эти руины никуда не денутся.
 
@@ -502,25 +502,25 @@
 
 - **Путешественник:** Если хочешь отступить, так и скажи.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Мра-а-а... Вр-р... В-р-ра...
+**Малыш:** Мра-а-а... Вр-р... В-р-ра...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р!
+**Малыш:** Р-р! Р-р!
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}... Ты отважный.
+**Паймон:** Малыш... Ты отважный.
 
 **Паймон:** Но если встретишь опасность, беги оттуда. Нет ничего важнее твоей жизни, даже сокровища.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 - **Путешественник:** Я верю в тебя.
 
 - **Путешественник:** Верь в себя!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Не говори ничего такого, что он не понимает.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Исследуйте рисунок
 
@@ -528,9 +528,9 @@
 
 **Паймон:** Большой чёрный дракон, дерево и странный человек?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Вр-р-р-рор... Р-р!
+**Малыш:** Вр-р-р-рор... Р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 (Избранница)(Избранник) драконов... иди вперёд... Протяни руку...
 
@@ -556,9 +556,9 @@
 Вы видите, как огромный дракон с пронзёнными глазами и крошечный человек падают вместе с огромной высоты, а мир вторит им печальной песней, состоящей из агонии драконьего рода.
 Вы видите человека, вновь восставшего из сердца мёртвого дракона, всё его тело словно объято пламенем.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-рор... У-у-у...
+**Малыш:** Р-р-рор... У-у-у...
 
 **Паймон:** Путешественник, ты в порядке? Ты совсем не двигался / двигалась...
 
@@ -566,9 +566,9 @@
 
 **Паймон:** Да? А Паймон ничего не заметила. Мы смотрим на один и тот же рисунок... Неужели, Путешественник, ты более восприимчив(а), чем Паймон?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** Ой, судя по голосу, это {REALNAME[ID(2)|SHOWHOST(true)]}! Кажется, доносится оттуда. Неужели что-то случилось?
+**Паймон:** Ой, судя по голосу, это Малыш! Кажется, доносится оттуда. Неужели что-то случилось?
 
 **Паймон:** Пойдём скорее посмотрим!
 
@@ -586,7 +586,7 @@
 
 (Избранница)(Избранник) драконов, встречай врага. Докажи, что ты достоин / достойна ступить на священную гору.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ой-ой-ой, что происходит? Вдруг так похолодало...
 
@@ -594,67 +594,67 @@
 
 #### Завершите испытание
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** Ого! {REALNAME[ID(2)|SHOWHOST(true)]} теперь сильнее! Неужели пробудились... силы Повелителя огня?
+**Паймон:** Ого! Малыш теперь сильнее! Неужели пробудились... силы Повелителя огня?
 
 Выглядит впечатляюще.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-рау...
+**Малыш:** Р-рау...
 
 Ты в порядке?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Он круто сражался. И сильно помог...
 
 Это правда, отлично справился.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р-р...
+**Малыш:** Р-р... Р-р-р-р...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
-**Паймон:** Хм, похоже, {REALNAME[ID(2)|SHOWHOST(true)]} не может так просто управлять этой силой.
+**Паймон:** Хм, похоже, Малыш не может так просто управлять этой силой.
 
 **Паймон:** Правда, Манку говорил, что лучше не использовать такую силу слишком часто.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** Эх... Так где же тот странный парень спрятал дар? Сейчас Паймон хочется, чтобы {REALNAME[ID(2)|SHOWHOST(true)]} поскорее смог выйти отсюда.
+**Паймон:** Эх... Так где же тот странный парень спрятал дар? Сейчас Паймон хочется, чтобы Малыш поскорее смог выйти отсюда.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]} теперь такой крутой... Прямо как в последние дни Очканатлана...
+**Паймон:** Малыш теперь такой крутой... Прямо как в последние дни Очканатлана...
 
 Выглядит впечатляюще.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-рау...
+**Малыш:** Р-рау...
 
 Ты в порядке?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Он круто сражался. И сильно помог...
 
 Это правда, отлично справился.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р-р...
+**Малыш:** Р-р... Р-р-р-р...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Хм?
+**Малыш:** Хм?
 
-**Паймон:** Хм, похоже, {REALNAME[ID(2)|SHOWHOST(true)]} не может так просто управлять этой силой.
+**Паймон:** Хм, похоже, Малыш не может так просто управлять этой силой.
 
 **Паймон:** Правда, Манку говорил, что лучше не использовать такую силу слишком часто.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** Эх... Так где же тот странный парень спрятал дар? Сейчас Паймон хочется, чтобы {REALNAME[ID(2)|SHOWHOST(true)]} поскорее смог выйти отсюда.
+**Паймон:** Эх... Так где же тот странный парень спрятал дар? Сейчас Паймон хочется, чтобы Малыш поскорее смог выйти отсюда.
 
 #### Получите дар
 
 **Паймон:** Ого, эта табличка засветилась!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 (Прикоснуться к каменной табличке...)
 
@@ -678,7 +678,7 @@
 
 **Паймон:** Но смотри, на земле появилась круглая пластина с золотым узором. Наверное, это и есть дар, который мы ищем.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 Золотая печать... выгравирована на белом диске...
 
@@ -694,11 +694,11 @@
 
 **Паймон:** В общем, мы получили дар! Возьмём его с собой и покажем Манку!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ого, эта табличка засветилась!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 (Прикоснуться к каменной табличке...)
 
@@ -721,7 +721,7 @@
 
 **Паймон:** Но посмотрите! Дар, который мы ищем, лежит на земле. Он точно такой же, как тот, что мы нашли раньше.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 Золотая печать... выгравирована на белом диске...
 
@@ -733,11 +733,11 @@
 
 **Паймон:** Ну, вы, наверное, устали! В конце концов, мы сегодня много сделали. Давайте отдохнём после возвращения!
 
-**Паймон:** Отлично, у нас есть два дара... Теперь мы можем отправиться к вулкану, чтобы {REALNAME[ID(2)|SHOWHOST(true)]} смог полечиться.
+**Паймон:** Отлично, у нас есть два дара... Теперь мы можем отправиться к вулкану, чтобы Малыш смог полечиться.
 
 **Паймон:** Отлично, возьмём дары и покажем Манку!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 ### Ритуал храбреца
 
@@ -765,15 +765,15 @@
 
 **Паймон:** Эй ты, из Ассоциации реликвий заврианов!
 
-**Манку:** Это Путешественник... Паймон и {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Манку:** Это Путешественник... Паймон и Малыш.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Пакаль:** О-о-о, малыш-тепетлизавр с красным шарфом на хвосте! Энергичный малый. Похоже, что-то с ним не так. Ну же, ещё разок!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Пакаль:** Отлично! Значит, ты {REALNAME[ID(2)|SHOWHOST(true)]}, а вы двое - храбрецы, которых выбрал завриан {REALNAME[ID(2)|SHOWHOST(true)]}...
+**Пакаль:** Отлично! Значит, ты Малыш, а вы двое - храбрецы, которых выбрал завриан Малыш...
 
 **Пакаль:** Путешественник и Паймон, ваши имена на слуху... О вас не только твердит Манку, но и Титу то и дело вспоминает после своего возвращения.
 
@@ -803,9 +803,9 @@
 
 **Пакаль:** Если хотите отвести своего завриана-спутника к вулкану, чтобы он прошёл сквозь пламя и снял с себя благословение Повелителя огня, вы должны получить разрешение у вождя племени этого завриана...
 
-**Манку:** {REALNAME[ID(2)|SHOWHOST(true)]} - тепетлизавр, поэтому вам никак не обойтись без согласия вождя Детей Эха.
+**Манку:** Малыш - тепетлизавр, поэтому вам никак не обойтись без согласия вождя Детей Эха.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Значит, нам нужно обратиться к тебе?
 
@@ -821,15 +821,15 @@
 
 **Пакаль:** Мы, конечно, не соплеменники, но мне бы не хотелось, чтобы вы погибли напрасно.
 
-**Пакаль:** Поэтому, Путешественник, будет лучше, если {REALNAME[ID(2)|SHOWHOST(true)]} останется у Детей Эха.
+**Пакаль:** Поэтому, Путешественник, будет лучше, если Малыш останется у Детей Эха.
 
 **Пакаль:** По крайней мере, я обещаю заботиться о нём, пока он не попадёт в Царство Ночи.
 
 **Паймон:** Но, но, если так...
 
-**Манку:** То, как я уже говорил, {REALNAME[ID(2)|SHOWHOST(true)]} не вырастет.
+**Манку:** То, как я уже говорил, Малыш не вырастет.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Не похоже, чтобы он этого хотел...
 
@@ -841,13 +841,13 @@
 
 **Пакаль:** Что скажешь, малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Пакаль:** Ха-ха-ха, вот и ладно. Какой невозмутимый взгляд, полный решимости. Чувствуется внутренний огонь. Да вы словно из флогистона выкованы, ребята!
 
 **Пакаль:** Ладно, так и быть. Подтверждаю, что вы обладаете нужной квалификацией для Паломничества к вулкану!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ух ты, раз такое дело, то мы можем отправляться на поиски первого дара?
 
@@ -865,7 +865,7 @@
 
 **Пакаль:** Все эти формальности, которые якобы нужны для укрепления взаимопонимания между заврианом и человеком, для усиления их мощи, уже оскомину набили.
 
-**Пакаль:** Более того, как по мне, так Путешественник и {REALNAME[ID(2)|SHOWHOST(true)]} не должны ничего такого доказывать.
+**Пакаль:** Более того, как по мне, так Путешественник и Малыш не должны ничего такого доказывать.
 
 **Пакаль:** Предлагаю упростить задачу... Путешественник, в Натлане, когда дело принимает такой оборот, есть более удобное и быстрое решение...
 
@@ -873,7 +873,7 @@
 
 Согласен / Согласна.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Сразимся здесь... прямо на сцене?..
 
@@ -899,7 +899,7 @@
 
 **Паймон:** Победа, ура! Невероятно!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Пакаль:** Хе... Боюсь, даже сильнейшему воину племени тебя не одолеть... Я признаю своё поражение.
 
@@ -923,11 +923,11 @@
 
 **Пакаль:** Прошу, избавь меня от столь жалких комплиментов. Если бы я был хоть немного моложе... всё могло бы сложиться иначе. Было бы здорово сразиться с тобой, когда я был молод.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Пакаль:** Ха-ха, {REALNAME[ID(2)|SHOWHOST(true)]}, видно, ты в хороших руках...
+**Пакаль:** Ха-ха, Малыш, видно, ты в хороших руках...
 
-**Паймон:** Так и есть. {REALNAME[ID(2)|SHOWHOST(true)]} - наш лучший друг!
+**Паймон:** Так и есть. Малыш - наш лучший друг!
 
 **Пакаль:** Рад это слышать.
 
@@ -959,17 +959,17 @@
 
 **Пакаль:** Благословение воина и его спутника, отправляющихся в путь.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** Эм, что, правда есть такая церемония?
 
 **Пакаль:** На самом деле это просто слова напутствия.
 
-**Пакаль:** Ну что ж, Путешественник и {REALNAME[ID(2)|SHOWHOST(true)]}...
+**Пакаль:** Ну что ж, Путешественник и Малыш...
 
 Я здесь, вождь.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Пакаль:** Желаю преодолеть все горные вершины, подобно птице с самыми мощными крыльями.
 Желаю устоять перед натиском волн, подобно самому твёрдому камню.
@@ -981,7 +981,7 @@
 
 Обещаю.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** А как же Паймон? Для Паймон не найдётся благословения?
 
@@ -999,7 +999,7 @@
 
 **Паймон:** Хорошо, до встречи, Пакаль... и Учу.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Учу:** Р-р-р...
 
@@ -1013,9 +1013,9 @@ After having just arrived in Natlan, you are teleported to a strange space...
 
 #### Scene
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Paimon:** Hmm, {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)} isn't a bad name either... and it's a name Paimon came up with too, right?
+**Paimon:** Hmm, [chosen name] isn't a bad name either... and it's a name Paimon came up with too, right?
 
 #### Scene
 
@@ -1073,7 +1073,7 @@ Is that your desire, or...?
 
 #### Defeat the Rifthounds
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Ehrr... Rawr!
+**Little One:** Rawr! Ehrr... Rawr!
 
 #### Speak to the giant beast
 
@@ -1083,7 +1083,7 @@ Let's go with that!
 
 #### Shatter the rock and rescue the whelp
 
-**Paimon:** Then let's call this little fella {TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}, shall we?
+**Paimon:** Then let's call this little fella [chosen name], shall we?
 
 #### Scene
 
@@ -1121,21 +1121,21 @@ We'll use it. Thank you kindly, Paimon.
 
 **Paimon:** Hehe. Our little guy sure is well behaved, eh, Traveler?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 That should do the trick.
 
 **Paimon:** Alright. Feel better now?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 **Paimon:** Hehe, looks way better now. That's a relief... Still, how did you end up in that barrier? And those Rifthounds...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Errr?
+**Little One:** Errr?
 
 **Paimon:** So you don't know either, huh. Now, we don't really get what you're saying... But now that we've rescued you, you can go home.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrrr?
+**Little One:** Ehrrr?
 
 **Paimon:** Wait, do you not know where your home is?
 
@@ -1143,7 +1143,7 @@ That should do the trick.
 
 **Paimon:** What do we do, Traveler? We can't just leave it here all by itself, right?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroh...
+**Little One:** Wrroh...
 
 It might be better if you stay with us for a while...
 
@@ -1155,11 +1155,11 @@ Ah. "Chosen of... Dragons..." Could that mean...?
 
 **Paimon:** Now that Paimon thinks about it, Natlan is the "nation of dragons"... So, does that mean that... wait, they call little guys like this 'Saurians' around here, right?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawoo...
+**Little One:** Rawoo...
 
 **Paimon:** Come to think of it, Paimon does see some resemblance to vishaps. Y'know... Two legs, one tail, and all.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rraaa?
+**Little One:** Rraaa?
 
 We're happy to have it travel with us...
 
@@ -1167,17 +1167,17 @@ But we should ask our friend here if that's what it wants to do first.
 
 **Paimon:** True, true. Hey there, little guy. Would you like to travel with us?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...
+**Little One:** ...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrawr!
+**Little One:** Rrawr!
 
 **Paimon:** Hehe! Looks like we're all agreed then. Anyway, Paimon's Paimon, and he's / she's Traveler!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrraa? Rawr...
+**Little One:** Wrraa? Rawr...
 
 **Paimon:** Oh, yeah, you need a name too... Let Paimon think. Right! Since you're yellow and brown all over, let's call you "Hash Brown"!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroooo... Rraaaa...
+**Little One:** Rroooo... Rraaaa...
 
 - **Traveler:** I suspect that would only go down well at Good Hunter...
 
@@ -1185,7 +1185,7 @@ But we should ask our friend here if that's what it wants to do first.
 
 **Paimon:** You mean people wouldn't like it anywhere else?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroo...
+**Little One:** Rroo...
 
 **Paimon:** Would you like Traveler to give you a name, then? Well... not that Paimon can vouch for his / her naming sense, though.
 
@@ -1199,11 +1199,11 @@ But we should ask our friend here if that's what it wants to do first.
 
 #### Talk to your Saurian companion
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]}. That'll be your name from now on, little guy!
+**Paimon:** Little One. That'll be your name from now on, little guy!
 
-{REALNAME[ID(2)|SHOWHOST(true)]}...
+Little One...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...Rawr!
+**Little One:** ...Rawr!
 
 **Paimon:** Looks like our little friend loves this name! Well, with any luck, we'll solve the mystery that surrounds you while we're in Natlan... Ah, and maybe we'll get some clues as to why Traveler was able to suddenly enter that Saurian's body...
 
@@ -1221,19 +1221,19 @@ But we should ask our friend here if that's what it wants to do first.
 
 **Paimon:** Seriously, we only just got here, and it feels like so much has already happened... Anyway, how do we get outta here?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Hmm? You know where the exit is?
 
 #### Follow your Saurian companion
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Ooh, there's some real power behind that name!
 
 #### Scene
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Paimon:** Hmm, this name feels like it's piling the pressure on... Let's go with something else, Traveler!
 
@@ -1245,7 +1245,7 @@ But we should ask our friend here if that's what it wants to do first.
 
 **Manqu:** Just as I thought... the Sage's trial has already begun.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 - **Traveler:** Do we need to break that barrier...?
 
@@ -1263,7 +1263,7 @@ But we should ask our friend here if that's what it wants to do first.
 
 **Manqu:** Perhaps that is what drove him to leave behind the token here... According to the ancient scrolls, "Humans and Saurians both have their places..."
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 **Paimon:** That's about as clear as mud.
 
@@ -1275,13 +1275,13 @@ But we should ask our friend here if that's what it wants to do first.
 
 **Paimon:** Hehe, though Paimon doesn't totally get what you're saying, when it comes to an invisible bond, we're la creme de la creme!
 
-**Paimon:** Isn't that right, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** Isn't that right, Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 Rawr!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ?
+**Little One:** ?
 
 **Manqu:** Haha, that's the spirit. Now, please try opening the barrier blocking the entrance.
 
@@ -1295,15 +1295,15 @@ In that case, lead the way, Paimon!
 
 **Paimon:** Whoa! You can't even see the bottom... But we're good friends, so of course we'll go together!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooo...
+**Little One:** Rrooo...
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]}, look! Hehe, we're nearly done!
+**Paimon:** Little One, look! Hehe, we're nearly done!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroh...
+**Little One:** Wrroh...
 
 Did you see some strange things, too?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 Don't be afraid...
 
@@ -1311,9 +1311,9 @@ Paimon and I are here.
 
 **Paimon:** Yeah... Though Paimon isn't sure what happened, Traveler's right. No matter what, you've got us!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roooah... Rawr!
+**Little One:** Roooah... Rawr!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Ooh, looks like he's finally perking up! Okay, looks like we can continue downward... This place does feel kinda dangerous...
 
@@ -1321,13 +1321,13 @@ Chosen of Dragons... Proceed... Eliminate the enemy from the realm beyond...
 
 Then you will be granted entry into the final paradise.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrrr?
+**Little One:** Ehrrr?
 
 Seems there's danger below after all.
 
 **Paimon:** Did the golden designs tell you that too?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Okay, then let's rest a bit, Traveler! We'll keep going once you're ready.
 
@@ -1335,71 +1335,71 @@ Seems there's danger below after all.
 
 **Paimon:** Wow... Looks like the real entrance to the ruins is over there! And just like the entrance to the first tunnel, there's a strange barrier.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr!
+**Little One:** Rawr... Rawr!
 
-**Paimon:** Yes, just like at the entrance. Traveler must stand below the yellow device on the left, while {REALNAME[ID(2)|SHOWHOST(true)]} stands below the green device to the right...
+**Paimon:** Yes, just like at the entrance. Traveler must stand below the yellow device on the left, while Little One stands below the green device to the right...
 
 **Paimon:** Though, it's pretty high up this time...
 
 And the route is different too...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooo...
+**Little One:** Rooo...
 
-**Paimon:** Don't worry, {REALNAME[ID(2)|SHOWHOST(true)]}! We'll only be separated for a little bit, but we'll still be in sight!
+**Paimon:** Don't worry, Little One! We'll only be separated for a little bit, but we'll still be in sight!
 
 **Paimon:** If you're scared, just raise your claws towards us and roar as loud as you can!
 
 **Paimon:** We'll wave back, so don't be scared, okay?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Raah, raah... Rawr!
+**Little One:** Raah, raah... Rawr!
 
 Rawr!
 
-**Paimon:** Don't talk like {REALNAME[ID(2)|SHOWHOST(true)]}! What if you actually manage to "rawr" something in its language, and {REALNAME[ID(2)|SHOWHOST(true)]} misunderstands?
+**Paimon:** Don't talk like Little One! What if you actually manage to "rawr" something in its language, and Little One misunderstands?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr, rawr!
+**Little One:** Rawr, rawr!
 
 **Paimon:** Well, don't you look happy all of a sudden.
 
 **Paimon:** Paimon just doesn't get you. When are you happy, and when are you scared?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roo?
+**Little One:** Roo?
 
 **Paimon:** You sure seem to be in good spirits! Alright then, let's try opening up that gate.
 
-{REALNAME[ID(2)|SHOWHOST(true)]}, try going over there.
+Little One, try going over there.
 
 **Paimon:** And once it's open, we'll meet in front of the door!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-#### Meet up with {REALNAME[ID(2)|SHOWHOST(true)]}
+#### Meet up with Little One
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Paimon:** Hey, you did it, {REALNAME[ID(2)|SHOWHOST(true)]}! Great job!
+**Paimon:** Hey, you did it, Little One! Great job!
 
-**Paimon:** Paimon's not sure why, but it feels like {REALNAME[ID(2)|SHOWHOST(true)]} is getting more and more reliable! That gives Paimon a kind of happy feeling, too.
+**Paimon:** Paimon's not sure why, but it feels like Little One is getting more and more reliable! That gives Paimon a kind of happy feeling, too.
 
 ...Feels way more reliable than Paimon!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Hey, no way! And don't you dare agree with him / her! Meanies, Paimon praises you two just a bit and this is what she gets...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...Rraa?
+**Little One:** ...Rraa?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...Ooroo, Rooah? Wrroh?
+**Little One:** ...Ooroo, Rooah? Wrroh?
 
 **Paimon:** Uh... You mean Paimon? Paimon's not angry, and she's not crying!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ...Ooroo, rawr? Rawr?
+**Little One:** ...Ooroo, rawr? Rawr?
 
 **Paimon:** Okay, fine, fine! Paimon'll "rawr"! Rawr!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 - **Traveler:** I feel like I can understand him...
 
@@ -1417,19 +1417,19 @@ Paimon, you're terrifying!
 
 Okay, let's move out!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Investigate the ruins
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wraah... Waah!
+**Little One:** Wraah... Waah!
 
-**Paimon:** That's the first time Paimon's heard {REALNAME[ID(2)|SHOWHOST(true)]} make that sound.
+**Paimon:** That's the first time Paimon's heard Little One make that sound.
 
 **Paimon:** Still, he's got a point, this is a huge mural! Hmm, let Paimon look... Two people, each holding something round in their hands...
 
 **Paimon:** Wait, what's with one of them having a weird head?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rraa?
+**Little One:** Rraa?
 
 Is it a... dragon?
 
@@ -1443,7 +1443,7 @@ Is it a... dragon?
 
 - **Traveler:** About the first Pyro Archon and the Sage of the Stolen Flame...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Paimon:** Like Paimon said, it did remind her of something she'd just heard...
 
@@ -1461,9 +1461,9 @@ First, we can rule out the Pyro Archon...
 
 **Paimon:** Hmm... So that means that the message back then didn't mean "chosen by the great Tepetlisaurus there"... but by this Sage?
 
-Or perhaps chosen by {REALNAME[ID(2)|SHOWHOST(true)]}.
+Or perhaps chosen by Little One.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** That's possible too... Hmm... Strange...
 
@@ -1471,7 +1471,7 @@ Chosen of Dragons... Come forward... Come forward...
 
 Pass through the corridors to your left and right. The path will unfold before your eyes...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hrrr?
+**Little One:** Hrrr?
 
 **Paimon:** What's the matter?
 
@@ -1479,9 +1479,9 @@ Pass through the corridors to your left and right. The path will unfold before y
 
 **Paimon:** Do we have to go through from both sides? Hmm, but it looks like both entrances each have their own barriers and mechanisms... Could it be that humans go one way, and dragons the other?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroh...
+**Little One:** Wrroh...
 
-**Paimon:** P—Paimon can't even see this time... {REALNAME[ID(2)|SHOWHOST(true)]}, do you think it's too hard? If it is, we can still back out.
+**Paimon:** P—Paimon can't even see this time... Little One, do you think it's too hard? If it is, we can still back out.
 
 **Paimon:** If it's really too much, we can wait until you're ready and try again. Not like these ruins are going anywhere.
 
@@ -1489,25 +1489,25 @@ Pass through the corridors to your left and right. The path will unfold before y
 
 - **Traveler:** If you want to stop, just say so.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Mraaa... Wrroh... Wraa...
+**Little One:** Mraaa... Wrroh... Wraa...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]}... You're a brave fella, aren't ya?
+**Paimon:** Little One... You're a brave fella, aren't ya?
 
 **Paimon:** Still, get out as fast as you can if things get dangerous! Nothing is more important than your life, not even treasure.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 - **Traveler:** I believe in you!
 
 - **Traveler:** Believe in yourself!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 **Paimon:** Hey, don't say things he can't understand!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Examine the mural
 
@@ -1515,9 +1515,9 @@ Pass through the corridors to your left and right. The path will unfold before y
 
 **Paimon:** A huge black dragon, a tree, and some strange person?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroh... Rawr!
+**Little One:** Wrroh... Rawr!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rraa?
+**Little One:** Rraa?
 
 Chosen of Dragons... Come forward... Reach out...
 
@@ -1543,9 +1543,9 @@ You see the entire city's annihilation, the buildings collapse, the ash-white mo
 You see a giant dragon with pupils pierced and a tiny human falling together from a great height, while the world echoes with a sorrowful song, one composed of the agony of dragonkind.
 You see a man rising from the dead dragon's heart once more, his whole body seemingly wreathed in flame.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooo...
+**Little One:** Rrooo...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roooah... Ooroo...
+**Little One:** Roooah... Ooroo...
 
 **Paimon:** Traveler, are you okay? You weren't moving a muscle...
 
@@ -1553,9 +1553,9 @@ What I saw might be kinda hard to explain...
 
 **Paimon:** Really? Paimon didn't see anything at all! And we're both looking at the same picture... Are you just way more perceptive than Paimon?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar!
+**Little One:** Roar!
 
-**Paimon:** Ah! That's {REALNAME[ID(2)|SHOWHOST(true)]}'s voice! Sounds like it's coming from over there... Oh, Paimon sure hopes nothing bad happened...
+**Paimon:** Ah! That's Little One's voice! Sounds like it's coming from over there... Oh, Paimon sure hopes nothing bad happened...
 
 **Paimon:** Hurry up, we need to go look!
 
@@ -1573,7 +1573,7 @@ Now, let go and let the future of humans and Saurians be as it may. Only the ene
 
 Chosen of Dragons, prove yourself by facing the mighty foe, that you may ascend the sacred mountain from this place.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Whoa, what's going on? That sudden chill...
 
@@ -1581,67 +1581,67 @@ Chosen of Dragons, prove yourself by facing the mighty foe, that you may ascend 
 
 #### Complete the trial
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
-**Paimon:** Whoa, it looks like {REALNAME[ID(2)|SHOWHOST(true)]} just got stronger! Did something awaken, maybe? Like the power of the Flamelord or something...?
+**Paimon:** Whoa, it looks like Little One just got stronger! Did something awaken, maybe? Like the power of the Flamelord or something...?
 
 Definitely looks stronger.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Raooo...
+**Little One:** Raooo...
 
 Are you alright?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** He was totally rocking during that fight, and was a really big help...
 
 Yes, most impressive.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rrrooo...
+**Little One:** Rawr... Rrrooo...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Errr?
+**Little One:** Errr?
 
-**Paimon:** Hmm, it looks like that's not a power {REALNAME[ID(2)|SHOWHOST(true)]} can just use whenever.
+**Paimon:** Hmm, it looks like that's not a power Little One can just use whenever.
 
 **Paimon:** Though, Manqu did say that it's better not to use power like that too much anyway.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
-**Paimon:** *sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab {REALNAME[ID(2)|SHOWHOST(true)]} and get the heck outta here.
+**Paimon:** *sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab Little One and get the heck outta here.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]} looked like he got way stronger... Hmm... Just like at the end of our adventure in Ochkanatlan...
+**Paimon:** Little One looked like he got way stronger... Hmm... Just like at the end of our adventure in Ochkanatlan...
 
 Definitely looks stronger.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Raooo...
+**Little One:** Raooo...
 
 Are you alright?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** He was absolutely killing it during that fight...
 
 Yes, most impressive.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rrrooo...
+**Little One:** Rawr... Rrrooo...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrr?
+**Little One:** Ehrr?
 
-**Paimon:** Hmm, it looks like that's not a power {REALNAME[ID(2)|SHOWHOST(true)]} can just use whenever.
+**Paimon:** Hmm, it looks like that's not a power Little One can just use whenever.
 
 **Paimon:** Though, Manqu did say that it's better not to use power like that too much anyway.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
-**Paimon:** *sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab {REALNAME[ID(2)|SHOWHOST(true)]} and get the heck outta here.
+**Paimon:** *sigh* ...So where did that weirdo with the hard-to-remember name hide the token? All Paimon wants to do right now is grab Little One and get the heck outta here.
 
 #### Obtain the token
 
 **Paimon:** Whoa, it looks like this stone tablet lit up!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 (Touch the stone tablet...)
 
@@ -1665,7 +1665,7 @@ You see the person standing before the empty throne, picking up that disc, turni
 
 **Paimon:** But look over there！ A round plate with golden etchings on it appeared on the ground! That should be the token we're looking for.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 A golden seal... Engraved on a white disc...
 
@@ -1681,11 +1681,11 @@ A golden seal... Engraved on a white disc...
 
 **Paimon:** Anyway, we got a token! Let's take it back and show it to Manqu!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Whoa, it looks like this stone tablet lit up!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 (Touch the stone tablet...)
 
@@ -1708,7 +1708,7 @@ Soon, you see your face reflected in massive dark pupils.
 
 **Paimon:** But look! The token we're looking for is on the ground, just like the one we found before.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 A golden seal... Engraved on a white disc...
 
@@ -1720,11 +1720,11 @@ A golden seal... Engraved on a white disc...
 
 **Paimon:** Well, you probably are tired! After all, we sure did a lot today. Let's rest up after we get back!
 
-**Paimon:** Okay, that's both tokens... Now {REALNAME[ID(2)|SHOWHOST(true)]} should have the right to get cured at the volcano, right?
+**Paimon:** Okay, that's both tokens... Now Little One should have the right to get cured at the volcano, right?
 
 **Paimon:** Okay! Let's bring the tokens and go find Manqu!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 ### Rite of the Bold
 
@@ -1752,15 +1752,15 @@ Need to prep for a bit.
 
 **Paimon:** Hey! Relics Guy!
 
-**Manqu:** Ah, it's you, Traveler... Paimon, and {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Manqu:** Ah, it's you, Traveler... Paimon, and Little One.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Pacal:** Huh, a Tepetlisaur with a red tail scarf! Mighty energetic, and looks different right off the bat too! Alright, little fella, give us another!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Raaawr!
+**Little One:** Raaawr!
 
-**Pacal:** Not bad! So you're {REALNAME[ID(2)|SHOWHOST(true)]}? And I suppose that makes you two the ones it chose...
+**Pacal:** Not bad! So you're Little One? And I suppose that makes you two the ones it chose...
 
 **Pacal:** And haven't you two been the talk of the town lately, Traveler, Paimon? Manqu here's been mumbling about you constantly, and Titu mentioned you after his return.
 
@@ -1790,9 +1790,9 @@ Need to prep for a bit.
 
 **Pacal:** If you wish to take your Saurian companion to the volcano and perform a baptism to cleanse the Flamelord's Blessing, you must be recognized by said Saurian's corresponding tribal chief...
 
-**Manqu:** With {REALNAME[ID(2)|SHOWHOST(true)]} being a Tepetlisaurus, this means the chief of the Children of Echoes.
+**Manqu:** With Little One being a Tepetlisaurus, this means the chief of the Children of Echoes.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Isn't that you?
 
@@ -1808,15 +1808,15 @@ Need to prep for a bit.
 
 **Pacal:** You are not of the tribes, but I will not have you die in vain.
 
-**Pacal:** So please, Traveler, I suggest that you leave {REALNAME[ID(2)|SHOWHOST(true)]} here with us.
+**Pacal:** So please, Traveler, I suggest that you leave Little One here with us.
 
 **Pacal:** If nothing else, I can ensure it will be taken care of until the day it must enter the Night Kingdom.
 
 **Paimon:** But... If we do that...
 
-**Manqu:** ...As I said, {REALNAME[ID(2)|SHOWHOST(true)]} will be unable to grow up.
+**Manqu:** ...As I said, Little One will be unable to grow up.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 Looks like that's not what it wants.
 
@@ -1828,13 +1828,13 @@ Yes.
 
 **Pacal:** And what about you, little fella?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Pacal:** Hahaha! Unyielding, resolute, yet passionate. Your hearts blaze like fine phlogiston.
 
 **Pacal:** Alright then. Then I shall award you the right to embark on the volcanic pilgrimage.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Alright! Let's go get that first token, then!
 
@@ -1852,7 +1852,7 @@ Yes.
 
 **Pacal:** The purpose of those formalities was to foster the bond between human and Saurian, and hone their skills — and I've had it with all that.
 
-**Pacal:** Anyway, as I see it, neither Traveler nor {REALNAME[ID(2)|SHOWHOST(true)]} seems to need that sort of proof.
+**Pacal:** Anyway, as I see it, neither Traveler nor Little One seems to need that sort of proof.
 
 **Pacal:** To put things simply, Traveler, we have here in Natlan a super simple way of dealing with such situations...
 
@@ -1860,7 +1860,7 @@ Yes.
 
 Right on!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Wait? Here? Oh, do you mean we're going on stage?
 
@@ -1886,7 +1886,7 @@ We're ready!
 
 **Paimon:** Hehe, nice! We won! Great job us!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Pacal:** Hah... Hoo. I'm not sure even the best warrior in our tribe could take you out... That was a sound defeat indeed.
 
@@ -1910,11 +1910,11 @@ We're ready!
 
 **Pacal:** Hahaha, save the commiseration. Now, if I was younger, who knows how that might have gone? Ah, how I wish I could have taken you on then.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Pacal:** Haha, looks like you really are well taken care of, {REALNAME[ID(2)|SHOWHOST(true)]}...
+**Pacal:** Haha, looks like you really are well taken care of, Little One...
 
-**Paimon:** Of course! {REALNAME[ID(2)|SHOWHOST(true)]}'s our trusty buddy, y'know!
+**Paimon:** Of course! Little One's our trusty buddy, y'know!
 
 **Pacal:** I am very glad to hear that.
 
@@ -1946,17 +1946,17 @@ We're ready!
 
 **Pacal:** Which is to grant the brave journeying soul and their companions my blessing.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hmm?
+**Little One:** Hmm?
 
 **Paimon:** Ooh, so that's also a ritual you all do, huh?
 
 **Pacal:** Heh, it's just moral support. Don't get your hopes up, eh?
 
-**Pacal:** Right, then. Traveler, {REALNAME[ID(2)|SHOWHOST(true)]}...
+**Pacal:** Right, then. Traveler, Little One...
 
 Here I am, chief.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Pacal:** May you soar through the mountains like the hardiest bird;
 May the wicked tides break upon you as if you were the hardest of stones.
@@ -1968,7 +1968,7 @@ May you never forget each other, for fate must bring an inevitable farewell.
 
 I will.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Eh? Wait, does Paimon get any blessings?
 
@@ -1986,7 +1986,7 @@ I will.
 
 **Paimon:** We know, Pacal. See ya! ... And seeya too, Uchu!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar!
+**Little One:** Roar!
 
 **Uchu:** Roar...
 
@@ -2000,9 +2000,9 @@ I will.
 
 #### 场景
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**派蒙:** 嗯，「{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}」确实也挺顺口的，而且，这也能算是我取的名字嘛，嘿嘿！
+**派蒙:** 嗯，「[选定的名字]」确实也挺顺口的，而且，这也能算是我取的名字嘛，嘿嘿！
 
 #### 场景
 
@@ -2060,7 +2060,7 @@ I will.
 
 #### 击败兽境猎犬
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！嗯…呀！
+**小家伙:** 呀！嗯…呀！
 
 #### 与巨兽对话
 
@@ -2070,7 +2070,7 @@ I will.
 
 #### 破坏岩石，救出幼兽
 
-**派蒙:** 嗯，那么小家伙的名字就叫{TMPVALUE(TMP_VALUE_KEY_TYPE_LITTLE_DRILL_TMP_NAME)}咯？
+**派蒙:** 嗯，那么小家伙的名字就叫[选定的名字]咯？
 
 #### 场景
 
@@ -2108,21 +2108,21 @@ I will.
 
 **派蒙:** 嘿嘿，旅行者，没想到它还挺乖的呢。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 这样就行了吧。
 
 **派蒙:** 怎么样，小家伙，觉得好一些了吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
 **派蒙:** 好了，小家伙看上去也很精神…真是松了口气，不过，你到底为什么被关进了那样一个罩子里呀？还有，还有那些兽境猎犬…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 你也不知道呀，就算你知道，你「呀啊呀啊」的我们也听不懂倒是了…不过，小家伙，我们把你救出来了，你可以回家啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 咦，难道不知道自己家在哪吗？
 
@@ -2130,7 +2130,7 @@ I will.
 
 **派蒙:** 那怎么办，旅行者…总不能把它一个人、呃一个家伙丢在这里吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 倒是可以先跟着我们…
 
@@ -2142,11 +2142,11 @@ I will.
 
 **派蒙:** 这么说来，纳塔是龙的国度吧，咦，难道，小家伙也是…龙？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **派蒙:** 这么说来看上去确实和龙蜥挺像的，都有…两条腿和一条尾巴。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 让它跟着我们是没问题啦…
 
@@ -2154,17 +2154,17 @@ I will.
 
 **派蒙:** 说的也是呢，小家伙，你愿意跟我们一起旅行吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ……
+**小家伙:** ……
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 嘿嘿，小家伙同意啦。对了，我是派蒙！他 / 她是旅行者！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 啵嗯？呀…
+**小家伙:** 啵嗯？呀…
 
 **派蒙:** 对了，小家伙也得有个名字…让我想想，看你颜色黄黄黑黑的，不如就叫你「土豆饼」吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…呜…
+**小家伙:** 呜…呜…
 
 - **旅行者:** 大概只能在猎鹿人受欢迎…
 
@@ -2172,7 +2172,7 @@ I will.
 
 **派蒙:** 「在其他地方就不受欢迎」的意思是吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 你想让旅行者给你取名字？这家伙的取名品味…我可不好说哦。
 
@@ -2186,11 +2186,11 @@ I will.
 
 #### 与龙伙伴对话
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}啊，你以后的名字就叫作{REALNAME[ID(2)|SHOWHOST(true)]}了哦，小家伙！
+**派蒙:** 小家伙啊，你以后的名字就叫作小家伙了哦，小家伙！
 
-{REALNAME[ID(2)|SHOWHOST(true)]}…
+小家伙…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** …呀！
+**小家伙:** …呀！
 
 **派蒙:** 看来它很喜欢这个名字呢…嘿嘿，希望在纳塔能够解开你身上的谜团…对了，还有旅行者突然就能够钻到龙身体里的事…
 
@@ -2208,19 +2208,19 @@ I will.
 
 **派蒙:** 真是的，才刚到纳塔，感觉就发生了这么多事…好了，接下来的问题就是，我们要怎么出去呢？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 嗯？你知道出去的地方吗？
 
 #### 跟随你的龙伙伴
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 哦，感觉是充满了力量感的好名字呢！
 
 #### 场景
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 咦，从名字里感受到了很大的压力吗…旅行者，还是别用这些名字啦！
 
@@ -2232,7 +2232,7 @@ I will.
 
 **曼科:** 果然如此…「盗火贤者」的试炼从这里已经开始了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 - **旅行者:** 要击碎那个屏障吗…
 
@@ -2250,7 +2250,7 @@ I will.
 
 **曼科:** 大概是基于这种心理…他遗留在此的信物，按照古老织卷上的说法：「人龙各居其位…」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 这样说根本就听不懂啦。
 
@@ -2262,13 +2262,13 @@ I will.
 
 **派蒙:** 哼哼，虽然还是不太懂，不过说到默契，我们绝对不会输给任何人。
 
-**派蒙:** 对吧，{REALNAME[ID(2)|SHOWHOST(true)]}！
+**派蒙:** 对吧，小家伙！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ？
+**小家伙:** ？
 
 **曼科:** 嗯，气势真是不错。那么，就先请试着打开入口的屏障吧。
 
@@ -2282,15 +2282,15 @@ I will.
 
 **派蒙:** 呜哇，下面一看就深不见底…我们是好伙伴，所以当然得一起啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}，你看，嘿嘿我们已经快成功啦。
+**派蒙:** 小家伙，你看，嘿嘿我们已经快成功啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 你也看到奇怪的景象了吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
 不要害怕…
 
@@ -2298,9 +2298,9 @@ I will.
 
 **派蒙:** 嗯…虽然不知道发生了什么，但是旅行者说得对，不管发生了什么，都有我们在！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜嗯…呀！
+**小家伙:** 呜嗯…呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 哦哦，小家伙终于有点精神了。嗯，看来我们可以接着往下了…总觉得这种地方很危险呢。
 
@@ -2308,13 +2308,13 @@ I will.
 
 而后，得以进入最后的乐土。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 好像，下面的确有危险。
 
 **派蒙:** 又是金色花纹告诉你们的？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 好吧，那，旅行者，我们稍微休息一会儿。等做好准备再下去吧！
 
@@ -2322,71 +2322,71 @@ I will.
 
 **派蒙:** 哇…看来那边才是遗迹真正的入口，和刚开始地道的入口一样，也有奇怪的屏障。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呀！
+**小家伙:** 呀…呀！
 
-**派蒙:** 嗯，对，那就跟遗迹入口一样，旅行者要到到左边的黄色装置下面，{REALNAME[ID(2)|SHOWHOST(true)]}要到右边的绿色装置下面…
+**派蒙:** 嗯，对，那就跟遗迹入口一样，旅行者要到到左边的黄色装置下面，小家伙要到右边的绿色装置下面…
 
 **派蒙:** 不过，这次要站的地方稍微有点高…
 
 而且路线也不一样…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
-**派蒙:** 没关系的，{REALNAME[ID(2)|SHOWHOST(true)]}，就算要稍微分开一下，但是这点距离，还是能互相看见的！
+**派蒙:** 没关系的，小家伙，就算要稍微分开一下，但是这点距离，还是能互相看见的！
 
 **派蒙:** 你如果觉得害怕的话，就向着我们举手，大声叫。
 
 **派蒙:** 我们也会向你招手的，所以不要害怕哦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯，嗯…呀…
+**小家伙:** 嗯，嗯…呀…
 
 呀！
 
-**派蒙:** 不要学{REALNAME[ID(2)|SHOWHOST(true)]}说话啦，万一你真的「呀」出什么意思了，让{REALNAME[ID(2)|SHOWHOST(true)]}误解了怎么办！
+**派蒙:** 不要学小家伙说话啦，万一你真的「呀」出什么意思了，让小家伙误解了怎么办！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀，呀！
+**小家伙:** 呀，呀！
 
 **派蒙:** 你这家伙倒是一下就开心起来了。
 
 **派蒙:** 真难理解，你到底什么时候会开心，什么时候会害怕呀。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 看来精神还不错，好了，我们去尝试打开大门的屏障吧。
 
-{REALNAME[ID(2)|SHOWHOST(true)]}，试着到那去哦。
+小家伙，试着到那去哦。
 
 **派蒙:** 然后等到屏障被打开，我们就在大门前面汇合吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-#### 与{REALNAME[ID(2)|SHOWHOST(true)]}汇合
+#### 与小家伙汇合
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**派蒙:** 嘿嘿，{REALNAME[ID(2)|SHOWHOST(true)]}你办到了，了不起。
+**派蒙:** 嘿嘿，小家伙你办到了，了不起。
 
-**派蒙:** 不知道为什么，总觉得{REALNAME[ID(2)|SHOWHOST(true)]}变得可靠，我也有种很开心的感觉。
+**派蒙:** 不知道为什么，总觉得小家伙变得可靠，我也有种很开心的感觉。
 
 …感觉比派蒙都可靠了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 才没有呢，你也不许答应，可恶，才夸你们两个几句。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** …嗯？
+**小家伙:** …嗯？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** …啵嗯，呜？呜？
+**小家伙:** …啵嗯，呜？呜？
 
 **派蒙:** 呃…我吗，我没有生气，也没有想哭啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** …啵嗯，呀？呀？
+**小家伙:** …啵嗯，呀？呀？
 
 **派蒙:** 好了好了，我呀就是了，呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 - **旅行者:** 感觉也能感受到它的意思…
 
@@ -2404,19 +2404,19 @@ I will.
 
 嗯，那就继续出发吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 调查遗迹
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…哇！
+**小家伙:** 唔…哇！
 
-**派蒙:** 还是第一次听到{REALNAME[ID(2)|SHOWHOST(true)]}这样叫呢。
+**派蒙:** 还是第一次听到小家伙这样叫呢。
 
 **派蒙:** 不过，确实，好大的壁画。嗯，我看看，上面画着两个人手上各自拿着一个圆滚滚的东西…
 
 **派蒙:** 不对，怎么有一个人的头长得怪怪的？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 那是…龙？
 
@@ -2430,7 +2430,7 @@ I will.
 
 - **旅行者:** 是初代火神和「盗火贤者」…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
 **派蒙:** 我就说感觉刚听过嘛…
 
@@ -2448,9 +2448,9 @@ I will.
 
 **派蒙:** 唔…也就是说，那时候其实不是被倒在那里的大嵴锋龙选中…而是被这个「盗火贤者」选中了？
 
-也许是被{REALNAME[ID(2)|SHOWHOST(true)]}选中了。
+也许是被小家伙选中了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 这倒也是有可能啦，唔，真奇怪…
 
@@ -2458,7 +2458,7 @@ I will.
 
 穿越左右的廊道，道路便将在眼之下展开…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 怎么了？
 
@@ -2466,9 +2466,9 @@ I will.
 
 **派蒙:** 要从两边穿过去吗？唔，不过两边的门看上去各自有个屏障和不同的机关…难道说，是要人走一边，龙走一边的意思吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
-**派蒙:** 这、这次就连看都看不到了，{REALNAME[ID(2)|SHOWHOST(true)]}，你觉得困难吗，如果困难的话，我们现在退出也可以哦。
+**派蒙:** 这、这次就连看都看不到了，小家伙，你觉得困难吗，如果困难的话，我们现在退出也可以哦。
 
 **派蒙:** 实在不行，等你准备好了，我们再去。反正这个遗迹又不会长出脚跑走。
 
@@ -2476,25 +2476,25 @@ I will.
 
 - **旅行者:** 想退出的话就说吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…嗯呜…哼…
+**小家伙:** 呜…嗯呜…哼…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}…真是勇敢的小家伙。
+**派蒙:** 小家伙…真是勇敢的小家伙。
 
 **派蒙:** 不过，遇到了危险，一定要及时逃跑，没有什么比自己的性命更重要，宝藏也不行。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 - **旅行者:** 我相信你！
 
 - **旅行者:** 你要相信自己！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 别说这种它没法理解的话啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 调查壁画
 
@@ -2502,9 +2502,9 @@ I will.
 
 **派蒙:** 一只大黑龙，树，和什么奇怪的人？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯…呀！
+**小家伙:** 唔嗯…呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 受龙所选者…向前吧…伸出手来…
 
@@ -2530,9 +2530,9 @@ I will.
 你看到瞳孔被刺穿的巨龙与一个小小的人儿一起从高处坠落，而整个世界回荡起悲伤的歌，由诸多龙众痛苦的哀鸣所谱写。
 你看到，全身仿佛被火焰包裹的男人自已死之龙的心脏中重新站起。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜…
+**小家伙:** 呜呜…
 
 **派蒙:** 旅行者，你没事吧？刚刚起就一动不动的…
 
@@ -2540,9 +2540,9 @@ I will.
 
 **派蒙:** 是嘛，我倒是什么都没看到，明明看的都是同一张画，难道旅行者的感受力比我强吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜！
+**小家伙:** 呜！
 
-**派蒙:** 啊，是{REALNAME[ID(2)|SHOWHOST(true)]}的声音，似乎是从那边传来的，呜，不会出什么事了吧。
+**派蒙:** 啊，是小家伙的声音，似乎是从那边传来的，呜，不会出什么事了吧。
 
 **派蒙:** 快， 我们得过去看看。
 
@@ -2560,7 +2560,7 @@ I will.
 
 受龙所选者，直面强敌吧，以证明你可从此处踏上「圣山」。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 呜哇，怎么回事，突然一阵恶寒…
 
@@ -2568,67 +2568,67 @@ I will.
 
 #### 完成试炼
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
-**派蒙:** 哇，刚才{REALNAME[ID(2)|SHOWHOST(true)]}看上去变得好厉害，难道是觉醒了什么…「焰主」的力量之类的…
+**派蒙:** 哇，刚才小家伙看上去变得好厉害，难道是觉醒了什么…「焰主」的力量之类的…
 
 看上去很厉害呢。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呼呼…
+**小家伙:** 呼呼…
 
 你还好吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 刚才在战斗的时候真的很帅气，也帮上大忙了…
 
 嗯，很了不起。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呜…
+**小家伙:** 呀…呜…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
-**派蒙:** 唔，看来好像不是{REALNAME[ID(2)|SHOWHOST(true)]}能随意使用的力量。
+**派蒙:** 唔，看来好像不是小家伙能随意使用的力量。
 
 **派蒙:** 不过，按照曼科的说法，这种力量也还是少用为妙吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
-**派蒙:** …唉，所以那个名字难记的怪家伙到底把信物藏在哪了，我现在只想快点带{REALNAME[ID(2)|SHOWHOST(true)]}离开这里。
+**派蒙:** …唉，所以那个名字难记的怪家伙到底把信物藏在哪了，我现在只想快点带小家伙离开这里。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
-**派蒙:** 刚才{REALNAME[ID(2)|SHOWHOST(true)]}看上去变得好厉害，唔…就像是在奥奇卡纳塔最后的时候…
+**派蒙:** 刚才小家伙看上去变得好厉害，唔…就像是在奥奇卡纳塔最后的时候…
 
 看上去很厉害呢。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呼呼…
+**小家伙:** 呼呼…
 
 你还好吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 刚才在战斗的时候真的很帅气，也帮上大忙了…
 
 嗯，很了不起。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呜…
+**小家伙:** 呀…呜…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
-**派蒙:** 唔，看来好像不是{REALNAME[ID(2)|SHOWHOST(true)]}能随意使用的力量。
+**派蒙:** 唔，看来好像不是小家伙能随意使用的力量。
 
 **派蒙:** 不过，按照曼科的说法，这种力量也还是少用为妙吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
-**派蒙:** …唉，所以那个名字难记的怪家伙到底把信物藏在哪了，我现在只想快点带{REALNAME[ID(2)|SHOWHOST(true)]}离开这里。
+**派蒙:** …唉，所以那个名字难记的怪家伙到底把信物藏在哪了，我现在只想快点带小家伙离开这里。
 
 #### 获取信物
 
 **派蒙:** 哇，这块石碑，突然就亮起来了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 （触摸石碑…）
 
@@ -2652,7 +2652,7 @@ I will.
 
 **派蒙:** 不过你看，地上出现了一个刻着金色纹路的圆盘，这个应该就是我们要找的信物了吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 金印…刻写于白盘之中…
 
@@ -2668,11 +2668,11 @@ I will.
 
 **派蒙:** 总之，我们成功获得了一个信物啦，带回去给曼科那家伙看看吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 哇，这块石碑，突然就亮起来了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 （触摸石碑…）
 
@@ -2695,7 +2695,7 @@ I will.
 
 **派蒙:** 不过你看，地上的就是我们要找的信物。和我们之前找到的那只看上去一模一样。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 金印…刻写于白盘之中…
 
@@ -2707,11 +2707,11 @@ I will.
 
 **派蒙:** 毕竟今天做了很多事，旅行者大概是累了吧。等我们回去以后，好好休息一下吧！
 
-**派蒙:** 嗯，两枚信物都齐了…这下应该有到火山给{REALNAME[ID(2)|SHOWHOST(true)]}治病的资格了吧。
+**派蒙:** 嗯，两枚信物都齐了…这下应该有到火山给小家伙治病的资格了吧。
 
 **派蒙:** 好，把信物带上去，给曼科看看吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 ### 勇敢者的仪式
 
@@ -2739,15 +2739,15 @@ I will.
 
 **派蒙:** 喂…龙遗物研究协会的！
 
-**曼科:** 是旅行者…派蒙，还有{REALNAME[ID(2)|SHOWHOST(true)]}。
+**曼科:** 是旅行者…派蒙，还有小家伙。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **帕加尔:** 喔哦，尾巴上绑红丝巾的小嵴锋龙！好有精神的小家伙，看上去就感觉不太一样呢，来，再来一下！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**帕加尔:** 真不错，你就是{REALNAME[ID(2)|SHOWHOST(true)]}，那么，你们两个就是{REALNAME[ID(2)|SHOWHOST(true)]}选择的勇者了吧…
+**帕加尔:** 真不错，你就是小家伙，那么，你们两个就是小家伙选择的勇者了吧…
 
 **帕加尔:** 旅行者和派蒙，你们的名字最近出现的很频繁啊…不仅曼科老兄一直在念叨，蒂图那家伙回部族的时候也提到过。
 
@@ -2777,9 +2777,9 @@ I will.
 
 **帕加尔:** 如果想要带自己的龙伙伴前往火山，进行洗礼，洗去「焰主之祝」，就得从各自部族首领那里取得认可…
 
-**曼科:** {REALNAME[ID(2)|SHOWHOST(true)]}是只小嵴锋龙，所以就要取得「回声之子」首领的承认。
+**曼科:** 小家伙是只小嵴锋龙，所以就要取得「回声之子」首领的承认。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 那不就是帕加尔先生的认可嘛。
 
@@ -2795,15 +2795,15 @@ I will.
 
 **帕加尔:** 虽然你们并不是部族人，但我还是不希望你们白白送死。
 
-**帕加尔:** 所以，旅行者，我还是提议，把{REALNAME[ID(2)|SHOWHOST(true)]}留在回声之子吧。
+**帕加尔:** 所以，旅行者，我还是提议，把小家伙留在回声之子吧。
 
 **帕加尔:** 至少我可以保证，在它进入夜神的国度之前，我会好好照顾好它。
 
 **派蒙:** 可是，可是这样的话…
 
-**曼科:** …就像我之前说的，{REALNAME[ID(2)|SHOWHOST(true)]}就没法长大了。
+**曼科:** …就像我之前说的，小家伙就没法长大了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 看来它不是很希望这样呢…
 
@@ -2815,13 +2815,13 @@ I will.
 
 **帕加尔:** 小家伙，你呢？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **帕加尔:** 哈哈哈，真好，无比坚定的眼神，坚硬，却能够感受到内心的火热，真是犹如燃素岩一般的好家伙们。
 
 **帕加尔:** 好啊，那我就承认你们有前往火山朝圣的资格吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 好耶，现在我们是不是就可以去找第一个信物了。
 
@@ -2839,7 +2839,7 @@ I will.
 
 **帕加尔:** 那些本来就是为了培养龙和人的默契，增强他们的实力，才必须遵守的繁文缛节——我已经受够那些啦。
 
-**帕加尔:** 更何况，旅行者和{REALNAME[ID(2)|SHOWHOST(true)]}，看上去可并不需要用那些东西进行证明。
+**帕加尔:** 更何况，旅行者和小家伙，看上去可并不需要用那些东西进行证明。
 
 **帕加尔:** 换种简单点的方法吧…旅行者，在纳塔，人们在遇到这种情况的时候有一种最方便快捷的办法——
 
@@ -2847,7 +2847,7 @@ I will.
 
 正合我意！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 咦，要在这里开打吗…啊，难道要去舞台上打？
 
@@ -2873,7 +2873,7 @@ I will.
 
 **派蒙:** 赢了，好耶！了不起！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **帕加尔:** 哈…即使是现在部族里最强的战士，恐怕也打不赢你吧…这次还真是输得心服口服。
 
@@ -2897,11 +2897,11 @@ I will.
 
 **帕加尔:** 这种可怜人的夸奖就免了吧，不过要是我再年轻一点…谁胜谁负还不知道呢，真可惜，如果年轻时能和你打一场就好了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**帕加尔:** 哈哈，{REALNAME[ID(2)|SHOWHOST(true)]}，看得出来你有被他们好好照顾着呢…
+**帕加尔:** 哈哈，小家伙，看得出来你有被他们好好照顾着呢…
 
-**派蒙:** 那是当然了，{REALNAME[ID(2)|SHOWHOST(true)]}可是我们的了不起的伙伴！
+**派蒙:** 那是当然了，小家伙可是我们的了不起的伙伴！
 
 **帕加尔:** 既然如此，我就放心了。
 
@@ -2933,17 +2933,17 @@ I will.
 
 **帕加尔:** 那就是为踏上旅程的勇者，和他的伙伴献上祝福。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 哦哦，居然还有这样的仪式吗？
 
 **帕加尔:** 其实就是一些便宜讨彩头的话。
 
-**帕加尔:** 那么，旅行者和{REALNAME[ID(2)|SHOWHOST(true)]}…
+**帕加尔:** 那么，旅行者和小家伙…
 
 嗯，我在这里。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **帕加尔:** 祝你们能够像翎翅最硬的鸟儿那样飞过一切山巅；
 祝你们能够像最坚强的顽石那样抵挡恶浪的奔流。
@@ -2955,7 +2955,7 @@ I will.
 
 我会的。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 啊，那我呢，我就没有祝福吗？
 
@@ -2973,7 +2973,7 @@ I will.
 
 **派蒙:** 嗯，我们知道啦，再见，帕加尔…还有乌丘。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜嗯！
+**小家伙:** 呜嗯！
 
 **乌丘:** 唔…
 

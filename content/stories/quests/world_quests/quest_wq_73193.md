@@ -3,15 +3,15 @@
 # title_ru: Изгнание: Всходы
 # title_en: The Exile: Sprouting
 # title_zh: 流放者·萌芽
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73193
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73193
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_73203
 # related_quests: quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209
 # quest_chain: quest_wq_73193,quest_wq_73203,quest_wq_73204,quest_wq_73205,quest_wq_73206,quest_wq_73207,quest_wq_73209

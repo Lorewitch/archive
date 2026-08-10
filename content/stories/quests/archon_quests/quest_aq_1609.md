@@ -13,8 +13,8 @@
 # part_source_ids: 3034,3035,3036
 # previous_quests: quest_aq_1608
 # next_quests: quest_aq_1611
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -370,7 +370,7 @@
 
 **Нафис:** И всё равно она не перестаёт расследовать, что произошло внутри Ирминсуля, и постоянно передаёт нам собранные сведения...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Анализ данных завершён. Предположения не подтвердились: признаков внешней атаки на Ирминсуль не обнаружено.
+**Странник:** Анализ данных завершён. Предположения не подтвердились: признаков внешней атаки на Ирминсуль не обнаружено.
 
 **Сайрус:** Неужели это какая-то внутренняя болезнь? Невозможно. Я всю жизнь изучаю артерии земли, и если бы эта штука так легко ломалась, у нас давно наступил бы конец света.
 
@@ -382,9 +382,9 @@
 
 **Сайно:** Я сразу подумал, что эти события как-то связаны, и отправил туда людей выяснить, что происходит. Но если внешней атаки на Ирминсуль не было...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** У нас есть дела поважнее, чем строить догадки о том, кто за этим стоит.
+**Странник:** У нас есть дела поважнее, чем строить догадки о том, кто за этим стоит.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Прошло больше двенадцати часов, а никакой новой информации до сих пор не поступило. Если даже хранительница Ирминсуля оказалась в таком состоянии, нетрудно представить, что там творится внутри.
+**Странник:** Прошло больше двенадцати часов, а никакой новой информации до сих пор не поступило. Если даже хранительница Ирминсуля оказалась в таком состоянии, нетрудно представить, что там творится внутри.
 
 **Нафис:** Дендро Архонт...
 
@@ -500,9 +500,9 @@
 
 **Нафис:** А эти господа вместе со мной составляют нынешнюю шестёрку мудрецов Академии. Мы с Балазури давно на посту, а эти четверо заняли свои должности уже после падения партии Азара.
 
-**Нафис:** Мудрец аль-Кинди из даршана Спант{RUBY#[S]школа элементализма}амад, мудрец Фирнас из даршана Кшах{RUBY#[S]школа технологий}ревар.
+**Нафис:** Мудрец аль-Кинди из даршана Спантшкола элементализмаамад, мудрец Фирнас из даршана Кшахшкола технологийревар.
 
-**Нафис:** Мудрец Шакир из даршана Ртава{RUBY#[S]школа звёзд}хист, а также мудрец Рушд из даршана Хара{RUBY#[S]школа семиотики}ватат.
+**Нафис:** Мудрец Шакир из даршана Ртавашкола звёздхист, а также мудрец Рушд из даршана Харашкола семиотикиватат.
 
 **Паймон:** П-привет!
 
@@ -734,7 +734,7 @@
 
 *Вы рассказываете друзьям, как однажды спасли Апеп вместе с Нахидой...*
 
-**Сайно:** Что скажут эксперты Аму{RUBY#[S]даршан наук о жизни}рты?
+**Сайно:** Что скажут эксперты Амударшан наук о жизнирты?
 
 **Тигнари:** Теоретически такая возможность есть. Хотя нельзя ставить знак равенства между элементальными существами и силой элементов, но из вашего рассказа следует, что госпожа Дендро Архонт ясно дала понять: она способна «имитировать» силу элементальных форм жизни.
 
@@ -1908,7 +1908,7 @@
 
 **Лилупар:** Женщина в шляпе, ты уверена? Я не чувствую в ней присутствия Повелительницы цветов.
 
-**Николь:** В конце концов, это всего лишь фрагмент. Если не прибегать к особому {RUBY#[S]стих и молитва}способу, проявляющему её силу, даже самому близкому человеку будет трудно почувствовать её присутствие.
+**Николь:** В конце концов, это всего лишь фрагмент. Если не прибегать к особому стих и молитваспособу, проявляющему её силу, даже самому близкому человеку будет трудно почувствовать её присутствие.
 
 **Николь:** После смерти богини цветов её останки были разбросаны по пустыне. Царь Дешрет нашёл всё, что смог, и похоронил в Оазисе вечности. Но некоторые осколки так и остались ненайденными.
 
@@ -2722,7 +2722,7 @@ Has she found anything yet?
 
 **Naphis:** And despite all of this, she is somehow finding the strength to investigate the Irminsul situation from within, and send us her findings...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I've finished analyzing the latest data. Looks like our working theory was wrong. There's no signs of Irminsul having been attacked from the outside.
+**Wanderer:** I've finished analyzing the latest data. Looks like our working theory was wrong. There's no signs of Irminsul having been attacked from the outside.
 
 **Cyrus:** So it's internal, then? Some sort of disease, perhaps...? Hmm, no... I've spent half my life studying the Ley Lines. If Irminsul malfunctioned this easily, the world would've met its end long ago.
 
@@ -2734,9 +2734,9 @@ Has she found anything yet?
 
 **Cyno:** At first, I suspected that they might have something to do with all this, so I sent some people to investigate. But if Irminsul wasn't attacked from the outside...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Don't you think there are more important things to worry about right now than guessing who's behind all this?
+**Wanderer:** Don't you think there are more important things to worry about right now than guessing who's behind all this?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's been over twelve hours with no new intel. If even the keeper of Irminsul is this badly affected, you can imagine how bad things are in there.
+**Wanderer:** It's been over twelve hours with no new intel. If even the keeper of Irminsul is this badly affected, you can imagine how bad things are in there.
 
 **Naphis:** Dendro Archon...
 
@@ -4260,7 +4260,7 @@ We're here to support Collei through this.
 
 **Liloupar:** You with the hat — are you certain? I sense no trace of the Lord of Flowers within her.
 
-**Nicole:** Well, it is a very small fragment. Unless special {RUBY#[D]poems and prayers}methods are used to manifest its power, even her closest acquaintances would find it near impossible to detect.
+**Nicole:** Well, it is a very small fragment. Unless special poems and prayersmethods are used to manifest its power, even her closest acquaintances would find it near impossible to detect.
 
 **Nicole:** After the Goddess passed away, her remains were scattered across the desert. King Deshret gathered all the pieces he could find and buried them in the Eternal Oasis, but some fragments remained unaccounted for.
 
@@ -5074,7 +5074,7 @@ You've grown strong, Jeht. More than enough to fend for yourself.
 
 **纳菲斯:** 种种不利的条件下，她却还坚持调查世界树内的情况，并尽量将收集到的情报传递给我们…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 新的数据分析完了。和之前的猜测不同，世界树没有从外部遭受攻击的迹象。
+**流浪者:** 新的数据分析完了。和之前的猜测不同，世界树没有从外部遭受攻击的迹象。
 
 **居勒什:** 难道是一种内生性的病症？不可能啊，我研究了半辈子地脉，如果这玩意儿这么容易出故障，世界末日早就来了。
 
@@ -5086,9 +5086,9 @@ You've grown strong, Jeht. More than enough to fend for yourself.
 
 **赛诺:** 我原本猜测这次的事情可能和他们有关，也安排人手去调查了。但如果世界树并不是从外部遭到攻击…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 比起猜测幕后凶手，不觉得还有更重要的事吗？
+**流浪者:** 比起猜测幕后凶手，不觉得还有更重要的事吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 已经超过十二个小时没有任何新情报传递过来了。就连世界树的管理者都变成了这副样子，里面的情况可想而知。
+**流浪者:** 已经超过十二个小时没有任何新情报传递过来了。就连世界树的管理者都变成了这副样子，里面的情况可想而知。
 
 **纳菲斯:** 草神大人…
 
@@ -5204,9 +5204,9 @@ You've grown strong, Jeht. More than enough to fend for yourself.
 
 **纳菲斯:** 这几位，加上我，就是教令院现在的六位贤者。其中我和拜拉祖里算是老面孔，这四位是阿扎尔一党倒台后上任的。
 
-**纳菲斯:** 悉般{RUBY#[D]素论派}多摩学院的贤者阿尔肯迪，刹诃{RUBY#[D]妙论派}伐罗学院的贤者菲尔纳斯。
+**纳菲斯:** 悉般素论派多摩学院的贤者阿尔肯迪，刹诃妙论派伐罗学院的贤者菲尔纳斯。
 
-**纳菲斯:** 梨多{RUBY#[D]明论派}梵谛学院的贤者沙基尔，以及室罗{RUBY#[D]知论派}婆耽学院的贤者鲁西德。
+**纳菲斯:** 梨多明论派梵谛学院的贤者沙基尔，以及室罗知论派婆耽学院的贤者鲁西德。
 
 **派蒙:** 你、你们好！
 
@@ -5438,7 +5438,7 @@ You've grown strong, Jeht. More than enough to fend for yourself.
 
 *跟众人讲述了曾经和纳西妲拯救阿佩普的事情…*
 
-**赛诺:** 阿弥{RUBY#[D]生论派}利多的专家怎么说？
+**赛诺:** 阿弥生论派利多的专家怎么说？
 
 **提纳里:** 理论上是可行的。根据你们的描述，元素生命与元素力虽然不同，但草神大人曾明确表示她能够「模仿」那种力量。
 
@@ -6612,7 +6612,7 @@ You've grown strong, Jeht. More than enough to fend for yourself.
 
 **利露帕尔:** 戴帽子的女人，你确定吗？我从她的身上可感受不到花的女主人的气息。
 
-**尼可:** 毕竟只是碎片而已。如果不用特{RUBY#[D]诗文与祷告}殊的方式令其显现力量，就算是再亲近的人也很难觉察。
+**尼可:** 毕竟只是碎片而已。如果不用特诗文与祷告殊的方式令其显现力量，就算是再亲近的人也很难觉察。
 
 **尼可:** 花神去世后，遗骸散落沙漠各地，赤王找到了他能找到的全部，并将其安葬在永恒绿洲。但仍有一些碎片下落不明。
 

@@ -766,7 +766,7 @@ Unusual ones?
 
 **派蒙:** 好久不见啦——！
 
-**塞琉斯:** 啊~年轻的冒险家和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的好伙伴，真高兴在这里见到你们。
+**塞琉斯:** 啊~年轻的冒险家和空/荧的好伙伴，真高兴在这里见到你们。
 
 **塞琉斯:** 希望这片严寒的山脉没有给你们造成太多麻烦。
 
@@ -776,7 +776,7 @@ Unusual ones?
 
 **塞琉斯:** 特意顶着风雪到这里来，是有不得不办的工作吗？
 
-**阿贝多:** 我来这里采集丘丘人的最新数据，委托{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}做我的助手。
+**阿贝多:** 我来这里采集丘丘人的最新数据，委托空/荧做我的助手。
 
 - **旅行者:** （嗯？是这样吗？）
 

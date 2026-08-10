@@ -3,13 +3,13 @@
 # title_ru: Тост в лунном свете
 # title_en: A Toast Beneath the Moon
 # title_zh: 月下小酌
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76052
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76052
 # previous_quests: quest_wq_76060
 # next_quests: quest_wq_76122

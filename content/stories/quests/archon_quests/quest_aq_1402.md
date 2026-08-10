@@ -13,8 +13,8 @@
 # part_source_ids: 4000,4001,4002
 # previous_quests: quest_aq_1401
 # next_quests: quest_aq_1403
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: IV
 # version_source: wiki_release_category
 
@@ -5836,6 +5836,90 @@ There must be more to this than meets the eye.
 
 你已经彻底被卷入了关于「少女连环失踪案」的事件中，根据之前在露景泉处得到的新线索，你和娜维娅准备展开进一步的调查…
 
+#### (test)(hide)查看神像是否已解锁差分
+
+**娜维娅:** 三个潜在的嫌疑人都已经接触完毕了，从现在的情况看…
+
+**派蒙:** 好像都…挺正常的。
+
+感觉三个人都没什么大问题。
+
+**娜维娅:** 不过也在意料之中，要是仅仅靠一次聊天就能找到破绽，老爹也不至于调查了这么多年。
+
+**娜维娅:** 总之，虽然情报很少，但我们还是尝试整理看看吧。
+
+**派蒙:** 呃，要从哪里开始呢？
+
+雅克的动机。
+
+**派蒙:** 哦，对啊，就像刚刚弗洛朗提到的，卡雷斯不是第一个开枪的人，我觉得很有道理。
+
+**娜维娅:** 按他家人的说法，他那天在离开家之前说自己已经被发现了，所以别无选择。
+
+**娜维娅:** …我猜，应该就是他上面的人告诉他，如果不去杀掉我的老爹，他和他的家人都会死。
+
+**派蒙:** 那，第一枪是雅克开的？
+
+- **旅行者:** 如果是我…
+
+- **旅行者:** 我会觉得这件事有害无利。
+
+**娜维娅:** 嗯？为什么呢？
+
+- **旅行者:** 杀掉卡雷斯，他就不会死吗？
+
+- **旅行者:** 杀掉卡雷斯，他的家人就安全了吗？
+
+**派蒙:** 对啊！雅克多半已经知道，他被当作杀人工具了，工具完成了使命，也就没用了…
+
+**娜维娅:** 所以，雅克更可能的做法是，放弃杀人的计划，向我的老爹请求帮助。
+
+「第三个人」才是事态恶化的导火索。
+
+**娜维娅:** 有道理，可惜这只是我们的推理，没有证据能够支持…
+
+**娜维娅:** 除了雅克的动机，警卫机关的事也让我很在意。
+
+**娜维娅:** 原始胎海之水的秘密公之于众之后，对方的行动显然急躁了很多。
+
+**派蒙:** 他不会当场就反应过来，我们会紧咬不放了吧？
+
+**娜维娅:** 如此看来，那个人可能的确想到了这一步。
+
+**娜维娅:** 那么问题就是，被迈勒斯圈定的三个人里，有谁能够控制私有的警卫机关呢？
+
+- **旅行者:** 弗洛朗。
+
+- **旅行者:** 蒂埃里。
+
+- **旅行者:** 玛塞勒。
+
+**娜维娅:** 弗洛朗吗？他和我的父亲走得最近，最容易知道雅克的内应身份，这是没错…
+
+**娜维娅:** 但作为帮派的参谋，他负责人事与治安方面的工作，并不涉及财务。
+
+**派蒙:** 哦，简单来说就是，他没钱？
+
+**娜维娅:** 嗯，感觉不太可能一下子派出那么多警卫机关。
+
+**娜维娅:** 蒂埃里吗？说不定他确实有把警卫机关转为私用的本事…
+
+**娜维娅:** 可是他和我们说警卫机关的事的时候不像是在说谎，他也不可能说谎。
+
+**派蒙:** 是啊，说谎的话，我们去警备队查一查就知道了。
+
+**派蒙:** 要是有警卫机关丢了，很容易就能查到。
+
+**娜维娅:** 玛塞勒伯伯？唔，我老爹很信任他，生前和他有很多合作，或许他能借此了解雅克的身份。
+
+**娜维娅:** 以卡布里埃商会的财力，似乎也有可能购买足够数量的警卫机关…
+
+**娜维娅:** 可是，太难想象了，玛塞勒伯伯是看着我长大的人…
+
+**娜维娅:** 而且他一直都在花费摩拉和精力，与自己的「乐斯」生意对抗？
+
+或许是其他人…
+
 #### 前往沫芒宫
 
 **迈勒斯:** 老板没有告诉你，他得了一种罕见的病症，医生说他的剩余寿命不会超过五年。
@@ -7677,3 +7761,53 @@ There must be more to this than meets the eye.
 **派蒙:** 好吧好吧，的确如此。
 
 **派蒙:** 欸，我才注意到…雨好像停了呢。
+
+#### (test)(hide)墓地隐藏控制时间
+
+**派蒙:** 这里有什么，看上去像是做研究的地方。
+
+**派蒙:** 「第十六号实验，旨在对雅各布·英戈德的原始胎海研究结论进行验证与突破…」
+
+**派蒙:** 「实验失败，原始胎海之水中并未有人浮现，二十二、二十三、二十四号少女被溶解」…
+
+**派蒙:** 呜哇啊啊啊啊啊——！
+
+冷静点，派蒙。
+
+**派蒙:** 对、对不起，我尽量，我没有读过这么吓人的东西…
+
+**派蒙:** 怎么会有人用冷冰冰的句式，写下这么恐怖的话啊！
+
+**派蒙:** 给、给你看吧，我不敢看后面了。
+
+- **旅行者:** 研究者的目的…
+
+- **旅行者:** 是拯救被溶解的恋人，薇涅尔。
+
+**派蒙:** 所以才做了这么多的实验…
+
+**派蒙:** 他以为不断重复溶解的过程就能找到办法吗？他也太疯狂了！
+
+- **旅行者:** 这里写着…
+
+- **旅行者:** 「瓦谢」。
+
+**派蒙:** 欸，这不就是你在喷泉旁听到的那个名字嘛，我记得…是溶解的目击者。
+
+- **旅行者:** 不。
+
+- **旅行者:** 是实验者。
+
+**派蒙:** 啊…瓦谢是，实验者？做这个实验的人？
+
+- **旅行者:** 嗯，很多实验报告都有他的签字。
+
+- **旅行者:** 喷泉里的声音，应该就是「薇涅尔」。
+
+**派蒙:** 原来是这样…那也就是说，瓦谢不是受害者，是他亲手把自己的恋人给…
+
+**派蒙:** 也不对，如果是这样那他就没必要救人了。
+
+背后应该还有隐情。
+
+**派蒙:** 好、好的，总之我记下来…

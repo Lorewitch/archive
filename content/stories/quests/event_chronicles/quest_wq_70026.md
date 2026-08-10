@@ -1,0 +1,631 @@
+# id: quest_wq_70026
+# story_group: event_chronicles
+# title_ru: Путешествие на Цуруми
+# title_en: Journey to Tsurumi
+# title_zh: 鹤观之行
+# region: Тейват
+# game_version: 2.2
+# release_versions: 2.2
+# source_id: 70026
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 70026
+# previous_quests:
+# next_quests: quest_wq_70027
+# related_quests: quest_wq_70027,quest_wq_70028,quest_wq_70029
+# quest_chain: quest_wq_70026,quest_wq_70027,quest_wq_70028,quest_wq_70029
+# quest_series: Shadow of the Ancients
+# version_source: wiki_release_category
+
+## RU
+
+### Путешествие на Цуруми
+
+Катерина из Гильдии искателей приключений ломает голову над одним поручением...
+
+#### Поговорите с Катериной
+
+**Катерина:** Привет, путешественни(ца)(к). Вот мы и встретились снова.
+
+**Катерина:** Последнее время твоя статистика по выполненным поручениям просто великолепна. Можно даже без преувеличения сказать, что ты - звезда нашей Гильдии.
+
+- **Путешественник:** Ой, ты мне льстишь...
+
+- **Путешественник:** Давай к делу уже.
+
+**Катерина:** Наша инадзумская Гильдия искателей приключений поддерживает связи с филиалами по всему Тейвату. Так что не надо скромности, нам хорошо известно о твоих подвигах в Мондштадте и Ли Юэ.
+
+**Катерина:** Ха-ха, а ты и правда такой прямодушный / такая прямодушная, как они говорят.
+
+**Катерина:** Мы хотели бы предложить тебе взяться за сравнительно простое задание. Надо разведать местность на острове Цуруми.
+
+**Катерина:** Погода на Цуруми довольно необычная, большую часть года он покрыт туманами. Но так как это только разведка, то большой опасности нет.
+
+**Катерина:** Гильдия уже поручала это задание одному довольно опытному искателю приключений, но он как туда прибыл, так сразу же вернулся и отказался от поручения.
+
+**Катерина:** Он и не объяснил ничего, сказал только, что его умений недостаточно и он отказывается от задания.
+
+**Катерина:** Но после него за это задание долго никто не брался. Заказчик много раз уже приходил и спрашивал...
+
+**Катерина:** И тогда я подумала, что если послать ещё более опытного искателя приключений с ещё более выдающимися навыками выживания, то он, конечно, сможет выполнить это поручение.
+
+**Катерина:** И я вспомнила о тебе. Путешественни(ца)(к), что скажешь?
+
+- **Путешественник:** Звучит как-то подозрительно.
+
+- **Путешественник:** Я подумаю...
+
+**Катерина:** Твои сомнения можно понять. То, что предыдущий исполнитель отказался, действительно, очень странно...
+
+**Катерина:** Остров Цуруми безлюден, и Гильдия очень мало о нём знает.
+
+**Катерина:** Ты волнуешься, что там может ожидать какая-то неизвестная опасность?
+
+**Катерина:** На самом деле, некоторые искатели приключений тоже по этой причине отказались...
+
+**Катерина:** Ну, если уж на то пошло, мы можем пойти на компромисс и немного понизить требования.
+
+**Катерина:** Если столкнёшься в зоне исследования с какой-либо опасностью, то сразу возвращайся за помощью. Не стоит слишком стараться полностью завершить исследование.
+
+**Катерина:** Ах да, заказчик - это учёный из Академии Сумеру. Он хотел изучить климат Цуруми, но в процессе исследований столкнулся с некоторыми трудностями.
+
+**Катерина:** Поэтому он и прислал поручение. Если не ошибаюсь, он выделил большую часть своего исследовательского гранта, так что награда за поручение довольно приличная...
+
+- **Путешественник:** Я берусь.
+
+- **Путешественник:** Попробовать можно...
+
+**Катерина:** Прекрасно, что ты согласился / согласилась взять поручение. Давай я отмечу тебе место для исследования.
+
+**Катерина:** Пожалуйста, будь осторожен / осторожна во время исследования. Успехов тебе.
+
+**Катерина:** К звёздам и к безднам!
+
+#### Исследуйте указанное место
+
+**Катерина:** С возвращением, путешественни(ца)(к). Как всё прошло?
+
+О бессмертном руинном молотильщике...
+
+**Катерина:** Странный руинный молотильщик, который оживает, сколько раз бы его ни убивали... О таком заказчик не упоминал.
+
+**Катерина:** Неудивительно, что тот искатель приключений был так подавлен. Должно быть, это молотильщик ему так нервы истрепал.
+
+**Катерина:** О таких вещах надо заранее сообщать...
+
+**Катерина:** Я ведь специально ему говорила, что детали поручения надо писать подробно и честно. Как господин Хуссени мог так поступить?
+
+**Катерина:** Ошибки, недомолвки... Последнее время всё больше поручений с такими описаниями. Как нам теперь задания распределять? В самом-то деле...
+
+- **Путешественник:** Нелегко тебе...
+
+- **Путешественник:** Это тоже ведь часть приключения.
+
+**Катерина:** Я-то ещё ничего. Просто хочется, чтобы заказчики чётко доносили до Гильдии свои потребности.
+
+**Катерина:** Получается, моё общение с заказчиками как представителя Гильдии - это тоже часть приключения...
+
+**Катерина:** Прошу прощения... Я заговорилась.
+
+**Катерина:** Короче говоря, я считаю, что самое разумное и простое решение - это найти заказчика и прямо объяснить ему ситуацию с бессмертным молотильщиком.
+
+**Катерина:** Тогда мы узнаем, может ли он принять такие результаты исследования. Если этого недостаточно, то надо уже вместе с ним думать, как решить этот вопрос.
+
+**Катерина:** Я, со своей стороны, буду внимательно вести записи. Если это поручение продолжится, то Гильдия окажет тебе любую помощь.
+
+Понятно.
+
+**Катерина:** Ну тогда поговори, пожалуйста, с господином Хуссени.
+
+#### Расспросите Хуссени
+
+**Хуссени:** Исследование на Цуруми...
+
+- **Путешественник:** Привет.
+
+- **Путешественник:** Мы снова встретились.
+
+**Хуссени:** А, я как раз только получил отчёт от Гильдии и думал, а не ты ли взял(а) это поручение. Всё-таки ты!
+
+Это исследование...
+
+**Хуссени:** Эх, я знаю, о чём ты. Мисс Катерина мне уже всё высказала... Я уже примерно понял ситуацию.
+
+**Хуссени:** В районе для исследования вы столкнулись с бессмертным молотильщиком, да?
+
+- **Путешественник:** Верно.
+
+- **Путешественник:** И ты об этом не знал?
+
+**Хуссени:** Ну я видел этого молотильщика, но я правда не знал, что он может оживать.
+
+**Хуссени:** Когда я прибыл в Инадзуму, меня заинтересовали разговоры о вечно туманном острове Цуруми, и я отправился исследовать его.
+
+**Хуссени:** Загадочный туман, покрывший остров, - благодатная почва для исследования. Но все мои попытки проникнуть вглубь Цуруми закончились неудачей. Вообще никакого прогресса не сделал...
+
+**Хуссени:** И вот когда я об этом думал, я обнаружил остров, на котором тумана не было. Зато был руинный молотильщик.
+
+**Хуссени:** Но к такому я был не готов и поэтому вскоре после прибытия мне пришлось в спешке покинуть остров. Так что руинного охотника я видел, но подробно его не разглядел.
+
+**Хуссени:** Я не хотел никого обманывать. А вообще неожиданные ситуации - это ведь неотъемлемая часть и исследований, и приключений, разве нет?
+
+**Хуссени:** Вообще я подумал, и у меня есть идея, как справиться с этой неожиданностью.
+
+**Хуссени:** У меня вот какое предположение: у этого молотильщика есть встроенный модуль самопочинки, а также некий внешний источник энергии, и они поддерживают все его системы в рабочем состоянии.
+
+**Хуссени:** Он намного сложнее, чем обычные руинные молотильщики. Мы даже можем предположить, что это особая аномальная модель!
+
+**Хуссени:** Руинные молотильщики - это автономные машины, работающие на ядрах Хаоса. Как только ядро будет повреждено, машина потеряет способность двигаться.
+
+**Хуссени:** Но эта модель отличается от других. Энергия поступает из внешнего источника, которым, по моему глубокому убеждению, могут быть артерии земли.
+
+**Хуссени:** У меня есть некоторый опыт в изучении того, как древние цивилизации использовали энергию. Согласно текстам, когда-то существовали машины, которые могли функционировать бесконечно.
+
+**Хуссени:** Если записи достоверны, то этот особый экземпляр мог быть важным продуктом исследований древних в области энергии.
+
+**Хуссени:** Мы должны остановить его и провести детальное исследование внутренних механизмов.
+
+Есть идеи, как это сделать?
+
+**Хуссени:** Есть примерно... три идеи. Две из них имеют довольно низкие шансы на успех.
+
+**Хуссени:** Дай подумать... Ах! Точно! Это должно сработать!
+
+**Хуссени:** Перед приездом в Инадзуму я договорился об отправке нескольких реликвий, которые могут послужить материалом для исследований по нескольким новым темам.
+
+**Хуссени:** Мои соотечественники буквально только что передали мне эти реликвии.
+
+**Хуссени:** Среди них есть несколько древних инструментов, известных как шипы Пурсины. Теоретически их можно использовать для нарушения потока энергии по артериям земли. Тогда мы сможем прекратить подачу энергии к этой модели руинного молотильщика.
+
+**Хуссени:** Не знаю, что именно случилось, но данный комплект шипов Пурсины, кажется, имеет небольшие проблемы с функционированием. Возможно, это результат неправильной транспортировки.
+
+- **Путешественник:** Что нам теперь делать?
+
+- **Путешественник:** ...
+
+**Хуссени:** Непредвиденные обстоятельства - неотъемлемая часть исследований, не так ли? Просто нужно свыкнуться с ними.
+
+**Хуссени:** Я подумал, раз уж нам обоим нужны эти шипы, мы можем объединить усилия и починить их.
+
+- **Путешественник:** Такое ощущение, что меня просто используют.
+
+- **Путешественник:** А это точно сработает?
+
+**Хуссени:** Вряд ли это можно так назвать. У нас ведь одна цель?
+
+**Хуссени:** Я не причиню другим вреда ради собственной выгоды. И уж тем более не сделаю ничего, что может запятнать репутацию Академии.
+
+**Хуссени:** Я никогда не пользовался шипами Пурсины, но основные принципы, лежащие в основе их работы, академически доказаны и теоретически не могут быть нарушены.
+
+**Хуссени:** Даже если ты не веришь в меня, верь в силу науки!
+
+Хорошо, я поверю тебе.
+
+**Хуссени:** Замечательно! Тогда будем считать наше партнёрство состоявшимся.
+
+**Хуссени:** Основная сложность починки шипов Пурсины заключается в специфических материалах компонентов, что делает их довольно сложными для массового производства.
+
+**Хуссени:** Обычно мы просто используем идентичные детали от других реликвий для их ремонта.
+
+**Хуссени:** К счастью, эти компоненты довольно часто встречаются в древних реликвиях. Фактически, ты можешь найти их в подземных реликвиях повсеместно.
+
+**Хуссени:** Конечно, не стоит беспокоиться о том, что тебе не удастся найти эти древние реликвии. У нас есть удобный инструмент для повышения эффективности поиска.
+
+**Хуссени:** Это устройство известно как Старатель хаоса Айеши. Детали его функционирования довольно сложны, поэтому я не буду вдаваться в подробности.
+
+**Хуссени:** В общем, Старатель хаоса Айеши сообщит тебе, когда обнаружит древнюю реликвию или искажение энергии артерии земли с... довольно приличной точностью.
+
+**Хуссени:** Наша первостепенная задача на данный момент - использовать его для поиска компонентов, спрятанных глубоко под землёй. Как только мы найдём достаточно компонентов, можно будет начать ремонт.
+
+**Хуссени:** Эта работа по сбору займёт несколько дней, но нам нужно набраться терпения и действовать планомерно.
+
+**Хуссени:** Хорошо. Если теперь тебе ясно, что нам нужно сделать, тогда попробуем запустить эту машину!
+
+## EN
+
+### Journey to Tsurumi
+
+Katheryne of the Adventurers' Guild is currently puzzling over a certain commission...
+
+#### Talk to Katheryne
+
+**Katheryne:** Hello there, Traveler. We meet again.
+
+**Katheryne:** Your recent commission completion record has been stellar indeed. Why, I'd even say you're one of our star adventurers.
+
+- **Traveler:** You're too kind.
+
+- **Traveler:** Alright then, so, what's the job?
+
+**Katheryne:** We of the Inazuma Adventurers' Guild are normally in contact with the other branches throughout Teyvat. As such, there is no need for you to be so humble. Your exploits in Mondstadt and Liyue are known to us.
+
+**Katheryne:** Haha, you are as direct as they say.
+
+**Katheryne:** Actually, we'd like you to consider working on a relatively simple investigation. The area to be investigated is on Tsurumi Island.
+
+**Katheryne:** The weather on the island can be considered quite unique, and it is shrouded in fog all year around. However, investigations should still be relatively safe to conduct.
+
+**Katheryne:** The Guild normally sends more experienced adventurers to take up this task, but this time, the adventurer we sent canceled the commission soon after arriving on Tsurumi Island.
+
+**Katheryne:** He did not elaborate much as to his reasons; he just hurriedly explained that it was beyond his abilities and that he was giving it up.
+
+**Katheryne:** But after this adventurer forfeited, this commission ended up idling here for quite a while without anyone to take it up. The commissioning party has asked after it several times already...
+
+**Katheryne:** Well then, I thought, we should probably send an adventurer with exceptional survival skills and experience, and have them complete this commission.
+
+**Katheryne:** That was when you came to mind. So, what do you say, Traveler?
+
+- **Traveler:** This all seems a little fishy.
+
+- **Traveler:** Let me consider it...
+
+**Katheryne:** That's an understandable perspective. That the previous adventurer canceled on us was quite unexpected indeed...
+
+**Katheryne:** Tsurumi Island is quite far off the beaten track, and the Guild knows precious little about it.
+
+**Katheryne:** Are you worried that there might be unknown dangers along the way?
+
+**Katheryne:** To be honest, some adventurers did reject this commission on that account as well...
+
+**Katheryne:** Well, we can work around this and decrease the commission's requirements a little.
+
+**Katheryne:** If you should encounter any particularly pernicious dangers along the way, you can return to ask for help. There's no need to obsess over completing this investigation.
+
+**Katheryne:** Ah, yes. By the way, the person who posted this commission appears to be a researcher from the Sumeru Akademiya. He originally intended to investigate the weather on Tsurumi Island, but ran into some problems during the research process.
+
+**Katheryne:** That's why he posted this commission. If I'm not mistaken, he has forked out the lion's share of his research grant, so the rewards should be quite sizable...
+
+- **Traveler:** I'll take it.
+
+- **Traveler:** Well, let's give this a go then, shall we?
+
+**Katheryne:** Well then, thank you for your willingness to take up this commission. Allow me to show you where to begin.
+
+**Katheryne:** Please do stay safe as you investigate, however. I wish you all the best.
+
+**Katheryne:** Ad astra abyssosque!
+
+#### Go to the designated location to investigate
+
+**Katheryne:** Welcome back, Traveler. What did you find?
+
+So, we met this Ruin Grader that won't stay dead...
+
+**Katheryne:** A strange Ruin Grader that keeps getting back up no matter how many times it is brought down... The person who commissioned this quest didn't say a thing about this.
+
+**Katheryne:** No wonder that previous adventurer looked so upset. They must've been stumped by that strange Ruin Grader.
+
+**Katheryne:** ...We should really be informed of such things ahead of time...
+
+**Katheryne:** I'm sure that I reminded Mr. Hosseini that he should be honest and clear when stating the details of the commission. How could he do something like this?
+
+**Katheryne:** Unclear wording, missing content, it seems that more and more people are writing commissions this way. How are we supposed to give adventurers work like this? Seriously...
+
+- **Traveler:** Sounds like it's been rough for you...
+
+- **Traveler:** This is part of the whole adventuring process, isn't it?
+
+**Katheryne:** I'm alright, at least. I just wish that the people posting commissions would communicate their needs to the Guild more clearly.
+
+**Katheryne:** Well, so is my serving as the intermediary between the guild and the people who post our commissions.
+
+**Katheryne:** ...My apologies, I spoke out of turn.
+
+**Katheryne:** Regardless, I believe that the best and least costly way to solve this is to make contact with the person who submitted this commission directly and explain the situation with the reviving Ruin Grader to him.
+
+**Katheryne:** We shall see if he can accept the investigation results as they are and, if he believes that we can continue investigating, whether he has any way of solving the problem or not.
+
+**Katheryne:** All I can do is record matters as best as I can. If this commission is to continue, I will do my best to support you all the same.
+
+Got it.
+
+**Katheryne:** In that case, I leave the matter of contacting Mr. Hosseini to you.
+
+#### Ask Hosseini some questions
+
+**Hosseini:** My research on Tsurumi Island...
+
+- **Traveler:** Well hello there.
+
+- **Traveler:** We meet again.
+
+**Hosseini:** Ahh, I just received a status report from the Adventurers' Guild, and was just wondering if the one who had taken the commission up was you. So it was!
+
+This investigation commission...
+
+**Hosseini:** *sigh* I know what you're going to say. Miss Katheryne was just haranguing me back there. I told her that I now understand the situation... More or less.
+
+**Hosseini:** Would it be correct to say that you encountered a Ruin Grader with regenerative powers at the investigation area?
+
+- **Traveler:** That's right.
+
+- **Traveler:** And you know nothing about that?
+
+**Hosseini:** Well, I have seen that Ruin Grader, but I didn't know that it could revive itself.
+
+**Hosseini:** When I came to Inazuma, I was fascinated by the ever-foggy Tsurumi Island. I even went to investigate it personally.
+
+**Hosseini:** The mysterious fog that lies over the island is fertile ground for research. However, each one of my attempts to go deeper into the island have ended in abject failure. I haven't made any progress at all...
+
+**Hosseini:** It was just as I was thinking on this that I discovered an island that was not shrouded in fog, and that Ruin Grader.
+
+**Hosseini:** However, I wasn't sufficiently prepared for such an encounter, so I had to leave in a hurry soon after coming ashore on that island. So, though I did see that Ruin Grader, I didn't get a good look at it.
+
+**Hosseini:** I didn't mean to deceive anyone, and honestly, encountering unknown circumstances is part of both research and adventuring, is it not?
+
+**Hosseini:** That said, I did give it some thought, and as it turns out, I do have some idea as to what might have happened here.
+
+**Hosseini:** Here's my hypothesis: I believe this Ruin Grader to have some kind of self-repair module built into it. It should also have some kind of external power source that allows it to function normally.
+
+**Hosseini:** It is significantly more advanced than the usual Ruin Graders you'll meet. We could consider it a special anomalous model, even!
+
+**Hosseini:** Ruin Graders are autonomous machines powered by Chaos Cores. Once these cores are damaged, the machines will lose the ability to move on their own power.
+
+**Hosseini:** But this anomalous model is different. Its power comes from an external source, which I strongly believe might be the ley lines.
+
+**Hosseini:** I do have some experience in the study of how ancient civilizations utilized energy. According to the texts, there were once machines that could function in perpetuity.
+
+**Hosseini:** If such records are reliable, this special Ruin Grader could have been an important product of the ancients' research into energy.
+
+**Hosseini:** We need to stop it somehow and conduct detailed research into its inner workings.
+
+Any ideas?
+
+**Hosseini:** Well, we have about... three solutions, I think. Two of which have rather slim odds of working out.
+
+**Hosseini:** Let me think... Ah! Right! This'll do.
+
+**Hosseini:** Before coming to Inazuma, I did arrange to have a few relics shipped along to serve as research material on a few new topics.
+
+**Hosseini:** Not long before you came over, my countrymen managed to get them delivered to me.
+
+**Hosseini:** Among them are a few ancient tools known as Pursina's Spikes. In theory, they can be used to disrupt the flow of ley line energies, which can be used to cut the flow of power to this anomalous Ruin Grader model.
+
+**Hosseini:** Unfortunately, this set of Pursina's Spikes seems a little faulty at the moment. The result of a bumpy voyage, perhaps.
+
+- **Traveler:** And our solution to this new problem?
+
+- **Traveler:** ...
+
+**Hosseini:** Oh, come on, unforeseen circumstances are part and parcel of research, aren't they? We just need to, uh, get used to them...
+
+**Hosseini:** So I was thinking, since we both need those Spikes, we can team up to get them repaired.
+
+- **Traveler:** You know what? I feel used.
+
+- **Traveler:** Are you sure the Spikes will work?
+
+**Hosseini:** Come now, don't say that. Let's call it an "alignment of objectives" instead, shall we?
+
+**Hosseini:** Anyway, I will not do you harm for my own benefit. I will not drag the Akademiya's good name through the mud.
+
+**Hosseini:** Well, I've never actually used Pursina's Spikes before, but their basic principles have been rigorously proven. Things should not go wrong — in theory.
+
+**Hosseini:** Even if you do not believe in me, have faith in the power of science!
+
+Alright, I'll have faith.
+
+**Hosseini:** Wonderful! Here's to our partnership, then.
+
+**Hosseini:** The key difficulty in maintaining Pursina's Spikes lies in the specific materials used in its components, which makes them quite difficult to mass-produce.
+
+**Hosseini:** Usually, we just cannibalize identical parts from other old relics to repair them.
+
+**Hosseini:** Fortunately, these components are rather common in ancient relics. In fact, you could probably find them wherever such artifacts may be found.
+
+**Hosseini:** Of course, you need not worry about not being able to find those ancient relics. We do, after all, have a handy tool to improve the efficiency of our search.
+
+**Hosseini:** This device here is known as Ayesha's Chaos Prospector. The details of how it works can be quite complicated, so I shan't elaborate here.
+
+**Hosseini:** In sum, Ayesha's Chaos Prospector will notify you when you have discovered an ancient relic or a ley line energy distortion with... pretty decent accuracy, really.
+
+**Hosseini:** Our most urgent task at the moment is to use it to find components hidden deep underground. Once we've found enough components, the maintenance process can begin.
+
+**Hosseini:** This collection work will take several days, but we do need to have patience and to proceed steadily.
+
+**Hosseini:** Alright then. If you understand what we need to do, then try putting this glorious machine to work!
+
+## ZH
+
+### 鹤观之行
+
+冒险家协会的凯瑟琳小姐正在为一项委托犯愁…
+
+#### 与凯瑟琳对话
+
+**凯瑟琳:** 你好，旅行者，我们又见面了。
+
+**凯瑟琳:** 你最近的委托接取和完成记录都非常漂亮，说是冒险家协会的明星会员也不为过。
+
+- **旅行者:** 哪里哪里。
+
+- **旅行者:** 有话直说。
+
+**凯瑟琳:** 我们冒险家协会稻妻分会和其他分会平时就有交流，你在蒙德和璃月的事迹我们都听说了，你就不用谦虚了。
+
+**凯瑟琳:** 你果然和传说中的一样，是个爽快的人呀。
+
+**凯瑟琳:** 这次请你过来，其实是想请你考虑一份比较简单的调查委托，需要调查的区域位于鹤观。
+
+**凯瑟琳:** 虽说鹤观地区的天气比较特别，经常有大雾笼罩，但只是进行调查任务的话，应该不会有太大危险。
+
+**凯瑟琳:** 协会曾经将这份委托分派给一位比较有经验的冒险家，但这位冒险家前往鹤观后，很快就回来取消了委托。
+
+**凯瑟琳:** 他也未做过多说明，只是匆忙说明自己能力有限，放弃了这个委托。
+
+**凯瑟琳:** 可是在他之后，这份委托挂了很久也没有人接，委托人也来问了很多次…
+
+**凯瑟琳:** 所以我想，如果请一位生存能力优更优秀、冒险经验也更丰富的冒险家，应该能完美解决这份委托。
+
+**凯瑟琳:** 于是我想到了你。旅行者，你觉得怎么样呢？
+
+- **旅行者:** 感觉有些可疑。
+
+- **旅行者:** 我想想…
+
+**凯瑟琳:** 你这么想我也能够理解，那位冒险家的放弃也在我们意料之外…
+
+**凯瑟琳:** 鹤观向来人迹罕至，协会对那里的情况了解的不多。
+
+**凯瑟琳:** 你犹豫的理由是委托有未知的危险吗？
+
+**凯瑟琳:** 实话说，其实也有其他的冒险家以相同的原因拒绝过…
+
+**凯瑟琳:** 嗯，既然如此，我们可以变通一下，稍微降低一下要求。
+
+**凯瑟琳:** 你在调查区域遇到难以处理的危险时，可以立即返回协会要求协助，不必执着于完整地调查。
+
+**凯瑟琳:** 说起来，委托人是一位从须弥「教令院」来的学者，据说原本是想来研究鹤观的气候的，但在调研过程中遇到了一些困难。
+
+**凯瑟琳:** 所以才会在这里发布调查任务，这位学者似乎是拿出了一大半的研究经费，委托的报酬是很丰厚的…
+
+- **旅行者:** 我接了。
+
+- **旅行者:** 要试试也不是不行…
+
+**凯瑟琳:** 你愿意接受委托真是太好了，我现在就来帮你把调查地点标记出来。
+
+**凯瑟琳:** 调查的时候请务必注意安全，那么，祝你一切顺利。
+
+**凯瑟琳:** 向着星辰与深渊！
+
+#### 前往指定区域进行调查
+
+**凯瑟琳:** 旅行者，你回来了啊，情况怎么样？
+
+关于「会复活的遗迹重机」…
+
+**凯瑟琳:** 出现在调查区域的奇怪遗迹重机，不管打倒多少次都会重新站起来…这个情况委托人完全没有提过。
+
+**凯瑟琳:** 难怪之前那位冒险家一副不想多提的样子，应该是在那个奇怪的遗迹重机那里吃了亏吧。
+
+**凯瑟琳:** 这种严重影响冒险家生命安全的事，应该早点跟我们说明才是。
+
+**凯瑟琳:** 明明在填写委托内容说明的时候还特别讲了要坦诚清晰的，胡塞尼先生怎么能这样？
+
+**凯瑟琳:** 语焉不详、内容错漏，最近越来越多委托内容说明都是这样，这样叫协会怎么给冒险家分配任务呢，真是的…
+
+- **旅行者:** 你辛苦了…
+
+- **旅行者:** 这也是冒险的一部分吧。
+
+**凯瑟琳:** 我倒还好了，只是希望委托人在前期发布委托时，能够跟协会沟通清楚吧。
+
+**凯瑟琳:** 代表协会和委托人们沟通毕竟是我的工作内容之一，这也是冒险的一部分…吧。
+
+**凯瑟琳:** 不好意思，没忍住就说了这些多余的话。
+
+**凯瑟琳:** 总之，我认为合理的处理办法是由你直接和委托人沟通，直接把「会复活的遗迹重机」的情况告诉他本人，降低沟通成本。
+
+**凯瑟琳:** 看看他是否能接受这样的调查结果，这样还要继续调查的话，委托人本人也应该一起想想解决办法。
+
+**凯瑟琳:** 我这里也会做好情况登记工作，如果这个委托还要继续的话，协会随时都可以为你提供援助。
+
+我明白了。
+
+**凯瑟琳:** 那就辛苦你去和委托人胡塞尼先生谈一谈了。
+
+#### 询问胡塞尼
+
+**胡塞尼:** 鹤观的研究工作…
+
+- **旅行者:** 你好。
+
+- **旅行者:** 我们又见面了。
+
+**胡塞尼:** 哦哦，我刚收到冒险家协会的情况说明时，就在猜接委托的是不是你，果然是你啊。
+
+这次的调查委托…
+
+**胡塞尼:** 唉，我知道你要说什么，凯瑟琳小姐刚刚跟我发了好大一通牢骚，我已经大致明白情况了。
+
+**胡塞尼:** 在我委托你们调查的区域，出现了「会复活的遗迹重机」对吧？
+
+- **旅行者:** 没错。
+
+- **旅行者:** 你完全不知情吗？
+
+**胡塞尼:** 我的确是见过那台遗迹重机，但我真的不知道它能够「复活」呀。
+
+**胡塞尼:** 我来到稻妻之后，对传闻中大雾弥漫的鹤观产生了兴趣，曾经自己去调查过。
+
+**胡塞尼:** 鹤观的迷雾诚不我欺，非常有研究价值。不过，我每次深入鹤观的尝试都失败了，完全没有取得任何进展…
+
+**胡塞尼:** 正当我这么想的时候，我发现了这个不被雾气笼罩的岛屿，以及那台遗迹重机。
+
+**胡塞尼:** 不过因为准备不足，我匆匆登岛之后没能停留太久就离开了，虽然看到过那台遗迹重机，但是没能仔细观察。
+
+**胡塞尼:** 的确不是我故意隐瞒，说实话，冒险和研究一样，总是会有你意料之外的情况出现，不是吗？
+
+**胡塞尼:** 不过，我想了想，我对这次的意外情况并不是完全没有头绪。
+
+**胡塞尼:** 我的推测是：这台遗迹重机搭载有自我修复功能模块，并且有充足的外部能源供应保证它各项功能运转正常。
+
+**胡塞尼:** 它和常见的遗迹重机相比先进了不少，应该是遗迹重机中的特异型号。
+
+**胡塞尼:** 遗迹重机一类的自律机关是通过混沌炉心提供能源的，混沌炉心一旦受损，机体动力不足自然就无法运转了。
+
+**胡塞尼:** 但这台特异体不同，它的能源供应来自外部…这个外部能源我认为极有可能是地脉能量。
+
+**胡塞尼:** 我在古代文明对能源的应用方面还是有些研究的，据文献记载，曾经有能够永远行动下去的自律机关存在。
+
+**胡塞尼:** 如果这个记载可靠，这台特异体很有可能就是古代文明在能源研究方面的重要产物。
+
+**胡塞尼:** 我们得想办法让它停下来，对它进行详细的研究才行。
+
+你有办法吗？
+
+**胡塞尼:** 解决办法有…嗯，至少三种，不过其中两种效率太低。
+
+**胡塞尼:** 我想想，啊，对了，这不是正好吗！
+
+**胡塞尼:** 在来稻妻之前，我新开了几个课题，从院里申请了几件文物作为研究材料。
+
+**胡塞尼:** 这不，你来之前，我的同乡刚刚帮忙把它们送到我手上。
+
+**胡塞尼:** 这其中有几组叫做「普尔希娜光钉」的古代仪器，理论上能够释放扰乱地脉的力量，正好可以用来切断这台特异体的能源供应。
+
+**胡塞尼:** 不过不知道怎么回事，这组「普尔希娜光钉」的功能好像都有点问题，不知道是不是在运输过程中被磕碰了。
+
+- **旅行者:** 那怎么办？
+
+- **旅行者:** ……
+
+**胡塞尼:** 搞科研就是会遇到这种意外情况嘛…哈哈，习惯就好。
+
+**胡塞尼:** 所以我想，既然我们都需要用「普尔希娜光钉」，我们可以尝试合作，一起修好它。
+
+- **旅行者:** 感觉被利用了。
+
+- **旅行者:** 真的会有用吗？
+
+**胡塞尼:** 话可不能这么说呀，我们这是恰好目的一致不是吗？
+
+**胡塞尼:** 而且，损人利己的事我是不会干的，有辱「教令院」的名声。
+
+**胡塞尼:** 虽然我还没有实际使用过「普尔希娜光钉」，但驱动它运行的基本原理是经过学术界验证的，理论上不会出错。
+
+**胡塞尼:** 你可以不相信我，但你要相信科技的力量。
+
+好吧，我相信你。
+
+**胡塞尼:** 太好了，那我们的合作就成立了。
+
+**胡塞尼:** 「普尔希娜光钉」的维修难点在于维修所需的元件材质特殊，很难大量生产。
+
+**胡塞尼:** 一般采取的办法都是以旧修旧，也就是说我们需要收集使用同种元件的古代遗物，利用其中的元件去修复光钉。
+
+**胡塞尼:** 好在这种元件在古代遗物中非常常见，哪里的地下埋藏有古代遗物群，哪里就能找到这种元件。
+
+**胡塞尼:** 当然，你也不用担心找不到古代遗物群，我们有现成的工具来提升效率。
+
+**胡塞尼:** 我交给你的这件工具叫做「阿叶夏混沌勘探器」，具体的运作原理比较复杂，我就不一一解释了。
+
+**胡塞尼:** 总之，「阿叶夏混沌勘探器」会在探测到古代遗物群或者地脉能量异常点时发出提示，勘测准确率…还是比较高的。
+
+**胡塞尼:** 我们的当务之急就是借它来寻找埋藏于地下深处的元件，找到了足够数量的元件我就可以开始维修校准了。
+
+**胡塞尼:** 这项收集工作可能会花费几天时间，但我们要有耐心，要有稳扎稳打的科研精神。
+
+**胡塞尼:** 好了，你理解了的话就可以尝试使用一下这件伟大的工具了。

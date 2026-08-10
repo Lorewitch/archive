@@ -11,7 +11,7 @@
 # chapter_num_en: Yupanqui's Turnfire: Act I
 # chapter_num_zh: 尤潘基的回火 第一幕
 # part_source_ids: 15000
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2053
 # related_quests: quest_lq_2053,quest_lq_2054
 # quest_chain: quest_lq_2052,quest_lq_2053,quest_lq_2054
@@ -166,7 +166,7 @@
 
 **Эндзё:** Я слышал, что был огромный прозрачный огненный шар. И было это пятьсот лет назад. Или тысячу? Может, и того раньше.
 
-**Тоба:** А, ты про Пламя поворота! Древнее имя «Мал{RUBY#[D]Пламя поворота}ипо» как раз из этой истории появилось!
+**Тоба:** А, ты про Пламя поворота! Древнее имя «МалПламя поворотаипо» как раз из этой истории появилось!
 
 **Эндзё:** Ого, так вот откуда взялось древнее имя? Очень впечатляет!
 
@@ -216,7 +216,7 @@
 
 **Тоба:** Конечно! Оно перешло к Буркине, герою, которого мы чествуем в Ночь Пламени поворота. Но это было на пятьсот лет позже.
 
-**Хуни:** Да, а теперь оно принадлежит Киничу... Поэтому мы часто называем его Кинич Мал{RUBY#[D]Пламя поворота}ипо.
+**Хуни:** Да, а теперь оно принадлежит Киничу... Поэтому мы часто называем его Кинич МалПламя поворотаипо.
 
 **Эндзё:** Кинич...
 
@@ -428,7 +428,7 @@ Could you tell us a little bit more about him?
 
 **Enjou:** I heard that there was a huge, transparent ball of fire that used to burn... five hundred years ago? A thousand years ago? Maybe even further back than that.
 
-**Toba:** Oh, you mean Turnfire! That's where the ancient name "Mal{RUBY#[D]Turnfire}ipo" comes from!
+**Toba:** Oh, you mean Turnfire! That's where the ancient name "MalTurnfireipo" comes from!
 
 **Enjou:** Oh, wow, so it was the origin of an ancient name? That's impressive!
 
@@ -478,7 +478,7 @@ Could you tell us a little bit more about him?
 
 **Toba:** Sure has! It went to Burkina, the hero that we celebrate on Turnfire Night. But that was five hundred years ago.
 
-**Huni:** Yeah, and now it belongs to Kinich... So we often call him "Mal{RUBY#[D]Turnfire}ipo" Kinich.
+**Huni:** Yeah, and now it belongs to Kinich... So we often call him "MalTurnfireipo" Kinich.
 
 **Enjou:** Kinich, huh...
 
@@ -690,7 +690,7 @@ Could you tell us a little bit more about him?
 
 **渊上:** 叔叔听说，有一团巨大的透明的火，燃烧在过去五百年、一千年甚至更多不计其数的时间里。
 
-**多巴:** 那个叫回火！古名「马{RUBY#[D]回火}力卜」就是从这个传说里诞生的！
+**多巴:** 那个叫回火！古名「马回火力卜」就是从这个传说里诞生的！
 
 **渊上:** 哇哦，是古名的起源吗？这么厉害？
 
@@ -740,7 +740,7 @@ Could you tell us a little bit more about him?
 
 **多巴:** 当然，比如「回火夜」祭祀的英雄布基纳，不过他是五百年前的人了。
 
-**胡妮:** 嗯，现在这个古名属于基尼奇哥哥…「马{RUBY#[D]回火}力卜」的基尼奇。
+**胡妮:** 嗯，现在这个古名属于基尼奇哥哥…「马回火力卜」的基尼奇。
 
 **渊上:** 基尼奇…
 

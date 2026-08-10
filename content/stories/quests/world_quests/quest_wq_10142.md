@@ -11,7 +11,7 @@
 # chapter_num_en: Ancient Colors: Act I
 # chapter_num_zh: 古老的颜色·第一幕
 # part_source_ids: 74005
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10150
 # related_quests: quest_wq_10146,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_10143,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
 # quest_chain: quest_wq_10142,quest_wq_10146,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_10143,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
@@ -898,7 +898,7 @@
 
 **Жакоб:** Вы действительно хотите услышать ответ или просто проверяете меня?
 
-**Жакоб:** Впрочем, ничто не мешает мне дать честный ответ. Мы оба знаем, что госпожа Мамер «не буд{RUBY#[D]не сможет оказать сопротивления}ет против», если я заберу её краски. В отличие от вас.
+**Жакоб:** Впрочем, ничто не мешает мне дать честный ответ. Мы оба знаем, что госпожа Мамер «не будне сможет оказать сопротивленияет против», если я заберу её краски. В отличие от вас.
 
 **Мамер:** Я такого не говорила! Я больше не стану тебя слушать! Обманщик!
 
@@ -2040,7 +2040,7 @@ Why are you asking me?
 
 **Jakob:** Are you really hoping for an answer? Or are you simply probing about my attitude?
 
-**Jakob:** Regardless, I will answer honestly — you and I both know that Ms. Mamere will{RUBY#[S]cannot} not stop me from obtaining her paints, but that the same cannot be said for you.
+**Jakob:** Regardless, I will answer honestly — you and I both know that Ms. Mamere willcannot not stop me from obtaining her paints, but that the same cannot be said for you.
 
 **Mamere:** I... I never said anything like that! I'm not listening to you, you liar!
 
@@ -3182,7 +3182,7 @@ P型警卫机关，装填动能火炮。
 
 **雅各布:** 您是真的期望得到一个答案，还是在试探我的回答？
 
-**雅各布:** 无论如何，我会以真诚作答。我们彼此都清楚，玛梅赫小姐「不{RUBY#[D]不能}会」阻止我…取得这些颜料，但您不一样。
+**雅各布:** 无论如何，我会以真诚作答。我们彼此都清楚，玛梅赫小姐「不不能会」阻止我…取得这些颜料，但您不一样。
 
 **玛梅赫:** …我…我才没说过那种话！我才不听你的！骗子！
 

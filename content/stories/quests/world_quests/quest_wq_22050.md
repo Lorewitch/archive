@@ -3,19 +3,19 @@
 # title_ru: Следы Наруками
 # title_en: The Narukami Trail
 # title_zh: 鸣神寻踪
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 22050
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 22050
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_22050
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

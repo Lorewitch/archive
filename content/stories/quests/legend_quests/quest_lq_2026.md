@@ -11,11 +11,11 @@
 # chapter_num_en: Taurus Iracundus Chapter: Act I
 # chapter_num_zh: 天牛之章 第一幕
 # part_source_ids: 12009,12025,12026
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2026
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2680,7 +2680,7 @@ Is he always like this?
 
 **派蒙:** 总而言之，就是想让我们去把坏人抓回来吧。
 
-**派蒙:** 放心放心，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}可厉害了，什么对手都不在话下。
+**派蒙:** 放心放心，旅行者空/荧可厉害了，什么对手都不在话下。
 
 **凯瑟琳:** 嗯，不过还是不要鲁莽行动为好，这个人是神之眼的持有者，手下还管理着一个名为「荒泷派」的组织。
 
@@ -3006,7 +3006,7 @@ Is he always like this?
 
 **荒泷一斗:** 啊？你看着本大爷的眼睛，再说一遍？
 
-**派蒙:** 我…{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}接了委托！要把你抓回去！
+**派蒙:** 我…空/荧接了委托！要把你抓回去！
 
 你啊…
 
@@ -3020,9 +3020,9 @@ Is he always like this?
 
 **荒泷一斗:** 对、对啊，哎呀，你看我，找了半天也没找到一只满意的，你再给我点时间吧。
 
-**大辅:** 欸？{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们是谁？也是一斗哥哥的朋友吗？
+**大辅:** 欸？空/荧们是谁？也是一斗哥哥的朋友吗？
 
-**荒泷一斗:** 嗯，对啊，我都让{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们不要过来了，结果{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们还是很担心，哈哈哈。
+**荒泷一斗:** 嗯，对啊，我都让空/荧们不要过来了，结果空/荧们还是很担心，哈哈哈。
 
 **荒泷一斗:** 这就是那什么…啊，「人望」，对，本大爷的「人望」。
 
@@ -3144,9 +3144,9 @@ Is he always like this?
 
 **派蒙:** 欸？
 
-**荒泷一斗:** 我不是说了嘛，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们都是哥哥的朋友…都是「荒泷派」的弟兄们，关系好得很呢。
+**荒泷一斗:** 我不是说了嘛，空/荧们都是哥哥的朋友…都是「荒泷派」的弟兄们，关系好得很呢。
 
-**大辅:** 骗人，「荒泷派」一共才几个人，我每个人都认得，但从来没见过{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们！
+**大辅:** 骗人，「荒泷派」一共才几个人，我每个人都认得，但从来没见过空/荧们！
 
 **大辅:** 一斗哥哥没有干坏事，你们不要抓走他！
 
@@ -3904,7 +3904,7 @@ Is he always like this?
 
 **派蒙:** 嘿嘿，对不起。
 
-**荒泷一斗:** 等等，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们难道是什么了不起的人物吗？
+**荒泷一斗:** 等等，空/荧们难道是什么了不起的人物吗？
 
 没什么了不起的。
 

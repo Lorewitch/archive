@@ -12,9 +12,9 @@
 # chapter_num_zh: 堇庭华彩真说 第四幕
 # part_source_ids: 40058,40059
 # previous_quests: quest_eq_10067
-# next_quests: 
-# related_quests: quest_eq_10065,quest_eq_10066,quest_eq_10067,quest_wq_72278,quest_wq_72279,quest_wq_72280,quest_wq_72281,quest_wq_72685,quest_wq_72686,quest_wq_72687,quest_wq_72688,quest_wq_72689,quest_wq_72690,quest_wq_72691,quest_wq_72692,quest_wq_72693,quest_wq_72698,quest_wq_72699,quest_wq_72720,quest_wq_72721
-# quest_chain: quest_eq_10065,quest_eq_10066,quest_eq_10067,quest_eq_10068,quest_wq_72278,quest_wq_72279,quest_wq_72280,quest_wq_72281,quest_wq_72685,quest_wq_72686,quest_wq_72687,quest_wq_72688,quest_wq_72689,quest_wq_72690,quest_wq_72691,quest_wq_72692,quest_wq_72693,quest_wq_72698,quest_wq_72699,quest_wq_72720,quest_wq_72721
+# next_quests:
+# related_quests: quest_eq_10065,quest_eq_10066,quest_eq_10067
+# quest_chain: quest_eq_10065,quest_eq_10066,quest_eq_10067,quest_eq_10068
 # quest_series: Hues of the Violet Garden || True Tales of the Violet Garden
 # version_source: wiki_release_category
 
@@ -1472,7 +1472,7 @@ So who is Kunikuzushi?
 
 **枫原万叶:** 你是说这些纸和神里小姐之前拿到的那张一样，上面的文字是用特殊的墨水写成的？
 
-**阿贝多:** 我和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的看法一致。
+**阿贝多:** 我和空/荧的看法一致。
 
 **派蒙:** 那我们赶快试试吧！
 

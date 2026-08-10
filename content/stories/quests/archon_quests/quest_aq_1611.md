@@ -12,9 +12,9 @@
 # chapter_num_zh: 空月之歌 第十幕
 # part_source_ids: 6034,6035,6036,6038
 # previous_quests: quest_aq_1609
-# next_quests: 
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# next_quests:
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -638,7 +638,7 @@
 
 **Арадашан:** Давно не виделись, Дендро Архонт, нара Путешественник и белая леталка!
 
-**Нахида:** Вы проделали такой путь, хотя совсем не любите вал{RUBY#[S]жёлтые пески}уку... Непросто вам пришлось. Как дела в Ванаране, всё ли в порядке?
+**Нахида:** Вы проделали такой путь, хотя совсем не любите валжёлтые пескиуку... Непросто вам пришлось. Как дела в Ванаране, всё ли в порядке?
 
 **Арабалика:** Араджа - это васара, васара защищает Ванарану, так что Араджа защищает Ванарану.
 
@@ -980,31 +980,31 @@
 
 **Паймон:** Мастер Шляпка! Подожди! Не так быстро!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пришли. Теперь ждём.
+**Странник:** Пришли. Теперь ждём.
 
 **Паймон:** Ага, хорошо, хорошо...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Паймон, о чём ты думаешь?
+**Странник:** Паймон, о чём ты думаешь?
 
 **Паймон:** А? Паймон ни о чём не думала...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мне всегда казалось, что, кроме новых маршрутов, тебя интересуют только еда и сон. Почему тебе вдруг вздумалось отправиться на опасное задание?
+**Странник:** Мне всегда казалось, что, кроме новых маршрутов, тебя интересуют только еда и сон. Почему тебе вдруг вздумалось отправиться на опасное задание?
 
 **Паймон:** Ну ты даёшь! Между прочим, Паймон участвовала во множестве опасных заданий.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но ни разу ты не действовала в одиночку. Ты редко отходишь от (путешественницы)(путешественника).
+**Странник:** Но ни разу ты не действовала в одиночку. Ты редко отходишь от (путешественницы)(путешественника).
 
 **Паймон:** ...Эм...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Так, к слову пришлось. Сейчас я свободен. Если хочешь порассуждать, я послушаю. А не хочешь - не надо, дело твоё.
+**Странник:** Так, к слову пришлось. Сейчас я свободен. Если хочешь порассуждать, я послушаю. А не хочешь - не надо, дело твоё.
 
 **Паймон:** ...
 
 **Паймон:** Мастер Шляпка... Тебе кажется, что от Паймон совсем нет никакого толку?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Что? Почему ты так решила?
+**Странник:** Что? Почему ты так решила?
 
 **Паймон:** В Нод-Крае Паймон вдруг поняла, что, хотя она всегда рядом с (путешественницей)(путешественником), в минуты настоящей опасности толку от неё немного.
 
@@ -1014,27 +1014,27 @@
 
 **Паймон:** Ты... ты понимаешь? Ну, это чувство, когда кажется, что ты вообще бесполезный... Эх, наверное, всё это звучит ужасно смешно!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты обратилась по адресу. Я прекрасно тебя понимаю.
+**Странник:** Ты обратилась по адресу. Я прекрасно тебя понимаю.
 
 **Паймон:** Мастер Шляпка...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я не буду тебя ни в чём убеждать. Когда человек начинает сомневаться в себе, у него есть только два выбора: сдаться или измениться.
+**Странник:** Я не буду тебя ни в чём убеждать. Когда человек начинает сомневаться в себе, у него есть только два выбора: сдаться или измениться.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пока ты не найдёшь выход из тупика, как бы кто тебя ни утешал, толку не будет.
+**Странник:** Пока ты не найдёшь выход из тупика, как бы кто тебя ни утешал, толку не будет.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Так что... задай себе вопрос: чего я хочу? Стать сильнее? Научиться чему-то? И действуй. Даже если ничего не выйдет, ты сможешь сказать себе, что хотя бы попробовала.
+**Странник:** Так что... задай себе вопрос: чего я хочу? Стать сильнее? Научиться чему-то? И действуй. Даже если ничего не выйдет, ты сможешь сказать себе, что хотя бы попробовала.
 
 **Паймон:** ...Хорошо!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** (...Что-то не так. Они уже должны были прийти.)
+**Странник:** (...Что-то не так. Они уже должны были прийти.)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Паймон, тебе не кажется, вокруг слишком тихо?
+**Странник:** Паймон, тебе не кажется, вокруг слишком тихо?
 
 **Паймон:** Посмотрим...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Подождём ещё час. Если ничего не произойдёт, будем отступать.
+**Странник:** Подождём ещё час. Если ничего не произойдёт, будем отступать.
 
 **Паймон:** Хорошо!
 
@@ -1044,17 +1044,17 @@
 
 **Паймон:** Что такое? Ты что-то придумал?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Что-то здесь не сходится.
+**Странник:** Что-то здесь не сходится.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мы точно знаем, что у шпиона, которого поймал Сайно, был план, но по какой-то причине его связной не явился на встречу. Так что либо организатор пойман, либо, что более вероятно, они решили махнуть рукой на нашего парня.
+**Странник:** Мы точно знаем, что у шпиона, которого поймал Сайно, был план, но по какой-то причине его связной не явился на встречу. Так что либо организатор пойман, либо, что более вероятно, они решили махнуть рукой на нашего парня.
 
 **Паймон:** Но... откуда им было знать, что делать? И не логичнее ли послать кого-то сюда, чтобы проверить?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В этом-то и проблема. Они не могли узнать о том, что здесь происходит. Если только...
+**Странник:** В этом-то и проблема. Они не могли узнать о том, что здесь происходит. Если только...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** До чего знакомое ощущение... Ладно, нам пора назад.
+**Странник:** До чего знакомое ощущение... Ладно, нам пора назад.
 
 #### Поговорите с Нахидой
 
@@ -1204,19 +1204,19 @@
 
 **Херишеф:** Греховное древо тянется к небесам...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Кстати, о Дотторе, у меня есть кое-какая новая информация.
+**Странник:** Кстати, о Дотторе, у меня есть кое-какая новая информация.
 
 *Странник рассказывает о том, как они с Паймон отправились на место встречи, но так никого и не дождались.*
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я решил не говорить об этом снаружи. Но моя догадка такова: предателя бросили не из-за того, что он угодил к нам. От него отказались с самого начала.
+**Странник:** Я решил не говорить об этом снаружи. Но моя догадка такова: предателя бросили не из-за того, что он угодил к нам. От него отказались с самого начала.
 
 **Сайно:** Ты хочешь сказать, что Фатуи вообще не собирались доводить дело до конца? Но тогда зачем было внедрять предателя?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да, они воспользовались необычной стратегией. И логика, которая скрывается за их действиями, весьма запутанна.
+**Странник:** Да, они воспользовались необычной стратегией. И логика, которая скрывается за их действиями, весьма запутанна.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но так случилось, что я знаком с человеком, которому очень нравится поступать подобным образом. И цель его обычно очень проста... он хочет ввести людей в замешательство и сделать так, чтобы никто не мог понять его намерений.
+**Странник:** Но так случилось, что я знаком с человеком, которому очень нравится поступать подобным образом. И цель его обычно очень проста... он хочет ввести людей в замешательство и сделать так, чтобы никто не мог понять его намерений.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Он с самого начала был сообщником Дотторе. Одно это доказывает, что без Дотторе здесь не обошлось.
+**Странник:** Он с самого начала был сообщником Дотторе. Одно это доказывает, что без Дотторе здесь не обошлось.
 
 *Услышав это имя, кто-то изумлённо вздохнул, кто-то замолчал. Ситуация оказалась серьёзнее, чем можно было представить.*
 
@@ -1244,7 +1244,7 @@
 
 **Сетос:** Такие дела лучше поручать самым быстроногим, верно, Мастер Шляпка?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если оценивать эффективность, мы те, кто вам нужен.
+**Странник:** Если оценивать эффективность, мы те, кто вам нужен.
 
 **Нафис:** Что касается устройства усиления силы элементов, о котором мы говорили... госпожа Дори, пожалуй, после госпожи Дендро Архонта вы лучше всех осведомлены о ходе работ по этому проекту.
 
@@ -1284,7 +1284,7 @@
 
 Хорошо. Мы сделаем всё, что от нас зависит.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Берегите свои силы. Это касается всех.
+**Странник:** Берегите свои силы. Это касается всех.
 
 **Сайрус:** Точно! Особенно вы, госпожа Дендро Архонт, вы сейчас ещё очень слабы.
 
@@ -1378,13 +1378,13 @@
 
 **Сайно:** Держаться вместе, в строю!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мы что, в учебном лагере? Перестань.
+**Странник:** Мы что, в учебном лагере? Перестань.
 
 **Сетос:** Сайно всегда такой, ты же знаешь.
 
 **Сайно:** Помните нашу цель? Найти лишние первозданные конструкции, разобрать их и извлечь необходимые материалы.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Семь столпов царя Дешрета не возражали?
+**Странник:** Семь столпов царя Дешрета не возражали?
 
 **Сайно:** Тот сказал: они всё равно лежат там без дела, так от них будет хоть какой-то толк.
 
@@ -1402,7 +1402,7 @@
 
 #### Соберите необходимые материалы в гробнице царя Дешрета
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Спокойной ночи, успехов тебе завтра.
+**Странник:** Спокойной ночи, успехов тебе завтра.
 
 **Хайпасия:** Спасибо, Мастер Шляпка. Тебе того же.
 
@@ -1424,7 +1424,7 @@
 
 **Сайно:** Академия называла Акашу самой мощной и совершенной системой распространения мудрости за всю историю. Можешь представить, насколько она эффективна.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да, звучит круто.
+**Странник:** Да, звучит круто.
 
 **Сетос:** У нас с Мастером Шляпкой никогда не было терминалов.
 
@@ -1860,11 +1860,11 @@
 
 **Нахида:** Похоже, есть ещё один человек, который разделяет наши взгляды.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вас не должно заботить, что я думаю. Я просто проходил мимо и услышал ваш разговор.
+**Странник:** Вас не должно заботить, что я думаю. Я просто проходил мимо и услышал ваш разговор.
 
 **Паймон:** Мастер Шляпка, мы на самом верху! Как ты мог «просто проходить мимо»?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Почему бы и нет? Ты ведь умеешь летать, я не думал, что тебе тоже придётся это объяснять.
+**Странник:** Почему бы и нет? Ты ведь умеешь летать, я не думал, что тебе тоже придётся это объяснять.
 
 ...Почему-то теперь я чувствую себя немного спокойнее.
 
@@ -2170,37 +2170,37 @@
 
 **Хайпасия:** Прошу прощения, я так спешила, не посмотрела, куда иду... С тобой всё в порядке?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм, ничего страшного.
+**Странник:** Хм, ничего страшного.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты...
+**Странник:** Ты...
 
 **Хайпасия:** Мы знакомы?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не совсем. Но мы могли видеть друг друга у Дома даэны.
+**Странник:** Не совсем. Но мы могли видеть друг друга у Дома даэны.
 
 **Хайпасия:** Хм... А! Ты ведь Мастер Шляпка из Вахуманы, верно?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Как ты меня узнала?
+**Странник:** Как ты меня узнала?
 
 **Хайпасия:** Отгадка кроется в твоём имени, господин Мастер Шляпка.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Справедливо...
+**Странник:** Справедливо...
 
 **Хайпасия:** Хе-хе, так поздно. Почему же ты ещё на ногах?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Тот же самый вопрос можно задать и тебе. Если я не ошибаюсь, вся работа, которую должны были выполнить учёные из Ртавахиста, давно сдана.
+**Странник:** Тот же самый вопрос можно задать и тебе. Если я не ошибаюсь, вся работа, которую должны были выполнить учёные из Ртавахиста, давно сдана.
 
 **Хайпасия:** У меня есть некоторый опыт практики Сатьявады, так что надо было помочь Дендро Архонту с подготовкой. Но я совсем потеряла счёт времени...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Этот опыт дал тебе какие-то откровения?
+**Странник:** ...Этот опыт дал тебе какие-то откровения?
 
 **Хайпасия:** Честно говоря, поначалу это было скучно и неинтересно. Но потом, мне кажется, я действительно познала много великих истин... и даже почувствовала боль от этого познания.
 
 **Хайпасия:** Говорят, я даже плакала во время медитации... Сама не знаю почему... Надеюсь, это тебя не напугает.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Нет. Это говорит о том, что ты хороший учёный.
+**Странник:** Нет. Это говорит о том, что ты хороший учёный.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Спокойной ночи, успехов тебе завтра.
+**Странник:** Спокойной ночи, успехов тебе завтра.
 
 **Хайпасия:** Спасибо, Мастер Шляпка. Тебе того же.
 
@@ -2304,13 +2304,13 @@
 
 Всюду беспорядок, словно кто-то перевернул всё вверх дном...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это Дотторе. Наверное, искал нужную информацию, а может...
+**Странник:** Это Дотторе. Наверное, искал нужную информацию, а может...
 
 Всё продолжает меняться.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Он точно знает, что мы вошли в Ирминсуль, но пока не может определить наше местоположение.
+**Странник:** Он точно знает, что мы вошли в Ирминсуль, но пока не может определить наше местоположение.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Осторожнее. Не дай ему нас обнаружить.
+**Странник:** Осторожнее. Не дай ему нас обнаружить.
 
 #### Отправляйтесь ко входу в гробницу царя Дешрета
 
@@ -2600,7 +2600,7 @@
 
 **Рана:** А я здесь впервые. Обычно мы редко покидаем Гандхарву...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Надеюсь, это будет последний раз.
+**Странник:** Надеюсь, это будет последний раз.
 
 **Джехт:** А каждый обязательно должен что-то сказать? Нельзя уже начать драться?
 
@@ -2678,7 +2678,7 @@
 
 **Тигнари:** С помощью бутонов соцветия мы сможем незаметно перемещаться по определённым типам местности.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Тогда удачи. А мы полетим.
+**Странник:** Тогда удачи. А мы полетим.
 
 **Паймон:** А? Ой, точно, Паймон же совсем забыла, что умеет летать...
 
@@ -2688,11 +2688,11 @@
 
 #### Проникните в Храм Сурастаны
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Там солдаты Фатуи.
+**Странник:** Там солдаты Фатуи.
 
 **Тигнари:** Осторожно.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Надо приготовиться к бою.
+**Странник:** Надо приготовиться к бою.
 
 **Рана:** Эй, там кто-то есть.
 
@@ -2754,45 +2754,45 @@
 
 **Тигнари:** Вы точно не нуждаетесь в моей охране?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Всё в порядке, как только соединение будет установлено, мы исчезнем из Храма Сурастаны. Помоги остальным.
+**Странник:** Всё в порядке, как только соединение будет установлено, мы исчезнем из Храма Сурастаны. Помоги остальным.
 
 **Тигнари:** Хорошо. Тогда я пойду. Будьте осторожны.
 
 #### Подключитесь к Ирминсулю
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мы можем подключиться к Ирминсулю через встроенную систему безопасности Храма Сурастаны.
+**Странник:** Мы можем подключиться к Ирминсулю через встроенную систему безопасности Храма Сурастаны.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Процедура должна быть тебе знакома.
+**Странник:** Процедура должна быть тебе знакома.
 
 Маршрут тот же, что и в прошлый раз?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В основном. Даже параметры менять не нужно.
+**Странник:** В основном. Даже параметры менять не нужно.
 
 Тогда без проблем.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А Паймон? Отправляемся, когда вы оба / обе будете готовы.
+**Странник:** А Паймон? Отправляемся, когда вы оба / обе будете готовы.
 
 **Паймон:** Подождите, на этот раз ведь всё намного серьёзнее? Тогда Паймон останется снаружи и поможет остальным, чтобы вам не пришлось беспокоиться о Паймон во время боя.
 
 **Паймон:** Что? Почему вы так смотрите?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Ничего. Но я сейчас понял, что Паймон сильно поумнела за это время.
+**Странник:** ...Ничего. Но я сейчас понял, что Паймон сильно поумнела за это время.
 
 Ты ведь и сам поумнел. Только не начинайте снова ссориться.
 
 **Паймон:** Хм, что бы вы там ни говорили, а Паймон очень много знает, и вообще - Паймон лучший проводник во всём Тейвате! И не забывайте, Паймон учится в Академии!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если принять, что аль-Хайтам нисколько не странный, трудно объяснить, как ему пришла в голову мысль порекомендовать тебя в Академию... Но как бы там ни было, ты и правда хорошо учишься.
+**Странник:** Если принять, что аль-Хайтам нисколько не странный, трудно объяснить, как ему пришла в голову мысль порекомендовать тебя в Академию... Но как бы там ни было, ты и правда хорошо учишься.
 
 **Паймон:** Это ещё раз доказывает, как важно, когда тебя поддерживают! Даже если не брать в пример Паймон, тебя рекомендовала в Академию сама Нахида!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да, я действительно многому научился в Сумеру.
+**Странник:** Да, я действительно многому научился в Сумеру.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Кстати... ты уже придумала мне обидное прозвище? Помнишь, ты обещала.
+**Странник:** Кстати... ты уже придумала мне обидное прозвище? Помнишь, ты обещала.
 
 **Паймон:** Что? Нет, мы ведь друзья! Паймон давно расхотела придумывать тебе прозвище! Да и потом, «Мастер Шляпка» - это само по себе прозвище...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ха... Ладно, как хочешь.
+**Странник:** Ха... Ладно, как хочешь.
 
 Нам пора идти, Паймон. Если остаёшься снаружи... позаботься о себе.
 
@@ -2800,29 +2800,29 @@
 
 Да. Пока, Паймон.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Устанавливаю соединение!
+**Странник:** Устанавливаю соединение!
 
-#### Поговорите с {REALNAME[ID(1)|HOSTONLY(true)]}
+#### Поговорите с Странник
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Опять мы здесь.
+**Странник:** ...Опять мы здесь.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Кстати, кажется, я до сих пор не знаю, куда именно мы направляемся.
+**Странник:** Кстати, кажется, я до сих пор не знаю, куда именно мы направляемся.
 
 Пока у нас есть терминалы, Ирминсуль не считает наши данные. Так что я могу...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Нет, достаточно того, что ты знаешь. Не говори мне. Даже если со мной что-то случится, на тебя это не повлияет.
+**Странник:** Нет, достаточно того, что ты знаешь. Не говори мне. Даже если со мной что-то случится, на тебя это не повлияет.
 
 ...Слушай, твоя безопасность так же важна, как и моя.
 
 Даже не думай о том, чтобы жертвовать собой во имя великой цели. Раз мы пришли сюда вместе, то и вернемся вместе.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ладно. Раз ты настаиваешь, мне остаётся только согласиться.
+**Странник:** Ладно. Раз ты настаиваешь, мне остаётся только согласиться.
 
 #### Исследуйте Ирминсуль
 
 Я в ловушке!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Тц, до чего прочная штука!
+**Странник:** Тц, до чего прочная штука!
 
 **Николь:** Алло, алло! Слышно?
 
@@ -2840,7 +2840,7 @@
 
 Фух! Так-то лучше...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Как ты?
+**Странник:** Как ты?
 
 Всё нормально, не волнуйся.
 
@@ -2848,7 +2848,7 @@
 
 Дотторе?!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм, долго ты нас искал. Ты оказался даже бесполезнее, чем я думал.
+**Странник:** Хм, долго ты нас искал. Ты оказался даже бесполезнее, чем я думал.
 
 **Дотторе:** В самом деле? А я считаю, что мои методы всё же оправдывают себя.
 
@@ -2858,7 +2858,7 @@
 
 **Дотторе:** Бегство - удел животных, но мне, честно говоря, доставляло удовольствие наблюдать, как вы бежите. Некоторые существа совсем теряют желание бежать, как только их сажают в клетку.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если всё так, зачем ты пришёл сюда?
+**Странник:** Если всё так, зачем ты пришёл сюда?
 
 **Дотторе:** Потому что я хотел посмотреть на вас вблизи, разумеется.
 
@@ -2866,7 +2866,7 @@
 
 **Дотторе:** Мы ведь давно не виделись, Скарамучча.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** !!!
+**Странник:** !!!
 
 (Он помнит? Невозможно, не может быть...)
 
@@ -2880,7 +2880,7 @@
 
 **Дотторе:** В моём положении нетрудно было сложить два и два. Было бы странно, если бы мне это не удалось.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм... Гордишься своим открытием? Сейчас ты должен куда больше гордиться преступлениями, которые совершил. Это в твоём духе.
+**Странник:** Хм... Гордишься своим открытием? Сейчас ты должен куда больше гордиться преступлениями, которые совершил. Это в твоём духе.
 
 **Дотторе:** Нет, в этом нет необходимости. Да и потом, разве тебя сейчас не беспокоит что-то большее? Что-то, что внушает тебе ужас?
 
@@ -2890,7 +2890,7 @@
 
 **Дотторе:** Больше всего тебя пугает, что ты больше никогда не сможешь исправить свои ошибки, правда?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Дотторе!
+**Странник:** ...Дотторе!
 
 **Николь:** Ох, это было непросто.
 
@@ -2898,7 +2898,7 @@
 
 Николь? Николь?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Связь прервалась? Неужели...
+**Странник:** Связь прервалась? Неужели...
 
 #### Объявите о неотвратимости действия
 
@@ -3364,23 +3364,23 @@
 
 Что случилось?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ничего особенного. Нахида выразила беспокойство по поводу моего физического и психического здоровья, только и всего.
+**Странник:** Ничего особенного. Нахида выразила беспокойство по поводу моего физического и психического здоровья, только и всего.
 
 **Паймон:** Да, Путешественник говорил(а). Мы все очень переживаем за тебя... Ты как себя чувствуешь?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Когда ты так спрашиваешь, кажется, будто я разваливаюсь на части. Но на самом деле всё намного лучше, чем вы думаете.
+**Странник:** Когда ты так спрашиваешь, кажется, будто я разваливаюсь на части. Но на самом деле всё намного лучше, чем вы думаете.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если разобраться в намерениях Дотторе, можно уменьшить его негативное влияние. Я это хорошо умею.
+**Странник:** Если разобраться в намерениях Дотторе, можно уменьшить его негативное влияние. Я это хорошо умею.
 
 **Нахида:** Ты стал гораздо оптимистичнее, чем раньше. Я правильно сделала, что посоветовала тебе поступить в Вахуману: этот даршан действительно тебе подходит.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ну вот, классика: любой разговор в Сумеру сводится к образованию и учёбе.
+**Странник:** Ну вот, классика: любой разговор в Сумеру сводится к образованию и учёбе.
 
 Вообще-то я тоже заметил(а), что тебе стало намного лучше.
 
 **Нахида:** Всё, что говорил тебе Дотторе, было похоже на манипуляцию твоим сознанием. Хорошо, что ты больше не находишься под его влиянием.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если в моём возрасте ещё возможно развиваться...
+**Странник:** Если в моём возрасте ещё возможно развиваться...
 
 **Нахида:** Если это поможет, считай себя человеком, который поздно раскрыл свой потенциал. На мой взгляд, всё дело лишь в формулировке: в конечном итоге всё сводится к тому, по каким критериям ты себя оцениваешь.
 
@@ -3388,13 +3388,13 @@
 
 Как бы там ни было, поздравляю!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ладно, неважно. Я понял, что вы имеете в виду.
+**Странник:** Ладно, неважно. Я понял, что вы имеете в виду.
 
 И... Что ты будешь делать дальше?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А что мне остаётся? Сначала закончу нынешний курс, а потом подумаю о другом.
+**Странник:** А что мне остаётся? Сначала закончу нынешний курс, а потом подумаю о другом.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ладно, довольно разговоров, в городе есть дела, которые требуют помощи, мне надо туда.
+**Странник:** Ладно, довольно разговоров, в городе есть дела, которые требуют помощи, мне надо туда.
 
 **Паймон:** С Мастером Шляпкой всё совсем не так плохо, как думала Паймон. Это замечательно!
 
@@ -4446,7 +4446,7 @@ Sure.
 
 **Aradashan:** Lord of Dendro, Nara Traveler, Paimon! It's been a long time.
 
-**Nahida:** It must be very tough for you coming all the way out here, especially since you don't like the Val{RUBY#[S]sand}uka. Is everyone back in Vanarana doing well?
+**Nahida:** It must be very tough for you coming all the way out here, especially since you don't like the Valsanduka. Is everyone back in Vanarana doing well?
 
 **Arabalika:** Araja is a Vasara Tree. Vasara Trees protect Vanarana, so that means Araja is protecting Vanarana.
 
@@ -4788,31 +4788,31 @@ Sure.
 
 **Paimon:** Hat Guy, wait up! Hey, slow down, will you!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** We're here. Now, we wait.
+**Wanderer:** We're here. Now, we wait.
 
 **Paimon:** Okay, yeah, cool... Cool.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What's on your mind, Paimon?
+**Wanderer:** What's on your mind, Paimon?
 
 **Paimon:** Huh? Oh, uh... n—nothing...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I thought all you cared about, besides being a guide, was food and sleep. Why the sudden urge to go on a dangerous mission?
+**Wanderer:** I thought all you cared about, besides being a guide, was food and sleep. Why the sudden urge to go on a dangerous mission?
 
 **Paimon:** What's that supposed to mean? Paimon's been on plenty of dangerous missions before!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But never on your own. You hardly ever leave Traveler's side.
+**Wanderer:** But never on your own. You hardly ever leave Traveler's side.
 
 **Paimon:** ...Ummm...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Just saying, I'm kind of at loose ends right now, so if you did wanna share, I suppose I'd have to listen. If not, suit yourself. Makes no difference to me.
+**Wanderer:** Just saying, I'm kind of at loose ends right now, so if you did wanna share, I suppose I'd have to listen. If not, suit yourself. Makes no difference to me.
 
 **Paimon:** ...
 
 **Paimon:** Hat Guy... Do you... think Paimon is useless?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What? Where's that coming from?
+**Wanderer:** What? Where's that coming from?
 
 **Paimon:** When we were in Nod-Krai, Paimon suddenly realized something. Even though Paimon's with Traveler every single day, whenever we face real danger... She can't do anything to help.
 
@@ -4822,27 +4822,27 @@ Sure.
 
 **Paimon:** Um... Does that make any sense? You know that feeling of just... just being completely useless, and... Ugh, Paimon probably sounds so ridiculous right now!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You asked the right person. Boy, do I know that feeling.
+**Wanderer:** You asked the right person. Boy, do I know that feeling.
 
 **Paimon:** Aw, Hat Guy...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I'm not gonna try and encourage you. What I will say is this: When you start doubting yourself, you have two choices — give up, or change.
+**Wanderer:** I'm not gonna try and encourage you. What I will say is this: When you start doubting yourself, you have two choices — give up, or change.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You have to make the decision to move forward. Otherwise, no amount of consolation from other people is gonna help you.
+**Wanderer:** You have to make the decision to move forward. Otherwise, no amount of consolation from other people is gonna help you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So ask yourself — what do you want? To get stronger? To learn more? Whatever it is, go do it. You won't have any regrets if you can at least say that you tried.
+**Wanderer:** So ask yourself — what do you want? To get stronger? To learn more? Whatever it is, go do it. You won't have any regrets if you can at least say that you tried.
 
 **Paimon:** ...Alright!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** (...Something's not right. Shouldn't they be here by now?)
+**Wanderer:** (...Something's not right. Shouldn't they be here by now?)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Paimon, is it just me, or is it a little too quiet around here?
+**Wanderer:** Paimon, is it just me, or is it a little too quiet around here?
 
 **Paimon:** Hmm, should Paimon take a look...?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** We'll give it another hour. If nothing happens, we head back.
+**Wanderer:** We'll give it another hour. If nothing happens, we head back.
 
 **Paimon:** Okay!
 
@@ -4852,17 +4852,17 @@ Sure.
 
 **Paimon:** What is it? Did you think of something?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Something feels off about this whole situation, but I can't quite explain why.
+**Wanderer:** Something feels off about this whole situation, but I can't quite explain why.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** We know for sure that the guy Cyno caught had something set up, yet somehow his contact is a no-show. So, either the handler got caught — or, more likely, they decided to cut our guy loose.
+**Wanderer:** We know for sure that the guy Cyno caught had something set up, yet somehow his contact is a no-show. So, either the handler got caught — or, more likely, they decided to cut our guy loose.
 
 **Paimon:** But... how would they know to do that? Wouldn't they at least send someone here to check things out?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** That's the problem. They couldn't possibly know what's happening here, unless...
+**Wanderer:** That's the problem. They couldn't possibly know what's happening here, unless...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Tsk, this feels all too familiar... Come on, let's head back.
+**Wanderer:** Tsk, this feels all too familiar... Come on, let's head back.
 
 #### Talk to Nahida
 
@@ -5012,19 +5012,19 @@ Sure.
 
 **Heryshaf:** A baleful tree, climbing up into the heavens...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Speaking of Dottore, I have some information on that front as well.
+**Wanderer:** Speaking of Dottore, I have some information on that front as well.
 
 *Wanderer recounts how he and Paimon went to the meeting spot, only to find no one waiting for them.*
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I didn't think it was wise to state this out in the open. But my theory is, the mole wasn't cut off after he was caught. They wrote him off from the beginning.
+**Wanderer:** I didn't think it was wise to state this out in the open. But my theory is, the mole wasn't cut off after he was caught. They wrote him off from the beginning.
 
 **Cyno:** You mean, the Fatui never intended to follow through with him? Then why plant a mole at all?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's hardly a conventional strategy, and the rationale behind it is pretty twisted.
+**Wanderer:** It's hardly a conventional strategy, and the rationale behind it is pretty twisted.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But as it happens, I know someone who works exactly this way. And when it comes down to it, his goals are very simple... He just wants to confuse people, so they can't figure out what he's up to.
+**Wanderer:** But as it happens, I know someone who works exactly this way. And when it comes down to it, his goals are very simple... He just wants to confuse people, so they can't figure out what he's up to.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He's been a collaborator of Dottore's from the outset. That fact alone confirms that Dottore is involved with this somehow.
+**Wanderer:** He's been a collaborator of Dottore's from the outset. That fact alone confirms that Dottore is involved with this somehow.
 
 *Some people gasp upon hearing this name, while others fall silent. Clearly, there is more going on here than anyone realized.*
 
@@ -5052,7 +5052,7 @@ Sure.
 
 **Sethos:** This kind of thing is best left to the fleet-footed, right, Hat Guy?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** If it's efficiency you're after, we're the right people for the job.
+**Wanderer:** If it's efficiency you're after, we're the right people for the job.
 
 **Naphis:** Following up on the elemental energy amplifier we discussed... Miss Dori, I assume you're the one most familiar with the status of this project? Aside from the Dendro Archon, of course?
 
@@ -5092,7 +5092,7 @@ Sure.
 
 Not a problem. We'll do our utmost.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** No point putting too much pressure on yourselves. That goes for everyone.
+**Wanderer:** No point putting too much pressure on yourselves. That goes for everyone.
 
 **Cyrus:** Right! Especially you, Dendro Archon. I'm sure you're still feeling quite weak.
 
@@ -5186,13 +5186,13 @@ The current crisis is now beyond the capacity of ordinary men, and an unpreceden
 
 **Cyno:** Get in formation and stay close!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What is this, boot camp? Knock it off.
+**Wanderer:** What is this, boot camp? Knock it off.
 
 **Sethos:** It's just Cyno being Cyno. You know what he's like.
 
 **Cyno:** Everyone clear on our mission objective? Locate the excess Primal Constructs, dismantle them, and extract the required materials.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** And King Deshret's Seven Pillars agreed to this?
+**Wanderer:** And King Deshret's Seven Pillars agreed to this?
 
 **Cyno:** If they're just sitting there doing nothing, we might as well put them to use. Thoth's words, not mine.
 
@@ -5210,7 +5210,7 @@ The current crisis is now beyond the capacity of ordinary men, and an unpreceden
 
 #### Collect the materials needed from inside the mausoleum
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Good night. I wish you all the best for tomorrow.
+**Wanderer:** Good night. I wish you all the best for tomorrow.
 
 **Haypasia:** Thank you, Sir. You too.
 
@@ -5232,7 +5232,7 @@ The current crisis is now beyond the capacity of ordinary men, and an unpreceden
 
 **Cyno:** The Akademiya declared the Akasha to be the most powerful and comprehensive wisdom dissemination system in history. That should give you an idea of how powerful it is.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Certainly sounds impressive.
+**Wanderer:** Certainly sounds impressive.
 
 **Sethos:** Neither Hat Guy nor I have ever had an Akasha Terminal.
 
@@ -5668,11 +5668,11 @@ Me too. With the constant traveling, I'm always learning and growing. That's the
 
 **Nahida:** I think there's someone else here who would share that sentiment.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Don't worry about what I think. I was just passing by and happened to overhear your conversation.
+**Wanderer:** Don't worry about what I think. I was just passing by and happened to overhear your conversation.
 
 **Paimon:** What are you talking about, Hat Guy? This is the top floor! No one "passes by" the top floor!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Says who? You can fly just like I can. I would have thought it makes sense to you of all people.
+**Wanderer:** Says who? You can fly just like I can. I would have thought it makes sense to you of all people.
 
 ...I don't know why, but I feel a little more relaxed now.
 
@@ -5978,37 +5978,37 @@ Rest For the Night
 
 **Haypasia:** Oh... I—I'm so sorry, I was in a hurry and didn't look where I was going... Are you alright?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I'm fine.
+**Wanderer:** I'm fine.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Wait, you're...
+**Wanderer:** ...Wait, you're...
 
 **Haypasia:** ...Have we met?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Not exactly. I think we may have crossed paths by the House of Daena before.
+**Wanderer:** Not exactly. I think we may have crossed paths by the House of Daena before.
 
 **Haypasia:** Oh... Ah! You're Hat Guy! From Vahumana, right?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You recognize me?
+**Wanderer:** You recognize me?
 
 **Haypasia:** The clue's in the name, Mr. Hat Guy.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Fair point...
+**Wanderer:** Fair point...
 
 **Haypasia:** Hehe, it's getting pretty late. What's keeping you up?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I could ask you the same question. If I'm not mistaken, all the workload for the Rtawahist Darshan wrapped up a good while ago.
+**Wanderer:** I could ask you the same question. If I'm not mistaken, all the workload for the Rtawahist Darshan wrapped up a good while ago.
 
 **Haypasia:** Well, I have something of a background in Satyavada Life, so I was helping the Dendro Archon make some preparations... But I must have lost track of time.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Did you find the experience enlightening at all?
+**Wanderer:** ...Did you find the experience enlightening at all?
 
 **Haypasia:** Honestly, it was tedious and uneventful at first. But eventually, I think I did sense some profound truths... but they also brought a lot of suffering with them.
 
 **Haypasia:** I was told that I even shed tears while I was meditating, though I have no idea why... Sorry, I hope I'm not scaring you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Not at all. It just proves you're very accomplished in your research.
+**Wanderer:** Not at all. It just proves you're very accomplished in your research.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Good night. I wish you all the best for tomorrow.
+**Wanderer:** Good night. I wish you all the best for tomorrow.
 
 **Haypasia:** Thank you, Sir. You too.
 
@@ -6112,13 +6112,13 @@ This place looks so different from how I remember. It's unrecognizable.
 
 It's a complete mess, like someone's turned the place upside down...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Must be Dottore's doing. Either he's searching for some information he needs, or...
+**Wanderer:** Must be Dottore's doing. Either he's searching for some information he needs, or...
 
 It's still changing.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He has to know we've entered Irminsul. But luckily for us, he can't pinpoint our location.
+**Wanderer:** He has to know we've entered Irminsul. But luckily for us, he can't pinpoint our location.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Be on your guard. Don't let him find us.
+**Wanderer:** Be on your guard. Don't let him find us.
 
 #### Head to the entrance to King Deshret's mausoleum
 
@@ -6408,7 +6408,7 @@ Great!
 
 **Rana:** This is my first time here, actually. We never usually leave Gandharva Ville...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I hope this'll be my last time.
+**Wanderer:** I hope this'll be my last time.
 
 **Jeht:** Does everyone have to chime in? Can't we just fight?
 
@@ -6486,7 +6486,7 @@ Cyno, what's the situation?
 
 **Tighnari:** By using a Clusterleaf of Cultivation, we can pass through certain terrain silently.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Good luck with that. We'll just fly up there.
+**Wanderer:** Good luck with that. We'll just fly up there.
 
 **Paimon:** Huh? Oh yeah... Paimon forgot she could fly...
 
@@ -6496,11 +6496,11 @@ Ready!
 
 #### Enter the Sanctuary of Surasthana by stealth
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Fatui soldiers up ahead.
+**Wanderer:** Fatui soldiers up ahead.
 
 **Tighnari:** Careful.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Prepare for battle.
+**Wanderer:** Prepare for battle.
 
 **Rana:** Hey, there's people over there.
 
@@ -6562,45 +6562,45 @@ This is far enough. Tighnari, you go help Cyno. Don't worry about us — we'll m
 
 **Tighnari:** Are you sure you don't need me to stand guard?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** No need. Once the connection is established, we'll disappear from the Sanctuary of Surasthana. Go help the others.
+**Wanderer:** No need. Once the connection is established, we'll disappear from the Sanctuary of Surasthana. Go help the others.
 
 **Tighnari:** Alright... Goodbye for now, then. Please tread carefully.
 
 #### Connect to Irminsul
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** We can connect to the inside of Irminsul through the Sanctuary of Surasthana's built-in security system.
+**Wanderer:** We can connect to the inside of Irminsul through the Sanctuary of Surasthana's built-in security system.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You should be pretty familiar with the process.
+**Wanderer:** You should be pretty familiar with the process.
 
 Is it the same route as last time?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** For the most part. We don't need to adjust any of the parameters.
+**Wanderer:** For the most part. We don't need to adjust any of the parameters.
 
 Then I should be fine.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** And Paimon? Once you're both ready, we'll set off.
+**Wanderer:** And Paimon? Once you're both ready, we'll set off.
 
 **Paimon:** Wait, the stakes are way higher this time, right? Maybe Paimon should stay outside and help the others. Then you can focus on the fight without having to worry about Paimon.
 
 **Paimon:** Huh? ...Why are you staring at me like that?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...It's nothing. I just suddenly realized how much you've grown.
+**Wanderer:** ...It's nothing. I just suddenly realized how much you've grown.
 
 Hey, you've grown quite a lot yourself. Don't you two start getting into it again.
 
 **Paimon:** Hmph, well anyway, Paimon thinks she's pretty knowledgeable. Who's the best guide in Teyvat, again? And don't forget, Paimon's a college student now!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** If we say Alhaitham's not a weirdo, it's hard to explain how he came up with the idea of you applying to the Akademiya... But for all that he counts, you're doing surprisingly well in your studies.
+**Wanderer:** If we say Alhaitham's not a weirdo, it's hard to explain how he came up with the idea of you applying to the Akademiya... But for all that he counts, you're doing surprisingly well in your studies.
 
 **Paimon:** Just goes to show how important it is to have someone supporting you! And Paimon's not the only one — let's not forget that you only became a student because of Nahida's personal recommendation.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** That's fair. I have learned a lot in Sumeru.
+**Wanderer:** That's fair. I have learned a lot in Sumeru.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Oh yeah... Did you ever come up with that ugly nickname you promised me?
+**Wanderer:** Oh yeah... Did you ever come up with that ugly nickname you promised me?
 
 **Paimon:** What? No way, we're friends now! Paimon gave up on giving you one ages ago! ...Anyway, isn't "Hat Guy" enough of a nickname for you?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hah... Fine, suit yourself.
+**Wanderer:** Hah... Fine, suit yourself.
 
 We need to go. Paimon, if you're staying... look after yourself.
 
@@ -6608,29 +6608,29 @@ We need to go. Paimon, if you're staying... look after yourself.
 
 We will be. Bye for now.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Initiating connection!
+**Wanderer:** Initiating connection!
 
-#### Talk to {REALNAME[ID(1)|HOSTONLY(true)]}
+#### Talk to Wanderer
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Well, here we are again.
+**Wanderer:** ...Well, here we are again.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Come to think of it, I still don't even know where we're going.
+**Wanderer:** Come to think of it, I still don't even know where we're going.
 
 Thanks to our terminals, it should be impossible for Irminsul to read. I can—
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Don't. Don't tell me. Only you need to know. That way, whatever happens to me next, it won't affect your progress.
+**Wanderer:** Don't. Don't tell me. Only you need to know. That way, whatever happens to me next, it won't affect your progress.
 
 ...Listen to me. Your safety is just as important as mine.
 
 Don't even think about sacrificing yourself for the greater good. We came here together, and we're leaving together.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Alright, if you insist. I won't argue with you.
+**Wanderer:** Alright, if you insist. I won't argue with you.
 
 #### Explore Irminsul
 
 I'm trapped...!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Tsk, why won't this thing budge?
+**Wanderer:** Tsk, why won't this thing budge?
 
 **Nicole:** Hello? Helloooo...? Can you hear me?
 
@@ -6648,7 +6648,7 @@ Nicole? Is that you?
 
 Phew! I think we've made it to relative safety...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You doing okay?
+**Wanderer:** You doing okay?
 
 I'll be fine, don't worry.
 
@@ -6656,7 +6656,7 @@ I'll be fine, don't worry.
 
 Dottore!?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph. Took you long enough to find us. You're more useless than I thought.
+**Wanderer:** Hmph. Took you long enough to find us. You're more useless than I thought.
 
 **Il Dottore:** Oh, really? I think I deserve a little more credit for my methods than that.
 
@@ -6666,7 +6666,7 @@ Dottore!?
 
 **Il Dottore:** Fleeing is for animals, but I rather enjoy watching you flee. Some things lose the will to run altogether as soon as you put them in a cage.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** If that's true, then why did you come looking for us?
+**Wanderer:** If that's true, then why did you come looking for us?
 
 **Il Dottore:** Because I wanted to observe you up close, of course.
 
@@ -6674,7 +6674,7 @@ Dottore!?
 
 **Il Dottore:** After all... It's been a while, Scaramouche.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** !!!
+**Wanderer:** !!!
 
 (He remembers!? No, that can't be it, it's impossible...)
 
@@ -6688,7 +6688,7 @@ Dottore!?
 
 **Il Dottore:** For someone in my position, connecting the dots was a trivial affair. It would have been more surprising if I hadn't managed to piece it together.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph... You seem very pleased with yourself for figuring it out. I'm sure you'd even be more delighted to learn the full extent of your crimes.
+**Wanderer:** Hmph... You seem very pleased with yourself for figuring it out. I'm sure you'd even be more delighted to learn the full extent of your crimes.
 
 **Il Dottore:** That would hardly be necessary. Besides, isn't there something that concerns you more right now? Something that fills you with dread?
 
@@ -6698,7 +6698,7 @@ Dottore!?
 
 **Il Dottore:** The cruelest twist of fate is that you'll never again have the chance to make up for any of your mistakes, isn't it?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Dottore!
+**Wanderer:** ...Dottore!
 
 **Nicole:** Whew! Goodness, that was tough.
 
@@ -6706,7 +6706,7 @@ Dottore!?
 
 Nicole? Nicole!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The connection's been cut? But that means...
+**Wanderer:** The connection's been cut? But that means...
 
 #### Proclaim the inevitability of the action
 
@@ -7172,23 +7172,23 @@ Don't worry, I saw how hard you worked.
 
 What's going on here?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Nothing much. Nahida was just expressing concern for my physical and mental well-being.
+**Wanderer:** Nothing much. Nahida was just expressing concern for my physical and mental well-being.
 
 **Paimon:** Oh, Traveler told Paimon all about that. We've both been very worried about you... Are you feeling alright?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You make it sound like I'm on the brink of some kind of breakdown. Truth is, I'm doing much better than you might imagine.
+**Wanderer:** You make it sound like I'm on the brink of some kind of breakdown. Truth is, I'm doing much better than you might imagine.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** If we can just get to the bottom of Dottore's intentions, we can minimize his negative influence. That's the sort of thing I excel at.
+**Wanderer:** If we can just get to the bottom of Dottore's intentions, we can minimize his negative influence. That's the sort of thing I excel at.
 
 **Nahida:** Just listen to that newfound optimism! It seems like having you enroll in the Vahumana was a truly inspired move. I can really see the positive influence.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Observe, a classic Sumeru specialty — chalking everything up to education and learning.
+**Wanderer:** Observe, a classic Sumeru specialty — chalking everything up to education and learning.
 
 To be honest, even I can sense the change in you.
 
 **Nahida:** Everything Dottore said to you was a way to manipulate your mind. Fortunately, you're no longer under his sway.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Can someone as old as me really continue to grow...
+**Wanderer:** Can someone as old as me really continue to grow...
 
 **Nahida:** If it helps, just think of yourself as a late bloomer. It's all a matter of phrasing, and it comes down to what standards you measure yourself by.
 
@@ -7196,13 +7196,13 @@ To be honest, even I can sense the change in you.
 
 However you see yourself, well done!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Alright, I see what you mean.
+**Wanderer:** Alright, I see what you mean.
 
 Anyway... What's your next step?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What else can I do but complete my current courses? Everything else can wait.
+**Wanderer:** What else can I do but complete my current courses? Everything else can wait.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Anyway, that's enough chit-chat. There are still things in the city I need to help out with. I'll be heading there now.
+**Wanderer:** Anyway, that's enough chit-chat. There are still things in the city I need to help out with. I'll be heading there now.
 
 **Paimon:** Paimon's so happy that Hat Guy is doing better than we thought, hehe.
 
@@ -8254,7 +8254,7 @@ She left, carrying the blessing of flowers.
 
 **兰提沙:** 草王大人，那菈旅行者，派蒙！好久不见了。
 
-**纳西妲:** 不喜欢巴螺{RUBY#[S]黄沙}迦还特地跑到这里来，难为你们了。桓那兰那的大家还好吗？
+**纳西妲:** 不喜欢巴螺黄沙迦还特地跑到这里来，难为你们了。桓那兰那的大家还好吗？
 
 **兰百梨迦:** 兰拉迦就是莎兰树，莎兰树保护着桓那兰那，所以等于是兰拉迦保护着桓那兰那。
 
@@ -8596,31 +8596,31 @@ She left, carrying the blessing of flowers.
 
 **派蒙:** 阿帽！等等我呀，喂，别飞那么快嘛！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 到了。就在这里等。
+**流浪者:** 到了。就在这里等。
 
 **派蒙:** 哦哦哦，好的好的…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 派蒙，你在想什么？
+**流浪者:** 派蒙，你在想什么？
 
 **派蒙:** 欸？我、我没想什么啊…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你以前不是除了认路就只关心吃和睡吗？怎么突然想参与这种危险的事了。
+**流浪者:** 你以前不是除了认路就只关心吃和睡吗？怎么突然想参与这种危险的事了。
 
 **派蒙:** 这是什么话呀，危险的地方我可从来没少去好不好。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但没有一次是单独行动的。你很少离开旅行者。
+**流浪者:** 但没有一次是单独行动的。你很少离开旅行者。
 
 **派蒙:** …呃…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我现在挺闲的，如果你打算分享，我可以勉为其难听一下。不说也无所谓，随你吧。
+**流浪者:** 我现在挺闲的，如果你打算分享，我可以勉为其难听一下。不说也无所谓，随你吧。
 
 **派蒙:** ……
 
 **派蒙:** 阿帽…你觉得，我是个很没用的人吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 什么事能让你这么想？
+**流浪者:** 什么事能让你这么想？
 
 **派蒙:** 在挪德卡莱的时候，我突然发现，虽然我天天陪着旅行者，但真有什么危险的时候我根本帮不上忙。
 
@@ -8630,27 +8630,27 @@ She left, carrying the blessing of flowers.
 
 **派蒙:** 你…你能理解吗？就是那种，觉得自己特别没用的感觉…唉，我在说什么啊！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你问对人了。这方面我很有心得。
+**流浪者:** 你问对人了。这方面我很有心得。
 
 **派蒙:** 阿帽…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我不会劝你什么。一个人对自己产生怀疑的时候只有两个选择，放弃或者改变。
+**流浪者:** 我不会劝你什么。一个人对自己产生怀疑的时候只有两个选择，放弃或者改变。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 除非你自己走出来，否则任何人的安慰都没有意义。
+**流浪者:** 除非你自己走出来，否则任何人的安慰都没有意义。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 所以…想变强也好，想学着做更多事也好。去做吧，至少不会让自己后悔。
+**流浪者:** 所以…想变强也好，想学着做更多事也好。去做吧，至少不会让自己后悔。
 
 **派蒙:** …嗯！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** （不过，有点不对劲。时间不是已经到了吗？）
+**流浪者:** （不过，有点不对劲。时间不是已经到了吗？）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 派蒙，附近是不是完全没动静？
+**流浪者:** 派蒙，附近是不是完全没动静？
 
 **派蒙:** 我看看…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 再等一小时，没动静就撤退。
+**流浪者:** 再等一小时，没动静就撤退。
 
 **派蒙:** 好的！
 
@@ -8660,17 +8660,17 @@ She left, carrying the blessing of flowers.
 
 **派蒙:** 咦，你想到什么了吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 总有种说不出的怪异感。
+**流浪者:** 总有种说不出的怪异感。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 赛诺抓到的内鬼确实有所行动，与他接头的人却没了动静。比起上线被抓，这种情况更像是他被舍弃了。
+**流浪者:** 赛诺抓到的内鬼确实有所行动，与他接头的人却没了动静。比起上线被抓，这种情况更像是他被舍弃了。
 
 **派蒙:** 可是，他们怎么能知道他被舍弃了呢？就算试探也至少该派人来观察一下吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这就是问题。他们不可能知道这里的消息，除非…
+**流浪者:** 这就是问题。他们不可能知道这里的消息，除非…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧，好熟悉的感觉…总之，先回去吧。
+**流浪者:** 啧，好熟悉的感觉…总之，先回去吧。
 
 #### 与纳西妲对话
 
@@ -8820,19 +8820,19 @@ She left, carrying the blessing of flowers.
 
 **赫里沙夫:** 罪恶的树木，向着天空攀升…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 说到多托雷，我这里也有些情报。
+**流浪者:** 说到多托雷，我这里也有些情报。
 
 *流浪者分享了与派蒙一同前往接头地点，却谁也没等到的事。*
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 先前在外面，有些事不方便明说。我的推测是，内鬼并不是被捕才遭到舍弃，而是从一开始就被放弃了。
+**流浪者:** 先前在外面，有些事不方便明说。我的推测是，内鬼并不是被捕才遭到舍弃，而是从一开始就被放弃了。
 
 **赛诺:** 你的意思是，愚人众从一开始就不把他当回事？可那样一来，安插内鬼的意义是什么？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这种做法确实不常见。行为背后的目的很曲折。
+**流浪者:** 这种做法确实不常见。行为背后的目的很曲折。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 只不过，碰巧有一个人喜欢这样。他的目的甚至非常简单…就只是想让人感到不解，进而弄不清他的意图。
+**流浪者:** 只不过，碰巧有一个人喜欢这样。他的目的甚至非常简单…就只是想让人感到不解，进而弄不清他的意图。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他一直都是多托雷的协助者。单从这点来说，也能确定此事与多托雷的关联。
+**流浪者:** 他一直都是多托雷的协助者。单从这点来说，也能确定此事与多托雷的关联。
 
 *人们听见那个名字，或惊讶或沉默——事态似乎比想象中更大些。*
 
@@ -8860,7 +8860,7 @@ She left, carrying the blessing of flowers.
 
 **赛索斯:** 这种事交给脚程快的人来办更稳妥，对吧阿帽？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 论效率，我们都是一流的。
+**流浪者:** 论效率，我们都是一流的。
 
 **纳菲斯:** 刚刚提到的元素力增幅装置，多莉小姐，你应该是草神大人以外最了解这个项目发展状况的人之一。
 
@@ -8900,7 +8900,7 @@ She left, carrying the blessing of flowers.
 
 我们会尽力而为。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们几个都不要勉强才对。
+**流浪者:** 你们几个都不要勉强才对。
 
 **居勒什:** 没错！尤其是草神大人，现在应该还很虚弱。
 
@@ -8994,13 +8994,13 @@ She left, carrying the blessing of flowers.
 
 **赛诺:** 整队了，都跟紧！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 也不用那么有仪式感吧。
+**流浪者:** 也不用那么有仪式感吧。
 
 **赛索斯:** 赛诺一直这样，你也知道。
 
 **赛诺:** 记得我们的目标吗？找多余的元能构装体，把它们处理成材料。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 赤王七柱没意见？
+**流浪者:** 赤王七柱没意见？
 
 **赛诺:** 放着也是放着，不如拿去用。图特说的。
 
@@ -9018,7 +9018,7 @@ She left, carrying the blessing of flowers.
 
 #### 在赤王陵内搜集所需材料
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 晚安，祝你明天一切顺利。
+**流浪者:** 晚安，祝你明天一切顺利。
 
 **海芭夏:** 谢谢你，先生。你也一样。
 
@@ -9040,7 +9040,7 @@ She left, carrying the blessing of flowers.
 
 **赛诺:** 教令院称虚空为有史以来最强大完美的智慧辅助系统，可想而知它的厉害。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 确实不错。
+**流浪者:** 确实不错。
 
 **赛索斯:** 我和阿帽都没有虚空终端呢。
 
@@ -9476,11 +9476,11 @@ She left, carrying the blessing of flowers.
 
 **纳西妲:** 看起来，还有另一个人也和我们抱有相同想法呢。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 路过听听你们在聊什么而已，不用那么关心我的意见。
+**流浪者:** 路过听听你们在聊什么而已，不用那么关心我的意见。
 
 **派蒙:** 阿帽在说什么呢，这里可是顶楼！谁会路过顶楼？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 怎么不会？你和我一样会飞，这个道理别人不懂，你还不懂么？
+**流浪者:** 怎么不会？你和我一样会飞，这个道理别人不懂，你还不懂么？
 
 …不知道为什么，我好像又放松了一点。
 
@@ -9786,37 +9786,37 @@ She left, carrying the blessing of flowers.
 
 **海芭夏:** 对不起，我走得太急了没看路…你没事吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧，没关系。
+**流浪者:** 啧，没关系。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …你是…
+**流浪者:** …你是…
 
 **海芭夏:** 我们认识吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 论程度，大概是在智慧宫附近擦肩过吧。
+**流浪者:** 论程度，大概是在智慧宫附近擦肩过吧。
 
 **海芭夏:** 唔…啊！你是因论派的那个阿帽吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你怎么认出我的？
+**流浪者:** 你怎么认出我的？
 
 **海芭夏:** 谜底就在谜面上，阿帽先生。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 好吧…
+**流浪者:** 好吧…
 
 **海芭夏:** 呵呵，这么晚了，阿帽先生还不休息吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你不也一样还在外面吗？如果我没记错，明论派相关的工作已经结束很久了。
+**流浪者:** 你不也一样还在外面吗？如果我没记错，明论派相关的工作已经结束很久了。
 
 **海芭夏:** 我算是对林居狂语期有些心得的学者，帮着草神大人做了点准备工作，一不小心弄到现在…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …那段经历带给你启发了吗？
+**流浪者:** …那段经历带给你启发了吗？
 
 **海芭夏:** 坦白说，起初是枯燥无趣的。但后来，我似乎真的感受到许多宏伟真知…甚至从中品出了很多痛苦。
 
 **海芭夏:** 据说我还在冥想中流过眼泪呢，也不知道是为什么…但愿这些不会吓到你。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不会。这说明你是一个成功的学者。
+**流浪者:** 不会。这说明你是一个成功的学者。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 晚安，祝你明天一切顺利。
+**流浪者:** 晚安，祝你明天一切顺利。
 
 **海芭夏:** 谢谢你，先生。你也一样。
 
@@ -9920,13 +9920,13 @@ She left, carrying the blessing of flowers.
 
 环境很混乱，像是被人翻得乱七八糟…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 多半跟多托雷有关。他可能在找需要的信息，也可能…
+**流浪者:** 多半跟多托雷有关。他可能在找需要的信息，也可能…
 
 还在变化。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他肯定知道我们进入世界树了，但碍于情况特殊，定位不到我们所在地。
+**流浪者:** 他肯定知道我们进入世界树了，但碍于情况特殊，定位不到我们所在地。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 小心点。别被他发现。
+**流浪者:** 小心点。别被他发现。
 
 #### 前往赤王陵入口处
 
@@ -10216,7 +10216,7 @@ She left, carrying the blessing of flowers.
 
 **拉娜:** 我倒是第一次来，一般我们都在化城郭那边…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我不想再来了。
+**流浪者:** 我不想再来了。
 
 **婕德:** 非得一人说一句吗？不能直接开打？
 
@@ -10294,7 +10294,7 @@ She left, carrying the blessing of flowers.
 
 **提纳里:** 利用众叶觉蕊，我们可以悄无声息地越过一定地形。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们加油，我们直接飞上去。
+**流浪者:** 你们加油，我们直接飞上去。
 
 **派蒙:** 欸？对哦我都忘了我会飞…
 
@@ -10304,11 +10304,11 @@ She left, carrying the blessing of flowers.
 
 #### 潜入净善宫
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 上面有愚人众士兵。
+**流浪者:** 上面有愚人众士兵。
 
 **提纳里:** 小心点。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 准备迎敌。
+**流浪者:** 准备迎敌。
 
 **拉娜:** 喂，那边有人。
 
@@ -10370,45 +10370,45 @@ She left, carrying the blessing of flowers.
 
 **提纳里:** 真的不用帮你们守门吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没关系，一旦桥接开始，我们就会从净善宫消失。去帮其他人吧。
+**流浪者:** 没关系，一旦桥接开始，我们就会从净善宫消失。去帮其他人吧。
 
 **提纳里:** 好。那我先走了，你们务必多加小心。
 
 #### 桥接进入世界树
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 通过净善宫的内置安保系统，我们能桥接到世界树内部。
+**流浪者:** 通过净善宫的内置安保系统，我们能桥接到世界树内部。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这流程你应该不陌生。
+**流浪者:** 这流程你应该不陌生。
 
 和上次路线一样吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 基本一样。参数都不用变。
+**流浪者:** 基本一样。参数都不用变。
 
 那没问题。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 派蒙呢？等你们俩准备好我们就出发。
+**流浪者:** 派蒙呢？等你们俩准备好我们就出发。
 
 **派蒙:** 等等，这次是不是很紧急？那我留在外面帮其他人好了，省得你们打架还要顾着我。
 
 **派蒙:** 唔？为什么突然看着我？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …没什么，只是突然觉得你成长了很多。
+**流浪者:** …没什么，只是突然觉得你成长了很多。
 
 你不也成长了不少吗？你们俩啊，谁都别说谁。
 
 **派蒙:** 哼，我也是相当有见识的嘛，还是提瓦特最好的向导呢。再说了，我也在上学！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 说艾尔海森不是怪人吧，他居然想得出推荐你报考教令院，可说他是怪人吧…你也确实读得不错。
+**流浪者:** 说艾尔海森不是怪人吧，他居然想得出推荐你报考教令院，可说他是怪人吧…你也确实读得不错。
 
 **派蒙:** 这就说明推荐人很重要！别说我了，你也是被纳西妲亲自推荐去上学的啊。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 是啊，我确实在须弥学到了很多东西。
+**流浪者:** 是啊，我确实在须弥学到了很多东西。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 对了，欠我的难听绰号你想出来了没？
+**流浪者:** 对了，欠我的难听绰号你想出来了没？
 
 **派蒙:** 什么？不不不，你是朋友嘛，我早就不想给你起绰号了！再说，阿帽本来就是个绰号吧…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哈…好吧，随你。
+**流浪者:** 哈…好吧，随你。
 
 我们该走了。留在外面的话，一定要照顾好自己。
 
@@ -10416,29 +10416,29 @@ She left, carrying the blessing of flowers.
 
 嗯，去吧。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 桥接开始！
+**流浪者:** 桥接开始！
 
-#### 与{REALNAME[ID(1)|HOSTONLY(true)]}对话
+#### 与流浪者对话
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …又到这里了。
+**流浪者:** …又到这里了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 说起来，我好像到现在还不清楚具体目的地。
+**流浪者:** 说起来，我好像到现在还不清楚具体目的地。
 
 有终端在，应该不会被读取，我可以…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不，你知道就行，别告诉我。这样无论接下来我这边发生什么变化都不会影响你的进展。
+**流浪者:** 不，你知道就行，别告诉我。这样无论接下来我这边发生什么变化都不会影响你的进展。
 
 …听着，你的安危和我的一样重要。
 
 不要有那种舍弃自己去保护什么的想法，我们既然一起来，就要一起回去。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 话说到这份上，我只能答应了。
+**流浪者:** 话说到这份上，我只能答应了。
 
 #### 探索世界树
 
 被困住了…！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧，这东西怎么这么牢固？
+**流浪者:** 啧，这东西怎么这么牢固？
 
 **尼可:** 喂，喂——听得见吧？
 
@@ -10456,7 +10456,7 @@ She left, carrying the blessing of flowers.
 
 呼！到这里应该好一点了…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你怎么样？
+**流浪者:** 你怎么样？
 
 还行，放心。
 
@@ -10464,7 +10464,7 @@ She left, carrying the blessing of flowers.
 
 多托雷？！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼，比想的还要不中用，这种时候才找过来。
+**流浪者:** 哼，比想的还要不中用，这种时候才找过来。
 
 **多托雷:** 是吗？我倒觉得，我的做法更有意义一些。
 
@@ -10474,7 +10474,7 @@ She left, carrying the blessing of flowers.
 
 **多托雷:** 逃窜是动物所为，但我喜欢看到你们逃窜。一旦被锁到笼子里，有些东西就不愿意再奔跑了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你要是真这么想，又为什么要找过来？
+**流浪者:** 你要是真这么想，又为什么要找过来？
 
 **多托雷:** 当然是因为我想近距离见见你们啊。
 
@@ -10482,7 +10482,7 @@ She left, carrying the blessing of flowers.
 
 **多托雷:** ——好久不见啊，斯卡拉姆齐。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ——！！
+**流浪者:** ——！！
 
 （他想起来了？不可能，应该不是这样…）
 
@@ -10496,7 +10496,7 @@ She left, carrying the blessing of flowers.
 
 **多托雷:** 倒不如说，站在我这个位置，连这点细节都串联不起来才是意外了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼…你为自己的发现感到得意？那你更该为自己犯下的罪得意，这才是你。
+**流浪者:** 哼…你为自己的发现感到得意？那你更该为自己犯下的罪得意，这才是你。
 
 **多托雷:** 不，我认为没有那个必要。而且，现在你心中是否有一丝期待，亦或是惶恐？
 
@@ -10506,7 +10506,7 @@ She left, carrying the blessing of flowers.
 
 **多托雷:** 不再有弥补任何错误的机会，对你而言才最残酷。不是么？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 多托雷——！！
+**流浪者:** 多托雷——！！
 
 **尼可:** 真不容易啊。
 
@@ -10514,7 +10514,7 @@ She left, carrying the blessing of flowers.
 
 尼可？尼可？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 通讯被切断了？难道…
+**流浪者:** 通讯被切断了？难道…
 
 #### 宣告行动的必然性
 
@@ -10980,23 +10980,23 @@ She left, carrying the blessing of flowers.
 
 在聊什么？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 聊到对我身心健康的关怀。
+**流浪者:** 聊到对我身心健康的关怀。
 
 **派蒙:** 关于这件事，我也听旅行者说了，我们都很担心你…你还好吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你这样问更显得我状态糟糕，实际上，我比你们想的好得多。
+**流浪者:** 你这样问更显得我状态糟糕，实际上，我比你们想的好得多。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 只要搞清楚多托雷的意图，就能减少他带来的负面影响。我很擅长这件事。
+**流浪者:** 只要搞清楚多托雷的意图，就能减少他带来的负面影响。我很擅长这件事。
 
 **纳西妲:** 你比以前乐观了不少呢。看来，建议你考入伐护末那学派是个好判断，那里果然适合你。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 请看，须弥的一大特色，什么事都能拐回教育与学习。
+**流浪者:** 请看，须弥的一大特色，什么事都能拐回教育与学习。
 
 其实我也觉得你状态好了不少。
 
 **纳西妲:** 多托雷对你说的话，更像是一种思维操控，好在你已经不处于那种状态了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 到我这个年纪还能有成长的话…
+**流浪者:** 到我这个年纪还能有成长的话…
 
 **纳西妲:** 某种程度上，算是晚发育吧。在我看来，问题只在于说法，要看你用哪种标准衡量这件事。
 
@@ -11004,13 +11004,13 @@ She left, carrying the blessing of flowers.
 
 无论如何恭喜了！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 好吧，都行，总之我领会你们的意思了。
+**流浪者:** 好吧，都行，总之我领会你们的意思了。
 
 接下来有什么打算？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 还能怎样？先完成现在的课程，再考虑其他。
+**流浪者:** 还能怎样？先完成现在的课程，再考虑其他。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 好了，闲聊先到这，城里还有些事需要帮忙，我过去一趟。
+**流浪者:** 好了，闲聊先到这，城里还有些事需要帮忙，我过去一趟。
 
 **派蒙:** 阿帽的状况比想的要好，真是太好了。
 

@@ -3,19 +3,19 @@
 # title_ru: К маяку
 # title_en: To the Lighthouse
 # title_zh: 到灯塔去
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76651
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76651
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76039
 # related_quests: quest_wq_76039,quest_wq_76655
 # quest_chain: quest_wq_76651,quest_wq_76039,quest_wq_76655
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

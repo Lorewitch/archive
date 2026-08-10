@@ -12,7 +12,7 @@
 # chapter_num_zh: 祈祝福愿，倾告嵴锋 第三幕
 # part_source_ids: 15013,15014,15015,15016
 # previous_quests: quest_lq_2059
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2058,quest_lq_2059
 # quest_chain: quest_lq_2058,quest_lq_2059,quest_lq_2060
 # quest_series: A Prayer for Blessings, Told to Crested Peaks
@@ -1918,7 +1918,7 @@
 
 **Шилонен:** Но неужели ты забыла истинное значение своего древнего имени?
 
-**Тласоли:** Моё древнее имя... Унд{RUBY#[D]Родство}угу...
+**Тласоли:** Моё древнее имя... УндРодствоугу...
 
 **Шилонен:** Ваша с Нечкой непоколебимая любовь уже записана в твоём древнем имени, но ты закрыла на это глаза.
 
@@ -4070,7 +4070,7 @@ Tlazolli has revealed her true intentions, coercing "Nechca" into her self-procl
 
 **Xilonen:** But have you forgotten the true meaning of your own Ancient Name?
 
-**Tlazolli:** My Ancient Name is... "Und{RUBY#[D]Kinship}ugu"...
+**Tlazolli:** My Ancient Name is... "UndKinshipugu"...
 
 **Xilonen:** The immovable love between you and Nechca has already been recorded in your Ancient Name, but you chose to ignore that.
 
@@ -6222,7 +6222,7 @@ How's Nepecha doing?
 
 **希诺宁:** 你难道忘了自己「古名」的真义了吗？
 
-**特拉佐莉:** 我的「古名」是…「翁{RUBY#[D]亲}杜{RUBY#[D]情}古」…
+**特拉佐莉:** 我的「古名」是…「翁亲杜情古」…
 
 **希诺宁:** 这枚「古名」，早就将你和妮赫佳之间不可动摇的亲情记录在内。但你却对此视而不见。
 

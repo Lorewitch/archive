@@ -11,7 +11,7 @@
 # chapter_num_en: Shadows Amidst Snowstorms: Act I
 # chapter_num_zh: 皑尘与雪影 第一幕
 # part_source_ids: 40025,40026
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10046
 # related_quests: quest_eq_10046,quest_eq_10047
 # quest_chain: quest_eq_10045,quest_eq_10046,quest_eq_10047

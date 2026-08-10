@@ -3,19 +3,19 @@
 # title_ru: Приглашение от издательского дома Яэ
 # title_en: Yae Publishing House's Invitation
 # title_zh: 「八重堂」的邀约
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72806
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72806
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72806
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

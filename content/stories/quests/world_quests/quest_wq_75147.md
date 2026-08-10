@@ -3,19 +3,19 @@
 # title_ru: Исследователь древних руин
 # title_en: Investigator of Ancient Ruins
 # title_zh: 古遗迹的调查者
-# region: Натлан
+# region: Тейват
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75147
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75147
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75147
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -52,7 +52,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -60,7 +60,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -68,7 +68,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, точно. А как ты узнал?
 
@@ -98,7 +98,7 @@
 
 **Кимоси:** Если вы поможете с монстрами, то нам с Нзаей не придётся возвращаться в племя, и мы... сбережём время.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Паймон:** То есть ты хочешь, чтобы мы пошли с вами к Руинам Извержения?
 
@@ -120,7 +120,7 @@
 
 **Паймон:** Пф, это всего лишь монстры. Мы расправимся с ними в один миг! Кимоси прав, наша помощь здорово сбережёт вам время!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Кимоси:** Вижу, вы очень уверены в себе... Ладно, посмотрим, как вы себя покажете.
 
@@ -130,7 +130,7 @@
 
 **Паймон:** Хе-хе, не беспокойтесь. Смотрите, мы сейчас покажем класс!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Поговорите с членами племени рядом
 
@@ -150,7 +150,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -158,7 +158,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -166,7 +166,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, точно. А как ты узнал?
 
@@ -196,7 +196,7 @@
 
 **Кимоси:** Если вы поможете с монстрами, то нам с Нзаей не придётся возвращаться в племя, и мы... сбережём время.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Паймон:** То есть ты хочешь, чтобы мы пошли с вами к Руинам Извержения?
 
@@ -218,7 +218,7 @@
 
 **Паймон:** Пф, это всего лишь монстры. Мы расправимся с ними в один миг! Кимоси прав, наша помощь здорово сбережёт вам время!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Кимоси:** Вижу, вы очень уверены в себе... Ладно, посмотрим, как вы себя покажете.
 
@@ -228,7 +228,7 @@
 
 **Паймон:** Хе-хе, не беспокойтесь. Смотрите, мы сейчас покажем класс!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Нзая:** Ох, надо же... Спасибо... Спасибо за помощь! Монстры появились как из ниоткуда, и сладить с ними... непросто, мы бы надолго тут застряли...
 
@@ -256,7 +256,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -264,7 +264,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -272,7 +272,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, точно. А как ты узнал?
 
@@ -300,7 +300,7 @@
 
 **Кимоси:** Если вы поможете с монстрами, то нам с Нзаей не придётся возвращаться в племя, и мы... сбережём время.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Паймон:** То есть ты хочешь, чтобы мы пошли с вами к Руинам Извержения?
 
@@ -318,7 +318,7 @@
 
 **Паймон:** Пф, это всего лишь монстры. Мы расправимся с ними в один миг! Кимоси прав, наша помощь здорово сбережёт вам время!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Кимоси:** Вижу, вы очень уверены в себе... Ладно, посмотрим, как вы себя покажете.
 
@@ -328,7 +328,7 @@
 
 **Паймон:** Хе-хе, не беспокойтесь. Смотрите, мы сейчас покажем класс!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Нзая:** Ох, надо же... Спасибо... Спасибо за помощь! Монстры появились как из ниоткуда, и сладить с ними... непросто, мы бы надолго тут застряли...
 
@@ -346,7 +346,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -354,7 +354,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -362,7 +362,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, точно. А как ты узнал?
 
@@ -390,7 +390,7 @@
 
 **Кимоси:** Если вы поможете с монстрами, то нам с Нзаей не придётся возвращаться в племя, и мы... сбережём время.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Паймон:** То есть ты хочешь, чтобы мы пошли с вами к Руинам Извержения?
 
@@ -408,7 +408,7 @@
 
 **Паймон:** Пф, это всего лишь монстры. Мы расправимся с ними в один миг! Кимоси прав, наша помощь здорово сбережёт вам время!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Кимоси:** Вижу, вы очень уверены в себе... Ладно, посмотрим, как вы себя покажете.
 
@@ -418,7 +418,7 @@
 
 **Паймон:** Хе-хе, не беспокойтесь. Смотрите, мы сейчас покажем класс!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Поговорите с членами племени
 
@@ -426,7 +426,7 @@
 
 **Паймон:** Все монстры уничтожены!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Нзая:** Нет, я не о том. Вы не ранены? Раны от монстров из Бездны нужно как можно скорее обработать, иначе дело кончится плохо.
 
@@ -450,7 +450,7 @@
 
 **Кимоси:** Гм... Вы видели статую? Она стояла на большом пьедестале среди руин...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Кимоси:** Скорее всего, статуя пропала... Ладно, отправимся на поиски позже...
 
@@ -480,7 +480,7 @@
 
 **Кимоси:** Да. Видите камни, парящие вокруг жерла? Во время извержений они висят в воздухе из-за особых свойств флогистона...
 
-**Кимоси:** В результате мы видим Корону неб{RUBY#[S]Трамплин Науацина}есного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
+**Кимоси:** В результате мы видим Корону небТрамплин Науацинаесного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
 
 **Кимоси:** Забравшись на самую высокую точку Короны небесного огня, вы окажетесь прямо у жерла. Жерло заполнено нестабильным газообразным флогистоном, больше похожим на стену...
 
@@ -490,7 +490,7 @@
 
 **Кимоси:** Я только объясняю маршрут. А как они будут добираться до цели, не моё дело.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р?
+**Малыш:** Р-р-р? Р-р?
 
 **Паймон:** Землетрясение... О нет, вулкан снова извергается!
 
@@ -498,7 +498,7 @@
 
 **Паймон:** Все монстры уничтожены!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Нзая:** Нет, я не о том. Вы не ранены? Раны от монстров из Бездны нужно как можно скорее обработать, иначе дело кончится плохо.
 
@@ -552,7 +552,7 @@
 
 **Кимоси:** Да. Видите камни, парящие вокруг жерла? Во время извержений они висят в воздухе из-за особых свойств флогистона...
 
-**Кимоси:** В результате мы видим Корону неб{RUBY#[S]Трамплин Науацина}есного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
+**Кимоси:** В результате мы видим Корону небТрамплин Науацинаесного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
 
 **Кимоси:** Забравшись на самую высокую точку Короны небесного огня, вы окажетесь прямо у жерла. Жерло заполнено нестабильным газообразным флогистоном, больше похожим на стену...
 
@@ -562,7 +562,7 @@
 
 **Кимоси:** Я только объясняю маршрут. А как путники будут добираться к цели... не моё дело!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р?
+**Малыш:** Р-р-р? Р-р?
 
 **Паймон:** Землетрясение... О нет, вулкан снова извергается!
 
@@ -590,7 +590,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -598,7 +598,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -606,7 +606,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, точно. А как ты узнал?
 
@@ -626,7 +626,7 @@
 
 **Нзая:** Но откуда ни возьмись появились монстры из Бездны...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Кимоси:** Не видели? Плохая новость. Реликвии в Руинах таинственного источника обладают очень высокой ценностью, их поместили туда намеренно...
 
@@ -640,7 +640,7 @@
 
 **Кимоси:** Да. Видите камни, парящие вокруг жерла? Во время извержений они висят в воздухе из-за особых свойств флогистона...
 
-**Кимоси:** В результате мы видим Корону неб{RUBY#[S]Трамплин Науацина}есного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
+**Кимоси:** В результате мы видим Корону небТрамплин Науацинаесного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
 
 **Кимоси:** Забравшись на самую высокую точку Короны небесного огня, вы окажетесь прямо у жерла. Жерло заполнено нестабильным газообразным флогистоном, больше похожим на стену...
 
@@ -650,7 +650,7 @@
 
 **Кимоси:** Я только объясняю маршрут. А как путники будут добираться к цели... не моё дело!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р?
+**Малыш:** Р-р-р? Р-р?
 
 **Паймон:** Землетрясение... О нет, вулкан снова извергается!
 
@@ -668,7 +668,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -676,7 +676,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -684,7 +684,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, точно. А как ты узнал?
 
@@ -704,7 +704,7 @@
 
 **Нзая:** Но откуда ни возьмись появились монстры из Бездны...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Кимоси:** Не видели? Плохая новость. Реликвии в Руинах таинственного источника обладают очень высокой ценностью, их поместили туда намеренно...
 
@@ -718,7 +718,7 @@
 
 **Кимоси:** Да. Видите камни, парящие вокруг жерла? Во время извержений они висят в воздухе из-за особых свойств флогистона...
 
-**Кимоси:** В результате мы видим Корону неб{RUBY#[S]Трамплин Науацина}есного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
+**Кимоси:** В результате мы видим Корону небТрамплин Науацинаесного огня. Не знаю, кто придумал такое название, но у него явные проблемы со вкусом...
 
 **Кимоси:** Забравшись на самую высокую точку Короны небесного огня, вы окажетесь прямо у жерла. Жерло заполнено нестабильным газообразным флогистоном, больше похожим на стену...
 
@@ -728,7 +728,7 @@
 
 **Кимоси:** Я только объясняю маршрут. А как путники будут добираться к цели... не моё дело!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р?
+**Малыш:** Р-р-р? Р-р?
 
 **Паймон:** Землетрясение... О нет, вулкан снова извергается!
 
@@ -746,7 +746,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -754,7 +754,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -762,7 +762,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, мы идём к вулкану... И мы уже нашли способ попасть туда!
 
@@ -782,7 +782,7 @@
 
 **Нзая:** Но откуда ни возьмись появились монстры из Бездны...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Кимоси:** Не видели? Плохая новость. Реликвии в Руинах таинственного источника обладают очень высокой ценностью, их поместили туда намеренно...
 
@@ -820,7 +820,7 @@
 
 **Кимоси:** Вот что, я очень благодарен вам за помощь. Могу я узнать ваши имена?
 
-**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Хи-хи, Паймон зовут Паймон, это Путешественник, а это наш спутник, малыш Малыш.
 
 **Кимоси:** Прекрасно! Какой замечательный у вас тепетлизаврик! Совсем как человек... У него даже одежда есть...
 
@@ -828,7 +828,7 @@
 
 **Нзая:** Для тебя нет, но для него шарфик - самая настоящая одежда...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Кимоси:** Вот в чём люди хуже заврианов. Нзая, взгляни на его рог...
 
@@ -836,7 +836,7 @@
 
 **Кимоси:** Вы идёте к вулкану?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, мы идём к вулкану... И мы уже нашли способ попасть туда!
 
@@ -856,7 +856,7 @@
 
 **Нзая:** Но откуда ни возьмись появились монстры из Бездны...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Кимоси:** Не видели? Плохая новость. Реликвии в Руинах таинственного источника обладают очень высокой ценностью, их поместили туда намеренно...
 
@@ -874,7 +874,7 @@
 
 **Паймон:** Все монстры уничтожены!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Нзая:** Нет, я не о том. Вы не ранены? Раны от монстров из Бездны нужно как можно скорее обработать, иначе дело кончится плохо.
 
@@ -898,7 +898,7 @@
 
 **Кимоси:** Гм... Вы видели статую? Она стояла на большом пьедестале среди руин...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у...
+**Малыш:** Ру-у...
 
 **Кимоси:** Скорее всего, статуя пропала... Ладно, отправимся на поиски позже...
 
@@ -938,7 +938,7 @@
 
 **Нзая:** И ещё помните: безопасность превыше всего!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ясно, мы запомним!
 
@@ -976,7 +976,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -984,7 +984,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -992,7 +992,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Huh? How did you know where we're headed!?
 
@@ -1022,7 +1022,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Paimon:** So, you want us to go to these Tephric Ruins with you?
 
@@ -1044,7 +1044,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Kimosi:** You're certainly full of confidence... We'll stand back and see how you do.
 
@@ -1054,7 +1054,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hehe, don't worry about us — we've got this!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Talk to the nearby tribespeople
 
@@ -1074,7 +1074,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -1082,7 +1082,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -1090,7 +1090,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Huh? How did you know where we're headed!?
 
@@ -1120,7 +1120,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Paimon:** So, you want us to go to these Tephric Ruins with you?
 
@@ -1142,7 +1142,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Kimosi:** You're certainly full of confidence... We'll stand back and see how you do.
 
@@ -1152,7 +1152,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hehe, don't worry about us — we've got this!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Nzaya:** We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time...
 
@@ -1180,7 +1180,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -1188,7 +1188,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -1196,7 +1196,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Huh? How did you know where we're headed!?
 
@@ -1224,7 +1224,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Paimon:** So, you want us to go to these Tephric Ruins with you?
 
@@ -1242,7 +1242,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Kimosi:** You're certainly full of confidence... We'll stand back and see how you do.
 
@@ -1252,7 +1252,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hehe, don't worry about us — we've got this!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Nzaya:** We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time...
 
@@ -1270,7 +1270,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -1278,7 +1278,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -1286,7 +1286,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Huh? How did you know where we're headed!?
 
@@ -1314,7 +1314,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Paimon:** So, you want us to go to these Tephric Ruins with you?
 
@@ -1332,7 +1332,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hmph, it's only a few monsters. Stand back and watch. We'll be all like "pew-pew" and they'll be gone in no time!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Kimosi:** You're certainly full of confidence... We'll stand back and see how you do.
 
@@ -1342,7 +1342,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** Hehe, don't worry about us — we've got this!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Talk to the tribespeople
 
@@ -1350,7 +1350,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** All the monsters have been cleared out!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Nzaya:** I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
 
@@ -1374,7 +1374,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Hmm... Did you see a statue? It should have been in the middle of the large platform in the ruins...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Kimosi:** I guess it must be missing... We'll just have to look for it later...
 
@@ -1404,7 +1404,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
 
-**Kimosi:** The end result is what's known as the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
+**Kimosi:** The end result is what's known as the "SkyfireNahuatzin's Springboard Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
 
 **Kimosi:** If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall...
 
@@ -1414,7 +1414,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Mrrroo?
+**Little One:** Rrrwar? Mrrroo?
 
 **Paimon:** It's an earthquake... Wait, no — the volcano's erupting!
 
@@ -1422,7 +1422,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** All the monsters have been cleared out!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Nzaya:** I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
 
@@ -1476,7 +1476,7 @@ But isn't Gosoythoth already...
 
 **Kimosi:** Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
 
-**Kimosi:** The end result is what's known as the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
+**Kimosi:** The end result is what's known as the "SkyfireNahuatzin's Springboard Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
 
 **Kimosi:** If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall...
 
@@ -1486,7 +1486,7 @@ But isn't Gosoythoth already...
 
 **Kimosi:** I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Mrrroo?
+**Little One:** Rrrwar? Mrrroo?
 
 **Paimon:** It's an earthquake... Wait, no — the volcano's erupting!
 
@@ -1514,7 +1514,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -1522,7 +1522,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -1530,7 +1530,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Huh? How did you know where we're headed!?
 
@@ -1550,7 +1550,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Kimosi:** No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins...
 
@@ -1564,7 +1564,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
 
-**Kimosi:** The end result is what's known as the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
+**Kimosi:** The end result is what's known as the "SkyfireNahuatzin's Springboard Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
 
 **Kimosi:** If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall...
 
@@ -1574,7 +1574,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Mrrroo?
+**Little One:** Rrrwar? Mrrroo?
 
 **Paimon:** It's an earthquake... Wait, no — the volcano's erupting!
 
@@ -1592,7 +1592,7 @@ Not so much as a scratch.
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -1600,7 +1600,7 @@ Not so much as a scratch.
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -1608,7 +1608,7 @@ Not so much as a scratch.
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Huh? How did you know where we're headed!?
 
@@ -1628,7 +1628,7 @@ Not so much as a scratch.
 
 **Nzaya:** And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Kimosi:** No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins...
 
@@ -1642,7 +1642,7 @@ Not so much as a scratch.
 
 **Kimosi:** Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions...
 
-**Kimosi:** The end result is what's known as the "Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
+**Kimosi:** The end result is what's known as the "SkyfireNahuatzin's Springboard Circlet"... I'm not sure who came up with that name, but it could do with a bit of work.
 
 **Kimosi:** If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall...
 
@@ -1652,7 +1652,7 @@ Not so much as a scratch.
 
 **Kimosi:** I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Mrrroo?
+**Little One:** Rrrwar? Mrrroo?
 
 **Paimon:** It's an earthquake... Wait, no — the volcano's erupting!
 
@@ -1670,7 +1670,7 @@ Not so much as a scratch.
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -1678,7 +1678,7 @@ Not so much as a scratch.
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -1686,7 +1686,7 @@ Not so much as a scratch.
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** That's right. We're gonna enter the volcano... and we already know how!
 
@@ -1706,7 +1706,7 @@ Not so much as a scratch.
 
 **Nzaya:** And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Kimosi:** No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins...
 
@@ -1744,7 +1744,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you...
 
-**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Hehe. Paimon's Paimon, and he's / she's Traveler! And this is our little companion, Little One.
 
 **Kimosi:** Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes...
 
@@ -1752,7 +1752,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** On you, I'm not sure it would. But on this little guy, that's exactly what it is...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrawr?
+**Little One:** Rrrawr?
 
 **Kimosi:** That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn...
 
@@ -1760,7 +1760,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Are you going to the volcano, then?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** That's right. We're gonna enter the volcano... and we already know how!
 
@@ -1780,7 +1780,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** And that's when we discovered all these Abyssal monsters crawling out of the woodwork...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Kimosi:** No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins...
 
@@ -1798,7 +1798,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Paimon:** All the monsters have been cleared out!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Nzaya:** I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly.
 
@@ -1822,7 +1822,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Kimosi:** Hmm... Did you see a statue? It should have been in the middle of the large platform in the ruins...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroo...
+**Little One:** Grroo...
 
 **Kimosi:** I guess it must be missing... We'll just have to look for it later...
 
@@ -1862,7 +1862,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **Nzaya:** One last thing — Safety. Comes. First!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Understood!
 
@@ -1900,7 +1900,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -1908,7 +1908,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -1916,7 +1916,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…咦，你怎么知道的？
 
@@ -1946,7 +1946,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 如果可以，我想，我和妮扎娅也不用回部族，这样，更省时间…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **派蒙:** 咦，那…我们要一起去那个「喷发遗迹」里吗？
 
@@ -1968,7 +1968,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 哼，不就是魔物吗，看我们「咻咻—」一下就把它们处理掉。基莫西说得对，由我们出手，肯定更省「时间」！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **基莫西:** 嗯，看来你们很自信呢…究竟如何，就让我拭目以待吧。
 
@@ -1978,7 +1978,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 嘿嘿，没关系，就看我们的吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 与一旁的部族人对话
 
@@ -1998,7 +1998,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -2006,7 +2006,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -2014,7 +2014,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…咦，你怎么知道的？
 
@@ -2044,7 +2044,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 如果可以，我想，我和妮扎娅也不用回部族，这样，更省时间…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **派蒙:** 咦，那…我们要一起去那个「喷发遗迹」里吗？
 
@@ -2066,7 +2066,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 哼，不就是魔物吗，看我们「咻咻—」一下就把它们处理掉。基莫西说得对，由我们出手，肯定更省「时间」！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **基莫西:** 嗯，看来你们很自信呢…究竟如何，就让我拭目以待吧。
 
@@ -2076,7 +2076,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 嘿嘿，没关系，就看我们的吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **妮扎娅:** 真是…啊，真是多谢你们的援助…这些怪物突然涌出来，真是难办，战斗可得花很多时间…
 
@@ -2104,7 +2104,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -2112,7 +2112,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -2120,7 +2120,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…咦，你怎么知道的？
 
@@ -2148,7 +2148,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 如果可以，我想，我和妮扎娅也不用回部族，这样，更省时间…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **派蒙:** 咦，那…我们要一起去那个「喷发遗迹」里吗？
 
@@ -2166,7 +2166,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 哼，不就是魔物吗，看我们「咻咻—」一下就把它们处理掉。基莫西说得对，由我们出手，肯定更省「时间」！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **基莫西:** 嗯，看来你们很自信呢…究竟如何，就让我拭目以待吧。
 
@@ -2176,7 +2176,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 嘿嘿，没关系，就看我们的吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **妮扎娅:** 真是…啊，真是多谢你们的援助…这些怪物突然涌出来，真是难办，战斗可得花很多时间…
 
@@ -2194,7 +2194,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -2202,7 +2202,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -2210,7 +2210,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…咦，你怎么知道的？
 
@@ -2238,7 +2238,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 如果可以，我想，我和妮扎娅也不用回部族，这样，更省时间…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **派蒙:** 咦，那…我们要一起去那个「喷发遗迹」里吗？
 
@@ -2256,7 +2256,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 哼，不就是魔物吗，看我们「咻咻—」一下就把它们处理掉。基莫西说得对，由我们出手，肯定更省「时间」！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **基莫西:** 嗯，看来你们很自信呢…究竟如何，就让我拭目以待吧。
 
@@ -2266,7 +2266,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 嘿嘿，没关系，就看我们的吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 与前来的部族人对话
 
@@ -2274,7 +2274,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 里面的怪物全都处理干净啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **妮扎娅:** 不，我是问你们有没有受伤，深渊魔物造成的伤如果不及时处理，后果可是很严重的。
 
@@ -2298,7 +2298,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 嗯…你有看到一尊雕像吗？应该就摆放在遗迹大台子的中间来着…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **基莫西:** 看来是没有啊…那看来只能之后再找找了…
 
@@ -2328,7 +2328,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 嗯，你们看到火山口上的那些浮石了吗，在火山喷发的时候，因为燃素的「气态性」堆垒在那里的漂浮岩石…
 
-**基莫西:** 那个地方被称为「天火{RUBY#[D]纳华钦的跳台}之冠」…不知道是谁取的这个名字，品味稍微有点差。
+**基莫西:** 那个地方被称为「天火纳华钦的跳台之冠」…不知道是谁取的这个名字，品味稍微有点差。
 
 **基莫西:** 攀登到「天火之冠」的高点，就能够直面火山口，火山口汇聚了大量不稳定的「气态燃素」，像一座墙那样…
 
@@ -2338,7 +2338,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 我只是指路，但是至于行路的旅人是乘车还是步行，可就不是我能管得到的啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？唔嗯？
+**小家伙:** 唔？唔嗯？
 
 **派蒙:** 地震…不、是火山又喷发了！
 
@@ -2346,7 +2346,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 里面的怪物全都处理干净啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **妮扎娅:** 不，我是问你们有没有受伤，深渊魔物造成的伤如果不及时处理，后果可是很严重的。
 
@@ -2400,7 +2400,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 嗯，你们看到火山口上的那些浮石了吗，在火山喷发的时候，因为燃素的「气态性」堆垒在那里的漂浮岩石…
 
-**基莫西:** 那个地方被称为「天火{RUBY#[D]纳华钦的跳台}之冠」…不知道是谁取的这个名字，品味稍微有点差。
+**基莫西:** 那个地方被称为「天火纳华钦的跳台之冠」…不知道是谁取的这个名字，品味稍微有点差。
 
 **基莫西:** 攀登到「天火之冠」的高点，就能够直面火山口，火山口汇聚了大量不稳定的「气态燃素」，像一座墙那样…
 
@@ -2410,7 +2410,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 我只是指路，但是至于行路的旅人是乘车还是步行，可就不是我这个指路老翁能管得到的啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？唔嗯？
+**小家伙:** 唔？唔嗯？
 
 **派蒙:** 地震…不、是火山又喷发了！
 
@@ -2438,7 +2438,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -2446,7 +2446,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -2454,7 +2454,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…咦，你怎么知道的？
 
@@ -2474,7 +2474,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 结果才发现深渊魔物从这里涌了出来…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **基莫西:** 没有吗，这可难办了，那些古代秘源遗迹里的东西都是很珍贵的，特意被供在这里的遗迹里呀…
 
@@ -2488,7 +2488,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 嗯，你们看到火山口上的那些浮石了吗，在火山喷发的时候，因为燃素的「气态性」堆垒在那里的漂浮岩石…
 
-**基莫西:** 那个地方被称为「天火{RUBY#[D]纳华钦的跳台}之冠」…不知道是谁取的这个名字，品味稍微有点差。
+**基莫西:** 那个地方被称为「天火纳华钦的跳台之冠」…不知道是谁取的这个名字，品味稍微有点差。
 
 **基莫西:** 攀登到「天火之冠」的高点，就能够直面火山口，火山口汇聚了大量不稳定的「气态燃素」，像一座墙那样…
 
@@ -2498,7 +2498,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 我只是指路，但是至于行路的旅人是乘车还是步行，可就不是我这个指路老翁能管得到的啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？唔嗯？
+**小家伙:** 唔？唔嗯？
 
 **派蒙:** 地震…不、是火山又喷发了！
 
@@ -2516,7 +2516,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -2524,7 +2524,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -2532,7 +2532,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…咦，你怎么知道的？
 
@@ -2552,7 +2552,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 结果才发现深渊魔物从这里涌了出来…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **基莫西:** 没有吗，这可难办了，那些古代秘源遗迹里的东西都是很珍贵的，特意被供在这里的遗迹里呀…
 
@@ -2566,7 +2566,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 嗯，你们看到火山口上的那些浮石了吗，在火山喷发的时候，因为燃素的「气态性」堆垒在那里的漂浮岩石…
 
-**基莫西:** 那个地方被称为「天火{RUBY#[D]纳华钦的跳台}之冠」…不知道是谁取的这个名字，品味稍微有点差。
+**基莫西:** 那个地方被称为「天火纳华钦的跳台之冠」…不知道是谁取的这个名字，品味稍微有点差。
 
 **基莫西:** 攀登到「天火之冠」的高点，就能够直面火山口，火山口汇聚了大量不稳定的「气态燃素」，像一座墙那样…
 
@@ -2576,7 +2576,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 我只是指路，但是至于行路的旅人是乘车还是步行，可就不是我这个指路老翁能管得到的啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？唔嗯？
+**小家伙:** 唔？唔嗯？
 
 **派蒙:** 地震…不、是火山又喷发了！
 
@@ -2594,7 +2594,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -2602,7 +2602,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -2610,7 +2610,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…而且，已经找到进入火山的办法啦！
 
@@ -2630,7 +2630,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 结果才发现深渊魔物从这里涌了出来…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **基莫西:** 没有吗，这可难办了，那些古代秘源遗迹里的东西都是很珍贵的，特意被供在这里的遗迹里呀…
 
@@ -2668,7 +2668,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 哈，好吧，再次感谢你们的援助，请问二位、不，三位的尊姓大名…
 
-**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 嘿嘿，我叫派蒙，他 / 她是旅行者，这是我们的小伙伴，小家伙。
 
 **基莫西:** 真棒，你们家的小嵴锋龙看上去就是个很棒的家伙，看上去…人模人样的，还穿着衣服…
 
@@ -2676,7 +2676,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 在你身上不算，在这个小家伙的身上就算了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？
+**小家伙:** 唔嗯？
 
 **基莫西:** 这就是人不如龙的地方了，嘿，妮扎娅，看看它的角…
 
@@ -2684,7 +2684,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 你们想要去火山？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，我们要去火山…而且，已经找到进入火山的办法啦！
 
@@ -2704,7 +2704,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 结果才发现深渊魔物从这里涌了出来…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **基莫西:** 没有吗，这可难办了，那些古代秘源遗迹里的东西都是很珍贵的，特意被供在这里的遗迹里呀…
 
@@ -2722,7 +2722,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **派蒙:** 里面的怪物全都处理干净啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **妮扎娅:** 不，我是问你们有没有受伤，深渊魔物造成的伤如果不及时处理，后果可是很严重的。
 
@@ -2746,7 +2746,7 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **基莫西:** 嗯…你有看到一尊雕像吗？应该就摆放在遗迹大台子的中间来着…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **基莫西:** 看来是没有啊…那看来只能之后再找找了…
 
@@ -2786,6 +2786,6 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 **妮扎娅:** 以及，一定要注意安全！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 嗯，我们会的！

@@ -7,14 +7,14 @@
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 10050
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 40047,40048,40049,40050,40051
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_eq_40061,quest_wq_10059,quest_wq_72276
-# quest_chain: quest_eq_10050,quest_eq_40061,quest_wq_10059,quest_wq_72276
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_eq_10050
 # quest_series: Three Realms Gateway Offering
 # version_source: wiki_release_category
 

@@ -3,18 +3,18 @@
 # title_ru: Уроки ведьм: Тест на проницательность
 # title_en: Witch's Homework: Of Untested Insight
 # title_zh: 魔女的课业·干慧之题
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.2
 # release_versions: 1.2,6.2
 # source_id: 2077
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 10004
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_wq_2076,quest_wq_2078,quest_wq_2079,quest_wq_2080,quest_wq_2081,quest_wq_2082,quest_wq_2083,quest_wq_10134,quest_wq_70066,quest_wq_70070,quest_wq_10189,quest_wq_10239,quest_wq_10252,quest_wq_10253
-# quest_chain: quest_wq_2076,quest_wq_2077,quest_wq_2078,quest_wq_2079,quest_wq_2080,quest_wq_2081,quest_wq_2082,quest_wq_2083,quest_wq_10134,quest_wq_70066,quest_wq_70070,quest_wq_10189,quest_wq_10239,quest_wq_10252,quest_wq_10253
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_2077
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
 

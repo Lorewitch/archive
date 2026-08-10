@@ -3,19 +3,19 @@
 # title_ru: Вдруг где-то есть и другой дом
 # title_en: Another Home There May Yet Be
 # title_zh: 若还有另一个家
-# region: Сумеру
+# region: Тейват
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 13028
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 13028
 # previous_quests: quest_lq_2039
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2034,quest_lq_2039
 # quest_chain: quest_lq_2034,quest_lq_2039,quest_wq_13028
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

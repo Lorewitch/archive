@@ -3,19 +3,19 @@
 # title_ru: Негодяи
 # title_en: Villains
 # title_zh: 坏蛋们
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74018
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74018
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74018
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

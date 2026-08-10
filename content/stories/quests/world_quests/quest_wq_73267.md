@@ -3,19 +3,19 @@
 # title_ru: Вступайте в ряды Пустынников, и ваша жизнь наладится!
 # title_en: Join the Eremites and Embrace a Wonderful New Life!
 # title_zh: 加入镀金旅团，拥抱美好生活！
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73267
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73267
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73267
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

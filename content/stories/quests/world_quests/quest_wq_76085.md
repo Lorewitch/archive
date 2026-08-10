@@ -3,16 +3,16 @@
 # title_ru: Тост в лунном свете
 # title_en: A Toast Beneath the Moon
 # title_zh: 月下小酌
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 76085
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76085
 # previous_quests: quest_wq_76123
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_76035,quest_wq_76036,quest_wq_76029,quest_wq_76030,quest_wq_76031,quest_wq_76051,quest_wq_76054,quest_wq_76083,quest_wq_76086,quest_wq_76050,quest_wq_76049,quest_wq_76084,quest_wq_76060,quest_wq_76052,quest_wq_76122,quest_wq_76118,quest_wq_76120,quest_wq_76121,quest_wq_76119,quest_wq_76123
 # quest_chain: quest_wq_76035,quest_wq_76036,quest_wq_76029,quest_wq_76030,quest_wq_76031,quest_wq_76051,quest_wq_76054,quest_wq_76083,quest_wq_76086,quest_wq_76050,quest_wq_76049,quest_wq_76084,quest_wq_76060,quest_wq_76052,quest_wq_76122,quest_wq_76118,quest_wq_76120,quest_wq_76121,quest_wq_76119,quest_wq_76123,quest_wq_76085
 # quest_series: Silvermoon Hall: Selenic Chronicles

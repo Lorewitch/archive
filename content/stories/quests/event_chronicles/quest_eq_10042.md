@@ -11,10 +11,10 @@
 # chapter_num_en: Moonlight Merriment: Part I
 # chapter_num_zh: 韶光抚月 其一
 # part_source_ids: 40014
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10043
-# related_quests: quest_eq_10043,quest_wq_71500,quest_wq_70501,quest_wq_70500,quest_wq_72664
-# quest_chain: quest_eq_10042,quest_eq_10043,quest_wq_71500,quest_wq_70501,quest_wq_70500,quest_wq_72664
+# related_quests: quest_eq_10043
+# quest_chain: quest_eq_10042,quest_eq_10043
 # quest_series: Moonlight Merriment
 # version_source: wiki_release_category
 
@@ -3090,7 +3090,7 @@ The Stove God is the friend, right?
 
 **香菱:** 那我也先去准备一下！旅行者你呢？是四处转转，还是进来休息一下？
 
-**刻晴:** 刚好我有些事要跟{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}说，你先忙吧。
+**刻晴:** 刚好我有些事要跟空/荧说，你先忙吧。
 
 **香菱:** 嗯，好。
 

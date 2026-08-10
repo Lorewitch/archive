@@ -12,7 +12,7 @@
 # chapter_num_zh: 白垩与黑龙 第五幕
 # part_source_ids: 41214
 # previous_quests: quest_eq_10013
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10010,quest_eq_10011,quest_eq_10012,quest_eq_10013
 # quest_chain: quest_eq_10010,quest_eq_10011,quest_eq_10012,quest_eq_10013,quest_eq_10014
 # quest_series: The Chalk Prince and the Dragon

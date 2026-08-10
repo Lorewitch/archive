@@ -3,19 +3,19 @@
 # title_ru: Удобрений... продавец?
 # title_en: Fertilizer... Salesperson?
 # title_zh: 肥料…推销员？
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72813
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72813
 # previous_quests: quest_wq_72153
 # next_quests: quest_wq_73105
 # related_quests: quest_wq_71810,quest_wq_72153,quest_wq_73105
 # quest_chain: quest_wq_71810,quest_wq_72153,quest_wq_72813,quest_wq_73105
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

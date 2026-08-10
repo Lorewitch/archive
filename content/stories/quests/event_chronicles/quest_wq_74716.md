@@ -1,0 +1,295 @@
+# id: quest_wq_74716
+# story_group: event_chronicles
+# title_ru: Подводная опасность устранена...
+# title_en: Betterments in Aquatic Circumstances...
+# title_zh: 水域状况已好转…
+# region: Тейват
+# game_version: 6.7
+# release_versions: 6.7
+# source_id: 74716
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 74716
+# previous_quests: quest_wq_74715
+# next_quests:
+# related_quests: quest_wq_74713,quest_wq_74714,quest_wq_74715
+# quest_chain: quest_wq_74713,quest_wq_74714,quest_wq_74715,quest_wq_74716
+# quest_series: Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# version_source: wiki_release_category
+
+## RU
+
+### Подводная опасность устранена...
+
+Фремине хочет с нами поговорить...
+
+#### Поговорите с Фремине
+
+**Фремине:** Отлично... Основную часть подводной свалки мы разобрали.
+
+**Фремине:** Вы мне очень помогли, Путешественник и Паймон.
+
+**Паймон:** Да ну, перестань! Мы даже не устали. И это погружение принесло нам много находок!
+
+- **Путешественник:** Мы помогли восстановить подводную среду.
+
+- **Путешественник:** И нашли много прекрасных сокровищ.
+
+**Фремине:** Спасибо вам... Я провёл время весело и с пользой.
+
+**Паймон:** Не благодари! К тому же Паймон считает, что Фремине тоже очень вырос за последнее время! Ты стал надёжным помощником и на суше, и под водой!
+
+Только не смущайся.
+
+**Фремине:** Х-хорошо.
+
+**Фремине:** ...
+
+**Фремине:** Простите, я не знаю, что сказать, кроме обычного «спасибо».
+
+**Фремине:** Возможно... мне нужно ещё немного практики?
+
+**Паймон:** Не торопись, спешить тут некуда. Даже если это обычная тренировка, двигайся в своём ритме.
+
+- **Путешественник:** Если будет такая возможность, поработаем вместе как-нибудь ещё.
+
+- **Путешественник:** Если понадобится помощь, мы всегда рядом.
+
+**Фремине:** Да... хорошо.
+
+**Фремине:** ...Я думал, что после расчистки дна мне нужно будет побыть какое-то время в одиночестве под водой.
+
+**Фремине:** Вот странно, после разговора с вами... даже небо кажется таким спокойным. Я хотел... поделиться с вами своими чувствами.
+
+**Фремине:** Ну... я пойду к Лини и остальным.
+
+**Фремине:** Все прочие данные подводной разведки оставляю вам. Надеюсь, вы найдёте то, что ищете.
+
+**Марионетка:** Ух ты, я ещё наверху услышала, как вы радуетесь. Что-то хорошее случилось?
+
+**Паймон:** Ага! Мы выловили почти весь мусор, который мешал рыбкам, и ещё нашли оставшиеся части фортепиано!
+
+**Марионетка:** Да? Посмотрим...
+
+**Марионетка:** ...И правда. Всё на месте. Теперь я смогу починить фортепиано.
+
+**Марионетка:** Да, вряд ли оно станет таким, как было, но научить его снова играть красивую музыку я смогу.
+
+**Паймон:** Ты выглядишь такой счастливой!
+
+**Марионетка:** Д-да? Ну и ладно, сейчас я возьмусь за починку, это не займёт много времени. А вы пока помогите мне здесь всё украсить.
+
+**Марионетка:** Такому роскошному инструменту нужна подходящая сцена, ха-ха.
+
+**Паймон:** Она и правда счастлива...
+
+**Паймон:** Ого! Какое красивое фортепиано!
+
+- **Путешественник:** Очень изящное!
+
+- **Путешественник:** Какое роскошное!
+
+**Марионетка:** Хм, а то. Ведь это я его починила. Я ещё и механические соединения усилила, и корпус подновила.
+
+**Марионетка:** Вы тоже неплохо поработали. Такая сцена ему очень подходит.
+
+**Паймон:** Да ну, мелочи! Ладно, хватит разговоров. Давай лучше ты нам что-нибудь сыграешь?
+
+**Марионетка:** ...А? Прямо сейчас?
+
+**Паймон:** А когда? Ты ведь починила фортепиано, чтобы играть на нём, разве нет?
+
+**Марионетка:** Сегодня... пожалуй, не стоит! Лучше как-нибудь в другой раз!
+
+- **Путешественник:** Забыла ноты?
+
+- **Путешественник:** Стесняешься?
+
+**Марионетка:** Хм... Надоело! Я просто хочу побыть с ним наедине и спокойно вспомнить прошлое!
+
+**Марионетка:** Вы правда думаете, что от пары дурацких провокаций я возьму и соглашусь? Ха, идите потренируйтесь ещё немного, тогда и поговорим!
+
+## EN
+
+### Betterments in Aquatic Circumstances...
+
+Freminet seems to have something to tell us...
+
+#### Talk to Freminet
+
+**Freminet:** Fantastic... That's pretty much all of the major junk retrieved.
+
+**Freminet:** I'm sorry you've had to work so hard, you two.
+
+**Paimon:** Don't feel like you have to apologize, Freminet! The way Paimon sees it, we haven't been "working" — we've been fishing up goodies!
+
+- **Traveler:** We helped to restore the environment.
+
+- **Traveler:** And we found a whole bunch of treasure.
+
+**Freminet:** Thank you... I've had such a happy and fulfilling time, and it's all thanks to you.
+
+**Paimon:** You're welcome! Besides, it was a team effort! Aaaand, Paimon thinks you've made some real progress. You've been a great help both underwater and on land!
+
+There's no need to blush.
+
+**Freminet:** Oh, uh... Alright.
+
+**Freminet:** ...
+
+**Freminet:** I'm sorry, besides "thank you," I really don't know what else to say at times like these.
+
+**Freminet:** Maybe... I still need a little more practice?
+
+**Paimon:** Take your time, there's no hurry. Just keep working on it at your own pace!
+
+- **Traveler:** If we get the chance, let's cooperate again in the future.
+
+- **Traveler:** If you need any help, you can always count on us.
+
+**Freminet:** Alright, it's a deal.
+
+**Freminet:** ...Now that the cleanup's over, I was planning on going back underwater to spend some time alone.
+
+**Freminet:** But weirdly enough, after talking with you... even the sky itself seems calmer. I just wanted to... share this feeling with you.
+
+**Freminet:** Anyway... I'd best head back and meet up with Lyney and the others.
+
+**Freminet:** I'll leave the rest of the underwater survey data with you. I hope you find what you're looking for.
+
+**Marionette:** Hey, I could hear you celebrating from above decks. Has something good happened?
+
+**Paimon:** Yeah! All that junk that was upsetting the fishies has pretty much been cleared away. We also found the rest of the piano pieces!
+
+**Marionette:** Really? Let me take a look...
+
+**Marionette:** ...Well, I'll be. With these components, I can finally fix the piano.
+
+**Marionette:** It might not be exactly how it was before, but it should be able to play beautiful music again.
+
+**Paimon:** Aww. You sound really happy, Sandrone!
+
+**Marionette:** D—Do I? Whatever, I'll go fix it right away. It shouldn't take me long. In the meantime, could I trouble you to spruce this place up a bit?
+
+**Marionette:** Such a wonderful instrument deserves a proper stage to set the scene.
+
+**Paimon:** Aww... She sure looks happy...
+
+**Paimon:** Whoa! What a beautiful piano!
+
+- **Traveler:** It's very elegant!
+
+- **Traveler:** It's gorgeous!
+
+**Marionette:** Hmph, of course it is. It was me who fixed it, after all! I also reinforced the mechanical linkages and retouched the exterior.
+
+**Marionette:** You two didn't do too badly yourselves. This stage is truly worthy of this piano.
+
+**Paimon:** Hehe, it was nothing! Anyway, that's enough chitchat. Aren't you gonna play us a song?
+
+**Marionette:** ...Huh? Right now?
+
+**Paimon:** When else? Why fix the piano if you're not gonna play?
+
+**Marionette:** How about... we leave the performance on hold for today! There's plenty of time for me to play for you later.
+
+- **Traveler:** Forgot your sheet music?
+
+- **Traveler:** Feeling shy?
+
+**Marionette:** Hmph... Absolute nonsense! I—I just want to sit with it quietly for a while and reminisce about the past!
+
+**Marionette:** And don't think a few cheap taunts are gonna get me to play. Hmph, practice first, performance later!
+
+## ZH
+
+### 水域状况已好转…
+
+菲米尼似乎有事找我们…
+
+#### 与菲米尼对话
+
+**菲米尼:** 太好了…这下，最主要的水下废弃物基本被打捞完了。
+
+**菲米尼:** 让你们受累了，旅行者和派蒙。
+
+**派蒙:** 没有啦没有啦，比起受累这种说法，我更愿意说这次是收获满满哦。
+
+- **旅行者:** 既帮助了修复水下环境。
+
+- **旅行者:** 又找到了许多漂亮宝藏。
+
+**菲米尼:** 谢谢你们…托你们的福，我才度过了一段愉快而又充实的时光。
+
+**派蒙:** 不用客气，这是大家的共同努力！而且，我觉得菲米尼也很有进步呢，水下和水上的时候都可靠。
+
+别害羞。
+
+**菲米尼:** 好…好的。
+
+**菲米尼:** ……
+
+**菲米尼:** 抱歉，除了感谢的话，我还是不知道这种时候应该说些什么。
+
+**菲米尼:** 可能…我还需要再多练习一段时间？
+
+**派蒙:** 慢慢来，不着急。即使是练习，也按照自己的节奏一点一点努力就行啦。
+
+- **旅行者:** 以后有机会，还可以这样合作。
+
+- **旅行者:** 下次有事情，还可以来找我们。
+
+**菲米尼:** 嗯，一定。
+
+**菲米尼:** …我本来以为，在任务完成之后，我会需要回水下独处一段时间的。
+
+**菲米尼:** 但很神奇，和你们聊过天…就连天空也变得非常宁静。我想把此刻的这种心情…告诉你们。
+
+**菲米尼:** 那…我今天先回去和林尼他们会合了。
+
+**菲米尼:** 余下的水底勘测信息，就交给你们了。祝愿你们能够找到满意的收获。
+
+**「木偶」:** 哟，我在楼上就听见你们庆祝的声音了。看来是有好事发生？
+
+**派蒙:** 嗯！我们把影响鱼儿们生活的废品基本打捞完了，还找到了钢琴剩下的部件！
+
+**「木偶」:** 真的吗？我看看…
+
+**「木偶」:** …还真是。有了这些，我就能修好这架钢琴了。
+
+**「木偶」:** 虽说不是复原得和当初一模一样，但也能再次让它流出好听的音乐了。
+
+**派蒙:** 你听起来很开心嘛。
+
+**「木偶」:** 有…有吗？不管了，我现在就去修复它，花不了多少时间。你们帮我装点一下这里吧。
+
+**「木偶」:** 只有好看的舞台，才配得上你的乐声。哈哈。
+
+**派蒙:** 她果然很高兴啊…
+
+**派蒙:** 哇！好漂亮的钢琴！
+
+- **旅行者:** 好典雅！
+
+- **旅行者:** 好华丽！
+
+**「木偶」:** 哼哼，那当然。也不看看是谁修的。我还为它重新加固了一下机械联动装置，翻新了一下外装。
+
+**「木偶」:** 你们干得也不赖嘛，这舞台也配得上它了。
+
+**派蒙:** 哎呀呀，小事小事。快别说那么多了，你现在不弹一首吗？
+
+**「木偶」:** …欸？现在？
+
+**派蒙:** 不然呢？你修好它不就是为了弹的吗？
+
+**「木偶」:** 今天…就算了吧！以后有机会再弹也不迟！
+
+- **旅行者:** 忘谱了？
+
+- **旅行者:** 害羞了？
+
+**「木偶」:** 啧…啰嗦…！我只是想先安静地和它待待，怀念一下过去的时光而已！
+
+**「木偶」:** 别以为随便挑衅我两句我就会答应，哼，回去练练再来吧！

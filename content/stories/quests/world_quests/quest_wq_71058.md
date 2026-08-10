@@ -3,15 +3,15 @@
 # title_ru: Пропавшая на чужбине
 # title_en: Lost in a Foreign Land
 # title_zh: 他乡迷失客
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71058
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71058
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_71059
 # related_quests: quest_wq_71059
 # quest_chain: quest_wq_71058,quest_wq_71059

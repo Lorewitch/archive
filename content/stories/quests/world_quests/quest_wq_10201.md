@@ -7,9 +7,9 @@
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 10201
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74115
 # previous_quests: quest_wq_10200
 # next_quests: quest_wq_10202

@@ -3,19 +3,19 @@
 # title_ru: Фонтейнское послание
 # title_en: A Fontainian Message
 # title_zh: 一条枫丹信息
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74009
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74009
 # previous_quests: quest_wq_74008
 # next_quests: quest_wq_10200
 # related_quests: quest_wq_74008,quest_wq_10200,quest_wq_10201,quest_wq_10202
 # quest_chain: quest_wq_74008,quest_wq_74009,quest_wq_10200,quest_wq_10201,quest_wq_10202
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

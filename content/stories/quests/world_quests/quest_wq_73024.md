@@ -3,18 +3,18 @@
 # title_ru: Встреча в лесу
 # title_en: Woodland Encounter
 # title_zh: 林中奇遇
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73024
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73024
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10073
-# related_quests: quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082,quest_wq_73248
-# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082,quest_wq_73248
+# related_quests: quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
+# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 

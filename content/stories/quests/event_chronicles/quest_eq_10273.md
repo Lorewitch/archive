@@ -3,7 +3,7 @@
 # title_ru: Сохранённое нами
 # title_en: Those We Have Kept
 # title_zh: 那些我们所留驻的
-# region: Фонтейн
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 10273
@@ -12,9 +12,9 @@
 # chapter_num_zh: 映夏！归乡？千灵节！ 第三幕
 # part_source_ids: 40246,40247
 # previous_quests: quest_eq_10272
-# next_quests: 
-# related_quests: quest_eq_10271,quest_eq_10272,quest_wq_74700,quest_wq_74702,quest_wq_74701,quest_wq_74703,quest_wq_74704,quest_wq_74705,quest_wq_74706,quest_wq_74707,quest_wq_74708,quest_wq_74709,quest_wq_74710,quest_wq_74711,quest_wq_74712,quest_wq_74713,quest_wq_74714,quest_wq_74715,quest_wq_74716
-# quest_chain: quest_eq_10271,quest_eq_10272,quest_eq_10273,quest_wq_74700,quest_wq_74702,quest_wq_74701,quest_wq_74703,quest_wq_74704,quest_wq_74705,quest_wq_74706,quest_wq_74707,quest_wq_74708,quest_wq_74709,quest_wq_74710,quest_wq_74711,quest_wq_74712,quest_wq_74713,quest_wq_74714,quest_wq_74715,quest_wq_74716
+# next_quests:
+# related_quests: quest_eq_10271,quest_eq_10272
+# quest_chain: quest_eq_10271,quest_eq_10272,quest_eq_10273
 # quest_series: Sunny Summer Fontinalia || Sunny Summer Fontinalia (Event)
 # version_source: wiki_release_category
 

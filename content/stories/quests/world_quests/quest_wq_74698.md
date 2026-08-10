@@ -3,18 +3,18 @@
 # title_ru: Пророчество ведьмы: Указания великого ёкая
 # title_en: Witch's Revelation: Great Youkai's Instruction
 # title_zh: 魔女的谕示·大妖怪之谕
-# region: Фонтейн
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 74698
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74698
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_wq_74691,quest_wq_74692,quest_wq_74693,quest_wq_74694,quest_wq_74695,quest_wq_74696,quest_wq_74697
-# quest_chain: quest_wq_74691,quest_wq_74692,quest_wq_74693,quest_wq_74694,quest_wq_74695,quest_wq_74696,quest_wq_74697,quest_wq_74698
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_74698
 # quest_series: Witch's Revelation
 # version_source: wiki_release_category
 

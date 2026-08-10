@@ -11,11 +11,11 @@
 # chapter_num_en: Lepus Miles Chapter: Act I
 # chapter_num_zh: 狡兔之章 第一幕
 # part_source_ids: 10011,10012,10013
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2088
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1212,11 +1212,11 @@
 
 **Варка:** Трое юношей, полных стремлений, когда-то вместе мечтали о будущем.
 
-**Варка:** Один был богатым мол{RUBY#[D]Крепус}одым человеком. Мечтал стать рыцарем, но в итоге унаследовал семейную винодельню.
+**Варка:** Один был богатым молКрепусодым человеком. Мечтал стать рыцарем, но в итоге унаследовал семейную винодельню.
 
-**Варка:** Второй - вспыльчивый нарушите{RUBY#[S]Варка}ль правил, который в итоге возглавил рыцарей Ордо Фавониус.
+**Варка:** Второй - вспыльчивый нарушитеВаркаль правил, который в итоге возглавил рыцарей Ордо Фавониус.
 
-**Варка:** А тре{RUBY#[S]Эрох}тий... не получил ни богатства, к которому стремился, ни силы, о которой мечтал.
+**Варка:** А треЭрохтий... не получил ни богатства, к которому стремился, ни силы, о которой мечтал.
 
 **Варка:** И в итоге осталась лишь одержимость, ухудшающаяся день за днём.
 
@@ -2980,11 +2980,11 @@ Yes. At the time, I...
 
 **Varka:** Once, there were three spirited young men who imagined their futures together.
 
-**Varka:** One was a rich young {RUBY#[D]Crepus}master. He dreamed of becoming a knight, but ended up inheriting the family winery.
+**Varka:** One was a rich young Crepusmaster. He dreamed of becoming a knight, but ended up inheriting the family winery.
 
-**Varka:** Next came the hot-headed rule-b{RUBY#[S]Varka}reaker, who ended up leading the Knights of Favonius.
+**Varka:** Next came the hot-headed rule-bVarkareaker, who ended up leading the Knights of Favonius.
 
-**Varka:** And the last {RUBY#[S]Eroch}one... obtained neither the wealth he desired, nor the power he yearned for.
+**Varka:** And the last Erochone... obtained neither the wealth he desired, nor the power he yearned for.
 
 **Varka:** Obsession was all that was left, piling up day after day into a towering spire.
 
@@ -4748,11 +4748,11 @@ He sure can be persuasive when he wants to be...
 
 **法尔伽:** 三个意气风发的年轻人，曾一起畅想过各自的未来。
 
-**法尔伽:** 一名想成为骑士的富家{RUBY#[D]克利普斯}少爷，最后继承了酒庄的生意。
+**法尔伽:** 一名想成为骑士的富家克利普斯少爷，最后继承了酒庄的生意。
 
-**法尔伽:** 一个总是坏规矩的愣头{RUBY#[S]法尔伽}青，最后统领了整个骑士团。
+**法尔伽:** 一个总是坏规矩的愣头法尔伽青，最后统领了整个骑士团。
 
-**法尔伽:** 最后那一{RUBY#[S]伊洛克}位…既没有获得向往的财富，也没有获得憧憬的力量。
+**法尔伽:** 最后那一伊洛克位…既没有获得向往的财富，也没有获得憧憬的力量。
 
 **法尔伽:** 只有执念，日复一日，堆积成塔。
 

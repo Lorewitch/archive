@@ -13,8 +13,8 @@
 # part_source_ids: 2000,2001,2002
 # previous_quests: quest_aq_1104
 # next_quests: quest_aq_1202
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: II
 # version_source: wiki_release_category
 
@@ -2158,7 +2158,7 @@ So will we be able to travel to Inazuma now?
 
 #### 与派蒙交谈
 
-**派蒙:** 你还好吗？我也没想到，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}会和「深渊」在一起…
+**派蒙:** 你还好吗？我也没想到，你的空/荧会和「深渊」在一起…
 
 - **旅行者:** 好点了。
 
@@ -2166,7 +2166,7 @@ So will we be able to travel to Inazuma now?
 
 **派蒙:** 振作起来吧，旅行者。
 
-**派蒙:** 我相信你，也相信{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}。
+**派蒙:** 我相信你，也相信空/荧。
 
 **派蒙:** 现状越是难以置信，我们越是不能停下脚步，对吧？
 
@@ -2174,7 +2174,7 @@ So will we be able to travel to Inazuma now?
 
 - **旅行者:** 背后一定有隐情。
 
-**派蒙:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}说了，要我们「抵达旅途的终点」，一定还是想和我们好好谈谈的。
+**派蒙:** 空/荧说了，要我们「抵达旅途的终点」，一定还是想和我们好好谈谈的。
 
 **派蒙:** 「旅途」是什么，「终点」又是什么，还等着我们去见证呢。
 
@@ -2190,7 +2190,7 @@ So will we be able to travel to Inazuma now?
 
 还没找到「那个神明」…
 
-**派蒙:** 你是说，当初让你和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}失散的那个神吧…
+**派蒙:** 你是说，当初让你和空/荧失散的那个神吧…
 
 **派蒙:** …的确，毕竟那个神明才是现在这种复杂情况的根源。
 
@@ -2472,7 +2472,7 @@ So will we be able to travel to Inazuma now?
 
 原来这么好商量！
 
-**派蒙:** 你只是想让{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}参加你的武斗会吧！
+**派蒙:** 你只是想让空/荧参加你的武斗会吧！
 
 **北斗:** 哈哈哈，为什么不呢？强者越多，武斗会就会越精彩。而你，是我无论如何都想邀请的参赛者。
 
@@ -2564,7 +2564,7 @@ So will we be able to travel to Inazuma now?
 
 原来这么好商量！
 
-**派蒙:** 你只是想让{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}参加你的武斗会吧！
+**派蒙:** 你只是想让空/荧参加你的武斗会吧！
 
 **北斗:** 哈哈哈，为什么不呢？强者越多，武斗会就会越精彩。而你，是我无论如何都想邀请的参赛者。
 
@@ -2638,11 +2638,11 @@ So will we be able to travel to Inazuma now?
 
 **北斗:** 哈哈哈，不愧是我看好的种子选手！
 
-**北斗:** 你也看到了吧，万叶！{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}战斗的时候一点都不拖泥带水，赢得又干净又利落。
+**北斗:** 你也看到了吧，万叶！空/荧战斗的时候一点都不拖泥带水，赢得又干净又利落。
 
 **枫原万叶:** 是啊，不过，感觉就像是收敛了些力量，不想让对方受伤一样。
 
-**北斗:** 大大小小的战斗，我也经历过无数次了，只看这一场，我也能清楚感觉到{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}强劲的实力。
+**北斗:** 大大小小的战斗，我也经历过无数次了，只看这一场，我也能清楚感觉到空/荧强劲的实力。
 
 **北斗:** 所以，不需要吝啬你的赞美之词哦？
 
@@ -2782,7 +2782,7 @@ So will we be able to travel to Inazuma now?
 
 **枫原万叶:** 情报收集也是对决的一部分，并无不妥之处。
 
-**枫原万叶:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们从蒙德一路走来经历了诸多恶战，能够连战连捷，靠的也并不只是勇武。
+**枫原万叶:** 空/荧们从蒙德一路走来经历了诸多恶战，能够连战连捷，靠的也并不只是勇武。
 
 **派蒙:** 没错没错！
 
@@ -2842,9 +2842,9 @@ So will we be able to travel to Inazuma now?
 
 - **旅行者:** 全靠派蒙的陪伴。
 
-**派蒙:** 嘿嘿，没有啦，我只是把我想到的事告诉{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}了而已。
+**派蒙:** 嘿嘿，没有啦，我只是把我想到的事告诉空/荧了而已。
 
-**派蒙:** 漫长的旅途，各种各样的事，回顾与展望，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}有感而发，自然而然地就学会了元素的使用方法…
+**派蒙:** 漫长的旅途，各种各样的事，回顾与展望，空/荧有感而发，自然而然地就学会了元素的使用方法…
 
 **派蒙:** 老实说，我也完全不知道其中的原理。
 
@@ -2950,15 +2950,15 @@ So will we be able to travel to Inazuma now?
 
 **北斗:** 经历了许多许多惊心动魄的比试之后，终于有两位选手来到了今天的舞台之上。
 
-**北斗:** 首先，我要介绍的这一位，大家就算没有见过，也一定听过{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的名声。
+**北斗:** 首先，我要介绍的这一位，大家就算没有见过，也一定听过空/荧的名声。
 
-**北斗:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}就是，令魔神奥赛尔也为之胆寒，愚人众的执行官也闻之色变的，璃月的异乡人英雄！旅行者！
+**北斗:** 空/荧就是，令魔神奥赛尔也为之胆寒，愚人众的执行官也闻之色变的，璃月的异乡人英雄！旅行者！
 
 **参赛者:** 哦哦哦哦哦哦哦——！
 
 **参赛者:** 等了好久了！
 
-**北斗:** 想必在半决赛的时候，大家都看到了{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的精彩表现。
+**北斗:** 想必在半决赛的时候，大家都看到了空/荧的精彩表现。
 
 **北斗:** 今天的决赛，精彩程度一定会更胜一筹！
 

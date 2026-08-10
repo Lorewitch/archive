@@ -13,8 +13,8 @@
 # part_source_ids: 40164
 # previous_quests: quest_eq_10193
 # next_quests: quest_eq_10195
-# related_quests: quest_eq_10192,quest_eq_10193,quest_eq_10195,quest_wq_73532,quest_wq_79060,quest_wq_79062,quest_wq_79065,quest_wq_79066,quest_wq_79067,quest_wq_79071,quest_wq_79072,quest_wq_79073,quest_wq_79074,quest_wq_79079
-# quest_chain: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532,quest_wq_79060,quest_wq_79062,quest_wq_79065,quest_wq_79066,quest_wq_79067,quest_wq_79071,quest_wq_79072,quest_wq_79073,quest_wq_79074,quest_wq_79079
+# related_quests: quest_eq_10192,quest_eq_10193,quest_eq_10195,quest_wq_73532
+# quest_chain: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532
 # quest_series: Summertide Scales and Tales
 # version_source: wiki_release_category
 
@@ -92,7 +92,7 @@
 
 **Навия:** Повезло, что этот парень подхватил нас по пути вниз!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Хм, обморок от небольшого падения? Какой хрупкий / Какая хрупкая...
+**Странник:** ...Хм, обморок от небольшого падения? Какой хрупкий / Какая хрупкая...
 
 **Навия:** Эй, не говори так! Последние несколько дней было нелегко. Почему бы нам не дать ему / ей немного отдохнуть?
 
@@ -100,21 +100,21 @@
 
 **Нилу:** Мастер Шляпка... Почему ты не положил его / её на траву вон там?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ха... Я спасаю четырёх человек, которые падают с неба, а вы придираетесь к моему выбору посадки? Это самое нелепое, что я когда-либо слышал.
+**Странник:** Ха... Я спасаю четырёх человек, которые падают с неба, а вы придираетесь к моему выбору посадки? Это самое нелепое, что я когда-либо слышал.
 
 ...
 
 **Паймон:** Ах, он / она проснулся / проснулась!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Доброе утро, солнышко. У тебя был хороший сон? Не буду врать, это было мило.
+**Странник:** Доброе утро, солнышко. У тебя был хороший сон? Не буду врать, это было мило.
 
 - **Путешественник:** Что...
 
 - **Путешественник:** ...случилось?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вы все сорвались с вершины водопада, а по пути ты потерял / потеряла сознание. Похоже, кто-то не справился...
+**Странник:** Вы все сорвались с вершины водопада, а по пути ты потерял / потеряла сознание. Похоже, кто-то не справился...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Прости, что разочаровываю, но падение на землю не перенесёт тебя в другой мир. Такое бывает только в глупых лёгких романах из Инадзумы.
+**Странник:** Прости, что разочаровываю, но падение на землю не перенесёт тебя в другой мир. Такое бывает только в глупых лёгких романах из Инадзумы.
 
 **Паймон:** И он как бы, э-э-э, положил тебя на колени Нилу. Так что ты всё это время дремал / дремала у неё на коленях.
 
@@ -136,7 +136,7 @@
 
 - **Путешественник:** «...Найди со всеми общий язык».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Туман вокруг может вызывать галлюцинации. Очевидно, это дело рук того дракона. Может, ты надышался / надышалась этим туманом, когда паниковал / паниковала по пути вниз...
+**Странник:** Туман вокруг может вызывать галлюцинации. Очевидно, это дело рук того дракона. Может, ты надышался / надышалась этим туманом, когда паниковал / паниковала по пути вниз...
 
 **Навия:** Эй, (путешественница)(путешественник), Нилу... А вы знаете этого парня в шляпе?
 
@@ -144,51 +144,51 @@
 
 **Навия:** Ну что ж... Привет, друг! Я Навия, глава Спина-ди-Росула. Приятно познакомиться. Так мне тоже называть тебя Мастер Шляпка? Похоже, все так тебя называют.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Как хочешь.
+**Странник:** Как хочешь.
 
 **Нилу:** Мастер Шляпка, что это за меч у тебя на поясе...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пф, назойливая штука, вот что это... Со мной с того момента, как я здесь очнулся. Пытался избавиться, но что бы я ни делал, он снова возникает на мне. Надоело...
+**Странник:** Пф, назойливая штука, вот что это... Со мной с того момента, как я здесь очнулся. Пытался избавиться, но что бы я ни делал, он снова возникает на мне. Надоело...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Если кому-то надо, могу подарить этот «Меч Героя».
+**Странник:** Если кому-то надо, могу подарить этот «Меч Героя».
 
 **Паймон:** Погоди-ка... Как называется этот меч?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Меч Героя», предназначенный для героя... Да я понимаю, из всех возможных кандидатов меч достался мне? Иронично.
+**Странник:** «Меч Героя», предназначенный для героя... Да я понимаю, из всех возможных кандидатов меч достался мне? Иронично.
 
 **Паймон:** Чего?! ТЫ Герой этого мира?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да успокойся ты! Это лишь глупый титул.
+**Странник:** Да успокойся ты! Это лишь глупый титул.
 
 **Паймон:** О, эм... А мы всё время думали, что это мы герои пророчества...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ну, если это для тебя так важно, можешь забрать себе этот титул. Ты окажешь мне услугу.
+**Странник:** Ну, если это для тебя так важно, можешь забрать себе этот титул. Ты окажешь мне услугу.
 
 Эм, нет, спасибо...
 
 **Паймон:** Дело не в этом... Главный вопрос: если ты герой, то где же ты был всё это время?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пытался выбраться.
+**Странник:** Пытался выбраться.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я узнал, что где-то здесь есть лодка, которая может перенести в другой мир, поэтому я пришёл всё разузнать.
+**Странник:** Я узнал, что где-то здесь есть лодка, которая может перенести в другой мир, поэтому я пришёл всё разузнать.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но посмотрите вокруг. Маяк рухнул, лодка не двигается... Надо искать другой выход.
+**Странник:** Но посмотрите вокруг. Маяк рухнул, лодка не двигается... Надо искать другой выход.
 
 **Паймон:** Хм, Паймон думает, тебе голос сказал, что здесь делать... По крайней мере, так было с Навией и Нилу.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ха, ты думаешь, я буду подчиняться какому-то там бесплотному голосу?
+**Странник:** Ха, ты думаешь, я буду подчиняться какому-то там бесплотному голосу?
 
 **Паймон:** Эй! Подожди, ты куда?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Для того чтобы найти так называемый «источник бед этого мира» - дракона, который за всё это ответственен.
+**Странник:** Для того чтобы найти так называемый «источник бед этого мира» - дракона, который за всё это ответственен.
 
 **Навия:** Подожди, но мы тоже пришли сразиться с драконом. Почему бы нам не пойти вместе?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Хм. Возьмём с собой чешую дракона. Возможно, она пригодится.
+**Странник:** ...Хм. Возьмём с собой чешую дракона. Возможно, она пригодится.
 
 **Паймон:** Драконья чешуя? Где? Как ты о ней узнал? Для чего она?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты никогда не думала держать свои вопросы при себе? Если ты ждёшь, что я отвечу на всё, то мы будем здесь до следующего Турнира даршанов.
+**Странник:** Ты никогда не думала держать свои вопросы при себе? Если ты ждёшь, что я отвечу на всё, то мы будем здесь до следующего Турнира даршанов.
 
 **Паймон:** Ах ты!.. Эх, Паймон думала, что ты уже научился манерам, но очевидно нет!
 
@@ -200,13 +200,13 @@
 
 **Уилл:** Ваше величество! Фея Леса и Герой!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А что ты на меня смотришь? Он явно с тобой говорит.
+**Странник:** А что ты на меня смотришь? Он явно с тобой говорит.
 
 **Нилу:** Господин Уилл! Вы не пострадали, когда мы упали?
 
 **Уилл:** Нет, совсем нет. К счастью, молодой человек в шляпе пришёл на помощь.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пф...
+**Странник:** Пф...
 
 **Уилл:** Здесь, похоже, деревня. Некоторые жители раньше работали в Игрушечных шахтах, а другие пришли сражаться с драконом, но не смогли найти дорогу обратно.
 
@@ -224,7 +224,7 @@
 
 **Паймон:** Вот мы и на месте... но с такой силой водопада нам не пройти!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Достанем чешую дракона.
+**Странник:** Достанем чешую дракона.
 
 **Паймон:** Подожди, но... Нет, Паймон лучше ничего не спрашивать! Хм... Драконья чешуя превращает всё в игрушечные кубики, значит... Ага! Ты хочешь её использовать, чтобы остановить водопад!
 
@@ -244,7 +244,7 @@
 
 **Навия:** Мы же готовимся к бою, не так ли? Мне удобнее в моей обычной одежде. Вон Мастер Шляпка тоже убрал меч с пояса.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не стоило вообще брать эту бесполезную штуку.
+**Странник:** Не стоило вообще брать эту бесполезную штуку.
 
 **Паймон:** Тебе... тебе нужно что-нибудь подготовить? Все вдруг стали такими серьёзными, что Паймон занервничала.
 
@@ -264,7 +264,7 @@
 
 #### Исследуйте пространство внутри водопада
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ну? Долго ещё ждать?
+**Странник:** Ну? Долго ещё ждать?
 
 - **Путешественник:** У меня всё готово. Вперёд!
 
@@ -280,7 +280,7 @@
 
 **Паймон:** А-а-а! Дорога позади нас отрезана!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Осторожно, впереди! Он приближается!
+**Странник:** Осторожно, впереди! Он приближается!
 
 **Дурин:** !!!
 
@@ -330,13 +330,13 @@
 
 **Нилу:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Пф. И сколько мне ещё раз вас спасать?
+**Странник:** ...Пф. И сколько мне ещё раз вас спасать?
 
 **Нилу:** Спасибо, Мастер Шляпка!
 
 **Паймон:** Ух... У Паймон всё ещё головокружение... Эй, кто-нибудь из вас видел что-нибудь странное? Будто мы стали свидетелями...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Воспоминания злого дракона?
+**Странник:** Воспоминания злого дракона?
 
 **Навия:** Похоже, мы все видели одно и то же.
 
@@ -350,7 +350,7 @@
 
 **Навия:** Хм, если мир наверху - сказочное царство, то, наверное, мы попали на следующую страницу книги...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Просто идите и не отставайте.
+**Странник:** Просто идите и не отставайте.
 
 **Паймон:** Что? Эй, нас подожди!
 
@@ -360,9 +360,9 @@
 
 **Паймон:** Ты идёшь слишком быстро!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Он впереди.
+**Странник:** Он впереди.
 
 **Нилу:** Он пытается нас куда-то заманить?
 
@@ -370,27 +370,27 @@
 
 **Паймон:** Но... мы же хотели задать ему пару вопросов о его прошлом...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Год за годом сюда приходят люди, чтобы отрубить ему голову. На мой взгляд, его реакция вполне адекватна.
+**Странник:** Год за годом сюда приходят люди, чтобы отрубить ему голову. На мой взгляд, его реакция вполне адекватна.
 
 **Нилу:** Вдруг мы всё-таки можем что-то сделать, чтобы его успокоить!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я бы на это не рассчитывал. Возможно, его предыдущие атаки были всего лишь предупреждением, но теперь он настроен серьёзно.
+**Странник:** Я бы на это не рассчитывал. Возможно, его предыдущие атаки были всего лишь предупреждением, но теперь он настроен серьёзно.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Готовьтесь к финальной битве. Иногда нужно применить силу, чтобы кто-то наконец очнулся.
+**Странник:** Готовьтесь к финальной битве. Иногда нужно применить силу, чтобы кто-то наконец очнулся.
 
 #### Проникните в логово злого дракона
 
 **Паймон:** Это наш шанс!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Подождите!
+**Странник:** Подождите!
 
 **Дурин:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ?
+**Странник:** ?
 
 **Дурин:** !!!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пф!..
+**Странник:** Пф!..
 
 #### Проникните в логово злого дракона
 
@@ -414,7 +414,7 @@
 
 **«Б.»:** Раз уж ты так настаиваешь, я расскажу тебе один секрет...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм... Опять скучные разговоры о судьбе.
+**Странник:** Хм... Опять скучные разговоры о судьбе.
 
 #### Проникните в логово злого дракона
 
@@ -436,9 +436,9 @@
 
 **Дурин:** !!!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Значит, люди тебя тоже ненавидят...
+**Странник:** Значит, люди тебя тоже ненавидят...
 
 **Дурин:** ...
 
@@ -462,21 +462,21 @@
 
 **Дурин:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Значит, в итоге тебя тоже «предали»...
+**Странник:** Значит, в итоге тебя тоже «предали»...
 
 #### Проникните в логово злого дракона
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Никто не может определить, кто ты...
+**Странник:** Никто не может определить, кто ты...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Никто не смеет отрицать твои настоящие чувства...
+**Странник:** Никто не смеет отрицать твои настоящие чувства...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вспомни своё имя...
+**Странник:** Вспомни своё имя...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Дурин.
+**Странник:** ...Дурин.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Всё в порядке.
+**Странник:** Всё в порядке.
 
 Осторожно!
 
@@ -484,9 +484,9 @@
 
 **Дурин:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Так вот оно что? Это твоё желание?
+**Странник:** Так вот оно что? Это твоё желание?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Никогда не родиться»... Такую судьбу не стоит желать.
+**Странник:** «Никогда не родиться»... Такую судьбу не стоит желать.
 
 #### Проникните в логово злого дракона
 
@@ -502,11 +502,11 @@
 
 **Нилу:** Он как-то назвал дракона. Похоже, он сказал...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Дурин. Это его имя.
+**Странник:** ...Дурин. Это его имя.
 
 **Навия:** Мастер Шляпка, ты в порядке! Подожди, а дракон... Дурин?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** С ним всё хорошо.
+**Странник:** С ним всё хорошо.
 
 **Паймон:** Дурин... Подожди, это ведь имя дракона с Драконьего хребта, верно? Того самого, который стал частью горы после того, как его одолел Двалин! Если Паймон правильно помнит, его создала...
 
@@ -514,13 +514,13 @@
 
 **Паймон:** Да, его создала Рэйндоттир.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Создала... Ха...
+**Странник:** Создала... Ха...
 
 **Паймон:** Так что же произошло там внизу? Ты ведёшь себя странно с тех пор, как закончился бой!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-*{REALNAME[ID(1)]} рассказывает, что он увидел в тумане...*
+*Странник рассказывает, что он увидел в тумане...*
 
 **Нилу:** Значит, это правда о злом драконе Симуланки...
 
@@ -532,29 +532,29 @@
 
 **Нилу:** Люди, которых мы встретили по пути, вероятно, рабочие из Игрушечных шахт или солдаты, охотящиеся за драконом. Возможно, Дурин позволил им поселиться здесь, потому что им некуда было идти...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Когда я впервые попал сюда, голос сказал мне: «Ты Герой этого мира. Иди и спаси дракона».
+**Странник:** Когда я впервые попал сюда, голос сказал мне: «Ты Герой этого мира. Иди и спаси дракона».
 
 **Паймон:** Хм, кто прячется за этим голосом? И зачем нас всех здесь собрали?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пойдём со мной. Ответ на всё это находится внизу.
+**Странник:** Пойдём со мной. Ответ на всё это находится внизу.
 
 #### Проникните в логово злого дракона
 
 **Навия:** Это что... кабинет?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Верно. Это кабинет Богини Судьбы.
+**Странник:** Верно. Это кабинет Богини Судьбы.
 
 **Паймон:** Богиня Судьбы? Одна из трёх богинь, создавших Симуланку?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Или точнее, «М». Одна из Ведьмина шабаша.
+**Странник:** Или точнее, «М». Одна из Ведьмина шабаша.
 
 **Паймон:** Ведьмин шабаш?!
 
 **Паймон:** ...Извини, Паймон не должна повторять всё за тобой. Просто... слишком много для восприятия.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Она создала историю о Дурине. Ну, по крайней мере, версию из Симуланки.
+**Странник:** Она создала историю о Дурине. Ну, по крайней мере, версию из Симуланки.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Эти записи должны охватывать большую часть, которую вы хотите узнать, включая личности двух других Богинь. Прочтите сами.
+**Странник:** Эти записи должны охватывать большую часть, которую вы хотите узнать, включая личности двух других Богинь. Прочтите сами.
 
 #### Сцена
 
@@ -594,7 +594,7 @@
 
 **Паймон:** Хм? Эта статуя отличается от той, что в столице.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это другая богиня. Это Богиня Судьбы.
+**Странник:** Это другая богиня. Это Богиня Судьбы.
 
 #### Проникните в логово злого дракона
 
@@ -670,7 +670,7 @@
 
 **Алиса:** Я чувствую ваше уникальное благословение для Мини-Дурина. С таким благословением, исходящим из-за пределов истории, он, возможно, сможет исследовать миры и за пределами нашего.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты про Тейват?
+**Странник:** Ты про Тейват?
 
 **Алиса:** Верно. На самом деле, когда мы впервые создавали Симуланку, «М.» говорила, что надеется, однажды местные жители смогут исследовать мир за её пределами.
 
@@ -720,7 +720,7 @@
 
 **Мини-Дурин:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Эй, перестань на меня так смотреть. Я уже сказал, что пойду с тобой!
+**Странник:** Эй, перестань на меня так смотреть. Я уже сказал, что пойду с тобой!
 
 **Кирара:** Ого! Смотрите!
 
@@ -805,7 +805,7 @@ Comment below the comment below the comment: Wasn't me either.
 
 **Navia:** We're lucky this guy caught us on the way down!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph, passed out from a little fall, did you? How fragile...
+**Wanderer:** Hmph, passed out from a little fall, did you? How fragile...
 
 **Navia:** Ah, cut him some slack. Traveler's had a rough few days, we should just let him / her nap for a bit.
 
@@ -813,21 +813,21 @@ Comment below the comment below the comment: Wasn't me either.
 
 **Nilou:** You couldn't have set him / her down on the grass over there, Hat Guy?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hah... I go out of my way to save four people who fall out of the sky, and now you're nitpicking my choice of soft landing? That's the most ridiculous thing I've ever heard.
+**Wanderer:** Hah... I go out of my way to save four people who fall out of the sky, and now you're nitpicking my choice of soft landing? That's the most ridiculous thing I've ever heard.
 
 ...
 
 **Paimon:** Ah, he / she's awake!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Morning, sunshine. You were having a nice little dream there, weren't you? Not gonna lie, it was kind of adorable.
+**Wanderer:** Morning, sunshine. You were having a nice little dream there, weren't you? Not gonna lie, it was kind of adorable.
 
 - **Traveler:** What happened...
 
 - **Traveler:** What happened...?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You and your friends fell from the top of that waterfall, and you passed out along the way. Guess someone couldn't keep it together...
+**Wanderer:** You and your friends fell from the top of that waterfall, and you passed out along the way. Guess someone couldn't keep it together...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sorry to break it to you, but crashing into the ground doesn't take you to another world. That kind of thing only happens in those stupid light novels they sell in Inazuma.
+**Wanderer:** Sorry to break it to you, but crashing into the ground doesn't take you to another world. That kind of thing only happens in those stupid light novels they sell in Inazuma.
 
 **Paimon:** Also, he kind of set you down on Nilou's lap. So, that's where you've been napping all this time.
 
@@ -849,7 +849,7 @@ Comment below the comment below the comment: Wasn't me either.
 
 - **Traveler:** "...Be nice to everyone."
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The fog you see around here can have a hallucinatory effect. Apparently, it's the work of that dragon. Maybe you inhaled some while you were freaking out on your way down...
+**Wanderer:** The fog you see around here can have a hallucinatory effect. Apparently, it's the work of that dragon. Maybe you inhaled some while you were freaking out on your way down...
 
 **Navia:** Uh, Traveler, Nilou... Do you know this Hat Guy person?
 
@@ -857,51 +857,51 @@ Comment below the comment below the comment: Wasn't me either.
 
 **Navia:** Well, then... Hello there, friend! I'm Navia, the President of Spina di Rosula. It's very nice to meet you. So, should I just call you Hat Guy as well? Seems like that's what everyone's calling you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sure, whatever.
+**Wanderer:** Sure, whatever.
 
 **Nilou:** Wait, Hat Guy, what's that sword around your waist?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Tch, an unwelcome encumbrance, that's what... I've had it ever since I woke up here. Tried to toss it, but no matter what I do, it always reappears. Such a pain...
+**Wanderer:** Tch, an unwelcome encumbrance, that's what... I've had it ever since I woke up here. Tried to toss it, but no matter what I do, it always reappears. Such a pain...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Anyway, if any of you want the "Hero's Sword," you can have it.
+**Wanderer:** Anyway, if any of you want the "Hero's Sword," you can have it.
 
 **Paimon:** Wait... It's called what?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The "Hero's Sword," meant to be wielded by the hero... I know, me of all people, right? The irony.
+**Wanderer:** The "Hero's Sword," meant to be wielded by the hero... I know, me of all people, right? The irony.
 
 **Paimon:** What!? ...YOU'RE the Hero of this world?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Will you calm down? It's just a dumb title.
+**Wanderer:** Will you calm down? It's just a dumb title.
 
 **Paimon:** Oh, uh... It's just that, this entire time, we thought we were the heroes of the prophecy...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Well, if it means that much to you, you're welcome to claim the title. You'd be doing me a favor.
+**Wanderer:** Well, if it means that much to you, you're welcome to claim the title. You'd be doing me a favor.
 
 I'm good, actually...
 
 **Paimon:** That's not the point... The real question is: If you're the hero, then where the heck have you been all this time?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Looking for a way out.
+**Wanderer:** Looking for a way out.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I heard there's a boat in this area that can bring you to another world, so I came to investigate.
+**Wanderer:** I heard there's a boat in this area that can bring you to another world, so I came to investigate.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But look at the state of things around here — the lighthouse collapsed, the boat won't budge... I say we try to find a different way out.
+**Wanderer:** But look at the state of things around here — the lighthouse collapsed, the boat won't budge... I say we try to find a different way out.
 
 **Paimon:** Hmm, Paimon's guessing a voice told you what you were supposed to do here... That's what happened with Navia and Nilou, at least.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hah, you expect me to take orders from some disembodied voice?
+**Wanderer:** Hah, you expect me to take orders from some disembodied voice?
 
 **Paimon:** Hey, wait! Where are you going?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** To find the so-called "source of this world's misfortune" — the dragon responsible for this whole mess.
+**Wanderer:** To find the so-called "source of this world's misfortune" — the dragon responsible for this whole mess.
 
 **Navia:** Wait, we came here to fight the dragon as well. Why don't we go together?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Tch. Grab that dragon scale over there before you leave. It'll come in handy later.
+**Wanderer:** ...Tch. Grab that dragon scale over there before you leave. It'll come in handy later.
 
 **Paimon:** A dragon scale? Where? How did you know about it? What's it for? And—
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Have you ever considered keeping your questions to yourself? Because if you actually expect me to answer them all, we'll be here until the next Interdarshan Championship.
+**Wanderer:** Have you ever considered keeping your questions to yourself? Because if you actually expect me to answer them all, we'll be here until the next Interdarshan Championship.
 
 **Paimon:** You little...! Ugh, Paimon thought you might've learned some manners by now, but clearly not!
 
@@ -913,13 +913,13 @@ I'm good, actually...
 
 **Wheel:** Your Majesty! Madame Fairy! Brave Hero!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What are you looking at me for? He's obviously talking to you.
+**Wanderer:** What are you looking at me for? He's obviously talking to you.
 
 **Nilou:** Mr. Wheel! You didn't get hurt when we fell, did you?
 
 **Wheel:** No, not at all. Thankfully, the young man in the hat was kind enough to lend me a hand.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Tch...
+**Wanderer:** Tch...
 
 **Wheel:** There seems to be a village over here. Some of the residents used to work in the toytanium mines, and some came to fight the dragon, then got stuck here.
 
@@ -937,7 +937,7 @@ I'm good, actually...
 
 **Paimon:** Well, we made it.. But, with the force of this waterfall, there's no way we're getting through!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Quick, take out the dragon scale.
+**Wanderer:** Quick, take out the dragon scale.
 
 **Paimon:** Wait, but... No, Paimon doesn't need to ask you anything! Hmm... The dragon scale can turn anything it touches into toy blocks, so... Aha! You want to use it to block off the water!
 
@@ -957,7 +957,7 @@ I'm good, actually...
 
 **Navia:** Well, we're getting ready to fight, aren't we? I feel more comfortable in my regular outfit. Hat Guy also put away that sword around his waist.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Should've never had the useless thing to begin with.
+**Wanderer:** Should've never had the useless thing to begin with.
 
 **Paimon:** Do... Do you need to do anything to prepare, Traveler? Paimon's getting kinda nervous, seeing everyone all serious like this.
 
@@ -977,7 +977,7 @@ Alright, I'm set. Let's go!
 
 #### Explore the space within the waterfall
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Well? How long are you gonna keep us waiting?
+**Wanderer:** Well? How long are you gonna keep us waiting?
 
 - **Traveler:** Alright, I'm set. Let's go!
 
@@ -993,7 +993,7 @@ Alright, I'm set. Let's go!
 
 **Paimon:** Ah! The road behind us is cut off!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Watch out in front! It's coming!
+**Wanderer:** Watch out in front! It's coming!
 
 **Durin:** —!
 
@@ -1043,13 +1043,13 @@ Is that... water?
 
 **Nilou:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Ugh. How many times am I going to have to save you?
+**Wanderer:** ...Ugh. How many times am I going to have to save you?
 
 **Nilou:** Thank you, Hat Guy...
 
 **Paimon:** Ugh... Paimon still feels dizzy... Hey, did any of you also see something strange? It was like we were witnessing...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The dragon's memories?
+**Wanderer:** The dragon's memories?
 
 **Navia:** Sounds like we all saw the same thing just now.
 
@@ -1063,7 +1063,7 @@ Is that... water?
 
 **Navia:** Hm, if the world above is a fairytale realm, then maybe we've fallen into the next page of the book...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Just keep walking, and don't fall behind.
+**Wanderer:** Just keep walking, and don't fall behind.
 
 **Paimon:** Huh? Hey! Wait for us!
 
@@ -1073,9 +1073,9 @@ Is that... water?
 
 **Paimon:** You're getting too far away!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He's just up ahead.
+**Wanderer:** He's just up ahead.
 
 **Nilou:** Is he trying to lure us somewhere?
 
@@ -1083,27 +1083,27 @@ Is that... water?
 
 **Paimon:** But... we just wanna ask him a few questions about his past...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He's had year after year of people coming here to try to take his head. If you ask me, his reaction is perfectly normal.
+**Wanderer:** He's had year after year of people coming here to try to take his head. If you ask me, his reaction is perfectly normal.
 
 **Nilou:** Maybe there's still something we can do to calm him down!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I wouldn't count on it. Maybe his earlier attacks were just a warning, but now, he's actually getting serious.
+**Wanderer:** I wouldn't count on it. Maybe his earlier attacks were just a warning, but now, he's actually getting serious.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Prepare for a final battle. Sometimes... it takes a little force for someone to finally wake up.
+**Wanderer:** Prepare for a final battle. Sometimes... it takes a little force for someone to finally wake up.
 
 #### Go deep within the fell dragon's lair
 
 **Paimon:** Now's our chance!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...! Wait!
+**Wanderer:** ...! Wait!
 
 **Durin:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...?
+**Wanderer:** ...?
 
 **Durin:** —!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Huh...!
+**Wanderer:** Huh...!
 
 #### Go deep within the fell dragon's lair
 
@@ -1127,7 +1127,7 @@ Is that... water?
 
 **"B":** Since you're so persistent, let me tell you a secret...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph... More boring "fate" talk.
+**Wanderer:** Hmph... More boring "fate" talk.
 
 #### Go deep within the fell dragon's lair
 
@@ -1149,9 +1149,9 @@ Is that... water?
 
 **Durin:** —!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So, you're hated by people, too...
+**Wanderer:** So, you're hated by people, too...
 
 **Durin:** ...
 
@@ -1175,21 +1175,21 @@ Is that... water?
 
 **Durin:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So, in the end, you were "betrayed," too...
+**Wanderer:** So, in the end, you were "betrayed," too...
 
 #### Go deep within the fell dragon's lair
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Nobody can define who you are...
+**Wanderer:** Nobody can define who you are...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Or deny the true feelings of your heart
+**Wanderer:** Or deny the true feelings of your heart
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Now, remember your name—
+**Wanderer:** Now, remember your name—
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Durin
+**Wanderer:** ...Durin
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's alright now...
+**Wanderer:** It's alright now...
 
 Watch out!
 
@@ -1197,9 +1197,9 @@ Watch out!
 
 **Durin:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So, that's it? That's really your wish?
+**Wanderer:** So, that's it? That's really your wish?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "To never have been born at all"... That's not a fate you should wish for.
+**Wanderer:** "To never have been born at all"... That's not a fate you should wish for.
 
 #### Go deep within the fell dragon's lair
 
@@ -1215,11 +1215,11 @@ Yup, all thanks to Kirara.
 
 **Nilou:** He called the dragon something earlier. It sounded like he said...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Durin. That's his name.
+**Wanderer:** ...Durin. That's his name.
 
 **Navia:** Hat Guy, you're okay! Wait, what about the dragon... Durin?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He's fine.
+**Wanderer:** He's fine.
 
 **Paimon:** Durin... Wait, that's the name of the dragon from Dragonspine, right? The one that became a part of the mountain after being slain by Dvalin! If Paimon remembers correctly, it was created by...
 
@@ -1227,13 +1227,13 @@ Yup, all thanks to Kirara.
 
 **Paimon:** Right, it was created by Rhinedottir.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Created, you say... Heh...
+**Wanderer:** Created, you say... Heh...
 
 **Paimon:** So, what exactly happened down there? You've been acting weird ever since the end of the fight!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-*{REALNAME[ID(1)]} tells you about what he saw in the mist...*
+*Wanderer tells you about what he saw in the mist...*
 
 **Nilou:** So that's the truth about Simulanka's evil dragon...
 
@@ -1245,29 +1245,29 @@ Yup, all thanks to Kirara.
 
 **Nilou:** The people we met along the way are probably workers from the toytanium mines, or guards who came here to claim the dragon's head... Durin probably allowed them to live here because there was nowhere else for them to go...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** When I first came to this world, a voice spoke to me and said, "You are the Hero of this world. Now go forth, and save the dragon."
+**Wanderer:** When I first came to this world, a voice spoke to me and said, "You are the Hero of this world. Now go forth, and save the dragon."
 
 **Paimon:** Huh, who is the person behind this voice, anyway? And why did they bring us all here?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Come with me. The answer to all of this can be found below.
+**Wanderer:** Come with me. The answer to all of this can be found below.
 
 #### Go deep within the fell dragon's lair
 
 **Navia:** Is this... a study?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** That's right. It belongs to the Goddess of Fate.
+**Wanderer:** That's right. It belongs to the Goddess of Fate.
 
 **Paimon:** Goddess of Fate? As in, one of the three Goddesses who created Simulanka?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Or more precisely, "M." One of the Mages of the Hexenzirkel.
+**Wanderer:** Or more precisely, "M." One of the Mages of the Hexenzirkel.
 
 **Paimon:** Hexenzirkel!? As in...
 
 **Paimon:** ...Sorry, Paimon shouldn't just regurgitate everything you say. It's just... it's a lot to take in.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** She created the story of Durin. Well, the Simulanka version, at least.
+**Wanderer:** She created the story of Durin. Well, the Simulanka version, at least.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** These records should cover most of what you want to know, including the identities of the other two Goddesses. Read them for yourselves.
+**Wanderer:** These records should cover most of what you want to know, including the identities of the other two Goddesses. Read them for yourselves.
 
 #### Scene
 
@@ -1307,7 +1307,7 @@ Yup, all thanks to Kirara.
 
 **Paimon:** Huh? That statue looks different from the one in the Metropole.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's a different goddess. This one is the Goddess of Fate.
+**Wanderer:** It's a different goddess. This one is the Goddess of Fate.
 
 #### Go deep within the fell dragon's lair
 
@@ -1383,7 +1383,7 @@ Why did you send us here?
 
 **Alice:** I can sense that your blessing for Mini Durin was a very special one. With this blessing from beyond the story, he might even be able to explore worlds outside of this one.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Teyvat, you mean?
+**Wanderer:** Teyvat, you mean?
 
 **Alice:** That's right. In fact, back when we were first creating Simulanka, M told us that she hoped the people of this world would one day be able to explore the wider world beyond.
 
@@ -1433,7 +1433,7 @@ Why did you send us here?
 
 **Mini Durin:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Stop looking at me. I already said I'll come with you!
+**Wanderer:** Stop looking at me. I already said I'll come with you!
 
 **Kirara:** Whoa! Look over there!
 
@@ -1519,7 +1519,7 @@ Why did you send us here?
 
 **娜维娅:** 还好下落途中这位小哥接住了我们呢！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …哼，羸弱不堪。才这点小场面就晕过去了？
+**流浪者:** …哼，羸弱不堪。才这点小场面就晕过去了？
 
 **娜维娅:** 也别这么说嘛，旅行者这两天可是很辛苦的，要不就让他 / 她这么睡一会儿？
 
@@ -1527,21 +1527,21 @@ Why did you send us here?
 
 **妮露:** 阿帽你…你刚才怎么不把他 / 她放到旁边的草地上？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …哈？既要我救莫名其妙掉下来的四个人，又要我顾及摆放伤员的位置，我还从没见过这么不讲理的要求。
+**流浪者:** …哈？既要我救莫名其妙掉下来的四个人，又要我顾及摆放伤员的位置，我还从没见过这么不讲理的要求。
 
 ……
 
 **派蒙:** 啊，他 / 她醒了！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 早上好，赖床鬼。你刚才一定做了个香甜的美梦吧？看你这么高兴，我也为你感到开心。
+**流浪者:** 早上好，赖床鬼。你刚才一定做了个香甜的美梦吧？看你这么高兴，我也为你感到开心。
 
 - **旅行者:** 刚才…
 
 - **旅行者:** 发生了什么…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们一群人突然就从瀑布上掉了下来，其中有一个还不争气地晕了过去。
+**流浪者:** 你们一群人突然就从瀑布上掉了下来，其中有一个还不争气地晕了过去。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我先提醒你，那种摔到地上就能去其他世界的桥段，只在稻妻某些可笑的轻小说里管用。
+**流浪者:** 我先提醒你，那种摔到地上就能去其他世界的桥段，只在稻妻某些可笑的轻小说里管用。
 
 **派蒙:** 把你放下来后，你在妮露腿上昏迷了一小会，然后就醒过来了。
 
@@ -1563,7 +1563,7 @@ Why did you send us here?
 
 - **旅行者:** 「和大家好好相处…」
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这里的雾气会让人产生幻觉，据说是那头邪龙的杰作。你该不会是因为害怕吸进太多了吧？
+**流浪者:** 这里的雾气会让人产生幻觉，据说是那头邪龙的杰作。你该不会是因为害怕吸进太多了吧？
 
 **娜维娅:** 说起来…这位阿帽先生是你们认识的人吗？
 
@@ -1571,51 +1571,51 @@ Why did you send us here?
 
 **娜维娅:** 你好你好，我是枫丹刺玫会会长娜维娅，请多指教啦。既然大家都叫你阿帽，那我也这么叫吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 随你便。
+**流浪者:** 随你便。
 
 **妮露:** 咦？阿帽你腰上的那把剑是…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嘁，醒来的时候这碍事东西就挂着了，就算丢得远远的，过一阵子又会出现在身上，真是麻烦。
+**流浪者:** 嘁，醒来的时候这碍事东西就挂着了，就算丢得远远的，过一阵子又会出现在身上，真是麻烦。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 谁要是喜欢，这把「勇者之剑」就送给他 / 她都行。
+**流浪者:** 谁要是喜欢，这把「勇者之剑」就送给他 / 她都行。
 
 **派蒙:** 等等…你说这把剑叫什么？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧，给勇者的「勇者之剑」，挂到了最不该被挂到的人身上。
+**流浪者:** 啧，给勇者的「勇者之剑」，挂到了最不该被挂到的人身上。
 
 **派蒙:** 欸？！原来你是这个世界的勇者？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 一个傻气的名号而已，至于那么惊讶吗？
+**流浪者:** 一个傻气的名号而已，至于那么惊讶吗？
 
 **派蒙:** 呃…只是，这一路过来，我还以为我们才是预言中的勇者…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 既然你们这么想当，那让给你们当不就得了。
+**流浪者:** 既然你们这么想当，那让给你们当不就得了。
 
 倒也没那么在意…
 
 **派蒙:** 反倒是你，明明拿着「勇者」的身份，但怎么一路过来连你的影子都没见到？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我只是在寻找出去的办法罢了。
+**流浪者:** 我只是在寻找出去的办法罢了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 听说这附近有能够前往其他世界的小船，就过来调查一下。
+**流浪者:** 听说这附近有能够前往其他世界的小船，就过来调查一下。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但瞧瞧周围这副破碎的惨状——灯塔倒了，船也动不了。我看还是别想用这方法出去了。
+**流浪者:** 但瞧瞧周围这副破碎的惨状——灯塔倒了，船也动不了。我看还是别想用这方法出去了。
 
 **派蒙:** 按照之前的规律，你在这边醒来的时候应该也听到有人对你说话，告诉你该怎么做了吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啊？我可不想理会那种莫名其妙的声音。
+**流浪者:** 啊？我可不想理会那种莫名其妙的声音。
 
 **派蒙:** 欸！等等，你要去哪里呀？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 去会会把这里搅得一团糟的家伙，人们口中的「罪魁祸首」，这个世界的巨龙。
+**流浪者:** 去会会把这里搅得一团糟的家伙，人们口中的「罪魁祸首」，这个世界的巨龙。
 
 **娜维娅:** 咦？那不是和我们的目的地一样吗？咱们一起去不就好了？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …啧。走的时候去把那边的龙鳞拿上，等下有用。
+**流浪者:** …啧。走的时候去把那边的龙鳞拿上，等下有用。
 
 **派蒙:** 啊？哪有龙鳞？你怎么知道的？有什么用呀…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 如果真要我回答所有的问题，我们恐怕得准备在这里参加下一次学院争霸赛了。
+**流浪者:** 如果真要我回答所有的问题，我们恐怕得准备在这里参加下一次学院争霸赛了。
 
 **派蒙:** 你…！气死我了，这么久没见，这家伙说话还是那么难听！
 
@@ -1627,13 +1627,13 @@ Why did you send us here?
 
 **威尔:** 国王陛下！还有森林仙子和勇者大人！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 看我干嘛？叫的是你。
+**流浪者:** 看我干嘛？叫的是你。
 
 **妮露:** 威尔先生！你刚才没摔到哪里吧？
 
 **威尔:** 没有没有，还好那位戴帽子的好心人出手相救。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嘁…
+**流浪者:** 嘁…
 
 **威尔:** 这边似乎是一个村庄，住的都是当初在积木矿窟工作的人，还有那些和我们一样来讨伐邪龙但回不去的人。
 
@@ -1651,7 +1651,7 @@ Why did you send us here?
 
 **派蒙:** 到是到了…但这瀑布的水好凶啊，根本走不过去吧…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 把那块龙鳞拿出来。
+**流浪者:** 把那块龙鳞拿出来。
 
 **派蒙:** 啊？为什…不对！我才不问你呢！我想想…龙鳞能把碰到的东西变成积木…哦！你是要用它阻隔瀑布的水对吧！
 
@@ -1671,7 +1671,7 @@ Why did you send us here?
 
 **娜维娅:** 嗯？这不是要去战斗了嘛，还是换回平时的装扮比较舒服。阿帽不也把腰上的剑收起来了吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 碍事的东西就该早点消失。
+**流浪者:** 碍事的东西就该早点消失。
 
 **派蒙:** 你…你有什么要准备的吗？看大家突然认真起来了，我也有些紧张。
 
@@ -1691,7 +1691,7 @@ Why did you send us here?
 
 #### 探索瀑布内的空间
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 好了没有？还要我等到什么时候?
+**流浪者:** 好了没有？还要我等到什么时候?
 
 - **旅行者:** 好了，出发吧。
 
@@ -1707,7 +1707,7 @@ Why did you send us here?
 
 **派蒙:** 呃啊！后面，后面的路被拍断了！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 注意前面！他要来了！
+**流浪者:** 注意前面！他要来了！
 
 **杜林:** ——！
 
@@ -1757,13 +1757,13 @@ Why did you send us here?
 
 **妮露:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …嘁，还要我救你们几次才行？
+**流浪者:** …嘁，还要我救你们几次才行？
 
 **妮露:** 谢谢你，阿帽…
 
 **派蒙:** 唔…脑袋晕乎乎的…我说，你们有没有看到什么奇怪的东西？就像…就像…呃…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「邪龙」的回忆？
+**流浪者:** 「邪龙」的回忆？
 
 **娜维娅:** 嗯，这么说大家都看到了。
 
@@ -1777,7 +1777,7 @@ Why did you send us here?
 
 **娜维娅:** 如果说上面是一个童话世界的话，我们简直就像掉到了书的下一页呢…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 继续走就行了。别掉队。
+**流浪者:** 继续走就行了。别掉队。
 
 **派蒙:** 欸！你等等我们呀！
 
@@ -1787,9 +1787,9 @@ Why did you send us here?
 
 **派蒙:** 你一个人冲太前啦！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他就在前面。
+**流浪者:** 他就在前面。
 
 **妮露:** 是在等着我们吗？
 
@@ -1797,27 +1797,27 @@ Why did you send us here?
 
 **派蒙:** 但是…我们只是想和他好好说两句，问问清楚到底发生了什么…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这么长时间过去，来这的人都是为了讨伐他。他的反应也是自然。
+**流浪者:** 这么长时间过去，来这的人都是为了讨伐他。他的反应也是自然。
 
 **妮露:** 就没有什么办法让他冷静下来吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我劝你们不要抱此希望。之前他的攻击都可以看成「警告」，但现在他已经生气了。
+**流浪者:** 我劝你们不要抱此希望。之前他的攻击都可以看成「警告」，但现在他已经生气了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 做好决战的准备吧，有时候…就是要被揍一顿，才能清醒过来…
+**流浪者:** 做好决战的准备吧，有时候…就是要被揍一顿，才能清醒过来…
 
 #### 深入邪龙的巢穴
 
 **派蒙:** 有机会！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …！等等！
+**流浪者:** …！等等！
 
 **杜林:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……？
+**流浪者:** ……？
 
 **杜林:** ——！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 嘁…！
+**流浪者:** 嘁…！
 
 #### 深入邪龙的巢穴
 
@@ -1841,7 +1841,7 @@ Why did you send us here?
 
 **魔女B:** 看在你这么执着的份上，我就告诉你一个秘密吧…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼…又是无聊的「命运」…
+**流浪者:** 哼…又是无聊的「命运」…
 
 #### 深入邪龙的巢穴
 
@@ -1863,9 +1863,9 @@ Why did you send us here?
 
 **杜林:** ——！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你也被人们所「厌恶」吗…
+**流浪者:** 你也被人们所「厌恶」吗…
 
 **杜林:** ……
 
@@ -1889,21 +1889,21 @@ Why did you send us here?
 
 **杜林:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 到头来，你还是被「背叛」了吗…
+**流浪者:** 到头来，你还是被「背叛」了吗…
 
 #### 深入邪龙的巢穴
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 任何人都不能定义你是谁……
+**流浪者:** 任何人都不能定义你是谁……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 任何人都不能否定你的心……
+**流浪者:** 任何人都不能否定你的心……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 回想起你自己的名字吧——
+**流浪者:** 回想起你自己的名字吧——
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ——杜林
+**流浪者:** ——杜林
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没事了……
+**流浪者:** 没事了……
 
 小心！
 
@@ -1911,9 +1911,9 @@ Why did you send us here?
 
 **杜林:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …是吗？这就是你许下的「愿望」？
+**流浪者:** …是吗？这就是你许下的「愿望」？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …「希望自己从未存在过」，可不是什么好愿望。
+**流浪者:** …「希望自己从未存在过」，可不是什么好愿望。
 
 #### 深入邪龙的巢穴
 
@@ -1929,11 +1929,11 @@ Why did you send us here?
 
 **妮露:** 但他刚刚好像叫那头龙…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ——杜林。这是他的名字。
+**流浪者:** ——杜林。这是他的名字。
 
 **娜维娅:** 你没事就好，那头龙…杜林呢？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他没事。
+**流浪者:** 他没事。
 
 **派蒙:** 杜林…难道不是蒙德雪山那头邪龙的名字吗？他被特瓦林打败后，就一直在那里了，我记得他好像是那谁…
 
@@ -1941,13 +1941,13 @@ Why did you send us here?
 
 **派蒙:** 对，是「黄金」莱茵多特的造物…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 造物…呵…
+**流浪者:** 造物…呵…
 
 **派蒙:** 所以到底发生什么了吗？你从刚才开始就不太对劲。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-*{REALNAME[ID(1)]}向你们讲述了他在迷雾中看到的景象…*
+*流浪者向你们讲述了他在迷雾中看到的景象…*
 
 **妮露:** 原来这才是关于希穆兰卡「邪龙」的真相…
 
@@ -1959,29 +1959,29 @@ Why did you send us here?
 
 **妮露:** 我们一路上遇到的居民，恐怕是曾经矿窟中的人，还有前来讨伐「邪龙」的人…他迫不得已才把大家安置在这里吧…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我来到这个世界的时候，脑中的声音是这么对我说的——「你是这个世界的勇者，去拯救这个世界的巨龙吧」。
+**流浪者:** 我来到这个世界的时候，脑中的声音是这么对我说的——「你是这个世界的勇者，去拯救这个世界的巨龙吧」。
 
 **派蒙:** 所以，这到底是谁的声音啦？我们又为什么会被带到这个世界呢？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 跟我来吧，下面有这一切的答案。
+**流浪者:** 跟我来吧，下面有这一切的答案。
 
 #### 深入邪龙的巢穴
 
 **娜维娅:** 这里是…一间书房？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 是「命运女神」的书房。
+**流浪者:** 是「命运女神」的书房。
 
 **派蒙:** 欸？是传说中创造了希穆兰卡的三个女神中的「命运女神」？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 准确来说，是「魔女会」中代号为「M」的魔女。
+**流浪者:** 准确来说，是「魔女会」中代号为「M」的魔女。
 
 **派蒙:** 「魔女会」…？！
 
 **派蒙:** 呃…我好像一直在重复…可能实在是太惊讶了…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 她创造了「杜林」的故事，准确来说是希穆兰卡的「杜林」。
+**流浪者:** 她创造了「杜林」的故事，准确来说是希穆兰卡的「杜林」。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 很多事情都写在这里了，包括其他两位女神的身份，你们自己翻吧。
+**流浪者:** 很多事情都写在这里了，包括其他两位女神的身份，你们自己翻吧。
 
 #### 场景
 
@@ -2021,7 +2021,7 @@ Why did you send us here?
 
 **派蒙:** 咦？那是…和星轨王城不一样的神像？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 是「命运女神」的神像。
+**流浪者:** 是「命运女神」的神像。
 
 #### 深入邪龙的巢穴
 
@@ -2097,7 +2097,7 @@ Why did you send us here?
 
 **艾莉丝:** 我能感觉到，你给予小杜林的祝福十分特殊。有这「故事之外」的祝福，他说不定也可以去其他世界转转了呢。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 是指提瓦特吗？
+**流浪者:** 是指提瓦特吗？
 
 **艾莉丝:** 没错。其实在创造希穆兰卡的时候，M就对我们说，希望这里的居民有朝一日能去外面探索更广阔的世界。
 
@@ -2147,7 +2147,7 @@ Why did you send us here?
 
 **小杜林:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧，看我干什么？都说了会陪你的。
+**流浪者:** 啧，看我干什么？都说了会陪你的。
 
 **绮良良:** 哇！你们快看！
 

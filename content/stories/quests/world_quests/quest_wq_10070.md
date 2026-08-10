@@ -7,15 +7,15 @@
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 10070
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73000,73026,73027,73028,73029,73073
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10070
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -390,7 +390,7 @@
 
 **Паймон:** Финансирование? То есть за исследования можно получить мору?
 
-**Джазари:** Верно. Значит, загрязнение... Если дело касается экологии, мы можем подать заявку на исследование в Аму{RUBY#[S]школа биологии}рту.
+**Джазари:** Верно. Значит, загрязнение... Если дело касается экологии, мы можем подать заявку на исследование в Амушкола биологиирту.
 
 **Джазари:** Настоящее спасение для междисциплинарных исследований, подобных нашему.
 
@@ -552,7 +552,7 @@
 
 **Паймон:** Финансирование? То есть за исследования можно получить мору?
 
-**Джазари:** Верно. Значит, загрязнение... Если дело касается экологии, мы можем подать заявку на исследование в А{RUBY#[D]даршан наук о жизни}мурту.
+**Джазари:** Верно. Значит, загрязнение... Если дело касается экологии, мы можем подать заявку на исследование в Адаршан наук о жизнимурту.
 
 **Джазари:** Настоящее спасение для междисциплинарных исследований, подобных нашему.
 
@@ -2335,7 +2335,7 @@ Tell me about the "bad dirty stuff"...
 
 **Paimon:** Funding? Are you saying that you get Mora from doing research?
 
-**Jazari:** That's right. Speaking of which, we did talk about pollution a moment ago... For ecological topics, we might be able to file a subject application with Biol{RUBY#[S]Amurta}ogy.
+**Jazari:** That's right. Speaking of which, we did talk about pollution a moment ago... For ecological topics, we might be able to file a subject application with BiolAmurtaogy.
 
 **Jazari:** That would really be an archon-send for those who study fringe subjects like us.
 
@@ -2497,7 +2497,7 @@ Tell me about the "bad dirty stuff"...
 
 **Paimon:** Funding? Are you saying that you get Mora from doing research?
 
-**Jazari:** That's right. Speaking of which, we did talk about pollution a moment ago... For ecological topics, we might be able to file a subject application with Biol{RUBY#[S]Amurta}ogy.
+**Jazari:** That's right. Speaking of which, we did talk about pollution a moment ago... For ecological topics, we might be able to file a subject application with BiolAmurtaogy.
 
 **Jazari:** That would really be an archon-send for those who study fringe subjects like us.
 
@@ -3021,7 +3021,7 @@ You were finally able to get inside the Ruin Golem. If it can be activated, gain
 
 **Jazari:** "Behold. Thousands of years of ancient Khaenri'ah history lie before us!"
 
-**Jazari:** Oops, got carried away there. This is a famous quote by Iskandar, a Vahu{RUBY#[S]Aetiology}mana sage. Wait. Haven't you read his biography?
+**Jazari:** Oops, got carried away there. This is a famous quote by Iskandar, a VahuAetiologymana sage. Wait. Haven't you read his biography?
 
 - **Traveler:** ...
 
@@ -3087,7 +3087,7 @@ You were finally able to get inside the Ruin Golem. If it can be activated, gain
 
 **Jazari:** The power sources of these devices are energy blocks that store pure energy extracted from the Ley Lines.
 
-**Jazari:** According to Vahu{RUBY#[S]Aetiology}mana researchers, this power system most likely had been in widespread use long before the first ruin machine was ever built in ancient Khaenri'ah.
+**Jazari:** According to VahuAetiologymana researchers, this power system most likely had been in widespread use long before the first ruin machine was ever built in ancient Khaenri'ah.
 
 **Jazari:** As I stated earlier, the Ruin Golem is an early model, so it must have one of those backup power systems.
 
@@ -3169,7 +3169,7 @@ No, I don't think that's the case...
 
 **Jazari:** The power sources of these devices are energy blocks that store pure energy extracted from the Ley Lines.
 
-**Jazari:** According to Vahu{RUBY#[S]Aetiology}mana researchers, this power system most likely had been in widespread use long before the first ruin machine was ever built in ancient Khaenri'ah.
+**Jazari:** According to VahuAetiologymana researchers, this power system most likely had been in widespread use long before the first ruin machine was ever built in ancient Khaenri'ah.
 
 **Jazari:** As I stated earlier, the Ruin Golem is an early model, so it must have one of those backup power systems.
 
@@ -4280,7 +4280,7 @@ Uh... I think that's our line.
 
 **派蒙:** 经费？就是说，研究能拿到摩拉？
 
-**加扎里:** 没错。这么说来，之前我们提到了污染…如果是生态相关的问题的话，或许就能向阿弥{RUBY#[D]生论派}利多学院申请课题了。
+**加扎里:** 没错。这么说来，之前我们提到了污染…如果是生态相关的问题的话，或许就能向阿弥生论派利多学院申请课题了。
 
 **加扎里:** 可以说是我们这种边缘学科的救星啊。
 
@@ -4442,7 +4442,7 @@ Uh... I think that's our line.
 
 **派蒙:** 经费？就是说，研究能拿到摩拉？
 
-**加扎里:** 没错。这么说来，之前我们提到了污染…如果是生态相关的问题的话，或许就能向阿弥{RUBY#[D]生论派}利多学院申请课题了。
+**加扎里:** 没错。这么说来，之前我们提到了污染…如果是生态相关的问题的话，或许就能向阿弥生论派利多学院申请课题了。
 
 **加扎里:** 可以说是我们这种边缘学科的救星啊。
 

@@ -3,19 +3,19 @@
 # title_ru: Ожидаемая ложь
 # title_en: An Expected Lie
 # title_zh: 一场预期内的谎言
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74136
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74136
 # previous_quests: quest_wq_74131
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10145,quest_wq_74131
 # quest_chain: quest_wq_10145,quest_wq_74131,quest_wq_74136
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -11,11 +11,11 @@
 # chapter_num_en: Papilio Charontis Chapter: Act I
 # chapter_num_zh: 引蝶之章 第一幕
 # part_source_ids: 11110,11111,11112,11113,11114
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2018
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2512,7 +2512,7 @@ You promised that you'll help us in our search.
 
 **胡桃:** 哦？
 
-**胡桃:** 哦~别大惊小怪，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们不是鬼，只是普通的客人。
+**胡桃:** 哦~别大惊小怪，空/荧们不是鬼，只是普通的客人。
 
 **派蒙:** 对啊！说了不是鬼啦，为什么不冷静下来听我们解释。
 

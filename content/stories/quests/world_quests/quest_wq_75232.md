@@ -3,19 +3,19 @@
 # title_ru: Пайтити мечты
 # title_en: Dreamy Paititi
 # title_zh: 美梦帕依提提
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75232
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75232
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75232
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

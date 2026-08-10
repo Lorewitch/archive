@@ -11,10 +11,10 @@
 # chapter_num_en: Muskets and Roses: Act I
 # chapter_num_zh: 铳枪与蔷薇 第一幕
 # part_source_ids: 40132
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10162
-# related_quests: quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169,quest_wq_74675,quest_wq_74679,quest_wq_74680,quest_wq_74681
-# quest_chain: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169,quest_wq_74675,quest_wq_74679,quest_wq_74680,quest_wq_74681
+# related_quests: quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169
+# quest_chain: quest_eq_10161,quest_eq_10162,quest_eq_10163,quest_eq_10164,quest_eq_10169
 # quest_series: Roses and Muskets
 # version_source: wiki_release_category
 

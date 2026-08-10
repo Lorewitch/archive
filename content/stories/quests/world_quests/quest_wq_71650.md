@@ -3,19 +3,19 @@
 # title_ru: Задания Департамента по делам граждан
 # title_en: Ministry Missions
 # title_zh: 「总务司」的事务
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71650
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71650
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71650
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

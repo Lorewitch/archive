@@ -3,19 +3,19 @@
 # title_ru: В следующей части «Короля заклинаний»...
 # title_en: Next Time, On King of Invokations...
 # title_zh: 《召唤王·下集！是…》
-# region: Сумеру
+# region: Тейват
 # game_version: 3.2
 # release_versions: 3.2
 # source_id: 23035
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 23035
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_23035
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

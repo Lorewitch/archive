@@ -3,19 +3,19 @@
 # title_ru: Завриан возвращается в гнездо
 # title_en: A Saurian Returns to the Nest
 # title_zh: 龙的归巢
-# region: Натлан
+# region: Тейват
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75032
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75032
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75032
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

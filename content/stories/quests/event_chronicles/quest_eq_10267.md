@@ -12,9 +12,9 @@
 # chapter_num_zh: 参究故墟 第二幕
 # part_source_ids: 40211
 # previous_quests: quest_eq_10266
-# next_quests: 
-# related_quests: quest_eq_10266,quest_wq_73705,quest_wq_73706
-# quest_chain: quest_eq_10266,quest_eq_10267,quest_wq_73705,quest_wq_73706
+# next_quests:
+# related_quests: quest_eq_10266
+# quest_chain: quest_eq_10266,quest_eq_10267
 # quest_series: Ruins Exploration || Ruins Exploration: Fieldwise Center
 # version_source: wiki_release_category
 
@@ -366,7 +366,7 @@
 
 **Сетос:** ...Мой конец не будет концом человечества...
 
-**Сетос:** ...Настоящим дарую вам всем... дальний берег вечн{RUBY#[D]Аару}ости...
+**Сетос:** ...Настоящим дарую вам всем... дальний берег вечнАаруости...
 
 **Сетос:** Значит... Они отправились в Аару?
 
@@ -1564,7 +1564,7 @@ Did you get a good night's sleep, Layla?
 
 **Sethos:** "...My end is not humanity's end..."
 
-**Sethos:** "...Hereby bestow upon you all... the far side o{RUBY#[D]Aaru}f Eternity..."
+**Sethos:** "...Hereby bestow upon you all... the far side oAaruf Eternity..."
 
 **Sethos:** Wait, so... They went to Aaru?
 
@@ -2762,7 +2762,7 @@ One thing at a time, Layla.
 
 **赛索斯:** 「…吾之末路并非人之末路…」
 
-**赛索斯:** 「…赐汝等…彼岸{RUBY#[D]阿}的{RUBY#[D]如}永恒。」
+**赛索斯:** 「…赐汝等…彼岸阿的如永恒。」
 
 **赛索斯:** 不会吧，他们进入了阿如？
 

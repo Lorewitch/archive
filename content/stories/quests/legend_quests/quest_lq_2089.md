@@ -11,11 +11,11 @@
 # chapter_num_en: Alcyon Chapter: Act I
 # chapter_num_zh: 启喻鸟之章 第一幕
 # part_source_ids: 16018,16019,16020
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2089
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1830,9 +1830,9 @@
 
 **Агуара:** Р-р-р...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р.
+**Малыш:** Р-р-р.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Агуара:** Р-р!
 
@@ -3828,9 +3828,9 @@ It's a rock hammer!
 
 **Aguara:** Rawr...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr.
+**Little One:** Rawr.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Aguara:** Rawr!
 
@@ -5826,9 +5826,9 @@ Aguara, just like we practiced!
 
 **阿瓜拉:** 呀…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀。
+**小家伙:** 呀。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **阿瓜拉:** 呀呀！
 

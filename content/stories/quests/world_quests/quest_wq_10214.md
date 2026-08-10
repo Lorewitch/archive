@@ -7,15 +7,15 @@
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 10214
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75014,75079,75086,75087
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10214
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -34,13 +34,13 @@
 
 **Квилла:** Малыш, ты что, потерялся?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
 **Квилла:** Ты бодр и полон сил, а твой рог украшает особый узор... Отлично.
 
 **Квилла:** Но почему вы пришли вместе? Я в чём-то ошиблась? Нет, не может быть...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Квилла:** М? Что с ним? Это он тебя сюда привёл?
 
@@ -52,7 +52,7 @@
 
 **Квилла:** Почему он так странно рычит? Неужели заболел? И ведёт себя необычно... Надо его осмотреть.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Квилла:** Потерпи, малыш. Скоро и до тебя дойдёт очередь.
 
@@ -64,7 +64,7 @@
 
 Тут снаружи слышится громкий шум...
 «Кто открыл коробку? Эй! Стоп! Перестаньте! Не то Квилла рассердится!»
-Нет времени выяснять, что произошло. Лучше воспользоваться моментом и улизнуть из лагеря, а {REALNAME[ID(2)|SHOWHOST(true)]} к вам присоединится...
+Нет времени выяснять, что произошло. Лучше воспользоваться моментом и улизнуть из лагеря, а Малыш к вам присоединится...
 
 **Квилла:** А ты иди за мной. Ты меня понимаешь?
 
@@ -94,11 +94,11 @@
 
 Паймон, ты бросила нас и сбежала...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Ещё немного, и преступление стало бы невозможным...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Да, иктомизавра никто не заподозрит... И тебя тоже! Нет, не надо такого говорить, Паймон страшно!
 
@@ -198,11 +198,11 @@
 
 **Тарука:** Угу... Я буду ждать вас на финише. Наверное, мы с Ламизаной к тому времени уже закончим гонку. Я глаз с него не спущу!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}, тебе здесь никак не развернуться. Лучше наблюдай за ними вместе с Паймон.
+**Паймон:** Малыш, тебе здесь никак не развернуться. Лучше наблюдай за ними вместе с Паймон.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 ### Происшествия всегда внезапны
 
@@ -220,13 +220,13 @@
 
 **Темач:** У нас здесь заврианы и наездники учатся вместе. Твой спутник...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Темач:** ...Извини, малыш, но Лётная школа пакпаков не место для демонстрации навыков. Ты не виноват. Не обижайся.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
-{REALNAME[ID(2)|SHOWHOST(true)]} ещё молод, но у него большой потенциал.
+Малыш ещё молод, но у него большой потенциал.
 
 **Паймон:** Хотя лётный потенциал тепетлизавра не сравнится с потенциалом кукузавра или иктомизавра.
 
@@ -254,25 +254,25 @@
 
 Прошу прощения. Я за призом.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
 **Ламизана:** О, редкий гость. Нечасто к нам заходят маленькие тепетлизавры. Тем более, с этой... А у тебя много спутников разных пород.
 
-**Паймон:** Пород?! Паймон и {REALNAME[ID(2)|SHOWHOST(true)]} никак нельзя одинаково описывать!
+**Паймон:** Пород?! Паймон и Малыш никак нельзя одинаково описывать!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-ур? Р-р...
+**Малыш:** Ру-у-ур? Р-р...
 
 **Паймон:** Эм? Ну да, мы спутники (путешественницы)(путешественника), но мы разные. Паймон же не говорит, что кто-то из нас лучше или хуже, так что не грусти.
 
 Самая горькая правда - это та, что сказана непреднамеренно...
 
-**Паймон:** Эй, Путешественник, ну Паймон ведь не это имела в виду, так что не усложняй. {REALNAME[ID(2)|SHOWHOST(true)]} - наш верный друг!
+**Паймон:** Эй, Путешественник, ну Паймон ведь не это имела в виду, так что не усложняй. Малыш - наш верный друг!
 
-Ты наш хороший спутник, {REALNAME[ID(2)|SHOWHOST(true)]}.
+Ты наш хороший спутник, Малыш.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Р-р-р!
+**Малыш:** Р-р-р? Р-р-р!
 
-**Паймон:** Хе-хе, Паймон знала, что ты поймёшь, {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Паймон:** Хе-хе, Паймон знала, что ты поймёшь, Малыш!
 
 **Ламизана:** Завидую вашему взаимопониманию. По вашей одежде видно, что вы не из здешних мест, но дружба между вами и тепетлизавром очень крепка. В чём ваш секрет?
 
@@ -302,9 +302,9 @@
 
 **Паймон:** Ты спрашиваешь, потому что у тебя для нас поручение? Подожди, не говори, Паймон сама догадается!
 
-**Паймон:** Точно! Ты видел, как {REALNAME[ID(2)|SHOWHOST(true)]} нам доверяет, и хочешь узнать наш секрет!
+**Паймон:** Точно! Ты видел, как Малыш нам доверяет, и хочешь узнать наш секрет!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
 **Тарука:** Эм, нет. Не угадала.
 
@@ -560,7 +560,7 @@
 
 **Квилла:** Тепетлизавр был очень энергичным, с особым узором на роге... Как «потерявшийся» тепетлизавр мог оказаться на месте происшествия один, если его человек не был где-то рядом?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Ламизана:** Так вы действительно соучастники торговцев заврианами. Вы разрушили мой идеальный план...
 
@@ -598,21 +598,21 @@
 
 #### Поищите подсказки вместе с заврианом-спутником
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}, ты что-то нашёл? Тут вроде ничего нет!
+**Паймон:** Малыш, ты что-то нашёл? Тут вроде ничего нет!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у... Р-р, р-р, р-р!
+**Малыш:** Ру-у-у... Р-р, р-р, р-р!
 
 **Паймон:** Паймон видит, что ты очень хочешь что-то сказать. Эх, вот бы понять что именно, но Паймон ведь не завриан.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Дай-ка я попробую.
 
 **Паймон:** О, точно! Может, это подсказка, которую видят только заврианы?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р!
+**Малыш:** Р-р!
 
 ### Прощай, последнее заврианское печенье
 
@@ -632,7 +632,7 @@
 
 #### Исследуйте лагерь
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
 **Оберон:** Р-р-р?
 
@@ -664,25 +664,25 @@
 
 **Меховичок:** Р-р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-За дело, {REALNAME[ID(2)|SHOWHOST(true)]}!
+За дело, Малыш!
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]}? Ты серьёзно собираешься сразиться с тем, кто в несколько раз больше тебя?
+**Паймон:** Малыш? Ты серьёзно собираешься сразиться с тем, кто в несколько раз больше тебя?
 
 **Оберон:** Ру-у-у...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
 **Паймон:** Оберон выглядит каким-то подавленным. Он волнуется за Таруку или переел заврианского печенья?..
 
-**Паймон:** Может, {REALNAME[ID(2)|SHOWHOST(true)]} хотел его подбодрить, поэтому так смело вышел вперёд, чтобы защитить нас?
+**Паймон:** Может, Малыш хотел его подбодрить, поэтому так смело вышел вперёд, чтобы защитить нас?
 
 **Квилла:** Одной смелости недостаточно, чтобы что-то изменить в этом мире. Абсолютный контроль куда надёжнее, чем подобные иллюзии.
 
 **Квилла:** В атаку!
 
-**Паймон:** Невероятно! {REALNAME[ID(2)|SHOWHOST(true)]} может уклоняться от атак противника! Это же особенность тепетлизавра. Даже небесный правитель с таким не справится!
+**Паймон:** Невероятно! Малыш может уклоняться от атак противника! Это же особенность тепетлизавра. Даже небесный правитель с таким не справится!
 
 - **Путешественник:** Атакуй.
 
@@ -692,35 +692,35 @@
 
 - **Путешественник:** Убегай.
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]} переходит в наступление!
+**Паймон:** Малыш переходит в наступление!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-ру!.. Р-р!
+**Малыш:** Р-р-ру!.. Р-р!
 
-**Паймон:** Похоже, {REALNAME[ID(2)|SHOWHOST(true)]} считает, что, обороняясь, можно упустить возможности. Он переходит в наступление!
+**Паймон:** Похоже, Малыш считает, что, обороняясь, можно упустить возможности. Он переходит в наступление!
 
 **Паймон:** У нас сейчас ничего нет! Да и не поздновато ли ставить ловушки?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!.. Р-р!
+**Малыш:** Р-р-р!.. Р-р!
 
-**Паймон:** Ммм! {REALNAME[ID(2)|SHOWHOST(true)]} переходит в наступление!
+**Паймон:** Ммм! Малыш переходит в наступление!
 
 **Паймон:** Сейчас не время для бегства!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
-**Паймон:** Даже {REALNAME[ID(2)|SHOWHOST(true)]} это знает и готов перейти в наступление!
+**Паймон:** Даже Малыш это знает и готов перейти в наступление!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Удар достиг цели! Но урон... почти нулевой?!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р!
+**Малыш:** Р-р!
 
 **Паймон:** Ну, хоть попал! И то неплохо! Фух, Паймон немного устала. И это только первый раунд? Что вообще происходит?
 
 **Квилла:** Теперь наш черёд, верно? В атаку!
 
-**Паймон:** {REALNAME[ID(2)|SHOWHOST(true)]} быстро принял защитную стойку, чтобы выдержать яростную атаку противника! Он выдержал удар!
+**Паймон:** Малыш быстро принял защитную стойку, чтобы выдержать яростную атаку противника! Он выдержал удар!
 
 **Квилла:** Подожди, ты защищался сразу после атаки! Это же жульничество...
 
@@ -732,7 +732,7 @@
 
 **Паймон:** О? Кажется, Оберон собрался!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
 **Паймон:** Паймон не понимает, о чём они говорят, но, похоже, они нашли общий язык, да?
 
@@ -754,9 +754,9 @@
 
 **Паймон:** Давай, всё идёт хорошо. Почему ты всё ещё думаешь о бегстве?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** Оберон перекрыл путь для побега по воздуху, а {REALNAME[ID(2)|SHOWHOST(true)]} наносит удар! Великолепная совместная атака!
+**Паймон:** Оберон перекрыл путь для побега по воздуху, а Малыш наносит удар! Великолепная совместная атака!
 
 **Паймон:** Меховичок получил серьёзный урон! Похоже, он сильно ударился ногой, как если бы стукнулся о ножку стола. В любом случае противник потрясён и не может двигаться!
 
@@ -768,7 +768,7 @@
 
 - **Путешественник:** Бежим!
 
-**Паймон:** Ты можешь так сделать... но {REALNAME[ID(2)|SHOWHOST(true)]} не так часто получает шанс проявить себя. Не упрямься!
+**Паймон:** Ты можешь так сделать... но Малыш не так часто получает шанс проявить себя. Не упрямься!
 
 **Паймон:** Если бы слова могли решать проблемы, в мире не было бы столько конфликтов, верно?
 
@@ -776,15 +776,15 @@
 
 **Паймон:** ?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** У-у-у... Р-р-р...
+**Малыш:** У-у-у... Р-р-р...
 
-**Паймон:** Да брось! От этого даже {REALNAME[ID(2)|SHOWHOST(true)]} расстраивается...
+**Паймон:** Да брось! От этого даже Малыш расстраивается...
 
 **Оберон:** Р-р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р!
+**Малыш:** Р-р!
 
-**Паймон:** О? Кажется, {REALNAME[ID(2)|SHOWHOST(true)]} и Оберон придумали план...
+**Паймон:** О? Кажется, Малыш и Оберон придумали план...
 
 **Паймон:** Заврианское печенье? Откуда оно взялось?
 
@@ -801,7 +801,7 @@
 **Паймон:** Он даже не понял, что сам стал добычей!
 
 В общем, бой начался, как и ожидалось.
-{REALNAME[ID(2)|SHOWHOST(true)]} проявил смелость, словно хотел доказать, что он не просто так тут. И хотя его нельзя назвать выдающимся учеником лётной школы, он помог своим спутникам.
+Малыш проявил смелость, словно хотел доказать, что он не просто так тут. И хотя его нельзя назвать выдающимся учеником лётной школы, он помог своим спутникам.
 Удивительно, но даже то, что Оберон неожиданно набрал вес, сыграло на руку. Став крупнее обычного кукузавра, он заблокировал воздушное пространство и нанёс Меховичку мощный удар...
 
 Квилла оказалась бесполезна в бою и сбежала, как только Меховичок потерял боевой дух.
@@ -814,9 +814,9 @@
 
 **Паймон:** Эй, не переживай! Тарука умный, с ним всё будет в порядке!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р, р-р!
+**Малыш:** Р-р! Р-р, р-р!
 
-**Паймон:** Да, ты ведь тоже так думаешь, {REALNAME[ID(2)|SHOWHOST(true)]}? Оберон, пора вернуться в лётную школу!
+**Паймон:** Да, ты ведь тоже так думаешь, Малыш? Оберон, пора вернуться в лётную школу!
 
 #### Поговорите с Тарукой
 
@@ -830,7 +830,7 @@
 
 **Оберон:** Ру-у-у...
 
-**Паймон:** Ладно, ладно, он, наверное, расстроен, что вас так надолго разлучили. Кстати, только что он и {REALNAME[ID(2)|SHOWHOST(true)]} отлично сработались!
+**Паймон:** Ладно, ладно, он, наверное, расстроен, что вас так надолго разлучили. Кстати, только что он и Малыш отлично сработались!
 
 Но ещё есть куда расти.
 
@@ -862,25 +862,25 @@
 
 **Ламизана:** Я настоящий мужчина, так что не стану увиливать от ответственности.
 
-- **Путешественник:** Пусть {REALNAME[ID(2)|SHOWHOST(true)]} врежет тебе.
+- **Путешественник:** Пусть Малыш врежет тебе.
 
-- **Путешественник:** Пусть {REALNAME[ID(2)|SHOWHOST(true)]} хорошенько ударит тебя по пальцам ног.
+- **Путешественник:** Пусть Малыш хорошенько ударит тебя по пальцам ног.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Ламизана:** Ой! Ай! Меня ещё не ударили, а уже больно! Пощадите меня... и мои пальцы!
 
 **Паймон:** Ты только что говорил, что настоящий мужчина, а теперь так себя ведёшь... Слабак.
 
-**Паймон:** Ладно, мы выше этого. Верно, Путешественник, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Паймон:** Ладно, мы выше этого. Верно, Путешественник, Малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Ламизана:** Спасибо, что простили меня. Лётная школа... У нас тут нет дверей, но, считайте, её двери всегда открыты для вас.
 
-**Тарука:** Раз уж вы и {REALNAME[ID(2)|SHOWHOST(true)]} так хорошо ладите, хотел спросить, в чём ваш секрет? Заглядывайте ещё, мне бы хотелось поучиться у вас обращаться с заврианами!
+**Тарука:** Раз уж вы и Малыш так хорошо ладите, хотел спросить, в чём ваш секрет? Заглядывайте ещё, мне бы хотелось поучиться у вас обращаться с заврианами!
 
 **Паймон:** Хе-хе, хорошо! Если выпадет возможность, заглянем!
 
@@ -900,13 +900,13 @@ The plot thickens...
 
 **Quilla:** Huh? Are you lost, little one?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
 **Quilla:** How energetic! You look healthy. And there's a special pattern on your horn... Not bad.
 
 **Quilla:** Still, why did you all come here together? Did I do a bad job of teaching? That can't be, right?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooh? Rawrrr!
+**Little One:** Rooh? Rawrrr!
 
 **Quilla:** Huh? What's wrong with it? Did it bring you here?
 
@@ -918,7 +918,7 @@ The plot thickens...
 
 **Quilla:** Why are you making such weird sounds? Are you sick? You seem to be acting strange too. We might need to get you checked out properly.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Quilla:** Don't be impatient, little one. It'll be your turn soon.
 
@@ -930,7 +930,7 @@ The plot thickens...
 
 Just then, you hear the sound of a ruckus outside...
 "Who opened the box... Hey! Let go! Stop fighting over it! Quilla's gonna be mad!"
-There is no time to find out what has happened. You take advantage of the chaos to escape the camp with {REALNAME[ID(2)|SHOWHOST(true)]}...
+There is no time to find out what has happened. You take advantage of the chaos to escape the camp with Little One...
 
 **Quilla:** You're up first. Follow me. Do you understand?
 
@@ -960,11 +960,11 @@ There is no time to find out what has happened. You take advantage of the chaos 
 
 You escaped without us...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroo...
+**Little One:** Wrroo...
 
 Any slower, and this would have become an impossible crime...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrroo...
+**Little One:** Wrroo...
 
 **Paimon:** Sure, no one can accuse the Iktomisaur... Well, you, but don't say scary stuff like that!
 
@@ -1064,11 +1064,11 @@ Paran leaves, taking Carrewoof with him...
 
 **Taruka:** Hmm... I'll be waiting for you guys near the finish line. Lamizana and I should finish first, so I'll watch him like a hawk!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hrrooo?
+**Little One:** Hrrooo?
 
-**Paimon:** This isn't your time to shine, {REALNAME[ID(2)|SHOWHOST(true)]}. Just enjoy the show with Paimon this time, alright?
+**Paimon:** This isn't your time to shine, Little One. Just enjoy the show with Paimon this time, alright?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrrah...
+**Little One:** Wrrah...
 
 ### Incidents Are Ever Sudden
 
@@ -1086,13 +1086,13 @@ At Pakpaka Flying School, what seemed like just another routine challenge missio
 
 **Temach:** Here, we aim to have Saurian and rider stride toward improvement together. Your partner...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrah, rawr!
+**Little One:** Rrah, rawr!
 
 **Temach:** ...Hmm, sorry, little guy, but I doubt Pakpaka Flying School is the place for you to show off your skills. Not your fault, though, so don't take it personally.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
-{REALNAME[ID(2)|SHOWHOST(true)]} is still young, and still has lots of potential to unlock.
+Little One is still young, and still has lots of potential to unlock.
 
 **Paimon:** There's no way a Tepetlisaurus's potential for flight can match that of a Qucusaurus or Iktomisaurus!
 
@@ -1120,25 +1120,25 @@ I'll give it a try.
 
 Excuse me, I'm here to claim a prize.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
 **Lamizana:** Oh, a rare guest. We don't see small Tepetlisaurs every day here. And combined with this... Well, you sure have quite a few different breeds of companions, don't you?
 
-**Paimon:** Breeds...!? Paimon and {REALNAME[ID(2)|SHOWHOST(true)]} aren't even remotely the same thing!
+**Paimon:** Breeds...!? Paimon and Little One aren't even remotely the same thing!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hroowr? Wrooo...
+**Little One:** Hroowr? Wrooo...
 
 **Paimon:** Huh? No, well, we're both Traveler's companions, sure, but we're not entirely the same. Paimon isn't saying that either of us is better or worse, so don't be sad.
 
 The truth hurts the most when it just slips out...
 
-**Paimon:** Hey, you know that's not what Paimon's saying, so don't try to make things more complicated. {REALNAME[ID(2)|SHOWHOST(true)]} is a great buddy of ours!
+**Paimon:** Hey, you know that's not what Paimon's saying, so don't try to make things more complicated. Little One is a great buddy of ours!
 
-You're also a great companion, {REALNAME[ID(2)|SHOWHOST(true)]}!
+You're also a great companion, Little One!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hroo? Rawr!
+**Little One:** Hroo? Rawr!
 
-**Paimon:** Hehe, Paimon knew you'd get it, {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Paimon:** Hehe, Paimon knew you'd get it, Little One!
 
 **Lamizana:** Wow, that's actually some pretty impressive rapport. Your clothes scream that you're not locals, yet the trust and friendship between you and this Tepetlisaurus runs deep. What's your secret?
 
@@ -1168,9 +1168,9 @@ I have an Adventurer Handbook, but Paimon doesn't.
 
 **Paimon:** Are you asking because you have a commission for us? Wait, don't tell Paimon yet — let her guess first. There's only one answer—
 
-**Paimon:** You must have seen how close {REALNAME[ID(2)|SHOWHOST(true)]} is to us, and you wanna ask us about our secret to getting along so well! Is Paimon right or is she right?
+**Paimon:** You must have seen how close Little One is to us, and you wanna ask us about our secret to getting along so well! Is Paimon right or is she right?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
 **Taruka:** Uh, not even close.
 
@@ -1426,7 +1426,7 @@ You briefly explain Taruka's suspicions about Lamizana to everyone. To avoid hav
 
 **Quilla:** That little Tepetlisaurus was very energetic and had special patterns on its horn... Why would there be a "lost" little Tepetlisaurus on the scene unless its human companion was nearby?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wroo?
+**Little One:** Wroo?
 
 **Lamizana:** So you really are an accomplice to Saurian traffickers, and you ruined my perfect plan...
 
@@ -1464,21 +1464,21 @@ After expending a lot of effort, you finally lose Lamizana and the others...
 
 #### Search for clues alongside your Saurian companion
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]}, did you find something? There's nothing here, though!
+**Paimon:** Little One, did you find something? There's nothing here, though!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooo... Rawr! Raaawr!
+**Little One:** Rooo... Rawr! Raaawr!
 
 **Paimon:** Paimon can see that you really want to tell her something. Gah, it would be nice to know what you're saying right now, but Paimon's no Saurian.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wroo...
+**Little One:** Wroo...
 
 Let me try.
 
 **Paimon:** Oh right! Maybe it's a clue that only Saurians can see.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 ### Farewell, Final Saurus Cracker
 
@@ -1498,7 +1498,7 @@ Looks like it'll take more effort to get everything cleared up...
 
 #### Investigate the camp
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
 **Oberon:** Cooo?
 
@@ -1530,25 +1530,25 @@ Looks like it'll take more effort to get everything cleared up...
 
 **Furball:** Gwoooo!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!
+Let's go, Little One!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]}? Are you really gonna take on someone that much bigger than you?
+**Paimon:** Little One? Are you really gonna take on someone that much bigger than you?
 
 **Oberon:** Crrooo...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
 **Paimon:** Oberon looks kinda out of it. Is he just worried about Taruka, or has he eaten too many Saurus Crackers...?
 
-**Paimon:** Maybe {REALNAME[ID(2)|SHOWHOST(true)]} really wants to cheer him up, so he bravely stepped out to protect us?
+**Paimon:** Maybe Little One really wants to cheer him up, so he bravely stepped out to protect us?
 
 **Quilla:** The things in this world that courage alone cannot change outnumber the sand grains of Sumeru. Compared to something illusory like that, absolute control is more reliable.
 
 **Quilla:** Attack!
 
-**Paimon:** Amazing! {REALNAME[ID(2)|SHOWHOST(true)]} dodged the attack! That's just what Tepetlisaurs are good at, not even the sovereign of the skies can touch 'em!
+**Paimon:** Amazing! Little One dodged the attack! That's just what Tepetlisaurs are good at, not even the sovereign of the skies can touch 'em!
 
 - **Traveler:** Attack.
 
@@ -1558,35 +1558,35 @@ Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!
 
 - **Traveler:** Run away.
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
+**Paimon:** Little One is ready to attack!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooo... Rawr!
+**Little One:** Rooo... Rawr!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]} seems to feel like defending too conservatively will lead to wasted opportunity. He's getting ready to attack!
+**Paimon:** Little One seems to feel like defending too conservatively will lead to wasted opportunity. He's getting ready to attack!
 
 **Paimon:** There's nothing we can use right now! Also, don't you think it's a bit too late to set Beast Trap now?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooo... Rawr!
+**Little One:** Rooo... Rawr!
 
-**Paimon:** Oh! {REALNAME[ID(2)|SHOWHOST(true)]} is ready to attack!
+**Paimon:** Oh! Little One is ready to attack!
 
 **Paimon:** This isn't the time to run away!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrrooo... Rawr!
+**Little One:** Wrrooo... Rawr!
 
-**Paimon:** Even {REALNAME[ID(2)|SHOWHOST(true)]} gets it! Look, he's ready to attack!
+**Paimon:** Even Little One gets it! Look, he's ready to attack!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** The attack hit! It dealt... almost no damage!?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Well, getting a hit in is already pretty impressive! Phew— Paimon's kinda feeling tired already. Have we really only gone one round? What's going on...
 
 **Quilla:** It's my turn now, right? Attack!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]} quickly assumes a defensive stance to weather the opponent's fierce assault! He successfully blocks it!
+**Paimon:** Little One quickly assumes a defensive stance to weather the opponent's fierce assault! He successfully blocks it!
 
 **Quilla:** Wait, your Saurian defended on his own right after attacking! Tch, despicable rule breaker...
 
@@ -1598,7 +1598,7 @@ The best way to win a turn-based game is not to take turns!
 
 **Paimon:** Huh? Oberon seems to be pulling himself together!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
 **Paimon:** Paimon doesn't understand what they're saying, but it looks like they've reached some kind of... mutual understanding...?
 
@@ -1620,9 +1620,9 @@ The best way to win a turn-based game is not to take turns!
 
 **Paimon:** C'mon, things are going well. Why are you still thinking about running away!?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Paimon:** Oberon has blocked the opponent's aerial escape route, and {REALNAME[ID(2)|SHOWHOST(true)]} is launching an attack! A brilliant coordinated strike!
+**Paimon:** Oberon has blocked the opponent's aerial escape route, and Little One is launching an attack! A brilliant coordinated strike!
 
 **Paimon:** That's a lot of damage Furball's taking! Did it eat a bad hit to the foot? Like, "stubbing your toe against the corner of a table," bad? Either way, the opponent seems shaken up and unable to move!
 
@@ -1634,7 +1634,7 @@ The best way to win a turn-based game is not to take turns!
 
 - **Traveler:** Let's run away now!
 
-**Paimon:** You could do that... but c'mon, {REALNAME[ID(2)|SHOWHOST(true)]} doesn't get lots of chances to show his stuff as-is, so stop being so childish!
+**Paimon:** You could do that... but c'mon, Little One doesn't get lots of chances to show his stuff as-is, so stop being so childish!
 
 **Paimon:** If words could solve problems, why would there be so many conflicts in the world?
 
@@ -1642,15 +1642,15 @@ The best way to win a turn-based game is not to take turns!
 
 **Paimon:** ?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wooo... Rrroo...
+**Little One:** Wooo... Rrroo...
 
-**Paimon:** C'mon! You're even getting {REALNAME[ID(2)|SHOWHOST(true)]} down now!
+**Paimon:** C'mon! You're even getting Little One down now!
 
 **Oberon:** Kraaaa!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Paimon:** Oh? It looks like {REALNAME[ID(2)|SHOWHOST(true)]} and Oberon have a plan...
+**Paimon:** Oh? It looks like Little One and Oberon have a plan...
 
 **Paimon:** Saurus Crackers? Where did these Saurus Crackers come from?
 
@@ -1667,7 +1667,7 @@ The best way to win a turn-based game is not to take turns!
 **Paimon:** Little does it know that it's the Saurian being served on that plate!
 
 In summary, the battle continued on in this way, each party trading hits.
-{REALNAME[ID(2)|SHOWHOST(true)]} acted courageously, of course, like he was trying to prove himself. Though he would not ever be considered an outstanding student at the flight school, he could still use his other abilities to help his companions.
+Little One acted courageously, of course, like he was trying to prove himself. Though he would not ever be considered an outstanding student at the flight school, he could still use his other abilities to help his companions.
 Surprisingly, even Oberon's unexpected weight gain helped. Now granted a larger physique than the average Qucusaurus, he closed off the aerial battlefield and dealt Furball a heavy blow...
 
 Quilla herself proved useless in a fight, and thus fled after Furball lost the will to fight.
@@ -1680,9 +1680,9 @@ After reciting the trite lines that petty villains such as herself are wont to s
 
 **Paimon:** Hey, cheer up for now. Taruka's a smart kid. He'll be fine!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Raaaawr!
+**Little One:** Rawr! Raaaawr!
 
-**Paimon:** Yes, that's what you think too, right, {REALNAME[ID(2)|SHOWHOST(true)]}? C'mon, Oberon, let's get you back to the flight school first!
+**Paimon:** Yes, that's what you think too, right, Little One? C'mon, Oberon, let's get you back to the flight school first!
 
 #### Talk to Taruka
 
@@ -1696,7 +1696,7 @@ After reciting the trite lines that petty villains such as herself are wont to s
 
 **Oberon:** Crooo...
 
-**Paimon:** Okay, okay, guess he's really upset after being separated from you for so long. Also, he worked super well with {REALNAME[ID(2)|SHOWHOST(true)]} just now!
+**Paimon:** Okay, okay, guess he's really upset after being separated from you for so long. Also, he worked super well with Little One just now!
 
 There's still room for more improvement.
 
@@ -1728,25 +1728,25 @@ There's still room for more improvement.
 
 **Lamizana:** I'm a real man, so I won't try to weasel out of my responsibilities.
 
-- **Traveler:** We'll get {REALNAME[ID(2)|SHOWHOST(true)]} to give you a punch.
+- **Traveler:** We'll get Little One to give you a punch.
 
-- **Traveler:** I'll have {REALNAME[ID(2)|SHOWHOST(true)]} kick you in the toes.
+- **Traveler:** I'll have Little One kick you in the toes.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Lamizana:** Ouch! Ow! I haven't been hit, but it already hurts! Please stay your merciful hands... and feet!
 
 **Paimon:** Didn't you just say you're a real man who won't try to weasel out? How pathetic.
 
-**Paimon:** Forget it, we're not that petty. Don't you agree, Traveler, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** Forget it, we're not that petty. Don't you agree, Traveler, Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Lamizana:** Thanks for forgiving me. The flight school... well, it has no doors, but its figurative doors will always be open to you.
 
-**Taruka:** Since you and {REALNAME[ID(2)|SHOWHOST(true)]} are so close, I wanted to ask you for the secret to getting along well with little Saurians!
+**Taruka:** Since you and Little One are so close, I wanted to ask you for the secret to getting along well with little Saurians!
 
 **Paimon:** Hehe, no problem. We'll be back later if we get the chance!
 
@@ -1766,13 +1766,13 @@ There's still room for more improvement.
 
 **葵莉娅:** 咦？小家伙，你是迷路了吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
 **葵莉娅:** 很有活力，看起来很健康。角上有特别的花纹…真不错。
 
 **葵莉娅:** 不过你们为什么会一起出现在这里？是我的管教出了问题？不，这不可能。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？呀呀！
+**小家伙:** 唔？呀呀！
 
 **葵莉娅:** 嗯？它怎么了？是它带你来的？
 
@@ -1784,7 +1784,7 @@ There's still room for more improvement.
 
 **葵莉娅:** 怎么会发出这么奇怪的叫声，难道是生病了？行为也有反常的地方，看来得好好检查一下。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **葵莉娅:** 小家伙，别心急，待会儿就轮到你了。
 
@@ -1796,7 +1796,7 @@ There's still room for more improvement.
 
 这时，从外边传来一阵嘈杂的声响…
 「谁把箱子打开了…喂！别抢！你们先别抢！待会儿葵莉娅要发脾气了！」
-来不及确认发生了什么，先趁乱和{REALNAME[ID(2)|SHOWHOST(true)]}一起离开了营地…
+来不及确认发生了什么，先趁乱和小家伙一起离开了营地…
 
 **葵莉娅:** 首先是你，你得跟我走，能听懂指令吗？
 
@@ -1826,11 +1826,11 @@ There's still room for more improvement.
 
 派蒙居然把我们两个丢下独自逃跑…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜…
+**小家伙:** 呜呜…
 
 再晚一步就要变成不可能犯罪了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜…
+**小家伙:** 呜呜…
 
 **派蒙:** 的确是没人可以指证暝视龙…指证你，但是不要说这种可怕的话啦！
 
@@ -1930,11 +1930,11 @@ There's still room for more improvement.
 
 **塔卢加:** 嗯…到时我会在终点附近等你们，拉密萨纳和我应该会先比完，我会好好盯紧他的！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜？
+**小家伙:** 呜呜？
 
-**派蒙:** 这次的确不是适合{REALNAME[ID(2)|SHOWHOST(true)]}发挥的舞台呢，你就跟我一起观赛好啦。
+**派蒙:** 这次的确不是适合小家伙发挥的舞台呢，你就跟我一起观赛好啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 ### 事件总是突如其来
 
@@ -1952,13 +1952,13 @@ There's still room for more improvement.
 
 **特马乔:** 咱们这儿主打一个人和龙共同进步，你的伙伴…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔，呀！
+**小家伙:** 唔，呀！
 
 **特马乔:** …嗯，小家伙，看来帕帕卡飞行学校不是能让你一展身手的地方。别太介怀了，这当然不是你的问题。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜嗯？
+**小家伙:** 呜嗯？
 
-{REALNAME[ID(2)|SHOWHOST(true)]}还小，还有潜力。
+小家伙还小，还有潜力。
 
 **派蒙:** 嵴锋龙的潜力怎么想也不会是和绒翼龙暝视龙比飞行吧！
 
@@ -1986,25 +1986,25 @@ There's still room for more improvement.
 
 打扰了，我来领奖品。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
 **拉密萨纳:** 哦，这还真是稀罕的客人，我们这儿可不常见小嵴锋龙。还有这边的…你的伙伴品种真是多样啊。
 
-**派蒙:** 品种…我跟{REALNAME[ID(2)|SHOWHOST(true)]}可不是一回事啊！
+**派蒙:** 品种…我跟小家伙可不是一回事啊！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？呜…
+**小家伙:** 嗯？呜…
 
 **派蒙:** 欸？不是，我们都是旅行者的伙伴没错，但是也不完全一样吧，呃，不一样的意思不是说谁更好谁不好，所以别难过啦。
 
 无意说出的真心话才致命…
 
-**派蒙:** 旅行者明明知道我不是那个意思，就别让问题变得更复杂啦。{REALNAME[ID(2)|SHOWHOST(true)]}也是我们的好伙伴哦！
+**派蒙:** 旅行者明明知道我不是那个意思，就别让问题变得更复杂啦。小家伙也是我们的好伙伴哦！
 
-{REALNAME[ID(2)|SHOWHOST(true)]}也是好伙伴。
+小家伙也是好伙伴。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜？呀！
+**小家伙:** 呜呜？呀！
 
-**派蒙:** 嘿嘿，我就知道{REALNAME[ID(2)|SHOWHOST(true)]}是聪明小龙，一定不会误会我的！
+**派蒙:** 嘿嘿，我就知道小家伙是聪明小龙，一定不会误会我的！
 
 **拉密萨纳:** 真是叫人羡慕的默契。看你们的装束也不是本地人，却能和小嵴锋龙有这样深厚的信赖和友谊，是不是有什么诀窍？
 
@@ -2034,9 +2034,9 @@ There's still room for more improvement.
 
 **派蒙:** 你这么问是有什么委托想要交给我们吗？等一等，你先不要说，让我猜猜看，答案只有一个——
 
-**派蒙:** 你看到我们和{REALNAME[ID(2)|SHOWHOST(true)]}关系这么好，想要请教和小龙融洽相处的诀窍！对不对？
+**派蒙:** 你看到我们和小家伙关系这么好，想要请教和小龙融洽相处的诀窍！对不对？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
 **塔卢加:** 唉，根本不对。
 
@@ -2292,7 +2292,7 @@ There's still room for more improvement.
 
 **葵莉娅:** 那只小嵴锋龙很有活力，角上还有特别的花纹…这里为什么会有「迷路」的小嵴锋龙？除非它的人类同伴就在附近。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜？
+**小家伙:** 呜？
 
 **拉密萨纳:** 原来你们真是龙贩子的同伙，破坏了我完美的计划…
 
@@ -2330,21 +2330,21 @@ There's still room for more improvement.
 
 #### 和龙伙伴一起寻找线索
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}，你发现什么了？欸？这不是什么都没有吗？
+**派蒙:** 小家伙，你发现什么了？欸？这不是什么都没有吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…呀！呀呀呀！
+**小家伙:** 呜…呀！呀呀呀！
 
 **派蒙:** 看得出来你是真的很想告诉我们什么，唉，要是能听懂你在说什么就好了，可我毕竟不是龙嘛。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 让我试试。
 
 **派蒙:** 对哦，说不定是只有龙才能发现的线索。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀呀！
+**小家伙:** 呀呀！
 
 ### 再见了，最后的龙龙饼干
 
@@ -2364,7 +2364,7 @@ There's still room for more improvement.
 
 #### 调查营地内部
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
 **奥伯龙:** 呜？
 
@@ -2396,25 +2396,25 @@ There's still room for more improvement.
 
 **毛球:** 吼——
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-上吧！{REALNAME[ID(2)|SHOWHOST(true)]}！
+上吧！小家伙！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}！居然要挑战比自己大得多的对手！
+**派蒙:** 小家伙！居然要挑战比自己大得多的对手！
 
 **奥伯龙:** 呜呜…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
 **派蒙:** 奥伯龙没什么精神的样子，也不知道是因为和塔卢加分开而感到不安，还是单纯的龙龙饼干吃得太多…
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}会不会是想给它打气，所以才勇敢地站出来保护我们？
+**派蒙:** 小家伙会不会是想给它打气，所以才勇敢地站出来保护我们？
 
 **葵莉娅:** 这世上多得是光靠勇气无可奈何的事，比起那些虚无缥缈的东西，还是绝对的支配力更可靠。
 
 **葵莉娅:** 攻击！
 
-**派蒙:** 居然！{REALNAME[ID(2)|SHOWHOST(true)]}躲过了对方的攻击！这正是嵴锋龙的特长，就算是天空的王者也拿它没有办法！
+**派蒙:** 居然！小家伙躲过了对方的攻击！这正是嵴锋龙的特长，就算是天空的王者也拿它没有办法！
 
 - **旅行者:** 攻击。
 
@@ -2424,35 +2424,35 @@ There's still room for more improvement.
 
 - **旅行者:** 逃跑。
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}摆出了进攻的架势！
+**派蒙:** 小家伙摆出了进攻的架势！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…呀！
+**小家伙:** 呜…呀！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}似乎认为防御的策略太过保守，会浪费大好机会，于是摆出了进攻的架势！
+**派蒙:** 小家伙似乎认为防御的策略太过保守，会浪费大好机会，于是摆出了进攻的架势！
 
 **派蒙:** 我们哪有可以现在用的道具啊！就算是想要设置捕兽夹也太晚了吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…呀！
+**小家伙:** 呜…呀！
 
-**派蒙:** 哦！{REALNAME[ID(2)|SHOWHOST(true)]}摆出了进攻的架势！
+**派蒙:** 哦！小家伙摆出了进攻的架势！
 
 **派蒙:** 现在不是逃跑的时候吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜…呀！
+**小家伙:** 呜呜…呀！
 
-**派蒙:** 就连{REALNAME[ID(2)|SHOWHOST(true)]}都知道呢，看，它摆出了进攻的架势！
+**派蒙:** 就连小家伙都知道呢，看，它摆出了进攻的架势！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 攻击命中了！并且造成了…造成了微量伤害？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀呀！
+**小家伙:** 呀呀！
 
 **派蒙:** 好好，没有被对方闪避而是成功命中已经很了不起了！呼——虽然才进行了一回合，但是已经觉得很累了，怎么回事…
 
 **葵莉娅:** 那么接下来轮到我的回合了吧？攻击！
 
-**派蒙:** 面对对手凌厉的进攻，{REALNAME[ID(2)|SHOWHOST(true)]}紧急采取防御态势！它防住了！
+**派蒙:** 面对对手凌厉的进攻，小家伙紧急采取防御态势！它防住了！
 
 **葵莉娅:** 居然在进攻之后又自主选择了防御，可恶的规则破坏者…
 
@@ -2464,7 +2464,7 @@ There's still room for more improvement.
 
 **派蒙:** 欸？奥伯龙好像振作起来了？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
 **派蒙:** 虽然听不懂这是在说什么，但是看样子，它们之间好像达成了某种默契…
 
@@ -2486,9 +2486,9 @@ There's still room for more improvement.
 
 **派蒙:** 现在明明形势大好，你怎么还惦记着逃跑啊！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**派蒙:** 哦！奥伯龙封住了向空中躲避的路线，再由{REALNAME[ID(2)|SHOWHOST(true)]}发起主动进攻，一次漂亮的协同攻击！
+**派蒙:** 哦！奥伯龙封住了向空中躲避的路线，再由小家伙发起主动进攻，一次漂亮的协同攻击！
 
 **派蒙:** 对毛球造成了不小的伤害！是打到脚了吗？想象一下脚趾撞到桌角的感受！对手看起来陷入了动摇状态，无法继续行动！
 
@@ -2500,7 +2500,7 @@ There's still room for more improvement.
 
 - **旅行者:** 趁现在逃跑吧！
 
-**派蒙:** 虽然也是一种选择…但是难得有{REALNAME[ID(2)|SHOWHOST(true)]}表现的机会，就让给它嘛！别这么小孩子气了！
+**派蒙:** 虽然也是一种选择…但是难得有小家伙表现的机会，就让给它嘛！别这么小孩子气了！
 
 **派蒙:** 如果光靠对话就能解决问题，这个世界上为什么还会有这么多纷争？
 
@@ -2508,15 +2508,15 @@ There's still room for more improvement.
 
 **派蒙:** ？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…呜呜…
+**小家伙:** 呜…呜呜…
 
-**派蒙:** 哇，{REALNAME[ID(2)|SHOWHOST(true)]}都泄气了！
+**派蒙:** 哇，小家伙都泄气了！
 
 **奥伯龙:** 呜！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀呀！
+**小家伙:** 呀呀！
 
-**派蒙:** 嗯？{REALNAME[ID(2)|SHOWHOST(true)]}和奥伯龙好像有什么计划的样子…
+**派蒙:** 嗯？小家伙和奥伯龙好像有什么计划的样子…
 
 **派蒙:** 龙龙饼干！哪里来的龙龙饼干！
 
@@ -2533,7 +2533,7 @@ There's still room for more improvement.
 **派蒙:** 它没有察觉到！真正被放上餐碟的龙龙就是它自己！
 
 总而言之，之后也进行了如此这般你来我往的战斗。
-{REALNAME[ID(2)|SHOWHOST(true)]}自然是表现得十分英勇，像是要证明自己，虽然不能在飞行学校取得优秀学员的称号，也能靠其他本领为伙伴派上用场。
+小家伙自然是表现得十分英勇，像是要证明自己，虽然不能在飞行学校取得优秀学员的称号，也能靠其他本领为伙伴派上用场。
 令人意外的是，就连奥伯龙在体重上的意外成长也并非没有作用，靠着较普通小绒翼龙稍大的体型，成功封锁了空中的战场，并且对毛球进行了沉重的打击…
 
 葵莉娅本人似乎并没有任何战斗能力，在毛球丧失战意后，她也不得不退场。
@@ -2546,9 +2546,9 @@ There's still room for more improvement.
 
 **派蒙:** 哇，你先别难过，塔卢加那么聪明，肯定不会有事的！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀呀！
+**小家伙:** 呀！呀呀！
 
-**派蒙:** 嗯嗯，{REALNAME[ID(2)|SHOWHOST(true)]}也是这么觉得的，对不对？现在我们先把奥伯龙送回飞行学校吧！
+**派蒙:** 嗯嗯，小家伙也是这么觉得的，对不对？现在我们先把奥伯龙送回飞行学校吧！
 
 #### 与塔卢加对话
 
@@ -2562,7 +2562,7 @@ There's still room for more improvement.
 
 **奥伯龙:** 呜呜…
 
-**派蒙:** 好啦好啦，它和你分开这么久肯定也很不安。而且刚才它和{REALNAME[ID(2)|SHOWHOST(true)]}的配合也很不错呢！
+**派蒙:** 好啦好啦，它和你分开这么久肯定也很不安。而且刚才它和小家伙的配合也很不错呢！
 
 还有教化的余地。
 
@@ -2594,24 +2594,24 @@ There's still room for more improvement.
 
 **拉密萨纳:** 我也是个男子汉，该负责任的时候不会推脱。
 
-- **旅行者:** 让{REALNAME[ID(2)|SHOWHOST(true)]}给你一拳。
+- **旅行者:** 让小家伙给你一拳。
 
-- **旅行者:** 让{REALNAME[ID(2)|SHOWHOST(true)]}踢你脚趾。
+- **旅行者:** 让小家伙踢你脚趾。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **拉密萨纳:** 好痛！还没挨到但是已经觉得很痛了！唯独这点还请高抬贵手…也请高抬贵脚！
 
 **派蒙:** 刚才还说自己是男子汉不会推脱呢，真是没出息啊。
 
-**派蒙:** 算了，我们也不是这么小心眼的人物，对吧，旅行者，{REALNAME[ID(2)|SHOWHOST(true)]}？
+**派蒙:** 算了，我们也不是这么小心眼的人物，对吧，旅行者，小家伙？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **拉密萨纳:** 感谢你们的宽容，飞行学校…呃虽然没有大门，但是还请意会一下，大门随时向你们敞开。
 
-**塔卢加:** 嗯，看到你们和{REALNAME[ID(2)|SHOWHOST(true)]}关系这么好，我也想要请教和小龙融洽相处的诀窍呢！
+**塔卢加:** 嗯，看到你们和小家伙关系这么好，我也想要请教和小龙融洽相处的诀窍呢！
 
 **派蒙:** 嘿嘿，好喔，如果之后有空的话，我们会再来的！

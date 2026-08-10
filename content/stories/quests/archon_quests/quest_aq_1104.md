@@ -3,7 +3,7 @@
 # title_ru: Мы встретимся снова
 # title_en: We Will Be Reunited
 # title_zh: 我们终将重逢
-# region: Мондштадт, Ли Юэ
+# region: Тейват
 # game_version: 1.4
 # release_versions: 1.4
 # source_id: 1104
@@ -13,8 +13,8 @@
 # part_source_ids: 8000,8001,8002,8003
 # previous_quests: quest_wq_1105
 # next_quests: quest_aq_1201
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: I
 # version_source: wiki_release_category
 
@@ -2706,13 +2706,13 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **派蒙:** 原来那时发生的事，完整顺序是这样的呀…我还以为，你一开始就遇见了那位陌生的神灵呢…
 
-**戴因斯雷布:** 嗯…降临此世之后，你最初的复苏，就是被{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}从陨星中唤醒。
+**戴因斯雷布:** 嗯…降临此世之后，你最初的复苏，就是被空/荧从陨星中唤醒。
 
-**派蒙:** 看来你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}比你先醒呢，就是不知道比你早了多久？
+**派蒙:** 看来你的空/荧比你先醒呢，就是不知道比你早了多久？
 
-**戴因斯雷布:** 然后，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}告诉你，坎瑞亚的灭亡导致天变地异，要你一起离开这个名为提瓦特的世界。
+**戴因斯雷布:** 然后，你的空/荧告诉你，坎瑞亚的灭亡导致天变地异，要你一起离开这个名为提瓦特的世界。
 
-**派蒙:** 「坎瑞亚的灭亡」？{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}是这样说的？
+**派蒙:** 「坎瑞亚的灭亡」？空/荧是这样说的？
 
 - **旅行者:** 没错。
 
@@ -2722,7 +2722,7 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **戴因斯雷布:** 看来你在这个世界的第一次苏醒，也是在那个时期。
 
-**派蒙:** 嗯…这样说来，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}，因为先醒的关系，当时比你更了解这个世界吧。
+**派蒙:** 嗯…这样说来，你的空/荧，因为先醒的关系，当时比你更了解这个世界吧。
 
 **戴因斯雷布:** 而此事的后续，就是你们很快就遇到了一位拦住去路的陌生神灵，未能逃离…
 
@@ -2738,7 +2738,7 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **派蒙:** 去蒙德前，只看过一些模糊的资料，后来又在蒙德、璃月各地收集过一些旧书，你都说「用处不大」…
 
-**派蒙:** 原来你其实是想知道更多关于坎瑞亚的事，而且是为了寻找{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}吗？
+**派蒙:** 原来你其实是想知道更多关于坎瑞亚的事，而且是为了寻找空/荧吗？
 
 - **旅行者:** 那是仅次于「七神」的线索。
 
@@ -2766,7 +2766,7 @@ I have already traveled through this world once. Once you reach the end of your 
 
 - **旅行者:** 非常过分…
 
-- **旅行者:** 危险的世界…更想尽快找到{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}了。
+- **旅行者:** 危险的世界…更想尽快找到空/荧了。
 
 **戴因斯雷布:** 嗯，继续在这里谈论旧事，会消磨人的意志。
 
@@ -2830,7 +2830,7 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **派蒙:** 可是，上面的文字好像读不懂欸，是坎瑞亚的文字吗？
 
-**戴因斯雷布:** 「…将敌人的信仰作为薪柴，为高贵的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_GIRLD|INFO_FEMALE_PRONOUN_BOYD]}殿下献上荣光…」
+**戴因斯雷布:** 「…将敌人的信仰作为薪柴，为高贵的空/荧殿下献上荣光…」
 
 **派蒙:** 啊，这是…信里的内容？
 
@@ -3372,25 +3372,25 @@ I have already traveled through this world once. Once you reach the end of your 
 
 - **旅行者:** 差不多明白了。
 
-- **旅行者:** 注意力只在{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}身上，没仔细听。
+- **旅行者:** 注意力只在空/荧身上，没仔细听。
 
 **派蒙:** 唔…那我们来稍微梳理一下吧。
 
-**派蒙:** 首先是那个深渊使徒，它把你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}叫做「{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_GIRLD|INFO_FEMALE_PRONOUN_BOYD]}」殿下。
+**派蒙:** 首先是那个深渊使徒，它把你的空/荧叫做「空/荧」殿下。
 
-**派蒙:** 看来你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}正在统领深渊教团，而且地位比深渊使徒更高…虽然不知道是不是最高的统治者就是了。
+**派蒙:** 看来你的空/荧正在统领深渊教团，而且地位比深渊使徒更高…虽然不知道是不是最高的统治者就是了。
 
-**派蒙:** 还有，你{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}说{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}的目标是「淹没神座、与天理作战」。这是什么意思呢？听起来…是不是要覆灭七神与七国？
+**派蒙:** 还有，你空/荧说空/荧的目标是「淹没神座、与天理作战」。这是什么意思呢？听起来…是不是要覆灭七神与七国？
 
 **派蒙:** 然后，深渊教团的怪物，就是坎瑞亚灭国时的人民…扭曲成的怪物。这真是可怕的故事。
 
 **派蒙:** 戴因也是坎瑞亚人，五百年前也经历了那一切。但他没有变成怪物，而且在五百年后的今天，正对抗着深渊教团…
 
-**派蒙:** 也就是，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}说的，「戴因正在与{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}为敌」的意思吧？
+**派蒙:** 也就是，你的空/荧说的，「戴因正在与空/荧为敌」的意思吧？
 
 **派蒙:** 但是，如果深渊教团的怪物，是当年戴因守护的人民，那为什么戴因要与深渊教团敌对呢？
 
-**派蒙:** 另外，为什么…我一直在陪你寻找的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}，现在却和深渊教团的怪物站在一起？
+**派蒙:** 另外，为什么…我一直在陪你寻找的空/荧，现在却和深渊教团的怪物站在一起？
 
 - **旅行者:** 情报并不太多。
 
@@ -3402,7 +3402,7 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **派蒙:** 我们的旅行不会结束，该动身了！离开这个讨厌的地方，先回到阳光照耀的地面上去吧。
 
-**派蒙:** 如果你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}要你「抵达终点」…好啊，那你就抵达给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}看！
+**派蒙:** 如果你的空/荧要你「抵达终点」…好啊，那你就抵达给空/荧看！
 
 **派蒙:** 「旅行者」，我们走吧！
 
@@ -3482,19 +3482,19 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **派蒙:** 那，那个人，难道就是…？！
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！
+空/荧！
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…
+空/荧…
 
 - **旅行者:** 终于找到你了！
 
 - **旅行者:** 快跟我走！这里很危险！
 
-**派蒙:** 等…等等，旅行者，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}刚才替深渊使徒挡住了攻击…
+**派蒙:** 等…等等，旅行者，空/荧刚才替深渊使徒挡住了攻击…
 
-**派蒙:** 你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}，好像和「深渊」…
+**派蒙:** 你的空/荧，好像和「深渊」…
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}，为什么你和戴因在一起？
+空/荧，为什么你和戴因在一起？
 
 - **旅行者:** …什么？
 
@@ -3510,27 +3510,27 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **派蒙:** 欸？
 
-**派蒙:** 旅行者，你的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SISTER|INFO_FEMALE_PRONOUN_BROTHER]}…认识戴因？
+**派蒙:** 旅行者，你的空/荧…认识戴因？
 
 **戴因斯雷布:** ……
 
-**戴因斯雷布:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}。我们又见面了。
+**戴因斯雷布:** 空/荧。我们又见面了。
 
-**派蒙:** 这…这究竟是怎么回事？！戴因也知道{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}的名字！
+**派蒙:** 这…这究竟是怎么回事？！戴因也知道空/荧的名字！
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}…你不该和这个人同行。
+空/荧…你不该和这个人同行。
 
 这个人…是我的「敌人」。
 
-**戴因斯雷布:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}…
+**戴因斯雷布:** 空/荧…
 
 - **旅行者:** 等一下！
 
-- **旅行者:** 别再说我不明白的话了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_KONG]}！
+- **旅行者:** 别再说我不明白的话了，空/荧！
 
 ……
 
-但这是必须对你说的话，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。不要与戴因一起来阻止我。不要阻止「深渊」。
+但这是必须对你说的话，空/荧。不要与戴因一起来阻止我。不要阻止「深渊」。
 
 那个人…戴因斯雷布。他是坎瑞亚末代宫廷卫队的「末光之剑」。在五百年前，他未能阻止坎瑞亚的灭国。
 
@@ -3542,13 +3542,13 @@ I have already traveled through this world once. Once you reach the end of your 
 
 **派蒙:** 呜…还有「戴因是你的敌人」什么的，一下子完全搞不清状况了…
 
-- **旅行者:** 先跟我走吧，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！我们回家！
+- **旅行者:** 先跟我走吧，空/荧！我们回家！
 
 - **旅行者:** 这些事以后再告诉我，我们回家吧！
 
 家…
 
-嗯，当然，有{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}在的地方就是「家」。
+嗯，当然，有空/荧在的地方就是「家」。
 
 但我还不能与你去往下一个世界、寻找新的家园…至少现在不能。
 
@@ -3556,7 +3556,7 @@ I have already traveled through this world once. Once you reach the end of your 
 
 天…理？
 
-听我说，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_YING]}。
+听我说，空/荧。
 
 我已经有过一次旅行。所以，你也要像我一样抵达终点，才能在自己的眼中，留下这个世界的沉淀。
 

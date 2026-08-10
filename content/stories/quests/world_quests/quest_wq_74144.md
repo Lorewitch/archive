@@ -3,19 +3,19 @@
 # title_ru: Свободное стихосложение
 # title_en: Free Verse
 # title_zh: 无格律自由诗
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74144
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74144
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74144
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -121,7 +121,7 @@
 
 **Пенни:** А это Нана. Она очень грациозная и заботливая леди.
 
-**Нана:** У-у-у, {RUBY#[D]Спасибо за доброе мнение.}Гав. Ар-р, Гав. Гав-{RUBY#[D]Рада встрече.}гав.
+**Нана:** У-у-у, Спасибо за доброе мнение.Гав. Ар-р, Гав. Гав-Рада встрече.гав.
 
 - **Путешественник:** Мне это кажется?
 
@@ -219,25 +219,25 @@
 
 **Паймон:** Хи-хи, конечно... Погоди-ка! Вообще-то Паймон всегда была умной! Ты сомневаешься в её интеллекте?
 
-**Нана:** Гав! У-у-у,{RUBY#[D]Умеет слушать внутренний голос.} Гав-гав-гав.
+**Нана:** Гав! У-у-у,Умеет слушать внутренний голос. Гав-гав-гав.
 
 - **Путешественник:** Я их понимаю!
 
 - **Путешественник:** Привет.
 
-**Нана:** Ау-у, {RUBY#[D]Привет,}у-у-у, гав{RUBY#[D]друзья, прибывшие издалека.}-гав. Гав.
+**Нана:** Ау-у, Привет,у-у-у, гавдрузья, прибывшие издалека.-гав. Гав.
 
 **Паймон:** Откуда вы знаете, что мы прибыли издалека? Неужели вы умеете не только разговаривать, но ещё и гадать как Мона?
 
-**Дон Кихано:** Мяу! Мяу, р-р-{RUBY#[D]«Друзья, прибывшие издалека» - это обычное приветствие!}р мяу-мяу! Мяу.
+**Дон Кихано:** Мяу! Мяу, р-р-«Друзья, прибывшие издалека» - это обычное приветствие!р мяу-мяу! Мяу.
 
 **Паймон:** Вот как...
 
 То есть то, что говорила Пенни, - это правда?
 
-**Нана:** У-у-у у-у-у,{RUBY#[D]Я жила в Кур-де-Фонтейне.} р-р-р, гав-гав-гав{RUBY#[D]Прекрасные были времена!} Га-а-а-в.
+**Нана:** У-у-у у-у-у,Я жила в Кур-де-Фонтейне. р-р-р, гав-гав-гавПрекрасные были времена! Га-а-а-в.
 
-**Нана:** У-у-у, гав-гав-гав.{RUBY#[D]Мои старые друзья всё ещё собираются в «Дебор Отеле».} Гав-гав-гав. Га-а-а-в.
+**Нана:** У-у-у, гав-гав-гав.Мои старые друзья всё ещё собираются в «Дебор Отеле». Гав-гав-гав. Га-а-а-в.
 
 **Нана:** Эх, раньше мы с Осенью часто ходили в «Дебор Отель» на танцы.
 
@@ -908,7 +908,7 @@ Hello.
 
 **Penny:** And this is Nana, a particularly elegant and very considerate lady.
 
-**Nana:** Yip-yip, {RUBY#[D]Thanks for saying that, Sweetheart.}woo-woof. Woof {RUBY#[D]Pleased to meet you.}woof.
+**Nana:** Yip-yip, Thanks for saying that, Sweetheart.woo-woof. Woof Pleased to meet you.woof.
 
 - **Traveler:** Am I imagining things?
 
@@ -1004,25 +1004,25 @@ You understood that, Paimon?
 
 **Paimon:** Why, of course... Wait, no, Paimon was smart to begin with! Are you doubting Paimon's intelligence?
 
-**Nana:** Woof, awoo, {RUBY#[D]It's because she listens from the heart.}woof-woof-woof.
+**Nana:** Woof, awoo, It's because she listens from the heart.woof-woof-woof.
 
 - **Traveler:** I can understand now!
 
 - **Traveler:** Hello.
 
-**Nana:** Awoo{RUBY#[D]Hello,}, woof-woof {RUBY#[D]friends from afar.}woof.
+**Nana:** AwooHello,, woof-woof friends from afar.woof.
 
 **Paimon:** How did you know we came from far away? Can you not only speak, but tell the future just like Mona too?
 
-**Don Quijano:** Mrow — {RUBY#[D]"Friends from afar" is a common greeting,}meow, purr, meow-meow {RUBY#[D]friends from afar.}meow.
+**Don Quijano:** Mrow — "Friends from afar" is a common greeting,meow, purr, meow-meow friends from afar.meow.
 
 **Paimon:** Oh.
 
 So everything Penny said is true?
 
-**Nana:** Arw-arw-arwoo {RUBY#[D]I did use to live in the Court of Fontaine,}arwoo, woo, woof-woof-woof{RUBY#[D]such wonderful memories.}, arwoo.
+**Nana:** Arw-arw-arwoo I did use to live in the Court of Fontaine,arwoo, woo, woof-woof-woofsuch wonderful memories., arwoo.
 
-**Nana:** A{RUBY#[D]I suppose,}woo, my old friends are still mingling regularly at the Hotel Debord.
+**Nana:** AI suppose,woo, my old friends are still mingling regularly at the Hotel Debord.
 
 **Nana:** Heh, I would often accompany Autumn to such soirees at the Hotel, and oh, how we danced!
 
@@ -1692,7 +1692,7 @@ As Penny kisses your forehead with joy, you can almost feel her anticipation and
 
 **佩妮:** 这是娜娜女士，她是一位特别优雅的淑女，很会关心人。
 
-**娜娜:** 嘤嘤，{RUBY#[D]甜心，谢谢你这么说。}汪呜汪。汪{RUBY#[D]幸会。}汪。
+**娜娜:** 嘤嘤，甜心，谢谢你这么说。汪呜汪。汪幸会。汪。
 
 - **旅行者:** 是我的错觉吗？
 
@@ -1788,25 +1788,25 @@ As Penny kisses your forehead with joy, you can almost feel her anticipation and
 
 **派蒙:** 嘿嘿，不愧是我…啊不对，我本来就很聪明，你是在怀疑我的智慧吗？
 
-**娜娜:** 汪，嗷呜，{RUBY#[D]因为她懂得倾听内心的声音。}汪汪汪。
+**娜娜:** 汪，嗷呜，因为她懂得倾听内心的声音。汪汪汪。
 
 - **旅行者:** 能听懂了！
 
 - **旅行者:** 你好。
 
-**娜娜:** 嗷{RUBY#[D]你好，}呜，汪汪{RUBY#[D]远来的朋友。}汪。
+**娜娜:** 嗷你好，呜，汪汪远来的朋友。汪。
 
 **派蒙:** 你们怎么知道我们是从很远的地方来的，难道你们除了说话，还有占卜的能力？就像莫娜一样。
 
-**唐·西哈诺:** 喵呜——{RUBY#[D]「远来的朋友」是一个固定词组，}喵，咕噜，喵喵{RUBY#[D]远来的朋友。}喵。
+**唐·西哈诺:** 喵呜——「远来的朋友」是一个固定词组，喵，咕噜，喵喵远来的朋友。喵。
 
 **派蒙:** 哦。
 
 所以佩妮说的事情都是真的吗？
 
-**娜娜:** 嗷嗷嗷{RUBY#[D]我的确曾经在枫丹廷生活过，}嗷呜，呜，汪汪汪{RUBY#[D]那是一段美好的过去。}，汪呜。
+**娜娜:** 嗷嗷嗷我的确曾经在枫丹廷生活过，嗷呜，呜，汪汪汪那是一段美好的过去。，汪呜。
 
-**娜娜:** 嗷{RUBY#[D]我猜，}呜，我的老朋友们现在也还是会定期在德波大饭店聚会吧。
+**娜娜:** 嗷我猜，呜，我的老朋友们现在也还是会定期在德波大饭店聚会吧。
 
 **娜娜:** 呵呵，以前我总会陪秋去德波大饭店聚会、跳舞。
 

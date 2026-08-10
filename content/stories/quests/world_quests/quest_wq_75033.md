@@ -3,19 +3,19 @@
 # title_ru: Все грани воина
 # title_en: Every Aspect of a Warrior
 # title_zh: 勇士的每一面
-# region: Натлан
+# region: Тейват
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75033
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75033
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75033
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

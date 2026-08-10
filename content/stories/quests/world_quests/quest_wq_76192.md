@@ -3,19 +3,19 @@
 # title_ru: Исследование животных: Инеевый финвал
 # title_en: Animal Research: Frostfin Whales
 # title_zh: 动物调查·霜鳍鲸
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76192
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76192
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76193
 # related_quests: quest_wq_76191,quest_wq_76193
 # quest_chain: quest_wq_76191,quest_wq_76192,quest_wq_76193
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

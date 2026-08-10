@@ -3,16 +3,16 @@
 # title_ru: Оборонительная стратегия
 # title_en: A Defensive Strategy
 # title_zh: 据守的规划
-# region: Ли Юэ
+# region: Тейват
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 71671
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71671
 # previous_quests: quest_wq_71670
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_71670
 # quest_chain: quest_wq_71670,quest_wq_71671
 # quest_series: Stygian Onslaught

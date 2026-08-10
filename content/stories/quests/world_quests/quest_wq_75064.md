@@ -3,19 +3,19 @@
 # title_ru: Танец в лунном свете
 # title_en: Dancin' in the Moonlight
 # title_zh: 月光中共舞
-# region: Натлан
+# region: Тейват
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75064
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75064
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_75070
 # related_quests: quest_wq_75070,quest_wq_75071
 # quest_chain: quest_wq_75064,quest_wq_75070,quest_wq_75071
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -30,7 +30,7 @@
 
 **Паймон:** Ой, а мы-то забыли, что у тебя есть аэростат! И ты нас ещё не покатал на нём? Жадина!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у! Ру-у-у!
+**Малыш:** Ру-у-у! Ру-у-у!
 
 **Магнифико:** Вы ведь не просили. Да?
 
@@ -67,7 +67,7 @@
 
 **Паймон:** Столько моры!!!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Магнифико:** Как вы уже поняли, мне нужно сделать несколько изображений заврианов. Не один из тех рисунков в трёх ракурсах, которые вы видите в книгах с иллюстрациями животных... Я хочу сделать что-то более реалистичное!
 
@@ -97,7 +97,7 @@
 
 **Паймон:** ...Большеглавозавры, минилапозавры, гигаглазозавры, суперстрашнозавры, страхозавры, страннозавры, нормозавры, худозавры, толстозавры...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** У-у-ур-р-ру!
+**Малыш:** У-у-ур-р-ру!
 
 - **Путешественник:** Что ты такое говоришь, Паймон?
 
@@ -105,21 +105,21 @@
 
 **Паймон:** А ещё... Урррурзавры!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р! Р-р-р!
+**Малыш:** Р-р-р! Р-р-р!
 
 **Паймон:** И враврзавры!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Врав! Р-р-р!
+**Малыш:** Врав! Р-р-р!
 
 **Паймон:** Назови любого - мы справимся!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Хрм, хрм!
+**Малыш:** Хрм, хрм!
 
 - **Путешественник:** Эх... хорошо, мы поможем.
 
 - **Путешественник:** Извини, но мне нужно сейчас идти по делам.
 
-**Паймон:** Раз уж ты заплатил такой аванс, мы обязательно поможем! Да, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Паймон:** Раз уж ты заплатил такой аванс, мы обязательно поможем! Да, Малыш?
 
 **Магнифико:** Ура, чудесно!
 
@@ -131,17 +131,17 @@
 
 **Магнифико:** Хм... Следующий - иктомизавр в лунном свете! Да, звучит неплохо. Правда, чтобы добиться идеального освещения, придётся потрудиться.
 
-**Магнифико:** Ха! Твой выход, малыш {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Магнифико:** Ха! Твой выход, малыш Малыш!
 
 **Паймон:** Малыш? Пф. Он выше тебя!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р? Ру-у?
+**Малыш:** Р-р-р? Ру-у?
 
 **Магнифико:** Отлично, прекрасно... Сейчас самое подходящее время... Ха-ха, шедевр скоро будет готов...
 
 **Паймон:** Тогда обязательно сделайте хороший снимок, как вы сняли тех девушек из Фонтейна! Так ведь говорилось в том отрывке фильма?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!.. Р-ру-у!
+**Малыш:** Р-р-р!.. Р-ру-у!
 
 **Магнифико:** Ха-ха, не беспокойтесь!
 
@@ -197,7 +197,7 @@
 
 - **Путешественник:** Мы просто проходили мимо.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ур-ру-у-у!
+**Малыш:** Ур-ру-у-у!
 
 **Магнифико:** Ха-ха, здорово! Начинаем!
 
@@ -231,7 +231,7 @@
 
 **Паймон:** Но остаток вознаграждения...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Вр-р-р-р? Ру-у...
+**Малыш:** Вр-р-р-р? Ру-у...
 
 **Паймон:** Да... Паймон тоже разочарована... Думала, что остаток вознаграждения будет более существенным, чем аванс...
 
@@ -245,7 +245,7 @@
 
 **Магнифико:** До встречи, друзья! Удачи вам!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 *Магнифико собирает вещи и быстро забирается в воздушный шар.
 Он сначала сильно трясётся, вызывая смех у Магнифико, затем стабилизируется и улетает вдаль.*
@@ -262,7 +262,7 @@ When that moon's big and bright, it's a fine, natural sight that's a supernatura
 
 **Paimon:** Whoa! Guess we forgot you have a hot-air balloon, huh? Not that you've ever brought us along on it, you stingy...!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawoo! Rawoo!
+**Little One:** Rawoo! Rawoo!
 
 **Magnifico:** Well, you've never asked, have you?
 
@@ -299,7 +299,7 @@ He soon finishes his work and stands before you proudly.*
 
 **Paimon:** Wait. This is a ton of Mora!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrraa!
+**Little One:** Wrraa!
 
 **Magnifico:** As you have seen, I need to take a few pictures of Saurians, and I'm not talking about one of those three-view drawings you see in animal illustration books either... What I'm going for is something full of vitality!
 
@@ -329,7 +329,7 @@ He soon finishes his work and stands before you proudly.*
 
 **Paimon:** ...Bigheadasaurs, Miniarmasaurs, Gigagogglesaurs, Scarysaurs, Superscarysaurs, Somewhatscarysaurs, Weirdosaurs, Normiesaurs, Skinnysaurs, Hulkasaurs...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hoohroo!
+**Little One:** Hoohroo!
 
 - **Traveler:** What are you talking about, Paimon?
 
@@ -337,21 +337,21 @@ He soon finishes his work and stands before you proudly.*
 
 **Paimon:** And... the Rawoorasaurs!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawoo, rawoo!
+**Little One:** Rawoo, rawoo!
 
 **Paimon:** And the Wraahrasaurs!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wraah! Rawr!
+**Little One:** Wraah! Rawr!
 
 **Paimon:** Anyway, you name 'em, we can handle 'em!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hrrm, Hrmm!
+**Little One:** Hrrm, Hrmm!
 
 - **Traveler:** *sigh* Alright, we'll help you.
 
 - **Traveler:** Sorry, I've got things to do.
 
-**Paimon:** Of course we will. We've already taken a deposit of that size, after all! Right, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** Of course we will. We've already taken a deposit of that size, after all! Right, Little One?
 
 **Magnifico:** Ah, wonderful. Wonderful!
 
@@ -363,17 +363,17 @@ He soon finishes his work and stands before you proudly.*
 
 **Magnifico:** Hmm... Next up, an Iktomisaurus under the moonlight! Yes, that sounds good. Getting the ideal lighting is going to take some work, though.
 
-**Magnifico:** Hmm... Aha! It's your time to shine, {REALNAME[ID(2)|SHOWHOST(true)]}, my little friend!
+**Magnifico:** Hmm... Aha! It's your time to shine, Little One, my little friend!
 
 **Paimon:** Little? Pfft. He's nearly taller than you, Paimon'll have you know!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrwar? Roo?
+**Little One:** Rrrwar? Roo?
 
 **Magnifico:** Very good, very good... The timing's perfect... Haha! My masterpiece is almost complete...
 
 **Paimon:** Then make sure you get a good shot, just like the subject's one of your Fontainian girls! Hehe, that's how the line goes, right?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hrooo, rroooh!
+**Little One:** Hrooo, rroooh!
 
 **Magnifico:** Haha, just relax!
 
@@ -429,7 +429,7 @@ He soon finishes his work and stands before you proudly.*
 
 - **Traveler:** We're just passing through.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hoohroo~
+**Little One:** Hoohroo~
 
 **Magnifico:** Haha. That's wonderful, then. Let us get started!
 
@@ -463,7 +463,7 @@ He soon finishes his work and stands before you proudly.*
 
 **Paimon:** But, the final payment...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrooh? Wroo...
+**Little One:** Wrooh? Wroo...
 
 **Paimon:** Yeah... Paimon's disappointed too... She thought the final payment would be more substantial than the deposit...
 
@@ -477,7 +477,7 @@ He soon finishes his work and stands before you proudly.*
 
 **Magnifico:** See you, and good luck, my friends!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Raaawr!
+**Little One:** Raaawr!
 
 *Magnifico picks up his luggage and leaps into a hot-air balloon.
 You watch the balloon first shake violently, causing him to give a hearty laugh. Then it quickly regains stability before floating far away.*
@@ -494,7 +494,7 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **派蒙:** 哇！我们怎么忘了你还有热气球呢！你也不载我们一程，真是小气！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜嗷！呜嗷！
+**小家伙:** 呜嗷！呜嗷！
 
 **马尼菲科:** 你们也没问过呀？
 
@@ -531,7 +531,7 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **派蒙:** 这么多钱！！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 哇！！
+**小家伙:** 哇！！
 
 **马尼菲科:** 正如你们所见，我需要给本土的龙类拍几张画片，不是那种动物图鉴上的三视图…不，我要的是那种更有生命力的画片！
 
@@ -561,7 +561,7 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **派蒙:** …大头龙、小手龙、大眼龙、可怕龙、超可怕龙、不那么可怕龙、奇奇怪怪龙、平平常常龙、干干瘦瘦龙、鼓鼓囊囊龙…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 哼哼！
+**小家伙:** 哼哼！
 
 - **旅行者:** 那都是些什么啦！
 
@@ -569,21 +569,21 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **派蒙:** 还有…嗷呜嗷呜龙！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗷呜，嗷呜！
+**小家伙:** 嗷呜，嗷呜！
 
 **派蒙:** 哇呀哇呀龙！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 哇！呀！
+**小家伙:** 哇！呀！
 
 **派蒙:** 反正、反正我们全都能搞定！相信我，我们可是驯龙大师哦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯、嗯！
+**小家伙:** 嗯、嗯！
 
 - **旅行者:** 唉…我们会帮忙的。
 
 - **旅行者:** 抱歉，我现在没空。
 
-**派蒙:** 这么多定金都拿了，我们会帮忙的啦！对不对，{REALNAME[ID(2)|SHOWHOST(true)]}？
+**派蒙:** 这么多定金都拿了，我们会帮忙的啦！对不对，小家伙？
 
 **马尼菲科:** 好耶！
 
@@ -595,17 +595,17 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **马尼菲科:** 唔…接下来是，月光中的暝视龙…嗯！这个倒是不难。只是，为了找到理想的光源位置还是得费一番功夫。
 
-**马尼菲科:** 啊…哈！就你来吧！{REALNAME[ID(2)|SHOWHOST(true)]}小朋友！
+**马尼菲科:** 啊…哈！就你来吧！小家伙小朋友！
 
 **派蒙:** 噗，人家的个头明明比你还大点呢！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？嗯？
+**小家伙:** 唔？嗯？
 
 **马尼菲科:** 很好，很好…现在这个时候正合适…哈哈，我的名作就要完成咯…
 
 **派蒙:** 那你可一定要好好拍哦，就像你拍那些枫丹女孩子一样！嘿嘿，那部映影的台词是这样说的吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔，嗯嗯！
+**小家伙:** 唔，嗯嗯！
 
 **马尼菲科:** 哈哈，你们就放心吧！
 
@@ -661,7 +661,7 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 - **旅行者:** 只是路过而已。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 哼哼~
+**小家伙:** 哼哼~
 
 **马尼菲科:** 哈哈，太好了。我们这就开始吧！
 
@@ -695,7 +695,7 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **派蒙:** 可是，尾款…尾款…！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯？呜呜…
+**小家伙:** 唔嗯？呜呜…
 
 **派蒙:** 是呢…好失望…我还以为尾款会比定金多一点的…
 
@@ -709,7 +709,7 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **马尼菲科:** 再见了，祝你们一路好运，朋友们！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 *马尼菲科收拢起行李，飞快地跃上了热气球。
 你们看到热气球先是剧烈地摇晃了两下，引得马尼菲科开怀大笑，然后很快恢复了稳定，向着远方飘去。*

@@ -12,7 +12,7 @@
 # chapter_num_zh: 皑尘与雪影 第三幕
 # part_source_ids: 40029
 # previous_quests: quest_eq_10046
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10045,quest_eq_10046
 # quest_chain: quest_eq_10045,quest_eq_10046,quest_eq_10047
 # quest_series: Shadows Amidst Snowstorms
@@ -1254,7 +1254,7 @@ All's well that ends well.
 
 **冒失的帕拉德:** 啊？是吗？实、实话而已…
 
-**乔尔:** 啊，对了，我要谢谢旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，还有塞琉斯叔叔、优菈姐姐和安柏姐姐。
+**乔尔:** 啊，对了，我要谢谢旅行者空/荧，还有塞琉斯叔叔、优菈姐姐和安柏姐姐。
 
 **乔尔:** 大家都很照顾我，我非常珍惜这一段时间。
 

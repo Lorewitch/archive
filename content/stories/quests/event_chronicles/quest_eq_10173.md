@@ -12,7 +12,7 @@
 # chapter_num_zh: 炼金与经营 其四
 # part_source_ids: 40154
 # previous_quests: quest_eq_10172
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10170,quest_eq_10171,quest_eq_10172
 # quest_chain: quest_eq_10170,quest_eq_10171,quest_eq_10172,quest_eq_10173
 # quest_series: Alchemical Ascension

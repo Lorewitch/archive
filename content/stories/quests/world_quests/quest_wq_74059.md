@@ -7,15 +7,15 @@
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74059
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74059
 # previous_quests: quest_wq_74058
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74045,quest_wq_74058
 # quest_chain: quest_wq_74045,quest_wq_74058,quest_wq_74059
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

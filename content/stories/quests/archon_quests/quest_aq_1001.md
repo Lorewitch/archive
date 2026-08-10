@@ -11,10 +11,10 @@
 # chapter_num_en: Prologue: Act I
 # chapter_num_zh: 序章 第一幕
 # part_source_ids: 306,307,308,351,352,353,354,355,356,357,358,360
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_aq_1002
-# related_quests: quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Prologue
 # version_source: wiki_release_category
 
@@ -1135,6 +1135,34 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 **安柏:** 进去看看吧，旅行者。要小心，龙的力量正在影响这里。
 
+#### (test)与安柏对话
+
+**安柏:** 呼…真累人。
+
+**安柏:** 不过，这样就能为琴团长分担一些辛劳了。
+
+**安柏:** 以前我们的防御力量，起码还能守住城里的安全。
+
+**安柏:** 简单来说主要是因为有琴在。
+
+**安柏:** 但现在风魔龙已经直接袭击了蒙德内部…
+
+**安柏:** 「风向变了，我们的策略也会作出相应的变化。」
+
+- **旅行者:** 听起来很有哲理。
+
+- **旅行者:** 你原创的吗？
+
+**安柏:** 这是丽莎喜欢说的话。
+
+**安柏:** 对了，之前我们聊到的「四风守护」话题——
+
+**安柏:** 如果想知道过往的历史，也可以去问丽莎。
+
+**安柏:** …先说明，不是因为我历史学得不好！
+
+**安柏:** 图书管理员的知识储备，总之…就是会比侦察骑士更完备一点吧？
+
 #### 场景
 
 **安柏:** 蒙德城的大家还在被风灾困扰着…
@@ -1171,7 +1199,7 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 **凯亚:** 真遗憾啊，「北风之狼」的庙宇，如今竟被这样打扰。
 
-**凯亚:** 我们走吧，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOY|INFO_FEMALE_PRONOUN_GIRL]}。
+**凯亚:** 我们走吧，空/荧。
 
 **凯亚:** 虽然「四风守护」已经不再有人祭祀，但古老的风不会消散…
 
@@ -1180,6 +1208,26 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 #### 与凯亚对话
 
 **凯亚:** 那么，就让我来展示一下骑士团的战法。
+
+#### (test)与凯亚对话
+
+**凯亚:** 哦！真是精彩。
+
+**凯亚:** 原来阁下是一位训练有素的战士。
+
+**凯亚:** 刚才在庙宇里，一路上的那些战斗，实在令人大开眼界。
+
+- **旅行者:** 您过奖了…
+
+- **旅行者:** 夸得太肉麻了…
+
+**凯亚:** 哈哈哈。连骑士般的「谦虚」品德也已经具备了啊！
+
+**凯亚:** 阁下拯救蒙德的英姿，未来一定会传遍整座自由之城。
+
+**凯亚:** 今后有空的话，还请到骑士团总部来聊聊天吧。
+
+**凯亚:** 嗯…或者，我也知道一家不错的酒馆哦？
 
 ### 书页里的电火花
 
@@ -1212,6 +1260,42 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 #### 与丽莎对话
 
 **丽莎:** 我也稍微认真一下吧。
+
+#### (test)与丽莎对话
+
+**丽莎:** 东风之龙，南风之狮，北风之狼，西风之鹰…
+
+**丽莎:** 它们是蒙德四方之风的守护者，也是风神「巴巴托斯」的眷属。
+
+**丽莎:** 特瓦林——这就是风魔龙的名字。
+
+**丽莎:** 在被人们称作魔龙以前，它曾是「四风守护」中的「东风之龙」。
+
+**丽莎:** 这就是，四方之风的力量中，特瓦林只能借用三方的原因了。
+
+**丽莎:** 从一开始，它就已经在燃尽「自己」了呀。
+
+- **旅行者:** 它为什么要这样做？
+
+- **旅行者:** 它为什么要做到这种地步？
+
+**丽莎:** 我想…是因为「恨」吧。
+
+**派蒙:** 恨…？
+
+**丽莎:** 是对蒙德的憎恨啊。
+
+**丽莎:** 以恨意为驱动、将恨意作为比风更强的力量，化作魔龙…
+
+**派蒙:** 可是，「四风守护」之一，为什么反而会…
+
+**派蒙:** 憎恨它本该守护的那座城市呢？
+
+**丽莎:** ……
+
+**丽莎:** 身为蒙德人，真难自己说出口呀。
+
+**丽莎:** 拿去看吧…这是百年前发生的故事了。
 
 ### 流浪者的足迹
 
@@ -1257,7 +1341,7 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 **派蒙:** 能从神像获得力量的你，会不会在那里找到神的线索呢…？
 
-**派蒙:** 而且，蒙德有很多吟游诗人，说不定能打听到你{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的消息。
+**派蒙:** 而且，蒙德有很多吟游诗人，说不定能打听到你荧/空的消息。
 
 **派蒙:** 好，那就出发吧！
 
@@ -1424,6 +1508,46 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 ### 龙灾
 
 本该宁静祥和的蒙德城中，巨龙突然来袭。它正是安柏提到的风魔龙，亦是你们先前在林中遇见的巨兽。
+
+#### (test)与安柏对话
+
+**安柏:** 风魔龙…竟然开始直接袭击城市内部了！
+
+**安柏:** 凯亚、旅行者，你们来得正好，我们赶快…
+
+**凯亚:** 等等，安柏。这里还有人没来得及互相认识吧？
+
+**安柏:** 啊…好的。这是凯亚，是我们的骑兵队长。
+
+**安柏:** 这两位是远方来的旅者，旅行者和派蒙。
+
+**凯亚:** （只知道是「远方」吗…）
+
+**安柏:** 事情是这样的…
+
+**凯亚:** 原来如此，欢迎来到蒙德。但很遗憾，是在这种糟糕的时机…
+
+**凯亚:** 我很理解血亲分离的痛苦心情，旅行者。
+
+**凯亚:** 另外，虽然不知道你们为什么要找风神…
+
+**凯亚:** 但每个人都有自己的秘密，对吧？
+
+**凯亚:** 哈哈，我是不会追问的。
+
+**凯亚:** 总之，首先我要代骑士团向你们道谢。
+
+- **旅行者:** 不能放着灾难不管…
+
+- **旅行者:** 不客气，那么谢礼呢？
+
+**凯亚:** 嗯…蒙德特色的蜜酱胡萝卜煎肉？
+
+这句话我刚才已经听过了。
+
+**凯亚:** 刚才那场抵御魔龙的战斗，被守护的市民们都是亲眼目睹了的。
+
+**凯亚:** 代理团长大人对两位也很有兴趣，希望能在骑士团总部一叙。
 
 ### 西风骑士团
 

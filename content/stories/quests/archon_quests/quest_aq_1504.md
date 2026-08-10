@@ -13,8 +13,8 @@
 # part_source_ids: 5022,5023,5024,5028,5029
 # previous_quests: quest_aq_1505
 # next_quests: quest_aq_1506
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: V
 # version_source: wiki_release_category
 
@@ -962,7 +962,7 @@
 
 **Качина:** Ну... Не волнуйся, не надо! Я буду за тебя болеть, и что бы ни случилось, я первая брошусь тебе на помощь!
 
-**Качина:** Моё древнее имя - Утха{RUBY#[D]Стойкость}бити. Я никогда не сдаюсь. И ты не сдавайся.
+**Качина:** Моё древнее имя - УтхаСтойкостьбити. Я никогда не сдаюсь. И ты не сдавайся.
 
 **Качина:** Ну что, пойдём дальше!
 
@@ -1094,7 +1094,7 @@
 
 **Паймон:** Ого, древнее имя! Смотри, это твоё древнее имя!
 
-**Шилонен:** Тума{RUBY#[S]Надежда}йни... Это имя поднялось с самого дна реки душ. Оно означает «Надежда».
+**Шилонен:** ТумаНадеждайни... Это имя поднялось с самого дна реки душ. Оно означает «Надежда».
 
 **Ситлали:** Оно ему / ей очень подходит. Похоже на свет луны и звёзд, что в ночи указывает дорогу путнику.
 
@@ -1806,7 +1806,7 @@
 
 **Паймон:** Готово! И Шилонен велела нам обязательно показать его тебе при встрече.
 
-**Мавуика:** Тума{RUBY#[S]Надежда}йни... Да, более подходящего имени и придумать нельзя.
+**Мавуика:** ТумаНадеждайни... Да, более подходящего имени и придумать нельзя.
 
 **Атоко:** Это... древнее имя?
 
@@ -1818,9 +1818,9 @@
 
 **Мавуика:** Оно содержит в себе ожидания, которыми Вайоб наделила (путешественницу)(путешественника), а ещё оно означает, что отныне Путешественник связан(а) с нашей землёй родственными узами.
 
-**Мавуика:** Древнее имя (путешественницы)(путешественника) - Тума{RUBY#[S]Надежда}йни. Надежда, что светит, точно звёзды в ночи, и согревает, словно костёр посреди ледяной пустоши.
+**Мавуика:** Древнее имя (путешественницы)(путешественника) - ТумаНадеждайни. Надежда, что светит, точно звёзды в ночи, и согревает, словно костёр посреди ледяной пустоши.
 
-**Саковев:** Тума{RUBY#[S]Надежда}йни!..
+**Саковев:** ТумаНадеждайни!..
 
 **Танту:** Надежда... После стольких лет непрерывных сражений мы наконец увидели надежду?
 
@@ -2124,7 +2124,7 @@
 
 **Паймон:** Паймон сама не понимает, как это случилось, но после вашего ухода Паймон почему-то увидела Царство Ночи.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Мавуика:** Священное пламя нас соединило. Оно привело нас сюда и позволило вашим сознаниям проводить нас.
 
@@ -2172,7 +2172,7 @@
 
 **Паймон:** Угу!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ты не сражаешься в одиночку! У тебя есть мы!
 
@@ -2360,7 +2360,7 @@
 
 **Бона:** Ну что, в путь! А мы тебе поможем!
 
-**Бона:** Пусть белая феечка и малыш {REALNAME[ID(2)|HOSTONLY(true)]} сейчас далеко, они наверняка болеют за тебя.
+**Бона:** Пусть белая феечка и малыш Малыш сейчас далеко, они наверняка болеют за тебя.
 
 #### Продолжайте идти дальше
 
@@ -2734,7 +2734,7 @@
 
 (Как мне подписаться?..)
 
-(Очевидно, «Тума{RUBY#[S]Надежда}йни».)
+(Очевидно, «ТумаНадеждайни».)
 
 (Рука уже привыкла. Подпишу ещё несколько...)
 
@@ -2744,7 +2744,7 @@
 
 **Вампуна:** Прости, что отвлекаю, (о великая героиня)(о великий герой).
 
-**Вампуна:** Я курьер из Потомков Крон. Всем очень интересно, какое послание скрыто за древним именем «Тума{RUBY#[S]Надежда}йни».
+**Вампуна:** Я курьер из Потомков Крон. Всем очень интересно, какое послание скрыто за древним именем «ТумаНадеждайни».
 
 **Садигуа:** За каждым древним именем стоит история, у каждого героя есть свой девиз...
 
@@ -2772,7 +2772,7 @@
 
 **Садигуа:** Невероятно! Поистине легендарный герой!
 
-**Толпа:** Тума{RUBY#[S]Надежда}йни! Тума{RUBY#[S]Надежда}йни! Тума{RUBY#[S]Надежда}йни!
+**Толпа:** ТумаНадеждайни! ТумаНадеждайни! ТумаНадеждайни!
 
 #### Следуйте дальше по дороге благословений
 
@@ -3196,7 +3196,7 @@
 
 **Паймон:** Шилонен, о чём ты задумалась?
 
-**Шилонен:** Гм, о том, что имя Тума{RUBY#[S]Надежда}йни подходит тебе как нельзя лучше.
+**Шилонен:** Гм, о том, что имя ТумаНадеждайни подходит тебе как нельзя лучше.
 
 **Шилонен:** Когда я вижу, сколько надежды ты подарил(а) людям... то понимаю это ещё отчётливее.
 
@@ -3252,7 +3252,7 @@
 
 **Приветствовать:** Гордо пойте последнюю песню свою, как герои поют на том берегу.
 
-**Приветствовать:** Стела воздвигнута в честь {ABYSSWAR#1003} храбрых героев, отдавших свои жизни, защищая Натлан.
+**Приветствовать:** Стела воздвигнута в честь [число павших] храбрых героев, отдавших свои жизни, защищая Натлан.
 
 ...
 
@@ -3458,7 +3458,7 @@
 
 **Садигуа:** ...Все собрались на стадионе и дружно спели Оду воскресения, чтобы их поддержка добралась до самого тёмного уголка Царства Ночи...
 
-**Садигуа:** Имя «Тума{RUBY#[S]Надежда}йни» теперь у всех на устах, и люди передают его / её девиз друг другу.
+**Садигуа:** Имя «ТумаНадеждайни» теперь у всех на устах, и люди передают его / её девиз друг другу.
 
 **Садигуа:** В начале была тьма.
 
@@ -3480,17 +3480,17 @@
 
 **Мато:** Мне очень понравилось! Это самая лучшая история на свете!
 
-**Сонкко:** Да, а «Тума{RUBY#[S]Надежда}йни» - самое крутое древнее имя! Сегодня я буду Тумайни!
+**Сонкко:** Да, а «ТумаНадеждайни» - самое крутое древнее имя! Сегодня я буду Тумайни!
 
 **Аюн:** Нет, сегодня моя очередь!
 
 **Кукуя:** Нет, нет! Моя!
 
-**Ята:** Нет, моя! Я сегодня буду Тума{RUBY#[S]Надежда}йни!
+**Ята:** Нет, моя! Я сегодня буду ТумаНадеждайни!
 
 **Мато:** И неужели никто не хочет побыть Пиро Архонтом?
 
-**Паймон:** Ха-ха, забавно. Что скажешь, Путешественник? Можно Паймон один денёк побудет Тума{RUBY#[S]Надежда}йни?
+**Паймон:** Ха-ха, забавно. Что скажешь, Путешественник? Можно Паймон один денёк побудет ТумаНадеждайни?
 
 Конечно! Тогда я буду Паймон.
 
@@ -4440,7 +4440,7 @@ We sent you off to battle. Now, you get to do the same.
 
 **Kachina:** Oh, um... D—Don't worry! I'll be rooting for you! And, if you need help, I'll always be first in line!
 
-**Kachina:** I bear the ancient name "Utha{RUBY#[D]Resilience}biti." That means I'll never give up! So, I guess the only piece of advice I can give you is... Don't back down!
+**Kachina:** I bear the ancient name "UthaResiliencebiti." That means I'll never give up! So, I guess the only piece of advice I can give you is... Don't back down!
 
 **Kachina:** Alright, let's keep going!
 
@@ -4572,7 +4572,7 @@ Yeah, if she's looking forward to it that much.
 
 **Paimon:** WOW! It's your Ancient Name!
 
-**Xilonen:** "Tum{RUBY#[D]Hope}aini"... a name surfaced from the very bottom of the river of souls. It means "hope."
+**Xilonen:** "TumHopeaini"... a name surfaced from the very bottom of the river of souls. It means "hope."
 
 **Citlali:** A light to guide us through the darkness, like the stars or the moon... It's a perfect fit.
 
@@ -5284,7 +5284,7 @@ The final battle with the Abyss is at hand. You have the support of all in Natla
 
 **Paimon:** Yep, it's good to go! Xilonen specifically reminded us to show it to you!
 
-**Mavuika:** "Tum{RUBY#[D]Hope}aini"... Yes, that fits you perfectly.
+**Mavuika:** "TumHopeaini"... Yes, that fits you perfectly.
 
 **Atoco:** Is that... an ancient name?
 
@@ -5296,9 +5296,9 @@ The final battle with the Abyss is at hand. You have the support of all in Natla
 
 **Mavuika:** With this name, the Wayob entrust to him / her a monumental task, and this land binds us as kin.
 
-**Mavuika:** "Tum{RUBY#[D]Hope}aini"... That is his / her name. Like starlight amid the darkness, flames amid the cold — it means "hope."
+**Mavuika:** "TumHopeaini"... That is his / her name. Like starlight amid the darkness, flames amid the cold — it means "hope."
 
-**Sakowew:** "Tum{RUBY#[D]Hope}aini"...!
+**Sakowew:** "TumHopeaini"...!
 
 **Tantoo:** Hope... After all these endless years of fighting, we've finally found it, haven't we...
 
@@ -5602,7 +5602,7 @@ Sounds good to me!
 
 **Paimon:** After you left, Paimon started to be able to see this place. It's a mystery to Paimon, too...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar!
+**Little One:** Roar!
 
 **Mavuika:** The Sacred Flame is connecting us. The moment it sent us here, it made sure your consciousness could reach us.
 
@@ -5650,7 +5650,7 @@ Wait for me, Paimon.
 
 **Paimon:** Always!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar!
+**Little One:** Roar!
 
 **Paimon:** You're not in this alone — we'll be with you in spirit the whole time!
 
@@ -5838,7 +5838,7 @@ Thanks. I appreciate it.
 
 **Bona:** Then, let's go. We're all with you!
 
-**Bona:** I know your guide fairy and {REALNAME[ID(2)|HOSTONLY(true)]} couldn't join you here, but I'm sure they're still with you in spirit!
+**Bona:** I know your guide fairy and Little One couldn't join you here, but I'm sure they're still with you in spirit!
 
 #### Continue exploring
 
@@ -6102,7 +6102,7 @@ I feel completely fine.
 
 **Mavuika:** Many fought for this day and gave their lives for this cause — we must not forget them, or the heroic outlander who lent us their aid.
 
-**Mavuika:** His / Her ancient name, "Tum{RUBY#[D]Hope}aini," will be immortalized in the history of Natlan.
+**Mavuika:** His / Her ancient name, "TumHopeaini," will be immortalized in the history of Natlan.
 
 **Mavuika:** From this point on, there will be no more Night Warden Wars, and I pray the Ode of Resurrection will never again need to bring back the fallen.
 
@@ -6212,7 +6212,7 @@ By "someone we know," Paimon meant "a cherished comrade."
 
 (What name should I sign...?)
 
-("Tum{RUBY#[D]Hope}aini"... seems like the obvious choice.)
+("TumHopeaini"... seems like the obvious choice.)
 
 (I'm starting to get the hang of this. Let's go for a few more...)
 
@@ -6222,7 +6222,7 @@ By "someone we know," Paimon meant "a cherished comrade."
 
 **Wampuna:** Sorry to bother you, great hero.
 
-**Wampuna:** I'm a messenger from the Scions of the Canopy. I know everyone's been curious about the hidden message behind "Tum{RUBY#[D]Hope}aini."
+**Wampuna:** I'm a messenger from the Scions of the Canopy. I know everyone's been curious about the hidden message behind "TumHopeaini."
 
 **Sadigua:** Every ancient name has a story behind it and comes with a certain mantra...
 
@@ -6250,7 +6250,7 @@ The Lord of the Night gave those words to me.
 
 **Sadigua:** Legendary! Truly legendary!
 
-**Crowd:** "Tum{RUBY#[D]Hope}aini! Tum{RUBY#[D]Hope}aini! Tum{RUBY#[D]Hope}aini!"
+**Crowd:** "TumHopeaini! TumHopeaini! TumHopeaini!"
 
 #### Continue on the "parade of blessings"
 
@@ -6674,7 +6674,7 @@ Wait, the souls I saw in my dream?
 
 **Paimon:** What's on your mind, Xilonen?
 
-**Xilonen:** I was just thinking about your ancient name, "Tum{RUBY#[D]Hope}aini." It's truly a perfect fit.
+**Xilonen:** I was just thinking about your ancient name, "TumHopeaini." It's truly a perfect fit.
 
 **Xilonen:** Seeing how much hope you've given to the people here... It makes that even more true.
 
@@ -6730,7 +6730,7 @@ Wait, the souls I saw in my dream?
 
 **Salute:** "Sing your final song with pride, like a hero's march to the other side."
 
-**Salute:** "This monument commemorates the {ABYSSWAR#1003} brave warriors who gave their lives in the War for Natlan."
+**Salute:** "This monument commemorates the [number of fallen warriors] brave warriors who gave their lives in the War for Natlan."
 
 ...
 
@@ -6936,7 +6936,7 @@ Sure.
 
 **Sadigua:** ...Everyone gathered at the Stadium and sang the Ode of Resurrection together to send their support to the furthest corner of the Night Kingdom...
 
-**Sadigua:** "Tum{RUBY#[D]Hope}aini" became known by all, and everyone began reciting the words that defined its message.
+**Sadigua:** "TumHopeaini" became known by all, and everyone began reciting the words that defined its message.
 
 **Sadigua:** "In the beginning, there was darkness."
 
@@ -6958,17 +6958,17 @@ Sure.
 
 **Matho:** I loved it! This is the best story ever!
 
-**Soncco:** Yeah! And "Tum{RUBY#[D]Hope}aini" is the coolest ancient name! I get to be "Tumaini" today, okay guys?
+**Soncco:** Yeah! And "TumHopeaini" is the coolest ancient name! I get to be "Tumaini" today, okay guys?
 
 **Ayun:** Hey, it's supposed to be my turn!
 
 **Cucuya:** No! It's my turn!
 
-**Yata:** No, it's MY turn! I get to be "Tum{RUBY#[D]Hope}aini" today!
+**Yata:** No, it's MY turn! I get to be "TumHopeaini" today!
 
 **Matho:** So, no one wants to be the Pyro Archon anymore?
 
-**Paimon:** Hehe, sounds fun. What do you say, Traveler? Wanna let Paimon be "Tum{RUBY#[D]Hope}aini" for the day?
+**Paimon:** Hehe, sounds fun. What do you say, Traveler? Wanna let Paimon be "TumHopeaini" for the day?
 
 Sure! Then, I'll be Paimon.
 
@@ -7918,7 +7918,7 @@ Sure! Then, I'll be Paimon.
 
 **卡齐娜:** 啊，那…别紧张，别紧张，我会帮你加油助威的，不管发生什么，只要可能帮到你，我就会冲在第一个！
 
-**卡齐娜:** 我的古名是「乌沙{RUBY#[D]坚强}博蒂」，我绝对不会放弃，你也不要放弃哦。
+**卡齐娜:** 我的古名是「乌沙坚强博蒂」，我绝对不会放弃，你也不要放弃哦。
 
 **卡齐娜:** 好了，我们继续走吧！
 
@@ -8050,7 +8050,7 @@ Sure! Then, I'll be Paimon.
 
 **派蒙:** 哇，古名，你看，是你的古名！
 
-**希诺宁:** 「杜{RUBY#[D]希望}麦尼」，这个音节逐渐从灵魂之河的最底部浮上，其含义为，希望。
+**希诺宁:** 「杜希望麦尼」，这个音节逐渐从灵魂之河的最底部浮上，其含义为，希望。
 
 **茜特菈莉:** 很符合他 / 她的气质，听上去就像是星星和月亮，为我们在夜晚点亮前路的光。
 
@@ -8058,7 +8058,7 @@ Sure! Then, I'll be Paimon.
 
 **希诺宁:** 当然会，但那几句话并不是自古名诞生便拥有的，作为初代古名的所有者，话语会在他 / 她的冒险中自然而然地浮现。
 
-**希诺宁:** 我想，在你凯旋归来之时，你一定已经领悟了夜神将「杜{RUBY#[D]希望}麦尼」之名赠予你的用意。
+**希诺宁:** 我想，在你凯旋归来之时，你一定已经领悟了夜神将「杜希望麦尼」之名赠予你的用意。
 
 - **旅行者:** 眼下万事俱备…
 
@@ -8762,7 +8762,7 @@ Sure! Then, I'll be Paimon.
 
 **派蒙:** 已经打造好啦。希诺宁特地嘱咐我们，见面后拿给你看看呢！
 
-**玛薇卡:** 「杜{RUBY#[D]希望}麦尼」…的确，没有比这再适合你的古名了。
+**玛薇卡:** 「杜希望麦尼」…的确，没有比这再适合你的古名了。
 
 **阿图科:** 那是…古名？
 
@@ -8774,9 +8774,9 @@ Sure! Then, I'll be Paimon.
 
 **玛薇卡:** 这里面蕴含着大灵对他 / 她的期待，也意味着这片土地将我们紧紧联系在一起，如同最亲密的「家人」。
 
-**玛薇卡:** 「杜{RUBY#[D]希望}麦尼」，这就是他 / 她的古名。犹如黑夜中的星辰、冰原里的火焰，是最明亮而温暖的「希望」。
+**玛薇卡:** 「杜希望麦尼」，这就是他 / 她的古名。犹如黑夜中的星辰、冰原里的火焰，是最明亮而温暖的「希望」。
 
-**莎柯薇:** 「杜{RUBY#[D]希望}麦尼」…！
+**莎柯薇:** 「杜希望麦尼」…！
 
 **谭托:** 希望啊…这么多年不断地征战，终于看到希望了不是吗？
 
@@ -9080,7 +9080,7 @@ Sure! Then, I'll be Paimon.
 
 **派蒙:** 我也不知道为什么，在你们离开之后，我就莫名地能看到这里的景象了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **玛薇卡:** 是圣火将我们连接在了一起，它把我们两个送进来的同时，也让你们的精神能够抵达这里。
 
@@ -9128,7 +9128,7 @@ Sure! Then, I'll be Paimon.
 
 **派蒙:** 嗯！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 你不会孤军奋战，因为有我们在！
 
@@ -9316,7 +9316,7 @@ Sure! Then, I'll be Paimon.
 
 **玻娜:** 那就走吧，让我们都成为你的助力！
 
-**玻娜:** 虽然导航精灵和{REALNAME[ID(2)|HOSTONLY(true)]}都不在你的身边，但他们一定也在支持你。
+**玻娜:** 虽然导航精灵和小家伙都不在你的身边，但他们一定也在支持你。
 
 #### 继续向前探索
 
@@ -9580,7 +9580,7 @@ Sure! Then, I'll be Paimon.
 
 **玛薇卡:** 我们不可忘记所有的贡献者，所有的牺牲者，也绝不能忘记来自异乡的英雄对我们的帮助。
 
-**玛薇卡:** 他 / 她的古名，「杜{RUBY#[D]希望}麦尼」，也将会永远铭刻在纳塔的历史之中。
+**玛薇卡:** 他 / 她的古名，「杜希望麦尼」，也将会永远铭刻在纳塔的历史之中。
 
 **玛薇卡:** 从此以后，不再有「巡夜者战争」，也祝愿「还魂诗」不再需要用于复活牺牲者。
 
@@ -9690,7 +9690,7 @@ Sure! Then, I'll be Paimon.
 
 （这种时候，应该写下什么名字呢…）
 
-（果然，只能是「杜{RUBY#[D]希望}麦尼」吧。）
+（果然，只能是「杜希望麦尼」吧。）
 
 （慢慢顺手起来了，以这个势头多签几份。）
 
@@ -9700,7 +9700,7 @@ Sure! Then, I'll be Paimon.
 
 **万普纳:** 抱歉，英雄大人，打扰你一点点时间。
 
-**万普纳:** 我是悬木人的通告讯使，因为所有人都很好奇，「杜{RUBY#[D]希望}麦尼」的背后，隐藏的那段话是什么？
+**万普纳:** 我是悬木人的通告讯使，因为所有人都很好奇，「杜希望麦尼」的背后，隐藏的那段话是什么？
 
 **萨迪古亚:** 每一个古名，都有一段背后的故事，也有几句凝练的话…
 
@@ -9728,7 +9728,7 @@ Sure! Then, I'll be Paimon.
 
 **萨迪古亚:** 了不起，真是了不起。
 
-**众人:** 「杜{RUBY#[D]希望}麦尼」！「杜{RUBY#[D]希望}麦尼」！「杜{RUBY#[D]希望}麦尼」！
+**众人:** 「杜希望麦尼」！「杜希望麦尼」！「杜希望麦尼」！
 
 #### 继续「祝福之路」
 
@@ -10152,7 +10152,7 @@ Sure! Then, I'll be Paimon.
 
 **派蒙:** 在想什么呢，希诺宁？
 
-**希诺宁:** 哦，我只是觉得，「杜{RUBY#[D]希望}麦尼」确实是非你不可的古名。
+**希诺宁:** 哦，我只是觉得，「杜希望麦尼」确实是非你不可的古名。
 
 **希诺宁:** 在看到这里聚集的这么多人，都把你视为「希望」的时候，我更加坚信了这一点。
 
@@ -10208,7 +10208,7 @@ Sure! Then, I'll be Paimon.
 
 **致敬:** 「颂唱终末的咏赞，如英雄归于彼岸。」
 
-**致敬:** 「谨以此碑，纪念在守护纳塔的战争中阵亡的{ABYSSWAR#1003}名勇士。」
+**致敬:** 「谨以此碑，纪念在守护纳塔的战争中阵亡的[阵亡勇士人数]名勇士。」
 
 ……
 
@@ -10414,7 +10414,7 @@ Sure! Then, I'll be Paimon.
 
 **萨迪古亚:** …众人齐聚圣火竞技场，高唱「还魂诗」，将他们的声援传到夜神之国的最深处…
 
-**萨迪古亚:** 「杜{RUBY#[D]希望}麦尼」变得家喻户晓，每个人都在传唱其中的诗句。
+**萨迪古亚:** 「杜希望麦尼」变得家喻户晓，每个人都在传唱其中的诗句。
 
 **萨迪古亚:** 「星海幽暗，孤寂无垠。」
 
@@ -10436,17 +10436,17 @@ Sure! Then, I'll be Paimon.
 
 **梅索:** 肯定受欢迎啊，不如说现在不讲这个都落伍了吧。
 
-**松科:** 对啊对啊，「杜{RUBY#[D]希望}麦尼」，这个古名多帅啊，我今天也要当这个。
+**松科:** 对啊对啊，「杜希望麦尼」，这个古名多帅啊，我今天也要当这个。
 
 **阿芸:** 欸，今天轮到我了吧！
 
 **库库娅:** 不不不，该我了！
 
-**雅塔:** 什么意思，明明是我，我要当「杜{RUBY#[D]希望}麦尼」！
+**雅塔:** 什么意思，明明是我，我要当「杜希望麦尼」！
 
 **梅索:** 以前都抢着当火神，现在怎么一个当火神的都没有？
 
-**派蒙:** 嘿嘿，我也要当「杜{RUBY#[D]希望}麦尼」，让我当一天吧。
+**派蒙:** 嘿嘿，我也要当「杜希望麦尼」，让我当一天吧。
 
 那我今天当派蒙。
 

@@ -3,7 +3,7 @@
 # title_ru: Кульминация! Разноголосье радостных грёз
 # title_en: Culminate! Chatter of Joyous Dreams
 # title_zh: 幕收！欢谈如梦
-# region: Сумеру
+# region: Тейват
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10116
@@ -12,9 +12,9 @@
 # chapter_num_zh: 决斗！召唤之巅！ 第四回合
 # part_source_ids: 40110
 # previous_quests: quest_eq_10115
-# next_quests: 
-# related_quests: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
-# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
+# next_quests:
+# related_quests: quest_eq_10113,quest_eq_10114,quest_eq_10115
+# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116
 # quest_series: Duel! The Summoners' Summit!
 # version_source: wiki_release_category
 

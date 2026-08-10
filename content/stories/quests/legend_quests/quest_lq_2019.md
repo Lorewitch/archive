@@ -11,11 +11,11 @@
 # chapter_num_en: Aphros Delos Chapter: Act I
 # chapter_num_zh: 浪沫之章 第一幕
 # part_source_ids: 10120,10121,10122
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2019
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2654,7 +2654,7 @@ So, does that make us your "arch-enemies"?
 
 **优菈:** 说起来，为什么你们知道我的名字？
 
-**派蒙:** 就是你说的礼仪问题啦。{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是西风骑士团的荣誉骑士，我们正想调查一位名叫舒伯特·劳伦斯的贵族。
+**派蒙:** 就是你说的礼仪问题啦。空/荧是西风骑士团的荣誉骑士，我们正想调查一位名叫舒伯特·劳伦斯的贵族。
 
 **派蒙:** 可是他非常讲究礼仪，完全不愿意和我们说话。
 
@@ -2926,7 +2926,7 @@ So, does that make us your "arch-enemies"?
 
 **优菈:** 不过，刚刚的那些对话，可能没起到什么教学的效果，到头来还是只能找更多的人…
 
-**派蒙:** 不、不用了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是特别聪明的旅行者，旅途上遇到什么机关都不在话下。刚刚一定已经学到精髓了！
+**派蒙:** 不、不用了，空/荧是特别聪明的旅行者，旅途上遇到什么机关都不在话下。刚刚一定已经学到精髓了！
 
 **派蒙:** 是吧，是吧？
 
@@ -3020,11 +3020,11 @@ So, does that make us your "arch-enemies"?
 
 **优菈:** 这样的话，感觉我都不需要多教些什么了。
 
-**派蒙:** 早就说了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}在冒险方面是很擅长的。
+**派蒙:** 早就说了，空/荧在冒险方面是很擅长的。
 
 **派蒙:** 嘿嘿，这下我们就通过了对吧。那我们快离开雪山吧，我快要冻僵了。
 
-**优菈:** 别急，我刚刚夸奖的是{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}，但是你的表现，完全没有长进！
+**优菈:** 别急，我刚刚夸奖的是空/荧，但是你的表现，完全没有长进！
 
 **派蒙:** 我也是被训练对象吗？！
 
@@ -3036,7 +3036,7 @@ So, does that make us your "arch-enemies"?
 
 - **旅行者:** 可能是散漫惯了。
 
-**派蒙:** 对对对，还有，我的注意力都在{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}身上啊。
+**派蒙:** 对对对，还有，我的注意力都在空/荧身上啊。
 
 **派蒙:** 才不是呢，我把注意力都放在你身上了！
 
@@ -3406,7 +3406,7 @@ So, does that make us your "arch-enemies"?
 
 **谢尔盖:** 请问，这位是？请不要随随便便把信不过的人带进来。
 
-**舒伯特:** 这是我找来的新的盟友，我以劳伦斯的名字起誓，你可以完全相信{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}。
+**舒伯特:** 这是我找来的新的盟友，我以劳伦斯的名字起誓，你可以完全相信空/荧。
 
 - **旅行者:** 请多指教。
 
@@ -3416,7 +3416,7 @@ So, does that make us your "arch-enemies"?
 
 **谢尔盖:** 更何况我听说了有一位加入了骑士团的外来者，最近在蒙德附近十分活跃。
 
-**舒伯特:** 那不可能，这个人精通旧贵族的礼仪，所以我也要以尊重与信任回敬{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}。
+**舒伯特:** 那不可能，这个人精通旧贵族的礼仪，所以我也要以尊重与信任回敬空/荧。
 
 **舒伯特:** 骑士团的人对这种东西从来都是不屑一顾，绝对不可能掌握得这么好。
 
@@ -3476,7 +3476,7 @@ So, does that make us your "arch-enemies"?
 
 - **旅行者:** 我摊牌了。
 
-**派蒙:** 蒙德城西风骑士团荣誉骑士，旅行者！和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}最好的伙伴，派蒙！要粉碎你们的邪恶计划！
+**派蒙:** 蒙德城西风骑士团荣誉骑士，旅行者！和空/荧最好的伙伴，派蒙！要粉碎你们的邪恶计划！
 
 - **旅行者:** …用力过猛了。
 

@@ -3,19 +3,19 @@
 # title_ru: Путь к знаниям
 # title_en: The Path of Papers
 # title_zh: 求学漫漫路
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73105
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73105
 # previous_quests: quest_wq_72813
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_71810,quest_wq_72153,quest_wq_72813
 # quest_chain: quest_wq_71810,quest_wq_72153,quest_wq_72813,quest_wq_73105
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

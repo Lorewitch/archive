@@ -7,15 +7,15 @@
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 10206
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75006,75011
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10206
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -40,7 +40,7 @@
 
 **Паймон:** Эй, Путешественник, что ты с ней сделал(а)? Это что, была какая-то невидимая атака?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 - **Путешественник:** Я ничего не делал(а)...
 
@@ -58,7 +58,7 @@
 
 **Чикиа:** Кто это с тобой? Малыш-тепетлизавр и летающая малышка. Как их зовут?
 
-**Паймон:** Паймон - это Паймон, а малыша зовут {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Паймон - это Паймон, а малыша зовут Малыш.
 
 **Чикиа:** Понятно, понятно. В таком случае, думаю, я буду называть себя...
 
@@ -68,7 +68,7 @@
 
 **Чикиа:** Но я передумала. Это можно было бы расценивать как агрессивную конкуренцию, если вы понимаете, о чём я. Вместо этого я назовусь своим настоящим именем: Чикиа.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Ну разве ты не милашка? Ты зовёшь меня по имени, я знаю. Можешь называть меня сестрой Чикиа, но не тётей Чикиа. Это запрещено.
 
@@ -98,7 +98,7 @@
 
 **Паймон:** Серьёзно? Ты что, (похитительница)(похититель) реплик? Но Паймон всё равно скажет: «Ого, сокровище!»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р!
+**Малыш:** Р-р... Р-р-р!
 
 **Чикиа:** Ха-ха, вы хорошо ладите. Кто знает, возможно, если бы я не тратила столько времени на приведение в порядок тканых свитков, и меня не беспокоила спина, я бы тоже нашла себе друзей!
 
@@ -112,11 +112,11 @@
 
 **Чикиа:** Ох, может, сейчас я и выгляжу не очень, но когда-то я тоже была прекрасной девушкой, которая скакала верхом на иктомизаврах!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Чикиа:** Хе-хе, я вижу, тебя заинтересовал этот эликсир, не так ли, {REALNAME[ID(2)|SHOWHOST(true)]}? Любопытство - залог успеха.
+**Чикиа:** Хе-хе, я вижу, тебя заинтересовал этот эликсир, не так ли, Малыш? Любопытство - залог успеха.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ммм... Р-р!
+**Малыш:** Ммм... Р-р!
 
 **Паймон:** «Эликсир, исцеляющий любые раны»? Звучит впечатляюще!
 
@@ -126,7 +126,7 @@
 
 **Чикиа:** Человек, в сердце которого ничего не дрогнет при мысли о сокровищах, не человек! Даже самый хладнокровный завриан чувствует прилив энтузиазма, когда слышит это слово!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Именно!
 
@@ -138,7 +138,7 @@
 
 **Паймон:** Не стоит недооценивать его / её! Путешественник может справиться и с куда более громадными противниками!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Похоже, я сделала правильный выбор, позвав тебя. Хе-хе, у меня отменное чутьё!
 
@@ -158,7 +158,7 @@
 
 **Паймон:** Эй, Путешественник, что ты с ней сделал(а)? Это что, была какая-то невидимая атака?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 - **Путешественник:** Я ничего не делал(а)...
 
@@ -176,7 +176,7 @@
 
 **Чикиа:** Кто это с тобой? Малыш-тепетлизавр и летающая малышка. Как их зовут?
 
-**Паймон:** Паймон - это Паймон, а малыша зовут {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Паймон:** Паймон - это Паймон, а малыша зовут Малыш.
 
 **Чикиа:** Понятно, понятно. В таком случае, думаю, я буду называть себя...
 
@@ -186,7 +186,7 @@
 
 **Чикиа:** Но я передумала. Это можно было бы расценивать как агрессивную конкуренцию, если вы понимаете, о чём я. Вместо этого я назовусь своим настоящим именем: Чикиа.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Ну разве ты не милашка? Ты зовёшь меня по имени, я знаю. Можешь называть меня сестрой Чикиа, но не тётей Чикиа. Это запрещено.
 
@@ -216,7 +216,7 @@
 
 **Паймон:** Серьёзно? Ты что, (похитительница)(похититель) реплик? Но Паймон всё равно скажет: «Ого, сокровище!»
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р!
+**Малыш:** Р-р... Р-р-р!
 
 **Чикиа:** Ха-ха, вы хорошо ладите. Кто знает, возможно, если бы я не тратила столько времени на приведение в порядок тканых свитков, и меня не беспокоила спина, я бы тоже нашла себе друзей!
 
@@ -228,11 +228,11 @@
 
 **Чикиа:** Ох, может, сейчас я и выгляжу не очень, но когда-то я тоже была прекрасной девушкой, которая скакала верхом на иктомизаврах!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Чикиа:** Хе-хе, я вижу, тебя заинтересовало сокровище, не так ли, {REALNAME[ID(2)|SHOWHOST(true)]}? Любопытство - залог успеха.
+**Чикиа:** Хе-хе, я вижу, тебя заинтересовало сокровище, не так ли, Малыш? Любопытство - залог успеха.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ммм... Р-р!
+**Малыш:** Ммм... Р-р!
 
 **Паймон:** «Эликсир, исцеляющий любые раны»? Звучит впечатляюще!
 
@@ -242,7 +242,7 @@
 
 **Чикиа:** Человек, в сердце которого ничего не дрогнет при мысли о сокровищах, не человек! Даже самый хладнокровный завриан чувствует прилив энтузиазма, когда слышит это слово!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Именно!
 
@@ -262,9 +262,9 @@
 
 **Паймон:** Да, Паймон в порядке!
 
-**Чикиа:** А ты, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Чикиа:** А ты, Малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Я ничего не поняла, но, похоже, ты тоже в полном порядке.
 
@@ -292,7 +292,7 @@
 
 - **Путешественник:** Это было предостережение для тех, кто попытается пройти испытание...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Трудно представить, зачем кому-то понадобилось такое рисовать, но да, от одной мысли об этом у меня мурашки по коже.
 
@@ -316,7 +316,7 @@
 
 **Паймон:** Эм...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Ладно, ладно, не волнуйтесь. Я пошутила!
 
@@ -324,7 +324,7 @@
 
 **Паймон:** Похоже, врата закрыты...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Надеюсь, так оно и есть. Ведь открытые врата означают, что наш путь к великим сокровищам потерян!
 
@@ -332,7 +332,7 @@
 
 **Чикиа:** ...Хм, подумать только, всё было именно так, как говорится в свитках. Что скажешь? Видишь ту флогистоновую гравировку, вон там, у двери?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** А ты сообразительный, малыш. И зоркий. Исследователи утверждают, что у разных видов заврианов острота зрения отличается...
 
@@ -360,7 +360,7 @@
 
 **Паймон:** Ах!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Ладно, твой черёд. Путешественник, скажи что-нибудь!
 
@@ -370,7 +370,7 @@
 
 **Паймон:** Неправдоподобно, Путешественник.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Кто бы мог подумать, что Путешественник обладает таким независимым характером.
 
@@ -384,7 +384,7 @@
 
 **Чикиа:** И мне, как эксперту в этой области, нужен всего один день, чтобы проанализировать эти узоры...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Ц-целый день?
 
@@ -420,17 +420,17 @@
 
 **Чикиа:** Где-то здесь должен быть символ открытия, с помощью которого мы сможем открыть эту флогистоновую гравировку. Но где же он?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да, символ, с помощью которого можно открыть эту гравировку... Погоди, ты понял меня, малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** А? Он развернулся? Пытается сказать нам, что символ позади?
 
 **Паймон:** Похоже, врата закрыты...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Надеюсь, так оно и есть. Ведь открытые врата означают, что наш путь к великим сокровищам потерян!
 
@@ -438,7 +438,7 @@
 
 **Чикиа:** ...Хм, подумать только, всё было именно так, как говорится в свитках. Что скажешь? Видишь ту флогистоновую гравировку, вон там, у двери?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** А ты сообразительный, малыш. И зоркий. Исследователи утверждают, что у разных видов заврианов острота зрения отличается...
 
@@ -466,7 +466,7 @@
 
 **Паймон:** Ах!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Ладно, твой черёд. Путешественник, скажи что-нибудь!
 
@@ -476,7 +476,7 @@
 
 **Паймон:** Неправдоподобно, Путешественник.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Кто бы мог подумать, что Путешественник обладает таким независимым характером.
 
@@ -490,7 +490,7 @@
 
 **Чикиа:** И мне, как эксперту в этой области, нужен всего один день, чтобы проанализировать эти узоры...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Ц-целый день?
 
@@ -528,7 +528,7 @@
 
 **Чикиа:** А? Значит... вещь, которую ты подобрал(а) по дороге, на самом деле была символом открытия флогистоновой гравировки? Ха-ха, какая удача!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Вставь символ открытия во флогистоновую гравировку.
 
@@ -542,9 +542,9 @@
 
 **Паймон:** Паймон как раз собиралась сказать, что чем глубже мы заходим, тем жарче здесь становится, но Паймон никак не ожидала, что всё вокруг будет заполнено лавой!
 
-**Паймон:** Осторожно, {REALNAME[ID(2)|SHOWHOST(true)]}! Если оступишься, тебе придёт конец...
+**Паймон:** Осторожно, Малыш! Если оступишься, тебе придёт конец...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р...
+**Малыш:** Р-р-р... Р-р-р...
 
 **Чикиа:** Хм, если уж на то пошло, то летающая малышка Паймон единственная, кто находится в полной безопасности!
 
@@ -554,7 +554,7 @@
 
 **Паймон:** Паймон всегда парит, но никогда не витает на облаках. Это не похоже на комплимент!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Чикиа:** О, ты очень сообразительная, Паймон.
 
@@ -564,25 +564,25 @@
 
 **Паймон:** Интересно, оно ценное?
 
-**Чикиа:** Очень даже... На самом деле оно, вероятно, стоит очень много моры. Но его истинная ценность заключается в способности открыть путь в верхние {RUBY#[D]Ханан Пача}миры.
+**Чикиа:** Очень даже... На самом деле оно, вероятно, стоит очень много моры. Но его истинная ценность заключается в способности открыть путь в верхние Ханан Пачамиры.
 
 **Чикиа:** Вы наверняка видели парящие в небе острова.
 
 **Паймон:** Те, что парят над озером?
 
-**Чикиа:** Да, мы называем их верхними {RUBY#[S]Ханан Пача}мирами из-за их недоступности для людей и заврианов.
+**Чикиа:** Да, мы называем их верхними Ханан Пачамирами из-за их недоступности для людей и заврианов.
 
 **Чикиа:** Говорят, что именно там можно найти легендарный «эликсир, исцеляющий любые раны»!
 
 **Чикиа:** Для людей вроде нас, которые постоянно находятся в условиях борьбы, это непорочная мирная земля. Её создал самый первый человек, который использовал флогистон.
 
-**Чикиа:** А теперь настало время для вопроса, мои ученики. Как звали того мудреца, который украл пылающее семя флогистона? {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Чикиа:** А теперь настало время для вопроса, мои ученики. Как звали того мудреца, который украл пылающее семя флогистона? Малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р! Р-р-р! Р-р-р!
+**Малыш:** Р-р-р! Р-р-р! Р-р-р!
 
 **Чикиа:** Очень старательно, но я тебя не поняла!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Твоя очередь, юноша / девушка. Каким будет твой ответ?
 
@@ -604,11 +604,11 @@
 
 **Чикиа:** И эта особая Духовная дверь - своего рода испытание. Открыв её, вы получите возможность ступить на путь, ведущий в верхние миры...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Хотя я и не понимаю, что ты имеешь в виду, но да, эликсир находится именно там. Легенда гласит, что это подарок мудреца тем, кто пройдёт испытание.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р!
+**Малыш:** Р-р! Р-р!
 
 **Паймон:** Вот оно как... А что за испытание?
 
@@ -624,7 +624,7 @@
 
 **Чикиа:** Значит, нам нужно найти два оставшихся символа открытия... Вот оно что, Путешественник, ты случайно ничего не находил(а) по дороге сюда?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Чикиа:** Ах, тебя действительно ждёт блестящее будущее. Не думала, что ты окажешься настолько прозорливым / прозорливой. Даже я, одна из Повелителей Ночного Ветра, которая каждый день работает с иктомизаврами, должна признать, впечатлена.
 
@@ -634,9 +634,9 @@
 
 **Паймон:** Паймон как раз собиралась сказать, что чем глубже мы заходим, тем жарче здесь становится, но Паймон никак не ожидала, что всё вокруг будет заполнено лавой!
 
-**Паймон:** Осторожно, {REALNAME[ID(2)|SHOWHOST(true)]}! Если оступишься, тебе придёт конец...
+**Паймон:** Осторожно, Малыш! Если оступишься, тебе придёт конец...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р...
+**Малыш:** Р-р-р... Р-р-р...
 
 **Чикиа:** Хм, если уж на то пошло, то летающая малышка Паймон единственная, кто находится в полной безопасности!
 
@@ -646,7 +646,7 @@
 
 **Паймон:** Паймон всегда парит, но никогда не витает на облаках. Это не похоже на комплимент!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Чикиа:** О, ты очень сообразительная, Паймон.
 
@@ -656,25 +656,25 @@
 
 **Паймон:** Интересно, оно ценное?
 
-**Чикиа:** Очень даже... На самом деле оно, вероятно, стоит очень много моры. Но его истинная ценность заключается в способности открыть путь в верхние {RUBY#[D]Ханан Пача}миры.
+**Чикиа:** Очень даже... На самом деле оно, вероятно, стоит очень много моры. Но его истинная ценность заключается в способности открыть путь в верхние Ханан Пачамиры.
 
 **Чикиа:** Вы наверняка видели парящие в небе острова.
 
 **Паймон:** Те, что парят над озером?
 
-**Чикиа:** Да, мы называем их верхними {RUBY#[S]Ханан Пача}мирами из-за их недоступности для людей и заврианов.
+**Чикиа:** Да, мы называем их верхними Ханан Пачамирами из-за их недоступности для людей и заврианов.
 
 **Чикиа:** Говорят, что именно там можно найти легендарный «эликсир, исцеляющий любые раны»!
 
 **Чикиа:** Для людей вроде нас, которые постоянно находятся в условиях борьбы, это непорочная мирная земля. Её создал самый первый человек, который использовал флогистон.
 
-**Чикиа:** А теперь настало время для вопроса, мои ученики. Как звали того мудреца, который украл пылающее семя флогистона? {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Чикиа:** А теперь настало время для вопроса, мои ученики. Как звали того мудреца, который украл пылающее семя флогистона? Малыш?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р! Р-р-р! Р-р-р!
+**Малыш:** Р-р-р! Р-р-р! Р-р-р!
 
 **Чикиа:** Очень старательно, но я тебя не поняла!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Твоя очередь, юноша / девушка. Каким будет твой ответ?
 
@@ -696,11 +696,11 @@
 
 **Чикиа:** И эта особая Духовная дверь - своего рода испытание. Открыв её, вы получите возможность ступить на путь, ведущий в верхние миры...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Хотя я и не понимаю, что ты имеешь в виду, но да, сокровище находится именно там. Легенда гласит, что это подарок мудреца тем, кто пройдёт испытание.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р!
+**Малыш:** Р-р! Р-р!
 
 **Паймон:** Вот оно как... А что за испытание?
 
@@ -718,7 +718,7 @@
 
 **Чикиа:** Нам нужно найти два оставшихся символа!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Чикиа:** У меня опять болит спина... Я подожду вас здесь, а вы поищите символы открытия, хорошо?
 
@@ -730,9 +730,9 @@
 
 **Чикиа:** Свитки говорят правду... Я так горжусь собой, что поверила им!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Чикиа:** Да, да, {REALNAME[ID(2)|SHOWHOST(true)]}, ты умничка, я тоже очень рада, что мы работаем вместе.
+**Чикиа:** Да, да, Малыш, ты умничка, я тоже очень рада, что мы работаем вместе.
 
 **Чикиа:** Как ты смотришь на то, чтобы перейти ко мне? Я обещаю тебе три порции злакофрукта.
 
@@ -744,15 +744,15 @@
 
 **Чикиа:** Помни, что каждая награда, которую ты не принимаешь, - это потерянная награда.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Ха-ха, думаю, это значит «нет». Ах, а ведь могло получиться. Даже немного завидую вашей дружбе.
 
-**Паймон:** Мы были рядом, когда {REALNAME[ID(2)|SHOWHOST(true)]} впервые открыл глаза... У тебя не было ни единого шанса.
+**Паймон:** Мы были рядом, когда Малыш впервые открыл глаза... У тебя не было ни единого шанса.
 
 **Чикиа:** Да, вы очень близки... Но, если однажды наступит миг расставания, прощание будет очень болезненным.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Чикиа:** Итак. Мы вот-вот достигнем верхних миров, но... Давайте немного отдохнём. Ах, как болит спина.
 
@@ -770,7 +770,7 @@
 
 - **Путешественник:** Нет, мне страшно.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Паймон:** Подождите, что за странная сделка?
 
@@ -808,9 +808,9 @@
 
 **Паймон:** Паймон не очень-то удивлена, ведь Народ Родников не так уж и далеко живёт...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Чикиа:** Хе-хе, судя по всему, {REALNAME[ID(2)|SHOWHOST(true)]} чувствует себя вполне неплохо.
+**Чикиа:** Хе-хе, судя по всему, Малыш чувствует себя вполне неплохо.
 
 **Чикиа:** Это необычный горячий источник, парящая малышка Паймон. Избранный герой после купания здесь может получить силу управлять флогистоном.
 
@@ -842,7 +842,7 @@
 
 **Паймон:** ...Чикиа, ты же жительница Натлана. Как же ты не умеешь пользоваться флогистоном?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Чикиа:** Малышка Паймон, твоя недалёкость иногда ранит в самое сердце! Да, в Натлане, где все поголовно умеют применять флогистон, есть малая часть людей, кто таким навыком не владеет.
 
@@ -864,7 +864,7 @@
 
 **Паймон:** Чикиа...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Ничего... Я уже давно смирилась. Не получилось в этот раз, будет другой. Всегда есть выход!
 
@@ -882,9 +882,9 @@
 
 **Паймон:** Возможно, не существует эликсира, исцеляющего любые раны, но Паймон желает тебе найти эликсир, который исцелит твои!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Чикиа:** Ха-ха, спасибо вам, малышка Паймон и Путешественник... И {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Чикиа:** Ха-ха, спасибо вам, малышка Паймон и Путешественник... И Малыш.
 
 **Чикиа:** Путешественник, твои слова тронули меня до глубины души, потому что на такого парня / такую девушку, как ты, можно положиться.
 
@@ -898,7 +898,7 @@
 
 **Паймон:** Так значит, здесь находятся верхние миры. Глядя снизу, Паймон думала, что наверху одна пыль и ничегошеньки нет...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Паймон и представить не могла, что всё именно так.
 
@@ -912,7 +912,7 @@
 
 **Чикиа:** И они говорят, что людям никогда не удастся создать плавучие острова с помощью флогистона, а так называемый Мудрец украденного пламени на самом деле и сам был гигантским драконом.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 - **Путешественник:** Кто-то действительно так считает?
 
@@ -926,7 +926,7 @@
 
 **Паймон:** Здесь, похоже, ничего подобного нет!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Чикиа:** Хе-хе, вы же не думали, что всё будет так просто? Ведь нас испытывает «безумный» Мудрец украденного пламени.
 
@@ -950,7 +950,7 @@
 
 **Паймон:** С виду этот механизм ничем не отличается от остальных. Чикиа, тебя не могли обмануть?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р...
+**Малыш:** Р-р...
 
 **Чикиа:** Это невозможно! Я полностью уверена в трактовке древних свитков... Или не полностью... Ладно, уверена в некоторой степени!
 
@@ -964,7 +964,7 @@
 
 **Чикиа:** ...Есть ли там сокровища или нет, есть ли там эликсир или нет, не узнаешь, пока не попробуешь.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Чикиа:** Не получится в этот раз, попробуем ещё. Не получится здесь, попробуем в другом месте. Главное - не опускать руки, и чудо случится!
 
@@ -976,9 +976,9 @@
 
 **Чикиа:** Никому не остудить мой пыл!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Чикиа:** Хи-хи, {REALNAME[ID(2)|SHOWHOST(true)]} тоже весьма воодушевлён. Давай, Путешественник, запусти механизм с помощью флогистона!
+**Чикиа:** Хи-хи, Малыш тоже весьма воодушевлён. Давай, Путешественник, запусти механизм с помощью флогистона!
 
 #### Поговорите с Чикиа
 
@@ -988,7 +988,7 @@
 
 **Паймон:** Вот только здесь ничего нет, кроме одинокого булыжника в центре... Неужели это и есть подарок Мудреца украденного пламени?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Чикиа:** ...Я уже сама мало что понимаю. На всех свитках изображены храбрецы, которые, пройдя испытание и добравшись сюда, смогли ощутить дух Мудреца украденного пламени.
 
@@ -996,15 +996,15 @@
 
 **Чикиа:** Вот только я не знаю, каким именно он должен быть. Я думала, как только окажусь здесь, станет понятно... Но, видимо, всё не так...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р?
+**Малыш:** Р-р... Р-р?
 
-Ого, {REALNAME[ID(2)|SHOWHOST(true)]}, ты видишь?
+Ого, Малыш, ты видишь?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 А ты понимаешь, что это значит?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р...
+**Малыш:** Р-р...
 
 **Чикиа:** Ты... видел(а)? Видел(а), да? Кто бы мог подумать, что именно ты удостоишься чести получить подарок?
 
@@ -1012,15 +1012,15 @@
 
 Я видел(а) золотой узор.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р!
+**Малыш:** Р-р! Р-р!
 
-**Паймон:** Золотой узор? Ты говоришь о том узоре, который был на месте вашей первой встречи с малышом {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Паймон:** Золотой узор? Ты говоришь о том узоре, который был на месте вашей первой встречи с малышом Малыш?
 
 **Паймон:** А тебе точно не показалось?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р! Р-р!
+**Малыш:** Р-р! Р-р!
 
-**Паймон:** Даже если {REALNAME[ID(2)|SHOWHOST(true)]} скажет Паймон куда смотреть, это всё равно бесполезно. Паймон ничего не видит. Но раз {REALNAME[ID(2)|SHOWHOST(true)]} так говорит...
+**Паймон:** Даже если Малыш скажет Паймон куда смотреть, это всё равно бесполезно. Паймон ничего не видит. Но раз Малыш так говорит...
 
 - **Путешественник:** И интонация знакомая...
 
@@ -1032,7 +1032,7 @@
 
 **Чикиа:** Хм, тебя ждут блестящие перспективы... Всё-таки, ты мне по душе. Итак, ты знаешь, как получить подарок?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 - **Путешественник:** Да, нужно лишь...
 
@@ -1063,7 +1063,7 @@ In the depths of some searing ruins, you meet a young woman...
 
 **Paimon:** Whoa, Traveler, what did you do to her? That wasn't some sorta invisible attack, was it?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 - **Traveler:** I didn't do anything...
 
@@ -1081,7 +1081,7 @@ In the depths of some searing ruins, you meet a young woman...
 
 **Chikya:** And what about you two? I mean your names...
 
-**Paimon:** Paimon's Paimon, and this lil' Tepetlisaurus here is {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Paimon's Paimon, and this lil' Tepetlisaurus here is Little One.
 
 **Chikya:** I see, I see. In that case, I guess I'll call myself...
 
@@ -1091,7 +1091,7 @@ In the depths of some searing ruins, you meet a young woman...
 
 **Chikya:** But forget it. That would be unfriendly competition — if you take my meaning. So have my real name instead: Chikya.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** Heh, and aren't you a cute little fella? You're calling my name, I know it. Anyway, you can call me Big Sis Chikya — not Aunt Chikya though. That one I forbid.
 
@@ -1121,7 +1121,7 @@ In the depths of some searing ruins, you meet a young woman...
 
 **Paimon:** Seriously? What are you, some serial line thief? And Paimon's gonna say it anyway — "Wow, treasure!"
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr!
+**Little One:** Rawr... Rawr!
 
 **Chikya:** Haha, you all sure do get along. Who knows, if I hadn't spent so much time tidying woven scrolls that my back gave out, I might've made some good friends myself!
 
@@ -1135,11 +1135,11 @@ In the depths of some searing ruins, you meet a young woman...
 
 **Chikya:** *sigh* I might look like this now, but I, too, was once a pretty lass who'd ride leaping Iktomisaurs on the regular!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Chikya:** Hehe, I see you're interested in that elixir, hmm, {REALNAME[ID(2)|SHOWHOST(true)]}? That curiosity will be the root of future success, you know.
+**Chikya:** Hehe, I see you're interested in that elixir, hmm, Little One? That curiosity will be the root of future success, you know.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Mmm? ... Rawr!
+**Little One:** Mmm? ... Rawr!
 
 **Paimon:** An "elixir that can cure all injuries"! That sounds amazing!
 
@@ -1149,7 +1149,7 @@ In the depths of some searing ruins, you meet a young woman...
 
 **Chikya:** Those unmoved by treasure can barely be called human! Why, even the coldest-blooded Saurians get fired up when they hear the word!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Exactly!
 
@@ -1161,7 +1161,7 @@ In the depths of some searing ruins, you meet a young woman...
 
 **Paimon:** Don't underestimate Traveler! He's / She's taken way bigger things out than that!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** Hmm, looks like roping you in was the right choice. Hehe... Ah, guess I've got a good eye, eh?
 
@@ -1181,7 +1181,7 @@ And here I thought you were going to compliment me!
 
 **Paimon:** Whoa, Traveler, what did you do to her? That wasn't some sorta invisible attack, was it?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 - **Traveler:** I didn't do anything...
 
@@ -1199,7 +1199,7 @@ And here I thought you were going to compliment me!
 
 **Chikya:** And what about you two? I mean your names...
 
-**Paimon:** Paimon's Paimon, and this lil' Tepetlisaurus here is {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Paimon's Paimon, and this lil' Tepetlisaurus here is Little One.
 
 **Chikya:** I see, I see. In that case, I guess I'll call myself...
 
@@ -1209,7 +1209,7 @@ And here I thought you were going to compliment me!
 
 **Chikya:** But forget it. That would be unfriendly competition — if you take my meaning. So have my real name instead: Chikya.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** Heh, and aren't you a cute little fella? You're calling my name, I know it. Anyway, you can call me Big Sis Chikya — not Aunt Chikya though. That one I forbid.
 
@@ -1239,7 +1239,7 @@ And here I thought you were going to compliment me!
 
 **Paimon:** Seriously? What are you, some serial line thief? And Paimon's gonna say it anyway — "Wow, treasure!"
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr!
+**Little One:** Rawr... Rawr!
 
 **Chikya:** Haha, you all sure do get along. Who knows, if I hadn't spent so much time tidying woven scrolls that my back gave out, I might've made some good friends myself!
 
@@ -1251,11 +1251,11 @@ And here I thought you were going to compliment me!
 
 **Chikya:** *sigh* I might look like this now, but I, too, was once a pretty lass who'd ride leaping Iktomisaurs on the regular!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Chikya:** Hehe, I see you're interested in that treasure, eh, {REALNAME[ID(2)|SHOWHOST(true)]}? That curiosity will be the root of future success, you know.
+**Chikya:** Hehe, I see you're interested in that treasure, eh, Little One? That curiosity will be the root of future success, you know.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Mmm? ... Rawr!
+**Little One:** Mmm? ... Rawr!
 
 **Paimon:** An "elixir that can cure all injuries"! That sounds amazing!
 
@@ -1265,7 +1265,7 @@ And here I thought you were going to compliment me!
 
 **Chikya:** Those unmoved by treasure can barely be called human! Why, even the coldest-blooded Saurians get fired up when they hear the word!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Exactly!
 
@@ -1285,9 +1285,9 @@ And here I thought you were going to compliment me!
 
 **Paimon:** Yeah, Paimon's fine!
 
-**Chikya:** And you, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Chikya:** And you, Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** Well, still not getting you there, but it seems you're uninjured too.
 
@@ -1315,7 +1315,7 @@ Some concern would have been nice all the same...
 
 - **Traveler:** It was a warning to those attempting the trial...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooo...
+**Little One:** Rrooo...
 
 **Paimon:** It's hard to imagine why anyone would draw that, but yeah, just thinking about it gives me the heebie-jeebies.
 
@@ -1339,7 +1339,7 @@ Some concern would have been nice all the same...
 
 **Paimon:** Uh...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rwargh...
+**Little One:** Rwargh...
 
 **Chikya:** Alright, alright, don't worry, you all. I'm just kidding!
 
@@ -1347,7 +1347,7 @@ Some concern would have been nice all the same...
 
 **Paimon:** But the door looks closed...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Chikya:** Well, it had better be. I mean, an open door would mean that our path to the great treasure is long gone!
 
@@ -1355,7 +1355,7 @@ Some concern would have been nice all the same...
 
 **Chikya:** ...Huh, to think that it was exactly as those woven scrolls and texts concerning them stated. What do you think? See that Phlogiston Engraving right there by the door?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** That's right. You're a quick one, little fella. Sharp-eyed, too. Researchers have said that Saurian visual acuity differs by species...
 
@@ -1383,7 +1383,7 @@ Some concern would have been nice all the same...
 
 **Paimon:** Ooh!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawrr!
+**Little One:** Rawrr!
 
 **Chikya:** Alright, your turn, Traveler!
 
@@ -1393,7 +1393,7 @@ Some concern would have been nice all the same...
 
 **Paimon:** C'mon, that's kinda bland.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roo...
+**Little One:** Roo...
 
 **Chikya:** Huh. I didn't know you were the independent sort like that, Traveler.
 
@@ -1407,7 +1407,7 @@ Some concern would have been nice all the same...
 
 **Chikya:** And, as a scholar on the subject, I should only need a day to analyze these patterns...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Paimon:** W—Wait, you're gonna take a whole day?
 
@@ -1443,17 +1443,17 @@ It reads as follows...
 
 **Chikya:** There should be an Unveiling Script somewhere around here with which we can unlock this Phlogiston Engraving. Where is it, though?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Yes, a script with which to unveil this Engraving... Wait, you understood me, little guy?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Hmm? He turned around? Is he trying to say that the Script is behind us?
 
 **Paimon:** But the door looks closed...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Chikya:** Well, it had better be. I mean, an open door would mean that our path to the treasure is long gone!
 
@@ -1461,7 +1461,7 @@ It reads as follows...
 
 **Chikya:** ...Huh, to think that it was exactly as those woven scrolls and texts concerning them stated. What do you think? See that Phlogiston Engraving right there by the door?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** That's right. You're a quick one, little fella. Sharp-eyed, too. Researchers have said that Saurian visual acuity differs by species...
 
@@ -1489,7 +1489,7 @@ It reads as follows...
 
 **Paimon:** Ooh!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** Alright, your turn, Traveler!
 
@@ -1499,7 +1499,7 @@ It reads as follows...
 
 **Paimon:** Wow, that was a bland response, Traveler.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroo...
+**Little One:** Rroo...
 
 **Chikya:** Huh. I didn't know you were the independent sort like that, Traveler.
 
@@ -1513,7 +1513,7 @@ It reads as follows...
 
 **Chikya:** And, as a scholar on the subject, I should only need a day to analyze these patterns...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooo...
+**Little One:** Rrooo...
 
 **Paimon:** W—Wait, you're gonna take a whole day?
 
@@ -1551,7 +1551,7 @@ It reads as follows...
 
 **Chikya:** Huh? So... the thing you just picked up along the way was actually an Engraving's Script? Ha-ha, what luck!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** Well then, let's integrate the Unveiling Script into the Engraving.
 
@@ -1565,9 +1565,9 @@ It reads as follows...
 
 **Paimon:** Paimon was just about to say that this place was getting hotter the deeper in we got, but she sure didn't expect this whole place to be filled with lava!
 
-**Paimon:** Careful, {REALNAME[ID(2)|SHOWHOST(true)]}! If you slip, that might just be the end of you...
+**Paimon:** Careful, Little One! If you slip, that might just be the end of you...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roo... Rawr...
+**Little One:** Roo... Rawr...
 
 **Chikya:** Huh, now that you mention it, floaty little Paimon's the safest here!
 
@@ -1577,7 +1577,7 @@ They say that those whose heads get too big wind up floating away...
 
 **Paimon:** Paimon's always floating anyway... But that didn't sound like a compliment.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 **Chikya:** You're a real bright spark, Paimon, you know that?
 
@@ -1587,25 +1587,25 @@ They say that those whose heads get too big wind up floating away...
 
 **Paimon:** Do you think this one's valuable, by any chance?
 
-**Chikya:** Very much so... In fact, it's probably worth a large sum of Mora. But its real worth lies in its ability to open the path to the Upper {RUBY#[D]Hanan Pacha}Sanctum.
+**Chikya:** Very much so... In fact, it's probably worth a large sum of Mora. But its real worth lies in its ability to open the path to the Upper Hanan PachaSanctum.
 
 **Chikya:** You've seen the islands floating in the sky, haven't you?
 
 **Paimon:** You mean the ones above the lake...
 
-**Chikya:** That's right. We call those the Upper {RUBY#[D]Hanan Pacha}Sanctum, due to their inaccessibility by either humans or Saurians.
+**Chikya:** That's right. We call those the Upper Hanan PachaSanctum, due to their inaccessibility by either humans or Saurians.
 
 **Chikya:** They say that the "legendary elixir that heals all wounds" can be found there, in fact!
 
 **Chikya:** For people like us, who are constantly in conflict. That is a pure land of peace, a utopia created by the very first human to use phlogiston.
 
-**Chikya:** And now it's time for a question, class. What was the name of that sage who, in the past, stole the flaming seed of phlogiston? {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Chikya:** And now it's time for a question, class. What was the name of that sage who, in the past, stole the flaming seed of phlogiston? Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rraaaawr! Rawrr! Rawr!
+**Little One:** Rraaaawr! Rawrr! Rawr!
 
 **Chikya:** Very enthusiastic, but I don't think I heard you right!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooowr!
+**Little One:** Rooowr!
 
 **Chikya:** Alright, now then. Your turn, lad / lass. What's your answer?
 
@@ -1627,11 +1627,11 @@ They say that those whose heads get too big wind up floating away...
 
 **Chikya:** And this special Spiritdoor is a sort of trial. Activating this door will grant you access to the Spiritway that leads to the Upper Sanctum...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** While I don't know what you're saying, yes, that's where the elixir is. Legend has it that it is a gift given by the Sage to those who pass the trial.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
 **Paimon:** H—Huh, so that's the story... What's the trial like, then?
 
@@ -1647,7 +1647,7 @@ Let me have a look.
 
 **Chikya:** So we just need to find the remaining two Scripts... Wait, didn't you two find them on our way here already?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hmm?
+**Little One:** Hmm?
 
 **Chikya:** Ah, you truly do have a bright future ahead of you. I didn't think you'd have such foresight. Even I, one hailing from the Masters of the Night-Wind, one who works with Iktomisaurs every day, must confess my shock.
 
@@ -1657,9 +1657,9 @@ Let me have a look.
 
 **Paimon:** Paimon was just about to say that this place was getting hotter the deeper in we got, but she sure didn't expect this whole place to be filled with lava!
 
-**Paimon:** Careful, {REALNAME[ID(2)|SHOWHOST(true)]}! If you slip, that might just be the end of you...
+**Paimon:** Careful, Little One! If you slip, that might just be the end of you...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roo... Rawr...
+**Little One:** Roo... Rawr...
 
 **Chikya:** Huh, now that you mention it, floaty little Paimon's the safest here!
 
@@ -1669,7 +1669,7 @@ They say that those whose heads get too big wind up floating away...
 
 **Paimon:** Paimon's always floating anyway... But that didn't sound like a compliment.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 **Chikya:** You're a real bright spark, Paimon, you know that?
 
@@ -1679,25 +1679,25 @@ They say that those whose heads get too big wind up floating away...
 
 **Paimon:** Do you think this one's valuable, by any chance?
 
-**Chikya:** Very much so... In fact, it's probably worth a large sum of Mora. But its real worth lies in its ability to open the path to the Upper {RUBY#[D]Hanan Pacha}Sanctum.
+**Chikya:** Very much so... In fact, it's probably worth a large sum of Mora. But its real worth lies in its ability to open the path to the Upper Hanan PachaSanctum.
 
 **Chikya:** You've seen the islands floating in the sky, haven't you?
 
 **Paimon:** You mean the ones above the lake...
 
-**Chikya:** That's right. We call those the Upper {RUBY#[D]Hanan Pacha}Sanctum, due to their inaccessibility by either humans or Saurians.
+**Chikya:** That's right. We call those the Upper Hanan PachaSanctum, due to their inaccessibility by either humans or Saurians.
 
 **Chikya:** They say that the "legendary elixir that heals all wounds" can be found there, in fact!
 
 **Chikya:** For people like us, who are constantly in conflict. That is a pure land of peace, a utopia created by the very first human to use phlogiston.
 
-**Chikya:** And now it's time for a question, class. What was the name of that sage who, in the past, stole the flaming seed of phlogiston? {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Chikya:** And now it's time for a question, class. What was the name of that sage who, in the past, stole the flaming seed of phlogiston? Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rraaaawr! Rawrr! Rawr!
+**Little One:** Rraaaawr! Rawrr! Rawr!
 
 **Chikya:** Very enthusiastic, but I don't think I heard you right!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooowr!
+**Little One:** Rooowr!
 
 **Chikya:** Alright, now then. Your turn, lad / lass. What's your answer?
 
@@ -1719,11 +1719,11 @@ They say that those whose heads get too big wind up floating away...
 
 **Chikya:** And this special Spiritdoor is a sort of trial. Activating this door will grant you access to the Spiritway that leads to the Upper Sanctum...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** While I don't know what you're saying, yes, that's where the treasure is. Legend has it that it is a gift given by the Sage to those who pass the trial.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
 **Paimon:** H—Huh, so that's the story... What's the trial like, then?
 
@@ -1741,7 +1741,7 @@ Let me have a look.
 
 **Chikya:** So we just need to find two more!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Hmm?
+**Little One:** Hmm?
 
 **Chikya:** Argh, my back's aching again... I'll wait for you here while you find those Unveiling Scripts, alright?
 
@@ -1753,9 +1753,9 @@ Let me have a look.
 
 **Chikya:** The woven scrolls record rightly — ah, I'm so proud of myself for believing in them!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Chikya:** Yes, yes, and you're awesome for cooperating with me, {REALNAME[ID(2)|SHOWHOST(true)]}. Heh, what an adorable little fellow you are.
+**Chikya:** Yes, yes, and you're awesome for cooperating with me, Little One. Heh, what an adorable little fellow you are.
 
 **Chikya:** How would you like to jump ship over to me, hmm? Three square meals of one Grainfruit guaranteed.
 
@@ -1767,15 +1767,15 @@ Let me have a look.
 
 **Chikya:** Well, you miss every shot you don't take, you know?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roooah... Ooroo...
+**Little One:** Roooah... Ooroo...
 
 **Chikya:** Haha, I'll take that as a no, then. Ah, to be so close — I'm getting a little envious.
 
-**Paimon:** We were around when {REALNAME[ID(2)|SHOWHOST(true)]} first opened his eyes... You didn't have a chance to start with.
+**Paimon:** We were around when Little One first opened his eyes... You didn't have a chance to start with.
 
 **Chikya:** That so, that close, huh... That might make for a very painful goodbye if that time should come, though.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 **Chikya:** Alright. We're about to reach the Upper Sanctum, but, uh... Let me take five real quick. Goodness, my back hurts.
 
@@ -1793,7 +1793,7 @@ Has it always been that way?
 
 - **Traveler:** No thanks. That's scary.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Err?
+**Little One:** Err?
 
 **Paimon:** Wait, what sort of weird trade is that...
 
@@ -1831,9 +1831,9 @@ Search for the legendary "elixir that can cure all injuries" with Chikya.
 
 **Paimon:** Paimon's not exactly surprised, given the People of the Springs aren't far off...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
-**Chikya:** Hehe, {REALNAME[ID(2)|SHOWHOST(true)]}'s looking pretty cozy there.
+**Chikya:** Hehe, Little One's looking pretty cozy there.
 
 **Chikya:** This isn't just any old hot spring, little floaty Paimon. Once a hero who has been chosen bathes in this spring, they'll be granted the power to wield phlogiston.
 
@@ -1865,7 +1865,7 @@ Search for the legendary "elixir that can cure all injuries" with Chikya.
 
 **Paimon:** ...Wait. You're clearly from Natlan... but you can't use phlogiston?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 **Chikya:** Paimon, you know, these delayed responses of yours can be quite hurtful at critical moments like this! Yes, nearly everyone in Natlan can use phlogiston, but "nearly" is not "all."
 
@@ -1887,7 +1887,7 @@ Search for the legendary "elixir that can cure all injuries" with Chikya.
 
 **Paimon:** Chikya...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Chikya:** It's alright, I came to terms with it a long time ago. If it doesn't work this time, there's always next time. I'll find a way eventually!
 
@@ -1905,9 +1905,9 @@ I'm sure you'll achieve your aspirations!
 
 **Paimon:** Even if there's no "elixir that can cure all injuries," Paimon's sure you'll find an "elixir that can cure your injuries"!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Chikya:** Haha... Thank you Paimon, Traveler... and last but not least, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Chikya:** Haha... Thank you Paimon, Traveler... and last but not least, Little One.
 
 **Chikya:** ...Your words have genuinely moved me, Traveler. Really, I'm touched by what you've said, lad / lass —because you're someone that people can count on.
 
@@ -1921,7 +1921,7 @@ I'm sure you'll achieve your aspirations!
 
 **Paimon:** So this is the Upper Sanctum, huh... From down below, you'd think it was all gray and empty up here...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Who'd have thought it would be like this...
 
@@ -1935,7 +1935,7 @@ I'm sure you'll achieve your aspirations!
 
 **Chikya:** ...They have the nerve to doubt that a mere human could create such floating islands through the power of phlogiston, thus concluding that the Sage of the Stolen Flame must have been a kind of dragon too.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 - **Traveler:** They actually believe that?
 
@@ -1949,7 +1949,7 @@ I'm sure you'll achieve your aspirations!
 
 **Paimon:** Given that's what we've come for, it doesn't look like there's much for us here!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Chikya:** Hehe, you didn't actually think this was going to be that simple, did you? We're being put to the test by the "mad" Sage of the Stolen Flame, after all.
 
@@ -1973,7 +1973,7 @@ So, how are we going to activate these mechanisms?
 
 **Paimon:** This one's no different from the others. Chikya, you sure you haven't fallen for some kind of trick?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Chikya:** Of course not! When it comes to deciphering ancient scrolls, I have great confidence... some confidence... well, a certain degree of confidence in my abilities!
 
@@ -1987,7 +1987,7 @@ So, how are we going to activate these mechanisms?
 
 **Chikya:** ...As for whether the treasure is real, and the elixir really exists... Well, you'll only know once you've given it a try.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Chikya:** If it doesn't work this time, it'll work the next; and if not here, then somewhere else. As long as you stay in the game, a miracle's bound to happen sooner or later!
 
@@ -1999,9 +1999,9 @@ So, how are we going to activate these mechanisms?
 
 **Chikya:** We'll have none of that kind of negativity here!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Chikya:** Hehe, see, {REALNAME[ID(2)|SHOWHOST(true)]}'s excited too. Come on then, Traveler, use phlogiston to activate the mechanism!
+**Chikya:** Hehe, see, Little One's excited too. Come on then, Traveler, use phlogiston to activate the mechanism!
 
 #### Talk to Chikya
 
@@ -2011,7 +2011,7 @@ So, how are we going to activate these mechanisms?
 
 **Paimon:** But apart from that even larger rock in the middle, there's nothing else here... Or could this giant rock itself be the Sage's legendary gift?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 **Chikya:** ...At this point, I'm genuinely stumped. In all the scrolls I've seen, when the heroes pass the trial and reach this place, they should sense the spirit of the Sage of the Stolen Flame.
 
@@ -2019,15 +2019,15 @@ So, how are we going to activate these mechanisms?
 
 **Chikya:** But I've no idea what that means in practice. I was under the impression that I'd be able to work that out once I got here, that I could... *sigh* Looks like that was wishful thinking...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr?
+**Little One:** Rawr... Rawr?
 
-Huh... {REALNAME[ID(2)|SHOWHOST(true)]}, are you seeing this?
+Huh... Little One, are you seeing this?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 Then... Do you know what it means?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Chikya:** You... saw something? You saw something!? Gracious me! So the one worthy of the gift was you after all, young lad / young lass?
 
@@ -2035,15 +2035,15 @@ Then... Do you know what it means?
 
 I saw a golden pattern...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
-**Paimon:** A golden pattern? You mean, the same one you saw the first time you met {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** A golden pattern? You mean, the same one you saw the first time you met Little One?
 
 **Paimon:** Wait, Paimon thought you were just seeing things back there!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]}, telling Paimon to look up's no use, she can't see it! But seeing as you've said it's there...
+**Paimon:** Little One, telling Paimon to look up's no use, she can't see it! But seeing as you've said it's there...
 
 - **Traveler:** The tone sounds familiar too...
 
@@ -2055,7 +2055,7 @@ I saw a golden pattern...
 
 **Chikya:** I said you had a bright future ahead of you, lad / lass, and what lies before you now, but a future oh so radiant? I knew you showed great promise — I wouldn't have taken a shine to you otherwise! So, have you figured out how to receive the gift?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 - **Traveler:** Yes, I just have to...
 
@@ -2086,7 +2086,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 哇，旅行者，你对她做了什么？你…你难道学会什么看不见的攻击之类的绝技了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 - **旅行者:** 我什么都没做…
 
@@ -2104,7 +2104,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 还有，旁边的小浮浮人和小嵴锋龙呢？我是说名字…
 
-**派蒙:** 我叫派蒙，嘿嘿，小嵴锋龙的名字叫作{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 我叫派蒙，嘿嘿，小嵴锋龙的名字叫作小家伙。
 
 **奇科娅:** 嗯嗯…那我，我想想，我就叫…
 
@@ -2114,7 +2114,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 但算了，果然把她的名字当作假名对我自己不太友好，我就告诉你们我的本名吧：奇科娅。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 嗯嗯，可爱的小家伙，我感受到你在叫我的名字。对了，可以称呼我奇科娅姐姐，但是不能叫奇科娅阿姨哦，这是禁语。
 
@@ -2144,7 +2144,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 你这家伙，现在连我的台词也要抢了！不管，我也一定要自己说一遍，「哇，宝藏！」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呀！
+**小家伙:** 呀…呀！
 
 **奇科娅:** 哈哈，你们感情真好啊，我要不是经常要整理织卷弄得背也坏掉的话，说不定也能有这样感情好的朋友呢！
 
@@ -2158,11 +2158,11 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 唉，别看我现在这样，我以前也是能够背着一只暝视龙跳远的美少女呢，真的！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**奇科娅:** 哦，{REALNAME[ID(2)|SHOWHOST(true)]}看上去对秘药很感兴趣嘛，小嵴锋龙，我看到了，你的好奇心就将是你以后一辈子成功的源点。
+**奇科娅:** 哦，小家伙看上去对秘药很感兴趣嘛，小嵴锋龙，我看到了，你的好奇心就将是你以后一辈子成功的源点。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？…呀！
+**小家伙:** 嗯？…呀！
 
 **派蒙:** 「治疗一切创伤的秘药」！听上去就很了不起！
 
@@ -2172,7 +2172,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 面对宝藏而不动心的人，才不是人呢！就算是最冷血的龙听到宝藏二字，身子也会热得喷出液态燃素来！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 就是就是！
 
@@ -2184,7 +2184,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 别小看旅行者啦，就连比这家伙大的更大家伙，他 / 她也解决很多了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 看来拉你入伙真是正确的决定，哼哼，这就说明…姐姐我啊，眼光独到！
 
@@ -2204,7 +2204,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 哇，旅行者，你对她做了什么？你…你难道学会什么看不见的攻击之类的绝技了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 - **旅行者:** 我什么都没做…
 
@@ -2222,7 +2222,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 还有，旁边的小浮浮人和小嵴锋龙呢？我是说名字…
 
-**派蒙:** 我叫派蒙，嘿嘿，小嵴锋龙的名字叫作{REALNAME[ID(2)|SHOWHOST(true)]}。
+**派蒙:** 我叫派蒙，嘿嘿，小嵴锋龙的名字叫作小家伙。
 
 **奇科娅:** 嗯嗯…那我，我想想，我就叫…
 
@@ -2232,7 +2232,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 但算了，果然把她的名字当作假名对我自己不太友好，我就告诉你们我的本名吧：奇科娅。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 嗯嗯，可爱的小家伙，我感受到你在叫我的名字。对了，可以称呼我奇科娅姐姐，但是不能叫奇科娅阿姨哦，这是禁语。
 
@@ -2262,7 +2262,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 你这家伙，现在连我的台词也要抢了！不管，我也一定要自己说一遍，「哇，宝藏！」
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呀！
+**小家伙:** 呀…呀！
 
 **奇科娅:** 哈哈，你们感情真好啊，我要不是经常要整理织卷弄得背也坏掉的话，说不定也能有这样感情好的朋友呢！
 
@@ -2274,11 +2274,11 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 唉，别看我现在这样，我以前也是能够背着一只暝视龙跳远的美少女呢，真的！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**奇科娅:** 哦，{REALNAME[ID(2)|SHOWHOST(true)]}看上去对宝藏很感兴趣嘛，小嵴锋龙，我看到了，你的好奇心就将是你以后一辈子成功的源点。
+**奇科娅:** 哦，小家伙看上去对宝藏很感兴趣嘛，小嵴锋龙，我看到了，你的好奇心就将是你以后一辈子成功的源点。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？…呀！
+**小家伙:** 嗯？…呀！
 
 **派蒙:** 「治疗一切创伤的秘药」！听上去就很了不起！
 
@@ -2288,7 +2288,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 面对宝藏而不动心的人，才不是人呢！就算是最冷血的龙听到宝藏二字，身子也会热得喷出液态燃素来！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 就是就是！
 
@@ -2308,9 +2308,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 没有事！
 
-**奇科娅:** {REALNAME[ID(2)|SHOWHOST(true)]}，{REALNAME[ID(2)|SHOWHOST(true)]}你还好吗？
+**奇科娅:** 小家伙，小家伙你还好吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 虽然还是听不懂，但是看来没有受伤。
 
@@ -2338,7 +2338,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 - **旅行者:** 是对于试炼的警告吧…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 虽然很难想象为什么要把这样的画面画出来，但是想了想就觉得很恐怖。
 
@@ -2362,15 +2362,15 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 呃…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯呃…
+**小家伙:** 嗯呃…
 
-**奇科娅:** 好啦好啦，派蒙，{REALNAME[ID(2)|SHOWHOST(true)]}，还有少年 / 少女你，别摆出这样的表情，我开玩笑的！
+**奇科娅:** 好啦好啦，派蒙，小家伙，还有少年 / 少女你，别摆出这样的表情，我开玩笑的！
 
 #### 与奇科娅对话
 
 **派蒙:** 不过门看上去好像关着…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
 **奇科娅:** 就得是关着的才行啊，如果是一扇敞开的大门，那就说明取得伟大宝藏的道路早就不在其中啦。
 
@@ -2378,7 +2378,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** …还真是跟那些织物和研究织物的读物上画得一模一样，怎么样，看到门旁边那个「燃素刻录」了吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀!
+**小家伙:** 呀!
 
 **奇科娅:** 嗯，小家伙反应真快，而且看上去视觉也不错呢…有研究的人曾经说过，龙的视力根据种类的不同各自有些差别…
 
@@ -2406,7 +2406,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 哦哦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀!
+**小家伙:** 呀!
 
 **奇科娅:** 好了，轮到你了，旅行者，给点反应！
 
@@ -2416,7 +2416,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 好平淡哦，旅行者。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **奇科娅:** 没想到，原来旅行者少年 / 少女是这种有点独立性格的人呢。
 
@@ -2430,7 +2430,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 而我就是研究燃素的学者，只要让我分析个一天…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 要、要整整一天吗？
 
@@ -2466,17 +2466,17 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 应该有作为解开「燃素刻录」的一枚揭录文在这里，要找到揭录文，才能打开「燃素刻录」的锁…可是在哪里呢？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对，是一个「燃素刻录」揭录文…咦，小家伙你也听得懂吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 哦，怎么转过身去了，意思是揭录文在我们身后的意思吗？
 
 **派蒙:** 不过门看上去好像关着…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
 **奇科娅:** 就得是关着的才行啊，如果是一扇敞开的大门，那就说明取得宝藏之道早就不在其中啦。
 
@@ -2484,7 +2484,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** …还真是跟那些织物和研究织物的读物上画得一模一样，怎么样，看到门旁边那个「燃素刻录」了吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀!
+**小家伙:** 呀!
 
 **奇科娅:** 嗯，小家伙反应真快，而且看上去视觉也不错呢…有研究的人曾经说过，龙的视力根据种类的不同各自有些差别…
 
@@ -2512,7 +2512,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 哦哦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀!
+**小家伙:** 呀!
 
 **奇科娅:** 好了，轮到你了，旅行者，给点反应！
 
@@ -2522,7 +2522,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 好平淡哦，旅行者
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **奇科娅:** 没想到，原来旅行者少年 / 少女是这种有点独立性格的人呢。
 
@@ -2536,7 +2536,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 而我就是研究燃素的学者，只要让我分析个一天…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 要、要整整一天吗？
 
@@ -2574,7 +2574,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 咦，这么说来，刚才少年 / 少女在路上取到的那个，原来其实就是「燃素刻录」的揭录文，哼哼，运气很不错哦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 那就直接将揭录文融入「燃素刻录」之中吧。
 
@@ -2588,9 +2588,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 刚才就想说，越到里面感觉就越热，没想到里面完全就是岩浆池！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}，在这里可得小心啦，万一脚一滑，说不定就要从这个世界上消失了…
+**派蒙:** 小家伙，在这里可得小心啦，万一脚一滑，说不定就要从这个世界上消失了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…呜呀…
+**小家伙:** 呜…呜呀…
 
 **奇科娅:** 这么说来，唯一不用害怕的居然是浮浮人派蒙！
 
@@ -2600,7 +2600,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 我一直都飘着啦…咦，感觉你没在说什么好话。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **奇科娅:** 哦，派蒙还挺敏锐的嘛。
 
@@ -2610,25 +2610,25 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 难道说这个很值钱？
 
-**奇科娅:** 这个很有价值…如果要说要卖钱的话，或许也值个一大笔摩拉吧，不过它的价值就在于，它能够打开通往「浮土{RUBY#[D]哈南帕查}静界」的通道。
+**奇科娅:** 这个很有价值…如果要说要卖钱的话，或许也值个一大笔摩拉吧，不过它的价值就在于，它能够打开通往「浮土哈南帕查静界」的通道。
 
 **奇科娅:** 你们应该看到过天上飘着的岛了吧。
 
 **派蒙:** 就是在湖面上空飘着的…
 
-**奇科娅:** 就是那些岛，它们被称为「浮土{RUBY#[D]哈南帕查}静界」。因为不管是龙也好，人也好，都很难打扰到那里，因为很高嘛…
+**奇科娅:** 就是那些岛，它们被称为「浮土哈南帕查静界」。因为不管是龙也好，人也好，都很难打扰到那里，因为很高嘛…
 
 **奇科娅:** 传说中那个「治疗一切创伤的秘药」其实就藏在那里！
 
 **奇科娅:** 对于时刻都在处于纷争中的纳塔人来说，那里就像唯一的净土一样，当然了这个净土的创造者，就是第一个会用燃素的人类。
 
-**奇科娅:** 那么在这里，奇科娅小课堂就要进行提问了，请问这个之前出现过的，盗取燃素火种的贤者的名字是…{REALNAME[ID(2)|SHOWHOST(true)]}？
+**奇科娅:** 那么在这里，奇科娅小课堂就要进行提问了，请问这个之前出现过的，盗取燃素火种的贤者的名字是…小家伙？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀呀呀！呀呀！呀！
+**小家伙:** 呀呀呀！呀呀！呀！
 
 **奇科娅:** 气势很不错，但是回答听不懂啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜！
+**小家伙:** 呜！
 
 **奇科娅:** 那么，答题机会流转到了少年 / 少女这边，那么少年 / 少女会做出怎么样的回答呢？
 
@@ -2650,11 +2650,11 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 而这个特殊的「灵道刻印门」，就是一重试炼，只要激活「灵道刻印门」，就能打开前往「浮土静界」的「游隙灵道」…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 虽然听不懂但是我知道你想说什么，对，秘药就在那里，传说中，那是「盗火贤者」给予通过试炼的人的馈赠。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
 **派蒙:** 原、原来是这样…那这个试炼是什么样的呢？
 
@@ -2670,7 +2670,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 所以只要找到剩下的两个揭录文就够了…原来如此，那岂不是旅行者刚才在路上已经全部找到了？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **奇科娅:** 真是前途无量啊，少年 / 少女的行动竟然如此有预见性，让来自「烟谜主」、天天和暝视龙打交道的我都有些惊讶了。
 
@@ -2680,9 +2680,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 刚才就想说，越到里面感觉就越热，没想到里面完全就是岩浆池！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}，在这里可得小心啦，万一脚一滑，说不定就要从这个世界上消失了…
+**派蒙:** 小家伙，在这里可得小心啦，万一脚一滑，说不定就要从这个世界上消失了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…呜呀…
+**小家伙:** 呜…呜呀…
 
 **奇科娅:** 这么说来，唯一不用害怕的居然是浮浮人派蒙！
 
@@ -2692,7 +2692,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 我一直都飘着啦…咦，感觉你没在说什么好话。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **奇科娅:** 哦，派蒙还挺敏锐的嘛。
 
@@ -2702,25 +2702,25 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 难道说这个很值钱？
 
-**奇科娅:** 这个很有价值…如果要说要卖钱的话，或许也值个一大笔摩拉吧，不过它的价值就在于，它能够打开通往「浮土{RUBY#[D]哈南帕查}静界」的通道。
+**奇科娅:** 这个很有价值…如果要说要卖钱的话，或许也值个一大笔摩拉吧，不过它的价值就在于，它能够打开通往「浮土哈南帕查静界」的通道。
 
 **奇科娅:** 你们应该看到过天上飘着的岛了吧。
 
 **派蒙:** 就是在湖面上空飘着的…
 
-**奇科娅:** 就是那些岛，它们被称为「浮土{RUBY#[D]哈南帕查}静界」。因为不管是龙也好，人也好，都很难打扰到那里，因为很高嘛…
+**奇科娅:** 就是那些岛，它们被称为「浮土哈南帕查静界」。因为不管是龙也好，人也好，都很难打扰到那里，因为很高嘛…
 
 **奇科娅:** 传说中那个「治疗一切创伤的秘药」其实就藏在那里！
 
 **奇科娅:** 对于时刻都在处于纷争中的纳塔人来说，那里就像唯一的净土一样，当然了这个净土的创造者，就是第一个会用燃素的人类。
 
-**奇科娅:** 那么在这里，奇科娅小课堂就要进行提问了，请问这个之前出现过的，盗取燃素火种的贤者的名字是…{REALNAME[ID(2)|SHOWHOST(true)]}？
+**奇科娅:** 那么在这里，奇科娅小课堂就要进行提问了，请问这个之前出现过的，盗取燃素火种的贤者的名字是…小家伙？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀呀呀！呀呀！呀！
+**小家伙:** 呀呀呀！呀呀！呀！
 
 **奇科娅:** 气势很不错，但是回答听不懂啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜！
+**小家伙:** 呜！
 
 **奇科娅:** 那么，答题机会流转到了少年 / 少女这边，那么少年 / 少女会做出怎么样的回答呢？
 
@@ -2742,11 +2742,11 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 而这个特殊的「灵道刻印门」，就是一重试炼，只要激活「灵道刻印门」，就能打开前往「浮土静界」的「游隙灵道」…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 虽然听不懂但是我知道你想说什么，对，宝藏就在那里，传说中，那是「盗火贤者」给予通过试炼的人的馈赠。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
 **派蒙:** 原、原来是这样…那这个试炼是什么样的呢？
 
@@ -2764,7 +2764,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 所以还得找到剩下两个揭录文！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **奇科娅:** 唔，背现在又开始隐隐作痛了…我就在这里等你们吧，寻找揭录文的工作就交给你们了！
 
@@ -2776,9 +2776,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 织物古卷上画的果然没有错，而且，相信了那卷织物古卷的我也很了不起。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**奇科娅:** 嗯嗯，愿意跟我合作的{REALNAME[ID(2)|SHOWHOST(true)]}也很了不起哦。哼，真是个讨人喜欢的家伙。
+**奇科娅:** 嗯嗯，愿意跟我合作的小家伙也很了不起哦。哼，真是个讨人喜欢的家伙。
 
 **奇科娅:** 要不要从旅行者少年 / 少女身边跳槽到我这呢，我保证每天三餐都会喂你颗粒果吃。
 
@@ -2790,15 +2790,15 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 这就是所谓的见猎心喜，反正问一问又不要摩拉。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜…
+**小家伙:** 呜呜…
 
 **奇科娅:** 哎呀，不想吗，和旅行者少年 / 少女的感情真是好啊，真了不起，羡慕了，嗯，甚至有点嫉妒。
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}睁开眼的时候，我们就在旁边啦，它肯定不会跟你走的。
+**派蒙:** 小家伙睁开眼的时候，我们就在旁边啦，它肯定不会跟你走的。
 
 **奇科娅:** 是嘛，原来是这么亲密的关系啊…如果有一日道别如期而至，说不定会很痛苦哦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **奇科娅:** 好了，虽然马上可以上到「浮土静界」，但是请让我休息一会儿，背很痛，谢谢。
 
@@ -2816,7 +2816,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 - **旅行者:** 我不要，很可怕。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **派蒙:** 等等，你们在做什么奇怪的躯体交易…
 
@@ -2854,9 +2854,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 不愧是在流泉之众周围，到头来还是和温泉有关呢…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…
+**小家伙:** 呀…
 
-**奇科娅:** 哼哼，{REALNAME[ID(2)|SHOWHOST(true)]}倒是看上去很舒服的样子嘛。
+**奇科娅:** 哼哼，小家伙倒是看上去很舒服的样子嘛。
 
 **奇科娅:** 这可不是普通的温泉呢，小浮浮人派蒙，如果是被选中的勇士，在泡完温泉以后，就能得到「使用燃素」的力量。
 
@@ -2888,7 +2888,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** …咦，奇科娅明明是纳塔人，却没有办法使用燃素吗。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **奇科娅:** 小派蒙的这份迟钝在关键时刻还挺伤人的嘛！是啦，在人人都会使用燃素的纳塔，也存在少部分无法使用燃素的人。
 
@@ -2910,7 +2910,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 奇科娅…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **奇科娅:** 没关系的，我早就看开了。这次不行，还有下次，总能找到办法的！
 
@@ -2928,9 +2928,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 「治疗一切创伤的秘药」也许没有，治疗「你的创伤的秘药」，一定能找得到！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**奇科娅:** 哈哈，谢谢小派蒙，旅行者…还有{REALNAME[ID(2)|SHOWHOST(true)]}。
+**奇科娅:** 哈哈，谢谢小派蒙，旅行者…还有小家伙。
 
 **奇科娅:** …嗯，旅行者少年 / 少女说了很让人动心的话，这次姐姐我呀，是真的有点动心哦，因为少年 / 少女很可靠嘛。
 
@@ -2944,7 +2944,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 原来这里就是「浮土静界」，从下面往上看的时候，还以为上面会是灰扑扑的，什么都没有…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 没想到是这个样子的。
 
@@ -2958,7 +2958,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 就说人类使用燃素绝对达不到能够造出浮岛的程度，所谓的「盗火贤者」其实也是巨龙之类的。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 - **旅行者:** 还有这种观点？
 
@@ -2972,7 +2972,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 从这个意义上来说，这里看上去什么都没有！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **奇科娅:** 嘿嘿，这可是那个被称为疯子的「盗火贤者」的试炼，怎么会这么简单。
 
@@ -2996,7 +2996,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 看上去和其他的机关也没什么区别嘛，奇科娅，你不会是被骗了吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **奇科娅:** 怎么会呢，对于古卷织物的解读啊，姐姐我可是很有信心…一些信心…呃，可是很有一点点信心的！
 
@@ -3010,7 +3010,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** …到底有宝藏还是没有宝藏，有秘药还是没有秘药，其实，试试看不就知道了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **奇科娅:** 这次不行还有下次，这里不行还有其他的地方，只要试下去就会出现奇迹！
 
@@ -3022,9 +3022,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 不许在这里泼冷水啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**奇科娅:** 嘿嘿，{REALNAME[ID(2)|SHOWHOST(true)]}也很兴奋嘛，来，旅行者，用燃素启动机关吧！
+**奇科娅:** 嘿嘿，小家伙也很兴奋嘛，来，旅行者，用燃素启动机关吧！
 
 #### 与奇科娅对话
 
@@ -3034,7 +3034,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **派蒙:** 不过，这里除了中间有个更大的石头以外，就没有其他的东西了…难道这个大石头就是「盗火贤者」的馈赠了吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **奇科娅:** …到这里，就，姐姐我也不知道啦。因为所有的织卷里都画着，勇士们经过试炼达到这里，就能够感受到「盗火贤者」的精神。
 
@@ -3042,15 +3042,15 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 但是具体是什么形式，我也不知道。本来我以为到了这里以后我就能知道，就能够…可是现在看来并不行呢…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯…呀？
+**小家伙:** 嗯…呀？
 
-咦，{REALNAME[ID(2)|SHOWHOST(true)]}你能看到吗？
+咦，小家伙你能看到吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 那，你能看懂吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **奇科娅:** 你…看到了？你有看到什么吗？没有想到，原来有资格得到馈赠的人是旅行者少年 / 少女吗？
 
@@ -3058,15 +3058,15 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 我看到了金色的花纹…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
-**派蒙:** 金色的花纹？你是说，在初次遇见{REALNAME[ID(2)|SHOWHOST(true)]}的地方看到过的那个吗？
+**派蒙:** 金色的花纹？你是说，在初次遇见小家伙的地方看到过的那个吗？
 
 **派蒙:** 欸，那个不是你的幻觉吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
-**派蒙:** 就算{REALNAME[ID(2)|SHOWHOST(true)]}你示意我抬头也没用啦，我看不到，可是既然{REALNAME[ID(2)|SHOWHOST(true)]}这样说了…
+**派蒙:** 就算小家伙你示意我抬头也没用啦，我看不到，可是既然小家伙这样说了…
 
 - **旅行者:** 语气也很熟悉…
 
@@ -3078,7 +3078,7 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 那前途无量的少年 / 少女，哼，果然前途无量，毕竟能够被我看中嘛，那么少年 / 少女有找到馈赠的方法吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 - **旅行者:** 嗯，只要…
 

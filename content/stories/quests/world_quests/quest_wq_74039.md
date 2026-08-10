@@ -3,19 +3,19 @@
 # title_ru: «Это вам не тыквенная похлёбка...»
 # title_en: "Hey, This Isn't Pumpkin Soup..."
 # title_zh: 「这可不是南瓜汤…」
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74039
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74039
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_74038
 # related_quests: quest_wq_74038
 # quest_chain: quest_wq_74039,quest_wq_74038
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

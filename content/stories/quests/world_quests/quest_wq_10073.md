@@ -13,8 +13,8 @@
 # part_source_ids: 73001,73002,73003
 # previous_quests: quest_wq_73024
 # next_quests: quest_wq_10076
-# related_quests: quest_wq_73024,quest_wq_10076,quest_wq_10079,quest_wq_10082,quest_wq_73248
-# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082,quest_wq_73248
+# related_quests: quest_wq_73024,quest_wq_10076,quest_wq_10079,quest_wq_10082
+# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 
@@ -4744,6 +4744,12 @@ There's no time. This is the location, head there as soon as you can.
 
 **拉娜:** 不过，因为灾难，很多记载都消失了，所以究竟如何也不知道。我也好想见到真正的老虎喔！
 
+#### 前往「露营地」
+
+**拉娜:** (test)准备好了吗？
+
+**拉娜:** (test)那我们出发吧
+
 #### 场景
 
 **拉娜:** 死域很危险的。如果承受不住，就一定要离开死域休息喔。
@@ -4782,6 +4788,10 @@ There's no time. This is the location, head there as soon as you can.
 
 **派蒙:** 是这样吗？嗯…好吧，我明白了。出发，旅行者！
 
+#### 收集柴禾
+
+**拉娜:** 有旅行者在，真是太好了。不过，不要勉强喔。
+
 #### 场景
 
 **拉娜:** 呼…帮忙找人…咖喱…
@@ -4803,6 +4813,10 @@ There's no time. This is the location, head there as soon as you can.
 交给我吧。
 
 **拉娜:** 嗯！虽然之前也看你干净利落地清除了死域，但是，死域还是很危险。如果承受不住，就一定要离开死域休息。
+
+#### 场景
+
+(test) 天亮了
 
 #### 与拉娜对话
 

@@ -3,19 +3,19 @@
 # title_ru: Повторное приглашение на чай: Тарталья
 # title_en: Tea Party Re-Invitation: Tartaglia
 # title_zh: 茶会的再邀·达达利亚
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76221
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76221
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76221
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

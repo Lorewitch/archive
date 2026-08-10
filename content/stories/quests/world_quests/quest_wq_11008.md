@@ -3,19 +3,19 @@
 # title_ru: Чайник - полная чаша. Часть I
 # title_en: A Teapot to Call Home: Part I
 # title_zh: 翠石砌玉壶·其一
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 11008
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 11008
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_71654
 # related_quests: quest_wq_71654
 # quest_chain: quest_wq_11008,quest_wq_71654
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1772,7 +1772,7 @@ Thanks, Granny.
 
 **萍姥姥:** 我来介绍一下，这孩子叫做烟绯，就是我拜托去办事的那位小朋友。
 
-**萍姥姥:** 烟绯，这位旅行者和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的这位旅伴，你应该知道{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们吧。
+**萍姥姥:** 烟绯，这位旅行者和空/荧的这位旅伴，你应该知道空/荧们吧。
 
 **烟绯:** 知道，知道，我当然知道了。你们在千岩军的卷宗里可是记载得很清楚呢。
 
@@ -1818,7 +1818,7 @@ Thanks, Granny.
 
 **萍姥姥:** 这样吗？可是没了翠珏岩可就有点麻烦了…
 
-**萍姥姥:** 烟绯，能再想想办法吗？{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们帮了璃月港这么大的忙，实在是应该有些报酬才是。
+**萍姥姥:** 烟绯，能再想想办法吗？空/荧们帮了璃月港这么大的忙，实在是应该有些报酬才是。
 
 **烟绯:** 我知道啦，姥姥你都给我念叨多少次了。虽然没办法从层岩巨渊里找到翠珏岩，但是，也许能想想其他的办法…
 

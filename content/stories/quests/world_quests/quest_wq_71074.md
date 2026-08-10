@@ -3,19 +3,19 @@
 # title_ru: Речи ищущего камни
 # title_en: Says He Who Seeks Stone
 # title_zh: 藏石者言
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71074
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71074
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71074
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -3,16 +3,16 @@
 # title_ru: Кулинарная мечта
 # title_en: An Unwavering Culinary Dream
 # title_zh: 愿为一炊之梦
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 10069
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73013,73019,73020,73021,73022
 # previous_quests: quest_wq_73246
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_73246
 # quest_chain: quest_wq_73246,quest_wq_10069
 # quest_series: An Unwavering Culinary Dream
@@ -3123,9 +3123,9 @@ Indeed he is.
 
 **兰帕卡提:** 那菈旅行者也明白我的心情？
 
-**派蒙:** 嗯，旅行者也有失散的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+**派蒙:** 嗯，旅行者也有失散的荧/空…
 
-**兰帕卡提:** 噢。那菈旅行者的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}也去「烹饪修行」了吗？
+**兰帕卡提:** 噢。那菈旅行者的荧/空也去「烹饪修行」了吗？
 
 **派蒙:** 欸？感觉有些地方搞错了…失踪就是，「不知道到哪去了」的意思！
 
@@ -3271,7 +3271,7 @@ Indeed he is.
 
 「那菈法留纳」到底是谁？
 
-**兰帕卡提:** {MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是我们的朋友。是桓那兰那的朋友。
+**兰帕卡提:** 荧/空是我们的朋友。是桓那兰那的朋友。
 
 **兰帕卡提:** 在好久好久好久以前，兰那罗的朋友。和那菈旅行者很像，是个金灿灿的那菈。
 
@@ -3293,9 +3293,9 @@ Indeed he is.
 
 **派蒙:** 欸？那「哥哥」和「妹妹」又是怎么回事…
 
-**兰帕卡提:** 这个啊。以前，我们有一个那菈朋友。那菈法留纳。{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}说，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}有一个「{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}」。
+**兰帕卡提:** 这个啊。以前，我们有一个那菈朋友。那菈法留纳。荧/空说，荧/空有一个「空/荧」。
 
-**兰帕卡提:** 兰帕卡提和哥哥们听{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}说到那个「{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}」的时候，看起来都很幸福，又很难过。
+**兰帕卡提:** 兰帕卡提和哥哥们听荧/空说到那个「空/荧」的时候，看起来都很幸福，又很难过。
 
 **兰帕卡提:** 所以，我们知道了。对「哥哥」来说，「妹妹」是很重要的那菈。对「妹妹」来说，「哥哥」是很重要的那菈。
 
@@ -3830,11 +3830,11 @@ Indeed he is.
 
 **兰茶荼:** 欸？
 
-**兰茶荼:** 怎么会这样呢，之前同样做给那菈吃的时候，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}明明说好吃。
+**兰茶荼:** 怎么会这样呢，之前同样做给那菈吃的时候，荧/空明明说好吃。
 
 **派蒙:** 之前？
 
-**兰茶荼:** 以前，我也做过蘑菇菜肴给那菈吃。而且因为好吃，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}咽下去的时候还特别用力。
+**兰茶荼:** 以前，我也做过蘑菇菜肴给那菈吃。而且因为好吃，荧/空咽下去的时候还特别用力。
 
 **兰茶荼:** 应该没有问题才对。
 
@@ -4158,7 +4158,7 @@ Indeed he is.
 
 **兰阿帕斯:** 「我们那菈呀，到了孩子们要回家的时候，家里都会传来汤的香味。所以，汤只需要有香味。」
 
-**兰阿帕斯:** 然后，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}夸我兰阿帕斯的汤做得很好，很香。我一直记得。所以，我才不信你说的！
+**兰阿帕斯:** 然后，荧/空夸我兰阿帕斯的汤做得很好，很香。我一直记得。所以，我才不信你说的！
 
 **派蒙:** 但只有香味也不行吧…
 
@@ -4373,9 +4373,9 @@ Indeed he is.
 
 **兰非拉:** 不过，我知道。那菈是要睡觉的。以前，我也有一个那菈朋友。和你一样，金灿灿的。
 
-**兰非拉:** 以前，我和{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}也到过这里，为了摘到「鲜嫩无朋之果」。
+**兰非拉:** 以前，我和荧/空也到过这里，为了摘到「鲜嫩无朋之果」。
 
-**兰非拉:** 所以，我一直来这里采果实。如果{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}回来了，或者是，遇到了新的那菈朋友，就可以一起吃果实。
+**兰非拉:** 所以，我一直来这里采果实。如果荧/空回来了，或者是，遇到了新的那菈朋友，就可以一起吃果实。
 
 **兰非拉:** 这次，我也摘到了好多「鲜嫩无朋之果」…咦，怎么就剩这么点了？
 
@@ -4503,9 +4503,9 @@ Indeed he is.
 
 **兰非拉:** 不过，我知道。那菈是要睡觉的。以前，我也有一个那菈朋友。和你一样，金灿灿的。
 
-**兰非拉:** 以前，我和{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}也到过这里，为了摘到「鲜嫩无朋之果」。
+**兰非拉:** 以前，我和荧/空也到过这里，为了摘到「鲜嫩无朋之果」。
 
-**兰非拉:** 所以，我一直来这里采果实。如果{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}回来了，或者是，遇到了新的那菈朋友，就可以一起吃果实。
+**兰非拉:** 所以，我一直来这里采果实。如果荧/空回来了，或者是，遇到了新的那菈朋友，就可以一起吃果实。
 
 **兰非拉:** 这次，我也摘到了好多「鲜嫩无朋之果」…咦，怎么就剩这么点了？
 

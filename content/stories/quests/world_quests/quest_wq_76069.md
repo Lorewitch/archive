@@ -3,19 +3,19 @@
 # title_ru: Безымянный окровавленный памятник
 # title_en: Nameless Bloodstained Monument
 # title_zh: 无铭染血之碑
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 76069
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76069
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76069
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

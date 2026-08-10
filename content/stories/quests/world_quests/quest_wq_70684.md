@@ -3,19 +3,19 @@
 # title_ru: Ветрам свободы
 # title_en: To the Winds of Freedom
 # title_zh: 致自由之风
-# region: Мондштадт
+# region: Тейват
 # game_version: 5.3
 # release_versions: 5.3
 # source_id: 70684
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70684
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70684
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

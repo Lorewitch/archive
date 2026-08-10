@@ -3,19 +3,19 @@
 # title_ru: Наследие Оробаси
 # title_en: Orobashi's Legacy
 # title_zh: 远吕羽氏遗事
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10037
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72129,72130,72131,72132,72133,72134
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10037
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

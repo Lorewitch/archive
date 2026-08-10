@@ -3,19 +3,19 @@
 # title_ru: Его величество жир!
 # title_en: Sing, Ho, For the Greatness of Fat!
 # title_zh: 哦！伟大的脂肪！
-# region: Натлан
+# region: Тейват
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75165
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75165
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75165
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

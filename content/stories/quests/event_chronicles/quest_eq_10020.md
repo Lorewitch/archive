@@ -12,9 +12,9 @@
 # chapter_num_zh: 海灯节 其三
 # part_source_ids: 41313
 # previous_quests: quest_eq_10019
-# next_quests: 
-# related_quests: quest_eq_10018,quest_eq_10019,quest_eq_40000
-# quest_chain: quest_eq_10018,quest_eq_10019,quest_eq_10020,quest_eq_40000
+# next_quests:
+# related_quests: quest_eq_10018,quest_eq_10019
+# quest_chain: quest_eq_10018,quest_eq_10019,quest_eq_10020
 # quest_series: Lantern Rite
 # version_source: wiki_release_category
 

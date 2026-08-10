@@ -11,10 +11,10 @@
 # chapter_num_en: Fleeting Colors in Flight: Part I
 # chapter_num_zh: 飞彩镌流年 其一
 # part_source_ids: 40035
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10053
-# related_quests: quest_eq_10053,quest_eq_10054,quest_eq_10056,quest_eq_10057
-# quest_chain: quest_eq_10052,quest_eq_10053,quest_eq_10054,quest_eq_10056,quest_eq_10057
+# related_quests: quest_eq_10053,quest_eq_10054
+# quest_chain: quest_eq_10052,quest_eq_10053,quest_eq_10054
 # quest_series: Fleeting Colors in Flight
 # version_source: wiki_release_category
 

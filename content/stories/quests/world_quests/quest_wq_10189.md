@@ -3,18 +3,18 @@
 # title_ru: Уроки ведьм: Вопрос без заголовка
 # title_en: Witch's Homework: The Untitled Question
 # title_zh: 魔女的课业·无题之题
-# region: Мондштадт
+# region: Тейват
 # game_version: 6.4
 # release_versions: 6.4
 # source_id: 10189
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70074
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_wq_2076,quest_wq_2077,quest_wq_2078,quest_wq_2079,quest_wq_2080,quest_wq_2081,quest_wq_2082,quest_wq_2083,quest_wq_10134,quest_wq_70066,quest_wq_70070,quest_wq_10239,quest_wq_10252,quest_wq_10253
-# quest_chain: quest_wq_2076,quest_wq_2077,quest_wq_2078,quest_wq_2079,quest_wq_2080,quest_wq_2081,quest_wq_2082,quest_wq_2083,quest_wq_10134,quest_wq_70066,quest_wq_70070,quest_wq_10189,quest_wq_10239,quest_wq_10252,quest_wq_10253
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_10189
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
 
@@ -218,7 +218,7 @@
 
 (А-а, так вот откуда у Варки шрам...)
 
-**Варка:** И вот я там, в тёмном-тёмном подзе{RUBY#[D]таверна}мелье, сражаюсь с самыми свирепыми и жестокими чудов{RUBY#[D]Принц}ищами, которых только видел...
+**Варка:** И вот я там, в тёмном-тёмном подзетавернамелье, сражаюсь с самыми свирепыми и жестокими чудовПринцищами, которых только видел...
 
 **Диона:** ...Я смотрела на почти готовый напиток, в одном шаге от завершения...
 
@@ -533,7 +533,7 @@ No doubt about that.
 
 (Ahh, so that's how Varka got his scar...)
 
-**Varka:** There I was, venturing into a deep, dark Dom{RUBY#[D]tavern}ain, battling some of the fiercest, most vicious mons{RUBY#[D]Prince}ters I've ever seen...
+**Varka:** There I was, venturing into a deep, dark Domtavernain, battling some of the fiercest, most vicious monsPrinceters I've ever seen...
 
 **Diona:** Anyway, it was right there in front of me, one small step away from completion...
 
@@ -848,7 +848,7 @@ You're way too easy to bribe...
 
 （法尔伽说的那道疤…该不会就是…）
 
-**法尔伽:** 我为它深入了一片混沌的秘{RUBY#[D]酒馆}境，跟最凶最狠的魔{RUBY#[D]小王子}物搏斗…！
+**法尔伽:** 我为它深入了一片混沌的秘酒馆境，跟最凶最狠的魔小王子物搏斗…！
 
 **迪奥娜:** …我看着差不多调完的饮料，想着就只差那么一点了，是不是…
 

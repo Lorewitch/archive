@@ -3,13 +3,13 @@
 # title_ru: Луна возвращается домой
 # title_en: The Homebound Moon
 # title_zh: 归家的月亮
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76118
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76118
 # previous_quests: quest_wq_76122
 # next_quests: quest_wq_76120
@@ -84,7 +84,7 @@
 
 **Лаума:** Совершенно верно.
 
-**Лаума:** Она больше не Куу{RUBY#[S]Дева Луны}тар - та, что была лишена крыльев и могла лишь одиноко смотреть на луну в небе.
+**Лаума:** Она больше не КууДева Лунытар - та, что была лишена крыльев и могла лишь одиноко смотреть на луну в небе.
 
 **Лаума:** Мы стали свидетелями того, как она расправляет крылья и обретает свободу.
 
@@ -298,7 +298,7 @@ Want us to go ask around?
 
 **Lauma:** Precisely so.
 
-**Lauma:** No longer is she the wingless Kuu{RUBY#[S]Moon Maiden}tar who could only gaze at the moon beyond the skies in solitude.
+**Lauma:** No longer is she the wingless KuuMoon Maidentar who could only gaze at the moon beyond the skies in solitude.
 
 **Lauma:** We witnessed her unfurling her wings, and know she has regained the freedom to live.
 
@@ -512,7 +512,7 @@ Well, what do you know? The moon's up.
 
 **菈乌玛:** 正是。
 
-**菈乌玛:** 她不再是没有翅膀，只能孤独望着天外之月的「库塔{RUBY#[S]月之少女}尔」了。
+**菈乌玛:** 她不再是没有翅膀，只能孤独望着天外之月的「库塔月之少女尔」了。
 
 **菈乌玛:** 我们见证了她舒展双翼的模样，知晓了她重获生命的自由。
 

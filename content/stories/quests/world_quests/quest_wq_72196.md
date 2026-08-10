@@ -3,19 +3,19 @@
 # title_ru: Судьба бойца
 # title_en: Fate of a Fighter
 # title_zh: 武者的宿命
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72196
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72196
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72196
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

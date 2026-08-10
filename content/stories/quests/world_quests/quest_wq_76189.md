@@ -3,19 +3,19 @@
 # title_ru: Исследование животных: Барсук-стиляга
 # title_en: Animal Research: Chic Badgers
 # title_zh: 动物调查·帔髦獾
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76189
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76189
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76189
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

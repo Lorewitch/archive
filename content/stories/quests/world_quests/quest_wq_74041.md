@@ -3,19 +3,19 @@
 # title_ru: В поисках прошлого
 # title_en: In Search of Lost Time
 # title_zh: 往事追迹
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74041
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74041
 # previous_quests: quest_wq_74012,quest_wq_74014,quest_wq_74054
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74012,quest_wq_74014,quest_wq_74054
 # quest_chain: quest_wq_74012,quest_wq_74014,quest_wq_74054,quest_wq_74041
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

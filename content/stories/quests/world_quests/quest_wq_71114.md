@@ -3,19 +3,19 @@
 # title_ru: Привыкание к местности
 # title_en: Temporary Acclimatization
 # title_zh: 水土暂服
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71114
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71114
 # previous_quests: quest_wq_74114
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74051,quest_wq_74114
 # quest_chain: quest_wq_74051,quest_wq_74114,quest_wq_71114
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

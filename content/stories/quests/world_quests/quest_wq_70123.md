@@ -3,19 +3,19 @@
 # title_ru: Заблудший в снегах
 # title_en: Lost in the Snow
 # title_zh: 雪山迷踪
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70123
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70123
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_70802
 # related_quests: quest_wq_70802,quest_wq_70803
 # quest_chain: quest_wq_70123,quest_wq_70802,quest_wq_70803
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

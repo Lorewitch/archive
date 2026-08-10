@@ -3,19 +3,19 @@
 # title_ru: Микологическое исследование Разлома
 # title_en: Mycological Investigation in The Chasm
 # title_zh: 层岩菌类调查
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71050
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71050
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71050
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

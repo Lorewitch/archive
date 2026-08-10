@@ -3,19 +3,19 @@
 # title_ru: Наставление Пурбируни
 # title_en: Purbiruni's Commandment
 # title_zh: 普尔比鲁尼之诫
-# region: Сумеру
+# region: Тейват
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73348
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73348
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73348
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

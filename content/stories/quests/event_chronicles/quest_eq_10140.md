@@ -13,8 +13,8 @@
 # part_source_ids: 40101,40102
 # previous_quests: quest_eq_10139
 # next_quests: quest_eq_10141
-# related_quests: quest_eq_10139,quest_eq_10141,quest_wq_73520,quest_wq_73521,quest_wq_73522,quest_wq_73524,quest_wq_73690,quest_wq_73691,quest_wq_73692,quest_wq_73693,quest_wq_73694,quest_wq_73695,quest_wq_73696
-# quest_chain: quest_eq_10139,quest_eq_10140,quest_eq_10141,quest_wq_73520,quest_wq_73521,quest_wq_73522,quest_wq_73524,quest_wq_73690,quest_wq_73691,quest_wq_73692,quest_wq_73693,quest_wq_73694,quest_wq_73695,quest_wq_73696
+# related_quests: quest_eq_10139,quest_eq_10141
+# quest_chain: quest_eq_10139,quest_eq_10140,quest_eq_10141
 # quest_series: A Parade of Providence
 # version_source: wiki_release_category
 
@@ -128,13 +128,13 @@
 
 **Паймон:** Ладно, сейчас не время для лекций. Нужно найти воду!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Люди воистину слабые создания. Ваша телесная оболочка совсем не умеет приспосабливаться к серьёзным изменениям окружающей среды.
+**Странник:** Люди воистину слабые создания. Ваша телесная оболочка совсем не умеет приспосабливаться к серьёзным изменениям окружающей среды.
 
 - **Путешественник:** А ты что здесь делаешь?
 
 - **Путешественник:** А ты, значит, сильный?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вот. Дай ему попить.
+**Странник:** Вот. Дай ему попить.
 
 **Паймон:** Серьёзно? Это ведь обычная вода?.. Эй, ты куда?
 
@@ -1058,13 +1058,13 @@ He's over there.
 
 **Paimon:** This isn't the time for a history lesson. Let's get you some water—
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Humans, such fragile beings. Your bodies can't even survive extreme changes in the environment.
+**Wanderer:** Humans, such fragile beings. Your bodies can't even survive extreme changes in the environment.
 
 - **Traveler:** Why are you here?
 
 - **Traveler:** And you consider yourself strong?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Here, take this. Let him drink it.
+**Wanderer:** Here, take this. Let him drink it.
 
 **Paimon:** Are you serious? This had better be just normal water... Hey! You're leaving already?
 
@@ -1988,13 +1988,13 @@ Let's hope Aarav's made some progress.
 
 **派蒙:** 现在不是说这些的时候。得快点去找水——
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 人类真是脆弱。血肉之躯，连应对外界环境剧烈变化都做不到。
+**流浪者:** 人类真是脆弱。血肉之躯，连应对外界环境剧烈变化都做不到。
 
 - **旅行者:** 你怎么会在这？
 
 - **旅行者:** 你觉得自己很「坚强」？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 拿着。给他喝。
+**流浪者:** 拿着。给他喝。
 
 **派蒙:** 真的吗？这水是普通的水吧…喂！你这就走了？
 

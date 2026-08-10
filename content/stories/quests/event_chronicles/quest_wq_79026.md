@@ -1,0 +1,133 @@
+# id: quest_wq_79026
+# story_group: event_chronicles
+# title_ru: Драматическая фантасмагория: Сказание о принцессе с мечом
+# title_en: Drama Phantasmagoria: Tale of the Sword-Wielding Princess!
+# title_zh: 极夜幻想剧·王女执剑记！
+# region: Тейват
+# game_version: 2.8
+# release_versions: 2.8
+# source_id: 79026
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 79026
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_79026
+# quest_series: Summertime Odyssey
+# version_source: wiki_release_category
+
+## RU
+
+### Драматическая фантасмагория: Сказание о принцессе с мечом
+
+Верные подданные её превосходительства рады представить своим гостям особенное представление - историю любви и доблести...
+
+#### Сцена
+
+**Руководитель Театра сумерек:** Добро пожаловать! Добро пожаловать!
+
+**Руководитель Театра сумерек:** Рад приветствовать!
+
+**Руководитель Театра сумерек:** Вы, должно быть, и есть (прославленная)(прославленный) Путешественник! И с вами ваш верный спутник, госпожа Паймон!
+
+**Паймон:** Ого! Откуда ты наши имена знаешь?
+
+**Руководитель Театра сумерек:** Конечно, мне известны имена дорогих гостей нашего острова, ведь я...
+
+**Паймон:** Ты?
+
+**Руководитель Театра сумерек:** Прославленный руководитель Театра сумерек!
+
+Оказывается, и правда есть люди, которые величают себя прославленными.
+
+**Паймон:** Хотя ты и называешь себя прославленным, но Паймон никогда не слышала о тебе!
+
+**Руководитель Театра сумерек:** Это уже неважно, ведь теперь вы точно слышали обо мне.
+
+**Руководитель Театра сумерек:** Мы проделали огромную работу, и наконец наша пьеса «Сказание о принцессе с мечом» готова к премьере!
+
+**Руководитель Театра сумерек:** Всего пять действий, каждое поделено на два акта...
+
+**Руководитель Театра сумерек:** Дорогие гости, вы прибыли как раз кстати! Занавес вот-вот поднимется. Прошу вас, устраивайтесь поудобнее!
+
+**Руководитель Театра сумерек:** Мне ещё нужно уладить кое-что за кулисами, так что разрешите откланяться.
+
+**Руководитель Театра сумерек:** Вы увидите дебют лучшей пьесы Театра сумерек! Занавес вот-вот поднимется. Прошу вас, занимайте места!
+
+## EN
+
+### Drama Phantasmagoria: Tale of the Sword-Wielding Princess!
+
+The great Prinzessin's loyal subjects are pleased to perform for you, our guests, a performance most special: a tale of love and valor...
+
+#### Scene
+
+**Twilight Theater Head:** Welcome! Welcome!
+
+**Twilight Theater Head:** Welcome!
+
+**Twilight Theater Head:** You must be the world-famous Traveler! And this must be the Traveler's best companion, Paimon!
+
+**Paimon:** Wow! How did you know our names?
+
+**Twilight Theater Head:** You are the island's most distinguished guests, of course I know who you are! After all, I am...
+
+**Paimon:** You are...?
+
+**Twilight Theater Head:** I am the world-famous Head of Twilight Theater!
+
+I can't believe someone would call himself world-famous.
+
+**Paimon:** You say you're world-famous, but we've never heard of you.
+
+**Twilight Theater Head:** It's fine! Now you have!
+
+**Twilight Theater Head:** After a painstaking amount of work, our play, "Tale of the Sword-Wielding Princess," is finally ready for the stage!
+
+**Twilight Theater Head:** There are five acts in this play, each with two scenes...
+
+**Twilight Theater Head:** My distinguished guests, you have come at the perfect time! The show is about to start! Please take a seat!
+
+**Twilight Theater Head:** I still need to take care of something backstage. Please excuse me.
+
+**Twilight Theater Head:** You are about to witness the debut of Twilight Theater's best ever play! Please sit back and enjoy!
+
+## ZH
+
+### 极夜幻想剧·王女执剑记！
+
+伟大皇女的忠诚子民，在此为所有来客献上特别的演出，一个关于爱与勇气的故事…
+
+#### 场景
+
+**暮夜剧团团长:** 欢迎！欢迎！
+
+**暮夜剧团团长:** 欢迎！
+
+**暮夜剧团团长:** 您就是大名鼎鼎的旅行者！还有最好的伙伴——派蒙阁下！
+
+**派蒙:** 哇！你怎么知道我们的名字？
+
+**暮夜剧团团长:** 岛上的贵客，我当然知道，因为我！
+
+**派蒙:** 你？
+
+**暮夜剧团团长:** 我就是大名鼎鼎的暮夜剧团团长！
+
+原来真的有人自称大名鼎鼎。
+
+**派蒙:** 虽然你说自己大名鼎鼎，可是我们没听说过你呀。
+
+**暮夜剧团团长:** 没关系！现在两位已经听说了！
+
+**暮夜剧团团长:** 经过紧锣密鼓的筹备，我们的舞台剧「王女执剑记」就要首演了！
+
+**暮夜剧团团长:** 演出一共五幕，每幕分为上下两场…
+
+**暮夜剧团团长:** 贵宾们来得正是时候！马上序幕就要开演！请您就坐！
+
+**暮夜剧团团长:** 后台还有些事情需要处理，且容我先行告退。
+
+**暮夜剧团团长:** 暮夜剧团，倾力打造的舞台剧，马上开幕，请您欣赏！

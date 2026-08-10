@@ -3,7 +3,7 @@
 # title_ru: Возвращение домой
 # title_en: Homecoming
 # title_zh: 归乡
-# region: Ли Юэ, Сумеру
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 2039
@@ -1534,7 +1534,7 @@
 
 **Апеп:** Это длинная история... В далёком прошлом мы верили, что только запретное знание способно дать нам силу, достаточную для победы над небесным порядком.
 
-**Апеп:** Владыка {RUBY#[S]Нибелунг}драконов получил чёрную силу за границами мира и повёл нас на восстание против порядка, установленного чужаками.
+**Апеп:** Владыка Нибелунгдраконов получил чёрную силу за границами мира и повёл нас на восстание против порядка, установленного чужаками.
 
 **Паймон:** Владыка драконов?
 
@@ -1550,7 +1550,7 @@
 
 **Нахида:** Но ты всё равно не остановился? Из-за Амона. То есть аль-Ахмара...
 
-**Апеп:** Да. Потом Аль-Ахмар получил эту силу от Набу Ма{RUBY#[D]богиня цветов}ликаты.
+**Апеп:** Да. Потом Аль-Ахмар получил эту силу от Набу Мабогиня цветовликаты.
 
 **Апеп:** Его притязания росли, он вознамерился основать на моей земле мощное государство.
 
@@ -3168,7 +3168,7 @@ Hurry, grab on to me!
 
 **Apep:** It's a long story... We all once believed in the distant past that only forbidden knowledge could give us enough power to defeat the Heavenly Principles.
 
-**Apep:** The Drago{RUBY#[S]Nibelung}n King acquired the power of darkness from outside of this world and led us in a fight against the order established by the outsiders.
+**Apep:** The DragoNibelungn King acquired the power of darkness from outside of this world and led us in a fight against the order established by the outsiders.
 
 **Paimon:** D—Dragon King!?
 
@@ -3185,7 +3185,7 @@ Hurry, grab on to me!
 **Nahida:** But you still didn't give up, did you? Because of Amun... Al-Ahmar.
 
 **Apep:** Yes. Al-Ahmar eventually obtained this power
-with the help of Nabu M{RUBY#[S]The Goddess of Flowers}alikata.
+with the help of Nabu MThe Goddess of Flowersalikata.
 
 **Apep:** His ambitions continued to grow, and he planned to establish a powerful kingdom in my domain.
 
@@ -4803,7 +4803,7 @@ with the help of Nabu M{RUBY#[S]The Goddess of Flowers}alikata.
 
 **阿佩普:** 那就说来话长了…在遥远的过去，我们都认为那是能战胜天理的唯一力量。
 
-**阿佩普:** 「龙{RUBY#[D]尼伯龙根}王」自世界之外取得漆黑之力，带领我们反抗外来者定义的秩序。
+**阿佩普:** 「龙尼伯龙根王」自世界之外取得漆黑之力，带领我们反抗外来者定义的秩序。
 
 **派蒙:** 龙、龙王？！
 
@@ -4819,7 +4819,7 @@ with the help of Nabu M{RUBY#[S]The Goddess of Flowers}alikata.
 
 **纳西妲:** 但是你还是没有放弃，是吗？因为阿蒙，也就是「阿赫玛尔」…
 
-**阿佩普:** 嗯，后来「阿赫玛尔」在「娜布·{RUBY#[D]花神}玛莉卡塔」的帮助下获得了这种力量。
+**阿佩普:** 嗯，后来「阿赫玛尔」在「娜布·花神玛莉卡塔」的帮助下获得了这种力量。
 
 **阿佩普:** 他的野心不断膨胀，想要在我的领土之上建立强盛的王国。
 

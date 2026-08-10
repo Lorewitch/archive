@@ -11,11 +11,11 @@
 # chapter_num_en: Lantern Rite: Day 3
 # chapter_num_zh: 海灯节 第三天
 # part_source_ids: 40003
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_eq_10003
-# quest_series: 
+# quest_series:
 # version_source: verified_override
 
 ## RU
@@ -77,6 +77,16 @@
 Но никакого «преступления» не было...
 
 **Паймон:** Это значит, что времени у нас мало! Если материалы загорятся, будет слишком поздно!
+
+#### Поговорите с Паймон. (Скрыто)
+
+**Паймон:** Так я и думала...
+
+- **Путешественник:** В погоню?
+
+- **Путешественник:** В погоню!
+
+**Паймон:** Постой, там кто-то ещё...
 
 #### Поговорите с незнакомцем
 
@@ -335,6 +345,16 @@ Actually, quite a festive color in this part of the world...
 还没「案发」呢…
 
 **派蒙:** 所以说要抓紧时间啊，如果易燃品被人动了手脚，那案发的时候一切就都晚了！
+
+#### (test)与派蒙对话（隐藏）
+
+**派蒙:** 果然，那个是！
+
+- **旅行者:** 要追上去吗？
+
+- **旅行者:** 追上去吧。
+
+**派蒙:** 等一等，似乎还有人——
 
 #### 与未知人士对话
 

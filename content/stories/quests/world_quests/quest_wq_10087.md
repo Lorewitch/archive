@@ -7,15 +7,15 @@
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 10087
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73052,73053,73054,73055
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10107,quest_wq_10130
 # related_quests: quest_wq_10107,quest_wq_10130,quest_wq_73244,quest_wq_73279,quest_wq_73281,quest_wq_73282,quest_wq_10131,quest_wq_10120
 # quest_chain: quest_wq_10087,quest_wq_10107,quest_wq_10130,quest_wq_73244,quest_wq_73279,quest_wq_73281,quest_wq_73282,quest_wq_10131,quest_wq_10120
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -6373,7 +6373,7 @@ Let's give her a moment to herself.
 
 **派蒙:** 你这是瞧不起我们？哼！你离开了蒙德，可能消息不灵通…
 
-**派蒙:** 要知道，旅行者可不是一般的冒险家，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}还是西风骑士团的「荣誉骑士」呢！
+**派蒙:** 要知道，旅行者可不是一般的冒险家，空/荧还是西风骑士团的「荣誉骑士」呢！
 
 **博尼法兹:** 欸？旅行者…难道就是那个大名鼎鼎的…？
 
@@ -6485,7 +6485,7 @@ Let's give her a moment to herself.
 
 **派蒙:** 你这是瞧不起我们？哼！你离开了蒙德，可能消息不灵通…
 
-**派蒙:** 要知道，旅行者可不是一般的冒险家，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}还是西风骑士团的「荣誉骑士」呢！
+**派蒙:** 要知道，旅行者可不是一般的冒险家，空/荧还是西风骑士团的「荣誉骑士」呢！
 
 **博尼法兹:** 欸？旅行者…难道就是那个大名鼎鼎的…？
 
@@ -6617,7 +6617,7 @@ Let's give her a moment to herself.
 
 **派蒙:** 我才不是什么小朋友！连博尼法兹都知道，我是大名鼎鼎的派蒙！
 
-**派蒙:** 还有，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是和我一样大名鼎鼎的旅行者。
+**派蒙:** 还有，空/荧是和我一样大名鼎鼎的旅行者。
 
 **婕德:** 好吧，大名鼎鼎的派蒙小朋友，可不可以教教婕德，婕德该怎么做，才可以像派蒙一样自由自在地漂浮起来呢？
 
@@ -7538,7 +7538,7 @@ Let's give her a moment to herself.
 
 **提尔扎德:** 这个嘛…
 
-**哲伯莱勒:** 旅行者是经验丰富的冒险家，对各种遗迹机关一定比提尔扎德更熟悉，重要的道具交给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}保管更能发挥作用。
+**哲伯莱勒:** 旅行者是经验丰富的冒险家，对各种遗迹机关一定比提尔扎德更熟悉，重要的道具交给空/荧保管更能发挥作用。
 
 **提尔扎德:** …啊！对！没错！就是这样。
 

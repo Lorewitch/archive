@@ -3,19 +3,19 @@
 # title_ru: Возвращение ночи в ночь
 # title_en: To the Night, What is the Night's
 # title_zh: 将夜晚放还于夜晚
-# region: Натлан
+# region: Тейват
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75005
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75005
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75005
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -44,7 +44,7 @@
 
 Вы называете Легбе свои имена.
 
-**Легба:** Итак, Путешественник, Паймон и тепетлизаврик по имени {REALNAME[ID(2)|SHOWHOST(true)]}... Удивительный поворот судьбы свёл вас в Натлане.
+**Легба:** Итак, Путешественник, Паймон и тепетлизаврик по имени Малыш... Удивительный поворот судьбы свёл вас в Натлане.
 
 **Легба:** Кстати, Путешественник... Что привело вас к запретным землям нашего племени? За сокровищами пришли? Или за тайнами?
 
@@ -52,13 +52,13 @@
 
 - **Путешественник:** Нас привело простое любопытство.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Да! В местах, которые так хорошо охраняются, всегда полно сокровища!
 
 **Паймон:** Ага. Кому не хочется узнать, что спрятано за огромными воротами с печатью?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Легба:** Любому порядочному человеку.
 
@@ -68,7 +68,7 @@
 
 **Легба:** Там предки нашего племени восстановили связь с Царством Ночи. С тех пор многие соплеменники смогли пройти за врата Царства Ночи.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Паймон:** А что такое Царство Ночи?
 
@@ -82,13 +82,13 @@
 
 **Паймон:** Древний инструмент... Ничего себе!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Легба:** ...Кажется, я наговорил лишнего. Ладно. Сейчас у племени налажена прочная связь с Царством Ночи, нам давно не нужен медиум. Примитивный метод, скажу я вам.
 
 **Легба:** Но для нас медиум всё равно остаётся реликвией.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!..
+**Малыш:** Р-р-р!..
 
 **Паймон:** Ладно, ладно... Мы поняли!
 
@@ -108,7 +108,7 @@
 
 **Паймон:** Ха-ха, спасибо! Ты такой заботливый!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Вы ложитесь на теплую траву, которая служит Легбе постелью, и быстро погружаетесь в сон, убаюканные треском костра...
 Но крепко уснуть вам мешает тихий назойливый шорох, который не умолкает ни на секунду.
@@ -120,15 +120,15 @@
 Наверное, только что он лизнул вас, чтобы разбудить.
 Спустя ещё пару секунд вы понимаете: он пытается вам что-то показать... Необычную статую из обсидиана.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 - **Путешественник:** Ты сам её нашёл?
 
 - **Путешественник:** Ты её... выплюнул?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Как тебе в голову такое пришло?
 
@@ -142,21 +142,21 @@
 
 **Паймон:** Хм! Такую уродливую статую вряд ли удастся дорого продать...
 
-**Паймон:** Но секундочку! {REALNAME[ID(2)|SHOWHOST(true)]}, получается, ты убежал, пока мы спали?
+**Паймон:** Но секундочку! Малыш, получается, ты убежал, пока мы спали?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Где же ты достал эту штуковину... Наверное, там было ужасно грязно и ужасно опасно?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Легба:** {REALNAME[ID(2)|SHOWHOST(true)]}? Путешественник! Малышка Паймон!
+**Легба:** Малыш? Путешественник! Малышка Паймон!
 
 **Паймон:** Мы здесь! Что случилось?
 
 **Легба:** Я услышал крик тепетлизаврика и поспешил к вам. Что случилось?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Легба:** Это... это...
 
@@ -176,11 +176,11 @@
 
 **Паймон:** Перестань! Мы ещё можем всё объяснить!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 Вы объясняете Легбе, что произошло...
 
-**Легба:** Вот оно что... Эх. Я и забыл, что малыш {REALNAME[ID(2)|SHOWHOST(true)]} здорово умеет копать. Моя вина.
+**Легба:** Вот оно что... Эх. Я и забыл, что малыш Малыш здорово умеет копать. Моя вина.
 
 **Легба:** Всё равно нехорошо получилось. Пусть медиумом давно не пользовались, он остаётся реликвией племени. Если Вайоб разозлится, жди беды.
 
@@ -188,7 +188,7 @@
 
 **Легба:** В любом случае вам придётся вернуть статую на место.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Легба:** Да, я про тебя говорю, проказник! Ладно, в путь!
 
@@ -206,7 +206,7 @@
 
 **Паймон:** Странно... Что там, за вратами?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 - **Путешественник:** Вдруг там логово монстров...
 
@@ -214,7 +214,7 @@
 
 **Паймон:** Ой... А где монстры, там и сокровища, да?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 Не факт.
 
@@ -222,7 +222,7 @@
 
 **Паймон:** Ха-ха! И у Паймон те же самые мысли! Там наверняка полно сокровищ!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 Пока радоваться рано.
 
@@ -230,13 +230,13 @@
 
 **Легба:** Эй, вы! (Чужеземки)(Чужеземцы)! И ты, тепетлизавр с шарфом!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р?
+**Малыш:** Р-р-р?
 
 **Легба:** Умник, неужели ты не сказал им: здесь стоит печать, потому что дальше расположена запретная зона!
 
 **Легба:** И ничего вы там не найдёте, кроме самых ужасных проклятий.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Подожди, значит... там нет сокровищ?
 
@@ -252,13 +252,13 @@
 
 **Паймон:** Хи-хи, конечно! Ведь мы отличные скалолазы и поисковики!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Легба:** Даже курьерам нашего племени за вами не угнаться. Ну что, на запретную землю вам доступ всё равно закрыт, но... можете пройти в мой лагерь, он рядом.
 
 **Легба:** У меня в лагере вы сможете перекусить и отдохнуть. Что скажете?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 - **Путешественник:** Мы пока не голодны.
 
@@ -316,7 +316,7 @@
 
 **Паймон:** Значит, вы сами не знаете, чего хочет Вайоб?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Легба:** Как я говорил, в Вайоб собрана воля скончавшихся хранителей... Она грандиозна, но хаотична, как и Царство Ночи, где они обитают.
 
@@ -348,13 +348,13 @@
 
 **Легба:** Вы вернулись! Фух... Вы подошли к алтарю и разом исчезли! Я здорово перепугался! Решил, вас похитила Вайоб...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Мы были в очень страшном месте! Бр-р! С нами разговаривала каменная стела!
 
-**Паймон:** Что такое, {REALNAME[ID(2)|SHOWHOST(true)]}? Ты за нас волновался?
+**Паймон:** Что такое, Малыш? Ты за нас волновался?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р...
+**Малыш:** Р-р-р... Р-р-р...
 
 **Легба:** Что я говорил? Твои (подруги)(друзья) вернулись!
 
@@ -380,7 +380,7 @@
 
 **Легба:** А ты, малыш, больше не вздумай ничего здесь выкапывать!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Легба:** Хе-хе. Ладно, нам пора уходить. Пока мы окончательно не рассердили предков!
 
@@ -410,7 +410,7 @@ Actually, we haven't asked your name yet.
 
 You introduce yourselves to Legba.
 
-**Legba:** So, Paimon, Traveler, and {REALNAME[ID(2)|SHOWHOST(true)]} the little Tepetlisaurus... A marvelous fate it is, that had you meet here in Natlan.
+**Legba:** So, Paimon, Traveler, and Little One the little Tepetlisaurus... A marvelous fate it is, that had you meet here in Natlan.
 
 **Legba:** Speaking of which, Traveler, what were you doing near the tribe's taboo grounds, hmm? Treasure-hunting? Secret-seeking?
 
@@ -418,13 +418,13 @@ You introduce yourselves to Legba.
 
 - **Traveler:** Neither. Mere curiosity brought us here.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Yeah, that's right! A well-protected place like this has gotta be home to treasure, right?
 
 **Paimon:** Yup. Who wouldn't be curious after seeing a great sealed gate, anyway?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Legba:** Decent people, I'd say.
 
@@ -434,7 +434,7 @@ You introduce yourselves to Legba.
 
 **Legba:** That is where our ancient ancestors re-established contact with the Night, and since that day, more and more tribespeople have been able to enter the Night Kingdom's gates.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Er?
+**Little One:** Er?
 
 **Paimon:** What sorta place is this "Night Kingdom," anyway?
 
@@ -448,13 +448,13 @@ You introduce yourselves to Legba.
 
 **Paimon:** Whoa. An ancient tool...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Legba:** ...Perhaps I have said too much. Whatever. Today, a stable connection has been established with the Night Kingdom, and so a medium has long been unnecessary. If you ask me, such methods were quite crude to begin with.
 
 **Legba:** Still, it is a sacred relic for human tribes.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...!
+**Little One:** Roar...!
 
 **Paimon:** All right, all right, we get it...
 
@@ -474,7 +474,7 @@ You introduce yourselves to Legba.
 
 **Paimon:** Hehe, thanks! That's thoughtful of you!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 Lying on a bed of warm grass, you swiftly drift off as the campfire flickers by your side...
 But you feel as though some faint noise lingers by your ear, preventing you from falling into a deeper slumber.
@@ -482,19 +482,19 @@ But you feel as though some faint noise lingers by your ear, preventing you from
 Until...
 Something cold and moist makes contact with your cheek, dragging you from the thick, dark night of dreamland...
 
-You open your eyes to the sight of {REALNAME[ID(2)|SHOWHOST(true)]}'s friendly, familiar face.
+You open your eyes to the sight of Little One's friendly, familiar face.
 It seems that he was licking you to wake you up.
 A moment later, you realize that he is trying to show you something — a strange obsidian statue...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 - **Traveler:** Did you find this?
 
 - **Traveler:** Did you... spit this out?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr!
+**Little One:** Rawr... Rawr!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrooo...
+**Little One:** Rrrooo...
 
 **Paimon:** C'mon, where did you get that idea?
 
@@ -508,21 +508,21 @@ A moment later, you realize that he is trying to show you something — a strang
 
 **Paimon:** Nyeh... Surely something this ugly couldn't sell for much...
 
-**Paimon:** But wait a sec! This means you ran off while we were sleeping, didn't you, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** But wait a sec! This means you ran off while we were sleeping, didn't you, Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrrooo...
+**Little One:** Wrrooo...
 
 **Paimon:** Not good... Where did you find this thing anyway? ...Was it some sort of super dangerous, super dirty place?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooo...
+**Little One:** Rrooo...
 
-**Legba:** {REALNAME[ID(2)|SHOWHOST(true)]}? Traveler! Little Paimon!
+**Legba:** Little One? Traveler! Little Paimon!
 
 **Paimon:** We're still here! What's up?
 
-**Legba:** I hurried here upon hearing {REALNAME[ID(2)|SHOWHOST(true)]}'s cries. What happened?
+**Legba:** I hurried here upon hearing Little One's cries. What happened?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Legba:** This... This is...
 
@@ -542,7 +542,7 @@ A moment later, you realize that he is trying to show you something — a strang
 
 **Paimon:** C'mon! It's not that bad at all. We can just explain!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Mrrooo...
+**Little One:** Mrrooo...
 
 You explain the situation to Legba...
 
@@ -554,7 +554,7 @@ You explain the situation to Legba...
 
 **Legba:** Whatever the case, I must trouble you all to return the statue to its rightful place.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr...
+**Little One:** Rawr...
 
 **Legba:** Yes, that means you too, little troublemaker, hehe! Come, let's go!
 
@@ -572,7 +572,7 @@ You explain the situation to Legba...
 
 **Paimon:** Weird... Just what could be behind this gate?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 - **Traveler:** It could lead to a monster's lair...
 
@@ -580,7 +580,7 @@ You explain the situation to Legba...
 
 **Paimon:** Whoa... And where there be monsters, there be treasures too, right?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 That's not a given.
 
@@ -588,7 +588,7 @@ That's not a given.
 
 **Paimon:** Hehe! That's what Paimon's gut is telling her too!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 Don't get too excited now.
 
@@ -596,13 +596,13 @@ Don't get too excited now.
 
 **Legba:** Hey, you two! Outlanders! And that... scarf-wearing Tepetlisaurus over there!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Arr?
+**Little One:** Arr?
 
 **Legba:** Heh, aren't you the energetic one? Seriously, though, haven't you told them that a seal's a seal because it's meant to seal off forbidden areas?
 
 **Legba:** And you won't find anything in there except for terribly profound curses.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Roar...
+**Little One:** Roar...
 
 **Paimon:** Wait, so that means... there's no treasure?
 
@@ -618,13 +618,13 @@ Probably?
 
 **Paimon:** Heh! When it comes to climbing up and down looking for stuff, you won't find many better than us!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Legba:** Even tribal couriers might not match your speed. Well, you're still not permitted to enter these taboo grounds, but... my camp is nearby.
 
 **Legba:** How about I treat you to a quick bite, and then you can enjoy a comfy rest?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooo...
+**Little One:** Rrooo...
 
 - **Traveler:** We're not hungry yet.
 
@@ -682,7 +682,7 @@ You sure you won't just sleep sounder than I will?
 
 **Paimon:** So even you don't understand the Wayob's intentions?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ehrrr?
+**Little One:** Ehrrr?
 
 **Legba:** As I said before, the Wayob amass the will of departed guardians... They are great yet chaotic and abstruse by comparison, just like their realm, the Night Kingdom.
 
@@ -714,13 +714,13 @@ You sure you won't just sleep sounder than I will?
 
 **Legba:** You've returned! You gave me quite the fright there, vanishing once you got close to the altar! I thought you'd been abducted by the Wayob...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrrooo...
+**Little One:** Rrrooo...
 
 **Paimon:** Well, we got quite the fright ourselves. That place was super freaky. There was even a huge stone tablet that spoke to us!
 
-**Paimon:** ...What's wrong, {REALNAME[ID(2)|SHOWHOST(true)]}? Were you worried?
+**Paimon:** ...What's wrong, Little One? Were you worried?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrroo... Mrrroo...
+**Little One:** Rrroo... Mrrroo...
 
 **Legba:** Now, see what I told you? Your friends have returned, no?
 
@@ -746,7 +746,7 @@ You sure you won't just sleep sounder than I will?
 
 **Legba:** And you, little one. Never dig anything up from around here again!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrah...
+**Little One:** Rrah...
 
 **Legba:** Hehe. Either way, let us make haste, before any ancestors decide to protest our actions!
 
@@ -776,7 +776,7 @@ You sure you won't just sleep sounder than I will?
 
 向雷格巴作了自我介绍。
 
-**雷格巴:** 派蒙，旅行者，还有小嵴锋龙{REALNAME[ID(2)|SHOWHOST(true)]}…你们在纳塔相遇，真是奇妙的缘分。
+**雷格巴:** 派蒙，旅行者，还有小嵴锋龙小家伙…你们在纳塔相遇，真是奇妙的缘分。
 
 **雷格巴:** 话说回来，旅行者。你们在部族的禁地附近做什么？嗯？寻宝？打探秘密？
 
@@ -784,13 +784,13 @@ You sure you won't just sleep sounder than I will?
 
 - **旅行者:** 只是好奇而已。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 嗯嗯！这种被保护得很好的地方，总有可能藏着宝贝吧！
 
 **派蒙:** 对呀，看到一扇被封印着的大门，有谁不会好奇呢？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **雷格巴:** 正派人吧。
 
@@ -800,7 +800,7 @@ You sure you won't just sleep sounder than I will?
 
 **雷格巴:** 那里是古老的先人与夜晚重新建立起联系的地方，自那以后，越来越多的部族人才能步入「夜神之国」的门扉。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯?
+**小家伙:** 嗯?
 
 **派蒙:** 「夜神之国」到底是个什么样的地方啊？
 
@@ -814,13 +814,13 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 哇，古老的道具…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **雷格巴:** …或许我说的有点多了。总之，在部族人与「夜神之国」建立稳定联系的现在，早已不用媒介，而且在我看来手段实在简陋。
 
 **雷格巴:** 但那好歹也是人类部族的圣物。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…嗯！
+**小家伙:** 唔…嗯！
 
 **派蒙:** 好吧、好吧…我知道了！
 
@@ -840,7 +840,7 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 哇，好贴心！那就谢谢你啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 在温暖的草榻上躺下，伴着闪烁的营火，你很快便陷入了梦乡…
 不过你总觉得耳边有细碎而嘈杂的声响，令你无法沉入深眠。
@@ -848,19 +848,19 @@ You sure you won't just sleep sounder than I will?
 直到——
 直到脸颊旁冰凉湿润的触感突然袭来，将你带离了粘稠黑暗的夜梦…
 
-你睁开双眼，{REALNAME[ID(2)|SHOWHOST(true)]}熟悉而友好的面孔占据了你的视野。
+你睁开双眼，小家伙熟悉而友好的面孔占据了你的视野。
 或许刚才是它在舔舐你，试图将你唤醒。
 又过了片刻，你才注意到，它似乎正试图给你展示什么东西——一座奇特的黑曜石像…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 - **旅行者:** 这是你找到的吗？
 
 - **旅行者:** 你…你吐的？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呀！
+**小家伙:** 呀…呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **派蒙:** 怎么看都不是它吐出来的吧！
 
@@ -874,21 +874,21 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 哼…这么丑的东西，想也不会值太多钱吧…
 
-**派蒙:** 不过，话说回来！{REALNAME[ID(2)|SHOWHOST(true)]}一定是趁我们睡觉的时候出去乱跑了！我说的对不对呀？
+**派蒙:** 不过，话说回来！小家伙一定是趁我们睡觉的时候出去乱跑了！我说的对不对呀？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜…
+**小家伙:** 呜呜…
 
 **派蒙:** 真难办，这个东西是从哪里捡来的…会不会是很危险、很脏的地方呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
-**雷格巴:** {REALNAME[ID(2)|SHOWHOST(true)]}？旅行者！小派蒙！
+**雷格巴:** 小家伙？旅行者！小派蒙！
 
 **派蒙:** 我们还在这里呢，怎么啦！
 
-**雷格巴:** 我听到{REALNAME[ID(2)|SHOWHOST(true)]}的叫声就赶过来了。发生什么事了？
+**雷格巴:** 我听到小家伙的叫声就赶过来了。发生什么事了？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **雷格巴:** 这个…这是…
 
@@ -908,7 +908,7 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 还没到要动手的程度吧，喂，好好解释一下呀！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 和雷格巴交代了前因后果…
 
@@ -920,7 +920,7 @@ You sure you won't just sleep sounder than I will?
 
 **雷格巴:** 总之，就要麻烦你们，把这东西归还回它应该去的地方啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **雷格巴:** 说的就是你，嘿嘿，小惹祸精！好了，我们出发吧！
 
@@ -938,7 +938,7 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 真奇怪，这道门的背后会是什么地方呢？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 - **旅行者:** 也许是怪物的巢穴…
 
@@ -946,7 +946,7 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 哇…有怪物的地方，一定会有宝藏的吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 那可不一定哦。
 
@@ -954,7 +954,7 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 哇！我的直觉也是这样，里面一定是藏宝的洞窟没错啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 不要太兴奋啦。
 
@@ -962,13 +962,13 @@ You sure you won't just sleep sounder than I will?
 
 **雷格巴:** 喂，两位异邦人！唔…还有一只系着丝巾的小嵴锋龙。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔？
+**小家伙:** 唔？
 
 **雷格巴:** 哎呀，精神的小家伙，你没告诉他们：封印之所以是封印，就因为这里是「禁地」吗？
 
 **雷格巴:** 哦，除了深远的诅咒，你们在里面找不到任何东西的。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **派蒙:** 也就是说…没有宝藏？
 
@@ -984,13 +984,13 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 嘿嘿，爬高下低，找东西啊，这种活我们可擅长了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **雷格巴:** 即使是部族的讯使看来也没有你们这般矫健的身手。这样，虽然部族的禁地肯定是没法让你们进去，不过，我的营地就在附近。
 
 **雷格巴:** 就让我招待你们垫补下肚子，再休息一会儿，怎么样？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 - **旅行者:** 我们还不饿。
 
@@ -1048,7 +1048,7 @@ You sure you won't just sleep sounder than I will?
 
 **派蒙:** 所以你们也不知道「大灵」要干什么？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 嗯？
+**小家伙:** 嗯？
 
 **雷格巴:** 之前也说了，「大灵」集合了已逝守护者的意志…相比之下是伟大却混沌不清的，就如它们的居所，「夜神之国」也是一样。
 
@@ -1080,13 +1080,13 @@ You sure you won't just sleep sounder than I will?
 
 **雷格巴:** 你们终于回来了！呼…刚刚你们靠近祭坛就「呼」地一下消失了！我还以为你们被「大灵」拘走了呢…可吓到我了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **派蒙:** 我们去了一个好可怕的地方！有一个大石碑在和我们说话呢！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}怎么了，是在担心我们吗？
+**派蒙:** 小家伙怎么了，是在担心我们吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…唔嗯…
+**小家伙:** 唔…唔嗯…
 
 **雷格巴:** 你看，我说你的朋友们会平安归来的。
 
@@ -1112,6 +1112,6 @@ You sure you won't just sleep sounder than I will?
 
 **雷格巴:** 还有你，小家伙，下次可不许再把这里的东西挖出来了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **雷格巴:** 嘿嘿，我们还是快点离开这里吧，趁还没有别的什么祖先被我们激怒！

@@ -11,7 +11,7 @@
 # chapter_num_en: Iktomi Spiritseeking Scrolls: Volume I
 # chapter_num_zh: 暝视寻灵织卷·上
 # part_source_ids: 40171
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10211
 # related_quests: quest_eq_10211,quest_eq_10212
 # quest_chain: quest_eq_10210,quest_eq_10211,quest_eq_10212

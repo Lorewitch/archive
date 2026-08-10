@@ -13,8 +13,8 @@
 # part_source_ids: 4004,4005,4006
 # previous_quests: quest_aq_1308
 # next_quests: quest_aq_1402
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: IV
 # version_source: wiki_release_category
 
@@ -1554,11 +1554,11 @@
 
 **Лини:** Хм? Я видел, что вы разговаривали. Но, похоже, вы всё ещё не знаете, кто такой месье Нёвиллет?
 
-**Лини:** Позвольте представить вам верховно{RUBY#[S]юдекса}го судью Фонтейна. Это его постоянное место. Без преувеличения можно назвать его фонтейнским символом чести и справедливости.
+**Лини:** Позвольте представить вам верховноюдексаго судью Фонтейна. Это его постоянное место. Без преувеличения можно назвать его фонтейнским символом чести и справедливости.
 
 **Паймон:** Ого! Прости, если были с тобой невежливы. Паймон понятия не имела, что ты такая важная птица...
 
-**Нёвиллет:** Вам не о чем переживать. Должность верховн{RUBY#[S]юдекса}ого судьи всего лишь моя работа. А постоянное место в театре есть почти у всех. Не такой уж я и особенный.
+**Нёвиллет:** Вам не о чем переживать. Должность верховнюдексаого судьи всего лишь моя работа. А постоянное место в театре есть почти у всех. Не такой уж я и особенный.
 
 **Нёвиллет:** Кстати, должен сообщить вам, хотя предпочёл бы этого не делать...
 
@@ -4980,11 +4980,11 @@ It seemed to be calling out someone's name.
 
 **Lyney:** Hmm? I saw you all chatting just now, but it seems you still don't know who Monsieur Neuvillette is.
 
-**Lyney:** Allow me to introduce you to Fontaine's Chief J{RUBY#[S]Iudex}ustice. That seat is always reserved for him. It wouldn't be too much to say that he's the symbol of justice and honesty here in Fontaine.
+**Lyney:** Allow me to introduce you to Fontaine's Chief JIudexustice. That seat is always reserved for him. It wouldn't be too much to say that he's the symbol of justice and honesty here in Fontaine.
 
 **Paimon:** Whoa! Sorry for being so rude just now. Paimon had no idea you were such an important person...
 
-**Neuvillette:** No offense taken. Being Chief J{RUBY#[S]Iudex}ustice is merely what I do for work. Nearly every person has their usual reserved seat, so I am not so special, really.
+**Neuvillette:** No offense taken. Being Chief JIudexustice is merely what I do for work. Nearly every person has their usual reserved seat, so I am not so special, really.
 
 **Neuvillette:** And by the way, I should probably let you know, even though I would prefer not to...
 
@@ -6718,7 +6718,7 @@ He... turned into water.
 
 **Lyney:** As for why I'm a Fatuus, it's because the goals of the House of the Hearth align with those of an orphan like me. That's all.
 
-**Lyney:** That was how "Fat{RUBY#[S]Otets}her," who you might know as The Knave, approached recruiting us back then, too...
+**Lyney:** That was how "FatOtetsher," who you might know as The Knave, approached recruiting us back then, too...
 
 **Paimon:** The Knave? The one who controls the House of the Hearth? She's your "father"?
 
@@ -10144,7 +10144,7 @@ He... turned into water.
 
 **林尼:** 我身在愚人众一方，也只是像我这样的孤儿，与壁炉之家的利益一致而已。
 
-**林尼:** 当初，我们的「父{RUBY#[D]Otets}亲」，也就是「仆人」大人招募我的时候，也是以这样的理由…
+**林尼:** 当初，我们的「父Otets亲」，也就是「仆人」大人招募我的时候，也是以这样的理由…
 
 **派蒙:** 「仆人」…那位愚人众的执行官吗，早有耳闻是掌控着壁炉之家的人，原来「仆人」就是你口中的「父亲」啊。
 

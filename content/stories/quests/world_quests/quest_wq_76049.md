@@ -3,13 +3,13 @@
 # title_ru: Лунная соната: затянувшийся резонанс
 # title_en: Moonlight Sonata: Lingering Resonance
 # title_zh: 月光奏鸣曲·遐音
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76049
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76049
 # previous_quests: quest_wq_76050,quest_wq_76083
 # next_quests: quest_wq_76060

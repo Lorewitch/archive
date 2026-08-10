@@ -3,13 +3,13 @@
 # title_ru: Отблески храбрости: Возвращение к закату
 # title_en: Valor's Afterglow: Return by Sundown
 # title_zh: 勇气的余晖·日落当归
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71038
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71038
 # previous_quests: quest_wq_71036
 # next_quests: quest_wq_71039

@@ -3,19 +3,19 @@
 # title_ru: Особый чай для Хелен
 # title_en: Helen's Special Blend
 # title_zh: 海伦的特效润喉茶
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70700
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70700
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70700
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

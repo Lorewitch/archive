@@ -3,19 +3,19 @@
 # title_ru: Чудесное растение глубин
 # title_en: Divine Plant of the Depths
 # title_zh: 海渊仙草灵验记
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72150
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72150
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72150
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

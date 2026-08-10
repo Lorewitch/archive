@@ -13,8 +13,8 @@
 # part_source_ids: 6000,6001,6002
 # previous_quests: quest_aq_1602
 # next_quests: quest_aq_1601
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -1188,7 +1188,7 @@
 
 Эта статуя...
 
-**Лаума:** О? Вам интересна история Куу{RUBY#[S]Дева Луны}тар?
+**Лаума:** О? Вам интересна история КууДева Лунытар?
 
 **Паймон:** ...Куутар?
 
@@ -1460,7 +1460,7 @@
 
 **Паймон:** Вот это да! Потрясающе...
 
-**Лаума:** Куу{RUBY#[S]Дева Луны}тар родилась здесь, на острове Хийси, около пятисот лет назад. Момент её рождения был засвидетельствован жрицей Детей Морозной Луны.
+**Лаума:** КууДева Лунытар родилась здесь, на острове Хийси, около пятисот лет назад. Момент её рождения был засвидетельствован жрицей Детей Морозной Луны.
 
 **Лаума:** Моментально поняв, что это и есть предсказанное возрождение, она тихонько записала это событие и вырезала статую в честь свершившегося чуда.
 
@@ -1524,7 +1524,7 @@
 
 **Лаума:** Но, к сожалению, я пока не могу использовать Лунный Светоч, чтобы пролить свет на твоё прошлое.
 
-**Лаума:** Наш народ почитает Лунный Светоч как священную реликвию. Мне разрешается извлекать его из тайной обители, в которой он хранится, только один раз в год, в ночь лунн{RUBY#[S]Куунрукоус}ой молитвы.
+**Лаума:** Наш народ почитает Лунный Светоч как священную реликвию. Мне разрешается извлекать его из тайной обители, в которой он хранится, только один раз в год, в ночь луннКуунрукоусой молитвы.
 
 **Паймон:** О... И когда следующая ночь лунной молитвы?
 
@@ -2182,7 +2182,7 @@
 
 Подождать? У меня ещё остались незаконченные дела.
 
-(Это... путь к статуе Куу{RUBY#[S]Дева Луны}тар!..)
+(Это... путь к статуе КууДева Лунытар!..)
 
 #### Следуйте за Люмин / Итэром
 
@@ -2730,7 +2730,7 @@
 
 («Если бы тебе стало известно о некоем секрете, который может навредить твоей семье... ты бы честно всё им рассказал(а) или (утаила)(утаил) бы правду?»)
 
-**Лаума:** Путешественник... Ты уже встретил(а) Куу{RUBY#[S]Дева Луны}тар, не так ли?
+**Лаума:** Путешественник... Ты уже встретил(а) КууДева Лунытар, не так ли?
 
 ...Да.
 
@@ -5610,7 +5610,7 @@ Hey, you scared it off...
 
 This statue...
 
-**Lauma:** Oh? You're interested in the story of "Kuu{RUBY#[S]Moon Maiden}tar"?
+**Lauma:** Oh? You're interested in the story of "KuuMoon Maidentar"?
 
 **Paimon:** ...Kuutar?
 
@@ -5882,7 +5882,7 @@ About this "relic"...
 
 **Paimon:** Wow, it's spectacular...
 
-**Lauma:** "Kuu{RUBY#[S]Moon Maiden}tar" was born here on Hiisi Island around five hundred years ago. As it just so happened, a priestess of the Frostmoon Scions witnessed the moment of her birth.
+**Lauma:** "KuuMoon Maidentar" was born here on Hiisi Island around five hundred years ago. As it just so happened, a priestess of the Frostmoon Scions witnessed the moment of her birth.
 
 **Lauma:** Instantly realizing that this was the prophesied rebirth, she quietly recorded the event and carved this statue to honor that miracle.
 
@@ -5946,7 +5946,7 @@ About Kuutar's whereabouts...
 
 **Lauma:** Unfortunately, though, I won't be able to use the Moon Marrow to shed light on your past just yet.
 
-**Lauma:** Our people revere the Moon Marrow as a sacred relic. I'm only permitted to retrieve it from the secret chamber in which it is hidden once a year, on Moon-{RUBY#[D]Kuunrukous}Prayer Night.
+**Lauma:** Our people revere the Moon Marrow as a sacred relic. I'm only permitted to retrieve it from the secret chamber in which it is hidden once a year, on Moon-KuunrukousPrayer Night.
 
 **Paimon:** Oh, really... So, when's the next Moon-Prayer Night?
 
@@ -6604,7 +6604,7 @@ Wait...!
 
 Wait? But I still have unfinished business.
 
-(That's... the way to the statue of "Kuu{RUBY#[S]Moon Maiden}tar"...!)
+(That's... the way to the statue of "KuuMoon Maidentar"...!)
 
 #### Catch up with Lumine / Aether
 
@@ -7152,7 +7152,7 @@ No problem.
 
 ("If you were aware of something, a secret that could hurt your family... Would you be honest with them, or try to hide it?")
 
-**Lauma:** Traveler... You've already met our "Kuu{RUBY#[S]Moon Maiden}tar", haven't you?
+**Lauma:** Traveler... You've already met our "KuuMoon Maidentar", haven't you?
 
 ...Yes.
 
@@ -10032,7 +10032,7 @@ I'm feeling absolutely fine.
 
 这个神像…
 
-**菈乌玛:** 嗯？你们对「库塔{RUBY#[S]月之少女}尔」的历史感兴趣吗？
+**菈乌玛:** 嗯？你们对「库塔月之少女尔」的历史感兴趣吗？
 
 **派蒙:** 库塔尔？
 
@@ -10304,7 +10304,7 @@ I'm feeling absolutely fine.
 
 **派蒙:** 好壮观啊…
 
-**菈乌玛:** 大约在五百年前，「库塔{RUBY#[S]月之少女}尔」诞生在了希汐岛。有一位「霜月之子」的执祭恰好目睹了她诞生的瞬间。
+**菈乌玛:** 大约在五百年前，「库塔月之少女尔」诞生在了希汐岛。有一位「霜月之子」的执祭恰好目睹了她诞生的瞬间。
 
 **菈乌玛:** 她立即意识到这是预言中新生的月神，于是默默记录，并雕刻下了这一神迹。
 
@@ -10368,7 +10368,7 @@ I'm feeling absolutely fine.
 
 **菈乌玛:** 不过很遗憾，我现在无法利用「月髓」为你拨开历史的迷雾。
 
-**菈乌玛:** 「月髓」是「霜月之子」重要的圣物。我也只有在一年一度的「祈{RUBY#[D]库安露可}月之夜」，才能够将其从秘所中取出。
+**菈乌玛:** 「月髓」是「霜月之子」重要的圣物。我也只有在一年一度的「祈库安露可月之夜」，才能够将其从秘所中取出。
 
 **派蒙:** 啊？原来是这样…那距离那个「祈月之夜」，大概还有多久啊？
 
@@ -11026,7 +11026,7 @@ I'm feeling absolutely fine.
 
 此刻，我尚有未竟之事需要完成。
 
-（……！那个方向，是「库塔{RUBY#[S]月之少女}尔」的神像…）
+（……！那个方向，是「库塔月之少女尔」的神像…）
 
 #### 跟上荧 / 哥哥
 
@@ -11574,7 +11574,7 @@ I'm feeling absolutely fine.
 
 （「如果你有一个秘密会伤害到家人，那么到底应该诚实地对他们说出，还是应该为他们隐瞒呢？」）
 
-**菈乌玛:** 旅行者…你已经见过我们的「库塔{RUBY#[S]月之少女}尔」了，对吗？
+**菈乌玛:** 旅行者…你已经见过我们的「库塔月之少女尔」了，对吗？
 
 …没错。
 

@@ -3,19 +3,19 @@
 # title_ru: Подорожная грамота острова Рито
 # title_en: Ritou Travel Permit
 # title_zh: 离岛通行凭证
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10061
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72807
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10061
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

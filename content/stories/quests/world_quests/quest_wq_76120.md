@@ -3,13 +3,13 @@
 # title_ru: Художник - друг Луны. Часть IV
 # title_en: The Artist By the Moon's Side (IV)
 # title_zh: 伴月的小画家·其四
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76120
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76120
 # previous_quests: quest_wq_76118
 # next_quests: quest_wq_76119,quest_wq_76121

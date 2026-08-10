@@ -13,8 +13,8 @@
 # part_source_ids: 40178
 # previous_quests: quest_eq_10225
 # next_quests: quest_eq_10227
-# related_quests: quest_eq_10225,quest_eq_10227,quest_wq_75664,quest_wq_75665
-# quest_chain: quest_eq_10225,quest_eq_10226,quest_eq_10227,quest_wq_75664,quest_wq_75665
+# related_quests: quest_eq_10225,quest_eq_10227
+# quest_chain: quest_eq_10225,quest_eq_10226,quest_eq_10227
 # quest_series: Tournament of Glory in Bloom
 # version_source: wiki_release_category
 

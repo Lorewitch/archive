@@ -3,19 +3,19 @@
 # title_ru: Встреча с друзьями после долгих поисков
 # title_en: All Good Reunions Follow a Search
 # title_zh: 欢聚总在寻觅后
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75247
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75247
 # previous_quests: quest_wq_75246
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_75246
 # quest_chain: quest_wq_75246,quest_wq_75247
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

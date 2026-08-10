@@ -12,7 +12,7 @@
 # chapter_num_zh: 夜莺之歌·终章
 # part_source_ids: 76101
 # previous_quests: quest_wq_10178
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10177,quest_wq_10178
 # quest_chain: quest_wq_10177,quest_wq_10178,quest_wq_10179
 # quest_series: Nightingale's Song

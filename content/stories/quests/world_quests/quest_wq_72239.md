@@ -3,19 +3,19 @@
 # title_ru: Поедатель лотоса
 # title_en: Lotus Eater
 # title_zh: 食莲者
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72239
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72239
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72239
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -3,19 +3,19 @@
 # title_ru: Набор в Бригаду тридцати
 # title_en: Corps of Thirty Recruitment
 # title_zh: 「三十人团」的招募
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73673
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73673
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73673
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

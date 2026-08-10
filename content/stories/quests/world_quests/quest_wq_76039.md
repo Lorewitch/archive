@@ -3,19 +3,19 @@
 # title_ru: Жалобы спецотряда поддержки
 # title_en: The Special Support Squad's Tale
 # title_zh: 援助小队的诉说
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76039
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76039
 # previous_quests: quest_wq_76651
 # next_quests: quest_wq_76655
 # related_quests: quest_wq_76651,quest_wq_76655
 # quest_chain: quest_wq_76651,quest_wq_76039,quest_wq_76655
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

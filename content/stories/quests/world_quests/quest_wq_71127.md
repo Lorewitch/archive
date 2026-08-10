@@ -3,19 +3,19 @@
 # title_ru: Застланный облаками путь к Обители Чиван
 # title_en: The Cloud-Padded Path to the Chiwang Repose
 # title_zh: 赤望所居，锦落云程
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71127
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71127
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71127
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

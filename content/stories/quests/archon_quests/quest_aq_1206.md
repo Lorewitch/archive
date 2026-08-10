@@ -3,7 +3,7 @@
 # title_ru: Реквием гулких глубин
 # title_en: Requiem of the Echoing Depths
 # title_zh: 回响渊底的安魂曲
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 1206
@@ -13,8 +13,8 @@
 # part_source_ids: 8004,8005,8006,8007
 # previous_quests: quest_aq_1204
 # next_quests: quest_aq_1301
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: II
 # version_source: wiki_release_category
 
@@ -1716,7 +1716,7 @@ The Black Serpent Knights present here do not, in truth, mean you ill. They are 
 
 **Dainsleif:** So the Inteyvat is a symbol for a wanderer far from home, signifying the tenderness of the homeland.
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_Twins2Male|INFO_FEMALE_PRONOUN_Twins2Female]}
+Aether/Lumine
 
 **Paimon:** *gasp* So for this flower to get here, it must have been brought from...
 
@@ -2030,7 +2030,7 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **派蒙:** 你是说…嗯，我理解你的心情，旅行者，如果巫女所说的真能灵验就好了…
 
-**派蒙:** 你的{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}…
+**派蒙:** 你的空/荧…
 
 **凯瑟琳:** 我是不是…说了什么不该说的话呢？看到你们好像有些沮丧。
 
@@ -2172,7 +2172,7 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 - **旅行者:** 这么说来，之前那次你穿过传送门…
 
-- **旅行者:** 也没能追上我的{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}？
+- **旅行者:** 也没能追上我的空/荧？
 
 **戴因斯雷布:** 嗯，透过近期的一些经历，我只能推断…深渊操控着的传送能力，似乎不只是点对点，而是一个完整的网状结构。
 
@@ -2200,9 +2200,9 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **戴因斯雷布:** 作为见证了自己国度覆灭的宫廷卫队队长，我想我有理由不愿再提起这个名号。
 
-**派蒙:** 看来你的{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}说的都是真的…
+**派蒙:** 看来你的空/荧说的都是真的…
 
-- **旅行者:** 关于我{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}的往事…
+- **旅行者:** 关于我空/荧的往事…
 
 - **旅行者:** 你们之间究竟发生过什么？
 
@@ -2274,7 +2274,7 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 - **旅行者:** 这么说来，之前那次你穿过传送门…
 
-- **旅行者:** 也没能追上我的{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}？
+- **旅行者:** 也没能追上我的空/荧？
 
 **戴因斯雷布:** 嗯，透过近期的一些经历，我只能推断…深渊操控着的传送能力，似乎不只是点对点，而是一个完整的网状结构。
 
@@ -2302,9 +2302,9 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **戴因斯雷布:** 作为见证了自己国度覆灭的宫廷卫队队长，我想我有理由不愿再提起这个名号。
 
-**派蒙:** 看来你的{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}说的都是真的…
+**派蒙:** 看来你的空/荧说的都是真的…
 
-- **旅行者:** 关于我{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}的往事…
+- **旅行者:** 关于我空/荧的往事…
 
 - **旅行者:** 你们之间究竟发生过什么？
 
@@ -2706,11 +2706,11 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **戴因斯雷布:** 所以，因提瓦特也象征「游子」，寓意着「故乡的温柔」。
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_Twins2Male|INFO_FEMALE_PRONOUN_Twins2Female]}
+空/荧
 
 **派蒙:** 啊！那这种花出现在这里，也就是说…
 
-**深渊使徒:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_GIRLD|INFO_FEMALE_PRONOUN_BOYD]}殿下，您终于同意了？
+**深渊使徒:** 空/荧殿下，您终于同意了？
 
 过分专注地投入对抗「天理」之大业，反而淡忘了「复国」的使命。
 
@@ -2732,7 +2732,7 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **深渊使徒:** 您的决断，是教团的幸运。
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}…
+空/荧…
 
 **戴因斯雷布:** 你似乎看到了什么。能说给我听听么？
 
@@ -2744,11 +2744,11 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **戴因斯雷布:** 听起来，他们试图利用某些装置净化诅咒，可能就是之前我们看到过的那件物品。
 
-**戴因斯雷布:** 而且…{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SHE|INFO_MALE_PRONOUN_HE]}还提到了「复国」，对么？
+**戴因斯雷布:** 而且…空/荧还提到了「复国」，对么？
 
 - **旅行者:** 没错。
 
-- **旅行者:** {PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SHE|INFO_MALE_PRONOUN_HE]}说这是使命。
+- **旅行者:** 空/荧说这是使命。
 
 **戴因斯雷布:** 这个顽固的家伙，果然还没有放弃。
 
@@ -2776,9 +2776,9 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **戴因斯雷布:** 嗯？
 
-**戴因斯雷布:** 哈哈…也对。我们之间不过是雇佣关系，而{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SHE|INFO_MALE_PRONOUN_HE]}是你的血亲。
+**戴因斯雷布:** 哈哈…也对。我们之间不过是雇佣关系，而空/荧是你的血亲。
 
-**戴因斯雷布:** 你选择站在{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SHE|INFO_MALE_PRONOUN_HE]}身边，于情于理，确实没有问题。
+**戴因斯雷布:** 你选择站在空/荧身边，于情于理，确实没有问题。
 
 **戴因斯雷布:** 不论你做出何种选择，都不会撼动我的本心。阻止深渊是我所认定的路，如果无法达成共识，那不妨就此…
 
@@ -2786,7 +2786,7 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 - **旅行者:** 但不代表我完全信任你。
 
-- **旅行者:** 只是因为我不认同{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}的做法。
+- **旅行者:** 只是因为我不认同空/荧的做法。
 
 **戴因斯雷布:** 这样吗。
 
@@ -2978,7 +2978,7 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **派蒙:** 喂，戴因他是不是有点记仇呀，最后才那么说…
 
-**派蒙:** 虽然还是没能再一次见到你的{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}，但也算是了解了很多有用的信息吧？
+**派蒙:** 虽然还是没能再一次见到你的空/荧，但也算是了解了很多有用的信息吧？
 
 **派蒙:** 只要继续旅行，你们总会相遇，然后和好如初的，对吧？
 

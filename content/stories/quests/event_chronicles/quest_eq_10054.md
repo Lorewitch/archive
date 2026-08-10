@@ -12,9 +12,9 @@
 # chapter_num_zh: 飞彩镌流年 其三
 # part_source_ids: 40037
 # previous_quests: quest_eq_10053
-# next_quests: 
-# related_quests: quest_eq_10052,quest_eq_10053,quest_eq_10056,quest_eq_10057
-# quest_chain: quest_eq_10052,quest_eq_10053,quest_eq_10054,quest_eq_10056,quest_eq_10057
+# next_quests:
+# related_quests: quest_eq_10052,quest_eq_10053
+# quest_chain: quest_eq_10052,quest_eq_10053,quest_eq_10054
 # quest_series: Fleeting Colors in Flight
 # version_source: wiki_release_category
 

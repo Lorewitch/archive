@@ -3,19 +3,19 @@
 # title_ru: Плач потерявшегося ребёнка
 # title_en: The Lost Child's Tale
 # title_zh: 迷路孩童的诉说
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76087
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76087
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76087
-# quest_series: 
+# quest_series:
 # version_source: verified_override
 
 ## RU

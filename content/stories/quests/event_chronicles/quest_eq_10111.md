@@ -554,7 +554,7 @@
 
 **Хитоцумэ Кодзо:** Да. Вы играли в неё? Вам понравилось?
 
-**Хитоцумэ Кодзо:** Нас вдохновила легендарная игра «Акицу Хад{RUBY#[S]Ханэасоби}зура». Чтобы построить нашу игру, мы потратили много сил.
+**Хитоцумэ Кодзо:** Нас вдохновила легендарная игра «Акицу ХадХанэасобизура». Чтобы построить нашу игру, мы потратили много сил.
 
 **Хитоцумэ Кодзо:** После этого нас хватило только на пару киосков в лесу, чтобы создать атмосферу фестиваля...
 
@@ -574,11 +574,11 @@
 
 **Ёко:** Это история о встрече ёкая и человека во время фестиваля сотни лет назад.
 
-**Ёко:** Фестиваль цветов Микавы призван принести счастье всем, кто его посещает, а «Акицу Хад{RUBY#[S]Ханэасоби}зура» - символ дружбы.
+**Ёко:** Фестиваль цветов Микавы призван принести счастье всем, кто его посещает, а «Акицу ХадХанэасобизура» - символ дружбы.
 
-**Ёко:** Вот почему, когда мы решили провести фестиваль, создание «Акицу Хад{RUBY#[S]Ханэасоби}зура» было нашей первоочередной задачей.
+**Ёко:** Вот почему, когда мы решили провести фестиваль, создание «Акицу ХадХанэасобизура» было нашей первоочередной задачей.
 
-**Ёко:** К сожалению, настоящая «Акицу Хад{RUBY#[S]Ханэасоби}зура» была утеряна в веках. Мы создали версию игры, о которой узнали от странствующего торговца, поэтому изменили название на «Акицу Югэй».
+**Ёко:** К сожалению, настоящая «Акицу ХадХанэасобизура» была утеряна в веках. Мы создали версию игры, о которой узнали от странствующего торговца, поэтому изменили название на «Акицу Югэй».
 
 Мы слышали, что кто-то попал в ловушку в «Акицу Югэй».
 
@@ -1396,7 +1396,7 @@ You mean, the Mikawa Flower Festival?
 
 **Hitotsume Kozou:** Yep, that was us! Have you tried it yet? Isn't it fun?
 
-**Hitotsume Kozou:** We drew inspiration from the legendary Akitsu Haz{RUBY#[S]Haneasobi}ura. It took a lot of youkai power to set it up.
+**Hitotsume Kozou:** We drew inspiration from the legendary Akitsu HazHaneasobiura. It took a lot of youkai power to set it up.
 
 **Hitotsume Kozou:** After that, we didn't have much youkai power left, so we set up some stalls in the forest to add to the festival atmosphere...
 
@@ -1416,11 +1416,11 @@ You mean, the Mikawa Flower Festival?
 
 **Youko:** It's the story of youkai meeting a human during a festival hundreds of years ago.
 
-**Youko:** The Mikawa Flower Festival is meant to bring happiness to all who attend, and Akitsu Haz{RUBY#[S]Haneasobi}ura is a symbol of friendship.
+**Youko:** The Mikawa Flower Festival is meant to bring happiness to all who attend, and Akitsu HazHaneasobiura is a symbol of friendship.
 
-**Youko:** That's why, when we decided to hold the festival here, setting up Akitsu Haz{RUBY#[S]Haneasobi}ura was our first priority.
+**Youko:** That's why, when we decided to hold the festival here, setting up Akitsu HazHaneasobiura was our first priority.
 
-**Youko:** Unfortunately, the real Akitsu Haz{RUBY#[S]Haneasobi}ura has been lost to time. What we created is a version of the game we heard about from a wandering merchant, so we changed the name to Akitsu Yuugei.
+**Youko:** Unfortunately, the real Akitsu HazHaneasobiura has been lost to time. What we created is a version of the game we heard about from a wandering merchant, so we changed the name to Akitsu Yuugei.
 
 We heard that someone had been trapped in Akitsu Yuugei.
 

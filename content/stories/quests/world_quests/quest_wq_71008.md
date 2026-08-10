@@ -3,19 +3,19 @@
 # title_ru: Маленькая игра
 # title_en: A Little Game
 # title_zh: 游戏一场
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 71008
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71008
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71008
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -626,19 +626,19 @@ Yeah, I need a rest.
 
 #### 场景
 
-**小姜:** 嘿嘿，怎么样，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你果然找不到我吧。
+**小姜:** 嘿嘿，怎么样，空/荧，你果然找不到我吧。
 
-**小姜:** 唔，既然是第一次玩，我给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}一点提示好了。
+**小姜:** 唔，既然是第一次玩，我给空/荧一点提示好了。
 
 **小姜:** 我就藏在石头后面喔，嘿嘿，仔细找找吧。要继续吗？
 
 #### 场景
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}还是没找到吗？
+**小姜:** 空/荧还是没找到吗？
 
-**小姜:** 我果然藏得不错啊，唔…那我给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}降低点难度吧。
+**小姜:** 我果然藏得不错啊，唔…那我给空/荧降低点难度吧。
 
-**小姜:** 我就藏在北边喔，具体是哪里，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}就自己去找吧。要继续吗？
+**小姜:** 我就藏在北边喔，具体是哪里，空/荧就自己去找吧。要继续吗？
 
 没问题。
 
@@ -680,7 +680,7 @@ Yeah, I need a rest.
 
 **小姜:** 唔…那么，一点小小的提示，我这次会就藏在这周围的某棵树旁边喔。
 
-**小姜:** 我们再来一次，这次{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}应该能找到我了吧。要继续吗？
+**小姜:** 我们再来一次，这次空/荧应该能找到我了吧。要继续吗？
 
 #### 场景
 
@@ -696,11 +696,11 @@ Yeah, I need a rest.
 
 #### 场景
 
-**小姜:** 哼哼，这次{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}果然找不到我了
+**小姜:** 哼哼，这次空/荧果然找不到我了
 
 **小姜:** 也没办法啦，毕竟是爸爸帮我专门找的地方，那地方连妈妈都找不到。
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}你肯定没我爸爸厉害，我就提示你一下好了，我就藏那边的屋子周围喔。
+**小姜:** 空/荧你肯定没我爸爸厉害，我就提示你一下好了，我就藏那边的屋子周围喔。
 
 #### 场景
 
@@ -708,7 +708,7 @@ Yeah, I need a rest.
 
 **小姜:** 没办法，再给你一点提示吧，可以多多留意东边喔。
 
-**小姜:** 我们再来一次，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}要加油喔。
+**小姜:** 我们再来一次，空/荧要加油喔。
 
 #### 场景
 
@@ -726,7 +726,7 @@ Yeah, I need a rest.
 
 **小姜:** 嗯…不愧是我的终极藏身所啊。
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，我就藏在悬崖边喔，嘿嘿，仔细留意一下吧。
+**小姜:** 空/荧，我就藏在悬崖边喔，嘿嘿，仔细留意一下吧。
 
 **小姜:** 我们再来一次吧。
 
@@ -734,15 +734,15 @@ Yeah, I need a rest.
 
 **小姜:** 还是找不到吗？嗯…那我再提示一下。
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，可以注意一下南边喔。
+**小姜:** 空/荧，可以注意一下南边喔。
 
 **小姜:** 那我们再来一次，这次你应该找得到了吧。
 
 #### 场景
 
-**小姜:** 我的终极藏身所果然厉害啊，看样子{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}确实找不到了呢…
+**小姜:** 我的终极藏身所果然厉害啊，看样子空/荧确实找不到了呢…
 
-**小姜:** 实在找不到的话，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}就去南边的悬崖旁边仔细找找吧。
+**小姜:** 实在找不到的话，空/荧就去南边的悬崖旁边仔细找找吧。
 
 **小姜:** 嘿嘿…说不定，我就躲在那附近哦。
 
@@ -760,11 +760,11 @@ Yeah, I need a rest.
 
 #### 场景
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你准备好了吗？52
+**小姜:** 空/荧，你准备好了吗？52
 
 #### 找到小姜
 
-**小姜:** 我藏得有这么好吗…嗯…好吧，老是找不到，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}也玩得没意思了。
+**小姜:** 我藏得有这么好吗…嗯…好吧，老是找不到，空/荧也玩得没意思了。
 
 **小姜:** 我就藏在北边的一块大石头周围。
 
@@ -780,7 +780,7 @@ Yeah, I need a rest.
 
 #### 与小姜对话
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，我们接着玩吧。
+**小姜:** 空/荧，我们接着玩吧。
 
 **小姜:** 这次我一定要藏个好地方，你肯定找不到我！
 
@@ -788,9 +788,9 @@ Yeah, I need a rest.
 
 #### 找到小姜
 
-**小姜:** 这样也找不到吗，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}是不是不太擅长这种游戏啊…
+**小姜:** 这样也找不到吗，空/荧是不是不太擅长这种游戏啊…
 
-**小姜:** 唉，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}可以往西北边找一下，我就藏在那附近哦。
+**小姜:** 唉，空/荧可以往西北边找一下，我就藏在那附近哦。
 
 **小姜:** 我们再来一次吧。准备好了吗？
 
@@ -818,11 +818,11 @@ Yeah, I need a rest.
 
 #### 找到小姜
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，是从来没玩过这种游戏吗…
+**小姜:** 空/荧，是从来没玩过这种游戏吗…
 
-**小姜:** 没办法，总感觉再这样下去，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}也找不到我。
+**小姜:** 没办法，总感觉再这样下去，空/荧也找不到我。
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}可以留意一下西北边坡上的一棵树喔。
+**小姜:** 空/荧可以留意一下西北边坡上的一棵树喔。
 
 **小姜:** 这样子总能找到了吧…我们再来一次。
 
@@ -830,15 +830,15 @@ Yeah, I need a rest.
 
 #### 找到小姜
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，看来确实找不到我呢。
+**小姜:** 空/荧，看来确实找不到我呢。
 
 **小姜:** 没关系，毕竟是我爸爸帮我挑的位置，一般人肯定找不到。
 
-**小姜:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，可以多多留意东边屋子周围的角落喔。
+**小姜:** 空/荧，可以多多留意东边屋子周围的角落喔。
 
 **小姜:** 都说到这份上了，应该也不会找不到了吧。
 
-**小姜:** 那么我们再来一次，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}要加油喔。
+**小姜:** 那么我们再来一次，空/荧要加油喔。
 
 **小姜:** 怎么样，我爸爸帮我挑的这个位置，很难找吧。
 
@@ -878,7 +878,7 @@ Yeah, I need a rest.
 
 **小姜:** 之前一位老伯伯给我拿东西来吃的时候，我给他的时候，他说不要，我也不知道为什么…
 
-**小姜:** 好啦，我也要回家了，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你也去忙你的事吧。
+**小姜:** 好啦，我也要回家了，空/荧，你也去忙你的事吧。
 
 #### 场景
 

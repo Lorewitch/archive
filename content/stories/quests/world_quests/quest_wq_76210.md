@@ -7,15 +7,15 @@
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76210
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76210
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76210
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

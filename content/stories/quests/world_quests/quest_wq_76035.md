@@ -3,15 +3,15 @@
 # title_ru: Её прошлое
 # title_en: Her Past
 # title_zh: 她的过去
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76035
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76035
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76036
 # related_quests: quest_wq_76036,quest_wq_76029,quest_wq_76030,quest_wq_76031,quest_wq_76051,quest_wq_76054,quest_wq_76083,quest_wq_76086,quest_wq_76050,quest_wq_76049,quest_wq_76084,quest_wq_76060,quest_wq_76052,quest_wq_76122,quest_wq_76118,quest_wq_76120,quest_wq_76121,quest_wq_76119,quest_wq_76123,quest_wq_76085
 # quest_chain: quest_wq_76035,quest_wq_76036,quest_wq_76029,quest_wq_76030,quest_wq_76031,quest_wq_76051,quest_wq_76054,quest_wq_76083,quest_wq_76086,quest_wq_76050,quest_wq_76049,quest_wq_76084,quest_wq_76060,quest_wq_76052,quest_wq_76122,quest_wq_76118,quest_wq_76120,quest_wq_76121,quest_wq_76119,quest_wq_76123,quest_wq_76085

@@ -3,19 +3,19 @@
 # title_ru: Записи о путешествии вглубь Разлома
 # title_en: The Chasm Delvers
 # title_zh: 层岩巨渊深游记
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 10051
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71037,71040,71041,71042,71043,71044,71045,71048,71049
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10051
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

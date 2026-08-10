@@ -3,19 +3,19 @@
 # title_ru: Лети со мной
 # title_en: Come Fly With Me
 # title_zh: 与我一同高飞
-# region: Натлан
+# region: Тейват
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75070
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75070
 # previous_quests: quest_wq_75064
 # next_quests: quest_wq_75071
 # related_quests: quest_wq_75064,quest_wq_75071
 # quest_chain: quest_wq_75064,quest_wq_75070,quest_wq_75071
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -36,7 +36,7 @@
 
 **Паймон:** Итак, на этот раз снова нужна наша помощь, господин Магнифико?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р?
+**Малыш:** Р-р?
 
 **Магнифико:** Нет... Хм. Вообще-то, было бы здорово, если бы вы помогли! Пойдёмте, я всё вам объясню.
 
@@ -62,7 +62,7 @@
 
 **Паймон:** Ничего страшного. Если мы потерпим неудачу, то потеряем только время. Мы путешественники, времени у нас полно.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ?
+**Малыш:** ?
 
 #### Сцена
 
@@ -141,7 +141,7 @@ Come fly with me, let's fly, let's fly away~ Uh, but not too far away, okay?
 
 **Paimon:** So, do you need our help again this time, Mr. Magnifico?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr?
+**Little One:** Rawr?
 
 **Magnifico:** No, no, certainly n... Hmm, on second thoughts, that would be marvelous! Come, let me explain the situation to you.
 
@@ -167,7 +167,7 @@ Come fly with me, let's fly, let's fly away~ Uh, but not too far away, okay?
 
 **Paimon:** That's fine. If we fail, all we've lost is time. And we're travelers — no one's time is worth less than ours.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ?
+**Little One:** ?
 
 #### Scene
 
@@ -246,7 +246,7 @@ As the balloon slowly disappears, his boisterous laughter is reduced to a distan
 
 **派蒙:** 所以，这次还需要我们帮忙吗，马尼菲科先生？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀？
+**小家伙:** 呀？
 
 **马尼菲科:** 不…呃，嗯，如果你们能帮忙的话，也好！来吧，让我给你介绍下情况。
 
@@ -272,7 +272,7 @@ As the balloon slowly disappears, his boisterous laughter is reduced to a distan
 
 **派蒙:** 没关系，失败也不过是浪费了我们的时间而已。我们是旅行者，旅行者的时间最不值钱。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** ？
+**小家伙:** ？
 
 #### 场景
 

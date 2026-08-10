@@ -7,15 +7,15 @@
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 10072
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73014,73015,73016,73017,73018,73060
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10072
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2836,13 +2836,13 @@ I hope to see you at Festival Utsava.
 
 **兰般度:** 啊，是那菈，金色的那菈，勇敢的那菈…
 
-**派蒙:** 我叫派蒙，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是旅行者，桓那兰那的大家正在为无忧节做准备呢，你怎么独自到这里来？
+**派蒙:** 我叫派蒙，空/荧是旅行者，桓那兰那的大家正在为无忧节做准备呢，你怎么独自到这里来？
 
 **兰般度:** 兰般度有重要的任务，为了无忧节，为了水天丛林，为了那菈法留纳。
 
 **派蒙:** 那么你就是兰般度了，不过，那菈法留纳？好像是听过的名字呢。
 
-**兰般度:** 那菈法留纳…{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}就像那菈旅行者一样，是金色的，勇敢的那菈。
+**兰般度:** 那菈法留纳…荧/空就像那菈旅行者一样，是金色的，勇敢的那菈。
 
 **兰般度:** 看不到月亮和太阳的时候，就连桓那的大树也被多牙的风啃落了叶子，被黑色的雨咬烂了枝干。
 
@@ -2852,11 +2852,11 @@ I hope to see you at Festival Utsava.
 
 **兰般度:** 不知道日落又日升了多少次，那菈法留纳来了，金色的那菈，说着金色的语言。
 
-**兰般度:** {MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}和兰那罗一起，带回了月亮和太阳。法留纳神机洗掉了桓那的痛，再也没有黑色的雨，再也没有铁和盐的味道。
+**兰般度:** 荧/空和兰那罗一起，带回了月亮和太阳。法留纳神机洗掉了桓那的痛，再也没有黑色的雨，再也没有铁和盐的味道。
 
 **兰般度:** 桓那兰那的大家都感谢那菈法留纳，都喜欢那菈法留纳，就像太阳，泥土，雨露。
 
-**派蒙:** 哇，听起来好厉害！{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}一定是个好那菈吧！
+**派蒙:** 哇，听起来好厉害！荧/空一定是个好那菈吧！
 
 **派蒙:** 不过，嘿嘿，那菈旅行者也帮助了很多人，获得了很多感谢…
 
@@ -2864,7 +2864,7 @@ I hope to see you at Festival Utsava.
 
 ……
 
-**兰般度:** {MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}离开桓那兰那之后，许多从泥中诞生，许多又回到泥里。
+**兰般度:** 荧/空离开桓那兰那之后，许多从泥中诞生，许多又回到泥里。
 
 **兰般度:** 法留纳神机的枝和叶也没有了气力，法留纳法宝像被吓到的团雀，胡乱扑腾翅膀，雨变得很多，很怪。
 
@@ -2904,7 +2904,7 @@ I hope to see you at Festival Utsava.
 
 **兰般度:** 黑色的雨和黑色的泥，还有很多很多不好的东西，把桓那弄得一团糟。
 
-**兰般度:** 在{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}之前，没有见过这样勇敢的那菈，像阳光赶走昏睡的雾，和兰那罗一起治好了法留纳神机。
+**兰般度:** 在荧/空之前，没有见过这样勇敢的那菈，像阳光赶走昏睡的雾，和兰那罗一起治好了法留纳神机。
 
 **兰般度:** 现在那菈法留纳不在桓那兰那，兰穆护昆达也不在桓那兰那…但是兰那罗要又一次治好法留纳神机，为了无忧节，为了桓那。
 
@@ -3050,7 +3050,7 @@ I hope to see you at Festival Utsava.
 
 **兰般度:** 那菈法留纳为我们带回了月亮和太阳，那菈旅行者也一定可以。
 
-**派蒙:** …嗯！我也相信旅行者，无论有什么困难，一定都难不倒{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}！
+**派蒙:** …嗯！我也相信旅行者，无论有什么困难，一定都难不倒空/荧！
 
 放心交给我吧。
 
@@ -3284,13 +3284,13 @@ I hope to see you at Festival Utsava.
 
 **兰那库拉:** 金色的那菈，记得很多兰那罗的很多名字，记得我是兰那库拉，就像捡起一片飘落的叶子，却知道它来自哪棵大树。
 
-**派蒙:** 对兰那罗来说，那菈法留纳也是「特别」的一个那菈吧！所以才专门为{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}建了纪念碑。
+**派蒙:** 对兰那罗来说，那菈法留纳也是「特别」的一个那菈吧！所以才专门为荧/空建了纪念碑。
 
 **派蒙:** 虽然不太一样，不过我们之前有见过刻画了具体相貌的雕像…
 
 …神像？
 
-**派蒙:** 对！听了那菈法留纳的故事，旅行者不会想要知道{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的长相吗？
+**派蒙:** 对！听了那菈法留纳的故事，旅行者不会想要知道荧/空的长相吗？
 
 **派蒙:** 兰那罗既然有音乐，说不定其他方面也很厉害呢！也许能雕刻出栩栩如生的石像？
 
@@ -3368,7 +3368,7 @@ I hope to see you at Festival Utsava.
 
 **兰百梨迦:** 那菈…和会飞的？
 
-**派蒙:** 对啦，我是会飞的派蒙，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}是旅行者。
+**派蒙:** 对啦，我是会飞的派蒙，空/荧是旅行者。
 
 **派蒙:** 你应该就是兰百梨迦了吧，话说回来，你一点也不怕我们呢。
 
@@ -3528,7 +3528,7 @@ I hope to see you at Festival Utsava.
 
 **兰百梨迦:** 兰般度曾经和那菈法留纳一起保护桓那，他们一起赶走了黑色的不祥的污泥，治好了法留纳神机。
 
-**兰百梨迦:** 那菈法留纳离开桓那已经很久，无忧节，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}或许也不会来了。
+**兰百梨迦:** 那菈法留纳离开桓那已经很久，无忧节，荧/空或许也不会来了。
 
 **兰百梨迦:** 兰般度一定知道。已经不知道过去了多久，时间足够一粒种子长成参天大树，离开桓那的那菈不会再回来了。
 
@@ -3536,7 +3536,7 @@ I hope to see you at Festival Utsava.
 
 **派蒙:** 原来是这样…
 
-**兰百梨迦:** 兰百梨迦没有见过那菈法留纳，但是{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的事，桓那知道。
+**兰百梨迦:** 兰百梨迦没有见过那菈法留纳，但是荧/空的事，桓那知道。
 
 **兰百梨迦:** 兰百梨迦不会像兰般度一样想很多，只知道，兰百梨迦足够强，可以保护兰那罗，也可以保护桓那。
 
@@ -3632,7 +3632,7 @@ I hope to see you at Festival Utsava.
 
 **派蒙:** 我不是什么「会飞的小东西」啦！等等，我好像确实是…？哎！总之，我叫派蒙！
 
-**派蒙:** 「金色的那菈」也有自己的名字，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}叫旅行者。
+**派蒙:** 「金色的那菈」也有自己的名字，空/荧叫旅行者。
 
 **派蒙:** 是兰般度告诉我们的，说兰贡迪在梦景林莽，让我们来看看情况。
 
@@ -3814,7 +3814,7 @@ I hope to see you at Festival Utsava.
 
 **兰贡迪:** 兰贡迪没有见过那菈法留纳，但是兰般度讲了很多。
 
-**兰贡迪:** {MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的旋律，一定和那菈旅行者一样，听到就会开心。
+**兰贡迪:** 荧/空的旋律，一定和那菈旅行者一样，听到就会开心。
 
 **派蒙:** 是哦，我只要和旅行者在一起，总是很开心！如果哪天就像那菈法留纳离开森林一样，旅行者也要离开我的话…
 
@@ -4208,7 +4208,7 @@ I hope to see you at Festival Utsava.
 
 **兰般度:** 虽然担心在荼诃之座的兰百梨迦和在梦景林莽的兰贡迪，但是有金色的那菈帮助，一定不会有问题。
 
-**兰那库拉:** 治好了法留纳神机，就不会有坏家伙到苗圃捣乱了，苗圃的花，想要送给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}。
+**兰那库拉:** 治好了法留纳神机，就不会有坏家伙到苗圃捣乱了，苗圃的花，想要送给空/荧。
 
 #### 场景
 

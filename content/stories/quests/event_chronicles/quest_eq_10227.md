@@ -12,9 +12,9 @@
 # chapter_num_zh: 荣花竞捷之争 第三幕
 # part_source_ids: 40179
 # previous_quests: quest_eq_10226
-# next_quests: 
-# related_quests: quest_eq_10225,quest_eq_10226,quest_wq_75664,quest_wq_75665
-# quest_chain: quest_eq_10225,quest_eq_10226,quest_eq_10227,quest_wq_75664,quest_wq_75665
+# next_quests:
+# related_quests: quest_eq_10225,quest_eq_10226
+# quest_chain: quest_eq_10225,quest_eq_10226,quest_eq_10227
 # quest_series: Tournament of Glory in Bloom
 # version_source: wiki_release_category
 

@@ -3,19 +3,19 @@
 # title_ru: Древнее сокровище Сэйрая
 # title_en: Relics of Seirai
 # title_zh: 清籁旧宝
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72162
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72162
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72162
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

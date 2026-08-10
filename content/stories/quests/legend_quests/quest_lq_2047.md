@@ -3,7 +3,7 @@
 # title_ru: Когда затухает огонь очага
 # title_en: When the Hearth-Flame Goes Out
 # title_zh: 炉火熄灭之际
-# region: Фонтейн, Снежная
+# region: Снежная
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 2047
@@ -11,11 +11,11 @@
 # chapter_num_en: Ignis Purgatorius Chapter: Act I
 # chapter_num_zh: 净炼火之章 第一幕
 # part_source_ids: 14023,14024,14025,14026
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2047
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -4244,7 +4244,7 @@ Just invite us back as guests and we'll call it even!
 
 **沙普洛:** 「父亲」说你们帮过林尼，是值得信赖的朋友。这是我们从「父亲」那里听过最高的评价了，大家都在讨论你们是何方神圣。
 
-**福尔茨:** 据说旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}力大无穷，可以搬动高大的山峰！
+**福尔茨:** 据说旅行者空/荧力大无穷，可以搬动高大的山峰！
 
 **埃卢瓦尔:** 据说派蒙姐姐胃大无穷，三天就能吃光德波大饭店的全部储备！
 
@@ -4310,9 +4310,9 @@ Just invite us back as guests and we'll call it even!
 
 **林尼:** 菲约尔，物资送到了哦。
 
-**菲约尔:** 辛苦了。{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们是谁？外面的人？
+**菲约尔:** 辛苦了。空/荧们是谁？外面的人？
 
-**林尼:** 介绍一下，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们就是旅行者和派蒙。
+**林尼:** 介绍一下，空/荧们就是旅行者和派蒙。
 
 **南特伊:** 哦？我听过，这可是最近很有名的组合。
 
@@ -5940,7 +5940,7 @@ Just invite us back as guests and we'll call it even!
 
 **克雷薇:** 由你来接手壁炉之家，我真的很开心。当然啦，要说没有遗憾是不可能的，我还没有见过外面的世界呢！
 
-**「仆人」:** …正巧。我们的两位客人，去过许多国家，走过无数地方。让{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们给你讲讲外面的世界吧。
+**「仆人」:** …正巧。我们的两位客人，去过许多国家，走过无数地方。让空/荧们给你讲讲外面的世界吧。
 
 **克雷薇:** 真的吗？
 

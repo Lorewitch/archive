@@ -3,19 +3,19 @@
 # title_ru: Цяоин, деревня историй
 # title_en: Qiaoying, the Village of Many Tales
 # title_zh: 故事繁多的翘英庄
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 70050
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70050
 # previous_quests: quest_wq_74800
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74800
 # quest_chain: quest_wq_74800,quest_wq_70050
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

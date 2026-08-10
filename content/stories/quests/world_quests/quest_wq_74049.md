@@ -3,19 +3,19 @@
 # title_ru: Успех не даётся легко
 # title_en: Were It So Easy
 # title_zh: 好事多磨
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74049
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74049
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74049
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

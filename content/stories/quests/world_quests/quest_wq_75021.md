@@ -3,19 +3,19 @@
 # title_ru: Пусть звезда исполнит желание
 # title_en: To Wish Upon a Star
 # title_zh: 向星星许愿
-# region: Натлан
+# region: Тейват
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75021
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75021
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75021
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

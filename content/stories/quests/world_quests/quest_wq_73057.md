@@ -3,19 +3,19 @@
 # title_ru: Старый друг Аранакина
 # title_en: Aranakin's Old Friend
 # title_zh: 兰纳真的老友
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73057
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73057
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_73059
 # related_quests: quest_wq_73056,quest_wq_73058,quest_wq_73059
 # quest_chain: quest_wq_73056,quest_wq_73057,quest_wq_73058,quest_wq_73059
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

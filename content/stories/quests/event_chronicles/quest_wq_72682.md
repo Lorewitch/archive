@@ -1,0 +1,247 @@
+# id: quest_wq_72682
+# story_group: event_chronicles
+# title_ru: Хякунин икки: Золотое торнадо
+# title_en: Hyakunin Ikki: Golden Whirlwind
+# title_zh: 「百人一揆·黄金旋风」
+# region: Тейват
+# game_version: 2.5
+# release_versions: 2.5
+# source_id: 72682
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 72682
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_72682
+# quest_series:
+# version_source: wiki_release_category
+
+## RU
+
+### Хякунин икки: Золотое торнадо
+
+Прошло немало времени с момента последнего Хякунин икки. Каябуки снова появился в Инадзуме...
+
+#### Поговорите с Каябуки
+
+**Каябуки Иккэй:** Эй, белокур(ая)(ый) чужезем(ка)(ец)...
+
+- **Путешественник:** И снова здравствуй.
+
+- **Путешественник:** Есть какие-нибудь поручения?
+
+**Каябуки Иккэй:** Хм... Твои светлые волосы кого-то мне напоминают...
+
+**Каябуки Иккэй:** Точно! Ты ведь «Золотое торнадо»! Ты блистательно выступил(а) на прошлом Хякунин икки!
+
+Золотое торнадо?..
+
+**Каябуки Иккэй:** В прошлый раз я наблюдал за выступлениями участников с края арены, чтобы собрать материалы для книги. И ты (была подобна)(был подобен) Золотому торнадо, который сметает всё на своём пути...
+
+- **Путешественник:** Прошу, обойдёмся без лести.
+
+- **Путешественник:** Продолжай!
+
+**Каябуки Иккэй:** Кхм... «Внимательные зрители уже наверняка заметили, что светловолосый чужак использует Коранка дайтацумаки, которое считается табу в древних боевых искусствах!..»
+
+?
+
+**Каябуки Иккэй:** Я написал это под вдохновением от твоего боевого стиля.
+
+**Каябуки Иккэй:** В общем, недавно снова устроили Хякунин икки.
+
+- **Путешественник:** Напомни, что такое Хякунин икки?
+
+- **Путешественник:** Всё понятно.
+
+**Каябуки Иккэй:** Это свободный турнир, на котором люди весёлыми поединками отмечают праздники и изгоняют неудачу. Во время этого турнира мастера боевых искусств и монстры забывают о старых обидах, чтобы насладиться чистым азартом схватки.
+
+**Каябуки Иккэй:** Говорят, что лучшие бойцы получают в награду сокровища.
+
+**Каябуки Иккэй:** Хотя до сих пор остаётся загадкой, кто является организатором и спонсором.
+
+**Каябуки Иккэй:** Как бы там ни было, такое лучше не обсуждать на людях. Идём со мной...
+
+#### Поговорите с Каябуки
+
+**Каябуки Иккэй:** Вот мы и пришли.
+
+**Каябуки Иккэй:** Пройдя через эти крайне подозрительные двери, ты попадёшь на арену битвы.
+
+- **Путешественник:** Как интересно!
+
+- **Путешественник:** Очередные хлопоты.
+
+**Каябуки Иккэй:** Правила те же, что и в прошлый раз. Монстры, искатели приключений и воины со всех уголков мира принимают участие в задорном побоище на этой арене.
+
+**Каябуки Иккэй:** Как и в прошлый раз, ты можешь привести друзей и товарищей! Ведь «хякунин» в названии означает, что чем больше народу, тем веселее.
+
+**Каябуки Иккэй:** Жду не дождусь твоего выступления.
+
+А ты опять не участвуешь?
+
+**Каябуки Иккэй:** Я? Я участвую в роли зрителя. Я буду за тебя болеть!
+
+**Каябуки Иккэй:** В конце концов, моя цель - написать самую эпичную книгу о сражениях, а не стать столь блистательным воином, как ты.
+
+**Каябуки Иккэй:** И интуиция подсказывает мне, что ты станешь самой яркой звездой этой арены.
+
+- **Путешественник:** Я сделаю всё, что в моих силах.
+
+- **Путешественник:** Я тебя не разочарую.
+
+**Каябуки Иккэй:** Уверен, ты сможешь поразить меня своими талантами фехтовальщика.
+
+## EN
+
+### Hyakunin Ikki: Golden Whirlwind
+
+It's been a while since the last Hyakunin Ikki. Kayabuki shows up again in Inazuma...
+
+#### Talk to Kayabuki
+
+**Kayabuki Ikkei:** Hello there, blond-haired outlander...
+
+- **Traveler:** We meet again.
+
+- **Traveler:** Do you have a commission for me?
+
+**Kayabuki Ikkei:** Um, your blond hair looks familiar... Are you...
+
+**Kayabuki Ikkei:** Ah yes! You are the eye-catching Golden Whirlwind from the Hyakunin Ikki last time...
+
+G—Golden Whirlwind...?
+
+**Kayabuki Ikkei:** Previously, I was watching the excellent performances of the participants in a corner of the tournament venue, seeking to be inspired by the most thrilling fighting scenes. And there you were, taking out opponents like a golden whirlwind sweeping away weeds and grass...
+
+- **Traveler:** Ugh, please, spare me the flattery.
+
+- **Traveler:** ...Go on, don't stop.
+
+**Kayabuki Ikkei:** Ahem... "Spectators with the keen eyes of a swordmaster must have noticed it — the blond-haired outsider was unleashing Kouranka Daitatsumaki, a technique that was deemed forbidden even amongst ancient martial arts...!"
+
+?
+
+**Kayabuki Ikkei:** Having been inspired by your marvelous fight, I wrote this story.
+
+**Kayabuki Ikkei:** Anyway, some people have organized another Hyakunin Ikki recently.
+
+- **Traveler:** What is this Hyakunin Ikki?
+
+- **Traveler:** I see...
+
+**Kayabuki Ikkei:** It's a free-for-all tournament whereby people engage in a hearty fight to celebrate, or simply to eliminate bad luck. It's a festival where both martial artists and monsters put their grievances aside and forget their identities, just to enjoy the sheer excitement of fighting.
+
+**Kayabuki Ikkei:** They say that those who stand out from the crowd will be awarded various treasures.
+
+**Kayabuki Ikkei:** The identities of the organizers and sponsors are still shrouded in mystery though.
+
+**Kayabuki Ikkei:** Whatever the case, this is not a topic to be discussed out in the open. Follow me...
+
+#### Talk to Kayabuki
+
+**Kayabuki Ikkei:** Here we are.
+
+**Kayabuki Ikkei:** Once we enter this suspicious-looking gate, we'll be in the tournament venue for this iteration of Hyakunin Ikki.
+
+- **Traveler:** Oh, that's pretty exciting.
+
+- **Traveler:** That's quite troublesome.
+
+**Kayabuki Ikkei:** The rules probably have not changed much. Monsters, adventurers, and warriors from across the world, who share a common yearning for fight, will quench their thirst on this stage through passionate battle.
+
+**Kayabuki Ikkei:** Just like last time, feel free to bring your friends and companions! After all, the "Hyakunin" in "Hyakunin Ikki" means the more, the merrier!
+
+**Kayabuki Ikkei:** I'm looking forward to your performance.
+
+Are you not going to participate this time either?
+
+**Kayabuki Ikkei:** Oh, of course I will — as a spectator, cheering you on!
+
+**Kayabuki Ikkei:** After all, what I aspire to do is write the most thrilling action novels, not become a gallant warrior like you.
+
+**Kayabuki Ikkei:** ...And my gut tells me that your star will shine brightest in this arena.
+
+- **Traveler:** I will do my best.
+
+- **Traveler:** Wait to be impressed.
+
+**Kayabuki Ikkei:** Yes, I'm sure you'll show me the most dazzling blade-dance again this time.
+
+## ZH
+
+### 「百人一揆·黄金旋风」
+
+距离上次的「百人一揆」结束已经有一段时间了，而茅葺再次出现在了稻妻城里…
+
+#### 与茅葺对话
+
+**茅葺一庆:** 嗨！那边那位金发异乡人…
+
+- **旅行者:** 又见面了。
+
+- **旅行者:** 有什么委托吗？
+
+**茅葺一庆:** 嗯…你这头金发，越看越眼熟…难道是…
+
+**茅葺一庆:** 啊，对了！是上次「百人一揆」中，表现无比亮眼的「黄金旋风」…
+
+黄、黄金旋风…？
+
+**茅葺一庆:** 上次，我在乱斗的场馆一隅，观察着参加者的活跃表现，想将其中最为精彩的场面收为素材。而你战斗的身姿，如刈草的黄金之风一般，横扫各路敌手…
+
+- **旅行者:** 奉承的话就免了。
+
+- **旅行者:** …再多说点？
+
+**茅葺一庆:** 咳咳…「想必观众当中拥有剑豪般动态视力的人已经看出来了，这位金发异人所使用的正是在古武术中也被视为禁忌的『苟兰茄大龙卷』…！」
+
+？
+
+**茅葺一庆:** 这是受你战斗的身影启发，而写的情节。
+
+**茅葺一庆:** 无论如何，最近又有好事之徒举办「百人一揆」了。
+
+- **旅行者:** 「百人一揆」是什么来着？
+
+- **旅行者:** 原来如此，我明白了。
+
+**茅葺一庆:** 通过酣畅淋漓的打斗，来进行庆祝、或者消除晦气的乱斗大会。无论是武人还是魔物，都能摈弃成见不问身份，在其中为了纯粹的热血而混战的祭典。
+
+**茅葺一庆:** 在其中脱颖而出者，据说也能得到各种宝藏。
+
+**茅葺一庆:** 虽然举办者、赞助者究竟是何许人也，至今都是谜团就是了。
+
+**茅葺一庆:** 总之，这些事情不适合在人多口杂的地方讨论。跟我来…
+
+#### 与茅葺对话
+
+**茅葺一庆:** 我们到了。
+
+**茅葺一庆:** 只要踏入这扇看起来十分可疑的大门，就能进入这回的战斗场馆。
+
+- **旅行者:** 好兴奋。
+
+- **旅行者:** 好麻烦。
+
+**茅葺一庆:** 这次的规则和上次应该差不多。来自世界各地，渴求争斗的魔物、冒险者、战士，在它的舞台上酣畅淋漓地大打出手。
+
+**茅葺一庆:** 与之前一样，你可以和志同道合的同伴、战友一起去参战。毕竟，所谓「百人」，自然是人数越多越好啦。
+
+**茅葺一庆:** 我很期待你的表现。
+
+这次你也不参加吗？
+
+**茅葺一庆:** 我吗？我会以旁观者的身份参与，为你喝彩。
+
+**茅葺一庆:** 毕竟，我的目标还是写出最精彩的格斗小说，而不是成为像你这样耀眼的战士。
+
+**茅葺一庆:** 而我的直觉告诉我，你一定会是格斗场上最耀眼的明星。
+
+- **旅行者:** 我会尽力。
+
+- **旅行者:** 拭目以待吧。
+
+**茅葺一庆:** 嗯。想必这次你也能展现出耀眼无比的剑之舞吧。

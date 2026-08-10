@@ -3,7 +3,7 @@
 # title_ru: Мир - холст!
 # title_en: The World Is Your Canvas!
 # title_zh: 畅玩！举目之处皆为画布！
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 10246
@@ -660,7 +660,7 @@
 
 **Муалани:** Солнце! Море! Кохолазавры!
 
-**Паймон:** Она от радости даже забыла, что её древнее имя - Умо{RUBY#[S]Единство}джа...
+**Паймон:** Она от радости даже забыла, что её древнее имя - УмоЕдинстводжа...
 
 **Муалани:** Сюда, сюда! Ну же, скорее! Побежали!
 
@@ -824,7 +824,7 @@
 
 **Туксина:** А... О чём это она?
 
-**Часка:** Думаю, ты её не знаешь. Это Муалани Умо{RUBY#[S]Единство}джа.
+**Часка:** Думаю, ты её не знаешь. Это Муалани УмоЕдинстводжа.
 
 **Туксина:** Муалани... Стоп. Муалани?!
 
@@ -2326,7 +2326,7 @@ Mualani told you about the many aquatic attractions on offer at Wavey Bay...
 
 **Mualani:** Sunshine, waves, and koholasaurs!
 
-**Paimon:** Aaand the minute she sees the water, it's like the rest of us don't exist. Paimon thought "Umo{RUBY#[S]Unity}ja" meant no person left behind...
+**Paimon:** Aaand the minute she sees the water, it's like the rest of us don't exist. Paimon thought "UmoUnityja" meant no person left behind...
 
 **Mualani:** Quick, this way! C'mon guys, stop lollygagging... Let's go!
 
@@ -2490,7 +2490,7 @@ Mualani told you about the many aquatic attractions on offer at Wavey Bay...
 
 **Tuksina:** Huh? But... I don't see how you could possibly...
 
-**Chasca:** Ah, that's because you've never met her before. This is "Umo{RUBY#[S]Unity}ja" Mualani.
+**Chasca:** Ah, that's because you've never met her before. This is "UmoUnityja" Mualani.
 
 **Tuksina:** Mualani... Wait a sec, THE Mualani!?
 
@@ -3988,7 +3988,7 @@ Speak from the heart.
 
 **玛拉妮:** 阳光！海浪！鳍游龙！
 
-**派蒙:** 她激动得好像忘了自己的古名是「沃摩{RUBY#[S]团结}延」…
+**派蒙:** 她激动得好像忘了自己的古名是「沃摩团结延」…
 
 **玛拉妮:** 快来呀，这边这边！哎呀，快一点嘛，用跑的！
 
@@ -4152,7 +4152,7 @@ Speak from the heart.
 
 **图西娜:** 啊？…她在说什么？
 
-**恰斯卡:** 我猜你可能没和她见过面，这位是「沃摩{RUBY#[S]团结}延」的玛拉妮。
+**恰斯卡:** 我猜你可能没和她见过面，这位是「沃摩团结延」的玛拉妮。
 
 **图西娜:** 玛拉妮…等等，玛拉妮…？！
 

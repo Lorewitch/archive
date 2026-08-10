@@ -11,10 +11,10 @@
 # chapter_num_en: Lupus Aureus Chapter: Act I
 # chapter_num_zh: 金狼之章 第一幕
 # part_source_ids: 13009,13010,13011
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_lq_2049
-# quest_chain: quest_lq_2032,quest_lq_2049
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_lq_2032
 # quest_series: Lupus Aureus Chapter
 # version_source: wiki_release_category
 

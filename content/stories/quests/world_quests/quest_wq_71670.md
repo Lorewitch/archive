@@ -3,15 +3,15 @@
 # title_ru: Мрачный натиск
 # title_en: Tumult Subduer
 # title_zh: 肃靖险乱
-# region: Ли Юэ
+# region: Тейват
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 71670
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71670
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_71671
 # related_quests: quest_wq_71671
 # quest_chain: quest_wq_71670,quest_wq_71671

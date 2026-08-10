@@ -3,7 +3,7 @@
 # title_ru: Страна кинофантазий, построенная за ночь
 # title_en: An Overnight Fantasyland
 # title_zh: 一夜建成的乐园
-# region: Фонтейн
+# region: Тейват
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 10232
@@ -11,7 +11,7 @@
 # chapter_num_en: Whirling Waltz: Act I
 # chapter_num_zh: 和旋舞剧·第一幕
 # part_source_ids: 40189,40194
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10233
 # related_quests: quest_eq_10233,quest_eq_10234,quest_eq_10235
 # quest_chain: quest_eq_10232,quest_eq_10233,quest_eq_10234,quest_eq_10235

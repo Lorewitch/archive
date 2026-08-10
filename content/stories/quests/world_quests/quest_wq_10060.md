@@ -3,19 +3,19 @@
 # title_ru: Скорбная песнь Гипериона
 # title_en: Hyperion's Dirge
 # title_zh: 许伯利翁哀歌
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 10060
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72241,72247,72248,72249
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10060
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -68,7 +68,7 @@
 
 **Абэраку:** Они стали использовать народ, внушая им, что надо поклоняться Дайнити Микоси. А народ дошёл в своём невежестве до предела, начав верить в неодушевлённые предметы.
 
-**Абэраку:** В конце концов они провозгласили власть Сына С{RUBY#[D]Фаэтона}олнца.
+**Абэраку:** В конце концов они провозгласили власть Сына СФаэтонаолнца.
 
 Сына Солнца?
 
@@ -161,7 +161,7 @@
 
 **Абэраку:** ...Дайнити Микоси.
 
-**Абэраку:** Гелиос - это Дайнити Микоси, солнечная колесница, которая везёт Гипе{RUBY#[S]Бякуя но Хикари}рион.
+**Абэраку:** Гелиос - это Дайнити Микоси, солнечная колесница, которая везёт ГипеБякуя но Хикаририон.
 
 - **Путешественник:** Создатель Дайнити Микоси?
 
@@ -223,7 +223,7 @@
 
 **Абэраку:** Они стали использовать народ, внушая им, что надо поклоняться Дайнити Микоси. А народ дошёл в своём невежестве до предела, начав верить в неодушевлённые предметы.
 
-**Абэраку:** В конце концов они провозгласили власть Сына С{RUBY#[D]Фаэтона}олнца.
+**Абэраку:** В конце концов они провозгласили власть Сына СФаэтонаолнца.
 
 Сына Солнца?
 
@@ -618,7 +618,7 @@ According to the spirit named Aberaku, he can only find peace if you collect the
 
 **Aberaku:** And so they used the people, leading them unto the worship of the Dainichi Mikoshi, leading them into the folly of believing in such vain and dead objects.
 
-**Aberaku:** In the end, they even proclaimed the rule of the "Sunc{RUBY#[S]Phaethon}hild" over the land.
+**Aberaku:** In the end, they even proclaimed the rule of the "SuncPhaethonhild" over the land.
 
 The Sunchild?
 
@@ -710,7 +710,7 @@ This is too precious a gift...
 
 **Aberaku:** The Dainichi Mikoshi.
 
-**Aberaku:** Helios is the Dainichi Mikoshi, the solar chariot that drives the Hype{RUBY#[S]Byakuya no Hikari}rion.
+**Aberaku:** Helios is the Dainichi Mikoshi, the solar chariot that drives the HypeByakuya no Hikaririon.
 
 - **Traveler:** So you're the creator of the Dainichi Mikoshi?
 
@@ -772,7 +772,7 @@ This is too precious a gift...
 
 **Aberaku:** And so they used the people, leading them unto the worship of the Dainichi Mikoshi, leading them into the folly of believing in such vain and dead objects.
 
-**Aberaku:** In the end, they even proclaimed the rule of the "Sunc{RUBY#[S]Phaethon}hild" over the land.
+**Aberaku:** In the end, they even proclaimed the rule of the "SuncPhaethonhild" over the land.
 
 The Sunchild?
 
@@ -1166,7 +1166,7 @@ Best not to eat them all the same.
 
 **阿倍良久:** 这些人利用民众，开始推行大日御舆崇拜。将人心寄托于虚妄死物已是愚昧至极。
 
-**阿倍良久:** 到了最后…甚至推举「太阳{RUBY#[D]法厄同}之子」以统治白夜之国。
+**阿倍良久:** 到了最后…甚至推举「太阳法厄同之子」以统治白夜之国。
 
 太阳之子？
 
@@ -1258,7 +1258,7 @@ Best not to eat them all the same.
 
 **阿倍良久:** 大日御舆。
 
-**阿倍良久:** 赫利俄斯即大日御舆，运载「许伯{RUBY#[D]白夜之光}利翁」的太阳之车。
+**阿倍良久:** 赫利俄斯即大日御舆，运载「许伯白夜之光利翁」的太阳之车。
 
 - **旅行者:** 大日御舆的建造者？
 
@@ -1320,7 +1320,7 @@ Best not to eat them all the same.
 
 **阿倍良久:** 这些人利用民众，开始推行大日御舆崇拜。将人心寄托于虚妄死物已是愚昧至极。
 
-**阿倍良久:** 到了最后…甚至推举「太阳{RUBY#[D]法厄同}之子」以统治白夜之国。
+**阿倍良久:** 到了最后…甚至推举「太阳法厄同之子」以统治白夜之国。
 
 太阳之子？
 

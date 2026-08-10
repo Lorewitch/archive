@@ -3,13 +3,13 @@
 # title_ru: Изменчивый лунный свет
 # title_en: Shifting Moonlight
 # title_zh: 月色千变
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76050
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76050
 # previous_quests: quest_wq_76054,quest_wq_76086
 # next_quests: quest_wq_76049,quest_wq_76084

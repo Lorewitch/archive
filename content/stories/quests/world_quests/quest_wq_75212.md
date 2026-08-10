@@ -3,19 +3,19 @@
 # title_ru: Следы цвета
 # title_en: Traces of Chroma
 # title_zh: 流彩的踪迹
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 75212
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75212
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75212
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

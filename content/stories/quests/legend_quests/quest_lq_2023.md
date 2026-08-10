@@ -11,7 +11,7 @@
 # chapter_num_en: Imperatrix Umbrosa Chapter: Act I
 # chapter_num_zh: 天下人之章 第一幕
 # part_source_ids: 12015,12016,12017,12018,12019
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2027
 # related_quests: quest_lq_2027
 # quest_chain: quest_lq_2023,quest_lq_2027

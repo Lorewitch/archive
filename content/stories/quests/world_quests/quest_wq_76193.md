@@ -3,19 +3,19 @@
 # title_ru: Особое исследование: Мелюзина?
 # title_en: Special Research: Melusine?
 # title_zh: 特别调查·美露莘？
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76193
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76193
 # previous_quests: quest_wq_76191,quest_wq_76192
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_76191,quest_wq_76192
 # quest_chain: quest_wq_76191,quest_wq_76192,quest_wq_76193
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -52,7 +52,7 @@
 
 **Мамер:** Нельзя называть людей странными, Сеймур.
 
-**Мамер:** Невысокая волшебная госпожа красивого цвета. Хоть и не такая, как От{RUBY#[D]Элинас}ец, но тёплая, очень приятная. Поэтому она не странная.
+**Мамер:** Невысокая волшебная госпожа красивого цвета. Хоть и не такая, как ОтЭлинасец, но тёплая, очень приятная. Поэтому она не странная.
 
 **Сеймур:** Ответ отрицательный. За исключением фиолетового, цвет обычно не связан с позицией. Это базовый логический вывод, госпожа Мамер.
 
@@ -118,7 +118,7 @@ An extraordinary Melusine was spotted traveling with a mechanical dog...
 
 **Mamere:** You shouldn't just go around calling people weirdos, Seymour.
 
-**Mamere:** This small fairy lady has really pretty colors. She's not like Fa{RUBY#[D]Elynas}ther, but she feels warm and looks nice. That means she's not a weirdo.
+**Mamere:** This small fairy lady has really pretty colors. She's not like FaElynasther, but she feels warm and looks nice. That means she's not a weirdo.
 
 **Seymour:** Negative. With the exception of purple, coloration generally bears no relation to one's moral alignment. This is a basic principle of deductive reasoning, Miss Mamere.
 
@@ -184,7 +184,7 @@ An extraordinary Melusine was spotted traveling with a mechanical dog...
 
 **玛梅赫:** 不可以随便说别人是奇怪的人啦，西摩尔。
 
-**玛梅赫:** 个子不怎么高的妖精小姐，颜色很漂亮。虽然不像父亲{RUBY#[D]厄里那斯}大人，但是暖暖的，很好看。所以不是奇怪的人。
+**玛梅赫:** 个子不怎么高的妖精小姐，颜色很漂亮。虽然不像父亲厄里那斯大人，但是暖暖的，很好看。所以不是奇怪的人。
 
 **西摩尔:** 否定。除紫色外，颜色通常与立场无关。这是基本的逻辑推理，玛梅赫小姐。
 

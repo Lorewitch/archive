@@ -3,18 +3,18 @@
 # title_ru: Выступление в лесу
 # title_en: Encounter in the Woods
 # title_zh: 林中小曲
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73248
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73248
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
-# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082,quest_wq_73248
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_73248
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 

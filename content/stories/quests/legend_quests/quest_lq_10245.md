@@ -3,7 +3,7 @@
 # title_ru: В путь! Беззаботные каникулы?
 # title_en: To a Carefree Vacation!
 # title_zh: 出发！无忧无虑的度假之旅？
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 10245
@@ -11,7 +11,7 @@
 # chapter_num_en: Sunspray Summer Resort: Part I
 # chapter_num_zh: 绘夏！烈日？度假村！其一
 # part_source_ids: 15039
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_10246
 # related_quests: quest_lq_10246,quest_lq_10247,quest_lq_10248
 # quest_chain: quest_lq_10245,quest_lq_10246,quest_lq_10247,quest_lq_10248

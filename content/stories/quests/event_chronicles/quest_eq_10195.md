@@ -13,8 +13,8 @@
 # part_source_ids: 40165
 # previous_quests: quest_eq_10194
 # next_quests: quest_wq_73532
-# related_quests: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_wq_73532,quest_wq_79060,quest_wq_79062,quest_wq_79065,quest_wq_79066,quest_wq_79067,quest_wq_79071,quest_wq_79072,quest_wq_79073,quest_wq_79074,quest_wq_79079
-# quest_chain: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532,quest_wq_79060,quest_wq_79062,quest_wq_79065,quest_wq_79066,quest_wq_79067,quest_wq_79071,quest_wq_79072,quest_wq_79073,quest_wq_79074,quest_wq_79079
+# related_quests: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_wq_73532
+# quest_chain: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532
 # quest_series: Summertide Scales and Tales
 # version_source: wiki_release_category
 
@@ -253,13 +253,13 @@
 
 **Фишль:** Что ж. В таком случае принцесса Нирваны Ночи шлёт вам свой привет, Ночной Дракон из Мира тысячи звёзд и его шляпоносный прислужник.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Кого ты назвала прислужником?
+**Странник:** Кого ты назвала прислужником?
 
 **Оз:** Слова миледи означают: «Привет, рада с вами познакомиться!»
 
 **Мини-Дурин:** Привет! Мы тоже рады с вами познакомиться! Но Мастер Шляпка мой друг, а вовсе не прислужник.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Пф. Это не обязательно объяснять.
+**Странник:** ...Пф. Это не обязательно объяснять.
 
 **Паймон:** Мастер Шляпка, Дурин! Вот вы где! Ого, и Фишль с вами!
 
@@ -291,7 +291,7 @@
 
 **Мини-Дурин:** Ого... Спасибо, Кли! Мастер Шляпка, можно я поиграю с Кли?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Как хочешь.
+**Странник:** Как хочешь.
 
 **Кли:** Альбедо, Альбедо, можно...
 
@@ -309,7 +309,7 @@
 
 **Альбедо:** Вернёмся к нашему разговору. Мастер Шляпка, ты говорил о пророчестве...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я слышал, как Б. говорила М. следующее...
+**Странник:** Я слышал, как Б. говорила М. следующее...
 
 **«Б.»:** Раз уж ты так настаиваешь, я расскажу тебе один секрет...
 
@@ -319,7 +319,7 @@
 
 Я тоже впервые об этом слышу...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я слышал это в воспоминаниях. Так что могу и ошибаться.
+**Странник:** Я слышал это в воспоминаниях. Так что могу и ошибаться.
 
 **Альбедо:** Понятно. Мои последние наблюдения, сделанные на Драконьем хребте, только подтверждают пророчество.
 
@@ -329,7 +329,7 @@
 
 **Альбедо:** Для начала нужно выработать план действий для любого из возможных сценариев. Включая самый опасный...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Альбедо:** Мне известно о прошлом Дурина, и я очень не хотел бы такого развития событий. Но мы должны быть готовы ко всему.
 
@@ -341,7 +341,7 @@
 
 **Альбедо:** Поэтому... Могу я попросить тебя, Мастер Шляпка, вместе с Дурином из Симуланки прийти нам на помощь, когда пробьёт назначенный час?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А? Но при чём тут я?
+**Странник:** А? Но при чём тут я?
 
 **Альбедо:** Ты спас Дурина в мире Симуланки. Сомневаюсь, что это совпадение.
 
@@ -351,7 +351,7 @@
 
 **Альбедо:** Если Дурин с Драконьего хребта воскреснет из мёртвых, нам понадобится помощь Мини-Дурина... и твоя тоже, ведь отныне ваши судьбы связаны.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пф... Вот морока.
+**Странник:** Пф... Вот морока.
 
 **Альбедо:** Да. Это будет совсем не просто.
 
@@ -361,27 +361,27 @@
 
 **Альбедо:** Мастер Шляпка, пожалуйста, подумай над моим предложением.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Мини-Дурин:** Мастер Шляпка, а вот и я! Мм? О чём вы тут говорили?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ни о чём.
+**Странник:** Ни о чём.
 
 **Паймон:** ...
 
 **Мини-Дурин:** Да? Ну ладно. Пойдём к остальным? Они осматривают наш бумажный кораблик!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хорошо. Я скоро приду.
+**Странник:** Хорошо. Я скоро приду.
 
-- **Путешественник:** {REALNAME[ID(1)]}...
+- **Путешественник:** Странник...
 
 - **Путешественник:** ...ты беспокоишься за Дурина?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** С чего бы? Я разве похож на человека, которого заботят чужие проблемы?
+**Странник:** С чего бы? Я разве похож на человека, которого заботят чужие проблемы?
 
 (Он спас Дурина из Симуланки. Может ли это заронить в нём сочувствие к Дурину из нашего мира?..)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хватит пытаться прочесть мои мысли. Я пошёл.
+**Странник:** Хватит пытаться прочесть мои мысли. Я пошёл.
 
 (Ладно, оставим тревоги на потом. Даже Альбедо дал ему время подумать.)
 
@@ -401,9 +401,9 @@
 
 **Мини-Дурин:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Давай назовём его «Дурин».
+**Странник:** Давай назовём его «Дурин».
 
 **Мини-Дурин:** Что? Ты хочешь назвать его моим именем?
 
@@ -415,23 +415,23 @@
 
 **Мини-Дурин:** Слушай... Можно попросить тебя об одном одолжении?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Давай.
+**Странник:** ...Давай.
 
 **Мини-Дурин:** Помнишь, мамина подруга говорила, что я смогу покинуть этот мир? Ну вот... Я хотел бы попасть в ваш мир. Совсем ненадолго, только погуляю немного и сразу назад!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Что?
+**Странник:** ...Что?
 
 **Мини-Дурин:** ...Это значит «нет»?
 
 **Паймон:** А Паймон нравится идея Мини-Дурина! Если жителям Симуланки можно посещать Тейват, почему мы не можем взять с собой Мини-Дурина?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...И мне придётся быть твоим телохранителем?
+**Странник:** ...И мне придётся быть твоим телохранителем?
 
 **Мини-Дурин:** Я... я сам могу за себя постоять! И я буду тебя слушаться, обещаю! Не стану улетать без разрешения. Ну что, ты согласен?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Ты должен будешь держаться рядом. Если потеряешься, я тебя искать не собираюсь.
+**Странник:** ...Ты должен будешь держаться рядом. Если потеряешься, я тебя искать не собираюсь.
 
 **Мини-Дурин:** Да! Я буду хвостиком за тобой летать!
 
@@ -445,7 +445,7 @@
 
 **Мини-Дурин:** Класс! Теперь у меня столько друзей! Я такой счастливый!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм. Ты закончил? Если не передумал ехать, нам пора.
+**Странник:** Хм. Ты закончил? Если не передумал ехать, нам пора.
 
 Доброго пути.
 
@@ -688,13 +688,13 @@ Maybe she did when she was younger.
 
 **Fischl:** Very well. Then, as sovereign ruler of the Immernachtreich, I extend to you both my greetings, O Night Dragon from the Land of the Thousand Stars, and his hat-wearing servant.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Who did you just call a servant?
+**Wanderer:** Who did you just call a servant?
 
 **Oz:** What Mein Fräulein means to say is, "Hello, it's a pleasure to meet you."
 
 **Mini Durin:** Pleasure to meet you too! But Hat Guy's not my servant, he's my friend.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Now you're over-explaining.
+**Wanderer:** Now you're over-explaining.
 
 **Paimon:** Hat Guy, Mini Durin! Found you at last! Whoa, and Fischl's with you, too?
 
@@ -726,7 +726,7 @@ You're part of the family now!
 
 **Mini Durin:** Wow... Thank you, Klee! Can I go play with Klee, Hat Guy?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Suit yourself.
+**Wanderer:** Suit yourself.
 
 **Klee:** Albedo, Albedo, can I—
 
@@ -744,7 +744,7 @@ You're part of the family now!
 
 **Albedo:** To return to our previous discussion, Mr. Hat Guy, you were telling me about a prophecy?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I heard B talking to M. What she said was...
+**Wanderer:** I heard B talking to M. What she said was...
 
 **"B":** Since you're so persistent, let me tell you a secret...
 
@@ -754,7 +754,7 @@ You're part of the family now!
 
 I'm shocked...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I only heard it in a memory. So don't hold me to it.
+**Wanderer:** I only heard it in a memory. So don't hold me to it.
 
 **Albedo:** Understood. My recent observations at Dragonspine lend credence to this prophecy as well.
 
@@ -764,7 +764,7 @@ I'm shocked...
 
 **Albedo:** To start with, plan for every potential scenario. Including, of course, the worst-case scenario...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Albedo:** I am well aware of Durin's past, and I sincerely hope that things never escalate to that point. Still, we need to be prepared for every possibility.
 
@@ -776,7 +776,7 @@ I'm shocked...
 
 **Albedo:** And so... When the time comes, Mr. Hat Guy, will you and Simulanka's Durin be willing to lend us a hand in our hour of need?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Huh? What's this got to do with me?
+**Wanderer:** Huh? What's this got to do with me?
 
 **Albedo:** You saved the Durin of this world. I don't see that as a mere coincidence.
 
@@ -786,7 +786,7 @@ I'm shocked...
 
 **Albedo:** If Durin of Dragonspine will soon come back to life, we will need Mini Durin's help... as well as yours, given that your fates are now intertwined.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Well, that's a nuisance.
+**Wanderer:** Well, that's a nuisance.
 
 **Albedo:** To be sure. It certainly won't be easy.
 
@@ -796,27 +796,27 @@ I'm shocked...
 
 **Albedo:** Please give my suggestion some thought, Mr. Hat Guy.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Mini Durin:** Hat Guy, I'm back! ...Hmm? What were you guys talking about?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Nothing.
+**Wanderer:** Nothing.
 
 **Paimon:** ...
 
 **Mini Durin:** Huh? Okay then. Let's go join the others. Everyone's going to check out the new origami ship!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Alright. I'll be right there.
+**Wanderer:** ...Alright. I'll be right there.
 
-- **Traveler:** {REALNAME[ID(1)]}...
+- **Traveler:** Wanderer...
 
 - **Traveler:** Are you worried about Durin?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Why would I be? Do I strike you as someone who cares about other people's issues?
+**Wanderer:** Why would I be? Do I strike you as someone who cares about other people's issues?
 
 (Now that he's saved Simulanka's Durin, maybe he'll be sympathetic to the Durin of our world...?)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Quit trying to guess what I'm thinking. I'm leaving.
+**Wanderer:** Quit trying to guess what I'm thinking. I'm leaving.
 
 (Hmm, Albedo was right. He needs time to think about it for himself.)
 
@@ -836,9 +836,9 @@ I'm shocked...
 
 **Mini Durin:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Let's go with "The Durin."
+**Wanderer:** Let's go with "The Durin."
 
 **Mini Durin:** Huh? You want to name it after me?
 
@@ -850,23 +850,23 @@ I'm shocked...
 
 **Mini Durin:** Also... Can I ask you a favor?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Go on.
+**Wanderer:** ...Go on.
 
 **Mini Durin:** Remember how Mom's friend said I should be able to leave this world? Well... I want to pay a visit to your world. Just a quick trip! Can we?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Huh?
+**Wanderer:** ...Huh?
 
 **Mini Durin:** ...I—Is that a no?
 
 **Paimon:** Paimon thinks that's a great idea. If the people of Simulanka are allowed to go to Teyvat, then what's the problem with taking Mini Durin there for a visit?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...I'm assuming I'll have to be your bodyguard while we're there?
+**Wanderer:** ...I'm assuming I'll have to be your bodyguard while we're there?
 
 **Mini Durin:** I... I can protect myself! And I'll do what you say, I won't fly off on my own, I promise! Please, can I go?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...It'll be up to you to stick close. If you disappear on me, don't expect me to come looking.
+**Wanderer:** ...It'll be up to you to stick close. If you disappear on me, don't expect me to come looking.
 
 **Mini Durin:** Got it! I'll stick close!
 
@@ -880,7 +880,7 @@ I'm shocked...
 
 **Mini Durin:** Cool! Ah, I have so many new friends now... I'm so happy!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Are you done yet? If you want to leave, then get over here.
+**Wanderer:** Are you done yet? If you want to leave, then get over here.
 
 Take care.
 
@@ -1124,13 +1124,13 @@ Take care.
 
 **菲谢尔:** 那我将以幽夜净土的王室之礼向二位行以问候。千星之国的至高夜龙，以及他身侧冠帽的扈从。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你说谁是扈从？
+**流浪者:** 你说谁是扈从？
 
 **奥兹:** 小姐的意思是，二位好，很高兴认识你们。
 
 **小杜林:** 你们好！我也很高兴认识你们，但阿帽是我的朋友，不是扈从。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …啧，没必要解释。
+**流浪者:** …啧，没必要解释。
 
 **派蒙:** 阿帽！小杜林！终于找到你们了！哇，还有菲谢尔你们也在？
 
@@ -1162,7 +1162,7 @@ Take care.
 
 **小杜林:** 哇…谢谢可莉！阿帽，我能和可莉一起去玩吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 随你便。
+**流浪者:** 随你便。
 
 **可莉:** 阿贝多哥哥，阿贝多哥哥…
 
@@ -1180,7 +1180,7 @@ Take care.
 
 **阿贝多:** 说回刚才的话题，阿帽先生，你所说的预言一事…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我当时听到「B」对「M」这么说——
+**流浪者:** 我当时听到「B」对「M」这么说——
 
 **魔女B:** 看在你这么执着的份上，我就告诉你一个秘密吧…
 
@@ -1190,7 +1190,7 @@ Take care.
 
 我也很惊讶…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 都是记忆中的景象，错了也别赖到我头上。
+**流浪者:** 都是记忆中的景象，错了也别赖到我头上。
 
 **阿贝多:** 我明白了。我最近在龙脊雪山的观察结果也佐证了这个预言。
 
@@ -1200,7 +1200,7 @@ Take care.
 
 **阿贝多:** 先制定应对各种情况的策略，当然也包括最坏的情况…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **阿贝多:** 我了解杜林的过去，并不希望事态发展到那一步。但凡事都需做好充足的准备。
 
@@ -1212,7 +1212,7 @@ Take care.
 
 **阿贝多:** 为此…阿帽先生，届时能请你和希穆兰卡的杜林也助我们一臂之力吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啊？还有我的事？
+**流浪者:** 啊？还有我的事？
 
 **阿贝多:** 你在希穆兰卡的世界拯救了杜林，我认为这不是偶然。
 
@@ -1222,7 +1222,7 @@ Take care.
 
 **阿贝多:** 如果龙脊雪山的杜林将要复活，我们会需要小杜林…以及与其命运交错的你的帮助。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧…麻烦。
+**流浪者:** 啧…麻烦。
 
 **阿贝多:** 的确不会容易。
 
@@ -1232,27 +1232,27 @@ Take care.
 
 **阿贝多:** 请再考虑一下我的建议，阿帽先生。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **小杜林:** 阿帽，我回来了。嗯？你们刚才聊什么了吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没什么。
+**流浪者:** 没什么。
 
 **派蒙:** ……
 
 **小杜林:** 嗯？那我们也一起过去吧，大家都在我们新做的小船那里呢！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …好，我这就来。
+**流浪者:** …好，我这就来。
 
-- **旅行者:** {REALNAME[ID(1)]}…
+- **旅行者:** 流浪者…
 
 - **旅行者:** 你在担心杜林吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 干嘛？我像是那种会在乎别人破事的人吗？
+**流浪者:** 干嘛？我像是那种会在乎别人破事的人吗？
 
 （拯救了希穆兰卡的杜林之后，他会不会同情起现实中的杜林呢…）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 别在这乱猜我的想法，走了。
+**流浪者:** 别在这乱猜我的想法，走了。
 
 （就像阿贝多说的，留给以后再考虑吧…）
 
@@ -1272,9 +1272,9 @@ Take care.
 
 **小杜林:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 就叫「杜林号」吧。
+**流浪者:** 就叫「杜林号」吧。
 
 **小杜林:** 欸？我的名字？
 
@@ -1286,23 +1286,23 @@ Take care.
 
 **小杜林:** 那个…阿帽，能求你一件事吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …说。
+**流浪者:** …说。
 
 **小杜林:** 之前妈妈的朋友不是说我能出去吗？我…我想去阿帽你生活的世界看看，看一下就回来！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …哈？
+**流浪者:** …哈？
 
 **小杜林:** 不…不行吗？
 
 **派蒙:** 这不是挺好吗？希穆兰卡的人本来就可以出去，带小杜林出去转转也没什么吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …我还得在外面保护你的安全？
+**流浪者:** …我还得在外面保护你的安全？
 
 **小杜林:** 我…我会保护好自己的，也会听你话，绝不乱飞！可以吗…？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …在外面我可不管你，自己跟紧了。
+**流浪者:** …在外面我可不管你，自己跟紧了。
 
 **小杜林:** 好！我知道了！
 
@@ -1316,7 +1316,7 @@ Take care.
 
 **小杜林:** 嗯！认识了这么多新朋友，我很开心！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧…还有完没完？要走的话就赶紧上来。
+**流浪者:** 啧…还有完没完？要走的话就赶紧上来。
 
 一路顺风。
 

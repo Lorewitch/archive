@@ -3,19 +3,19 @@
 # title_ru: Гость из Ли Юэ
 # title_en: A Guest From Liyue
 # title_zh: 璃月来客
-# region: Мондштадт
+# region: Тейват
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 70672
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70672
 # previous_quests: quest_wq_10106,quest_wq_70526
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_10106,quest_wq_70526
 # quest_chain: quest_wq_10106,quest_wq_70526,quest_wq_70672
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -3,13 +3,13 @@
 # title_ru: Где прячется луна?
 # title_en: Where Does the Moon Hide?
 # title_zh: 月亮藏在哪
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76119
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76119
 # previous_quests: quest_wq_76120,quest_wq_76121
 # next_quests: quest_wq_76123

@@ -12,9 +12,9 @@
 # chapter_num_zh: 未归的熄星 其四
 # part_source_ids: 41114
 # previous_quests: quest_eq_10008
-# next_quests: 
-# related_quests: quest_eq_10006,quest_eq_10007,quest_eq_10008,quest_wq_41120,quest_wq_41122,quest_wq_41123,quest_wq_41124,quest_wq_41126,quest_wq_41127,quest_wq_41130,quest_wq_41131,quest_wq_41135
-# quest_chain: quest_eq_10006,quest_eq_10007,quest_eq_10008,quest_eq_10009,quest_wq_41120,quest_wq_41122,quest_wq_41123,quest_wq_41124,quest_wq_41126,quest_wq_41127,quest_wq_41130,quest_wq_41131,quest_wq_41135
+# next_quests:
+# related_quests: quest_eq_10006,quest_eq_10007,quest_eq_10008
+# quest_chain: quest_eq_10006,quest_eq_10007,quest_eq_10008,quest_eq_10009
 # quest_series: Unreconciled Stars
 # version_source: wiki_release_category
 

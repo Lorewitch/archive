@@ -3,19 +3,19 @@
 # title_ru: Пока длится мечта
 # title_en: For a Dream I Tarry
 # title_zh: 趁梦想气息逗留
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73109
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73109
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73109
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -598,7 +598,7 @@ Fine...
 
 - **旅行者:** 加油啊！
 
-**阿米:** 嗯！谢谢你，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，我想想…我还要再种一盆甜甜花，然后再种什么好呢…
+**阿米:** 嗯！谢谢你，空/荧，我想想…我还要再种一盆甜甜花，然后再种什么好呢…
 
 **贾维:** 看来这孩子是真心喜欢种花啊，希望她能一直坚持自己的梦想…
 

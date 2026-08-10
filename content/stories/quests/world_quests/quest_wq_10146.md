@@ -11,7 +11,7 @@
 # chapter_num_en: Ann of the Narzissenkreuz: Act I
 # chapter_num_zh: 水仙的安·第一幕
 # part_source_ids: 74001,74002
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10148
 # related_quests: quest_wq_10142,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_10143,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
 # quest_chain: quest_wq_10142,quest_wq_10146,quest_wq_10148,quest_wq_10149,quest_wq_10150,quest_wq_10151,quest_wq_74056,quest_wq_74120,quest_wq_10143,quest_wq_74134,quest_wq_74135,quest_wq_10152,quest_wq_10153,quest_wq_10154,quest_wq_10155
@@ -1205,7 +1205,7 @@
 
 **Ал:** Сердечно благодарю тебя, рыцарь Путешественник. А теперь...
 
-**Ал:** Увы, боюсь, что никто из на{RUBY#[D]Отряда героев Нарциссенкрейца}с не знает, что будет дальше.
+**Ал:** Увы, боюсь, что никто из наОтряда героев Нарциссенкрейцас не знает, что будет дальше.
 
 **Пти Шу:** Но раз печать с башни принцессы снята, пора приниматься за дело и побыстрее, правда?
 
@@ -2549,7 +2549,7 @@ Like this?
 
 **Al:** My thanks, Traveler. Now...
 
-**Al:** Unfortunately, I fear that none of us{RUBY#[S]Narzissenkreuz Adventure Team} know what will happen next.
+**Al:** Unfortunately, I fear that none of usNarzissenkreuz Adventure Team know what will happen next.
 
 **Petit Chou:** But since the Princess's tower has been unsealed, we should move as soon as we can, right?
 
@@ -3894,7 +3894,7 @@ You two should be able to get across.
 
 **阿尔:** 由衷感谢你，旅行者骑士。这样一来…
 
-**阿尔:** 很遗憾，接下来会发生什么事情，恐怕我{RUBY#[D]水仙十字冒险团}们谁也不知道。
+**阿尔:** 很遗憾，接下来会发生什么事情，恐怕我水仙十字冒险团们谁也不知道。
 
 **小卷心菜:** 但是，既然现在公主的高塔封印已经解除，我们要尽快行动才行，对吧？
 

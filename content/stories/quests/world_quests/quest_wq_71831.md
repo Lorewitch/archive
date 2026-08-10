@@ -3,16 +3,16 @@
 # title_ru: Дела загробные: Возвращение в горы
 # title_en: Hereafter: Return to the Mountains
 # title_zh: 身后事·归于山中
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 71831
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71831
 # previous_quests: quest_wq_71830
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_71035,quest_wq_71830
 # quest_chain: quest_wq_71035,quest_wq_71830,quest_wq_71831
 # quest_series: Hereafter

@@ -3,19 +3,19 @@
 # title_ru: Алкогольные ингредиенты для Коннора
 # title_en: Connor's Brew
 # title_zh: 康纳的酿酒材料需求
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70705
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70705
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70705
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

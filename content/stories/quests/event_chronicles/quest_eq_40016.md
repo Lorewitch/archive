@@ -7,15 +7,15 @@
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 40016
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 40016
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_eq_40016
-# quest_series: 
+# quest_series:
 # version_source: verified_override
 
 ## RU

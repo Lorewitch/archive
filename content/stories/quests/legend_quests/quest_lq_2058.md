@@ -11,7 +11,7 @@
 # chapter_num_en: A Prayer for Blessings, Told to Crested Peaks: Act I
 # chapter_num_zh: 祈祝福愿，倾告嵴锋 第一幕
 # part_source_ids: 15012
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2059
 # related_quests: quest_lq_2059,quest_lq_2060
 # quest_chain: quest_lq_2058,quest_lq_2059,quest_lq_2060

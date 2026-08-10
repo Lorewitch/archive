@@ -11,11 +11,11 @@
 # chapter_num_en: Lantern Rite: Day 5
 # chapter_num_zh: 海灯节 第五天
 # part_source_ids: 40005
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_eq_10005
-# quest_series: 
+# quest_series:
 # version_source: verified_override
 
 ## RU

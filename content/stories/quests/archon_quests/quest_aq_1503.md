@@ -13,8 +13,8 @@
 # part_source_ids: 5009,5010,5011,5012,5013,5014
 # previous_quests: quest_aq_1502
 # next_quests: quest_aq_1502
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: V
 # version_source: wiki_release_category
 
@@ -460,7 +460,7 @@
 
 **Санхадж:** Запомни своё имя. Даже если остальные увидят в нём другое значение, оно по-прежнему будет символизировать твоё благородство и тоску.
 
-**Оророн:** Моё древнее имя... Бид{RUBY#[D]Преданность}ий.
+**Оророн:** Моё древнее имя... БидПреданностьий.
 
 **Санхадж:** Оно означает «преданность». Ты отдашь все свои силы не ради героической смерти, а ради того, чтобы поступить по справедливости в соответствии с ответом, который ты нашёл в своей жизни.
 
@@ -776,7 +776,7 @@
 
 **Мавуика:** Как я уже говорила, когда человек восходит на божественный трон, его внутреннее пламя пробуждается. Сила пламени зависит от потенциала человека.
 
-**Мавуика:** Тот же принцип действует и в отношении силы Повелит{RUBY#[D]Роновы}ельницы Смерти, с одним существенным отличием... Количество унаследованной силы не меняется в зависимости от способности выдержать её.
+**Мавуика:** Тот же принцип действует и в отношении силы ПовелитРоновыельницы Смерти, с одним существенным отличием... Количество унаследованной силы не меняется в зависимости от способности выдержать её.
 
 **Мавуика:** Другими словами, это сила, которую не каждый может выдержать.
 
@@ -1026,7 +1026,7 @@
 
 **Шилонен:** Если ценой моей жизни все жители Натлана смогут обрести будущее, то эта жертва ничтожна.
 
-**Шилонен:** Даже когда я буду смотреть смерти в лицо, я не думаю, что пожалею об этом решении. Я ношу имя «Бар{RUBY#[D]Благословение}ака». Это часть моего долга.
+**Шилонен:** Даже когда я буду смотреть смерти в лицо, я не думаю, что пожалею об этом решении. Я ношу имя «БарБлагословениеака». Это часть моего долга.
 
 **Владыка Ночи:** Я понимаю. Шанс может быть ничтожно мал, но ты всё равно хочешь им воспользоваться, потому что это может стать последним шагом на пути к победе.
 
@@ -1046,7 +1046,7 @@
 
 **Шилонен:** ...
 
-**Владыка Ночи:** Ключевая часть плана Мавуики - использовать шестерых героев, чтобы высвободить силу, которую Шбаланке получил от Повелит{RUBY#[D]Роновы}ельницы Смерти.
+**Владыка Ночи:** Ключевая часть плана Мавуики - использовать шестерых героев, чтобы высвободить силу, которую Шбаланке получил от ПовелитРоновыельницы Смерти.
 
 **Владыка Ночи:** С учётом её происхождения цена этой силы... смерть.
 
@@ -2234,7 +2234,7 @@
 
 **Паймон:** Наверное, лучше об этом не думать. Главное... как ты себя чувствуешь? Тебе лучше?
 
-**Часка:** Не очень, но сейчас важно другое. Я должна исполнить волю Ву{RUBY#[D]Преодоление}ки.
+**Часка:** Не очень, но сейчас важно другое. Я должна исполнить волю ВуПреодолениеки.
 
 **Часка:** Борьба и страдания испытывают меня на прочность. А испытания рано или поздно обернутся силой.
 
@@ -2544,7 +2544,7 @@
 
 #### Продолжайте своё путешествие
 
-**Буркина:** Видишь? Я первым получил древнее имя! И не просто древнее имя, а Мал{RUBY#[D]Пламя поворота}ипо!
+**Буркина:** Видишь? Я первым получил древнее имя! И не просто древнее имя, а МалПламя поворотаипо!
 
 **Буркина:** Если ты как следует меня попросишь, ещё успеешь присоединиться к моему отряду в Паломничестве...
 
@@ -2552,9 +2552,9 @@
 
 **Мавуика:** «У меня тоже будет древнее имя. Ещё лучше твоего».
 
-**Буркина:** Серьёзно? Ладно, удачи... Только интересно, какое древнее имя в нашем племени может быть лучше, чем Мал{RUBY#[D]Пламя поворота}ипо?
+**Буркина:** Серьёзно? Ладно, удачи... Только интересно, какое древнее имя в нашем племени может быть лучше, чем МалПламя поворотаипо?
 
-**Буркина:** Наверное, Кион{RUBY#[D]Вождь}гози?
+**Буркина:** Наверное, КионВождьгози?
 
 #### Продолжайте своё путешествие
 
@@ -3128,7 +3128,7 @@ Xilonen!
 
 **Sanhaj:** Now, remember your name. Even if others will see a different meaning, it still symbolizes your nobility and yearning.
 
-**Ororon:** My Ancient Name... "Bid{RUBY#[D]Devotion}ii."
+**Ororon:** My Ancient Name... "BidDevotionii."
 
 **Sanhaj:** It means "devotion." You will give your all not for the sake of a heroic death, but to do justice by the answer you've found for your life.
 
@@ -3444,7 +3444,7 @@ You witness the emergence of the fifth hero within the Remnants of the Secret So
 
 **Mavuika:** Like I said before, when a human ascends to the divine throne, their inner flame will awaken. The size of the flame depends on the person's potential.
 
-**Mavuika:** The same principle applies to the Ruler o{RUBY#[D]Ronova}f Death's power, with one notable distinction... The amount of power inherited will not change depending on your ability to tolerate it.
+**Mavuika:** The same principle applies to the Ruler oRonovaf Death's power, with one notable distinction... The amount of power inherited will not change depending on your ability to tolerate it.
 
 **Mavuika:** In other words, it's a kind of power that not everyone can withstand.
 
@@ -3694,7 +3694,7 @@ Yep, let's rest.
 
 **Xilonen:** If giving up my life means that all the people of Natlan can have a future, then the sacrifice is practically negligible.
 
-**Xilonen:** Even when I'm staring death in the face, I don't think I'll regret this decision. I bear the name "Bar{RUBY#[D]Blessing}aka." This is a part of my duty.
+**Xilonen:** Even when I'm staring death in the face, I don't think I'll regret this decision. I bear the name "BarBlessingaka." This is a part of my duty.
 
 **Yohualtecuhtin, Lord of the Night:** I understand. The chance may be exceedingly slim, but you still want to seize it, because this could be the final step to victory.
 
@@ -3714,7 +3714,7 @@ Yep, let's rest.
 
 **Xilonen:** ...
 
-**Yohualtecuhtin, Lord of the Night:** A key part of Mavuika's plan is using the six heroes to release the power Xbalanque obtained from the Ruler o{RUBY#[D]Ronova}f Death.
+**Yohualtecuhtin, Lord of the Night:** A key part of Mavuika's plan is using the six heroes to release the power Xbalanque obtained from the Ruler oRonovaf Death.
 
 **Yohualtecuhtin, Lord of the Night:** Considering its origins, the price of using that power... is death.
 
@@ -4902,7 +4902,7 @@ You're from 500 years ago...
 
 **Paimon:** Probably best not to think about that. More importantly... how are you feeling now? Any better?
 
-**Chasca:** Not really, but now's not the time to deal with it. In the spirit of Vu{RUBY#[D]Transcension}ka, I have to rise above it.
+**Chasca:** Not really, but now's not the time to deal with it. In the spirit of VuTranscensionka, I have to rise above it.
 
 **Chasca:** The conflict and suffering in me are there to test my character. My struggle will make me stronger...
 
@@ -5212,7 +5212,7 @@ I'll see what I can do.
 
 #### Continue "your" journey
 
-**Burkina:** See this? I'm the first one of us to get an ancient name — and not just any ancient name, but Mal{RUBY#[D]Turnfire}ipo!
+**Burkina:** See this? I'm the first one of us to get an ancient name — and not just any ancient name, but MalTurnfireipo!
 
 **Burkina:** If you ask me nicely, there's still time to join my team for the Pilgrimage, y'know...
 
@@ -5220,9 +5220,9 @@ I'll see what I can do.
 
 **Mavuika:** "I'll get my own ancient name soon enough. And it'll be an even better one than yours."
 
-**Burkina:** Oh really? Well, good luck with that... What ancient name could beat Mal{RUBY#[D]Turnfire}ipo in our tribe?
+**Burkina:** Oh really? Well, good luck with that... What ancient name could beat MalTurnfireipo in our tribe?
 
-**Burkina:** Unless... Surely you don't mean Kion{RUBY#[D]Leader}gozi?
+**Burkina:** Unless... Surely you don't mean KionLeadergozi?
 
 #### Continue "your" journey
 
@@ -5796,7 +5796,7 @@ You'll need to stay behind.
 
 **桑哈杰:** ——来吧，想起你的名字。它并非人们常说的那个意义，可也昭示着你的崇高与渴望。
 
-**欧洛伦:** 我的「古名」…「庇{RUBY#[D]奉献}笛」。
+**欧洛伦:** 我的「古名」…「庇奉献笛」。
 
 **桑哈杰:** 意为「奉献」。不是为死而生，而是为了你所寻到的答案。
 
@@ -6112,7 +6112,7 @@ You'll need to stay behind.
 
 **玛薇卡:** 之前我向你们提过，当人类荣登神座之时，会觉醒体内的烈火。而火焰的大小，和这个人类的潜能有关。
 
-**玛薇卡:** 「死之执政」的力量，原理与此一致。但区别在于，「死之{RUBY#[D]若娜瓦}执政」的力量不会考虑载体的承受能力。
+**玛薇卡:** 「死之执政」的力量，原理与此一致。但区别在于，「死之若娜瓦执政」的力量不会考虑载体的承受能力。
 
 **玛薇卡:** 换句话说，不是谁都能承受这种力量。
 
@@ -6362,7 +6362,7 @@ You'll need to stay behind.
 
 **希诺宁:** 和这一切相比，我的生命如果能换来万千人的未来，那实在是微不足道的牺牲。
 
-**希诺宁:** 即便是站在寿命的终点回望此刻的我，我也不认为我会后悔——因为这就是我的使命，「巴{RUBY#[D]祝福}莱卡」之名的意义。
+**希诺宁:** 即便是站在寿命的终点回望此刻的我，我也不认为我会后悔——因为这就是我的使命，「巴祝福莱卡」之名的意义。
 
 **夜神:** 我明白了，即便只是微小的可能性，你也想抓住它，因为它有可能就是成功的最后一块碎片。
 
@@ -6382,7 +6382,7 @@ You'll need to stay behind.
 
 **希诺宁:** ……
 
-**夜神:** 现在计划中关键的一环，是借由六位部族英雄，解放希巴拉克从「死之{RUBY#[D]若娜瓦}执政」那里获得的力量。
+**夜神:** 现在计划中关键的一环，是借由六位部族英雄，解放希巴拉克从「死之若娜瓦执政」那里获得的力量。
 
 **夜神:** 既然是她的力量，使用的代价不言而喻，就是死亡。
 
@@ -7570,7 +7570,7 @@ You'll need to stay behind.
 
 **派蒙:** 不用说这些，我们更担心的是，你已经缓过来了吗？
 
-**恰斯卡:** 那不太可能，但先放在一边吧，我会履行「武{RUBY#[D]超越}卡」的意志。
+**恰斯卡:** 那不太可能，但先放在一边吧，我会履行「武超越卡」的意志。
 
 **恰斯卡:** 我身上的矛盾与苦难，都只是对我的考验，考验终究会转化为我的力量。
 
@@ -7880,7 +7880,7 @@ You'll need to stay behind.
 
 #### 继续「你」的旅途
 
-**布基纳:** 看到没，先拿到古名的人是我！还是特别有名的「马{RUBY#[D]回火}力卜」！
+**布基纳:** 看到没，先拿到古名的人是我！还是特别有名的「马回火力卜」！
 
 **布基纳:** 你现在求我的话，还来得及跟我组队，参加「归火圣夜巡礼」，嘿嘿。
 
@@ -7888,9 +7888,9 @@ You'll need to stay behind.
 
 **玛薇卡:** 「我也会有古名的，比你的更厉害。」
 
-**布基纳:** 好好好，什么样的古名在我们悬木人，会比「马{RUBY#[D]回火}力卜」还厉害呢？
+**布基纳:** 好好好，什么样的古名在我们悬木人，会比「马回火力卜」还厉害呢？
 
-**布基纳:** 该不会是，「基扬{RUBY#[D]领袖}戈兹」吧？
+**布基纳:** 该不会是，「基扬领袖戈兹」吧？
 
 #### 继续「你」的旅途
 

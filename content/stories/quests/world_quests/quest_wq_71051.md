@@ -3,19 +3,19 @@
 # title_ru: Гидрологическое исследование Разлома
 # title_en: Hydrological Investigation in The Chasm
 # title_zh: 水生环境调查
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71051
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71051
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71051
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

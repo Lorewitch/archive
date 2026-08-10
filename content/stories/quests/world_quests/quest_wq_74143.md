@@ -3,19 +3,19 @@
 # title_ru: С днём рождения
 # title_en: Happy Birthday
 # title_zh: 生日快乐
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74143
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74143
 # previous_quests: quest_wq_74142
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74140,quest_wq_74141,quest_wq_74142
 # quest_chain: quest_wq_74140,quest_wq_74141,quest_wq_74142,quest_wq_74143
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

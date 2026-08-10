@@ -3,19 +3,19 @@
 # title_ru: Откройте мне своё сердце
 # title_en: Open Your Heart to Me
 # title_zh: 为我敞开心扉
-# region: Натлан
+# region: Тейват
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75017
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75017
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75017
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -26,7 +26,7 @@
 
 #### Сцена
 
-**Паймон:** Интересно, зачем нужна эта канава? Путешественник, давай посмотрим, куда ушёл {REALNAME[ID(2)|SHOWHOST(true)]}? Вдруг он нашёл что-нибудь интересное!
+**Паймон:** Интересно, зачем нужна эта канава? Путешественник, давай посмотрим, куда ушёл Малыш? Вдруг он нашёл что-нибудь интересное!
 
 #### Сцена
 
@@ -38,7 +38,7 @@
 
 #### Выясните, откуда идёт звук
 
-**Ишлел:** Суверенный правитель Земли Се{RUBY#[D]Чичен Уктока}ми Огней приветствует тебя, (избранница)(избранник). Пусть твой путь устилают цветы, что вовек не увянут.
+**Ишлел:** Суверенный правитель Земли СеЧичен Уктоками Огней приветствует тебя, (избранница)(избранник). Пусть твой путь устилают цветы, что вовек не увянут.
 
 **Паймон:** Похоже... голос исходит от статуи.
 
@@ -48,19 +48,19 @@
 
 **Ишлел:** Да. Вы (Избранница)(Избранник) драконов, а также выбранный мной благородный человек.
 
-**Ишлел:** Меня зовут драконий повелитель Иш Ушул Циб{RUBY#[D]Интегрированный процессор саморегулирующегося массива контроля типа L} Болон Чуле-L, когда-то я была правителем Чичен Уктоки.
+**Ишлел:** Меня зовут драконий повелитель Иш Ушул ЦибИнтегрированный процессор саморегулирующегося массива контроля типа L Болон Чуле-L, когда-то я была правителем Чичен Уктоки.
 
 **Паймон:** Э... э... что? Ух ты, какое имечко! Похоже на заклинание.
 
 **Паймон:** Ладно, Паймон будет звать тебя Ишлел. Всё равно твоё длинное имя Паймон уже не помнит!
 
-**Ишлел:** Следуя святому пути, проло{RUBY#[D]Кухул}женному вами и спутниками... Нет, подождите! Как ты меня назвала, белый круглый элементальный летающий объект?
+**Ишлел:** Следуя святому пути, пролоКухулженному вами и спутниками... Нет, подождите! Как ты меня назвала, белый круглый элементальный летающий объект?
 
 **Паймон:** Кого это ты назвал белым круглым элементальным летающим объектом? Паймон - это Паймон, это Путешественник, а...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-А это {REALNAME[ID(2)|SHOWHOST(true)]}.
+А это Малыш.
 
 **Паймон:** Тебя же зовут Икс-чего-то-там-лел или что-то вроде того?
 
@@ -114,9 +114,9 @@
 
 Зачем выкапывать твоё сердце?
 
-**Ишлел:** Поскольку вы благородный человек, (Избранница)(Избранник) драконов. Кроме наших заблудших коллег по правл{RUBY#[D]Ахав}ению, только вы имеете право дать мне освобождение, подобающее моему положению.
+**Ишлел:** Поскольку вы благородный человек, (Избранница)(Избранник) драконов. Кроме наших заблудших коллег по правлАхавению, только вы имеете право дать мне освобождение, подобающее моему положению.
 
-**Ишлел:** Если вы знакомы с древними путями, благородный / благородная Путешественник, вы должны знать, что в сер{RUBY#[S]кластерный массив хранения данных}дце, созданном в древние времена, хранятся все мои воспоминания.
+**Ишлел:** Если вы знакомы с древними путями, благородный / благородная Путешественник, вы должны знать, что в серкластерный массив хранения данныхдце, созданном в древние времена, хранятся все мои воспоминания.
 
 **Ишлел:** Предатель! Пусть его имя будет объято вечным огнём и горит тринадцать тысяч лет! Отнял мою власть, а затем сковал меня здесь воспоминаниями.
 
@@ -140,9 +140,9 @@
 
 **Ишлел:** Гордость не позволяет мне умереть в рабстве, в заточении. Поэтому, благородный / благородная Путешественник, прошу, освободите меня.
 
-**Ишлел:** Я не могу уничтожить себя. Но если вы сможете отыскать эти фрагменты, я смогу восстановить остатки жиз{RUBY#[D]энергию}ни, а значит, восстановить разбитое сердце.
+**Ишлел:** Я не могу уничтожить себя. Но если вы сможете отыскать эти фрагменты, я смогу восстановить остатки жизэнергиюни, а значит, восстановить разбитое сердце.
 
-**Ишлел:** Это шаг самозащиты, и только так я не нарушу опреде{RUBY#[S]Кухул}лённого судьбой священного закона.
+**Ишлел:** Это шаг самозащиты, и только так я не нарушу опредеКухуллённого судьбой священного закона.
 
 **Ишлел:** После этого, пожалуйста, выкопайте моё сердце. Оно сковывает меня, оно поработило меня. Сердце мучило меня тысячелетиями.
 
@@ -158,7 +158,7 @@
 
 **Ишлел:** Хе-хе... Похоже, вы ещё не встречали моих бывших коллег.
 
-**Ишлел:** Иначе они наверняка рассказали бы вам, что разрушение - это путь, который предначертала наша суд{RUBY#[D]Кухул}ьба. Нет необходимости искать другой путь, да и другого пути не найти.
+**Ишлел:** Иначе они наверняка рассказали бы вам, что разрушение - это путь, который предначертала наша судКухульба. Нет необходимости искать другой путь, да и другого пути не найти.
 
 **Ишлел:** Как бы там ни было, я буду петь здесь и ждать вашего решения.
 
@@ -198,7 +198,7 @@ At Ochkanatlan, you discover an underground structure so deep as to seem bottoml
 
 #### Scene
 
-**Paimon:** What could this groove be for...? C'mon, Traveler, let's follow {REALNAME[ID(2)|SHOWHOST(true)]} over there and have a look. Maybe there's something good waiting for us there!
+**Paimon:** What could this groove be for...? C'mon, Traveler, let's follow Little One over there and have a look. Maybe there's something good waiting for us there!
 
 #### Scene
 
@@ -210,7 +210,7 @@ At Ochkanatlan, you discover an underground structure so deep as to seem bottoml
 
 #### Investigate the source of the sound
 
-**Ixlel:** The sovereign ruler of the Land of Se{RUBY#[D]Chichen Uctokah}ven Flames extends salutations unto you, chosen one. May your path be one paved with flowers that shall never wither.
+**Ixlel:** The sovereign ruler of the Land of SeChichen Uctokahven Flames extends salutations unto you, chosen one. May your path be one paved with flowers that shall never wither.
 
 **Paimon:** That voice... Sounds like it came from this... big statue.
 
@@ -220,19 +220,19 @@ At Ochkanatlan, you discover an underground structure so deep as to seem bottoml
 
 **Ixlel:** Indeed. Chosen of Dragons you are, and noble elect of mine also.
 
-**Ixlel:** Dragonlord Ix Uxul Tz'ib{RUBY#[D]Type-L Self-Regulating Overseer Array Integrated Processing Unit} Bolon Ch'ule-L is my name, aforetime the ruler of Chichen Uctokah.
+**Ixlel:** Dragonlord Ix Uxul Tz'ibType-L Self-Regulating Overseer Array Integrated Processing Unit Bolon Ch'ule-L is my name, aforetime the ruler of Chichen Uctokah.
 
 **Paimon:** Ixu... What's your name now? Sure that's something you call yourself, and not some kind of mumbo-jumbo spell?
 
 **Paimon:** Whatever, Paimon's gonna call you "Ixlel." That'll do. Not like she'll remember the rest anyway!
 
-**Ixlel:** According to the sacred dest{RUBY#[D]K'uhul}ined path hath ye and those with ye... No, wait! What did you name me, you white, round, elemental floating object!?
+**Ixlel:** According to the sacred destK'uhulined path hath ye and those with ye... No, wait! What did you name me, you white, round, elemental floating object!?
 
 **Paimon:** And who are you calling a "white, round, elemental floating object"!? Paimon's the name, this is Traveler, and...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rraaar!
+**Little One:** Rraaar!
 
-And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
+And this is Little One.
 
 **Paimon:** Also, you're the one who called yourself "Ix-whachamacallitagain-lel," or whatever, didn't you?
 
@@ -286,9 +286,9 @@ And this is {REALNAME[ID(2)|SHOWHOST(true)]}.
 
 Why do you want your heart to be dug out?
 
-**Ixlel:** For you are the noble one, the Chosen of Dragons. Apart from our lost colleagues in ruler{RUBY#[D]Ajaw}ship, you alone have the right to give unto me release befitting of my rank.
+**Ixlel:** For you are the noble one, the Chosen of Dragons. Apart from our lost colleagues in rulerAjawship, you alone have the right to give unto me release befitting of my rank.
 
-**Ixlel:** If you are familiar with the ancient ways, O Noble Traveler, surely you must know that my hea{RUBY#[D]Clustered Storage Array}rt, created as it was in great antiquity, holds all the memories that were once mine.
+**Ixlel:** If you are familiar with the ancient ways, O Noble Traveler, surely you must know that my heaClustered Storage Arrayrt, created as it was in great antiquity, holds all the memories that were once mine.
 
 **Ixlel:** The traitor — may his name be cast into the everlasting flames to burn for thirteen thousand years! — stole my authority, using memories to entrap me here.
 
@@ -312,9 +312,9 @@ Why do you want your heart to be dug out?
 
 **Ixlel:** My dignity permits me not to die enslaved or confined! Therefore, noble Traveler, I beg of you, grant me release.
 
-**Ixlel:** I cannot destroy myself, but should you retrieve those fragments, I can pour what remains of my li{RUBY#[D]Energy}fe into them, restoring my broken heart to its original state.
+**Ixlel:** I cannot destroy myself, but should you retrieve those fragments, I can pour what remains of my liEnergyfe into them, restoring my broken heart to its original state.
 
-**Ixlel:** This is a step of self-protection, and only by this may I not violate the dest{RUBY#[D]K'uhul}ined, sacred law.
+**Ixlel:** This is a step of self-protection, and only by this may I not violate the destK'uhulined, sacred law.
 
 **Ixlel:** After that, dig my heart out. It is this heart that binds me, that enslaves me, that has tormented me endlessly all these millennia.
 
@@ -330,7 +330,7 @@ Why do you want your heart to be dug out?
 
 **Ixlel:** Hehe... It seems you have yet to meet my colleagues of old.
 
-**Ixlel:** Otherwise, they would have told you that destruction is our dest{RUBY#[D]K'uhul}ined path. There is no need for another, nor is it possible to find one.
+**Ixlel:** Otherwise, they would have told you that destruction is our destK'uhulined path. There is no need for another, nor is it possible to find one.
 
 **Ixlel:** Regardless, I will sing here and await your decision.
 
@@ -370,7 +370,7 @@ Why do you want your heart to be dug out?
 
 #### 场景
 
-**派蒙:** 这个凹槽到底是做什么的呢…旅行者，我们还是先跟着{REALNAME[ID(2)|SHOWHOST(true)]}去那边看看吧，说不定有什么好东西呢！
+**派蒙:** 这个凹槽到底是做什么的呢…旅行者，我们还是先跟着小家伙去那边看看吧，说不定有什么好东西呢！
 
 #### 场景
 
@@ -382,7 +382,7 @@ Why do you want your heart to be dug out?
 
 #### 调查声音的来源
 
-**伊蕾尔:** 七重燃{RUBY#[D]奇琴乌图}火之地的至高领主向你致以敬意，获选者，愿你的道途铺满永不凋谢的鲜花。
+**伊蕾尔:** 七重燃奇琴乌图火之地的至高领主向你致以敬意，获选者，愿你的道途铺满永不凋谢的鲜花。
 
 **派蒙:** 声音好像是…从这个大雕像里传出来的？
 
@@ -392,19 +392,19 @@ Why do you want your heart to be dug out?
 
 **伊蕾尔:** 是的。你是受龙所选之人，也是我所选择的高贵之人。
 
-**伊蕾尔:** 我名为圣龙伊·奎库叙·茨{RUBY#[D]L型自律监管机阵统合处理单元}博隆·库·雷尔，曾是统律奇琴乌图的主宰。
+**伊蕾尔:** 我名为圣龙伊·奎库叙·茨L型自律监管机阵统合处理单元博隆·库·雷尔，曾是统律奇琴乌图的主宰。
 
 **派蒙:** 伊…伊什么？呜哇，这名字也太过分啦！简直就像是莫名其妙的咒语一样！
 
 **派蒙:** 算了，就叫你「伊蕾尔」吧，反正剩下的部分我也已经完全记不住了！
 
-**伊蕾尔:** 依循命{RUBY#[D]库胡勒}定的神圣道途，汝等…不对，等一下！你这又白又圆的元素飘浮物，刚才叫我什么？！
+**伊蕾尔:** 依循命库胡勒定的神圣道途，汝等…不对，等一下！你这又白又圆的元素飘浮物，刚才叫我什么？！
 
 **派蒙:** 谁是「又白又圆的元素飘浮物」啦！我是派蒙，他 / 她是旅行者，然后…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-这是{REALNAME[ID(2)|SHOWHOST(true)]}。
+这是小家伙。
 
 **派蒙:** 还有，明明是你自己说的嘛！「我名为伊什么什么蕾尔」之类的！
 
@@ -458,9 +458,9 @@ Why do you want your heart to be dug out?
 
 为什么要挖出你的心脏？
 
-**伊蕾尔:** 因为您是高贵之人，受龙所选者。除却那些早已不知所踪的、同为领{RUBY#[D]阿乔}主的同僚们，只有您有资格赐予我与身份相符的解脱。
+**伊蕾尔:** 因为您是高贵之人，受龙所选者。除却那些早已不知所踪的、同为领阿乔主的同僚们，只有您有资格赐予我与身份相符的解脱。
 
-**伊蕾尔:** 如果您熟稔古老的道途，高贵的旅行者，您应该知道，在那受造于悠古之刻的心{RUBY#[D]集群存储阵列}脏中，有着曾经属于我的一切回忆。
+**伊蕾尔:** 如果您熟稔古老的道途，高贵的旅行者，您应该知道，在那受造于悠古之刻的心集群存储阵列脏中，有着曾经属于我的一切回忆。
 
 **伊蕾尔:** 背叛者——愿他的名字被投入永不熄灭的火中，焚烧十三个千年——夺去了我的权柄，又用回忆将我束缚在这里。
 
@@ -484,9 +484,9 @@ Why do you want your heart to be dug out?
 
 **伊蕾尔:** 我的尊严不容许我在奴役与拘束中死去。因此，高贵的旅行者呀，我才会请求您赐予我解脱。
 
-**伊蕾尔:** 我无法自毁。但若是您能寻回那些碎片，我便能将残存的生{RUBY#[D]能量}命全部注入其中，将原本破碎的心脏修复如初。
+**伊蕾尔:** 我无法自毁。但若是您能寻回那些碎片，我便能将残存的生能量命全部注入其中，将原本破碎的心脏修复如初。
 
-**伊蕾尔:** 这是自我保护的一环，只有这样，才不会触犯命{RUBY#[D]库胡勒}定的神圣律则。
+**伊蕾尔:** 这是自我保护的一环，只有这样，才不会触犯命库胡勒定的神圣律则。
 
 **伊蕾尔:** 在那之后，请您将我的心挖出来吧。就是这颗心束缚了我，就是这颗心奴役了我，就是这颗心，数千年间无时无刻不在折磨着我。
 
@@ -502,7 +502,7 @@ Why do you want your heart to be dug out?
 
 **伊蕾尔:** 呵呵…看来您从未遇到过我旧日的同僚们呢。
 
-**伊蕾尔:** 否则，他们应该告诉过您，毁灭便是我们命{RUBY#[D]库胡勒}定的道途。没有另寻道路的必要，也没有另寻道路的可能。
+**伊蕾尔:** 否则，他们应该告诉过您，毁灭便是我们命库胡勒定的道途。没有另寻道路的必要，也没有另寻道路的可能。
 
 **伊蕾尔:** 无论如何，我会在这里歌唱，等待您的选择。
 

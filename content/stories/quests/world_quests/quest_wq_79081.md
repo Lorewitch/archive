@@ -7,15 +7,15 @@
 # game_version: 4.8
 # release_versions: 4.8
 # source_id: 79081
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 79081
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_79081
-# quest_series: 
+# quest_series:
 # version_source: verified_override
 
 ## RU

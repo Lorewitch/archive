@@ -3,19 +3,19 @@
 # title_ru: Обломки пиратского корабля с призраками
 # title_en: The Haunted Pirate Shipwreck
 # title_zh: 闹鬼的海盗船残骸
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76042
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76042
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76115
 # related_quests: quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
 # quest_chain: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

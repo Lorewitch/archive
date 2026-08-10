@@ -7,15 +7,15 @@
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 10031
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72145,72146,72147,72148,72149
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_72233
 # related_quests: quest_wq_72233,quest_wq_10055
 # quest_chain: quest_wq_10031,quest_wq_72233,quest_wq_10055
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

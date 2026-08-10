@@ -11,10 +11,10 @@
 # chapter_num_en: Windblume Festival: Part I
 # chapter_num_zh: 风花节 其一
 # part_source_ids: 40097
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10137
-# related_quests: quest_eq_10137,quest_eq_10138,quest_wq_70528,quest_wq_70529,quest_wq_70530
-# quest_chain: quest_eq_10136,quest_eq_10137,quest_eq_10138,quest_wq_70528,quest_wq_70529,quest_wq_70530
+# related_quests: quest_eq_10137,quest_eq_10138
+# quest_chain: quest_eq_10136,quest_eq_10137,quest_eq_10138
 # quest_series: Windblume Festival (Event Chapter) || Windblume's Breath
 # version_source: wiki_release_category
 

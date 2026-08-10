@@ -3,19 +3,19 @@
 # title_ru: Человек, который отбросил прошлое
 # title_en: They Who Abandoned the Past
 # title_zh: 曾抛弃过去的人
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 76117
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76117
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76129
 # related_quests: quest_wq_76077,quest_wq_76129
 # quest_chain: quest_wq_76077,quest_wq_76117,quest_wq_76129
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

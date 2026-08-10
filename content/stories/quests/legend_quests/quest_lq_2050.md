@@ -11,11 +11,11 @@
 # chapter_num_en: Rapperia Chapter: Act I
 # chapter_num_zh: 迅捷剑之章 第一幕
 # part_source_ids: 14031,14032,14033,14034
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2050
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1864,7 +1864,7 @@
 
 **Флориан:** И что он за это получил? Нищету, страдания... и мир, который о нём забыл. Когда его не стало, никто даже не пришёл попрощаться!
 
-**Флориан:** Охотники Сумеречного двора спасли этот гор{RUBY#[D]Фонтейн}од! Мы герои! Мы заслуживаем признания и уважения!
+**Флориан:** Охотники Сумеречного двора спасли этот горФонтейнод! Мы герои! Мы заслуживаем признания и уважения!
 
 **Фурина:** (Он говорит о том, что в столице все забыли об Охотниках и их подвигах? Не думала, что в сценарии будет столько социальной критики...)
 
@@ -2084,7 +2084,7 @@
 
 **Паймон:** Вот же... Подожди. Ты хочешь сказать, что во всём виноват злой маг?
 
-**Флориан:** Да, злой {RUBY#[S]Пожиратель}маг, подчинивший себе короле{RUBY#[S]мой подвал}вство, умеет внушать людям то, что ему нужно... Я попал под его влияние, потому что воля моя была слишком слаба.
+**Флориан:** Да, злой Пожирательмаг, подчинивший себе королемой подвалвство, умеет внушать людям то, что ему нужно... Я попал под его влияние, потому что воля моя была слишком слаба.
 
 **Паймон:** Пф! Думаешь, мы снова тебе поверим? Как ты собираешься доказать, что изменился?
 
@@ -2122,7 +2122,7 @@
 
 **Навия:** Значит, эту каменную табличку оставили их компаньоны.
 
-**Флориан:** Верно. Охотники Сумеречного двора никогда не заявляли о своих подвигах. Они защищали гор{RUBY#[D]Фонтейн}од, оставаясь в тени...
+**Флориан:** Верно. Охотники Сумеречного двора никогда не заявляли о своих подвигах. Они защищали горФонтейнод, оставаясь в тени...
 
 **Флориан:** Историями о своих подвигах и победах над монстрами они делились только друг с другом, когда сидели вечерами у горящего костра.
 
@@ -2138,7 +2138,7 @@
 
 **Флориан:** (Отец... Ты велел мне искать «сокровища», если однажды я собьюсь с пути. Так вот что ты имел в виду...)
 
-**Флориан:** Прошу вас, друзья, дайте мне шанс искупить вину. Позвольте мне вместе с вами одолеть злого{RUBY#[D]Пожирателя} мага, поработившего наше корол{RUBY#[D]подвал}евство.
+**Флориан:** Прошу вас, друзья, дайте мне шанс искупить вину. Позвольте мне вместе с вами одолеть злогоПожирателя мага, поработившего наше королподвалевство.
 
 **Навия:** Хорошо, я принимаю твоё предложение!
 
@@ -2172,7 +2172,7 @@
 
 **Лини:** Флориан, а ты не знаешь, где скрывается злой маг?
 
-**Флориан:** Когда наши сознания соединились, я увидел, что его окружает. Похоже, он прячется в це{RUBY#[D]подвале}ркви.
+**Флориан:** Когда наши сознания соединились, я увидел, что его окружает. Похоже, он прячется в цеподвалеркви.
 
 **Флориан:** Нам нужно быть крайне осторожными. Он так долго находился среди монстров, что стал одним из них. Победить его будет непросто.
 
@@ -2212,7 +2212,7 @@
 
 #### Отправляйтесь в городскую церковь
 
-**Клоринда:** Наконец вы добрались до цер{RUBY#[D]подвала}кви, которую описывал Флориан.
+**Клоринда:** Наконец вы добрались до церподвалакви, которую описывал Флориан.
 
 **Клоринда:** Атмосфера гнетущая. Вы чувствуете, что враг совсем рядом.
 
@@ -4298,7 +4298,7 @@ You can have my hand, too.
 
 **Florian:** And what did he get in return? A life of poverty and pain... and a world that forgot all about him. When he died, not a single person came to mourn his passing!
 
-**Florian:** The Marechaussee Hunters were the ones who saved this ci{RUBY#[D]Fontaine}ty! We're heroes! We deserve more recognition and respect than this!
+**Florian:** The Marechaussee Hunters were the ones who saved this ciFontainety! We're heroes! We deserve more recognition and respect than this!
 
 **Furina:** (Is he talking about how no one in the capital seems to remember the Hunters and their legacy? I didn't expect the script to contain this level of social criticism...)
 
@@ -4556,7 +4556,7 @@ You can have my hand, too.
 
 **Navia:** Then this stone tablet must have been left behind by their companions.
 
-**Florian:** That's right. Few Marechaussee Hunters ever revealed their identity to the public. They always protected the ci{RUBY#[D]Fontaine}ty from the shadows.
+**Florian:** That's right. Few Marechaussee Hunters ever revealed their identity to the public. They always protected the ciFontainety from the shadows.
 
 **Florian:** The only time they spoke of their accomplishments would be at night, when they gathered with their fellow Hunters in front of the bonfire to share stories of the monsters slain by their hand.
 
@@ -4572,7 +4572,7 @@ You can have my hand, too.
 
 **Florian:** (Father... You once told me that I should seek out the "treasure" if I ever became lost. So this is what you wanted me to find...)
 
-**Florian:** I implore you, everyone, please give me a chance to make up for all I've done. Allow me to fight alongside you, and defeat the evil sorc{RUBY#[D]Devorator}erer that threatens the peace and prosperity of all the people in this king{RUBY#[S]basement}dom.
+**Florian:** I implore you, everyone, please give me a chance to make up for all I've done. Allow me to fight alongside you, and defeat the evil sorcDevoratorerer that threatens the peace and prosperity of all the people in this kingbasementdom.
 
 **Navia:** Well, I say we let you join!
 
@@ -4606,7 +4606,7 @@ You can have my hand, too.
 
 **Lyney:** Mr. Florian, do you know where to find the evil sorcerer?
 
-**Florian:** I was able to see his surroundings when our minds were connected. I believe he's currently hiding out at the chu{RUBY#[D]basement}rch in the king{RUBY#[S]my house}dom.
+**Florian:** I was able to see his surroundings when our minds were connected. I believe he's currently hiding out at the chubasementrch in the kingmy housedom.
 
 **Florian:** We must be extremely careful. He's spent so long living among monsters that he has now taken the form of one. He will not be easily defeated.
 
@@ -4646,7 +4646,7 @@ You can have my hand, too.
 
 #### Go to the church in the capital
 
-**Clorinde:** Finally, you arrive at the chu{RUBY#[D]Basement}rch Florian described.
+**Clorinde:** Finally, you arrive at the chuBasementrch Florian described.
 
 **Clorinde:** As you approach, an ominous aura surrounds you. You get the sense that your enemy is close at hand.
 
@@ -6732,7 +6732,7 @@ What would your answer be, Clorinde?
 
 **弗洛莱恩:** 但看看这给他带来了什么！贫穷、伤痛、被人遗忘！就连他死的时候都没有一个人来哀悼！
 
-**弗洛莱恩:** 逐影猎人可都是曾经拯救了城{RUBY#[D]枫丹}市的英雄啊！我们值得更好的尊敬！
+**弗洛莱恩:** 逐影猎人可都是曾经拯救了城枫丹市的英雄啊！我们值得更好的尊敬！
 
 **芙宁娜:** （是指逐影猎人被遗忘的现状吗？没想到这个剧本还有着这种层面的思辨…）
 
@@ -6952,7 +6952,7 @@ What would your answer be, Clorinde?
 
 **派蒙:** 好卑鄙！但…咦？你刚才说了邪恶巫师？
 
-**弗洛莱恩:** 没错，蛰伏于这个{RUBY#[D]我家地下室}国家的邪恶{RUBY#[D]噬魂兽}巫师，善于蛊惑人心、操纵欲望…我，因为内心的力量不够强大，败在了他的诱惑之下…
+**弗洛莱恩:** 没错，蛰伏于这个我家地下室国家的邪恶噬魂兽巫师，善于蛊惑人心、操纵欲望…我，因为内心的力量不够强大，败在了他的诱惑之下…
 
 **派蒙:** 哼！我们可不会再轻易上当。你要怎么证明自己已经悔改了呢？
 
@@ -6990,7 +6990,7 @@ What would your answer be, Clorinde?
 
 **娜维娅:** 那我猜这块石碑，是逐影猎人的同伴留下的吧。
 
-**弗洛莱恩:** 没错。逐影猎人不会大肆宣扬自己的身份，他们默默守护着城{RUBY#[D]枫丹}市。
+**弗洛莱恩:** 没错。逐影猎人不会大肆宣扬自己的身份，他们默默守护着城枫丹市。
 
 **弗洛莱恩:** 只有在夜晚与同伴对坐的篝火前，他们才会谈论起自己曾经斩杀的魔物，与对方攀比一二。
 
@@ -7006,7 +7006,7 @@ What would your answer be, Clorinde?
 
 **弗洛莱恩:** （父亲…你当初对我说迷茫的时候就去寻找「宝藏」…原来是这个意思吗…）
 
-**弗洛莱恩:** 我恳请各位，给予我一个将功补过的机会。让我随你们一同战斗，消灭王{RUBY#[D]地下室}城中那殃国害民的邪恶巫{RUBY#[D]噬魂兽}师。
+**弗洛莱恩:** 我恳请各位，给予我一个将功补过的机会。让我随你们一同战斗，消灭王地下室城中那殃国害民的邪恶巫噬魂兽师。
 
 **娜维娅:** 好吧，我接受你的提议！
 
@@ -7040,7 +7040,7 @@ What would your answer be, Clorinde?
 
 **林尼:** 弗洛莱恩先生，你知道那位邪恶巫师的藏身处吗？
 
-**弗洛莱恩:** 我的思维与他相连的时候，得以窥探到他周围的环境。他就藏身于王{RUBY#[D]我家}城的教{RUBY#[D]地下室}堂之内。
+**弗洛莱恩:** 我的思维与他相连的时候，得以窥探到他周围的环境。他就藏身于王我家城的教地下室堂之内。
 
 **弗洛莱恩:** 但大家请千万小心，他昼夜与魔怪为伍，本体已经化为魔物的形态，不是那么容易就能战胜的。
 
@@ -7080,7 +7080,7 @@ What would your answer be, Clorinde?
 
 #### 前往「王城教堂」
 
-**克洛琳德:** 终于，你们来到了那个教{RUBY#[D]地下室}堂附近。
+**克洛琳德:** 终于，你们来到了那个教地下室堂附近。
 
 **克洛琳德:** 周围散发着不祥的气息，你们已感觉到敌人几乎近在咫尺。
 

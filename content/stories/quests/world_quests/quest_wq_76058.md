@@ -3,19 +3,19 @@
 # title_ru: Приоритеты прежде всего: Послесловие
 # title_en: Priorities First: Afterword
 # title_zh: 要事优先·后日谈
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 76058
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76058
 # previous_quests: quest_wq_76000
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_76000
 # quest_chain: quest_wq_76000,quest_wq_76058
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -7,14 +7,14 @@
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 40000
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 40000
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_eq_10018,quest_eq_10019,quest_eq_10020
-# quest_chain: quest_eq_10018,quest_eq_10019,quest_eq_10020,quest_eq_40000
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_eq_40000
 # quest_series: Lantern Rite
 # version_source: wiki_release_category
 

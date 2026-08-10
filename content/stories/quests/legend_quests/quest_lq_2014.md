@@ -11,7 +11,7 @@
 # chapter_num_en: Historia Antiqua Chapter: Act I
 # chapter_num_zh: 古闻之章 第一幕
 # part_source_ids: 11020,11021,11022,11023,11024
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2020
 # related_quests: quest_lq_2020
 # quest_chain: quest_lq_2014,quest_lq_2020
@@ -1628,7 +1628,7 @@ So, what would you like us to do?
 
 **宛烟:** 这位先生！那个…我有些考古学方面的问题，想换一个安静的地方，向你请教。不知会不会打扰先生？
 
-**钟离:** 哦，这倒无妨。不过，不知我的这位朋友方便一起来吗？说不定{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}能提供更多帮助。
+**钟离:** 哦，这倒无妨。不过，不知我的这位朋友方便一起来吗？说不定空/荧能提供更多帮助。
 
 - **旅行者:** 我吗？
 

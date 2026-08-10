@@ -1,0 +1,127 @@
+# id: quest_wq_74710
+# story_group: event_chronicles
+# title_ru: Целая прорва злых рыбок...
+# title_en: Tons of Tons of Furious Fish...
+# title_zh: 暴躁鱼儿还不少…
+# region: Тейват
+# game_version: 6.7
+# release_versions: 6.7
+# source_id: 74710
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 74710
+# previous_quests: quest_wq_74709
+# next_quests: quest_wq_74711
+# related_quests: quest_wq_74708,quest_wq_74709,quest_wq_74711,quest_wq_74712
+# quest_chain: quest_wq_74708,quest_wq_74709,quest_wq_74710,quest_wq_74711,quest_wq_74712
+# quest_series: Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# version_source: wiki_release_category
+
+## RU
+
+### Целая прорва злых рыбок...
+
+Сиджвин хочет с нами поговорить...
+
+#### Поговорите с Сиджвин
+
+**Сиджвин:** Хм... Послушные рыбки плавают в просторных, заботливо обустроенных аквариумах...
+
+**Сиджвин:** До чего прекрасная картина.
+
+**Паймон:** Вот почему все любят наш океанариум!
+
+**Сиджвин:** Если бы они и в открытой воде вели себя так же хорошо... тогда люди могли бы нырять без опаски и любоваться красотой подводного мира.
+
+**Сиджвин:** Но главное другое: благодаря вам я выяснила, почему рыбки вели себя так беспокойно...
+
+**Сиджвин:** За все последние годы на воде случалось немало кораблекрушений, а ещё некоторые злодеи незаконно сбрасывали в воду мусор...
+
+**Сиджвин:** На морском дне оказалось множество предметов, которых там быть не должно, и они продолжают накапливаться, разрушая среду обитания многих рыбок, из-за чего они становятся всё более агрессивными...
+
+**Сиджвин:** Недавно группе водолазов дали поручение разобрать свалку на дне.
+
+**Сиджвин:** Наверное, стоит напомнить им, чтобы они ускорили работу...
+
+- **Путешественник:** Похоже, так сразу эту проблему не решить...
+
+- **Путешественник:** Расчистка дна займёт много времени...
+
+**Сиджвин:** Да. А пока что давайте продолжать нашу работу. Нам нужно поймать как можно больше агрессивных рыбок и отправить их на реабилитацию.
+
+**Сиджвин:** Очень важно изолировать пациентов от вредной среды, которая вызывает болезнь.
+
+**Паймон:** Понятно! Положись на нас, мы отправимся на поиски новых пациентов!
+
+## EN
+
+### Tons of Tons of Furious Fish...
+
+Sigewinne seems to have something to tell us...
+
+#### Talk to Sigewinne
+
+**Sigewinne:** Hehe... Well-behaved little fish swimming to and fro in spacious, carefully arranged tanks...
+
+**Sigewinne:** It really is a beautiful sight.
+
+**Paimon:** That's why our aquarium's so popular!
+
+**Sigewinne:** If only they were this well-behaved in open waters... then people could dive down and immerse themselves more deeply in the beauty of the natural world.
+
+**Sigewinne:** Anyway, thanks to your help, I've got to the bottom of why these fish were so agitated...
+
+**Sigewinne:** Over the years, there have been plenty of shipwrecks, and even some absolute scoundrels illegally dumping waste in the sea...
+
+**Sigewinne:** A huge amount of man-made junk has sunk to the seabed, piling up and destroying natural habitats. It's this that's caused the fish to become increasingly aggressive...
+
+**Sigewinne:** Apparently, a group of divers has already accepted a commission to clean up the junk.
+
+**Sigewinne:** But it looks like I'll have to give them a polite kick up the backside and ask them to pick up the pace...
+
+- **Traveler:** Sounds like it might take some time before we see results...
+
+- **Traveler:** I imagine this sort of job isn't going to be quick to complete...
+
+**Sigewinne:** Yes. In the meantime, let's continue our work by bringing in as many aggressive little fish as possible to help them relax and recuperate.
+
+**Sigewinne:** Isolating the patients from their harmful environment is an important step on the road to recovery.
+
+**Paimon:** Got it! Just leave it to us! We'll keep our eyes peeled for new patients.
+
+## ZH
+
+### 暴躁鱼儿还不少…
+
+希格雯似乎有事找我们…
+
+#### 与希格雯对话
+
+**希格雯:** 嗯…在足够宽敞，装饰还特别用心的水箱之中，乖巧的鱼儿们来回游动…
+
+**希格雯:** 这场景的确非常漂亮。
+
+**派蒙:** 这也是水族馆吸引人的地方之一！
+
+**希格雯:** 要是它们在开放的水域里也这么安分就好了，潜入水下的人们就能更沉浸地享受自然生命的美景…
+
+**希格雯:** 言归正传，多亏你们的协助，我查出了这些鱼儿暴躁的原因——
+
+**希格雯:** 这些年来，陆陆续续发生了一些水运事故，还有坏家伙违法倾倒废弃物…
+
+**希格雯:** 大量人造物品沉入海底，不断堆积，破坏了许多鱼儿的栖息地，导致鱼儿们的攻击性愈发高涨…
+
+**希格雯:** 之前，已经有一批潜水员接到委托，开始专门处理这些垃圾了。
+
+**希格雯:** 看来得提醒他们，有劳他们加快进度…
+
+- **旅行者:** 听起来短期内无法解决啊…
+
+- **旅行者:** 一时半会儿应该处理不完…
+
+**希格雯:** 是的，在此期间，我们还是继续之前的工作，尽可能把更多暴躁的鱼儿请回来休养吧。
+
+**希格雯:** 将病患与致病环境隔离开来，是相当重要的步骤。
+
+**派蒙:** 收到！就放心交给我们吧，我们继续寻找患者！

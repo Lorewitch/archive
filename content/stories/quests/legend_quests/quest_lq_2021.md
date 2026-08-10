@@ -11,7 +11,7 @@
 # chapter_num_en: Carassius Auratus Chapter: Act I
 # chapter_num_zh: 琉金之章 第一幕
 # part_source_ids: 12010,12011,12012,12013
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2038
 # related_quests: quest_lq_2038
 # quest_chain: quest_lq_2021,quest_lq_2038
@@ -2874,7 +2874,7 @@ That's another kind of eternity.
 
 #### 前往鸣神岛的海边
 
-**松坂:** 大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，我们在找「大貉妖」！
+**松坂:** 大空/荧，我们在找「大貉妖」！
 
 **彩香:** 你知道「大貉妖」住在哪里吗？
 
@@ -2956,7 +2956,7 @@ That's another kind of eternity.
 
 #### 追上离开的孩子们
 
-**宵宫:** 别伤心，别这么伤心啦，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}和你们开玩笑的，「大貉妖」怎么会不存在呢？
+**宵宫:** 别伤心，别这么伤心啦，空/荧和你们开玩笑的，「大貉妖」怎么会不存在呢？
 
 **松坂:** 可、可是，我们确实没有见过「大貉妖」…
 
@@ -3064,7 +3064,7 @@ That's another kind of eternity.
 
 **长野原龙之介:** 这两个人，没见过呢。是新朋友？还是客人？
 
-**宵宫:** 都算吧，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}们是前不久才到这里来的，既然来了稻妻，不看烟花怎么行呢？
+**宵宫:** 都算吧，空/荧们是前不久才到这里来的，既然来了稻妻，不看烟花怎么行呢？
 
 **长野原龙之介:** 哈哈哈，不管怎么样，找个地方歇歇脚吧。我长野原龙之介，给你们讲讲长野原家的悠久历史。
 
@@ -3254,7 +3254,7 @@ That's another kind of eternity.
 
 **耕一:** 等等，在外人面前讨论这个真的没事吗？
 
-**宵宫:** 没关系，没关系，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们是我的朋友，信得过！我们都是为了船的事来的。
+**宵宫:** 没关系，没关系，空/荧们是我的朋友，信得过！我们都是为了船的事来的。
 
 **派蒙:** 嗯，我们都是一条船上的人！
 
@@ -3276,7 +3276,7 @@ That's another kind of eternity.
 
 **耕一:** 好嘞。正好烟花会很快就要开始了，也给你的新朋友们见识见识吧，这可是稻妻的特色。
 
-**宵宫:** 本来就是这么打算的。哎，要不然，干脆你给{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}们讲讲你的过去，就是你第一次来我们家定制烟花的故事。
+**宵宫:** 本来就是这么打算的。哎，要不然，干脆你给空/荧们讲讲你的过去，就是你第一次来我们家定制烟花的故事。
 
 **耕一:** 这个就说来话长了，我想想…
 
@@ -3364,7 +3364,7 @@ That's another kind of eternity.
 
 - **旅行者:** 要找到敌对的神明。
 
-- **旅行者:** 要找到失散的{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}。
+- **旅行者:** 要找到失散的空/荧。
 
 **派蒙:** 还要找到失散的亲人。
 
@@ -3406,7 +3406,7 @@ That's another kind of eternity.
 
 - **旅行者:** 那我就记入备选名单了。
 
-- **旅行者:** 看{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_MALE_PRONOUN_HE]}的意见吧。
+- **旅行者:** 看空/荧的意见吧。
 
 **宵宫:** 嘿嘿，要送给你们什么颜色，什么规格的烟花，我也有想法了，这里就让我暂且保密吧。
 
@@ -3694,7 +3694,7 @@ That's another kind of eternity.
 
 **宵宫:** 没事没事，他们是特别好的人，我知道的，没有问题。
 
-**宵宫:** 那你再去屋子里藏着，我和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}去去就来。
+**宵宫:** 那你再去屋子里藏着，我和空/荧去去就来。
 
 **宵宫:** 走吧，我们走，时间不等人。
 
@@ -4082,7 +4082,7 @@ That's another kind of eternity.
 
 #### 与今谷佳祐和朔次郎交谈
 
-**义高:** 头儿，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}们真的很强，我们还要找更多的兄弟来支援…
+**义高:** 头儿，空/荧们真的很强，我们还要找更多的兄弟来支援…
 
 **今谷佳祐:** 退下。
 

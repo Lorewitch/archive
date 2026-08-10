@@ -11,7 +11,7 @@
 # chapter_num_en: Iridescent Arataki Rockin' for Life Tour de Force of Awesomeness: First Leg
 # chapter_num_zh: 荒泷生命摇滚虹色大巡回·上
 # part_source_ids: 40157
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10191
 # related_quests: quest_eq_10191
 # quest_chain: quest_eq_10190,quest_eq_10191

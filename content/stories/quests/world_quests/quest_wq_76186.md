@@ -3,19 +3,19 @@
 # title_ru: Скромная попытка
 # title_en: A Small Overture
 # title_zh: 小小的尝试
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 76186
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76186
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76186
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

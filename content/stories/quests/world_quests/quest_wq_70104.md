@@ -3,19 +3,19 @@
 # title_ru: Исследование снежной горы
 # title_en: The Great Mountain Survey
 # title_zh: 雪山大勘测
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70104
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70104
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_70108
 # related_quests: quest_wq_70108
 # quest_chain: quest_wq_70104,quest_wq_70108
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

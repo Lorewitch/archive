@@ -3,19 +3,19 @@
 # title_ru: Путь к сингулярности
 # title_en: Road to the Singularity
 # title_zh: 通往奇点之路
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74104
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74104
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74104
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

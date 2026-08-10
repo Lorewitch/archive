@@ -3,15 +3,15 @@
 # title_ru: Приходите сыграть в «Священный призыв семерых»!
 # title_en: Come Try Genius Invokation TCG!
 # title_zh: 来试试「七圣召唤」吧！
-# region: Мондштадт
+# region: Тейват
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 70526
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70526
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_70672
 # related_quests: quest_wq_10106,quest_wq_70672
 # quest_chain: quest_wq_10106,quest_wq_70526,quest_wq_70672

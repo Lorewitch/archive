@@ -3,19 +3,19 @@
 # title_ru: Железо Кодзуэ
 # title_en: Kozue's Ironwork
 # title_zh: 梢的铁块需求
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72717
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72717
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72717
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

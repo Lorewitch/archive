@@ -7,15 +7,15 @@
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 10241
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76005,76009,76010,76011,76014
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10241
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -52,7 +52,7 @@
 
 **Паймон:** Думаешь, всё так просто?..
 
-**Верна:** Как говорится в молитве: «О великий кузнец трёхл{RUBY#[S]Такоджа Яникуйнен}унной, ты, отец и прародитель! Пусть разгневаешься ты и свергнешь неустойчивый трон, чтоб красавица стала твоей...»
+**Верна:** Как говорится в молитве: «О великий кузнец трёхлТакоджа Яникуйненунной, ты, отец и прародитель! Пусть разгневаешься ты и свергнешь неустойчивый трон, чтоб красавица стала твоей...»
 
 **Верна:** С-стала твоей... эм, что там дальше?
 
@@ -96,7 +96,7 @@
 
 - **Путешественник:** Может, надеть зелёную форму Гильдии?
 
-**Верна:** Погоди... не говори мне! Ты тот / та, кем дорожит Дева{RUBY#[D]Куутар} Луны... Невероятно талантливый и совершенно спокойный / Невероятно талантливая и совершенно спокойная, даже в условиях возмущения куувяки...
+**Верна:** Погоди... не говори мне! Ты тот / та, кем дорожит ДеваКуутар Луны... Невероятно талантливый и совершенно спокойный / Невероятно талантливая и совершенно спокойная, даже в условиях возмущения куувяки...
 
 **Паймон:** Э-э, насчёт этого... Ну, Паймон считает, что мы можем опустить детали. Но серьёзно, почему ты так одета? Что ты здесь делаешь? И что вообще такое возмущение куувяки?
 
@@ -116,7 +116,7 @@
 
 **Верна:** Нельзя судить о человеке только по одежде. Был случай: мошенники разгуливали по Нашгороду в краденых одеяниях Морозной Луны...
 
-**Верна:** Ладно! Сейчас всё докажу! Покажу вам благосл{RUBY#[D]куувяки}овение моих предков - и вы сразу поверите! Смотрите! Ха!
+**Верна:** Ладно! Сейчас всё докажу! Покажу вам благослкуувякиовение моих предков - и вы сразу поверите! Смотрите! Ха!
 
 - **Путешественник:** ...?
 
@@ -148,7 +148,7 @@
 
 **Верна:** Нет, так нельзя! У других нет такой устойчивости, как у меня. Для них всё может закончиться не просто кровью из носа. Поэтому такие помощники, как вы, - на вес золота!
 
-**Верна:** Ах, я знала, что я разбираюсь в людях... Э-э... Я имею в виду, у меня была хорошая идея довериться Деве{RUBY#[D]Куутар} Луны, чтобы она благословила меня такими спасителями, как вы!
+**Верна:** Ах, я знала, что я разбираюсь в людях... Э-э... Я имею в виду, у меня была хорошая идея довериться ДевеКуутар Луны, чтобы она благословила меня такими спасителями, как вы!
 
 **Паймон:** Ладно, мы ведь искатели приключений, поможем чем сможем. Хотя Верна и выглядит ненадёжной, но раз здесь правда что-то не так, надо попробовать.
 
@@ -158,7 +158,7 @@
 
 **Верна:** Начиная со времён первого Голоса Лунного Гимна, госпожи Айлы, куувяки в Рифе громовых раскатов всегда была нестабильна, но после падения этих двух камней с неба ситуация ухудшилась.
 
-**Верна:** Как говорится, «О Дева{RUBY#[D]Куутар} Луны, даже страшные законы, установленные владыкой небес, преклонятся перед твоей песней, даже времена года и небесные знамения...»
+**Верна:** Как говорится, «О ДеваКуутар Луны, даже страшные законы, установленные владыкой небес, преклонятся перед твоей песней, даже времена года и небесные знамения...»
 
 **Верна:** Э? Что там было дальше?.. Ладно! Суть ясна!
 
@@ -176,7 +176,7 @@
 
 - **Путешественник:** Звучит неправдоподобно.
 
-**Верна:** Правда? Хе-хе, недаром ты (любимица)(любимец) Девы{RUBY#[D]Куутар} Луны! У тебя глаз-алмаз на такие вещи!
+**Верна:** Правда? Хе-хе, недаром ты (любимица)(любимец) ДевыКуутар Луны! У тебя глаз-алмаз на такие вещи!
 
 **Паймон:** Хм, Паймон хоть и не очень понимает все эти расчёты и анализы, но когда это говорит Верна... как-то неубедительно звучит.
 
@@ -417,7 +417,7 @@
 
 **Верна:** Я-я тоже могу говорить мягко!
 
-**Верна:** Эта самозванка просто болтает красивее меня, лучше управляет благосло{RUBY#[D]куувяки}вением Богини Луны и к тому же ещё и более опытна с Зеркалом полнолуния...
+**Верна:** Эта самозванка просто болтает красивее меня, лучше управляет благослокуувякивением Богини Луны и к тому же ещё и более опытна с Зеркалом полнолуния...
 
 **Верна:** ...
 
@@ -493,7 +493,7 @@
 
 **Верна:** Кхм-кхм! Короче говоря, всё это был пустой блеф. А если по-честному, то Палата первого указа ещё пятьсот лет назад была запечатана.
 
-**Верна:** Это было одно из святилищ Детей Морозной Луны. Пятьсот лет назад оно было закрыто Голосом Лунного Гимна - госпожой Айлрой, которая сама стала свидетелем рождения Девы{RUBY#[D]Куутар} Луны.
+**Верна:** Это было одно из святилищ Детей Морозной Луны. Пятьсот лет назад оно было закрыто Голосом Лунного Гимна - госпожой Айлрой, которая сама стала свидетелем рождения ДевыКуутар Луны.
 
 **Верна:** Не то что какой-то проходимке со стороны, даже целым поколениям Голосов Лунного Гимна так и не удалось снять печать, наложенную самой госпожой Айлой. И не то чтобы никто не пытался, просто никому это не удавалось.
 
@@ -601,7 +601,7 @@
 
 **Кася:** Но я уже не ребёнок. Мэй тоже сказала, что внешний мир слишком хаотичен и не подходит для таких детей, как я...
 
-**Кася:** А ведь она даже не может использовать благосл{RUBY#[S]куувяки}овение Богини Луны, да и возраст у нас примерно одинаковый.
+**Кася:** А ведь она даже не может использовать благослкуувякиовение Богини Луны, да и возраст у нас примерно одинаковый.
 
 **Кася:** Но ничего, я-то совсем не глупая! Перед тем как её поймать, я слышала, как Мэй всё бормотала про какие-то камни, а значит, она хотела собрать себе красивых камней...
 
@@ -721,7 +721,7 @@
 
 Вы рассказываете, что произошло...
 
-**Пеккани:** Ох! Произошедшее мне совсем не понятно, но раз вы способны творить такие чудеса, вы, должно быть, избранники Девы{RUBY#[D]Куутар} Луны!
+**Пеккани:** Ох! Произошедшее мне совсем не понятно, но раз вы способны творить такие чудеса, вы, должно быть, избранники ДевыКуутар Луны!
 
 **Пеккани:** Слава Богине Луны! Теперь я смогу здесь рыбачить сколько душе угодно! Если только тот надоедливый бард не придёт снова со своим питомцем петь...
 
@@ -741,7 +741,7 @@
 
 **Верна:** Что за странные слова приветствия?! Честное слово, найдётся немного жриц надёжнее меня! Не в чем и сомневаться!
 
-**Верна:** Кхм, вас, несомненно, привела ко мне Дева{RUBY#[D]Куутар} Луны, иначе как объяснить такое совпадение - встретить вас именно в такой момент?
+**Верна:** Кхм, вас, несомненно, привела ко мне ДеваКуутар Луны, иначе как объяснить такое совпадение - встретить вас именно в такой момент?
 
 - **Путешественник:** Да мы просто рядом проходили...
 
@@ -817,7 +817,7 @@
 
 **Верна:** Ну, поскольку сверхнадёжный / ая Путешественник тоже верит в науку, то это объяснение вполне подходит.
 
-**Верна:** Хорошо, «поскольку Дева{RUBY#[D]Куутар} Луны соткала для нас серебристый путь, за вратами нас ждёт лишь»... лишь...
+**Верна:** Хорошо, «поскольку ДеваКуутар Луны соткала для нас серебристый путь, за вратами нас ждёт лишь»... лишь...
 
 **Верна:** Кхм, в общем... раз появился лунный путь, значит, наш план верен, и нам нужно следовать по нему. Это указания Богини Луны!
 
@@ -837,7 +837,7 @@
 
 - **Путешественник:** Хорошо, хоть сундуки на месте.
 
-**Верна:** Путешественник прав(а)... Только тут уже не просто «что-то не так». Судя по всему, это остаточный образ, созданный с помощью благосл{RUBY#[D]куувяки}овения Лунной Богини.
+**Верна:** Путешественник прав(а)... Только тут уже не просто «что-то не так». Судя по всему, это остаточный образ, созданный с помощью благослкуувякиовения Лунной Богини.
 
 **Паймон:** Угу, тоже верно... Так, стоп! Сейчас не время думать об этом! Ты вообще кто такая?
 
@@ -845,7 +845,7 @@
 
 **Паймон:** Ух! Н-не пугай Паймон так внезапно! Неужели...
 
-**Верна:** Я не это имею в виду! Призраков и всего такого прочего в этом мире не существует... Н-наверное? Судя по всему, это остаточный образ, созданный с помощью благосл{RUBY#[D]куувяки}овения Лунной Богини.
+**Верна:** Я не это имею в виду! Призраков и всего такого прочего в этом мире не существует... Н-наверное? Судя по всему, это остаточный образ, созданный с помощью благослкуувякиовения Лунной Богини.
 
 **Верна:** Да к тому же, это остаточный образ, созданный в Палате первого указа. Возможно, это сама госпожа Айла, первая Посланница Лунной Баллады.
 
@@ -861,7 +861,7 @@
 
 - **Путешественник:** Неудивительно, что она была больше похожа на жрицу, чем ты.
 
-**Верна:** К-конечно! Хоть я и надёжная, но всё же просто обычная жрица. Куда мне тягаться с великой святой, которая была свидетелем рождения Девы{RUBY#[D]Куутар} Луны!
+**Верна:** К-конечно! Хоть я и надёжная, но всё же просто обычная жрица. Куда мне тягаться с великой святой, которая была свидетелем рождения ДевыКуутар Луны!
 
 **Айла:** Ну вот, теперь всё в порядке.
 
@@ -871,7 +871,7 @@
 
 **Паймон:** Ох! Откуда опять этот звук...
 
-**Верна:** Хм, должно быть, он остался вместе с образом святой девы? В конце концов, даже благосло{RUBY#[D]куувяки}вение Богини Луны не смогло бы так точно записать чей-то голос...
+**Верна:** Хм, должно быть, он остался вместе с образом святой девы? В конце концов, даже благослокуувякивение Богини Луны не смогло бы так точно записать чей-то голос...
 
 **Айла:** Ха-ха... К чему такое беспокойство? Неужели та женщина, в чьих венах течёт та же кровь, что и во мне, не показывала вам подобных дешёвых фокусов?
 
@@ -901,7 +901,7 @@
 
 **Айла:** Ваше появление здесь, как и кончина Ловии - всё это часть чего-то более великого, судьбы, о которой я не могу вам поведать, и я чувствую лишь радость.
 
-**Айла:** Она доверилась мне, потому что знала, что я всегда следую её учениям. И раз хозяйка{RUBY#[D]Туонетар} мира мёртвых указала мне оборвать её нить, она тоже должна была быть этому рада.
+**Айла:** Она доверилась мне, потому что знала, что я всегда следую её учениям. И раз хозяйкаТуонетар мира мёртвых указала мне оборвать её нить, она тоже должна была быть этому рада.
 
 **Айла:** А что до вас... Вы ведь покинете это место, не так ли, господин Соловей?
 
@@ -983,7 +983,7 @@
 
 **Рахетар:** Хм, куда же здесь ещё бежать? Вы, идите проверьте печать Палаты первого указа, а я пойду доложу Голосу Лунного Гимна.
 
-**Рахетар:** Как смеют они так дерзко вести себя на благословенной святой земле Морозной Луны - видимо, жить надоело! Разве что сама Куу{RUBY#[D]Дева Луны}тар прибудет, иначе...
+**Рахетар:** Как смеют они так дерзко вести себя на благословенной святой земле Морозной Луны - видимо, жить надоело! Разве что сама КууДева Лунытар прибудет, иначе...
 
 **Паймон:** Эм... Верна, ты ведь только что хотела сказать, что нам «совершенно не о чем беспокоиться»?
 
@@ -1009,9 +1009,9 @@
 
 **Паймон:** Слово «сверхсвященное» звучит как что-то, что к святости не имеет никакого отношения!
 
-**Верна:** Ой, нечего придираться к выражениям! Посмотрите лучше вон туда, на Колос тёмного леса - это то самое священное дерево, которое, согласно легенде, было свидетелем рождения Девы{RUBY#[D]Куутар} Луны!
+**Верна:** Ой, нечего придираться к выражениям! Посмотрите лучше вон туда, на Колос тёмного леса - это то самое священное дерево, которое, согласно легенде, было свидетелем рождения ДевыКуутар Луны!
 
-**Верна:** А вон там пруд... Э-э, если я не ошибаюсь, это благословлённый госпожой Айлой неиссякаемый Белый{RUBY#[D]Велламо} источник!
+**Верна:** А вон там пруд... Э-э, если я не ошибаюсь, это благословлённый госпожой Айлой неиссякаемый БелыйВелламо источник!
 
 **Паймон:** Как-то неубедительно! Ты точно не выдумываешь все эти названия на ходу?
 
@@ -1047,7 +1047,7 @@
 
 - **Путешественник:** Хорошо, что сундуки не забрали.
 
-**Верна:** Путешественник прав(а)... Похоже, это остаточное изображение, оставленное благосло{RUBY#[D]куувяки}вением Богини Луны...
+**Верна:** Путешественник прав(а)... Похоже, это остаточное изображение, оставленное благослокуувякивением Богини Луны...
 
 **Паймон:** Ага, это верно... Стой, сейчас не время об этом думать! А... кто ты?
 
@@ -1055,7 +1055,7 @@
 
 **Паймон:** Ух! Н-не говори такие страшные вещи так внезапно! Неужели...
 
-**Верна:** Не в этом дело! В этом мире ведь нет никаких призраков... н-наверное? Похоже, это остаточный образ, оставленный благосло{RUBY#[D]куувяки}вением Богини Луны...
+**Верна:** Не в этом дело! В этом мире ведь нет никаких призраков... н-наверное? Похоже, это остаточный образ, оставленный благослокуувякивением Богини Луны...
 
 **Верна:** И возможно, что остаточный образ, оставленный в Палате первого указа... сама госпожа Айла, первый Голос Лунного Гимна...
 
@@ -1071,7 +1071,7 @@
 
 - **Путешественник:** Неудивительно, что она была больше похожа на жрицу, чем ты.
 
-**Верна:** К-конечно! Хоть я и надёжная, но всё же просто обычная жрица. Куда мне тягаться с великой святой, которая была свидетелем рождения Девы{RUBY#[D]Куутар} Луны!
+**Верна:** К-конечно! Хоть я и надёжная, но всё же просто обычная жрица. Куда мне тягаться с великой святой, которая была свидетелем рождения ДевыКуутар Луны!
 
 **Айла:** Ну вот, теперь всё в порядке.
 
@@ -1081,7 +1081,7 @@
 
 **Паймон:** Ох! Откуда опять этот звук...
 
-**Верна:** Хм, должно быть, он остался вместе с образом святой девы? В конце концов, даже благосло{RUBY#[D]куувяки}вение Богини Луны не смогло бы так точно записать чей-то голос...
+**Верна:** Хм, должно быть, он остался вместе с образом святой девы? В конце концов, даже благослокуувякивение Богини Луны не смогло бы так точно записать чей-то голос...
 
 **Айла:** Ха-ха... К чему такое беспокойство? Неужели та женщина, в чьих венах течёт та же кровь, что и во мне, не показывала вам подобных дешёвых фокусов?
 
@@ -1111,7 +1111,7 @@
 
 **Айла:** Ваше появление здесь, как и кончина Ловии - всё это часть чего-то более великого, судьбы, о которой я не могу вам поведать, и я чувствую лишь радость.
 
-**Айла:** Она доверилась мне, потому что знала, что я всегда следую её учениям. И раз хозяйка{RUBY#[D]Туонетар} мира мёртвых указала мне оборвать её нить, она тоже должна была быть этому рада.
+**Айла:** Она доверилась мне, потому что знала, что я всегда следую её учениям. И раз хозяйкаТуонетар мира мёртвых указала мне оборвать её нить, она тоже должна была быть этому рада.
 
 **Айла:** А что до вас... Вы ведь покинете это место, не так ли, господин Соловей?
 
@@ -1217,7 +1217,7 @@
 
 **Рахетар:** Не нужно объяснять. Палата первого указа - это всего лишь запечатанное святилище, а не запретная тайная обитель. Раз уж вы, будучи чужаками, смогли ступить сюда, значит, на то была воля лунного света.
 
-**Верна:** Д-да, точно! Это всё священные указания Девы{RUBY#[D]Куутар} Луны! Как говорится в молитве...
+**Верна:** Д-да, точно! Это всё священные указания ДевыКуутар Луны! Как говорится в молитве...
 
 **Рахетар:** А вот ты, Вернадска, ступай за мной. Голос Лунного Гимна желает лично тебя видеть.
 
@@ -1265,7 +1265,7 @@
 
 **Рахетар:** Не нужно объяснять. Палата первого указа - это всего лишь запечатанное святилище, а не запретная тайная обитель. Раз уж вы, будучи чужаками, смогли ступить сюда, значит, на то была воля лунного света.
 
-**Верна:** И-именно! Всё это по священному указанию Дев{RUBY#[D]Куутар}ы Луны! Смотрите, тётушка Рахетар! Мы даже нашли то, что оставила госпожа Айла.
+**Верна:** И-именно! Всё это по священному указанию ДевКуутары Луны! Смотрите, тётушка Рахетар! Мы даже нашли то, что оставила госпожа Айла.
 
 **Рахетар:** А вот ты, Вернадска, ступай за мной. Голос Лунного Гимна желает лично тебя видеть.
 
@@ -1361,7 +1361,7 @@
 
 **Майте:** А? Что за... Кхм! Точно, а братец / сестрица знает своё дело! Моя цель - это Кра... Сокровище Царского краба.
 
-**Майте:** Драгоценнейшее сокровище, спрятанное в глубинах дворца Царского краба - камень, способный{RUBY#[D]Камень Твардовской} управлять человеческими желаниями. Это и есть сокровище, которое я ищу.
+**Майте:** Драгоценнейшее сокровище, спрятанное в глубинах дворца Царского краба - камень, способныйКамень Твардовской управлять человеческими желаниями. Это и есть сокровище, которое я ищу.
 
 **Паймон:** (Ох, только сейчас дошло, тут и про воров, и про Царского краба... Похоже на детскую приключенческую игру?)
 
@@ -1453,7 +1453,7 @@
 
 **Паймон:** Значит, огромный краб на самом деле сбежал внутрь зеркал? Это же просто краб, откуда у него такие способности!
 
-**Майте:** Наверное, это как-то связано с проклятым камнем{RUBY#[D]Камень Твардовской} желаний.
+**Майте:** Наверное, это как-то связано с проклятым камнемКамень Твардовской желаний.
 
 **Майте:** Кхм! Лучше бы вам опереться о стену, чтобы не упасть от шока, но я Майте Велью из Банды Раковины, я пришла сюда собирать информацию...
 
@@ -1531,7 +1531,7 @@
 
 **Паймон:** Значит, огромный краб на самом деле сбежал внутрь зеркал? Это же просто краб, откуда у него такие способности!
 
-**Майте:** Наверное, это как-то связано с проклятым камнем{RUBY#[D]Камень Твардовской} желаний.
+**Майте:** Наверное, это как-то связано с проклятым камнемКамень Твардовской желаний.
 
 **Майте:** Кхм! Лучше бы вам опереться о стену, чтобы не упасть от шока, но я Майте Велью из Банды Раковины, я пришла сюда собирать информацию...
 
@@ -1767,7 +1767,7 @@ You discover an island affected by kuuvahki turbulence near Hiisi Island...
 
 **Paimon:** You're seriously sidestepping the issue here...
 
-**Verna:** As the sacred prayer goes: "O, great father of genesis, forger of the{RUBY#[S]Takoja Ianikuinen} tripled moons! Let your wrath right that askew throne, that the fair one may become thy..."
+**Verna:** As the sacred prayer goes: "O, great father of genesis, forger of theTakoja Ianikuinen tripled moons! Let your wrath right that askew throne, that the fair one may become thy..."
 
 **Verna:** Become thy... uh, what comes next?
 
@@ -1811,7 +1811,7 @@ You discover an island affected by kuuvahki turbulence near Hiisi Island...
 
 - **Traveler:** Should I be wearing that green uniform from the Adventurers' Guild instead?
 
-**Verna:** Wait... You must be... You're the one the Moon Ma{RUBY#[D]Kuutar}iden holds dear... Talented beyond belief and totally unfazed, even with all this kuuvahki turbulence...
+**Verna:** Wait... You must be... You're the one the Moon MaKuutariden holds dear... Talented beyond belief and totally unfazed, even with all this kuuvahki turbulence...
 
 **Paimon:** Uhh, about that... Well, Paimon thinks we can just skip over the details. But seriously, why are you dressed like that? What are you doing here? And what even is kuuvahki turbulence?
 
@@ -1831,7 +1831,7 @@ You discover an island affected by kuuvahki turbulence near Hiisi Island...
 
 **Verna:** Well! You can't judge a book by the cover it wears, yes? We, too, have had scammers parading around Nasha Town in Frostmoon robes they clearly "found" somewhere.
 
-**Verna:** Oh! I know! A demonstration of our ancestors' bles{RUBY#[D]kuuvahki}sings should convince you of my identity! Bear witness... Hi-yah!
+**Verna:** Oh! I know! A demonstration of our ancestors' bleskuuvahkisings should convince you of my identity! Bear witness... Hi-yah!
 
 - **Traveler:** ...?
 
@@ -1863,7 +1863,7 @@ You discover an island affected by kuuvahki turbulence near Hiisi Island...
 
 **Verna:** Unfortunately, I can't. The others don't have my level of resistance. If I call in backup, they'll be dealing with much, much worse than a simple nosebleed.  That's why having helpers like you two show up is a rare stroke of luck!
 
-**Verna:** Ah, I knew I had a good eye— Uh... I mean, I knew trusting the Moon Ma{RUBY#[D]Kuutar}iden to bless me with saviors such as yourselves was a good idea!
+**Verna:** Ah, I knew I had a good eye— Uh... I mean, I knew trusting the Moon MaKuutariden to bless me with saviors such as yourselves was a good idea!
 
 **Paimon:** Alright, fine! We're adventurers, and we don't say no to folks in need, even if you seem a bit... unreliable. But even Paimon can tell something's definitely off here. Maybe we can help!
 
@@ -1873,7 +1873,7 @@ You discover an island affected by kuuvahki turbulence near Hiisi Island...
 
 **Verna:** Ever since the time of the first Moonchanter, Lady Aila, the kuuvahki in Thunderclap Reef has always been unstable. But things have gotten worse since those two large rocks fell from the sky...
 
-**Verna:** As the scripture says: "O Moon Ma{RUBY#[D]Kuutar}iden, even the immutable laws set by the dread Sovereign of the Firmament shall bend to your song, and even the tides of time and heaven's signs will..."
+**Verna:** As the scripture says: "O Moon MaKuutariden, even the immutable laws set by the dread Sovereign of the Firmament shall bend to your song, and even the tides of time and heaven's signs will..."
 
 **Verna:** Will... Uhh... what was the next line again? Oh well, I'm sure you get the idea!
 
@@ -1891,7 +1891,7 @@ You discover an island affected by kuuvahki turbulence near Hiisi Island...
 
 - **Traveler:** That's... not what I'd call foolproof.
 
-**Verna:** Right? See, this is why the Moon Ma{RUBY#[D]Kuutar}iden favors you, Traveler! You've got a sharp eye for genius!
+**Verna:** Right? See, this is why the Moon MaKuutariden favors you, Traveler! You've got a sharp eye for genius!
 
 **Paimon:** Hmm, Paimon doesn't really get all this calculating and analyzing, but Paimon's not sure she can trust anything you say, Verna...
 
@@ -2132,7 +2132,7 @@ Who are you?
 
 **Verna:** I—I can speak more gently too, you know!
 
-**Verna:** That imposter just happens to have a nicer manner of speech, greater skill in channeling the Moon Goddes{RUBY#[D]kuuvahki}s's blessing, and more experience with using the Moon Mirror...
+**Verna:** That imposter just happens to have a nicer manner of speech, greater skill in channeling the Moon Goddeskuuvahkis's blessing, and more experience with using the Moon Mirror...
 
 **Verna:** ...
 
@@ -2208,7 +2208,7 @@ Who are you?
 
 **Verna:** Ahem, anyway, I'm sure she was just bluffing. Because... Well, the Court of the First Edict was sealed off five hundred years ago.
 
-**Verna:** That place used to be one of our sacred sites. Five hundred years ago, Lady Aila, the Moonchanter who witnessed the birth of the Moon Ma{RUBY#[D]Kuutar}iden, personally sealed it shut.
+**Verna:** That place used to be one of our sacred sites. Five hundred years ago, Lady Aila, the Moonchanter who witnessed the birth of the Moon MaKuutariden, personally sealed it shut.
 
 **Verna:** Forget some outsider con artist — even after generations of Moonchanters, no one has ever broken the seal Lady Aila placed. It's not for a lack of trying... just that no one's ever succeeded.
 
@@ -2316,7 +2316,7 @@ In the center of the Frostmoon Enclave, you discover a strange large stone...
 
 **Kasha:** But I'm not a kid anymore. Mai also said that the outside world's way too dangerous for someone like me...
 
-**Kasha:** Which is kinda rich from her. She can't even use the bless{RUBY#[S]kuuvahki}ing of the Moon Goddess, and she's about the same age as me.
+**Kasha:** Which is kinda rich from her. She can't even use the blesskuuvahkiing of the Moon Goddess, and she's about the same age as me.
 
 **Kasha:** Still, it's fine! I'm super smart, anyway. Before I caught her, she kept muttering about some "stone"... That means she must be looking for pretty stones, right?
 
@@ -2436,7 +2436,7 @@ On Hiisi Island, the angler Pekkani finds himself puzzled by an unseen force dis
 
 You explain what happened earlier...
 
-**Pekkani:** Oh my! I have no idea what any of that means, but if you can pull off something that amazing, you must have the Moon Ma{RUBY#[D]Kuutar}iden's favor!
+**Pekkani:** Oh my! I have no idea what any of that means, but if you can pull off something that amazing, you must have the Moon MaKuutariden's favor!
 
 **Pekkani:** Oh, the Moon Goddess protects! She protects indeed! Now I can fish here to my heart's content — so long as that annoying bard doesn't bring his pet over or, Goddess forbid, start singing...
 
@@ -2456,7 +2456,7 @@ You run into Vernadska, the self-proclaimed priestess, again on Hiisi Island. Th
 
 **Verna:** E—Excuse you! That's a weird way to say hello! Seriously, you won't find a priestess more reliable than me anywhere else! There was never any reason to doubt me in the first place!
 
-**Verna:** Ahem! Anyway, this must be the Moon Mai{RUBY#[D]Kuutar}den's guidance at work — how else could I be so fortunate as to run into you both at a time like this?
+**Verna:** Ahem! Anyway, this must be the Moon MaiKuutarden's guidance at work — how else could I be so fortunate as to run into you both at a time like this?
 
 - **Traveler:** Well, we were just passing through...
 
@@ -2532,7 +2532,7 @@ You run into Vernadska, the self-proclaimed priestess, again on Hiisi Island. Th
 
 **Verna:** Well, since the super reliable Traveler is also someone who believes in science, I guess that explanation works too.
 
-**Verna:** Alright! "Since the Moon Ma{RUBY#[D]Kuutar}iden has spun a silvery path for us, what awaits beyond the threshold must be..." Umm... wait, how did the rest of it go again...?
+**Verna:** Alright! "Since the Moon MaKuutariden has spun a silvery path for us, what awaits beyond the threshold must be..." Umm... wait, how did the rest of it go again...?
 
 **Verna:** Ahem, anyway... since the Moonlane has appeared, it means our plan is working fine. All we need to do is follow it. This is the guidance of the Moon Goddess... Yep!
 
@@ -2552,7 +2552,7 @@ You run into Vernadska, the self-proclaimed priestess, again on Hiisi Island. Th
 
 - **Traveler:** Good thing the treasure chests are still here.
 
-**Verna:** You're right... But this isn't just "off." It looks like this is a residual image left behind by the Moon Goddes{RUBY#[D]kuuvahki}s's blessing...
+**Verna:** You're right... But this isn't just "off." It looks like this is a residual image left behind by the Moon Goddeskuuvahkis's blessing...
 
 **Paimon:** Yeah, you're right... Wait, now's not the time for that! So... just who are you, Miss Priestess-y-Looking Priestess?
 
@@ -2560,7 +2560,7 @@ You run into Vernadska, the self-proclaimed priestess, again on Hiisi Island. Th
 
 **Paimon:** Eek! Don't say creepy stuff like that all of a sudden! Are you saying she's a...
 
-**Verna:** No, no! That's not what I meant! There's no such thing as ghosts... At least, I think so...? But she seems more like a lingering image left behind by the Moon Goddes{RUBY#[D]kuuvahki}s's blessing...
+**Verna:** No, no! That's not what I meant! There's no such thing as ghosts... At least, I think so...? But she seems more like a lingering image left behind by the Moon Goddeskuuvahkis's blessing...
 
 **Verna:** And it's been left inside the Court of the First Edict... Maybe this... might be the first Moonchanter herself, Lady Aila...
 
@@ -2576,7 +2576,7 @@ You run into Vernadska, the self-proclaimed priestess, again on Hiisi Island. Th
 
 - **Traveler:** And that explains why she seemed like a more legit priestess than you...
 
-**Verna:** W—Well, of course! I may be reliable, but I'm still just a regular priestess. There's no way I could compare to the great Lady Aila, who witnessed the birth of the Moon Ma{RUBY#[D]Kuutar}iden!
+**Verna:** W—Well, of course! I may be reliable, but I'm still just a regular priestess. There's no way I could compare to the great Lady Aila, who witnessed the birth of the Moon MaKuutariden!
 
 **Aila:** There, that should do it.
 
@@ -2586,7 +2586,7 @@ You run into Vernadska, the self-proclaimed priestess, again on Hiisi Island. Th
 
 **Paimon:** Aaahh! W—Where did that voice just come from?!
 
-**Verna:** Hmm... Maybe it got recorded along with the first Moonchanter's image? I mean, even the Moon Goddes{RUBY#[D]kuuvahki}s's blessing couldn't be precise enough to capture just one person's voice, right?
+**Verna:** Hmm... Maybe it got recorded along with the first Moonchanter's image? I mean, even the Moon Goddeskuuvahkis's blessing couldn't be precise enough to capture just one person's voice, right?
 
 **Aila:** Hehe... There's no need to be so tense. That woman who shares my bloodline surely showed you a few of these low-brow tricks before, hmm?
 
@@ -2616,7 +2616,7 @@ You run into Vernadska, the self-proclaimed priestess, again on Hiisi Island. Th
 
 **Aila:** Your arrival... Lovia's end... all threads of a tapestry too vast for me to tell. And yet — how it thrills me.
 
-**Aila:** She trusted me because I heeded her every word. And when the Lady of the{RUBY#[D]Tuonetar} Underworld guided my hand to sever her thread... Even then, she should have rejoiced.
+**Aila:** She trusted me because I heeded her every word. And when the Lady of theTuonetar Underworld guided my hand to sever her thread... Even then, she should have rejoiced.
 
 **Aila:** As for you... You'll be leaving this place soon, won't you, Mr. Solovei?
 
@@ -2698,7 +2698,7 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 **Rahetar:** Hmph. You two, check on the seal. I'll inform the Lady Moonchanter. Let's see them try getting away...
 
-**Rahetar:** Causing trouble in the sacred lands of the Frost Moon... They've got a death wish! The only way they're getting out of this in one piece is if they're somehow the Lady Kuu{RUBY#[D]Moon Maiden}tar herself...
+**Rahetar:** Causing trouble in the sacred lands of the Frost Moon... They've got a death wish! The only way they're getting out of this in one piece is if they're somehow the Lady KuuMoon Maidentar herself...
 
 **Paimon:** Uhh... Verna? Still wanna tell us "there's absolutely nothing to worry about"?
 
@@ -2724,9 +2724,9 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 **Paimon:** Calling it "super sacred" just makes it sound less sacred by the minute!
 
-**Verna:** Oh, come on, don't get hung up on the wording! Look over there — that's the Verdant Crest! Legend says it's the sacred tree that witnessed the birth of the Moon Mai{RUBY#[D]Kuutar}den!
+**Verna:** Oh, come on, don't get hung up on the wording! Look over there — that's the Verdant Crest! Legend says it's the sacred tree that witnessed the birth of the Moon MaiKuutarden!
 
-**Verna:** And that pool over there... Uh, if I'm guessing right, that should be the ever-flowing White S{RUBY#[D]Vellamo}pring, blessed by Lady Aila herself!
+**Verna:** And that pool over there... Uh, if I'm guessing right, that should be the ever-flowing White SVellamopring, blessed by Lady Aila herself!
 
 **Paimon:** Do you really have to guess? Also, are you sure you didn't just make those names up?
 
@@ -2762,7 +2762,7 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 - **Traveler:** Good thing the treasure chests are still here.
 
-**Verna:** You're right... But this isn't just "off." It looks like this is a residual image left behind by the Moon Goddes{RUBY#[D]kuuvahki}s's blessing...
+**Verna:** You're right... But this isn't just "off." It looks like this is a residual image left behind by the Moon Goddeskuuvahkis's blessing...
 
 **Paimon:** Yeah, you're right... Wait, now's not the time for that! So... just who are you, Miss Priestess-y-Looking Priestess?
 
@@ -2770,7 +2770,7 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 **Paimon:** Eek! Don't say creepy stuff like that all of a sudden! Are you saying she's a...
 
-**Verna:** No, no! That's not what I meant! There's no such thing as ghosts... At least, I think so...? But she seems more like a lingering image left behind by the Moon Goddes{RUBY#[D]kuuvahki}s's blessing...
+**Verna:** No, no! That's not what I meant! There's no such thing as ghosts... At least, I think so...? But she seems more like a lingering image left behind by the Moon Goddeskuuvahkis's blessing...
 
 **Verna:** And it's been left inside the Court of the First Edict... Maybe this... might be the first Moonchanter herself, Lady Aila...
 
@@ -2786,7 +2786,7 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 - **Traveler:** And that explains why she seemed like a more legit priestess than you...
 
-**Verna:** W—Well, of course! I may be reliable, but I'm still just a regular priestess. There's no way I could compare to the great Lady Aila who witnessed the birth of the Moon Ma{RUBY#[D]Kuutar}iden!
+**Verna:** W—Well, of course! I may be reliable, but I'm still just a regular priestess. There's no way I could compare to the great Lady Aila who witnessed the birth of the Moon MaKuutariden!
 
 **Aila:** There, that should do it.
 
@@ -2796,7 +2796,7 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 **Paimon:** Aaahh! W—Where did that voice just come from?!
 
-**Verna:** Hmm... Maybe it got recorded along with the first Moonchanter's image? I mean, even the Moon Goddes{RUBY#[D]kuuvahki}s's blessing couldn't be precise enough to capture just one person's voice, right?
+**Verna:** Hmm... Maybe it got recorded along with the first Moonchanter's image? I mean, even the Moon Goddeskuuvahkis's blessing couldn't be precise enough to capture just one person's voice, right?
 
 **Aila:** Hehe... There's no need to be so tense. That woman who shares my bloodline surely showed you a few of these low-brow tricks before, hmm?
 
@@ -2826,7 +2826,7 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 **Aila:** Your arrival... Lovia's end... all threads of a tapestry too vast for me to tell. And yet — how it thrills me.
 
-**Aila:** She trusted me because I heeded her every word. And when the Lady of the{RUBY#[D]Tuonetar} Underworld guided my hand to sever her thread... Even then, she should have rejoiced.
+**Aila:** She trusted me because I heeded her every word. And when the Lady of theTuonetar Underworld guided my hand to sever her thread... Even then, she should have rejoiced.
 
 **Aila:** As for you... You'll be leaving this place soon, won't you, Mr. Solovei?
 
@@ -2932,7 +2932,7 @@ You briefly explained to Verna about the battle alongside the Ratniki...
 
 **Rahetar:** No need to explain. This place may be sealed, but it is not forbidden territory. If outsiders like you were able to enter, then perhaps it was the will of the moonlight.
 
-**Verna:** Exactly! This is all part of the Moon M{RUBY#[D]Kuutar}aiden's sacred guidance! Just like the poems say—
+**Verna:** Exactly! This is all part of the Moon MKuutaraiden's sacred guidance! Just like the poems say—
 
 **Rahetar:** As for you, Vernadska, you're coming with me. The Lady Moonchanter wants to see you — in person.
 
@@ -2980,7 +2980,7 @@ Before Verna can finish her sentence, Rahetar drags her off...
 
 **Rahetar:** No need to explain. This place may be sealed, but it is not forbidden territory. If outsiders like you were able to enter, then perhaps it was the will of the moonlight.
 
-**Verna:** Exactly! This is all part of the Moon M{RUBY#[D]Kuutar}aiden's sacred guidance! Look, Aunt Rahetar, we even found something Lady Aila left for—
+**Verna:** Exactly! This is all part of the Moon MKuutaraiden's sacred guidance! Look, Aunt Rahetar, we even found something Lady Aila left for—
 
 **Rahetar:** As for you, Vernadska, you're coming with me. The Lady Moonchanter wants to see you — in person.
 
@@ -3076,7 +3076,7 @@ You discover a deep pit near the Frostmoon Enclave...
 
 **Maite:** Huh? What kind of nickname is that... Ahem. That's right! You know your stuff, brother / sister. My target is the Crab... Crabby Booty.
 
-**Maite:** It's the most precious treasure hidden in the Crab Tsar's palace below... the st{RUBY#[D]Twardowska's Stone}one that can manipulate human desires. This is what I seek.
+**Maite:** It's the most precious treasure hidden in the Crab Tsar's palace below... the stTwardowska's Stoneone that can manipulate human desires. This is what I seek.
 
 **Paimon:** (Oh, it just hit Paimon after hearing all this talk about thieves and some Crab Tsar — this must be some kind of children's adventure game, right?)
 
@@ -3168,7 +3168,7 @@ You discover a deep pit near the Frostmoon Enclave...
 
 **Paimon:** Um, so that big crab actually went inside the mirrors? It's just a crab, so where did it learn how to do that?
 
-**Maite:** Well, it probably has something to do with that cursed st{RUBY#[D]Twardowska's Stone}one of desire.
+**Maite:** Well, it probably has something to do with that cursed stTwardowska's Stoneone of desire.
 
 **Maite:** *ahem* Better find a wall first, buddy, in case you fall over from what I'm about to tell you! I, Maite Veliu, am actually a member of the Conch Gang, here to gather intel—
 
@@ -3246,7 +3246,7 @@ You discover a deep pit near the Frostmoon Enclave...
 
 **Paimon:** Um, so that big crab actually went inside the mirrors? It's just a crab, so where did it learn how to do that?
 
-**Maite:** Well, it probably has something to do with that cursed st{RUBY#[D]Twardowska's Stone}one of desire.
+**Maite:** Well, it probably has something to do with that cursed stTwardowska's Stoneone of desire.
 
 **Maite:** *ahem* Better find a wall first, buddy, in case you fall over from what I'm about to tell you! I, Maite Veliu, am actually a member of the Conch Gang, here to gather intel—
 
@@ -3482,7 +3482,7 @@ And collect my free meal ticket?
 
 **派蒙:** 居然想就这么糊弄过去…
 
-**维娜:** 就像祷文中说的，「三重月的{RUBY#[S]塔科贾·雅尼奎宁}锻造主啊，你这颀伟的始源之父！你要发怒将那失衡的王座推正，好叫那美人成为你的…」
+**维娜:** 就像祷文中说的，「三重月的塔科贾·雅尼奎宁锻造主啊，你这颀伟的始源之父！你要发怒将那失衡的王座推正，好叫那美人成为你的…」
 
 **维娜:** 成、成为你的…呃，什么来着？
 
@@ -3526,7 +3526,7 @@ And collect my free meal ticket?
 
 - **旅行者:** 我应该穿协会那套绿色的制服吗？
 
-**维娜:** …难、难道是！月之{RUBY#[D]库塔尔}少女钟爱之人，天赋异禀，即使在月矩力紊乱的环境里也镇定自若…
+**维娜:** …难、难道是！月之库塔尔少女钟爱之人，天赋异禀，即使在月矩力紊乱的环境里也镇定自若…
 
 **派蒙:** 唔…感觉解释起来也很麻烦，你就当是这样好了。倒是你，你为什么穿成这样，又在这里干什么呀？还有月矩力紊乱到底是…
 
@@ -3546,7 +3546,7 @@ And collect my free meal ticket?
 
 **维娜:** 只靠衣装来认人可不行呀，毕竟以前还有穿着不知从哪里拿到的霜月衣装在那夏镇招摇撞骗的家伙。
 
-**维娜:** 我想想…嗯！只要展现一下我等先祖的祝{RUBY#[D]月矩力}福，两位一定就能信服了！看我的！呵——哈！
+**维娜:** 我想想…嗯！只要展现一下我等先祖的祝月矩力福，两位一定就能信服了！看我的！呵——哈！
 
 - **旅行者:** …？
 
@@ -3578,7 +3578,7 @@ And collect my free meal ticket?
 
 **维娜:** 那可不行，其他人不像我耐受程度这么高，来了可就不是流点鼻血这么简单了。所以像两位这样的帮手真是可遇而不可求啊…
 
-**维娜:** 啊，不愧是我看中的…不对，不愧是月之{RUBY#[D]库塔尔}少女钟爱之人！
+**维娜:** 啊，不愧是我看中的…不对，不愧是月之库塔尔少女钟爱之人！
 
 **派蒙:** 好吧，谁让我们是有求必应的冒险家呢。虽然维娜看起来有点不可靠…但这里的确看起来有些不对劲，说不定我们能帮上忙。
 
@@ -3588,7 +3588,7 @@ And collect my free meal ticket?
 
 **维娜:** 从最初的咏月使爱依菈大人的时代开始，雷图礁的月矩力就很不安稳，但自从那两块大石头从天上掉下来之后，情况就变得更糟了。
 
-**维娜:** 正所谓，「月之{RUBY#[D]库塔尔}少女啊，纵是可怖的苍穹之主立定的律法亦会为汝之歌屈折，纵是时节与天象亦会…」
+**维娜:** 正所谓，「月之库塔尔少女啊，纵是可怖的苍穹之主立定的律法亦会为汝之歌屈折，纵是时节与天象亦会…」
 
 **维娜:** 亦、亦会…欸？下一句是什么来着…算了，反正就是这么回事！
 
@@ -3606,7 +3606,7 @@ And collect my free meal ticket?
 
 - **旅行者:** 听起来多少有些离谱。
 
-**维娜:** 是吧是吧？嘿嘿，真不愧是月之{RUBY#[D]库塔尔}少女钟爱之人！旅行者有一双明辨良莠的慧眼呢！
+**维娜:** 是吧是吧？嘿嘿，真不愧是月之库塔尔少女钟爱之人！旅行者有一双明辨良莠的慧眼呢！
 
 **派蒙:** 唔，我是不太懂计算和分析这些啦，不过从维娜口中说出来总觉得就没那么靠谱了…
 
@@ -3847,7 +3847,7 @@ And collect my free meal ticket?
 
 **维娜:** 我、我说话也可以更温柔的！
 
-**维娜:** 那个冒牌货，只是碰巧比我说话更好听，更会用月神大人的祝{RUBY#[D]月矩力}福，又碰巧比我更会操纵盈月之镜…
+**维娜:** 那个冒牌货，只是碰巧比我说话更好听，更会用月神大人的祝月矩力福，又碰巧比我更会操纵盈月之镜…
 
 **维娜:** ……
 
@@ -3923,7 +3923,7 @@ And collect my free meal ticket?
 
 **维娜:** 咳咳，总之，那个不过是虚张声势的谎话啦。要说为什么的话，初谕之庭早在五百年前就被封锁起来了。
 
-**维娜:** 那里曾经是霜月之子的圣所之一，在五百年前被见证了月之{RUBY#[D]库塔尔}少女诞生的咏月使爱依菈大人关闭了所有门扉。
+**维娜:** 那里曾经是霜月之子的圣所之一，在五百年前被见证了月之库塔尔少女诞生的咏月使爱依菈大人关闭了所有门扉。
 
 **维娜:** 别说她一个从外面来的骗子了，就是历代咏月使，也无人打开过爱依菈大人亲手设下的封印。不是没人想过，而是没人做到过。
 
@@ -4031,7 +4031,7 @@ And collect my free meal ticket?
 
 **卡夏:** 可是，我已经不是小孩子了呀。小梅之前也说，外面的世界太乱，不适合像我这样的小孩子…
 
-**卡夏:** 明明她连月神大人{RUBY#[S]月矩力}的祝福都没法用，年龄也和我差不多。
+**卡夏:** 明明她连月神大人月矩力的祝福都没法用，年龄也和我差不多。
 
 **卡夏:** 不过没关系，我可是超聪明的。小梅被我抓到之前，一直在念叨「石头」什么的，说明她的目的就是收集漂亮的石头…
 
@@ -4151,7 +4151,7 @@ And collect my free meal ticket?
 
 讲述了之前的事…
 
-**佩卡尼:** 唔哦！虽然完全没听懂怎么回事，但既然能展现这般奇迹，你们一定是受到月之{RUBY#[D]库塔尔}少女宠爱的人吧！
+**佩卡尼:** 唔哦！虽然完全没听懂怎么回事，但既然能展现这般奇迹，你们一定是受到月之库塔尔少女宠爱的人吧！
 
 **佩卡尼:** 月神大人保佑，月神大人保佑！这样一来，我就能在这里大钓特钓了！只要那个讨厌的游吟诗人不再带着他的宠物过来唱歌…
 
@@ -4171,7 +4171,7 @@ And collect my free meal ticket?
 
 **维娜:** 这、这是什么奇怪的说法啦！真是的，很少有比我更可靠的执祭了吧？从一开始就没必要怀疑啦！
 
-**维娜:** 咳咳，总之，这也一定是月之{RUBY#[D]库塔尔}少女的指引，否则怎么会这么巧合，恰好让我在这种时候遇到两位呢？
+**维娜:** 咳咳，总之，这也一定是月之库塔尔少女的指引，否则怎么会这么巧合，恰好让我在这种时候遇到两位呢？
 
 - **旅行者:** 我们只是路过…
 
@@ -4247,7 +4247,7 @@ And collect my free meal ticket?
 
 **维娜:** 哎呀，因为超级可靠的旅行者也是相信科学的人，所以这种说法也没有问题啦。
 
-**维娜:** 好，「既然月之{RUBY#[D]库塔尔}少女已经为我等纺就了银白的通途，等待在门扉彼端的便也唯有」…唯有…
+**维娜:** 好，「既然月之库塔尔少女已经为我等纺就了银白的通途，等待在门扉彼端的便也唯有」…唯有…
 
 **维娜:** 咳，总之就是…既然出现了月灵旅路，就说明我们的计划是没问题的，只要沿着它前进就好。这就是月神大人的指引，嗯！
 
@@ -4267,7 +4267,7 @@ And collect my free meal ticket?
 
 - **旅行者:** 没把宝箱带走就好。
 
-**维娜:** 旅行者说的对…不过，已经不只是有些不对劲的问题了，看样子，这个应该是通过月神大人的祝{RUBY#[D]月矩力}福留下的残像…
+**维娜:** 旅行者说的对…不过，已经不只是有些不对劲的问题了，看样子，这个应该是通过月神大人的祝月矩力福留下的残像…
 
 **派蒙:** 嗯嗯，那倒也是…不对，现在好像不是说这个的时候吧！那个…你到底是什么人呀？
 
@@ -4275,7 +4275,7 @@ And collect my free meal ticket?
 
 **派蒙:** 噫！不、不要突然说这么可怕的事情呀！难道说…
 
-**维娜:** 不是那个意思啦！这世上又没有鬼魂之类的东西…应、应该吧？看样子，这个是通过月神大人的祝{RUBY#[D]月矩力}福留下的残像…
+**维娜:** 不是那个意思啦！这世上又没有鬼魂之类的东西…应、应该吧？看样子，这个是通过月神大人的祝月矩力福留下的残像…
 
 **维娜:** 而且还是在初谕之庭里留下的残像…说不定，这、这位就是最初的咏月使，爱依菈大人…
 
@@ -4291,7 +4291,7 @@ And collect my free meal ticket?
 
 - **旅行者:** 难怪会比你看起来更像祭司。
 
-**维娜:** 那、那是当然！我虽然很可靠，但也不过是个普通的执祭，怎么可能和见证了月之{RUBY#[D]库塔尔}少女诞生的伟大圣女相比呢！
+**维娜:** 那、那是当然！我虽然很可靠，但也不过是个普通的执祭，怎么可能和见证了月之库塔尔少女诞生的伟大圣女相比呢！
 
 **爱依菈:** 嗯，这样就好了。
 
@@ -4301,7 +4301,7 @@ And collect my free meal ticket?
 
 **派蒙:** 呜哇！这、这个声音又是从什么地方——
 
-**维娜:** 唔，应该是和圣女大人的影像一起被记录下来的声音吧？毕竟月神大人的祝{RUBY#[D]月矩力}福也不会那么精准地记录某一个人的声音…
+**维娜:** 唔，应该是和圣女大人的影像一起被记录下来的声音吧？毕竟月神大人的祝月矩力福也不会那么精准地记录某一个人的声音…
 
 **爱依菈:** 呵呵…您又何必紧张呢。那个和我流淌着同样血脉的女人，难道没有向您展现过这般不入流的戏法吗？
 
@@ -4331,7 +4331,7 @@ And collect my free meal ticket?
 
 **爱依菈:** 您会来到这里也好，娄维娅的结局也好，都是更伟大的、我无法向您述说的命运的一部分，而我能感受到的只有愉悦。
 
-**爱依菈:** 她信任我，是因为我始终听从她的教诲。既然冥府的{RUBY#[D]图奥内塔尔}女主人指引我切断了她的纺线，她也应当感到喜悦。
+**爱依菈:** 她信任我，是因为我始终听从她的教诲。既然冥府的图奥内塔尔女主人指引我切断了她的纺线，她也应当感到喜悦。
 
 **爱依菈:** 至于您…您接下来会离开这里，不是吗，索洛维先生？
 
@@ -4413,7 +4413,7 @@ And collect my free meal ticket?
 
 **莱赫妲尔:** 哼，就算想逃又能逃到什么地方？你们几个先去确认一下初谕之庭的封印，我去通知咏月使大人。
 
-**莱赫妲尔:** 竟然有人敢在霜月祝福的神圣土地上如此放肆，我看也是活腻了！除非是库塔{RUBY#[D]月之少女}尔大人莅临，否则…
+**莱赫妲尔:** 竟然有人敢在霜月祝福的神圣土地上如此放肆，我看也是活腻了！除非是库塔月之少女尔大人莅临，否则…
 
 **派蒙:** 呃…维娜，你刚才是不是想说「完全没必要担心」之类的话来着？
 
@@ -4439,9 +4439,9 @@ And collect my free meal ticket?
 
 **派蒙:** 「超神圣的」这种随便的说法听起来就很不神圣啦！
 
-**维娜:** 哎呀，这种说辞上的小问题就不要在意了嘛！你们看那边的苍林之穗，就是传说中见证了月之{RUBY#[D]库塔尔}少女诞生的圣树喔！
+**维娜:** 哎呀，这种说辞上的小问题就不要在意了嘛！你们看那边的苍林之穗，就是传说中见证了月之库塔尔少女诞生的圣树喔！
 
-**维娜:** 然后就是那边的水池…呃，要是我没猜错的话，那个应该就是爱依菈大人祝福过的、永不枯竭的白{RUBY#[D]维拉莫之泉}泉了吧！
+**维娜:** 然后就是那边的水池…呃，要是我没猜错的话，那个应该就是爱依菈大人祝福过的、永不枯竭的白维拉莫之泉泉了吧！
 
 **派蒙:** 这种事情还需要猜吗！另外这些名字真的不是你现编出来的吗？
 
@@ -4477,7 +4477,7 @@ And collect my free meal ticket?
 
 - **旅行者:** 没把宝箱带走就好。
 
-**维娜:** 旅行者说的对…不过，已经不只是有些不对劲的问题了，看样子，这个应该是通过月神大人的祝{RUBY#[D]月矩力}福留下的残像…
+**维娜:** 旅行者说的对…不过，已经不只是有些不对劲的问题了，看样子，这个应该是通过月神大人的祝月矩力福留下的残像…
 
 **派蒙:** 嗯嗯，那倒也是…不对，现在好像不是说这个的时候吧！那个…你到底是什么人呀？
 
@@ -4485,7 +4485,7 @@ And collect my free meal ticket?
 
 **派蒙:** 噫！不、不要突然说这么可怕的事情呀！难道说…
 
-**维娜:** 不是那个意思啦！这世上又没有鬼魂之类的东西…应、应该吧？看样子，这个是通过月神大人的祝{RUBY#[D]月矩力}福留下的残像…
+**维娜:** 不是那个意思啦！这世上又没有鬼魂之类的东西…应、应该吧？看样子，这个是通过月神大人的祝月矩力福留下的残像…
 
 **维娜:** 而且还是在初谕之庭里留下的残像…说不定，这、这位就是最初的咏月使，爱依菈大人…
 
@@ -4501,7 +4501,7 @@ And collect my free meal ticket?
 
 - **旅行者:** 难怪会比你看起来更像祭司。
 
-**维娜:** 那、那是当然！我虽然很可靠，但也不过是个普通的执祭，怎么可能和见证了月之{RUBY#[D]库塔尔}少女诞生的伟大圣女相比呢！
+**维娜:** 那、那是当然！我虽然很可靠，但也不过是个普通的执祭，怎么可能和见证了月之库塔尔少女诞生的伟大圣女相比呢！
 
 **爱依菈:** 嗯，这样就好了。
 
@@ -4511,7 +4511,7 @@ And collect my free meal ticket?
 
 **派蒙:** 呜哇！这、这个声音又是从什么地方——
 
-**维娜:** 唔，应该是和圣女大人的影像一起被记录下来的声音吧？毕竟月神大人的祝{RUBY#[D]月矩力}福也不会那么精准地记录某一个人的声音…
+**维娜:** 唔，应该是和圣女大人的影像一起被记录下来的声音吧？毕竟月神大人的祝月矩力福也不会那么精准地记录某一个人的声音…
 
 **爱依菈:** 呵呵…您又何必紧张呢。那个和我流淌着同样血脉的女人，难道没有向您展现过这般不入流的戏法吗？
 
@@ -4541,7 +4541,7 @@ And collect my free meal ticket?
 
 **爱依菈:** 您会来到这里也好，娄维娅的结局也好，都是更伟大的、我无法向您述说的命运的一部分，而我能感受到的只有愉悦。
 
-**爱依菈:** 她信任我，是因为我始终听从她的教诲。既然冥府的{RUBY#[D]图奥内塔尔}女主人指引我切断了她的纺线，她也应当感到喜悦。
+**爱依菈:** 她信任我，是因为我始终听从她的教诲。既然冥府的图奥内塔尔女主人指引我切断了她的纺线，她也应当感到喜悦。
 
 **爱依菈:** 至于您…您接下来会离开这里，不是吗，索洛维先生？
 
@@ -4647,7 +4647,7 @@ And collect my free meal ticket?
 
 **莱赫妲尔:** 两位不必解释。初谕之庭只是被封锁的圣地，而非禁忌的秘所，既然两位作为外人能踏足其中，那便也是月光的意旨。
 
-**维娜:** 没、没错！这都是月之{RUBY#[D]库塔尔}少女神圣的指引！正如诗中所说——
+**维娜:** 没、没错！这都是月之库塔尔少女神圣的指引！正如诗中所说——
 
 **莱赫妲尔:** 至于你，维娜琴卡，你先跟我来一趟，咏月使大人要亲自见你。
 
@@ -4695,7 +4695,7 @@ And collect my free meal ticket?
 
 **莱赫妲尔:** 两位不必解释。初谕之庭只是被封锁的圣地，而非禁忌的秘所，既然两位作为外人能踏足其中，那便也是月光的意旨。
 
-**维娜:** 没、没错！这都是月之{RUBY#[D]库塔尔}少女神圣的指引！你看，莱赫妲尔阿姨，我们甚至还找到了爱依菈大人留下的——
+**维娜:** 没、没错！这都是月之库塔尔少女神圣的指引！你看，莱赫妲尔阿姨，我们甚至还找到了爱依菈大人留下的——
 
 **莱赫妲尔:** 至于你，维娜琴卡，你先跟我来一趟，咏月使大人要亲自见你。
 
@@ -4791,7 +4791,7 @@ And collect my free meal ticket?
 
 **梅蒂:** 啊？那是什么简称…咳！没错，大哥 / 大姐很懂行嘛，我的目标就是蟹…蟹皇宝。
 
-**梅蒂:** 深藏在下方蟹沙皇的宫殿中最珍贵的秘宝，能操纵人心的欲望{RUBY#[D]图瓦道茨基之石}之石。这就是我要找的宝藏。
+**梅蒂:** 深藏在下方蟹沙皇的宫殿中最珍贵的秘宝，能操纵人心的欲望图瓦道茨基之石之石。这就是我要找的宝藏。
 
 **派蒙:** （哦哦，我听到现在才反应过来，又是大盗又是蟹沙皇的，应该是小孩子的冒险游戏吧？）
 
@@ -4883,7 +4883,7 @@ And collect my free meal ticket?
 
 **派蒙:** 呃，所以那只大螃蟹其实是跑到镜子里去了？明明只是螃蟹而已，为什么会有这种本领啦！
 
-**梅蒂:** 这个嘛，大概也和那块该死的欲望{RUBY#[D]图瓦道茨基之石}之石有关吧。
+**梅蒂:** 这个嘛，大概也和那块该死的欲望图瓦道茨基之石之石有关吧。
 
 **梅蒂:** 咳哼！最好先扶住墙，伙计，以免听了被吓一跳。我，梅蒂·维利乌，其实是「海螺帮」的人，来这里打探情报的——
 
@@ -4961,7 +4961,7 @@ And collect my free meal ticket?
 
 **派蒙:** 呃，所以那只大螃蟹其实是跑到镜子里去了？明明只是螃蟹而已，为什么会有这种本领啦！
 
-**梅蒂:** 这个嘛，大概也和那块该死的欲望{RUBY#[D]图瓦道茨基之石}之石有关吧。
+**梅蒂:** 这个嘛，大概也和那块该死的欲望图瓦道茨基之石之石有关吧。
 
 **梅蒂:** 咳哼！最好先扶住墙，伙计，以免听了被吓一跳。我，梅蒂·维利乌，其实是「海螺帮」的人，来这里打探情报的——
 

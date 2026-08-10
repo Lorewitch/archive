@@ -3,18 +3,18 @@
 # title_ru: Всеядные гурманы: Наведение порядка
 # title_en: The Gourmet Supremos: Cleanup
 # title_zh: 全能美食队·收束
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73805
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73805
 # previous_quests: quest_wq_73800
-# next_quests: 
-# related_quests: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73800
-# quest_chain: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73800,quest_wq_73805
+# next_quests:
+# related_quests: quest_wq_73800
+# quest_chain: quest_wq_73800,quest_wq_73805
 # quest_series: The Gourmet Supremos
 # version_source: wiki_release_category
 

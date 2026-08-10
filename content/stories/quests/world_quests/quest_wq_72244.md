@@ -3,19 +3,19 @@
 # title_ru: Сиртос Фаэтонов
 # title_en: The Phaethons' Syrtos
 # title_zh: 法厄同们全跳舞
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72244
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72244
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72244
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -44,7 +44,7 @@
 
 **Климена:** Путешественник / ца, по правде говоря, у меня есть скромная просьба.
 
-**Климена:** В разных местах Бякуякоку находятся семь королевских гробниц, в которых покоятся останки наших Сы{RUBY#[D]Фаэтон}нов Солнца.
+**Климена:** В разных местах Бякуякоку находятся семь королевских гробниц, в которых покоятся останки наших СыФаэтоннов Солнца.
 
 **Паймон:** Сыны Солнца...
 
@@ -332,7 +332,7 @@ That's more or less correct...
 
 **Clymene:** Traveler. In truth, I have a humble request for you.
 
-**Clymene:** There are seven royal tombs scattered throughout Byakuyakoku, in which the remains of our "Sunchi{RUBY#[S]Phaethons}ldren" have been interred.
+**Clymene:** There are seven royal tombs scattered throughout Byakuyakoku, in which the remains of our "SunchiPhaethonsldren" have been interred.
 
 **Paimon:** The Sunchildren...
 
@@ -620,7 +620,7 @@ From Aberaku...
 
 **久利由卖:** 旅者啊，其实妾身有一事相求。
 
-**久利由卖:** 在白夜之国各处，有七座压着「太阳{RUBY#[D]法厄同}之子」遗服的御陵墓石。
+**久利由卖:** 在白夜之国各处，有七座压着「太阳法厄同之子」遗服的御陵墓石。
 
 **派蒙:** 太阳之子…
 

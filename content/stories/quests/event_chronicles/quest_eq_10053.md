@@ -13,8 +13,8 @@
 # part_source_ids: 40036
 # previous_quests: quest_eq_10052
 # next_quests: quest_eq_10054
-# related_quests: quest_eq_10052,quest_eq_10054,quest_eq_10056,quest_eq_10057
-# quest_chain: quest_eq_10052,quest_eq_10053,quest_eq_10054,quest_eq_10056,quest_eq_10057
+# related_quests: quest_eq_10052,quest_eq_10054
+# quest_chain: quest_eq_10052,quest_eq_10053,quest_eq_10054
 # quest_series: Fleeting Colors in Flight
 # version_source: wiki_release_category
 

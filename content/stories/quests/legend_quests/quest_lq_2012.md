@@ -3,7 +3,7 @@
 # title_ru: Приключение могучего Одноглазика!
 # title_en: Mighty Cyclops' Adventure!
 # title_zh: 独眼小宝总动员
-# region: Ли Юэ, Снежная
+# region: Снежная
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 2012
@@ -11,11 +11,11 @@
 # chapter_num_en: Monoceros Caeli Chapter: Act I
 # chapter_num_zh: 鲸天之章 第一幕
 # part_source_ids: 11010,11011,11012
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2012
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2606,7 +2606,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **戴派:** 呃，你的心意我十分感谢，可是…万一让你因此陷入危险，那可就得不偿失了…
 
-**派蒙:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}可是很能打的，你放心啦。
+**派蒙:** 旅行者空/荧可是很能打的，你放心啦。
 
 - **旅行者:** 没关系的，我会一点防身术。
 
@@ -2626,7 +2626,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 #### 调查遗迹守卫的线索
 
-**托克:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}快看！好大，好威风！
+**托克:** 空/荧快看！好大，好威风！
 
 **派蒙:** 咦，是个装扮奇怪的小朋友…
 
@@ -2646,7 +2646,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 他现在在璃月的「玩具研究所」工作，「独眼小宝」就是在那里出生的。
 
-**托克:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}你应该也很喜欢玩具吧，你身边飘着的这只是最新款吗？居然还会说话！
+**托克:** 空/荧你应该也很喜欢玩具吧，你身边飘着的这只是最新款吗？居然还会说话！
 
 - **旅行者:** 派蒙和遗迹守卫都不是玩具…
 
@@ -2670,7 +2670,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **戴派:** 独…独眼什么？
 
-**托克:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，这个叔叔在说「独眼小宝」的坏话，所以他肯定是坏人，我们千万不要理他。
+**托克:** 空/荧，这个叔叔在说「独眼小宝」的坏话，所以他肯定是坏人，我们千万不要理他。
 
 **戴派:** 小朋友，我只是出于好心…
 
@@ -2714,7 +2714,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 - **旅行者:** 我收下了（见到他哥哥就还回去吧…）
 
-**托克:** 唔哇，真的吗！谢谢好人{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}！
+**托克:** 唔哇，真的吗！谢谢好人空/荧！
 
 **托克:** 那么，和托克拉勾吧！
 
@@ -2758,7 +2758,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 下了船以后我走啊走，然后就见到了「独眼小宝」！
 
-**托克:** 「独眼小宝」赶走了一个坏蛋，再然后，我就跟着好人{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}过来了…
+**托克:** 「独眼小宝」赶走了一个坏蛋，再然后，我就跟着好人空/荧过来了…
 
 - **旅行者:** 居然是偷渡吗！
 
@@ -2804,7 +2804,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **「公子」:** 哈哈哈…这次就算了，打架会教坏小孩子的。
 
-**托克:** 打架？哥哥和好人{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}关系不好吗？
+**托克:** 打架？哥哥和好人空/荧关系不好吗？
 
 **「公子」:** 没有没有，怎么会呢？旅行者，容我正式感谢你护送我的弟弟，他的安危对我来说真的很重要。
 
@@ -2840,11 +2840,11 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 哥哥要去卖玩具了吗？
 
-**「公子」:** 没错。虽然哥哥也很想陪陪托克，可毕竟工作在身，不如还是让带你来的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}陪你吧？
+**「公子」:** 没错。虽然哥哥也很想陪陪托克，可毕竟工作在身，不如还是让带你来的空/荧陪你吧？
 
 **派蒙:** 还要我们做保姆吗！
 
-**托克:** 嗯！托克喜欢和好人{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}一起，而且我们拉过勾了，约好要照顾托克的！
+**托克:** 嗯！托克喜欢和好人空/荧一起，而且我们拉过勾了，约好要照顾托克的！
 
 **「公子」:** 嗯，托克喜欢和你一起，而且你们拉过勾了，约好要照顾托克的。
 
@@ -3140,7 +3140,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 嘿嘿…
 
-**托克:** 欸，大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，我们再去那边看看船吧！
+**托克:** 欸，大空/荧，我们再去那边看看船吧！
 
 #### 场景
 
@@ -3294,7 +3294,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 欸，可是、可是哥哥，你一直在忙都没有好好陪托克玩过…
 
-**「公子」:** 托克，你知道哥哥的工作很忙…而且旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}已经带你好好「旅行」过了吧？
+**「公子」:** 托克，你知道哥哥的工作很忙…而且旅行者空/荧已经带你好好「旅行」过了吧？
 
 **派蒙:** （他其实只是觉得这样下去要瞒不住了吧…）
 
@@ -3318,7 +3318,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **派蒙:** 这…真的没关系吗？带托克去那样的地方…
 
-**托克:** 好人{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，你们也一起来嘛！这次轮到托克带你们参观了！
+**托克:** 好人空/荧，你们也一起来嘛！这次轮到托克带你们参观了！
 
 **「公子」:** 「玩具研究所」…嗯，其实就是在灵矩关附近的那个吧。那么…旅行者，你们该不会是要让小孩子失望的那种人吧？
 
@@ -3414,7 +3414,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 唔哇，这是好事！托克以后也想当玩具销售员，我也能去听听吗？
 
-**「公子」:** 这个嘛…托克还太小，很多事情都听不懂，很无聊的。不如还是让旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}带你玩好不好？
+**「公子」:** 这个嘛…托克还太小，很多事情都听不懂，很无聊的。不如还是让旅行者空/荧带你玩好不好？
 
 - **旅行者:** 这么自然地甩给我们了？
 
@@ -3624,7 +3624,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 哦对呀！托克太高兴了，把捉迷藏的事都给忘了！
 
-**托克:** 那{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，我们一起找吧？
+**托克:** 那空/荧，我们一起找吧？
 
 #### 找到「公子」并对话
 
@@ -3750,7 +3750,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 #### 与经理对话
 
-**安德烈:** 旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BOYC|INFO_FEMALE_PRONOUN_GIRLC]}，还有托克少爷，我一直在等你们。
+**安德烈:** 旅行者空/荧，还有托克少爷，我一直在等你们。
 
 **派蒙:** 是「公子」安排的人吗？
 
@@ -3760,7 +3760,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **派蒙:** 可是你明明一直跟着我们…
 
-**托克:** 那是因为我早就认识好人{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}呀？
+**托克:** 那是因为我早就认识好人空/荧呀？
 
 **派蒙:** 欸？
 
@@ -3782,7 +3782,7 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 咦，这么快吗…
 
-**托克:** 那么，好人{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}再见！
+**托克:** 那么，好人空/荧再见！
 
 **托克:** 托克会在家等着你们，以后一定~一定~一定也要来至冬旅行哦！
 

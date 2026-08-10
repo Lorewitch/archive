@@ -11,11 +11,11 @@
 # chapter_num_en: Dracaena Somnolenta Chapter: Act I
 # chapter_num_zh: 眠龙之章 第一幕
 # part_source_ids: 12020,12021,12022,12023,12024
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2024
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2754,7 +2754,7 @@ You did an admirable job.
 
 **嘉久:** 我说，刚刚的事情，能跟队长说吗？
 
-**恒雄:** 还是不要吧。{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}也是珊瑚宫大人提拔起来的，说不定也主张和谈…
+**恒雄:** 还是不要吧。空/荧也是珊瑚宫大人提拔起来的，说不定也主张和谈…
 
 **嘉久:** 队长应该理解我们吧？不过小心一点也有道理…
 
@@ -3130,7 +3130,7 @@ You did an admirable job.
 
 **岩田:** 珊瑚宫大人！总算见到您了。关于今年农业减产的问题，我想跟您汇报一下…
 
-**亮子:** 珊瑚宫大人，这位不是剑鱼二番队的队长吗？{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}以后会留在海祇岛吗？
+**亮子:** 珊瑚宫大人，这位不是剑鱼二番队的队长吗？空/荧以后会留在海祇岛吗？
 
 **幸也:** 珊瑚宫大人…
 
@@ -3644,7 +3644,7 @@ You did an admirable job.
 
 **珊瑚宫心海:** 没错，旅行者是这次和谈的见证人。
 
-**珊瑚宫心海:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}完整地经历了我们之间的战争，为现在的和平做出了巨大的贡献。我想，应该没有人比{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}更合适了。
+**珊瑚宫心海:** 空/荧完整地经历了我们之间的战争，为现在的和平做出了巨大的贡献。我想，应该没有人比空/荧更合适了。
 
 **九条裟罗:** 也是，那我们直接进入正题吧。
 

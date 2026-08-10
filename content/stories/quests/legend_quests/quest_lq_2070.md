@@ -11,7 +11,7 @@
 # chapter_num_en: Mushroom Realm Mystery: Act I
 # chapter_num_zh: 蘑境菌奇 第一幕
 # part_source_ids: 15018
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2071
 # related_quests: quest_lq_2071,quest_lq_2073
 # quest_chain: quest_lq_2070,quest_lq_2071,quest_lq_2073
@@ -50,7 +50,7 @@
 
 **Паймон:** Да ладно, что тут такого...
 
-**Вареса:** Вы (героини)(герои), сражавшиеся с Бездной. Ваши подвиги передаются из уст в уста по всему Натлану. Я слышала о вас множество раз. История Тума{RUBY#[S]Надежда}йни произвела на меня неизгладимое впечатление, я практически знаю её наизусть!
+**Вареса:** Вы (героини)(герои), сражавшиеся с Бездной. Ваши подвиги передаются из уст в уста по всему Натлану. Я слышала о вас множество раз. История ТумаНадеждайни произвела на меня неизгладимое впечатление, я практически знаю её наизусть!
 
 **Вареса:** С тех пор как тренер Иансан сказала, что ждёт вас в Уделе Благодатных Земель, я ни о чём другом и думать не могу! Кстати, меня зовут Вареса. Не знаю, говорила ли вам тренер обо мне...
 
@@ -210,7 +210,7 @@ As you arrive at the outskirts of the Great Volcano of Tollan, you come across a
 
 **Paimon:** S—Surely we're not THAT big of a deal...
 
-**Varesa:** You're the heroes who defeated the Abyss! You're a huge deal to everyone in Natlan! I've heard the story of "Tum{RUBY#[S]Hope}aini!" so many times, I can practically recite it by heart!
+**Varesa:** You're the heroes who defeated the Abyss! You're a huge deal to everyone in Natlan! I've heard the story of "TumHopeaini!" so many times, I can practically recite it by heart!
 
 **Varesa:** I've been so excited to meet you ever since Coach Iansan told me you might be coming. Oh, my name's Varesa, by the way. Not sure if Coach mentioned me before...
 
@@ -370,7 +370,7 @@ Hope we didn't hold you up.
 
 **派蒙:** 也、也不用这么激动吧？
 
-**瓦雷莎:** 你们可是对抗深渊的英雄啊，事迹已经传遍纳塔了，我听了好几遍「杜麦{RUBY#[S]希望}尼」的故事，印象深刻！
+**瓦雷莎:** 你们可是对抗深渊的英雄啊，事迹已经传遍纳塔了，我听了好几遍「杜麦希望尼」的故事，印象深刻！
 
 **瓦雷莎:** 从伊安珊老师说你们可能会来「沃陆之邦」开始，我就特别期待！哦，对了，我叫瓦雷莎，伊安珊老师应该提过我的名字吧？
 

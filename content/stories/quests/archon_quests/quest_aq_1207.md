@@ -3,7 +3,7 @@
 # title_ru: Опасная тропа
 # title_en: Perilous Trail
 # title_zh: 危途疑踪
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 1207
@@ -11,10 +11,10 @@
 # chapter_num_en: Interlude Chapter: Act II
 # chapter_num_zh: 间章 第二幕
 # part_source_ids: 1019,1028,1029,1030,1031
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_aq_1205,quest_aq_1307,quest_aq_1004
-# quest_chain: quest_aq_1205,quest_aq_1207,quest_aq_1307,quest_aq_1004
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_aq_1207
 # quest_series: Interlude || Interlude Chapter
 # version_source: wiki_release_category
 
@@ -7194,7 +7194,7 @@ No, Xiao... They are all heroes.
 
 **派蒙:** …怎么会…
 
-**派蒙:** 呜…没事的，我会陪你找到{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}，打起精神来呀！
+**派蒙:** 呜…没事的，我会陪你找到空/荧，打起精神来呀！
 
 **荒泷一斗:** 可恶，这扇破门！真想揍它一顿！
 
@@ -8210,7 +8210,7 @@ No, Xiao... They are all heroes.
 
 **派蒙:** 啊！那是…是…
 
-{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_YING|INFO_FEMALE_PRONOUN_BROTHER]}！等等！
+空/荧！等等！
 
 #### 与众人对话
 
@@ -8222,11 +8222,11 @@ No, Xiao... They are all heroes.
 
 **夜兰:** 刚才那些空间里，太威仪盘都有一部分藏在地面下。现在倒是完好地躺在地面上…像是被人遗落在这里。
 
-**派蒙:** 旅行者，刚才的{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}只是你心中的想象吗…
+**派蒙:** 旅行者，刚才的空/荧只是你心中的想象吗…
 
-**派蒙:** 一瞬间的幻影，是因为你很想{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}吗？
+**派蒙:** 一瞬间的幻影，是因为你很想空/荧吗？
 
-我能感觉到，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_SHE|INFO_FEMALE_PRONOUN_HE]}不在这里。
+我能感觉到，空/荧不在这里。
 
 但至少，我们找到了这个。
 

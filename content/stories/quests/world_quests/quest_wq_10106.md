@@ -3,15 +3,15 @@
 # title_ru: Поле битвы дайсов, карт и котов
 # title_en: Battlefield of Dice, Cats, and Cards
 # title_zh: 骰子、猫与卡牌的战场
-# region: Мондштадт
+# region: Тейват
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 10106
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70665
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_70672
 # related_quests: quest_wq_70526,quest_wq_70672
 # quest_chain: quest_wq_10106,quest_wq_70526,quest_wq_70672

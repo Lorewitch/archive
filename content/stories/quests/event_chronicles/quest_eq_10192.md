@@ -11,10 +11,10 @@
 # chapter_num_en: Summertide Scales and Tales: Page I
 # chapter_num_zh: 欢夏！邪龙？童话国！第一页
 # part_source_ids: 40162
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10193
-# related_quests: quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532,quest_wq_79060,quest_wq_79062,quest_wq_79065,quest_wq_79066,quest_wq_79067,quest_wq_79071,quest_wq_79072,quest_wq_79073,quest_wq_79074,quest_wq_79079
-# quest_chain: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532,quest_wq_79060,quest_wq_79062,quest_wq_79065,quest_wq_79066,quest_wq_79067,quest_wq_79071,quest_wq_79072,quest_wq_79073,quest_wq_79074,quest_wq_79079
+# related_quests: quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532
+# quest_chain: quest_eq_10192,quest_eq_10193,quest_eq_10194,quest_eq_10195,quest_wq_73532
 # quest_series: Summertide Scales and Tales
 # version_source: wiki_release_category
 

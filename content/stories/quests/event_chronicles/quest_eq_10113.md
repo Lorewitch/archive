@@ -3,7 +3,7 @@
 # title_ru: Дуэль начинается! Первые подозрения
 # title_en: Commence! A Suspect Genesis
 # title_zh: 局开！疑云陡生
-# region: Мондштадт
+# region: Тейват
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 10113
@@ -11,10 +11,10 @@
 # chapter_num_en: Duel! The Summoners' Summit!: Round 1
 # chapter_num_zh: 决斗！召唤之巅！ 第一回合
 # part_source_ids: 40107
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10114
-# related_quests: quest_eq_10114,quest_eq_10115,quest_eq_10116,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
-# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116,quest_wq_70531,quest_wq_70532,quest_wq_70533,quest_wq_70534
+# related_quests: quest_eq_10114,quest_eq_10115,quest_eq_10116
+# quest_chain: quest_eq_10113,quest_eq_10114,quest_eq_10115,quest_eq_10116
 # quest_series: Duel! The Summoners' Summit!
 # version_source: wiki_release_category
 

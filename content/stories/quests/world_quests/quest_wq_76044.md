@@ -3,19 +3,19 @@
 # title_ru: Пропавшая цель заказа
 # title_en: The Vanishing Bounty Target
 # title_zh: 销声匿迹的悬赏对象
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76044
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76044
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76115
 # related_quests: quest_wq_76042,quest_wq_76043,quest_wq_76114,quest_wq_76115
 # quest_chain: quest_wq_76042,quest_wq_76043,quest_wq_76044,quest_wq_76114,quest_wq_76115
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -11,10 +11,10 @@
 # chapter_num_en: Soulblazers' Snowbound Journey: Part I
 # chapter_num_zh: 炽魂斗士的雪界之旅 其一
 # part_source_ids: 40217
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10049
-# related_quests: quest_eq_10049,quest_eq_10062,quest_wq_70691,quest_wq_70692,quest_wq_70693,quest_wq_70694,quest_wq_70695,quest_wq_70696,quest_wq_70697,quest_wq_70698,quest_wq_70699
-# quest_chain: quest_eq_10048,quest_eq_10049,quest_eq_10062,quest_wq_70691,quest_wq_70692,quest_wq_70693,quest_wq_70694,quest_wq_70695,quest_wq_70696,quest_wq_70697,quest_wq_70698,quest_wq_70699
+# related_quests: quest_eq_10049,quest_eq_10062
+# quest_chain: quest_eq_10048,quest_eq_10049,quest_eq_10062
 # quest_series: Soulblazers' Snowbound Journey
 # version_source: wiki_release_category
 

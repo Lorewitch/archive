@@ -3,7 +3,7 @@
 # title_ru: Незваные гости
 # title_en: Uninvited Guests
 # title_zh: 不速之客
-# region: Мондштадт, Ли Юэ
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 10013

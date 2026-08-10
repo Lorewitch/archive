@@ -11,10 +11,10 @@
 # chapter_num_en: Clink Clank Clash: Crisis
 # chapter_num_zh: 叮铃哐啷大作战·危机
 # part_source_ids: 40203
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10262
-# related_quests: quest_eq_10262,quest_eq_10263,quest_wq_10264,quest_wq_40214,quest_wq_40215,quest_wq_40216,quest_wq_76653,quest_wq_76656,quest_wq_76658,quest_wq_76659
-# quest_chain: quest_eq_10261,quest_eq_10262,quest_eq_10263,quest_wq_10264,quest_wq_40214,quest_wq_40215,quest_wq_40216,quest_wq_76653,quest_wq_76656,quest_wq_76658,quest_wq_76659
+# related_quests: quest_eq_10262,quest_eq_10263,quest_wq_10264
+# quest_chain: quest_eq_10261,quest_eq_10262,quest_eq_10263,quest_wq_10264
 # quest_series: Clink Clank Clash
 # version_source: wiki_release_category
 
@@ -81,6 +81,10 @@
 **Инеффа:** Когда отыщете всех роботов, систему можно будет разблокировать. Это лазейка, которую придумала себе Айно. Она часто забывает пароль.
 
 **Паймон:** Значит, надо собрать всех роботов? Будет сделано!
+
+#### Включите скрытую систему управления
+
+**Легион «Дзынь-Клац»:** Пауза. Режим ожидания.
 
 #### Помогите Инеффе выбраться из ловушки
 
@@ -981,6 +985,10 @@ It's okay. I've got your back.
 **伊涅芙:** 只要找齐特定的显像机关，就可以解开锁死的系统，这是爱诺为自己设计的后门，毕竟她经常记错密码。
 
 **派蒙:** 哦，找到特定的显像机关就可以了吧？交给我们了！
+
+#### 启动隐藏控制系统
+
+**叮铃哐啷军团:** 停止前进，待机中。
 
 #### 帮助伊涅芙脱困
 

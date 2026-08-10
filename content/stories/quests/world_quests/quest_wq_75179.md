@@ -3,19 +3,19 @@
 # title_ru: Атака... фиолетовых тепетлизавров?
 # title_en: The Attack of the... Purple Tepetlisaurus?
 # title_zh: 紫色嵴锋龙，来袭？
-# region: Натлан
+# region: Тейват
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 75179
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75179
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75179
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -182,7 +182,7 @@
 
 **Ицайя:** Кхм, одним словом, это мой подарок. Возьми! Купишь какое-нибудь лакомство своему тепетлизаврику. И давай обойдёмся без церемоний!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Ицайя:** Ладно, нам ещё нужно собрать с дороги упавшие грузы. Так что мы пойдём. Увидимся!
 
@@ -350,7 +350,7 @@ With your help, the people from the caravan gradually gather around.
 
 **Itzayah:** Ahem, anyway, this is a personal gift from me to you. Just accept it! Consider it a little something extra for your little Tepetlisaurus to get some more snacks. No need for any thanks or formalities!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Itzayah:** Alright, we still need to go pick up all the stuff we lost along the way. We'll be heading off now! May we meet again!
 
@@ -518,6 +518,6 @@ With your help, the people from the caravan gradually gather around.
 
 **伊扎娅:** 咳，总而言之。这是我个人给你们的谢礼，你就一并收下吧！就当是给小嵴锋龙多买点吃的吧，可千万别跟我客气啊！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **伊扎娅:** 好啦，我们还要去把这一路上丢的东西都捡回来，就先走一步啦！有缘再见！

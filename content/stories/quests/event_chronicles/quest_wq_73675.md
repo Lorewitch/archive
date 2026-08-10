@@ -1,0 +1,325 @@
+# id: quest_wq_73675
+# story_group: event_chronicles
+# title_ru: Где падают звёзды будущего
+# title_en: Where the Future Stars Fall
+# title_zh: 未来星坠落的地方
+# region: Тейват
+# game_version: 3.1
+# release_versions: 3.1
+# source_id: 73675
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
+# part_source_ids: 73675
+# previous_quests:
+# next_quests: quest_wq_73676
+# related_quests: quest_wq_73676
+# quest_chain: quest_wq_73675,quest_wq_73676
+# quest_series: Star-Seeker's Sojourn
+# version_source: wiki_release_category
+
+## RU
+
+### Где падают звёзды будущего
+
+Бану в одиночку ищет что-то в дикой природе...
+
+#### Поговорите с Бану
+
+**Бану:** Ух ты! Не пустынники и не похитители сокровищ, а прилично одетые незнакомцы. Это мой шанс!
+
+**Бану:** Эм... Странник / Странница, прошу, остановись!
+
+- **Путешественник:** Всё хорошо?
+
+- **Путешественник:** Что случилось?
+
+**Бану:** Здравствуйте! Скобка открывается, выбирается обращение в соответствии с полом собеседника, скобка закрывается. Прошу прощения за беспокойство. Может, у вас найдётся минутка, чтобы... гм, выслушать мою просьбу?
+
+**Паймон:** С-скобка?
+
+**Бану:** Прошу, не перебивайте, иначе я не смогу вспомнить следующую фразу. Следующая фраза...
+
+**Бану:** Скобка открывается, кратко опишите возникшую проблему и вежливо попросите о помощи, а затем поблагодарите собеседника, скобка закрывается.
+
+**Бану:** Последняя фраза... Скобка открывается, пример, скобка закрывается. Благодарю за проявленное великодушие, я никогда об этом не забуду.
+
+**Бану:** Также я хочу отблагодарить вас за труды и прошу обдумать мою просьбу.
+
+**Бану:** Фух, на этот раз ничего не забыла, всё должно получиться. Доверяю вам поиск звёзд будущего.
+
+**Паймон:** Похоже, ты хочешь нам что-то поручить, но Паймон не понимает, о чём идёт речь.
+
+**Бану:** В книге «50 вещей, которые должен знать бродячий исследователь» написано, что именно так и надо говорить, когда тебе нужна помощь. Что тут непонятно?
+
+- **Путешественник:** Да тут всё непонятно.
+
+- **Путешественник:** Ты не рассказала о самой проблеме.
+
+**Бану:** Да? Минуточку, сейчас найду, что нужно отвечать на «всё непонятно».
+
+**Бану:** Да? Минуточку, сейчас найду, что нужно отвечать на «не рассказала о самой проблеме».
+
+*Девочка достаёт из кармана книгу «50 вещей, которые должен знать бродячий исследователь» и поспешно её листает.*
+
+**Бану:** Ой, здесь ничего такого не написано. Но Шарма говорит, что в этой книге есть ответы на все вопросы.
+
+**Паймон:** Паймон в замешательстве! Тебе нужна помощь, верно?
+
+**Паймон:** Раз уж книга не помогает, может, своими словами расскажешь, что случилось?
+
+**Бану:** Попробую. Дело вот в чём. Меня зовут Бану, я ищу по карте звёзды будущего. Всего их шесть.
+
+**Бану:** Если найти все шесть звёзд, можно призвать великую звезду будущего. Она очень мощная. Как раз это я и хочу сделать.
+
+**Паймон:** Ах, вот что ты имела в виду, когда говорила про «поиск звёзд будущего».
+
+**Бану:** Ага. В этом и заключается концепция звёзд будущего.
+
+- **Путешественник:** Концепция?
+
+- **Путешественник:** Из какой это книги?
+
+**Бану:** Угу. Эта концепция показалась мне намного понятнее, чем те, с которыми я обычно имею дело. Но всё вышло слишком просто и скучно.
+
+**Бану:** Эм, я решила, что нужно импровизировать.
+
+...
+
+**Бану:** А потом, ну... Эта концепция оказалась какой-то путаной и не объясняла, как найти звёзды будущего. Тогда я придумала кое-что ещё.
+
+*Девочка достаёт из зарослей позади себя странный предмет.*
+
+**Бану:** Это очень важная штука. Называется... эм, пусть будет «Мудрость Бану». Она показывает, где находятся звёзды будущего. Здорово, правда? Хи-хи.
+
+**Бану:** Крутое название! Но эта штука такая большая и тяжёлая, что я не могу её сдвинуть. И вот это уже совсем не круто.
+
+**Бану:** Вот для чего мне нужна ваша помощь. Вы наверняка сумеете её передвинуть. С этим предметом можно отыскать звёзды будущего. Ну что, по рукам? А как только я призову великую звезду будущего, хорошенько вас отблагодарю!
+
+- **Путешественник:** Это и есть твоё поручение?
+
+- **Путешественник:** Дай-ка подумать.
+
+**Бану:** До встречи с вами я просила о помощи и других. Но едва заслышав о звёздах будущего, они менялись в лице и отказывались продолжать разговор.
+
+**Бану:** А ещё советовали перестать дурачиться и вернуться к папе с мамой. Ух, как это меня злило! Я же не какая-нибудь проказница, улизнувшая из дома!
+
+**Бану:** Взрослые всегда так. Они думают, раз я ребёнок, то болтаю всякую ерунду.
+
+**Бану:** Но звёзды будущего существуют! Я не выдумываю. Попробуйте поискать их с помощью... эм, «Мудрости Бану» - и сами в этом убедитесь.
+
+**Бану:** А если не хотите помогать, я подожду кого-нибудь ещё, кто меня выслушает.
+
+Хорошо. Я посмотрю, что можно сделать.
+
+**Бану:** Ты мне веришь! Ура! Вот, братец / сестрица, возьми «Мудрость Бану».
+
+**Бану:** Запомни: чтобы указывать, где находятся звёзды будущего, «Мудрости Бану» нужно иногда отдыхать.
+
+**Бану:** Возьми ещё книгу «50 вещей, которые должен знать бродячий исследователь». На картах я отметила, где находятся звёзды будущего. Можете с ними сверяться.
+
+**Бану:** Возвращайтесь, как найдёте все шесть звёзд, и я покажу вам великую звезду будущего!
+
+## EN
+
+### Where the Future Stars Fall
+
+Banu is searching for something out in the wild all by herself...
+
+#### Talk to Banu
+
+**Banu:** Oh, this is great! It's a well-dressed stranger instead of someone from the Eremites or Treasure Hoarders. Alright, I must seize this opportunity!
+
+**Banu:** Umm... "Wayfaring friend, please, wait a second before you venture forth!"
+
+- **Traveler:** Hello?
+
+- **Traveler:** Can I help you?
+
+**Banu:** "Good day, bracket, address them as sir or ma'am based on their gender, bracket. Terribly sorry to bother you, but please take some time out of your busy schedule to... uh... give ear to my request."
+
+**Paimon:** D—Did you just say bracket?
+
+**Banu:** Wait, wait, please don't interrupt me just yet, or I'll forget my lines. My next line should be...
+
+**Banu:** "Bracket, describe the difficulty you've encountered concisely... and politely ask for their help, then thank them in a formal manner, bracket."
+
+**Banu:** And the last line is... "Bracket, example, bracket. I'd be truly grateful for your kindness and generosity. Your good deed shall be remembered forever."
+
+**Banu:** "In the meantime, I'm willing to pay you handsomely for your hard work, so please, I implore you to give my request some serious consideration."
+
+**Banu:** Phew. Now that I didn't miss a single word this time, it shouldn't be a problem at all. Alright, I'll leave the Future Stars to you then.
+
+**Paimon:** Sounds like you have a favor to ask us, but Paimon's really not following...
+
+**Banu:** Huh? How come? According to 50 Things Every Traveling Scholar Should Know, that was exactly what you should say when asking strangers for help. There shouldn't be a problem...
+
+- **Traveler:** I have some questions...
+
+- **Traveler:** You haven't told us what difficulty you've encountered.
+
+**Banu:** R—Really? P—Please give me a second. I'll look up what to recite when "they have some questions."
+
+**Banu:** R—Really? P—Please give me a second. I'll look up what to recite when "you haven't told them what difficulty you've encountered."
+
+*The girl takes out a book titled 50 Things Every Traveling Scholar Should Know from her pocket and anxiously leafs through it.*
+
+**Banu:** *sigh* It doesn't say anything about that. But Shalmar told me I can just check the book when there's a problem...
+
+**Paimon:** Paimon's still confused... But by the looks of things, you need our help, right?
+
+**Paimon:** If the book can't help you, you can just tell us what's going on in your own words, y'know?
+
+**Banu:** Hmm, alright! I'm Banu and I came here following the map to look for the Future Stars. There are altogether six of them!
+
+**Banu:** Whoever finds all the Future Stars can summon the Great Future Star, which is super duper amazing! And that's exactly my goal here.
+
+**Paimon:** Ah, Paimon remembers that you did mention something about the Future Stars earlier.
+
+**Banu:** Yes. Well, that's about it for the Future Star's setting.
+
+- **Traveler:** Setting?
+
+- **Traveler:** Which book is that in?
+
+**Banu:** Yup. Compared to the ones I usually read about, this setting is pretty easy to understand. But it's also less fun since it's a little too easy.
+
+**Banu:** Hmm... I think this setting was just made up.
+
+...
+
+**Banu:** Well, then I thought the setting was too vague considering it never talked about how to find the Future Stars. So to make up for that, I came up with a supplementary setting.
+
+*The girl pulls out a strange object from the grass behind her.*
+
+**Banu:** Ta-da! This is... "Banu's Wisdom," yes, that's the name! It's a very important item because it can help you locate the Future Stars. Isn't that impressive? Hehe.
+
+**Banu:** I think it's a really cool name too, don't you think? Unfortunately, it's way too tall and heavy for me to move it around. So it became less cool...
+
+**Banu:** This is the favor I'm asking. You should be able to move it, so can you help me find the Future Stars with it? After summoning the Great Future Star, I'll reward you in a big way!
+
+- **Traveler:** Is that your request?
+
+- **Traveler:** I'll think about it.
+
+**Banu:** Before I met you, I had also asked others for help. But when they heard about the Future Stars, they just gave me weird looks and didn't want to listen to me anymore.
+
+**Banu:** They even told me to stop fussing around and go back home to my parents. That's so annoying! I'm not some runaway kid up to mischief!
+
+**Banu:** Adults are always like this. Just because I'm a child, they think I'm talking nonsense.
+
+**Banu:** But the Future Stars are real! I'm not imagining things. You'll see that I'm not lying once you take this... uh... "Banu's Wisdom" with you and go look for the Stars!
+
+**Banu:** If you're not willing to help either, *sigh* I'll just have to wait and see if the next person I meet is willing to listen and accept my request...
+
+Okay, I'll see what I can do.
+
+**Banu:** You believe me! Thank you! And please take this "Banu's Wisdom" with you.
+
+**Banu:** Remember, after it runs for a while, "Banu's Wisdom" will need to rest a bit before it can point you to the location of the Future Stars again.
+
+**Banu:** Oh, and take this book, 50 Things Every Traveling Scholar Should Know! I've marked the location of the Stars on the map in this book. So you may follow that map first.
+
+**Banu:** Come back to me once you find all six Future Stars. Then we can go check the Great Future Star out together! I'll take you there.
+
+## ZH
+
+### 未来星坠落的地方
+
+女孩芭努独自一人在野外搜寻着什么…
+
+#### 与芭努对话
+
+**芭努:** 哇，太好了！不是镀金旅团不是盗宝团，是衣着正经的陌生人，得赶快抓住机会。
+
+**芭努:** 嗯，那个…「这位行路的朋友，请停下你的脚步！」
+
+- **旅行者:** 你好？
+
+- **旅行者:** 什么事？
+
+**芭努:** 「您好！括号，根据对方性别选择称呼先生或者女士，括号。唐突打扰非常抱歉，烦请您在百忙之际抽空…嗯…听取我的请求。」
+
+**派蒙:** 括、括号？
+
+**芭努:** 不行不行，不能打断，要不然我就记不得下一句了。下一句是——
+
+**芭努:** 「括号，用简要的语言描述你遇到的困难…并礼貌地请求对方协助，然后郑重向对方表示感谢，括号。」
+
+**芭努:** 最后一句是——「括号，范例，括号。感谢您的慷慨大度，我将永远把它记在心上。」
+
+**芭努:** 「同时，我愿意为您的不辞辛苦支付可观的报酬，因此我恳请您稍稍考虑这一请求。」
+
+**芭努:** 呼，这遍一个字都没背落，肯定没问题。那么，找未来星的事就靠你帮忙了。
+
+**派蒙:** 听起来像是有事要委托我们，但我怎么听不懂你说的话…
+
+**芭努:** 哪里有问题呢？《游学者不可不知的五十件事》上说，要找人帮忙的话就这么说，不该有问题啊。
+
+- **旅行者:** 哪里都有问题。
+
+- **旅行者:** 你没说遇到的困难是什么。
+
+**芭努:** 这样吗？等、等一下，我找一找「哪里都有问题」的时候该背哪一段。
+
+**芭努:** 这样吗？等、等一下，我找一找「没说遇到的困难是什么」的时候该背哪一段。
+
+*女孩从口袋里掏出了一本叫作《游学者不可不知的五十件事》的书，焦急地翻了起来。*
+
+**芭努:** 唉，这上面没说。但是沙尔玛明明说遇到问题的时候，只要翻这本书就好了啊。
+
+**派蒙:** 虽然很混乱，但是看样子，小朋友你是遇到了困难需要帮助对吗？
+
+**派蒙:** 既然书本派不上用场，不如用你自己的话说说你碰到的问题。
+
+**芭努:** 我想想，事情是这样的：我叫芭努，是跟着地图来这里找未来星的，未来星一共有六颗。
+
+**芭努:** 只要找到全部六颗未来星，就能召唤出大未来星，大未来星超级厉害的，我的目标就是召唤出大未来星。
+
+**派蒙:** 哦，之前你说的「找未来星」指的就是这件事啊。
+
+**芭努:** 嗯，未来星的设定差不多就是这些了。
+
+- **旅行者:** 设定？
+
+- **旅行者:** 这又是哪本书里的？
+
+**芭努:** 对呀，我觉得比起我平时看的那些，这个设定还挺好懂的，不过就是太简单了，不好玩。
+
+**芭努:** 哦，这个设定的话，我觉得应该是现编的。
+
+……
+
+**芭努:** 然后，嗯…这个设定我觉得太模糊了，没有解释该怎么找到未来星。为了解决这个问题，我又想了一个补充设定：
+
+*女孩从身后的草丛里翻出了一个奇怪的物体。*
+
+**芭努:** 就是这个重要道具，它叫…嗯就叫「芭努的智慧」吧。它可以指引出未来星的位置，很厉害吧，嘿嘿。
+
+**芭努:** 我觉得这个名字超级酷！不过它太高了，而且又很重，我搬不动，就变得不酷了。
+
+**芭努:** 我想找你们帮忙的就是这件事，你们应该能搬得动吧，能帮我用它找到未来星吗？召唤出大未来星之后我可以给你们付很多很多报酬！
+
+- **旅行者:** 这就是你的委托吗？
+
+- **旅行者:** 我考虑一下。
+
+**芭努:** 遇到大哥哥 / 大姐姐你们之前，我还试过找别人帮忙。但他们听到未来星的时候表情都变得很怪，都不想听我说下去了。
+
+**芭努:** 他们还让我不要胡闹，乖乖回家找爸爸妈妈去，真气人。我又不是瞒着家人溜出来的玩的幼稚鬼！
+
+**芭努:** 大人们总是这样，就因为我是小孩子，就觉得我在乱说。
+
+**芭努:** 但未来星是真实存在的！我才没有在幻想，只要你们带着…嗯…「芭努的智慧」找一找就会知道我有没有撒谎了。
+
+**芭努:** 要是你们也不愿意帮忙，唉，我再等等看，遇到的下一个人会不会愿意听我说话。
+
+好吧，我可以去看看。
+
+**芭努:** 你相信我！太好了，大哥哥 / 大姐姐你拿着这个「芭努的智慧」吧。
+
+**芭努:** 你要记得哦，「芭努的智慧」运行一段时间之后要休息一会儿才能再指出未来星的位置。
+
+**芭努:** 还有这本《游学者不可不知的五十件事》你也拿着，我在这本书的地图插画里标了未来星的位置，你们可以跟着地图走。
+
+**芭努:** 你们找到全部六颗未来星就来找我吧，我带你们一起去看大未来星！

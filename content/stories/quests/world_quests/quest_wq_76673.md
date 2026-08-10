@@ -3,19 +3,19 @@
 # title_ru: Хижина ведьмы
 # title_en: Witch's Lodge
 # title_zh: 魔女的小屋
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76673
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76673
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76674
 # related_quests: quest_wq_76674
 # quest_chain: quest_wq_76673,quest_wq_76674
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

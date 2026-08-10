@@ -11,11 +11,11 @@
 # chapter_num_en: Tapirus Somniator Chapter: Act I
 # chapter_num_zh: 貘枕之章  第一幕
 # part_source_ids: 12044,12045,12046,12047,12048
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2069
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

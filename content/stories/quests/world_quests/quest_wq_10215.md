@@ -42,9 +42,9 @@
 
 **Паймон:** Ох, перестань! Твои истории пугают даже Коко!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р! Р-р-р!
+**Малыш:** Р-р-р! Р-р-р!
 
-**Паймон:** С тех пор как мы победили злого дракона, {REALNAME[ID(2)|SHOWHOST(true)]} ждёт случая проявить себя. Наверное, он втайне соперничает с Коко?
+**Паймон:** С тех пор как мы победили злого дракона, Малыш ждёт случая проявить себя. Наверное, он втайне соперничает с Коко?
 
 **Паймон:** Ну ладно, и где Алтарь, который мы ищем?
 
@@ -58,9 +58,9 @@
 
 **Кокоуик:** Кулу...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р! Р-р-р!
+**Малыш:** Р-р-р! Р-р-р!
 
-**Паймон:** Ну что, {REALNAME[ID(2)|SHOWHOST(true)]}, есть мысли?
+**Паймон:** Ну что, Малыш, есть мысли?
 
 **Бона:** Кажется, я поняла. Паймон, он хочет сказать, что сухая логика никуда нас не приведёт.
 
@@ -68,9 +68,9 @@
 
 **Бона:** Ладно, что бы там ни было внизу, думаю, мы должны пойти и проверить. Это ведь тоже приключение!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** Паймон не думала, что ты так воодушевишься, {REALNAME[ID(2)|SHOWHOST(true)]}. Тогда давайте посмотрим, как отсюда спуститься.
+**Паймон:** Паймон не думала, что ты так воодушевишься, Малыш. Тогда давайте посмотрим, как отсюда спуститься.
 
 #### Поговорите с Боной
 
@@ -84,7 +84,7 @@
 
 **Бона:** Это Скверна Бездны, которая всё ещё формируется, и кажется, что она просачивается сверху... Гм, а я думала, рядом с рисунками мы будем в безопасности.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Бона:** А? О нет, кажется, что-то вот-вот упадёт. Будьте осторожны!
 
@@ -96,17 +96,17 @@
 
 **Паймон:** Ну, мы нашли кое-что, похожее на механизм, но это довольно непросто...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Бона:** О, я не знаю, что это такое, но {REALNAME[ID(2)|SHOWHOST(true)]}, похоже, разбирается, так что давайте проверим!
+**Бона:** О, я не знаю, что это такое, но Малыш, похоже, разбирается, так что давайте проверим!
 
 #### Поговорите с Боной
 
-**Паймон:** Открыто! Умничка, {REALNAME[ID(2)|SHOWHOST(true)]}! Это ты нашёл механизм!
+**Паймон:** Открыто! Умничка, Малыш! Это ты нашёл механизм!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-Молодец, {REALNAME[ID(2)|SHOWHOST(true)]}.
+Молодец, Малыш.
 
 **Паймон:** Рано радоваться! Впереди нас ждёт ещё много испытаний!
 
@@ -130,9 +130,9 @@
 
 **Паймон:** Кто бы мог подумать, что ты покажешь такое рвение. Но Паймон согласна: вряд ли тебе страшен тот, кто там прячется...
 
-Не бойся, наш {REALNAME[ID(2)|SHOWHOST(true)]} - настоящий храбрец.
+Не бойся, наш Малыш - настоящий храбрец.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р!
+**Малыш:** Р-р... Р-р-р!
 
 **Паймон:** Если Коко боится, давайте оставим его здесь. Вот только бросать его одного опасно...
 
@@ -146,7 +146,7 @@
 
 Не беспокойся, мы обязательно вернёмся!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 ### Дворец иллюзорного змея
 
@@ -160,7 +160,7 @@
 
 #### Исследуйте руины
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** У-у-у...
+**Малыш:** У-у-у...
 
 **Паймон:** Ого, снаружи всё поражено разложением Бездны. Нас может завалить в любой момент. Как думаешь, это то, на что указывал Коко?
 
@@ -174,9 +174,9 @@
 
 **Паймон:** Да. И Коко не хотел сюда идти из-за Бездны. Мы должны от неё избавиться!
 
-Идём, {REALNAME[ID(2)|SHOWHOST(true)]}!
+Идём, Малыш!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Стойте, а как же Паймон? Ну вы даёте!
 
@@ -190,15 +190,15 @@
 
 **Паймон:** Теперь давайте посмотрим, что там внутри!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Паймон надеется, там что-нибудь стоящее... Что? Пирофосфорит? Значит, он не один?
 
 **Паймон:** Смотри, свиток, в котором он лежит, выглядит подозрительно знакомо... Почерк такой же, как в записках, которые мы нашли в башне у древнего города.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р!
+**Малыш:** Р-р... Р-р-р!
 
-**Паймон:** Странно. Ты тоже так думаешь, {REALNAME[ID(2)|SHOWHOST(true)]}? Путешественник, посмотри, что там написано?
+**Паймон:** Странно. Ты тоже так думаешь, Малыш? Путешественник, посмотри, что там написано?
 
 **Паймон:** Ого! Записки оставил тот самый искатель приключений! Значит, Ядро Чуулел здесь?
 
@@ -210,7 +210,7 @@
 
 **Паймон:** Да, и Коко привёл нас сюда! Неужели он сразу знал, что здесь спрятан ещё один пирофосфорит? И хотел, чтобы мы его нашли? Паймон не понимает...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Ру-у-у...
+**Малыш:** Ру-у-у...
 
 Давайте вернёмся.
 
@@ -286,9 +286,9 @@
 
 **Паймон:** Да, мы ведь легендарные искатели приключений! Расскажем о нашем подвиге репортёрам, и завтра новость будет на первых полосах всех газет!
 
-{REALNAME[ID(2)|SHOWHOST(true)]} расскажет обо всём за нас.
+Малыш расскажет обо всём за нас.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Здорово, что он согласился, но он сможет рассказать о наших подвигах только искателям приключений среди заврианов... Стоп, а среди заврианов тоже есть искатели приключений?
 
@@ -298,7 +298,7 @@
 
 **Кокоуик:** Кулу...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р...
+**Малыш:** Р-р-р... Р-р-р...
 
 **Паймон:** Ч-что происходит? Свет! Паймон сейчас ослепнет!
 
@@ -318,7 +318,7 @@
 
 **Паймон:** И она помогает Коко сражаться с Бездной!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р, р-р-р!
+**Малыш:** Р-р, р-р-р!
 
 **Бона:** Путешественник, смотрите!
 
@@ -362,7 +362,7 @@
 
 **Паймон:** Это и есть Алтарь? Ого, добраться туда будет непросто...
 
-**Паймон:** Мы с тобой можем летать, а как же {REALNAME[ID(2)|SHOWHOST(true)]} и Бона?
+**Паймон:** Мы с тобой можем летать, а как же Малыш и Бона?
 
 **Бона:** Вы что, забыли? Я искательница приключений из клана Цветочного Пера! У меня богатый лётный опыт.
 
@@ -376,9 +376,9 @@
 
 **Бона:** Сейчас не время для соревнований. Я буду показывать дорогу, а вы постарайтесь не отстать.
 
-**Паймон:** Как-то это опасно. И непонятно, что нас там ждёт. {REALNAME[ID(2)|SHOWHOST(true)]}, держись за нас!
+**Паймон:** Как-то это опасно. И непонятно, что нас там ждёт. Малыш, держись за нас!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Отправляйтесь к Алтарю Первозданного огня
 
@@ -424,9 +424,9 @@ After finally repelling the evil dragon, you and the self-proclaimed adventurer 
 
 **Paimon:** Please stop with the stories! You're scaring Coco!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]} sure has been eager to do something since we defeated the dragon. Is he in some kind of secret contest with Coco?
+**Paimon:** Little One sure has been eager to do something since we defeated the dragon. Is he in some kind of secret contest with Coco?
 
 **Paimon:** Anyway, where's this Altar we're looking for?
 
@@ -440,9 +440,9 @@ There could be a special transportation mode at play...
 
 **Cocouik:** Kulu...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
-**Paimon:** Any ideas, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** Any ideas, Little One?
 
 **Bona:** I think I get it now. It's trying to tell us that following rigid logic won't get us anywhere!
 
@@ -450,9 +450,9 @@ There could be a special transportation mode at play...
 
 **Bona:** Well, regardless of what's below us, I say we go check it out. I mean, we're on an adventure, aren't we?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Paimon:** Huh, you sure are excited, {REALNAME[ID(2)|SHOWHOST(true)]}. Well, time to figure out how to get down there.
+**Paimon:** Huh, you sure are excited, Little One. Well, time to figure out how to get down there.
 
 #### Talk to Bona
 
@@ -466,7 +466,7 @@ There could be a special transportation mode at play...
 
 **Bona:** This is nascent Abyssal Blight. Looks like it's seeping down from above... Hmm, I thought a place festooned with frescoes would be safer.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrah... Rawr!
+**Little One:** Rrah... Rawr!
 
 **Bona:** Huh? Uh-oh, I think something's gonna fall down. Watch out, everyone!
 
@@ -478,17 +478,17 @@ There could be a special transportation mode at play...
 
 **Paimon:** Well, we did find something that looks like a mechanism, but it's kind of a pain...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Bona:** Oh, I don't know what you mean, but {REALNAME[ID(2)|SHOWHOST(true)]} looks pretty clued in, so let's check it out anyway!
+**Bona:** Oh, I don't know what you mean, but Little One looks pretty clued in, so let's check it out anyway!
 
 #### Talk to Bona
 
-**Paimon:** It's open! You're awesome, {REALNAME[ID(2)|SHOWHOST(true)]}! We wouldn't have found the mechanism without you!
+**Paimon:** It's open! You're awesome, Little One! We wouldn't have found the mechanism without you!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-I knew you could do it, {REALNAME[ID(2)|SHOWHOST(true)]}.
+I knew you could do it, Little One.
 
 **Paimon:** But don't get ahead of yourself. Plenty of challenges await us!
 
@@ -506,7 +506,7 @@ I knew you could do it, {REALNAME[ID(2)|SHOWHOST(true)]}.
 
 I'm scared too!
 
-**Paimon:** Now, really? C'mon, pull yourself together like {REALNAME[ID(2)|SHOWHOST(true)]}, why don't you?
+**Paimon:** Now, really? C'mon, pull yourself together like Little One, why don't you?
 
 This is kind of exciting.
 
@@ -514,7 +514,7 @@ This is kind of exciting.
 
 Don't worry, our little Saurian's a brave soul.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr!
+**Little One:** Rawr... Rawr!
 
 **Paimon:** If Coco really is afraid, maybe we should have it stay behind... But not alone. That wouldn't work...
 
@@ -528,7 +528,7 @@ We don't leave anyone behind.
 
 Don't worry, just wait here until we come back.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 ### Palace of the Vision Serpent
 
@@ -542,7 +542,7 @@ Following Cocouik's guidance, you come to the palace ruins on Ochkanatlan's uppe
 
 #### Explore the ruins
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrooh...
+**Little One:** Rrooh...
 
 **Paimon:** Ugh, the exterior's been corroded by the Abyss. Looks like it might fall off anytime. Is this what Coco was pointing at?
 
@@ -556,9 +556,9 @@ We have to do something about the Abyss.
 
 **Paimon:** Yeah, and that must be why Coco didn't want to come in. We have to get rid of it!
 
-Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!
+Let's go, Little One!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Wait, what about Paimon? Rude!
 
@@ -572,15 +572,15 @@ Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!
 
 **Paimon:** Now let's see what's inside!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Paimon hopes it won't let her down... Huh, another Pyrophosphorite chunk? There's more than one?
 
 **Paimon:** Wait, the woven scrolls wrapped around it look familiar. They're just like the notes we found in the tower outside the ruins...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr!
+**Little One:** Rawr... Rawr!
 
-**Paimon:** That's pretty strange. Don't you think so too, {REALNAME[ID(2)|SHOWHOST(true)]}? Traveler, what's written on them?
+**Paimon:** That's pretty strange. Don't you think so too, Little One? Traveler, what's written on them?
 
 **Paimon:** Wow, these notes really were left behind by the same adventurer. So this must be the Core of Chu'ulel, then?
 
@@ -592,7 +592,7 @@ Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!
 
 **Paimon:** True, and Coco did point us here. Did he know there was a Pyrophosphorite chunk and wanted us to have it? Paimon doesn't get it.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroo...
+**Little One:** Rroo...
 
 We should head back first.
 
@@ -668,9 +668,9 @@ Leave it to me.
 
 **Paimon:** Hehe, we are legendary adventurers, after all. Just give any journalist our story and we'll be all over the headlines!
 
-{REALNAME[ID(2)|SHOWHOST(true)]} will take care of it.
+Little One will take care of it.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Paimon's happy it agreed, but even if it wanted to say something, it can only talk to other Saurian adventurers, right? ...Wait, are Saurian adventurers even a thing?
 
@@ -680,7 +680,7 @@ Leave it to me.
 
 **Cocouik:** Kulu...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rooo... Rawr...
+**Little One:** Rooo... Rawr...
 
 **Paimon:** Wh—What's going on? The light! It stings!
 
@@ -700,7 +700,7 @@ Looks like Pyrophosphorites contain the energy as well.
 
 **Paimon:** And Coco, in turn, uses the energy stored within to fight the Abyss.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr! Rawr!
+**Little One:** Rawr! Rawr!
 
 **Bona:** Traveler, look!
 
@@ -744,11 +744,11 @@ With two pieces of Pyrophosphorite in hand, the road to the skies is open to you
 
 **Paimon:** Is that the Altar? That's gonna be hard to reach.
 
-**Paimon:** We can fly just fine, but how about {REALNAME[ID(2)|SHOWHOST(true)]} and Bona?
+**Paimon:** We can fly just fine, but how about Little One and Bona?
 
 **Bona:** Did you forget that I'm an adventurer of the Flower-Feather Clan? I have plenty of flight experience myself.
 
-**Bona:** I can get over there, easy, even with {REALNAME[ID(2)|SHOWHOST(true)]} in tow.
+**Bona:** I can get over there, easy, even with Little One in tow.
 
 I have a flying license, too.
 
@@ -758,9 +758,9 @@ Is this going to be a race?
 
 **Bona:** Wow, hey, you sure this is the time to get competitive? Relax! I'll lead the way, so just follow!
 
-**Paimon:** Hmm... This feels like it could get super dangerous, and we can't know what might happen, so hold on tight, {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Paimon:** Hmm... This feels like it could get super dangerous, and we can't know what might happen, so hold on tight, Little One!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Head to the Altar of Primal Flame
 
@@ -806,9 +806,9 @@ Is this going to be a race?
 
 **派蒙:** 哇，好可怕。你别说这种吓人的话吧，绿宝都被你吓到了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
-**派蒙:** 自从打败了那条坏龙，{REALNAME[ID(2)|SHOWHOST(true)]}就一直跃跃欲试的样子，难不成是在偷偷和绿宝进行什么冒险比赛？
+**派蒙:** 自从打败了那条坏龙，小家伙就一直跃跃欲试的样子，难不成是在偷偷和绿宝进行什么冒险比赛？
 
 **派蒙:** 话说回来，我们要找的那个祭坛究竟在哪呀？
 
@@ -822,9 +822,9 @@ Is this going to be a race?
 
 **「绿松石」:** 咕噜…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！呀！
+**小家伙:** 呀！呀！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}，你有什么头绪吗？
+**派蒙:** 小家伙，你有什么头绪吗？
 
 **玻娜:** 我知道了，小派蒙，它的意思是说，只是一板一眼地盘逻辑的话，冒险可是没办法继续的！
 
@@ -832,9 +832,9 @@ Is this going to be a race?
 
 **玻娜:** 总之，不管下面是什么，我觉得都应该先去一探究竟呢，这也是冒险的一部分吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**派蒙:** 唔，没想到{REALNAME[ID(2)|SHOWHOST(true)]}这么精神，那我们先调查看看要怎么才能下去吧。
+**派蒙:** 唔，没想到小家伙这么精神，那我们先调查看看要怎么才能下去吧。
 
 #### 与玻娜对话
 
@@ -848,7 +848,7 @@ Is this going to be a race?
 
 **玻娜:** 这是还在形成中的深渊秽露，看起来是从上面渗下来的…唔，我还以为有壁画的地方会比较安全呢。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔，呀！
+**小家伙:** 唔，呀！
 
 **玻娜:** 欸？不好，好像有什么东西要掉下来了，大家小心！
 
@@ -860,17 +860,17 @@ Is this going to be a race?
 
 **派蒙:** 这个嘛，倒是有发现个像是机关的东西啦，但是有点麻烦的样子…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**玻娜:** 哦哦，虽然不知道是什么，不过{REALNAME[ID(2)|SHOWHOST(true)]}看起来有办法的样子嘛，我们过去看看吧！
+**玻娜:** 哦哦，虽然不知道是什么，不过小家伙看起来有办法的样子嘛，我们过去看看吧！
 
 #### 与玻娜对话
 
-**派蒙:** 哇，打开了，这次多亏了{REALNAME[ID(2)|SHOWHOST(true)]}才找到了机关呢。
+**派蒙:** 哇，打开了，这次多亏了小家伙才找到了机关呢。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-不愧是{REALNAME[ID(2)|SHOWHOST(true)]}。
+不愧是小家伙。
 
 **派蒙:** 不过也不要自满哦，接下来还有更多的挑战在等着我们呢！
 
@@ -888,7 +888,7 @@ Is this going to be a race?
 
 好可怕！
 
-**派蒙:** 喂，你怎么也开始害怕了，像{REALNAME[ID(2)|SHOWHOST(true)]}一样打起精神来啊！
+**派蒙:** 喂，你怎么也开始害怕了，像小家伙一样打起精神来啊！
 
 开始跃跃欲试了。
 
@@ -896,7 +896,7 @@ Is this going to be a race?
 
 不用担心，我们有勇敢小龙。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呀！
+**小家伙:** 呀…呀！
 
 **派蒙:** 唔，绿宝这么害怕的话，不如就先留在这里。啊，不过也不能把绿宝一个人抛下…
 
@@ -910,7 +910,7 @@ Is this going to be a race?
 
 你们就安心在这里等我们回来。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 ### 幻蛇的宫殿
 
@@ -924,7 +924,7 @@ Is this going to be a race?
 
 #### 探索遗迹内部
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 **派蒙:** 呃啊，外面都被深渊侵蚀了，感觉随时会掉下来的样子，绿宝指给我们的难道就是这个东西吗？
 
@@ -938,9 +938,9 @@ Is this going to be a race?
 
 **派蒙:** 确实，就是因为这些深渊，绿宝才会不愿意进来的吧，不能放着不管呢。
 
-出发了，{REALNAME[ID(2)|SHOWHOST(true)]}！
+出发了，小家伙！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 喂，你们两个怎么把我排除啦，好过分！
 
@@ -954,15 +954,15 @@ Is this going to be a race?
 
 **派蒙:** 好吧，现在让我们看看这个里面到底是什么东西！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 可不要让我失望哦…欸？又是一块火磷石，原来这东西还不止一枚的吗？
 
 **派蒙:** 唔，等等，包裹它的织卷看起来也很眼熟啊…就像是我们最开始在遗迹外面的塔楼里捡到的那个笔记。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呀！
+**小家伙:** 呀…呀！
 
-**派蒙:** 哇，实在是太诡异了，{REALNAME[ID(2)|SHOWHOST(true)]}你也这样觉得吧，旅行者你快看看上面写的什么？
+**派蒙:** 哇，实在是太诡异了，小家伙你也这样觉得吧，旅行者你快看看上面写的什么？
 
 **派蒙:** 哇，居然真的是之前那个冒险家留下来的笔记，「统律之心」说的就是这里吧。
 
@@ -974,7 +974,7 @@ Is this going to be a race?
 
 **派蒙:** 是哦，而且绿宝把我们指向了这里，难道是它早知道这下面还藏了一块火磷石，所以想要让我们拿到？真是搞不懂。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜…
+**小家伙:** 呜…
 
 我们还是先回去吧。
 
@@ -1050,9 +1050,9 @@ Is this going to be a race?
 
 **派蒙:** 嗯嗯，毕竟我们也算是传奇冒险家呢，只要把我们的故事告诉哪个记者，马上就能上报纸的头条吧！
 
-交给{REALNAME[ID(2)|SHOWHOST(true)]}吧。
+交给小家伙吧。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 虽然它答应的是很开心啦，但它就算想要宣传也只能告诉龙冒险家吧…等等，龙里也会有冒险家吗？
 
@@ -1062,7 +1062,7 @@ Is this going to be a race?
 
 **「绿松石」:** 咕噜…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呀…
+**小家伙:** 呜呀…
 
 **派蒙:** 怎、怎么回事啊，眼睛都要晃瞎了！
 
@@ -1082,7 +1082,7 @@ Is this going to be a race?
 
 **派蒙:** 然后也是因为有了这种能量，绿宝才能对付深渊的吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀，呀！
+**小家伙:** 呀，呀！
 
 **玻娜:** 旅行者，你们看看这个。
 
@@ -1126,11 +1126,11 @@ Is this going to be a race?
 
 **派蒙:** 那就是源火祭坛了吗…呃，感觉想要过去的话还有点困难。
 
-**派蒙:** 怎么办，我们是能用飞的啦，但是{REALNAME[ID(2)|SHOWHOST(true)]}和玻娜要怎么办啦。
+**派蒙:** 怎么办，我们是能用飞的啦，但是小家伙和玻娜要怎么办啦。
 
 **玻娜:** 派蒙不会是在小看我吧，我可是花羽会的冒险家，飞行经验可是很丰富的。
 
-**玻娜:** 就算是带上{REALNAME[ID(2)|SHOWHOST(true)]}，飞到那边也是轻轻松松。
+**玻娜:** 就算是带上小家伙，飞到那边也是轻轻松松。
 
 我也有飞行执照。
 
@@ -1140,9 +1140,9 @@ Is this going to be a race?
 
 **玻娜:** 哇，这种时候就不要有这种好胜之心啦，我会在前面给你们引路，你们只要跟上我就好了。
 
-**派蒙:** 总感觉很危险的样子，也不知道会发生什么，{REALNAME[ID(2)|SHOWHOST(true)]}你可要抓紧我们啦。
+**派蒙:** 总感觉很危险的样子，也不知道会发生什么，小家伙你可要抓紧我们啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 前往源火祭坛附近
 

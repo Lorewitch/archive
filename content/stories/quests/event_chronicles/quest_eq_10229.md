@@ -3,7 +3,7 @@
 # title_ru: Поручение Куратория тайн
 # title_en: A Commission From the Curatorium of Secrets
 # title_zh: 来自秘闻馆的委托
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10229
@@ -11,7 +11,7 @@
 # chapter_num_en: Where Waves Meet the Reef: Part I
 # chapter_num_zh: 礁与浪的相逢·其一
 # part_source_ids: 40225,40226,40227,40236
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10236
 # related_quests: quest_eq_10236,quest_eq_10237,quest_wq_40239
 # quest_chain: quest_eq_10229,quest_eq_10236,quest_eq_10237,quest_wq_40239

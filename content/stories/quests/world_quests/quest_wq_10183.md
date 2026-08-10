@@ -11,7 +11,7 @@
 # chapter_num_en: Canticles of Harmony Prelude
 # chapter_num_zh: 谐律上的咏叙诗·序曲
 # part_source_ids: 74184
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10184
 # related_quests: quest_wq_10184,quest_wq_10182,quest_wq_10181,quest_wq_10185
 # quest_chain: quest_wq_10183,quest_wq_10184,quest_wq_10182,quest_wq_10181,quest_wq_10185
@@ -144,7 +144,7 @@
 
 **Кассиодор:** ...Значит, это пророчество, господин? Мы собрались здесь сегодня, чтобы предотвратить его и побороться с неумолимой судьбой.
 
-**Кассиодор:** Как вы сказали, мы заплатили высокую цену. Но когда мы освободимся от оков суд{RUBY#[D]Фортуны}ьбы, эти жертвы окажутся не напрасными...
+**Кассиодор:** Как вы сказали, мы заплатили высокую цену. Но когда мы освободимся от оков судФортуныьбы, эти жертвы окажутся не напрасными...
 
 **Кассиодор:** В это я верю с тех пор, как принял это тело и стал ремурийцем...
 
@@ -612,7 +612,7 @@ The collapse of all that was once radiant.
 
 **Cassiodor:** ...That prophecy, then, Imperator? It is precisely to prevent it from happening, to fight against inevitable fate, that we are here today.
 
-**Cassiodor:** Just as you said, we have paid much for it, but once we are free of fa{RUBY#[D]Fortuna's}te's shackles, those sacrifices shall not have been in vain...
+**Cassiodor:** Just as you said, we have paid much for it, but once we are free of faFortuna'ste's shackles, those sacrifices shall not have been in vain...
 
 **Cassiodor:** In this have I had faith ever since I accepted this body and became a Remurian...
 
@@ -1080,7 +1080,7 @@ Then let's have a look around for starters.
 
 **卡西奥多:** …是那个预言吗？正是为了阻止它的发生，为了对抗必然的命运，我们才会走到今天。
 
-**卡西奥多:** 就像您说的那样，虽然已为此付出了诸多代价，但等到我们终能摆脱「命{RUBY#[D]法图纳}运」的枷锁之时，所有的牺牲都不会是徒劳…
+**卡西奥多:** 就像您说的那样，虽然已为此付出了诸多代价，但等到我们终能摆脱「命法图纳运」的枷锁之时，所有的牺牲都不会是徒劳…
 
 **卡西奥多:** 从我接受了这副身躯成为雷穆利亚人之后，便一直这样相信着…
 

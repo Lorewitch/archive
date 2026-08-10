@@ -3,19 +3,19 @@
 # title_ru: Здесь очень холодно!
 # title_en: Low-Temperature Warning
 # title_zh: 低温预警
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70107
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70107
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70107
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

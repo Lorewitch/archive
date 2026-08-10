@@ -13,8 +13,8 @@
 # part_source_ids: 2010,2014,2015,2016,2017,2018,2019,2020,2021,2024
 # previous_quests: quest_aq_1203
 # next_quests: quest_aq_1206
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: II
 # version_source: wiki_release_category
 
@@ -4788,7 +4788,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **大久保大介:** 这位是…
 
-**哲平:** 嘿嘿，是珊瑚宫大人的客人哦，我是负责把{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}带回海祇岛的。
+**哲平:** 嘿嘿，是珊瑚宫大人的客人哦，我是负责把空/荧带回海祇岛的。
 
 **大久保大介:** 哦？莫非就是最近军队中已有传言的那位…力大无穷、百步穿杨、金刚不坏的新人？
 
@@ -5724,7 +5724,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **九条裟罗:** 不要动！通缉犯居然敢大摇大摆地出现在神社！
 
-**九条裟罗:** 别想动什么歪心思，老实跟我一起去奉行所。抓住{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}！
+**九条裟罗:** 别想动什么歪心思，老实跟我一起去奉行所。抓住空/荧！
 
 **元助:** 是！
 
@@ -5782,7 +5782,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **九条裟罗:** 哼…三天对吧，我会来。但如果我没看到证据，那还请宫司大人对妄测九条家一事道歉，还有…
 
-**九条裟罗:** …{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}我也会一并带回去。
+**九条裟罗:** …空/荧我也会一并带回去。
 
 **八重神子:** 好了~那就三天后，恭候您的光临了，客人。
 
@@ -6572,7 +6572,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6608,7 +6608,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6652,7 +6652,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6672,7 +6672,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **八重神子:** 呵呵呵…祝你们早日达成目的，知晓一切真相吧。
 
-**八重神子:** 至于你{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的踪迹，我会尽我所能利用一切资源去调查的，包括从绫人那里借用一些终末番的手下。
+**八重神子:** 至于你荧/空的踪迹，我会尽我所能利用一切资源去调查的，包括从绫人那里借用一些终末番的手下。
 
 **八重神子:** 有消息我会通知你，就算是酬谢的一部分吧。
 
@@ -6680,7 +6680,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6710,7 +6710,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6728,7 +6728,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **八重神子:** 呵呵…好了好了。说起来，旅行者，你的愿望又是什么呢？
 
-嗯…与{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}再次团聚？
+嗯…与荧/空再次团聚？
 
 **八重神子:** 这样吗…但我觉得，那或许只是你眼下的一个小小目标而已。
 
@@ -6744,7 +6744,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6780,7 +6780,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6824,7 +6824,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6844,7 +6844,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **八重神子:** 呵呵呵…祝你们早日达成目的，知晓一切真相吧。
 
-**八重神子:** 至于你{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的踪迹，我会尽我所能利用一切资源去调查的，包括从绫人那里借用一些终末番的手下。
+**八重神子:** 至于你荧/空的踪迹，我会尽我所能利用一切资源去调查的，包括从绫人那里借用一些终末番的手下。
 
 **八重神子:** 有消息我会通知你，就算是酬谢的一部分吧。
 
@@ -6852,7 +6852,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6882,7 +6882,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6900,7 +6900,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **八重神子:** 呵呵…好了好了。说起来，旅行者，你的愿望又是什么呢？
 
-嗯…与{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}再次团聚？
+嗯…与荧/空再次团聚？
 
 **八重神子:** 这样吗…但我觉得，那或许只是你眼下的一个小小目标而已。
 
@@ -6944,7 +6944,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -6988,7 +6988,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -7008,7 +7008,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **八重神子:** 呵呵呵…祝你们早日达成目的，知晓一切真相吧。
 
-**八重神子:** 至于你{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的踪迹，我会尽我所能利用一切资源去调查的，包括从绫人那里借用一些终末番的手下。
+**八重神子:** 至于你荧/空的踪迹，我会尽我所能利用一切资源去调查的，包括从绫人那里借用一些终末番的手下。
 
 **八重神子:** 有消息我会通知你，就算是酬谢的一部分吧。
 
@@ -7016,7 +7016,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -7046,7 +7046,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 
@@ -7064,7 +7064,7 @@ To be reunited with my (brother)(sister), I guess?
 
 **八重神子:** 呵呵…好了好了。说起来，旅行者，你的愿望又是什么呢？
 
-嗯…与{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}再次团聚？
+嗯…与荧/空再次团聚？
 
 **八重神子:** 这样吗…但我觉得，那或许只是你眼下的一个小小目标而已。
 
@@ -7080,7 +7080,7 @@ To be reunited with my (brother)(sister), I guess?
 
 - **旅行者:** 关于前任雷电将军…
 
-- **旅行者:** 关于我的{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}…
+- **旅行者:** 关于我的荧/空…
 
 - **旅行者:** 关于旅途的下一站…
 

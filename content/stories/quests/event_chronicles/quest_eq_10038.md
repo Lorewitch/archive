@@ -11,7 +11,7 @@
 # chapter_num_en: Labyrinth Warriors: Part I
 # chapter_num_zh: 谜境悬兵 其一
 # part_source_ids: 40020
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10039
 # related_quests: quest_eq_10039,quest_eq_10040,quest_eq_10041
 # quest_chain: quest_eq_10038,quest_eq_10039,quest_eq_10040,quest_eq_10041

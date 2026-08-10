@@ -3,19 +3,19 @@
 # title_ru: Случайное поручение
 # title_en: Chance Commission
 # title_zh: 偶现之委托
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 76126
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76126
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76126
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

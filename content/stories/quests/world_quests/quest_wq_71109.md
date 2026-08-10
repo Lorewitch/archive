@@ -3,19 +3,19 @@
 # title_ru: Скрытая долина, тайный герой
 # title_en: Shrouded Vale, Hidden Hero
 # title_zh: 秘谷侠隐
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71109
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71109
 # previous_quests: quest_wq_71108
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_71107,quest_wq_71108
 # quest_chain: quest_wq_71107,quest_wq_71108,quest_wq_71109
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -3,19 +3,19 @@
 # title_ru: Запоздалое возвращение
 # title_en: Latecoming Homecoming
 # title_zh: 迟来的归乡
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 74216
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74216
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74216
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

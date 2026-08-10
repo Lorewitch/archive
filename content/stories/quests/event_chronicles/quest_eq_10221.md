@@ -11,7 +11,7 @@
 # chapter_num_en: Enchanted Tales of the Mikawa Festival: First Night
 # chapter_num_zh: 三川游艺绮梦谭·始夜
 # part_source_ids: 40190
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10222
 # related_quests: quest_eq_10222,quest_eq_10223,quest_eq_10224
 # quest_chain: quest_eq_10221,quest_eq_10222,quest_eq_10223,quest_eq_10224

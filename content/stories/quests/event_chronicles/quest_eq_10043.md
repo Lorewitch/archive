@@ -12,9 +12,9 @@
 # chapter_num_zh: 韶光抚月 其二
 # part_source_ids: 40015
 # previous_quests: quest_eq_10042
-# next_quests: 
-# related_quests: quest_eq_10042,quest_wq_71500,quest_wq_70501,quest_wq_70500,quest_wq_72664
-# quest_chain: quest_eq_10042,quest_eq_10043,quest_wq_71500,quest_wq_70501,quest_wq_70500,quest_wq_72664
+# next_quests:
+# related_quests: quest_eq_10042
+# quest_chain: quest_eq_10042,quest_eq_10043
 # quest_series: Moonlight Merriment
 # version_source: wiki_release_category
 

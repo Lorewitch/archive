@@ -11,7 +11,7 @@
 # chapter_num_en: Where the Springs Return: Act I
 # chapter_num_zh: 流泉所归之处  第一幕
 # part_source_ids: 15005
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2056
 # related_quests: quest_lq_2056,quest_lq_2057
 # quest_chain: quest_lq_2055,quest_lq_2056,quest_lq_2057

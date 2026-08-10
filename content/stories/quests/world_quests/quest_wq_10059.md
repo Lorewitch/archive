@@ -3,19 +3,19 @@
 # title_ru: Тайна Эреб
 # title_en: Erebos' Secret
 # title_zh: 厄瑞玻斯的秘密
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 10059
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72268,72269,72270,72275
 # previous_quests: quest_eq_40061
-# next_quests: 
-# related_quests: quest_eq_10050,quest_eq_40061,quest_wq_72276
-# quest_chain: quest_eq_10050,quest_eq_40061,quest_wq_10059,quest_wq_72276
-# quest_series: 
+# next_quests:
+# related_quests: quest_eq_40061
+# quest_chain: quest_eq_40061,quest_wq_10059
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

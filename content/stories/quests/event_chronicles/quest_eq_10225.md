@@ -11,10 +11,10 @@
 # chapter_num_en: Tournament of Glory in Bloom: Act I
 # chapter_num_zh: 荣花竞捷之争 第一幕
 # part_source_ids: 40177
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10226
-# related_quests: quest_eq_10226,quest_eq_10227,quest_wq_75664,quest_wq_75665
-# quest_chain: quest_eq_10225,quest_eq_10226,quest_eq_10227,quest_wq_75664,quest_wq_75665
+# related_quests: quest_eq_10226,quest_eq_10227
+# quest_chain: quest_eq_10225,quest_eq_10226,quest_eq_10227
 # quest_series: Tournament of Glory in Bloom
 # version_source: wiki_release_category
 

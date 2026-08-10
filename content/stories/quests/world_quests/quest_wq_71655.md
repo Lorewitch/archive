@@ -7,15 +7,15 @@
 # game_version: 1.6
 # release_versions: 1.6
 # source_id: 71655
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71655
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71655
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

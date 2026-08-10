@@ -3,7 +3,7 @@
 # title_ru: У всего есть цена
 # title_en: The Price of Every Price
 # title_zh: 一切代价的回旋
-# region: Фонтейн
+# region: Тейват
 # game_version: 5.6
 # release_versions: 5.6
 # source_id: 10234

@@ -3,19 +3,19 @@
 # title_ru: Чан Чан и её спутник
 # title_en: Changchang's Little Friend
 # title_zh: 畅畅和她的小伙伴
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71807
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71807
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71807
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -74,11 +74,11 @@ It should have eaten its fill.
 
 #### 向畅畅回报
 
-**畅畅:** {PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}，你喂过那只小狗了吗？
+**畅畅:** 空/荧，你喂过那只小狗了吗？
 
 它应该吃饱了。
 
-**畅畅:** 太好啦…谢谢你，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BIGBROTHER|INFO_FEMALE_PRONOUN_BIGSISTER]}。
+**畅畅:** 太好啦…谢谢你，空/荧。
 
 **畅畅:** 这些东西给你，是畅畅自己攒下来的哦，谢谢你帮忙。
 

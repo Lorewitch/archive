@@ -3,19 +3,19 @@
 # title_ru: Дорога в будущее
 # title_en: The Road Ahead
 # title_zh: 将行之路
-# region: Натлан
+# region: Тейват
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75008
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75008
 # previous_quests: quest_wq_10203
-# next_quests: 
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_series: 
+# next_quests:
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -30,7 +30,7 @@
 
 **Паймон:** Манку, мы вернулись!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Манку:** Фух, как же долго пришлось ждать. Не буду врать, чем дольше я ждал, тем больше волновался.
 
@@ -44,7 +44,7 @@
 
 **Манку:** Я знал, что у вас всё получится!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Вот эти предметы в форме круглой пластины! Оба дара у нас!
 
@@ -56,9 +56,9 @@
 
 **Манку:** Мне на миг захотелось забрать её себе и превратить в семейную реликвию или что-то в этом роде...
 
-**Паймон:** Ну уж нет! Нам нужно это, чтобы помочь завриану {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Паймон:** Ну уж нет! Нам нужно это, чтобы помочь завриану Малыш!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Манку:** Понятно... Дальше вам нужно отправиться к вулкану Толлан.
 
@@ -74,13 +74,13 @@
 
 **Паймон:** Не беда! Этой информации нам вполне достаточно!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Манку:** Раз так, то благодарю вас ещё раз! Для меня было очень важно увидеть Золотое прошение. А теперь мне нужно поскорее вернуться обратно и всё записать...
 
 **Манку:** Ещё раз спасибо, Путешественник и Паймон! Желаю вам счастливого пути!
 
-**Манку:** А также желаю тебе, {REALNAME[ID(2)|SHOWHOST(true)]}, достаточно сил для уничтожения печати Благословения Повелителя огня.
+**Манку:** А также желаю тебе, Малыш, достаточно сил для уничтожения печати Благословения Повелителя огня.
 
 Пока!
 
@@ -90,7 +90,7 @@
 
 **Паймон:** Манку, мы вернулись!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Манку:** Фух, как же долго пришлось ждать. Не буду врать, чем дольше я ждал, тем больше волновался.
 
@@ -104,7 +104,7 @@
 
 **Манку:** Я знал, что у вас всё получится!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Вот этот предмет в форме круглой пластины!
 
@@ -116,9 +116,9 @@
 
 **Манку:** Мне на миг захотелось забрать её себе и превратить в семейную реликвию или что-то в этом роде...
 
-**Паймон:** Ну уж нет! Нам нужно это, чтобы помочь завриану {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Паймон:** Ну уж нет! Нам нужно это, чтобы помочь завриану Малыш!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Манку:** Знаю... Однако из подсказок о нахождении даров я узнал, где только один из них, но понятия не имею, где другой.
 
@@ -138,13 +138,13 @@
 
 **Паймон:** Не беда! Этой информации нам вполне достаточно!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Манку:** Раз так, то благодарю вас ещё раз! Для меня было очень важно увидеть Золотое прошение. А теперь мне нужно поскорее вернуться обратно и всё записать...
 
 **Манку:** Ещё раз спасибо, Путешественник и Паймон! Желаю вам счастливого пути!
 
-**Манку:** А также желаю тебе, {REALNAME[ID(2)|SHOWHOST(true)]}, достаточно сил для уничтожения печати Благословения Повелителя огня.
+**Манку:** А также желаю тебе, Малыш, достаточно сил для уничтожения печати Благословения Повелителя огня.
 
 Пока!
 
@@ -162,7 +162,7 @@
 
 **Paimon:** Manqu, we're back!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Manqu:** Phew, that sure was one long wait. Not gonna lie, the longer I waited, the more anxious I became.
 
@@ -176,7 +176,7 @@
 
 **Manqu:** Hah, I knew you'd do it!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Look, they turned out to be these disk thingamajigs! We've already gotten our hands on both of the tokens!
 
@@ -188,9 +188,9 @@
 
 **Manqu:** For a moment there, I was thinking about what it might be like to keep them for myself as family heirlooms or something of the sort...
 
-**Paimon:** No way! We need them to save {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Paimon:** No way! We need them to save Little One!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Manqu:** I know, I know... Well, I suppose now you must set forth for the Great Volcano of Tollan.
 
@@ -206,13 +206,13 @@
 
 **Paimon:** Don't sweat it. You've already told us plenty!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Manqu:** Well, I must thank the two of you once again. I can't tell you how much seeing those Golden Entreaties means to me. Speaking of which, I'd better hurry back and get all this recorded...
 
 **Manqu:** Thank you once more, Traveler and Paimon. I wish you a safe journey...
 
-**Manqu:** And {REALNAME[ID(2)|SHOWHOST(true)]}, I wish you success removing the mark of the Flamelord's Blessing.
+**Manqu:** And Little One, I wish you success removing the mark of the Flamelord's Blessing.
 
 Farewell!
 
@@ -222,7 +222,7 @@ Farewell!
 
 **Paimon:** Manqu, we're back!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Manqu:** Phew, that sure was one long wait. Not gonna lie, the longer I waited, the more anxious I became.
 
@@ -236,7 +236,7 @@ Farewell!
 
 **Manqu:** Hah, I knew you'd do it!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Look, it turned out to be this disc thingamajig!
 
@@ -248,9 +248,9 @@ Farewell!
 
 **Manqu:** For a moment there, I was thinking about what it might be like to keep it for myself as some kind of family heirloom...
 
-**Paimon:** No way! We need it to save {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Paimon:** No way! We need it to save Little One!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Manqu:** I know... But as for clues about the tokens' whereabouts, well, I'm all out. I haven't the slightest idea where the other one might be.
 
@@ -270,13 +270,13 @@ Ochkanatlan...
 
 **Paimon:** Don't sweat it. You've already told us plenty!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Manqu:** Well, I must thank the two of you once again. I can't tell you how much seeing a Golden Entreaty means to me. Speaking of which, I'd better hurry back and get all this recorded...
 
 **Manqu:** Thank you once more, Traveler and Paimon. I wish you a safe journey...
 
-**Manqu:** And {REALNAME[ID(2)|SHOWHOST(true)]}, I wish you success removing the mark of the Flamelord's Blessing.
+**Manqu:** And Little One, I wish you success removing the mark of the Flamelord's Blessing.
 
 Farewell!
 
@@ -294,7 +294,7 @@ Farewell!
 
 **派蒙:** 曼科，我们回来啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **曼科:** 嗯，这可真是一阵苦等啊，等待的时间越久，实不相瞒，我的心情就越焦虑。
 
@@ -308,7 +308,7 @@ Farewell!
 
 **曼科:** 我就相信你们一定可以成功的。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 你看，就是这个圆盘一样的东西！我们已经把两个信物全都拿到了！
 
@@ -320,9 +320,9 @@ Farewell!
 
 **曼科:** 刚才有一瞬间，我想要将之占为己有，作为传家宝之类的…
 
-**派蒙:** 那可不行，我们是要用来救{REALNAME[ID(2)|SHOWHOST(true)]}的！
+**派蒙:** 那可不行，我们是要用来救小家伙的！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **曼科:** 我知道…接下来你们就要前往图兰大火山了吧。
 
@@ -338,13 +338,13 @@ Farewell!
 
 **派蒙:** 没关系，知道这些已经很足够啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **曼科:** 嗯，我要再度感谢你们，能够看到「通牒金盘」，对我真的十分重要，不行，我得快点回去将这些记录下来…
 
 **曼科:** 再度感谢你们，旅行者，派蒙，祝你们的旅途顺利…
 
-**曼科:** 然后，也祝愿{REALNAME[ID(2)|SHOWHOST(true)]}，祝愿你能去除「焰主之祝」的印记。
+**曼科:** 然后，也祝愿小家伙，祝愿你能去除「焰主之祝」的印记。
 
 再见！
 
@@ -354,7 +354,7 @@ Farewell!
 
 **派蒙:** 曼科，我们回来啦。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **曼科:** 嗯，这可真是一阵苦等啊，等待的时间越久，实不相瞒，我的心情就越焦虑。
 
@@ -368,7 +368,7 @@ Farewell!
 
 **曼科:** 我就相信你们一定可以成功的。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 你看，就是这个圆盘一样的东西！
 
@@ -380,9 +380,9 @@ Farewell!
 
 **曼科:** 刚才有一瞬间，我想要将之占为己有，作为传家宝之类的…
 
-**派蒙:** 那可不行，我们是要用来救{REALNAME[ID(2)|SHOWHOST(true)]}的！
+**派蒙:** 那可不行，我们是要用来救小家伙的！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **曼科:** 我知道…不过，信物的线索，我也只知道这枚，另外一枚究竟在何处，我就实在不清楚。
 
@@ -402,13 +402,13 @@ Farewell!
 
 **派蒙:** 没关系，知道这些已经很足够啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **曼科:** 嗯，我要再度感谢你们，能够看到「通牒金盘」，对我真的十分重要，不行，我得快点回去将这些记录下来…
 
 **曼科:** 再度感谢你们，旅行者，派蒙，祝你们的旅途顺利…
 
-**曼科:** 然后，也祝愿{REALNAME[ID(2)|SHOWHOST(true)]}，祝愿你能去除「焰主之祝」的印记。
+**曼科:** 然后，也祝愿小家伙，祝愿你能去除「焰主之祝」的印记。
 
 再见！
 

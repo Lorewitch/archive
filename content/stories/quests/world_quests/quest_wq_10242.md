@@ -7,15 +7,15 @@
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10242
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76202,76203,76204,76205
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_76141
 # related_quests: quest_wq_76141
 # quest_chain: quest_wq_10242,quest_wq_76141
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

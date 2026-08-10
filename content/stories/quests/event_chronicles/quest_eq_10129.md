@@ -3,7 +3,7 @@
 # title_ru: Сердце глубины
 # title_en: Heart of the Deep
 # title_zh: 幽潭心
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 10129
@@ -12,9 +12,9 @@
 # chapter_num_zh: 游水酝诗籍 第三首
 # part_source_ids: 40126
 # previous_quests: quest_eq_10128
-# next_quests: 
-# related_quests: quest_eq_10127,quest_eq_10128,quest_wq_71521,quest_wq_71522,quest_wq_71523
-# quest_chain: quest_eq_10127,quest_eq_10128,quest_eq_10129,quest_wq_71521,quest_wq_71522,quest_wq_71523
+# next_quests:
+# related_quests: quest_eq_10127,quest_eq_10128
+# quest_chain: quest_eq_10127,quest_eq_10128,quest_eq_10129
 # quest_series: Waterborne Poetry
 # version_source: wiki_release_category
 

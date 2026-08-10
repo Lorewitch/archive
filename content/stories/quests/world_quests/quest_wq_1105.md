@@ -3,7 +3,7 @@
 # title_ru: Дайнслейф
 # title_en: Dainsleif
 # title_zh: 戴因斯雷布
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 1105
@@ -13,8 +13,8 @@
 # part_source_ids: 18000
 # previous_quests: quest_aq_1103
 # next_quests: quest_aq_1104
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: I
 # version_source: wiki_release_category
 
@@ -1234,7 +1234,7 @@ And I will find her / him.
 
 难道…！
 
-**派蒙:** 那位陌生人的脸，和…和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的样子像不像？！
+**派蒙:** 那位陌生人的脸，和…和空/荧的样子像不像？！
 
 **凯瑟琳:** 咦？和荣誉骑士吗？差别还挺大的呢，是一个很高大的男人，还戴着一个眼罩…
 
@@ -1460,9 +1460,9 @@ And I will find her / him.
 
 #### 前往酒馆一楼，寻找那位「陌生人」
 
-**戴因斯雷布:** 果然…你和{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}非常相似。
+**戴因斯雷布:** 果然…你和荧/空非常相似。
 
-什么意思？你说的「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}」是在说谁？
+什么意思？你说的「荧/空」是在说谁？
 
 **戴因斯雷布:** ……
 
@@ -1500,15 +1500,15 @@ And I will find her / him.
 
 **派蒙:** 嗯！我们可是很厉害的。
 
-**戴因斯雷布:** （真是…和{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}一模一样的气势。）
+**戴因斯雷布:** （真是…和荧/空一模一样的气势。）
 
 **戴因斯雷布:** 也好，我们去实地看看吧。根据我手上的一些线索，深渊教团曾经重新进入过「西风之鹰的庙宇」。
 
 **戴因斯雷布:** 在那里汇合吧。你对深渊的疑惑，或许在那里会有解答。
 
-**戴因斯雷布:** 看来…你还是和{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}不一样。
+**戴因斯雷布:** 看来…你还是和荧/空不一样。
 
-什么意思？你说的「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}」是在说谁？
+什么意思？你说的「荧/空」是在说谁？
 
 **戴因斯雷布:** ……
 
@@ -1546,7 +1546,7 @@ And I will find her / him.
 
 **派蒙:** 嗯！我们可是很厉害的。
 
-**戴因斯雷布:** （真是…和{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}一模一样的气势。）
+**戴因斯雷布:** （真是…和荧/空一模一样的气势。）
 
 **戴因斯雷布:** 也好，我们去实地看看吧。根据我手上的一些线索，深渊教团曾经重新进入过「西风之鹰的庙宇」。
 
@@ -1710,9 +1710,9 @@ And I will find her / him.
 
 **派蒙:** 你的那位旅伴，现在在哪里呀？
 
-**戴因斯雷布:** {MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}…
+**戴因斯雷布:** 荧/空…
 
-**戴因斯雷布:** {MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}不再旅行了。
+**戴因斯雷布:** 荧/空不再旅行了。
 
 **戴因斯雷布:** 因为，旅行实在是太让人疲惫了。
 
@@ -1756,9 +1756,9 @@ And I will find her / him.
 
 - **旅行者:** 这株蒲公英…
 
-- **旅行者:** 我…感受到{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}了。
+- **旅行者:** 我…感受到荧/空了。
 
-**派蒙:** 欸？你，你是说…感受到{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}了吗？！
+**派蒙:** 欸？你，你是说…感受到荧/空了吗？！
 
 **派蒙:** 可是，这是怎么回事…你刚才只是摸了蒲公英一下而已啊。
 
@@ -1778,11 +1778,11 @@ And I will find her / him.
 
 **戴因斯雷布:** 烦恼与焦虑是心智之敌，你的旅程才刚刚开始，不是吗？
 
-**戴因斯雷布:** 至少，现在你知道了，{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}还在这个世界上。
+**戴因斯雷布:** 至少，现在你知道了，荧/空还在这个世界上。
 
-**戴因斯雷布:** 在这种时刻，最重要的事，就是这场寻找{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的「旅行」。
+**戴因斯雷布:** 在这种时刻，最重要的事，就是这场寻找荧/空的「旅行」。
 
-我一定会找到{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的。
+我一定会找到荧/空的。
 
 **戴因斯雷布:** 这句话，确实很适合时刻牢记，作为旅行背后的意义。
 

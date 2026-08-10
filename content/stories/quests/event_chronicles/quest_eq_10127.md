@@ -3,7 +3,7 @@
 # title_ru: Задушевная встреча
 # title_en: Congenial Gathering
 # title_zh: 言欢聚
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 10127
@@ -11,10 +11,10 @@
 # chapter_num_en: Waterborne Poetry: Part I
 # chapter_num_zh: 游水酝诗籍 第一首
 # part_source_ids: 40123
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10128
-# related_quests: quest_eq_10128,quest_eq_10129,quest_wq_71521,quest_wq_71522,quest_wq_71523
-# quest_chain: quest_eq_10127,quest_eq_10128,quest_eq_10129,quest_wq_71521,quest_wq_71522,quest_wq_71523
+# related_quests: quest_eq_10128,quest_eq_10129
+# quest_chain: quest_eq_10127,quest_eq_10128,quest_eq_10129
 # quest_series: Waterborne Poetry
 # version_source: wiki_release_category
 

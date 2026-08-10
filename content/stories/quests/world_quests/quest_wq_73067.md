@@ -3,19 +3,19 @@
 # title_ru: Храбрость исходит из сердца
 # title_en: Courage Is in the Heart
 # title_zh: 勇气戴于心上
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73067
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73067
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73067
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

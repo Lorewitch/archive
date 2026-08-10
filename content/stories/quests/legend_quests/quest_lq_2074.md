@@ -11,11 +11,11 @@
 # chapter_num_en: Dulciaria Structura Chapter: Act I
 # chapter_num_zh: 香糕塔之章 第一幕
 # part_source_ids: 14044,14045,14046
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2074
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -3,13 +3,13 @@
 # title_ru: Дела загробные: Всё хорошо
 # title_en: Hereafter: All is Well
 # title_zh: 身后事·诸事平安
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 71830
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71830
 # previous_quests: quest_wq_71035
 # next_quests: quest_wq_71831

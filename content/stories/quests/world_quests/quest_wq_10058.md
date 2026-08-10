@@ -3,19 +3,19 @@
 # title_ru: Особый гадальный листок
 # title_en: The Very Special Fortune Slip
 # title_zh: 特别的御神签
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 10058
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72263,72265,72266
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10058
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -3018,7 +3018,7 @@ See you, Lyudochka.
 
 **藤田:** 为什么，笑？难道…你，是敌人？
 
-**派蒙:** 不是的不是的，刚才是因为{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}突然想打喷嚏，没控制好表情！我们等会再来和你说话！
+**派蒙:** 不是的不是的，刚才是因为空/荧突然想打喷嚏，没控制好表情！我们等会再来和你说话！
 
 **派蒙:** （太危险了！你刚才已经惹恼他了。果然是因为他说了太多暗语，你没听懂他的意思吧。）
 

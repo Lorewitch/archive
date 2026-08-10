@@ -11,7 +11,7 @@
 # chapter_num_en: Fabulous Fungus Frenzy - Act I
 # chapter_num_zh: 智巧灵蕈大竞逐 第一幕
 # part_source_ids: 40081
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10101
 # related_quests: quest_eq_10101,quest_eq_10102,quest_eq_10103,quest_eq_10104,quest_eq_10105
 # quest_chain: quest_eq_10100,quest_eq_10101,quest_eq_10102,quest_eq_10103,quest_eq_10104,quest_eq_10105

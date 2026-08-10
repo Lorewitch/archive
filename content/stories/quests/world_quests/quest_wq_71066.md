@@ -3,19 +3,19 @@
 # title_ru: Украдено владельцем
 # title_en: Stolen, by the Rightful Owner
 # title_zh: 物归原主又归原主
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71066
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71066
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71066
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

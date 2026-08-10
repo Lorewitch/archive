@@ -12,7 +12,7 @@
 # chapter_num_zh: 秋津森夜试胆会 其三
 # part_source_ids: 40091
 # previous_quests: quest_eq_10111
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10110,quest_wq_72728,quest_eq_10111,quest_wq_72729
 # quest_chain: quest_eq_10110,quest_wq_72728,quest_eq_10111,quest_eq_10112,quest_wq_72729
 # quest_series: Akitsu Kimodameshi
@@ -434,7 +434,7 @@
 
 **Ханюда Тидзуру:** «Мико»... «Госпожа Яэ»... Значит, ты...
 
-**Яэ Мико:** На одном из Фестивалей цветов Микавы я была рядом с кицунэ Сайгу и смотрела, как она играет в «Акицу Хад{RUBY#[S]Ханэасоби}зура».
+**Яэ Мико:** На одном из Фестивалей цветов Микавы я была рядом с кицунэ Сайгу и смотрела, как она играет в «Акицу ХадХанэасобизура».
 
 **Яэ Мико:** Тогда я и увидела тебя. У тебя ещё не было человеческого облика, а сознание только зарождалось.
 
@@ -450,7 +450,7 @@
 
 **Яэ Мико:** От твоей силы почти ничего не осталось. Было бы странно, если бы ты меня увидела.
 
-**Яэ Мико:** Всё это время ты винишь себя... Ты знаешь, что самурай и Камай подружились за игрой в «Акицу Хад{RUBY#[S]Ханэасоби}зура», и думаешь, что без тебя этого бы не случилось.
+**Яэ Мико:** Всё это время ты винишь себя... Ты знаешь, что самурай и Камай подружились за игрой в «Акицу ХадХанэасобизура», и думаешь, что без тебя этого бы не случилось.
 
 **Ханюда Тидзуру:** Тогда я ещё не умела принимать человеческий облик, и сознание во мне только зарождалось.
 
@@ -1134,7 +1134,7 @@ What do you mean?
 
 **Paimon:** Hagoita? Ah, wait, so that means she's...
 
-**Shikanoin Heizou:** The pair of hagoita used by Kamai and the human samurai to play Akitsu Haz{RUBY#[S]Haneasobi}ura hundreds of years ago.
+**Shikanoin Heizou:** The pair of hagoita used by Kamai and the human samurai to play Akitsu HazHaneasobiura hundreds of years ago.
 
 **Shikanoin Heizou:** You gradually developed sentience after being influenced by great youkai power. You were the closest to witness their story.
 
@@ -1166,7 +1166,7 @@ What do you mean?
 
 **Hanyuuda Chizuru:** "Miko"... "Lady Yae"... You're...
 
-**Yae Miko:** I followed Kitsune Saiguu around the Mikawa Flower Festival one year and saw her play Akitsu Haz{RUBY#[S]Haneasobi}ura.
+**Yae Miko:** I followed Kitsune Saiguu around the Mikawa Flower Festival one year and saw her play Akitsu HazHaneasobiura.
 
 **Yae Miko:** That was when I saw you. You didn't have a human form at the time, and possessed only the earliest traces of sentience.
 
@@ -1182,7 +1182,7 @@ What do you mean?
 
 **Yae Miko:** With your powers being so diminished, it was only natural that you didn't notice me.
 
-**Yae Miko:** You must have been blaming yourself all this time. You knew Kamai and the samurai became friends as a result of Akitsu Haz{RUBY#[S]Haneasobi}ura, a game connected to your existence.
+**Yae Miko:** You must have been blaming yourself all this time. You knew Kamai and the samurai became friends as a result of Akitsu HazHaneasobiura, a game connected to your existence.
 
 **Hanyuuda Chizuru:** At the time, I couldn't take on a human form like this. I had only a hazy sense of the outer world.
 

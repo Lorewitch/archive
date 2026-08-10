@@ -3,19 +3,19 @@
 # title_ru: Цветы для Куроша
 # title_en: Kourosh's Sumeru Roses
 # title_zh: 库洛什的鲜花需求
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73658
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73658
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73658
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

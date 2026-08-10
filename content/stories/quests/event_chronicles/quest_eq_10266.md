@@ -11,10 +11,10 @@
 # chapter_num_en: Ruins Exploration: Act I
 # chapter_num_zh: 参究故墟 第一幕
 # part_source_ids: 40210
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10267
-# related_quests: quest_eq_10267,quest_wq_73705,quest_wq_73706
-# quest_chain: quest_eq_10266,quest_eq_10267,quest_wq_73705,quest_wq_73706
+# related_quests: quest_eq_10267
+# quest_chain: quest_eq_10266,quest_eq_10267
 # quest_series: Ruins Exploration || Ruins Exploration: Fieldwise Center
 # version_source: wiki_release_category
 

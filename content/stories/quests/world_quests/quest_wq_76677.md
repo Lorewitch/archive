@@ -3,19 +3,19 @@
 # title_ru: Семена, принесённые ветром
 # title_en: Like Seeds on the Wind
 # title_zh: 如风带来的种子
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76677
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76677
 # previous_quests: quest_wq_76675
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_76675
 # quest_chain: quest_wq_76675,quest_wq_76677
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

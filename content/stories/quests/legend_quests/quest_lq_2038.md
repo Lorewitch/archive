@@ -3,7 +3,7 @@
 # title_ru: Путешествие собирателя звёзд
 # title_en: Star-Pickers' Passage
 # title_zh: 拾星之旅
-# region: Инадзума, Сумеру
+# region: Инадзума
 # game_version: 3.7
 # release_versions: 3.7
 # source_id: 2038
@@ -12,7 +12,7 @@
 # chapter_num_zh: 琉金之章 第二幕
 # part_source_ids: 13030,13031,13032
 # previous_quests: quest_lq_2021
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2021
 # quest_chain: quest_lq_2021,quest_lq_2038
 # quest_series: Carassius Auratus || Carassius Auratus Chapter

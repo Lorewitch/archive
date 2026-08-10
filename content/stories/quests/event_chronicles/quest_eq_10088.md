@@ -11,10 +11,10 @@
 # chapter_num_en: Summertime Odyssey: I
 # chapter_num_zh: 远海诗夏游纪 其一
 # part_source_ids: 40064
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10089
-# related_quests: quest_wq_10071,quest_wq_10084,quest_eq_10089,quest_eq_10090,quest_eq_10091,quest_eq_10092,quest_eq_10093,quest_wq_79013,quest_wq_79021,quest_wq_79025,quest_wq_79026,quest_wq_79027,quest_wq_79035
-# quest_chain: quest_wq_10071,quest_wq_10084,quest_eq_10088,quest_eq_10089,quest_eq_10090,quest_eq_10091,quest_eq_10092,quest_eq_10093,quest_wq_79013,quest_wq_79021,quest_wq_79025,quest_wq_79026,quest_wq_79027,quest_wq_79035
+# related_quests: quest_eq_10089,quest_eq_10090,quest_eq_10091,quest_eq_10092,quest_eq_10093
+# quest_chain: quest_eq_10088,quest_eq_10089,quest_eq_10090,quest_eq_10091,quest_eq_10092,quest_eq_10093
 # quest_series: Summertime Odyssey
 # version_source: wiki_release_category
 

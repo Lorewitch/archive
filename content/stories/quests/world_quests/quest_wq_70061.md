@@ -3,19 +3,19 @@
 # title_ru: Лесной кабан замирает над цветком
 # title_en: Forest Boar Pauses for the Bloom
 # title_zh: 山有林猪粗嗅花
-# region: Мондштадт
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 70061
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70061
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70061
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

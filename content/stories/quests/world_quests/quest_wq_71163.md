@@ -3,19 +3,19 @@
 # title_ru: Подарок от Адепта
 # title_en: Adeptus's Gift
 # title_zh: 仙人赠礼
-# region: Ли Юэ
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 71163
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71163
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71163
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

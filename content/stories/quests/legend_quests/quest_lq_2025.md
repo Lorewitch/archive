@@ -11,11 +11,11 @@
 # chapter_num_en: Divina Vulpes Chapter: Act I
 # chapter_num_zh: 仙狐之章 第一幕
 # part_source_ids: 12028,12029,12030,12031
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2025
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -4308,7 +4308,7 @@ A meal? It's a deal!
 
 所以，这么轻易就让老身进入这具身体，你们太天真了！
 
-我能感到，在{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}身上，有很强的力量…
+我能感到，在空/荧身上，有很强的力量…
 
 很好，很好！得到这股力量，就没有人能阻止老身的计划了！
 
@@ -4316,7 +4316,7 @@ A meal? It's a deal!
 
 **派蒙:** 旅行者！醒醒！快醒醒！不能让他得逞！
 
-没用的，你再也叫不醒{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}了！这具身体已经是我的了！
+没用的，你再也叫不醒空/荧了！这具身体已经是我的了！
 
 **派蒙:** 喂！你醒醒啊！不可以被他夺走精神啊！
 

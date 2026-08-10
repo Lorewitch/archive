@@ -3,19 +3,19 @@
 # title_ru: Повторное исследование снежной горы
 # title_en: The Great Mountain Survey II
 # title_zh: 雪山再勘测
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70108
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70108
 # previous_quests: quest_wq_70104
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_70104
 # quest_chain: quest_wq_70104,quest_wq_70108
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

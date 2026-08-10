@@ -3,19 +3,19 @@
 # title_ru: Проникновение в стан врага
 # title_en: Undetected Infiltration
 # title_zh: 潜身敌营无人知
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71054
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71054
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71054
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

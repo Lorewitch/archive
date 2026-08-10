@@ -3,18 +3,18 @@
 # title_ru: Наказ предков
 # title_en: That Which Our Ancestors Entrusted
 # title_zh: 御先祖大人的委托
-# region: Инадзума
+# region: Тейват
 # game_version: 2.5
 # release_versions: 2.5
 # source_id: 40061
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 40061
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10059
-# related_quests: quest_eq_10050,quest_wq_10059,quest_wq_72276
-# quest_chain: quest_eq_10050,quest_eq_40061,quest_wq_10059,quest_wq_72276
+# related_quests: quest_wq_10059
+# quest_chain: quest_eq_40061,quest_wq_10059
 # quest_series: Three Realms Gateway Offering
 # version_source: wiki_release_category
 

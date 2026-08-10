@@ -11,11 +11,11 @@
 # chapter_num_en: Grus Serena Chapter: Act I
 # chapter_num_zh: 闲鹤之章 第一幕
 # part_source_ids: 11033,11034,11035
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2045
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

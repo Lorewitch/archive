@@ -3,13 +3,13 @@
 # title_ru: Луна на ночном небосводе
 # title_en: The Moon Adorning the Night
 # title_zh: 夜空中的月亮
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76054
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76054
 # previous_quests: quest_wq_76051
 # next_quests: quest_wq_76050,quest_wq_76083

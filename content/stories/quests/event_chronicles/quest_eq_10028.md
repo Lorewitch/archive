@@ -13,8 +13,8 @@
 # part_source_ids: 40011
 # previous_quests: quest_eq_10027
 # next_quests: quest_eq_10029
-# related_quests: quest_eq_10027,quest_eq_10029,quest_eq_10030,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
-# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030,quest_wq_79000,quest_wq_79001,quest_wq_79002,quest_wq_79003,quest_wq_79004,quest_wq_79005,quest_wq_79008
+# related_quests: quest_eq_10027,quest_eq_10029,quest_eq_10030
+# quest_chain: quest_eq_10027,quest_eq_10028,quest_eq_10029,quest_eq_10030
 # quest_series: Midsummer Island Adventure
 # version_source: wiki_release_category
 
@@ -890,7 +890,7 @@ Let's double our efforts. We have to find him.
 
 **可莉:** 不过，可莉会勇敢面对他，为了嘟嘟可，可莉会努力！
 
-**可莉:** 荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，谢谢你帮可莉的忙。
+**可莉:** 荣誉骑士空/荧，谢谢你帮可莉的忙。
 
 **派蒙:** 怎么会有这种事，这片海域实在太神秘了！
 

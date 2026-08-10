@@ -13,8 +13,8 @@
 # part_source_ids: 6003,6022,6023
 # previous_quests: quest_aq_1606
 # next_quests: quest_aq_1608
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -926,7 +926,7 @@
 
 **Доктор:** Ты странствуешь по всему миру, встречаешь множество людей. В твоём путешествии были самые разные страницы: порой тебя неправильно понимали, объявляли в розыск, а бывало, что ты день за днём выполнял(а) самую обычную работу.
 
-**Доктор:** Ты сражаешься тут и там, получая жалкие гроши от моего друга Пант{RUBY#[S]Делец}алоне. Ты сражаешься, побеждаешь или проигрываешь, а потом продолжаешь поиски, и так без конца...
+**Доктор:** Ты сражаешься тут и там, получая жалкие гроши от моего друга ПантДелецалоне. Ты сражаешься, побеждаешь или проигрываешь, а потом продолжаешь поиски, и так без конца...
 
 **Доктор:** Тебе наверняка знакома эта пресыщенность. Неужели тебе не надоело день за днём повторять одно и то же?
 
@@ -2012,19 +2012,19 @@
 
 **Альбедо:** С теорией всё. Будешь продолжать наблюдения?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Так ты меня заметил.
+**Странник:** Так ты меня заметил.
 
 **Дурин:** А? Ты давно здесь стоишь?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Давно. Речь Альбедо звучала так, будто он диссертацию защищает. А в Сумеру, перебив человека во время защиты диссертации, можно запросто жизнь ему сломать.
+**Странник:** Давно. Речь Альбедо звучала так, будто он диссертацию защищает. А в Сумеру, перебив человека во время защиты диссертации, можно запросто жизнь ему сломать.
 
 **Альбедо:** Я очень тронут твоей заботой. Не мог бы ты мне помочь?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Что нужно делать?
+**Странник:** Что нужно делать?
 
 **Альбедо:** Попробуй выпустить Анемо в виде круглого лезвия, целясь в одну конкретную точку барьера.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** !..
+**Странник:** !..
 
 **Дурин:** Сработало! Он прорвался сквозь барьер!
 
@@ -2034,15 +2034,15 @@
 
 **Альбедо:** Учитывая опасность конфликта энергий, Дурину лучше остаться здесь и присмотреть за входом. А мы с Мастером Шляпкой отправимся на разведку.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Разумный план. Дурин, не подведи.
+**Странник:** Разумный план. Дурин, не подведи.
 
 **Дурин:** Всё будет в порядке. Только не забывайте об осторожности. Если понадобится помощь, подайте условный знак, и я сразу приду.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** У вас и условный знак есть?
+**Странник:** У вас и условный знак есть?
 
 **Альбедо:** Месяц назад я разработал новое алхимическое зелье. Если разбить две склянки такого зелья о землю, мы получим очень яркую вспышку. На всякий случай не забудь прикрыть глаза шляпой.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Спасибо, я запомню.
+**Странник:** Спасибо, я запомню.
 
 #### Войдите в энергетическое поле
 
@@ -2050,21 +2050,21 @@
 
 **Альбедо:** И возле каждого тела сидит какое-то животное.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Он смотрит на нас. И это не взгляд животного.
+**Странник:** ...Он смотрит на нас. И это не взгляд животного.
 
 **Альбедо:** Что ты пытаешься нам сказать?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вряд ли он настроен общаться... Может, он только с виду не похож на обычное животное.
+**Странник:** Вряд ли он настроен общаться... Может, он только с виду не похож на обычное животное.
 
 **Альбедо:** Давай пойдём дальше.
 
 #### Исследуйте энергетическое поле
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Везде одно и то же. Ни одного живого человека, только звери, которые сторожат мёртвые тела.
+**Странник:** Везде одно и то же. Ни одного живого человека, только звери, которые сторожат мёртвые тела.
 
 **Альбедо:** Так... для начала надо исключить вероятность, что это питомцы погибших людей.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты не высказываешь свой вывод прямо, потому что боишься ранить чьи-то чувства?
+**Странник:** Ты не высказываешь свой вывод прямо, потому что боишься ранить чьи-то чувства?
 
 **Альбедо:** Обычная осторожность. Я уверен, что ты готов услышать любую правду.
 
@@ -2080,15 +2080,15 @@
 
 **Странная птица:** Чик... Чик-чирик...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Похоже, внутри энергетического поля проводится какой-то масштабный эксперимент.
+**Странник:** Похоже, внутри энергетического поля проводится какой-то масштабный эксперимент.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Иными словами, каждое такое поле выполняет функции экспериментального полигона? Отвратительно...
+**Странник:** Иными словами, каждое такое поле выполняет функции экспериментального полигона? Отвратительно...
 
 **Альбедо:** Люди и животные у него поменялись сознаниями... Очень радикальный эксперимент, даже если оставить за рамками обсуждения все сопутствующие обстоятельства.
 
 **Альбедо:** Эти люди утратили самосознание, но ещё не до конца превратились в животных. Поэтому они не могут уйти, как это сделали бы животные, а инстинктивно охраняют собственные тела.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Уходим. Здесь не стоит оставаться слишком долго.
+**Странник:** Уходим. Здесь не стоит оставаться слишком долго.
 
 **Альбедо:** Да.
 
@@ -2096,7 +2096,7 @@
 
 **Дурин:** Вы вернулись! Всё в порядке?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Видели кое-что довольно отвратительное. А так всё нормально.
+**Странник:** Видели кое-что довольно отвратительное. А так всё нормально.
 
 **Альбедо:** Нужно рассказать друзьям о том, что мы узнали.
 
@@ -2314,7 +2314,7 @@
 
 **Субретка:** ...
 
-**Субретка:** Неужели... это и вправду была я? Точнее... я из бу{RUBY#[S]я сейчас}дущего? Но сил у меня...
+**Субретка:** Неужели... это и вправду была я? Точнее... я из буя сейчасдущего? Но сил у меня...
 
 **Флинс:** Пусть все живые существа падут ниц перед светом.
 
@@ -2752,51 +2752,51 @@
 
 #### Поговорите со Странником
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Кхм!..
+**Странник:** Кхм!..
 
 Мастер Шляпка? Что ты здесь делаешь?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты так и будешь звать меня Мастером Шляпкой?
+**Странник:** Ты так и будешь звать меня Мастером Шляпкой?
 
 Ты пришёл, только чтобы спасти меня?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Больше там никого спасать не надо было.
+**Странник:** Больше там никого спасать не надо было.
 
 - **Путешественник:** Спасибо огромное.
 
 - **Путешественник:** Тоже верно. Я немного не ожидал(а) от тебя... спасибо.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Эм... Кхе-кхе.
+**Странник:** Эм... Кхе-кхе.
 
 Подожди, ты ранен?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ничего страшного, пустяки.
+**Странник:** Ничего страшного, пустяки.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Почему ты так на меня смотришь? До сих пор не можешь поверить, что я тебя спас?
+**Странник:** Почему ты так на меня смотришь? До сих пор не можешь поверить, что я тебя спас?
 
 Меня куда больше удивило, что ты застал Доктора врасплох...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В Сумеру я остался тебе обязан. Теперь пришло время вернуть долг.
+**Странник:** В Сумеру я остался тебе обязан. Теперь пришло время вернуть долг.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Отвлечь Дотторе было непросто, признаю...
+**Странник:** Отвлечь Дотторе было непросто, признаю...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** У меня был только один шанс: второй раз он не клюнет на ту же удочку. Я надеялся приберечь этот трюк, чтобы уничтожить Дотторе.
+**Странник:** У меня был только один шанс: второй раз он не клюнет на ту же удочку. Я надеялся приберечь этот трюк, чтобы уничтожить Дотторе.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм. Мне никогда ещё так сильно не хотелось с ним разделаться.
+**Странник:** Хм. Мне никогда ещё так сильно не хотелось с ним разделаться.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хотя Дотторе меня не узнаёт, но его сегменты изначально были созданы на основе моих принципов работы.
+**Странник:** Хотя Дотторе меня не узнаёт, но его сегменты изначально были созданы на основе моих принципов работы.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Потратив немного времени, он наверняка поймёт, что я собой представляю.
+**Странник:** Потратив немного времени, он наверняка поймёт, что я собой представляю.
 
-(Значит, {REALNAME[ID(1)|HOSTONLY(true)]} остался неузнанным Дотторе, потому что удалил себя из Ирминсуля.)
+(Значит, Странник остался неузнанным Дотторе, потому что удалил себя из Ирминсуля.)
 
 (...Неужели он отказался от возможности отомстить, только чтобы спасти меня?)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Что у тебя с лицом? Я вовсе тебя не виню.
+**Странник:** Что у тебя с лицом? Я вовсе тебя не виню.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я не жалуюсь. Спасти тебя было столь же важно, как и убить его.
+**Странник:** Я не жалуюсь. Спасти тебя было столь же важно, как и убить его.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Без тебя всем придётся очень туго. Так что лучше ещё поживи.
+**Странник:** Без тебя всем придётся очень туго. Так что лучше ещё поживи.
 
 **Дурин:** Путешественник! Как ты? Ты в порядке?
 
@@ -2806,9 +2806,9 @@
 
 Да, всё в порядке, спасибо.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Операция выполнена, пора возвращаться.
+**Странник:** Операция выполнена, пора возвращаться.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Впереди ещё много работы. Нам будет чем заняться.
+**Странник:** Впереди ещё много работы. Нам будет чем заняться.
 
 ## EN
 
@@ -3718,7 +3718,7 @@ But what has that got to do with you?
 
 **The Doctor:** You have traveled to all corners of the world and met many people. Along the way, there have been moments when you were misunderstood, or even became a wanted criminal, and all the while, you have spent your days doing some of the most mundane jobs in the world.
 
-**The Doctor:** You fight and toil, claim minuscule rewards from my friend Panta{RUBY#[D]Regrator}lone, then you fight some more, winning some battles and losing others as your search goes on. And this cycle continues with no end in sight...
+**The Doctor:** You fight and toil, claim minuscule rewards from my friend PantaRegratorlone, then you fight some more, winning some battles and losing others as your search goes on. And this cycle continues with no end in sight...
 
 **The Doctor:** Surely, you must sometimes grow weary of being stuck in this same loop day after day?
 
@@ -4636,7 +4636,7 @@ Take out the refreshments
 
 **Childe:** Of course. All part of the job.
 
-**Childe:** Firstly, the Tsaritsa has authorized Fatui Inte{RUBY#[D]Okhranka}rnal Affairs to review Dottore's case. They will reach a formal verdict on whether he has turned traitor and whether he poses a threat to Snezhnaya.
+**Childe:** Firstly, the Tsaritsa has authorized Fatui InteOkhrankarnal Affairs to review Dottore's case. They will reach a formal verdict on whether he has turned traitor and whether he poses a threat to Snezhnaya.
 
 **Childe:** While they're working on that, I've been ordered to come and receive the refugees from Nod-Krai.
 
@@ -4804,19 +4804,19 @@ Take out the refreshments
 
 **Albedo:** That's all for theory. Would you like to continue watching?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So you knew I was here.
+**Wanderer:** So you knew I was here.
 
 **Durin:** Huh? When did you get here?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** A while ago. But Albedo sounded like he was working on his thesis defense back there. Back in Sumeru, you can end a person's whole career by interrupting them mid-speech.
+**Wanderer:** A while ago. But Albedo sounded like he was working on his thesis defense back there. Back in Sumeru, you can end a person's whole career by interrupting them mid-speech.
 
 **Albedo:** Very thoughtful of you — I'm truly touched. Could I ask you to lend me a hand?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** With what?
+**Wanderer:** With what?
 
 **Albedo:** A little test. Try using Anemo to unleash a concentrated assault with circular blades, with the goal of breaking through at a singular point.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...!
+**Wanderer:** ...!
 
 **Durin:** Nice! This time, it tore through the field!
 
@@ -4826,15 +4826,15 @@ Take out the refreshments
 
 **Albedo:** We probably shouldn't risk having mutually antagonistic energies in such close proximity... Durin, you stay here and watch the entrance. Hat Guy and I will go in to investigate.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sounds sensible to me. Keep your eyes peeled, Durin.
+**Wanderer:** Sounds sensible to me. Keep your eyes peeled, Durin.
 
 **Durin:** Don't worry, I've got this. You two be careful in there. Just give me the signal if you need help, and I'll dive right in.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What do you mean, "signal"?
+**Wanderer:** What do you mean, "signal"?
 
 **Albedo:** It's based on a new alchemical concoction I developed last month. When two bottles of it are smashed on the ground together, they emit a blinding burst of light. If it comes to that, remember to shield your eyes with your hat.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Glad I asked. Thanks for the heads-up.
+**Wanderer:** Glad I asked. Thanks for the heads-up.
 
 #### Enter the energy field
 
@@ -4842,21 +4842,21 @@ Take out the refreshments
 
 **Albedo:** Also, there's an animal squatting next to each body.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...It's watching us. That's not an animal's gaze.
+**Wanderer:** ...It's watching us. That's not an animal's gaze.
 
 **Albedo:** What are you trying to tell us?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Doesn't seem eager to talk... I guess maybe it is just an animal after all.
+**Wanderer:** Doesn't seem eager to talk... I guess maybe it is just an animal after all.
 
 **Albedo:** Let's keep looking around.
 
 #### Investigate the energy field
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Same situation everywhere. Not a living soul in sight... just countless bodies with animals standing watch over them.
+**Wanderer:** Same situation everywhere. Not a living soul in sight... just countless bodies with animals standing watch over them.
 
 **Albedo:** Well... I think we can safely rule out the possibility that they're all pets.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Is skirting around the topic your way of showing consideration for other people's feelings?
+**Wanderer:** ...Is skirting around the topic your way of showing consideration for other people's feelings?
 
 **Albedo:** Just being cautious. I don't doubt that you can handle the truth.
 
@@ -4872,15 +4872,15 @@ Take out the refreshments
 
 **Strange Bird:** *cheep*
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It looks like there's a huge experiment going on inside this energy field.
+**Wanderer:** It looks like there's a huge experiment going on inside this energy field.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Maybe each energy field is its own giant experiment... Ugh. Vile.
+**Wanderer:** Maybe each energy field is its own giant experiment... Ugh. Vile.
 
 **Albedo:** He's swapping human minds with those of animals... Even without the other circumstances, this would still be an extremely radical experiment.
 
 **Albedo:** Those people may have lost their sense of selves, but they are not fully animals either. If they were, they would have left — but instead, their instincts are driving them to remain by their dead bodies.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** We should go. No sense in sticking around here longer than we need to.
+**Wanderer:** We should go. No sense in sticking around here longer than we need to.
 
 **Albedo:** Agreed.
 
@@ -4888,7 +4888,7 @@ Take out the refreshments
 
 **Durin:** You're back! Everything okay?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** We saw some things that take a strong stomach. Otherwise, we're fine.
+**Wanderer:** We saw some things that take a strong stomach. Otherwise, we're fine.
 
 **Albedo:** We should share our findings with the others.
 
@@ -5106,7 +5106,7 @@ You could've frozen me for millions of years... So much for collaboration. You a
 
 **The Damselette:** ...
 
-**The Damselette:** Maybe that really was me after all... Well, fut{RUBY#[D]present}ure me. But I don't know if I have enough power left...
+**The Damselette:** Maybe that really was me after all... Well, futpresenture me. But I don't know if I have enough power left...
 
 **Flins:** Let all mortal flesh keep silent before the light.
 
@@ -5544,51 +5544,51 @@ Your playground is no place for me — you're putting your hopes in the wrong pe
 
 #### Talk to the Wanderer
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** *panting*
+**Wanderer:** *panting*
 
 Hat Guy? How did you get here?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You're still gonna call me "Hat Guy" after that, huh?
+**Wanderer:** You're still gonna call me "Hat Guy" after that, huh?
 
 You came all this way just to save me?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I didn't see anyone else in there who needed saving.
+**Wanderer:** I didn't see anyone else in there who needed saving.
 
 - **Traveler:** Thank you so much.
 
 - **Traveler:** Fair point. You just caught me by surprise... Thank you.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ugh... *cough*
+**Wanderer:** Ugh... *cough*
 
 Wait, you're injured?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's nothing. I'll be fine.
+**Wanderer:** It's nothing. I'll be fine.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Why are you looking at me like that? Is it that shocking that I'd come to your rescue?
+**Wanderer:** Why are you looking at me like that? Is it that shocking that I'd come to your rescue?
 
 I'm more shocked that you caught The Doctor off guard...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I owed you a favor from back in Sumeru. Now, we're even.
+**Wanderer:** I owed you a favor from back in Sumeru. Now, we're even.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Distracting Dottore was tough, I won't lie...
+**Wanderer:** Distracting Dottore was tough, I won't lie...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He's not gonna fall for the same trick twice. That was my one shot... I'd hoped to use it to take him out.
+**Wanderer:** He's not gonna fall for the same trick twice. That was my one shot... I'd hoped to use it to take him out.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ugh. I never wanted to obliterate someone more than I do right now.
+**Wanderer:** Ugh. I never wanted to obliterate someone more than I do right now.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Dottore doesn't recognize me, but his Segments were originally made based on an analysis of my operational principles.
+**Wanderer:** Dottore doesn't recognize me, but his Segments were originally made based on an analysis of my operational principles.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I expect it's only a matter of time before he figures out what I am.
+**Wanderer:** I expect it's only a matter of time before he figures out what I am.
 
-(So Dottore doesn't recognize {REALNAME[ID(1)|HOSTONLY(true)]}, because he deleted himself from Irminsul.)
+(So Dottore doesn't recognize Wanderer, because he deleted himself from Irminsul.)
 
 (...Did he really miss his only chance for revenge by saving me?)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Why the long face? Hey, I'm not blaming you, okay?
+**Wanderer:** Why the long face? Hey, I'm not blaming you, okay?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** And I'm not complaining either. Rescuing you and killing Dottore are equally important goals.
+**Wanderer:** And I'm not complaining either. Rescuing you and killing Dottore are equally important goals.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Everyone would be pretty stuck without you. It's best you live to fight another day.
+**Wanderer:** Everyone would be pretty stuck without you. It's best you live to fight another day.
 
 **Durin:** How are you holding up? Are you alright?
 
@@ -5598,9 +5598,9 @@ I'm more shocked that you caught The Doctor off guard...
 
 Yeah, I'm fine, guys. Thanks.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Alright, rescue operation complete. Let's head back.
+**Wanderer:** Alright, rescue operation complete. Let's head back.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** There's a lot more work to be done before this is over.
+**Wanderer:** There's a lot more work to be done before this is over.
 
 ## ZH
 
@@ -6510,7 +6510,7 @@ Yeah, I'm fine, guys. Thanks.
 
 **「博士」:** 你行遍各地，与许多人相遇。冒险途中你拥有了许多瞬间，例如被人误会、遭受通缉，以及做日复一日的最普通的工作。
 
-**「博士」:** 你四处奋斗，领取我的好友潘塔{RUBY#[D]「富人」}罗涅发给你的一点点酬劳。你战斗，无论胜负，然后寻找，永无止境…
+**「博士」:** 你四处奋斗，领取我的好友潘塔「富人」罗涅发给你的一点点酬劳。你战斗，无论胜负，然后寻找，永无止境…
 
 **「博士」:** 你一定体验过何谓腻味。这样循环往复的日子，难道不无聊吗？
 
@@ -6552,7 +6552,7 @@ Yeah, I'm fine, guys. Thanks.
 
 （我想见她 / 他。走过这么多路，经历这么多事以后，我有多想念她 / 他？多渴望和她 / 他一起？）
 
-（仍在远方的你{RUBY#[S]血亲}，此刻会不会也正在思念着我呢？）
+（仍在远方的你血亲，此刻会不会也正在思念着我呢？）
 
 #### 与同伴们对话
 
@@ -7596,19 +7596,19 @@ Yeah, I'm fine, guys. Thanks.
 
 **阿贝多:** 理论陈述完了，你打算继续看下去吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 原来你发现我在啊。
+**流浪者:** 原来你发现我在啊。
 
 **杜林:** 欸？什么时候来的？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 有一会儿了。阿贝多讲话像在参加答辩，而在须弥，打断别人答辩演讲很可能毁掉一个人。
+**流浪者:** 有一会儿了。阿贝多讲话像在参加答辩，而在须弥，打断别人答辩演讲很可能毁掉一个人。
 
 **阿贝多:** 你的贴心真叫我感动。方便搭把手吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 要做什么？
+**流浪者:** 要做什么？
 
 **阿贝多:** 控制风元素力，以圆形刀刃的形式发出，集中突破某一单点。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……！
+**流浪者:** ……！
 
 **杜林:** 有效！甚至是撕裂效果！
 
@@ -7618,15 +7618,15 @@ Yeah, I'm fine, guys. Thanks.
 
 **阿贝多:** 考虑到力量互斥的风险，杜林，你留在这里帮我们看住出入口，我和阿帽进去探查。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这样是最稳妥的。附近交给你了。
+**流浪者:** 这样是最稳妥的。附近交给你了。
 
 **杜林:** 放心吧。你们也千万小心，遇到需要帮助的情况就打暗号，我进去帮忙。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们还定过暗号？
+**流浪者:** 你们还定过暗号？
 
 **阿贝多:** 我带了上个月新研制的炼金药水，两瓶一起砸在地上会爆发出刺目的亮光。万一真有那种情况，你记得用帽檐挡住眼睛。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 谢谢你的提醒，我记住了。
+**流浪者:** 谢谢你的提醒，我记住了。
 
 #### 进入能量界域
 
@@ -7634,21 +7634,21 @@ Yeah, I'm fine, guys. Thanks.
 
 **阿贝多:** 而且，每具尸体旁都蹲着一只动物。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …它在看我们。那不是动物的眼神。
+**流浪者:** …它在看我们。那不是动物的眼神。
 
 **阿贝多:** 你想告诉我们什么？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 沟通的欲望很弱…它只是看起来不像动物而已。
+**流浪者:** 沟通的欲望很弱…它只是看起来不像动物而已。
 
 **阿贝多:** 再去别处看看。
 
 #### 调查能量界域
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 都这样。没有活人，只有无数尸体和蹲守在旁边的动物。
+**流浪者:** 都这样。没有活人，只有无数尸体和蹲守在旁边的动物。
 
 **阿贝多:** 那么…首先排除这些都是宠物的可能性。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不直接说结论是考虑别人感受吗？
+**流浪者:** 不直接说结论是考虑别人感受吗？
 
 **阿贝多:** 只是谨慎。相信你承受得了真相。
 
@@ -7664,15 +7664,15 @@ Yeah, I'm fine, guys. Thanks.
 
 **奇怪的鸟:** …叽…叽叽…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 看来，这个能量界域内进行着一场巨大的实验。
+**流浪者:** 看来，这个能量界域内进行着一场巨大的实验。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 又或者，每个能量界域都是一种实验基地？真恶心…
+**流浪者:** 又或者，每个能量界域都是一种实验基地？真恶心…
 
 **阿贝多:** 把人的意识与动物的互换…撇开其他一切，实验的主题也相当激进。
 
 **阿贝多:** 这些人虽然失去了自我，却还没变成彻头彻尾的动物，所以没法像动物那样离开，而是下意识守在自己的尸体旁。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 早点走吧。此地不宜久留。
+**流浪者:** 早点走吧。此地不宜久留。
 
 **阿贝多:** 嗯。
 
@@ -7680,7 +7680,7 @@ Yeah, I'm fine, guys. Thanks.
 
 **杜林:** 你们回来了！没事吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 看了些恶心东西，别的没什么。
+**流浪者:** 看了些恶心东西，别的没什么。
 
 **阿贝多:** 得尽快将这里的情报分享出去。
 
@@ -7898,7 +7898,7 @@ Yeah, I'm fine, guys. Thanks.
 
 **「少女」:** ……
 
-**「少女」:** 难道说…那真的是我？但，是未{RUBY#[D]此刻}来的我？可是以我现在的力量…
+**「少女」:** 难道说…那真的是我？但，是未此刻来的我？可是以我现在的力量…
 
 **菲林斯:** 凡有血气之物，皆俯伏于灯火。
 
@@ -8336,51 +8336,51 @@ Yeah, I'm fine, guys. Thanks.
 
 #### 与流浪者对话
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 咳…！
+**流浪者:** 咳…！
 
 阿帽？你怎么会来这里？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 什么时候了，居然还叫我阿帽？
+**流浪者:** 什么时候了，居然还叫我阿帽？
 
 你是专门来救我的？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 那地方也没别人了吧。
+**流浪者:** 那地方也没别人了吧。
 
 - **旅行者:** 非常感谢。
 
 - **旅行者:** 好吧，我很意外…谢谢。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 呜…咳。
+**流浪者:** 呜…咳。
 
 等等，你受伤了？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没什么，小问题。
+**流浪者:** 没什么，小问题。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 干嘛这样看着我？我救你，很值得大惊小怪吗？
+**流浪者:** 干嘛这样看着我？我救你，很值得大惊小怪吗？
 
 没想到你能让那个「博士」失手…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 以前在须弥，我欠你人情，现在也该还了。
+**流浪者:** 以前在须弥，我欠你人情，现在也该还了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 让多托雷震惊走神，多困难的事…
+**流浪者:** 让多托雷震惊走神，多困难的事…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这招只能用一次，原本想用来干掉他的。
+**流浪者:** 这招只能用一次，原本想用来干掉他的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧，说到这个就有点手痒。
+**流浪者:** 啧，说到这个就有点手痒。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 多托雷虽然不认识我，但他以前的那些切片最初是根据我的运行原理制造而成。
+**流浪者:** 多托雷虽然不认识我，但他以前的那些切片最初是根据我的运行原理制造而成。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 只要花点时间，他很可能意识到我是什么。
+**流浪者:** 只要花点时间，他很可能意识到我是什么。
 
-（原来如此，由于删除了世界树中的信息，多托雷如今并不认识{REALNAME[ID(1)|HOSTONLY(true)]}。）
+（原来如此，由于删除了世界树中的信息，多托雷如今并不认识流浪者。）
 
 （…是为了救我失去了这次机会吗？）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你那是什么表情？我完全没有责怪你的意思，不要误会。
+**流浪者:** 你那是什么表情？我完全没有责怪你的意思，不要误会。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这不是抱怨，从意义上说，救你和杀他同样重要。
+**流浪者:** 这不是抱怨，从意义上说，救你和杀他同样重要。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你死了对大家都是麻烦，还是好好活着吧。
+**流浪者:** 你死了对大家都是麻烦，还是好好活着吧。
 
 **杜林:** 旅行者！你怎么样？还好吗？
 
@@ -8390,6 +8390,6 @@ Yeah, I'm fine, guys. Thanks.
 
 我没事，谢谢你们。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 人救到了，那回去吧。
+**流浪者:** 人救到了，那回去吧。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 后面还有一大堆事，有得忙了。
+**流浪者:** 后面还有一大堆事，有得忙了。

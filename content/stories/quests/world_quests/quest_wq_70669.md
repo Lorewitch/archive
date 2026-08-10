@@ -3,19 +3,19 @@
 # title_ru: Испытание возвышения IV
 # title_en: Ascension Challenge IV
 # title_zh: 牌手等级突破·四
-# region: Мондштадт
+# region: Тейват
 # game_version: 3.3
 # release_versions: 3.3
 # source_id: 70669
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70669
 # previous_quests: quest_wq_70668
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_70666,quest_wq_70667,quest_wq_70668
 # quest_chain: quest_wq_70666,quest_wq_70667,quest_wq_70668,quest_wq_70669
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

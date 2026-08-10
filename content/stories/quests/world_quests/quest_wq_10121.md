@@ -3,19 +3,19 @@
 # title_ru: Хварна добра и зла
 # title_en: Khvarena of Good and Evil
 # title_zh: 善恶的赫瓦雷纳
-# region: Сумеру
+# region: Тейват
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 10121
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73231,73232,73235,73238,73251,73253,73254,73256,73257
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10121
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -1443,7 +1443,7 @@
 
 **Паймон:** Мы искатели приключений из Гильдии искателей приключений! Разумеется, Катерина сказала нам.
 
-**Пирро:** Раз вы знаете о Знамении Апаоши, то наверняка слышали и о Шама{RUBY#[S]ордене скептиков}нии.
+**Пирро:** Раз вы знаете о Знамении Апаоши, то наверняка слышали и о Шамаордене скептиковнии.
 
 **Пирро:** Здесь начинается запретная часть пустыни, которая находится под нашей защитой. Как патрульный ордена скептиков я не могу пропустить вас, какие бы причины вы мне ни приводили.
 
@@ -1457,7 +1457,7 @@
 
 **Пирро:** Нагарджуниты? Хм, это оскорбительное название дали нам люди из тропического леса!
 
-**Пирро:** Господин Нагарджуна был героем, который сражался с наследниками божественной птицы против дэв{RUBY#[S]монстров}ов, обрёл божественную силу в процессе обряда Чинват и положил конец бедствию.
+**Пирро:** Господин Нагарджуна был героем, который сражался с наследниками божественной птицы против дэвмонстровов, обрёл божественную силу в процессе обряда Чинват и положил конец бедствию.
 
 **Пирро:** Этот великий герой является нашим первым виджнянапати. Как они смеют зря трепать его славное имя?
 
@@ -1477,7 +1477,7 @@
 
 **Паймон:** Хм, Паймон не ожидала, что ты такого плохого мнения об Академии.
 
-**Пирро:** А как иначе? Господин назо{RUBY#[S]виджнянапати}рей говорит, что, если бы не Академия, мы бы не оказались в нашем нынешнем положении.
+**Пирро:** А как иначе? Господин назовиджнянапатирей говорит, что, если бы не Академия, мы бы не оказались в нашем нынешнем положении.
 
 **Пирро:** ...Так вы всё-таки шпионы! Проклятье, а я совершенно бездумно так много вам рассказал... Уходите подобру-поздорову, иначе у нас будет совсем другой разговор!
 
@@ -1701,11 +1701,11 @@
 
 *Вы достаёте барабан, как и было условлено.*
 
-**Наседжуна:** Кори{RUBY#[S]барабан}бант...
+**Наседжуна:** Корибарабанбант...
 
 **Паймон:** Корибант?
 
-**Наседжуна:** Ха-ха-ха! Да. Это важный катализатор, который используют во время обряда, чтобы создать лау{RUBY#[S]связь}пу между нами и пари.
+**Наседжуна:** Ха-ха-ха! Да. Это важный катализатор, который используют во время обряда, чтобы создать лаусвязьпу между нами и пари.
 
 **Наседжуна:** Я искал его много лет, и вот он здесь, у меня! Это поистине хорошее предзнаменование относительно моих будущих планов.
 
@@ -1807,7 +1807,7 @@
 
 **Наседжуна:** Так и должно быть, ведь этот небесный знак отражает потусторонний апокалиптический мир!
 
-**Наседжуна:** Давным-давно Дах{RUBY#[S]Каэнри'ах}ри построили здесь сооружение, которое соединяло их с другими мирами.
+**Наседжуна:** Давным-давно ДахКаэнри'ахри построили здесь сооружение, которое соединяло их с другими мирами.
 
 **Наседжуна:** Во время великого бедствия, которое, как говорят, началось по вине дахрийцев, монстры хлынули из этого сооружения и заполонили весь мир.
 
@@ -2043,7 +2043,7 @@
 
 **Паймон:** Это божество? Мы встречали божеств, но никогда не видели, чтобы они выглядели вот так.
 
-**Соруш:** Это потому, что нашу бог{RUBY#[D]Харвисптохм}иню нельзя... назвать живой.
+**Соруш:** Это потому, что нашу богХарвисптохминю нельзя... назвать живой.
 
 **Соруш:** Пятьсот лет назад госпожа отдала все силы, чтобы справиться с поразившим это место бедствием.
 
@@ -4727,7 +4727,7 @@ If we brought this one back to the Akademiya...
 
 **Paimon:** We are adventurers who have an organization at our backs. Katheryne of the Adventurers' Guild told us, of course!
 
-**Pyrrho:** Since you know of "The Sign of Apaosha," you must have heard of us "Shama{RUBY#[D]Order of Skeptics}niyya," right?
+**Pyrrho:** Since you know of "The Sign of Apaosha," you must have heard of us "ShamaOrder of Skepticsniyya," right?
 
 **Pyrrho:** The desert past this point is a restricted zone under our guard. As a Ranger of the Order of Skeptics, I cannot let you pass, no matter what reason you may have.
 
@@ -4741,7 +4741,7 @@ If we brought this one back to the Akademiya...
 
 **Pyrrho:** "Nagarjunites"? Hmph. That's just a derogatory name that those guys from the rainforest have for us!
 
-**Pyrrho:** Lord Nagarjuna is a hero who fought against the "De{RUBY#[S]monster}v" alongside the divine bird's heirs. He gained divine power through the "Rite of Chinvat" and put an end to the calamity.
+**Pyrrho:** Lord Nagarjuna is a hero who fought against the "Demonsterv" alongside the divine bird's heirs. He gained divine power through the "Rite of Chinvat" and put an end to the calamity.
 
 **Pyrrho:** How dare they call such a great hero — and our first Vijnanapati — by his given name!
 
@@ -4761,7 +4761,7 @@ If we brought this one back to the Akademiya...
 
 **Paimon:** Um, Paimon didn't expect you to have such a strong opinion about the Akademiya.
 
-**Pyrrho:** Of course! Lord Nasu{RUBY#[S]Vijnanapati}raia has said that we wouldn't have been reduced to this state if it weren't for them.
+**Pyrrho:** Of course! Lord NasuVijnanapatiraia has said that we wouldn't have been reduced to this state if it weren't for them.
 
 **Pyrrho:** ...Wait. So you are here to gather intelligence after all! Ugh, I've revealed more than I should... Anyway, please leave. If this conversation continues...
 
@@ -4985,11 +4985,11 @@ If we brought this one back to the Akademiya...
 
 *You bring the drum out, as agreed.*
 
-**Nasejuna:** A Koryb{RUBY#[S]drum}antes...
+**Nasejuna:** A Korybdrumantes...
 
 **Paimon:** A Korybantes, you say?
 
-**Nasejuna:** Hahaha! Yes. This is an important catalyst for the ritual needed to forge a Lau{RUBY#[S]connection}pa between ourselves and the Pari.
+**Nasejuna:** Hahaha! Yes. This is an important catalyst for the ritual needed to forge a Lauconnectionpa between ourselves and the Pari.
 
 **Nasejuna:** I have searched for many years for this, and to think it now comes to me! Ah, this is indeed a good omen for my future plans.
 
@@ -5091,7 +5091,7 @@ Well, speaking of the Sign...
 
 **Nasejuna:** Well, it should be, for that celestial sign reflects an otherworldly hellscape!
 
-**Nasejuna:** Long, long ago, Dah{RUBY#[S]Khaenri'ah}ri once built a facility here that connected them to realms beyond.
+**Nasejuna:** Long, long ago, DahKhaenri'ahri once built a facility here that connected them to realms beyond.
 
 **Nasejuna:** During the great disaster, which they say the Dahri started, monsters swarmed from that very facility into the nations of the world.
 
@@ -5327,7 +5327,7 @@ Well, speaking of the Sign...
 
 **Paimon:** That's a god? Well, we've seen other gods, but this is the first time we've seen one looking like that.
 
-**Sorush:** That is because our go{RUBY#[S]Harvisptokhm}d cannot... be considered alive.
+**Sorush:** That is because our goHarvisptokhmd cannot... be considered alive.
 
 **Sorush:** Five hundred years ago, our great god gave all to quell the power of the disaster afflicting this place.
 
@@ -8011,7 +8011,7 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 我们可是有组织依靠的冒险家，当然是冒险家协会的凯瑟琳小姐告诉我们的啦。
 
-**毕洛:** 你们既然知道那是「焚真之天象」，想必对我们「萨曼{RUBY#[D]矫论团}尼耶」的名号也有所耳闻吧。
+**毕洛:** 你们既然知道那是「焚真之天象」，想必对我们「萨曼矫论团尼耶」的名号也有所耳闻吧。
 
 **毕洛:** 从这里过去的沙漠都是由我们驻守的禁区，作为「矫论团」的「巡路官」，无论是什么理由，我都不能放你们过去。
 
@@ -8025,7 +8025,7 @@ The Rite of Ab-Zohr...
 
 **毕洛:** 「那伽朱那团」？哼，那不过是雨林的那些家伙对我们的蔑称罢了！
 
-**毕洛:** 那伽朱那大人可是曾与神鸟的后嗣一同对抗「迪{RUBY#[D]魔物}弗」，通过「离渡之仪」获得了神力，最终镇服了灾厄的英雄。
+**毕洛:** 那伽朱那大人可是曾与神鸟的后嗣一同对抗「迪魔物弗」，通过「离渡之仪」获得了神力，最终镇服了灾厄的英雄。
 
 **毕洛:** 这样伟大的英雄，也是我们最初的「识主」，他们怎么敢直呼名讳！
 
@@ -8045,7 +8045,7 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 唔，没想到你们对教令院的意见这么大。
 
-**毕洛:** 这是当然！「纳苏{RUBY#[D]识主}勒阿」大人说过，若不是因为教令院，我们也不会沦落到现在这样。
+**毕洛:** 这是当然！「纳苏识主勒阿」大人说过，若不是因为教令院，我们也不会沦落到现在这样。
 
 **毕洛:** …你们果然是来刺探情报的吧！糟了，不知不觉说了些有的没的…总之请你们尽快自行离去吧，否则这场对话继续下去…
 
@@ -8269,11 +8269,11 @@ The Rite of Ab-Zohr...
 
 *按照约定把鼓拿了出来。*
 
-**那先朱那:** 竟然是「俱利般{RUBY#[D]鼓}地」…
+**那先朱那:** 竟然是「俱利般鼓地」…
 
 **派蒙:** 「俱利般地」？
 
-**那先朱那:** 哈哈哈，没错，这可是我们同花灵建立「劳{RUBY#[D]连结}帕」的仪式上所需的重要法器呢。
+**那先朱那:** 哈哈哈，没错，这可是我们同花灵建立「劳连结帕」的仪式上所需的重要法器呢。
 
 **那先朱那:** 我已搜寻其多年，没想到竟然自己找上门来了。对于我接下来的计划而言，真是个好兆头呢！
 
@@ -8375,7 +8375,7 @@ The Rite of Ab-Zohr...
 
 **那先朱那:** 这是当然，毕竟那个天象所映照的可是不属于世间的地狱景象啊！
 
-**那先朱那:** 很久很久以前，在此处的地下曾有着由「荼诃{RUBY#[D]坎瑞亚}古国」建造的与外界相连通的设施。
+**那先朱那:** 很久很久以前，在此处的地下曾有着由「荼诃坎瑞亚古国」建造的与外界相连通的设施。
 
 **那先朱那:** 在五百年前那场据说由荼诃人引发的巨大灾厄中，蜂拥而出的魔物便是通过那里进入了地上的国度。
 
@@ -8611,7 +8611,7 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 神明？虽然我们之前也见过其他的神明啦，不过这样子的还是第一次见。
 
-**斯露莎:** 因为神明{RUBY#[D]万种母树}大人如今…并不能算是活着。
+**斯露莎:** 因为神明万种母树大人如今…并不能算是活着。
 
 **斯露莎:** 五百年前，神明大人为了镇压此处的灾厄牺牲了全部的力量。
 

@@ -3,19 +3,19 @@
 # title_ru: Множество дел Гильдии искателей приключений
 # title_en: The Adventurers' Guild's Affairs
 # title_zh: 冒险家协会的诸多事宜
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71803
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71803
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71803
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

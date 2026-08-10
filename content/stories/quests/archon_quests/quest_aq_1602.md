@@ -13,8 +13,8 @@
 # part_source_ids: 6004,6005,6006
 # previous_quests: quest_aq_1506
 # next_quests: quest_aq_1600
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -32,11 +32,11 @@
 
 **Паймон:** Эй, Часка! Что у вас тут случилось?
 
-**Часка:** Хм, Паймон? И Тума{RUBY#[S]Надежда}йни?
+**Часка:** Хм, Паймон? И ТумаНадеждайни?
 
-**Ифа:** Тума{RUBY#[S]Надежда}йни? Паймон? Давно не виделись.
+**Ифа:** ТумаНадеждайни? Паймон? Давно не виделись.
 
-**Ифа:** Что? (Великая)(Великий) Тума{RUBY#[S]Надежда}йни? Рад знакомству!
+**Ифа:** Что? (Великая)(Великий) ТумаНадеждайни? Рад знакомству!
 
 **Какуку:** Рад знакомству, кент!
 
@@ -48,7 +48,7 @@
 
 **Часка:** Это Ифа, наш ветеринар... А это его ассистент Какуку. Интересно: ты столько раз бывал(а) в клане Цветочного Пера, но до сих пор не успел(а) с ними познакомиться.
 
-**Ифа:** Наверное, всё дело в том, что мы оба вечно заняты? Чем занят(а) Тума{RUBY#[S]Надежда}йни, объяснять не надо, а я в последнее время постоянно мотался по вызовам.
+**Ифа:** Наверное, всё дело в том, что мы оба вечно заняты? Чем занят(а) ТумаНадеждайни, объяснять не надо, а я в последнее время постоянно мотался по вызовам.
 
 И сейчас тоже осматривал пациентку?
 
@@ -596,7 +596,7 @@
 
 **Инеффа:** Клан Цветочного Пера...
 
-**Часка:** Тем временем мы попытаемся найти об Инеффе любую информацию, какую сможем. В конце концов, у неё есть сообщение для Тума{RUBY#[S]Надежда}йни, так что это дело касается и нас тоже.
+**Часка:** Тем временем мы попытаемся найти об Инеффе любую информацию, какую сможем. В конце концов, у неё есть сообщение для ТумаНадеждайни, так что это дело касается и нас тоже.
 
 **Паймон:** Точно! Паймон чуть не забыла про сообщение! Вы, ребята, случайно не знаете код?
 
@@ -620,7 +620,7 @@
 
 **Часка:** Да... А ещё я знаю, что каждый раз, когда ты так говоришь, в конечном итоге чудесным образом у тебя всё получается.
 
-**Кинич:** Я свяжусь с другими людьми, которые, возможно, смогут нам помочь. Тума{RUBY#[S]Надежда}йни, Паймон, увидимся.
+**Кинич:** Я свяжусь с другими людьми, которые, возможно, смогут нам помочь. ТумаНадеждайни, Паймон, увидимся.
 
 **Паймон:** До встречи, Кинич... О, и пока, Ахав!
 
@@ -666,7 +666,7 @@
 
 **Паймон:** Ребята, да он же просто бибикает!
 
-**Ятлан:** Ого! Тума{RUBY#[S]Надежда}йни и эксперт п{RUBY#[D]Паймон}о полётам?
+**Ятлан:** Ого! ТумаНадеждайни и эксперт пПаймоно полётам?
 
 **Паймон:** ...Э-э, бип-бип, да, это мы! А где Инеффа?
 
@@ -732,7 +732,7 @@
 
 Я могу передать ей подарок от вашего имени.
 
-**Адиета:** О-о-о! Правда? Спасибо, Тума{RUBY#[S]Надежда}йни!
+**Адиета:** О-о-о! Правда? Спасибо, ТумаНадеждайни!
 
 #### Поговорите с Инеффой
 
@@ -1692,7 +1692,7 @@
 
 Что вы задумали?
 
-**Фадей:** Хех, сегодня никто не должен пострадать. Мы не хотим сражаться, особенно с Тума{RUBY#[S]Надежда}йни Натлана.
+**Фадей:** Хех, сегодня никто не должен пострадать. Мы не хотим сражаться, особенно с ТумаНадеждайни Натлана.
 
 **Фадей:** Мы хотим лишь, чтобы ваша подруга, бывший суверенный правитель... провела нас дальше внутрь.
 
@@ -1924,7 +1924,7 @@
 
 **Инеффа:** Суверенный правитель? Моё второе «я»? ...Но я думала, что она погибла. Ох...
 
-**Проклятье чёрного тумана:** ...После двух долгих тысячелетий... моя зад{RUBY#[S]Проклятье изгнания}ача наконец выполнена. Какой же это был долгий путь...
+**Проклятье чёрного тумана:** ...После двух долгих тысячелетий... моя задПроклятье изгнанияача наконец выполнена. Какой же это был долгий путь...
 
 **Проклятье чёрного тумана:** Наконец-то мы встретились снова, мой повелитель, мой правитель... «Зерцало Рассвета».
 
@@ -1974,7 +1974,7 @@
 
 **Инеффа:** Здесь нет «матери-дракона» и никогда не было! Здесь владычествует только один правитель, и это я!
 
-**Инеффа:** Я есмь Всемогущая Владыка драконов, «Зерцало {RUBY#[D]Иш Рак'лапух Чуе'к Булук}Рассвета», одиннадцатая из тринадцати суверенных правителей! Преклоните колени передо мной!
+**Инеффа:** Я есмь Всемогущая Владыка драконов, «Зерцало Иш Рак'лапух Чуе'к БулукРассвета», одиннадцатая из тринадцати суверенных правителей! Преклоните колени передо мной!
 
 **Паймон:** Ты... Ты обманула нас! Это ты говорила с нами всё это время... ты заманила Инеффу сюда... и ты наложила на неё проклятие! Всё это с самого начала была ты!
 
@@ -2096,7 +2096,7 @@
 
 **Проклятье чёрного тумана:** После двух тысяч лет изгнания, поиска и забвения мы вернулись туда, откуда начали.
 
-**Проклятье чёрного тумана:** На{RUBY#[D]Кухул}ш путь был обречён закончиться гибелью... Здесь обретёт вечное пристанище последний суверенный правитель.
+**Проклятье чёрного тумана:** НаКухулш путь был обречён закончиться гибелью... Здесь обретёт вечное пристанище последний суверенный правитель.
 
 **Инеффа:** Я... не суверенный правитель...
 
@@ -2168,7 +2168,7 @@
 
 Ничего, я в норме.
 
-**Мавуика:** Ещё одно триумфальное возвращение Тума{RUBY#[S]Надежда}йни... Инеффа, хорошо, что и ты вернулась. Полагаю, это означает, что ты нашла ответы, которые искала?
+**Мавуика:** Ещё одно триумфальное возвращение ТумаНадеждайни... Инеффа, хорошо, что и ты вернулась. Полагаю, это означает, что ты нашла ответы, которые искала?
 
 **Инеффа:** ...Да.
 
@@ -2270,11 +2270,11 @@ Natlan seems to have welcomed some unexpected guests...
 
 **Paimon:** Hey, Chasca! What's going on over here?
 
-**Chasca:** Hmm? Paimon? And "Tuma{RUBY#[S]Hope}ini"?
+**Chasca:** Hmm? Paimon? And "TumaHopeini"?
 
 **Ifa:** Oh hey, it's you two. Been a while.
 
-**Ifa:** No way, the one and only "Tuma{RUBY#[S]Hope}ini"? Wow. Real nice to meet you.
+**Ifa:** No way, the one and only "TumaHopeini"? Wow. Real nice to meet you.
 
 **Cacucu:** Nice to meet you, bro!
 
@@ -2286,7 +2286,7 @@ Natlan seems to have welcomed some unexpected guests...
 
 **Chasca:** Allow me to introduce Ifa, a vet from my tribe, and his... assistant, Cacucu. I'm actually impressed that you've managed to visit us this many times without bumping into them.
 
-**Ifa:** Eh, I guess we've all been pretty busy. "Tuma{RUBY#[S]Hope}ini" for obvious reasons, and I've had a heck of a lot of callouts lately.
+**Ifa:** Eh, I guess we've all been pretty busy. "TumaHopeini" for obvious reasons, and I've had a heck of a lot of callouts lately.
 
 Were you doing some first aid just now?
 
@@ -2834,7 +2834,7 @@ That's a very responsible attitude for a robot...
 
 **Ineffa:** "Flower-Feather Clan"...
 
-**Chasca:** In the meantime, we'll try and find whatever information we can about Ineffa. After all, she has a message for our "Tuma{RUBY#[S]Hope}ini," so this is as much our business as it is yours.
+**Chasca:** In the meantime, we'll try and find whatever information we can about Ineffa. After all, she has a message for our "TumaHopeini," so this is as much our business as it is yours.
 
 **Paimon:** Oh yeah! Paimon had practically forgotten all about that! You guys don't happen to know the code, do you?
 
@@ -2858,7 +2858,7 @@ No surprises there...
 
 **Chasca:** I do... I also know that every time you say that, you end up getting the job done.
 
-**Kinich:** I'm gonna get in touch with some other people who might be able to help us. "Tuma{RUBY#[S]Hope}ini," Paimon — see you around.
+**Kinich:** I'm gonna get in touch with some other people who might be able to help us. "TumaHopeini," Paimon — see you around.
 
 **Paimon:** Bye, Kinich! ...Oh, and bye, Ajaw!
 
@@ -2904,7 +2904,7 @@ In order to cure Ineffa's amnesia, everyone searches Natlan for answers...
 
 **Paimon:** You guys, it's just making random beeps!
 
-**Yatlan:** Whoa! Is that... "Tuma{RUBY#[S]Hope}ini" and the flying{RUBY#[D]Paimon} expert?
+**Yatlan:** Whoa! Is that... "TumaHopeini" and the flyingPaimon expert?
 
 **Paimon:** ...Uh, beep beep, yes, it's us! Anyway — where's Ineffa?
 
@@ -2970,7 +2970,7 @@ That's a long time... No wonder he's getting homesick.
 
 I can deliver it to her for you.
 
-**Adieta:** *gasp* Really? Thanks, "Tuma{RUBY#[S]Hope}ini"!
+**Adieta:** *gasp* Really? Thanks, "TumaHopeini"!
 
 #### Talk to Ineffa
 
@@ -3930,7 +3930,7 @@ Another barrier?
 
 What are you going to do to us?
 
-**Fajeyi:** Heh, no one needs to get hurt today. We aren't looking for a fight, especially not with Natlan's "Tuma{RUBY#[S]Hope}ini."
+**Fajeyi:** Heh, no one needs to get hurt today. We aren't looking for a fight, especially not with Natlan's "TumaHopeini."
 
 **Fajeyi:** All we want is for your friend here, the former sovereign ruler... to lead us further inside.
 
@@ -4162,7 +4162,7 @@ Having second thoughts?
 
 **Ineffa:** ...The sovereign ruler? My other self? ...But, I thought she perished— Argh...!
 
-**The Shrouded Curse:** ...After two long millennia... m{RUBY#[S]Exile's Curse}y task is finally fulfilled. What a long journey it has been...
+**The Shrouded Curse:** ...After two long millennia... mExile's Cursey task is finally fulfilled. What a long journey it has been...
 
 **The Shrouded Curse:** ...We meet again at last, my sovereign, my ruler... Mirror of the Dawning Morn.
 
@@ -4212,7 +4212,7 @@ No... that's not Ineffa!
 
 **Ineffa:** There is no "dragon mother" here, and there never was! Only one lord has dominion here, and that is me!
 
-**Ineffa:** For I am the Almighty Dragonlord, "Mirror of the{RUBY#[D]Ix Raq'lapuj Chue'q Buluk} Dawning Morn," eleventh of the thirteen sovereign rulers! Kneel before me!
+**Ineffa:** For I am the Almighty Dragonlord, "Mirror of theIx Raq'lapuj Chue'q Buluk Dawning Morn," eleventh of the thirteen sovereign rulers! Kneel before me!
 
 **Paimon:** You.. You tricked us! It was you talking to us this whole time... you who lured Ineffa here... and you who placed the curse on her! It was you all along!
 
@@ -4334,7 +4334,7 @@ Don't even try!
 
 **The Shrouded Curse:** After two thousand years in exile, searching and forgetting, we are back where we began.
 
-**The Shrouded Curse:** O{RUBY#[D]K'uhul}ur path was always going to end in our demise... This shall be the final resting place of the last sovereign ruler.
+**The Shrouded Curse:** OK'uhulur path was always going to end in our demise... This shall be the final resting place of the last sovereign ruler.
 
 **Ineffa:** I... am no "sovereign ruler"...
 
@@ -4406,7 +4406,7 @@ Save it till we're outta here!
 
 All good. Sorry to worry you.
 
-**Mavuika:** Another triumphant return for our "Tuma{RUBY#[S]Hope}ini"... and Ineffa, it's good to have you back. I assume this means you found the answers you were looking for?
+**Mavuika:** Another triumphant return for our "TumaHopeini"... and Ineffa, it's good to have you back. I assume this means you found the answers you were looking for?
 
 **Ineffa:** ...Yes.
 
@@ -4508,11 +4508,11 @@ Let's open it up!
 
 **派蒙:** ——嘿！恰斯卡，你们围在这做什么呢？
 
-**恰斯卡:** 嗯，派蒙？还有我们的「杜麦{RUBY#[S]希望}尼」？
+**恰斯卡:** 嗯，派蒙？还有我们的「杜麦希望尼」？
 
-**伊法:** 「杜麦{RUBY#[S]希望}尼」？派蒙？好久不见。
+**伊法:** 「杜麦希望尼」？派蒙？好久不见。
 
-**伊法:** 哦？是传说中的「杜麦{RUBY#[S]希望}尼」吗？幸会幸会。
+**伊法:** 哦？是传说中的「杜麦希望尼」吗？幸会幸会。
 
 **咔库库:** 幸会啊，哥们！
 
@@ -4524,7 +4524,7 @@ Let's open it up!
 
 **恰斯卡:** 这位是我们部族的「医生」伊法…和他的助理咔库库。说来也巧，你来花羽会有不少次了吧，居然都错过了。
 
-**伊法:** 没准是因为我们都是大忙人？「杜麦{RUBY#[S]希望}尼」不用多说，我前阵子也是到处在出诊。
+**伊法:** 没准是因为我们都是大忙人？「杜麦希望尼」不用多说，我前阵子也是到处在出诊。
 
 伊法刚才是在「看病」吗？
 
@@ -4860,7 +4860,7 @@ Let's open it up!
 
 **派蒙:** 哇…简直像新的一样…欸？这个看着像回声之子的人…是希诺宁的亲戚吗？
 
-**希诺宁:** 那可不是我亲戚…她是回声之子的先祖，纳塔最初的「六英杰」之一，「祝{RUBY#[D]巴莱卡}福」的伊葵。
+**希诺宁:** 那可不是我亲戚…她是回声之子的先祖，纳塔最初的「六英杰」之一，「祝巴莱卡福」的伊葵。
 
 **派蒙:** 欸？我记得「祝福」也是希诺宁的…
 
@@ -4882,7 +4882,7 @@ Let's open it up!
 
 …大部分？还有一部分呢？
 
-**恰斯卡:** 真是敏锐。还有一部分，被她的朋友保存了下来——也就是织卷上的另一位…为我留下「超{RUBY#[D]武卡}越」古名的英杰。
+**恰斯卡:** 真是敏锐。还有一部分，被她的朋友保存了下来——也就是织卷上的另一位…为我留下「超武卡越」古名的英杰。
 
 **恰斯卡:** 传说中被龙的主母养育长大，创下花羽会，令弱小之人与被逐之龙都得享自由的无冕王女…
 
@@ -5072,7 +5072,7 @@ Let's open it up!
 
 **伊涅芙:** 「花羽会」…
 
-**恰斯卡:** 在这期间，我们也会尽力帮忙搜寻关于伊涅芙的消息。毕竟关乎交给「杜麦{RUBY#[S]希望}尼」的信件，你的事就是我们的事。
+**恰斯卡:** 在这期间，我们也会尽力帮忙搜寻关于伊涅芙的消息。毕竟关乎交给「杜麦希望尼」的信件，你的事就是我们的事。
 
 **派蒙:** 啊——对哦！都差点忘了还有这件事！你们知道那封信的密码吗？
 
@@ -5096,7 +5096,7 @@ Let's open it up!
 
 **恰斯卡:** 你每次找出头绪之前不都这么说？
 
-**基尼奇:** 那我去联络其他能帮上忙的人了。「杜麦{RUBY#[S]希望}尼」，派蒙，再会。
+**基尼奇:** 那我去联络其他能帮上忙的人了。「杜麦希望尼」，派蒙，再会。
 
 **派蒙:** 再见！基尼奇——啊，还有阿乔！
 
@@ -5142,7 +5142,7 @@ Let's open it up!
 
 **派蒙:** ——那根本就是在乱回话嘛！
 
-**娅特兰:** 啊！是「杜麦{RUBY#[S]希望}尼」和「飞行{RUBY#[D]派蒙}高手」？
+**娅特兰:** 啊！是「杜麦希望尼」和「飞行派蒙高手」？
 
 **派蒙:** …所以你们这是在问它什么？伊涅芙又去哪儿啦？
 
@@ -5208,7 +5208,7 @@ Let's open it up!
 
 我替你们送过去吧。
 
-**爱莱妲:** 啊…真的吗？谢谢「杜麦{RUBY#[S]希望}尼」！
+**爱莱妲:** 啊…真的吗？谢谢「杜麦希望尼」！
 
 #### 与伊涅芙对话
 
@@ -6168,7 +6168,7 @@ Let's open it up!
 
 你们想怎样？
 
-**法杰伊:** 嘿，我们也不是那些动不动就喊打喊杀的家伙，没打算跟纳塔的「杜麦{RUBY#[S]希望}尼」正面交锋。
+**法杰伊:** 嘿，我们也不是那些动不动就喊打喊杀的家伙，没打算跟纳塔的「杜麦希望尼」正面交锋。
 
 **法杰伊:** 只是想请那边那位曾经的「领主」…帮我们打开前进的「路」。
 
@@ -6400,7 +6400,7 @@ Let's open it up!
 
 **伊涅芙:** …「领主」？另一个「我」？…她不是已经被毁灭了…唔…！
 
-**黑雾诅咒:** …一千年、两千年…何其漫长的旅途…终于…我{RUBY#[S]无归之诅咒}将完成自己的使命…
+**黑雾诅咒:** …一千年、两千年…何其漫长的旅途…终于…我无归之诅咒将完成自己的使命…
 
 **黑雾诅咒:** 千年不见了，我的「领主」——「明晨之镜」。
 
@@ -6450,7 +6450,7 @@ Let's open it up!
 
 **伊涅芙:** 从一开始，你们口中的主母就已不复存在！从一开始，此地仍存的至高领主就只有我一位！
 
-**伊涅芙:** ——屈膝吧，我名为圣龙「明晨{RUBY#[D]伊·莱拉普赫·楚伊博卢}之镜」，十三至高领主中的第十一位！
+**伊涅芙:** ——屈膝吧，我名为圣龙「明晨伊·莱拉普赫·楚伊博卢之镜」，十三至高领主中的第十一位！
 
 **派蒙:** 什么…从头到尾…跟我们说话的也好…让伊涅芙过来的也好…还有诅咒了伊涅芙的…就全都是你吗！
 
@@ -6572,7 +6572,7 @@ Let's open it up!
 
 **黑雾诅咒:** 千年、两千年，流离、寻索、忘却，最终还是回到了原地。
 
-**黑雾诅咒:** 毁灭便是我等命{RUBY#[D]库胡勒}定的道途，此地…即是最后一位至高领主的归宿。
+**黑雾诅咒:** 毁灭便是我等命库胡勒定的道途，此地…即是最后一位至高领主的归宿。
 
 **伊涅芙:** 我…不是领主…
 
@@ -6644,7 +6644,7 @@ Let's open it up!
 
 没事，让你们担心了。
 
-**玛薇卡:** 不愧是我们的「杜麦{RUBY#[S]希望}尼」…既然伊涅芙也一起回来了，想必是已经找到自己想要的答案了？
+**玛薇卡:** 不愧是我们的「杜麦希望尼」…既然伊涅芙也一起回来了，想必是已经找到自己想要的答案了？
 
 **伊涅芙:** …嗯。
 

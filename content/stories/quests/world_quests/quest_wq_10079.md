@@ -13,8 +13,8 @@
 # part_source_ids: 73035,73036,73037
 # previous_quests: quest_wq_10076
 # next_quests: quest_wq_10082
-# related_quests: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10082,quest_wq_73248
-# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082,quest_wq_73248
+# related_quests: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10082
+# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 
@@ -346,7 +346,7 @@
 
 **Паймон:** Арама вдруг стал таким уклончивым. Вот так перемена...
 
-**Арама:** В общем, здесь был наш первый до{RUBY#[S]Ванарана}м. Аранары жили здесь до катастрофы, и многие нары приходили к нам в гости.
+**Арама:** В общем, здесь был наш первый доВанаранам. Аранары жили здесь до катастрофы, и многие нары приходили к нам в гости.
 
 **Паймон:** До катастрофы... Другими словами до того, как...
 
@@ -414,7 +414,7 @@
 
 **Паймон:** Арама вдруг стал таким уклончивым. Вот так перемена...
 
-**Арама:** В общем, здесь был наш первый до{RUBY#[S]Ванарана}м. Аранары жили здесь до катастрофы, и многие нары приходили к нам в гости.
+**Арама:** В общем, здесь был наш первый доВанаранам. Аранары жили здесь до катастрофы, и многие нары приходили к нам в гости.
 
 **Паймон:** До катастрофы... то есть...
 
@@ -612,7 +612,7 @@
 
 **Арамухукунда:** Значит, их воспоминания теперь у тебя. Раньше я был их другом, и это наполняет меня гордостью.
 
-**Арама:** Да... Но во время битвы зде{RUBY#[S]в старой Ванаране}сь многие воспоминания исчезли, как фрукты, упавшие на землю, или облака, унесённые ветром...
+**Арама:** Да... Но во время битвы здев старой Ванаранесь многие воспоминания исчезли, как фрукты, упавшие на землю, или облака, унесённые ветром...
 
 **Арамухукунда:** Я понимаю, но они бы не стали печалиться из-за этого, и тебе не стоит. Когда рядом с тобой друзья, ты можешь бесконечно копить ценные воспоминания и обретать силу.
 
@@ -1010,7 +1010,7 @@
 
 **Паймон:** Только что мы были на волосок от гибели... Путешественник, как же нам повезло, что у тебя был венок! Этот венок воистину удивительный!
 
-**Арама:** В каждом цветке есть крошечное сердце аранара, а про венок, собранный из всех этих цветов, без преувеличения говорят, что он - дверца в Махавана{RUBY#[S]вселенная Аранар}ранапну.
+**Арама:** В каждом цветке есть крошечное сердце аранара, а про венок, собранный из всех этих цветов, без преувеличения говорят, что он - дверца в Махаванавселенная Аранарранапну.
 
 **Арама:** Мы связаны с твоим сердцем, и в тот момент, когда ты страдаешь, мы сможем ободрить тебя, дать тебе сил противостоять кошмарам, выдержать тёмные дни и заполнить пустоту в твоём сердце.
 
@@ -1160,7 +1160,7 @@
 
 **Паймон:** Мы были на волосок от гибели... Путешественник, как же нам повезло, что у тебя был венок! Этот венок ещё чудеснее, чем Паймон думала!
 
-**Арама:** Каждый цветок в нём связан с сердцем аранары. А соединённые вместе в венок они образуют дверь в Махавана{RUBY#[S]вселенная аранар}ранапну.
+**Арама:** Каждый цветок в нём связан с сердцем аранары. А соединённые вместе в венок они образуют дверь в Махаванавселенная аранарранапну.
 
 **Арама:** Пока мы связаны, в трудный для тебя момент мы сможем поддержать, дать сил противостоять кошмарам, помочь пережить тёмные дни и заполнить пустоту в твоём сердце.
 
@@ -1638,7 +1638,7 @@ The Ashvattha Tree has been corroded. But from its fruit, Arama seems to have ga
 
 **Paimon:** You even know how to be evasive now, Arama. You've really changed...
 
-**Arama:** Anyway, this was our first home{RUBY#[S]Vanarana}land. Aranara used to live here before the disaster, and many Nara had visited us.
+**Arama:** Anyway, this was our first homeVanaranaland. Aranara used to live here before the disaster, and many Nara had visited us.
 
 **Paimon:** Before the disaster... Are you saying that...
 
@@ -1706,7 +1706,7 @@ They don't call it "The Rule of Three" for nothing...
 
 **Paimon:** You even know how to be evasive now, Arama. You've really changed...
 
-**Arama:** Anyway, this was our first home{RUBY#[S]Vanarana}land. Aranara used to live here before the disaster, and many Nara had visited us.
+**Arama:** Anyway, this was our first homeVanaranaland. Aranara used to live here before the disaster, and many Nara had visited us.
 
 **Paimon:** Before the disaster... Are you saying that...
 
@@ -1832,8 +1832,8 @@ They don't call it "The Rule of Three" for nothing...
 
 **Inscription of Remembrance:** When the time comes, you can take your time to tell me the stories of the earth! This inscription is the work of Araji, Arayama, and myself — our pride and joy. It's yours now...
 
-**Inscription of Remembrance:** "May the new dre{RUBY#[S]Vanarana}ams never experience Marana's corrosion."
-"And may the old sto{RUBY#[S]Vanarana}ries be forgotten alongside it."
+**Inscription of Remembrance:** "May the new dreVanaranaams never experience Marana's corrosion."
+"And may the old stoVanaranaries be forgotten alongside it."
 
 #### Continue searching for the Inscriptions of Remembrance
 
@@ -1904,7 +1904,7 @@ They don't call it "The Rule of Three" for nothing...
 
 **Aramuhukunda:** Then you've inherited their memories, I see. As a past friend of theirs, this fills me with pride.
 
-**Arama:** Yes... But during the battle her{RUBY#[S]Old Vanarana}e, many memories vanished, like fruits falling to the ground or clouds blown away by the wind...
+**Arama:** Yes... But during the battle herOld Vanaranae, many memories vanished, like fruits falling to the ground or clouds blown away by the wind...
 
 **Aramuhukunda:** I see. They won't be sad about it, and you have no reason to either. There's no end to the precious memories you can create and the strength you can gain while you're with your friends.
 
@@ -2042,7 +2042,7 @@ They don't call it "The Rule of Three" for nothing...
 
 **Arama:** Now, I shall undo the seal which has existed for hundreds and thousands of moons...
 
-**Arama:** May the new drea{RUBY#[S]Vanarana}ms never experience Marana's corrosion, and may the old stor{RUBY#[S]Vanarana}ies be forgotten alongside it.
+**Arama:** May the new dreaVanaranams never experience Marana's corrosion, and may the old storVanaranaies be forgotten alongside it.
 
 "May the new dreams never experience Marana's corruption, and may the old stories be forgotten alongside it."
 "May the green fields and mountains never wither. May the streams stay clear and the flowers remain in bloom."
@@ -2300,7 +2300,7 @@ Now, only the final enemy awaits vanquishing. Continue forward. Never, ever, sto
 
 **Paimon:** That was a close call... Thankfully, Traveler was wearing that garland! It's even more amazing than Paimon thought!
 
-**Arama:** Each flower is connected with the heart of an Aranara. One could even say that a garland of these flowers woven together can form the door to "Mahavana{RUBY#[S]the Aranara universe}ranapna."
+**Arama:** Each flower is connected with the heart of an Aranara. One could even say that a garland of these flowers woven together can form the door to "Mahavanathe Aranara universeranapna."
 
 **Arama:** As long as it connects us, we can support you when you are in need, lend you strength to conquer nightmares, help you through dark days, and fill the void in your heart.
 
@@ -2450,7 +2450,7 @@ Are you ready?
 
 **Paimon:** That was a close call... Thankfully, Traveler was wearing that garland! It's even more amazing than Paimon thought!
 
-**Arama:** Each flower is connected with the heart of an Aranara. One could even say that a garland of these flowers woven together can form the door to "Mahavana{RUBY#[S]the Aranara universe}ranapna."
+**Arama:** Each flower is connected with the heart of an Aranara. One could even say that a garland of these flowers woven together can form the door to "Mahavanathe Aranara universeranapna."
 
 **Arama:** As long as it connects us, we can support you when you are in need, lend you strength to conquer nightmares, help you through dark days, and fill the void in your heart.
 
@@ -2928,7 +2928,7 @@ What should we do?
 
 **派蒙:** 兰罗摩居然会做这种拐弯抹角的事情，真的变了…
 
-**兰罗摩:** 总之，这里是最初的家{RUBY#[D]桓那兰那}园。在灾难发生前，兰那罗一直在这里生活，也有许多那菈来访。
+**兰罗摩:** 总之，这里是最初的家桓那兰那园。在灾难发生前，兰那罗一直在这里生活，也有许多那菈来访。
 
 **派蒙:** 灾难发生前…也就是说…
 
@@ -2996,7 +2996,7 @@ What should we do?
 
 **派蒙:** 兰罗摩居然会做这种拐弯抹角的事情，真的变了…
 
-**兰罗摩:** 总之，这里是最初的家{RUBY#[D]桓那兰那}园。在灾难发生前，兰那罗一直在这里生活，也有许多那菈来访。
+**兰罗摩:** 总之，这里是最初的家桓那兰那园。在灾难发生前，兰那罗一直在这里生活，也有许多那菈来访。
 
 **派蒙:** 灾难发生前…也就是说…
 
@@ -3122,8 +3122,8 @@ What should we do?
 
 **「记忆的铭文」:** 到时候，再慢慢告诉我，地上的故事吧！这段铭文是我和兰拉吉、兰雅玛一起想出来的得意之作。就交给你了——
 
-**「记忆的铭文」:** 「但愿新的梦{RUBY#[D]桓那兰那}想永远不被无留陀侵蚀。」
-「但愿旧的故{RUBY#[D]桓那兰那}事与无留陀一同被忘却。」
+**「记忆的铭文」:** 「但愿新的梦桓那兰那想永远不被无留陀侵蚀。」
+「但愿旧的故桓那兰那事与无留陀一同被忘却。」
 
 #### 继续寻找「记忆的铭文」
 
@@ -3194,7 +3194,7 @@ What should we do?
 
 **兰穆护昆达:** 那么，他们的记忆已经由你继承了。身为他们过去的友人，我很骄傲。
 
-**兰罗摩:** 嗯…不过，在这{RUBY#[D]往昔的桓那兰那}里战斗的时候，又有很多记忆，像落在土地里的果实、像风里的云一样，消失了…
+**兰罗摩:** 嗯…不过，在这往昔的桓那兰那里战斗的时候，又有很多记忆，像落在土地里的果实、像风里的云一样，消失了…
 
 **兰穆护昆达:** 这样啊。不过，他们不会为此悲伤，你也不必难过。只要与朋友在一起，就能不断积累宝贵的记忆，获得力量。
 
@@ -3332,7 +3332,7 @@ What should we do?
 
 **兰罗摩:** 那么，我要解开维持了几百、几千个月亮的封印了…
 
-**兰罗摩:** 但愿新的梦{RUBY#[D]桓那兰那}想永远不被无留陀侵蚀。但愿旧的故{RUBY#[D]桓那兰那}事与无留陀一同被忘却…
+**兰罗摩:** 但愿新的梦桓那兰那想永远不被无留陀侵蚀。但愿旧的故桓那兰那事与无留陀一同被忘却…
 
 「但愿新的梦想永远不被无留陀侵蚀。但愿旧的故事与无留陀一同被忘却。」
 「但愿绿色的原野、山丘永远不变得枯黄。但愿溪水永远清澈，但愿鲜花永远盛开。」
@@ -3590,7 +3590,7 @@ What should we do?
 
 **派蒙:** 刚刚真是千钧一发…旅行者戴着花冠，真是太好了！这个花冠好神奇呀！
 
-**兰罗摩:** 每一朵花，都连接着一颗兰那罗小小的心；而将所有的花朵编制成的花冠，说它是「玛哈桓那{RUBY#[D]兰那罗的宇宙}兰那薜那」的门扉也不过分。
+**兰罗摩:** 每一朵花，都连接着一颗兰那罗小小的心；而将所有的花朵编制成的花冠，说它是「玛哈桓那兰那罗的宇宙兰那薜那」的门扉也不过分。
 
 **兰罗摩:** 所以，我们能与你心意相通，在你感到痛苦时为你声援，将力量借给你，抵挡噩梦，帮助你战胜黑暗的时日，填补心中的虚空。
 
@@ -3740,7 +3740,7 @@ What should we do?
 
 **派蒙:** 刚刚真是千钧一发…旅行者戴着花冠，真是太好了！这个花冠好神奇呀！
 
-**兰罗摩:** 每一朵花，都连接着一颗兰那罗小小的心；而将所有的花朵编制成的花冠，说它是「玛哈桓那{RUBY#[D]兰那罗的宇宙}兰那薜那」的门扉也不过分。
+**兰罗摩:** 每一朵花，都连接着一颗兰那罗小小的心；而将所有的花朵编制成的花冠，说它是「玛哈桓那兰那罗的宇宙兰那薜那」的门扉也不过分。
 
 **兰罗摩:** 所以，我们能与你心意相通，在你感到痛苦时为你声援，将力量借给你，抵挡噩梦，帮助你战胜黑暗的时日，填补心中的虚空。
 

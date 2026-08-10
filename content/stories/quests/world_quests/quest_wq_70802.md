@@ -3,19 +3,19 @@
 # title_ru: Снежный силуэт: Надежда
 # title_en: Snowy Silhouette: Hope
 # title_zh: 白皑谜影·希望
-# region: Мондштадт
+# region: Тейват
 # game_version: 2.3
 # release_versions: 2.3
 # source_id: 70802
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70802
 # previous_quests: quest_wq_70123
 # next_quests: quest_wq_70803
 # related_quests: quest_wq_70123,quest_wq_70803
 # quest_chain: quest_wq_70123,quest_wq_70802,quest_wq_70803
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -298,7 +298,7 @@ About Joserf...
 
 你爸爸有消息了吗？
 
-**乔尔:** 大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，是你呀。
+**乔尔:** 大空/荧，是你呀。
 
 **乔尔:** 帕拉德哥哥和我说，塞琉斯叔叔好像找到了和我爸爸有关的消息。
 
@@ -306,7 +306,7 @@ About Joserf...
 
 **乔尔:** 我想要和他们一起进雪山去，但塞琉斯叔叔要我留在营地里，有了消息他们自然会告诉我…
 
-**乔尔:** 大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，如果可以的话，你能帮我去向塞琉斯叔叔打听一下消息吗？
+**乔尔:** 大空/荧，如果可以的话，你能帮我去向塞琉斯叔叔打听一下消息吗？
 
 - **旅行者:** 我知道了。
 
@@ -314,7 +314,7 @@ About Joserf...
 
 **乔尔:** 我、我害怕听到…不好的消息…
 
-**乔尔:** 总之，拜托你了！大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}！
+**乔尔:** 总之，拜托你了！大空/荧！
 
 #### 前往冒险家协会
 
@@ -386,7 +386,7 @@ About Joserf...
 
 #### 和帕拉德对话
 
-**乔尔:** 大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，请帮我去向塞琉斯叔叔打听一下消息吧。
+**乔尔:** 大空/荧，请帮我去向塞琉斯叔叔打听一下消息吧。
 
 **冒失的帕拉德:** 这周围总算安全点了，多谢啦。
 
@@ -408,7 +408,7 @@ About Joserf...
 
 **塞琉斯:** 我整理情报还要些时间，可别让那孩子等急了。
 
-**乔尔:** 大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}，你帮我打听到什么消息了吗？
+**乔尔:** 大空/荧，你帮我打听到什么消息了吗？
 
 **乔尔:** 也就是说…塞琉斯叔叔还没有找到我爸爸…
 
@@ -416,6 +416,6 @@ About Joserf...
 
 - **旅行者:** 已经找到线索了。
 
-**乔尔:** 嗯，我知道。等塞琉斯叔叔来了，我会再详细问他的，谢谢你，大{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}。
+**乔尔:** 嗯，我知道。等塞琉斯叔叔来了，我会再详细问他的，谢谢你，大空/荧。
 
 **乔尔:** 爸爸…你到底在哪啊…

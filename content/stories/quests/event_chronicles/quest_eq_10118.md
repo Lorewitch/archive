@@ -13,8 +13,8 @@
 # part_source_ids: 40115
 # previous_quests: quest_eq_10117
 # next_quests: quest_eq_10119
-# related_quests: quest_eq_10117,quest_eq_10119,quest_wq_10135,quest_wq_73526,quest_wq_73527,quest_wq_73528,quest_wq_73529,quest_wq_79041,quest_wq_79050,quest_wq_79054
-# quest_chain: quest_eq_10117,quest_eq_10118,quest_eq_10119,quest_wq_10135,quest_wq_73526,quest_wq_73527,quest_wq_73528,quest_wq_73529,quest_wq_79041,quest_wq_79050,quest_wq_79054
+# related_quests: quest_eq_10117,quest_eq_10119
+# quest_chain: quest_eq_10117,quest_eq_10118,quest_eq_10119
 # quest_series: Secret Summer Paradise
 # version_source: wiki_release_category
 

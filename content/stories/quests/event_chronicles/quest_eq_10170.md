@@ -11,7 +11,7 @@
 # chapter_num_en: Alchemy and Business Operations: I
 # chapter_num_zh: 炼金与经营 其一
 # part_source_ids: 40144,40160,40161
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10171
 # related_quests: quest_eq_10171,quest_eq_10172,quest_eq_10173
 # quest_chain: quest_eq_10170,quest_eq_10171,quest_eq_10172,quest_eq_10173

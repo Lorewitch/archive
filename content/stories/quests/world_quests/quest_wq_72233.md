@@ -3,19 +3,19 @@
 # title_ru: Стоячая вода
 # title_en: The Still Water's Flow
 # title_zh: 止水之潘
-# region: Инадзума
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72233
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72233
 # previous_quests: quest_wq_10031
 # next_quests: quest_wq_10055
 # related_quests: quest_wq_10031,quest_wq_10055
 # quest_chain: quest_wq_10031,quest_wq_72233,quest_wq_10055
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

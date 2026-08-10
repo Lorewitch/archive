@@ -13,8 +13,8 @@
 # part_source_ids: 6015,6016,6017
 # previous_quests: quest_aq_1607
 # next_quests: quest_aq_1609
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -58,7 +58,7 @@
 
 **Марионетка:** Ты вернулся / вернулась? Голова на месте? А руки с ногами?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Зачем задавать самоочевидные вопросы? Где твоя хвалёная выдержка?
+**Странник:** Зачем задавать самоочевидные вопросы? Где твоя хвалёная выдержка?
 
 **Марионетка:** Глупости! Я никогда не теряю выдержки!
 
@@ -78,7 +78,7 @@
 
 **Арлекино:** Я и Путешественник друзья. Ты можешь присоединиться к нам в любой роли, какая тебе больше нравится. Как на чаепитии.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хм, вы смеётесь?
+**Странник:** Хм, вы смеётесь?
 
 **Флинс:** Как бы там ни было, я был немало удивлён, когда господин Альбедо сказал, что ему не понадобится дополнительная помощь.
 
@@ -86,7 +86,7 @@
 
 **Дурин:** Мастер Шляпка сказал, что у него есть план. Он попросил нас с Альбедо подстраховать его снаружи, а сам в одиночку шагнул в энергетическое поле... Мы спасли (путешественницу)(путешественника) только благодаря Мастеру Шляпке.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** О подробностях можно было и не рассказывать.
+**Странник:** О подробностях можно было и не рассказывать.
 
 **Флинс:** Сила и мужество Мастера Шляпки не могут не восхищать.
 
@@ -556,79 +556,79 @@
 
 (Мастер Шляпка? Судя по лицу, у него есть ко мне разговор...)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Поговорим в другом месте.
+**Странник:** Поговорим в другом месте.
 
 #### Поговорите со Странником
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Наверное, тебе известно, что Дори вернулась в Сумеру.
+**Странник:** Наверное, тебе известно, что Дори вернулась в Сумеру.
 
 Да, она говорила, что собирается домой.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Дела в Нод-Крае идут не очень. Дори отправилась в Сумеру, чтобы люди успели подготовиться.
+**Странник:** Дела в Нод-Крае идут не очень. Дори отправилась в Сумеру, чтобы люди успели подготовиться.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Насколько я знаю Дотторе, у него есть две причины для бездействия. Во-первых, он всё ещё привыкает к своей новой силе. Во-вторых, он ждёт нашей реакции.
+**Странник:** Насколько я знаю Дотторе, у него есть две причины для бездействия. Во-первых, он всё ещё привыкает к своей новой силе. Во-вторых, он ждёт нашей реакции.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Рано или поздно он поглотит всё. Торопиться ему некуда.
+**Странник:** Рано или поздно он поглотит всё. Торопиться ему некуда.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Фальшивое божество... В прошлый раз им был я, теперь - он. Пусть вся информация обо мне исчезла из Ирминсуля, идеи Дотторе нисколько не изменились.
+**Странник:** Фальшивое божество... В прошлый раз им был я, теперь - он. Пусть вся информация обо мне исчезла из Ирминсуля, идеи Дотторе нисколько не изменились.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Однажды он сказал мне, что стать богом - всё равно как превратиться в голодного волка или гигантского змея, чтобы сожрать луну. Значит, он изучал силу Богинь Луны задолго до того, как приступил к созданию фальшивого бога.
+**Странник:** Однажды он сказал мне, что стать богом - всё равно как превратиться в голодного волка или гигантского змея, чтобы сожрать луну. Значит, он изучал силу Богинь Луны задолго до того, как приступил к созданию фальшивого бога.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В итоге луну, которую не смог проглотить я, съел он. Он всегда стремился к божественной власти.
+**Странник:** В итоге луну, которую не смог проглотить я, съел он. Он всегда стремился к божественной власти.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Царь Дешрет - или аль-Ахмар, как тебе угодно - построил среди пустыни Сумеру некое подобие шахматной доски. Не знаю, была ли это настоящая игра, или же аль-Ахмару просто хотелось озадачить своих подданных.
+**Странник:** Царь Дешрет - или аль-Ахмар, как тебе угодно - построил среди пустыни Сумеру некое подобие шахматной доски. Не знаю, была ли это настоящая игра, или же аль-Ахмару просто хотелось озадачить своих подданных.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Для богов вполне естественно создавать игры и устанавливать правила. Именно к такой власти и стремится Дотторе.
+**Странник:** Для богов вполне естественно создавать игры и устанавливать правила. Именно к такой власти и стремится Дотторе.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Сила Трёх Лун и впрямь намного превосходит возможности обычных людей. Было бы лучше, если бы другие страны сосредоточились на обороне, а не бросались в атаку, чтобы остановить угрозу, исходящую от Нод-Края.
+**Странник:** Сила Трёх Лун и впрямь намного превосходит возможности обычных людей. Было бы лучше, если бы другие страны сосредоточились на обороне, а не бросались в атаку, чтобы остановить угрозу, исходящую от Нод-Края.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Дори скоро сообщит о случившемся малой властительнице Кусанали, а та уведомит остальных Архонтов.
+**Странник:** Дори скоро сообщит о случившемся малой властительнице Кусанали, а та уведомит остальных Архонтов.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Думаю, у Семи Архонтов должны быть свои козыри в рукавах. По крайней мере, их защита на какое-то время спасёт остальные страны от хаоса, в котором погрязнет Нод-Край.
+**Странник:** Думаю, у Семи Архонтов должны быть свои козыри в рукавах. По крайней мере, их защита на какое-то время спасёт остальные страны от хаоса, в котором погрязнет Нод-Край.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Так что даже если Нод-Край исчезнет, твои друзья в других странах не погибнут сразу. А это всё-таки хорошая новость, как ни крути.
+**Странник:** Так что даже если Нод-Край исчезнет, твои друзья в других странах не погибнут сразу. А это всё-таки хорошая новость, как ни крути.
 
 Ты прав, но я не хочу, чтобы Нод-Край исчез.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В тебе говорит жадность.
+**Странник:** В тебе говорит жадность.
 
 Я знаю, это может звучать наивно и алчно, но иначе я не смогу продолжать сражаться.
 
 Битва может окончиться за одно мгновение, а боевой дух с тобой навсегда. Стоит сдаться хоть на секунду, и твоя воля уже сломлена.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но почему нельзя хоть однажды дать слабину? Никто ведь не родился, чтобы быть спасителем?
+**Странник:** Но почему нельзя хоть однажды дать слабину? Никто ведь не родился, чтобы быть спасителем?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** И разве кто-то тебя осудит, если ты оступишься?
+**Странник:** И разве кто-то тебя осудит, если ты оступишься?
 
 Прости, что я так говорю... но на самом деле я слышал(а) похожие слова от Дотторе. Видимо, в Фатуи не принято верить в спасителей.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не совсем так. Дело не в вере. Мне просто интересно, насколько решительно ты настроен(а). В конце концов, я в долгу только перед тобой.
+**Странник:** Не совсем так. Дело не в вере. Мне просто интересно, насколько решительно ты настроен(а). В конце концов, я в долгу только перед тобой.
 
 Ты выглядишь обеспокоенным.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ещё бы. Ты бы тоже (разволновалась)(разволновался), окажись твой враг в шаге от успеха.
+**Странник:** Ещё бы. Ты бы тоже (разволновалась)(разволновался), окажись твой враг в шаге от успеха.
 
 (Когда твой враг вот-вот станет всеведущим и всемогущим божеством... ужасное чувство.)
 
 Но ты держишься спокойнее, чем я ожидал(а).
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Само собой.
+**Странник:** Само собой.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Приходится признать, что я был слишком глуп и безрассуден, неверно оценив как значение мести, так и её средства.
+**Странник:** ...Приходится признать, что я был слишком глуп и безрассуден, неверно оценив как значение мести, так и её средства.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но сейчас в одиночку отомстить уже невозможно. И если мир меня чему-то и научил, так это тому, что нужно учиться на своих ошибках и уметь приспосабливаться.
+**Странник:** Но сейчас в одиночку отомстить уже невозможно. И если мир меня чему-то и научил, так это тому, что нужно учиться на своих ошибках и уметь приспосабливаться.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Правда, он не научил меня другим добродетелям. Поэтому я всё равно уничтожу Дотторе, чего бы это ни стоило.
+**Странник:** Правда, он не научил меня другим добродетелям. Поэтому я всё равно уничтожу Дотторе, чего бы это ни стоило.
 
 И что ты собираешься делать?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Сначала скажи мне, какие у тебя отношения с Сандроне?
+**Странник:** Сначала скажи мне, какие у тебя отношения с Сандроне?
 
 Я уже говорил(а)... мы друзья.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Насколько ты ей доверяешь?
+**Странник:** Насколько ты ей доверяешь?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это очень важный вопрос. Хорошо подумай, прежде чем ответить.
+**Странник:** Это очень важный вопрос. Хорошо подумай, прежде чем ответить.
 
 ...
 
@@ -636,17 +636,17 @@
 
 Я считаю, что у нас нет причин ей не доверять.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Вот как?
+**Странник:** ...Вот как?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Тогда нам втроём надо сесть и поговорить. У меня есть кое-какие мысли насчёт проблемы вычислительной мощности, которая её беспокоит.
+**Странник:** Тогда нам втроём надо сесть и поговорить. У меня есть кое-какие мысли насчёт проблемы вычислительной мощности, которая её беспокоит.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Эту проблему можно решить за определённую цену.
+**Странник:** Эту проблему можно решить за определённую цену.
 
 Я могу заплатить эту цену? Если да, я готов(а).
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Иногда от твоего героизма у меня голова идёт кругом.
+**Странник:** ...Иногда от твоего героизма у меня голова идёт кругом.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Идём к Сандроне.
+**Странник:** Идём к Сандроне.
 
 #### Поговорите с Сандроне
 
@@ -706,51 +706,51 @@
 
 **Марионетка:** Что ты сказал?! Ты знаешь, что можно сделать?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ох, какая же ты всё-таки дёрганая.
+**Странник:** Ох, какая же ты всё-таки дёрганая.
 
 **Марионетка:** Что? Мы с тобой так хорошо знакомы? Следи за своими манерами и не раздавай оценки чужим людям.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не нужно много времени, чтобы понять твой характер.
+**Странник:** Не нужно много времени, чтобы понять твой характер.
 
 **Марионетка:** (Удалено)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вообще-то я опубликовал больше научных работ, чем ты. Кроме того, статус ещё ничего не значит. Даже Паймон подала заявку на зачисление в Академию.
+**Странник:** Вообще-то я опубликовал больше научных работ, чем ты. Кроме того, статус ещё ничего не значит. Даже Паймон подала заявку на зачисление в Академию.
 
 **Марионетка:** Что? Ты серьёзно?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Видишь? Вот почему мне не хочется ничего объяснять. Она признаёт только свои собственные технологии.
+**Странник:** Видишь? Вот почему мне не хочется ничего объяснять. Она признаёт только свои собственные технологии.
 
 **Марионетка:** Ладно, я дам тебе шанс. Расскажи, где нам взять недостающие вычислительные мощности?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мир сам по себе постоянно обрабатывает всевозможную информацию. Если хочешь предсказать будущее мира, тебе понадобится устройство, способное выдержать такую нагрузку.
+**Странник:** Мир сам по себе постоянно обрабатывает всевозможную информацию. Если хочешь предсказать будущее мира, тебе понадобится устройство, способное выдержать такую нагрузку.
 
 **Марионетка:** Легко сказать. Но только Ирминсуль способен вместить в себя информацию целого мира...
 
 **Марионетка:** Погоди, ты хочешь сказать... нам нужен Ирминсуль? Но мы не можем взять и подключить наш алгоритм к артериям земли!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Наверное, ты уже поняла, что я не человек?
+**Странник:** Наверное, ты уже поняла, что я не человек?
 
 **Марионетка:** Догадаться несложно. Что до технологии... она кажется очень древней, совершенно не похожей на фонтейнскую. Тут задействована иная система.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это технология Каэнри'ах. А я кукла.
+**Странник:** Это технология Каэнри'ах. А я кукла.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Для нормального функционирования в куклу должен быть установлен модуль питания и дешифровки. Чтобы создать его, мастера искали самый подходящий материал.
+**Странник:** Для нормального функционирования в куклу должен быть установлен модуль питания и дешифровки. Чтобы создать его, мастера искали самый подходящий материал.
 
 **Марионетка:** Ты... неужели...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мы поговорили с путешественником / путешественницей. Он(а) готов(а) за тебя поручиться, так что... я разрешаю тебе воспользоваться моим ядр{RUBY#[S]узел вычислений}ом для вычислений.
+**Странник:** Мы поговорили с путешественником / путешественницей. Он(а) готов(а) за тебя поручиться, так что... я разрешаю тебе воспользоваться моим ядрузел вычисленийом для вычислений.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Оно сделано из чистейшей белой древесины и представляет собой часть Ирминсуля.
+**Странник:** Оно сделано из чистейшей белой древесины и представляет собой часть Ирминсуля.
 
 **Марионетка:** Сочетание технологий Каэнри'ах и Ирминсуля? Кому вообще под силу такое сотворить...
 
-**Марионетка:** ...Но ты понимаешь, о чём говоришь? Кукла без яд{RUBY#[S]узел вычислений}ра полностью лишится энергии. А если пробудет в таком состоянии слишком долго, может сломаться навсегда. Это равносильно смерти! Тебе ведь это известно?
+**Марионетка:** ...Но ты понимаешь, о чём говоришь? Кукла без ядузел вычисленийра полностью лишится энергии. А если пробудет в таком состоянии слишком долго, может сломаться навсегда. Это равносильно смерти! Тебе ведь это известно?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это прописные истины, и незачем на них останавливаться.
+**Странник:** Это прописные истины, и незачем на них останавливаться.
 
 **Марионетка:** Скажу честно: никто до нас не делал ничего подобного, и я не могу поручиться за твою безопасность.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Неважно. Я готов ко всему.
+**Странник:** Неважно. Я готов ко всему.
 
 **Марионетка:** Вы точно всё обсудили? Он... правда готов...
 
@@ -758,11 +758,11 @@
 
 Давай попробуем.
 
-**Марионетка:** Честно скажу, понятия не имею, откуда взялся этот парень, но он отдал мне своё яд{RUBY#[S]узел вычислений}ро.
+**Марионетка:** Честно скажу, понятия не имею, откуда взялся этот парень, но он отдал мне своё ядузел вычисленийро.
 
 **Марионетка:** Вычисления почти окончены, ядро сейчас в работе. Так что извините, пока я могу показать вам только набросок.
 
-**Марионетка:** Его яд{RUBY#[S]узел вычислений}ро выглядит вот так.
+**Марионетка:** Его ядузел вычисленийро выглядит вот так.
 
 **Альбедо:** Белоснежная ветвь... В точности такая же, как у легендарного древа Ирминсуль.
 
@@ -770,9 +770,9 @@
 
 **Паймон:** Он... он ведь не умрёт?
 
-**Марионетка:** В теории, если вовремя вернуть яд{RUBY#[S]узел вычислений}ро на место, с ним всё будет в порядке.
+**Марионетка:** В теории, если вовремя вернуть ядузел вычисленийро на место, с ним всё будет в порядке.
 
-**Марионетка:** А так... могу лишь сказать, что сделаю всё возможное, чтобы уйти от рисков и не повредить яд{RUBY#[S]узел вычислений}ро.
+**Марионетка:** А так... могу лишь сказать, что сделаю всё возможное, чтобы уйти от рисков и не повредить ядузел вычисленийро.
 
 **Альбедо:** Пока вычисления не окончены, кто-то должен охранять его тело. За этим он и позвал нас.
 
@@ -790,13 +790,13 @@
 
 *Вы с Паймон и Дурином стоите возле Мастера Шляпки и смотрите на его неподвижное тело. Вы никогда ещё не видели его таким.*
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «В худшем случае извлечение яд{RUBY#[S]узел вычислений}ра приведёт к перезагрузке или полному выходу из строя. Но я этого не боюсь. Тихая "смерть" давно должна была стать моей судьбой».
+**Странник:** «В худшем случае извлечение ядузел вычисленийра приведёт к перезагрузке или полному выходу из строя. Но я этого не боюсь. Тихая "смерть" давно должна была стать моей судьбой».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Как ты думаешь, есть ли разница между куклами и людьми? Если нет, меня ждёт всего лишь новый круг сансары».
+**Странник:** «Как ты думаешь, есть ли разница между куклами и людьми? Если нет, меня ждёт всего лишь новый круг сансары».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Прошлая жизнь, новая жизнь... И то, и другое со мной уже случилось».
+**Странник:** «Прошлая жизнь, новая жизнь... И то, и другое со мной уже случилось».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «А может быть, я принял такое решение, потому что наконец стал настоящим человеком. Что у тебя с лицом? Разве я сказал что-то плохое?»
+**Странник:** «А может быть, я принял такое решение, потому что наконец стал настоящим человеком. Что у тебя с лицом? Разве я сказал что-то плохое?»
 
 **Паймон:** У Сандроне всё получится, правда?
 
@@ -812,9 +812,9 @@
 
 **Марионетка:** Хе-хе, и откуда у студента Академии столько уверенности в себе?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Яд{RUBY#[S]узел вычислений}ро в корне отличается от так называемого "сердца". Скорее оно похоже на ещё один жизненно важный орган. Я никогда не надеялся, что оно по-настоящему заменит то, чего я ищу».
+**Странник:** «Ядузел вычисленийро в корне отличается от так называемого "сердца". Скорее оно похоже на ещё один жизненно важный орган. Я никогда не надеялся, что оно по-настоящему заменит то, чего я ищу».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Но в итоге именно оно и сослужило самую большую службу. Ха-ха, забавно. В моём стиле».
+**Странник:** «Но в итоге именно оно и сослужило самую большую службу. Ха-ха, забавно. В моём стиле».
 
 #### Поговорите с таинственным человеком
 
@@ -2098,25 +2098,25 @@
 
 **Паймон:** Мастер Шляпка, и ты здесь? Вы решили вместе вернуться?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Нет. Я отправляюсь в Сумеру, а она в Фонтейн. Мы случайно встретились в порту.
+**Странник:** Нет. Я отправляюсь в Сумеру, а она в Фонтейн. Мы случайно встретились в порту.
 
 - **Путешественник:** Как ты себя чувствуешь?
 
 - **Путешественник:** Как твоё ядро?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я в порядке. Несмотря на свой скверный характер, Сандроне всегда очень добросовестно относилась к важным расчётам и поручениям от друзей.
+**Странник:** Я в порядке. Несмотря на свой скверный характер, Сандроне всегда очень добросовестно относилась к важным расчётам и поручениям от друзей.
 
 **Арлекино:** По твоим словам всегда кажется, что ты успел хорошо нас изучить, Мастер Шляпка.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Может, всё дело в том, что я хорошо разбираюсь в людях?
+**Странник:** ...Может, всё дело в том, что я хорошо разбираюсь в людях?
 
 **Арлекино:** Надеюсь, так оно и есть.
 
 **Арлекино:** Как бы там ни было, ты оказал нам большую помощь. Спасибо тебе.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Нет... я не сделал ничего особенного.
+**Странник:** Нет... я не сделал ничего особенного.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Благодарить надо Сандроне. Это она выстроила сложнейший алгоритм и переломила ход битвы... пожертвовав ради этого всем.
+**Странник:** Благодарить надо Сандроне. Это она выстроила сложнейший алгоритм и переломила ход битвы... пожертвовав ради этого всем.
 
 **Паймон:** ...
 
@@ -2124,9 +2124,9 @@
 
 **Арлекино:** Чтобы обмануть Дотторе, она вживила себе приманку, которая внешне ничем не отличалась от настоящего алгоритма...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Наверное, она подумала... если не удастся остановить Дотторе, то она хотя бы сможет усыпить его бдительность.
+**Странник:** Наверное, она подумала... если не удастся остановить Дотторе, то она хотя бы сможет усыпить его бдительность.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да... очень на неё похоже. У неё всегда был запасной план.
+**Странник:** Да... очень на неё похоже. У неё всегда был запасной план.
 
 Что станет с телом Сандроне...
 
@@ -2170,41 +2170,41 @@
 
 **Арлекино:** Путешественник, Паймон, Мастер Шляпка. До встречи.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Что вы здесь торчите? Вас вроде ждёт Коломбина?
+**Странник:** Что вы здесь торчите? Вас вроде ждёт Коломбина?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Насколько я помню, вы договорились, что именно сегодня ты узнаешь правду о (своём брате)(своей сестре).
+**Странник:** Насколько я помню, вы договорились, что именно сегодня ты узнаешь правду о (своём брате)(своей сестре).
 
 (...)
 
 Я немного нервничаю...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Боишься, что правда тебя расстроит?
+**Странник:** Боишься, что правда тебя расстроит?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ха... Не думал, что ты тоже умеешь бояться. Вот это новость.
+**Странник:** Ха... Не думал, что ты тоже умеешь бояться. Вот это новость.
 
 **Паймон:** Ну перестань. На его / её месте ты бы тоже испугался.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да. Только у меня куда больше опыта в столкновениях с «неприятной правдой» о прошлом, чем у него / неё.
+**Странник:** Да. Только у меня куда больше опыта в столкновениях с «неприятной правдой» о прошлом, чем у него / неё.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Думаю, твои друзья это чувствуют. «Семья» нужна тебе куда больше, чем просто «дружба».
+**Странник:** Думаю, твои друзья это чувствуют. «Семья» нужна тебе куда больше, чем просто «дружба».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Какой бы ни оказалась правда, которую ты узнаешь, настоящие друзья всегда будут рядом и поддержат любое твоё решение.
+**Странник:** Какой бы ни оказалась правда, которую ты узнаешь, настоящие друзья всегда будут рядом и поддержат любое твоё решение.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Возможно, важна не сама правда, а решение, которое ты примешь, узнав её.
+**Странник:** Возможно, важна не сама правда, а решение, которое ты примешь, узнав её.
 
-{REALNAME[ID(1)|HOSTONLY(true)]}...
+Странник...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это урок, который я вынес из опыта знакомства с «правдой». А такого опыта у меня чуть больше, чем у тебя.
+**Странник:** Это урок, который я вынес из опыта знакомства с «правдой». А такого опыта у меня чуть больше, чем у тебя.
 
 Тебе стало легче?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** После смерти Дотторе? Хм, наверное, да. Но совсем немного.
+**Странник:** После смерти Дотторе? Хм, наверное, да. Но совсем немного.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Может, я жалею, что не прикончил его лично. Или тут ещё что-то замешано, но на душе всё равно какой-то осадок.
+**Странник:** Может, я жалею, что не прикончил его лично. Или тут ещё что-то замешано, но на душе всё равно какой-то осадок.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В общем, я отправлюсь в Сумеру, чтобы помочь малой властительнице Кусанали разобраться с проблемами, которые остались после всех выходок Дотторе.
+**Странник:** В общем, я отправлюсь в Сумеру, чтобы помочь малой властительнице Кусанали разобраться с проблемами, которые остались после всех выходок Дотторе.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А ты продолжай своё путешествие. Быть может, мы ещё встретимся в других краях.
+**Странник:** А ты продолжай своё путешествие. Быть может, мы ещё встретимся в других краях.
 
 **Паймон:** И что будем делать дальше? Если ты нервничаешь и хочешь ещё немного прогуляться, Паймон составит тебе компанию.
 
@@ -2732,7 +2732,7 @@ The bright moon hangs high, casting down its gentle light. Yet, your stories beg
 
 **Marionette:** You're back? And your head's still screwed on? And you still have all your limbs?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What does it look like? Way to keep your composure, Madame.
+**Wanderer:** What does it look like? Way to keep your composure, Madame.
 
 **Marionette:** Excuse you! I am perfectly composed!
 
@@ -2752,7 +2752,7 @@ Sorry for making you all worry.
 
 **The Knave:** Traveler and I were already friends. You are free to join this mission in whatever capacity you please — much like your tea parties.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph. It's a laugh a minute with you guys.
+**Wanderer:** Hmph. It's a laugh a minute with you guys.
 
 **Flins:** I must say, I was quite surprised when Mr. Albedo told me he would need no additional aid.
 
@@ -2760,7 +2760,7 @@ Sorry for making you all worry.
 
 **Durin:** He said he knew what he was doing. Albedo and I pretty much just had to wait outside on standby... Meanwhile, Hat Guy broke into the energy field and rescued Traveler solo...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You didn't have to mention that.
+**Wanderer:** You didn't have to mention that.
 
 **Flins:** Well, I'm thoroughly impressed. You are a force to be reckoned with, Hat Guy.
 
@@ -3230,79 +3230,79 @@ Sandrone explains Columbina's situation and shares the findings of her research 
 
 (Hat Guy? Is he hinting that we should talk outside?)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Let's go somewhere a little more private.
+**Wanderer:** Let's go somewhere a little more private.
 
 #### Talk to the Wanderer
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You know that Dori went back to Sumeru, right?
+**Wanderer:** You know that Dori went back to Sumeru, right?
 
 Yeah, she mentioned she was planning to head back.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Things aren't looking good for Nod-Krai. She's gone to spread the word so that Sumeru has a chance to prepare for the worst.
+**Wanderer:** Things aren't looking good for Nod-Krai. She's gone to spread the word so that Sumeru has a chance to prepare for the worst.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** From what I know of Dottore, there are two possible reasons why he hasn't made a move yet. One is that he's still working through some kinks in his new powers. The other is, he wants to see how we're going to react.
+**Wanderer:** From what I know of Dottore, there are two possible reasons why he hasn't made a move yet. One is that he's still working through some kinks in his new powers. The other is, he wants to see how we're going to react.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He'll easily devour everything eventually, so I guess he's in no rush to make it happen.
+**Wanderer:** He'll easily devour everything eventually, so I guess he's in no rush to make it happen.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The first false god he made was me... Now it's his turn. Even though my records were erased from Irminsul, Dottore's ideas haven't changed one bit.
+**Wanderer:** The first false god he made was me... Now it's his turn. Even though my records were erased from Irminsul, Dottore's ideas haven't changed one bit.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He once told me that becoming a god was like turning yourself into a hungry wolf or giant serpent to devour the moon. Clearly, he began studying the Moon Goddesses' powers long before he even tried making a god.
+**Wanderer:** He once told me that becoming a god was like turning yourself into a hungry wolf or giant serpent to devour the moon. Clearly, he began studying the Moon Goddesses' powers long before he even tried making a god.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He's always wanted to get his greedy hands on divine authority one way or another... And in the end, he devoured the moon where I failed.
+**Wanderer:** He's always wanted to get his greedy hands on divine authority one way or another... And in the end, he devoured the moon where I failed.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** In the desert of Sumeru, there is a chessboard built by King Deshret, also known as Al-Ahmar. I don't know if it was a real game, or if he was just trying to challenge his servants and citizens in some way.
+**Wanderer:** In the desert of Sumeru, there is a chessboard built by King Deshret, also known as Al-Ahmar. I don't know if it was a real game, or if he was just trying to challenge his servants and citizens in some way.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But creating games and setting rules... Gods do that as a matter of course. That's the kind of power Dottore craves.
+**Wanderer:** But creating games and setting rules... Gods do that as a matter of course. That's the kind of power Dottore craves.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Now he has the trilunar authority, his power is leagues beyond the common people. I don't think there's any point in other nations rushing to the frontline. They're better off focusing on defense and hoping they can fend off any threats that spill out from Nod-Krai.
+**Wanderer:** Now he has the trilunar authority, his power is leagues beyond the common people. I don't think there's any point in other nations rushing to the frontline. They're better off focusing on defense and hoping they can fend off any threats that spill out from Nod-Krai.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Either way, Dori will inform Lesser Lord Kusanali, and she will contact the other gods in turn.
+**Wanderer:** Either way, Dori will inform Lesser Lord Kusanali, and she will contact the other gods in turn.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The Seven will have some recourse available. If nothing else, their protection should keep the rest of the world from descending into chaos as quickly as Nod-Krai has.
+**Wanderer:** The Seven will have some recourse available. If nothing else, their protection should keep the rest of the world from descending into chaos as quickly as Nod-Krai has.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So on the bright side, even if Nod-Krai is doomed, your friends in other nations won't be in any immediate peril.
+**Wanderer:** So on the bright side, even if Nod-Krai is doomed, your friends in other nations won't be in any immediate peril.
 
 That's good to know. But I'm not ready to give up on Nod-Krai yet.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Heh. There's a word for people who refuse to let anything go. It's called being greedy.
+**Wanderer:** Heh. There's a word for people who refuse to let anything go. It's called being greedy.
 
 Maybe it sounds greedy to you. And probably naive, too. But whatever you call it, that's what gives me the determination to keep fighting.
 
 Battles are fleeting, but the will to fight is a long-term commitment. Give up for even a moment, and your resolve will shatter.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Why do you always feel the need to do the right thing? No one is born to be a savior.
+**Wanderer:** Why do you always feel the need to do the right thing? No one is born to be a savior.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I mean, who's gonna criticize you if you fail, or give up?
+**Wanderer:** I mean, who's gonna criticize you if you fail, or give up?
 
 Don't take this the wrong way, but... Dottore said something similar to me. I guess the Fatui attracts people who don't believe in saviors.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Not necessarily. It's less about belief for me — I just want to know how determined you really are. After all, I don't owe anything to anyone else here. Only you.
+**Wanderer:** Not necessarily. It's less about belief for me — I just want to know how determined you really are. After all, I don't owe anything to anyone else here. Only you.
 
 You look kinda worried.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** If your arch-nemesis was about to achieve their ultimate goal, I think you might feel a little worried too.
+**Wanderer:** If your arch-nemesis was about to achieve their ultimate goal, I think you might feel a little worried too.
 
 (That's true... Dottore is about to become an omniscient, omnipotent deity. That's gotta be a bitter pill to swallow.)
 
 Still, you're calmer than I expected.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Obviously.
+**Wanderer:** Obviously.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...I have to admit that my past self was a reckless fool who misunderstood not only the point of revenge, but how to achieve it.
+**Wanderer:** ...I have to admit that my past self was a reckless fool who misunderstood not only the point of revenge, but how to achieve it.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** And as much as I want my vengeance, I know I'm not gonna get it by acting alone. If the world's taught me anything, it's to think before I act.
+**Wanderer:** And as much as I want my vengeance, I know I'm not gonna get it by acting alone. If the world's taught me anything, it's to think before I act.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Too bad it never taught me any other virtues, though. So, I am going to destroy Dottore, no matter what it takes.
+**Wanderer:** Too bad it never taught me any other virtues, though. So, I am going to destroy Dottore, no matter what it takes.
 
 So, what's your plan?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I'll get to that. First, tell me — what do you think of Sandrone?
+**Wanderer:** I'll get to that. First, tell me — what do you think of Sandrone?
 
 Just like Paimon said... She's a friend. Part of the gang.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** How much do you trust her?
+**Wanderer:** How much do you trust her?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** This is a serious question. Think carefully before you answer.
+**Wanderer:** This is a serious question. Think carefully before you answer.
 
 ...
 
@@ -3310,17 +3310,17 @@ Although she's with the Fatui, she has her own values, and she's helped us a lot
 
 I see no reason not to trust her.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...If you say so.
+**Wanderer:** ...If you say so.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** In that case, the three of us need to talk. I have some thoughts about her computing problem.
+**Wanderer:** In that case, the three of us need to talk. I have some thoughts about her computing problem.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It can be solved — but it will come with a cost.
+**Wanderer:** It can be solved — but it will come with a cost.
 
 How much? If I can afford it, I'll cover it.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Sometimes, your heroism really backs me into a corner, you know that?
+**Wanderer:** ...Sometimes, your heroism really backs me into a corner, you know that?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** C'mon. Let's go talk to her.
+**Wanderer:** C'mon. Let's go talk to her.
 
 #### Talk to Marionette
 
@@ -3380,51 +3380,51 @@ You overestimate me, Albedo...
 
 **Marionette:** Wait, what!? You have a solution?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Would you calm down? Why do you always react so hysterically to everything?
+**Wanderer:** Would you calm down? Why do you always react so hysterically to everything?
 
 **Marionette:** Excuse me? How would you know? You shouldn't be so quick to judge complete strangers, it's very bad manners.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Oh, please. It doesn't take that long to figure out that you have a temper.
+**Wanderer:** Oh, please. It doesn't take that long to figure out that you have a temper.
 
 **Marionette:** (Discarded)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I've actually published more papers than you. Not that status counts for much. Even Paimon's applied for Akademiya admission.
+**Wanderer:** I've actually published more papers than you. Not that status counts for much. Even Paimon's applied for Akademiya admission.
 
 **Marionette:** Huh? Are you serious?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** See? This is why I can't be bothered to explain myself. She recognizes no one's skills but her own.
+**Wanderer:** See? This is why I can't be bothered to explain myself. She recognizes no one's skills but her own.
 
 **Marionette:** Okay, fine. I'll hear you out. So tell me — how do you propose to solve my computing power problem?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** This world itself is constantly processing all kinds of information. If it's the world's future you're trying to calculate, you need a processing device that's designed to cope with that volume.
+**Wanderer:** This world itself is constantly processing all kinds of information. If it's the world's future you're trying to calculate, you need a processing device that's designed to cope with that volume.
 
 **Marionette:** Easier said than done. Only Irminsul can handle that kind of...
 
 **Marionette:** Wait, is that what you're suggesting? But surely we can't just... plug my formula directly into the Ley Lines!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You should be able to tell that I'm not human, right?
+**Wanderer:** You should be able to tell that I'm not human, right?
 
 **Marionette:** Yeah, I noticed. The technology, though... Seems pretty ancient. Very different from Fontaine's. It's a completely different system.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Khaenri'ahn, to be precise. I'm what they would have called a puppet.
+**Wanderer:** Khaenri'ahn, to be precise. I'm what they would have called a puppet.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Puppets need an energy source and processing power. The artisans who built them sought out the materials most suited for that purpose.
+**Wanderer:** Puppets need an energy source and processing power. The artisans who built them sought out the materials most suited for that purpose.
 
 **Marionette:** You... Do you mean...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Traveler and I have talked it over. He's / She's willing to vouch for you, so... I'll allow you to borrow my co{RUBY#[D]computational hub}re for your calculations.
+**Wanderer:** Traveler and I have talked it over. He's / She's willing to vouch for you, so... I'll allow you to borrow my cocomputational hubre for your calculations.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It was built using wood from a silver-white tree, which makes it a small part of Irminsul.
+**Wanderer:** It was built using wood from a silver-white tree, which makes it a small part of Irminsul.
 
 **Marionette:** Khaenri'ahn technology and Irminsul wood... Who in the world could've built you?
 
-**Marionette:** ...Are you sure about this? A puppet without its co{RUBY#[D]computational hub}re will cease functioning completely... and if it's left in that state for too long, it might not recover. You could die if you do this! You do realize that, don't you?
+**Marionette:** ...Are you sure about this? A puppet without its cocomputational hubre will cease functioning completely... and if it's left in that state for too long, it might not recover. You could die if you do this! You do realize that, don't you?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I can put two and two together, yes. No need to rub it in.
+**Wanderer:** I can put two and two together, yes. No need to rub it in.
 
 **Marionette:** I won't lie to you. This has never been done before — I cannot guarantee your safety.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Doesn't matter. I'm prepared for the worst.
+**Wanderer:** Doesn't matter. I'm prepared for the worst.
 
 **Marionette:** Did you two actually talk this through? Is he... Are we really considering this?
 
@@ -3432,11 +3432,11 @@ Yes, we discussed it. The bottom line is, he trusts me, and I trust you.
 
 Let's give it a shot, shall we?
 
-**Marionette:** Honestly, I have no clue where this kid even came from. But for whatever reason, he lent me his co{RUBY#[D]computational hub}re to use in my formula.
+**Marionette:** Honestly, I have no clue where this kid even came from. But for whatever reason, he lent me his cocomputational hubre to use in my formula.
 
 **Marionette:** I'm very close to finishing my calculations now, and the core is currently in use. So I'm sorry, but I can only show you a sketch right now.
 
-**Marionette:** This is what the co{RUBY#[D]computational hub}re looks like.
+**Marionette:** This is what the cocomputational hubre looks like.
 
 **Albedo:** A silver-white branch... It certainly matches the legends told about Irminsul.
 
@@ -3444,9 +3444,9 @@ Let's give it a shot, shall we?
 
 **Paimon:** H—He's not gonna die, right? ...Right?
 
-**Marionette:** In theory, he should be fine — as long as we put his co{RUBY#[D]computational hub}re back in time.
+**Marionette:** In theory, he should be fine — as long as we put his cocomputational hubre back in time.
 
-**Marionette:** Beyond that... All I can say is that I'll try my best to avoid risk and make sure the co{RUBY#[D]computational hub}re doesn't sustain any damage.
+**Marionette:** Beyond that... All I can say is that I'll try my best to avoid risk and make sure the cocomputational hubre doesn't sustain any damage.
 
 **Albedo:** I think I know why you called us here now. Someone needs to watch over his body and make sure it's protected until the process completes.
 
@@ -3464,13 +3464,13 @@ Look after Hat Guy for me.
 
 *You, Paimon, and Durin stand next to Hat Guy, keeping watch over his silent body. You've never seen him in this state before.*
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "The worst case scenario with the co{RUBY#[D]computational hub}re removal is either a system reset, or a total loss of function. But I'm not afraid. A quiet 'death' should have been my fate long ago."
+**Wanderer:** "The worst case scenario with the cocomputational hubre removal is either a system reset, or a total loss of function. But I'm not afraid. A quiet 'death' should have been my fate long ago."
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "Do you think there's any difference between a puppet and a human? If not, then this would just be another samsara."
+**Wanderer:** "Do you think there's any difference between a puppet and a human? If not, then this would just be another samsara."
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "I have already experienced both a past life and a next life."
+**Wanderer:** "I have already experienced both a past life and a next life."
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "Part of me wonders whether I'm only capable of making this decision because I've become a real human... What's with that expression? Isn't this a good thing?"
+**Wanderer:** "Part of me wonders whether I'm only capable of making this decision because I've become a real human... What's with that expression? Isn't this a good thing?"
 
 **Paimon:** Sandrone will succeed, won't she? She has to...
 
@@ -3486,9 +3486,9 @@ She will. We all have to persevere until this is over.
 
 **Marionette:** Hah! Where does a mere student get that kind of confidence?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "A co{RUBY#[D]computational hub}re is completely different from a heart. It's like another vital organ entirely. I never believed it could be a true replacement for what I sought."
+**Wanderer:** "A cocomputational hubre is completely different from a heart. It's like another vital organ entirely. I never believed it could be a true replacement for what I sought."
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** "But in the end, it turns out the core was more useful to me. Haha, pretty funny when you think about it. It's like the punchline of my entire life."
+**Wanderer:** "But in the end, it turns out the core was more useful to me. Haha, pretty funny when you think about it. It's like the punchline of my entire life."
 
 #### Talk to the mysterious person
 
@@ -4772,25 +4772,25 @@ I see. Thank you.
 
 **Paimon:** You're here too, Hat Guy? Are you heading back together?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** No. I'm bound for Sumeru, and she for Fontaine. We just happened to cross paths at the harbor.
+**Wanderer:** No. I'm bound for Sumeru, and she for Fontaine. We just happened to cross paths at the harbor.
 
 - **Traveler:** How are you holding up?
 
 - **Traveler:** How's your core?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Everything seems fine. Sandrone may have an abominable temper, but she's always been very responsible with important calculations, and things entrusted to her by valued friends.
+**Wanderer:** Everything seems fine. Sandrone may have an abominable temper, but she's always been very responsible with important calculations, and things entrusted to her by valued friends.
 
 **The Knave:** You always speak as if you know us inside out, Mr. Hat Guy.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Maybe I'm just a good judge of character?
+**Wanderer:** ...Maybe I'm just a good judge of character?
 
 **The Knave:** I certainly hope that's all there is to it.
 
 **The Knave:** Regardless, you have been a significant help in this matter. For that, you have my gratitude.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Eh... I didn't do anything special...
+**Wanderer:** Eh... I didn't do anything special...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Sandrone's the one who completed a seemingly impossible formula and turned the tide of the entire battle... even giving her life in the process. She's the one we should be thanking.
+**Wanderer:** Sandrone's the one who completed a seemingly impossible formula and turned the tide of the entire battle... even giving her life in the process. She's the one we should be thanking.
 
 **Paimon:** ...
 
@@ -4798,9 +4798,9 @@ I see. Thank you.
 
 **The Knave:** She managed to fool Dottore into thinking the formula was running in her system, by installing a identical-looking decoy within her...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** She probably realized that she didn't have the strength to stop Dottore... but this way, she could at least get him to lower his guard.
+**Wanderer:** She probably realized that she didn't have the strength to stop Dottore... but this way, she could at least get him to lower his guard.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Heh... She always worked like that. Always had a backup plan.
+**Wanderer:** Heh... She always worked like that. Always had a backup plan.
 
 What will happen to her body?
 
@@ -4844,41 +4844,41 @@ It was a group effort by all of her friends.
 
 **The Knave:** Traveler, Paimon, we shall meet again. You too, Hat Guy.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What are you still bumming around for? Isn't Columbina waiting for you?
+**Wanderer:** What are you still bumming around for? Isn't Columbina waiting for you?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I thought today was the day you'd agreed with her to go find out the truth about your sibling.
+**Wanderer:** I thought today was the day you'd agreed with her to go find out the truth about your sibling.
 
 (...)
 
 I'm a little nervous...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You're afraid you won't like the truth when you see it?
+**Wanderer:** You're afraid you won't like the truth when you see it?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hah... Well, this is new. I was starting to think that nothing could scare you.
+**Wanderer:** Hah... Well, this is new. I was starting to think that nothing could scare you.
 
 **Paimon:** Don't say that. Wouldn't you be if you were in this situation?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Fair point. But I'd say I have more experience facing up to unpleasant truths than Traveler.
+**Wanderer:** Fair point. But I'd say I have more experience facing up to unpleasant truths than Traveler.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** They say blood's thicker than water. I know how much you need your family back — more than you need any of your friends. And I'm sure that all your real friends understand that, too.
+**Wanderer:** They say blood's thicker than water. I know how much you need your family back — more than you need any of your friends. And I'm sure that all your real friends understand that, too.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** No matter what the truth turns out to be, they will stick by you and support you, whatever decision you make.
+**Wanderer:** No matter what the truth turns out to be, they will stick by you and support you, whatever decision you make.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Finding the truth is important. But more important still is what you choose to do once you've found it.
+**Wanderer:** Finding the truth is important. But more important still is what you choose to do once you've found it.
 
-{REALNAME[ID(1)|HOSTONLY(true)]}...
+Wanderer...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** At least, that's the life lesson I've learned from my experience grappling with the truth.
+**Wanderer:** At least, that's the life lesson I've learned from my experience grappling with the truth.
 
 Do you feel better now than you used to?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** What, now that Dottore's dead and gone? A little, I guess. But it hasn't solved everything.
+**Wanderer:** What, now that Dottore's dead and gone? A little, I guess. But it hasn't solved everything.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Maybe I regret not getting to end his life with my own hands, or maybe it's something else. But for whatever reason, I still feel like I have a chip on my shoulder.
+**Wanderer:** Maybe I regret not getting to end his life with my own hands, or maybe it's something else. But for whatever reason, I still feel like I have a chip on my shoulder.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Either way, I'm going back to Sumeru. Lesser Lord Kusanali is gonna need help dealing with all the chaos Dottore left in his wake. Not just from this incident, but everything he did in the past, too.
+**Wanderer:** Either way, I'm going back to Sumeru. Lesser Lord Kusanali is gonna need help dealing with all the chaos Dottore left in his wake. Not just from this incident, but everything he did in the past, too.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You should continue with your journey, as you've always done. Who knows? Maybe we'll meet again someplace else.
+**Wanderer:** You should continue with your journey, as you've always done. Who knows? Maybe we'll meet again someplace else.
 
 **Paimon:** So what should we do now? If you wanna explore a bit more to steady those nerves, Paimon's game.
 
@@ -5406,7 +5406,7 @@ We should probably head back...
 
 **「木偶」:** 你回来了？脑袋还在？手脚没断吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 明知故问不会显得你很冷静，好吗？
+**流浪者:** 明知故问不会显得你很冷静，好吗？
 
 **「木偶」:** 笑话！我不冷静吗？
 
@@ -5426,7 +5426,7 @@ We should probably head back...
 
 **「仆人」:** 旅行者与我本就是朋友。你可以选择自己喜欢的身份加入进来，像参加茶会一样。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼，想笑死我？
+**流浪者:** 哼，想笑死我？
 
 **菲林斯:** 阿贝多先生说不需要更多帮手时，我感到相当程度的惊讶。
 
@@ -5434,7 +5434,7 @@ We should probably head back...
 
 **杜林:** 阿帽说他有办法，让我和阿贝多负责在外侧接应，他自己单枪匹马进入能量界域…救出旅行者真是多亏了阿帽。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这种细节不分享也罢。
+**流浪者:** 这种细节不分享也罢。
 
 **菲林斯:** 阿帽先生的实力与气度真叫人佩服。
 
@@ -5904,79 +5904,79 @@ We should probably head back...
 
 （阿帽？他那个表情，是暗示我出去谈谈吗？）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 换个地方说话。
+**流浪者:** 换个地方说话。
 
 #### 与流浪者对话
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你应该知道，多莉很早就动身返回须弥城了。
+**流浪者:** 你应该知道，多莉很早就动身返回须弥城了。
 
 嗯，她说过她要回去一趟。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 挪德卡莱目前的情况非常不乐观。多莉回去是为了把信息带给须弥那边，让所有人趁早做好准备。
+**流浪者:** 挪德卡莱目前的情况非常不乐观。多莉回去是为了把信息带给须弥那边，让所有人趁早做好准备。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 以我对多托雷的了解，现在不行动应该有两个原因。第一，他还在适应全新的力量，第二，他在期待我们做出反应。
+**流浪者:** 以我对多托雷的了解，现在不行动应该有两个原因。第一，他还在适应全新的力量，第二，他在期待我们做出反应。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他迟早会吞并这一切，而且他一定不着急。
+**流浪者:** 他迟早会吞并这一切，而且他一定不着急。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 伪神…上一次是我，这一次是他。即使我的信息从世界树里消失，多托雷的理念也没有改变。
+**流浪者:** 伪神…上一次是我，这一次是他。即使我的信息从世界树里消失，多托雷的理念也没有改变。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 多托雷曾对我说，成神的过程如同化身饿狼或巨蟒吞噬月亮。说明早在着手造神之前，他就研究过月神的力量了。
+**流浪者:** 多托雷曾对我说，成神的过程如同化身饿狼或巨蟒吞噬月亮。说明早在着手造神之前，他就研究过月神的力量了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 到头来，我没能吞下的月亮被他吃了。不管是创造还是成为，他始终觊觎着神的权力。
+**流浪者:** 到头来，我没能吞下的月亮被他吃了。不管是创造还是成为，他始终觊觎着神的权力。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 须弥的沙漠里有赤王阿赫玛尔的棋盘。我不确定那是不是一个游戏，又或者阿赫玛尔只是想给他的臣子与子民们出些难题。
+**流浪者:** 须弥的沙漠里有赤王阿赫玛尔的棋盘。我不确定那是不是一个游戏，又或者阿赫玛尔只是想给他的臣子与子民们出些难题。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 对神而言，创造游戏、建立规则都是理所当然的。多托雷向往的，就是那样的力量。
+**流浪者:** 对神而言，创造游戏、建立规则都是理所当然的。多托雷向往的，就是那样的力量。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 三月的权能确实高于常人太多。比起赶赴前线，各国更该先想办法布置防线，隔断可能从挪德卡莱流出的危险。
+**流浪者:** 三月的权能确实高于常人太多。比起赶赴前线，各国更该先想办法布置防线，隔断可能从挪德卡莱流出的危险。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 多莉会尽快将现状告知小吉祥草王，她也会通知到其他神明。
+**流浪者:** 多莉会尽快将现状告知小吉祥草王，她也会通知到其他神明。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 七执政还是有点办法的。至少，神明的守护可以让挪德卡莱之外的地方不那么快陷入困境。
+**流浪者:** 七执政还是有点办法的。至少，神明的守护可以让挪德卡莱之外的地方不那么快陷入困境。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 就算挪德卡莱消失，你其他国家的朋友也不会那么轻易被消灭。多少算是件好事吧。
+**流浪者:** 就算挪德卡莱消失，你其他国家的朋友也不会那么轻易被消灭。多少算是件好事吧。
 
 你说得没错，但我也不希望挪德卡莱消失。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 什么都不愿失去的人多少有些贪婪。
+**流浪者:** 什么都不愿失去的人多少有些贪婪。
 
 我知道自己的想法听起来既天真又贪心，可不这样，我就无法继续坚持战斗下去。
 
 战斗只是片刻，战斗的心却是持久的。只要有一瞬间放弃，人的意志就会垮掉。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 为什么非要做好每一件事？没有谁是注定要去拯救什么的，不是吗？
+**流浪者:** 为什么非要做好每一件事？没有谁是注定要去拯救什么的，不是吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 再说，谁会因为你做得不好谴责你？
+**流浪者:** 再说，谁会因为你做得不好谴责你？
 
 这么说有些抱歉…其实，多托雷也对我说了类似的话。看来你们这些在愚人众工作过的都不相信救世主。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这倒未必。比起不相信，我更想知道你的态度有多坚决。毕竟留下的这些人中，我只欠你人情，不欠他们的。
+**流浪者:** 这倒未必。比起不相信，我更想知道你的态度有多坚决。毕竟留下的这些人中，我只欠你人情，不欠他们的。
 
 你看起来很担心。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 如果你的仇人即将成功，你也会着急。
+**流浪者:** 如果你的仇人即将成功，你也会着急。
 
 （仇人即将成为全知全能的神明…这种滋味简直糟糕透了。）
 
 不过，你比我想得冷静。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这是当然的。
+**流浪者:** 这是当然的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …时至今日，不得不承认，过去的我鲁莽又愚蠢，误判了所谓复仇的意义与方式。
+**流浪者:** …时至今日，不得不承认，过去的我鲁莽又愚蠢，误判了所谓复仇的意义与方式。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 而眼下已经不是单枪匹马可以解决的情况了。假如世界教会了我什么，大概就是要反思自己和学会变通吧。
+**流浪者:** 而眼下已经不是单枪匹马可以解决的情况了。假如世界教会了我什么，大概就是要反思自己和学会变通吧。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但世界没有教我别的美德，也不需要我去学习那些。所以，我依然要毁了多托雷，无论以什么方式。
+**流浪者:** 但世界没有教我别的美德，也不需要我去学习那些。所以，我依然要毁了多托雷，无论以什么方式。
 
 你打算怎么做？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 在那之前，告诉我，你跟桑多涅关系怎么样？
+**流浪者:** 在那之前，告诉我，你跟桑多涅关系怎么样？
 
 就像刚才说的…是同伴。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你对她的信任有多少？
+**流浪者:** 你对她的信任有多少？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这个问题非常重要，好好想一想再给我答案。
+**流浪者:** 这个问题非常重要，好好想一想再给我答案。
 
 ……
 
@@ -5984,17 +5984,17 @@ We should probably head back...
 
 我认为，没有理由不去信任这样的人。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …是吗。
+**流浪者:** …是吗。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 那我们三个人最好一起坐下来谈谈。她烦恼的算力问题，我有些想法。
+**流浪者:** 那我们三个人最好一起坐下来谈谈。她烦恼的算力问题，我有些想法。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这件事不是不能解决，就是需要相应的代价。
+**流浪者:** 这件事不是不能解决，就是需要相应的代价。
 
 我付得起吗？如果付得起的话，就拿走吧。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …你身上这种英雄气概有时真让我无奈。
+**流浪者:** …你身上这种英雄气概有时真让我无奈。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 走吧，去找桑多涅。
+**流浪者:** 走吧，去找桑多涅。
 
 #### 与「木偶」对话
 
@@ -6054,51 +6054,51 @@ We should probably head back...
 
 **「木偶」:** 你说什么？！你有办法？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 还真是一惊一乍啊，怎么老这样？
+**流浪者:** 还真是一惊一乍啊，怎么老这样？
 
 **「木偶」:** 什么叫老这样？我们很熟吗？注意你的教养，别随便评价陌生人。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你这种脾气又不需要花很长时间来观察。
+**流浪者:** 你这种脾气又不需要花很长时间来观察。
 
 **「木偶」:** （废弃）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我发表过的论文肯定比你多。再说，身份不能说明问题，派蒙还在教令院申请了学籍呢。
+**流浪者:** 我发表过的论文肯定比你多。再说，身份不能说明问题，派蒙还在教令院申请了学籍呢。
 
 **「木偶」:** 哈？真的？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你看，这就是为什么我懒得说这些。她心里只认自己的技术。
+**流浪者:** 你看，这就是为什么我懒得说这些。她心里只认自己的技术。
 
 **「木偶」:** 给你一个机会好了。说说看，缺的算力上哪去补？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这个世界本身也始终处理着各类信息。你想计算世界的未来，就需要足以承载这一切的信息处理装置。
+**流浪者:** 这个世界本身也始终处理着各类信息。你想计算世界的未来，就需要足以承载这一切的信息处理装置。
 
 **「木偶」:** 说得好听。能承载整个世界信息的事物，除了世界树还能是…
 
 **「木偶」:** 等等，你的意思是——世界树？可是，我们总不能把术式连接到地脉上吧！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你应该看得出来我不是人类吧。
+**流浪者:** 你应该看得出来我不是人类吧。
 
 **「木偶」:** 并不难发现。技术嘛…似乎很古早，与枫丹机械截然不同，体系天差地别。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这是来自坎瑞亚的技术，我是一个人偶。
+**流浪者:** 这是来自坎瑞亚的技术，我是一个人偶。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 人偶必须有赖以为生的供能与解算部件。为此，工匠们寻找最合适的材料。
+**流浪者:** 人偶必须有赖以为生的供能与解算部件。为此，工匠们寻找最合适的材料。
 
 **「木偶」:** 你…难道…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 旅行者和我谈过了。他 / 她愿意为你做担保，所以…我允许你借用我的核{RUBY#[D]解算中枢}心来运算。
+**流浪者:** 旅行者和我谈过了。他 / 她愿意为你做担保，所以…我允许你借用我的核解算中枢心来运算。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 它由纯白的树木制成，是世界树的一小部分。
+**流浪者:** 它由纯白的树木制成，是世界树的一小部分。
 
 **「木偶」:** 坎瑞亚的技术，和世界树？这世界上到底有谁能做出这样的产物…
 
-**「木偶」:** …你认真的？移除了核{RUBY#[D]解算中枢}心的人偶将完全丧失动力，长期维持那种状态可能会彻底报废，等同于死亡！你应该清楚吧？
+**「木偶」:** …你认真的？移除了核解算中枢心的人偶将完全丧失动力，长期维持那种状态可能会彻底报废，等同于死亡！你应该清楚吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这种常识就不用强调了。
+**流浪者:** 这种常识就不用强调了。
 
 **「木偶」:** 我丑话说在前面，这种事谁也没干过，我不能保证项目的安全性！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 无所谓。我有心理准备。
+**流浪者:** 无所谓。我有心理准备。
 
 **「木偶」:** 你们真的谈过吗？他…他真的要…
 
@@ -6106,11 +6106,11 @@ We should probably head back...
 
 试试吧。
 
-**「木偶」:** 说真的，我不知道这小子有什么来头，但为了术式，他把自己维持运转的核{RUBY#[D]解算中枢}心借给了我。
+**「木偶」:** 说真的，我不知道这小子有什么来头，但为了术式，他把自己维持运转的核解算中枢心借给了我。
 
 **「木偶」:** 术式完成在即，东西我已经用上了。所以不好意思，目前只能给你们看一下手绘图。
 
-**「木偶」:** 他的核{RUBY#[D]解算中枢}心长这样。
+**「木偶」:** 他的核解算中枢心长这样。
 
 **阿贝多:** 纯白的枝干…确实与传说中的世界树相同。
 
@@ -6118,9 +6118,9 @@ We should probably head back...
 
 **派蒙:** 他、他不会死掉吧？不会的吧？
 
-**「木偶」:** 按理说，只要能及时放回核{RUBY#[D]解算中枢}心，他就不会有事。
+**「木偶」:** 按理说，只要能及时放回核解算中枢心，他就不会有事。
 
-**「木偶」:** 其他的嘛…我只能说，我会尽力规避风险，保证他的核{RUBY#[D]解算中枢}心不受损。
+**「木偶」:** 其他的嘛…我只能说，我会尽力规避风险，保证他的核解算中枢心不受损。
 
 **阿贝多:** 计算进程结束前，他的躯体都需要被保护起来，所以才叫我们过来。
 
@@ -6138,13 +6138,13 @@ We should probably head back...
 
 *你、派蒙和杜林一同在阿帽身边，看着这具沉默的躯体。这是你们第一次这样跟他相处。*
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「取出核{RUBY#[D]解算中枢}心最坏的情况，大概就是重置或彻底报废吧。但我反而不害怕。寂静之『死』，是我早就该承担的责任。」
+**流浪者:** 「取出核解算中枢心最坏的情况，大概就是重置或彻底报废吧。但我反而不害怕。寂静之『死』，是我早就该承担的责任。」
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「你觉得人偶和人有区别吗？假如没有，那这些事对一个人来说，无非是再轮回一次。」
+**流浪者:** 「你觉得人偶和人有区别吗？假如没有，那这些事对一个人来说，无非是再轮回一次。」
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「所谓的『前生』或『他生』，我早就经历过了。」
+**流浪者:** 「所谓的『前生』或『他生』，我早就经历过了。」
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「又或者，我大概已经成为了真正的人，才会做出这种决定。你那是什么表情？这不是最好的事吗？」
+**流浪者:** 「又或者，我大概已经成为了真正的人，才会做出这种决定。你那是什么表情？这不是最好的事吗？」
 
 **派蒙:** 桑多涅一定会成功的，对不对？
 
@@ -6160,9 +6160,9 @@ We should probably head back...
 
 **「木偶」:** 呵呵，一个教令院学生，竟敢夸下这般海口？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「核{RUBY#[D]解算中枢}心与所谓的『心』截然不同，更像是其他重要器官，我一直不觉得它能替代我追求的事物。」
+**流浪者:** 「核解算中枢心与所谓的『心』截然不同，更像是其他重要器官，我一直不觉得它能替代我追求的事物。」
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「结果到头来，还是它最有用。哈哈，不错的笑话，很适合我。」
+**流浪者:** 「结果到头来，还是它最有用。哈哈，不错的笑话，很适合我。」
 
 #### 与神秘人对话
 
@@ -7446,25 +7446,25 @@ We should probably head back...
 
 **派蒙:** 咦？阿帽也在？你们要一起回去吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不。我回须弥，她回枫丹。我们只是在港口碰到了而已。
+**流浪者:** 不。我回须弥，她回枫丹。我们只是在港口碰到了而已。
 
 - **旅行者:** 你身体还好吗？
 
 - **旅行者:** 你的核心没事吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 没事。尽管桑多涅平时的脾气很差，但她在对待重要的计算，和重要的朋友托付的事时，向来都一丝不苟。
+**流浪者:** 没事。尽管桑多涅平时的脾气很差，但她在对待重要的计算，和重要的朋友托付的事时，向来都一丝不苟。
 
 **「仆人」:** 你总是会说一些看起来很了解我们的话，阿帽先生。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …说不定只是我很会看人呢？
+**流浪者:** …说不定只是我很会看人呢？
 
 **「仆人」:** 希望真的只是如此。
 
 **「仆人」:** 但不论如何，你的确在此次事件中帮了我们许多忙。向你表示感谢。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不…我没做什么了不起的事。
+**流浪者:** 不…我没做什么了不起的事。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 真正完成了那个近乎不可能的术式，扭转了战局…甚至为此献出了所有的…是桑多涅。
+**流浪者:** 真正完成了那个近乎不可能的术式，扭转了战局…甚至为此献出了所有的…是桑多涅。
 
 **派蒙:** ……
 
@@ -7472,9 +7472,9 @@ We should probably head back...
 
 **「仆人」:** 为了欺骗多托雷，她甚至在自己的身体中安插了一个外观相同的「幌子」…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 她一定是想…如果自己无法阻止多托雷，那至少也得让他放松警惕。
+**流浪者:** 她一定是想…如果自己无法阻止多托雷，那至少也得让他放松警惕。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哈…总是留有后手。还真是她的风格…
+**流浪者:** 哈…总是留有后手。还真是她的风格…
 
 关于桑多涅的遗体…
 
@@ -7518,41 +7518,41 @@ We should probably head back...
 
 **「仆人」:** 旅行者，派蒙，还有阿帽先生。我们后会有期。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们还在这里干嘛？哥伦比娅不是在等你们吗？
+**流浪者:** 你们还在这里干嘛？哥伦比娅不是在等你们吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我记得今天是你和她约定好的，知晓关于你血亲的真相的日子。
+**流浪者:** 我记得今天是你和她约定好的，知晓关于你血亲的真相的日子。
 
 （……）
 
 我有些紧张…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 怕「真相」不是自己想要的？
+**流浪者:** 怕「真相」不是自己想要的？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哈…没想到你也会有害怕的时候。这倒是新鲜。
+**流浪者:** 哈…没想到你也会有害怕的时候。这倒是新鲜。
 
 **派蒙:** 你也别这么说嘛，换你你肯定也害怕。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 说的没错。但比起旅行者来说，我在知晓过去「不愉快的真相」这方面，可比他 / 她有经验得多。
+**流浪者:** 说的没错。但比起旅行者来说，我在知晓过去「不愉快的真相」这方面，可比他 / 她有经验得多。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我想，了解你的朋友都知道。比起「友情」，你更需要的是「亲情」。
+**流浪者:** 我想，了解你的朋友都知道。比起「友情」，你更需要的是「亲情」。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但不论你得到的真相如何，真正的朋友都会站在你身边，支持你的决定。
+**流浪者:** 但不论你得到的真相如何，真正的朋友都会站在你身边，支持你的决定。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 重要的或许不是真相本身，而是你知晓它后会怎么做。
+**流浪者:** 重要的或许不是真相本身，而是你知晓它后会怎么做。
 
-{REALNAME[ID(1)|HOSTONLY(true)]}…
+流浪者…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这是我从比你稍多一些的，关于「真相」的人生经历中学到的东西。
+**流浪者:** 这是我从比你稍多一些的，关于「真相」的人生经历中学到的东西。
 
 你现在心里好受些了吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 是说多托雷死掉之后吗？嗯，好些吧。但也没有那么舒坦。
+**流浪者:** 是说多托雷死掉之后吗？嗯，好些吧。但也没有那么舒坦。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不知道是后悔没有亲手杀了他，还是其他什么，心里总觉得膈应。
+**流浪者:** 不知道是后悔没有亲手杀了他，还是其他什么，心里总觉得膈应。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 总之我会先回须弥，辅助小吉祥草王处理多托雷留下的麻烦，不论是这次的还是过去的。
+**流浪者:** 总之我会先回须弥，辅助小吉祥草王处理多托雷留下的麻烦，不论是这次的还是过去的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你就同过去一样，继续踏上属于你的旅途吧。说不定我们会在其他地方再次相见。
+**流浪者:** 你就同过去一样，继续踏上属于你的旅途吧。说不定我们会在其他地方再次相见。
 
 **派蒙:** 那我们接下来怎么办？你要是紧张得还想再多逛逛的话，我现在也可以多陪陪你。
 

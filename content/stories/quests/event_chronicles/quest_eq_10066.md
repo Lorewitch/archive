@@ -13,8 +13,8 @@
 # part_source_ids: 40056
 # previous_quests: quest_eq_10065
 # next_quests: quest_eq_10067
-# related_quests: quest_eq_10065,quest_eq_10067,quest_eq_10068,quest_wq_72278,quest_wq_72279,quest_wq_72280,quest_wq_72281,quest_wq_72685,quest_wq_72686,quest_wq_72687,quest_wq_72688,quest_wq_72689,quest_wq_72690,quest_wq_72691,quest_wq_72692,quest_wq_72693,quest_wq_72698,quest_wq_72699,quest_wq_72720,quest_wq_72721
-# quest_chain: quest_eq_10065,quest_eq_10066,quest_eq_10067,quest_eq_10068,quest_wq_72278,quest_wq_72279,quest_wq_72280,quest_wq_72281,quest_wq_72685,quest_wq_72686,quest_wq_72687,quest_wq_72688,quest_wq_72689,quest_wq_72690,quest_wq_72691,quest_wq_72692,quest_wq_72693,quest_wq_72698,quest_wq_72699,quest_wq_72720,quest_wq_72721
+# related_quests: quest_eq_10065,quest_eq_10067,quest_eq_10068
+# quest_chain: quest_eq_10065,quest_eq_10066,quest_eq_10067,quest_eq_10068
 # quest_series: Hues of the Violet Garden || True Tales of the Violet Garden
 # version_source: wiki_release_category
 

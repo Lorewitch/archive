@@ -3,13 +3,13 @@
 # title_ru: Художник - друг Луны. Часть III
 # title_en: The Artist By the Moon's Side (III)
 # title_zh: 伴月的小画家·其三
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.1
 # release_versions: 6.1
 # source_id: 76060
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76060
 # previous_quests: quest_wq_76049,quest_wq_76084
 # next_quests: quest_wq_76052

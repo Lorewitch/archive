@@ -12,7 +12,7 @@
 # chapter_num_zh: 尤潘基的回火 第三幕
 # part_source_ids: 15002,15003,15004
 # previous_quests: quest_lq_2053
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2052,quest_lq_2053
 # quest_chain: quest_lq_2052,quest_lq_2053,quest_lq_2054
 # quest_series: Yupanqui's Turnfire
@@ -104,7 +104,7 @@
 
 **Тринидад:** Рад это слышать. У меня тоже всё довольно гладко. Многие старейшины, включая вождя, наслышаны о ваших подвигах. Все они отзываются о вас очень хорошо.
 
-**Тринидад:** Хотя некоторые и настаивают на том, что церемонию должен проводить носитель имени Мал{RUBY#[D]Пламя поворота}ипо, но их взгляды давно устарели. Мы должны двигаться в ногу со временем.
+**Тринидад:** Хотя некоторые и настаивают на том, что церемонию должен проводить носитель имени МалПламя поворотаипо, но их взгляды давно устарели. Мы должны двигаться в ногу со временем.
 
 **Паймон:** Да и Кинич не хочет этим заниматься...
 
@@ -536,7 +536,7 @@
 
 **Понче:** Я потратил годы своей жизни ради этой книги... Я посетил все руины, взял интервью у каждого потомка каждого героя нашей истории...
 
-**Понче:** Только по одному слову «Мал{RUBY#[D]Пламя поворота}ипо» я нашёл не менее пяти различных толкований его значения, основанных на рассказах из разных деревень.
+**Понче:** Только по одному слову «МалПламя поворотаипо» я нашёл не менее пяти различных толкований его значения, основанных на рассказах из разных деревень.
 
 **Тьяго:** Беспрецедентный шедевр!
 
@@ -648,7 +648,7 @@
 
 **Ахав:** Радость? Что за радость в этой бессмысленной чепухе?
 
-**Эндзё:** Что ж, это довольно шокирующее предсказание: каждый носитель древнего имени «Мал{RUBY#[D]Пламя поворота}ипо» в конце концов встретит мрачный конец. Может быть, такова цена, которую приходится платить за имя, само значение которого «цена»?
+**Эндзё:** Что ж, это довольно шокирующее предсказание: каждый носитель древнего имени «МалПламя поворотаипо» в конце концов встретит мрачный конец. Может быть, такова цена, которую приходится платить за имя, само значение которого «цена»?
 
 **Ахав:** Что? Ты хочешь сказать, что Кинич умрёт насильственной смертью? ...Мву-ха-ха-ха! Значит, я наконец-то смогу заполучить его тело?
 
@@ -684,11 +684,11 @@
 
 **Паймон:** Правда? И что же ты выяснил в ходе своего исследования?
 
-**Понче:** Я думаю, что ключ ко всему заключён в силе Мал{RUBY#[D]Пламя поворота}ипо...
+**Понче:** Я думаю, что ключ ко всему заключён в силе МалПламя поворотаипо...
 
 **Тьяго:** Понче, ты не хуже других знаешь, что древние имена не обладают реальной силой. Символическая сила не в счёт.
 
-**Понче:** Ты прав, но Мал{RUBY#[D]Пламя поворота}ипо - особый случай. Учитывая, что оно впервые возникло в эпоху первого Пиро Архонта, в нём могут содержаться остатки силы Шбаланке.
+**Понче:** Ты прав, но МалПламя поворотаипо - особый случай. Учитывая, что оно впервые возникло в эпоху первого Пиро Архонта, в нём могут содержаться остатки силы Шбаланке.
 
 **Тьяго:** Да, я помню эту историю. Мой дедушка рассказывал её мне, когда я был маленьким...
 
@@ -700,7 +700,7 @@
 
 **Понче:** Например, то, что Горный король до сих пор жив. Все приписывают это силе Бездны, но на самом деле всё не так просто.
 
-**Понче:** Главное, что Буркина призвал силу Мал{RUBY#[D]Пламя поворота}ипо ценой собственной жизни.
+**Понче:** Главное, что Буркина призвал силу МалПламя поворотаипо ценой собственной жизни.
 
 **Понче:** Если вы мне не верите, тогда ответьте вот на какой вопрос: сколько ещё существ, которые жили дольше, а не меньше после заражения Бездной, вы можете вспомнить?
 
@@ -708,7 +708,7 @@
 
 Тсс...
 
-**Понче:** Итак, я пришёл к выводу, что Мал{RUBY#[D]Пламя поворота}ипо представляет собой некий мистический ритуал обмена.
+**Понче:** Итак, я пришёл к выводу, что МалПламя поворотаипо представляет собой некий мистический ритуал обмена.
 
 **Понче:** Он восходит к первому Пиро Архонту, пал вместе с Великим Альянсом, затем был похоронен в Царстве Ночи... И вот теперь он ждёт призыва своего нового носителя.
 
@@ -968,7 +968,7 @@
 
 **Понче:** Хотя я надеялся, что эту церемонию проведёт носитель имени Малипо, но это не из-за вас. Так что, пожалуйста, не принимайте это на свой счёт.
 
-**Понче:** Я думал об этом прошлой ночью и понял: если Мал{RUBY#[D]Пламя поворота}ипо учит нас смотреть вперёд, то я должен принять пропажу моей книги и начать заново.
+**Понче:** Я думал об этом прошлой ночью и понял: если МалПламя поворотаипо учит нас смотреть вперёд, то я должен принять пропажу моей книги и начать заново.
 
 **Понче:** К тому же мне теперь ещё много о чём написать надо, ведь это будет первая церемония Ночи Пламени поворота, где огненосец из другой страны.
 
@@ -1110,7 +1110,7 @@
 
 **Кинич:** А когда я умру, Ахав получит моё тело. Такова цена.
 
-**Кинич:** Очень странно, да? Наверное, тогда я впервые по-настоящему осознал, что значит платить «цену». А подписав договор, я получил древнее имя Мал{RUBY#[D]Пламя поворота}ипо.
+**Кинич:** Очень странно, да? Наверное, тогда я впервые по-настоящему осознал, что значит платить «цену». А подписав договор, я получил древнее имя МалПламя поворотаипо.
 
 **Кинич:** Но это уже совсем другая история. Если интересно, можем поговорить об этом в другой раз.
 
@@ -1250,7 +1250,7 @@
 
 **Уайна:** Ха-ха, я хотя и вождь этого племени, но с Пламенем поворота знаком только как с понятием из наших легенд. Я не могу ответить на этот вопрос.
 
-**Уайна:** Если кто и может ответить на него, то, думаю, это носитель имени Мал{RUBY#[D]Пламя поворота}ипо. Сейчас он находится в пещере Горного короля.
+**Уайна:** Если кто и может ответить на него, то, думаю, это носитель имени МалПламя поворотаипо. Сейчас он находится в пещере Горного короля.
 
 **Паймон:** А... Кинич, то есть. Да, Паймон очень интересно, как у него дела... Может, пойдём посмотрим?
 
@@ -1478,7 +1478,7 @@ Okay. We'll be there.
 
 **Trinidad:** Glad to hear it. Things are progressing very smoothly on my end. Many of the elders have heard of your heroic deeds, including the chief. They all speak very favorably of you.
 
-**Trinidad:** There are still those who insist that the ceremony should be performed by the bearer of the Mal{RUBY#[D]Turnfire}ipo name, but they're just stuck in the past. We need to move with the times.
+**Trinidad:** There are still those who insist that the ceremony should be performed by the bearer of the MalTurnfireipo name, but they're just stuck in the past. We need to move with the times.
 
 **Paimon:** Plus, Kinich doesn't wanna do it anyway...
 
@@ -1910,7 +1910,7 @@ It's a little on the small side...
 
 **Ponche:** I spent years of my life researching that book... I visited every last ruin, interviewed every descendant of every hero in our history...
 
-**Ponche:** On the word "Mal{RUBY#[D]Turnfire}ipo" alone, I covered at least five different interpretations of the meaning, based on accounts from different villages.
+**Ponche:** On the word "MalTurnfireipo" alone, I covered at least five different interpretations of the meaning, based on accounts from different villages.
 
 **Thiago:** It was an unparalleled masterpiece!
 
@@ -2022,7 +2022,7 @@ Let's go back to where we were and see if we can find anything.
 
 **Ajaw:** Joy? What joy is there in this pointless drivel?
 
-**Enjou:** Well, it makes a pretty shocking prediction: Every bearer of the ancient name "Mal{RUBY#[D]Turnfire}ipo" eventually meets a grisly end. Maybe that's the price you pay for the name that means "price"?
+**Enjou:** Well, it makes a pretty shocking prediction: Every bearer of the ancient name "MalTurnfireipo" eventually meets a grisly end. Maybe that's the price you pay for the name that means "price"?
 
 **Ajaw:** What? You're saying, Kinich will die a violent death? ...Mwuhahaha! So I'll finally get to take over his body?
 
@@ -2058,11 +2058,11 @@ You mean... You solved the Mountain King problem?
 
 **Paimon:** Ooh, really? So what did you find out in your research?
 
-**Ponche:** I think the key to all of this lies in the power of "Mal{RUBY#[D]Turnfire}ipo"...
+**Ponche:** I think the key to all of this lies in the power of "MalTurnfireipo"...
 
 **Thiago:** ...Ponche, you know as well as anyone that ancient names don't hold any real power. Symbolic power doesn't count.
 
-**Ponche:** You're right, but "Mal{RUBY#[D]Turnfire}ipo" may be a special case. Given that it first arose in the era of the First Pyro Archon, it might contain remnants of Xbalanque's power.
+**Ponche:** You're right, but "MalTurnfireipo" may be a special case. Given that it first arose in the era of the First Pyro Archon, it might contain remnants of Xbalanque's power.
 
 **Thiago:** Yeah, I remember that story — my grandpa told it to me when I was a little kid...
 
@@ -2074,7 +2074,7 @@ You mean... You solved the Mountain King problem?
 
 **Ponche:** Like the fact that the Mountain King is still alive. Everyone attributes that to the power of the Abyss, but there's more to it than that.
 
-**Ponche:** The key factor is that Burkina summoned the power of "Mal{RUBY#[D]Turnfire}ipo," at the cost of his own life.
+**Ponche:** The key factor is that Burkina summoned the power of "MalTurnfireipo," at the cost of his own life.
 
 **Ponche:** If you don't believe me, then answer me this: How many other creatures can you think of who lived longer, not shorter, after being contaminated by the Abyss?
 
@@ -2082,7 +2082,7 @@ You mean... You solved the Mountain King problem?
 
 Shh!
 
-**Ponche:** So, I came to the conclusion that "Mal{RUBY#[D]Turnfire}ipo" must refer to some mysterious ritual involving a tit-for-tat exchange.
+**Ponche:** So, I came to the conclusion that "MalTurnfireipo" must refer to some mysterious ritual involving a tit-for-tat exchange.
 
 **Ponche:** It began with the first Pyro Archon, fell with the Grand Alliance, then was buried in the Night Kingdom... And now, it awaits the call of its new bearer.
 
@@ -2342,7 +2342,7 @@ Having finished your preparations, the last Turnfire Night approaches...
 
 **Ponche:** Although I'd hoped for the Malipo name-bearer to perform this ceremony, that was never anything to do with you. So please don't take it personally.
 
-**Ponche:** I got thinking last night, and I realized: If the lesson of Mal{RUBY#[D]Turnfire}ipo is to look forwards, then I should accept that my book is gone, and start anew.
+**Ponche:** I got thinking last night, and I realized: If the lesson of MalTurnfireipo is to look forwards, then I should accept that my book is gone, and start anew.
 
 **Ponche:** Besides, I'll have even more to write about this time, given this will be our first Turnfire ceremony featuring a flame bearer from another land.
 
@@ -2484,7 +2484,7 @@ Yeah, we're ready to go.
 
 **Kinich:** And after I die, Ajaw gets control of my body. That's the price.
 
-**Kinich:** Crazy, isn't it? That was probably the first time I really appreciated what it meant to pay a "price." Then, once I signed the contract, I received the ancient name "Mal{RUBY#[D]Turnfire}ipo."
+**Kinich:** Crazy, isn't it? That was probably the first time I really appreciated what it meant to pay a "price." Then, once I signed the contract, I received the ancient name "MalTurnfireipo."
 
 **Kinich:** But that's a whole other story. We can get into it another time, if you're interested.
 
@@ -2624,7 +2624,7 @@ Was it really just the power of the sacred flame?
 
 **Wayna:** Haha, I may be the chief of this tribe, but I've only ever known the Turnfire as a concept in our legends. I cannot answer that question.
 
-**Wayna:** If anyone can answer it, I suspect it would be the bearer of the Mal{RUBY#[D]Turnfire}ipo name. He is in the Mountain King's cave as we speak.
+**Wayna:** If anyone can answer it, I suspect it would be the bearer of the MalTurnfireipo name. He is in the Mountain King's cave as we speak.
 
 **Paimon:** Ah... So, Kinich then. Why don't we go see how he's doing?
 
@@ -2852,7 +2852,7 @@ I still need time to prepare.
 
 **特立尼达:** 那就好。我这边的进展也很顺利，不少长老都听说过您的事迹，包括首领在内，都对您表示了认可。
 
-**特立尼达:** 虽然也还有人坚持仪式应由「马{RUBY#[D]回火}力卜」的继承者来主持，但这种想法实在陈旧，我们得与时俱进。
+**特立尼达:** 虽然也还有人坚持仪式应由「马回火力卜」的继承者来主持，但这种想法实在陈旧，我们得与时俱进。
 
 **派蒙:** 基尼奇好像自己也不想来…
 
@@ -3284,7 +3284,7 @@ I still need time to prepare.
 
 **庞塞:** 我为了这本书，花费了几年时间，什么遗迹我都去过，什么英雄后代我都走访过。
 
-**庞塞:** 光是不同村落对「马{RUBY#[D]回火}力卜」的不同释义我就记录了超过五种。
+**庞塞:** 光是不同村落对「马回火力卜」的不同释义我就记录了超过五种。
 
 **蒂亚戈:** 无与伦比，重磅巨著！
 
@@ -3396,7 +3396,7 @@ I still need time to prepare.
 
 **阿乔:** 好笑，有什么趣味？
 
-**渊上:** 它给出了一个令人震惊的预示：持有古名「马{RUBY#[D]回火}力卜」的人最后会死于非命。难道这是代价本身的代价？
+**渊上:** 它给出了一个令人震惊的预示：持有古名「马回火力卜」的人最后会死于非命。难道这是代价本身的代价？
 
 **阿乔:** 什么意思？是说基尼奇会死于非命？哈哈哈！终于可以占据他的身体了吗？
 
@@ -3432,11 +3432,11 @@ I still need time to prepare.
 
 **派蒙:** 真的吗？庞塞先生，你有什么办法？！
 
-**庞塞:** 我想关键就在于「马{RUBY#[D]回火}力卜」的力量…
+**庞塞:** 我想关键就在于「马回火力卜」的力量…
 
 **蒂亚戈:** 庞塞老兄，大家都知道，古名是没有力量的，嗯…精神力量不算。
 
-**庞塞:** 你说得没错，但「马{RUBY#[D]回火}力卜」不一样。它起源于最初火神的年代…它很可能包含了希巴拉克大人的力量残留。
+**庞塞:** 你说得没错，但「马回火力卜」不一样。它起源于最初火神的年代…它很可能包含了希巴拉克大人的力量残留。
 
 **蒂亚戈:** 好像小时候听祖父这样讲过…
 
@@ -3448,7 +3448,7 @@ I still need time to prepare.
 
 **庞塞:** 证据就是山王大人活到了现在。大家都认为这是深渊造成的，但那只是其中一个因素。
 
-**庞塞:** 更关键的是英雄布基纳召唤了「马{RUBY#[D]回火}力卜」的力量，代价就是他自己的生命。
+**庞塞:** 更关键的是英雄布基纳召唤了「马回火力卜」的力量，代价就是他自己的生命。
 
 **庞塞:** 你们不信的话，不妨想想：被深渊力量污染后，生命却得到了延长，这是一种普遍现象吗？
 
@@ -3456,7 +3456,7 @@ I still need time to prepare.
 
 嘘…
 
-**庞塞:** 所以我的结论是：「马{RUBY#[D]回火}力卜」代表某种神秘的代价交换仪式。
+**庞塞:** 所以我的结论是：「马回火力卜」代表某种神秘的代价交换仪式。
 
 **庞塞:** 它来源于最初的火神大人，随着大联盟时代的覆灭一同被葬入夜神之国，如今正等待着古名持有者的召唤…
 
@@ -3716,7 +3716,7 @@ I still need time to prepare.
 
 **庞塞:** 虽然之前我一直希望由古名的持有者来主持仪式，但那不是对你们有意见，你们可别有心理负担。
 
-**庞塞:** 昨晚我也想明白了，「马{RUBY#[D]回火}力卜」有教导人们向前看的含义。既然我的心血已经找不回来了，那为什么不重新开始呢？
+**庞塞:** 昨晚我也想明白了，「马回火力卜」有教导人们向前看的含义。既然我的心血已经找不回来了，那为什么不重新开始呢？
 
 **庞塞:** 更何况，今晚还是第一次由外乡人主持的回火夜，有了这个，新的作品一定会变得更加丰富。
 
@@ -3858,7 +3858,7 @@ I still need time to prepare.
 
 **基尼奇:** 而作为代价，在我死后，我的身体将交给阿乔使用。
 
-**基尼奇:** 很离奇吧？那可能是我第一次深刻理解代价的含义，在与阿乔签订契约后，我就获得了古名「马{RUBY#[D]回火}力卜」。
+**基尼奇:** 很离奇吧？那可能是我第一次深刻理解代价的含义，在与阿乔签订契约后，我就获得了古名「马回火力卜」。
 
 **基尼奇:** 但这个是另外的故事了，如果以后有时间，我们可以好好聊聊。
 
@@ -3998,7 +3998,7 @@ I still need time to prepare.
 
 **瓦伊纳:** 呵呵，虽然我是悬木人的首领，但回火对我而言，从来都只是出现在故事里的两个字。所以我没法回答这个问题。
 
-**瓦伊纳:** 但「马{RUBY#[D]回火}力卜」的持有者现在就在山王的洞穴那边，或许他能回答你们。
+**瓦伊纳:** 但「马回火力卜」的持有者现在就在山王的洞穴那边，或许他能回答你们。
 
 **派蒙:** 啊…是基尼奇，不知道他怎么样了，旅行者，要不我们过去找找他吧？
 

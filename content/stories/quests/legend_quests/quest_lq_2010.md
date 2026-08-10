@@ -3,7 +3,7 @@
 # title_ru: Что говорят звёзды этого мира
 # title_en: Beyond This World's Stars
 # title_zh: 在此世的星空之外
-# region: Мондштадт, Ли Юэ
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2010
@@ -11,11 +11,11 @@
 # chapter_num_en: Astrolabos Chapter: Act I
 # chapter_num_zh: 映天之章 第一幕
 # part_source_ids: 10500,10501,10502
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2010
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -2012,7 +2012,7 @@ Yup. Dendro Slimes.
 
 - **旅行者:** 是怎么突然跳到我这里的？
 
-**派蒙:** 话题是怎么突然跳到{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}身上的？
+**派蒙:** 话题是怎么突然跳到空/荧身上的？
 
 **莫娜:** 从师父那里传承下来的知识，是要一直传承下去的。
 
@@ -2082,7 +2082,7 @@ Yup. Dendro Slimes.
 
 - **旅行者:** 是怎么突然跳到我这里的？
 
-**派蒙:** 话题是怎么突然跳到{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}身上的？
+**派蒙:** 话题是怎么突然跳到空/荧身上的？
 
 **莫娜:** 从师父那里传承下来的知识，是要一直传承下去的。
 
@@ -2670,7 +2670,7 @@ Yup. Dendro Slimes.
 
 **莫娜:** 算了，等会儿再详细给你讲，她已经来了。
 
-**可莉:** 哇，是荣誉骑士{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTERA]}！还有小派蒙，你们回来啦！
+**可莉:** 哇，是荣誉骑士空/荧！还有小派蒙，你们回来啦！
 
 **莫娜:** ——就是她！伟大学识的继承者！
 

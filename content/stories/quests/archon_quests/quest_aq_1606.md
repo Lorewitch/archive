@@ -13,8 +13,8 @@
 # part_source_ids: 6024,6027,6028
 # previous_quests: quest_aq_1605
 # next_quests: quest_aq_1607
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -1381,13 +1381,13 @@
 **Дурин:** Да.
 Нет.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Нет.
+**Странник:** Нет.
 
 **Дурин:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты сказал, что хочешь поздороваться с Коломбиной.
+**Странник:** Ты сказал, что хочешь поздороваться с Коломбиной.
 
 **Дурин:** Да, но когда мы подошли ближе, я увидел других знакомых.
 
@@ -1395,15 +1395,15 @@
 
 **Падисара:** (Это наш дракончик! Он теперь вырос!)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Тц... вот это популярность.
+**Странник:** Тц... вот это популярность.
 
 **Дори:** Раз так, не хотите сыграть в новую игру? Попробовать можно бесплатно!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Он сыграет, а я пас.
+**Странник:** Он сыграет, а я пас.
 
 **Дори:** Эм... Каждому клиенту предоставляется только одна бесплатная попытка, ты не можешь отдать ему свою...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я знаю.
+**Странник:** Я знаю.
 
 **Дурин:** Как там поживает дедушка Миндаль?
 
@@ -1427,11 +1427,11 @@
 
 **Уилл:** Человек в шляпе! Не думал, что мы снова увидимся! Теперь твой облик стал ещё решительнее, чем тогда, в поезде.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Хорошо, если так.
+**Странник:** Хорошо, если так.
 
 **Уилл:** Конечно. Люди, которым ты однажды помог, ясно это видят... Потому что твой поезд снова идёт по правильным рельсам.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Уилл:** Пусть локомотивы наших сердец доставят нас к тем станциям, о которых каждый из нас мечтает.
 
@@ -1787,7 +1787,7 @@
 
 **Дурин:** Она сказала, что свяжется с нами, как только кое-что узнает. А мы пока можем повеселиться на празднике.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Наслаждайся отдыхом. У меня есть предчувствие, что наше следующее задание будет совсем не простым.
+**Странник:** Наслаждайся отдыхом. У меня есть предчувствие, что наше следующее задание будет совсем не простым.
 
 **Лаума:** Мне тоже пора... Нужно отдать кое-какие распоряжения в киоске Детей Морозной Луны.
 
@@ -1927,7 +1927,7 @@
 
 **Ягода:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Арлекино:** ...
 
@@ -2103,7 +2103,7 @@
 
 **Алиса:** Да, вы не смогли изменить концовки их историй. Но вы создали вокруг себя некий слой «переменных».
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** «Переменных»?
+**Странник:** «Переменных»?
 
 **Алиса:** Да. Вы узнали то, что изначально не могли бы узнать, у вас появились мысли, которые иначе не появились бы. Всё это считается «переменными».
 
@@ -2165,47 +2165,47 @@
 
 (Честно говоря, я чувствую то же самое...)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Вот и я.
+**Странник:** Вот и я.
 
 **Дурин:** Мастер Шляпка!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я снова отправился на поиски фантомов Гипербореи. И кажется, добрался до сути.
+**Странник:** Я снова отправился на поиски фантомов Гипербореи. И кажется, добрался до сути.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я устроил им разговор с Николь по Додокоммуникатору. И оказалось, что история, которую они описывают, отличается от той версии, которую помнит Николь.
+**Странник:** Я устроил им разговор с Николь по Додокоммуникатору. И оказалось, что история, которую они описывают, отличается от той версии, которую помнит Николь.
 
 **Паймон:** Да? Но почему? Неужели Николь ошибается...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Потому что фантомы оказались обмануты. В их истории появился некий «спаситель», которого не должно существовать.
+**Странник:** Потому что фантомы оказались обмануты. В их истории появился некий «спаситель», которого не должно существовать.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Спаситель пообещал, что создаст новую Луну на лживом небе и вернёт им Богиню Луны.
+**Странник:** Спаситель пообещал, что создаст новую Луну на лживом небе и вернёт им Богиню Луны.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Глупцы поверили ему и рассказали всё, что он хотел знать о Лунах.
+**Странник:** Глупцы поверили ему и рассказали всё, что он хотел знать о Лунах.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Сразу виден почерк Дотторе.
+**Странник:** Сразу виден почерк Дотторе.
 
 **Лаума:** Теперь я понимаю... Когда мы впервые вошли в руины Гипербореи и услышали, как фантомы обсуждают свою историю, Николь говорила, что они путаются в деталях...
 
 **Паймон:** Но как Дотторе вообще смог туда попасть!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Он там и не был. Николь сказала, что это было аномальное состояние, вызванное нарушением причинно-следственных связей между фантомами одной эпохи.
+**Странник:** Он там и не был. Николь сказала, что это было аномальное состояние, вызванное нарушением причинно-следственных связей между фантомами одной эпохи.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** А «переменные», накопленные Дотторе, оказались настолько существенными, что повлияли даже на фантомы, с которыми он никогда не встречался.
+**Странник:** А «переменные», накопленные Дотторе, оказались настолько существенными, что повлияли даже на фантомы, с которыми он никогда не встречался.
 
 **Нефер:** Оказывается, виной всему не плохая память... их воспоминания подделали.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Именно над этой возможностью и работал Дотторе. Он превратил переменные в знания и сделал так, чтобы все знания попали к нему в руки.
+**Странник:** Именно над этой возможностью и работал Дотторе. Он превратил переменные в знания и сделал так, чтобы все знания попали к нему в руки.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В Ночь лунной молитвы... он обратился к своим знаниям и в самом деле создал «лживую Луну».
+**Странник:** В Ночь лунной молитвы... он обратился к своим знаниям и в самом деле создал «лживую Луну».
 
 **Паймон:** Как такое возможно?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Точнее говоря, он воспользовался слабым местом в работе заклинания.
+**Странник:** Точнее говоря, он воспользовался слабым местом в работе заклинания.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Заклинание позволяет куувяки определить местоположение Луны. И если «лживая Луна» больше похожа на Луну, чем Морозная Луна за небесами...
+**Странник:** Заклинание позволяет куувяки определить местоположение Луны. И если «лживая Луна» больше похожа на Луну, чем Морозная Луна за небесами...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** То портал отправит Коломбину туда, где находится лживая Луна. То есть прямиком к Дотторе!
+**Странник:** То портал отправит Коломбину туда, где находится лживая Луна. То есть прямиком к Дотторе!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Когда Дотторе взял Коломбину под контроль, заклинание телепортации ещё работало, и он воспользовался её силой, чтобы завладеть Лунными Светочами.
+**Странник:** Когда Дотторе взял Коломбину под контроль, заклинание телепортации ещё работало, и он воспользовался её силой, чтобы завладеть Лунными Светочами.
 
 **Лаума:** И Лунные Светочи внезапно исчезли... Когда мы уходили из руин, было уже слишком поздно.
 
@@ -2229,7 +2229,7 @@
 
 (Наверное, она чувствует за собой вину... И я тоже.)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Странник:** ...
 
 **Дурин:** ...
 
@@ -2283,7 +2283,7 @@
 
 **Дурин:** Я сделаю всё, что в моих силах.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я довольно хорошо знаком с методами работы Дотторе, поэтому могу попытаться предсказать его следующий шаг. Я помогу вам в расследовании.
+**Странник:** Я довольно хорошо знаком с методами работы Дотторе, поэтому могу попытаться предсказать его следующий шаг. Я помогу вам в расследовании.
 
 **Варка:** Отлично. Похоже, обязанности уже распределены.
 
@@ -3668,13 +3668,13 @@ You won't lose us...
 **Durin:** Yes.
 No.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** No.
+**Wanderer:** No.
 
 **Durin:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You said we were just coming here to say hello...
+**Wanderer:** You said we were just coming here to say hello...
 
 **Durin:** I did, but then I recognized a few more people as I got closer.
 
@@ -3682,15 +3682,15 @@ No.
 
 **Padisarah:** (It's our little dragon! He's all grown up!)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Tsk... Someone's popular.
+**Wanderer:** Tsk... Someone's popular.
 
 **Dori:** Well now, since you came all this way, why don't you try out this lovely game we have going? First try is free!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He'll have a go. I'll pass.
+**Wanderer:** He'll have a go. I'll pass.
 
 **Dori:** Uh... It's only one free try per customer, you can't give your try to him...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I'm aware.
+**Wanderer:** I'm aware.
 
 **Durin:** How has Elder Almond been lately?
 
@@ -3714,11 +3714,11 @@ No.
 
 **Wheel:** Ah, the hat-wearing man. I never thought I'd see you again. You seem more determined than when I saw you last on the train.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** If you say so.
+**Wanderer:** If you say so.
 
 **Wheel:** I do say so. The people you once helped see it clearly... it's because you are once again on the right track.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Wheel:** May the engine in our hearts propel us to the station of our dreams.
 
@@ -4074,7 +4074,7 @@ Isn't she always quite excitable?
 
 **Durin:** She said she'll contact us once she knows more. In the meantime, we're free to relax and have some fun.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Enjoy the time off while it lasts. I have a feeling that our next task won't be so simple.
+**Wanderer:** Enjoy the time off while it lasts. I have a feeling that our next task won't be so simple.
 
 **Lauma:** Mm... I should go. I still have a few things to attend to at the Frostmoon Scions' stall.
 
@@ -4214,7 +4214,7 @@ Your friends will always be here.
 
 **Jahoda:** ...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **The Knave:** ...
 
@@ -4390,7 +4390,7 @@ But if that chance doesn't come... Then remember that you have friends on this p
 
 **Alice:** True, you couldn't change how their stories ended. But you did build some "variables" around yourself.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Variables?
+**Wanderer:** Variables?
 
 **Alice:** Yes — things you heard that you could not otherwise have learned, ideas that would otherwise have never crossed your mind... All these things are "variables."
 
@@ -4452,47 +4452,47 @@ Wait, didn't any of you see her do that...?
 
 (And honestly, I feel the same way...)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I'm back.
+**Wanderer:** I'm back.
 
 **Durin:** Hat Guy!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I went to look for the Hyperborean phantoms again. I think I've gotten to the bottom of it.
+**Wanderer:** I went to look for the Hyperborean phantoms again. I think I've gotten to the bottom of it.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** I got them to talk to Nicole on the other end of the communications line. Turns out, the history they describe is different from how Nicole remembers it.
+**Wanderer:** I got them to talk to Nicole on the other end of the communications line. Turns out, the history they describe is different from how Nicole remembers it.
 
 **Paimon:** Really? But how? Surely Nicole can't have been wrong...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Because the phantoms are the ones who were deceived. They speak of a "savior" who appeared in their history, one who never should've existed.
+**Wanderer:** Because the phantoms are the ones who were deceived. They speak of a "savior" who appeared in their history, one who never should've existed.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** This savior promised to create a new moon within the false sky, and even bring back their Moon Goddesses.
+**Wanderer:** This savior promised to create a new moon within the false sky, and even bring back their Moon Goddesses.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Foolishly, they believed in him, and told him everything he wanted to know about the moons.
+**Wanderer:** Foolishly, they believed in him, and told him everything he wanted to know about the moons.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** It's obvious that this was Dottore's doing.
+**Wanderer:** It's obvious that this was Dottore's doing.
 
 **Lauma:** Now you mention it... The first time we entered the Hyperborean ruins, we heard the phantoms discussing their history, and I remember Nicole commenting that something sounded a little strange...
 
 **Paimon:** But Dottore shouldn't have been able to get in there in the first place!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** He didn't. Nicole said that this was an anomalous state triggered by disruptions in the causal connections between phantoms from the same era.
+**Wanderer:** He didn't. Nicole said that this was an anomalous state triggered by disruptions in the causal connections between phantoms from the same era.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The "variables" that Dottore put in place were substantial enough that they even affected phantoms that he never met.
+**Wanderer:** The "variables" that Dottore put in place were substantial enough that they even affected phantoms that he never met.
 
 **Nefer:** So it's not that their memories were unclear... they'd been tampered with.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** That's exactly the possibility Dottore was trying to manufacture. He turned these variables into knowledge and engineered the situation so all that knowledge would fall into his hands.
+**Wanderer:** That's exactly the possibility Dottore was trying to manufacture. He turned these variables into knowledge and engineered the situation so all that knowledge would fall into his hands.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Then, he harnessed that knowledge on Moon-Prayer Night... to truly create a "false moon."
+**Wanderer:** Then, he harnessed that knowledge on Moon-Prayer Night... to truly create a "false moon."
 
 **Paimon:** How is that even possible?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** To be precise, he exploited a weakness in the way the spell works.
+**Wanderer:** To be precise, he exploited a weakness in the way the spell works.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** The spell senses kuuvahki to detect the moon's location. So, as long as the "false moon" more strongly resembled a moon than the Frost Moon beyond the skies...
+**Wanderer:** The spell senses kuuvahki to detect the moon's location. So, as long as the "false moon" more strongly resembled a moon than the Frost Moon beyond the skies...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** That gate would teleport Columbina to the false moon's location... in other words, to Dottore's side.
+**Wanderer:** That gate would teleport Columbina to the false moon's location... in other words, to Dottore's side.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Once he had her under control, the teleportation spell remained active, and he manipulated her power to seize both Moon Marrows.
+**Wanderer:** Once he had her under control, the teleportation spell remained active, and he manipulated her power to seize both Moon Marrows.
 
 **Lauma:** At that moment, the Moon Marrows disappeared right before our eyes... It was already too late even as we were leaving the ruins.
 
@@ -4516,7 +4516,7 @@ Wait, didn't any of you see her do that...?
 
 (I'm sure she feels partly responsible for this... And so do I...)
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...
+**Wanderer:** ...
 
 **Durin:** ...
 
@@ -4570,7 +4570,7 @@ Hmm...
 
 **Durin:** I'll do my best.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** As for me, I'm pretty familiar with Dottore's way of doing things, so I can try to predict his next move. I'll help with your investigation.
+**Wanderer:** As for me, I'm pretty familiar with Dottore's way of doing things, so I can try to predict his next move. I'll help with your investigation.
 
 **Varka:** Nice. Looks like we have our basic division of labor.
 
@@ -5955,13 +5955,13 @@ Hmm...
 **杜林:** 是的。
 不是。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 不是。
+**流浪者:** 不是。
 
 **杜林:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你说的是来跟哥伦比娅打个招呼。
+**流浪者:** 你说的是来跟哥伦比娅打个招呼。
 
 **杜林:** 对，但靠近之后我认出了更多熟人。
 
@@ -5969,15 +5969,15 @@ Hmm...
 
 **帕蒂沙兰:** （是小龙龙，小龙龙长大了！）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 啧…人缘真好。
+**流浪者:** 啧…人缘真好。
 
 **多莉:** 哎呀，都说到这份上了，两位要不要都来玩玩看？试玩免费噢。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 给他吧，我就算了。
+**流浪者:** 给他吧，我就算了。
 
 **多莉:** 呃…即使这样，同一位客人也不能免费两次…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 知道。
+**流浪者:** 知道。
 
 **杜林:** 杏仁长老最近身体怎么样？
 
@@ -6001,11 +6001,11 @@ Hmm...
 
 **威尔:** 戴帽子的人，没想到我们还会再次见面，你的神情比上次坐车时更坚定了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 谁知道呢。
+**流浪者:** 谁知道呢。
 
 **威尔:** 被你帮助过的人知道，这一定是因为你又一次行在了正确的轨道上。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **威尔:** 愿我们都能到达心仪的终点。
 
@@ -6361,7 +6361,7 @@ Hmm...
 
 **杜林:** 她说一旦有了结果，就会联系我们。这段时间，我们也可以在这里到处玩一玩。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 稍事休息吧，接下来需要做的事肯定不简单，我有这种预感。
+**流浪者:** 稍事休息吧，接下来需要做的事肯定不简单，我有这种预感。
 
 **菈乌玛:** 那我也不多停留了。「霜月之子」的摊位还有些事宜等待着我去交代。
 
@@ -6501,7 +6501,7 @@ Hmm...
 
 **雅珂达:** ……
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **「仆人」:** ……
 
@@ -6677,7 +6677,7 @@ Hmm...
 
 **艾莉丝:** 对，你们没有影响那个虚影的结局，但是某种「变数」被堆砌到了你的身上。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「变数」？
+**流浪者:** 「变数」？
 
 **艾莉丝:** 嗯，比如你们听到了本来无从得知的消息，或是产生了原本不会萌发的想法，这都算是「变数」。
 
@@ -6739,47 +6739,47 @@ Hmm...
 
 （这么说的话，我又何尝不是这样…）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我回来了。
+**流浪者:** 我回来了。
 
 **杜林:** 阿帽！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我又去找了那些「亥珀波瑞亚」的虚影，总算是搞清楚了。
+**流浪者:** 我又去找了那些「亥珀波瑞亚」的虚影，总算是搞清楚了。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我让他们和通讯仪另一边的尼可细细对质，发现他们描述的历史和尼可的记忆果然是不同的。
+**流浪者:** 我让他们和通讯仪另一边的尼可细细对质，发现他们描述的历史和尼可的记忆果然是不同的。
 
 **派蒙:** 为什么会这样？尼可应该不会出错才对。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 因为被骗的是那些虚影。他们的历史里出现了一个根本就不该存在的救世主。
+**流浪者:** 因为被骗的是那些虚影。他们的历史里出现了一个根本就不该存在的救世主。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这个救世主许诺他们能够在虚假之天内创造一个新的月亮，还能把他们的月神带回来。
+**流浪者:** 这个救世主许诺他们能够在虚假之天内创造一个新的月亮，还能把他们的月神带回来。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这些人愚蠢地相信了他，将他所需要的关于月亮的知识全部告诉了他。
+**流浪者:** 这些人愚蠢地相信了他，将他所需要的关于月亮的知识全部告诉了他。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 一听就知道，这是多托雷在搞鬼。
+**流浪者:** 一听就知道，这是多托雷在搞鬼。
 
 **菈乌玛:** 在亥珀波瑞亚的遗迹中，听虚影聊起历史，尼可会说里面有些错误…
 
 **派蒙:** 可多托雷应该没办法进入那扇门啊！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 他没进去过。尼可说，这是同时代的虚影因果联系被干扰后引发的异样状况。
+**流浪者:** 他没进去过。尼可说，这是同时代的虚影因果联系被干扰后引发的异样状况。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 而多托雷所堆砌的「变数」，甚至大到能够对不曾见过的虚影造成影响。
+**流浪者:** 而多托雷所堆砌的「变数」，甚至大到能够对不曾见过的虚影造成影响。
 
 **奈芙尔:** 原来不是记忆不清，而是被篡改了啊。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 这就是多托雷想方设法堆砌的可能性，他将变数化为知识，都堆砌在了自己的身上。
+**流浪者:** 这就是多托雷想方设法堆砌的可能性，他将变数化为知识，都堆砌在了自己的身上。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 「祈月之夜」的夜晚…他用这些知识，真的创造了一轮「伪月」。
+**流浪者:** 「祈月之夜」的夜晚…他用这些知识，真的创造了一轮「伪月」。
 
 **派蒙:** 这怎么可能做到？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 准确来说，是让术法的感知出现了偏差——
+**流浪者:** 准确来说，是让术法的感知出现了偏差——
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 术法通过月矩力感受月亮的位置，只要「伪月」比天外的霜月更像月亮…
+**流浪者:** 术法通过月矩力感受月亮的位置，只要「伪月」比天外的霜月更像月亮…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 那扇门就会把哥伦比娅送到「伪月」的位置，也就是多托雷身边！
+**流浪者:** 那扇门就会把哥伦比娅送到「伪月」的位置，也就是多托雷身边！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 在多托雷控制了哥伦比娅之后，传送术法依然维持着，他又操纵她的力量，夺走了两块月髓。
+**流浪者:** 在多托雷控制了哥伦比娅之后，传送术法依然维持着，他又操纵她的力量，夺走了两块月髓。
 
 **菈乌玛:** 那个时候，月髓从我们眼前突然消失…离开遗迹的时候，为时已晚。
 
@@ -6803,7 +6803,7 @@ Hmm...
 
 （可能她觉得这件事有她的责任，而我也是同样…可恶。）
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ……
+**流浪者:** ……
 
 **杜林:** ……
 
@@ -6857,7 +6857,7 @@ Hmm...
 
 **杜林:** 我会尽力的。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我算是了解多托雷的行事风格，能尝试预测他的下一步行动。调查上我来帮忙。
+**流浪者:** 我算是了解多托雷的行事风格，能尝试预测他的下一步行动。调查上我来帮忙。
 
 **法尔伽:** 嗯，听起来算是有个初步分工了。
 

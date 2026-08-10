@@ -11,10 +11,10 @@
 # chapter_num_en: Interlude Chapter: Act IV
 # chapter_num_zh: 间章 第四幕
 # part_source_ids: 600,601,602
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_aq_1205,quest_aq_1207,quest_aq_1307
-# quest_chain: quest_aq_1205,quest_aq_1207,quest_aq_1307,quest_aq_1004
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_aq_1004
 # quest_series: Interlude Chapter
 # version_source: wiki_release_category
 
@@ -5469,6 +5469,10 @@ Alright, thanks.
 #### 前往蒙德城
 
 **威拉格:** 这间办公室已被封锁，需要琴团长的批准才能进入。
+
+#### (test)废弃
+
+**昆恩:** 贝雅特丽奇…唉，到底怎么了…
 
 #### 与凯瑟琳对话
 

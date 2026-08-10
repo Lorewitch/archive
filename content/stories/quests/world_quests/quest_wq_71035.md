@@ -3,15 +3,15 @@
 # title_ru: Дела загробные: След Бронзового Воробья
 # title_en: Hereafter: The Trail of Pervases
 # title_zh: 身后事·铜雀之迹
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 71035
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71035
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_71830
 # related_quests: quest_wq_71830,quest_wq_71831
 # quest_chain: quest_wq_71035,quest_wq_71830,quest_wq_71831
@@ -399,6 +399,38 @@ Let's go!
 ### 身后事·铜雀之迹
 
 当你们闻到「烤吃虎鱼」的香气时，不禁想起了一位曾经帮助过你们的人…
+
+#### 前往万民堂
+
+**卯师傅:** 二位，要点什么？
+
+三份烤吃虎鱼，打包。
+
+**卯师傅:** 好嘞！您在这稍等一会。
+
+**派蒙:** 三份？你一份，我一份…还有一份是…
+
+- **旅行者:** 想去看看铜雀。
+
+- **旅行者:** 铜雀喜欢吃烤吃虎鱼。
+
+**派蒙:** 你是说之前把七星灯和香炉给我们的那位铜雀先生吗？
+
+**派蒙:** 对喔，记得铜雀先生说过他很想念烤吃虎鱼…
+
+**派蒙:** 不过，铜雀先生应该已经走了…
+
+去看看也好。
+
+**派蒙:** 嗯，那我们就再去看看吧。
+
+**派蒙:** 之前在那边见到铜雀先生的时候，那间庙又破又旧，旁边好像还有盗宝团的踪迹…
+
+**派蒙:** 希望，铜雀先生的雕像别被人弄坏了…
+
+**卯师傅:** 二位，您要的三份烤吃虎鱼打包好了，您拿好。
+
+**派蒙:** 好香啊！旅行者，那我们就快点出发吧。
 
 #### 前往拜祭铜雀
 

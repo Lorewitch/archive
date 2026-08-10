@@ -3,19 +3,19 @@
 # title_ru: Будь со мной
 # title_en: Stand by Me
 # title_zh: 常伴相随
-# region: Натлан
+# region: Тейват
 # game_version: 5.2
 # release_versions: 5.2
 # source_id: 75071
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75071
 # previous_quests: quest_wq_75070
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_75064,quest_wq_75070
 # quest_chain: quest_wq_75064,quest_wq_75070,quest_wq_75071
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -28,11 +28,11 @@
 
 **Магнифико:** Ха-ха, Путешественник и Паймон, моя муза и... э-э-э, мини-муза!
 
-**Магнифико:** О! И {REALNAME[ID(2)|SHOWHOST(true)]}, конечно!
+**Магнифико:** О! И Малыш, конечно!
 
 **Паймон:** Это кто тут мини?!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Магнифико:** Ха-ха, не обращайте внимания!
 
@@ -50,7 +50,7 @@
 
 **Паймон:** Мусс... Паймон очень хочется попробовать...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Гр-р, гр-р...
+**Малыш:** Гр-р, гр-р...
 
 **Магнифико:** Музы! Не еда!
 
@@ -128,7 +128,7 @@
 
 **Магнифико:** Простите, но в этот раз я действительно уеду из страны! До свидания, Путешественник и Паймон! До встречи, малыш!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Магнифико:** Эй, ловите! Это на память! Не забывайте обо мне, малыши!
 
@@ -144,11 +144,11 @@ Whenever you're in trouble, won't you stand by me?
 
 **Magnifico:** Haha, my dear Traveler and Paimon, my muse and my... Err, mini-muse!
 
-**Magnifico:** Ah yes, and {REALNAME[ID(2)|SHOWHOST(true)]}, of course!
+**Magnifico:** Ah yes, and Little One, of course!
 
 **Paimon:** Hah! Who's the mini-me here, anyway?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Raaawr!
+**Little One:** Raaawr!
 
 **Magnifico:** Haha, come now, don't mind me.
 
@@ -166,7 +166,7 @@ Whenever you're in trouble, won't you stand by me?
 
 **Paimon:** Mousse... Heh, Paimon's feeling hungry already...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Groo... Groo...
+**Little One:** Groo... Groo...
 
 **Magnifico:** Uh, you mean "muses," don't you? Those aren't for eating!
 
@@ -244,7 +244,7 @@ Whenever you're in trouble, won't you stand by me?
 
 **Magnifico:** My apologies, but I must leave this nation now. Farewell, Traveler, Paimon! Farewell, my little fellow!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Magnifico:** Also... catch! A memento, so you don't forget me, little ones!
 
@@ -260,11 +260,11 @@ You defeat the enemy and smash open the cage imprisoning the little Sumpter Beas
 
 **马尼菲科:** 哈哈，亲爱的旅行者和派蒙，我的缪斯和…呃，小缪斯！
 
-**马尼菲科:** 啊，还有{REALNAME[ID(2)|SHOWHOST(true)]}！
+**马尼菲科:** 啊，还有小家伙！
 
 **派蒙:** 哪个才是小的啦！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **马尼菲科:** 哈哈，请别在意！
 
@@ -282,7 +282,7 @@ You defeat the enemy and smash open the cage imprisoning the little Sumpter Beas
 
 **派蒙:** 慕斯…我也想吃了…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 咕噜…咕噜…
+**小家伙:** 咕噜…咕噜…
 
 **马尼菲科:** 呃…是「缪斯」…不是吃的！
 
@@ -360,7 +360,7 @@ You defeat the enemy and smash open the cage imprisoning the little Sumpter Beas
 
 **马尼菲科:** 不好意思，这次我真的要离开这个国家了！再见了！旅行者和派蒙！再见，小家伙！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **马尼菲科:** 嘿，接住！留个纪念！别忘了我呀，小家伙们！
 

@@ -11,7 +11,7 @@
 # chapter_num_en: Sapientia Oromasdis Chapter: Act I
 # chapter_num_zh: 智慧主之章 第一幕
 # part_source_ids: 13013,13014,13015
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2039
 # related_quests: quest_lq_2039,quest_wq_13028
 # quest_chain: quest_lq_2034,quest_lq_2039,quest_wq_13028

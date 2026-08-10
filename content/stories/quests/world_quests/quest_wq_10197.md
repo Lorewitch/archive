@@ -11,7 +11,7 @@
 # chapter_num_en: Moon Gazing: Act I
 # chapter_num_zh: 望月·第一幕
 # part_source_ids: 76132
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10199
 # related_quests: quest_wq_10199,quest_wq_10228
 # quest_chain: quest_wq_10197,quest_wq_10199,quest_wq_10228
@@ -52,27 +52,27 @@
 
 **Паймон:** Вспомнила... Всего было три символа! Сначала самый простой по форме!
 
-- **Путешественник:** {REGEX#UNICODE[E001]}
+- **Путешественник:** ●
 
-- **Путешественник:** {REGEX#UNICODE[E000]}
+- **Путешественник:** ◆
 
-- **Путешественник:** {REGEX#UNICODE[E002]}
+- **Путешественник:** ▲
 
 **Паймон:** Второй символ имеет очень сложную форму!
 
-- **Путешественник:** {REGEX#UNICODE[E001]}
+- **Путешественник:** ●
 
-- **Путешественник:** {REGEX#UNICODE[E000]}
+- **Путешественник:** ◆
 
-- **Путешественник:** {REGEX#UNICODE[E002]}
+- **Путешественник:** ▲
 
 **Паймон:** И последний... Паймон не помнит, но он вроде был похож на второй!
 
-- **Путешественник:** {REGEX#UNICODE[E001]}
+- **Путешественник:** ●
 
-- **Путешественник:** {REGEX#UNICODE[E000]}
+- **Путешественник:** ◆
 
-- **Путешественник:** {REGEX#UNICODE[E002]}
+- **Путешественник:** ▲
 
 **Небесные орбиты:** Ошибка проверки орбитальных координат.
 
@@ -82,25 +82,25 @@
 
 **Паймон:** Попробуем ещё раз. Сначала самый простой символ!
 
-- **Путешественник:** {REGEX#UNICODE[E001]}
+- **Путешественник:** ●
 
-- **Путешественник:** {REGEX#UNICODE[E000]}
+- **Путешественник:** ◆
 
-- **Путешественник:** {REGEX#UNICODE[E002]}
+- **Путешественник:** ▲
 
 **Паймон:** Второй - самый сложный символ!
 
-- **Путешественник:** {REGEX#UNICODE[E001]}
+- **Путешественник:** ●
 
-- **Путешественник:** {REGEX#UNICODE[E000]}
+- **Путешественник:** ◆
 
-- **Путешественник:** {REGEX#UNICODE[E002]}
+- **Путешественник:** ▲
 
 **Паймон:** И последний... последний... Ой, каким же был последний?..
 
-**Таинственная куухенки:** Это {REGEX#UNICODE[E001]}.
+**Таинственная куухенки:** Это ●.
 
-**Паймон:** Да-да! Точно, это {REGEX#UNICODE[E001]}! Кто это сказал?.. Ой, нет времени! Скорее нажимай!
+**Паймон:** Да-да! Точно, это ●! Кто это сказал?.. Ой, нет времени! Скорее нажимай!
 
 **Небесные орбиты:** Орбитальные координаты подтверждены, начинается запуск двигателей. Пожалуйста, немедленно поднимитесь на борт.
 
@@ -300,7 +300,7 @@
 
 **Небесные орбиты:** Соединение... Местоположение цели определено.
 
-**Небесные орбиты:** {REGEX#UNICODE[E000]} {REGEX#UNICODE[E002]} {REGEX#UNICODE[E001]}
+**Небесные орбиты:** ◆ ▲ ●
 
 **Небесные орбиты:** Соединение прервано... Не удалось определить местоположение цели...
 
@@ -596,27 +596,27 @@ You catch sight of Columbina in the distance on a deserted island on the east si
 
 **Paimon:** Paimon remembers now... There were three symbols! The simplest-looking one was first!
 
-- **Traveler:** {REGEX#UNICODE[E001]}
+- **Traveler:** ●
 
-- **Traveler:** {REGEX#UNICODE[E000]}
+- **Traveler:** ◆
 
-- **Traveler:** {REGEX#UNICODE[E002]}
+- **Traveler:** ▲
 
 **Paimon:** The second symbol had a super complicated shape!
 
-- **Traveler:** {REGEX#UNICODE[E001]}
+- **Traveler:** ●
 
-- **Traveler:** {REGEX#UNICODE[E000]}
+- **Traveler:** ◆
 
-- **Traveler:** {REGEX#UNICODE[E002]}
+- **Traveler:** ▲
 
 **Paimon:** And lastly... Paimon can't quite remember, but it was probably the same as the second one!
 
-- **Traveler:** {REGEX#UNICODE[E001]}
+- **Traveler:** ●
 
-- **Traveler:** {REGEX#UNICODE[E000]}
+- **Traveler:** ◆
 
-- **Traveler:** {REGEX#UNICODE[E002]}
+- **Traveler:** ▲
 
 **Celestial Orbit:** Orbital coordinate verification error.
 
@@ -626,25 +626,25 @@ You catch sight of Columbina in the distance on a deserted island on the east si
 
 **Paimon:** One more time! First up, the simplest symbol!
 
-- **Traveler:** {REGEX#UNICODE[E001]}
+- **Traveler:** ●
 
-- **Traveler:** {REGEX#UNICODE[E000]}
+- **Traveler:** ◆
 
-- **Traveler:** {REGEX#UNICODE[E002]}
+- **Traveler:** ▲
 
 **Paimon:** The second one's the most complicated!
 
-- **Traveler:** {REGEX#UNICODE[E001]}
+- **Traveler:** ●
 
-- **Traveler:** {REGEX#UNICODE[E000]}
+- **Traveler:** ◆
 
-- **Traveler:** {REGEX#UNICODE[E002]}
+- **Traveler:** ▲
 
 **Paimon:** And the last one is... the last one is... Argh, what in Teyvat is the last one...?
 
-**Mysterious Kuuhenki:** 是{REGEX#UNICODE[E001]}
+**Mysterious Kuuhenki:** 是●
 
-**Paimon:** Ooh! Yes, yes! {REGEX#UNICODE[E001]}. That's the one! Wait. Who said that...? Ah, whatever! Let's punch it in!
+**Paimon:** Ooh! Yes, yes! ●. That's the one! Wait. Who said that...? Ah, whatever! Let's punch it in!
 
 **Celestial Orbit:** Orbital coordinate verification: Successful. Engine ignition in progress. Please board the lunar spacecraft immediately.
 
@@ -844,7 +844,7 @@ Are you alright?
 
 **Celestial Orbit:** Connecting... Target located.
 
-**Celestial Orbit:** {REGEX#UNICODE[E000]} {REGEX#UNICODE[E002]} {REGEX#UNICODE[E001]}
+**Celestial Orbit:** ◆ ▲ ●
 
 **Celestial Orbit:** Connection lost... Failed to locate target...
 
@@ -1140,27 +1140,27 @@ Moonheart Gap
 
 **派蒙:** 想起来了…符号一共有三个！首先是一个形状最简单的！
 
-- **旅行者:** {REGEX#UNICODE[E001]}
+- **旅行者:** ●
 
-- **旅行者:** {REGEX#UNICODE[E000]}
+- **旅行者:** ◆
 
-- **旅行者:** {REGEX#UNICODE[E002]}
+- **旅行者:** ▲
 
 **派蒙:** 第二位符号是一个形状很复杂的！
 
-- **旅行者:** {REGEX#UNICODE[E001]}
+- **旅行者:** ●
 
-- **旅行者:** {REGEX#UNICODE[E000]}
+- **旅行者:** ◆
 
-- **旅行者:** {REGEX#UNICODE[E002]}
+- **旅行者:** ▲
 
 **派蒙:** 最后是…有点想不起来，但好像和第二位一样！
 
-- **旅行者:** {REGEX#UNICODE[E001]}
+- **旅行者:** ●
 
-- **旅行者:** {REGEX#UNICODE[E000]}
+- **旅行者:** ◆
 
-- **旅行者:** {REGEX#UNICODE[E002]}
+- **旅行者:** ▲
 
 **天轨仪:** 天轨坐标验证错误。
 
@@ -1170,25 +1170,25 @@ Moonheart Gap
 
 **派蒙:** 再来一次，首先是一个最简单的符号！
 
-- **旅行者:** {REGEX#UNICODE[E001]}
+- **旅行者:** ●
 
-- **旅行者:** {REGEX#UNICODE[E000]}
+- **旅行者:** ◆
 
-- **旅行者:** {REGEX#UNICODE[E002]}
+- **旅行者:** ▲
 
 **派蒙:** 第二位是一个最复杂的符号！
 
-- **旅行者:** {REGEX#UNICODE[E001]}
+- **旅行者:** ●
 
-- **旅行者:** {REGEX#UNICODE[E000]}
+- **旅行者:** ◆
 
-- **旅行者:** {REGEX#UNICODE[E002]}
+- **旅行者:** ▲
 
 **派蒙:** 最后是…最后是…哎呀，最后一位到底是什么…？
 
-**神秘的月灵:** 是{REGEX#UNICODE[E001]}
+**神秘的月灵:** 是●
 
-**派蒙:** 对对！没错，就是{REGEX#UNICODE[E001]}！但是谁在说话…？哎呀没时间了！先输进去！
+**派蒙:** 对对！没错，就是●！但是谁在说话…？哎呀没时间了！先输进去！
 
 **天轨仪:** 天轨坐标验证成功，引擎点火中，请尽快进入登月飞船。
 
@@ -1388,7 +1388,7 @@ Moonheart Gap
 
 **天轨仪:** 连接中…定位成功。
 
-**天轨仪:** {REGEX#UNICODE[E000]} {REGEX#UNICODE[E002]} {REGEX#UNICODE[E001]}
+**天轨仪:** ◆ ▲ ●
 
 **天轨仪:** 连接已断开…定位失败…
 

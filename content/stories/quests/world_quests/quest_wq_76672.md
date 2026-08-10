@@ -3,19 +3,19 @@
 # title_ru: Страж под луной
 # title_en: The Moonlit Watcher
 # title_zh: 月下的守望者
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76672
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76672
 # previous_quests: quest_wq_76671
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_76671
 # quest_chain: quest_wq_76671,quest_wq_76672
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

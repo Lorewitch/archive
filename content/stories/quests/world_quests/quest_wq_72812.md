@@ -3,19 +3,19 @@
 # title_ru: Методы сочинения историй
 # title_en: Storytelling Method
 # title_zh: 故事构思法
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72812
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72812
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72812
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

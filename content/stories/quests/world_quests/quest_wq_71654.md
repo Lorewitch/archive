@@ -3,19 +3,19 @@
 # title_ru: Чайник - полная чаша. Часть II
 # title_en: A Teapot to Call Home: Part II
 # title_zh: 翠石砌玉壶·其二
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.5
 # release_versions: 1.5
 # source_id: 71654
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71654
 # previous_quests: quest_wq_11008
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_11008
 # quest_chain: quest_wq_11008,quest_wq_71654
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

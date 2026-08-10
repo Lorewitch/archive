@@ -3,19 +3,19 @@
 # title_ru: Воспоминания Аранаги
 # title_en: Aranaga's Memory
 # title_zh: 兰纳迦的回忆
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73056
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73056
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_73059
 # related_quests: quest_wq_73057,quest_wq_73058,quest_wq_73059
 # quest_chain: quest_wq_73056,quest_wq_73057,quest_wq_73058,quest_wq_73059
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -368,7 +368,7 @@ You meet an old man named Khayyam in the forest. He seems to share a past with A
 
 **Khayyam:** Hmm...hmm? Rost...? Ah, are you talking to me? Haha, lost, is that what you said? No, no, I'm not lost...
 
-**Khayyam:** Good day, kids. I am Giyath Khayyam, an Amu{RUBY#[S]Biology}rta Dastur, haha... Just call me Khayyam.
+**Khayyam:** Good day, kids. I am Giyath Khayyam, an AmuBiologyrta Dastur, haha... Just call me Khayyam.
 
 **Paimon:** Hmm... Hello, Mr. Khayyam!
 
@@ -498,7 +498,7 @@ Just call me Traveler.
 
 **Khayyam:** Since the Akademiya sensors couldn't detect them either, only young kids could prove that they exist.
 
-**Khayyam:** Hence, Amu{RUBY#[S]Biology}rta has classified them as "unidentified lifeforms."
+**Khayyam:** Hence, AmuBiologyrta has classified them as "unidentified lifeforms."
 
 #### Talk to Khayyam
 
@@ -798,6 +798,28 @@ Here.
 
 **派蒙:** 不要客气啦，海亚姆先生！这都是我们「杰万」应该做的！
 
+#### 和海亚姆对话
+
+**海亚姆:** 有意思…这里的植物看起来…重新焕发生机了啊。「无郁夷摩」重新发挥作用了…真是神奇。
+
+**派蒙:** 欸…海亚姆先生也知道「无郁夷摩」吗？我还以为只有兰那罗知道…
+
+- **旅行者:** 派蒙，嘘！
+
+- **旅行者:** 派蒙…！
+
+**海亚姆:** 「兰那罗」，是吗？你们也看到过他们啊…
+
+**派蒙:** 欸…？嗯…是、是的。
+
+- **旅行者:** 怎么了，海亚姆先生？
+
+- **旅行者:** 你也见过兰那罗吗？
+
+**海亚姆:** 「伊兰杳随蔷薇没，夷王神杯何所终…」
+
+**海亚姆:** 我们继续吧，去下一个地点。
+
 #### 调查特定地点的植物
 
 **海亚姆:** 这里的植物长势真不错呀…
@@ -813,6 +835,62 @@ Here.
 **海亚姆:** 因为教令院的探测仪也无法看到它们，只有那些幼小的孩子们才能证明它们存在。
 
 **海亚姆:** 所以，生论派对这种生物的归类是「未确认生物」。
+
+#### 和海亚姆对话
+
+**海亚姆:** 哈！你瞧！看看这个！
+
+**派蒙:** 欸？是新植物吗？怎么突然这么兴奋？
+
+**海亚姆:** 不是，不是新植物，但更让人开心！…瞧瞧呀，我们的「秘密城堡」！哈！破败成什么样子了！
+
+**派蒙:** 欸…？「秘密城堡」？
+
+**海亚姆:** 哈哈！学士奥马尔回来了！他带着群星的秘密回来了！伊尔凡，熙蔓，你们在哪里！还不出来欢迎我吗！
+
+**派蒙:** ……
+
+……
+
+**海亚姆:** 呃…咳咳，抱歉，孩子们。我…我有点太兴奋了。
+
+**海亚姆:** 岁数大了总是这样，越是现在的事，就越糊涂；越是小时候的事，就越怀念，嘿嘿…
+
+**海亚姆:** 伊尔凡，熙蔓，他们是我的朋友，我们一起搭建了这座「城堡」，我们三个。
+
+**海亚姆:** 那时候，伊尔凡是大乐师，熙蔓是元帅，我是占星学士。我们偶尔也会轮换，小孩子嘛…玩腻了就会换着来。
+
+**海亚姆:** 伊尔凡弹得一手好琴；熙蔓她个子高，胳膊壮，没人打得过；而我呢？哈哈，读书多一点，家里多点摩拉而已。
+
+- **旅行者:** 这里是你儿时玩耍的地方？
+
+- **旅行者:** 这些都是你和玩伴留下来的吗…？
+
+**海亚姆:** 不，这里是我们的秘密国度，我很严肃的。我们和他们约好了切莫相忘，长大后举「复国军」回来光复城堡…
+
+**海亚姆:** 不，不全是。最初我们还约定了，等长大以后，举「复国军」回来光复这里…呵呵。
+
+**海亚姆:** 我后来在教令院做植物学研究，正巧回来把这里改造了一番，一波一波搬来又搬走了不少垃圾。
+
+**海亚姆:** 呵呵，二十年过去，他们或许都已经忘记了…这里就被我当做了研究森林的小小据点，一直运作到三十年前。
+
+**海亚姆:** 再后来，「无留陀」来了，「复国军」却还是没影儿。呵呵，也对…小孩子的约定，怎么能抵挡死亡的到来呢？
+
+**派蒙:** 可是…既然你还记得他们，他们一定也还记得你的吧！请不要灰心呀，海亚姆先生！
+
+**海亚姆:** 灰心？不会的。儿时的记忆，共同的「幻想朋友」，不属于大人的世界。可能会有点遗憾，但…时光不复回呀。
+
+**派蒙:** 「幻想朋友」…你是说兰那罗吗？
+
+- **旅行者:** 派蒙…！嘘！
+
+- **旅行者:** 就你话多，派蒙！
+
+**海亚姆:** ……
+
+**海亚姆:** 哈哈…我差点忘记了，我是请你们来帮我为新生植物采样的，不是来闲聊的。
+
+**海亚姆:** 请原谅我这糟老头子话太多，我们继续吧。
 
 #### 和海亚姆对话
 

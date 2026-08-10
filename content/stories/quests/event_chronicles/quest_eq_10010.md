@@ -11,7 +11,7 @@
 # chapter_num_en: The Chalk Prince and the Dragon: Act I
 # chapter_num_zh: 白垩与黑龙 第一幕
 # part_source_ids: 41210
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10011
 # related_quests: quest_eq_10011,quest_eq_10012,quest_eq_10013,quest_eq_10014
 # quest_chain: quest_eq_10010,quest_eq_10011,quest_eq_10012,quest_eq_10013,quest_eq_10014

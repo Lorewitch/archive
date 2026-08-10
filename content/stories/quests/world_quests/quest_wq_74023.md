@@ -3,19 +3,19 @@
 # title_ru: Хорошие вещи в неумелых руках: Продолжение
 # title_en: Good Stuff, but Terrible Taste — Continued
 # title_zh: 好东西，坏品味·续
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74023
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74023
 # previous_quests: quest_wq_74015,quest_wq_74019,quest_wq_74020,quest_wq_74021,quest_wq_74022
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_74015,quest_wq_74019,quest_wq_74020,quest_wq_74021,quest_wq_74022
 # quest_chain: quest_wq_74015,quest_wq_74019,quest_wq_74020,quest_wq_74021,quest_wq_74022,quest_wq_74023
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

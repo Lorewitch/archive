@@ -3,13 +3,13 @@
 # title_ru: Подаренная роза: Баллада ушедших дней
 # title_en: A Gifted Rose: Ballad of Days Gone By
 # title_zh: 献给某人的蔷薇·来自往日的歌谣
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73207
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73207
 # previous_quests: quest_wq_73206
 # next_quests: quest_wq_73209

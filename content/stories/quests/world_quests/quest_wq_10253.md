@@ -3,18 +3,18 @@
 # title_ru: Уроки ведьм: О различных врагах
 # title_en: Witch's Homework: Of Various Foes
 # title_zh: 魔女的课业·诸敌之题
-# region: Мондштадт
+# region: Тейват
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10253
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70096
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_wq_2076,quest_wq_2077,quest_wq_2078,quest_wq_2079,quest_wq_2080,quest_wq_2081,quest_wq_2082,quest_wq_2083,quest_wq_10134,quest_wq_70066,quest_wq_70070,quest_wq_10189,quest_wq_10239,quest_wq_10252
-# quest_chain: quest_wq_2076,quest_wq_2077,quest_wq_2078,quest_wq_2079,quest_wq_2080,quest_wq_2081,quest_wq_2082,quest_wq_2083,quest_wq_10134,quest_wq_70066,quest_wq_70070,quest_wq_10189,quest_wq_10239,quest_wq_10252,quest_wq_10253
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_wq_10253
 # quest_series: Witch's Homework
 # version_source: wiki_release_category
 

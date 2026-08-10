@@ -11,11 +11,11 @@
 # chapter_num_en: Lotos Somno Chapter: Act I
 # chapter_num_zh: 睡莲之章 第一幕
 # part_source_ids: 13006,13007,13008
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2033
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

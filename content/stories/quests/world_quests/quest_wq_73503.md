@@ -3,19 +3,19 @@
 # title_ru: Сокровище мудрости: Новый план
 # title_en: Treasure of Wisdom: A New Plan
 # title_zh: 智中之宝·新计划
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73503
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73503
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73503
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

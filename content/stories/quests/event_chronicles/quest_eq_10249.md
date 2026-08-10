@@ -3,7 +3,7 @@
 # title_ru: Лесной кабан и маленькая ведьма
 # title_en: The Forest Boar and the Little Witch
 # title_zh: 野林猪与小魔女
-# region: Инадзума
+# region: Тейват
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10249
@@ -11,7 +11,7 @@
 # chapter_num_en: Phantasmal Pals: Part I
 # chapter_num_zh: 幻友绮旅 其一
 # part_source_ids: 40212,40221,40228,40232,40243
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10250
 # related_quests: quest_eq_10250,quest_eq_10251
 # quest_chain: quest_eq_10249,quest_eq_10250,quest_eq_10251

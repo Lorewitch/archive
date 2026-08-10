@@ -13,8 +13,8 @@
 # part_source_ids: 3016,3017,3018
 # previous_quests: quest_aq_1306
 # next_quests: quest_aq_1304
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: III
 # version_source: wiki_release_category
 
@@ -3818,7 +3818,7 @@ Your grandpa will be found safe and sound.
 
 **派蒙:** 啊，真的吗，你经常跟她说悄悄话吗？
 
-**纳西妲:** 嘘…咳，我的这位朋友对未来有些困惑，能不能帮{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}占卜一下。
+**纳西妲:** 嘘…咳，我的这位朋友对未来有些困惑，能不能帮空/荧占卜一下。
 
 **娜比雅:** 哼哼哼哼，好吧，那就…
 
@@ -3972,7 +3972,7 @@ Your grandpa will be found safe and sound.
 
 **纳西妲:** 没关系，我可以在附身之后，共享感官给你。效果和拥有了附身能力也差不多，只需要你把虚空终端戴上。
 
-**派蒙:** 原来这么方便，可是为什么非要{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}来呢？你自己不行吗？
+**派蒙:** 原来这么方便，可是为什么非要空/荧来呢？你自己不行吗？
 
 **纳西妲:** 我虽然一直在观察人们，但对模仿一直很不擅长…
 
@@ -4272,7 +4272,7 @@ Your grandpa will be found safe and sound.
 
 **派蒙:** 真的如纳西妲所料，塞塔蕾被我们给说服了…
 
-**纳西妲:** 旅行者的「攻势」非常巧妙，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}才是功劳最大的那个。
+**纳西妲:** 旅行者的「攻势」非常巧妙，空/荧才是功劳最大的那个。
 
 **纳西妲:** 既然时间已经定在明晚，那我们现在能做的也就只有祈祷塞塔蕾顺利了。
 
@@ -4794,7 +4794,7 @@ Your grandpa will be found safe and sound.
 
 #### 与艾尔海森对话
 
-**镀金旅团成员:** 怎么回事！{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}到哪儿去了？
+**镀金旅团成员:** 怎么回事！空/荧到哪儿去了？
 
 **镀金旅团成员:** …可恶，怎么就跟丢了呢，刚才明明还在这里…
 
@@ -5146,7 +5146,7 @@ Your grandpa will be found safe and sound.
 
 **迪希雅:** 啊，不好意思，男孩子们说的话太无聊，害我走神了。
 
-**迪希雅:** 那个…我就很简单啦，呼玛伊家的大小姐迪娜泽黛，旅行者{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们认识的，最近一直在家养病…
+**迪希雅:** 那个…我就很简单啦，呼玛伊家的大小姐迪娜泽黛，旅行者空/荧们认识的，最近一直在家养病…
 
 **迪希雅:** 我没什么事就回来阿如村转转而已。原本想着可以和坎蒂丝你们来个令人激动的再会…
 

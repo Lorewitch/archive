@@ -3,13 +3,13 @@
 # title_ru: Игры с Луной
 # title_en: Come Play With the Moon
 # title_zh: 与月嬉戏
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76122
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76122
 # previous_quests: quest_wq_76052
 # next_quests: quest_wq_76118

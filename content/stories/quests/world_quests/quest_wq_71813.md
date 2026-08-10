@@ -3,19 +3,19 @@
 # title_ru: Возвращение Нефритового дворца?
 # title_en: Return of the Jade Chamber?
 # title_zh: 群玉阁…再现？
-# region: Ли Юэ
+# region: Тейват
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 71813
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71813
 # previous_quests: quest_wq_71814
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_71814
 # quest_chain: quest_wq_71814,quest_wq_71813
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

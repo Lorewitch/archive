@@ -11,10 +11,10 @@
 # chapter_num_en: A Parade of Providence: Act I
 # chapter_num_zh: 盛典与慧业 第一幕
 # part_source_ids: 40100
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10140
-# related_quests: quest_eq_10140,quest_eq_10141,quest_wq_73520,quest_wq_73521,quest_wq_73522,quest_wq_73524,quest_wq_73690,quest_wq_73691,quest_wq_73692,quest_wq_73693,quest_wq_73694,quest_wq_73695,quest_wq_73696
-# quest_chain: quest_eq_10139,quest_eq_10140,quest_eq_10141,quest_wq_73520,quest_wq_73521,quest_wq_73522,quest_wq_73524,quest_wq_73690,quest_wq_73691,quest_wq_73692,quest_wq_73693,quest_wq_73694,quest_wq_73695,quest_wq_73696
+# related_quests: quest_eq_10140,quest_eq_10141
+# quest_chain: quest_eq_10139,quest_eq_10140,quest_eq_10141
 # quest_series: A Parade of Providence
 # version_source: wiki_release_category
 
@@ -154,7 +154,7 @@
 
 **Карина:** А даршан Вахумана представит... Что? Представитель Вахуманы задерживается?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Предлагаю покончить с бессмысленными представлениями и поскорее перейти к делу.
+**Странник:** Предлагаю покончить с бессмысленными представлениями и поскорее перейти к делу.
 
 **Паймон:** А? П-подождите... Почему же Вахуману представляет...
 
@@ -364,45 +364,45 @@
 
 **Паймон:** Гм... Э-э-э...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Зовите меня Мастер Шляпка. Такое имя мне дали в Вахумане.
+**Странник:** Зовите меня Мастер Шляпка. Такое имя мне дали в Вахумане.
 
 **Паймон:** Больше похоже на прозвище, а не на имя!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Самое обычное имя. Что не так?
+**Странник:** Самое обычное имя. Что не так?
 
 **Паймон:** Ладно, как хочешь. Мастер Шляпка, почему ты решил принять участие в Турнире даршанов?
 
 **Паймон:** Мы приглашённые обозреватели, так что будь добр, ответь на наш вопрос.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Да будь вы хоть матры, какая разница. Что вы мне сделаете, если не отвечу?
+**Странник:** Да будь вы хоть матры, какая разница. Что вы мне сделаете, если не отвечу?
 
 **Паймон:** Ах ты!..
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пф. Ладно, скажу так: я пообещал кое-кому не раскрывать своих мотивов.
+**Странник:** Пф. Ладно, скажу так: я пообещал кое-кому не раскрывать своих мотивов.
 
 **Паймон:** Ты... ты что-то задумал, да?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Не могу сказать. Попробуйте угадать, что я замышляю.
+**Странник:** Не могу сказать. Попробуйте угадать, что я замышляю.
 
 **Паймон:** Ох, да сколько можно!
 
 **Паймон:** Ладно, как хочешь! Мы не будем спрашивать, зачем ты участвуешь в турнире. Вместо этого спросим... почему ты присоединился к даршану Вахумана?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Любите вы совать свои носы куда не следует. И если я ничего не скажу, мне придётся выслушивать ваше нытьё?
+**Странник:** Любите вы совать свои носы куда не следует. И если я ничего не скажу, мне придётся выслушивать ваше нытьё?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Узнав, что учёный из Вахуманы по имени Акаба исследует случившееся в Татарасуне, я написал несколько статей, опровергающих его выводы.
+**Странник:** ...Узнав, что учёный из Вахуманы по имени Акаба исследует случившееся в Татарасуне, я написал несколько статей, опровергающих его выводы.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Потом от нечего делать я написал несколько критических заметок о социальном устройстве Инадзумы. Не ожидал, что учёные из Вахуманы примут меня за своего. В итоге меня даже пригласили прочесть курс лекций или что-то вроде того.
+**Странник:** Потом от нечего делать я написал несколько критических заметок о социальном устройстве Инадзумы. Не ожидал, что учёные из Вахуманы примут меня за своего. В итоге меня даже пригласили прочесть курс лекций или что-то вроде того.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Эти болваны сами себя ввели в недоразумение, которое можно было разрешить парой слов. Вот и вся история.
+**Странник:** Эти болваны сами себя ввели в недоразумение, которое можно было разрешить парой слов. Вот и вся история.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Но узнав об этом, малая властительница Кусанали взяла и приписала меня к Вахумане, даже не спросив моего согласия... А вместо имени указала «Мастер Шляпка».
+**Странник:** Но узнав об этом, малая властительница Кусанали взяла и приписала меня к Вахумане, даже не спросив моего согласия... А вместо имени указала «Мастер Шляпка».
 
 Так это Нахида...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Закончим наш разговор. Лучше потратьте время на других участников.
+**Странник:** Закончим наш разговор. Лучше потратьте время на других участников.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Скоро кому-то очень не повезёт. Угадайте кому?
+**Странник:** Скоро кому-то очень не повезёт. Угадайте кому?
 
 **Паймон:** Как же ты надоел со своими загадками!
 
@@ -520,7 +520,7 @@
 
 **Паймон:** Что?.. Смотри! Он тоже наблюдает за другими участниками, как и мы!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пф...
+**Странник:** Пф...
 
 **Паймон:** Паймон была права: нельзя терять бдительности!
 
@@ -532,11 +532,11 @@
 
 **Лайла:** Если я даже этого не могу выяснить, все мои знания просто бесполезны...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Мне казалось, учёные, исследующие звёзды, должны обладать неординарными способностями. Почему бы тебе не обратиться к астрологии?
+**Странник:** Мне казалось, учёные, исследующие звёзды, должны обладать неординарными способностями. Почему бы тебе не обратиться к астрологии?
 
 **Лайла:** Ты ведь один из участников?.. Мастер Шляпка?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Неужели при свете дня астрология бессильна? Очевидно, эти знания куда менее полезны, чем я думал.
+**Странник:** Неужели при свете дня астрология бессильна? Очевидно, эти знания куда менее полезны, чем я думал.
 
 **Лайла:** Нет. Днём тоже можно пользоваться астрологией, но нужна астролябия...
 
@@ -546,7 +546,7 @@
 
 **Лайла:** Я прочла это в научном журнале. Обожаю читать статьи Моны...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ты слишком всё усложняешь. Сила всего лишь инструмент. Очевидно, ты начисто лишена воли к победе. Как хочешь. Можешь дальше морочить себе голову глупыми идеями.
+**Странник:** Ты слишком всё усложняешь. Сила всего лишь инструмент. Очевидно, ты начисто лишена воли к победе. Как хочешь. Можешь дальше морочить себе голову глупыми идеями.
 
 **Паймон:** Эй! Серьёзно? Наговорил кучу гадостей, развернулся и ушёл!
 
@@ -1120,7 +1120,7 @@ I was...
 
 **Kareena:** And for Vahumana... Huh? Is Vahumana's representative not here yet?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** These introductions are pointless. Let's just get this over with.
+**Wanderer:** These introductions are pointless. Let's just get this over with.
 
 **Paimon:** Eh? W—Wait a sec, why is he Vahumana's representative...?
 
@@ -1330,45 +1330,45 @@ Paimon's misremembering things.
 
 **Paimon:** Um, so... what... what, uh...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Just call me Hat Guy. That's the name I use in Vahumana.
+**Wanderer:** Just call me Hat Guy. That's the name I use in Vahumana.
 
 **Paimon:** That sounds like a nickname, not a real name!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** So I can't go by a simple, ordinary name?
+**Wanderer:** So I can't go by a simple, ordinary name?
 
 **Paimon:** Fine, suit yourself. Alright then, Hat Guy, why are you taking part in the Interdarshan Championship?
 
 **Paimon:** We're specially invited guest commentators, so play nice and answer our questions.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You could be matra for all I care. So what if I don't answer you? What then?
+**Wanderer:** You could be matra for all I care. So what if I don't answer you? What then?
 
 **Paimon:** You...!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph, I'll tell you this much: I have an agreement with someone not to reveal my motives.
+**Wanderer:** Hmph, I'll tell you this much: I have an agreement with someone not to reveal my motives.
 
 **Paimon:** You're not plotting something in secret, are you?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Well, it's hard to say. Why don't you take a guess?
+**Wanderer:** Well, it's hard to say. Why don't you take a guess?
 
 **Paimon:** Oh, Paimon's had it with you!
 
 **Paimon:** Fine, be that way! Then we won't ask you why you're participating. Instead... Uh, why did you join Vahumana?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You two sure like to poke your noses where they don't belong. If I don't say anything, are you going to annoy me to death?
+**Wanderer:** You two sure like to poke your noses where they don't belong. If I don't say anything, are you going to annoy me to death?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...I heard that the Vahumana researcher named Aqaba was researching the Tatarasuna incident, so I wrote a few essays to refute his points.
+**Wanderer:** ...I heard that the Vahumana researcher named Aqaba was researching the Tatarasuna incident, so I wrote a few essays to refute his points.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Later, when I was bored, I wrote some commentary on societal issues in Inazuma. I didn't expect Vahumana to consider me as one of them. Someone even invited me to a lecture or whatever.
+**Wanderer:** Later, when I was bored, I wrote some commentary on societal issues in Inazuma. I didn't expect Vahumana to consider me as one of them. Someone even invited me to a lecture or whatever.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** From start to finish, it was just the wishful thinking of idiots — a misunderstanding. There's your answer. Simple.
+**Wanderer:** From start to finish, it was just the wishful thinking of idiots — a misunderstanding. There's your answer. Simple.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** But when Lesser Lord Kusanali heard about this, she went out of her way to get me registered in Vahumana... She used the name "Hat Guy."
+**Wanderer:** But when Lesser Lord Kusanali heard about this, she went out of her way to get me registered in Vahumana... She used the name "Hat Guy."
 
 So it was Nahida's doing...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Enough chit-chat. You're better off wasting your time with the other contestants.
+**Wanderer:** Enough chit-chat. You're better off wasting your time with the other contestants.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Someone's about to get very unlucky — wanna guess who?
+**Wanderer:** Someone's about to get very unlucky — wanna guess who?
 
 **Paimon:** How is anyone supposed to relax with you around!?
 
@@ -1486,7 +1486,7 @@ Just before the Akademiya representatives went on stage.
 
 **Paimon:** Huh? Wait a minute, look! He seems to be observing the other contestants, just like we are!
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Hmph.
+**Wanderer:** ...Hmph.
 
 **Paimon:** We were right not to let our guard down!
 
@@ -1498,11 +1498,11 @@ Just before the Akademiya representatives went on stage.
 
 **Layla:** I can't even figure out these basic questions, and most of what I've learned in the past is completely useless here...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Aren't people who research the stars supposed to have some extraordinary abilities? Why not use astrology to solve it?
+**Wanderer:** Aren't people who research the stars supposed to have some extraordinary abilities? Why not use astrology to solve it?
 
 **Layla:** Oh, you're another contestant... Hat Guy, was it?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Is it that you can't use astrology during the day? Huh, guess that skill's less useful than I thought.
+**Wanderer:** Is it that you can't use astrology during the day? Huh, guess that skill's less useful than I thought.
 
 **Layla:** No, it's not like that. If it's daytime, all I need is an astrolabe...
 
@@ -1512,7 +1512,7 @@ Just before the Akademiya representatives went on stage.
 
 **Layla:** Um, it's just something I read in an academic publication. I really love to read Mona's essays...
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** You're overthinking it. Power is just a tool. It just seems to me that you don't have the resolve to win this. Well, suit yourself. Wallow in your immature ideals if you like.
+**Wanderer:** You're overthinking it. Power is just a tool. It just seems to me that you don't have the resolve to win this. Well, suit yourself. Wallow in your immature ideals if you like.
 
 **Paimon:** Hey! Seriously? Just walking off after saying a bunch of mean stuff like that?
 
@@ -2086,7 +2086,7 @@ I thought I saw someone just now...
 
 **卡莉娜:** 以及因论派代表…咦？因论派代表还没有到场吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 像这种聒噪无用的介绍，还是趁早结束吧。
+**流浪者:** 像这种聒噪无用的介绍，还是趁早结束吧。
 
 **派蒙:** 啊？等等等下，因论派的代表怎么会是…
 
@@ -2296,45 +2296,45 @@ I thought I saw someone just now...
 
 **派蒙:** 呃…你…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 叫我阿帽吧，这是我在因论派挂的名字。
+**流浪者:** 叫我阿帽吧，这是我在因论派挂的名字。
 
 **派蒙:** 阿帽听上去只是绰号不是名字吧！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 一个普普通通的名字，我不能用吗？
+**流浪者:** 一个普普通通的名字，我不能用吗？
 
 **派蒙:** 好吧。阿帽选手，你为什么会来参加学院争霸赛？
 
 **派蒙:** 我们现在是特邀评论员哦，希望你好好回答我们的问题。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们就算是风纪官也没用。我不回答的话，你们能怎么办？
+**流浪者:** 你们就算是风纪官也没用。我不回答的话，你们能怎么办？
 
 **派蒙:** 你这家伙！
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼。不妨告诉你，我答应过别人，不会把此行的目的透露出去。
+**流浪者:** 哼。不妨告诉你，我答应过别人，不会把此行的目的透露出去。
 
 **派蒙:** 你，你该不会秘密计划着什么吧？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 难说呢。你们猜猜我打算干什么？
+**流浪者:** 难说呢。你们猜猜我打算干什么？
 
 **派蒙:** 你你你，气死我了！
 
 **派蒙:** 不说算了！那我们不问你参赛的原因，换个问题，你为什么会加入因论派？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 你们还真是喜欢刨根问底啊，不回答是不是就要一直听你们聒噪下去？
+**流浪者:** 你们还真是喜欢刨根问底啊，不回答是不是就要一直听你们聒噪下去？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …我听说因论派有个叫亚卡巴的学者在研究踏鞴砂事件，就写了几篇文章驳斥他的观点。
+**流浪者:** …我听说因论派有个叫亚卡巴的学者在研究踏鞴砂事件，就写了几篇文章驳斥他的观点。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 后来闲着无聊，就顺便点评了几句稻妻的社会问题。没想到被因论派的人当成了同学，还有人邀请我去参加什么讲座。
+**流浪者:** 后来闲着无聊，就顺便点评了几句稻妻的社会问题。没想到被因论派的人当成了同学，还有人邀请我去参加什么讲座。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 从头到尾不过是愚昧之人的一厢情愿而已，这种误会几句话就能解释清楚。
+**流浪者:** 从头到尾不过是愚昧之人的一厢情愿而已，这种误会几句话就能解释清楚。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 但小吉祥草王得知这件事之后，竟然自作主张给我办理了因论派的学籍…用的还是「阿帽」这个名字。
+**流浪者:** 但小吉祥草王得知这件事之后，竟然自作主张给我办理了因论派的学籍…用的还是「阿帽」这个名字。
 
 原来是纳西妲…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 话就聊到这吧。比起我，你们不如费心关注一下别人。
+**流浪者:** 话就聊到这吧。比起我，你们不如费心关注一下别人。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 有人很快就要倒霉了，猜猜是谁？
+**流浪者:** 有人很快就要倒霉了，猜猜是谁？
 
 **派蒙:** 你这家伙，一点都不让人放心！
 
@@ -2452,7 +2452,7 @@ I thought I saw someone just now...
 
 **派蒙:** 嗯？等一下，你看！他好像和我们一样，也在观察其他参赛者？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …哼。
+**流浪者:** …哼。
 
 **派蒙:** 果然不能掉以轻心！
 
@@ -2464,11 +2464,11 @@ I thought I saw someone just now...
 
 **莱依拉:** 我连这些最基础的问题都搞不懂，学过的知识派不上什么用场…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我记得你们研究星象的人不是挺有本事的吗，用个占星术不就找到了？
+**流浪者:** 我记得你们研究星象的人不是挺有本事的吗，用个占星术不就找到了？
 
 **莱依拉:** 你是…阿帽选手？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 难道是因为在白天用不了占星术？看来这个本领也不怎么好用。
+**流浪者:** 难道是因为在白天用不了占星术？看来这个本领也不怎么好用。
 
 **莱依拉:** 不是的。即使是在白天，想用占星术的话也有办法，只要有星盘…
 
@@ -2478,7 +2478,7 @@ I thought I saw someone just now...
 
 **莱依拉:** 啊，这是我从学术报刊上看到的。我很喜欢看莫娜前辈写的文章…
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 想多了，力量只是工具而已。看来你并没有戴上冠冕的决心，那就带着不成熟的想法自求多福吧。
+**流浪者:** 想多了，力量只是工具而已。看来你并没有戴上冠冕的决心，那就带着不成熟的想法自求多福吧。
 
 **派蒙:** 什么嘛！自顾自地说了一大堆，又自顾自地走了！
 

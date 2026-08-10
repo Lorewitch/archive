@@ -3,7 +3,7 @@
 # title_ru: Волшебная гора
 # title_en: Magic Mountain
 # title_zh: 魔山
-# region: Мондштадт
+# region: Тейват
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 10086
@@ -11,7 +11,7 @@
 # chapter_num_en: A Long Day in the Mountains: Prologue
 # chapter_num_zh: 山中好长日·序章
 # part_source_ids: 70065
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10094
 # related_quests: quest_wq_70099,quest_wq_10094,quest_wq_10095,quest_wq_10132
 # quest_chain: quest_wq_10086,quest_wq_70099,quest_wq_10094,quest_wq_10095,quest_wq_10132

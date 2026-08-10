@@ -12,9 +12,9 @@
 # chapter_num_zh: 风花节 其三
 # part_source_ids: 40099
 # previous_quests: quest_eq_10137
-# next_quests: 
-# related_quests: quest_eq_10136,quest_eq_10137,quest_wq_70528,quest_wq_70529,quest_wq_70530
-# quest_chain: quest_eq_10136,quest_eq_10137,quest_eq_10138,quest_wq_70528,quest_wq_70529,quest_wq_70530
+# next_quests:
+# related_quests: quest_eq_10136,quest_eq_10137
+# quest_chain: quest_eq_10136,quest_eq_10137,quest_eq_10138
 # quest_series: Windblume Festival (Event Chapter) || Windblume's Breath
 # version_source: wiki_release_category
 
@@ -518,7 +518,7 @@
 
 **Алиса:** Она склонна... без предупреждения объявляться в чужом сознании и говорить задуманное.
 
-(Что? Может, это она говорила со мной, когда {REALNAME[ID(1)|HOSTONLY(true)]} и его история были нашим главным расследованием?..)
+(Что? Может, это она говорила со мной, когда Странник и его история были нашим главным расследованием?..)
 
 **Алиса:** Если однажды вам доведётся попасть в крайне опасную ситуацию, её голос может подсказать вам дальнейший путь.
 
@@ -1336,7 +1336,7 @@ But all we did was submit a batch of test answers...
 
 **Alice:** She has a tendency to... suddenly speak in someone's mind without any warning.
 
-(Huh! Could she have been the one who spoke to me while we were investigating {REALNAME[ID(1)|HOSTONLY(true)]}...?)
+(Huh! Could she have been the one who spoke to me while we were investigating Wanderer...?)
 
 **Alice:** If one day, you would be unfortunate enough to run into a truly dangerous situation, she may use her voice to guide the way forward for you.
 
@@ -2154,7 +2154,7 @@ It's time to duel!
 
 **艾莉丝:** 比如，她喜欢凭空在一个人脑海中说话。
 
-（……！！难道是{REALNAME[ID(1)|HOSTONLY(true)]}那时候的…？）
+（……！！难道是流浪者那时候的…？）
 
 **艾莉丝:** 假如有一天你们在某处遇到了重大的危险，她或许会以声音指点你们方向哦。
 

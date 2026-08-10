@@ -11,11 +11,11 @@
 # chapter_num_en: Vultur Volans Chapter: Act I
 # chapter_num_zh: 天隼之章 第一幕
 # part_source_ids: 13020,13021,13022
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2035
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

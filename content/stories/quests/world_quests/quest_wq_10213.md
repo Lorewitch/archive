@@ -11,7 +11,7 @@
 # chapter_num_en: Lost Traveler in the Ashen Realm: Act I
 # chapter_num_zh: 流灰之国的迷旅人·第一章
 # part_source_ids: 75048
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_10215
 # related_quests: quest_wq_10215,quest_wq_10216,quest_wq_10217
 # quest_chain: quest_wq_10213,quest_wq_10215,quest_wq_10216,quest_wq_10217
@@ -38,17 +38,17 @@
 
 - **Путешественник:** Так или иначе, мы спасены.
 
-**Паймон:** Что? Неужели тот же самый золотой узор, как когда нам встретился {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Паймон:** Что? Неужели тот же самый золотой узор, как когда нам встретился Малыш?
 
 **Паймон:** Значит, нам помогает какая-то высшая сила!
 
 **Паймон:** Да, похоже, здесь мы в безопасности! Ох, Паймон и подумать не могла, что нам придётся убегать от хиличурлов!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р?
+**Малыш:** Р-р... Р-р?
 
-**Паймон:** Что такое? {REALNAME[ID(2)|SHOWHOST(true)]}, ты как?
+**Паймон:** Что такое? Малыш, ты как?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Ты заметил что-то необычное?
 
@@ -80,13 +80,13 @@
 
 - **Путешественник:** Это Паймон, моя нанимательница.
 
-**Паймон:** А Паймон зовут Паймон! Мы тоже искатели приключений! А это наш друг {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Паймон:** А Паймон зовут Паймон! Мы тоже искатели приключений! А это наш друг Малыш!
 
 **Паймон:** Что? Интересно, что ты дальше скажешь? Что ты проводник Паймон? Ладно, это Путешественник. Мы искатели приключений, недавно здесь оказались.
 
-**Паймон:** А это наш друг {REALNAME[ID(2)|SHOWHOST(true)]}, мы вместе путешествуем!
+**Паймон:** А это наш друг Малыш, мы вместе путешествуем!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Ты тоже пришла сюда за Нефритом Возвращения, как все остальные искатели приключений?
 
@@ -172,11 +172,11 @@
 
 **Бона:** Не называй его привидением! Его зовут Кокоуик! Я сама придумала ему имя. Подходит, правда?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Кокоуик:** Ку-р-ру?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р... Р-р-р!
+**Малыш:** Р-р... Р-р-р!
 
 **Паймон:** Кажется, вы поладили. Значит, он и был золотым лучом, который нас спас? Вот это да!
 
@@ -240,17 +240,17 @@
 
 **Кокоуик:** Ку...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** У-у-у...
+**Малыш:** У-у-у...
 
-**Паймон:** Не расстраивайся! {REALNAME[ID(2)|SHOWHOST(true)]}, Паймон вовсе не хотела сказать, что ты бесполезен!
+**Паймон:** Не расстраивайся! Малыш, Паймон вовсе не хотела сказать, что ты бесполезен!
 
 - **Путешественник:** Паймон, ты могла бы выразиться иначе.
 
 - **Путешественник:** У каждого свои сильные стороны.
 
-**Паймон:** Путешественник, помоги Паймон всё объяснить! У каждого свои сильные стороны! {REALNAME[ID(2)|SHOWHOST(true)]} не проявил себя, потому что его время пока не пришло!
+**Паймон:** Путешественник, помоги Паймон всё объяснить! У каждого свои сильные стороны! Малыш не проявил себя, потому что его время пока не пришло!
 
-**Паймон:** Да! {REALNAME[ID(2)|SHOWHOST(true)]}, скоро и ты покажешь, на что способен!
+**Паймон:** Да! Малыш, скоро и ты покажешь, на что способен!
 
 **Паймон:** Кстати, а куда улетел злой дракон? Туда?
 
@@ -306,7 +306,7 @@
 
 **Бона:** Записки в башне? Серьёзно? Вас надоумили отправиться в запретный город Очканатлан какие-то неизвестные записки? Да уж, не зря говорят, смелость всегда сопутствует таланту.
 
-**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, скорее всего, историю о Тона{RUBY#[S]корабль «Летучий змей»}тиу вы тоже не слышали?
+**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, скорее всего, историю о Тонакорабль «Летучий змей»тиу вы тоже не слышали?
 
 **Бона:** Как явствует из названия, это легендарный небесный корабль, построенный царём питонов Оч-каном, тираном Очканатлана. Корабль был доверху нагружен сокровищами, и множество искателей приключений из Натлана пытались его найти.
 
@@ -316,7 +316,7 @@
 
 **Бона:** Несколько десятилетий назад Бездна почти до основания разрушила наше племя. Тогда же в древнем городе поселился злой дракон.
 
-**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит Во{RUBY#[D]Ометеотль}звращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
+**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит ВоОметеотльзвращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
 
 **Бона:** Тогда память о кошмаре, который сотворила Бездна, была ещё очень свежа. Если отыскать Нефрит и усмирить скверну, то и племени больше не придётся жить в вечном страхе.
 
@@ -372,9 +372,9 @@
 
 **Бона:** Ха-ха, правда? Отлично, я знала, что вы согласитесь! Уверена, с вашей помощью я смогу исполнить последнюю волю отца.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** И {REALNAME[ID(2)|SHOWHOST(true)]} тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
+**Паймон:** И Малыш тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
 
 **Паймон:** Опять удрал! Да что же это такое!
 
@@ -388,11 +388,11 @@
 
 Это сказал золотой узор...
 
-**Паймон:** Хм. Тот же самый золотой узор мы видели, когда нам встретился {REALNAME[ID(2)|SHOWHOST(true)]}? Неужели {REALNAME[ID(2)|SHOWHOST(true)]} как-то связан со злым драконом?
+**Паймон:** Хм. Тот же самый золотой узор мы видели, когда нам встретился Малыш? Неужели Малыш как-то связан со злым драконом?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
-**Паймон:** Нет, {REALNAME[ID(2)|SHOWHOST(true)]}! Паймон ни в чём тебя не подозревает! Но такое ощущение, будто кто-то ведёт нас с той самой секунды, как мы ступили в древний город...
+**Паймон:** Нет, Малыш! Паймон ни в чём тебя не подозревает! Но такое ощущение, будто кто-то ведёт нас с той самой секунды, как мы ступили в древний город...
 
 **Паймон:** Наверное, Паймон придумывает...
 
@@ -414,7 +414,7 @@
 
 **Бона:** Записки в башне? Серьёзно? Вас надоумили отправиться в запретный город Очканатлан какие-то неизвестные записки? Да уж, не зря говорят, смелость всегда сопутствует таланту.
 
-**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, наверное, историю о Тон{RUBY#[D]корабль «Летучий змей»}атиу вы тоже не слышали?
+**Бона:** Раз вы ничего не знаете о Нефрите Возвращения, наверное, историю о Тонкорабль «Летучий змей»атиу вы тоже не слышали?
 
 **Бона:** Как явствует из названия, это легендарный небесный корабль, построенный царём питонов Оч-каном, тираном Очканатлана. Корабль был доверху нагружен сокровищами, и множество искателей приключений из Натлана пытались его найти.
 
@@ -424,7 +424,7 @@
 
 **Бона:** Несколько десятилетий назад Бездна почти до основания разрушила наше племя. Тогда же в древнем городе поселился злой дракон.
 
-**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит Во{RUBY#[D]Ометеотль}звращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
+**Бона:** Говорили, среди бесчисленных сокровищ на «Тонатиу» хранится Нефрит ВоОметеотльзвращения, а тот, кто его отыщет, сможет усмирить этот древний город, отравленный Бездной.
 
 **Бона:** Тогда память о кошмаре, который сотворила Бездна, была ещё очень свежа. Если отыскать Нефрит и усмирить скверну, то и племени больше не придётся жить в вечном страхе.
 
@@ -480,9 +480,9 @@
 
 **Бона:** Ха-ха, правда? Отлично, я знала, что вы согласитесь! Уверена, с вашей помощью я смогу исполнить последнюю волю отца.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
-**Паймон:** И {REALNAME[ID(2)|SHOWHOST(true)]} тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
+**Паймон:** И Малыш тоже за! Решено! Отправляемся в путь, пока злой дракон не вернулся!
 
 ## EN
 
@@ -504,17 +504,17 @@ As an enormous explosion rings out, you all slide to the bottom amidst sloughing
 
 - **Traveler:** Whatever it was, it saved us.
 
-**Paimon:** Could it be the same kind of gold pattern that we saw when we encountered {REALNAME[ID(2)|SHOWHOST(true)]}? Did the pattern guide us here?
+**Paimon:** Could it be the same kind of gold pattern that we saw when we encountered Little One? Did the pattern guide us here?
 
 **Paimon:** Feels like we're being helped by some kind of higher power somehow!
 
 **Paimon:** And this looks like a safer spot either way. Ugh, Paimon never thought we'd have to run from hilichurls!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Ehrr?
+**Little One:** Rawr... Ehrr?
 
-**Paimon:** What's wrong? Are you okay, {REALNAME[ID(2)|SHOWHOST(true)]}?
+**Paimon:** What's wrong? Are you okay, Little One?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrroo...
+**Little One:** Rrroo...
 
 **Paimon:** Did something in here catch your attention?
 
@@ -546,13 +546,13 @@ As an enormous explosion rings out, you all slide to the bottom amidst sloughing
 
 - **Traveler:** This is Paimon, my employer.
 
-**Paimon:** And my name's Paimon. We're also adventurers exploring this place. This little one here is our companion, {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Paimon:** And my name's Paimon. We're also adventurers exploring this place. This little one here is our companion, Little One!
 
 **Paimon:** Huh? Seriously? What are you gonna do next, tell her that you're Paimon's guide? Anyway, he / she's Traveler. We're also adventurers who just arrived.
 
-**Paimon:** This little one here is our companion, {REALNAME[ID(2)|SHOWHOST(true)]}!
+**Paimon:** This little one here is our companion, Little One!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Are you also looking for the Jade of Return, like the other adventurers were?
 
@@ -620,7 +620,7 @@ This isn't foreshadowing, is it?
 
 **Paimon:** Coco? Who's that? You mean there's someone else here?
 
-**Bona:** Coco's my companion, like {REALNAME[ID(2)|SHOWHOST(true)]} is yours. Anyway, come with me and see for yourself.
+**Bona:** Coco's my companion, like Little One is yours. Anyway, come with me and see for yourself.
 
 You follow Bona and return to ground level.
 
@@ -638,11 +638,11 @@ You follow Bona and return to ground level.
 
 **Bona:** Don't call it a Specter, that's mean! Its name is Cocouik. I chose the name, by the way, and given how shiny it is, I'd say it's pretty spot on too!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Cocouik:** Kuru?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr... Rawr!
+**Little One:** Rawr... Rawr!
 
 **Paimon:** You seem to be getting along just fine. So the light that saved us came from this little guy, huh? Incredible!
 
@@ -706,17 +706,17 @@ You follow Bona and return to ground level.
 
 **Cocouik:** Kru...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Wrrooo...
+**Little One:** Wrrooo...
 
-**Paimon:** Don't be sad! We're not saying that you didn't do anything, {REALNAME[ID(2)|SHOWHOST(true)]}.
+**Paimon:** Don't be sad! We're not saying that you didn't do anything, Little One.
 
 - **Traveler:** Not great with words, are we?
 
 - **Traveler:** Everyone has their strengths.
 
-**Paimon:** C'mon, just help Paimon explain, Traveler! We've all got different strengths! This just wasn't the time for {REALNAME[ID(2)|SHOWHOST(true)]} to shine yet!
+**Paimon:** C'mon, just help Paimon explain, Traveler! We've all got different strengths! This just wasn't the time for Little One to shine yet!
 
-**Paimon:** That's right. You'll get your chance soon, {REALNAME[ID(2)|SHOWHOST(true)]}, Paimon knows it!
+**Paimon:** That's right. You'll get your chance soon, Little One, Paimon knows it!
 
 **Paimon:** Anyway, the evil dragon flew off in that direction, huh?
 
@@ -772,7 +772,7 @@ The words came from the golden pattern.
 
 **Bona:** Wait, you came to Ochkanatlan, the forbidden city, on account of some notes you just... happened to pick up? Heh. "The more skilled the person, the more bold their deeds," I guess.
 
-**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of the Tona{RUBY#[D]Skyserpent Ship}tiuh, then?
+**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of the TonaSkyserpent Shiptiuh, then?
 
 **Bona:** As the name suggests, it was a sky-faring ship built by Python King Och-Kan, the tyrant who ruled Ochkanatlan. The ship was filled to the brim with treasures, and countless adventurers from Natlan have pursued it.
 
@@ -782,7 +782,7 @@ The words came from the golden pattern.
 
 **Bona:** The Abyss calamity devastated our tribe decades ago, and the evil dragon that occupies this ancient city also appeared around the same time.
 
-**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade of{RUBY#[D]Ometeotl} Return, and that locating it would quell this Abyss-tainted ancient city.
+**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade ofOmeteotl Return, and that locating it would quell this Abyss-tainted ancient city.
 
 **Bona:** At that time, we'd just witnessed the nightmare of the Abyss. So if we could find the Jade and suppress the contamination here in the city, our tribe would no longer have to live in fear.
 
@@ -838,9 +838,9 @@ The words came from the golden pattern.
 
 **Bona:** Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]} concurs! It's settled, then. Let's get going before the dragon comes back!
+**Paimon:** Little One concurs! It's settled, then. Let's get going before the dragon comes back!
 
 **Paimon:** Ugh, Paimon can't believe it got away again!
 
@@ -854,11 +854,11 @@ The words came from the golden pattern.
 
 The words came from the golden pattern.
 
-**Paimon:** Hmm, is that the same pattern we saw when we encountered {REALNAME[ID(2)|SHOWHOST(true)]}? Could this evil dragon be related to him somehow?
+**Paimon:** Hmm, is that the same pattern we saw when we encountered Little One? Could this evil dragon be related to him somehow?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rroo...
+**Little One:** Rroo...
 
-**Paimon:** Oh, Paimon isn't suspecting you or anything, {REALNAME[ID(2)|SHOWHOST(true)]}! But it feels like someone has been guiding us ever since we stepped into this ancient city...
+**Paimon:** Oh, Paimon isn't suspecting you or anything, Little One! But it feels like someone has been guiding us ever since we stepped into this ancient city...
 
 **Paimon:** Maybe Paimon's overthinking this...
 
@@ -880,7 +880,7 @@ The words came from the golden pattern.
 
 **Bona:** Wait, you came to Ochkanatlan, the forbidden city, on account of some notes you just... happened to pick up? Heh. "The more skilled the person, the more bold their deeds," I guess.
 
-**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of Tona{RUBY#[D]The Skyserpent Ship}tiuh, then?
+**Bona:** Since you don't know anything about the Jade of Return, you probably haven't heard about the story of TonaThe Skyserpent Shiptiuh, then?
 
 **Bona:** As the name suggests, it was a sky-faring ship built by Python King Och-Kan, the tyrant who ruled Ochkanatlan. The ship was filled to the brim with treasures, and countless adventurers from Natlan have pursued it.
 
@@ -890,7 +890,7 @@ The words came from the golden pattern.
 
 **Bona:** The Abyss calamity devastated our tribe decades ago, and the evil dragon that occupies this ancient city also appeared around the same time.
 
-**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade of{RUBY#[D]Ometeotl} Return, and that locating it would quell this Abyss-tainted ancient city.
+**Bona:** Rumor had it that one of the countless treasures aboard the ship was the Jade ofOmeteotl Return, and that locating it would quell this Abyss-tainted ancient city.
 
 **Bona:** At that time, we'd just witnessed the nightmare of the Abyss. So if we could find the Jade and suppress the contamination here in the city, our tribe would no longer have to live in fear.
 
@@ -946,9 +946,9 @@ The words came from the golden pattern.
 
 **Bona:** Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
-**Paimon:** {REALNAME[ID(2)|SHOWHOST(true)]} concurs! It's settled, then. Let's get going before the dragon comes back!
+**Paimon:** Little One concurs! It's settled, then. Let's get going before the dragon comes back!
 
 ## ZH
 
@@ -970,17 +970,17 @@ The words came from the golden pattern.
 
 - **旅行者:** 总之是得救了。
 
-**派蒙:** 欸？难道是之前遇见{REALNAME[ID(2)|SHOWHOST(true)]}的时候也见过的那种金色花纹？是那个花纹把我们指引到这里来的吗？
+**派蒙:** 欸？难道是之前遇见小家伙的时候也见过的那种金色花纹？是那个花纹把我们指引到这里来的吗？
 
 **派蒙:** 怎么说，感觉就像是有什么力量在暗中帮助我们呢！
 
 **派蒙:** 至少这里面看起来还比较安全啦…呃啊，没想到竟然有一天会被丘丘人追着跑！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…嗯？
+**小家伙:** 呀…嗯？
 
-**派蒙:** 怎么了，{REALNAME[ID(2)|SHOWHOST(true)]}你没事吧？
+**派蒙:** 怎么了，小家伙你没事吧？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
 **派蒙:** 难不成是这里面有什么你在意的地方吗？
 
@@ -1012,13 +1012,13 @@ The words came from the golden pattern.
 
 - **旅行者:** 这是我的雇主派蒙。
 
-**派蒙:** 嗯嗯，然后我是派蒙，我们也是来这里探险的冒险家。还有这个小家伙，{REALNAME[ID(2)|SHOWHOST(true)]}，是和我们一起的伙伴！
+**派蒙:** 嗯嗯，然后我是派蒙，我们也是来这里探险的冒险家。还有这个小家伙，小家伙，是和我们一起的伙伴！
 
 **派蒙:** 嗯？什么啦，接下来你该不会是想说你是我的向导吧？好啦，总之他 / 她是旅行者，我们也是刚到这里的冒险家。
 
-**派蒙:** 还有这个小家伙，{REALNAME[ID(2)|SHOWHOST(true)]}，是和我们一起冒险的伙伴！
+**派蒙:** 还有这个小家伙，小家伙，是和我们一起冒险的伙伴！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 对了，该不会玻娜也是为了寻找那个什么「回还之玉」而来到这里的冒险家吧？
 
@@ -1086,7 +1086,7 @@ The words came from the golden pattern.
 
 **派蒙:** 绿宝？绿宝又是谁啊，难道说这里还有其他人？
 
-**玻娜:** 嗯，类比来说的话就像你们和{REALNAME[ID(2)|SHOWHOST(true)]}，可以算是我的伙伴呢…哎呀，总之你们跟我来就知道了。
+**玻娜:** 嗯，类比来说的话就像你们和小家伙，可以算是我的伙伴呢…哎呀，总之你们跟我来就知道了。
 
 跟随玻娜的脚步，你们一同回到了地上。
 
@@ -1104,11 +1104,11 @@ The words came from the golden pattern.
 
 **玻娜:** 哇，说是飘浮灵也太过分了！这孩子叫「绿松石」，是我起的名字喔，怎么样？看起来闪闪亮亮的很贴切吧！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **「绿松石」:** 咕噜？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀…呀！
+**小家伙:** 呀…呀！
 
 **派蒙:** 欸，你们两个倒是很聊得来嘛。所以说刚才发出那道光芒救了我们的就是这个小家伙咯，真是不可思议！
 
@@ -1172,17 +1172,17 @@ The words came from the golden pattern.
 
 **「绿松石」:** 咕…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呜呜…
+**小家伙:** 呜呜…
 
-**派蒙:** 欸？我不是说{REALNAME[ID(2)|SHOWHOST(true)]}没派上用场的意思啦，别难过呀。
+**派蒙:** 欸？我不是说小家伙没派上用场的意思啦，别难过呀。
 
 - **旅行者:** 派蒙真不会说话。
 
 - **旅行者:** 每个人都有擅长的领域。
 
-**派蒙:** 旅行者你也帮我解释一下啊，每个人擅长的地方都不一样，只是这里不适合{REALNAME[ID(2)|SHOWHOST(true)]}发挥而已吧。
+**派蒙:** 旅行者你也帮我解释一下啊，每个人擅长的地方都不一样，只是这里不适合小家伙发挥而已吧。
 
-**派蒙:** 对啊，接下来说不定就到了{REALNAME[ID(2)|SHOWHOST(true)]}大放异彩的时候了呢。
+**派蒙:** 对啊，接下来说不定就到了小家伙大放异彩的时候了呢。
 
 **派蒙:** 话说回来，坏龙是往那个方向飞了吗？
 
@@ -1238,7 +1238,7 @@ The words came from the golden pattern.
 
 **玻娜:** 捡到的笔记？因为这种理由就跑到了这座禁忌之城「奥奇卡纳塔」里来，该说不说，还真是艺高人胆大呢。
 
-**玻娜:** 既然你们连「回还之玉」的事情都不清楚，应该也没听说过「托纳{RUBY#[D]天蛇船}蒂乌」的故事吧？
+**玻娜:** 既然你们连「回还之玉」的事情都不清楚，应该也没听说过「托纳天蛇船蒂乌」的故事吧？
 
 **玻娜:** 那是曾经统治奥奇卡纳塔的暴君，蛇王奥奇坎所建造的满载宝物的天船，是无数纳塔的冒险家所追逐的目标。
 
@@ -1248,7 +1248,7 @@ The words came from the golden pattern.
 
 **玻娜:** 数十年前，深渊灾厄曾一度摧毁我们的部族，盘踞在这座古城的邪龙，也是那个时候才出现的。
 
-**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还{RUBY#[D]奥梅忒托}之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
+**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还奥梅忒托之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
 
 **玻娜:** 那时大家刚刚目睹了深渊带来的噩梦，如果能够找到这件宝物，镇压这里的污秽的话，部族的大家也就不用再生活在恐惧中了。
 
@@ -1304,9 +1304,9 @@ The words came from the golden pattern.
 
 **玻娜:** 真的吗？太好了，我果然没看错人，我就知道你们一定会答应的！有你们在，这次一定能完成老爹的夙愿了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
+**派蒙:** 小家伙也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
 
 **派蒙:** 可恶，结果这次还是让它跑掉了！
 
@@ -1320,11 +1320,11 @@ The words came from the golden pattern.
 
 是金色的花纹上说的啦。
 
-**派蒙:** 欸？又是我们遇见{REALNAME[ID(2)|SHOWHOST(true)]}的时候看到的那种花纹吗，唔…该不会这条坏龙和{REALNAME[ID(2)|SHOWHOST(true)]}有什么关联？
+**派蒙:** 欸？又是我们遇见小家伙的时候看到的那种花纹吗，唔…该不会这条坏龙和小家伙有什么关联？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔…
+**小家伙:** 唔…
 
-**派蒙:** 啊，{REALNAME[ID(2)|SHOWHOST(true)]}，我不是在怀疑你的意思啦！但是从进到这座古城开始就感觉很奇怪，像是有人一直在指引着我们一样…
+**派蒙:** 啊，小家伙，我不是在怀疑你的意思啦！但是从进到这座古城开始就感觉很奇怪，像是有人一直在指引着我们一样…
 
 **派蒙:** 唔，或许是我想多了吧。
 
@@ -1346,7 +1346,7 @@ The words came from the golden pattern.
 
 **玻娜:** 捡到的笔记？因为这种理由就跑到了这座禁忌之城「奥奇卡纳塔」里来，该说不说，还真是艺高人胆大呢。
 
-**玻娜:** 既然你们连「回还之玉」的事情都不清楚，估计也没听说过「托纳{RUBY#[D]天蛇船}蒂乌」的故事吧？
+**玻娜:** 既然你们连「回还之玉」的事情都不清楚，估计也没听说过「托纳天蛇船蒂乌」的故事吧？
 
 **玻娜:** 那是曾经统治奥奇卡纳塔的暴君，蛇王奥奇坎所建造的满载宝物的天船，是无数纳塔的冒险家所追逐的目标。
 
@@ -1356,7 +1356,7 @@ The words came from the golden pattern.
 
 **玻娜:** 数十年前，深渊灾厄曾一度摧毁我们的部族，盘踞在这座古城的邪龙，也是那个时候才出现的。
 
-**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还{RUBY#[D]奥梅忒托}之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
+**玻娜:** 而据说在「天蛇船」上无数的宝物中有一件「回还奥梅忒托之玉」，据说只要找到它便能镇压这座被深渊浸染的古城。
 
 **玻娜:** 那时大家刚刚目睹了深渊带来的噩梦，如果能够找到这件宝物，镇压这里的污秽的话，部族的大家也就不用再生活在恐惧中了。
 
@@ -1412,6 +1412,6 @@ The words came from the golden pattern.
 
 **玻娜:** 真的吗？太好了，我果然没看错人，我就知道你们一定会答应的！有你们在，这次一定能完成老爹的夙愿了。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
-**派蒙:** {REALNAME[ID(2)|SHOWHOST(true)]}也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！
+**派蒙:** 小家伙也同意了呢，那么就这样决定了。趁着那条坏龙还没回来，我们就赶紧出发吧！

@@ -11,10 +11,10 @@
 # chapter_num_en: Springtime Charms: First Stanza
 # chapter_num_zh: 春曦画桃符·第一回
 # part_source_ids: 40184
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_eq_10219
-# related_quests: quest_eq_10219,quest_eq_10220,quest_wq_40187,quest_wq_71533,quest_wq_71534,quest_wq_71535,quest_wq_71536,quest_wq_71537,quest_wq_71538,quest_wq_71539,quest_wq_71541
-# quest_chain: quest_eq_10218,quest_eq_10219,quest_eq_10220,quest_wq_40187,quest_wq_71533,quest_wq_71534,quest_wq_71535,quest_wq_71536,quest_wq_71537,quest_wq_71538,quest_wq_71539,quest_wq_71541
+# related_quests: quest_eq_10219,quest_eq_10220,quest_wq_40187
+# quest_chain: quest_eq_10218,quest_eq_10219,quest_eq_10220,quest_wq_40187
 # quest_series: Springtime Charms
 # version_source: wiki_release_category
 

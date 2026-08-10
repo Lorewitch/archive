@@ -13,8 +13,8 @@
 # part_source_ids: 6012,6013,6014
 # previous_quests: quest_aq_1601
 # next_quests: quest_aq_1604
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: Song of the Welkin Moon
 # version_source: wiki_release_category
 
@@ -160,7 +160,7 @@
 
 **Лаума:** Нет, это...
 
-**Лаума:** ...Чертог серебряной Луны! Куу{RUBY#[S]Дева Луны}тар может быть в опасности!
+**Лаума:** ...Чертог серебряной Луны! КууДева Лунытар может быть в опасности!
 
 **Паймон:** Скорее, туда!
 
@@ -184,7 +184,7 @@
 
 **Ягода:** Да, начало мы пропустили. Но ситуация была критическая, и мы решили вмешаться.
 
-**Лаума:** Куу{RUBY#[S]Дева Луны}тар, вы расскажете нам, что случилось?
+**Лаума:** КууДева Лунытар, вы расскажете нам, что случилось?
 
 **Инеффа:** «Куутар»... Обработка информации... Значит, вы Богиня Луны, которой поклоняются Дети Морозной Луны?
 
@@ -196,7 +196,7 @@
 
 **Субретка:** Не знаю, за что он меня ненавидит, но... его зовут «Лунный мститель». Возможно это имя всё вам объяснит.
 
-**Лаума:** «Куу{RUBY#[S]Дева Луны}тар»...
+**Лаума:** «КууДева Лунытар»...
 
 **Инеффа:** Существует целый ряд возможных мотивов. Например, ты помогла (путешественнице)(путешественнику) вырваться из его лап, а он решил тебе отомстить.
 
@@ -240,7 +240,7 @@
 
 **Флинс:** Вы спасли нас. Я не хочу сводить всё к разговорам о долге, это будет грубо, но... достаточно сказать, что мы друзья, а друзья должны заботиться друг о друге.
 
-**Инеффа:** Мы не знаем, какова настоящая цель Лунного мстителя. Даже если мы пожертвуем госпожой Куу{RUBY#[S]Дева Луны}тар, далеко не факт, что после этого он остановится.
+**Инеффа:** Мы не знаем, какова настоящая цель Лунного мстителя. Даже если мы пожертвуем госпожой КууДева Лунытар, далеко не факт, что после этого он остановится.
 
 - **Путешественник:** Бегством проблему не решить.
 
@@ -248,7 +248,7 @@
 
 **Субретка:** Но...
 
-**Лаума:** Куу{RUBY#[S]Дева Луны}тар... Я знаю, почему много лет назад ты оставила Детей Морозной Луны. Люди стали относиться к молитве как к сделке.
+**Лаума:** КууДева Лунытар... Я знаю, почему много лет назад ты оставила Детей Морозной Луны. Люди стали относиться к молитве как к сделке.
 
 **Лаума:** Они загадывали желания, совали тебе ненужные подношения и начинали жадно требовать от тебя чудес, которые загадали.
 
@@ -364,7 +364,7 @@
 
 **Варка:** Не думал, что здесь столько всего успело произойти. А вам здорово досталось.
 
-**Варка:** Значит, Куу{RUBY#[S]Дева Луны}тар, которой поклоняются Дети Морозной Луны, - Предвестница Фатуи. А Рери, один из Пяти Грешников, стал воплощением Дикой Охоты Нод-Края...
+**Варка:** Значит, КууДева Лунытар, которой поклоняются Дети Морозной Луны, - Предвестница Фатуи. А Рери, один из Пяти Грешников, стал воплощением Дикой Охоты Нод-Края...
 
 **Варка:** Сколько информации. Мне нужно время, чтобы всё осмыслить.
 
@@ -462,7 +462,7 @@
 
 **Лаума:** Верно... О Лунном мстителе нам известно крайне мало.
 
-**Лаума:** Если бы не подсказка от Куу{RUBY#[S]Дева Луны}тар, мы бы даже не знали, как его зовут.
+**Лаума:** Если бы не подсказка от КууДева Лунытар, мы бы даже не знали, как его зовут.
 
 **Айно:** Но с чего начать? Боюсь, даже королева разведданных Нод-Края ничего о нём не знает, а она обо всём узнаёт первой.
 
@@ -1362,11 +1362,11 @@
 
 **Варка:** Хорошо, тогда нам снова придётся разделиться.
 
-**Варка:** Путешественник, Паймон, Куу{RUBY#[S]Дева Луны}тар и госпожа Арлекино. Вы отправляетесь за Светочем Радужной Луны.
+**Варка:** Путешественник, Паймон, КууДева Лунытар и госпожа Арлекино. Вы отправляетесь за Светочем Радужной Луны.
 
 **Варка:** А остальные...
 
-**Лаума:** По пути сюда я заметила, что Дикая Охота стала ещё более ожесточённо разыскивать Куу{RUBY#[S]Дева Луны}тар.
+**Лаума:** По пути сюда я заметила, что Дикая Охота стала ещё более ожесточённо разыскивать КууДева Лунытар.
 
 **Лаума:** Если так пойдёт дальше, под угрозой окажутся местные жители... Я намерена собрать часть последователей и уничтожить монстров Дикой Охоты.
 
@@ -1918,7 +1918,7 @@ The "Rächer of Solnari" has been revived with the aid of a kuuvahki beam. Now a
 
 **Lauma:** No, it's coming from...
 
-**Lauma:** ...Silvermoon Hall! The Lady Kuu{RUBY#[S]Moon Maiden}tar might be in danger!
+**Lauma:** ...Silvermoon Hall! The Lady KuuMoon Maidentar might be in danger!
 
 **Paimon:** Let's get over there, quick!
 
@@ -1942,7 +1942,7 @@ The "Rächer of Solnari" has been revived with the aid of a kuuvahki beam. Now a
 
 **Jahoda:** Yeah, we didn't see how it all started. It all escalated so quickly, we had no choice but to step in.
 
-**Lauma:** Kuu{RUBY#[S]Moon Maiden}tar, can you shed any light on the situation?
+**Lauma:** KuuMoon Maidentar, can you shed any light on the situation?
 
 **Ineffa:** Kuutar... Cross-checking database... I see. So you're the one that the Frostmoon Scions refer to as the "Moon Goddess"?
 
@@ -1954,7 +1954,7 @@ The "Rächer of Solnari" has been revived with the aid of a kuuvahki beam. Now a
 
 **The Damselette:** Why he holds me in such contempt, I cannot say. But since he hunts the power of the moon... it's no surprise that I am a target.
 
-**Lauma:** Kuu{RUBY#[S]Moon Maiden}tar...
+**Lauma:** KuuMoon Maidentar...
 
 **Ineffa:** There are many potential motives. For instance, you helped Traveler escape his grasp. This could be his way of taking revenge.
 
@@ -1998,7 +1998,7 @@ The "Rächer of Solnari" has been revived with the aid of a kuuvahki beam. Now a
 
 **Flins:** We can't overlook that you have saved our lives multiple times now. To talk of returning the favor would be a little crass for my liking, but... suffice to say that we are friends, and friends look out for one another.
 
-**Ineffa:** Rerir's true objective remains unclear. Even if we were to sacrifice Miss Kuu{RUBY#[S]Moon Maiden}tar, there's no guarantee he would stop.
+**Ineffa:** Rerir's true objective remains unclear. Even if we were to sacrifice Miss KuuMoon Maidentar, there's no guarantee he would stop.
 
 - **Traveler:** Running away won't solve anything.
 
@@ -2006,7 +2006,7 @@ The "Rächer of Solnari" has been revived with the aid of a kuuvahki beam. Now a
 
 **The Damselette:** But—
 
-**Lauma:** Kuu{RUBY#[S]Moon Maiden}tar... I know why you left the Frostmoon Scions so long ago. It was because people started treating prayer as a form of trade.
+**Lauma:** KuuMoon Maidentar... I know why you left the Frostmoon Scions so long ago. It was because people started treating prayer as a form of trade.
 
 **Lauma:** They would make self-centered wishes, force you to accept meaningless offerings in return, and then expect you to perform miracles for them as if that were their entitlement.
 
@@ -2122,7 +2122,7 @@ The Northern Intelligence Network...
 
 **Varka:** Wow, I had no idea so much had happened. Sounds like you guys have really been through it.
 
-**Varka:** So, the Kuu{RUBY#[S]Moon Maiden}tar is actually a Fatui Harbinger... and all this Wild Hunt activity in Nod-Krai is the work of the "Rächer of Solnari," one of the Five Sinners...
+**Varka:** So, the KuuMoon Maidentar is actually a Fatui Harbinger... and all this Wild Hunt activity in Nod-Krai is the work of the "Rächer of Solnari," one of the Five Sinners...
 
 **Varka:** That's a lot to take in. Need some time to wrap my head around it all...
 
@@ -2220,7 +2220,7 @@ I will go with her.
 
 **Lauma:** It's true... We still know very little about him.
 
-**Lauma:** If Kuu{RUBY#[S]Moon Maiden}tar hadn't given us that lead, we wouldn't even know his name.
+**Lauma:** If KuuMoon Maidentar hadn't given us that lead, we wouldn't even know his name.
 
 **Aino:** But where would we even start? I doubt even the intel queen of Nod-Krai has a clue, and she has info coming out of her ears...
 
@@ -3120,11 +3120,11 @@ Tholindis...?
 
 **Varka:** Alright then, let's keep working in our separate teams.
 
-**Varka:** Traveler, Paimon, Kuu{RUBY#[S]Moon Maiden}tar, and Ms. Arlecchino will go look for the Iridescent Moon's marrow.
+**Varka:** Traveler, Paimon, KuuMoon Maidentar, and Ms. Arlecchino will go look for the Iridescent Moon's marrow.
 
 **Varka:** As for the others...
 
-**Lauma:** On the way over here, I noticed that the Wild Hunt monsters had grown even more frenzied in their search for Kuu{RUBY#[S]Moon Maiden}tar.
+**Lauma:** On the way over here, I noticed that the Wild Hunt monsters had grown even more frenzied in their search for KuuMoon Maidentar.
 
 **Lauma:** At this rate, the people living here will be in grave danger too. So I'm thinking of gathering together some of our followers to go wipe them out.
 
@@ -3676,7 +3676,7 @@ Leave it to me.
 
 **菈乌玛:** 不对，那边是…
 
-**菈乌玛:** 是银月之庭的方向！「库塔{RUBY#[S]月之少女}尔」那边出事了！
+**菈乌玛:** 是银月之庭的方向！「库塔月之少女尔」那边出事了！
 
 **派蒙:** 我们快过去看看！
 
@@ -3700,7 +3700,7 @@ Leave it to me.
 
 **雅珂达:** 是啊，我们也不清楚缘由。当时情况危急，只能先出手了。
 
-**菈乌玛:** 「库塔{RUBY#[S]月之少女}尔」，您对此事有头绪吗？
+**菈乌玛:** 「库塔月之少女尔」，您对此事有头绪吗？
 
 **伊涅芙:** 「库塔尔」…信息处理中…原来您就是霜月之子口中的「月神」。
 
@@ -3712,7 +3712,7 @@ Leave it to me.
 
 **「少女」:** 虽不清楚理由，但…「猎月人」…或许他这个名字已经说明了一切。
 
-**菈乌玛:** 「库塔{RUBY#[S]月之少女}尔」…
+**菈乌玛:** 「库塔月之少女尔」…
 
 **伊涅芙:** 可供参考的原因有很多。例如你曾帮助旅行者逃出他的魔爪，这是对那场营救行动的报复。
 
@@ -3756,7 +3756,7 @@ Leave it to me.
 
 **菲林斯:** 这位小姐毕竟对我们有搭救之恩。我不喜欢谈论人情，但友人之间总应该互帮互助。
 
-**伊涅芙:** 目前仍然无法确认猎月人的目标。就算牺牲「库塔{RUBY#[S]月之少女}尔」女士，也不能保证他会就此罢休。
+**伊涅芙:** 目前仍然无法确认猎月人的目标。就算牺牲「库塔月之少女尔」女士，也不能保证他会就此罢休。
 
 - **旅行者:** 逃避不能解决问题。
 
@@ -3764,7 +3764,7 @@ Leave it to me.
 
 **「少女」:** 可是…
 
-**菈乌玛:** 「库塔{RUBY#[S]月之少女}尔」…我听说过你离开霜月之子的原因，在很久以前，人们将祈祷视作一种交易。
+**菈乌玛:** 「库塔月之少女尔」…我听说过你离开霜月之子的原因，在很久以前，人们将祈祷视作一种交易。
 
 **菈乌玛:** 自顾自地许下愿望，塞给你无用的供奉，然后就开始贪婪地要求你降下神迹。
 
@@ -3880,7 +3880,7 @@ Leave it to me.
 
 **法尔伽:** 没想到发生了这么多事，真是辛苦你们了。
 
-**法尔伽:** 霜月之子信奉的「库塔{RUBY#[S]月之少女}尔」竟然是愚人众执行官，挪德卡莱的狂猎现象则是五大罪人之一的「猎月人」…
+**法尔伽:** 霜月之子信奉的「库塔月之少女尔」竟然是愚人众执行官，挪德卡莱的狂猎现象则是五大罪人之一的「猎月人」…
 
 **法尔伽:** 信息这么多，我得好好消化一下。
 
@@ -3978,7 +3978,7 @@ Leave it to me.
 
 **菈乌玛:** 的确，我们对猎月人的了解太少了…
 
-**菈乌玛:** 如果不是「库塔{RUBY#[S]月之少女}尔」提供的情报，我们甚至连狂猎的本体到底是谁都不知道。
+**菈乌玛:** 如果不是「库塔月之少女尔」提供的情报，我们甚至连狂猎的本体到底是谁都不知道。
 
 **爱诺:** 去哪儿能调查到猎月人的情报呢？就算是挪德卡莱最神通广大的那位姐姐，估计也搞不定。
 
@@ -4878,11 +4878,11 @@ Leave it to me.
 
 **法尔伽:** 既然这样，我们现在就继续分成不同小队行动。
 
-**法尔伽:** 旅行者、派蒙、「库塔{RUBY#[S]月之少女}尔」，以及这位阿蕾奇诺女士去找虹月的月髓。
+**法尔伽:** 旅行者、派蒙、「库塔月之少女尔」，以及这位阿蕾奇诺女士去找虹月的月髓。
 
 **法尔伽:** 至于其他人嘛…
 
-**菈乌玛:** 在赶来的路上，我发现搜捕「库塔{RUBY#[S]月之少女}尔」的狂猎已经越发狂躁。
+**菈乌玛:** 在赶来的路上，我发现搜捕「库塔月之少女尔」的狂猎已经越发狂躁。
 
 **菈乌玛:** 再这样下去，生活在这里的普通人也会受到威胁…我打算组织部分信众对它们进行清剿。
 

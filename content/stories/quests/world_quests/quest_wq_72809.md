@@ -3,19 +3,19 @@
 # title_ru: Путь Рито
 # title_en: The Ritou Road
 # title_zh: 离岛之路
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72809
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72809
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72809
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

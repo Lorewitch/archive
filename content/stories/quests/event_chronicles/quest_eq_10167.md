@@ -13,8 +13,8 @@
 # part_source_ids: 40141
 # previous_quests: quest_eq_10166
 # next_quests: quest_wq_40142
-# related_quests: quest_eq_10165,quest_eq_10166,quest_wq_40142,quest_wq_71530,quest_wq_71531,quest_wq_71532
-# quest_chain: quest_eq_10165,quest_eq_10166,quest_eq_10167,quest_wq_40142,quest_wq_71530,quest_wq_71531,quest_wq_71532
+# related_quests: quest_eq_10165,quest_eq_10166,quest_wq_40142
+# quest_chain: quest_eq_10165,quest_eq_10166,quest_eq_10167,quest_wq_40142
 # quest_series: Vibrant Harriers Aloft in Spring Breeze
 # version_source: wiki_release_category
 

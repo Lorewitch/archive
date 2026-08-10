@@ -3,19 +3,19 @@
 # title_ru: Страдания после бури
 # title_en: Lingering Malady
 # title_zh: 风暴后遗症
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70812
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70812
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70812
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

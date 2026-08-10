@@ -11,11 +11,11 @@
 # chapter_num_en: Umbrabilis Orchis Chapter: Act I
 # chapter_num_zh: 幽客之章 第一幕
 # part_source_ids: 11018,11019,11026
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_lq_2029
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

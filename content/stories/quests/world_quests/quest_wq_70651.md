@@ -3,19 +3,19 @@
 # title_ru: Шахтёрское ремесло
 # title_en: Mine Craft
 # title_zh: 采矿之道
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70651
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 70651
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_70651
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

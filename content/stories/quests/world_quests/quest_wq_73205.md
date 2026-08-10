@@ -3,13 +3,13 @@
 # title_ru: Подаренная роза: Длинные деньки
 # title_en: A Gifted Rose: Long Day Ahead
 # title_zh: 献给某人的蔷薇·度过长日的方式
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73205
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73205
 # previous_quests: quest_wq_73204
 # next_quests: quest_wq_73206

@@ -3,19 +3,19 @@
 # title_ru: Правила или интуиция?
 # title_en: Team Rigor, or Team Intuition?
 # title_zh: 是严谨派还是悟性派？
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 76004
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76004
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_76004
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -12,7 +12,7 @@
 # chapter_num_zh: 暝视寻灵织卷·下
 # part_source_ids: 40173
 # previous_quests: quest_eq_10211
-# next_quests: 
+# next_quests:
 # related_quests: quest_eq_10210,quest_eq_10211
 # quest_chain: quest_eq_10210,quest_eq_10211,quest_eq_10212
 # quest_series: Iktomi Spiritseeking Scrolls

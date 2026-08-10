@@ -3,19 +3,19 @@
 # title_ru: По радуге, по волнам!
 # title_en: Stride on Rainbows, Split the Waves
 # title_zh: 踏虹破浪！
-# region: Натлан
+# region: Тейват
 # game_version: 5.0
 # release_versions: 5.0
 # source_id: 75104
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75104
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_75104
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

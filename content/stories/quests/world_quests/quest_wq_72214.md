@@ -3,13 +3,13 @@
 # title_ru: Кошка Нэко: Столовая святилища
 # title_en: Neko Is a Cat: Shrine Canteen
 # title_zh: 寝子是只猫·神社食堂
-# region: Инадзума
+# region: Тейват
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72214
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72214
 # previous_quests: quest_wq_72213
 # next_quests: quest_wq_72215

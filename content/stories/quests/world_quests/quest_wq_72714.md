@@ -3,19 +3,19 @@
 # title_ru: Яйца для Рику
 # title_en: Riku's Eggy Endeavor
 # title_zh: 陆的鸟蛋需求
-# region: Инадзума
+# region: Тейват
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72714
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72714
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_72714
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

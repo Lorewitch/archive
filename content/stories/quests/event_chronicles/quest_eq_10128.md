@@ -3,7 +3,7 @@
 # title_ru: Слёзы в листве
 # title_en: Tears Among the Leaves
 # title_zh: 叶间泪
-# region: Ли Юэ
+# region: Тейват
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 10128
@@ -13,8 +13,8 @@
 # part_source_ids: 40124
 # previous_quests: quest_eq_10127
 # next_quests: quest_eq_10129
-# related_quests: quest_eq_10127,quest_eq_10129,quest_wq_71521,quest_wq_71522,quest_wq_71523
-# quest_chain: quest_eq_10127,quest_eq_10128,quest_eq_10129,quest_wq_71521,quest_wq_71522,quest_wq_71523
+# related_quests: quest_eq_10127,quest_eq_10129
+# quest_chain: quest_eq_10127,quest_eq_10128,quest_eq_10129
 # quest_series: Waterborne Poetry
 # version_source: wiki_release_category
 

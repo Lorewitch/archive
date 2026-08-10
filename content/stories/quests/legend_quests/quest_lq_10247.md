@@ -3,7 +3,7 @@
 # title_ru: Сюрприз для всех!
 # title_en: The Surprise That Awaits Us All!
 # title_zh: 惊遇！等待众人的将是…？
-# region: Натлан
+# region: Тейват
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 10247
@@ -382,7 +382,7 @@
 
 **Бездна:** Прими свой неизбежный конец.
 
-**Бездна:** Ты не сможешь противостоять м{RUBY#[S]Бездне}не.
+**Бездна:** Ты не сможешь противостоять мБезднене.
 
 **Беннет:** ...
 
@@ -1106,7 +1106,7 @@ Not good...
 
 **The Abyss:** Embrace your inescapable doom.
 
-**The Abyss:** You are no match for m{RUBY#[S]The Abyss}e.
+**The Abyss:** You are no match for mThe Abysse.
 
 **Bennett:** ...
 
@@ -1828,7 +1828,7 @@ What's up?
 
 **「深渊」:** 迎接你宿命的终局。
 
-**「深渊」:** 你是没法与我{RUBY#[S]深渊}对抗的。
+**「深渊」:** 你是没法与我深渊对抗的。
 
 **班尼特:** ……
 

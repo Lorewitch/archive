@@ -12,9 +12,9 @@
 # chapter_num_zh: 森林书 第四章
 # part_source_ids: 73038
 # previous_quests: quest_wq_10079
-# next_quests: 
-# related_quests: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_73248
-# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082,quest_wq_73248
+# next_quests:
+# related_quests: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079
+# quest_chain: quest_wq_73024,quest_wq_10073,quest_wq_10076,quest_wq_10079,quest_wq_10082
 # quest_series: Aranyaka
 # version_source: wiki_release_category
 

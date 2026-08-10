@@ -3,7 +3,7 @@
 # title_ru: Ветер дует - журавли возвращаются
 # title_en: The Crane Returns on the Wind
 # title_zh: 风起鹤归
-# region: Ли Юэ
+# region: Тейват
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 1205
@@ -11,10 +11,10 @@
 # chapter_num_en: Interlude Chapter: Act I
 # chapter_num_zh: 间章 第一幕
 # part_source_ids: 11009,11013,11014,11015,11017
-# previous_quests: 
-# next_quests: 
-# related_quests: quest_aq_1207,quest_aq_1307,quest_aq_1004
-# quest_chain: quest_aq_1205,quest_aq_1207,quest_aq_1307,quest_aq_1004
+# previous_quests:
+# next_quests:
+# related_quests:
+# quest_chain: quest_aq_1205
 # quest_series: Interlude || Interlude Chapter
 # version_source: wiki_release_category
 
@@ -3438,7 +3438,7 @@ It seems she still has a long way to go.
 
 **凝光:** 只要是我知道的事，均可如实相告。
 
-（说不定可以问到关于{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的事…）
+（说不定可以问到关于荧/空的事…）
 
 **派蒙:** 真的吗？那我要问，凝光小姐是怎么经商的！
 
@@ -3942,7 +3942,7 @@ It seems she still has a long way to go.
 
 **申鹤:** 我的名字并不重要，我也并非是来参赛的。
 
-**申鹤:** 这块石头是别人托我运来的，{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们应该很快就到——
+**申鹤:** 这块石头是别人托我运来的，空/荧们应该很快就到——
 
 **派蒙:** 申鹤——还有凝光小姐的小跟班——
 
@@ -4248,7 +4248,7 @@ It seems she still has a long way to go.
 
 **北斗:** 这两位，派蒙和旅行者，是我的老相识了。这位看着有些眼生…
 
-**申鹤:** 申鹤。{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们的…朋友。
+**申鹤:** 申鹤。空/荧们的…朋友。
 
 **北斗:** 哈哈哈…不必见外。既然是朋友的朋友，那就都是一条船上的人了！
 
@@ -4348,7 +4348,7 @@ It seems she still has a long way to go.
 
 **北斗:** 这两位，派蒙和旅行者，相信你也听说过。这位看着有些眼生…
 
-**申鹤:** 申鹤。{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}们的…朋友。
+**申鹤:** 申鹤。空/荧们的…朋友。
 
 **北斗:** 哈哈哈…不必见外。从今天起，大家就都是朋友了！
 
@@ -4814,7 +4814,7 @@ It seems she still has a long way to go.
 
 **凝光:** 你呢？旅行者，你想问我什么呢？
 
-**凝光:** 事先说明，你{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的行踪我也不清楚，就不要浪费这个问题了。
+**凝光:** 事先说明，你荧/空的行踪我也不清楚，就不要浪费这个问题了。
 
 **派蒙:** 唔…凝光小姐总是未卜先知的样子呢…既然这样，就轮到派蒙来问了！
 

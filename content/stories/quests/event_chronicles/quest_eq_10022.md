@@ -13,8 +13,8 @@
 # part_source_ids: 41411
 # previous_quests: quest_eq_10021
 # next_quests: quest_eq_10023
-# related_quests: quest_eq_10021,quest_eq_10023,quest_eq_10024,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
-# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
+# related_quests: quest_eq_10021,quest_eq_10023,quest_eq_10024
+# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024
 # quest_series: Invitation of Windblume
 # version_source: wiki_release_category
 
@@ -967,7 +967,7 @@ So what is the thing most precious to you?
 
 **琴:** 好久不见了。如各位所见，我和丽莎正在执勤。
 
-**丽莎:** 是小可爱和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的朋友们呀。来的路上有看到什么奇怪的人吗？发现怪人怪事可以向骑士团举报哦。
+**丽莎:** 是小可爱和空/荧的朋友们呀。来的路上有看到什么奇怪的人吗？发现怪人怪事可以向骑士团举报哦。
 
 **派蒙:** 图书管理员也要巡逻的吗？
 

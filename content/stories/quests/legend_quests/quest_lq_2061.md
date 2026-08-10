@@ -11,7 +11,7 @@
 # chapter_num_en: Of Fading Flowers and Falling Feathers: Act I
 # chapter_num_zh: 花之归尘，羽之将坠 第一幕
 # part_source_ids: 15019
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_lq_2062
 # related_quests: quest_lq_2062,quest_lq_2063
 # quest_chain: quest_lq_2061,quest_lq_2062,quest_lq_2063
@@ -1224,7 +1224,7 @@ Didn't you just gorge yourself on a whole bunch of Volcano Cakes?
 
 **恰斯卡:** 最好不要。
 
-**恰斯卡:** 花{RUBY#[D]   特拉洛坎}羽会的战士向来高傲，只会在无人处暴露自己的脆弱…哪怕是一名准「失翼者」。
+**恰斯卡:** 花   特拉洛坎羽会的战士向来高傲，只会在无人处暴露自己的脆弱…哪怕是一名准「失翼者」。
 
 **派蒙:** 啊，你是圣火竞技场上人气很高的那位！恰…恰…
 

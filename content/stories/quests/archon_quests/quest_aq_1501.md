@@ -13,8 +13,8 @@
 # part_source_ids: 5003,5004,5005,5006,5007
 # previous_quests: quest_aq_1500
 # next_quests: quest_aq_1502
-# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
-# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_eq_10174,quest_eq_10175,quest_eq_10176,quest_wq_70554,quest_wq_70555,quest_wq_70556,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
+# quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: V
 # version_source: wiki_release_category
 
@@ -510,7 +510,7 @@
 
 **Кинич:** Если сравнивать эти два варианта, первый кажется меньшим злом.
 
-**Кинич:** Прошу прощения. Знаю, это может звучать жестоко, но моё имя Мал{RUBY#[D]Обратное пламя}ипо. Оценивать - это моя обязанность.
+**Кинич:** Прошу прощения. Знаю, это может звучать жестоко, но моё имя МалОбратное пламяипо. Оценивать - это моя обязанность.
 
 **Кинич:** Правда может быть жестока. Но нам нужно её понять, если мы хотим подходить к этому рационально.
 
@@ -1370,7 +1370,7 @@
 
 Значит, «правила» Натлана созданы первым Пиро Архонтом?
 
-**Мавуика:** Да, сначала он был обычным человеком. После восхождения на божественный престол он позаимствовал силы не{RUBY#[D]Ронова}бес и установил правила Натлана.
+**Мавуика:** Да, сначала он был обычным человеком. После восхождения на божественный престол он позаимствовал силы неРоновабес и установил правила Натлана.
 
 **Мавуика:** Структуру, которая позволяет обычным людям достичь божественности.
 
@@ -1858,7 +1858,7 @@
 
 **Тупак:** Если ты смогла пробудить мои слова из древнего имени, значит, ты понимаешь, чего хочет Вайоб.
 
-**Тупак:** Под именем «Умоджа» ты проведёшь объед{RUBY#[D]Умоджа}инение племён и спасёшь Натлан от гибели.
+**Тупак:** Под именем «Умоджа» ты проведёшь объедУмоджаинение племён и спасёшь Натлан от гибели.
 
 **Муалани:** Я?..
 
@@ -3000,7 +3000,7 @@ Kachina doesn't have that much time.
 
 **Kinich:** If we compare the two choices, the former seems to be the lesser of two evils.
 
-**Kinich:** ...Sorry. I know that may sound harsh, but I bear the Name "Mal{RUBY#[D]Turnfire}ipo." Weighing the costs is my duty.
+**Kinich:** ...Sorry. I know that may sound harsh, but I bear the Name "MalTurnfireipo." Weighing the costs is my duty.
 
 **Kinich:** The raw truth can be cruel. But we need to understand it if we want to approach this rationally.
 
@@ -3860,7 +3860,7 @@ So, Ancient Names record the past...
 
 So, the first Pyro Archon created the "rules" of Natlan?
 
-**Mavuika:** That's correct. At first, he was a mortal man with no special power. After he ascended to the divine throne, he used it to borrow power from the heav{RUBY#[D]Ronova}ens and establish the rules of Natlan.
+**Mavuika:** That's correct. At first, he was a mortal man with no special power. After he ascended to the divine throne, he used it to borrow power from the heavRonovaens and establish the rules of Natlan.
 
 **Mavuika:** Namely, a framework through which ordinary people can ascend to archonhood.
 
@@ -4348,7 +4348,7 @@ Are you the one behind all of this?
 
 **Tupac:** Since you were able to awaken my words from your Ancient Name, that means you've fully embodied the aspirations of the Wayob.
 
-**Tupac:** Under the Name "Umoja," you shall uni{RUBY#[D]Umoja}te the tribes and save Natlan from its impending doom.
+**Tupac:** Under the Name "Umoja," you shall uniUmojate the tribes and save Natlan from its impending doom.
 
 **Mualani:** M—Me...?
 
@@ -5490,7 +5490,7 @@ So that's the life you had to leave behind...
 
 **基尼奇:** 相较之下，其实是后者的危害更大。
 
-**基尼奇:** …抱歉，实在不想说这么不近人情的话，但作为「马{RUBY#[D]回火}力卜」的基尼奇，度量「代价」是我的职责。
+**基尼奇:** …抱歉，实在不想说这么不近人情的话，但作为「马回火力卜」的基尼奇，度量「代价」是我的职责。
 
 **基尼奇:** 充分理解事实的残酷，才能让我们更加冷静，而不是被激怒。
 
@@ -6350,7 +6350,7 @@ So that's the life you had to leave behind...
 
 规则是他创造的？
 
-**玛薇卡:** 嗯，初代火神也是人类，本来并不具备这种能力，但他利用神座向天{RUBY#[D]若娜瓦}空借来力量，创造了纳塔的规则。
+**玛薇卡:** 嗯，初代火神也是人类，本来并不具备这种能力，但他利用神座向天若娜瓦空借来力量，创造了纳塔的规则。
 
 **玛薇卡:** 因为有它，纳塔世人才皆可成神。
 
@@ -6838,7 +6838,7 @@ So that's the life you had to leave behind...
 
 **图帕克:** 既然我的话语能够从「古名」中苏醒，就说明你已经完全理解了大灵的期望。
 
-**图帕克:** 请「团{RUBY#[D]沃摩延}结」所有的部族，拯救即将毁灭的纳塔吧。
+**图帕克:** 请「团沃摩延结」所有的部族，拯救即将毁灭的纳塔吧。
 
 **玛拉妮:** 我、我…？
 

@@ -12,9 +12,9 @@
 # chapter_num_zh: 盛典与慧业 第三幕
 # part_source_ids: 40103,40104
 # previous_quests: quest_eq_10140
-# next_quests: 
-# related_quests: quest_eq_10139,quest_eq_10140,quest_wq_73520,quest_wq_73521,quest_wq_73522,quest_wq_73524,quest_wq_73690,quest_wq_73691,quest_wq_73692,quest_wq_73693,quest_wq_73694,quest_wq_73695,quest_wq_73696
-# quest_chain: quest_eq_10139,quest_eq_10140,quest_eq_10141,quest_wq_73520,quest_wq_73521,quest_wq_73522,quest_wq_73524,quest_wq_73690,quest_wq_73691,quest_wq_73692,quest_wq_73693,quest_wq_73694,quest_wq_73695,quest_wq_73696
+# next_quests:
+# related_quests: quest_eq_10139,quest_eq_10140
+# quest_chain: quest_eq_10139,quest_eq_10140,quest_eq_10141
 # quest_series: A Parade of Providence
 # version_source: wiki_release_category
 
@@ -706,19 +706,19 @@
 
 **Нахида:** Поэтому я попросила Мастера Шляпку проследить за турниром.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Я же говорил, не надо больше называть меня Мастером Шляпкой.
+**Странник:** Я же говорил, не надо больше называть меня Мастером Шляпкой.
 
 **Нахида:** Почему? Тебе не нравится?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Эх...
+**Странник:** Эх...
 
 **Нахида:** В общем, если бы выбранный Сачином наследник не смог выдержать тяжесть его исследований... или если бы эти исследования стали причинять боль другим людям, он бы сразу вмешался.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** В конечном итоге выбранный Сачином наследник вообще плюнул на его исследования. Очень смешно.
+**Странник:** В конечном итоге выбранный Сачином наследник вообще плюнул на его исследования. Очень смешно.
 
 **Нахида:** И я хотела дать тебе возможность научиться ладить с людьми... Вижу, ты ей не воспользовался.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это лишнее. Я ещё не вернул тебе всех долгов, и влезать в новые совсем не хочется.
+**Странник:** Это лишнее. Я ещё не вернул тебе всех долгов, и влезать в новые совсем не хочется.
 
 **Паймон:** Нахида, ты сказала, что Сачин не заблуждался в своих исследованиях. Получается, ты с ним согласна?
 
@@ -742,7 +742,7 @@
 
 **Нахида:** В конечном счёте долг божества мудрости - сделать так, чтобы каждой крупице знания нашлось своё применение.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Это всё замечательно, но что ты собираешься делать с исследованиями Сачина?
+**Странник:** Это всё замечательно, но что ты собираешься делать с исследованиями Сачина?
 
 **Нахида:** Поскольку Кавех, унаследовавший право распоряжаться этими исследованиями, не хочет, чтобы они распространялись, мне придётся их опечатать.
 
@@ -750,9 +750,9 @@
 
 **Нахида:** И я очень надеюсь, что однажды придёт учёный из Вахуманы, который не просто сможет понять теорию Сачина, но и отыщет способ преодолеть его отчаяние.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Пф, откуда там возьмутся такие таланты? Подожди... ты что, хочешь, чтобы я и дальше оставался в Вахумане?
+**Странник:** Пф, откуда там возьмутся такие таланты? Подожди... ты что, хочешь, чтобы я и дальше оставался в Вахумане?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Ха, кажется, я не подписывался быть учёным. Или как обычный заключённый я перестал быть тебе полезен?
+**Странник:** Ха, кажется, я не подписывался быть учёным. Или как обычный заключённый я перестал быть тебе полезен?
 
 **Паймон:** Начинается...
 
@@ -762,7 +762,7 @@
 
 **Нахида:** Твою научную работу я буду рецензировать лично. Надеюсь, ты постараешься, Мастер Шляпка.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Пф.
+**Странник:** ...Пф.
 
 ## EN
 
@@ -1452,19 +1452,19 @@ Sachin's research...
 
 **Nahida:** So instead, I had Hat Guy here help me keep an eye on things.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Seriously? I think you can stop calling me that now.
+**Wanderer:** Seriously? I think you can stop calling me that now.
 
 **Nahida:** Why? Don't you like it?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...*sigh*
+**Wanderer:** ...*sigh*
 
 **Nahida:** ...Well, anyway — if Sachin's chosen successor hadn't been able to handle his research, or if it had brought pain to more people, he would have intervened at a suitable moment.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** And after all that, the person Sachin chose, turned his nose up at his life's work. Pretty hilarious.
+**Wanderer:** And after all that, the person Sachin chose, turned his nose up at his life's work. Pretty hilarious.
 
 **Nahida:** I was also hoping that this could be an opportunity for you to learn how to interact with people normally... But it looks like that didn't work out.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** That wasn't necessary. I'm still paying you back for your help, and the last thing I need is more reasons to be indebted to you.
+**Wanderer:** That wasn't necessary. I'm still paying you back for your help, and the last thing I need is more reasons to be indebted to you.
 
 **Paimon:** Nahida, what did you mean by "Sachin's research is not mistaken"? Does that mean that you approve of his research?
 
@@ -1488,7 +1488,7 @@ Sachin's research...
 
 **Nahida:** Ultimately, my duty as the God of Wisdom is to guide every form of wisdom to a place where it can find its purpose.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** That was a long speech. So what are you actually going to do with these research materials?
+**Wanderer:** That was a long speech. So what are you actually going to do with these research materials?
 
 **Nahida:** Because Kaveh, as the successor of this research, does not wish to see these ideas disseminated, I will seal it up.
 
@@ -1496,9 +1496,9 @@ Sachin's research...
 
 **Nahida:** I also look forward to the day that a member of the Vahumana Darshan can not only comprehend his theories, but also find a way out from the despair as well.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hmph, Vahumana doesn't have that kind of talent... Wait, you're not intending to keep me in Vahumana long-term, are you?
+**Wanderer:** Hmph, Vahumana doesn't have that kind of talent... Wait, you're not intending to keep me in Vahumana long-term, are you?
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** Hah, I don't remember signing up to become a scholar. Don't you think I'm useful enough to you as a prisoner?
+**Wanderer:** Hah, I don't remember signing up to become a scholar. Don't you think I'm useful enough to you as a prisoner?
 
 **Paimon:** Oh boy, here we go again...
 
@@ -1508,7 +1508,7 @@ Sachin's research...
 
 **Nahida:** I will review your final thesis myself. I am expecting great things from you, Mr. Hat Guy.
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** ...Tsk.
+**Wanderer:** ...Tsk.
 
 ## ZH
 
@@ -2198,19 +2198,19 @@ Sachin's research...
 
 **纳西妲:** 所以我让阿帽选手帮我盯着比赛。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 我说，现在不应该再叫我阿帽了吧。
+**流浪者:** 我说，现在不应该再叫我阿帽了吧。
 
 **纳西妲:** 阿帽不好听吗？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …唉。
+**流浪者:** …唉。
 
 **纳西妲:** 说回来吧。如果萨齐因选中的人无法承受这些研究，或是这些研究带给更多人痛苦，他会适时地出手干预。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 结果萨齐因选中的人根本看不上这些研究，实在可笑。
+**流浪者:** 结果萨齐因选中的人根本看不上这些研究，实在可笑。
 
 **纳西妲:** 本来还想让你借机学习一下如何与人正常相处…看来没有什么效果。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 大可不必。旧账还没还清，我可不想欠下新债。
+**流浪者:** 大可不必。旧账还没还清，我可不想欠下新债。
 
 **派蒙:** 纳西妲，你刚刚说萨齐因的研究并非谬论，那你认可他的研究吗？
 
@@ -2234,7 +2234,7 @@ Sachin's research...
 
 **纳西妲:** 归根结底，引导每一种智慧产生作用，本就是我作为智慧之神的责任。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 说了这么多，这些资料你打算怎么处理？
+**流浪者:** 说了这么多，这些资料你打算怎么处理？
 
 **纳西妲:** 继承这份研究的卡维不希望它继续传播，那么我会将这份无主的研究封存起来。
 
@@ -2242,9 +2242,9 @@ Sachin's research...
 
 **纳西妲:** 我也很期待，因论派的后辈能搞懂萨齐因的理论，并且找到跨过绝望的方法。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哼，因论派哪还有什么人能…等等，你是想让我继续留在因论派？
+**流浪者:** 哼，因论派哪还有什么人能…等等，你是想让我继续留在因论派？
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** 哈，我可不记得自己什么时候成了学者。在你眼里，我难道不是有利用价值的囚徒吗？
+**流浪者:** 哈，我可不记得自己什么时候成了学者。在你眼里，我难道不是有利用价值的囚徒吗？
 
 **派蒙:** 又开始了…
 
@@ -2254,4 +2254,4 @@ Sachin's research...
 
 **纳西妲:** 最终你呈交的「论文」会由我亲自审核，希望你用心完成哦，阿帽先生。
 
-**{REALNAME[ID(1)|HOSTONLY(true)]}:** …嘁。
+**流浪者:** …嘁。

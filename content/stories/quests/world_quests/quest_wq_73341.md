@@ -3,19 +3,19 @@
 # title_ru: Сердце амриты
 # title_en: Heart of Amrita
 # title_zh: 甘露之心
-# region: Сумеру
+# region: Тейват
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73341
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73341
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_73341
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -42,7 +42,7 @@
 
 - **Путешественник:** Не очень понимаю, о чём ты...
 
-**Федри:** Я чувствую, что лау{RUBY#[S]связь}па действительно соединяет тебя с пари.
+**Федри:** Я чувствую, что лаусвязьпа действительно соединяет тебя с пари.
 
 **Федри:** Я отвечаю за Озеро амриты. С тех пор как госпожа Зурван закрыла оазис, я никогда не покидала это место.
 
@@ -92,7 +92,7 @@ The outlander offerer?
 
 - **Traveler:** I didn't quite get you...
 
-**Fedhri:** I can feel that you are indeed the one who has forged a Lau{RUBY#[S]connection}pa with a Pari.
+**Fedhri:** I can feel that you are indeed the one who has forged a Lauconnectionpa with a Pari.
 
 **Fedhri:** I'm in charge of looking after the Amrita Pool. I have not set foot outside this place since Lady Zurvan sealed the Oasis.
 
@@ -142,7 +142,7 @@ The Amrita Pool?
 
 - **旅行者:** 虽然不知道在说什么…
 
-**菲多赫:** 我能感受到，你确实是与花灵建立了「劳{RUBY#[D]连结}帕」之人。
+**菲多赫:** 我能感受到，你确实是与花灵建立了「劳连结帕」之人。
 
 **菲多赫:** 我是负责看管「甘露池」的花灵，自从祖尔宛大人禁闭了花海之后，我就再也没离开过这里了。
 

@@ -12,9 +12,9 @@
 # chapter_num_zh: 彩糖与蔷薇的幻色颂 第三份礼物
 # part_source_ids: 40168
 # previous_quests: quest_eq_10208
-# next_quests: 
-# related_quests: quest_eq_10207,quest_eq_10208,quest_wq_73352,quest_wq_73353,quest_wq_73354
-# quest_chain: quest_eq_10207,quest_eq_10208,quest_eq_10209,quest_wq_73352,quest_wq_73353,quest_wq_73354
+# next_quests:
+# related_quests: quest_eq_10207,quest_eq_10208
+# quest_chain: quest_eq_10207,quest_eq_10208,quest_eq_10209
 # quest_series: Chromatic Ode of Candies and Roses
 # version_source: wiki_release_category
 

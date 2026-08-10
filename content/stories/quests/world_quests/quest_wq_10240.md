@@ -7,15 +7,15 @@
 # game_version: 5.5
 # release_versions: 5.5
 # source_id: 10240
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 75148
 # previous_quests: quest_wq_75169
 # next_quests: quest_wq_10230
 # related_quests: quest_wq_75169,quest_wq_10230,quest_wq_10231
 # quest_chain: quest_wq_75169,quest_wq_10240,quest_wq_10230,quest_wq_10231
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -42,13 +42,13 @@
 
 - **Путешественник:** Если ты меня подхватишь при приземлении...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Что? Ты тоже пойдёшь? Н-ну ладно. Если так, то Паймон уже не так страшно.
 
 **Паймон:** Не смогу. Дело не только в том, хватит ли Паймон сил. Сложно определить точный момент!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Хватит рычать попусту. Эх... Благодаря вам Паймон уже совсем не нервничает!
 
@@ -64,7 +64,7 @@
 
 **Паймон:** Иди и открой его - сломай золотую печать, яви сияние несметных оставшихся огней!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р...
+**Малыш:** Р-р-р...
 
 **Паймон:** Что случилось? Ты снова (видела)(видел) что-то странное?
 
@@ -74,13 +74,13 @@
 
 **Паймон:** О, может, это потому, что мы теперь рядом с вулканом?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** ...Такое ощущение, что тот, кто говорил с вами всё это время, находится внутри той горы.
 
 **Паймон:** Но мы видели эти штуки, когда приблизились к вулкану. Значит, мы шли в верном направлении.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 #### Ступите на вершину Короны небесного огня
 
@@ -100,13 +100,13 @@
 
 - **Путешественник:** Если ты меня подхватишь при приземлении...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Что? Ты тоже пойдёшь? Н-ну ладно. Если так, то Паймон уже не так страшно.
 
 **Паймон:** Не смогу. Дело не только в том, хватит ли Паймон сил. Сложно определить точный момент!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Хватит рычать попусту. Эх... Благодаря вам Паймон уже совсем не нервничает!
 
@@ -118,7 +118,7 @@
 
 **Паймон:** Фух, наконец-то добрались. Паймон не ожидала, что будет столь высоко. Но здесь не так уж холодно...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Паймон:** Тебе легко говорить! С такой-то толстой кожей!
 
@@ -132,11 +132,11 @@
 
 **Паймон:** О, неужели это та самая статуя, которую, по словам Кимоси, украл кукузавр?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 **Паймон:** Фух, наконец-то добрались. Паймон не ожидала, что будет столь высоко. Но здесь не так уж холодно...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р... Р-р-р!
+**Малыш:** Р-р-р... Р-р-р!
 
 **Паймон:** Тебе легко говорить! С такой-то толстой кожей!
 
@@ -148,7 +148,7 @@
 
 **Паймон:** Хм, кстати, что это там?.. Похоже на странную статую?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Р-р-р!
+**Малыш:** Р-р-р!
 
 ## EN
 
@@ -174,13 +174,13 @@ Find a way to enter the volcano...
 
 - **Traveler:** As long as you grab me just as we land...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Err, you wanna go in too? Well... Ugh, alright. I—If that's the case, Paimon's not that scared anymore.
 
 **Paimon:** Ugh, Paimon couldn't do that! Never mind the strength problem — think about the timing!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** And you too! Stop "rawring" along with this craziness! *sigh* ...Y'know what, now you two've gone and killed all the tension!
 
@@ -196,7 +196,7 @@ Find a way to enter the volcano...
 
 **Paimon:** Go forth and reveal it — break the golden seal, unveil the radiance of remnant flames unnumbered!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rrroar...
+**Little One:** Rrroar...
 
 **Paimon:** What's wrong? Did you see a bunch of strange words again?
 
@@ -206,13 +206,13 @@ Find a way to enter the volcano...
 
 **Paimon:** Oh, you mean it's because we're getting closer to the volcano?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** ...It's almost as if the person who's been talking to you all this time is in that mountain.
 
 **Paimon:** Anyway, since those things are showing up as we're getting closer to the volcano, that's gotta mean we're on the right track.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 #### Go to the top of the Skyfire Circlet
 
@@ -232,13 +232,13 @@ Find a way to enter the volcano...
 
 - **Traveler:** As long as you grab me just as we land...
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Err, you're all set to take the plunge too? Well... Um, alright. I—If that's the case, Paimon's not that scared anymore either.
 
 **Paimon:** Not gonna happen! Never mind the strength problem — think about how hard the timing would be!
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** And you too! Stop "rawring" along with this craziness! *sigh* ...Y'know what, now you two've gone and killed all the tension!
 
@@ -250,7 +250,7 @@ Find a way to enter the volcano...
 
 **Paimon:** Phew. We finally made it. Paimon didn't think it'd be so high up... but at least it's not as cold as Paimon thought it would be.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroah, rrohh, rowrr!
+**Little One:** Grroah, rrohh, rowrr!
 
 **Paimon:** Uh-huh, says the meaty guy with the thick skin!
 
@@ -264,11 +264,11 @@ Find a way to enter the volcano...
 
 **Paimon:** Oh! Could this statue be the one that Kimosi said a Qucusaurus stole?
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 **Paimon:** Phew. We're finally up here. Paimon didn't think it'd be so high up... but at the same time, it's not as cold as Paimon thought.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Grroah, rrohh, rowrr!
+**Little One:** Grroah, rrohh, rowrr!
 
 **Paimon:** Uh-huh, says the meaty guy with the thick skin!
 
@@ -280,7 +280,7 @@ Find a way to enter the volcano...
 
 **Paimon:** Hmm, speaking of which, what's that? It looks like... some strange statue.
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** Rawr!
+**Little One:** Rawr!
 
 ## ZH
 
@@ -306,13 +306,13 @@ Find a way to enter the volcano...
 
 - **旅行者:** 只要落地瞬间派蒙能拉住…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 咦，你也愿意吗？真的吗…好、好吧，既然这样好像也没有那么害怕了。
 
 **派蒙:** 拉不住啦，先不说我有没有那么大的力气，什么叫落地的瞬间嘛，这个时机的把握也太难了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 你也是，不许跟着瞎起哄。唉…被你们这么一闹，一点紧张感都没有了！
 
@@ -328,7 +328,7 @@ Find a way to enter the volcano...
 
 **派蒙:** 去揭开吧，去揭开金印，揭开亿万余火的焰光！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 唔嗯…
+**小家伙:** 唔嗯…
 
 **派蒙:** 怎么了，难道又看到什么奇怪的话？
 
@@ -338,13 +338,13 @@ Find a way to enter the volcano...
 
 **派蒙:** 咦，是因为靠近了火山的关系吗？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** …看起来就像是，那个一直跟你们说话的人就在火山里一样呢。
 
 **派蒙:** 不过既然靠近火山的时候又能看到那些东西，就说明我们没有走错路。
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 #### 前往「天火之冠」的高处
 
@@ -364,13 +364,13 @@ Find a way to enter the volcano...
 
 - **旅行者:** 只要落地瞬间派蒙能拉住…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 咦，你也愿意吗？真的吗…好、好吧，既然这样好像也没有那么害怕了。
 
 **派蒙:** 拉不住啦，先不说我有没有那么大的力气，什么叫落地的瞬间嘛，这个时机的把握也太难了！
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 你也是，不许跟着瞎起哄。唉…被你们这么一闹，一点紧张感都没有了！
 
@@ -382,7 +382,7 @@ Find a way to enter the volcano...
 
 **派蒙:** 啊，终于爬上来了，没想到这里这么高，不过倒是没有想象中那么冷呢…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 波嗯，唔…呀！
+**小家伙:** 波嗯，唔…呀！
 
 **派蒙:** 你皮糙肉厚，当然不怕冷啦！
 
@@ -396,11 +396,11 @@ Find a way to enter the volcano...
 
 **派蒙:** 啊，难道这就是之前基莫西说的，被绒翼龙偷走的雕像？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！
 
 **派蒙:** 啊，终于爬上来了，没想到这里这么高，不过倒是没有想象中那么冷呢…
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 波嗯，唔…呀！
+**小家伙:** 波嗯，唔…呀！
 
 **派蒙:** 你皮糙肉厚，当然不怕冷啦！
 
@@ -412,4 +412,4 @@ Find a way to enter the volcano...
 
 **派蒙:** 咦，说起来，那个是什么…看上去像是个奇怪的雕像？
 
-**{REALNAME[ID(2)|SHOWHOST(true)]}:** 呀！
+**小家伙:** 呀！

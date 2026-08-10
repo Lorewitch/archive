@@ -3,19 +3,19 @@
 # title_ru: Монументальное исследование
 # title_en: Monumental Study
 # title_zh: 碑铭的研究
-# region: Сумеру
+# region: Тейват
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 10125
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73285,73329,73330
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10125
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

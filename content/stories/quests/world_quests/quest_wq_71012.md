@@ -3,19 +3,19 @@
 # title_ru: Время и ветер
 # title_en: Time and Wind
 # title_zh: 时与风
-# region: Мондштадт
+# region: Тейват
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 71012
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 71012
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_71012
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

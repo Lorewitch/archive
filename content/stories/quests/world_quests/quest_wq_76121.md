@@ -3,13 +3,13 @@
 # title_ru: Луна на ночном небосводе: Три Луны
 # title_en: The Moon Adorning the Night: The Three Moons
 # title_zh: 夜空中的月亮·三月
-# region: Нод-Край
+# region: Тейват
 # game_version: 6.3
 # release_versions: 6.3
 # source_id: 76121
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 76121
 # previous_quests: quest_wq_76120
 # next_quests: quest_wq_76119

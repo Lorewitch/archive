@@ -3,19 +3,19 @@
 # title_ru: Вся его жизнь
 # title_en: Where His Life Lies
 # title_zh: 他的生命在那边
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 74118
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74118
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_74217
 # related_quests: quest_wq_74217
 # quest_chain: quest_wq_74118,quest_wq_74217
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

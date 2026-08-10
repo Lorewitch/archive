@@ -3,19 +3,19 @@
 # title_ru: Импровизированная поэма о рассвете
 # title_en: Impromptu Poem of the Crimson Dawn
 # title_zh: 曙红即兴诗
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74178
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74178
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74178
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
@@ -204,9 +204,9 @@
 
 **Рыжий юноша:** Вы вспоминаете, что они тогда говорили...
 
-**Рыжий юноша:** «Сделать подобное для человека,{RUBY#[D]Вот идиот!} которого никогда не встречал... У тебя по-настоящему золо{RUBY#[D]Было бы золотым, тогда бы поговорили.}тое сердце, мой друг! Я правда {RUBY#[D]Обдерём как липку!}очень тронут».
+**Рыжий юноша:** «Сделать подобное для человека,Вот идиот! которого никогда не встречал... У тебя по-настоящему золоБыло бы золотым, тогда бы поговорили.тое сердце, мой друг! Я правда Обдерём как липку!очень тронут».
 
-**Рыжий юноша:** «Мы держим {RUBY#[D]Что значат слова?}своё слово. Мы отпускаем тебя, братишка / сестрёнка{RUBY#[D]Вытрясем деньги из этого идиота, потом вернёмся по твою душу}; и зверюшку свою забери».
+**Рыжий юноша:** «Мы держим Что значат слова?своё слово. Мы отпускаем тебя, братишка / сестрёнкаВытрясем деньги из этого идиота, потом вернёмся по твою душу; и зверюшку свою забери».
 
 - **Путешественник:** Ох, какой ужас.
 
@@ -216,25 +216,25 @@
 
 **Паймон:** У Паймон дежавю! И неважно из-за того ли, что негодяй действительно оказался плохим, или потому, что слова могут иметь двойной смысл.
 
-**Джингл:** Что значит {RUBY#[D]Наверняка это блеф.}«на самом деле понять, что хотят сказать»... Всё, что мы говорим,{RUBY#[D]Хотите надуть нас?} идёт от самого сердца. Это истинная {RUBY#[D]Не выйдет!}правда.
+**Джингл:** Что значит Наверняка это блеф.«на самом деле понять, что хотят сказать»... Всё, что мы говорим,Хотите надуть нас? идёт от самого сердца. Это истинная Не выйдет!правда.
 
-**Хавишам:** Это лишь минутное {RUBY#[D]и вполне обычное}наваждение. Раньше так не бывало. Мы усвоили {RUBY#[D]Нам двоим не справиться.}урок.
+**Хавишам:** Это лишь минутное и вполне обычноенаваждение. Раньше так не бывало. Мы усвоили Нам двоим не справиться.урок.
 
-**Джингл:** Мы можем вернуть всё,{RUBY#[D]Большинство наших соратников в лагере.} что награбили. Если бы мы правда{RUBY#[D]В этот раз шутки плохи.} не находились в затруднительном положении, то разве захотели бы мы{RUBY#[D]Нужно предупредить остальных, чтобы перебазировались.} жить такой опасной жизнью?
+**Джингл:** Мы можем вернуть всё,Большинство наших соратников в лагере. что награбили. Если бы мы правдаВ этот раз шутки плохи. не находились в затруднительном положении, то разве захотели бы мыНужно предупредить остальных, чтобы перебазировались. жить такой опасной жизнью?
 
-**Хавишам:** Простите нас в этот раз, мы вернёмся в порт Люмидус {RUBY#[D]Соберём соратников и вернёмся отомстить.}и станем честными торговцами.
+**Хавишам:** Простите нас в этот раз, мы вернёмся в порт Люмидус Соберём соратников и вернёмся отомстить.и станем честными торговцами.
 
-**Джингл:** Ко{RUBY#[D]Глупцы.}нечно.
+**Джингл:** КоГлупцы.нечно.
 
-**Хавишам:** Мы всё ска{RUBY#[D]Бред!}зали, вы нас {RUBY#[D]Даже проще.}услышали.
+**Хавишам:** Мы всё скаБред!зали, вы нас Даже проще.услышали.
 
 **Рыжий юноша:** Хорошо! Поверю вам ещё раз. Блю, Бланш, отпустите их.
 
 **Бланш:** Ладно.
 
-**Джингл:** Мы обязательно {RUBY#[D]Позовём подкрепление!}встанем на праведный путь.
+**Джингл:** Мы обязательно Позовём подкрепление!встанем на праведный путь.
 
-**Хавишам:** А затем вернёмся {RUBY#[D]Все кости вам переломаем!}и отблагодарим вас.
+**Хавишам:** А затем вернёмся Все кости вам переломаем!и отблагодарим вас.
 
 Закончив рассыпаться в благодарностях, Похитители сокровищ устремились куда-то в южном направлении...
 
@@ -320,9 +320,9 @@
 
 **Рыжий юноша:** Вы вспоминаете, что они тогда говорили...
 
-**Рыжий юноша:** «Сделать подобное для человека,{RUBY#[D]Вот идиот!} которого никогда не встречал... У тебя по-настоящему золо{RUBY#[D]Было бы золотым, тогда бы поговорили.}тое сердце, мой друг! Я правда {RUBY#[D]Обдерём как липку!}очень тронут».
+**Рыжий юноша:** «Сделать подобное для человека,Вот идиот! которого никогда не встречал... У тебя по-настоящему золоБыло бы золотым, тогда бы поговорили.тое сердце, мой друг! Я правда Обдерём как липку!очень тронут».
 
-**Рыжий юноша:** «Мы держим {RUBY#[D]Что значат слова?}своё слово. Мы отпускаем тебя, братишка / сестрёнка{RUBY#[D]Вытрясем деньги из этого идиота, потом вернёмся по твою душу}; и зверюшку свою забери».
+**Рыжий юноша:** «Мы держим Что значат слова?своё слово. Мы отпускаем тебя, братишка / сестрёнкаВытрясем деньги из этого идиота, потом вернёмся по твою душу; и зверюшку свою забери».
 
 - **Путешественник:** Ох, какой ужас.
 
@@ -332,27 +332,27 @@
 
 **Паймон:** Паймон, кажется, тоже поняла! Паймон такая умничка!
 
-**Джингл:** Что значит {RUBY#[D]Наверняка это блеф.}«на самом деле понять, что хотят сказать»... Всё, что мы говорим,{RUBY#[D]Хотите надуть нас?} идёт от самого сердца. Это истинная {RUBY#[D]Не выйдет!}правда.
+**Джингл:** Что значит Наверняка это блеф.«на самом деле понять, что хотят сказать»... Всё, что мы говорим,Хотите надуть нас? идёт от самого сердца. Это истинная Не выйдет!правда.
 
-**Хавишам:** Это лишь минутное {RUBY#[D]и вполне обычное}наваждение. Раньше так не бывало. Мы усвоили {RUBY#[D]Нам двоим не справиться.}урок.
+**Хавишам:** Это лишь минутное и вполне обычноенаваждение. Раньше так не бывало. Мы усвоили Нам двоим не справиться.урок.
 
-**Джингл:** Мы можем вернуть всё,{RUBY#[D]Большинство наших соратников в лагере.} что награбили. Если бы мы правда{RUBY#[D]В этот раз шутки плохи.} не находились в затруднительном положении, то разве захотели бы мы{RUBY#[D]Нужно предупредить остальных, чтобы перебазировались.} жить такой опасной жизнью?
+**Джингл:** Мы можем вернуть всё,Большинство наших соратников в лагере. что награбили. Если бы мы правдаВ этот раз шутки плохи. не находились в затруднительном положении, то разве захотели бы мыНужно предупредить остальных, чтобы перебазировались. жить такой опасной жизнью?
 
-**Хавишам:** Простите нас в этот раз, мы вернёмся в порт Люмидус {RUBY#[D]Соберём соратников и вернёмся отомстить.}и станем честными торговцами.
+**Хавишам:** Простите нас в этот раз, мы вернёмся в порт Люмидус Соберём соратников и вернёмся отомстить.и станем честными торговцами.
 
 **Рыжий юноша:** Вы говорите, что искренне раскаиваетесь?
 
-**Джингл:** Ко{RUBY#[D]Глупцы.}нечно.
+**Джингл:** КоГлупцы.нечно.
 
-**Хавишам:** Мы всё ска{RUBY#[D]Ничего не соображают!}зали, вы нас {RUBY#[D]Так даже проще.}услышали.
+**Хавишам:** Мы всё скаНичего не соображают!зали, вы нас Так даже проще.услышали.
 
 **Рыжий юноша:** Хорошо! Поверю вам ещё раз. Блю, Бланш, отпустите их.
 
 **Бланш:** Ладно.
 
-**Джингл:** Мы обязательно {RUBY#[D]Позовём подкрепление!}встанем на праведный путь.
+**Джингл:** Мы обязательно Позовём подкрепление!встанем на праведный путь.
 
-**Хавишам:** А затем вернёмся {RUBY#[D]Все кости вам переломаем!}и отблагодарим вас.
+**Хавишам:** А затем вернёмся Все кости вам переломаем!и отблагодарим вас.
 
 Закончив рассыпаться в благодарностях, Похитители сокровищ устремились куда-то в южном направлении...
 
@@ -608,9 +608,9 @@ You take a few deep breaths to cast aside a few unwanted thoughts and clear your
 
 **Redhead:** Try to recall what they said.
 
-**Redhead:** "All that for some{RUBY#[D]What an idiot!}one you've never met... You have a heart {RUBY#[D]If your heart was real gold, then we'd be in business.}of gold, my friend! I'm so {RUBY#[D]Gold or not, I'm gonna rip it right out.}touched."
+**Redhead:** "All that for someWhat an idiot!one you've never met... You have a heart If your heart was real gold, then we'd be in business.of gold, my friend! I'm so Gold or not, I'm gonna rip it right out.touched."
 
-**Redhead:** "We are men {RUBY#[D]As if verbal agreements amount to anything.}of our word. We'll let you walk free today, bro / girl{RUBY#[D]We'll be back to finish you once we're done with this moron.}, and take your pet with you!"
+**Redhead:** "We are men As if verbal agreements amount to anything.of our word. We'll let you walk free today, bro / girlWe'll be back to finish you once we're done with this moron., and take your pet with you!"
 
 - **Traveler:** Whoa, that's scary.
 
@@ -620,25 +620,25 @@ You take a few deep breaths to cast aside a few unwanted thoughts and clear your
 
 **Paimon:** Paimon's seen this all before. Bad guys never change, and words take on different meanings once you process them.
 
-**Jingle:** What do you mean "what we a{RUBY#[D]They must be bluffing.}ctually think"... We say what{RUBY#[D]I'm not gonna fall for this.} we mean! It's {RUBY#[D]Nope!}true!
+**Jingle:** What do you mean "what we aThey must be bluffing.ctually think"... We say whatI'm not gonna fall for this. we mean! It's Nope!true!
 
-**Havisham:** We just got carried away, that's all. {RUBY#[D]Well, maybe once or twice. Three times?} This has never happened before. We've learned {RUBY#[D]We've got to get backup.}our lesson!
+**Havisham:** We just got carried away, that's all. Well, maybe once or twice. Three times? This has never happened before. We've learned We've got to get backup.our lesson!
 
-**Jingle:** Here, take our loot{RUBY#[D]Most of our stuff is back at camp.}. It's all yours. Life has not {RUBY#[D](bad luck running into this lot)}been kind to us, or else we would never have{RUBY#[D]We'd better warn the others.} stooped as low as robbing.
+**Jingle:** Here, take our lootMost of our stuff is back at camp.. It's all yours. Life has not (bad luck running into this lot)been kind to us, or else we would never haveWe'd better warn the others. stooped as low as robbing.
 
-**Havisham:** Please give us another chance! We'll {RUBY#[D]Once we're back at camp, we'll get the others. You're gonna pay!}make an honest living in Lumidouce Harbor.
+**Havisham:** Please give us another chance! We'll Once we're back at camp, we'll get the others. You're gonna pay!make an honest living in Lumidouce Harbor.
 
-**Jingle:** Of co{RUBY#[D]As if...}urse.
+**Jingle:** Of coAs if...urse.
 
-**Havisham:** As we {RUBY#[D]They sound delusional}have said, so have {RUBY#[D]But that makes things easier}you heard.
+**Havisham:** As we They sound delusionalhave said, so have But that makes things easieryou heard.
 
 **Redhead:** Okay, then. We'll believe you once more. Bleu, Blanc, let them go.
 
 **Blanc:** Alright.
 
-**Jingle:** We promise to {RUBY#[D]Call for backup}become better men.
+**Jingle:** We promise to Call for backupbecome better men.
 
-**Havisham:** And we will thank you {RUBY#[D]with some broken ribs}properly in the future!
+**Havisham:** And we will thank you with some broken ribsproperly in the future!
 
 Having said their piece, the two Treasure Hoarders hurriedly head south.
 
@@ -724,9 +724,9 @@ You take a few deep breaths to cast aside a few unwanted thoughts and clear your
 
 **Redhead:** Try to recall what they said.
 
-**Redhead:** "All that for some{RUBY#[D]What an idiot!}one you've never met... You have a heart {RUBY#[D]If your heart was real gold, then we'd be in business.}of gold, my friend! I'm so {RUBY#[D]Gold or not, I'm gonna rip it right out.}touched."
+**Redhead:** "All that for someWhat an idiot!one you've never met... You have a heart If your heart was real gold, then we'd be in business.of gold, my friend! I'm so Gold or not, I'm gonna rip it right out.touched."
 
-**Redhead:** "We are men {RUBY#[D]As if verbal agreements amount to anything.}of our word. We'll let you walk free today, bro / girl{RUBY#[D]We'll be back to finish you once we're done with this moron.}, and take your pet with you!"
+**Redhead:** "We are men As if verbal agreements amount to anything.of our word. We'll let you walk free today, bro / girlWe'll be back to finish you once we're done with this moron., and take your pet with you!"
 
 - **Traveler:** Whoa, that's scary.
 
@@ -736,27 +736,27 @@ You take a few deep breaths to cast aside a few unwanted thoughts and clear your
 
 **Paimon:** Paimon thinks Paimon's hearing it as well! Whoa! Paimon's a mind reader now!
 
-**Jingle:** What do you mean "what we a{RUBY#[D]They must be bluffing.}ctually think"... We say what{RUBY#[D]I'm not gonna fall for this.} we mean! It's {RUBY#[D]Nope!}true!
+**Jingle:** What do you mean "what we aThey must be bluffing.ctually think"... We say whatI'm not gonna fall for this. we mean! It's Nope!true!
 
-**Havisham:** We just got carried away, that's all. {RUBY#[D]Well, maybe once or twice. Three times?} This has never happened before. We've learned {RUBY#[D]We've got to get backup.}our lesson!
+**Havisham:** We just got carried away, that's all. Well, maybe once or twice. Three times? This has never happened before. We've learned We've got to get backup.our lesson!
 
-**Jingle:** Here, take our loot{RUBY#[D]Most of our stuff is back at camp.}. It's all yours. Life has not {RUBY#[D](bad luck running into this lot)}been kind to us, or else we would never have{RUBY#[D]We'd better warn the others.} stooped as low as robbing.
+**Jingle:** Here, take our lootMost of our stuff is back at camp.. It's all yours. Life has not (bad luck running into this lot)been kind to us, or else we would never haveWe'd better warn the others. stooped as low as robbing.
 
-**Havisham:** Please give us another chance! We'll {RUBY#[D]Once we're back at camp, we'll get the others. You're gonna pay!}make an honest living in Lumidouce Harbor.
+**Havisham:** Please give us another chance! We'll Once we're back at camp, we'll get the others. You're gonna pay!make an honest living in Lumidouce Harbor.
 
 **Redhead:** Are you saying you're ready to change?
 
-**Jingle:** Of co{RUBY#[D]As if...}urse.
+**Jingle:** Of coAs if...urse.
 
-**Havisham:** As we {RUBY#[D]They sound delusional}have said, so have {RUBY#[D]But that makes things easier}you heard.
+**Havisham:** As we They sound delusionalhave said, so have But that makes things easieryou heard.
 
 **Redhead:** Okay, then. We'll believe you once more. Bleu, Blanc, let them go.
 
 **Blanc:** Alright.
 
-**Jingle:** We promise to {RUBY#[D]Call for backup}become better men.
+**Jingle:** We promise to Call for backupbecome better men.
 
-**Havisham:** And we will thank you {RUBY#[D]with some broken ribs}properly in the future!
+**Havisham:** And we will thank you with some broken ribsproperly in the future!
 
 Having said their piece, the two Treasure Hoarders hurriedly head south.
 
@@ -831,6 +831,100 @@ I'm sure you have your reasons.
 ### 曙红即兴诗
 
 在郊外遇到了被关在笼子里的人…
+
+#### 与关在笼子里的人对话
+
+**哈维沙姆:** 你好，小兄弟 / 小妹妹。
+
+**金格尔:** 今天可真是糟糕的一天啊，你说对吧？
+
+**哈维沙姆:** 你不走运，我们也倒霉。
+
+**金格尔:** 你带宠物散步，遇上我们。
+
+**哈维沙姆:** 你不走运。
+
+**金格尔:** 我们本想差不多收工了，但遇上你，也只好打起精神再干一票。
+
+**哈维沙姆:** 我们倒霉。
+
+派蒙，怎么办，我们被打劫了。
+
+**派蒙:** 难道不应该先反驳我不是什么需要带到户外散步的宠物吗！
+
+**派蒙:** 算了…这种时候就要表现得比对方更凶狠才行，看我的。
+
+**派蒙:** 我们可是大名鼎鼎的旅行者和派蒙，你们这些不法之徒，要是不想吃不了兜着走，就赶紧退下吧！
+
+**金格尔:** 多稀罕哪，这么能说会道的宠物，要是我们抓了…
+
+**哈维沙姆:** 肯定能卖个大价钱。
+
+**派蒙:** 欸——
+
+话不多说，这就开打吧。
+
+**看似懦弱的红发青年:** 请、请等一下！
+
+**看似懦弱的红发青年:** 哈维沙姆先生、金格尔先生，我们不是说好了吗？只要我交出手上这批货物，两位这段时间就不再为难来往的无辜行人和小动物…
+
+**金格尔:** 这么说来我们认识尚浅，还没给你讲过我们的经历。从前我们在枫丹廷当学徒，后来被赶走了，你知道为什么吗？
+
+**哈维沙姆:** 他们说，不够上进。
+
+**金格尔:** 对！可是不管怎么说，我们哥俩都是知错能改的人。既然上一份工作因为不够上进丢了，那对现在的工作就得十二分上进。
+
+我对打击恶势力也十五分有兴趣。
+
+**金格尔:** 看不出来，小兄弟 / 小妹妹个头不高，志气不小。看来今天是非打不可了，也好，让你见识一下我们哥俩的本领。
+
+**哈维沙姆:** 十八分厉害的本领。
+
+**看似懦弱的红发青年:** 停一停，请停一停。听我一句劝吧，几位，这样无谓的争斗对你们双方又有什么益处呢。
+
+**看似懦弱的红发青年:** 无论是两败俱伤，还是其中一方殒命，这样的结局都是我所不乐见的。
+
+**看似懦弱的红发青年:** 所幸我的钱财够多，虽然没有二十分那么多，但我愿意多付一份赎金，只求你们双方不要再纠缠。
+
+**派蒙:** 你…你没事吧？
+
+**看似懦弱的红发青年:** 啊，谢谢关心，除了暂时少了一些活动的余裕，其他一切都好。
+
+**派蒙:** 是他们把你关起来的对吧？为什么你不仅不向我们求救，还要再多向他们付一份赎金…
+
+**看似懦弱的红发青年:** 好心的朋友，生活中总有些困境是仅靠自己的力量难以克服的，我相信哈维沙姆先生和金格尔先生现在就在这样的困境中。
+
+**看似懦弱的红发青年:** 如果能用一点微不足道的钱财，拯救两个，或者甚至是四个人，还有比这更便宜的买卖吗？
+
+**看似懦弱的红发青年:** 至于我，不劳两位费心，我已与哈维沙姆先生和金格尔先生约定好。
+
+**看似懦弱的红发青年:** 我带他们取走一批货品，届时他们就会将我释放。而他们也便有了本金，可以换个营生，不用再与无辜行人和小动物为难。
+
+**金格尔:** 你的确是这么说的。
+
+**哈维沙姆:** 我们的确是这么听见的。
+
+**金格尔:** 居然为了素不相识的人…真是金子一般的心啊，我真是太感动了。
+
+**哈维沙姆:** 我们是信守承诺的人，今天就先放过带宠物散步的小兄弟 / 小妹妹。
+
+**看似懦弱的红发青年:** 那太好了，旅行者弟弟 / 妹妹和派蒙，你们可以回家了。
+
+**看似懦弱的红发青年:** 不用担心我，我这就带哈维沙姆先生和金格尔先生去取走要给他们的货物…很轻松的任务。
+
+盗宝团将红发青年从笼子里解放出来，三人一道向东边去了…
+
+**派蒙:** 他们居然就这样走了…旅行者，你说那两个盗宝团真的会放过那个人吗？我感觉他笨笨的…
+
+- **旅行者:** 明明可以付钱给我让我来解决问题…
+
+- **旅行者:** 搞不好他们三个都在演戏…
+
+**派蒙:** 可能他是那种连蚂蚁都不忍心伤害的人吧！真的有这种人吗…
+
+**派蒙:** 啊！你是说他们三个其实是一伙的吗？可是现在他们三个都走了欸，如果只是为了骗我们…
+
+**派蒙:** 好在意到底是怎么回事！他们刚才往东边去了…不如我们跟上去看看吧？
 
 #### 场景
 
@@ -918,9 +1012,9 @@ I'm sure you have your reasons.
 
 **红发青年:** 你们回忆一下，他们当时是这样说的…
 
-**红发青年:** 「居然为了{RUBY#[D]真够白痴的}素不相识的人…真是金子{RUBY#[D]你的心要是真有金子那么值钱}一般的心啊，我真是{RUBY#[D]怎么说我也得给你剜出来}太感动了。」
+**红发青年:** 「居然为了真够白痴的素不相识的人…真是金子你的心要是真有金子那么值钱一般的心啊，我真是怎么说我也得给你剜出来太感动了。」
 
-**红发青年:** 「我们是{RUBY#[D]口头约定值几个子}信守承诺的人，今天就先放过带{RUBY#[D]先榨完这傻小子的钱财再回来干这一票}宠物散步的小兄弟 / 小妹妹。」
+**红发青年:** 「我们是口头约定值几个子信守承诺的人，今天就先放过带先榨完这傻小子的钱财再回来干这一票宠物散步的小兄弟 / 小妹妹。」
 
 - **旅行者:** 哇，好恐怖。
 
@@ -930,25 +1024,25 @@ I'm sure you have your reasons.
 
 **派蒙:** 有种似曾相识的感觉呢！不管是果然坏人就是坏人这种展开，还是用了脑子之后突然能听懂真正想说的话了。
 
-**金格尔:** 什么听明白别人{RUBY#[D]肯定是在虚张声势}真正想说的…我们所说的{RUBY#[D]想诈我是吧}就是心中所想的，一点{RUBY#[D]没门}不假。
+**金格尔:** 什么听明白别人肯定是在虚张声势真正想说的…我们所说的想诈我是吧就是心中所想的，一点没门不假。
 
-**哈维沙姆:** 只是一时{RUBY#[D]常有的事}迷了心窍。我们吃到{RUBY#[D]光靠我们两个不够}了教训。
+**哈维沙姆:** 只是一时常有的事迷了心窍。我们吃到光靠我们两个不够了教训。
 
-**金格尔:** 我们这就退还之前{RUBY#[D]反正大头不在身上都在据点}打劫所得的钱财，要不是因为真的{RUBY#[D]看来这片的硬茬子不好惹}生活有困难，谁愿意过这种{RUBY#[D]招呼兄弟们换个地盘吧}刀尖舔血的生活呢？
+**金格尔:** 我们这就退还之前反正大头不在身上都在据点打劫所得的钱财，要不是因为真的看来这片的硬茬子不好惹生活有困难，谁愿意过这种招呼兄弟们换个地盘吧刀尖舔血的生活呢？
 
-**哈维沙姆:** 这次放了我们，我们去柔灯港{RUBY#[D]回据点叫上兄弟晚点回来报仇}做正经营生。
+**哈维沙姆:** 这次放了我们，我们去柔灯港回据点叫上兄弟晚点回来报仇做正经营生。
 
-**金格尔:** 当{RUBY#[D]白痴}然。
+**金格尔:** 当白痴然。
 
-**哈维沙姆:** 我们是{RUBY#[D]这人傻了吧}这样说的，你们也是{RUBY#[D]是个傻子倒省些麻烦}这样听见的。
+**哈维沙姆:** 我们是这人傻了吧这样说的，你们也是是个傻子倒省些麻烦这样听见的。
 
 **红发青年:** 好！那我就再信你们一次。布勒、布朗什，把他们俩放了吧。
 
 **布朗什:** 好嘞。
 
-**金格尔:** 我们一定{RUBY#[D]这就回去招呼兄弟}改过自新。
+**金格尔:** 我们一定这就回去招呼兄弟改过自新。
 
-**哈维沙姆:** 日后一定{RUBY#[D]给你送点骨折挫伤}回来答谢。
+**哈维沙姆:** 日后一定给你送点骨折挫伤回来答谢。
 
 两个盗宝团说完感谢的话，头也不回地向南边去了…
 
@@ -1034,9 +1128,9 @@ I'm sure you have your reasons.
 
 **红发青年:** 你们回忆一下，他们当时是这样说的…
 
-**红发青年:** 「居然为了{RUBY#[D]真够白痴的}素不相识的人…真是金子{RUBY#[D]你的心要是真有金子那么值钱}一般的心啊，我真是{RUBY#[D]怎么说我也得给你剜出来}太感动了。」
+**红发青年:** 「居然为了真够白痴的素不相识的人…真是金子你的心要是真有金子那么值钱一般的心啊，我真是怎么说我也得给你剜出来太感动了。」
 
-**红发青年:** 「我们是{RUBY#[D]口头约定值几个子}信守承诺的人，今天就先放过带{RUBY#[D]先榨完这傻小子的钱财再回来干这一票}宠物散步的小兄弟 / 小妹妹。」
+**红发青年:** 「我们是口头约定值几个子信守承诺的人，今天就先放过带先榨完这傻小子的钱财再回来干这一票宠物散步的小兄弟 / 小妹妹。」
 
 - **旅行者:** 哇，好恐怖。
 
@@ -1046,27 +1140,27 @@ I'm sure you have your reasons.
 
 **派蒙:** 我、我好像也听懂了！我的脑子好厉害！
 
-**金格尔:** 什么听明白别人{RUBY#[D]肯定是在虚张声势}真正想说的…我们所说的{RUBY#[D]想诈我是吧}就是心中所想的，一点{RUBY#[D]没门}不假。
+**金格尔:** 什么听明白别人肯定是在虚张声势真正想说的…我们所说的想诈我是吧就是心中所想的，一点没门不假。
 
-**哈维沙姆:** 只是一时{RUBY#[D]常有的事}迷了心窍。我们吃到{RUBY#[D]光靠我们两个不够}了教训。
+**哈维沙姆:** 只是一时常有的事迷了心窍。我们吃到光靠我们两个不够了教训。
 
-**金格尔:** 我们这就退还之前{RUBY#[D]反正大头不在身上都在据点}打劫所得的钱财，要不是因为真的{RUBY#[D]看来这片的硬茬子不好惹}生活有困难，谁愿意过这种{RUBY#[D]招呼兄弟们换个地盘吧}刀尖舔血的生活呢？
+**金格尔:** 我们这就退还之前反正大头不在身上都在据点打劫所得的钱财，要不是因为真的看来这片的硬茬子不好惹生活有困难，谁愿意过这种招呼兄弟们换个地盘吧刀尖舔血的生活呢？
 
-**哈维沙姆:** 这次放了我们，我们去柔灯港{RUBY#[D]回据点叫上兄弟晚点回来报仇}做正经营生。
+**哈维沙姆:** 这次放了我们，我们去柔灯港回据点叫上兄弟晚点回来报仇做正经营生。
 
 **红发青年:** 嗯，你们是说，你们真心悔改了？
 
-**金格尔:** 当{RUBY#[D]白痴}然。
+**金格尔:** 当白痴然。
 
-**哈维沙姆:** 我们是{RUBY#[D]这人傻了吧}这样说的，你们也是{RUBY#[D]是个傻子倒省些麻烦}这样听见的。
+**哈维沙姆:** 我们是这人傻了吧这样说的，你们也是是个傻子倒省些麻烦这样听见的。
 
 **红发青年:** 好！那我就再信你们一次。布勒、布朗什，把他们俩放了吧。
 
 **布朗什:** 好嘞。
 
-**金格尔:** 我们一定{RUBY#[D]这就回去招呼兄弟}改过自新。
+**金格尔:** 我们一定这就回去招呼兄弟改过自新。
 
-**哈维沙姆:** 日后一定{RUBY#[D]给你送点骨折挫伤}回来答谢。
+**哈维沙姆:** 日后一定给你送点骨折挫伤回来答谢。
 
 两个盗宝团说完感谢的话，头也不回地向南边去了…
 

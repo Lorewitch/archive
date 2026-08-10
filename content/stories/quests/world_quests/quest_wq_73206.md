@@ -3,13 +3,13 @@
 # title_ru: Подаренная роза: Могут ли зацвести камни?
 # title_en: A Gifted Rose: Can Stones Bloom
 # title_zh: 献给某人的蔷薇·石头能不能开花
-# region: Сумеру
+# region: Тейват
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73206
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73206
 # previous_quests: quest_wq_73205
 # next_quests: quest_wq_73207
@@ -361,3 +361,7 @@ Got it.
 **派蒙:** 阿凡爷爷…
 
 **阿凡:** 两个小娃娃，你们去忙吧。
+
+#### （test）给花种浇水
+
+**阿凡:** 难道我真的是在种石头吗？

@@ -13,8 +13,8 @@
 # part_source_ids: 40223
 # previous_quests: quest_eq_10268
 # next_quests: quest_eq_10270
-# related_quests: quest_eq_10268,quest_eq_10270,quest_eq_10196,quest_wq_71149,quest_wq_71168,quest_wq_71166,quest_wq_71167,quest_wq_71672,quest_wq_71673,quest_wq_71674
-# quest_chain: quest_eq_10268,quest_eq_10269,quest_eq_10270,quest_eq_10196,quest_wq_71149,quest_wq_71168,quest_wq_71166,quest_wq_71167,quest_wq_71672,quest_wq_71673,quest_wq_71674
+# related_quests: quest_eq_10268,quest_eq_10270,quest_eq_10196
+# quest_chain: quest_eq_10268,quest_eq_10269,quest_eq_10270,quest_eq_10196
 # quest_series: A Lanternlit Ode to the Silver Moon || A Lanternlit Ode to the Silver Moon (Event)
 # version_source: wiki_release_category
 

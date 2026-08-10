@@ -3,18 +3,18 @@
 # title_ru: Всеядные гурманы: В рамках долга
 # title_en: Gourmet Supremos: Within Our Duties
 # title_zh: 全能美食队·职责之内
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73800
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 73800
-# previous_quests: 
+# previous_quests:
 # next_quests: quest_wq_73805
-# related_quests: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73805
-# quest_chain: quest_wq_22016,quest_wq_72168,quest_wq_72171,quest_wq_72169,quest_wq_72170,quest_wq_72800,quest_wq_73800,quest_wq_73805
+# related_quests: quest_wq_73805
+# quest_chain: quest_wq_73800,quest_wq_73805
 # quest_series: The Gourmet Supremos
 # version_source: wiki_release_category
 

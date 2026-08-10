@@ -13,8 +13,8 @@
 # part_source_ids: 41412
 # previous_quests: quest_eq_10022
 # next_quests: quest_eq_10024
-# related_quests: quest_eq_10021,quest_eq_10022,quest_eq_10024,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
-# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024,quest_wq_70000,quest_wq_70001,quest_wq_70003,quest_wq_70007,quest_wq_70008,quest_wq_70009,quest_wq_70010,quest_wq_70654,quest_wq_70656,quest_wq_70657,quest_wq_70658,quest_wq_70800
+# related_quests: quest_eq_10021,quest_eq_10022,quest_eq_10024
+# quest_chain: quest_eq_10021,quest_eq_10022,quest_eq_10023,quest_eq_10024
 # quest_series: Invitation of Windblume
 # version_source: wiki_release_category
 
@@ -1060,7 +1060,7 @@ It's a fun time.
 
 **砂糖:** 蒂玛乌斯——！可以问问你的进度吗？
 
-**砂糖:** 咦，旅行者和{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}的朋友们也在这儿，你们好呀！
+**砂糖:** 咦，旅行者和空/荧的朋友们也在这儿，你们好呀！
 
 **蒂玛乌斯:** 砂糖拜托我帮她破译一份炼金配方，但这东西太难理解了，我、我看不懂！
 

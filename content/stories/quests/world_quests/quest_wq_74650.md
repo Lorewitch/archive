@@ -3,19 +3,19 @@
 # title_ru: Собеседование в «Паровой птице»
 # title_en: Steambird Interview
 # title_zh: 「蒸汽鸟报」的面试
-# region: Фонтейн
+# region: Тейват
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74650
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 74650
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_74650
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

@@ -13,8 +13,8 @@
 # part_source_ids: 41312
 # previous_quests: quest_eq_10018
 # next_quests: quest_eq_10020
-# related_quests: quest_eq_10018,quest_eq_10020,quest_eq_40000
-# quest_chain: quest_eq_10018,quest_eq_10019,quest_eq_10020,quest_eq_40000
+# related_quests: quest_eq_10018,quest_eq_10020
+# quest_chain: quest_eq_10018,quest_eq_10019,quest_eq_10020
 # quest_series: Lantern Rite
 # version_source: wiki_release_category
 
@@ -1000,15 +1000,15 @@ If only Xiao were here to see the Mingxiao Lantern.
 
 **派蒙:** 你呢，你的愿望是什么呀？我看看…咦，这不像你会许的愿望啊…
 
-- **旅行者:** 这是我{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的愿望。
+- **旅行者:** 这是我荧/空的愿望。
 
-- **旅行者:** 希望{MATEAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}的愿望能够实现。
+- **旅行者:** 希望荧/空的愿望能够实现。
 
-**派蒙:** 这样啊，你是在帮{MATEAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}许愿啊…
+**派蒙:** 这样啊，你是在帮荧/空许愿啊…
 
-**派蒙:** 你刻的…原来是你{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_BROTHER|INFO_FEMALE_PRONOUN_SISTER]}的愿望啊…
+**派蒙:** 你刻的…原来是你荧/空的愿望啊…
 
-**派蒙:** 没关系，我们一定会找到{MATEAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_HE|INFO_MALE_PRONOUN_SHE]}的，然后我们就一起来海灯节玩。
+**派蒙:** 没关系，我们一定会找到荧/空的，然后我们就一起来海灯节玩。
 
 **派蒙:** 到时候，我们就放好多好多「霄灯」，把之前没有许的愿望全部都许一遍！
 

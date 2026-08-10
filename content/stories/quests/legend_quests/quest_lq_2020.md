@@ -12,7 +12,7 @@
 # chapter_num_zh: 古闻之章 第二幕
 # part_source_ids: 11120,11121,11122,11123,11124
 # previous_quests: quest_lq_2014
-# next_quests: 
+# next_quests:
 # related_quests: quest_lq_2014
 # quest_chain: quest_lq_2014,quest_lq_2020
 # quest_series: Historia Antiqua || Historia Antiqua Chapter
@@ -3740,7 +3740,7 @@ Perhaps.
 
 **钟离:** 什么事？
 
-有关我{PLAYERAVATAR#SEXPRO[INFO_FEMALE_PRONOUN_SISTER|INFO_MALE_PRONOUN_BROTHER]}的事。
+有关我空/荧的事。
 
 **派蒙:** 对哦，差点忘了！
 

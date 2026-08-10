@@ -3,19 +3,19 @@
 # title_ru: Журнал кинематографиста
 # title_en: Film Notes
 # title_zh: 映影书写札记
-# region: Инадзума
+# region: Тейват
 # game_version: 2.8
 # release_versions: 2.8
 # source_id: 10096
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72286,72287
-# previous_quests: 
-# next_quests: 
-# related_quests: 
+# previous_quests:
+# next_quests:
+# related_quests:
 # quest_chain: quest_wq_10096
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU

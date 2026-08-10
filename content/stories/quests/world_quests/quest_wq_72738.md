@@ -3,19 +3,19 @@
 # title_ru: Истории путешествий: Предначертание судьбы
 # title_en: Travelers' Tales: Destiny Drawn
 # title_zh: 游逸旅闻·相缘绘愿
-# region: Инадзума
+# region: Тейват
 # game_version: 6.0
 # release_versions: 6.0
 # source_id: 72738
-# chapter_num_ru: 
-# chapter_num_en: 
-# chapter_num_zh: 
+# chapter_num_ru:
+# chapter_num_en:
+# chapter_num_zh:
 # part_source_ids: 72738
 # previous_quests: quest_wq_70689
-# next_quests: 
+# next_quests:
 # related_quests: quest_wq_70689
 # quest_chain: quest_wq_70689,quest_wq_72738
-# quest_series: 
+# quest_series:
 # version_source: wiki_release_category
 
 ## RU
