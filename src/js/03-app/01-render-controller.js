@@ -100,7 +100,7 @@ async function render() {
     if (sequence !== renderSequence) return;
   }
 
-  if (!state.entryId && config.groups && (!state.subsection || hasChildGroups(config, state.subsection))) {
+  if (!state.entryId && config.groups && (!state.subsection || (hasChildGroups(config, state.subsection) && !isQuestStoriesCatalog(config)))) {
     renderGroupSelector(config, state.subsection || "");
     markRouteRendered(routeKey, routeChanged);
     return;

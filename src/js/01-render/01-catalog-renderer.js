@@ -43,6 +43,9 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
     if (isCharacterStoriesCatalog(config)) {
       return storyCharacterMatchesTypeFilters(item, activeTypeSet);
     }
+    if (isQuestStoriesCatalog(config)) {
+      return storyQuestMatchesTypeFilters(item, activeTypeSet);
+    }
     return activeTypeSet.has(itemTypeFilterValue(item, config));
   }
 

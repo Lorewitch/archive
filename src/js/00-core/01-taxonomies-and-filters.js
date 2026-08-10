@@ -140,6 +140,14 @@ const STORY_CHARACTER_TYPE_FILTERS = [
   ...RARITY_FILTERS.filter(option => option.value === "rarity:5" || option.value === "rarity:4"),
 ];
 
+const STORY_QUEST_TYPE_FILTERS = [
+  { value: "quest:archon_quests", label: "Задания Архонтов", group: "quest-type" },
+  { value: "quest:legend_quests", label: "Задания Легенд", group: "quest-type" },
+  { value: "quest:world_quests", label: "Задания мира", group: "quest-type" },
+  { value: "quest:event_chronicles", label: "Ивенты", group: "quest-type" },
+  { value: "collection:witch_homework", label: "Уроки ведьм", group: "quest-collection" },
+];
+
 const ELEMENT_LABELS = Object.fromEntries(ELEMENT_FILTERS.map(([value, label, icon, color]) => [value, { label, icon, color }]));
 const CHARACTER_FILTER_LABELS = Object.fromEntries(CHARACTER_FILTERS.map(([value, label, icon, color]) => [value, { label, icon, color }]));
 const ELEMENT_ALIASES = {
@@ -189,6 +197,10 @@ function isDevelopmentMaterialsCatalog(config = getSectionConfig()) {
 
 function isCharacterStoriesCatalog(config = getSectionConfig()) {
   return config?.id === "stories" && state.subsection === "character_stories";
+}
+
+function isQuestStoriesCatalog(config = getSectionConfig()) {
+  return config?.id === "stories" && state.subsection === "quest_stories";
 }
 
 
@@ -405,6 +417,17 @@ function storyCharacterMatchesTypeFilters(item, activeTypeSet) {
   return elementOk && traitOk && rarityOk;
 }
 
+function storyQuestMatchesTypeFilters(item, activeTypeSet) {
+  const selectedGroups = ["archon_quests", "legend_quests", "world_quests", "event_chronicles"]
+    .filter(group => activeTypeSet.has(`quest:${group}`));
+  const selectedCollections = ["witch_homework"]
+    .filter(collection => activeTypeSet.has(`collection:${collection}`));
+  const groupOk = !selectedGroups.length || selectedGroups.includes(item?.story_group);
+  const collections = Array.isArray(item?.quest_collections) ? item.quest_collections : [];
+  const collectionOk = !selectedCollections.length || selectedCollections.some(collection => collections.includes(collection));
+  return groupOk && collectionOk;
+}
+
 function itemTypeFilterValue(item, config = getSectionConfig()) {
   const prepared = String(item?.filter_type || "").trim();
   if (prepared) return prepared;
@@ -420,6 +443,7 @@ function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
   if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
   if (isCharacterStoriesCatalog(config)) return STORY_CHARACTER_TYPE_FILTERS;
+  if (isQuestStoriesCatalog(config)) return STORY_QUEST_TYPE_FILTERS;
   if (config.id === "items") return ITEM_GROUP_TYPE_FILTERS[state.subsection] || [];
   return [];
 }
@@ -485,6 +509,15 @@ function renderTypeFilters(config) {
     const traitOptions = options.filter(option => typeFilterOptionGroup(option) === "trait");
     const rarityOptions = options.filter(option => typeFilterOptionGroup(option) === "rarity");
     return renderTypeFilterRow([...rarityOptions, ...elementOptions, ...traitOptions], activeTypes, { scope: "character-stories", showToggle: false });
+  }
+
+  if (isQuestStoriesCatalog(config)) {
+    const questOptions = options.filter(option => typeFilterOptionGroup(option) === "quest-type");
+    const collectionOptions = options.filter(option => typeFilterOptionGroup(option) === "quest-collection");
+    return [
+      renderTypeFilterRow(questOptions, activeTypes, { scope: "quest-type", label: "Тип задания" }),
+      renderTypeFilterRow(collectionOptions, activeTypes, { scope: "quest-collection", label: "Особая подборка" }),
+    ].join("");
   }
 
   return renderTypeFilterRow(options, activeTypes);
