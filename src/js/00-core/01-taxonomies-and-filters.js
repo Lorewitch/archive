@@ -145,7 +145,13 @@ const STORY_QUEST_TYPE_FILTERS = [
   { value: "quest:legend_quests", label: "Задания Легенд", group: "quest-type" },
   { value: "quest:world_quests", label: "Задания мира", group: "quest-type" },
   { value: "quest:event_chronicles", label: "Ивенты", group: "quest-type" },
-  { value: "collection:witch_homework", label: "Уроки ведьм", group: "quest-collection" },
+  {
+    value: "collection:witch_homework",
+    label: "Уроки ведьм",
+    icon: `${UI_ICON_BASE}/witchcraft.webp`,
+    color: ICON_COLORS.witchcraft,
+    group: "quest-collection",
+  },
 ];
 
 const ELEMENT_LABELS = Object.fromEntries(ELEMENT_FILTERS.map(([value, label, icon, color]) => [value, { label, icon, color }]));
@@ -512,12 +518,7 @@ function renderTypeFilters(config) {
   }
 
   if (isQuestStoriesCatalog(config)) {
-    const questOptions = options.filter(option => typeFilterOptionGroup(option) === "quest-type");
-    const collectionOptions = options.filter(option => typeFilterOptionGroup(option) === "quest-collection");
-    return [
-      renderTypeFilterRow(questOptions, activeTypes, { scope: "quest-type", label: "Тип задания" }),
-      renderTypeFilterRow(collectionOptions, activeTypes, { scope: "quest-collection", label: "Особая подборка" }),
-    ].join("");
+    return renderTypeFilterRow(options, activeTypes, { scope: "quest-stories" });
   }
 
   return renderTypeFilterRow(options, activeTypes);

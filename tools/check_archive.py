@@ -1228,6 +1228,10 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: все задания должны открываться единым каталогом с фильтрами по типу")
         if 'collection:witch_homework' not in text or 'label: "Уроки ведьм"' not in text:
             fail("assets/js/archive.js: Уроки ведьм должны быть отдельной подборкой заданий мира")
+        if '${UI_ICON_BASE}/witchcraft.webp' not in text or 'scope: "quest-stories"' not in text:
+            fail("assets/js/archive.js: фильтры заданий должны быть одной строкой, а Уроки ведьм — кнопкой с иконкой witchcraft")
+        if 'label: "Тип задания"' in text or 'label: "Особая подборка"' in text:
+            fail("assets/js/archive.js: надписи Тип задания и Особая подборка должны быть удалены")
         if 'event_chronicles' not in text or 'id: "bestiary"' not in text or 'BESTIARY_GROUPS' not in text:
             fail("assets/js/archive.js: хроники событий и сгруппированный Бестиарий должны быть подключены в клиенте")
         if 'STORY_CHARACTER_TYPE_FILTERS' not in text or 'ELEMENT_FILTERS' not in text or 'CHARACTER_FILTERS' not in text or 'renderStoryElementCell' not in text or 'renderStoryRarityCell' not in text:
