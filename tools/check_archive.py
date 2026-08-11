@@ -92,7 +92,7 @@ TEXT_SUFFIXES = {
     ".css", ".html", ".js", ".json", ".md", ".py", ".txt", ".yml", ".yaml",
 }
 TEXT_NAMES = {".editorconfig", ".gitattributes", ".gitignore", ".gitkeep", ".nojekyll"}
-SKIP_DIRS = {".git", "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache", "node_modules", "tmp"}
+SKIP_DIRS = {".git", "__pycache__", ".pytest_cache", ".mypy_cache", ".ruff_cache", "node_modules"}
 
 errors: list[str] = []
 
