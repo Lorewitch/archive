@@ -26,7 +26,6 @@
 
 Похоже, Виктор столкнулся с небольшой проблемой во время Праздника ветряных цветов...
 
-#### Сцена
 
 **Лили:** Дяденька, а это плавда, сто Фатуи не плазднуют Плаздник ветляных цветов?
 
@@ -164,7 +163,6 @@
 
 **Лили:** Но он сказал, сто его собачки больфые-плебольфые и пуфыфтые-плепуфыфтые... Навелна, их так плиятно гвадить...
 
-#### Сцена
 
 **Виктор:** Праздник ветряных цветов... Хм! Я не имею к нему никакого отношения.
 
@@ -256,7 +254,6 @@
 
 Viktor seems to have run into a small issue during the Windblume Festival.
 
-#### Scene
 
 **Lily:** Mister, are you Fatooey not celebrating the Weedplume Festival?
 
@@ -394,7 +391,6 @@ I can take care of that.
 
 **Lily:** But he said that his puppies are really, really big and really, really furry. I bet they'd be so nice to pet...
 
-#### Scene
 
 **Viktor:** The Windblume Festival... Hmph. It's got nothing to do with me either way.
 
@@ -486,7 +482,6 @@ Lily made it herself.
 
 在风花节中，维克多先生似乎遇见了一个小小的麻烦…
 
-#### 场景
 
 **莉莉:** 蜀黍，你们驴人众，过不过风化节呀？
 
@@ -624,7 +619,6 @@ Lily made it herself.
 
 **莉莉:** 但他说，他家那边的狗狗，都狠大狠大，毛也狠多狠多…肯定也狠好摸吧…
 
-#### 场景
 
 **维克多:** 风花节…哼，反正和我也没关系…
 

@@ -26,7 +26,6 @@
 
 На окраинах Сумеру вы видите человека, попавшего в беду...
 
-#### Сцена
 
 А теперь о товаре...
 
@@ -194,7 +193,6 @@
 
 **Элбер:** Ещё раз спасибо тебе, путешественни(ца)(к).
 
-#### Сцена
 
 **Элбер:** Я не знаю, куда убежал ещё один вьючный як.
 
@@ -208,7 +206,6 @@
 
 You find someone in danger in the outskirts of Sumeru...
 
-#### Scene
 
 About the goods...
 
@@ -376,7 +373,6 @@ About the goods...
 
 **Elber:** Thanks again, Traveler.
 
-#### Scene
 
 **Elber:** Besides this one, there was another Sumpter Beast that had wandered off.
 
@@ -390,7 +386,6 @@ About the goods...
 
 在须弥的郊外，你注意到似乎有人遇见了危险…
 
-#### 场景
 
 关于这些货物…
 
@@ -558,7 +553,6 @@ About the goods...
 
 **阿尔伯:** 再次谢谢你，旅行者。
 
-#### 场景
 
 **阿尔伯:** 除了这只之外，还有一只驮兽不知道跑到哪里去了。
 

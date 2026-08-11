@@ -444,7 +444,6 @@
 
 **Паймон:** Точно! Жди нас здесь!
 
-#### Сцена
 
 **Мона:** Не нужно тратить на меня ваши силы, я вовсе не...
 
@@ -498,13 +497,11 @@
 
 **Паймон:** С твоим талантом к готовке ты мигом выучишь этот рецепт!
 
-#### Сцена
 
 Крабовый тофу...
 
 **Юй Хуа:** Тофу - очень простой продукт, но если приготовить его с крабовой икрой, то нельзя не понять, что они просто созданы друг для друга. Крабовый тофу - одно из фирменных блюд нашего заведения.
 
-#### Сцена
 
 Свиной суп с бамбуком...
 
@@ -542,7 +539,6 @@
 
 **Мона:** Какие же тайны мироздания откроются нам в этом месте? Хи-хи, жду с нетерпением...
 
-#### Сцена
 
 **Мона:** Этот запах... Это...
 
@@ -1416,7 +1412,6 @@ Let me whip something up for you.
 
 **Paimon:** Oh, yes! We can do that! Just give us a minute!
 
-#### Scene
 
 **Mona:** There's no need to spend all that effort on me, I'm not in dire need of food...
 
@@ -1470,13 +1465,11 @@ Let me whip something up for you.
 
 **Paimon:** With your skills in the kitchen, this'll be a cinch!
 
-#### Scene
 
 How about this Crab Roe Tofu...
 
 **Yuhua:** Though tofu could not be a more ordinary ingredient, it and crab roe are truly a match made in heaven. It's one of our specialties.
 
-#### Scene
 
 And this Bamboo Shoot Soup...
 
@@ -1514,7 +1507,6 @@ And this Bamboo Shoot Soup...
 
 **Mona:** What deep mysteries shall we acquire knowledge of? *chuckles* I'm looking forward to it.
 
-#### Scene
 
 **Mona:** Th—This aroma is...
 
@@ -2390,7 +2382,6 @@ Yup. Dendro Slimes.
 
 **派蒙:** 哦，对啊，还可以这样！你等我们一下！
 
-#### 场景
 
 **莫娜:** 不用为我费工夫，我一点都不馋…
 
@@ -2444,13 +2435,11 @@ Yup. Dendro Slimes.
 
 **派蒙:** 凭借你在烹饪上的造诣，肯定一下——就学会了！
 
-#### 场景
 
 这个「蟹黄豆腐」…
 
 **毓华:** 虽然豆腐这种食材普普通通，但和蟹黄简直是天造地设的一对，是我们的招牌菜之一呢。
 
-#### 场景
 
 这个「腌笃鲜」…
 
@@ -2488,7 +2477,6 @@ Yup. Dendro Slimes.
 
 **莫娜:** 究竟能学到多么深奥的知识呢？哼哼，真是期待。
 
-#### 场景
 
 **莫娜:** 这、这个香味是…
 

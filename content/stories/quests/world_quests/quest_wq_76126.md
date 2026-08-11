@@ -26,7 +26,6 @@
 
 Сомпайнко из Натлана, кажется, чем-то обеспокоен...
 
-#### Сцена
 
 **Люликки:** Ягода? И... господин Сомпайнко, чем могу помочь?
 
@@ -114,7 +113,6 @@
 
 Zompaynco from Natlan seems to be troubled by something...
 
-#### Scene
 
 **Lyylikki:** Jahoda? And... Mr. Zompaynco. What can I do for you?
 
@@ -202,7 +200,6 @@ Zompaynco from Natlan seems to be troubled by something...
 
 从纳塔来的祖潘科似乎正在为某事苦恼…
 
-#### 场景
 
 **莉莉希:** 雅珂达？还有…祖潘科先生，请问您有什么事么？
 

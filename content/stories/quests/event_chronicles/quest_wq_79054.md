@@ -26,7 +26,6 @@
 
 Джерони мечтает смотреть звёздное небо, когда захочет. Почему бы не сделать для него снимок? Даже если это всего лишь отражение в бутылке, а не настоящее небо, оно всё равно будет приятным сувениром.
 
-#### Сцена
 
 **Джерони:** О, как вы здесь оказались? Здесь высоко, да и рельсовых путей нет. Это ведь самый край Миража Велуриям!
 
@@ -112,7 +111,6 @@
 
 Jeroney wishes to be able to see the starry sky whenever he wants, so why not take a photo of it for him? Even if it's only the reflection inside the bottle and not the real thing, it will be beautiful enough.
 
-#### Scene
 
 **Jeroney:** Why are you up here yourself? There isn't even a rail line here, and it's way high up at the very edge of the Mirage.
 
@@ -198,7 +196,6 @@ Of course you can!
 
 杰洛尼想要随时能够看到星空，不如用留影机为他拍摄一张星空的画片吧。虽然只是瓶中折射，不是真正的星空，但也是足以让人想念的美景。
 
-#### 场景
 
 **杰洛尼:** 咦，你们怎么到这里来了？这里没有轨道，也很高，又在整个琉形蜃境边缘的位置。
 

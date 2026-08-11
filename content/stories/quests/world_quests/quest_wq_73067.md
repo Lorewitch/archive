@@ -26,7 +26,6 @@
 
 В жилище аранар вы нашли записку аранары по имени Арашакун. Арашакун потерял храбрость, но всё же решил отправиться в опасное место. Надо бы за ним приглядеть...
 
-#### Сцена
 
 **Паймон:** Хм, эти хиличурлы обронили какую-то странную штуковину...
 
@@ -254,7 +253,6 @@
 
 You found a journal by the Aranara named Arashakun in an Aranara house. Despite losing "courage," Arashakun still decided to venture into such a dangerous place. Go check the situation out...
 
-#### Scene
 
 **Paimon:** Huh? These hilichurls dropped something strange...
 
@@ -482,7 +480,6 @@ A big entry...?
 
 在兰那罗居住的房子里发现了名为兰沙恭的兰那罗写的笔记，但是那个兰沙恭不仅失去了「勇气」，还打算去危险的地方，还是去看看吧…
 
-#### 场景
 
 **派蒙:** 咦，这些丘丘人好像掉了一个奇怪的东西…
 

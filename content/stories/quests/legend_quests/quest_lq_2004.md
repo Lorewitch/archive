@@ -278,7 +278,6 @@
 
 **Лиза:** Пойдём за следующей просроченной книгой.
 
-#### Сцена
 
 **Лиза:** Все овощи свежие, «Хороший охотник» оправдывает свою репутацию лучшего ресторана в городе. Но, если честно, то этот салат немного безвкусный.
 
@@ -286,13 +285,11 @@
 
 Нет.
 
-#### Сцена
 
 Да.
 
 **Лиза:** Эх... Ну если ты настаиваешь... Подойдёт для пижамы, может быть...
 
-#### Сцена
 
 Потрёпанный древний свиток
 
@@ -308,7 +305,6 @@
 
 **Лиза:** Милашка, это же настоящее сокровище! Это труд чрезвычайной важности! Он поможет нам приблизиться к пониманию древних элементальных сил. Я с радостью приму этот подарок.
 
-#### Сцена
 
 Да.
 
@@ -316,7 +312,6 @@
 
 **Лиза:** Да и ты не очень похож(а) на колдуна. Давай просто сделаем вид, что ничего не произошло.
 
-#### Сцена
 
 Ржавый меч
 
@@ -332,7 +327,6 @@
 
 **Лиза:** Хм... Может пригодиться... Отдам его Рэйзору для силовых тренировок.
 
-#### Сцена
 
 ???
 
@@ -346,7 +340,6 @@
 
 **Паймон:** Ты уверен(а), что хочешь выбрать панталоны? После того как ты сделаешь свой выбор, изменить решение будет невозможно.
 
-#### Сцена
 
 ???
 
@@ -356,7 +349,6 @@
 
 **Марджори:** Мне кажется, что она будет заинтересована в предметах, обладающих исторической ценностью.
 
-#### Сцена
 
 Тряпичная кукла
 
@@ -368,7 +360,6 @@
 
 **Паймон:** Ты уверен(а), что хочешь выбрать тряпичную куклу? После того как ты сделаешь свой выбор, изменить решение будет невозможно.
 
-#### Сцена
 
 Мясной стейк
 
@@ -380,7 +371,6 @@
 
 **Лиза:** Ты уже сделал(а) заказ? Давай сядем здесь.
 
-#### Сцена
 
 Копчёный цыплёночек
 
@@ -388,7 +378,6 @@
 
 **Паймон:** Ты уверен(а), что хочешь выбрать копчёного цыплёночка? После того как ты сделаешь свой выбор, изменить решение будет невозможно.
 
-#### Сцена
 
 Питательный салат
 
@@ -398,11 +387,9 @@
 
 **Паймон:** Ты уверен(а), что хочешь выбрать салат? После того как ты сделаешь свой выбор, изменить решение будет невозможно.
 
-#### Сцена
 
 Подожди немного...
 
-#### Сцена
 
 **Лиза:** Идеально приготовленный стейк. Неудивительно, что это фирменное блюдо. Но я больше не буду. Надо следить за своей фигурой.
 
@@ -414,7 +401,6 @@
 
 **Паймон:** Ты уверен(а), что хочешь выбрать овощной суп? После того как ты сделаешь свой выбор, изменить решение будет невозможно.
 
-#### Сцена
 
 **Лиза:** Какой сильный аромат... Не думала, что кто-нибудь в твоём возрасте способен заказать это блюдо.
 
@@ -428,13 +414,11 @@
 
 **Сара:** Дама тщательно следит за своей фигурой. Кстати, мне бы тоже не помешало похудеть.
 
-#### Сцена
 
 **Лиза:** Отличный выбор! Я приятно удивлена.
 
 **Лиза:** Превосходное блюдо для ведьмы. Элементальная энергия просто бьёт через край.
 
-#### Сцена
 
 **Донна:** Да
 
@@ -442,7 +426,6 @@
 
 **Лиза:** Пахнет свежестью. Напоминает мне аромат Джинн. Спасибо.
 
-#### Сцена
 
 **Донна:** Да
 
@@ -452,7 +435,6 @@
 
 **Лиза:** Когда закончим, я ещё раз объясню тебе, как устроена элементальная система. Если ты и на этот раз не запомнишь... Может, тебе стоит испытать на себе, что такое сверхпроводник.
 
-#### Сцена
 
 **Донна:** Да
 
@@ -462,7 +444,6 @@
 
 **Лиза:** Я думаю, это хороший знак.
 
-#### Сцена
 
 **Донна:** Да
 
@@ -472,7 +453,6 @@
 
 **Лиза:** Ах, если бы только он был сорван твоей рукой...
 
-#### Сцена
 
 **Лиза:** Ух ты! Джинн тебя этому научила? Это занимает столько времени...
 
@@ -486,7 +466,6 @@
 
 **Донна:** Но если судить по шляпе мадам Лизы, то это определённо розы.
 
-#### Сцена
 
 **Флора:** Какие цветы нравятся Лизе?
 
@@ -496,7 +475,6 @@
 
 **Флора:** Хм... Без вариантов! Цветы Сесилии!
 
-#### Сцена
 
 **Донна:** Одуванчик
 
@@ -518,7 +496,6 @@
 
 **Паймон:** Ты уверен(а), что хочешь выбрать туманный цветок? После того как ты сделаешь свой выбор, изменить решение будет невозможно.
 
-#### Сцена
 
 **Лиза:** Последняя остановка на сегодня.
 
@@ -545,7 +522,6 @@
 
 Многие забывают возвращать книги в библиотеку. Лизе приходится преследовать нарушителей, чтобы вернуть книги. Сара и Марджори согласились сразу же вернуть книги, но, кажется, что у Донны книгу украли. Вы решаете найти пропавшую книгу по элементальным меткам, которые оставила Лиза.
 
-#### Сцена
 
 **Паймон:** «Снежная принцесса и шесть карликов»! Я запомнила название! Мы же ищем эту книгу?
 
@@ -593,7 +569,6 @@
 
 **Лиза:** Не забудь зарегистрироваться в библиотеке!
 
-#### Сцена
 
 **Лиза:** А вот и вы, милашки! Все бумаги готовы. Теперь вы хранители этой книги.
 
@@ -631,7 +606,6 @@
 
 **Лиза:** *Зевает*
 
-#### Сцена
 
 **Маг Бездны:** Как вы нашли это место?
 
@@ -675,7 +649,6 @@
 
 **Лиза:** Теперь придётся искать книгу самим. Она должна быть где-то неподалёку.
 
-#### Сцена
 
 **Паймон:** Он что, живёт в пещере? Почему в Мондштадте все такие странные?
 
@@ -715,7 +688,6 @@
 
 **Паймон:** Вот так выглядит Лиза за работой!
 
-#### Сцена
 
 **Лиза:** Должно быть, мы уже где-то рядом.
 
@@ -989,7 +961,6 @@ The library book you borrowed.
 
 **Lisa:** Let's go and find the next overdue book.
 
-#### Scene
 
 **Lisa:** The ingredients are fresh — the Good Hunter certainly lives up to its reputation in that respect. Salad as a meal is a little bland, though — it always feels like there's something missing.
 
@@ -997,13 +968,13 @@ The library book you borrowed.
 
 No
 
-#### Find a gift for Lisa (Hidden)
+#### Find a gift for Lisa
 
 Yes
 
 **Lisa:** *sigh* Well, if you insist... I will just use them as an extra pair of pajamas.
 
-#### Find a gift for Lisa (Hidden)
+#### Find a gift for Lisa
 
 Ragged old scroll.
 
@@ -1019,7 +990,7 @@ Yes
 
 **Lisa:** My my, you clearly know a treasure when you see it. This is a work of unparalleled significance for the research of ancient people's understanding of the elements. I will gladly accept it.
 
-#### Find a gift for Lisa (Hidden)
+#### Find a gift for Lisa
 
 Yes
 
@@ -1027,7 +998,7 @@ Yes
 
 **Lisa:** But you're probably innocent to such things. Since you're just a traveler, I will pretend that none of this ever happened.
 
-#### Find a gift for Lisa (Hidden)
+#### Find a gift for Lisa
 
 Rusty sword.
 
@@ -1043,7 +1014,6 @@ Yes
 
 **Lisa:** I suppose it's not completely useless... I'll let Razor borrow it when it's time for his enhancement training.
 
-#### Hidden Option 1 unlocked (Hidden)
 
 ???
 
@@ -1057,7 +1027,6 @@ Bloomers
 
 **Paimon:** You sure you wanna pick the bloomers? Can't change again once you've made your mind up!
 
-#### Hidden Option 2 unlocked
 
 ???
 
@@ -1067,7 +1036,6 @@ What does Marjorie think?
 
 **Marjorie:** Ah, that's right — I heard she enjoys items of historical interest.
 
-#### Hidden clues unlocked (Hidden)
 
 Voodoo doll.
 
@@ -1079,7 +1047,7 @@ Voodoo doll.
 
 **Paimon:** You sure you wanna pick the voodoo doll? Can't change again once you've made your mind up!
 
-#### Have tea with Lisa (Hidden)
+#### Have tea with Lisa
 
 Steak
 
@@ -1091,7 +1059,7 @@ Yes
 
 **Lisa:** Finished ordering? Sit here, let's dine together.
 
-#### Have tea with Lisa (Hidden)
+#### Have tea with Lisa
 
 Northern Smoked Chicken
 
@@ -1099,7 +1067,7 @@ Northern Smoked Chicken
 
 **Paimon:** You sure you wanna pick the Northern Smoked Chicken? Can't change again once you've made your mind up!
 
-#### Have tea with Lisa (Hidden)
+#### Have tea with Lisa
 
 Satisfying Salad
 
@@ -1109,11 +1077,10 @@ Satisfying Salad
 
 **Paimon:** You sure you wanna pick the Satisfying Salad? Can't change again once you've made your mind up!
 
-#### Have tea with Lisa (Hidden)
+#### Have tea with Lisa
 
 Wait a moment...
 
-#### Hidden Option 1 unlocked (Hidden)
 
 **Lisa:** Mm... beautifully tender and cooked to perfection. No wonder it's their signature dish. It's a shame I can't have more, but a witch must watch her physique.
 
@@ -1125,7 +1092,6 @@ Radish Veggie Soup
 
 **Paimon:** You sure you wanna pick the Radish Veggie Soup? Can't change again once you've made your mind up!
 
-#### Hidden Option 2 unlocked
 
 **Lisa:** Hmm, such a potent aroma... It's almost suffocating. I never thought someone your age would go for a dish like this...
 
@@ -1139,13 +1105,11 @@ Regarding Lisa's taste in food...
 
 **Sara:** A lady tends to eat cautiously on account of her physique, after all! On that note, I should probably be watching my own diet a little more...
 
-#### Scene
 
 **Lisa:** A fine choice! I'm pleasantly surprised.
 
 **Lisa:** A truly enchanting dish, certainly a good fit for a witch. I am simply brimming with elemental energy after that.
 
-#### Result: Lisa in a good mood (Hidden)
 
 **Donna:** Yes
 
@@ -1153,7 +1117,7 @@ Regarding Lisa's taste in food...
 
 **Lisa:** They have a refreshing scent, similar to the one Jean wears. Thank you.
 
-#### Result: Lisa in an average mood (Hidden)
+#### Result: Lisa in an average mood
 
 **Donna:** Yes
 
@@ -1163,7 +1127,6 @@ Regarding Lisa's taste in food...
 
 **Lisa:** Meet me at the library after work and I will give you some training on elemental reactions. If you still find it hard to memorize... Maybe I'll have you give you a little taste of what it feels like to superconduct.
 
-#### Result: Lisa in a bad mood (Hidden)
 
 **Donna:** Yes
 
@@ -1173,7 +1136,6 @@ Regarding Lisa's taste in food...
 
 **Lisa:** This seems like a good sign.
 
-#### Scene
 
 **Donna:** Yes
 
@@ -1183,7 +1145,6 @@ Regarding Lisa's taste in food...
 
 **Lisa:** If only you had picked them for me with your own hands... They would have had twice the sentimental value.
 
-#### Scene
 
 **Lisa:** Wow, Jean must have given you some pointers? Such extraordinary lengths to prepare for a delicious meal... I'd almost say that's cheating.
 
@@ -1197,7 +1158,6 @@ Regarding Lisa's taste in food...
 
 **Donna:** I couldn't help but notice the flower on Miss Lisa's hat though — I think it's a Rose.
 
-#### Scene
 
 **Flora:** What kind of flowers does Lisa like?
 
@@ -1207,7 +1167,6 @@ Regarding Lisa's taste in food...
 
 **Flora:** Hmm... Yep, it can only be the Cecilia!
 
-#### Scene
 
 **Donna:** Dandelion
 
@@ -1229,7 +1188,6 @@ Regarding Lisa's taste in food...
 
 **Paimon:** You sure you wanna pick the Mist Flower? Can't change again once you've made your mind up!
 
-#### Scene
 
 **Lisa:** This is our final call for the day.
 
@@ -1304,7 +1262,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **Lisa:** Don't forget to register at the library when you have a spare moment.
 
-#### Talk to Lisa (Hidden)
+#### Talk to Lisa
 
 **Lisa:** Ah, you've returned. The paperwork is done — you are now the custodian of this book.
 
@@ -1342,7 +1300,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **Lisa:** *yawn*
 
-#### Scene
 
 **Abyss Mage:** How did you find this place!? It's... so well hidden!
 
@@ -1386,7 +1343,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **Lisa:** We'll just need to find the book ourselves. It should be around here somewhere.
 
-#### Scene
 
 **Paimon:** The thief lives inside ruins? Mondstadt people do have some strange quirks.
 
@@ -1426,7 +1382,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **Paimon:** So this is what Lisa's like when she's hard at work...
 
-#### Scene
 
 **Lisa:** It must be nearby.
 
@@ -1700,7 +1655,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 那我们也该去找下一本书了。
 
-#### 场景
 
 **丽莎:** 食材很新鲜呢，不愧是「猎鹿人」，只是感觉只吃沙拉的话，果然还是欠缺了点味道。
 
@@ -1708,13 +1662,13 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 否
 
-#### (test)给丽莎挑选礼品（隐藏）
+#### 给丽莎挑选礼品
 
 是
 
 **丽莎:** 唔，算了，如果是你送的的话，我就偶尔在家当做睡衣穿穿好了。
 
-#### (test)给丽莎挑选礼品（隐藏）
+#### 给丽莎挑选礼品
 
 残破的绘卷
 
@@ -1730,7 +1684,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 你可真有眼光呢小可爱，这是研究古时人们对元素力理解的绝佳素材，那我可就收下了。
 
-#### (test)给丽莎挑选礼品（隐藏）
+#### 给丽莎挑选礼品
 
 是
 
@@ -1738,7 +1692,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 这种传说你应该不知道吧？看在你是旅行者的份儿上，我就当没发生过好了。
 
-#### (test)给丽莎挑选礼品（隐藏）
+#### 给丽莎挑选礼品
 
 生锈的大剑
 
@@ -1754,7 +1708,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 其实倒也不是彻底没用，这个重量的话，有空就借给雷泽进行强化训练吧。
 
-#### (test)隐藏选项1解锁（隐藏）
 
 ？？？
 
@@ -1768,7 +1721,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **派蒙:** 确定选择「南瓜裤」吗？选好可就不能改了哦！
 
-#### (test)隐藏选项2解锁（隐藏）
 
 ？？？
 
@@ -1778,7 +1730,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **玛乔丽:** 哦对了，听说她对历史研究很感兴趣。
 
-#### (test)隐藏线索解锁（隐藏）
 
 巫毒娃娃
 
@@ -1790,7 +1741,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **派蒙:** 确定选择「巫毒娃娃」吗？选好可就不能改了哦！
 
-#### (test)与丽莎一起吃下午茶（隐藏）
+#### 与丽莎一起吃下午茶
 
 烤肉排
 
@@ -1802,7 +1753,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 点好菜了吗？坐下来准备一起吃吧。
 
-#### (test)与丽莎一起吃下午茶（隐藏）
+#### 与丽莎一起吃下午茶
 
 北地烟熏鸡
 
@@ -1810,7 +1761,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **派蒙:** 确定选择「北地烟熏鸡」吗？选好可就不能改了哦！
 
-#### (test)与丽莎一起吃下午茶（隐藏）
+#### 与丽莎一起吃下午茶
 
 满足沙拉
 
@@ -1820,11 +1771,10 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **派蒙:** 确定选择「满足沙拉」吗？选好可就不能改了哦！
 
-#### (test)与丽莎一起吃下午茶（隐藏）
+#### 与丽莎一起吃下午茶
 
 稍等一下…
 
-#### (test)隐藏选项1解锁（隐藏）
 
 **丽莎:** 肉质鲜嫩，口感还不错吧，不愧是招牌。可惜我没法吃太多，保持体态也是魔女的必修课。
 
@@ -1836,7 +1786,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **派蒙:** 确定选择「萝卜时蔬汤」吗？选好可就不能改了哦！
 
-#### (test)隐藏选项2解锁（隐藏）
 
 **丽莎:** 真是呛人的气味，看不出来年纪轻轻的你会喜欢这种菜…
 
@@ -1850,13 +1799,12 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **莎拉:** 淑女总是要控制体态的嘛~！唔…我是不是也应该减减肥了呢…
 
-#### 场景
 
 **丽莎:** 嗯~没想到你还挺会选的嘛。
 
 **丽莎:** 蔬菜汤，果然是魔女的浪漫呢，感觉体内元素力的涌动都畅通了。
 
-#### (test)给丽莎挑选花（隐藏）
+#### 给丽莎挑选花
 
 **唐娜:** 是
 
@@ -1864,7 +1812,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 闻起来有股琴身上的清香味道呢，谢谢你。
 
-#### (test)给丽莎挑选花（隐藏）
+#### 给丽莎挑选花
 
 **唐娜:** 是
 
@@ -1874,7 +1822,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 工作结束后来图书馆，我给你做「元素体系」的特训吧，还是记不住的话就让你亲自尝尝「超导」的滋味哦。
 
-#### (test)给丽莎挑选花（隐藏）
+#### 给丽莎挑选花
 
 **唐娜:** 是
 
@@ -1884,7 +1832,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 看来是个好兆头。
 
-#### 场景
 
 **唐娜:** 是
 
@@ -1894,7 +1841,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 只可惜不是你亲手登高采来的，丧失了一半的意义呢。
 
-#### 场景
 
 **丽莎:** 唔哦~这是琴和你一起做的吧？居然还做了这样的准备，简直是作弊呢。
 
@@ -1908,7 +1854,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **唐娜:** 不过倒是有一点我注意到了，丽莎小姐帽子上的花似乎是「蔷薇」哦。
 
-#### 场景
 
 **芙萝拉:** 丽莎会喜欢什么花？
 
@@ -1918,7 +1863,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **芙萝拉:** 嗯…嗯，对对…果然还是要「塞西莉亚花」！
 
-#### 场景
 
 **唐娜:** 蒲公英
 
@@ -1940,7 +1884,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **派蒙:** 确定选择「冰雾花」吗？选好可就不能改了哦！
 
-#### 场景
 
 **丽莎:** 这里是今天的最后一站了。
 
@@ -1967,7 +1910,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 有不少人借了图书馆的书却忘记归还，丽莎不得不去催讨。玛乔丽和莎拉都答应尽快还书，只有唐娜借的书似乎被偷走了。你们决定以丽莎留在书本上的元素标记为线索，追回丢失的书本。
 
-#### (test)找到书本后的对话(隐藏)
+#### 找到书本后的对话
 
 **派蒙:** 是《白之公主与六侏儒》！我记得这个名字，应该就是它了吧？
 
@@ -2015,7 +1958,7 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 你也要记得来图书馆做一下登记啊。
 
-#### (test)与丽莎对话（隐藏）
+#### 与丽莎对话
 
 **丽莎:** 嗯？你们回来啦。书的保管手续已经办好了。
 
@@ -2053,7 +1996,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 呵欠…
 
-#### 场景
 
 **深渊法师:** 你们…是怎么…找到这里，明明已经…刻意隐藏…
 
@@ -2097,7 +2039,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **丽莎:** 好了，现在我们自己把书找出来吧，应该就在这附近才对。
 
-#### 场景
 
 **派蒙:** 居然是住在遗迹里的吗？蒙德人偶尔也有奇怪的癖好呢。
 
@@ -2137,7 +2078,6 @@ Many people forget to return the library books they've borrowed, leaving Lisa no
 
 **派蒙:** 这就是工作中的丽莎小姐吗…
 
-#### 场景
 
 **丽莎:** 应该就在这附近。
 

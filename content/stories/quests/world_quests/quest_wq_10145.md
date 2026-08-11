@@ -26,7 +26,6 @@
 
 Пройдя чрезвычайно запутанную процедуру, вы принимаете задание, связанное с Исследовательским институтом Фонтейна. Но прежде чем приступить к работе, вам нужно пройти «окончательную проверку»...
 
-#### Сцена
 
 **Катерина:** ...И этот искатель приключений тоже не прошёл проверку. Я уже ничего не понимаю.
 
@@ -118,7 +117,6 @@
 
 **Катерина:** Ох, я так не хочу больше ставить печати на эти бесконечные свидетельства о квалификации. Кажется, даже печать вот-вот сломается...
 
-#### Сцена
 
 **Читать:** (Все эти давно подписанные бумаги... Теперь они спокойно лежат здесь и не высказывают возражений.)
 
@@ -1150,7 +1148,6 @@
 
 **Нэкер:** Идите, увидимся на земле.
 
-#### Сцена
 
 **Дэснос:** Что случилось? Почему опять взрыв?..
 
@@ -1224,7 +1221,6 @@
 
 **Хрония:** Я проделала долгий путь, чтобы попасть сюда, так что, пожалуйста, постарайтесь, чтобы фото получилось достойным.
 
-#### Сцена
 
 **Шалме:** Запасные лекарства почти на исходе, скоро придётся вернуться в институт и пополнить запасы.
 
@@ -1272,7 +1268,6 @@
 
 **Раймондо:** Ситуация тогда была ещё сложнее, чем сейчас... Не будем об этом, скорее отправляйтесь. Надеюсь, Нэкер не пойдёт по стопам Эдвина.
 
-#### Сцена
 
 **Вийермо:** Всё кончено...
 
@@ -1376,7 +1371,6 @@
 
 **Раймондо:** Как и в прошлый раз, вы подключаете источники, я настраиваю устройство.
 
-#### Сцена
 
 **Шуазёль:** Раймондо, а я правда говорил на собрании о том, что нам необходимо максимально прозрачно информировать общественность о работах по восстановлению Исследовательского института?
 
@@ -1634,7 +1628,6 @@
 
 **Раймондо:** Я верю, что в будущем нас ждёт ещё много возможностей для сотрудничества, почётный старший исследователь / почётная старшая исследовательница.
 
-#### Сцена
 
 **Шуазёль:** Что нам делать, Раймондо? Думаешь, получится убедить того репортёра? Триморфный архиум... Мне никогда не нравилось это название.
 
@@ -1666,29 +1659,23 @@
 
 **Раймондо:** Журналистам всегда мало. Господин Шуазёль, мы хотели лишь выразить свою позицию... Ничего более.
 
-#### Сцена
 
 **Дэнишер:** Становится хуже... Опять...
 
-#### Сцена
 
 **Конья:** Эти документы сдать в архив, эти разобрать... Эх, целая кипа бумаг...
 
-#### Сцена
 
 **Севинье:** Центральная лаборатория опять взорвалась. Неужели Эдвин... действительно исследовал бомбы?
 
-#### Сцена
 
 **Шалме:** О, вы здесь? Якорный столб уже извлекли?
 
-#### Сцена
 
 **Нэкер:** Столб... ещё не извлекли. А вы решили передохнуть?
 
 **Нэкер:** Ничего страшного, просто постарайтесь извлечь его как можно скорее, пока не стало хуже.
 
-#### Сцена
 
 **Нэкер:** Думаю, этого будет достаточно.
 
@@ -1696,7 +1683,6 @@
 
 **Нэкер:** И проблема будет решена раз и навсегда.
 
-#### Сцена
 
 **Нэкер:** Ознакомившись с ними, постарайтесь как можно скорее разблокировать путь. Я буду наблюдать со стороны.
 
@@ -1774,7 +1760,6 @@
 
 **Хрония:** Я думаю, что вы намного лучше их вместе взятых. Если вы будете на этой должности, вы себе подобного не позволите.
 
-#### Сцена
 
 **Нэкер:** Изначально это место должно было стать Институтом прикладного использования механизмов Бутора. Господин Бутор был ведущим специалистом в области исследования классических пружинных механизмов.
 
@@ -1792,7 +1777,6 @@
 
 After navigating an incredibly cumbersome procedure, you take on an assignment related to the Fontaine Research Institute. But before you can officially begin, though, you have to undergo a final review...
 
-#### Scene
 
 **Katheryne:** ...This adventurer didn't pass the review either. I wonder what's wrong.
 
@@ -1884,7 +1868,6 @@ I haven't even passed the qualification review yet.
 
 **Katheryne:** *sigh* If possible, I'd prefer to not have to stamp a single adventure qualification more. The way this is going, I'm going to wear the stamp out...
 
-#### Scene
 
 **Read:** (All those signed documents from before. Now they lie here quietly, and will not object to anything.)
 
@@ -2916,7 +2899,6 @@ And how are you going to get down?
 
 **Nacker:** Go now. We'll meet again on the surface.
 
-#### Scene
 
 **Desnos:** What happened? How did it explode again...
 
@@ -2990,7 +2972,6 @@ Then allow me to award Paimon...
 
 **Chronie:** I traveled a long way to get here, so please at least make it worth the trip, okay?
 
-#### Scene
 
 **Chalmet:** The backup medicine is also nearly finished. I'll go back and get more from the Institute later...
 
@@ -3038,7 +3019,6 @@ Your own way?
 
 **Raimondo:** Things at that time were much more complicated than they are now... Anyway, enough talk. Let's get moving. Hopefully, Mr. Nacker won't meet the same fate that Edwin did...
 
-#### Scene
 
 **Vuillermoz:** It's over, it's all over now...
 
@@ -3142,7 +3122,6 @@ It's just not moving right now, you mean.
 
 **Raimondo:** Just like before, you go connect the energy source, and I'll adjust the device.
 
-#### Scene
 
 **Choiseul:** Raimondo, during our last meeting, did I really mention that we must keep the public informed about the rebuilding of the institute with the utmost transparency?
 
@@ -3400,7 +3379,6 @@ I actually have more questions for you.
 
 **Raimondo:** In any case, I believe we'll have more opportunities to work together in the future, Honorary Senior Researcher.
 
-#### Scene
 
 **Choiseul:** What should we do, Raimondo? Do you think we can convince this journalist? Tri-State Arkhium... I always felt that that name would bring us trouble.
 
@@ -3432,29 +3410,23 @@ I actually have more questions for you.
 
 **Raimondo:** They can never be satisfied. Mr. Choiseul, all we need to do is put on a display... That's all.
 
-#### Scene
 
 **Denichere:** It's getting bad... again...
 
-#### Scene
 
 **Conjat:** This document needs to be filed, and this one rewritten... Ugh... There's just so much to do...
 
-#### Scene
 
 **Sevigne:** ...The Central Laboratory exploded again unexpectedly. Was Monsieur Edwin... actually researching bombs?
 
-#### Scene
 
 **Chalmet:** Huh? Back up here already? Have you retrieved the survey anchor?
 
-#### Scene
 
 **Nacker:** The Survey Anchor... hasn't been retrieved yet, I see. Have you come back up for a quick break?
 
 **Nacker:** That's fine, but please retrieve it as soon as you can. We'd prefer to avoid further trouble, you see.
 
-#### Scene
 
 **Nacker:** ...This should be fine now.
 
@@ -3462,7 +3434,6 @@ I actually have more questions for you.
 
 **Nacker:** Then, this troublesome matter will be resolved once and for all.
 
-#### Scene
 
 **Nacker:** Please follow her instructions and unblock the area as soon as you can. I'll be watching you from the side.
 
@@ -3540,7 +3511,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **Chronie:** I think you're much better than either of those two. Things would have never turned out like that if you were in their position.
 
-#### Scene
 
 **Nacker:** I believe this place was originally Butor's "Institute of Clockwork Applications." In the field of clockwork machines, Monsieur Butor was one of the leading authorities.
 
@@ -3558,7 +3528,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 在一段繁琐到不可思议的流程后，你接下了一份与「枫丹科学院」有关的委托。但在正式履行委托前，你似乎还要去接受一次「最终审核」…
 
-#### 场景
 
 **凯瑟琳:** …这一位冒险家也没有通过审核，真不知道哪里出了问题。
 
@@ -3650,7 +3619,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **凯瑟琳:** 唉，我真的不想再继续给那些冒险资质证明盖章了。再盖下去，印章都要坏掉了…
 
-#### 场景
 
 **阅读:** （之前所签署的众多文件。现在它们安静地待在这里，不会发出任何异议。）
 
@@ -4682,7 +4650,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **纳克:** 快走吧，我们在地面见。
 
-#### 场景
 
 **德斯诺斯:** 发生什么了？怎么又爆炸了…
 
@@ -4756,7 +4723,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **克洛妮艾:** 我大老远地来一趟，请至少让我的工作有一些意义，好吗？
 
-#### 场景
 
 **沙尔梅:** 备用的药水也用得差不多了，过段时间回院里再拿点吧…
 
@@ -4804,7 +4770,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **雷蒙多:** 那个时候的情况，可比现在更复杂…不要多说了，马上出发，希望纳克先生不会步艾德温的后尘…
 
-#### 场景
 
 **维耶尔默:** 完了，这下全完了…
 
@@ -4908,7 +4873,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **雷蒙多:** 还是和之前一样，你去接通能源，我去调试装置。
 
-#### 场景
 
 **舒瓦瑟尔:** 雷蒙多，之前在会议里，我真的提到过要把科学院的重建工作以最大的透明度告知给民众吗？
 
@@ -5166,7 +5130,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **雷蒙多:** 我相信，咱们之后还会有不少合作的机会，荣誉高级研究员。
 
-#### 场景
 
 **舒瓦瑟尔:** 该怎么办，雷蒙多，你觉得可以说服那位记者小姐吗，「三态始基矿」…我总觉得这名字会惹来麻烦。
 
@@ -5198,29 +5161,23 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **雷蒙多:** 记者从来都不会满足的，舒瓦瑟尔先生，我们要做的只是表明态度…仅此而已。
 
-#### 场景
 
 **德尼谢尔:** 这下又糟糕起来了啊…
 
-#### 场景
 
 **孔雅:** 这份文件要归档，这份文件要重写整理…唉…真是一大堆事…
 
-#### 场景
 
 **瑟维妮:** …中央实验室居然又爆炸了，难道艾德温先生…其实是在研究炸弹吗？
 
-#### 场景
 
 **沙尔梅:** 欸？您怎么上来了，桩锚已经取出来了吗？
 
-#### 场景
 
 **纳克:** 桩锚…还没有取出来，您上来是想稍微休息一下吗？
 
 **纳克:** 那倒也没问题，但还请您尽快把它取出来，避免夜长梦多。
 
-#### 场景
 
 **纳克:** …这么操作，应该就可以了。
 
@@ -5228,7 +5185,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **纳克:** 然后，彻底了结这桩麻烦事了。
 
-#### 场景
 
 **纳克:** 请您按照操作方式，尽可能快地解开封锁吧。我会在旁边看着的。
 
@@ -5306,7 +5262,6 @@ You arrived at the new Fontaine Research Institute and met with co-administrator
 
 **克洛妮艾:** 我觉得您比他们两人都好上太多了。如果您在那个位置上，绝不会变成那副模样。
 
-#### 场景
 
 **纳克:** 这里原本应该是布托尔的「发条应用研究院」。在传统发条机械这一研究领域，布托尔先生是数一数二的权威。
 

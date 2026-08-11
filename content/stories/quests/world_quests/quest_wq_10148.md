@@ -160,13 +160,11 @@
 
 **Паймон:** Ага! Наконец-то! Настоящий Чудесный меч Нарциссенкрейца!
 
-#### Сцена
 
 Это библиотека?
 
 **Паймон:** Подождите. Может, мы спим?.. Почему у Паймон такое чувство, что подобное уже случалось?
 
-#### Сцена
 
 Кажется, кому-то не хочется заканчивать приключение.
 
@@ -224,7 +222,6 @@
 
 **Паймон:** ...Ладно, возьмём меч с собой. Может, он нам ещё пригодится. А если нет, то оставим себе в качестве сувенира.
 
-#### Сцена
 
 **Паймон:** Голова кружится... Так много книг...
 
@@ -344,7 +341,6 @@
 
 **Паймон:** Ага-ага, наконец-то нас оценили по достоинству! А теперь идём! Как говорит Катерина, к звёздам и к безднам!
 
-#### Сцена
 
 **Анн:** Приключения никогда не заканчиваются, после одного начинается другое, а потом следующее, и так снова и снова.
 
@@ -462,13 +458,11 @@
 
 **Паймон:** Да! Слушайте, а вон там мы ведь ещё не были? Может, там найдутся подсказки! Давайте туда заглянем!
 
-#### Сцена
 
 **Старые результаты исследований:** «...Судя по древнему театру и тайным исследованиям в этом месте, мы полагаем, что документы и передаваемые устно легенды в Петрикоре...»
 
 **Старые результаты исследований:** «...Исследовательская группа из Института натурфилософии полагает...»
 
-#### Сцена
 
 Это библиотека?
 
@@ -478,13 +472,11 @@
 
 **Старый приказ о назначении:** «...И о чём думал этот глупец? Хотя... ладно. Можно и повеселиться, выйдя на заслуженный отдых...»
 
-#### Сцена
 
 **Старые заметки:** «...Одна мера сахара, одна мера муки, одна мера растопленного масла, два яйца, большое количество молока, чтобы взбить пену. Вы издеваетесь? Сколько именно молока в этом "большом количестве"?..»
 
 **Старые заметки:** «...На этот раз надо хорошенько запомнить! 15 минут на 180 градусах не то же самое, что 5 минут на 540!»
 
-#### Сцена
 
 **Старый дневник:** «...связаться с Ингольдом, Гильотеном и остальными. Может, найдётся способ решить проблему с роспуском. Не та ситуация, чтобы предаваться чувствам, но разве можно тут остаться равнодушной?..»
 
@@ -536,7 +528,6 @@
 
 **Анн:** «"Получается, в истории Нарцисса я - злой враг?"»
 
-#### Сцена
 
 Это книжный магазин?
 
@@ -544,7 +535,6 @@
 
 **Паймон:** Подождите. Может, мы спим?.. Почему у Паймон такое чувство, что подобное уже случалось?
 
-#### Сцена
 
 **Паймон:** Голова кружится... Так много книг...
 
@@ -734,13 +724,11 @@ Dimensions?
 
 **Paimon:** Hehe, finally! The Holy Blade is ours!
 
-#### Scene
 
 Is this a library?
 
 **Paimon:** Wait a minute. Is it just that Paimon hasn't fully woken up yet, or is it déjà vu? Haven't these things already happened before?
 
-#### Scene
 
 "Someone" wants this tale of adventure to never end.
 
@@ -798,7 +786,6 @@ Déjà vu, perhaps?
 
 **Paimon:** ...Well, let's just take this sword, shall we? Who knows, it might come in handy later — and if not, we can take it as a souvenir.
 
-#### Scene
 
 **Paimon:** Paimon's... kinda... dizzy. There are so many books here...
 
@@ -918,7 +905,6 @@ Believe in me and Paimon. Let's go.
 
 **Paimon:** And ding ding ding, we have a winner! In that case, let's go. "Ad astra abyssosque," as Katheryne always says!
 
-#### Scene
 
 **Ann:** There will be another adventure, and another, and another one after that.
 
@@ -1036,13 +1022,11 @@ Anyway, the story's not over.
 
 **Paimon:** Yup! Look over there. There's a place we haven't been to before. Maybe we'll find more clues there, huh?
 
-#### Scene
 
 **Rather Aged Research:** "... According to the ancient theater and mysterious research hidden here, we believe that the documents and folklore discovered within Petrichor..."
 
 **Rather Aged Research:** "...The research team from Institute of Natural Philosophy holds that..."
 
-#### Scene
 
 Is this a library?
 
@@ -1052,13 +1036,11 @@ Is this a library?
 
 **Rather Aged Certificate:** "... What's that idiot thinking? Well, whatever. Might as well have some fun post-retirement..."
 
-#### Scene
 
 **Rather Aged Notes:** "...One serving of flour, one of sugar, one of melted butter, two of eggs, a... large amount of milk with which to make foam. Are you kidding me? What exactly is 'a large amount'!? ..."
 
 **Rather Aged Notes:** "...Remember it well this time! 15 minutes at 180 degrees is not the same as 5 at 540!"
 
-#### Scene
 
 **Rather Aged Diary:** "...Linking up with Ingold, Guillotin, and the rest of the old gang will go some way towards solving the dispersion problem. This situation is no place for personal feelings, but what person can lack them completely..."
 
@@ -1110,7 +1092,6 @@ A picture book, huh? It suits you, Paimon.
 
 **Ann:** "'So, in Narcissus's story, I'm the evil villain?'"
 
-#### Scene
 
 Is this a bookstore?
 
@@ -1118,7 +1099,6 @@ Is this a bookstore?
 
 **Paimon:** Wait a minute. Is it just that Paimon hasn't fully woken up yet, or is it déjà vu? Haven't these things already happened before?
 
-#### Scene
 
 **Paimon:** Paimon's... kinda... dizzy. There are so many books here...
 
@@ -1308,13 +1288,11 @@ You two should be able to get across.
 
 **派蒙:** 啊啊，终于！真的水仙十字圣剑！
 
-#### 场景
 
 是图书室？
 
 **派蒙:** 等等，是不是我没睡醒，还是出现了既视感…我怎么觉得，这样的事情之前好像发生过？
 
-#### 场景
 
 「有人」想要冒险故事永远不结束。
 
@@ -1372,7 +1350,6 @@ You two should be able to get across.
 
 **派蒙:** …总之，就姑且收下这把剑吧。说不定以后能派上用场呢！再不济也能做个纪念品。
 
-#### 场景
 
 **派蒙:** 感觉晕乎乎的…这里是…这里有很多书…
 
@@ -1492,7 +1469,6 @@ You two should be able to get across.
 
 **派蒙:** 哼哼，正确的判断！那么，我们走吧！就像凯瑟琳经常说的，向着星辰与深渊！
 
-#### 场景
 
 **安:** 因为冒险故事永远也不会结束，总会有下一场冒险、下一场冒险、下一场冒险。
 
@@ -1610,13 +1586,11 @@ You two should be able to get across.
 
 **派蒙:** 嗯！你看，那边不是还有没去过的地方吗？说不定还有其他的线索呢！我们去看看吧！
 
-#### 场景
 
 **颇有年头的研究报告:** 「…据其中所藏古典戏剧与神秘研究，认为与佩特莉可镇发现的文献与民话…」
 
 **颇有年头的研究报告:** 「…自然哲学学院的考察团认为…」
 
-#### 场景
 
 是图书室？
 
@@ -1626,13 +1600,11 @@ You two should be able to get across.
 
 **颇有年头的任命状:** 「…想什么呢，混账东西。不过随便了，就当是退役后的消遣吧！…」
 
-#### 场景
 
 **颇有年头的笔记:** 「…面粉一份，糖一份，融化黄油一份，两个鸡蛋，大量牛奶用于起泡。该死的，大量是多少？…」
 
 **颇有年头的笔记:** 「…这次要记得！一百八十度烤十五分钟，不等于用五百四十度烤五分钟！」
 
-#### 场景
 
 **颇有年头的日志:** 「…与英戈德、吉约丹等老伙计取得联系，在遣散问题上多少能帮忙想想办法。虽然如今的情况不容私情，但人岂能没有私情…」
 
@@ -1684,7 +1656,6 @@ You two should be able to get across.
 
 **安:** 「『那么，在纳西索斯的故事里，我也是邪恶的反派？』」
 
-#### 场景
 
 是书店？
 
@@ -1692,7 +1663,6 @@ You two should be able to get across.
 
 **派蒙:** 等等，是不是我没睡醒，还是出现了既视感…我怎么觉得，这样的事情之前好像发生过？
 
-#### 场景
 
 **派蒙:** 感觉晕乎乎的…这里是…这里有很多书…
 

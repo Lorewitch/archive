@@ -454,7 +454,6 @@
 
 **Паймон:** Гм... Паймон не знает, что это за «узрите», но ладно. Путешественник, давай осмотримся, вдруг найдём что-нибудь интересное.
 
-#### Сцена
 
 **Паймон:** Ага, записка. Это и есть «следы аранар», о которых говорил Танжер?
 
@@ -462,13 +461,11 @@
 
 **Паймон:** Аранарам приходится заучивать классы грибов?
 
-#### Сцена
 
 **Паймон:** Ещё одна записка, здесь написано: «Это дупло - моя крепость».
 
 **Паймон:** И правда, так мог сказать только аранара из сказки.
 
-#### Сцена
 
 **Паймон:** И вот ещё одна! Гм... «Как же хочется стать мудрым аранарой».
 
@@ -1202,7 +1199,6 @@ Me neither.
 
 **Paimon:** Um... Paimon's not sure what "look with your heart" means, but anyway, let's start by investigating the area around this tree hollow.
 
-#### Scene
 
 **Paimon:** Hey look, there's a note here. Could this be the evidence that Tanger was talking about?
 
@@ -1210,13 +1206,11 @@ Me neither.
 
 **Paimon:** Do Aranara need to learn about mushroom classification...?
 
-#### Scene
 
 **Paimon:** Here's another note that says, "This tree hollow is my castle."
 
 **Paimon:** That sounds more like something an Aranara from the stories would say.
 
-#### Scene
 
 **Paimon:** There's another one here! Hmm... "If only I were a clever Aranara."
 
@@ -1950,7 +1944,6 @@ It's up to Razi.
 
 **派蒙:** 唔…虽然不明白什么叫做用心去看，不过旅行者，我们先在树洞周围调查看看吧。
 
-#### 场景
 
 **派蒙:** 啊，这里贴着一张纸条，是不是丹吉尔先生说的「兰那罗痕迹」？
 
@@ -1958,13 +1951,11 @@ It's up to Razi.
 
 **派蒙:** 兰那罗需要学习蘑菇分类吗？
 
-#### 场景
 
 **派蒙:** 又有一张纸条，上面写的是「这个树洞就是我的城堡」。
 
 **派蒙:** 确实像是童话里兰那罗会说出来的话呢。
 
-#### 场景
 
 **派蒙:** 这里也有！嗯…「如果我是一只聪明的兰那罗就好了」。
 

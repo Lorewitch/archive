@@ -86,7 +86,6 @@
 
 **Сцилла:** Тогда, возможно, я тоже смогу избавиться от сожалений о прошлом.
 
-#### Сцена
 
 **Боэций:** Кассиодор, дорогой друг! Я знал, что ты придёшь.
 
@@ -572,7 +571,6 @@ After passing through the perilous oceanic trench, you finally arrive at the anc
 
 **Scylla:** When that time comes, perhaps I too shall have the chance to make amends for my past regrets.
 
-#### Scene
 
 **Boethius:** Cassiodor, dear friend! I knew you would come.
 
@@ -1058,7 +1056,6 @@ To enter "Domus Aurea," you must rebuild the ancient golden aqueducts...
 
 **斯库拉:** 到那个时候，或许老夫也终于能有机会弥补当初的遗憾了。
 
-#### 场景
 
 **波爱修斯:** 卡西奥多，我的挚友，我就知道你会来。
 

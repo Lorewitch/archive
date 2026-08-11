@@ -286,7 +286,6 @@
 
 **Паймон:** Тогда пойдёмте ко входу в подземелье!
 
-#### Сцена
 
 **Паймон:** Это бумага?..
 
@@ -1164,7 +1163,6 @@ How generous of you, Xinyan!
 
 **Paimon:** Okay, let's get over to the entrance!
 
-#### Scene
 
 **Paimon:** It's just... a piece of paper?
 
@@ -2042,7 +2040,6 @@ Paimon, come here a second!
 
 **派蒙:** 那我们也赶快去守住秘境的大门吧！
 
-#### 场景
 
 **派蒙:** 一张…小纸片？
 

@@ -1,6 +1,6 @@
 # id: quest_wq_72674
 # story_group: event_chronicles
-# display_category: Ивент · Eight Locales Over Mountains and Seas }}
+# display_category: Ивент · Восемь мест от гор до морей
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Восемь мест от гор до морей
 # title_en: Eight Locales Over Mountains and Seas
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_72264
 # related_quests: quest_wq_72264,quest_wq_72675,quest_wq_72676,quest_wq_72261,quest_wq_72262,quest_wq_72677,quest_wq_72678
 # quest_chain: quest_wq_72674,quest_wq_72264,quest_wq_72675,quest_wq_72676,quest_wq_72261,quest_wq_72262,quest_wq_72677,quest_wq_72678
-# quest_series: Eight Locales Over Mountains and Seas }}
+# quest_series: Eight Locales Over Mountains and Seas
 # version_source: wiki_release_category
 
 ## RU

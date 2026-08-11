@@ -66,7 +66,6 @@
 
 **Флора:** Он хочет фотографию меня и моих цветов? Без проблем! У господина Саида действительно особенный склад ума. Наверное, все учёные такие, хе-хе.
 
-#### Сцена
 
 **Флора:** Добро пожаловать в «Шёпот цветов»! На Праздник ветряных цветов у нас всегда много работы.
 
@@ -140,7 +139,6 @@ So, about Sayid's photograph...
 
 **Flora:** He wants to take a photo of me and my flowers? Sure. Mr. Sayid really has a unique way of thinking. I suppose that's researchers for you, hehe.
 
-#### Scene
 
 **Flora:** Welcome to Floral Whisper. We're always very busy during the Windblume Festival.
 
@@ -214,7 +212,6 @@ What do you celebrate there?
 
 **芙萝拉:** 要给我和我的花留影？没问题呀，萨义德先生的想法可真特别，学者就是这样吧，呼呼。
 
-#### 场景
 
 **芙萝拉:** 欢迎光临「花语」，每年风花节的时候店里生意都很忙呢，呼呼。
 

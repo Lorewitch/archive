@@ -1936,7 +1936,6 @@
 
 **Дуньярзада:** Да, конечно! Нилу будет рада узнать, что у Дендро Архонта есть и другие почитатели.
 
-#### Сцена
 
 Я думаю: «Великая властительница Руккхадевата».
 
@@ -5112,7 +5111,6 @@ Can we also come along?
 
 **Dunyarzad:** But of course! Nilou will be thrilled to hear that there are more people interested in Lesser Lord Kusanali.
 
-#### Scene
 
 Think "Greater Lord Rukkhadevata."
 
@@ -8288,7 +8286,6 @@ Speaking of which, Haypasia did mention...
 
 **迪娜泽黛:** 嗯，当然！妮露如果知道小草神大人的崇拜者变多了，一定会很高兴的。
 
-#### 场景
 
 思考「大慈树王」。
 

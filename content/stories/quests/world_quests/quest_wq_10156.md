@@ -26,7 +26,6 @@
 
 Клайнс ремонтирует какое-то устройство в Эрозийном разломе. Если ему помочь, то наверняка можно будет получить награду...
 
-#### Сцена
 
 **Гальварет:** Здравствуйте, что-то случилось?
 
@@ -126,7 +125,6 @@
 
 Низами ищет соперника для тренировочного поединка...
 
-#### Сцена
 
 **Низами:** Молодой воин / Молодая воительница, сразись со мной!
 
@@ -190,11 +188,9 @@
 
 Лечлейд убедил себя в том, что причина его несчастий - жёлто-зелёные камни...
 
-#### Сцена
 
 **Лечлейд:** Ах, какая слабость!.. Всё из-за этих жёлто-зелёных камней...
 
-#### Сцена
 
 **Лечлейд:** С этими жёлто-зелёными камнями... наверняка что-то не так... Ох, кажется, они меня погубят...
 
@@ -590,7 +586,6 @@
 
 Накул ищет подходящее место для обучения...
 
-#### Сцена
 
 **Накул:** Эй, постойте. Я слышал, что вы от нечего делать помогаете всем подряд.
 
@@ -991,7 +986,6 @@
 
 От завершения дела Нелли отделяет лишь наступление «наилучшего момента»...
 
-#### Сцена
 
 **Гренвиль:** На производственном участке необходимо соблюдать строгую дисциплину. Безопасность здесь превыше всего. Если нет вопросов, то не мешай.
 
@@ -1139,7 +1133,6 @@
 
 Красующийся на стене рисунок с шестерёнкой очень беспокоит стражей...
 
-#### Сцена
 
 **Гальварет:** Нужно либо найти способ избавиться от этого безобразия, либо найти его автора.
 
@@ -1319,7 +1312,6 @@
 
 Стражник Мопуаль по-прежнему выбивается из сил, делая работу за других...
 
-#### Сцена
 
 **Декабрэ:** Ого, глядите-ка, это Путешественник и Паймон!
 
@@ -1749,7 +1741,6 @@
 
 Кажется, Трёхкупонная труппа занята подготовкой к новой пьесе...
 
-#### Сцена
 
 **Мейя:** Да... и последняя реплика «Но я не ожидала, что в глазах врага, в мутном отражении, будет моё лицо, опустошённое местью...»
 
@@ -1917,7 +1908,6 @@
 
 Clynes is fixing something in the Rift of Erosion. If you help him, you should get compensated...
 
-#### Scene
 
 **Galvaryet:** Hello, what is it?
 
@@ -2017,7 +2007,6 @@ Clynes is fixing something in the Rift of Erosion. If you help him, you should g
 
 Nizami is looking to spar...
 
-#### Scene
 
 **Nizami:** Young warrior, will you spar with me?
 
@@ -2081,11 +2070,9 @@ Let's go!
 
 Lechlade seems to believe that the source of his misery lies in the yellow-green stones...
 
-#### Scene
 
 **Lechlade:** I feel so weak... Must be those blasted yellow-green stones again...
 
-#### Scene
 
 **Lechlade:** Something's definitely wrong with those yellow-green stones... I think I'm going to die here.
 
@@ -2481,7 +2468,6 @@ But your questions remain unanswered. A chapter has closed, but the story contin
 
 Nakul is looking for a suitable place to study...
 
-#### Scene
 
 **Nakul:** You two! Please wait. I hear you're... people of leisure... who never turn down a request.
 
@@ -2882,7 +2868,6 @@ After waiting a bit, you knock on the door again but receive no response. It is 
 
 A "perfect opportunity" is all that stands between Nelly and completing her task...
 
-#### Scene
 
 **Grainville:** All relevant labor regulations and procedures must be followed in the production zone — that means safety first. If you've got no questions, then don't disturb my work.
 
@@ -3030,7 +3015,6 @@ Nelly takes out a stack of documents, all packed with various contractual clause
 
 The gear patterns on the wall are troubling the guards...
 
-#### Scene
 
 **Galvaryet:** I said, either find a way to remove it or figure out who's behind it.
 
@@ -3210,7 +3194,6 @@ Doesn't that mean he hasn't convinced you at all?
 
 Maupoil, a Fortress of Meropide guard, is still working tirelessly to cover for other people...
 
-#### Scene
 
 **Decembre:** Well, well! If it isn't Traveler and Paimon!
 
@@ -3640,7 +3623,6 @@ The loudspeaker plays an interesting broadcast...
 
 The Tri-Coupon Troupe is preparing to put on a new show...
 
-#### Scene
 
 **Meilhat:** Okay. So, the last line here is, "But I never expected to see, muddily reflected in the eyes of my nemesis, a sad, lonely face, gradually made desolate by vengeance..."
 
@@ -3808,7 +3790,6 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 克兰茨在海蚀裂隙修理什么装置，帮助他应该能获得报酬…
 
-#### 场景
 
 **嘉维娅:** 你们好，有什么事吗？
 
@@ -3908,7 +3889,6 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 尼扎米在找人比试…
 
-#### 场景
 
 **尼扎米:** 年轻的战士，和我比试一下吧！
 
@@ -3972,11 +3952,9 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 勒克莱德似乎认定自己不幸的根源就在于那些黄绿黄绿的石头…
 
-#### 场景
 
 **勒克莱德:** 我感觉好虚弱…都怪那些黄绿黄绿的石头…
 
-#### 场景
 
 **勒克莱德:** 那些黄绿黄绿的石头…肯定大有问题，我要命丧于此了…
 
@@ -4372,7 +4350,6 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 纳库尔想找个合适治学的场所…
 
-#### 场景
 
 **纳库尔:** 两位，两位请留步。听说两位是有求必应的闲人。
 
@@ -4773,7 +4750,6 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 奈莉距离完成课题，还差一个「最佳时机」…
 
-#### 场景
 
 **格兰维尔:** 在生产区需要遵守劳动纪律，安全第一。没什么问题的话不要打扰我工作。
 
@@ -4921,7 +4897,6 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 墙上的齿轮图形让看守们十分烦恼…
 
-#### 场景
 
 **嘉维娅:** 我说，要么想办法清除掉它，要么搞清楚到底是谁干的。
 
@@ -5101,7 +5076,6 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 梅洛彼得堡看守莫普瓦依旧为了别人的工作疲于奔命…
 
-#### 场景
 
 **德瑟布尔:** 哎哟，瞧瞧，这不是旅行者和派蒙吗？
 
@@ -5531,7 +5505,6 @@ Or perhaps that is why, at the last moment, her sharp blade went wide of the mar
 
 三枚券剧团的成员似乎在为新的剧目做准备…
 
-#### 场景
 
 **梅亚:** 嗯…这里最后的台词是「但没想到在这仇人的双眼，泥泞的倒影之中，竟映出我因复仇而渐生凄离的面容…」
 

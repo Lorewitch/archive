@@ -286,7 +286,6 @@
 
 **Дилюк:** ...
 
-#### Сцена
 
 **Дилюк:** Вот и всё, готово.
 
@@ -356,7 +355,6 @@
 
 **Аделинда:** В любом случае благодарю вас за визит.
 
-#### Сцена
 
 **Аделинда:** Прошу, проходите на винокурню и располагайтесь.
 
@@ -628,7 +626,6 @@ Things that involve fighting?
 
 **Diluc:** ...
 
-#### Scene
 
 **Diluc:** There, it's done.
 
@@ -698,7 +695,6 @@ Let's read one more letter.
 
 **Adelinde:** Still, thank you so much for visiting.
 
-#### Scene
 
 **Adelinde:** Please make yourselves comfortable in the Winery.
 
@@ -970,7 +966,6 @@ Let's read one more letter.
 
 **迪卢克:** ……
 
-#### 场景
 
 **迪卢克:** 到此为止了。
 
@@ -1040,7 +1035,6 @@ Let's read one more letter.
 
 **爱德琳:** 不过不管怎么说，感谢你的来访。
 
-#### 场景
 
 **爱德琳:** 请两位到酒庄里好好休息。
 

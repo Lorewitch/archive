@@ -26,7 +26,6 @@
 
 После того, как вы находите всё больше сокровищ по рисункам из «почтового ящика», семена, когда-то давно подобранные в Разломе, вдруг начинают дрожать...
 
-#### Сцена
 
 **Паймон:** Вот это да! Мир аранар поистине чудесен... Стоит только посмотреть на картину и сразу находишь сокровище...
 
@@ -54,7 +53,6 @@
 
 **Паймон:** Возможно, там попавший в беду аранара! Или что-то вроде сокровищницы аранар... И это семя - ключ?
 
-#### Сцена
 
 **Паймон:** Вот это да! Мир аранар поистине чудесен... Стоит только посмотреть на картину и сразу находишь сокровище...
 
@@ -184,7 +182,6 @@
 
 As more treasure was found through the "mailbox," the "seed" collected long ago in The Chasm begins to vibrate...
 
-#### Scene
 
 **Paimon:** Whoa! The Aranara world is truly marvelous... Just looking at a painting would lead you to the treasure...
 
@@ -212,7 +209,6 @@ As more treasure was found through the "mailbox," the "seed" collected long ago 
 
 **Paimon:** Maybe it could be a trapped Aranara! Or perhaps there's something like an Aranara treasury? And this seed is the key?
 
-#### Scene
 
 **Paimon:** Whoa! The Aranara world is truly marvelous... Just looking at a painting would lead you to the treasure...
 
@@ -342,7 +338,6 @@ Paimon is gluttonous, but not bad in nature.
 
 通过「邮箱」的图画找到了更多的宝藏后，很久以前在层岩巨渊拾获的「种子」开始发出震颤…
 
-#### 场景
 
 **派蒙:** 哎呀，兰那罗的世界可真奇妙…看看图画就能找到宝藏…
 
@@ -370,7 +365,6 @@ Paimon is gluttonous, but not bad in nature.
 
 **派蒙:** 说不定真的有「受困的兰那罗」呢！或者是什么，「兰那罗宝库」之类的…而种子就是钥匙？
 
-#### 场景
 
 **派蒙:** 哎呀，兰那罗的世界可真奇妙…看看图画就能找到宝藏…
 

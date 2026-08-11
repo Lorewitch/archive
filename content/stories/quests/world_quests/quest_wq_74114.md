@@ -26,7 +26,6 @@
 
 Похоже, у госпожи Цю и её спутников опять неприятности...
 
-#### Сцена
 
 **Госпожа Цю:** Ох... Надеюсь, плёнка не намокнет.
 
@@ -172,7 +171,6 @@
 
 Ms. Qiu's group seems to be in trouble again...
 
-#### Scene
 
 **Ms. Qiu:** *sigh* I hope the films won't be damaged by the water.
 
@@ -318,7 +316,6 @@ After the meal, Ms. Qiu makes an additional meal and stuffs it in your bag after
 
 邱老板一行人似乎又遇见了麻烦…
 
-#### 场景
 
 **邱老板:** 唉，那些映影画片不会被水泡坏吧…
 

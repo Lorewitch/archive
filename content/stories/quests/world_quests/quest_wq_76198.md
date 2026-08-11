@@ -26,7 +26,6 @@
 
 К западу от Пирамиды обнаружен шпороцветник...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -40,7 +39,6 @@
 
 Winter Icelea has been spotted west of Piramida...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -54,7 +52,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 在皮拉米达城以西发现了冬凌草…
 
-#### 场景
 
 快速做好了调查的准备…
 

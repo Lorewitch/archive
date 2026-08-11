@@ -108,7 +108,6 @@
 
 **Вермеер:** С его помощью я приготовлю совершенно особенные краски.
 
-#### Сцена
 
 **Вермеер:** Ха, я этого поэта заставлю плакать! От изумления, конечно же.
 
@@ -236,7 +235,6 @@ Whoa, calm down you two.
 
 **Vermeer:** With that, I'll be able to make mix some special paint.
 
-#### Scene
 
 **Vermeer:** Hmph, my painting will leave that poet in tears of amazement.
 
@@ -364,7 +362,6 @@ Here it is.
 
 **梵米尔:** 有了它，我一定能做出一份特别的颜料…
 
-#### 场景
 
 **梵米尔:** 哼，我的画肯定能让那个诗人心服口服。
 

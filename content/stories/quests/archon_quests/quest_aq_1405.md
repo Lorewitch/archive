@@ -754,7 +754,6 @@
 
 Думаю, я знаю, к кому можно обратиться.
 
-#### Сцена
 
 Госпожа Мегистус!
 
@@ -4838,7 +4837,6 @@ In that case, we will need help.
 
 Oh, I think I know who to call.
 
-#### Scene
 
 Lady Megistus!
 
@@ -8922,7 +8920,6 @@ Can you understand the will of the gods?
 
 我想我还是能叫到一些人的。
 
-#### 场景
 
 梅姬斯图斯卿！
 

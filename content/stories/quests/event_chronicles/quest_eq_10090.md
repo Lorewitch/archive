@@ -306,19 +306,16 @@
 
 **Синь Янь:** Постойте. Вы слышите... Там голос?
 
-#### Сцена
 
 **Мама Синь Янь:** Эти птицы так хорошо поют, потому что пьют родниковую воду с горных вершин. Синь Янь, в нашей семье никто не умеет петь. Почему ты думаешь, что у тебя талант к пению?
 
 **Синь Янь:** Так если я выпью этой родниковой воды, то смогу петь? Мам, я скоро вернусь!
 
-#### Сцена
 
 **Папа Синь Янь:** Нельзя так поздно оставаться в горах. Ты напугала меня до смерти... Вот родниковая вода, которую ты искала.
 
 **Синь Янь:** Правда? Папа, ты лучший!
 
-#### Сцена
 
 **Мама Синь Янь:** Куда опять подевалась Синь Янь?
 
@@ -326,7 +323,6 @@
 
 **Мама Синь Янь:** Откуда я знала, что она отправится на поиски источника! Ох, и когда она уже одумается?..
 
-#### Сцена
 
 **Работник пирса:** А ну спустись! Здесь нельзя ставить сцену! Если не умеешь петь, то так и держи рот на замке, не мучай других!
 
@@ -1118,19 +1114,16 @@ After drinking the spring water you found for her and recovering her voice, the 
 
 **Xinyan:** Wait, listen, there's a voice... Can you hear that?
 
-#### Scene
 
 **Xinyan's Mother:** The reason the birds sing so sweetly is because they drink the spring water from up on mountaintops. Xinyan, we're not singers in this family, none of us are. What makes you think you can be any different?
 
 **Xinyan:** Oh, so I just need to go drink some of this spring water, and then I'll be able to sing? I'll be right back, Mama!
 
-#### Scene
 
 **Xinyan's Father:** You mustn't stay out so late in the mountains by yourself, child! You scared the bejesus out of me! ...Here, this is the spring water you were looking for.
 
 **Xinyan:** Really? Oh, you're the best, daddy!
 
-#### Scene
 
 **Xinyan's Mother:** Where did she run off to this time?
 
@@ -1138,7 +1131,6 @@ After drinking the spring water you found for her and recovering her voice, the 
 
 **Xinyan's Mother:** How was I supposed to know she'd go running off looking for spring water! *sigh* When is she going to come to her senses...
 
-#### Scene
 
 **Dock Worker:** Get down from there! You can't set up a stage here! If you can't sing, you should be keeping your mouth shut, not putting on a public performance! Ugh.
 
@@ -1930,19 +1922,16 @@ Are you going to play some rock 'n' roll?
 
 **辛焱:** 等等。你们听…有声音。
 
-#### 场景
 
 **辛焱的母亲:** 那些鸟雀是喝过山顶的泉水，才能唱出悠扬的歌。你看咱家，从来就没人喜欢唱歌，你又怎么能唱得好呢？
 
 **辛焱:** 那我也去喝这种泉水就行了吧？妈妈，我出门一趟！
 
-#### 场景
 
 **辛焱的父亲:** 大晚上还待在山里不回来，你这孩子想吓死我呀！…喏，你要的山泉。
 
 **辛焱:** 真的？爸爸你真好！
 
-#### 场景
 
 **辛焱的母亲:** 辛焱那孩子，又跑哪儿去了？
 
@@ -1950,7 +1939,6 @@ Are you going to play some rock 'n' roll?
 
 **辛焱的母亲:** 我哪知道她真会去找什么山泉呀！唉，怎么才能让人省点心哟…
 
-#### 场景
 
 **码头的工人:** 给老子下来！这儿不能搭台子！不会唱曲儿就不要唱，还学人家办什么演出，真是的。
 

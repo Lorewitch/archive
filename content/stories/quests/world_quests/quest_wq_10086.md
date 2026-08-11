@@ -290,7 +290,6 @@
 
 **Паймон:** На этой кровати столько пыли! Наверное, на ней спали пациенты, когда санаторий ещё работал.
 
-#### Сцена
 
 **Паймон:** Цайтлинд, нас ждёшь?
 
@@ -546,7 +545,6 @@
 
 **Историй:** Давайте сначала вернёмся и немного отдохнём. У вас наверняка ещё много вопросов.
 
-#### Сцена
 
 **Манн:** Некоторые совсем не желают слушать. Говорю же, сейчас не лучшее время для восхождения на гору.
 
@@ -574,7 +572,6 @@
 
 **Манн:** Это случилось прошлой ночью...
 
-#### Сцена
 
 Э... Эшер? Инженер Эшер?
 
@@ -854,7 +851,6 @@ Escher?
 
 **Paimon:** There's so much dust on the bed. It must've been meant for sanatorium patients back in the day, right?
 
-#### Scene
 
 **Paimon:** Zeitlind, were you waiting for us here?
 
@@ -1110,7 +1106,6 @@ I'm listening.
 
 **Istoria:** Let us return and rest for now. I suspect you still have many questions.
 
-#### Scene
 
 **Mann:** Some people just won't listen. I already told you, now's not the time to go up the mountain.
 
@@ -1138,7 +1133,6 @@ I'm listening.
 
 **Mann:** It happened last night...
 
-#### Scene
 
 E...scher? As in, Escher the Engineer?
 
@@ -1418,7 +1412,6 @@ E...scher? As in, Escher the Engineer?
 
 **派蒙:** 这床上都落了好多灰了。应该是疗养院时代给入住者睡的吧。
 
-#### 场景
 
 **派蒙:** 彩特琳德，你在这里等我们吗？
 
@@ -1674,7 +1667,6 @@ E...scher? As in, Escher the Engineer?
 
 **伊斯托利亚:** 先回去休整一下吧。你们应该还有更多东西想问。
 
-#### 场景
 
 **曼恩:** 真是好话难劝想死的鬼啊。都说了现在不能上山。
 
@@ -1702,7 +1694,6 @@ E...scher? As in, Escher the Engineer?
 
 **曼恩:** 昨天晚上的事情是这样的…
 
-#### 场景
 
 埃…舍尔？工程师埃舍尔？
 

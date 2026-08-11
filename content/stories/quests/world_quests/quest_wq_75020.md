@@ -26,7 +26,6 @@
 
 Пора отыскать пропавшего стража по имени Тизок...
 
-#### Сцена
 
 **Тизок:** Эй, вы! Я вижу, как горячая кровь бурлит в ваших жилах, когда вы устремляетесь в пещеру, но остановитесь на минуту.
 
@@ -86,13 +85,11 @@
 
 **Тизок:** В общем, без пропуска вход воспрещён, слышите?
 
-#### Сцена
 
 **Тизок:** Ох, что же делать с пламегранатом Горного короля?.. Подождите, эй! Стойте! Я же говорил, что без пропуска не пройти.
 
 **Тизок:** Как в случае с тем несчастным из племени, который потерял свой пропуск. Мы давно друг друга знаем, но я всё равно не мог позволить ему пройти. Правила есть правила.
 
-#### Сцена
 
 **Пока:** О, всё плохо. Очень плохо... Тизок... С ним всё в порядке?
 
@@ -498,7 +495,6 @@
 
 Time to look for Tisoc, the missing guard...
 
-#### Scene
 
 **Tisoc:** Hey there, you two! Now, I can see the hot blood running in your veins as you rush into yonder cave, but stop there for a minute.
 
@@ -558,13 +554,11 @@ That's certainly how you strike me, Paimon!
 
 **Tisoc:** Anyway, no entry without a pass, y'hear?
 
-#### Scene
 
 **Tisoc:** *sigh* Whatever will we do about the Mountain King Flamegranates— Wait, hey! Stop! I told you before — no passage without a pass...
 
 **Tisoc:** I mean, take the fella in our tribe who lost his pass for example. I've known him a long time, but I can't let him pass either... Rules are rules. That's all there is to it.
 
-#### Scene
 
 **Poca:** Oh, this is bad. This is bad... Tisoc... Has something happened to him?
 
@@ -970,7 +964,6 @@ Will this allow the Flamegranates to mature?
 
 去找找失踪了的看守提佐科吧…
 
-#### 场景
 
 **提佐科:** 两位，哎，两位勇士！你们这看到山洞就想闯的势头可真是让人热血沸腾，不过还是暂且止步吧。
 
@@ -1030,13 +1023,11 @@ Will this allow the Flamegranates to mature?
 
 **提佐科:** 总之，如果没有通行证的话，两位还是请回吧！
 
-#### 场景
 
 **提佐科:** 哎，哎，「山王火榴」可怎么办…咦，不行哦？我之前就说了，如果没有通行证，可是没法让你们过去的…
 
 **提佐科:** 就像那个在部族里弄丢了通行证的倒霉蛋，就算我和他认识很久了，也不能让他过去…规矩就是规矩啊。
 
-#### 场景
 
 **波卡:** 这下可麻烦了，提佐科，提佐科这家伙…不会出什么事了吧？
 

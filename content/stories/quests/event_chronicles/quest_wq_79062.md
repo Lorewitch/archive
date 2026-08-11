@@ -26,7 +26,6 @@
 
 Кирара говорит, что ей нужно провести какое-то расследование. Из любопытства вы присоединяетесь к ней...
 
-#### Сцена
 
 **Кирара:** Привет! Вы уже закончили с делами в Столице?
 
@@ -74,7 +73,6 @@
 
 **Голос из-за двери:** Вопрос первый: кто вы?
 
-#### Сцена
 
 **Боборано:** Подожди со стихами... У нас неприятности, с этим человеком что-то случилось.
 
@@ -769,7 +767,6 @@
 
 **Альбицци:** Хи-хи.
 
-#### Сцена
 
 **Кирара:** Ну как, всё готово? Можно начинать расследование?
 
@@ -779,7 +776,6 @@
 
 Kirara says there are a few things she must investigate alone. As you're not a cat, curiosity won't kill you, so why not go with her...
 
-#### Scene
 
 **Kirara:** Hey! Are you guys already finished with everything in the Metropole?
 
@@ -827,7 +823,6 @@ We're here for a routine inventory check.
 
 **Voice From Behind the Door:** Question 1: Who is it?
 
-#### Scene
 
 **Boborano:** Stop the poem, we have a situation... Something's up with this person.
 
@@ -1522,7 +1517,6 @@ You lead the surrendered detective back to Cappet...
 
 **Albizzi:** Hehe.
 
-#### Scene
 
 **Kirara:** So, are you all set? Ready to start investigating?
 
@@ -1532,7 +1526,6 @@ You lead the surrendered detective back to Cappet...
 
 绮良良说有些想要独自调查的东西。有点好奇，和她一起去看看吧…
 
-#### 场景
 
 **绮良良:** 咦？你们在王城要办的事已经好了吗？
 
@@ -1580,7 +1573,6 @@ You lead the surrendered detective back to Cappet...
 
 **门后的声音:** 问题一：是谁？
 
-#### 场景
 
 **波波拉诺:** 暂停一下作诗。出大事了，这人似乎不对劲。
 
@@ -2275,6 +2267,5 @@ You lead the surrendered detective back to Cappet...
 
 **奥比奇:** 嘿嘿。
 
-#### 场景
 
 **绮良良:** 现在可以安心调查这里的事了吧？怎么样，你们准备好了吗？

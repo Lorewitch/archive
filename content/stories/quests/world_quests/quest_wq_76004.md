@@ -26,7 +26,6 @@
 
 В районе Мшистых пустошей встречаете двух охотников за сокровищами, которые не могут разобраться, как управлять крупным устройством...
 
-#### Сцена
 
 **Анежка:** Ага-ага, вот так! Молодец!
 
@@ -328,7 +327,6 @@
 
 **Фатуи особого назначения:** Ты слышал? Сухопутный крейсер, тебя велели отпустить.
 
-#### Сцена
 
 **Анежка:** Я не особо разбираюсь в искусстве, но эта картина великолепна! Дай мне полюбоваться.
 
@@ -576,7 +574,6 @@
 
 You discover two treasure hunters out on the Barrowmoss Barrens who are at a loss as to how they might operate a certain large machine...
 
-#### Scene
 
 **Anezka:** Yup, that's how we do it! Attaboy, that's it!
 
@@ -878,7 +875,6 @@ Before long, Anezka and company arrive as agreed.
 
 **Fatui Task Force:** You hear that, Landrover? You're being let off the leash.
 
-#### Scene
 
 **Anezka:** I don't know much about art, but it's really pretty! Just a moment. Let me take it all in...
 
@@ -1126,7 +1122,6 @@ You come to a spot outside the lab with good lighting — the perfect place for 
 
 在苔骨荒原，发现了两名对如何操控大型机械装置而一筹莫展的宝藏猎人…
 
-#### 场景
 
 **安妮兹卡:** 嗯嗯，就是像这样移动的！真乖真听话！
 
@@ -1428,7 +1423,6 @@ You come to a spot outside the lab with good lighting — the perfect place for 
 
 **愚人众特遣队:** 听到了吗？陆巡舰，让你放手呢。
 
-#### 场景
 
 **安妮兹卡:** 虽然我不是很懂艺术品，但这也太漂亮了吧！让我好好欣赏一下。
 

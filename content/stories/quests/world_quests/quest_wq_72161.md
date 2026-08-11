@@ -26,7 +26,6 @@
 
 В разбитой лодке на побережье Надзути прячется раненый солдат. Похоже, он воспользовался затишьем в войне на острове Ясиори, чтобы отдохнуть...
 
-#### Сцена
 
 **Инаба Кюдзо:** Чужестран(ка)(ец)? Интересно...
 
@@ -312,7 +311,6 @@
 
 A taciturn wounded soldier is hiding inside a damaged boat on Nazuchi Beach — just another one of the thousand other tragedies that plague Yashiori Island, where the war has reached a temporary standstill...
 
-#### Scene
 
 **Inaba Kyuuzou:** An outlander? Interesting...
 
@@ -600,7 +598,6 @@ You look much better now.
 
 名椎滩的破船上躲藏着一位沉默的伤兵，似乎已与战事稍歇的八酝岛及其上百千悲剧融于一体…
 
-#### 场景
 
 **稻叶久藏:** 是外国人？有趣…
 

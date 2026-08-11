@@ -27,7 +27,6 @@
 «Папа, все воины, которых ты обучил, были идеальными, не так ли?»
 «Вовсе нет. Совершенство кажется недосягаемым, поэтому желание достичь его гложет изнутри, но они никогда не достигнут его. Как и мы, они устанут и захотят сдаться».
 
-#### Сцена
 
 **Акомитль:** Я никогда не забуду твоей помощи, ты (моя благодетельница)(мой благодетель). Вот отдохну немного и отправлюсь прямиком к командиру.
 
@@ -47,13 +46,11 @@
 
 **Паймон:** Что? Почему они решили на нас напасть? Ох... Ладно, Путешественник, придётся тебе показать себя в деле.
 
-#### Сцена
 
 **Акомитль:** В зависимости от числа набранных очков в конце участник получает один из четырёх рангов. Тебе нужно получить хотя бы второй ранг! От тебя зависит, смогу ли я выйти из лётного отряда!
 
 **Акомитль:** Побей рекорд, что я поставил в те дни, когда тренировался, не щадя своих сил... У меня нет на это сил, приходится просить тебя об одолжении.
 
-#### Сцена
 
 **Грустный кукузавр:** Где Акомитль берёт еду в подвале? Совсем исхудал, кожа да кости...
 
@@ -73,7 +70,6 @@
 
 **Грустный кукузавр:** Не перепутайте, иначе он вас не пустит.
 
-#### Сцена
 
 **Посмотреть вниз:** (Снизу доносится шорох. Видимо, там кто-то прячется.)
 
@@ -318,7 +314,6 @@
 "Dad, the heroes you've trained are all perfect, right?"
 "It's not like that. Perfection always feels like it's just beyond reach, so the desire to achieve it gnaws at the very fiber of their being — but they'll never do it. Just like us, they'll get tired and want to give up."
 
-#### Scene
 
 **Acomitl:** I'll never forget what you've done for me. Let me rest up for a moment, then I'll go see my captain right away.
 
@@ -338,13 +333,11 @@
 
 **Paimon:** Huh? Why are we suddenly being attacked? Ugh, well... Guess it's time for you to do your thing, Traveler.
 
-#### Scene
 
 **Acomitl:** The final results are divided into four tiers based on your scores. Please, you must at least reach the second-highest tier! You're my only hope for an excuse to leave the squad!
 
 **Acomitl:** Beat the record that I set back in the days when I used to grit my teeth and put my all into it! I don't have the strength to do it myself now, so all I can do is ask for help.
 
-#### Scene
 
 **Melancholic Qucusaurus:** How can Acomitl get enough to eat when he's hiding in the cellar? His jaw looks so gaunt right now...
 
@@ -364,7 +357,6 @@ Do you know the path to the cellar?
 
 **Melancholic Qucusaurus:** Don't get it wrong, or you won't be let in.
 
-#### Scene
 
 **Look Down:** (You hear rustling from below. Perhaps someone is hiding down there.)
 
@@ -609,7 +601,6 @@ Please, just give up on me already!
 「爸爸，你训练出的勇士们都很完美对吧？」
 「不能这么说，完美永远在下一秒，而追求完美的欲望会啃咬他们的心，他们永远也不会是完美的。他们也会厌倦，也会想放弃，和你我一样。」
 
-#### 场景
 
 **阿科米蒂:** 我会永远记住你帮的这个大忙，恩人。让我缓一会儿，之后马上去找队长。
 
@@ -629,13 +620,11 @@ Please, just give up on me already!
 
 **派蒙:** 什么？怎么冲我们过来了，真是的，没办法，看你的了旅行者。
 
-#### 场景
 
 **阿科米蒂:** 最终成绩按照分数高低分四档，拜托你，至少要超过第二高的分档！我的脱队借口就指望你了。
 
 **阿科米蒂:** 追上曾经咬牙拼命努力过的我的影子吧，我自己是没有力气了，只能厚着脸皮拜托别人。
 
-#### 场景
 
 **忧愁的绒翼龙:** 阿科米蒂躲在地窖里怎么能吃好？下巴都瘦尖了…
 
@@ -655,7 +644,6 @@ Please, just give up on me already!
 
 **忧愁的绒翼龙:** 别敲错了，不然你可进不去。
 
-#### 场景
 
 **向下看:** （下方传来窸窸窣窣的响动，似乎有人躲在这里。）
 

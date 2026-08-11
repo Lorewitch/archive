@@ -26,7 +26,6 @@
 
 В окрестностях Натлана вы натыкаетесь на странные врата...
 
-#### Сцена
 
 **Легба:** Не стесняйтесь, будьте как дома. Хотите попробовать мою стряпню?
 
@@ -392,7 +391,6 @@
 
 You encounter a strange door out in the wilds of Natlan...
 
-#### Scene
 
 **Legba:** No need to stand on ceremony. Wanna try my cooking?
 
@@ -758,7 +756,6 @@ You sure you won't just sleep sounder than I will?
 
 在纳塔的野外，见到了一扇奇怪的大门…
 
-#### 场景
 
 **雷格巴:** 不必客气，你们随意吧。要不要尝尝我的手艺？
 

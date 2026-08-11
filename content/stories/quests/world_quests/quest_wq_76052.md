@@ -92,7 +92,6 @@
 
 **Субретка:** Хорошо. Я на тебя рассчитываю.
 
-#### Сцена
 
 **Субретка:** Хм, знакомый запах.
 
@@ -124,7 +123,6 @@
 
 **Паймон:** Паймон думает, что на то могли быть и другие причины...
 
-#### Сцена
 
 **Субретка:** Буль-буль...
 
@@ -160,7 +158,6 @@
 
 **Субретка:** И напоминают мне о том, чем я обязана этому миру взамен...
 
-#### Сцена
 
 **Субретка:** Вот, попробуйте сами. Эта ягода лакка очень сладкая. Обязательно насладитесь её вкусом.
 
@@ -280,7 +277,6 @@ Any flavor preferences?
 
 **The Damselette:** Okay. Whatever you think.
 
-#### Scene
 
 **The Damselette:** Hm, I've smelled something like this before.
 
@@ -312,7 +308,6 @@ And... how did she respond?
 
 **Paimon:** Paimon thinks there might've been other reasons for that...
 
-#### Scene
 
 **The Damselette:** *glug*... *glug*...
 
@@ -348,7 +343,6 @@ And... how did she respond?
 
 **The Damselette:** And reminds me of what I owe this world in return...
 
-#### Scene
 
 **The Damselette:** Here, try it for yourselves. This Lakkaberry is very sweet, so make sure you savor it.
 
@@ -468,7 +462,6 @@ Well, now we can fix that!
 
 **「少女」:** 好啊。交给你定。
 
-#### 场景
 
 **「少女」:** 我闻过这个气味。
 
@@ -500,7 +493,6 @@ Well, now we can fix that!
 
 **派蒙:** 我觉得那个是因为别的原因…
 
-#### 场景
 
 **「少女」:** 咕嘟…咕嘟…
 
@@ -536,7 +528,6 @@ Well, now we can fix that!
 
 **「少女」:** 这也是我应当回报这个世界的…
 
-#### 场景
 
 **「少女」:** 白灵果给你。慢慢嚼嚼看吧，很甜。
 

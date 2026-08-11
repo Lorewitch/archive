@@ -26,7 +26,6 @@
 
 В маленькой долине, похоже, не особенно спокойно...
 
-#### Сцена
 
 **Ауни:** Наверное, большой босс барахольщик хотел стать как те громилы и заставить всю семью Кроти работать на него.
 
@@ -230,7 +229,6 @@
 
 This small valley doesn't seem as peaceful as it looks...
 
-#### Scene
 
 **Auni:** I'm guessing the Weasel Thief Big Bosses are trying to copy the big guys and make the Moley family their flunkies.
 
@@ -434,7 +432,6 @@ And they'll probably still be around when we're gone.
 
 小小的山谷中似乎并不太平…
 
-#### 场景
 
 **奥妮:** 我猜，盗宝鼬大哥是想学那些大个子，想把莫雷一家都变成他们三个的手下。
 

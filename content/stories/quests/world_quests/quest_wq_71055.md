@@ -84,7 +84,6 @@
 
 **Ци Дин:** Правда? Я вашей доброты по гроб не забуду!
 
-#### Сцена
 
 **Ци Дин:** Где... ну где же я мог её потерять?..
 
@@ -266,7 +265,6 @@
 
 **Ци Нань:** Я знаю, где она... хи-хи, идите за мной.
 
-#### Сцена
 
 **Ци Нань:** Если меня кто-нибудь обидит, когда папы нет дома, я не знаю, что буду делать.
 
@@ -500,7 +498,6 @@ Let's give it a try.
 
 **Qi Ding:** Really? Thank you so much!
 
-#### Scene
 
 **Qi Ding:** Wh—Where is it? Where is it!
 
@@ -682,7 +679,6 @@ It must be Qi Ding.
 
 **Qi Nan:** I know where it is... Hee-hee, follow me.
 
-#### Scene
 
 **Qi Nan:** I have no idea what I'm gonna do if someone bullies me when father's away.
 
@@ -916,7 +912,6 @@ It's the huge crystal that Zhiqiong and we came across.
 
 **戚定:** 真的吗？那真是太感谢你们了！
 
-#### 场景
 
 **戚定:** 在…在哪里啊，丢在哪儿了…
 
@@ -1098,7 +1093,6 @@ It's the huge crystal that Zhiqiong and we came across.
 
 **戚楠:** 我知道那个娃娃在哪里…嘻嘻，跟我来吧。
 
-#### 场景
 
 **戚楠:** 爸爸不在家的时候，如果有人欺负我，我都不知道该怎么办。
 

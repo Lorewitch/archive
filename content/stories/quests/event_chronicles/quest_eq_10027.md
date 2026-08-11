@@ -654,7 +654,6 @@
 
 **Джинн:** Боюсь, что этого они и хотят. Друзья, мы ничего не знаем об этих островах. Что бы нас ни ожидало впереди, пожалуйста, будьте предельно осторожны.
 
-#### Сцена
 
 **Паймон:** Обсудить сведения
 
@@ -1340,7 +1339,6 @@ I think so, too.
 
 **Jean:** I'm afraid that appears to be the intention. Everyone... Everything about these islands is a mystery. Regardless of what lies ahead, please proceed with utmost caution.
 
-#### Scene
 
 **Paimon:** Discuss Findings
 
@@ -2026,9 +2024,6 @@ Carefree and ready to explore, classic Paimon.
 
 **琴:** 恐怕对方就是这个意思。各位，海岛的一切还是未知，不论面临怎样的挑战，都请谨慎行事，注意安全。
 
-#### 场景
-
-**派蒙:** (test)总结情报
 
 #### 与大家讨论
 

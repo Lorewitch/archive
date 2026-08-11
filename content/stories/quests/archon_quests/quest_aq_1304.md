@@ -1126,11 +1126,9 @@
 
 **Паймон:** Кажется, мы не разблокировали ещё один механизм. Продолжим поиски!
 
-#### Сцена
 
 **Дядя Анпу:** Пожалуйста, вернитесь живыми и невредимыми.
 
-#### Сцена
 
 **Кандакия:** Я буду ждать вас с хорошими новостями.
 
@@ -1822,7 +1820,6 @@
 
 **Дэхья:** Нет уж! Стой на месте!
 
-#### Сцена
 
 **Исаак:** Дедушка! Дедушка? Почему он снова словно одурманенный?..
 
@@ -3451,11 +3448,9 @@ You're welcome.
 
 **Paimon:** It looks like there are other mechanisms around here. Let's keep exploring!
 
-#### Scene
 
 **Uncle Anpu:** Please stay safe, everyone.
 
-#### Scene
 
 **Candace:** I'll be awaiting your good news.
 
@@ -4147,7 +4142,6 @@ You didn't have to admit to that.
 
 **Dehya:** ...Uh-uh, you stay right there!
 
-#### Scene
 
 **Isak:** Grandpa? Grandpa? Oh no, he's getting confused again...
 
@@ -5776,11 +5770,9 @@ To share everything means to consider everyone as allies. From today on, everyon
 
 **派蒙:** 似乎还有别的机关没被解开，我们继续探索吧！
 
-#### 场景
 
 **安普叔:** 各位千万要平安归来啊。
 
-#### 场景
 
 **坎蒂丝:** 我会在这里等你们的好消息。
 
@@ -6472,7 +6464,6 @@ To share everything means to consider everyone as allies. From today on, everyon
 
 **迪希雅:** …哈，站稳别动！
 
-#### 场景
 
 **伊萨克:** 爷爷，爷爷？怎么又迷糊了…
 

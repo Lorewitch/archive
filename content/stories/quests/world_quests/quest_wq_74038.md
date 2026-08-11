@@ -26,7 +26,6 @@
 
 Помогите Веренате и отнесите готовое зелье Карабос и Тобии. Похоже, они проводят некий эксперимент, связанный с музыкой...
 
-#### Сцена
 
 **Верената:** Путешественник и... Паймон! Вот мы и встретились снова!
 
@@ -531,7 +530,6 @@
 
 Help Verenata give the potions she has made to Carabosse. They appear to be conducting some music-related experiment...
 
-#### Scene
 
 **Verenata:** Traveler, and... and Paimon! We meet again!
 
@@ -1036,7 +1034,6 @@ You give the annotated copy of the "Melody of Vesta" to Topyas, and then you tel
 
 帮助薇蕾娜妲将新调配好的药剂带给卡莉珀丝和托皮娅，她们似乎在做什么和音乐有关的实验…
 
-#### 场景
 
 **薇蕾娜妲:** 旅行者，还有…还有派蒙，又见到你们啦！
 

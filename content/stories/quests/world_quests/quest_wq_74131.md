@@ -26,7 +26,6 @@
 
 В результате тщательного расследования Исследовательскому институту Фонтейна, похоже, удалось найти следы Нэкера и кинетического ядра архиума. Следующий шаг - найти способ привлечь его к ответственности.
 
-#### Сцена
 
 **Раймондо:** Я послал человека передать ваш отчёт в Институт. Поручаю дальнейшие труды вам, госпожа Фузилье.
 
@@ -388,7 +387,6 @@
 
 **Шоссивер:** Ладно, идём. Я пойду впереди. Лемарк, ты следи за флангами.
 
-#### Сцена
 
 Ты случайно не видел Ково?
 
@@ -806,7 +804,6 @@
 
 **Лемарк:** Если через пять секунд вы не успокоитесь, то пять раз получите в морду.
 
-#### Сцена
 
 **Шуазёль:** Этот вопрос нужно решить как можно скорее, Раймондо. Ты сам знаешь, что сейчас творится в Институте.
 
@@ -860,11 +857,9 @@
 
 **Раймондо:** Направляйтесь туда как можно скорее и приступите к своему поручению вместе с Фузилье. Она посвятит вас в остальные детали.
 
-#### Сцена
 
 **Морген:** Чего тебе?.. Иди своими делами занимайся.
 
-#### Сцена
 
 **Пьяница:** Пить... ещё... Хи-хи-хи, ещё наливайте... за пузырин... потом отдам...
 
@@ -886,7 +881,6 @@
 
 **Лемарк:** Если бы вы знали, как сильно мне хочется врезать вам пять раз. Так что прошу, помолчите.
 
-#### Сцена
 
 **Пьяница:** Нет... я ни в чём не виноват... я не хотел... это не я...
 
@@ -894,7 +888,6 @@
 
 **Пьяница:** Значит... ты не за мной? Как славно... я не виноват... пощади меня! Я постараюсь загладить свою вину... *плачет*
 
-#### Сцена
 
 **Пьяница:** Е-ещё налейте! Что, пить со мной никто не будет что ли?! Т-ты! Давай-ка тяпнем!
 
@@ -908,7 +901,6 @@
 
 After a thorough investigation, the Fontaine Research Institute seems to have found a lead on Nacker and the Arkhium Kinetic Core. Now, all that's left is to bring him to justice.
 
-#### Scene
 
 **Raimondo:** I've sent someone to give your report to the Institute. In any case, I shall leave the upcoming work to you, Ms. Fusilier.
 
@@ -1270,7 +1262,6 @@ Paimon and I will try our luck over there.
 
 **Chaussivert:** Alright, let's go. I'll take the lead. Lemarcq, you watch our flanks.
 
-#### Scene
 
 Have you seen a guy called Covault?
 
@@ -1688,7 +1679,6 @@ Answer them to my satisfaction, you live — or your head will roll.
 
 **Lemarcq:** If you keep this up for five more seconds, I'm gonna punch you five times.
 
-#### Scene
 
 **Choiseul:** We must resolve this quickly, Raimondo. I'm sure you're aware of the situation at the Institute right now.
 
@@ -1742,11 +1732,9 @@ My responsibilities increase with every passing day...
 
 **Raimondo:** Please meet Miss Fusilier there as soon as possible. She will brief you on the latest information.
 
-#### Scene
 
 **Morgen:** ...What is it? Go do your thing.
 
-#### Scene
 
 **Drunkard:** Drink up! More... Heheheh... Another Bulle Fruit... Put it... on my tab...
 
@@ -1768,7 +1756,6 @@ Covault, time to pay up!
 
 **Lemarcq:** Sorry, but I'm really trying to stop myself from punching you five times. Would you please kindly shut your trap?
 
-#### Scene
 
 **Drunkard:** No... It's not my fault... I didn't want this... It's not me...
 
@@ -1776,7 +1763,6 @@ Covault, you're in trouble!
 
 **Drunkard:** You... Oh. You're not here for me? Great... I didn't do anything wrong... Forgive me! I'm trying... I'll do better... *sobs*
 
-#### Scene
 
 **Drunkard:** More... more! Who's drinking with me? You... You! You drink with me!
 
@@ -1790,7 +1776,6 @@ Covault, cut it with the drinking!
 
 在倾力调查下，枫丹科学院似乎找到了纳克与始基动能核心的线索。接下来，就要想办法将其绳之以法了。
 
-#### 场景
 
 **雷蒙多:** …你的报告我已经托专人带回院里了。接下来的执行工作要辛苦你了，菲希里耶小姐。
 
@@ -2152,7 +2137,6 @@ Covault, cut it with the drinking!
 
 **肖西韦尔:** 行，那就出发吧，我走前面，勒马克，注意一下旁边。
 
-#### 场景
 
 你见过一个叫科沃的人吗？
 
@@ -2570,7 +2554,6 @@ Covault, cut it with the drinking!
 
 **勒马克:** 您要是再保持这种不正常的状态五秒，我就要给您五拳了。
 
-#### 场景
 
 **舒瓦瑟尔:** …必须要尽快解决这件事，雷蒙多。你知道现在院内的情况。
 
@@ -2624,11 +2607,9 @@ Covault, cut it with the drinking!
 
 **雷蒙多:** 请您快点前往柔灯港，和菲希里耶小姐小姐汇合吧。她会告诉您进一步的信息。
 
-#### 场景
 
 **莫尔让:** …有什么事吗？忙你自己的去吧。
 
-#### 场景
 
 **醉汉:** 喝…还能喝…嘻嘻嘻，再来一个…泡泡桔的…钱先…欠着…
 
@@ -2650,7 +2631,6 @@ Covault, cut it with the drinking!
 
 **勒马克:** 抱歉，我现在真的很想给您五拳，请您捂紧自己的嘴，好吗？
 
-#### 场景
 
 **醉汉:** 呜呜呜…不是我的错…我也不想这样…不是我…
 
@@ -2658,7 +2638,6 @@ Covault, cut it with the drinking!
 
 **醉汉:** 你要找…找的不是我？太好了…我没犯错…饶了我吧！我努力，我改正…呜呜呜…
 
-#### 场景
 
 **醉汉:** 再…再来啊！怎么没人陪我喝了！你…你！陪我喝啊！
 

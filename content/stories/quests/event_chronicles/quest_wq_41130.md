@@ -26,7 +26,6 @@
 
 Миллелит по имени Цзин Лунь переживает из-за монстров в районе деревни Цинцэ.
 
-#### Сцена
 
 У меня ещё есть другие дела.
 
@@ -116,7 +115,6 @@
 
 The Millelith soldier Jinglun is fretting about how to defeat the monsters around Qingce Village...
 
-#### Scene
 
 I have other matters to attend to.
 
@@ -206,7 +204,6 @@ Sure did.
 
 千岩军经纶正在为如何清理周围的魔物而烦恼…
 
-#### 场景
 
 还有别的事。
 

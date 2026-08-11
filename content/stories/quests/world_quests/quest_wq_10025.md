@@ -26,7 +26,6 @@
 
 Ханатирусато утверждает, что для завершения ритуала очищения Священной сакуры необходимо разрушить барьеры в пяти местах и уничтожить появившееся воплощение порока. Кроме деревни Конда и заброшенного святилища есть ещё три места, где барьер окружает корни Громовой сакуры: лес Тиндзю, Арауми и ниже Приливной равнины, что за имением Камисато. Кажется, она ждёт у корней Громовой сакуры под колодцем в деревне Конда.
 
-#### Сцена
 
 **Ханатирусато:** Это поистине невероятно.
 
@@ -98,7 +97,6 @@
 
 **Ханатирусато:** Желаю тебе всего наилучшего.
 
-#### Сцена
 
 **Ханатирусато:** Благодарю!
 
@@ -346,7 +344,6 @@
 
 **Ханатирусато:** Но прежде я помолюсь за тебя поблизости от деревни Конда, где ты очистил(а) корни Громовой сакуры. Удачи.
 
-#### Сцена
 
 **Ханатирусато:** Привет! Вот мы и встретились снова.
 
@@ -378,7 +375,6 @@
 
 **Ханатирусато:** В прошлом, хоть лисы и были слабы, они ценили верность. Если ты посмотришь на статуэтку через линзу воспоминаний, ты увидишь предметы и сцены из прошлого.
 
-#### Сцена
 
 **Ханатирусато:** Чем бы это ни было - иллюзией Иороя или вашим личным способом побеждать демонов, - но выполнено красиво.
 
@@ -496,7 +492,6 @@
 
 **Ханатирусато:** Когда будут очищены все корни дерева в пяти точках острова, найди меня. Я буду ждать там.
 
-#### Сцена
 
 **Ханатирусато:** Всё будет в порядке...
 
@@ -506,7 +501,6 @@
 
 Все пять барьеров были разрушены, а злые духи изгнаны. Пора рассказать об этом Ханатирусато у корней Громовой сакуры под колодцем в деревне Конда.
 
-#### Сцена
 
 **Паймон:** А!.. Что? Мне показалось, что у нас за спиной вдруг объявилась госпожа Ханатирусато.
 
@@ -674,7 +668,6 @@
 
 **Ханатирусато:** Значит... на этом всё. Желаю тебе всего наилучшего.
 
-#### Сцена
 
 **Ханатирусато:** Это последний барьер для очищения Священной сакуры.
 
@@ -966,7 +959,6 @@
 
 Перед странной статуей кицунэ стоит загадочная жрица в маске. И, судя по всему, ей нужна помощь.
 
-#### Сцена
 
 **???:** Прости меня, путешественни(ца)(к), ты наверняка торопишься, но я хочу попросить тебя об одолжении.
 
@@ -974,7 +966,6 @@
 
 **???:** Говорят, на ней есть оберег, снять который может только тот, кто храбр, ценит дружбу и к кому благосклонна стихия Электро.
 
-#### Сцена
 
 **???:** Значит, это правда. Ты Избранный / Избранная.
 
@@ -1060,7 +1051,6 @@
 
 **???:** Говорят, на ней есть оберег, снять который может только тот, кто храбр, ценит дружбу и к кому благосклонна стихия Электро.
 
-#### Сцена
 
 **Паймон:** Это деревня Конда, верно?
 
@@ -1150,7 +1140,6 @@
 
 **Ханатирусато:** Желаю тебе всего наилучшего.
 
-#### Сцена
 
 **Такэру:** Тебе удалось с такой лёгкостью сюда забраться! Поразительно!
 
@@ -1186,7 +1175,6 @@
 
 **Такэру:** Там, где хиличурлы копаются!
 
-#### Сцена
 
 **Футаба:** Привет, Путешественник! Какой странный костюм! Как дела?
 
@@ -1260,7 +1248,6 @@
 
 **Футаба:** Может быть, он снова на крышу забрался?..
 
-#### Сцена
 
 **Паймон:** Вот та самая телега, про которую говорил Такэру!
 
@@ -1272,7 +1259,6 @@
 
 **Паймон:** Тут написано «тома». Это означает, что товары сделаны из бумаги, верно?
 
-#### Сцена
 
 **Паймон:** Колодец заперт, как и говорила бабушка...
 
@@ -1296,13 +1282,11 @@
 
 **Паймон:** ...А колодец находится во дворе деревенского старосты.
 
-#### Сцена
 
 **Паймон:** Хм-м... Кажется, Футаба упоминала про какие-то плавающие мешки. Может быть, это были они?
 
 **Паймон:** Хе-хе, что же там?..
 
-#### Сцена
 
 **Саимон Эри:** Приветствую тебя, юноша / девушка. Хочешь послушать старушечью историю?
 
@@ -1438,7 +1422,6 @@
 
 **Футаба:** Путешественник! Ты ищешь эти мешки? Ты наверняка найдёшь их, если  пойдёшь вдоль канавы!
 
-#### Сцена
 
 **Замок колодца:** (Сухой колодец заперт. Кажется, замок можно открыть подходящим ключом...)
 
@@ -1448,7 +1431,6 @@
 
 **Саимон Эри:** Если тебе интересно, что тут происходит, сходи к  пересохшему колодцу и посмотри.
 
-#### Сцена
 
 **Такэру:** Как мне убедить дедушку Дэнсукэ, что призрак в самом деле существует...
 
@@ -1460,7 +1442,6 @@
 
 По словам Ханатирусато, чтобы очистить корни Громовой сакуры, нужно разрушить все барьеры. Следующий барьер находится в заброшенном святилище на северо-востоке деревни Конда. И хотя от одной мысли об этом месте у вас по коже идут мурашки, вы решаетесь отправиться туда, чтобы помочь Ханатирусато.
 
-#### Сцена
 
 **Паймон:** Статуя лисицы... Да, такая же, как в деревне Конда!
 
@@ -1502,7 +1483,6 @@
 
 **Паймон:** Иначе нахальными ворами окажемся мы!
 
-#### Сцена
 
 **Паймон:** Пожалуй, этого хватит! Я так устала.
 
@@ -1656,7 +1636,6 @@
 
 **Записи:** «Эти обереги были запечатаны священными словами. На эмблеме Электро четыре духа и три точки. Я поместил три духа-хранителя сикигами здесь. Продолжить можно будет только тогда, когда все они будут собраны здесь».
 
-#### Сцена
 
 **Подозрительный мужчина:** Да, кажется, потомков призрака всё ещё можно использовать.
 
@@ -1666,7 +1645,6 @@
 
 **Подозрительный мужчина:** Тогда первой строкой будет «Посланник Наруками».
 
-#### Сцена
 
 **Подозрительный мужчина:** ...Я просто последую предыдущему примеру и в качестве второй строки возьму «род Белого дракона». Оммёдзи из меня всё-таки никакой.
 
@@ -1696,7 +1674,6 @@
 
 **Подозрительный мужчина:** Ах! Это было неожиданно.
 
-#### Сцена
 
 **Подозрительный мужчина:** Этот парень вечно портит мне настроение!
 
@@ -1708,7 +1685,6 @@
 
 **Подозрительный мужчина:** Раз уж это её территория, это должно быть где-то на земле рода Белого дракона. Что ж, воспользуемся этим.
 
-#### Сцена
 
 **Таинственная женщина:** Как быстро опустел храм, лишившись настоятеля и свечного пламени...
 
@@ -1718,7 +1694,6 @@
 
 **Таинственная женщина:** Надеюсь, всё до сих пор хорошо.
 
-#### Сцена
 
 **Подозрительный мужчина:** ... Да, решено. На этот раз мы её отпустим.
 
@@ -1726,7 +1701,6 @@
 
 **Подозрительный мужчина:** Я сегодня так устал. Я думал, что встретил давно потерянного друга. Это чувство так изматывает...
 
-#### Сцена
 
 **Таинственная женщина:** Тогда, если позволишь, я пойду.
 
@@ -1738,7 +1712,6 @@
 
 **Подозрительный мужчина:** Ах, уже ушла? Ну и зануда...
 
-#### Сцена
 
 **Подозрительный мужчина:** Кстати, когда она ушла, Иорой, кажется, повёл своё племя сеять повсюду хаос.
 
@@ -1746,7 +1719,6 @@
 
 **Подозрительный мужчина:** Да, нужно будет преподать ему хороший урок...
 
-#### Сцена
 
 **Таинственная женщина:** Это... Моя бывшая...
 
@@ -1754,7 +1726,6 @@
 
 **Таинственная женщина:** Тот человек... Он кажется таким знакомым...
 
-#### Сцена
 
 **Подозрительный мужчина:** Да, теперь всё прошло. Теперь нужно всё записать и передать в храм.
 
@@ -1766,13 +1737,11 @@
 
 Похоже, что старого друга Ханатирусато можно найти в лесу Тиндзю. Возможно, он сможет помочь с обрядом очищения Священной сакуры. Однако в лесу вы услышали странный крик...
 
-#### Сцена
 
 **Иорой:** Что? Разве ты всё ещё не хочешь насладиться священными курами или как там это у вас называется?
 
 **Иорой:** Идите уже. Если встретите ту старую кицунэ, передайте от меня привет.
 
-#### Сцена
 
 **Паймон:** Наконец-то не месте. Это, наверное, и есть лес Тиндзю.
 
@@ -1780,7 +1749,6 @@
 
 **Паймон:** Тогда войдём и посмотрим!
 
-#### Сцена
 
 **Паймон:** Статуэтка Небесной кицунэ, которая должна была защищать обереги... внутри пуста.
 
@@ -2068,7 +2036,6 @@
 
 Hanachirusato says that in order to complete the Sacred Sakura Cleansing Ritual, one must break the barrier in 5 places and destroy the "defilement incarnate" that will then come forth. Besides Konda Village and the abandoned shrine, there are three other places where the barrier surrounds the Thunder Sakura roots: Chinju Forest, Araumi, and below the tidal flats outside the Kamisato Estate. She says that she will await you at the Thunder Sakura root below the well in Konda Village.
 
-#### Scene
 
 **Hanachirusato:** Very impressive.
 
@@ -2140,7 +2107,6 @@ How will we meet up, then?
 
 **Hanachirusato:** I wish you all the best.
 
-#### Scene
 
 **Hanachirusato:** Again, the two of you have my thanks.
 
@@ -2388,7 +2354,6 @@ How will we meet up?
 
 **Hanachirusato:** Till our next meeting, I will be praying for your success beneath the well in Konda Village, where you successfully purified the Thunder Sakura root. I wish you all the best.
 
-#### Scene
 
 **Hanachirusato:** Ah. We meet again.
 
@@ -2420,7 +2385,6 @@ How will we meet up?
 
 **Hanachirusato:** In the past, though they were weak in strength, they valued loyalty. If you look at them through the Memento Lens, you should be able to see some scenes from the past.
 
-#### Scene
 
 **Hanachirusato:** That was well done — whether it was dealing with Ioroi's illusory tricks, or the way you defeated those demons.
 
@@ -2538,7 +2502,6 @@ Goodbye.
 
 **Hanachirusato:** When the tree roots at all five places have been cleansed, please look for me there.
 
-#### Scene
 
 **Hanachirusato:** There should be no problem...
 
@@ -2548,7 +2511,6 @@ Goodbye.
 
 The five barriers have been broken and the evil within has been purged. Time to report back to Hanachirusato at the Thunder Sakura root beneath the well in Konda Village.
 
-#### Scene
 
 **Paimon:** "Eek"! ...Eh? Aw, Paimon thought Miss Hanachirusato would suddenly appear behind us.
 
@@ -2716,7 +2678,6 @@ Won't you be coming along?
 
 **Hanachirusato:** Well then... I wish you all the best.
 
-#### Scene
 
 **Hanachirusato:** This is the final barrier of the Sacred Sakura Cleansing Ritual.
 
@@ -3008,7 +2969,6 @@ Thank you.
 
 A mysterious, masked shrine maiden is by the strange fox statue, seemingly with something to request of you...
 
-#### Scene
 
 **???:** Excuse me, busy Traveler, but I have a favor to ask.
 
@@ -3016,7 +2976,6 @@ A mysterious, masked shrine maiden is by the strange fox statue, seemingly with 
 
 **???:** There is a ward within it that they say can only be removed by someone who has courage, values friendship, and who is favored by the might of Electro.
 
-#### Scene
 
 **???:** I was right. You are the "Destined One."
 
@@ -3102,7 +3061,6 @@ A mysterious, masked shrine maiden is by the strange fox statue, seemingly with 
 
 **???:** There is a ward within it that they say can only be removed by someone who has courage, values friendship, and who is favored by the might of Electro.
 
-#### Scene
 
 **Paimon:** This should be Konda Village.
 
@@ -3192,7 +3150,6 @@ Calm down a little...
 
 **Hanachirusato:** I wish you all the best.
 
-#### Scene
 
 **Takeru:** Amazing, you climbed up so easily!
 
@@ -3228,7 +3185,6 @@ Any other unusual things going on?
 
 **Takeru:** See, that's it over there. There are hilichurls digging at it, too!
 
-#### Scene
 
 **Futaba:** Hello, strange (big sis)(big bro)! What's up?
 
@@ -3302,7 +3258,6 @@ I see. Thank you.
 
 **Futaba:** Did he go up to the roof again...?
 
-#### Scene
 
 **Paimon:** This must be the broken cart Takeru mentioned!
 
@@ -3314,7 +3269,6 @@ I see. Thank you.
 
 **Paimon:** It says "volumes," which must refer to things made of paper, right?
 
-#### Scene
 
 **Paimon:** It's tightly locked, just like Granny said...
 
@@ -3338,13 +3292,11 @@ Someone is hiding something.
 
 **Paimon:** ...And this well's in the village chief's yard.
 
-#### Scene
 
 **Paimon:** Hmm... This must be one of the "floating bags" that Futaba mentioned!
 
 **Paimon:** Hee-hee, let's see what's inside...
 
-#### Scene
 
 **Saimon Eri:** Hello, youngster. Are you here to listen to this old woman's stories?
 
@@ -3480,7 +3432,6 @@ So, about the punks you mentioned earlier...
 
 **Futaba:** Are you looking for those bags, (big sis)(big bro)? If you follow the gully, you might find them!
 
-#### Scene
 
 **Well Lock:** (The dry well is locked and looks like it could be opened with the corresponding key...)
 
@@ -3490,7 +3441,6 @@ So, about the punks you mentioned earlier...
 
 **Saimon Eri:** Well, if you're interested in what's going on, go over to the dried-up well and check it out.
 
-#### Scene
 
 **Takeru:** How can I convince Grandpa Densuke that there really is a ghost...
 
@@ -3502,7 +3452,6 @@ Tell him something weird...
 
 According to Hanachirusato, these barriers must be broken to cleanse the Thunder Sakura's roots. The next barrier seems to be located in the abandoned shrine to the northeast of Konda Village. Although the place sounds quite unsettling indeed, this is Hanachirusato's request, so it is best that you see it done.
 
-#### Scene
 
 **Paimon:** A fox statue... Yup, it's the same as the one in Konda Village!
 
@@ -3544,7 +3493,6 @@ What is it, Paimon?
 
 **Paimon:** Otherwise, we'd be no better than "petty thieves"!
 
-#### Scene
 
 **Paimon:** Well, that should do it! Phew, Paimon's exhausted!
 
@@ -3698,7 +3646,6 @@ Such an important item...
 
 **Records:** "The ward has been sealed in place using sacred words. There are four great spirits, and three spokes in the Mitsudomoe. I have placed three shikigami here as guardians. Only when they are all gathered here in one place can one proceed."
 
-#### Scene
 
 **Mysterious Man:** Hmm. Yes, it looks like the spirit veins here can still be used.
 
@@ -3708,7 +3655,6 @@ Such an important item...
 
 **Mysterious Man:** Then the first line shall be "In the name of Narukami's envoy."
 
-#### Scene
 
 **Mysterious Man:** ...Guess I'll just follow the previous example and use "And of the Hakushin bloodline." as the second line. I am no master onmyouji, after all.
 
@@ -3738,7 +3684,6 @@ Such an important item...
 
 **Mysterious Man:** Eh? Come on, that was uncalled for...
 
-#### Scene
 
 **Mysterious Man:** My, that lady is such a buzzkill.
 
@@ -3750,7 +3695,6 @@ Such an important item...
 
 **Mysterious Man:** Since this is her territory — the land of the Hakushin bloodline — we'll go with that.
 
-#### Scene
 
 **Mysterious Woman:** How quickly the shrine has fallen to neglect after losing its master and the incense within...
 
@@ -3760,7 +3704,6 @@ Such an important item...
 
 **Mysterious Woman:** I hope everything is still alright.
 
-#### Scene
 
 **Mysterious Man:** ... Yeah, it's decided. We'll let her go this time.
 
@@ -3768,7 +3711,6 @@ Such an important item...
 
 **Mysterious Man:** I'm all tuckered out already. I thought I had run into a long-lost friend. That feeling is so exhausting...
 
-#### Scene
 
 **Mysterious Woman:** Then let us part ways here.
 
@@ -3780,7 +3722,6 @@ Such an important item...
 
 **Mysterious Man:** Ah, you're gone already? Come on...
 
-#### Scene
 
 **Mysterious Man:** That being said, after she left, Ioroi seems to have led his tribe to wreak havoc everywhere.
 
@@ -3788,7 +3729,6 @@ Such an important item...
 
 **Mysterious Man:** Mm. Guess he needs to be taught a good lesson...
 
-#### Scene
 
 **Mysterious Woman:** This was... my previous...
 
@@ -3796,7 +3736,6 @@ Such an important item...
 
 **Mysterious Woman:** That person over there... seems so familiar...
 
-#### Scene
 
 **Mysterious Man:** Yeah, guess we're done here. Time to write all this down and hand it over to the shrine.
 
@@ -3808,13 +3747,11 @@ Such an important item...
 
 You learn that an old friend of Hanachirusato's can be found in Chinju Forest. Perhaps they might be able to help out with the Sacred Sakura Cleansing Ritual. But while in the forest, you hear a strange shout.
 
-#### Scene
 
 **Ioroi:** What? Weren't you off to enjoy your Sacred Secular Steaming Victuals or whatever?
 
 **Ioroi:** Go now. If you run into that sneaky kitsune, remember to send her my regards.
 
-#### Scene
 
 **Paimon:** We're finally here! This must be the Chinju Forest.
 
@@ -3822,7 +3759,6 @@ You learn that an old friend of Hanachirusato's can be found in Chinju Forest. P
 
 **Paimon:** Well, let's get moving!
 
-#### Scene
 
 **Paimon:** The Sky Kitsune Statue that was supposed to protect the ward... It's empty inside.
 
@@ -4110,7 +4046,6 @@ Thank you, Ioroi.
 
 依照花散里的说法，要完成「神樱大祓」，就必须破解结界五处，并清除被逼出来的「污秽的化身」。除了绀田村与那间荒废神社，另外三处结界与雷樱树根分别位于：镇守之森、荒海、以及神里屋敷之外的滩涂地下。在这期间，她似乎会在绀田村井下的树根处待命。
 
-#### 场景
 
 **花散里:** 真是相当了不起。
 
@@ -4182,7 +4117,6 @@ Thank you, Ioroi.
 
 **花散里:** 祝您一切顺利。
 
-#### 场景
 
 **花散里:** 辛苦二位了。
 
@@ -4430,7 +4364,6 @@ Thank you, Ioroi.
 
 **花散里:** 在那之前，我会在绀田村井下，您成功净化的雷樱树根处，为您祈福。祝您一切顺利。
 
-#### 场景
 
 **花散里:** 您好。我们又见面了。
 
@@ -4462,7 +4395,6 @@ Thank you, Ioroi.
 
 **花散里:** 在过去，它们的力量虽然薄弱，却相当珍重情谊。透过那个…「留念镜」观察它们的话，您多少也能见到过去的事物、景象吧。
 
-#### 场景
 
 **花散里:** 相当漂亮，无论是五百藏的障眼法，还是您击败妖物的手段。
 
@@ -4580,7 +4512,6 @@ Thank you, Ioroi.
 
 **花散里:** 当所有的五处树根都得到净化后，请到那来找我。
 
-#### 场景
 
 **花散里:** 应该没问题吧…
 
@@ -4590,7 +4521,6 @@ Thank you, Ioroi.
 
 五处结界已经破除，其中的妖物也被肃清。是时候前往绀田村井下的雷樱树根处，向花散里复命了。
 
-#### 场景
 
 **派蒙:** 「噫！」…欸？我还以为花散里小姐会突然出现在我们身后呢。
 
@@ -4758,7 +4688,6 @@ Thank you, Ioroi.
 
 **花散里:** 那么…这就是最后的最后了。祝您一切顺利。
 
-#### 场景
 
 **花散里:** 这就是「神樱大祓」最后的结界。
 
@@ -5050,7 +4979,6 @@ Thank you, Ioroi.
 
 在奇异的狐狸雕像前，戴着面具的神秘巫女似乎有事相求…
 
-#### 场景
 
 **？？？:** 您好，这位步履匆忙的旅行者，我有一事想要请您相助。
 
@@ -5058,7 +4986,6 @@ Thank you, Ioroi.
 
 **？？？:** 其中有一镇物，传闻中只有受「雷」之赏识、富有勇气又珍重情谊的人才能将其取出。
 
-#### 场景
 
 **？？？:** 果然，我没有认错。您正是「命定之人」。
 
@@ -5144,7 +5071,6 @@ Thank you, Ioroi.
 
 **？？？:** 其中有一镇物，传闻中只有受「雷」之赏识、富有勇气又珍重情谊的人才能将其取出。
 
-#### 场景
 
 **派蒙:** 这里就是「绀田村」了吧。
 
@@ -5234,7 +5160,6 @@ Thank you, Ioroi.
 
 **花散里:** 祝您一切顺利。
 
-#### 场景
 
 **小猛:** 居然那么轻松就爬上来了，你真厉害啊！
 
@@ -5270,7 +5195,6 @@ Thank you, Ioroi.
 
 **小猛:** 喏，就是那边，还有丘丘人在刨呢！
 
-#### 场景
 
 **双叶:** 你好啊，穿着奇异服装的大空/荧！有什么事吗？
 
@@ -5344,7 +5268,6 @@ Thank you, Ioroi.
 
 **双叶:** 是不是又跑到房顶上去了…
 
-#### 场景
 
 **派蒙:** 这就是小猛提到的小破车吧！
 
@@ -5356,7 +5279,6 @@ Thank you, Ioroi.
 
 **派蒙:** 既然量词是「册」，也就是说，是纸做的东西对吧！
 
-#### 场景
 
 **派蒙:** 确实像那位婆婆说的那样，被封得严严实实呢…
 
@@ -5380,13 +5302,11 @@ Thank you, Ioroi.
 
 **派蒙:** …而这口井在村长爷爷的院子里。
 
-#### 场景
 
 **派蒙:** 嗯…这就是双叶提到的「漂浮的袋子」对吧！
 
 **派蒙:** 嘿咻，里面装着的是什么呢…
 
-#### 场景
 
 **柴门惠理:** 年轻人，你好啊。是来听婆婆讲故事的吗？
 
@@ -5522,7 +5442,6 @@ Thank you, Ioroi.
 
 **双叶:** 大空/荧要找的东西是那些袋子吗？顺着沟渠找的话，说不定就能找到哦！
 
-#### 场景
 
 **井口的闭锁:** （枯井的井口被锁住了，看上去可以用对应的钥匙打开…）
 
@@ -5532,7 +5451,6 @@ Thank you, Ioroi.
 
 **柴门惠理:** 你要是对这里的事感兴趣，就去枯井那边看看吧。
 
-#### 场景
 
 **小猛:** 要怎么才能说服传助爷爷真的有幽灵呢…
 
@@ -5544,7 +5462,6 @@ Thank you, Ioroi.
 
 根据花散里的说法，破除这些结界是「净化」雷樱树根所必需的。下一处结界似乎就在绀田村东北方的荒废神社中。虽然听起来是令人颇为不安的地方，但既然是花散里拜托的事情，那就去看看好了。
 
-#### 场景
 
 **派蒙:** 狐狸神像…没错，跟绀田村那时一样！
 
@@ -5586,7 +5503,6 @@ Thank you, Ioroi.
 
 **派蒙:** 不然我们就是「没什么能耐的贼人」了！
 
-#### 场景
 
 **派蒙:** 这样就可以了！好累。
 
@@ -5740,7 +5656,6 @@ Thank you, Ioroi.
 
 **记事:** 「镇物以言灵封印至此。…御灵有四魂，巴有三重。据此我留下了三名式神看守。当它们汇聚在一起时，才能继续。…」
 
-#### 场景
 
 **谜样的男性:** 嗯嗯，很好，看来灵脉姑且还能用。
 
@@ -5750,7 +5665,6 @@ Thank you, Ioroi.
 
 **谜样的男性:** 那么，第一句就是「鸣神敕使」了。
 
-#### 场景
 
 **谜样的男性:** …我还是依据前例，把第二句设成「白辰血脉」好了。毕竟小生也算不上阴阳通晓。嗯嗯。
 
@@ -5780,7 +5694,6 @@ Thank you, Ioroi.
 
 **谜样的男性:** 欸！好过分——
 
-#### 场景
 
 **谜样的男性:** 那个家伙，真是扫兴呢。
 
@@ -5792,7 +5705,6 @@ Thank you, Ioroi.
 
 **谜样的男性:** 既然这里是她的领地，那便是白辰一脉的土地。那就用这个吧。
 
-#### 场景
 
 **神秘的女性:** 失去主人与香火的神社，竟然会在这么短时间内荒废成这样…
 
@@ -5802,7 +5714,6 @@ Thank you, Ioroi.
 
 **神秘的女性:** 希望情况还好。
 
-#### 场景
 
 **谜样的男性:** ……嗯嗯，决定了。这次就不收拾她了。
 
@@ -5810,7 +5721,6 @@ Thank you, Ioroi.
 
 **谜样的男性:** 今天已经累了。以为见到了再也见不到的朋友，这种感觉，真是相当累人哪…
 
-#### 场景
 
 **神秘的女性:** 那我们就此别过吧。
 
@@ -5822,7 +5732,6 @@ Thank you, Ioroi.
 
 **谜样的男性:** 啊，就这么走了吗。真是讨厌的家伙…
 
-#### 场景
 
 **谜样的男性:** 这么说来，她走了以后，五百藏好像带着族人到处大闹哪。
 
@@ -5830,7 +5739,6 @@ Thank you, Ioroi.
 
 **谜样的男性:** 嗯嗯。不狠狠收拾一下可不行…
 
-#### 场景
 
 **神秘的女性:** 这里是…是我以前…
 
@@ -5838,7 +5746,6 @@ Thank you, Ioroi.
 
 **神秘的女性:** 那边那个人…有种很怀念的感觉…
 
-#### 场景
 
 **谜样的男性:** 嗯嗯，这样事情就告一段落了。接下来就该把密文记下来，交给神社了。
 
@@ -5850,13 +5757,11 @@ Thank you, Ioroi.
 
 在镇守之森，似乎有一位花散里的「老朋友」，应当能为「神樱大祓」提供帮助。但在其中，听到了奇异的呼叫声。
 
-#### 场景
 
 **五百藏:** 怎么了？你不是还要去吃那啥「神樱大福」吗？
 
 **五百藏:** 快去吧。如果见到了那个臭狐狸，记得帮吾辈带个好。
 
-#### 场景
 
 **派蒙:** 终于到了，这里就是镇守之森了吧。
 
@@ -5864,7 +5769,6 @@ Thank you, Ioroi.
 
 **派蒙:** 那我们就赶紧动身吧，往深处去！
 
-#### 场景
 
 **派蒙:** 保管镇物的天狐雕像…的里面是空的。
 

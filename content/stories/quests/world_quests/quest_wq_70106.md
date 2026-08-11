@@ -26,7 +26,6 @@
 
 Повар горного лагеря Харрис, вдохновившись древним рецептом, желает приготовить совершенно новое лакомство. Для этого ему понадобится десять кусков цельномороженого мяса...
 
-#### Сцена
 
 **Харрис:** Ещё бы парочку ингредиентов...
 
@@ -158,7 +157,6 @@
 
 Harris, the chef at the foothill camp, has received inspiration from an ancient recipe and would like to create an all-new gourmet dish. For this, he first requires 10 servings of Chilled Meat...
 
-#### Scene
 
 **Harris:** Just a few more ingredients to go...
 
@@ -290,7 +288,6 @@ I've come for my Goulash.
 
 雪山营地中的厨师哈里斯从一份「古代食谱」中获得了灵感，想要做一份全新的美食。为此，他首先需要十份「冷鲜肉」…
 
-#### 场景
 
 **哈里斯:** 就差这些食材了…
 

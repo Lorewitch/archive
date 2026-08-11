@@ -26,7 +26,6 @@
 
 Получив пригласительное письмо от Аратаки Итто, вы отправляетесь на остров Ватацуми...
 
-#### Сцена
 
 **Дворжак:** Побродите вокруг. Я подойду к вам позже.
 
@@ -332,7 +331,6 @@
 
 You've received an invitation from one Arataki Itto. Having been introduced by his enthusiastic letter, you set out on a trip to Watatsumi Island...
 
-#### Scene
 
 **Dvorak:** Feel free to take a look around, I'll be with you in just a moment.
 
@@ -638,7 +636,6 @@ It's great to see you both.
 
 收到了一封「荒泷一斗」送出的邀请函。在这封热情满满的邀请函的介绍下，你踏上了前往海祇岛的旅途…
 
-#### 场景
 
 **德沃沙克:** 两位可以在场地里转转，我稍后就来。
 

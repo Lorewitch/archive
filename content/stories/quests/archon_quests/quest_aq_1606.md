@@ -150,7 +150,6 @@
 
 **Паймон:** Да, ты права! Вперёд!
 
-#### Сцена
 
 **Субретка:** Всё равно... не успела?..
 
@@ -428,7 +427,6 @@
 
 Наступила Ночь лунной молитвы. Какие воспоминания она оставит этой последней ночью?
 
-#### Сцена
 
 **Ягода:** (Ого. Киоск Детей Морозной Луны выглядит скромненько, но на самом деле здесь много интересного.)
 
@@ -554,7 +552,6 @@
 
 **Ягода:** ...Я так и знала!
 
-#### Сцена
 
 **Зирница:** Добро пожаловать домой, госпожа Богиня Луны. Хотите примерить звериный головной убор?
 
@@ -584,7 +581,6 @@
 
 **Зирница:** Хорошо! Если захотите примерить ещё что-нибудь, заходите к нам в любое время!
 
-#### Сцена
 
 **Каарина:** ...Ясные дни! Обожаю ясные дни!
 
@@ -774,7 +770,6 @@
 
 **Субретка:** Да.
 
-#### Сцена
 
 **Катя:** Хочу много-много ягод лакка...
 
@@ -872,7 +867,6 @@
 
 **Лаума:** Я буду молиться до того самого дня, пока они не исполнятся.
 
-#### Сцена
 
 **Яцек:** ...Вертушка Додоко! Прокатитесь на Вертушке Додоко!
 
@@ -994,7 +988,6 @@
 
 **Яцек:** Ха-ха, не расстраивайтесь. Новое приключение всегда ждёт за углом!
 
-#### Сцена
 
 **Алиса:** У тебя талант!
 
@@ -1020,7 +1013,6 @@
 
 **Субретка:** Хорошо.
 
-#### Сцена
 
 **Варка:** ...Не вижу тут несправедливости.
 
@@ -1102,7 +1094,6 @@
 
 **Николь:** Иначе я совсем сгорю от стыда!
 
-#### Сцена
 
 **Николь:** Поздравляю, госпожа Коломбина! Благодаря своей мудрости ты преодолела множество препятствий на пути и прошла все испытания судьбы.
 
@@ -1132,7 +1123,6 @@
 
 **Субретка:** Вы так много для меня сделали, а подарки получаю я одна...
 
-#### Сцена
 
 **Барбелот:** Добро пожаловать домой, госпожа Богиня Луны.
 
@@ -1320,7 +1310,6 @@
 
 **Барбелот:** Тогда ступай и озари своё будущее, госпожа Коломбина. Лунный свет, который ты излучаешь, ослепительно прекрасен.
 
-#### Сцена
 
 **Метта:** Но я целилась прямо в него...
 
@@ -1366,7 +1355,6 @@
 
 **Дори:** (Я объяснила яснее некуда. Они должны сообразить...)
 
-#### Сцена
 
 **Дори:** Так-так...
 
@@ -1493,7 +1481,6 @@
 
 **Субретка:** С праздником.
 
-#### Сцена
 
 **Марионетка:** Ого, полюбуйтесь, кто пришёл. Говорят, друзья твои ненадолго отвлеклись, а ты взяла и исчезла. Они весь Нод-Край перевернули, пытаясь тебя отыскать.
 
@@ -1555,7 +1542,6 @@
 
 **Марионетка:** ...Что?!
 
-#### Сцена
 
 **Марионетка:** Арргх!!!
 
@@ -1713,7 +1699,6 @@
 
 **Марионетка:** Порвите его! Сейчас же!!!
 
-#### Сцена
 
 **Лимпу:** Конфеты лунной молитвы! Такие красивые и вкусные! Купите целую коробку! Разделите радость с домочадцами и друзьями!
 
@@ -2437,7 +2422,6 @@ What happens then?
 
 **Paimon:** Yeah, you're right. Let's keep going!
 
-#### Scene
 
 **The Damselette:** They... didn't make it...
 
@@ -2715,7 +2699,6 @@ Sure. Come with me, Columbina Hyposelenia.
 
 The Moon-Prayer Night has come. On this final night, what memories will she leave behind?
 
-#### Scene
 
 **Jahoda:** (Wow. The Frostmoon Scions' stall looks kinda plain, but it's pretty cool once you get into it.)
 
@@ -2841,7 +2824,6 @@ The Moon-Prayer Night has come. On this final night, what memories will she leav
 
 **Jahoda:** ...I knew something like this was gonna happen!
 
-#### Scene
 
 **Zirnytsia:** Welcome home, Moon Goddess. Would you like to try on some animal-themed headwear?
 
@@ -2871,7 +2853,6 @@ The Moon-Prayer Night has come. On this final night, what memories will she leav
 
 **Zirnytsia:** Alright! Feel free to come back if you change your mind!
 
-#### Scene
 
 **Kaarina:** ...Sunny days! I prefer sunny days!
 
@@ -3061,7 +3042,6 @@ Would you like another bite?
 
 **The Damselette:** Sure.
 
-#### Scene
 
 **Katya:** "I wish for a never-ending supply of Lakkaberries..."
 
@@ -3159,7 +3139,6 @@ Would you like another bite?
 
 **Lauma:** I shall continue to pray until the day that all of these wishes come true.
 
-#### Scene
 
 **Jacek:** Dodoco's Whirly Gig! Come check out Dodoco's Whirly Gig!
 
@@ -3281,7 +3260,6 @@ You won't lose us...
 
 **Jacek:** Don't worry, you two. There's always another adventure waiting just around the corner.
 
-#### Scene
 
 **Alice:** Remarkable talent!
 
@@ -3307,7 +3285,6 @@ You won't lose us...
 
 **The Damselette:** I will.
 
-#### Scene
 
 **Varka:** ...I wouldn't say it's "unfair," exactly.
 
@@ -3389,7 +3366,6 @@ You won't lose us...
 
 **Nicole:** That would be even more embarrassing!
 
-#### Scene
 
 **Nicole:** Congratulations, Miss Columbina! With your great wisdom, you have overcome every obstacle in your path and conquered the great challenge posed to you by Fate.
 
@@ -3419,7 +3395,6 @@ You won't lose us...
 
 **The Damselette:** You've all done much to help me, and still I'm the one receiving all these gifts...
 
-#### Scene
 
 **Barbeloth:** Welcome home, Moon Goddess.
 
@@ -3607,7 +3582,6 @@ You won't lose us...
 
 **Barbeloth:** Go then, and illuminate your future, Miss Columbina. The moonlight that shines from you now is most captivating.
 
-#### Scene
 
 **Metta:** But I was aiming right at it...
 
@@ -3653,7 +3627,6 @@ You won't lose us...
 
 **Dori:** (That was an obvious enough hint for them, right? Right...?)
 
-#### Scene
 
 **Dori:** Let's see now, let's see...
 
@@ -3780,7 +3753,6 @@ No.
 
 **The Damselette:** Happy Moon-Prayer Night.
 
-#### Scene
 
 **Marionette:** Well, well, look who it is? I heard someone went and disappeared on us the moment we let her out of our sight. They looked all over for you.
 
@@ -3842,7 +3814,6 @@ No.
 
 **Marionette:** ...What!?
 
-#### Scene
 
 **Marionette:** Ah! Argh!!!
 
@@ -4000,7 +3971,6 @@ It's okay. We snapped a photo.
 
 **Marionette:** Tear it up! NOW!!!
 
-#### Scene
 
 **Limppu:** Moon-Prayer Candy! Beautiful, tasty Moon-Prayer Candy! Buy a whole box, share it with your friends and family!
 
@@ -4724,7 +4694,6 @@ Hmm...
 
 **派蒙:** 嗯，你说得对，继续前进吧！
 
-#### 场景
 
 **「少女」:** 还是…没赶上吗…
 
@@ -5002,7 +4971,6 @@ Hmm...
 
 「祈月之夜」到了。在这最后的夜晚，她将留下怎样的回忆呢？
 
-#### 场景
 
 **雅珂达:** （哇，霜月之子这边的摊位虽然看起来有些朴素，但实际逛起来还挺有味道。）
 
@@ -5128,7 +5096,6 @@ Hmm...
 
 **雅珂达:** …我果然还是被卷进麻烦事里了啊！！
 
-#### 场景
 
 **索妮齐娅:** 欢迎回家，月神大人。要试试动物头饰吗？
 
@@ -5158,7 +5125,6 @@ Hmm...
 
 **索妮齐娅:** 嗯，想试的话欢迎您随时过来！
 
-#### 场景
 
 **加莉娜:** …晴天！我更喜欢晴天！
 
@@ -5348,7 +5314,6 @@ Hmm...
 
 **「少女」:** 好啊。
 
-#### 场景
 
 **卡嘉:** 「想要有吃不完的白灵果」…
 
@@ -5446,7 +5411,6 @@ Hmm...
 
 **菈乌玛:** 我也会一直祈祷，直到它们实现的那一天到来。
 
-#### 场景
 
 **贾契克:** …「旋转奇遇」，「嘟嘟可旋转奇遇」！
 
@@ -5568,7 +5532,6 @@ Hmm...
 
 **贾契克:** 哈哈，请放心吧，永远有下一段旅途在等着你们。
 
-#### 场景
 
 **艾莉丝:** 你很有天赋嘛！
 
@@ -5594,7 +5557,6 @@ Hmm...
 
 **「少女」:** 好的。
 
-#### 场景
 
 **法尔伽:** …也不能算不公平吧。
 
@@ -5676,7 +5638,6 @@ Hmm...
 
 **尼可:** 只会让丢人的程度加剧一层。
 
-#### 场景
 
 **尼可:** 恭喜！哥伦比娅小姐，你凭借你的智慧跨越了阻隔在你面前的重重障碍，成功突破了命运对你的考验。
 
@@ -5706,7 +5667,6 @@ Hmm...
 
 **「少女」:** 我知道你们为我做了很多，我才是一直收到礼物的那个呢…
 
-#### 场景
 
 **芭比洛斯:** 欢迎回家，月神大人。
 
@@ -5894,7 +5854,6 @@ Hmm...
 
 **芭比洛斯:** 嗯，去照亮自己的未来吧，哥伦比娅小姐。你现在散发的月光，在我看来已无比夺目。
 
-#### 场景
 
 **梅妲:** 我明明已经瞄准它了…
 
@@ -5940,7 +5899,6 @@ Hmm...
 
 **多莉:** （说得那么明白了，它们总该懂了吧…）
 
-#### 场景
 
 **多莉:** 我看看，我看看…
 
@@ -6067,7 +6025,6 @@ Hmm...
 
 **「少女」:** 祈月之夜快乐。
 
-#### 场景
 
 **「木偶」:** 哟，瞧瞧谁来了？听说一不留神某人就自顾自玩消失，找都找不回来。
 
@@ -6129,7 +6086,6 @@ Hmm...
 
 **「木偶」:** …哈？
 
-#### 场景
 
 **「木偶」:** 可…可恶！！
 
@@ -6287,7 +6243,6 @@ Hmm...
 
 **「木偶」:** 这种画片给我撕了！！！
 
-#### 场景
 
 **林布:** 祈月糖，好看又好吃的祈月糖，满满一盒装！可以和亲朋好友一同分享！
 

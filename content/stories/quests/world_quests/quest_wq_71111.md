@@ -26,7 +26,6 @@
 
 В разбитом на природе лагере вы встречаете встревоженного торговца...
 
-#### Сцена
 
 **Вэнь Хуа:** Люди добрые, помогите бедному старому человеку!
 
@@ -442,7 +441,6 @@
 
 You encounter an anxious merchant in a camp out in the wild...
 
-#### Scene
 
 **Wenhua:** Dear passersby, could you please help a poor old man?
 
@@ -858,7 +856,6 @@ So you wouldn't have returned it so easily had it not been for us, I take it?
 
 在野外的一处营地，你们遇见了一位焦急的商人……
 
-#### 场景
 
 **文华:** 路过的好心人啊，求求你们，帮老夫一把吧？
 

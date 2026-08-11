@@ -26,7 +26,6 @@
 
 К западу от Анклава Морозной Луны обнаружены густые заросли инеевых цветов...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -40,7 +39,6 @@
 
 Clusters of Frostlamp Flowers have been found west of Frostmoon Enclave...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -54,7 +52,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 在霜月之坊以西发现了丛生的霜盏花…
 
-#### 场景
 
 快速做好了调查的准备…
 

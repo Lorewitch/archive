@@ -836,7 +836,6 @@
 
 (Авин упала, а коляска покатилась дальше. Скорее всего, она где-то впереди.)
 
-#### Сцена
 
 **Ёимия:** Ничего, теперь ты в безопасности.
 
@@ -844,17 +843,14 @@
 
 (Здесь коляска замедлилась. Наверное, уже недалеко.)
 
-#### Сцена
 
 **Невида:** Извини, я никого не видела. Целый день разбирала жалобы и споры.
 
 **Невида:** Но если с девочкой правда что-то случилось, первым делом доставьте её в Бимарстан. Я всё устрою.
 
-#### Сцена
 
 **Ахангар:** Я буду смотреть в оба. Если увижу Авин, велю ей остаться и ждать вас здесь.
 
-#### Сцена
 
 **Джахан:** Поторопитесь! Промедление может стоить вам слишком дорого...
 
@@ -1062,15 +1058,12 @@
 
 **Арапурва:** Правда... здесь нет ничего сложного. Я покажу дорогу.
 
-#### Сцена
 
 **Нидал:** Если у вас всё, я вернусь к патрулированию.
 
-#### Сцена
 
 **Гурген:** Ой, не знаю. Я возился с травами...
 
-#### Сцена
 
 **Салар:** Девочка на инвалидной коляске? Извини, я тут наводил порядок, никого не видел.
 
@@ -2242,7 +2235,6 @@ Of course. Avin's safety is more important.
 
 (After Avin fell off, the wheelchair would've kept going. It should be somewhere up ahead.)
 
-#### Scene
 
 **Yoimiya:** It's okay, you're alright now.
 
@@ -2250,17 +2242,14 @@ Of course. Avin's safety is more important.
 
 (It must've slowed down. Can't be far now.)
 
-#### Scene
 
 **Nevida:** I'm very sorry, but I haven't seen this child. I've been settling disputes all day.
 
 **Nevida:** If they have suffered an accident, please send them to Bimarstan immediately. I can help you make arrangements.
 
-#### Scene
 
 **Ahangar:** I'll keep an eye out for you. If I see her, I'll try to keep her here with me.
 
-#### Scene
 
 **Jahan:** Go. Go quickly. Any delay could be costly.
 
@@ -2468,15 +2457,12 @@ Yoimiya, can we talk?
 
 **Arapurva:** It is not very complicated or difficult, though. Let me lead the way.
 
-#### Scene
 
 **Nidal:** If that's all, then, I'll be continuing my patrol.
 
-#### Scene
 
 **Gurgen:** Mm, sorry, I'm not sure. I've been tending to the herbs.
 
-#### Scene
 
 **Salar:** A child in a wheelchair? Sorry, I didn't see anyone like that. I was organizing some things.
 
@@ -3648,7 +3634,6 @@ An Aranara Carving...
 
 （艾文摔下来之后，轮椅还在继续往前滑，应该是前面这个方向。）
 
-#### 场景
 
 **宵宫:** 没事了哦，已经没危险了。
 
@@ -3656,17 +3641,14 @@ An Aranara Carving...
 
 （速度慢了一些，应该不远了。）
 
-#### 场景
 
 **妮维妲:** 不好意思，我之前一直在处理纠纷，没看到你们说的小孩子。
 
 **妮维妲:** 如果孩子真的遇到什么意外，记得第一时间送到「健康之家」，我可以帮你们安排。
 
-#### 场景
 
 **阿汉格尔:** 我也会帮你们留意，如果看见了她，我就先把她留在我这里。
 
-#### 场景
 
 **贾汉:** 你们快去吧，耽误了就不好了。
 
@@ -3874,15 +3856,12 @@ An Aranara Carving...
 
 **兰浮婆:** 不过嘛…也不是很复杂，很困难的事。就让老身来带路吧。
 
-#### 场景
 
 **尼达尔:** 没有别的事，我就继续巡逻了。
 
-#### 场景
 
 **古尔根:** 唔，我不太清楚，我在照看草药。
 
-#### 场景
 
 **萨拉尔:** 坐轮椅的孩子？抱歉，我刚刚在整理东西，没看到。
 

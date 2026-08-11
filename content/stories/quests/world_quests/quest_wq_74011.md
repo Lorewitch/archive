@@ -26,7 +26,6 @@
 
 Вы решили помочь Канотиле раскрыть тайну загадочной книги...
 
-#### Сцена
 
 **Паймон:** Эй, что ты делаешь под водопадом? Собираешься душ принять?
 
@@ -165,7 +164,6 @@
 
 **Канотила:** Я должна понять, что написано в той странной книге.
 
-#### Сцена
 
 **Канотила:** Отлично! Давай попробуем вложить оставшиеся страницы!
 
@@ -490,7 +488,6 @@
 
 To investigate the secrets of the unfathomable book, you decide to work alongside Canotila...
 
-#### Scene
 
 **Paimon:** Hey, what are you doing under a waterfall? Are you gonna take a bath or something?
 
@@ -629,7 +626,6 @@ There is a soft chime, and the shallow pool before you suddenly becomes unfathom
 
 **Canotila:** I must find a way to understand that strange book.
 
-#### Scene
 
 **Canotila:** Awesome! Let's put another page in now, shall we?
 
@@ -954,7 +950,6 @@ We shouldn't get too close... just in case.
 
 为了调查无法读懂的书的秘密，你决定和夏诺蒂拉一起行动…
 
-#### 场景
 
 **派蒙:** 哎呀，你怎么待在瀑布下面啦，该不会是准备要冲澡吧？
 
@@ -1093,7 +1088,6 @@ We shouldn't get too close... just in case.
 
 **夏诺蒂拉:** 得想办法读懂那本奇怪的书才行。
 
-#### 场景
 
 **夏诺蒂拉:** 好厉害，再试试剩下的书页看看吧！
 

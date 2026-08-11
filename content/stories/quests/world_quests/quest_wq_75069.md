@@ -24,7 +24,6 @@
 
 ### Искажённое расширение
 
-#### Сцена
 
 **Кенин:** Ох, сюда мало кто заходит. Это опасное место.
 
@@ -34,7 +33,6 @@
 
 **Кенин:** Здесь я могу обрести немного спокойствия... Водопад... Шум водопада заглушает остальные звуки.
 
-#### Сцена
 
 **Дневник Кенина:** (Порванная страница с аккуратным почерком в начале...)
 
@@ -64,7 +62,6 @@
 
 ### Twisted Extension
 
-#### Scene
 
 **Quenin:** Ah, this place... Few visit it... After all, it's dangerous here.
 
@@ -74,7 +71,6 @@
 
 **Quenin:** It's pretty quiet around here thanks to the waterfall. Haha... The roar of the falls drowns out everything else, so you can't hear a thing.
 
-#### Scene
 
 **Quenin's Diary:** (A torn page, with neatly written words at the beginning...)
 
@@ -104,7 +100,6 @@
 
 ### 扭曲的延伸
 
-#### 场景
 
 **夸恩因:** 啊呀，这里，很少有人来呢…因为毕竟是，危险的地方。
 
@@ -114,7 +109,6 @@
 
 **夸恩因:** 在这里反而能平静一点，因为瀑布，呵呵…因为瀑布的声音充斥了耳朵，所以，就听不见别的东西了。
 
-#### 场景
 
 **夸恩因的日记:** （破碎的纸张，一开始，写着整齐的文字…）
 

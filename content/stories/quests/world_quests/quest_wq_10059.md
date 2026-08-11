@@ -124,7 +124,6 @@
 
 Выслушав Эбоси, вы подумали, почему бы не принять участие в испытаниях в трёх уголках Энканомии.
 
-#### Сцена
 
 **Эбоси:** Раз я здесь, значит, кровавый коралл в руках Ватацуми. Это утешает.
 
@@ -364,7 +363,6 @@ Accepting the trial, you prepare to go to the Serpent's Heart to search for The 
 
 Having heard Eboshi's introduction, you decide that it should be alright to head to the three corners of Enkanomiya to take part in the trials.
 
-#### Scene
 
 **Eboshi:** That I have appeared before you must mean that the Bloodbranch Coral is in Watatsumi's hands. And a most comforting thought that is.
 
@@ -604,7 +602,6 @@ The Emanant Skylight?
 
 听闻了乌帽子巫女的介绍，你觉得前往渊下宫边陲三角进行试炼也无不可。
 
-#### 场景
 
 **乌帽子:** 此身既然已经显现，那血枝珊瑚应该已入海祇之手。让人欣慰。
 

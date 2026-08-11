@@ -26,7 +26,6 @@
 
 Фонтейнский энтузиаст приглашает вас исследовать подводные руины в поисках легендарного сокровища «Креста и лилии».
 
-#### Сцена
 
 **Виржиль:** Сегодня прекрасная погода, не правда ли, блистательный господин / прекрасная госпожа? Виржиль, к вашим услугам.
 
@@ -210,6 +209,7 @@
 
 **Паймон:** Ох, Путешественник, приготовься!
 
+#### Изучите руины Научного общества
 #### Двигайтесь вглубь
 
 **Виржиль:** Хм, гляну-ка и я... Эх, так это Институт натурфилософии? Похоже, это не то место, куда мы направлялись..
@@ -474,7 +474,6 @@
 
 **Виржиль:** Ладно. Но позволь напомнить тебе, что нам лучше поторопиться. Сокровище не ждёт.
 
-#### Сцена
 
 **Виржиль:** Ну что, ты готов(а)?
 
@@ -484,7 +483,6 @@
 
 A very enthusiastic Fontainian invites you to explore underwater ruins in search of the legendary Liliacruces Treasure.
 
-#### Scene
 
 **Virgil:** I must say, the weather today is simply wonderful! You are quite the dashing young gentleman / beautiful young lady! Virgil, at your service.
 
@@ -668,6 +666,7 @@ Beat you up?
 
 **Paimon:** Ugh, Traveler, get ready!
 
+#### Explore the former site of the Liliacruces Forum
 #### Proceed deeper
 
 **Virgil:** Let me see... Hmph, so this is actually the "Institute of Natural Philosophy"? Looks like the wrong place after all...
@@ -932,7 +931,6 @@ Wait, let me prepare first.
 
 **Virgil:** Very well. But please allow me to remind you to make it quick. Treasure hates waiting.
 
-#### Scene
 
 **Virgil:** Well? Are you ready?
 
@@ -942,7 +940,6 @@ Wait, let me prepare first.
 
 偶然遇到的热情枫丹人，邀请我们一同深入水下，寻找传说中的「十字铃兰秘宝」。
 
-#### 场景
 
 **维吉尔:** 多么可爱的天气呀，英俊的先生 / 美丽的小姐！维吉尔，为您效劳。
 
@@ -1128,7 +1125,6 @@ Wait, let me prepare first.
 
 #### 探索「学会场馆遗址」
 
-（test）玻璃出现裂缝，你和派蒙被水流冲走了
 
 #### 继续深入探索
 
@@ -1394,6 +1390,5 @@ Wait, let me prepare first.
 
 **维吉尔:** 好的。但请允许我恳请二位尽快，毕竟宝藏不等人哪。
 
-#### 场景
 
 **维吉尔:** 如何？准备好了吗？

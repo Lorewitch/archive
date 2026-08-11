@@ -26,7 +26,6 @@
 
 Кажется, неизвестные украли товар Юфтена. Нужно скорее его вернуть.
 
-#### Сцена
 
 **Юфтен:** А, э-это в-вы, уважаемый повелитель / уважаемая повелительница джиннов.
 
@@ -128,7 +127,6 @@
 
 **Паймон:** О нет, не говори так, Паймон это не нравится... Но, раз уж ты не боишься, можем продолжить расследование.
 
-#### Сцена
 
 **Юфтен:** Это очень в-важно. Отправляйтесь и расскажите об этом матриарху Бабель как можно скорее.
 
@@ -368,7 +366,6 @@
 
 **Паймон:** Именно поэтому так и страшно...
 
-#### Сцена
 
 **Исследовать:** (Разбитый ящик со следами, указывающими на то, что в нём находилось что-то живое... Что бы это ни было, теперь оно на свободе.)
 
@@ -376,7 +373,6 @@
 
 **Паймон:** Кхе-кхе... Не будем здесь задерживаться. Впереди другие улики, которые могут привести нас к Джехт!
 
-#### Сцена
 
 **Исследовать:** (Это жёсткое полотно, возможно, когда-то было частью знамени или палатки Фатуи. Оно разорвано, и невозможно определить его форму.)
 
@@ -895,17 +891,14 @@
 
 **Исследовать:** Делать нечего, давай отправимся туда, куда они ушли.
 
-#### Сцена
 
 **Исследовать:** (Пустой деревянный ящик, который ещё не накрыли пески. Очевидно, его выкинули совсем недавно. Те, кто сделал это, не успели уйти далеко.)
 
-#### Сцена
 
 **Исследовать:** (Снаряжение, очевидно принадлежащее Застрельщикам Фатуи. Неизвестно, что произошло и почему его здесь бросили. Внутри немало песка...)
 
 **Исследовать:** (...Теперь его точно будет очень неудобно носить.)
 
-#### Сцена
 
 **Исследовать:** (Открытый коробок спичек с отметкой Фатуи в виде Глаза Порчи. Вокруг разбросаны спички. Ветер ещё не занёс их песком.)
 
@@ -1261,13 +1254,11 @@
 
 **Исследовать:** Ни слова о Джехт... Продолжим поиски и посмотрим, есть ли в лагере другие документы.
 
-#### Сцена
 
 **Исследовать:** Вот оно что... Они ведут Джехт в ущелье!
 
 **Исследовать:** Хм... Здесь упоминается ещё один документ. Давай поищем и его.
 
-#### Сцена
 
 **Исследовать:** Хм... Здесь упоминается ещё один документ. Давай поищем и его.
 
@@ -1287,7 +1278,6 @@
 
 **Паймон:** Нужно торопиться! Вперёд на поиски Джехт!
 
-#### Сцена
 
 **Бабель:** Ты (вернулась)(вернулся). Есть какие-нибудь новости о Джехт?
 
@@ -1321,7 +1311,6 @@
 
 Yuften's goods appear to have been stolen by some unknown party. They need to be recovered.
 
-#### Scene
 
 **Yuften:** Ah, Master of the Jinni! Y—you're here.
 
@@ -1423,7 +1412,6 @@ To lure us.
 
 **Paimon:** Oh, the way you say that isn't making Paimon feel good at all... But since you're not scared, maybe we should keep going...
 
-#### Scene
 
 **Yuften:** This matter is e—extremely urgent! P—please go inform the Matriarch.
 
@@ -1663,7 +1651,6 @@ Relax, there's nothing scary here.
 
 **Paimon:** That's exactly what makes this place creepy...
 
-#### Scene
 
 **Investigate:** (A smashed crate, with traces suggesting that it once contained something that was alive... But whatever it was, it is now free.)
 
@@ -1671,7 +1658,6 @@ Relax, there's nothing scary here.
 
 **Paimon:** Let's not stay here. There are other signs ahead that might lead us to Jeht's location!
 
-#### Scene
 
 **Investigate:** (This tough canvas may once have been a part of a Fatui banner or tent. It's been torn apart to the point where you cannot discern its shape.)
 
@@ -2190,17 +2176,14 @@ Guess we have to try them one by one.
 
 **Investigate:** Well, let's catch up in the direction they left, shall we?
 
-#### Scene
 
 **Investigate:** (An empty wooden box, which has not been buried by the sands yet. Obviously, it was just recently abandoned, and the owner should not have gone far.)
 
-#### Scene
 
 **Investigate:** (Apparently, these are military assets belonging to the Fatui Skirmishers. It is unclear how they ended up here. They're already filled with sand...)
 
 **Investigate:** (Wearing these now must be extra tormenting...)
 
-#### Scene
 
 **Investigate:** (An opened matchbox with the Fatui's Delusion logo printed on it. Used matchsticks are scattered around it, not yet buried by the sands.)
 
@@ -2556,13 +2539,11 @@ Tell me where she is and you can go home.
 
 **Investigate:** There's nothing about Jeht... Let's keep looking and see if there're any other files at the camp.
 
-#### Scene
 
 **Investigate:** That's how it is... They're taking Jeht to the canyon!
 
 **Investigate:** Hmm... There's another document mentioned here. Why don't we search that one, too?
 
-#### Scene
 
 **Investigate:** Hmm... There's another document mentioned here. Why don't we search that one, too?
 
@@ -2582,7 +2563,6 @@ Tell me where she is and you can go home.
 
 **Paimon:** Let's hurry!
 
-#### Scene
 
 **Babel:** You're back. Is there any news about Jeht?
 
@@ -2616,7 +2596,6 @@ Tell me where she is and you can go home.
 
 尤夫腾似乎有一批货物被不明人士劫走了，要尽快追回才行。
 
-#### 场景
 
 **尤夫腾:** 啊，「镇灵主人」，您、您、您来了。
 
@@ -2718,7 +2697,6 @@ Tell me where she is and you can go home.
 
 **派蒙:** 唔，你说的好可怕…哼，但既然你都不怕，我们就继续顺着道路探查吧。
 
-#### 场景
 
 **尤夫腾:** 这件事情很、很紧急，请、请、请快去告诉主母吧。
 
@@ -2958,7 +2936,6 @@ Tell me where she is and you can go home.
 
 **派蒙:** 就是因为这样才吓人呀…
 
-#### 场景
 
 **调查:** （被外力砸烂的板条箱，点点痕迹暗示里面曾经装着什么活物…但无论那是什么，现在它们都自由了。）
 
@@ -2966,7 +2943,6 @@ Tell me where she is and you can go home.
 
 **派蒙:** 咳、咳…！我们别留在这里啦，前面还有别的遗骸，说不定能引导我们找到婕德所在的地方！
 
-#### 场景
 
 **调查:** （质地坚韧的帆布，可能曾经是愚人众的旗帜或帐篷。已经被撕裂、无从分辨形状了。）
 
@@ -3485,17 +3461,14 @@ Tell me where she is and you can go home.
 
 **调查:** 没办法啦，我们也顺着他们离开的方向追上去吧？
 
-#### 场景
 
 **调查:** （空空的木箱，还没有被风沙掩埋，显然是最近才被丢弃的，失主应该还没有走多远。）
 
-#### 场景
 
 **调查:** （显然是属于愚人众先遣队的军事资产，不知发生了什么才会被遗落在这里，里面已经盛装了不少沙子…）
 
 **调查:** （…再穿起来一定很难受。）
 
-#### 场景
 
 **调查:** （被拆散的火柴盒，其上印有愚人众的「邪眼」标志，周围散落着用过的火柴梗，还没有被风沙埋住。）
 
@@ -3851,13 +3824,11 @@ Tell me where she is and you can go home.
 
 **调查:** 没有关于婕德的信息…我们再继续找找看，营地里还有没有其他文件吧？
 
-#### 场景
 
 **调查:** 原来是这样…他们把婕德带去峡谷了！
 
 **调查:** 嗯…这上面提到了还有另一份文件，我们也搜索一下那一份吧？
 
-#### 场景
 
 **调查:** 嗯…这上面提到了还有另一份文件，我们也搜索一下那一份吧？
 
@@ -3877,7 +3848,6 @@ Tell me where she is and you can go home.
 
 **派蒙:** 既然这样，我们就快点继续前进吧！去找到婕德！
 
-#### 场景
 
 **芭别尔:** 你来了，请问有婕德的消息了吗？
 

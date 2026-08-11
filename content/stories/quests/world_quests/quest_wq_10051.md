@@ -766,7 +766,6 @@
 
 **Чжи Цюн:** Вокруг этого кристалла... есть три странных устройства. Мы должны изучить их. Согласны?
 
-#### Сцена
 
 **Клитофо:** Ну как? Возникли ли какие-либо проблемы при использовании эссенции неподвижности?
 
@@ -1140,7 +1139,6 @@
 
 **Чжи Цюн:** Я уверена, что вы справитесь без моей помощи!
 
-#### Сцена
 
 **Чжи Цюн:** Путешественни(ца)(к)! Привет!
 
@@ -1194,7 +1192,6 @@
 
 **Чжи Цюн:** Ха-ха, но это не идёт ни в какое сравнение с вашей битвой с морским чудовищем на террасе Нефритового дворца... Сама я этого не видела, но послушала все рассказы об этой эпичной битве!
 
-#### Сцена
 
 **Чжи Цюн:** Не волнуйся, я никуда не денусь. Добудь Адъювант светоносного камня и возвращайся.
 
@@ -1216,7 +1213,6 @@
 
 **Чжи Цюн:** Возможно, «нечто» внизу становится активнее... поэтому Цисин отправили нас вниз, чтобы провести расследование.
 
-#### Сцена
 
 **Чжи Цюн:** Пожалуйста, не разговаривайте со мной некоторое время, иначе я снова буду наказана...
 
@@ -1224,7 +1220,6 @@
 
 **Чжи Цюн:** Не переживай по пустякам...
 
-#### Сцена
 
 **Му Нин:** Что я говорил! Ты должна охранять склад! Почему тебя нет на посту?
 
@@ -1262,7 +1257,6 @@
 
 **Чжи Цюн:** На этот раз наша цель - добраться до самого глубокого уровня Разлома, составить его карту и... э-э... исследовать источник аномалий.
 
-#### Сцена
 
 **Му Нин:** Если ты действительно меня понял(а), то я прошу тебя не ошиваться здесь.
 
@@ -2782,7 +2776,6 @@ How's Zhiqiong doing?
 
 **Zhiqiong:** There are three strange devices around this crystal... thing. We should probably investigate them. What do you think?
 
-#### Scene
 
 **Clitopho:** How was it? Did you have any trouble putting the Unmoving Essential Oil together?
 
@@ -3156,7 +3149,6 @@ Not coming along with us?
 
 **Zhiqiong:** Still, I believe that this riddle will be no match for the two of you at all!
 
-#### Scene
 
 **Zhiqiong:** Ah, it's you! Hello there!
 
@@ -3210,7 +3202,6 @@ Muning was the one who introduced me. This is his...
 
 **Zhiqiong:** Haha! I mean, you had that great battle with that sea monster on the Jade Chamber. Now, I wasn't there to witness the event, mind you, but I haven't missed a single telling of that story!
 
-#### Scene
 
 **Zhiqiong:** Don't worry, I won't run off. Just retrieve the Lumenstone Adjuvant, and things should go fine.
 
@@ -3232,7 +3223,6 @@ What is that?
 
 **Zhiqiong:** Perhaps that "thing" below is growing restless... and that is why the Qixing has sent us to investigate.
 
-#### Scene
 
 **Zhiqiong:** Please don't talk to me for the time being, or I'll get in trouble again...
 
@@ -3240,7 +3230,6 @@ What is that?
 
 **Zhiqiong:** Uh, just don't sweat that...
 
-#### Scene
 
 **Muning:** See? What did I say? You weren't guarding the warehouse as you should've at all!
 
@@ -3278,7 +3267,6 @@ What is that?
 
 **Zhiqiong:** Our purpose this time is to reach the deepest level of The Chasm, map it, and... uh, investigate the source of the anomalies.
 
-#### Scene
 
 **Muning:** If you understood what I said at all, please stop hanging around this place.
 
@@ -4798,7 +4786,6 @@ You accept Xu's commission to deliver the Mora Xingqiu has lent out to the Minis
 
 **志琼:** 在这个奇怪的…晶石周围，有三个奇怪的机关，我觉得应该去调查一下它们，前辈意下如何？
 
-#### 场景
 
 **克里托夫:** 怎么样？磐石精油调配有困难吗？
 
@@ -5172,7 +5159,6 @@ You accept Xu's commission to deliver the Mora Xingqiu has lent out to the Minis
 
 **志琼:** 不过我相信，这点问题即使靠两位前辈也是能解决的！
 
-#### 场景
 
 **志琼:** 欸，是你呀！你好！
 
@@ -5226,7 +5212,6 @@ You accept Xu's commission to deliver the Mora Xingqiu has lent out to the Minis
 
 **志琼:** 哈哈，就比方说两位在群玉阁上大战海魔的事迹…虽然我没有现场目睹，但评书我可一场都没落下过！
 
-#### 场景
 
 **志琼:** 放心吧，我不会到处乱跑的。把流明石触媒取回来就好。
 
@@ -5248,7 +5233,6 @@ You accept Xu's commission to deliver the Mora Xingqiu has lent out to the Minis
 
 **志琼:** 或许下面的那「东西」开始变得不安分了吧…这也是七星之所以派我们下去调查的原因。
 
-#### 场景
 
 **志琼:** 请暂时不要和我说话，不然我又会受处分的…
 
@@ -5256,7 +5240,6 @@ You accept Xu's commission to deliver the Mora Xingqiu has lent out to the Minis
 
 **志琼:** 不要在意那种小事啦…
 
-#### 场景
 
 **沐宁:** 瞧我说什么来着！你果然没有老老实实看守仓库！
 
@@ -5294,7 +5277,6 @@ You accept Xu's commission to deliver the Mora Xingqiu has lent out to the Minis
 
 **志琼:** 我们这次的目的，是进入层岩巨渊的最深层，测绘地图，以及…嗯，调查层岩巨渊异变的源头。
 
-#### 场景
 
 **沐宁:** 要是真明白了我的话，就请不要在这里晃来晃去了。
 

@@ -130,7 +130,6 @@
 
 **Осси:** (Доверьтесь мне...)
 
-#### Сцена
 
 **Боэций:** Что?! Как же...
 
@@ -170,7 +169,6 @@
 
 **Боэций:** Помнишь мои слова, Путешественник? Пора!
 
-#### Сцена
 
 **Паймон:** Ох, у Паймон голова кружится...
 
@@ -270,7 +268,6 @@
 
 **Кассиодор:** Поэтому его величество... судьба... привели тебя сюда, мой друг!
 
-#### Сцена
 
 **Паймон:** Господин Осси... Это ты?..
 
@@ -506,7 +503,6 @@ We're about to add some end bar lines to your score.
 
 **Osse:** (Just trust me...)
 
-#### Scene
 
 **Boethius:** What!? How...
 
@@ -546,7 +542,6 @@ We're about to add some end bar lines to your score.
 
 **Boethius:** Do you remember my words, Traveler? Now is the time!
 
-#### Scene
 
 **Paimon:** Ooh, Paimon's kinda dizzy now...
 
@@ -646,7 +641,6 @@ But...
 
 **Cassiodor:** That is why the Imperator... why fate brought you here, my friend!
 
-#### Scene
 
 **Paimon:** Monsieur Os... Is that you...?
 
@@ -882,7 +876,6 @@ But...
 
 **小呜斯:** （相信我…）
 
-#### 场景
 
 **波爱修斯:** 什么？！怎么会…
 
@@ -922,7 +915,6 @@ But...
 
 **波爱修斯:** 旅行者，还记得我说过的话吗，就是现在了！
 
-#### 场景
 
 **派蒙:** 呜啊，感觉晕乎乎的…
 
@@ -1022,7 +1014,6 @@ But...
 
 **卡西奥多:** 也就是因此，我的朋友，王上…命运才会让你来到这里的！
 
-#### 场景
 
 **派蒙:** 呜斯先生…是你吗…
 

@@ -630,7 +630,6 @@
 
 **Эола:** Ладно, давайте начнём.
 
-#### Сцена
 
 **Рэндалл:** Похоже, ты больше не ищешь других людей...
 
@@ -1816,7 +1815,6 @@ So you knew all along that we'd encounter these kinds of problems?
 
 **Eula:** Let's proceed, shall we?
 
-#### Scene
 
 **Randall:** So it seems you've finally given up on the idea of finding more people to talk to.
 
@@ -3002,7 +3000,6 @@ So, does that make us your "arch-enemies"?
 
 **优菈:** 好了，我们一起过去吧。
 
-#### 场景
 
 **兰道尔:** 看来你们终于不打算再去找其他人了…
 

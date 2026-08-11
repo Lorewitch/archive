@@ -26,7 +26,6 @@
 
 Найдутся ли в руинах подсказки о том, как попасть в Великий вулкан Толлан?..
 
-#### Сцена
 
 **Нзая:** Ох, надо же... Спасибо... Спасибо за помощь! Монстры появились как из ниоткуда, и сладить с ними... непросто, мы бы надолго тут застряли...
 
@@ -950,7 +949,6 @@
 
 One wonders if there are any clues to be found for entering the Great Volcano of Tollan amidst these crumbling ruins...
 
-#### Scene
 
 **Nzaya:** We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time...
 
@@ -1874,7 +1872,6 @@ Uhh... I take it you're "Uncle Kimosi"?
 
 不知在这个破碎的遗迹之中，有没有得知如何前往图兰大火山之内的线索…
 
-#### 场景
 
 **妮扎娅:** 真是…啊，真是多谢你们的援助…这些怪物突然涌出来，真是难办，战斗可得花很多时间…
 

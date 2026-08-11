@@ -26,7 +26,6 @@
 
 Цюй Цин, хозяйка нового магазина напитков на северном причале Ли Юэ, просит о помощи...
 
-#### Сцена
 
 **Цюй Цин:** Добро пожаловать, дорогие гости! Что желаете выпить?
 
@@ -150,7 +149,6 @@
 
 Quqing, the owner of the new beverage shop on the northern pier of Liyue Harbor, seems to be asking for help...
 
-#### Scene
 
 **Quqing:** Welcome! What would you two like to drink?
 
@@ -274,7 +272,6 @@ So that's how the story goes...
 
 璃月港北码头的新店店主曲清似乎在寻求帮助…
 
-#### 场景
 
 **曲清:** 欢迎光临，两位客人想喝点什么？
 

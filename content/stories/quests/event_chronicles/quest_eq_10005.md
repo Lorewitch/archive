@@ -42,7 +42,6 @@
 
 **???:** Погодите-ка... Да никакие вы не Похитители сокровищ! Отвечайте, кто вы такие?!
 
-#### Сцена
 
 **Паймон:** Что ты задумал?! Выкладывай!
 
@@ -144,7 +143,6 @@ Through Kaeya's informant, you found out that it's a kind of communication marki
 
 **???:** Wait a second now... You folks ain't no Treasure Hoarders! What game are you two playing!?
 
-#### Scene
 
 **Paimon:** Tell us your diabolical plan, now! It's over, buster!
 
@@ -246,7 +244,6 @@ Thank you... and Happy New Year.
 
 **？？？:** 你们，不是盗宝团的人！你们是什么人？
 
-#### 场景
 
 **派蒙:** 快把你的阴谋诡计招了！
 

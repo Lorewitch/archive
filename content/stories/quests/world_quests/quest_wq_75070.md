@@ -26,7 +26,6 @@
 
 Давай полетим со мной, давай полетим, давай улетим... Но не слишком далеко, хорошо?
 
-#### Сцена
 
 **Магнифико:** Ха-ха! Я знал, что мы встретимся снова! Вы как раз вовремя, сейчас вы увидите мой второй шедевр!
 
@@ -66,7 +65,6 @@
 
 **Малыш:** ?
 
-#### Сцена
 
 **Магнифико:** В чём дело? Малыши вас не слушаются?
 
@@ -131,7 +129,6 @@
 
 Come fly with me, let's fly, let's fly away~ Uh, but not too far away, okay?
 
-#### Scene
 
 **Magnifico:** Haha! I knew we'd meet again! Your timing is impeccable, too — you are about to witness my second masterpiece!
 
@@ -171,7 +168,6 @@ Come fly with me, let's fly, let's fly away~ Uh, but not too far away, okay?
 
 **Little One:** ?
 
-#### Scene
 
 **Magnifico:** What's up? Are those little ones refusing to listen to you as well?
 
@@ -236,7 +232,6 @@ As the balloon slowly disappears, his boisterous laughter is reduced to a distan
 
 伴我一同飞翔，一起飞向远方~ 呃，但请不要飞太远，谢谢。
 
-#### 场景
 
 **马尼菲科:** 哈哈！我就知道我们会再次见面！瞧瞧你们来得多巧！你们即将见证我拍下人生中第二件杰作！
 
@@ -276,7 +271,6 @@ As the balloon slowly disappears, his boisterous laughter is reduced to a distan
 
 **小家伙:** ？
 
-#### 场景
 
 **马尼菲科:** 有什么事吗？那些小家伙也不听你使唤吗？
 

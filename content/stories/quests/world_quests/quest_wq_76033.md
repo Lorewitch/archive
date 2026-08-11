@@ -26,7 +26,6 @@
 
 Прислушайтесь к шёпоту призраков, отыщите их имена.
 
-#### Сцена
 
 **Одержимый едой призрак:** Эй, (новенькая)(новичок)! Так дело не пойдёт.
 
@@ -80,7 +79,6 @@
 
 Listen to the ghosts' whispers and retrieve their names.
 
-#### Scene
 
 **Food-Obsessed Phantom:** Hey, newbie. You can't be making food like that.
 
@@ -134,7 +132,6 @@ Listen to the ghosts' whispers and retrieve their names.
 
 倾听幽灵的低语，找回他们的名字。
 
-#### 场景
 
 **执着于食物的幽影:** 喂，新来的，菜不能这么做。
 

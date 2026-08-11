@@ -26,7 +26,6 @@
 
 В деревне Аару одному торговцу из Мондштадта требуется помощь искателя приключений.
 
-#### Сцена
 
 **Бонифаций:** Эй, привет! Судя по твоей одежде, ты здесь не местн(ая)(ый), да? В этих местах редко встречаются чужеземцы. Стоило мне на вас посмотреть, так я сразу понял, что вы не из здешних мест.
 
@@ -250,7 +249,6 @@
 
 **Бонифаций:** Я рассчитываю на вас!
 
-#### Сцена
 
 **Катерина:** Путешественник, Паймон, у меня для вас есть срочное задание.
 
@@ -264,7 +262,6 @@
 
 **Катерина:** Клиента зовут Бонифаций, и он всё ещё в деревне Аару. Более подробную информацию он даст вам лично. Счастливого пути.
 
-#### Сцена
 
 **Паймон:** Смотри, там пещера. Давай посмотрим, что там внутри.
 
@@ -976,15 +973,12 @@
 
 **Джехт:** Хорошо!
 
-#### Сцена
 
 **Мирсад:** Я думал, мой наниматель просто сделает кружок по пустыне и вернётся обратно, что всё будет скучно и предсказуемо. А вышло вот как. Было немного страшно, но я люблю острые ощущения.
 
-#### Сцена
 
 **Омид:** Я просто хотел быстро подзаработать, чтобы открыть своё дело, но это едва не стоило мне жизни...
 
-#### Сцена
 
 **Тирзад:** Ну, теперь вы всё знаете. Пора искать Джехт и остальных.
 
@@ -992,7 +986,6 @@
 
 Вместе с командой археологов вы выбрались из ямы. Теперь пришло время отправиться в оазис, о котором говорил Джебраил, и разбить там лагерь.
 
-#### Сцена
 
 **Паймон:** Паймон не думала, что в пустыне есть такие места...
 
@@ -1054,7 +1047,6 @@
 
 **Джебраил:** Я просто невежа. Про царя Дешрета могу только старые байки рассказать, которые никто не захочет слушать.
 
-#### Сцена
 
 **Джехт:** По словам Нахтигара, Путешественник победил(а) Ужас Бури в Мондштадте и теперь носит титул почётного рыцаря!
 
@@ -1241,7 +1233,6 @@
 
 **Паймон:** Путешественник, если всё готово, давай отправляться!
 
-#### Сцена
 
 **Джехт:** А? Я думала, что в этот раз всё пройдёт как по маслу, а в итоге нужно придумывать, как открыть двери...
 
@@ -1335,7 +1326,6 @@
 
 **Паймон:** Путешественник, пошли скорее!
 
-#### Сцена
 
 **Паймон:** Бенбен всё время крутился у двери, но на этот раз он не смог помочь.
 
@@ -1425,11 +1415,9 @@
 
 **Джехт:** А, да! Ведь Нахтигар ждёт нас в оазисе. Давайте продолжим исследование!
 
-#### Сцена
 
 **Бенбен:** Бип... Бип-бип?
 
-#### Сцена
 
 **Тирзад:** Ох, я так устал. А ещё больше устаю от размышлений о том, что ничего не добился, только нашёл Бенбена.
 
@@ -1517,7 +1505,6 @@
 
 **Джебраил:** Вы что-нибудь нашли? У меня здесь пока ничего.
 
-#### Сцена
 
 **Тирзад:** Отлично! Не зря я выбрал тебя в помощники! Никакие механизмы, никакие загадки не могут поставить тебя в тупик!
 
@@ -1549,7 +1536,6 @@
 
 **Нахтигар:** Давайте проверим наши запасы... Ещё надо отправить сумеречную птицу с письмом Бонифацию - пусть знает, что с нами всё в порядке.
 
-#### Сцена
 
 **Джехт:** Папа выглядит как-то... Может, он вспомнил о своей жизни в пустыне. Вот бы он рассказал вечером какую-нибудь историю.
 
@@ -1661,11 +1647,9 @@
 
 **Паймон:** Интересно, куда он ведёт... Но мы ничего не узнаем, если останемся на месте. Давайте пойдём и проверим?
 
-#### Сцена
 
 **Тирзад:** Интересно, получится ли написать работу про общение между Бенбеном и Джехт... И к какой области будет относиться эта работа?
 
-#### Сцена
 
 **Тирзад:** Я так и не нашёл ничего, о чём можно было бы написать... Если я вернусь и возьму с собой Бенбена, он пойдёт со мной?
 
@@ -1677,7 +1661,6 @@
 
 **Тирзад:** Точно! Ведь с самого начала я следовал за подсказками плиты. И как я мог забыть про свой первоначальный план!
 
-#### Сцена
 
 **Джехт:** Бенбен, похоже, очень хорошо знает эти места. И по какой-то причине его так и тянет к разным дверям.
 
@@ -1743,7 +1726,6 @@
 
 **Паймон:** Похоже, Бенбен очень хочет войти. Не будем медлить тогда.
 
-#### Сцена
 
 **Паймон:** Ого! Какие величественные руины!
 
@@ -1763,7 +1745,6 @@
 
 **Паймон:** (Юфайра? Паймон такого имени ещё не слышала.)
 
-#### Сцена
 
 **Джехт:** Ух... Хорошо, что с Бенбеном всё в порядке... В самом деле, больше так не убегай! Вдруг с тобой что-нибудь случится...
 
@@ -1791,7 +1772,6 @@
 
 **Джебраил:** ...Нам стоит разделиться и поискать подсказки.
 
-#### Сцена
 
 **Джехт:** Ох... Отца будто подменили. Что же тут происходит? Бенбен, ты что-нибудь знаешь об этом?
 
@@ -1801,7 +1781,6 @@
 
 **Тирзад:** Материала, который мы уже собрали... хватит для двух глав. Действительно хватит?
 
-#### Сцена
 
 **Тирзад:** Ох! Путешественник, ты просто (великолепна)(великолепен)! Если я смогу опубликовать научную работу, в этом будет и твоя заслуга.
 
@@ -1845,7 +1824,6 @@
 
 **Паймон:** Путешественник, давай поскорее найдём путь наверх. Если Тирзад продолжит в том же духе, ему будет грозить опасность...
 
-#### Сцена
 
 **Тирзад:** Думаю, здесь должны храниться «органы» царя Дешрета...
 
@@ -1943,7 +1921,6 @@
 
 **Паймон:** ...В любом случае давай поищем остальных!
 
-#### Сцена
 
 **Тирзад:** У-у-у... Наконец-то вы здесь! Мои спасители!
 
@@ -1985,7 +1962,6 @@
 
 **Джебраил:** Это место может быть куда более проблемным, чем мы ожидаем. Продвигаемся очень осторожно.
 
-#### Сцена
 
 **Джехт:** Та комната... Может, это была ловушка. Зачем нас отправили сюда?
 
@@ -2093,7 +2069,6 @@
 
 **Паймон:** Путешественник, этот Самиил силён. Однако ради Бенбена нам нужно хорошенько поколотить его!
 
-#### Сцена
 
 **Джехт:** Бенбен! Ты в порядке?
 
@@ -2191,7 +2166,6 @@
 
 **Паймон:** Паймон и Путешественник будем идти впереди. А вы все следуйте за нами.
 
-#### Сцена
 
 **Джехт:** Должно быть, это последняя...
 
@@ -3157,7 +3131,6 @@
 
 **Нахтигар:** Удачи в ваших приключениях.
 
-#### Сцена
 
 **Тирзад:** Кхэ! Бодрящий напиток Нахтигара очень крепок. Если бы я сейчас сел за стол, уверен, что смог бы за раз написать миллион слов.
 
@@ -3167,7 +3140,6 @@
 
 In Aaru Village, there is a merchant from Mondstadt who needs help from adventurers.
 
-#### Scene
 
 **Bonifaz:** Oh! Hello there! Judging from your attire, I take it you're not from around here? We don't get a lot of other outsiders here, I clocked you as being from somewhere else the moment I laid eyes on you.
 
@@ -3391,7 +3363,6 @@ Does the actual Cyrus know about this?
 
 **Bonifaz:** I'll leave the rest to you two!
 
-#### Scene
 
 **Katheryne:** Traveler, Paimon, it's good to see you! I've got an urgent commission I'd like to give you two.
 
@@ -3405,7 +3376,6 @@ Does the actual Cyrus know about this?
 
 **Katheryne:** The commissioner is named Bonifaz, and he's still in Aaru Village now. He can fill you in on the specifics. Safe travels, you two.
 
-#### Scene
 
 **Paimon:** There's a cavern here. C'mon, let's check it out.
 
@@ -4117,15 +4087,12 @@ That's a free Mondstadter for you.
 
 **Jeht:** Okay... got it!
 
-#### Scene
 
 **Mirsad:** I thought it'd be a short and even bland trip into the desert. But we instead got ourselves into something so crazy. It was a little scary, but I can't say I dislike it.
 
-#### Scene
 
 **Omid:** I just wanted to make some easy Mora so that I could start a business, but the job almost cost me my life...
 
-#### Scene
 
 **Tirzad:** I've said what I've got to say... Ahem, it's time to look for Jeht and the others.
 
@@ -4133,7 +4100,6 @@ That's a free Mondstadter for you.
 
 You have left the pit with the archaeological team. Now it is time to head over to the oasis Jebrael mentioned and get ready to camp there.
 
-#### Scene
 
 **Paimon:** Paimon never thought that there'd be such a place in the desert...
 
@@ -4195,7 +4161,6 @@ Jebrael, what do you think about these ruins?
 
 **Jebrael:** ...I'm just a brute. All I know about King Deshret are old stories that no one wishes to hear.
 
-#### Scene
 
 **Jeht:** So, Traveler, I heard from Nachtigal that you beat up Stormterror and were made an Honorary Knight for that achievement?
 
@@ -4382,7 +4347,6 @@ For the sorrows of tomorrow have gone away.*
 
 **Paimon:** Traveler, you ready? Let's go too!
 
-#### Scene
 
 **Jeht:** Huh? I thought it would be smooth sailing this time, but we still have to figure out a way to get the door open...
 
@@ -4476,7 +4440,6 @@ If I spend ten years working hard at the Akademiya...
 
 **Paimon:** C'mon, Traveler, let's get moving!
 
-#### Scene
 
 **Paimon:** Hmm, Benben's been milling around the door, but nothing's happening this time.
 
@@ -4566,11 +4529,9 @@ If I spend ten years working hard at the Akademiya...
 
 **Jeht:** Oh, alright! Nachtigal and the others are still waiting for us at the oasis. Let's continue exploring!
 
-#### Scene
 
 **Benben:** Beep... Bee-eep?
 
-#### Scene
 
 **Tirzad:** Ugh, I'm exhausted. Moreover, besides Benben, we haven't made any other discoveries, and that makes my exhaustion all the worse for it.
 
@@ -4658,7 +4619,6 @@ Might it make sense because this is an "ocean of sand"?
 
 **Jebrael:** Have you found any clues? I haven't made any progress over here just yet.
 
-#### Scene
 
 **Tirzad:** Great! As expected of my assistant! No mechanism or puzzle shall ever be your match!
 
@@ -4690,7 +4650,6 @@ Is it like an adventurer's instinct?
 
 **Nachtigal:** Let's take this opportunity to inspect our supplies... We've gotta use the Dusk Bird to send Bonifaz a letter and tell him we're safe now.
 
-#### Scene
 
 **Jeht:** Father seems a little... Maybe he's recalled his past life in the desert. If only he'd tell us some stories of his past at night.
 
@@ -4802,11 +4761,9 @@ This path looks like it leads upward.
 
 **Paimon:** Paimon wonders where it leads... But staying here won't change anything either, so let's continue, shall we?
 
-#### Scene
 
 **Tirzad:** I wonder if a paper can be written from Benben and Jeht's interactions... But which field would it belong to?
 
-#### Scene
 
 **Tirzad:** There still hasn't been anything worth writing about... Would Benben come if I tried to take it back with me?
 
@@ -4818,7 +4775,6 @@ This path looks like it leads upward.
 
 **Tirzad:** Oh, right! It was the clues on the Stone Slate that led me here. How did I stray so far off my plan?
 
-#### Scene
 
 **Jeht:** Benben seems to know this place well, and for some reason, "doors" seem to hold a special place in its heart?
 
@@ -4884,7 +4840,6 @@ Sorry.
 
 **Paimon:** So, Benben really wants to go inside, huh? Let's stop delaying then.
 
-#### Scene
 
 **Paimon:** Wow! These ruins are magnificent!
 
@@ -4904,7 +4859,6 @@ Sorry.
 
 **Paimon:** (Ufairah? Paimon's never heard him mention that name.)
 
-#### Scene
 
 **Jeht:** Phew! Thank goodness Benben's alright... Seriously, stop rushing off so quickly! What if you got into trouble?
 
@@ -4932,7 +4886,6 @@ Sorry.
 
 **Jebrael:** ...We should split up and search for clues.
 
-#### Scene
 
 **Jeht:** *sigh* Father feels so unfamiliar right now. What's going on? Benben, do you know why?
 
@@ -4942,7 +4895,6 @@ Sorry.
 
 **Tirzad:** The material I've gathered so far... They should be enough for two chapters... Wait, will that really be enough?
 
-#### Scene
 
 **Tirzad:** Oh! Traveler, as impressive as always! I'll definitely credit you if I'm able to publish my paper successfully.
 
@@ -4986,7 +4938,6 @@ Sorry.
 
 **Paimon:** Traveler, let's find a way up. Paimon's worried that Tirzad will get himself into trouble if this goes on...
 
-#### Scene
 
 **Tirzad:** Theoretically, this should be where King Deshret's "organs" are stored...
 
@@ -5084,7 +5035,6 @@ What happened?
 
 **Paimon:** ...Anyway, let's go look for the others!
 
-#### Scene
 
 **Tirzad:** *sob* You're finally here! My savior!
 
@@ -5126,7 +5076,6 @@ We didn't.
 
 **Jebrael:** Either way, this place may be more troublesome than we expected. Let's advance carefully.
 
-#### Scene
 
 **Jeht:** That room's... I wonder if it was a trap. Why did it send us here?
 
@@ -5234,7 +5183,6 @@ We didn't.
 
 **Paimon:** Traveler, that guy Samail looks strong... But we have to give him a good thrashing so we can get Benben back!
 
-#### Scene
 
 **Jeht:** Benben! Are you alright?
 
@@ -5332,7 +5280,6 @@ We didn't.
 
 **Paimon:** Traveler and Paimon will take the front! All of you, keep up!
 
-#### Scene
 
 **Jeht:** This should be the last place...
 
@@ -6295,7 +6242,6 @@ Let's give her a moment to herself.
 
 **Nachtigal:** And good luck in your adventures.
 
-#### Scene
 
 **Tirzad:** *cough* Nachtigal's invigorating drinks really are strong. If you sat me down at a table now, I'm certain I could write a million words in one go.
 
@@ -6305,7 +6251,6 @@ Let's give her a moment to herself.
 
 在阿如村，有一个蒙德商人需要冒险家的帮助。
 
-#### 场景
 
 **博尼法兹:** 哦！你们好！看你的装束，应该不是本地人吧？这地方外乡人可不常见，我一看你们就知道肯定是从别处来的。
 
@@ -6529,7 +6474,6 @@ Let's give her a moment to herself.
 
 **博尼法兹:** 一切就拜托两位了！
 
-#### 场景
 
 **凯瑟琳:** 旅行者和派蒙，太好了，现在有一项紧急的委托想要交给你们。
 
@@ -6543,7 +6487,6 @@ Let's give her a moment to herself.
 
 **凯瑟琳:** 委托人叫博尼法兹，他现在还在阿如村，具体的情况他会告诉你们的。祝你们一路顺风。
 
-#### 场景
 
 **派蒙:** 这里有个洞窟，我们看看吧。
 
@@ -7255,15 +7198,12 @@ Let's give her a moment to herself.
 
 **婕德:** 唔…知道啦！
 
-#### 场景
 
 **米尔萨德:** 原本以为这位雇主只会在沙漠里转一圈就回去，会很无聊。没想到遇到了这种事，虽然有点吓人，但我不讨厌这种感觉。
 
-#### 场景
 
 **奥米德:** 本来想干点来钱快的活，攒下来做小生意，结果差点没命了…
 
-#### 场景
 
 **提尔扎德:** 事情都交代完了，咳，现在可以找婕德他们了。
 
@@ -7271,7 +7211,6 @@ Let's give her a moment to herself.
 
 和考古小队一行离开了陷坑，接下来该前往哲伯莱勒所说的绿洲，做露营的准备了。
 
-#### 场景
 
 **派蒙:** 想不到沙漠里还有这样的地方呢…
 
@@ -7333,7 +7272,6 @@ Let's give her a moment to herself.
 
 **哲伯莱勒:** …我不过是个莽夫，要谈赤王，也只会讲些没人爱听的陈旧故事。
 
-#### 场景
 
 **婕德:** 听纳赫蒂加尔说，旅行者在蒙德把风魔龙给揍了，还靠着这个当上了什么「荣誉骑士」？
 
@@ -7520,7 +7458,6 @@ Let's give her a moment to herself.
 
 **派蒙:** 旅行者，准备好了的话，我们也出发吧！
 
-#### 场景
 
 **婕德:** 欸？本以为这次会畅通无阻了，结果到头来还是要想办法开门啊…
 
@@ -7614,7 +7551,6 @@ Let's give her a moment to herself.
 
 **派蒙:** 旅行者，我们快点进去吧！
 
-#### 场景
 
 **派蒙:** 唔…奔奔虽然一直在门前转悠，但这次一点儿也没帮上忙呢。
 
@@ -7704,11 +7640,9 @@ Let's give her a moment to herself.
 
 **婕德:** 唔，知道啦！纳赫蒂加尔他们还在绿洲等我们回去呢，我们继续探索吧！
 
-#### 场景
 
 **奔奔:** 哔…哔哔？
 
-#### 场景
 
 **提尔扎德:** 唉，好累，而且，想到到目前为止除了「奔奔」，没什么可以称得上成果的发现，就更累了。
 
@@ -7796,7 +7730,6 @@ Let's give her a moment to herself.
 
 **哲伯莱勒:** 怎么了，有线索了吗？我这边暂时没什么进展。
 
-#### 场景
 
 **提尔扎德:** 好！不愧是我相中的帮手，无论什么机关难题都不在话下，有旅行者在，万事无忧啊！
 
@@ -7828,7 +7761,6 @@ Let's give her a moment to herself.
 
 **纳赫蒂加尔:** 趁现在清点一下物资…还得让暝彩鸟给博尼法兹送个信，告诉他我们已经安全了。
 
-#### 场景
 
 **婕德:** 老爹的样子好像有点…不知道是不是想起以前在沙漠生活的日子，要是晚上能给我们讲讲他以前的故事就好啦。
 
@@ -7940,11 +7872,9 @@ Let's give her a moment to herself.
 
 **派蒙:** 不知道会通向什么地方呢…不过，待在原地也是不会有什么结果的，我们继续前进吧，好吗？
 
-#### 场景
 
 **提尔扎德:** 不知道奔奔跟婕德之间的交流能不能写篇论文…不过这论文写出来到底该算在哪个分类呢？
 
-#### 场景
 
 **提尔扎德:** 到目前为止还没有发现什么特别值得一写的点…如果把奔奔带回去…它会跟我回去吗？
 
@@ -7956,7 +7886,6 @@ Let's give her a moment to herself.
 
 **提尔扎德:** 对啊！我本来是循着石板的线索来的，怎么会完全偏离了原来的计划呢？
 
-#### 场景
 
 **婕德:** 奔奔好像对这里很熟悉呢，而且不知为什么，比起其他物件，它好像对「门」情有独钟？
 
@@ -8022,7 +7951,6 @@ Let's give her a moment to herself.
 
 **派蒙:** 看来奔奔是真的很想快点进去呢，我们还是别在这儿耽搁了。
 
-#### 场景
 
 **派蒙:** 哇——好壮观的遗迹！
 
@@ -8042,7 +7970,6 @@ Let's give her a moment to herself.
 
 **派蒙:** （优菲？是没听过的名字呢。）
 
-#### 场景
 
 **婕德:** 呼——幸好奔奔没事…真是的，别跑那么快嘛！万一遇到危险…
 
@@ -8070,7 +7997,6 @@ Let's give her a moment to herself.
 
 **哲伯莱勒:** …我们还是各自分散开去找线索吧。
 
-#### 场景
 
 **婕德:** 唉，感觉老爹有点陌生，是怎么回事呢？奔奔，你知道为什么会这样吗？
 
@@ -8080,7 +8006,6 @@ Let's give her a moment to herself.
 
 **提尔扎德:** 目前已知的材料…写个两章倒是够了，唔？真的够了吗？
 
-#### 场景
 
 **提尔扎德:** 哦！不愧是旅行者！我的论文如果能顺利发表，功劳肯定有你一份。
 
@@ -8124,7 +8049,6 @@ Let's give her a moment to herself.
 
 **派蒙:** 旅行者，我们快点找到向上的路吧，总觉得提尔扎德这样下去会遇到危险…
 
-#### 场景
 
 **提尔扎德:** 按理说，这里应该是存放赤王「脏器」的地方…
 
@@ -8222,7 +8146,6 @@ Let's give her a moment to herself.
 
 **派蒙:** …总之，我们先去找到其他人吧！
 
-#### 场景
 
 **提尔扎德:** 呜…可算等到你们了，我的救星！
 
@@ -8264,7 +8187,6 @@ Let's give her a moment to herself.
 
 **哲伯莱勒:** 事情或许比预料中更麻烦，小心谨慎地前进吧。
 
-#### 场景
 
 **婕德:** 说起来，那个房间的…不知道是陷阱还是什么，为什么会把我们送到这里呢？
 
@@ -8372,7 +8294,6 @@ Let's give her a moment to herself.
 
 **派蒙:** 旅行者，这个叫萨梅尔的家伙看样子可不好对付…不过为了奔奔，不管怎么说也得揍他一顿才行！
 
-#### 场景
 
 **婕德:** 奔奔！你没事吧？
 
@@ -8470,7 +8391,6 @@ Let's give her a moment to herself.
 
 **派蒙:** 我和旅行者走前面！大家可要跟上啊。
 
-#### 场景
 
 **婕德:** 这里应该就是最后了…
 
@@ -9433,6 +9353,5 @@ Let's give her a moment to herself.
 
 **纳赫蒂加尔:** 也祝各位今后一路顺风。
 
-#### 场景
 
 **提尔扎德:** 咳，纳赫蒂加尔的提神饮料可真够劲的，现在要是能让我在桌前坐下，肯定能一口气写个十万字。

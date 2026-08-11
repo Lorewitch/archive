@@ -26,19 +26,15 @@
 
 В Разломе вы увидели камни с необычными узорами. Стоит сделать пару снимков. Может, кто-нибудь знает, что они такое...
 
-#### Сцена
 
 **Сделать снимок:** Сделай снимок A
 
-#### Сцена
 
 **Сделать снимок:** Сделай снимок B
 
-#### Сцена
 
 **Сделать снимок:** Сделай снимок C
 
-#### Сцена
 
 **Сделать снимок:** Сделай снимок D
 
@@ -84,7 +80,6 @@
 
 **Хедив:** Я дам за них хорошую цену. Это потрясающая находка.
 
-#### Сцена
 
 **Сделать снимок:** Сделай снимок E
 
@@ -134,19 +129,15 @@
 
 You notice some rocks with peculiar markings on them. It's better to take a few pictures. Perhaps someone might know what these are...
 
-#### Scene
 
 **Photo:** Photograph A
 
-#### Scene
 
 **Photo:** Photograph B
 
-#### Scene
 
 **Photo:** Photograph C
 
-#### Scene
 
 **Photo:** Photograph D
 
@@ -192,7 +183,6 @@ How many do you need?
 
 **Khedive:** I'll offer a reasonable price for this, of course. It is a big discovery, and that is no understatement.
 
-#### Scene
 
 **Photo:** Photograph E
 
@@ -242,19 +232,15 @@ How many do you need?
 
 在层岩巨渊看到了纹路奇怪的岩石，不如先拍下来，不知道有没有人知道这是什么…
 
-#### 场景
 
 **拍摄:** 拍A
 
-#### 场景
 
 **拍摄:** 拍B
 
-#### 场景
 
 **拍摄:** 拍C
 
-#### 场景
 
 **拍摄:** 拍D
 
@@ -300,7 +286,6 @@ How many do you need?
 
 **海迪夫:** 我会给出合适的价钱买下的，这可是大发现啊。
 
-#### 场景
 
 **拍摄:** 拍E
 

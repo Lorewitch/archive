@@ -828,7 +828,6 @@
 
 **Нефер:** Отлично. С тобой приятно иметь дело.
 
-#### Сцена
 
 **Тот:** Ух! Как хорошо на свежем воздухе.
 
@@ -840,7 +839,6 @@
 
 **Херишеф:** Абсолютно согласен.
 
-#### Сцена
 
 **Лилупар:** Как я и думала, так называемые «семь столпов царя Дешрета» по-прежнему не заслуживают моего внимания.
 
@@ -1298,7 +1296,6 @@
 
 **Нахида:** Итак, действуем.
 
-#### Сцена
 
 **Тот:** Я предполагал, что древние боги больше не пользуются почётом во внешнем мире... но даже мне тон этих юношей кажется ужасно невежливым.
 
@@ -1630,7 +1627,6 @@
 
 Гробница царя Дешрета: Средний уровень, комната
 
-#### Сцена
 
 Уйти
 
@@ -4636,7 +4632,6 @@ Sure.
 
 **Nefer:** Excellent. Well, it's a pleasure working with you.
 
-#### Scene
 
 **Thoth:** Ahh! Fresh air... A wondrous feeling.
 
@@ -4648,7 +4643,6 @@ Sure.
 
 **Heryshaf:** I could not agree more.
 
-#### Scene
 
 **Liloupar:** As I thought, the so-called Seven Pillars of King Deshret are as underwhelming as ever.
 
@@ -5106,7 +5100,6 @@ Not a problem. We'll do our utmost.
 
 **Nahida:** Well, time to get going.
 
-#### Scene
 
 **Thoth:** I expected that the outside world no longer respected the ancient gods... but even so, I do find the tone of these youngsters to be dreadfully impolite.
 
@@ -5438,7 +5431,6 @@ Where to next?
 
 The Mausoleum of King Deshret, Middle-Level
 
-#### Scene
 
 Leave
 
@@ -8444,7 +8436,6 @@ She left, carrying the blessing of flowers.
 
 **奈芙尔:** 非常好。那么，很高兴与你合作。
 
-#### 场景
 
 **图特:** 呼！新鲜的空气真好啊。
 
@@ -8456,7 +8447,6 @@ She left, carrying the blessing of flowers.
 
 **赫里沙夫:** 我完全同意。
 
-#### 场景
 
 **利露帕尔:** 如我所想，那所谓的赤王七柱仍不值得被多看两眼。
 
@@ -8914,7 +8904,6 @@ She left, carrying the blessing of flowers.
 
 **纳西妲:** 那么——开始行动。
 
-#### 场景
 
 **图特:** 早料到外面的世界不再尊重古早神明，但这些年轻人的口气还真不客气呢。
 
@@ -9246,7 +9235,6 @@ She left, carrying the blessing of flowers.
 
 赤王陵中层房间
 
-#### 场景
 
 离开
 

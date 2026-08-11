@@ -26,11 +26,9 @@
 
 По словам духа по имени Абэраку, он сможет обрести покой, только когда три фрагмента его души будут возвращены в тело...
 
-#### Сцена
 
 **Абэраку:** Пожалуйста, принеси подношения из Теснины, Храма вечной ночи и Сердца змея. Так моя душа обретёт целостность, и я смогу открыть для тебя путь к Дайнити Микоси...
 
-#### Сцена
 
 **Паймон:** Подношение сделано...
 
@@ -38,11 +36,9 @@
 
 **Паймон:** Почему бы нам не подняться и не посмотреть, Путешественник?
 
-#### Сцена
 
 **Абэраку:** Пожалуйста, принеси подношения из Теснины, Храма вечной ночи и Сердца змея. Так моя душа обретёт целостность, и я смогу открыть для тебя путь к Дайнити Микоси...
 
-#### Сцена
 
 **Абэраку:** О, путешественник / ца из далёких земель, это вы.
 
@@ -189,7 +185,6 @@
 
 **Абэраку:** Ох... Какой талант, какие способности... И какая с этого польза?
 
-#### Сцена
 
 **Паймон:** Подношение сделано...
 
@@ -282,11 +277,9 @@
 
 Пройдите испытания согласно указаниям Абэраку и добудьте подношения...
 
-#### Сцена
 
 **Абэраку:** Ты во всеоружии, путешественник / путешественница?
 
-#### Сцена
 
 **Паймон:** Что-то появляется!..
 
@@ -362,11 +355,9 @@
 
 Пройдите испытания согласно указаниям Абэраку и добудьте подношения...
 
-#### Сцена
 
 **Абэраку:** Ты во всеоружии, путешественник / путешественница?
 
-#### Сцена
 
 **Паймон:** А вот и один из этих духов...
 
@@ -476,11 +467,9 @@
 
 Пройдите испытания согласно указаниям Абэраку и добудьте подношения...
 
-#### Сцена
 
 **Абэраку:** Ты во всеоружии, путешественник / путешественница?
 
-#### Сцена
 
 **Абэраку:** Меня зовут...
 
@@ -576,11 +565,9 @@
 
 According to the spirit named Aberaku, he can only find peace if you collect the three fragments of his soul and reunite them with the main body...
 
-#### Scene
 
 **Aberaku:** Please, claim the offerings at The Narrows, the Evernight Temple, and the Serpent's Heart. This way, my soul shall be reunited, and I shall be able to open the way to the Dainichi Mikoshi for you...
 
-#### Scene
 
 **Paimon:** The offering's done...
 
@@ -588,11 +575,9 @@ According to the spirit named Aberaku, he can only find peace if you collect the
 
 **Paimon:** Let's go up and have a look, Traveler!
 
-#### Scene
 
 **Aberaku:** Please, claim the offerings at The Narrows, the Evernight Temple, and the Serpent's Heart. This way, my soul shall be reunited, and I shall be able to open the way to the Dainichi Mikoshi for you...
 
-#### Scene
 
 **Aberaku:** Ah, Traveler from another land, it is you.
 
@@ -738,7 +723,6 @@ This is too precious a gift...
 
 **Aberaku:** Ah... All the talent, all the ability... But what use was it?
 
-#### Scene
 
 **Paimon:** The offering's done...
 
@@ -830,11 +814,9 @@ This is too precious a gift...
 
 Clear the trials according to the path prescribed by the spirit named Aberaku and obtain the offerings...
 
-#### Scene
 
 **Aberaku:** Are you fully girded up, Traveler?
 
-#### Scene
 
 **Paimon:** S—Something's coming out!
 
@@ -910,11 +892,9 @@ I'm ready.
 
 Clear the trials according to the path prescribed by the spirit named Aberaku and obtain the offerings...
 
-#### Scene
 
 **Aberaku:** Are you fully girded up, Traveler?
 
-#### Scene
 
 **Paimon:** Here comes one of those spirits...
 
@@ -1024,11 +1004,9 @@ I'm ready.
 
 Clear the trials according to the path prescribed by the spirit named Aberaku and obtain the offerings...
 
-#### Scene
 
 **Aberaku:** Are you fully girded up, Traveler?
 
-#### Scene
 
 **Aberaku:** My name is...
 
@@ -1124,11 +1102,9 @@ Best not to eat them all the same.
 
 按名为阿倍良久的残魂的说法，要让他分于三处的魂魄回归主体，才可获得安宁…
 
-#### 场景
 
 **阿倍良久:** 啊…烦请汝取回位于狭间之街，灵庙之前与蛇心之地三处的供奉。这样，吾魂魄归一，即可打开大日御舆之上的道路…
 
-#### 场景
 
 **派蒙:** 供奉完成了…
 
@@ -1136,11 +1112,9 @@ Best not to eat them all the same.
 
 **派蒙:** 旅行者，不如我们快上去看一下吧！
 
-#### 场景
 
 **阿倍良久:** 啊…烦请汝取回位于狭间之街，灵庙之前与蛇心之地三处的供奉。这样，吾魂魄归一，即可打开大日御舆之上的道路…
 
-#### 场景
 
 **阿倍良久:** 啊啊…异乡的旅者，是汝啊。
 
@@ -1286,7 +1260,6 @@ Best not to eat them all the same.
 
 **阿倍良久:** 如此才能，如此才能…又有何用？
 
-#### 场景
 
 **派蒙:** 供奉完成了…
 
@@ -1378,11 +1351,9 @@ Best not to eat them all the same.
 
 按名为阿倍良久的残魂的说法，通过试炼，取得供奉之物…
 
-#### 场景
 
 **阿倍良久:** 旅者啊，汝准备好了吗？
 
-#### 场景
 
 **派蒙:** 有、有什么东西出来了…
 
@@ -1458,11 +1429,9 @@ Best not to eat them all the same.
 
 按名为阿倍良久的残魂的说法，通过试炼，取得供奉之物…
 
-#### 场景
 
 **阿倍良久:** 旅者啊，汝准备好了吗？
 
-#### 场景
 
 **派蒙:** 好像出现了一个残魂……
 
@@ -1572,11 +1541,9 @@ Best not to eat them all the same.
 
 按名为阿倍良久的残魂的说法，通过试炼，取得供奉之物…
 
-#### 场景
 
 **阿倍良久:** 旅者啊，汝准备好了吗？
 
-#### 场景
 
 **阿倍良久:** 吾乃…
 

@@ -106,7 +106,6 @@
 
 **Фурина:** Можешь дорисовать мне усы!
 
-#### Сцена
 
 Отлично! Нарисую белые.
 
@@ -120,7 +119,6 @@
 
 **Навия:** Всё в полном порядке! А теперь пора расслабиться. Забудьте о работе и веселитесь!
 
-#### Сцена
 
 Великолепно! Нарисую красные.
 
@@ -134,7 +132,6 @@
 
 **Навия:** Всё в полном порядке! А теперь пора расслабиться. Забудьте о работе и веселитесь!
 
-#### Сцена
 
 **Навия:** Ну что ж! Теперь, когда ты (стала гордой обладательницей)(стал гордым обладателем) памятной карты, можешь нарисовать на ней столько разных усов, сколько захочешь.
 
@@ -230,7 +227,6 @@ What's this...?
 
 **Furina:** You get to add a mustache to my portrait!
 
-#### Scene
 
 Awesome! Fancy a white one?
 
@@ -244,7 +240,6 @@ Awesome! Fancy a white one?
 
 **Navia:** Everything's all in order — now it's time to relax. Forget about work, and just enjoy the park!
 
-#### Scene
 
 Splendiferous! Fancy a red one?
 
@@ -258,7 +253,6 @@ Splendiferous! Fancy a red one?
 
 **Navia:** Everything's all in order — now it's time to relax. Forget about work, and just enjoy the park!
 
-#### Scene
 
 **Navia:** Alright then! Now that you're the proud owner of this commemorative map, you can draw as many different flavored mustaches on it as you like.
 
@@ -354,7 +348,6 @@ Splendiferous! Fancy a red one?
 
 **芙宁娜:** ——你将拥有给我的头像上添加胡子的权利！
 
-#### 场景
 
 真棒，我要画白色的。
 
@@ -368,7 +361,6 @@ Splendiferous! Fancy a red one?
 
 **娜维娅:** 乐园各方面的情况都已经很完善了，接下来就请忘记工作的疲惫，尽情游玩吧！
 
-#### 场景
 
 真棒，我要画红色的。
 
@@ -382,7 +374,6 @@ Splendiferous! Fancy a red one?
 
 **娜维娅:** 乐园各方面的情况都已经很完善了，接下来就请忘记工作的疲惫，尽情游玩吧！
 
-#### 场景
 
 **娜维娅:** 好啦，既然这份纪念地图已经是旅行者的所有物，那你想画多少不同口味的胡子都可以。
 

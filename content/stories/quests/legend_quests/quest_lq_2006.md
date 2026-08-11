@@ -558,7 +558,6 @@
 
 **Сара:** Если ты хочешь спасти ресторан «Хороший охотник», то подавай это блюдо горячим!
 
-#### Сцена
 
 **Сара:** Сдать ингредиенты
 
@@ -576,7 +575,6 @@
 
 **Сара:** Пожалуйста, вот меню!
 
-#### Сцена
 
 **Сара:** Как там сладкий цыплёнок в медовом соусе?
 
@@ -596,7 +594,6 @@
 
 **Сара:** Пожалуйста, вот меню!
 
-#### Сцена
 
 **Сара:** Мне ещё нужна порция медового мяса с морковкой. Уже готово?
 
@@ -930,7 +927,6 @@
 
 **Кэйа:** Хе-хе... Я поддаюсь только потому, что сегодня особенный день.
 
-#### Сцена
 
 **Венти:** Признаю, продукт у винокурни «Рассвет» просто первоклассный.
 
@@ -1486,7 +1482,6 @@ I can help with the cooking!
 
 **Sara:** You did say you'd help Good Hunter out — be sure to serve it while it's hot.
 
-#### Scene
 
 **Sara:** Submit cooking ingredients
 
@@ -1504,7 +1499,6 @@ I can help with the cooking!
 
 **Sara:** Certainly. Here's the menu.
 
-#### Scene
 
 **Sara:** Any news on that Sweet Madame?
 
@@ -1524,7 +1518,6 @@ I can help with the cooking!
 
 **Sara:** Certainly. Here's the menu.
 
-#### Scene
 
 **Sara:** I'm still waiting on one Sticky Honey Roast. Have you got it?
 
@@ -1858,7 +1851,6 @@ So... You gave me the credit to hide your own shyness?
 
 **Kaeya:** Hehe... I'm only indulging you since it's such a special day today.
 
-#### Scene
 
 **Venti:** My word, the Dawn Winery's wine is every bit as delectable as they say!
 
@@ -1928,7 +1920,7 @@ So... You gave me the credit to hide your own shyness?
 
 **派蒙:** 那旅行者，我们快点去见琴吧。
 
-#### (test)完成对话
+#### 完成对话
 
 **玛格丽特:** 等一下，两位。
 
@@ -1980,7 +1972,7 @@ So... You gave me the credit to hide your own shyness?
 
 **派蒙:** 真没办法，那叫做「小王子」的猫猫的事，一会儿也一起告诉琴吧。
 
-#### (test)与琴对话
+#### 与琴对话
 
 **琴:** 咳咳…
 
@@ -2060,7 +2052,7 @@ So... You gave me the credit to hide your own shyness?
 
 **派蒙:** 没事啦，那就不打扰你们了。走吧，旅行者。
 
-#### (test)与凯亚对话
+#### 与凯亚对话
 
 **派蒙:** 咦，是凯亚。
 
@@ -2114,7 +2106,7 @@ So... You gave me the credit to hide your own shyness?
 
 **玛格丽特:** 「小王子」应该就在城里的商业区和居民区附近，是一只纯黑色的猫哦。
 
-#### (test)完成全部委托
+#### 完成全部委托
 
 **芭芭拉:** 都说啦，把代理团长放心交给我就好了，你们快去完成委托吧。
 
@@ -2192,11 +2184,11 @@ So... You gave me the credit to hide your own shyness?
 
 **玛格丽特:** 「小王子」~！真是听话的宝贝，居然自己回来了。
 
-#### (test)完成找猫猫
+#### 完成找猫猫
 
 **玛格丽特:** 「小王子」应该就在城里的商业区和居民区附近，是一只纯黑色的猫哦。
 
-#### (test)完成找猫猫
+#### 完成找猫猫
 
 **派蒙:** 还真是警觉呀，就这么让「小王子」跑掉了。
 
@@ -2214,7 +2206,7 @@ So... You gave me the credit to hide your own shyness?
 
 **玛格丽特:** 「小王子」应该就在城里的商业区和居民区附近，是一只纯黑色的猫哦。
 
-#### (test)与玛格丽特对话，完成委托
+#### 与玛格丽特对话，完成委托
 
 **派蒙:** 居然又让它跑掉了…唉…
 
@@ -2278,7 +2270,7 @@ So... You gave me the credit to hide your own shyness?
 
 **恩内斯特:** 我会记得跟酒庄的老爷们美言你几句的，拜拜。
 
-#### (test)护送货运热气球
+#### 护送货运热气球
 
 **查尔斯:** 运货的偶尔会偷两瓶货品酒来饱私囊，当然，我知道你不像这样的人。
 
@@ -2392,15 +2384,15 @@ So... You gave me the credit to hide your own shyness?
 
 **莎拉:** 如果哪天不想冒险了，可以考虑下要不要来「猎鹿人」工作哦，嘿嘿。
 
-#### (test)进行烹饪
+#### 进行烹饪
 
 **莎拉:** 三份甜甜花和三份禽肉，麻烦你了哦。
 
-#### (test)进行烹饪
+#### 进行烹饪
 
 **莎拉:** 一份甜甜花酿鸡，还没做好吗？订单的期限…
 
-#### (test)收集指定食材
+#### 收集指定食材
 
 **莎拉:** 一份蜜酱胡萝卜煎肉，菜谱不是教给你了吗？
 
@@ -2414,7 +2406,6 @@ So... You gave me the credit to hide your own shyness?
 
 **莎拉:** 都说好要给「猎鹿人」帮忙了嘛，做好趁热送过来哦。
 
-#### 场景
 
 **莎拉:** 交付食材
 
@@ -2432,7 +2423,6 @@ So... You gave me the credit to hide your own shyness?
 
 **莎拉:** 没问题，请先看看菜单！
 
-#### 场景
 
 **莎拉:** 甜甜花酿鸡已经做好了吗？
 
@@ -2452,7 +2442,6 @@ So... You gave me the credit to hide your own shyness?
 
 **莎拉:** 没问题，请先看看菜单！
 
-#### 场景
 
 **莎拉:** 蜜酱胡萝卜煎肉一份，你带来了吗？
 
@@ -2516,7 +2505,7 @@ So... You gave me the credit to hide your own shyness?
 
 **芭芭拉:** 嗯！那样我也就能放心了，愿风神护佑你们…和琴。
 
-#### (test)完成对话
+#### 完成对话
 
 **派蒙:** 琴小姐，你的身体没关系吗？
 
@@ -2566,7 +2555,7 @@ So... You gave me the credit to hide your own shyness?
 
 **琴:** 谁在那里！
 
-#### (test)完成对话
+#### 完成对话
 
 **琴:** 呼…状态没有预想的那么差，多亏了芭芭拉的照料。
 
@@ -2600,7 +2589,7 @@ So... You gave me the credit to hide your own shyness?
 
 **琴:** 好了好了，听斯万先生很着急的样子，可能是紧急事态。还是先过去看看吧。
 
-#### (test)完成对话
+#### 完成对话
 
 **琴:** 啊，这是…？
 
@@ -2730,7 +2719,7 @@ So... You gave me the credit to hide your own shyness?
 
 **琴:** 听凭风引。自由之风会指引前进的路，今后也请与我们同行吧，旅行者。
 
-#### (test)完成对话
+#### 完成对话
 
 **派蒙:** 当心啊！
 
@@ -2746,7 +2735,7 @@ So... You gave me the credit to hide your own shyness?
 
 **派蒙:** 嘿，拜托啦！
 
-#### (test)完成对话
+#### 完成对话
 
 **芭芭拉:** 呼…闹得这么厉害，好像已经忘记了要「好好放松」的初衷了吧…
 
@@ -2764,7 +2753,7 @@ So... You gave me the credit to hide your own shyness?
 
 **派蒙:** 辣椒！？
 
-#### (test)和琴对话
+#### 和琴对话
 
 **凯亚:** 哟，玩得开心吗？
 
@@ -2786,7 +2775,6 @@ So... You gave me the credit to hide your own shyness?
 
 **凯亚:** 呵呵，难得今天这么好的日子，就让你们寻一次开心吧。
 
-#### 场景
 
 **温迪:** 呼哈…晨曦酒庄的酒果然和传闻里的一样，值得夸奖。
 

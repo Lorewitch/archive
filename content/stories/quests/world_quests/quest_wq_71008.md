@@ -26,7 +26,6 @@
 
 Вы повстречали таинственного незнакомца на горе Тяньхэн. Он хочет поиграть с вами в прятки.
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался к югу. Хочешь продолжить игру?
 
@@ -34,7 +33,6 @@
 
 **Малыш Цзян:** Я спрятался рядом со скалой на юге. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** А-а-а! Ты меня нашёл / нашла! Неужели это было так просто?
 
@@ -46,7 +44,6 @@
 
 Хорошо.
 
-#### Сцена
 
 **Малыш Цзян:** Ха-ха-ха! Я же говорил, что ты меня не найдёшь!
 
@@ -54,7 +51,6 @@
 
 **Малыш Цзян:** Я прячусь за камнем. Присмотрись повнимательнее. Продолжаем игру?
 
-#### Сцена
 
 **Малыш Цзян:** Найди меня, если сможешь!
 
@@ -64,19 +60,15 @@
 
 Это было проще простого.
 
-#### Сцена
 
 Мне нужно передохнуть...
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался за булыжником. Хочешь продолжить игру?
 
-#### Сцена
 
 Мне нужно передохнуть.
 
-#### Сцена
 
 **Малыш Цзян:** Эх... Ты меня наш(ла)(ёл)...
 
@@ -96,7 +88,6 @@
 
 **Малыш Цзян:** Когда мы раньше играли в прятки, у мамы никогда не получалось найти нас с папой, пока папа сам не решит сдаться... Ну или пока мама не начнёт на нас кричать. Это тоже работало.
 
-#### Сцена
 
 **Малыш Цзян:** Сдаёшься?
 
@@ -104,19 +95,15 @@
 
 **Малыш Цзян:** Сыграем ещё разок?
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался к северу. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Я прячусь рядом с большой скалой на севере. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Я прячусь рядом с деревом. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Ха-ха! У тебя не получилось меня найти!
 
@@ -124,7 +111,6 @@
 
 **Малыш Цзян:** Ты не так(ая)(ой) крут(ая)(ой), как мой папа, поэтому я дам тебе подсказку. Я спрятался рядом с вон тем домиком.
 
-#### Сцена
 
 **Малыш Цзян:** Не получилось найти меня? Ха-ха! Это место мне показал папа.
 
@@ -132,19 +118,15 @@
 
 **Малыш Цзян:** Давай попробуем ещё раз. У тебя обязательно получится!
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался к северу. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался за деревом на склоне к северу. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался рядом с вон тем домом. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Хм... Это моё лучшее укрытие.
 
@@ -152,7 +134,6 @@
 
 **Малыш Цзян:** Давай попробуем ещё раз.
 
-#### Сцена
 
 **Малыш Цзян:** Всё ещё не получается? Хм... Даю ещё одну подсказку.
 
@@ -160,7 +141,6 @@
 
 **Малыш Цзян:** Давай попробуем ещё раз. У тебя должно получиться.
 
-#### Сцена
 
 **Малыш Цзян:** Моё финальное укрытие оказалось даже лучше, чем я думал. Похоже, ты меня никогда не найдёшь.
 
@@ -168,19 +148,15 @@
 
 **Малыш Цзян:** Хе-хе...Кто же там прячется?
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался к востоку. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался рядом с домом на востоке. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Я спрятался рядом со скалой. Хочешь продолжить игру?
 
-#### Сцена
 
 **Малыш Цзян:** Готов(а)?
 
@@ -268,7 +244,6 @@
 
 **Малыш Цзян:** В этот раз я спрячусь в своём секретном месте! Ты меня никогда не найдёшь!
 
-#### Сцена
 
 Это было не очень сложно.
 
@@ -302,11 +277,9 @@
 
 **Малыш Цзян:** Ладно, мне пора домой, а ты теперь можешь заняться своими делами.
 
-#### Сцена
 
 **Малыш Цзян:** Кажется, тебе пришлось нелегко.
 
-#### Сцена
 
 Мне нужно передохнуть...
 
@@ -316,7 +289,6 @@
 
 You met a strange person on Mt. Tianheng who is looking for someone to play hide-and-seek with him...
 
-#### Scene
 
 **Childish Jiang:** My hiding place is in the south. Do you wanna carry on playing hide-and-seek with me?
 
@@ -324,7 +296,6 @@ You met a strange person on Mt. Tianheng who is looking for someone to play hide
 
 **Childish Jiang:** My hiding place is next to the cliff in the south. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** Ah, you found me! Was it that obvious?
 
@@ -336,7 +307,6 @@ It was pretty obvious...
 
 Sure.
 
-#### Scene
 
 **Childish Jiang:** Hee-hee, see? Told you you'd never find me, didn't I!
 
@@ -344,7 +314,6 @@ Sure.
 
 **Childish Jiang:** I'm hiding behind a rock. You just gotta a look a little harder! You wanna carry on playing?
 
-#### Scene
 
 **Childish Jiang:** Still can't find me?
 
@@ -354,19 +323,15 @@ Sure.
 
 Nah, I'm fine.
 
-#### Scene
 
 Actually, I need a break.
 
-#### Scene
 
 **Childish Jiang:** My hiding place is behind a rock. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 I need a break.
 
-#### Scene
 
 **Childish Jiang:** Ah, you found me!
 
@@ -386,7 +351,6 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** Every time we've played hide-and-seek before, Mommy can never ever find me and Daddy until Daddy comes out on purpose... Or if Mommy yells at him to come out, that works too.
 
-#### Scene
 
 **Childish Jiang:** Give up?
 
@@ -394,19 +358,15 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** Let's have another round, you'll definitely be able to find me this time. Well? You wanna carry on playing?
 
-#### Scene
 
 **Childish Jiang:** My hiding place is in the north. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** My hiding place is near a big rock to the north. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** My hiding place is next to one of the trees round here. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** Haha, guess you couldn't find me after all?
 
@@ -414,7 +374,6 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** There's no way you can compete with my daddy at this game, so I'll have to give you a clue. My hiding place is nearby that house over there.
 
-#### Scene
 
 **Childish Jiang:** See, you couldn't find me, right? Haha, well this hiding place was picked by my dad, after all.
 
@@ -422,19 +381,15 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** Let's go again! You can do it, you just need to look a little harder.
 
-#### Scene
 
 **Childish Jiang:** My hiding place is in the north. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** My hiding place is in a tree on the slope to the north. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** My hiding place is nearby that house. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** Hmm... Well, this is the ultimate hiding place, I guess.
 
@@ -442,7 +397,6 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** Let's give it another go.
 
-#### Scene
 
 **Childish Jiang:** Still can't find me... Alright, I guess you're allowed another clue.
 
@@ -450,7 +404,6 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** Got it? Let's try again, you should be able to find me this time.
 
-#### Scene
 
 **Childish Jiang:** My ultimate hiding place is even better than I thought. Seems like you'll never find me there...
 
@@ -458,19 +411,15 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** Hee-hee... Who knows what you might find there — maybe me!
 
-#### Scene
 
 **Childish Jiang:** My hiding place is to the east. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** My hiding place is nearby that house to the east. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** My hiding place is next to the cliff. Do you wanna carry on playing hide-and-seek with me?
 
-#### Scene
 
 **Childish Jiang:** So, are you ready?
 
@@ -558,7 +507,6 @@ That tree doesn't hide you completely.
 
 **Childish Jiang:** Okay, this time I'm gonna go to... my ultimate hiding place! You'll never find me there.
 
-#### Scene
 
 It wasn't that hard to find.
 
@@ -592,11 +540,9 @@ It wasn't that hard to find.
 
 **Childish Jiang:** Okay, I'm going home. You can carry on with your other stuff now.
 
-#### Scene
 
 **Childish Jiang:** Looks like this was kinda hard work for you.
 
-#### Scene
 
 Yeah, I need a rest.
 
@@ -606,7 +552,6 @@ Yeah, I need a rest.
 
 在天衡山上，你遇见了一位奇怪的人，他正在找人陪他玩捉迷藏…
 
-#### 场景
 
 **小姜:** 我就藏在南边喔，还要继续和我捉迷藏吗？
 
@@ -614,7 +559,6 @@ Yeah, I need a rest.
 
 **小姜:** 我就藏在南边的悬崖旁边喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 哎呀，被找到了，这里很明显吗？
 
@@ -626,7 +570,6 @@ Yeah, I need a rest.
 
 没问题。
 
-#### 场景
 
 **小姜:** 嘿嘿，怎么样，空/荧，你果然找不到我吧。
 
@@ -634,7 +577,6 @@ Yeah, I need a rest.
 
 **小姜:** 我就藏在石头后面喔，嘿嘿，仔细找找吧。要继续吗？
 
-#### 场景
 
 **小姜:** 空/荧还是没找到吗？
 
@@ -644,19 +586,15 @@ Yeah, I need a rest.
 
 没问题。
 
-#### 场景
 
 我先休息一下。
 
-#### 场景
 
 **小姜:** 我就藏在石头后面喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 我先休息一下。
 
-#### 场景
 
 **小姜:** 呀，被找到了。
 
@@ -676,7 +614,6 @@ Yeah, I need a rest.
 
 **小姜:** 每次玩捉迷藏的时候，如果不是他特意出来…或者是妈妈喊他出来，妈妈绝对找不到我们两个。
 
-#### 场景
 
 **小姜:** 怎么？是找不到我了吗？
 
@@ -684,19 +621,15 @@ Yeah, I need a rest.
 
 **小姜:** 我们再来一次，这次空/荧应该能找到我了吧。要继续吗？
 
-#### 场景
 
 **小姜:** 我就藏在北边喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 我就藏在北边的一块大石头周围，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 我就藏在周围的某棵树旁边喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 哼哼，这次空/荧果然找不到我了
 
@@ -704,7 +637,6 @@ Yeah, I need a rest.
 
 **小姜:** 空/荧你肯定没我爸爸厉害，我就提示你一下好了，我就藏那边的屋子周围喔。
 
-#### 场景
 
 **小姜:** 怎么样，果然找不到我吧，哼哼，毕竟我爸爸可是很厉害的。
 
@@ -712,19 +644,15 @@ Yeah, I need a rest.
 
 **小姜:** 我们再来一次，空/荧要加油喔。
 
-#### 场景
 
 **小姜:** 我就藏在北边喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 我就藏在北边坡上的一棵树喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 我就藏在那个屋子周围喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 嗯…不愧是我的终极藏身所啊。
 
@@ -732,7 +660,6 @@ Yeah, I need a rest.
 
 **小姜:** 我们再来一次吧。
 
-#### 场景
 
 **小姜:** 还是找不到吗？嗯…那我再提示一下。
 
@@ -740,7 +667,6 @@ Yeah, I need a rest.
 
 **小姜:** 那我们再来一次，这次你应该找得到了吧。
 
-#### 场景
 
 **小姜:** 我的终极藏身所果然厉害啊，看样子空/荧确实找不到了呢…
 
@@ -748,19 +674,15 @@ Yeah, I need a rest.
 
 **小姜:** 嘿嘿…说不定，我就躲在那附近哦。
 
-#### 场景
 
 **小姜:** 我就藏在东边喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 我就藏在东边屋子的周围喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 我就藏在悬崖边喔，还要继续和我捉迷藏吗？
 
-#### 场景
 
 **小姜:** 空/荧，你准备好了吗？52
 
@@ -848,7 +770,6 @@ Yeah, I need a rest.
 
 **小姜:** 这次我要去我的终极秘密藏身所啦！这回你们肯定找不到我！
 
-#### 场景
 
 其实还好。
 
@@ -882,10 +803,8 @@ Yeah, I need a rest.
 
 **小姜:** 好啦，我也要回家了，空/荧，你也去忙你的事吧。
 
-#### 场景
 
 **小姜:** 看你的样子，应该费了点功夫吧。
 
-#### 场景
 
 我先休息一下。

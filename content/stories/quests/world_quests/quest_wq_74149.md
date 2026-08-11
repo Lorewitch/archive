@@ -26,7 +26,6 @@
 
 Вы нашли новую работу...
 
-#### Сцена
 
 Есть ли для меня новая работа?
 
@@ -106,7 +105,6 @@
 
 **Паймон:** Звучит проще простого! Мы справимся.
 
-#### Сцена
 
 **Бенуа Леруа:** Забыли, что нужно делать? Какая забывчивая пошла молодёжь, хе-хе...
 
@@ -182,7 +180,6 @@
 
 You've gotten a new job...
 
-#### Scene
 
 Any new work?
 
@@ -262,7 +259,6 @@ You explain to Mr. Leroy why you're here.
 
 **Paimon:** Well, that sounds simple enough. No problem! Leave it to us.
 
-#### Scene
 
 **Benoit Leroy:** Did you forget what I'd asked you to do? ...Ah, children and their memories.
 
@@ -338,7 +334,6 @@ See you tomorrow.
 
 你们接到了一份新工作…
 
-#### 场景
 
 关于新工作…
 
@@ -418,7 +413,6 @@ See you tomorrow.
 
 **派蒙:** 听起来很简单嘛，没问题，交给我们吧。
 
-#### 场景
 
 **伯努瓦·勒鲁瓦:** 忘了我请你们做什么事了吗？小孩子的记性啊，哈哈。
 

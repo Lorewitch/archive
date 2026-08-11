@@ -108,7 +108,6 @@
 
 **Хранитель Облаков:** Чудо кулинарной машинерии... включено!
 
-#### Сцена
 
 Ещё нет.
 
@@ -148,7 +147,6 @@
 
 **Хранитель Облаков:** Моё безграничное к тебе доверие говорит лишь только о твоей силе. Когда придётся время, не отказывайся.
 
-#### Сцена
 
 **Хранитель Облаков:** Следить за температурой поручаю тебе, путешественни(ца)(к).
 
@@ -240,7 +238,6 @@ Yep, I'm ready.
 
 **Cloud Retainer:** Supreme Cuisine Machine... activate!
 
-#### Scene
 
 I'm not ready yet.
 
@@ -280,7 +277,6 @@ I'm not ready yet.
 
 **Cloud Retainer:** A measure of faith one has that you shall not decline should that time come. Most highly does one regard your abilities and trustworthiness, after all.
 
-#### Scene
 
 **Cloud Retainer:** One shall entrust the heat control to you, Traveler.
 
@@ -372,7 +368,6 @@ I'm not ready yet.
 
 **留云借风真君:** 机关烹饪神机…启！
 
-#### 场景
 
 还没准备好。
 
@@ -412,6 +407,5 @@ I'm not ready yet.
 
 **留云借风真君:** 到时候，你可千万不要推辞啊。毕竟本仙信得过你，最是认可你的实力。
 
-#### 场景
 
 **留云借风真君:** 照看火候的事，就交给你负责了，旅行者。

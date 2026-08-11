@@ -6,8 +6,8 @@
 # title_en: Kinich's Deal
 # title_zh: 基尼奇的交易
 # region: Натлан
-# game_version: 1.0
-# release_versions: 1.0,5.0
+# game_version: 5.0
+# release_versions: 5.0
 # source_id: 2054
 # chapter_num_ru: Пламя поворота Юпанки. Глава III
 # chapter_num_en: Yupanqui's Turnfire: Act III
@@ -18,7 +18,7 @@
 # related_quests: quest_lq_2052,quest_lq_2053
 # quest_chain: quest_lq_2052,quest_lq_2053,quest_lq_2054
 # quest_series: Yupanqui's Turnfire
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 
@@ -964,7 +964,6 @@
 
 **Тринидад:** Уже лучше?
 
-#### Сцена
 
 **Тоба:** Путешественник! Вы наконец здесь! Я даже дядю своего привёл, чтобы церемонию посмотреть!
 
@@ -982,7 +981,6 @@
 
 **Паймон:** Вперёд!
 
-#### Сцена
 
 Мне ещё нужно подготовиться.
 
@@ -2338,7 +2336,6 @@ Having finished your preparations, the last Turnfire Night approaches...
 
 **Trinidad:** Are you ready?
 
-#### Scene
 
 **Toba:** Mr. / Miss Traveler! You're finally here! I even dragged my uncle out to watch the ceremony.
 
@@ -2356,7 +2353,6 @@ Yeah, let's head off.
 
 **Paimon:** Off we go!
 
-#### Scene
 
 I still need time to prepare.
 
@@ -3712,7 +3708,6 @@ I still need time to prepare.
 
 **特立尼达:** 感觉好点了吗？
 
-#### 场景
 
 **多巴:** 旅行者哥哥 / 姐姐！终于等到你了，我特地拉了舅舅一起过来呢。
 
@@ -3730,7 +3725,6 @@ I still need time to prepare.
 
 **派蒙:** 出发！
 
-#### 场景
 
 还要再准备一下。
 

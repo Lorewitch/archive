@@ -1,6 +1,6 @@
 # id: quest_wq_75658
 # story_group: event_chronicles
-# display_category: Ивент · On the Trail of Behemoths }}
+# display_category: Ивент · По следам исполинов
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Что здесь делают члены тайной организации?
 # title_en: Why Did a Member of a "Secret Organization" Come Here?
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_75507
 # related_quests: quest_wq_75507
 # quest_chain: quest_wq_75658,quest_wq_75507
-# quest_series: On the Trail of Behemoths }}
+# quest_series: On the Trail of Behemoths
 # version_source: wiki_release_category
 
 ## RU

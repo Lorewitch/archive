@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** А, это ты? Как раз вовремя. Мне нужна помощь.
 
@@ -376,7 +375,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** Ah, you're here. Great timing. I have need of aid.
 
@@ -726,7 +724,6 @@ This one's called the "Invigorating Kitty Meal," you know.
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 是汝啊，来得正好。正好奴家有事情要人帮忙。
 

@@ -26,7 +26,6 @@
 
 Похоже, в «Паровой птице» произошло преступление...
 
-#### Сцена
 
 **Паймон:** (Множество следов разной глубины и рисунка перекрывают друг друга.)
 
@@ -174,11 +173,9 @@
 
 **Талокард:** Ладно, давайте ещё раз осмотрим место преступления. Месье Артур исчез прошлой ночью, здесь наверняка остались какие-то улики!
 
-#### Сцена
 
 **Рошер:** Без железных доказательств это просто оскорбление моей чести и достоинства.
 
-#### Сцена
 
 **Кевин:** Мама, это правда? Папа... И ты...
 
@@ -196,15 +193,12 @@
 
 **Талокард:** Нужно записать это в заметки детектива!
 
-#### Сцена
 
 **Рошер:** Клянусь, на этот раз я не обманываю! Пусть железяка докажет!
 
-#### Сцена
 
 **Боланд! Ломброзо!:** (Пёсик смотрит на вас, словно чего-то ожидая.)
 
-#### Сцена
 
 **Груда грязных пустых бутылок:** (От груды грязных бутылок из-под вина странно пахнет, как от наполненного рыбой солёного моря.)
 
@@ -282,7 +276,6 @@
 
 **Талокард:** Тогда... Тогда давайте обыщем окрестности. Вор явно живёт где-то здесь.
 
-#### Сцена
 
 **Боланд! Ломброзо!:** Гав! Гав!
 
@@ -778,7 +771,6 @@
 
 The Steambird seems to have had a crime unfold on their own doorstep...
 
-#### Scene
 
 **Paimon:** (A tangle of footprints, with no consistent depth or pattern.)
 
@@ -926,11 +918,9 @@ Wait, you're playing hooky?
 
 **Talochard:** Okay, so next we should investigate the scene. Sir Arthur disappeared last night, so there should still be clues to be found!
 
-#### Scene
 
 **Rocher:** Without real evidence, all you can do is insult me.
 
-#### Scene
 
 **Kevin:** Mom, are you telling the truth? That Pop and... and you...
 
@@ -948,15 +938,12 @@ Wait, you're playing hooky?
 
 **Talochard:** Let's record this in our investigation notes first!
 
-#### Scene
 
 **Rocher:** I swear, on that metal bucket, that I am not lying to anyone.
 
-#### Scene
 
 **Baulande! Lombroso!:** (The puppy looks at you, as if waiting for something.)
 
-#### Scene
 
 **Pile of Dirty, Empty Wine Bottles:** (A pile of dirty, empty wine bottles from which a strange smell wafts, like a sea filled with salty fish.)
 
@@ -1034,7 +1021,6 @@ Wait, you're playing hooky?
 
 **Talochard:** Th—Then let's search the area. That thief must be here somewhere.
 
-#### Scene
 
 **Baulande! Lombroso!:** Woof! Woof!
 
@@ -1530,7 +1516,6 @@ Why was he found guilty?
 
 蒸汽鸟报社似乎发生了一桩案子…
 
-#### 场景
 
 **派蒙:** （数枚互相交叠，深浅、纹路不一的脚印。）
 
@@ -1678,11 +1663,9 @@ Why was he found guilty?
 
 **托萝莎:** 好了，接着就再调查一下案发现场吧。亚瑟先生的失踪是在昨晚，这里一定留下了什么线索！
 
-#### 场景
 
 **罗谢:** 没有强而有力的证据，你们就是在羞辱我的人格。
 
-#### 场景
 
 **凯万:** 妈妈，你说的是真的吗？你说爸爸…还有你…
 
@@ -1700,15 +1683,12 @@ Why was he found guilty?
 
 **托萝莎:** 先把它记录进探案笔记吧！
 
-#### 场景
 
 **罗谢:** 我发誓，这回我真没骗人，有那个大铁棍子认证！
 
-#### 场景
 
 **博兰德！郎勃罗梭！:** （小狗望着你们，好像在期待什么。）
 
-#### 场景
 
 **脏兮兮的空酒瓶堆:** （脏兮兮的空酒瓶堆，散发着微妙的气味，像是装着咸鱼的大海。）
 
@@ -1786,7 +1766,6 @@ Why was he found guilty?
 
 **托萝莎:** 那…那我们先搜查一下附近好了，那个小偷肯定就住在这里。
 
-#### 场景
 
 **博兰德！郎勃罗梭！:** 汪！汪！
 

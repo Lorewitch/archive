@@ -1558,7 +1558,6 @@
 
 **Доктор:** Но прежде чем покончить с вами, мир должен узнать о моём прибытии.
 
-#### Сцена
 
 **Доктор:** Я знаю, вы пытаетесь бороться, придумываете жалкие трюки, но вижу, довести дело до конца у вас не получилось.
 
@@ -1840,7 +1839,6 @@
 
 **Майка:** Спасибо!
 
-#### Сцена
 
 **Майка:** Тётя робот, ты так круто выглядишь, когда летаешь! И когда бросаешь копьё!
 
@@ -2366,7 +2364,6 @@
 
 (Пора возвращаться в Тейват?)
 
-#### Сцена
 
 **Альбедо:** Мы ещё на некоторое время задержимся в Нод-Крае, чтобы помочь магистру Варке с делами.
 
@@ -2390,7 +2387,6 @@
 
 !..
 
-#### Сцена
 
 Наш с Люмин / Итэром корабль...
 
@@ -4232,7 +4228,6 @@ Dottore!
 
 **The Doctor:** And in any case, it is only right that, before I end your lives, the world is informed of the arrival of their new god.
 
-#### Scene
 
 **The Doctor:** I'm aware you've been working on some little tricks to surprise me with, but it appears that none of them have come to fruition.
 
@@ -4514,7 +4509,6 @@ I'll take the picture.
 
 **Maika:** Thank you!
 
-#### Scene
 
 **Maika:** You look so cool when you fly, Miss Robot. And when you use your spear, too!
 
@@ -5040,7 +5034,6 @@ I think I'll stay here with Columbina for a little longer...
 
 (Should we return to Teyvat now?)
 
-#### Scene
 
 **Albedo:** We'll be staying in Nod-Krai for a while longer to wrap some things up for Grand Master Varka.
 
@@ -5064,7 +5057,6 @@ I think I'll stay here with Columbina for a little longer...
 
 ...!
 
-#### Scene
 
 Our spaceship...
 
@@ -6906,7 +6898,6 @@ We should probably head back...
 
 **「博士」:** 而在终结你们之前，世界应当被告知，我已降临。
 
-#### 场景
 
 **「博士」:** 我知道你们在搞些自以为挣扎的小花招，不过看起来，似乎没能坚持到进程的最后一步啊。
 
@@ -7188,7 +7179,6 @@ We should probably head back...
 
 **玛伊佳:** 谢谢你！
 
-#### 场景
 
 **玛伊佳:** 机器人姐姐，你飘起来的样子，还有举起长枪的样子都非常帅气哦！
 
@@ -7714,7 +7704,6 @@ We should probably head back...
 
 （要返回提瓦特了吗？）
 
-#### 场景
 
 **阿贝多:** 我们还会在挪德卡莱待一阵子，帮法尔伽团长处理些杂事。
 
@@ -7738,7 +7727,6 @@ We should probably head back...
 
 ……！
 
-#### 场景
 
 我和荧 / 哥哥的…飞船…
 

@@ -284,7 +284,6 @@
 
 **Сальса:** Контуры цветников на лугу созданы самой природой, и если мы хотим, чтобы уродливые вещи смотрелись менее уродливо, нужно подчинить их расположение линиям природы.
 
-#### Сцена
 
 **Сальса:** Неплохо, неплохо! Посмотрите, стало намного красивее!
 
@@ -799,7 +798,6 @@ Littering is bad.
 
 **Salsa:** The pattern of the flower bushes in the meadow follows the flow of nature, so if we don't want the ugly things to hurt our eyes, we need to arrange them so that they too, follow the flow.
 
-#### Scene
 
 **Salsa:** Good, very good. It looks so much better this way!
 
@@ -1314,7 +1312,6 @@ When it's time to part, you say your goodbyes, and Salsa skips away merrily with
 
 **萨莎:** 草地上的花丛连成的图形就是自然的走势，所以，想要丑东西不那么难看，就得让它们都顺应自然的走势。
 
-#### 场景
 
 **萨莎:** 不错，真不错，瞧瞧，这样不就好看多了吗！
 

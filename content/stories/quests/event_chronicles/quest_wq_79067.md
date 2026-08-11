@@ -724,7 +724,6 @@
 
 **Симест:** Но перед этим... мне нужно хорошенько отдохнуть и подумать.
 
-#### Сцена
 
 **Ореллу:** О! Рад нашей встрече. Ха-ха-ха, похоже, вы очень популярны, раз даже принцесса Симест о вас знает.
 
@@ -1544,7 +1543,6 @@ So you told him you could do it?
 
 **Cimest:** But first, I must... Rest well, and think hard.
 
-#### Scene
 
 **Horellou:** Oh! Pleasure to meet you, hahaha! It seems you're a popular one indeed — even Her Highness Princess Cimest knows of you!
 
@@ -2364,7 +2362,6 @@ Are you willing to travel together with Her Highness?
 
 **西梅:** 但在那之前，我需要…好好休息一会，也好好想一想…
 
-#### 场景
 
 **奥雷卢:** 喔！很高兴见到您，哈哈哈，看来您很受欢迎啊，就连西梅公主殿下也知道您。
 

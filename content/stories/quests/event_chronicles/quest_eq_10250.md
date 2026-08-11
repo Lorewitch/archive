@@ -368,7 +368,6 @@
 
 **Саю:** Меня не видно. Меня не видно.
 
-#### Сцена
 
 Подожди немного, мне нужно подготовиться.
 
@@ -940,7 +939,6 @@ Better to take our time. Let's rest for a bit before we go.
 
 **Sayu:** You can't see me. You can't see me.
 
-#### Scene
 
 I just need a sec.
 
@@ -1512,7 +1510,6 @@ Not a chance!
 
 **早柚:** 看不见我。看不见我。
 
-#### 场景
 
 再等等，马上准备好。
 

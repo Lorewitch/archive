@@ -814,7 +814,6 @@
 
 **Аратаки Итто:** Пора. Давайте схватим их!
 
-#### Сцена
 
 **Дайсукэ:** Поверьте мне, пожалуйста! Дядя Итто не делал ничего плохого, он хороший!
 
@@ -2128,7 +2127,6 @@ After Daisuke points out the inconsistencies in his story, Arataki Itto is force
 
 **Arataki Itto:** Alright, it's go time. Let's get 'em!
 
-#### Scene
 
 **Daisuke:** Please, you gotta believe me! Uncle Itto didn't do anything wrong, he's not a bad guy!
 
@@ -3442,7 +3440,6 @@ Is he always like this?
 
 **荒泷一斗:** 我们上，把他们全都抓住！
 
-#### 场景
 
 **大辅:** 求求你们相信我，一斗哥哥没有做坏事！他不是坏人！
 

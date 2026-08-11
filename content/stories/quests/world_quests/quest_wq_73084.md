@@ -26,7 +26,6 @@
 
 Где-то в пустыне перед гигантским руинным механизмом стоит махамата Афрату, который, кажется, чем-то обеспокоен...
 
-#### Сцена
 
 **Афрату:** Вы Пустынники, пришедшие по поручению, которое оставил я, Афрату? Если нет, пожалуйста, оставайтесь здесь.
 
@@ -244,7 +243,6 @@
 
 Somewhere in the desert in front of a giant ruin machine, Mahamata Afratu seems to be troubled by something...
 
-#### Scene
 
 **Afratu:** Are you the Eremites that I, Afratu, commissioned? Please stop here if you are not.
 
@@ -462,7 +460,6 @@ That sounds like trouble.
 
 在沙漠某处的巨大遗迹机关前，教令官阿弗拉图似乎在苦恼些什么…
 
-#### 场景
 
 **阿弗拉图:** 你们是受本人阿弗拉图委托而来的镀金旅团吗？如果不是的话，还是请在此留步吧。
 

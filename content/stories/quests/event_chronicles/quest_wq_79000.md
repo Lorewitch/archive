@@ -86,7 +86,6 @@
 
 **Закрытый сундук:** Открылась! Скорее посмотрим, что там внутри.
 
-#### Сцена
 
 **Паймон:** Нашли! Сокровища, сокровища, что же внутри?..
 
@@ -180,7 +179,6 @@ You discover a strange conch shell on Twinning Isle in the Golden Apple Archipel
 
 **Locked Chest:** It opened! Let's have a look at what's inside!
 
-#### Scene
 
 **Paimon:** Found it! Treasure, treasure... Wonder what'll we find inside...
 
@@ -274,7 +272,6 @@ There's a dearth of scholars, Treasure Hoarders, and adventurers, too.
 
 **上锁的箱子:** 打开了！快看看里面有什么东西吧。
 
-#### 场景
 
 **派蒙:** 找到啦！宝藏，宝藏，里面会有什么呢…
 

@@ -1,6 +1,6 @@
 # id: quest_wq_71505
 # story_group: event_chronicles
-# display_category: Ивент · A Muddy Bizarre Adventure }}
+# display_category: Ивент · По уши в приключениях
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Доклад о работе самоциркуляции шипа: заключение
 # title_en: Spike Self-Circulation Report: Conclusion
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_71510
 # related_quests: quest_wq_71501,quest_wq_71506,quest_wq_71502,quest_wq_71507,quest_wq_71503,quest_wq_71508,quest_wq_71504,quest_wq_71509,quest_wq_71510
 # quest_chain: quest_wq_71501,quest_wq_71506,quest_wq_71502,quest_wq_71507,quest_wq_71503,quest_wq_71508,quest_wq_71504,quest_wq_71509,quest_wq_71505,quest_wq_71510
-# quest_series: A Muddy Bizarre Adventure }}
+# quest_series: A Muddy Bizarre Adventure
 # version_source: wiki_release_category
 
 ## RU

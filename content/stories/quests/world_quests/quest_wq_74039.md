@@ -26,7 +26,6 @@
 
 Верената явно чем-то обеспокоена. Надо ей помочь...
 
-#### Сцена
 
 **Верената:** Так... Кашица из сушёных водорослей, солёная требуха темнозвёздника и... ага, «небольшое количество»... Гм, «небольшое количество» - это сколько?
 
@@ -312,7 +311,6 @@
 
 Verenata seems to be troubled by something. Go help her out.
 
-#### Scene
 
 **Verenata:** Hmm... A Tidalga slurry, the crushed innards of Lumitoile, and a little... Wait, how much is a "little" exactly?
 
@@ -598,7 +596,6 @@ I saw... half of a semi-transparent boat?
 
 薇蕾娜妲似乎正为什么事情苦恼，去帮帮忙吧。
 
-#### 场景
 
 **薇蕾娜妲:** 唔…风干汐藻糊糊，幽光星星的腌制内脏，再加上…嗯，「少许」…啊啊，「少许」是多少嘛…
 

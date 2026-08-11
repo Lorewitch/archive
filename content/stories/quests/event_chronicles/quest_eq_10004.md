@@ -144,7 +144,6 @@
 
 **Нимрод:** Если у вас больше нет вопросов, я возвращаюсь к Похитителям сокровищ. Вернее, к наблюдению за Похитителями сокровищ...
 
-#### Сцена
 
 **Бэй Эр:** Прошу, пощади! Великий Адепт! Защитник Якса! Друг всего живого!
 
@@ -348,7 +347,6 @@ Get to the point, Paimon.
 
 **Nimrod:** If there's nothing more, I should get back to treasure hoarding. ...I mean, get back to those treasure-hoarding lowlifes. To spy on them. Heh.
 
-#### Scene
 
 **Bei'er:** Please, oh great one! Heroic Yaksha of Liyue! Divine Adeptus and friend of the people! Have mercy!
 
@@ -552,7 +550,6 @@ Show us the anonymous letter.
 
 **宁禄:** 那么，如果没什么别的事情，我就回去继续盗…我是说，回去监视盗宝团了。
 
-#### 场景
 
 **贝儿:** 英雄大人，神仙哥哥！手下留情！
 

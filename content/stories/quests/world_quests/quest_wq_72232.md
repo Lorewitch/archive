@@ -26,7 +26,6 @@
 
 У жрицы святилища Сангономии Сидзуру есть одно срочное поручение, с которым можете справиться только вы...
 
-#### Сцена
 
 **Сидзуру:** Приветствую, Путешественник. Не найдётся ли у тебя времени обсудить некоторые вещи?
 
@@ -316,7 +315,6 @@
 
 The Sangonomiya shrine maiden Shizuru has an emergency commission that only you can complete...
 
-#### Scene
 
 **Shizuru:** Greetings, Traveler. Would you perhaps be at leisure to discuss a few matters?
 
@@ -606,7 +604,6 @@ And those people on Yashiori Island...
 
 珊瑚宫的巫女思鹤似乎有一份紧急委托，非旅行者不能完成…
 
-#### 场景
 
 **思鹤:** 您好，旅行者。请问方便谈一些事情吗？
 

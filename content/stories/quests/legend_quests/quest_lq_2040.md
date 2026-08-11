@@ -644,7 +644,6 @@
 
 **Лини:** Отлично. Мастерская должна быть внизу.
 
-#### Сцена
 
 **Джемма:** Линетт? Не ожидала тебя здесь встретить.
 
@@ -900,7 +899,6 @@
 
 **Лини:** Путешественник, Паймон. Проследите, чтобы Лоренцо никуда не сбежал. Встречаемся у входа в мастерскую.
 
-#### Сцена
 
 **Список желаний:** «Хочу, чтобы жареная курица на тарелке никогда не кончалась».
 
@@ -910,7 +908,6 @@
 
 **Список желаний:** И ещё, есть слишком много жареного вредно для здоровья. Всегда клади на тарелку к курице немного полезного салата. Сезар.
 
-#### Сцена
 
 **Список желаний:** «Хочу, чтобы папа с мамой помирились».
 
@@ -2164,7 +2161,6 @@ Could it be Jemma?
 
 **Lyney:** There we go! It should be just down here.
 
-#### Scene
 
 **Jemma:** ...Lynette? Fancy meeting you here.
 
@@ -2420,7 +2416,6 @@ But I heard that The Phantom Weasel stole from the rich and poor alike.
 
 **Lyney:** Traveler, Paimon, keep an eye on Lorenzo for me. I'll meet you just outside the workshop when I'm back.
 
-#### Scene
 
 **Wishlist:** "I want a bucket of fried chicken that never runs out."
 
@@ -2430,7 +2425,6 @@ But I heard that The Phantom Weasel stole from the rich and poor alike.
 
 **Wishlist:** Also, eating too much fried food is bad for you. Make sure to pair it with something healthy, like a salad, alright? — Cesar
 
-#### Scene
 
 **Wishlist:** "I wish my parents would get back together."
 
@@ -3684,7 +3678,6 @@ What's made headlines today? Go to The Steambird and check it out!
 
 **林尼:** 有了，从这里下去，应该很快就到了。
 
-#### 场景
 
 **嘉玛:** 这么巧，你也在咖啡馆？
 
@@ -3940,7 +3933,6 @@ What's made headlines today? Go to The Steambird and check it out!
 
 **林尼:** 旅行者、派蒙，你们先看住洛伦佐，等下我们在工坊外会合吧。
 
-#### 场景
 
 **愿望清单:** 「想要吃不完的炸鸡块。」
 
@@ -3950,7 +3942,6 @@ What's made headlines today? Go to The Steambird and check it out!
 
 **愿望清单:** 另外吃太多油炸食品对身体不好，要搭配更加健康的沙拉一起吃，记住了吗？塞萨尔留。
 
-#### 场景
 
 **愿望清单:** 「希望父母和好。」
 

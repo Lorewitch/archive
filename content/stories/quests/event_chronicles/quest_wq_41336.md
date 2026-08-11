@@ -26,7 +26,6 @@
 
 Линь Лин из Ли Юэ что-то заботит...
 
-#### Сцена
 
 **Заведующий Сяо:** «Каменная безмятежность...» Таки неплохо!
 
@@ -294,7 +293,6 @@
 
 Linling from Liyue Harbor seems to be troubled by something...
 
-#### Scene
 
 **Manager Xiao:** "Peaceful as a Slumbering Mountain"... that's pretty good!
 
@@ -562,7 +560,6 @@ Uh, will do...
 
 璃月港的霖铃似乎正在因为什么事而烦恼…
 
-#### 场景
 
 **枭总管:** 久安如山…倒是不错。
 

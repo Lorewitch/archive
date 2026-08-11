@@ -26,7 +26,6 @@
 
 У хозяина цветочного луга возникли неприятности...
 
-#### Сцена
 
 **Эрншоу:** Ах вы злодеи! Непослушные созданья! Давайте, бегите. Да подальше, за гору, в город, чтоб я вас не видел!
 
@@ -114,7 +113,6 @@
 
 **Эрншоу:** Хорошие детки, поиграйте немного с Лануар.
 
-#### Сцена
 
 **Лануар:** Ого! Это же братец / сестрица Путешественник и Паймон!
 
@@ -312,11 +310,9 @@
 
 **Паймон:** Хорошо! И вы тоже берегите себя, дедушка Эрншоу и Лануар.
 
-#### Сцена
 
 **Эрншоу:** Положусь на вас, детишки. Надеюсь, вы вернёте этих трёх негодников домой.
 
-#### Сцена
 
 **Лануар:** Так вот как выглядит то, о чем говорил братец Катер - мой дом, о котором я и сама не знала.
 
@@ -328,7 +324,6 @@
 
 The owner of the flower garden has encountered a small problem...
 
-#### Scene
 
 **Earnshaw:** Villains... You recalcitrant villains! That's right, run, run far, far away! To the other side of the mountain, to the city alleys — and make sure I don't see you!
 
@@ -416,7 +411,6 @@ The owner of the flower garden has encountered a small problem...
 
 **Earnshaw:** Great. You kids play with Lanoire for a little while.
 
-#### Scene
 
 **Lanoire:** Oh! It's Mr. / Ms. Traveler and Ms. Paimon!
 
@@ -614,11 +608,9 @@ A joyful time passes amid conversation and laughter...
 
 **Paimon:** We will! You be sure to look after yourselves, as well.
 
-#### Scene
 
 **Earnshaw:** Good children, I'm relying on you to bring those three rapscallions back.
 
-#### Scene
 
 **Lanoire:** So, this is the home I didn't know about that Cater talked about.
 
@@ -630,7 +622,6 @@ A joyful time passes amid conversation and laughter...
 
 花田的主人遇到了一些小麻烦…
 
-#### 场景
 
 **恩肖:** 坏东西…你们这些不听话的坏东西！最好是再跑远点，跑去山的那一边，跑进城里的小巷，跑到我看不见的地方去！
 
@@ -718,7 +709,6 @@ A joyful time passes amid conversation and laughter...
 
 **恩肖:** 好孩子，你们陪莉诺尔玩一会儿吧。
 
-#### 场景
 
 **莉诺尔:** 哇！是旅行者哥哥 / 姐姐和派蒙姐姐！
 
@@ -916,11 +906,9 @@ A joyful time passes amid conversation and laughter...
 
 **派蒙:** 知道啦！恩肖爷爷和莉诺尔也要照顾好自己哦。
 
-#### 场景
 
 **恩肖:** 好孩子，就靠你们把那三个不听话的坏东西带回家了。
 
-#### 场景
 
 **莉诺尔:** 原来这就是卡特哥哥说的，我不知道的我的家。
 

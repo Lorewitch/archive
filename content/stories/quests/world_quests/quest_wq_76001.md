@@ -26,21 +26,17 @@
 
 Воин, бродящий по чёрной бездне, всё ещё хранит невыполненную клятву...
 
-#### Сцена
 
 **Люшня:** Спасибо вам!
 
-#### Сцена
 
 **Паймон:** Это что ещё такое? Это ведь вещь того странного человека...
 
-#### Сцена
 
 **Осмотреть:** «За алтари и очаги».
 
 (Вернуть снаряжение)
 
-#### Сцена
 
 **Суховых:** Пожалуйста, отнесите реликвию к его могиле. Она находится недалеко от руин восточного поля битвы на острове Лемпо. Да наступит день упокоения его духа...
 
@@ -88,21 +84,17 @@
 
 A warrior who walks the abyss seeks to carry out an as-yet unfulfilled oath...
 
-#### Scene
 
 **Lushne:** We will be in your debt.
 
-#### Scene
 
 **Paimon:** Eh? What's this? Did it belong to that strange guy?
 
-#### Scene
 
 **Check:** "Pro aris et focis."
 
 (Return the relics.)
 
-#### Scene
 
 **Sukhovykh:** Please take those relics to his grave. It lies near the eastern battlefield ruins on Lempo Isle. May the day soon come when his spirit may rest...
 
@@ -150,21 +142,17 @@ Will do.
 
 漫步黑渊的战士仍在履行尚未完成的誓约…
 
-#### 场景
 
 **卢什涅:** 拜托了。
 
-#### 场景
 
 **派蒙:** 欸？这是什么？是刚才那个奇怪的人的东西吗…
 
-#### 场景
 
 **查看:** 「为了家园与炉火。」
 
 （交还装备。）
 
-#### 场景
 
 **苏霍维赫:** 劳烦两位将遗物带去伦波岛东的战场遗址，带去他的墓前吧。愿他的灵魂得以安息的那一日尽早到来…
 

@@ -27,7 +27,6 @@
 «Папа, если бы ты коснулся звёзд, ты бы захотел вернуться на землю?»
 «Все летающие существа рождаются на земле или в гнезде, и все должны вернуться туда, откуда пришли».
 
-#### Сцена
 
 **Маньойя:** Красивый вид! И для полётов подходит. Парить в небесах вместе с ветром... Что может быть лучше?
 
@@ -103,7 +102,6 @@
 
 **Маньойя:** Дай знать, когда захочешь устроить соревнования.
 
-#### Сцена
 
 **Маньойя:** Задача оказалась не так проста?
 
@@ -115,7 +113,6 @@
 
 **Маньойя:** Если хочешь, попробуй ещё раз? Пока ты молод(а), не останавливайся, даже если проиграл(а).
 
-#### Сцена
 
 **Маньойя:** Ну что, посоревнуемся?
 
@@ -129,7 +126,6 @@
 
 **Маньойя:** Конечно. Дай знать, как будешь готов(а). Полёты - дело весёлое!
 
-#### Сцена
 
 **Маньойя:** Мне так понравилось с тобой летать! Надеюсь, ещё полетаем вместе. Береги себя, (юная искательница приключений)(юный искатель приключений).
 
@@ -222,7 +218,6 @@
 "Dad, if you've touched the stars, would you still want to return to the ground?"
 "Every creature that flies is born on the ground or in a nest, and they must all return whence they came."
 
-#### Scene
 
 **Manyoya:** Nice view, don't you think? Perfect for flying too. Soaring through the skies, following the wind... It's an awesome feeling all around.
 
@@ -298,7 +293,6 @@ We're just passing adventurers.
 
 **Manyoya:** Let me know when you're ready to challenge me.
 
-#### Scene
 
 **Manyoya:** Not that easy, huh?
 
@@ -310,7 +304,6 @@ We're just passing adventurers.
 
 **Manyoya:** If you think you can do better, why don't you give it another try? You should never stop trying while you're young. Losing isn't a big deal anyway.
 
-#### Scene
 
 **Manyoya:** So, are we competing, then?
 
@@ -324,7 +317,6 @@ We're just passing adventurers.
 
 **Manyoya:** Of course. Just let me know when you're ready. Flying has always been about relaxing and having fun.
 
-#### Scene
 
 **Manyoya:** I enjoyed flying with you! Let's do this again sometime —but until then, take care, young adventurer.
 
@@ -417,7 +409,6 @@ Until next time, then.
 「爸爸，如果你已经触摸过星星，那你还会愿意回到地面上吗？」
 「所有会飞的生灵都是在土地上或者巢穴中出生的，总要回到它们出生的地方去。」
 
-#### 场景
 
 **曼尤雅:** 这里风景不错吧？而且很适合起飞，顺着风就这么冲上天应该很畅快。
 
@@ -493,7 +484,6 @@ Until next time, then.
 
 **曼尤雅:** 等你有心情的时候，就来找我吧，咱们痛痛快快比一次。
 
-#### 场景
 
 **曼尤雅:** 没那么容易，对吧？
 
@@ -505,7 +495,6 @@ Until next time, then.
 
 **曼尤雅:** 不服气的话，再来尝试咯？年轻就多尝试嘛，输了也没什么大不了的。
 
-#### 场景
 
 **曼尤雅:** 怎么样，比不比？
 
@@ -519,7 +508,6 @@ Until next time, then.
 
 **曼尤雅:** 没关系，等你有心情再说，本来飞行就应该是一件轻松愉快的事。
 
-#### 场景
 
 **曼尤雅:** 和你一起飞很痛快，希望还会有下次，在那之前要保重哦年轻的冒险家。
 

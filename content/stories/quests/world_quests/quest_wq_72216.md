@@ -26,19 +26,16 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** А вот и вы. Каменный человек говорит, у него уже почти всё готово.
 
 **Нэко:** Скорее, идёмте вместе. Каменный человек вон там.
 
-#### Сцена
 
 **Осима Дзюмпэй:** Госпожа временная настоятельница так рада. Похоже, речь идёт о важном для неё человеке.
 
 Ещё бы знать, где этот человек...
 
-#### Сцена
 
 **Эйко:** Хибики, святилище Асасэ, Домэки... Все эти имена заставляют задуматься.
 
@@ -202,19 +199,16 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** You're here. The stone human says that he's just about done.
 
 **Neko:** Come with me. The stone human is just over there.
 
-#### Scene
 
 **Ooshima Junpei:** Haha, the Lady Priestess is so overjoyed. This "Hibiki" must really have been someone of great importance to it.
 
 Trouble is, we don't know where she is...
 
-#### Scene
 
 **Etsuko:** Indeed, "Hibiki," "Asase Shrine," "Domeki"... these names are all quite concerning, actually.
 
@@ -378,19 +372,16 @@ Neko...
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 来了啊。石头人类说，他马上就好了。
 
 **「寝子」:** 汝等，快随奴家去看看吧，石头人类就在那边。
 
-#### 场景
 
 **大岛纯平:** 代宫司大人居然这么高兴，看来那个对它来说，真的是很重要的人啊。
 
 但是，不知道她到底在哪…
 
-#### 场景
 
 **悦子:** 确实，「阿响」…「浅濑神社」和「百目鬼」，都很让人在意。
 

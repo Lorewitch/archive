@@ -26,7 +26,6 @@
 
 Кажется, Пустынники занимаются вербовкой в деревне Аару...
 
-#### Сцена
 
 **Атия:** Вступайте в ряды Пустынников! И тогда ваша жизнь наладится! Эй, хочешь узнать о нас побольше?
 
@@ -332,7 +331,6 @@
 
 In Aaru Village, it seems that a member of the Eremites is recruiting...
 
-#### Scene
 
 **Atiyah:** Join the Eremites and embrace a wonderful new life! Come, friend, would you like to hear about the Eremites?
 
@@ -638,7 +636,6 @@ Are you alright?
 
 在阿如村，似乎有一位镀金旅团的成员正在进行招募活动…
 
-#### 场景
 
 **阿提亚:** 加入镀金旅团！拥抱美好生活！这位朋友，有没有兴趣了解一下我们镀金旅团啊？
 

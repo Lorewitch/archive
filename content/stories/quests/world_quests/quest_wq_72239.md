@@ -116,7 +116,6 @@
 
 **Древняя каменная табличка:** «Супада но Хико, отъявленный разбойник, организатор великих преступлений, сеявший смуту. Во имя великого бога Токоё, да будет лишён он зрения и сокрушена его душа. И брошен он будет в глубокую тюрьму навечно».
 
-#### Сцена
 
 **Паймон:** Э-э... А вот здесь написано... Бандит Супада но Хико?
 
@@ -300,7 +299,6 @@
 
 **Адонис:** Уходи. Тебе здесь не место.
 
-#### Сцена
 
 **Паймон:** Это воды Реки забвения?
 
@@ -308,7 +306,6 @@
 
 **Паймон:** Ну, ладно. Попробуем.
 
-#### Сцена
 
 **Паймон:** Чувствуется, что произошли какие-то изменения. Теперь нам остаётся только ждать.
 
@@ -416,7 +413,6 @@ How will we find them?
 
 **An Ancient Stone Tablet:** "Supada no Hiko, the notorious outlaw, mastermind of great crimes, and the root of unrest. Now in the name of Tokoyo Ookami, may his sight be cut off, and may his soul be crushed. May he be thrown into a deep prison, now and forever."
 
-#### Scene
 
 **Paimon:** Uhh, this reads... "The Bandit, Supada no Hiko"?
 
@@ -600,7 +596,6 @@ What's a Dragonbone Orb?
 
 **Adonis:** Leave. You shouldn't be here.
 
-#### Scene
 
 **Paimon:** Are these the waters of Lethe?
 
@@ -608,7 +603,6 @@ What's a Dragonbone Orb?
 
 **Paimon:** Well, here goes nothing. Let's just grab some.
 
-#### Scene
 
 **Paimon:** It feels like there's been some change. All we can do now is wait.
 
@@ -716,7 +710,6 @@ After the sun, the true light starts...
 
 **一块古老的石碑:** 「贼子须婆达之彦，兴大罪之师，动国之根基。今奉常世大神谕，抉其目，菹其魂，羁幻之重狱，永生永世。」
 
-#### 场景
 
 **派蒙:** 唔…这上面提到了一些名字，贼子须、婆达之彦？
 
@@ -900,7 +893,6 @@ After the sun, the true light starts...
 
 **阿多尼斯:** 赶紧离开，这里可不是你该来的地方。
 
-#### 场景
 
 **派蒙:** 这个就是忘川之水吗…
 
@@ -908,7 +900,6 @@ After the sun, the true light starts...
 
 **派蒙:** 总之先拿去试试吧。
 
-#### 场景
 
 **派蒙:** 感觉已经有一些变化了，接下来只要耐心等待。
 

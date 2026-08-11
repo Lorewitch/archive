@@ -26,7 +26,6 @@
 
 Тадлэ, сокол Массейры, уже долго на задании и не возвращается. Массейра просит вас разыскать сокола...
 
-#### Сцена
 
 **Массейра:** А, Путешественник, уважаемый повелитель / уважаемая повелительница джиннов. Что привело вас?
 
@@ -222,7 +221,6 @@
 
 Tadhla, Masseira's "Falcon," has been on a mission for a long time and has not returned. Thus Masseira asks you to find his "Falcon"...
 
-#### Scene
 
 **Masseira:** Ah, Traveler, esteemed Master of the Jinni. To what do I owe the pleasure?
 
@@ -418,7 +416,6 @@ It's the "Fatui."
 
 马塞拉的「猎鹰」塔德菈去执行任务许久未归，他请求我们去寻找他的「猎鹰」…
 
-#### 场景
 
 **马塞拉:** 啊，旅行者，尊贵的「镇灵主人」，大驾光临，令我受宠若惊。
 

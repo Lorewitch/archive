@@ -26,7 +26,6 @@
 
 В центре озера Амсвартнир собралось множество фей...
 
-#### Сцена
 
 **Паймон:** Странный инструмент: как ни старайся - не издаёт ни звука... Может быть, он сломан?
 
@@ -52,7 +51,6 @@
 
 It seems that many Seelie are gathering at the center of Amsvartnir...
 
-#### Scene
 
 **Paimon:** That's such a weird instrument... No matter how Paimon plucks it, there's not a single sound! Is it broken?
 
@@ -78,7 +76,6 @@ You understand every word of the song — every phrase, every note — even thou
 
 在安瓦蒂尼尔湖心，似乎有许多仙灵聚集在一起…
 
-#### 场景
 
 **派蒙:** 好奇怪的琴，不管怎么拨，都完全发不出声音…该不会是坏掉了吧？
 

@@ -26,7 +26,6 @@
 
 В Разломе вы обнаружили отряд Фатуи, который давно утратили связь с внешним миром. Они не только оказались не в состоянии сражаться, но даже попросили вас о помощи...
 
-#### Сцена
 
 (Приготовиться к бою) Ладно, помогу вам сдаться.
 
@@ -34,7 +33,6 @@
 
 (Прекратить разговор) Мне не нравится твоя шапка.
 
-#### Сцена
 
 **Антон:** Ох... Прошу прощения, что вас задерживаю. Я старший сержант Антон Мельников, командир девятой роты... исполняющий обязанности командира роты. Зовите меня просто Антон.
 
@@ -270,7 +268,6 @@
 
 You encounter a group of Fatui who have lost contact with their troops on the ground. But they don't seem combat able at all and even ask for your help...
 
-#### Scene
 
 (Ready for combat) Fine then, I can help you surrender.
 
@@ -278,7 +275,6 @@ You encounter a group of Fatui who have lost contact with their troops on the gr
 
 (Give up on communication) I don't like your hat.
 
-#### Scene
 
 **Anton:** *Huff* Sorry to stop you if you're in a hurry. I'm Serzhant Anton Melnikov, the... Acting CO of the Ninth Company. Just call me Anton.
 
@@ -514,7 +510,6 @@ Here you are...
 
 在层岩巨渊竟然发现了一队与地面失联已久的愚人众，可这队愚人众似乎已经没有什么战斗能力，甚至还向你求助…
 
-#### 场景
 
 （准备战斗）好吧，我只能帮你们束手就擒。
 
@@ -522,7 +517,6 @@ Here you are...
 
 （放弃交流）我不喜欢你的帽子。
 
-#### 场景
 
 **安东:** 呼…如果你们在赶路的话抱歉打扰，我是安东·梅利尼科夫上士，第九连队的…代理连长。叫我安东就好。
 

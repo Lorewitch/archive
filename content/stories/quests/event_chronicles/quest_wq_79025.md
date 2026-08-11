@@ -26,7 +26,6 @@
 
 Бакэ-дануки на Острове пудинга нужна помощь...
 
-#### Сцена
 
 **Паймон:** А? Откуда на острове взялись бакэ-дануки?
 
@@ -1056,7 +1055,6 @@
 
 **Паймон:** Точно! Сибасукэ может позаботиться о себе, так что всё будет хорошо! Паймон желает вам хорошего путешествия!
 
-#### Сцена
 
 **Сибасукэ:** Белый Помпон, Белый Помпон бабах!
 
@@ -1092,11 +1090,9 @@
 
 **Паймон:** Хах, кажется, их путешествие началось весьма успешно. Паймон интересно, встретимся ли мы ещё с ними...
 
-#### Сцена
 
 **Паймон:** Мамэсукэ всё ещё в горах! Если сейчас поменяем стиль гор, то мало того, что нам придётся искать Сибасукэ, так мы ещё и Мамэсукэ потеряем!
 
-#### Сцена
 
 **Паймон:** Лучше всего пока оставить всё как есть. Будут серьёзные проблемы, если потеряются сразу двое бакэ-дануки.
 
@@ -1106,7 +1102,6 @@
 
 A bake-danuki seems to be looking for help on Pudding Isle...
 
-#### Scene
 
 **Paimon:** Eh? What's a bake-danuki doing on this island?
 
@@ -2136,7 +2131,6 @@ It's because we've left the islands...
 
 **Paimon:** Yeah, Shibasuke can take care of itself now, so they should be fine! Happy adventuring!
 
-#### Scene
 
 **Shibasuke:** White Fur fly, White Fur kapow?
 
@@ -2172,11 +2166,9 @@ It's because we've left the islands...
 
 **Paimon:** Hehe, looks like their journey's off to a good start! Paimon wonders if we'll ever meet again...
 
-#### Scene
 
 **Paimon:** Mamesuke is still in the mountains! If we switch the mountain styles now, finding Shibasuke will be the least of our problems! Even Mamesuke might get lost!
 
-#### Scene
 
 **Paimon:** Let's not switch the mountains for now. We'll have a headache if those bake-danuki get separated again.
 
@@ -2186,7 +2178,6 @@ It's because we've left the islands...
 
 布丁岛上似乎有妖狸在寻求帮助…
 
-#### 场景
 
 **派蒙:** 咦？岛上怎么会有妖狸？
 
@@ -3216,7 +3207,6 @@ It's because we've left the islands...
 
 **派蒙:** 对啊，柴助已经是能够独当一面的妖狸了，一定没问题的！祝你们旅途愉快！
 
-#### 场景
 
 **柴助:** 白毛飞，白毛砰砰？
 
@@ -3252,10 +3242,8 @@ It's because we've left the islands...
 
 **派蒙:** 嘿嘿，看来它们的旅途有一个顺利的开始呢，不知道以后还有没有机会见到它们…
 
-#### 场景
 
 **派蒙:** 豆助还在山上呢！现在如果乱换山体，别说去找柴助了，要是豆助也弄丢了，那就不好啦。
 
-#### 场景
 
 **派蒙:** 现在还是不要乱换山体比较好吧，万一两只妖狸又失散了可就糟了。

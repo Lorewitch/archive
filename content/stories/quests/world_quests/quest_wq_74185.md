@@ -26,7 +26,6 @@
 
 Всё позади, настало время вернуться в Петрикор и проверить, как там дела...
 
-#### Сцена
 
 **Паймон:** Эст, мы вернулись!
 
@@ -98,7 +97,6 @@
 
 Now that everything is over, it is time to go back to Petrichor to check up on the situation...
 
-#### Scene
 
 **Paimon:** Este, we're back!
 
@@ -170,7 +168,6 @@ Now that everything is over, it is time to go back to Petrichor to check up on t
 
 在一切结束之后，回去佩特莉可镇看看吧…
 
-#### 场景
 
 **派蒙:** 埃斯特先生，我们回来啦！
 

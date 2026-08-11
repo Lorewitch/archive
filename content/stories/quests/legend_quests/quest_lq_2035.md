@@ -628,7 +628,6 @@
 
 **Аль-Хайтам:** Так, все важные дела за последние несколько лет должны быть в этом архиве.
 
-#### Сцена
 
 «Вакансии мудрецов до сих пор пустуют, и в последнее время в Сумеру наблюдается наплыв подозрительных личностей, распространяющих всевозможную информацию. Бригада тридцати пополняет состав для выслеживания подобных личностей, чтобы обеспечить мир и порядок в Сумеру...»
 
@@ -2148,7 +2147,6 @@ Is it true, though?
 
 **Alhaitham:** Okay, the important files from the last few years should all be here.
 
-#### Scene
 
 "There are many vacancies for sages, and the number of suspicious people spreading various news in Sumeru City has increased significantly recently. The Corps of Thirty are looking to recruit for surveillance to ensure the city's peace and stability..."
 
@@ -3668,7 +3666,6 @@ Goodbye!
 
 **艾尔海森:** 嗯，近几年内的重要档案应该都在这里了。
 
-#### 场景
 
 「贤者之位多有空缺，近来在须弥城散播各种消息的可疑人士明显增多。三十人团想招募人手进行盯梢，保证须弥城内太平安定…」
 

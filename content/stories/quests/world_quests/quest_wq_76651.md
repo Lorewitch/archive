@@ -26,7 +26,6 @@
 
 Ваши шаги эхом разносятся по острову. Тихо, кругом ни души, только маяк молчаливо возвышается в темноте...
 
-#### Сцена
 
 **Испуганный призрак:** Маяк... Маяк зажжён! Дикая Охота! Дикая Охота напала! К оружию!
 
@@ -190,7 +189,6 @@
 
 **Паймон:** Ура, свет! Теперь нам будет легче. Давай продолжим исследования.
 
-#### Сцена
 
 **Блуждающий призрак:** На маяк! На маяк, ███! Нужно подать сигнал внешним подразделениям, пока они до нас не добрались!
 
@@ -250,7 +248,6 @@
 
 **Паймон:** Есть пять видов сигналов: бедствие, тревога, указание, призыв, безопасность. А запись о сигнале тревоги не разобрать. Попробуем остальные.
 
-#### Сцена
 
 **Отчаявшийся призрак:** Слишком поздно. Подавать сигнал бедствия нет смысла.
 
@@ -454,7 +451,6 @@
 
 **Флинс:** Почту за честь.
 
-#### Сцена
 
 - **Путешественник:** Слабый-Сильный-Сильный (сигнал бедствия)
 
@@ -472,7 +468,6 @@
 
 Your explorative footsteps echo on the island. There is no one around, and the sole lighthouse remains silent in the darkness...
 
-#### Scene
 
 **Panicking Phantom:** The lighthouse... It's lit! The Wild Hunt! The Wild Hunt is attacking! To arms!
 
@@ -636,7 +631,6 @@ Gotcha.
 
 **Paimon:** Woohoo, the light's on! This should make things way easier. Now we can keep exploring!
 
-#### Scene
 
 **Wandering Phantom:** To the lighthouse! To the lighthouse, ███! We've gotta get a signal to the units outside before they reach us!
 
@@ -696,7 +690,6 @@ I'll give it a try.
 
 **Paimon:** There are five signal types: Distress, warning, guidance, summoning, and all safe. The part that describes the warning signal is illegible, so let's try one of the others.
 
-#### Scene
 
 **Desperate Phantom:** It's too late... There's no point calling for help now.
 
@@ -900,7 +893,6 @@ Let's do it.
 
 **Flins:** It would be my honor.
 
-#### Scene
 
 - **Traveler:** Weak—Strong—Strong (Distress)
 
@@ -918,7 +910,6 @@ Let's do it.
 
 你们探索的脚步在小岛上响起，四处静谧无人，唯一的灯塔在黑暗中沉默…
 
-#### 场景
 
 **恐惧的幽影:** 灯塔…灯塔亮了，狂猎！狂猎袭击！拿起武器！
 
@@ -1082,7 +1073,6 @@ Let's do it.
 
 **派蒙:** 太好了，灯塔亮起来了！这下能安心不少了，我们接着探索吧。
 
-#### 场景
 
 **徘徊的幽影:** 去灯塔！███去灯塔！趁它们还没打到这里，我们赶快给外面的部队打信号！
 
@@ -1142,7 +1132,6 @@ Let's do it.
 
 **派蒙:** 信号有五种：求援、警戒、指引、寻呼以及报安。警戒信号的记录看不清，我们就试试其他的吧。
 
-#### 场景
 
 **绝望的幽影:** 太晚了，这个时候打求援信号太晚了，没有意义了。
 
@@ -1346,7 +1335,6 @@ Let's do it.
 
 **菲林斯:** 荣幸之至。
 
-#### 场景
 
 - **旅行者:** 弱——强——强（求援）
 

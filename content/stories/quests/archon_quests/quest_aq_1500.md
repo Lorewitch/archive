@@ -1400,7 +1400,6 @@
 
 **Паймон:** Не волнуйся, Качина. Верь в себя!
 
-#### Сцена
 
 **Тонина:** Поздравляю, Муалани! Поздравляю, Качина! Вы успешно прошли командный этап!
 
@@ -2090,7 +2089,6 @@
 
 **Муалани:** Ну что ж, давайте закончим на сегодня! Путешественник, Паймон, вы, наверное, тоже устали. Пойдёмте, я отведу вас в гостиницу.
 
-#### Сцена
 
 **Атея:** Кхе-кхе...
 
@@ -3798,7 +3796,6 @@ Thanks.
 
 **Paimon:** Have faith in yourself, Kachina — and don't get too tense!
 
-#### Scene
 
 **Tonina:** Congratulations, Mualani! Congratulations, Kachina! You've successfully cleared the team stage!
 
@@ -4488,7 +4485,6 @@ Are those also decorations?
 
 **Mualani:** Well, let's call it a day, then! Traveler, Paimon, you must be tired, too. C'mon, I'll take you to the inn.
 
-#### Scene
 
 **Atea:** *coughing*
 
@@ -6196,7 +6192,6 @@ What is it?
 
 **派蒙:** 别紧张，卡齐娜，相信自己！
 
-#### 场景
 
 **图尼娜:** 恭喜你们，玛拉妮选手、卡齐娜选手！你们顺利通过了归火圣夜巡礼的团体赛！
 
@@ -6886,7 +6881,6 @@ What is it?
 
 **玛拉妮:** 那今天就暂时解散！旅行者、派蒙，你们也累了吧？走，我送你们回旅馆。
 
-#### 场景
 
 **阿伽娅:** 咳、咳…
 

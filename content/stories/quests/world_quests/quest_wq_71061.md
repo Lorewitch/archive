@@ -90,7 +90,6 @@
 
 **Паймон:** Хм, Паймон Мудрую нельзя недооценивать!
 
-#### Сцена
 
 **Замаран:** Замаран знает, что порочная энергия не была уничтожена. Двуногий, одолжи Замарану свою силу.
 
@@ -222,7 +221,6 @@ It was no trouble.
 
 **Paimon:** Hmph, Paimon the Wise is not to be taken lightly!
 
-#### Scene
 
 **Xamaran:** Xamaran knows that the foul energy has yet to be eradicated. Two-legged one, please lend Xamaran your strength.
 
@@ -354,7 +352,6 @@ A greater duty?
 
 **派蒙:** 哼哼，「有智慧者」派蒙，不容小觑！
 
-#### 场景
 
 **赞玛兰:** 赞玛兰知道，仍有邪气残留。两脚的，有劳了。
 

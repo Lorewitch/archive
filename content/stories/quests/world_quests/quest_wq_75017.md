@@ -26,11 +26,9 @@
 
 В Очканатлане вы обнаруживаете подземное сооружение, настолько глубокое, что кажется бездонным...
 
-#### Сцена
 
 **Паймон:** Интересно, зачем нужна эта канава? Путешественник, давай посмотрим, куда ушёл Малыш? Вдруг он нашёл что-нибудь интересное!
 
-#### Сцена
 
 **Паймон:** Хе-хе, нам нужно вставить ключ в статую, как в прошлый раз?
 
@@ -198,11 +196,9 @@
 
 At Ochkanatlan, you discover an underground structure so deep as to seem bottomless...
 
-#### Scene
 
 **Paimon:** What could this groove be for...? C'mon, Traveler, let's follow Little One over there and have a look. Maybe there's something good waiting for us there!
 
-#### Scene
 
 **Paimon:** Hehe, guess we just need to insert the key into the statue, just like before, right?
 
@@ -370,11 +366,9 @@ Why do you want your heart to be dug out?
 
 在奥奇卡纳塔，发现了一处看上去似乎深不见底的地下结构…
 
-#### 场景
 
 **派蒙:** 这个凹槽到底是做什么的呢…旅行者，我们还是先跟着小家伙去那边看看吧，说不定有什么好东西呢！
 
-#### 场景
 
 **派蒙:** 嘿嘿，只要像之前一样把钥匙嵌进雕像就好了吧！
 

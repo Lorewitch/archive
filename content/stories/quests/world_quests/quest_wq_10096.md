@@ -26,7 +26,6 @@
 
 Ксавье, похоже, занят на съёмках нового фильма...
 
-#### Сцена
 
 **Фурута:** Добро пожаловать! Давненько вас здесь не было видно!
 
@@ -210,7 +209,6 @@
 
 **Ксавье:** Ничего, у нас есть время, начнём, когда будешь готов(а).
 
-#### Сцена
 
 **Кохару:** Скажите, это господин надоумил вас приехать, чтобы проверить, как идут съёмки?
 
@@ -218,7 +216,6 @@
 
 **Кохару:** Наставница Фурута? Эх, значит, я всё ещё недостаточно подготовлена, раз наставница не может на меня положиться.
 
-#### Сцена
 
 **Сасано:** Нет! Если так... Если так пойдёт дальше, мы не сможем про... Противостоять им!
 
@@ -554,13 +551,11 @@
 
 **Окадзаки Рикуто:** У вас с господином Ксавье впереди прекрасное будущее.
 
-#### Сцена
 
 **Окадзаки Рикуто:** Для нас большая честь, что уважаемые гости оценили кулинарные умения Эрики, поэтому мы только рады продлить для вас время работы ресторана.
 
 **Окадзаки Рикуто:** Когда мы вас проводим, наведём тут порядок, и Эрике будет пора отдохнуть.
 
-#### Сцена
 
 **Ксавье:** Да, идеальный сюжет, правда, ему немного не хватает эмоционального накала...
 
@@ -606,7 +601,6 @@
 
 Услышав легенду о Сэйсимару, Ксавье, похоже, придумал что-то новенькое...
 
-#### Сцена
 
 **Кохару:** «Вот если бы вы меня накормили... Эй! Ладно-ладно, иду». Ха-ха, моя героиня такая милая.
 
@@ -714,7 +708,6 @@
 
 **Ксавье:** Если ошибёшься, мы сможем переснять сцену, чтобы добиться идеального результата.
 
-#### Сцена
 
 **Кохару:** Не сомневайтесь, на этот раз я отнесусь к съёмкам как к важной практике и буду готова жизнь отдать.
 
@@ -726,7 +719,6 @@
 
 Я готов(а).
 
-#### Сцена
 
 **Ямада Хифуми:** Откуда такое упрямство, вот незадача.
 
@@ -734,7 +726,6 @@
 
 **Танака:** Нет, милорд-с, мы не говорили о вас дурно, никак нет!
 
-#### Сцена
 
 **Сасано:** «Давно не виделись, Сэйсимару». Да, Ксавье сказал, надо немного спокойнее...
 
@@ -1206,7 +1197,6 @@
 
 Xavier seems to be busy shooting a new film...
 
-#### Scene
 
 **Furuta:** Oh, hello. It's been a while since I saw you last.
 
@@ -1390,7 +1380,6 @@ I'm not ready yet.
 
 **Xavier:** No problem at all. We still have time. Let's begin once you're ready.
 
-#### Scene
 
 **Koharu:** Excuse me, but did you come to oversee the filming at my master's request?
 
@@ -1398,7 +1387,6 @@ It was Furuta who was a little worried about you.
 
 **Koharu:** She was? I, uh... I guess I've not grown up enough yet if I'm still making her worry.
 
-#### Scene
 
 **Sasano:** This won't do. If this continues, we won't have a chance against... them.
 
@@ -1734,13 +1722,11 @@ I believe you.
 
 **Okazaki Rikuto:** Good things surely await you and Mr. Xavier.
 
-#### Scene
 
 **Okazaki Rikuto:** We're honored that you appreciate Erika's work so much. It's only right that we extend our opening hours for you.
 
 **Okazaki Rikuto:** After you leave, we'll tidy up a little, then have Erika go take a rest.
 
-#### Scene
 
 **Xavier:** The story is quite complete, but it's lacking some emotional turmoil. Hmm...
 
@@ -1786,7 +1772,6 @@ I'll go talk to the actors.
 
 After listening to the legend of Seishimaru, Xavier seems to have a new idea...
 
-#### Scene
 
 **Koharu:** "And well, if I can get my fill of food, then sure! I'll follow Seishimaru." Haha, the character I'm playing this time is pretty cute.
 
@@ -1894,7 +1879,6 @@ Just go to Komore Teahouse.
 
 **Xavier:** If you make a mistake in a line, we can re-shoot it to get the most desirable effect.
 
-#### Scene
 
 **Koharu:** Please rest assured that I will treat film acting as an important form of training, and I am ready to risk my life for it.
 
@@ -1906,7 +1890,6 @@ I still need more time to read the script.
 
 I'm ready.
 
-#### Scene
 
 **Yamada Hifumi:** Just my luck to have run into a tough nut!
 
@@ -1914,7 +1897,6 @@ I'm ready.
 
 **Tanaka:** No, my lord, Master, we aren't saying anything bad about you, I swear!
 
-#### Scene
 
 **Sasano:** "It's been a while, Seishimaru." Yeah, Xavier said that it's best to be as calm as possible...
 
@@ -2386,7 +2368,6 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 泽维尔似乎正在拍摄新的映影…
 
-#### 场景
 
 **古田:** 客人您来了？有好一阵子没见了吧。
 
@@ -2570,7 +2551,6 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 **泽维尔:** 没关系，我们还有时间，等你准备好再开始吧。
 
-#### 场景
 
 **小春:** 请问，是大人授意您前来督察映影制作情况的吗？
 
@@ -2578,7 +2558,6 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 **小春:** 是师父她？我，唉，我还是不够成熟，还不能让师父完全放心吧。
 
-#### 场景
 
 **笹野:** 不行啊，这样下去根、根本没办法对…对抗他们。
 
@@ -2914,13 +2893,11 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 **冈崎陆斗:** 您和泽维尔先生一定会遇上好事的。
 
-#### 场景
 
 **冈崎陆斗:** 两位这么欣赏绘里香的手艺，是我们夫妻的荣幸，所以为了两位而延长营业时间是应该的。
 
 **冈崎陆斗:** 等您离店之后，我们再收拾一会儿就该让绘里香去休息了。
 
-#### 场景
 
 **泽维尔:** 故事的确很完备了，但还缺少一些情感波折，嗯…
 
@@ -2966,7 +2943,6 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 听了势至丸的传说，泽维尔似乎有了新的想法…
 
-#### 场景
 
 **小春:** 「要是能吃饱饭…嘿！跟着势至丸也行。」哈哈，我要演的这个角色还挺可爱的嘛。
 
@@ -3074,7 +3050,6 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 **泽维尔:** 万一说错了台词，我们可以重新拍摄，争取达到最完美的效果。
 
-#### 场景
 
 **小春:** 请您放心，这次我会将演绎映影视作重要的修行，做好豁出性命的觉悟。
 
@@ -3086,7 +3061,6 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 准备好了。
 
-#### 场景
 
 **山田一二三:** 怎么碰上这么个硬茬，晦气。
 
@@ -3094,7 +3068,6 @@ If rains from the heavens can save the earth from calamity, then surely I can to
 
 **田中:** 不是，大人、老爷，我们没有说您坏话，绝对没有！
 
-#### 场景
 
 **笹野:** 「势至丸，我们许久不见了。」嗯，泽维尔说了，还是沉稳再沉稳点…
 

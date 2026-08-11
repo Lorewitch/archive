@@ -186,7 +186,6 @@
 
 **Фу Цзинь:** И напоследок... Позвольте ещё раз поблагодарить вас, Путешественник и Паймон. За всё, что вы сделали.
 
-#### Сцена
 
 **Мао:** Лазурь, Лазурь, ты не рассказала мне концовку истории в прошлый раз!
 
@@ -212,7 +211,6 @@
 
 **Мао:** Хорошо, договорились! Я придумаю концовку для этой истории...
 
-#### Сцена
 
 **Паймон:** А это не Лин Юань?
 
@@ -266,7 +264,6 @@
 
 **Лин Юань:** Есть многое, чего я не понимаю. Я постараюсь понять, чтобы однажды, как и обещала, ответить на твой вопрос.
 
-#### Сцена
 
 **Мао:** Слушая Гору, думаю, что оперы Фонтейна похожи на наши!
 
@@ -280,7 +277,6 @@
 
 **Мао:** О, точно! Я ведь так и не рассказал тебе о Лазури... Что, если ты расскажешь мне больше о «лемурских големах», а я расскажу тебе о Лазури!
 
-#### Сцена
 
 **Лин Юань:** ...
 
@@ -294,7 +290,6 @@
 
 **Лин Юань:** ...Забудь об этом. Пойдём. Ты сказала, что всё ещё хочешь увидеть чай.
 
-#### Сцена
 
 **Мао:** Сестрица Фу Цзинь! Поздравляю с возвращением в прежний облик!
 
@@ -478,7 +473,6 @@ It's not that much of a hassle...
 
 **Fujin:** And lastly... Let me say thank you once more, Traveler and Paimon. For all you have done.
 
-#### Scene
 
 **Little Mao:** Bluey, Bluey, you didn't tell me the ending to that story you were telling me last time!
 
@@ -504,7 +498,6 @@ It's not that much of a hassle...
 
 **Little Mao:** In... In that case, then it's a deal! I'll think of an ending for the story...
 
-#### Scene
 
 **Paimon:** Huh? Lingyuan, is that you?
 
@@ -558,7 +551,6 @@ It's not that much of a hassle...
 
 **Lingyuan:** There are many things I do not understand. I will try to understand until I can answer your question, as I promised to.
 
-#### Scene
 
 **Little Mao:** Listening to Mountain, it sounds like Fontaine's operas are pretty similar to ours!
 
@@ -572,7 +564,6 @@ It's not that much of a hassle...
 
 **Little Mao:** Oh, right! I never told you about Bluey, did I... How about this? You tell me more about "Ray-more-young Golems," and I'll tell you about Bluey!
 
-#### Scene
 
 **Lingyuan:** ...
 
@@ -586,7 +577,6 @@ It's not that much of a hassle...
 
 **Lingyuan:** ...Forget it. Let's go. Or did you not clamor to see the present tea garden?
 
-#### Scene
 
 **Little Mao:** Big Sis Fujin! Congratulations on returning to your former self!
 
@@ -770,7 +760,6 @@ It's not that much of a hassle...
 
 **浮锦:** 最后…让我再说一次谢谢吧，旅行者和派蒙。谢谢你们做过的一切。
 
-#### 场景
 
 **小茂:** 阿蓝，阿蓝，你上次给我讲的那个故事，还没有结尾呢！
 
@@ -796,7 +785,6 @@ It's not that much of a hassle...
 
 **小茂:** 那…那就这样说好了，我想想这个故事该怎么结尾…
 
-#### 场景
 
 **派蒙:** 欸，这不是灵渊吗？
 
@@ -850,7 +838,6 @@ It's not that much of a hassle...
 
 **灵渊:** 许多事情，我不理解。我会试着理解，直到我能够按照约定，回答你的问题。
 
-#### 场景
 
 **小茂:** 听大山这么讲，我感觉枫丹的「歌剧」和我们这边的戏好像也差不多呢！
 
@@ -864,7 +851,6 @@ It's not that much of a hassle...
 
 **小茂:** 对喔，我好像还没给大山讲过阿蓝的事情…这样吧，你再给我讲一讲「累牡蛎牙」的魔像，我就给你讲阿蓝的故事好啦！
 
-#### 场景
 
 **灵渊:** ……
 
@@ -878,7 +864,6 @@ It's not that much of a hassle...
 
 **灵渊:** …算了。走吧。你不是还要去看现在的茶园吗。
 
-#### 场景
 
 **小茂:** 浮锦姐姐！祝贺你重新变回来！
 

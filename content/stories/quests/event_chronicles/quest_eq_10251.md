@@ -536,7 +536,6 @@
 
 **Алиса:** Будь вы маленький ребёнок или ребёнок в душе, отложите на минуту свои заботы, забудьте о том, что вас ждёт впереди, и позвольте себе повеселиться хотя бы на мгновение.
 
-#### Сцена
 
 **Яо Яо:** Саю, так вот как выглядит твоя Джина!
 
@@ -548,7 +547,6 @@
 
 **Кли:** Кли всех развеселит! Грохот и искры!
 
-#### Сцена
 
 **Хомура:** Попкорн... ты, наверное, очень разочарован во мне? Ни одна детская мечта не сбылась. Я выросла и стала жалким взрослым...
 
@@ -1076,7 +1074,6 @@ That means you chose Mondstadt for a different reason...
 
 **Alice:** So, whether you're a little kid or a kid at heart, set your worries aside for a moment, forget about what's coming next, and allow yourself to have fun — if only just for the here and now.
 
-#### Scene
 
 **Yaoyao:** Whoa, I never thought Gena would be so big!
 
@@ -1088,7 +1085,6 @@ That means you chose Mondstadt for a different reason...
 
 **Klee:** Oooh, I can warm us all up! Sparks 'n' Splash!
 
-#### Scene
 
 **Homura:** Are you... disappointed in me, Popcorn? All those dreams I had as a kid, and I haven't achieved a single one. I grew up to be a pathetic adult, huh...
 
@@ -1616,7 +1612,6 @@ That means you chose Mondstadt for a different reason...
 
 **艾莉丝:** 所以无论是大朋友还是小朋友，都请暂时放下顾虑，不必在乎明天和后天，痛痛快快去玩一场吧。
 
-#### 场景
 
 **瑶瑶:** 早柚，原来大礼貉这——么——大啊。
 
@@ -1628,7 +1623,6 @@ That means you chose Mondstadt for a different reason...
 
 **可莉:** 可莉来温暖大家，轰轰火花——
 
-#### 场景
 
 **小焰:** 爆米花…你是不是对我很失望？小时候的梦想一个都没有实现，也没有成为厉害的大人…
 

@@ -26,7 +26,6 @@
 
 С Праздником морских фонарей на Янь Сяо с постоялого двора «Ваншу» навалилась уйма дел...
 
-#### Сцена
 
 **Улыбчивый Янь Сяо:** Да, я уже попросил Юй Хуа подать тем двум гостям блюда. Они очень довольны. Спасибо, что помог(ла) мне с ними.
 
@@ -74,7 +73,6 @@
 
 **Улыбчивый Янь Сяо:** Ну, давай. Не заставляй гостей ждать ещё дольше.
 
-#### Сцена
 
 **Чжу Юй:** Смотри, Цин Лянь, вот и наша еда. Спасибо, что прин(есла)(ёс) её.
 
@@ -126,7 +124,6 @@
 
 **Улыбчивый Янь Сяо:** На кухне совсем мало ингредиентов. Будь любез(на)(ен), купи их во «Второй жизни» в Ли Юэ. Когда вернёшься, я возмещу все затраты.
 
-#### Сцена
 
 Вегетарианские мидии.
 
@@ -214,7 +211,6 @@
 
 **Цзян Сюэ:** Но поставить его рядом и любоваться им тоже неплохо. Спасибо.
 
-#### Сцена
 
 **Улыбчивый Янь Сяо:** Интересно, как там наш халявщик...
 
@@ -236,7 +232,6 @@
 
 Smiley Yanxiao from Wangshu Inn seems to be struggling with his workload during the Lantern Rite...
 
-#### Scene
 
 **Smiley Yanxiao:** Ah, yes. I've already asked Yuhua to bring the food down to those two customers. They're pretty pleased with it, too — thanks for making that trip.
 
@@ -284,7 +279,6 @@ What sort of help...
 
 **Smiley Yanxiao:** Alright, run along now. Don't keep them waiting.
 
-#### Scene
 
 **Zhuyu:** Look, Qinglian, look — our takeout's here! Thanks for making the trip.
 
@@ -336,7 +330,6 @@ What would you like to order?
 
 **Smiley Yanxiao:** We really don't have sufficient ingredients on hand right now, so I'll have to trouble you to go out and buy some. You should be able to get all these ingredients from Second Life, just report the bill to me afterwards.
 
-#### Scene
 
 Vegetarian Abalone.
 
@@ -424,7 +417,6 @@ What can't you let go of?
 
 **Jiangxue:** But having a lantern by my side to look at isn't too bad. Thank you very much.
 
-#### Scene
 
 **Smiley Yanxiao:** What's with that freeloader today...
 
@@ -446,7 +438,6 @@ Something the matter?
 
 海灯节期间，望舒客栈里的工作让言笑有些不堪重负…
 
-#### 场景
 
 **言笑:** 对了，那两位客人点的菜我已经让毓华带下去了，客人很满意，谢谢你帮我跑那一趟啊。
 
@@ -494,7 +485,6 @@ Something the matter?
 
 **言笑:** 快去吧，别让客人等急了。
 
-#### 场景
 
 **茱萸:** 好了好了，青莲你看，外送来了，谢谢你专门跑一趟。
 
@@ -546,7 +536,6 @@ Something the matter?
 
 **言笑:** 现在厨房这点食材真是不够用的，辛苦你出去买了，璃月港的荣发商铺就能买，回头找我报销就成。
 
-#### 场景
 
 素鲍鱼。
 
@@ -634,7 +623,6 @@ Something the matter?
 
 **江雪:** 但有一盏霄灯在身边，看看也是好的，多谢你了。
 
-#### 场景
 
 **言笑:** 这个吃白食的今天是怎么了…
 

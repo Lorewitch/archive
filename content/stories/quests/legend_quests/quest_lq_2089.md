@@ -714,7 +714,6 @@
 
 **Линнея:** Не за что! Пока!
 
-#### Сцена
 
 **Пану:** Тьфу. Официант! Иди-ка сюда и сам попробуй этот ваш «Ягодный путь». Как такое можно подавать гостям?!
 
@@ -1224,7 +1223,6 @@
 
 **Паймон:** Агуара...
 
-#### Сцена
 
 Агуара, в сторону!
 
@@ -1232,7 +1230,6 @@
 
 **Хания:** Король Пушистик...
 
-#### Сцена
 
 **Муалани:** Осторожно!
 
@@ -1242,7 +1239,6 @@
 
 **Муалани:** Ого! Вы воспользовались её слепой зоной... Здорово придумано!
 
-#### Сцена
 
 **Хания:** Стало ещё сложнее!
 
@@ -2000,7 +1996,6 @@
 
 **Луми:** Я-хо!
 
-#### Сцена
 
 **Келено:** ...А как иначе.
 
@@ -2008,13 +2003,11 @@
 
 **Келено:** Я видела, что вы пытаетесь сделать, и заранее приказала Гему усилить защиту.
 
-#### Сцена
 
 **Муалани:** Подожди! У тепетлизавриков рога ещё маленькие и слабые!
 
 **Агуара:** Р-р-р!
 
-#### Сцена
 
 **Муалани:** Местное вино пользуется большим спросом! Может, захватить пару бутылок для бабули Ситлали?
 
@@ -2712,7 +2705,6 @@ Linnea...
 
 **Linnea:** You're welcome. Byeee!
 
-#### Scene
 
 **Panu:** Bleurgh! Waiter! Come here and taste this Wildberry Trail, then look me in the eye and tell me it's fit for human consumption!
 
@@ -3222,7 +3214,6 @@ Hit it head-on!
 
 **Paimon:** Aguara!
 
-#### Scene
 
 Aguara, dodge!
 
@@ -3230,7 +3221,6 @@ Aguara, dodge!
 
 **Haniyyah:** Fluffy...
 
-#### Scene
 
 **Mualani:** Watch out!
 
@@ -3240,7 +3230,6 @@ Aguara, dodge!
 
 **Mualani:** You took advantage of Mamala's blind spot... Not bad!
 
-#### Scene
 
 **Haniyyah:** You're even tougher than last time!
 
@@ -3998,7 +3987,6 @@ Aguara, just like we practiced!
 
 **Lumi:** Ya-ho!
 
-#### Scene
 
 **Celaeno:** ...Predictable.
 
@@ -4006,13 +3994,11 @@ Aguara, just like we practiced!
 
 **Celaeno:** It was the obvious move. Haemus was well-prepared for an attack like that.
 
-#### Scene
 
 **Mualani:** Wait! Aguara's horn hasn't finished growing yet...
 
 **Aguara:** Rawr!
 
-#### Scene
 
 **Mualani:** People seem to really dig the drinks here! I wonder if I should take some back for Granny Citlali?
 
@@ -4710,7 +4696,6 @@ Aguara, just like we practiced!
 
 **莉奈娅:** 不客气啦。再——见——
 
-#### 场景
 
 **巴努:** 呸。招待！过来，你尝尝这杯「野浆果之路」是人喝的吗？
 
@@ -5220,7 +5205,6 @@ Aguara, just like we practiced!
 
 **派蒙:** 阿瓜拉——
 
-#### 场景
 
 阿瓜拉，快躲开！
 
@@ -5228,7 +5212,6 @@ Aguara, just like we practiced!
 
 **海妮耶:** 绒绒大王花——
 
-#### 场景
 
 **玛拉妮:** 小心！
 
@@ -5238,7 +5221,6 @@ Aguara, just like we practiced!
 
 **玛拉妮:** 居然利用了玛玛拉的视线盲区…有一套嘛！
 
-#### 场景
 
 **海妮耶:** 比以前更棘手了！
 
@@ -5996,7 +5978,6 @@ Aguara, just like we practiced!
 
 **露米:** 呀吼！
 
-#### 场景
 
 **刻莱诺:** …预料之中。
 
@@ -6004,12 +5985,10 @@ Aguara, just like we practiced!
 
 **刻莱诺:** 意图太明显了，我提前让赫姆斯强化了腹部的防御。
 
-#### 场景
 
 **玛拉妮:** 等下——小嵴锋龙的钻角还没有长好呢——
 
 **阿瓜拉:** 呀！
 
-#### 场景
 
 **玛拉妮:** 这里的酒很受欢迎呢！要不要给茜特菈莉奶奶带一些呢？

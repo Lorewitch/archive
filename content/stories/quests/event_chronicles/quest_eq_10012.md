@@ -188,7 +188,6 @@
 
 Я помогу.
 
-#### Сцена
 
 **Альбедо:** Возможные пути не ограничиваются набором самых очевидных.
 
@@ -536,7 +535,6 @@ Ah, hilichurls!
 
 I'll lend you a hand.
 
-#### Scene
 
 **Albedo:** The paths we may venture are not limited to those the eye can see.
 
@@ -884,7 +882,6 @@ Unusual ones?
 
 我会帮忙的！
 
-#### 场景
 
 **阿贝多:** 我们能走的路，绝不只有肉眼能见的那些。
 

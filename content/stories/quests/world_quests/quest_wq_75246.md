@@ -26,7 +26,6 @@
 
 Прогуливаясь по курорту «Оазис отдыха», вы с Паймон замечаете знакомые силуэты...
 
-#### Сцена
 
 **Паймон:** Путешественник, смотри! Там кто-то есть!
 
@@ -280,7 +279,6 @@
 
 С радостью.
 
-#### Сцена
 
 **Оророн:** Старших нужно уважать. Дедуля, ты первый. / Бабуля, ты первая.
 
@@ -292,7 +290,6 @@
 
 While strolling around the Easybreeze Holiday Resort, you and Paimon spot some familiar figures...
 
-#### Scene
 
 **Paimon:** Look, there are people over there!
 
@@ -546,7 +543,6 @@ Maybe there'll be something awesome waiting for us.
 
 Happily.
 
-#### Scene
 
 **Ororon:** As the elder, you should go first, Gramps / other Granny.
 
@@ -558,7 +554,6 @@ Happily.
 
 在悠悠度假村闲逛时，你与派蒙见到了熟悉的身影…
 
-#### 场景
 
 **派蒙:** 旅行者，快看那边，有人在呢！
 
@@ -812,7 +807,6 @@ Happily.
 
 那我就不客气了。
 
-#### 场景
 
 **欧洛伦:** 有请辈分最高的爷爷 / 奶奶先来。
 

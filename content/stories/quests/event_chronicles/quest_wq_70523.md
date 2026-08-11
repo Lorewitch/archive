@@ -26,7 +26,6 @@
 
 Повар Гуань Чуй, недавно вернувшийся в деревню Цинцэ, ломает голову над тем, как помочь товарищам утолить жажду...
 
-#### Сцена
 
 **Гуань Чуй:** Гости издалека? Добро пожаловать в деревню Цинцэ...
 
@@ -154,7 +153,6 @@
 
 Chef Guanchui, who has just recently returned to Qingce Village, seems to be worried about his friend's thirst-quenching drinks...
 
-#### Scene
 
 **Guanchui:** Are you guys from out of town? Welcome to Qingce Village!
 
@@ -282,7 +280,6 @@ Best of luck, bartending chef!
 
 刚刚返回轻策庄不久的厨师关垂似乎在为兄弟们的解渴饮品发愁…
 
-#### 场景
 
 **关垂:** 外地来的客人？欢迎来到轻策庄…
 

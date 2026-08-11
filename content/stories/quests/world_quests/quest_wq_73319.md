@@ -414,7 +414,6 @@
 
 **Джарджар:** Хм... да, я постараюсь.
 
-#### Сцена
 
 **Джарджар:** В этот раз стало ещё сложнее, так что будьте внимательны! Готовы?
 
@@ -882,7 +881,6 @@ Let's go. We'll get through it.
 
 **Jarjar:** Uh... okay. I'll do my best!
 
-#### Scene
 
 **Jarjar:** The difficulty has been ratcheted up this time, so don't be careless! Are you ready?
 
@@ -1350,7 +1348,6 @@ Jarjar, what's going on?
 
 **贾尔贾:** 明…明白了，我会尽力的！
 
-#### 场景
 
 **贾尔贾:** 这次的难度提升了哦，你们可不要大意！准备好了吗？
 

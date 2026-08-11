@@ -68,7 +68,6 @@
 
 **Верр Голдет:** Идите! Счастливого Праздника морских фонарей!
 
-#### Сцена
 
 **Паймон:** Наконец-то мы в Ли Юэ!
 
@@ -400,7 +399,6 @@ Still, given his current mood...
 
 **Verr Goldet:** Get going! Happy Lantern Rite!
 
-#### Scene
 
 **Paimon:** Finally, we're in Liyue!
 
@@ -732,7 +730,6 @@ Just about...
 
 **菲尔戈黛特:** 快去吧，祝你们海灯节玩得开心！
 
-#### 场景
 
 **派蒙:** 终于到璃月了！
 

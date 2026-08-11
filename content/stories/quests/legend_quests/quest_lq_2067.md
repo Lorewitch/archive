@@ -24,7 +24,6 @@
 
 ### Без названия 5027
 
-#### Сцена
 
 **Муалани:** Восхищаюсь Пиро Архонтом! Она такая храбрая! Не побоялась помериться силами с великим Шбаланке!
 
@@ -572,7 +571,6 @@
 
 **Мавуика:** Ну, однажды она всё равно проснётся. Идём. Спокойной ночи, Шилонен!
 
-#### Сцена
 
 **Шилонен:** ...
 
@@ -876,7 +874,6 @@
 
 **Мавуика:** Ты отлично играл(а). Как будет время, сыграем ещё пару раундов.
 
-#### Сцена
 
 **Иансан:** Перед турниром обязательно надо как следует размяться.
 
@@ -1942,7 +1939,6 @@
 
 ### Untitled 5027
 
-#### Scene
 
 **Mualani:** Whoa, our Archon really is amazing! And super brave, too. She even went toe to toe with Lord Xbalanque!
 
@@ -2490,7 +2486,6 @@ Xilonen's tent is nearby too...
 
 **Mavuika:** Well, she's got to wake up eventually. Let's go. Good night, Xilonen, and sleep well.
 
-#### Scene
 
 **Xilonen:** ...
 
@@ -2794,7 +2789,6 @@ As expected, you're a pro, Mavuika... I concede.
 
 **Mavuika:** You played well. We can play a few more rounds when we have the time.
 
-#### Scene
 
 **Iansan:** Warming up before a competition is extremely important. Don't ever forget.
 
@@ -3860,7 +3854,6 @@ Did you ever falter, or wonder if you might lose to him, even for a second?
 
 ### 未命名 5027
 
-#### 场景
 
 **玛拉妮:** 火神大人真厉害！而且很有勇气，敢和希巴拉克大人过招。
 
@@ -4408,7 +4401,6 @@ Did you ever falter, or wonder if you might lose to him, even for a second?
 
 **玛薇卡:** 她总要醒的。我们走吧。再见希诺宁，睡个好觉。
 
-#### 场景
 
 **希诺宁:** ……
 
@@ -4712,7 +4704,6 @@ Did you ever falter, or wonder if you might lose to him, even for a second?
 
 **玛薇卡:** 你打得很不错，以后有时间我们可以再来几局。
 
-#### 场景
 
 **伊安珊:** 赛前热身很重要，千万别忘了。
 

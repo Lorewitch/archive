@@ -26,7 +26,6 @@
 
 В лагере искателей приключений Айрис рассказала вам, что некоторые горные тропы преграждает какой-то странный твёрдый лёд...
 
-#### Сцена
 
 Расскажи мне об этом льде...
 
@@ -38,25 +37,21 @@
 
 **Айрис:** Помню, в окрестностях погребённой столицы и в пещере звёздного сияния их были целые заросли. Сходи, может, что-нибудь да найдёшь.
 
-#### Сцена
 
 Расскажи мне об этом льде...
 
 **Айрис:** Поскольку мы узнали, как растопить тот лёд, я могу продолжить организовывать исследовательские экспедиции в горы...
 
-#### Сцена
 
 Расскажи мне об этом льде...
 
 **Айрис:** Если ты хочешь на него посмотреть, просто сходи к месту, о котором я упоминала. Прошу только, глубоко в горы не заходи.
 
-#### Сцена
 
 Под платформой я наш(ла)(ёл) фрагмент.
 
 **Айрис:** О фрагменте Гидро гипостазиса и всё такое
 
-#### Сцена
 
 Как обстановка на Драконьем хребте?
 
@@ -102,13 +97,11 @@
 
 **Айрис:** Если тебе интересно, ты можешь увидеть их вдоль укрытой снегом тропы, в окрестностях погребённой столицы и в пещере звёздного сияния. Помню, там их целые заросли.
 
-#### Сцена
 
 **Паймон:** Ой! Что это за летающая штуковина?! Кажется, она улетела на вершину горы.
 
 **Паймон:** Поднимемся на вершину и осмотримся? Или сначала вернёмся и у кого-нибудь спросим, что здесь происходит?
 
-#### Сцена
 
 **Паймон:** Х-х-холодно... Паймон вот-вот превратится в мороженку...
 
@@ -152,7 +145,6 @@
 
 **Айрис:** Но в реальности искателю приключений нужно мыслить трезво... Если ты собираешься в горы, то как следует подготовься.
 
-#### Сцена
 
 **Паймон:** Х-х-холодно... Паймон вот-вот превратится в мороженку...
 
@@ -204,13 +196,11 @@
 
 **Айрис:** Помню, вдоль укрытой снегом тропы, в окрестностях погребённой столицы и в пещере звёздного сияния их были целые заросли. Сходи, может, что-нибудь да найдёшь.
 
-#### Сцена
 
 **Паймон:** Ой! Что это за летающая штуковина?! Кажется, она улетела наверх.
 
 **Паймон:** Ну... Поднимемся и посмотрим?
 
-#### Сцена
 
 **Паймон:** Х-х-холодно... Паймон вот-вот превратится в мороженку...
 
@@ -278,7 +268,6 @@
 
 **Айрис:** Поскольку мы узнали, как растопить тот лёд, я могу продолжить организовывать исследовательские экспедиции в горы...
 
-#### Сцена
 
 **Паймон:** Что? Весь лёд под колонной рассыпался... Кажется, под ним было много места. Пойдём посмотрим.
 
@@ -304,7 +293,6 @@
 
 At the adventurer camp, Iris informs you that there seems to be some bizarrely hard ice blocking the paths into the mountain...
 
-#### Scene
 
 So, tell me about the ice.
 
@@ -316,25 +304,21 @@ So, tell me about the ice.
 
 **Iris:** I believe that the Entombed City Outskirts and Starglow Cavern are home to many of those blue plants. You can go and check them out. Perhaps you might discover something.
 
-#### Scene
 
 So, tell me about the ice.
 
 **Iris:** Since we've got a way to melt that ice now, that means I can continue organizing expedition parties to explore the mountain...
 
-#### Scene
 
 So, tell me about the ice.
 
 **Iris:** If you'd just like to have a look at the ice, you can just go to the place that I mentioned. For you own safety, don't go any further into the mountain.
 
-#### Scene
 
 I found a shard under the platform.
 
 **Iris:** Hydro Hypostasis fragment introduction...
 
-#### Scene
 
 How are things here on Dragonspine?
 
@@ -380,13 +364,11 @@ Tell me about those blue plants...
 
 **Iris:** If you've a mind to, you can head to the area around the Snow-Covered Path, the Entombed City Outskirts and the Starglow Cavern to have a look. I remember seeing many of those blue plants there.
 
-#### Scene
 
 **Paimon:** Eek! That thing just flew up into the air... Looked like it was going towards the mountain's summit.
 
 **Paimon:** Shall we go and have a look around? Or should we go back and ask someone about the situation?
 
-#### Scene
 
 **Paimon:** S—S—So cold... P—Paimon's turning into a Paimon popsicle!
 
@@ -430,7 +412,6 @@ Do you know anything about the air current in the cavern?
 
 **Iris:** But in real life, it's best to be practical when adventuring... Make sure you prepare yourself sufficiently before heading up Dragonspine, you hear?
 
-#### Scene
 
 **Paimon:** S—S—So cold... P—Paimon's turning into a Paimon popsicle!
 
@@ -482,13 +463,11 @@ So, tell me about the ice.
 
 **Iris:** I believe that the Snow-Covered Path, the Entombed City Outskirts and Starglow Cavern are home to many of those blue plants. You can go and check them out. Perhaps you might discover something.
 
-#### Scene
 
 **Paimon:** Eek! That thing just flew up into the air... Looked like it was going further upwards.
 
 **Paimon:** Should we... go up there and have a look?
 
-#### Scene
 
 **Paimon:** S—S—So cold... P—Paimon's turning into a Paimon popsicle!
 
@@ -556,7 +535,6 @@ Do you know anything about the air current in the cavern?
 
 **Iris:** Since we've got a way to melt that ice now, that means I can continue organizing expedition parties to explore the mountain...
 
-#### Scene
 
 **Paimon:** Huh? The icy surface under the pillar has completely shattered. Looks like there's a huge space underneath it, too. Let's go check it out.
 
@@ -582,7 +560,6 @@ About the summit...
 
 从雪山营地中的冒险家玉霞口中得知，在这座雪山之中，似乎有一些奇异的坚冰堵塞着山中的道路…
 
-#### 场景
 
 关于那些冰…
 
@@ -594,25 +571,21 @@ About the summit...
 
 **玉霞:** 在「雪葬之都·近郊」和「星荧洞窟」附近，我记得有很多这种植物，你不妨去那里看看，说不定会有什么收获。
 
-#### 场景
 
 关于那些冰…
 
 **玉霞:** 既然现在有了融化那些冰的办法，那我也可以继续组织队伍探索雪山了…
 
-#### 场景
 
 关于那些冰…
 
 **玉霞:** 如果你只是想去见识一下那些冰的话，去我说的那个地方附近看看就好，千万不要再往雪山深处走了。
 
-#### 场景
 
 我在平台下面找到了一块碎片
 
 **玉霞:** 无相之水碎片情报介绍巴拉巴拉
 
-#### 场景
 
 关于雪山的情况…
 
@@ -658,13 +631,11 @@ About the summit...
 
 **玉霞:** 如果你有兴趣的话，可以去「覆雪之路」、「雪葬之都·近郊」和「星荧洞窟」附近看看。我记得那里有很多那种蓝色植物。
 
-#### 场景
 
 **派蒙:** 呜哇！有什么东西飞起来了，好像…是往山顶那边飞了。
 
 **派蒙:** 要去山顶附近看看吗？或者说…还是先回去找人问问情况？
 
-#### 场景
 
 **派蒙:** 好…好…好冷…要被冻成冰块了…
 
@@ -708,7 +679,6 @@ About the summit...
 
 **玉霞:** 但在现实里，探险还是要脚踏实地…你要进雪山的话，记得也要做好充足的准备啊。
 
-#### 场景
 
 **派蒙:** 好…好…好冷…要被冻成冰块了…
 
@@ -760,13 +730,11 @@ About the summit...
 
 **玉霞:** 在「覆雪之路」、「雪葬之都·近郊」和「星荧洞窟」附近，我记得有很多这种植物，你不妨去那里看看，说不定会有什么收获。
 
-#### 场景
 
 **派蒙:** 呜哇！有什么东西飞起来了，好像…是往上面飞了。
 
 **派蒙:** 唔…要去上面看看吗？
 
-#### 场景
 
 **派蒙:** 好…好…好冷…要被冻成冰块了…
 
@@ -834,7 +802,6 @@ About the summit...
 
 **玉霞:** 既然现在有了融化那些冰的办法，那我也可以继续组织队伍探索雪山了…
 
-#### 场景
 
 **派蒙:** 咦？柱子下的冰面全部碎掉了…底下好像还有一个很大的空间，我们去看看吧。
 

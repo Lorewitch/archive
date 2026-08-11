@@ -64,7 +64,6 @@
 
 **Дедуля Фаньэр:** Эх, но очень уж быстро это всё. Давно старых опер не было. Даже не знаю, Властелин... Нет, не стоит об этом.
 
-#### Сцена
 
 **Дедуля Фаньэр:** Эх, этот город так быстро меняется...
 
@@ -148,7 +147,6 @@ And how do you feel about that?
 
 **Fan Er'ye:** *sigh* Still, these changes feel all too swift. The old operas haven't played in a while. I wonder what Rex Lapis would— No, let us not speak of that...
 
-#### Scene
 
 **Fan Er'ye:** *sigh* How quickly this city changes...
 
@@ -232,7 +230,6 @@ Some feel that things are changing too quickly.
 
 **范二爷:** 唉，但这变化也太快了，老戏也好久没开，也不知道岩王爷他…算了，不说了，不说了。
 
-#### 场景
 
 **范二爷:** 唉，这城里的变化也太快了…
 

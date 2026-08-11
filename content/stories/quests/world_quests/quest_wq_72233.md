@@ -128,7 +128,6 @@
 
 **Цуюко:** Что ж, тогда я буду ждать от вас новостей на обычном месте.
 
-#### Сцена
 
 **Цуюко:** Путешественник, остались ещё вопросы?
 
@@ -290,7 +289,6 @@ Whoa, Paimon, manners...
 
 **Tsuyuko:** Well then, I'll wait for news from you at the usual place.
 
-#### Scene
 
 **Tsuyuko:** Anything else you wish to ask me, Traveler?
 
@@ -452,7 +450,6 @@ About Byakuyakoku...
 
 **露子:** 那么我就回到老地方静候您的消息了。
 
-#### 场景
 
 **露子:** 旅行者，还有什么想问的吗？
 

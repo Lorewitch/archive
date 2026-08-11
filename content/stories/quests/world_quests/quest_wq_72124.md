@@ -216,7 +216,6 @@
 
 **Безымянный:** Я... Я перед тобой в долгу. Возможно, я и правда сумею вспомнить своё прошлое, когда выпью такого же вина, как тогда.
 
-#### Сцена
 
 **Паймон:** А могли те закованные в броню и вооружённые люди быть солдатами из лагеря?
 
@@ -468,7 +467,6 @@
 
 **Масанори:** Мы с Такацуки Догирэ останемся здесь, будем смотреть на море и слушать ветер. Мы все время будем здесь, готовые поговорить с тобой, когда ты этого захочешь.
 
-#### Сцена
 
 Подожди секунду.
 
@@ -672,7 +670,6 @@ I can.
 
 **Nameless:** I... I am in your debt. Perhaps I shall indeed remember my past if I drank the same wine that I did back then.
 
-#### Scene
 
 **Paimon:** Armored and armed men... does he mean soldiers from an army camp?
 
@@ -924,7 +921,6 @@ What's come over you?
 
 **"Masanori":** I and Takatsuki Dougire will remain here, watching the sea and listening to the wind. We will be here any time to speak to you, should you wish it.
 
-#### Scene
 
 Give me a second.
 
@@ -1128,7 +1124,6 @@ Give me a second.
 
 **无名:** 那就交给你了，再尝到那酒的话，说不定我就能想起当时的事情。
 
-#### 场景
 
 **派蒙:** 穿铠佩刀的人，难道是军营里的兵士？
 
@@ -1380,7 +1375,6 @@ Give me a second.
 
 **「公义」:** 我和「贵月胴切」会留在这里，观海听风，随时都可以与你再次以刀论心。
 
-#### 场景
 
 先让我准备一下。
 

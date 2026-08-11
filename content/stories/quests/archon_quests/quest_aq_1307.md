@@ -1286,7 +1286,6 @@
 
 **Паймон:** Пора встретиться с Нахидой!
 
-#### Сцена
 
 Ты знаешь что-нибудь о Татарасуне?
 
@@ -1308,7 +1307,6 @@
 
 **Ксавье:** Меня зовут Ксавье.
 
-#### Сцена
 
 Ты знаешь что-нибудь о Татарасуне?
 
@@ -3751,7 +3749,6 @@ Time to go back and see Lesser Lord Kusanali.
 
 **Paimon:** Alright, let's head off and go meet Nahida!
 
-#### Scene
 
 Do you know much about Tatarasuna?
 
@@ -3773,7 +3770,6 @@ How should I address you?
 
 **Xavier:** My name's Xavier.
 
-#### Scene
 
 Do you know much about Tatarasuna?
 
@@ -6216,7 +6212,6 @@ There were some bumps along the way, but it's all over now.
 
 **派蒙:** 那么，出发去见纳西妲吧！
 
-#### 场景
 
 你对踏鞴砂了解多吗？
 
@@ -6238,7 +6233,6 @@ There were some bumps along the way, but it's all over now.
 
 **泽维尔:** 我叫泽维尔。
 
-#### 场景
 
 你对踏鞴砂了解多吗？
 

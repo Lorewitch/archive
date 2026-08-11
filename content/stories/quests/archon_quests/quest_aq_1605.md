@@ -1354,7 +1354,6 @@
 
 **Субретка:** Шарики с водой... Неужели это правда так весело?
 
-#### Сцена
 
 **Нефер:** Тебе пора идти. Нам надо выяснить, что нравится Куутар.
 
@@ -2364,7 +2363,6 @@
 
 **Дурин:** Наверное, мы правда сможем его спасти.
 
-#### Сцена
 
 **Размаспес:** Здравствуйте... Вы не видели мою дочь? Её зовут Спаргана, за спиной у неё большой рюкзак с книгами.
 
@@ -4270,7 +4268,6 @@ We heard her voice in Fontaine...
 
 **The Damselette:** ...Is pumping a balloon full of water really so much fun?
 
-#### Scene
 
 **Nefer:** You should get going. It's important that we ascertain what Kuutar likes.
 
@@ -5280,7 +5277,6 @@ I want to shout it to her from the rooftops.
 
 **Durin:** We might just be able to save this person.
 
-#### Scene
 
 Oh!
 
@@ -7192,7 +7188,6 @@ Wait...
 
 **「少女」:** …往气球里装水，真的有这么好玩吗？
 
-#### 场景
 
 **奈芙尔:** 快去吧，「库塔尔」的事比较重要。
 
@@ -8202,7 +8197,6 @@ Wait...
 
 **杜林:** 说不定我们真的能救下这个人。
 
-#### 场景
 
 **拉撒抹培:** 你好，你们看到我的女儿了吗？她叫丝帕佳娜，背着一个大书袋。
 

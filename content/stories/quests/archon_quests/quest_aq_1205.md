@@ -310,15 +310,12 @@
 
 **Бай Чжу:** Не за что, и удачи. Если вам что-нибудь понадобится, вы найдёте меня в хижине «Бубу».
 
-#### Сцена
 
 **Лэ Мин:** Первым шагом является создание фундамента Нефритового дворца. Когда плаустрит будет доставлен, мы сможем поместить его в основание...
 
-#### Сцена
 
 **Ань Шунь:** Обычно за выполнением работ следит госпожа Кэ Цин, Нефритовое Равновесие, но, похоже, в эти дни она занята другими делами...
 
-#### Сцена
 
 **Бай Чжу:** Госпожа Нин Гуан заказала очень много ранозаживляющих лекарств.
 
@@ -412,7 +409,6 @@
 
 **Лэ Мин:** Первым шагом является создание фундамента Нефритового дворца. Когда плаустрит будет доставлен, мы сможем поместить его в основание...
 
-#### Сцена
 
 **Ли Чжэн:** Потише, разве ты не видишь, что я занят? Каждый кирпич имеет решающее значение. Малейшая ошибка приведёт к катастрофе.
 
@@ -426,7 +422,6 @@
 
 **Паймон:** Смотрите, там появилась фея!
 
-#### Сцена
 
 **Сы Цинь:** Мне приказали присматривать за этим местом и обеспечивать безопасность. Надеюсь, всё пройдёт гладко.
 
@@ -456,11 +451,9 @@
 
 **Шэнь Хэ:** Я чувствую присутствие монстров. Не знаю, где они прячутся, но нам нужно быть начеку.
 
-#### Сцена
 
 **Лян:** В последнее время Миллелиты часто передислоцируются. Я не знаю, с чем это связано. Нужно проявлять осторожность.
 
-#### Сцена
 
 **Кэ Цин:** Путешественник, Паймон, какая неожиданность!
 
@@ -494,7 +487,6 @@
 
 **Чан Фэн:** Та девушка с плаустритом, должно быть, Адепт...
 
-#### Сцена
 
 **Хранитель Облаков:** Человек, воспитанный Адептом, просто необходим Ли Юэ. Кроме того, она олицетворяет намерения Адептов.
 
@@ -674,7 +666,6 @@
 
 **Паймон:** Пойдём посмотрим!
 
-#### Сцена
 
 **Хранитель Облаков:** Возможно, Шэнь Хэ заметили, когда она тайком покинула горы. Последние годы всё больше слухов о ней.
 
@@ -758,7 +749,6 @@
 
 **Хранитель Облаков:** На этом мы закончим наш разговор. Не смею вас больше задерживать. Уже стемнело, вам нужно отдохнуть.
 
-#### Сцена
 
 **Бай Чжу:** Госпожа Нин Гуан заказала очень много ранозаживляющих лекарств.
 
@@ -814,7 +804,6 @@
 
 **Паймон:** Плаустрит зари - очень редкая вещь. Мало кому под силу его найти. Если наши соперники сдадутся и оставят поиски, нам не надо будет так торопиться.
 
-#### Сцена
 
 **Син Цю:** Состязание по восстановлению Нефритового дворца очень жёсткое. Трудно предугадать, кто победит.
 
@@ -822,7 +811,6 @@
 
 Осталось найти два материала. Отправляйтесь на стройку за сведениями.
 
-#### Сцена
 
 **Сы Цинь:** Первая половина проекта завершена, но я должен продолжать поддерживать безопасность дальнейших работ!
 
@@ -1192,7 +1180,6 @@
 
 **Паймон:** Тогда давайте начнём поиски в деревне.
 
-#### Сцена
 
 **Шэнь Хэ:** Годы спустя, не сказав ничего своей наставнице, я спустилась с горы, чтобы снова вернуться сюда.
 
@@ -1222,11 +1209,9 @@
 
 **Юнь Цзинь:** Мин Цзюнь, которого мы только что видели... Какое отношение он имеет к Шэнь Хэ?
 
-#### Сцена
 
 **Чан Фэн:** Нефритовый дворец должен парить в небе, как и прежде.
 
-#### Сцена
 
 **Юнь Цзинь:** Это...
 
@@ -1328,11 +1313,9 @@
 
 **Чан Фэн:** Нефритовый дворец! Какой он красивый!
 
-#### Сцена
 
 **Ань Шунь:** Благодаря всеобщим стараниям мы смогли закончить работу в срок.
 
-#### Сцена
 
 **Лэ Мин:** Строительство завершено. Осталось установить Ядро чудес и Талисман Адептов, и Нефритовый дворец воспарит.
 
@@ -1528,7 +1511,6 @@
 
 **Нин Гуан:** Да начнётся церемония подъёма!
 
-#### Сцена
 
 **Юнь Цзинь:** «Первостепенная задача актёра - войти в образ...»
 
@@ -1536,7 +1518,6 @@
 
 **Юнь Цзинь:** Давайте в следующий раз попробуем вместе интерпретировать новую оперу?
 
-#### Сцена
 
 **Ань Шунь:** Благодаря всеобщим стараниям мы смогли закончить работу в срок.
 
@@ -1686,7 +1667,6 @@
 
 **Паймон:** Шэнь Хэ, успокойся...
 
-#### Сцена
 
 **Лэ Мин:** Строительство завершено. Осталось установить Ядро чудес и Талисман Адептов, и Нефритовый дворец воспарит.
 
@@ -1698,7 +1678,6 @@
 
 ### Без названия 11017
 
-#### Сцена
 
 **Бай Вэнь:** Хотите подняться в Нефритовый дворец? Тогда следуйте за мной.
 
@@ -1992,15 +1971,12 @@ Those are all medicinal herbs...
 
 **Baizhu:** You're quite welcome. Good luck to you all, and if there's anything further you need from me, just come to Bubu Pharmacy.
 
-#### Scene
 
 **Leming:** First, we construct the keel of the Jade Chamber. The keel is the part that holds the Plaustrite, so once that arrives, it goes straight in...
 
-#### Scene
 
 **Anshun:** Normally, it would be Lady Keqing supervising the construction work. But it seems like she's been a little preoccupied lately...
 
-#### Scene
 
 **Baizhu:** Why does Lady Ningguang need so much wound dressing?
 
@@ -2094,7 +2070,6 @@ Never heard of them.
 
 **Leming:** First, we construct the keel of the Jade Chamber. The keel is the part that holds the Plaustrite, so once that arrives, it goes straight in...
 
-#### Scene
 
 **Lizheng:** Shh... Quiet! Can't you see that I'm concentrating here? Every brick is a crucial component! If I stop concentrating, I'm gonna lay a brick out of whack, and that'll put the whole darn structure out of whack, and then... Well, shoot, and then it's all over...
 
@@ -2108,7 +2083,6 @@ Never heard of them.
 
 **Paimon:** Hey, look! Is that a new Seelie over there?
 
-#### Scene
 
 **Siqin:** I'm under orders to ensure the security of this location. It's imperative that construction stays on schedule. Hopefully, there won't be any setbacks.
 
@@ -2138,11 +2112,9 @@ What do you think, Shenhe?
 
 **Shenhe:** I sense the presence of monsters in this place. I don't know where they are hiding, so we'd better be careful.
 
-#### Scene
 
 **Liang:** We've been pretty active in the Millelith recently. I don't know what's going on but... I'd better be careful.
 
-#### Scene
 
 **Keqing:** Ah, Traveler, Paimon. I wasn't expecting to run into you out here at Guyun.
 
@@ -2176,7 +2148,6 @@ What do you think, Shenhe?
 
 **Changfeng:** That young lady who carried the Plaustrite in earlier... she's gotta be an adeptus, surely...
 
-#### Scene
 
 **Cloud Retainer:** A human raised by the adepti is precisely what Liyue needs right now. It is also what the adepti wish to give to Liyue.
 
@@ -2356,7 +2327,6 @@ Are you alright?
 
 **Paimon:** Let's go and say hi!
 
-#### Scene
 
 **Cloud Retainer:** There seem to have been a growing number of tales told regarding Shenhe in recent years. Perhaps she was seen on the previous occasion when she secretly ventured out from the mountains.
 
@@ -2440,7 +2410,6 @@ So when Shenhe talks about her "master," she means...
 
 **Cloud Retainer:** Let us conclude our conversation here for today. One has occupied enough of your time, and night is approaching. Be sure to get ample rest.
 
-#### Scene
 
 **Baizhu:** Why does Lady Ningguang need so much wound dressing?
 
@@ -2496,7 +2465,6 @@ So when Shenhe talks about her "master," she means...
 
 **Paimon:** After all, Sunset Vermillionite is so rare, Paimon doubts many competitors will really be able to find any. If it turns out some of them have given up already, we'll be able to take things a little more slowly.
 
-#### Scene
 
 **Xingqiu:** It looks like the Jade Chamber rebuilding project will be fiercely competitive. It's difficult to say who will emerge as the winner.
 
@@ -2504,7 +2472,6 @@ So when Shenhe talks about her "master," she means...
 
 Only two materials left to find. Time to ask around at the worksite.
 
-#### Scene
 
 **Siqin:** We're halfway there. I must keep my wits about me and continue to ensure the safety of the site for the remainder of the project!
 
@@ -2874,7 +2841,6 @@ Then... where do we start?
 
 **Paimon:** Okay. Then let's see what we can find in this village.
 
-#### Scene
 
 **Shenhe:** I came back here once before, a few years ago. Alone. I hid it from Master at the time.
 
@@ -2904,11 +2870,9 @@ Then... where do we start?
 
 **Yun Jin:** Still, I do wonder what the connection is between Shenhe and Mingjun.
 
-#### Scene
 
 **Changfeng:** The Jade Chamber belongs in the sky amongst the clouds!
 
-#### Scene
 
 **Yun Jin:** What's this...?
 
@@ -3010,11 +2974,9 @@ Maybe this is the true story of "The Divine Damsel of Devastation."
 
 **Changfeng:** The Jade Chamber looks magnificent...
 
-#### Scene
 
 **Anshun:** The fact we were able to complete the construction work on schedule is a testament to everyone's hard work.
 
-#### Scene
 
 **Leming:** The construction work on the Jade Chamber is now complete. Once we install the Wonder Cores and the Adepti Sigils, we can let it rise to altitude.
 
@@ -3210,7 +3172,6 @@ The time when the Jade Chamber takes to the skies again is drawing closer. Who k
 
 **Ningguang:** Let the ascension ceremony commence!
 
-#### Scene
 
 **Yun Jin:** "To act, one must first feel"...
 
@@ -3218,7 +3179,6 @@ The time when the Jade Chamber takes to the skies again is drawing closer. Who k
 
 **Yun Jin:** Next time I have a new opera, may we study the character together again?
 
-#### Scene
 
 **Anshun:** The fact we were able to complete the construction work on schedule is a testament to everyone's hard work.
 
@@ -3368,7 +3328,6 @@ It seems she still has a long way to go.
 
 **Paimon:** Calm down, Shenhe. Calm down...
 
-#### Scene
 
 **Leming:** The construction work on the Jade Chamber is now complete. Once we install the Wonder Cores and the Adepti Sigils, we can let it rise to altitude.
 
@@ -3380,7 +3339,6 @@ It seems she still has a long way to go.
 
 ### Untitled 11017
 
-#### Scene
 
 **Baiwen:** Want to go up to the Jade Chamber? Come with me, then.
 
@@ -3674,15 +3632,12 @@ It seems she still has a long way to go.
 
 **白术:** 不客气，祝你们顺利。有什么需要的话，来不卜庐找我就好。
 
-#### 场景
 
 **乐明:** 眼下第一步，是修建群玉阁的底座。等浮生石到了，就可以将浮生石安放在底座中…
 
-#### 场景
 
 **安顺:** 按照惯例，应该是玉衡星刻晴大人监工，不过刻晴大人最近似乎在忙别的事情…
 
-#### 场景
 
 **白术:** 凝光小姐需要的伤药，未免有点太多了。
 
@@ -3776,7 +3731,6 @@ It seems she still has a long way to go.
 
 **乐明:** 眼下第一步，是修建群玉阁的底座。等浮生石到了，就可以将浮生石安放在底座中…
 
-#### 场景
 
 **理正:** 嘘…别吵，没看见我在忙吗？每一块砖都很关键，万一砌歪了可就糟了。
 
@@ -3790,7 +3744,6 @@ It seems she still has a long way to go.
 
 **派蒙:** 咦，你们看，那边是不是多了一只仙灵？
 
-#### 场景
 
 **思勤:** 在下奉命保卫这里的安全，工期要紧，希望别出什么岔子。
 
@@ -3820,11 +3773,9 @@ It seems she still has a long way to go.
 
 **申鹤:** 这里有些魔物的气息。虽然不知道它们藏身何处，但还是小心为上。
 
-#### 场景
 
 **阿亮:** 最近千岩军调动频繁，也不知道发生了什么事…还是小心为好。
 
-#### 场景
 
 **刻晴:** 旅行者，派蒙，没想到你们居然找到孤云阁来了。
 
@@ -3858,7 +3809,6 @@ It seems she still has a long way to go.
 
 **常丰:** 刚刚搬来浮生石的那位，应该是仙人吧…
 
-#### 场景
 
 **留云借风真君:** 由仙人抚养长大的人类，既是如今的璃月所需要的，又寄托了众多仙家的一番心意。
 
@@ -4038,7 +3988,6 @@ It seems she still has a long way to go.
 
 **派蒙:** 我们过去看看吧！
 
-#### 场景
 
 **留云借风真君:** 或许是申鹤上次偷偷出山暴露了行踪，近些年关于她的传说也越来越多。
 
@@ -4122,7 +4071,6 @@ It seems she still has a long way to go.
 
 **留云借风真君:** 好了，本仙耽搁你们许久，话就说到这里。天色已晚，早些休息吧。
 
-#### 场景
 
 **白术:** 凝光小姐需要的伤药，未免有点太多了。
 
@@ -4178,7 +4126,6 @@ It seems she still has a long way to go.
 
 **派蒙:** 毕竟鸣霞浮生石这么难找，想必没多少人能拿到吧…如果竞争对手提前放弃了的话，我们就不用那么着急了。
 
-#### 场景
 
 **行秋:** 重修群玉阁比赛竞争激烈，不知道谁会是最终赢家。
 
@@ -4186,7 +4133,6 @@ It seems she still has a long way to go.
 
 还剩两样材料没有找到，先去工地打听一下消息吧。
 
-#### 场景
 
 **思勤:** 工程已经过半，下半程我也得打起精神，保护这里的安全！
 
@@ -4556,7 +4502,6 @@ It seems she still has a long way to go.
 
 **派蒙:** 好吧，那我们就先去村子里找找看了。
 
-#### 场景
 
 **申鹤:** 几年前，我曾经瞒着师父下山，回过一次这里。
 
@@ -4586,11 +4531,9 @@ It seems she still has a long way to go.
 
 **云堇:** 只是不知道刚刚我们见到的明俊，跟申鹤一家又是什么关系…
 
-#### 场景
 
 **常丰:** 群玉阁，果然还是要飞在天上啊！
 
-#### 场景
 
 **云堇:** 这是…
 
@@ -4692,11 +4635,9 @@ It seems she still has a long way to go.
 
 **常丰:** 群玉阁，真漂亮啊——
 
-#### 场景
 
 **安顺:** 能在工期内完工，是大家的功劳。
 
-#### 场景
 
 **乐明:** 群玉阁已经修建完毕，等千奇核心和仙家符箓安好之后，就可以升空了。
 
@@ -4892,7 +4833,6 @@ It seems she still has a long way to go.
 
 **凝光:** 升空仪式，开始！
 
-#### 场景
 
 **云堇:** 「唱戏须先入戏」…
 
@@ -4900,7 +4840,6 @@ It seems she still has a long way to go.
 
 **云堇:** 下次有了新戏，再一起参悟一番，如何？
 
-#### 场景
 
 **安顺:** 能在工期内完工，是大家的功劳。
 
@@ -5050,7 +4989,6 @@ It seems she still has a long way to go.
 
 **派蒙:** 冷静，申鹤。冷静呀——
 
-#### 场景
 
 **乐明:** 群玉阁已经修建完毕，等千奇核心和仙家符箓安好之后，就可以升空了。
 
@@ -5062,6 +5000,5 @@ It seems she still has a long way to go.
 
 ### 未命名 11017
 
-#### 场景
 
 **百闻:** 要去群玉阁吗？跟我来吧。

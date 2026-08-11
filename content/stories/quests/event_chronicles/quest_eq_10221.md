@@ -26,7 +26,6 @@
 
 Вы получаете долгожданное письмо от Яэ Мико...
 
-#### Сцена
 
 **Иорой:** Китибоси и остальные ещё молоды, так что их способность к речи весьма ограничена... Я скучаю по тем временам, когда бакэ-дануки с лёгкостью обманывали людей...
 
@@ -864,13 +863,11 @@
 
 **Тома:** Ха-ха, совсем забыл! Ты важная фигура на этом мероприятии! Что ж, не будем тебя задерживать. Приходи в любое время!
 
-#### Сцена
 
 Я хочу ещё немного осмотреться...
 
 **Яэ Мико:** О? Тогда возвращайся скорее. Не заставляй меня ждать!
 
-#### Сцена
 
 *Вы делитесь своими впечатлениями от игр с Мико...*
 
@@ -1113,7 +1110,6 @@
 
 **Яэ Мико:** Вот это настрой! Посмотри на игры ещё раз, я уверена, что одна из них отзовётся в тебе. Иди.
 
-#### Сцена
 
 **Ёимия:** Только представь, у всех детей в Инадзуме может появиться шанс сыграть в нашу игру! Я так волнуюсь! Мы должны победить!
 
@@ -1205,7 +1201,6 @@
 
 You receive a long-awaited letter from Yae Miko...
 
-#### Scene
 
 **Ioroi:** Kichiboushi and the others are young, so their speaking ability is limited... I miss the days when the bake-danuki could run circles around the humans.
 
@@ -2043,13 +2038,11 @@ Thoma...
 
 **Thoma:** Haha, I almost forgot! You're an important figure in this event! Well, don't let us keep you. Come back any time!
 
-#### Scene
 
 I want to look around some more...
 
 **Yae Miko:** Oh? Well, hurry back. Don't keep me waiting for too long!
 
-#### Scene
 
 *You share your play-test insights with Miko...*
 
@@ -2292,7 +2285,6 @@ Hmm, guess I should go back and check things out some more...
 
 **Yae Miko:** That's the spirit! Give the games another look, and I'm sure one of them will speak to you. Go on, now.
 
-#### Scene
 
 **Yoimiya:** Just think, all the kids in Inazuma might have a chance to play our game! Ah, I'm so excited! We have to win!
 
@@ -2384,7 +2376,6 @@ Huh...?
 
 八重神子久违地送来了一封书信…
 
-#### 场景
 
 **五百藏:** 凭吉法师他们现在的修行，要跟凡人说话还是有点麻烦…真怀念那些能把人类骗得团团转的大狸子…
 
@@ -3222,13 +3213,11 @@ Huh...?
 
 **托马:** 哈哈，差点忘了你现在可是个大忙人呢，代表。没事，等你有空了再来吧。
 
-#### 场景
 
 还想再逛一逛…
 
 **八重神子:** 是么？快去快回，别让我等太久哦。
 
-#### 场景
 
 *跟神子分享了自己的游玩心得…*
 
@@ -3471,7 +3460,6 @@ Huh...?
 
 **八重神子:** 这才对嘛，等你转过一圈，说不定心里就有数了？快去快去。
 
-#### 场景
 
 **宵宫:** 能让全稻妻的孩子都玩上我们做的「游艺」啊…想想就很兴奋呢，我们可一定不能输啊！
 

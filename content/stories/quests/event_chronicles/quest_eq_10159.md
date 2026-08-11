@@ -150,7 +150,6 @@
 
 **Фремине:** Нельзя терять время... Давайте отправимся прямо сейчас.
 
-#### Сцена
 
 **Телькси:** - -... -- ...- ..-!
 
@@ -440,7 +439,6 @@ We'll have to give it a try.
 
 **Freminet:** There's no time to waste... Let's set off right away.
 
-#### Scene
 
 **Thelxie:** - -... -- ...- ..-!
 
@@ -730,7 +728,6 @@ So... perhaps fantasy is not just fantasy after all.
 
 **菲米尼:** 事不宜迟…我们现在就出发吧。
 
-#### 场景
 
 **「特尔克西」:** - -... -- ...- ..-！
 

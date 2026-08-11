@@ -26,7 +26,6 @@
 
 Кажется, что у досина Кимуры, ответственного за поддержание порядка на празднике Иродори, возникли трудности...
 
-#### Сцена
 
 **Тома:** Как здорово вас здесь встретить.
 
@@ -328,13 +327,11 @@
 
 **Тома:** О, Путешественник, Паймон!
 
-#### Сцена
 
 **Тома:** Добровольцем быть просто. Требуется лишь помогать людям на празднике.
 
 **Тома:** Я передам вам запросы, которые уже успел получить.
 
-#### Сцена
 
 **Хирайдзуми:** Я и не думал, что на празднике Иродори будет столько дел...
 
@@ -480,7 +477,6 @@
 
 Kimura, the Doushin in charge of maintaining order at the Irodori Festival, seems to be having a hard time...
 
-#### Scene
 
 **Thoma:** What a nice surprise meeting you guys here.
 
@@ -782,13 +778,11 @@ You could also go buy some books.
 
 **Thoma:** Hey, Traveler and Paimon!
 
-#### Scene
 
 **Thoma:** The volunteer work is simple. You just need to give your help to people who need it during the festival.
 
 **Thoma:** I will assign some job requests that I've already received to you.
 
-#### Scene
 
 **Hiraizumi:** I didn't expect the Irodori Festival to be so busy this time...
 
@@ -934,7 +928,6 @@ You could also go buy some books.
 
 负责维护容彩祭秩序的同心木村似乎遇到了一些麻烦…
 
-#### 场景
 
 **托马:** 嘿，在这里见到你们真是意外。
 
@@ -1236,13 +1229,11 @@ You could also go buy some books.
 
 **托马:** 嘿，旅行者，派蒙！
 
-#### 场景
 
 **托马:** 志愿者的工作很简单，主要是帮助祭典上需要帮助的人们。
 
 **托马:** 我会把我这里已经收到的工作请求分发给你们。
 
-#### 场景
 
 **平泉:** 没想到这一次的容彩祭这么热闹…
 

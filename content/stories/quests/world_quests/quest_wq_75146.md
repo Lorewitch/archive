@@ -26,7 +26,6 @@
 
 Найдутся ли в руинах подсказки о том, как попасть в Великий вулкан Толлан?..
 
-#### Сцена
 
 **Мпосо:** Кхе-кхе... Во время извержения вулкан становится ещё активнее, и огромные камни сильно повреждают руины...
 
@@ -808,7 +807,6 @@
 
 One wonders if there are any clues to be found for entering the Great Volcano of Tollan amidst these crumbling ruins...
 
-#### Scene
 
 **Mposo:** *cough* The volcano gets more active whenever it enters a new eruption cycle and these falling rocks do massive damage to the ruins...
 
@@ -1590,7 +1588,6 @@ Huh, you must be "Idle Old Man Mposo"...
 
 不知在这个破碎的遗迹之中，有没有得知如何前往图兰大火山之内的线索…
 
-#### 场景
 
 **恩波索:** 咳咳…每到「喷吐」期，火山就会变得比以往还要活跃，这些岩石对于遗迹的破坏也很大…
 

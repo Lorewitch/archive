@@ -26,7 +26,6 @@
 
 На уединённом острове к востоку от Пирамиды вы замечаете вдали Коломбину. Обеспокоенные тем, что ваша подруга может оказаться в беде, вы следуете за её силуэтом и отправляетесь в неожиданное приключение...
 
-#### Сцена
 
 **Паймон:** Фух... Путешественник, ты, как всегда, молодец! Теперь всё в порядке?
 
@@ -570,7 +569,6 @@
 
 You catch sight of Columbina in the distance on a deserted island on the east side of Piramida. Worried that your friend has encountered trouble, you chase after her, and in so doing, embark on an adventure into the unknown...
 
-#### Scene
 
 **Paimon:** Phew... It was no problem for you in the end! That should take care of things, right?
 
@@ -1114,7 +1112,6 @@ Moonheart Gap
 
 在皮拉米达城东侧的一座偏僻小岛上，你们远远望见了哥伦比娅的身影，因为担心好友遭遇麻烦，于是你们追着她的背影，踏进了一段未知的冒险…
 
-#### 场景
 
 **派蒙:** 呼——旅行者，还是你厉害，这下应该没问题了吧？
 

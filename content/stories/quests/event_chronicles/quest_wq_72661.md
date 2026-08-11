@@ -154,18 +154,6 @@
 
 **Кудзирай Момидзи:** Я подготовила для тебя рыболовные упражнения, подожди пока. Мне ещё понадобится твоя помощь!
 
-#### Удалено
-
-**Паймон:** Здесь вообще ничего нет...
-
-**Паймон:** Похоже на свиную кость.
-
-#### Удалено
-
-**Паймон:** Здесь вообще ничего нет...
-
-**Паймон:** Тут даже травы нет.
-
 ## EN
 
 ### To Thee My Tender Grief Confide
@@ -299,18 +287,6 @@ What do you plan to do then?
 **Kujirai Momiji:** I'm going back to find the items my father left behind. He chased the "Lunar Leviathan" all his life and left a lot of information behind. I'm sure I can find a way.
 
 **Kujirai Momiji:** I have prepared some fishing training for you, please wait for my good news, I will have to ask you for help then.
-
-#### Discarded
-
-**Paimon:** There's nothing here
-
-**Paimon:** That looks like boar bones
-
-#### Discarded
-
-**Paimon:** There's nothing here
-
-**Paimon:** emmmm There's not even grass
 
 ## ZH
 
@@ -446,14 +422,3 @@ What do you plan to do then?
 
 **鲸井椛:** 我为你准备了一些钓鱼训练，请等我的好消息吧，到时候还要拜托你。
 
-#### 废弃
-
-**派蒙:** 这啥都没有嘛
-
-**派蒙:** 看起来像猪骨头
-
-#### 废弃
-
-**派蒙:** 这啥都没有嘛
-
-**派蒙:** emmmm草都没有

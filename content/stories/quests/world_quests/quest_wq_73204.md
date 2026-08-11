@@ -26,7 +26,6 @@
 
 Старик, который живёт один на краю деревни, может быть тем самым цветоводом, о котором говорила Саббах. Помогите ему навести порядок в его питомнике.
 
-#### Сцена
 
 **Аффан:** Что вы здесь делаете? Пришли посмеяться над стариком, который «выращивает камни»?
 
@@ -160,7 +159,6 @@
 
 **Паймон:** Это вызывает беспокойство. Давай навестим его позже, как будет минутка.
 
-#### Сцена
 
 **Паймон:** Фух, поручение выполнено. От всей этой беготни Паймон проголодалась.
 
@@ -190,7 +188,6 @@
 
 The old man who lives alone on the outskirts of the village may be the flower grower mentioned by Sabbah. Help him clean up his nursery.
 
-#### Scene
 
 **Affan:** What are you kids doing? Come to laugh at this old man "growing rocks," have you?
 
@@ -324,7 +321,6 @@ Let's see...
 
 **Paimon:** This is worrying. Let's pay him a visit when we can find the time.
 
-#### Scene
 
 **Paimon:** Phew, commission complete! Paimon's a little hungry after all that running around.
 
@@ -354,7 +350,6 @@ Let's see...
 
 独居在村边的老人，或许就是赛芭提到过的种花人，帮他清理苗圃吧。
 
-#### 场景
 
 **阿凡:** 两个小娃娃干什么呢，你们也是来看我这个「种石头」老头笑话的？
 
@@ -488,7 +483,6 @@ Let's see...
 
 **派蒙:** 越想越觉得不放心，我们有空的时候就去看看他吧。
 
-#### 场景
 
 **派蒙:** 呼，委托完成，跑了这半天感觉肚子有点饿。
 

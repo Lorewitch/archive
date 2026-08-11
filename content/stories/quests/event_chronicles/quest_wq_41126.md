@@ -26,7 +26,6 @@
 
 Из-за метеоритного дождя Цзя И вновь не смог вернуться домой и встретиться с семьёй. Он ищет человека, который сможет доставить письмо в деревню Цинцэ.
 
-#### Сцена
 
 **Цзя И:** Эх... Что же мне делать?
 
@@ -150,7 +149,6 @@
 
 Due to the meteor shower, Jiayi's plans to return home to see his family have been canceled yet again. He is looking for someone to send a letter to Qingce Village...
 
-#### Scene
 
 **Jiayi:** *sigh* What shall I do...
 
@@ -274,7 +272,6 @@ There's a letter for you...
 
 因为陨石突降，千岩军嘉义回家探亲的计划又被迫取消了，他想要找个人帮自己带一封家书回轻策庄…
 
-#### 场景
 
 **嘉义:** 唉，这可怎么办…
 

@@ -156,7 +156,6 @@
 
 **Шуэйони:** Мои дети одни из лучших наездников клана Цветочного Пера. Думаю, тебе понравится с ними летать.
 
-#### Сцена
 
 **Матага:** Ещё одна гонка? Легко! Сейчас вы увидите, на что я способен!
 
@@ -434,7 +433,6 @@
 
 **Xueyoni:** All three of my kids are top-tier fliers in the Flower-Feather Clan. You'll have a great time flying together.
 
-#### Scene
 
 **Matahga:** Another race? Haha! Just wait and see!
 
@@ -712,7 +710,6 @@ Thank you.
 
 **库约尼:** 我这三个孩子都是花羽会顶尖的飞行好手，你们一起飞应该会很痛快的。
 
-#### 场景
 
 **马塔伽:** 又是追逐赛吗？哈哈，你们等着瞧吧！
 

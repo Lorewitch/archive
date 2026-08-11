@@ -26,7 +26,6 @@
 
 Согласно данным «Флагмана», банда контрабандистов похитила в Натлане капибару редкой окраски...
 
-#### Сцена
 
 Спустя некоторое время...
 
@@ -98,7 +97,6 @@
 
 According to intel from The Flagship, a group of smugglers has been poaching rare-colored Capybaras in Natlan...
 
-#### Scene
 
 After some time...
 
@@ -170,7 +168,6 @@ After some time...
 
 根据「旗舰」的消息，有一伙走私贩在纳塔劫掠了颜色罕见的豚兽…
 
-#### 场景
 
 蹲守了一段时间…
 

@@ -26,7 +26,6 @@
 
 Похоже, что всеядные гурманы снова столкнулись с трудностями...
 
-#### Сцена
 
 **Сюй Дун:** Морские водоросли здесь очень хорошие...
 
@@ -34,7 +33,6 @@
 
 **Джули:** Если бы мы взяли ножик, то быстро бы справились.
 
-#### Сцена
 
 **Сюй Дун:** Мы не можем сюда спуститься...
 
@@ -156,7 +154,6 @@
 
 The Gourmet Supremos seem to be in another fix...
 
-#### Scene
 
 **Xudong:** The Seagrass here is pretty good...
 
@@ -164,7 +161,6 @@ The Gourmet Supremos seem to be in another fix...
 
 **Julie:** If we used a small knife, we'd get them all in no time.
 
-#### Scene
 
 **Xudong:** We can't go down there like this...
 
@@ -286,7 +282,6 @@ What are you doing over here?
 
 「全能美食队」似乎又遇见了麻烦…
 
-#### 场景
 
 **旭东:** 这里的海草还不错…
 
@@ -294,7 +289,6 @@ What are you doing over here?
 
 **朱莉:** 用小刀的话，一下子就能采走海草啦。
 
-#### 场景
 
 **旭东:** 这可下不去啊…
 

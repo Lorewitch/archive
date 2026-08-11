@@ -26,15 +26,12 @@
 
 Вы встретили ребёнка, который ищет осколки упавшей звезды...
 
-#### Сцена
 
 **Орко:** Папа наверняка обрадуется...
 
-#### Сцена
 
 **Орко:** Эй, чего ты ждёшь? Скорее помести разбросанные осколки обратно на звезду!
 
-#### Сцена
 
 **Орко:** Ух ты! Потрясающе! Вы нашли все осколки!
 
@@ -66,7 +63,6 @@
 
 **Орко:** Поскорее верни осколки на звезду! Ух ты... Интересно, какая сила пробудится? Может, я тоже смогу подняться в небо... Хе-хе!
 
-#### Сцена
 
 **Паймон:** Эй, что ты здесь делаешь?
 
@@ -200,15 +196,12 @@
 
 You encounter a child looking for star shards out in the wild...
 
-#### Scene
 
 **Orqo:** Dad'll be happy, for sure...
 
-#### Scene
 
 **Orqo:** Hey, what're you waiting for? Hurry up! We've gotta put the scattered fragments back on the star!
 
-#### Scene
 
 **Orqo:** Wow! Amazing! You guys found all the star shards!
 
@@ -240,7 +233,6 @@ You encounter a child looking for star shards out in the wild...
 
 **Orqo:** C'mon, hurry up and put the fragments back on the star! Wow... I wonder what power will awaken? Maybe I'll even ascend to the sky... Hehe!
 
-#### Scene
 
 **Paimon:** Hey, what are you doing here?
 
@@ -374,15 +366,12 @@ Not really, no.
 
 在野外遇到了寻找星星碎片的小孩…
 
-#### 场景
 
 **奥尔科:** 爸爸肯定也会高兴的…
 
-#### 场景
 
 **奥尔科:** 哥哥 / 姐姐在犹豫什么？快把失散的碎片放回星星上吧。
 
-#### 场景
 
 **奥尔科:** 哇！好厉害，你们找到全部的星星碎片了！
 
@@ -414,7 +403,6 @@ Not really, no.
 
 **奥尔科:** 哥哥 / 姐姐，快把失散的碎片放回星星上吧。哇…我会觉醒什么力量呢？说不定能去到天上…嘿嘿。
 
-#### 场景
 
 **派蒙:** 喂，你在这里干什么呢？
 

@@ -26,7 +26,6 @@
 
 Рядом с островом Хийси обнаружен остров с возмущениями куувяки...
 
-#### Сцена
 
 **Паймон:** Кхе-кхе... Наконец-то Паймон выбралась отсюда! Уф, не ожидала, что всё так внезапно обрушится... Испугалась не на шутку. Хорошо ещё, что хоть выход нашёлся...
 
@@ -259,7 +258,6 @@
 
 **Верна:** В общем, собираем всех куухенки, что ещё остались на острове, вытаскиваем последний фрагмент из Зеркала полнолуния и покончим с этой аномалией!
 
-#### Сцена
 
 **Паймон:** Ч-что теперь делать? Похоже, нам отсюда не выбраться... Хотя вон там какой-то свет. Может, получится обойти?
 
@@ -515,7 +513,6 @@
 
 В центре Анклава Морозной Луны был обнаружен странный камень...
 
-#### Сцена
 
 **Кася:** Хм... Похоже, это тоже не то...
 
@@ -661,7 +658,6 @@
 
 **Кася:** Ах да, вот камень, который я только что нашла! Он тоже очень красивый, поэтому я хочу подарить его братцу / сестрице в знак благодарности!
 
-#### Сцена
 
 **Кася:** Огромное спасибо! Было бы здорово найти поблизости красивые камни...
 
@@ -669,7 +665,6 @@
 
 На острове Хийси рыбак Пеккани озадачен тем, что же мешает его рыбалке...
 
-#### Сцена
 
 **Пеккани:** Двадцать пять... двадцать шесть...
 
@@ -1293,7 +1288,6 @@
 
 Рядом с Анклавом Морозной Луны обнаружена глубокая яма...
 
-#### Сцена
 
 **Паймон:** Хм, похоже, здесь путь заблокирован...
 
@@ -1741,7 +1735,6 @@
 
 You discover an island affected by kuuvahki turbulence near Hiisi Island...
 
-#### Scene
 
 **Paimon:** *cough cough* We finally made it out... Ugh, Paimon didn't expect that collapse... That was so scary! Good thing we managed to find another exit...
 
@@ -1974,7 +1967,6 @@ What are you even talking about?
 
 **Verna:** Anyway, first things first — let's gather the remaining kuuhenki on the island, extract the last fragment from the Moon Mirror, and stabilize the disturbance once and for all!
 
-#### Scene
 
 **Paimon:** W—What should we do? Doesn't look like we can leave through here... Wait, Paimon sees some light over there! Maybe there's another way around?
 
@@ -2230,7 +2222,6 @@ Who are you?
 
 In the center of the Frostmoon Enclave, you discover a strange large stone...
 
-#### Scene
 
 **Kasha:** Hmm... Doesn't seem to be this one either...
 
@@ -2376,7 +2367,6 @@ In the center of the Frostmoon Enclave, you discover a strange large stone...
 
 **Kasha:** Oh! And here's a pretty stone I found earlier. I think it's really beautiful, so I want you to have it as a thank-you gift!
 
-#### Scene
 
 **Kasha:** Thank you so much! It would be great if I could find pretty stones nearby...
 
@@ -2384,7 +2374,6 @@ In the center of the Frostmoon Enclave, you discover a strange large stone...
 
 On Hiisi Island, the angler Pekkani finds himself puzzled by an unseen force disturbing his catch...
 
-#### Scene
 
 **Pekkani:** Twenty-five... twenty-six...
 
@@ -3008,7 +2997,6 @@ Before Verna can finish her sentence, Rahetar drags her off...
 
 You discover a deep pit near the Frostmoon Enclave...
 
-#### Scene
 
 **Paimon:** Hmm, looks like this way is blocked...
 
@@ -3456,7 +3444,6 @@ And collect my free meal ticket?
 
 在希汐岛附近，发现了一座月矩力紊乱的岛屿…
 
-#### 场景
 
 **派蒙:** 咳咳，终于从这边绕出来了…呜啊，没想到会突然塌陷，吓了我一跳，幸亏还有能出去的路…
 
@@ -3689,7 +3676,6 @@ And collect my free meal ticket?
 
 **维娜:** 总之，先把岛上剩下的月灵引到这里来，从盈月之镜里取出最后一枚碎片，解决紊乱的问题吧！
 
-#### 场景
 
 **派蒙:** 怎、怎么办，这边好像出不去了…不过那里好像有光的样子，说不定可以绕出去？
 
@@ -3945,7 +3931,6 @@ And collect my free meal ticket?
 
 在霜月之坊正中央，发现了一块奇怪的大石头…
 
-#### 场景
 
 **卡夏:** 嗯…好像也不是这一块…
 
@@ -4091,7 +4076,6 @@ And collect my free meal ticket?
 
 **卡夏:** 对了，这是我刚才找到的石头！因为也很好看，所以就送给旅行者哥哥 / 姐姐作为谢礼吧！
 
-#### 场景
 
 **卡夏:** 谢谢你们，好心的哥哥姐姐 / 姐姐们！要是附近能找到漂亮的石头就好啦…
 
@@ -4099,7 +4083,6 @@ And collect my free meal ticket?
 
 在希汐岛，垂钓的佩卡尼正在困惑是什么影响了他钓鱼…
 
-#### 场景
 
 **佩卡尼:** 二十五…二十六…
 
@@ -4723,7 +4706,6 @@ And collect my free meal ticket?
 
 在霜月之坊附近，发现了一个深坑…
 
-#### 场景
 
 **派蒙:** 唔，这边好像被堵住了呢…
 

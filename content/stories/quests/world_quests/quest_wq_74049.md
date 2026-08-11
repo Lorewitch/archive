@@ -26,7 +26,6 @@
 
 Маленькую садовницу Косынзяну снова одолевают неприятности...
 
-#### Сцена
 
 **Косынзяна:** Ой, это же Путешественник и Паймон, которые приносят цветочки из далёких земель!
 
@@ -134,7 +133,6 @@
 
 The troubles of Cosanzeana the little florist continue...
 
-#### Scene
 
 **Cosanzeana:** Ah, it's Traveler and Paimon, the bringers of exotic flowers!
 
@@ -242,7 +240,6 @@ Perhaps it's not the flowers that are attracting them.
 
 小花匠柯莎的烦恼仍未解决…
 
-#### 场景
 
 **柯莎:** 是带来异国花朵的旅行者和派蒙！
 

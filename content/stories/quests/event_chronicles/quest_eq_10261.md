@@ -26,7 +26,6 @@
 
 Путешествуя по Нод-Краю, вы решаете прогуляться по Нашгороду...
 
-#### Сцена
 
 **Паймон:** Хм... Такая большущая доска, а на ней всего одно объявление? Посмотрим...
 
@@ -478,7 +477,6 @@
 
 As you travel through Nod-Krai, you decide to take a stroll around Nasha Town...
 
-#### Scene
 
 **Paimon:** Huh... There's so much space on this thing, but only one post. Let's see here...
 
@@ -930,7 +928,6 @@ It's okay. I've got your back.
 
 正在挪德卡莱游历的你决定去那夏镇逛一逛…
 
-#### 场景
 
 **派蒙:** 嗯…这么大的告示牌，只贴了一张告示吗？让我看看…
 

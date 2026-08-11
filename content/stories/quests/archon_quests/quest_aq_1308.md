@@ -910,7 +910,6 @@
 
 **Эйде:** Далее нужно сорвать грибы и приготовить новую порцию лекарства по той же инструкции. Ты ведь помнишь, что нужно делать?
 
-#### Сцена
 
 **Эйде:** А, ты уже здесь! Состояние Кариберта стабильное...
 
@@ -938,7 +937,6 @@
 
 **Эйде:** Хе-хе, это верно. Это просто мои мысли. Спасибо за помощь с приготовлением лекарства. Теперь по инструкции... нужно отправиться к статуе семи Архонтов.
 
-#### Сцена
 
 **Эйде:** Спасибо, что помогаешь мне, иначе я не знаю, сколько бы пришлось потратить времени в моём нынешнем состоянии...
 
@@ -1082,7 +1080,6 @@
 
 **Эйде:** П-правда? Ладно, как скажешь.
 
-#### Сцена
 
 **Эйде:** О, Кариберт! Слава богу, с ним всё в порядке.
 
@@ -1458,7 +1455,6 @@
 
 **Эйде:** ...о принцесса / принц Каэнри'ах?
 
-#### Сцена
 
 **Паймон:** ...Ты очнулся / очнулась! Ох, какое облегчение!
 
@@ -1600,7 +1596,6 @@
 
 **Паймон:** А?!
 
-#### Сцена
 
 **Кариберт:** Ты тоже живёшь в сказочном мире? Меня зовут Кариберт. Приятно познакомиться.
 
@@ -2494,7 +2489,6 @@ Got it.
 
 **Eide:** Next, we pick the mushrooms and repeat the same steps as before to make another dose. I trust you still remember the method?
 
-#### Scene
 
 **Eide:** Ah, you're back. Caribert's condition is stable...
 
@@ -2522,7 +2516,6 @@ Got it.
 
 **Eide:** Hehe, I do indeed, that's why it was just a fleeting thought... Thank you for your help once again. Now for the final step... Back to the Statue of The Seven.
 
-#### Scene
 
 **Eide:** Without your help, goodness knows how long this would take me...
 
@@ -2666,7 +2659,6 @@ Something's not right about this place. We need to get out of here.
 
 **Eide:** Oh, i—is that so? Alright, as you wish.
 
-#### Scene
 
 **Eide:** Caribert! Oh, thank goodness. He's still okay.
 
@@ -3042,7 +3034,6 @@ But I've never met you...
 
 **Eide:** O Princess / Prince... of Khaenri'ah?
 
-#### Scene
 
 **Paimon:** ...You're awake! Oh, thank goodness, you're awake!
 
@@ -3184,7 +3175,6 @@ Oh, Paimon... one more thing:
 
 **Paimon:** Huh!?
 
-#### Scene
 
 **Caribert:** Do you live in the fairytale world as well? My name's Caribert, nice to meet you...
 
@@ -4078,7 +4068,6 @@ Oh, Paimon... one more thing:
 
 **埃德:** 下一步，摘了这些蘑菇，按照之前的流程再做一份药，你应该很熟练了吧？
 
-#### 场景
 
 **埃德:** 你回来了，卡利贝尔的情况很稳定…
 
@@ -4106,7 +4095,6 @@ Oh, Paimon... one more thing:
 
 **埃德:** 呵呵，是啊是啊，所以只是想想罢了。辛苦你做药了，按照流程…我们去七天神像吧。
 
-#### 场景
 
 **埃德:** 多亏了有你帮忙，不然以我现在这双手，还不知道要耗费多少时间…
 
@@ -4250,7 +4238,6 @@ Oh, Paimon... one more thing:
 
 **埃德:** 是、是吗…好吧，那先听你的。
 
-#### 场景
 
 **埃德:** 卡利贝尔，谢天谢地，这里一切如常。
 
@@ -4626,7 +4613,6 @@ Oh, Paimon... one more thing:
 
 **埃德:** 坎瑞亚的…公主 / 王子大人？
 
-#### 场景
 
 **派蒙:** …醒了，太好了，旅行者醒了！
 
@@ -4768,6 +4754,5 @@ Oh, Paimon... one more thing:
 
 **派蒙:** 啊！？
 
-#### 场景
 
 **卡利贝尔:** 你也是…你也是这童话世界里的居民吗？你好，我叫卡利贝尔。

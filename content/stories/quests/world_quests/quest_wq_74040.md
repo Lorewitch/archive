@@ -26,7 +26,6 @@
 
 Кажется, у Аиз есть к вам дело...
 
-#### Сцена
 
 **Аиз:** Приветствую вас! Моё имя Аиз. Рада встрече с вами!
 
@@ -182,7 +181,6 @@
 
 Аиз передаёт сигнал с помощью раковины...
 
-#### Сцена
 
 **Аиз:** «Длинный низкий, длинный низкий, длинный низкий, длинный низкий, длинный низкий». Ты сам(а) его выбрал(а).
 
@@ -316,7 +314,6 @@
 
 С самого короткого.
 
-#### Сцена
 
 **Аиз:** Помнишь? «Короткий низкий, длинный низкий, короткий низкий, длинный низкий, короткий низкий, длинный низкий, короткий низкий, длинный низкий, короткий низкий, длинный низкий»!
 
@@ -469,7 +466,6 @@
 
 Ahes seems to be looking for you...
 
-#### Scene
 
 **Ahes:** Hello, I'm Ahes. It's a pleasure to meet a new friend!
 
@@ -625,7 +621,6 @@ I'm not sure. What would you prefer, Ahes?
 
 Ahes sends the signal with the conch...
 
-#### Scene
 
 **Ahes:** "Long low note, long low note, long low note, long low note, long low note" — that's how this signal's supposed to go.
 
@@ -759,7 +754,6 @@ Let's start with the one of middling length.
 
 Let's start from the shortest one.
 
-#### Scene
 
 **Ahes:** Do you still remember the signal? It goes "Short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note, short low note, long low note"!
 
@@ -912,7 +906,6 @@ As the dream-like shanty dissolves into the ocean waves, a sorrowful voice comes
 
 艾伊丝似乎有事找你…
 
-#### 场景
 
 **艾伊丝:** 你们好呀，艾伊丝是我的名字，很高兴遇见新朋友！
 
@@ -1068,7 +1061,6 @@ As the dream-like shanty dissolves into the ocean waves, a sorrowful voice comes
 
 艾伊丝用海螺发出了信号…
 
-#### 场景
 
 **艾伊丝:** 「长低音，长低音，长低音，长低音，长低音」，这是你选择的讯号哦。
 
@@ -1202,7 +1194,6 @@ As the dream-like shanty dissolves into the ocean waves, a sorrowful voice comes
 
 从最短的开始吧。
 
-#### 场景
 
 **艾伊丝:** 还记得讯号吗？「短低音，长低音，短低音，长低音，短低音，长低音，短低音，长低音，短低音，长低音」！
 

@@ -590,7 +590,6 @@
 
 **Тиори:** Уверена, вы справитесь.
 
-#### Сцена
 
 **Элоф:** Госпожа Тиори никогда не отчаивается. Ей просто нужно побыть наедине с собой и немного успокоиться.
 
@@ -1630,7 +1629,6 @@
 
 **Тиори:** Могу с уверенностью сказать, что сегодня самый прекрасный вечер с тех пор, как я приехала в Фонтейн.
 
-#### Сцена
 
 (Тиори сказала, ей нужно время, чтобы подготовить коллекцию к показу. Лучше пока её не отвлекать...)
 
@@ -2204,7 +2202,6 @@ If the hem of a skirt is stained, can it still take the stage?
 
 **Chiori:** Well then, I'll leave the displays to you.
 
-#### Scene
 
 **Eloffe:** Miss Chiori isn't the sort to just give up. She probably just needs a place where she can think in peace.
 
@@ -3244,7 +3241,6 @@ He wants to trap us in the factory...
 
 **Chiori:** You know? Of all the nights I've spent in Fontaine, I'd say this is the loveliest by far.
 
-#### Scene
 
 (Chiori said that she needs all the time she can get to make the clothes for the fashion show. Best not to disturb her for now...)
 
@@ -3818,7 +3814,6 @@ He wants to trap us in the factory...
 
 **千织:** 那么，这边就交给你们了。
 
-#### 场景
 
 **爱洛芙:** 千织小姐不是那种轻易气馁的人。她只是…需要一个地方安静地思考。
 
@@ -4858,6 +4853,5 @@ He wants to trap us in the factory...
 
 **千织:** 我敢肯定，这会是我来枫丹之后，所见过最美的一晚。
 
-#### 场景
 
 （千织说过要抓紧时间做时装秀的衣服，还是先不去打扰她了吧…）

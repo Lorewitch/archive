@@ -76,7 +76,6 @@
 
 **Малыш Цянь:** Новый калейдофонарь ещё не готов. Пожалуйста, загляни позже.
 
-#### Сцена
 
 **Малыш Цянь:** Ого, я ещё не видел, чтобы кто-то сложил картинку так быстро! Ты очень, очень хорош(а).
 
@@ -160,7 +159,6 @@ What happens when they overlap?
 
 **Brother Qian:** The new Illumiscreen isn't set up yet. Come back when it's ready.
 
-#### Scene
 
 **Brother Qian:** Solved it already! You've got a knack for this.
 
@@ -244,7 +242,6 @@ I've found every last chest.
 
 **小千:** 新的「玲珑霄灯图」还没布置好呢，等布置好了你再来吧。
 
-#### 场景
 
 **小千:** 喔！已经拼出来了啊，你还挺会玩的嘛
 

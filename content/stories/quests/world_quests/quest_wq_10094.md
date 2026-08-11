@@ -26,7 +26,6 @@
 
 В Чертогах в пустыне есть кто-то, кто выжил и избежал наказания...
 
-#### Сцена
 
 **Паймон:** Где это мы? Всё закончилось, да?
 
@@ -348,7 +347,6 @@
 
 По Академии Луян бродят странные чернильные пятна...
 
-#### Сцена
 
 **Даоцзы:** Прошу прощения, что заставил вас ждать. Вижу, у вас всё в порядке.
 
@@ -670,7 +668,6 @@
 
 **Маук:** Тогда следуйте за мной. Я отведу вас туда, где можно решить проблему.
 
-#### Сцена
 
 **Даоцзы:** Кано, Ёситоси, Босх, вы живы!
 
@@ -1012,7 +1009,6 @@
 
 Многие попали в ловушку среди страниц в Зале Махавайпулья...
 
-#### Сцена
 
 **Паймон:** Кстати, а о чём вы пишете?
 
@@ -1485,7 +1481,6 @@
 
 There appears to be a survivor who's escaped punishment at the Desert Pavilion...
 
-#### Scene
 
 **Paimon:** Where are we? Is it all over?
 
@@ -1807,7 +1802,6 @@ Heh. They sound weak.
 
 Strange ink blots wander around the Luyang Academy...
 
-#### Scene
 
 **Daozi:** Oh, sorry to keep you waiting. Looks like things went smoothly for you guys, too.
 
@@ -2129,7 +2123,6 @@ Thank you, Zeitlind.
 
 **"Maukie":** If that's the case, you should also come with me. I'll take you where you need to go.
 
-#### Scene
 
 **Daozi:** Kanou, Yoshitoshi, Bosch, you've all come back to life!
 
@@ -2471,7 +2464,6 @@ The Keepers of the Pillar Hall consider the contents of Zeitlind's suitcase to b
 
 In the Mahavaipulya Chamber, many are those who have been imprisoned within the pages...
 
-#### Scene
 
 **Paimon:** Speaking of which, what kind of stuff do you two write about?
 
@@ -2944,7 +2936,6 @@ You ask if there are traces of your sister / brother here.
 
 「沙上楼阁」似乎还有逃过惩罚的幸存者…
 
-#### 场景
 
 **派蒙:** 这里是哪里啊？这应该算是结束了吧？
 
@@ -3266,7 +3257,6 @@ You ask if there are traces of your sister / brother here.
 
 麓阳书院四处游荡着奇怪的墨渍…
 
-#### 场景
 
 **道子:** 哦哦，久等了。看来你们也很顺利嘛。
 
@@ -3588,7 +3578,6 @@ You ask if there are traces of your sister / brother here.
 
 **「莫基」:** 是吗，那也请随我来。我来带你们去解决问题。
 
-#### 场景
 
 **道子:** 狩野、芳年、博斯，你们活了！
 
@@ -3930,7 +3919,6 @@ You ask if there are traces of your sister / brother here.
 
 「大方广之间」有不少人被困于书页之间…
 
-#### 场景
 
 **派蒙:** 这么说来，你们俩的小说都是什么题材啊。
 

@@ -76,7 +76,6 @@
 
 **Флора:** Ах, надеюсь, они скоро вырастут...
 
-#### Сцена
 
 Насчёт тех цветов...
 
@@ -86,7 +85,6 @@
 
 **Флора:** Когда соберёшь, пожалуйста, возвращайся скорее.
 
-#### Сцена
 
 Насчёт одуванчиков...
 
@@ -94,7 +92,6 @@
 
 **Флора:** Прошу тебя, помоги мне собрать семена одуванчика.
 
-#### Сцена
 
 **Флора:** Готово! Хе-хе, наконец-то в цветочном магазине появились цветы.
 
@@ -154,7 +151,6 @@ I have them.
 
 **Flora:** Ah, I really hope they grow up soon...
 
-#### Scene
 
 About those flowers...
 
@@ -164,7 +160,6 @@ About those flowers...
 
 **Flora:** Once you've finished picking them, please bring them back to me as quickly as possible.
 
-#### Scene
 
 So, about those dandelions...
 
@@ -172,7 +167,6 @@ So, about those dandelions...
 
 **Flora:** So please, help me gather a batch of Dandelion Seeds.
 
-#### Scene
 
 **Flora:** And we're done. Hehe, doesn't this look like a proper florist's now?
 
@@ -232,7 +226,6 @@ So, about those dandelions...
 
 **芙萝拉:** 嗯…真希望它快点长大…
 
-#### 场景
 
 关于那些花…
 
@@ -242,7 +235,6 @@ So, about those dandelions...
 
 **芙萝拉:** 摘到之后，请快点拿回来给我吧。
 
-#### 场景
 
 关于蒲公英…
 
@@ -250,6 +242,5 @@ So, about those dandelions...
 
 **芙萝拉:** 拜托你，帮我搜集一份蒲公英籽回来吧。
 
-#### 场景
 
 **芙萝拉:** 这样就可以了，呼呼，是不是很有花店的感觉了？

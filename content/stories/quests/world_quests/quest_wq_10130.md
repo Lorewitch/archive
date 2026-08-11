@@ -349,7 +349,6 @@
 
 **Джехт:** Ха-ха, ладно! Больше никакого уныния... Нам пора в путь.
 
-#### Сцена
 
 **Бабель:** Что такое, Путешественник? Возникли трудности во время приключений?
 
@@ -1521,7 +1520,6 @@
 
 Чтобы помочь Джехт добраться до Оазиса вечности, сначала нужно отыскать джинна, которой ведома история древности. Говорят, джинн обитает в руинах этого храма...
 
-#### Сцена
 
 **Исследовать:** «...Прибыв на место, разбейте лагерь и заблокируйте ущелье. Доступ в ущелье открыт только для членов племени Танит и подчинённых ему племён...»
 
@@ -1663,7 +1661,6 @@
 
 **Паймон:** Ну всё равно... Нужно помнить об осторожности!
 
-#### Сцена
 
 **Азарик:** Из записей я знаю, что ни наёмники, которые наведывались сюда раньше, ни обладатели рукотворного Глаза Порчи не могли активировать такое устройство. Но ты другое дело...
 
@@ -1675,7 +1672,6 @@
 
 **Джехт:** Гм... И всё равно не забывай об осторожности... Скажи мне, если что-то пойдёт не так.
 
-#### Сцена
 
 **Джехт:** Разговор с матриархом Бабель окончен?
 
@@ -4293,7 +4289,6 @@ Well then, let's move on.
 
 **Jeht:** Haha, alright! Now, enough sentimentality. Let's go!
 
-#### Scene
 
 **Babel:** What's the matter, Traveler? Did you encounter any trouble during your adventure?
 
@@ -5462,7 +5457,6 @@ You see the plump pomegranate being handed to the shepherd boy...
 
 To help Jeht find the Eternal Oasis, you must first find a Jinni who knows about the ancient past. It is said that this ruined temple plays host to just such a being...
 
-#### Scene
 
 **Investigate:** "Make camp upon reaching your destination and seal the canyon to outsiders. Only members of the Tanit and the following tribes may pass..."
 
@@ -5604,7 +5598,6 @@ So, what about it?
 
 **Paimon:** You say that... But we should be careful all the same!
 
-#### Scene
 
 **Azariq:** The records I've seen tell me that neither the mercenaries who came here nor those who used man-made Delusions were able to activate this device. But if you were to try...
 
@@ -5616,7 +5609,6 @@ Did you say "Delusions"...?
 
 **Jeht:** Or so I say, but you should be careful all the same. Just tell me if you think that something's amiss!
 
-#### Scene
 
 **Jeht:** Is the conversation with Matriarch Babel over?
 
@@ -8234,7 +8226,6 @@ Watch your teeth, Paimon.
 
 **婕德:** 哈哈，知道啦！好了，不多愁善感了…我们这就出发吧。
 
-#### 场景
 
 **芭别尔:** 怎么了，旅行者，难道是冒险的途中遇到了什么困难吗…
 
@@ -9403,7 +9394,6 @@ Watch your teeth, Paimon.
 
 要协助婕德一同前往「永恒绿洲」，首先应寻找通晓古事的镇灵。据说那镇灵就隐藏在这古老神殿的残垣断壁之中…
 
-#### 场景
 
 **调查:** 「…抵达后就地扎营，封锁峡谷以防外人闯入。仅塔尼特部族及其支族可受准通过…」
 
@@ -9545,7 +9535,6 @@ Watch your teeth, Paimon.
 
 **派蒙:** 话是这么说啦…哼，总之你要小心才是！
 
-#### 场景
 
 **阿萨里格:** 我翻看过记录，不论先前来过这里的佣兵还是人工「邪眼」拥有者，都无法激活这座仪器。但如果是你的话…
 
@@ -9557,7 +9546,6 @@ Watch your teeth, Paimon.
 
 **婕德:** 唔…虽然这么说，但你也注意安全…如果感觉不对劲的话就告诉我
 
-#### 场景
 
 **婕德:** …和芭别尔主母的谈话结束了？
 

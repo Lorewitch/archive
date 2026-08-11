@@ -26,7 +26,6 @@
 
 Похоже, что Чжи Пин из Гильдии искателей приключений расследует передвижение монстров и недавнее землетрясение в долине Тяньцю...
 
-#### Сцена
 
 **Чжи Пин:** В этот раз - долина Тяньцю...
 
@@ -56,7 +55,6 @@
 
 **Чжи Пин:** Спасибо. В тех местах будь крайне осторож(на)(ен).
 
-#### Сцена
 
 **Чжи Пин:** В этот раз - долина Тяньцю...
 
@@ -150,7 +148,6 @@
 
 Zhiping of the Adventurers' Guild seems to be investigating the earthquakes and strange monster movements in Tianqiu Valley...
 
-#### Scene
 
 **Zhiping:** ...Ugh, now Tianqiu Valley, too?
 
@@ -180,7 +177,6 @@ I'll do it.
 
 **Zhiping:** Thank you very much. Please stay safe while exploring in that area.
 
-#### Scene
 
 **Zhiping:** ...Ugh, now Tianqiu Valley, too?
 
@@ -274,7 +270,6 @@ Does that mean that these monsters sightings...
 
 冒险家协会的治平似乎在调查近期在天遒谷发生的地震与魔物的异动…
 
-#### 场景
 
 **治平:** 这次是发生在天遒谷吗…
 
@@ -304,7 +299,6 @@ Does that mean that these monsters sightings...
 
 **治平:** 那就拜托你了，去那里搜索的时候，请千万注意安全。
 
-#### 场景
 
 **治平:** 这次是发生在天遒谷吗…
 

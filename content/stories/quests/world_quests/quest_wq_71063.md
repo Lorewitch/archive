@@ -26,11 +26,9 @@
 
 Похититель сокровищ, стоящий на самой высокой точке Разлома, утверждает, что является последователем школы Гухуа. Помешался ли этот человек, или действительно хранит некую тайну?
 
-#### Сцена
 
 **Тан Учоу:** Почему же все так рвутся увидеть мой Великолепный сад глазурных лилий? Если какой-нибудь воришка рискнёт сунуться сюда, то ему придётся испытать на себе всю мощь школы Гухуа!
 
-#### Сцена
 
 **Тан Учоу:** Что же вы за люди такие?! Разве не заметно, что за этими цветами ухаживают? Как же можно срывать их вот так запросто?!
 
@@ -454,11 +452,9 @@
 
 A Treasure Hoarder at the top of The Chasm claims to be from the Guhua Clan. Is he crazy, or is he just lost? Or is there some other secret that lies behind this situation?
 
-#### Scene
 
 **Tang Wuchou:** Ah, why do people covet my great Glaze Lily garden all day long? If any thieves dare approach, I shall surely have them taste the might of the Guhua Clan's martial arts!
 
-#### Scene
 
 **Tang Wuchou:** What lowly folk are you? Do you not see that these flowers are kept by someone? How dare you pick them so casually!
 
@@ -882,11 +878,9 @@ Let's pass it to him later...
 
 一位站在层岩巨渊最高处的前盗宝团成员，竟自称古华派传人，是精神的失常还是人心的沦丧，难道其中还藏有什么隐情…
 
-#### 场景
 
 **唐无仇:** 哼哼，怎么成天有人觊觎我的琉璃百合大花园，要是再有偷花贼胆敢靠近，我就必要让他们尝尝古华派武功的厉害！
 
-#### 场景
 
 **唐无仇:** 你们是何方宵小之徒！可不知此处的这些花已是名花有主！岂可随意采撷？
 

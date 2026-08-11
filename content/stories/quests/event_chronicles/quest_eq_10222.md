@@ -1194,7 +1194,6 @@
 
 **Тома:** Спасибо за заботу. И ты тоже.
 
-#### Сцена
 
 (Похоже, все заняты и стараются закончить свою игру... Вернусь позже.)
 
@@ -1240,7 +1239,6 @@
 
 **Сиканоин Хэйдзо:** Но если не обращать внимания на кошмарную сущность и рассматривать инцидент с двойником в отдельности... мотив преступника становится ясен.
 
-#### Сцена
 
 (Похоже, все заняты и стараются закончить свою игру... Вернусь позже.)
 
@@ -2890,7 +2888,6 @@ Well, don't work too hard...
 
 **Thoma:** Of course! Right back at you!
 
-#### Scene
 
 (Looks like everyone's busy trying to finish their game... I should come back later.)
 
@@ -2936,7 +2933,6 @@ Well, don't work too hard...
 
 **Shikanoin Heizou:** But, if we ignore the nightmare creature and look at the doppelganger incident in isolation... the culprit's motive is clear.
 
-#### Scene
 
 (Looks like everyone's busy trying to finish their game... I should come back later.)
 
@@ -4586,7 +4582,6 @@ But—
 
 **托马:** 嗯，多谢关心。你也是。
 
-#### 场景
 
 （看起来大家正在抓紧时间制作游艺…还是晚些再来吧。）
 
@@ -4632,7 +4627,6 @@ But—
 
 **鹿野院平藏:** 但如果先排除「噩梦怪物」，只考虑「二重身」事件…犯人的目的就很好猜了。
 
-#### 场景
 
 （看起来大家正在抓紧时间制作游艺…还是晚些再来吧。）
 

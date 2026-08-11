@@ -6,8 +6,8 @@
 # title_en: A Mysterious Visitor From Huitztlan
 # title_zh: 维茨特兰的神秘访客
 # region: Натлан
-# game_version: 1.0
-# release_versions: 1.0,5.0
+# game_version: 5.0
+# release_versions: 5.0
 # source_id: 2052
 # chapter_num_ru: Пламя поворота Юпанки. Глава I
 # chapter_num_en: Yupanqui's Turnfire: Act I
@@ -18,7 +18,7 @@
 # related_quests: quest_lq_2053,quest_lq_2054
 # quest_chain: quest_lq_2052,quest_lq_2053,quest_lq_2054
 # quest_series: Yupanqui's Turnfire
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 
@@ -136,7 +136,6 @@
 
 **Ахав:** Если не будешь целовать ноги, то убирайся восвояси! Не мешай работе нашего драконьего величества Кухул Ахава.
 
-#### Сцена
 
 **Хуни:** Будьте осторожны! Мы здесь подождём.
 
@@ -398,7 +397,6 @@ Leave it to Paimon and me. It shouldn't take long.
 
 **Ajaw:** If you're not here to kiss my feet, then get out of my sight! Do not impede the work of the Almighty Dragonlord, K'uhul Ajaw.
 
-#### Scene
 
 **Huni:** Good luck, and stay safe! We'll wait right here.
 
@@ -660,7 +658,6 @@ Could you tell us a little bit more about him?
 
 **阿乔:** 既然不是来朝拜，就速速退去！伟大的圣龙库胡勒阿乔要去办正事了。
 
-#### 场景
 
 **胡妮:** 要注意安全呀！我们就在这里等着。
 

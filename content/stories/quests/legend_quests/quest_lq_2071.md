@@ -218,7 +218,6 @@
 
 **Вареса:** Готово! Простите, что заставила ждать. Давайте пойдём в сад.
 
-#### Сцена
 
 **Вареса:** О, это же тренер Иансан! Ты тоже решила потренироваться?
 
@@ -598,7 +597,6 @@ Just further proof that you're a natural.
 
 **Varesa:** And, done! Sorry for the wait. Let's go check out the orchard.
 
-#### Scene
 
 **Varesa:** Coach Iansan! Are you here to do some training?
 
@@ -978,7 +976,6 @@ Guess I'll tag along.
 
 **瓦雷莎:** 好了，抱歉久等了，走吧，我们现在去果园看看。
 
-#### 场景
 
 **瓦雷莎:** 欸，是伊安珊老师！你正好要训练吗？
 

@@ -26,7 +26,6 @@
 
 Когда буря утихла, старшая горничная Аделинда решила привести винокурню в порядок, но столкнулась с рядом препятствий...
 
-#### Сцена
 
 **Аделинда:** Хорошенько всё почистите и вымойте! Первое впечатление клиентов - самое важное!
 
@@ -80,7 +79,6 @@
 
 After the storm, head housemaid Adelinde is preparing to render the Dawn Winery spick and span on the inside and out, but things aren't going so smoothly...
 
-#### Scene
 
 **Adelinde:** Clean the place again, and I want it spotless this time! This is about making a good first impression!
 
@@ -134,7 +132,6 @@ All done.
 
 暴风之后，女仆长爱德琳正准备将晨曦酒庄里里外外都打扫一遍，但打扫的过程似乎不太顺利…
 
-#### 场景
 
 **爱德琳:** 打扫得细心一点！这可是客人们对酒庄的第一印象！
 

@@ -282,7 +282,6 @@
 
 **Мари-Анн:** Оставь меня одну. Пока сознание, связывающее форму, не рассеется...
 
-#### Сцена
 
 **Анн:** Мари-Анн, куда бы ты сейчас хотела отправиться больше всего?
 
@@ -726,7 +725,6 @@
 
 Хиличурл рассмеялся и отвернулся.
 
-#### Сцена
 
 **Катерпиллер:** Тогда поторопитесь и покончите с этим. Только тогда мы сможем встретиться.
 
@@ -736,7 +734,6 @@
 
 **Катерпиллер:** Хорошо, я вас провожу.
 
-#### Сцена
 
 **Анн:** Готовы к отправлению?
 
@@ -1002,7 +999,6 @@ Sorry, Mary-Ann. Just bear with us.
 
 **Mary-Ann:** Just leave me alone, till the consciousness that keeps this form together fades away...
 
-#### Scene
 
 **Ann:** Where would you most like to go right now, Mary-Ann?
 
@@ -1446,7 +1442,6 @@ Be a good dog and look after Mamere, alright?
 
 The hilichurl smiles before turning to leave.
 
-#### Scene
 
 **Caterpillar:** Well, hurry up and get it done, then. We do need to have that get-together, don't we?
 
@@ -1456,7 +1451,6 @@ The hilichurl smiles before turning to leave.
 
 **Caterpillar:** Very well. I will accompany you.
 
-#### Scene
 
 **Ann:** Are you ready to leave?
 
@@ -1722,7 +1716,6 @@ The hilichurl smiles before turning to leave.
 
 **「玛丽安」:** 让我一个人在这里待着吧。直到约束形体的意识消散…
 
-#### 场景
 
 **安:** 玛丽安，现在对你而言，你最想去的地方是哪里呢？
 
@@ -2166,7 +2159,6 @@ The hilichurl smiles before turning to leave.
 
 这位丘丘人笑了笑，转身走了。
 
-#### 场景
 
 **卡特皮拉:** 快点去吧，我还得等着你们成功了才能聚首呢。
 
@@ -2176,6 +2168,5 @@ The hilichurl smiles before turning to leave.
 
 **卡特皮拉:** 行，我也送你们一程吧。
 
-#### 场景
 
 **安:** 准备好离开了吗？

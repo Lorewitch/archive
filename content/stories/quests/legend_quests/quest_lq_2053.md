@@ -6,8 +6,8 @@
 # title_en: A Hero's Rite
 # title_zh: 英雄的仪式
 # region: Натлан
-# game_version: 1.0
-# release_versions: 1.0,5.0
+# game_version: 5.0
+# release_versions: 5.0
 # source_id: 2053
 # chapter_num_ru: Пламя поворота Юпанки. Глава II
 # chapter_num_en: Yupanqui's Turnfire: Act II
@@ -18,7 +18,7 @@
 # related_quests: quest_lq_2052,quest_lq_2054
 # quest_chain: quest_lq_2052,quest_lq_2053,quest_lq_2054
 # quest_series: Yupanqui's Turnfire
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 

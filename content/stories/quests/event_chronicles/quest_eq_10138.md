@@ -260,7 +260,6 @@
 
 **Паймон:** Да! В дорогу, на поиски волшебного пристанища Светильника блаженства!
 
-#### Сцена
 
 **Паймон:** Откуда в небе этот островок? Он искусственный?
 
@@ -596,7 +595,6 @@
 
 **Алиса:** Да, ровно в день праздника любви и свободы. Желаю вам всем как следует повеселиться на Празднике ветряных цветов в этом году.
 
-#### Сцена
 
 **Кли:** Хм... Я не вижу тут никаких светильников.
 
@@ -1078,7 +1076,6 @@ Follow me.
 
 **Paimon:** This is it! We're off to find the sacred location of the Lantern of Utmost Joy!
 
-#### Scene
 
 **Paimon:** How did this little island get up here in the sky? Did somebody make it?
 
@@ -1414,7 +1411,6 @@ But all we did was submit a batch of test answers...
 
 **Alice:** Ah, just in time for the festival of love and freedom. Everyone, please enjoy this year's Windblume festival to the fullest.
 
-#### Scene
 
 **Klee:** Aww... I don't see any lanterns here.
 
@@ -1896,7 +1892,6 @@ It's time to duel!
 
 **派蒙:** 噢！向着保管「至福之灯」的圣地，出发！
 
-#### 场景
 
 **派蒙:** 天上居然有座小岛…会是什么人造的呢？
 
@@ -2232,7 +2227,6 @@ It's time to duel!
 
 **艾莉丝:** 真巧，又是这个爱与自由的节日。各位，你们要在风花节玩得开心哦。
 
-#### 场景
 
 **可莉:** 唔…这里没有灯啊。
 

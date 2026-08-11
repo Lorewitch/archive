@@ -110,7 +110,6 @@
 
 **Паймон:** Ага. Ох, Паймон уже не терпится услышать, как играет Путешественник. И попасть в мир аранар!
 
-#### Сцена
 
 **Аракара:** Нужны счастливые випариасы, но Аранакула ещё не вернулся. Хм...
 
@@ -202,7 +201,6 @@
 
 **Араканта:** Было бы здорово прокатиться на тигре ришболанде...
 
-#### Сцена
 
 **Аранага:** Нужна трава яджна...
 
@@ -780,13 +778,11 @@
 
 Путешествия с аранарами по лесу приблизили вас к бидже? Как бы то ни было, давайте проведаем Рану.
 
-#### Сцена
 
 **Арама:** Подготовка к Празднику Утсава почти завершена, но нам нужно ещё немного времени.
 
 **Араджа:** Да! Нара Путешественник и Паймон, всё благодаря вам. Праздник Утсава уже близко! Скорее бы!
 
-#### Сцена
 
 **Паймон:** Араджа, Арама, мы вернулись!
 
@@ -830,7 +826,6 @@
 
 **Арама:** Нара Путешественник, Паймон, ещё увидимся!
 
-#### Сцена
 
 **Паймон:** Похоже, Рана...
 
@@ -1018,7 +1013,6 @@
 
 **Арана:** До встречи!
 
-#### Сцена
 
 **Паймон:** Араджа, Арама, мы вернулись!
 
@@ -1048,7 +1042,6 @@
 
 Попрощавшись с Араной и Раной, вы вернулись в Ванарану вслед за Арамой. Праздник Утсава наконец начинается.
 
-#### Сцена
 
 **Паймон:** Араджа! Мы вернулись!
 
@@ -1068,7 +1061,6 @@
 
 **Араджа:** Увидимся позже.
 
-#### Сцена
 
 **Аранишат:** Аралила, у нары есть заклинание, с помощью которого можно найти прячущихся нар. Вот такое: «Карри... Запах карри... Детки домой побежали...»
 
@@ -1076,17 +1068,14 @@
 
 **Аранишат:** Ой, а я и не знаю. Говорят, когда маленькие нары слышат это заклинание - вмиг выбегают! Заклинание поможет, если надо отыскать маленького нару!
 
-#### Сцена
 
 **Араеша:** На Празднике Утсава будут вкусные загадки Араеши. Они такие сладкие и ароматные! Говорят, нары любят всё сладкое и ароматное...
 
 **Араеша:** Наре обязательно понравится сладкий и ароматный Праздник Утсава, правда же?
 
-#### Сцена
 
 **Араканта:** Спасибо тебе, нара. Это такое счастье для Араканты!
 
-#### Сцена
 
 **Аракави:** Нара Путешественник! Благодаря тебе, Паймон и Араме мы выучили множество потерянных мелодий.
 
@@ -1108,27 +1097,21 @@
 
 **Аракави:** Вот как? Ну ладно, увидимся позже!
 
-#### Сцена
 
 **Араяса:** «Даже если ты покроешь её / его глаза мглой, ты не сможешь отнять свет (её) (его) сердца...»
 
-#### Сцена
 
 **Арадаса:** ♪
 
-#### Сцена
 
 **Арасудрака:** Нара Путешественник, ты снова с нами! Праздник Утсава с тобой - история, достойная песен!
 
-#### Сцена
 
 **Араджа:** Ах, это так трогательно...
 
-#### Сцена
 
 **Аракави:** Ну, золотой / золотая нара, настало время спеть нашу песню. Начнём выступление с тебя!
 
-#### Сцена
 
 **Арасудрака:** Пусть эхо этой песни вечно звучит в Ванаране!
 
@@ -1236,7 +1219,6 @@
 
 **Арама:** Удачи, нара Путешественник!
 
-#### Сцена
 
 **Арагару:** Хи-хи, на Празднике Утсава так оживлённо! Ванарана полна радости!
 
@@ -1248,7 +1230,6 @@
 
 **Арагару:** Я молюсь, чтобы ветер не унёс нашу радость. Чтобы дождь оросил землю и задержал нару...
 
-#### Сцена
 
 **Арарикан:** Спасибо, нара Путешественник и Паймон, что пришли в Ванарану на Праздник Утсава.
 
@@ -1328,7 +1309,6 @@
 
 **Араджа:** Время нар гораздо ценнее времени аранар. Не буду мешать вам наслаждаться весельем. Позже я бы хотел, чтобы вы отыскали Аракави. Он тоже готовится к церемонии Праздника Утсава.
 
-#### Сцена
 
 **Арама:** Да! Нара Путешественник справится! Под твою песню мы не боимся сразиться с Мараной!
 
@@ -1550,11 +1530,9 @@
 
 **Аракара:** Випариас не выносит слёз. Праздник Утсава - радостный праздник. Аранакула, сыграй-ка для випариаса весёлую песенку!
 
-#### Сцена
 
 **Араяса:** «Это наша песня...»
 
-#### Сцена
 
 **Арадаса:** ♪
 
@@ -1566,7 +1544,6 @@
 
 Пришло время проверить результаты кулинарной практики братьев Арапакати.
 
-#### Сцена
 
 **Арапакати:** Братья осознали свои ошибки. Праздник Утсава - счастливый день, поэтому Арапакати не будет злиться.
 
@@ -1640,13 +1617,11 @@
 
 **Арапас:** Отлично! Со вкуснейшей водицей я смогу приготовить вкуснейший супчик. Наре обязательно понравится!
 
-#### Сцена
 
 **Паймон:** Кстати! Раз уж сегодня такой радостный день и аранары так увлечённо для нас готовят, нужно и нам что-нибудь для них приготовить. Как говорится, ответить добром на добро!
 
 **Паймон:** Хм... что же им может понравиться? Давай приготовим овощной суп! Хе-хе, пускай узрят мастерство нары!
 
-#### Сцена
 
 *Благодаря совету Паймон и вашему чуткому руководству аранара наконец приготовил блюдо.
 После вы все вместе насладились его вкусом...*
@@ -1701,7 +1676,6 @@
 
 Всезнающий Араеша приготовил «вкусные» загадки на Праздник Утсава.
 
-#### Сцена
 
 **Араеша:** (Подруга)(Друг) нара! Арама рассказывал о тебе много историй. Известно, что ты (смелая и мудрая)(смелый и мудрый) нара. Приходи и попробуй разгадать загадки Араеши!
 
@@ -1713,7 +1687,6 @@
 
 **Араеша:** Это было легко, но у меня есть и другие загадки. Приходи ещё.
 
-#### Сцена
 
 **Араеша:** Это то, что существует только во сне и без чего не обходится ни один Праздник Утсава.
 
@@ -1731,11 +1704,9 @@
 
 **Араеша:** Вот это да! Нара на всё ответил(а) правильно! Хороший / Хорошая нара - умный / умная нара.
 
-#### Сцена
 
 **Араеша:** Это непростая загадка, даже Араджа не знает ответ! Звёзды на небе, а это что-то на земле. Звёзды не видят солнца, а это что-то не любит солнечный свет.
 
-#### Сцена
 
 **Араеша:** Нара такой умный / такая умная, даже умнее Араджи! Хочешь подружиться с Араешей?
 
@@ -1747,7 +1718,6 @@
 
 На Празднике Утсава Аралила и Аранишат, кажется, о чём-то спорят...
 
-#### Сцена
 
 **Аранишат:** О, это же золотой / золотая нара.
 
@@ -1809,7 +1779,6 @@
 
 Араканта хочет поиграть в тигра ришболанда и аранару.
 
-#### Сцена
 
 **Араканта:** (Золотая)(Золотой) нара, Араканта о тебе наслышан. Ты (хорошая)(хороший) нара. Хочешь поиграть со мной?
 
@@ -1851,7 +1820,6 @@
 
 ### Без названия 73047
 
-#### Сцена
 
 **Араджа:** Нара Путешественник, Паймон, а вот и вы. Хе-хе-хе...
 
@@ -1891,7 +1859,6 @@
 
 ### Без названия 73048
 
-#### Сцена
 
 **Арамухукунда:** Ах, вот это воспоминания. Прошли уже, наверное, сотни лет с тех пор, как последний раз удавалось увидеть такое зрелище... Вам очень повезло вновь увидеть виденную во сне Ванарану.
 
@@ -1953,7 +1920,6 @@
 
 ### Без названия 73050
 
-#### Сцена
 
 **Арапанду:** Нара Путешественник и Паймон! Благодаря вам с машиной Варуны всё в полном порядке, как и с землёй Ашаван...
 
@@ -1995,7 +1961,6 @@
 
 **Арапанду:** Нара Путешественник и Паймон, спасибо за всё, что вы сделали для Ванараны. Аранары никогда не забывают друзей!
 
-#### Сцена
 
 **Арарикан:** Нара Путешественник и Паймон! Не беспокойтесь, злодеи, виновники болезни ваны, больше не появлялись.
 
@@ -2003,7 +1968,6 @@
 
 **Арарикан:** Возьмите эти цветы, друзья мои!
 
-#### Сцена
 
 **Аранага:** Праздник Утсава... Звучит знакомо... Хм, белая-пребелая леталка... и золотой / ая нара.
 
@@ -2377,7 +2341,6 @@
 
 ### Песня, питающая росток
 
-#### Сцена
 
 **Арама:** Я тоже хочу стать таким же умным аранаром, как нара Путешественник!
 
@@ -2735,7 +2698,6 @@
 
 ### Песня, открывающая звериную тропу
 
-#### Сцена
 
 **Арадаса:** ♪
 
@@ -3059,7 +3021,6 @@
 
 Поговорите с Аракави в Ванаране и помогите устроить Праздник Утсава
 
-#### Сцена
 
 **Аракави:** Арама и (золотая)(золотой) нара. Ты (такая высокая)(такой высокий). А вот эта серебряная...
 
@@ -3229,7 +3190,6 @@ But there's no one here.
 
 **Paimon:** Oh! Paimon can't wait, for both Traveler's performance and the world of Aranara.
 
-#### Scene
 
 **Arakara:** Will need happy Viparyas, but Aranakula hasn't returned yet. Um...
 
@@ -3321,7 +3281,6 @@ So is it Vanarana or not...
 
 **Arakanta:** If I could run on the back of the Rishboland Tiger...
 
-#### Scene
 
 **Aranaga:** The Yajna Grass... Must get it.
 
@@ -3899,13 +3858,11 @@ So is it Vanarana or not...
 
 After all the adventures with the Aranara in the forest, we are getting closer to Bija... Right? Anyway, let's check on Rana first.
 
-#### Scene
 
 **Arama:** Festival Utsava is almost ready to go. It just needs a bit more time!
 
 **Araja:** Yes, it's about to start soon all thanks to Nara Traveler and Paimon's help. I'm really looking forward to the festival...
 
-#### Scene
 
 **Paimon:** Araja, Arama, we're back!
 
@@ -3949,7 +3906,6 @@ After all the adventures with the Aranara in the forest, we are getting closer t
 
 **Arama:** See you later, Nara Traveler and Paimon!
 
-#### Scene
 
 **Paimon:** Rana seems...
 
@@ -4137,7 +4093,6 @@ Let's go.
 
 **Arana:** See you later!
 
-#### Scene
 
 **Paimon:** Araja, Arama, we're back!
 
@@ -4167,7 +4122,6 @@ Let's go.
 
 You returned to Vanarana with Arama after parting with Arana and Rana. It's finally time for Festival Utsava.
 
-#### Scene
 
 **Paimon:** We're back, Araja!
 
@@ -4187,7 +4141,6 @@ You returned to Vanarana with Arama after parting with Arana and Rana. It's fina
 
 **Araja:** Yes. I'll see you later.
 
-#### Scene
 
 **Aranishat:** Aralila, Nara have a incantation to find Nara in hiding. It goes like this: "Curry, curry in the air~ Hungry children it's time to come home~♪"
 
@@ -4195,17 +4148,14 @@ You returned to Vanarana with Arama after parting with Arana and Rana. It's fina
 
 **Aranishat:** Oh, I don't know. But I heard little Nara will come when they hear this incantation! So, you can try it if you're looking for little Nara!
 
-#### Scene
 
 **Araesha:** Festival Utsava will have Araesha's tasty riddles, which are also sweet and fragrant! I heard that Nara like sweet and fragrant things...
 
 **Araesha:** So you'll love this sweet and fragrant Festival Utsava, right, Nara?
 
-#### Scene
 
 **Arakanta:** Thank you, Nara! Arakanta is so happy!
 
-#### Scene
 
 **Arakavi:** Oh? It's Nara Traveler! We learned many lost tunes thanks to you, Paimon, and Arama.
 
@@ -4227,27 +4177,21 @@ You returned to Vanarana with Arama after parting with Arana and Rana. It's fina
 
 **Arakavi:** Is that how it's supposed to be? Eh, anyway, let's meet again later!
 
-#### Scene
 
 **Arayasa:** "Even if you cover her / his eyes in gloom, you can't take away the light from her / his heart..."
 
-#### Scene
 
 **Aradasa:** ♪~
 
-#### Scene
 
 **Arasudraka:** You're back, Nara Traveler! A Festival Utsava with you is a tale fit for songs!
 
-#### Scene
 
 **Araja:** Oh my, I'm so touched...
 
-#### Scene
 
 **Arakavi:** Golden Nara, we shall sing together! Please take the lead!
 
-#### Scene
 
 **Arasudraka:** May this song echo in Vanarana forever!
 
@@ -4355,7 +4299,6 @@ You returned to Vanarana with Arama after parting with Arana and Rana. It's fina
 
 **Arama:** Go, Nara Traveler!
 
-#### Scene
 
 **Aragaru:** Hehe, Festival Utsava, so lively! Vanarana is filled with joy!
 
@@ -4367,7 +4310,6 @@ The forest will remember.
 
 **Aragaru:** I pray that no wind shall blow away our happiness; that there shall be rain to wet the earth and keep our Nara friends a while longer...
 
-#### Scene
 
 **Ararycan:** Thank you, Nara Traveler and Paimon, for coming to Vanarana and celebrating Festival Utsava with us Aranara.
 
@@ -4447,7 +4389,6 @@ Not calling me "Golden Nara" anymore?
 
 **Araja:** Nara time is much more precious than Aranara time, so I will not keep you from enjoying yourselves. Go look for Arakavi later. He is also preparing for the Festival Utsava ceremony.
 
-#### Scene
 
 **Arama:** Yes! You will be fine, Nara Traveler! Hearing your song gives us courage to even face Marana!
 
@@ -4669,11 +4610,9 @@ So what should we do now?
 
 **Arakara:** Viparyas hate tears. Festival Utsava is a happy festival. Aranakula will play a happy song for Viparyas!
 
-#### Scene
 
 **Arayasa:** "This is our song..."
 
-#### Scene
 
 **Aradasa:** ♪~
 
@@ -4685,7 +4624,6 @@ To acquire Bija and help Rana, you have to find and help Aranara, and prepare fo
 
 Time to witness the results of the "cooking training" of Arapacati's brothers.
 
-#### Scene
 
 **Arapacati:** My brothers have all done some self-reflection. Festival Utsava is a happy occasion, so Arapacati shouldn't get mad.
 
@@ -4759,13 +4697,11 @@ Sure.
 
 **Arapas:** Terrific! I can make the Best Soup so long as I have the Best Water. Nara Traveler will love it for sure!
 
-#### Scene
 
 **Paimon:** Y'know, since the Aranara are making food for us so eagerly during this happy occasion, we should return the favor. What do you say?
 
 **Paimon:** Hmm... Maybe they'll like some Radish Veggie Soup! Let's show them what Nara cooking's all about!
 
-#### Scene
 
 *According to the improvement method from Paimon, Aranara finishes the dish under your guidance.
 After that, you enjoy the dish with Aranara...*
@@ -4820,7 +4756,6 @@ After that, you enjoy the dish with Aranara...*
 
 The resourceful Araesha has prepared "delicious" riddles for Festival Utsava.
 
-#### Scene
 
 **Araesha:** Nara friend! Arama has told many stories of you. You are a Nara full of courage and wisdom. Come challenge Araesha's riddles!
 
@@ -4832,7 +4767,6 @@ Sure.
 
 **Araesha:** This one is easy! There are more delicious riddles to follow, so come again.
 
-#### Scene
 
 **Araesha:** It exists in dreams and no other place, a must for Festival Utsava space.
 
@@ -4850,11 +4784,9 @@ Maybe later.
 
 **Araesha:** Good Nara! All correct! Good Nara is a clever Nara.
 
-#### Scene
 
 **Araesha:** This one is difficult. Even Araja wouldn't know it! There are stars in the sky, and it is on the land. Stars cannot see the sun, and it doesn't love the sun either.
 
-#### Scene
 
 **Araesha:** Clever Nara! Smarter than Araja! Would Nara be willing to be Araesha's friend?
 
@@ -4866,7 +4798,6 @@ Of course!
 
 At Festival Utsava, Aralila and Aranishat seem to be fighting over something...
 
-#### Scene
 
 **Aranishat:** Oh, it's you, Golden Nara.
 
@@ -4928,7 +4859,6 @@ Maybe later.
 
 Seems that Arakanta wants to play Rishboland Tiger and Aranara.
 
-#### Scene
 
 **Arakanta:** Golden Nara, Arakanta has heard so much about you. You are a good Nara. Will you play with Arakanta?
 
@@ -4970,7 +4900,6 @@ Why would the Rishboland Tiger chase Aranara?
 
 ### Untitled 73047
 
-#### Scene
 
 **Araja:** Nara Traveler, Paimon, we meet again. Hehehe...
 
@@ -5010,7 +4939,6 @@ Why would the Rishboland Tiger chase Aranara?
 
 ### Untitled 73048
 
-#### Scene
 
 **Aramuhukunda:** How nostalgic. It's been hundreds of years since I last saw such a sight... It's thanks to you that I could see Vanarana's dreamscape again.
 
@@ -5072,7 +5000,6 @@ Arana mentioned the power of memory...
 
 ### Untitled 73050
 
-#### Scene
 
 **Arapandu:** Nara Traveler and Paimon! Thanks to your help, the Varuna Contraption is now in good shape, and so is the Ashavan Realm.
 
@@ -5114,7 +5041,6 @@ Then what's her / his real name?
 
 **Arapandu:** Nara Traveler, Paimon, thanks for everything you did for Vana. We Aranara will never forget our friends!
 
-#### Scene
 
 **Ararycan:** Nara Traveler and Paimon! Don't worry. The baddies that made Vanarana sick won't be coming back!
 
@@ -5122,7 +5048,6 @@ Then what's her / his real name?
 
 **Ararycan:** Take the flowers, friends of Ararycan!
 
-#### Scene
 
 **Aranaga:** Festival Utsava... Feels familiar... Eh? It's White Floaty... and the Golden Nara.
 
@@ -5496,7 +5421,6 @@ I need a minute.
 
 ### The Rhythm that Nurtures the Sprout
 
-#### Scene
 
 **Arama:** I will become a smart Aranara, just like Nara Traveler!
 
@@ -5854,7 +5778,6 @@ Let's go.
 
 ### The Rhythm that Reveals the Beastly Trail
 
-#### Scene
 
 **Aradasa:** ♪~
 
@@ -6348,7 +6271,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **派蒙:** 嗯！我很期待喔，无论是旅行者的演出，还是「兰那罗的世界」。
 
-#### 场景
 
 **兰伽卢:** 需要高兴的毗波耶。可是，兰那库拉还没回来，唔…
 
@@ -6440,7 +6362,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰犍多:** 如果能在跑起来的长鬓虎背上跑…
 
-#### 场景
 
 **兰纳迦:** 耶然草…必须取回。
 
@@ -7018,13 +6939,11 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 与森林中的兰那罗们经历了诸多冒险之后，离取得惟耶之实也越来越近了…？无论如何，去看看拉娜的情况吧。
 
-#### 场景
 
 **兰罗摩:** 无忧节的准备，应该差不多要好了。还要准备一段时间！
 
 **兰拉迦:** 嗯，多亏了那菈旅行者和派蒙帮忙。无忧节终于快要开始了。真期待呢…
 
-#### 场景
 
 **派蒙:** 兰拉迦、兰罗摩，我们回来啦！
 
@@ -7068,7 +6987,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰罗摩:** 那菈旅行者、派蒙，我们一会儿见！
 
-#### 场景
 
 **派蒙:** 拉娜看起来…
 
@@ -7256,7 +7174,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰拉娜:** 晚点见！
 
-#### 场景
 
 **派蒙:** 兰拉迦、兰罗摩，我们回来啦！
 
@@ -7286,7 +7203,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 与兰拉娜、拉娜告别后，随兰罗摩一同回到了桓那兰那。无忧节终于开始了。
 
-#### 场景
 
 **派蒙:** 兰拉迦！我们回来啦！
 
@@ -7306,7 +7222,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰拉迦:** 嗯。我们稍后再见吧。
 
-#### 场景
 
 **兰难世:** 兰梨娄，那菈有个咒语，可以找到藏起来的那菈。是这样的：「咖喱~咖喱的香味~就是孩子们回家的信号~♪」
 
@@ -7314,17 +7229,14 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰难世:** 唔…不知道耶，但是，听说小那菈听到这个咒语，就会跑出来！所以，如果要找小那菈，就可以用这个咒语！
 
-#### 场景
 
 **兰伊舍:** 无忧节有兰伊舍的好吃的谜语，也「香甜可口」！听说那菈都喜欢「香甜可口」的东西…
 
 **兰伊舍:** 这次的「香甜可口」的无忧节，那菈一定也喜欢吧？
 
-#### 场景
 
 **兰犍多:** 谢谢你，那菈！兰犍多好快乐！
 
-#### 场景
 
 **兰加惟:** 哦？是那菈旅行者！全靠你、派蒙和兰罗摩，我们学到了许多原本已经失落的曲子。
 
@@ -7346,27 +7258,21 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰加惟:** 是这样吗？不管了，我们晚点再见吧！
 
-#### 场景
 
 **兰耶娑:** 「即使你要让她 / 他的双眸蒙上阴霾，也无法从她 / 他的心中夺走光…」
 
-#### 场景
 
 **兰陀娑:** ♪~
 
-#### 场景
 
 **兰修提袈:** 那菈旅行者，你回来啦！和你一起过无忧节，是能变成歌的故事！
 
-#### 场景
 
 **兰拉迦:** 哎呀，老身十分感动…
 
-#### 场景
 
 **兰加惟:** 「金色的那菈」，接下来我们要一起歌唱。我们的大乐章，就由你开始吧！
 
-#### 场景
 
 **兰修提袈:** 让这首歌永远在桓那兰那回响吧！
 
@@ -7474,7 +7380,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰罗摩:** 那菈旅行者，加油！
 
-#### 场景
 
 **兰迦鲁:** 嘿嘿，无忧节好热闹，桓那兰那到处都是快乐！
 
@@ -7486,7 +7391,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰迦鲁:** 希望不要有风，吹走快乐，让快乐多留一下。希望有雨，淋湿大地，留住那菈朋友，多停一下…
 
-#### 场景
 
 **兰利遮:** 谢谢那菈旅行者和派蒙，来到桓那兰那，和兰那罗一起过无忧节。
 
@@ -7566,7 +7470,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰拉迦:** 那菈的时间比兰那罗珍贵许多，老身便不耽误你们了，尽情享受吧。晚点你们去找找兰加惟，他也在准备无忧节的仪式。
 
-#### 场景
 
 **兰罗摩:** 嗯！那菈旅行者一定没问题的！听到你的歌，就算是面对无留陀，也不会害怕！
 
@@ -7788,11 +7691,9 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰伽卢:** 毗波耶见不得「眼泪」，无忧节是高兴的节日，兰那库拉要给毗波耶演奏高兴的乐曲！
 
-#### 场景
 
 **兰耶娑:** 「这就是我们的歌…」
 
-#### 场景
 
 **兰陀娑:** ♪~
 
@@ -7804,7 +7705,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 到了验证兰帕卡提的「哥哥们」「烹饪修行」成果的时候了。
 
-#### 场景
 
 **兰帕卡提:** 哥哥们已经好好反省过了，无忧节是快乐的日子，兰帕卡提不应该再生气。
 
@@ -7878,13 +7778,11 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰阿帕斯:** 太好了！有了「最好喝的水」，一定能烧出「最好喝的汤」，那菈旅行者一定会喜欢！
 
-#### 场景
 
 **派蒙:** 对了，这么高兴的日子，兰那罗他们都在热心为我们做吃的，「礼尚往来」，我们也做点什么吧！
 
 **派蒙:** 嗯…兰那罗可能会喜欢的…那就做萝卜时蔬汤吧！嘿嘿，让兰那罗也品尝一下那菈的手艺！
 
-#### 场景
 
 *依照之前派蒙想到的改善方式，指导兰那罗将菜肴完成了。
 随后，和兰那罗一起享用…*
@@ -7939,7 +7837,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 知识渊博的兰伊舍为无忧节准备了「好吃」的谜语。
 
-#### 场景
 
 **兰伊舍:** 那菈朋友！兰罗摩说了很多你的故事，你是充满了勇气和智慧的那菈。来挑战兰伊舍的谜语吧！
 
@@ -7951,7 +7848,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰伊舍:** 这个简单，还有好吃谜语，再来。
 
-#### 场景
 
 **兰伊舍:** 梦里有，他处无，无忧节里少不了。
 
@@ -7969,11 +7865,9 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰伊舍:** 好那菈，全都答对！好那菈是聪明那菈。
 
-#### 场景
 
 **兰伊舍:** 这个很难，兰拉迦都想不到！天上有星星，地上有它，星星不见太阳，它也不爱阳光。
 
-#### 场景
 
 **兰伊舍:** 那菈聪明，比兰拉迦还聪明！那菈愿意当兰伊舍的朋友吗？
 
@@ -7985,7 +7879,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 无忧节上，兰梨娄和兰难世似乎在争论什么…
 
-#### 场景
 
 **兰难世:** 呀，是金色的那菈。
 
@@ -8047,7 +7940,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 兰犍多似乎想要玩「长鬓虎」与「兰那罗」的游戏。
 
-#### 场景
 
 **兰犍多:** 金色的那菈，兰犍多听说了好多好多你的事情。你是个好那菈，愿意和兰犍多玩游戏吗？
 
@@ -8089,7 +7981,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 ### 未命名 73047
 
-#### 场景
 
 **兰拉迦:** 那菈旅行者、派蒙，又见面了。呵呵呵…
 
@@ -8129,7 +8020,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 ### 未命名 73048
 
-#### 场景
 
 **兰穆护昆达:** 真怀念哪。上次见到这样的景象，距今已经有数百年了吧…能以这双眼睛，再度看见桓那兰那的梦乡，也是托你们的福。
 
@@ -8191,7 +8081,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 ### 未命名 73050
 
-#### 场景
 
 **兰般度:** 那菈旅行者还有派蒙！多亏你们帮忙，法留纳神机现在很好，善见地也很好…
 
@@ -8233,7 +8122,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰般度:** 谢谢那菈旅行者和派蒙为桓那做过的一切，兰那罗不会忘记朋友！
 
-#### 场景
 
 **兰利遮:** 那菈旅行者和派蒙！想让桓那「生病」的坏家伙没有再来了，现在放心。
 
@@ -8241,7 +8129,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 **兰利遮:** 收下花花吧，兰利遮的好朋友！
 
-#### 场景
 
 **兰纳迦:** 无忧节…怀念的感觉…唔？白蓬蓬飞飞…还有金色的那菈。
 
@@ -8615,7 +8502,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 ### 新芽迸发的曲调
 
-#### 场景
 
 **兰罗摩:** 我也要变成聪明的兰那罗，像那菈旅行者一样！
 
@@ -8973,7 +8859,6 @@ The Varuna Contraption has been fixed, and now Aranakula can go back to take car
 
 ### 揭示兽径的曲调
 
-#### 场景
 
 **兰陀娑:** ♪~
 

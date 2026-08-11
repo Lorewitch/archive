@@ -56,28 +56,6 @@
 
 **Катерпиллер:** Это начало конца.
 
-#### Сцена
-
-**Сеймур:** Здравствуйте. Чем могу быть полезен?
-
-О жандарматонах...
-
-**Сеймур:** Не беспокойтесь. Они не активированы.
-
-**Сеймур:** Учитывая их большой возраст и раннюю модель, то вероятность их активации далеко не гарантирована.
-
-**Сеймур:** Если верить записям этих нескольких человек рядом со мной, то открытие прохода внизу приведёт к срабатыванию активатора.
-
-**Сеймур:** Тогда около 60% меков активируются, а вероятность того, что оставшиеся 40% не удастся активировать, не гарантирована на 100%.
-
-Эм...
-
-**Сеймур:** По крайней мере, долгие часы работы могут помочь облегчить нашу подготовку к битве.
-
-В этих высказываниях очень запутанная логика.
-
-**Сеймур:** Прошу прощения, господин / госпожа Путешественник.
-
 #### Поговорите со всеми
 
 **Катерпиллер:** Вперёд. Осталось последнее препятствие.
@@ -277,7 +255,6 @@
 
 **Паймон:** Неизвестно, с чем мы столкнёмся дальше... Будьте осторожны!
 
-#### Сцена
 
 **Анн:** Рыцарь Путешественник, в чём ещё дело?
 
@@ -326,28 +303,6 @@
 **Paimon:** Whoa, it feels like the floor is moving...
 
 **Caterpillar:** It's the beginning of the end.
-
-#### Go to the lower level
-
-**Seymour:** Hello. How may I assist?
-
-About the Gardemeks...
-
-**Seymour:** Do not worry. All of them are inactive.
-
-**Seymour:** If we consider their extreme age and the fact that they are early models, the probability of them waking at all is far from certain.
-
-**Seymour:** According to the records of those with me, accessing the level below will trigger their activation sequences.
-
-**Seymour:** At that point, around 60% of them will activate successfully. As for the remaining 40%, it's not guaranteed that they will fail to activate either.
-
-Ugh...
-
-**Seymour:** At least there's a chance the slow march of time has reduced the danger we are about to face.
-
-You're starting to confuse me.
-
-**Seymour:** Apologies, Mr. / Ms. Traveler.
 
 #### Talk to everyone
 
@@ -548,7 +503,6 @@ We have to keep moving forward.
 
 **Paimon:** There's no telling what we'll run into next... Let's be careful!
 
-#### Scene
 
 **Ann:** Is there anything else I can help with, Knight Traveler?
 
@@ -597,28 +551,6 @@ Is there anything in particular that you'd like to do after this is all over?
 **派蒙:** 呜哇，感觉地板在动…
 
 **卡特皮拉:** 这就是结束的开始了。
-
-#### （废弃）前往下层
-
-**西摩尔:** 你好，有什么能为你效劳的吗？
-
-关于警卫发条机关…
-
-**西摩尔:** 请不必担心。它们都处在非激活状态。
-
-**西摩尔:** 而且年代久远，加上是初期型号，它们苏醒过来的概率并不是百分之百。
-
-**西摩尔:** 根据我身边这几位的记录来看，开启下层的入口就会触发激活唤醒。
-
-**西摩尔:** 到时候大概会有六成机关能成功启动。剩下四成，启动不了的概率也不是百分之百。
-
-呃…
-
-**西摩尔:** 至少漫长的时间有概率帮我们减轻备战压力。
-
-这几句话逻辑好绕哦。
-
-**西摩尔:** 抱歉，旅行者先生 / 小姐。
 
 #### 与大家对话
 
@@ -819,7 +751,6 @@ Is there anything in particular that you'd like to do after this is all over?
 
 **派蒙:** 接下来，不知道会遇到什么事情…谨慎前进吧！
 
-#### 场景
 
 **安:** 旅行者骑士，还有什么事吗？
 

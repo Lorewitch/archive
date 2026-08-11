@@ -26,7 +26,6 @@
 
 Араджа говорит, что аранары видели подозрительного нару рядом с горой Девантаки. Может быть, это связано с исчезновением детей из деревни Вимара?..
 
-#### Сцена
 
 **Арарикан:** Ой-ой! Это же нары...
 
@@ -910,7 +909,6 @@
 
 **Роинджан:** Что-то маловато за такую древность. Лучше бы тебе повысить цену.
 
-#### Сцена
 
 **Роинджан:** Так мало?! Ты смеёшься надо мной?
 
@@ -1052,7 +1050,6 @@
 
 **Паймон:** Ура! Вперёд, в тайное убежище!
 
-#### Сцена
 
 **Роинджан:** ...
 
@@ -1971,7 +1968,6 @@
 
 You heard from Araja that the Aranara were investigating a suspicious Nara near Devantaka Mountain. You wonder if it has anything to do with the missing kids at Vimara Village...
 
-#### Scene
 
 **Ararycan:** Ahh! Nara...
 
@@ -2855,7 +2851,6 @@ Me too.
 
 **Royinjan:** Hmm, this price is a little too low... You know what I mean?
 
-#### Scene
 
 **Royinjan:** This price... Did you come all the way here to make fun of me?
 
@@ -2997,7 +2992,6 @@ Me too.
 
 **Paimon:** Hooray! To the secret base we go!
 
-#### Scene
 
 **Royinjan:** ...
 
@@ -3916,7 +3910,6 @@ Uh... I think that's our line.
 
 从兰拉迦那里听说有兰那罗在降诸魔山附近调查可疑的「那菈」，不知道会不会和维摩庄孩子失踪的事情有关…
 
-#### 场景
 
 **兰利遮:** 呜啊！是「那菈」…
 
@@ -4800,7 +4793,6 @@ Uh... I think that's our line.
 
 **罗因贾:** 这个价格的话，还是稍微少了一点…你明白我的意思吧？
 
-#### 场景
 
 **罗因贾:** 这个价格…莫非你今天是专程来找我罗因贾寻开心的？
 
@@ -4942,7 +4934,6 @@ Uh... I think that's our line.
 
 **派蒙:** 好耶！去秘密基地！
 
-#### 场景
 
 **罗因贾:** ……
 

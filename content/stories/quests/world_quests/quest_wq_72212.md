@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** Вы как раз вовремя. Мне нужна ваша помощь с одним делом.
 
@@ -218,7 +217,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** Your timing is impeccable. I need your aid once more.
 
@@ -410,7 +408,6 @@ That certainly has been the case so far.
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 汝等来得正好，来帮奴家做件事吧。
 

@@ -892,7 +892,6 @@
 
 **Ка Мин:** ...пускать воздушных змеев.
 
-#### Сцена
 
 **Шэнь Хэ:** Наставница, я что-то сказала не так?
 
@@ -1778,7 +1777,6 @@ Is there anything else you'd like to do?
 
 **Gaming:** Go fly a kite.
 
-#### Scene
 
 **Shenhe:** Master, did I say something wrong earlier?
 
@@ -2664,7 +2662,6 @@ Is there anything else you'd like to do?
 
 **嘉明:** 我们去放风筝吧。
 
-#### 场景
 
 **申鹤:** 师父，我之前说错话了吗？
 

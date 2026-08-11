@@ -26,7 +26,6 @@
 
 На пляже в западной части острова Хийси разбросано много ледяной гальки...
 
-#### Сцена
 
 **Вильями:** Когда-то в годы моих странствий по морю я услышал зов, доносившийся неведомо откуда. Остальные не отреагировали, но я почти мгновенно попал под его чары.
 
@@ -66,7 +65,6 @@
 
 **Линнея:** Было бы здорово!
 
-(test) Реплика
 
 **Линнея:** Спасибо, но я уже собрала сколько нужно.
 
@@ -82,7 +80,6 @@
 
 (Похоже, поблизости есть что-то достойное изучения. Линнея отлично знает местную экосистему. Возможно, она что-то обнаружит...)
 
-#### Сцена
 
 **Вильями:** Это спокойное море - наш последний приют для тех из нас, кто скитается по свету.
 
@@ -96,7 +93,6 @@
 
 A large number of Icy Pebbles are scattered along the western coast of Hiisi Island...
 
-#### Scene
 
 **Viljami:** During my years at sea, I once heard a call coming from nowhere. The others didn't react at all, but I was captivated almost instantly.
 
@@ -136,7 +132,6 @@ A large number of Icy Pebbles are scattered along the western coast of Hiisi Isl
 
 **Linnea:** That'd be great!
 
-(test) Voice Line
 
 **Linnea:** Thank you, but I've already gathered everything I need.
 
@@ -152,7 +147,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 (There seems to be something nearby worth examining. Linnea, with her deep knowledge of the local ecology, might find something useful...)
 
-#### Scene
 
 **Viljami:** Oh, this calm stretch of sea... It's the final resting place for wanderers like us.
 
@@ -166,7 +160,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 希汐岛西侧的海滩散布着许多寒涌石…
 
-#### 场景
 
 **维贾米:** 当年在海上漂泊时，我曾听到过不知从何处传来的召唤，其他人无动于衷，但我却很快被迷住了。
 
@@ -206,7 +199,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 **莉奈娅:** 好呀，那就麻烦你啦。
 
-(test)台词文本
 
 **莉奈娅:** 谢谢你，不过我已经收集好啦。
 
@@ -222,7 +214,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 （附近似乎有些值得调查的，如果是对本地生态十分了解的莉奈娅，或许会有所收获…）
 
-#### 场景
 
 **维贾米:** 这片平静的大海，是我们这些浪迹天涯之人的最终归宿啊。
 

@@ -26,7 +26,6 @@
 
 Чтобы спасти жителей Петрикора, вы следуете за странным котом по кличке Осси, который заводит вас в Обветшалый замок...
 
-#### Сцена
 
 **Паймон:** Ой, снова эта светящаяся рыбка! Как будто следует за нами всё это время, как странно...
 
@@ -306,7 +305,6 @@
 
 In order to rescue the people of Petrichor, you follow the strange cat named "Osse" into the mysterious Faded Castle...
 
-#### Scene
 
 **Paimon:** It's the strange shiny fish again! Feels like it's been following us from outside all this time, how weird...
 
@@ -586,7 +584,6 @@ We need to have a good talk before we go...
 
 为了拯救佩特莉可镇的众人，你跟随怪猫「小呜斯」一同进入了神秘的「褪色城堡」…
 
-#### 场景
 
 **派蒙:** 又看到这条发光的怪鱼了呢！感觉像是一直在外面跟着我们一样，真奇怪啊…
 

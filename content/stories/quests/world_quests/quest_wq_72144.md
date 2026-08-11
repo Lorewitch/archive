@@ -26,7 +26,6 @@
 
 Офицер Хироми, кажется, о чём-то переживает. Возможно, стоит ему помочь...
 
-#### Сцена
 
 **Хироми:** Эй, чужестран(ка)(ец)! Чего это ты тут шаришься?
 
@@ -66,7 +65,6 @@
 
 **Хироми:** Слушай, ну оставь уже меня в покое. Пожалуйста, уходи.
 
-#### Сцена
 
 В общем, по поводу Хироми...
 
@@ -144,13 +142,11 @@
 
 - **Путешественник:** Вы ведь сказали «бутылки с письмами», верно?
 
-#### Сцена
 
 **Цю Эр:** Если хочешь что-то сказать, поговори с Сунь Юем. Я знаю, что тебе всё равно не нравится меня слушать.
 
 **Цю Эр:** Никому не нравится меня слушать...
 
-#### Сцена
 
 **Хироми:** Это оно! И внутри её значок.
 
@@ -616,7 +612,6 @@
 
 Commission Officer Hiromi seems to be vexed about something. Perhaps he could use some help...
 
-#### Scene
 
 **Hiromi:** Yo, outlander! What are you doing sneaking around?
 
@@ -656,7 +651,6 @@ Don't worry, just asking.
 
 **Hiromi:** Come on, please stop bothering me. Please leave.
 
-#### Scene
 
 So, about Hiromi...
 
@@ -734,13 +728,11 @@ Call me Traveler.
 
 - **Traveler:** You said "drifting bottles," right?
 
-#### Scene
 
 **Little Que'er:** If you have anything to say, please talk to my senior disciple. I know you don't like listening to me anyway.
 
 **Little Que'er:** Hmph... No one likes to listen to me...
 
-#### Scene
 
 **Hiromi:** This is it! Her badge is inside, too.
 
@@ -1206,7 +1198,6 @@ Don't forget, now: "Uyuu Restaurant."
 
 役人广海似乎在烦恼着什么，或许正需要人去帮忙…
 
-#### 场景
 
 **广海:** 喂，可疑的外国人！在这里鬼鬼祟祟的做什么呢？
 
@@ -1246,7 +1237,6 @@ Don't forget, now: "Uyuu Restaurant."
 
 **广海:** 好了，请不要再打扰我了，请自觉离开吧。
 
-#### 场景
 
 关于广海…
 
@@ -1324,13 +1314,11 @@ Don't forget, now: "Uyuu Restaurant."
 
 - **旅行者:** 你说了「漂流瓶」，是吧？
 
-#### 场景
 
 **小雀儿:** 有什么话请找我师兄说吧，反正你也不爱听我说话。
 
 **小雀儿:** 哼…就没人爱听我说话…
 
-#### 场景
 
 **广海:** 是这个没错！里面还有她的徽章。
 

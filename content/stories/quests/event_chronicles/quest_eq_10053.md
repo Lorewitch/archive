@@ -318,7 +318,6 @@
 
 **Кэ Цин:** Путешественник, Паймон, нам пора на постоялый двор «Ваншу». Возможно, там мы найдём Охотника на демонов.
 
-#### Сцена
 
 **Верр Голдет:** Если ищите Сяо, проверьте террасу наверху.
 
@@ -1002,7 +1001,6 @@ You sure caught on to that one quickly.
 
 **Keqing:** Traveler, Paimon, let's head to Wangshu Inn. Perhaps we'll find the Conqueror of Demons there.
 
-#### Scene
 
 **Verr Goldet:** If you're looking for Xiao, you can check the rooftop terrace upstairs.
 
@@ -1686,7 +1684,6 @@ Paimon's right.
 
 **刻晴:** 旅行者，派蒙，接下来去望舒客栈吧。降魔大圣或许会在那里。
 
-#### 场景
 
 **菲尔戈黛特:** 找魈的话，可以去楼顶上看看。
 

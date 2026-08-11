@@ -26,7 +26,6 @@
 
 Говорят, что в водах к северо-западу от острова Лемпо встречается розовый инеевый финвал...
 
-#### Сцена
 
 **Хелка:** Похоже, сегодня не наш день... Мы ждём уже так долго, но не увидели ни одного обычного инеевого финвала...
 
@@ -120,7 +119,6 @@
 
 It is said that a pink Frostfin Whale has been spotted in the waters northwest of Lempo Isle...
 
-#### Scene
 
 **Helka:** Looks like today's not our lucky day... We've been waiting so long and haven't even spotted a single ordinary Frostfin Whale...
 
@@ -214,7 +212,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 据说在伦波岛西北侧的海域有粉色的霜鳍鲸出没…
 
-#### 场景
 
 **赫卡:** 看来今天运气不太好，等了这么久，就连普通的霜鳍鲸也没见到几只…
 

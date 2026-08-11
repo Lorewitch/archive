@@ -436,7 +436,6 @@
 
 **Сяо:** Будьте крайне осторожны.
 
-#### Сцена
 
 **Ху Тао:** Ребята, серьёзно... отдохните и расслабьтесь, пока есть возможность. У нас впереди много работы.
 
@@ -1308,7 +1307,6 @@ Don't worry. We'll be okay.
 
 **Xiao:** Be extremely careful.
 
-#### Scene
 
 **Hu Tao:** Guys, seriously — go rest and relax while you can! We have a big job coming up in two days' time.
 
@@ -2180,7 +2178,6 @@ Thank you for being so open with us.
 
 **魈:** 万事小心。
 
-#### 场景
 
 **胡桃:** 快好好休息吧，两天后还有要紧事等着我们呢。
 

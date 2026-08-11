@@ -40,7 +40,6 @@
 
 **Малыш Цянь:** Когда сложится изображение, можешь отправляться на поиски сокровищ.
 
-#### Сцена
 
 **Малыш Цянь:** Надо же... Собрал(а) все картинки, запросто так!
 
@@ -98,7 +97,6 @@ Do you have another image for me?
 
 **Brother Qian:** Once you've got the images to align, you can go find the treasure.
 
-#### Scene
 
 **Brother Qian:** Wow. You, um, did it.
 
@@ -156,7 +154,6 @@ But if I take all the prizes...
 
 **小千:** 拼好了图之后，你就可以去找宝藏去啦。
 
-#### 场景
 
 **小千:** 居、居然又拼好了…
 

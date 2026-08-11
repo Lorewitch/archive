@@ -26,13 +26,11 @@
 
 В полуразрушенном маяке за деревней кто-то, кажется, чем-то расстроен...
 
-#### Сцена
 
 **Эснор:** А если... разобрать маяк на кирпичи и снова собрать?..
 
 **Эснор:** Нет, так не пойдёт... Фонарь на вершине маяка может скатиться вниз...
 
-#### Сцена
 
 **Эснор:** Вы вернулись!
 
@@ -86,7 +84,6 @@
 
 **Эснор:** Прощайте, друзья! Вы всегда можете найти меня здесь. Я буду ждать Розеля.
 
-#### Сцена
 
 **Эснор:** Маяк... Маяк, я должен поднять тебя, чтобы мой друг отыскал дорогу домой... Фух... Нужно передохнуть...
 
@@ -244,11 +241,9 @@
 
 **Эснор:** Нет, не пойдёт. Крюки, удерживающие фонарь на вершине маяка, расшатались, и если мы будем его разбирать, то фонарь может скатиться вниз...
 
-#### Сцена
 
 **Элегантная статуя:** (Загадайте желание и укажите причину молитвы.)
 
-#### Сцена
 
 Под одобрительные возгласы Паймон вы подпираете плечом маяк и расставляете ноги, чтобы сохранять равновесие...
 Оп! Сильнее!
@@ -263,7 +258,6 @@
 
 Должен же быть другой выход...
 
-#### Сцена
 
 После долгих раздумий, как лучше приложить силу, вы выбираете кирпич, который кажется наиболее подходящим для захвата.
 Крепко ухватившись за этот кирпич, под одобрительные возгласы Паймон вы изо всех сил пытаетесь поднять покосившийся маяк...
@@ -272,7 +266,6 @@
 
 Должен же быть другой выход...
 
-#### Сцена
 
 Под одобрительные возгласы Паймон вы принимаете устойчивое положение, изо всех сил напрягаетесь и упираетесь обеими руками в наиболее подходящую часть покосившегося маяка.
 Вы фиксируете расстояние между руками... Делаете вдох... Выпячиваете грудь... И направляете всю силу в плечи... Стоп! В плечи или спину?
@@ -490,7 +483,6 @@
 
 **Эснор:** Вы всегда можете найти меня здесь. Я буду ждать Розеля.
 
-#### Сцена
 
 *Дерево оказалось на удивление подходящим для этой цели. Вы и Паймон без особых усилий повесили на него фонарь.*
 
@@ -806,7 +798,6 @@
 
 **Пануэль:** Остров шёпота находится вон там. Вам стоит там побывать. Возможно, богиня прислушается к вашим желаниям.
 
-#### Сцена
 
 **Спокойная статуя:** (Вы преподносите доспехи, и на вас снисходит благословение.)
 
@@ -822,15 +813,12 @@
 
 **Паймон:** Хм... Паймон изо всех сил пытается снять, но ничего не выходит. Видимо, Богине пришёлся по душе этот подарок...
 
-#### Сцена
 
 **Нежная статуя:** (Вы преподносите оружие, и мрак рассеивается.)
 
-#### Сцена
 
 **Элегантная статуя:** (Загадайте желание и укажите причину молитвы.)
 
-#### Сцена
 
 **Нежная статуя:** (Вы преподносите оружие, и мрак рассеивается.)
 
@@ -958,7 +946,6 @@
 
 **Паймон:** У нас больше нет никаких зацепок. Возьмём его с собой и преподнесём Богине. Надеюсь, ей понравится наш подарок...
 
-#### Сцена
 
 **Спокойная статуя:** (Вы преподносите доспехи, и на вас снисходит благословение.)
 
@@ -1016,13 +1003,11 @@
 
 Something seems to be troubling someone in the collapsed lighthouse outside Brickstacks...
 
-#### Scene
 
 **Esnoir:** How about... We tear it down brick by brick and rebuild a new tower from scratch?
 
 **Esnoir:** Hmm, no, no... That could send the lamp atop the tower rolling right down...
 
-#### Scene
 
 **Esnoir:** Dear guests, you've returned.
 
@@ -1076,7 +1061,6 @@ Something seems to be troubling someone in the collapsed lighthouse outside Bric
 
 **Esnoir:** See you, honored guests! I shall be here waiting for Rozel, and for you.
 
-#### Scene
 
 **Esnoir:** Lighthouse... Lighthouse... I've got to haul you up, so my friends can find the way home... Phew... Just got to rest a bit before I do...
 
@@ -1234,11 +1218,9 @@ I wonder what becomes of them once they depart...
 
 **Esnoir:** No, no. The hook that hung the lamp up has been knocked loose. Just one moment of carelessness... Who knows, it could send the lamp rolling down...
 
-#### Scene
 
 **Elegant Statue:** (Here, make the wish you hold so dear, and the reasons for your prayer you must make clear.)
 
-#### Scene
 
 As Paimon cheers you on, you firmly support the lighthouse with your shoulder, plant your feet firmly, and...
 Heave ho!
@@ -1253,7 +1235,6 @@ A dull crack sounds from near your hip, and you fall to the floor. It is only af
 
 Best you think of some other way to do this...
 
-#### Scene
 
 After giving much thought as to where your strength would be best applied, you select a brick that seems like a firm handhold.
 Grabbing onto it, and to the sound of Paimon's cheers, you let loose a burst of tremendous effort to right the toppled tower...
@@ -1262,7 +1243,6 @@ Grabbing onto it, and to the sound of Paimon's cheers, you let loose a burst of 
 
 You... should probably consider an alternative...
 
-#### Scene
 
 As Paimon cheers you on, you settle into a steady stance and tighten up your core, both hands grabbing onto the section of the toppled lighthouse best suited for gripping.
 Adjust the distance... Breathe in... Stick out your chest... Put your strength into your shoulders... Wait, should it be your shoulders or your back?
@@ -1480,7 +1460,6 @@ Well, at this point, we're not going to say no.
 
 **Esnoir:** I shall be here waiting for him, and for you.
 
-#### Scene
 
 *This tree proves surprisingly amenable to ornaments of the lamp variety, and you have it hung up in no time.*
 
@@ -1796,7 +1775,6 @@ Woah, that's some island!
 
 **Panuelle:** The Whispering Isle is that way. Perhaps the goddess will be more willing to hear your wish.
 
-#### Scene
 
 **Peaceful Statue:** (Present you now your armor strong, that guards your heart lest it go wrong.)
 
@@ -1812,15 +1790,12 @@ Woah, that's some island!
 
 **Paimon:** Hrrgh... Nope, it's no use. The scale won't come off. Guess the goddess liked the gift after all.
 
-#### Scene
 
 **Gentle Statue:** (Offer here your weapon bright, dispel the dense daze as light does night.)
 
-#### Scene
 
 **Elegant Statue:** (Here, make the wish you hold so dear, and the reasons for your prayer you must make clear.)
 
-#### Scene
 
 **Gentle Statue:** (Offer here your weapon bright, dispel the dense daze as light does night.)
 
@@ -1948,7 +1923,6 @@ The point is, the whole idea is most sensible!
 
 **Paimon:** Not that we've found any other clues, anyway. Let's go back and offer it to that goddess. And then we've just gotta hope that she likes our gifts...
 
-#### Scene
 
 **Peaceful Statue:** (Present you now your armor strong, that guards your heart lest it go wrong.)
 
@@ -2006,13 +1980,11 @@ Are you going back out "venturing"?
 
 在叠架村外倒塌的灯塔里，似乎有人正在为某事而烦恼…
 
-#### 场景
 
 **埃斯诺尔:** 不然…把每一块砖都拆下来，重新建一座怎么样…
 
 **埃斯诺尔:** 不行不行，这样的话…塔顶上的那盏灯说不定会滚下来…
 
-#### 场景
 
 **埃斯诺尔:** 尊敬的客人，您回来了。
 
@@ -2066,7 +2038,6 @@ Are you going back out "venturing"?
 
 **埃斯诺尔:** 再见，尊敬的客人，我会一直在这里等着罗泽尔，也等着您！
 
-#### 场景
 
 **埃斯诺尔:** 灯塔…灯塔，我得把你拽起来，我的朋友才找得到家…呼…只要再休息一会…
 
@@ -2224,11 +2195,9 @@ Are you going back out "venturing"?
 
 **埃斯诺尔:** 不行不行，塔顶挂住那盏灯的钩子已经被撞松了，要是乱拆的话…说不定那盏灯会直接滚下来…
 
-#### 场景
 
 **优雅的雕像:** （于此许下心愿，明晰祈祷的理由。）
 
-#### 场景
 
 在派蒙的加油声中，用肩膀扎实地顶住了灯塔，双脚牢牢站稳…
 喝啊！用力！！！
@@ -2243,7 +2212,6 @@ Are you going back out "venturing"?
 
 还是想点其他的办法吧…
 
-#### 场景
 
 长久地思考着，究竟该以何处为着力点，最终选中了一块看上去很好抓握的砖块。
 紧紧抓住了那块砖块，在派蒙的加油声中，你猛然用力，想要将歪倒的灯塔拽起…
@@ -2252,7 +2220,6 @@ Are you going back out "venturing"?
 
 不然…还是想点别的办法吧…
 
-#### 场景
 
 在派蒙的加油声中，稳稳地扎住了一个马步，收紧了核心的力量，双手扶住歪倒的灯塔上最好扶的部位。
 调整两边抬距…吸气…挺胸…总之先把力量沉到肩膀…等等，是要沉到肩膀，还是背部？
@@ -2470,7 +2437,6 @@ Are you going back out "venturing"?
 
 **埃斯诺尔:** 我会一直在这里等着罗泽尔，也等着您！
 
-#### 场景
 
 *这棵树意外地很适合挂灯，没费多大劲就和派蒙一起把灯挂在了树上。*
 
@@ -2786,7 +2752,6 @@ Are you going back out "venturing"?
 
 **帕纽尔:** 絮语岛就在那边，你们可以去看看，也许女神愿意倾听你们的愿望。
 
-#### 场景
 
 **平静的雕像:** （于此奉上甲胄，护佑不变的本心。）
 
@@ -2802,15 +2767,12 @@ Are you going back out "venturing"?
 
 **派蒙:** 唔啊…怎么使劲都取不下来，看来女神真的很喜欢这件礼物呢…
 
-#### 场景
 
 **温和的雕像:** （于此奉上武具，洞灭氤氲的迷惘。）
 
-#### 场景
 
 **优雅的雕像:** （于此许下心愿，明晰祈祷的理由。）
 
-#### 场景
 
 **温和的雕像:** （于此奉上武具，洞灭氤氲的迷惘。）
 
@@ -2938,7 +2900,6 @@ Are you going back out "venturing"?
 
 **派蒙:** 现在也没有更多的线索了，我们先把它带回去，献给那位女神吧。希望女神会喜欢我们的礼物…
 
-#### 场景
 
 **平静的雕像:** （于此奉上甲胄，护佑不变的本心。）
 

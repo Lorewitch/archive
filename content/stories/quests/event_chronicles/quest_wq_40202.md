@@ -1,6 +1,6 @@
 # id: quest_wq_40202
 # story_group: event_chronicles
-# display_category: Ивент · Tracing Vanishing Trails }}
+# display_category: Ивент · По исчезающим следам
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Тайное расследование, грязные финансовые махинации
 # title_en: Covert Investigation, Dirty Money Misdeeds
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_40200
 # related_quests: quest_wq_40199,quest_wq_40201,quest_wq_40200
 # quest_chain: quest_wq_40199,quest_wq_40201,quest_wq_40202,quest_wq_40200
-# quest_series: Tracing Vanishing Trails }}
+# quest_series: Tracing Vanishing Trails
 # version_source: wiki_release_category
 
 ## RU

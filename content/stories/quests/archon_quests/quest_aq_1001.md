@@ -80,7 +80,6 @@
 
 **Эмбер:** В смысле, библиотекарь наверняка должен знать больше, чем простой скаут!
 
-#### Сцена
 
 **Эмбер:** В Мондштадте все ещё переживают из-за шторма...
 
@@ -126,7 +125,6 @@
 
 **Кэйа:** Позволь показать тебе, как действуют Ордо Фавониус.
 
-#### Сцена
 
 **Кэйа:** Браво!
 
@@ -178,7 +176,6 @@
 
 **Лиза:** Шутки в сторону...
 
-#### Сцена
 
 **Лиза:** Дракон Востока, Лев Юга, Волк Севера, Сокол Запада...
 
@@ -427,7 +424,6 @@
 
 Мирный и спокойный Мондштадт подвергся нападению чудовищного дракона. Вы уже встречали это гигантское создание, которое называют Ужас бури.
 
-#### Сцена
 
 **Эмбер:** Ужас Бури... В этот раз он напал на сам город!
 
@@ -623,7 +619,6 @@ To stop Stormterror's siege, you must venture out and eliminate the elemental fl
 
 **Amber:** I mean... A librarian is supposed to be more knowledgeable than an Outrider, right?
 
-#### Scene
 
 **Amber:** Everyone in Mondstadt is still getting blown about by the storm...
 
@@ -1137,7 +1132,7 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 **安柏:** 进去看看吧，旅行者。要小心，龙的力量正在影响这里。
 
-#### (test)与安柏对话
+#### 与安柏对话
 
 **安柏:** 呼…真累人。
 
@@ -1165,7 +1160,6 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 **安柏:** 图书管理员的知识储备，总之…就是会比侦察骑士更完备一点吧？
 
-#### 场景
 
 **安柏:** 蒙德城的大家还在被风灾困扰着…
 
@@ -1211,7 +1205,7 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 **凯亚:** 那么，就让我来展示一下骑士团的战法。
 
-#### (test)与凯亚对话
+#### 与凯亚对话
 
 **凯亚:** 哦！真是精彩。
 
@@ -1263,7 +1257,7 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 **丽莎:** 我也稍微认真一下吧。
 
-#### (test)与丽莎对话
+#### 与丽莎对话
 
 **丽莎:** 东风之龙，南风之狮，北风之狼，西风之鹰…
 
@@ -1511,7 +1505,7 @@ The girl's name is Amber, and her duty as an Outrider is to escort you to Mondst
 
 本该宁静祥和的蒙德城中，巨龙突然来袭。它正是安柏提到的风魔龙，亦是你们先前在林中遇见的巨兽。
 
-#### (test)与安柏对话
+#### 与安柏对话
 
 **安柏:** 风魔龙…竟然开始直接袭击城市内部了！
 

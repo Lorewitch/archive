@@ -44,7 +44,6 @@
 
 **Паймон:** И попали мы сюда необычным способом! Совсем как в книжке с картинками из Аннапаузиса... Читаешь её, читаешь... а потом переносишься в другое место...
 
-#### Сцена
 
 **Анн:** Возможно, я смогу вспомнить что-нибудь хорошее. Если это случится, то я первым делом расскажу об этом вам, рыцарь Путешественник и Паймон.
 
@@ -410,7 +409,6 @@
 
 **Катерпиллер:** Я планирую вместе с Сеймуром и Анн остаться здесь и посмотреть, удастся ли найти что-то важное в воспоминаниях и материалах. Путешественник, Паймон, возвращайтесь потом сюда.
 
-#### Сцена
 
 **Паймон:** Получается, это такая секретная база! Мы даже не знаем, где на самом деле находимся...
 
@@ -880,7 +878,6 @@ So, what would your wish be, Paimon?
 
 **Caterpillar:** Now, I plan to work with Seymour and Ann to see if we can use our experiences and the information available here to figure something new out. Traveler, Paimon, let's meet back here later.
 
-#### Scene
 
 **Paimon:** That... makes this place something like a secret base, doesn't it? We don't even know where it really is, either...
 
@@ -1350,7 +1347,6 @@ It's just like what happened with the book in the Annapausis...
 
 **卡特皮拉:** 接下来，我打算和西摩尔、安在这里基于之前经历和这里的资料，看看有没有突破点。旅行者、派蒙，之后再在这里会合吧。
 
-#### 场景
 
 **派蒙:** 啊，这么说来，这个地方就像秘密基地一样！根本不知道确切的位置在什么地方呢…
 

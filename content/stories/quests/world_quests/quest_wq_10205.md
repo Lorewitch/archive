@@ -26,7 +26,6 @@
 
 Помогите Титу справиться с Теневой иглой и укрепите печать Бездны
 
-#### Сцена
 
 **Титу:** ...Ох, теперь у меня действительно неприятности. Ха-ха, ужасное совпадение. Но это может стать хорошим началом для истории:
 
@@ -726,7 +725,6 @@
 
 **Титу:** Вперёд, герои! Пойдём проверим последнюю малую Теневую иглу!
 
-#### Сцена
 
 **Юком:** Эх, как долго я ещё буду стоять здесь? Когда уже этот парень придёт, чтобы сменить меня... Подождите. Он ведь не попал в беду?
 
@@ -900,7 +898,6 @@
 
 **Титу:** Как я могу не верить? Вы ведь уже однажды продемонстрировали своё мастерство. Но... мне нужно убедиться во всём самому.
 
-#### Сцена
 
 **Титу:** Невероятно! Это место действительно такое, как описано в истории и песне.
 
@@ -1984,7 +1981,6 @@
 
 Help Titu resolve the Shadow Pin issue and reinforce the seal placed upon the Abyss.
 
-#### Scene
 
 **Titu:** ...This is a big problem. Man, haha, what terrible luck! Still, wouldn't this make for a pretty interesting story opener?
 
@@ -2684,7 +2680,6 @@ Nope, don't recall anything like that...
 
 **Titu:** Let's go, then, dear heroes. Let's go and check on the last floating Lesser Pin...
 
-#### Scene
 
 **Yukom:** *sigh* How come he's not back yet? How much longer am I gonna have to wait... Uh, did something happen to him?
 
@@ -2858,7 +2853,6 @@ Wake up, wake up... You've got to fix this yourself!
 
 **Titu:** Oh, I wouldn't dare disbelieve you. You did, after all, succeed right before my very eyes. Still... I've gotta see it — for my own sanity, if for nothing else!
 
-#### Scene
 
 **Titu:** I can't believe that worked. That was truly a scene from out of story and song.
 
@@ -3942,7 +3936,6 @@ Haargh! Behold, the mighty mountain, Paimon!
 
 帮助蒂图解决「缝影针」的问题，巩固深渊的封印吧。
 
-#### 场景
 
 **蒂图:** …这下问题可糟糕了，真是不凑巧啊，哈哈。不过作为故事的开头说不定还挺有趣的：
 
@@ -4642,7 +4635,6 @@ Haargh! Behold, the mighty mountain, Paimon!
 
 **蒂图:** 走吧，英雄们，我们这就出发，去看看剩下那根浮起来的「小缝影针」吧。
 
-#### 场景
 
 **尤考姆:** 唉，那家伙怎么还没回来，我要在这儿站岗站多久啊…唔，不会出什么事了吧？
 
@@ -4816,7 +4808,6 @@ Haargh! Behold, the mighty mountain, Paimon!
 
 **蒂图:** 我哪敢不信，毕竟你们就在我眼前成功了一次，不过…还是让我亲眼看看，求个心安吧！
 
-#### 场景
 
 **蒂图:** 居然真的成功了…这之前只是出现在「故事」中的场景，真是了不起。
 

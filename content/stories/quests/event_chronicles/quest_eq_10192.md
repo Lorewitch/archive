@@ -188,7 +188,6 @@
 
 **Паймон:** Она кажется тем человеком, который нам нужен! Тогда, пожалуйста, покажи нам дорогу, дедушка Миндаль!
 
-#### Сцена
 
 **Цитрус:** С какого вкуса волшебного эликсира мне начать?
 
@@ -276,7 +275,6 @@
 
 **Нилу:** Ладно, тогда в путь.
 
-#### Сцена
 
 **Каштан:** Смотрите! Вот и Фея Леса! А с ней двое надёжных помощников. Дедушка Миндаль оказался прав!
 
@@ -304,7 +302,6 @@
 
 **Каштан:** Сказал человек, который всё и испортил!
 
-#### Сцена
 
 **Гинкго:** У вас получилось! Вы потрясающие!
 
@@ -368,7 +365,6 @@
 
 **Гинкго:** Это честь для нас.
 
-#### Сцена
 
 **Хлопушка:** Ручеёк! Ты снова сбился с ритма! Если так будет и дальше, даже когда таверна откроется снова, наша группа не сможет устроить ни одного выступления!
 
@@ -424,7 +420,6 @@
 
 **Ручеёк:** Хорошо... Огромное всем спасибо. Я... я попробую!
 
-#### Сцена
 
 **Ручеёк:** Всё ещё не очень...
 
@@ -436,7 +431,6 @@
 
 **Паймон:** Конечно, давай отдохнём и подумаем о чём-то другом, а потом продолжим!
 
-#### Сцена
 
 **Ручеёк:** Мне кажется... я начинаю снова во всём разбираться!
 
@@ -448,7 +442,6 @@
 
 **Паймон:** Да! Мы с нетерпением ждём вашего выступления в таверне!
 
-#### Сцена
 
 **Миндаль:** Милая Цитрус, надеюсь, ты пошутила. Когда таверна снова откроется, мы не можем...
 
@@ -474,7 +467,6 @@
 
 **Цитрус:** Безусловно, они связаны! Как радуга и дождь. Как только освобожу шею, я соберу фрукты с нужной высоты и положу их в бочку вон там.
 
-#### Сцена
 
 **Цитрус:** Да! Моей шее гораздо лучше.
 
@@ -932,7 +924,6 @@ What happens if you stop drinking it?
 
 **Paimon:** Well then, she sounds like exactly the kind of person we need! Please lead the way, Grandpa Almond!
 
-#### Scene
 
 **Citrus:** What flavor of Magic Tonic should I whip up first?
 
@@ -1020,7 +1011,6 @@ We'll be there to cheer you on, too.
 
 **Nilou:** Thank you! Then, let's go.
 
-#### Scene
 
 **Chestnut:** Look, the Forest Fairy is here! And she brought her companions! Grandpa Almond was right, they do look promising!
 
@@ -1048,7 +1038,6 @@ We'll be there to cheer you on, too.
 
 **Chestnut:** Says the guy who messed the whole thing up in the first place!
 
-#### Scene
 
 **Ginkgo:** Amazing! You did it!
 
@@ -1112,7 +1101,6 @@ We'll be there to cheer you on, too.
 
 **Ginkgo:** The honor was all ours, my lady.
 
-#### Scene
 
 **Firecracker:** Stream! Your rhythm is off again! At this rate, it doesn't even matter if the Tavern reopens. The band's not going to even get any gigs.
 
@@ -1168,7 +1156,6 @@ We'll be there to cheer you on, too.
 
 **Stream:** Alright then... Thank you so much, everyone. I—I'll give it my best shot!
 
-#### Scene
 
 **Stream:** Still no good...
 
@@ -1180,7 +1167,6 @@ We'll be there to cheer you on, too.
 
 **Paimon:** Sure, it's good to take a breather. We can come back to this later!
 
-#### Scene
 
 **Stream:** I feel like... I'm getting the hang of it again!
 
@@ -1192,7 +1178,6 @@ We'll be there to cheer you on, too.
 
 **Paimon:** Mhm! We'll be looking forward to your performance at the Tavern!
 
-#### Scene
 
 **Almond:** My dear Citrus, please tell me you're joking. We can't have you out of commission with the Tavern about to reopen!
 
@@ -1218,7 +1203,6 @@ She's so tall...
 
 **Citrus:** Of course they're connected! Just like how you can't have a rainbow without rain. Anyway, you just need to position me at the right height to pick the fruits, and then put them in the barrel over there.
 
-#### Scene
 
 **Citrus:** Perfect! My neck feels much better.
 
@@ -1676,7 +1660,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **派蒙:** 哦！听起来很可靠呢，那就麻烦杏仁长老你带路了。
 
-#### 场景
 
 **柑橘:** 先调什么口味的魔水比较好呢…
 
@@ -1764,7 +1747,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **妮露:** 嗯！那我们出发吧。
 
-#### 场景
 
 **板栗:** 看！仙子大人来啦！还有两位看起来就很可靠的同伴，杏仁长老说得没错！
 
@@ -1792,7 +1774,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **板栗:** 你可少说两句吧！
 
-#### 场景
 
 **白果:** 成功了！你们可真厉害！
 
@@ -1856,7 +1837,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **白果:** 那是我们的荣幸。
 
-#### 场景
 
 **爆竹:** 溪泉！你节奏又错了！再这么下去就算墨色酒馆开张，我们乐队也开不了张呀！
 
@@ -1912,7 +1892,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **溪泉:** 好…谢谢你们，那我，那我这就试试！
 
-#### 场景
 
 **溪泉:** 还是不行吗…
 
@@ -1924,7 +1903,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **派蒙:** 嗯，调整调整心情，我们待会儿再试试！
 
-#### 场景
 
 **溪泉:** 我好像…找到一点感觉了！
 
@@ -1936,7 +1914,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **派蒙:** 嗯！期待你们合唱团的表演哦！
 
-#### 场景
 
 **杏仁:** 我的好柑橘，你可别和我开玩笑，这酒馆马上就要开张了。
 
@@ -1962,7 +1939,6 @@ She means sunsettias, snapdragons, and Nilotpala Lotuses.
 
 **柑橘:** 当然有联系，就像天上的彩虹和雨一样有联系。总之，请让我到合适的高度取几颗果子，再放到旁边的木桶里吧。
 
-#### 场景
 
 **柑橘:** 嗯，这下脖子轻松了不少。
 

@@ -360,11 +360,9 @@
 
 - **Путешественник:** Пять.
 
-#### Сцена
 
 **Торговец:** Ох, ну и как мне торговать, если нельзя выходить из города?
 
-#### Сцена
 
 **Стражник:** Эй! Стойте! Вход и выход из Сумеру запрещены. Разворачивайтесь!
 
@@ -842,7 +840,6 @@
 
 **Паймон:** А? Ты куда? Ты просто так уйдёшь?
 
-#### Сцена
 
 **Торговец:** Ох, ну и как мне торговать, если нельзя выходить из города?
 
@@ -902,7 +899,6 @@
 
 **Паймон:** Хм... А давай выйдем и попробуем что-то другое?
 
-#### Сцена
 
 **Стражник:** Эй! Стойте! Вход и выход из Сумеру запрещены. Разворачивайтесь!
 
@@ -1182,7 +1178,6 @@
 
 **Паймон:** Эй! Ты куда?!
 
-#### Сцена
 
 **Торговец:** Ох, ну и как мне торговать, если нельзя выходить из города?
 
@@ -1294,7 +1289,6 @@
 
 **Паймон:** Это же...
 
-#### Сцена
 
 **Стражник:** Эй! Стойте! Вход и выход из Сумеру запрещены. Разворачивайтесь!
 
@@ -1472,7 +1466,6 @@
 
 - **Путешественник:** Ты продала свой старый меч, чтобы помочь в организации праздника.
 
-#### Сцена
 
 **Дэхья:** Со мной всё в порядке, госпожа. Это просто царапина.
 
@@ -1492,7 +1485,6 @@
 
 **Паймон:** Нам нужно сказать что-то крайне убедительное...
 
-#### Сцена
 
 **Вихар:** Внимание! Есть ли ещё пожелания, молодые солдаты?
 
@@ -1630,7 +1622,6 @@
 
 **Азар:** Продолжим сбор. По сравнению с тем, чего мы должны достичь, эти жертвы ничтожны.
 
-#### Сцена
 
 **Кимия:** Это божественная мудрость...
 
@@ -2308,7 +2299,6 @@
 
 **Дуньярзада:** Верно, великая властительница Руккхадевата воссоздала падисары в память об ушедшем божестве цветов, но она так и не смогла повторить прекрасный пурпур тех цветов.
 
-#### Сцена
 
 **Стражник:** Эй! Стойте! Вход и выход из Сумеру запрещены. Разворачивайтесь!
 
@@ -2640,7 +2630,6 @@
 
 **Нахида:** Завтра я расскажу тебе, как освободиться от сансары. Увидимся...
 
-#### Сцена
 
 **Нахида:** Правильно. Акаша поддерживает мозг каждого человека в состоянии сна, но также отделяет его сознание от его собственного сна.
 
@@ -2658,7 +2647,6 @@
 
 **Нахида:** Ладно, последний вопрос... Кто я?
 
-#### Сцена
 
 **Нахида:** Хе-хе, так ты заметил(а).
 
@@ -2680,7 +2668,6 @@
 
 **Нахида:** Но если у тебя есть вопросы об этом месте, я с удовольствием на них отвечу.
 
-#### Сцена
 
 **Паймон:** ...Вот и всё, что произошло до сих пор.
 
@@ -3064,11 +3051,9 @@ Alright, I guess I can give it a go.
 
 - **Traveler:** Number five.
 
-#### Scene
 
 **Merchant:** *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
 
-#### Scene
 
 **Guard:** Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
 
@@ -3546,7 +3531,6 @@ I'm sorry, Dunyarzad, but I need to leave for a moment.
 
 **Paimon:** Huh? Where are you going? You're just gonna walk off like that?
 
-#### Scene
 
 **Merchant:** *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
 
@@ -3606,7 +3590,6 @@ No... It actually tasted really good.
 
 **Paimon:** Umm... How about... we go out again and try something else.
 
-#### Scene
 
 **Guard:** Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
 
@@ -3886,7 +3869,6 @@ Just now, that was...
 
 **Paimon:** Hey! Where are you going?
 
-#### Scene
 
 **Merchant:** *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
 
@@ -3998,7 +3980,6 @@ Over there.
 
 **Paimon:** That's...
 
-#### Scene
 
 **Guard:** Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
 
@@ -4176,7 +4157,6 @@ Come with me. I'll show you some evidence.
 
 - **Traveler:** You sold your greatsword to support the festival.
 
-#### Scene
 
 **Dehya:** ...I'm fine, my lady. It's just a scratch.
 
@@ -4196,7 +4176,6 @@ Come with me. I'll show you some evidence.
 
 **Paimon:** We need to say something convincing...
 
-#### Scene
 
 **Vihar:** Atten-tion! Any more requests, young soldiers?
 
@@ -4334,7 +4313,6 @@ We'll know for sure at the end of the day.
 
 **Azar:** Continue the harvest. Compared to what we stand to achieve, these sacrifices are trivial.
 
-#### Scene
 
 **Kimiya:** This is divine wisdom...
 
@@ -5012,7 +4990,6 @@ How did you come to that conclusion?
 
 **Dunyarzad:** Yes. The Greater Lord brought forth new Padisarahs in memory of the Goddess of Flowers, but she ultimately could never truly replicate that beautiful shade of purple.
 
-#### Scene
 
 **Guard:** Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
 
@@ -5345,7 +5322,6 @@ I don't have any more questions.
 
 **Nahida:** I'll tell you how to break free of the samsara tomorrow. See you then...
 
-#### Scene
 
 **Nahida:** Correct. The Akasha is keeping each person's brain in a constant dream state, but also separating their consciousness from their own dream.
 
@@ -5363,7 +5339,6 @@ I don't have any more questions.
 
 **Nahida:** Alright, last question... Who am I?
 
-#### Scene
 
 **Nahida:** Hehe. So you noticed.
 
@@ -5385,7 +5360,6 @@ You are Lesser Lord Kusanali.
 
 **Nahida:** On the other hand, I'd be happy to answer any more questions you have about here and now.
 
-#### Scene
 
 **Paimon:** ...That covers everything that's happened so far.
 
@@ -5769,11 +5743,9 @@ You are Lesser Lord Kusanali.
 
 - **旅行者:** 五号。
 
-#### 场景
 
 **商人:** 唉…这不让出城，买卖还做什么做啊…
 
-#### 场景
 
 **卫兵:** 喂！站住！须弥城现在禁止出入，退回去！
 
@@ -6251,7 +6223,6 @@ You are Lesser Lord Kusanali.
 
 **派蒙:** 欸？你要去哪里呀，就这么走了吗？
 
-#### 场景
 
 **商人:** 唉…这不让出城，买卖还做什么做啊…
 
@@ -6311,7 +6282,6 @@ You are Lesser Lord Kusanali.
 
 **派蒙:** 要不…我们再出去试试看？
 
-#### 场景
 
 **卫兵:** 喂！站住！须弥城现在禁止出入，退回去！
 
@@ -6591,7 +6561,6 @@ You are Lesser Lord Kusanali.
 
 **派蒙:** 喂！你去哪儿呀！
 
-#### 场景
 
 **商人:** 唉…这不让出城，买卖还做什么做啊…
 
@@ -6703,7 +6672,6 @@ You are Lesser Lord Kusanali.
 
 **派蒙:** 那边是…
 
-#### 场景
 
 **卫兵:** 喂！站住！须弥城现在禁止出入，退回去！
 
@@ -6881,7 +6849,6 @@ You are Lesser Lord Kusanali.
 
 - **旅行者:** 之前的大剑拿去卖掉支持祭典了。
 
-#### 场景
 
 **迪希雅:** …我没事，小姐，只是一点擦伤而已。
 
@@ -6901,7 +6868,6 @@ You are Lesser Lord Kusanali.
 
 **派蒙:** 这里还差一个一锤定音的发言…
 
-#### 场景
 
 **毗伽尔:** 哟吼，年轻的兵士，还有什么要求吗？
 
@@ -7039,7 +7005,6 @@ You are Lesser Lord Kusanali.
 
 **阿扎尔:** 继续进行「收获」，相比结果而言，这些都是微不足道的代价。
 
-#### 场景
 
 **齐米亚:** 这就是神明的智慧啊…
 
@@ -7717,7 +7682,6 @@ You are Lesser Lord Kusanali.
 
 **迪娜泽黛:** 是啊，树王大人为纪念花神大人创生的帕蒂沙兰，最终也没能再现那种艳丽的紫红色。
 
-#### 场景
 
 **卫兵:** 喂！站住！须弥城现在禁止出入，退回去！
 
@@ -8049,7 +8013,6 @@ You are Lesser Lord Kusanali.
 
 **纳西妲:** 嗯，明天我会告诉你们破解「轮回」的办法。二位，明天见…
 
-#### 场景
 
 **纳西妲:** 没错。虚空让人们的大脑处于不断做梦的状态下，并将他们的意识从原本的梦中剥离…
 
@@ -8067,7 +8030,6 @@ You are Lesser Lord Kusanali.
 
 **纳西妲:** 好了，那么最后一个问题…我是谁呢？
 
-#### 场景
 
 **纳西妲:** 呵呵，你原来注意到了呀。
 
@@ -8089,7 +8051,6 @@ You are Lesser Lord Kusanali.
 
 **纳西妲:** 但如果还有其他关于「现状」的问题，我倒是很乐意为你们解答。
 
-#### 场景
 
 **派蒙:** …以上，就是到现在为止全部发生过的事了。
 

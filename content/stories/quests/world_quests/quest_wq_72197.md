@@ -26,7 +26,6 @@
 
 Война и Татаригами принесли много неприятностей Тёдзи. Как же помочь ему преодолеть депрессию?..
 
-#### Сцена
 
 **Тёдзи:** В любом случае спасибо за помощь! До встречи!
 
@@ -118,7 +117,6 @@
 
 **Тёдзи:** Спасибо! Я этого не забуду!
 
-#### Сцена
 
 Мы нашли письмо.
 
@@ -198,7 +196,6 @@
 
 **Тёдзи:** Да хранит вас ветер!
 
-#### Сцена
 
 **Тёдзи:** Привет! Вот мы и встретились снова!
 
@@ -222,7 +219,6 @@
 
 **Тёдзи:** Ага! Я знал, что могу положиться на вас, Путешественник!
 
-#### Сцена
 
 **Тёдзи:** Здравствуйте, Путешественник, я не ожидал, что увижу вас снова!
 
@@ -252,7 +248,6 @@
 
 The war and the Tatarigami have troubled little Chouji greatly. How is he to escape his present situation?
 
-#### Scene
 
 **Chouji:** Anyway. Thank you for your help! See you around!
 
@@ -344,7 +339,6 @@ What a mercenary philosophy...
 
 **Chouji:** Thank you! I won't forget this!
 
-#### Scene
 
 We found a letter.
 
@@ -424,7 +418,6 @@ I have faith in him.
 
 **Chouji:** Safe travels!
 
-#### Scene
 
 **Chouji:** Hello, we meet again!
 
@@ -448,7 +441,6 @@ We'll do our best.
 
 **Chouji:** Mm! I knew I could rely on you, Traveler!
 
-#### Scene
 
 **Chouji:** Hey there, Traveler, I didn't expect I'd see you again!
 
@@ -478,7 +470,6 @@ We're still trying.
 
 战争与「祟神」给小小的长次带来了太多烦恼，如何才能让长次走出迷惘呢…？
 
-#### 场景
 
 **长次:** 总之，谢谢你们的努力！我们下次有缘再见吧！
 
@@ -570,7 +561,6 @@ We're still trying.
 
 **长次:** 谢谢！我不会忘记的！
 
-#### 场景
 
 我们发现了一封信。
 
@@ -650,7 +640,6 @@ We're still trying.
 
 **长次:** 祝你们一路顺风！
 
-#### 场景
 
 **长次:** 你们好，又见面了！
 
@@ -674,7 +663,6 @@ We're still trying.
 
 **长次:** 嗯，我就知道旅行者可以信赖！
 
-#### 场景
 
 **长次:** 旅行者，没想到又能在这里看见你！
 

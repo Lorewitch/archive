@@ -228,7 +228,6 @@
 
 **Паймон:** Отлично. Тогда мы спускаемся. До встречи!
 
-#### Сцена
 
 **Паймон:** Деревня Цяоин славится своим чаем. А знаешь, что отлично сочетается с чаем? Именно! Димсамы!
 
@@ -376,7 +375,6 @@
 
 **Ху Тао:** Хе-хе, я шучу. Это я должна вас угощать, ведь доходы бюро теперь вырастут.
 
-#### Сцена
 
 **Паймон:** Ой! Паймон чуть не забыла спросить самое важное!
 
@@ -438,7 +436,6 @@
 
 *Жалобный взгляд Фурины убедил вас не упоминать о криках с горы.*
 
-#### Сцена
 
 **Чжун Ли:** Хм?
 
@@ -848,7 +845,6 @@ Sounds reasonable to me.
 
 **Paimon:** Sounds good. We're gonna head down the mountain then. See you later!
 
-#### Scene
 
 **Paimon:** Qiaoying Village is known for its tea. But you know what else they have with tea? That's right, dim sum!
 
@@ -996,7 +992,6 @@ I'll buy you a bowl any time you want.
 
 **Hu Tao:** Hehe, I was just joking. Anyway, I should be the one treating you. The Funeral Parlor is about to bring in quite the sum, after all.
 
-#### Scene
 
 **Paimon:** Oh! Paimon almost forgot to ask the most important question!
 
@@ -1058,7 +1053,6 @@ You might even call it a "breath of fresh t-AIR-or"!
 
 *One look at the pitiful expression on Furina's face is enough to convince you to leave out the part about the shouting.*
 
-#### Scene
 
 **Zhongli:** Oh?
 
@@ -1468,7 +1462,6 @@ I could have told you that.
 
 **派蒙:** 好哦，那我们就先下山啦！待会儿见！
 
-#### 场景
 
 **派蒙:** 说到翘英庄就想到茶，而说到茶就又想起早茶…
 
@@ -1616,7 +1609,6 @@ I could have told you that.
 
 **胡桃:** 嘿嘿，开玩笑啦。堂里有进账，当然应由本堂主择日做东咯。
 
-#### 场景
 
 **派蒙:** 啊！说了这么多，差点忽略了关键问题！
 
@@ -1678,7 +1670,6 @@ I could have told you that.
 
 *当然，在芙宁娜可怜巴巴的注视下，没有提及关于「大喊大叫」的部分。*
 
-#### 场景
 
 **钟离:** 嗯？
 

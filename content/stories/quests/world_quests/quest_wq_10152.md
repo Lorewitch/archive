@@ -26,7 +26,6 @@
 
 Прошло немало времени. Пора вернуться в Ордо Нарциссенкрейц и посмотреть, как продвигаются исследования.
 
-#### Сцена
 
 **Анн:** Рыцарь Путешественник, Паймон, вы вернулись!
 
@@ -122,7 +121,6 @@
 
 **Катерпиллер:** Ну что? Давайте посмотрим, какие теории мы можем вывести из того, что знаем.
 
-#### Сцена
 
 Я готов(а).
 
@@ -444,7 +442,6 @@
 
 **Катерпиллер:** Что касается размножения океанид, то у меня есть некоторые соображения, которые отличаются от общепринятых. Но это не так важно. Давайте поговорим об этом позже.
 
-#### Сцена
 
 **Сеймур:** Мне очень жаль, но в этот раз я, возможно, не смогу оказать вам логическую поддержку.
 
@@ -1062,7 +1059,6 @@
 
 **Жакоб:** Раз вы не хотите отдавать мне то, что у вас есть, тогда я заберу сам.
 
-#### Сцена
 
 Давайте начинать.
 
@@ -1800,7 +1796,6 @@
 
 **Катерпиллер:** Поблизости должно быть какое-то устройство управления, да? Давайте его поищем.
 
-#### Сцена
 
 **Анн:** Это впереди блок «личность»?
 
@@ -1822,7 +1817,6 @@
 
 **Катерпиллер:** Тогда, Путешественник, пора получить «личность».
 
-#### Сцена
 
 **Катерпиллер:** Ты готов(а)?
 
@@ -1830,7 +1824,6 @@
 
 Следуйте за фрагментами печати и найдите печать Ордо Нарциссенкрейц
 
-#### Сцена
 
 **Паймон:** На земле всё ещё горит огонь. Откуда он здесь? Это же просто руины...
 
@@ -1864,7 +1857,6 @@
 
 **Анн:** Итак, рыцарь Путешественник, как думаешь, какой ответ?
 
-#### Сцена
 
 Тень.
 
@@ -1900,7 +1892,6 @@
 
 **Паймон:** Именно. Как думаешь, какой ответ?
 
-#### Сцена
 
 *Вы внимательно осматриваете пространство в верхней части механизма, но ничего не обнаруживаете.*
 
@@ -2014,7 +2005,6 @@
 
 Следуйте за фрагментами печати и найдите печать Ордо Нарциссенкрейц
 
-#### Сцена
 
 **Анн:** ...Нет, разве тебя не должен больше беспокоить тот факт, что в поле зрения лежит человек?
 
@@ -2084,7 +2074,6 @@
 
 **Паймон:** Ну, Путешественник, так какой же ответ?
 
-#### Сцена
 
 Жизнь?
 
@@ -2100,7 +2089,6 @@
 
 **Паймон:** Ну, Путешественник, так какой же ответ?
 
-#### Сцена
 
 Чувство вины?
 
@@ -2108,7 +2096,6 @@
 
 **Паймон:** Ну, Путешественник, так какой же ответ?
 
-#### Сцена
 
 *Вы внимательно осматриваете пространство в верхней части механизма, но ничего не обнаруживаете.*
 
@@ -2198,7 +2185,6 @@
 
 Следуйте за фрагментами печати и найдите печать Ордо Нарциссенкрейц
 
-#### Сцена
 
 **Сеймур:** «Это и есть Ортант души - вселенная духа и зал натуры»...
 
@@ -2292,7 +2278,6 @@
 
 **Паймон:** Эй, если ты не знаешь ответа, то так и скажи. Не нужно так бежать, чтобы скрыть своё смущение. Подожди Паймон.
 
-#### Сцена
 
 *Вы внимательно осматриваете пространство в верхней части механизма, но ничего не обнаруживаете.*
 
@@ -2592,7 +2577,6 @@
 
 It's been a while. Time to head back to the Narzissenkreuz Ordo and see how everyone's doing with their investigations.
 
-#### Scene
 
 **Ann:** Knight Traveler, Paimon, you're back!
 
@@ -2688,7 +2672,6 @@ So, what do we want to discuss?
 
 **Caterpillar:** Well, then. In that case, let's see what we can deduce from the things we already know.
 
-#### Scene
 
 I'm ready.
 
@@ -3010,7 +2993,6 @@ Do tell.
 
 **Caterpillar:** I have some... less mainstream ideas about how Oceanids reproduce, but they're not important, and we can discuss them later.
 
-#### Scene
 
 **Seymour:** I am very sorry. I may be unable to offer any logical support at this time.
 
@@ -3628,7 +3610,6 @@ I refuse. The world is not as weak as you think.
 
 **Jakob:** If you will not give me what I need willingly, I will take it myself.
 
-#### Scene
 
 Then let's begin.
 
@@ -4366,7 +4347,6 @@ That means we don't know what we'll find there.
 
 **Caterpillar:** There must be some kind of equipment nearby. Have a look around.
 
-#### Scene
 
 **Ann:** Is that the "Persona" piece ahead?
 
@@ -4388,7 +4368,6 @@ That means we don't know what we'll find there.
 
 **Caterpillar:** In that case, Traveler, please take this "Persona" with you, if you would.
 
-#### Scene
 
 **Caterpillar:** Are you ready to begin?
 
@@ -4396,7 +4375,6 @@ That means we don't know what we'll find there.
 
 Trace and find the Narzissenkreuz Ordo's seals.
 
-#### Scene
 
 **Paimon:** The bonfire is still burning. Wait, why is there a bonfire here? This is just a ruin...
 
@@ -4430,7 +4408,6 @@ Products of lithiasis. Y'know, like kidney stones and such.
 
 **Ann:** What do you think the answer is, Knight Traveler?
 
-#### Scene
 
 Shadows.
 
@@ -4466,7 +4443,6 @@ Products of lithiasis. Y'know, like kidney stones and such.
 
 **Paimon:** Oh, that's right! What do you think it is, then?
 
-#### Scene
 
 *You carefully inspect the top of the mechanism, but you don't find anything.*
 
@@ -4580,7 +4556,6 @@ Just who is...?
 
 Trace and find the Narzissenkreuz Ordo's seals.
 
-#### Scene
 
 **Ann:** ...Shouldn't you be more concerned with the person lying on the ground in your field of vision?
 
@@ -4650,7 +4625,6 @@ Knowing that he is in good hands, the two of you return to where you were before
 
 **Paimon:** Hmm... What do you think the answer is then, Traveler?
 
-#### Scene
 
 Life?
 
@@ -4666,7 +4640,6 @@ A dream?
 
 **Paimon:** Hmm... What do you think the answer is then, Traveler?
 
-#### Scene
 
 Guilt?
 
@@ -4674,7 +4647,6 @@ Guilt?
 
 **Paimon:** Hmm... What do you think the answer is then, Traveler?
 
-#### Scene
 
 *You carefully inspect the top of the mechanism, but you don't find anything.*
 
@@ -4764,7 +4736,6 @@ Just who is...?
 
 Trace and find the Narzissenkreuz Ordo's seals.
 
-#### Scene
 
 **Seymour:** "Lo, this place is the Orthant of Souls, the Shrine of Souls, the Room of Souls..."
 
@@ -4858,7 +4829,6 @@ Wonderful, that's one answer we can count out.
 
 **Paimon:** Hey! Just admit that you don't know either! Don't run off just because you're embarrassed. Wait up!
 
-#### Scene
 
 *You carefully inspect the top of the mechanism, but you don't find anything.*
 
@@ -5158,7 +5128,6 @@ Quite abstruse.
 
 过了一段时间，回水仙十字结社确认一下大家的调查进展吧。
 
-#### 场景
 
 **安:** 旅行者骑士、派蒙，你们回来了！
 
@@ -5254,7 +5223,6 @@ Quite abstruse.
 
 **卡特皮拉:** 怎么样？从我们已知的事情里，看看能推导得出什么理论吧。
 
-#### 场景
 
 我准备好了。
 
@@ -5576,7 +5544,6 @@ Quite abstruse.
 
 **卡特皮拉:** 至于纯水精灵的繁衍，我有些不同于主流结论的想法。不过这些不重要，有机会再说吧。
 
-#### 场景
 
 **西摩尔:** 十分抱歉，这次我可能提供不了什么逻辑支持。
 
@@ -6194,7 +6161,6 @@ Quite abstruse.
 
 **雅各布:** 既然你们不愿意给，那我就自己来拿吧。
 
-#### 场景
 
 那就开始吧。
 
@@ -6932,7 +6898,6 @@ Quite abstruse.
 
 **卡特皮拉:** 附近应该有什么设备可以操作吧，找找看吧。
 
-#### 场景
 
 **安:** 前方就是「人格」之块吗？
 
@@ -6954,7 +6919,6 @@ Quite abstruse.
 
 **卡特皮拉:** 那么旅行者，请你去收下「人格」吧。
 
-#### 场景
 
 **卡特皮拉:** 你准备好开始了吗？
 
@@ -6962,7 +6926,6 @@ Quite abstruse.
 
 根据约印的残篇，寻找水仙十字结社的封印。
 
-#### 场景
 
 **派蒙:** 地上的火堆还在燃烧。话说为什么这里要点火呢？明明是遗迹…
 
@@ -6996,7 +6959,6 @@ Quite abstruse.
 
 **安:** 那旅行者骑士，你觉得答案是什么呢？
 
-#### 场景
 
 影子。
 
@@ -7032,7 +6994,6 @@ Quite abstruse.
 
 **派蒙:** 对哦，那你觉得答案是什么呢？
 
-#### 场景
 
 *仔细检查了机关顶部的空间，什么都没有发现。*
 
@@ -7146,7 +7107,6 @@ Quite abstruse.
 
 根据约印的残篇，寻找水仙十字结社的封印。
 
-#### 场景
 
 **安:** …不是，比起这个，你不更应该关注视野内还躺着一个人吗？
 
@@ -7216,7 +7176,6 @@ Quite abstruse.
 
 **派蒙:** 唔，旅行者，那么谜底是什么呢？
 
-#### 场景
 
 生命？
 
@@ -7232,7 +7191,6 @@ Quite abstruse.
 
 **派蒙:** 唔，旅行者，那么谜底是什么呢？
 
-#### 场景
 
 愧疚感？
 
@@ -7240,7 +7198,6 @@ Quite abstruse.
 
 **派蒙:** 唔，旅行者，那么谜底是什么呢？
 
-#### 场景
 
 *仔细检查了机关顶部的空间，什么都没有发现。*
 
@@ -7330,7 +7287,6 @@ Quite abstruse.
 
 根据约印的残篇，寻找水仙十字结社的封印。
 
-#### 场景
 
 **西摩尔:** 「此处乃灵魂之象限，灵魂之庙宇，灵魂之间」…
 
@@ -7424,7 +7380,6 @@ Quite abstruse.
 
 **派蒙:** 喂喂，不知道就不知道。你不要为了掩饰尴尬走这么快啊，等等我啊。
 
-#### 场景
 
 *仔细检查了机关顶部的空间，什么都没有发现。*
 

@@ -26,7 +26,6 @@
 
 Вновь наступил Праздник морских фонарей, и вновь у шеф-повара Мао целая гора заказов...
 
-#### Сцена
 
 **Ацуко:** Интересно, как сейчас дела в Инадзуме...
 
@@ -84,13 +83,11 @@
 
 **Ацуко:** Интересно, как сейчас там дела?..
 
-#### Сцена
 
 Что скажешь по поводу чёрного окуня?
 
 **Гуань Хай:** О, фирменное блюдо «Народного выбора». Я его ел уже много раз, к тому же мне хотелось бы чего-нибудь кисло-сладкого.
 
-#### Сцена
 
 Рекомендую кристальные баоцзы.
 
@@ -104,13 +101,11 @@
 
 **Гуань Хай:** Кисло-сладкая и хрустящая, от одной мысли о ней слюнки текут. Скорее бы попробовать это творение шеф-повара Мао.
 
-#### Сцена
 
 Обрати внимание на мясо «Тяньшу».
 
 **Чжи Хуа:** Оно... слишком жирное...
 
-#### Сцена
 
 Я бы рекомендовал(а) тебе жареную рыбу-тигра.
 
@@ -124,7 +119,6 @@
 
 **Чжи Хуа:** Ну ладно, мне тогда печенье лотоса подойдёт.
 
-#### Сцена
 
 Я бы посоветовал(а) суп «Три вкуса».
 
@@ -132,7 +126,6 @@
 
 **Здоровяк Ван:** Когда это ты ходил слушать рассказы? Чего меня не позвал?
 
-#### Сцена
 
 Как насчёт Налетайки?
 
@@ -194,7 +187,6 @@
 
 Once again, it's the Lantern Rite — and once again, Wanmin Restaurant's Chef Mao is busier than ever...
 
-#### Scene
 
 **Atsuko:** I wonder how things are back in Inazuma...
 
@@ -252,13 +244,11 @@ Here's your order. Enjoy!
 
 **Atsuko:** I wonder how things are back in Inazuma...
 
-#### Scene
 
 I recommend Black-Back Perch Stew.
 
 **Guanhai:** Ah yes, Wanmin Restaurant's signature dish. I've eaten it many times already, and it doesn't have that sweet and sour taste I'm hankering after... I think I'd prefer something else.
 
-#### Scene
 
 I recommend Crystal Shrimp.
 
@@ -272,13 +262,11 @@ I recommend Squirrel Fish.
 
 **Guanhai:** Sweet and sour flavor with a crispy texture. I'm getting hungry just thinking about it. I can't wait to taste more of Chef Mao's cuisine.
 
-#### Scene
 
 I recommend Tianshu Meat.
 
 **Zhihua:** That dish is a little too oily...
 
-#### Scene
 
 I recommend Grilled Tiger Fish.
 
@@ -292,7 +280,6 @@ I recommend Lotus Flower Crisp.
 
 **Zhihua:** Alright, put me down for Lotus Flower Crisp, please.
 
-#### Scene
 
 I recommend Triple-Layered Consommé.
 
@@ -300,7 +287,6 @@ I recommend Triple-Layered Consommé.
 
 **Wrench Wang:** When have you ever gone to listen to stories? And why didn't you bring me along?
 
-#### Scene
 
 I recommend Come and Get It.
 
@@ -362,7 +348,6 @@ Won't you be hanging any Xiao Lanterns?
 
 正逢一年一度的海灯节，「万民堂」的卯师傅又忙活开了…
 
-#### 场景
 
 **竺子:** 不知道，稻妻那边现在是什么情况…
 
@@ -420,13 +405,11 @@ Won't you be hanging any Xiao Lanterns?
 
 **竺子:** 不知道，稻妻那边现在是什么情况…
 
-#### 场景
 
 我推荐水煮黑背鲈。
 
 **观海:** 「万民堂」的招牌菜啊，早吃过很多次了，而且也不是酸甜口的，感觉不大想吃。
 
-#### 场景
 
 我推荐水晶虾。
 
@@ -440,13 +423,11 @@ Won't you be hanging any Xiao Lanterns?
 
 **观海:** 酸甜酥脆，想着就觉得饿了，我等着品品卯师傅的手艺了。
 
-#### 场景
 
 我推荐天枢肉。
 
 **志华:** 这道菜…有点太油了…
 
-#### 场景
 
 我推荐烤吃虎鱼。
 
@@ -460,7 +441,6 @@ Won't you be hanging any Xiao Lanterns?
 
 **志华:** 咳…总之就是这道菜了。
 
-#### 场景
 
 我推荐扣三丝。
 
@@ -468,7 +448,6 @@ Won't you be hanging any Xiao Lanterns?
 
 **王扳子:** 你什么时候去听的说书？怎么没叫我？
 
-#### 场景
 
 我推荐来来菜。
 

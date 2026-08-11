@@ -108,7 +108,6 @@
 
 **Паймон:** Пойдём, поищем кого-нибудь в партнёры.
 
-#### Сцена
 
 **Аратаки Итто:** Не бойтесь, ребята! Что бы ни случилось, я защищу вас!
 
@@ -182,7 +181,6 @@
 
 **Ёимия:** Не благодарите. Мне было очень приятно пройти с вами Испытание смелости! Я с удовольствием повторю это снова!
 
-#### Сцена
 
 **Ёимия:** Так ты и есть Хитоцумэ Кодзо?
 
@@ -332,19 +330,16 @@
 
 **Паймон:** Ясно! Фух... Теперь, когда Хэйдзо с нами, Паймон чувствует себя немного спокойнее...
 
-#### Сцена
 
 **Камисато Аяка:** Неужели все эти слухи правдивы? Неужели странные явления происходят каждый раз, когда проводится Испытание смелости...?
 
 **Камисато Аяка:** Пожалуйста, будьте осторожны.
 
-#### Сцена
 
 **Каэдэхара Кадзуха:** В воздухе витает тревога и разносится страх.
 
 **Каэдэхара Кадзуха:** Может быть, это и есть настоящая проверка смелости... Для меня всё это уже стало незабываемым опытом.
 
-#### Сцена
 
 **Горо:** «Сохраняй ясность ума и покой. Освободи мысли от духов и привидений...»
 
@@ -352,19 +347,16 @@
 
 **Горо:** Если бы только её превосходительство была здесь. Она бы мигом во всём разобралась...
 
-#### Сцена
 
 **Ёимия:** Так здесь действительно есть привидения?
 
 **Ёимия:** Пойду поищу их. Я никогда раньше не видела привидений! Так захватывающе!
 
-#### Сцена
 
 **Тома:** Я думаю, что мой господин предвидел эту ситуацию...
 
 **Тома:** Я полностью ему доверяю, но, учитывая, что госпожа Аяка по-прежнему здесь, мы должны разобраться с этим как можно скорее.
 
-#### Сцена
 
 **Саю:** Тсс... это одно из моих привычных убежищ. Здесь всегда безопасно.
 
@@ -418,7 +410,6 @@
 
 **Тома:** Но помните, что всего один раунд отделяет вас от победы и главного приза! Подготовьтесь и выложитесь по полной.
 
-#### Сцена
 
 **Жрица:** Вы нашли себе партнёра?
 
@@ -950,7 +941,6 @@ We never managed to find those three, either.
 
 **Paimon:** Let's ask around and see if there's anyone looking for a partner!
 
-#### Scene
 
 **Arataki Itto:** Don't freak out, boys! Whatever happens, I'll protect you!
 
@@ -1024,7 +1014,6 @@ We never managed to find those three, either.
 
 **Yoimiya:** No need to thank me. It's been a blast doing the Test of Courage with you guys! I'd love to do it again!
 
-#### Scene
 
 **Yoimiya:** So you must be Hitotsume Kozou!
 
@@ -1174,19 +1163,16 @@ Wait a minute, we did meet some lady who was all dressed up...
 
 **Paimon:** Phew... Paimon somehow feels a little better now that Heizou's here...
 
-#### Scene
 
 **Kamisato Ayaka:** Could the rumors be true then? Do strange phenomena really happen every time the Test of Courage is held...?
 
 **Kamisato Ayaka:** Please, be careful.
 
-#### Scene
 
 **Kaedehara Kazuha:** Unease pervades the air, and fear is spreading.
 
 **Kaedehara Kazuha:** Maybe this is the real Test of Courage...? It's already becoming an unforgettable experience for me.
 
-#### Scene
 
 **Gorou:** "Recite this to yourself, keep your mind clear and at peace. Free your thoughts from spirits and ghosts"...
 
@@ -1194,19 +1180,16 @@ Wait a minute, we did meet some lady who was all dressed up...
 
 **Gorou:** If only Her Excellency were here. She would get to the bottom of all this in no time.
 
-#### Scene
 
 **Yoimiya:** So is there really a ghost around here?
 
 **Yoimiya:** I'm gonna go look for it. I've never seen a ghost before! Oh, how exciting!
 
-#### Scene
 
 **Thoma:** I believe my lord had foreseen this situation...
 
 **Thoma:** He has my absolute trust, but given Lady Ayaka is still here, we must get to the bottom of this as soon as possible.
 
-#### Scene
 
 **Sayu:** Shh... this is one of my usual hiding spots. It's always safe here.
 
@@ -1260,7 +1243,6 @@ Wait a minute, we did meet some lady who was all dressed up...
 
 **Thoma:** But remember, you're only one round away from taking home the special prize! Make sure you get yourselves ready and give it your best shot.
 
-#### Scene
 
 **Shrine Maiden:** Have you found a partner yet?
 
@@ -1792,7 +1774,6 @@ What did you notice, Heizou?
 
 **派蒙:** 旅行者，我们再去附近看看有谁还没组队吧！
 
-#### 场景
 
 **荒泷一斗:** 别怕！不管发生什么，本大爷都会保护你们的！
 
@@ -1866,7 +1847,6 @@ What did you notice, Heizou?
 
 **宵宫:** 没事没事，和你们一起玩试胆大会非常开心！下次有什么好玩的，也请叫上我！
 
-#### 场景
 
 **宵宫:** 你就是独眼小僧吗？
 
@@ -2016,19 +1996,16 @@ What did you notice, Heizou?
 
 **派蒙:** 好！呼…有平藏在，总觉得安心一点了…
 
-#### 场景
 
 **神里绫华:** 难道真的像传闻所说的那样，每次试胆大会都会发生诡异的事情…
 
 **神里绫华:** 旅行者，请你一定要多加小心。
 
-#### 场景
 
 **枫原万叶:** 风中弥漫着不安，恐惧正在蔓延。
 
 **枫原万叶:** 或许这才是试胆大会该有的样子？对我来说，倒是一种难得的体验。
 
-#### 场景
 
 **五郎:** 「默念默诵，常清常静；神鬼之事，无需挂怀…」
 
@@ -2036,19 +2013,16 @@ What did you notice, Heizou?
 
 **五郎:** 如果珊瑚宫大人在这里就好了。她一定能很快搞清楚发生了什么…
 
-#### 场景
 
 **宵宫:** 难道真的有「幽灵」混进来了吗？
 
 **宵宫:** 让我找找。我还没怎么见过幽灵呢！真让人好奇！
 
-#### 场景
 
 **托马:** 家主大人，应该已经预料到这样的情况了吧…
 
 **托马:** 我相信家主大人。不过小姐还在这里，为了以防万一，必须要尽快调查清楚。
 
-#### 场景
 
 **早柚:** 嘘…这里是我平时躲藏的地方，很安全的。
 
@@ -2102,7 +2076,6 @@ What did you notice, Heizou?
 
 **托马:** 你们距离连赢三场只剩最后一场了吧。调整好状态，加油。
 
-#### 场景
 
 **巫女:** 找好搭档了吗？
 

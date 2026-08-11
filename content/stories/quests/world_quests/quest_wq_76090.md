@@ -26,7 +26,6 @@
 
 Что-то странное творится на Мрачных болотах...
 
-#### Сцена
 
 **???:** Хе-хе! Желейка, ты опять лижешь мне лицо? У тебя такой мягкий язычок... Да, ты самый послушный котёнок в мире!
 
@@ -216,7 +215,6 @@
 
 Перед уходом Януш снова предупредил: «Будьте очень осторожны!» - и вскоре его силуэт растворился в тумане.
 
-#### Сцена
 
 **???:** Я останусь на посту и подожду учителя. Если у вас есть вопросы - спрашивайте, и я постараюсь на них ответить!
 
@@ -250,7 +248,6 @@
 
 **???:** Это я вам должен сказать! В глубинах болота гораздо опаснее! Желаю удачи!
 
-#### Сцена
 
 **???:** Эх... Такое ощущение, что в этот раз я оказался совсем бесполезен...
 
@@ -268,7 +265,6 @@
 
 **???:** Неплохая догадка! Заглянем туда ещё разок чуть позже и соберём доказательства. А затем предъявим Фатуи официальные претензии.
 
-#### Сцена
 
 **???:** Зажёгся свет... Эй, учитель... Учитель, это вы?
 
@@ -461,7 +457,6 @@
 
 Something seems amiss in Dreadshade Mire...
 
-#### Scene
 
 **???:** Heehee... Jelly... are you licking my face again? Your tongue's so soft... Yes, yes, you're the sweetest little kitty in the whole wide world...
 
@@ -651,7 +646,6 @@ Even so...
 
 After a few more sincere exhortations to "stay safe," Janusz sets off. His silhouette is almost instantly swallowed by the mist...
 
-#### Scene
 
 **???:** I'll stay here and wait for my master to return. If there's anything you want to know, I'll do my best to answer your questions.
 
@@ -685,7 +679,6 @@ After a few more sincere exhortations to "stay safe," Janusz sets off. His silho
 
 **???:** I should be the one saying that to you! The deeper parts of this swamp are even more dangerous. I truly hope you don't run into trouble...
 
-#### Scene
 
 **???:** *sigh* I feel like I've been no use whatsoever...
 
@@ -703,7 +696,6 @@ After a few more sincere exhortations to "stay safe," Janusz sets off. His silho
 
 **???:** How very perceptive... We'll go back and investigate later. Once we've gathered sufficient evidence, we can file an official protest with the Fatui.
 
-#### Scene
 
 **???:** The light's on... Master...? Is that you?
 
@@ -896,7 +888,6 @@ Among the shadows scattered by the wind, a final whisper faded like ripples on a
 
 噩影泽地似乎有些异常…
 
-#### 场景
 
 **? ? ?:** 呼呼，「肉冻」，又在舔我的脸吗？你的舌头真软啊…没错，你就是世界上最乖的小猫咪。
 
@@ -1086,7 +1077,6 @@ Among the shadows scattered by the wind, a final whisper faded like ripples on a
 
 雅努什又叮嘱了几句「千万要小心！」之后就出发了，他的身影不一会儿便消失在了迷雾中…
 
-#### 场景
 
 **? ? ?:** 我会继续守在这里，等师父来和我会合。如果你们有什么想知道的，我会尽我所能为你们解答的！
 
@@ -1120,7 +1110,6 @@ Among the shadows scattered by the wind, a final whisper faded like ripples on a
 
 **? ? ?:** 你们才是！沼泽深处比这里危险很多，希望你们能一切顺利…
 
-#### 场景
 
 **? ? ?:** 唉…感觉自己这次什么忙都没帮上…
 
@@ -1138,7 +1127,6 @@ Among the shadows scattered by the wind, a final whisper faded like ripples on a
 
 **? ? ?:** 很敏锐嘛！待会我们再回去调查一下，把证据收集好。到时候向愚人众提出正式抗议。
 
-#### 场景
 
 **? ? ?:** 灯亮了，咦，师父…师父是你吗？
 

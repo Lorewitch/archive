@@ -256,7 +256,6 @@
 
 **Навия:** Конечно! Мы должны хорошо подготовиться перед тем, как войти.
 
-#### Сцена
 
 Всё хорошо. Пошли.
 
@@ -558,7 +557,6 @@
 
 **Странник:** Эти записи должны охватывать большую часть, которую вы хотите узнать, включая личности двух других Богинь. Прочтите сами.
 
-#### Сцена
 
 **«М.»:** «...По всем правилам я должна была быть «А.», ведь «А.» - это первая и последняя буква моего имени. Но Алиса не разрешила, сославшись на старшинство, и сказала, что я буду «М.» из-за моего второго имени. Ха-ха, а она знает, как меня задеть...
 
@@ -572,7 +570,6 @@
 
 **«М.»:** ...Похоже, она хочет построить свою статую в столице?! Ха-ха, она всегда хочет добавить немного стиля».
 
-#### Сцена
 
 **«М.»:** «Дорогие сёстры, боюсь, что скоро моё перо высохнет... Даже сейчас, когда я пишу это письмо, чувствую, что ослабла. Спасибо, что наслаждались моими историями и создали этот мир для меня...
 
@@ -969,7 +966,6 @@ I'm good, actually...
 
 **Navia:** Of course! We should be fully prepared before going in.
 
-#### Scene
 
 I'm good. Let's go.
 
@@ -1271,7 +1267,6 @@ Yup, all thanks to Kirara.
 
 **Wanderer:** These records should cover most of what you want to know, including the identities of the other two Goddesses. Read them for yourselves.
 
-#### Scene
 
 **"M":** "...By all rights, I should have been 'A,' since 'A' is the first and last letter of my name. But Alice overruled me on the basis of seniority, and said I would be 'M' instead, because of my middle name. Haha, she really knows how to push my buttons..."
 
@@ -1285,7 +1280,6 @@ Yup, all thanks to Kirara.
 
 **"M":** "...Apparently, she wants to build a statue of herself in the capital city!? Haha, always looking to add some pizzazz."
 
-#### Scene
 
 **"M":** "My dear sisters, I fear my pen shall soon run dry... Even now as I write this letter to you, my dexterity is all but failing me. Thank you for enjoying my stories, and for creating this world for me..."
 
@@ -1683,7 +1677,6 @@ Why did you send us here?
 
 **娜维娅:** 嗯，确保万无一失再前进吧。
 
-#### 场景
 
 没什么了，出发吧。
 
@@ -1985,7 +1978,6 @@ Why did you send us here?
 
 **流浪者:** 很多事情都写在这里了，包括其他两位女神的身份，你们自己翻吧。
 
-#### 场景
 
 **魔女M:** 「…明明我名字两头也都是A，但艾莉丝说先来后到，硬是从我中间名里取了个M。哈哈，还真是受不了她。」
 
@@ -1999,7 +1991,6 @@ Why did you send us here?
 
 **魔女M:** 「…听说她要在王城建一座自己的雕像？哈哈，她还是那么爱赶时髦。」
 
-#### 场景
 
 **魔女M:** 「亲爱的姐妹们，我有些写不动了，就连给你们写信的手都有些不听使唤…谢谢你们喜欢我的故事，为我创造了这个世界…」
 

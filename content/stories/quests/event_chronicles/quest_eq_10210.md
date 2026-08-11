@@ -26,7 +26,6 @@
 
 Вы получили письмо с просьбой о помощи от Повелителей Ночного Ветра за подписью Оророна. Что же случилось?
 
-#### Сцена
 
 **Оророн:** Путешественник наверняка что-нибудь придумает...
 
@@ -394,7 +393,6 @@
 
 You receive a letter from the Masters of the Night-Wind asking for your help, signed by Ororon. Just what could have happened...
 
-#### Scene
 
 **Ororon:** Once Traveler shows up, everything will get better...
 
@@ -762,7 +760,6 @@ What's the other approach?
 
 收到了一封来自烟谜主的求救信，署名是欧洛伦，发生什么事了呢…
 
-#### 场景
 
 **欧洛伦:** 只要旅行者出现，一切就会好起来…
 

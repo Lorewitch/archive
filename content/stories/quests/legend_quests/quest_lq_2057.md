@@ -704,7 +704,6 @@
 
 **Муалани:** Отлично! Теперь давайте попробуем ещё раз!
 
-#### Сцена
 
 **Вирамдра:** Почему нам попросту не прогнать кохолазавров?
 
@@ -1200,7 +1199,6 @@
 
 **Вирамдра:** Я понял... Я понял!
 
-#### Сцена
 
 **Карья:** Как успокоить Вирамдру?
 
@@ -1286,7 +1284,6 @@
 
 **Паймон:** Хорошо, а мы разберёмся с делами здесь!
 
-#### Сцена
 
 **Вирамдра:** Я понял... Я понял!
 
@@ -1580,7 +1577,6 @@
 
 **Муалани:** Гм... Путешественник, я хочу вам показать ещё одно место. Идём!
 
-#### Сцена
 
 **Муалани:** Вот это место. Я разузнала, что если сделать здесь совместное фото, снизойдёт удача. Уверена, так и будет!
 
@@ -1612,7 +1608,6 @@
 
 **Муалани:** Три, два, один... кохолазавр!
 
-#### Сцена
 
 **Паймон:** Что это за свет?
 
@@ -2304,7 +2299,6 @@ She is a professional guide, after all.
 
 **Mualani:** Perfect! Okay, let's try to make our way through again!
 
-#### Scene
 
 **Viramdra:** Why can't we just chase the Koholasaurs away?
 
@@ -2800,7 +2794,6 @@ You finally determine the mysterious island's location, but whether or not you'l
 
 **Viramdra:** I've got it... I've got it!
 
-#### Scene
 
 **Karya:** How can I get Viramdra to stop running off?
 
@@ -2886,7 +2879,6 @@ You finally determine the mysterious island's location, but whether or not you'l
 
 **Paimon:** ...Okay, then we'll take care of things here!
 
-#### Scene
 
 **Viramdra:** I've got it... I've got it!
 
@@ -3180,7 +3172,6 @@ It's time to say goodbye.
 
 **Mualani:** Yeah, but I have one more place I want to show you. Come with me!
 
-#### Scene
 
 **Mualani:** This is the place. From what I've heard, if we take a group photo here, it'll bring us good luck. I'm sure of it!
 
@@ -3212,7 +3203,6 @@ No, I get it.
 
 **Mualani:** Three... two... one... Koholasaur!
 
-#### Scene
 
 **Paimon:** Whoa, what's that light?
 
@@ -3904,7 +3894,6 @@ No, I get it.
 
 **玛拉妮:** 完美，我们再去试一下吧！
 
-#### 场景
 
 **维兰德:** 直接驱赶那些鳍游龙不就好了？
 
@@ -4400,7 +4389,6 @@ No, I get it.
 
 **维兰德:** 我明白了…我明白了！
 
-#### 场景
 
 **卡嘉:** 要怎么才能让前辈冷静下来呢？
 
@@ -4486,7 +4474,6 @@ No, I get it.
 
 **派蒙:** …这里就交给我们了！
 
-#### 场景
 
 **维兰德:** 我明白了…我明白了！
 
@@ -4780,7 +4767,6 @@ No, I get it.
 
 **玛拉妮:** 嗯…旅行者，我还有个地方想带你们去，一起来！
 
-#### 场景
 
 **玛拉妮:** 就是这里了，我找人算过，只要在这里合照，就能换来好运，很灵的！
 
@@ -4812,7 +4798,6 @@ No, I get it.
 
 **玛拉妮:** 一二三，鳍游龙！
 
-#### 场景
 
 **派蒙:** 哇！那是什么光？
 

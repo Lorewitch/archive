@@ -26,7 +26,6 @@
 
 Вы встречаете человека в клетке за городом...
 
-#### Сцена
 
 **Хавишам:** Привет, братишка / сестричка!
 
@@ -120,7 +119,6 @@
 
 **Паймон:** Что же происходит на самом деле?! Они пошли на восток... Может, нам проследить за ними?
 
-#### Сцена
 
 **Паймон:** Вон они! Давай тайком проследим.
 
@@ -524,7 +522,6 @@ The Treasure Hoarders free the redhead from his cage, and the three of them head
 
 **Paimon:** Ah! Paimon's dying to know what's going on! They just headed east. Why don't we follow them?
 
-#### Scene
 
 **Paimon:** There they are! Let's find a place to hide and observe.
 
@@ -928,7 +925,6 @@ I'm sure you have your reasons.
 
 **派蒙:** 好在意到底是怎么回事！他们刚才往东边去了…不如我们跟上去看看吧？
 
-#### 场景
 
 **派蒙:** 看到他们了！我们先躲起来观察一下情况吧。
 

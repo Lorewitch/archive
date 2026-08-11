@@ -288,7 +288,6 @@
 
 **Каулу:** Время не ждёт! Мы должны прибыть туда до захода солнца.
 
-#### Сцена
 
 **Каулу:** Если верить откровению, мы на месте!
 
@@ -400,7 +399,6 @@
 
 **Паймон:** Не за что! Пока!
 
-#### Сцена
 
 **Паймон:** Наверное, вождя Народа Родников нужно искать здесь?
 
@@ -688,7 +686,6 @@ It wouldn't hurt to gather some more evidence.
 
 **Kaulu:** Anyway, there's no time to lose. We need to get there before sunset.
 
-#### Scene
 
 **Kaulu:** According to Ata's insights, this is the place. We're here!
 
@@ -800,7 +797,6 @@ It wouldn't hurt to gather some more evidence.
 
 **Paimon:** Okay, bye-bye!
 
-#### Scene
 
 **Paimon:** Is this where the chief of the People of the Springs should be?
 
@@ -1088,7 +1084,6 @@ It wouldn't hurt to gather some more evidence.
 
 **卡乌鲁:** 事不宜迟，我们需要在日落前到达那里。
 
-#### 场景
 
 **卡乌鲁:** 根据启示，目的地已在脚下！
 
@@ -1200,7 +1195,6 @@ It wouldn't hurt to gather some more evidence.
 
 **派蒙:** 嗯！再见！
 
-#### 场景
 
 **派蒙:** 「流泉之众」的首领应该在这里吧？
 

@@ -320,7 +320,6 @@
 
 Во время поисков воображаемого друга, Айлин попросила вас найти искателя приключений Джека в храме Льва. Похоже, что он путешествует вместе со Стэнли, легендой Гильдии искателей приключений.
 
-#### Сцена
 
 **Стэнли:** Фух... Фух...
 
@@ -360,7 +359,6 @@
 
 **Венти:** Единогласно... Тогда двигаемся вперёд.
 
-#### Сцена
 
 **Венти:** Путешественник, мне кажется, я кое-что понял.
 
@@ -562,13 +560,11 @@
 
 **Паймон:** Ой. Похоже, ему это не понравилось.
 
-#### Сцена
 
 **Хиличурл:** Muhe vin plata? Mani ye! Mani dada!
 
 **Паймон:** Получилось! Он отдал нам щит!
 
-#### Сцена
 
 **Хиличурл:** Yaya ika! Kundala ye plata!
 
@@ -650,7 +646,6 @@
 
 **Дилюк:** Но я уверен, что память о нём не выветрится с улиц Мондштадта.
 
-#### Сцена
 
 **Стэнли:** Скажи мне, Стэнли... Скажи, что же мне делать...
 
@@ -1154,7 +1149,6 @@ Temple of the Lion? Sure, I miss that place!
 
 While investigating imaginary friends with Venti, Ellin asked you to search for the adventurer Jack within the Temple of the Lion. It seems he is traveling together with the legendary adventurer, Stanley.
 
-#### Scene
 
 **Stanley:** *panting*
 
@@ -1194,7 +1188,6 @@ While investigating imaginary friends with Venti, Ellin asked you to search for 
 
 **Venti:** Okay, motion passed by unanimous consent! Let's head further in.
 
-#### Scene
 
 **Venti:** Traveler, I believe I have made a small discovery.
 
@@ -1396,13 +1389,11 @@ Jack wants to search for Stanley's old weapons in secret, as they are the sword 
 
 **Paimon:** Uh-oh... He did not seem to appreciate that.
 
-#### Scene
 
 **Hilichurl:** Muhe vin plata? Mani ye! Mani dada!
 
 **Paimon:** Oh yeah! He actually gave us the shield!
 
-#### Scene
 
 **Hilichurl:** Yaya ika! Kundala ye plata!
 
@@ -1484,7 +1475,6 @@ Jack returns home satisfied after a round of adventure. But Venti finds Stanley'
 
 **Diluc:** But I for one am confident that the people of Mondstadt will not forget his friend's story.
 
-#### Scene
 
 **Stanley:** Tell me, Stanley... Tell me what should I do...?
 
@@ -1988,7 +1978,6 @@ I'm listening.
 
 与温迪一同调查「幻想朋友」时，你受艾琳之托，前往南风之狮的庙宇，寻找冒险家杰克。据说他正与传奇大冒险家斯坦利结伴同行。
 
-#### 场景
 
 **斯坦利:** 呼…呼…
 
@@ -2028,7 +2017,6 @@ I'm listening.
 
 **温迪:** 全票通过，那就继续前进咯。
 
-#### 场景
 
 **温迪:** 旅行者，我有一个小小的发现。
 
@@ -2230,13 +2218,11 @@ I'm listening.
 
 **派蒙:** 呃…它好像不太开心的样子。
 
-#### 场景
 
 **丘丘人:** Muhe vin plata? Mani ye! Mani dada!
 
 **派蒙:** 好耶！它把「光耀意志之盾」递过来了！
 
-#### 场景
 
 **丘丘人:** Yaya ika! Kundala ye plata!
 
@@ -2318,7 +2304,6 @@ I'm listening.
 
 **迪卢克:** 但那位朋友的故事，想必不会在蒙德被人忘却吧。
 
-#### 场景
 
 **斯坦利:** 斯坦利…告诉我，我该怎么办…
 

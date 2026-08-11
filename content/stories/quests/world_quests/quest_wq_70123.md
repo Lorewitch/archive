@@ -26,7 +26,6 @@
 
 Джоэль попросил вас помочь отыскать в горах его отца, который отправился на поиски приключений и до сих пор не вернулся...
 
-#### Сцена
 
 **Джоэль:** Где же папа?..
 
@@ -134,7 +133,6 @@
 
 Joel asks you to ahead into the mountain to look for his father, who has yet to return from an adventure of his own...
 
-#### Scene
 
 **Joel:** Where has Daddy gone...
 
@@ -242,7 +240,6 @@ I suppose he made it down safely...
 
 乔尔拜托你前往雪山，寻找自己进入雪山中探险至今未归的父亲…
 
-#### 场景
 
 **乔尔:** 爸爸到底去哪了……
 

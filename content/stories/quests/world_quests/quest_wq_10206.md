@@ -26,7 +26,6 @@
 
 В глубине пылающих руин вы встречаете девушку...
 
-#### Сцена
 
 **Чикиа:** Этот здоровяк ведь не собирается вдруг ожить...
 
@@ -786,11 +785,9 @@
 
 **Чикиа:** Ох, ещё немного, и боль в спине утихнет... И тогда мы сможем вместе отправиться в верхние миры.
 
-#### Сцена
 
 **«Духовная дверь»:** «Если хочешь открыть этот путь, отыщи три символа открытия».
 
-#### Сцена
 
 **Чикиа:** Ну что, Путешественник? Ты нашёл / нашла нужный нам ключ? Не волнуйся, спешить некуда. На стенах могут быть подсказки.
 
@@ -1049,7 +1046,6 @@
 
 In the depths of some searing ruins, you meet a young woman...
 
-#### Scene
 
 **Chikya:** That big lunk isn't going to start getting up, is it...
 
@@ -1809,11 +1805,9 @@ Has it always been that way?
 
 **Chikya:** *sigh* Alright, just a bit longer, and the pain in my back should subside... And then we can head to the Upper Sanctum together.
 
-#### Scene
 
 **"Spiritdoor":** "If you wish to open this path, seek three Unveiling Scripts."
 
-#### Scene
 
 **Chikya:** Well, Traveler? Did you find the key text we need? Don't worry, there's no rush. The walls around us might help you find something.
 
@@ -2072,7 +2066,6 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 在灼热的遗迹深处，遇到了一位年轻的女性…
 
-#### 场景
 
 **奇科娅:** 那个大家伙，不会突然动起来吧…
 
@@ -2832,11 +2825,9 @@ As the earth trembles, the giant rock on the ground reveals its true form...*
 
 **奇科娅:** 哎，再稍等一下…再稍等一下，背部的痛苦应该，很快就能够缓解了…到时候我们再一起到「浮土静界」上去吧。
 
-#### 场景
 
 **「灵道刻印门」:** 「如欲开此道，便寻三重揭录文。」
 
-#### 场景
 
 **奇科娅:** 怎么了，旅行者少年 / 少女，找得到钥文吗？这种时候不要心急，耐心地搜寻周围的墙壁就能有所收获。
 

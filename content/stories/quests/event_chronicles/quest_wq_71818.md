@@ -26,7 +26,6 @@
 
 Мисс Бай из деревни Цинцэ занята приготовлениями...
 
-#### Сцена
 
 **Мисс Бай:** Надеюсь, ему этот фонарик понравится...
 
@@ -180,7 +179,6 @@
 
 Ms. Bai from Qingce Village seems to be making some preparations...
 
-#### Scene
 
 **Ms. Bai:** I hope he'll like that Xiao Lantern...
 
@@ -334,7 +332,6 @@ Not at all.
 
 轻策庄的小白似乎正为某事而做着准备…
 
-#### 场景
 
 **小白:** 希望江城爷爷能喜欢那盏霄灯…
 

@@ -26,7 +26,6 @@
 
 Помогите Му Нину выполнить задание зала Хуэйшань и найти староцветы, разбросанные на верхнем уровне Разлома...
 
-#### Сцена
 
 **Му Нин:** Староцвет... Эх... За годы работы в Разломе я его не встречал. Что вообще в головах у господ из зала Хуэйшань?
 
@@ -318,7 +317,6 @@
 
 Help Muning to complete Huishan Hall's bounty and find Archaic Stone distributed throughout The Chasm's upper levels...
 
-#### Scene
 
 **Muning:** Archaic Stone... *sigh* In all the years I've worked in The Chasm, I've barely seen even one. What are the big shots at Huishan Hall thinking...
 
@@ -610,7 +608,6 @@ I believe I'm the one who did the job for you this time...
 
 帮助沐宁完成辉山厅的悬赏，找到分布在层岩巨渊上层的「老石」…
 
-#### 场景
 
 **沐宁:** 「老石」…唉，「老石」，我在层岩巨渊这么多年都没怎么见到过，辉山厅的那些大人们啊…
 

@@ -26,7 +26,6 @@
 
 Похоже, некий торговый караван попал в беду на пути к вулкану...
 
-#### Сцена
 
 **Тизло:** Эй! Да, я к тебе обращаюсь! Там опасно! Заходи сюда!
 
@@ -46,7 +45,6 @@
 
 **Тизло:** Ты... Эх, ладно. Береги себя.
 
-#### Сцена
 
 (Раненый татанказавр выглядит измученным.)
 
@@ -58,7 +56,6 @@
 
 **Абени:** С-спасибо...
 
-#### Сцена
 
 **Зашари:** Фух...
 
@@ -70,7 +67,6 @@
 
 **Зашари:** Ага... спасибо...
 
-#### Сцена
 
 **Масоз:** Эй, ты! Ничего не трогай! Это всё наше! Брать нельзя! Предупреждаю: я без пяти минут участник Войны ночных дозорных.
 
@@ -104,7 +100,6 @@
 
 **Паймон:** Мы всё сделаем, не беспокойтесь!
 
-#### Сцена
 
 Уйти
 
@@ -194,7 +189,6 @@
 
 A merchant caravan seems to have met with some mishap on the path to the volcano...
 
-#### Scene
 
 **Tizlo:** Hey! You, yeah, I'm talking to you! It's dangerous out there, get inside, quick!
 
@@ -214,7 +208,6 @@ A merchant caravan seems to have met with some mishap on the path to the volcano
 
 **Tizlo:** You... *sigh*... alright, just be careful out there...
 
-#### Scene
 
 (The injured Tatankasaurs look extremely exhausted.)
 
@@ -226,7 +219,6 @@ Share Phlogiston.
 
 **Abeni:** Th—Thank you...
 
-#### Scene
 
 **Zashari:** *panting*
 
@@ -238,7 +230,6 @@ Share Phlogiston.
 
 **Zashari:** Um, th—thanks for your concern...
 
-#### Scene
 
 **Masose:** Hey, you over there! St—Stop! This stuff is ours! Hands off! I'm warning you...! I—I could totally qualify for the Night Warden Wars!
 
@@ -272,7 +263,6 @@ Share Phlogiston.
 
 **Paimon:** Oh, that's easy enough. Leave it to us!
 
-#### Scene
 
 Leave.
 
@@ -362,7 +352,6 @@ With your help, the people from the caravan gradually gather around.
 
 火山的道路中，似乎有一队商队遇到了麻烦…
 
-#### 场景
 
 **蒂兹洛:** 喂！你，对就是你，外面危险，快进来！
 
@@ -382,7 +371,6 @@ With your help, the people from the caravan gradually gather around.
 
 **蒂兹洛:** 你，唉…好吧，那你路上小心…
 
-#### 场景
 
 （受伤了的突角龙，看起来非常的疲惫。）
 
@@ -394,7 +382,6 @@ With your help, the people from the caravan gradually gather around.
 
 **阿宾:** 多、多谢…
 
-#### 场景
 
 **扎什:** 吁吁——
 
@@ -406,7 +393,6 @@ With your help, the people from the caravan gradually gather around.
 
 **扎什:** 嗯，谢、谢谢关心…
 
-#### 场景
 
 **马索瑟:** 那边的，住、住手！这些都是我们的！不许动！告诉你，我、我可是能参加「巡夜者战争」的！
 
@@ -440,7 +426,6 @@ With your help, the people from the caravan gradually gather around.
 
 **派蒙:** 这个简单，就交给我们吧！
 
-#### 场景
 
 离开。
 

@@ -458,7 +458,6 @@
 
 **Эндзё:** Я почти всё здесь осмотрел, но не нашёл того, что искал, поэтому пойду вперёд и буду ждать вас там.
 
-#### Сцена
 
 **Эндзё:** В Бякуякоку существует традиция поклонения треугольникам.
 
@@ -528,7 +527,6 @@
 
 **Паймон:** Ой... Как-то страшно.
 
-#### Сцена
 
 **Эндзё:** Ты (нашла)(нашёл) все фрагменты?
 
@@ -762,7 +760,6 @@
 
 **Эндзё:** Позже люди создали высокие башни, чтобы укрепить Мир людей между ними. Так возникло стабильное пространство, удерживаемое тремя башнями, стоящими в трёх углах.
 
-#### Сцена
 
 **Ару:** «Ватацуми объявляется виновным в четырёх грехах сквернословия и восьми грехах притеснения живых душ.
 
@@ -964,7 +961,6 @@
 
 **Паймон:** Наконец-то что-то похожее на остатки цивилизации. Давай рассмотрим.
 
-#### Сцена
 
 **Паймон:** Пять символов на этой большой двери - это знаки-ключи.
 
@@ -1422,7 +1418,6 @@ The Bathysmal Vishaps?
 
 **Enjou:** I'm almost done with my own investigations here. I haven't found what I'm looking for, though, so I'll go on ahead to wait for you.
 
-#### Scene
 
 **Enjou:** Byakuyakoku has a tradition of triangle worship.
 
@@ -1492,7 +1487,6 @@ The Bathysmal Vishaps?
 
 **Paimon:** Uh... That's kinda scary.
 
-#### Scene
 
 **Enjou:** Have you found all the fragments?
 
@@ -1726,7 +1720,6 @@ No problem. We've faced loads of tricky puzzles before...
 
 **Enjou:** Humans would create high towers in later years to allow the Human Realm to interpose itself between the two, thus creating a stable space — one held up by three towers in three corners.
 
-#### Scene
 
 **Aru:** "Watatsumi is pronounced guilty of the following sins: four counts of the sin of profanity, and a further eight counts for the sin of deceiving living souls."
 
@@ -1928,7 +1921,6 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 **Paimon:** Phew, it sure took a while before we saw anything resembling civilization. Let's get closer and have a look.
 
-#### Scene
 
 **Paimon:** The five symbols on this big door must be the Key Sigils.
 
@@ -2386,7 +2378,6 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 **渊上:** 我在这里也调查得差不多了，并没有我想要的东西。所以我先去那里等你了。
 
-#### 场景
 
 **渊上:** 白夜国有着三角崇拜的传统。
 
@@ -2456,7 +2447,6 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 **派蒙:** 呜啊，好可怕。
 
-#### 场景
 
 **渊上:** 你已经把所有的碎片都找到了吗？
 
@@ -2690,7 +2680,6 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 **渊上:** 随后人们建造了高塔，让人界介入其中。三角三塔撑起了一个稳定的空间。
 
-#### 场景
 
 **亚琉:** 「于此罪海祇，有渎身名等四罪，复有欺生灵之八罪。」
 
@@ -2892,7 +2881,6 @@ After passing through The Moon-Bathed Deep, you come to a land that is foreign t
 
 **派蒙:** 哦哦，走了这么久，终于有个像是文明遗迹的东西了。我们靠近看看吧。
 
-#### 场景
 
 **派蒙:** 这个大门上的五个符文，似乎就是「键纹」的样式啊。
 

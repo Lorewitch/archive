@@ -26,7 +26,6 @@
 
 В окрестностях Пирамиды вам встретилось несколько ратников...
 
-#### Сцена
 
 **Иллуги:** О, Литейщик факелов, озаряющий ночь пограничных земель! Мы, Светоносцы, клянёмся...
 
@@ -50,7 +49,6 @@
 
 **Ратники:** Так точно, командир!
 
-#### Сцена
 
 **Паймон:** Паймон впервые видит, чтобы так много ратников собиралось и отправлялось в путь. Похоже, дело действительно серьёзное...
 
@@ -128,7 +126,6 @@
 
 **Никита:** Вы его уже видели: это тот самый юноша, который возглавляет отряд. Реликвия сейчас очень нужна ему.
 
-#### Сцена
 
 **Анлейв:** Да чтоб тебя! Эта развалюха опять встала как вкопанная!
 
@@ -380,7 +377,6 @@
 
 Со стороны башни доносится таинственный зов...
 
-#### Сцена
 
 **Влайку:** В эти места пришла Дикая Охота. Мы контролируем ситуацию, но вам ради вашей же безопасности лучше держаться отсюда подальше.
 
@@ -942,7 +938,6 @@
 
 **Алия:** Что ж, пора отправить вас обратно.
 
-#### Сцена
 
 **Иллуги:** Кристальное ядро барьера поручаю вам. Аэдон, ты должен защищать их вместо меня.
 
@@ -1030,7 +1025,6 @@
 
 You meet a few Ratniki near Piramida...
 
-#### Scene
 
 **Illuga:** O Torchforger who illuminates the darkness on the borderlands, we Lightkeepers pledge here and now...
 
@@ -1054,7 +1048,6 @@ You meet a few Ratniki near Piramida...
 
 **Ratniki:** Yes, Captain!
 
-#### Scene
 
 **Paimon:** Paimon's never seen so many Ratniki gathering and heading out before. This must be real serious business...
 
@@ -1132,7 +1125,6 @@ Let's find a way to pitch in.
 
 **Nikita:** You've already seen him. He's the young leader of that force, and thus, and the one who needs this relic most right now...
 
-#### Scene
 
 **Anleifr:** Are you serious? This damn vehicle's stopped moving again!
 
@@ -1384,7 +1376,6 @@ We'll meet again someday for sure.
 
 You find a mysterious summons coming from the high tower...
 
-#### Scene
 
 **Vlaicu:** There've been Wild Hunt sightings here. We're on the case, but you should keep your distance for your own safety.
 
@@ -1946,7 +1937,6 @@ What if we clear the corruption from the tower?
 
 **Alia:** ...All right. It's time I sent you back.
 
-#### Scene
 
 **Illuga:** I'll leave the barrier core over there in your care. Aedon, make sure you keep them safe and sound.
 
@@ -2034,7 +2024,6 @@ Lead us to victory, Captain!
 
 在皮拉米达城附近遇到了几个执灯士…
 
-#### 场景
 
 **叶洛亚:** 为边地照亮黑夜的铸灯者啊，吾等执灯人在此宣誓…
 
@@ -2058,7 +2047,6 @@ Lead us to victory, Captain!
 
 **执灯士众人:** 是！队长！
 
-#### 场景
 
 **派蒙:** 这么多执灯士集结出发的场景，我还是第一次见。看来事情真的很严重…
 
@@ -2136,7 +2124,6 @@ Lead us to victory, Captain!
 
 **尼基塔:** 你们刚才已经见过他了，那个带队的少年就是了，他才是目前最需要这件圣物的人…
 
-#### 场景
 
 **安莱夫:** 真够见鬼的，这破车怎么又停着不动了！
 
@@ -2388,7 +2375,6 @@ Lead us to victory, Captain!
 
 「高塔」上传来了神秘的召唤…
 
-#### 场景
 
 **弗莱库:** 这一带有狂猎出没，我们正在处理，为了你自己的安全，最好不要在附近游荡。
 
@@ -2950,7 +2936,6 @@ Lead us to victory, Captain!
 
 **爱莉厄:** 好了，该送你们回去了。
 
-#### 场景
 
 **叶洛亚:** 那边的结界晶核就拜托两位了。阿咚，你要替我保护好他们 / 她们两位。
 

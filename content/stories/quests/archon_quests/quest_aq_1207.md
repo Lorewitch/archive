@@ -870,7 +870,6 @@
 
 **Паймон:** Скорее! Паймон не терпится выбраться отсюда.
 
-#### Сцена
 
 **Аратаки Итто:** Уси, тебе не кажется, что эта наша фиалковая дынька уснула? Видит ли она сны?
 
@@ -1160,7 +1159,6 @@
 
 (Это... Бездна?!)
 
-#### Сцена
 
 **Янь Фэй:** Голос становится всё отчётливее. Должно быть, он доносится отсюда.
 
@@ -1264,7 +1262,6 @@
 
 (Якса, который всегда настороже, тоже может видеть сны?)
 
-#### Сцена
 
 **Е Лань:** Мм, здесь и правда творится что-то странное.
 
@@ -1594,7 +1591,6 @@
 
 **Янь Фэй:** Голос доносится из этой иллюзии. Давай войдём и проверим.
 
-#### Сцена
 
 **Янь Фэй:** ...
 
@@ -2040,7 +2036,6 @@
 
 **Янь Фэй:** Больно знакомо они выглядят... Точно, я ведь уже встречала их несколько дней назад.
 
-#### Сцена
 
 Как тебе такое?!
 
@@ -3784,7 +3779,6 @@ Yeah, thanks to Yelan.
 
 **Paimon:** Right behind ya! Paimon can't wait to get out of this place!
 
-#### Scene
 
 **Arataki Itto:** Hey, Ushi, looks like our little Lavender Melon has fallen asleep, huh? Do ya think she's dreaming?
 
@@ -4074,7 +4068,6 @@ Do you have any phobias, Yanfei?
 
 (Is this... the Abyss!?)
 
-#### Scene
 
 **Yanfei:** The voice is much clearer now. We're close.
 
@@ -4178,7 +4171,6 @@ Thank you.
 
 (Is a yaksha who never lowers his guard capable of having dreams?)
 
-#### Scene
 
 **Yelan:** Hmm... As expected, something strange is going on here.
 
@@ -4508,7 +4500,6 @@ That's why we were interrupted?
 
 **Yanfei:** The sound came from behind this illusion. Let's go in and take a look.
 
-#### Scene
 
 **Yanfei:** ...
 
@@ -4954,7 +4945,6 @@ What are Treasure Hoarders doing here?
 
 **Yanfei:** They look familiar... Oh, yeah, I bumped into these rapscallions a few days ago.
 
-#### Scene
 
 Have a taste of this!
 
@@ -6698,7 +6688,6 @@ No, Xiao... They are all heroes.
 
 **派蒙:** 快走快走，我已经迫不及待要逃出去了。
 
-#### 场景
 
 **荒泷一斗:** 阿丑，你说这矮堇瓜是不是睡着了？会做什么梦啊？
 
@@ -6988,7 +6977,6 @@ No, Xiao... They are all heroes.
 
 （这是…深渊？！）
 
-#### 场景
 
 **烟绯:** 声音越来越清晰了，应该就在这一带。
 
@@ -7092,7 +7080,6 @@ No, Xiao... They are all heroes.
 
 （从未松懈过的夜叉，也会做梦吗？）
 
-#### 场景
 
 **夜兰:** 唔…果然没那么简单。
 
@@ -7422,7 +7409,6 @@ No, Xiao... They are all heroes.
 
 **烟绯:** 声音是从这片幻象后传来的，我们进去看看。
 
-#### 场景
 
 **烟绯:** ……
 
@@ -7868,7 +7854,6 @@ No, Xiao... They are all heroes.
 
 **烟绯:** 总觉得好眼熟…啊对，不就是我前几天遇到的打手嘛。
 
-#### 场景
 
 尝尝这招！
 

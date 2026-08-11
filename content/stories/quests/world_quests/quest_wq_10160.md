@@ -26,7 +26,6 @@
 
 У приёмной зоны крепости Меропид вы встречаете странного человека...
 
-#### Сцена
 
 **Странный человек:** Эй, юноша / барышня! Да-да, ты! Иди сюда, давай, скорее!
 
@@ -152,7 +151,6 @@
 
 You meet a strange person near the Fortress of Meropide's reception area...
 
-#### Scene
 
 **Strange Person:** Excuse me, young lad / lass over there, yes, yes, you! You there, come, come on over!
 
@@ -278,7 +276,6 @@ The strange person was escorted away by the guard...
 
 在梅洛彼得堡的接待处，你们遇见了一个奇怪的人…
 
-#### 场景
 
 **奇怪的人:** 那边的小哥 / 小妹，对对，就是你，就是你，来来来。
 

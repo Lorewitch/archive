@@ -198,7 +198,6 @@
 
 **Навия:** И потом, я глава Спина-ди-Росула. Мне нельзя падать духом.
 
-#### Сцена
 
 **Навия:** Ого, да это же (мои дорогие напарницы)(мои дорогие напарники)!
 
@@ -1596,7 +1595,6 @@ Spina di Rosula was one of the main sponsors for the construction, right?
 
 **Navia:** Besides, I'm the President of Spina di Rosula. I've got to keep my chin up.
 
-#### Scene
 
 **Navia:** Well, if it isn't my dear partners!
 
@@ -2994,7 +2992,6 @@ I will also always believe in the bond between us.
 
 **娜维娅:** 而且我可是刺玫会的会长啊，最不能垂头丧气的那一个。
 
-#### 场景
 
 **娜维娅:** 喂，旅行者，我的好搭档，还有派蒙！
 

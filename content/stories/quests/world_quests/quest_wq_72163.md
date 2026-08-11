@@ -26,7 +26,6 @@
 
 На острове Сэйрай вы выкопали странное изображение...
 
-#### Сцена
 
 **Ода Таро:** Ты уже здесь? Ну как? Удалось сделать снимки?
 
@@ -164,7 +163,6 @@
 
 You uncover a strange picture on Seirai Island...
 
-#### Scene
 
 **Oda Tarou:** You're back. How's it going? Did you manage to get those pictures?
 
@@ -302,7 +300,6 @@ So why do you want to go back?
 
 在清籁岛上，你挖掘出了一张奇怪的画片…
 
-#### 场景
 
 **太田太郎:** 你回来了，怎么样？你记录到画片了吗？
 

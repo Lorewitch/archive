@@ -1490,7 +1490,6 @@
 
 **Кинич:** Не могу поверить, что здесь появились Врата Бездны... Надо срочно действовать.
 
-#### Сцена
 
 **Паймон:** Ч-что это?..
 
@@ -4158,7 +4157,6 @@ It's an Abyssal Pylon!
 
 **Kinich:** An Abyssal Pylon, here... That's not good news. We need to deal with it, now.
 
-#### Scene
 
 **Paimon:** Wh—What was that?
 
@@ -6826,7 +6824,6 @@ You'll need to stay behind.
 
 **基尼奇:** 居然出现在这种地方，我们必须赶紧解决。
 
-#### 场景
 
 **派蒙:** 那、那是什么…
 

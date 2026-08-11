@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** Хотя... это уж слишком невероятно.
 
@@ -124,7 +123,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** This is... quite incredible...
 
@@ -222,7 +220,6 @@ What do the two have in common, again?
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 还真是…不可思议哪…
 

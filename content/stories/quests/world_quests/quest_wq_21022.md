@@ -30,7 +30,6 @@
 
 **Сорайя:** Ли Юэ хранит в себе множество тайн...
 
-#### Сцена
 
 **Сорайя:** Ах, сколько легенд, сколько версий... Какой же из них верить?..
 
@@ -114,7 +113,6 @@ The Guili Assembly hides some sort of secret...
 
 **Soraya:** ...How many secrets does Liyue truly hold?
 
-#### Scene
 
 **Soraya:** *sigh* So many legends, so many tellings... Which of these is the truth, I wonder...
 
@@ -198,7 +196,6 @@ Two more stone tablets.
 
 **索拉雅:** …璃月，到底埋藏着多少秘密…
 
-#### 场景
 
 **索拉雅:** 唉，这么多传说，这么多说法…到底哪一个才是真的呢…
 

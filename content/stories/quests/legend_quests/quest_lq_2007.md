@@ -1,13 +1,13 @@
 # id: quest_lq_2007
 # story_group: legend_quests
-# display_category: Задание репутации · Инадзума
+# display_category: Задание Легенд · Сян Лин
 # icon: assets/icons/stories/quests/xiangling.webp
 # title_ru: Кулинарный тур по Мондштадту
 # title_en: Mondstadt Gastronomy Trip
 # title_zh: 蒙德食遇之旅
-# region: Инадзума
+# region: Мондштадт
 # game_version: 1.0
-# release_versions: 1.0,1.2
+# release_versions: 1.0
 # source_id: 2007
 # chapter_num_ru: Поварской Черпак. Глава I
 # chapter_num_en: Trulla Chapter: Act I
@@ -18,7 +18,7 @@
 # related_quests:
 # quest_chain: quest_lq_2007
 # quest_series:
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 

@@ -24,11 +24,9 @@
 
 ### Дорога в будущее
 
-#### Сцена
 
 **Манку:** Простите меня, но я уверен, что вы и так благополучно справитесь с последним испытанием и получите дар.
 
-#### Сцена
 
 **Паймон:** Манку, мы вернулись!
 
@@ -156,11 +154,9 @@
 
 ### The Road Ahead
 
-#### Scene
 
 **Manqu:** Forgive my presumption, but I am confident that you will emerge victorious from the final trial — safe and sound, and having obtained the token.
 
-#### Scene
 
 **Paimon:** Manqu, we're back!
 
@@ -288,11 +284,9 @@ Farewell!
 
 ### 将行之路
 
-#### 场景
 
 **曼科:** 恕我冒昧，但是，我相信你们一定能平安通过最终的试炼，取得信物的。
 
-#### 场景
 
 **派蒙:** 曼科，我们回来啦。
 

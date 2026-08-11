@@ -26,7 +26,6 @@
 
 После долгих поисков вы с Паймон прибываете в указанное на снимке место...
 
-#### Сцена
 
 **Паймон:** Это должно быть то самое место. Смотри, Оророн и Ифа уже здесь!
 
@@ -358,7 +357,6 @@
 
 After some searching, you and Paimon arrive at the location indicated by the picture...
 
-#### Scene
 
 **Paimon:** This should be the place from the picture. Look, Ororon and Ifa are here!
 
@@ -690,7 +688,6 @@ Happy anniversary, Cacucu!
 
 经过一番寻找，你与派蒙来到了画片所指的地点…
 
-#### 场景
 
 **派蒙:** 看来画片上的地方就是这里了，他俩都在呢！
 

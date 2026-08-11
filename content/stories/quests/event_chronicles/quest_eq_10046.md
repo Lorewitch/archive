@@ -712,7 +712,6 @@
 
 **Альбедо:** На Драконьем хребте слишком редко бывает оживлённо.
 
-#### Сцена
 
 О Драконьем хребте...
 
@@ -720,7 +719,6 @@
 
 **Альбедо:** Но я постараюсь обеспечить твою безопасность. Можешь быть уверен(а).
 
-#### Сцена
 
 Расскажи о себе...
 
@@ -734,7 +732,6 @@
 
 **Альбедо:** Поэтому я подожду, пока мои мысли прояснятся, прежде чем поделиться ими с тобой.
 
-#### Сцена
 
 О том, что сегодня произошло...
 
@@ -746,13 +743,11 @@
 
 **Альбедо:** Конечно, я рад продолжить наш разговор, если захочешь.
 
-#### Сцена
 
 Не буду больше тебя беспокоить.
 
 **Альбедо:** Это мой лагерь, но давайте не будем увязать в формальностях. Я хочу, чтобы ты мог(ла) расслабиться и чувствовать себя здесь как дома.
 
-#### Сцена
 
 **Беннет:** Агр... агр...
 
@@ -1966,7 +1961,6 @@ Paimon looks so happy. Thank you.
 
 **Albedo:** Liveliness is a rare thing here on Dragonspine.
 
-#### Scene
 
 About Dragonspine...
 
@@ -1974,7 +1968,6 @@ About Dragonspine...
 
 **Albedo:** But I will endeavor to keep you safe. That much you can trust in.
 
-#### Scene
 
 How are you holding up?
 
@@ -1988,7 +1981,6 @@ How are you holding up?
 
 **Albedo:** So I will wait till my thoughts are clear in my own head before I share them with you. Until then, please forgive me.
 
-#### Scene
 
 About what happened today...
 
@@ -2000,13 +1992,11 @@ About what happened today...
 
 **Albedo:** Of course, I'm happy to continue chatting with you if you'd like.
 
-#### Scene
 
 I'll leave you in peace.
 
 **Albedo:** This is my camp, but let's not get bogged down in technicalities. I want you to be able to relax and make yourself at home here.
 
-#### Scene
 
 **Bennett:** Zzz... zzz...
 
@@ -3220,7 +3210,6 @@ Hence the notion of "otherness."
 
 **阿贝多:** 在这座雪山上，「热闹」实在是太难得了。
 
-#### 场景
 
 关于雪山…
 
@@ -3228,7 +3217,6 @@ Hence the notion of "otherness."
 
 **阿贝多:** 但我会努力保护你的，请你相信这一点。
 
-#### 场景
 
 关于阿贝多自己…
 
@@ -3242,7 +3230,6 @@ Hence the notion of "otherness."
 
 **阿贝多:** 等我厘清自己之后，我会和你说的。这段时间里，只能请你谅解了。
 
-#### 场景
 
 关于今天发生的事…
 
@@ -3254,13 +3241,11 @@ Hence the notion of "otherness."
 
 **阿贝多:** 当然，如果你想和我多聊几句也不是不行。
 
-#### 场景
 
 先不打扰你了。
 
 **阿贝多:** 这个营地名义上是我在使用，但希望你尽管放松，不用拘束。
 
-#### 场景
 
 **班尼特:** 呼…呼…
 

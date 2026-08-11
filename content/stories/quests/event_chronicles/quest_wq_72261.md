@@ -1,6 +1,6 @@
 # id: quest_wq_72261
 # story_group: event_chronicles
-# display_category: Ивент · Eight Locales Over Mountains and Seas }}
+# display_category: Ивент · Восемь мест от гор до морей
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Восемь мест от гор до морей: Сказания янтарных утёсов
 # title_en: Eight Locales Over Mountains and Seas: The Wonders of Adeptal Amber
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_72262
 # related_quests: quest_wq_72674,quest_wq_72264,quest_wq_72675,quest_wq_72676,quest_wq_72262,quest_wq_72677,quest_wq_72678
 # quest_chain: quest_wq_72674,quest_wq_72264,quest_wq_72675,quest_wq_72676,quest_wq_72261,quest_wq_72262,quest_wq_72677,quest_wq_72678
-# quest_series: Eight Locales Over Mountains and Seas }}
+# quest_series: Eight Locales Over Mountains and Seas
 # version_source: wiki_release_category
 
 ## RU
@@ -26,7 +26,6 @@
 
 Вы ранее обещали Иорою показать Китибоси мир. А не сводить ли его в те сказочные края, где обитают Адепты? Гора Хулао стала бы отличным выбором...
 
-#### Сцена
 
 **Паймон:** Эй... Творец Гор...
 
@@ -241,7 +240,6 @@
 
 You agreed to Ioroi's request to "bring Kichiboushi out to train." You'll try taking him to see the places where the adepti live this time. Perhaps Mt. Hulao might be a decent choice...
 
-#### Scene
 
 **Paimon:** Hello— Mountain Shaper—!
 
@@ -456,7 +454,6 @@ And you're getting better at dealing with then, eh, Paimon?
 
 之前答应了五百藏「带吉法师去外面修行」的请求。这回或许可以带他去看看仙家居所的景色吧。琥牢山或许是个不错的选择…？
 
-#### 场景
 
 **派蒙:** 喂——理水叠山真君——
 

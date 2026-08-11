@@ -26,7 +26,6 @@
 
 Ланда боится срыва крупной сделки из-за потерянных накладных...
 
-#### Сцена
 
 **Бао Эр:** Выглядит бесполезно...
 
@@ -96,7 +95,6 @@
 
 **Ланда:** Мне нужно связаться с начальником как можно скорее! Прошу тебя, возвращайся к своим делам.
 
-#### Сцена
 
 **Бао Эр:** Я только одним глазком в них заглянула. У меня же не возникнет никаких проблем, да?
 
@@ -110,7 +108,6 @@
 
 Having lost the invoices to a large business venture, Landa is currently beside himself with anxiety...
 
-#### Scene
 
 **Bao'er:** This doesn't seem to have any use...
 
@@ -180,7 +177,6 @@ Found them all.
 
 **Landa:** Ahem. Well, I need to find a way to contact my boss. Please carry on with your business.
 
-#### Scene
 
 **Bao'er:** I only had a little look. That won't get me in trouble, will it?
 
@@ -194,7 +190,6 @@ Found them all.
 
 因为不慎遗失了一笔大生意的货单，兰达正在犯愁…
 
-#### 场景
 
 **宝儿:** 看起来没什么用…
 
@@ -264,7 +259,6 @@ Found them all.
 
 **兰达:** 咳！我，我得想办法和老板联系了，请您去忙自己的事吧。
 
-#### 场景
 
 **宝儿:** …只是看了一眼，应该不会惹上麻烦吧。
 

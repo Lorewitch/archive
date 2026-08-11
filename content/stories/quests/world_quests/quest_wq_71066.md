@@ -26,11 +26,9 @@
 
 Бард Талиесин просит вас о помощи. Кольцо, которое он стащил из логова хорьков-барахольщиков, опять украли хорьки...
 
-#### Сцена
 
 Но на Драконьем хребте нет озера лавы.
 
-#### Сцена
 
 **Талиесин:** Ох, ерунда какая-то. Это так странно...
 
@@ -108,11 +106,9 @@
 
 The bard Taliesin seeks your help. As it turns out, the ring that he stole from the Weasel Thieves has been stolen once again by another bunch of Weasel Thieves...
 
-#### Scene
 
 Dragonspine doesn't have a lava lake.
 
-#### Scene
 
 **Taliesin:** *sigh* This doesn't make sense. How weird.
 
@@ -190,11 +186,9 @@ I don't believe this story.
 
 吟游诗人塔列辛向你求助，原来是他从盗宝鼬窝里取得的戒指又被盗宝鼬偷走了…
 
-#### 场景
 
 龙脊雪山没什么熔岩池。
 
-#### 场景
 
 **塔列辛:** 唉…奇怪，奇怪，真是奇哉怪也…
 

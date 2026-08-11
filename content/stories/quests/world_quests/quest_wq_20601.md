@@ -66,7 +66,6 @@
 
 **Сайрус:** Это тебе. Считай, что это - твоя награда за приключение.
 
-#### Сцена
 
 **Джек:** Ты уничтожил(а) их лагерь?
 
@@ -168,7 +167,6 @@ Jack rushed in, and got hurt as a result...
 
 **Cyrus:** This is for you, consider it payment for your adventure.
 
-#### Scene
 
 **Jack:** You've cleaned them out, I suppose?
 
@@ -270,7 +268,6 @@ Yup.
 
 **塞琉斯:** 这是给你的，算是你冒险的奖励吧。
 
-#### 场景
 
 **杰克:** 你已经清理掉那个营地了吧。
 

@@ -70,7 +70,6 @@
 
 **Цзи Фан:** Если тебе понадобятся какие-нибудь книги - обращайся.
 
-#### Сцена
 
 **Цзи Фан:** О книгах...
 
@@ -130,7 +129,6 @@ Yes, I have.
 
 **Jifang:** If you should ever wish to purchase any books, feel free to approach me.
 
-#### Scene
 
 **Jifang:** So, about those two books...
 
@@ -190,7 +188,6 @@ Yes, I have.
 
 **纪芳:** 如果你以后想买书的话，尽管来找我。
 
-#### 场景
 
 **纪芳:** 关于那两本书…
 

@@ -902,7 +902,6 @@
 
 **Мадам Пин:** Тогда в путь! Только не будем торопиться, я хочу посмотреть, что происходит на улицах города.
 
-#### Сцена
 
 **Мадам Пин:** А, похоже, вы уже взялись за острые хлебцы.
 
@@ -1944,7 +1943,6 @@ Sounds good, we'll be waiting!
 
 **Madame Ping:** Off we go, then. Let's saunter over gently, and see how all the city folk are getting along.
 
-#### Scene
 
 **Madame Ping:** Ah, I see the Chili-Mince Cornbread Buns have been served.
 
@@ -2986,7 +2984,6 @@ Perhaps that is what defines Liyue.
 
 **萍姥姥:** 走吧，慢慢地走一走这条老路。到山下去，看一看城里的大家都在忙些什么。
 
-#### 场景
 
 **萍姥姥:** 看来，你们已经吃上辣肉窝窝头啦。
 

@@ -26,11 +26,9 @@
 
 Восславим его величество жир! Если хочешь стать великим воином, без жира никуда!
 
-#### Сцена
 
 Давай я попробую.
 
-#### Сцена
 
 **Сурики:** Попробуй пройти моё испытание и разбить все горшки! Вообще, это моя площадка для тренировок, но я не возражаю, если ты тоже ей воспользуешься.
 
@@ -202,11 +200,9 @@
 
 Praise the almighty fat! A fearsome warrior must pack as powerful a paunch as they do a punch!
 
-#### Scene
 
 Allow me to give it a try.
 
-#### Scene
 
 **Suriqui:** Try out the jar-smashing challenge I've constructed! I set this location up to train myself, but I wouldn't mind letting you have a go.
 
@@ -378,11 +374,9 @@ I'll need a moment to prepare.
 
 赞美伟大的脂肪！要成为伟大的战士就绝对不能抛弃脂肪！
 
-#### 场景
 
 让我试一试。
 
-#### 场景
 
 **苏里奎:** 来试试看我准备的击罐挑战吧！这片场地原本是我为了锻炼自己准备的，借你用用也没什么问题。
 

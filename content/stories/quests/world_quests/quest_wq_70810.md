@@ -112,7 +112,6 @@
 
 **Флора:** Вопрос очень простой. Одуванчик - это цветок?
 
-#### Сцена
 
 Да.
 
@@ -120,7 +119,6 @@
 
 **Флора:** Вот тебе закладка. Я сделала её из сухой ветряной астры. Таких, кроме как в Мондштадте, больше нигде нет!
 
-#### Сцена
 
 Нет.
 
@@ -218,7 +216,6 @@
 
 **Виктор:** Эх, когда же меня отправят домой?..
 
-#### Сцена
 
 (Отдать особое блюдо «Хорошего охотника»)
 
@@ -240,7 +237,6 @@
 
 **Виктор:** В том, чтобы торчать здесь дни напролёт под пристальными взглядами сестёр и рыцарей, нет ничего приятного...
 
-#### Сцена
 
 (Отдать закладку Флоры)
 
@@ -260,7 +256,6 @@
 
 **Виктор:** Но от начальства ничего не слышно. Я уж не знаю, что и думать...
 
-#### Сцена
 
 (Отдать особый напиток)
 
@@ -314,7 +309,6 @@
 
 **Виктор:** Хоть бы господа явили свою доброту и отправили меня в какое-нибудь красивое и тёплое место, чтобы я мог спокойно доживать свой век...
 
-#### Сцена
 
 **Виктор:** У тебя есть ещё диковинки?
 
@@ -410,7 +404,6 @@ Do you sell any Mondstadt specialties?
 
 **Flora:** It's a very easy question. Here goes: Is the Dandelion a flower?
 
-#### Scene
 
 Yes.
 
@@ -418,7 +411,6 @@ Yes.
 
 **Flora:** Here you go, here's your bookmark. Handmade by me from a dried Windwheel Aster. If this doesn't count as a Mondstadt specialty, I don't know what does!
 
-#### Scene
 
 No.
 
@@ -516,7 +508,6 @@ That's all.
 
 **Viktor:** *sigh* When will I get to head home?
 
-#### Scene
 
 (Give Good Hunter's Specialty Dish)
 
@@ -538,7 +529,6 @@ Tell me about Signora.
 
 **Viktor:** My daily routine consists of me standing here being glared at by the sisters and the knights. It's really starting to give me the creeps...
 
-#### Scene
 
 (Give Flora's Bookmark)
 
@@ -558,7 +548,6 @@ Are you leaving soon?
 
 **Viktor:** But I haven't heard a word from my superiors, so I don't know what to think.
 
-#### Scene
 
 (Give Specialty Beverage)
 
@@ -612,7 +601,6 @@ What do you know about the other Harbingers?
 
 **Viktor:** Please let the people above me show kindness and send me somewhere nice and warm, so that I can grow old in peace there...
 
-#### Scene
 
 **Viktor:** Any other local specialties for me, or is that the lot?
 
@@ -708,7 +696,6 @@ What do you know about the other Harbingers?
 
 **芙萝拉:** 问题很简单。请问…「蒲公英」是不是花呢？
 
-#### 场景
 
 是。
 
@@ -716,7 +703,6 @@ What do you know about the other Harbingers?
 
 **芙萝拉:** 那这枚书签就送给你啦，这可是我专门用晒干了的风车菊做的，绝对可以说得上是「蒙德城特产」啦。
 
-#### 场景
 
 不是。
 
@@ -814,7 +800,6 @@ What do you know about the other Harbingers?
 
 **维克多:** 唉，什么时候我才能回去啊…
 
-#### 场景
 
 （拿出「猎鹿人的餐品」）
 
@@ -836,7 +821,6 @@ What do you know about the other Harbingers?
 
 **维克多:** 成天在这里莫名其妙地被修女和西风骑士瞪着，我自己也不自在…
 
-#### 场景
 
 （拿出「芙萝拉的书签」）
 
@@ -856,7 +840,6 @@ What do you know about the other Harbingers?
 
 **维克多:** 但是，上面一直没命令回去，我也就只能想想…
 
-#### 场景
 
 （拿出「特色饮料」）
 
@@ -910,6 +893,5 @@ What do you know about the other Harbingers?
 
 **维克多:** 拜托上头的人发发善心，就把我分去一个气候宜人的地方，让我安安心心养老吧…
 
-#### 场景
 
 **维克多:** 还买到其他什么东西了呢？

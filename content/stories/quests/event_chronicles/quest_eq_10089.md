@@ -238,7 +238,6 @@
 
 **Каэдэхара Кадзуха:** Наверное, всё дело в том, что мой отец был окружён бонсаями с детства, но и он унаследовал это увлечение. У нас во дворе всегда было множество бонсаев.
 
-#### Сцена
 
 *Сквозь полусон вы слышите звуки разговора и голос пытающейся унять панику Паймон...*
 
@@ -358,11 +357,9 @@
 
 **Каэдэхара Хисамити:** Когда придёт это время, будь верен себе.
 
-#### Сцена
 
 **Каэдэхара Хисамити:** Слушай внимательно, Кадзуха. Клинки Каэдэхары куются не для того, чтобы причинять вред людям.
 
-#### Сцена
 
 **Каэдэхара Кагэхару:** Отец, а что вы вырезаете?
 
@@ -1070,7 +1067,6 @@ Where's Kazuha?
 
 **Kaedehara Kazuha:** Perhaps influenced by my grandfather, my father also took a liking to crafting bonsai. Back then, our courtyard was filled with all kinds of them.
 
-#### Scene
 
 *Still half-asleep, you can make out the sound of people talking. Then, you are greeted by the voice of a panicked Paimon trying to stay calm...*
 
@@ -1190,11 +1186,9 @@ What happened?
 
 **Kaedehara Hisamichi:** When that time comes, remember to always stay true to yourself.
 
-#### Scene
 
 **Kaedehara Hisamichi:** Listen carefully, Kazuha. A Kaedehara blade is not forged for the purpose of harming people.
 
-#### Scene
 
 **Kaedehara Kageharu:** Father, what are you carving?
 
@@ -1902,7 +1896,6 @@ Hmm, so you can't admit...
 
 **枫原万叶:** 或许是耳濡目染的关系，我父亲也继承了这一喜好。那些年，家里的院子里全是各色盆景。
 
-#### 场景
 
 *恍惚中，似乎听到了人的交谈声，以及派蒙大惊小怪又故作冷静的招呼声…*
 
@@ -2022,11 +2015,9 @@ Hmm, so you can't admit...
 
 **枫原久通:** 到那时，你可莫忘了本心。
 
-#### 场景
 
 **枫原久通:** 万叶，你听着。枫原家这些刀剑，绝不是为伤人而造。
 
-#### 场景
 
 **枫原景春:** 父亲，您在刻什么？
 

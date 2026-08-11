@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** Мяу... Ящик действительно работает.
 
@@ -136,7 +135,6 @@
 
 **Нэко:** Когда это время придёт, возвращайтесь. Мяу-мяу!
 
-#### Сцена
 
 **Нэко:** Мяу! Эту важную работу могу выполнить только я, сама Хибики назначила меня ответственной.
 
@@ -168,7 +166,6 @@
 
 **Нэко:** А ещё иногда приходил Домэки, брал такую железную штуку из двух половинок и делал щёлк-щёлк! И после этого листья и ветки падали.
 
-#### Сцена
 
 **Нэко:** Обязательно нужно вернуть святилище к жизни до того, как вернётся Хибики, мяу.
 
@@ -180,7 +177,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** Nya, meow... That box has proven its worth indeed...
 
@@ -290,7 +286,6 @@ Everything's spick and span.
 
 **Neko:** When that time comes, do return here to... meow, meow...
 
-#### Scene
 
 **Neko:** Meow! Yes, this work was given specifically to me by Hibiki. A vital task to be completed by no other.
 
@@ -322,7 +317,6 @@ Everything's spick and span.
 
 **Neko:** Domeki would come by at times as well, and he would use crossed metal plates to go snicker-snack! And the branches and leaves would come falling down.
 
-#### Scene
 
 **Neko:** We must... return this shrine to its former glory, yes... Meow...
 
@@ -334,7 +328,6 @@ Everything's spick and span.
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 唔喵…那个箱子果然很管用…
 
@@ -444,7 +437,6 @@ Everything's spick and span.
 
 **「寝子」:** 到时候，请汝等务必过来…喵喵…
 
-#### 场景
 
 **「寝子」:** 喵喵，这项工作可是阿响专门交付给奴家，只有奴家才能完成的重要工作呢。
 
@@ -476,7 +468,6 @@ Everything's spick and span.
 
 **「寝子」:** 百目鬼有时候也会来，用交叉的铁片咔嚓咔嚓。然后树枝和树叶就会掉下来。
 
-#### 场景
 
 **「寝子」:** 一定要…在阿响回来之前，把神社重新变热闹…喵…
 

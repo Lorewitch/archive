@@ -26,7 +26,6 @@
 
 ...Возле истоптанного цветочного поля в Мельничной Пристани стоит опечаленная женщина. Расспросив её, вы выясняете, что цветочное поле разорил лесной кабан...
 
-#### Сцена
 
 **Леопольдина:** Ох, опять... Ну почему это никак не прекратится? Наказание какое-то...
 
@@ -76,7 +75,6 @@
 
 ...Near the flower field of Millhaven, now left in disarray, you notice a woman sighing in frustration. A brief exchange reveals the cause of the chaos — a forest boar has been trampling the flowers...
 
-#### Scene
 
 **Leopoldine:** *sigh* Not again... Why does this keep happening? The field's a mess...
 
@@ -126,7 +124,6 @@ We chased it off!
 
 …在风车镇混乱的花田周围，看到了对着花田唉声叹气的女性，打听得知，原来是有一只林猪破坏了花田…
 
-#### 场景
 
 **莉奥波汀:** 唉，又是这样，怎么花田又变成这个样子…真是的…
 

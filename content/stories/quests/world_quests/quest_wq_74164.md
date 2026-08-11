@@ -24,7 +24,6 @@
 
 ### Охота за сокровищами, исполняющими желания
 
-#### Сцена
 
 **Юрвилль:** ...Чего смотришь? Не видел(а) искателей приключений?
 
@@ -106,19 +105,15 @@
 
 **Юрвилль:** ...Проклятие! Таки знайте, мы первые сюда пришли, и мы первые найдём!
 
-#### Сцена
 
 **Юрвилль:** Сокровище... где же его могли спрятать? В ящике, в шкафу или в каком-нибудь тайнике?
 
-#### Сцена
 
 **Надия:** Прости, я не помню, какое оно. Если бы я могла вспомнить, то смогла бы помочь вам.
 
-#### Сцена
 
 **Драгоценный сундук:** (Похоже, это чей-то сундук с сокровищами. Лучше не трогать...)
 
-#### Сцена
 
 **Надия:** Знаю! Глаза шаровидного осьминога сверкают каждый раз, когда он видит твою прекрасную фигуру, Юрвилль. Так зачем же тебе присоединяться ко флоту?
 
@@ -296,21 +291,17 @@
 
 **Юрвилль:** Будьте осторожны! Спасибо вам.
 
-#### Сцена
 
 **Юрвилль:** Хотите узнать, чего мы достигли? Я ни слова не скажу.
 
-#### Сцена
 
 **Надия:** Прости. Но мы не ищем сокровище, которое оставило общество «Крест и лилия».
 
-#### Сцена
 
 **Юрвилль:** Самое важное - это «дар» Надии, затем - водолазный костюм... Если только у меня будет костюм, я и сам смогу нырять. Конечно, не сказать, чтобы остальное было неважно, но...
 
 **Юрвилль:** Кошелёк... Я, я хочу заплатить вам, но у меня совсем немного денег. Должно быть, вы на эту сумму и не посмотрите...
 
-#### Сцена
 
 **Юрвилль:** Волнуюсь? Я вовсе не волнуюсь!
 
@@ -416,23 +407,19 @@
 
 **Юрвилль:** Давайте разделимся и посмотрим, нет ли здесь легендарных сокровищ.
 
-#### Сцена
 
 **Исследовать:** (Чтобы открыть ящик, пришлось приложить немало усилий, но внутри оказался лишь какой-то порошок... или пыль. Что же лежало в нём раньше? Наверное, не стоит об этом думать.)
 
-#### Сцена
 
 **Исследовать:** (Изогнув шею под каким-то немыслимым углом, с трудом удаётся разглядеть на высокой полке книги и материалы на отвлечённые темы, никак не связанные с исследованием.)
 
 **Исследовать:** (На выдвижной полке находятся пожелтевшие листы и пустые пузырьки из-под чернил.)
 
-#### Сцена
 
 **Исследовать:** (Кажется, под разложенной партитурой что-то есть...)
 
 **Паймон:** Что это? Слова трудно различить, будто писал ребёнок... Так странно... Это похоже на... Бывают ли такие совпадения?
 
-#### Сцена
 
 **Надия:** Путешественник, Паймон, вы хорошие люди, как и Юрвилль.
 
@@ -594,7 +581,6 @@
 
 ### Wish-Fulfilling Treasure Hunt
 
-#### Scene
 
 **Urville:** ...What are you looking at? Never seen an adventurer before?
 
@@ -676,19 +662,15 @@ Thank you for informing us of the situation.
 
 **Urville:** Darn... Well, even if you know, we were still here first. We'll definitely take the lead...
 
-#### Scene
 
 **Urville:** Treasure... where could it be? In a chest? In a cabinet? Or tucked away in some hidden compartment?
 
-#### Scene
 
 **Nadia:** I'm sorry, I can't remember what the treasure is. If only I could remember... then I'd be able to help out more.
 
-#### Scene
 
 **Precious Chest:** (It's a chest that looks like private property. Best not to touch it...)
 
-#### Scene
 
 **Nadia:** I see! Ball Octopuses' eyes brighten up when they see your physique. But why, then, would you join the Fleet?
 
@@ -866,21 +848,17 @@ You're suddenly quite the talker...
 
 **Urville:** Be safe! I'm counting on you then.
 
-#### Scene
 
 **Urville:** You want to check on how we're progressing? I'm not telling you a word.
 
-#### Scene
 
 **Nadia:** Sorry... but we are not looking for the treasure left behind by the Liliacruces Forum.
 
-#### Scene
 
 **Urville:** Nadia's token is the most important thing, followed by my diving set... As long as I have it, I can dive. It's not to say that everything else is not important, it's just that...
 
 **Urville:** The coin pouch... I—I do want to repay you for your troubles... But it's so little that I don't think you'd care for it...
 
-#### Scene
 
 **Urville:** Nervous? I'm hardly nervous at all!
 
@@ -986,23 +964,19 @@ You really do have quite a connection with the Melusines.
 
 **Urville:** Let's split up and see if we can find the legendary treasure.
 
-#### Scene
 
 **Investigate:** (It takes you some effort to open the chest, but inside, there is only dust and powdery remains of... whatever the chest used to hold. Better not think about it.)
 
-#### Scene
 
 **Investigate:** (By looking upwards to the point where your neck cannot bend back any further, you finally manage to make out some books that look interesting, but they have nothing to do with research whatsoever.)
 
 **Investigate:** (There are some yellowed blank sheets of paper and numerous empty ink bottles in the drawer.)
 
-#### Scene
 
 **Investigate:** (There seems to be something beneath the laid out sheet music...)
 
 **Paimon:** What is this? The handwriting is barely legible... almost like a child wrote it... How strange, what it says seems oddly familiar... Could this be a coincidence?
 
-#### Scene
 
 **Nadia:** Traveler, Paimon, you're so kind... just like Urville.
 
@@ -1164,7 +1138,6 @@ Even if you didn't get rich today, you've still gained something.
 
 ### 得偿所愿的寻宝之旅
 
-#### 场景
 
 **尤维尔:** …看什么看，没见过冒险家吗？
 
@@ -1246,19 +1219,15 @@ Even if you didn't get rich today, you've still gained something.
 
 **尤维尔:** …可恶，就算让你们知道了，我们可是先来的，一定会抢在前面…
 
-#### 场景
 
 **尤维尔:** 宝物…会藏在哪里呢？箱子里，柜子里，还是夹层里？
 
-#### 场景
 
 **纳蒂亚:** 对不起，我想不起来宝物是什么了。如果能想起来的话，就能帮上更多忙了。
 
-#### 场景
 
 **珍贵的宝箱:** （看起来像是私人财产的宝箱，还是不要动它好了…）
 
-#### 场景
 
 **纳蒂亚:** 我知道了，球球章鱼在羡慕尤维尔的体格的时候眼睛就会闪闪发亮。那尤维尔为什么要加入舰队呢？
 
@@ -1436,21 +1405,17 @@ Even if you didn't get rich today, you've still gained something.
 
 **尤维尔:** 注意安全！就拜托你们了。
 
-#### 场景
 
 **尤维尔:** 想来打探我们这边的进展？我一个字都不会说的。
 
-#### 场景
 
 **纳蒂亚:** 对不起。但是我们没有在找「十字铃兰学会」留下的宝藏。
 
-#### 场景
 
 **尤维尔:** 最重要的是纳蒂亚的信物，其次是潜水套装…只要有潜水套装，我就能自己潜水了。当然，其他东西也不是不重要，但是…
 
 **尤维尔:** 钱袋子…我、我是想给报酬的，但是就那么点，你们应该瞧不上吧…
 
-#### 场景
 
 **尤维尔:** 紧张？我一点都不紧张啊？
 
@@ -1556,23 +1521,19 @@ Even if you didn't get rich today, you've still gained something.
 
 **尤维尔:** 我们分开找找看有没有传说中的宝物吧。
 
-#### 场景
 
 **调查:** （费了一番力气打开箱子，里面只有齑粉…或者说灰尘。箱子里之前究竟装了些什么？还是不要想了…）
 
-#### 场景
 
 **调查:** （将脖子仰到几乎不能再向后弯折的角度才勉强看清，过高的书架上放了一些显然与研究无关的，颇有闲趣的读物。）
 
 **调查:** （抽屉里装了一些发黄的空白纸页，和许多空墨水瓶。）
 
-#### 场景
 
 **调查:** （摊开的乐谱之下好像有什么…）
 
 **派蒙:** 这是什么？字写得好难辨认，像小孩子写的…不过真奇怪，上面说的事看着有点像…真有这么巧的事吗？
 
-#### 场景
 
 **纳蒂亚:** 旅行者、派蒙，你们人真好，就像尤维尔一样。
 

@@ -26,7 +26,6 @@
 
 Художник по имени Вермеер ищет вдохновение на пруду Лухуа. Кажется, у него возникли проблемы.
 
-#### Сцена
 
 **Вермеер:** Что-то пошло не так... Глаза у статуй не загораются...
 
@@ -34,7 +33,6 @@
 
 **Вермеер:** Глаза... Какие глаза? У этой статуи нет никаких глаз.
 
-#### Сцена
 
 **Вермеер:** Проклятье... Как же я теперь буду рисовать?
 
@@ -70,7 +68,6 @@
 
 Вставить
 
-#### Сцена
 
 **Таинственная статуя:** (В голове статуи есть дырка. Похоже, туда можно что-то вставить...)
 
@@ -166,7 +163,6 @@
 
 **Вермеер:** Или просто стоит внимательнее следить за своими вещами.
 
-#### Сцена
 
 **Вермеер:** Так вот оно как! Эти камни - глаза двух статуй! Они загорятся, только если вставить их в голову статуи.
 
@@ -180,7 +176,6 @@
 
 Vermeer, an artist who is looking for inspirational material near Luhua Pool, seems to have hit a snag, and is looking for help...
 
-#### Scene
 
 **Vermeer:** This isn't right... This can't be right. Those statues' eyes don't light up...
 
@@ -188,7 +183,6 @@ Vermeer, an artist who is looking for inspirational material near Luhua Pool, se
 
 **Vermeer:** Eyes... What eyes? This statue doesn't have any at all.
 
-#### Scene
 
 **Vermeer:** Oh, this is terrible. How will I paint like this...?
 
@@ -224,7 +218,6 @@ What's wrong?
 
 Insert
 
-#### Scene
 
 **Mysterious Statue:** (This statue's head has a hole in a head, and it seems something may be inserted into it...)
 
@@ -320,7 +313,6 @@ Regarding that rock...
 
 **Vermeer:** Or maybe I should keep a memo of the things I lose instead...
 
-#### Scene
 
 **Vermeer:** Oh... So that's how it is! These two rocks really are the eyes of the two statues. Their eyes will only shine once you've slotted those stones in...
 
@@ -334,7 +326,6 @@ Regarding that rock...
 
 正在渌华池旁取材的画家梵米尔似乎遇见了一些麻烦，需要找人帮忙…
 
-#### 场景
 
 **梵米尔:** 还是不对，还是不对…这雕像的眼睛哪里会发光…
 
@@ -342,7 +333,6 @@ Regarding that rock...
 
 **梵米尔:** 眼睛…眼睛，唉，这雕像…看上去压根就没眼睛啊。
 
-#### 场景
 
 **梵米尔:** 糟糕了，这还怎么画画…
 
@@ -378,7 +368,6 @@ Regarding that rock...
 
 镶嵌
 
-#### 场景
 
 **神秘的雕像:** （这座雕像的头部有一个空洞，似乎能镶嵌进去什么东西…）
 
@@ -474,7 +463,6 @@ Regarding that rock...
 
 **梵米尔:** 唔，或者说…我记个备忘录更好…
 
-#### 场景
 
 **梵米尔:** 原来…原来是这样！这两颗石头真的是这两尊雕像的眼睛！只有把石头嵌进去，他们的眼睛才会发光…
 

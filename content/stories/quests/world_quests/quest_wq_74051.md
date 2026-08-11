@@ -84,15 +84,12 @@
 
 **Госпожа Цю:** Это долгая история...
 
-#### Сцена
 
 **Госпожа Цю:** Искатель(ница) приключений, прошу, скорее верните нам камеру.
 
-#### Сцена
 
 **Син Е:** Эх... Когда же мы вернёмся в деревню Цяоин...
 
-#### Сцена
 
 **И Фэн:** Это не поездка, а сущий кошмар...
 
@@ -160,15 +157,12 @@ So, you're here to learn about filmmaking in Fontaine?
 
 **Ms. Qiu:** It's a long story...
 
-#### Scene
 
 **Ms. Qiu:** Please, adventurer, please go get us our Film Kamera back.
 
-#### Scene
 
 **Xingye:** *sigh* When will I get to go back to Qiaoying Village...
 
-#### Scene
 
 **Yifeng:** This shoot has been nothing but disasters...
 
@@ -236,14 +230,11 @@ So, you're here to learn about filmmaking in Fontaine?
 
 **邱老板:** 这事情就说来话长了…
 
-#### 场景
 
 **邱老板:** 拜托您了，冒险家，请快点帮我们把映影机拿回来吧。
 
-#### 场景
 
 **兴晔:** 唉，什么时候才能回翘英庄啊…
 
-#### 场景
 
 **弈丰:** 这次的拍摄之行，真是多灾多难…

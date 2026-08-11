@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** «Лопата»...
 
@@ -146,7 +145,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** "Celery"...
 
@@ -266,7 +264,6 @@ Encountering some trouble?
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 「抱愁」…
 

@@ -150,7 +150,6 @@
 
 **Паймон:** Плохо дело... Роль Паймон как твоей единоличной спутницы в путешествии по семи королевствам в опасности!
 
-#### Сцена
 
 **Коннор:** Мы были готовы пойти на крайние меры, а именно использовать воду из Спрингвейла. Драфф ни за что бы не отказался - без вина ему не протянуть ни дня.
 
@@ -284,7 +283,6 @@ Oh, come off it, Paimon.
 
 **Paimon:** Wait a minute, Traveler... Does this mean that the position of transcontinental travel companion is no longer a Paimon-only privilege?
 
-#### Scene
 
 **Connor:** You know, we did have a last-resort solution, which was to use the water of Springvale to make wine. I'm sure Draff would have agreed — goodness knows what he'd do without wine, after all.
 
@@ -418,6 +416,5 @@ Oh, come off it, Paimon.
 
 **派蒙:** 不过这样的话，被旅行者带着走遍七国的殊荣我就不能独占了呀。
 
-#### 场景
 
 **康纳:** 之前也考虑过应急方案，那就是调清泉镇的水来酿酒。杜拉夫肯定会同意的。毕竟来年没酒喝他可能会死。

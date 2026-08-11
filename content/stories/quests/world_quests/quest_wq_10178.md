@@ -518,7 +518,6 @@
 
 **Роллон:** Командир, Путешественник, что вы здесь делаете? Не переживайте, как только мы закончим, сразу выдвинемся в Пирамиду.
 
-#### Сцена
 
 **Анлейв:** Наконец этот день настал...
 
@@ -526,7 +525,6 @@
 
 **Анлейв:** Не могу уснуть перед важным боем! А вот тебе нужно отдохнуть - ты ещё растёшь. Ложись спать пораньше, иначе не вырастешь.
 
-#### Сцена
 
 Колос тёмного леса резонирует с Серебряным фитилём, высвобождая много куувяки...
 
@@ -1574,7 +1572,6 @@ No need to ask. Of course I'm in, Captain.
 
 **Rollon:** Captain, Traveler, what brings you two here? No need to worry. Once we finish up, we'll head back to Piramida.
 
-#### Scene
 
 **Anleifr:** This day has finally come...
 
@@ -1582,7 +1579,6 @@ You still up?
 
 **Anleifr:** Can't sleep with a battle like this on the horizon! You should, though. You're still growing, don't stunt that by staying up.
 
-#### Scene
 
 The Verdant Crest resonates with the Silver Lampwick, unleashing a powerful surge of kuuvahki...
 
@@ -2630,7 +2626,6 @@ Enough! Time to die!
 
 **罗洛:** 队长，旅行者，你们怎么过来了？这里没什么需要留意的，我们收拾完就回皮拉米达城。
 
-#### 场景
 
 **安莱夫:** 总算等到这一天了…
 
@@ -2638,7 +2633,6 @@ Enough! Time to die!
 
 **安莱夫:** 大战当前，哪里睡得着啊！倒是你，正是长身体的时候，早点休息吧，不然小心长不高啊。
 
-#### 场景
 
 苍林之穗与「银灯芯」共鸣，迸发出强大的月矩力…
 

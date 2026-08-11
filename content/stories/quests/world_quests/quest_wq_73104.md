@@ -26,11 +26,9 @@
 
 Кажется, у Кайвана возникли какие-то трудности...
 
-#### Сцена
 
 **Кайван:** Пожалуйста, поскорее избавьтесь от этих слаймов...
 
-#### Сцена
 
 **Хельбет:** Это последние реликвии. Отыщите материалы, чтобы господин Кайван поскорее начал рыбалку!
 
@@ -278,11 +276,9 @@
 
 Kayvan the angler seems to be having some trouble...
 
-#### Scene
 
 **Kayvan:** *sigh* Please help us deal with the Slimes...
 
-#### Scene
 
 **Helbet:** This would be the last of the relics. Please find the materials to help Mr. Kayvan do his job.
 
@@ -530,11 +526,9 @@ There are tons of fish in the river. Not so for relics.
 
 渔师凯万似乎遇到了某些麻烦…
 
-#### 场景
 
 **凯万:** 唉，请你们快去解决掉那些史莱姆吧…
 
-#### 场景
 
 **荷贝特:** 这是最后一件文物了。辛苦你们找找材料，帮凯万先生完成这一钓吧。
 

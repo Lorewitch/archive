@@ -212,7 +212,6 @@
 
 **Паймон:** Путешественник, продолжим в том же духе и сделаем себе имя!
 
-#### Сцена
 
 **Бернхард:** Прославленный почётный рыцарь и лучший проводник Тейвата Паймон! Прошу вас, помогите мне организовать благотворительную ярмарку!
 
@@ -412,7 +411,6 @@ Yeah, piece of cake.
 
 **Paimon:** Alright, Traveler, let's keep up the momentum and get our name out there!
 
-#### Scene
 
 **Bernhard:** Renowned Honorary Knight and Paimon, Teyvat's premier guide, please help me organize a charity event!
 
@@ -612,7 +610,6 @@ Yeah, piece of cake.
 
 **派蒙:** 好了，旅行者，我们就一鼓作气，打响这间店铺的名号吧！
 
-#### 场景
 
 **伯恩哈德:** 大名鼎鼎的荣誉骑士，还有「提瓦特最好的向导」派蒙，请你们帮我主持义卖活动吧！
 

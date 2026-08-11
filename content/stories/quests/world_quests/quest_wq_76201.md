@@ -26,7 +26,6 @@
 
 К северу от Нашгорода, в области со слабой куувяки, также произрастает ночноцвет...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -102,7 +101,6 @@
 
 Nocturnal Blossoms are also growing north of Nasha Town, in areas where kuuvahki levels are lower...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -178,7 +176,6 @@ As Vesa fumbles through the story of what happened, it becomes clear that it was
 
 在那夏镇以北月矩力较弱的区域也生长着宿影花…
 
-#### 场景
 
 快速做好了调查的准备…
 

@@ -1,6 +1,6 @@
 # id: quest_wq_74711
 # story_group: event_chronicles
-# display_category: Ивент · Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# display_category: Ивент · Лето! Возвращение? Фонтиналия!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Злые рыбки скоро поправятся...
 # title_en: Rapid Restitution to the Raging Fish...
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_74712
 # related_quests: quest_wq_74708,quest_wq_74709,quest_wq_74710,quest_wq_74712
 # quest_chain: quest_wq_74708,quest_wq_74709,quest_wq_74710,quest_wq_74711,quest_wq_74712
-# quest_series: Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# quest_series: Sunny Summer Fontinalia
 # version_source: wiki_release_category
 
 ## RU

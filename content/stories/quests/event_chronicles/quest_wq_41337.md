@@ -26,7 +26,6 @@
 
 Похоже, Сунь Юй и Цю Эр хотели бы запустить небесный фонарь...
 
-#### Сцена
 
 **Сунь Юй:** Как ты, сестра? У тебя так резко разболелась голова... Может, примешь лекарство?
 
@@ -238,7 +237,6 @@
 
 Sun Yu and Little Que'er seem to want to release a Xiao Lantern...
 
-#### Scene
 
 **Sun Yu:** Are you quite alright? How did you suddenly develop a headache... Do you need any medicine?
 
@@ -450,7 +448,6 @@ How is Little Que'er?
 
 孙宇和小雀儿似乎想要放飞霄灯…
 
-#### 场景
 
 **孙宇:** 师妹，你怎么突然头痛了，要不要先喝些药？
 

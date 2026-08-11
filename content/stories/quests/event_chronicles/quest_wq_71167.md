@@ -1,6 +1,6 @@
 # id: quest_wq_71167
 # story_group: event_chronicles
-# display_category: Ивент · A Lanternlit Ode to the Silver Moon (Event)
+# display_category: Ивент · Ода серебряной луне, освещённая фонарями
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Благословенные надежды
 # title_en: Wishing Wonderful Wishes
@@ -17,7 +17,7 @@
 # next_quests:
 # related_quests: quest_wq_71149,quest_wq_71168,quest_wq_71166
 # quest_chain: quest_wq_71149,quest_wq_71168,quest_wq_71166,quest_wq_71167
-# quest_series: A Lanternlit Ode to the Silver Moon (Event)
+# quest_series: A Lanternlit Ode to the Silver Moon
 # version_source: wiki_release_category
 
 ## RU

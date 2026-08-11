@@ -26,7 +26,6 @@
 
 Похоже, исследование Соши из ордена скептиков продвигается не очень гладко...
 
-#### Сцена
 
 **Соши:** Рада видеть вас всех! Вы как раз вовремя!
 
@@ -126,7 +125,6 @@
 
 **Соши:** Некоторые вещи легче понять, когда увидишь их собственными глазами.
 
-#### Сцена
 
 **Соши:** Хм? У тебя возникли вопросы?
 
@@ -432,7 +430,6 @@
 
 **Соши:** Я предоставляю яснапати честь вернуть все фрагменты на их места. Уверена, госпожа Соруш не будет возражать.
 
-#### Сцена
 
 **Соши:** Фух... Нервничаю? Я? Я вовсе не нервничаю, просто очень... взволнована.
 
@@ -550,7 +547,6 @@
 
 Sosi's research doesn't seem to be going well...
 
-#### Scene
 
 **Sosi:** Lady Sorush, and the two of you as well. Perfect timing!
 
@@ -650,7 +646,6 @@ Sosi's research doesn't seem to be going well...
 
 **Sosi:** No, it's just that some things are easier to understand after you've seen them yourselves.
 
-#### Scene
 
 **Sosi:** Hm? Do you have questions?
 
@@ -956,7 +951,6 @@ Sounds nice and all, but what does that have to do with us?
 
 **Sosi:** I'll place the honor of returning the fragments in our esteemed Yasnapati's hands, then. I'm sure that would suit your preference too, Lady Sorush.
 
-#### Scene
 
 **Sosi:** Phew... Nervous? Me? I'm not nervous at all, simply very... excited.
 
@@ -1074,7 +1068,6 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 矫论团的索希的研究似乎并不顺利…
 
-#### 场景
 
 **索希:** 斯露莎大人，还有两位，你们来得正好。
 
@@ -1174,7 +1167,6 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 那倒没有，只是有些东西，还是见到实物再解释会比较容易理解。
 
-#### 场景
 
 **索希:** 怎么了，还有什么事吗？
 
@@ -1480,7 +1472,6 @@ According to Sosi, some uninvited guests seem to be coveting the divine powers o
 
 **索希:** 这份光荣的工作就交给「谒颂主」阁下来完成吧，想必这样也更符合斯露莎大人的心意。
 
-#### 场景
 
 **索希:** 呼…紧张？我？我没有紧张，只是有点…激动。
 

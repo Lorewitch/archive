@@ -26,7 +26,6 @@
 
 Роза, которая когда-то цвела в Сумеру, может зацвести и в другом месте.
 
-#### Сцена
 
 **Саббах:** Если бы не вы, боюсь, я никогда бы не увидела, как прорастают розы.
 
@@ -108,7 +107,6 @@
 
 **Саббах:** Хорошо. Я буду тебя ждать.
 
-#### Сцена
 
 **Саббах:** Вы сдержали своё слово и пришли.
 
@@ -216,7 +214,6 @@
 
 A rose that once bloomed in Sumeru City may be able to bloom elsewhere, too.
 
-#### Scene
 
 **Sabbah:** If it weren't for you, I don't think I'd have ever seen these roses sprout.
 
@@ -298,7 +295,6 @@ Sure.
 
 **Sabbah:** ...Okay then, I'll wait for you.
 
-#### Scene
 
 **Sabbah:** There you are. You're very punctual.
 
@@ -406,7 +402,6 @@ We'll be back.
 
 曾在须弥城里绽放的蔷薇，离开了须弥城未必就不能绽放。
 
-#### 场景
 
 **赛芭:** 如果不是遇到你们，恐怕我很难看到那些蔷薇发芽。
 
@@ -488,7 +483,6 @@ We'll be back.
 
 **赛芭:** 那…好，我会等你来的。
 
-#### 场景
 
 **赛芭:** 你们来了啊，很守约呢。
 

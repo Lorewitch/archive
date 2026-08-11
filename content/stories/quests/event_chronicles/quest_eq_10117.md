@@ -558,7 +558,6 @@
 
 **Паймон:** Ладно. Путешественник, приготовься!
 
-#### Сцена
 
 **Идия:** Ну вот, мы на месте.
 
@@ -2174,7 +2173,6 @@ The Cat's Tail!
 
 **Paimon:** Fair enough... Okay, deep breath, then head in!
 
-#### Scene
 
 **Idyia:** Okay, this is the spot.
 
@@ -3790,7 +3788,6 @@ Understood.
 
 **派蒙:** 好吧，旅行者，要做好心理准备哦。
 
-#### 场景
 
 **伊迪娅:** 嗯，就是这里了。
 

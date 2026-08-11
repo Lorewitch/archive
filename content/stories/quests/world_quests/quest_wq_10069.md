@@ -26,7 +26,6 @@
 
 По словам Арапакати, к её «практикующимся в кулинарии» братьям приведут столбы дыма. Нужно вернуть их до начала Праздника Утсава...
 
-#### Сцена
 
 **Арапакати:** Ой! Золотой / Золотая нара...
 
@@ -172,7 +171,6 @@
 
 **Арама:** Удачи, нара Путешественник и Паймон!
 
-#### Сцена
 
 **Арапакати:** ...Разговаривать с нарами очень сложно. А ещё они такие высокие.
 
@@ -300,11 +298,9 @@
 
 **Арапакати:** Арапакати ждёт с нетерпением. На Празднике Утсава будет очень хорошо, очень весело!
 
-#### Сцена
 
 **Арапакати:** Спасибо тебе за всё, нара Путешественник! Обязательно приходи на Праздник Утсава!
 
-#### Сцена
 
 **Арачатора:** Нельзя ходить за грибами, пока закатник не созреет десять раз. У-у-у... Ждать вроде и не так долго...
 
@@ -536,7 +532,6 @@
 
 **Ианеш:** Если бы вы не пришли за сахаром, я бы и не вспомнил. Как же так...
 
-#### Сцена
 
 **Арасака:** Это он и есть! Я и не думал, что вы так быстро принесёте... Это взаправду?
 
@@ -1081,7 +1076,6 @@
 
 **Арапас:** А есть такая вода, которая даст супу вкус?..
 
-#### Сцена
 
 **Арапас:** Мой суп... У-у-у... Как же так...
 
@@ -1160,7 +1154,6 @@
 
 **Паймон:** Путешественник, Паймон с этим справится.
 
-#### Сцена
 
 **Арафала:** Хр-р... Хр-р...
 
@@ -1178,7 +1171,6 @@
 
 **Арафала:** Хм, тогда пойдёмте. Хорошие нары, пойдёмте есть плоды.
 
-#### Сцена
 
 **Арафала:** Пора бы уже и из «непревзойдённого свежего плода» что-нибудь приготовить.
 
@@ -1531,7 +1523,6 @@
 
 **Листок с ровным почерком:** «Листья снова стали расти, прошло сорок лун. Я собрал закатники у лагеря и отнёс в Ванарану. Сестрёнка сказала, что они недозрелые...»
 
-#### Сцена
 
 **Арафала:** Ох-ох-ох... Когда же я смогу вернуться?..
 
@@ -1543,7 +1534,6 @@
 
 According to Arapacati, the rising pillars of smoke will lead to her brothers who are doing "cooking training." We need to find them and bring them back before the festival starts...
 
-#### Scene
 
 **Arapacati:** Oh! If it isn't the Golden Nara! Alas...
 
@@ -1689,7 +1679,6 @@ Sounds like something Paimon would be interested in...
 
 **Arama:** Good luck, Nara Traveler! Good luck, Paimon!
 
-#### Scene
 
 **Arapacati:** ...So difficult to talk to Nara, and they are so tall.
 
@@ -1817,11 +1806,9 @@ That's right, we must cherish our family.
 
 **Arapacati:** Arapacati is looking forward to it. This Festival Utsava will be really great and amazing!
 
-#### Scene
 
 **Arapacati:** Thank you for everything, Nara Traveler. When the time comes for Festival Utsava, you must come as well!
 
-#### Scene
 
 **Arachatora:** I can't pick any mushrooms until the Sunsettias have ripened ten times. *sob* I know it's not a long time...
 
@@ -2053,7 +2040,6 @@ Thanks.
 
 **Iaanesh:** If it wasn't for you asking me for sugar, I would have forgotten about all these things. Why would it be like this...
 
-#### Scene
 
 **Arasaka:** That's the one! I didn't think you would get it so quickly... Is it real?
 
@@ -2598,7 +2584,6 @@ The soup within it is all gone just like that.*
 
 **Arapas:** Is there water that can give taste to soup?
 
-#### Scene
 
 **Arapas:** My soup... *sob* How could this happen...
 
@@ -2678,7 +2663,6 @@ According to Arachatora, his brother Araphala is doing "cooking training" close 
 
 **Paimon:** Paimon will leave it to you, Traveler.
 
-#### Scene
 
 **Araphala:** *snore* *snore*
 
@@ -2696,7 +2680,6 @@ According to Arachatora, his brother Araphala is doing "cooking training" close 
 
 **Araphala:** Alright, then let's go. Good Nara, let's eat fruits together.
 
-#### Scene
 
 **Araphala:** Okay, let's start cooking with the Unrivaled Fresh Fruits.
 
@@ -3049,7 +3032,6 @@ Indeed he is.
 
 **Leaf With Careful Penmanship:** "Leaves are growing again, and 40 moons have passed. I picked Sunsettias outside the campsite and brought them back to Vanarana, but sister said they were still very unripe..."
 
-#### Scene
 
 **Araphala:** *snore* When will you be back? *snore*
 
@@ -3061,7 +3043,6 @@ Indeed he is.
 
 根据兰帕卡提所说，看到袅袅升起的烟柱，就能找到她在外进行「烹饪修行」的哥哥们，得在无忧节开始前，把他们找回来才行…
 
-#### 场景
 
 **兰帕卡提:** 呀！是金色的那菈。噫…
 
@@ -3207,7 +3188,6 @@ Indeed he is.
 
 **兰罗摩:** 那菈旅行者和派蒙加油！
 
-#### 场景
 
 **兰帕卡提:** …和那菈说话，好困难。而且，好高喔。
 
@@ -3335,11 +3315,9 @@ Indeed he is.
 
 **兰帕卡提:** 兰帕卡提会满心期待的。这次无忧节，一定会很好、很厉害。
 
-#### 场景
 
 **兰帕卡提:** 这次多亏了那菈旅行者，等到无忧节的时候，那菈旅行者也一定要来呀！
 
-#### 场景
 
 **兰茶荼:** 十次日落果成熟的时间都不能采蘑菇，呜呜，虽然时间很短…
 
@@ -3571,7 +3549,6 @@ Indeed he is.
 
 **杨尼斯:** 如果不是因为你问我要糖，这些事情，我应该早就全忘了才对。为什么会这样呢…
 
-#### 场景
 
 **兰萨卡:** 就是这个！没想到你们这么快就拿回来了…是真的吗？
 
@@ -4116,7 +4093,6 @@ Indeed he is.
 
 **兰阿帕斯:** 有没有能够让汤变得有味道的水呢…
 
-#### 场景
 
 **兰阿帕斯:** 我的汤…呜呜…怎么会这样…
 
@@ -4196,7 +4172,6 @@ Indeed he is.
 
 **派蒙:** 旅行者，就交给你了。
 
-#### 场景
 
 **兰非拉:** 呼呼——呼呼——
 
@@ -4214,7 +4189,6 @@ Indeed he is.
 
 **兰非拉:** 嗯。那我们出发吧。好那菈，我们一起吃果实。
 
-#### 场景
 
 **兰非拉:** 唔…这就开始用「鲜嫩无朋之果」来做料理吧。
 
@@ -4567,7 +4541,6 @@ Indeed he is.
 
 **写有认真笔迹的叶子:** 「树叶生长开始，过去了四十个月亮。在营地外摘到的日落果，带回了桓那兰那，妹妹说果子还很生涩…」
 
-#### 场景
 
 **兰非拉:** 呼呼——什么时候回来——呼呼——
 

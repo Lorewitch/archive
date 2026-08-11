@@ -368,7 +368,6 @@
 
 **Паймон:** Ну что, Путешественник, забираем образцы и в путь?
 
-#### Сцена
 
 **Паймон:** Здесь ещё остался суп. А у этих хиличурлов неплохой аппетит!
 
@@ -460,7 +459,6 @@
 
 **Ши Тоу:** Сию минуту, господин!
 
-#### Сцена
 
 **Чжун Ли:** Просто оставьте полуночный нефрит здесь. Я уже послал помощника за ювелиром, который поможет вырезать из камней необходимую нам утварь.
 
@@ -534,11 +532,9 @@
 
 **Паймон:** После того как мы вернулись из Заоблачного Предела, эти настырные Миллелиты перестали нас преследовать. Интересно, с чем это связано?
 
-#### Сцена
 
 Номер 1.
 
-#### Сцена
 
 Номер 2.
 
@@ -840,7 +836,6 @@
 
 **Паймон:** Ай-яй-яй... Что вы скрываете на этот раз, господин Чжун Ли?
 
-#### Сцена
 
 **Паймон:** Нам удалось достать цветы, но как из них теперь сделать масло?
 
@@ -1028,7 +1023,6 @@
 
 **Чайльд:** В следующий раз нужно будет найти более подходящий момент.
 
-#### Сцена
 
 **Тик:** Что? Вам нужна помощь? Конечно! Я, Тик, в любой работе выдаю все сто процентов! За отдельную плату могу выдать и сто двадцать.
 
@@ -1090,7 +1084,6 @@
 
 **Тик:** Принесу сегодня домой, отдам дочке. Порадуется хоть... Не волнуйтесь, я закончу всю работу до того, как пойду домой.
 
-#### Сцена
 
 **Так:** Нужен разнорабочий на весь день на террасе Юйцзин? Нет проблем. Возьму за работу 25 000 моры. Всё по-честному.
 
@@ -1144,7 +1137,6 @@
 
 **Так:** Я немедленно направлюсь на террасу Юйцзин и сразу примусь за работу.
 
-#### Сцена
 
 **Тук:** Ищете работников? Нет проблем, но я должен вас предупредить, что я в запасе Гильдии искателей приключений. Я с удовольствием возьмусь за работу, связанную с приключениями, но не рассчитывайте на то, что я буду вести учёт или другую писанину.
 
@@ -1202,7 +1194,6 @@
 
 **Тук:** Договорились. Я схожу за оплатой как только закончу работу.
 
-#### Сцена
 
 **Чайльд:** Ребята, вы закончили? Можете оставить лишние деньги себе, ведь кто помогает Фатуи, на жизнь не жалуется.
 
@@ -1444,7 +1435,6 @@
 
 Вы прибыли в хижину «Бубу», известную лавку травника в Ли Юэ, в поисках Вечного ладана. Но, казалось бы, обычный поход к травнику превратился в намного более сложную задачу...
 
-#### Сцена
 
 **Паймон:** Такая огромная... Подобное могли сотворить только Адепты.
 
@@ -1472,7 +1462,6 @@
 
 **Чжун Ли:** Можно попробовать починить её, но придётся собрать некоторые материалы.
 
-#### Сцена
 
 **Чжун Ли:** Да, эти материалы подойдут.
 
@@ -1752,7 +1741,6 @@
 
 **Чжун Ли:** Да. Увидимся в ресторане «Три чашки в порту».
 
-#### Сцена
 
 **Паймон:** Эх, за стойкой никого нет... И атмосфера здесь какая-то странная.
 
@@ -1768,7 +1756,6 @@
 
 **Паймон:** Тогда... Путешественник, проверь за стойкой, а я тебя прикрою, м?
 
-#### Сцена
 
 **Паймон:** Гады не знали, с кем связались!
 
@@ -1868,13 +1855,11 @@
 
 **Гань Юй:** Только с его / ё помощью мы сможем распутать этот клубок».
 
-#### Сцена
 
 **Чжун Ли:** Нин Гуан... Гань Юй...
 
 **Чжун Ли:** Интересно, чью сторону вы заняли в эти тёмные времена...
 
-#### Сцена
 
 **Паймон:** И после этих слов посланница по имени Гань Юй исчезла...
 
@@ -2240,7 +2225,6 @@ Childe introduced you to Zhongli, a consultant at Wangsheng Funeral Parlor. You 
 
 **Paimon:** Traveler, now, let's pack those samples up and make a move!
 
-#### Scene
 
 **Paimon:** There's still soup in here. These hilichurls sure have big appetites!
 
@@ -2332,7 +2316,6 @@ I have them on me.
 
 **Shitou:** Done!
 
-#### Scene
 
 **Zhongli:** We can leave the jade here. I have already called for a jewelsmith to shape them into the implements that we will need.
 
@@ -2406,11 +2389,9 @@ I have them on me.
 
 **Paimon:** Although with that said, since we got back from Jueyun Karst, none of those pesky Millelith soldiers have come chasing after us. Wonder what that's about...
 
-#### Scene
 
 I would like the first Noctilucous Jade.
 
-#### Scene
 
 I would like the second Noctilucous Jade.
 
@@ -2712,7 +2693,6 @@ Offer Fate's Yearning
 
 **Paimon:** Man, why's he got to be so secretive this time?
 
-#### Scene
 
 **Paimon:** So now that we've got the flowers, how do we make the perfume?
 
@@ -2900,7 +2880,6 @@ Who would have guessed — Madame Ping is an adeptus! After leaving her househol
 
 **Childe:** ...I suppose I'll just have to find a more opportune moment next time.
 
-#### Scene
 
 **Tic:** Oh? Help? Sure! I, Tic, always put in one hundred percent effort into everything I do! Of course, there'll be a premium if you want me to give a hundred and ten percent.
 
@@ -2962,7 +2941,6 @@ Please go look for someone named Childe...
 
 **Tic:** With this Qingxin flower, I should be able to pacify my daughter tonight. I'll make sure the work is done before I return home.
 
-#### Scene
 
 **Tac:** A full day of odd jobs at Yujing Terrace? Hmm... No problem. Twenty-five thousand per day. A fair trade, yes?
 
@@ -3016,7 +2994,6 @@ Please go look for someone named Childe...
 
 **Tac:** Well, I'll head to Yujing Terrace in a moment. I won't be late!
 
-#### Scene
 
 **Toe:** Hiring help? Sure, but let me just say first that I'm a reserve member of the Adventurers' Guild. I take adventuring commissions, but I don't do anything clerical.
 
@@ -3074,7 +3051,6 @@ Please go look for someone named Childe...
 
 **Toe:** This'll work. Once I've finished, I will go and claim my payment.
 
-#### Scene
 
 **Childe:** All finished then? Splendid. Any leftover cash is yours to keep — a favor for the Fatui should never go unrewarded.
 
@@ -3316,7 +3292,6 @@ After identifying Rex Lapis' preferred scent, Zhongli sends you to Yujing Terrac
 
 You came to renowned purveyor of Liyue herbal medicine, Bubu Pharmacy, to procure some Everlasting Incense. But what started out as a straightforward trip to the pharmacy has turned into a far more complicated affair...
 
-#### Scene
 
 **Paimon:** It's huge! Paimon can totally believe it took an adeptus to build this.
 
@@ -3344,7 +3319,6 @@ You came to renowned purveyor of Liyue herbal medicine, Bubu Pharmacy, to procur
 
 **Zhongli:** With the parts in hand, I could at least tinker with it.
 
-#### Scene
 
 **Zhongli:** These parts look useful.
 
@@ -3624,7 +3598,6 @@ It's been... odd.
 
 **Zhongli:** Indeed. Let us meet near the harbor at "Third-Round Knockout."
 
-#### Scene
 
 **Paimon:** Huh, the reception is deserted. And it seems kinda spooky in here...
 
@@ -3640,7 +3613,6 @@ It's been... odd.
 
 **Paimon:** Traveler, how about... you go check it out, and... Paimon will bring up the rear.
 
-#### Scene
 
 **Paimon:** These lowlifes didn't know who they were messing with!
 
@@ -3740,13 +3712,11 @@ Paimon, we gotta go... !
 
 **Ganyu:** "At the Jade Chamber, together, we shall snip every one of these entwining dark threads."
 
-#### Scene
 
 **Zhongli:** Ningguang... Ganyu...
 
 **Zhongli:** I wonder where we will find them amid these dark tides?
 
-#### Scene
 
 **Paimon:** And with that, the emissary who called herself Ganyu just disappeared...
 
@@ -4112,7 +4082,6 @@ Paimon, we gotta go... !
 
 **派蒙:** 旅行者，我们带好样品，然后出发吧？
 
-#### 场景
 
 **派蒙:** 哇…里面还有汤呢，丘丘人的胃口可真大。
 
@@ -4204,7 +4173,6 @@ Paimon, we gotta go... !
 
 **石头:** 好嘞！
 
-#### 场景
 
 **钟离:** 「夜泊石」放在这里就行了。我已经派人去喊珠宝匠了，之后就会把它们打造成仪式所需的器物。
 
@@ -4278,11 +4246,9 @@ Paimon, we gotta go... !
 
 **派蒙:** 不过总觉得，从绝云间回来以后，就再没遇到过找麻烦的千岩军了，这是怎么回事呢？
 
-#### 场景
 
 我要「一号夜泊石」。
 
-#### 场景
 
 我要「二号夜泊石」。
 
@@ -4584,7 +4550,6 @@ Paimon, we gotta go... !
 
 **派蒙:** 欸…这次钟离先生的态度，怎么神神秘秘的？
 
-#### 场景
 
 **派蒙:** 花已经到手了，可香膏要怎么做呀？
 
@@ -4772,7 +4737,6 @@ Paimon, we gotta go... !
 
 **「公子」:** …下次，想办法在更合适的时机出现吧。
 
-#### 场景
 
 **阿大:** 哦？帮工？可以啊，我阿大做事一向百分百出力。当然，要百分之一百二出力的话，价钱另算。
 
@@ -4834,7 +4798,6 @@ Paimon, we gotta go... !
 
 **阿大:** 有这「清心」，晚上回家，小姑娘大概就不会那么闹了吧。嗯…回家以前，我就先为你走一遭。
 
-#### 场景
 
 **阿二:** 去玉京台做一天杂活是吧？我没问题。一天两万五，公平交易。
 
@@ -4888,7 +4851,6 @@ Paimon, we gotta go... !
 
 **阿二:** 好嘞，一会我就去玉京台，准时准点开工。
 
-#### 场景
 
 **阿三:** 帮工？行呀，但我可先说好，我阿三是冒险家协会的候补成员，欢迎冒险委托，谢绝文书工作。
 
@@ -4946,7 +4908,6 @@ Paimon, we gotta go... !
 
 **阿三:** 行吧，做完事以后，我会去拿我那份工资的。
 
-#### 场景
 
 **「公子」:** 哟？事办妥了？余下的钱就不用还了，自己拿去吧，替愚人众办事的人是不会吃亏的。
 
@@ -5188,7 +5149,6 @@ Paimon, we gotta go... !
 
 为取「永生香」，你来到了璃月港最有名的药庐「不卜庐」。但这一次的行程，似乎也没有那么简单…
 
-#### 场景
 
 **派蒙:** 想不到这么巨大，不愧是仙人留下的造物。
 
@@ -5216,7 +5176,6 @@ Paimon, we gotta go... !
 
 **钟离:** 只要收集了足够的材料，就可以稍稍尝试一下。
 
-#### 场景
 
 **钟离:** 嗯，这些备用材料应该可以派上用场了。
 
@@ -5496,7 +5455,6 @@ Paimon, we gotta go... !
 
 **钟离:** 没错。我们在码头附近的「三碗不过港」，不见不散。
 
-#### 场景
 
 **派蒙:** 欸，柜台前没有人呢，气氛也有些诡异…
 
@@ -5512,7 +5470,6 @@ Paimon, we gotta go... !
 
 **派蒙:** 这，这…要不，旅行者，你先过去看看？
 
-#### 场景
 
 **派蒙:** 一群不识相的家伙，哼！
 
@@ -5612,13 +5569,11 @@ Paimon, we gotta go... !
 
 **甘雨:** 「在群玉阁，我会陪空/荧一根一根地…剪断繁杂的暗流之线。」
 
-#### 场景
 
 **钟离:** 凝光…甘雨…
 
 **钟离:** 暗流涌动的这些天里，她们所处的位置，究竟是在第几层呢？
 
-#### 场景
 
 **派蒙:** 那个自称甘雨的使者，丢下这几句话，就消失了呢…
 

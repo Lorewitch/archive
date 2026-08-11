@@ -54,7 +54,6 @@
 
 **Паймон:** Хм, у нас есть немного времени до встречи. Давай сперва порасспрашиваем окружающих.
 
-#### Сцена
 
 **Паймон:** Ну ты и соня! Так вот заснуть и ещё разговаривать во сне... Паймон до смерти перепугалась!
 
@@ -684,7 +683,6 @@
 
 **Лини:** ...
 
-#### Сцена
 
 **Фремине:** Трубы...
 
@@ -1238,7 +1236,6 @@
 
 **Фремине:** (Нужно... Изо всех сил...)
 
-#### Сцена
 
 **Ризли:** Хочешь сахар к чаю?
 
@@ -1852,7 +1849,6 @@
 
 **Сиджвин:** Вам сегодня нужно хорошо выспаться! Вы здорово потрудились.
 
-#### Сцена
 
 **Паймон:** Клоринда!
 
@@ -2732,7 +2728,6 @@ The open day has finally arrived. This is undoubtedly a good chance to find some
 
 **Paimon:** Hmm, we still have some time before we meet up. Let's talk with the people here for a bit more before we go.
 
-#### Scene
 
 **Paimon:** You really are something, to be able to fall asleep like that and even sleep-talk the entire time... You scared Paimon half to death!
 
@@ -3362,7 +3357,6 @@ Oh yeah, we heard about that too.
 
 **Lyney:** ...
 
-#### Scene
 
 **Freminet:** ...Pipes...
 
@@ -3916,7 +3910,6 @@ What happened after you snuck into the pipes?
 
 **Freminet:** (I... I have to push on...)
 
-#### Scene
 
 **Wriothesley:** Could I tempt you with some sugar for your tea?
 
@@ -4530,7 +4523,6 @@ Huh? We can choose?
 
 **Sigewinne:** Get a good night's rest, you two! You've both worked very hard.
 
-#### Scene
 
 **Paimon:** Clorinde!
 
@@ -5410,7 +5402,6 @@ Good night to you, Paimon.
 
 **派蒙:** 距离会面的时间还有一会儿，那我们也稍微跟这里的人再聊聊吧。
 
-#### 场景
 
 **派蒙:** 真亏你能睡着呢，还嘀嘀咕咕地说梦话，我都快被你吓死了！
 
@@ -6040,7 +6031,6 @@ Good night to you, Paimon.
 
 **林尼:** ……
 
-#### 场景
 
 **菲米尼:** …管道…
 
@@ -6594,7 +6584,6 @@ Good night to you, Paimon.
 
 **菲米尼:** （我…必须继续…）
 
-#### 场景
 
 **莱欧斯利:** 茶里要放糖吗？
 
@@ -7208,7 +7197,6 @@ Good night to you, Paimon.
 
 **希格雯:** 今晚好好休息哦，你们都辛苦了。
 
-#### 场景
 
 **派蒙:** 克洛琳德！
 

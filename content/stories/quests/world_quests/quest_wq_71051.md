@@ -26,7 +26,6 @@
 
 В Разломе вы выудили странный предмет. Но что же это такое? Изучив его, Хедив сказал, что его необходимо разместить у воды, чтобы узнать истину...
 
-#### Сцена
 
 О странном предмете...
 
@@ -104,7 +103,6 @@
 
 You fish up something strange in The Chasm. What in the world could it be? According to the Sumeru scholar Khedive, just place it by the water and you will discover its secret...
 
-#### Scene
 
 About the strange object...
 
@@ -182,7 +180,6 @@ Just some waterweed, huh...
 
 从层岩巨渊中钓出了奇怪的物件，究竟是什么呢，交由须弥学者海迪夫调查后，说要放到水边激活才可知道其真相…
 
-#### 场景
 
 关于奇怪的物件…
 

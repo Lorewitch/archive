@@ -24,7 +24,6 @@
 
 ### Без названия 12032
 
-#### Сцена
 
 **Сёгун Райдэн:** Инадзуме предстоит ещё множество испытаний, но я готова к ним.
 
@@ -1500,7 +1499,6 @@
 
 ### Untitled 12032
 
-#### Scene
 
 **Raiden Shogun:** Many challenges still lie ahead for Inazuma, but I am prepared for them.
 
@@ -2976,7 +2974,6 @@ But out of those challenges will be born new opportunities.
 
 ### 未命名 12032
 
-#### 场景
 
 **雷电将军:** 接下来，稻妻一定会迎来更多挑战，不过我已经做好准备了。
 

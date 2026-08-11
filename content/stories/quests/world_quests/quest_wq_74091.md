@@ -26,7 +26,6 @@
 
 Ремонт подводного трубопровода в крепости Меропид - дело непростое...
 
-#### Сцена
 
 **Эгуи:** Как бы этого парнишку не схватили хиличурлы и не сварили из него суп...
 
@@ -60,7 +59,6 @@
 
 **Паймон:** Не переживай! Путешественник, силы-то тебе хватит! Жди здесь, мы скоро вернёмся.
 
-#### Сцена
 
 **Эгуи:** Если вы поранились, пока спасали этого дурака Балена, он обязан загладить вину перед вами. Пусть заботится о вас на отдыхе!
 
@@ -232,7 +230,6 @@
 
 Repairing the Fortress of Meropide's piping is no mean feat...
 
-#### Scene
 
 **Aigouy:** That kid, he didn't get caught by Hilichurls and tossed into their stew, did he...
 
@@ -266,7 +263,6 @@ Repairing the Fortress of Meropide's piping is no mean feat...
 
 **Paimon:** Relax! Traveler is really strong! Just wait right here, Gramps! We'll be back in a jiffy!
 
-#### Scene
 
 **Aigouy:** If you were hurt in the process of saving that rascal Balent, then he ought to make it up to you by taking a few days of leave and looking after you!
 
@@ -438,7 +434,6 @@ The whole time, he is completely focused on eating and drinking, seemingly deaf 
 
 梅洛彼得堡的管道检修并非轻松的工作…
 
-#### 场景
 
 **艾古伊:** 那小子，该不会被丘丘人抓去煮汤了吧…
 
@@ -472,7 +467,6 @@ The whole time, he is completely focused on eating and drinking, seemingly deaf 
 
 **派蒙:** 那你就放心好啦，旅行者很强的！老爷爷在这里等等好了，我们去去就回！
 
-#### 场景
 
 **艾古伊:** 要是为了救巴朗那臭小子害你们受伤，到时让他给你们赔罪，让他休假照顾你们！
 

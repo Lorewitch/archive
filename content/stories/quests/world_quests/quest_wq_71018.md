@@ -450,7 +450,6 @@
 
 **Чжун Цзо:** Вот, возьми. Считай, это награда за помощь нам всем.
 
-#### Сцена
 
 **Чжун Цзо:** Ты прин(есла)(ёс) мясо?
 
@@ -890,7 +889,6 @@ Need help with anything?
 
 **Juza:** Take these. Consider it thanks for helping us out.
 
-#### Scene
 
 **Juza:** Did you bring any meat back?
 
@@ -1330,7 +1328,6 @@ Need help with anything?
 
 **重佐:** 这些收下，算是你帮船上人忙的谢礼了。
 
-#### 场景
 
 **重佐:** 你把肉带来了吗？
 

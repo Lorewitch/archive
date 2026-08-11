@@ -164,7 +164,6 @@
 
 **Жюльен:** Спасибо, дорогие друзья. Желаю вам удачи в путешествии!
 
-#### Сцена
 
 Но сначала нам нужно подготовиться.
 
@@ -314,7 +313,6 @@ Does that even exist...
 
 **Julien:** Thank you both, dear friends. I wish you smooth sailing in your journey!
 
-#### Scene
 
 Let's make some preparations first.
 
@@ -464,7 +462,6 @@ Let's make some preparations first.
 
 **于连:** 谢谢两位的帮助，也祝好朋友旅途顺利！
 
-#### 场景
 
 还需要做一下准备。
 

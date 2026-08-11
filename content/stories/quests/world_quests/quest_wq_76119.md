@@ -80,7 +80,6 @@
 
 **Паймон:** Такое точно не стоило перенимать!
 
-#### Сцена
 
 **Субретка:** Луоннотар говорит, что она очень счастлива и что нам следует сыграть снова в следующий раз.
 
@@ -172,7 +171,6 @@ I'm in!
 
 **Paimon:** Okay, you definitely should've skipped that lesson!
 
-#### Scene
 
 **The Damselette:** Luonnotar says that she is very happy, and that we should play again next time.
 
@@ -264,7 +262,6 @@ I'm in!
 
 **派蒙:** 这部分就不用学了吧！
 
-#### 场景
 
 **「少女」:** 努昂诺塔说它很开心，下次再一起玩吧。
 

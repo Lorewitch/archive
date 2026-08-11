@@ -318,7 +318,6 @@
 
 По мере приближения мирных переговоров Ватацуми с комиссией Тэнрё по острову прошёл слух о сговоре между комиссией Тэнрё и Фатуи. Чтобы узнать правду, Кокоми решает напасть на временный лагерь Фатуи.
 
-#### Сцена
 
 **Мацуда:** Не зарывайся!
 
@@ -746,7 +745,6 @@
 
 **Паймон:** Вернёмся к Кокоми и почитаем ей вслух!
 
-#### Сцена
 
 **Сибата:** Вы ищете её превосходительство?
 
@@ -868,11 +866,9 @@
 
 **Арисава:** Один мой друг так ждал этот пир. Мы даже договаривались спеть вместе. Ах, если бы он только был с нами...
 
-#### Сцена
 
 **Мацуда:** Никто не посмеет буянить, пока здесь я!
 
-#### Сцена
 
 **Ёко:** Сегодня её превосходительство выглядит гораздо лучше. Какое облегчение... Главное, чтобы все были живы и здоровы.
 
@@ -1010,7 +1006,6 @@
 
 **Кодзэн:** Давай! Ещё раз!
 
-#### Сцена
 
 **Паймон:** ...Мы тут кое-что выяснили.
 
@@ -1594,7 +1589,6 @@ Hold on, are we...
 
 Peace talks between Watatsumi Island and the Tenryou Commission are due to commence, but a rumor that the Tenryou Commission remains in cahoots with the Fatui is still circulating around the island. To uncover the truth, Kokomi decides to assault the Fatui's temporary encampment...
 
-#### Scene
 
 **Matsuda:** Don't get cocky!
 
@@ -2022,7 +2016,6 @@ You have agreed to meet Kokomi near Sangonomiya Shrine. Time to move out.
 
 **Paimon:** Well, let's take it over and read it to her!
 
-#### Scene
 
 **Shibata:** Are you looking for Her Excellency?
 
@@ -2144,11 +2137,9 @@ Go to the site of the Victory Feast with Kokomi and listen to her speech.
 
 **Arisawa:** A friend of mine was really looking forward to this feast. Even promised he'd sing a song with me. *sigh* If only he were still here...
 
-#### Scene
 
 **Matsuda:** With me around, no one would dare try any funny business at the Victory Feast!
 
-#### Scene
 
 **Youkou:** Her Excellency is looking much better today, I can breathe a sigh of relief... Nothing is more important than everyone being safe and sound.
 
@@ -2286,7 +2277,6 @@ A warrior's will.
 
 **Kouzen:** Come on! Again!
 
-#### Scene
 
 **Paimon:** ...So we found out a few things.
 
@@ -2870,7 +2860,6 @@ You did an admirable job.
 
 海祇岛与天领奉行的和谈将近，岛上却出现了「天领奉行与愚人众仍有勾结」的传言。为了调查真相，心海决定进攻愚人众临时营地…
 
-#### 场景
 
 **松田:** 老实点！
 
@@ -3298,7 +3287,6 @@ You did an admirable job.
 
 **派蒙:** 我们现在就把这本兵书带过去，读给她听吧？
 
-#### 场景
 
 **柴田:** 你要见珊瑚宫大人？
 
@@ -3420,11 +3408,9 @@ You did an admirable job.
 
 **有泽:** 以前我有一个朋友，特别期待宴会，还跟我约好在庆功宴上唱歌。要是他还在就好了…
 
-#### 场景
 
 **松田:** 有我在，不会有人敢在庆功宴上闹事！
 
-#### 场景
 
 **用高:** 珊瑚宫大人的气色比之前好了不少，我也可以放心了…大家平平安安的，比什么都重要。
 
@@ -3562,7 +3548,6 @@ You did an admirable job.
 
 **高善:** 来！再来！
 
-#### 场景
 
 **派蒙:** …总之，就是这个样子。
 

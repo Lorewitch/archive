@@ -26,7 +26,6 @@
 
 Вы пришли в логово Ужаса Бури с надеждой спасти Двалина. Однако логово защищено ветряными барьерами, и тёмные силы не намерены просто так пропускать вас через эти барьеры.
 
-#### Сцена
 
 **Паймон:** Штормовой барьер!
 
@@ -68,7 +67,6 @@
 
 Большое количество врагов намекает на трудность предстоящего испытания. Чтобы пробраться в логово Ужаса бури вас придётся проявить храбрость и сообразительность.
 
-#### Сцена
 
 **Паймон:** Дальше не пройти.
 
@@ -82,7 +80,6 @@
 
 **Венти:** Хорошо, давай попробуем!
 
-#### Сцена
 
 **Венти:** Мы не можем двигаться дальше. Древние печати преграждают путь.
 
@@ -366,7 +363,6 @@
 
 **Паймон:** (Вероятно, между Анемо Архонтом и долиной Ветров существует какая-то связь. Джинн уже поняла это, но мы не можем рассказать Барбаре...)
 
-#### Сцена
 
 **Венти:** Ты только послушай, как ветер колышет листву. Как же мне нравится здешний запах.
 
@@ -818,7 +814,6 @@
 
 **Эмбер:** Джинн ждёт вас в соборе. Наверное, она хочет поговорить о Небесной лире, поэтому лучше поторопиться.
 
-#### Сцена
 
 **Отто:** Нам нужно оценить нанесённый городу ущерб и передать отчёт Лизе...
 
@@ -838,7 +833,6 @@
 
 You came to Stormterror's Lair to once again attempt Dvalin's rescue. However, it is surrounded by wind barriers made by Stormterror, and the dark forces at work have no intention of letting you break through those barriers so easily.
 
-#### Scene
 
 **Paimon:** It's a storm barrier!
 
@@ -880,7 +874,6 @@ You came to Stormterror's Lair to once again attempt Dvalin's rescue. However, i
 
 Assailed by many enemies, you realize that this road will not be an easy one. The way into Stormterror's Lair is strewn with obstacles, and so you must proceed with caution to find a path along the ruined walls.
 
-#### Scene
 
 **Paimon:** It's stuck.
 
@@ -894,7 +887,6 @@ Assailed by many enemies, you realize that this road will not be an easy one. Th
 
 **Venti:** Let's make a detour then. Heading up!
 
-#### Scene
 
 **Venti:** Oh, we can't advance any further. The ruins seem to be guarded by ancient seals.
 
@@ -1178,7 +1170,6 @@ Perhaps...
 
 **Paimon:** (It's probably due to the connection between Windrise and the Anemo Archon. Master Jean has figured it out as well, but we can't tell Barbara...)
 
-#### Scene
 
 **Venti:** The wind amongst the branches is good, I love the way it smells...
 
@@ -1630,7 +1621,6 @@ Yeah, about that...
 
 **Amber:** Jean's waiting for you at the Cathedral. It's something to do with the Holy Lyre der Himmel... You'd better head there now.
 
-#### Scene
 
 **Otto:** Now I have to submit a full damage report on the disaster to Lisa...
 
@@ -1650,7 +1640,6 @@ Yeah, about that...
 
 你们来到风龙废墟，再次试图拯救特瓦林，而风魔龙的住所正被暴风的障壁包围着。但幕后黑手无意让你们就这么轻松地突破风障。
 
-#### 场景
 
 **派蒙:** 是暴风的障壁！
 
@@ -1692,7 +1681,6 @@ Yeah, about that...
 
 敌人来袭，你们意识到这一路上不会轻松。进入风龙废墟的道路上充满了障碍，你们不得不小心观察，从残垣断壁中寻找道路。
 
-#### 场景
 
 **派蒙:** 堵住了呢。
 
@@ -1706,7 +1694,6 @@ Yeah, about that...
 
 **温迪:** 好，绕路吧。我们上去。
 
-#### 场景
 
 **温迪:** 没法更进一步了呢，在这座遗迹里好像有一些非常古老的封印。
 
@@ -1990,7 +1977,6 @@ Yeah, about that...
 
 **派蒙:** （是因为风神和风起地之间的联系吧，琴团长应该也猜到了，但不能和芭芭拉说呢…）
 
-#### 场景
 
 **温迪:** 树间的风很好，有我喜欢的气味…
 
@@ -2442,7 +2428,6 @@ Yeah, about that...
 
 **安柏:** 琴团长正在大教堂等你，好像是关于天空之琴的事…还是赶快去一趟吧。
 
-#### 场景
 
 **奥特:** 唔…蒙德的受害情况还要整理成表，上报给丽莎小姐…
 

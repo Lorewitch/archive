@@ -320,7 +320,6 @@
 
 Церемония Сошествия началась, и божество явилось в назначенный момент. Но когда тучи рассеялись, его бездыханное тело рухнуло на алтарь подношений. Посреди воцарившегося хаоса Цисин тут же приказали найти и арестовать убийцу. Вы знаете, что вам не удастся доказать свою невиновность, поэтому вам приходится принять помощь Чайльда, одного из Предвестников Фатуи. Вы отправляетесь в Заоблачный предел, обитель Адептов...
 
-#### Сцена
 
 **Владыка Лун:** Кто посмел ступить на священные земли Заоблачного предела?
 
@@ -344,7 +343,6 @@
 
 **Владыка Лун:** Избавьтесь от них... Я не потерплю вторжения.
 
-#### Сцена
 
 **Владыка Лун:** Прошу прощения. Так что же привело тебя сюда, путешественни(ца)(к)?
 
@@ -636,7 +634,6 @@
 
 По указанию Владыки Лун вы прибываете к горе Хулао, чтобы встретиться с Творцом Гор.
 
-#### Сцена
 
 **Ли Дин:** Сжальтесь надо мной, могучий Адепт! Молю вас, пощадите меня и моего братца... Отпустите нас!
 
@@ -1250,7 +1247,6 @@ I wish I could get some leads from the Geo Archon...
 
 During the rite, the appointed moment arrived. Yet when the clouds parted, a divine carcass crashed down to earth, knocking all the offerings over. Amid the chaos and confusion, the Qixing ordered that the assassin be arrested. Unable to prove your innocence, you were forced to accept the help of Childe of the Fatui, and as suggested by him, you are now headed for Jueyun Karst, a hidden abode where the adepti dwell...
 
-#### Scene
 
 **Moon Carver:** And who might we be? Those that dare enter Jueyun Karst?
 
@@ -1274,7 +1270,6 @@ During the rite, the appointed moment arrived. Yet when the clouds parted, a div
 
 **Moon Carver:** See them gone. One will not have interruption.
 
-#### Scene
 
 **Moon Carver:** We've digressed. State your purpose, traveler.
 
@@ -1566,7 +1561,6 @@ It's for the boss, Goldet.
 
 Following the instructions of Moon Carver, you arrive at Mt. Hulao in order to meet with Mountain Shaper.
 
-#### Scene
 
 **Li Ding:** Have mercy, O mighty adeptus! I beg you... Show mercy upon me and my brother... Spare our lives!
 
@@ -2180,7 +2174,6 @@ Having sought out the adepti and completed the task Moon Carver entrusted to you
 
 典仪吉时，仙驾如约而至。然而当云散霞收，落在香案上打翻了供品的，却是毫无生气的神躯。全场陷入迷茫与混乱，七星下令搜捕刺客。你难以洗清嫌疑，不得不在逃离过程中接受了愚人众执行官「公子」的帮助，按照他的指引，前往仙人隐居的「绝云间」…
 
-#### 场景
 
 **削月筑阳真君:** 尔是何人，因何擅闯「绝云间」？
 
@@ -2204,7 +2197,6 @@ Having sought out the adepti and completed the task Moon Carver entrusted to you
 
 **削月筑阳真君:** 送走他们，莫要杀生。
 
-#### 场景
 
 **削月筑阳真君:** 那么，重归正题——旅者，说出你的来意。
 
@@ -2496,7 +2488,6 @@ Having sought out the adepti and completed the task Moon Carver entrusted to you
 
 遵循着「削月筑阳真君」的指点，你们来到了「琥牢山」，想要面见「理水叠山真君」。
 
-#### 场景
 
 **李丁:** 仙人饶命！仙人饶命…求仙人网开一面，放我们兄弟一条生路，仙人饶命，仙人饶命…
 

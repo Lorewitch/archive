@@ -26,7 +26,6 @@
 
 Кажется, Хранителю Облаков удалось создать совершенно новую машину, которую можно использовать для готовки.
 
-#### Сцена
 
 **Хранитель Облаков:** Хорошо. Это побеги бамбука, которые Гань Юй подготовила для меня.
 
@@ -172,7 +171,6 @@
 
 Cloud Retainer seems to have invented a new cooking device...
 
-#### Scene
 
 **Cloud Retainer:** Good, good. These are the Bamboo Shoots that Ganyu prepared for oneself.
 
@@ -318,7 +316,6 @@ I'm ready.
 
 留云借风真君似乎发明了一种用于烹饪的全新机关…
 
-#### 场景
 
 **留云借风真君:** 嗯，不错，这正是甘雨帮本仙置办的竹笋。
 

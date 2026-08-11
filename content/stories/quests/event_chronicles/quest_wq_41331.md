@@ -102,11 +102,9 @@
 
 **Дядюшка Кай:** Если хочешь, оставайся и отпразднуй вместе с нами. Народу тут много, будет весело.
 
-#### Сцена
 
 **Бабуля Жо Синь:** Эх... Когда уже детишки набегаются и присядут отдохнуть...
 
-#### Сцена
 
 **Бабуля Жо Синь:** Теперь, когда нас здесь так много собралось, это уже похоже на настоящий праздник.
 
@@ -154,7 +152,6 @@
 
 **Бабуля Жо Синь:** А кого по дороге увидишь, зови в деревню. Чем больше людей, тем веселее.
 
-#### Сцена
 
 **Маленькая Ю:** Ай, всё никак не могу поймать свою тень...
 
@@ -174,7 +171,6 @@
 
 **Маленькая Ю:** Хм... Постой. Кажется, желание нужно написать на фонарике. Если я просто подумаю о нём, оно может не сбыться...
 
-#### Сцена
 
 **Малышка Ло:** А дядя Адепт отмечает Праздник морских фонарей?..
 
@@ -184,7 +180,6 @@
 
 **Малышка Ло:** Если запустить много фонарей, то, возможно, придёт Адепт...
 
-#### Сцена
 
 **Чан Девятый:** А? Тебе что-нибудь нужно?
 
@@ -194,7 +189,6 @@
 
 **Чан Девятый:** Ладно, я схожу, посмотрю. В такой праздник чем больше народу, тем лучше.
 
-#### Сцена
 
 **Цзян Чэн:** Жена!.. Жена?
 
@@ -290,11 +284,9 @@ I'm happy that I could help.
 
 **Pops Kai:** If you're willing to celebrate the festival here, you're more than welcome to join us. As they say, the more the merrier.
 
-#### Scene
 
 **Granny Ruoxin:** *sigh* Who knows when the young folks will finally get some time to rest...
 
-#### Scene
 
 **Granny Ruoxin:** With so many of us gathered together now, things are finally starting to feel like a festival.
 
@@ -342,7 +334,6 @@ I'm glad I could help.
 
 **Granny Ruoxin:** And be sure to tell anyone else you find along the way to head back to the village... The more the merrier, you know.
 
-#### Scene
 
 **Little You:** Ugh, I still can't catch my shadow.
 
@@ -362,7 +353,6 @@ Oh really? What's your wish?
 
 **Little You:** Oh wait, it seems we have to write our wish on a lantern... So I guess just thinking about it won't be enough.
 
-#### Scene
 
 **Little Luo:** I wonder if Mr. Adeptus will come to Lantern Rite...
 
@@ -372,7 +362,6 @@ We'll be releasing Xiao Lanterns in the village soon...
 
 **Little Luo:** If we release enough Xiao Lanterns, maybe Mr. Adeptus will come...
 
-#### Scene
 
 **Chang the Ninth:** Ah, hello. Do you need anything?
 
@@ -382,7 +371,6 @@ We'll be releasing Xiao Lanterns in the village soon...
 
 **Chang the Ninth:** Alright, thanks for letting me know. I'll make my way over there shortly. At a festival like this one... the more, the merrier.
 
-#### Scene
 
 **Jiangcheng:** Wife... Wife?
 
@@ -478,11 +466,9 @@ Sure.
 
 **凯叔:** 不过你要是愿意，留在这过节也行，反正这里人也挺多的，也算热闹。
 
-#### 场景
 
 **若心:** 唉…也不知道那些在外奔波的那些孩子们，什么时候能得空休息一下…
 
-#### 场景
 
 **若心:** 这么多人在一起，倒是也有几分节日的气氛了。
 
@@ -530,7 +516,6 @@ Sure.
 
 **若心:** 要是你能再顺便再叫些其他的人来，那就更好了，毕竟人越多越热闹嘛。
 
-#### 场景
 
 **阿佑:** 哎呀，又没抓到…
 
@@ -550,7 +535,6 @@ Sure.
 
 **阿佑:** 嗯…等一下，愿望好像是要写在霄灯上的，我直接许的话，会不会不灵啊…
 
-#### 场景
 
 **罗小妹:** 仙人哥哥会不会过海灯节呢…
 
@@ -560,7 +544,6 @@ Sure.
 
 **罗小妹:** 要是霄灯放得多，说不定…仙人哥哥也会来看…
 
-#### 场景
 
 **常九爷:** 嗯？你有什么事找我？
 
@@ -570,7 +553,6 @@ Sure.
 
 **常九爷:** 我知道了，我过会就去看看，大过节的，人多点总是好的。
 
-#### 场景
 
 **江城:** 老婆子…老婆子？
 

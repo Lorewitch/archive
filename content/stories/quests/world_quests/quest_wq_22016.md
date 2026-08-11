@@ -228,7 +228,6 @@
 
 **Сюй Дун:** Ты что, уходишь? Нет даже пары секунд?
 
-#### Сцена
 
 **Джули:** Хе-хе, вообще-то это довольно вкусно. Съем-ка я ещё...
 
@@ -582,7 +581,6 @@ No, it's a noble ideal.
 
 **Xudong:** You're leaving? Not having any seconds?
 
-#### Scene
 
 **Julie:** Hehe. This is actually quite tasty. I'll definitely go for another round...
 
@@ -936,7 +934,6 @@ No, it's a noble ideal.
 
 **旭东:** 你要走了吗？不然…再吃点？
 
-#### 场景
 
 **朱莉:** 嘿嘿，其实还挺好吃的，我还要再吃一点…
 

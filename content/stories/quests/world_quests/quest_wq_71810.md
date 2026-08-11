@@ -26,7 +26,6 @@
 
 В Ли Юэ вы вновь повстречали спасённую из заточения Алрани. Судя по всему, она продолжает свои исследования...
 
-#### Сцена
 
 **Алрани:** Эх... Так писать диссертацию никак невозможно. Что же делать...
 
@@ -132,7 +131,6 @@
 
 You meet Alrani, whom you once saved from a cage, in Liyue Harbor. She still seems to want to investigate something...
 
-#### Scene
 
 **Alrani:** Ugh. How am I supposed to write my thesis like this? What should I do...
 
@@ -238,7 +236,6 @@ You'll be fine. You don't have a Vision.
 
 在璃月港里再次和那位曾经被关在笼子里的学者爱拉尼相遇了，她似乎还想研究什么东西…
 
-#### 场景
 
 **爱拉尼:** 呜…这压根就没办法写论文嘛，怎么办才好…
 

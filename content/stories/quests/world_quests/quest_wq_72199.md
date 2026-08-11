@@ -26,7 +26,6 @@
 
 Саимон Дзиро, сын фермера, мечтает найти сокровища, но вместо этого сталкивается с неожиданными неприятностями...
 
-#### Сцена
 
 **Доска объявлений:** «Прошло больше года с тех пор, как мой сын, Саимон Дзиро, ушёл в армию. Время от времени он писал домой письма. Хотя он не совершил ничего выдающегося, но рассказывал обо всём, что случалось с ним в армии. Это очень утешало сердце старика».
 
@@ -122,7 +121,6 @@
 
 **Саимон Кацуми:** Ладно, мне пора возвращаться в деревню. Береги себя, (добрая девушка)(добрый юноша).
 
-#### Сцена
 
 **Оно:** Здравствуй, (чужеземка)(чужеземец)!
 
@@ -172,7 +170,6 @@
 
 **Оно:** Дзиро, конечно, раздражал, но это вопрос жизни и смерти.
 
-#### Сцена
 
 **Огура Ю:** Ты... (чужеземка)(чужеземец)?
 
@@ -218,7 +215,6 @@
 
 **Огура Ю:** Проблема с лордом-комиссаром и так уже доставляет ему достаточно головной боли. Ему не нужны новые проблемы.
 
-#### Сцена
 
 **Саимон Кацуми:** Ты (вернулась)(вернулся). Вот, возьми несколько фиалковых дынь... оставь их на дорогу, если хочешь.
 
@@ -418,7 +414,6 @@
 
 **Паймон:** Вы слишком добры.
 
-#### Сцена
 
 **Исикава:** Что (иноземка)(иноземец) делает в лагере? Это ключевая военная позиция!
 
@@ -480,7 +475,6 @@
 
 **Исикава:** Не стоит благодарности. Передайте от меня привет старику Саимону, хорошо?
 
-#### Сцена
 
 **???:** Наконец-то, кто-то пришёл меня спасти!
 
@@ -502,7 +496,6 @@
 
 **Паймон:** Да... Надо уходить отсюда.
 
-#### Сцена
 
 **Саимон Дзиро:** Если бы ты не вытащил(а) меня из клетки, эти парни сделали бы из меня кровавого морского ежа...
 
@@ -814,7 +807,6 @@
 
 **Паймон:** Мы сведём счёты, когда найдем сокровища. Помяни мои слова!
 
-#### Сцена
 
 **???:** Ключ вон там. Что вам мешает просто принести его?
 
@@ -1726,7 +1718,6 @@
 
 Saimon Jirou, a son of a farming family, dreams of finding treasure, but has met with an unexpected crisis instead...
 
-#### Scene
 
 **Missing Person Bulletin Board:** "It has been over a year since my son, Saimon Jirou, joined the army. He would write letters to us from time to time, and though he has not accomplished much of great note, he would relate everything that happened to him in the army, which comforted this old man's heart greatly."
 
@@ -1822,7 +1813,6 @@ Nothing at all!
 
 **Saimon Katsumi:** Alright, I need to go back to the village now. Stay safe, youngster.
 
-#### Scene
 
 **Ono:** Hello there, outlander.
 
@@ -1872,7 +1862,6 @@ Thank you.
 
 **Ono:** Jirou was annoying, sure, but this is a matter of life and death. We're not going to go there.
 
-#### Scene
 
 **Ogura Yuu:** You're... an outlander?
 
@@ -1918,7 +1907,6 @@ Thanks for sharing what you know.
 
 **Ogura Yuu:** The issue with the Lord Commissioner is already giving him enough of a headache. He really doesn't need any more trouble.
 
-#### Scene
 
 **Saimon Katsumi:** You're back. Here, have a few Lavender Melon... save them for the road, if you will.
 
@@ -2118,7 +2106,6 @@ You have our thanks.
 
 **Paimon:** You're too kind.
 
-#### Scene
 
 **Ishikawa:** Outlander, what are you doing in the camp? This is a key military location.
 
@@ -2180,7 +2167,6 @@ Thank you very much.
 
 **Ishikawa:** You're too kind. Say hi to Old Man Saimon for me, would you?
 
-#### Scene
 
 **???:** Phew, finally, someone's here to rescue me!
 
@@ -2202,7 +2188,6 @@ Thank you very much.
 
 **Paimon:** That's true. Let's get out of here first, then!
 
-#### Scene
 
 **Saimon Jirou:** If you hadn't gotten me out of that cage, those fellows would have turned me into a blood urchin...
 
@@ -2514,7 +2499,6 @@ You're not making any sense...
 
 **Paimon:** We'll settle this score once we find that treasure, mark Paimon's words!
 
-#### Scene
 
 **???:** I mean, the key's right there! What's stopping you from getting it?
 
@@ -3426,7 +3410,6 @@ We're not.
 
 农民的孩子柴门二郎满怀寻宝的希望，但似乎陷入了难以预料的大危机…
 
-#### 场景
 
 **寻人告示板:** 「犬子柴门二郎从军一年有余，时而回寄家书，军旅之事苦乐无所不言。虽无功以报，亦无甚大过可述，甚慰老朽之心。」
 
@@ -3522,7 +3505,6 @@ We're not.
 
 **柴门克巳:** 行了，我就先回村了。祝你一路平安，年轻人。
 
-#### 场景
 
 **小野:** 你好啊，外国人。
 
@@ -3572,7 +3554,6 @@ We're not.
 
 **小野:** 虽说二郎那家伙实在讨厌，但事关生死的事情，我们还是掂量得清的。
 
-#### 场景
 
 **小仓优:** 你是…外国人？
 
@@ -3618,7 +3599,6 @@ We're not.
 
 **小仓优:** 奉行大人的事情已经够让他头痛了，不要再让他徒增烦恼了。
 
-#### 场景
 
 **柴门克巳:** 你回来了，来，摘点堇瓜吧…留着路上吃。
 
@@ -3818,7 +3798,6 @@ We're not.
 
 **派蒙:** 您太客气啦。
 
-#### 场景
 
 **石川:** 外国人，你来军营干什么？这里可是军事重地。
 
@@ -3880,7 +3859,6 @@ We're not.
 
 **石川:** 你客气了，别忘替我向柴门老爷子问声好就行。
 
-#### 场景
 
 **？？？:** 呼…终于有人把我救出来了。
 
@@ -3902,7 +3880,6 @@ We're not.
 
 **派蒙:** 也对哦…那我们也快点离开吧！
 
-#### 场景
 
 **柴门二郎:** 多亏了你们帮我打开了笼门，不然的话，那帮家伙一定会把我搞成血海胆的…
 
@@ -4214,7 +4191,6 @@ We're not.
 
 **派蒙:** 等找到宝藏，我们再好好跟你算一笔账！
 
-#### 场景
 
 **？？？:** 钥匙就在那里，是什么在阻止你们取它呀！
 

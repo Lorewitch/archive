@@ -82,7 +82,6 @@
 
 **Клерк Чжао:** Я благодарна за помощь. Возьми это в качестве награды.
 
-#### Сцена
 
 **Нервный Ань:** Ну вот, теперь у меня проблемы...
 
@@ -96,61 +95,51 @@
 
 **Нервный Ань:** Слишком много различных факторов, которые нужно отслеживать... Сделай это, сделай то... Я не успеваю!
 
-#### Сцена
 
 Привлеки больше людей к работе...
 
 **Нервный Ань:** Я тоже об этом думаю, но где же найти помощников в столь короткий срок...
 
-#### Сцена
 
 Просто сделай сначала отчёт, который хочет клерк Чжао.
 
 **Нервный Ань:** Ха-ха-ха, когда я вспомнил о нём сегодня, было уже поздно...
 
-#### Сцена
 
 Сначала сделай самое важное.
 
 **Нервный Ань:** Хм... думаю, все эти отчёты одинаково важны.
 
-#### Сцена
 
 Времени нет...
 
 **Нервный Ань:** Я знаю и стараюсь... Посмотрим, получится ли успеть доделать все отчёты.
 
-#### Сцена
 
 Может, лучше просто объяснить ситуацию?
 
 **Нервный Ань:** За это время я лучше постараюсь доделать ещё несколько отчётов...
 
-#### Сцена
 
 Я помогу тебе.
 
 **Нервный Ань:** Спасибо за предложение, но ты не разбираешься в ведении отчётности, а потому только навредишь своей помощью.
 
-#### Сцена
 
 Собираешься отложить это на потом?
 
 **Нервный Ань:** Я постараюсь закончить вовремя, но, учитывая, сколько у меня работы, ха-ха... Как же сложно...
 
-#### Сцена
 
 Тогда тебе придётся разбираться с этим самостоятельно...
 
 **Нервный Ань:** Я знаю, я знаю... Это моя работа, как я могу поручать её другим?
 
-#### Сцена
 
 В следующий раз постарайся лучше расставлять приоритеты.
 
 **Нервный Ань:** Ха-ха, каждый раз говорю себе это и каждый раз, когда работы становится много, начинаю суетиться и забываю о приоритетах.
 
-#### Сцена
 
 **Цзян Чжоу:** Так быть не должно... Это просто неправильно.
 
@@ -162,25 +151,21 @@
 
 **Цзян Чжоу:** Праздник морских фонарей - грандиозное событие. Всё должно быть идеально! Я не готова сдать планы в таком виде...
 
-#### Сцена
 
 У тебя заканчивается время...
 
 **Цзян Чжоу:** Я уверена, что смогу улучшить свою работу. Мне просто нужно ещё немного времени.
 
-#### Сцена
 
 Дописывай до точки и сдавай.
 
 **Цзян Чжоу:** Что?! Я не могу просто сдать черновики! Это же самый важный праздник для Ли Юэ.
 
-#### Сцена
 
 Невозможно достичь совершенства.
 
 **Цзян Чжоу:** Это верно. Но я должна стремиться к совершенству, верно?
 
-#### Сцена
 
 **Нервный Ань:** В порту слишком много работы. Слишком...
 
@@ -188,31 +173,26 @@
 
 **Цзян Чжоу:** Верно. Но как же я могу сдать план с ошибками?
 
-#### Сцена
 
 В твоём плане нет ошибок.
 
 **Цзян Чжоу:** Эм... Действительно. Но это не значит, что я не могу сделать план ещё лучше!
 
-#### Сцена
 
 Сдавай уже план. Потом сможешь добавить улучшения.
 
 **Цзян Чжоу:** Ты смеёшься надо мной? Праздник морских фонарей - это серьёзное событие!
 
-#### Сцена
 
 Почему бы тебе не использовать планы прошлого Праздника морских фонарей?
 
 **Цзян Чжоу:** Я уже посмотрела прошлогодний план. И хотя он очень понравился горожанам... Я хочу сделать что-то оригинальное!
 
-#### Сцена
 
 Просто поверь в себя.
 
 **Цзян Чжоу:** Что мне даст эта «вера в себя», если жителям Ли Юэ не понравится праздник?!
 
-#### Сцена
 
 Тогда... продолжай размышлять?
 
@@ -280,7 +260,6 @@ Clerk Zhao is so swamped with work that she can't even get a moment to herself. 
 
 **Clerk Zhao:** Regardless, I'm grateful for your help. Take these as thanks.
 
-#### Scene
 
 **Nervous An:** Oh boy, now I'm in trouble...
 
@@ -294,61 +273,51 @@ Clerk Zhao told me to give this to you...
 
 **Nervous An:** There's just sooo much to keep track of — report this, record that, I simply can't keep up with it all.
 
-#### Scene
 
 Hire some help...
 
 **Nervous An:** I want to, but it will take some time to find someone, so that won't help me finish the work at hand...
 
-#### Scene
 
 Just do this report that Clerk Zhao wants first.
 
 **Nervous An:** Hahaha! I don't even have enough time to remember all the information I need to report, let alone fill it out...
 
-#### Scene
 
 Do the most important reports first.
 
 **Nervous An:** Hmm... I think the reports are all of about equal importance.
 
-#### Scene
 
 There's no time...
 
 **Nervous An:** I know, so I'm trying my best now... I'll see if I can finish all the reports.
 
-#### Scene
 
 Just go and explain the situation...
 
 **Nervous An:** But I still have some time, I should just work harder to finish these reports...
 
-#### Scene
 
 I can help out.
 
 **Nervous An:** Thanks for the offer, but if you aren't familiar with the work you won't be much help.
 
-#### Scene
 
 Still going to put it off to later?
 
 **Nervous An:** I'll try to finish it on time, but as you can see I already have so much work to do, haha... It will be difficult to not put it off.
 
-#### Scene
 
 Then you need to figure it out yourself...
 
 **Nervous An:** I know, I know... This is my job, I can't rely on other people to do it for.
 
-#### Scene
 
 Prioritize your work better next time.
 
 **Nervous An:** Hahaha, I always tell myself I should, but I just get so busy that I forget to prioritize.
 
-#### Scene
 
 **Jiangzhou:** No, that's not quite right either...
 
@@ -360,25 +329,21 @@ Clerk Zhao told me to give this to you...
 
 **Jiangzhou:** Everybody needs to do their very best for a big festival like Lantern Rite. So... I can't submit this plan just yet.
 
-#### Scene
 
 You're running out of time...
 
 **Jiangzhou:** I know I can come up with the best plan, I just need a bit more time...
 
-#### Scene
 
 Just submit it now.
 
 **Jiangzhou:** What!? I can't carelessly submit what amounts to a rough draft, this is Liyue's most important festival!
 
-#### Scene
 
 It will never be perfect.
 
 **Jiangzhou:** That may be true, but I should strive for perfection, no?
 
-#### Scene
 
 **Nervous An:** There's just too much work to do in the harbor. Too much.
 
@@ -386,31 +351,26 @@ Any plan is better than no plan.
 
 **Jiangzhou:** That's true, but I shouldn't submit a plan that has something wrong with it, should I?
 
-#### Scene
 
 There's nothing wrong with your plan.
 
 **Jiangzhou:** Hmm, it may not have any glaring problems, but at least let me improve it even more.
 
-#### Scene
 
 Submit it first, you can change more later.
 
 **Jiangzhou:** Are you joking? Lantern Rite is a serious festival, there are procedures.
 
-#### Scene
 
 Get ideas from last year's plan...
 
 **Jiangzhou:** I've already been looking at last year's Lantern Rite. But... even though it was very popular among residents, I still think I can come up with something really special.
 
-#### Scene
 
 Be confident...
 
 **Jiangzhou:** What good is confidence if the people of Liyue don't like it?
 
-#### Scene
 
 Then... keep thinking?
 
@@ -478,7 +438,6 @@ Then... keep thinking?
 
 **小昭:** 对了，谢谢你帮忙，请收下这些吧，算是谢礼了。
 
-#### 场景
 
 **小安:** 这下可麻烦了…
 
@@ -492,61 +451,51 @@ Then... keep thinking?
 
 **小安:** 要统计的表实在是太多了，我做了这个，又做那个，压根忙不过来了。
 
-#### 场景
 
 多招点人来帮忙…
 
 **小安:** 我也想啊，但是临时怎么可能招来马上就能帮忙的人…
 
-#### 场景
 
 先把小昭要的表统计了。
 
 **小安:** 哈哈哈，我今天记起来的时候已经来不及了…
 
-#### 场景
 
 先统计最重要的吧。
 
 **小安:** 这些表在我看来，呃…都差不多重要。
 
-#### 场景
 
 时间不够了…
 
 **小安:** 我知道啊，所以我在努力，看能不能把所有的表格全部统计完毕。
 
-#### 场景
 
 不如直接去说明…
 
 **小安:** 有那个时间，我不如再多努力统计好一些表格…
 
-#### 场景
 
 我来帮你。
 
 **小安:** 谢谢你的好意，但是统计表格这个活，不是熟手的话只会帮倒忙。
 
-#### 场景
 
 还要延期吗？
 
 **小安:** 我努努力吧，尽量不再延期了，但是看我手上的这些工作，哈哈…说实话，挺难的。
 
-#### 场景
 
 那你只能自己想办法了…
 
 **小安:** 我知道啊，我自己的工作，难道还能指望别人吗？
 
-#### 场景
 
 下次先划分优先级。
 
 **小安:** 哈哈哈，每次我都这么想，但每次工作一多我就开始手忙脚乱，分优先级的事不知道忘到哪去了。
 
-#### 场景
 
 **江舟:** 这样还不行…还得改改…
 
@@ -558,25 +507,21 @@ Then... keep thinking?
 
 **江舟:** 海灯节这种重大节日，当然要尽善尽美啊，所以…这个策划案还交不上去啦。
 
-#### 场景
 
 时间要来不及了…
 
 **江舟:** 我一定会整理出最好的方案的，只要再给我点时间…
 
-#### 场景
 
 先交上去吧。
 
 **江舟:** 这怎么行，怎么能交一份随随便便的方案上去？这可是璃月最重要的节日啊。
 
-#### 场景
 
 不会有完美的方案。
 
 **江舟:** 虽然话是这么说，但也要向完美努努力吧。
 
-#### 场景
 
 **小安:** 港口的事太多了，我想想…
 
@@ -584,31 +529,26 @@ Then... keep thinking?
 
 **江舟:** 话是这么说，但总不能交一份有问题的方案出去吧…
 
-#### 场景
 
 你的方案没问题的。
 
 **江舟:** 嗯…你说得也有道理，但至少容我再完善一下。
 
-#### 场景
 
 可以先交再改…
 
 **江舟:** 别开玩笑了，海灯节可不是这么随随便便的节日。
 
-#### 场景
 
 参考上届海灯节…
 
 **江舟:** 我就是参考上届海灯节，虽然上一届市民们很喜欢，但是…我还是想要做出一点突破。
 
-#### 场景
 
 相信自己…
 
 **江舟:** 相信自己有什么用，市民们不喜欢的话就全完了。
 
-#### 场景
 
 那你再好好想想？
 

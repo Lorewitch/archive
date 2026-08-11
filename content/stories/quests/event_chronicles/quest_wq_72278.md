@@ -26,7 +26,6 @@
 
 «Сегодня мы с братиком Альбедо прибыли в страну, где часто идёт гроза. Сам он называет страну "Инадзумой". Инадзума... Кли так трудно писать это название».
 
-#### Сцена
 
 **Ивао:** Ты правда умеешь готовить яичный рулет?
 
@@ -584,7 +583,6 @@
 
 "Today, me and Albedo arrived in a country where there's lots and lots of thunder. Albedo said that this place is called Inazuma... Inazuma... Klee thinks this name is pretty hard to write."
 
-#### Scene
 
 **Iwao:** Hey (ma'am)(mister), do you really know how to make Egg Rolls?
 
@@ -1144,7 +1142,6 @@ You should spend some time with Klee too, Albedo.
 「阿贝多哥哥说这里叫作稻妻。
 「稻妻…好难写的名字哦。」
 
-#### 场景
 
 **岩夫:** 大哥哥 / 姐姐，你真的会做鸟蛋烧吗？
 

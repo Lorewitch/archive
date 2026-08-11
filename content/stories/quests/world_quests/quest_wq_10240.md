@@ -26,7 +26,6 @@
 
 Придумайте, как попасть внутрь вулкана...
 
-#### Сцена
 
 **Паймон:** Это был... кукузавр?
 
@@ -58,7 +57,6 @@
 
 **Паймон:** Ладно, давайте, как будем готовы, отправимся в путь!
 
-#### Сцена
 
 **Паймон:** Избранник драконов...
 
@@ -158,7 +156,6 @@
 
 Find a way to enter the volcano...
 
-#### Scene
 
 **Paimon:** Huh? Was that a Q—Qucusaur?
 
@@ -190,7 +187,6 @@ Find a way to enter the volcano...
 
 **Paimon:** A—Anyway, let's make sure we're all set before we go!
 
-#### Scene
 
 **Paimon:** Chosen of Dragons, O Chosen of Dragons...
 
@@ -290,7 +286,6 @@ Find a way to enter the volcano...
 
 想办法踏上前往火山之内的道路…
 
-#### 场景
 
 **派蒙:** 咦，刚才那是，绒、绒翼龙？
 
@@ -322,7 +317,6 @@ Find a way to enter the volcano...
 
 **派蒙:** 唔，等、等准备好，我们就出发吧！
 
-#### 场景
 
 **派蒙:** 受龙所选者，啊，受龙所选者啊…
 

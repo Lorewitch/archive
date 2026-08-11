@@ -26,7 +26,6 @@
 
 Арамис, рыцарь Ордо Фавониус, беспокоится о лепестках цветов, которые ветер разносит по всему городу...
 
-#### Сцена
 
 **Арамис:** Ох, что же делать...
 
@@ -76,7 +75,6 @@
 
 **Арамис:** Спасибо за твою помощь. Вот, держи небольшое вознаграждение.
 
-#### Сцена
 
 **Паймон:** Это и впрямь кошка. Интересно, что она здесь забыла...
 
@@ -98,7 +96,6 @@
 
 Knight of Favonius Aramis is worried about the flower petals blowing all over the place...
 
-#### Scene
 
 **Aramis:** Oh, what am I to do...
 
@@ -148,7 +145,6 @@ On the city walls.
 
 **Aramis:** Well then, thank you for your trouble. Here's a little something for your work.
 
-#### Scene
 
 **Paimon:** Huh, guess there really was a cat. Wonder why it's over here...
 
@@ -170,7 +166,6 @@ On the city walls.
 
 骑士阿拉米似乎在为到处乱飞的花瓣而烦恼…
 
-#### 场景
 
 **阿拉米:** 唉，该怎么办呢…
 
@@ -220,7 +215,6 @@ On the city walls.
 
 **阿拉米:** 真是麻烦你了，这些谢礼请你收下吧。
 
-#### 场景
 
 **派蒙:** 真的有只小猫呢，为什么会跑到这里来呢…
 

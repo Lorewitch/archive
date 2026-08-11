@@ -34,7 +34,6 @@
 
 **Паймон:** Нужно отправиться к огромному дереву, найти середину дороги, а ещё... Сокровище спрятано под ступеньками...
 
-#### Сцена
 
 **Мисс Лань:** По-моему, для искателя приключений опыт важнее любых богатств.
 
@@ -72,7 +71,6 @@ Lan of the Liyue Harbor Adventurers' Guild seems to be troubled by something...
 
 **Paimon:** We have to look for treasure beneath an especially large tree, in the middle of a path, and... below a flight of stairs...
 
-#### Scene
 
 **Lan:** I believe that for adventurers, experience is more important than wealth.
 
@@ -110,7 +108,6 @@ Near Dunyu Ruins...
 
 **派蒙:** 要我们去一棵特别大的树下，一条道路的中间，还有…台阶的下面去找宝藏呢…
 
-#### 场景
 
 **岚姐:** 我认为，对冒险家来说，冒险的经验比钱财更重要。
 

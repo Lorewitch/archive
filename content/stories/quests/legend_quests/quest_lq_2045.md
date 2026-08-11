@@ -344,7 +344,6 @@
 
 **Паймон:** Ура!
 
-#### Сцена
 
 **Сянь Юнь:** Как я и думала. Хозяин ресторана «Народный выбор» в самом деле добрый и разумный человек.
 
@@ -1214,7 +1213,6 @@
 
 - **Путешественник:** Подожди немного.
 
-#### Сцена
 
 **Паймон:** Кстати, ты собираешься рассказывать о своём переезде остальным Адептам?
 
@@ -1982,7 +1980,6 @@ It's been a while, Shenhe.
 
 **Paimon:** Woohoo!
 
-#### Scene
 
 **Xianyun:** It is just as one expected. The owner of Wanmin Restaurant is indeed a most reasonable and accommodating human.
 
@@ -2852,7 +2849,6 @@ But you never turned back into a crane...
 
 - **Traveler:** Please wait a moment.
 
-#### Scene
 
 **Paimon:** So, about your move to Liyue Harbor... You gonna tell the other adepti about it?
 
@@ -3620,7 +3616,6 @@ Thank you so much, Cloud Retainer!
 
 **派蒙:** 好耶！
 
-#### 场景
 
 **闲云:** 果然如本仙所想，万民堂堂主确是一位通情达理之人。
 
@@ -4490,7 +4485,6 @@ Thank you so much, Cloud Retainer!
 
 - **旅行者:** 稍等一下。
 
-#### 场景
 
 **派蒙:** 啊，说起来，你搬去璃月港的事情，要和仙鹿他们说一声吗？
 

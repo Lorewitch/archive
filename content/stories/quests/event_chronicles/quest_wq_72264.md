@@ -1,6 +1,6 @@
 # id: quest_wq_72264
 # story_group: event_chronicles
-# display_category: Ивент · Eight Locales Over Mountains and Seas }}
+# display_category: Ивент · Восемь мест от гор до морей
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Восемь мест от гор до морей: Среди гор и снегов
 # title_en: Eight Locales Over Mountains and Seas: Snowswept Fairytale
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_72675
 # related_quests: quest_wq_72674,quest_wq_72675,quest_wq_72676,quest_wq_72261,quest_wq_72262,quest_wq_72677,quest_wq_72678
 # quest_chain: quest_wq_72674,quest_wq_72264,quest_wq_72675,quest_wq_72676,quest_wq_72261,quest_wq_72262,quest_wq_72677,quest_wq_72678
-# quest_series: Eight Locales Over Mountains and Seas }}
+# quest_series: Eight Locales Over Mountains and Seas
 # version_source: wiki_release_category
 
 ## RU
@@ -26,7 +26,6 @@
 
 Вы пообещали Иорою показать Китибоси мир. Первое место - Драконий хребет, который Иорой однажды увидел с горы Ёго.
 
-#### Сцена
 
 **Иорой:** Доверяю вам Китибоси я. Он очень мудр. Когда он подрастёт, передам ему мои титулы «король бакэ-дануки» и «Защитника рощи» я.
 
@@ -427,7 +426,6 @@
 
 You agreed to Ioroi's request to "bring Kichiboushi out to train." Your first stop is Dragonspine, which Ioroi once saw on the ocean's far side from atop Mt. Yougou.
 
-#### Scene
 
 **Ioroi:** I leave Kichiboushi in your trusty hands. He is quite wise. Once he grows older, I plan to pass my titles of "Bake-Danuki King" and "Protector of the Grove" unto him.
 
@@ -828,7 +826,6 @@ Good Kichiboushi! You get a gold star!
 
 之前答应了五百藏「带吉法师去外面修行」的请求。第一站就去五百藏曾经在影向山上看到过的，海对面的「龙脊雪山」吧。
 
-#### 场景
 
 **五百藏:** 吉法师这孩子就交给你们了。他很有智慧。等他长大了，吾辈打算将妖狸大王的称号与保生司正的责任交给他。
 

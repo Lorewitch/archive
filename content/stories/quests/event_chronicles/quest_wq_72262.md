@@ -1,6 +1,6 @@
 # id: quest_wq_72262
 # story_group: event_chronicles
-# display_category: Ивент · Eight Locales Over Mountains and Seas }}
+# display_category: Ивент · Восемь мест от гор до морей
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Восемь мест от гор до морей: Тростниковые пейзажи
 # title_en: Eight Locales Over Mountains and Seas: One Hundred Sights of Dihua
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_72677
 # related_quests: quest_wq_72674,quest_wq_72264,quest_wq_72675,quest_wq_72676,quest_wq_72261,quest_wq_72677,quest_wq_72678
 # quest_chain: quest_wq_72674,quest_wq_72264,quest_wq_72675,quest_wq_72676,quest_wq_72261,quest_wq_72262,quest_wq_72677,quest_wq_72678
-# quest_series: Eight Locales Over Mountains and Seas }}
+# quest_series: Eight Locales Over Mountains and Seas
 # version_source: wiki_release_category
 
 ## RU
@@ -26,7 +26,6 @@
 
 Вы пообещали Иорою показать Китибоси мир. На этот раз полюбуйтесь уникальными водными пейзажами Ли Юэ на Тростниковых островах.
 
-#### Сцена
 
 **Китибоси:** О-о-о. Море здесь красивое.
 
@@ -271,7 +270,6 @@
 
 You agreed to Ioroi's request to "bring Kichiboushi out to train." Time to show him the unique sights of Liyue's Dihua Marsh.
 
-#### Scene
 
 **"Kichiboushi":** Ooh. The sea here is pretty.
 
@@ -516,7 +514,6 @@ I'll leave that decision to you.
 
 之前答应了五百藏「带吉法师去外面修行」的请求。这回就去荻花洲看看璃月独有的水景吧。
 
-#### 场景
 
 **「吉法师」:** 哇。这里的大海，漂亮。
 

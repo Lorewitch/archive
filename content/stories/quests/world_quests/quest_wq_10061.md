@@ -26,7 +26,6 @@
 
 Тисато, владычица клана Хийраги, возглавляющего комиссию Кандзё, просит вас помочь ей отнести письмо её возлюбленному, Кудзё Камадзи...
 
-#### Сцена
 
 **Кудзё Камадзи:** Ты... Ах, ты т(а)(от) путешественни(ца)(к) из-за границы. Чем я могу быть полезен?
 
@@ -176,7 +175,6 @@
 
 Chisato, lady of the Hiiragi Clan, which leads the Kanjou Commission, requests that you help her bring a letter to her sweetheart, Kujou Kamaji...
 
-#### Scene
 
 **Kujou Kamaji:** You are... Ahh, you're that Traveler from abroad. What can I do for you?
 
@@ -326,7 +324,6 @@ Do we have to go back again...
 
 勘定奉行柊家的大小姐柊千里想拜托你把一封信送给她的心上人九条镰治…
 
-#### 场景
 
 **九条镰治:** 你是…啊，是国外来的旅行者啊，找我有事吗？
 

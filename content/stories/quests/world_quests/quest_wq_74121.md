@@ -86,7 +86,6 @@
 
 **Генри:** Ладно! Уходите поскорее!
 
-#### Сцена
 
 **Хантер:** Здравствуйте.
 
@@ -94,13 +93,11 @@
 
 **Хантер:** И надеемся, что вы не будете нам мешать.
 
-#### Сцена
 
 **Генри:** ...Даже не сомневайтесь! Я сам себя закопал! Это последнее слово в области ухода за собой!
 
 **Паймон:** Уф... Путешественник, у тебя есть идеи?
 
-#### Сцена
 
 **Паймон:** Привет!
 
@@ -166,7 +163,6 @@
 
 **Тёрнер:** И мы не хотим, чтобы нам мешали. До свидания.
 
-#### Сцена
 
 **Генри:** Свобода! О-о, блаженная свобода! Как прекрасен её вкус, хоть и не сравнится с цыплёнком!
 
@@ -398,7 +394,6 @@ You and Paimon are attracted by the aroma of roast chicken...
 
 **Henri:** Okay! Off you go!
 
-#### Scene
 
 **Hunter:** Hello.
 
@@ -406,13 +401,11 @@ You and Paimon are attracted by the aroma of roast chicken...
 
 **Hunter:** And we hope that you will not interrupt our walk.
 
-#### Scene
 
 **Henri:** ...Don't doubt me! I buried myself with my very own hands! This is the latest beauty trend!
 
 **Paimon:** Uh... Traveler, any thoughts?
 
-#### Scene
 
 **Paimon:** Hello!
 
@@ -478,7 +471,6 @@ What are you guys doing here?
 
 **Turner:** That's why we don't want to be interrupted. Goodbye.
 
-#### Scene
 
 **Henri:** Freedom! Ahhh, the sweet taste of freedom! Though not as satisfying as roast chicken is, freedom sure is sweet!
 
@@ -710,7 +702,6 @@ Not as much as saving your life, I mean...
 
 **恩里:** 好的！！你们赶紧走吧！！
 
-#### 场景
 
 **亨特:** 您好。
 
@@ -718,13 +709,11 @@ Not as much as saving your life, I mean...
 
 **亨特:** 希望您不要打扰我们散步。
 
-#### 场景
 
 **恩里:** …不要怀疑！！是我自己把自己埋在这里的！！这是最新的美容方法！！
 
 **派蒙:** 呃，旅行者，有什么想法了吗？
 
-#### 场景
 
 **派蒙:** 你们好！
 
@@ -790,7 +779,6 @@ Not as much as saving your life, I mean...
 
 **特纳:** 所以不希望被人打扰。再见。
 
-#### 场景
 
 **恩里:** 自由！啊啊，甜美的自由！虽然不如烤鸡香，但还是很甜美！
 

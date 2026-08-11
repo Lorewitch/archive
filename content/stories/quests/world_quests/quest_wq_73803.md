@@ -26,7 +26,6 @@
 
 Гарсия о чём-то переживает...
 
-#### Сцена
 
 **Ахангар:** Эй, дружище, зачем тебе писать ноты на этой странной машине?
 
@@ -464,7 +463,6 @@
 
 Mr. Garcia seems to be troubled by something...
 
-#### Scene
 
 **Ahangar:** Man, I don't understand it. Why do you have to use that weird machine to write some music score?
 
@@ -902,7 +900,6 @@ I hope your studies go well.
 
 加尔恰先生似乎正在为某事而烦恼…
 
-#### 场景
 
 **阿汉格尔:** 老兄，你为什么非要拿你那个怪机器写什么乐谱呢？
 

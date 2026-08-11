@@ -26,7 +26,6 @@
 
 В месте первой встречи с Виржилем вам попадается любопытная парочка. Похоже, ваши цели совпадают. И, кажется, они довольно милы... Пора добиться от Виржиля объяснений.
 
-#### Сцена
 
 **Сонни:** Надо же, какое удивительное совпадение. Не правда ли, Люка?
 
@@ -268,7 +267,6 @@
 
 You meet two people where you first met Virgil, and they have the same goal. They seem... nice. It's time to get an explanation from Virgil.
 
-#### Scene
 
 **Sonny:** Now, this is a most serendipitous meeting. Won't you agree, my dear Luca?
 
@@ -510,7 +508,6 @@ They are Virgil's enemies.
 
 在原本遇到维吉尔的地方，结识了两位有着相同目标的…好心人。是时候向维吉尔讨个说法了。
 
-#### 场景
 
 **桑尼:** 这可真是巧遇啊，这可真是。您说对吧？亲爱的卢卡。
 

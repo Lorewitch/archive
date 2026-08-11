@@ -124,7 +124,6 @@
 
 **Эмбер:** Летать над равниной проще простого. Вперёд!
 
-#### Сцена
 
 **Эмбер:** Отлично! У тебя здорово получается! Неудивительно, что ты смог(ла) парить во время шторма.
 
@@ -540,7 +539,6 @@ Amber has specially prepared a gliding exam for you. She has also provided a gli
 
 **Amber:** Gliding at Windrise is easy-peasy. Off you go!
 
-#### Scene
 
 **Amber:** You nailed it! But it's no surprise, given the way you handle your glider in a storm.
 
@@ -956,7 +954,6 @@ Go! Go! Outrider!
 
 **安柏:** 风起地简易飞行，开始！
 
-#### 场景
 
 **安柏:** 很好！不愧是在暴风里也能掌握平衡的你，顺利通过了。
 

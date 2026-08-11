@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** Ещё один спокойный день...
 
@@ -206,7 +205,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** Another quiet day today...
 
@@ -386,7 +384,6 @@ Why do you want to restore the shrine, anyway?
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 今天又是清净的一天啊…
 

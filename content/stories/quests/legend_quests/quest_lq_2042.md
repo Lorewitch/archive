@@ -898,19 +898,15 @@
 
 **Ригас:** Вы что-то ищете? Я ничего не видел, но оно должно быть где-то поблизости...
 
-#### Сцена
 
 **Бульмье:** П-простите...
 
-#### Сцена
 
 **Бульмье:** Вы правда не можете посмотреть книги... Пожалуйста, поймите...
 
-#### Сцена
 
 **Оселе:** Пожалуйста... Прошу, оставь меня в покое...
 
-#### Сцена
 
 **Ригас:** Я не видел ничего... Почему бы вам не поискать в другом месте?
 
@@ -2716,19 +2712,15 @@ Where did your optimism go?
 
 **Rigas:** You're looking for something, you said? I didn't see it, but it should be somewhere nearby...
 
-#### Scene
 
 **Boulmier:** S—Sorry...
 
-#### Scene
 
 **Boulmier:** You really can't check them out... Please understand...
 
-#### Scene
 
 **Aucelet:** Please... Please just leave me alone...
 
-#### Scene
 
 **Rigas:** I didn't see it... Why don't you try to look for it somewhere else?
 
@@ -4534,19 +4526,15 @@ Glad to hear it.
 
 **里加斯:** 找东西是吧，我想应该就在附近，虽然我也没看到…
 
-#### 场景
 
 **布尔米耶:** 抱歉，抱歉…
 
-#### 场景
 
 **布尔米耶:** 真的不能看，求求你们了…
 
-#### 场景
 
 **奥瑟莱:** 别为难我了，行吗…
 
-#### 场景
 
 **里加斯:** 我没看到，要不你去别的地方找找吧。
 

@@ -26,7 +26,6 @@
 
 На площади Нашгорода проходит какое-то событие...
 
-#### Сцена
 
 (Кажется, ещё не время начинать...)
 
@@ -120,7 +119,6 @@
 
 **Дорота:** Отлично! Спасибо!
 
-#### Сцена
 
 **Осмотреть:** «Если вас когда-либо завораживало радужное сияние серебра захода луны, присоединяйтесь к нам и станьте частью Клуба любителей серебра захода луны!»
 
@@ -172,7 +170,6 @@
 
 There appears to be some kind of event taking place in the plaza of Nasha Town...
 
-#### Scene
 
 (Hmm... seems like it's not starting yet.)
 
@@ -266,7 +263,6 @@ Linnea ends up taking part in Dorota's Moonfall Silver Appreciation Event, and h
 
 **Dorota:** Oh, that'd be nice! Thanks!
 
-#### Scene
 
 **Check:** "If you've ever been captivated by the iridescent glow of Moonfall Silver, join us and become a member of the Moonfall Silver Appreciation Society!"
 
@@ -318,7 +314,6 @@ Linnea ends up taking part in Dorota's Moonfall Silver Appreciation Event, and h
 
 那夏镇的广场似乎在举办什么活动…
 
-#### 场景
 
 （好像还没到开始的时间…）
 
@@ -412,7 +407,6 @@ Linnea ends up taking part in Dorota's Moonfall Silver Appreciation Event, and h
 
 **多洛妲:** 那太好了！
 
-#### 场景
 
 **查看:** 「如果你也曾为月落银的七彩虹光而着迷，请加入我们，成为月落银同好会的一员吧！」
 

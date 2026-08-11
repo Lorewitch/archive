@@ -26,7 +26,6 @@
 
 Верные подданные её превосходительства рады представить своим гостям особенное представление - историю любви и доблести...
 
-#### Сцена
 
 **Руководитель Театра сумерек:** Добро пожаловать! Добро пожаловать!
 
@@ -64,7 +63,6 @@
 
 The great Prinzessin's loyal subjects are pleased to perform for you, our guests, a performance most special: a tale of love and valor...
 
-#### Scene
 
 **Twilight Theater Head:** Welcome! Welcome!
 
@@ -102,7 +100,6 @@ I can't believe someone would call himself world-famous.
 
 伟大皇女的忠诚子民，在此为所有来客献上特别的演出，一个关于爱与勇气的故事…
 
-#### 场景
 
 **暮夜剧团团长:** 欢迎！欢迎！
 

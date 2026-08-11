@@ -388,7 +388,6 @@
 
 **Диона:** Гм, ладно. Идём за тот пустой столик.
 
-#### Сцена
 
 **Диона:** Сколько можно, опять эти выпивохи... А, это вы? Ну, как идёт игра в «Священный призыв семерых»?
 
@@ -446,7 +445,6 @@
 
 **Диона:** Я разложу карты на столе. И если все готовы, мы начинаем!
 
-#### Сцена
 
 **Шу Юнь:** Мяу... (Получи Карточный ларец и одержи одну победу, чтобы стать выдающимся игроком!)
 
@@ -632,7 +630,6 @@
 
 **Шу Юнь:** Господин Принц прав... И я тоже занят с коктейлями. Вот освобожусь немного и попрошу господина дать вам необходимые пояснения...
 
-#### Сцена
 
 **Сахароза:** Путешественник, приступим?
 
@@ -782,7 +779,6 @@
 
 **Диона:** Я научила тебя играть, так что не подведи! А?.. Говоришь, я и Сахарозу научила играть?.. Гм...
 
-#### Сцена
 
 **Паймон:** О, это ты!
 
@@ -876,7 +872,6 @@
 
 **Шу Юнь:** «Путешественник, пусть "Священный призыв семерых" подарит тебе настоящую радость!»
 
-#### Сцена
 
 **Свен:** Если ты готов(а), давай скорее начнём. А то у меня служба...
 
@@ -1248,7 +1243,6 @@ You don't have to be so nervous!
 
 **Diona:** Ooo... alright! We'll need some space to learn, heheh. Let's go to that empty table over there.
 
-#### Scene
 
 **Diona:** Ugh, let me guess — you're here to order a drink, hmph... Oh, it's you. So, how are your Genius Invokation matches going?
 
@@ -1306,7 +1300,6 @@ You don't have to be so nervous!
 
 **Diona:** Okay, I guess I'll get things set up on the table first. Once you're ready, we can get started.
 
-#### Scene
 
 **Shuyun:** Meow... "Go, claim your Casket of Tomes, seize victory, and become a TCG champion!"
 
@@ -1492,7 +1485,6 @@ Can't be bad for business...
 
 **Shuyun:** Yes, heed Prince's words. Besides, I need to keep mixing drinks for now. If you wait until I'm free, I can have Prince explain more for you...
 
-#### Scene
 
 **Sucrose:** Ready for our duel, Traveler?
 
@@ -1642,7 +1634,6 @@ Naturally.
 
 **Diona:** Now, I trained you myself, so you'd better not go down without a fight, okay! Huh, what? ...Well, yeah, I suppose I did train Sucrose, too... Hmm...
 
-#### Scene
 
 **Paimon:** Aha, it's you!
 
@@ -1736,7 +1727,6 @@ Invitation Board?
 
 **Shuyun:** "Traveler, hope you'll have fun playing Genius Invokation TCG!"
 
-#### Scene
 
 **Swan:** If you're ready, let's not drag this out. I'm supposed to be standing guard...
 
@@ -2108,7 +2098,6 @@ Invitation Board?
 
 **迪奥娜:** 嗯，既然如此，我们到那张空着的桌子那儿去吧。
 
-#### 场景
 
 **迪奥娜:** 真是的，怎么又有人来点酒…咦，原来是你们呀，怎么样，「七圣召唤」的对局还顺利吗？
 
@@ -2166,7 +2155,6 @@ Invitation Board?
 
 **迪奥娜:** 那我先布置牌桌，你们要是准备好了我们就开始吧！
 
-#### 场景
 
 **恕筠:** 喵…「去领取秘典之盒，然后获取胜利，成为了不起的牌手吧！」
 
@@ -2352,7 +2340,6 @@ Invitation Board?
 
 **恕筠:** 「小王子」大人言之有理…而且我也要承担调酒的工作。不如等稍微空闲一点了，再让「小王子」大人为你们作出说明吧…
 
-#### 场景
 
 **砂糖:** 旅行者，要开始对局吗？
 
@@ -2502,7 +2489,6 @@ Invitation Board?
 
 **迪奥娜:** 你可是我教出来的，可不许简简单单就输掉！咦…什么，你说砂糖小姐也是我教出来的…唔…
 
-#### 场景
 
 **派蒙:** 哇，原来是你啊！
 
@@ -2596,6 +2582,5 @@ Invitation Board?
 
 **恕筠:** 「旅行者，希望你能感受到『七圣召唤』的乐趣！」
 
-#### 场景
 
 **斯万:** 准备好的话就尽快开始吧，我还有站岗的工作要做…

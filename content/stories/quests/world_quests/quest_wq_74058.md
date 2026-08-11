@@ -50,7 +50,6 @@
 
 **Пука:** Нет, что ты! Нам в деревне мора не нужна... И потом, вы так мне помогли, а я всего лишь показала места с рудой!
 
-#### Сцена
 
 **Чесил:** Добро пожаловать... Ой, привет! Это вы!
 
@@ -64,7 +63,6 @@
 
 **Чесил:** Буду по-прежнему ждать вас здесь.
 
-#### Сцена
 
 **Чесил:** Добро пожаловать! Вот мы и встретились снова.
 
@@ -122,7 +120,6 @@ You tell Puca about how you sold the strange ore to the gemstone merchant...
 
 **Puca:** Oh, it's alright. We don't really need anything like that in the village, anyway... not to mention how you've helped me so much, too!
 
-#### Scene
 
 **Chesil:** Welcome... Oh hey, it's you!
 
@@ -136,7 +133,6 @@ Not yet.
 
 **Chesil:** I'll still be here waiting for your good news.
 
-#### Scene
 
 **Chesil:** Welcome! We meet again.
 
@@ -194,7 +190,6 @@ Not yet.
 
 **芙佳:** 不用不用，不用啦，在村子里生活也不需要这种东西…而且你们帮了我好多，这不算什么啦！
 
-#### 场景
 
 **切瑟尔:** 欢迎光临…哦哦，是你们啊！
 
@@ -208,7 +203,6 @@ Not yet.
 
 **切瑟尔:** 那么我就还是在此静候佳音了。
 
-#### 场景
 
 **切瑟尔:** 欢迎光临，又见面了。
 

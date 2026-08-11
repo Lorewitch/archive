@@ -414,7 +414,6 @@
 
 **Паймон:** Давай ещё немного поиграем со своими маленькими дружочками, а потом встретимся в Порт-Ормосе!
 
-#### Сцена
 
 **Паймон:** Произнести речь
 
@@ -812,7 +811,6 @@ Me too.
 
 **Paimon:** Anyway, let's spend some final quality time with our shroom buddies. Then we'll all meet up in Port Ormos!
 
-#### Scene
 
 **Paimon:** Give a speech
 
@@ -1210,6 +1208,5 @@ Me too.
 
 **派蒙:** 大家就先和自己的伙伴尽情玩耍一段时间吧，之后我们再来奥摩斯港碰头，就这么说定啦！
 
-#### 场景
 
 **派蒙:** 发表演讲

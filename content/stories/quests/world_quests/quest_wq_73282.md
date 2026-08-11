@@ -26,7 +26,6 @@
 
 Массейра сообщил, что Тадлэ ждёт вас на месте вашей первой встречи. Похоже, у неё к вам срочное дело...
 
-#### Сцена
 
 **Массейра:** А, вы здесь! Постойте, боюсь, у меня к вам последняя просьба.
 
@@ -101,7 +100,6 @@
 
 Masseira tells you that Tadhla is waiting for you in the place where you first met. Sounds like Tadhla has something urgent to talk to you about...
 
-#### Scene
 
 **Masseira:** Ah, you've come. A moment, if you please. This should be the last time that I ask a favor of you.
 
@@ -177,7 +175,6 @@ Thus does Masseira the Hunter, elder of Tanit, warn you.
 
 马塞拉转告你说塔德菈在你们最初相遇的地点等候着你，似乎有什么要紧事找你…
 
-#### 场景
 
 **马塞拉:** 啊，您来了！请您留步，这恐怕是我最后一次拜托您了。
 

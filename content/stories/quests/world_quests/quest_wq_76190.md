@@ -26,7 +26,6 @@
 
 Золотистые аксолотли также обитают в море Пустоты...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -40,7 +39,6 @@
 
 Golden Loaches appear to inhabit Voidsea Outlook as well...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -54,7 +52,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 在虚海望似乎也有金鳅鳅生息…
 
-#### 场景
 
 快速做好了调查的准备…
 

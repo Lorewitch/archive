@@ -430,7 +430,6 @@
 
 **Паймон:** Кажется, ничего сложного. Неужели спустя столько времени нам снова удастся поговорить с Нахидой?.. Не будем откладывать!
 
-#### Сцена
 
 **Пхаки:** ...Как думаешь, если мы будем здесь играть, нам не влетит?
 
@@ -438,7 +437,6 @@
 
 **Пхаки:** Но тот дедушка в синей шапке и с длинной бородой такой страшный... Его сегодня не будет?
 
-#### Сцена
 
 **Мир:** ...Я думал, тебя заинтересует церемония в честь Дня Джнагарбхи, а ты здесь бездельничаешь...
 
@@ -484,7 +482,6 @@
 
 **Нахида:** Я хотела стать настоящим Архонтом.
 
-#### Сцена
 
 **Вихар:** О, это вы! Как там ваш план? Вы пришли к Нилу?
 
@@ -550,7 +547,6 @@
 
 **Вихар:** Не за что. Это тебе спасибо, мне выпала такая честь - увидеть твой танец вблизи.
 
-#### Сцена
 
 **Осмотреть поверженных стражников...:** (Кто-то оглушил этих двух охранников и снял с них терминалы Акаши. Видимо, они лежат здесь недолго, их ещё никто не заметил...)
 
@@ -1010,7 +1006,6 @@
 
 **Дэхья:** Ладно, ступайте! Мне нужно ещё кое-что уладить в городе. Увидимся позже.
 
-#### Сцена
 
 **Ху Шан:** Я заметил, что ты любишь покрасоваться перед Нилу.
 
@@ -3032,7 +3027,6 @@
 
 **Аль-Хайтам:** Жаль, в Академии сейчас остались только мудрецы из Вахуманы и Амурты. Выступив против Азара, они оказались за решёткой, и смогли освободиться лишь после его свержения.
 
-#### Сцена
 
 **Аль-Хайтам:** Сейчас во всей Академии только в Доме даэны тихо и спокойно, мне хотелось побыть здесь ещё немного...
 
@@ -5086,7 +5080,6 @@ Let's review what we discussed during our strategy meeting.
 
 **Paimon:** Sounds easy enough. We can finally talk with Nahida after all this time... Let's do it!
 
-#### Scene
 
 **Phaki:** ...You think we'll get yelled at again if we play here?
 
@@ -5094,7 +5087,6 @@ Let's review what we discussed during our strategy meeting.
 
 **Phaki:** But that grandpa with the blue hat and long beard looks really scary... You think he'll be here today?
 
-#### Scene
 
 **Mir:** ...I thought you'd be interested in the Jnagarbha Day ceremony, but you're just out here instead.
 
@@ -5140,7 +5132,6 @@ Hey, Nahida!
 
 **Nahida:** I want to become a worthy archon.
 
-#### Scene
 
 **Vihar:** Hey, it's you guys! How did your plan go? Are you here for Nilou?
 
@@ -5206,7 +5197,6 @@ Hey, Nahida!
 
 **Vihar:** You're welcome. The honor's all mine, since I'll have such a great view of the show.
 
-#### Scene
 
 **Observe the unconscious guards...:** (Someone has knocked these two guards out and removed their Akasha Terminals not long ago. No one seems to have noticed them yet.)
 
@@ -5666,7 +5656,6 @@ You were scared out of your wits just a moment ago...
 
 **Dehya:** All right, you two better go. I still have to clean up some messes in the city. See you around.
 
-#### Scene
 
 **Hushang:** You really like to play cool in front of Nilou.
 
@@ -7688,7 +7677,6 @@ Thanks for your hard work these days.
 
 **Alhaitham:** Unfortunately, only the sages from Vahumana and Amurta remain now. They were imprisoned for opposing Azar and were only rescued after Azar's downfall.
 
-#### Scene
 
 **Alhaitham:** The House of Daena is the last quiet place in the whole Akademiya now. I was originally planning to stay here a little longer...
 
@@ -9742,7 +9730,6 @@ That's right.
 
 **派蒙:** 听起来不是很难呢。时隔这么久，终于又要能和纳西妲说上话了吗…我们抓紧吧！
 
-#### 场景
 
 **帕奇:** …你说我们在这里玩，会不会又被骂呀？
 
@@ -9750,7 +9737,6 @@ That's right.
 
 **帕奇:** 可是，那个蓝帽子长胡子的老爷爷，看起来真的好凶…他今天不会出来吧？
 
-#### 场景
 
 **米尔:** …没想到你对「识藏日」的仪式没什么兴趣啊，居然宁可出来闲晃…
 
@@ -9796,7 +9782,6 @@ That's right.
 
 **纳西妲:** 我想要成为一个合格的神明。
 
-#### 场景
 
 **毗伽尔:** 哟，是你们啊，计划完成得怎么样了，是来找妮露么？
 
@@ -9862,7 +9847,6 @@ That's right.
 
 **毗伽尔:** 不客气，能有机会在这么近的地方看你的演出，我才是赚到了的那个。
 
-#### 场景
 
 **观察倒下的卫兵…:** （眼前这两个人被打晕了，虚空终端也被卸了下来。应该是倒下没多久，似乎还没人发现他们…）
 
@@ -10322,7 +10306,6 @@ That's right.
 
 **迪希雅:** 好了你快去吧，城里还有些烂摊子等着我去处理，回头见了。
 
-#### 场景
 
 **胡尚:** 我发现你小子可真爱在妮露小姐面前出风头啊。
 
@@ -12344,7 +12327,6 @@ That's right.
 
 **艾尔海森:** 很可惜，现在院里只剩因论派和生论派的贤者了。他们因反对阿扎尔遭到囚禁，还是等阿扎尔倒台后才获救的。
 
-#### 场景
 
 **艾尔海森:** 现在整个教令院只有智慧宫算得上清净，本来想在这里多待一会儿…
 

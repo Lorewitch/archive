@@ -26,7 +26,6 @@
 
 Войдя в странную комнату, Катерпиллер кое-что вспомнил...
 
-#### Сцена
 
 **Паймон:** Ого! Что это за место?
 
@@ -42,7 +41,6 @@
 
 **Паймон:** Есть какие-нибудь зацепки? Такие, которые могли бы пропустить такие любители, как мы?
 
-#### Сцена
 
 **Паймон:** Именно здесь был создан Ордо Нарциссенкрейц!
 
@@ -52,7 +50,6 @@
 
 **Паймон:** Возможно, существуют зацепки, которые мы пропустили, но которые сразу же опознает Катерпиллер.
 
-#### Сцена
 
 **Паймон:** Что такое? Что-то случилось?
 
@@ -386,7 +383,6 @@
 
 In a wondrous room, Caterpillar recalls something...
 
-#### Scene
 
 **Paimon:** Whoa, what is this place?
 
@@ -402,7 +398,6 @@ In a wondrous room, Caterpillar recalls something...
 
 **Paimon:** Do you spot any clues? You know, the kind that outsiders like us would easily miss.
 
-#### Scene
 
 **Paimon:** Well, this is the Narzissenkreuz Ordo!
 
@@ -412,7 +407,6 @@ In a wondrous room, Caterpillar recalls something...
 
 **Paimon:** Maybe there might be clues that we've overlooked, but that you could spot off the bat!
 
-#### Scene
 
 **Paimon:** So, have you found anything?
 
@@ -746,7 +740,6 @@ So, what would your wish be, Paimon?
 
 来到了奇妙的房间，卡特皮拉回忆起了一些信息…
 
-#### 场景
 
 **派蒙:** 呜啊，这里是什么地方啊？
 
@@ -762,7 +755,6 @@ So, what would your wish be, Paimon?
 
 **派蒙:** 你能注意到什么线索吗？那种我们这种外行会一眼看漏的那种。
 
-#### 场景
 
 **派蒙:** 这里就是「水仙十字结社」了！
 
@@ -772,7 +764,6 @@ So, what would your wish be, Paimon?
 
 **派蒙:** 或许有些我们没注意到的线索，卡特皮拉一下子就能认出来吧。
 
-#### 场景
 
 **派蒙:** 怎么样，有发现什么吗？
 

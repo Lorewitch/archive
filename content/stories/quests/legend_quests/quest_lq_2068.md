@@ -6,8 +6,8 @@
 # title_en: The Magic Known as Storytelling
 # title_zh: 名为故事的魔法
 # region: Мондштадт
-# game_version: 1.0
-# release_versions: 1.0,6.2
+# game_version: 6.2
+# release_versions: 6.2
 # source_id: 2068
 # chapter_num_ru: Алый Дракон. Глава I
 # chapter_num_en: Draco Rubedo Chapter: Act I
@@ -18,7 +18,7 @@
 # related_quests:
 # quest_chain: quest_lq_2068
 # quest_series:
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 
@@ -316,7 +316,6 @@
 
 **Лиза:** Согласно отчёту, таких книг было три. Надеюсь, вы их найдёте.
 
-#### Сцена
 
 «Записи об экспериментах №■■■»
 
@@ -340,7 +339,6 @@
 
 **Паймон:** Подозрительная книга!
 
-#### Сцена
 
 «Второе сильнейшее заклинание...»
 
@@ -364,7 +362,6 @@
 
 **Паймон:** В этой книге наверняка что-то не так.
 
-#### Сцена
 
 «Поэмы ■■»
 
@@ -394,7 +391,6 @@
 
 **Паймон:** Надо отнести Лизе, пусть посмотрит.
 
-#### Сцена
 
 «Полная сокровищница Прыг-скок»
 
@@ -416,7 +412,6 @@
 
 **Паймон:** Лучше показать Лизе.
 
-#### Сцена
 
 «Принцесса-кабан»
 
@@ -498,7 +493,6 @@
 
 **Дурин:** Я тоже так думаю.
 
-#### Сцена
 
 Я ещё поищу...
 
@@ -756,7 +750,6 @@
 
 **Паймон:** Так бы сразу и сказала!
 
-#### Сцена
 
 **Осмотреть меч воина:** (Игрушечный меч. Подходит для роли воина.)
 
@@ -932,7 +925,6 @@
 
 **М.:** После того как дракончик получил благословения ведьм, его судьба наконец начала меняться.
 
-#### Сцена
 
 **Осмотреть рогатку странствующего героя:** (Маленькая рогатка. Подходит для роли странствующего героя.)
 
@@ -1172,7 +1164,6 @@
 
 **Дурин:** Пожалуйста, идите за мной.
 
-#### Сцена
 
 **Паймон:** Подождите. Вы...
 
@@ -1224,11 +1215,9 @@
 
 **Дурин:** Да, следуйте за мной!
 
-#### Сцена
 
 **Кли:** Братец / Сестрица почётный рыцарь и братец Дурин отправляются на поиски приключений? Но сегодня действующий магистр Джинн запретила Кли выходить из города... Когда вернётесь, не забудьте рассказать Кли о своих приключениях!
 
-#### Сцена
 
 **Фишль:** Причуды судьбы... хм.
 
@@ -1782,7 +1771,6 @@
 
 **Дурин:** ...Сначала осмотримся.
 
-#### Сцена
 
 **Паймон:** Если пойти по этой дороге, то мы направимся в Мондштадт согласно первоначальному плану.
 
@@ -1806,7 +1794,6 @@
 
 **Дурин:** Дай-ка подумать...
 
-#### Сцена
 
 **Дракончик:** Вернуться в замок...
 
@@ -1834,7 +1821,6 @@
 
 **Дурин:** Мне нужно подумать...
 
-#### Сцена
 
 **М.:** Эта дорога также ведёт в сторону выхода отсюда, однако каждый раз, когда бродячий кот пытается шагнуть вперёд, ветви истории возвращают его на прежнее место.
 
@@ -1876,7 +1862,6 @@
 
 **Дурин:** Возможно, Мастер Шляпка действительно прав в своих рассуждениях, но я не могу принять такое решение легкомысленно...
 
-#### Сцена
 
 **Паймон:** Если пойти по этой дороге, то вернёмся в замок.
 
@@ -1890,7 +1875,6 @@
 
 **Дурин:** ...Понятно.
 
-#### Сцена
 
 **М.:** Эта дорога также ведёт в сторону выхода отсюда, однако каждый раз, когда бродячий кот пытается шагнуть вперёд, ветви истории возвращают его на прежнее место.
 
@@ -1912,7 +1896,6 @@
 
 **Странник:** ...Ладно, пойдём поищем ещё.
 
-#### Сцена
 
 **Паймон:** Концовка была ужасной, мы ни в коем случае не должны снова выбирать тот путь.
 
@@ -1964,7 +1947,6 @@
 
 **М.:** Бумажный корабль поднялся в воздух и полетел в направлении, указанном в предсказании.
 
-#### Сцена
 
 **Паймон:** Это... Припоминаю!
 
@@ -2274,7 +2256,6 @@
 
 **Альбедо:** Что бы ни случилось дальше, Дурину понадобится наша помощь. Все готовы?
 
-#### Сцена
 
 **Дурин:** Вернуться в замок...
 
@@ -2306,7 +2287,6 @@
 
 **Дурин:** ...Понятно.
 
-#### Сцена
 
 **Дурин:** ...Можно ли уничтожить это сердце?
 
@@ -2332,13 +2312,11 @@
 
 Я готов(а).
 
-#### Сцена
 
 Мы готовы.
 
 Мы готовы.
 
-#### Сцена
 
 **Дурин:** А вот и ты!
 
@@ -2468,11 +2446,9 @@
 
 **Паймон:** Что с Рассказчицей?
 
-#### Сцена
 
 (Сделать то, что сказал Альбедо, тоже не получится - чернил не хватает, нужно искать другой способ.)
 
-#### Сцена
 
 **Паймон:** Чернил не хватает... Как такое могло случиться?
 
@@ -3252,7 +3228,6 @@ It's very possible...
 
 **Lisa:** According to the report, there are three of these books in total. I'll be relying on you to track them down, cuties.
 
-#### Scene
 
 "Experiment Log No. ■■■"
 
@@ -3276,7 +3251,6 @@ It's very possible...
 
 **Paimon:** There's something seriously suspicious about this book!
 
-#### Scene
 
 "Second Strongest Spell in Existence..."
 
@@ -3300,7 +3274,6 @@ It's very possible...
 
 **Paimon:** Huh, there's definitely something fishy about this one...
 
-#### Scene
 
 "■■ Verses"
 
@@ -3330,7 +3303,6 @@ It's very possible...
 
 **Paimon:** Let's see what Lisa makes of it.
 
-#### Scene
 
 "Jumpy Dumpty Treasure Trove"
 
@@ -3352,7 +3324,6 @@ Guess it's a "restricted" book in its own way...
 
 **Paimon:** We'd better show it to Lisa...
 
-#### Scene
 
 "The Boar Princess"
 
@@ -3434,7 +3405,6 @@ Let's follow her suggestion for now.
 
 **Durin:** Yeah, I agree.
 
-#### Scene
 
 I'd better keep looking...
 
@@ -3682,7 +3652,6 @@ Leave it to me.
 
 **Paimon:** Why didn't you just say so!?
 
-#### Scene
 
 **Observe the "warrior's sword":** (A toy sword. Perfect for a little warrior in the making.)
 
@@ -3858,7 +3827,6 @@ I'm guessing... Klee took you fish blasting?
 
 **"M":** With the witches' blessings given and received, the little dragon's fate at last began to turn.
 
-#### Scene
 
 **Observe the "wandering hero's slingshot":** (A little slingshot. Just the thing for a wandering hero-to-be.)
 
@@ -4098,7 +4066,6 @@ Only...?
 
 **Durin:** Come on, follow me.
 
-#### Scene
 
 **Paimon:** Wait, is that...?
 
@@ -4150,11 +4117,9 @@ So, our companions from Simulanka are here...
 
 **Durin:** Yes, so please, come with me!
 
-#### Scene
 
 **Klee:** Mr. / Miss Honorary Knight and Durin, are you heading off on a big adventure? But, but... Master Jean said I can't leave the city today. Promise me you'll tell me all about it when you get back, okay?
 
-#### Scene
 
 **Fischl:** So be it... Such are fate's accursed wiles. Hmph!
 
@@ -4708,7 +4673,6 @@ Any ideas, Durin?
 
 **Durin:** Why don't we take a look around?
 
-#### Scene
 
 **Paimon:** If we go this way, we'll be heading back to Mondstadt, just like we planned.
 
@@ -4732,7 +4696,6 @@ Any ideas, Durin?
 
 **Durin:** Let me think about it...
 
-#### Scene
 
 **Little Dragon:** Returning to the castle...
 
@@ -4760,7 +4723,6 @@ What do you think, Durin?
 
 **Durin:** I just... need some time to think this over.
 
-#### Scene
 
 **"M":** It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
 
@@ -4802,7 +4764,6 @@ What do you think, Durin?
 
 **Durin:** Well... maybe Hat Guy has his reasons for thinking that way, but that's not the kind of decision I can make so easily.
 
-#### Scene
 
 **Paimon:** If we go this way, we'll be returning to the castle.
 
@@ -4816,7 +4777,6 @@ What do you think, Durin?
 
 **Durin:** ...I see.
 
-#### Scene
 
 **"M":** It seemed to lead away from this place, but each time he tried to follow it, the branches of the tale sent him back to the start.
 
@@ -4838,7 +4798,6 @@ That won't solve anything.
 
 **Wanderer:** Fair enough. I guess we'll just have to keep searching.
 
-#### Scene
 
 **Paimon:** Ugh, that last ending was awful... No way we're picking that path again!
 
@@ -4890,7 +4849,6 @@ That won't solve anything.
 
 **"M":** Carried by the wind, the boat took flight, bound for the place foretold by the prophecy.
 
-#### Scene
 
 **Paimon:** Hold on... That looks familiar!
 
@@ -5200,7 +5158,6 @@ Is that... a hidden path?
 
 **Albedo:** Whatever happens next, Durin is going to need all of our help. Is everyone ready?
 
-#### Scene
 
 **Durin:** Returning to the castle...
 
@@ -5232,7 +5189,6 @@ You seem like you're torn about something?
 
 **Durin:** ...I see.
 
-#### Scene
 
 **Durin:** Do you think we could just... destroy it?
 
@@ -5258,13 +5214,11 @@ Why would you want to do that?
 
 Ready when you are.
 
-#### Scene
 
 We're ready.
 
 We're ready.
 
-#### Scene
 
 **Durin:** There you are...
 
@@ -5394,11 +5348,9 @@ But, then why are we still here?
 
 **Paimon:** Uh, what's up with the narrator...?
 
-#### Scene
 
 (We've run out of ink... So much for Albedo's plan. We have to find another way.)
 
-#### Scene
 
 **Paimon:** Not enough ink? Seriously...?
 
@@ -6178,7 +6130,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **丽莎:** 根据汇报，这样的书一共有三本，那就劳烦各位了。
 
-#### 场景
 
 《■■■号实验记录》
 
@@ -6202,7 +6153,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **派蒙:** 这本书很可疑！
 
-#### 场景
 
 《第二强大的魔法…》
 
@@ -6226,7 +6176,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **派蒙:** 这本书八成有问题。
 
-#### 场景
 
 《■■之诗》
 
@@ -6256,7 +6205,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **派蒙:** 拿过去给丽莎看看吧。
 
-#### 场景
 
 《蹦蹦宝藏大全》
 
@@ -6278,7 +6226,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **派蒙:** 还是给丽莎看看吧。
 
-#### 场景
 
 《野猪公主》
 
@@ -6360,7 +6307,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** 嗯，我也这么认为。
 
-#### 场景
 
 我再去找找…
 
@@ -6608,7 +6554,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **派蒙:** 早说嘛！
 
-#### 场景
 
 **观察「战士的长剑」:** （一柄玩具剑，看起来很适合用来扮演战士。）
 
@@ -6784,7 +6729,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **魔女M:** 接受了女巫们的祝福后，小龙的命运终于开始转动了。
 
-#### 场景
 
 **观察「游侠的弹弓」:** （一副小弹弓，看起来很适合用来扮演游侠。）
 
@@ -7024,7 +6968,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** 请跟我走。
 
-#### 场景
 
 **派蒙:** 你们是…
 
@@ -7076,11 +7019,9 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** 嗯，请跟我来！
 
-#### 场景
 
 **可莉:** 荣誉骑士哥哥 / 姐姐和小杜林哥哥是要去大冒险吗？但今天琴团长不许可莉出城…回来之后记得把冒险讲给可莉听哦！
 
-#### 场景
 
 **菲谢尔:** 命运的诡计…哼。
 
@@ -7634,7 +7575,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** …先四处看看吧。
 
-#### 场景
 
 **派蒙:** 走这条路的话，就是按原计划去蒙德吧。
 
@@ -7658,7 +7598,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** 让我想一想…
 
-#### 场景
 
 **小龙:** 回到城堡中去…
 
@@ -7686,7 +7625,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** 我需要考虑一下…
 
-#### 场景
 
 **魔女M:** 这条道路也指向离开此地的方向，然而每当流浪猫想要踏步向前，故事的枝杈就会送他回到原地。
 
@@ -7728,7 +7666,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** 或许阿帽这样想确实有他的道理，但我不能随便做这种决定…
 
-#### 场景
 
 **派蒙:** 走这条路的话，就会回到城堡里面去。
 
@@ -7742,7 +7679,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** …我明白了。
 
-#### 场景
 
 **魔女M:** 这条道路也指向离开此地的方向，然而每当流浪猫想要踏步向前，故事的枝杈就会送他回到原地。
 
@@ -7764,7 +7700,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **流浪者:** …也罢，那就再去其他地方看看吧。
 
-#### 场景
 
 **派蒙:** 刚刚那个结局太糟糕了，我们绝不能再选那条路了。
 
@@ -7816,7 +7751,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **魔女M:** 折纸船乘风而起，飞向了预言所指的方向。
 
-#### 场景
 
 **派蒙:** 这是…我有印象！
 
@@ -8126,7 +8060,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **阿贝多:** 无论接下来会发生什么，杜林肯定需要我们所有人的帮助，大家都准备好了吗？
 
-#### 场景
 
 **杜林:** 回到城堡中去…
 
@@ -8158,7 +8091,6 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **杜林:** …我明白了。
 
-#### 场景
 
 **杜林:** …能不能直接把这颗心脏破坏掉呢？
 
@@ -8184,13 +8116,11 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 我准备好了。
 
-#### 场景
 
 准备好了。
 
 准备好了。
 
-#### 场景
 
 **杜林:** 果然在这里…
 
@@ -8320,11 +8250,9 @@ You find an important clue, but until Albedo returns, the full truth remains out
 
 **派蒙:** 旁白怎么了…
 
-#### 场景
 
 （按照阿贝多说的做也行不通，「墨水」不够了，得找找其他办法。）
 
-#### 场景
 
 **派蒙:** 墨水不够了…怎么会这样？
 

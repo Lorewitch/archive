@@ -26,7 +26,6 @@
 
 Вы обнаруживаете художника из Фонтейна лежащим на земле в пещере у воды...
 
-#### Сцена
 
 **Паймон:** Давай оставим ему что-нибудь вкусненькое?
 
@@ -206,7 +205,6 @@
 
 **Жюльен:** Спасибо вам, друзья!
 
-#### Сцена
 
 **Жюльен:** Путь паломничества. Как я мог сбиться с пути?..
 
@@ -220,7 +218,6 @@
 
 You find an artist from Fontaine in distress in a cave by the water...
 
-#### Scene
 
 **Paimon:** Should we leave it something nice to eat?
 
@@ -400,7 +397,6 @@ It feels like you did read it, and yet you didn't. Like time alone was wasted wi
 
 **Julien:** Thank you, my friends.
 
-#### Scene
 
 **Julien:** The path of pilgrimage. How did I lose track of it...
 
@@ -414,7 +410,6 @@ It feels like you did read it, and yet you didn't. Like time alone was wasted wi
 
 在水边洞窟遇到了落难的枫丹画家…
 
-#### 场景
 
 **派蒙:** 要给它留点什么好吃的吗？
 
@@ -594,7 +589,6 @@ It feels like you did read it, and yet you didn't. Like time alone was wasted wi
 
 **于连:** 嗯，谢谢你们，好朋友。
 
-#### 场景
 
 **于连:** 朝圣之路…怎么会跟丢了痕迹呢…
 

@@ -156,7 +156,7 @@ The most awaited moment of the Lantern Rite is the time when a giant Mingxiao La
 
 **Paimon:** Sounds fascinating. Traveler, how about we take a look now?
 
-#### Talk to Paimon (Hidden)
+#### Talk to Paimon
 
 **Paimon:** On the final day of the Lantern Rite festival, huge crowds come out to watch the Mingxiao Lantern being released.
 
@@ -246,7 +246,7 @@ We are here to report some suspicious activity.
 
 **派蒙:** 听起来很有趣，旅行者，我们现在就过去看看吗？
 
-#### (test)与派蒙对话（隐藏）
+#### 与派蒙对话
 
 **派蒙:** 在海灯节的最后一天，会有很多很多人来看「明霄灯」放飞。
 

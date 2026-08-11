@@ -26,7 +26,6 @@
 
 В одном из уголков Миража Велуриям вы с Паймон обнаружили необычный громкоговоритель. Похоже, если последовать его указаниям, можно поучаствовать в увлекательном и оригинальном развлечении...
 
-#### Сцена
 
 **Информационный громкоговоритель:** О путешественники, наконец-то после долгих скитаний вы пришли сюда, следуя подсказкам судьбы!
 
@@ -250,7 +249,6 @@
 
 **Паймон:** Что? Как же так!
 
-#### Сцена
 
 **Паймон:** Погоди... Паймон сразу не обратила внимание... Здесь есть потайная дверь?
 
@@ -913,7 +911,6 @@
 
 In a corner of the Veluriyam Mirage, you and Paimon discover a strange announcement speaker, and following the instructions, it seems you can participate in a very unique attraction...
 
-#### Scene
 
 **Park Announcement Speaker:** Let us give thanks to fate, dear travelers, for your wanderings have finally brought you here!
 
@@ -1137,7 +1134,6 @@ Take us to the world of reverie!
 
 **Paimon:** Seriously!?
 
-#### Scene
 
 **Paimon:** Hmm... Wait, how come we didn't notice this secret door before?
 
@@ -1799,7 +1795,6 @@ The village ceases its descent and gradually ascends back to its original altitu
 
 在「琉形蜃境」的一角，你和派蒙发现了一座奇特的告示喇叭，循着旁白的指引，似乎就能参与一项别具乐趣的游乐项目…
 
-#### 场景
 
 **乐园告示喇叭:** 由衷感谢命运的指引，四处徘徊的旅人们啊，你们总算来到了这里！
 
@@ -2023,7 +2018,6 @@ The village ceases its descent and gradually ascends back to its original altitu
 
 **派蒙:** 欸？怎么这样！
 
-#### 场景
 
 **派蒙:** 唔…等等，之前还没有注意到，这里有一个隐藏的门？
 

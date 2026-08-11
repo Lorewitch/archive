@@ -26,7 +26,6 @@
 
 Травник Гуй из хижины «Бубу» ломает над чем-то голову...
 
-#### Сцена
 
 **Чжи Хуа:** Ох, мне нужно передохнуть...
 
@@ -100,7 +99,6 @@
 
 **Гуань Хай:** Но, спасибо за заботу. Я буду относиться к этому вопросу внимательнее.
 
-#### Сцена
 
 **Травник Гуй:** О, привет. Небесный фонарь готов?
 
@@ -202,7 +200,6 @@
 
 **Травник Гуй:** Прости, но мне пора! Счастливого Праздника морских фонарей тебе!
 
-#### Сцена
 
 **Травник Гуй:** Так, достаточно ли у нас трав...
 
@@ -212,7 +209,6 @@
 
 Bubu Pharmacy's Herbalist Gui is racking his brains about something...
 
-#### Scene
 
 **Zhihua:** Argh, I need to take a breather...
 
@@ -286,7 +282,6 @@ No indigestion for you?
 
 **Guanhai:** Still, thanks for the concern. I'll be careful.
 
-#### Scene
 
 **Herbalist Gui:** Ah, it's you. Have you finished that Xiao Lantern?
 
@@ -388,7 +383,6 @@ And as for Bubu Pharmacy's business?
 
 **Herbalist Gui:** I'm sorry — I have to go! Happy Lantern Rite!
 
-#### Scene
 
 **Herbalist Gui:** I wonder if we have enough herbs left...
 
@@ -398,7 +392,6 @@ And as for Bubu Pharmacy's business?
 
 璃月港不卜庐的阿桂似乎正在为了某些事发愁…
 
-#### 场景
 
 **志华:** 哎哟，我得再歇一会…
 
@@ -472,7 +465,6 @@ And as for Bubu Pharmacy's business?
 
 **观海:** 不过谢谢你的好意，我会注意的。
 
-#### 场景
 
 **阿桂:** 你来了，霄灯已经做好了吗？
 
@@ -574,6 +566,5 @@ And as for Bubu Pharmacy's business?
 
 **阿桂:** 抱歉，我要先走了！祝你们海灯节快乐！
 
-#### 场景
 
 **阿桂:** 唔…药还够不够啊…

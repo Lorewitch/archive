@@ -502,7 +502,6 @@
 
 **Дайнслейф:** Пойдёмте вон туда, на свет. Будьте осторожны. Падать высоковато.
 
-#### Сцена
 
 **Паймон:** Здесь нет никакого секрета ордена Бездны... Только несколько хиличурлов, дни которых сочтены.
 
@@ -624,7 +623,6 @@
 
 **Паймон:** Пойдёмте!
 
-#### Сцена
 
 **Паймон:** Посмотрите наверх, там пруд!
 
@@ -698,7 +696,6 @@
 
 **Дайнслейф:** Возможно, впереди есть что-то, и он хочет, чтобы мы это увидели. За ним.
 
-#### Сцена
 
 **Паймон:** Примитивный лагерь хиличурлов...
 
@@ -1492,7 +1489,6 @@ Maybe he recognized you.
 
 **Dainsleif:** Let's head toward the light over there. Mind your footing on the way ahead. It's a long way down.
 
-#### Scene
 
 **Paimon:** So there's no Abyss Order secrets to be found here... Just a bunch of hilichurls nearing the end of their existence.
 
@@ -1614,7 +1610,6 @@ Maybe he recognized you.
 
 **Paimon:** C'mon, let's go!
 
-#### Scene
 
 **Paimon:** Look, up there! A water pool!
 
@@ -1688,7 +1683,6 @@ The Black Serpent Knights present here do not, in truth, mean you ill. They are 
 
 **Dainsleif:** Perhaps whatever lies ahead is what he wants us to see. Let's keep going.
 
-#### Scene
 
 **Paimon:** It's a humble hilichurl camp...
 
@@ -2482,7 +2476,6 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **戴因斯雷布:** 走吧，那里有亮光。千万注意别从前面的平台上失足掉下去。
 
-#### 场景
 
 **派蒙:** 不是什么深渊教团的秘密，被守护着的…竟然只是一些快要迎来终结的丘丘人。
 
@@ -2604,7 +2597,6 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **派蒙:** 我们快过去吧！
 
-#### 场景
 
 **派蒙:** 快看头顶上，居然有个水池！
 
@@ -2678,7 +2670,6 @@ Dainsleif figures out the Abyss Order's plan from the twin's memories left withi
 
 **戴因斯雷布:** 前面可能有他想让我们看到的东西。跟上去吧。
 
-#### 场景
 
 **派蒙:** 一处有些简陋的丘丘人营地…
 

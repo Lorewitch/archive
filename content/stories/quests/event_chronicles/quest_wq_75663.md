@@ -1,6 +1,6 @@
 # id: quest_wq_75663
 # story_group: event_chronicles
-# display_category: Ивент · Sunspray Summer Resort (Event)
+# display_category: Ивент · Лето! Жара? Курорт!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Стрелки в урагане
 # title_en: Strikers Through the Storm
@@ -17,7 +17,7 @@
 # next_quests:
 # related_quests:
 # quest_chain: quest_wq_75663
-# quest_series: Sunspray Summer Resort (Event)
+# quest_series: Sunspray Summer Resort
 # version_source: wiki_release_category
 
 ## RU

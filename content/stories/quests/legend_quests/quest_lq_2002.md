@@ -774,7 +774,6 @@
 
 **Дилюк:** Ты ещё здесь? Поторопись, я не буду ждать всю ночь.
 
-#### Сцена
 
 **Хоффман:** Это всего лишь два стакана сока, позволь мне угостить тебя.
 
@@ -1760,7 +1759,6 @@ Knight Huffman has informed you that the Abyss Order is plotting against the Dar
 
 **Diluc:** Hmm? You'd better get on with it, I can't wait all evening.
 
-#### Scene
 
 **Huffman:** It's only a couple of fruit juices, really, let me get them for you.
 
@@ -2746,7 +2744,6 @@ Knight Huffman has informed you that the Abyss Order is plotting against the Dar
 
 **迪卢克:** 嗯？还不去吗，我可没法等你一晚上。
 
-#### 场景
 
 **霍夫曼:** 两杯果汁的钱还是没关系的，真的不需要我请客吗？
 

@@ -108,17 +108,14 @@
 
 **Железный Куай:** Ничего страшного. Мне всё равно нужно ещё как-то закончить этот стих...
 
-#### Сцена
 
 **Железный Куай:** Хм... Мне кажется, или... этот миндальный тофу странно пахнет?
 
 **Железный Куай:** Таким деликатесом Цзы Вэй угостить я не могу. Пожалуйста, принеси другую порцию.
 
-#### Сцена
 
 **Железный Куай:** Думаю, сойдёт. Ну, а теперь к Цзы Вэй!
 
-#### Сцена
 
 **Железный Куай:** Выглядит отлично! Всё готово... Остаётся лишь найти Цзы Вэй.
 
@@ -170,7 +167,6 @@
 
 **Железный Куай:** Ну, надо хотя бы запустить фонарь...
 
-#### Сцена
 
 **Железный Куай:** «Таинственный Адепт Высочайшего Небосвода, Парящий по Небесной Тверди»... Чё это вообще значит?
 
@@ -262,17 +258,14 @@ We sure did.
 
 **Iron Ingot:** Ah, okay. Don't worry, I can keep working on my poem in the meantime...
 
-#### Scene
 
 **Iron Ingot:** Huh? Is it me... Or does this tofu smell funny?
 
 **Iron Ingot:** I could never give this to Ziwei. Maybe you could help get another one?
 
-#### Scene
 
 **Iron Ingot:** Well, I guess this will do for now. Let's go find Ziwei!
 
-#### Scene
 
 **Iron Ingot:** This looks great! Everything's ready, all we need to do now is find Ziwei!
 
@@ -324,7 +317,6 @@ We sure did.
 
 **Iron Ingot:** Oh, I guess I should at least release this Xiao Lantern now...
 
-#### Scene
 
 **Iron Ingot:** Mysterious Adeptus of the Highest Heaven Soaring Across the Skies... What does it mean?
 
@@ -416,17 +408,14 @@ We sure did.
 
 **铁块儿:** 哎呀没事，我也得再想想这诗该咋写…
 
-#### 场景
 
 **铁块儿:** 嗯…怎么感觉…闻起来就怪怪的…
 
 **铁块儿:** 这怎么能端给紫微，你再帮我换份好的吧。
 
-#### 场景
 
 **铁块儿:** 这个看起来…倒也还行，我们这就去找紫微吧！
 
-#### 场景
 
 **铁块儿:** 这个看着可真不错！这可真是万事俱备…只…只欠去找紫微了！
 
@@ -478,6 +467,5 @@ We sure did.
 
 **铁块儿:** 唉，我至少要把这盏霄灯给放了…
 
-#### 场景
 
 **铁块儿:** 「九天玄罗仙人漫天飞座」是啥意思呢…

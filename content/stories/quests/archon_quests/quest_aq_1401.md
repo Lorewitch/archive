@@ -602,7 +602,6 @@
 
 **Ожеро:** А, ладно, возьму. Наверное, я просто чувствую, что «растворение в воде» необязательно означает смерть.
 
-#### Сцена
 
 **Этьен:** Эй, как насчёт того, чтобы достать билеты на следующее судебное разбирательство?
 
@@ -630,7 +629,6 @@
 
 **Ожеро:** Что думаете? Довольно интересная история, да?
 
-#### Сцена
 
 **Галатея:** Я действительно не могу представить, что было бы, если бы всё изменилось...
 
@@ -892,7 +890,6 @@
 
 **Линетт:** Не стоит думать о таких вещах, Лини.
 
-#### Сцена
 
 **Доска объявлений:** Обращаем ваше внимание, что для дуэли в Фонтейне необходимо получить разрешение. Дуэли регистрируются в соответствующих контролирующих органах.
 
@@ -900,11 +897,9 @@
 
 **Доска объявлений:** Аресты, произведённые Палатой Жардинаж, не считаются дуэлью или дуэльным поведением! Если вы хотите отстоять свою честь, вы можете подать заявку на дуэль во время судебного процесса. Не пытайтесь оказывать сопротивление во избежание бессмысленных убытков или ущерба.
 
-#### Сцена
 
 **Паймон:** Паймон согласна, пошли к тебе. Этот город такой огромный, что Паймон всё равно не знала бы, с чего начать.
 
-#### Сцена
 
 **Шарлотта:** О, простите, не вы ли великий Лини и его помощница Линетт?
 
@@ -990,7 +985,6 @@
 
 **Лини:** Хе-хе, пора выдвигаться. Поднимемся на борт.
 
-#### Сцена
 
 **Доска объявлений:** Разыскивается: Имя неизвестно. Нужна любая информация по этому человеку.
 
@@ -998,11 +992,9 @@
 
 **Доска объявлений:** За информацию, которая поможет поймать этого человека, полагается вознаграждение. Если вы располагаете какой-либо информацией об этом лице, пожалуйста, обратитесь в Палату Жардинаж.
 
-#### Сцена
 
 **Доска объявлений:** Эта доска объявлений специально создана управляющим порта Ромарин для публикации важной информации обо всём, что касается порта и его окрестностей. Здесь также можно размещать любые вопросы.
 
-#### Сцена
 
 Продолжить читать
 
@@ -1616,7 +1608,6 @@
 
 **Лини:** Никогда не знаешь, что может случиться в одно лишь мгновение ока.
 
-#### Сцена
 
 **Паймон:** Ого! Что это сейчас было?! Как у него это вышло?! Паймон не видела, чтобы он что-то делал!
 
@@ -1980,7 +1971,6 @@
 
 **Эсмон:** В любом случае вы можете сами исследовать место преступления, если хотите. Кто знает, может быть, вам удастся найти новые улики.
 
-#### Сцена
 
 **Навия:** Эй, вы там! Да, вы двое! Я уже давно за вами наблюдаю.
 
@@ -2746,7 +2736,6 @@
 
 **Навия:** Если что-нибудь найду, сразу приду к вам!
 
-#### Сцена
 
 **Нёвиллет:** Стороны в сборе. Продолжаем судебное заседание.
 
@@ -4028,7 +4017,6 @@ Is there any way I can help?
 
 **Augereau:** Ah, alright, I'll take it. I guess I just feel that being "dissolved into the water" doesn't necessarily mean death.
 
-#### Scene
 
 **Etienne:** Hey, how about we get some tickets to the next trial?
 
@@ -4056,7 +4044,6 @@ Is there any way I can help?
 
 **Augereau:** What do you think? Pretty interesting story, huh?
 
-#### Scene
 
 **Galathee:** I really can't imagine what it would be like if things changed...
 
@@ -4318,7 +4305,6 @@ Uh, I guess you could say that.
 
 **Lynette:** Please don't imagine that, Lyney.
 
-#### Scene
 
 **Bulletin Board:** Attention all visitors! Any and all dueling within Fontaine will require application and registration with the appropriate authorities.
 
@@ -4326,11 +4312,9 @@ Uh, I guess you could say that.
 
 **Bulletin Board:** Arrests made by the Maison Gardiennage are not considered duels or dueling behavior! If you wish to uphold your honor, you may apply for a duel during the trial process. Refrain from any last-ditch resistance if you wish to avoid meaningless losses.
 
-#### Scene
 
 **Paimon:** Sure, we wouldn't mind at all. This city is so huge, Paimon wouldn't know where to start anyway.
 
-#### Scene
 
 **Charlotte:** Oh! Excuse me, aren't you Great Magician Lyney? And his assistant Lynette!
 
@@ -4416,7 +4400,6 @@ Uh, I guess you could say that.
 
 **Lyney:** Hehe, it's about time for us to leave. Let's get onboard.
 
-#### Scene
 
 **Bulletin Board:** Wanted: Name unknown. Seeking any and all relevant information.
 
@@ -4424,11 +4407,9 @@ Uh, I guess you could say that.
 
 **Bulletin Board:** Rewards are available for information leading to the capture of this individual. If you have any related information, please contact the Maison Gardiennage.
 
-#### Scene
 
 **Bulletin Board:** This bulletin board has been specially set up by the Harbormaster of Romaritime Harbor to publicize all important matters in and around the harbor. Any questions may also be posted here.
 
-#### Scene
 
 Continue Reading
 
@@ -5042,7 +5023,6 @@ It seemed to be calling out someone's name.
 
 **Lyney:** You never know what can happen in the blink of an eye.
 
-#### Scene
 
 **Paimon:** Whoa! What in the world just happened!? How did he do that!? Paimon didn't see him do anything!
 
@@ -5406,7 +5386,6 @@ We're Lyney and Lynette's attorneys.
 
 **Esmond:** Anyway, you may investigate the scene of the crime yourselves if you're curious. Who knows, maybe you'll be able to come up with some new evidence.
 
-#### Scene
 
 **Navia:** Hey, you! Yes, both of you! Over here! I've been keeping an eye on you for a while now.
 
@@ -6172,7 +6151,6 @@ Oh, there's really no need to do that.
 
 **Navia:** I'll be back if I find anything new!
 
-#### Scene
 
 **Neuvillette:** Both parties have returned to their positions. Let us continue the trial.
 
@@ -7454,7 +7432,6 @@ He... turned into water.
 
 **奥格劳:** 呵，好吧，那我就收下了。我只是觉得预言中说的「人们溶解在海里」，也不一定会是死去的意思。
 
-#### 场景
 
 **安托万:** 下一场审判的票要不要去订一下呢？
 
@@ -7482,7 +7459,6 @@ He... turned into water.
 
 **奥格劳:** 如何，我讲的那个寓言故事还算有趣吧？
 
-#### 场景
 
 **伽拉蒂雅:** 要是没有了现在的日子，我还真想象不到会是什么样。
 
@@ -7744,7 +7720,6 @@ He... turned into water.
 
 **琳妮特:** 还请你不要这样想象。
 
-#### 场景
 
 **公告板:** 所有旅客请注意，在枫丹境内一切的决斗行为均需要申请备案。
 
@@ -7752,11 +7727,9 @@ He... turned into water.
 
 **公告板:** 执律庭的抓捕行动不属于决斗范畴！如您需要维护名誉，请在审判中申请决斗，不要负隅顽抗，以避免无意义的损失。
 
-#### 场景
 
 **派蒙:** 怎么会嫌弃呢，不会不会，那我们就先跟你回家好了，反正枫丹廷这么大，也不知道该从哪里逛起。
 
-#### 场景
 
 **夏洛蒂:** 欸，这不是大名鼎鼎的魔术师林尼先生和他的妹妹兼助手琳妮特小姐么？
 
@@ -7842,7 +7815,6 @@ He... turned into water.
 
 **林尼:** 哈哈，时间差不多了，我们还是抓紧上船吧。
 
-#### 场景
 
 **公告板:** 悬赏：姓名未知；悬赏内容：此人的相关信息。
 
@@ -7850,11 +7822,9 @@ He... turned into water.
 
 **公告板:** 现悬赏此人的相关信息，如您知晓相关信息请联系执律庭。
 
-#### 场景
 
 **公告板:** 此为海露港主管所设特别公告板，海露港内外所有重要事务均会在此处公示，如有问题也可在此留言。
 
-#### 场景
 
 继续阅读
 
@@ -8468,7 +8438,6 @@ He... turned into water.
 
 **林尼:** 请谨慎挑选眨眼的时机。
 
-#### 场景
 
 **派蒙:** 呜哇？怎么回事，发生了什么？我什么都没有看见！
 
@@ -8832,7 +8801,6 @@ He... turned into water.
 
 **埃斯蒙德:** 如果你们好奇的话，也可以在罪案现场调查一番，说不定会有意外收获。
 
-#### 场景
 
 **娜维娅:** 对！就是你，准确说是你们！过来，注意你们很久了！
 
@@ -9598,7 +9566,6 @@ He... turned into water.
 
 **娜维娅:** 有新的发现的话，我还会回来的！
 
-#### 场景
 
 **那维莱特:** 双方都已经回到了位置上，那么我们的审判将继续进行。
 

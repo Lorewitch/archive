@@ -282,7 +282,6 @@
 
 **Фурина:** Меня ждёт мой десерт. Вы можете продолжать беседовать без меня.
 
-#### Сцена
 
 **Тиори:** А тут становится всё оживлённей...
 
@@ -1036,7 +1035,6 @@ You mean, the Furina Award?
 
 **Furina:** ...I'm going back to my dessert now. You all can keep discussing that on your own.
 
-#### Scene
 
 **Chiori:** This is turning out to be quite the party...
 
@@ -1790,7 +1788,6 @@ I'm game.
 
 **芙宁娜:** …你们慢慢捋吧，我继续吃我的甜点了。
 
-#### 场景
 
 **千织:** 有些太热闹了…
 

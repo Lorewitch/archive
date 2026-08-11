@@ -498,11 +498,9 @@
 
 **Паймон:** Тогда вперёд, за дело! Мы не первый раз имеем дело с зоной Увядания!
 
-#### Сцена
 
 **Кружащий Электро плесенник:** ♫~♫~♫~
 
-#### Сцена
 
 **Парящий Анемо плесенник:** ???
 
@@ -1160,11 +1158,9 @@
 
 **Нахида:** Домой...
 
-#### Сцена
 
 **Парящий Анемо плесенник:** ???
 
-#### Сцена
 
 **Кружащий Пиро плесенник:** !!!
 
@@ -2132,11 +2128,9 @@ Don't worry. You can try and remember it on the way.
 
 **Paimon:** Then let's do this! We've dealt with The Withering countless times already!
 
-#### Scene
 
 **Whirling Electro Fungus:** ♫~♫~♫~
 
-#### Scene
 
 **Floating Anemo Fungus:** ...?
 
@@ -2794,11 +2788,9 @@ Okay.
 
 **Nahida:** Home...
 
-#### Scene
 
 **Floating Anemo Fungus:** ...?
 
-#### Scene
 
 **Whirling Pyro Fungus:** !
 
@@ -3767,11 +3759,9 @@ with the help of Nabu MThe Goddess of Flowersalikata.
 
 **派蒙:** 那我们就动手，处理「死域」之前已经很有经验了！
 
-#### 场景
 
 **旋转雷蕈兽:** ♫~♫~♫~
 
-#### 场景
 
 **浮游风蕈兽:** ……？
 
@@ -4429,11 +4419,9 @@ with the help of Nabu MThe Goddess of Flowersalikata.
 
 **纳西妲:** 回家…
 
-#### 场景
 
 **浮游风蕈兽:** ……？
 
-#### 场景
 
 **旋转火蕈兽:** ——！
 

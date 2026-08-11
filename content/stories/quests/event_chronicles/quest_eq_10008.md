@@ -156,7 +156,6 @@
 
 **Гао Шестой:** Так хочется есть...
 
-#### Сцена
 
 **Гао Шестой:** Ох... Я снова среди живых!
 
@@ -230,7 +229,6 @@
 
 **Паймон:** Леонард... Паймон никогда этого имени не слыхала.
 
-#### Сцена
 
 **Мона:** Даже простейшее гадание показало бы, что этот человек был Предвестником Фатуи! Вы были в опасности! Как у вас получилось с ним столкнуться?
 
@@ -296,7 +294,6 @@
 
 **Мона:** Пока давайте разберёмся с новой угрозой. Астролябия говорит мне, что упал новый метеорит, и он крупнее всех остальных.
 
-#### Сцена
 
 **Мона:** Вот и он.
 
@@ -446,7 +443,6 @@ The previous victims have said they were cold, too.
 
 **Gao the Sixth:** Food... Need food...
 
-#### Scene
 
 **Gao the Sixth:** Phwoar! That's brought me back from the brink, that has!
 
@@ -520,7 +516,6 @@ It is the same ice-capped mountain in everyone's dream.
 
 **Paimon:** "Leonard..." Paimon's never heard that name before.
 
-#### Scene
 
 **Mona:** Any junior fortune-teller could have told you this, but... That man was a Fatui Harbinger! That was too close, how did you manage to get caught up with a guy like him?
 
@@ -586,7 +581,6 @@ Does the power to summon a meteorite strike really exist?
 
 **Mona:** For now, we must deal with the new threat. My astrolabe tells me that a new meteorite has landed, and it's the biggest one yet.
 
-#### Scene
 
 **Mona:** This is the one.
 
@@ -736,7 +730,6 @@ Let's take a closer look.
 
 **高老六:** 呃呜呜…饿…
 
-#### 场景
 
 **高老六:** 呜啊…活过来了！
 
@@ -810,7 +803,6 @@ Let's take a closer look.
 
 **派蒙:** 莱纳德…没听过的名字呢。
 
-#### 场景
 
 **莫娜:** 即使用最简易的占卜，也能察知那个人…是「愚人众执行官」！太危险了，你们怎么会和他有来往？
 
@@ -876,7 +868,6 @@ Let's take a closer look.
 
 **莫娜:** 先解决新的麻烦吧，星盘显示，有一颗巨大的陨石落地了。
 
-#### 场景
 
 **莫娜:** 就是它了。
 

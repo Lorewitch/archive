@@ -26,7 +26,6 @@
 
 Хоть в Разломе всё пока и успокоилось, Чжи Цюн до сих пор проводит исследовательские работы. Стоит узнать у неё обстановку.
 
-#### Сцена
 
 **Чжи Цюн:** Привет! Путешественник, как дела?
 
@@ -86,7 +85,6 @@
 
 Although the incident in The Chasm has come to a close, Zhiqiong is still involved in other exploration work. Best you go check in on her...
 
-#### Scene
 
 **Zhiqiong:** Hello, Traveler! How have things been?
 
@@ -146,7 +144,6 @@ You're too kind.
 
 虽然层岩之下的事件已经暂时平息，但是志琼似乎还在进行其他的勘测工作，去问问她的情况吧…
 
-#### 场景
 
 **志琼:** 你好！旅行者前辈，最近过得怎样！
 

@@ -26,7 +26,6 @@
 
 Ночью неподалёку от деревни вы встречаете маленькую девочку на бамбуковом плоту...
 
-#### Сцена
 
 **???:** Дедушка...
 
@@ -180,7 +179,6 @@
 
 At night, out in the wild, you encounter a little girl standing on a bamboo raft...
 
-#### Scene
 
 **???:** Grandpa...
 
@@ -334,7 +332,6 @@ I think we're talking about the same person.
 
 夜晚的野外，你们遇见了一位站在竹筏上的小女孩…
 
-#### 场景
 
 **？？？:** 爷爷…
 

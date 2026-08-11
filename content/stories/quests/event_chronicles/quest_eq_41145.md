@@ -26,7 +26,6 @@
 
 Особый заказ ждёт своей доставки в ресторане «Народный выбор»...
 
-#### Сцена
 
 У меня ещё есть другие дела.
 
@@ -70,7 +69,6 @@
 
 Wanmin Restaurant has taken a custom order that now awaits delivery...
 
-#### Scene
 
 Sorry, I'm busy.
 
@@ -114,7 +112,6 @@ Here's the dish you ordered.
 
 璃月港的万民堂里有一份特别订单正等待着派送…
 
-#### 场景
 
 还有别的事。
 

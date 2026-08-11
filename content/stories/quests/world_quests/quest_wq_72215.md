@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** Мяу, когда же этот камень станет похожим на меня?
 
@@ -112,7 +111,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** Meow meow, when did that stone become the spitting image of me...
 
@@ -198,7 +196,6 @@ All done.
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 唔喵，这块石头，什么时候能变得和奴家一样呢…
 

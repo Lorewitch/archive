@@ -488,7 +488,6 @@
 
 **Тэппэй:** В этот раз точно получится. Давай, быстренько.
 
-#### Сцена
 
 **Тэппэй:** Ну что, волнуешься?
 
@@ -622,7 +621,6 @@
 
 **Кудзё Сара:** Мы уже выяснили, кто стоит за сопротивлением. Все, кто идут против сёгуна, будут наказаны.
 
-#### Сцена
 
 **Тэппэй:** Отлично, так будет достаточно. Армии сёгуна будет сложно это преодолеть, как бы им ни хотелось.
 
@@ -1182,7 +1180,6 @@ It was me.
 
 **Teppei:** I'm sure you'll get it this time. Swiftly, now!
 
-#### Scene
 
 **Teppei:** Aha, pressure getting to you?
 
@@ -1316,7 +1313,6 @@ It was me.
 
 **Kujou Sara:** We have already rooted out those behind the resistance. All who have dishonored the Almighty Shogun will be punished.
 
-#### Scene
 
 **Teppei:** Alright, that should do it. The Shogun's Army will have a hard time getting past this, no matter how determined they are!
 
@@ -1544,6 +1540,7 @@ Of course you can come.
 
 与雷电将军的初次见面，发生了超乎预想的冲突。被稻妻通缉的你，现在唯有投靠珊瑚宫的反抗军才能扭转局面。
 
+#### 救出托马
 #### 逃离鸣神岛，前往踏鞴砂寻找反抗军
 
 **派蒙:** 怎么在这里停下来了？
@@ -1872,7 +1869,6 @@ Of course you can come.
 
 **哲平:** 嗯嗯，这次一定没问题。利落地解决吧！
 
-#### 场景
 
 **哲平:** 是不是有点紧张了？
 
@@ -2006,7 +2002,6 @@ Of course you can come.
 
 **九条裟罗:** 我们已经摸清楚了反抗军的家底，忤逆将军大人的人都将受到惩罚。
 
-#### 场景
 
 **哲平:** 好嘞，这样应该就没什么问题了。幕府军那帮家伙，插上翅膀也别想飞进来。
 

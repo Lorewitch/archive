@@ -662,7 +662,6 @@
 
 **Яэ Мико:** Я буду в ресторане «Призрачная беседка». Найдите меня там, когда закончите. Я соберу команду, и мы сможем поработать, пока едим.
 
-#### Сцена
 
 **Накано Сино:** Издательский дом Яэ провёл множество мероприятий по приёму заявок от писателей.
 
@@ -700,7 +699,6 @@
 
 **Тэцуо:** Главная героиня - кицунэ, которая не только разбирается в заклинаниях, но и владеет искусством чайной церемонии, живописью и каллиграфией!
 
-#### Сцена
 
 **Яэ Мико:** Ну как? Что вы узнали?
 
@@ -958,13 +956,11 @@
 
 **Яэ Мико:** Вы можете отдохнуть, пока творческая группа занимается своей работой, но, пожалуйста, зайдите в издательский дом Яэ, чтобы попросить госпожу Хину написать отзыв. Как только новелла будет готова, давайте встретимся на мероприятии, посвящённом подаче заявок писателей.
 
-#### Сцена
 
 **Накано Сино:** После того как вышло в свет «Правдивое руководство по вызову духов», на рынке появилось множество подражателей. Но они были настолько низкого качества, что популярными не стали.
 
 **Накано Сино:** Это показывает, что надо писать в соответствии с собственными интересами. При попытках подражать вы потеряете индивидуальность.
 
-#### Сцена
 
 **Яэ Мико:** Дай-ка подумать... Какому заклинанию госпожа Кицунэ научит главного героя?.. А, придумала!
 
@@ -2214,7 +2210,6 @@ Wait, so you mean...
 
 **Yae Miko:** I'll be at Uyuu Restaurant — find me there when you're done. I will assemble a team, and we can work while we eat.
 
-#### Scene
 
 **Nakano Shino:** The Yae Publishing House has held many writers' submission events to date.
 
@@ -2252,7 +2247,6 @@ Wait, so you mean...
 
 **Tetsuo:** The protagonist is a kitsune who has not only mastered the secret art of incantations, but also tea ceremony, painting, and calligraphy!
 
-#### Scene
 
 **Yae Miko:** How did it go? What did you learn?
 
@@ -2510,13 +2504,11 @@ Well, I'm running low on inspiration...
 
 **Yae Miko:** You're free to take a break while the creative team is doing their work, but please go by the Yae Publishing House at some point to commission Ms. Hina for that recommendation. Once our light novel is complete, let's meet at the writers' submission event.
 
-#### Scene
 
 **Nakano Shino:** After "A Firsthand Guide to Summoning Spirits" took off, a whole host of copycat works appeared on the market. But they were such low quality that no one paid them any attention.
 
 **Nakano Shino:** It just goes to show that you should write to your own interests. If you just try and imitate someone else, you'll lose your way.
 
-#### Scene
 
 **Yae Miko:** Let me think... What spell does Lady Kitsune teach to the protagonist? ...Ah, I've got it!
 
@@ -3766,7 +3758,6 @@ A meal? It's a deal!
 
 **八重神子:** 打听完消息之后，就到乌有亭来。我会把团队组好，等下就可以边吃边工作。
 
-#### 场景
 
 **中野志乃:** 我们八重堂的征文活动已经举办了好几期了。
 
@@ -3804,7 +3795,6 @@ A meal? It's a deal!
 
 **哲夫:** 书中的主角是个妖狐，不仅熟悉咒语秘法，甚至书画茶艺也样样精通！
 
-#### 场景
 
 **八重神子:** 打听的如何？
 
@@ -4062,13 +4052,11 @@ A meal? It's a deal!
 
 **八重神子:** 大家创作这段时间，你可以歇一歇，顺便到八重堂预约一下希娜小姐的推荐。书完成后，我们在征文现场碰面吧。
 
-#### 场景
 
 **中野志乃:** 《真实探灵笔记》火爆之后，市面上也出现了一些跟风之作。可惜大多质量不佳，没有激起什么浪花。
 
 **中野志乃:** 果然还是要写自己觉得有趣的故事才行…一味地模仿，很容易失去本心。
 
-#### 场景
 
 **八重神子:** 让我想想…狐狸小姐教授的术法…嗯，有了！
 

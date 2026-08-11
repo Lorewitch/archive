@@ -26,11 +26,9 @@
 
 Учёный-географ Эстер отправилась в горы с экспедицией проводить климатические исследования. Из-за нападения чудовищ большая часть её маячков была утеряна, и сейчас она ищет того, кто поможет ей их вернуть...
 
-#### Сцена
 
 **Эстер:** Для исследования всей горы этих маячков точно не хватит...
 
-#### Сцена
 
 **Эстер:** Этот маячок сломался... И этот тоже...
 
@@ -84,11 +82,9 @@
 
 The environmentalist Esther and the expedition team with her were set upon by monsters while performing a mountain survey, with the larger part of her survey beacons being lost in the process. She is currently looking for someone who can get them back for her...
 
-#### Scene
 
 **Esther:** There's no way this is enough beacons to survey the whole mountain...
 
-#### Scene
 
 **Esther:** This beacon is useless... So's this one...
 
@@ -142,11 +138,9 @@ Yes.
 
 环境学家艾斯特尔与一支探险队进山勘测时，因为遭遇怪物袭击，她的大部分勘测信标都丢失了，她正在寻找愿意帮她拿回信标的人…
 
-#### 场景
 
 **艾斯特尔:** 只剩下这些信标了，这样根本没法完全勘测雪山嘛…
 
-#### 场景
 
 **艾斯特尔:** 这个信标不能用了…这个也不能用了…
 

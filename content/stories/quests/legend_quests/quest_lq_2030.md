@@ -1238,7 +1238,6 @@
 
 **Тигнари:** Уверен, вас больше волнует, чем сейчас занят Карката. Давайте вернёмся и посмотрим.
 
-#### Сцена
 
 **Осмотреть:** (Перед вами лежит неподвижный Карката и бездыханное тело Абаттуи)
 
@@ -2626,7 +2625,6 @@ Then, Karkata...
 
 **Tighnari:** Oh, but I bet you two are more worried about Karkata. Let's head back.
 
-#### Scene
 
 **Observe:** (Before you lies a non-operational Karkata and a lifeless Abattouy.)
 
@@ -4014,7 +4012,6 @@ So the real reason you stayed back was to...
 
 **提纳里:** 当然，我估计你们此时更关心卡卡塔在做什么。走，一起回去看看吧。
 
-#### 场景
 
 **观察:** （眼前是停止运转的卡卡塔，以及失去生息的阿巴图伊。）
 

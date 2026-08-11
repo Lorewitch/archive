@@ -26,7 +26,6 @@
 
 Праздник в самом разгаре, но Чжи из деревни Цинцэ переживает по поводу лечебных трав...
 
-#### Сцена
 
 **Чжи:** Приступай к сбору этих трёх трав, а я пока обработаю другие.
 
@@ -70,7 +69,6 @@
 
 **Паймон:** Теперь у нас всё есть. Отнесём травы Чжи.
 
-#### Сцена
 
 **Паймон:** Погоди... Сейчас не лучшее время собирать чашечки лотоса.
 
@@ -116,7 +114,6 @@
 
 The festival is in full swing, but Zhi of Qingce Village is trying to remedy a herb-related predicament...
 
-#### Scene
 
 **Zhi:** I'll leave those three herbs to you, I still need to deal with other herbs here.
 
@@ -160,7 +157,6 @@ We can help.
 
 **Paimon:** That should do it! Let's take these Lotus Heads back.
 
-#### Scene
 
 **Paimon:** Wait a second... now doesn't seem to be the right time to be picking Lotus Heads.
 
@@ -206,7 +202,6 @@ What would you like to wish for?
 
 佳节已至，轻策庄的阿芷却在为药材的问题而烦恼…
 
-#### 场景
 
 **阿芷:** 唔，那三味药就拜托你了，我先在这里处理一些其他的药材。
 
@@ -250,7 +245,6 @@ What would you like to wish for?
 
 **派蒙:** 这样就可以了，我们把莲蓬带回去吧。
 
-#### 场景
 
 **派蒙:** 等一下，现在采莲蓬的时间好像不太对呢。
 

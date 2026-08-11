@@ -1,6 +1,6 @@
 # id: quest_lq_2021
 # story_group: legend_quests
-# display_category: Задание репутации · Инадзума
+# display_category: Задание Легенд · Ёимия
 # icon: assets/icons/stories/quests/yoimiya.webp
 # title_ru: Мечтательное безвременье
 # title_en: Dreamlike Timelessness
@@ -18,7 +18,7 @@
 # related_quests: quest_lq_2038
 # quest_chain: quest_lq_2021,quest_lq_2038
 # quest_series: Carassius Auratus || Carassius Auratus Chapter
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 
@@ -904,7 +904,6 @@
 
 **Ёимия:** Старики не очень расторопны, так что давайте поможем им. Сначала мы прополем сорняки, а затем доставим маринованную редьку.
 
-#### Сцена
 
 **Сатору:** Фестиваль фейерверков Наганохары, должно быть, скоро начнётся? Моя дочь уехала довольно давно.
 
@@ -912,7 +911,6 @@
 
 **Сатору:** Главное, чтобы она была счастлива.
 
-#### Сцена
 
 **Иматани Сабуро:** Мне жаль, что от нас мало помощи.
 
@@ -1092,7 +1090,6 @@
 
 **Ёимия:** Мы не можем этого допустить. Пойдём со мной, Путешественник, надо их догнать!
 
-#### Сцена
 
 **Иматани Каори:** Спасибо, дорогие. Извините, что заставляю вас выполнять наши поручения.
 
@@ -2328,7 +2325,6 @@ Though you and Yoimiya managed to secure Sakujirou's passage out by sea, he wave
 
 **Yoimiya:** The old folks aren't very mobile, so c'mon, let's help them out. We'll get rid of the weeds first and then deliver the pickled radish.
 
-#### Scene
 
 **Satoru:** The Naganohara Fireworks Show must be coming up soon, right? My daughter left quite a while ago.
 
@@ -2336,7 +2332,6 @@ Though you and Yoimiya managed to secure Sakujirou's passage out by sea, he wave
 
 **Satoru:** *sigh* But, at least she's happy, I suppose.
 
-#### Scene
 
 **Imatani Saburou:** I'm sorry that we weren't much help.
 
@@ -2516,7 +2511,6 @@ Did you catch any of their names?
 
 **Yoimiya:** We can't let that happen. Come with me, Traveler, let's track them down!
 
-#### Scene
 
 **Imatani Kaori:** Thank you, dears. *sigh* Sorry to make you run errands for us.
 
@@ -3752,7 +3746,6 @@ That's another kind of eternity.
 
 **宵宫:** 跟我来吧，爷爷奶奶腿脚不利索，我们帮帮忙吧，先除草，再去送咸萝卜。
 
-#### 场景
 
 **聪:** 马上就是「长野原烟花会」了吧，我家孩子早就跑出去了。
 
@@ -3760,7 +3753,6 @@ That's another kind of eternity.
 
 **聪:** …唉，她开心就好吧。
 
-#### 场景
 
 **今谷三郎:** 对不起啊，没能帮上你们的忙。
 
@@ -3940,7 +3932,6 @@ That's another kind of eternity.
 
 **宵宫:** 这样肯定不行。旅行者，跟我来，我们沿路打听线索吧！
 
-#### 场景
 
 **今谷香里:** 谢谢你们能帮忙，唉，实在不好意思。
 

@@ -26,13 +26,11 @@
 
 В лесах Сумеру множество странных лагерей, в каждом из которых установлено какое-то диковинное устройство. Кажется, Фатуи используют их для каких-то таинственных целей. Нужно изучить этот вопрос...
 
-#### Сцена
 
 **Рукх-шах:** Это всё благодаря вам...
 
 **Рукх-шах:** И обязательно сообщите, если узнаете что-нибудь о том, где находится Касим.
 
-#### Сцена
 
 **Олег:** Касим... Как дела с машинами Сагиры?
 
@@ -230,7 +228,6 @@
 
 **Паймон:** Кстати, раз ты так долго с ними работаешь, ты точно знаешь, где их опорный пункт!
 
-#### Сцена
 
 **Касим:** Ох, теперь-то мне уже нечего скрывать... Я предоставлял им фальшивые результаты эксперимента, и они уже начали что-то подозревать...
 
@@ -276,7 +273,6 @@
 
 **Паймон:** Но сначала мы должны разобраться с Фатуи
 
-#### Сцена
 
 **Касим:** Опорный пункт Фатуи... Ну конечно я знаю, где он... Прямо...
 
@@ -365,13 +361,11 @@
 
 There are several strange camps in the Sumeru forest, and each camp has a strange machine installed within. The Fatui seem to be using these machines to do something weird. It's best to investigate this matter...
 
-#### Scene
 
 **Rukh Shah:** I must thank you both.
 
 **Rukh Shah:** And let me know if you have any clues about Kasim's whereabouts.
 
-#### Scene
 
 **Oleg:** Kasim... how are these Saghira Machines working?
 
@@ -569,7 +563,6 @@ Are you really a bandit from the Eremites?
 
 **Paimon:** Speaking of this, since you've been working with the Fatui for so long, Paimon bets you know where their stronghold is!
 
-#### Scene
 
 **Kasim:** Ah, as things stand now, I might as well tell you everything... I've been providing fake experiment results, and they seem to be suspecting me...
 
@@ -615,7 +608,6 @@ Let's just hear him out for now...
 
 **Paimon:** But we might as well deal with the Fatui first.
 
-#### Scene
 
 **Kasim:** Their stronghold... Ah, of course I know where it is... It's located in...
 
@@ -704,13 +696,11 @@ I see...
 
 在须弥的森林里有诸多奇怪的营地，每个营地都安装着一个奇怪的机器，愚人众似乎在利用这些机器做什么奇怪的事，还是调查一下吧……
 
-#### 场景
 
 **鲁克沙:** 这次真是多谢你们了…
 
 **鲁克沙:** 对了，如果有卡西姆的行踪，也欢迎你们告诉我。
 
-#### 场景
 
 **奥列格:** 卡西姆…这些桑格吉拉光机运作情况怎么样？
 
@@ -908,7 +898,6 @@ I see...
 
 **派蒙:** 对了，既然你和愚人众合作了这么久，你一定知道他们据点的位置吧！
 
-#### 场景
 
 **卡西姆:** 唉，事到如今也没什么好瞒着你们的啦…最近一直给他们编造出来的实验结果，他们好像也多少有点起疑心了…
 
@@ -954,7 +943,6 @@ I see...
 
 **派蒙:** 不过还是先去解决愚人众吧。
 
-#### 场景
 
 **卡西姆:** 愚人众行动据点的位置…哎呀，据点的位置那当然是知道的…就在…
 

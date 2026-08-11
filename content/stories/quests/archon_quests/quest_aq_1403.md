@@ -418,7 +418,6 @@
 
 **Мадлен:** Идите за мной. Новым узникам по прибытии в крепость необходимо пройти через некоторые формальности.
 
-#### Сцена
 
 **Шарлотта:** Не знала, что вы можете столько съесть! Это не входило в мой план... Не забудьте собрать материал для статьи!
 
@@ -486,7 +485,6 @@
 
 **Дикин:** Брось, я всё равно не запомню ваши имена. Идём.
 
-#### Сцена
 
 **Нёвиллет:** Не благодарите за пирог. Надеюсь, вам он понравится!
 
@@ -984,7 +982,6 @@
 
 **Гренвиль:** Принесёте мне обработанные детали, получите купоны.
 
-#### Сцена
 
 **Ризли:** Вы поели? Тогда ступайте в бараки и ложитесь спать. Завтра вам ещё на работу.
 
@@ -1002,7 +999,6 @@
 
 **Паймон:** Наверное, он тоже закончил смену. Скорее всего, он где-то рядом...
 
-#### Сцена
 
 **Сиджвин:** Я рассмотрела вас внимательно, у вас очень приятная внешность!
 
@@ -1230,7 +1226,6 @@
 
 Вы встретили знакомое лицо в крепости, но следов Чайльда так и не обнаружили. Возможно, ключ скрыт среди монотонных будней?
 
-#### Сцена
 
 **Паймон:** Паймон совсем измотана... Но после стольких смен мы, кажется, наконец освоились.
 
@@ -1328,7 +1323,6 @@
 
 **Паймон:** Ох, ладно... Раз уж ты настаиваешь...
 
-#### Сцена
 
 **Коллинз:** Твою силу действительно нельзя недооценивать. Теперь я понимаю, почему тебе запрещено участвовать в официальных боях.
 
@@ -1420,13 +1414,11 @@
 
 **Коллинз:** Ставка на обоих бойцов обойдётся вам примерно в 3000 купонов. Если у вас есть, то попробуйте... Только не жалуйтесь мне, если что-то случится.
 
-#### Сцена
 
 Потратим купоны, чтобы не работать. (-400 купонов)
 
 (Пока нет никаких новых зацепок. Возможно, стоит поработать на производственном участке, вдруг там найдётся что-нибудь неожиданное...)
 
-#### Сцена
 
 **Паймон:** Мы пашем день за днём, а в итоге получаем на обед какое-то странное мясо... Как это вообще понимать?
 
@@ -1440,7 +1432,6 @@
 
 **Паймон:** Ну, поищем больше подсказок завтра. Спокойной ночи, Путешественник.
 
-#### Сцена
 
 **Паймон:** Ах, рассвет нового дня! Паймон чувствует, что мы начинаем привыкать к жизни осуждённых. Хорошо это или плохо?
 
@@ -1462,7 +1453,6 @@
 
 **Паймон:** Ну, поищем больше подсказок завтра. Спокойной ночи, Путешественник.
 
-#### Сцена
 
 Идём работать на производственный участок.
 
@@ -1536,7 +1526,6 @@
 
 **Паймон:** Да, похоже, у нас нет другого выбора. Ещё минуту назад Паймон была очень голодна, но теперь потеряла аппетит...
 
-#### Сцена
 
 **Филдинг:** Эй, Путешественник, Паймон! Вам посылка.
 
@@ -1584,7 +1573,6 @@
 
 **Паймон:** Что планируешь делать сейчас?
 
-#### Сцена
 
 Нет. Сейчас не время.
 
@@ -1610,7 +1598,6 @@
 
 Давай. Время обеда для Паймон.
 
-#### Сцена
 
 Идём работать на производственный участок.
 
@@ -1664,7 +1651,6 @@
 
 **Паймон:** Ух ты! Впечатляющая философия. Может быть, это и есть секрет успеха золотоволосого путешественника / золотоволосой путешественницы?
 
-#### Сцена
 
 Потратим купоны, чтобы не работать. (-400 купонов)
 
@@ -1678,7 +1664,6 @@
 
 Изучить обнаруженные подсказки (-400 премиальных купонов)
 
-#### Сцена
 
 Посмотрим, есть ли работа попроще...
 
@@ -1710,7 +1695,6 @@
 
 **Паймон:** Чем займёмся днём?
 
-#### Сцена
 
 **Видок:** Ну как, привык / привыкла к тюремной жизни?
 
@@ -1720,7 +1704,6 @@
 
 **Гренвиль:** Дайте-ка взглянуть... Хм, неплохо. Да, вот ваши купоны.
 
-#### Сцена
 
 **Коллинз:** А? Ты, должно быть, Путешественник, да? Извини, приятель / подруга, но такие сильные соперники, как ты, к участию не допускаются. Правила устанавливаю не я, но мне дали вполне определённые инструкции на этот счёт...
 
@@ -1778,7 +1761,6 @@
 
 **Паймон:** Паймон надеется сегодня заполучить нормальную еду.
 
-#### Сцена
 
 **Паймон:** Сиджвин? А ты не должна быть в лазарете? Что ты делаешь на производственном участке?
 
@@ -1806,7 +1788,6 @@
 
 **Паймон:** Спасибо за напоминание, мы обязательно позаботимся о себе!
 
-#### Сцена
 
 Нет. Сейчас не время.
 
@@ -1830,7 +1811,6 @@
 
 **Паймон:** А тетрадь... Давай её конфискуем.
 
-#### Сцена
 
 **Паймон:** Роуэн? Что ты здесь делаешь, шеф?
 
@@ -1848,7 +1828,6 @@
 
 **Роуэн:** Ох, неважно. Я и сам могу позаботиться о небольшом растяжении. Ни к чему её беспокоить.
 
-#### Сцена
 
 **Коллинз:** Говорят, вы, дурилки, и правда купили билеты в поддержку обоих бойцов? Ну и как? Что-нибудь случилось?
 
@@ -1884,7 +1863,6 @@
 
 **Коллинз:** Ох, в общем, в ближайшие дни поберегите себя, ладно?
 
-#### Сцена
 
 **Паймон:** Эй, что это за бумажки валяются на земле? Регистрационные бланки?
 
@@ -1908,7 +1886,6 @@
 
 **Паймон:** Давай положим бумаги туда, откуда их взяли, чтобы казалось, что их никто не трогал... Отлично.
 
-#### Сцена
 
 **Промоутер:** Ох, если я не смогу всё это отправить, я, может, вообще отсюда не выберусь...
 
@@ -1942,7 +1919,6 @@
 
 **Промоутер:** Ладно, ладно, надо забыть об этом... В конце концов, я на его территории. Его дом - его правила.
 
-#### Сцена
 
 **Линетт:** Прекрасно! Я переживала, что вы будете заняты одним только зарабатыванием купонов, но, похоже, вы не забросили расследование.
 
@@ -1970,7 +1946,6 @@
 
 Изучить обнаруженные подсказки (-400 премиальных купонов)
 
-#### Сцена
 
 Отправляемся на Ринг. (-300 купонов)
 
@@ -1992,7 +1967,6 @@
 
 Отправляемся на Ринг.
 
-#### Сцена
 
 **Паймон:** Конечно! Если мы не собираемся идти на работу, то давайте проведём время на Ринге.
 
@@ -2002,13 +1976,11 @@
 
 Пора отправляться на Ринг (-3000 премиальных купонов)
 
-#### Сцена
 
 Может быть, есть другой способ...
 
 **Паймон:** Да, почему бы нам не попросить Коллинза снизить уровень сложности? Мы могли бы просто быстренько проскочить уровни!
 
-#### Сцена
 
 Надо расследовать.
 
@@ -2072,7 +2044,6 @@
 
 **Коллинз:** Рады услужить, приятель / подруга. Начнём игру!
 
-#### Сцена
 
 Отправляемся на Ринг.
 
@@ -2146,7 +2117,6 @@
 
 **Паймон:** Больше никаких странных посылок не появится... Верно?
 
-#### Сцена
 
 **Фицрой:** О, п-привет... В-вы же были тогда с его светлостью...
 
@@ -2166,7 +2136,6 @@
 
 **Фицрой:** Что?! П-пожалуйста, не говори подобных вещей вслух... Как кто-то может думать о подобном?
 
-#### Сцена
 
 **Дикин:** О, это же Путешественник и Паймон!
 
@@ -2176,7 +2145,6 @@
 
 **Дикин:** Как говорит его светлость, одна маленькая деталь может быть ключом к благосостоянию. Хм, возможно, под «началом новой жизни» имеется в виду именно это, а не просто зарабатывание купонов...
 
-#### Сцена
 
 **Дикин:** О, это же Путешественник и Паймон!
 
@@ -2510,7 +2478,6 @@
 
 **Леонид:** Так и быть, покажем. Идите за нами. Только ни звука!
 
-#### Сцена
 
 **Филдинг:** Прогул работы за купоны не приносит свободы, а только приближает к пропасти деградации... Так говорил один местный старожил, и вам не помешало бы это запомнить.
 
@@ -2946,7 +2913,6 @@ The truth, Paimon.
 
 **Madeleine:** Please follow me, you two. I'll process your paperwork for entering the Fortress of Meropide.
 
-#### Scene
 
 **Charlotte:** I had no idea you could eat so much! That didn't go according to plan... Please, please don't forget about the material for my news article!
 
@@ -3014,7 +2980,6 @@ Ride the elevator
 
 **Deakin:** Save it, it's not like I'll remember your names. Move it.
 
-#### Scene
 
 **Neuvillette:** Oh, no need to thank me for it. Just be sure to enjoy it.
 
@@ -3512,7 +3477,6 @@ You told them everything?
 
 **Grainville:** Bring me the processed widgets and I'll give you some Credit Coupons in exchange.
 
-#### Scene
 
 **Wriothesley:** Are you finished eating? Then I recommend that you return to the dormitories and rest. You have work to do tomorrow.
 
@@ -3530,7 +3494,6 @@ You told them everything?
 
 **Paimon:** He probably just finished up his work too, he should be around here somewhere...
 
-#### Scene
 
 **Sigewinne:** Now that I've gotten a good look at you two, I think you're very cute.
 
@@ -3758,7 +3721,6 @@ Have some advice for us, old timer?
 
 Although you met a familiar face, you have obtained no leads on Childe so far. Did you miss something that's hidden in plain sight?
 
-#### Scene
 
 **Paimon:** Paimon's beat... but after so many shifts, it seems we're really getting the hang of it now.
 
@@ -3856,7 +3818,6 @@ So the conditions in this case are...?
 
 **Paimon:** Oh, alright... If you insist...
 
-#### Scene
 
 **Collins:** Your strength really shouldn't be underestimated. Now I get why you're prohibited from participating in any official fights.
 
@@ -3948,13 +3909,11 @@ So the conditions in this case are...?
 
 **Collins:** Betting on both fighters will set you back about 3,000 Credit Coupons. If you have enough, then go ahead and give it a try... Just don't come running back to me if something happens.
 
-#### Scene
 
 Let's spend some coupons to skip work. (-400 Credit Coupons)
 
 (I don't think there are any more clues to be found here. Perhaps we should work at the Production Zone more often to see if we can discover anything unexpected...)
 
-#### Scene
 
 **Paimon:** So after working for a few days straight, we got some strange meat in our lunch... What was that all about?
 
@@ -3968,7 +3927,6 @@ Let's spend some coupons to skip work. (-400 Credit Coupons)
 
 **Paimon:** Well, we'll keep searching for more clues tomorrow. Good night, Traveler.
 
-#### Scene
 
 **Paimon:** Ah, the dawn of a new day! Paimon feels like we're getting used to life as convicts. Uh, is that a good thing or a bad thing?
 
@@ -3990,7 +3948,6 @@ Let's spend some coupons to skip work. (-400 Credit Coupons)
 
 **Paimon:** Well, maybe we'll have better luck tomorrow. Good night, Traveler.
 
-#### Scene
 
 Let's go work in the production zone.
 
@@ -4064,7 +4021,6 @@ Let's go work in the production zone.
 
 **Paimon:** Yeah, looks like we have no other choice. Paimon was positively famished a minute ago, but now she's lost her appetite...
 
-#### Scene
 
 **Fielding:** Hey, Traveler, Paimon! Package here for ya.
 
@@ -4112,7 +4068,6 @@ Let's go work in the production zone.
 
 **Paimon:** What do you plan on doing now?
 
-#### Scene
 
 It's not time yet.
 
@@ -4138,7 +4093,6 @@ It's not time yet.
 
 C'mon. Lunchtime for Paimon.
 
-#### Scene
 
 Let's go work in the production zone.
 
@@ -4192,7 +4146,6 @@ If you want a job done right, you have to do it yourself.
 
 **Paimon:** Wow! Impressive philosophy. Could that be the secret sauce behind the blond Traveler's success?
 
-#### Scene
 
 Let's spend some coupons to skip work. (-400 Credit Coupons)
 
@@ -4206,7 +4159,6 @@ Let's spend some coupons to skip work. (-400 Credit Coupons)
 
 Investigate the clues you discovered (-400 Coupons)
 
-#### Scene
 
 Let's see if there's any really easy work...
 
@@ -4238,7 +4190,6 @@ Let's see if there's any really easy work...
 
 **Paimon:** What would you like to do this afternoon?
 
-#### Scene
 
 **Vidoc:** Well? Have you gotten used to prison life yet?
 
@@ -4248,7 +4199,6 @@ Let's see if there's any really easy work...
 
 **Grainville:** Let me have a look... Hmm, not bad. Right, here's your Credit Coupons.
 
-#### Scene
 
 **Collins:** Oh? You must be Traveler, huh? Sorry, mate, but competitors as strong as you are prohibited from participating. I don't make the rules, mind you, but I was given very specific instructions...
 
@@ -4306,7 +4256,6 @@ Let's end the shift.
 
 **Paimon:** Paimon just hopes to get some normal food today.
 
-#### Scene
 
 **Paimon:** Sigewinne? Aren't you supposed to be in the infirmary? What are you doing in the production zone?
 
@@ -4334,7 +4283,6 @@ Do you also happen to be a veterinarian as well as head nurse?
 
 **Paimon:** We'll definitely take care of ourselves, thanks for the reminder!
 
-#### Scene
 
 It's not time yet.
 
@@ -4358,7 +4306,6 @@ It's not time yet.
 
 **Paimon:** And as for the notebook... Let's take it.
 
-#### Scene
 
 **Paimon:** Huh? Rowan? What are you doing here, Chief?
 
@@ -4376,7 +4323,6 @@ It's not time yet.
 
 **Rowan:** *sigh* Forget it, I can take care of a small sprain like this on my own anyway, no need to trouble her.
 
-#### Scene
 
 **Collins:** I heard you crazy fools really did it, you bought tickets to support both fighters, didn't ya? Well? Did anything happen?
 
@@ -4412,7 +4358,6 @@ Only you'd ever ask such a question, so I'm pretty sure you're fine.
 
 **Collins:** *sigh* Anyway, you try and take extra good care of yourselves these next few days, you hear?
 
-#### Scene
 
 **Paimon:** Hey, what are these papers scattered all over the ground? Are they registration forms or something?
 
@@ -4436,7 +4381,6 @@ What're you afraid of? We're already convicted criminals.
 
 **Paimon:** Let's put these papers back where we found them, and make it look like nobody went through them... Okay, good.
 
-#### Scene
 
 **Promoter:** *sigh* If there's no way to send it all out, then maybe I'll never get a chance to leave...
 
@@ -4470,7 +4414,6 @@ What're you afraid of? We're already convicted criminals.
 
 **Promoter:** Fine, fine, I should just let it go... I'm on his turf, after all. His house, his rules.
 
-#### Scene
 
 **Lynette:** Oh wonderful! I was worried that you'd be busy trying to earn Credit Coupons all the time, but it seems like you haven't neglected your investigation work after all.
 
@@ -4498,7 +4441,6 @@ And how's Lyney holding up?
 
 Investigate the clues you discovered (-400 Coupons)
 
-#### Scene
 
 Let's go to the Pankration Ring. (-300 Credit Coupons)
 
@@ -4520,7 +4462,6 @@ I'm no quitter.
 
 Let's go to the Pankration Ring.
 
-#### Scene
 
 **Paimon:** Sure! If we're not gonna go to work, then let's kill some time at the Pankration Ring.
 
@@ -4530,13 +4471,11 @@ Let's go to the Pankration Ring.
 
 Time to go to the Pankration Ring (-3,000 Credit Coupons)
 
-#### Scene
 
 Maybe there's another way...
 
 **Paimon:** Yeah, why don't we have Collins lower the difficulty a little? You know, so we can just breeze through each level!
 
-#### Scene
 
 Let's go investigate.
 
@@ -4600,7 +4539,6 @@ Sure, got your coupons right here.
 
 **Collins:** Thanks for your patronage, mate. Now let the game begin!
 
-#### Scene
 
 Let's go to the Pankration Ring.
 
@@ -4674,7 +4612,6 @@ It's time for a rest.
 
 **Paimon:** No more strange packages are gonna show up... right?
 
-#### Scene
 
 **Fitzroy:** Oh, h—hello... Y—You two are the ones who were with His Grace...
 
@@ -4694,7 +4631,6 @@ Oh, I get it, you want to take his place.
 
 **Fitzroy:** What!? P—Please, d—don't say anything like that out loud... How could you possibly think something like that!?
 
-#### Scene
 
 **Deakin:** Hey! It's Traveler and Paimon!
 
@@ -4704,7 +4640,6 @@ Oh, so now you remember our names?
 
 **Deakin:** Just like His Grace said, paying attention to every little detail is the key to prosperity. Hmm, maybe this is the true meaning of "rebirth," not just earning Credit Coupons...
 
-#### Scene
 
 **Deakin:** Hey! It's Traveler and Paimon!
 
@@ -5038,7 +4973,6 @@ Enough with the theatrics...
 
 **Leonide:** Alright, keep quiet and follow us.
 
-#### Scene
 
 **Fielding:** Using coupons to skip work doesn't bring freedom, but only pulls you closer to the abyss of degeneracy... That's what an old guard here used to say, you'd do well to remember it.
 
@@ -5474,7 +5408,6 @@ I know a good diver.
 
 **玛德琳:** 二位请跟我来吧，我会引导你们办理进入梅洛彼得堡的手续。
 
-#### 场景
 
 **夏洛蒂:** 没想到你们居然这么能吃，又失策了…取材的事可千万别忘了！
 
@@ -5542,7 +5475,6 @@ I know a good diver.
 
 **迪肯:** 不必了，我记不住你们的名字，走吧。
 
-#### 场景
 
 **那维莱特:** 哦，蛋糕的事你们不用客气，尽情享用就好。
 
@@ -6040,7 +5972,6 @@ I know a good diver.
 
 **格兰维尔:** 你把加工好的工件带给我，就能拿来换特许券了。
 
-#### 场景
 
 **莱欧斯利:** 吃完了么？那就到监舍区准备休息吧，明天你们还有工作要做。
 
@@ -6058,7 +5989,6 @@ I know a good diver.
 
 **派蒙:** 估计他也刚刚把工作做完，我们想办法在这附近找找他…
 
-#### 场景
 
 **希格雯:** 细看之下你们两个还真可爱呢。
 
@@ -6286,7 +6216,6 @@ I know a good diver.
 
 尽管在梅洛彼得堡遇到了熟悉的面孔，但「公子」相关的线索你们依旧没什么收获，是否会有关键信息隐藏在枯燥的日常之中呢？
 
-#### 场景
 
 **派蒙:** 可累死了，不过打工了这么多次，好像也渐渐掌握到诀窍了。
 
@@ -6384,7 +6313,6 @@ I know a good diver.
 
 **派蒙:** 好吧，如果你执意要这么做的话…
 
-#### 场景
 
 **科林斯:** 果然实力不容小觑啊，我现在非常理解为什么你被禁止参加正式的拳赛了…
 
@@ -6476,13 +6404,11 @@ I know a good diver.
 
 **科林斯:** 奖券两边都买的话，大概需要3000左右的特许券，要是攒够了钱你们就试试好了，出了事别来找我就行。
 
-#### 场景
 
 花费特许券免除劳务。(-400特许券)
 
 （暂时应该没有待发现的线索了吧，也许应该多去生产区打工，看看会不会有什么意外发现…）
 
-#### 场景
 
 **派蒙:** 连续打工之后，午饭奇怪的肉…到底是怎么回事呀？
 
@@ -6496,7 +6422,6 @@ I know a good diver.
 
 **派蒙:** 从明天开始再找找其他线索吧，晚安，旅行者。
 
-#### 场景
 
 **派蒙:** 新的一天又开始了吗，好像逐渐习惯作为犯人的生活了呢，这究竟是好事还是坏事？
 
@@ -6518,7 +6443,6 @@ I know a good diver.
 
 **派蒙:** 从明天开始再找找其他线索吧，晚安，旅行者。
 
-#### 场景
 
 去生产区打工。
 
@@ -6592,7 +6516,6 @@ I know a good diver.
 
 **派蒙:** 嗯，也没什么别的办法…我刚刚还饿得很，现在已经完全没有胃口了…
 
-#### 场景
 
 **菲尔汀:** 喂，旅行者，派蒙，这有你们的包裹。
 
@@ -6640,7 +6563,6 @@ I know a good diver.
 
 **派蒙:** 现在准备怎么做呢？
 
-#### 场景
 
 还不是时候。
 
@@ -6666,7 +6588,6 @@ I know a good diver.
 
 走吧，我们去吃午饭。
 
-#### 场景
 
 去生产区打工。
 
@@ -6720,7 +6641,6 @@ I know a good diver.
 
 **派蒙:** 唔…了不起呢，可能这就是金发旅行者一直以来成功的秘诀吧？
 
-#### 场景
 
 花费特许券免除劳务。(-400特许券)
 
@@ -6734,7 +6654,6 @@ I know a good diver.
 
 调查发现的线索（-400特许券）
 
-#### 场景
 
 看看有没有简单的工作吧…
 
@@ -6766,7 +6685,6 @@ I know a good diver.
 
 **派蒙:** 下午准备做什么呢？
 
-#### 场景
 
 **维多克:** 怎么样，适应这里的生活了吗？
 
@@ -6776,7 +6694,6 @@ I know a good diver.
 
 **格兰维尔:** 让我看看…嗯，品质还不错，把特许券拿走吧。
 
-#### 场景
 
 **科林斯:** 哦？你是旅行者吧？像你这种实力的选手，我们这边是禁止参赛的，我被特意嘱托过…
 
@@ -6834,7 +6751,6 @@ I know a good diver.
 
 **派蒙:** 希望今天能吃到正常的饭。
 
-#### 场景
 
 **派蒙:** 希格雯？你不应该在医务室吗，怎么有空到生产区来了？
 
@@ -6862,7 +6778,6 @@ I know a good diver.
 
 **派蒙:** 我们会注意的，谢谢你提醒~！
 
-#### 场景
 
 还不是时候。
 
@@ -6886,7 +6801,6 @@ I know a good diver.
 
 **派蒙:** 那这份研究笔记…嗯，我们就没收掉吧。
 
-#### 场景
 
 **派蒙:** 欸，这不是洛恩前辈吗，怎么会在这里碰到你？
 
@@ -6904,7 +6818,6 @@ I know a good diver.
 
 **洛恩:** 唉，无所谓了，这点拉伤我还是自己休养休养吧，不必麻烦她了。
 
-#### 场景
 
 **科林斯:** 我听说你们真的去尝试了？怎么样，发生什么事了吗？
 
@@ -6940,7 +6853,6 @@ I know a good diver.
 
 **科林斯:** 唉，反正这些天你们自己多多注意吧，保重了。
 
-#### 场景
 
 **派蒙:** 欸，地上散落的这些纸是什么，报名表之类的吗？
 
@@ -6964,7 +6876,6 @@ I know a good diver.
 
 **派蒙:** 还是把资料原地放好吧，就像没人看过一样…嗯，很好。
 
-#### 场景
 
 **推广员:** 唉…如果没办法都发出去的话，是不是就没办法离开这里了…
 
@@ -6998,7 +6909,6 @@ I know a good diver.
 
 **推广员:** 算了算了，人在屋檐下就得低头，慢慢来吧。
 
-#### 场景
 
 **琳妮特:** 太好了，我原本担心你们会一直闷头赚特许券，看样子你们在调查上也没有懈怠。
 
@@ -7026,7 +6936,6 @@ I know a good diver.
 
 调查发现的线索（-400特许券）
 
-#### 场景
 
 到拳力斗技场去。（-300特许券）
 
@@ -7048,7 +6957,6 @@ I know a good diver.
 
 到拳力斗技场去。
 
-#### 场景
 
 **派蒙:** 好啊，不去打工的话，就到拳力斗技场消磨下时间吧。
 
@@ -7058,13 +6966,11 @@ I know a good diver.
 
 是时候去拳力斗技场了（-3000特许券）
 
-#### 场景
 
 也许有其他方式…
 
 **派蒙:** 嗯，不如让科林斯调低一点难度，随随便便就能过关的那种！
 
-#### 场景
 
 进行自由调查。
 
@@ -7128,7 +7034,6 @@ I know a good diver.
 
 **科林斯:** 谢谢惠顾，请开始游戏吧！
 
-#### 场景
 
 到拳力斗技场去。
 
@@ -7202,7 +7107,6 @@ I know a good diver.
 
 **派蒙:** 应该不会再出现什么诡异的包裹了吧？
 
-#### 场景
 
 **菲茨罗伊:** 啊，你们好，你们是那个…跟公爵大人一起的…
 
@@ -7222,7 +7126,6 @@ I know a good diver.
 
 **菲茨罗伊:** 什么！？请、请不要大声说这种话…还有，这究竟是怎么理解到这一步的啊！
 
-#### 场景
 
 **迪肯:** 啊！旅行者和派蒙！
 
@@ -7232,7 +7135,6 @@ I know a good diver.
 
 **迪肯:** 正如公爵所说，对每一件事都认真才是致富的关键…或许这才是「重生」的意义吧，而非特许券本身…唔…
 
-#### 场景
 
 **迪肯:** 啊！旅行者和派蒙！
 
@@ -7566,7 +7468,6 @@ I know a good diver.
 
 **莱奥尼德:** 嗯，别出声，跟我们来这边。
 
-#### 场景
 
 **菲尔汀:** 花特许券免除劳务其实并不能带来解脱，只会拉你去堕落的深渊罢了…这是前一位老看守留下的名言，记好了。
 

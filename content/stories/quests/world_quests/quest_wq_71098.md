@@ -26,7 +26,6 @@
 
 На постоялом дворе «Ваншу» вы встречаете двух чудаков...
 
-#### Сцена
 
 **Лу Тун:** Господин, стоит отметить, что если принять во внимание сегодняшний день, то мы уже шесть дней кряду едим только овощной суп.
 
@@ -134,7 +133,6 @@
 
 **Гарсия:** Никак не могу сладить с параметрами, что всплывают у меня в голове... Впрочем, да, давайте продолжим наш предыдущий трёхэтапный процесс.
 
-#### Сцена
 
 **Гарсия:** ...Этот параметр и этот...
 
@@ -178,7 +176,6 @@
 
 **Гарсия:** Вы уже закончили? Вы действительно обладаете незаурядным кулинарным мастерством.
 
-#### Сцена
 
 **Гарсия:** Приступим, Лу Тун. На этот раз добавляй каждого ингредиента на десять процентов меньше... Итак, первый шаг - начало готовки.
 
@@ -294,7 +291,6 @@
 
 You meet two oddballs at Wangshu Inn...
 
-#### Scene
 
 **Lutong:** Sir, I believe it might be worth mentioning that if we take today into account, we have now eaten Radish Veggie Soup for six full days.
 
@@ -402,7 +398,6 @@ That would be putting it a little bit mildly...
 
 **Garcia:** Too many unruly parameters floating about in my head, you know... But yes, let us go with our previous three-step process.
 
-#### Scene
 
 **Garcia:** ...This parameter, and this one...
 
@@ -446,7 +441,6 @@ That would be putting it a little bit mildly...
 
 **Garcia:** You've finished making the dish already? You must be skilled indeed.
 
-#### Scene
 
 **Garcia:** Let us begin, Lutong, with ten percent less of each ingredient this time... Alright then. Step 1: begin cooking.
 
@@ -562,7 +556,6 @@ Are you two going to Sumeru?
 
 在望舒客栈，你遇见了两个奇怪的人…
 
-#### 场景
 
 **路通:** 先生，值得一提的是，算上今天，我们已经连续吃了整整六天的萝卜时蔬汤了。
 
@@ -670,7 +663,6 @@ Are you two going to Sumeru?
 
 **加尔恰:** 那些参数在我脑子里打转，就是不听我使唤…没错，还是按照之前的三道步骤来。
 
-#### 场景
 
 **加尔恰:** …这里的参数，喔，还有这里的…
 
@@ -714,7 +706,6 @@ Are you two going to Sumeru?
 
 **加尔恰:** 您做好了？真是厨艺不凡啊。
 
-#### 场景
 
 **加尔恰:** 开始吧路通，这次我们把每种材料的量再削减一成…步骤一，开始烹饪。
 

@@ -508,7 +508,6 @@
 
 **Паймон:** Паймон не может ждать!
 
-#### Сцена
 
 **Огура Мио:** Надеюсь, вам удастся добыть шёлк.
 
@@ -736,7 +735,6 @@
 
 **Паймон:** Круто. Поскорее передадим рецепт Киминами!
 
-#### Сцена
 
 **Огура Мио:** Наряд будет готов позже. Почему бы вам тем временем не осмотреть окрестности?
 
@@ -774,7 +772,6 @@
 
 **Паймон:** Пора встретиться с Цубаки!
 
-#### Сцена
 
 **Киминами Анна:** Всё в порядке, Путешественник?
 
@@ -1414,7 +1411,6 @@
 
 **Камисато Аяка:** Пора идти.
 
-#### Сцена
 
 **Симидзу:** Откройте и узнайте свою судьбу!
 
@@ -1516,7 +1512,6 @@
 
 **Камисато Аяка:** Если вы счастливы, счастлива и я!
 
-#### Сцена
 
 У меня написано «Большая удача. Земля».
 
@@ -1524,7 +1519,6 @@
 
 **Симидзу:** Мои поздравления! «Большая удача. Земля» означает: «Богатство стучит в дверь. Земля порождает удачу. Успех во всём». То есть ваша удача ещё не скоро закончится!
 
-#### Сцена
 
 У меня написано «Большая удача. Человек».
 
@@ -1532,7 +1526,6 @@
 
 **Симидзу:** Мои поздравления! «Большая удача. Человек» означает: «Золотой карп в зелёных волнах. Слава процветает. Взаимопомощь благородных». То есть ваша удача ещё не скоро закончится!
 
-#### Сцена
 
 **Камисато Аяка:** Как вам мой танец? Вам понравилось?
 
@@ -2058,7 +2051,6 @@ Perfect, I'm getting a little hungry myself.
 
 **Paimon:** Yup yup, Paimon can't wait!
 
-#### Scene
 
 **Ogura Mio:** I do hope you manage to get hold of your silk.
 
@@ -2286,7 +2278,6 @@ Aw shucks, Ayaka...
 
 **Paimon:** Cool, then let's get this recipe to Miss Kiminami, pronto!
 
-#### Scene
 
 **Ogura Mio:** The garment will be ready later. Why not look around the area in the meantime?
 
@@ -2324,7 +2315,6 @@ Hmm? Really?
 
 **Paimon:** Time to go meet Tsubaki!
 
-#### Scene
 
 **Kiminami Anna:** Hi Traveler — is everything okay?
 
@@ -2964,7 +2954,6 @@ It will.
 
 **Kamisato Ayaka:** It's time to leave.
 
-#### Scene
 
 **Shimizu:** Open it up and see how you fare!
 
@@ -3066,7 +3055,6 @@ I'd like to go again, too.
 
 **Kamisato Ayaka:** As long as you're happy, I'm happy.
 
-#### Scene
 
 Mine says "Great Fortune From the World."
 
@@ -3074,7 +3062,6 @@ Mine says "Great Fortune From the World."
 
 **Shimizu:** Congratulations are in order! Here's what Great Fortune From the World means: "Wealth shall come to you. You shall reap a bountiful harvest and all shall transpire in line with your wishes." In other words, your good luck isn't about to run out anytime soon!
 
-#### Scene
 
 Mine says "Great Fortune Among People."
 
@@ -3082,7 +3069,6 @@ Mine says "Great Fortune Among People."
 
 **Shimizu:** Congratulations are in order! Here's what Great Fortune Among People means: "As the Golden Koi Fish shines amidst the turquoise waves, your name shall be illustrious and the wealthy and powerful will surge to your aid." In other words, your good luck isn't about to run out anytime soon!
 
-#### Scene
 
 **Kamisato Ayaka:** What do you think of my dance? Did you... like it?
 
@@ -3608,7 +3594,6 @@ Goodnight, Ayaka.
 
 **派蒙:** 嗯嗯，我都等不及啦！
 
-#### 场景
 
 **小仓澪:** 希望你们能顺利买到丝绸。
 
@@ -3836,7 +3821,6 @@ Goodnight, Ayaka.
 
 **派蒙:** 那我们赶快把菜谱送给店主吧！
 
-#### 场景
 
 **小仓澪:** 成衣做好之前，各位可以到处逛逛，休息一番。
 
@@ -3874,7 +3858,6 @@ Goodnight, Ayaka.
 
 **派蒙:** 到「椿」的住处去看看吧！
 
-#### 场景
 
 **木南杏奈:** 旅行者，问题解决了吗？
 
@@ -4514,7 +4497,6 @@ Goodnight, Ayaka.
 
 **神里绫华:** 我们回去吧。
 
-#### 场景
 
 **清水:** 打开看看您的运势吧！
 
@@ -4616,7 +4598,6 @@ Goodnight, Ayaka.
 
 **神里绫华:** 嗯，那我就放心了！
 
-#### 场景
 
 我的是「大吉·地」。
 
@@ -4624,7 +4605,6 @@ Goodnight, Ayaka.
 
 **清水:** 客人恭喜啦，「大吉·地」，意为：宝财临门楣，地生万运，事事如意。您一定会继续交好运的哦！
 
-#### 场景
 
 我的是「大吉·人」。
 
@@ -4632,7 +4612,6 @@ Goodnight, Ayaka.
 
 **清水:** 客人恭喜啦，「大吉·人」，意为：金鲤跃碧波，名望兴隆，贵人相助。您一定会继续交好运的哦！
 
-#### 场景
 
 **神里绫华:** 怎么样？我的舞蹈…还可以吗？
 

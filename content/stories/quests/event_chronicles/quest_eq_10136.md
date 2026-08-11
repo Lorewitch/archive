@@ -760,7 +760,6 @@
 
 **Паймон:** Всё в порядке? Посмотрим вместе?
 
-#### Сцена
 
 **Альбедо:** Хотелось бы попросить тебя проведать Сахарозу, а о наших новых друзьях я позабочусь.
 
@@ -776,7 +775,6 @@
 
 **Паймон:** Загоним его в угол и заставим отвечать на наши вопросы. Идём!
 
-#### Сцена
 
 **Сахароза:** Уф... Всё не так плохо. Только на дне слегка подгорело. Котёл можно будет отмыть.
 
@@ -884,7 +882,6 @@
 
 *Вы вместе убираете площадку для пикника и прощаетесь в темноте...*
 
-#### Сцена
 
 **Венти:** Ты так на меня смотришь... Хочешь пропустить по стаканчику?
 
@@ -1752,7 +1749,6 @@ That's not funny.
 
 **Paimon:** Will it be okay? Should we go over and take a look, too?
 
-#### Scene
 
 **Albedo:** I'd be grateful if you could check on Sucrose. As for our new friends here... leave them to me.
 
@@ -1768,7 +1764,6 @@ That's right.
 
 **Paimon:** We can go corner him and make him answer our questions. Let's move!
 
-#### Scene
 
 **Sucrose:** Phew. Only the base is burned. We can still use the cooking pot, it just needs a bit of a wash.
 
@@ -1876,7 +1871,6 @@ Yes. We should preserve our energy.
 
 *Everyone packs up and says their goodbyes in the dark of night...*
 
-#### Scene
 
 **Venti:** Or given the way that you're staring at me, perhaps... you'd like to get me that drink now?
 
@@ -2744,7 +2738,6 @@ Understood.
 
 **派蒙:** 没事吧？要我们一起过来看看吗？
 
-#### 场景
 
 **阿贝多:** 想麻烦你去看看砂糖，至于这边的新朋友…就交给我吧。
 
@@ -2760,7 +2753,6 @@ Understood.
 
 **派蒙:** 我们直接去堵门好了。
 
-#### 场景
 
 **砂糖:** 呼…还好还好，只有底部焦了。锅具洗洗还能用。
 
@@ -2868,7 +2860,6 @@ Understood.
 
 *大家齐心协力整理了野餐场地，在夜色中互相告别…*
 
-#### 场景
 
 **温迪:** 还盯着我看，难道说…现在就想喝上一杯？
 

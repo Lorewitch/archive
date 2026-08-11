@@ -194,7 +194,6 @@
 
 **Паймон:** Ой! Монстры наступают!
 
-#### Сцена
 
 **Сеймур:** Ответ положительный. Мари-Анн - моя хозяйка. Моя главная задача - сопровождать госпожу и делать так, чтобы улыбка не сходила с её лица. Это поручение... (механический шум).
 
@@ -244,7 +243,6 @@
 
 **Паймон:** Ну что, куда отправимся дальше?.. Ордо Нарциссенкрейц, говоришь?
 
-#### Сцена
 
 Ордо Нарциссенкрейц?
 
@@ -611,11 +609,9 @@
 
 **Паймон:** Путешественник, Сеймур, давайте уже отправимся в путь. Быстренько со всем разберёмся, и Сеймур сможет вернуться к Мамер.
 
-#### Сцена
 
 **Паймон:** Что? Мари-Анн? Тот тип, Жакоб, кажется, упоминал это имя...
 
-#### Сцена
 
 Мари-Анн...
 
@@ -795,7 +791,6 @@ What the...
 
 **Paimon:** Agh, they're coming this way!
 
-#### Scene
 
 **Seymour:** Affirmative. Ms. Mary-Ann was my master, and my prime directive was to accompany her on *garbled mechanical noises* behalf and ensure that she would smile happily.
 
@@ -845,7 +840,6 @@ We'll take care of Seymour for you for now.
 
 **Paimon:** So, uh, where are we going next? Seymour mentioned this place called the Narzissenkreuz Ordo, right?
 
-#### Scene
 
 The Narzissenkreuz Ordo?
 
@@ -1212,11 +1206,9 @@ I think I know where to find the place...
 
 **Paimon:** But let's just go anyway! Once everything's settled, we'll bring you back to see Mamere!
 
-#### Scene
 
 **Paimon:** Eh? Mary-Ann? That Jakob guy mentioned that name as well, didn't he?
 
-#### Scene
 
 Mary-Ann...
 
@@ -1396,7 +1388,6 @@ Mary-Ann...
 
 **派蒙:** 呜哇！那些怪物冲过来了！
 
-#### 场景
 
 **西摩尔:** 肯定。玛丽安小姐是我的主人，而我的首要指令，就是代替…（嘈杂的机械音）陪伴在小姐身边，确保她拥有幸福的笑容。
 
@@ -1446,7 +1437,6 @@ Mary-Ann...
 
 **派蒙:** 那么，接下来，我们要去的是什么地方…？刚刚西摩尔是不是说「水仙十字结社」来着？
 
-#### 场景
 
 水仙十字结社？
 
@@ -1813,11 +1803,9 @@ Mary-Ann...
 
 **派蒙:** 不管怎么说，旅行者、西摩尔，那我们出发吧！等一切都解决以后，再带着西摩尔回来找玛梅赫吧！
 
-#### 场景
 
 **派蒙:** 欸？玛丽安？刚才那个叫雅各布的家伙，好像也提到了这个名字…
 
-#### 场景
 
 玛丽安…
 

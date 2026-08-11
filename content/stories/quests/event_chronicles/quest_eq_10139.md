@@ -950,7 +950,6 @@
 
 **Дори:** Я не знаю, кого вы сейчас видели, но у меня и правда есть кое-какая секретная информация о Фестивале. Если хотите, можем поговорить об этом позже.
 
-#### Сцена
 
 **Фарузан:** Помнишь, над чем мы работали в прошлый раз?
 
@@ -968,7 +967,6 @@
 
 **Кавех:** Да, время не ждёт. Надо всё как следует подготовить. До скорого!
 
-#### Сцена
 
 **Тигнари:** Гм... Наверное, этого хватит. Как думаешь, получится?
 
@@ -1916,7 +1914,6 @@ I thought I saw someone just now...
 
 **Dori:** I don't know who you saw just now, but I do have some hard-to-come-by information about the Extravaganza. If you want to know more, we can talk business later.
 
-#### Scene
 
 **Faruzan:** Do you remember those things we made previously?
 
@@ -1934,7 +1931,6 @@ I thought I saw someone just now...
 
 **Kaveh:** Alright, there's no time to lose. We're off to make our preparations. See you later!
 
-#### Scene
 
 **Tighnari:** Hmm... This is basically what I'll need. Do you think you'll have any difficulties?
 
@@ -2882,7 +2878,6 @@ I thought I saw someone just now...
 
 **多莉:** 我不知道你们刚刚看到的是谁，不过我手上确实有一些关于学院庆典的独家情报。两位感兴趣的话，等下可以来找我谈生意哦。
 
-#### 场景
 
 **珐露珊:** 还记得上次我们做的那些东西吗？
 
@@ -2900,7 +2895,6 @@ I thought I saw someone just now...
 
 **卡维:** 好！事不宜迟，我们现在就去做准备。等会儿见！
 
-#### 场景
 
 **提纳里:** 嗯…大概就是需要这些了，有什么困难吗？
 

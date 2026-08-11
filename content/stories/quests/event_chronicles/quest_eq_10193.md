@@ -509,7 +509,6 @@
 
 **Навия:** Конечно. Я буду ждать здесь. Приходи, когда всё соберёшь. Я на тебя рассчитываю!
 
-#### Сцена
 
 **Нилу:** Удачи вам! Хм... зяблик? Кажется, я знаю, как его сложить...
 
@@ -1300,7 +1299,6 @@ Your Majesty, we are most grateful for your—
 
 **Navia:** Sure, no worries. I'll be right here, so just come find me once you've retrieved them. I'm counting on you!
 
-#### Scene
 
 **Nilou:** Best of luck! Hmm... a finch, huh? I think I know how to fold one of those...
 
@@ -2091,7 +2089,6 @@ If we want to push the celestial gear...
 
 **娜维娅:** 嗯，不用着急，我会在这里等你们的。拜托你们啦。
 
-#### 场景
 
 **妮露:** 祝你们顺利。唔…团雀…是这么折的吧…？
 

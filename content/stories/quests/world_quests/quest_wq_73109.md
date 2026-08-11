@@ -26,7 +26,6 @@
 
 Вы встречаете странного человека на краю леса.
 
-#### Сцена
 
 **Джави:** Странно... Я помню, это должно быть где-то рядом.
 
@@ -226,7 +225,6 @@
 
 You meet a strange person outside the forest.
 
-#### Scene
 
 **Javi:** This is strange... It should be around here. Why can't I find it?
 
@@ -426,7 +424,6 @@ Fine...
 
 在树林外，你看见了一个奇怪的人…
 
-#### 场景
 
 **贾维:** 咦？应该就在这附近啊，怎么不见了…
 

@@ -110,7 +110,6 @@
 
 Отправляйтесь на риф Парного острова и поищите подсказки, которые могли оставить пираты.
 
-#### Сцена
 
 **Капитан Вороньих авиалиний:** Их больше нет? Большое вам спасибо!
 
@@ -278,7 +277,6 @@ Go near to the reef of Broken Isle to see if the pirates have left a clue to the
 
 Go near to the reef of Twinning Isle to see if the pirates have left a clue to the treasure's location there.
 
-#### Scene
 
 **Captain Night Raven:** You've gotten rid of them? Thank you so much!
 
@@ -446,7 +444,6 @@ Go near to the reef of Pudding Isle to see if the pirates have left a clue to th
 
 前往双双岛的礁石附近，看看有没有海盗们留下的，关于宝藏的线索…
 
-#### 场景
 
 **夜鸦船长:** 清理掉里面的丘丘人了？真是感谢你们！
 

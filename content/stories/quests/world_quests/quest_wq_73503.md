@@ -26,23 +26,18 @@
 
 Друсусу, учёному, обожающему загадки, пришла в голову свежая идея...
 
-#### Сцена
 
 **Сундук с загадкой:** «Испытай мелкие моря этой ветвью мудрости».
 
-#### Сцена
 
 **Сундук с загадкой:** «Умное растение, способное торговать росинками».
 
-#### Сцена
 
 **Сундук с загадкой:** «Там, где мудрость возвращается в море, сокровища находятся под парусами».
 
-#### Сцена
 
 **Доска с загадками:** «Над быстрым ручьём, под зелёным деревом».
 
-#### Сцена
 
 **Друсус:** Неплохое местечко...
 
@@ -114,11 +109,9 @@
 
 **Паймон:** Хм? У тебя наготове ещё одно местечко?
 
-#### Сцена
 
 **Доска с загадками:** «Мысли стремительно текут, а мудрость стоит на берегу и размышляет».
 
-#### Сцена
 
 **Доска с загадками:** «Зелёный зонтик созерцает занавес из жемчуга».
 
@@ -230,23 +223,18 @@
 
 Drusus, a researcher who loves riddles, seems to have a new idea recently...
 
-#### Scene
 
 **Chest With a Riddle:** "Test the shallow seas with this branch of wisdom."
 
-#### Scene
 
 **Chest With a Riddle:** "A smart plant that is good at trading water droplets."
 
-#### Scene
 
 **Chest With a Riddle:** "Where knowledge returns to the sea, treasure lies along the sails."
 
-#### Scene
 
 **Board With a Riddle:** "Above the stream running, under the trees green."
 
-#### Scene
 
 **Drusus:** Oh, this is a good one...
 
@@ -318,11 +306,9 @@ Done. Here, have a look.
 
 **Paimon:** Eh? There's another place...?
 
-#### Scene
 
 **Board With a Riddle:** "Thoughts flow freely, and wisdom halts on the shore, pondering."
 
-#### Scene
 
 **Board With a Riddle:** "The green umbrella gazes at the pearl curtain."
 
@@ -434,23 +420,18 @@ It's done.
 
 喜爱谜语的学者德鲁苏，最近似乎又有了新想法…
 
-#### 场景
 
 **装有谜语的题箱:** 「试探浅海的智慧之枝。」
 
-#### 场景
 
 **装有谜语的题箱:** 「擅长水珠贸易的智慧植物。」
 
-#### 场景
 
 **装有谜语的题箱:** 「有智归海处，宝藏侧帆间。」
 
-#### 场景
 
 **带有谜语的题板:** 「奔流上，绿树下。」
 
-#### 场景
 
 **德鲁苏:** 唔，这个地方不错…
 
@@ -522,11 +503,9 @@ It's done.
 
 **派蒙:** 欸？还有下一个地方啊…
 
-#### 场景
 
 **带有谜语的题板:** 「思维自由奔流，智慧驻岸思考。」
 
-#### 场景
 
 **带有谜语的题板:** 「青伞怀宝望珠帘。」
 

@@ -26,17 +26,14 @@
 
 Пенни увидела сон, который частично оказался явью.
 
-#### Сцена
 
 **Дон Кихано:** Как только ты задал / задала этот вопрос, вы сразу же стали «дорогими друзьями».
 
 **Нана:** Пойдём обрадуем Пенни!
 
-#### Сцена
 
 **Пенни:** Чтобы понять, что на самом деле хотят сказать, нужно слушать не только ушами, но и головой.
 
-#### Сцена
 
 **Пенни:** «Собачка смеётся вот так.
 Танцуют тарелки с ложками».
@@ -814,17 +811,14 @@
 
 Penny had a dream... Well, it wasn't all a dream.
 
-#### Scene
 
 **Don Quijano:** From the moment you asked that question, you became "dear friends."
 
 **Nana:** Let's go tell Penny the good news.
 
-#### Scene
 
 **Penny:** You have to use your head, not your ears, to truly get what others are saying.
 
-#### Scene
 
 **Penny:** "The little dog laughed to see such fun, and the dish ran away with the spoon."
 
@@ -1598,17 +1592,14 @@ As Penny kisses your forehead with joy, you can almost feel her anticipation and
 
 佩妮做了个梦，也不全是梦。
 
-#### 场景
 
 **唐·西哈诺:** 你们升格成亲爱的朋友了，从你问出刚才那个问题的那刻起。
 
 **娜娜:** 我们去告诉佩妮这个好消息。
 
-#### 场景
 
 **佩妮:** 要听明白别人真正想说的，不能用耳朵听，要用脑袋听哦。
 
-#### 场景
 
 **佩妮:** 「狗儿欢笑，盘子跟着勺子跑。」
 

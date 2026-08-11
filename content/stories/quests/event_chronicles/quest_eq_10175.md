@@ -428,7 +428,6 @@
 
 **Мона:** Хватит топтаться по моей больной мозоли! Ты явно нарочно!
 
-#### Сцена
 
 **Связаться с Николь:** Фатуи помешаны на богатстве, для них всё что угодно может стать козырем на переговорах.
 
@@ -1160,7 +1159,6 @@ You know about that?
 
 **Mona:** Ugh, c'mon! Enough about that old hag. You're doing this on purpose, aren't you?
 
-#### Scene
 
 **Contact Nicole:** The Fatuus up ahead values wealth above all else. No bargaining chip is off the table.
 
@@ -1892,7 +1890,6 @@ I will. Thank you.
 
 **莫娜:** 别哪壶不开提哪壶了行嘛！你一定是故意的！
 
-#### 场景
 
 **联络尼可:** 前方的愚人众士兵「视财如命」，世间万物都是能够放上谈判桌的筹码。
 

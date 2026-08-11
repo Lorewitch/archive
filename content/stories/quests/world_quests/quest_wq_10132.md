@@ -252,7 +252,6 @@
 
 **Цайтлинд:** Я буду ждать тебя. Когда придёт время, мы всё увидим вместе.
 
-#### Сцена
 
 **Цайтлинд:** Это почерк сестры.
 
@@ -430,7 +429,6 @@
 
 **Меланта:** Верни их обратно.
 
-#### Сцена
 
 **Меланта:** Нихилита! Нихилита!
 
@@ -848,7 +846,6 @@ Bearing great responsibility is no reason to sacrifice others.
 
 **Zeitlind:** I'll wait for you. Let us bear witness together when the time comes.
 
-#### Scene
 
 **Zeitlind:** This is... my sister's handwriting.
 
@@ -1026,7 +1023,6 @@ Why did a god take my sister / brother?
 
 **Melanta:** Send them back.
 
-#### Scene
 
 **Melanta:** Nihilita! Nihilita!
 
@@ -1444,7 +1440,6 @@ You tell Istoria what just happened...
 
 **彩特琳德:** 嗯，我等你。等下一起见证吧。
 
-#### 场景
 
 **彩特琳德:** 这是，姐姐的笔迹。
 
@@ -1622,7 +1617,6 @@ You tell Istoria what just happened...
 
 **梅兰塔:** 把他们赶回去。
 
-#### 场景
 
 **梅兰塔:** 尼西里塔！尼西里塔！
 

@@ -26,13 +26,11 @@
 
 Вы обнаружили странный лагерь в районе прохода Линцзю. Здесь явно что-то произошло...
 
-#### Сцена
 
 **Паймон:** Должно быть, это дневник какой-нибудь учёной.
 
 **Паймон:** Похоже, её преследовали Похитители сокровищ. Надеюсь, она смогла уйти невредимой...
 
-#### Сцена
 
 **Паймон:** Ой-ой! Здесь, должно быть, случилась драка - такой беспорядок...
 
@@ -74,11 +72,9 @@
 
 **Алрани:** Что, ещё не нашли? Сокровище зарыто под огромным золотым деревом посреди перевала Линцзю. Сразу отправляйтесь за ним, если хотите.
 
-#### Сцена
 
 **Паймон:** Хм... Костёр давно потушен. Кажется, в этом лагере никто не живёт.
 
-#### Сцена
 
 **Паймон:** А? Здесь вырезаны слова.
 
@@ -86,7 +82,6 @@
 
 **Паймон:** Это точно наша учёная. Скорее в горы!
 
-#### Сцена
 
 **Паймон:** Учёной, которая разбила здесь лагерь, правда может грозить опасность.
 
@@ -102,13 +97,11 @@
 
 You discovered a strange encampment in Lingju Pass. Something seems to have happened here...
 
-#### Scene
 
 **Paimon:** This diary seems to belong to a scholar.
 
 **Paimon:** It seems that some Treasure Hoarders had their eyes on her... Paimon hopes she was able to leave safely.
 
-#### Scene
 
 **Paimon:** Yikes... It looks like there was a big fight here. Everything's a mess!
 
@@ -150,11 +143,9 @@ What do you plan to do now?
 
 **Alrani:** Huh? You haven't found it yet? The treasure is buried beneath the giant golden tree in the middle of Lingju Pass.
 
-#### Scene
 
 **Paimon:** Huh. This bonfire's been put out for a long time. The person who camped here seems to be gone, too.
 
-#### Scene
 
 **Paimon:** Eh? Someone's carved words here.
 
@@ -162,7 +153,6 @@ What do you plan to do now?
 
 **Paimon:** That must be our scholar. Come on, let's get up that mountain!
 
-#### Scene
 
 **Paimon:** Maybe the scholar who camped out here really did get into trouble.
 
@@ -178,13 +168,11 @@ What do you plan to do now?
 
 在灵矩关里，你们发现了一处奇怪的营地，在这个营地中，似乎发生了什么事…
 
-#### 场景
 
 **派蒙:** 这本日记，好像是一位学者的呢。
 
 **派蒙:** 看起来…她好像被盗宝团盯上了，希望她已经安全离开了…
 
-#### 场景
 
 **派蒙:** 呜哇…好像有人在这里搏斗过，地面都变得乱七八糟了。
 
@@ -226,11 +214,9 @@ What do you plan to do now?
 
 **爱拉尼:** 咦？你们还没找到吗？宝藏就在灵矩关最中间的那棵金色大树下，你们想要的话，就快点去拿吧。
 
-#### 场景
 
 **派蒙:** 唔，这堆篝火已经熄灭很久了，扎营的人好像已经离开了呢。
 
-#### 场景
 
 **派蒙:** 咦？这里刻着字。
 
@@ -238,7 +224,6 @@ What do you plan to do now?
 
 **派蒙:** 一定是那位学者，我们快去山上吧！
 
-#### 场景
 
 **派蒙:** 在这里扎营的那位学者，说不定真的遇到了危险。
 

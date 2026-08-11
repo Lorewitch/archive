@@ -26,7 +26,6 @@
 
 Таинственный и приятный подарок ждёт вас в определённом месте...
 
-#### Сцена
 
 **Исследовать:** Вот оно!
 
@@ -52,7 +51,6 @@
 
 A mysterious, joyous gift lies somewhere, waiting to be discovered...
 
-#### Scene
 
 **Investigate:** This should be it!
 
@@ -78,7 +76,6 @@ A mysterious, joyous gift lies somewhere, waiting to be discovered...
 
 带来快乐的神秘礼物正在某处静候…
 
-#### 场景
 
 **调查:** 应该就是这个了吧！
 

@@ -96,7 +96,6 @@
 
 **Вайно:** Поручаю вам поймать воришек! А я останусь здесь и доделаю третью испытательную площадку, которую они попортили.
 
-#### Сцена
 
 **Вайно:** О, вы так быстро! Справились с предыдущими испытаниями?
 
@@ -527,7 +526,6 @@ Once we catch the thief, everything will become clear.
 
 **Vaino:** Alright, I'll leave the thief to you two! As for me, I'll stay here and get started on fixing the third challenge they messed up.
 
-#### Scene
 
 **Vaino:** Whoa, that was quick! You've already finished the other challenges?
 
@@ -958,7 +956,6 @@ Maybe they're waiting for a chance to steal the targets.
 
 **瓦伊诺:** 那么，小偷的事就拜托两位了！我就留在这里继续修理被他们破坏掉的第三项挑战。
 
-#### 场景
 
 **瓦伊诺:** 你们好快，已经完成前面所有的挑战了吗？
 

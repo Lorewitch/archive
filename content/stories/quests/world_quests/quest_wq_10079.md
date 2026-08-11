@@ -742,7 +742,6 @@
 
 **Арама:** Хорошо. Мы отправимся в путь, когда будешь готов(а).
 
-#### Сцена
 
 **Паймон:** Это здесь находится печать? Какое огромное дупло...
 
@@ -816,7 +815,6 @@
 
 **Арама:** Хорошо. Мы отправимся в путь, когда будешь готов(а).
 
-#### Сцена
 
 **Арама:** Нара Путешественник, не хочешь отдохнуть?
 
@@ -862,7 +860,6 @@
 
 **Арама:** Отлично!
 
-#### Сцена
 
 **Арама:** Мне не нравится песок. Он грубый и шероховатый, раздражает. И на нём не растёт зелёная трава.
 
@@ -898,7 +895,6 @@
 
 **Арама:** Да, нужно отдохнуть.
 
-#### Сцена
 
 **Рисунки:** (На рисунке изображено множество аранар, стоящих лицом, или спиной, к чему-то странному. Среди них есть (золотой)(золотая) нара...)
 
@@ -908,31 +904,25 @@
 
 **Стул:** (...Однако и техника изготовления, и размер доказывают, что это человеческий стул. Он совершенно не подходит аранарам.)
 
-#### Сцена
 
 **Багаж и книги:** (Похоже на вещи из лагеря искателей приключений. Пролистав книгу, можно увидеть, что в ней множество кривых рисунков, на которых изображены аранары, занятые разными делами.)
 
 **Багаж и книги:** (Кстати, почему искатели приключений любят брать с собой книги?.. Палатка продувается со всех сторон и не защищает от непогоды, так зачем тащить с собой кипу книг?)
 
-#### Сцена
 
 **Дом аранары:** (Похоже на дома аранара в Ванаране. Не хватает только «хозяина дома».)
 
 **Дом аранары:** (Зачем им дома, если аранары не нуждаются в отдыхе?)
 
-#### Сцена
 
 **Надёжная лоза:** (Лианы полностью перекрыли путь. Кажется, прохода нет.)
 
-#### Сцена
 
 **Водоём:** (Чистая и прохладная вода. Невозможно определить, откуда она взялась.)
 
-#### Сцена
 
 **Рисунки:** (На рисунке изображено множество аранар, стоящих лицом, или спиной, к чему-то странному. Среди них есть (золотой)(золотая) нара.)
 
-#### Сцена
 
 **Арама:** Если бы в те стародавние времена нара Путешественник (была)(был) бы здесь, тогда ты, Арамухукунда и Арадаша смогли бы вместе победить железного монстра!
 
@@ -956,13 +946,11 @@
 
 **Рисунки:** (Несколько аранар собрались в круг.)
 
-#### Сцена
 
 **Рисунки:** (Четыре аранары и (золотой)(золотая) нара, а ещё какая-то колонна... или что-то похожее на ствол дерева. Рисунок недостаточно чёткий, поэтому сложно сказать, что это.)
 
 **Рисунки:** (...Эта сцена кажется знакомой.)
 
-#### Сцена
 
 **Арамухукунда:** ...Хорошо, что ты понял. Арама, ты должен изо всех сил помогать своим друзьям. Затем посади новую Ашваттху. Так начнётся новый виток сновидений аранар.
 
@@ -976,7 +964,6 @@
 
 **Рисунки:** (Три аранары и (золотой)(золотая) нара собираются войти в огромный водоворот.)
 
-#### Сцена
 
 **Арама:** Нара Путешественник, Паймон, мы должны держаться вместе. Как будете готовы выступать - дайте мне знать.
 
@@ -1126,7 +1113,6 @@
 
 **Арана:** Я верю тебе, Арама.
 
-#### Сцена
 
 **Паймон:** Что это?..
 
@@ -1298,7 +1284,6 @@
 
 **Арана:** Достаточно будет спеть эту песню Аране и Араме.
 
-#### Сцена
 
 *Вы получаете биджу.*
 
@@ -2034,7 +2019,6 @@ They don't call it "The Rule of Three" for nothing...
 
 **Arama:** Alright. We'll set out whenever you are ready.
 
-#### Scene
 
 **Paimon:** Is this the seal? What a huge tree hollow...
 
@@ -2106,7 +2090,6 @@ They don't call it "The Rule of Three" for nothing...
 
 **Arama:** Alright. We'll set out whenever you are ready.
 
-#### Scene
 
 **Arama:** Nara Traveler, would you like to rest?
 
@@ -2152,7 +2135,6 @@ They don't call it "The Rule of Three" for nothing...
 
 **Arama:** Okay!
 
-#### Scene
 
 **Arama:** Bad sand. Rough and coarse. Ugh, green grass won't grow from it.
 
@@ -2188,7 +2170,6 @@ They don't call it "The Rule of Three" for nothing...
 
 **Arama:** Alright! I'll rest well!
 
-#### Scene
 
 **Mural:** (A mural of many Aranara with their fronts — or backs — facing something strange. There's a golden Aranara with them...)
 
@@ -2198,31 +2179,25 @@ They don't call it "The Rule of Three" for nothing...
 
 **Chair:** (...But both its size and workmanship clearly indicate that it's meant for humans, and not for Aranara.)
 
-#### Scene
 
 **Baggage and Books:** (It looks like something you'd see in an adventurer's camp. But the books are full of crooked drawings, mostly of Aranara doing something.)
 
 **Baggage and Books:** (Speaking of which, why are adventurers so fond of bringing a stack of books with them when they go camping? Never mind the fact that their tents are open in all directions and block neither wind nor rain... Why must they bring a stack of books?)
 
-#### Scene
 
 **Aranara House:** (This seems to be the home of some Aranara, and looks just like those houses in Vanarana. But its "owner" is nowhere to be found.)
 
 **Aranara House:** (If Aranara don't need to rest, why do they need houses?)
 
-#### Scene
 
 **Vine Thicket:** (Vines that have completely sealed the path off. There doesn't seem to be a way through.)
 
-#### Scene
 
 **Pool:** (Cool and clean water. It's impossible to tell where the water came from.)
 
-#### Scene
 
 **Mural:** (A mural of many Aranara with their fronts — or backs — facing something strange. There's a golden Aranara with them.)
 
-#### Scene
 
 **Arama:** If only Nara Traveler was here very, very long ago. Then you could have fought the huge metal beasts with Aramuhukunda, Aradasha, and the others!
 
@@ -2246,13 +2221,11 @@ They don't call it "The Rule of Three" for nothing...
 
 **Mural:** (A mural of some Aranara forming a circle.)
 
-#### Scene
 
 **Mural:** (Four Aranara, one golden Aranara, and a column... Or is that a tree trunk? It's hard to tell since the drawing is rather vague.)
 
 **Mural:** (...The scene looks somewhat familiar.)
 
-#### Scene
 
 **Aramuhukunda:** ...I'm glad that you understand. Arama, help your friends, and let the new Ashvattha Tree become the anchor of Aranara's dreams once more.
 
@@ -2266,7 +2239,6 @@ They don't call it "The Rule of Three" for nothing...
 
 **Mural:** (A mural of three Aranara and a golden Aranara. They seem to be entering a huge whirlpool.)
 
-#### Scene
 
 **Arama:** Nara Traveler, Paimon, I recommend we match each other's pace. Let me know when you're ready to set out.
 
@@ -2416,7 +2388,6 @@ Paimon.
 
 **Arana:** I believe you, Arama.
 
-#### Scene
 
 **Paimon:** What's this...
 
@@ -2588,7 +2559,6 @@ What should we do?
 
 **Arana:** Just play this song to Arana and Arama.
 
-#### Scene
 
 *You claim the Bija.*
 
@@ -3324,7 +3294,6 @@ What should we do?
 
 **兰罗摩:** 嗯。准备好了，我们就出发吧。
 
-#### 场景
 
 **派蒙:** 这里就是封印吗？好大的树洞…
 
@@ -3396,7 +3365,6 @@ What should we do?
 
 **兰罗摩:** 嗯。准备好了，我们就出发吧。
 
-#### 场景
 
 **兰罗摩:** 那菈旅行者，要休息吗？
 
@@ -3442,7 +3410,6 @@ What should we do?
 
 **兰罗摩:** 嗯！
 
-#### 场景
 
 **兰罗摩:** 沙子不好。又粗又糙，很讨厌，里面也长不出绿绿的草。
 
@@ -3478,7 +3445,6 @@ What should we do?
 
 **兰罗摩:** 嗯！好好休息！
 
-#### 场景
 
 **壁画:** （描绘着许多兰那罗一起，面对——抑或是背对——什么奇怪东西的情景。其中有一个金色的兰那罗…）
 
@@ -3488,31 +3454,25 @@ What should we do?
 
 **椅子:** （…话虽如此，但无论是工艺还是尺寸，很显然是人的椅子。并不适合兰那罗。）
 
-#### 场景
 
 **行囊与书籍:** （像是在冒险家的营地会见到的东西。只是书籍翻开以后，里面都是歪歪斜斜的绘画，大多描绘着兰那罗在做什么事情。）
 
 **行囊与书籍:** （这么说来，为什么冒险家总爱带一堆书在外面扎营…？帐篷四面透风什么都挡不了就算了，为什么要带一堆书？）
 
-#### 场景
 
 **兰那罗的家:** （和桓那兰那见到的是同一类。似乎是兰那罗的家。只是没看到「屋主」。）
 
 **兰那罗的家:** （既然兰那罗不需要休息，那为什么会需要房子？）
 
-#### 场景
 
 **严严实实的藤蔓:** （将出入通道挡得严严实实的藤蔓。似乎没有什么钻过去的办法。）
 
-#### 场景
 
 **水池:** （清凉干净的水。看不出新鲜水源是从哪来的。）
 
-#### 场景
 
 **壁画:** （描绘着许多兰那罗一起，面对——抑或是背对——什么奇怪东西的情景。其中有一个金色的兰那罗。）
 
-#### 场景
 
 **兰罗摩:** 如果好久好久以前，那菈旅行者也在就好了，就能和兰穆护昆达、兰帝裟他们一起，打大铁怪物！
 
@@ -3536,13 +3496,11 @@ What should we do?
 
 **壁画:** （一些兰那罗围成一圈的情景。）
 
-#### 场景
 
 **壁画:** （四个兰那罗与一个金色的兰那罗，与一个柱子…或者是树干一样的东西。因为没有完整描绘，所以不清楚是什么事物。）
 
 **壁画:** （…情景似乎有些眼熟。）
 
-#### 场景
 
 **兰穆护昆达:** …既然你明白就好。兰罗摩，要好好帮助你的朋友。然后，让新的觉王树，重新成为兰那罗之梦的锚点。
 
@@ -3556,7 +3514,6 @@ What should we do?
 
 **壁画:** （壁画中，有三个兰那罗与一个金色的兰那罗，看上去是要进入一个巨大漩涡。）
 
-#### 场景
 
 **兰罗摩:** 那菈旅行者、派蒙，我们配合步调一起行动吧。如果准备好一起出发了，就告诉我吧。
 
@@ -3706,7 +3663,6 @@ What should we do?
 
 **兰拉娜:** 我相信你，兰罗摩。
 
-#### 场景
 
 **派蒙:** 这到底是…
 
@@ -3878,7 +3834,6 @@ What should we do?
 
 **兰拉娜:** 对兰拉娜和兰罗摩，唱这个歌就可以了。
 
-#### 场景
 
 *取得了「惟耶之实」。*
 

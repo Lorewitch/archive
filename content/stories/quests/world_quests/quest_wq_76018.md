@@ -26,7 +26,6 @@
 
 На одной из баз Фатуи вы обнаружили медузу, лежащую ничком на земле. Что с ней случилось?
 
-#### Сцена
 
 **Паймон:** Вся распласталась на земле... Словно упавшая желейка из валяшки. Легко можно было бы и проглядеть.
 
@@ -192,7 +191,6 @@
 
 **Желейка:** ...
 
-#### Сцена
 
 **Паймон:** Хм? Почему не открывается? Может, ключ не тот... Что же теперь делать?
 
@@ -388,7 +386,6 @@
 
 You find a jellyfish collapsed on the ground in a Fatui base. What could've happened to it?
 
-#### Scene
 
 **Paimon:** It's all limp and floppy... like someone dropped a Valberry Jelly right here on the floor. Paimon nearly didn't notice it when we passed by earlier.
 
@@ -554,7 +551,6 @@ There might be other jellyfish that still need our help.
 
 **"Valberry Jelly":** ...
 
-#### Scene
 
 **Paimon:** Eh? Why won't it open? Isn't this the right key...? Hmm, what should we do now?
 
@@ -750,7 +746,6 @@ We cleared out all those nasty machines, and the environment's back to normal, s
 
 你们在愚人众的某处基地发现了一只瘫倒在地的水母，它究竟是怎么了？
 
-#### 场景
 
 **派蒙:** 完全瘫倒在地了呢…看上去像是被摔在地上的落落莓果冻。刚才路过的时候，差点没有发现。
 
@@ -916,7 +911,6 @@ We cleared out all those nasty machines, and the environment's back to normal, s
 
 **「落落莓果冻」:** ……
 
-#### 场景
 
 **派蒙:** 嗯？怎么打不开呢？难道不是这个钥匙吗…唔，现在要怎么办呢？
 
@@ -1044,11 +1038,9 @@ We cleared out all those nasty machines, and the environment's back to normal, s
 
 **派蒙:** 什么都没有发生…看来我没有那种能力。本来想着至少旅行者能出去的话也好…
 
-- **旅行者:** (test)我不要派蒙变成浅色的。
 
 - **旅行者:** 怎么可能丢下派蒙一个人呢…
 
-**派蒙:** (test)我好像本来就是浅色的？不过，我明白旅行者的意思。
 
 **派蒙:** 嗯，我知道的。但…我们两个都被关在这里的话，不就一点办法也没有了嘛！
 

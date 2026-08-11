@@ -26,7 +26,6 @@
 
 Верр Голдет, хозяйке постоялого двора «Ваншу», что-то докучает...
 
-#### Сцена
 
 **Верр Голдет:** Ах, что не Праздник морских фонарей, то каждый раз завал...
 
@@ -192,7 +191,6 @@
 
 Something is bothering Verr Goldet, boss of the Wangshu Inn...
 
-#### Scene
 
 **Verr Goldet:** *sigh* It always gets so unbearably busy during the Lantern Rite...
 
@@ -358,7 +356,6 @@ He promised to go with you, but he'll need a moment to get here.
 
 望舒客栈的菲尔戈黛特似乎正因为某事而烦恼…
 
-#### 场景
 
 **菲尔戈黛特:** 唉，一到过节就忙得不可开交…
 

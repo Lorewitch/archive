@@ -324,7 +324,6 @@
 
 Мальчик из Снежной, которого вы случайно встретили рядом со стражем руин, оказался Тевкром, младшим братом Чайльда. Чайльд попросил вас показать его братику Ли Юэ и, по возможности, сохранить его личность в тайне.
 
-#### Сцена
 
 **Бабуля Шань:** Цена... Вполне разумная. Ну, я тогда займусь вашим заказом.
 
@@ -462,7 +461,6 @@
 
 **Шеф-повар Мао:** Вот это дело. Вы пока присаживайтесь, еду скоро принесут.
 
-#### Сцена
 
 **Паймон:** Ох... Какое приторное. Что-то Паймон нехорошо...
 
@@ -556,7 +554,6 @@
 
 **Паймон:** Эй! А-ну-не-бегать!!!
 
-#### Сцена
 
 **Бабуля Шань:** Ваша цена слишком низкая...
 
@@ -596,7 +593,6 @@
 
 **Тевкр:** Эй, (сестрёнка)(братец), пойдём посмотрим на корабли!
 
-#### Сцена
 
 **Шеф-повар Мао:** Знаете ли, этих денег даже на ингредиенты не хватит.
 
@@ -1040,7 +1036,6 @@
 
 **Тевкр:** Хорошо... Шестьдесят - это очень долго.
 
-#### Сцена
 
 **Тевкр:** О, дверь открылась! Это ты сделал, братик?
 
@@ -1048,7 +1043,6 @@
 
 **Чайльд:** Ай-яй... Может, не стоит его так баловать...
 
-#### Сцена
 
 **Чайльд:** Тевкр, видишь этот каменный куб? Мне понадобится твоя помощь.
 
@@ -1056,7 +1050,6 @@
 
 **Чайльд:** Ну конечно. Когда я досчитаю до трёх, мы вместе должны его коснуться. Раз, два, три...
 
-#### Сцена
 
 **Тевкр:** Да здесь всё, о чём я только мог мечтать! Это мир Одноглазика!
 
@@ -1142,7 +1135,6 @@
 
 **Чайльд:** ...Хорошо. Спасибо тебе.
 
-#### Сцена
 
 **Тевкр:** Куда он запропастился... Нигде его найти не могу...
 
@@ -1598,7 +1590,6 @@ Is there any way I can help?
 
 The Snezhnayan boy that you met by chance while investigating the Ruin Guards turned out to be Childe's younger brother Teucer. Childe requests that you keep his "identity" a secret and that you give the boy a tour of Liyue.
 
-#### Scene
 
 **Granny Shan:** This price is fair. Well then, I'll get that custom order done for you.
 
@@ -1736,7 +1727,6 @@ The Snezhnayan boy that you met by chance while investigating the Ruin Guards tu
 
 **Chef Mao:** Ha, now that's better! Go find a place to sit. Your food will be with you shortly.
 
-#### Scene
 
 **Paimon:** Blergh, it was a little... too sweet. Paimon feels a little sick...
 
@@ -1830,7 +1820,6 @@ The Snezhnayan boy that you met by chance while investigating the Ruin Guards tu
 
 **Paimon:** Hey! Quit! Running! Off!
 
-#### Scene
 
 **Granny Shan:** Hmm, this price is a little too low...
 
@@ -1870,7 +1859,6 @@ The Snezhnayan boy that you met by chance while investigating the Ruin Guards tu
 
 **Teucer:** Hey, Mr. Nice Guy / Ms. Nice Lady, let's go over there to see the boats!
 
-#### Scene
 
 **Chef Mao:** Hey now, come on. I can barely cover the cost of the ingredients at that price.
 
@@ -2314,7 +2302,6 @@ Though the process was winding and awkward, Childe proved able to conceal his id
 
 **Teucer:** Okay... 60 is a really long time, though.
 
-#### Scene
 
 **Teucer:** Oh, the door opened! Was that you?
 
@@ -2322,7 +2309,6 @@ Though the process was winding and awkward, Childe proved able to conceal his id
 
 **Childe:** *sigh* Maybe I shouldn't have spoiled him quite so much.
 
-#### Scene
 
 **Childe:** Teucer, see that big stone cube in front of you? I need your help.
 
@@ -2330,7 +2316,6 @@ Though the process was winding and awkward, Childe proved able to conceal his id
 
 **Childe:** You bet. Now, I'll count down from three, and then we touch it together. Ready? Three... two... one...
 
-#### Scene
 
 **Teucer:** This... This is everything I've ever dreamed of! It's Mr. Cyclops world!
 
@@ -2416,7 +2401,6 @@ Go in peace.
 
 **Childe:** ...Alright. Thank you.
 
-#### Scene
 
 **Teucer:** I can't find him anywhere... where did he go...
 
@@ -2872,7 +2856,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 在调查遗迹守卫时偶然邂逅的至冬国男孩，居然是「公子」的弟弟托克。「公子」拜托你帮他保守「身份的秘密」，并带托克先在璃月转转。
 
-#### 场景
 
 **阿山婆:** 这价格…还算公道。那婆婆我就按这个价格为你们定做了。
 
@@ -3010,7 +2993,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **卯师傅:** 这还差不多，找个地方坐下吧，饭菜很快出锅。
 
-#### 场景
 
 **派蒙:** 唔…有点太甜了，好腻…
 
@@ -3104,7 +3086,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **派蒙:** 喂！不~要~乱~跑~！
 
-#### 场景
 
 **阿山婆:** 这个价格的话，果然还是稍微低了些…
 
@@ -3144,7 +3125,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 欸，大空/荧，我们再去那边看看船吧！
 
-#### 场景
 
 **卯师傅:** 喂，这点儿钱的话，也就够付个调料费吧？
 
@@ -3588,7 +3568,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **托克:** 好吧…六十个数好长呀。
 
-#### 场景
 
 **托克:** 欸，门开了！是哥哥帮的忙吗？
 
@@ -3596,7 +3575,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **「公子」:** 唉…要是以前没那么惯着他就好了。
 
-#### 场景
 
 **「公子」:** 托克，看到面前的大方块了吗？我需要你的帮忙。
 
@@ -3604,7 +3582,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **「公子」:** 当然，倒数三二一，我们一起碰它。三…二…一…
 
-#### 场景
 
 **托克:** 这里，简直和我的梦里一模一样！是「独眼小宝」的世界！
 
@@ -3690,7 +3667,6 @@ A huge number of people suddenly wanted to buy Mr. Cyclopses!
 
 **「公子」:** …嗯，拜托你了。
 
-#### 场景
 
 **托克:** 哪里都找不到…我哥哥藏在哪儿了…
 

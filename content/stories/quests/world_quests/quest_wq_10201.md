@@ -355,7 +355,6 @@
 
 **Талокард:** Хе-хе... Как же я хороша! Я позову Дугу, и займёмся поиском доказательств в этих ящиках!
 
-#### Сцена
 
 **Главарь:** Кто... Буэ... Сегодня готовил?! Его... Буэ... Ему конец!!!
 
@@ -375,7 +374,6 @@
 
 **Талокард:** Оставь свои уловки. Что ты на это скажешь, интересно?
 
-#### Сцена
 
 **Талокард:** Нет, это не то!
 
@@ -395,7 +393,6 @@
 
 **Талокард:** Хм... Уберите это и подождите немного, я проверю Дугу...
 
-#### Сцена
 
 **Стол со столовыми приборами:** (На столе разбросано множество разукрашенных столовых приборов, которые так и просятся в руки.)
 
@@ -403,7 +400,6 @@
 
 **Талокард:** Это точно они...
 
-#### Сцена
 
 **Паймон:** Этот ящик... Что, если Паймон спрячется в ящике и привлечёт внимание шумом, а пока они будут проверять, вы найдёте улики?
 
@@ -1437,7 +1433,6 @@ It doesn't take long before, one by one, subtle changes begin to appear on their
 
 **Talochard:** Hehe... I'm incredible! I'll go get Curve. Now we can search for evidence to our heart's content!
 
-#### Scene
 
 **Boss:** Who cooked this gar— *blaaargh*... Who cooked today!? Kill— *blech*... Find him and kill him!
 
@@ -1457,7 +1452,6 @@ It doesn't take long before, one by one, subtle changes begin to appear on their
 
 **Talochard:** You're good with words, but what will you do once we show you... THIS?
 
-#### Scene
 
 **Talochard:** Oh, dangit! That's not it!
 
@@ -1477,7 +1471,6 @@ It doesn't take long before, one by one, subtle changes begin to appear on their
 
 **Talochard:** Hmm... Let's put this away for now. I'll let Curve take a look later...
 
-#### Scene
 
 **Dining Table With Tableware:** (An overwhelming amount of tableware is scattered all over the table in a messy yet charming pile that's ripe for the taking.)
 
@@ -1485,7 +1478,6 @@ It doesn't take long before, one by one, subtle changes begin to appear on their
 
 **Talochard:** It must be them...
 
-#### Scene
 
 **Paimon:** Hmm, this chest... What if Paimon hides inside and makes some noise? Then you guys can go look for clues while they come over to investigate. Think that'll work?
 
@@ -2519,7 +2511,6 @@ So is Curve the real deal or not?
 
 **托萝莎:** 嘿嘿…我真厉害！我去让曲线过来，现在就尽情地搜查一下犯罪证据吧！
 
-#### 场景
 
 **大当家:** 今天的厨子是呕——是谁？！把他呕——把他宰了！！！
 
@@ -2539,7 +2530,6 @@ So is Curve the real deal or not?
 
 **托萝莎:** 你的狡辩振振有词，但我们要是拿出这个，你又该如何应对？
 
-#### 场景
 
 **托萝莎:** 不是这个啦，不是这个！
 
@@ -2559,7 +2549,6 @@ So is Curve the real deal or not?
 
 **托萝莎:** 唔…先把这个收起来好了，等我回去给曲线检查一下…
 
-#### 场景
 
 **摆满餐具的餐桌:** （桌子上散布着数量夸张的餐具，凌乱诱人，任君采撷。）
 
@@ -2567,7 +2556,6 @@ So is Curve the real deal or not?
 
 **托萝莎:** 绝对是这帮人…
 
-#### 场景
 
 **派蒙:** 这个箱子…如果我躲进箱子里，发出一点声音，然后趁他们过来查看的时候，你们去调查线索，会不会有用呢？
 

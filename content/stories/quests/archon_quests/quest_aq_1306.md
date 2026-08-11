@@ -1,11 +1,11 @@
 # id: quest_aq_1306
 # story_group: archon_quests
-# display_category: Задание Архонтов · Близнецы
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Сто свежих роз приносит утро: Финал
 # title_en: The Morn a Thousand Roses Brings: Denouement
 # title_zh: 千朵玫瑰带来的黎明·尾声
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 1306
@@ -18,7 +18,7 @@
 # related_quests: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_chain: quest_aq_1001,quest_aq_1002,quest_aq_1003,quest_aq_1101,quest_aq_1102,quest_aq_1103,quest_wq_1105,quest_aq_1104,quest_aq_1201,quest_aq_1202,quest_aq_1203,quest_aq_1204,quest_aq_1206,quest_aq_1301,quest_aq_1302,quest_aq_1306,quest_aq_1303,quest_aq_1304,quest_aq_1305,quest_aq_1308,quest_aq_1401,quest_aq_1402,quest_aq_1403,quest_aq_1404,quest_aq_1405,quest_aq_1406,quest_aq_1500,quest_aq_1501,quest_wq_10203,quest_wq_75008,quest_aq_1502,quest_aq_1503,quest_aq_1505,quest_aq_1504,quest_aq_1506,quest_aq_1602,quest_aq_1600,quest_aq_1601,quest_aq_1603,quest_aq_1604,quest_aq_1605,quest_aq_1606,quest_aq_1607,quest_aq_1608,quest_aq_1609,quest_aq_1611
 # quest_series: III
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 

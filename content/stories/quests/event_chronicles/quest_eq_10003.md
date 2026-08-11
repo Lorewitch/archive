@@ -214,7 +214,7 @@ But the crime hasn't even happened yet...
 
 **Paimon:** That's why there's no time to lose! When there's highly flammable materials involved, once the crime happens it'll be too late!
 
-#### Talk to Paimon (Hidden)
+#### Talk to Paimon
 
 **Paimon:** Aha! Knew it!
 
@@ -348,7 +348,7 @@ Actually, quite a festive color in this part of the world...
 
 **派蒙:** 所以说要抓紧时间啊，如果易燃品被人动了手脚，那案发的时候一切就都晚了！
 
-#### (test)与派蒙对话（隐藏）
+#### 与派蒙对话
 
 **派蒙:** 果然，那个是！
 

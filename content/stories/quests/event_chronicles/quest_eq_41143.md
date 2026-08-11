@@ -26,7 +26,6 @@
 
 Особый заказ ждёт своей доставки в «Хорошем охотнике»...
 
-#### Сцена
 
 У меня ещё есть другие дела.
 
@@ -70,7 +69,6 @@
 
 The Good Hunter has a special order that needs sending out...
 
-#### Scene
 
 I have other things to do.
 
@@ -114,7 +112,6 @@ Here's the dish you ordered.
 
 蒙德城的猎鹿人餐馆里有一份特别订单正等待着派送…
 
-#### 场景
 
 还有别的事。
 

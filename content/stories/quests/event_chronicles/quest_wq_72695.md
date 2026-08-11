@@ -1,6 +1,6 @@
 # id: quest_wq_72695
 # story_group: event_chronicles
-# display_category: Ивент · Core of the Apparatus }}
+# display_category: Ивент · Кузница машинерии
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хороши у нас игрушки: Запас энергии
 # title_en: A-Toymaking We Shall Go: Energy Storage
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_72696
 # related_quests: quest_wq_72694,quest_wq_72696,quest_wq_72697
 # quest_chain: quest_wq_72694,quest_wq_72695,quest_wq_72696,quest_wq_72697
-# quest_series: Core of the Apparatus }}
+# quest_series: Core of the Apparatus
 # version_source: wiki_release_category
 
 ## RU

@@ -26,7 +26,6 @@
 
 Знаменитый искатель приключений Роальд всё ещё остаётся на острове Цуруми. Кажется, что он чем-то озадачен...
 
-#### Сцена
 
 **Роальд:** Вы всё ещё на этом острове. Очень хорошо.
 
@@ -130,7 +129,6 @@
 
 **Роальд:** Я... постараюсь.
 
-#### Сцена
 
 **Роальд:** Привет! Нашли что-нибудь?
 
@@ -150,7 +148,6 @@
 
 **Паймон:** Ах ты... опять забыл!
 
-#### Сцена
 
 **Роальд:** Привет, Путешественник. И тебе привет, летающая подруга!
 
@@ -264,7 +261,6 @@
 
 The famous adventurer Roald is still on Tsurumi Island, seemingly troubled by something...
 
-#### Scene
 
 **Roald:** Ah, so you're still on this island as well. That's great.
 
@@ -368,7 +364,6 @@ Yes, much to learn you have, Paimon.
 
 **Roald:** I'll... I'll try my best.
 
-#### Scene
 
 **Roald:** Hello there, you two! Found anything lately?
 
@@ -388,7 +383,6 @@ Yes, much to learn you have, Paimon.
 
 **Paimon:** ...You... You forgetful...
 
-#### Scene
 
 **Roald:** Hello there, Traveler! And hello there, Traveler's gabby fairy friend!
 
@@ -502,7 +496,6 @@ Well, here's the photos that you wanted.
 
 著名冒险家罗尔德仍然留在鹤观岛上，似乎在苦恼着什么…
 
-#### 场景
 
 **罗尔德:** 没想到你们也还在这座岛上，真是太好了。
 
@@ -606,7 +599,6 @@ Well, here's the photos that you wanted.
 
 **罗尔德:** 我…我尽力而为。
 
-#### 场景
 
 **罗尔德:** 两位好！最近有什么收获吗！
 
@@ -626,7 +618,6 @@ Well, here's the photos that you wanted.
 
 **派蒙:** 哇——这个健忘人！！
 
-#### 场景
 
 **罗尔德:** 你好啊，旅行者，还有多话的小精灵！
 

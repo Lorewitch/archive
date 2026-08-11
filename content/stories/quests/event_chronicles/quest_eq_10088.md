@@ -776,7 +776,6 @@
 
 **Паймон:** Давай отойдём.
 
-#### Сцена
 
 **Синь Янь:** Кадзуха, Кадзуха! Ох, всё никак не проснётся. Похоже, сегодня он останется в таверне.
 
@@ -1604,7 +1603,6 @@ Great! Looking forward to it already!
 
 **Paimon:** Uh, let's talk over there.
 
-#### Scene
 
 **Xinyan:** Kazuha, Kazuha! ...Ugh, he just won't wake up! Looks like we're staying in the tavern tonight.
 
@@ -2432,7 +2430,6 @@ Alright.
 
 **派蒙:** 我们到边上说吧。
 
-#### 场景
 
 **辛焱:** 万叶，万叶！…唉，还是没醒，看来今晚要留在酒馆里了呢。
 

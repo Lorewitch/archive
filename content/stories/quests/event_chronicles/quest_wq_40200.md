@@ -1,6 +1,6 @@
 # id: quest_wq_40200
 # story_group: event_chronicles
-# display_category: Ивент · Tracing Vanishing Trails }}
+# display_category: Ивент · По исчезающим следам
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мгновенное опьянение, встреча при лунном свете
 # title_en: An Instant of Intoxication, A Meeting by Moonlight
@@ -17,7 +17,7 @@
 # next_quests:
 # related_quests: quest_wq_40199,quest_wq_40201,quest_wq_40202
 # quest_chain: quest_wq_40199,quest_wq_40201,quest_wq_40202,quest_wq_40200
-# quest_series: Tracing Vanishing Trails }}
+# quest_series: Tracing Vanishing Trails
 # version_source: wiki_release_category
 
 ## RU

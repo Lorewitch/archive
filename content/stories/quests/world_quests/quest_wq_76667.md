@@ -66,7 +66,6 @@
 
 **Люликки:** Когда вы их принесёте, я обязательно приготовлю вам самое вкусное Лунное угощение!
 
-#### Сцена
 
 **Люликки:** Вы вернулись? Скажите, вы достали ягоды лакка?
 
@@ -140,7 +139,6 @@ I'll go gather some for you.
 
 **Lyylikki:** Once you bring them back, I promise I'll make you the tastiest Feast of the Moon you've ever had!
 
-#### Scene
 
 **Lyylikki:** Oh, you're back! Did you get the Lakkaberries?
 
@@ -214,7 +212,6 @@ Here, will these be enough?
 
 **莉莉希:** 等您拿来了之后，我一定会给您做一份最好吃的「飨月餐」！
 
-#### 场景
 
 **莉莉希:** 您回来了？请问，您拿到白灵果了么？
 

@@ -26,7 +26,6 @@
 
 Благотворительная ярмарка подходит к концу. Надеюсь, все усилия окупились...
 
-#### Сцена
 
 **Паймон:** Эола и Эмбер! И вы тут!
 
@@ -172,7 +171,6 @@
 
 The charity event is coming to an end. Hope all the effort has paid off...
 
-#### Scene
 
 **Paimon:** Eula, Amber, you're here!
 
@@ -318,7 +316,6 @@ Thank you for your generous contribution!
 
 义卖活动即将结束，不知大家努力许久的收获如何…
 
-#### 场景
 
 **派蒙:** 优菈和安柏！你们也来玩了！
 

@@ -24,7 +24,6 @@
 
 ### Погоня
 
-#### Сцена
 
 Сперва мне нужно подготовиться.
 
@@ -224,7 +223,6 @@
 
 ### Pursuit
 
-#### Scene
 
 Let me get ready first...
 
@@ -424,7 +422,6 @@ Wasn't it just a blink of an eye for you?
 
 ### 追寻
 
-#### 场景
 
 我先准备一下…
 

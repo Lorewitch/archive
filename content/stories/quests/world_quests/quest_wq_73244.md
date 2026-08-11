@@ -26,7 +26,6 @@
 
 Хотя Джехт разобралась с Адерфи, предателем племени Танит, вам всё же интересно узнать, что случилось с остававшимся у Адерфи Бенбеном...
 
-#### Сцена
 
 **Джехт:** Как же... я могла забыть...
 
@@ -340,7 +339,6 @@
 
 Though Jeht made quick work of Aderfi, who had been a traitor to the Tanit tribe, you can't help but wonder how Benben's doing after being entrusted to him...
 
-#### Scene
 
 **Jeht:** How... how could I forget...
 
@@ -654,7 +652,6 @@ No need to thank me, Benben.
 
 阿德菲虽然作为塔尼特的叛徒被婕德解决，但是，之前托付给阿德菲的奔奔现在又怎么样了呢…
 
-#### 场景
 
 **婕德:** 怎么会…我居然忘记了…
 

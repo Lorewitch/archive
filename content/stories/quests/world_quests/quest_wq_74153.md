@@ -26,7 +26,6 @@
 
 Чтобы выполнить данное Молли обещание, вы должны докопаться до самой сути истории Бенуа.
 
-#### Сцена
 
 **Постучать:** (Мы решили расследовать все странные события, происходящие в доме, поэтому нет смысла предупреждать их о нашем присутствии.)
 
@@ -84,7 +83,6 @@
 
 **Паймон:** Но при этом нельзя шуметь, иначе мы привлечём внимание той парочки.
 
-#### Сцена
 
 **Странные ящики:** (Раньше вы видели эти ящики возле дома Бенуа. Судя по следам на слое пыли, их открывали совсем недавно.)
 
@@ -96,13 +94,11 @@
 
 **Паймон:** Чек разорван - осталась только половина. Хм, торговая лавка Бракари... Где-то мы уже встречали это название.
 
-#### Сцена
 
 **Необычные следы:** (На ощупь что-то маслянистое. Возможно, след от свечи.)
 
 **Необычные следы:** (Кто и с какой целью стоял здесь со свечой в руках?)
 
-#### Сцена
 
 Что ты можешь сказать об этом чеке?..
 
@@ -138,7 +134,6 @@
 
 **Бракари:** Ступайте. Снодграсс - знатный бездельник. Вы наверняка найдёте его где-нибудь неподалёку.
 
-#### Сцена
 
 Расскажи о Бенуа Леруа...
 
@@ -366,7 +361,6 @@
 
 To fulfill your promise to Molli, you must get to the bottom of Benoit's story.
 
-#### Scene
 
 **Knock:** (We've already decided to investigate any strange goings-on regarding the Leroy family, knocking on the door would only alert them to what we're doing.)
 
@@ -424,7 +418,6 @@ Old home?
 
 **Paimon:** That said, we can't make too much noise, or we'll alert that couple.
 
-#### Scene
 
 **Strange Boxes:** (You've seen these boxes near Benoit's house before. Judging by the traces left in the layer of dust covering them, they were opened quite recently.)
 
@@ -436,13 +429,11 @@ Old home?
 
 **Paimon:** This receipt's been torn up — only half of it is left. Huh, Bracari's General Store... We've seen that name somewhere, haven't we?
 
-#### Scene
 
 **Strange Traces:** (It has a slick, oily sensation that you're sure had to have been left by a candle.)
 
 **Strange Traces:** (Who lingered here with a candle in hand, and for what purpose?)
 
-#### Scene
 
 What can you tell me about this receipt...
 
@@ -478,7 +469,6 @@ Could you tell me anything about Benoit?
 
 **Bracari:** Go on, then. Snodgrass is a right layabout. You should be able to find him loitering about nearby.
 
-#### Scene
 
 Could you tell me about Benoit Leroy?
 
@@ -706,7 +696,6 @@ That's all we can do for now.
 
 为了完成与茉莉的约定，当务之急是弄明白伯努瓦身上究竟发生了什么。
 
-#### 场景
 
 **敲一敲:** （已经决定自行调查勒鲁瓦家的奇怪状况了，现在敲门似乎会打草惊蛇。）
 
@@ -764,7 +753,6 @@ That's all we can do for now.
 
 **派蒙:** 不过我们的动静得小点儿，不然会引起那对夫妻的警觉。
 
-#### 场景
 
 **奇怪的箱子:** （曾在伯努瓦家附近见过的箱子，从箱子上灰尘的痕迹来看，它们最近似乎被开启过。）
 
@@ -776,13 +764,11 @@ That's all we can do for now.
 
 **派蒙:** 这张收据被撕坏了，只有一半。唔，布莱卡利杂货店…这名字好像在哪里看过，总觉得有点熟悉。
 
-#### 场景
 
 **奇怪的痕迹:** （抚摸起来有种光滑油润的触感，你确定这是蜡烛留下的痕迹。）
 
 **奇怪的痕迹:** （有谁持蜡烛在箱子附近逗留过，又是为了什么？）
 
-#### 场景
 
 关于你们发现的收据…
 
@@ -818,7 +804,6 @@ That's all we can do for now.
 
 **布莱卡利:** 去吧，史诺德格拉斯这家伙游手好闲的，这会儿应该就在这附近闲逛。
 
-#### 场景
 
 关于伯努瓦·勒鲁瓦…
 

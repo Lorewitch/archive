@@ -328,7 +328,6 @@
 
 **Янь Фэй:** Здесь неудобно говорить, поэтому... Давай найдём место, где мы можем присесть и всё обсудить.
 
-#### Сцена
 
 **Чжи Цяо:** Госпожа Янь Фэй, вы хотели меня видеть? Вы пришли насчёт компенсации?
 
@@ -440,7 +439,6 @@
 
 **Янь Фэй:** Большое спасибо. Мы посмотрим с вашего позволения.
 
-#### Сцена
 
 **Чжи Цяо:** А? Судя по сечению и текстуре... Это остатки зелёного нефрита.
 
@@ -1162,7 +1160,6 @@ Is something the matter?
 
 **Yanfei:** It's not convenient to speak here, so... Let's find somewhere that we can sit and talk in more detail.
 
-#### Scene
 
 **Zhiqiao:** Miss Yanfei, what is this about? Are you... Are you here to tell me how much I owe?
 
@@ -1274,7 +1271,6 @@ Need me to do anything?
 
 **Yanfei:** Thank you, Sir. We'll take a look at them.
 
-#### Scene
 
 **Zhiqiao:** Huh? If my eyes don't deceive me, the cross-sections and patterning suggest that these are Smaragdus Nephrite shavings.
 
@@ -1996,7 +1992,6 @@ Thanks, Granny.
 
 **烟绯:** 这里不方便，唔…我们去找个能坐下的地方慢慢谈吧。
 
-#### 场景
 
 **芷巧:** 烟绯小姐，你找我还有什么事吗？是来…是来告诉我赔偿金额的吗？
 
@@ -2108,7 +2103,6 @@ Thanks, Granny.
 
 **烟绯:** 谢谢了老板，我们这就过去看看。
 
-#### 场景
 
 **芷巧:** 咦？从断面和纹理来看…这好像是「翠含岩」的碎屑啊。
 

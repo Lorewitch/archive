@@ -56,13 +56,11 @@
 
 **Иванович:** Но... Жаль всё же, что уходит такая возможность...
 
-#### Сцена
 
 Вокруг них куча монстров.
 
 **Иванович:** Поэтому ты мне, путешественн(ица)(ик), и нуж(на)(ен).
 
-#### Сцена
 
 Уверен(а), кому-то такая идея в голову уже пришла...
 
@@ -76,7 +74,6 @@
 
 **Паймон:** А если мы скажем ему, что его план не принесёт ни монеты? Или что метеориты действительно опасны? Может, он тогда прислушается?
 
-#### Сцена
 
 Если ты прикоснёшься к метеориту, то потеряешь сознание.
 
@@ -88,7 +85,6 @@
 
 **Паймон:** Гнём свою линию. Нужно убедить его, что предприятие это денег не принесёт, а метеориты слишком опасны.
 
-#### Сцена
 
 А ты сможешь достать другие материалы для украшений?
 
@@ -96,7 +92,6 @@
 
 **Иванович:** Золото с серебром, самоцветы... Раздобыть их не проблема.
 
-#### Сцена
 
 У тебя и так хорошо идут дела. Зачем рисковать?
 
@@ -106,7 +101,6 @@
 
 **Иванович:** Использовать более изощрённые методы для извлечения прибыли - вот как должен поступать настоящий торговец.
 
-#### Сцена
 
 Ты мог бы обратиться в Гильдию искателей приключений...
 
@@ -118,13 +112,11 @@
 
 **Иванович:** Ну... В твоих словах есть смысл. Но разве они настолько опасны?
 
-#### Сцена
 
 Метеориты очень тяжёлые...
 
 **Иванович:** Не проблема! О вопросах перевозки я уже позаботился. Этим метеоритам ни за что не остановить воздушные шары.
 
-#### Сцена
 
 Миллелиты тебя не пустят.
 
@@ -132,7 +124,6 @@
 
 **Иванович:** Пойми, падение метеоритов и правда бедствие, но я собираюсь превратить это бедствие в прибыльное дело!
 
-#### Сцена
 
 Но люди, которые купят эти украшения...
 
@@ -186,7 +177,6 @@
 
 **Иванович:** Что бы с этим цветком-сахарком такого сделать?.. Изготовить закладку? Духи? Или просто засушить?..
 
-#### Сцена
 
 **Иванович:** Хм... На этом можно неплохо заработать. Вот только есть одна проблемка...
 
@@ -264,13 +254,11 @@ Ivanovich is getting ideas about what business might be done regarding those fal
 
 **Ivanovich:** Ah, but it still seems like such a shame to let such a huge opportunity go by like this...
 
-#### Scene
 
 There will be a lot of monsters, you know.
 
 **Ivanovich:** I do, and that's what I'll need you for, Traveler.
 
-#### Scene
 
 I'm sure others have had this idea...
 
@@ -284,7 +272,6 @@ I'm sure others have had this idea...
 
 **Paimon:** Maybe we can convince him that his scheme won't make money, or that the meteorites are really dangerous...
 
-#### Scene
 
 You'll faint if you touch those meteorites.
 
@@ -296,7 +283,6 @@ You'll faint if you touch those meteorites.
 
 **Paimon:** Let's keep it up. We've got to convince him that this venture won't make money and that the meteorites are super dangerous.
 
-#### Scene
 
 Are you sure you can find matching ornaments?
 
@@ -304,7 +290,6 @@ Are you sure you can find matching ornaments?
 
 **Ivanovich:** Silver, gold, precious stones... I should be able to get any of those easily.
 
-#### Scene
 
 You're doing pretty well for yourself. There's no need to take risks.
 
@@ -314,7 +299,6 @@ You're doing pretty well for yourself. There's no need to take risks.
 
 **Ivanovich:** Use ever more refined techniques, earn ever more Mora — that is how one should behave as a merchant.
 
-#### Scene
 
 Perhaps you could go to the Adventurers' Guild...
 
@@ -326,13 +310,11 @@ Isn't that because they also find those meteorites dangerous?
 
 **Ivanovich:** Hmm... When you put it that way, it does make sense. But surely they can't be that dangerous...
 
-#### Scene
 
 Those meteorites are very heavy.
 
 **Ivanovich:** Ah, that's a small issue. I have already chartered us a vehicle. Surely those meteorites cannot cause even hot air balloons to stop moving.
 
-#### Scene
 
 Will the Millelith even let you go?
 
@@ -340,7 +322,6 @@ Will the Millelith even let you go?
 
 **Ivanovich:** Understand this: this shower of meteorites is a disaster indeed, but I plan to turn it into opportunity!
 
-#### Scene
 
 But the people who buy those ornaments will...
 
@@ -394,7 +375,6 @@ There's nothing special about this flower, though...
 
 **Ivanovich:** Now, how to use this Sweet Flower... In a perfume, or as a bookmark? Perhaps it might even be good dried...
 
-#### Scene
 
 **Ivanovich:** Hmm... Not bad. I could make quite a pile off this. But there's just one problem...
 
@@ -472,13 +452,11 @@ You shouldn't go near those meteorites.
 
 **伊凡诺维奇:** 但是…唉，白白放过这么大的商机，真是遗憾…
 
-#### 场景
 
 那里有很多魔物。
 
 **伊凡诺维奇:** 这正是我想要雇佣你的原因，旅行者。
 
-#### 场景
 
 别人也会想到做这个生意…
 
@@ -492,7 +470,6 @@ You shouldn't go near those meteorites.
 
 **派蒙:** 如果能让他知道，这笔生意赚不了钱，或者…陨石真的很危险就好了…
 
-#### 场景
 
 摸到陨石就会昏睡过去…
 
@@ -504,7 +481,6 @@ You shouldn't go near those meteorites.
 
 **派蒙:** 就这样说服他，告诉他这笔生意绝对赚不了钱，还有…那个陨石真的很危险。
 
-#### 场景
 
 没什么能配得上的配饰…
 
@@ -512,7 +488,6 @@ You shouldn't go near those meteorites.
 
 **伊凡诺维奇:** 无论是宝石、金银，还是其他什么，想找的话一定能找得到。
 
-#### 场景
 
 你的生意还不错，不用冒险…
 
@@ -522,7 +497,6 @@ You shouldn't go near those meteorites.
 
 **伊凡诺维奇:** 用更妙的方法，赚更多的钱，这才是一位合格的商人。
 
-#### 场景
 
 不如去找冒险家协会…
 
@@ -534,13 +508,11 @@ You shouldn't go near those meteorites.
 
 **伊凡诺维奇:** 呃…你这么说，倒也有几分道理，但是也不会太过危险吧…
 
-#### 场景
 
 陨石很沉…
 
 **伊凡诺维奇:** 这么点小问题，我已经雇好了车。那些陨石总不可能让热气球也停摆。
 
-#### 场景
 
 千岩军肯定不会让你去的。
 
@@ -548,7 +520,6 @@ You shouldn't go near those meteorites.
 
 **伊凡诺维奇:** 这些从天而降的陨石是一场灾难，你明白吗？一场灾难，但我们的生意会让这场灾难成为机遇！
 
-#### 场景
 
 买了首饰的客人们也会…
 
@@ -602,7 +573,6 @@ You shouldn't go near those meteorites.
 
 **伊凡诺维奇:** 这株甜甜花…嗯…香水？书签？干花？好像都不错…
 
-#### 场景
 
 **伊凡诺维奇:** 嗯…不错，这生意准能大赚一笔。但是还有个小问题…
 

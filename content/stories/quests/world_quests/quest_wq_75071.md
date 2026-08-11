@@ -26,7 +26,6 @@
 
 Когда ты в беде, ты всё ещё хочешь быть со мной рядом?
 
-#### Сцена
 
 **Магнифико:** Ха-ха, Путешественник и Паймон, моя муза и... э-э-э, мини-муза!
 
@@ -142,7 +141,6 @@
 
 Whenever you're in trouble, won't you stand by me?
 
-#### Scene
 
 **Magnifico:** Haha, my dear Traveler and Paimon, my muse and my... Err, mini-muse!
 
@@ -258,7 +256,6 @@ You defeat the enemy and smash open the cage imprisoning the little Sumpter Beas
 
 当你惹上麻烦，是否还愿意同我相伴？
 
-#### 场景
 
 **马尼菲科:** 哈哈，亲爱的旅行者和派蒙，我的缪斯和…呃，小缪斯！
 

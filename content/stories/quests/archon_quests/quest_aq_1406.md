@@ -1242,7 +1242,6 @@
 
 *«Вы брат и сестра. Ладьте друг с другом».*
 
-#### Сцена
 
 **Паймон:** Точно! Паймон совсем забыла про помехи в артериях земли. Мы оказались в чьём-то воспоминании...
 
@@ -2496,7 +2495,6 @@ I'm sure... he had his reasons.
 
 *"You must get along with each other, the two of you."*
 
-#### Scene
 
 **Paimon:** Right! Paimon totally forgot about the Ley Line disturbances. We're in someone else's memory...
 
@@ -3750,7 +3748,6 @@ Implant memories into the minds of others.
 
 *「要好好相处呀，你们兄妹两个。」*
 
-#### 场景
 
 **派蒙:** 我们在某人的记忆里…对哦，我怎么忘记地脉扰动的问题了。
 

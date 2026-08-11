@@ -210,7 +210,6 @@
 
 **Дневник Моссо I:** Хм, решено. Назову этот детектор лжи "Дуга"».
 
-#### Сцена
 
 **Паймон:** Это крылья Месье Артура!
 
@@ -502,7 +501,6 @@
 
 **Евфрасия:** Так что идите, ищите то, что вам нужно.
 
-#### Сцена
 
 **Евфрасия:** Прошу прощения, я переволновалась...
 
@@ -706,7 +704,6 @@
 
 **Паймон:** И как они так быстро здесь оказались? Прямо-таки сами напрашиваются...
 
-#### Сцена
 
 **???:** Ха, сразу было ясно, что с вами будет непросто. Пора попробовать оставленные доктором Моссо штучки. И пробовать будем на вас...
 
@@ -1249,7 +1246,6 @@ You can do it, Paimon.
 
 **Mosso's Diary (I):** "That's it. I'll name my lie detector 'Curve.'"
 
-#### Scene
 
 **Paimon:** Sir Arthur's wing!
 
@@ -1541,7 +1537,6 @@ Gradually, another image emerges.
 
 **Euphrasie:** So... Go. Find what you're looking for.
 
-#### Scene
 
 **Euphrasie:** Sorry, we were overthinking things...
 
@@ -1745,7 +1740,6 @@ That seems to be the answer.
 
 **Paimon:** They sure did get here fast... Guess they're cruising for a bruising...
 
-#### Scene
 
 **???:** Ha, knew you'd be tough customers. Time to try out what Dr. Mosso left behind... You'll be the test subjects!
 
@@ -2288,7 +2282,6 @@ That seems to be the answer.
 
 **莫索的日志（一）:** 「嗯，决定了，就给这台谎言检测机取名『曲线』吧。」
 
-#### 场景
 
 **派蒙:** 是亚瑟先生的翅膀！
 
@@ -2580,7 +2573,6 @@ That seems to be the answer.
 
 **欧芙:** 所以，快去寻找你们想要的东西吧。
 
-#### 场景
 
 **欧芙:** 非常抱歉，是我多想了…
 
@@ -2784,7 +2776,6 @@ That seems to be the answer.
 
 **派蒙:** 这些家伙怎么这么快就来了？真是自寻死路…
 
-#### 场景
 
 **？？？:** 哼哼，我知道这些家伙不简单，但好在我有了莫索博士留下的东西…先拿你们试试吧…
 

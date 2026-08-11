@@ -26,7 +26,6 @@
 
 Под Лагерем у скалы есть заброшенная стоянка...
 
-#### Сцена
 
 **???:** Эй, Чернов, ты как там?
 
@@ -66,7 +65,6 @@
 
 There seems to be a dilapidated campsite below Cliffwatch Camp...
 
-#### Scene
 
 **???:** Hey, Chernov, you okay?
 
@@ -106,7 +104,6 @@ There seems to be a dilapidated campsite below Cliffwatch Camp...
 
 在望崖营壁下，似乎有一处破败的营地…
 
-#### 场景
 
 **？？？:** 嘿，契诺夫，你还好吧。
 

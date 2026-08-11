@@ -24,7 +24,6 @@
 
 ### Судьба бойца
 
-#### Сцена
 
 **Инаба Кюдзо:** Кажется, тут снова начали сновать крысы...
 
@@ -48,7 +47,6 @@
 
 ### Fate of a Fighter
 
-#### Scene
 
 **Inaba Kyuuzou:** ...And it seems that the rats nearby have begun scurrying about again.
 
@@ -72,7 +70,6 @@ You have a deal.
 
 ### 武者的宿命
 
-#### 场景
 
 **稻叶久藏:** …附近的鼠辈又开始蠢蠢欲动了。
 

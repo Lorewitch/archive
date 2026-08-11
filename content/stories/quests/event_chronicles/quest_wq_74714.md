@@ -1,6 +1,6 @@
 # id: quest_wq_74714
 # story_group: event_chronicles
-# display_category: Ивент · Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# display_category: Ивент · Лето! Возвращение? Фонтиналия!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Внимание: подводные работы...
 # title_en: Underwater Restoration in Progress...
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_74715
 # related_quests: quest_wq_74713,quest_wq_74715,quest_wq_74716
 # quest_chain: quest_wq_74713,quest_wq_74714,quest_wq_74715,quest_wq_74716
-# quest_series: Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# quest_series: Sunny Summer Fontinalia
 # version_source: wiki_release_category
 
 ## RU

@@ -26,7 +26,6 @@
 
 В безлюдной глуши тишина была нарушена звуками драки...
 
-#### Сцена
 
 **Модный Персик Зайтун:** Подавай сюда своего старшего братца! Этот бессовестный шакал нас предал, босс рвёт и мечет!
 
@@ -973,7 +972,6 @@
 
 **Паймон:** Путешественник, давай скорее возьмём «ключ» и выпьем его!
 
-#### Сцена
 
 **Коварный Пузырин:** ♪-♩-♫-♬!
 
@@ -1755,7 +1753,6 @@
 
 In the sparsely populated wilderness, you suddenly heard strange arguing sounds...
 
-#### Scene
 
 **"Trendy Zaytun Peach":** Hand your brother over! That heartless rat's betrayed us — the boss is practically frothing at the mouth!
 
@@ -2702,7 +2699,6 @@ Thanks.
 
 **Paimon:** Traveler! Take the "key" out and drink it!
 
-#### Scene
 
 **"Tricky Bulle Fruit":** ♪~♩~♫~♬~
 
@@ -3484,7 +3480,6 @@ What sort of confidence?
 
 罕有人烟的野外，突然听见了奇怪的争吵声…
 
-#### 场景
 
 **「时髦墩墩桃」:** 快把你哥哥交出来！那只该死的白眼狼背叛了我们，老大可是被气到口水直吐啊。
 
@@ -4431,7 +4426,6 @@ What sort of confidence?
 
 **派蒙:** 旅行者，快把「密钥」拿出来喝掉吧！
 
-#### 场景
 
 **「狡诈泡泡桔」:** ♪~♩~♫~♬~
 

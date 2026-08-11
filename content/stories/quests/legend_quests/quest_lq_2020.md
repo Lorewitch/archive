@@ -886,7 +886,6 @@
 
 **Чжун Ли:** В конце входа чувствуется присутствие чего-то необычного. Всем приготовиться. Будьте крайне осторожны.
 
-#### Сцена
 
 **Шахтёр:** У... у...
 
@@ -1052,7 +1051,6 @@
 
 **Кунь Цзюнь:** Ха-ха, верно. Идём.
 
-#### Сцена
 
 **Шахтёр:** Ох... Ух...
 
@@ -1164,7 +1162,6 @@
 
 **Чжун Ли:** Это было так давно... но события тысячелетней давности до сих пор так отчётливы.
 
-#### Сцена
 
 **Шахтёр:** Ох...
 
@@ -1268,7 +1265,6 @@
 
 ### Без названия 11124
 
-#### Сцена
 
 **Чжун Ли:** Эту каменную стелу воздвиг Творец Гор. Она называет Аждаху ужасным драконом и служит напоминанием потомкам держаться подальше от этого места... от печати.
 
@@ -1280,7 +1276,6 @@
 
 **Чжун Ли:** (Тысяча лет в мире смертных всего лишь мимолётное мгновенье. Камень чувствует это, как и земля, как и боги.)
 
-#### Сцена
 
 **Чжун Ли:** (Слышно лишь, как шуршит листвой ветер. Время словно превратилось в неосязаемую реку, что течёт в тишине...)
 
@@ -2152,7 +2147,6 @@ You're sure there'll be clues in the tree?
 
 **Zhongli:** There is an unusual presence emanating from inside the tunnel. Prepare yourselves, and tread lightly.
 
-#### Scene
 
 **Miner:** Ugh... ugh...
 
@@ -2318,7 +2312,6 @@ Erosion...?
 
 **Kun Jun:** Ha... straight down to business, as always. Let's go.
 
-#### Scene
 
 **Miner:** Ugh... Oh...
 
@@ -2430,7 +2423,6 @@ He was a great friend of yours.
 
 **Zhongli:** Centuries may have passed since then... but events from a thousand years ago... remain crystal clear in my mind.
 
-#### Scene
 
 **Miner:** Oh...
 
@@ -2534,7 +2526,6 @@ Perhaps.
 
 ### Untitled 11124
 
-#### Scene
 
 **Zhongli:** This tablet was erected by Mountain Shaper. It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place... from the seal.
 
@@ -2546,7 +2537,6 @@ Perhaps.
 
 **Zhongli:** (A fleeting moment, a thousand years in the mortal world. The rocks feel it, and so too does the earth and the gods.)
 
-#### Scene
 
 **Zhongli:** (Amidst the quiet, only the soft sound of the wind can be heard. Time seems to transform into an invisible river, trickling away...)
 
@@ -3418,7 +3408,6 @@ Perhaps.
 
 **钟离:** 尽头有些不寻常的气息。谨慎起见，各位，请做好准备。
 
-#### 场景
 
 **矿工:** 呜…呜…
 
@@ -3584,7 +3573,6 @@ Perhaps.
 
 **昆钧:** 哈哈，所言甚是。走吧。
 
-#### 场景
 
 **矿工:** 唔…呜…
 
@@ -3696,7 +3684,6 @@ Perhaps.
 
 **钟离:** 许久之前的事了…虽已千年，却像昨日种种，历历在目。
 
-#### 场景
 
 **矿工:** 呃…
 
@@ -3800,7 +3787,6 @@ Perhaps.
 
 ### 未命名 11124
 
-#### 场景
 
 **钟离:** 此碑由理水叠山真君所立。碑文中称若陀为恶龙，是为提醒后人远离这处封印。
 
@@ -3812,7 +3798,6 @@ Perhaps.
 
 **钟离:** （浮光一瞬，人间千年。岩石有心，大地与神明亦然。）
 
-#### 场景
 
 **钟离:** （寂静中，惟闻风声飒飒。时间仿佛化作无形的河流，自身旁静静淌过…）
 

@@ -26,7 +26,6 @@
 
 На восточной оконечности острова Хийси обнаружены радужные кристаллы...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -40,7 +39,6 @@
 
 Rainbowdrop Crystals have been discovered at the eastern tip of Hiisi Island...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -54,7 +52,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 在希汐岛东端发现了虹滴晶…
 
-#### 场景
 
 快速做好了调查的准备…
 

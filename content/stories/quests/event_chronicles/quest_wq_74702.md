@@ -1,6 +1,6 @@
 # id: quest_wq_74702
 # story_group: event_chronicles
-# display_category: Ивент · Sunny Summer Fontinalia (Event)
+# display_category: Ивент · Лето! Возвращение? Фонтиналия!
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Океанариум открывается!
 # title_en: Fisharium Open For Business!
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_74701
 # related_quests: quest_wq_74700,quest_wq_74701,quest_wq_74703
 # quest_chain: quest_wq_74700,quest_wq_74702,quest_wq_74701,quest_wq_74703
-# quest_series: Sunny Summer Fontinalia (Event)
+# quest_series: Sunny Summer Fontinalia
 # version_source: wiki_release_category
 
 ## RU

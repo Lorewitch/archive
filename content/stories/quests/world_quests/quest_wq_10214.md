@@ -26,7 +26,6 @@
 
 Сюжет закручивается...
 
-#### Сцена
 
 **Тарука:** Мы с Обероном будем ждать вас здесь. Спасибо!
 
@@ -376,7 +375,6 @@
 
 Лётные гонки - ловушка Ламизаны?
 
-#### Сцена
 
 **Меховичок:** ...
 
@@ -386,7 +384,6 @@
 
 После того как иктомизавр вас останавливает, вы вдруг замечаете, что держите письмо...
 
-#### Сцена
 
 **Кукузавр:** ...
 
@@ -396,7 +393,6 @@
 
 После того как кукузавр вас останавливает, вы вдруг замечаете, что держите письмо...
 
-#### Сцена
 
 **Кукузавр:** ...
 
@@ -432,7 +428,6 @@
 
 Давайте начнём.
 
-#### Сцена
 
 Мне нужно приготовиться.
 
@@ -892,7 +887,6 @@
 
 The plot thickens...
 
-#### Scene
 
 **Taruka:** Oberon and I'll wait here for you to return with more information. Thanks!
 
@@ -1242,7 +1236,6 @@ Just leave it to us. You should stay here.
 
 Could the air race be a trap set by Lamizana?
 
-#### Scene
 
 **Furball:** ...
 
@@ -1252,7 +1245,6 @@ Could the air race be a trap set by Lamizana?
 
 After the Iktomisaurus stops you, you suddenly find a letter in your hand...
 
-#### Scene
 
 **Qucusaurus:** ...
 
@@ -1262,7 +1254,6 @@ After the Iktomisaurus stops you, you suddenly find a letter in your hand...
 
 After the Qucusaurus stops you, you suddenly find a letter in your hand...
 
-#### Scene
 
 **Qucusaurus:** ...
 
@@ -1298,7 +1289,6 @@ Let's do this.
 
 Let's do this.
 
-#### Scene
 
 I still need time to prepare.
 
@@ -1758,7 +1748,6 @@ There's still room for more improvement.
 
 事情逐渐变得扑朔迷离…
 
-#### 场景
 
 **塔卢加:** 我和奥伯龙在这里等你的消息，拜托了。
 
@@ -2108,7 +2097,6 @@ There's still room for more improvement.
 
 飞行竞赛会是拉密萨纳设下的陷阱吗？
 
-#### 场景
 
 **毛球:** ……
 
@@ -2118,7 +2106,6 @@ There's still room for more improvement.
 
 被暝视龙拦下，不知何时手中多了一封信…
 
-#### 场景
 
 **绒翼龙:** ……
 
@@ -2128,7 +2115,6 @@ There's still room for more improvement.
 
 被绒翼龙拦下，不知何时手中多了一封信…
 
-#### 场景
 
 **绒翼龙:** ……
 
@@ -2164,7 +2150,6 @@ There's still room for more improvement.
 
 现在开始吧。
 
-#### 场景
 
 还要再准备一下。
 

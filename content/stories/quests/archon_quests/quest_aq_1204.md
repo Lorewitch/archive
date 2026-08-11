@@ -358,7 +358,6 @@
 
 Вас повысили до командира отряда сопротивления «Рыба-меч II». Кто бы мог подумать, что и Тэппэя повысят...
 
-#### Сцена
 
 **Паймон:** Ух... еле справились.
 
@@ -2202,7 +2201,6 @@
 
 ### Без названия 2024
 
-#### Сцена
 
 **Яэ Мико:** Знания, по которым создавали эту куклу, уже утеряны. Наверное, лишь ей, как божеству, известно их происхождение...
 
@@ -2714,7 +2712,6 @@ Hey, where did Teppei go?
 
 You take up the post of leader of Swordfish II. Unexpectedly, Teppei has also received a promotion...
 
-#### Scene
 
 **Paimon:** Phew... glad that's over.
 
@@ -4558,7 +4555,6 @@ To be reunited with my (brother)(sister), I guess?
 
 ### Untitled 2024
 
-#### Scene
 
 **Yae Miko:** That puppet was built with technology that has been lost to time. Perhaps she, as a god, is the only one privy to the knowledge of its origins...
 
@@ -5070,7 +5066,6 @@ To be reunited with my (brother)(sister), I guess?
 
 你晋升成为了反抗军「剑鱼二番队」队长，没想到哲平也同样受到了提拔…
 
-#### 场景
 
 **派蒙:** 呼…终于搞定了。
 
@@ -6914,7 +6909,6 @@ To be reunited with my (brother)(sister), I guess?
 
 ### 未命名 2024
 
-#### 场景
 
 **八重神子:** 「人偶」将军的技术源自于某些现今已然失落的知识，或许只有身为神明的她才能知会其中源头…
 

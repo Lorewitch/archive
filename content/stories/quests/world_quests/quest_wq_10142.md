@@ -26,7 +26,6 @@
 
 В фонтейнской глуши вы видите мелюзину, которой досаждают Пустынники...
 
-#### Сцена
 
 **Мамер:** ...
 
@@ -510,7 +509,6 @@
 
 **Паймон:** Ладно! Мы пока посмотрим, что есть вокруг!
 
-#### Сцена
 
 Мы ведь как-то помогали Альбедо собрать звёздное серебро...
 
@@ -532,7 +530,6 @@
 
 **Паймон:** Хнык, ну почему не получится?..
 
-#### Сцена
 
 **Паймон:** А что в этом сундучке?..
 
@@ -544,7 +541,6 @@
 
 **Паймон:** Может, это инструменты для ухода за Сеймуром? Ох, Путешественник прав(а), лучше не трогать чужие вещи...
 
-#### Сцена
 
 **Паймон:** Кстати, почему только Сеймур может говорить, а остальные меки нет?
 
@@ -568,7 +564,6 @@
 
 **Паймон:** Уф, молчит... Как Мамер и говорила, он беседует только с ней. / Не отвечает... Похоже, он, кхм, не слишком сообразительный?
 
-#### Сцена
 
 **Паймон:** (Из-за дверей доносятся звуки, словно там всё переворачивают вверх дном...)
 
@@ -1138,7 +1133,6 @@
 
 **Мамер:** Но я тоже буду искать детали. Иначе нельзя - не могу же я сидеть на месте и ждать, пока вы всё соберёте!
 
-#### Сцена
 
 Похоже, мне придётся раскрыть наш статус...
 
@@ -1168,7 +1162,6 @@
 
 In the wilderness of Fontaine, you see a Melusine struggling against some Eremites.
 
-#### Scene
 
 **Mamere:** ...
 
@@ -1652,7 +1645,6 @@ Pretty rude, huh, this Seymour? / What's going on?
 
 **Paimon:** Okay! Let's go look around nearby, shall we?
 
-#### Scene
 
 I do recall us helping Albedo gather Starsilver back then...
 
@@ -1674,7 +1666,6 @@ Seems to be a design from outside the village...
 
 **Paimon:** Huh? Why wouldn't it work?
 
-#### Scene
 
 **Paimon:** Huh? This box contains...
 
@@ -1686,7 +1677,6 @@ It's rude to go through other people's stuff, Paimon.
 
 **Paimon:** Might these be tools used to maintain Seymour? Guess it might be best not to mess with them, then...
 
-#### Scene
 
 **Paimon:** Y'know, Paimon's got a question. Why's Seymour the only clockwork mechanism that can talk?
 
@@ -1710,7 +1700,6 @@ It's rude to go through other people's stuff, Paimon.
 
 **Paimon:** No response... Guess it's just as Mamere said. It only speaks to her. / No reply... Somehow, it doesn't seem all that smart.
 
-#### Scene
 
 **Paimon:** (The sound of rummaging comes from beyond the door...)
 
@@ -2280,7 +2269,6 @@ So they're currency specific to Merusea Village?
 
 **Mamere:** I'll also go hunt them down myself. I really can't ask you to find them for me while I just sit around doing nothing!
 
-#### Scene
 
 Hmm. It seems that I must now reveal my true identity...
 
@@ -2310,7 +2298,6 @@ I'm an enforcer of the law.
 
 在枫丹的野外，遇到了被镀金旅团骚扰的美露莘…
 
-#### 场景
 
 **玛梅赫:** ……
 
@@ -2794,7 +2781,6 @@ P型警卫机关，装填动能火炮。
 
 **派蒙:** 好的！那我们先在这附近走走看吧？
 
-#### 场景
 
 以前好像也帮阿贝多采集过星银矿…
 
@@ -2816,7 +2802,6 @@ P型警卫机关，装填动能火炮。
 
 **派蒙:** 呜呜，为什么不行呀…
 
-#### 场景
 
 **派蒙:** 咦？这个箱子里装的是…
 
@@ -2828,7 +2813,6 @@ P型警卫机关，装填动能火炮。
 
 **派蒙:** 说不定是用来维护西摩尔的工具吧？唔，就像旅行者说的，还是不要乱翻比较好…
 
-#### 场景
 
 **派蒙:** 说起来，明明都是发条机关，为什么只有西摩尔能说话呢？
 
@@ -2852,7 +2836,6 @@ P型警卫机关，装填动能火炮。
 
 **派蒙:** 呜啊，还是完全不说话…果然，就像玛梅赫说的那样，西摩尔好像只会和她聊天呢。 / 唔，没有回答的样子…怎么说呢，看上去好像也不是很智能？
 
-#### 场景
 
 **派蒙:** （从门后传来了翻箱倒柜的声音…）
 
@@ -3422,7 +3405,6 @@ P型警卫机关，装填动能火炮。
 
 **玛梅赫:** 不过，我也会去找零件。毕竟，如果只有你们在找零件，我自己什么都不干，就等着你们给我零件，就太坏了！
 
-#### 场景
 
 原来如此，看来我不得不亮出身份了…
 

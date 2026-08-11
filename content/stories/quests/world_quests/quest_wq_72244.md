@@ -26,7 +26,6 @@
 
 Вы помогли Климене воздать почести у семи королевских гробниц, чтобы Сыновья солнца упокоились...
 
-#### Сцена
 
 **Климена:** Хм? Как странно. Я уже давно не видела, чтобы кто-то одевался так, как вы...
 
@@ -162,7 +161,6 @@
 
 **Паймон:** Вернёмся к святилищу и расскажем об этом духу.
 
-#### Сцена
 
 **Климена:** Ах, Пирамумон. Ты так любил книги, говорил, что должен существовать мир за пределами наших знаний, хотя я тогда тебе не верила...
 
@@ -314,7 +312,6 @@
 
 You help Clymene pay respects at seven royal tombs to lay the souls of the Sunchildren to rest...
 
-#### Scene
 
 **Clymene:** Hmm? How strange. I have not seen someone in your garb for a many long years...
 
@@ -450,7 +447,6 @@ Alright.
 
 **Paimon:** Let's go back to the stone shrine and tell the spirit there about this.
 
-#### Scene
 
 **Clymene:** Ah, Piramumon. You did so love books, saying that there must be a world outside our knowledge, though I did not believe you then...
 
@@ -602,7 +598,6 @@ From Aberaku...
 
 帮助久利由卖，在七座御陵墓石前进行凭吊，进行「太阳之子」的安魂仪式…
 
-#### 场景
 
 **久利由卖:** 嗯？真是古怪，妾身已很久未见你们这样穿着之人了…
 
@@ -738,7 +733,6 @@ From Aberaku...
 
 **派蒙:** 我们回到石头神龛那边，告诉等待在石龛边上的那个残魂吧。
 
-#### 场景
 
 **久利由卖:** 啊啊…比螺梦门，你喜欢读书，常言有天外之地，那时妾身并不相信…
 

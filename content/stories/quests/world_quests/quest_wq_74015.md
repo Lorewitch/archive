@@ -280,7 +280,6 @@
 
 **Сальса:** Все мельницы расположены среди цветов, только одна стоит особняком... Давайте и её поставим к цветам.
 
-#### Сцена
 
 **Сальса:** Неплохо, неплохо! Посмотрите, стало намного красивее!
 
@@ -791,7 +790,6 @@ Paimon was worried for nothing, what a huge loss.
 
 **Salsa:** Well, the rest of the windmills are in the flower bushes, except for this unsociable one... Let's place it in the bush too.
 
-#### Scene
 
 **Salsa:** Good, very good. It looks so much better this way!
 
@@ -1302,7 +1300,6 @@ When it's time to part, you say your goodbyes, and Salsa skips away merrily with
 
 **萨莎:** 除了一个不合群的家伙…其他的风车都在花丛里。不如让这个不合群的家伙也到花丛里来吧。
 
-#### 场景
 
 **萨莎:** 不错，真不错，瞧瞧，这样不就好看多了吗！
 

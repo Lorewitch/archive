@@ -1140,7 +1140,6 @@
 
 Впервые оказавшись в долине Чэньюй, вы встречаете Адепта Фу Цзинь, которая просит вас провести расследование и выяснить, почему в долине нарушено равновесие воды и почвы...
 
-#### Сцена
 
 **Фу Цзинь:** Добро пожаловать. Меня зовут Фу Цзинь, я одна из местных Адептов. А это скромная обитель, где я нашла себе пристанище.
 
@@ -1828,7 +1827,6 @@
 
 Похоже, Мао знает, как помочь долине Чэньюй...
 
-#### Сцена
 
 **Паймон:** Ого... Ещё одна обитель...
 
@@ -3330,7 +3328,6 @@ How would you view humanity?
 
 On first arriving at Chenyu Vale, you are asked by the adeptus, Fujin, to help investigate imbalances in the local water and soil...
 
-#### Scene
 
 **Fujin:** Welcome. One's name is Fujin, the local Adeptus, and this is the tiny little teapot realm one calls home for now.
 
@@ -4018,7 +4015,6 @@ Little Mao, your friend wants to restore nature, right?
 
 Little Mao seems to have some information about how to help heal Chenyu Vale...
 
-#### Scene
 
 **Paimon:** Uh... Looks like there's another realm in here...
 
@@ -5520,7 +5516,6 @@ According to what Little Mao said...
 
 初至沉玉谷，便受仙人浮锦所托，调查当地水土失衡的问题…
 
-#### 场景
 
 **浮锦:** 欢迎。我叫浮锦，乃是本地小仙。此处是我暂居的小小壶天。
 
@@ -6208,7 +6203,6 @@ According to what Little Mao said...
 
 小茂似乎知晓调理沉玉谷水土的线索…
 
-#### 场景
 
 **派蒙:** 呜哇…这里别有洞天呢…
 

@@ -26,7 +26,6 @@
 
 Попытайте удачу в раскопках реликвий заврианов!
 
-#### Сцена
 
 **Квипия:** Триста моры за вход?..
 
@@ -62,7 +61,6 @@
 
 **Квипия:** Желаю вам удачи.
 
-#### Сцена
 
 **Квипия:** Нет ограничения по времени, так что не торопитесь.
 
@@ -138,7 +136,6 @@
 
 Ваш завриан-спутник хочет завести новых друзей...
 
-#### Сцена
 
 **Малыш:** Р-р! Р-р, р-р!
 
@@ -228,7 +225,6 @@
 
 **Оцепеневшая альпака:** ...Мм?
 
-#### Сцена
 
 **Малыш:** Р-р-р-р... Р-р?
 
@@ -240,7 +236,6 @@
 
 **Паймон:** Если произошло недоразумение, то ничего не поделаешь. Малыш, попробуем в другом месте!
 
-#### Сцена
 
 **Малыш:** Р-р-р!
 
@@ -262,7 +257,6 @@
 
 **Паймон:** Такое тоже случается! Малыш, не расстраивайся, ещё не всё потеряно, у тебя обязательно будет другой шанс!
 
-#### Сцена
 
 **Малыш:** Р-р-р!
 
@@ -272,7 +266,6 @@
 
 **Паймон:** Похоже, мы помешали трапезе... Ох, неудачное время. Малыш, не расстраивайся. Попытаем удачи в другом месте!
 
-#### Сцена
 
 **Малыш:** Р-р-р!
 
@@ -354,7 +347,6 @@
 
 Хорошо бы угостить завриана-спутника свежей рыбой! Рыбачка Паймон берётся за дело!
 
-#### Сцена
 
 **Паймон:** Ух ты, какая сильная рыба. Как она вообще может плавать так быстро после такой долгой борьбы...
 
@@ -500,7 +492,6 @@
 
 Вы встречаете кукузавра, нападающего на человека, но, похоже, ситуация не так проста, как кажется...
 
-#### Сцена
 
 **Курурук:** Шра-а-а-а!
 
@@ -707,7 +698,6 @@
 
 Вы встретили юмказавра, который загораживает вход в пещеру с сокровищами. Надо придумать, как его отогнать...
 
-#### Сцена
 
 **Странный юмказавр:** У-у-у?
 
@@ -871,7 +861,6 @@
 
 **Уайна:** Что касается того парня... Трагичный конец... Но я не жалею его. Люди должны нести ответственность за свои поступки.
 
-#### Сцена
 
 **Паймон:** А? Не нравится? Не хочешь есть это?
 
@@ -881,7 +870,6 @@
 
 Пришла пора снять фильм о вашем завриане-спутнике!
 
-#### Сцена
 
 **Паймон:** Путешественник, смотри, смотри! Здесь есть камера и декорации. Может, это место для съёмок фильма?
 
@@ -1045,7 +1033,6 @@
 
 Вы встречаете человека, окружённого тремя заврианами...
 
-#### Сцена
 
 **Икаё:** Дорогуша, твой энтузиазм... ошеломляет. Фух... Может, поешь льда, успокоишься, а потом мы всё обсудим.
 
@@ -1237,7 +1224,6 @@
 
 По дороге вам встретилась целая стая тепетлизавров. Завриан-спутник отправился с ними поиграть и не вернулся...
 
-#### Сцена
 
 **Паймон:** Ух ты, что это за удивительное место? Здесь так много тепетлизавриков...
 
@@ -1273,7 +1259,6 @@
 
 **Паймон:** Пойдём поищем его.
 
-#### Сцена
 
 **Паймон:** Привет! Тебе случайно не попадался на глаза тепетлизаврик? Его зовут Малыш.
 
@@ -1285,7 +1270,6 @@
 
 **Паймон:** Придётся спрашивать их всех по очереди...
 
-#### Сцена
 
 **Паймон:** Взгляни на этого тепетлизаврика... Он отлично выбирает место!
 
@@ -1293,7 +1277,6 @@
 
 **Детёныш тепетлизавра на дереве:** Р-р-р?
 
-#### Сцена
 
 **Паймон:** Эй, ты случайно не видел...
 
@@ -1307,7 +1290,6 @@
 
 **Паймон:** Скорее за ним!
 
-#### Сцена
 
 **Паймон:** Ах, как много ягод! Спасибо... Нет-нет, мы ищем не ягоды, а нашего друга Малыш.
 
@@ -1321,7 +1303,6 @@
 
 **Паймон:** Паймон рада, что у нас есть ягоды, но Малыш, похоже, здесь нет. Продолжим поиски.
 
-#### Сцена
 
 **Паймон:** Итак, мы нашли тепетлизаврика, который рыщет под землёй.
 
@@ -1331,7 +1312,6 @@
 
 **Паймон:** Здесь слишком много тепетлизавриков. Куда же подевался Малыш?
 
-#### Сцена
 
 **Паймон:** Привет-привет!
 
@@ -1347,7 +1327,6 @@
 
 **Паймон:** Хм... Хотелось бы, чтобы Малыш всегда был таким же весёлым, как этот тепетлизаврик.
 
-#### Сцена
 
 **Паймон:** А! Так ты спал здесь, вот почему мы так долго не могли найти тебя...
 
@@ -1768,7 +1747,6 @@
 
 **Паймон:** Похоже, весь флогистон вокруг семечка закончился... Нужно пополнить запасы, да?
 
-#### Сцена
 
 **Паймон:** Расти, семечко.
 
@@ -1920,7 +1898,6 @@
 
 Странствующий торговец и его завриан-спутник сталкиваются с таинственными неприятностями в отдалённом месте на границе территории клана Цветочного Пера...
 
-#### Сцена
 
 **Какс:** Что же делать?..
 
@@ -2431,7 +2408,6 @@
 
 **Паймон:** Надеюсь, это место - нет, весь Натлан - избавится от бандитов, торгующих похищенными заврианами и другими животными!
 
-#### Сцена
 
 **Слабый кукузавр:** Плохие люди... В горах... Бросают камни... Больно...
 
@@ -2445,7 +2421,6 @@
 
 Проходя по западной границе территории клана Цветочного Пера, вы с Паймон наткнулись на подозрительный лагерь...
 
-#### Сцена
 
 **Паймон:** Мы сказали, что будем готовить, но что именно мы будем готовить?
 
@@ -2517,7 +2492,6 @@
 
 *После чудесного процесса приготовления особая рыба, которую вы зажарили для Малыша и пухленя, готова...*
 
-#### Сцена
 
 **Паймон:** Как и ожидалось, некоторые заврианы всё ещё находятся в заточении...
 
@@ -2689,7 +2663,6 @@
 
 Кажется, ваш маленький завриан-спутник хочет что-то вам сказать...
 
-#### Сцена
 
 **Малыш:** Р-р-р! Р-р-р!
 
@@ -2806,7 +2779,6 @@
 
 Только «накал» способен одолеть «холод»? Или потребуется что-то ещё?
 
-#### Сцена
 
 **Паймон:** Привет! Э-э...
 
@@ -2828,13 +2800,11 @@
 
 **Лоштс:** Пройдя по тернистому пути самосовершенствования, вы окажетесь в горах, где в изобилии текут «Воды Накала»... И там, быть может, вы найдёте следы «сильнейшего».
 
-#### Сцена
 
 **Малыш:** Р-р?
 
 Малыш, стой! Прекрати бегать!
 
-#### Сцена
 
 **???:** Ки'о-ки'о, где же вы?!
 
@@ -2898,11 +2868,9 @@
 
 **Паймон:** Жди нас здесь, мы скоро вернёмся.
 
-#### Сцена
 
 **Йолихе:** ...Неужели всё, рассказанное в «Книге пяти источников», - правда?
 
-#### Сцена
 
 **???:** Привет, Путешественник...
 
@@ -2978,7 +2946,6 @@
 
 **Ма'ча:** ...А-а-а!
 
-#### Сцена
 
 **Йолихе:** Помогите! Человек потерял сознание!
 
@@ -2993,7 +2960,6 @@
 
 Try your luck at the Saurian Relics Excavation Site!
 
-#### Scene
 
 **Quipia:** Three hundred Mora entry fee...
 
@@ -3029,7 +2995,6 @@ Try your luck at the Saurian Relics Excavation Site!
 
 **Quipia:** Then I wish you all the best of luck.
 
-#### Scene
 
 **Quipia:** What is it? There's no time limit, so take your time.
 
@@ -3105,7 +3070,6 @@ Try your luck at the Saurian Relics Excavation Site!
 
 Your Saurian buddy wants to make some new friends...
 
-#### Scene
 
 **Little One:** Rawwr!
 
@@ -3195,7 +3159,6 @@ Someone who seems in charge of watching the Alpacas comes over and calms the Yum
 
 **Dopey Alpaca:** ...Mmm?
 
-#### Scene
 
 **Little One:** Roooah... Rawr?
 
@@ -3207,7 +3170,6 @@ Someone who seems in charge of watching the Alpacas comes over and calms the Yum
 
 **Paimon:** Oh well, not much we can do about that now. C'mon, Little One. Let's try our luck elsewhere!
 
-#### Scene
 
 **Little One:** Rawr!
 
@@ -3229,7 +3191,6 @@ Doesn't look like there's much hope here...
 
 **Paimon:** Well, uh, these things happen, you know? Don't feel down, Little One. You've still got a chance!
 
-#### Scene
 
 **Little One:** Rawr!
 
@@ -3239,7 +3200,6 @@ Doesn't look like there's much hope here...
 
 **Paimon:** Oh boy, looks like we interrupted a feeding session... Don't worry, Little One. This was just bad timing, that's all! Let's try our luck elsewhere.
 
-#### Scene
 
 **Little One:** Rawr!
 
@@ -3321,7 +3281,6 @@ Faced with Little One's enthusiasm, the timid-looking Alpaca seems unafraid, ins
 
 Wouldn't it be great if you could catch some fish for your Saurian buddy...? Ace Angler Paimon, you're up!
 
-#### Scene
 
 **Paimon:** Yikes, that's one strong fish. How's it still able to swim so fast, even after such a long struggle...
 
@@ -3468,7 +3427,6 @@ Great job, Paimon! You're in charge of fishing from here on out!
 
 You encounter a Qucusaurus attacking a human, but there seems to be more to this scene than meets the eye...
 
-#### Scene
 
 **"Kururuk":** —Shwaaaargh!
 
@@ -3675,7 +3633,6 @@ Is this really a Saurian who still hasn't fully recovered?
 
 You discover a Yumkasaurus standing in the way of some treasure. Can you find a way to make it leave...?
 
-#### Scene
 
 **Strange Yumkasaurus:** Arrooo?
 
@@ -3839,7 +3796,6 @@ So his Saurian chose to join him...
 
 **Wayna:** As for that scoundrel... *sigh* It is a tragic ending indeed, but I refuse to sympathize with him. People should be held responsible for their actions.
 
-#### Scene
 
 **Paimon:** Huh? Do you not like it...? It won't touch it...
 
@@ -3849,7 +3805,6 @@ So his Saurian chose to join him...
 
 It's time you shot a film starring your Saurian companion!
 
-#### Scene
 
 **Paimon:** Look, look, Traveler! There's a Kamera here, and some props too. D'you think this is a film set?
 
@@ -4013,7 +3968,6 @@ You follow the same process as before and finally get the result you wanted...
 
 You encounter someone surrounded by three Saurians out in the wild...
 
-#### Scene
 
 **Icayo:** My dear, your enthusiasm is... quite overwhelming. Phew... Shall we have some ice to cool our heads, then talk about this later?
 
@@ -4205,7 +4159,6 @@ After being defeated, the Tepetlisaurus named "Marigold" drills into the ground 
 
 After running into a whole bunch of Tepetlisaurs while you're out on the road, you let your Saurian companion go off to play with them. But then it doesn't come back...
 
-#### Scene
 
 **Paimon:** Whoa, where is this mysterious place? So many little Tepetlisaurs...
 
@@ -4241,7 +4194,6 @@ Gotten a bit carried away with the fun and games, perhaps?
 
 **Paimon:** Ugh... Let's go track it down before it gets so dark we can't even see.
 
-#### Scene
 
 **Paimon:** Hi! You haven't seen Little One around here, have you? Y'know, the new kid on the block...?
 
@@ -4253,7 +4205,6 @@ Gotten a bit carried away with the fun and games, perhaps?
 
 **Paimon:** Looks like we have no other choice but to go through them one by one...
 
-#### Scene
 
 **Paimon:** Take a look at this little Tepetlisaurus... This one sure knows how to choose a spot for itself!
 
@@ -4261,7 +4212,6 @@ Gotten a bit carried away with the fun and games, perhaps?
 
 **Tree-Climbing Little Tepetlisaurus:** Rrrawr?
 
-#### Scene
 
 **Paimon:** Hey, is there any chance you've seen...
 
@@ -4275,7 +4225,6 @@ Paimon tells the clever little Tepetlisaur what Little One looks like.
 
 **Paimon:** C'mon, let's catch up!
 
-#### Scene
 
 **Paimon:** Wow, so many Berries... Thanks! Wait a sec, we're looking for Little One, not Berries!
 
@@ -4289,7 +4238,6 @@ Paimon tells the clever little Tepetlisaur what Little One looks like.
 
 **Paimon:** Well, being given Berries is never a bad thing, but it seems like Little One isn't here. Let's keep looking!
 
-#### Scene
 
 **Paimon:** Alright, looks like we've got ourselves a little Tepetlisaurus digging about underground. This has to be—
 
@@ -4299,7 +4247,6 @@ Paimon tells the clever little Tepetlisaur what Little One looks like.
 
 **Paimon:** *sigh* How are there so many little Tepetlisaurs here? Where in Teyvat did Little One go?
 
-#### Scene
 
 **Paimon:** Hello there, how do you do...
 
@@ -4315,7 +4262,6 @@ Why, Paimon, you're so polite!
 
 **Paimon:** Well, let's just hope that Little One's been having as much fun as this little one.
 
-#### Scene
 
 **Paimon:** Aha! So you've been here snoozing away! No wonder we couldn't find you all this time...
 
@@ -4737,7 +4683,6 @@ Or maybe a Whopperflower...
 
 **Paimon:** Agh, it looks like all the Phlogiston around the seed is gone... Guess we're gonna have to restock, huh?
 
-#### Scene
 
 **Paimon:** C'mon out, little seed~
 
@@ -4889,7 +4834,6 @@ The Saurian egg remains unchanged. No reaction, no sign of hatching.
 
 In a remote location near the Flower-Feather Clan's borders, a traveling merchant and his Saurian companion have encountered a mysterious problem...
 
-#### Scene
 
 **Qax:** What do we do...
 
@@ -5400,7 +5344,6 @@ You chat with Paimon until midnight, and everyone in the camp falls into a peace
 
 **Paimon:** Hopefully, this place — no, all of Natlan — will be free of these gangs trafficking stolen Saurians and other animals!
 
-#### Scene
 
 **Weakened Qucusaur:** Bad guys... In the hills... Threw stones... It hurt...
 
@@ -5414,7 +5357,6 @@ You chat with Paimon until midnight, and everyone in the camp falls into a peace
 
 You and Paimon discover a suspicious campsite somewhere within Flower-Feather Clan territory. There, you unexpectedly rescue a Blubberbeast. It seems to make a good friend for your Saurian companion...
 
-#### Scene
 
 **Paimon:** We said we were going to cook, but what exactly should we make?
 
@@ -5486,7 +5428,6 @@ You and Paimon discover a suspicious campsite somewhere within Flower-Feather Cl
 
 *After a splendid culinary process, the special fish you grilled for Little One and the Blubberbeast is ready...*
 
-#### Scene
 
 **Paimon:** Sure enough, there are still some Saurians locked up here...
 
@@ -5658,7 +5599,6 @@ Try it yourself and you'll see.
 
 Your little saurian companion seems to have something to tell you...
 
-#### Scene
 
 **Little One:** Rawr! Rawr!
 
@@ -5777,7 +5717,6 @@ The young saurian resolutely turns around and plods off into the distance.
 
 Shall "intensity" vanquish the cold, or must some other step up to the plate?
 
-#### Scene
 
 **Paimon:** Hello there! Um...
 
@@ -5799,13 +5738,11 @@ Shall "intensity" vanquish the cold, or must some other step up to the plate?
 
 **Loshts:** Journey along training's rugged path, and you'll come across a mountainous region brimming with the "Waters of Intensity." There, perhaps, you'll find traces of the "strongest."
 
-#### Scene
 
 **Little One:** Rawr?
 
 Wait, Little One, don't go wandering off like that!
 
-#### Scene
 
 **???:** Ki'o-ki'o, where are you...
 
@@ -5869,11 +5806,9 @@ Wait, Little One, don't go wandering off like that!
 
 **Paimon:** You just stay here. We'll have this sorted out in no time!
 
-#### Scene
 
 **Yoleehe:** Could it be... that everything written in "The Book of Five Springs" is true...?
 
-#### Scene
 
 **???:** Oh hey, Traveler, it's you...
 
@@ -5949,7 +5884,6 @@ Don't worry, just give it a bit more time.
 
 **Ma'chah:** ...Aghhh!
 
-#### Scene
 
 **Yoleehe:** Can someone lend a hand!? Someone just fainted!
 
@@ -5964,7 +5898,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 在龙遗物挖掘场碰碰运气吧！
 
-#### 场景
 
 **奎皮亚:** …进场三百摩拉。
 
@@ -6000,7 +5933,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **奎皮亚:** 那就祝几位旗开得胜了。
 
-#### 场景
 
 **奎皮亚:** 怎么了？进场是没有时限的，请便吧。
 
@@ -6076,7 +6008,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 你的龙伙伴想交新朋友了…
 
-#### 场景
 
 **小家伙:** 呀呀！
 
@@ -6166,7 +6097,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **呆呆的绵驮兽:** …嗯？
 
-#### 场景
 
 **小家伙:** 呜…呀？
 
@@ -6178,7 +6108,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 误会已经发生了那也没办法，小家伙，我们去别处试试吧！
 
-#### 场景
 
 **小家伙:** 呀！
 
@@ -6200,7 +6129,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 呃…也有这种情况啦！小家伙也别灰心，肯定还有机会的！
 
-#### 场景
 
 **小家伙:** 呀！
 
@@ -6210,7 +6138,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 看来这次是真的打扰到用餐了…哎呀都怪时机不好，小家伙别丧气，我们再去别处碰碰运气！
 
-#### 场景
 
 **小家伙:** 呀！
 
@@ -6292,7 +6219,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 为了让龙伙伴吃到鱼，这次就由派蒙出手钓鱼吧！
 
-#### 场景
 
 **派蒙:** 这条鱼的力气好大，刚才和我们拉扯了那么久，居然还能游得这么快。
 
@@ -6439,7 +6365,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 遇到了正在袭击人的绒翼龙，但其中似乎另有隐情…
 
-#### 场景
 
 **「咕噜噜」:** ——嘎嘎嘎嘎嘎嘎！
 
@@ -6646,7 +6571,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 发现了将宝藏堵在身后的匿叶龙，能想办法让它离开吗…
 
-#### 场景
 
 **奇怪的匿叶龙:** 昂呜？
 
@@ -6810,7 +6734,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **瓦伊纳:** 至于「那个家伙」…哎呀呀，这还真是个悲惨的结局，不过我也不会同情他，人应该对自己的所作所为负责。
 
-#### 场景
 
 **派蒙:** 欸…不喜欢吗？它不肯吃呢…
 
@@ -6820,7 +6743,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 和龙伙伴一起拍映影吧！
 
-#### 场景
 
 **派蒙:** 旅行者，快看快看！这里又有留影机又有布景，会不会是映影的拍摄场地？
 
@@ -6984,7 +6906,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 在野外遇到被三只龙团团围住的人...
 
-#### 场景
 
 **伊卡尤:** 亲爱的，你们的热情…真叫我招架不住，呼——先吃点冰，冷静一下头脑，之后我们慢慢聊，好吗？
 
@@ -7176,7 +7097,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 在路上遇到了许多的嵴锋龙，你的龙伙伴与它们玩耍，却没有回来…
 
-#### 场景
 
 **派蒙:** 呜啊，这是什么神奇的地方？居然有这么多小嵴锋龙…
 
@@ -7212,7 +7132,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 唔…我们快点去找找它吧。
 
-#### 场景
 
 **派蒙:** 你好你好，请问你看到过小家伙吗？就是那只新来的小嵴锋龙…
 
@@ -7224,7 +7143,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 旅行者，看来我们只能一个一个找过去了…
 
-#### 场景
 
 **派蒙:** 看看这只小嵴锋龙…真会选地方！
 
@@ -7232,7 +7150,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **树上的小嵴锋龙:** 唔嗯？
 
-#### 场景
 
 **派蒙:** 哎呀，你有没有见过…
 
@@ -7246,7 +7163,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 我们赶快跟上它吧！
 
-#### 场景
 
 **派蒙:** 啊，好多树莓，谢谢你…不对不对，我们要找的不是树莓，是小家伙啦。
 
@@ -7260,7 +7176,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 收到了树莓倒是很开心，但是看来小家伙不在这里，还是再找找吧！
 
-#### 场景
 
 **派蒙:** 好啦，找到一只在地下悉悉索索的小嵴锋龙——
 
@@ -7270,7 +7185,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 真是的，这里的小嵴锋龙也太多了点吧，唉，小家伙究竟到哪去了？
 
-#### 场景
 
 **派蒙:** 你好你好…
 
@@ -7286,7 +7200,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 嗯…要是小家伙也像这只小嵴锋龙这样，一直这么开心就好了。
 
-#### 场景
 
 **派蒙:** 啊！原来你在这里睡觉呢，难怪我们半天都找不到…
 
@@ -7708,7 +7621,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 呜，种子周围的燃素全都没有了…看来要重新补充燃素才行？
 
-#### 场景
 
 **派蒙:** 出来吧出来吧，小小的种子~
 
@@ -7860,7 +7772,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 在「花羽会」领地边界的偏僻处，一位旅行商人和他的龙伙伴遭遇了神秘的麻烦…
 
-#### 场景
 
 **卡克斯:** 这该怎么办啊…
 
@@ -8371,7 +8282,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 希望这一带，哦不，是整个纳塔，不会再出现任何贩卖龙和动物的犯罪团伙！
 
-#### 场景
 
 **虚弱的绒翼龙:** 山上…凶凶人…丢石子…痛…
 
@@ -8385,7 +8295,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 途径「花羽会」领地西界某处时，你和派蒙发现了一个可疑的营地，意外解救了一只膨膨兽，它似乎能与你们的龙伙伴成为好朋友…
 
-#### 场景
 
 **派蒙:** 说是要做料理，不过，选哪种料理才好呢？
 
@@ -8457,7 +8366,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 *经过一段精彩的烹饪过程，为膨膨兽和小家伙特制的烤鱼完成了…*
 
-#### 场景
 
 **派蒙:** 果然还有一些龙被关着…
 
@@ -8629,7 +8537,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 你的龙伙伴似乎有什么话想要跟你说…
 
-#### 场景
 
 **小家伙:** 呀！呀！
 
@@ -8748,7 +8655,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 击败「冰冷」的，究竟是「烈度」还是其他？
 
-#### 场景
 
 **派蒙:** 你好啊！请问…
 
@@ -8770,13 +8676,11 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **卢施:** 沿着那条崎岖的修行之路寻找，你们会发现一片充满「烈度之水」的山地。在那里，你们或许能找到「最强」的身影…
 
-#### 场景
 
 **小家伙:** 呀？
 
 等等！小家伙，不要乱跑啦！
 
-#### 场景
 
 **？？？:** 奇欧奇欧，你们到底在哪啊…
 
@@ -8840,11 +8744,9 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **派蒙:** 你就在这里等我们的好消息吧！
 
-#### 场景
 
 **尤鲁赫:** 该不会，《烈泉道》里说的都是真的吧…
 
-#### 场景
 
 **？？？:** 旅行者哥哥 / 姐姐，你们好啊…
 
@@ -8920,7 +8822,6 @@ Looks like the master's own ability to handle "intensity" still has some room fo
 
 **马范:** ——呃啊！
 
-#### 场景
 
 **尤鲁赫:** 有、有没有人帮忙搭把手！有人晕过去了！
 

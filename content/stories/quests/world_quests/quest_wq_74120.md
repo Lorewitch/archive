@@ -26,7 +26,6 @@
 
 Утраченные данные Сеймура были восстановлены, но в них нужно навести порядок. Только отыскав все необходимые связи, прототип сможет выполнить свою изначальную и конечную функцию.
 
-#### Сцена
 
 **Паймон:** Что происходит? Кажется, мы попали куда-то ещё... Но куда?
 
@@ -42,7 +41,6 @@
 
 **Паймон:** Высокая... Значит, мы его и искали!
 
-#### Сцена
 
 **Паймон:** Это Ордо Нарциссенкрейц!
 
@@ -452,7 +450,6 @@
 
 Seymour's lost data has been retrieved, but the scattered fragments must be put together as soon as possible. All possible connections must be attempted to complete the prototype's initial and final mission...
 
-#### Scene
 
 **Paimon:** Wh—What's going on? We seem to be in a different place now... But where is this?
 
@@ -468,7 +465,6 @@ Seymour's lost data has been retrieved, but the scattered fragments must be put 
 
 **Paimon:** High... Guess this must be the place we're looking for, then!
 
-#### Scene
 
 **Paimon:** So this is the Narzissenkreuz Ordo!
 
@@ -878,7 +874,6 @@ So, what would your wish be, Paimon?
 
 「西摩尔」遗落的数据已被找回，但零散的碎片依然亟待整合。需要尝试所有可能的联系，以完成原型机最初与最终的使命…
 
-#### 场景
 
 **派蒙:** 怎、怎么回事！欸？我们好像到了别的什么地方…这里是哪里啊？
 
@@ -894,7 +889,6 @@ So, what would your wish be, Paimon?
 
 **派蒙:** 可能性高…那我看这里一定就是我们要找的「水仙十字结社」了！
 
-#### 场景
 
 **派蒙:** 这里就是「水仙十字结社」了！
 

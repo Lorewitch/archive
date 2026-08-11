@@ -26,7 +26,6 @@
 
 В Экспериментальном конструкторском бюро куувяки наверняка скрывается ещё множество тайн...
 
-#### Сцена
 
 **Паймон:** Это не то, что нам нужно...
 
@@ -152,7 +151,6 @@
 
 The Kuuvahki Experimental Design Bureau clearly has many more secrets...
 
-#### Scene
 
 **Paimon:** This isn't what we're looking for...
 
@@ -198,7 +196,6 @@ The Kuuvahki Experimental Design Bureau clearly has many more secrets...
 
 #### Look for clues in the area
 
-**Check:** (test) Readable Placeholder - Research Log
 
 **Paimon:** Hmm... This doesn't seem very useful.
 
@@ -278,7 +275,6 @@ Good thing I didn't lose anything.
 
 月矩力试验设计局显然还有许多秘密…
 
-#### 场景
 
 **派蒙:** 这个不是我们要找的东西…
 
@@ -324,7 +320,6 @@ Good thing I didn't lose anything.
 
 #### 在附近寻找线索
 
-**查看:** （test）阅读物占位-研究日志
 
 **派蒙:** 唔…这个好像没什么用处。
 

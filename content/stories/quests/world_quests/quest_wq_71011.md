@@ -26,11 +26,9 @@
 
 В долине Тяньцю есть странная каменная табличка, описывающая события, произошедшие в этом месте...
 
-#### Сцена
 
 **Древняя надпись:** «Адепты давно уже ушли за горизонт, дворец лежит в руинах. Я взираю печально на груду обломков, некогда бывшую градом роскошным».
 
-#### Сцена
 
 **Паймон:** Ох... Слова на этой табличке очень сложно разглядеть.
 
@@ -46,11 +44,9 @@
 
 There is a strange tablet in Tianqiu Valley that seems to relate some of the valley's history...
 
-#### Scene
 
 **Ancient Tablet:** "At Tianqiu Valley the adepti's ancient trail grows cold, I fall down and weep at the ruins I see. Though defeated is mighty Azhdaha of old, there's no restoring this past land of beauty."
 
-#### Scene
 
 **Paimon:** Ugh... The words on this tablet are really hard to read.
 
@@ -66,11 +62,9 @@ There is a strange tablet in Tianqiu Valley that seems to relate some of the val
 
 在天遒谷中有一块奇怪的石碑，上面似乎记录着一些与天遒谷有关的往事…
 
-#### 场景
 
 **古老的碑文:** 「循仙踪兮天遒，顾宫墟兮怆仆。徽若陀兮叡后，恨繁囿兮作土。」
 
-#### 场景
 
 **派蒙:** 呜哇…这座石碑上的字好难读。
 

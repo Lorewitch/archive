@@ -26,7 +26,6 @@
 
 В Ванаране Паймон отыскала рисунок, но не факт, что это карта сокровищ...
 
-#### Сцена
 
 **Паймон:** Дай-ка посмотреть... Хм? Это нарисовал аранара?
 
@@ -70,7 +69,6 @@
 
 Paimon found a painting in Vanarana that could be a treasure map...
 
-#### Scene
 
 **Paimon:** Let Paimon see... Hmm? Is this an Aranara painting...?
 
@@ -114,7 +112,6 @@ Aren't we going to help "the trapped Aranara"?
 
 在桓那兰那，派蒙找到了「说不定是藏宝图」的画像…
 
-#### 场景
 
 **派蒙:** 我看看我看看…嗯？这是兰那罗的画吗…
 

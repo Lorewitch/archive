@@ -26,7 +26,6 @@
 
 Похоже, в Татарасуне произошло нечто зловещее...
 
-#### Сцена
 
 **Паймон:** Хм-м, эти двое так горячо спорят... Кажется, ситуация напряжённая...
 
@@ -162,7 +161,6 @@
 
 **Миюки:** Что ж, если это случится, остров лучше покинуть.
 
-#### Сцена
 
 **Паймон:** Похоже, дело серьёзное.
 
@@ -656,7 +654,6 @@
 
 **Ксавье:** Почему Фатуи интересуются Татаригами?
 
-#### Сцена
 
 **Ксавье:** Об этом наверняка должно быть что-то сказано в «Аварийных процедурах при обращении с горном Микагэ» (опытная версия)...
 
@@ -698,7 +695,6 @@
 
 **Ксавье:** Но перед тем как покинуть Фонтейн, я слышал, что некоторые из моих коллег тоже очень интересовались технологией создания движущихся изображений... Эх, надеюсь, эти господа не опередят меня...
 
-#### Сцена
 
 **Ксавье:** Пожалуйста, осмотрись в округе. Мне кажется, эти аномальные показания напрямую связаны с тем, что произошло в горне Микагэ.
 
@@ -1056,7 +1052,6 @@
 
 **Ксавье:** Вот такой у меня план. И прежде чем приступать к его реализации, мне ещё нужно сделать несколько приготовлений.
 
-#### Сцена
 
 **Ксавье:** В последнее время Фатуи ведут себя ещё более странно. Они собираются вокруг центральной печи.
 
@@ -1616,7 +1611,6 @@
 
 Something ominous seems to have occurred at Inazuma's Tatarasuna...
 
-#### Scene
 
 **Paimon:** Hmm, those two seem to be arguing about something... Things look quite tense...
 
@@ -1752,7 +1746,6 @@ Who's Hanbei?
 
 **Miyuki:** Well, if that happens, you should probably leave the island.
 
-#### Scene
 
 **Paimon:** This all sounds pretty serious.
 
@@ -2246,7 +2239,6 @@ You really do love Fontaine, don't you...
 
 **Xavier:** Why are the Fatui interested in the Tatarigami?
 
-#### Scene
 
 **Xavier:** There should be something about this in the "Mikage Furnace Emergency Response Procedures (Trial Version)" somewhere...
 
@@ -2288,7 +2280,6 @@ You really do love Fontaine, don't you...
 
 **Xavier:** But before I left Fontaine, I heard that some of my colleagues were quite interested in this act of playing back images in sequence... *sigh* I can only hope that they don't act all too quickly...
 
-#### Scene
 
 **Xavier:** Please do go to check out our surroundings. I feel that these abnormal readings must surely have something to do with what's happening within the Mikage Furnace.
 
@@ -2646,7 +2637,6 @@ Do we need to purify all that energy?
 
 **Xavier:** That's the plan. But before we execute it, I still have a few final preparations to make.
 
-#### Scene
 
 **Xavier:** The Fatui are acting more and more strangely. They seem to be gathering around the core of the furnace.
 
@@ -3206,7 +3196,6 @@ Thank you.
 
 在稻妻的踏鞴砂上，似乎发生了一件不太妙的事…
 
-#### 场景
 
 **派蒙:** 唔唔唔，这两个人好像在吵什么…气氛好紧张…
 
@@ -3342,7 +3331,6 @@ Thank you.
 
 **阿幸:** …只能说，你趁早离开这座岛吧。
 
-#### 场景
 
 **派蒙:** 听起来好像很严重啊…
 
@@ -3836,7 +3824,6 @@ Thank you.
 
 **泽维尔:** 为什么愚人众会对「祟神」有兴趣呢…
 
-#### 场景
 
 **泽维尔:** 《御影炉心·应急处理流程指南试行版》上应该有这一条来着…
 
@@ -3878,7 +3865,6 @@ Thank you.
 
 **泽维尔:** 但我在离开枫丹之前，就听说我的某些同行似乎也对这种连续播放画片的技术很感兴趣…唉，我现在只能希望这群好先生们的动作别太快了…
 
-#### 场景
 
 **泽维尔:** 请您去看看周围的情况吧。我总感觉，这些异常的读数…和「御影炉心」现在的情况有关。
 
@@ -4236,7 +4222,6 @@ Thank you.
 
 **泽维尔:** 这就是我全部的计划，在那之前，我还得再做些准备。
 
-#### 场景
 
 **泽维尔:** 最近那些愚人众的活动越来越怪异了，他们似乎都集中在核心的区域。
 

@@ -229,7 +229,6 @@
 
 После этого вы провели несколько дней в Пирамиде...
 
-#### Сцена
 
 **Анлейв:** За здоровье, Путешественник!
 
@@ -450,7 +449,6 @@ Standing alongside the courageous Ratniki, you defeat the "Professor" at long la
 
 For several days afterward, you stay in Piramida...
 
-#### Scene
 
 **Anleifr:** Cheers! Traveler!
 
@@ -671,7 +669,6 @@ With good company, warm laughter, and flowing drinks, you enjoy a brief moment o
 
 之后，在皮拉米达城盘桓了数日…
 
-#### 场景
 
 **安莱夫:** 干杯！旅行者！
 

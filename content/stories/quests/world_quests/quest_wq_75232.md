@@ -26,7 +26,6 @@
 
 Вы подпадаете в питомник цветов хмеля в дикой местности острова Тете. Им управляет таинственная женщина...
 
-#### Сцена
 
 **???:** Хм... Горьковато. Слишком много огнетравы?
 
@@ -341,7 +340,6 @@
 
 Вы замахиваетесь мечом на лесного кабана. Он издаёт громкий визг и падает на землю.
 
-#### Сцена
 
 «До встречи, звёздное дитя! Если в этой стране мы не увидимся... я буду ждать тебя в следующей...»
 
@@ -571,7 +569,6 @@ Mimi muhe!
 
 You encounter a nursery full of blooming Brewblossoms in the wilderness of Tete Isle. It appears to be administered by a mysterious woman...
 
-#### Scene
 
 **???:** Hmm... This bitter taste... Did I add too much Flamegrass?
 
@@ -886,7 +883,6 @@ Nope. Not yet, anyway...
 
 You swing your sword at the forest boar — It gives a loud squeal and then collapses...
 
-#### Scene
 
 "Farewell, child of the stars! Should we not meet again in this nation... I shall await you in another..."
 
@@ -1116,7 +1112,6 @@ Strong and strange.
 
 在提提岛的野外遇到了盛开着醅幽花的苗圃，而苗圃的管理者似乎是一位神秘的女子…
 
-#### 场景
 
 **？？？:** 唔…这个苦味，是火烧草放多了吗？
 
@@ -1431,7 +1426,6 @@ Strong and strange.
 
 你挥剑砍向林猪，它惨叫一声倒下了…
 
-#### 场景
 
 「再会了，星空之子！如果我不能和你再在这个国度相遇…那么我会，我会在另一个国度等你…」
 

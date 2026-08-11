@@ -278,7 +278,6 @@
 
 **Сальса:** Так и предметам, выполненным из разных материалов, нужны разные условия среды. Кристальные устройства плохо работают на грязной земле...
 
-#### Сцена
 
 **Сальса:** Неплохо, неплохо! Посмотрите, стало намного красивее!
 
@@ -787,7 +786,6 @@ Paimon was worried for nothing, what a huge loss.
 
 **Salsa:** Objects made of different materials also have environments they are suited to, and Crystal Devices do not go well with muddy ground...
 
-#### Scene
 
 **Salsa:** Good, very good. It looks so much better this way!
 
@@ -1296,7 +1294,6 @@ When it's time to part, you say your goodbyes, and Salsa skips away merrily with
 
 **萨莎:** 不同材质的物件也有各自适合的环境。晶体机关就不适合泥地…
 
-#### 场景
 
 **萨莎:** 不错，真不错，瞧瞧，这样不就好看多了吗！
 

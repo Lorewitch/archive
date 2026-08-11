@@ -26,7 +26,6 @@
 
 Кажется, у временной настоятельницы святилища Асасэ Нэко есть к вам дело.
 
-#### Сцена
 
 **Нэко:** Ох, мяу. Куда же они подевались?
 
@@ -158,7 +157,6 @@
 
 Neko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
 
-#### Scene
 
 **Neko:** Oh, meow, meow... Where did they go...
 
@@ -290,7 +288,6 @@ I actually think they would've made it back themselves...
 
 「浅濑神社代宫司」寝子似乎有事找你…
 
-#### 场景
 
 **「寝子」:** 哎呀…喵喵，跑到哪里去了…
 

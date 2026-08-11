@@ -90,7 +90,6 @@
 
 **Мисс Лань:** Спасибо... Что?
 
-#### Сцена
 
 **Дымок:** Мяу, мяу... Мяу?
 
@@ -188,7 +187,6 @@ Lan seems to be fretting over some of the commissions that the Adventurers' Guil
 
 **Lan:** Thanks, you've done us a fav— say what now?
 
-#### Scene
 
 **Ash:** Meow, meow... Meow?
 
@@ -286,7 +284,6 @@ The commissioner should be pleased.
 
 **岚姐:** 辛苦你…什么？
 
-#### 场景
 
 **灰灰:** 喵喵…喵？
 

@@ -26,7 +26,6 @@
 
 Айрис в лагере у подножия Драконьего хребта нужна помощь в одном деле...
 
-#### Сцена
 
 Я насчёт поручения...
 
@@ -234,7 +233,6 @@
 
 Iris, who has set up shop at the Dragonspine base camp, seems to want some help...
 
-#### Scene
 
 So, about your commission...
 
@@ -442,7 +440,6 @@ This letter talks about the recent state of the Guild.
 
 待在龙脊雪山山脚下营地中的玉霞，似乎有些事想找人帮忙…
 
-#### 场景
 
 关于委托…
 

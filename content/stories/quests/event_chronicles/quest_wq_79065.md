@@ -26,7 +26,6 @@
 
 В Пруду песни дождя проходит крупное соревнование...
 
-#### Сцена
 
 **Ореллу:** Отлично! Замечательно, крепколапые дамы и господа! Соревнование по прыжкам в самом разгаре!
 
@@ -72,7 +71,6 @@
 
 **Ореллу:** Место проведения состязания будет временно открыто. Прыгайте в своё удовольствие, ведь именно для этого и нужен Пруд песни дождя!
 
-#### Сцена
 
 **Ореллу:** Форобер... Я понимаю твои тревоги, финала ждут все лягушки...
 
@@ -226,11 +224,9 @@
 
 **Взволнованная бумажная лягушка:** Форобер обязательно получит чемпионский титул, я верю в него!
 
-#### Сцена
 
 **Добрая бумажная лягушка:** Эх, надеюсь, все выложатся по полной, чего бы это ни стоило участникам...
 
-#### Сцена
 
 **Спокойная бумажная лягушка:** Форобер... надеюсь, ты пришёл в себя...
 
@@ -662,7 +658,6 @@
 
 **Ореллу:** Уважаемые гости, пожалуйста, ведите нас!
 
-#### Сцена
 
 **Печальная бумажная лягушка:** Поражение - это пруд, сомнения - водоросли в нём, а бегство - ил, в котором вязнешь.
 
@@ -674,7 +669,6 @@
 
 There seems to be a grand contest taking place at Rainsong Pond...
 
-#### Scene
 
 **Horellou:** Well done, my fine, hind-legged ladies and gentlemen, well done indeed! This jumping contest is. On. Fireeee!
 
@@ -720,7 +714,6 @@ In any case, let's check the situation out first.
 
 **Horellou:** For the time being, the competition venue will be open to you all, so go forth and jump to your hearts' content! That is what the Rainsong Pond is here for, after all!
 
-#### Scene
 
 **Horellou:** Faurobert, I know how nervous you are right now, but this is the final match that every frog has been looking forward to. You...
 
@@ -874,11 +867,9 @@ Then be my guest.
 
 **Excited Paper Frog:** Faurobert will surely win the finals. I believe in him!
 
-#### Scene
 
 **Kind Paper Frog:** *sigh* I hope everyone'll be able to do their best today — and that they won't give up even if they fall into the pond.
 
-#### Scene
 
 **Calm Paper Frog:** Faurobert... I can only hope that you're in better shape now...
 
@@ -1310,7 +1301,6 @@ Still, our work wasn't in vain.
 
 **Horellou:** Well then, dear guests, please lead the way.
 
-#### Scene
 
 **Sullen Paper Frog:** Failure is a deep pond indeed, doubt is the choking algae, and avoidance is the shackling sludge.
 
@@ -1322,7 +1312,6 @@ Still, our work wasn't in vain.
 
 雨歌塘里，似乎正在举办一场盛大的比赛…
 
-#### 场景
 
 **奥雷卢:** …好啊！各位后腿健壮的先生小姐们，太好了！跳跃比赛真是如火如荼！
 
@@ -1368,7 +1357,6 @@ Still, our work wasn't in vain.
 
 **奥雷卢:** 周围的比赛场地也会暂时向各位开放，尽情去跳跃吧，这就是雨歌塘存在的意义！
 
-#### 场景
 
 **奥雷卢:** 福罗贝尔，我懂你现在的紧张心情，但这可是众蛙瞩目的总决赛，你…
 
@@ -1522,11 +1510,9 @@ Still, our work wasn't in vain.
 
 **兴奋的纸蛙:** 福罗贝尔一定会拿下总决赛的冠军，我相信他！
 
-#### 场景
 
 **好心的纸蛙:** 唉，只希望大家都能跳出自己最好的成绩，就算是落进水塘也不要气馁…
 
-#### 场景
 
 **沉稳的纸蛙:** 福罗贝尔…希望你调整好状态了…
 
@@ -1958,7 +1944,6 @@ Still, our work wasn't in vain.
 
 **奥雷卢:** 两位客人，请你们为我们带路吧。
 
-#### 场景
 
 **忧郁的纸蛙:** 失败是幽深的池塘，疑虑是纠缠的水藻，逃避是陷蹼的淤泥。
 

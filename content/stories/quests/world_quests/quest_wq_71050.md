@@ -26,7 +26,6 @@
 
 Необычные природные и геологические условия Разлома породили странные образования и растения, среди которых особенно выделяются светящиеся грибы. Помогите Хедиву, учёному из Сумеру, исследовать их.
 
-#### Сцена
 
 Расскажи мне о грибах...
 
@@ -104,7 +103,6 @@
 
 The Chasm has a complex ecological and geological system. One of the most curious things here is the glowing mushrooms. Help the Sumeru scholar Khedive to investigate the mushrooms that grow in The Chasm...
 
-#### Scene
 
 So, about these mushrooms...
 
@@ -182,7 +180,6 @@ So, why do they glow?
 
 层岩巨渊有许多奇异的生态环境和地质环境，其中尤为特殊的就是生长在层岩的荧光蘑菇，帮助须弥学者海迪夫调查一下此处的蘑菇吧…
 
-#### 场景
 
 关于这种蘑菇…
 

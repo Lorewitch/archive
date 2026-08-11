@@ -26,7 +26,6 @@
 
 Аранарам в чаще Апам нужна помощь...
 
-#### Сцена
 
 **Арапанду:** О, это нара. Золотой и храбрый / Золотая и храбрая нара...
 
@@ -1390,11 +1389,9 @@
 
 ### Без названия 73060
 
-#### Сцена
 
 **Арапанду:** Аранакула в Монументе ясны, Арабалика в руинах Дахри, а Аракунти в роще Сновидений. Нара Путешественник, Паймон, будьте осторожны.
 
-#### Сцена
 
 **Аранакула:** Золотой / Золотая нара, похоже, ничего не боится.
 
@@ -1404,7 +1401,6 @@
 
 **Аранакула:** После исцеления машины Варуны всякие негодяи перестанут бесчинствовать в питомнике. Путешественник, я хочу подарить тебе цветы, выращенные там.
 
-#### Сцена
 
 **Арапанду:** С Арабаликой всё в порядке, как я и думал. Но Аранакула сейчас в Монументе ясны, а Аракунти в роще Сновидений, и за них мне тревожно.
 
@@ -1414,7 +1410,6 @@
 
 **Арапанду:** Только бы исцелить машину Варуны...
 
-#### Сцена
 
 **Аракунти:** Роща Сновидений... Здесь слышится тихая мелодия, здесь журчит вода, здесь птицы, хлопая крыльями, садятся на ветви...
 
@@ -1430,7 +1425,6 @@
 
 A few Aranara in Apam Woods could use some help...
 
-#### Scene
 
 **Arapandu:** Oh, it's a Nara. A golden and brave Nara...
 
@@ -2794,11 +2788,9 @@ I hope to see you at Festival Utsava.
 
 ### Untitled 73060
 
-#### Scene
 
 **Arapandu:** Aranakula is at the Yasna Monument, Arabalika went to the Ruins of Dahri, and Arakunti is in the Grove of Dreams. Nara Traveler and Paimon must be careful.
 
-#### Scene
 
 **Aranakula:** You don't seem to be afraid of anything, Golden Nara.
 
@@ -2808,7 +2800,6 @@ I hope to see you at Festival Utsava.
 
 **Aranakula:** Once the Varuna Contraption has been healed, no more bad guys will go disturb the nurseries. Aranakula would like to give the flowers there to (her)(him).
 
-#### Scene
 
 **Arapandu:** Arabalika is doing fine, but Arabalika is still worried about Aranakula at the Yasna Monument and Arakunti in the Grove of Dreams.
 
@@ -2818,7 +2809,6 @@ I hope to see you at Festival Utsava.
 
 **Arapandu:** We just need to heal the Varuna Contraption...
 
-#### Scene
 
 **Arakunti:** The Grove of Dreams... A quiet melody, the sound of the water, the sound of birds flapping their wings, the sound of stepping onto a branch...
 
@@ -2834,7 +2824,6 @@ I hope to see you at Festival Utsava.
 
 水天丛林有兰那罗需要帮助…
 
-#### 场景
 
 **兰般度:** 啊，是那菈，金色的那菈，勇敢的那菈…
 
@@ -4198,11 +4187,9 @@ I hope to see you at Festival Utsava.
 
 ### 未命名 73060
 
-#### 场景
 
 **兰般度:** 兰那库拉在谒颂幽境，兰百梨迦去了荼诃之座，兰贡迪在梦景林莽，那菈旅行者和派蒙也要小心。
 
-#### 场景
 
 **兰那库拉:** 金色的那菈，好像什么也不怕。
 
@@ -4212,7 +4199,6 @@ I hope to see you at Festival Utsava.
 
 **兰那库拉:** 治好了法留纳神机，就不会有坏家伙到苗圃捣乱了，苗圃的花，想要送给空/荧。
 
-#### 场景
 
 **兰般度:** 兰百梨迦果然顺利，但是担心在谒颂幽境的兰那库拉和在梦景林莽的兰贡迪。
 
@@ -4222,7 +4208,6 @@ I hope to see you at Festival Utsava.
 
 **兰般度:** 只要治好法留纳神机…
 
-#### 场景
 
 **兰贡迪:** 梦景林莽…安静的曲子，水的声音，鸟扑棱翅膀的声音，踩在枝桠上的声音…
 

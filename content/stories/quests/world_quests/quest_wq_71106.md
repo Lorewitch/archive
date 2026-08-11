@@ -26,7 +26,6 @@
 
 Дядюшку Ло беспокоят неполадки с чайным котлом...
 
-#### Сцена
 
 **Паймон:** Дядюшка Ло, мы вернулись!
 
@@ -390,7 +389,6 @@
 
 The teapot troubles are still causing Uncle Luo quite the headache...
 
-#### Scene
 
 **Paimon:** We're back, Uncle Luo!
 
@@ -754,7 +752,6 @@ Forget it! I'll check it out myself...
 
 罗叔还在为茶釜的事情感到头疼…
 
-#### 场景
 
 **派蒙:** 罗叔，我们回来啦！
 

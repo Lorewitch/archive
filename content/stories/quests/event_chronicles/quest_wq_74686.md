@@ -1,6 +1,6 @@
 # id: quest_wq_74686
 # story_group: event_chronicles
-# display_category: Ивент · Reel Ad-Venture }}
+# display_category: Ивент · Мастер монтажа
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Дружба, проверенная временем
 # title_en: A Time-Tested Friendship
@@ -17,7 +17,7 @@
 # next_quests:
 # related_quests: quest_wq_74683
 # quest_chain: quest_wq_74683,quest_wq_74686
-# quest_series: Reel Ad-Venture }}
+# quest_series: Reel Ad-Venture
 # version_source: wiki_release_category
 
 ## RU

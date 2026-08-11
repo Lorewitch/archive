@@ -24,7 +24,6 @@
 
 ### Игра в монополистов
 
-#### Сцена
 
 Почтовое отделение в бараках.
 
@@ -38,7 +37,6 @@
 
 **Гальвана:** Ладно, не говорите мне ничего про процедуры и документы, я с этим всё равно ничего не могу сделать. Обратитесь к Монглан, она за это отвечает.
 
-#### Сцена
 
 Магазин «Тряпьё и кости».
 
@@ -466,7 +464,6 @@
 
 **Лануар:** Но от света у меня глаза заболели.
 
-#### Сцена
 
 **Катерпиллер:** Прошу прощения за задержку. Что же касается способа получения купонов, упомянутого ранее...
 
@@ -2372,7 +2369,6 @@
 
 ### С той поры...
 
-#### Сцена
 
 **Эрншоу:** Вы... Путешественник и Паймон?
 
@@ -2818,7 +2814,6 @@
 
 ### Game of the Rich
 
-#### Scene
 
 The dormitory block mail room.
 
@@ -2832,7 +2827,6 @@ The dormitory block mail room.
 
 **Galvana:** Alright, if you've got questions about processes or documents, I don't want to hear them. Can't fix 'em, anyway. Go look for Monglane instead. She's the one in charge of that.
 
-#### Scene
 
 The Rag and Bone Shop.
 
@@ -3260,7 +3254,6 @@ The entrance to the Rift of Erosion.
 
 **Lanoire:** But that bright light really hurt my eyes...
 
-#### Scene
 
 **Caterpillar:** Sorry for the delay. About the way I said I got the Coupons earlier...
 
@@ -5164,7 +5157,6 @@ Not yet.
 
 ### Hereafter...
 
-#### Scene
 
 **Earnshaw:** You must be... Traveler and Paimon, right?
 
@@ -5610,7 +5602,6 @@ We've got our own adventures to go on.
 
 ### 富豪游戏
 
-#### 场景
 
 监舍区发信室。
 
@@ -5624,7 +5615,6 @@ We've got our own adventures to go on.
 
 **嘉维娜:** 好啦，什么程序文件之类的问题别跟我说，我解决不了。去找莫莱妮吧，她才是负责这些的人。
 
-#### 场景
 
 破烂骨头商店。
 
@@ -6052,7 +6042,6 @@ We've got our own adventures to go on.
 
 **莉诺尔:** 不过照得眼睛好痛…
 
-#### 场景
 
 **卡特皮拉:** 抱歉，耽搁了一些时间，关于之前说的获取特许券的手段…
 
@@ -7956,7 +7945,6 @@ We've got our own adventures to go on.
 
 ### 从此以后…
 
-#### 场景
 
 **恩肖:** 你们是...旅行者和派蒙吧。
 

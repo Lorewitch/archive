@@ -280,7 +280,6 @@
 
 **Сальса:** Хорошо бы разместить столбы передачи пневмусии по обеим сторонам дороги, чтобы вернуть картине симметрию.
 
-#### Сцена
 
 **Сальса:** Неплохо, неплохо! Посмотрите, стало намного красивее!
 
@@ -791,7 +790,6 @@ Paimon was worried for nothing, what a huge loss.
 
 **Salsa:** It would be nice to place the Pneumousia Relay Piles on both sides of the road so that everything is symmetrical.
 
-#### Scene
 
 **Salsa:** Good, very good. It looks so much better this way!
 
@@ -1302,7 +1300,6 @@ When it's time to part, you say your goodbyes, and Salsa skips away merrily with
 
 **萨莎:** 如果能让道路两侧的芒荒中继桩对称排布就好啦。
 
-#### 场景
 
 **萨莎:** 不错，真不错，瞧瞧，这样不就好看多了吗！
 

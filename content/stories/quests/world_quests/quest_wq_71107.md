@@ -26,7 +26,6 @@
 
 По приглашению Хуана Третьего вы прибываете в легендарное место, где сокрыты сокровища школы Гухуа, - Зал Ваншань...
 
-#### Сцена
 
 **Вэнь Четвёртый:** ...
 
@@ -174,7 +173,6 @@
 
 **Вэнь Четвёртый:** Будьте осторожны.
 
-#### Сцена
 
 **Хуан Третий:** А ну, стоять!
 
@@ -610,7 +608,6 @@
 
 **Паймон:** Нет, нет! Хотя Паймон тоже немного запуталась... Бей всех манекенов одного цвета... красного? Наверное, красного, да...
 
-#### Сцена
 
 **Хуан Третий:** Я не знаю, что за деликатес вы приготовили, но я подожду здесь!
 
@@ -1089,7 +1086,6 @@
 
 At Huang the Third's invitation, you arrive at the legendary place where the treasure of the Guhua Clan is located, Wangshan Hall...
 
-#### Scene
 
 **Wen the Fourth:** ...
 
@@ -1237,7 +1233,6 @@ So, what exactly do I need to do?
 
 **Wen the Fourth:** Stay safe, you two.
 
-#### Scene
 
 **Huang the Third:** Hold it, you two!
 
@@ -1673,7 +1668,6 @@ I won't lose!
 
 **Paimon:** It really isn't! Even though Paimon's a little confused... At least, just hit all the dummies of one color, which is... red? Probably...
 
-#### Scene
 
 **Huang the Third:** I'm not sure what delicacy you've prepared, but I'll just wait over here!
 
@@ -2152,7 +2146,6 @@ But if you lost one, wouldn't you lose them all?
 
 在黄三爷的邀请下，来到了传说中埋藏古华派遗宝的重地「王山厅」…
 
-#### 场景
 
 **文四爷:** ……
 
@@ -2300,7 +2293,6 @@ But if you lost one, wouldn't you lose them all?
 
 **文四爷:** 两位，注意安全。
 
-#### 场景
 
 **黄三爷:** 两位，请留步！
 
@@ -2736,7 +2728,6 @@ But if you lost one, wouldn't you lose them all?
 
 **派蒙:** 不是啦！虽然我也已经听糊涂了…总之，只要打中一种颜色的假人就好了吧？应、应该是红色没错…
 
-#### 场景
 
 **黄三爷:** 不知少侠 / 女侠准备了何等嘉肴美馔，且让我在此静候少侠 / 女侠佳音！
 

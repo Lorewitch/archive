@@ -26,7 +26,6 @@
 
 Отнесите Пуке образец новых часов. Возможно, это станет первым шагом на пути создания новой производственной линии.
 
-#### Сцена
 
 **Чесил:** А, это вы! Поставщики драгоценной руды...
 
@@ -122,7 +121,6 @@
 
 **Паймон:** Хе-хе, не за что!
 
-#### Сцена
 
 **Чесил:** Если госпожа Пука сможет обеспечить бесперебойные поставки руды, мы запустим часы в серийное производство.
 
@@ -134,7 +132,6 @@
 
 Give Chesil's prototype clock to Puca. Perhaps a new production line will be born from this.
 
-#### Scene
 
 **Chesil:** Ah, it's you two, the ones who sold me those gemstones...
 
@@ -230,7 +227,6 @@ Everything has its value and purpose.
 
 **Paimon:** Hehe, don't mention it!
 
-#### Scene
 
 **Chesil:** If Miss Puca can provide a steady supply of ore, then perhaps we'll be able to mass produce these clocks.
 
@@ -242,7 +238,6 @@ Everything has its value and purpose.
 
 将切瑟尔试作的钟表带给芙佳，或许便能建起一条新的生产线了。
 
-#### 场景
 
 **切瑟尔:** 啊，是你们，之前卖我宝石的…
 
@@ -338,7 +333,6 @@ Everything has its value and purpose.
 
 **派蒙:** 嘿嘿，不用谢啦！
 
-#### 场景
 
 **切瑟尔:** 如果芙佳小姐能够提供稳定的货源的话，说不定就能批量生产这种新式的钟表了。
 

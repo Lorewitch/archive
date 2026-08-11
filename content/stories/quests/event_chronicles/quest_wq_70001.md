@@ -26,7 +26,6 @@
 
 До Вэл дошли тревожные новости. Она хочет, чтобы вы провели расследование...
 
-#### Сцена
 
 **Расстроенный горожанин:** Не волнуйся за меня. Мне просто нужно немного времени, чтобы снова овладеть своими чувствами.
 
@@ -98,7 +97,6 @@
 
 **Паймон:** Давай не будем сейчас об этом беспокоиться. Он ведь сказал, что хочет встретиться со своими подельниками в долине Ветров? Пойдём посмотрим.
 
-#### Сцена
 
 **Нервный горожанин:** А? Чего надо?
 
@@ -112,7 +110,6 @@
 
 **Паймон:** Похоже, это был обычный горожанин. Давай спросим кого-нибудь другого.
 
-#### Сцена
 
 **Расстроенный горожанин:** Ох, дай же мне ещё один шанс...
 
@@ -152,7 +149,6 @@
 
 Vile has caught wind of some concerning news and would like you to go and investigate.
 
-#### Scene
 
 **Crestfallen Citizen:** Don't worry about me. I just need a bit of time to get my feelings under control again.
 
@@ -224,7 +220,6 @@ Just a friendly neighborhood Knight.
 
 **Paimon:** Well, guess that's not too important. Didn't he say that they were going to meet up at Windrise? Let's go check it out.
 
-#### Scene
 
 **Restless Citizen:** Eh? What is it?
 
@@ -238,7 +233,6 @@ When the wind blows the flowers about...
 
 **Paimon:** Well, that seems to have been an ordinary citizen. Let's go ask someone else.
 
-#### Scene
 
 **Crestfallen Citizen:** I wonder if I still have a chance...
 
@@ -278,7 +272,6 @@ Excuse me, have you been watching us this whole time?
 
 薇尔小姐好像听到了一些令人在意的消息，想要请你前去调查…
 
-#### 场景
 
 **失落的市民:** 没关系，再给我一点时间就好，我会调整好心情的。
 
@@ -350,7 +343,6 @@ Excuse me, have you been watching us this whole time?
 
 **派蒙:** 唔，先不管这些了，刚才他好像说了要去风起地找同伙，我们去风起地那边看看吧。
 
-#### 场景
 
 **焦躁的市民:** 嗯？怎么了？
 
@@ -364,7 +356,6 @@ Excuse me, have you been watching us this whole time?
 
 **派蒙:** 看起来好像是普通的市民，我们问问其他人吧。
 
-#### 场景
 
 **失落的市民:** 到底还有没有机会呢…
 

@@ -282,7 +282,6 @@
 
 **Сальса:** По-моему, она не должна быть центральной частью композиции. А раз так, её нужно убрать из середины.
 
-#### Сцена
 
 **Сальса:** Неплохо, неплохо! Посмотрите, стало намного красивее!
 
@@ -795,7 +794,6 @@ Paimon was worried for nothing, what a huge loss.
 
 **Salsa:** The way I see it, it's not the centerpiece so it shouldn't be in the middle at all.
 
-#### Scene
 
 **Salsa:** Good, very good. It looks so much better this way!
 
@@ -1308,7 +1306,6 @@ When it's time to part, you say your goodbyes, and Salsa skips away merrily with
 
 **萨莎:** 依我看，它不是画面的主角，就不应该待在正中间。
 
-#### 场景
 
 **萨莎:** 不错，真不错，瞧瞧，这样不就好看多了吗！
 

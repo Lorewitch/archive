@@ -26,7 +26,6 @@
 
 Исследователь Бройль хочет вернуть утонувшие данные гидрологических изысканий...
 
-#### Сцена
 
 **Бройль:** Ох, что же делать?..
 
@@ -141,7 +140,6 @@
 
 **Паймон:** В этих записях ничего не разберёшь, но, наверное, можно просто отнести их ему?
 
-#### Сцена
 
 **Паймон:** Хм, у Паймон такое чувство, что мы бывали здесь раньше...
 
@@ -274,7 +272,6 @@
 
 **Бройль:** Неважно, не будем терять времени! Прошу вас, добросердечный господин / добросердечная госпожа, давайте отправимся в Исследовательский институт Фонтейна, найдём моего руководителя и возьмём ключ от центра обработки.
 
-#### Сцена
 
 **Бройль:** Ох, что же делать?..
 
@@ -582,7 +579,6 @@
 
 Researcher Broglie wants to retrieve the sunken hydrology research data...
 
-#### Scene
 
 **Broglie:** Oh, what am I to do...
 
@@ -697,7 +693,6 @@ After some rumbling and shaking, the machine spits out a stack of paper tape...*
 
 **Paimon:** Paimon can't understand any of it, but all we need is to bring it back to him and we're good, right?
 
-#### Scene
 
 **Paimon:** Huh? Wait a minute, now that Paimon's looking at these locations, it seems like we've already been to them before...
 
@@ -830,7 +825,6 @@ We've already sent those Fatui running for the hills.
 
 **Broglie:** Anyway, there's no time to lose, kind sir / lady! Please come with me to the Fontaine Research Institute to find my supervisor and request the key to the central processing station!
 
-#### Scene
 
 **Broglie:** *sigh* What do I do...?
 
@@ -1138,7 +1132,6 @@ We've already sent those Fatui running for the hills.
 
 研究员布罗意想要取回沉没的水文研究数据…
 
-#### 场景
 
 **布罗意:** 唉，该怎么办呢…
 
@@ -1253,7 +1246,6 @@ We've already sent those Fatui running for the hills.
 
 **派蒙:** 虽然完全看不懂上面写的是什么，但只要拿回去给他就好了吧！
 
-#### 场景
 
 **派蒙:** 咦？等一下，仔细看看的话，你标出来的这两个地方，我们好像都已经去过了…
 
@@ -1386,7 +1378,6 @@ We've already sent those Fatui running for the hills.
 
 **布罗意:** 总之，事不宜迟，好心的先生 / 小姐，请您陪我回枫丹科学院，找主管申请中枢处理站的钥匙吧！
 
-#### 场景
 
 **布罗意:** 唉，该怎么办呢…
 

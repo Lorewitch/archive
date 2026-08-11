@@ -26,7 +26,6 @@
 
 Годвин из Ордо Фавониус крайне обеспокоен внезапным метеоритным дождём.
 
-#### Сцена
 
 **Годвин:** Как же там Глория...
 
@@ -156,7 +155,6 @@
 
 The meteor shower out in the wild seems to have left Godwin all in a fluster...
 
-#### Scene
 
 **Godwin:** I wonder how Glory is getting on...
 
@@ -286,7 +284,6 @@ She sent you some Dandelion Seeds.
 
 陨石在野外频繁坠落，西风骑士古德温似乎有些焦虑不安…
 
-#### 场景
 
 **古德温:** 不知道葛罗丽怎么样了…
 

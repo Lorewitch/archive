@@ -64,7 +64,6 @@
 
 **Молли:** Да, верно, так и поступим! Ты такая умная, сестрица Паймон. Я сейчас же пойду кормить кошку!
 
-#### Сцена
 
 **Паймон:** Это место подойдёт? Давай, скажи Паймон, что у тебя на уме.
 
@@ -208,7 +207,6 @@
 
 **Паймон:** Конечно, давай найдём подходящее место.
 
-#### Сцена
 
 **Молли:** Братец / Сестрица Путешественник, ты постучишь в дверь?
 
@@ -226,7 +224,6 @@
 
 **Паймон:** Ты прав(а). Всё слишком нарочито... С этой парочкой что-то не так!
 
-#### Сцена
 
 В их отношениях с Бенуа есть что-то неправильное.
 
@@ -242,7 +239,6 @@
 
 **Паймон:** Благодаря твоему анализу Паймон отчасти понимает, что это было за чувство неловкости.
 
-#### Сцена
 
 То, как эта парочка относится к посторонним, мне совсем не нравится.
 
@@ -338,7 +334,6 @@ We'll go with you.
 
 **Molli:** That's right, we can do that! You're so smart, Ms. Paimon. Let me go feed the cat right now!
 
-#### Scene
 
 **Paimon:** Will this place do? C'mon, tell Paimon what's on your mind.
 
@@ -482,7 +477,6 @@ Athos ignores all of you.
 
 **Paimon:** Sure, let's go talk somewhere else.
 
-#### Scene
 
 **Molli:** Mr. / Ms. Traveler, could you do the knocking?
 
@@ -500,7 +494,6 @@ This couple became his children.
 
 **Paimon:** You're right. Everything's just too deliberate... There's definitely something going on with this couple!
 
-#### Scene
 
 There's something fishy about their relationship with Benoit.
 
@@ -516,7 +509,6 @@ There's something fishy about their relationship with Benoit.
 
 **Paimon:** Now that you mention it, Paimon kinda gets where that confused feeling was coming from.
 
-#### Scene
 
 The way this couple deals with outsiders doesn't sit right with me.
 
@@ -612,7 +604,6 @@ Let's do some investigating.
 
 **茉莉:** 对哦，可以这样！派蒙姐姐真聪明，我现在就去喂猫猫。
 
-#### 场景
 
 **派蒙:** 这里可以了吗？现在能告诉我你在想什么了吧。
 
@@ -756,7 +747,6 @@ Let's do some investigating.
 
 **派蒙:** 好吧，那我们到别处说。
 
-#### 场景
 
 **茉莉:** 旅行者哥哥 / 姐姐，你来敲门好不好？
 
@@ -774,7 +764,6 @@ Let's do some investigating.
 
 **派蒙:** 你说的对。一切都好刻意，这么一想，这对夫妇很有问题欸！
 
-#### 场景
 
 这对夫妇和伯努瓦的关系不对劲。
 
@@ -790,7 +779,6 @@ Let's do some investigating.
 
 **派蒙:** 听你这么分析，我有点明白心里那个困惑的感觉是怎么回事了。
 
-#### 场景
 
 这对夫妇对待外人的态度不对劲。
 

@@ -27,7 +27,6 @@
 Благодаря совместным усилиям бедствие Бездны на севере удалось усмирить...
 Время триумфального возвращения близко.
 
-#### Сцена
 
 **Эмбер:** Письма в Гильдию искателей приключений и в таверну «Кошкин хвост» мы доставим сами! А вы отнесите остальные в «Долю ангелов»!
 
@@ -1212,7 +1211,6 @@
 
 **Инеффа:** Хм, пожалуй, попрошу Айно подготовить для меня дополнительные резервные модули.
 
-#### Сцена
 
 **Экберт:** Магистр ордена! Почётный рыцарь! Вернулись!
 
@@ -1224,7 +1222,6 @@
 
 **Винфрид:** Так точно, магистр ордена!
 
-#### Сцена
 
 **Варка:** Фух... Наконец-то всё закончилось.
 
@@ -1792,7 +1789,6 @@
 Through everyone's united efforts, the Abyssal calamity in the north seems to have been quelled...
 The day of triumph draws near.
 
-#### Scene
 
 **Amber:** Okay, we'll deliver these letters to the Adventurers' Guild and The Cat's Tail! You can just handle the ones for the Angel's Share.
 
@@ -2977,7 +2973,6 @@ But there's no guarantee it'll work...
 
 **Ineffa:** Hmm, perhaps I should ask Aino to prepare some additional backup modules for me.
 
-#### Scene
 
 **Ekbert:** Grand Master! Honorary Knight! Thank goodness you're here!
 
@@ -2989,7 +2984,6 @@ But there's no guarantee it'll work...
 
 **Winfried:** ...Yes, sir!
 
-#### Scene
 
 **Varka:** Phew... I'm glad that's finally over.
 
@@ -3557,7 +3551,6 @@ You saw an Abyssal calamity in the North, right?
 在众人的奋战之下，北方的深渊灾厄似乎已经平定…
 凯旋之期，已在近前。
 
-#### 场景
 
 **安柏:** 啊，给冒险家协会还有猫尾酒馆之类的信，就由我们去送吧！你们只管要送去「天使的馈赠」的那几封就好！
 
@@ -4742,7 +4735,6 @@ You saw an Abyssal calamity in the North, right?
 
 **伊涅芙:** 嗯，或许我也可以拜托爱诺，多为我准备一些备用模块？
 
-#### 场景
 
 **艾克贝特:** 大团长！荣誉骑士！太好了！
 
@@ -4754,7 +4746,6 @@ You saw an Abyssal calamity in the North, right?
 
 **温弗里德:** ——是！
 
-#### 场景
 
 **法尔伽:** 呼…可算解决了。
 

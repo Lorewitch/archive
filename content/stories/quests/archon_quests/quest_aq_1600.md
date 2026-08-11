@@ -1812,7 +1812,6 @@
 
 (...Неважно. Спрошу её при следующей встрече...)
 
-#### Сцена
 
 **Паймон:** Простите за беспокойство...
 
@@ -6234,7 +6233,6 @@ Huh? What does that mean...
 
 (...Never mind. I'll ask her next time I get a chance to see her...)
 
-#### Scene
 
 **Paimon:** Sorry to—
 
@@ -10656,7 +10654,6 @@ I'm feeling absolutely fine.
 
 （…算了，下次有机会再问她吧。）
 
-#### 场景
 
 **派蒙:** 打扰了…
 

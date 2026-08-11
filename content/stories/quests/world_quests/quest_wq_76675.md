@@ -26,7 +26,6 @@
 
 Экспедиционные войска Ордо Фавониус ждут чего-то особенного...
 
-#### Сцена
 
 **Паймон:** Ещё одну тарелочку... последнюю! Паймон клянётся!
 
@@ -336,7 +335,6 @@
 
 The Knights of Favonius's expeditionary force seems to be anticipating something...
 
-#### Scene
 
 **Paimon:** One more plate... Okay, this is the last one! Paimon swears!
 
@@ -646,7 +644,6 @@ The reason you launched the expedition... was it to deal with the Wild Hunt?
 
 西风骑士团的远征军们，似乎在期待着什么…
 
-#### 场景
 
 **派蒙:** 再吃一盘…最后一盘！
 

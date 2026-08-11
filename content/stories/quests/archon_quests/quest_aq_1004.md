@@ -52,10 +52,6 @@
 
 **Вират:** Кабинет закрыт. Чтобы войти, требуется разрешение магистра Джинн.
 
-#### Сцена
-
-**Куинн:** Беатрис... Ох, что же с ней такое...
-
 #### Поговорите с Катериной
 
 **Паймон:** Ого! Город в самом деле украсили. Хе-хе, как красиво.
@@ -1242,7 +1238,6 @@
 
 **Альбедо:** Да. Следуйте за мной.
 
-#### Сцена
 
 Пока.
 
@@ -1288,7 +1283,6 @@
 
 **Беннет:** Хорошо, договорились!
 
-#### Сцена
 
 **Сахароза:** Только вышла из зала суда, а тут вот что... Я такая трусиха, как я сегодня до вечера дотяну...
 
@@ -1844,7 +1838,6 @@
 
 **Альбедо:** Спасибо, Диона. Будем иметь в виду!
 
-#### Сцена
 
 **Альбедо:** Не бойся, мы найдём для тебя безопасное место.
 
@@ -1882,7 +1875,6 @@
 
 **Беннет:** Хорошо. Так и сделаю.
 
-#### Сцена
 
 **Беннет:** Диона, огромное спасибо! Благодаря тебе столько людей теперь в безопасности!
 
@@ -2548,7 +2540,6 @@
 
 **Альбедо:** Теперь я могу завершить алхимический круг, и все проблемы разом разрешатся.
 
-#### Сцена
 
 **Паймон:** Альбедо, как там твой план?
 
@@ -2761,10 +2752,6 @@ The Windblume Festival should be a joyous affair, but not all is as it seems in 
 #### Go to Mondstadt
 
 **Wyratt:** This office is now off limits. You need Master Jean's permission to enter.
-
-#### Discarded
-
-**Quinn:** Beatrice... *sigh* What's going on with her...?
 
 #### Talk to Katheryne
 
@@ -3952,7 +3939,6 @@ Wow, that's quite an... involved plan.
 
 **Albedo:** Indeed. Follow me.
 
-#### Scene
 
 Goodbye.
 
@@ -3998,7 +3984,6 @@ Everything comes to an end, all too abruptly. Without a shred of hesitation, you
 
 **Bennett:** Sounds like a plan!
 
-#### Scene
 
 **Sucrose:** I step outside the courtroom, and this is the first thing I see? I'm not sure how much more I can take. I'm not brave enough...
 
@@ -4554,7 +4539,6 @@ Me? But I didn't even know there was a plan...
 
 **Albedo:** Thank you, Diona. We'll be sure to do just that!
 
-#### Scene
 
 **Albedo:** Don't worry, we'll find somewhere for you to stay out of harm's way.
 
@@ -4592,7 +4576,6 @@ Me? But I didn't even know there was a plan...
 
 **Bennett:** Got it. I'll take her there right away.
 
-#### Scene
 
 **Bennett:** You're doing a really good thing here, Diona! Thanks to you, so many people are out of danger!
 
@@ -5258,7 +5241,6 @@ Well enough. Thank you.
 
 **Albedo:** Armed with this heart, I'll be able to complete the alchemical array, and deal with all these issues in one go.
 
-#### Scene
 
 **Paimon:** Albedo, how did everything go?
 
@@ -5471,10 +5453,6 @@ Alright, thanks.
 #### 前往蒙德城
 
 **威拉格:** 这间办公室已被封锁，需要琴团长的批准才能进入。
-
-#### (test)废弃
-
-**昆恩:** 贝雅特丽奇…唉，到底怎么了…
 
 #### 与凯瑟琳对话
 
@@ -6662,7 +6640,6 @@ Alright, thanks.
 
 **阿贝多:** 是的，跟我来。
 
-#### 场景
 
 再见。
 
@@ -6708,7 +6685,6 @@ Alright, thanks.
 
 **班尼特:** 好的，拜托啦！
 
-#### 场景
 
 **砂糖:** 没想到一离开审判所就是这种场面，像我这种容易被吓到的人，真不知道一天里要被吓多少次…
 
@@ -7264,7 +7240,6 @@ Alright, thanks.
 
 **阿贝多:** 那就太好了，衷心感谢你，迪奥娜小姐。
 
-#### 场景
 
 **阿贝多:** 先别急，我们会为你找到安全的地方。
 
@@ -7302,7 +7277,6 @@ Alright, thanks.
 
 **班尼特:** 我明白了，我马上送她过去。
 
-#### 场景
 
 **班尼特:** 真的是太感谢你了！多亏有你和猫尾酒馆，好多人才能安下心来。
 
@@ -7968,7 +7942,6 @@ Alright, thanks.
 
 **阿贝多:** 有了这个，我就能完成炼成阵，处理那些棘手问题。
 
-#### 场景
 
 **派蒙:** 阿贝多，计划还顺利吗？
 

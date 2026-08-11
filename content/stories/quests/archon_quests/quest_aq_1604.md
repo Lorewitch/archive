@@ -956,7 +956,6 @@
 
 **Фритр:** Если... понадобится спрятаться, ты знаешь, где нас искать.
 
-#### Сцена
 
 **Рэйндоттир:** Мы впервые видим друг друга в такое время. Тот факт, что столь амбициозные люди могут встретиться средь бела дня знаменует собой большую победу для нашей любимой Каэнри'ах.
 
@@ -1098,7 +1097,6 @@
 
 **Толиндис:** Сколько бы времени ни прошло...
 
-#### Сцена
 
 **Дайнслейф:** Действуем по плану! Время не ждёт!
 
@@ -2687,7 +2685,6 @@
 
 **Дайнслейф:** ...
 
-#### Сцена
 
 **Флинс:** О, вы пришли раньше, чем я думал...
 
@@ -4321,7 +4318,6 @@ Pinky promise.
 
 **Frithr:** If... If you ever need a place to hide, come find us.
 
-#### Scene
 
 **Rhinedottir:** Well, this is a nice change, meeting you all at this hour. When men and woman of ambition can speak face to face in broad daylight, I say that's a big step forward for our dear Khaenri'ah.
 
@@ -4463,7 +4459,6 @@ Pinky promise.
 
 **Tholindis:** No matter how long it takes...
 
-#### Scene
 
 **Dainsleif:** Hurry, everyone, and stick to the plan!
 
@@ -6052,7 +6047,6 @@ Sorry... We were just concerned about you...
 
 **Dainsleif:** ...
 
-#### Scene
 
 **Flins:** Ah. You're earlier than I expected.
 
@@ -7686,7 +7680,6 @@ What about you? What's your take on Rene?
 
 **芙蕾尔:** 如果…如果需要藏身的地方，可以来找我们的。
 
-#### 场景
 
 **莱茵多特:** 头一回在这种时间见到诸位。看起来我们的坎瑞亚总算是好起来了，有志之人能在大白天面对面谈话。
 
@@ -7828,7 +7821,6 @@ What about you? What's your take on Rene?
 
 **索琳蒂丝:** 无论过去多久…
 
-#### 场景
 
 **戴因斯雷布:** 照计划行动！抓紧时间！
 
@@ -9417,7 +9409,6 @@ What about you? What's your take on Rene?
 
 **戴因斯雷布:** ……
 
-#### 场景
 
 **菲林斯:** 啊，你来得比我想的还早一些。
 

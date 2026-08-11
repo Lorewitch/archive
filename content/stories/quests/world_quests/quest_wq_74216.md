@@ -26,13 +26,11 @@
 
 Джустино решил вернуться в родную деревню Петрикор...
 
-#### Сцена
 
 Подожди ещё немного...
 
 **Джустино:** Конечно, без проблем.
 
-#### Сцена
 
 **Джульетта:** Вы ведь в плаванье собираетесь? Вас не затруднит подбросить меня до гавани Бейда?
 
@@ -70,7 +68,6 @@
 
 **Джульетта:** Тогда вперёд. Нам нужно попасть в гавань Бейда как можно скорее!
 
-#### Сцена
 
 Волноход у нас быстрый и надёжный. Прошу на борт!
 
@@ -396,13 +393,11 @@
 
 Giustino has made up his mind to return to his hometown, Petrichor...
 
-#### Scene
 
 Just a while more...
 
 **Giustino:** Of course, no trouble at all.
 
-#### Scene
 
 **Giulietta:** Do you two happen to be heading to sea as well? If so, please, could I trouble you to bring me along to Bayda Harbor?
 
@@ -440,7 +435,6 @@ Alright, get onboard.
 
 **Giulietta:** In that case, let us not delay. To Bayda Harbor we go!
 
-#### Scene
 
 My Waverider's a fast and steady boat. Hop onboard, and we'll be off.
 
@@ -766,13 +760,11 @@ Um...
 
 朱斯蒂诺下定了决心，想要回到家乡佩特莉可镇…
 
-#### 场景
 
 再等一会儿…
 
 **朱斯蒂诺:** 好的，当然没问题。
 
-#### 场景
 
 **茱莉耶妲:** 难道两位恰好准备出海？如果是这样的话，能拜托两位送我一程，带我去拜达港吗？
 
@@ -810,7 +802,6 @@ Um...
 
 **茱莉耶妲:** 那么，事不宜迟，我们快点去拜达港吧！
 
-#### 场景
 
 我的浪船又快又稳，这就出发吧。
 

@@ -306,7 +306,6 @@
 
 *Вы вручаете Эскофье обёртку от конфеты, которую передала вам Моника...*
 
-#### Сцена
 
 *Убедившись, что вы действительно попытались приготовить блюдо, пригодное для употребления человеком, Эскофье выглядит слегка разочарованной...*
 
@@ -624,7 +623,6 @@
 
 **Эскофье:** Но... Холодный пресс - очень необычное устройство, трудно описать словами, как именно оно работает. Давайте я лучше покажу.
 
-#### Сцена
 
 *Когда вы подаёте готовое блюдо, лицо Эскофье озаряется радостью...*
 
@@ -650,7 +648,6 @@
 
 **Эскофье:** Ну как? Вы уже выбрали блюдо, которое будете готовить? Подойдите к делу серьёзно. Я надеюсь, вы выберете то блюдо, которое считаете самым вкусным!
 
-#### Сцена
 
 *Внимательно изучив блюдо, которое вы приготовили, Эскофье задаёт вам несколько неудобных вопросов...*
 
@@ -2438,7 +2435,6 @@ She didn't want to go back to Hotel Debord?
 
 *You give Monica's candy wrapper to Escoffier...*
 
-#### Scene
 
 *After confirming that this was indeed your attempt at cooking food meant for human consumption, Escoffier looks a little disappointed.*
 
@@ -2756,7 +2752,6 @@ What's a cold press?
 
 **Escoffier:** But um... this isn't exactly standard kitchen equipment, so that probably didn't make a whole lot of sense... Let me give you a demonstration instead.
 
-#### Scene
 
 *Escoffier's face lights up as you present your finished dish...*
 
@@ -2782,7 +2777,6 @@ What's a cold press?
 
 **Escoffier:** How's it going? Have you picked a dish yet? Choose wisely — I expect you to present the most delicious thing on the menu.
 
-#### Scene
 
 *After closely examining your dish, Escoffier asks you some pointed questions...*
 
@@ -4570,7 +4564,6 @@ You're already sounding a lot more confident.
 
 *将莫妮卡的糖纸交给了爱可菲…*
 
-#### 场景
 
 *在反复确认你没有拿错料理后，爱可菲看起来稍微有点失望…*
 
@@ -4888,7 +4881,6 @@ You're already sounding a lot more confident.
 
 **爱可菲:** 呃…这种不常见的装置，只靠说的是有点难懂…总之我先来示范一下吧。
 
-#### 场景
 
 *你甫一端出料理，喜色就堆满了爱可菲的脸颊…*
 
@@ -4914,7 +4906,6 @@ You're already sounding a lot more confident.
 
 **爱可菲:** 怎么样？已经决定好要提交哪份作品了吗？记得要端出你觉得「最美味」的那份哦。
 
-#### 场景
 
 *在谨慎地观察过这份料理后，爱可菲谨慎地问出了内心的疑问…*
 

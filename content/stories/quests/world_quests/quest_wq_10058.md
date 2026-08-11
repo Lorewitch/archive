@@ -24,7 +24,6 @@
 
 ### Задание Сюмацубан
 
-#### Сцена
 
 **Паймон:** Да что же это такое? Места на дороге всем хватает. Зачем же идти прямо на нас!
 
@@ -252,7 +251,6 @@
 
 **Бузулик:** Хотите узнать что-то ещё?
 
-#### Сцена
 
 Вообще-то, я из «железных крыс».
 
@@ -362,7 +360,6 @@
 
 **Фудзита:** Что-нибудь ещё?
 
-#### Сцена
 
 **Фудзита:** Хм... Что такое?
 
@@ -524,7 +521,6 @@
 
 **Таэ:** Вам что-то ещё нужно?
 
-#### Сцена
 
 **Таэ:** Да? Что такое?
 
@@ -582,7 +578,6 @@
 
 **Паймон:** Мы уже идём! Уже идём!
 
-#### Сцена
 
 Всё в порядке.
 
@@ -1373,7 +1368,6 @@
 
 ### Shuumatsuban Operations
 
-#### Scene
 
 **Paimon:** Come on, what was with that person just now? The road's wide enough. They didn't have to walk straight at us like that!
 
@@ -1601,7 +1595,6 @@ Do people say anything else about her?
 
 **Buzuleac:** Do you two have anything else you need to know?
 
-#### Scene
 
 Actually, I'm with the "Iron Rats."
 
@@ -1711,7 +1704,6 @@ Attempt to make contact with him.
 
 **Fujita:** Anything else?
 
-#### Scene
 
 **Fujita:** ...Hmph. What is it?
 
@@ -1873,7 +1865,6 @@ Very well done indeed!
 
 **Tae:** What else do you need?
 
-#### Scene
 
 **Tae:** Yes? What is it?
 
@@ -1931,7 +1922,6 @@ We could follow her from the shrine.
 
 **Paimon:** Alright, we're going, we're going!
 
-#### Scene
 
 Nothing much.
 
@@ -2722,7 +2712,6 @@ See you, Lyudochka.
 
 ### 终末番的任务
 
-#### 场景
 
 **派蒙:** 刚才那个人是怎么回事，明明这么宽的路，却偏要笔直地朝我们走过来。
 
@@ -2950,7 +2939,6 @@ See you, Lyudochka.
 
 **布祖里格:** 二位还有别的事吗？
 
-#### 场景
 
 其实，我正是「铁耗子」的人。
 
@@ -3060,7 +3048,6 @@ See you, Lyudochka.
 
 **藤田:** 还有，其他事吗？
 
-#### 场景
 
 **藤田:** ……哼。什么事？
 
@@ -3222,7 +3209,6 @@ See you, Lyudochka.
 
 **多惠:** 你们还有什么事吗？
 
-#### 场景
 
 **多惠:** 嗯，怎么了？
 
@@ -3280,7 +3266,6 @@ See you, Lyudochka.
 
 **派蒙:** 我们马上就去，马上就去！
 
-#### 场景
 
 没什么事了。
 

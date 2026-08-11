@@ -160,7 +160,6 @@
 
 **Альбедо:** В общем, разговоры не дадут никакого результата. Пойди поищи в округе чудовищ. В конце концов, некоторые вещи познаются только на практике.
 
-#### Сцена
 
 **Свирепый мужик:** Нашёл! Он у вон то(й)(го) мелко(й)(го)!
 
@@ -412,7 +411,6 @@ Any adverse side effects?
 
 **Albedo:** We gain little from saying more. Go find some monsters nearby — after all, some things are best discovered through practice.
 
-#### Scene
 
 **Ferocious Man:** Over here! It's with this brat!
 
@@ -664,7 +662,6 @@ To think that humans could make such a weapon...
 
 **阿贝多:** 多说无益，到附近找几只怪物吧。有些事，一试便知。
 
-#### 场景
 
 **凶恶的男人:** 找到了！就是那个小兔崽子拿着！
 

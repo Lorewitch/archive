@@ -27,7 +27,6 @@
 «Папа, герои такие высокие и сильные. Я хочу стать таким же».
 «Многие герои высоки и сильны от природы, но есть и другие, которые, несмотря на недостаток роста и силы, способны на многое, не хуже тех, кого я тренировал».
 
-#### Сцена
 
 **Матага:** ...
 
@@ -137,7 +136,6 @@
 
 **Матага:** Запомните мои слова! И приходите тренироваться, когда пробьёт час. Тренироваться никогда не поздно.
 
-#### Сцена
 
 **Матага:** Отлично! Ты (превзошла)(превзошёл) меня, (воительница)(воин)! Но если хочешь стать настоящим героем, не расслабляйся, продолжай двигаться вперёд!
 
@@ -224,7 +222,6 @@
 "Dad, heroes are so tall and strong. I wish I could be one some day."
 "It's true that many heroes are tall and strong by nature, but there are others who — though they may be lacking in height and strength — are just as capable as any of the taller ones I've trained."
 
-#### Scene
 
 **Matahga:** ...
 
@@ -334,7 +331,6 @@ CAPICHE!!!
 
 **Matahga:** Hmph, mark my words! But even when that time comes, it won't be too late to come hone yourselves here.
 
-#### Scene
 
 **Matahga:** Wonderful! You've outdone me, Warrior! But don't slack off now — keep pushing forward to become an even greater hero!
 
@@ -421,7 +417,6 @@ I see. Good luck then.
 「爸爸，勇士们都很高大，又有力气，真羡慕他们。」
 「确实很多勇士天生拥有强健的肉体，不过也有那种个子小、力气也不是很大的勇士，他们一点不比我训练出的那些高个子勇士差。」
 
-#### 场景
 
 **马塔伽:** ……
 
@@ -531,7 +526,6 @@ I see. Good luck then.
 
 **马塔伽:** 哼，记住我的话，等到那个时候，再来这里磨砺自己，也不算晚。
 
-#### 场景
 
 **马塔伽:** 勇士，你超越了我，可喜可贺！不过想要成为更加伟大的英雄，就不可以懈怠，继续奋斗吧！
 

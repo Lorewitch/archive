@@ -542,7 +542,6 @@
 
 **Нахида:** Конечно, это же часть прогулки.
 
-#### Сцена
 
 **Дебби:** Разве это не блуждание во сне? Бред какой-то.
 
@@ -2336,7 +2335,6 @@ Sounds like a good plan.
 
 **Nahida:** Of course. This is all part of our little trip.
 
-#### Scene
 
 **Debbi:** It's just sleepwalking, they're really overreacting.
 
@@ -4130,7 +4128,6 @@ You can really empathize with others now.
 
 **纳西妲:** 当然，这也是郊游的一环嘛。
 
-#### 场景
 
 **黛比:** 不就是梦游，太夸张了。
 

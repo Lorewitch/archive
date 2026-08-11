@@ -26,7 +26,6 @@
 
 Мистер Чжу хочет воспользоваться Праздником морских фонарей, чтобы подраскрутить своё дельце...
 
-#### Сцена
 
 **Цзянь Цю:** Спасибо вам за приём, мистер Чжу. Вот мора...
 
@@ -96,7 +95,6 @@
 
 **Мистер Чжу:** Кхм... Просто передай эти материалы Болвану Бэню. Твоё вознаграждение будет зависеть от того, как сложится ситуация завтра.
 
-#### Сцена
 
 **Мистер Чжу:** Наконец-то, долгожданные клиенты... Нужно устроить им тёплый приём, так что поскорее приготовь вкусный суп из украшений.
 
@@ -108,7 +106,6 @@
 
 **Болван Бэнь:** Нужно больше небесных фонарей...
 
-#### Сцена
 
 **Мистер Чжу:** Мне нужно заняться привлечением клиентов. Награду ты получишь позже.
 
@@ -284,7 +281,6 @@
 
 **Мистер Чжу:** Спасибо, что всё это время помогал(а). Ну, мне пора возвращаться к делам гостиницы.
 
-#### Сцена
 
 **Болван Бэнь:** Нужно ещё сделать парочку небесных фонариков, но не хватает двух волокон для фонарей и двух фитилей. Босс говорит, что что-нибудь придумает...
 
@@ -294,7 +290,6 @@
 
 Mr. Zhu seems to want to use the Lantern Rite to pick his business up a little...
 
-#### Scene
 
 **Jianqiu:** Thank you for your service. Here's some Mora, please check the amount.
 
@@ -364,7 +359,6 @@ And if there's no guests...
 
 **Mr. Zhu:** *cough* Just pass those materials to Dummy. I'll finalize your payment tomorrow based on the situation.
 
-#### Scene
 
 **Mr. Zhu:** Please hurry with the Delicious Jewelry Soup. It's hard enough to get guests as it is, we mustn't disappoint them.
 
@@ -376,7 +370,6 @@ And if there's no guests...
 
 **Dummy:** We'll need to make more Xiao Lanterns...
 
-#### Scene
 
 **Mr. Zhu:** I need to go attract some guests. I'll give you your rewards a little later.
 
@@ -552,7 +545,6 @@ Yes, they've continued on their journey.
 
 **Mr. Zhu:** Thanks for all your help. I'll get back to matters at the inn now.
 
-#### Scene
 
 **Dummy:** We still need to make a few Xiao Lanterns, but we're missing two Lantern Fibers and two Wick Materials. The boss says that he'll think of something, though...
 
@@ -562,7 +554,6 @@ Yes, they've continued on their journey.
 
 朱老板似乎想要借着这次海灯节让自己的生意再红火一些…
 
-#### 场景
 
 **鉴秋:** 谢谢老板招待了，这是钱，您点一点。
 
@@ -632,7 +623,6 @@ Yes, they've continued on their journey.
 
 **朱老板:** 咳…那你把材料交给阿笨就行了，等明天我看情况给你结算报酬。
 
-#### 场景
 
 **朱老板:** 好不容易来了贵客，「美味的珍珠翡翠白玉汤」还得拜托你赶紧准备上，不能怠慢了客人。
 
@@ -644,7 +634,6 @@ Yes, they've continued on their journey.
 
 **阿笨:** 还得再编些霄灯才行啊…
 
-#### 场景
 
 **朱老板:** 我接着去招揽招揽客人，稍后就算给你报酬。
 
@@ -820,6 +809,5 @@ Yes, they've continued on their journey.
 
 **朱老板:** 谢谢你帮我的忙，我要接着去打理生意了。
 
-#### 场景
 
 **阿笨:** 还得再编几盏霄灯才行，但是还缺两份灯纸纤维、两份灯芯绒材，不过老板说了会想办法…

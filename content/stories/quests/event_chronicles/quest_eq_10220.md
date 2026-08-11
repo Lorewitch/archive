@@ -26,7 +26,6 @@
 
 По прошествии двух дней вы решаете наведаться в ритуальное бюро «Ваншэн», чтобы узнать, вернулась ли Ху Тао...
 
-#### Сцена
 
 **Сяо:** Путешественник, Паймон, как вы себя чувствуете после путешествия к грани?
 
@@ -670,7 +669,6 @@
 
 **Паймон:** Озарение? Ты о чём?
 
-#### Сцена
 
 **Гань Юй:** Привет... Не ожидала увидеть вас здесь, на горе Аоцан.
 
@@ -858,7 +856,6 @@
 
 After two days have passed, you decide to visit the Wangsheng Funeral Parlor to see if Hu Tao has returned...
 
-#### Scene
 
 **Xiao:** Hmm? Traveler, Paimon. How are you feeling after your trip to the border?
 
@@ -1502,7 +1499,6 @@ If I can't connect to the Ley Lines... Hmm, what does that imply?
 
 **Paimon:** A breakthrough? About what?
 
-#### Scene
 
 **Ganyu:** Hey there you two... I wasn't expecting your company here at Mt. Aocang.
 
@@ -1690,7 +1686,6 @@ I learned from the best, Director Hu...
 
 两天过去了，你们打算去往生堂看看胡桃回来了没有…
 
-#### 场景
 
 **魈:** 嗯？旅行者，派蒙。你们刚从边界返回，身体可有不适？
 
@@ -2334,7 +2329,6 @@ I learned from the best, Director Hu...
 
 **派蒙:** …想通了什么事？
 
-#### 场景
 
 **甘雨:** 两位，没想到能在奥藏山碰见你们。
 

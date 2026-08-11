@@ -26,7 +26,6 @@
 
 В горах вы обнаружили интересный дневник, повествующий о секретах одного королевства. Может быть, кто-нибудь в лагере сможет что-нибудь вам рассказать...
 
-#### Сцена
 
 **Паймон:** Что это? ...Дневник?
 
@@ -40,7 +39,6 @@
 
 You discover a strange journal in the mountains that tells of the secrets of a certain kingdom. Perhaps someone at the camp may know more about this journal...
 
-#### Scene
 
 **Paimon:** What's this? ...A notebook?
 
@@ -54,7 +52,6 @@ You discover a strange journal in the mountains that tells of the secrets of a c
 
 在雪山之中，你找到了一份奇怪的日志，上面似乎记载着某个王国的秘密。也许，营地里会有人知道和这本日志有关的线索…
 
-#### 场景
 
 **派蒙:** 咦？这是什么？是一本…日志？
 

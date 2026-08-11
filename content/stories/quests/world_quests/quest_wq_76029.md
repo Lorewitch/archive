@@ -210,7 +210,6 @@
 
 **Айно:** Что? Ты о чём? Позже я проверю твои схемы...
 
-#### Сцена
 
 (Что? Музыка? Коломбина играет на лире для куухенки.)
 
@@ -410,7 +409,6 @@ Over there...
 
 **Aino:** Huh? What are you talking about...? Remind me to check your circuits later...
 
-#### Scene
 
 (Hmm? Music from a lyre? It seems Columbina is playing for the kuuhenki.)
 
@@ -610,7 +608,6 @@ Over there...
 
 **爱诺:** 呃，伊涅芙你在说什么…我等下帮你检查检查线路吧…
 
-#### 场景
 
 (咦？琴声？看来哥伦比娅在给月灵们弹琴。）
 

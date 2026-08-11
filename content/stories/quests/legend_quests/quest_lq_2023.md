@@ -1224,7 +1224,6 @@
 
 ### Без названия 12019
 
-#### Сцена
 
 **Яэ Мико:** Что такое? Ты хочешь поговорить о чём-то ещё?
 
@@ -2456,7 +2455,6 @@ Will you rule Inazuma directly?
 
 ### Untitled 12019
 
-#### Scene
 
 **Yae Miko:** Hmm? Was there something else you wanted to talk about?
 
@@ -3688,7 +3686,6 @@ Will you rule Inazuma directly?
 
 ### 未命名 12019
 
-#### 场景
 
 **八重神子:** 怎么了，还想聊点什么吗？
 

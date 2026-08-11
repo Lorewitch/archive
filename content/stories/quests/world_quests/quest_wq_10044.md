@@ -26,11 +26,9 @@
 
 Прошло достаточно времени с вашей последней встречи с Сумидой. Тогда она сказала, что поищет других людей, взявшихся за её поручение, и обменяется с ними информацией. Вернитесь в Инадзуму и узнайте, как обстоят дела.
 
-#### Сцена
 
 **Ру:** Интересно, как поживает Кама...
 
-#### Сцена
 
 **Уна:** В любом случае, старичок ты мой, не отвлекайся от своих грибов.
 
@@ -46,7 +44,6 @@
 
 **Абэ:** Знаю, знаю.
 
-#### Сцена
 
 **Паймон:** Туман здесь... такой густой...
 
@@ -312,7 +309,6 @@
 
 **Ру:** Попробуем использовать её!
 
-#### Сцена
 
 **Паймон:** Ой, что-то Паймон страшненько... Как тогда, с малышкой Мин...
 
@@ -368,7 +364,6 @@
 
 **Ру:** Тогда увидимся позже!
 
-#### Сцена
 
 **Паймон:** Это... это...
 
@@ -516,7 +511,6 @@
 
 **Сумида:** Хм... Даже Синдзэн, сильнейший персонаж произведения «Три дворянина» по мнению многих, тебе не ровня.
 
-#### Сцена
 
 **Кито:** ...Очень странно! Не говоря уже о том, что священники на рисунках не похожи на дедушку Мату.
 
@@ -548,7 +542,6 @@
 
 **Паймон:** Выходит, так считали дети острова Цуруми... Паймон интересно, во что ещё они верили?
 
-#### Сцена
 
 **Мата:** Я надеюсь, что... Нет, на этот раз Громовая птица наверняка будет довольна церемонией...
 
@@ -590,7 +583,6 @@
 
 **Тисэ:** Я понимаю.
 
-#### Сцена
 
 **Абэ:** ...Может, мне просто хочется, чтобы у него всё хорошо сложилось...
 
@@ -602,7 +594,6 @@
 
 **Паймон:** Не думаю, что мы можем чем-то помочь...
 
-#### Сцена
 
 **Паймон:** Хм... Кажется, нам опять следует отыскать Ру?
 
@@ -812,7 +803,6 @@
 
 **Сумида:** Надо бы пересмотреть то, как я общаюсь с другими...
 
-#### Сцена
 
 **Паймон:** О, здесь ещё одна статуя Громовой птицы... Путешественник, попробуем использовать наше перо!
 
@@ -826,7 +816,6 @@
 
 **Паймон:** Ой, он пропал...
 
-#### Сцена
 
 **Паймон:** ...
 
@@ -886,7 +875,6 @@
 
 **Паймон:** Если по пути увидим Каму, зададим ему пару вопросов.
 
-#### Сцена
 
 **Паймон:** Ох, погоди.
 
@@ -1210,7 +1198,6 @@
 
 **Кама:** Приходите, когда будете готовы.
 
-#### Сцена
 
 **Кама:** Готовы отправиться назад?
 
@@ -1222,7 +1209,6 @@
 
 **Кама:** ...
 
-#### Сцена
 
 **Кама:** Готовы?
 
@@ -1362,7 +1348,6 @@
 
 **???:** Пойдёмте со мной.
 
-#### Сцена
 
 **Ипэ:** Сделано.
 
@@ -1564,7 +1549,6 @@
 
 **Паймон:** Мы ведь пришли помочь!
 
-#### Сцена
 
 **Кама:** Что такое?
 
@@ -1578,7 +1562,6 @@
 
 **Кама:** До свидания!
 
-#### Сцена
 
 **Ру:** Путешественник!
 
@@ -1604,7 +1587,6 @@
 
 **Макири:** Как сложно...
 
-#### Сцена
 
 **Абэ:** Я бы хотел покинуть туманное море и увидеть, что лежит за его пределами. Хотя бы разок...
 
@@ -1668,7 +1650,6 @@
 
 **Кама:** ...
 
-#### Сцена
 
 **Паймон:** А?.. Куда он направился?
 
@@ -2032,7 +2013,6 @@
 
 **Паймон:** Они сказали, что в этих жёрдочках заключена сила Громовой птицы, так? Может, они отреагируют, если мы их разнесём в пух и прах...
 
-#### Сцена
 
 **Паймон:** Ру здесь нет...
 
@@ -2052,7 +2032,6 @@
 
 **Паймон:** Да.
 
-#### Сцена
 
 **Паймон:** Сработало! Это сработало!
 
@@ -2068,7 +2047,6 @@
 
 **Паймон:** Да!
 
-#### Сцена
 
 **Сумида:** Удовлетворите моё любопытство... Поскольку ты являешься потомком жителей острова Цуруми, и твоя семья, кажется, весьма заинтересована в передаче своего наследия...
 
@@ -2094,7 +2072,6 @@
 
 **Сумида:** Очень хорошо. Я обязательно включу это в рассказ.
 
-#### Сцена
 
 **Паймон:** Всё сделано. Вряд ли есть другие гнездовья.
 
@@ -2122,7 +2099,6 @@
 
 **Кама:** Успехов вам.
 
-#### Сцена
 
 **Паймон:** Как страшно!
 
@@ -2806,7 +2782,6 @@
 
 **Паймон:** А, Путешественник, ты вернулся / вернулась!
 
-#### Сцена
 
 **Сумида:** Что будете заказывать? Не стесняйтесь!
 
@@ -3514,7 +3489,6 @@
 
 **Ру:** Нам обязательно нужно как-нибудь встретиться!
 
-#### Сцена
 
 **Ру:** Я могу отправиться в другие места! Ура!
 
@@ -3524,11 +3498,9 @@
 
 It has been a while since you last contacted Sumida. She said earlier that she would look for some of the other people who took up her commission and conduct an information exchange. Go back to Inazuma and look for her to see how her attempt proceeds.
 
-#### Scene
 
 **Ruu:** I wonder how Big Brother Kama's doing...
 
-#### Scene
 
 **Una:** Whatever the case, old man, just mind your own mushrooms.
 
@@ -3544,7 +3516,6 @@ It has been a while since you last contacted Sumida. She said earlier that she w
 
 **Abe:** I know, I know.
 
-#### Scene
 
 **Paimon:** The fog here... really is super thick...
 
@@ -3810,7 +3781,6 @@ They're both fine.
 
 **Ruu:** Let's try using it!
 
-#### Scene
 
 **Paimon:** Uhh, Paimon's getting nervous... It's like that time with Dusky Ming...
 
@@ -3866,7 +3836,6 @@ They're both fine.
 
 **Ruu:** Well then, let's meet again later!
 
-#### Scene
 
 **Paimon:** This... This is...
 
@@ -4014,7 +3983,6 @@ We haven't actually talked about that yet...
 
 **Sumida:** Hmm, even "Shinzen," widely regarded as the strongest character in "The Three Young Nobles," would be no match for you.
 
-#### Scene
 
 **Kito:** ...That's just weird. And the priests on the drawings up there don't look like Grandpa Mata or the others at all.
 
@@ -4046,7 +4014,6 @@ We might as well listen in...
 
 **Paimon:** So the children of Tsurumi Island thought this way, huh. Paimon wonders what else they believed?
 
-#### Scene
 
 **Mata:** I hope that... No, the Great Thunderbird will surely be pleased with the ceremony this time...
 
@@ -4088,7 +4055,6 @@ We might as well listen in...
 
 **Chise:** As you wish.
 
-#### Scene
 
 **Abe:** ...Maybe I just wish that all will go well with him...
 
@@ -4100,7 +4066,6 @@ We might as well listen in...
 
 **Paimon:** Doesn't seem like we can be of any help here...
 
-#### Scene
 
 **Paimon:** Hmm, looks like we've gotta go look for Ruu again, huh?
 
@@ -4310,7 +4275,6 @@ The location closest to us is...
 
 **Sumida:** I need to reflect on how I speak to people...
 
-#### Scene
 
 **Paimon:** Ooh, looks like there's another Thunderbird statue here. C'mon, Traveler, let's give our feather a try!
 
@@ -4324,7 +4288,6 @@ The location closest to us is...
 
 **Paimon:** Ah, he's gone...
 
-#### Scene
 
 **Paimon:** ...
 
@@ -4384,7 +4347,6 @@ The people here can't seem to see us.
 
 **Paimon:** If we meet Kama along the way, let's ask him some questions as well.
 
-#### Scene
 
 **Paimon:** Ah, wait a moment.
 
@@ -4708,7 +4670,6 @@ Another?
 
 **Kama:** Come back once you are, then.
 
-#### Scene
 
 **Kama:** Are you ready to head back?
 
@@ -4720,7 +4681,6 @@ Another?
 
 **Kama:** ...
 
-#### Scene
 
 **Kama:** Are you ready?
 
@@ -4860,7 +4820,6 @@ So there'll be a ceremony?
 
 **???:** Either way, Traveler, Paimon, come with me!
 
-#### Scene
 
 **Ipe:** Well, that's done.
 
@@ -5062,7 +5021,6 @@ We can go have a look at those.
 
 **Paimon:** We're here to help, too!
 
-#### Scene
 
 **Kama:** What is it?
 
@@ -5076,7 +5034,6 @@ We can go have a look at those.
 
 **Kama:** Goodbye.
 
-#### Scene
 
 **Ruu:** Oh, Traveler!
 
@@ -5102,7 +5059,6 @@ We can go have a look at those.
 
 **Makiri:** But it totally is, though~
 
-#### Scene
 
 **Abe:** Even if it was only just once, I'd love to leave the Sea of Fog and see what lies beyond...
 
@@ -5166,7 +5122,6 @@ Is something wrong?
 
 **Kama:** ...
 
-#### Scene
 
 **Paimon:** ...Eh? Where'd he go?
 
@@ -5530,7 +5485,6 @@ But they're illusions of the past...
 
 **Paimon:** They said that these perches contain the Thunderbird's power, right? Maybe they'll react if we blow them away...
 
-#### Scene
 
 **Paimon:** Ruu's not here...
 
@@ -5550,7 +5504,6 @@ You're right. Let's do this.
 
 **Paimon:** Yeah!
 
-#### Scene
 
 **Paimon:** Ooh! It works! It really works!
 
@@ -5566,7 +5519,6 @@ You're right. Let's do this.
 
 **Paimon:** Uh-huh!
 
-#### Scene
 
 **Sumida:** Indulge my curiosity for a moment... Since you're a descendant of Tsurumi Island's people and your family seems quite interested in handing down their history...
 
@@ -5592,7 +5544,6 @@ You're right. Let's do this.
 
 **Sumida:** That's not bad, actually. I'll include that into the story!
 
-#### Scene
 
 **Paimon:** That should be all of those perches.
 
@@ -5620,7 +5571,6 @@ You're right. Let's do this.
 
 **Kama:** Best of luck to you.
 
-#### Scene
 
 **Paimon:** Th—That was close!
 
@@ -6304,7 +6254,6 @@ Ruu says he's thankful to you.
 
 **Paimon:** Ah, Traveler, you're back!
 
-#### Scene
 
 **Sumida:** Well then, anything you want to eat? Don't be shy, now!
 
@@ -7012,7 +6961,6 @@ Okay. Goodbye!
 
 **Ruu:** We'll definitely meet again!
 
-#### Scene
 
 **Ruu:** I can leave now, woohoo!
 
@@ -7022,11 +6970,9 @@ Okay. Goodbye!
 
 距离上次与墨田的接触已经过了一段时间，此前她似乎说了会找一些别的接受过她委托的人来互通情报。到稻妻城去找墨田看看情况吧。
 
-#### 场景
 
 **阿瑠:** 不知道阿釜哥哥现在怎么样了…
 
-#### 场景
 
 **宇奈:** 不管怎么说，老头子，你管好自己的蘑菇就行了。
 
@@ -7042,7 +6988,6 @@ Okay. Goodbye!
 
 **阿部:** 知道啦。
 
-#### 场景
 
 **派蒙:** 这里的迷雾…真的好浓…
 
@@ -7308,7 +7253,6 @@ Okay. Goodbye!
 
 **阿瑠:** 嗯…那我们试试看吧！
 
-#### 场景
 
 **派蒙:** 哇，感觉心里毛毛的…就像小冥一样…
 
@@ -7364,7 +7308,6 @@ Okay. Goodbye!
 
 **阿瑠:** 那么，我们晚点再见！
 
-#### 场景
 
 **派蒙:** 这是…难道是…
 
@@ -7512,7 +7455,6 @@ Okay. Goodbye!
 
 **墨田:** 嗯…毕竟，就算是《三匹之小姓》里一般被认为最强的「新蝉」，恐怕也不如你们吧。
 
-#### 场景
 
 **木户:** …很奇怪吧！而且，上面画的祭司人像，也不像又爷爷他们。
 
@@ -7544,7 +7486,6 @@ Okay. Goodbye!
 
 **派蒙:** 原来鹤观的小孩子是这么想的呀…不知道他们还有什么想法呢？
 
-#### 场景
 
 **又:** 这次的祭典，希望…不，雷鸟大人一定会满意的吧…
 
@@ -7586,7 +7527,6 @@ Okay. Goodbye!
 
 **知世:** 我明白了。
 
-#### 场景
 
 **阿部:** …可能，我只是希望他一切安好吧…
 
@@ -7598,7 +7538,6 @@ Okay. Goodbye!
 
 **派蒙:** 感觉好像没什么帮得上忙的…
 
-#### 场景
 
 **派蒙:** 嗯…感觉，好像又要回去找阿瑠？
 
@@ -7808,7 +7747,6 @@ Okay. Goodbye!
 
 **墨田:** 要好好反省自己说话的方式才行…
 
-#### 场景
 
 **派蒙:** 欸？这里也有那种雷鸟的雕像…旅行者，我们用那个「羽毛」看看吧！
 
@@ -7822,7 +7760,6 @@ Okay. Goodbye!
 
 **派蒙:** 啊，不见了…
 
-#### 场景
 
 **派蒙:** ……
 
@@ -7882,7 +7819,6 @@ Okay. Goodbye!
 
 **派蒙:** 如果遇到阿釜，就顺便把事情问清楚。
 
-#### 场景
 
 **派蒙:** 啊，等一等。
 
@@ -8206,7 +8142,6 @@ Okay. Goodbye!
 
 **阿釜:** 准备好了再来。
 
-#### 场景
 
 **阿釜:** 准备好启程回去了吗？
 
@@ -8218,7 +8153,6 @@ Okay. Goodbye!
 
 **阿釜:** ……
 
-#### 场景
 
 **阿釜:** 准备好了吗？
 
@@ -8358,7 +8292,6 @@ Okay. Goodbye!
 
 **？？？:** 总之，旅行者空/荧、派蒙，跟我来吧！
 
-#### 场景
 
 **伊部:** 总算完成了。
 
@@ -8560,7 +8493,6 @@ Okay. Goodbye!
 
 **派蒙:** 我们明明是来帮忙的！
 
-#### 场景
 
 **阿釜:** 怎么了？
 
@@ -8574,7 +8506,6 @@ Okay. Goodbye!
 
 **阿釜:** 再见。
 
-#### 场景
 
 **阿瑠:** 旅行者空/荧！
 
@@ -8600,7 +8531,6 @@ Okay. Goodbye!
 
 **牧梨:** 好复杂哦~
 
-#### 场景
 
 **阿部:** 这辈子只有一次也好，真想去「雾海」外边看看啊…
 
@@ -8664,7 +8594,6 @@ Okay. Goodbye!
 
 **阿釜:** ……
 
-#### 场景
 
 **派蒙:** 欸？怎么人都没了…？
 
@@ -9028,7 +8957,6 @@ Okay. Goodbye!
 
 **派蒙:** 里面不是说有雷鸟的力量吗？说不定，他们会有什么反应…
 
-#### 场景
 
 **派蒙:** 阿瑠不在…
 
@@ -9048,7 +8976,6 @@ Okay. Goodbye!
 
 **派蒙:** 嗯。
 
-#### 场景
 
 **派蒙:** 有用！这招真的有用！
 
@@ -9064,7 +8991,6 @@ Okay. Goodbye!
 
 **派蒙:** 嗯！
 
-#### 场景
 
 **墨田:** 我只是顺便一问…既然你是鹤观人的后代，而且好像家族对知识传承很在意…
 
@@ -9090,7 +9016,6 @@ Okay. Goodbye!
 
 **墨田:** 这个不错，我要写进小说里去！
 
-#### 场景
 
 **派蒙:** 全部解决了。应该，这些就是所有的栖木了。
 
@@ -9118,7 +9043,6 @@ Okay. Goodbye!
 
 **阿釜:** 祝你们好运。
 
-#### 场景
 
 **派蒙:** 好、好可怕！
 
@@ -9802,7 +9726,6 @@ Okay. Goodbye!
 
 **派蒙:** 啊。旅行者，你回来了！
 
-#### 场景
 
 **墨田:** 那么，有什么想吃的？尽管说，不用客气！
 
@@ -10510,6 +10433,5 @@ Okay. Goodbye!
 
 **阿瑠:** 我们一定会再见的！
 
-#### 场景
 
 **阿瑠:** 能到外面去了，好高兴喔！

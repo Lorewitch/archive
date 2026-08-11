@@ -108,7 +108,6 @@
 
 **Катерина:** Однако мне вспомнилась одна книга, автора которой как раз звали Леонард. Может быть, вам лучше сходить в библиотеку?
 
-#### Сцена
 
 **Паймон:** Автор, Леонард... Леонард... Есть!
 
@@ -116,7 +115,6 @@
 
 **Паймон:** Северо-западная часть... Это, должно быть, прямо под нами!
 
-#### Сцена
 
 **Паймон:** Паймон нашла! «Книга гор и морей», настольная книга искателей приключений, автор - Леонард!
 
@@ -180,7 +178,6 @@
 
 **Мона:** Риф Маска.
 
-#### Сцена
 
 **Мона:** А? Так это и есть бывший Колпачный пик? Какой он теперь крохотный.
 
@@ -238,7 +235,6 @@
 
 **Сказитель:** Мне пора на встречу с истиной. А вам, щенки, до свиданьица!
 
-#### Сцена
 
 **Паймон:** А ты страшный человек!
 
@@ -258,7 +254,6 @@
 
 **Паймон:** Главный метеорит должен быть где-то неподалёку!
 
-#### Сцена
 
 **Паймон:** Ого, это он? Этот метеорит не похож на остальные. Более... блестящий, что ли?
 
@@ -410,7 +405,6 @@ Come on Paimon, let's go.
 
 **Katheryne:** However, I do recall that there is a book in the library authored by someone called Leonard. Perhaps you should take a look?
 
-#### Scene
 
 **Paimon:** Author, Leonard... Where are you, Leonard... Aha! Gotcha!
 
@@ -418,7 +412,6 @@ Come on Paimon, let's go.
 
 **Paimon:** North-west corner... Should be right over there.
 
-#### Scene
 
 **Paimon:** Found it! "Of Mountains and Seas," A Guide for Adventurers, written by Leonard!
 
@@ -482,7 +475,6 @@ How will we find it?
 
 **Mona:** ...as "Musk Reef."
 
-#### Scene
 
 **Mona:** Ho? So this is Pilos Peak? Not much to show for itself now, eh?
 
@@ -540,7 +532,6 @@ What is it?
 
 **The Balladeer:** Time for me to go out and find the truth. So long, suckers!
 
-#### Scene
 
 **Paimon:** Wow, you fought so fiercely!
 
@@ -560,7 +551,6 @@ Mona, you are a force to be reckoned with.
 
 **Paimon:** The core has gotta be round here somewhere!
 
-#### Scene
 
 **Paimon:** Whoa, this must be the core... It looks totally different from all the other meteorites! It's way more... shiny.
 
@@ -712,7 +702,6 @@ I wish everyone a speedy recovery.
 
 **凯瑟琳:** 但我记得，有一本作者名叫莱纳德的书，你们不如去图书馆看看吧？
 
-#### 场景
 
 **派蒙:** 作者，莱纳德…莱纳德…有了！
 
@@ -720,7 +709,6 @@ I wish everyone a speedy recovery.
 
 **派蒙:** 西北角…应该就是那边吧！
 
-#### 场景
 
 **派蒙:** 找到了！冒险家手册《山与海之书》，作者莱纳德！
 
@@ -784,7 +772,6 @@ I wish everyone a speedy recovery.
 
 **莫娜:** 「马斯克礁」。
 
-#### 场景
 
 **莫娜:** 哦？这就是从前的尖帽子峰吗？变得好小呢。
 
@@ -842,7 +829,6 @@ I wish everyone a speedy recovery.
 
 **「散兵」:** 我现在必须去确认「真相」。那么，再见了，菜鸟们！
 
-#### 场景
 
 **派蒙:** 真是一场恶战啊！
 
@@ -862,7 +848,6 @@ I wish everyone a speedy recovery.
 
 **派蒙:** 陨石的核心，一定就在这里附近！
 
-#### 场景
 
 **派蒙:** 哇，这就是核心吗，和其他陨石不太一样呢！有种…明亮的感觉？
 

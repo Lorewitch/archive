@@ -26,7 +26,6 @@
 
 Ходят слухи, что в районе Рифа громовых раскатов появился фиолетовый барсук-стиляга...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -40,7 +39,6 @@
 
 There have been rumored sightings of a purple Chic Badger around Thunderclap Reef...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -54,7 +52,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 在雷图礁一带有紫色帔髦獾出没的传闻…
 
-#### 场景
 
 快速做好了调查的准备…
 

@@ -26,7 +26,6 @@
 
 Оказавшись в Петрикоре, вы становитесь свидетелями некоторых странных происшествий и решаете выяснить, что происходит...
 
-#### Сцена
 
 **Лидер:** Эй ты, медлительный болван! Почему ещё столько ящиков не перенесено на корабль?! Сколько ещё это будет продолжаться?
 
@@ -124,7 +123,6 @@
 
 **Паймон:** ...Эй! Путешественник, ты...
 
-#### Сцена
 
 **Кассиодор:** Ваше величество, ваше величество...
 
@@ -154,7 +152,6 @@
 
 **Кассиодор:** Прошу, следуйте за мной.
 
-#### Сцена
 
 **Сцилла:** Рем, Рем...
 
@@ -194,7 +191,6 @@
 
 Ничего, я в норме. Прости, что заставил(а) побеспокоиться.
 
-#### Сцена
 
 **«Звонарь»:** Добро пожаловать, о путешествующие по миру грёз.
 
@@ -494,7 +490,6 @@
 
 You encounter a series of strange occurrences after arriving in Petrichor for the first time. You decide to get to the bottom of it all...
 
-#### Scene
 
 **Leader:** Hey, you! Yes, you! You blithering idiot! What are you doing dragging your feet for? Waiting for us all to get old!? Why in the blazes aren't all these boxes already on the ship!?
 
@@ -592,7 +587,6 @@ Why don't we have a look at the "treasure"?
 
 **Paimon:** ...Hey! Traveler, you...
 
-#### Scene
 
 **Cassiodor:** Imperator. Imperator...
 
@@ -622,7 +616,6 @@ The collapse of all that was once radiant.
 
 **Cassiodor:** In any case, please, come with me.
 
-#### Scene
 
 **Scylla:** Remus, Remus...
 
@@ -662,7 +655,6 @@ I think I had a strange daydream...
 
 I'm fine. Sorry for making you worry.
 
-#### Scene
 
 **"Bellringer":** Welcome, travelers, O traversers of dreamscapes.
 
@@ -962,7 +954,6 @@ Then let's have a look around for starters.
 
 初到佩特莉可镇便遇上了一连串怪事，你决定前往镇上一探究竟…
 
-#### 场景
 
 **领头的家伙:** 喂，你这笨蛋！怎么还有这么多箱子没搬到船上，磨磨蹭蹭的…要搞到什么时候啊！
 
@@ -1060,7 +1051,6 @@ Then let's have a look around for starters.
 
 **派蒙:** …喂！旅行者，你…
 
-#### 场景
 
 **卡西奥多:** 王上，王上…
 
@@ -1090,7 +1080,6 @@ Then let's have a look around for starters.
 
 **卡西奥多:** 总之，请随我来吧，王上。
 
-#### 场景
 
 **斯库拉:** 雷穆斯，雷穆斯…
 
@@ -1130,7 +1119,6 @@ Then let's have a look around for starters.
 
 我没事。让你担心了。
 
-#### 场景
 
 **「敲钟人」:** 欢迎你们，穿越梦境之地的旅人。
 

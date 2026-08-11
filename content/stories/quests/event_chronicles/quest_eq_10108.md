@@ -314,7 +314,6 @@
 
 **Паймон:** Двери и окна в порядке, так что взлома точно не было...
 
-#### Сцена
 
 **Паймон:** Это место совершенно пустое... Здесь вообще не осталось ничего ценного...
 
@@ -1260,7 +1259,6 @@ That does sound like a good idea.
 
 **Paimon:** The doors and windows are all fine, so there definitely wasn't a break-in...
 
-#### Scene
 
 **Paimon:** This place is completely empty... There's nothing valuable left here at all...
 
@@ -2206,7 +2204,6 @@ Absolutely.
 
 **派蒙:** 门窗检查下来一切正常，不存在被撬开的可能性…
 
-#### 场景
 
 **派蒙:** 屋子里面看进去空荡荡的，什么贵重的东西都没有…
 

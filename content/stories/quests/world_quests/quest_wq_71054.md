@@ -166,13 +166,11 @@
 
 **Янь Бо:** Все готовы? Выдвигаемся!
 
-#### Сцена
 
 Я предлагаю вам для начала зачистить алхимический лагерь.
 
 **Янь Бо:** Хорошо, мы опечатаем их алхимическое оборудование.
 
-#### Сцена
 
 Я предлагаю вам для начала зачистить оружейный лагерь.
 
@@ -190,7 +188,6 @@
 
 **Янь Бо:** Мы опечатаем эти украденные вещи как можно скорее, а остальное оставим нашим (героиням)(героям).
 
-#### Сцена
 
 **Янь Бо:** Их арбалеты хорошо сохранились, но, к сожалению, теперь они наши. Посмотрим, сколько лет они получат за одно только оружие...
 
@@ -390,13 +387,11 @@ I'd suggest that you hit the cooking quarters first.
 
 **Yanbo:** Ready? Let's go!
 
-#### Scene
 
 I think hitting the alchemy camp first will do the most damage to them.
 
 **Yanbo:** Good. We'll put a stop to whatever they're brewing.
 
-#### Scene
 
 I think hitting the weapons stash first will make our lives easier.
 
@@ -414,7 +409,6 @@ I think hitting the weapons stash first will make our lives easier.
 
 **Yanbo:** We'll get these things impounded and cleared out as soon as possible. As for the rest down there, we'll need your help.
 
-#### Scene
 
 **Yanbo:** Their bows were actually quite well-maintained. That said, they're ours now. I wonder how many years they'll get just for illegal ownership of these...
 
@@ -614,13 +608,11 @@ I think hitting the weapons stash first will make our lives easier.
 
 **彦博:** 准备好了吗？我们出发！
 
-#### 场景
 
 先清剿炼金营地能够削弱他们。
 
 **彦博:** 很好，我们这就去查封他们的炼金设备。
 
-#### 场景
 
 先清剿兵器营地会更方便。
 
@@ -638,7 +630,6 @@ I think hitting the weapons stash first will make our lives easier.
 
 **彦博:** 我们这边会尽快查封这些赃物，下面就要多赖英雄帮忙了。
 
-#### 场景
 
 **彦博:** 他们的弩箭保养的不错，可惜现在是我们的了。让我看看光是这些武器能判他们多少年吧…
 

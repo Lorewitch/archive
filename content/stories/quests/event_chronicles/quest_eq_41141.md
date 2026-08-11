@@ -26,7 +26,6 @@
 
 Особый заказ ждёт своей доставки на постоялом дворе «Ваншу»...
 
-#### Сцена
 
 Я пока занят(а).
 
@@ -68,7 +67,6 @@
 
 Wangshu Inn has a special order that needs sending out...
 
-#### Scene
 
 I've got other things to do at the moment.
 
@@ -110,7 +108,6 @@ Here's the dish you ordered.
 
 璃月的望舒客栈里有一份特别订单正等待着派送…
 
-#### 场景
 
 还有别的事。
 

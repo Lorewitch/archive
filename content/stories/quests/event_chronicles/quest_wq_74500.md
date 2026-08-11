@@ -26,7 +26,6 @@
 
 Вы получили особое поручение от Мастерской заводных механизмов Лешо, магазина игрушек в Кур-де-Фонтейне. У них возникли трудности?
 
-#### Сцена
 
 **Арбон:** Как же это раздражает!
 
@@ -370,11 +369,9 @@
 
 **Ливр:** А что если я скажу, что Арбон и Альберре на самом деле сверхреалистичные, суперкачественные куклы, созданные по принципу комического дуэта?
 
-#### Сцена
 
 **Карон:** Да... В последнее время Арманд выглядит намного лучше.
 
-#### Сцена
 
 **Арманд:** Здра... Здравствуйте! Меня... зовут... Ар... Арманд...
 
@@ -384,7 +381,6 @@
 
 You received a special commission from Leschots Clockwork Workshop. This is a toy shop in the Court of Fontaine. Have they encountered some manner of trouble?
 
-#### Scene
 
 **Arbon:** This is so annoying.
 
@@ -728,11 +724,9 @@ But his shop is very popular, isn't it?
 
 **Livre:** What would you think if I told you that Arbon and Alberre are in fact ultra-realistic, ultra-high-quality puppets based on the theme of "double act"?
 
-#### Scene
 
 **Caron:** Hmm... Armand seems to be doing a lot better lately.
 
-#### Scene
 
 **Armand:** H—H—Hello, you t—two... My name is... is... A—A—Armand...
 
@@ -742,7 +736,6 @@ But his shop is very popular, isn't it?
 
 收到了莱舒的发条工坊的特殊委托，那是枫丹廷的一家发条玩具专营店，他们遇到什么麻烦了吗？
 
-#### 场景
 
 **阿尔邦:** 真讨厌啊。
 
@@ -1086,10 +1079,8 @@ But his shop is very popular, isn't it?
 
 **利弗:** 如果我说，阿尔邦和阿尔贝其实就是以「双人喜剧」为题材制作的仿真玩具魔偶，您怎么想？
 
-#### 场景
 
 **卡隆:** 嗯…阿尔芒最近的情况看起来好很多了。
 
-#### 场景
 
 **阿尔芒:** 两…两…两位好，我叫…阿…阿…阿尔芒…

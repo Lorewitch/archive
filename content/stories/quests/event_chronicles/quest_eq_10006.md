@@ -108,7 +108,6 @@
 
 **Паймон:** Кстати, а что там говорили про отряды из двух человек? Смотрите, у нас собрался отряд из целых четверых!
 
-#### Сцена
 
 **Паймон:** Это Спрингвейл. Катерина сказала, что ближе всего к Мондштадту метеорит упал именно здесь.
 
@@ -228,7 +227,6 @@
 
 **Паймон:** Вот это правильно. Пойдём и поищем его!
 
-#### Сцена
 
 **Аллан:** Фух! Я думал, что мне тут конец придёт!
 
@@ -268,7 +266,6 @@
 
 **Паймон:** Паймон думает... Может, так и есть? Давайте попробуем отыскать осколки метеоритов с помощью Глаза Бога Фишль, и сделаем округу безопаснее.
 
-#### Сцена
 
 **Паймон:** Похоже, последний. Помогло ли это жителям Спрингвейла?
 
@@ -400,7 +397,6 @@ Katheryne, is that the same thing you were talking about?
 
 **Paimon:** Oh, and that's another thing... What's all this about traveling in pairs? This is clearly a party of four!
 
-#### Scene
 
 **Paimon:** We're in Springvale now. Katheryne said that this is the closest impact site to the city.
 
@@ -520,7 +516,6 @@ So he works in the wine business?
 
 **Paimon:** Paimon could not agree more! Let's go find that rascal and drag him back by the ears!
 
-#### Scene
 
 **Allan:** Phew! I thought I was going to die here...
 
@@ -560,7 +555,6 @@ The meteorite is just over there.
 
 **Paimon:** Paimon thinks... probably yes? Anyway, no harm in giving it a try! Let's look for shards of meteorite using Fischl's Vision — clearing them away will help make the area less dangerous.
 
-#### Scene
 
 **Paimon:** That seems to be the last of them. Do you think getting rid of them will help make things better for the Springvale villagers?
 
@@ -692,7 +686,6 @@ Then everyone else will wake up, too!
 
 **派蒙:** 话说回来，我们哪是二人小队，明明是四人小队啊…
 
-#### 场景
 
 **派蒙:** 这里就是凯瑟琳所说离蒙德最近的事发地点，清泉镇。
 
@@ -812,7 +805,6 @@ Then everyone else will wake up, too!
 
 **派蒙:** 说得对，那我们现在就去找他吧！
 
-#### 场景
 
 **艾伦:** 啊！我还以为我会死在那里！
 
@@ -852,7 +844,6 @@ Then everyone else will wake up, too!
 
 **派蒙:** 感觉…也许可以？要不我们就先试试，能不能利用神之眼来搜索陨石碎片、清理危害吧？
 
-#### 场景
 
 **派蒙:** 这样一来应该就清理得差不多了。会对清泉镇的村民有帮助吗？
 

@@ -26,7 +26,6 @@
 
 Похоже, станция «Хэчжэ» устраивает интересное событие под названием «Путешествие по Чэньюй»...
 
-#### Сцена
 
 **Фан Цзюй:** Хотите принять участие в конкурсе пейзажной фотографии «Путешествие по Чэньюй»?
 
@@ -80,7 +79,6 @@
 
 **Чжу Чунь:** Интересно, может ли пейзаж долины Чэньюй на этом фотоконкурсе получиться ещё лучше?
 
-#### Сцена
 
 **Паймон:** Привет! Это твой пеликан? Можно, мы сфотографируем его на фоне деревни Цяоин?
 
@@ -104,7 +102,6 @@
 
 **Паймон:** Путешественник, давай попробуем вон оттуда. Если получится привлечь пеликана, это повысит шансы на успех нашей работы!
 
-#### Сцена
 
 **Паймон:** Попробуй позвать их.
 
@@ -144,7 +141,6 @@
 
 **Акаи:** В общем, до свидания. Надеюсь, наше знакомство принесёт мне удачу!
 
-#### Сцена
 
 **Ма Ли:** Здравствуй, (дорогая подруга)(дорогой друг). Ты тоже хочешь принять участие в конкурсе пейзажной фотографии?
 
@@ -156,7 +152,6 @@
 
 **Ма Ли:** Эй! Не уходи!
 
-#### Сцена
 
 **Акаи:** Хм... Куда бы нам двинуться дальше?..
 
@@ -232,7 +227,6 @@
 
 Hezhe Post seems to be organizing an interesting event named "Our Chenyu Vale Trek"...
 
-#### Scene
 
 **Fangju:** Are you here to take part in the "Our Chenyu Vale Trek" scenic photography contest?
 
@@ -286,7 +280,6 @@ It is, but...
 
 **Zhuchun:** I wonder if the Chenyu Vale's spots for this contest will be able to top the ones you've experienced?
 
-#### Scene
 
 **Paimon:** Is this pelican here yours, kid? Could we photograph it alongside Qiaoying Village?
 
@@ -310,7 +303,6 @@ You speak pelican?
 
 **Paimon:** Traveler, let's give it a go over there! If we can attract a pelican, it'll increase our work's chances of success!
 
-#### Scene
 
 **Paimon:** Let's try calling the pelicans.
 
@@ -350,7 +342,6 @@ So you're participating in the photography contest, too?
 
 **Akai:** Yeah! That sounds good. Goodbye, you two! Hopefully, things start turning out well for me now!
 
-#### Scene
 
 **Mali:** My dear friend, are you here to participate in the photography competition as well?
 
@@ -362,7 +353,6 @@ So you're participating in the photography contest, too?
 
 **Mali:** Hey... Don't leave!
 
-#### Scene
 
 **Akai:** Let's see... Where should I go next?
 
@@ -438,7 +428,6 @@ So you're participating in the photography contest, too?
 
 合辙驿似乎正在举办一场名为「沉玉之旅」的奇妙活动…
 
-#### 场景
 
 **方矩:** 两位是来参加「沉玉之旅」风光留影赛的吧？
 
@@ -492,7 +481,6 @@ So you're participating in the photography contest, too?
 
 **渚春:** 不知道这次留影赛里的沉玉谷风光，能否更胜一筹呢？
 
-#### 场景
 
 **派蒙:** 小朋友，这只鹈鹕是你家的吗？我们能不能给它和翘英庄一起留个影？
 
@@ -516,7 +504,6 @@ So you're participating in the photography contest, too?
 
 **派蒙:** 旅行者，我们去那边试试吧，如果能引来鹈鹕，一定会为我们的作品添加胜算！
 
-#### 场景
 
 **派蒙:** 来试试呼唤鹈鹕们吧。
 
@@ -556,7 +543,6 @@ So you're participating in the photography contest, too?
 
 **赤井:** 嗯！那就这样吧，再会了两位，希望遇见你们是我转运的开始！
 
-#### 场景
 
 **马里:** 我亲爱的朋友，你也是来参加留影风光赛的吗？
 
@@ -568,7 +554,6 @@ So you're participating in the photography contest, too?
 
 **马里:** 欸欸…别走啊！
 
-#### 场景
 
 **赤井:** 让我想想，接下来应该去哪个地方呢。
 

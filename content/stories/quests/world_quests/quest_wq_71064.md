@@ -50,7 +50,6 @@
 
 **Ван:** О Солнечных часах эпох...
 
-#### Сцена
 
 **Ван:** Предметы, которые вам нужно найти, - это шлем, перо, кубок, солнечные часы, цветок и копьё.
 
@@ -62,7 +61,6 @@
 
 **Ван:** Об Общем кубке...
 
-#### Сцена
 
 **Ван:** Говорят, что Шлем защиты находится в покоях обычного человека, но только герой может его вызвать... Эти сказки мне рассказывали в детстве перед сном...
 
@@ -146,7 +144,6 @@ According to a local legend at The Chasm, one may be able to obtain the "treasur
 
 **Wang:** Tell me about the Sundial of Ages.
 
-#### Scene
 
 **Wang:** The items you need to find are the Helm, the Feather, the Cup, the Sundial, the Flower, and the Spear.
 
@@ -158,7 +155,6 @@ According to a local legend at The Chasm, one may be able to obtain the "treasur
 
 **Wang:** Tell me about the Cup of Commons.
 
-#### Scene
 
 **Wang:** The Helm of Warding is said to rest in the room of an ordinary person, yet may not be summoned forth by anyone but a hero... Well, this was a story I used to fall asleep to, so...
 
@@ -242,7 +238,6 @@ According to a local legend at The Chasm, one may be able to obtain the "treasur
 
 **阿望:** 关于「岁时之晷」…
 
-#### 场景
 
 **阿望:** 需要找到的供物分别是「冠」、「羽」、「杯」、「晷」、「花」和「枪」。
 
@@ -254,7 +249,6 @@ According to a local legend at The Chasm, one may be able to obtain the "treasur
 
 **阿望:** 关于「共饮之杯」…
 
-#### 场景
 
 **阿望:** 听说「庇佑之冠」隐居于凡人的斗室之内，非勇者则呼之不出，唤而不得…哈哈，我小时候也是听着这个版本的故事入睡的…
 

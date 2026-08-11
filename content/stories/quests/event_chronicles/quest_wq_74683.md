@@ -1,6 +1,6 @@
 # id: quest_wq_74683
 # story_group: event_chronicles
-# display_category: Ивент · Reel Ad-Venture }}
+# display_category: Ивент · Мастер монтажа
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Заметки режиссёра
 # title_en: Filmmaking Notes
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_74686
 # related_quests: quest_wq_74686
 # quest_chain: quest_wq_74683,quest_wq_74686
-# quest_series: Reel Ad-Venture }}
+# quest_series: Reel Ad-Venture
 # version_source: wiki_release_category
 
 ## RU

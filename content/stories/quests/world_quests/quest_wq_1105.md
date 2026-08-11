@@ -270,7 +270,6 @@
 
 **Дайнслейф:** Вот как? Ясно...
 
-#### Сцена
 
 **Чарльз:** Добро пожаловать, господин. Ваш заказ уже ожидает.
 
@@ -862,7 +861,6 @@ How did you know that Venti is...!?
 
 **Dainsleif:** So... this is your answer, then... I understand.
 
-#### Scene
 
 **Charles:** Ah, welcome, sir. The wine that you previously ordered is here.
 
@@ -1454,7 +1452,6 @@ And I will find her / him.
 
 **戴因斯雷布:** 这就是你的回答吗…我知道了。
 
-#### 场景
 
 **查尔斯:** 啊，欢迎光临，先生。您预订的酒已经准备好了。
 

@@ -519,19 +519,16 @@
 
 **Паймон:** Ну ничего! Мы опытные искатели приключений, так что найдём всенепременно!
 
-#### Сцена
 
 Мари-Анн...
 
 **Паймон:** Хм, знакомое имя...
 
-#### Сцена
 
 Как в той книге про Институт натурфилософии...
 
 **Паймон:** Мм... Вроде бы не совсем в точности...
 
-#### Сцена
 
 Как в той книге, которую нашла Канотила...
 
@@ -1036,19 +1033,16 @@ You could say that.
 
 **Paimon:** Oh, that's right. We're very experienced adventurers — if you need it found, we'll find it!
 
-#### Scene
 
 Mary-Ann...
 
 **Paimon:** Ugh, y'know, Paimon's sure we've heard this name before...
 
-#### Scene
 
 Feels like that book we saw in the Institute of Natural Philosophy...
 
 **Paimon:** Huh. Paimon doesn't know. But it feels different somehow...
 
-#### Scene
 
 Huh. Just like in the book Canotila found.
 
@@ -1553,19 +1547,16 @@ Huh. Just like in the book Canotila found.
 
 **派蒙:** 没有也没关系！我们可是经验丰富的冒险家，总能找到的！
 
-#### 场景
 
 玛丽安…
 
 **派蒙:** 唔唔…好像在什么地方听过这个名字…
 
-#### 场景
 
 和自然哲学学院那本书一样…
 
 **派蒙:** 唔…不知道耶，总感觉有些不同…
 
-#### 场景
 
 和夏诺蒂拉找到的那本书一样…
 

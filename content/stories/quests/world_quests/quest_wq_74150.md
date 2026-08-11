@@ -26,7 +26,6 @@
 
 Вы договорились о встрече с Бенуа сегодня...
 
-#### Сцена
 
 **Молли:** Нана, будешь рыбку?
 
@@ -106,7 +105,6 @@
 
 **Странные ящики:** (Ящики выглядят так, будто в первую очередь почистить следовало бы именно их, а не убираться у входа.)
 
-#### Сцена
 
 **Бенуа Леруа:** Сейчас нет смысла стучаться. Мортиши и Атоса нет дома.
 
@@ -246,7 +244,6 @@
 
 You arranged to meet with Benoit today...
 
-#### Scene
 
 **Molli:** Nana, Nana, would you like some fish?
 
@@ -326,7 +323,6 @@ Did we interrupt?
 
 **Strange Boxes:** (Never mind the stains on the door — these boxes look to be in far more urgent need of a cleanup.)
 
-#### Scene
 
 **Benoit Leroy:** Oh, there's no point knocking at this hour. Morticia and Athos aren't in.
 
@@ -466,7 +462,6 @@ That's right.
 
 与伯努瓦约定了今天见面…
 
-#### 场景
 
 **茉莉:** 娜娜，娜娜，吃不吃鱼肉呀？
 
@@ -546,7 +541,6 @@ That's right.
 
 **奇怪的箱子:** （比起门口的污迹，这个脏兮兮的箱子似乎更应该被清理掉。)
 
-#### 场景
 
 **伯努瓦·勒鲁瓦:** 哦，你现在敲门是不会有回应的，莫蒂西娅和阿托斯不在家。
 

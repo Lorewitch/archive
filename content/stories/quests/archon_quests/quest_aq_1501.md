@@ -466,126 +466,6 @@
 
 **Паймон:** Ладно... Давайте продолжим подниматься. Паймон надеется, что ничего не случится...
 
-#### Удалить
-
-**Мавуика:** Ситуация срочная, поэтому я перейду прямо к делу. Качина, несомненно, герой Натлана, и мне жаль, что с ней это произошло.
-
-**Мавуика:** В Царстве Ночи неспокойно, и я не знаю почему. Из-за этого я не смогла отследить её местоположение.
-
-**Мавуика:** Пока мы не найдём и не устраним причину беспорядков, Ода воскресения будет бесполезна.
-
-**Паймон:** Значит... Качина не сможет вернуться?
-
-**Мавуика:** Верно. Проблема в Царстве Ночи должна быть решена.
-
-**Муалани:** Сколько это займёт времени?
-
-**Мавуика:** Я не знаю. Трудно сказать.
-
-**Муалани:** ...Качина всегда мечтала сражаться с Бездной, внести свой вклад в защиту Натлана.
-
-**Муалани:** Она не боялась смерти, потому что знала, что Пиро Архонт вернёт её к жизни, когда придёт время...
-
-**Муалани:** Когда мы садились вместе, уставшие после тренировок, она всегда напевала Оду воскресения...
-
-**Муалани:** Она должна была вернуться к нам. Мы должны были обнять её, отпраздновать с ней и разделить её радость.
-
-**Муалани:** Мы поддерживали её на каждом шагу, но что нам делать теперь?
-
-**Муалани:** Сидеть спокойно и ждать её возвращения? Оплакивать? Скажите мне! Мы её друзья? Или её убийцы?
-
-**Кинич:** Это слишком, Муалани.
-
-**Мавуика:** Всё в порядке. Я разделяю твою ярость и печаль. Жизнь Качины много значит и для меня, Муалани.
-
-**Мавуика:** Поверь мне, я хочу вернуть её как можно скорее. Я бы поделилась спокойствием, если могла.
-
-**Мавуика:** Но, учитывая недавнюю атаку на ваше племя, я боюсь, что Бездна нашла новый способ нарушить законы нашего народа.
-
-**Муалани:** Ты о чём?..
-
-**Мавуика:** Священное пламя - основа нашего сопротивления Бездне.
-
-**Мавуика:** Если мы продолжим проводить Паломничество и отправлять отряды для борьбы с Бездной, вероятно, будут новые жертвы.
-
-**Мавуика:** Но если мы прекратим, Священное пламя ослабеет. Бездна усилит атаки, и трагедия Народа Родников повторится.
-
-**Кинич:** Если сравнивать эти два варианта, первый кажется меньшим злом.
-
-**Кинич:** Прошу прощения. Знаю, это может звучать жестоко, но моё имя МалОбратное пламяипо. Оценивать - это моя обязанность.
-
-**Кинич:** Правда может быть жестока. Но нам нужно её понять, если мы хотим подходить к этому рационально.
-
-**Мавуика:** Муалани, что думаешь? Для тебя это личное. В отличие от Кинича, я осмелюсь предположить, что это не просто выбор меньшего зла, верно?
-
-**Муалани:** Нет. Я не могу выбирать и не хочу. Говорить, что одно предпочтительнее другого неуважительно по отношению к пострадавшим...
-
-**Мавуика:** Ты говоришь, что не имеет значения, приостановлю ли я Паломничество... последствия будут одинаково болезненны.
-
-**Муалани:** Да... То, что произошло с Качиной, разбивает сердце, но я не могу жертвовать другими ради неё.
-
-**Мавуика:** В этом вся суть проблемы. Дело не только в выборе меньшего зла.
-
-**Мавуика:** В любом случае будут пострадавшие, а конечный результат один и тот же - вера в Паломничество ослабнет.
-
-**Мавуика:** Когда люди начнут сомневаться, они перестанут бороться с Бездной. Именно этого Бездна и добивается.
-
-**Мавуика:** Чтобы то, что случилось с Качиной, не повторилось, нам нужно приостановить Паломничество. Это мой план. А пока я поработаю над укреплением обороны каждого племени.
-
-**Мавуика:** Нам нужно найти другой способ усилить Священное пламя, чтобы сдержать Бездну. Будет непросто. Мне нужно время на поиск наилучшего решения.
-
-**Мавуика:** Я понимаю твою злость, Муалани. Надеюсь, что мне удалось внести хоть немного ясности.
-
-**Паймон:** Ух ты, Паймон думала, будет хуже, но Пиро Архонт так терпеливо всё объяснила...
-
-**Муалани:** Мне нужно извиниться перед тобой, Архонт. Я дала волю эмоциям, мне жаль. Ты права, нам нужно сосредоточиться на решении проблем.
-
-**Часка:** Мы могли бы проводить Паломничество и никого не посылать на Войны ночных дозорных. Так мы всё равно сможем поддерживать Священное пламя.
-
-**Мавуика:** Я об этом думала, но эти два события почти всегда были связаны.
-
-**Мавуика:** Без возможности сражаться с Бездной Паломничество потеряет престиж, и участников станет меньше.
-
-**Мавуика:** С меньшим количеством участников будет производиться меньше Пламени соперничества, и этот порочный круг будет продолжаться бесконечно.
-
-**Муалани:** Значит, если я правильно понимаю, Качина в плену у Бездны?
-
-А что произойдёт, если долго находиться в Царстве Ночи?
-
-**Мавуика:** Вы наверняка слышали об артериях земли во время путешествий? Царство Ночи чем-то похоже.
-
-**Мавуика:** Недолгое пребывание безопасно, но с Бездной всё иначе.
-
-**Мавуика:** Ты постепенно теряешь своё «я», пока не становишься частью моря душ.
-
-**Мавуика:** Представь, что ты выливаешь чашку воды в бурную реку. Если зачерпнуть воду обратно, это уже будет не та же вода.
-
-**Мавуика:** Не буду скрывать, Качина сейчас в большой опасности.
-
-**Муалани:** Всё верно, Архонт. Обе эти проблемы нужно решать...
-
-**Муалани:** Ты можешь сосредоточиться на Священном пламени, а я пойду искать Качину.
-
-**Мавуика:** Бездна для тебя так же опасна, как и для неё. Скорее всего, ты не вернёшься. Ты всё равно хочешь пойти?
-
-**Муалани:** Качина ждёт, когда мы её спасём, и это главное.
-
-**Часка:** Я не смогла защитить её во время нашей битвы, но теперь у меня есть шанс всё исправить. Я тоже пойду.
-
-**Паймон:** Эм, Путешественник? Что думаешь?
-
-- **Путешественник:** Это не должно быть её концом.
-
-- **Путешественник:** Я (обещала)(обещал), что она сможет учиться у меня.
-
-**Мавуика:** Понятно. Тогда я помогу тебе, чем смогу.
-
-**Мавуика:** Повелители Ночного Ветра владеют техникой, которая может извлечь древнее имя из артерий земли.
-
-**Мавуика:** Но, пожалуйста, выслушай меня, я хочу подробно рассказать о проблеме.
-
-**Мавуика:** Их цель не только нарушить законы, благодаря которым работает Ода воскресения, но и разрушить веру людей в эти законы.
-
 ### Возвращение древнего имени
 
 Чтобы спасти Качину, оказавшуюся в ловушке в Царстве Ночи, нужно сначала найти её древнее имя. Кинич говорит, что отдал все необходимые ритуальные принадлежности вождю племени Потомков Крон. Отправляйтесь туда и расспросите его.
@@ -862,7 +742,6 @@
 
 **Вичама:** Готовьтесь к бою. Как я уже говорил, камень свяжет мир смертных с Царством Ночи. Бездна, скорее всего, отреагирует на это.
 
-#### Сцена
 
 **Уайна:** Вичама проводит большую часть времени на утёсах, любуясь пейзажами. Пойдите туда и посмотрите.
 
@@ -870,7 +749,6 @@
 
 **Пахатен:** Надеюсь, Вичама скоро оставит это позади...
 
-#### Сцена
 
 **Пахатен:** Хочешь что-то купить?
 
@@ -2956,126 +2834,6 @@ Kachina doesn't have that much time.
 
 **Paimon:** Okay... Let's just keep climbing. Paimon really hopes nothing goes wrong...
 
-#### Discarded
-
-**Mavuika:** The situation is urgent, so I'll get straight to the point. Kachina is undoubtedly a hero of Natlan, and I'm deeply sorry this happened to her.
-
-**Mavuika:** There's been unrest in the Night Kingdom, but I don't know what's causing it. As a result, I've been unable to track down her location.
-
-**Mavuika:** Until we find and address the cause of the unrest, the Ode of Resurrection will continue to be ineffective.
-
-**Paimon:** And that means... Kachina won't be able to come back?
-
-**Mavuika:** That's correct. Not until the problem with the Night Kingdom is resolved.
-
-**Mualani:** How long will that take?
-
-**Mavuika:** It's hard to say.
-
-**Mualani:** ...Kachina always dreamed of fighting the Abyss, of doing her part to defend Natlan.
-
-**Mualani:** She wasn't afraid of death because she knew, if it came down to it, the Pyro Archon would be there to bring her back to life...
-
-**Mualani:** Whenever we sat down together, exhausted from training, she would always hum the Ode of Resurrection...
-
-**Mualani:** She was supposed to come back to us. We were supposed to hug her and celebrate with her and share her joy...
-
-**Mualani:** We supported her every step of the way, but what are we supposed to do now?
-
-**Mualani:** Sit peacefully and wait for her to return? Lose ourselves in grief over her death? Tell me — are we her friends? Or her murderers?
-
-**Kinich:** That's not fair, Mualani.
-
-**Mavuika:** It's alright. I understand your rage and your grief. Kachina's life means a great deal to me, Mualani.
-
-**Mavuika:** Believe me, I want to bring her back as soon as possible. I would give you that peace of mind if I could.
-
-**Mavuika:** Considering the recent attack on your tribe, I believe the Abyss has found a new means of undermining the rules of our nation.
-
-**Mualani:** You mean...?
-
-**Mavuika:** The Sacred Flame — the foundation of our resistance against the Abyss.
-
-**Mavuika:** If we continue to hold the Pilgrimage and send teams to fight the Abyss, there will likely be more casualties.
-
-**Mavuika:** But, if we stop altogether, the Sacred Flame will only grow weaker. The Abyss will scale up their attacks, and the tragedy we saw with the People of the Springs will only be the first of many.
-
-**Kinich:** If we compare the two choices, the former seems to be the lesser of two evils.
-
-**Kinich:** ...Sorry. I know that may sound harsh, but I bear the Name "MalTurnfireipo." Weighing the costs is my duty.
-
-**Kinich:** The raw truth can be cruel. But we need to understand it if we want to approach this rationally.
-
-**Mavuika:** But, what would you say, Mualani? This is personal for you, and unlike Kinich, I daresay it's not a simple case of weighing up which course of action is less painful, is it?
-
-**Mualani:** No. I can't choose between them, and I don't want to. Saying that one is preferable over the other is disrespectful to the people who suffered...
-
-**Mavuika:** You're saying it doesn't matter whether I suspend the Pilgrimage... the consequences will be equally painful.
-
-**Mualani:** Yes... What happened to Kachina breaks my heart, but I couldn't bring myself to sacrifice other people for her sake...
-
-**Mavuika:** And that is the crux of the problem. It's not simply a matter of choosing the lesser of two evils.
-
-**Mavuika:** Either way, there will be people who suffer, and the end result will be the same — belief in the Pilgrimage will waver.
-
-**Mavuika:** Once doubt has crept in, the people will no longer unite in battle against the Abyss. And that is exactly what the Abyss wants.
-
-**Mavuika:** To prevent what happened to Kachina from happening to anyone else, we need to suspend the Pilgrimage, so that is my current plan, and in the meantime, I've made efforts to strengthen each tribe's defenses.
-
-**Mavuika:** Then, we have to find another way of strengthening the Sacred Flame to keep the Abyss at bay. This won't be easy. I'll need time to figure out the best approach.
-
-**Mavuika:** I understand your anger, Mualani, but I hope that provided some clarity, at least.
-
-**Paimon:** Wow, Paimon thought things were gonna get heated for a second, but the Pyro Archon took the time to explain everything so patiently...
-
-**Mualani:** I owe you an apology, Archon. I let myself get carried away earlier, and I'm sorry. You're right — we need to focus on finding solutions.
-
-**Chasca:** We could always hold the Pilgrimage without sending a team to fight in the Night Warden Wars. That way, we would still be able to fuel the Sacred Flame.
-
-**Mavuika:** I've considered that, but the two events have nearly always been linked.
-
-**Mavuika:** Without the chance to fight the Abyss, Pilgrimage rankings lose their prestige, and competitor numbers will drop.
-
-**Mavuika:** With fewer participants, the amount of Contending Fire produced will decrease, and the vicious cycle will continue indefinitely.
-
-**Mualani:** So essentially, the Abyss has taken Kachina hostage...
-
-What happens if you stay in the Night Kingdom for a long period of time?
-
-**Mavuika:** You've learned about the concept of Ley Lines during your travels, yes? The Night Kingdom is something similar.
-
-**Mavuika:** Staying there for a short period of time shouldn't have an effect on the person, but with the Abyss in the picture, it's a different story.
-
-**Mavuika:** Your sense of self will be devoured until, eventually, you become one with the sea of souls.
-
-**Mavuika:** Imagine pouring a cup of water into a rushing river. You can try to scoop up another cup, but there's no chance it will be the same water you had before.
-
-**Mavuika:** I won't sugarcoat it — that is the danger Kachina is currently facing.
-
-**Mualani:** Just like you said, Archon, both of these problems need to be addressed...
-
-**Mualani:** You can focus all your efforts on dealing with the Sacred Flame. I will go search for Kachina.
-
-**Mavuika:** The Abyss poses the same threat to you as it does to her. It is very possible you will not return. Knowing that, do you still choose to go?
-
-**Mualani:** Kachina's waiting for us to rescue her — that's all that matters.
-
-**Chasca:** I failed to protect her during our campaign, but I can make it up to her now. I choose to go as well.
-
-**Paimon:** Um, Traveler? What do you think?
-
-- **Traveler:** This isn't how it should end for her.
-
-- **Traveler:** I promised she would have the chance to learn from me.
-
-**Mavuika:** Understood. Then, I'll support you in any way I can.
-
-**Mavuika:** The Masters of the Night-Wind have a technique that can extract an Ancient Name from the Ley Lines.
-
-**Mavuika:** But please hear what I have to say, so I can at least give you a broader picture of the issue we are now facing.
-
-**Mavuika:** Their ultimate goal isn't to break the rules that make the Ode of Resurrection work. It's to destroy the people's faith in them.
-
 ### To Reclaim an Ancient Name
 
 To rescue Kachina, who has been trapped in the Night Kingdom, you must first seek out her Ancient Name. Kinich says that he has given the ritual implements needed to do so to the Chief of the Scions of the Canopy. Head there and ask around.
@@ -3352,7 +3110,6 @@ Could I ask a question?
 
 **Vichama:** Make sure you prepare yourselves for battle. As I said, the Stone will link the mortal realm to the Night Kingdom. The Abyss will likely emerge in response.
 
-#### Scene
 
 **Wayna:** Vichama spends most of his time up in the clifftops, gazing at the scenery. You should head over there and have a look.
 
@@ -3360,7 +3117,6 @@ Could I ask a question?
 
 **Pajaten:** I hope Vichama can move past this whole thing soon...
 
-#### Scene
 
 **Pajaten:** Looking to buy something?
 
@@ -5446,126 +5202,6 @@ So that's the life you had to leave behind...
 
 **派蒙:** 只能这样了，我们继续往上爬吧，千万别再有意外了，拜托了…
 
-#### 废弃
-
-**玛薇卡:** 事出紧迫，我就直接说正题了。卡齐娜毋庸置疑是我们纳塔的英雄，发生这种事我很抱歉。
-
-**玛薇卡:** 「夜神之国」出现了原因不明的动荡，卡齐娜在里面失踪了，我没办法定位到她。
-
-**玛薇卡:** 在找出原因并解决之前，「还魂诗」都无法发挥它原有的作用。
-
-**派蒙:** 也就是说，卡齐娜回不来了？
-
-**玛薇卡:** 嗯，我们暂时有一段时间见不到她，直到「夜神之国」的问题得到解决。
-
-**玛拉妮:** 那一段时间是多久呢？
-
-**玛薇卡:** 我不知道，这很难说。
-
-**玛拉妮:** 卡齐娜她一直都有参加「巡夜者战争」的梦想，想要为保护纳塔献出自己的力量。
-
-**玛拉妮:** 她一定没有畏惧过牺牲，因为她知道火神大人会让她的生命重燃。
-
-**玛拉妮:** 我和她练累了，坐下休息的时候，她都总是在哼唱「还魂诗」的调子…
-
-**玛拉妮:** 在跨过艰难险阻之后，她终究会回到这里，和我们拥抱在一起，分享她的兴奋与喜悦。
-
-**玛拉妮:** 可是现在呢，支持她的人要用什么样的情绪面对这个结果呢？
-
-**玛拉妮:** 安安心心地等她回来？泪流满面地为她悲伤？我们究竟是朋友，还是凶手呢？
-
-**基尼奇:** 话说的太过了，玛拉妮。
-
-**玛薇卡:** 没关系。我理解你的愤怒与悲伤，也绝不是不在乎卡齐娜的生死，玛拉妮。
-
-**玛薇卡:** 如果有可能，我也希望早点把卡齐娜带回来，让你和所有关注她命运的人安心。
-
-**玛薇卡:** 结合前几日「流泉之众」遭受的袭击来看，我发现深渊找到了新的办法，想要破坏纳塔的规则。
-
-**玛拉妮:** 破坏…？
-
-**玛薇卡:** 众所周知，圣火是纳塔对抗深渊的根基。
-
-**玛薇卡:** 如果继续举办「归火圣夜巡礼」，进行「巡夜者战争」，可能就会出现新的受害者。
-
-**玛薇卡:** 但就此暂停的话，圣火的力量会越发微弱，深渊将从各地涌现，类似「流泉之众」的灾难会越来越多。
-
-**基尼奇:** 相较之下，其实是后者的危害更大。
-
-**基尼奇:** …抱歉，实在不想说这么不近人情的话，但作为「马回火力卜」的基尼奇，度量「代价」是我的职责。
-
-**基尼奇:** 充分理解事实的残酷，才能让我们更加冷静，而不是被激怒。
-
-**玛薇卡:** 但对你来说，玛拉妮，作为亲历者，你很难像基尼奇那样，衡量这两件事带来的痛苦孰轻孰重吧？
-
-**玛拉妮:** 嗯，分不清，也不想分清，去比较痛苦的分量，本就是对受害者的不尊重…
-
-**玛薇卡:** 那么无论我是否暂停「归火圣夜巡礼」，对你带去的伤害都是相似的，对吧？
-
-**玛拉妮:** 嗯…卡齐娜的事让我痛心，但我也无法因为她，去选择牺牲其他人…
-
-**玛薇卡:** 这就是关键所在——单纯的权衡与选择解决不了如今的问题。
-
-**玛薇卡:** 虽然根据我的选择，会有不同的受害者出现，但最终引来的都是纳塔人对于「归火圣夜巡礼」的质疑。
-
-**玛薇卡:** 而这样的质疑一旦出现，人们将不再能团结一致地对抗深渊。如此一来，深渊便达成了它的目的。
-
-**玛薇卡:** 所以我现在的做法，首先是避免出现新的受害者，就像卡齐娜一样，同时也增强各部族的守卫兵力。
-
-**玛薇卡:** 在这个前提下，寻找其他方式强化圣火，抵挡深渊。当然这并不容易，所以我需要一些时间。
-
-**玛薇卡:** 我解释到这里，能让你心中的怒火平息一些吗？
-
-**派蒙:** 没想到火神愿意这么细心解释…我还以为会直接吵起来呢。
-
-**玛拉妮:** 之前有点太激动了，我也道个歉。你说的没错，我们应该想办法解决问题。
-
-**恰斯卡:** 如果是考虑到圣火的力量难以维持，可以只暂停「巡夜者战争」吧？
-
-**玛薇卡:** 我也考虑过这么做，但长久以来这两者都是不可分割的东西。
-
-**玛薇卡:** 缺少了「巡夜者战争」，「归火圣夜巡礼」的名次就失去了荣耀的佐证，参赛者会减少很多。
-
-**玛薇卡:** 产出的「角逐之焰」也会因此减少，陷入恶性循环之中。
-
-**玛拉妮:** 我可以理解为，卡齐娜现在变成了深渊的人质吗？
-
-如果长期留在夜神之国会怎么样？
-
-**玛薇卡:** 在其他国家，你们应该听过地脉的概念，夜神之国也是类似的存在。
-
-**玛薇卡:** 通常来说，短暂停留在夜神之国并不会有什么影响，但如果加上深渊的作用，就另当别论。
-
-**玛薇卡:** 个体的存在会被加速吞噬，最终与海量的灵魂融为一体。
-
-**玛薇卡:** 就像一杯水倒进了河流之后，就算再舀出一杯，也肯定不是原来的那杯水了。
-
-**玛薇卡:** 这就是她现在面临的危险，我不回避现状与结论。
-
-**玛拉妮:** 既然火神大人刚刚都说，想要找到两全其美的解决方式，对此我非常认同…
-
-**玛拉妮:** 你可以把全部精力放在处理圣火的问题上，卡齐娜就让我去找。
-
-**玛薇卡:** 深渊对卡齐娜的威胁，对你而言也是同样，很可能再也无法回来。即便如此？
-
-**玛拉妮:** 我只知道卡齐娜正在等人救她。
-
-**恰斯卡:** 没能在「巡夜者战争」中保护好她，我也有责任，所以我也要去。
-
-**派蒙:** 我、我们呢？
-
-- **旅行者:** 她不该是这样的结局。
-
-- **旅行者:** 她还要跟着我继续学习呢。
-
-**玛薇卡:** 明白了，我会全力支持你们的行动。
-
-**玛薇卡:** 「烟谜主」掌握一种技术，可以把「古名」从地脉中提取出来。
-
-**玛薇卡:** 但请给我几句话的时间，让我更加全面地说明如今面临的难题。
-
-**玛薇卡:** 最终的目的，不只是破坏和「还魂诗」有关的规则，还要瓦解人们对规则的信任…
-
 ### 古名寻回之旅
 
 为了救回受困于夜神之国的卡齐娜，眼下必须先找到卡齐娜的「古名」。基尼奇说他将能够找回古名的仪式用具交给了「悬木人」部族的族长，到「悬木人」部族打听一下吧。
@@ -5842,7 +5478,6 @@ So that's the life you had to leave behind...
 
 **维查玛:** 另外，也要做好战斗准备。我说过，灵觉髓石会连通尘世与夜神之国，或许会有深渊的力量随之涌现。
 
-#### 场景
 
 **瓦伊纳:** 维查玛常在悬崖边眺望远处的风景，你们可以去那边找找看。
 
@@ -5850,7 +5485,6 @@ So that's the life you had to leave behind...
 
 **帕贾丹:** 希望维查玛早日振作起来…
 
-#### 场景
 
 **帕贾丹:** 买点什么？
 

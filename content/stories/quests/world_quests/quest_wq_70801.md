@@ -52,7 +52,6 @@
 
 **Свен:** Но учитывая обстоятельства, для вас это неплохой результат. Пожалуйста, примите этот подарок.
 
-#### Сцена
 
 Я ещё не дочитал(а)...
 
@@ -60,15 +59,12 @@
 
 Логово Ужаса Бури.
 
-#### Сцена
 
 Незнакомые, но почтенные путешественники.
 
-#### Сцена
 
 Действующий магистр.
 
-#### Сцена
 
 **Свен:** Слушайте мои вопросы внимательно.
 
@@ -76,19 +72,15 @@
 
 **Свен:** Вот мой вопрос: какое официальное название дали этим руинам рыцари Ордо Фавониус?
 
-#### Сцена
 
 Берлога Двалина.
 
-#### Сцена
 
 Башня Ужасных бурь.
 
-#### Сцена
 
 **Свен:** Верно! Правильный ответ - логово Ужаса Бури.
 
-#### Сцена
 
 **Свен:** Эм... Видимо, вы решили использовать нестандартную систему запоминания названий.
 
@@ -126,7 +118,6 @@ Wow, the Knights are so strict...
 
 **Swan:** But I think that you did a good job, considering the circumstances. Please take this.
 
-#### Scene
 
 I need to swot up a little more...
 
@@ -134,15 +125,12 @@ I need to swot up a little more...
 
 Stormterror's Lair
 
-#### Scene
 
 Strange yet respectable traveler
 
-#### Scene
 
 Acting Grand Master
 
-#### Scene
 
 **Swan:** Now, please listen to my questions.
 
@@ -150,19 +138,15 @@ Acting Grand Master
 
 **Swan:** My question is this: What is the official name now given to these ruins by the Knights of Favonius?
 
-#### Scene
 
 Dvalin's Den
 
-#### Scene
 
 Stormy Terry's Tower
 
-#### Scene
 
 **Swan:** Correct! The ruins are indeed called "Stormterror's Lair."
 
-#### Scene
 
 **Swan:** ...I see you've chosen to go your own way on how to remember some of these things.
 
@@ -200,7 +184,6 @@ Stormy Terry's Tower
 
 **斯万:** 但是对于您来说，已经很不错了，这些礼物请您收下。
 
-#### 场景
 
 我还要再读一读…
 
@@ -208,15 +191,12 @@ Stormy Terry's Tower
 
 风龙废墟。
 
-#### 场景
 
 陌生而可敬的旅行者。
 
-#### 场景
 
 代理团长。
 
-#### 场景
 
 **斯万:** 请您听好我的问题。
 
@@ -224,19 +204,15 @@ Stormy Terry's Tower
 
 **斯万:** 我的问题是，西风骑士团对于那片遗址的正式定名…
 
-#### 场景
 
 风龙遗迹。
 
-#### 场景
 
 风龙遗址。
 
-#### 场景
 
 **斯万:** 答对了，那片遗址的名字确实是「风龙废墟」。
 
-#### 场景
 
 **斯万:** 这个名字是…您为了方便记忆，自己随便取的吗？
 

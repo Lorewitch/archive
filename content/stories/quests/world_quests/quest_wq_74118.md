@@ -26,7 +26,6 @@
 
 В Кур-де-Фонтейне вы встречаете старого знакомого...
 
-#### Сцена
 
 **Лу Тун:** ...Господин, я думаю, нам стоит вернуться в Петрикор.
 
@@ -348,7 +347,6 @@
 
 You see a familiar face in the Court of Fontaine...
 
-#### Scene
 
 **Lutong:** ...Sir, perhaps we should go to Petrichor Village first.
 
@@ -670,7 +668,6 @@ Garcia doesn't stand a chance against her...
 
 在枫丹廷，你遇见了一个熟悉的人…
 
-#### 场景
 
 **路通:** …先生，也许我们应该先去佩特莉可镇。
 

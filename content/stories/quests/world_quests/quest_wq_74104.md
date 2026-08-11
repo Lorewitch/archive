@@ -206,13 +206,11 @@
 
 **Дружеский совет:** Закрытие всех клапанов активирует терминал и расчистит путь.
 
-#### Сцена
 
 **Дружеский совет:** Закрытие всех клапанов активирует терминал и расчистит путь.
 
 **Дружеский совет:** Закрытие всех клапанов активирует терминал и расчистит путь.
 
-#### Сцена
 
 С другой стороны, а стоит ли нам вообще трогать всю эту аппаратуру?
 
@@ -466,13 +464,11 @@ You decide to try and find a way out of the cage...
 
 **Friendly Reminder:** Closing all valves will activate the terminal and open the path.
 
-#### Scene
 
 **Friendly Reminder:** Closing all valves will activate the terminal and open the path.
 
 **Friendly Reminder:** Closing all valves will activate the terminal and open the path.
 
-#### Scene
 
 On that note, is it really okay for us to be messing with stuff like the terminals here?
 
@@ -726,13 +722,11 @@ So... what was his research?
 
 **善意的提示:** 关闭所有阀门即可激活终端，开启通路。
 
-#### 场景
 
 **善意的提示:** 关闭所有阀门即可激活终端，开启通路。
 
 **善意的提示:** 关闭所有阀门即可激活终端，开启通路。
 
-#### 场景
 
 话说回来，我们乱动这里的终端之类的仪器设备，真的没问题吗？
 

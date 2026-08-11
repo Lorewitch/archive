@@ -26,7 +26,6 @@
 
 Парень по имени Ульман бродит по побережью Инадзумы и размышляет о своём нынешнем положении...
 
-#### Сцена
 
 **Ульман:** Эх... Я что, правда что-то вроде магнита для фей?..
 
@@ -184,7 +183,6 @@
 
 A certain fellow named Ulman is at the Inazuman seaside, puzzling over his present situation...
 
-#### Scene
 
 **Ulman:** *sigh* Seriously, am I some sort of Seelie magnet?
 
@@ -342,7 +340,6 @@ I'm no expert in Seelie communications...
 
 在稻妻的海边，一位名叫乌尔曼的「寻宝者」似乎正在为自己的处境而迷茫着…
 
-#### 场景
 
 **乌尔曼:** 唉，难道我真是什么「吸引仙灵体质」…
 

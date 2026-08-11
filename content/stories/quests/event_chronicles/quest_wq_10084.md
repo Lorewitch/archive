@@ -98,7 +98,6 @@
 
 **Паймон:** Я поняла... Путешественник, чтобы привести её в сознание, нам нужно найти групповое фото, о котором она бредит!
 
-#### Сцена
 
 **Агафья:** Фотография братьев... если я потеряю её, я не смогу вернуться...
 
@@ -376,7 +375,6 @@
 
 Электро молотобоец Фатуи на Опасном острове постоянно твердит о выброшенном шевроне и, кажется, не в состоянии нормально общаться... Найдите способ привести его в сознание. Возможно, так вы узнаете цель его нахождения на острова.
 
-#### Сцена
 
 **Паймон:** Путешественник, давай покажем ему шеврон...
 
@@ -676,7 +674,6 @@
 
 **Чевка:** Ох, если Агафья увидит Якова в таком состоянии, она будет в ярости. Неважно, я должен немедленно забрать Якова!
 
-#### Сцена
 
 **Чевка:** Я должен найти шеврон... Я должен найти его...
 
@@ -838,7 +835,6 @@
 
 **Паймон:** Три раковины, которые мы тогда подобрали, наверно, можно использовать здесь. Давай попробуем установить их!
 
-#### Сцена
 
 **Чевка:** Я оставил свою раковину на горе у руин на большом острове на юге...
 
@@ -860,7 +856,6 @@
 
 **Паймон:** Может, раковину надо поставить как-то иначе?
 
-#### Сцена
 
 **Яков:** Почему ты оставил меня одного? Отец, за что?
 
@@ -886,7 +881,6 @@
 
 **Паймон:** Но этот диалог кажется каким-то бессмысленным... Паймон ничего не понимает...
 
-#### Сцена
 
 **Паймон:** Ого, раковина сама всплыла со дна колодца.
 
@@ -1080,7 +1074,6 @@ That's right!
 
 **Paimon:** Paimon gets it now... Traveler, let's find that photo that's so dear to her. Maybe that'll help her recover her wits!
 
-#### Scene
 
 **Agafya:** The photo of my brothers... I can't go back if I lose it...
 
@@ -1358,7 +1351,6 @@ Show her the pocket watch.
 
 You meet a Fatui Electrohammer Vanguard on Minacious Isle who keeps going on about an insignia. It seems that you won't be able to get through to him... But if you find some way to bring him back to his senses, perhaps you might be able to figure out why he is here.
 
-#### Scene
 
 **Paimon:** Traveler, let's try and show him the insignia...
 
@@ -1658,7 +1650,6 @@ The experiment is kaput, duh.
 
 **Chevka:** *sigh*... Agafya would be crazy mad at me if she saw Yakov like this... But I've got to bring Yakov back no matter what!
 
-#### Scene
 
 **Chevka:** I gotta find the insignia... That's the only way...
 
@@ -1820,7 +1811,6 @@ We have to find all three conches.
 
 **Paimon:** Those three conches we picked up might have something to do with that. We should put them on the box and see!
 
-#### Scene
 
 **Chevka:** I think I might've left that conch of mine on a mountain on the large island to the south...
 
@@ -1842,7 +1832,6 @@ We have to find all three conches.
 
 **Paimon:** Wait, is this conch crooked somehow?
 
-#### Scene
 
 **Yakov:** Why... Why did you leave me alone, Father... Why...
 
@@ -1868,7 +1857,6 @@ Do Fatui listen to bedtime stories too?
 
 **Paimon:** But this snippet just kinda comes outta nowhere. We can't tell what's going on at all...
 
-#### Scene
 
 **Paimon:** Seriously? That conch just floated up from inside the well...
 
@@ -2062,7 +2050,6 @@ That's great news.
 
 **派蒙:** 我明白了…旅行者，看来得把她心心念念的那个合照给她，她才会醒过来了。
 
-#### 场景
 
 **阿加菲娅:** 哥哥们的照片…丢了照片，就回不去了…
 
@@ -2340,7 +2327,6 @@ That's great news.
 
 在危危岛上，有一位一直叨念着什么徽记的愚人众雷锤前锋军，看样子似乎无法正常沟通…找到让他恢复理智的办法，说不定能得知他在此行动的目的。
 
-#### 场景
 
 **派蒙:** 来吧，旅行者，不如把那枚徽记给他看看吧…
 
@@ -2640,7 +2626,6 @@ That's great news.
 
 **叶夫卡:** 唉…要是让阿加霞看到雅科夫这个样子，非得生我的气不可…不过无论如何，我得赶紧把雅科夫带回去才行！
 
-#### 场景
 
 **叶夫卡:** 一定得找到那个徽记…一定得找到那个徽记才行啊…
 
@@ -2802,7 +2787,6 @@ That's great news.
 
 **派蒙:** 那个时候我们捡到的那三个有点怪怪的海螺，说不定就是用在这里的，赶紧放箱子上试试吧！
 
-#### 场景
 
 **叶夫卡:** 我的那个海螺被我扔在南方大岛遗迹边的山上了…
 
@@ -2824,7 +2808,6 @@ That's great news.
 
 **派蒙:** 难道这个海螺…放歪了？
 
-#### 场景
 
 **雅科夫:** 为什么…只留下我一个人…我的父亲啊…为什么…
 
@@ -2850,7 +2833,6 @@ That's great news.
 
 **派蒙:** 不过这段对话没头没尾的，根本什么都看不出来嘛…
 
-#### 场景
 
 **派蒙:** 海螺居然能够从井中浮起来…
 

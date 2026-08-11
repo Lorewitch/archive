@@ -26,7 +26,6 @@
 
 В Мрачных болотах обнаружено месторождение с высокой концентрацией руды...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -40,7 +39,6 @@
 
 An ore-rich site has been discovered at Dreadshade Mire...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -54,7 +52,6 @@ Linnea quickly makes the necessary preparations for the investigation...
 
 在噩影泽地发现了一处矿石富集地…
 
-#### 场景
 
 快速做好了调查的准备…
 

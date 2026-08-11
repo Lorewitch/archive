@@ -26,7 +26,6 @@
 
 Из разговора с завсегдатаями таверны вы узнаёте, что сигнальные механизмы старого маяка в Терновом порту, похоже, вышли из строя. Ходят слухи, что всему виной проделки призраков...
 
-#### Сцена
 
 **Маттео:** Одольф, ты ведь не знаешь. Рыцари из ордена уже столько раз там побывали...
 
@@ -423,7 +422,6 @@
 
 You learned in the tavern that the alarm at Dornman Port's old lighthouse seems to be malfunctioning. Rumors say that it's caused by ghosts beneath the lighthouse...
 
-#### Scene
 
 **Matthew:** You wouldn't know, Odolf. The Knights have already been there more times than I can count...
 
@@ -820,7 +818,6 @@ Not a scratch.
 
 从酒馆喝酒的人口中得知，荆夫港的旧灯塔的警戒机关似乎出了问题。甚至有传言说是其下出现了闹事的幽灵…
 
-#### 场景
 
 **马泰奥:** 奥多夫，你不知道，骑士团的人都去过很多次了…
 

@@ -1116,7 +1116,6 @@
 
 Давайте копать!
 
-#### Сцена
 
 **Клоринда:** Используя медицинские знания, вы определили, что его голень поранило чудовище. Рана уже начала гноиться. Он с подозрением посмотрел на вас, отодвинув раненую ногу назад.
 
@@ -2386,7 +2385,6 @@
 
 **Флориан:** Ещё увидимся.
 
-#### Сцена
 
 **Лини:** Кстати, об Охотниках Сумеречного двора. А что нам делать с сокровищами из пещеры?
 
@@ -3550,7 +3548,6 @@ I've been studying the culinary arts since I was a child. I hope my delicious fo
 
 Let's dig it up!
 
-#### Scene
 
 **Clorinde:** Using your knowledge of medicine, you're able to deduce that the injury on his calf was a monster's doing, and the wound has already begun to fester. As you check him over, he looks at you with suspicion and retracts his injured leg further back.
 
@@ -4820,7 +4817,6 @@ You can have my hand, too.
 
 **Florian:** Until we meet again, everyone.
 
-#### Scene
 
 **Lyney:** Speaking of Marechaussee Hunters... What should we do about the "treasure" in that cave?
 
@@ -5984,7 +5980,6 @@ What would your answer be, Clorinde?
 
 是宝箱！挖！
 
-#### 场景
 
 **克洛琳德:** 你凭借所学的医疗知识，判断出他的小腿被魔物所伤，伤口已有些溃烂。他狐疑地看着你，将受伤的腿往后缩了缩。
 
@@ -7254,7 +7249,6 @@ What would your answer be, Clorinde?
 
 **弗洛莱恩:** 那么…后会有期。
 
-#### 场景
 
 **林尼:** 说到逐影猎人，那处洞窟里的「宝藏」要怎么处理？
 

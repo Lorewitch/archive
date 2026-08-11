@@ -350,7 +350,6 @@
 
 Проводник, в которого вселился слуга источника, намерен провести посетителей к Сердцу Священной горы... Однако, чтобы попасть туда, нужно получить разрешение и активировать статую дракона тайного источника, охраняющую вход. Нужно расспросить слугу источника поподробнее.
 
-#### Сцена
 
 Отметь следующую область разложения Бездны...
 
@@ -414,7 +413,6 @@
 
 **Малыш:** Р-р-р!
 
-#### Сцена
 
 Прочти записи «Люди... и выдающиеся человеческие личности»...
 
@@ -452,7 +450,6 @@
 
 **Слуга источника:** Хорошо.
 
-#### Сцена
 
 Как попасть в Сердце Священной горы?
 
@@ -566,7 +563,6 @@
 
 Вы получили разрешение. Пора активировать статую дракона тайного источника и войти в Сердце Священной горы.
 
-#### Сцена
 
 **Статуя дракона тайного источника:** (Здесь лежит статуя дракона тайного источника... на ней остались следы разложения Бездны...)
 
@@ -649,7 +645,6 @@
 
 **Слуга источника:** «Вон там...»
 
-#### Сцена
 
 Судья-дракон? Звучит знакомо...
 
@@ -1119,7 +1114,6 @@ You alright over there?
 
 The guide who has possessed the Secret Source Servant seems intent on guiding visitors to the "Heart of the Sacred Mountain"... However, getting there appears to require a permit, along with the activation of the Secret Source Dragon Idol guarding the entrance. Perhaps the Secret Source Servant can shed more light on the situation...
 
-#### Scene
 
 Please mark the next site Abyssal corrosion site...
 
@@ -1183,7 +1177,6 @@ Read me the entries marked "Creating the Secret Source Servants..."
 
 **Little One:** Rawr!
 
-#### Scene
 
 Show me the entries for "Humans... and Exceptional Individuals Thereof"
 
@@ -1221,7 +1214,6 @@ I have no more questions...
 
 **Secret Source Servant:** Understood.
 
-#### Scene
 
 How do we enter the Heart of the Sacred Mountain?
 
@@ -1335,7 +1327,6 @@ Beside the flaming pool, the silver-white and ash-covered shadows converse as su
 
 Having obtained the permit, the time has arrived for you to activate the Secret Source Dragon Idol and enter the Heart of the Sacred Mountain.
 
-#### Scene
 
 **Secret Source Dragon Idol:** (The Secret Source Dragon Idol that stands here... bears ancient signs of Abyssal corrosion...)
 
@@ -1418,7 +1409,6 @@ Sounds like you don't like it here.
 
 **Secret Source Servant:** "They are over there..."
 
-#### Scene
 
 A dragon judge... Is it just me, or is that familiar somehow?
 
@@ -1888,7 +1878,6 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 寄身秘源龙仆的引导者，似乎想将来访者引导至「圣山之心」的所在…但是，想要进入此处，似乎得获得许可，并且激活入口守卫的「秘源龙像」，具体的，就详细询问秘源龙仆吧…
 
-#### 场景
 
 标记下一处深渊侵蚀的地点…
 
@@ -1952,7 +1941,6 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **小家伙:** 呀！
 
-#### 场景
 
 关于「人类…和其杰出者」的记录…
 
@@ -1990,7 +1978,6 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 好的。
 
-#### 场景
 
 如何进入圣山之心？
 
@@ -2104,7 +2091,6 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 得到了「许可」，现在正是激活遗迹龙像，进入「圣山之心」的时刻了。
 
-#### 场景
 
 **秘源龙像:** （盘踞此处的秘源龙像…身躯之上有被深渊侵蚀的旧痕…）
 
@@ -2187,7 +2173,6 @@ In order to uncover a path to the Heart of the Sacred Mountain, it appears you m
 
 **秘源龙仆:** 「在那里…」
 
-#### 场景
 
 当法官的龙吗，总觉得有点耳熟…
 

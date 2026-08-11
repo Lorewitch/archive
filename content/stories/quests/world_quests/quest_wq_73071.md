@@ -26,7 +26,6 @@
 
 В питомнике Ванараны повсюду распустились цветки-сахарки. Если бы Варша могла увидеть их своими глазами, она была бы очень счастлива!
 
-#### Сцена
 
 **Варша:** Ого! Сколько цветков-сахарков!
 
@@ -38,7 +37,6 @@
 
 **Паймон:** Варша не может усидеть ни секунды. Путешественник, пойдём посмотрим.
 
-#### Сцена
 
 **Паймон:** Хм, странно, как тут оказался ребёнок? Что ты делаешь здесь одна?
 
@@ -128,7 +126,6 @@
 
 **Паймон:** Путешественник, давай возьмём Варшу в питомник аранар. Пусть она сама увидит, что это правда.
 
-#### Сцена
 
 **Паймон:** Хм, странно, как тут оказался ребёнок? Что ты делаешь здесь одна?
 
@@ -200,13 +197,11 @@
 
 **Паймон:** Здесь не так уж и опасно. Если она снова встретится нам на обратном пути, то, может быть, ещё передумает к тому времени.
 
-#### Сцена
 
 **Варша:** Чтобы получить больше цветков-сахарков, нужны семена. А вот хлеб не посадишь.
 
 **Варша:** Если бы хлеб можно было разломить пополам и посадить два куска в землю, чтобы выросли новые хлеба, то на земле не было бы голода...
 
-#### Сцена
 
 **Паймон:** Привет, Варша. Ты всё ещё тут!
 
@@ -286,7 +281,6 @@
 
 There are so many Sweet Flowers in Vanarana's garden now. Varsha would be ecstatic to see it for herself for sure.
 
-#### Scene
 
 **Varsha:** Wow, there are so many Sweet Flowers!
 
@@ -298,7 +292,6 @@ There are so many Sweet Flowers in Vanarana's garden now. Varsha would be ecstat
 
 **Paimon:** Varsha just can't sit still for even a second... Let's go, Traveler.
 
-#### Scene
 
 **Paimon:** Strange, what's this kid doing here? Hey kid! Why are you here all alone?
 
@@ -388,7 +381,6 @@ We helped the earth to remember.
 
 **Paimon:** Let's take her to the Aranara's garden, Traveler. That should silence her doubts once and for all.
 
-#### Scene
 
 **Paimon:** Strange, what's this kid doing here? Hey kid! Why are you here all alone?
 
@@ -460,13 +452,11 @@ You might run into bad guys that might try to kidnap you.
 
 **Paimon:** To be fair, things don't look too dangerous around here... Let's come back and see her later if chance allows. Maybe she'll have changed her mind by then.
 
-#### Scene
 
 **Varsha:** As long as there are seeds, I can grow more Sweet Flowers. But bread is different. You can't plant bread.
 
 **Varsha:** If bread could break in half and grow back again, no one would ever go hungry...
 
-#### Scene
 
 **Paimon:** Hi Varsha! You're still here, huh?
 
@@ -546,7 +536,6 @@ But...
 
 桓那兰那的苗圃现在开满了甜甜花，如果法莎也能亲眼见到这一切，她也一定会很开心吧！
 
-#### 场景
 
 **法莎:** 哇…这么多甜甜花！
 
@@ -558,7 +547,6 @@ But...
 
 **派蒙:** 法莎可真是急性子呀。旅行者，我们也快点过去吧。
 
-#### 场景
 
 **派蒙:** 奇怪，怎么会有小孩子在这种地方？你一个人在这里做什么呀？
 
@@ -648,7 +636,6 @@ But...
 
 **派蒙:** 旅行者，我们带法莎去兰那罗的苗圃吧，只要她亲眼见到了，肯定就没话说啦。
 
-#### 场景
 
 **派蒙:** 奇怪，怎么会有小孩子在这种地方？你一个人在这里做什么呀？
 
@@ -720,13 +707,11 @@ But...
 
 **派蒙:** 这附近倒也没那么危险…之后如果有机会回来的话再来看看她吧，说不定到那时她就改变心意了。
 
-#### 场景
 
 **法莎:** 只要有甜甜花的种子就能种出更多甜甜花，但是面包不一样，吃完了就没有了。
 
 **法莎:** 要是面包能够掰掉一半又长出一半，那就再也不会有人挨饿啦…
 
-#### 场景
 
 **派蒙:** 你好，法莎，你还在这里呀。
 

@@ -92,7 +92,6 @@
 
 **Паймон:** Они нападают! Бей их всех разом!
 
-#### Сцена
 
 **Хуа Цин:** Стоять! Что происходит?
 
@@ -226,7 +225,6 @@
 
 **Паймон:** Давай соберём необходимые ингредиенты. Время никого не ждёт! И богатенькие тоже никого не ждут.
 
-#### Сцена
 
 **Паймон:** Хм? Можно долететь только досюда...
 
@@ -720,7 +718,6 @@
 
 ♪...♪♪♪...♪♪♪...♪♪
 
-#### Сцена
 
 **Паймон:** Это не глазурные лилии. Глазурные лилии не нападают на людей!
 
@@ -998,7 +995,6 @@
 
 **Чайльд:** Славно! Надеюсь, что ты меня не разочаруешь.
 
-#### Сцена
 
 **Паймон:** Ух ты... Это Золотая палата?
 
@@ -1034,7 +1030,6 @@
 
 **Паймон:** Скорее! Мы должны убедиться, что экзувия в порядке!
 
-#### Сцена
 
 **Чайльд:** Фух...
 
@@ -1128,7 +1123,6 @@
 
 Адепты и Цисин столкнулись за пределами города. История приближается к развязке, вы направились в Золотую палату, чтобы не дать Чайльду забрать Сердце Бога, однако вас ждал новый поворот событий: в Золотой палате Сердца Бога не оказалось. Чайльд быстро переключился на свой запасной план: с помощью поддельных Печатей согласия пробудить древнее божество и заставить Гео Архонта выйти из тени.
 
-#### Сцена
 
 **Паймон:** Фух... Паймон вымоталась...
 
@@ -1198,7 +1192,6 @@
 
 Ценой бессчётных жертв древнее божество было вновь повержено в яростной схватке. Звуки битвы утихли, и ваше приключение в Ли Юэ подходит к своему концу вместе с Церемонией Вознесения. Но ещё остались некоторые тайны, что скрывает Гео Архонт.
 
-#### Сцена
 
 **Чайльд:** Ты называешь это «совместными действиями Предвестников»? Совместные действия вообще-то предполагают хотя бы минимальное общение!
 
@@ -1476,11 +1469,9 @@
 
 Тогда помоги мне расклеить плакаты о пропавшем человеке.
 
-#### Сцена
 
 **Мадам Пин:** Простые смертные и Адепты... Какие теперь между ними установятся отношения?
 
-#### Сцена
 
 **Ин Эр:** Подумать только... Сегодня я решила использовать свой лучший парфюм. Полагаю, он придётся тебе по вкусу.
 
@@ -1488,7 +1479,6 @@
 
 **Ин Эр:** Но это тоже неплохо... Одним ударом избавились от трёх соперников. Хе-хе-хе...
 
-#### Сцена
 
 **Ши Тоу:** Ох, Властелин... Ах, Властелин..
 
@@ -1848,17 +1838,14 @@
 
 **Паймон:** Кстати, разве нам не нужно разобраться со «смертью» Гео Архонта?
 
-#### Сцена
 
 **Нин Гуан:** Привлечь тебя на нашу сторону было гениальным решением. Полагаю, что будущие поколения решат так же, когда будут оценивать нашу деятельность.
 
-#### Сцена
 
 **Кэ Цин:** Хм... Ты просто стараешься выглядеть хорошим человеком? Или тебя действительно не интересует награда?
 
 **Кэ Цин:** Если вам нужно найти кого-то, то вы могли просто обратиться ко мне наедине...
 
-#### Сцена
 
 **Гань Юй:** Убрать место проведения, организовать выход публики, составить отчёт о Церемонии... Нужно столько всего сделать! Я ничего не пропустила?
 
@@ -1934,7 +1921,6 @@ The mysterious emissary Ganyu appeared before you at Third-Round Knockout. Claim
 
 **Paimon:** Well, here they come — line 'em up and knock 'em down!
 
-#### Scene
 
 **Huaqing:** Stop! What's all this about?
 
@@ -2068,7 +2054,6 @@ You really have shifted focus, haven't you, Paimon...
 
 **Paimon:** Let's go gather ingredients. Time waits for no one, and neither will our riches!
 
-#### Scene
 
 **Paimon:** Huh? It only takes us up to here...
 
@@ -2562,7 +2547,6 @@ And now they are trying to reproduce the Sigil of Permission.
 
 ♪... ♪♪♪♪... ♪♪♪♪... ♪... ♪
 
-#### Scene
 
 **Paimon:** Those weren't Glaze Lilies! Glaze Lilies wouldn't hit people!
 
@@ -2840,7 +2824,6 @@ I could never defeat you!? You're completely delusional.
 
 **Childe:** Fighting talk, I love it! Now, let's see you live up to it.
 
-#### Scene
 
 **Paimon:** Wow... This is the Golden House?
 
@@ -2876,7 +2859,6 @@ I could never defeat you!? You're completely delusional.
 
 **Paimon:** Quick! We have to go make sure that the Exuvia is alright.
 
-#### Scene
 
 **Childe:** *panting*
 
@@ -2970,7 +2952,6 @@ I could never defeat you!? You're completely delusional.
 
 The adepti faced off against the Qixing outside the city. Just as things were coming to a head, you went to the Golden House to intercept Childe as he attempted to seize the Gnosis, only to find yet another twist: The Gnosis was never at the Golden House to begin with. Childe swiftly switched to his backup plan, attempting to force the Geo Archon to make an appearance by summoning an ancient god with Fatui-forged Sigils of Permission...
 
-#### Scene
 
 **Paimon:** *panting* Paimon's exhausted...
 
@@ -3040,7 +3021,6 @@ The adepti faced off against the Qixing outside the city. Just as things were co
 
 The ancient god was subdued once again following a fierce battle and much sacrifice. The dust settles, and your journey in Liyue is reaching its conclusion with the Rite of Parting. But before that, there are still some mysteries regarding the Geo Archon that need unraveling.
 
-#### Scene
 
 **Childe:** You call this "cooperation between Harbingers"? Cooperation involves communication, you know...
 
@@ -3318,11 +3298,9 @@ Signora!
 
 Well... could you help me put up some missing person posters...?
 
-#### Scene
 
 **Madame Ping:** As for the mortals and adepti of Liyue... what shape shall our relationship take from now on?
 
-#### Scene
 
 **Ying'er:** Ha, and to think I'd put my best perfume on before coming here, thinking you'd like it...
 
@@ -3330,7 +3308,6 @@ Well... could you help me put up some missing person posters...?
 
 **Ying'er:** Well, that's fine. Suffer no rivals in love, they say, and that's three gone in one stroke. *chuckles*
 
-#### Scene
 
 **Shitou:** Ah, Rex Lapis... Rex Lapis...
 
@@ -3690,17 +3667,14 @@ This is what we learned in the City of Freedom.
 
 **Paimon:** Oh, and speaking of that — don't we still need to get to the bottom of that archon's "death," too?
 
-#### Scene
 
 **Ningguang:** Roping you in was possibly the most masterful move we could have made. I believe that future generations will say so too, when our deeds come up for their review.
 
-#### Scene
 
 **Keqing:** Heh. Why, you... Were you just trying to look cool earlier, or are you really that selfless?
 
 **Keqing:** If you were looking for someone, you could have just told me that in private...
 
-#### Scene
 
 **Ganyu:** The clean-up of the premises, managing the crowds as they exit, making an account of the Rite... There's much that remains to be done. I didn't miss anything, did I?
 
@@ -3776,7 +3750,6 @@ This is what we learned in the City of Freedom.
 
 **派蒙:** 要来了，把他们统统打趴下！
 
-#### 场景
 
 **华清:** 住手！何事喧哗？
 
@@ -3910,7 +3883,6 @@ This is what we learned in the City of Freedom.
 
 **派蒙:** 快去搜集材料！事不宜迟，荣华富贵在等着我们！
 
-#### 场景
 
 **派蒙:** 哎哎？只能飞到这里…
 
@@ -4404,7 +4376,6 @@ This is what we learned in the City of Freedom.
 
 ♪…♪♪♪♪…♪♪♪♪…♪♪
 
-#### 场景
 
 **派蒙:** 它们根本不是琉璃百合，琉璃百合怎么会打人！
 
@@ -4682,7 +4653,6 @@ This is what we learned in the City of Freedom.
 
 **「公子」:** 好吧！既然你也很想玩，那可别让我扫兴啊。
 
-#### 场景
 
 **派蒙:** 哇啊——这里就是「黄金屋」？
 
@@ -4718,7 +4688,6 @@ This is what we learned in the City of Freedom.
 
 **派蒙:** 我们赶紧去确认一下「仙祖法蜕」有没有异常吧？
 
-#### 场景
 
 **「公子」:** 呼…
 
@@ -4812,7 +4781,6 @@ This is what we learned in the City of Freedom.
 
 仙人与七星在城外对峙，山雨欲来之际，你前往黄金屋阻止「公子」夺取神之心，却又发生了变故。神之心似乎并不在黄金屋，而「公子」为逼岩神现身，用「百无禁忌箓」召唤出了远古的魔神。
 
-#### 场景
 
 **派蒙:** 呼…呼…赶路赶得好累…
 
@@ -4882,7 +4850,6 @@ This is what we learned in the City of Freedom.
 
 一番激战与牺牲，魔神重被镇压。尘埃落定之后，你在璃月的旅途也将随着「送仙典仪」的召开而接近终结了。但在这之前，还有一些与岩神有关的谜团等待你去揭开。
 
-#### 场景
 
 **「公子」:** 你居然说这是「执行官之间的合作」？所谓「合作」，至少应该信息互通…
 
@@ -5160,11 +5127,9 @@ This is what we learned in the City of Freedom.
 
 那就，帮我贴几张「寻人启事」吧。
 
-#### 场景
 
 **萍姥姥:** 璃月的人与仙，我们之间的关系…在未来会以怎样的形式延续呢？
 
-#### 场景
 
 **莺儿:** 亏我今天特意用了香膏才过来，还以为是你喜欢…
 
@@ -5172,7 +5137,6 @@ This is what we learned in the City of Freedom.
 
 **莺儿:** 不过也好，对手一下子就少了三个，呵呵呵…
 
-#### 场景
 
 **石头:** 唉，帝君…帝君…
 
@@ -5532,16 +5496,13 @@ This is what we learned in the City of Freedom.
 
 **派蒙:** 唔…这么说的话，那位神灵的「死」…又究竟是怎么回事呢？
 
-#### 场景
 
 **凝光:** 拉拢了你，或许是这盘棋中最亮眼的一步了。待后人复盘时，一定也会这么评价的。
 
-#### 场景
 
 **刻晴:** …你这家伙，刚才的发言，究竟是为了耍帅，还是真的那么无欲无求呢？
 
 **刻晴:** 寻人启事这种东西，明明私底下和我说一声就行…
 
-#### 场景
 
 **甘雨:** 会场的整理，观礼人群的疏散，仪式的书面记录…回头还有好多工作要做，应该没有什么遗漏吧？

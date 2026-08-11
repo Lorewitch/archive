@@ -1246,7 +1246,6 @@
 
 **Хатанака:** Если дело зайдёт в тупик, возможно, господин Кудзё отдаст более строгий приказ...
 
-#### Сцена
 
 **Хатанака:** Волноваться в любом случае не о чем. Мы не переступим границы.
 
@@ -1558,7 +1557,6 @@
 
 **Мацуура:** Ладно, тогда я откланиваюсь... Ещё раз благодарю вас, господин Камисато!
 
-#### Сцена
 
 **Томоки:** Почему все эти люди ходят туда-сюда, да ещё с таким грозным видом?
 
@@ -1566,7 +1564,6 @@
 
 **Идэ:** Нам очень жаль, что мешаем вам, но мы сами ждём дальнейших приказов.
 
-#### Сцена
 
 **Ёкояма:** Пожалуйста, уходите. Сейчас чрезвычайная ситуация. В имении никого не принимают без особых приглашений.
 
@@ -2798,7 +2795,6 @@ Ayato claims that your job is done and that all that remains is to wait for the 
 
 **Hatanaka:** If this stalemate continues, who knows... Sir Kujou might give us orders to be less accommodating...
 
-#### Scene
 
 **Hatanaka:** Whatever happens, please don't worry. We know where to draw the line.
 
@@ -3110,7 +3106,6 @@ See you next time.
 
 **Matsuura:** Okay, then please excuse me... Thank you once again, Commissioner!
 
-#### Scene
 
 **Tomoki:** Hmm... What's with all these people coming in and out? And why does everyone look so serious?
 
@@ -3118,7 +3113,6 @@ See you next time.
 
 **Ide:** Sorry for the disruption. We're still waiting for further orders.
 
-#### Scene
 
 **Yokoyama:** Please leave. Due to an ongoing emergency, we are receiving no guests at present except where a special invitation is given.
 
@@ -4350,7 +4344,6 @@ See you next time.
 
 **畑中:** 如果继续僵持下去，我也不知道九条大人会不会有更强硬的命令…
 
-#### 场景
 
 **畑中:** 总之，还请安心，我们会有分寸。
 
@@ -4662,7 +4655,6 @@ See you next time.
 
 **松浦:** 好，那我就此告退…再次感谢社奉行大人！
 
-#### 场景
 
 **智树:** 唔，怎么一直都有人进进出出，还气势汹汹的？
 
@@ -4670,7 +4662,6 @@ See you next time.
 
 **井手:** 实在抱歉，惊扰了各位的生活。我们也在等候接下来的命令。
 
-#### 场景
 
 **横山:** 请回吧，现在是紧急情况。若非特殊邀请，府内暂不会客。
 

@@ -54,11 +54,9 @@
 
 **Господин Осси:** Печати, связывающие дракона, похоже, соединяются с тремя местами. Давайте для начала уберём цепи в этих трёх местах.
 
-#### Сцена
 
 Пошли.
 
-#### Сцена
 
 **Сцилла:** Готовы?
 
@@ -166,7 +164,6 @@
 
 **Сцилла:** Без проблем. Подождём, когда будешь готов(а). Я вас внизу буду ждать.
 
-#### Сцена
 
 Мне нужно подготовиться...
 
@@ -210,11 +207,9 @@ After learning the true identity of "Monsieur Os," you decide to go to the Sea o
 
 **Monsieur Os:** The seals that bind the evil dragon seem to be connected to three locations. Let us begin by removing the chains in those three places.
 
-#### Scene
 
 Let's go.
 
-#### Scene
 
 **Scylla:** All ready, little ones?
 
@@ -322,7 +317,6 @@ I need a moment to prep...
 
 **Scylla:** Of course. Gird yourself sufficiently, and then, let us go. I shall wait for you below.
 
-#### Scene
 
 I need a moment to prep...
 
@@ -366,11 +360,9 @@ Let's go.
 
 **呜斯先生:** 束缚恶龙的封印看起来与三处相连，我们就从解开这三处的锁链开始吧。
 
-#### 场景
 
 走吧。
 
-#### 场景
 
 **斯库拉:** 小东西们准备好了吗？
 
@@ -478,7 +470,6 @@ Let's go.
 
 **斯库拉:** 嗯，那就等小东西准备万全了再出发吧，我就在下面等你们。
 
-#### 场景
 
 我再准备一下…
 

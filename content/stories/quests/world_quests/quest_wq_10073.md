@@ -180,7 +180,6 @@
 
 **Паймон:** Эй! Это всё потому, что мы с тобой лучшие друзья. Поэтому так хорошо друг друга и знаем!
 
-#### Сцена
 
 **Иосафат:** А, это вы! Всегда рады вам. Приходите пообедать вместе с Раной и тигрятами, если сможете. У нас сегодня хороший улов.
 
@@ -806,7 +805,6 @@
 
 **Судабе:** И взять в жёны сестру Рану!
 
-#### Сцена
 
 **Кавус:** Когда я вырасту, я стану великим мореплавателем, как Синдбадакус!
 
@@ -1290,7 +1288,6 @@
 
 **Рана:** Правда после катастрофы сохранилось не так много свидетельств, а потому никто толком не знает, что именно произошло. И всё же мне бы так хотелось увидеть настоящего тигра!
 
-#### Сцена
 
 **Рана:** Зона Увядания опасна. Если у тебя больше нет сил, выйди из зоны, чтобы передохнуть.
 
@@ -1328,11 +1325,11 @@
 
 **Паймон:** Да? Ясно. Тогда вперёд, Путешественник!
 
+#### Отправляйтесь в лагерь
 #### Соберите хворост
 
 **Рана:** Хорошо, что ты здесь, Путешественник. Но не перенапрягайся.
 
-#### Сцена
 
 **Рана:** Уф... Помочь с поисками... Карри...
 
@@ -1464,7 +1461,6 @@
 
 **Рана:** Не волнуйтесь обо мне... Идите скорее.
 
-#### Сцена
 
 **Сержант Фатуи:** Вы кто такие? Лучше бы вам пойти подобру-поздорову.
 
@@ -1480,7 +1476,6 @@
 
 **Рана:** Похоже, по-хорошему мы не договоримся!
 
-#### Сцена
 
 **Рана:** Путешественник, как хорошо, что ты здесь.
 
@@ -1494,7 +1489,6 @@
 
 **Рана:** Обсудим это позже. Наверняка Иотам в глубине пещеры. Идём же.
 
-#### Сцена
 
 **Рана:** Иотам... ты как тут...
 
@@ -1514,7 +1508,6 @@
 
 **Рана:** А ты, Иотам, стой там! Мы уже идём к тебе на помощь!
 
-#### Сцена
 
 **Рана:** Простите... Путешественник, Паймон, мне нужно передохнуть... Иотам, подожди меня.
 
@@ -1908,7 +1901,6 @@ Just like Paimon.
 
 **Paimon:** Hey, that's because we're buddies and know each other very well!
 
-#### Scene
 
 **Iosaphat:** It's you! Welcome. Come over for a meal with Rana and the cubs if you get a chance. Got a nice catch today.
 
@@ -2534,7 +2526,6 @@ About the mysterious creatures in the woods...
 
 **Sudabeh:** Then I'll marry Rana!
 
-#### Scene
 
 **Kavus:** When I grow up, I want to be a great sailor like Sinbadacus!
 
@@ -3018,7 +3009,6 @@ The era of darkness?
 
 **Rana:** But not many documents have survived the cataclysm, so no one really knows what exactly happened. Still, I want to see a real tiger!
 
-#### Scene
 
 **Rana:** Withering Zones are dangerous. If it gets to be too much for you, be sure to leave and take some rest.
 
@@ -3056,11 +3046,11 @@ The era of darkness?
 
 **Paimon:** Is that so? Hm... Okay, got it. Let's go, Traveler!
 
+#### Go to the camp
 #### Collect firewood
 
 **Rana:** It's good to have you here. But still, don't push yourself.
 
-#### Scene
 
 **Rana:** Zzz... Help find them... Curry...
 
@@ -3192,7 +3182,6 @@ You have taken care of the Withering Zones marked by Rana as well as the Spinocr
 
 **Rana:** Don't worry about me... You guys go ahead.
 
-#### Scene
 
 **Fatui Sergeant:** ...Who are you people? Don't get in our way.
 
@@ -3208,7 +3197,6 @@ You have taken care of the Withering Zones marked by Rana as well as the Spinocr
 
 **Rana:** Well, looks like we're not gonna be able to talk this one out!
 
-#### Scene
 
 **Rana:** Thank goodness you were here, Traveler...
 
@@ -3222,7 +3210,6 @@ You have taken care of the Withering Zones marked by Rana as well as the Spinocr
 
 **Rana:** Anyway, we can talk more about that later. Iotham must be somewhere deeper in the cave. We'd better keep moving.
 
-#### Scene
 
 **Rana:** Iotham... What happened...
 
@@ -3242,7 +3229,6 @@ You have taken care of the Withering Zones marked by Rana as well as the Spinocr
 
 **Rana:** Iotham, wait here and don't move! We're coming to rescue you!
 
-#### Scene
 
 **Rana:** I'm sorry... Traveler, Paimon, I need to rest... Wait for me, Iotham.
 
@@ -3636,7 +3622,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **派蒙:** 喂！那是因为我们是好伙伴，所以相互了解才对啦！
 
-#### 场景
 
 **耶沙法特:** 是你们啊，欢迎欢迎。有机会的话，跟拉娜和那群小老虎一起来吃饭吧。今天的收获很好。
 
@@ -4262,7 +4247,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **素达蓓:** 然后娶拉娜姐姐做新娘子！
 
-#### 场景
 
 **卡乌斯:** 长大以后，我要变成辛巴达克斯那样的伟大航海家！
 
@@ -4748,11 +4732,6 @@ There's no time. This is the location, head there as soon as you can.
 
 #### 前往「露营地」
 
-**拉娜:** (test)准备好了吗？
-
-**拉娜:** (test)那我们出发吧
-
-#### 场景
 
 **拉娜:** 死域很危险的。如果承受不住，就一定要离开死域休息喔。
 
@@ -4794,7 +4773,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **拉娜:** 有旅行者在，真是太好了。不过，不要勉强喔。
 
-#### 场景
 
 **拉娜:** 呼…帮忙找人…咖喱…
 
@@ -4816,9 +4794,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **拉娜:** 嗯！虽然之前也看你干净利落地清除了死域，但是，死域还是很危险。如果承受不住，就一定要离开死域休息。
 
-#### 场景
-
-(test) 天亮了
 
 #### 与拉娜对话
 
@@ -4930,7 +4905,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **拉娜:** 不用担心我…你们快去吧。
 
-#### 场景
 
 **愚人众士官:** …你们，是谁？不要妨碍我们。
 
@@ -4946,7 +4920,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **拉娜:** 真是的，看来没办法好好谈了！
 
-#### 场景
 
 **拉娜:** 旅行者，幸好有你在…
 
@@ -4960,7 +4933,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **拉娜:** ——这个回头再说。优丹应该在洞窟更深处，我们赶紧走吧。
 
-#### 场景
 
 **拉娜:** 优丹…怎么会这样…
 
@@ -4980,7 +4952,6 @@ There's no time. This is the location, head there as soon as you can.
 
 **拉娜:** 优丹你乖乖待着别动！我们来救你了！
 
-#### 场景
 
 **拉娜:** 抱歉…旅行者，派蒙，我想休息一下…优丹，等一下姐姐哦。
 

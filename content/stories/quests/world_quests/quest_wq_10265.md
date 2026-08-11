@@ -26,7 +26,6 @@
 
 Оказалось неожиданно легко проникнуть на территорию тщательно охраняемого объекта Фатуи...
 
-#### Сцена
 
 **Паймон:** Путешественник, подвинься, дай-ка место...
 
@@ -530,17 +529,14 @@
 
 **Неточка:** Прямо в духе Рида Миллера: появиться в самый неожиданный момент, эффектно сорвать планы и так же эффектно исчезнуть... Идеальное представление!
 
-#### Сцена
 
 **Кровать:** (На кровати сундука нет, под кроватью... ух ты, тут не только пусто, но и ни пылинки!)
 
-#### Сцена
 
 **Контейнер:** (Странно, что этот контейнер вообще здесь стоит.)
 
 **Контейнер:** (Паймон вспомнила, как пыталась залезть в контейнер, а покрасневшая Неточка её оттуда выдворила...)
 
-#### Сцена
 
 **Паймон:** Ого, поэтажный план! Неужели мы так легко получили совершенно секретную информацию?
 
@@ -1140,7 +1136,6 @@
 
 **Толфин:** Нужно собрать достаточно звездофруктов, чтобы Сержант Осьминог показал содержание испытания. Хм, но это вовсе не взятка, мы же как-никак говорим о детской сказке!
 
-#### Сцена
 
 **Толфин:** А ещё буду иногда навещать Полковника Железного Кита.
 
@@ -1336,7 +1331,6 @@
 
 #### Следуйте за Хугинном и найдите улики
 
-**Паймон:** (test)Материалы для чтения
 
 **Паймон:** Это не запасная деталь... Неужели это оставил Старый Гаеч? Как и говорил Толфин, он остался здесь ради Тинет...
 
@@ -1404,7 +1398,6 @@
 
 #### Следуйте за Хугинном, чтобы найти путь обратно на поверхность
 
-**Паймон:** (test)Материалы для чтения
 
 **Паймон:** Тот же почерк... Подождите, Данюша... Жорик?
 
@@ -1462,7 +1455,6 @@
 
 **Паймон:** Точно-точно! Путешественник, давай установим детали и посмотрим, как оно работает?
 
-#### Сцена
 
 **Толфин:** Жаль, что Тинет не удалось увидеть всё это своими глазами. Ей бы точно понравилось.
 
@@ -1612,7 +1604,6 @@
 
 Возле Ока Кратти вы находите странное дерево...
 
-#### Сцена
 
 **Ирмари:** Эх, сегодня тоже не повезло.
 
@@ -1696,7 +1687,6 @@
 
 На озере к западу от Пирамиды вы слышите странную запись об «апокалипсисе»...
 
-#### Сцена
 
 **Древний терминал:** «...Добро пожаловать в убежище №(...), путники из дальних земель...»
 
@@ -2354,7 +2344,6 @@
 
 **Паймон:** Хе-хе, о, Паймон, из тебя вышел бы отличный матрос! Путешественник, возьми штурвал, подыграй Паймон!
 
-#### Сцена
 
 **Реля:** Впереди виднеется Остров сокровищ, хотя на первый взгляд в нём нет ничего особенного.
 
@@ -2374,7 +2363,6 @@
 
 **Силве:** Надеюсь, так и есть.
 
-#### Сцена
 
 **Паймон:** А? А-а? Что это только что было?
 
@@ -2442,7 +2430,6 @@
 
 Breaking into the heavily guarded Fatui facility was unexpectedly easy...
 
-#### Scene
 
 **Paimon:** Quick, Traveler, scooch over a bit and make some room for Paimon...
 
@@ -2946,17 +2933,14 @@ Netochka scales the walls and roof with the power of the Moonstriders and vanish
 
 **Netochka:** Hehe, that'll be so Reed Miller! Appearing at unexpected times and places, making a dashing entrance, then gracefully departing... A perfect performance.
 
-#### Scene
 
 **Bed:** (There's clearly no chest on the bed, so maybe under it... Whoa, no chest in sight, and completely spotless, to boot...)
 
-#### Scene
 
 **Container:** (A container that is just here for some reason.)
 
 **Container:** (Reminds me of the time Netochka, red as a beet, pushing us out during our previous attempt at hiding inside one...)
 
-#### Scene
 
 **Paimon:** Whoa, a floor plan! Did we really just get our hands on some top-secret info this easily?
 
@@ -3556,7 +3540,6 @@ What are you doing here?
 
 **Tolfin:** You need to deliver enough Stellafruit before Sergeant Octopus will reveal the trial's contents. Well, since this is a fairy tale, I suppose it doesn't really count as "bribery."
 
-#### Scene
 
 **Tolfin:** I guess I'll come visit Colonel Iron Whale from time to time.
 
@@ -3752,7 +3735,6 @@ Zhorik scurries away, not even bothering with the precious goblet he mistook for
 
 #### Follow Huginn and look for clues
 
-**Paimon:** (test)Readable Placeholder
 
 **Paimon:** This isn't a spare part... Did Papa Wrench leave this here? So it's like Tolfin said. He stayed for Tinet's sake...
 
@@ -3820,7 +3802,6 @@ Three humans and a weasel search up and down, until you finally find the spare p
 
 #### Follow Huginn and find a way to return to the surface
 
-**Paimon:** (test)Readable Placeholder
 
 **Paimon:** Same handwriting as earlier... Wait, Danyusha... Zhorik?
 
@@ -3878,7 +3859,6 @@ You were going to give him the Proof of the Cognoscenti?
 
 **Paimon:** Yeah, that's right! Traveler, let's install the parts and start it up right now!
 
-#### Scene
 
 **Tolfin:** It's a shame that Tinet couldn't see all this with her own eyes. She would have loved it.
 
@@ -4028,7 +4008,6 @@ Zhorik scurries away, not even bothering with the precious goblet he mistook for
 
 You discover a strange tree at the Eye of Kratti...
 
-#### Scene
 
 **Ilmari:** Another day, another empty bucket.
 
@@ -4112,7 +4091,6 @@ You explain what happened earlier...
 
 You hear a strange recording about the "apocalypse" at the lake to the west of Piramida...
 
-#### Scene
 
 **Ancient Terminal:** "...Welcome to Bunker No. (...), friends from afar..."
 
@@ -4770,7 +4748,6 @@ I'll be the captain, and Paimon, you can be the chief mate.
 
 **Paimon:** Hehe, how convincing is Paimon's chief mateyness? Come on, take the helm, and let's set sail!
 
-#### Scene
 
 **Relya:** Bounty Island's just up ahead. Nothing about it looks particularly special from here.
 
@@ -4790,7 +4767,6 @@ I'll be the captain, and Paimon, you can be the chief mate.
 
 **Silve:** I hope you're right.
 
-#### Scene
 
 **Paimon:** Eh? Huh!? Wha!?! What just happened?
 
@@ -4858,7 +4834,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 意外轻易地进入了愚人众重兵把守的设施…
 
-#### 场景
 
 **派蒙:** 快点，旅行者，你往里边挪挪，给我让点位置…
 
@@ -5362,17 +5337,14 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 **涅朵奇卡:** 很有雷德·米勒的风格呢！在对手意想不到的时间和地点出现，飒爽登场，翩然离去…真是完美的演出。
 
-#### 场景
 
 **床铺:** （床铺上显然没有宝箱，那么床底…哇，不仅空无一物，就连灰尘也没有…）
 
-#### 场景
 
 **集装箱:** （不知道为什么会出现在这里的集装箱。）
 
 **集装箱:** （想起了之前试图藏身集装箱，结果被满脸通红的涅朵奇卡推出去的经历…）
 
-#### 场景
 
 **派蒙:** 哇，平面图！这种机密信息就这样轻易地到手了吗？
 
@@ -5972,7 +5944,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 **托尔芬:** 要交出足够多的「星星果」，「章鱼中士」才会展示考验的内容。嗯，既然是童话故事，这也称不上是「贿赂」吧。
 
-#### 场景
 
 **托尔芬:** 之后也偶尔来拜访「铁鲸上校」好了。
 
@@ -6168,7 +6139,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 #### 跟随福金寻找线索
 
-**派蒙:** (test)阅读物占位
 
 **派蒙:** 不是备用部件…这个该不会是「扳手老爹」留下的吧？和托尔芬说的一样，他是为了蒂涅才留在这里…
 
@@ -6236,7 +6206,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 #### 跟随福金寻找返回地上的方法
 
-**派蒙:** (test)阅读物占位
 
 **派蒙:** 跟刚才一样的笔迹…等一下，丹尤莎…卓里克？
 
@@ -6294,7 +6263,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 **派蒙:** 就是就是！旅行者，我们这就把部件装上启动看看吧？
 
-#### 场景
 
 **托尔芬:** 可惜蒂涅没能亲眼见到这一切，真是太遗憾了。她一定会喜欢的。
 
@@ -6444,7 +6412,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 在刻拉蒂之眼发现了一棵奇怪的树…
 
-#### 场景
 
 **伊尔玛里:** 今天也是空手而归啊。
 
@@ -6528,7 +6495,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 在皮拉米达城西侧的湖上，听到了关于「末日」的奇怪录音…
 
-#### 场景
 
 **古老的终端:** 「…欢迎来到（…）号避难所，远道而来的朋友…」
 
@@ -7186,7 +7152,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 **派蒙:** 嘿嘿，我学得像吗？旅行者，你去把把舵，配合我一下！
 
-#### 场景
 
 **雷勒:** 前面就是「金银岛」了，这么看倒是没什么特别之处。
 
@@ -7206,7 +7171,6 @@ I assume accepting this doesn't automatically make me the Treasure Hoarders' hei
 
 **西维:** 但愿如此吧。
 
-#### 场景
 
 **派蒙:** 欸？欸欸？刚才是怎么回事？
 

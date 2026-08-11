@@ -26,7 +26,6 @@
 
 Вы обнаружили загадочный Путь в Туманном лесу. Какие сокровища здесь таятся?
 
-#### Сцена
 
 **Каменная табличка с надписью:** (Большая часть надписи стёрта, можно различить только слова: «...чистая роса... поёт на Пути в Туманном лесу...»)
 
@@ -54,7 +53,6 @@
 
 **Паймон:** Путешественник, пора отправиться на поиски сокровищ с твоим лучшим компаньоном Паймон и её удивительным чутьём на сокровища!
 
-#### Сцена
 
 **Таинственный алтарь:** (Большая часть надписи стёрта, можно едва различить только слова: «...чистая роса... три...»)
 
@@ -608,7 +606,6 @@
 
 Вы обнаружили бурное озеро. Что здесь происходит?
 
-#### Сцена
 
 **Спящий вишап:** (Там лежит вишап. Не знаю, он заснул или...)
 
@@ -1132,7 +1129,6 @@
 
 *Вы уже собирались поискать в окрестностях Пашив, как в пещеру хлынула вода, и вскоре вас затянуло течением.*
 
-#### Сцена
 
 **Пашив:** Ключ, статуя, ключ, статуя, ключ, статуя.
 
@@ -1196,7 +1192,6 @@
 
 You discovered the mysterious Foggy Forest Path. What treasures lie hidden here?
 
-#### Scene
 
 **Carved Stone Tablet:** (Most of the inscription has been scratched out, but you can make out "...clear dew... sings on the Foggy Forest Path...")
 
@@ -1224,7 +1219,6 @@ So, what is this Foggy Forest Path?
 
 **Paimon:** Never mind that, Traveler! It's treasure-hunting time with your best friend, Paimon, and her super treasure-detecting senses!
 
-#### Scene
 
 **Mysterious Altar:** (Most of the inscription has been scratched out, but you can make out "...clear dew... three...")
 
@@ -1778,7 +1772,6 @@ Disappeared, Pahsiv!
 
 You discover a furious lake. What happened here?
 
-#### Scene
 
 **Slumbering Vishap:** (A vishap is lying over there. Is it asleep or...)
 
@@ -2302,7 +2295,6 @@ Maybe we can look for her nearby.
 
 *Just as you are about to look for Pahsiv, water floods into the cave, sweeping you toward the surface.*
 
-#### Scene
 
 **Pahsiv:** Key, statue, key, statue, key, statue.
 
@@ -2366,7 +2358,6 @@ Pahsiv, disappeared!
 
 你们发现了神秘的幽林雾道，这里会藏着什么宝藏吗？
 
-#### 场景
 
 **刻字的石碑:** （大部分字迹被磨毁，仅能依稀辨识出——「…清露…歌于幽林雾道…」）
 
@@ -2394,7 +2385,6 @@ Pahsiv, disappeared!
 
 **派蒙:** 旅行者，是时候开始寻宝之旅了！带上你最好的伙伴，拥有绝对敏锐宝藏嗅觉的派蒙出发吧！
 
-#### 场景
 
 **神秘祭坛:** （大部分字迹被磨毁，仅能依稀辨识出——「…清露…三…」）
 
@@ -2948,7 +2938,6 @@ Pahsiv, disappeared!
 
 你们发现了一片似乎很生气的湖，这里发生了什么？
 
-#### 场景
 
 **沉睡的龙蜥:** （一只龙蜥躺在那，不知是睡着了还是…）
 
@@ -3472,7 +3461,6 @@ Pahsiv, disappeared!
 
 *你们正准备在附近搜寻珀西芙，洞穴内忽然涌起了水，很快，你们被卷入了洋流。*
 
-#### 场景
 
 **珀西芙:** 钥匙，雕像，钥匙，雕像，钥匙，雕像。
 

@@ -26,7 +26,6 @@
 
 Во время прогулки по Нод-Краю вы попадаете в таинственную область...
 
-#### Сцена
 
 **Николь:** Хм... всё готово. Приступаем к работе.
 
@@ -296,7 +295,6 @@
 
 While taking a walk through Nod-Krai, you stumble into a mysterious place...
 
-#### Scene
 
 **Nicole:** Heh... Alright, time to get to work.
 
@@ -566,7 +564,6 @@ Feels like it started as one story and ended as another...
 
 在挪德卡莱散步时，误入了一片神秘的区域…
 
-#### 场景
 
 **尼可:** 嗯…准备就绪，开工。
 

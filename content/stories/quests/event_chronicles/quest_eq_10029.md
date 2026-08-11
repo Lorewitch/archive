@@ -1616,7 +1616,6 @@ I hope you can get some proper rest here.
 
 #### 寻找阿贝多
 
-**可莉:** (test)众人讨论信的情报
 
 **派蒙:** 这座岛面积可不小，他会在哪里呢？
 

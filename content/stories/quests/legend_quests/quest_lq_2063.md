@@ -856,7 +856,6 @@
 
 **Мукки:** Вы сошли с ума? Кукузавры - наши спутники!
 
-#### Сцена
 
 **Мутота:** Мы сделаем всё возможное, чтобы уладить конфликт внутри племени, пока вас не будет. Надеюсь, это позволит выиграть немного времени для вас.
 
@@ -894,7 +893,6 @@
 
 Высоко в небе, далеко от земли, воздушная мастерская молча наблюдает за тем, как накапливается и уничтожается одержимость...
 
-#### Сцена
 
 **Паймон:** А вот и мастерская, парящая в небе... Нужно увидеть своими глазами, чтобы поверить.
 
@@ -1256,7 +1254,6 @@
 
 ...Это наш шанс!
 
-#### Сцена
 
 **Альпа:** Ах!
 
@@ -2316,7 +2313,6 @@ We're good for now. How is Puma doing?
 
 **Mukki:** Have you gone mad? The qucusaurs are our partners!
 
-#### Scene
 
 **Mutota:** We'll do our best to manage the conflict within the tribe while you're gone. Hopefully it'll buy you some time.
 
@@ -2354,7 +2350,6 @@ Why didn't she come and join us?
 
 In the distant skies, far from the surface, the airborne workshop bears silent witness to the amassing and annihilation of obsession...
 
-#### Scene
 
 **Paimon:** Here it is, the workshop in the sky... You gotta see it to believe it.
 
@@ -2716,7 +2711,6 @@ You really think the Pyro Archon is gonna let you get away with a coup?
 
 ...Now!
 
-#### Scene
 
 **Allpa:** ...Ugh!
 
@@ -3776,7 +3770,6 @@ Paimon... Zip it.
 
 **穆基:** 开什么玩笑！绒翼龙是我们最好的伙伴！
 
-#### 场景
 
 **穆托塔:** 我们会继续处理部族里的矛盾，为你们争取时间。
 
@@ -3814,7 +3807,6 @@ Paimon... Zip it.
 
 在远离地面的高天之上，空中工坊沉默地见证着执念的堆积与毁灭…
 
-#### 场景
 
 **派蒙:** 飞在天上的工坊…要不是亲眼看见，还真是难以置信。
 
@@ -4176,7 +4168,6 @@ Paimon... Zip it.
 
 ——趁现在！
 
-#### 场景
 
 **阿尔帕:** ——唔！
 

@@ -913,7 +913,6 @@
 
 **Паймон:** Предоставь это нам.
 
-#### Сцена
 
 **Наседжуна:** В общем, мы знаем, где именно были спрятаны кори-барабаны. Осталось только забрать их.
 
@@ -927,7 +926,6 @@
 
 **Паймон:** Кстати, Путешественник, не забудь переписать партитуры со стен. Она нам понадобится!
 
-#### Сцена
 
 **Паймон:** Похоже, мы нашли все пять кори-барабанов. Создаётся впечатление, что мы просто... случайно наткнулись на них во время приключений.
 
@@ -991,7 +989,6 @@
 
 **Паймон:** Предоставь это нам, Соруш! Не волнуйся, Наседжуна. Мы знаем, что кори-барабаны очень важны. Путешественник не собирается их ломать!
 
-#### Сцена
 
 **Паймон:** Пришло время найти оставшиеся кори-барабаны!
 
@@ -1129,7 +1126,6 @@
 
 **Паймон:** Предоставь это нам, Соруш! Не волнуйся, Наседжуна. Мы знаем, что кори-барабаны очень важны. Путешественник не собирается их ломать!
 
-#### Сцена
 
 Давай пойдём вместе.
 
@@ -2025,7 +2021,6 @@
 
 **Соруш:** Хе-хе. Скоро мы достигнем оазиса Вурукаша. Поторопитесь.
 
-#### Сцена
 
 **Паймон:** Паймон и подумать не могла, что на противоположной стороне горы будет так много зелени.
 
@@ -2764,7 +2759,6 @@
 
 **Паймон:** В общем, давайте поскорее вернёмся в оазис Вурукаша. Нужно убедиться, что там не произошло ничего из ряда вон выходящего.
 
-#### Сцена
 
 **Наседжуна:** Ах да, нужно ещё кое-что подготовить, прежде чем войти.
 
@@ -2968,7 +2962,6 @@
 
 **Паймон:** Наседжуна снова струсил в решающую минуту. Это даже к лучшему, Паймон не придётся терпеть вас обоих.
 
-#### Сцена
 
 **Наседжуна:** Если я пойду с вами, то только буду путаться под ногами, поэтому я лучше подожду здесь.
 
@@ -3016,7 +3009,6 @@
 
 Вы собрали все великие песни Хварны. Пришло время ликвидировать аномалию в небе...
 
-#### Сцена
 
 **Паймон:** Соруш и слова не проронила с тех пор, как мы покинули разрушенную мастерскую.
 
@@ -4197,7 +4189,6 @@ The large rock blocking the way splinters into smaller pieces, and when the dust
 
 **Paimon:** Well, guess that falls to us, huh?
 
-#### Scene
 
 **Nasejuna:** Regardless, now that we know where the Kory Drums are specifically, we just need to retrieve them all.
 
@@ -4211,7 +4202,6 @@ The large rock blocking the way splinters into smaller pieces, and when the dust
 
 **Paimon:** Right, Traveler, remember to record the drum scores on the stone walls. We'll definitely need them at some point!
 
-#### Scene
 
 **Paimon:** Speaking of which, if we take the Dendro Drum here into account, it seems like we've found all five Kory Drums, haven't we? It feels as if we just... happened upon them as we were adventuring.
 
@@ -4275,7 +4265,6 @@ People need hope in their lives, even if it isn't real.
 
 **Paimon:** Well if you say so, Sorush, then leave this to us! Just relax, Nasejuna. We know the Kory Drums are very important. Traveler's not going to ruin them or anything!
 
-#### Scene
 
 **Paimon:** Time to look for the other Kory Drums!
 
@@ -4413,7 +4402,6 @@ Don't you worry.
 
 **Paimon:** Well if you say so, Sorush, then leave this to us! Just relax, Nasejuna. We know the Kory Drums are very important. Traveler's not going to ruin them or anything!
 
-#### Scene
 
 Let's go together.
 
@@ -5309,7 +5297,6 @@ Well, speaking of the Sign...
 
 **Sorush:** Hehe. We shall soon reach the Vourukasha Oasis. Come, let us hurry.
 
-#### Scene
 
 **Paimon:** Paimon didn't think there'd be such a huge patch of green on the other end of the mountain.
 
@@ -6048,7 +6035,6 @@ You've turned your back on your duties.
 
 **Paimon:** Whatever the case, let's head back to the sea of flowers. We've gotta make sure that nothing bad happens, after all!
 
-#### Scene
 
 **Nasejuna:** Ah, yes. There is one more thing we should prepare before entering.
 
@@ -6252,7 +6238,6 @@ And what's the problem this time?
 
 **Paimon:** Well, guess Nasejuna's slipping off at the last moment. Still, Paimon's a lot happier now that the two of you won't be bouncing off each other for a while...
 
-#### Scene
 
 **Nasejuna:** If I went along with you, I suspect I would only drag you all down. As such, I shall simply wait here.
 
@@ -6300,7 +6285,6 @@ And what's the problem this time?
 
 You've managed to gather all the Great Songs of Khvarena regardless. Now, it is time to resolve the anomaly in the sky...
 
-#### Scene
 
 **Paimon:** Sorush's been pretty quiet since we left the ruined factory.
 
@@ -7481,7 +7465,6 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 看来也只能这样了，就交给我们吧。
 
-#### 场景
 
 **那先朱那:** 不管怎么说，现在知道了俱利鼓的具体下落，那么就只待将其全部回收了。
 
@@ -7495,7 +7478,6 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 对了，旅行者，记得把岩壁上的鼓谱也记录下来吧，之后肯定能用上的！
 
-#### 场景
 
 **派蒙:** 话说回来…加上这里的草之鼓，好像已经找到全部五个俱利鼓了？感觉在冒险途中不知不觉就收集齐了…
 
@@ -7559,7 +7541,6 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 既然斯露莎都这样说了…就交给我们吧！那先朱那也放心好了，俱利鼓是很重要的东西，旅行者一定不会弄坏的。
 
-#### 场景
 
 **派蒙:** 接下来去寻找剩余的俱利鼓吧！
 
@@ -7697,7 +7678,6 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 既然斯露莎都这样说了…就交给我们吧！那先朱那也放心好了，俱利鼓是很重要的东西，旅行者一定不会弄坏的。
 
-#### 场景
 
 一起走吧。
 
@@ -8593,7 +8573,6 @@ The Rite of Ab-Zohr...
 
 **斯露莎:** 哼哼，穿过这里就是「甘露花海」了，我们快点前进吧。
 
-#### 场景
 
 **派蒙:** 没想到山的另一边会有这么大的一片绿地。
 
@@ -9332,7 +9311,6 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 总之我们现在就先回去花海吧，免得再发生什么奇怪的事情！
 
-#### 场景
 
 **那先朱那:** 对了，在进入这里之前还有一件事情需要准备。
 
@@ -9536,7 +9514,6 @@ The Rite of Ab-Zohr...
 
 **派蒙:** 虽然那先朱那又临阵脱逃了，不过反正你们两个不凑在一块我也感觉轻松很多啦…
 
-#### 场景
 
 **那先朱那:** 我如果一起去的话也只会碍手碍脚，不如就在此静候佳音了。
 
@@ -9584,7 +9561,6 @@ The Rite of Ab-Zohr...
 
 无论如何终于集齐了所有的「灵光绝唱」，接下来便是想办法熄灭天空中的异象…
 
-#### 场景
 
 **派蒙:** 说来，从遗迹工场出来之后，斯露莎好像一直都没说过话的样子。
 

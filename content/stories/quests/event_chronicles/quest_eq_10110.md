@@ -474,7 +474,6 @@
 
 **Камисато Аяка:** Не волнуйтесь. После того, что я пережила, меня будет не так просто напугать. Увидимся позже. Хорошо вам пообщаться с другом.
 
-#### Сцена
 
 **Каэдэхара Кадзуха:** Хм, похоже, мы найдём его первыми.
 
@@ -514,7 +513,6 @@
 
 **Каэдэхара Кадзуха:** До новых встреч.
 
-#### Сцена
 
 **Жрица:** Вы нашли себе партнёра?
 
@@ -1400,7 +1398,6 @@ I think I saw someone I know just now...
 
 **Kamisato Ayaka:** Don't worry. Now that I've experienced the event once already, I won't be easily frightened. I'll see you later. Have a lovely chat with your friend.
 
-#### Scene
 
 **Kaedehara Kazuha:** Hmm, it seems we'll be the first to find it.
 
@@ -1440,7 +1437,6 @@ I saw someone I know just now...
 
 **Kaedehara Kazuha:** Till we meet again.
 
-#### Scene
 
 **Shrine Maiden:** Have you found a partner yet?
 
@@ -2326,7 +2322,6 @@ Is it me, or does it look like she's burying something?
 
 **神里绫华:** 别担心。已经体验过一次，我应该不会那么轻易被吓到了。回见，祝你们聊得开心。
 
-#### 场景
 
 **枫原万叶:** 哦？看来是我们先找到了。
 
@@ -2366,7 +2361,6 @@ Is it me, or does it look like she's burying something?
 
 **枫原万叶:** 回头再见了，两位。
 
-#### 场景
 
 **巫女:** 找好搭档了吗？
 

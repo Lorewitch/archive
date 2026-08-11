@@ -342,7 +342,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -396,7 +395,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -478,7 +476,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -532,7 +529,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -614,7 +610,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -668,7 +663,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -746,7 +740,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -800,7 +793,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -880,7 +872,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -934,7 +925,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -1014,7 +1004,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -1068,7 +1057,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -1148,7 +1136,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -1202,7 +1189,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -1284,7 +1270,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -1338,7 +1323,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -1420,7 +1404,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -1474,7 +1457,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -1556,7 +1538,6 @@
 
 Оставшиеся пари, обитающие в деревьях фраваши, ещё одержимы мыслями о прошлом. Кажется, Соруш может пробудить их...
 
-#### Сцена
 
 **Соруш:** Вот уж не думала, что они такими станут. Какая жалость.
 
@@ -1610,7 +1591,6 @@
 
 **Соруш:** Пф. Ладно. Я разбужу её своей силой и дам вам послушать её затухающий голос.
 
-#### Сцена
 
 **Соруш:** Ох, вот уж не думала, что так всё обернётся. Так грустно и жалко.
 
@@ -2006,7 +1986,6 @@ Cannot return to the earth...
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -2060,7 +2039,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -2142,7 +2120,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -2196,7 +2173,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -2278,7 +2254,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -2332,7 +2307,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -2410,7 +2384,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -2464,7 +2437,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -2544,7 +2516,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -2598,7 +2569,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -2678,7 +2648,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -2732,7 +2701,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -2812,7 +2780,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -2866,7 +2833,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -2948,7 +2914,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -3002,7 +2967,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -3084,7 +3048,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -3138,7 +3101,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -3220,7 +3182,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 The residual Pari residing within the Fravashi Trees are still trapped in obsessions of the past. It seems that Sorush can awaken them...
 
-#### Scene
 
 **Sorush:** Is this how they look like now? How pitiful.
 
@@ -3274,7 +3235,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **Sorush:** Hmph, fine. I shall wake her up with my power and let you listen to her dimming voice.
 
-#### Scene
 
 **Sorush:** Hmph, is this how they look like now? How pathetic.
 
@@ -3670,7 +3630,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -3724,7 +3683,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -3806,7 +3764,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -3860,7 +3817,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -3942,7 +3898,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -3996,7 +3951,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -4074,7 +4028,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -4128,7 +4081,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -4208,7 +4160,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -4262,7 +4213,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -4342,7 +4292,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -4396,7 +4345,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -4476,7 +4424,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -4530,7 +4477,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -4612,7 +4558,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -4666,7 +4611,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -4748,7 +4692,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -4802,7 +4745,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 
@@ -4884,7 +4826,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 「灵谷木」中的残灵还停留在过去的执念中，斯露莎可以将她们唤醒…
 
-#### 场景
 
 **斯露莎:** 没想到竟然变成这副模样了…还真是可怜。
 
@@ -4938,7 +4879,6 @@ The residual Pari residing within the Fravashi Trees are still trapped in obsess
 
 **斯露莎:** 哼，也罢，就姑且以吾之力量将其唤醒，让你们听听她的终末之声好了。
 
-#### 场景
 
 **斯露莎:** 哼！没想到竟然变成这副模样了…还真是可悲可叹。
 

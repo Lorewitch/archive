@@ -26,13 +26,11 @@
 
 Однажды мы случайно стали помощниками известного дизайнера.
 
-#### Сцена
 
 **Точтли:** Честно говоря, я совершенно не понимаю, что происходит. Но я доверяю наставнику. Он точно не стал бы ничего красть. Тем более, у аши!
 
 **Точтли:** Я присмотрю за Алво, чтобы он тебе не помешал. И надеюсь, что ты раскроешь правду...
 
-#### Сцена
 
 Ничего.
 
@@ -160,7 +158,6 @@
 
 **Паймон:** Хе-хе, Паймон тоже не совсем поняла. В общем, покрасим так, как сказал Цолин, и дело с концом!
 
-#### Сцена
 
 Но у аш нет ни таких сложных эмоций, ни воспоминаний. Вряд ли с одной только его помощью удастся создать такие насыщенные краски...
 
@@ -314,11 +311,9 @@
 
 **Цолин:** Но теперь предметы небольшие, поэтому красить будет сложнее. Будьте к этому готовы.
 
-#### Сцена
 
 Так в чём же причина отсутствия фиолетового пигмента?
 
-#### Сцена
 
 Хотя нет, всё-таки они вполне подходят под условия...
 
@@ -472,7 +467,6 @@
 
 **Алво:** Что ж, раз уж ты настаиваешь, я не буду противиться. Осматривай, сколько влезет. Только постарайся не опозориться.
 
-#### Сцена
 
 **???:** Честно говоря, я уже прибрался в этой пещере после смерти наставника. Не считая рукописей, ничего ценного здесь нет.
 
@@ -656,13 +650,11 @@
 
 One day, by chance, we become the assistants of a famous designer.
 
-#### Scene
 
 **Tochtli:** I won't lie — I still don't really get what's going on. But I trust the old man. He'd never steal anything, especially not from the Asha.
 
 **Tochtli:** I'll stay here and keep Alvo in check, make sure he doesn't get in your way. The rest of the truth... I'm counting on you to uncover it.
 
-#### Scene
 
 No worries.
 
@@ -790,7 +782,6 @@ Under Zolin's direction, you quickly complete the preparations.
 
 **Paimon:** Hehe, Paimon doesn't either. But anyway, we'll just go with what Zolin says and splash some color on!
 
-#### Scene
 
 But it seems that Asha don't have particularly complex emotions or memories. It's hard to imagine that one Asha alone could create such rich colors...
 
@@ -944,11 +935,9 @@ Give me a moment.
 
 **Zolin:** But keep in mind, the surfaces this time are a lot smaller, which makes it trickier to get the colors just right. Prepare yourselves, alright?
 
-#### Scene
 
 So, what was the main reason for purple being missing...?
 
-#### Scene
 
 Huh, wait. Now that I think about it, it seems that they do meet the conditions after all...
 
@@ -1102,7 +1091,6 @@ Huh, wait. Now that I think about it, it seems that they do meet the conditions 
 
 **Alvo:** ...Fine. Since you insist, I won't argue. Investigate all you want. Just don't disgrace yourself in the process.
 
-#### Scene
 
 **???:** I already cleared out this cave after the old man passed. Aside from these notes, there shouldn't be anything of value left.
 
@@ -1286,13 +1274,11 @@ We're ready!
 
 某日，在机缘巧合下，我们成为了某位知名设计师的助手。
 
-#### 场景
 
 **托奇特莉:** 说实话我完全搞不明白发生了什么。但是我相信老爷子，他肯定不会偷东西，更何况还是阿夏的！
 
 **托奇特莉:** 我会在这里盯着阿尔沃，不让他打扰你。一切的真相，就拜托你了…
 
-#### 场景
 
 没事。
 
@@ -1420,7 +1406,6 @@ We're ready!
 
 **派蒙:** 嘿嘿，我也没有很听明白。不过，总而言之，我们就按索林的要求，把颜色涂上去就好啦！
 
-#### 场景
 
 但阿夏似乎并没有那么复杂的情绪和记忆，很难想象单靠它就能形成这么丰富的色彩…
 
@@ -1574,11 +1559,9 @@ We're ready!
 
 **索林:** 当然了，这次的物件尺寸比较小，上起色来就更困难，你们可要做好心理准备啊。
 
-#### 场景
 
 那么，紫色颜料缺失的根本原因是…？
 
-#### 场景
 
 不过，现在来看，这种必要条件似乎是具备了…
 
@@ -1732,7 +1715,6 @@ We're ready!
 
 **阿尔沃:** …好，既然你都开口了，我也无话好说，随你查验。只不过，期望你不要辱没了自己的名声。
 
-#### 场景
 
 **？？？:** 实话说，这洞窟我在老头子去世后就已经彻底收拾过一遍了，除了这份手记以外，应该没什么有价值的东西了。
 

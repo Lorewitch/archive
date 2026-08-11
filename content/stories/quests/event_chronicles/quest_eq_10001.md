@@ -118,7 +118,7 @@
 
 Every year, on the day of the first full moon, the Lantern Rite of Liyue takes place. On that night, everyone in Liyue releases Xiao Lanterns and Mingxiao Lanterns into the bright night sky. Within each of the xiao lanterns, placed a natural levitation stone, and on it hung one's wishful prayer, or a painting depicting one's desire. The lanterns slowly fly away while carrying a hope that the lights emitted by the lanterns might guide the soul of once Liyue's faithful protector, to return and reunite once more. You and Paimon have arrived at this solemn moment of Liyue, preparing for your five-days-long journey...
 
-#### Talk to Paimon (Hidden)
+#### Talk to Paimon
 
 **Paimon:** Finally, we're in Liyue!
 
@@ -210,7 +210,7 @@ What's the Mingxiao Lantern?
 
 每年第一个月圆之夜，就是璃月的「海灯节」。在夜里，人们会放出「霄灯」和「明霄灯」，升上夜空。「霄灯」中编入了天然浮空的「浮生石」，挂上书写心愿或绘制图画的愿签放飞，祈愿历史上曾护佑璃月的英雄魂魄寻灯归来，一聚团圆。你与派蒙来到了节日期间的璃月，准备度过为期五日的旅程…
 
-#### (test)与派蒙对话（隐藏）
+#### 与派蒙对话
 
 **派蒙:** 终于到璃月了！
 

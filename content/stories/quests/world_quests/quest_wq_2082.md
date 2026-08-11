@@ -6,8 +6,8 @@
 # title_en: Witch's Homework: Of Wonderland Flowers
 # title_zh: 魔女的课业·仙境花之题
 # region: Мондштадт
-# game_version: 1.2
-# release_versions: 1.2,6.2
+# game_version: 6.2
+# release_versions: 6.2
 # source_id: 2082
 # chapter_num_ru:
 # chapter_num_en:
@@ -18,7 +18,7 @@
 # related_quests:
 # quest_chain: quest_wq_2082
 # quest_series: Witch's Homework
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 

@@ -50,7 +50,6 @@
 
 **Цзинь У:** Хорошо... Как найдёте её, сообщите мне как можно скорее.
 
-#### Сцена
 
 **Цзинь У:** Что с Чжи Цюн? Она нашлась?
 
@@ -90,7 +89,6 @@
 
 - **Путешественник:** Не переживай, я отведу тебя обратно.
 
-#### Сцена
 
 **Цзинь У:** ...
 
@@ -170,7 +168,6 @@ That's a pretty good call, Paimon.
 
 **Jinwu:** Alright... alright then. If you find her, please inform me as soon as possible.
 
-#### Scene
 
 **Jinwu:** How's Zhiqiong? Have you found her?
 
@@ -210,7 +207,6 @@ You need rest. Jinwu made you some soup.
 
 - **Traveler:** Don't worry, I'll take you back.
 
-#### Scene
 
 **Jinwu:** ...
 
@@ -290,7 +286,6 @@ She was trapped in the black mud when we found her.
 
 **瑾武:** 嗯…就这么办。如果找到那孩子的话…请尽快告诉我。
 
-#### 场景
 
 **瑾武:** 志琼她怎么样？你找到她了吗？
 
@@ -330,7 +325,6 @@ She was trapped in the black mud when we found her.
 
 - **旅行者:** 别害怕，我带你回去。
 
-#### 场景
 
 **瑾武:** ……
 

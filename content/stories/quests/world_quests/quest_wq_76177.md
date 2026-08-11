@@ -26,7 +26,6 @@
 
 В лунном море возле пещеры собралась стая медуз. Возможно, там вас что-то ждёт...
 
-#### Сцена
 
 **Паймон:** Станция генерации... клетки чёрной материи?
 
@@ -50,7 +49,6 @@
 
 In the lunar sea, a group of jellyfish gathers near a cave. Perhaps something waits for you there...
 
-#### Scene
 
 **Paimon:** A Blackbody Containment... Generation Station?
 
@@ -74,7 +72,6 @@ What is this place?
 
 月海中，一群水母正往一处地洞汇聚，在那之中或许有什么正等待着你们…
 
-#### 场景
 
 **派蒙:** 黑体物质笼…发生站？
 

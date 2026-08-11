@@ -26,7 +26,6 @@
 
 Следуйте совету Саббах и попытайтесь «пробудить» семена.
 
-#### Сцена
 
 **Аффан:** Дядя Шафакат, я не могу исполнить твоё последнее желание...
 
@@ -86,7 +85,6 @@
 
 **Аффан:** У тебя доброе сердце! Ничего страшного, если ты не сможешь найти никого, кто мог бы мне помочь. Я очень ценю твои старания.
 
-#### Сцена
 
 Об Аффане...
 
@@ -104,7 +102,6 @@
 
 **Саббах:** Я посещу питомник господина Аффана, когда у меня будет время. Встретимся там позже.
 
-#### Сцена
 
 **Аффан:** А, это вы.
 
@@ -242,7 +239,6 @@
 
 Follow Sabbah's advice and try to "Awaken" the seeds
 
-#### Scene
 
 **Affan:** I'm sorry, Uncle Shafaqat. I wasn't able to fulfill your last wish...
 
@@ -302,7 +298,6 @@ I'll give it a shot.
 
 **Affan:** You're a good kid. It's alright if you can't find anyone to help. The thought is enough for me.
 
-#### Scene
 
 About Affan...
 
@@ -320,7 +315,6 @@ About Affan...
 
 **Sabbah:** I will visit Mr. Affan's nursery when I have some time. You can look for me there later.
 
-#### Scene
 
 **Affan:** You're here.
 
@@ -458,7 +452,6 @@ Same here.
 
 采取赛芭的建议，试着「唤醒」种子吧。
 
-#### 场景
 
 **阿凡:** 沙法卡特叔叔，你最后的一点心愿我没法替你完成了…
 
@@ -518,7 +511,6 @@ Same here.
 
 **阿凡:** 你是个很好的孩子，如果找不到能帮忙的人也没关系，有你这些心意就够了。
 
-#### 场景
 
 关于阿凡…
 
@@ -536,7 +528,6 @@ Same here.
 
 **赛芭:** 等我有空的时候就会去阿凡老先生的苗圃，之后去那里找我吧。
 
-#### 场景
 
 **阿凡:** 你们来了啊。
 

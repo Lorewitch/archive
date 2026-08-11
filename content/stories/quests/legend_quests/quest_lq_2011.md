@@ -6,8 +6,8 @@
 # title_en: Butterfly's Dream
 # title_zh: 槐柯胡蝶，傩佑之梦
 # region: Ли Юэ
-# game_version: 1.0
-# release_versions: 1.0,1.3
+# game_version: 1.3
+# release_versions: 1.3
 # source_id: 2011
 # chapter_num_ru: Златокрылая Птица. Глава I
 # chapter_num_en: Alatus Chapter: Act I
@@ -18,7 +18,7 @@
 # related_quests:
 # quest_chain: quest_lq_2011
 # quest_series:
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 
@@ -26,7 +26,6 @@
 
 Неподалёку от постоялого двора «Ваншу» вы обнаружили хиличурлов, которые источают тёмную энергию, тогда как Адепт, зовущий себя Небесным Императором Звездоловом, демонстрировал толпе своих последователей искусство изгнания демонов...
 
-#### Сцена
 
 **Паймон:** Эй, Путешественник... Паймон кажется, или те хиличурлы действительно странно выглядят?
 
@@ -42,7 +41,6 @@
 
 **Паймон:** Ну вот, если теперь мы ничего не сделаем, Паймон будет чувствовать себя виноватой... Так что пойдём, Путешественник, пообщаемся с ними поближе!
 
-#### Сцена
 
 **Паймон:** Кажется, одолеть этих мерзких хиличурлов будет сложнее, чем обычных.
 
@@ -278,7 +276,6 @@
 
 **Цзи Фан:** Странное чтение для таких молодых людей... Вы найдёте её вон на той полке.
 
-#### Сцена
 
 **Паймон:** Вот она! Давай быстренько посмотрим, о чём она, ага?
 
@@ -402,7 +399,6 @@
 
 **Сяо:** ...Идём.
 
-#### Сцена
 
 **Паймон:** От этого места у Паймон мурашки по коже!
 
@@ -410,7 +406,6 @@
 
 **Сяо:** Сохраняйте спокойствие и ни в коем случае не позволяйте гневу поверженных Архонтов захватить вас.
 
-#### Сцена
 
 **Сяо:** Как много заражённых демоническим влиянием существ... Очень странно. Приди мы позже, и последствия могли быть куда хуже.
 
@@ -614,7 +609,6 @@
 
 **Паймон:** Э... Принеси трёх демонов!
 
-#### Сцена
 
 **Паймон:** Мы всё сделали. И в точности, как велел Сяо!
 
@@ -652,7 +646,6 @@
 
 **Паймон:** Ладно, пора ему навалять.
 
-#### Сцена
 
 **Небесный Император Звездолов:** Прошу, прекратите! Я сдаюсь! Ай...
 
@@ -828,7 +821,6 @@
 
 You discover some hilichurls near Wangshu Inn that are giving off dark energy, just as an adeptus who calls himself Starsnatcher is performing some exorcist arts nearby...
 
-#### Scene
 
 **Paimon:** Hey, Traveler... Is it just Paimon, or is there something weird about those hilichurls over there?
 
@@ -844,7 +836,6 @@ You discover some hilichurls near Wangshu Inn that are giving off dark energy, j
 
 **Paimon:** Now that we've seen it, if we don't do anything about it, Paimon will feel really guilty... Let's go take care of them, Traveler!
 
-#### Scene
 
 **Paimon:** These super evil hilichurls are more difficult to defeat than the usual kind, too.
 
@@ -1080,7 +1071,6 @@ As payment to attain Starsnatcher's help, you prepare to go to Wanwen Bookhouse 
 
 **Jifang:** You're a rare breed of youngster if this is what you like to read... But you should be able to find a copy somewhere on that desk over there.
 
-#### Scene
 
 **Paimon:** This is the one! Let's see what it's about, shall we?
 
@@ -1204,7 +1194,6 @@ Starsnatcher's ability to purge evil stems from the Sigil of Permission. After a
 
 **Xiao:** ...Come on then.
 
-#### Scene
 
 **Paimon:** Ooh, this place gives Paimon goosebumps!
 
@@ -1212,7 +1201,6 @@ Starsnatcher's ability to purge evil stems from the Sigil of Permission. After a
 
 **Xiao:** You must remain calm. Do not allow yourself to be affected by the lingering wrath of bygone gods.
 
-#### Scene
 
 **Xiao:** It is good that we came here. An unusual number of living things had fallen under infernal influence. Had we not arrived in good time, the consequences would have been unthinkable.
 
@@ -1416,7 +1404,6 @@ Devayaksha, Bring Forth Sin!
 
 **Paimon:** Uh, bring forth sin!
 
-#### Scene
 
 **Paimon:** We finished the ritual, and we followed all the instructions to the letter!
 
@@ -1454,7 +1441,6 @@ Devayaksha, Bring Forth Sin!
 
 **Paimon:** ...Alright, time to take him down a peg.
 
-#### Scene
 
 **Starsnatcher:** P—Please, stop! I surrender, I surrender! Argh...
 
@@ -1630,7 +1616,6 @@ We'd like to borrow a censer and some lamps.
 
 你们在望舒客栈附近发现了一些沾染「邪气」的丘丘人，而一位自称「掇星攫辰天君」的仙人正在附近为「信众」们展示驱魔之术…
 
-#### 场景
 
 **派蒙:** 是我的幻觉吗，旅行者…那些丘丘人是不是看起来有些古怪？
 
@@ -1646,7 +1631,6 @@ We'd like to borrow a censer and some lamps.
 
 **派蒙:** 见到了又不管的话，总觉得会良心不安…试试看对付它们吧，旅行者！
 
-#### 场景
 
 **派蒙:** 这些满身邪气的家伙，确实比一般的丘丘人要难对付一些呢。
 
@@ -1882,7 +1866,6 @@ We'd like to borrow a censer and some lamps.
 
 **纪芳:** 难得有年轻人喜欢，去书架那边自己找找吧。
 
-#### 场景
 
 **派蒙:** 就是这一本！赶快打开看看讲的是什么吧？
 
@@ -2006,7 +1989,6 @@ We'd like to borrow a censer and some lamps.
 
 **魈:** …跟上来吧。
 
-#### 场景
 
 **派蒙:** 这里邪恶的气息让人汗毛直立呢！
 
@@ -2014,7 +1996,6 @@ We'd like to borrow a censer and some lamps.
 
 **魈:** 你们要尽量平心静气，当心不要被魔神邪念所扰。
 
-#### 场景
 
 **魈:** 沾染「妖邪」的生物如此之多，实属异常…若不是早来清剿，后果不堪设想。
 
@@ -2218,7 +2199,6 @@ We'd like to borrow a censer and some lamps.
 
 **派蒙:** 啊，「三尸押来」！
 
-#### 场景
 
 **派蒙:** 已经按照魈说的把仪式完成啦。
 
@@ -2256,7 +2236,6 @@ We'd like to borrow a censer and some lamps.
 
 **派蒙:** 嗯…动手吧。
 
-#### 场景
 
 **掇星攫辰天君:** 快停下…我、我认输！哎哟…
 

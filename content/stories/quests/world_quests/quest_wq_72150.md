@@ -26,7 +26,6 @@
 
 Может ли реликтовое растение из морских глубин предсказать судьбу?
 
-#### Сцена
 
 **Комаки:** Здравствуй. Судя по твоему виду, ты не с этого острова, да?
 
@@ -376,7 +375,6 @@
 
 Does ancient plant life from the ocean's depths really have the wondrous power to indicate one's destiny?
 
-#### Scene
 
 **Komaki:** Hello there, youngster. From how you dress, you must be from outside the island, yes?
 
@@ -726,7 +724,6 @@ This is the "ideal water" you spoke of, yes?
 
 海渊的孑遗花草，竟拥有预示命运的奇妙功效？
 
-#### 场景
 
 **小卷:** 你好，年轻人。看样子你是从岛外来的吧？
 

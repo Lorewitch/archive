@@ -26,7 +26,6 @@
 
 От Катерины из инадзумской Гильдии искателей приключений вы узнаете, что идёт набор добровольцев для исследования острова Сэйрай.
 
-#### Сцена
 
 **Нэко:** Ого, отличная работа. Спасибо, я вижу ваши старания.
 
@@ -110,7 +109,6 @@
 
 **Катерина:** Всё же Гильдии до сих пор не удалось выяснить причины возникновения грозовой бури.
 
-#### Сцена
 
 **Эйко:** Похоже, поставить печать «запирающего камня» не так-то просто.
 
@@ -296,7 +294,6 @@
 
 **Эйко:** Фух, терпеть не могу это чувство, когда концы с концами не складываются.
 
-#### Сцена
 
 **Нэко:** Ах, ну вот и люди, наконец-то.
 
@@ -438,7 +435,6 @@
 
 - **Путешественник:** У тебя очень ловкие коготки.
 
-#### Сцена
 
 **Нэко:** А я неплохо навела порядок в святилище...
 
@@ -686,7 +682,6 @@
 
 You learn from Inazuma's Katheryne that the Inazuma Adventurers' Guild has been gathering adventurers to explore Seirai Island recently...
 
-#### Scene
 
 **Neko:** Hmm. Well done, well done indeed. I acknowledge your efforts.
 
@@ -770,7 +765,6 @@ Seirai Island?
 
 **Katheryne:** After all, we have yet to determine the cause of those storms.
 
-#### Scene
 
 **Etsuko:** Sealing this Warding Stone isn't going to be that simple...
 
@@ -956,7 +950,6 @@ Indeed. Let's go.
 
 **Etsuko:** *sigh* It really stinks, not being able to find any leads...
 
-#### Scene
 
 **Neko:** Haah... At last, human guests.
 
@@ -1098,7 +1091,6 @@ Where did the person in charge of maintenance live?
 
 - **Traveler:** Those are some flexible claws you've got.
 
-#### Scene
 
 **Neko:** I really have maintained this shrine well...
 
@@ -1346,7 +1338,6 @@ You know, we also found this strange feather...
 
 从稻妻冒险家协会的凯瑟琳小姐那里，你得知稻妻冒险家协会最近正在招募冒险家前往清籁岛进行探索…
 
-#### 场景
 
 **「寝子」:** 哈唔…修得很好。奴家看见了，谢谢。
 
@@ -1430,7 +1421,6 @@ You know, we also found this strange feather...
 
 **凯瑟琳:** 毕竟，那种雷暴的成因，到现在协会也没有弄清。
 
-#### 场景
 
 **悦子:** 根据这块木板上的内容来看，这「镇石」也不是这么好封印的…
 
@@ -1616,7 +1606,6 @@ You know, we also found this strange feather...
 
 **悦子:** 唉…这种完全找不到头绪的感觉真难受…
 
-#### 场景
 
 **「寝子」:** 哈唔…终于有人类来了。
 
@@ -1758,7 +1747,6 @@ You know, we also found this strange feather...
 
 - **旅行者:** 你的爪子真灵活。
 
-#### 场景
 
 **「寝子」:** 奴家把神社打理得真不错…
 

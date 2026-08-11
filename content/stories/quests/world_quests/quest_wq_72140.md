@@ -26,7 +26,6 @@
 
 Кажется, Тёдзи, мальчик, продающий руду на острове Ясиори, скрывает великую тайну...
 
-#### Сцена
 
 **Тёдзи:** Гости заморские, не проходите мимо! Это лучшие кристаллы Дзякоцу на острове Ясиори!
 
@@ -716,99 +715,6 @@
 
 **Паймон:** Удачного пути и тебе, Тёдзи!
 
-#### Продолжайте говорить с Тёдзи (отменено)
-
-**Тёдзи:** В любом случае спасибо за помощь! До встречи!
-
-**Тёдзи:** Здравствуйте, Путешественник! Как поживаете?
-
-**Паймон:** У нас всё отлично. А у тебя?
-
-Эй, это обычно говорю я!
-
-**Паймон:** Ха-ха, в следующий раз соображай быстрее!
-
-Паймон, думаешь, нужна еще еда?
-
-**Паймон:** Паймон! Паймон хочет закусок! Всегда хочет...
-
-Постой, Паймон. Ты не в счёт - ты и есть закуска.
-
-**Паймон:** Эй!
-
-**Тёдзи:** П-ф-ф... ха-ха-ха-ха!
-
-**Тёдзи:** Ох, умора... Только не ссорьтесь.
-
-**Тёдзи:** У меня всё нормально, но я хотел бы попросить вас ещё об одном одолжении.
-
-- **Путешественник:** Рассказывай, в чём дело?
-
-- **Путешественник:** Я сделаю всё, что в моих силах.
-
-**Тёдзи:** Да ничего особенного. Мне просто нужно, чтобы вы, Путешественник, помогли мне добыть ещё кристаллов.
-
-**Тёдзи:** И я награжу тебя за помощь... Просто поверь мне.
-
-Я тебе, конечно, верю, но ...
-
-**Тёдзи:** Но?..
-
-- **Путешественник:** Почему?
-
-- **Путешественник:** Ты обещал объясниться с нами.
-
-**Паймон:** Точно. Мы до сих пор не знаем, зачем тебе столько кристального костного мозга Дзякоцу!
-
-**Тёдзи:** Что ж... Мне нужны деньги на дорогу, чтобы найти маму. Поэтому я обмениваю кристаллы на деньги.
-
-- **Путешественник:** Но весь рынок кристаллов принадлежит сёгунату.
-
-- **Путешественник:** Ты ведь знаешь, что эти кристаллы трудно продать, или нет?
-
-**Тёдзи:** Знаю. Но я найду способ!
-
-- **Путешественник:** Опасное дело ты затеял.
-
-- **Путешественник:** Как бы с тобой ничего не случилось.
-
-**Тёдзи:** ...
-
-**Паймон:** Тёдзи, мы с тобой друзья, верно?
-
-**Паймон:** Может быть, мы сможем снова тебе помочь!
-
-**Паймон:** Кроме того, ты пообещал награду. Значит, у нас есть право знать, что угрожает тебе, и, соответственно, нашей награде, верно?
-
-Солдатам удачи есть чему поучиться у Паймон...
-
-**Тёдзи:** Пфф... Однако Паймон права.
-
-**Тёдзи:** Я собираю кристаллы не только ради денег.
-
-**Тёдзи:** Я подумал... Что, если мама и папа заболеют, как и все остальные, той заразой, что принёс Татаригами?
-
-**Тёдзи:** Может быть, из этих кристаллов можно сделать лекарство. Они всё же выросли из костей гигантского змея...
-
-**Тёдзи:** И господин Ясумото тоже говорил, что эти кристаллы могут быть полезны.
-
-**Паймон:** Но... нельзя быть уверенным на все сто, да?
-
-**Тёдзи:** Да, но ничего больше пока у нас нет.
-
-**Тёдзи:** Когда я найду маму... или, может быть, даже папу, я отведу их в Сумеру. Говорят, что там есть лекарство от этой странной болезни.
-
-**Тёдзи:** А до тех пор нельзя терять надежду найти лекарство.
-
-**Тёдзи:** Ну, я всё сказал. Ты мне поможешь?
-
-- **Путешественник:** Не вопрос.
-
-- **Путешественник:** Надеюсь, найдёшь кристаллам хорошее применение.
-
-**Тёдзи:** Спасибо! Я этого не забуду!
-
-#### Сцена
 
 Мы нашли письмо.
 
@@ -884,7 +790,6 @@
 
 **Паймон:** Ага! Спасибо!
 
-#### Сцена
 
 **Тёдзи:** Вы вернулись, Путешественник!
 
@@ -918,7 +823,6 @@
 
 **Тёдзи:** Ага! Я знал, что могу положиться на вас, Путешественник!
 
-#### Сцена
 
 **Святилище:** Кажется, это то святилище, о котором говорил Тёдзи!
 
@@ -964,7 +868,6 @@
 
 **Тёдзи:** Ладно. Если будут новости, скажите.
 
-#### Сцена
 
 **Тёдзи:** В любом случае спасибо за помощь! До встречи!
 
@@ -976,7 +879,6 @@
 
 Chouji, a young land selling ore on Yashiori Island, seems to be hiding an unfathomable secret...
 
-#### Scene
 
 **Chouji:** People from abroad, come and have a look! This is the best Jakotsu Crystal in Yashiori Island!
 
@@ -1666,99 +1568,6 @@ It's the flowers your mother offered.
 
 **Paimon:** Safe travels to you too, Chouji!
 
-#### Keep talking to Chouji discarded
-
-**Chouji:** Anyway. Thank you for your help! See you around!
-
-**Chouji:** Hello, Traveler! How've you been?
-
-**Paimon:** Paimon's been great, and you?
-
-You stole my line!
-
-**Paimon:** Haha, that's 'cause you're too slow!
-
-Paimon, gunning for an extra meal, are you?
-
-**Paimon:** Of course. Paimon could always go for an extra meal!
-
-You misunderstand. I mean you're the extra meal.
-
-**Paimon:** Hey now!
-
-**Chouji:** Pfft... Hahaha!
-
-**Chouji:** All right, all right, you guys, please stop fighting.
-
-**Chouji:** I'm doing fine. But I'd like to ask you for another favor.
-
-- **Traveler:** Sure, shoot. What is it?
-
-- **Traveler:** I'll see what I can do.
-
-**Chouji:** Well, it's nothing special. I just need you to help me get some more crystals, Traveler.
-
-**Chouji:** Believe me, I'll reward you for your help... As long as you trust me.
-
-I trust you, but...
-
-**Chouji:** But...?
-
-- **Traveler:** Why?
-
-- **Traveler:** You promised to give me an explanation.
-
-**Paimon:** Right. We still don't know why you need so much Crystal Marrow!
-
-**Chouji:** Well... I need money to travel so that I can find my mother, so I need to trade the crystals for money.
-
-- **Traveler:** But the Shogunate has monopolized the crystal market.
-
-- **Traveler:** You know that these crystals aren't easy to sell, don't you?
-
-**Chouji:** I know, but I'll find my own way!
-
-- **Traveler:** You're playing a dangerous game here.
-
-- **Traveler:** I'm worried about your safety.
-
-**Chouji:** ...
-
-**Paimon:** We're friends, aren't we, Chouji?
-
-**Paimon:** Maybe we can help you again, just like last time!
-
-**Paimon:** Besides, you promised that you'd reward us. So we have the right to know about things that might endanger your and thus affect our reward, right?
-
-What a mercenary philosophy...
-
-**Chouji:** Pfft... Paimon's right, though.
-
-**Chouji:** I don't collect crystal entirely for money.
-
-**Chouji:** I've been thinking... What if Mom and Dad get the disease caused by the Tatarigami, just like everyone else?
-
-**Chouji:** Maybe these crystals can be used to make medicine. They grew from the bones of the giant serpent, after all...
-
-**Chouji:** And Mr. Yasumoto also mentioned that these crystals may be useful.
-
-**Paimon:** But you can't be sure if that's correct, can you?
-
-**Chouji:** Maybe not, but we don't have anything else to go on.
-
-**Chouji:** When I find Mom... or maybe even Dad, I'll take them to Sumeru. People say that they've got cure for this strange disease there.
-
-**Chouji:** Before that, I can't give up any hope of finding a treatment.
-
-**Chouji:** Well, I've said enough. Still want to help me?
-
-- **Traveler:** Do you even need to ask?
-
-- **Traveler:** I hope you can make good use of the crystals.
-
-**Chouji:** Thank you! I won't forget this!
-
-#### Scene
 
 We found a letter.
 
@@ -1834,7 +1643,6 @@ I have faith in him.
 
 **Paimon:** Yup! Thank you!
 
-#### Scene
 
 **Chouji:** You're back, Traveler!
 
@@ -1868,7 +1676,6 @@ We'll do our best.
 
 **Chouji:** Mm! I knew I could rely on you, Traveler!
 
-#### Scene
 
 **Shrine:** This is probably the shrine that Chouji mentioned, huh?
 
@@ -1914,7 +1721,6 @@ We're still trying.
 
 **Chouji:** It's okay. Tell me when you have any news.
 
-#### Scene
 
 **Chouji:** Anyway. Thank you for your help! See you around!
 
@@ -1926,7 +1732,6 @@ We're still trying.
 
 在八酝岛上叫卖矿物的小男孩长次，似乎怀着某些深沉难言的秘密…
 
-#### 场景
 
 **长次:** 外国来的人们，请来看看吧，八酝岛最好的蛇骨晶矿！
 
@@ -2616,99 +2421,6 @@ We're still trying.
 
 **派蒙:** 那也祝你平安！
 
-#### 继续和长次对话废弃
-
-**长次:** 总之，谢谢你们的努力！我们下次有缘再见吧！
-
-**长次:** 你好，旅行者！最近过得如何？
-
-**派蒙:** 挺好的，你呢！
-
-我的话被派蒙抢掉啦！
-
-**派蒙:** 哈哈，只怪你自己反应慢！
-
-我看派蒙是想加餐了吧？
-
-**派蒙:** 当然啦，我天天都想！
-
-我的意思是，你就是「加餐」。
-
-**派蒙:** 喂——！
-
-**长次:** 噗…哈哈哈哈哈！
-
-**长次:** 好啦好啦，你们别吵啦。
-
-**长次:** 我这边也还不错，不过还有件事想要拜托一下。
-
-- **旅行者:** 说吧，什么事？
-
-- **旅行者:** 我尽力而为。
-
-**长次:** 嗯，也没有别的要求啦，只是需要旅行者再帮我开采一些晶石。
-
-**长次:** 请相信我，我一定会好好报答你的…只要你相信我。
-
-我相信你，可是…
-
-**长次:** 可是…？
-
-- **旅行者:** 为什么？
-
-- **旅行者:** 你答应过给我一个解释。
-
-**派蒙:** 对呀，我们还不知道你为什么这么需要晶化骨髓呢！
-
-**长次:** 嗯…我需要钱旅行才能找到妈妈，所以要用矿石来换钱。
-
-- **旅行者:** 可是幕府垄断了晶矿市场。
-
-- **旅行者:** 你知道晶矿不好卖吧？
-
-**长次:** 我知道，我会自己找门路的！
-
-- **旅行者:** 你在做危险的事情。
-
-- **旅行者:** 我在担心你的安危。
-
-**长次:** ……
-
-**派蒙:** 长次，我们已经是朋友了，对吧？
-
-**派蒙:** 说不定这次，我们还能再帮到你呢？
-
-**派蒙:** 而且，你答应要报答我们了。那么可能危及你自己，导致我们拿不到回报的事情，我们也是有权了解的，对吧？
-
-这是什么市侩哲学…
-
-**长次:** 噗…派蒙说的没错啦。
-
-**长次:** 我收集晶矿也不完全是为了赚钱。
-
-**长次:** 我一直在想…假如爸爸妈妈也像大家一样，得了「祟神」带来的病…
-
-**长次:** 或许这些晶石能用来制药也不一定。因为它们也是大蛇的骨骸上生出来的嘛…
-
-**长次:** 而且保本先生也提到过，这些晶石可能有用。
-
-**派蒙:** 可是…这也不是百分百准确的假说吧？
-
-**长次:** 嗯，但我们也没有别的假说了。
-
-**长次:** 等找到妈妈…或许还有爸爸，我就带他们去须弥。听说那里有治疗这种怪病的方法。
-
-**长次:** 但在那之前，我也不能放弃任何一分治疗的希望。
-
-**长次:** 好啦，我说的也够多了，还愿意帮这个忙吗？
-
-- **旅行者:** 你不用问也会的。
-
-- **旅行者:** 希望你能好好利用那些晶石。
-
-**长次:** 谢谢！我不会忘记的！
-
-#### 场景
 
 我们发现了一封信。
 
@@ -2784,7 +2496,6 @@ We're still trying.
 
 **派蒙:** 嗯！借你吉言！
 
-#### 场景
 
 **长次:** 你回来了，旅行者！
 
@@ -2818,7 +2529,6 @@ We're still trying.
 
 **长次:** 嗯，我就知道旅行者可以信赖！
 
-#### 场景
 
 **神龛:** 这就是长次所说的神龛了吧？
 
@@ -2864,7 +2574,6 @@ We're still trying.
 
 **长次:** 没关系的，有消息再告诉我也不迟。
 
-#### 场景
 
 **长次:** 总之，谢谢你们的努力！我们下次有缘再见吧！
 

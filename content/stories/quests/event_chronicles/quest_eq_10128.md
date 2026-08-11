@@ -220,11 +220,9 @@
 
 **Чун Юнь:** Что?..
 
-#### Сцена
 
 **Ноэлль:** Не беспокойтесь, отдыхайте, а я мигом поставлю палатку.
 
-#### Сцена
 
 **Венти:** Приятной прогулки! Надеюсь, вечером вы порадуете нас прекрасными стихами!
 
@@ -1150,11 +1148,9 @@ No need to feel bad.
 
 **Chongyun:** What the...?
 
-#### Scene
 
 **Noelle:** Have fun, you two. I'll have the tent set up soon.
 
-#### Scene
 
 **Venti:** Enjoy your inspiration walks! I'm looking forward to some splendid poetry tonight.
 
@@ -2080,11 +2076,9 @@ Callirhoe?
 
 **重云:** 欸…？
 
-#### 场景
 
 **诺艾尔:** 二位放心去吧，帐篷我很快就能搭好。
 
-#### 场景
 
 **温迪:** 祝你们采风愉快，期待晚上的精彩诗对。
 

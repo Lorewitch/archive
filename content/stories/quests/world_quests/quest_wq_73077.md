@@ -26,27 +26,22 @@
 
 После того как вы открыли каменный замок в Сумеру и уничтожили запечатанных монстров, аранары поручили вам проделать то же самое и с другими «пленниками».
 
-#### Сцена
 
 **Арадашан:** Нара Путешественник очень сильн(ая)(ый)! С тобой мы победим Железоглыбу!
 
-#### Сцена
 
 **Араюта:** Сможем ли мы победить Железоглыбу... Это ведь страшный монстр из легенд. Я так волнуюсь.
 
-#### Сцена
 
 **Арасата:** Говорят, у Железоглыб много разных форм. Бывают похожие на грибы, которые разделяются на железяк...
 
 **Арасата:** Но если победить главную из них, то Железоглыбы станет уязвимой. Смотри внимательно, нара Путешественник.
 
-#### Сцена
 
 **Арасаха:** Я редко говорю с нарами.
 
 **Арасаха:** Спасибо тебе, хорош(ая)(ий) нара.
 
-#### Сцена
 
 **Арадашан:** Ой, а где каменный замок? Он исчез!
 
@@ -278,7 +273,6 @@
 
 **Арадашан:** Встретимся ещё в сновидениях!
 
-#### Сцена
 
 **Арадашан:** Ой, а где каменный замок? Он исчез!
 
@@ -446,27 +440,22 @@
 
 After unlocking the stone lock in Sumeru, and defeating the monsters trapped in the seal, you will be entrusted by Aranara to defeat other sealed monsters.
 
-#### Scene
 
 **Aradashan:** You're very powerful, Nara Traveler. We'll defeat the Bulky Iron Chunk for sure!
 
-#### Scene
 
 **Arayuta:** Will we defeat the Bulky Iron Chunk? It is a terrible monster as told in the legends... Uhhh...
 
-#### Scene
 
 **Arasata:** It is said the Bulky Iron Chunk has many forms and can turn into many Big Iron Chunks.
 
 **Arasata:** But it will be vulnerable once you beat any of its key parts, so watch carefully, Nara Traveler.
 
-#### Scene
 
 **Arasaha:** I don't speak to Nara often.
 
 **Arasaha:** Thank you, nice Nara.
 
-#### Scene
 
 **Aradashan:** Oh no, the stone lock is gone!
 
@@ -698,7 +687,6 @@ I know you'll get there.
 
 **Aradashan:** Yes, let's meet again in the dream later!
 
-#### Scene
 
 **Aradashan:** Oh no, the stone lock is gone!
 
@@ -866,27 +854,22 @@ Greetings.
 
 在须弥解开石头锁，解决封印中的怪物后，受出现的兰那罗委托，解决其他被锁住的怪物…
 
-#### 场景
 
 **兰提沙:** 那菈旅行者，很厉害，有你在，我们一定能够打倒「大方方铁块」的！
 
-#### 场景
 
 **兰耶多:** 能不能打倒「大方方铁块」呢…这可是故事里出现的可怕怪物，有些紧张…
 
-#### 场景
 
 **兰沙陀:** 故事里，「大方方铁块」变化多端，还会如蘑菇一般，分裂成好几个「大大铁块」…
 
 **兰沙陀:** 但只要打倒其中关键的一只，就能让「大方方铁块」露出破绽。要小心观察，那菈旅行者。
 
-#### 场景
 
 **兰沙诃:** …很少和那菈说话。
 
 **兰沙诃:** …谢谢你，好那菈。
 
-#### 场景
 
 **兰提沙:** 啊呀，石头锁！石头锁不见了！
 
@@ -1118,7 +1101,6 @@ Greetings.
 
 **兰提沙:** 啊呀，如果可以的话，在梦中再次相遇吧！
 
-#### 场景
 
 **兰提沙:** 啊呀，石头锁！石头锁不见了！
 

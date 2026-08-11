@@ -26,7 +26,6 @@
 
 В Порт-Ормосе вы встречаете двух чудаков...
 
-#### Сцена
 
 **Пржева:** ...Сделка закрыта?
 
@@ -428,7 +427,6 @@
 
 You notice two strange individuals in Port Ormos...
 
-#### Scene
 
 **Przheva:** ...Did you close that deal?
 
@@ -830,7 +828,6 @@ We should save Alexandra first!
 
 在奥摩斯港里，你注意到了两个奇怪的人…
 
-#### 场景
 
 **普热瓦:** …新生意谈好了吗？
 

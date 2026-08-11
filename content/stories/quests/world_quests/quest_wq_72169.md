@@ -26,7 +26,6 @@
 
 На побережье Инадзумы вы вновь повстречали всеядных гурманов...
 
-#### Сцена
 
 **Сюй Дун:** В этом блюде определённо есть что-то от Джули.
 
@@ -132,7 +131,6 @@
 
 You once again encounter the Gourmet Supremos near Inazuma's beaches...
 
-#### Scene
 
 **Xudong:** This dish certainly does have a very "Julie"-esque feel to it.
 
@@ -238,7 +236,6 @@ Special crabs?
 
 在稻妻的海滩上，你又遇见了「全能美食队」…
 
-#### 场景
 
 **旭东:** 这道菜的名字还真是，很有朱莉的风格。
 

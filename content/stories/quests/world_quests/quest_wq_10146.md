@@ -26,7 +26,6 @@
 
 Вы встречаете океаниду в Фонтейне, где океанид редко увидишь...
 
-#### Сцена
 
 **???:** О, кто это?! С виду вроде бы храбрый и добрый рыцарь. Пожалуйста, помоги нам!
 
@@ -216,7 +215,6 @@
 
 **Паймон:** Тогда вперёд!
 
-#### Сцена
 
 Например, Двалин из Мондштадта...
 
@@ -981,7 +979,6 @@
 
 **Анн:** Да! А я смогу управлять его движением!
 
-#### Сцена
 
 Да ещё и не раз.
 
@@ -1371,7 +1368,6 @@
 
 In Fontaine, where there aren't supposed to be any Oceanids, you meet a tiny Oceanid...
 
-#### Scene
 
 **???:** Ah! You there! You look most reliable, good knight. Please, help us!
 
@@ -1561,7 +1557,6 @@ Indeed, there's been a misunderstanding. We're companions, of course.
 
 **Paimon:** Well, then let's go!
 
-#### Scene
 
 Like Mondstadt's Dvalin...
 
@@ -2325,7 +2320,6 @@ Didn't Al say that...
 
 **Ann:** That's right! In the meantime, I'll do my best to control the bubbles' direction.
 
-#### Scene
 
 More than once, in fact.
 
@@ -2715,7 +2709,6 @@ You two should be able to get across.
 
 在原本不应该遇到纯水精灵的枫丹，遇到了一名小小的纯水精灵…
 
-#### 场景
 
 **？？？:** 啊！看上去很可靠的骑士大人！请你帮帮我们！
 
@@ -2905,7 +2898,6 @@ You two should be able to get across.
 
 **派蒙:** 那我们出发吧！
 
-#### 场景
 
 比如蒙德的特瓦林…
 
@@ -3670,7 +3662,6 @@ You two should be able to get across.
 
 **安:** 嗯！我会努力控制泡泡的方向的！
 
-#### 场景
 
 不止一次。
 

@@ -26,7 +26,6 @@
 
 В Разломе вы встретили одинокую путницу, мага Фатуи по имени Катарина. Похоже, она бродит по Разлому не просто так. Спросите у неё, в чём дело.
 
-#### Сцена
 
 **Катарина:** А вот и вы! Будьте как дома.
 
@@ -224,7 +223,6 @@
 
 You run into a Fatui mage named Katarina who is wandering alone in The Chasm. What is she doing here? Ask her what's going on.
 
-#### Scene
 
 **Katarina:** Ah, you came! Sit and make yourself at home.
 
@@ -422,7 +420,6 @@ A cave in the southeast. Let me mark it out for you.
 
 在层岩巨渊之下，遇到了独自游荡的愚人众术士卡塔琳娜，她似乎是为了什么目的而在层岩巨渊徘徊，去问问她究竟是为了什么事吧。
 
-#### 场景
 
 **卡塔琳娜:** 你们来了！请随便坐坐吧。
 

@@ -246,7 +246,6 @@
 
 **Фремине:** ...Я надеюсь, что каждый, кто столкнулся с трудностями, сможет увидеть что-то прекрасное и испытать чудо...
 
-#### Сцена
 
 **Телькси:** -.. -... .-- -...?
 
@@ -476,7 +475,6 @@ See ya.
 
 **Freminet:** ...I hope that everyone who's found themselves in a dark place would be able to see something beautiful, and experience a miracle for themselves...
 
-#### Scene
 
 **Thelxie:** -.. -... .-- -...?
 
@@ -706,6 +704,5 @@ See ya.
 
 **菲米尼:** …我希望，所有身处困境的人们，都能看到美好的东西，都能看到奇迹…
 
-#### 场景
 
 **「特尔克西」:** -.. -... .-- -...？

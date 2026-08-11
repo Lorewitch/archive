@@ -129,7 +129,6 @@
 
 **Магнифико:** Ха, ничего страшного. Я подожду, когда у вас будет время! Без вас я как без рук!
 
-#### Сцена
 
 **Магнифико:** Хм... Следующий - иктомизавр в лунном свете! Да, звучит неплохо. Правда, чтобы добиться идеального освещения, придётся потрудиться.
 
@@ -205,7 +204,6 @@
 
 **Магнифико:** Ладно, удачи тебе!
 
-#### Сцена
 
 **Магнифико:** Надо поработать над освещением. Мне не нужна помощь.
 
@@ -361,7 +359,6 @@ He soon finishes his work and stands before you proudly.*
 
 **Magnifico:** Ha, it's fine. Just wait till you have the time! It's not like I'll melt into a helpless puddle without your help, eh?
 
-#### Scene
 
 **Magnifico:** Hmm... Next up, an Iktomisaurus under the moonlight! Yes, that sounds good. Getting the ideal lighting is going to take some work, though.
 
@@ -437,7 +434,6 @@ He soon finishes his work and stands before you proudly.*
 
 **Magnifico:** Alright then, best of luck!
 
-#### Scene
 
 **Magnifico:** Go work on the lighting. I don't require any help over here.
 
@@ -593,7 +589,6 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **马尼菲科:** 哈，没关系的，等你们下次有时间吧！我也不是非需要帮手不可就是了！
 
-#### 场景
 
 **马尼菲科:** 唔…接下来是，月光中的暝视龙…嗯！这个倒是不难。只是，为了找到理想的光源位置还是得费一番功夫。
 
@@ -669,7 +664,6 @@ You watch the balloon first shake violently, causing him to give a hearty laugh.
 
 **马尼菲科:** 好吧，祝你好运！
 
-#### 场景
 
 **马尼菲科:** 去打光吧，我这里没什么需要你帮忙的。
 

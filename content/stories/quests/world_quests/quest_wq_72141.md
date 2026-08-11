@@ -24,7 +24,6 @@
 
 ### Зловещая инструкция
 
-#### Сцена
 
 **Васидзу:** ?..
 
@@ -70,7 +69,6 @@
 
 **Святилище чужеземцев:** (Мимо вас, лаская щёки, проносится влажный морской ветерок, и где-то вдалеке кричит, а затем растворяется в одиноком облаке морская птица. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Васидзу:** Он идёт! Не прекращай поклоняться! Ни в коем случае!!!
 
@@ -108,7 +106,6 @@
 
 **Святилище чужеземцев:** (Сквозь шум травы, качающейся от ветра, со стороны моря доносится далёкий крик кита. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Васидзу:** Слушай, не оставляй меня, пожалуйста
 
@@ -118,7 +115,6 @@
 
 **Святилище чужеземцев:** (Вы слышите, как где-то неподалёку жужжат светлячки. Маленькие жучки издают успокаивающее потрескивание. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Васидзу:** Поклонись, помолись и слушай... помни, помни.
 
@@ -140,7 +136,6 @@
 
 **Васидзу:** Возвращайся в другой раз, и ты всё увидишь.
 
-#### Сцена
 
 **Святилище чужеземцев:** (На вид обычное святилище. Никаких необычных следов элементов здесь нет.)
 
@@ -148,7 +143,6 @@
 
 **Святилище чужеземцев:** (Откуда-то неподалёку доносится запах незнакомых полевых цветов. В кустах, похоже, прячется лиса, издавая шуршащие звуки. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Святилище чужеземцев:** (На вид обычное святилище. Никаких необычных следов элементов здесь нет.)
 
@@ -156,7 +150,6 @@
 
 **Святилище чужеземцев:** (Остров Ясиори истощён войной. Печальное зрелище. Но здесь пустота и безмятежность позволяют насладиться буйством красок природы. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Святилище чужеземцев:** (На вид обычное святилище. Никаких необычных следов элементов здесь нет.)
 
@@ -164,7 +157,6 @@
 
 **Святилище чужеземцев:** (Вы слышите топот ящериц и видите, как они оставляют следы, подобные листьям бамбука: красивые, но недолговечные. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Васидзу:** Поклониться, прислушаться...
 
@@ -182,7 +174,6 @@
 
 **Васидзу:** Помни, что если ты будешь поклоняться три раза в день, тебя ждёт награда.
 
-#### Сцена
 
 **Васидзу:** По сравнению с его огромным богатством это очень скромная награда.
 
@@ -206,7 +197,6 @@
 
 **Святилище чужеземцев:** (Васидзу пытается успокоить свой рассудок и тяжело дышит. Он явно волнуется и, похоже, ждёт, что что-то произойдёт. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Святилище чужеземцев:** (На вид обычное святилище. Никаких необычных следов элементов здесь нет.)
 
@@ -214,7 +204,6 @@
 
 **Святилище чужеземцев:** (Васидзу не полностью безумен. Он явно чего-то хочет, но что это может быть? Чем больше вы об этом думаете, тем больше возникает вопросов. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Святилище чужеземцев:** (На вид обычное святилище. Никаких необычных следов элементов здесь нет.)
 
@@ -222,7 +211,6 @@
 
 **Святилище чужеземцев:** (Вы слышите, как где-то вдалеке волны ударяются о камни и заставляют людей смотреть на море и на небо. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Васидзу:** Нужно успокоить его, смягчить его гнев...
 
@@ -244,7 +232,6 @@
 
 **Васидзу:** Прошу, прости меня, прошу, прости меня...
 
-#### Сцена
 
 **Васидзу:** А вот и ты.
 
@@ -278,7 +265,6 @@
 
 **Святилище чужеземцев:** (Васидзу всё ещё бормочет что-то себе под нос неподалёку, и у него нездоровый вид. Святилище неподвижно и безмолвно. Может, это всё обман? Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Святилище чужеземцев:** (Выглядит как обычное святилище, ничего особенного. Видя то, в каком состоянии находится Васидзу, вы всё ещё хотите поклониться святилищу?)
 
@@ -286,7 +272,6 @@
 
 **Святилище чужеземцев:** (Вы слышите, как внутри скелета гигантского змея свищет ветер, но древние кости остаются неподвижными. Обточенный морскими волнами, скелет превратился в музыкальный инструмент - самый грустный, какой только есть в мире. Вы прислушиваетесь, но ничего не происходит.)
 
-#### Сцена
 
 **Святилище чужеземцев:** (Выглядит как обычное святилище, ничего особенного. Видя то, в каком состоянии находится Васидзу, вы всё ещё хотите поклониться святилищу?)
 
@@ -304,7 +289,6 @@
 
 ### Sinister Instruction
 
-#### Scene
 
 **Washizu:** ...?
 
@@ -350,7 +334,6 @@ Pay respects at the shrine
 
 **Outsider Shrine:** (The moist sea breeze brushes against your cheek, and a sea bird sings in the distance as it merges into the lonely clouds. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Washizu:** "He" is coming! Don't stop worshiping! We must not stop worshiping!
 
@@ -388,7 +371,6 @@ Continue to pay respects
 
 **Outsider Shrine:** (The faint sound of a whale comes from a distant sea, drowned out by the sound of the grass swaying in the wind. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Washizu:** Hear me, please don't leave me...
 
@@ -398,7 +380,6 @@ Continue to pay respects
 
 **Outsider Shrine:** (You can hear fireflies buzzing not far away. The little creatures crackle soothingly. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Washizu:** Worship. Pray. Listen... Remember, remember.
 
@@ -420,7 +401,6 @@ Continue to pay respects
 
 **Washizu:** Next time you're here, you can see for yourself.
 
-#### Scene
 
 **Outsider Shrine:** (It looks like an ordinary shrine — there is a distinct lack of any strange elemental traces.)
 
@@ -428,7 +408,6 @@ Pay respects at the shrine
 
 **Outsider Shrine:** (The fragrance of unnamed wildflowers drifts in from nearby. It seems that there is a fox hiding in the bushes, making a rustling sound. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Outsider Shrine:** (It looks like an ordinary shrine — there is a distinct lack of any strange elemental traces.)
 
@@ -436,7 +415,6 @@ Continue to pay respects
 
 **Outsider Shrine:** (Yashiori Island has withered away due to the war, and it is a sad sight. But here, the empty tranquility lends vitality to nature. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Outsider Shrine:** (It looks like an ordinary shrine — there is a distinct lack of any strange elemental traces.)
 
@@ -444,7 +422,6 @@ Continue to pay respects
 
 **Outsider Shrine:** (You can hear lizards running, and you can see the tiny, bamboo leaf-like footprints they leave, elegant yet transient. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Washizu:** Worship, listen...
 
@@ -462,7 +439,6 @@ Continue to pay respects
 
 **Washizu:** Remember. Worship three times a day and you shall be rewarded.
 
-#### Scene
 
 **Washizu:** Compared with "his" great blessings, this is but a small reward.
 
@@ -486,7 +462,6 @@ Pay respects at the shrine
 
 **Outsider Shrine:** (Washizu struggles to calm his restless mind, breathing heavily. He is obviously in a state of passion and seems to be expecting something. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Outsider Shrine:** (It looks like an ordinary shrine — there is a distinct lack of any strange elemental traces.)
 
@@ -494,7 +469,6 @@ Continue to pay respects
 
 **Outsider Shrine:** (Washizu is not completely insane. He obviously desires something, but what is this desire? Thinking only invites more questions. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Outsider Shrine:** (It looks like an ordinary shrine — there is a distinct lack of any strange elemental traces.)
 
@@ -502,7 +476,6 @@ Continue to pay respects
 
 **Outsider Shrine:** (You hear the sound of the waves crashing against the rocks, and that cascading sound leads people to gaze out at the place where sea and sky meet. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Washizu:** "He" must be calmed. "His" anger must be soothed...
 
@@ -524,7 +497,6 @@ Continue to pay respects
 
 **Washizu:** Please forgive me, please forgive me...
 
-#### Scene
 
 **Washizu:** You are here.
 
@@ -558,7 +530,6 @@ Pay respects at the shrine
 
 **Outsider Shrine:** (Washizu is still muttering to himself by the side, and he doesn't look well at all. The shrine is still and unresponsive. Perhaps this is all a scam? You try to listen, but nothing happens.)
 
-#### Scene
 
 **Outsider Shrine:** (This looks like a common shrine with no special features. Seeing Washizu in this state, do you still want to keep paying respects at this shrine?)
 
@@ -566,7 +537,6 @@ Continue to pay respects
 
 **Outsider Shrine:** (You hear the wind whistling through the great serpent's bones, but the ancient corpse remains still. It seems to have been weathered by the sea into an instrument — the most mournful instrument in the ocean. You try to listen, but nothing happens.)
 
-#### Scene
 
 **Outsider Shrine:** (This looks like a common shrine with no special features. Seeing Washizu in this state, do you still want to keep paying respects at this shrine?)
 
@@ -584,7 +554,6 @@ Continue to pay respects
 
 ### 险恶的教喻
 
-#### 场景
 
 **鹫津:** …？
 
@@ -630,7 +599,6 @@ Continue to pay respects
 
 **异人龛:** （海风挟着潮湿的气息拂过你的脸颊，远处一只海鸟鸣叫着融入了孤云。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **鹫津:** 「他」要来了！不要停止拜祭！不能停止拜祭！！
 
@@ -668,7 +636,6 @@ Continue to pay respects
 
 **异人龛:** （朦胧的鲸声从遥远的海域传来，又被周围草叶的摇曳声掩盖。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **鹫津:** 倾听我，请不要离弃我…
 
@@ -678,7 +645,6 @@ Continue to pay respects
 
 **异人龛:** （你听到不远的某处，萤虫正嗡嗡作响，这些小生灵间而发出令人安神的噼啪声。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **鹫津:** 拜祭，祈祷，倾听…切记，切记。
 
@@ -700,7 +666,6 @@ Continue to pay respects
 
 **鹫津:** 下次再来此处，自见分晓。
 
-#### 场景
 
 **异人龛:** （看起来很普通的神龛，并没有任何奇特的元素痕迹。）
 
@@ -708,7 +673,6 @@ Continue to pay respects
 
 **异人龛:** （附近飘来不知名的野花清香，灌木丛中似有狐狸躲藏，发出沙沙轻响。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **异人龛:** （看起来很普通的神龛，并没有任何奇特的元素痕迹。）
 
@@ -716,7 +680,6 @@ Continue to pay respects
 
 **异人龛:** （八酝岛因战乱而人烟凋零，举目伤怆，但在这里，无人的静谧正衬托了自然的活力。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **异人龛:** （看起来很普通的神龛，并没有任何奇特的元素痕迹。）
 
@@ -724,7 +687,6 @@ Continue to pay respects
 
 **异人龛:** （你听见蜥蜴奔跑的声音，似能看到它们留下彷如竹叶的小小脚印，优雅却易逝。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **鹫津:** 拜祭，倾听…
 
@@ -742,7 +704,6 @@ Continue to pay respects
 
 **鹫津:** 切记，每日拜祭三番，必有回赐。
 
-#### 场景
 
 **鹫津:** 与「他」的莫大福泽相比，这只不过是一点小小赏赐。
 
@@ -766,7 +727,6 @@ Continue to pay respects
 
 **异人龛:** （鹫津努力平息着狂躁的心绪，呼吸声粗重。显然他情绪激动，似乎在期待什么。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **异人龛:** （看起来很普通的神龛，并没有任何奇特的元素痕迹。）
 
@@ -774,7 +734,6 @@ Continue to pay respects
 
 **异人龛:** （鹫津并非全然疯狂，他显然有所求取，但他渴求的是什么？思索只会带来更多疑问。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **异人龛:** （看起来很普通的神龛，并没有任何奇特的元素痕迹。）
 
@@ -782,7 +741,6 @@ Continue to pay respects
 
 **异人龛:** （你听见海浪拍在礁石上的声音，远处层叠的涛声催人遥望海天相接之处。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **鹫津:** 必须平息「他」的怒火，必须安抚「他」的愤怒…
 
@@ -804,7 +762,6 @@ Continue to pay respects
 
 **鹫津:** 请原谅我，请原谅我…
 
-#### 场景
 
 **鹫津:** 你来了。
 
@@ -838,7 +795,6 @@ Continue to pay respects
 
 **异人龛:** （鹫津依然在旁边喃喃自语，模样很不妙。神龛则是岿然不动，全无反应。或许这一切不过是一场骗局？你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **异人龛:** （看起来很普通的神龛，并没有任何奇特的元素痕迹。目睹了鹫津的狂态，你还要继续参拜吗？）
 
@@ -846,7 +802,6 @@ Continue to pay respects
 
 **异人龛:** （你听见风在大蛇的骸骨中回荡呼啸，庞大古老的骨骸则无动于衷。它似乎被海风化成了一支乐器——大海中最哀凄的乐器。你努力倾听，但什么也没有发生。）
 
-#### 场景
 
 **异人龛:** （看起来很普通的神龛，并没有任何奇特的元素痕迹。目睹了鹫津的狂态，你还要继续参拜吗？）
 

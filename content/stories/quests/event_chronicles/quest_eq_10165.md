@@ -26,7 +26,6 @@
 
 Вы с Паймон возвращаетесь в Ли Юэ, чтобы отметить ежегодный Праздник морских фонарей. Прогуливаясь в порту, вы видите знакомые лица...
 
-#### Сцена
 
 **Шарбоннье:** ...
 
@@ -532,7 +531,6 @@
 
 **Паймон:** Эй, Паймон может быть в хорошем настроении когда угодно!
 
-#### Сцена
 
 ...
 
@@ -550,7 +548,6 @@
 
 **Ка Мин:** Идите за мной. Быстрее всего будет пройти здесь. Охранное предприятие находится наверху, поэтому надо будет использовать подъёмник.
 
-#### Сцена
 
 **Сянь Юнь:** ...
 
@@ -890,7 +887,6 @@
 
 You and Paimon return to Liyue, preparing to take part in the annual Lantern Rite. As expected, there are familiar faces to be seen as you walk around the harbor...
 
-#### Scene
 
 **Charbonnier:** ...
 
@@ -1392,7 +1388,6 @@ Paimon seems to be drooling already.
 
 **Paimon:** Hey, Paimon can be in a good mood any time she wants!
 
-#### Scene
 
 ...
 
@@ -1410,7 +1405,6 @@ Paimon seems to be drooling already.
 
 **Gaming:** Okay, follow me. This way is fastest. We'll have to take the elevator up to the Secure Transport Agency.
 
-#### Scene
 
 **Xianyun:** ...
 
@@ -1750,7 +1744,6 @@ That does sound like something she would do.
 
 你和派蒙回到璃月，准备参加一年一度的海灯节，在港口漫步时，果不其然见到了熟悉的面孔…
 
-#### 场景
 
 **沙博尼耶:** …
 
@@ -2252,7 +2245,6 @@ That does sound like something she would do.
 
 **派蒙:** 才不是这个原因啦！
 
-#### 场景
 
 …
 
@@ -2270,7 +2262,6 @@ That does sound like something she would do.
 
 **嘉明:** 跟我来，走这边最近。镖局在上面，要坐升降梯上去。
 
-#### 场景
 
 **闲云:** …
 

@@ -230,7 +230,6 @@
 
 **Аратаки Итто:** Эй, хватит меня подкалывать! Что скажешь, дружище? Найдёшь время для дуэли?
 
-#### Сцена
 
 **Паймон:** Привет, Сара! Мы ищем Кокоми, ты её нигде не видела?
 
@@ -816,7 +815,6 @@ How's the tournament been?
 
 **Arataki Itto:** Hey! Quit bustin' my chops, sheesh! Whaddya say, Traveler? You got time for a match now?
 
-#### Scene
 
 **Paimon:** Hi, Sara! We're looking for Kokomi, have you seen her anywhere?
 
@@ -1402,7 +1400,6 @@ Absolutely.
 
 **荒泷一斗:** 别说这么多了。挚友，现在有空吗？
 
-#### 场景
 
 **派蒙:** 裟罗！我们在找心海，你有见到过她吗？
 

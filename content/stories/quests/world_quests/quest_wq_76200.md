@@ -26,7 +26,6 @@
 
 Где-то на острове Лемпо внезапно сильно разросся двулистник...
 
-#### Сцена
 
 Линнея подготавливается к исследованию...
 
@@ -118,7 +117,6 @@
 
 A large patch of Twinleaf Pitcher Plants has suddenly appeared somewhere on Lempo Isle...
 
-#### Scene
 
 Linnea quickly makes the necessary preparations for the investigation...
 
@@ -210,7 +208,6 @@ With the help of the two treasure hunters, the unusual overgrowth of Twinleaf Pi
 
 在伦波岛的某处突然生出大片的双叶笼草…
 
-#### 场景
 
 快速做好了调查的准备…
 

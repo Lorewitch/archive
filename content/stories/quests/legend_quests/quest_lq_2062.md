@@ -38,7 +38,6 @@
 
 **Инканак:** Сходите и посмотрите сами. Не стесняйтесь расспрашивать персонал.
 
-#### Сцена
 
 **Отважный исследователь:** С этого ракурса лучше видно, как высоко поднялся воздушный шар... Интересно, чей он?
 
@@ -78,7 +77,6 @@
 
 **Отважный исследователь:** Тебе нужно ударить по шару в нужный момент, чтобы бомба упала прямо в отверстие. Всё просто!
 
-#### Сцена
 
 **Осмотрительный исследователь:** Хм... Я думаю, что можно очистить этот поток несколькими сильными ударами.
 
@@ -225,7 +223,6 @@ After resolving the Wingless's problem, you rush back to the trial site...
 
 **Inkanak:** Why don't you head on down and check things out for yourself? Feel free to ask the staff for more details.
 
-#### Scene
 
 **Bold Investigator:** From this angle, you can see more clearly just how high up that hot air balloon is... I wish I knew whose it was.
 
@@ -265,7 +262,6 @@ Could you go over the plan with me again?
 
 **Bold Investigator:** All you have to do is hit the balloon at the right moment, so the bomb falls right on top of the spout. Simple!
 
-#### Scene
 
 **Cautious Investigator:** Hmm... I think it should be possible to clear this spout with just a few hard hits.
 
@@ -412,7 +408,6 @@ The next few days are uneventful — except for the flying trial preparations, w
 
 **因卡纳克:** 具体情况，你们可以直接下去看看？也可以问问在场的工作人员。
 
-#### 场景
 
 **大胆的调查员:** 从这边看过去，那只热气球飞得可真高啊…到底是谁放的？
 
@@ -452,7 +447,6 @@ The next few days are uneventful — except for the flying trial preparations, w
 
 **大胆的调查员:** 只要你看准时机击中热气球，让炸药刚刚好落在喷口上…问题就解决了！
 
-#### 场景
 
 **谨慎的调查员:** 嗯…看起来这个喷口，只要进行多次打击就能清理掉。
 

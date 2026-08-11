@@ -912,7 +912,6 @@
 
 **Гоу Саньэр:** Осколки плаустрита вон в том ящике, проходите.
 
-#### Сцена
 
 **Му Му:** К слову, вы свои подарки изготовили вручную, и только мой был куплен.
 
@@ -996,7 +995,6 @@
 
 **Цун Цзы:** Они - свидетельство обещаний, о которых мы не забыли.
 
-#### Сцена
 
 **Паймон:** Наконец-то! Паймон уже думала, что мы там останемся на веки вечные.
 
@@ -1008,7 +1006,6 @@
 
 **Паймон:** А-а-а?!
 
-#### Сцена
 
 **Большой Г:** Ого, там даже все наши имена!
 
@@ -1224,7 +1221,6 @@
 
 ### Без названия 11114
 
-#### Сцена
 
 **Дядюшка Мэн:** Раз я сюда возвращаться не собираюсь, то хотел бы побыть здесь подольше.
 
@@ -2124,7 +2120,6 @@ Why didn't you come looking for Meng sooner?
 
 **Gou San'er:** The Plaustrite Shards are over in that crate there. Please, help yourselves.
 
-#### Scene
 
 **Mumu:** Y'know, I just realized... mine's the only item that's been outright purchased. Yours are both handmade.
 
@@ -2208,7 +2203,6 @@ It turns out that Big G's spirit was attracted by the exorcism. Upon learning th
 
 **Congzi:** They show that we will never forget our promise.
 
-#### Scene
 
 **Paimon:** Finally! Paimon thought we were gonna be trapped in that weird place forever!
 
@@ -2220,7 +2214,6 @@ Yep, just dive off the edge here.
 
 **Paimon:** Wahhhh!?
 
-#### Scene
 
 **Big G:** Wow, there are even the names of all five of us on it!
 
@@ -2436,7 +2429,6 @@ You promised that you'll help us in our search.
 
 ### Untitled 11114
 
-#### Scene
 
 **Meng:** Since I don't plan to ever come back here, I'd like to make the most of this opportunity and stay a bit longer.
 
@@ -3336,7 +3328,6 @@ You promised that you'll help us in our search.
 
 **狗三儿:** 浮生石片就放在那边的箱子里，你们自己找找看吧。
 
-#### 场景
 
 **木木:** 说起来，你们两个人都是亲手做的东西，只有我的是买来的。
 
@@ -3420,7 +3411,6 @@ You promised that you'll help us in our search.
 
 **聪子:** 还有，永远不能忘记的承诺啊。
 
-#### 场景
 
 **派蒙:** 终于过来了，我还以为我们被困在了诡异的空间里面呢。
 
@@ -3432,7 +3422,6 @@ You promised that you'll help us in our search.
 
 **派蒙:** 欸欸——？！
 
-#### 场景
 
 **狼哥:** 哇，这上面居然有我们五个人的名字？
 
@@ -3648,7 +3637,6 @@ You promised that you'll help us in our search.
 
 ### 未命名 11114
 
-#### 场景
 
 **老孟:** 既然以后都不打算回来了，现在我想再多待一会儿。
 

@@ -26,7 +26,6 @@
 
 В лесу вы познакомились с человеком по имени Хайям, который, кажется, как-то связан с аранарами. Лучше согласиться на его просьбу...
 
-#### Сцена
 
 **Хайям:** Ха-ха, ну и ну, ну и дела... Оживает... Этот лес оживает...
 
@@ -362,7 +361,6 @@
 
 You meet an old man named Khayyam in the forest. He seems to share a past with Aranara. It should do no harm to respond to his request for help...
 
-#### Scene
 
 **Khayyam:** Haha, interesting... That's really curious. It's reviving, the forest is... reviving...
 
@@ -698,7 +696,6 @@ Here.
 
 你们在森林中遇到了一位名叫海亚姆的老人，他似乎曾与兰那罗们有着一段过往。不如回应他的求助…
 
-#### 场景
 
 **海亚姆:** 哈哈，真是有趣…真是有意思。好起来了，这片森林…好起来了啊…
 

@@ -258,7 +258,6 @@
 
 **Фишль:** Хм... Я, пожалуй, изволю сопроводить вас.
 
-#### Сцена
 
 **Паймон:** Похоже, ситуация такая же, что и в Спрингвейле.
 
@@ -352,7 +351,6 @@
 
 **Хуай Ань:** Зря я это сказал, ещё беду накличу... Лучше так - удачи вам.
 
-#### Сцена
 
 **Застрельщик Фатуи:** Тьфу... Это не конец. Неподалёку наш Предвестник, и вы получите по заслугам!
 
@@ -460,7 +458,6 @@
 
 **Мона:** Но сначала нам нужно сменить локацию, в Мондштадте слишком много магических помех. Пойдёмте туда, где течение энергий земли посвободнее.
 
-#### Сцена
 
 **Мона:** Здесь так просторно, и небо такое ясное...
 
@@ -766,7 +763,6 @@ She's a good egg, really.
 
 **Fischl:** Hmph... I suppose I shall deign to join you for one further excursion.
 
-#### Scene
 
 **Paimon:** Hmm... Yep, same situation as in Springvale.
 
@@ -860,7 +856,6 @@ We have got to find a way to wake everybody up.
 
 **Huai'an:** Hmm, saying that will probably bring you bad luck... Let me rephrase it. Good luck out there.
 
-#### Scene
 
 **Fatui Skirmisher:** Grr... This doesn't end here! A Harbinger is nearby, you'll get what's coming to you soon enough!
 
@@ -968,7 +963,6 @@ Sorry to interrupt, but work is our priority right now.
 
 **Mona:** First things first, though, we need to get out of the city. There's too much magical disturbance here... Let's head somewhere where the ley line flow is a little smoother.
 
-#### Scene
 
 **Mona:** Wide open space... clear sky...
 
@@ -1274,7 +1268,6 @@ You're a star, Mona! Thanks so much!
 
 **菲谢尔:** 没办法了，本皇女屈尊陪你们多走一程吧。
 
-#### 场景
 
 **派蒙:** 果然…这里的情况和清泉镇差不多。
 
@@ -1368,7 +1361,6 @@ You're a star, Mona! Thanks so much!
 
 **淮安:** 不对，好像这么说有些太晦气了，还是祝您好运吧。
 
-#### 场景
 
 **愚人众先遣队:** 可恶…别以为就这么算了。我们的执行官也在附近，大家走着瞧！
 
@@ -1476,7 +1468,6 @@ You're a star, Mona! Thanks so much!
 
 **莫娜:** 不过得先挪个地方，蒙德城里魔力干扰太多，到地脉流动简单些的地方去吧。
 
-#### 场景
 
 **莫娜:** 嗯，这里地形开阔，天空也很清澈。
 

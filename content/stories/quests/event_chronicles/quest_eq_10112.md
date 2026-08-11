@@ -302,7 +302,6 @@
 
 **Сиканоин Хэйдзо:** Едва ли нам что-то угрожает, но всё равно спасибо. Идём.
 
-#### Сцена
 
 **Камисато Аято:** Ну как, тебе понравилось Испытание смелости?
 
@@ -736,7 +735,6 @@
 
 **Ханюда Тидзуру:** Хочу, чтобы каждый новый день твоих странствий был наполнен праздничной радостью.
 
-#### Сцена
 
 **Яэ Мико:** Когда Аято предложил мне провести Испытание смелости, я поняла, что это прекрасная возможность помочь Тидзуру справиться с терзавшей её болью.
 
@@ -746,7 +744,6 @@
 
 **Яэ Мико:** Я понимала, что лучшее лекарство для неё - общение с людьми. Не расстраивайся, я думаю, она уходила в радостных чувствах.
 
-#### Сцена
 
 **Горо:** У Тидзуру очень грустная история.
 
@@ -1034,7 +1031,6 @@ What do you mean?
 
 **Shikanoin Heizou:** There shouldn't be any danger now, but thank you anyway. Let's go.
 
-#### Scene
 
 **Kamisato Ayato:** So, did you enjoy the Test of Courage?
 
@@ -1468,7 +1464,6 @@ Why?
 
 **Hanyuuda Chizuru:** "I wish that every day of your journey ahead will be filled with joy like a festival."
 
-#### Scene
 
 **Yae Miko:** When Ayato approached me about holding the Test of Courage event, it dawned on me that this would be the perfect opportunity to help Chizuru face her problem.
 
@@ -1478,7 +1473,6 @@ Why?
 
 **Yae Miko:** The best option was for her to directly interact with humans. There's no need to feel sad, I believe she was content when she left us.
 
-#### Scene
 
 **Gorou:** It was heartbreaking to learn of Chizuru's story.
 
@@ -1766,7 +1760,6 @@ Why?
 
 **鹿野院平藏:** 不会有什么危险。不过谢谢，我们走吧。
 
-#### 场景
 
 **神里绫人:** 这次试胆大会，玩得开心吗？
 
@@ -2200,7 +2193,6 @@ Why?
 
 **羽生田千鹤:** 「希望你今后的旅程，每天都像庆典一样开心。」
 
-#### 场景
 
 **八重神子:** 绫人找我商议开办「试胆大会」的时候，我突然想到这是解开千鹤心结的好办法。
 
@@ -2210,7 +2202,6 @@ Why?
 
 **八重神子:** 最好的办法，就是让她试着和人类接触。不必难过啦，我觉得她离开的时候是很开心的。
 
-#### 场景
 
 **五郎:** 我听说了千鹤小姐的事情，真是让人难过。
 

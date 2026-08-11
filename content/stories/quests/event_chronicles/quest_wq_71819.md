@@ -26,7 +26,6 @@
 
 Ван Я из гавани Ли Юэ что-то заботит...
 
-#### Сцена
 
 **Цай Лэ:** К счастью, фонарик зацепился за ветку. Улети он повыше, его было бы не достать...
 
@@ -218,7 +217,6 @@
 
 Wang'ya from Liyue Harbor seems to be troubled by something...
 
-#### Scene
 
 **Cai Le:** Luckily, that Xiao Lantern got stuck on a tree. If it'd flown any higher, we wouldn't be able to reach it...
 
@@ -410,7 +408,6 @@ Do they have to stay on duty throughout the whole festival?
 
 璃月港的望雅似乎正在因为某事而烦恼着…
 
-#### 场景
 
 **蔡乐:** 还好那个霄灯被树给挂住了，要是再飞高点，那就真拿不到了…
 

@@ -26,7 +26,6 @@
 
 Говорят, на курорте «Оазис отдыха» проходит Конкурс айдолов Пипильпан...
 
-#### Сцена
 
 **«Читон»:** «Н-неси в себе чудо цветущего Гуицтли, пусть Священное пламя зажжёт твою улыбку!»
 
@@ -344,7 +343,6 @@
 
 Word has it that the Easybreeze Holiday Resort is hosting a Pipilpan Idol Competition...
 
-#### Scene
 
 **"Chiton":** "B—Bear the miracle of the blooming Guiztli, and let the Sacred Flame ignite your smile!"
 
@@ -662,7 +660,6 @@ Although "Chiton" performs brilliantly on stage, she is unable to match the othe
 
 据说，悠悠度假村正在举办皮皮潘偶像大赛…
 
-#### 场景
 
 **「希顿」:** 「承、承载绽放刺梨的奇迹，用圣火点燃你的笑容！」
 

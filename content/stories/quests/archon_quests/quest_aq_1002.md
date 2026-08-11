@@ -192,7 +192,6 @@
 
 **Паймон:** Используй чувство стихий, чтобы найти следы.
 
-#### Сцена
 
 **Паймон:** Следы упираются в стену... Похоже, что дальше он полез наверх.
 
@@ -374,7 +373,6 @@
 
 **Венти:** Эй, постой!
 
-#### Сцена
 
 **Венти:** Как же так? Она и бровью не повела.
 
@@ -386,7 +384,6 @@
 
 **Венти:** Может быть, ты тоже попробуешь?
 
-#### Сцена
 
 **Венти:** Давай, не стесняйся.
 
@@ -498,7 +495,6 @@
 
 - **Путешественник:** Я не хочу, чтобы вы потеряли друг друга.
 
-#### Сцена
 
 **Отто:** Ну и вонища! Стою здесь целый день, охраняю этот вход...
 Эй ты! Стоять! Тебе сюда нельзя!
@@ -533,7 +529,6 @@
 
 **Дилюк:** У защитников Мондштадта.
 
-#### Сцена
 
 **Отто:** Ах, господин Дилюк, вы не видели здесь двух воришек?
 
@@ -883,7 +878,6 @@
 
 Следы Двалина можно найти по всему Мондштадту. Одна из слёз упала в руины глубоко в лесу.
 
-#### Сцена
 
 **Паймон:** Ура! Мы наконец-то закончили. Пришлось хорошенько постараться!
 
@@ -927,7 +921,6 @@
 
 Хорошо.
 
-#### Сцена
 
 **Паймон:** Ух ты! Сработало!
 
@@ -1009,7 +1002,6 @@
 
 **Венти:** Я, лучший из бардов этого бренного мира, начинаю играть на Небесной лире.
 
-#### Сцена
 
 **Джинн:** Будь осторожен, Барба... Венти! Будь осторожен, Венти!
 
@@ -1221,39 +1213,31 @@
 
 **Жадный стражник:** Моя воля тверда и непреклонна, как сама вечная мерзлота!
 
-#### Сцена
 
 Да. Мы размазали их.
 
 **Трусливый стражник:** Что? Я тебя не боюсь! На моей стороне агент Фатуи!
 
-#### Сцена
 
 Нет. Они вернулись в Снежную по срочным делам.
 
 **Трусливый стражник:** Что? Я тебя не боюсь! На моей стороне агент Фатуи!
 
-#### Сцена
 
 С ним мы уже разобрались.
 
-#### Сцена
 
 Ладно, мы оба знаем, что ты его выдумал.
 
-#### Сцена
 
 Он сейчас выпивает в «Кошкином хвосте».
 
-#### Сцена
 
 Как насчёт 500 000 моры?
 
-#### Сцена
 
 Мы представим тебя обществу по укреплению снежно-мондштадтских отношений...
 
-#### Сцена
 
 Хочешь яблоко?
 
@@ -1429,7 +1413,6 @@ Returning to Mondstadt, you encountered a clash between Jean and the Fatui. Afte
 
 **Paimon:** Use Elemental Sight to track him down.
 
-#### Scene
 
 **Paimon:** His footprints lead to this wall. Did he climb up from here?
 
@@ -1611,7 +1594,6 @@ Stopped at last, Venti explained that he had tried and failed to cleanse Dvalin'
 
 **Venti:** Wait—
 
-#### Scene
 
 **Venti:** Eh? She didn't even bat an eyelid.
 
@@ -1623,7 +1605,6 @@ Stopped at last, Venti explained that he had tried and failed to cleanse Dvalin'
 
 **Venti:** Maybe you can give it a shot.
 
-#### Scene
 
 **Venti:** Don't be shy. Go.
 
@@ -1735,7 +1716,6 @@ And if you're not a god, then I'll help Dvalin anyway.
 
 - **Traveler:** I don't want to see another separation.
 
-#### Scene
 
 **Otto:** Man, this stinks. Having to stand around here all day long, having to guard this entrance.
 Hey! Don't move! You can't go down there!
@@ -1770,7 +1750,6 @@ Venti's plan to steal the Holy Lyre went off without a hitch. Well, almost — w
 
 **Diluc:** The "protectors" of Mondstadt...
 
-#### Scene
 
 **Otto:** Ah, Master Diluc. Have you seen two thieves around?
 
@@ -2120,7 +2099,6 @@ The Holy Lyre is in poor condition, but you manage to restore some of its Anemo 
 
 Dvalin's footprints are all over Mondstadt, and one of his tears fell upon a ruin deep within the forest.
 
-#### Scene
 
 **Paimon:** *sigh* We're done gathering! That was hard...
 
@@ -2164,7 +2142,6 @@ After completing the retrieval of the tears, you meet up with the rest of the gr
 
 Let me give it a try...
 
-#### Scene
 
 **Paimon:** It worked!
 
@@ -2246,7 +2223,6 @@ Dvalin's tears restored the Holy Lyre back to its full power. Now, you are final
 
 **Venti:** I, the best wandering bard of the mortal world, shall begin my performance with the Holy Lyre.
 
-#### Scene
 
 **Jean:** Barbat— Venti, please, be careful...
 
@@ -2458,39 +2434,31 @@ There's nothing to discuss. Give up now.
 
 **Greedy Guard:** The will of Snezhnaya is as solid as the permafrost! I will not yield!
 
-#### Scene
 
 I kicked their Snezhnayan butts.
 
 **Timid Guard:** What!? I—I'm not scared of you. An Agent will come to my aid!
 
-#### Scene
 
 No, but they got called back to Snezhnaya on urgent business.
 
 **Timid Guard:** What!? I—I'm not scared of you. An Agent will come to my aid!
 
-#### Scene
 
 Oh, I dealt with him already.
 
-#### Scene
 
 We both know you're making that up.
 
-#### Scene
 
 He's getting drunk at the Cat's Tail.
 
-#### Scene
 
 How does 500,000 Mora sound?
 
-#### Scene
 
 We'll recommend you to the Association.
 
-#### Scene
 
 Have an apple!
 
@@ -2666,7 +2634,6 @@ Have an apple!
 
 **派蒙:** 用元素视野来看看有什么线索吧。
 
-#### 场景
 
 **派蒙:** 脚印在墙边消失了…是从这里爬上去了吗？
 
@@ -2848,7 +2815,6 @@ Have an apple!
 
 **温迪:** 呀——
 
-#### 场景
 
 **温迪:** 欸嘿，修女她头也不回地走了。
 
@@ -2860,7 +2826,6 @@ Have an apple!
 
 **温迪:** 要不然，你也来试试？
 
-#### 场景
 
 **温迪:** 不要害羞，喏，赶紧去吧。
 
@@ -2972,7 +2937,6 @@ Have an apple!
 
 - **旅行者:** 因为我不想再见到「分离」。
 
-#### 场景
 
 **奥特:** 麻烦啊，这地下室入口真的需要在整个白天一直守卫吗…
 喂！你站住，这里禁止通行！
@@ -3007,7 +2971,6 @@ Have an apple!
 
 **迪卢克:** 蒙德城的「保安」们。
 
-#### 场景
 
 **奥特:** 啊，迪卢克老爷，你看见那两个小偷了吗？
 
@@ -3357,7 +3320,6 @@ Have an apple!
 
 特瓦林的足迹遍布蒙德，其中一颗泪滴掉落在林中废墟。
 
-#### 场景
 
 **派蒙:** 成功收集！真不容易啊。
 
@@ -3401,7 +3363,6 @@ Have an apple!
 
 交给我吧。
 
-#### 场景
 
 **派蒙:** 成功啦！
 
@@ -3483,7 +3444,6 @@ Have an apple!
 
 **温迪:** 尘世间最好的吟游诗人，要开始拨动他的琴弦了。
 
-#### 场景
 
 **琴:** 巴——温迪阁下，请注意保护好自己。
 
@@ -3569,11 +3529,11 @@ Have an apple!
 
 **「愚人众」守卫:** 「女士」大人会找到你们，把你们吊起来折磨——到那时可不要连累我啊！
 
-#### (test)与1号房NPC对话
+#### 与1号房NPC对话
 
 **「胆小」的守卫:** 你…你们是什么人，你们要干什么！啊啊啊！
 
-#### (test)与NPC交涉破裂-战斗前触发
+#### 与NPC交涉破裂-战斗前触发
 
 **「胆小」的守卫:** 呵呵……
 
@@ -3581,7 +3541,7 @@ Have an apple!
 
 **「胆小」的守卫:** 我也是至冬国光荣的一员，我是不会屈服的！
 
-#### (test)踩中2号触发器
+#### 踩中2号触发器
 
 **「胆小」的守卫:** 好吧！我也实在没办法…
 
@@ -3589,11 +3549,11 @@ Have an apple!
 
 **「胆小」的守卫:** 钥匙在这里…从大厅继续往前走就是了，可别说是我给你的。
 
-#### (test)与2号房NPC对话
+#### 与2号房NPC对话
 
 **「贪婪」的守卫:** 你…你们是什么人，怎么混进来的？！
 
-#### (test)踩中3号触发器
+#### 踩中3号触发器
 
 **「贪婪」的守卫:** 嗯……
 
@@ -3609,23 +3569,23 @@ Have an apple!
 
 **派蒙:** 说得很凶狠但还是跑路了呢。
 
-#### (test)对NPC威胁
+#### 对NPC威胁
 
 投降吧，没人会来帮你的。
 
 **「胆小」的守卫:** 其他守卫都被打倒了吗？
 
-#### (test)对NPC宣战
+#### 对NPC宣战
 
 没什么可多说的，看招!
 
 **「胆小」的守卫:** 哇…就这样开打了吗！
 
-#### (test)与NPC交涉成功-返回
+#### 与NPC交涉成功-返回
 
 **「胆小」的守卫:** 唔……
 
-#### (test)与NPC交涉失败-返回
+#### 与NPC交涉失败-返回
 
 **「胆小」的守卫:** 好吧！我也实在没办法…
 
@@ -3633,11 +3593,11 @@ Have an apple!
 
 **「胆小」的守卫:** 但可惜，钥匙不在我这里。你们还是去找下一个人看看吧。
 
-#### (test)一号房间-完成标记任务
+#### 一号房间-完成标记任务
 
 **「胆小」的守卫:** 我也是至冬国光荣的一员，我是不会屈服的！
 
-#### (test)对NPC2贿赂
+#### 对NPC2贿赂
 
 我们是蒙冬友爱协会的亲善大使。
 
@@ -3663,17 +3623,17 @@ Have an apple!
 
 **「贪婪」的守卫:** 你们是为了天空之琴来的吧？
 
-#### (test)对NPC2宣战
+#### 对NPC2宣战
 
 没什么可多说的，你投降吧。
 
 **「贪婪」的守卫:** 哼…我可不吃这一套！
 
-#### (test)与NPC2交涉成功-返回
+#### 与NPC2交涉成功-返回
 
 **「贪婪」的守卫:** 唔…
 
-#### (test)与NPC2交涉失败-返回
+#### 与NPC2交涉失败-返回
 
 **「贪婪」的守卫:** 嗯……
 
@@ -3683,7 +3643,7 @@ Have an apple!
 
 **「贪婪」的守卫:** 但可惜，钥匙不在我这里。你们还是去找下一个人看看吧。
 
-#### (test)与NPC2交涉失败-战斗环
+#### 与NPC2交涉失败-战斗环
 
 **「贪婪」的守卫:** 呵呵……
 
@@ -3691,42 +3651,34 @@ Have an apple!
 
 **「贪婪」的守卫:** 至冬国的意志如冰一般坚硬，我是不会屈服的！
 
-#### (test)2号房间-完成标记任务
+#### 2号房间-完成标记任务
 
 **「贪婪」的守卫:** 至冬国的意志如冰一般坚硬，我是不会屈服的！
 
-#### 场景
 
 没错，都被我打倒了。
 
 **「胆小」的守卫:** 什么？！我…我不怕，先遣队的「债务处理人」会来支援我的！
 
-#### 场景
 
 他们突然有急事回至冬国。
 
 **「胆小」的守卫:** 什么？！我…我不怕，先遣队的「债务处理人」会来支援我的！
 
-#### 场景
 
 他也被我顺手解决了。
 
-#### 场景
 
 别指望了，根本没见这个人。
 
-#### 场景
 
 他在猫尾酒馆喝酒啊。
 
-#### 场景
 
 事成之后，五十万摩拉？
 
-#### 场景
 
 我们会向蒙冬友爱协会引荐你。
 
-#### 场景
 
 这个苹果给你吃？

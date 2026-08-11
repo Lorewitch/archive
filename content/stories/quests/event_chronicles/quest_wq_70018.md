@@ -54,7 +54,6 @@ Mosi mita!
 
 **Элла Маск:** Идём тогда?
 
-#### Сцена
 
 **Хиличурл:** Nye, Mani nye!
 
@@ -94,7 +93,6 @@ Mosi mita!
 
 **Ella Musk:** Alright, then let's head off.
 
-#### Scene
 
 **Hilichurl:** Nye, Mani nye!
 
@@ -134,7 +132,6 @@ Mosi mita!
 
 **艾拉·马斯克:** 那么我们出发吧。
 
-#### 场景
 
 **丘丘人:** Nye, Mani nye!
 

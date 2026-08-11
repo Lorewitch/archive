@@ -26,7 +26,6 @@
 
 Кажется, долина Яоде скрывает секреты, о которых никто не знает...
 
-#### Сцена
 
 **Беззаботный симулякр:** А? Ты что-то сказал(а)?
 
@@ -124,7 +123,6 @@
 
 **Беззаботный симулякр:** Эм... В общем, загоните бабочек в баночку. Прошу вас, добрые люди!
 
-#### Сцена
 
 **Беззаботный симулякр:** Хм? Кто смеет тревожить мой покой? А, это вы, добрые люди...
 
@@ -200,7 +198,6 @@
 
 Yaodie Valley seems to conceal secrets unknown to all...
 
-#### Scene
 
 **Carefree Simulacrum:** Sorry? What were you saying just now...?
 
@@ -298,7 +295,6 @@ So what am I supposed to do?
 
 **Carefree Simulacrum:** Uh... Anyway, I'm counting on you to get them back into the jar, kind humans!
 
-#### Scene
 
 **Carefree Simulacrum:** Hmm...? Who art thou, to disturb mine... Ah, it's you, kind humans.
 
@@ -374,7 +370,6 @@ So what am I supposed to do?
 
 药蝶谷中似乎隐藏着尚不为人所知的秘密…
 
-#### 场景
 
 **「慢悠悠仙像」:** 嗯？你刚才说什么来着…
 
@@ -472,7 +467,6 @@ So what am I supposed to do?
 
 **「慢悠悠仙像」:** 呃…总之，拜托你们帮忙把那些彩蝶赶回罐子里吧，好心的人类！
 
-#### 场景
 
 **「慢悠悠仙像」:** 嗯…？尔等何人？扰我…啊，是你们，好心的人类…
 

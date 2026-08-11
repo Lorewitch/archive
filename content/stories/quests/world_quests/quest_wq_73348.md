@@ -26,7 +26,6 @@
 
 Как утверждает Хедив, это рекомендательное письмо, написанное им лично, позволит предъявителю сего получить помощь Пурбируни.
 
-#### Сцена
 
 **Садифэй:** Ещё раз большое спасибо за помощь. Если в будущем я смогу быть вам как-то полезен, только скажите.
 
@@ -258,7 +257,6 @@
 
 According to Khedive, anyone carrying his handwritten "letter of recommendation" is guaranteed help from Purbiruni.
 
-#### Scene
 
 **Sadife:** Thanks again for your help, and please do not hesitate to reach out in case you need anything.
 
@@ -490,7 +488,6 @@ Did you take them?
 
 根据海迪夫的说法，他所亲笔写就的这封「举荐信」可以让持信者获得普尔比鲁尼一门的帮助。
 
-#### 场景
 
 **赛达菲:** 再次感谢您的帮助，如果您以后需要我的帮助，请尽管开口。
 

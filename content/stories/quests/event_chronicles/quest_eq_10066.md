@@ -520,7 +520,6 @@
 
 **Паймон:** Уже поздно. Давай вернёмся и отдохнём. Завтра утром нужно встретить ещё один корабль.
 
-#### Сцена
 
 Обсудить книги, которые он читал во время плавания.
 
@@ -1034,7 +1033,6 @@ It's a possibility.
 
 **Paimon:** It's getting late now. Let's go back and get some rest. We still have to go to the docks and wait for another ship tomorrow morning.
 
-#### Scene
 
 Talk about the book he read during the voyage.
 
@@ -1548,7 +1546,6 @@ Talk about the book he read during the voyage.
 
 **派蒙:** 天已经晚了，我们也回去休息吧，明天早上还要去港口接船呢。
 
-#### 场景
 
 聊聊「途中看的书」。
 

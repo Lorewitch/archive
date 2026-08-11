@@ -26,7 +26,6 @@
 
 В подводных руинах вы обнаружили таинственное приспособление, излучающее свет...
 
-#### Сцена
 
 **Паймон:** Ух ты... Кто бы мог подумать, что под водой есть такое огромное пространство, да ещё и с такими странными штуковинами!
 
@@ -134,11 +133,9 @@
 
 **Севинье:** Не говори так, это ведь не сложно.
 
-#### Сцена
 
 **Странный мек:** (Мек неподвижен, словно ждёт приказа.)
 
-#### Сцена
 
 **Странный мек:** (Мек неподвижен, словно ждёт приказа.)
 
@@ -186,17 +183,14 @@
 
 **Киссери:** Спасибо за вашу помощь. Пожалуйста, возьмите эту награду за труды.
 
-#### Сцена
 
 **Паймон:** Здесь тоже есть комната? Как загадочно... А что если мы проникли в секретную лабораторию какого-нибудь чудака?
 
-#### Сцена
 
 **Севинье:** Перфоленты находятся на книжной полке во внутренней комнате. Найдите их. Что касается других исследовательских материалов...
 
 **Севинье:** С ними никаких проблем возникнуть не должно, верно? Никакой секретной информации там всё равно нет...
 
-#### Сцена
 
 **Севинье:** Перфоленты должны быть на книжных полках, найдите их. Что касается других исследовательских материалов...
 
@@ -208,7 +202,6 @@
 
 You encounter a mysterious light-emitting device within some peculiar underwater ruins...
 
-#### Scene
 
 **Paimon:** Whoa... Who knew there was such a huge space under the water, with strange devices too!
 
@@ -316,11 +309,9 @@ Do you often do things like this?
 
 **Sevigne:** Don't say that. After all, it's just a piece of cake for you!
 
-#### Scene
 
 **Strange Clockwork Meka:** (The clockwork meka does not move, as if awaiting a command.)
 
-#### Scene
 
 **Strange Clockwork Meka:** (The clockwork meka does not move, as if awaiting a command.)
 
@@ -368,17 +359,14 @@ Do you often do things like this?
 
 **Chisseray:** Anyway, thanks for your help. Here's your pay for a job well done.
 
-#### Scene
 
 **Paimon:** There's a room here too? How mysterious... Maybe we actually stumbled into some weirdo's secret lab!
 
-#### Scene
 
 **Sevigne:** The punched tapes are on the bookshelves inside, so look for them. As for the other research materials...
 
 **Sevigne:** It should be okay to look, right? Not like they're classified or anything...
 
-#### Scene
 
 **Sevigne:** The punched tapes should be on the bookshelves inside, so look for them there. As for the other research materials...
 
@@ -390,7 +378,6 @@ Do you often do things like this?
 
 在水下的神秘遗迹内遭遇了发出光线的神秘装置…
 
-#### 场景
 
 **派蒙:** 哇…没想到水下居然有这么大的空间，还有奇怪的装置！
 
@@ -498,11 +485,9 @@ Do you often do things like this?
 
 **瑟维妮:** 别这么说嘛，反正不是什么难事。
 
-#### 场景
 
 **奇怪的发条机关:** （发条机关没有动作，好像在等待指令。）
 
-#### 场景
 
 **奇怪的发条机关:** （发条机关没有动作，好像在等待指令。）
 
@@ -550,17 +535,14 @@ Do you often do things like this?
 
 **希塞蕾:** 不管怎么说，感谢你们的协助，完成委托的报酬还请两位收好。
 
-#### 场景
 
 **派蒙:** 这里也有房间？好神秘哦，搞不好我们闯进了什么怪人的秘密实验室呢！
 
-#### 场景
 
 **瑟维妮:** 打孔纸带放在里间的书架上了，你们找找看吧。其他的研究资料就…
 
 **瑟维妮:** 看看应该也没问题吧？反正没什么机密信息…
 
-#### 场景
 
 **瑟维妮:** 打孔纸带应该就在书架上，你们找找看吧。其他的研究资料就…
 

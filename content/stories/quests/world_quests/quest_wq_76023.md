@@ -26,7 +26,6 @@
 
 Кто-то зовёт на помощь во время грозовой бури. Похоже, надо вмешаться...
 
-#### Сцена
 
 **Фаннгел:** Хоть я и не знаю, как вам удалось благополучно пройти через грозовую бурю и добраться сюда, но... Сейчас не время говорить об этом! Помогите мне!
 
@@ -44,11 +43,9 @@
 
 **Фаннгел:** Вы мне так помогли! Огромное вам спасибо!
 
-#### Сцена
 
 **Фаннгел:** Только не в меня... Мне ещё работать надо!
 
-#### Сцена
 
 **Фаннгел:** Отличные новости! В нашем исследовании наметился прорыв!
 
@@ -130,7 +127,6 @@
 
 **Фаннгел:** Да, вперёд, ради науки!
 
-#### Сцена
 
 Хорошо, но мне нужно немного времени.
 
@@ -152,7 +148,6 @@
 
 Фаннгел настраивает параметры для эксперимента.
 
-#### Сцена
 
 **Фаннгел:** Эксперимент удался! Как мы и ожидали, потенциал куувяки поистине огромен.
 
@@ -400,7 +395,6 @@
 
 You stumble upon someone calling for help in a thunderstorm, and he seems to definitely need some...
 
-#### Scene
 
 **Fanngel:** I can't imagine how you two warriors managed to make it through the thunderstorm, but... that's not the point right now. I need your help!
 
@@ -418,11 +412,9 @@ You stumble upon someone calling for help in a thunderstorm, and he seems to def
 
 **Fanngel:** Thank you so much! I really appreciate it!
 
-#### Scene
 
 **Fanngel:** Please, don't strike me... I still have work to do!
 
-#### Scene
 
 **Fanngel:** Good news! I've made a breakthrough!
 
@@ -504,7 +496,6 @@ For the sake of science.
 
 **Fanngel:** That's the spirit — for the sake of science!
 
-#### Scene
 
 Sure, just give me a moment.
 
@@ -526,7 +517,6 @@ Sure thing. Let's get started.
 
 Fanngel finishes setting the parameters for the experiment.
 
-#### Scene
 
 **Fanngel:** The experiment was a success! Just as I thought, kuuvahki has huge potential!
 
@@ -774,7 +764,6 @@ Give us a moment.
 
 在雷暴中发现一名求救者，他似乎需要帮助…
 
-#### 场景
 
 **方格尔:** 虽然不知道两位勇士是怎么平安无事穿越雷暴来到这里的，但！现在不是说这个的时候，请帮帮忙！
 
@@ -792,11 +781,9 @@ Give us a moment.
 
 **方格尔:** 真是帮了大忙了，太感谢你们了！
 
-#### 场景
 
 **方格尔:** 不要劈到我啊…我还有需要完成的工作！
 
-#### 场景
 
 **方格尔:** 好消息！研究有突破！
 
@@ -878,7 +865,6 @@ Give us a moment.
 
 **方格尔:** 嗯，为了科学！
 
-#### 场景
 
 可以，不过请稍微等我一下。
 
@@ -900,7 +886,6 @@ Give us a moment.
 
 方格尔设置好了实验要用的参数。
 
-#### 场景
 
 **方格尔:** 实验成功了！果然就像我们推测的那样，月矩力的潜力实在太大了。
 

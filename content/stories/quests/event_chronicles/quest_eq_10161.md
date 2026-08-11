@@ -26,7 +26,6 @@
 
 Во время кинофестиваля «Фонтиналия» дети с корзинами ходят по городу и просят конфеты у прохожих. Прогуливаясь по оживлённым праздничным улицам, вы замечаете знакомые лица...
 
-#### Сцена
 
 **Ксавье:** ...Серьёзно? Но господин Моррис, я не понимаю! Почему вы говорите мне об этом только сейчас?
 
@@ -266,7 +265,6 @@
 
 **Камисато Аято:** Хорошо. Показывайте дорогу, господин Ксавье.
 
-#### Сцена
 
 **Камисато Аяка:** Идите вперёд, о нас не беспокойтесь.
 
@@ -1092,7 +1090,6 @@
 
 During the Fontinalia Festival, children carry baskets and head up and down the streets asking for candies. As you roam the vibrant festive streets, you might just meet some familiar faces...
 
-#### Scene
 
 **Xavier:** ...Seriously!? But Mr. Morris, I don't understand, sir! How can you only be telling me this now!?
 
@@ -1332,7 +1329,6 @@ I thought I would always get the lead role.
 
 **Kamisato Ayato:** Very well. Then please kindly lead the way, Mr. Xavier.
 
-#### Scene
 
 **Kamisato Ayaka:** You go ahead, no need to worry about us.
 
@@ -2158,7 +2154,6 @@ Can't someone from the Special Patrol help you investigate?
 
 时值枫丹「千灵节」，孩子们提着篮子走上街头，讨要糖果。漫步在如此热闹的节日街头，或许会遇到几位熟悉的朋友…
 
-#### 场景
 
 **泽维尔:** …这！莫里斯先生，您这位先生啊！怎么能现在才跟我说这些？
 
@@ -2398,7 +2393,6 @@ Can't someone from the Special Patrol help you investigate?
 
 **神里绫人:** 那就有劳泽维尔先生带路了。
 
-#### 场景
 
 **神里绫华:** 各位放心去吧，不用担心我们。
 

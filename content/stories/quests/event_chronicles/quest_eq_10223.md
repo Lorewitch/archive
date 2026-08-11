@@ -76,7 +76,6 @@
 
 **Яэ Мико:** Как только закончишь наслаждаться фестивалем, непременно загляни к Эи.
 
-#### Сцена
 
 Эпический поход за жареным тофу... Это «Дневной сон лисички»!
 
@@ -338,7 +337,6 @@
 
 Приз за лучшую игру получает...
 
-#### Сцена
 
 **Эи:** А, это ты. Перед битвой необходимо успокоить разум. Если у тебя есть незаконченные дела, сейчас самое время закончить их.
 
@@ -376,7 +374,6 @@
 
 **Яэ Мико:** Кроме того, мир очень большой. Люди, ёкаи... Места хватит всем.
 
-#### Сцена
 
 Двойники мудзины спешат на помощь... Это «Призрачный бунсин»!
 
@@ -444,7 +441,6 @@ Oh, I almost forgot about that...
 
 **Yae Miko:** Once you're done experiencing the festival, you should check in with Ei.
 
-#### Scene
 
 An epic quest for fried tofu... It's "A Little Fox's Daydream"!
 
@@ -706,7 +702,6 @@ Already done.
 
 The award for "best game" goes to...
 
-#### Scene
 
 **Ei:** Ah, it's you. Before battle, it is imperative to calm the mind. If you have unfinished business, see to that now.
 
@@ -744,7 +739,6 @@ What about the Shogunate's development plan...?
 
 **Yae Miko:** Besides, the world is a big place. Humans, youkai... There's more than enough room for all of us.
 
-#### Scene
 
 Mujina body doubles to the rescue... It's "Bunshin Phantasm"!
 
@@ -812,7 +806,6 @@ Mujina body doubles to the rescue... It's "Bunshin Phantasm"!
 
 **八重神子:** 之后…等你体会得差不多了，就去见见她吧。
 
-#### 场景
 
 众里寻貘千百度、「小狐狸的白日梦」！
 
@@ -1074,7 +1067,6 @@ Mujina body doubles to the rescue... It's "Bunshin Phantasm"!
 
 获得「最佳游艺」的是…
 
-#### 场景
 
 **影:** …你来了吗？入战之前，需抚平自己的心境。如果还有什么琐事，就先去做完吧。
 
@@ -1112,7 +1104,6 @@ Mujina body doubles to the rescue... It's "Bunshin Phantasm"!
 
 **八重神子:** 何况天下这么大…总能容得下人类和妖怪的。
 
-#### 场景
 
 貉貉分身帮帮忙、「分身幻梦」！
 

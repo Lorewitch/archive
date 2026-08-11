@@ -612,7 +612,6 @@
 
 **Паймон:** Ладно, неважно.
 
-#### Сцена
 
 **Рекхар:** Время ещё есть. Вы пока осмотритесь вокруг.
 
@@ -1454,7 +1453,6 @@
 
 **Инайя:** Я не сомневаюсь в тебе.
 
-#### Сцена
 
 **Хасани:** Сожаление и отчаяние тоже бывает красиво, но мы не можем сейчас опускать руки.
 
@@ -1858,7 +1856,6 @@
 
 **Нилу:** Бери-бери! Эта история принадлежит нам с тобой. И я никогда её не забуду.
 
-#### Сцена
 
 **Нилу:** Господин Зубаир уже представил заверенные копии всех документов, касающихся нашей деятельности. Все документы в наличии, и все они являются действительными.
 
@@ -1924,13 +1921,11 @@
 
 **Нилу:** (Соберись, Нилу. Театр Зубаира определённо не просто место, где мы показываем представления...)
 
-#### Сцена
 
 **Нилу:** Не забывайте нас навещать. Видя, как невозмутимо вы переносите все тяготы путешествий, мне и самой на сердце будет спокойнее.
 
 **Нилу:** Знаете, а вы ведь для меня уже как местные. Да, как самые настоящие люди с Большого базара!
 
-#### Сцена
 
 **Паймон:** На дебатах ты сказала, что у тебя новая цель появилась. Это какая такая?
 
@@ -2534,7 +2529,6 @@ Paimon...
 
 **Paimon:** Oh well, it's none of our business.
 
-#### Scene
 
 **Rekhar:** There's still some time until the event. Feel free to look around.
 
@@ -3376,7 +3370,6 @@ That's right.
 
 **Inayah:** Hehe, fingers crossed!
 
-#### Scene
 
 **Khasani:** Although we can find a form of beauty in regret and disappointment, it makes no sense to just accept this world's tragedies.
 
@@ -3780,7 +3773,6 @@ So you're still concerned about your daughter.
 
 **Nilou:** Come on, take it. This is the story of you and me. It's a tale that I'll never, ever forget.
 
-#### Scene
 
 **Nilou:** Mr. Zubayr has already provided signed copies of all documentation related to our operations. Everything is perfectly filled out and valid.
 
@@ -3846,13 +3838,11 @@ So you're still concerned about your daughter.
 
 **Nilou:** (Just a little more. Zubayr Theater isn't just a performance venue to us...)
 
-#### Scene
 
 **Nilou:** You two are welcome here anytime! Seeing you safe and sound in between adventures will keep me from worrying too much about you.
 
 **Nilou:** I think I already see you two as people of the Grand Bazaar. Yep, without a doubt.
 
-#### Scene
 
 **Paimon:** During the debate, you said that you found a new wish. What was it?
 
@@ -4456,7 +4446,6 @@ So you're still concerned about your daughter.
 
 **派蒙:** 算了，不管她。
 
-#### 场景
 
 **里卡尔:** 距离活动开始还有一会儿，你们可以随意逛逛。
 
@@ -5298,7 +5287,6 @@ So you're still concerned about your daughter.
 
 **阿娜耶:** 嗯，我相信你。
 
-#### 场景
 
 **加萨尼:** 虽说遗憾也是一种美，但如此这般就有些莫名其妙了。
 
@@ -5702,7 +5690,6 @@ So you're still concerned about your daughter.
 
 **妮露:** 来，快收下吧。这是属于你我的故事，我会永远记得。
 
-#### 场景
 
 **妮露:** 祖拜尔先生已经提供了所有与教令院签署的手续，齐全完备，也都在有效期内。
 
@@ -5768,13 +5755,11 @@ So you're still concerned about your daughter.
 
 **妮露:** （只差一点点了，「祖拜尔剧场」对我们大家来说，绝对不只是个表演剧目的地方…）
 
-#### 场景
 
 **妮露:** 欢迎你们之后常来哦。能看到你们在冒险中平安无事，我也会安心许多。
 
 **妮露:** 我应该已经把你们也当成大巴扎的一员了。嗯，一定是的。
 
-#### 场景
 
 **派蒙:** 辩论的时候，你说你有新的愿望，那是什么？
 

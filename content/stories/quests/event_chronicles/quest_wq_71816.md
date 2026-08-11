@@ -96,7 +96,6 @@
 
 **Жёлтая рубаха:** Да, вот твоё вознаграждение. Спасибо тебе за помощь, и за фонарь, который ты мне подарил(а).
 
-#### Сцена
 
 **Жёлтая рубаха:** Я связалась с Фрэнсисом. Товар он получил, большое тебе спасибо.
 
@@ -206,7 +205,6 @@ What's wrong?
 
 **Huangshan:** Oh yes, here's your compensation. Thanks so much for your help, and for that Xiao Lantern you gave me.
 
-#### Scene
 
 **Huangshan:** I've been in contact with Francis. He's received that batch of goods — thanks a lot.
 
@@ -316,7 +314,6 @@ Not taking a break for the Lantern Rite?
 
 **黄衫:** 对了，这些是报酬，收下吧，多谢你帮我的忙，还有你送我的那盏霄灯。
 
-#### 场景
 
 **黄衫:** 我和弗朗西斯联络过了，那批货物他已经收到，多亏了你。
 

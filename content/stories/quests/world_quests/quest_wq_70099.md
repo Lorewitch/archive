@@ -26,7 +26,6 @@
 
 На Пике ветров есть заброшенный санаторий...
 
-#### Сцена
 
 **Манн:** Некоторые совсем не желают слушать. Говорю же, сейчас не лучшее время для восхождения на гору.
 
@@ -60,7 +59,6 @@
 
 There's an abandoned sanatorium on Windrest Peak...
 
-#### Scene
 
 **Mann:** Some people just won't listen. I already told you, now's not the time to go up the mountain.
 
@@ -94,7 +92,6 @@ There's an abandoned sanatorium on Windrest Peak...
 
 风息山上有一座废弃的疗养院…
 
-#### 场景
 
 **曼恩:** 真是好话难劝想死的鬼啊。都说了现在不能上山。
 

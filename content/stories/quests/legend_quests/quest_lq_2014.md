@@ -436,7 +436,6 @@
 
 Чжун Ли помог снять печать со входа во владения Архонта Соли. Перед тем как войти в руины, Чжун Ли поставил условия для Вань Янь и Климента. Они будут забирать сокровища по очереди и по одному предмету за раз.
 
-#### Сцена
 
 **Вань Янь:** Посмотрите. Эта чаша наполовину заполнена солью.
 
@@ -464,7 +463,6 @@
 
 **Чжун Ли:** Тогда идём дальше.
 
-#### Сцена
 
 **Климент:** Это что, каменная линейка? Вряд ли она чего-нибудь стоит...
 
@@ -1198,7 +1196,6 @@ I won't take any either.
 
 With the aid of Zhongli's knowledge, you are able to undo the seals, but before entering the ruin, he lays a condition before Wanyan and Kliment: to alternate who gets claim to each treasure encountered, with only one object permitted per claim.
 
-#### Scene
 
 **Wanyan:** Look at this. It's filled halfway with salt.
 
@@ -1226,7 +1223,6 @@ With the aid of Zhongli's knowledge, you are able to undo the seals, but before 
 
 **Zhongli:** Then let's move on, shall we?
 
-#### Scene
 
 **Kliment:** Ha, just a simple ruler. Doesn't look to be worth anything.
 
@@ -1960,7 +1956,6 @@ So, what would you like us to do?
 
 借助钟离的知识，你们顺利地解开了封印，但在进入遗迹之前，钟离向宛烟与克列门特提出了一个契约：「顺次取物，每次一件」。
 
-#### 场景
 
 **宛烟:** 这个里面，有装了一半的盐。
 
@@ -1988,7 +1983,6 @@ So, what would you like us to do?
 
 **钟离:** 那么，我们继续前进吧。
 
-#### 场景
 
 **克列门特:** 哼，一把尺子而已，看起来就没什么用。
 

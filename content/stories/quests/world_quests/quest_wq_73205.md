@@ -26,7 +26,6 @@
 
 Цветы, которые посадил Аффан, ещё не взошли. Полей их.
 
-#### Сцена
 
 **Аффан:** Ах, я не успел ничего приготовить, поэтому мне даже нечем вас угостить.
 
@@ -48,7 +47,6 @@
 
 **Аффан:** ♪...
 
-#### Сцена
 
 **Аффан:** Подойдите и посмотрите на эти семена.
 
@@ -132,7 +130,6 @@
 
 The flowers planted by Affan haven't sprouted yet. Water them for him.
 
-#### Scene
 
 **Affan:** Ah, I haven't had time to cook yet, so I'm afraid I have nothing with which to receive you as guests.
 
@@ -154,7 +151,6 @@ Okay.
 
 **Affan:** ♪...
 
-#### Scene
 
 **Affan:** Come, come, look at these seeds.
 
@@ -238,7 +234,6 @@ As in, Sumeru Roses?
 
 阿凡种下的花暂时还没发芽，帮他浇水看看吧…
 
-#### 场景
 
 **阿凡:** 哎呀，我还没来得及做饭，没东西招待你们哟。
 
@@ -260,7 +255,6 @@ As in, Sumeru Roses?
 
 **阿凡:** ♪…
 
-#### 场景
 
 **阿凡:** 来，来，看看这些种子。
 

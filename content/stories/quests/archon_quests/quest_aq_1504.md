@@ -426,7 +426,6 @@
 
 **Мавуика:** Согласна, не каждый день мне выпадает возможность прогуляться.
 
-#### Сцена
 
 **Качина:** Муалани, скоро пора начинать!
 
@@ -588,7 +587,6 @@
 
 *На время вы забываете о своих заботах, веселитесь и пируете.*
 
-#### Сцена
 
 **Кинич:** Никаких бирок. Придётся осматривать саму коробку, чтобы понять, кто её отправитель...
 
@@ -624,7 +622,6 @@
 
 **Кинич:** Это мой долг.
 
-#### Сцена
 
 **Оророн:** Пиро Архонт была права, дорога впереди долгая, но у меня ещё есть время.
 
@@ -664,7 +661,6 @@
 
 **Оророн:** Да... Спасибо, Архонт. Я всегда старался так и делать.
 
-#### Сцена
 
 **Иансан:** Пора отдохнуть. Не забывайте пить воду. Если почувствуете головокружение, сразу говорите мне.
 
@@ -698,7 +694,6 @@
 
 **Иансан:** Ха-ха, опыт - это сила!
 
-#### Сцена
 
 **Мавуика:** Часка.
 
@@ -1848,7 +1843,6 @@
 
 **Мавуика:** Вперёд!
 
-#### Сцена
 
 **Шилонен:** Я верю, что ты вернёшься с победой.
 
@@ -1882,7 +1876,6 @@
 
 **Кинич:** Ты уже знаком(а) с Ахавом и понимаешь, что это самые приятные слова, которые только можно от него услышать.
 
-#### Сцена
 
 **Кинич:** За всё приходится платить, и Бездна поплатится за все свои злодеяния.
 
@@ -1918,7 +1911,6 @@
 
 **Муалани:** Договорились!
 
-#### Сцена
 
 **Муалани:** Друзья на то и друзья, чтобы проводить время вместе и радовать друг друга!
 
@@ -1950,7 +1942,6 @@
 
 **Часка:** Я хочу стать другом, на которого ты сможешь рассчитывать в своих будущих приключениях.
 
-#### Сцена
 
 **Шилонен:** Тебе предстоит выковать новое будущее Натлана.
 
@@ -1964,7 +1955,6 @@
 
 **Шилонен:** Тебе предстоит выковать новое будущее Натлана.
 
-#### Сцена
 
 **Кинич:** За всё приходится платить, и Бездна поплатится за все свои злодеяния.
 
@@ -1984,7 +1974,6 @@
 
 **Кинич:** Ты уже знаком(а) с Ахавом и понимаешь, что это самые приятные слова, которые только можно от него услышать.
 
-#### Сцена
 
 **Муалани:** Не забудь, нас с тобой ждут горячие источники!
 
@@ -2002,7 +1991,6 @@
 
 **Муалани:** Отлично! Буду ждать!
 
-#### Сцена
 
 **Часка:** Мы долго шли к этой цели. И ни один шаг не был напрасен.
 
@@ -2014,7 +2002,6 @@
 
 **Часка:** Мы долго шли к этой цели. И ни один шаг не был напрасен.
 
-#### Сцена
 
 **Бирам:** Во сне мне было явлено откровение, которым я поделился со своим племенем: ты - звезда, что будет светить в тумане.
 
@@ -2042,7 +2029,6 @@
 
 **Ситлали:** Я буду ждать тебя.
 
-#### Сцена
 
 **Оророн:** Мы все будем ждать тебя.
 
@@ -2072,7 +2058,6 @@
 
 **Иансан:** Пока не буду рассказывать, какую программу мы готовим, но тебе точно понравится!
 
-#### Сцена
 
 **Иансан:** Мы вместе с Варесой устроим тебе экскурсию по Уделу Благодатных Земель, познакомим с местными обычаями. Не забудь!
 
@@ -2334,7 +2319,6 @@
 
 **Малко и Вичама:** Угу!
 
-#### Сцена
 
 **Атея:** Мы будем оборонять рубеж и не позволим энергии Бездны вырваться наружу.
 
@@ -2472,7 +2456,6 @@
 
 **Куичи:** Ступай, Путешественник.
 
-#### Сцена
 
 **Куичи:** Натлан ждёт светлое будущее, правда?
 
@@ -3190,11 +3173,9 @@
 
 **Мавуика:** И как раз вовремя. Настал час прощания с павшими героями.
 
-#### Сцена
 
 **Балам:** Не беспокойся, дорогу тебе покажут.
 
-#### Сцена
 
 **Паймон:** Шилонен, о чём ты задумалась?
 
@@ -3244,7 +3225,6 @@
 
 **Мавуика:** Но сейчас мы славим его за личные заслуги. В Натлане каждый герой заслуживает того, чтобы о нём помнили, а подвиги его прославляли.
 
-#### Сцена
 
 **Ваканка:** Спасибо, ты их очень порадовал(а).
 
@@ -3904,7 +3884,6 @@ I mean, we are the guests of honor.
 
 **Mavuika:** Sounds good. A casual stroll can be hard to come by. Let's go.
 
-#### Scene
 
 **Kachina:** Mualani, it's almost time for the feast!
 
@@ -4066,7 +4045,6 @@ I mean, we are the guests of honor.
 
 *For now, you set aside your troubles to savor the delicious food and this happy occasion.*
 
-#### Scene
 
 **Kinich:** Huh, still no label... If I want to know who sent this, guess the box will be my only clue.
 
@@ -4102,7 +4080,6 @@ What have you been up to?
 
 **Kinich:** Just doing my part.
 
-#### Scene
 
 **Ororon:** The Pyro Archon is right. I still have a long way to go, but I will have time to grow.
 
@@ -4142,7 +4119,6 @@ Just do what you think is right.
 
 **Ororon:** Hm... Thank you, Archon. That's what I've always tried to do.
 
-#### Scene
 
 **Iansan:** Alright, break time! Get some water, and let me know if you start to feel dizzy.
 
@@ -4176,7 +4152,6 @@ Just do what you think is right.
 
 **Iansan:** Well, haha... Knowledge is power, after all.
 
-#### Scene
 
 **Mavuika:** Chasca.
 
@@ -5326,7 +5301,6 @@ The final battle with the Abyss is at hand. You have the support of all in Natla
 
 **Mavuika:** To battle!
 
-#### Scene
 
 **Xilonen:** I have no doubt that victory will be ours.
 
@@ -5360,7 +5334,6 @@ The final battle with the Abyss is at hand. You have the support of all in Natla
 
 **Kinich:** That's the nicest send-off you're going to get out of Ajaw.
 
-#### Scene
 
 **Kinich:** Everything has a price, and the Abyss must pay for what it has done.
 
@@ -5396,7 +5369,6 @@ It's a promise!
 
 **Mualani:** I'll hold you to it!
 
-#### Scene
 
 **Mualani:** That's what being friends is all about — quality time and good vibes!
 
@@ -5428,7 +5400,6 @@ It's like you're becoming your own "peacemaker."
 
 **Chasca:** I pledge to be someone you can lean on in all your future endeavors.
 
-#### Scene
 
 **Xilonen:** Go now and forge a new future for Natlan.
 
@@ -5442,7 +5413,6 @@ It's like you're becoming your own "peacemaker."
 
 **Xilonen:** Go now and forge a new future for Natlan.
 
-#### Scene
 
 **Kinich:** Everything has a price, and the Abyss must pay for what it has done.
 
@@ -5462,7 +5432,6 @@ It's like you're becoming your own "peacemaker."
 
 **Kinich:** That's the nicest send-off you're going to get out of Ajaw.
 
-#### Scene
 
 **Mualani:** Don't forget about our hot spring trip!
 
@@ -5480,7 +5449,6 @@ Sounds good!
 
 **Mualani:** YES! I'm so excited!
 
-#### Scene
 
 **Chasca:** It's taken a lot to get to this point. I know it will not be in vain.
 
@@ -5492,7 +5460,6 @@ Sounds good!
 
 **Chasca:** It's taken a lot to get to this point. I know it will not be in vain.
 
-#### Scene
 
 **Biram:** A revelation came to me in a dream, and I shared it with my tribe — you are the star that will shine through the mist.
 
@@ -5520,7 +5487,6 @@ That seems like overkill...
 
 **Citlali:** I'll wait for your safe return.
 
-#### Scene
 
 **Ororon:** We're all awaiting your safe return.
 
@@ -5550,7 +5516,6 @@ That seems like overkill...
 
 **Iansan:** I'll leave you in suspense for now. But I promise you won't be disappointed!
 
-#### Scene
 
 **Iansan:** Varesa and I will show you our tribe's customs and fun activities. Don't miss out!
 
@@ -5812,7 +5777,6 @@ Thanks. I appreciate it.
 
 **Mallko & Vichama:** Of course!
 
-#### Scene
 
 **Atea:** We'll guard this place so that the Abyssal power doesn't spread.
 
@@ -5950,7 +5914,6 @@ You're really strong, Chuychu.
 
 **Chuychu:** Go now, Traveler.
 
-#### Scene
 
 **Chuychu:** I would say our nation's future is looking very bright.
 
@@ -6668,11 +6631,9 @@ Wait, the souls I saw in my dream?
 
 **Mavuika:** And not a moment too soon. It's time to bid farewell to all the fallen.
 
-#### Scene
 
 **Balam:** Don't worry, someone will show you the way.
 
-#### Scene
 
 **Paimon:** What's on your mind, Xilonen?
 
@@ -6722,7 +6683,6 @@ Wait, the souls I saw in my dream?
 
 **Mavuika:** But, on this occasion, we honor him as one of our own. In Natlan, all heroes are worthy of celebration.
 
-#### Scene
 
 **Wakanka:** Thank you for indulging everyone. It meant a lot to them.
 
@@ -7382,7 +7342,6 @@ Sure! Then, I'll be Paimon.
 
 **玛薇卡:** 好啊，机会难得，四处看看吧。
 
-#### 场景
 
 **卡齐娜:** 玛拉妮，马上就到开餐时间了。
 
@@ -7544,7 +7503,6 @@ Sure! Then, I'll be Paimon.
 
 *你们暂时放下负担，尽情享受眼前的美食与快乐。*
 
-#### 场景
 
 **基尼奇:** 还是找不到标签，看来只能比对箱子本身，来判断是谁送来的了…
 
@@ -7580,7 +7538,6 @@ Sure! Then, I'll be Paimon.
 
 **基尼奇:** 是我应该做的。
 
-#### 场景
 
 **欧洛伦:** 火神大人说的没错，路还很长，时间也很长。
 
@@ -7620,7 +7577,6 @@ Sure! Then, I'll be Paimon.
 
 **欧洛伦:** 嗯…谢谢火神大人，我一直都是这么做的。
 
-#### 场景
 
 **伊安珊:** 休息时间到，注意补水。如果感觉头晕要马上告诉我。
 
@@ -7654,7 +7610,6 @@ Sure! Then, I'll be Paimon.
 
 **伊安珊:** 哈哈，毕竟经验就是「力量」啊。
 
-#### 场景
 
 **玛薇卡:** 恰斯卡。
 
@@ -8804,7 +8759,6 @@ Sure! Then, I'll be Paimon.
 
 **玛薇卡:** 出发！
 
-#### 场景
 
 **希诺宁:** 我相信你，必将胜利归来。
 
@@ -8838,7 +8792,6 @@ Sure! Then, I'll be Paimon.
 
 **基尼奇:** 熟悉它的话，应该知道这是它嘴里能吐出最好的话了。
 
-#### 场景
 
 **基尼奇:** 万事皆有代价，深渊要为其所作所为进行偿还。
 
@@ -8874,7 +8827,6 @@ Sure! Then, I'll be Paimon.
 
 **玛拉妮:** 一言为定！
 
-#### 场景
 
 **玛拉妮:** 好朋友就是应该开开心心地在一起，永远做开开心心的事！
 
@@ -8906,7 +8858,6 @@ Sure! Then, I'll be Paimon.
 
 **恰斯卡:** 我也会成为你的未来旅途中，绝对值得依靠的一股力量。
 
-#### 场景
 
 **希诺宁:** 请为纳塔创造一个崭新的未来吧。
 
@@ -8920,7 +8871,6 @@ Sure! Then, I'll be Paimon.
 
 **希诺宁:** 请为纳塔创造一个崭新的未来吧。
 
-#### 场景
 
 **基尼奇:** 万事皆有代价，深渊要为其所作所为进行偿还。
 
@@ -8940,7 +8890,6 @@ Sure! Then, I'll be Paimon.
 
 **基尼奇:** 熟悉它的话，应该知道这是它嘴里能吐出最好的话了。
 
-#### 场景
 
 **玛拉妮:** 记得我们要一起去泡温泉，一言为定！
 
@@ -8958,7 +8907,6 @@ Sure! Then, I'll be Paimon.
 
 **玛拉妮:** 好耶，我很期待！
 
-#### 场景
 
 **恰斯卡:** 我相信我们做的一切，都是有意义的。
 
@@ -8970,7 +8918,6 @@ Sure! Then, I'll be Paimon.
 
 **恰斯卡:** 我相信我们做的一切，都是有意义的。
 
-#### 场景
 
 **庇兰:** 我已在梦中寻获启示并告知部族众人，你就是谜烟之上最闪亮的星。
 
@@ -8998,7 +8945,6 @@ Sure! Then, I'll be Paimon.
 
 **茜特菈莉:** 我会等你回来的。
 
-#### 场景
 
 **欧洛伦:** 我们都会等你回来。
 
@@ -9028,7 +8974,6 @@ Sure! Then, I'll be Paimon.
 
 **伊安珊:** 具体是什么，就容我先保密吧，总之肯定不会让你失望！
 
-#### 场景
 
 **伊安珊:** 到时候我和瓦雷莎会带你感受一下沃陆之邦的风土人情，敬请期待吧！
 
@@ -9290,7 +9235,6 @@ Sure! Then, I'll be Paimon.
 
 **穆尔科&维查玛:** 嗯！
 
-#### 场景
 
 **阿伽娅:** 我们会守住这里，不让深渊力量继续扩散。
 
@@ -9428,7 +9372,6 @@ Sure! Then, I'll be Paimon.
 
 **葵可:** 快去吧，旅行者。
 
-#### 场景
 
 **葵可:** 纳塔的未来很光明，不是吗？
 
@@ -10146,11 +10089,9 @@ Sure! Then, I'll be Paimon.
 
 **玛薇卡:** 时间也刚好，应该去为所有的逝者送行了。
 
-#### 场景
 
 **帕兰:** 别担心，会有人为你引路的。
 
-#### 场景
 
 **派蒙:** 在想什么呢，希诺宁？
 
@@ -10200,7 +10141,6 @@ Sure! Then, I'll be Paimon.
 
 **玛薇卡:** 但在此场合，还请各位不要吝啬你们的赞美，因为在纳塔，所有的英雄都值得纪念与歌颂。
 
-#### 场景
 
 **法坎佳:** 感谢你的配合，你真的很慷慨。
 

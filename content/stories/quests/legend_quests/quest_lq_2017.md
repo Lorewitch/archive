@@ -514,13 +514,11 @@
 
 **Паймон:** Всем смотреть в оба и искать руду!
 
-#### Сцена
 
 **Тимей:** Элементальная форма жизни из другого мира! Подведя прочную доказательную базу, мы совершим переворот в алхимии!
 
 **Тимей:** А как продвинется исследование учителя!
 
-#### Сцена
 
 **Тимей:** Этот подход недостаточно точен. Должен быть другой...
 
@@ -834,11 +832,9 @@
 
 **Паймон:** Жареная рыба? Паймон думала, мы займёмся чем-нибудь необычным!
 
-#### Сцена
 
 **Альбедо:** Так быстро? С нетерпением жду результатов эксперимента.
 
-#### Сцена
 
 **Альбедо:** Хм... К сожалению, это весьма посредственный результат для эксперимента. Но этот вкус! У тебя определённо кулинарный талант.
 
@@ -888,7 +884,6 @@
 
 **Паймон:** Точно! Можно воспользоваться чувством стихий!
 
-#### Сцена
 
 **Альбедо:** Хм, весьма посредственная реализация замечательного блюда.
 
@@ -938,7 +933,6 @@
 
 **Паймон:** Точно! Можно воспользоваться чувством стихий!
 
-#### Сцена
 
 **Альбедо:** Хм, какой интересный термин. Я заинтригован.
 
@@ -1014,7 +1008,6 @@
 
 **Альбедо:** Давай посмотрим на тебя в деле. Будешь готов(а) - начинай.
 
-#### Сцена
 
 **Тимей:** Простите, с исследованием возникло много проблем. Появившиеся путём сопоставления гипотезы с данными экспериментов совсем не совпадают.
 
@@ -1708,13 +1701,11 @@ This is like a health checkup.
 
 **Paimon:** Let's keep our eyes open!
 
-#### Scene
 
 **Timaeus:** An elemental life form from another world! As soon as we have strong evidence, this may end up subverting a lot of alchemical theories.
 
 **Timaeus:** Albedo's research will see huge progress!
 
-#### Scene
 
 **Timaeus:** Doesn't sound very rigorous, surely there's another approach...
 
@@ -2028,11 +2019,9 @@ After the experiment begins, Albedo first checks your elemental flow. The result
 
 **Paimon:** Cooking? Paimon was looking forward to more mad scientist stuff!
 
-#### Scene
 
 **Albedo:** That was fast! Looking forward to tasting — I mean, testing — the results...
 
-#### Scene
 
 **Albedo:** Mm! An average outcome experimentally, but you've really brought out the flavor. You seem well-versed in the science of gastronomy.
 
@@ -2082,7 +2071,6 @@ There should be some elemental traces on the lost items.
 
 **Paimon:** Oh yeah! You could use Elemental Sight!
 
-#### Scene
 
 **Albedo:** Hmm, an average outcome for a fine dish.
 
@@ -2132,7 +2120,6 @@ There should be some elemental traces on the lost items.
 
 **Paimon:** Oh yeah! You could use Elemental Sight!
 
-#### Scene
 
 **Albedo:** Hmm, an interesting term... Compelling.
 
@@ -2208,7 +2195,6 @@ As the experiments proceed, Albedo obtains more and more data related to you, an
 
 **Albedo:** So, let's see you in action. Start wherever you like.
 
-#### Scene
 
 **Timaeus:** Sorry, there's been a lot of issues with the research, many of the inferences I collated just don't tally with the data from the experiments.
 
@@ -2902,13 +2888,11 @@ Sure, even if you just want some company, find me anytime.
 
 **派蒙:** 我们在路上的时候留意一下吧。
 
-#### 场景
 
 **蒂玛乌斯:** 从异世界到来的元素生物，一旦发现了有力的依据，恐怕会推翻很多现在的炼金术理论！
 
 **蒂玛乌斯:** 这样的话，老师的研究应该也可以更进一步了！
 
-#### 场景
 
 **蒂玛乌斯:** 看来是不太严谨，我要想想有没有其他思路…
 
@@ -3222,11 +3206,9 @@ Sure, even if you just want some company, find me anytime.
 
 **派蒙:** 还以为你是去准备奇奇怪怪的东西，原来是食谱啊？
 
-#### 场景
 
 **阿贝多:** 你已经做好了吗？我很期待实验结果。
 
-#### 场景
 
 **阿贝多:** 唔，实验上看非常普通，但滋味实在美妙。你很有烹饪的天赋。
 
@@ -3276,7 +3258,6 @@ Sure, even if you just want some company, find me anytime.
 
 **派蒙:** 对哦！可以用元素视野！
 
-#### 场景
 
 **阿贝多:** 唔，是非常普通的好吃料理呢。
 
@@ -3326,7 +3307,6 @@ Sure, even if you just want some company, find me anytime.
 
 **派蒙:** 对哦！可以用元素视野！
 
-#### 场景
 
 **阿贝多:** 听到了一个很有意思的词，嗯，真是有趣。
 
@@ -3402,7 +3382,6 @@ Sure, even if you just want some company, find me anytime.
 
 **阿贝多:** 那么，就看你表现了。先去哪一边，都由你来决定。
 
-#### 场景
 
 **蒂玛乌斯:** 不好意思，研究出了很多问题，我埋头整理出来的很多推论，都和实验数据矛盾了。
 

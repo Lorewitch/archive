@@ -6,8 +6,8 @@
 # title_en: A Knight's Legacy
 # title_zh: 骑士之铭
 # region: Мондштадт
-# game_version: 1.2
-# release_versions: 1.2,6.6
+# game_version: 6.6
+# release_versions: 6.6
 # source_id: 2088
 # chapter_num_ru: Хитрый Заяц. Глава I
 # chapter_num_en: Lepus Miles Chapter: Act I
@@ -18,7 +18,7 @@
 # related_quests:
 # quest_chain: quest_lq_2088
 # quest_series:
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 
@@ -848,7 +848,6 @@
 
 Какую цену придётся заплатить человеку, если он хочет обрести силу, недоступную простым смертным...
 
-#### Сцена
 
 **Адорно:** Эх... Неприятно это признавать, но мне уже тяжело махать мечом. Если я пойду с вами, буду только мешать.
 
@@ -2616,7 +2615,6 @@ Sucrose? What's wrong?
 
 What price must one pay in pursuit of power that surpasses mortal ken...?
 
-#### Scene
 
 **Adorno:** *sigh* It pains me to say it, but my sword-swinging days are over. If I went with you, I'd only get in the way.
 
@@ -4384,7 +4382,6 @@ He sure can be persuasive when he wants to be...
 
 为了追寻超越凡众的力量，需要付出怎样的代价…
 
-#### 场景
 
 **阿多诺:** 唉，可惜，我已经提不动剑了，就算跟着你们去，恐怕也只会跟昨天一样碍事吧。
 

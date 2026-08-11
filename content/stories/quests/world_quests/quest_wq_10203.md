@@ -26,13 +26,11 @@
 
 Прибыв в Натлан, вы попадаете в странное место...
 
-#### Сцена
 
 **Малыш:** Р-р-р!
 
 **Паймон:** Гм... [выбранное имя] тоже неплохое имя. К тому же его Паймон придумала! Хи-хи!
 
-#### Сцена
 
 **Паймон:** Эй, здоровяк! Всё хорошо? Встать сможешь?
 
@@ -100,7 +98,6 @@
 
 **Паймон:** Тогда дадим малышу имя [выбранное имя]?
 
-#### Сцена
 
 Мне надо ещё немного подумать...
 
@@ -246,7 +243,6 @@
 
 **Паймон:** Отличное имя! В нём чувствуется сила!
 
-#### Сцена
 
 **Малыш:** Р-р-р...
 
@@ -1013,13 +1009,11 @@
 
 After having just arrived in Natlan, you are teleported to a strange space...
 
-#### Scene
 
 **Little One:** Rawr!
 
 **Paimon:** Hmm, [chosen name] isn't a bad name either... and it's a name Paimon came up with too, right?
 
-#### Scene
 
 **Paimon:** Hey, hey, big guy... You okay? Can you stand?
 
@@ -1087,7 +1081,6 @@ Let's go with that!
 
 **Paimon:** Then let's call this little fella [chosen name], shall we?
 
-#### Scene
 
 Let me think about this some more...
 
@@ -1233,7 +1226,6 @@ Little One...
 
 **Paimon:** Ooh, there's some real power behind that name!
 
-#### Scene
 
 **Little One:** Rawr...
 
@@ -2000,13 +1992,11 @@ I will.
 
 初至纳塔，便被传送到了一个奇怪的空间…
 
-#### 场景
 
 **小家伙:** 呀！
 
 **派蒙:** 嗯，「[选定的名字]」确实也挺顺口的，而且，这也能算是我取的名字嘛，嘿嘿！
 
-#### 场景
 
 **派蒙:** 喂，喂…大家伙，你还好吗，还站得起来吗？
 
@@ -2074,7 +2064,6 @@ I will.
 
 **派蒙:** 嗯，那么小家伙的名字就叫[选定的名字]咯？
 
-#### 场景
 
 我再想想…
 
@@ -2220,7 +2209,6 @@ I will.
 
 **派蒙:** 哦，感觉是充满了力量感的好名字呢！
 
-#### 场景
 
 **小家伙:** 呜…
 

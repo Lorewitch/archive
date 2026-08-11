@@ -158,7 +158,6 @@
 
 **Тадлэ:** Мы останемся здесь и будем ждать до полуночи. Пожалуйста, отдохните, если устали. Я подежурю.
 
-#### Сцена
 
 **Тадлэ:** Птица ещё не вернулась. Старайтесь не двигаться, иначе мы её вспугнём.
 
@@ -649,7 +648,6 @@
 
 **Массейра:** Мой маленький сокол, поговорим о твоей следующей охоте?
 
-#### Сцена
 
 **Тадлэ:** Здравствуйте, спасибо за помощь.
 
@@ -823,7 +821,6 @@ I see. I'll help.
 
 **Tadhla:** We will stay here and wait until midnight. Please have a rest if you are tired. I'll keep watch.
 
-#### Scene
 
 **Tadhla:** ...She hasn't returned yet. Please stay put, or she'll be alarmed.
 
@@ -1313,7 +1310,6 @@ The sun is up, and you all wake up as the morning dew dries up in sunlight's hea
 
 **Masseira:** My little Falcon, let's talk about your next "hunt," shall we?
 
-#### Scene
 
 **Tadhla:** Hello, thank you for your help.
 
@@ -1487,7 +1483,6 @@ The sun is up, and you all wake up as the morning dew dries up in sunlight's hea
 
 **塔德菈:** 好了，我们在这里等待到半夜吧。如果累了就请休息一下，我会替您盯着的。
 
-#### 场景
 
 **塔德菈:** …还没来，请您不要四处活动，会让她起戒心。
 
@@ -1978,7 +1973,6 @@ The sun is up, and you all wake up as the morning dew dries up in sunlight's hea
 
 **马塞拉:** 我的小「猎鹰」，我们谈谈下一场「狩猎」吧？
 
-#### 场景
 
 **塔德菈:** 您好，感谢您的搭救。
 

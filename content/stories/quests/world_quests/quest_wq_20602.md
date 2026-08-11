@@ -26,7 +26,6 @@
 
 Шторм закончился, но Сайрус выглядит недовольным.
 
-#### Сцена
 
 **Сайрус:** Куда опять убежал этот маленький негодник Беннет? Ох, да ещё в такое время... Надеюсь, он не попал в неприятности снова...
 
@@ -50,7 +49,6 @@
 
 The storm has subsided, but Cyrus seems displeased...
 
-#### Scene
 
 **Cyrus:** *sigh* Where has that kid Bennett run off to? I hope he didn't run into any trouble.
 
@@ -74,7 +72,6 @@ There are still monsters out and about...
 
 风暴虽然已经平息，但塞琉斯先生却有些不开心…
 
-#### 场景
 
 **塞琉斯:** 唉，班尼特那小子又跑哪去了，别出什么意外。
 

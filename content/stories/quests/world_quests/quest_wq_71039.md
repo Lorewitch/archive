@@ -26,7 +26,6 @@
 
 Чжи Цюн отделилась от отряда георазведки, чтобы заняться исследованием в одиночку. Но ходить в Разлом одному слишком опасно. Поскорее отыщите её...
 
-#### Сцена
 
 **Цзинь У:** ...
 
@@ -142,7 +141,6 @@
 
 Zhiqiong seems to have left the exploration team to explore on her own. Still, it's too dangerous to go alone into The Chasm, so she must be found...
 
-#### Scene
 
 **Jinwu:** ...
 
@@ -258,7 +256,6 @@ I'll be there if you need me.
 
 志琼似乎要离开勘探队独自探险，独自进入层岩巨渊还是太危险了，还是尽快找到她吧…
 
-#### 场景
 
 **瑾武:** ……
 

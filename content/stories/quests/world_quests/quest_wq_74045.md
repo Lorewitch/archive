@@ -26,7 +26,6 @@
 
 Чтобы отыскать «дар» Пуки, вы снова отправляетесь к рудной жиле...
 
-#### Сцена
 
 **Паймон:** Пука, что ты опять здесь делаешь?
 
@@ -172,11 +171,9 @@
 
 **Чесил:** Буду ждать вас здесь.
 
-#### Сцена
 
 **Пука:** Мой «дар»... Я должна его найти...
 
-#### Сцена
 
 **Пука:** Вот мы и встретились снова!
 
@@ -204,7 +201,6 @@
 
 In order to find Puca's token, you once again visit the vein from before...
 
-#### Scene
 
 **Paimon:** Puca, why are you here again?
 
@@ -350,11 +346,9 @@ We've got some mysterious ore here...
 
 **Chesil:** I'll be here, waiting for your good news.
 
-#### Scene
 
 **Puca:** My token is really important... I have to find it...
 
-#### Scene
 
 **Puca:** Hey there, it's you again!
 
@@ -382,7 +376,6 @@ We've got some mysterious ore here...
 
 为了寻找芙佳的「信物」，你们再次前往之前去过的矿脉附近…
 
-#### 场景
 
 **派蒙:** 芙佳你怎么又跑到这里来了啦！
 
@@ -528,11 +521,9 @@ We've got some mysterious ore here...
 
 **切瑟尔:** 那么我就在此静候佳音了。
 
-#### 场景
 
 **芙佳:** 「信物」很重要，必须得找回来才行…
 
-#### 场景
 
 **芙佳:** 又见到你们啦！
 

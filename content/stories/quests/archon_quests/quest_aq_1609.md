@@ -1978,7 +1978,6 @@
 
 **Николь:** Приятно видеть, что вы все твёрдо верите в собственные силы. Ну что, собираемся в путь и идём к гробнице царя Дешрета.
 
-#### Сцена
 
 **Фирнас:** А, госпожа Николь! Говорят, вы талантливый скульптор, это правда?
 
@@ -4330,7 +4329,6 @@ We're here to support Collei through this.
 
 **Nicole:** Well, this confidence is most gladdening. Now, go and pack your things. We'll head to the Mausoleum as soon as you're ready.
 
-#### Scene
 
 **Firnas:** Oh, Miss Nicole! I heard you're a very talented sculptor. Is that true?
 
@@ -6682,7 +6680,6 @@ You've grown strong, Jeht. More than enough to fend for yourself.
 
 **尼可:** 看到大家都这么有信心，我也很高兴。走吧，收拾好行装，我们去赤王陵。
 
-#### 场景
 
 **菲尔纳斯:** 啊，尼可小姐！刚才我听说，您是一位厉害的雕塑家，真的吗？
 

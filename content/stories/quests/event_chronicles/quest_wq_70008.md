@@ -26,7 +26,6 @@
 
 Маргарита из «Кошкиного хвоста», похоже, пытается что-то приготовить...
 
-#### Сцена
 
 **Маргарита:** Похоже, все-таки надо придумать новый особый напиток...
 
@@ -282,7 +281,6 @@
 
 Margaret from The Cat's Tail seems to be planning something...
 
-#### Scene
 
 **Margaret:** It seems that we must come up with a new special blend after all...
 
@@ -538,7 +536,6 @@ Oh, I found some, alright.
 
 「猫尾酒馆」的玛格丽特小姐似乎正在筹划着什么事情…
 
-#### 场景
 
 **玛格丽特:** 果然，还是要推出一款全新的特调饮品才行吧…
 

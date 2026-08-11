@@ -52,7 +52,6 @@
 
 **Малыш Цянь:** Ах, да, на этот раз нужно собрать картинку моры. Запомни, чтобы отправиться за сокровищем, сначала нужно собрать правильную картинку.
 
-#### Сцена
 
 **Малыш Цянь:** Все области сокровищ специально подготовлены гильдией. Ну, удачной охоты, путешественни(ца)(к)!
 
@@ -108,7 +107,6 @@ Huh? These lanterns...
 
 **Brother Qian:** Okay, so, the image to make today is Mora. Remember, you have to get the right image first before you can go looking for the treasure.
 
-#### Scene
 
 **Brother Qian:** The treasure has all been prepared specially by the Guild. Happy hunting.
 
@@ -164,7 +162,6 @@ I've found every last chest.
 
 **小千:** 哦！对了，这次要拼出来的图案是「摩拉」，记住了啊，拼好了正确的图案之后，才能去找宝藏。
 
-#### 场景
 
 **小千:** 那些宝藏可都是协会特意准备的，祝你们寻宝开心。
 

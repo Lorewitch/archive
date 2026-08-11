@@ -216,7 +216,6 @@
 
 **Айюн:** Давай, Айюн, выше нос... У тебя обязательно получится...
 
-#### Сцена
 
 **Айюн:** Ох... может быть, «дорогие коллеги»...
 
@@ -416,7 +415,6 @@ And I thought I was going to be kicked out.
 
 **Iaune:** Cheer up, Iaune... You can handle it. You've definitely got this...
 
-#### Scene
 
 **Iaune:** *sigh* ...Maybe I should just use "To my dear colleagues"...
 
@@ -616,6 +614,5 @@ And I thought I was going to be kicked out.
 
 **艾尤恩:** 打起精神来，艾尤恩…你能搞定这些事的，你一定可以…
 
-#### 场景
 
 **艾尤恩:** 唉…不然还是「各位亲爱的同僚」吧…

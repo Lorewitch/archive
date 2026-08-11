@@ -26,7 +26,6 @@
 
 На холме у залива Прибоя вы встречаете странного представителя ночтли...
 
-#### Сцена
 
 **???:** Опасность всё ближе, а спорам вождей племён нет конца...
 
@@ -1332,7 +1331,6 @@
 
 **Ситлали:** Если хочешь отблагодарить, лучше навещай почаще.
 
-#### Сцена
 
 Расскажи о Пепельном море...
 
@@ -1340,7 +1338,6 @@
 
 **Ситлали:** Но его догадка... И правда кажется невероятной...
 
-#### Сцена
 
 **Паймон:** Кажется, мы зашли в тупик... Что это за штука? Что-то знакомое.
 
@@ -1416,7 +1413,6 @@
 
 **Паймон:** Куда он ведёт тогда?
 
-#### Сцена
 
 Расскажи о Тайной пещере...
 
@@ -1434,7 +1430,6 @@
 
 You encounter a strange Nochtlin on the hill beside Wavey Bay...
 
-#### Scene
 
 **???:** The crisis emerges, yet the tribal leaders bicker endlessly.
 
@@ -2740,7 +2735,6 @@ Thank you, Citlali.
 
 **Citlali:** Ahem! But, well, if you really want to express your gratitude, remember to come and visit your Granny more often, okay?
 
-#### Scene
 
 About the Mare Jivari...
 
@@ -2748,7 +2742,6 @@ About the Mare Jivari...
 
 **Citlali:** But his hypothesis... is a little hard to believe.
 
-#### Scene
 
 **Paimon:** Looks like we've reached the end... What's this? It looks familiar.
 
@@ -2824,7 +2817,6 @@ What about the definition of "Ororon"?
 
 **Paimon:** Where do you think it goes?
 
-#### Scene
 
 About the "secret cave"...
 
@@ -2842,7 +2834,6 @@ About the "secret cave"...
 
 在浪浪湾侧边的山坡，你们遇见了一个奇怪的诺奇特梨人…
 
-#### 场景
 
 **「？？？」:** 如今危机渐现，诸部族的头人却依然在争吵不休…
 
@@ -4148,7 +4139,6 @@ About the "secret cave"...
 
 **茜特菈莉:** 真要谢的话，别忘了常回来看看老人家啊。
 
-#### 场景
 
 关于「烬寂海」…
 
@@ -4156,7 +4146,6 @@ About the "secret cave"...
 
 **茜特菈莉:** 但他的推测…实在有点匪夷所思…
 
-#### 场景
 
 **派蒙:** 我们好像走到底了…这个东西是什么啊？有点眼熟。
 
@@ -4232,7 +4221,6 @@ About the "secret cave"...
 
 **派蒙:** 那会是去哪里呢？
 
-#### 场景
 
 关于「秘密洞穴」…
 

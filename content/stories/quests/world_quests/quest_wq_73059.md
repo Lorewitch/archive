@@ -62,7 +62,6 @@
 
 *Хайям, пошатываясь, уходит...*
 
-#### Сцена
 
 **Аранага:** Приветствую вас, нара Путешественник и белая леталка.
 
@@ -160,7 +159,6 @@ Just call me Traveler.
 
 *Khayyam unsteadily walks away...*
 
-#### Scene
 
 **Aranaga:** Hi, Golden Nara and White Floaty.
 
@@ -258,7 +256,6 @@ I am ready.
 
 *海亚姆蹒跚着离开了…*
 
-#### 场景
 
 **兰纳迦:** 你好，金色的那菈和白飞飞。
 

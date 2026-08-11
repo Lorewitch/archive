@@ -26,7 +26,6 @@
 
 На стадионе Священного пламени вы обнаружили странный алхимический верстак...
 
-#### Сцена
 
 **Алхимический верстак:** Огонь и вода, земля и ветер! Сотворите для меня то, что я желаю!
 
@@ -108,7 +107,6 @@
 
 **Паймон:** Сейчас речь не об этом! Путешественник, скорее! Отведём её туда, где ей смогут помочь!
 
-#### Сцена
 
 **Паймон:** Пора признать нашу силу!
 
@@ -412,7 +410,6 @@
 
 **Сумак:** Конечно.
 
-#### Сцена
 
 **Сумак:** Передумал(а)? Я чувствую, что тоже начинаю нервничать...
 
@@ -966,7 +963,6 @@
 
 **Тенехуа:** Спасибо. Желаю вам всего наилучшего!
 
-#### Сцена
 
 **Огун:** Что касается сегодняшней тренировки... Так-то лучше.
 
@@ -984,7 +980,6 @@
 
 You discover a strange Crafting Bench in the Stadium of the Sacred Flame...
 
-#### Scene
 
 **"Crafting Bench":** Water and earth, wind and fire, craft for me what ah... ATCHOO! ... I d—desire.
 
@@ -1066,7 +1061,6 @@ The young lady submits the materials required by the recipe, and you exchange so
 
 **Paimon:** Seriously!? Now's not the time for joking! C'mon, Traveler, let's get her somewhere she can be treated, stat!
 
-#### Scene
 
 **Paimon:** Well, how was that? Strong enough for you?
 
@@ -1370,7 +1364,6 @@ You follow Hampeq to a secluded spot.
 
 **Sumac:** No worries.
 
-#### Scene
 
 **Sumac:** Has the mood changed? I feel like I'm getting nervous, too...
 
@@ -1924,7 +1917,6 @@ I'm honestly more curious...
 
 **Tenehua:** Again, thank you, and I hope things go well with you.
 
-#### Scene
 
 **Ogun:** As for today's training... Yes, that should do it.
 
@@ -1942,7 +1934,6 @@ I'm honestly more curious...
 
 在圣火竞技场发现一个奇怪的合成台…
 
-#### 场景
 
 **「合成台」:** 地火水风，领我敕命。再造四…阿嚏——四大，重塑五行。
 
@@ -2024,7 +2015,6 @@ I'm honestly more curious...
 
 **派蒙:** 现在是说这个的时候吗！旅行者，我们快把她带去可以接受治疗的地方吧！
 
-#### 场景
 
 **派蒙:** 现在你总该认可我们的实力了吧！
 
@@ -2328,7 +2318,6 @@ I'm honestly more curious...
 
 **苏玛克:** 没问题。
 
-#### 场景
 
 **苏玛克:** 是因为气氛吗？感觉我也有点紧张起来了…
 
@@ -2882,7 +2871,6 @@ I'm honestly more curious...
 
 **特纳华:** 再次感谢你们，也祝你们一切顺利。
 
-#### 场景
 
 **奥贡:** 今天的训练…嗯，这样就差不多。
 

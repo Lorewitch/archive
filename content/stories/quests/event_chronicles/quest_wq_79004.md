@@ -30,7 +30,6 @@
 
 **Паймон:** Неожиданно увидеть на этом островке такой рисунок.
 
-#### Сцена
 
 **Осмотреть:** А? Смотри, на этом камне что-то нарисовано.
 
@@ -44,7 +43,6 @@
 
 **Осмотреть:** Ничего не понятно... Давай просто сфотографируем пока.
 
-#### Сцена
 
 **Осмотреть:** Так что же изображено на этих рисунках...
 
@@ -60,7 +58,6 @@
 
 **Осмотреть:** Давай просто сфотографируем пока.
 
-#### Сцена
 
 **Осмотреть:** Так что же изображено на этих рисунках...
 
@@ -76,7 +73,6 @@
 
 **Осмотреть:** Не очень понятно, что это значит... Давай просто сфотографируем пока.
 
-#### Сцена
 
 **Осмотреть:** Так что же изображено на этих рисунках...
 
@@ -92,7 +88,6 @@
 
 **Осмотреть:** Не очень понятно, что это значит... Давай просто сфотографируем пока.
 
-#### Сцена
 
 **Осмотреть:** Так что же изображено на этих рисунках...
 
@@ -108,13 +103,11 @@
 
 **Осмотреть:** Не очень понятно, что это значит... Давай просто перерисуем пока.
 
-#### Сцена
 
 **Паймон:** Этот символ... Он похож на символ, что мы видели в том блокноте.
 
 **Паймон:** Неужели тот блокнот и эти рисунки остались от одного и того же человека?
 
-#### Сцена
 
 **Паймон:** Мы уже собрали столько рисунков. Может, у нас получится сложить из них историю.
 
@@ -206,7 +199,6 @@
 
 **Саид:** Иногда для записи и передачи информации рисунки могут быть понятнее слов.
 
-#### Сцена
 
 **Паймон:** Так и не стало понятно, что за историю рассказывает этот рисунок...
 
@@ -214,7 +206,6 @@
 
 **Паймон:** Давай поищем на других островах.
 
-#### Сцена
 
 **Паймон:** Всё ещё такое чувство, что все эти рисунки рассказывают какую-то историю. Вот бы кто-нибудь помог нам в этом разобраться...
 
@@ -234,7 +225,6 @@
 
 **Паймон:** Может, мы и правда найдём там какого-нибудь учёного.
 
-#### Сцена
 
 **Паймон:** Кажется, на этом рисунке есть какая-то особая отметка.
 
@@ -250,7 +240,6 @@ You discover a strange mural in the Golden Apple Archipelago...
 
 **Paimon:** Who knew that we'd find a mural like this one on this island?
 
-#### Scene
 
 **Observe:** Hmm? Look, there's some sort of... drawing on this stone.
 
@@ -264,7 +253,6 @@ You discover a strange mural in the Golden Apple Archipelago...
 
 **Observe:** Paimon can't read this very well... Either way, let's make of note of this mural first, shall we?
 
-#### Scene
 
 **Observe:** Paimon wonders what story these murals record...
 
@@ -280,7 +268,6 @@ You discover a strange mural in the Golden Apple Archipelago...
 
 **Observe:** Well, let's record it down anyway.
 
-#### Scene
 
 **Observe:** Paimon wonders what story these murals record...
 
@@ -296,7 +283,6 @@ You discover a strange mural in the Golden Apple Archipelago...
 
 **Observe:** Paimon's not totally sure what it means, but let's record this mural down first.
 
-#### Scene
 
 **Observe:** Paimon wonders what story these murals record...
 
@@ -312,7 +298,6 @@ You discover a strange mural in the Golden Apple Archipelago...
 
 **Observe:** Paimon's not totally sure what it means, but let's record this mural down first.
 
-#### Scene
 
 **Observe:** Paimon wonders what story these murals record...
 
@@ -328,13 +313,11 @@ You discover a strange mural in the Golden Apple Archipelago...
 
 **Observe:** Paimon doesn't know what all this means, but let's record this mural down first.
 
-#### Scene
 
 **Paimon:** This mark... looks like the same spot that was on the journal we found.
 
 **Paimon:** Maybe that journal and the mural were left by the same group of people!
 
-#### Scene
 
 **Paimon:** Well, we've recorded all these murals down. If we connect them, we should be able to put the pieces together.
 
@@ -426,7 +409,6 @@ Here are the ones we recorded down.
 
 **Sayid:** Sometimes, images are more intuitive than language when it comes to recording and transmitting information.
 
-#### Scene
 
 **Paimon:** Still, we can't make complete sense out of the story these murals depict just by looking at them.
 
@@ -434,7 +416,6 @@ Here are the ones we recorded down.
 
 **Paimon:** Let's look around and see what we can find!
 
-#### Scene
 
 **Paimon:** Still, it feels as though these murals are hiding some other message. If only we could get someone to help us decipher it...
 
@@ -454,7 +435,6 @@ Here are the ones we recorded down.
 
 **Paimon:** Who knows, we might just find the researcher we need there!
 
-#### Scene
 
 **Paimon:** This mural looks like it has some special meaning.
 
@@ -470,7 +450,6 @@ Here are the ones we recorded down.
 
 **派蒙:** 没想到在这座岛屿里会有这样的壁画。
 
-#### 场景
 
 **观察:** 咦？你看这里，石头上好像…画着什么东西。
 
@@ -484,7 +463,6 @@ Here are the ones we recorded down.
 
 **观察:** 真难懂…总之先把这幅壁画记录下来吧。
 
-#### 场景
 
 **观察:** 这幅壁画，到底记录着什么故事呢…
 
@@ -500,7 +478,6 @@ Here are the ones we recorded down.
 
 **观察:** 总之先把这幅壁画记录下来吧。
 
-#### 场景
 
 **观察:** 这幅壁画，到底记录着什么故事呢…
 
@@ -516,7 +493,6 @@ Here are the ones we recorded down.
 
 **观察:** 虽然不明白是什么意思…但还是先把这幅壁画记录下来吧。
 
-#### 场景
 
 **观察:** 这幅壁画，到底记录着什么故事呢…
 
@@ -532,7 +508,6 @@ Here are the ones we recorded down.
 
 **观察:** 虽然不明白是什么意思…但还是先把这幅壁画记录下来吧。
 
-#### 场景
 
 **观察:** 这幅壁画，到底记录着什么故事呢…
 
@@ -548,13 +523,11 @@ Here are the ones we recorded down.
 
 **观察:** 虽然不明白是什么意思…但还是先把这副壁画记录下来吧。
 
-#### 场景
 
 **派蒙:** 这个标记…好像就是我们发现那本笔记的地方。
 
 **派蒙:** 难道，那本笔记和这幅壁画…是同一批人留下的？
 
-#### 场景
 
 **派蒙:** 已经记录了这么多壁画了。连起来看的话，也能大致理解上面记录的事了。
 
@@ -646,7 +619,6 @@ Here are the ones we recorded down.
 
 **萨义德:** 在记录和传递信息这方面，图画有时候会比语言更加直观。
 
-#### 场景
 
 **派蒙:** 不过，光是看这一副壁画，也没法明白这上面记录的是什么故事…
 
@@ -654,7 +626,6 @@ Here are the ones we recorded down.
 
 **派蒙:** 我们去周围的岛屿上找找看吧。
 
-#### 场景
 
 **派蒙:** 不过，总感觉这些壁画里还藏着什么信息，要是有人能帮忙解读一下就好了…
 
@@ -674,7 +645,6 @@ Here are the ones we recorded down.
 
 **派蒙:** 说不定，我们真能在那找到一位「学者」呢。
 
-#### 场景
 
 **派蒙:** 这幅壁画上，好像有个特别的标记呢。
 

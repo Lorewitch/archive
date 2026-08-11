@@ -72,7 +72,6 @@
 
 Каменный столб стоит возле Головы Змеи, безмолвно ожидая появления реставратора...
 
-#### Сцена
 
 **Разместить:** Похоже, в обереге не хватает двух критически важных деталей.
 
@@ -86,7 +85,6 @@
 
 Опоры шахты Дзякоцу также повреждены и нуждаются в ремонте.
 
-#### Сцена
 
 **Разместить:** Похоже, в обереге не хватает двух критически важных деталей.
 
@@ -130,7 +128,6 @@
 
 Остров Ясиори подвергся воздействию энергии Татаригами. Кадзи, шахтёр, который находится на острове, ищет способ предотвратить дальнейшее усиление этой энергии...
 
-#### Сцена
 
 **Кадзи:** Здравствуй! Прошу прощения, чужестран(ка)(ец). Надеюсь, ты меня выслушаешь.
 
@@ -260,7 +257,6 @@ You got it!
 
 A rock pillar stands sentinel at the Serpent's Head, waiting silently for someone to come to repair it...
 
-#### Scene
 
 **Place:** It seems that two critical components are missing from the ward.
 
@@ -274,7 +270,6 @@ Submit Item
 
 The ward at the Jakotsu Mine has been damaged. It awaits your urgent repair.
 
-#### Scene
 
 **Place:** It seems that two critical components are missing from the ward.
 
@@ -318,7 +313,6 @@ Submit Item
 
 Yashiori Island is deep in the throes of the Tatarigami's effects. Still, a miner named Kaji remains on the island, seemingly searching for a way to inhibit the corruption's proliferation...
 
-#### Scene
 
 **Kaji:** Hello! Excuse me, outlander. Could you hear me out?
 
@@ -448,7 +442,6 @@ Head to the agreed-upon location and report back to Kaji.
 
 一座磐柱静静伫立在蛇神之首，默默等待着修补者的出现…
 
-#### 场景
 
 **放置:** 似乎镇物缺少了两个关键部件。
 
@@ -462,7 +455,6 @@ Head to the agreed-upon location and report back to Kaji.
 
 蛇骨矿洞的镇物亦遭破坏，亟需旅行者前去修复。
 
-#### 场景
 
 **放置:** 似乎镇物缺少了两个关键部件。
 
@@ -506,7 +498,6 @@ Head to the agreed-upon location and report back to Kaji.
 
 八酝岛深为「祟神」所困，仍然留在岛上的矿工梶先生似乎正在寻找抑制其增生的方法…
 
-#### 场景
 
 **梶:** 你好！抱歉打扰，外国人。希望你能听我一言。
 

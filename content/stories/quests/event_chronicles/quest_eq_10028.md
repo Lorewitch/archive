@@ -126,7 +126,6 @@
 
 **Джинн:** Но я не очень привыкла к такой одежде... Надеюсь, это не выглядит слишком нелепо.
 
-#### Сцена
 
 **Джинн:** Все готовы?
 
@@ -138,7 +137,6 @@
 
 **Джинн:** Ну тогда следуйте все за мной к морю.
 
-#### Сцена
 
 **Барбара:** А? Я могу чем-то помочь?
 
@@ -484,7 +482,6 @@ Let's take a closer look and find out.
 
 **Jean:** However, I'm not used to this style of clothing. *sigh* I hope wearing this doesn't look too odd.
 
-#### Scene
 
 **Jean:** Have you finished your preparations?
 
@@ -496,7 +493,6 @@ Let's take a closer look and find out.
 
 **Jean:** Great, then let's head to the boat.
 
-#### Scene
 
 **Barbara:** Hmm? Is there anything I can do?
 
@@ -842,7 +838,6 @@ Let's double our efforts. We have to find him.
 
 **琴:** 可是，我不太习惯这样的装扮…唉，但愿这身打扮不会太过奇怪。
 
-#### 场景
 
 **琴:** 准备好了吗？
 
@@ -854,7 +849,6 @@ Let's double our efforts. We have to find him.
 
 **琴:** 那么，各位就请随我一同到海上去吧。
 
-#### 场景
 
 **芭芭拉:** 唔…有什么是我能做的呢…
 

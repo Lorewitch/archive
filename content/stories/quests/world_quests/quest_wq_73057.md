@@ -26,7 +26,6 @@
 
 Аранакин столько всего забыл после прошлого путешествия. Но как же можно так легко забывать своих друзей, новых и старых?
 
-#### Сцена
 
 **Паймон:** Ну вот, исчез... Правильно, он ведь не помнит наших приключений.
 
@@ -46,7 +45,6 @@
 
 **Паймон:** Эй! Паймон такого не заслужила!
 
-#### Сцена
 
 **Аранакин:** Дай мне знать, если обнаружишь что-нибудь интересное!
 
@@ -102,17 +100,14 @@
 
 **Аранакин:** Здесь я и живу, располагайтесь!
 
-#### Сцена
 
 **Аранакин:** Спасибо, нара Путешественник и белая леталка! Я пойду к Аранаге, сможете найти меня там!
 
-#### Сцена
 
 **Аранакин:** Это инструмент, на котором играют нары, Аранакин всё это время хранил его. Наверное, он уже разучился петь... Все струны расстроены.
 
 **Аранакин:** (Старинный уд, кое-где на нём виднеются аккуратно залатанные трещины, видно, что инструмент хранили очень бережно)
 
-#### Сцена
 
 **Аранакин:** Тоже утварь нар... Как она называется? Аранакину не нужен сон, поэтому я не знаю...
 
@@ -194,7 +189,6 @@
 
 After that last adventure, Aranakin really forgot a lot of things. No matter what, how could the new and old friends he made be forgotten so easily?
 
-#### Scene
 
 **Paimon:** Ah, he's gone... But Paimon understands, he's forgotten our adventures together, after all.
 
@@ -214,7 +208,6 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Paimon:** Hey! Stop being so mean to Paimon!
 
-#### Scene
 
 **Aranakin:** Let me know if you find anything interesting!
 
@@ -270,17 +263,14 @@ After that last adventure, Aranakin really forgot a lot of things. No matter wha
 
 **Aranakin:** This is my place, please rest here!
 
-#### Scene
 
 **Aranakin:** Thank you, Nara Traveler and White Floaty! I'm going back to where Aranaga is. You can find me there!
 
-#### Scene
 
 **Aranakin:** This is Nara instrument, Aranakin is keeping it. But it can't sing now... The strings are not in the right place.
 
 **Aranakin:** (An antiquated oud, marked with multiple breaking scars, but seeming to be carefully-repaired and well-maintained.)
 
-#### Scene
 
 **Aranakin:** Nara... Hm, what's the name? Aranakin doesn't sleep with that, so forget the word...
 
@@ -362,7 +352,6 @@ Here.
 
 在上次冒险结束后，兰纳真忘记了许多事情。但不管怎样，曾结识的新朋与旧友何尝那么容易忘怀呢？
 
-#### 场景
 
 **派蒙:** 唔，不见了…也是呢，他不记得我们曾经一起冒险了呀。
 
@@ -382,7 +371,6 @@ Here.
 
 **派蒙:** 你也太欺负人啦！
 
-#### 场景
 
 **兰纳真:** 发现什么有意思的东西，就跟我说吧！
 
@@ -438,17 +426,14 @@ Here.
 
 **兰纳真:** 这里是我的住处，请在这里休息吧！
 
-#### 场景
 
 **兰纳真:** 谢谢那菈旅行者和白飞飞！我要去兰纳迦那边啦，请去那边找我吧！
 
-#### 场景
 
 **兰纳真:** 这是那菈的琴，兰纳真一直留着。但它应该唱不出歌来了…上面的弦已经走调了。
 
 **兰纳真:** （一柄古旧的乌德琴，其上有几处断裂的痕迹，但看起来被修补和保存得很妥善。）
 
-#### 场景
 
 **兰纳真:** 那菈的…嗯，那个叫什么？兰纳真不需要这个睡觉，所以不知道这个词…
 

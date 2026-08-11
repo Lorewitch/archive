@@ -126,7 +126,6 @@
 
 **Пука:** Спасибо за помощь! Будьте осторожны!
 
-#### Сцена
 
 **Лаумэ:** Месье Нёвиллет, могу я задать вопрос?
 
@@ -438,7 +437,6 @@
 
 **Роялт:** Всего доброго! Берегите себя.
 
-#### Сцена
 
 **Пука:** Пожалуйста, проводите нас в кабинет месье Нёвиллета.
 
@@ -686,7 +684,6 @@ In that case, I think it's time for our line...
 
 **Puca:** Thanks so much for your help, and stay safe!
 
-#### Scene
 
 **Laume:** Monsieur Neuvillette! Can I ask a question?
 
@@ -998,7 +995,6 @@ Sorry to impose...
 
 **Roialte:** Please, take care, everyone.
 
-#### Scene
 
 **Puca:** Okay then, please lead the way to Monsieur Neuvillette's office!
 
@@ -1246,7 +1242,6 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **芙佳:** 多谢你们帮忙！要注意安全哦！
 
-#### 场景
 
 **洛梅:** 那维莱特大人，可以问您一个问题吗？
 
@@ -1558,7 +1553,6 @@ And though Pahsiv basically ate nothing but tidalga (and polished off every last
 
 **洛耶茨:** 各位慢走啊，慢走。
 
-#### 场景
 
 **芙佳:** 那就麻烦你带我们去那维莱特大人的办公室啦。
 

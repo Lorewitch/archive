@@ -26,7 +26,6 @@
 
 В деревне Аару вы встречаете другого исследователя из Вахуманы по имени Калантари. В последнее время он испытывает сложности со своей научной работой и ищет помощи...
 
-#### Сцена
 
 **Паймон:** И вот мы снова в деревне Аару. Ох, как же здесь жарко. Прям как в первый наш визит.
 
@@ -130,7 +129,6 @@
 
 **Паймон:** Хи-хи.
 
-#### Сцена
 
 **Сохейль:** Ка-лан-та-ри!
 
@@ -318,7 +316,6 @@
 
 **Паймон:** Пойдём, посмотрим, какие тайны царь Дешрет скрывает в этом Аару.
 
-#### Сцена
 
 **Паймон:** Согласно указаниям на каменной плите, мы достигли пункта назначения!
 
@@ -456,7 +453,6 @@
 
 **Сохейль:** Позволь мне наставить тебя на путь истинный. Начни учиться и, достигнув моего возраста, возможно, ты сможешь поступить в Академию.
 
-#### Сцена
 
 **Паймон:** Мысли об этом месте будоражат воображение Паймон! Такое ощущение, что мы попали в удивительное место... Прямо как логово Ужаса Бури, только в пустыне?
 
@@ -466,7 +462,6 @@
 
 **Хульвани:** Пожалуйста, уходите. Не делайте ничего необдуманного.
 
-#### Сцена
 
 **Паймон:** Хм, это и есть... Аару?
 
@@ -592,7 +587,6 @@
 
 В археологических заметках описаны приключения Сохейля в пустыне во времена его юности. Некоторые из упомянутых руин могут скрывать сокровища и старые записи. Отправляйтесь вглубь пустыни на их поиски.
 
-#### Сцена
 
 **Сохейль:** Фух... Здесь намного прохладнее. Пожалуйста, позвольте мне взглянуть на каменную плиту.
 
@@ -788,13 +782,11 @@
 
 **Паймон:** Давай разделимся и осмотрим упомянутые им места! Если найдём что-нибудь, то вручим ему в качестве ответного подарка!
 
-#### Сцена
 
 Ещё нет.
 
 **Сохейль:** Хорошо. Если вы что-нибудь найдёте, то обязательно поделитесь своей находкой и утолите мою жажду знаний.
 
-#### Сцена
 
 Мы исследовали гробницу Пиршеств.
 
@@ -958,7 +950,6 @@
 
 While in Aaru Village, you meet another Vahumana researcher named Kalantari. He has been fretting over his paper lately and is seeking help...
 
-#### Scene
 
 **Paimon:** We're back at Aaru Village again. Whoa! This place is still burning hot, just like how it was on our first visit.
 
@@ -1062,7 +1053,6 @@ If you insist...
 
 **Paimon:** Hehe.
 
-#### Scene
 
 **Soheil:** Ka-lan-ta-ri!
 
@@ -1250,7 +1240,6 @@ Sounds like you might have embellished things a little...
 
 **Paimon:** Let's go! Let's see what secrets King Deshret has been hiding in "Aaru"!
 
-#### Scene
 
 **Paimon:** According to the stone slate, we've arrived at our destination!
 
@@ -1388,7 +1377,6 @@ Be grateful to me too.
 
 **Soheil:** Allow me to guide you to the right path. Start gaining knowledge now. Who knows, you might even make it into the Akademiya once you reach my age.
 
-#### Scene
 
 **Paimon:** Paimon has been thinking for a while now... This place feels really important... It's like Stormterror's Lair but in the desert!
 
@@ -1398,7 +1386,6 @@ Be grateful to me too.
 
 **Hulwani:** Please leave. Don't do anything unnecessary.
 
-#### Scene
 
 **Paimon:** Hmm, is this... "Aaru"?
 
@@ -1524,7 +1511,6 @@ Sure.
 
 Soheil's archaeological notes record his desert adventures in his youth. Some of the ruins mentioned may contain treasures and old records. Head into the depths of the desert again to look for them.
 
-#### Scene
 
 **Soheil:** Phew, it's a lot cooler here. Mind letting me see the slate?
 
@@ -1720,13 +1706,11 @@ He sounded like a completely different person.
 
 **Paimon:** Let's visit each location mentioned in his notes. If we find something decent, let's bring it back as a gift to him in return!
 
-#### Scene
 
 Not yet.
 
 **Soheil:** Alright. If you do find anything, please share them with me and quench my thirst for knowledge.
 
-#### Scene
 
 We explored the Tomb of Carouses.
 
@@ -1890,7 +1874,6 @@ Soheil's archaeological notes record his desert adventures in his youth. Some of
 
 在阿如村遇见了与提尔扎德同属因论派的学者卡兰塔里…他似乎也在因为论文而苦恼万分，并试图向我们寻求帮助…
 
-#### 场景
 
 **派蒙:** 又回到阿如村了，呜啊，还是好热，和第一次来的时候一样。
 
@@ -1994,7 +1977,6 @@ Soheil's archaeological notes record his desert adventures in his youth. Some of
 
 **派蒙:** 嘿嘿。
 
-#### 场景
 
 **索赫尔:** 卡——兰——塔——里——
 
@@ -2182,7 +2164,6 @@ Soheil's archaeological notes record his desert adventures in his youth. Some of
 
 **派蒙:** 走吧！我们去看看赤王到底在「阿如」里藏了些什么东西，搞得这么神秘。
 
-#### 场景
 
 **派蒙:** 按照石板的指引，我们到达目的地了！
 
@@ -2320,7 +2301,6 @@ Soheil's archaeological notes record his desert adventures in his youth. Some of
 
 **索赫尔:** 我为你指明一条正路：现在开始钻研知识，到我这个年纪的时候，说不定也能加入教令院。
 
-#### 场景
 
 **派蒙:** 从刚刚开始我就很在意了，这里一定是什么不得了的地方…简直像是沙漠里的风龙废墟！
 
@@ -2330,7 +2310,6 @@ Soheil's archaeological notes record his desert adventures in his youth. Some of
 
 **哈尔瓦尼:** 请离开，不要做多余的事。
 
-#### 场景
 
 **派蒙:** 欸…这就是…「阿如」吗？
 
@@ -2456,7 +2435,6 @@ Soheil's archaeological notes record his desert adventures in his youth. Some of
 
 年轻的索赫尔在考古笔记中记录了在沙漠中的探险经历，其中提及的一些遗迹也许隐藏着宝藏与旧时的记录。再次进入沙漠深处探索吧。
 
-#### 场景
 
 **索赫尔:** 呼…这里要凉快多了，拜托二位，把石板暂时借我一观。
 
@@ -2652,13 +2630,11 @@ Soheil's archaeological notes record his desert adventures in his youth. Some of
 
 **派蒙:** 那么，我们分别去他提到的那些地方看看吧！要是发现了什么，就带回来，当做给他的回礼！
 
-#### 场景
 
 还没有。
 
 **索赫尔:** 好吧…如果有什么收获的话，不妨来和我分享一下，满足我对知识的渴求。
 
-#### 场景
 
 探索了「饱饮之陵」。
 

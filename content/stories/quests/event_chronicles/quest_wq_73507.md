@@ -152,7 +152,6 @@
 
 **Бальфур:** Тогда не будем терять времени. Золотой метеор, тестовая версия Грибомеханикуса ждёт тебя!
 
-#### Сцена
 
 **Паймон:** Бам-бам-шапочка, давай сыграем в ладушки.
 
@@ -363,7 +362,6 @@ What does "thematic event" mean, exactly?
 
 **Balfour:** Well then, let's not lose any time. Come, Golden Comet, the early test build of Fungus Mechanicus is ready for you!
 
-#### Scene
 
 **Paimon:** C'mon, Bongo-Head, let's play a clapping game!
 
@@ -574,7 +572,6 @@ Paimon and your shroom buddies enjoy themselves very much.*
 
 **贝尔福:** 事不宜迟，就请「黄金流星」来体验一下早期测试版的「灵蕈棋阵」吧！
 
-#### 场景
 
 **派蒙:** 「咚咚小圆帽」，我们来击掌吧。
 

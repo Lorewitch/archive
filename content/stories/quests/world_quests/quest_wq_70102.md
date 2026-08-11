@@ -26,7 +26,6 @@
 
 Во время исследования Драконьего хребта вы подобрали необычный драконий клык. Может, стоит расспросить о нём в базовом лагере...
 
-#### Сцена
 
 Насчёт драконьих клыков...
 
@@ -138,7 +137,6 @@
 
 **???:** (Кажется, этот странный предмет реагирует...)
 
-#### Сцена
 
 **Паймон:** Что-то в этом драконьем клыке изменилось. Да и выглядит он теперь зловеще...
 
@@ -160,7 +158,6 @@
 
 You picked up a strange dragon tooth while adventuring in Dragonspine. Perhaps you should ask around and see if someone knows anything more about it...
 
-#### Scene
 
 I'm here about the Dragontooth again...
 
@@ -272,7 +269,6 @@ I'll, um... see what I can do.
 
 **???:** (This strange object seems to be reacting...)
 
-#### Scene
 
 **Paimon:** Interesting... Something looks a little different about this Dragontooth now. And it seems more ominous, too...
 
@@ -294,7 +290,6 @@ How much do I owe you?
 
 在雪山上，你意外捡到了一枚奇异的「牙齿」，也许问问其他人，会知道些关于它的消息…
 
-#### 场景
 
 关于「龙牙」…
 
@@ -406,7 +401,6 @@ How much do I owe you?
 
 **???:** （这个奇怪的事物似乎有了什么反应…）
 
-#### 场景
 
 **派蒙:** 这枚龙牙…看上去有些不一样了。而且，它给我的感觉也更不好了…
 

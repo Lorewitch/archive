@@ -26,7 +26,6 @@
 
 Элла Маск пытается заниматься в библиотеке, но ей что-то мешает...
 
-#### Сцена
 
 **Элла Маск:** Ye ika gusha mosi!
 
@@ -170,7 +169,6 @@
 
 **Паймон:** Давай передадим сообщение Лизы всем тем в библиотеке, кто читает не так, как следует.
 
-#### Сцена
 
 **Паймон:** Что?! Лиза скоро возвращается?!
 
@@ -196,7 +194,6 @@
 
 Ella Musk is trying to study in the library, but it seems something is disrupting her...
 
-#### Scene
 
 **Ella Musk:** Ye ika gusha mosi!
 
@@ -340,7 +337,6 @@ So, about the racket in the library...
 
 **Paimon:** Well, let's go pass Lisa's message on to those people in the library who aren't reading the way they should.
 
-#### Scene
 
 **Paimon:** Eh!? What? Lisa's coming back soon?
 
@@ -366,7 +362,6 @@ Well, Lisa's reputation precedes her.
 
 在图书馆进行研究的艾拉·马斯克好像遇到了很让人困扰的事…
 
-#### 场景
 
 **艾拉·马斯克:** Ye ika gusha mosi！
 
@@ -510,7 +505,6 @@ Well, Lisa's reputation precedes her.
 
 **派蒙:** 我们走，去向那些来图书馆却不读书的人传达一下丽莎小姐的意思吧。
 
-#### 场景
 
 **派蒙:** 欸——什么？丽莎小姐马上就要回来了？
 

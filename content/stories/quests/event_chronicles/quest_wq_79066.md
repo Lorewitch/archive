@@ -26,7 +26,6 @@
 
 В лесу живёт принцесса, которая готова сама решить проблему...
 
-#### Сцена
 
 **Саборн:** Ваше высочество! Что вас сюда привело?
 
@@ -534,7 +533,6 @@
 
 In the forest, a princess is preparing to go solve a certain problem herself...
 
-#### Scene
 
 **Saborn:** Your Highness! What brings you here?
 
@@ -1042,7 +1040,6 @@ Definitely cooler than just being any old guardian.
 
 在森林里，有一位正准备亲自去解决某个问题的公主…
 
-#### 场景
 
 **萨博兰:** 公主殿下！您怎么来了？
 

@@ -310,7 +310,6 @@
 
 **Дилюк:** Магистр должен быть там. Скорее.
 
-#### Сцена
 
 **Алиса:** Ну вот, готово. Смотри, всё из-за него, этот самый человек добавил папе проблем, из-за которых папа не смог вернуться.
 
@@ -894,7 +893,6 @@ No...
 
 **Diluc:** The Grand Master should be over there. C'mon, let's hurry.
 
-#### Scene
 
 **Alice:** Here, I'll draw him for you. Look, this is the bad guy who made a whole bunch of trouble for Daddy. It's all his fault Daddy couldn't make it back this time.
 
@@ -1478,7 +1476,6 @@ The hatred carried by fate...
 
 **迪卢克:** 大团长应该就在那里，快去。
 
-#### 场景
 
 **艾莉丝:** 我画好了。你看，都怪他，就是这个人给爸爸添乱，让爸爸这次没办法回来。
 

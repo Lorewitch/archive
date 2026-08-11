@@ -26,7 +26,6 @@
 
 Неподалёку от Народа Родников вы встречаете Ронго, который хочет испытать тренировочную площадку...
 
-#### Сцена
 
 **Ронго:** О, ты вернулся / вернулась! Как дела? Надеюсь, в последнее время твой боевой дух на высоте?
 
@@ -38,7 +37,6 @@
 
 **Паймон:** Ой, здесь кто-то есть! Путешественник, давай послушаем, что он хочет сказать.
 
-#### Сцена
 
 **Ронго:** Молодой человек / Девушка, ты как раз вовремя!
 
@@ -238,13 +236,11 @@
 
 **Ронго:** Хорошо. А я пока пойду починю деревянную конструкцию и буду ждать здесь.
 
-#### Сцена
 
 Да, начнём.
 
 **Ронго:** Ладно, мне нужно подготовиться!
 
-#### Сцена
 
 Подожди, нужно кое-какие дела доделать...
 
@@ -368,7 +364,6 @@
 
 Near the People of the Springs, you meet Rongo, who wants to test the training grounds...
 
-#### Scene
 
 **Rongo:** Oh ho, you're back! What's good? Been full of fighting spirit lately, I hope?
 
@@ -380,7 +375,6 @@ Near the People of the Springs, you meet Rongo, who wants to test the training g
 
 **Paimon:** Whoa, someone's here! Well, Traveler, guess we should hear what he has to say...?
 
-#### Scene
 
 **Rongo:** Hey there, kane / wahine. Impeccable timing!
 
@@ -580,13 +574,11 @@ Wait a bit, I've got something else I need to do.
 
 **Rongo:** No problem! I'll go fix the wooden racks a bit and wait here for your return, kane / wahine!
 
-#### Scene
 
 Alright, let's begin.
 
 **Rongo:** Alright, let me do some prep work first!
 
-#### Scene
 
 Wait a bit, I've got something else I need to do.
 
@@ -710,7 +702,6 @@ Alright, let's begin.
 
 在「流泉之众」附近，遇到了希望测试训练场地的朗戈…
 
-#### 场景
 
 **朗戈:** 哦哦，小哥 / 小姐你回来啦！怎么样，最近也一如既往地充满斗志吗？
 
@@ -722,7 +713,6 @@ Alright, let's begin.
 
 **派蒙:** 呜哇，原来有人在！旅行者，我们还是去听听他有什么话要说吧。
 
-#### 场景
 
 **朗戈:** 哦哦，这位小哥 / 小姐，来得正好！
 
@@ -922,13 +912,11 @@ Alright, let's begin.
 
 **朗戈:** 好，那我就先去修一修木架，在这里等小哥 / 小姐你回来吧！
 
-#### 场景
 
 嗯，开始吧。
 
 **朗戈:** 好，让我先做一些准备工作！
 
-#### 场景
 
 稍等，还有别的事要做…
 

@@ -26,7 +26,6 @@
 
 Светоносцы столкнулись с трудностями в Лагере у скалы...
 
-#### Сцена
 
 **Иллуги:** Ну и где они? Сплошная головная боль...
 
@@ -406,7 +405,6 @@
 
 The Lightkeepers stationed at Cliffwatch Camp seem to have run into some trouble...
 
-#### Scene
 
 **Illuga:** Where could they be? Ugh, this is turning into a major headache...
 
@@ -786,7 +784,6 @@ Speaking of the team, how's Valdis doing?
 
 驻守在望崖营壁的执灯人似乎遇到了什么麻烦…
 
-#### 场景
 
 **叶洛亚:** 居然还没到吗？这下可真是伤脑筋了。
 

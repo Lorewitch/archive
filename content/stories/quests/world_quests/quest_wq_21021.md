@@ -26,17 +26,14 @@
 
 В Цинцэ, кажется, скрыта какая-то тайна...
 
-#### Сцена
 
 **Незаконченная надпись:** «Властелин Камня сумел сразить Чи, но в останках Чи по-прежнему таилась сила. Властелину Камня пришлось разделить их на части. Дух Чи был заперт на севере, кости его упокоились на юго-востоке, плоть его лежит на северо-западе, душа Чи заточена на северо-востоке, а его форма сокрушена на юго-западе...»
 
-#### Сцена
 
 **Незаконченная надпись:** «И кости сломлены его, и сломлен дух, разрушены душа и форма... Но плоть его живёт...»
 
 **Незаконченная надпись:** «Здесь статуя стоит, взирая на четыре стороны: на ветряные руины, заснеженный пик, обитель Адептов и гавань Ли Юэ...»
 
-#### Сцена
 
 **Ян Эр:** Какое невезение...
 
@@ -300,7 +297,6 @@
 
 **Бабуля Жо Синь:** Позвольте мне вручить это вам в качестве благодарности от всех жителей деревни.
 
-#### Сцена
 
 **Паймон:** В Цинцэ все такие приветливые. Хе-хе, всё-таки не зря мы сюда так долго шли!
 
@@ -314,7 +310,6 @@
 
 **Паймон:** Хм... Давай проверим это место ещё разок!
 
-#### Сцена
 
 **Паймон:** И всё? Но мы ничего не нашли...
 
@@ -332,17 +327,14 @@
 
 It seems Mt. Qingce is hiding some secrets...
 
-#### Scene
 
 **Incomplete Writing:** "...Rex Lapis overcame the Chi, but the Chi could not perish in its entirety. Thus did Rex Lapis conquer each of its facets in turn: its spirit was bound in the north, its bones were pinned in the south-east, its flesh was incarcerated in the north-west, its soul was fettered in the north-east, and its form was crushed in the south-west..."
 
-#### Scene
 
 **Incomplete Writing:** "...Its bones pierced, its spirit faded, its form and soul both decimated... still did its flesh survive..."
 
 **Incomplete Writing:** Here stands this statue, to watch in each direction: the wind-swept ruin, the snow-capped peak, the adepti's abode, and the city of Liyue...
 
-#### Scene
 
 **Yan'er:** Agh, what terrible luck...
 
@@ -606,7 +598,6 @@ How do you do?
 
 **Granny Ruoxin:** Allow me to give these to you as a token of appreciation, on behalf of everyone in Qingce Village.
 
-#### Scene
 
 **Paimon:** The people of Qingce are really friendly. Hehe, guess we didn't come all this way for nothing.
 
@@ -620,7 +611,6 @@ How do you do?
 
 **Paimon:** Hmm... Shall we give it another once-over, just to be sure?
 
-#### Scene
 
 **Paimon:** Huh, so that's it? But we found nothing...
 
@@ -638,17 +628,14 @@ How do you do?
 
 轻策山中，似乎藏匿着什么秘密…
 
-#### 场景
 
 **残缺的文字:** 「…帝君伏螭，然其身不全死，故渐次镇之，束其神于正北，钉其骨于东南，锁其身于西北，缚其魂于东北，压其形于西南…」
 
-#### 场景
 
 **残缺的文字:** 「…其骨已销，其神已失，其形已灭，其魂已灭…其身仍存…」
 
 **残缺的文字:** 「…置此尊像，遥望四方…狂风隔蔽之墟、冰雪不化之峰、绝云隐仙之地、璃月众人之城…」
 
-#### 场景
 
 **胭儿:** 唉，运气真差…
 
@@ -912,7 +899,6 @@ How do you do?
 
 **若心:** 这些啊，就算是我代我们轻策庄，给你们的谢礼吧。
 
-#### 场景
 
 **派蒙:** 轻策庄的人可真好客呀，嘿嘿，这趟我们总算没白跑。
 
@@ -926,7 +912,6 @@ How do you do?
 
 **派蒙:** 唔…不然，我们再到处找找看吧？
 
-#### 场景
 
 **派蒙:** 呼，这样就结束了。不过，感觉这里面也没什么东西啊…
 

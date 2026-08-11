@@ -26,7 +26,6 @@
 
 Вы добрались до необитаемого острова в море, на котором нашлись огромные солнечные часы. Какую тайну они скрывают?
 
-#### Сцена
 
 **Повреждённая надпись:** «Ветер разносит истории, а время превращает их в легенды...»
 
@@ -94,11 +93,9 @@
 
 **Генри Мортон:** Может быть, ты обнаружишь в них что-то полезное.
 
-#### Сцена
 
 **Повреждённая надпись:** «Ветер разносит истории, а время превращает их в легенды...»
 
-#### Сцена
 
 **Генри Мортон:** Время и ветер... Что же здесь обнаружил тот парень?
 
@@ -144,7 +141,6 @@
 
 You reach an uninhabited island across the sea, which is home to an enigmatic sundial. Who knows what secret it holds?
 
-#### Scene
 
 **Ravaged Carving:** "Stories brought on the wind will bloom into legends in due time."
 
@@ -212,11 +208,9 @@ Well, there's a sundial on that island...
 
 **Henry Morton:** Who knows? Perhaps there's something in there that might help you.
 
-#### Scene
 
 **Ravaged Carving:** "Stories brought on the wind will bloom into legends in due time."
 
-#### Scene
 
 **Henry Morton:** Time and wind... Just what did he find?
 
@@ -262,7 +256,6 @@ Well...
 
 你到达了一座海上的孤岛，上面有一座神秘的日晷，不知道其中是否隐藏着什么秘密…
 
-#### 场景
 
 **残破的刻字:** 「风带来了新的故事，时间使之成为神话。」
 
@@ -330,11 +323,9 @@ Well...
 
 **亨利莫顿:** 说不定上面有什么东西，会对你有帮助。
 
-#### 场景
 
 **残破的刻字:** 「风带来了新的故事，时间使之成为神话。」
 
-#### 场景
 
 **亨利莫顿:** 时与风…那家伙到底研究出了什么东西？
 

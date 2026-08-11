@@ -26,7 +26,6 @@
 
 Множество неожиданных вещей случилось в этих горах: таинственный лагерь, не пойми откуда взявшиеся воры, незваные злодеи... Кажется, будто этот меч затянул вас в эпицентр абсурда. Пока он остаётся в ваших руках, неприятности продолжают вас преследовать, включая желающих отнять у вас этот меч и невиданных доселе чудовищ...
 
-#### Сцена
 
 **Паймон:** Альбедо! Мы опять к тебе!
 
@@ -360,7 +359,6 @@
 
 Many unexpected things have happened on this mountain. A mysterious hidden camp, suddenly-appearing thieves, uninvited enemies... This sword seems to have brought you into the thick of all this weirdness. So long as it remains in your hands, trouble will always follow in its wake — with such troubles including those who have come to take the sword, and new monsters heretofore unseen.
 
-#### Scene
 
 **Paimon:** Albedo! We're baaaack!
 
@@ -694,7 +692,6 @@ I'll do what I can to help.
 
 雪山上有太多意料之外的事：神秘隐蔽的营地、突然出现的小偷、不请自来的敌人。这把剑似乎将你们带入了怪圈，只要它还在你手中，麻烦就会源源不断地到来。你的麻烦，甚至包括蛮横夺剑之人与闻所未闻的新怪物。
 
-#### 场景
 
 **派蒙:** 阿贝多！我们又——来啦！
 

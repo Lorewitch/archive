@@ -662,7 +662,6 @@
 
 *В тишине и спокойствии леса тёплые объятия природы успокаивают вас, и вы погружаетесь в безмятежный сон...*
 
-#### Сцена
 
 **Кавех:** Хм... Куда делись стаканы? Могу поклясться, что я оставил их здесь после того, как помыл...
 
@@ -2888,7 +2887,6 @@ Well, I'm gonna dig in!
 
 *In the peace and tranquility of the forest, nature's warm embrace lulls you into a restful sleep...*
 
-#### Scene
 
 **Kaveh:** ...Huh? Where'd the wine cups go? I could have sworn I left them here after I washed them...
 
@@ -5114,7 +5112,6 @@ Yeah?
 
 *在这片宁静优美的树林里，你被自然庇护着拥抱着，安稳地进入了梦乡…*
 
-#### 场景
 
 **卡维:** 嗯？我明明记得我洗完酒杯放在这里了…
 

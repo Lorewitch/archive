@@ -26,7 +26,6 @@
 
 Целитель Ясумото находится на острове Ясиори и, похоже, остро нуждается в помощи...
 
-#### Сцена
 
 **Ясумото:** УХ ТЫ! Я... совсем не подозрительная личность. Я всего лишь местный врач!
 
@@ -212,7 +211,6 @@
 
 The traveling doctor Yasumoto is currently wandering Yashiori Island, urgently seeking outside help...
 
-#### Scene
 
 **Yasumoto:** Yeargh!!! I'm... I'm nobody suspicious, I swear! Just a local doctor!
 
@@ -398,7 +396,6 @@ Alright.
 
 游医保本正在八酝岛上彷徨，似乎急需外界的帮助…
 
-#### 场景
 
 **保本:** 哇啊！我…我不是什么可疑人士，只是本地的医师而已！
 

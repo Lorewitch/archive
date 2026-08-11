@@ -50,7 +50,6 @@
 
 **Катерина:** Словом, если есть желание - попробуй сыграть. По словам искателей приключений, которые уже приняли в ней участие, игра эта довольно занятная.
 
-#### Сцена
 
 **Гайгэкс:** Привет! Не хочешь сыграть в «По следам ветра»?
 
@@ -130,7 +129,6 @@ Does this have anything to do with the Adventurers' Guild?
 
 **Katheryne:** In any case, give it a go if you're willing. According to adventurers who have previously played it, it's actually quite fun...
 
-#### Scene
 
 **Gygax:** Hey there, fancy trying your hand at Windtrace?
 
@@ -210,7 +208,6 @@ Used to be?
 
 **凯瑟琳:** 总之，如果你愿意的话，就过去试玩一下吧。据试玩过的冒险家们说，「风行迷踪」玩起来还挺有意思的…
 
-#### 场景
 
 **吉盖克斯:** 你好，想试试「风行迷踪」吗？
 

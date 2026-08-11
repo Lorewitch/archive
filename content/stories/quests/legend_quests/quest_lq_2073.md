@@ -490,7 +490,6 @@
 
 **Паймон:** В общем, он сказал, что «подданные» хранят его секреты... Неважно, правда это или нет, но мы не можем оставить зелёные грибы без внимания. Давайте начнём расследование!
 
-#### Сцена
 
 **Паймон:** Зелёный гриб... превратился в плесенника. Отлично, но теперь Паймон знает твои уловки, ты нас больше не напугаешь!
 
@@ -838,7 +837,6 @@
 
 Наконец-то вы добыли ключевой ингредиент. Осталось приготовить грибное блюдо. Посмотрите, что будет дальше...
 
-#### Сцена
 
 **Паймон:** Мы вернулись! И нашли много всего полезного!
 
@@ -1874,7 +1872,6 @@ Which means we made the right call to investigate.
 
 **Paimon:** Well, he said his "subjects" hold the clues to his secrets... Who knows if he was telling the truth, but we can't just ignore the green mushrooms. So, let's start investigating!
 
-#### Scene
 
 **Paimon:** Oh, a green mushroom... And, it turned into a Fungus. Nice try, but you're not scaring Paimon with that one twice!
 
@@ -2222,7 +2219,6 @@ Nice fighting back there, by the way.
 
 You've finally found some key materials. All that's left is to cook the mushroom and see what happens...
 
-#### Scene
 
 **Paimon:** We're back! And we found a bunch of stuff to use!
 
@@ -3258,7 +3254,6 @@ Yep! You got this!
 
 **派蒙:** 总之，它说把线索留给了它的「臣民」…不论真假，我们都不能放着绿蘑菇不管，去调查一下吧。
 
-#### 场景
 
 **派蒙:** 这里是绿蘑菇…果然，变成蕈兽了。这次我有心理准备，吓不到我！
 
@@ -3606,7 +3601,6 @@ Yep! You got this!
 
 终于寻到了关键的材料，接下来就是烹饪蘑菇，看看会发生什么…
 
-#### 场景
 
 **派蒙:** 我们回来啦，有很不错的收获！
 

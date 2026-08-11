@@ -34,7 +34,6 @@
 
 **Паймон:** Хм... Это место подойдёт? Что ж, остаётся надеяться, что устройство справится со своей задачей.
 
-#### Сцена
 
 **Во Лю:** Кажется, вон то место подойдёт. Хм... Посмотрим с висячего моста...
 
@@ -216,7 +215,6 @@ The hydrologist Woliu seems distressed about something...
 
 **Paimon:** Hmm... Would this place do? Ah well, let's just trust that this device will do its job.
 
-#### Scene
 
 **Woliu:** That position right up ahead looks quite promising... Hmm... Maybe I'll take a look by the drawbridge in a bit.
 
@@ -398,7 +396,6 @@ So... you haven't shot much at all!?
 
 **派蒙:** 唔…这里能行吗？算了，我们就相信这台仪器的实力吧。
 
-#### 场景
 
 **斡流:** 前面那个位置应该不错，唔…等一下去吊桥附近看看好了…
 

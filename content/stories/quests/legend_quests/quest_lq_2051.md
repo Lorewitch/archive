@@ -842,7 +842,6 @@
 
 Давай посмотрим внутри!
 
-#### Сцена
 
 *Вы выбегаете в коридор и направляетесь к номеру Люсьена. Вы пытаетесь войти, но дверь не поддаётся...*
 
@@ -852,7 +851,6 @@
 
 *Вы выбегаете в коридор и направляетесь к номеру Люсьена. Вы пытаетесь войти, но и эта дверь не поддаётся...*
 
-#### Сцена
 
 *Вы выбегаете в коридор и направляетесь к номеру Сильвена. Вы пытаетесь войти, но дверь не поддаётся...*
 
@@ -940,11 +938,9 @@
 
 **Коллеи:** Я отправлюсь в горы и буду следить за всеми, кто заходит и выходит из этого района. Предоставьте наблюдение за дикой природой лесному дозору.
 
-#### Сцена
 
 **Эмилия:** Зрачки расширены, кожа покраснела... Никаких явных внешних повреждений или признаков борьбы...
 
-#### Сцена
 
 (Эта дверь ведёт в номер Сильвена. Я слышу слабые голоса, доносящиеся из-за двери...)
 
@@ -2750,7 +2746,6 @@ That voice! It's...
 
 Let's go inside and check!
 
-#### Scene
 
 *You rush into the hallway and head for Lucien's room. You try to enter, but the door won't budge...*
 
@@ -2760,7 +2755,6 @@ I'll try to break it open.
 
 *You rush into the hallway and head for Lucien's room. You try to enter, but this door won't budge either...*
 
-#### Scene
 
 *You rush into the hallway and head for Sylvain's room. You try to enter, but the door won't budge...*
 
@@ -2848,11 +2842,9 @@ Maybe that's what Kirya wanted...
 
 **Collei:** I'll head into the mountains to keep an eye on everyone coming in and out of the area. Just leave the wilderness surveillance to the Forest Rangers.
 
-#### Scene
 
 **Emilie:** Pupils are dilated, skin is flushed... No overt external injuries or signs of a struggle...
 
-#### Scene
 
 (This door leads to Sylvain's room. I can hear faint voices coming from the other side...)
 
@@ -4658,7 +4650,6 @@ Or maybe... That's what she hoped for her brother...
 
 先进去看看！
 
-#### 场景
 
 *你们冲进走廊，尝试进入卢西恩的房间。房门却丝毫未动…*
 
@@ -4668,7 +4659,6 @@ Or maybe... That's what she hoped for her brother...
 
 *你们冲进走廊，尝试进入卢西恩的房间。房门却同样丝毫未动…*
 
-#### 场景
 
 *你们冲进走廊，尝试进入席尔万的房间。房门却丝毫未动…*
 
@@ -4756,11 +4746,9 @@ Or maybe... That's what she hoped for her brother...
 
 **柯莱:** 我也会在山上盯紧来往的人员。请放心，山林里的工作，就交给巡林员吧。
 
-#### 场景
 
 **艾梅莉埃:** 瞳孔散大、皮肤泛红、没有搏斗痕迹和明显外伤…
 
-#### 场景
 
 （这扇门通往席尔万的房间。能隐约听见另一边的声音…）
 

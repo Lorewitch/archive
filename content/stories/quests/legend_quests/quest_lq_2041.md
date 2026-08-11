@@ -542,7 +542,6 @@
 
 **Киара:** Я записалась добровольцем в ряды спасателей! Я очень хорошо плаваю и уверена, что смогу быть полезной.
 
-#### Сцена
 
 **Нёвиллет:** ...Вы уже закончили? Прошу вас, подождите немного, мне нужно время.
 
@@ -1542,7 +1541,6 @@
 
 **Авриоль:** ...Мы его очень уважаем.
 
-#### Сцена
 
 **Нёвиллет:** Я полностью доверяю Ризли, поэтому редко наведываюсь в крепость Меропид. Однако исключительные обстоятельства требуют исключительных мер... Надеюсь, я не доставил ему много хлопот.
 
@@ -2418,7 +2416,6 @@ What are you doing here, exactly?
 
 **Kiara:** I've even signed up as a volunteer lifeguard! I'm really good at swimming, so I'm sure I can help.
 
-#### Scene
 
 **Neuvillette:** ...You're done reading already? Please wait a moment, I still need some time.
 
@@ -3418,7 +3415,6 @@ Medal of Peace?
 
 **Auriol:** ...All of us have a lot of respect for him.
 
-#### Scene
 
 **Neuvillette:** I place great trust in Wriothesley, so I rarely visit the Fortress of Meropide. However, exceptional circumstances call for exceptional measures... I hope I didn't cause him too much trouble.
 
@@ -4294,7 +4290,6 @@ Every trial you've ever judged has left its impression on you. And that's what m
 
 **基娅拉:** 我还报名参加了志愿者哦，负责当临时救生员。我游泳很好，一定可以帮上忙。
 
-#### 场景
 
 **那维莱特:** …这么快就看完了吗？请稍等一下，我还需要一点时间。
 
@@ -5294,7 +5289,6 @@ Every trial you've ever judged has left its impression on you. And that's what m
 
 **欧莉艾尔:** …我们都很尊敬他。
 
-#### 场景
 
 **那维莱特:** 我对莱欧斯利很放心，所以并不会经常来梅洛彼得堡。这次的情况比较特殊，希望没有给他造成什么困扰。
 

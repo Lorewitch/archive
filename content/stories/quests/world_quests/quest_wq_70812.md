@@ -26,7 +26,6 @@
 
 Из-за сильного шторма, бушевавшего в Мондштадте, рекламные плакаты и объявления оказались на крышах домов и городских стенах. Рыцарь Ордо Фавониус Арамис думает, как вернуть их на место.
 
-#### Сцена
 
 **Арамис:** На крышах домов и городской стене должно быть примерно три плаката и одна доска объявлений.
 
@@ -52,7 +51,6 @@
 
 Due to the storm that swept through the city, the posters and signboards of many shops have been blown off to the rooftops and city walls of Mondstadt. Aramis of the Knights of Favonius is currently mulling over how he might retrieve them...
 
-#### Scene
 
 **Aramis:** There should be three posters and one signboard now stuck on rooftops and on the city walls.
 
@@ -78,7 +76,6 @@ Yes, sir!
 
 因为之前那阵席卷全城的风暴，蒙德城内许多商家的海报与告示牌都被吹到了城中房子的房顶，还有周围的城墙上。西风骑士阿拉米正在为收拾这些东西的方法而发愁…
 
-#### 场景
 
 **阿拉米:** 大概有三张海报…和一个告示牌被风暴吹到了屋顶和城墙上。
 

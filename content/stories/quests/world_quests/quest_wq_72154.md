@@ -26,7 +26,6 @@
 
 Ксавье о чём-то переживает...
 
-#### Сцена
 
 **Ксавье:** Погодите! Господин солдат, слова, которые вы только что прочитали, несут не ту эмоциональную окраску.
 
@@ -224,7 +223,6 @@
 
 Xavier seems to be bothered by a certain matter...
 
-#### Scene
 
 **Xavier:** Wait! Ah, Sir Soldier, the line you just read lacks the right emotional gravitas.
 
@@ -422,7 +420,6 @@ What's the theme of your next film?
 
 泽维尔似乎正在为某事而烦恼…
 
-#### 场景
 
 **泽维尔:** 等等！士兵先生，您刚才念的词情绪不太对。
 

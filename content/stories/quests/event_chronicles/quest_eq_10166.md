@@ -168,7 +168,6 @@
 
 **Паймон:** М-мы вообще-то ещё не начинали. Но мы собирались начать... прямо сейчас!
 
-#### Сцена
 
 **Гань Юй:** Чтобы сделать длиннохвостую ласточку, потребуется немало изогнутых бамбуковых прутьев...
 
@@ -176,7 +175,6 @@
 
 **Шэнь Хэ:** Сломался.
 
-#### Сцена
 
 **Яо Яо:** Когда я научусь хорошо делать воздушных змеев, я сделаю одного в форме Юэгуя!
 
@@ -188,7 +186,6 @@
 
 **Паймон:** Раз мы определились, тогда приступим к работе.
 
-#### Сцена
 
 **Паймон:** Сначала нам нужно определиться с формой... Эй, что смешного?
 
@@ -204,7 +201,6 @@
 
 **Паймон:** Так... А какое выражение лица лучше сделать у Паймон? Воздушный змей ведь летает очень высоко в небе...
 
-#### Сцена
 
 Поэтому у неё должно быть очень довольное выражение...
 
@@ -667,7 +663,6 @@ In order to thank you for your help, Gaming proposes to invite you to Xinyue Kio
 
 **Paimon:** W—We actually haven't started yet. But we're going to start... right now!
 
-#### Scene
 
 **Ganyu:** The scissor-tailed swallow sure takes a lot of curved bamboo rods to build...
 
@@ -675,7 +670,6 @@ In order to thank you for your help, Gaming proposes to invite you to Xinyue Kio
 
 **Shenhe:** It broke.
 
-#### Scene
 
 **Yaoyao:** Once I get better at making kites, I'm going to make one shaped like Yuegui.
 
@@ -687,7 +681,6 @@ Yep, that's the one.
 
 **Paimon:** Now that we've decided, let's make it happen.
 
-#### Scene
 
 **Paimon:** First, we have to decide on the shape... Hey, what are you laughing at?
 
@@ -703,7 +696,6 @@ The obvious answer is to make a Paimon-shaped kite.
 
 **Paimon:** Now... what expression should we give her? Since the kite is going to be flying super high in the sky...
 
-#### Scene
 
 She should look pleased with herself...
 
@@ -1166,7 +1158,6 @@ You look great.
 
 **派蒙:** 还，还没有开始！我是说…快了！
 
-#### 场景
 
 **甘雨:** 剪尾鸢的话，需要不少弯曲的竹签…
 
@@ -1174,7 +1165,6 @@ You look great.
 
 **申鹤:** 折断了。
 
-#### 场景
 
 **瑶瑶:** 等我学会扎风筝，我之后还想再做个月桂样式的呢！
 
@@ -1186,7 +1176,6 @@ You look great.
 
 **派蒙:** 既然决定好了，那我们现在就动工吧。
 
-#### 场景
 
 **派蒙:** 首先，确定想做的风筝造型…喂，你一个人突然在笑什么？
 
@@ -1202,7 +1191,6 @@ You look great.
 
 **派蒙:** 那…表情你想好了吗？既然风筝是要飞在很高很高的地方的话…
 
-#### 场景
 
 得意的样子…
 

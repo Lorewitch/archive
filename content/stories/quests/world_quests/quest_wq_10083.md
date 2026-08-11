@@ -600,7 +600,6 @@
 
 **Аранакин:** Да! Вместе!
 
-#### Сцена
 
 **Аранакин:** Кстати, про лес Мотийимы... Аранага ждёт тебя там. Он главный на обряде арахаомы. Сходи, повидайся с ним.
 
@@ -608,7 +607,6 @@
 
 **Паймон:** Столько хлопот...
 
-#### Сцена
 
 **Лунджа:** Минум, Зири! Цель у нас в руках! Предупредим нанимателя, и будем свободны!
 
@@ -660,17 +658,14 @@
 
 **Аранакин:** Проклятые «песочники»! Скорее, за ними!
 
-#### Сцена
 
 Я хочу послушать твоё предложение.
 
 **Паймон:** Соглашаться на сделку с такой прохиндейкой? Серьёзно?
 
-#### Сцена
 
 Мы хотим спасти лес.
 
-#### Сцена
 
 Дешевле вас отколотить.
 
@@ -678,7 +673,6 @@
 
 **Лунджа:** Снимите с них всё, что можно продать!
 
-#### Сцена
 
 **Лунджа:** Вот это мне по душе!
 
@@ -744,7 +738,6 @@
 
 **Лунджа:** И последний совет: держи открытым один глаз, когда спишь. Не забывай, ты ещё не (рассчиталась)(рассчитался) за товар.
 
-#### Сцена
 
 **Паймон:** Хм, вы просто не на тех напали! Отлично, гриб зохра теперь у нас!
 
@@ -934,7 +927,6 @@
 
 **Арагару:** Хм... Это они. Рядом есть и другие руны. Давайте посмотрим на них.
 
-#### Сцена
 
 **Арагару:** (Золотая)(Золотой) нара и белая леталка, вы пришли! Я Арагару.
 
@@ -1414,7 +1406,6 @@
 
 **Аранага:** Ага, но не будет ждать нас восход и заход луны. Скорее идите, конечно... Но спешить не нужно, здесь мы будем ждать вас.
 
-#### Сцена
 
 **Аранакин:** Аранага, а вот и они, вот и они!
 
@@ -2208,17 +2199,14 @@ I'll bear that in mind.
 
 **Aranakin:** The awful "sand grains"! Follow them!
 
-#### Scene
 
 Let's hear your offer first.
 
 **Paimon:** Are you serious about doing business with her?
 
-#### Scene
 
 We need it to save the forest.
 
-#### Scene
 
 Giving you guys a good thrashing seems to be the better deal here.
 
@@ -2226,7 +2214,6 @@ Giving you guys a good thrashing seems to be the better deal here.
 
 **Lunja:** Take everything valuable from them!
 
-#### Scene
 
 **Lunja:** Because that's how I like it!
 
@@ -2292,7 +2279,6 @@ I'm pondering how you're going to compensate us.
 
 **Lunja:** Final advice: Keep one eye open when you sleep at night. Don't forget, my "friends," you haven't paid for what you bought yet.
 
-#### Scene
 
 **Paimon:** Well, you picked on the wrong person! The Zohrah Mushroom is ours now!
 
@@ -2482,7 +2468,6 @@ I'm pondering how you're going to compensate us.
 
 **Aragaru:** Hmm... That's it. There are other runes nearby. Let's go and see them.
 
-#### Scene
 
 **Aragaru:** Golden Nara and White Floaty, you are here! I am Aragaru!
 
@@ -2962,7 +2947,6 @@ I have other things to do.
 
 **Aranaga:** Alright, but it won't wait for us, the rising and setting of the moon. So hurry there and back, please do. But... No need to rush. Here, we will wait for you.
 
-#### Scene
 
 **Aranakin:** Aranaga, he / she's here, they're here!
 
@@ -3756,17 +3740,14 @@ I have other things to do.
 
 **兰纳真:** 可恶的「沙子」！！我们快点追上去吧！
 
-#### 场景
 
 那就让我先听听你的提案。
 
 **派蒙:** 唔…跟坏蛋做生意？你是认真的吗？
 
-#### 场景
 
 我们需要它来拯救森林。
 
-#### 场景
 
 还是把你们打趴更划算。
 
@@ -3774,7 +3755,6 @@ I have other things to do.
 
 **卢妮雅:** 把他们身上所有能卖钱的东西都扒下来！！
 
-#### 场景
 
 **卢妮雅:** 嗯，因为我高兴呀！
 
@@ -3840,7 +3820,6 @@ I have other things to do.
 
 **卢妮雅:** 最后一句忠告——晚上睡觉不要忘了睁一只眼，「朋友」。可别忘了，你买东西还没付钱呢。
 
-#### 场景
 
 **派蒙:** 哼，所以说是你们惹错人啦！好耶，「须罗蕈」到手！
 
@@ -4030,7 +4009,6 @@ I have other things to do.
 
 **兰迦鲁:** 嗯…就这些啦。附近还有其他的符文，我们边走边看吧。
 
-#### 场景
 
 **兰迦鲁:** 金色的那菈和白色的飞飞，你们来啦！我是兰迦鲁！
 
@@ -4510,7 +4488,6 @@ I have other things to do.
 
 **兰纳迦:** 嗯，但不会等待我们，月亮的升落。所以快去快回，请你们。但…不用太着急，在这里，我们会等待你们。
 
-#### 场景
 
 **兰纳真:** 兰纳迦，他来啦，他们来啦！
 

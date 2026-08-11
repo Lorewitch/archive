@@ -1,11 +1,11 @@
 # id: quest_lq_2009
 # story_group: legend_quests
-# display_category: Задание репутации · Инадзума
+# display_category: Задание Легенд · Кли
 # icon: assets/icons/stories/quests/klee.webp
 # title_ru: Настоящее сокровище
 # title_en: True Treasure
 # title_zh: 真正的宝物
-# region: Инадзума
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 2009
@@ -18,7 +18,7 @@
 # related_quests:
 # quest_chain: quest_lq_2009
 # quest_series:
-# version_source: wiki_release_category
+# version_source: verified_override
 
 ## RU
 
@@ -138,7 +138,6 @@
 
 **Паймон:** А этот парень выглядит даже слишком беззаботно.
 
-#### Сцена
 
 **Чарльз:** Насчёт самого сильного воина Мондштадта...
 
@@ -364,7 +363,6 @@
 
 **Паттон:** Не обращай внимания. Я... Я просто буду заниматься своими делами.
 
-#### Сцена
 
 Хм... Кто ты такой?
 
@@ -510,7 +508,6 @@
 
 **Кли:** Вперёд, почётный рыцарь! Путешественник, вперёд!
 
-#### Сцена
 
 **Паймон:** Всё кончено. Возвращай сокровище!
 
@@ -748,7 +745,6 @@ Customers at the Angel's Share have started debating the hottest topic on Mondst
 
 **Paimon:** Meanwhile, this guy is drunk as a skunk!
 
-#### Scene
 
 **Charles:** Who's the strongest fighter in Mondstadt?
 
@@ -974,7 +970,6 @@ A girl dressed in red?
 
 **Patton:** But don't mind me, of course. *sigh* I guess I'll just... get back to work.
 
-#### Scene
 
 ...Um, who are you?
 
@@ -1120,7 +1115,6 @@ After him!
 
 **Klee:** Come on, (Miss)(Mr.) Honorary Knight! Let's goooo!
 
-#### Scene
 
 **Paimon:** Game's up. Now hand it over!
 
@@ -1358,7 +1352,6 @@ Because of Mondstadt's most powerful treasure?
 
 **派蒙:** 但是，总觉得这个家伙已经醉醺醺的了…
 
-#### 场景
 
 **查尔斯:** 关于「蒙德最强战力」。
 
@@ -1532,7 +1525,7 @@ Because of Mondstadt's most powerful treasure?
 
 **派蒙:** 不过，谢谢你的情报！
 
-#### (test)向酒客们打听「最强战力」的事
+#### 向酒客们打听「最强战力」的事
 
 **杰克:** 再见。
 
@@ -1584,7 +1577,6 @@ Because of Mondstadt's most powerful treasure?
 
 **巴顿:** 你们不用管我…呜呜，我也得…继续工作了…
 
-#### 场景
 
 …你是谁？
 
@@ -1618,7 +1610,7 @@ Because of Mondstadt's most powerful treasure?
 
 你们从各处听说了有关「蒙德最强战力」的各种情报，但仍然无法肯定这个问题的答案。在骑士团总部，你们意外遇到了「强者候选人」——可莉，而她正面临宝物失窃的危机，亟待帮助。
 
-#### (test)追逐III
+#### 追逐III
 
 **派蒙:** 站住！
 
@@ -1730,7 +1722,6 @@ Because of Mondstadt's most powerful treasure?
 
 **可莉:** 荣誉骑士空/荧，我们走我们走。
 
-#### 场景
 
 **派蒙:** 快把宝物交出来！
 

@@ -26,7 +26,6 @@
 
 На природе на острове Тете вы встречаете таинственного лысого человека.
 
-#### Сцена
 
 **Икахуа:** ...
 
@@ -64,7 +63,6 @@
 
 **Икахуа:** Прощай.
 
-#### Сцена
 
 Ты был в баре. Мы уже виделись.
 
@@ -102,7 +100,6 @@
 
 You encounter a mysterious bald-headed figure in the wilderness of Tete Isle...
 
-#### Scene
 
 **Icahua:** ...
 
@@ -140,7 +137,6 @@ Alright. Goodbye.
 
 **Icahua:** You can see yourself out.
 
-#### Scene
 
 You were a guest in the bar. We've met.
 
@@ -178,7 +174,6 @@ Who are you?
 
 在提提岛的野外遇到了一个神秘的光头…
 
-#### 场景
 
 **伊凯卡:** ……
 
@@ -216,7 +211,6 @@ Who are you?
 
 **伊凯卡:** 不送。
 
-#### 场景
 
 你是那个酒吧迎宾，我们见过。
 

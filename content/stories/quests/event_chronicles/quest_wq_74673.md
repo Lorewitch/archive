@@ -1,6 +1,6 @@
 # id: quest_wq_74673
 # story_group: event_chronicles
-# display_category: Ивент · Lost Riches/2024-01-02 }}
+# display_category: Ивент · Затерянные богатства
 # icon: assets/icons/stories/quests/quest.webp
 # title_ru: Морские сокровища
 # title_en: Treasures Under the Sea
@@ -17,7 +17,7 @@
 # next_quests: quest_wq_74674
 # related_quests: quest_wq_74674
 # quest_chain: quest_wq_74673,quest_wq_74674
-# quest_series: Lost Riches/2024-01-02 }}
+# quest_series: Lost Riches
 # version_source: wiki_release_category
 
 ## RU

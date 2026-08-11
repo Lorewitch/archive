@@ -152,7 +152,6 @@
 
 **Нефер:** Хорошо.
 
-#### Сцена
 
 **Нефер:** Противостояние с Доктором потребует от нас отдачи всех сил. Может, у тебя остались неоконченные дела?
 
@@ -234,7 +233,6 @@
 
 **Флинс:** Нас ждёт жестокая битва. Всем нужно подготовиться.
 
-#### Сцена
 
 Я всегда готов(а)!
 
@@ -326,7 +324,6 @@
 
 **Доктор:** Правда? Посмотрим, сможете ли вы заставить меня пожалеть.
 
-#### Сцена
 
 Да, мне надо кое-что закончить...
 
@@ -2944,7 +2941,6 @@ Nope, I'm good to go!
 
 **Nefer:** Very well.
 
-#### Scene
 
 **Nefer:** We all have to bring our A-game here. So, anything you need to wrap up before we leave?
 
@@ -3026,7 +3022,6 @@ The Knave's unit is based at the Kuuvahki Experimental Design Bureau. Maybe you 
 
 **Flins:** I fear this could get ugly. Everyone, prepare yourselves.
 
-#### Scene
 
 Nope, I'm good to go!
 
@@ -3118,7 +3113,6 @@ You'll come to regret your actions.
 
 **The Doctor:** Will I now? Let's see if you can make me.
 
-#### Scene
 
 A few things, actually...
 
@@ -5736,7 +5730,6 @@ Yeah, I'm fine, guys. Thanks.
 
 **奈芙尔:** 好。
 
-#### 场景
 
 **奈芙尔:** 我们都得尽全力了。在那之前，你有没有没做完的事？
 
@@ -5818,7 +5811,6 @@ Yeah, I'm fine, guys. Thanks.
 
 **菲林斯:** 接下来想必是场恶战，还请做好心理准备。
 
-#### 场景
 
 我随时可以行动！
 
@@ -5910,7 +5902,6 @@ Yeah, I'm fine, guys. Thanks.
 
 **「博士」:** 那就得看你们有没有让人后悔的本事了。
 
-#### 场景
 
 还有一些事…
 

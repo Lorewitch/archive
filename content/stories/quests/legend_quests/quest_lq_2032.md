@@ -96,7 +96,6 @@
 
 **Паймон:** Тогда поспешим!
 
-#### Сцена
 
 *Вы довольно долго наблюдали за окрестностями Сумеру, пока вдруг не заметили знакомую фигуру...*
 
@@ -528,7 +527,6 @@
 
 **Сайно:** Осторожно, они шутить не любят...
 
-#### Сцена
 
 **Сайно:** Ну как, есть что-нибудь?
 
@@ -846,7 +844,6 @@
 
 **Набил:** Вы видели Сайно? Как у него дела?
 
-#### Сцена
 
 **Джехнам:** ...Я же говорю - ничего такого не видел.
 
@@ -860,7 +857,6 @@
 
 **Утайба:** А вот материалами о других исследованиях советую интересоваться не так рьяно. Меньше знаешь - крепче спишь.
 
-#### Сцена
 
 **Симин:** Я хочу выздороветь. Не хочу сидеть дома в одиночестве.
 
@@ -1174,7 +1170,6 @@
 
 **Пайям:** Неужто моё чутьё меня не подвело? С этим грузом в самом деле что-то не так?
 
-#### Сцена
 
 **Сайно:** Твоя сила...
 
@@ -1502,7 +1497,6 @@ Do you have any further intel regarding this case?
 
 **Paimon:** Sounds like we'd better go look for him. C'mon!
 
-#### Scene
 
 *After searching outside the city for some time, you see a familiar figure...*
 
@@ -1934,7 +1928,6 @@ Maybe we should take a break.
 
 **Cyno:** Watch out, something's not right about them...
 
-#### Scene
 
 **Cyno:** Did you find anything?
 
@@ -2252,7 +2245,6 @@ Forbidden research...
 
 **Nabil:** Have you managed to find Cyno? If so, how's he doing?
 
-#### Scene
 
 **Jehnam:** Didn't I tell you already? I haven't seen anything.
 
@@ -2266,7 +2258,6 @@ Forbidden research...
 
 **Utayba:** But I'd suggest avoiding any other research files. Sometimes the less you know, the better.
 
-#### Scene
 
 **Simin:** I just want to get better... I don't want to be stuck at home by myself anymore.
 
@@ -2580,7 +2571,6 @@ The evidence is stacked against him now.
 
 **Payam:** Huh, was my intuition right? Was there really something wrong with those goods?
 
-#### Scene
 
 **Cyno:** Your strength...
 
@@ -2908,7 +2898,6 @@ What about the organization...?
 
 **派蒙:** 那我们过去看看！
 
-#### 场景
 
 *在须弥城外找了许久后，忽然看到了一个熟悉的身影…*
 
@@ -3340,7 +3329,6 @@ What about the organization...?
 
 **赛诺:** 小心，这些家伙不太对劲——
 
-#### 场景
 
 **赛诺:** 有什么发现吗？
 
@@ -3658,7 +3646,6 @@ What about the organization...?
 
 **纳比尔:** 两位见到赛诺前辈了吗？前辈那边的情况如何？
 
-#### 场景
 
 **杰赫南:** …我不是说了没印象吗？
 
@@ -3672,7 +3659,6 @@ What about the organization...?
 
 **奥泰巴:** 至于其他的研究资料，我劝你们少看为好。知道的太多，也不是什么好事。
 
-#### 场景
 
 **西敏:** 我想好起来…不想一个人呆在家里了…
 
@@ -3986,7 +3972,6 @@ What about the organization...?
 
 **派安:** 难道真被我猜中了，那批货有问题？
 
-#### 场景
 
 **赛诺:** 你身上的力量…
 

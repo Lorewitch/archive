@@ -118,7 +118,6 @@
 
 **Ван Я:** Спасибо вам.
 
-#### Сцена
 
 **Син Хуо:** Вы... Вы кто?
 
@@ -280,7 +279,6 @@
 
 **Цзя И:** Я подготовлю награду для вас. Ещё раз спасибо.
 
-#### Сцена
 
 **Паймон:** Так я и думала...
 
@@ -580,7 +578,6 @@ Happy to help.
 
 **Wang'ya:** Great, thanks. I appreciate it.
 
-#### Scene
 
 **Xinghuo:** Wh—Who are you?
 
@@ -742,7 +739,6 @@ The food stalls must be protected!
 
 **Jiayi:** I will take care of the compensation. Again, thank you both.
 
-#### Scene
 
 **Paimon:** Aha! Knew it!
 
@@ -1042,7 +1038,6 @@ If only Xiao were here to see the Mingxiao Lantern.
 
 **望雅:** 那就拜托你们了。
 
-#### 场景
 
 **星火:** 你们…你们是什么人？
 
@@ -1204,7 +1199,6 @@ If only Xiao were here to see the Mingxiao Lantern.
 
 **嘉义:** 我会把报酬准备好，这件事就拜托你们了。
 
-#### 场景
 
 **派蒙:** 果然，那个是！
 

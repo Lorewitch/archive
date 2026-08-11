@@ -26,7 +26,6 @@
 
 Ушедшие друзья, вымершие морские животные... Грустные воспоминания о былом или новое начало?
 
-#### Сцена
 
 **???:** ...Э-э, привет.
 
@@ -646,7 +645,6 @@
 
 Lost friends, extinct sea creatures... Is this a sad reminiscence, or the beginning of a new life?
 
-#### Scene
 
 **???:** ...Ah, hello.
 
@@ -1266,7 +1264,6 @@ She's got some other agenda, huh...
 
 逝去的好友，绝迹的海兽…是悲伤的回顾，或是新生的开始？
 
-#### 场景
 
 **？？？:** …啊，你好。
 

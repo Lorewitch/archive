@@ -26,13 +26,11 @@
 
 На склоне Зимородка стоят девять огромных колонн. Они наверняка хранят какой-то секрет.
 
-#### Сцена
 
 **Надпись:** «Корень всех бед лежит в людских пороках...»
 
 **Надпись:** «Здесь воздвигли девять колонн, чтобы впредь друг на друга люди не шли войной...»
 
-#### Сцена
 
 Не мог бы ты взглянуть на этот антиквариат?
 
@@ -52,25 +50,21 @@
 
 **Бо Лай:** Я дам за это кольцо 180 000 моры и ещё кое-какие вещи. Что скажешь?
 
-#### Сцена
 
 Какие кое-какие вещи?
 
 **Бо Лай:** Хорошие. Поверьте, они вас не разочаруют.
 
-#### Сцена
 
 Насчёт кольца...
 
 **Бо Лай:** Вы приняли решение? Что ж, вы собираетесь продавать кольцо или нет?
 
-#### Сцена
 
 Насчёт кольца...
 
 **Линь Лан:** Ну как? Ты решил(а) продавать кольцо или нет?
 
-#### Сцена
 
 Не могла бы ты взглянуть на этот антиквариат?
 
@@ -102,7 +96,6 @@
 
 **Линь Лан:** Перейдём к делу. Я готова дать за кольцо 200 000 моры. Соглас(на)(ен)?
 
-#### Сцена
 
 Мне нужно подумать.
 
@@ -116,7 +109,6 @@
 
 **Бо Лай:** Подумайте хорошенько! Я буду ждать вашего решения.
 
-#### Сцена
 
 Мне нужно подумать.
 
@@ -148,7 +140,6 @@
 
 **Бо Лай:** Должно быть, в тех руинах припрятано ещё немало драгоценностей...
 
-#### Сцена
 
 Продано.
 
@@ -168,13 +159,11 @@
 
 Nine stone pillars stand stoic near Cuijue Slope. They seem to hide a certain secret...
 
-#### Scene
 
 **Inscription:** "All the turmoils in the world have their root in human vice..."
 
 **Inscription:** "Nine pillars we raise here to suppress conflict, that we may never again raise armies against each other..."
 
-#### Scene
 
 Could you help us look at this antique?
 
@@ -194,25 +183,21 @@ In a ruin near Cuijue Slope.
 
 **Bolai:** How about this? I'll offer you 180,000 Mora for this ring, with a few add-ons to boot. Would you sell it to me?
 
-#### Scene
 
 What add-ons?
 
 **Bolai:** What, you ask... Well, it'll be good, that's for sure. I won't do wrong by you.
 
-#### Scene
 
 Regarding that ring...
 
 **Bolai:** Have you considered it? Well then, are you willing to sell it to me?
 
-#### Scene
 
 Regarding that ring...
 
 **Linlang:** Oh, you've considered the matter? Will you sell or not, then?
 
-#### Scene
 
 Could you help us look at this antique?
 
@@ -244,7 +229,6 @@ In a ruin near Cuijue Slope.
 
 **Linlang:** All in all, I'd say this ring's worth 200,000 Mora. What do you say?
 
-#### Scene
 
 Let me give it a little thought...
 
@@ -258,7 +242,6 @@ Let me give it a little thought...
 
 **Bolai:** Think on it carefully, and come back to me anytime should you decide to sell!
 
-#### Scene
 
 I need to give it some thought.
 
@@ -290,7 +273,6 @@ Sold.
 
 **Bolai:** There must be other such gems within those ruins...
 
-#### Scene
 
 We have a deal.
 
@@ -310,13 +292,11 @@ Sold.
 
 在翠玦坡附近，有九根巨大的石柱巍然耸立，似乎隐藏着什么秘密…
 
-#### 场景
 
 **铭文:** 「凡天下战乱，皆起于人心九因…」
 
 **铭文:** 「立九柱以靖世，镇纷战于此，愿再不起刀兵…」
 
-#### 场景
 
 想请你看样古玩…
 
@@ -336,25 +316,21 @@ Sold.
 
 **博来:** 这样，我出180000摩拉，再搭您点东西，您看，愿意把这戒指出给我吗？
 
-#### 场景
 
 搭什么东西？
 
 **博来:** 什么东西…反正，一定是好东西，亏不了您。
 
-#### 场景
 
 关于那枚戒指…
 
 **博来:** 您想好了？怎么样，您愿意卖给我吗？
 
-#### 场景
 
 关于那枚戒指…
 
 **琳琅:** 怎么样，你想好了吗？这枚戒指卖不卖？
 
-#### 场景
 
 想请你看样古玩…
 
@@ -386,7 +362,6 @@ Sold.
 
 **琳琅:** 总之，这枚戒指，我出200000摩拉，怎么样？
 
-#### 场景
 
 我再想想。
 
@@ -400,7 +375,6 @@ Sold.
 
 **博来:** 您好好想，好好想啊，要是愿意把戒指卖给我，您尽管来！
 
-#### 场景
 
 我要再想想。
 
@@ -432,7 +406,6 @@ Sold.
 
 **博来:** 那片遗迹里面，肯定还有其他宝贝…
 
-#### 场景
 
 我卖了。
 

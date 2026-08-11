@@ -26,7 +26,6 @@
 
 Метеоритный дождь погрузил Мондштадт в хаос. Кажется, в общей суматохе Виктор что-то потерял. Он и сам выглядит потерянным и разговаривает с самим собой.
 
-#### Сцена
 
 **Виктор:** Ужас, ужас! Эх, я покойник, покойник!
 
@@ -66,7 +65,6 @@
 
 **Виктор:** Хорошо, спрашивай.
 
-#### Сцена
 
 Я помогу тебе.
 
@@ -86,7 +84,6 @@
 
 **Виктор:** А я тем временем постараюсь что-нибудь вспомнить...
 
-#### Сцена
 
 Ты бы сориентировал меня, где искать...
 
@@ -98,7 +95,6 @@
 
 **Виктор:** Хорошо, спрашивай.
 
-#### Сцена
 
 **Виктор:** Это всё, что я вспомнил. Поскорее помоги мне найти коробку.
 
@@ -128,7 +124,6 @@
 
 **Виктор:** А я тем временем постараюсь что-нибудь вспомнить...
 
-#### Сцена
 
 Что случилось, когда ты побежал обратно?
 
@@ -180,7 +175,6 @@
 
 Many meteorites have landed outside the city of Mondstadt, wreaking havoc everywhere. Viktor appears to have lost something important, and is talking to himself, flummoxed...
 
-#### Scene
 
 **Viktor:** Oh, this is terrible. I'm finished for sure...
 
@@ -220,7 +214,6 @@ Then if I may ask you something...
 
 **Viktor:** Sure. What would you like to know?
 
-#### Scene
 
 I'll help you out.
 
@@ -240,7 +233,6 @@ I'll help you out.
 
 **Viktor:** I'll give it a bit more thought. Maybe I'll remember something...
 
-#### Scene
 
 Bit hard to search without leads, don't you think?
 
@@ -252,7 +244,6 @@ Then if I may ask you something...
 
 **Viktor:** Sure. What would you like to know?
 
-#### Scene
 
 **Viktor:** That's all I can remember. Find me that box, and quickly.
 
@@ -282,7 +273,6 @@ What were you doing out there?
 
 **Viktor:** I'll give it a bit more thought. Maybe I'll remember something...
 
-#### Scene
 
 What happened while you were running back here?
 
@@ -334,7 +324,6 @@ What about the other Fatui in the city?
 
 大量陨石降落在了蒙德的野外，引起了一片混乱。蒙德城的维克多似乎丢了某件重要的东西，正在焦躁地自言自语…
 
-#### 场景
 
 **维克多:** 完蛋了完蛋了，这下惨了…
 
@@ -374,7 +363,6 @@ What about the other Fatui in the city?
 
 **维克多:** 问题？也行，你要问什么？
 
-#### 场景
 
 我可以帮忙。
 
@@ -394,7 +382,6 @@ What about the other Fatui in the city?
 
 **维克多:** 我再努力回忆回忆，看能不能想起什么…
 
-#### 场景
 
 没有线索不好找…
 
@@ -406,7 +393,6 @@ What about the other Fatui in the city?
 
 **维克多:** 问题？也行，你要问什么？
 
-#### 场景
 
 **维克多:** 我也就记得这些了，你快去帮我找找那个盒子吧。
 
@@ -436,7 +422,6 @@ What about the other Fatui in the city?
 
 **维克多:** 我再努力回忆回忆，看能不能想起什么…
 
-#### 场景
 
 你跑回来的时候发生了什么？
 

@@ -860,7 +860,6 @@
 
 **Женевьева:** Спасибо. Желаю вам всего наилучшего!
 
-#### Сцена
 
 **Пуаре:** Достаточно уже сахара или нет?.. Сколько добра зря пропадает.
 
@@ -874,7 +873,6 @@
 
 **Русимов:** Без проблем.
 
-#### Сцена
 
 **Гонкур:** Раз уж я на Ринге, звать меня нужно Гонкуром Четвёртым. Можно ещё просто «Четвёртый».
 
@@ -1718,7 +1716,6 @@ I guess it's my time to shine.
 
 **Genevieve:** Thank you, and good luck to you too!
 
-#### Scene
 
 **Poiret:** Is there enough sugar? What a waste...
 
@@ -1732,7 +1729,6 @@ I guess it's my time to shine.
 
 **Roussimoff:** Sure thing.
 
-#### Scene
 
 **Goncourt:** Since we're at the pankration ring, I'll go by "Goncourt IV." You can call me "The Fourth."
 
@@ -2576,7 +2572,6 @@ I guess it's my time to shine.
 
 **格内薇芙:** 谢谢你们。也祝你们一切顺利！
 
-#### 场景
 
 **布瓦列特:** 糖还够用吗…真浪费啊。
 
@@ -2590,6 +2585,5 @@ I guess it's my time to shine.
 
 **罗西莫夫:** 没问题。
 
-#### 场景
 
 **龚古尔:** 既然到了拳力斗技场，我就是「龚古尔四世」了。你们可以叫我「四世」。

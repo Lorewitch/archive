@@ -42,7 +42,6 @@
 
 **Бенуа Леруа:** Быстрее, быстрее! Если меня обнаружат, то мне конец.
 
-#### Сцена
 
 Пусть сами разбираются. Я не буду вмешиваться.
 
@@ -118,7 +117,6 @@
 
 **Паймон:** Эй! Это уже слишком! Как можно издеваться над Паймон в такой момент! Пф! Паймон не простит тебя, если ты не угостишь её сытным ужином в «Дебор Отеле»!
 
-#### Сцена
 
 Я не буду стоять в стороне и смотреть, как они мучают Бенуа.
 
@@ -290,7 +288,6 @@ After quietly and patiently waiting for a bit, the window opens with a creak and
 
 **Benoit Leroy:** Quickly, quickly! If I'm discovered, it'll be all over for me.
 
-#### Scene
 
 Let them take care of it. I won't interfere.
 
@@ -366,7 +363,6 @@ Benoit keeps repeating "You will never, ever find her" over and over as the sile
 
 **Paimon:** Hey! That's going too far! Mocking Paimon at a time like this... Hmph! Paimon won't forgive you unless you treat her to a big meal at the Hotel Debord!
 
-#### Scene
 
 I won't stand by and watch them hurt Benoit.
 
@@ -538,7 +534,6 @@ Benoit flees in the opposite direction from the Court of Fontaine, and leaves yo
 
 **伯努瓦·勒鲁瓦:** 快走快走，被他们发现就糟了。
 
-#### 场景
 
 他们能自己解决，我不会再插手。
 
@@ -614,7 +609,6 @@ Benoit flees in the opposite direction from the Court of Fontaine, and leaves yo
 
 **派蒙:** 过分，这种时候还要取笑我！哼，你不请我去德波大饭店吃好吃的，我是绝对不会原谅你的！
 
-#### 场景
 
 我不会看着他们伤害伯努瓦。
 
