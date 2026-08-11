@@ -1,5 +1,6 @@
 # id: quest_lq_2035
 # story_group: legend_quests
+# display_category: Задание Легенд · Аль-Хайтам
 # icon: assets/icons/stories/quests/alhatham.webp
 # title_ru: Заблуждения толпы
 # title_en: The Illusions of the Mob

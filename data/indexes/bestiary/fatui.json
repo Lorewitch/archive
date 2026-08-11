@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "close_combat_scout_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/close_combat_scout_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Разведчик ближнего боя",
+      "en": "Close Combat Scout Landcruiser",
+      "zh": "巡陆艇·近战斥候型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Разведчик ближнего боя",
+      "Close Combat Scout Landcruiser",
+      "巡陆艇·近战斥候型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: разведчик ближнего боя close combat scout landcruiser 巡陆艇·近战斥候型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "close_combat_storm_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/close_combat_storm_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Штурмовик ближнего боя",
+      "en": "Close Combat Storm Landcruiser",
+      "zh": "巡陆艇·近战攻坚型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Штурмовик ближнего боя",
+      "Close Combat Storm Landcruiser",
+      "巡陆艇·近战攻坚型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: штурмовик ближнего боя close combat storm landcruiser 巡陆艇·近战攻坚型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "cutting_edge_all_purpose_scout_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cutting_edge_all_purpose_scout_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Новейший многоцелевой разведчик",
+      "en": "Cutting Edge All-Purpose Scout Landcruiser",
+      "zh": "巡陆艇·尖端全能斥候型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Новейший многоцелевой разведчик",
+      "Cutting Edge All-Purpose Scout Landcruiser",
+      "巡陆艇·尖端全能斥候型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: новейший многоцелевой разведчик cutting edge all-purpose scout landcruiser 巡陆艇·尖端全能斥候型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "cutting_edge_all_purpose_storm_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cutting_edge_all_purpose_storm_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Новейший многоцелевой штурмовик",
+      "en": "Cutting Edge All-Purpose Storm Landcruiser",
+      "zh": "巡陆艇·尖端全能攻坚型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Новейший многоцелевой штурмовик",
+      "Cutting Edge All-Purpose Storm Landcruiser",
+      "巡陆艇·尖端全能攻坚型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: новейший многоцелевой штурмовик cutting edge all-purpose storm landcruiser 巡陆艇·尖端全能攻坚型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "cutting_edge_fire_support_ground_effect_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cutting_edge_fire_support_ground_effect_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Новейшая наземная огневая поддержка",
+      "en": "Cutting Edge Fire Support Ground Effect Landcruiser",
+      "zh": "巡陆艇·尖端火力地效型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Новейшая наземная огневая поддержка",
+      "Cutting Edge Fire Support Ground Effect Landcruiser",
+      "巡陆艇·尖端火力地效型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: новейшая наземная огневая поддержка cutting edge fire support ground effect landcruiser 巡陆艇·尖端火力地效型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "fatui_cryo_cicin_mage",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_cryo_cicin_mage.webp",
+    "title": {
+      "ru": "Фатуи: Маг Крио цицинов",
+      "en": "Fatui Cryo Cicin Mage",
+      "zh": "愚人众·冰萤术士"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.2",
+    "tags": [
+      "Фатуи: Маг Крио цицинов",
+      "Fatui Cryo Cicin Mage",
+      "愚人众·冰萤术士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1002000,
+    "search_text": "фатуи: маг крио цицинов fatui cryo cicin mage 愚人众·冰萤术士 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.2 пыльца туманной травы / мешочек с туманной травой / пучок туманной травы mist grass pollen 雾虚花粉 / 雾虚草囊 / 雾虚灯芯 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_electro_cicin_mage",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_electro_cicin_mage.webp",
+    "title": {
+      "ru": "Фатуи: Маг Электро цицинов",
+      "en": "Fatui Electro Cicin Mage",
+      "zh": "愚人众·雷萤术士"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.0",
+    "tags": [
+      "Фатуи: Маг Электро цицинов",
+      "Fatui Electro Cicin Mage",
+      "愚人众·雷萤术士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "фатуи: маг электро цицинов fatui electro cicin mage 愚人众·雷萤术士 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 пыльца туманной травы / мешочек с туманной травой / пучок туманной травы mist grass pollen 雾虚花粉 / 雾虚草囊 / 雾虚灯芯 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_pyro_agent",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_pyro_agent.webp",
+    "title": {
+      "ru": "Фатуи: Пиро агент",
+      "en": "Fatui Pyro Agent",
+      "zh": "愚人众·火之债务处理人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "1.0",
+    "tags": [
+      "Фатуи: Пиро агент",
+      "Fatui Pyro Agent",
+      "愚人众·火之债务处理人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "фатуи: пиро агент fatui pyro agent 愚人众·火之债务处理人 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 церемониальный нож охотника / церемониальный нож агента / церемониальный нож инспектора sacrificial knifes 猎兵祭刀 / 特工祭刀 / 督察长祭刀 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_skirmisher_anemoboxer_vanguard",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_anemoboxer_vanguard.webp",
+    "title": {
+      "ru": "Застрельщик Фатуи: Анемо борец",
+      "en": "Fatui Skirmisher - Anemoboxer Vanguard",
+      "zh": "愚人众先遣队·风拳前锋军"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.0",
+    "tags": [
+      "Застрельщик Фатуи: Анемо борец",
+      "Fatui Skirmisher - Anemoboxer Vanguard",
+      "愚人众先遣队·风拳前锋军"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "застрельщик фатуи: анемо борец fatui skirmisher - anemoboxer vanguard 愚人众先遣队·风拳前锋军 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_skirmisher_cryogunner_legionnaire",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_cryogunner_legionnaire.webp",
+    "title": {
+      "ru": "Застрельщик Фатуи: Крио бомбардир",
+      "en": "Fatui Skirmisher - Cryogunner Legionnaire",
+      "zh": "愚人众先遣队·冰铳重卫士"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.0",
+    "tags": [
+      "Застрельщик Фатуи: Крио бомбардир",
+      "Fatui Skirmisher - Cryogunner Legionnaire",
+      "愚人众先遣队·冰铳重卫士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "застрельщик фатуи: крио бомбардир fatui skirmisher - cryogunner legionnaire 愚人众先遣队·冰铳重卫士 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_skirmisher_electrohammer_vanguard",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_electrohammer_vanguard.webp",
+    "title": {
+      "ru": "Застрельщик Фатуи: Электро молотобоец",
+      "en": "Fatui Skirmisher - Electrohammer Vanguard",
+      "zh": "愚人众先遣队·雷锤前锋军"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.0",
+    "tags": [
+      "Застрельщик Фатуи: Электро молотобоец",
+      "Fatui Skirmisher - Electrohammer Vanguard",
+      "愚人众先遣队·雷锤前锋军"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "застрельщик фатуи: электро молотобоец fatui skirmisher - electrohammer vanguard 愚人众先遣队·雷锤前锋军 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_skirmisher_geochanter_bracer",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_geochanter_bracer.webp",
+    "title": {
+      "ru": "Застрельщик Фатуи: Гео заклинатель",
+      "en": "Fatui Skirmisher - Geochanter Bracer",
+      "zh": "愚人众先遣队·岩使游击兵"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.0",
+    "tags": [
+      "Застрельщик Фатуи: Гео заклинатель",
+      "Fatui Skirmisher - Geochanter Bracer",
+      "愚人众先遣队·岩使游击兵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "застрельщик фатуи: гео заклинатель fatui skirmisher - geochanter bracer 愚人众先遣队·岩使游击兵 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_skirmisher_hydrogunner_legionnaire",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_hydrogunner_legionnaire.webp",
+    "title": {
+      "ru": "Застрельщик Фатуи: Гидро бомбардир",
+      "en": "Fatui Skirmisher - Hydrogunner Legionnaire",
+      "zh": "愚人众先遣队·水铳重卫士"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.0",
+    "tags": [
+      "Застрельщик Фатуи: Гидро бомбардир",
+      "Fatui Skirmisher - Hydrogunner Legionnaire",
+      "愚人众先遣队·水铳重卫士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "застрельщик фатуи: гидро бомбардир fatui skirmisher - hydrogunner legionnaire 愚人众先遣队·水铳重卫士 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "fatui_skirmisher_pyroslinger_bracer",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fatui_skirmisher_pyroslinger_bracer.webp",
+    "title": {
+      "ru": "Застрельщик Фатуи: Пиро мушкетёр",
+      "en": "Fatui Skirmisher - Pyroslinger Bracer",
+      "zh": "愚人众先遣队·火铳游击兵"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.0",
+    "tags": [
+      "Застрельщик Фатуи: Пиро мушкетёр",
+      "Fatui Skirmisher - Pyroslinger Bracer",
+      "愚人众先遣队·火铳游击兵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 1000000,
+    "search_text": "застрельщик фатуи: пиро мушкетёр fatui skirmisher - pyroslinger bracer 愚人众先遣队·火铳游击兵 fatui common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.0 шеврон рядового / шеврон сержанта / шеврон офицера insignias 新兵的徽记 / 士官的徽记 / 尉官的徽记"
+  },
+  {
+    "id": "force_recon_ground_effect_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/force_recon_ground_effect_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Наземный разведчик",
+      "en": "Force Recon Ground Effect Landcruiser",
+      "zh": "巡陆艇·强侦地效型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Наземный разведчик",
+      "Force Recon Ground Effect Landcruiser",
+      "巡陆艇·强侦地效型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: наземный разведчик force recon ground effect landcruiser 巡陆艇·强侦地效型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "force_recon_scout_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/force_recon_scout_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Разведчик наблюдения",
+      "en": "Force Recon Scout Landcruiser",
+      "zh": "巡陆艇·强侦斥候型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Разведчик наблюдения",
+      "Force Recon Scout Landcruiser",
+      "巡陆艇·强侦斥候型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: разведчик наблюдения force recon scout landcruiser 巡陆艇·强侦斥候型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "force_recon_storm_landcruiser",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/force_recon_storm_landcruiser.webp",
+    "title": {
+      "ru": "Сухопутный крейсер: Штурмовой разведчик",
+      "en": "Force Recon Storm Landcruiser",
+      "zh": "巡陆艇·强侦攻坚型"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сухопутный крейсер: Штурмовой разведчик",
+      "Force Recon Storm Landcruiser",
+      "巡陆艇·强侦攻坚型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "сухопутный крейсер: штурмовой разведчик force recon storm landcruiser 巡陆艇·强侦攻坚型 fatui common_enemy нод-край 6.0 сломанный вал / усиленный вал / высокоточный вал drive shafts 毁损机轴 / 加固机轴 / 精制机轴"
+  },
+  {
+    "id": "frost_operative",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/frost_operative.webp",
+    "title": {
+      "ru": "Оперативник мороза",
+      "en": "Frost Operative",
+      "zh": "愚人众•霜役人"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "tags": [
+      "Оперативник мороза",
+      "Frost Operative",
+      "愚人众•霜役人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 4001000,
+    "search_text": "оперативник мороза frost operative 愚人众•霜役人 fatui common_enemy фонтейн 4.1 старые карманные часы сенешаля / штатные карманные часы сенешаля / постоянство сенешаля operatives 老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻"
+  },
+  {
+    "id": "mirror_maiden",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/mirror_maiden.webp",
+    "title": {
+      "ru": "Зеркальная дева Фатуи",
+      "en": "Mirror Maiden",
+      "zh": "愚人众·藏镜仕女"
+    },
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "2.0",
+    "tags": [
+      "Зеркальная дева Фатуи",
+      "Mirror Maiden",
+      "愚人众·藏镜仕女"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 2000000,
+    "search_text": "зеркальная дева фатуи mirror maiden 愚人众·藏镜仕女 fatui common_enemy ли юэ, инадзума, сумеру, фонтейн, натлан 2.0 тёмная призма / кристальная призма / поляризационная призма prisms 黯淡棱镜 / 水晶棱镜 / 偏光棱镜"
+  },
+  {
+    "id": "oprichniki_bombardier",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_bombardier.webp",
+    "title": {
+      "ru": "Опричник: Бомбардир",
+      "en": "Oprichniki Bombardier",
+      "zh": "愚人众特辖队·掷弹兵"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Бомбардир",
+      "Oprichniki Bombardier",
+      "愚人众特辖队·掷弹兵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: бомбардир oprichniki bombardier 愚人众特辖队·掷弹兵 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_fireblade_shock_trooper",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_fireblade_shock_trooper.webp",
+    "title": {
+      "ru": "Опричник: Штурмовик огненного клинка",
+      "en": "Oprichniki Fireblade Shock Trooper",
+      "zh": "愚人众特辖队·火刃突击队"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Штурмовик огненного клинка",
+      "Oprichniki Fireblade Shock Trooper",
+      "愚人众特辖队·火刃突击队"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: штурмовик огненного клинка oprichniki fireblade shock trooper 愚人众特辖队·火刃突击队 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_grenadier",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_grenadier.webp",
+    "title": {
+      "ru": "Опричник: Гренадёр",
+      "en": "Oprichniki Grenadier",
+      "zh": "愚人众特辖队·榴铳手"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Гренадёр",
+      "Oprichniki Grenadier",
+      "愚人众特辖队·榴铳手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: гренадёр oprichniki grenadier 愚人众特辖队·榴铳手 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_hailstorm_cannoneer",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_hailstorm_cannoneer.webp",
+    "title": {
+      "ru": "Опричник: Град-канонир",
+      "en": "Oprichniki Hailstorm Cannoneer",
+      "zh": "愚人众特辖队·冰雹重炮手"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Град-канонир",
+      "Oprichniki Hailstorm Cannoneer",
+      "愚人众特辖队·冰雹重炮手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: град-канонир oprichniki hailstorm cannoneer 愚人众特辖队·冰雹重炮手 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_line_trooper",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_line_trooper.webp",
+    "title": {
+      "ru": "Опричник: Боец фронта",
+      "en": "Oprichniki Line Trooper",
+      "zh": "愚人众特辖队·线列军"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Боец фронта",
+      "Oprichniki Line Trooper",
+      "愚人众特辖队·线列军"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: боец фронта oprichniki line trooper 愚人众特辖队·线列军 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_medic",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_medic.webp",
+    "title": {
+      "ru": "Опричник: Санитар",
+      "en": "Oprichniki Medic",
+      "zh": "愚人众特辖队·疗愈师"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Санитар",
+      "Oprichniki Medic",
+      "愚人众特辖队·疗愈师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: санитар oprichniki medic 愚人众特辖队·疗愈师 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_support_trooper",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_support_trooper.webp",
+    "title": {
+      "ru": "Опричник: Боец поддержки",
+      "en": "Oprichniki Support Trooper",
+      "zh": "愚人众特辖队·支援兵"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Боец поддержки",
+      "Oprichniki Support Trooper",
+      "愚人众特辖队·支援兵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: боец поддержки oprichniki support trooper 愚人众特辖队·支援兵 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_thunderblitz_gvardiya",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_thunderblitz_gvardiya.webp",
+    "title": {
+      "ru": "Опричник: Громовой гвардеец",
+      "en": "Oprichniki Thunderblitz Gvardiya",
+      "zh": "愚人众特辖队·雷霰近卫军"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Громовой гвардеец",
+      "Oprichniki Thunderblitz Gvardiya",
+      "愚人众特辖队·雷霰近卫军"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: громовой гвардеец oprichniki thunderblitz gvardiya 愚人众特辖队·雷霰近卫军 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "oprichniki_vanguard",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/oprichniki_vanguard.webp",
+    "title": {
+      "ru": "Опричник: Боец авангарда",
+      "en": "Oprichniki Vanguard",
+      "zh": "愚人众特辖队·先锋士"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Опричник: Боец авангарда",
+      "Oprichniki Vanguard",
+      "愚人众特辖队·先锋士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 6000000,
+    "search_text": "опричник: боец авангарда oprichniki vanguard 愚人众特辖队·先锋士 fatui common_enemy нод-край 6.0 потрёпанный мандат / безупречный мандат / заиндевевший мандат warrants 磨损的执凭 / 精致的执凭 / 霜镌的执凭"
+  },
+  {
+    "id": "wind_operative",
+    "category": "enemies",
+    "enemy_group": "fatui",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/wind_operative.webp",
+    "title": {
+      "ru": "Оперативник ветра",
+      "en": "Wind Operative",
+      "zh": "愚人众·风役人"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "tags": [
+      "Оперативник ветра",
+      "Wind Operative",
+      "愚人众·风役人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "fatui"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "fatui",
+    "sort_version": 4001000,
+    "search_text": "оперативник ветра wind operative 愚人众·风役人 fatui common_enemy фонтейн 4.1 старые карманные часы сенешаля / штатные карманные часы сенешаля / постоянство сенешаля operatives 老旧的役人怀表 / 役人的制式怀表 / 役人的时时刻刻"
+  }
+]

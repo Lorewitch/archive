@@ -1,5 +1,6 @@
 # id: quest_wq_10206
 # story_group: world_quests
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Повесть о мечтах, вырванных из огня
 # title_en: Tale of Dreams Plucked From Fire

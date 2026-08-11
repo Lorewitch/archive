@@ -1,10 +1,11 @@
 # id: quest_wq_73084
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Дилемма Афрату
 # title_en: Afratu's Dilemma
 # title_zh: 阿弗拉图之惑
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73084

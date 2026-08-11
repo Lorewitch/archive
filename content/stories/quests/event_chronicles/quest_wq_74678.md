@@ -1,6 +1,7 @@
 # id: quest_wq_74678
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Dance of Resolute Will
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неожиданное завершение танца с мечом!
 # title_en: Blade Dance's Unexpected End!
 # title_zh: 剑舞的意外谢幕！

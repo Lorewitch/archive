@@ -1,5 +1,6 @@
 # id: quest_lq_2042
 # story_group: legend_quests
+# display_category: Задание Легенд · Ризли
 # icon: assets/icons/stories/quests/wriothesley.webp
 # title_ru: Возрождение в землях ропота
 # title_en: Reborn in the Land of Grievances

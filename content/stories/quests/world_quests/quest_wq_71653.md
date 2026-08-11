@@ -1,6 +1,7 @@
 # id: quest_wq_71653
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Мы встретились вновь, печальный господин
 # title_en: We Meet Again, Mr. Melancholy
 # title_zh: 与忧郁先生的再会

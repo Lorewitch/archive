@@ -1,6 +1,7 @@
 # id: quest_eq_41156
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Доставка «Ваншу»
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Доставка «Ваншу»
 # title_en: Wangshu Take-Away
 # title_zh: 望舒外送

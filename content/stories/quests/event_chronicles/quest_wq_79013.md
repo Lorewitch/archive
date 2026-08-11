@@ -1,6 +1,7 @@
 # id: quest_wq_79013
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertime Odyssey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Напрасный труд
 # title_en: Thus Was the Work Done in Vain
 # title_zh: 正因其徒劳

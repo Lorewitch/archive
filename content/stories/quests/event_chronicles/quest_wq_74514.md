@@ -1,6 +1,7 @@
 # id: quest_wq_74514
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Мир за рамками холста: Поцелуй Росы
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мир за рамками холста: Поцелуй Росы
 # title_en: Outside the Canvas, Inside the Lens: Dew-Kissed Chapter
 # title_zh: 画外旅照·浮露之章

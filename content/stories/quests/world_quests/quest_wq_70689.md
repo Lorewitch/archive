@@ -1,6 +1,7 @@
 # id: quest_wq_70689
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Не счесть историй в разных землях
 # title_en: The Many Matters Learned in One's Travels
 # title_zh: 游逸诸地，曾听旅闻

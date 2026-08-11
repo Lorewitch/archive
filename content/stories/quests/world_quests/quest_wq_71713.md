@@ -1,10 +1,11 @@
 # id: quest_wq_71713
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Железо для мастера Чжана
 # title_en: Master Zhang's Metal Commission
 # title_zh: 老章的铁块需求
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71713

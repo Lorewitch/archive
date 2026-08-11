@@ -1,6 +1,7 @@
 # id: quest_wq_76199
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование растений: Инеевый цветок
 # title_en: Plant Research: Frostlamp Flowers
 # title_zh: 植物调查·霜盏花

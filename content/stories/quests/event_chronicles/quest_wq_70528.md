@@ -1,6 +1,7 @@
 # id: quest_wq_70528
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Windblume's Breath
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Цветочная погоня
 # title_en: Floral Pursuit
 # title_zh: 万风逐花

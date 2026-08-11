@@ -1,10 +1,11 @@
 # id: quest_wq_74049
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Успех не даётся легко
 # title_en: Were It So Easy
 # title_zh: 好事多磨
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74049

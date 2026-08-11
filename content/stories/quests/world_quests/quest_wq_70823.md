@@ -1,10 +1,11 @@
 # id: quest_wq_70823
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Проблемы в Черногорье
 # title_en: Blackcliff Woes
 # title_zh: 黑岩之困
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70823

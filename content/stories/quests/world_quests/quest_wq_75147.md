@@ -1,6 +1,7 @@
 # id: quest_wq_75147
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследователь древних руин
 # title_en: Investigator of Ancient Ruins
 # title_zh: 古遗迹的调查者

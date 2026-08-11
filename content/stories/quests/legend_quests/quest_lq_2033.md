@@ -1,5 +1,6 @@
 # id: quest_lq_2033
 # story_group: legend_quests
+# display_category: Задание Легенд · Нилу
 # icon: assets/icons/stories/quests/nilou.webp
 # title_ru: Мудрецам
 # title_en: To the Wise

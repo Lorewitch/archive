@@ -1,6 +1,7 @@
 # id: quest_wq_75668
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sunspray Summer Resort (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Пиршество чувств
 # title_en: A Feast for the Senses
 # title_zh: 炫音爆光

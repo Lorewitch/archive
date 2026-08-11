@@ -1,10 +1,11 @@
 # id: quest_eq_10271
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Возвращение? Фонтиналия! Глава I
 # icon: assets/icons/stories/quests/aquarium.webp
 # title_ru: Если мы встретимся снова
 # title_en: Should We Meet Again
 # title_zh: 若我们再次相见
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 10271

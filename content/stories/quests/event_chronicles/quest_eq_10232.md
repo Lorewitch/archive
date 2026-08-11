@@ -1,5 +1,6 @@
 # id: quest_eq_10232
 # story_group: event_chronicles
+# display_category: Ивент · Кружащийся вальс
 # icon: assets/icons/stories/quests/themeparksim.webp
 # title_ru: Страна кинофантазий, построенная за ночь
 # title_en: An Overnight Fantasyland

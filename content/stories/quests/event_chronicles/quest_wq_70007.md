@@ -1,6 +1,7 @@
 # id: quest_wq_70007
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Invitation of Windblume
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Соблюдайте тишину!
 # title_en: "Quiet, please, this is a library!"
 # title_zh: 图书馆请安静！

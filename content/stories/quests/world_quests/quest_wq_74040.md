@@ -1,10 +1,11 @@
 # id: quest_wq_74040
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Призрак одинокого парусника
 # title_en: The Lone Phantom Sail
 # title_zh: 孤帆幽影
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74040

@@ -1,5 +1,6 @@
 # id: quest_eq_10045
 # story_group: event_chronicles
+# display_category: Ивент · Белая пыль и снежная тень
 # icon: assets/icons/stories/quests/wintercamp.webp
 # title_ru: Снежное прошлое
 # title_en: The Snowy Past

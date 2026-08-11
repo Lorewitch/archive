@@ -1,5 +1,6 @@
 # id: quest_eq_10110
 # story_group: event_chronicles
+# display_category: Ивент · «Акицу Кимодамэси» I
 # icon: assets/icons/stories/quests/brickbreaker.webp
 # title_ru: Испытание смелости
 # title_en: Test of Courage

@@ -1,6 +1,7 @@
 # id: quest_wq_71822
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Учёные и предания
 # title_en: When Scholar and Legends Meet
 # title_zh: 学者与传说

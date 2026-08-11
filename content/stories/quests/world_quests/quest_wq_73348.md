@@ -1,10 +1,11 @@
 # id: quest_wq_73348
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Наставление Пурбируни
 # title_en: Purbiruni's Commandment
 # title_zh: 普尔比鲁尼之诫
-# region: Тейват
+# region: Сумеру
 # game_version: 3.8
 # release_versions: 3.8
 # source_id: 73348

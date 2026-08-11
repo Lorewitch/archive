@@ -1,6 +1,7 @@
 # id: quest_wq_70559
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Surveying & Mapping Studies
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Полевой пир» после работы
 # title_en: A "Battlefield" Feast After Work
 # title_zh: 收工时的「战地」大餐

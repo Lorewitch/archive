@@ -1,6 +1,7 @@
 # id: quest_wq_74681
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Roses and Muskets
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Специальное освещение и будущие звёзды!
 # title_en: Special Lighting and the Stars of Tomorrow!
 # title_zh: 特技光效与明日之星！

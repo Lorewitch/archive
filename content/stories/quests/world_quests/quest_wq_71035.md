@@ -1,10 +1,11 @@
 # id: quest_wq_71035
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Дела загробные: След Бронзового Воробья
 # title_en: Hereafter: The Trail of Pervases
 # title_zh: 身后事·铜雀之迹
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 71035

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "annihilation_specialist_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/annihilation_specialist_mek.webp",
+    "title": {
+      "ru": "Спецмек: Ликвидация",
+      "en": "Annihilation Specialist Mek",
+      "zh": "歼灭特化型机关"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Спецмек: Ликвидация",
+      "Annihilation Specialist Mek",
+      "歼灭特化型机关"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "спецмек: ликвидация annihilation specialist mek 歼灭特化型机关 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "area_alert_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/area_alert_mek.webp",
+    "title": {
+      "ru": "Мек: Сигнализация области",
+      "en": "Area Alert Mek",
+      "zh": "机关·区域警戒型"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Мек: Сигнализация области",
+      "Area Alert Mek",
+      "机关·区域警戒型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "мек: сигнализация области area alert mek 机关·区域警戒型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "arithmetic_enhancer_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/arithmetic_enhancer_mek.webp",
+    "title": {
+      "ru": "Мек: Улучшение вычислений",
+      "en": "Arithmetic Enhancer Mek",
+      "zh": "机关·算力增幅器"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Мек: Улучшение вычислений",
+      "Arithmetic Enhancer Mek",
+      "机关·算力增幅器"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "мек: улучшение вычислений arithmetic enhancer mek 机关·算力增幅器 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "assault_specialist_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/assault_specialist_mek.webp",
+    "title": {
+      "ru": "Спецмек: Штурм",
+      "en": "Assault Specialist Mek",
+      "zh": "攻坚特化型机关"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Спецмек: Штурм",
+      "Assault Specialist Mek",
+      "攻坚特化型机关"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "спецмек: штурм assault specialist mek 攻坚特化型机关 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "construction_specialist_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/construction_specialist_mek.webp",
+    "title": {
+      "ru": "Спецмек: Строительство",
+      "en": "Construction Specialist Mek",
+      "zh": "建造特化型机关"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Спецмек: Строительство",
+      "Construction Specialist Mek",
+      "建造特化型机关"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "спецмек: строительство construction specialist mek 建造特化型机关 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "deepwater_assault_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/deepwater_assault_mek.webp",
+    "title": {
+      "ru": "Глубоководный штурмовой мек",
+      "en": "Deepwater Assault Mek",
+      "zh": "机关·深海攻击型"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Глубоководный штурмовой мек",
+      "Deepwater Assault Mek",
+      "机关·深海攻击型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "глубоководный штурмовой мек deepwater assault mek 机关·深海攻击型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "domain_keeper",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/domain_keeper.webp",
+    "title": {
+      "ru": "Хранитель измерения",
+      "en": "Domain Keeper",
+      "zh": "辖域守护者"
+    },
+    "region": "Мондштадт",
+    "game_version": "6.5",
+    "tags": [
+      "Хранитель измерения",
+      "Domain Keeper",
+      "辖域守护者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 6005000,
+    "search_text": "хранитель измерения domain keeper 辖域守护者 automatons common_enemy мондштадт 6.5 потускневшая рукоять пламенного меча / расколотая рукоять пламенного меча / рукоять пламенного меча с камнем flaming hilts 失色的焰剑 / 残失的焰剑 / 宝饰的焰剑"
+  },
+  {
+    "id": "geological_survey_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/geological_survey_mek.webp",
+    "title": {
+      "ru": "Мек: Геологоразведка",
+      "en": "Geological Survey Mek",
+      "zh": "机关·地质勘探型"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Мек: Геологоразведка",
+      "Geological Survey Mek",
+      "机关·地质勘探型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "мек: геологоразведка geological survey mek 机关·地质勘探型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "nimble_harvester_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/nimble_harvester_mek.webp",
+    "title": {
+      "ru": "Мек: Быстрый сбор",
+      "en": "Nimble Harvester Mek",
+      "zh": "机关·灵活采集型"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Мек: Быстрый сбор",
+      "Nimble Harvester Mek",
+      "机关·灵活采集型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "мек: быстрый сбор nimble harvester mek 机关·灵活采集型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "primal_construct_prospector",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/primal_construct_prospector.webp",
+    "title": {
+      "ru": "Первозданная конструкция: Разведчик",
+      "en": "Primal Construct: Prospector",
+      "zh": "元能构装体·勘探机"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "tags": [
+      "Первозданная конструкция: Разведчик",
+      "Primal Construct: Prospector",
+      "元能构装体·勘探机"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 3001000,
+    "search_text": "первозданная конструкция: разведчик primal construct: prospector 元能构装体·勘探机 automatons common_enemy сумеру 3.1 сломанная призма / загрязнённая призма / блестящая призма prisms 破缺棱晶 / 混浊棱晶 / 辉光棱晶"
+  },
+  {
+    "id": "primal_construct_repulsor",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/primal_construct_repulsor.webp",
+    "title": {
+      "ru": "Первозданная конструкция: Репульсор",
+      "en": "Primal Construct: Repulsor",
+      "zh": "元能构装体·力场发生器"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "tags": [
+      "Первозданная конструкция: Репульсор",
+      "Primal Construct: Repulsor",
+      "元能构装体·力场发生器"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 3001000,
+    "search_text": "первозданная конструкция: репульсор primal construct: repulsor 元能构装体·力场发生器 automatons common_enemy сумеру 3.1 сломанная призма / загрязнённая призма / блестящая призма prisms 破缺棱晶 / 混浊棱晶 / 辉光棱晶"
+  },
+  {
+    "id": "primal_construct_reshaper",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/primal_construct_reshaper.webp",
+    "title": {
+      "ru": "Первозданная конструкция: Формирователь",
+      "en": "Primal Construct: Reshaper",
+      "zh": "元能构装体·重塑仪"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "tags": [
+      "Первозданная конструкция: Формирователь",
+      "Primal Construct: Reshaper",
+      "元能构装体·重塑仪"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 3001000,
+    "search_text": "первозданная конструкция: формирователь primal construct: reshaper 元能构装体·重塑仪 automatons common_enemy сумеру 3.1 сломанная призма / загрязнённая призма / блестящая призма prisms 破缺棱晶 / 混浊棱晶 / 辉光棱晶"
+  },
+  {
+    "id": "recon_log_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/recon_log_mek.webp",
+    "title": {
+      "ru": "Мек: Протокол разведки",
+      "en": "Recon Log Mek",
+      "zh": "机关·侦察记录型"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Мек: Протокол разведки",
+      "Recon Log Mek",
+      "机关·侦察记录型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "мек: протокол разведки recon log mek 机关·侦察记录型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "ruin_cruiser",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_cruiser.webp",
+    "title": {
+      "ru": "Руинный патрульный",
+      "en": "Ruin Cruiser",
+      "zh": "遗迹巡弋者"
+    },
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "2.0",
+    "tags": [
+      "Руинный патрульный",
+      "Ruin Cruiser",
+      "遗迹巡弋者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 2000000,
+    "search_text": "руинный патрульный ruin cruiser 遗迹巡弋者 automatons common_enemy ли юэ, инадзума, сумеру, фонтейн 2.0 механизм хаоса / ось хаоса / око хаоса chaos 混沌机关 / 混沌枢纽 / 混沌真眼"
+  },
+  {
+    "id": "ruin_defender",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_defender.webp",
+    "title": {
+      "ru": "Руинный защитник",
+      "en": "Ruin Defender",
+      "zh": "遗迹防卫者"
+    },
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "2.0",
+    "tags": [
+      "Руинный защитник",
+      "Ruin Defender",
+      "遗迹防卫者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 2000000,
+    "search_text": "руинный защитник ruin defender 遗迹防卫者 automatons common_enemy ли юэ, инадзума, сумеру, фонтейн 2.0 механизм хаоса / ось хаоса / око хаоса chaos 混沌机关 / 混沌枢纽 / 混沌真眼"
+  },
+  {
+    "id": "ruin_destroyer",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_destroyer.webp",
+    "title": {
+      "ru": "Руинный крушитель",
+      "en": "Ruin Destroyer",
+      "zh": "遗迹歼击者"
+    },
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "2.0",
+    "tags": [
+      "Руинный крушитель",
+      "Ruin Destroyer",
+      "遗迹歼击者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 2000000,
+    "search_text": "руинный крушитель ruin destroyer 遗迹歼击者 automatons common_enemy ли юэ, инадзума, сумеру, фонтейн 2.0 механизм хаоса / ось хаоса / око хаоса chaos 混沌机关 / 混沌枢纽 / 混沌真眼"
+  },
+  {
+    "id": "ruin_drake_earthguard",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_drake_earthguard.webp",
+    "title": {
+      "ru": "Дракон руин: Страж земли",
+      "en": "Ruin Drake: Earthguard",
+      "zh": "遗迹龙兽·地巡"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "3.0",
+    "tags": [
+      "Дракон руин: Страж земли",
+      "Ruin Drake: Earthguard",
+      "遗迹龙兽·地巡"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 3000000,
+    "search_text": "дракон руин: страж земли ruin drake: earthguard 遗迹龙兽·地巡 automatons common_enemy сумеру, фонтейн 3.0 сосуд хаоса / модуль хаоса / анкер хаоса chaos 混沌容器 / 混沌模块 / 混沌锚栓"
+  },
+  {
+    "id": "ruin_drake_skywatch",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_drake_skywatch.webp",
+    "title": {
+      "ru": "Дракон руин: Страж небес",
+      "en": "Ruin Drake: Skywatch",
+      "zh": "遗迹龙兽·空巡"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "3.0",
+    "tags": [
+      "Дракон руин: Страж небес",
+      "Ruin Drake: Skywatch",
+      "遗迹龙兽·空巡"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 3000000,
+    "search_text": "дракон руин: страж небес ruin drake: skywatch 遗迹龙兽·空巡 automatons common_enemy сумеру, фонтейн 3.0 сосуд хаоса / модуль хаоса / анкер хаоса chaos 混沌容器 / 混沌模块 / 混沌锚栓"
+  },
+  {
+    "id": "ruin_grader",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_grader.webp",
+    "title": {
+      "ru": "Руинный молотильщик",
+      "en": "Ruin Grader",
+      "zh": "遗迹重机"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "1.2",
+    "tags": [
+      "Руинный молотильщик",
+      "Ruin Grader",
+      "遗迹重机"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 1002000,
+    "search_text": "руинный молотильщик ruin grader 遗迹重机 automatons common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 1.2 устройство хаоса / цепь хаоса / ядро хаоса chaos 混沌装置 / 混沌回路 / 混沌炉心"
+  },
+  {
+    "id": "ruin_guard",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_guard.webp",
+    "title": {
+      "ru": "Страж руин",
+      "en": "Ruin Guard",
+      "zh": "遗迹守卫"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "1.0",
+    "tags": [
+      "Страж руин",
+      "Ruin Guard",
+      "遗迹守卫"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 1000000,
+    "search_text": "страж руин ruin guard 遗迹守卫 automatons common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 устройство хаоса / цепь хаоса / ядро хаоса chaos 混沌装置 / 混沌回路 / 混沌炉心"
+  },
+  {
+    "id": "ruin_hunter",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_hunter.webp",
+    "title": {
+      "ru": "Руинный охотник",
+      "en": "Ruin Hunter",
+      "zh": "遗迹猎者"
+    },
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "1.0",
+    "tags": [
+      "Руинный охотник",
+      "Ruin Hunter",
+      "遗迹猎者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 1000000,
+    "search_text": "руинный охотник ruin hunter 遗迹猎者 automatons common_enemy ли юэ, инадзума, сумеру, фонтейн 1.0 устройство хаоса / цепь хаоса / ядро хаоса chaos 混沌装置 / 混沌回路 / 混沌炉心"
+  },
+  {
+    "id": "ruin_scout",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ruin_scout.webp",
+    "title": {
+      "ru": "Руинный шпион",
+      "en": "Ruin Scout",
+      "zh": "遗迹侦察者"
+    },
+    "region": "Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "2.0",
+    "tags": [
+      "Руинный шпион",
+      "Ruin Scout",
+      "遗迹侦察者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 2000000,
+    "search_text": "руинный шпион ruin scout 遗迹侦察者 automatons common_enemy ли юэ, инадзума, сумеру, фонтейн 2.0 механизм хаоса / ось хаоса / око хаоса chaos 混沌机关 / 混沌枢纽 / 混沌真眼"
+  },
+  {
+    "id": "secret_source_automaton_hunter_seeker",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/secret_source_automaton_hunter_seeker.webp",
+    "title": {
+      "ru": "Автоматон таинственного источника: Охотник-ищейка",
+      "en": "Secret Source Automaton: Hunter-Seeker",
+      "zh": "秘源机兵 · 寻捕械"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Автоматон таинственного источника: Охотник-ищейка",
+      "Secret Source Automaton: Hunter-Seeker",
+      "秘源机兵 · 寻捕械"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 5000000,
+    "search_text": "автоматон таинственного источника: охотник-ищейка secret source automaton: hunter-seeker 秘源机兵 · 寻捕械 automatons common_enemy натлан 5.0 ось таинственного источника / оболочка таинственного источника / ядро таинственного источника of the secret sources 秘源轴 / 秘源机鞘 / 秘源真芯"
+  },
+  {
+    "id": "suppression_specialist_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/suppression_specialist_mek.webp",
+    "title": {
+      "ru": "Спецмек: Подавление",
+      "en": "Suppression Specialist Mek",
+      "zh": "压制特化型机关"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Спецмек: Подавление",
+      "Suppression Specialist Mek",
+      "压制特化型机关"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "спецмек: подавление suppression specialist mek 压制特化型机关 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "underwater_patrol_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/underwater_patrol_mek.webp",
+    "title": {
+      "ru": "Мек: Подводное патрулирование",
+      "en": "Underwater Patrol Mek",
+      "zh": "机关·水下巡游型"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Мек: Подводное патрулирование",
+      "Underwater Patrol Mek",
+      "机关·水下巡游型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "мек: подводное патрулирование underwater patrol mek 机关·水下巡游型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  },
+  {
+    "id": "underwater_survey_mek",
+    "category": "enemies",
+    "enemy_group": "automatons",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/underwater_survey_mek.webp",
+    "title": {
+      "ru": "Мек: Подводное исследование",
+      "en": "Underwater Survey Mek",
+      "zh": "机关·水下勘测型"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Мек: Подводное исследование",
+      "Underwater Survey Mek",
+      "机关·水下勘测型"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "automatons"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "automatons",
+    "sort_version": 4000000,
+    "search_text": "мек: подводное исследование underwater survey mek 机关·水下勘测型 automatons common_enemy фонтейн 4.0 сцепляющаяся шестерня / шестерня механизма / изощрённая динамическая шестерня gears 啮合齿轮 / 机关正齿轮 / 奇械机芯齿轮"
+  }
+]

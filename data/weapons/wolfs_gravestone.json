@@ -35,5 +35,6 @@
     "byVolume": {}
   },
   "weapon_type": "claymore",
-  "type": "claymore"
+  "type": "claymore",
+  "entry_kind": "weapon"
 }

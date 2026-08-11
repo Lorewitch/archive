@@ -1,6 +1,7 @@
 # id: quest_wq_79025
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertime Odyssey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бакэ-дануки - любитель путешествий
 # title_en: Bake-Danuki Wanderlust
 # title_zh: 渴望旅行的妖狸

@@ -1,10 +1,11 @@
 # id: quest_wq_74651
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Цветы для Бруно
 # title_en: Bruneau's Flower Request
 # title_zh: 布吕诺的鲜花需求
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74651

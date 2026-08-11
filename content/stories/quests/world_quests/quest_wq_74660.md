@@ -1,10 +1,11 @@
 # id: quest_wq_74660
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Хаос, вызванный драконами руин
 # title_en: Ruin Drake Maelstrom
 # title_zh: 遗迹龙兽引起的混乱
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74660

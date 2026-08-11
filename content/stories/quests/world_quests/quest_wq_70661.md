@@ -1,6 +1,7 @@
 # id: quest_wq_70661
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Взрывной рост популяции
 # title_en: Exploding Population
 # title_zh: 鱼群大爆发

@@ -1,6 +1,7 @@
 # id: quest_wq_74682
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Specially-Shaped Saurian Search
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хроники поисков: Аудиенция у одинокого властителя!
 # title_en: Search Chronicle: Audience with the Solitary King!
 # title_zh: 参寻战记·觐见孤王！

@@ -1,6 +1,7 @@
 # id: quest_wq_74715
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Под водой свои законы?
 # title_en: The Underwater Salvage Commandments
 # title_zh: 水域打捞有原则？

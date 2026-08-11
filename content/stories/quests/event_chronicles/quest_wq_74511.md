@@ -1,6 +1,7 @@
 # id: quest_wq_74511
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Rolling Crossfire
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Жандарм-изобретатель
 # title_en: The Gardes' Inventor
 # title_zh: 警备队的发明家

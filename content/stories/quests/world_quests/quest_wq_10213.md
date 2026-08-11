@@ -1,5 +1,6 @@
 # id: quest_wq_10213
 # story_group: world_quests
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Засыпанный пеплом город
 # title_en: City Buried By Ash

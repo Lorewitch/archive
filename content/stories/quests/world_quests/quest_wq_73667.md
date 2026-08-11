@@ -1,10 +1,11 @@
 # id: quest_wq_73667
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Хаос, вызванный плесенниками
 # title_en: Fungal Fracas
 # title_zh: 蕈兽引起的混乱
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73667

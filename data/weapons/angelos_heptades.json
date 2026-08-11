@@ -33,5 +33,6 @@
     "byVolume": {}
   },
   "weapon_type": "catalyst",
-  "type": "catalyst"
+  "type": "catalyst",
+  "entry_kind": "weapon"
 }

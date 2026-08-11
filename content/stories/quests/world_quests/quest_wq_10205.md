@@ -1,5 +1,6 @@
 # id: quest_wq_10205
 # story_group: world_quests
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Тени гор
 # title_en: Shadows of the Mountains

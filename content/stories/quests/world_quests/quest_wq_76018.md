@@ -1,6 +1,7 @@
 # id: quest_wq_76018
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ввысь к небесам обетованным
 # title_en: Drifting Toward a Promised Sky
 # title_zh: 飞向天空的约定

@@ -1,6 +1,7 @@
 # id: quest_wq_74135
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Первичные факты
 # title_en: Initial Facts
 # title_zh: 最初的事实

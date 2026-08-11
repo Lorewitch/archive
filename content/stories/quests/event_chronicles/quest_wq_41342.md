@@ -1,6 +1,7 @@
 # id: quest_wq_41342
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Здоровяк и Молот
 # title_en: Hammer and Wrench
 # title_zh: 扳手与锤子

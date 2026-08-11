@@ -1,6 +1,7 @@
 # id: quest_wq_41135
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Unreconciled Stars
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мысли, унесённые ветром...
 # title_en: Thoughts Carried On the Wind
 # title_zh: 风带来的思念

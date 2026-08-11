@@ -1,6 +1,7 @@
 # id: quest_wq_76050
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Изменчивый лунный свет
 # title_en: Shifting Moonlight
 # title_zh: 月色千变

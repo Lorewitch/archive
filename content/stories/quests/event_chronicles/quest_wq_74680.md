@@ -1,6 +1,7 @@
 # id: quest_wq_74680
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Roses and Muskets
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Спасите бедную работницу!
 # title_en: Rescue the Poor Contract Employee!
 # title_zh: 救救可怜的乙方员工！

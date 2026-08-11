@@ -1,5 +1,6 @@
 # id: quest_lq_2003
 # story_group: legend_quests
+# display_category: Задание Легенд · Эмбер
 # icon: assets/icons/stories/quests/ambor.webp
 # title_ru: Ветер, храбрость и крылья
 # title_en: Wind, Courage, and Wings

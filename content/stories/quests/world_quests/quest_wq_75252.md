@@ -1,6 +1,7 @@
 # id: quest_wq_75252
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Странная встреча на острове Тете
 # title_en: Strange Encounter of the Tete Isle Kind
 # title_zh: 提提奇遇

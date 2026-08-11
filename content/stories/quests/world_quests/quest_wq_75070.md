@@ -1,6 +1,7 @@
 # id: quest_wq_75070
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Лети со мной
 # title_en: Come Fly With Me
 # title_zh: 与我一同高飞

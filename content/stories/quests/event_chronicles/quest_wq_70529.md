@@ -1,6 +1,7 @@
 # id: quest_wq_70529
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Windblume's Breath
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Песнь ветров
 # title_en: Ballads of Breeze
 # title_zh: 风物之歌

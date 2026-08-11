@@ -1,10 +1,11 @@
 # id: quest_wq_20740
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Унесённые цветы Флоры
 # title_en: Flighty Flora... and Flora
 # title_zh: 轻飘飘的花与芙萝拉
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 20740

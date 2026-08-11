@@ -1,5 +1,6 @@
 # id: quest_eq_10227
 # story_group: event_chronicles
+# display_category: Ивент · Турнир цветущей славы
 # icon: assets/icons/stories/quests/natlandrill.webp
 # title_ru: Заклинание единства
 # title_en: Spell of Unity

@@ -1,6 +1,7 @@
 # id: quest_wq_74674
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lost Riches/2024-01-02 }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Морские сокровища: Эпилог
 # title_en: Treasures Under the Sea: Epilogue
 # title_zh: 水中秘宝·尾声

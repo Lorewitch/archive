@@ -1,5 +1,6 @@
 # id: quest_lq_2030
 # story_group: legend_quests
+# display_category: Задание Легенд · Тигнари
 # icon: assets/icons/stories/quests/tighnari.webp
 # title_ru: Вопросы без ответов
 # title_en: The Unanswerable Problems

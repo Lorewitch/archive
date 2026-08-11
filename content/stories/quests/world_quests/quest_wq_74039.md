@@ -1,10 +1,11 @@
 # id: quest_wq_74039
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: «Это вам не тыквенная похлёбка...»
 # title_en: "Hey, This Isn't Pumpkin Soup..."
 # title_zh: 「这可不是南瓜汤…」
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74039

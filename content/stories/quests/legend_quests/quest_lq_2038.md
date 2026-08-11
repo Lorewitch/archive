@@ -1,5 +1,6 @@
 # id: quest_lq_2038
 # story_group: legend_quests
+# display_category: Задание Легенд · Ёимия
 # icon: assets/icons/stories/quests/yoimiya.webp
 # title_ru: Путешествие собирателя звёзд
 # title_en: Star-Pickers' Passage

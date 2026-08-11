@@ -1,0 +1,3896 @@
+[
+  {
+    "id": "amakumo_fruit",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/amakumo_fruit.webp",
+    "title": {
+      "ru": "Плод облачной травы",
+      "en": "Amakumo Fruit",
+      "zh": "天云草实"
+    },
+    "region": "Инадзума",
+    "game_version": "2.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2001000,
+    "search_text": "плод облачной травы amakumo fruit 天云草实 инадзума 2.1 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "amethyst_lump",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/amethyst_lump.webp",
+    "title": {
+      "ru": "Кусок аметиста",
+      "en": "Amethyst Lump",
+      "zh": "紫晶块"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "ore",
+    "sort_version": 2000000,
+    "search_text": "кусок аметиста amethyst lump 紫晶块 инадзума 2.0 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "beryl_conch",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/beryl_conch.webp",
+    "title": {
+      "ru": "Берилловая ракушка",
+      "en": "Beryl Conch",
+      "zh": "苍晶螺"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4000000,
+    "search_text": "берилловая ракушка beryl conch 苍晶螺 фонтейн 4.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "borderland_bow_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/borderland_bow_billet.webp",
+    "title": {
+      "ru": "Заготовка лука приграничных земель",
+      "en": "Borderland Bow Billet",
+      "zh": "垠土弓原胚"
+    },
+    "region": "Нод-Край, Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край",
+      "Натлан"
+    ],
+    "filter_type": "craft",
+    "sort_version": 5000000,
+    "search_text": "заготовка лука приграничных земель borderland bow billet 垠土弓原胚 нод-край, натлан 5.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "borderland_catalyst_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/borderland_catalyst_billet.webp",
+    "title": {
+      "ru": "Заготовка катализатора приграничных земель",
+      "en": "Borderland Catalyst Billet",
+      "zh": "垠土法器原胚"
+    },
+    "region": "Нод-Край, Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край",
+      "Натлан"
+    ],
+    "filter_type": "craft",
+    "sort_version": 5000000,
+    "search_text": "заготовка катализатора приграничных земель borderland catalyst billet 垠土法器原胚 нод-край, натлан 5.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "borderland_claymore_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/borderland_claymore_billet.webp",
+    "title": {
+      "ru": "Заготовка двуручного меча приграничных земель",
+      "en": "Borderland Claymore Billet",
+      "zh": "垠土双手剑原胚"
+    },
+    "region": "Нод-Край, Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край",
+      "Натлан"
+    ],
+    "filter_type": "craft",
+    "sort_version": 5000000,
+    "search_text": "заготовка двуручного меча приграничных земель borderland claymore billet 垠土双手剑原胚 нод-край, натлан 5.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "borderland_polearm_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/borderland_polearm_billet.webp",
+    "title": {
+      "ru": "Заготовка копья приграничных земель",
+      "en": "Borderland Polearm Billet",
+      "zh": "垠土长柄武器原胚"
+    },
+    "region": "Нод-Край, Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край",
+      "Натлан"
+    ],
+    "filter_type": "craft",
+    "sort_version": 5000000,
+    "search_text": "заготовка копья приграничных земель borderland polearm billet 垠土长柄武器原胚 нод-край, натлан 5.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "borderland_sword_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/borderland_sword_billet.webp",
+    "title": {
+      "ru": "Заготовка одноручного меча приграничных земель",
+      "en": "Borderland Sword Billet",
+      "zh": "垠土单手剑原胚"
+    },
+    "region": "Нод-Край, Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край",
+      "Натлан"
+    ],
+    "filter_type": "craft",
+    "sort_version": 5000000,
+    "search_text": "заготовка одноручного меча приграничных земель borderland sword billet 垠土单手剑原胚 нод-край, натлан 5.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "brilliant_chrysanthemum",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/brilliant_chrysanthemum.webp",
+    "title": {
+      "ru": "Сверкающая хризантема",
+      "en": "Brilliant Chrysanthemum",
+      "zh": "灼灼彩菊"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5000000,
+    "search_text": "сверкающая хризантема brilliant chrysanthemum 灼灼彩菊 натлан 5.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "butterfly_wings",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/butterfly_wings.webp",
+    "title": {
+      "ru": "Крылья бабочки",
+      "en": "Butterfly Wings",
+      "zh": "蝴蝶翅膀"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "animal",
+    "sort_version": 1000000,
+    "search_text": "крылья бабочки butterfly wings 蝴蝶翅膀 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "cacahuatl",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/cacahuatl.webp",
+    "title": {
+      "ru": "Какауатль",
+      "en": "Cacahuatl",
+      "zh": "苦种"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "plant",
+    "sort_version": 5000000,
+    "search_text": "какауатль cacahuatl 苦种 натлан 5.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "calla_lily",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/calla_lily.webp",
+    "title": {
+      "ru": "Лилия калла",
+      "en": "Calla Lily",
+      "zh": "嘟嘟莲"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "лилия калла calla lily 嘟嘟莲 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "cecilia",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/cecilia.webp",
+    "title": {
+      "ru": "Сесилия",
+      "en": "Cecilia",
+      "zh": "塞西莉亚花"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "сесилия cecilia 塞西莉亚花 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "clearwater_jade",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/clearwater_jade.webp",
+    "title": {
+      "ru": "Нефрит чистой воды",
+      "en": "Clearwater Jade",
+      "zh": "清水玉"
+    },
+    "region": "Ли Юэ",
+    "game_version": "4.4",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4004000,
+    "search_text": "нефрит чистой воды clearwater jade 清水玉 ли юэ 4.4 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "condessence_crystal",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/condessence_crystal.webp",
+    "title": {
+      "ru": "Конденсирующиеся кристаллы",
+      "en": "Condessence Crystal",
+      "zh": "萃凝晶"
+    },
+    "region": "Фонтейн, Натлан",
+    "game_version": "4.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "ore",
+    "sort_version": 4000000,
+    "search_text": "конденсирующиеся кристаллы condessence crystal 萃凝晶 фонтейн, натлан 4.0 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "cor_lapis",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/cor_lapis.webp",
+    "title": {
+      "ru": "Кор ляпис",
+      "en": "Cor Lapis",
+      "zh": "石珀"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "кор ляпис cor lapis 石珀 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "crystal_chunk",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/crystal_chunk.webp",
+    "title": {
+      "ru": "Обломок кристалла",
+      "en": "Crystal Chunk",
+      "zh": "水晶块"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "ore",
+    "sort_version": 1000000,
+    "search_text": "обломок кристалла crystal chunk 水晶块 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "crystal_core",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/crystal_core.webp",
+    "title": {
+      "ru": "Кристальное ядро",
+      "en": "Crystal Core",
+      "zh": "晶核"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "animal",
+    "sort_version": 1000000,
+    "search_text": "кристальное ядро crystal core 晶核 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "crystal_marrow",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/crystal_marrow.webp",
+    "title": {
+      "ru": "Кристальный костный мозг",
+      "en": "Crystal Marrow",
+      "zh": "晶化骨髓"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2000000,
+    "search_text": "кристальный костный мозг crystal marrow 晶化骨髓 инадзума 2.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "dandelion_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/dandelion_seed.webp",
+    "title": {
+      "ru": "Семена одуванчика",
+      "en": "Dandelion Seed",
+      "zh": "蒲公英籽"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "семена одуванчика dandelion seed 蒲公英籽 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "dendrobium",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/dendrobium.webp",
+    "title": {
+      "ru": "Кровоцвет",
+      "en": "Dendrobium",
+      "zh": "血斛"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2000000,
+    "search_text": "кровоцвет dendrobium 血斛 инадзума 2.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "dracolite",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/dracolite.webp",
+    "title": {
+      "ru": "Драколит",
+      "en": "Dracolite",
+      "zh": "琉鳞石"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5005000,
+    "search_text": "драколит dracolite 琉鳞石 натлан 5.5 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "electro_crystal",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/electro_crystal.webp",
+    "title": {
+      "ru": "Электро кристалл",
+      "en": "Electro Crystal",
+      "zh": "电气水晶"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "ore",
+    "sort_version": 1000000,
+    "search_text": "электро кристалл electro crystal 电气水晶 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "embercore_flower",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/embercore_flower.webp",
+    "title": {
+      "ru": "Пепельник",
+      "en": "Embercore Flower",
+      "zh": "烬芯花"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "plant",
+    "sort_version": 5000000,
+    "search_text": "пепельник embercore flower 烬芯花 натлан 5.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "empowered_dragontooth",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/empowered_dragontooth.webp",
+    "title": {
+      "ru": "Напитанный силой драконий клык",
+      "en": "Empowered Dragontooth",
+      "zh": "汲取了生命力的龙牙"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "craft",
+    "sort_version": 1002000,
+    "search_text": "напитанный силой драконий клык empowered dragontooth 汲取了生命力的龙牙 мондштадт 1.2 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "etherwing_moth",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/etherwing_moth.webp",
+    "title": {
+      "ru": "Эфирокрылый мотылёк",
+      "en": "Etherwing Moth",
+      "zh": "空羽蛾"
+    },
+    "region": "Мондштадт",
+    "game_version": "6.5",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6005000,
+    "search_text": "эфирокрылый мотылёк etherwing moth 空羽蛾 мондштадт 6.5 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "flaming_flower_stamen",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/flaming_flower_stamen.webp",
+    "title": {
+      "ru": "Пылающий цветок (тычинка)",
+      "en": "Flaming Flower Stamen",
+      "zh": "烈焰花花蕊"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "plant",
+    "sort_version": 1000000,
+    "search_text": "пылающий цветок (тычинка) flaming flower stamen 烈焰花花蕊 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "fluorescent_fungus",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/fluorescent_fungus.webp",
+    "title": {
+      "ru": "Светящийся гриб",
+      "en": "Fluorescent Fungus",
+      "zh": "幽灯蕈"
+    },
+    "region": "Инадзума",
+    "game_version": "2.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2002000,
+    "search_text": "светящийся гриб fluorescent fungus 幽灯蕈 инадзума 2.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "frog",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/frog.webp",
+    "title": {
+      "ru": "Лягушка",
+      "en": "Frog",
+      "zh": "青蛙"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "animal",
+    "sort_version": 1000000,
+    "search_text": "лягушка frog 青蛙 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "frostlamp_flower",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/frostlamp_flower.webp",
+    "title": {
+      "ru": "Инеевый цветок",
+      "en": "Frostlamp Flower",
+      "zh": "霜盏花"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6000000,
+    "search_text": "инеевый цветок frostlamp flower 霜盏花 нод-край 6.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "glaze_lily",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/glaze_lily.webp",
+    "title": {
+      "ru": "Глазурная лилия",
+      "en": "Glaze Lily",
+      "zh": "琉璃百合"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "глазурная лилия glaze lily 琉璃百合 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "glowing_hornshroom",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/glowing_hornshroom.webp",
+    "title": {
+      "ru": "Мерцающий рогатый гриб",
+      "en": "Glowing Hornshroom",
+      "zh": "微光角菌"
+    },
+    "region": "Натлан",
+    "game_version": "5.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5002000,
+    "search_text": "мерцающий рогатый гриб glowing hornshroom 微光角菌 натлан 5.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "henna_berry",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/henna_berry.webp",
+    "title": {
+      "ru": "Красноплодник",
+      "en": "Henna Berry",
+      "zh": "赤念果"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3001000,
+    "search_text": "красноплодник henna berry 赤念果 сумеру 3.1 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "horsetail",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/horsetail.webp",
+    "title": {
+      "ru": "Конский хвост",
+      "en": "Horsetail",
+      "zh": "马尾"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "plant",
+    "sort_version": 1000000,
+    "search_text": "конский хвост horsetail 马尾 ли юэ 1.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "iron_chunk",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/iron_chunk.webp",
+    "title": {
+      "ru": "Обломок железа",
+      "en": "Iron Chunk",
+      "zh": "铁块"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "ore",
+    "sort_version": 1000000,
+    "search_text": "обломок железа iron chunk 铁块 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "jueyun_chili",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/jueyun_chili.webp",
+    "title": {
+      "ru": "Заоблачный перчик",
+      "en": "Jueyun Chili",
+      "zh": "绝云椒椒"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "заоблачный перчик jueyun chili 绝云椒椒 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "kalpalata_lotus",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/kalpalata_lotus.webp",
+    "title": {
+      "ru": "Лотос кальпалата",
+      "en": "Kalpalata Lotus",
+      "zh": "劫波莲"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3000000,
+    "search_text": "лотос кальпалата kalpalata lotus 劫波莲 сумеру 3.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "lakelight_lily",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/lakelight_lily.webp",
+    "title": {
+      "ru": "Лилия озёрного света",
+      "en": "Lakelight Lily",
+      "zh": "湖光铃兰"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4002000,
+    "search_text": "лилия озёрного света lakelight lily 湖光铃兰 фонтейн 4.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "lizard_tail",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/lizard_tail.webp",
+    "title": {
+      "ru": "Хвост ящерицы",
+      "en": "Lizard Tail",
+      "zh": "蜥蜴尾巴"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "animal",
+    "sort_version": 1000000,
+    "search_text": "хвост ящерицы lizard tail 蜥蜴尾巴 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "loach_pearl",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/loach_pearl.webp",
+    "title": {
+      "ru": "Жемчужина аксолотля",
+      "en": "Loach Pearl",
+      "zh": "鳅鳅宝玉"
+    },
+    "region": "Ли Юэ, Инадзума",
+    "game_version": "1.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "animal",
+    "sort_version": 1001000,
+    "search_text": "жемчужина аксолотля loach pearl 鳅鳅宝玉 ли юэ, инадзума 1.1 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "lumidouce_bell",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/lumidouce_bell.webp",
+    "title": {
+      "ru": "Ламповый колокольчик",
+      "en": "Lumidouce Bell",
+      "zh": "柔灯铃"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4000000,
+    "search_text": "ламповый колокольчик lumidouce bell 柔灯铃 фонтейн 4.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "luminescent_spine",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/luminescent_spine.webp",
+    "title": {
+      "ru": "Светящееся брюшко",
+      "en": "Luminescent Spine",
+      "zh": "发光髓"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "animal",
+    "item_type_title": {
+      "ru": "Животное",
+      "en": "Animal",
+      "zh": "动物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "animal",
+    "sort_version": 1000000,
+    "search_text": "светящееся брюшко luminescent spine 发光髓 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item animal животное 动物"
+  },
+  {
+    "id": "lumitoile",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/lumitoile.webp",
+    "title": {
+      "ru": "Темнозвёздник",
+      "en": "Lumitoile",
+      "zh": "幽光星星"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4001000,
+    "search_text": "темнозвёздник lumitoile 幽光星星 фонтейн 4.1 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "magical_crystal_chunk",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/magical_crystal_chunk.webp",
+    "title": {
+      "ru": "Магический кристальный обломок",
+      "en": "Magical Crystal Chunk",
+      "zh": "魔晶块"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "ore",
+    "sort_version": 1001000,
+    "search_text": "магический кристальный обломок magical crystal chunk 魔晶块 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.1 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "midlander_bow_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/midlander_bow_billet.webp",
+    "title": {
+      "ru": "Заготовка лука центральных земель",
+      "en": "Midlander Bow Billet",
+      "zh": "央陆弓原胚"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "craft",
+    "sort_version": 3000000,
+    "search_text": "заготовка лука центральных земель midlander bow billet 央陆弓原胚 сумеру, фонтейн 3.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "midlander_catalyst_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/midlander_catalyst_billet.webp",
+    "title": {
+      "ru": "Заготовка катализатора центральных земель",
+      "en": "Midlander Catalyst Billet",
+      "zh": "央陆法器原胚"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "craft",
+    "sort_version": 3000000,
+    "search_text": "заготовка катализатора центральных земель midlander catalyst billet 央陆法器原胚 сумеру, фонтейн 3.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "midlander_claymore_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/midlander_claymore_billet.webp",
+    "title": {
+      "ru": "Заготовка двуручного меча центральных земель",
+      "en": "Midlander Claymore Billet",
+      "zh": "央陆双手剑原胚"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "craft",
+    "sort_version": 3000000,
+    "search_text": "заготовка двуручного меча центральных земель midlander claymore billet 央陆双手剑原胚 сумеру, фонтейн 3.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "midlander_polearm_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/midlander_polearm_billet.webp",
+    "title": {
+      "ru": "Заготовка копья центральных земель",
+      "en": "Midlander Polearm Billet",
+      "zh": "央陆长柄武器原胚"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "craft",
+    "sort_version": 3000000,
+    "search_text": "заготовка копья центральных земель midlander polearm billet 央陆长柄武器原胚 сумеру, фонтейн 3.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "midlander_sword_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/midlander_sword_billet.webp",
+    "title": {
+      "ru": "Заготовка одноручного меча центральных земель",
+      "en": "Midlander Sword Billet",
+      "zh": "央陆单手剑原胚"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "craft",
+    "sort_version": 3000000,
+    "search_text": "заготовка одноручного меча центральных земель midlander sword billet 央陆单手剑原胚 сумеру, фонтейн 3.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "mist_flower_corolla",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/mist_flower_corolla.webp",
+    "title": {
+      "ru": "Туманный цветок (венчик)",
+      "en": "Mist Flower Corolla",
+      "zh": "冰雾花花朵"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "plant",
+    "sort_version": 1000000,
+    "search_text": "туманный цветок (венчик) mist flower corolla 冰雾花花朵 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "moonfall_silver",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/moonfall_silver.webp",
+    "title": {
+      "ru": "Серебро захода луны",
+      "en": "Moonfall Silver",
+      "zh": "月落银"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6000000,
+    "search_text": "серебро захода луны moonfall silver 月落银 нод-край 6.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "mourning_flower",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/mourning_flower.webp",
+    "title": {
+      "ru": "Цветы скорби",
+      "en": "Mourning Flower",
+      "zh": "悼灵花"
+    },
+    "region": "Сумеру",
+    "game_version": "3.6",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3006000,
+    "search_text": "цветы скорби mourning flower 悼灵花 сумеру 3.6 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "naku_weed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/naku_weed.webp",
+    "title": {
+      "ru": "Трава наку",
+      "en": "Naku Weed",
+      "zh": "鸣草"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2000000,
+    "search_text": "трава наку naku weed 鸣草 инадзума 2.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "nilotpala_lotus",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/nilotpala_lotus.webp",
+    "title": {
+      "ru": "Лотос нилотпала",
+      "en": "Nilotpala Lotus",
+      "zh": "月莲"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3000000,
+    "search_text": "лотос нилотпала nilotpala lotus 月莲 сумеру 3.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "noctilucous_jade",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/noctilucous_jade.webp",
+    "title": {
+      "ru": "Полуночный нефрит",
+      "en": "Noctilucous Jade",
+      "zh": "夜泊石"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "полуночный нефрит noctilucous jade 夜泊石 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "northlander_bow_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/northlander_bow_billet.webp",
+    "title": {
+      "ru": "Заготовка лука северянина",
+      "en": "Northlander Bow Billet",
+      "zh": "北陆弓原胚"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "craft",
+    "sort_version": 1000000,
+    "search_text": "заготовка лука северянина northlander bow billet 北陆弓原胚 мондштадт, ли юэ, инадзума 1.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "northlander_catalyst_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/northlander_catalyst_billet.webp",
+    "title": {
+      "ru": "Заготовка катализатора северянина",
+      "en": "Northlander Catalyst Billet",
+      "zh": "北陆法器原胚"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "craft",
+    "sort_version": 1000000,
+    "search_text": "заготовка катализатора северянина northlander catalyst billet 北陆法器原胚 мондштадт, ли юэ, инадзума 1.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "northlander_claymore_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/northlander_claymore_billet.webp",
+    "title": {
+      "ru": "Заготовка двуручного меча северянина",
+      "en": "Northlander Claymore Billet",
+      "zh": "北陆双手剑原胚"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "craft",
+    "sort_version": 1000000,
+    "search_text": "заготовка двуручного меча северянина northlander claymore billet 北陆双手剑原胚 мондштадт, ли юэ, инадзума 1.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "northlander_polearm_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/northlander_polearm_billet.webp",
+    "title": {
+      "ru": "Заготовка копья северянина",
+      "en": "Northlander Polearm Billet",
+      "zh": "北陆长柄武器原胚"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "craft",
+    "sort_version": 1000000,
+    "search_text": "заготовка копья северянина northlander polearm billet 北陆长柄武器原胚 мондштадт, ли юэ, инадзума 1.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "northlander_sword_billet",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/northlander_sword_billet.webp",
+    "title": {
+      "ru": "Заготовка одноручного меча северянина",
+      "en": "Northlander Sword Billet",
+      "zh": "北陆单手剑原胚"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "craft",
+    "sort_version": 1000000,
+    "search_text": "заготовка одноручного меча северянина northlander sword billet 北陆单手剑原胚 мондштадт, ли юэ, инадзума 1.0 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "onikabuto",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/onikabuto.webp",
+    "title": {
+      "ru": "Оникабуто",
+      "en": "Onikabuto",
+      "zh": "鬼兜虫"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2000000,
+    "search_text": "оникабуто onikabuto 鬼兜虫 инадзума 2.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "padisarah",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/padisarah.webp",
+    "title": {
+      "ru": "Падисара",
+      "en": "Padisarah",
+      "zh": "帕蒂沙兰"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3000000,
+    "search_text": "падисара padisarah 帕蒂沙兰 сумеру 3.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "philanemo_mushroom",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/philanemo_mushroom.webp",
+    "title": {
+      "ru": "Гриб филанемо",
+      "en": "Philanemo Mushroom",
+      "zh": "慕风蘑菇"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "гриб филанемо philanemo mushroom 慕风蘑菇 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "pine_amber",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/pine_amber.webp",
+    "title": {
+      "ru": "Сосновый янтарь",
+      "en": "Pine Amber",
+      "zh": "松珀香"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6003000,
+    "search_text": "сосновый янтарь pine amber 松珀香 нод-край 6.3 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "pluie_lotus",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/pluie_lotus.webp",
+    "title": {
+      "ru": "Дожделотос",
+      "en": "Pluie Lotus",
+      "zh": "久雨莲"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "plant",
+    "sort_version": 4000000,
+    "search_text": "дожделотос pluie lotus 久雨莲 фонтейн 4.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "portable_bearing",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/portable_bearing.webp",
+    "title": {
+      "ru": "Переносной подшипник",
+      "en": "Portable Bearing",
+      "zh": "便携轴承"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6000000,
+    "search_text": "переносной подшипник portable bearing 便携轴承 нод-край 6.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "qingxin",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/qingxin.webp",
+    "title": {
+      "ru": "Цветок цинсинь",
+      "en": "Qingxin",
+      "zh": "清心"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "цветок цинсинь qingxin 清心 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "quenepa_berry",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/quenepa_berry.webp",
+    "title": {
+      "ru": "Ягода квенепа",
+      "en": "Quenepa Berry",
+      "zh": "青蜜莓"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5000000,
+    "search_text": "ягода квенепа quenepa berry 青蜜莓 натлан 5.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "rainbow_rose",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/rainbow_rose.webp",
+    "title": {
+      "ru": "Радужная роза",
+      "en": "Rainbow Rose",
+      "zh": "虹彩蔷薇"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4000000,
+    "search_text": "радужная роза rainbow rose 虹彩蔷薇 фонтейн 4.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "romaritime_flower",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/romaritime_flower.webp",
+    "title": {
+      "ru": "Ромарин",
+      "en": "Romaritime Flower",
+      "zh": "海露花"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4000000,
+    "search_text": "ромарин romaritime flower 海露花 фонтейн 4.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "rukkhashava_mushrooms",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/rukkhashava_mushrooms.webp",
+    "title": {
+      "ru": "Грибы руккхашава",
+      "en": "Rukkhashava Mushrooms",
+      "zh": "树王圣体菇"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3000000,
+    "search_text": "грибы руккхашава rukkhashava mushrooms 树王圣体菇 сумеру 3.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "sakura_bloom",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sakura_bloom.webp",
+    "title": {
+      "ru": "Цвет сакуры",
+      "en": "Sakura Bloom",
+      "zh": "绯樱绣球"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2000000,
+    "search_text": "цвет сакуры sakura bloom 绯樱绣球 инадзума 2.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "sand_grease_pupa",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sand_grease_pupa.webp",
+    "title": {
+      "ru": "Личинка песчаного жировика",
+      "en": "Sand Grease Pupa",
+      "zh": "沙脂蛹"
+    },
+    "region": "Сумеру",
+    "game_version": "3.4",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3004000,
+    "search_text": "личинка песчаного жировика sand grease pupa 沙脂蛹 сумеру 3.4 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "sango_pearl",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sango_pearl.webp",
+    "title": {
+      "ru": "Жемчужина Санго",
+      "en": "Sango Pearl",
+      "zh": "珊瑚真珠"
+    },
+    "region": "Инадзума",
+    "game_version": "2.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 2001000,
+    "search_text": "жемчужина санго sango pearl 珊瑚真珠 инадзума 2.1 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "saurian_claw_succulent",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/saurian_claw_succulent.webp",
+    "title": {
+      "ru": "Лапа завриана",
+      "en": "Saurian Claw Succulent",
+      "zh": "肉龙掌"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5000000,
+    "search_text": "лапа завриана saurian claw succulent 肉龙掌 натлан 5.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "scarab",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/scarab.webp",
+    "title": {
+      "ru": "Скарабей",
+      "en": "Scarab",
+      "zh": "圣金虫"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3001000,
+    "search_text": "скарабей scarab 圣金虫 сумеру 3.1 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "sea_ganoderma",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sea_ganoderma.webp",
+    "title": {
+      "ru": "Морской гриб",
+      "en": "Sea Ganoderma",
+      "zh": "海灵芝"
+    },
+    "region": "Инадзума",
+    "game_version": "1.6",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1006000,
+    "search_text": "морской гриб sea ganoderma 海灵芝 инадзума 1.6 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "silk_flower",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/silk_flower.webp",
+    "title": {
+      "ru": "Шелковица",
+      "en": "Silk Flower",
+      "zh": "霓裳花"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "шелковица silk flower 霓裳花 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "skysplit_gembloom",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/skysplit_gembloom.webp",
+    "title": {
+      "ru": "Заоблачный камнелист",
+      "en": "Skysplit Gembloom",
+      "zh": "云岩裂叶"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5005000,
+    "search_text": "заоблачный камнелист skysplit gembloom 云岩裂叶 натлан 5.5 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "small_lamp_grass",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/small_lamp_grass.webp",
+    "title": {
+      "ru": "Трава-светяшка",
+      "en": "Small Lamp Grass",
+      "zh": "小灯草"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "трава-светяшка small lamp grass 小灯草 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "sprayfeather_gill",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sprayfeather_gill.webp",
+    "title": {
+      "ru": "Морское перо",
+      "en": "Sprayfeather Gill",
+      "zh": "浪沫羽鳃"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5000000,
+    "search_text": "морское перо sprayfeather gill 浪沫羽鳃 натлан 5.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "spring_of_the_first_dewdrop",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/spring_of_the_first_dewdrop.webp",
+    "title": {
+      "ru": "Источник первой росы",
+      "en": "Spring of the First Dewdrop",
+      "zh": "初露之源"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4002000,
+    "search_text": "источник первой росы spring of the first dewdrop 初露之源 фонтейн 4.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "starconch",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/starconch.webp",
+    "title": {
+      "ru": "Звёздная ракушка",
+      "en": "Starconch",
+      "zh": "星螺"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "звёздная ракушка starconch 星螺 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "starsilver",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/starsilver.webp",
+    "title": {
+      "ru": "Руда звёздного серебра",
+      "en": "Starsilver",
+      "zh": "星银矿石"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "ore",
+    "sort_version": 1002000,
+    "search_text": "руда звёздного серебра starsilver 星银矿石 мондштадт 1.2 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "strange_tooth",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/strange_tooth.webp",
+    "title": {
+      "ru": "Необычный клык",
+      "en": "Strange Tooth",
+      "zh": "奇异的「牙齿」"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "craft",
+    "item_type_title": {
+      "ru": "Крафт",
+      "en": "Crafting",
+      "zh": "合成"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "craft",
+    "sort_version": 1002000,
+    "search_text": "необычный клык strange tooth 奇异的「牙齿」 мондштадт 1.2 teyvat_resources item craft крафт crafting 合成"
+  },
+  {
+    "id": "subdetection_unit",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/subdetection_unit.webp",
+    "title": {
+      "ru": "Миниатюрный детектор",
+      "en": "Subdetection Unit",
+      "zh": "子探测单元"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 4001000,
+    "search_text": "миниатюрный детектор subdetection unit 子探测单元 фонтейн 4.1 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "trishiraite",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/trishiraite.webp",
+    "title": {
+      "ru": "Тришираит",
+      "en": "Trishiraite",
+      "zh": "万相石"
+    },
+    "region": "Сумеру",
+    "game_version": "3.6",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 3006000,
+    "search_text": "тришираит trishiraite 万相石 сумеру 3.6 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "valberry",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/valberry.webp",
+    "title": {
+      "ru": "Валяшка",
+      "en": "Valberry",
+      "zh": "落落莓"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "валяшка valberry 落落莓 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "violetgrass",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/violetgrass.webp",
+    "title": {
+      "ru": "Стеклянные колокольчики",
+      "en": "Violetgrass",
+      "zh": "琉璃袋"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "стеклянные колокольчики violetgrass 琉璃袋 ли юэ 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "viparyas",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/viparyas.webp",
+    "title": {
+      "ru": "Випариас",
+      "en": "Viparyas",
+      "zh": "毗波耶"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "plant",
+    "item_type_title": {
+      "ru": "Растение",
+      "en": "Plant",
+      "zh": "植物"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "plant",
+    "sort_version": 3000000,
+    "search_text": "випариас viparyas 毗波耶 сумеру 3.0 teyvat_resources item plant растение 植物"
+  },
+  {
+    "id": "white_iron_chunk",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/white_iron_chunk.webp",
+    "title": {
+      "ru": "Обломок белого железа",
+      "en": "White Iron Chunk",
+      "zh": "白铁块"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "ore",
+    "item_type_title": {
+      "ru": "Руда",
+      "en": "Ore",
+      "zh": "矿石"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "ore",
+    "sort_version": 1000000,
+    "search_text": "обломок белого железа white iron chunk 白铁块 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 teyvat_resources item ore руда 矿石"
+  },
+  {
+    "id": "windwheel_aster",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/windwheel_aster.webp",
+    "title": {
+      "ru": "Ветряная астра",
+      "en": "Windwheel Aster",
+      "zh": "风车菊"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "ветряная астра windwheel aster 风车菊 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "winter_icelea",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/winter_icelea.webp",
+    "title": {
+      "ru": "Шпороцветник",
+      "en": "Winter Icelea",
+      "zh": "冬凌草"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 6003000,
+    "search_text": "шпороцветник winter icelea 冬凌草 нод-край 6.3 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "withering_purpurbloom",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/withering_purpurbloom.webp",
+    "title": {
+      "ru": "Сухой пурпурник",
+      "en": "Withering Purpurbloom",
+      "zh": "枯叶紫英"
+    },
+    "region": "Натлан",
+    "game_version": "5.2",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 5002000,
+    "search_text": "сухой пурпурник withering purpurbloom 枯叶紫英 натлан 5.2 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  },
+  {
+    "id": "wolfhook",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/wolfhook.webp",
+    "title": {
+      "ru": "Волчий крюк",
+      "en": "Wolfhook",
+      "zh": "钩钩果"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "teyvat_resources",
+    "entry_type": "item",
+    "item_type": "local_specialty",
+    "item_type_title": {
+      "ru": "Диковинка",
+      "en": "Local Specialty",
+      "zh": "区域特产"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "local_specialty",
+    "sort_version": 1000000,
+    "search_text": "волчий крюк wolfhook 钩钩果 мондштадт 1.0 teyvat_resources item local_specialty диковинка local specialty 区域特产"
+  }
+]

@@ -1,6 +1,7 @@
 # id: quest_wq_76218
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Приглашение от леди
 # title_en: A Lady's Invitation
 # title_zh: 淑女之邀

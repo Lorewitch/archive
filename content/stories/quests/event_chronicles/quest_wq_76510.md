@@ -1,6 +1,7 @@
 # id: quest_wq_76510
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Moonlit Patrol Exercise
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Конец беззаботного отдыха
 # title_en: End of a Leisurely Holiday
 # title_zh: 悠闲假日的尾声

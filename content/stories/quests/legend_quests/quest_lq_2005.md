@@ -1,5 +1,6 @@
 # id: quest_lq_2005
 # story_group: legend_quests
+# display_category: Задание Легенд · Рэйзор
 # icon: assets/icons/stories/quests/razor.webp
 # title_ru: Что значит Лупикал?
 # title_en: The Meaning of Lupical

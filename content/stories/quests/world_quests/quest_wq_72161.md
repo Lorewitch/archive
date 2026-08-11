@@ -1,10 +1,11 @@
 # id: quest_wq_72161
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Судьба бойца
 # title_en: Fate of a Fighter
 # title_zh: 武者的宿命
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72161

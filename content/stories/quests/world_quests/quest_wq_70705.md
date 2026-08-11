@@ -1,10 +1,11 @@
 # id: quest_wq_70705
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Алкогольные ингредиенты для Коннора
 # title_en: Connor's Brew
 # title_zh: 康纳的酿酒材料需求
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70705

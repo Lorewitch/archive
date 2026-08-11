@@ -1,6 +1,7 @@
 # id: quest_wq_72653
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Thunder Sojourn
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Отслеживание грома
 # title_en: Tracking the Thunder
 # title_zh: 追随鸣雷的踪迹

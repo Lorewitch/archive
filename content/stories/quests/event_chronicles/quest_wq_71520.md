@@ -1,6 +1,7 @@
 # id: quest_wq_71520
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Фаза эксперимента: Неподконтрольные параметры
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Фаза эксперимента: Неподконтрольные параметры
 # title_en: Experiment Phase: Uncontrolled Parameters
 # title_zh: 不受控的实验规模

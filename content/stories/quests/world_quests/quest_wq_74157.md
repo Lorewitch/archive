@@ -1,10 +1,11 @@
 # id: quest_wq_74157
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Леруа: Прекрасные друзья
 # title_en: Leroy: Beautiful Friends
 # title_zh: 勒鲁瓦·漂亮朋友
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.3
 # release_versions: 4.3
 # source_id: 74157

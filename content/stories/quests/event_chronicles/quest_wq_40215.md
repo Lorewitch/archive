@@ -1,6 +1,7 @@
 # id: quest_wq_40215
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Clink Clank Clash
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Таинственный договор подряда
 # title_en: A Mysterious Outsourced Contract
 # title_zh: 外包的保密事项

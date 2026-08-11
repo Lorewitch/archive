@@ -1,10 +1,11 @@
 # id: quest_wq_2080
 # story_group: world_quests
+# display_category: Уроки Ведьм · Венти
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Пробуждение ветра
 # title_en: Witch's Homework: Of the Waking of Wind
 # title_zh: 魔女的课业·风起之题
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2,6.2
 # source_id: 2080

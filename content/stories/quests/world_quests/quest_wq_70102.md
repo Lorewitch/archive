@@ -1,10 +1,11 @@
 # id: quest_wq_70102
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Клык разложения
 # title_en: The Festering Fang
 # title_zh: 腐殖之牙
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70102

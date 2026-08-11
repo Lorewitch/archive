@@ -1,5 +1,6 @@
 # id: quest_lq_2016
 # story_group: legend_quests
+# display_category: Задание Легенд · Гань Юй
 # icon: assets/icons/stories/quests/ganyu.webp
 # title_ru: Море облаков, море людей
 # title_en: Sea of Clouds, Sea of People

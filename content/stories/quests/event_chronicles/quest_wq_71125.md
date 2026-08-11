@@ -1,6 +1,7 @@
 # id: quest_wq_71125
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Кристаллы резонанса не меняют своих свойств
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Кристаллы резонанса не меняют своих свойств
 # title_en: "Vibro-Crystals. It's Always Vibro-Crystals..."
 # title_zh: 振晶，归来仍是振晶

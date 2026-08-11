@@ -1,6 +1,7 @@
 # id: quest_wq_71501
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Muddy Bizarre Adventure }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: По уши в приключениях
 # title_en: A Muddy Bizarre Adventure
 # title_zh: 深泥奇谭

@@ -34,6 +34,7 @@
   },
   "story_group": "character_stories",
   "category_type": "character_stories",
+  "display_category": "",
   "elements": [
     "pyro"
   ],

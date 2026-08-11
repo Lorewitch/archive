@@ -1,10 +1,11 @@
 # id: quest_wq_10036
 # story_group: world_quests
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Сказания из Татары
 # title_en: Tatara Tales
 # title_zh: 踏鞴物语
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10036

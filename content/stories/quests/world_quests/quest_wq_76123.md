@@ -1,6 +1,7 @@
 # id: quest_wq_76123
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Её подарок
 # title_en: A Gift From Her
 # title_zh: 她的礼赠

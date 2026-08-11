@@ -1,6 +1,7 @@
 # id: quest_wq_70026
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Shadow of the Ancients
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путешествие на Цуруми
 # title_en: Journey to Tsurumi
 # title_zh: 鹤观之行

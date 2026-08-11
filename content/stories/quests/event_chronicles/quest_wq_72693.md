@@ -1,6 +1,7 @@
 # id: quest_wq_72693
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Hues of the Violet Garden
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Поэзия Иродори. Часть III
 # title_en: Irodori Poetry: Part III
 # title_zh: 容彩诗镜·其三

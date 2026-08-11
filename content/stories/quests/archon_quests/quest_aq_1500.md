@@ -1,5 +1,6 @@
 # id: quest_aq_1500
 # story_group: archon_quests
+# display_category: Задание Архонтов · Натлан
 # icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Цветы под палящим солнцем
 # title_en: Flowers Resplendent on the Sun-Scorched Sojourn

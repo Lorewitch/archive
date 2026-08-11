@@ -1,6 +1,7 @@
 # id: quest_wq_73519
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Fulminating Sandstorm
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Избавление от червей: Заключение
 # title_en: The Culling of the Worms: Ending
 # title_zh: 沙漠虫害·尾声

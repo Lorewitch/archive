@@ -243,7 +243,6 @@ function handleAppInput(event) {
   filterState.query = event.target.value;
   filterState.page = 1;
   document.getElementById("clear-search")?.classList.toggle("visible", Boolean(filterState.query));
-  ensureStorySearchIndexForQuery(currentCatalogConfig(), filterState.query);
   debouncedCatalogUpdate();
 }
 

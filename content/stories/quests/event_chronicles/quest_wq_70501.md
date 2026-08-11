@@ -1,6 +1,7 @@
 # id: quest_wq_70501
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Moonlight Merriment
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Курс машинной кулинарии II
 # title_en: Contraption-Contrived Cooking Course: Part II
 # title_zh: 机关烹饪之法·之二

@@ -1,10 +1,11 @@
 # id: quest_wq_73654
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Персики зайтун для Песэна
 # title_en: Peseng's Zaytun Peaches
 # title_zh: 帕森的墩墩桃需求
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73654

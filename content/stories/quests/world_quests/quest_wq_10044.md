@@ -1,10 +1,11 @@
 # id: quest_wq_10044
 # story_group: world_quests
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Сквозь туман
 # title_en: Through the Mists
 # title_zh: 雾海纪行
-# region: Тейват
+# region: Инадзума
 # game_version: 2.2
 # release_versions: 2.2
 # source_id: 10044

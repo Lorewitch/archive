@@ -1,6 +1,7 @@
 # id: quest_wq_41124
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Unreconciled Stars
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: План «того господина»
 # title_en: "That Guy"'s Scheme
 # title_zh: 「那位先生」的计划

@@ -1,10 +1,11 @@
 # id: quest_lq_10247
 # story_group: legend_quests
+# display_category: Ивент · Лето! Жара? Курорт! III
 # icon: assets/icons/stories/quests/easybreezeholidayresort.webp
 # title_ru: Сюрприз для всех!
 # title_en: The Surprise That Awaits Us All!
 # title_zh: 惊遇！等待众人的将是…？
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 10247

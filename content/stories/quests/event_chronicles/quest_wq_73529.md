@@ -1,6 +1,7 @@
 # id: quest_wq_73529
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Secret Summer Paradise
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неистовая и зрелищная танцевальная битва?
 # title_en: Determined and Elegant Battle Dance?
 # title_zh: 锐意与优雅的战舞？

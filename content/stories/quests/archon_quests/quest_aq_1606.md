@@ -1,5 +1,6 @@
 # id: quest_aq_1606
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Лунный свет в утреннем тумане
 # title_en: Melting Moonlight in the Morning Mist

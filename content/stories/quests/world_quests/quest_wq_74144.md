@@ -1,10 +1,11 @@
 # id: quest_wq_74144
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Свободное стихосложение
 # title_en: Free Verse
 # title_zh: 无格律自由诗
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74144

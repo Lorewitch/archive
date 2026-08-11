@@ -1,10 +1,11 @@
 # id: quest_wq_22050
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Следы Наруками
 # title_en: The Narukami Trail
 # title_zh: 鸣神寻踪
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 22050

@@ -131,7 +131,7 @@ const SECTIONS = [
       escapeHtml(item.region || "—")
     ] : [
       renderTitleCell(item),
-      escapeHtml(storyGroupLabel(item.story_group || state.subsection)),
+      escapeHtml(item.display_category || storyGroupLabel(item.story_group || state.subsection)),
       escapeHtml(item.region || "—")
     ]
   }

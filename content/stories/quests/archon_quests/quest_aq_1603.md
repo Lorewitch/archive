@@ -1,5 +1,6 @@
 # id: quest_aq_1603
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Страна, которой нет
 # title_en: A Nation That Doesn't Exist

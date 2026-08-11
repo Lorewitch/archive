@@ -1,5 +1,6 @@
 # id: quest_eq_10092
 # story_group: event_chronicles
+# display_category: Ивент · Летнее морское путешествие V
 # icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Древние лазурные звёзды
 # title_en: The Ancient Azure Stars

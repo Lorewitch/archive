@@ -1,5 +1,6 @@
 # id: quest_eq_10102
 # story_group: event_chronicles
+# display_category: Ивент · Эпичное побоище плесенников
 # icon: assets/icons/stories/quests/fungusfighter.webp
 # title_ru: Двойное задание. Продвижение и исследование!
 # title_en: Dual Missions: Progress and Probe!

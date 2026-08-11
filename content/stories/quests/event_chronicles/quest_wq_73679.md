@@ -1,6 +1,7 @@
 # id: quest_wq_73679
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Of Ballads and Brews
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Цель: хозяин Драконьего хребта!
 # title_en: Target: Master of the Snowy Peaks!
 # title_zh: 目标，雪山之主！

@@ -1,10 +1,11 @@
 # id: quest_wq_74216
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Запоздалое возвращение
 # title_en: Latecoming Homecoming
 # title_zh: 迟来的归乡
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 74216

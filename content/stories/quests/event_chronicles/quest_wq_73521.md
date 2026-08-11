@@ -1,6 +1,7 @@
 # id: quest_wq_73521
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Parade of Providence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Записи Сачина
 # title_en: Sachin's Article
 # title_zh: 「萨齐因留下的文字」

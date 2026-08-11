@@ -1,6 +1,7 @@
 # id: quest_wq_41343
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Приключения мондштадтцев в Ли Юэ
 # title_en: Mondstadters in Liyue
 # title_zh: 蒙德人，在璃月

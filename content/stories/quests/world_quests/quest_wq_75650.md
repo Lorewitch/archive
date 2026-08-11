@@ -1,6 +1,7 @@
 # id: quest_wq_75650
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Вперёд к пылающим приключениям!
 # title_en: Toward Red-Hot Adventure!
 # title_zh: 朝着炽热的冒险！

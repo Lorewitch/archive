@@ -1,10 +1,11 @@
 # id: quest_wq_70700
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Особый чай для Хелен
 # title_en: Helen's Special Blend
 # title_zh: 海伦的特效润喉茶
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70700

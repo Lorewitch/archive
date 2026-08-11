@@ -1,6 +1,7 @@
 # id: quest_wq_73696
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Parade of Providence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: В поисках правды
 # title_en: In Truth's Steps
 # title_zh: 追溯求真

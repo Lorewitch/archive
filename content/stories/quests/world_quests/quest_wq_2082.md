@@ -1,10 +1,11 @@
 # id: quest_wq_2082
 # story_group: world_quests
+# display_category: Уроки Ведьм · Сахароза
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Цветы из сказочной страны
 # title_en: Witch's Homework: Of Wonderland Flowers
 # title_zh: 魔女的课业·仙境花之题
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2,6.2
 # source_id: 2082

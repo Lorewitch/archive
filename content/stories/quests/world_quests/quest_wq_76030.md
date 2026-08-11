@@ -1,6 +1,7 @@
 # id: quest_wq_76030
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Слабое сияние возвращения домой
 # title_en: Homecoming's Faint Glow
 # title_zh: 归家的微光

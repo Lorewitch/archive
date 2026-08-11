@@ -1,6 +1,7 @@
 # id: quest_wq_74690
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Rapid Capture
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ожесточённый спор
 # title_en: A Robust Theoretical Discussion
 # title_zh: 激烈的开端理论

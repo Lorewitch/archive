@@ -1,6 +1,7 @@
 # id: quest_wq_74703
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Только тридцать процентов!
 # title_en: Just a 30% Cut!
 # title_zh: 营业额？只拿三成！

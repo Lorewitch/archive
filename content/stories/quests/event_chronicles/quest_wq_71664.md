@@ -1,6 +1,7 @@
 # id: quest_wq_71664
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Резонанс кристаллов
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Резонанс кристаллов
 # title_en: Vibro-Crystal Projections
 # title_zh: 振晶射影

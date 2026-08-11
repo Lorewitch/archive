@@ -1,5 +1,6 @@
 # id: quest_lq_2002
 # story_group: legend_quests
+# display_category: Задание Легенд · Дилюк
 # icon: assets/icons/stories/quests/diluc.webp
 # title_ru: Алиби Полуночного героя
 # title_en: Darknight Hero's Alibi

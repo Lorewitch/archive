@@ -1,5 +1,6 @@
 # id: quest_eq_10161
 # story_group: event_chronicles
+# display_category: Ивент · Мушкеты и розы
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Грохот мушкетов разрывает тишину
 # title_en: The Crack of Muskets Breaking the Silence

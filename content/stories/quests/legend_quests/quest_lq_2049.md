@@ -1,5 +1,6 @@
 # id: quest_lq_2049
 # story_group: legend_quests
+# display_category: Задание Легенд · Сайно
 # icon: assets/icons/stories/quests/cyno.webp
 # title_ru: Хранитель клятв
 # title_en: Oathkeeper

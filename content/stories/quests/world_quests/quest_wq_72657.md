@@ -1,6 +1,7 @@
 # id: quest_wq_72657
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Поручение комиссии Ясиро
 # title_en: The Commission's Commission
 # title_zh: 社奉行的委任

@@ -1,6 +1,7 @@
 # id: quest_wq_79001
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Midsummer Island Adventure
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Извилистая дорога домой
 # title_en: The Winding Homeward Way
 # title_zh: 归乡漫漫路

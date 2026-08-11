@@ -1,6 +1,7 @@
 # id: quest_wq_72686
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Hues of the Violet Garden
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Вперёд, Золотое торнадо!
 # title_en: Go Forth, Golden Whirlwind!
 # title_zh: 去吧！黄金旋风！

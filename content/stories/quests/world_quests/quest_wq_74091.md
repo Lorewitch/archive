@@ -1,10 +1,11 @@
 # id: quest_wq_74091
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Наша цель в другом трубопроводе
 # title_en: Our Purpose Is in Another Canal
 # title_zh: 我们的目标在另一条管道
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74091

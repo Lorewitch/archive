@@ -1,10 +1,11 @@
 # id: quest_wq_72140
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Взгляд на три тысячи миль вдаль
 # title_en: Gazing Three Thousand Miles Away
 # title_zh: 执望三千里
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72140

@@ -1,6 +1,7 @@
 # id: quest_wq_76138
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование утечек
 # title_en: Research Spillover
 # title_zh: 外溢之研究

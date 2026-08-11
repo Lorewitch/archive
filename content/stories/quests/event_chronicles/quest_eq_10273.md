@@ -1,10 +1,11 @@
 # id: quest_eq_10273
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Возвращение? Фонтиналия! Глава III
 # icon: assets/icons/stories/quests/aquarium.webp
 # title_ru: Сохранённое нами
 # title_en: Those We Have Kept
 # title_zh: 那些我们所留驻的
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 10273

@@ -1,6 +1,7 @@
 # id: quest_wq_73209
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Подаренная роза: Забвению не бывать
 # title_en: A Gifted Rose: Some People Never Fade Away
 # title_zh: 献给某人的蔷薇·曾有人战胜消逝

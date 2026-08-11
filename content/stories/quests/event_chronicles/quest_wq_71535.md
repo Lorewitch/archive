@@ -1,6 +1,7 @@
 # id: quest_wq_71535
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Springtime Charms
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Персональный подарочный конверт №3
 # title_en: Custom Gift Envelope No. 3
 # title_zh: 如意祝柬·之三

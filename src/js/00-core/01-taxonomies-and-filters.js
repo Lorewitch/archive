@@ -41,6 +41,11 @@ const WEAPON_TYPE_FILTERS = [
   { value: "weapon:polearm", label: "Древковое", icon: `${UI_ICON_BASE}/polearm.webp`, color: ICON_COLORS.polearm, group: "weapon" },
 ];
 
+const WEAPON_KIND_FILTERS = [
+  { value: "kind:weapon", label: "Оружие", icon: `${UI_ICON_BASE}/weapons.webp`, color: "#34362d", group: "kind" },
+  { value: "kind:skin", label: "Скины", icon: `${UI_ICON_BASE}/star_blade.webp`, color: ICON_COLORS.star_blade, group: "kind" },
+];
+
 const RARITY_FILTERS = [
   { value: "rarity:5", label: "5★", icon: `${UI_ICON_BASE}/star.webp`, color: ICON_COLORS.rarity5, group: "rarity" },
   { value: "rarity:4", label: "4★", icon: `${UI_ICON_BASE}/star.webp`, color: ICON_COLORS.rarity4, group: "rarity" },
@@ -63,6 +68,7 @@ const REGION_FILTERS = [
   ["Фонтейн", "Фонтейн"],
   ["Натлан", "Натлан"],
   ["Нод-Край", "Нод-Край"],
+  ["Луна", "Луна"],
   ["Снежная", "Снежная"],
   ["Тейват", "Тейват"],
   ["Каэнри'ах", "Каэнри'ах"],
@@ -81,7 +87,7 @@ const ITEM_GROUPS = [
 ];
 
 const STORY_GROUPS = [
-  ["quest_stories", "Истории заданий", "Сюжетные записи и пересказы квестов: от главных арок до тихих историй мира."],
+  ["quest_stories", "Квесты и задания", "Сюжетные записи и пересказы квестов: от главных арок до тихих историй мира."],
   ["character_stories", "Истории персонажей", "Личные истории, профили и тексты персонажей: маленькие ключи к их прошлому и мотивам."],
   ["world_stories", "Истории мира", "Мифы, хроники и разрозненные предания Тейвата, которые помогают собрать общую картину мира."]
 ];
@@ -445,7 +451,7 @@ function itemTypeFilterValue(item, config = getSectionConfig()) {
 
 function typeFiltersForCurrentCatalog(config = getSectionConfig()) {
   if (config.id === "books") return BOOK_TYPE_FILTERS;
-  if (config.id === "weapons") return [...WEAPON_TYPE_FILTERS, ...RARITY_FILTERS];
+  if (config.id === "weapons") return [...WEAPON_TYPE_FILTERS, ...RARITY_FILTERS, ...WEAPON_KIND_FILTERS];
   if (isCommonEnemyCatalog(config)) return COMMON_ENEMY_TYPE_FILTERS;
   if (isDevelopmentMaterialsCatalog(config)) return DEVELOPMENT_MATERIAL_TYPE_FILTERS;
   if (isCharacterStoriesCatalog(config)) return STORY_CHARACTER_TYPE_FILTERS;
@@ -507,7 +513,8 @@ function renderTypeFilters(config) {
   if (config.id === "weapons") {
     const weaponOptions = options.filter(option => typeFilterOptionGroup(option) === "weapon");
     const rarityOptions = options.filter(option => typeFilterOptionGroup(option) === "rarity");
-    return renderTypeFilterRow([...rarityOptions, ...weaponOptions], activeTypes, { scope: "weapon-rarity", showToggle: false });
+    const kindOptions = options.filter(option => typeFilterOptionGroup(option) === "kind");
+    return renderTypeFilterRow([...rarityOptions, ...weaponOptions, ...kindOptions], activeTypes, { scope: "weapon-rarity", showToggle: false });
   }
 
   if (isCharacterStoriesCatalog(config)) {

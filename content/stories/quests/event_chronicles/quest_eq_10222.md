@@ -1,5 +1,6 @@
 # id: quest_eq_10222
 # story_group: event_chronicles
+# display_category: Ивент · Чудесные истории фестиваля Микавы: Вторая ночь
 # icon: assets/icons/stories/quests/mikawaflower.webp
 # title_ru: Будто созерцая иллюзии
 # title_en: As Though Beholding Illusions

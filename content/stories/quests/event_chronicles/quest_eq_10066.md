@@ -1,5 +1,6 @@
 # id: quest_eq_10066
 # story_group: event_chronicles
+# display_category: Ивент · Истории фиалкового сада
 # icon: assets/icons/stories/quests/irodori.webp
 # title_ru: Что осталось от синих цветов
 # title_en: What the Blue Flowers Left Behind

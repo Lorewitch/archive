@@ -1,5 +1,6 @@
 # id: quest_eq_10165
 # story_group: event_chronicles
+# display_category: Ивент · Яркие птицы в весеннем небе I
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Иволги наслаждаются весной, небеса дарят благословение
 # title_en: The Orioles Bask in Spring, the Heavens Present Auspices

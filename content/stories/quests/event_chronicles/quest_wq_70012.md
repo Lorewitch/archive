@@ -1,6 +1,7 @@
 # id: quest_wq_70012
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Mimi Tomo
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Взаимная выгода?
 # title_en: Mutual Exchange
 # title_zh: 互通有无？

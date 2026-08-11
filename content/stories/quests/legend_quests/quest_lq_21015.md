@@ -1,10 +1,11 @@
 # id: quest_lq_21015
 # story_group: legend_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Книга в лесу
 # title_en: Book in the Woods
 # title_zh: 林中小书
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 21015

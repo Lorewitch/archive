@@ -1,10 +1,11 @@
 # id: quest_wq_70711
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Мужественный путь мужественного Джека
 # title_en: Manly Jack's Manly Journey of Manliness
 # title_zh: 男子汉杰克的男子汉之路
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70711

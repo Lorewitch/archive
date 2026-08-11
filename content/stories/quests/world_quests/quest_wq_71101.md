@@ -1,6 +1,7 @@
 # id: quest_wq_71101
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ход времён под сенью веера
 # title_en: The Tales Behind the Fan
 # title_zh: 扇底春秋

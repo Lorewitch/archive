@@ -1,10 +1,11 @@
 # id: quest_wq_70801
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Вопросы и ответы
 # title_en: Question and Answer
 # title_zh: 骑士团手册问答
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70801

@@ -1,5 +1,6 @@
 # id: quest_eq_10234
 # story_group: event_chronicles
+# display_category: Ивент · Кружащийся вальс
 # icon: assets/icons/stories/quests/themeparksim.webp
 # title_ru: У всего есть цена
 # title_en: The Price of Every Price

@@ -1,5 +1,6 @@
 # id: quest_aq_1301
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Сквозь дым и тёмные леса
 # title_en: Through Mists of Smoke and Forests Dark

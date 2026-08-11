@@ -1,10 +1,11 @@
 # id: quest_wq_71066
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Украдено владельцем
 # title_en: Stolen, by the Rightful Owner
 # title_zh: 物归原主又归原主
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71066

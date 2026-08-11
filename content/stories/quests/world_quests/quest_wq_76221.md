@@ -1,6 +1,7 @@
 # id: quest_wq_76221
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Тарталья
 # title_en: Tea Party Re-Invitation: Tartaglia
 # title_zh: 茶会的再邀·达达利亚

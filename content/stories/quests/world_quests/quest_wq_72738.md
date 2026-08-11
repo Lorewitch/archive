@@ -1,6 +1,7 @@
 # id: quest_wq_72738
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Истории путешествий: Предначертание судьбы
 # title_en: Travelers' Tales: Destiny Drawn
 # title_zh: 游逸旅闻·相缘绘愿

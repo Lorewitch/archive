@@ -1,5 +1,6 @@
 # id: quest_aq_1103
 # story_group: archon_quests
+# display_category: Задание Архонтов · Ли Юэ
 # icon: assets/icons/stories/quests/liyue.webp
 # title_ru: Приближение новой звезды
 # title_en: A New Star Approaches

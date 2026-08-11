@@ -1,6 +1,7 @@
 # id: quest_wq_76069
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Безымянный окровавленный памятник
 # title_en: Nameless Bloodstained Monument
 # title_zh: 无铭染血之碑

@@ -1,6 +1,7 @@
 # id: quest_wq_73695
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Parade of Providence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Археологические раскопки. Заключение
 # title_en: Antiquity Hunt: Conclusion
 # title_zh: 究古考察·收尾

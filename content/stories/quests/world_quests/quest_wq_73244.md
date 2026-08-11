@@ -1,6 +1,7 @@
 # id: quest_wq_73244
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Возрадуйся обретению утраченного
 # title_en: Rejoice With Me, for What Was Lost Is Now Found
 # title_zh: 失而复得者一同欢喜

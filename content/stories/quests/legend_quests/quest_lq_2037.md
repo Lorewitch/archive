@@ -1,5 +1,6 @@
 # id: quest_lq_2037
 # story_group: legend_quests
+# display_category: Задание Легенд · Бай Чжу
 # icon: assets/icons/stories/quests/baizhuer.webp
 # title_ru: Врачевание
 # title_en: The Heart of Healing

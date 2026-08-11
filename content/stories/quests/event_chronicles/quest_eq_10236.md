@@ -1,5 +1,6 @@
 # id: quest_eq_10236
 # story_group: event_chronicles
+# display_category: Ивент · Где волна набегает на риф II
 # icon: assets/icons/stories/quests/tradeshow.webp
 # title_ru: В кольце пуль и шёлка
 # title_en: Encirclement of Bullets and Silk

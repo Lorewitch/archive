@@ -1,6 +1,7 @@
 # id: quest_wq_72261
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Eight Locales Over Mountains and Seas }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Восемь мест от гор до морей: Сказания янтарных утёсов
 # title_en: Eight Locales Over Mountains and Seas: The Wonders of Adeptal Amber
 # title_zh: 山海八所巡礼·琥珀仙岳绮语

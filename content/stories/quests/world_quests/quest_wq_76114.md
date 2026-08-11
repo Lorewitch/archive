@@ -1,6 +1,7 @@
 # id: quest_wq_76114
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Странный отшельник
 # title_en: The Suspicious Hermit
 # title_zh: 形迹反常的隐士

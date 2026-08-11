@@ -1,10 +1,11 @@
 # id: quest_wq_72708
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Хаос, вызванный Фатуи
 # title_en: Fatuous Farce
 # title_zh: 愚人众引起的混乱
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72708

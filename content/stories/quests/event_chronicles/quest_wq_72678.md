@@ -1,6 +1,7 @@
 # id: quest_wq_72678
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Eight Locales Over Mountains and Seas }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Восемь мест от гор до морей: Заключения странника
 # title_en: Eight Locales Over Mountains and Seas: Wanderer's Appraisal
 # title_zh: 山海八所巡礼·风来坊内鉴录

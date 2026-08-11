@@ -1,6 +1,7 @@
 # id: quest_wq_70546
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Бабах-приключения Додоко!
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бабах-приключения Додоко!
 # title_en: Dodoco's Boom-Bastic Escapades!
 # title_zh: 嘟嘟可砰砰历险记！

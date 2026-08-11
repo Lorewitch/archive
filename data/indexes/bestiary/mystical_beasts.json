@@ -1,0 +1,2191 @@
+[
+  {
+    "id": "angelic_sea_hare",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/angelic_sea_hare.webp",
+    "title": {
+      "ru": "Милый морской заяц",
+      "en": "Angelic Sea Hare",
+      "zh": "天使海兔"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Милый морской заяц",
+      "Angelic Sea Hare",
+      "天使海兔"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "милый морской заяц angelic sea hare 天使海兔 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "armored_crab",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/armored_crab.webp",
+    "title": {
+      "ru": "Бронекраб",
+      "en": "Armored Crab",
+      "zh": "重甲蟹"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Бронекраб",
+      "Armored Crab",
+      "重甲蟹"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "бронекраб armored crab 重甲蟹 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "ball_octopus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ball_octopus.webp",
+    "title": {
+      "ru": "Шаровидный осьминог",
+      "en": "Ball Octopus",
+      "zh": "球球章鱼"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Шаровидный осьминог",
+      "Ball Octopus",
+      "球球章鱼"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "шаровидный осьминог ball octopus 球球章鱼 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "biting_cold_wayob_manifestation",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/biting_cold_wayob_manifestation.webp",
+    "title": {
+      "ru": "Воплощение Вайоб пронизывающего хлада",
+      "en": "Biting-Cold Wayob Manifestation",
+      "zh": "凛冽 · 大灵显化身"
+    },
+    "region": "Натлан",
+    "game_version": "5.2",
+    "tags": [
+      "Воплощение Вайоб пронизывающего хлада",
+      "Biting-Cold Wayob Manifestation",
+      "凛冽 · 大灵显化身"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5002000,
+    "search_text": "воплощение вайоб пронизывающего хлада biting-cold wayob manifestation 凛冽 · 大灵显化身 mystical_beasts common_enemy натлан 5.2 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+  },
+  {
+    "id": "blubberbeast",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/blubberbeast.webp",
+    "title": {
+      "ru": "Пухлень",
+      "en": "Blubberbeast",
+      "zh": "膨膨兽"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Пухлень",
+      "Blubberbeast",
+      "膨膨兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "пухлень blubberbeast 膨膨兽 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "bolteater_bathysmal_vishap_hatchling",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/bolteater_bathysmal_vishap_hatchling.webp",
+    "title": {
+      "ru": "Молодой вишап глубин: Громоглот",
+      "en": "Bolteater Bathysmal Vishap Hatchling",
+      "zh": "深海龙蜥幼体·吞雷"
+    },
+    "region": "Инадзума",
+    "game_version": "2.4",
+    "tags": [
+      "Молодой вишап глубин: Громоглот",
+      "Bolteater Bathysmal Vishap Hatchling",
+      "深海龙蜥幼体·吞雷"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2004000,
+    "search_text": "молодой вишап глубин: громоглот bolteater bathysmal vishap hatchling 深海龙蜥幼体·吞雷 mystical_beasts common_enemy инадзума 2.4 хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片"
+  },
+  {
+    "id": "bubbler_seahorse",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/bubbler_seahorse.webp",
+    "title": {
+      "ru": "Сильный конёк-пузырёк",
+      "en": "Bubbler Seahorse",
+      "zh": "泡泡雄海马"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Сильный конёк-пузырёк",
+      "Bubbler Seahorse",
+      "泡泡雄海马"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "сильный конёк-пузырёк bubbler seahorse 泡泡雄海马 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "bubbly_seahorse",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/bubbly_seahorse.webp",
+    "title": {
+      "ru": "Конёк-пузырёк",
+      "en": "Bubbly Seahorse",
+      "zh": "泡泡海马"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Конёк-пузырёк",
+      "Bubbly Seahorse",
+      "泡泡海马"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "конёк-пузырёк bubbly seahorse 泡泡海马 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "burning_aflame_wayob_manifestation",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/burning_aflame_wayob_manifestation.webp",
+    "title": {
+      "ru": "Воплощение Вайоб губительного пламени",
+      "en": "Burning-Aflame Wayob Manifestation",
+      "zh": "焚燃 · 大灵显化身"
+    },
+    "region": "Натлан",
+    "game_version": "5.2",
+    "tags": [
+      "Воплощение Вайоб губительного пламени",
+      "Burning-Aflame Wayob Manifestation",
+      "焚燃 · 大灵显化身"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5002000,
+    "search_text": "воплощение вайоб губительного пламени burning-aflame wayob manifestation 焚燃 · 大灵显化身 mystical_beasts common_enemy натлан 5.2 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+  },
+  {
+    "id": "cherubic_sea_hare",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cherubic_sea_hare.webp",
+    "title": {
+      "ru": "Премилый морской заяц",
+      "en": "Cherubic Sea Hare",
+      "zh": "大天使海兔"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Премилый морской заяц",
+      "Cherubic Sea Hare",
+      "大天使海兔"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "премилый морской заяц cherubic sea hare 大天使海兔 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "consecrated_fanged_beast",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/consecrated_fanged_beast.webp",
+    "title": {
+      "ru": "Священный клыкастый зверь",
+      "en": "Consecrated Fanged Beast",
+      "zh": "圣骸牙兽"
+    },
+    "region": "Сумеру",
+    "game_version": "3.6",
+    "tags": [
+      "Священный клыкастый зверь",
+      "Consecrated Fanged Beast",
+      "圣骸牙兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 3006000,
+    "search_text": "священный клыкастый зверь consecrated fanged beast 圣骸牙兽 mystical_beasts common_enemy сумеру 3.6 опустошённая оболочка / прочная оболочка / меченая оболочка shells 残毁的横脊 / 密固的横脊 / 锲纹的横脊"
+  },
+  {
+    "id": "consecrated_flying_serpent",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/consecrated_flying_serpent.webp",
+    "title": {
+      "ru": "Священный летучий змей",
+      "en": "Consecrated Flying Serpent",
+      "zh": "圣骸飞蛇"
+    },
+    "region": "Сумеру",
+    "game_version": "3.4",
+    "tags": [
+      "Священный летучий змей",
+      "Consecrated Flying Serpent",
+      "圣骸飞蛇"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 3004000,
+    "search_text": "священный летучий змей consecrated flying serpent 圣骸飞蛇 mystical_beasts common_enemy сумеру 3.4 опустошённая оболочка / прочная оболочка / меченая оболочка shells 残毁的横脊 / 密固的横脊 / 锲纹的横脊"
+  },
+  {
+    "id": "consecrated_horned_crocodile",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/consecrated_horned_crocodile.webp",
+    "title": {
+      "ru": "Священный рогатый крокодил",
+      "en": "Consecrated Horned Crocodile",
+      "zh": "圣骸角鳄"
+    },
+    "region": "Сумеру",
+    "game_version": "3.6",
+    "tags": [
+      "Священный рогатый крокодил",
+      "Consecrated Horned Crocodile",
+      "圣骸角鳄"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 3006000,
+    "search_text": "священный рогатый крокодил consecrated horned crocodile 圣骸角鳄 mystical_beasts common_enemy сумеру 3.6 опустошённая оболочка / прочная оболочка / меченая оболочка shells 残毁的横脊 / 密固的横脊 / 锲纹的横脊"
+  },
+  {
+    "id": "consecrated_red_vulture",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/consecrated_red_vulture.webp",
+    "title": {
+      "ru": "Священный красный стервятник",
+      "en": "Consecrated Red Vulture",
+      "zh": "圣骸赤鹫"
+    },
+    "region": "Сумеру",
+    "game_version": "3.4",
+    "tags": [
+      "Священный красный стервятник",
+      "Consecrated Red Vulture",
+      "圣骸赤鹫"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 3004000,
+    "search_text": "священный красный стервятник consecrated red vulture 圣骸赤鹫 mystical_beasts common_enemy сумеру 3.4 опустошённая оболочка / прочная оболочка / меченая оболочка shells 残毁的横脊 / 密固的横脊 / 锲纹的横脊"
+  },
+  {
+    "id": "consecrated_scorpion",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/consecrated_scorpion.webp",
+    "title": {
+      "ru": "Священный скорпион",
+      "en": "Consecrated Scorpion",
+      "zh": "圣骸毒蝎"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "3.4",
+    "tags": [
+      "Священный скорпион",
+      "Consecrated Scorpion",
+      "圣骸毒蝎"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 3004000,
+    "search_text": "священный скорпион consecrated scorpion 圣骸毒蝎 mystical_beasts common_enemy инадзума, сумеру 3.4 опустошённая оболочка / прочная оболочка / меченая оболочка shells 残毁的横脊 / 密固的横脊 / 锲纹的横脊"
+  },
+  {
+    "id": "cryo_whopperflower",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cryo_whopperflower.webp",
+    "title": {
+      "ru": "Крио попрыгунья",
+      "en": "Cryo Whopperflower",
+      "zh": "冰霜骗骗花"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "1.0",
+    "tags": [
+      "Крио попрыгунья",
+      "Cryo Whopperflower",
+      "冰霜骗骗花"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 1000000,
+    "search_text": "крио попрыгунья cryo whopperflower 冰霜骗骗花 mystical_beasts common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 нектар попрыгуньи / мерцающий нектар / элементальный нектар nectars 骗骗花蜜 / 微光花蜜 / 原素花蜜"
+  },
+  {
+    "id": "electro_whopperflower",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/electro_whopperflower.webp",
+    "title": {
+      "ru": "Электро попрыгунья",
+      "en": "Electro Whopperflower",
+      "zh": "电气骗骗花"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "1.0",
+    "tags": [
+      "Электро попрыгунья",
+      "Electro Whopperflower",
+      "电气骗骗花"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 1000000,
+    "search_text": "электро попрыгунья electro whopperflower 电气骗骗花 mystical_beasts common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 нектар попрыгуньи / мерцающий нектар / элементальный нектар nectars 骗骗花蜜 / 微光花蜜 / 原素花蜜"
+  },
+  {
+    "id": "eroding_avatar_of_lava",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eroding_avatar_of_lava.webp",
+    "title": {
+      "ru": "Разлагающееся воплощение лавы",
+      "en": "Eroding Avatar of Lava",
+      "zh": "熔岩游像 · 蚀土者"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Разлагающееся воплощение лавы",
+      "Eroding Avatar of Lava",
+      "熔岩游像 · 蚀土者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "разлагающееся воплощение лавы eroding avatar of lava 熔岩游像 · 蚀土者 mystical_beasts common_enemy натлан 5.0 пламенный камень / пламенное семя жизни / пламенное око igniteds 聚燃的石块 / 聚燃的命种 / 聚燃的游像眼"
+  },
+  {
+    "id": "floating_anemo_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/floating_anemo_fungus.webp",
+    "title": {
+      "ru": "Парящий Анемо плесенник",
+      "en": "Floating Anemo Fungus",
+      "zh": "浮游风蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Парящий Анемо плесенник",
+      "Floating Anemo Fungus",
+      "浮游风蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "парящий анемо плесенник floating anemo fungus 浮游风蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "floating_dendro_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/floating_dendro_fungus.webp",
+    "title": {
+      "ru": "Парящий Дендро плесенник",
+      "en": "Floating Dendro Fungus",
+      "zh": "浮游草蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Парящий Дендро плесенник",
+      "Floating Dendro Fungus",
+      "浮游草蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "парящий дендро плесенник floating dendro fungus 浮游草蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "floating_hydro_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/floating_hydro_fungus.webp",
+    "title": {
+      "ru": "Парящий Гидро плесенник",
+      "en": "Floating Hydro Fungus",
+      "zh": "浮游水蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Парящий Гидро плесенник",
+      "Floating Hydro Fungus",
+      "浮游水蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "парящий гидро плесенник floating hydro fungus 浮游水蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "flow_inverted_wayob_manifestation",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/flow_inverted_wayob_manifestation.webp",
+    "title": {
+      "ru": "Воплощение Вайоб обращённого течения",
+      "en": "Flow-Inverted Wayob Manifestation",
+      "zh": "溯流 · 大灵显化身"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Воплощение Вайоб обращённого течения",
+      "Flow-Inverted Wayob Manifestation",
+      "溯流 · 大灵显化身"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "воплощение вайоб обращённого течения flow-inverted wayob manifestation 溯流 · 大灵显化身 mystical_beasts common_enemy натлан 5.0 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+  },
+  {
+    "id": "fluid_avatar_of_lava",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fluid_avatar_of_lava.webp",
+    "title": {
+      "ru": "Текучее воплощение лавы",
+      "en": "Fluid Avatar of Lava",
+      "zh": "熔岩游像 · 流燃体"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Текучее воплощение лавы",
+      "Fluid Avatar of Lava",
+      "熔岩游像 · 流燃体"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "текучее воплощение лавы fluid avatar of lava 熔岩游像 · 流燃体 mystical_beasts common_enemy натлан 5.0 пламенный камень / пламенное семя жизни / пламенное око igniteds 聚燃的石块 / 聚燃的命种 / 聚燃的游像眼"
+  },
+  {
+    "id": "foliar_swift_wayob_manifestation",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/foliar_swift_wayob_manifestation.webp",
+    "title": {
+      "ru": "Воплощение Вайоб стремительности и листвы",
+      "en": "Foliar-Swift Wayob Manifestation",
+      "zh": "疾叶 · 大灵显化身"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Воплощение Вайоб стремительности и листвы",
+      "Foliar-Swift Wayob Manifestation",
+      "疾叶 · 大灵显化身"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "воплощение вайоб стремительности и листвы foliar-swift wayob manifestation 疾叶 · 大灵显化身 mystical_beasts common_enemy натлан 5.0 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+  },
+  {
+    "id": "furnace_shell_mountain_weasel",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/furnace_shell_mountain_weasel.webp",
+    "title": {
+      "ru": "Термопанцирный горный хорь",
+      "en": "Furnace Shell Mountain Weasel",
+      "zh": "炉壳山鼬"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Термопанцирный горный хорь",
+      "Furnace Shell Mountain Weasel",
+      "炉壳山鼬"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5005000,
+    "search_text": "термопанцирный горный хорь furnace shell mountain weasel 炉壳山鼬 mystical_beasts common_enemy натлан 5.5 холодный осколок панциря / тёплый панцирь / пылающий призмопанцирь shellshards 冷裂壳块 / 蕴热的背壳 / 明燃的棱状壳"
+  },
+  {
+    "id": "geovishap",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/geovishap.webp",
+    "title": {
+      "ru": "Геовишап",
+      "en": "Geovishap",
+      "zh": "岩龙蜥"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.3",
+    "tags": [
+      "Геовишап",
+      "Geovishap",
+      "岩龙蜥"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 1003000,
+    "search_text": "геовишап geovishap 岩龙蜥 mystical_beasts common_enemy ли юэ 1.3 хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片"
+  },
+  {
+    "id": "geovishap_hatchling",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/geovishap_hatchling.webp",
+    "title": {
+      "ru": "Детёныш геовишапа",
+      "en": "Geovishap Hatchling",
+      "zh": "幼岩龙蜥"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "tags": [
+      "Детёныш геовишапа",
+      "Geovishap Hatchling",
+      "幼岩龙蜥"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 1000000,
+    "search_text": "детёныш геовишапа geovishap hatchling 幼岩龙蜥 mystical_beasts common_enemy ли юэ 1.0 хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片"
+  },
+  {
+    "id": "grounded_geoshroom",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/grounded_geoshroom.webp",
+    "title": {
+      "ru": "Земляной Гео моровик",
+      "en": "Grounded Geoshroom",
+      "zh": "陆行岩本真蕈"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Земляной Гео моровик",
+      "Grounded Geoshroom",
+      "陆行岩本真蕈"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "земляной гео моровик grounded geoshroom 陆行岩本真蕈 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "grounded_hydroshroom",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/grounded_hydroshroom.webp",
+    "title": {
+      "ru": "Земляной Гидро моровик",
+      "en": "Grounded Hydroshroom",
+      "zh": "陆行水本真蕈"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Земляной Гидро моровик",
+      "Grounded Hydroshroom",
+      "陆行水本真蕈"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "земляной гидро моровик grounded hydroshroom 陆行水本真蕈 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "hat_jellyfish",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hat_jellyfish.webp",
+    "title": {
+      "ru": "Шляповидная медуза",
+      "en": "Hat Jellyfish",
+      "zh": "帽子水母"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Шляповидная медуза",
+      "Hat Jellyfish",
+      "帽子水母"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "шляповидная медуза hat jellyfish 帽子水母 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "hunters_ray",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hunters_ray.webp",
+    "title": {
+      "ru": "Остроскат",
+      "en": "Hunter's Ray",
+      "zh": "猎刀鳐"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Остроскат",
+      "Hunter's Ray",
+      "猎刀鳐"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "остроскат hunter's ray 猎刀鳐 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "iktomisaurus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/iktomisaurus.webp",
+    "title": {
+      "ru": "Иктомизавр",
+      "en": "Iktomisaurus",
+      "zh": "暝视龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Иктомизавр",
+      "Iktomisaurus",
+      "暝视龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "иктомизавр iktomisaurus 暝视龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "iktomisaurus_chick",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/iktomisaurus_chick.webp",
+    "title": {
+      "ru": "Детёныш иктомизавра",
+      "en": "Iktomisaurus Chick",
+      "zh": "幼暝视龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Детёныш иктомизавра",
+      "Iktomisaurus Chick",
+      "幼暝视龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "детёныш иктомизавра iktomisaurus chick 幼暝视龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "koholasaur_whelp",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/koholasaur_whelp.webp",
+    "title": {
+      "ru": "Детёныш кохолазавра",
+      "en": "Koholasaur Whelp",
+      "zh": "幼鳍游龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Детёныш кохолазавра",
+      "Koholasaur Whelp",
+      "幼鳍游龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "детёныш кохолазавра koholasaur whelp 幼鳍游龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "koholasaurus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/koholasaurus.webp",
+    "title": {
+      "ru": "Кохолазавр",
+      "en": "Koholasaurus",
+      "zh": "鳍游龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кохолазавр",
+      "Koholasaurus",
+      "鳍游龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "кохолазавр koholasaurus 鳍游龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "praetorian_golem",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/praetorian_golem.webp",
+    "title": {
+      "ru": "Преторианец",
+      "en": "Praetorian Golem",
+      "zh": "魔像禁卫"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.6",
+    "tags": [
+      "Преторианец",
+      "Praetorian Golem",
+      "魔像禁卫"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4006000,
+    "search_text": "преторианец praetorian golem 魔像禁卫 mystical_beasts common_enemy фонтейн 4.6 сломанный эфес / расщеплённый эфес / неугасающий эфес hilts 残毁的剑柄 / 裂断的剑柄 / 未熄的剑柄"
+  },
+  {
+    "id": "primordial_bathysmal_vishap",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/primordial_bathysmal_vishap.webp",
+    "title": {
+      "ru": "Вишап глубин: Исток",
+      "en": "Primordial Bathysmal Vishap",
+      "zh": "深海龙蜥·原种"
+    },
+    "region": "Инадзума",
+    "game_version": "2.4",
+    "tags": [
+      "Вишап глубин: Исток",
+      "Primordial Bathysmal Vishap",
+      "深海龙蜥·原种"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2004000,
+    "search_text": "вишап глубин: исток primordial bathysmal vishap 深海龙蜥·原种 mystical_beasts common_enemy инадзума 2.4 хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片"
+  },
+  {
+    "id": "primordial_bathysmal_vishap_hatchling",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/primordial_bathysmal_vishap_hatchling.webp",
+    "title": {
+      "ru": "Молодой вишап глубин: Исток",
+      "en": "Primordial Bathysmal Vishap Hatchling",
+      "zh": "深海龙蜥幼体·原种"
+    },
+    "region": "Инадзума",
+    "game_version": "2.4",
+    "tags": [
+      "Молодой вишап глубин: Исток",
+      "Primordial Bathysmal Vishap Hatchling",
+      "深海龙蜥幼体·原种"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2004000,
+    "search_text": "молодой вишап глубин: исток primordial bathysmal vishap hatchling 深海龙蜥幼体·原种 mystical_beasts common_enemy инадзума 2.4 хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片"
+  },
+  {
+    "id": "pyro_whopperflower",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/pyro_whopperflower.webp",
+    "title": {
+      "ru": "Пиро попрыгунья",
+      "en": "Pyro Whopperflower",
+      "zh": "炽热骗骗花"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн",
+    "game_version": "1.0",
+    "tags": [
+      "Пиро попрыгунья",
+      "Pyro Whopperflower",
+      "炽热骗骗花"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 1000000,
+    "search_text": "пиро попрыгунья pyro whopperflower 炽热骗骗花 mystical_beasts common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн 1.0 нектар попрыгуньи / мерцающий нектар / элементальный нектар nectars 骗骗花蜜 / 微光花蜜 / 原素花蜜"
+  },
+  {
+    "id": "qucusaurus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/qucusaurus.webp",
+    "title": {
+      "ru": "Кукузавр",
+      "en": "Qucusaurus",
+      "zh": "绒翼龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кукузавр",
+      "Qucusaurus",
+      "绒翼龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "кукузавр qucusaurus 绒翼龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "qucusaurus_chick",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/qucusaurus_chick.webp",
+    "title": {
+      "ru": "Детёныш кукузавра",
+      "en": "Qucusaurus Chick",
+      "zh": "幼绒翼龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Детёныш кукузавра",
+      "Qucusaurus Chick",
+      "幼绒翼龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "детёныш кукузавра qucusaurus chick 幼绒翼龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "radiant_antelope",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/radiant_antelope.webp",
+    "title": {
+      "ru": "Лучезарная антилопа",
+      "en": "Radiant Antelope",
+      "zh": "蕴光奇羊"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Лучезарная антилопа",
+      "Radiant Antelope",
+      "蕴光奇羊"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 6000000,
+    "search_text": "лучезарная антилопа radiant antelope 蕴光奇羊 mystical_beasts common_enemy нод-край 6.0 потускневшая кость / светящиеся останки / сияющая кость bones 失光块骨 / 稀光遗骼 / 繁光躯外骸"
+  },
+  {
+    "id": "radiant_bladehorn",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/radiant_bladehorn.webp",
+    "title": {
+      "ru": "Лучезарный мечерог",
+      "en": "Radiant Bladehorn",
+      "zh": "蕴光刃犀"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Лучезарный мечерог",
+      "Radiant Bladehorn",
+      "蕴光刃犀"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 6000000,
+    "search_text": "лучезарный мечерог radiant bladehorn 蕴光刃犀 mystical_beasts common_enemy нод-край 6.0 потускневшая кость / светящиеся останки / сияющая кость bones 失光块骨 / 稀光遗骼 / 繁光躯外骸"
+  },
+  {
+    "id": "radiant_lunapod",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/radiant_lunapod.webp",
+    "title": {
+      "ru": "Лучезарный лунапод",
+      "en": "Radiant Lunapod",
+      "zh": "蕴光璇蛸"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Лучезарный лунапод",
+      "Radiant Lunapod",
+      "蕴光璇蛸"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 6000000,
+    "search_text": "лучезарный лунапод radiant lunapod 蕴光璇蛸 mystical_beasts common_enemy нод-край 6.0 потускневшая кость / светящиеся останки / сияющая кость bones 失光块骨 / 稀光遗骼 / 繁光躯外骸"
+  },
+  {
+    "id": "rimebiter_bathysmal_vishap_hatchling",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/rimebiter_bathysmal_vishap_hatchling.webp",
+    "title": {
+      "ru": "Молодой вишап глубин: Ледогрыз",
+      "en": "Rimebiter Bathysmal Vishap Hatchling",
+      "zh": "深海龙蜥幼体·啮冰"
+    },
+    "region": "Инадзума",
+    "game_version": "2.4",
+    "tags": [
+      "Молодой вишап глубин: Ледогрыз",
+      "Rimebiter Bathysmal Vishap Hatchling",
+      "深海龙蜥幼体·啮冰"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2004000,
+    "search_text": "молодой вишап глубин: ледогрыз rimebiter bathysmal vishap hatchling 深海龙蜥幼体·啮冰 mystical_beasts common_enemy инадзума 2.4 хрупкие останки / крепкие останки / окаменевшие останки bone shards 脆弱的骨片 / 结实的骨片 / 石化的骨片"
+  },
+  {
+    "id": "rock_cavernous_wayob_manifestation",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/rock_cavernous_wayob_manifestation.webp",
+    "title": {
+      "ru": "Воплощение Вайоб пещер и скал",
+      "en": "Rock-Cavernous Wayob Manifestation",
+      "zh": "窟岩 · 大灵显化身"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Воплощение Вайоб пещер и скал",
+      "Rock-Cavernous Wayob Manifestation",
+      "窟岩 · 大灵显化身"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "воплощение вайоб пещер и скал rock-cavernous wayob manifestation 窟岩 · 大灵显化身 mystical_beasts common_enemy натлан 5.0 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+  },
+  {
+    "id": "sternshield_crab",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/sternshield_crab.webp",
+    "title": {
+      "ru": "Бронекраб-щитовик",
+      "en": "Sternshield Crab",
+      "zh": "坚盾重甲蟹"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Бронекраб-щитовик",
+      "Sternshield Crab",
+      "坚盾重甲蟹"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4000000,
+    "search_text": "бронекраб-щитовик sternshield crab 坚盾重甲蟹 mystical_beasts common_enemy фонтейн 4.0 жемчужина иноморья / обломок из иноморья / ксенохромный кристалл pearls 异海凝珠 / 异海之块 / 异色结晶石"
+  },
+  {
+    "id": "stretchy_anemo_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/stretchy_anemo_fungus.webp",
+    "title": {
+      "ru": "Растягивающийся Анемо плесенник",
+      "en": "Stretchy Anemo Fungus",
+      "zh": "伸缩风蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Растягивающийся Анемо плесенник",
+      "Stretchy Anemo Fungus",
+      "伸缩风蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "растягивающийся анемо плесенник stretchy anemo fungus 伸缩风蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "stretchy_electro_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/stretchy_electro_fungus.webp",
+    "title": {
+      "ru": "Растягивающийся Электро плесенник",
+      "en": "Stretchy Electro Fungus",
+      "zh": "伸缩雷蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Растягивающийся Электро плесенник",
+      "Stretchy Electro Fungus",
+      "伸缩雷蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "растягивающийся электро плесенник stretchy electro fungus 伸缩雷蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "stretchy_geo_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/stretchy_geo_fungus.webp",
+    "title": {
+      "ru": "Растягивающийся Гео плесенник",
+      "en": "Stretchy Geo Fungus",
+      "zh": "伸缩岩蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Растягивающийся Гео плесенник",
+      "Stretchy Geo Fungus",
+      "伸缩岩蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "растягивающийся гео плесенник stretchy geo fungus 伸缩岩蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "stretchy_pyro_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/stretchy_pyro_fungus.webp",
+    "title": {
+      "ru": "Растягивающийся Пиро плесенник",
+      "en": "Stretchy Pyro Fungus",
+      "zh": "伸缩火蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Растягивающийся Пиро плесенник",
+      "Stretchy Pyro Fungus",
+      "伸缩火蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "растягивающийся пиро плесенник stretchy pyro fungus 伸缩火蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "tatankasaur_whelp",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tatankasaur_whelp.webp",
+    "title": {
+      "ru": "Детёныш татанказавра",
+      "en": "Tatankasaur Whelp",
+      "zh": "幼突角龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Детёныш татанказавра",
+      "Tatankasaur Whelp",
+      "幼突角龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5005000,
+    "search_text": "детёныш татанказавра tatankasaur whelp 幼突角龙 mystical_beasts common_enemy натлан 5.5 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "tatankasaurus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tatankasaurus.webp",
+    "title": {
+      "ru": "Татанказавр",
+      "en": "Tatankasaurus",
+      "zh": "突角龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Татанказавр",
+      "Tatankasaurus",
+      "突角龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5005000,
+    "search_text": "татанказавр tatankasaurus 突角龙 mystical_beasts common_enemy натлан 5.5 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "tepetlisaur_whelp",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tepetlisaur_whelp.webp",
+    "title": {
+      "ru": "Детёныш тепетлизавра",
+      "en": "Tepetlisaur Whelp",
+      "zh": "幼嵴锋龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Детёныш тепетлизавра",
+      "Tepetlisaur Whelp",
+      "幼嵴锋龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "детёныш тепетлизавра tepetlisaur whelp 幼嵴锋龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "tepetlisaurus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tepetlisaurus.webp",
+    "title": {
+      "ru": "Тепетлизавр",
+      "en": "Tepetlisaurus",
+      "zh": "嵴锋龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Тепетлизавр",
+      "Tepetlisaurus",
+      "嵴锋龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "тепетлизавр tepetlisaurus 嵴锋龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "thundering_wayob_manifestation",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/thundering_wayob_manifestation.webp",
+    "title": {
+      "ru": "Воплощение Вайоб раскатов грома",
+      "en": "Thundering Wayob Manifestation",
+      "zh": "雳震·大灵显化身"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Воплощение Вайоб раскатов грома",
+      "Thundering Wayob Manifestation",
+      "雳震·大灵显化身"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5005000,
+    "search_text": "воплощение вайоб раскатов грома thundering wayob manifestation 雳震·大灵显化身 mystical_beasts common_enemy натлан 5.5 осколок разбитой воли / образ ясной воли / талисман странствующей воли of a wills 意志破碎的残片 / 意志明晰的寄偶 / 意志巡游的符像"
+  },
+  {
+    "id": "whirling_cryo_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/whirling_cryo_fungus.webp",
+    "title": {
+      "ru": "Кружащий Крио плесенник",
+      "en": "Whirling Cryo Fungus",
+      "zh": "旋转冰蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Кружащий Крио плесенник",
+      "Whirling Cryo Fungus",
+      "旋转冰蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "кружащий крио плесенник whirling cryo fungus 旋转冰蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "whirling_electro_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/whirling_electro_fungus.webp",
+    "title": {
+      "ru": "Кружащий Электро плесенник",
+      "en": "Whirling Electro Fungus",
+      "zh": "旋转雷蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Кружащий Электро плесенник",
+      "Whirling Electro Fungus",
+      "旋转雷蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "кружащий электро плесенник whirling electro fungus 旋转雷蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "whirling_pyro_fungus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/whirling_pyro_fungus.webp",
+    "title": {
+      "ru": "Кружащий Пиро плесенник",
+      "en": "Whirling Pyro Fungus",
+      "zh": "旋转火蕈兽"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Кружащий Пиро плесенник",
+      "Whirling Pyro Fungus",
+      "旋转火蕈兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "кружащий пиро плесенник whirling pyro fungus 旋转火蕈兽 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "winged_cryoshroom",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/winged_cryoshroom.webp",
+    "title": {
+      "ru": "Крылатый Крио моровик",
+      "en": "Winged Cryoshroom",
+      "zh": "有翼冰本真蕈"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Крылатый Крио моровик",
+      "Winged Cryoshroom",
+      "有翼冰本真蕈"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "крылатый крио моровик winged cryoshroom 有翼冰本真蕈 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "winged_dendroshroom",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/winged_dendroshroom.webp",
+    "title": {
+      "ru": "Крылатый Дендро моровик",
+      "en": "Winged Dendroshroom",
+      "zh": "有翼草本真蕈"
+    },
+    "region": "Сумеру",
+    "game_version": "2.6",
+    "tags": [
+      "Крылатый Дендро моровик",
+      "Winged Dendroshroom",
+      "有翼草本真蕈"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 2006000,
+    "search_text": "крылатый дендро моровик winged dendroshroom 有翼草本真蕈 mystical_beasts common_enemy сумеру 2.6 неактивное ядро плесенника / спящее ядро плесенника / здоровое ядро плесенника fungal nucleus 失活菌核 / 休眠菌核 / 茁壮菌核 споры плесенника / светящаяся пыльца / пыль кристаллоцистов spores 蕈兽孢子 / 荧光孢粉 / 孢囊晶尘"
+  },
+  {
+    "id": "xuanwen_beast",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/xuanwen_beast.webp",
+    "title": {
+      "ru": "Зверь Сюаньвэнь",
+      "en": "Xuanwen Beast",
+      "zh": "玄文兽"
+    },
+    "region": "Ли Юэ",
+    "game_version": "4.4",
+    "tags": [
+      "Зверь Сюаньвэнь",
+      "Xuanwen Beast",
+      "玄文兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 4004000,
+    "search_text": "зверь сюаньвэнь xuanwen beast 玄文兽 mystical_beasts common_enemy ли юэ 4.4 перьевой плавник / лунный плавник / глубинный плавник fins 羽状鳍翅 / 月色鳍翅 / 渊光鳍翅"
+  },
+  {
+    "id": "yumkasaur_whelp",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/yumkasaur_whelp.webp",
+    "title": {
+      "ru": "Детёныш юмказавра",
+      "en": "Yumkasaur Whelp",
+      "zh": "幼匿叶龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Детёныш юмказавра",
+      "Yumkasaur Whelp",
+      "幼匿叶龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "детёныш юмказавра yumkasaur whelp 幼匿叶龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  },
+  {
+    "id": "yumkasaurus",
+    "category": "enemies",
+    "enemy_group": "mystical_beasts",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/yumkasaurus.webp",
+    "title": {
+      "ru": "Юмказавр",
+      "en": "Yumkasaurus",
+      "zh": "匿叶龙"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Юмказавр",
+      "Yumkasaurus",
+      "匿叶龙"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "mystical_beasts"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "mystical_beasts",
+    "sort_version": 5000000,
+    "search_text": "юмказавр yumkasaurus 匿叶龙 mystical_beasts common_enemy натлан 5.0 молодой клык / клык взрослого / клык тирана fangs 稚嫩的尖齿 / 老练的坚齿 / 横行霸者的利齿"
+  }
+]

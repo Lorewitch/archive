@@ -1,6 +1,7 @@
 # id: quest_wq_73530
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Fayz Trials/2024-03-22
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Научная репутация на кону
 # title_en: Fight for Academic Reputation!
 # title_zh: 为学术声誉而战

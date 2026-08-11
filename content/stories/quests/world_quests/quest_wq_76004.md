@@ -1,6 +1,7 @@
 # id: quest_wq_76004
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Правила или интуиция?
 # title_en: Team Rigor, or Team Intuition?
 # title_zh: 是严谨派还是悟性派？

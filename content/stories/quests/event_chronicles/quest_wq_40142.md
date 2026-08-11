@@ -1,6 +1,7 @@
 # id: quest_wq_40142
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Vibrant Harriers Aloft in Spring Breeze
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Суета жизни
 # title_en: Hustle and Bustle
 # title_zh: 人来人往

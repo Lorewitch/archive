@@ -1,6 +1,7 @@
 # id: quest_wq_71038
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Отблески храбрости: Возвращение к закату
 # title_en: Valor's Afterglow: Return by Sundown
 # title_zh: 勇气的余晖·日落当归

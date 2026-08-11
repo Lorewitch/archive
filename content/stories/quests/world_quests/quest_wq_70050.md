@@ -1,10 +1,11 @@
 # id: quest_wq_70050
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Цяоин, деревня историй
 # title_en: Qiaoying, the Village of Many Tales
 # title_zh: 故事繁多的翘英庄
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 70050

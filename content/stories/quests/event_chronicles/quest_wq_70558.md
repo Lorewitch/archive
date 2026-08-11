@@ -1,6 +1,7 @@
 # id: quest_wq_70558
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Surveying & Mapping Studies
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Обучение картографии
 # title_en: A Knight's Guide to Surveying
 # title_zh: 骑士的测绘教学

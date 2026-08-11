@@ -1,6 +1,7 @@
 # id: quest_wq_72196
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Судьба бойца
 # title_en: Fate of a Fighter
 # title_zh: 武者的宿命

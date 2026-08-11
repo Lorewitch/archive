@@ -1,10 +1,11 @@
 # id: quest_wq_74000
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: На цветочном лугу
 # title_en: Upon a Flowery Field of Grass
 # title_zh: 在开满鲜花的草地上
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74000

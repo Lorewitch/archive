@@ -1,6 +1,7 @@
 # id: quest_wq_72656
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Театр Механикус
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Театр Механикус
 # title_en: Theater Mechanicus
 # title_zh: 机关棋谭

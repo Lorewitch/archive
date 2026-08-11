@@ -1,6 +1,7 @@
 # id: quest_wq_76500
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lightgleaner's Journey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Дар воспоминаний
 # title_en: A Gift of Memories
 # title_zh: 定格回忆的赠礼

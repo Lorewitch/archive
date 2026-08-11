@@ -1,5 +1,6 @@
 # id: quest_aq_1003
 # story_group: archon_quests
+# display_category: Задание Архонтов · Мондштадт
 # icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Песнь о драконьей свободе
 # title_en: Song of the Dragon and Freedom

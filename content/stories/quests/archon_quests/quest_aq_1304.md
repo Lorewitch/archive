@@ -1,5 +1,6 @@
 # id: quest_aq_1304
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Царь Дешрет и три волхва
 # title_en: King Deshret and the Three Magi

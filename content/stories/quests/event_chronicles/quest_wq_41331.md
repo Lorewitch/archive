@@ -1,6 +1,7 @@
 # id: quest_wq_41331
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Фонари в деревне Цинцэ
 # title_en: Qingce's Lanterns
 # title_zh: 轻策庄的霄灯

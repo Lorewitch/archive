@@ -1,10 +1,11 @@
 # id: quest_wq_70822
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Спокойный день в порту Ли Юэ
 # title_en: A Quiet Day in Liyue Harbor
 # title_zh: 璃月港平静的一天
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70822

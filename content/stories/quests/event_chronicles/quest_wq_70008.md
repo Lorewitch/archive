@@ -1,6 +1,7 @@
 # id: quest_wq_70008
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Invitation of Windblume
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Напиток со вкусом ветра
 # title_en: Windbrew
 # title_zh: 「风」味饮料

@@ -1,5 +1,6 @@
 # id: quest_eq_10053
 # story_group: event_chronicles
+# display_category: Ивент · Краски мимолётности II
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: В путь за звёздами
 # title_en: Sky-Gazers, Land-Walkers

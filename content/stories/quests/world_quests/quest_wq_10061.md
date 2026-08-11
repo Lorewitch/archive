@@ -1,5 +1,6 @@
 # id: quest_wq_10061
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Подорожная грамота острова Рито
 # title_en: Ritou Travel Permit

@@ -1,5 +1,6 @@
 # id: quest_eq_10043
 # story_group: event_chronicles
+# display_category: Ивент · Лунное утешение
 # icon: assets/icons/stories/quests/lunarite.webp
 # title_ru: Шесть-семь-восемь-девять-десять, всё съедаю я на месте!
 # title_en: Three to Get Ready, and Here We Go

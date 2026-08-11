@@ -1,6 +1,7 @@
 # id: quest_wq_70030
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Слушая звуки мира
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Слушая звуки мира
 # title_en: Tuned to the World's Sounds
 # title_zh: 镜花听世

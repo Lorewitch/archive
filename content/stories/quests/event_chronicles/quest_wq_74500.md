@@ -1,6 +1,7 @@
 # id: quest_wq_74500
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Mega Meka Melee
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Игрушечная война: Пристрелка
 # title_en: The Toy War: Shots Fired
 # title_zh: 开火！玩具战争

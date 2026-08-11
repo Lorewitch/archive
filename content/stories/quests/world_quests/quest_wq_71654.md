@@ -1,6 +1,7 @@
 # id: quest_wq_71654
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Чайник - полная чаша. Часть II
 # title_en: A Teapot to Call Home: Part II
 # title_zh: 翠石砌玉壶·其二

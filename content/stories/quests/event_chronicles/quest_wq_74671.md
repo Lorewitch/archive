@@ -1,6 +1,7 @@
 # id: quest_wq_74671
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Взлёты и падения
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Взлёты и падения
 # title_en: The Peaks and Troughs of Life
 # title_zh: 人生的波峰与波谷

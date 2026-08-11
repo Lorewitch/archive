@@ -1,6 +1,7 @@
 # id: quest_wq_71167
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Lanternlit Ode to the Silver Moon (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Благословенные надежды
 # title_en: Wishing Wonderful Wishes
 # title_zh: 上许佳愿

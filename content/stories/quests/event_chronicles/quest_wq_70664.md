@@ -1,6 +1,7 @@
 # id: quest_wq_70664
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Ветер из подземелья
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ветер из подземелья
 # title_en: Windswept Domain
 # title_zh: 秘境来风

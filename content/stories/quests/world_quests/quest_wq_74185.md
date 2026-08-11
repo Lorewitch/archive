@@ -1,6 +1,7 @@
 # id: quest_wq_74185
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Во имя прошлого и будущего
 # title_en: For Yesterday and Tomorrow
 # title_zh: 为了旧日与明天

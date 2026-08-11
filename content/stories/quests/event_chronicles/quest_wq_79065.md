@@ -1,6 +1,7 @@
 # id: quest_wq_79065
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertide Scales and Tales
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Лотос и чемпион
 # title_en: The Lotus Leaf and the Champion
 # title_zh: 荷叶与冠军

@@ -1,5 +1,6 @@
 # id: quest_eq_10174
 # story_group: event_chronicles
+# display_category: Ивент · Пролог? Глава I
 # icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Чужеземец, поймавший ветер
 # title_en: The Outlander Who Caught the Wind

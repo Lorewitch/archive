@@ -1,10 +1,11 @@
 # id: quest_wq_73662
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Варенье для Араеша
 # title_en: Arayesh's Jam
 # title_zh: 阿拉耶什的果酱需求
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73662

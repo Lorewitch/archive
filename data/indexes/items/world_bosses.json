@@ -1,0 +1,2035 @@
+[
+  {
+    "id": "aeonblight_drake",
+    "category": "items",
+    "icon": "assets/icons/enemies/aeonblight_drake.webp",
+    "title": {
+      "ru": "Дракон вечных бедствий",
+      "en": "Aeonblight Drake",
+      "zh": "兆载永劫龙兽"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "perpetual_caliber",
+        "title": {
+          "ru": "Вечный механизм",
+          "en": "Perpetual Caliber",
+          "zh": "永续机芯"
+        },
+        "icon": "assets/icons/items/world_bosses/perpetual_caliber.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3001000,
+    "search_text": "дракон вечных бедствий aeonblight drake 兆载永劫龙兽 сумеру 3.1 world_bosses enemy_drops perpetual_caliber вечный механизм perpetual caliber 永续机芯"
+  },
+  {
+    "id": "algorithm_of_semi_intransient_matrix_of_overseer_network",
+    "category": "items",
+    "icon": "assets/icons/enemies/algorithm_of_semi_intransient_matrix_of_overseer_network.webp",
+    "title": {
+      "ru": "Алгоритм полуизвечной матрицы оператора наблюдения",
+      "en": "Algorithm of Semi-Intransient Matrix of Overseer Network",
+      "zh": "半永恒统辖矩阵"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "light_guiding_tetrahedron",
+        "title": {
+          "ru": "Светопроводящий тетраэдр",
+          "en": "Light Guiding Tetrahedron",
+          "zh": "导光四面体"
+        },
+        "icon": "assets/icons/items/world_bosses/light_guiding_tetrahedron.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3001000,
+    "search_text": "алгоритм полуизвечной матрицы оператора наблюдения algorithm of semi-intransient matrix of overseer network 半永恒统辖矩阵 сумеру 3.1 world_bosses enemy_drops light_guiding_tetrahedron светопроводящий тетраэдр light guiding tetrahedron 导光四面体"
+  },
+  {
+    "id": "anemo_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/anemo_hypostasis.webp",
+    "title": {
+      "ru": "Анемо гипостазис",
+      "en": "Anemo Hypostasis",
+      "zh": "无相之风"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "hurricane_seed",
+        "title": {
+          "ru": "Семя урагана",
+          "en": "Hurricane Seed",
+          "zh": "飓风之种"
+        },
+        "icon": "assets/icons/items/world_bosses/hurricane_seed.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "анемо гипостазис anemo hypostasis 无相之风 мондштадт 1.0 world_bosses enemy_drops hurricane_seed семя урагана hurricane seed 飓风之种"
+  },
+  {
+    "id": "bathysmal_vishap_herd",
+    "category": "items",
+    "icon": "assets/icons/enemies/bathysmal_vishap_herd.webp",
+    "title": {
+      "ru": "Стая вишапов глубин",
+      "en": "Bathysmal Vishap Herd",
+      "zh": "深海龙蜥之群"
+    },
+    "region": "Инадзума",
+    "game_version": "2.4",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "dragonheirs_false_fin",
+        "title": {
+          "ru": "Ложный плавник Дракона глубин",
+          "en": "Dragonheir's False Fin",
+          "zh": "龙嗣伪鳍"
+        },
+        "icon": "assets/icons/items/world_bosses/dragonheirs_false_fin.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2004000,
+    "search_text": "стая вишапов глубин bathysmal vishap herd 深海龙蜥之群 инадзума 2.4 world_bosses enemy_drops dragonheirs_false_fin ложный плавник дракона глубин dragonheir's false fin 龙嗣伪鳍"
+  },
+  {
+    "id": "cryo_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/cryo_hypostasis.webp",
+    "title": {
+      "ru": "Крио гипостазис",
+      "en": "Cryo Hypostasis",
+      "zh": "无相之冰"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.5",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "crystalline_bloom",
+        "title": {
+          "ru": "Цветение кристалла",
+          "en": "Crystalline Bloom",
+          "zh": "晶凝之华"
+        },
+        "icon": "assets/icons/items/world_bosses/crystalline_bloom.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1005000,
+    "search_text": "крио гипостазис cryo hypostasis 无相之冰 мондштадт 1.5 world_bosses enemy_drops crystalline_bloom цветение кристалла crystalline bloom 晶凝之华"
+  },
+  {
+    "id": "cryo_regisvine",
+    "category": "items",
+    "icon": "assets/icons/enemies/cryo_regisvine.webp",
+    "title": {
+      "ru": "Крио папоротник",
+      "en": "Cryo Regisvine",
+      "zh": "急冻树"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "hoarfrost_core",
+        "title": {
+          "ru": "Инеевое ядро",
+          "en": "Hoarfrost Core",
+          "zh": "极寒之核"
+        },
+        "icon": "assets/icons/items/world_bosses/hoarfrost_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "крио папоротник cryo regisvine 急冻树 мондштадт 1.0 world_bosses enemy_drops hoarfrost_core инеевое ядро hoarfrost core 极寒之核"
+  },
+  {
+    "id": "dendro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/dendro_hypostasis.webp",
+    "title": {
+      "ru": "Дендро гипостазис",
+      "en": "Dendro Hypostasis",
+      "zh": "无相之草"
+    },
+    "region": "Сумеру",
+    "game_version": "3.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "quelled_creeper",
+        "title": {
+          "ru": "Подавленная лоза",
+          "en": "Quelled Creeper",
+          "zh": "灭诤草蔓"
+        },
+        "icon": "assets/icons/items/world_bosses/quelled_creeper.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3002000,
+    "search_text": "дендро гипостазис dendro hypostasis 无相之草 сумеру 3.2 world_bosses enemy_drops quelled_creeper подавленная лоза quelled creeper 灭诤草蔓"
+  },
+  {
+    "id": "electro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/electro_hypostasis.webp",
+    "title": {
+      "ru": "Электро гипостазис",
+      "en": "Electro Hypostasis",
+      "zh": "无相之雷"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "lightning_prism",
+        "title": {
+          "ru": "Призма молнии",
+          "en": "Lightning Prism",
+          "zh": "雷光棱镜"
+        },
+        "icon": "assets/icons/items/world_bosses/lightning_prism.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "электро гипостазис electro hypostasis 无相之雷 мондштадт 1.0 world_bosses enemy_drops lightning_prism призма молнии lightning prism 雷光棱镜"
+  },
+  {
+    "id": "electro_regisvine",
+    "category": "items",
+    "icon": "assets/icons/enemies/electro_regisvine.webp",
+    "title": {
+      "ru": "Электро папоротник",
+      "en": "Electro Regisvine",
+      "zh": "掣电树"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "thunderclap_fruitcore",
+        "title": {
+          "ru": "Плод грома",
+          "en": "Thunderclap Fruitcore",
+          "zh": "藏雷野实"
+        },
+        "icon": "assets/icons/items/world_bosses/thunderclap_fruitcore.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3000000,
+    "search_text": "электро папоротник electro regisvine 掣电树 сумеру 3.0 world_bosses enemy_drops thunderclap_fruitcore плод грома thunderclap fruitcore 藏雷野实"
+  },
+  {
+    "id": "emperor_of_fire_and_iron",
+    "category": "items",
+    "icon": "assets/icons/enemies/emperor_of_fire_and_iron.webp",
+    "title": {
+      "ru": "Император огня и железа",
+      "en": "Emperor of Fire and Iron",
+      "zh": "铁甲熔火帝皇"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "emperors_resolution",
+        "title": {
+          "ru": "Приговор императора",
+          "en": "Emperor's Resolution",
+          "zh": "帝皇的决断"
+        },
+        "icon": "assets/icons/items/world_bosses/emperors_resolution.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4000000,
+    "search_text": "император огня и железа emperor of fire and iron 铁甲熔火帝皇 фонтейн 4.0 world_bosses enemy_drops emperors_resolution приговор императора emperor's resolution 帝皇的决断"
+  },
+  {
+    "id": "experimental_field_generator",
+    "category": "items",
+    "icon": "assets/icons/enemies/experimental_field_generator.webp",
+    "title": {
+      "ru": "Экспериментальный генератор поля",
+      "en": "Experimental Field Generator",
+      "zh": "实验性场力发生装置"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "tourbillon_device",
+        "title": {
+          "ru": "Турбийон",
+          "en": "\"Tourbillon Device\"",
+          "zh": "「图比昂装置」"
+        },
+        "icon": "assets/icons/items/world_bosses/tourbillon_device.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4001000,
+    "search_text": "экспериментальный генератор поля experimental field generator 实验性场力发生装置 фонтейн 4.1 world_bosses enemy_drops tourbillon_device турбийон \"tourbillon device\" 「图比昂装置」"
+  },
+  {
+    "id": "frostnight_herra",
+    "category": "items",
+    "icon": "assets/icons/enemies/frostnight_herra.webp",
+    "title": {
+      "ru": "Повелитель морозной ночи",
+      "en": "Frostnight Herra",
+      "zh": "霜夜巡天灵主"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "radiant_antler",
+        "title": {
+          "ru": "Сияющий рог",
+          "en": "Radiant Antler",
+          "zh": "漫光的辉角"
+        },
+        "icon": "assets/icons/items/world_bosses/radiant_antler.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6001000,
+    "search_text": "повелитель морозной ночи frostnight herra 霜夜巡天灵主 нод-край 6.1 world_bosses enemy_drops radiant_antler сияющий рог radiant antler 漫光的辉角"
+  },
+  {
+    "id": "geo_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/geo_hypostasis.webp",
+    "title": {
+      "ru": "Гео гипостазис",
+      "en": "Geo Hypostasis",
+      "zh": "无相之岩"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "basalt_pillar",
+        "title": {
+          "ru": "Базальтовая колонна",
+          "en": "Basalt Pillar",
+          "zh": "玄岩之塔"
+        },
+        "icon": "assets/icons/items/world_bosses/basalt_pillar.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "гео гипостазис geo hypostasis 无相之岩 ли юэ 1.0 world_bosses enemy_drops basalt_pillar базальтовая колонна basalt pillar 玄岩之塔"
+  },
+  {
+    "id": "gluttonous_yumkasaur_mountain_king",
+    "category": "items",
+    "icon": "assets/icons/enemies/gluttonous_yumkasaur_mountain_king.webp",
+    "title": {
+      "ru": "Прожорливый Горный король-юмказавр",
+      "en": "Gluttonous Yumkasaur Mountain King",
+      "zh": "贪食匿叶龙山王"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "overripe_flamegranate",
+        "title": {
+          "ru": "Перезревший пламегранат",
+          "en": "Overripe Flamegranate",
+          "zh": "过熟的火榴果"
+        },
+        "icon": "assets/icons/items/world_bosses/overripe_flamegranate.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5000000,
+    "search_text": "прожорливый горный король-юмказавр gluttonous yumkasaur mountain king 贪食匿叶龙山王 натлан 5.0 world_bosses enemy_drops overripe_flamegranate перезревший пламегранат overripe flamegranate 过熟的火榴果"
+  },
+  {
+    "id": "golden_wolflord",
+    "category": "items",
+    "icon": "assets/icons/enemies/golden_wolflord.webp",
+    "title": {
+      "ru": "Золотой волчий вожак",
+      "en": "Golden Wolflord",
+      "zh": "黄金王兽"
+    },
+    "region": "Инадзума",
+    "game_version": "2.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "riftborn_regalia",
+        "title": {
+          "ru": "Эмблема Разрыва",
+          "en": "Riftborn Regalia",
+          "zh": "兽境王器"
+        },
+        "icon": "assets/icons/items/world_bosses/riftborn_regalia.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2003000,
+    "search_text": "золотой волчий вожак golden wolflord 黄金王兽 инадзума 2.3 world_bosses enemy_drops riftborn_regalia эмблема разрыва riftborn regalia 兽境王器"
+  },
+  {
+    "id": "goldflame_qucusaur_tyrant",
+    "category": "items",
+    "icon": "assets/icons/enemies/goldflame_qucusaur_tyrant.webp",
+    "title": {
+      "ru": "Кукузавр-тиран золотого пламени",
+      "en": "Goldflame Qucusaur Tyrant",
+      "zh": "金焰绒翼龙暴君"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "mark_of_the_binding_blessing",
+        "title": {
+          "ru": "Метка связывающего благословения",
+          "en": "Mark of the Binding Blessing",
+          "zh": "受祝所缚之印"
+        },
+        "icon": "assets/icons/items/world_bosses/mark_of_the_binding_blessing.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5000000,
+    "search_text": "кукузавр-тиран золотого пламени goldflame qucusaur tyrant 金焰绒翼龙暴君 натлан 5.0 world_bosses enemy_drops mark_of_the_binding_blessing метка связывающего благословения mark of the binding blessing 受祝所缚之印"
+  },
+  {
+    "id": "hydro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/hydro_hypostasis.webp",
+    "title": {
+      "ru": "Гидро гипостазис",
+      "en": "Hydro Hypostasis",
+      "zh": "无相之水"
+    },
+    "region": "Инадзума",
+    "game_version": "2.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "dew_of_repudiation",
+        "title": {
+          "ru": "Роса отречения",
+          "en": "Dew of Repudiation",
+          "zh": "排异之露"
+        },
+        "icon": "assets/icons/items/world_bosses/dew_of_repudiation.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2001000,
+    "search_text": "гидро гипостазис hydro hypostasis 无相之水 инадзума 2.1 world_bosses enemy_drops dew_of_repudiation роса отречения dew of repudiation 排异之露"
+  },
+  {
+    "id": "hydro_tulpa",
+    "category": "items",
+    "icon": "assets/icons/enemies/hydro_tulpa.webp",
+    "title": {
+      "ru": "Гидротульпа",
+      "en": "Hydro Tulpa",
+      "zh": "水形幻人"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "water_that_failed_to_transcend",
+        "title": {
+          "ru": "Вода, не достигшая перехода",
+          "en": "Water That Failed To Transcend",
+          "zh": "未能达成超越之水"
+        },
+        "icon": "assets/icons/items/world_bosses/water_that_failed_to_transcend.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4002000,
+    "search_text": "гидротульпа hydro tulpa 水形幻人 фонтейн 4.2 world_bosses enemy_drops water_that_failed_to_transcend вода, не достигшая перехода water that failed to transcend 未能达成超越之水"
+  },
+  {
+    "id": "icewind_suite",
+    "category": "items",
+    "icon": "assets/icons/enemies/icewind_suite.webp",
+    "title": {
+      "ru": "Сюита ледяного ветра",
+      "en": "Icewind Suite",
+      "zh": "冰风组曲"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "artificed_spare_clockwork_component_coppelia",
+        "title": {
+          "ru": "Запасная деталь чудного механизма: Коппелия",
+          "en": "Artificed Spare Clockwork Component — Coppelia",
+          "zh": "奇械发条备件·歌裴莉娅"
+        },
+        "icon": "assets/icons/items/world_bosses/artificed_spare_clockwork_component_coppelia.webp"
+      },
+      {
+        "key": "artificed_spare_clockwork_component_coppelius",
+        "title": {
+          "ru": "Запасная деталь чудного механизма: Коппелиус",
+          "en": "Artificed Spare Clockwork Component — Coppelius",
+          "zh": "奇械发条备件·科培琉司"
+        },
+        "icon": "assets/icons/items/world_bosses/artificed_spare_clockwork_component_coppelius.webp"
+      }
+    ],
+    "material_count": 2,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4000000,
+    "search_text": "сюита ледяного ветра icewind suite 冰风组曲 фонтейн 4.0 world_bosses enemy_drops artificed_spare_clockwork_component_coppelia artificed_spare_clockwork_component_coppelius запасная деталь чудного механизма: коппелия artificed spare clockwork component — coppelia 奇械发条备件·歌裴莉娅 запасная деталь чудного механизма: коппелиус artificed spare clockwork component — coppelius 奇械发条备件·科培琉司"
+  },
+  {
+    "id": "iniquitous_baptist",
+    "category": "items",
+    "icon": "assets/icons/enemies/iniquitous_baptist.webp",
+    "title": {
+      "ru": "Чудовищный креститель",
+      "en": "Iniquitous Baptist",
+      "zh": "深罪浸礼者"
+    },
+    "region": "Сумеру",
+    "game_version": "3.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "evergloom_ring",
+        "title": {
+          "ru": "Кольцо вечного мрака",
+          "en": "Evergloom Ring",
+          "zh": "常暗圆环"
+        },
+        "icon": "assets/icons/items/world_bosses/evergloom_ring.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3006000,
+    "search_text": "чудовищный креститель iniquitous baptist 深罪浸礼者 сумеру 3.6 world_bosses enemy_drops evergloom_ring кольцо вечного мрака evergloom ring 常暗圆环"
+  },
+  {
+    "id": "jadeplume_terrorshroom",
+    "category": "items",
+    "icon": "assets/icons/enemies/jadeplume_terrorshroom.webp",
+    "title": {
+      "ru": "Пернатый плесенник",
+      "en": "Jadeplume Terrorshroom",
+      "zh": "翠翎恐蕈"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "majestic_hooked_beak",
+        "title": {
+          "ru": "Клюв короля плесенников",
+          "en": "Majestic Hooked Beak",
+          "zh": "蕈王钩喙"
+        },
+        "icon": "assets/icons/items/world_bosses/majestic_hooked_beak.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3000000,
+    "search_text": "пернатый плесенник jadeplume terrorshroom 翠翎恐蕈 сумеру 3.0 world_bosses enemy_drops majestic_hooked_beak клюв короля плесенников majestic hooked beak 蕈王钩喙"
+  },
+  {
+    "id": "knuckle_duckle",
+    "category": "items",
+    "icon": "assets/icons/enemies/knuckle_duckle.webp",
+    "title": {
+      "ru": "Железный утёнок",
+      "en": "Knuckle Duckle",
+      "zh": "重拳出击鸭"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "precision_kuuvahki_stamping_die",
+        "title": {
+          "ru": "Штамповочная форма куувяки",
+          "en": "Precision Kuuvahki Stamping Die",
+          "zh": "精密型月矩力冲鸭模具"
+        },
+        "icon": "assets/icons/items/world_bosses/precision_kuuvahki_stamping_die.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6000000,
+    "search_text": "железный утёнок knuckle duckle 重拳出击鸭 нод-край 6.0 world_bosses enemy_drops precision_kuuvahki_stamping_die штамповочная форма куувяки precision kuuvahki stamping die 精密型月矩力冲鸭模具"
+  },
+  {
+    "id": "lava_dragon_statue",
+    "category": "items",
+    "icon": "assets/icons/enemies/lava_dragon_statue.webp",
+    "title": {
+      "ru": "Статуя лавового дракона",
+      "en": "Lava Dragon Statue",
+      "zh": "熔岩辉龙像"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "sparkless_statue_core",
+        "title": {
+          "ru": "Ядро безумной статуи",
+          "en": "Sparkless Statue Core",
+          "zh": "龙像的无智核"
+        },
+        "icon": "assets/icons/items/world_bosses/sparkless_statue_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5005000,
+    "search_text": "статуя лавового дракона lava dragon statue 熔岩辉龙像 натлан 5.5 world_bosses enemy_drops sparkless_statue_core ядро безумной статуи sparkless statue core 龙像的无智核"
+  },
+  {
+    "id": "legatus_golem",
+    "category": "items",
+    "icon": "assets/icons/enemies/legatus_golem.webp",
+    "title": {
+      "ru": "Легат големов",
+      "en": "Legatus Golem",
+      "zh": "魔像督军"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "fragment_of_a_golden_melody",
+        "title": {
+          "ru": "Фрагмент золотой мелодии",
+          "en": "Fragment of a Golden Melody",
+          "zh": "金色旋律的断章"
+        },
+        "icon": "assets/icons/items/world_bosses/fragment_of_a_golden_melody.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4006000,
+    "search_text": "легат големов legatus golem 魔像督军 фонтейн 4.6 world_bosses enemy_drops fragment_of_a_golden_melody фрагмент золотой мелодии fragment of a golden melody 金色旋律的断章"
+  },
+  {
+    "id": "lord_of_the_hidden_depths_whisperer_of_nightmares",
+    "category": "items",
+    "icon": "assets/icons/enemies/lord_of_the_hidden_depths_whisperer_of_nightmares.webp",
+    "title": {
+      "ru": "Повелитель скрытых глубин: Шёпот кошмаров",
+      "en": "Lord of the Hidden Depths: Whisperer of Nightmares",
+      "zh": "深黯魇语之主"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "remnant_of_the_dreadwing",
+        "title": {
+          "ru": "Останки крыла ужаса",
+          "en": "Remnant of the Dreadwing",
+          "zh": "魇翼枯骸"
+        },
+        "icon": "assets/icons/items/world_bosses/remnant_of_the_dreadwing.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6003000,
+    "search_text": "повелитель скрытых глубин: шёпот кошмаров lord of the hidden depths: whisperer of nightmares 深黯魇语之主 нод-край 6.3 world_bosses enemy_drops remnant_of_the_dreadwing останки крыла ужаса remnant of the dreadwing 魇翼枯骸"
+  },
+  {
+    "id": "maguu_kenki",
+    "category": "items",
+    "icon": "assets/icons/enemies/maguu_kenki.webp",
+    "title": {
+      "ru": "Магу кэнки",
+      "en": "Maguu Kenki",
+      "zh": "魔偶剑鬼"
+    },
+    "region": "Инадзума",
+    "game_version": "1.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "marionette_core",
+        "title": {
+          "ru": "Ядро марионетки",
+          "en": "Marionette Core",
+          "zh": "魔偶机心"
+        },
+        "icon": "assets/icons/items/world_bosses/marionette_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 1006000,
+    "search_text": "магу кэнки maguu kenki 魔偶剑鬼 инадзума 1.6 world_bosses enemy_drops marionette_core ядро марионетки marionette core 魔偶机心"
+  },
+  {
+    "id": "millennial_pearl_seahorse",
+    "category": "items",
+    "icon": "assets/icons/enemies/millennial_pearl_seahorse.webp",
+    "title": {
+      "ru": "Морской конёк тысячелетней жемчужины",
+      "en": "Millennial Pearl Seahorse",
+      "zh": "千年珍珠骏麟"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "fontemer_unihorn",
+        "title": {
+          "ru": "Рог Фонтмера",
+          "en": "Fontemer Unihorn",
+          "zh": "原海麟角"
+        },
+        "icon": "assets/icons/items/world_bosses/fontemer_unihorn.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4001000,
+    "search_text": "морской конёк тысячелетней жемчужины millennial pearl seahorse 千年珍珠骏麟 фонтейн 4.1 world_bosses enemy_drops fontemer_unihorn рог фонтмера fontemer unihorn 原海麟角"
+  },
+  {
+    "id": "oceanid",
+    "category": "items",
+    "icon": "assets/icons/enemies/oceanid.webp",
+    "title": {
+      "ru": "Океанид",
+      "en": "Oceanid",
+      "zh": "纯水精灵"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "cleansing_heart",
+        "title": {
+          "ru": "Очищающее сердце",
+          "en": "Cleansing Heart",
+          "zh": "净水之心"
+        },
+        "icon": "assets/icons/items/world_bosses/cleansing_heart.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "океанид oceanid 纯水精灵 ли юэ 1.0 world_bosses enemy_drops cleansing_heart очищающее сердце cleansing heart 净水之心"
+  },
+  {
+    "id": "perpetual_mechanical_array",
+    "category": "items",
+    "icon": "assets/icons/enemies/perpetual_mechanical_array.webp",
+    "title": {
+      "ru": "Бесконечный механический массив",
+      "en": "Perpetual Mechanical Array",
+      "zh": "恒常机关阵列"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "perpetual_heart",
+        "title": {
+          "ru": "Сердце бесконечного механизма",
+          "en": "Perpetual Heart",
+          "zh": "恒常机关之心"
+        },
+        "icon": "assets/icons/items/world_bosses/perpetual_heart.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2000000,
+    "search_text": "бесконечный механический массив perpetual mechanical array 恒常机关阵列 инадзума 2.0 world_bosses enemy_drops perpetual_heart сердце бесконечного механизма perpetual heart 恒常机关之心"
+  },
+  {
+    "id": "primo_geovishap",
+    "category": "items",
+    "icon": "assets/icons/enemies/primo_geovishap.webp",
+    "title": {
+      "ru": "Древний геовишап",
+      "en": "Primo Geovishap",
+      "zh": "古岩龙蜥"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "juvenile_jade",
+        "title": {
+          "ru": "Незрелый нефрит",
+          "en": "Juvenile Jade",
+          "zh": "未熟之玉"
+        },
+        "icon": "assets/icons/items/world_bosses/juvenile_jade.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1003000,
+    "search_text": "древний геовишап primo geovishap 古岩龙蜥 ли юэ 1.3 world_bosses enemy_drops juvenile_jade незрелый нефрит juvenile jade 未熟之玉"
+  },
+  {
+    "id": "pyro_hypostasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/pyro_hypostasis.webp",
+    "title": {
+      "ru": "Пиро гипостазис",
+      "en": "Pyro Hypostasis",
+      "zh": "无相之火"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "smoldering_pearl",
+        "title": {
+          "ru": "Тлеющая жемчужина",
+          "en": "Smoldering Pearl",
+          "zh": "阴燃之珠"
+        },
+        "icon": "assets/icons/items/world_bosses/smoldering_pearl.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2000000,
+    "search_text": "пиро гипостазис pyro hypostasis 无相之火 инадзума 2.0 world_bosses enemy_drops smoldering_pearl тлеющая жемчужина smoldering pearl 阴燃之珠"
+  },
+  {
+    "id": "pyro_regisvine",
+    "category": "items",
+    "icon": "assets/icons/enemies/pyro_regisvine.webp",
+    "title": {
+      "ru": "Пиро орхидея",
+      "en": "Pyro Regisvine",
+      "zh": "爆炎树"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "everflame_seed",
+        "title": {
+          "ru": "Пылающее семя",
+          "en": "Everflame Seed",
+          "zh": "常燃火种"
+        },
+        "icon": "assets/icons/items/world_bosses/everflame_seed.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "пиро орхидея pyro regisvine 爆炎树 ли юэ 1.0 world_bosses enemy_drops everflame_seed пылающее семя everflame seed 常燃火种"
+  },
+  {
+    "id": "radiant_moonfly",
+    "category": "items",
+    "icon": "assets/icons/enemies/radiant_moonfly.webp",
+    "title": {
+      "ru": "Лучезарный мотылёк-призрак",
+      "en": "Radiant Moonfly",
+      "zh": "蕴光月幻蝶"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "lightbearing_scale_feather",
+        "title": {
+          "ru": "Светящееся чешуйчатое перо",
+          "en": "Lightbearing Scale-Feather",
+          "zh": "承光的鳞羽"
+        },
+        "icon": "assets/icons/items/world_bosses/lightbearing_scale_feather.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6000000,
+    "search_text": "лучезарный мотылёк-призрак radiant moonfly 蕴光月幻蝶 нод-край 6.0 world_bosses enemy_drops lightbearing_scale_feather светящееся чешуйчатое перо lightbearing scale-feather 承光的鳞羽"
+  },
+  {
+    "id": "radiant_moongecko",
+    "category": "items",
+    "icon": "assets/icons/enemies/radiant_moongecko.webp",
+    "title": {
+      "ru": "Лучезарный лунный геккон",
+      "en": "Radiant Moongecko",
+      "zh": "蕴光月守宫"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.4",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "prismatic_severed_tail",
+        "title": {
+          "ru": "Призматический отсечённый хвост",
+          "en": "Prismatic Severed Tail",
+          "zh": "棱光的断尾"
+        },
+        "icon": "assets/icons/items/world_bosses/prismatic_severed_tail.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6004000,
+    "search_text": "лучезарный лунный геккон radiant moongecko 蕴光月守宫 нод-край 6.4 world_bosses enemy_drops prismatic_severed_tail призматический отсечённый хвост prismatic severed tail 棱光的断尾"
+  },
+  {
+    "id": "ruin_serpent",
+    "category": "items",
+    "icon": "assets/icons/enemies/ruin_serpent.webp",
+    "title": {
+      "ru": "Змей руин",
+      "en": "Ruin Serpent",
+      "zh": "遗迹巨蛇"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "runic_fang",
+        "title": {
+          "ru": "Рунический клык",
+          "en": "Runic Fang",
+          "zh": "符纹之齿"
+        },
+        "icon": "assets/icons/items/world_bosses/runic_fang.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 2006000,
+    "search_text": "змей руин ruin serpent 遗迹巨蛇 ли юэ 2.6 world_bosses enemy_drops runic_fang рунический клык runic fang 符纹之齿"
+  },
+  {
+    "id": "secret_source_automaton_configuration_device",
+    "category": "items",
+    "icon": "assets/icons/enemies/secret_source_automaton_configuration_device.webp",
+    "title": {
+      "ru": "Автоматон таинственного источника: Конфигуратор",
+      "en": "Secret Source Automaton: Configuration Device",
+      "zh": "秘源机兵 · 构型械"
+    },
+    "region": "Натлан",
+    "game_version": "5.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "gold_inscribed_secret_source_core",
+        "title": {
+          "ru": "Ядро таинственного источника с золотой надписью",
+          "en": "Gold-Inscribed Secret Source Core",
+          "zh": "秘刻金纹的源核"
+        },
+        "icon": "assets/icons/items/world_bosses/gold_inscribed_secret_source_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5001000,
+    "search_text": "автоматон таинственного источника: конфигуратор secret source automaton: configuration device 秘源机兵 · 构型械 натлан 5.1 world_bosses enemy_drops gold_inscribed_secret_source_core ядро таинственного источника с золотой надписью gold-inscribed secret source core 秘刻金纹的源核"
+  },
+  {
+    "id": "secret_source_automaton_overseer_device",
+    "category": "items",
+    "icon": "assets/icons/enemies/secret_source_automaton_overseer_device.webp",
+    "title": {
+      "ru": "Автоматон таинственного источника: Надсмотрщик",
+      "en": "Secret Source Automaton: Overseer Device",
+      "zh": "秘源机兵·统御械"
+    },
+    "region": "Натлан",
+    "game_version": "5.6",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "secret_source_airflow_accumulator",
+        "title": {
+          "ru": "Аккумулятор воздушного потока таинственного источника",
+          "en": "Secret Source Airflow Accumulator",
+          "zh": "秘源积气喉"
+        },
+        "icon": "assets/icons/items/world_bosses/secret_source_airflow_accumulator.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5006000,
+    "search_text": "автоматон таинственного источника: надсмотрщик secret source automaton: overseer device 秘源机兵·统御械 натлан 5.6 world_bosses enemy_drops secret_source_airflow_accumulator аккумулятор воздушного потока таинственного источника secret source airflow accumulator 秘源积气喉"
+  },
+  {
+    "id": "setekh_wenut",
+    "category": "items",
+    "icon": "assets/icons/enemies/setekh_wenut.webp",
+    "title": {
+      "ru": "Унут Сетеха",
+      "en": "Setekh Wenut",
+      "zh": "风蚀沙虫"
+    },
+    "region": "Сумеру",
+    "game_version": "3.4",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "pseudo_stamens",
+        "title": {
+          "ru": "Псевдотычинки",
+          "en": "Pseudo-Stamens",
+          "zh": "苍砾蕊羽"
+        },
+        "icon": "assets/icons/items/world_bosses/pseudo_stamens.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3004000,
+    "search_text": "унут сетеха setekh wenut 风蚀沙虫 сумеру 3.4 world_bosses enemy_drops pseudo_stamens псевдотычинки pseudo-stamens 苍砾蕊羽"
+  },
+  {
+    "id": "solitary_suanni",
+    "category": "items",
+    "icon": "assets/icons/enemies/solitary_suanni.webp",
+    "title": {
+      "ru": "Суаньни-отшельник",
+      "en": "Solitary Suanni",
+      "zh": "隐山猊兽"
+    },
+    "region": "Ли Юэ",
+    "game_version": "4.4",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "cloudseam_scale",
+        "title": {
+          "ru": "Облачные доспехи",
+          "en": "Cloudseam Scale",
+          "zh": "凝云鳞甲"
+        },
+        "icon": "assets/icons/items/world_bosses/cloudseam_scale.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 4004000,
+    "search_text": "суаньни-отшельник solitary suanni 隐山猊兽 ли юэ 4.4 world_bosses enemy_drops cloudseam_scale облачные доспехи cloudseam scale 凝云鳞甲"
+  },
+  {
+    "id": "super_heavy_landrover_mechanized_fortress",
+    "category": "items",
+    "icon": "assets/icons/enemies/super_heavy_landrover_mechanized_fortress.webp",
+    "title": {
+      "ru": "Сверхтяжёлый сухопутный крейсер: Мобильная крепость",
+      "en": "Super-Heavy Landrover: Mechanized Fortress",
+      "zh": "超重型陆巡舰·机动战垒"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "cyclic_military_kuuvahki_core",
+        "title": {
+          "ru": "Циклическое военное ядро куувяки",
+          "en": "Cyclic Military Kuuvahki Core",
+          "zh": "循环式军用月矩核心"
+        },
+        "icon": "assets/icons/items/world_bosses/cyclic_military_kuuvahki_core.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6002000,
+    "search_text": "сверхтяжёлый сухопутный крейсер: мобильная крепость super-heavy landrover: mechanized fortress 超重型陆巡舰·机动战垒 нод-край 6.2 world_bosses enemy_drops cyclic_military_kuuvahki_core циклическое военное ядро куувяки cyclic military kuuvahki core 循环式军用月矩核心"
+  },
+  {
+    "id": "tenebrous_papilla_type_i",
+    "category": "items",
+    "icon": "assets/icons/enemies/tenebrous_papilla_type_i.webp",
+    "title": {
+      "ru": "Сумрачная папилла",
+      "en": "Tenebrous Papilla: Type I",
+      "zh": "深邃摹结株 · I型"
+    },
+    "region": "Натлан",
+    "game_version": "5.2",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "ensnaring_gaze",
+        "title": {
+          "ru": "Сковывающий взгляд",
+          "en": "Ensnaring Gaze",
+          "zh": "深邃纠缠的凝视"
+        },
+        "icon": "assets/icons/items/world_bosses/ensnaring_gaze.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5002000,
+    "search_text": "сумрачная папилла tenebrous papilla: type i 深邃摹结株 · i型 натлан 5.2 world_bosses enemy_drops ensnaring_gaze сковывающий взгляд ensnaring gaze 深邃纠缠的凝视"
+  },
+  {
+    "id": "thunder_manifestation",
+    "category": "items",
+    "icon": "assets/icons/enemies/thunder_manifestation.webp",
+    "title": {
+      "ru": "Манифестация грома",
+      "en": "Thunder Manifestation",
+      "zh": "雷音权现"
+    },
+    "region": "Инадзума",
+    "game_version": "2.1",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "storm_beads",
+        "title": {
+          "ru": "Штормовой жемчуг",
+          "en": "Storm Beads",
+          "zh": "雷霆数珠"
+        },
+        "icon": "assets/icons/items/world_bosses/storm_beads.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2001000,
+    "search_text": "манифестация грома thunder manifestation 雷音权现 инадзума 2.1 world_bosses enemy_drops storm_beads штормовой жемчуг storm beads 雷霆数珠"
+  },
+  {
+    "id": "watcher_fallen_vigil",
+    "category": "items",
+    "icon": "assets/icons/enemies/watcher_fallen_vigil.webp",
+    "title": {
+      "ru": "Созерцатель: Падший страж",
+      "en": "Watcher: Fallen Vigil",
+      "zh": "守望者·堕天"
+    },
+    "region": "Мондштадт",
+    "game_version": "6.5",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "plume_of_the_fallen_watcher",
+        "title": {
+          "ru": "Перо падшего созерцателя",
+          "en": "Plume of the Fallen Watcher",
+          "zh": "堕天的落羽"
+        },
+        "icon": "assets/icons/items/world_bosses/plume_of_the_fallen_watcher.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 6005000,
+    "search_text": "созерцатель: падший страж watcher: fallen vigil 守望者·堕天 мондштадт 6.5 world_bosses enemy_drops plume_of_the_fallen_watcher перо падшего созерцателя plume of the fallen watcher 堕天的落羽"
+  },
+  {
+    "id": "wayward_hermetic_spiritspeaker",
+    "category": "items",
+    "icon": "assets/icons/enemies/wayward_hermetic_spiritspeaker.webp",
+    "title": {
+      "ru": "Говорящая с духами отшельница",
+      "en": "Wayward Hermetic Spiritspeaker",
+      "zh": "灵觉隐修的迷者"
+    },
+    "region": "Натлан",
+    "game_version": "5.3",
+    "item_group": "world_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "talisman_of_the_enigmatic_land",
+        "title": {
+          "ru": "Талисман загадочной земли",
+          "en": "Talisman of the Enigmatic Land",
+          "zh": "谜土的护符"
+        },
+        "icon": "assets/icons/items/world_bosses/talisman_of_the_enigmatic_land.webp"
+      }
+    ],
+    "material_count": 1,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5003000,
+    "search_text": "говорящая с духами отшельница wayward hermetic spiritspeaker 灵觉隐修的迷者 натлан 5.3 world_bosses enemy_drops talisman_of_the_enigmatic_land талисман загадочной земли talisman of the enigmatic land 谜土的护符"
+  }
+]

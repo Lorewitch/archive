@@ -1,10 +1,11 @@
 # id: quest_wq_71054
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Проникновение в стан врага
 # title_en: Undetected Infiltration
 # title_zh: 潜身敌营无人知
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71054

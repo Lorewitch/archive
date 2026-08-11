@@ -1,10 +1,11 @@
 # id: quest_wq_73049
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: У Фатуи ума как у статуи
 # title_en: The Foolish Fatuus
 # title_zh: 愚人者人愚之
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73049

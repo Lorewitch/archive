@@ -1,6 +1,7 @@
 # id: quest_wq_76118
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Луна возвращается домой
 # title_en: The Homebound Moon
 # title_zh: 归家的月亮

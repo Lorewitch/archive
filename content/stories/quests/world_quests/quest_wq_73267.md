@@ -1,10 +1,11 @@
 # id: quest_wq_73267
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Вступайте в ряды Пустынников, и ваша жизнь наладится!
 # title_en: Join the Eremites and Embrace a Wonderful New Life!
 # title_zh: 加入镀金旅团，拥抱美好生活！
-# region: Тейват
+# region: Сумеру
 # game_version: 3.1
 # release_versions: 3.1
 # source_id: 73267

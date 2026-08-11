@@ -1,6 +1,7 @@
 # id: quest_wq_70505
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Of Drink A-Dreaming
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Изысканное вино вчерашнего дня
 # title_en: Fine Wine From Yesterday
 # title_zh: 昨日佳酿

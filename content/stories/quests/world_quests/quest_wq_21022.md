@@ -1,10 +1,11 @@
 # id: quest_wq_21022
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Непостоянство сокровищ
 # title_en: Treasure Lost, Treasure Found
 # title_zh: 宝藏归离
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 21022

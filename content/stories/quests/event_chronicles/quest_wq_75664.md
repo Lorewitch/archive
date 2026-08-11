@@ -1,6 +1,7 @@
 # id: quest_wq_75664
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Tournament of Glory in Bloom
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Да начнутся Испытания расцвета!
 # title_en: Let the Bloomflower Trials Begin!
 # title_zh: 荣花演武，开幕！

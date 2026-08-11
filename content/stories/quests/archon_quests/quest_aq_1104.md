@@ -1,5 +1,6 @@
 # id: quest_aq_1104
 # story_group: archon_quests
+# display_category: Задание Архонтов · Близнецы
 # icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Мы встретимся снова
 # title_en: We Will Be Reunited

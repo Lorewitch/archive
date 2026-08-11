@@ -1,6 +1,7 @@
 # id: quest_wq_72171
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Всеядные гурманы: о святилищах и сакурах
 # title_en: The Gourmet Supremos: Of Shrines and Sakura
 # title_zh: 全能美食队·神社的树

@@ -1,6 +1,7 @@
 # id: quest_wq_71168
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Lanternlit Ode to the Silver Moon (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Фонари удачи
 # title_en: Light the Way of Wishes
 # title_zh: 灯逐良愿

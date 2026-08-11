@@ -1,5 +1,6 @@
 # id: quest_wq_10201
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Опрос мелюзины и ответ машины II
 # title_en: Questioning Melusine and Answering Machine: Act II

@@ -1,6 +1,7 @@
 # id: quest_wq_75033
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание племени · Повелители Ночного Ветра
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Все грани воина
 # title_en: Every Aspect of a Warrior
 # title_zh: 勇士的每一面

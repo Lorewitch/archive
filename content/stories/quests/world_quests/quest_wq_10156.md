@@ -1,5 +1,6 @@
 # id: quest_wq_10156
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Сцены жизни в крепости Меропид
 # title_en: Scenes from Life in Meropide

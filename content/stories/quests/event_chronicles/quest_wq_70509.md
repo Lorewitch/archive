@@ -1,6 +1,7 @@
 # id: quest_wq_70509
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Of Drink A-Dreaming
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Безупречный осенний иней
 # title_en: Untainted Autumn Frost
 # title_zh: 未染尘埃的秋霜

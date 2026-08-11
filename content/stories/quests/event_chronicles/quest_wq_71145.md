@@ -1,6 +1,7 @@
 # id: quest_wq_71145
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Mutual Security Enhancing Simulation
+# icon: assets/icons/stories/quests/mutual_security_enhancing_simulation.webp
 # title_ru: Учебные сценарии
 # title_en: Scenarios for Study
 # title_zh: 解析与想定

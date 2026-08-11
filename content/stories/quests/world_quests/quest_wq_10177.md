@@ -1,5 +1,6 @@
 # id: quest_wq_10177
 # story_group: world_quests
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Предзнаменование Ночного дозора
 # title_en: Prelude to the Night Vigil

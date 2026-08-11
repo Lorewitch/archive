@@ -1,6 +1,7 @@
 # id: quest_wq_75669
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Эхо путешествий
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Эхо путешествий
 # title_en: Wayfarer's Whispers
 # title_zh: 行者絮语

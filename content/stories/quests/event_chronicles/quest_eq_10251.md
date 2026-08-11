@@ -1,5 +1,6 @@
 # id: quest_eq_10251
 # story_group: event_chronicles
+# display_category: Ивент · Фантастические друзья III
 # icon: assets/icons/stories/quests/lolifriends.webp
 # title_ru: Неугасающая магия
 # title_en: The Magic That Never Fails

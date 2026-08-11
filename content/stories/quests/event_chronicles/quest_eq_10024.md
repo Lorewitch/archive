@@ -1,5 +1,6 @@
 # id: quest_eq_10024
 # story_group: event_chronicles
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Сон о ветрах и цветах
 # title_en: Dream of Wind and Flowers

@@ -1,6 +1,7 @@
 # id: quest_wq_70025
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Mimi Tomo
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Заблудившийся хиличурл
 # title_en: The Lost Hilichurl
 # title_zh: 迷失的丘丘

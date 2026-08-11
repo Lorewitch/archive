@@ -1,6 +1,7 @@
 # id: quest_wq_72662
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lunar Realm
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Одиноко брожу при яркой луне
 # title_en: By Thy Pale Beams I Solitary Rove
 # title_zh: 奈何明月

@@ -1,6 +1,7 @@
 # id: quest_wq_76001
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Отзвуки скорбного колокола
 # title_en: The Bell of Mourning Echoes
 # title_zh: 哀铃的余响

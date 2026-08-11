@@ -1,6 +1,7 @@
 # id: quest_wq_76117
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Человек, который отбросил прошлое
 # title_en: They Who Abandoned the Past
 # title_zh: 曾抛弃过去的人

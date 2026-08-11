@@ -1,6 +1,7 @@
 # id: quest_wq_73525
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Комплексная картография
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Комплексная картография
 # title_en: Complex Cartography
 # title_zh: 复杂地图测绘法

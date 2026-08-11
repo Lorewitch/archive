@@ -1,0 +1,831 @@
+[
+  {
+    "id": "abyss_herald_wicked_torrents",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/abyss_herald_wicked_torrents.webp",
+    "title": {
+      "ru": "Вестник Бездны: Злые течения",
+      "en": "Abyss Herald: Wicked Torrents",
+      "zh": "深渊使徒·激流"
+    },
+    "region": "Ли Юэ, Инадзума",
+    "game_version": "1.4",
+    "tags": [
+      "Вестник Бездны: Злые течения",
+      "Abyss Herald: Wicked Torrents",
+      "深渊使徒·激流"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 1004000,
+    "search_text": "вестник бездны: злые течения abyss herald: wicked torrents 深渊使徒·激流 abyss common_enemy ли юэ, инадзума 1.4 мрачная статуэтка / тёмная статуэтка / смертельная статуэтка statuettes 晦暗刻像 / 夤夜刻像 / 幽邃刻像 ветви артерий земли / листья артерий земли / ростки артерий земли ley lines 地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  {
+    "id": "abyss_lector_fathomless_flames",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/abyss_lector_fathomless_flames.webp",
+    "title": {
+      "ru": "Чтец Бездны: Пламя бездны",
+      "en": "Abyss Lector: Fathomless Flames",
+      "zh": "深渊咏者·渊火"
+    },
+    "region": "Ли Юэ, Инадзума",
+    "game_version": "2.4",
+    "tags": [
+      "Чтец Бездны: Пламя бездны",
+      "Abyss Lector: Fathomless Flames",
+      "深渊咏者·渊火"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2004000,
+    "search_text": "чтец бездны: пламя бездны abyss lector: fathomless flames 深渊咏者·渊火 abyss common_enemy ли юэ, инадзума 2.4 мрачная статуэтка / тёмная статуэтка / смертельная статуэтка statuettes 晦暗刻像 / 夤夜刻像 / 幽邃刻像 ветви артерий земли / листья артерий земли / ростки артерий земли ley lines 地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  {
+    "id": "abyss_lector_violet_lightning",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/abyss_lector_violet_lightning.webp",
+    "title": {
+      "ru": "Чтец Бездны: Пурпурная молния",
+      "en": "Abyss Lector: Violet Lightning",
+      "zh": "深渊咏者·紫电"
+    },
+    "region": "Ли Юэ, Инадзума",
+    "game_version": "1.5",
+    "tags": [
+      "Чтец Бездны: Пурпурная молния",
+      "Abyss Lector: Violet Lightning",
+      "深渊咏者·紫电"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 1005000,
+    "search_text": "чтец бездны: пурпурная молния abyss lector: violet lightning 深渊咏者·紫电 abyss common_enemy ли юэ, инадзума 1.5 мрачная статуэтка / тёмная статуэтка / смертельная статуэтка statuettes 晦暗刻像 / 夤夜刻像 / 幽邃刻像 ветви артерий земли / листья артерий земли / ростки артерий земли ley lines 地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  {
+    "id": "black_serpent_knight_windcutter",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/black_serpent_knight_windcutter.webp",
+    "title": {
+      "ru": "Рыцарь Чёрного Змея: Разрезающий ветер",
+      "en": "Black Serpent Knight: Windcutter",
+      "zh": "黑蛇骑士·斩风之剑"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.6",
+    "tags": [
+      "Рыцарь Чёрного Змея: Разрезающий ветер",
+      "Black Serpent Knight: Windcutter",
+      "黑蛇骑士·斩风之剑"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2006000,
+    "search_text": "рыцарь чёрного змея: разрезающий ветер black serpent knight: windcutter 黑蛇骑士·斩风之剑 abyss common_enemy ли юэ 2.6 мрачная статуэтка / тёмная статуэтка / смертельная статуэтка statuettes 晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+  },
+  {
+    "id": "cryo_abyss_mage",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cryo_abyss_mage.webp",
+    "title": {
+      "ru": "Крио маг Бездны",
+      "en": "Cryo Abyss Mage",
+      "zh": "冰深渊法师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Крио маг Бездны",
+      "Cryo Abyss Mage",
+      "冰深渊法师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 1000000,
+    "search_text": "крио маг бездны cryo abyss mage 冰深渊法师 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 ветви артерий земли / листья артерий земли / ростки артерий земли ley lines 地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  {
+    "id": "electro_abyss_mage",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/electro_abyss_mage.webp",
+    "title": {
+      "ru": "Электро маг Бездны",
+      "en": "Electro Abyss Mage",
+      "zh": "雷深渊法师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "2.0",
+    "tags": [
+      "Электро маг Бездны",
+      "Electro Abyss Mage",
+      "雷深渊法师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2000000,
+    "search_text": "электро маг бездны electro abyss mage 雷深渊法师 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 ветви артерий земли / листья артерий земли / ростки артерий земли ley lines 地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  {
+    "id": "fisher_of_hidden_depths",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/fisher_of_hidden_depths.webp",
+    "title": {
+      "ru": "Рыболов скрытых глубин",
+      "en": "Fisher of Hidden Depths",
+      "zh": "深黯钓客"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "tags": [
+      "Рыболов скрытых глубин",
+      "Fisher of Hidden Depths",
+      "深黯钓客"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 6003000,
+    "search_text": "рыболов скрытых глубин fisher of hidden depths 深黯钓客 abyss common_enemy нод-край 6.3 расколотый глаз глубокой тьмы / аномальное ядро глубокой тьмы / клюв глубокой тьмы of the deep shadows 深黯的裂眼 / 深黯的怪核 / 深黯的钩喙"
+  },
+  {
+    "id": "hydro_abyss_mage",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hydro_abyss_mage.webp",
+    "title": {
+      "ru": "Гидро маг Бездны",
+      "en": "Hydro Abyss Mage",
+      "zh": "水深渊法师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Гидро маг Бездны",
+      "Hydro Abyss Mage",
+      "水深渊法师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 1000000,
+    "search_text": "гидро маг бездны hydro abyss mage 水深渊法师 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 ветви артерий земли / листья артерий земли / ростки артерий земли ley lines 地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  {
+    "id": "large_overgrown_breacher_primus",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_overgrown_breacher_primus.webp",
+    "title": {
+      "ru": "Большой прорастающий протоген расщелин",
+      "en": "Large Overgrown Breacher Primus",
+      "zh": "大型狂蔓隙境原体"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Большой прорастающий протоген расщелин",
+      "Large Overgrown Breacher Primus",
+      "大型狂蔓隙境原体"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 4000000,
+    "search_text": "большой прорастающий протоген расщелин large overgrown breacher primus 大型狂蔓隙境原体 abyss common_enemy фонтейн 4.0 ядро расщелины / иноземный обломок / чужеродное ядро cores 隙间之核 / 外世突触 / 异界生命核"
+  },
+  {
+    "id": "large_shatterstone_breacher_primus",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_shatterstone_breacher_primus.webp",
+    "title": {
+      "ru": "Большой камнедробящий протоген расщелин",
+      "en": "Large Shatterstone Breacher Primus",
+      "zh": "大型碎石隙境原体"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Большой камнедробящий протоген расщелин",
+      "Large Shatterstone Breacher Primus",
+      "大型碎石隙境原体"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 4000000,
+    "search_text": "большой камнедробящий протоген расщелин large shatterstone breacher primus 大型碎石隙境原体 abyss common_enemy фонтейн 4.0 ядро расщелины / иноземный обломок / чужеродное ядро cores 隙间之核 / 外世突触 / 异界生命核"
+  },
+  {
+    "id": "overgrown_breacher_primus",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/overgrown_breacher_primus.webp",
+    "title": {
+      "ru": "Прорастающий протоген расщелин",
+      "en": "Overgrown Breacher Primus",
+      "zh": "狂蔓隙境原体"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Прорастающий протоген расщелин",
+      "Overgrown Breacher Primus",
+      "狂蔓隙境原体"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 4000000,
+    "search_text": "прорастающий протоген расщелин overgrown breacher primus 狂蔓隙境原体 abyss common_enemy фонтейн 4.0 ядро расщелины / иноземный обломок / чужеродное ядро cores 隙间之核 / 外世突触 / 异界生命核"
+  },
+  {
+    "id": "pyro_abyss_mage",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/pyro_abyss_mage.webp",
+    "title": {
+      "ru": "Пиро маг Бездны",
+      "en": "Pyro Abyss Mage",
+      "zh": "火深渊法师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Пиро маг Бездны",
+      "Pyro Abyss Mage",
+      "火深渊法师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 1000000,
+    "search_text": "пиро маг бездны pyro abyss mage 火深渊法师 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 ветви артерий земли / листья артерий земли / ростки артерий земли ley lines 地脉的旧枝 / 地脉的枯叶 / 地脉的新芽"
+  },
+  {
+    "id": "rockfond_rifthound",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/rockfond_rifthound.webp",
+    "title": {
+      "ru": "Гончая Разрыва: Камнегрыз",
+      "en": "Rockfond Rifthound",
+      "zh": "嗜岩·兽境猎犬"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "2.2",
+    "tags": [
+      "Гончая Разрыва: Камнегрыз",
+      "Rockfond Rifthound",
+      "嗜岩·兽境猎犬"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2002000,
+    "search_text": "гончая разрыва: камнегрыз rockfond rifthound 嗜岩·兽境猎犬 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 2.2 скрытый коготь / скрытый заточенный коготь / скрытый дьявольский коготь concealeds 隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+  },
+  {
+    "id": "rockfond_rifthound_whelp",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/rockfond_rifthound_whelp.webp",
+    "title": {
+      "ru": "Щенок Разрыва: Камнегрыз",
+      "en": "Rockfond Rifthound Whelp",
+      "zh": "嗜岩·兽境幼兽"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "2.2",
+    "tags": [
+      "Щенок Разрыва: Камнегрыз",
+      "Rockfond Rifthound Whelp",
+      "嗜岩·兽境幼兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2002000,
+    "search_text": "щенок разрыва: камнегрыз rockfond rifthound whelp 嗜岩·兽境幼兽 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 2.2 скрытый коготь / скрытый заточенный коготь / скрытый дьявольский коготь concealeds 隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+  },
+  {
+    "id": "shadowy_husk_defender",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/shadowy_husk_defender.webp",
+    "title": {
+      "ru": "Чёрный доспех: Гвардеец",
+      "en": "Shadowy Husk: Defender",
+      "zh": "黯色空壳·近卫"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.5",
+    "tags": [
+      "Чёрный доспех: Гвардеец",
+      "Shadowy Husk: Defender",
+      "黯色空壳·近卫"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2005000,
+    "search_text": "чёрный доспех: гвардеец shadowy husk: defender 黯色空壳·近卫 abyss common_enemy ли юэ 2.5 мрачная статуэтка / тёмная статуэтка / смертельная статуэтка statuettes 晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+  },
+  {
+    "id": "shadowy_husk_line_breaker",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/shadowy_husk_line_breaker.webp",
+    "title": {
+      "ru": "Чёрный доспех: Штурмовик",
+      "en": "Shadowy Husk: Line Breaker",
+      "zh": "黯色空壳·破阵"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.5",
+    "tags": [
+      "Чёрный доспех: Штурмовик",
+      "Shadowy Husk: Line Breaker",
+      "黯色空壳·破阵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2005000,
+    "search_text": "чёрный доспех: штурмовик shadowy husk: line breaker 黯色空壳·破阵 abyss common_enemy ли юэ 2.5 мрачная статуэтка / тёмная статуэтка / смертельная статуэтка statuettes 晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+  },
+  {
+    "id": "shadowy_husk_standard_bearer",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/shadowy_husk_standard_bearer.webp",
+    "title": {
+      "ru": "Чёрный доспех: Знаменосец",
+      "en": "Shadowy Husk: Standard Bearer",
+      "zh": "黯色空壳·旗令"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.5",
+    "tags": [
+      "Чёрный доспех: Знаменосец",
+      "Shadowy Husk: Standard Bearer",
+      "黯色空壳·旗令"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2005000,
+    "search_text": "чёрный доспех: знаменосец shadowy husk: standard bearer 黯色空壳·旗令 abyss common_enemy ли юэ 2.5 мрачная статуэтка / тёмная статуэтка / смертельная статуэтка statuettes 晦暗刻像 / 夤夜刻像 / 幽邃刻像"
+  },
+  {
+    "id": "shatterstone_breacher_primus",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/shatterstone_breacher_primus.webp",
+    "title": {
+      "ru": "Камнедробящий протоген расщелин",
+      "en": "Shatterstone Breacher Primus",
+      "zh": "碎石隙境原体"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Камнедробящий протоген расщелин",
+      "Shatterstone Breacher Primus",
+      "碎石隙境原体"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 4000000,
+    "search_text": "камнедробящий протоген расщелин shatterstone breacher primus 碎石隙境原体 abyss common_enemy фонтейн 4.0 ядро расщелины / иноземный обломок / чужеродное ядро cores 隙间之核 / 外世突触 / 异界生命核"
+  },
+  {
+    "id": "tenebrous_mimiflora",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tenebrous_mimiflora.webp",
+    "title": {
+      "ru": "Сумрачная мимифлора",
+      "en": "Tenebrous Mimiflora",
+      "zh": "深邃拟覆叶"
+    },
+    "region": "Натлан",
+    "game_version": "5.1",
+    "tags": [
+      "Сумрачная мимифлора",
+      "Tenebrous Mimiflora",
+      "深邃拟覆叶"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 5001000,
+    "search_text": "сумрачная мимифлора tenebrous mimiflora 深邃拟覆叶 abyss common_enemy натлан 5.1 преломляющий бутон / ошеломляющий широколист / иллюзорная листовая спираль buds 折光的胚芽 / 惑光的阔叶 / 迷光的蜷叶之心"
+  },
+  {
+    "id": "thundercraven_rifthound",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/thundercraven_rifthound.webp",
+    "title": {
+      "ru": "Гончая Разрыва: Громоед",
+      "en": "Thundercraven Rifthound",
+      "zh": "嗜雷·兽境猎犬"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "2.2",
+    "tags": [
+      "Гончая Разрыва: Громоед",
+      "Thundercraven Rifthound",
+      "嗜雷·兽境猎犬"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2002000,
+    "search_text": "гончая разрыва: громоед thundercraven rifthound 嗜雷·兽境猎犬 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 2.2 скрытый коготь / скрытый заточенный коготь / скрытый дьявольский коготь concealeds 隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+  },
+  {
+    "id": "thundercraven_rifthound_whelp",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/thundercraven_rifthound_whelp.webp",
+    "title": {
+      "ru": "Щенок Разрыва: Громоед",
+      "en": "Thundercraven Rifthound Whelp",
+      "zh": "嗜雷·兽境幼兽"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан",
+    "game_version": "2.2",
+    "tags": [
+      "Щенок Разрыва: Громоед",
+      "Thundercraven Rifthound Whelp",
+      "嗜雷·兽境幼兽"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 2002000,
+    "search_text": "щенок разрыва: громоед thundercraven rifthound whelp 嗜雷·兽境幼兽 abyss common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан 2.2 скрытый коготь / скрытый заточенный коготь / скрытый дьявольский коготь concealeds 隐兽指爪 / 隐兽利爪 / 隐兽鬼爪"
+  },
+  {
+    "id": "wilderness_exile",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/wilderness_exile.webp",
+    "title": {
+      "ru": "Изгнанник пустошей",
+      "en": "Wilderness Exile",
+      "zh": "荒野幽徒"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Изгнанник пустошей",
+      "Wilderness Exile",
+      "荒野幽徒"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 6000000,
+    "search_text": "изгнанник пустошей wilderness exile 荒野幽徒 abyss common_enemy нод-край 6.0 туманное воплощение / туманная пластина / туманный шлем mistshrouds 幽雾化形 / 幽雾片甲 / 幽雾兜盔"
+  },
+  {
+    "id": "wilderness_hunter",
+    "category": "enemies",
+    "enemy_group": "abyss",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/wilderness_hunter.webp",
+    "title": {
+      "ru": "Охотник пустошей",
+      "en": "Wilderness Hunter",
+      "zh": "荒野狂狩士"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Охотник пустошей",
+      "Wilderness Hunter",
+      "荒野狂狩士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "abyss"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "abyss",
+    "sort_version": 6000000,
+    "search_text": "охотник пустошей wilderness hunter 荒野狂狩士 abyss common_enemy нод-край 6.0 туманное воплощение / туманная пластина / туманный шлем mistshrouds 幽雾化形 / 幽雾片甲 / 幽雾兜盔"
+  }
+]

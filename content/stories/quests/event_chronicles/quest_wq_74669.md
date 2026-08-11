@@ -1,6 +1,7 @@
 # id: quest_wq_74669
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Наука о свете и тени: Фонтан очарования
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Наука о свете и тени: Фонтан очарования
 # title_en: Studies in Light and Shadow: A Fontaine of Enchantment
 # title_zh: 光影研学·旖旎水界

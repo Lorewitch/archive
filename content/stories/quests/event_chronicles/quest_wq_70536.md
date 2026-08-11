@@ -1,6 +1,7 @@
 # id: quest_wq_70536
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Dodoco's Bomb-Tastic Adventure
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Кризис миновал! Счастье осталось!
 # title_en: Crisis Relieved! A Happy Memento!
 # title_zh: 危机解除！开心留念！

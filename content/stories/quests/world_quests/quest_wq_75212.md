@@ -1,6 +1,7 @@
 # id: quest_wq_75212
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Следы цвета
 # title_en: Traces of Chroma
 # title_zh: 流彩的踪迹

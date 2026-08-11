@@ -1,10 +1,11 @@
 # id: quest_lq_2007
 # story_group: legend_quests
+# display_category: Задание репутации · Инадзума
 # icon: assets/icons/stories/quests/xiangling.webp
 # title_ru: Кулинарный тур по Мондштадту
 # title_en: Mondstadt Gastronomy Trip
 # title_zh: 蒙德食遇之旅
-# region: Ли Юэ
+# region: Инадзума
 # game_version: 1.0
 # release_versions: 1.0,1.2
 # source_id: 2007

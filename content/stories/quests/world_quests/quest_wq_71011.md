@@ -1,10 +1,11 @@
 # id: quest_wq_71011
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Следы в долине Тяньцю
 # title_en: Trails in Tianqiu
 # title_zh: 循仙踪兮天遒
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 71011

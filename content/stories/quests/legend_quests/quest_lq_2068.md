@@ -1,5 +1,6 @@
 # id: quest_lq_2068
 # story_group: legend_quests
+# display_category: Задание Легенд · Дурин
 # icon: assets/icons/stories/quests/durin.webp
 # title_ru: Магия повествования
 # title_en: The Magic Known as Storytelling

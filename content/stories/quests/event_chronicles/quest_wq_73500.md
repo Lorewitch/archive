@@ -1,6 +1,7 @@
 # id: quest_wq_73500
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Graven Innocence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Отвергнутая игрушка
 # title_en: The Unappreciated Carving
 # title_zh: 被嫌弃的木刻

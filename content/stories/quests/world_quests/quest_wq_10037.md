@@ -1,10 +1,11 @@
 # id: quest_wq_10037
 # story_group: world_quests
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Наследие Оробаси
 # title_en: Orobashi's Legacy
 # title_zh: 远吕羽氏遗事
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10037

@@ -1,5 +1,6 @@
 # id: quest_eq_10173
 # story_group: event_chronicles
+# display_category: Ивент · Алхимия и управление IV
 # icon: assets/icons/stories/quests/alchemysim.webp
 # title_ru: Хорошая работа
 # title_en: A Job Well Done

@@ -1,5 +1,6 @@
 # id: quest_lq_2065
 # story_group: legend_quests
+# display_category: Задание племени · Повелители Ночного Ветра
 # icon: assets/icons/stories/quests/natlan_shamansaurus.webp
 # title_ru: Легендарный цвет
 # title_en: Legendary "Color"

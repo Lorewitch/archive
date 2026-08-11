@@ -1,6 +1,7 @@
 # id: quest_wq_40096
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · The Exquisite Night Chimes
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: В узком кругу
 # title_en: Between Facades and Familiar Faces
 # title_zh: 人前人后

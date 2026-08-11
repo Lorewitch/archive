@@ -1,10 +1,11 @@
 # id: quest_eq_10272
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Возвращение? Фонтиналия! Глава II
 # icon: assets/icons/stories/quests/aquarium.webp
 # title_ru: Потерянное нами
 # title_en: Those We Have Lost
 # title_zh: 那些我们所失去的
-# region: Тейват
+# region: Фонтейн
 # game_version: 6.7
 # release_versions: 6.7
 # source_id: 10272

@@ -1,6 +1,7 @@
 # id: quest_wq_71824
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Праздничные обещания
 # title_en: Promises Remembered as Lanterns Rise
 # title_zh: 佳节赴旧约…？

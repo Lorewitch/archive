@@ -1,10 +1,11 @@
 # id: quest_aq_1609
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: И всё возвратится в прах
 # title_en: As All Falls to Emptiness
 # title_zh: 身土坏空，五蕴识转
-# region: Нод-Край
+# region: Сумеру
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 1609

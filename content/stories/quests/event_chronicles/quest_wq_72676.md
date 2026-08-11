@@ -1,6 +1,7 @@
 # id: quest_wq_72676
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Eight Locales Over Mountains and Seas }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Восемь мест от гор до морей: Достопримечательности двух городов
 # title_en: Eight Locales Over Mountains and Seas: Two Cities' Recommendations
 # title_zh: 山海八所巡礼·双城风土名迹

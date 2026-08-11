@@ -1,5 +1,6 @@
 # id: quest_eq_10208
 # story_group: event_chronicles
+# display_category: Ивент · Хроматическая ода конфетам и розам: Второй подарок
 # icon: assets/icons/stories/quests/sumerubirth.webp
 # title_ru: Сладость для неё
 # title_en: Give Her Sweetness

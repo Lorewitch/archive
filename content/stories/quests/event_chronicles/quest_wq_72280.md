@@ -1,6 +1,7 @@
 # id: quest_wq_72280
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Festival Deeds
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Руководство покупателя статуэтки её превосходительства Наруками Огосё, Электро Архонта
 # title_en: Buyer's Guide to the Statue of Her Excellency, the Almighty Narukami Ogosho, God of Thunder
 # title_zh: 「御建鸣神主尊大御所大人像」购入须知

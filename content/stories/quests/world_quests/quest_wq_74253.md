@@ -1,6 +1,7 @@
 # id: quest_wq_74253
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Анн, Мари-Анн и малышка Мари-Анн
 # title_en: Ann, Mary-Ann, and Marionette
 # title_zh: 安与玛丽安与小玛丽安

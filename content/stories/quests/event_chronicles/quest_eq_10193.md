@@ -1,5 +1,6 @@
 # id: quest_eq_10193
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Драконы? Сказка!: Страница II
 # icon: assets/icons/stories/quests/fairytales.webp
 # title_ru: Они идут по звёздам.
 # title_en: They Once Walked the Starry Sky

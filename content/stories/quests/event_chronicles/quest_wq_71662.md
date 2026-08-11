@@ -1,6 +1,7 @@
 # id: quest_wq_71662
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Божественное мастерство
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Божественное мастерство
 # title_en: Divine Ingenuity
 # title_zh: 神工天巧

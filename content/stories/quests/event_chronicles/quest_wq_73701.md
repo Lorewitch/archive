@@ -1,6 +1,7 @@
 # id: quest_wq_73701
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · The Recollector's Path
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путь воспоминаний
 # title_en: The Recollector's Path
 # title_zh: 忆昔诸途巡历

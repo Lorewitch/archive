@@ -1,6 +1,7 @@
 # id: quest_wq_70691
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Soulblazers' Snowbound Journey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Игры в снегу тоже тренировка!
 # title_en: Playing in the Snow Counts as Training Too!
 # title_zh: 雪中游戏，也是修行！

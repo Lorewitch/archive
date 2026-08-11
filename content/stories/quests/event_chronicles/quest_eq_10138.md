@@ -1,5 +1,6 @@
 # id: quest_eq_10138
 # story_group: event_chronicles
+# display_category: Ивент · Праздник ветряных цветов III
 # icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Небесное блаженство
 # title_en: Joy Above the Clouds

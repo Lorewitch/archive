@@ -1,10 +1,11 @@
 # id: quest_wq_70813
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Держи вора!
 # title_en: Thief-Catcher
 # title_zh: 捕盗
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70813

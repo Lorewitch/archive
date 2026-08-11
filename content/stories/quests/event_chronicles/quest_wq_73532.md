@@ -1,6 +1,7 @@
 # id: quest_wq_73532
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertide Scales and Tales
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Тёмная текстуальная тайна
 # title_en: An Odd Textual Mystery
 # title_zh: 奇书疑云

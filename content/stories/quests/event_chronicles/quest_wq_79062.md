@@ -1,6 +1,7 @@
 # id: quest_wq_79062
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertide Scales and Tales
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Примечания к истории
 # title_en: Narration Footnotes
 # title_zh: 旁白的注脚

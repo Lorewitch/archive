@@ -1,5 +1,6 @@
 # id: quest_wq_10148
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Королевство в зеркале
 # title_en: Kingdom Through the Looking-Glass

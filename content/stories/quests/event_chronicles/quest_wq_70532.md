@@ -1,6 +1,7 @@
 # id: quest_wq_70532
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Duel! The Summoners' Summit!
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Карточные вечера
 # title_en: Zero Hour Invokation
 # title_zh: 零时召唤

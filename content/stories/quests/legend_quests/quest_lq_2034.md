@@ -1,5 +1,6 @@
 # id: quest_lq_2034
 # story_group: legend_quests
+# display_category: Задание Легенд · Нахида
 # icon: assets/icons/stories/quests/nahida.webp
 # title_ru: Непрекращающееся тепло
 # title_en: Lingering Warmth

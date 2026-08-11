@@ -1,6 +1,7 @@
 # id: quest_wq_72688
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Hues of the Violet Garden
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Подворье цветов. Часть II
 # title_en: The Floral Courtyard: Part II
 # title_zh: 花影瑶庭·其二

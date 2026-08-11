@@ -1,10 +1,11 @@
 # id: quest_wq_72232
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Чистый дом
 # title_en: Clean House
 # title_zh: 门户清理
-# region: Тейват
+# region: Инадзума
 # game_version: 2.2
 # release_versions: 2.2
 # source_id: 72232

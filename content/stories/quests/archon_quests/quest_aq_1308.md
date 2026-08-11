@@ -1,10 +1,11 @@
 # id: quest_aq_1308
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Кариберт
 # title_en: Caribert
 # title_zh: 卡利贝尔
-# region: Тейват
+# region: Сумеру
 # game_version: 3.5
 # release_versions: 3.5
 # source_id: 1308

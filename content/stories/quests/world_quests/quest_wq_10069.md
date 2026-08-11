@@ -1,5 +1,6 @@
 # id: quest_wq_10069
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Кулинарная мечта
 # title_en: An Unwavering Culinary Dream

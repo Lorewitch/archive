@@ -1,6 +1,7 @@
 # id: quest_wq_70512
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Hidden Strife
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Призраки прошлого
 # title_en: Phantom of the Past
 # title_zh: 往日的谜影

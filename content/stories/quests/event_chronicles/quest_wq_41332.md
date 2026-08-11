@@ -1,6 +1,7 @@
 # id: quest_wq_41332
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Сытый клиент - довольный клиент
 # title_en: Keeping Wanmin's Patrons Fed
 # title_zh: 勺起万民足

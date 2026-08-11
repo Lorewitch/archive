@@ -1,6 +1,7 @@
 # id: quest_wq_73319
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Зов света
 # title_en: Lightcall Resonance
 # title_zh: 浮光鸣召

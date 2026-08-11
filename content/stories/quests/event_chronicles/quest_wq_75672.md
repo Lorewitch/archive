@@ -1,6 +1,7 @@
 # id: quest_wq_75672
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Kaleidoscopic Color Chase
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Яркие краски!
 # title_en: Don't Let the Colors Escape!
 # title_zh: 斑斓色彩不许逃！

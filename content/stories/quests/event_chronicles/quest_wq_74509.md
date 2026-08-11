@@ -1,6 +1,7 @@
 # id: quest_wq_74509
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lil' Fungi's Fun-Tastic Fiesta
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Противостояние традиций и инноваций!
 # title_en: A Clash Between the First and the Latest!
 # title_zh: 最初与最新的对决！

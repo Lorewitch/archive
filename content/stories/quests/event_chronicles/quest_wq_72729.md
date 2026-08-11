@@ -1,6 +1,7 @@
 # id: quest_wq_72729
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Akitsu Kimodameshi
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неуловимая мечта
 # title_en: Dreamlike
 # title_zh: 如梦似幻

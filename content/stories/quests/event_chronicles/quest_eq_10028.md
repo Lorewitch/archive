@@ -1,5 +1,6 @@
 # id: quest_eq_10028
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Остров? Приключение! Часть II
 # icon: assets/icons/stories/quests/goldenappleisles.webp
 # title_ru: Летние каникулы! Смотри в оба
 # title_en: Summer Vacation: Proceed With Caution

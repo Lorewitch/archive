@@ -1,5 +1,6 @@
 # id: quest_lq_2010
 # story_group: legend_quests
+# display_category: Задание Легенд · Мона
 # icon: assets/icons/stories/quests/mona.webp
 # title_ru: Что говорят звёзды этого мира
 # title_en: Beyond This World's Stars

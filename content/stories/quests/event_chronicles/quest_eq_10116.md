@@ -1,5 +1,6 @@
 # id: quest_eq_10116
 # story_group: event_chronicles
+# display_category: Ивент · Дуэль! К вершинам карточного мастерства! - Раунд 4
 # icon: assets/icons/stories/quests/journey.webp
 # title_ru: Кульминация! Разноголосье радостных грёз
 # title_en: Culminate! Chatter of Joyous Dreams

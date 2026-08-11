@@ -1,5 +1,6 @@
 # id: quest_wq_10060
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Скорбная песнь Гипериона
 # title_en: Hyperion's Dirge

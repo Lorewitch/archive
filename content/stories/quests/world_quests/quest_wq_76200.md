@@ -1,6 +1,7 @@
 # id: quest_wq_76200
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование растений: Двулистник
 # title_en: Plant Research: Twinleaf Pitcher Plants
 # title_zh: 植物调查·双叶笼草

@@ -1,6 +1,7 @@
 # id: quest_wq_76197
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование минералов: Ледяная галька
 # title_en: Mineral Research: Icy Pebbles
 # title_zh: 矿物调查·寒涌石

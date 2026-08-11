@@ -1,5 +1,6 @@
 # id: quest_aq_1002
 # story_group: archon_quests
+# display_category: Задание Архонтов · Мондштадт
 # icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Горькие слёзы
 # title_en: For a Tomorrow Without Tears

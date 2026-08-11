@@ -1,6 +1,7 @@
 # id: quest_wq_41122
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Unreconciled Stars
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: У каждого свои обязанности
 # title_en: To Each Their Duty
 # title_zh: 各有职责

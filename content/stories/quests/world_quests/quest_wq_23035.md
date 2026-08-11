@@ -1,6 +1,7 @@
 # id: quest_wq_23035
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: В следующей части «Короля заклинаний»...
 # title_en: Next Time, On King of Invokations...
 # title_zh: 《召唤王·下集！是…》

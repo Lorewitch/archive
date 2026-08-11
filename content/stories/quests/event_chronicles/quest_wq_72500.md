@@ -1,6 +1,7 @@
 # id: quest_wq_72500
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · The Almighty Arataki Great and Glorious Drumalong Festival
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: После праздника
 # title_en: Festival Afterword
 # title_zh: 祭典后话

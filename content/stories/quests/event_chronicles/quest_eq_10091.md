@@ -1,5 +1,6 @@
 # id: quest_eq_10091
 # story_group: event_chronicles
+# display_category: Ивент · Летнее морское путешествие IV
 # icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Апокалипсис вечной ночи
 # title_en: Immernachtreich Apokalypse

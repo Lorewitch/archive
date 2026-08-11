@@ -1,5 +1,6 @@
 # id: quest_eq_10099
 # story_group: event_chronicles
+# display_category: Ивент · О балладах и кубках
 # icon: assets/icons/stories/quests/vintage.webp
 # title_ru: Аромат вина из прошлого
 # title_en: Aroma of the Past

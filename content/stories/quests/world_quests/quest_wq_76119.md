@@ -1,6 +1,7 @@
 # id: quest_wq_76119
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Где прячется луна?
 # title_en: Where Does the Moon Hide?
 # title_zh: 月亮藏在哪

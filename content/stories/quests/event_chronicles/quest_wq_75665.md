@@ -1,6 +1,7 @@
 # id: quest_wq_75665
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Tournament of Glory in Bloom
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Экспедиция заврианов отправляется в путь!
 # title_en: Go Go Saurian Expedition!
 # title_zh: 龙龙远征，出发！

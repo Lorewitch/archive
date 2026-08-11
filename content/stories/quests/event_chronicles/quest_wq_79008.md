@@ -1,6 +1,7 @@
 # id: quest_wq_79008
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Midsummer Island Adventure
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Летний подарок
 # title_en: Summer Gift
 # title_zh: 夏日赠礼

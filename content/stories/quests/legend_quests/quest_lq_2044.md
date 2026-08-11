@@ -1,5 +1,6 @@
 # id: quest_lq_2044
 # story_group: legend_quests
+# display_category: Задание Легенд · Навия
 # icon: assets/icons/stories/quests/navia.webp
 # title_ru: Вместе преодолевая приливы
 # title_en: Braving the Tides Together

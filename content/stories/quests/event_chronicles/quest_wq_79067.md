@@ -1,6 +1,7 @@
 # id: quest_wq_79067
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertide Scales and Tales
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ответ листьев лотоса и леса
 # title_en: The Answer of the Lotus Leaves and Forest
 # title_zh: 荷叶与森林的答案

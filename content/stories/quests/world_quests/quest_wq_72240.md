@@ -1,6 +1,7 @@
 # id: quest_wq_72240
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Испытание Датэ
 # title_en: Date's Challenge
 # title_zh: 伊达的挑战状

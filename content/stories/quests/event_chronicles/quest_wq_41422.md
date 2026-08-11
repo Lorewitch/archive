@@ -1,6 +1,7 @@
 # id: quest_wq_41422
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Wishful Drops
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ручьи жизни II
 # title_en: Life Flows On (II)
 # title_zh: 潺潺向前·其二

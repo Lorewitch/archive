@@ -1,10 +1,11 @@
 # id: quest_wq_74655
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Молочный забег Пабана
 # title_en: Paban's Milk Run
 # title_zh: 帕班的牛奶需求
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74655

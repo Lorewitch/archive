@@ -1,5 +1,6 @@
 # id: quest_eq_10171
 # story_group: event_chronicles
+# display_category: Ивент · Алхимия и управление II
 # icon: assets/icons/stories/quests/alchemysim.webp
 # title_ru: Достижение в ремесле
 # title_en: A Breakthrough in Craft

@@ -1,5 +1,6 @@
 # id: quest_aq_1602
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Возвращение домой
 # title_en: The Journey Home

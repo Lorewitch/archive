@@ -1,10 +1,11 @@
 # id: quest_wq_71802
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Подношение Адептам
 # title_en: An Adeptal Summons
 # title_zh: 承仙所托
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 71802

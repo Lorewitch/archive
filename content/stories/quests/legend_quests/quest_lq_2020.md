@@ -1,5 +1,6 @@
 # id: quest_lq_2020
 # story_group: legend_quests
+# display_category: Задание Легенд · Чжун Ли
 # icon: assets/icons/stories/quests/zhongli.webp
 # title_ru: Каменное сердце
 # title_en: No Mere Stone

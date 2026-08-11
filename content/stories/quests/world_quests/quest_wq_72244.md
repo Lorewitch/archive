@@ -1,10 +1,11 @@
 # id: quest_wq_72244
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сиртос Фаэтонов
 # title_en: The Phaethons' Syrtos
 # title_zh: 法厄同们全跳舞
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72244

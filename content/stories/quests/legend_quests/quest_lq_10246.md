@@ -1,10 +1,11 @@
 # id: quest_lq_10246
 # story_group: legend_quests
+# display_category: Ивент · Лето! Жара? Курорт! II
 # icon: assets/icons/stories/quests/easybreezeholidayresort.webp
 # title_ru: Мир - холст!
 # title_en: The World Is Your Canvas!
 # title_zh: 畅玩！举目之处皆为画布！
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 10246

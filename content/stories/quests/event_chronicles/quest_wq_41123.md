@@ -1,6 +1,7 @@
 # id: quest_wq_41123
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Unreconciled Stars
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Непредвиденные обстоятельства
 # title_en: Contingencies
 # title_zh: 紧急措施

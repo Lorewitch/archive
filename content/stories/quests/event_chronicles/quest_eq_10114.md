@@ -1,5 +1,6 @@
 # id: quest_eq_10114
 # story_group: event_chronicles
+# display_category: Ивент · Дуэль! К вершинам карточного мастерства! - Раунд 2
 # icon: assets/icons/stories/quests/journey.webp
 # title_ru: Бросок дайсов! Новые знакомства
 # title_en: Roll! A Sea of New Acquaintances

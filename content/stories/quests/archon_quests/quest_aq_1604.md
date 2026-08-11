@@ -1,5 +1,6 @@
 # id: quest_aq_1604
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Элегия угасшего лунного света
 # title_en: An Elegy for Faded Moonlight

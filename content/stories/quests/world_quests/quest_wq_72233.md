@@ -1,10 +1,11 @@
 # id: quest_wq_72233
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Стоячая вода
 # title_en: The Still Water's Flow
 # title_zh: 止水之潘
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72233

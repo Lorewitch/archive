@@ -1,6 +1,7 @@
 # id: quest_eq_40095
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Турнир укротителей «Кубок лотоса нилотпала»
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Турнир укротителей «Кубок лотоса нилотпала»
 # title_en: Nilotpala Cup Beast Tamers Tournament
 # title_zh: 「月莲杯驯兽师大赛」

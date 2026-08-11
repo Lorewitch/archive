@@ -1,10 +1,11 @@
 # id: quest_wq_72714
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Яйца для Рику
 # title_en: Riku's Eggy Endeavor
 # title_zh: 陆的鸟蛋需求
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72714

@@ -1,6 +1,7 @@
 # id: quest_wq_79000
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Midsummer Island Adventure
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Те, что слышат море
 # title_en: They Who Hear the Sea
 # title_zh: 听海人

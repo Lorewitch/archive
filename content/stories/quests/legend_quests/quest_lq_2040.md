@@ -1,5 +1,6 @@
 # id: quest_lq_2040
 # story_group: legend_quests
+# display_category: Задание Легенд · Лини
 # icon: assets/icons/stories/quests/liney.webp
 # title_ru: Забытый разбойник
 # title_en: The Forgotten Thief

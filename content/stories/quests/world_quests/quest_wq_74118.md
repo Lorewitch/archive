@@ -1,10 +1,11 @@
 # id: quest_wq_74118
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Вся его жизнь
 # title_en: Where His Life Lies
 # title_zh: 他的生命在那边
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 74118

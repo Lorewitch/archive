@@ -1,6 +1,7 @@
 # id: quest_wq_73203
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Изгнанник: Цветение
 # title_en: The Exile: Blooming
 # title_zh: 流放者·花期

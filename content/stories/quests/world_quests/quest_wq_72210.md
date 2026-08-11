@@ -1,6 +1,7 @@
 # id: quest_wq_72210
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Кошка Нэко: Дети
 # title_en: Neko Is a Cat: The Children
 # title_zh: 寝子是只猫·孩子们

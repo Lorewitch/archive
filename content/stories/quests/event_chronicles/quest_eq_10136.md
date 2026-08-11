@@ -1,5 +1,6 @@
 # id: quest_eq_10136
 # story_group: event_chronicles
+# display_category: Ивент · Праздник ветряных цветов I
 # icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Прибытие чужеземцев
 # title_en: A Gathering of Outlanders

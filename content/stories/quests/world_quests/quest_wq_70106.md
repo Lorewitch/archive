@@ -1,10 +1,11 @@
 # id: quest_wq_70106
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ах, свежее мясо!
 # title_en: Ah, Fresh Meat!
 # title_zh: 啊，新鲜的肉！
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70106

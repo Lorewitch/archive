@@ -1,10 +1,11 @@
 # id: quest_wq_73067
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Храбрость исходит из сердца
 # title_en: Courage Is in the Heart
 # title_zh: 勇气戴于心上
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73067

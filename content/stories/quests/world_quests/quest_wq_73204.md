@@ -1,6 +1,7 @@
 # id: quest_wq_73204
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Подаренная роза: Острые колючки
 # title_en: A Gifted Rose: Prickly as Thorns
 # title_zh: 献给某人的蔷薇·如荆棘一般多刺

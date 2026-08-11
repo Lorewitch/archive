@@ -1,6 +1,7 @@
 # id: quest_wq_71660
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Study in Potions
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Разговоры о науке
 # title_en: Academic Exchange
 # title_zh: 学术的往来

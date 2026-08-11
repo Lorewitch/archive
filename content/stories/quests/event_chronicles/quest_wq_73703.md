@@ -1,6 +1,7 @@
 # id: quest_wq_73703
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Свет мой, зеркальце, скажи
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Свет мой, зеркальце, скажи
 # title_en: Tell Me, Mirror Mirror
 # title_zh: 镜子镜子告诉我

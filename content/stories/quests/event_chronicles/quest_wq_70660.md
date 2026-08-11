@@ -1,6 +1,7 @@
 # id: quest_wq_70660
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · По следам ветра
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: По следам ветра
 # title_en: Windtrace
 # title_zh: 风行迷踪

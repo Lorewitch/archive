@@ -1,10 +1,11 @@
 # id: quest_lq_2075
 # story_group: legend_quests
+# display_category: Задание Легенд · Скирк
 # icon: assets/icons/stories/quests/skirknew.webp
 # title_ru: Шёпот меж звёздами и тьмой
 # title_en: Whispers Betwixt Stars and Night
 # title_zh: 星与夜的低语
-# region: Иной мир
+# region: Ли Юэ
 # game_version: 5.7
 # release_versions: 5.7
 # source_id: 2075

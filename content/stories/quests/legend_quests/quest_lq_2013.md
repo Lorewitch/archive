@@ -1,5 +1,6 @@
 # id: quest_lq_2013
 # story_group: legend_quests
+# display_category: Задание Легенд · Венти
 # icon: assets/icons/stories/quests/venti.webp
 # title_ru: Ежели тебя не поддерживают ветра
 # title_en: Should You Be Trapped in a Windless Land

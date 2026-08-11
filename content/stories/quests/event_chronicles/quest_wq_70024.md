@@ -1,6 +1,7 @@
 # id: quest_wq_70024
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Mimi Tomo
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Поймай меня, если сможешь
 # title_en: Mimi Tomo
 # title_zh: 折箭觅踪

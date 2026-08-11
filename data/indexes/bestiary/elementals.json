@@ -1,0 +1,1053 @@
+[
+  {
+    "id": "anemo_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/anemo_slime.webp",
+    "title": {
+      "ru": "Анемо слайм",
+      "en": "Anemo Slime",
+      "zh": "风史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Анемо слайм",
+      "Anemo Slime",
+      "风史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "анемо слайм anemo slime 风史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "anemo_specter",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/anemo_specter.webp",
+    "title": {
+      "ru": "Анемо призрак",
+      "en": "Anemo Specter",
+      "zh": "风飘浮灵"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "2.1",
+    "tags": [
+      "Анемо призрак",
+      "Anemo Specter",
+      "风飘浮灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 2001000,
+    "search_text": "анемо призрак anemo specter 风飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  {
+    "id": "blazing_brilliance_frostnight_scion",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/blazing_brilliance_frostnight_scion.webp",
+    "title": {
+      "ru": "Пылающее сияние: Потомок морозной ночи",
+      "en": "Blazing Brilliance: Frostnight Scion",
+      "zh": "灼烜·霜夜灵嗣"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Пылающее сияние: Потомок морозной ночи",
+      "Blazing Brilliance: Frostnight Scion",
+      "灼烜·霜夜灵嗣"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 6000000,
+    "search_text": "пылающее сияние: потомок морозной ночи blazing brilliance: frostnight scion 灼烜·霜夜灵嗣 elementals common_enemy нод-край 6.0 мерцание морозной ночи / сияние морозной ночи / слава морозной ночи frostnights 霜夜的残照 / 霜夜的柔辉 / 霜夜的煌荣"
+  },
+  {
+    "id": "cryo_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cryo_slime.webp",
+    "title": {
+      "ru": "Крио слайм",
+      "en": "Cryo Slime",
+      "zh": "冰史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Крио слайм",
+      "Cryo Slime",
+      "冰史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "крио слайм cryo slime 冰史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "cryo_specter",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cryo_specter.webp",
+    "title": {
+      "ru": "Крио призрак",
+      "en": "Cryo Specter",
+      "zh": "冰飘浮灵"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "2.1",
+    "tags": [
+      "Крио призрак",
+      "Cryo Specter",
+      "冰飘浮灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 2001000,
+    "search_text": "крио призрак cryo specter 冰飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  {
+    "id": "dendro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/dendro_slime.webp",
+    "title": {
+      "ru": "Дендро слайм",
+      "en": "Dendro Slime",
+      "zh": "草史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Дендро слайм",
+      "Dendro Slime",
+      "草史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "дендро слайм dendro slime 草史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "dendro_specter",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/dendro_specter.webp",
+    "title": {
+      "ru": "Дендро призрак",
+      "en": "Dendro Specter",
+      "zh": "草飘浮灵"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "2.1",
+    "tags": [
+      "Дендро призрак",
+      "Dendro Specter",
+      "草飘浮灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 2001000,
+    "search_text": "дендро призрак dendro specter 草飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  {
+    "id": "electro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/electro_slime.webp",
+    "title": {
+      "ru": "Электро слайм",
+      "en": "Electro Slime",
+      "zh": "雷史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Электро слайм",
+      "Electro Slime",
+      "雷史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "электро слайм electro slime 雷史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "electro_specter",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/electro_specter.webp",
+    "title": {
+      "ru": "Электро призрак",
+      "en": "Electro Specter",
+      "zh": "雷飘浮灵"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "2.1",
+    "tags": [
+      "Электро призрак",
+      "Electro Specter",
+      "雷飘浮灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 2001000,
+    "search_text": "электро призрак electro specter 雷飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  {
+    "id": "geo_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/geo_slime.webp",
+    "title": {
+      "ru": "Гео слайм",
+      "en": "Geo Slime",
+      "zh": "岩史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Гео слайм",
+      "Geo Slime",
+      "岩史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "гео слайм geo slime 岩史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "geo_specter",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/geo_specter.webp",
+    "title": {
+      "ru": "Гео призрак",
+      "en": "Geo Specter",
+      "zh": "岩飘浮灵"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "2.1",
+    "tags": [
+      "Гео призрак",
+      "Geo Specter",
+      "岩飘浮灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 2001000,
+    "search_text": "гео призрак geo specter 岩飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  {
+    "id": "gleaming_charge_frostnight_scion",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/gleaming_charge_frostnight_scion.webp",
+    "title": {
+      "ru": "Сияющая молния: Потомок морозной ночи",
+      "en": "Gleaming Charge: Frostnight Scion",
+      "zh": "辉电·霜夜灵嗣"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Сияющая молния: Потомок морозной ночи",
+      "Gleaming Charge: Frostnight Scion",
+      "辉电·霜夜灵嗣"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 6000000,
+    "search_text": "сияющая молния: потомок морозной ночи gleaming charge: frostnight scion 辉电·霜夜灵嗣 elementals common_enemy нод-край 6.0 мерцание морозной ночи / сияние морозной ночи / слава морозной ночи frostnights 霜夜的残照 / 霜夜的柔辉 / 霜夜的煌荣"
+  },
+  {
+    "id": "hydro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hydro_slime.webp",
+    "title": {
+      "ru": "Гидро слайм",
+      "en": "Hydro Slime",
+      "zh": "水史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Гидро слайм",
+      "Hydro Slime",
+      "水史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "гидро слайм hydro slime 水史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "hydro_specter",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hydro_specter.webp",
+    "title": {
+      "ru": "Гидро призрак",
+      "en": "Hydro Specter",
+      "zh": "水飘浮灵"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "2.1",
+    "tags": [
+      "Гидро призрак",
+      "Hydro Specter",
+      "水飘浮灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 2001000,
+    "search_text": "гидро призрак hydro specter 水飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  {
+    "id": "icy_crystal_frostnight_scion",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/icy_crystal_frostnight_scion.webp",
+    "title": {
+      "ru": "Ледяной кристалл: Потомок морозной ночи",
+      "en": "Icy Crystal: Frostnight Scion",
+      "zh": "凌晶·霜夜灵嗣"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Ледяной кристалл: Потомок морозной ночи",
+      "Icy Crystal: Frostnight Scion",
+      "凌晶·霜夜灵嗣"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 6000000,
+    "search_text": "ледяной кристалл: потомок морозной ночи icy crystal: frostnight scion 凌晶·霜夜灵嗣 elementals common_enemy нод-край 6.0 мерцание морозной ночи / сияние морозной ночи / слава морозной ночи frostnights 霜夜的残照 / 霜夜的柔辉 / 霜夜的煌荣"
+  },
+  {
+    "id": "large_anemo_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_anemo_slime.webp",
+    "title": {
+      "ru": "Большой Анемо слайм",
+      "en": "Large Anemo Slime",
+      "zh": "大型风史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Большой Анемо слайм",
+      "Large Anemo Slime",
+      "大型风史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "большой анемо слайм large anemo slime 大型风史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "large_cryo_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_cryo_slime.webp",
+    "title": {
+      "ru": "Большой Крио слайм",
+      "en": "Large Cryo Slime",
+      "zh": "大型冰史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Большой Крио слайм",
+      "Large Cryo Slime",
+      "大型冰史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "большой крио слайм large cryo slime 大型冰史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "large_dendro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_dendro_slime.webp",
+    "title": {
+      "ru": "Большой Дендро слайм",
+      "en": "Large Dendro Slime",
+      "zh": "大型草史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Большой Дендро слайм",
+      "Large Dendro Slime",
+      "大型草史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "большой дендро слайм large dendro slime 大型草史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "large_electro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_electro_slime.webp",
+    "title": {
+      "ru": "Большой Электро слайм",
+      "en": "Large Electro Slime",
+      "zh": "大型雷史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Большой Электро слайм",
+      "Large Electro Slime",
+      "大型雷史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "большой электро слайм large electro slime 大型雷史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "large_geo_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_geo_slime.webp",
+    "title": {
+      "ru": "Большой Гео слайм",
+      "en": "Large Geo Slime",
+      "zh": "大型岩史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Большой Гео слайм",
+      "Large Geo Slime",
+      "大型岩史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "большой гео слайм large geo slime 大型岩史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "large_hydro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_hydro_slime.webp",
+    "title": {
+      "ru": "Большой Гидро слайм",
+      "en": "Large Hydro Slime",
+      "zh": "大型水史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Большой Гидро слайм",
+      "Large Hydro Slime",
+      "大型水史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "большой гидро слайм large hydro slime 大型水史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "large_pyro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/large_pyro_slime.webp",
+    "title": {
+      "ru": "Большой Пиро слайм",
+      "en": "Large Pyro Slime",
+      "zh": "大型火史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Большой Пиро слайм",
+      "Large Pyro Slime",
+      "大型火史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "большой пиро слайм large pyro slime 大型火史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "mutant_electro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/mutant_electro_slime.webp",
+    "title": {
+      "ru": "Электро слайм-мутант",
+      "en": "Mutant Electro Slime",
+      "zh": "变异雷史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Электро слайм-мутант",
+      "Mutant Electro Slime",
+      "变异雷史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "электро слайм-мутант mutant electro slime 变异雷史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "pyro_slime",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/pyro_slime.webp",
+    "title": {
+      "ru": "Пиро слайм",
+      "en": "Pyro Slime",
+      "zh": "火史莱姆"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Пиро слайм",
+      "Pyro Slime",
+      "火史莱姆"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 1000000,
+    "search_text": "пиро слайм pyro slime 火史莱姆 elementals common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 слизь слайма / выделения слайма / концентрат слайма slimes 史莱姆凝液 / 史莱姆清 / 史莱姆原浆"
+  },
+  {
+    "id": "pyro_specter",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/pyro_specter.webp",
+    "title": {
+      "ru": "Пиро призрак",
+      "en": "Pyro Specter",
+      "zh": "火飘浮灵"
+    },
+    "region": "Инадзума, Сумеру",
+    "game_version": "2.1",
+    "tags": [
+      "Пиро призрак",
+      "Pyro Specter",
+      "火飘浮灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Инадзума",
+      "Сумеру"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 2001000,
+    "search_text": "пиро призрак pyro specter 火飘浮灵 elementals common_enemy инадзума, сумеру 2.1 призрачная оболочка / призрачное сердце / призрачное ядро spectrals 浮游干核 / 浮游幽核 / 浮游晶化核"
+  },
+  {
+    "id": "tainted_water_splitting_phantasm",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tainted_water_splitting_phantasm.webp",
+    "title": {
+      "ru": "Дробящий воду фантазм",
+      "en": "Tainted Water-Splitting Phantasm",
+      "zh": "浊水粉碎幻灵"
+    },
+    "region": "Ли Юэ, Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Дробящий воду фантазм",
+      "Tainted Water-Splitting Phantasm",
+      "浊水粉碎幻灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Фонтейн"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 4000000,
+    "search_text": "дробящий воду фантазм tainted water-splitting phantasm 浊水粉碎幻灵 elementals common_enemy ли юэ, фонтейн 4.0 мутная капля / мутная лужица / новорождённый фантазм мутных вод tainteds 浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵"
+  },
+  {
+    "id": "tainted_water_spouting_phantasm",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tainted_water_spouting_phantasm.webp",
+    "title": {
+      "ru": "Извергающий воду фантазм",
+      "en": "Tainted Water-Spouting Phantasm",
+      "zh": "浊水喷吐幻灵"
+    },
+    "region": "Ли Юэ, Фонтейн",
+    "game_version": "4.0",
+    "tags": [
+      "Извергающий воду фантазм",
+      "Tainted Water-Spouting Phantasm",
+      "浊水喷吐幻灵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Ли Юэ",
+      "Фонтейн"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 4000000,
+    "search_text": "извергающий воду фантазм tainted water-spouting phantasm 浊水喷吐幻灵 elementals common_enemy ли юэ, фонтейн 4.0 мутная капля / мутная лужица / новорождённый фантазм мутных вод tainteds 浊水的一滴 / 浊水的一掬 / 初生的浊水幻灵"
+  },
+  {
+    "id": "tangled_vines_frostnight_scion",
+    "category": "enemies",
+    "enemy_group": "elementals",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tangled_vines_frostnight_scion.webp",
+    "title": {
+      "ru": "Переплетённая лоза: Потомок морозной ночи",
+      "en": "Tangled Vines: Frostnight Scion",
+      "zh": "蔓结·霜夜灵嗣"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "tags": [
+      "Переплетённая лоза: Потомок морозной ночи",
+      "Tangled Vines: Frostnight Scion",
+      "蔓结·霜夜灵嗣"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "elementals"
+    ],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "elementals",
+    "sort_version": 6000000,
+    "search_text": "переплетённая лоза: потомок морозной ночи tangled vines: frostnight scion 蔓结·霜夜灵嗣 elementals common_enemy нод-край 6.0 мерцание морозной ночи / сияние морозной ночи / слава морозной ночи frostnights 霜夜的残照 / 霜夜的柔辉 / 霜夜的煌荣"
+  }
+]

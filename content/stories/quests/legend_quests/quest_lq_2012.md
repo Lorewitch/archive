@@ -1,10 +1,11 @@
 # id: quest_lq_2012
 # story_group: legend_quests
+# display_category: Задание Легенд · Тарталья
 # icon: assets/icons/stories/quests/tartaglia.webp
 # title_ru: Приключение могучего Одноглазика!
 # title_en: Mighty Cyclops' Adventure!
 # title_zh: 独眼小宝总动员
-# region: Снежная
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 2012

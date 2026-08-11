@@ -1,6 +1,7 @@
 # id: quest_wq_73352
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Chromatic Ode of Candies and Roses
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мчащийся экипаж
 # title_en: Rocking Carriage
 # title_zh: 花车摇曳

@@ -1,6 +1,7 @@
 # id: quest_wq_70009
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Invitation of Windblume
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Снежинки и ветряные цветы
 # title_en: Windblumes and Snowflakes
 # title_zh: 风花与雪花

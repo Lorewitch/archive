@@ -1,10 +1,11 @@
 # id: quest_wq_21024
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Крупная сделка
 # title_en: Big Business
 # title_zh: 大生意
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 21024

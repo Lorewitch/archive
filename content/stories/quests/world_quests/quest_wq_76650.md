@@ -1,6 +1,7 @@
 # id: quest_wq_76650
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Молитвы Морозной Луне
 # title_en: Blessings of the Frost Moon
 # title_zh: 霜月的祝祷

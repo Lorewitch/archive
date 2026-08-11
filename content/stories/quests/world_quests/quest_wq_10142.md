@@ -1,5 +1,6 @@
 # id: quest_wq_10142
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Кисть морской пены и кармина
 # title_en: A Brush of Seafoam and Crimson

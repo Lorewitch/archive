@@ -1,5 +1,6 @@
 # id: quest_wq_10087
 # story_group: world_quests
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/deshret.webp
 # title_ru: Золотая страна грёз
 # title_en: Golden Slumber

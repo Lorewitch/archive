@@ -1,6 +1,7 @@
 # id: quest_wq_76120
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Художник - друг Луны. Часть IV
 # title_en: The Artist By the Moon's Side (IV)
 # title_zh: 伴月的小画家·其四

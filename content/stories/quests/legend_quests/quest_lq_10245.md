@@ -1,10 +1,11 @@
 # id: quest_lq_10245
 # story_group: legend_quests
+# display_category: Ивент · Лето! Жара? Курорт! I
 # icon: assets/icons/stories/quests/easybreezeholidayresort.webp
 # title_ru: В путь! Беззаботные каникулы?
 # title_en: To a Carefree Vacation!
 # title_zh: 出发！无忧无虑的度假之旅？
-# region: Тейват
+# region: Натлан
 # game_version: 5.8
 # release_versions: 5.8
 # source_id: 10245

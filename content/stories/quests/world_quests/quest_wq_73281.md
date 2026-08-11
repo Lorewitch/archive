@@ -1,6 +1,7 @@
 # id: quest_wq_73281
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Соколиная охота
 # title_en: "The Falcon's Hunt"
 # title_zh: 「鹰猎」

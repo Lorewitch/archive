@@ -1,5 +1,6 @@
 # id: quest_eq_10115
 # story_group: event_chronicles
+# display_category: Ивент · Дуэль! К вершинам карточного мастерства! - Раунд 3
 # icon: assets/icons/stories/quests/journey.webp
 # title_ru: Карты на стол! Прощание с обидами
 # title_en: Cards Out! Grievances Begone

@@ -1,5 +1,6 @@
 # id: quest_eq_10013
 # story_group: event_chronicles
+# display_category: Ивент · Принц мела и дракон
 # icon: assets/icons/stories/quests/dragonspine.webp
 # title_ru: Незваные гости
 # title_en: Uninvited Guests

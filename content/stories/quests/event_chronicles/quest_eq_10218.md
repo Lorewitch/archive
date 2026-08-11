@@ -1,5 +1,6 @@
 # id: quest_eq_10218
 # story_group: event_chronicles
+# display_category: Ивент · Талисманы весны: Первая строфа
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Ли Юэ празднует, а Восемь Великих противостоят тайному бедствию
 # title_en: Liyue Celebrates and Eight Adepts Face a Hidden Calamity

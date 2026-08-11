@@ -1,6 +1,7 @@
 # id: quest_wq_79004
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Midsummer Island Adventure
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Другая сторона острова и моря
 # title_en: The Other Side of Isle and Sea
 # title_zh: 岛与海的彼端

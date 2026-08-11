@@ -1,5 +1,6 @@
 # id: quest_eq_10129
 # story_group: event_chronicles
+# display_category: Ивент · Поэзия вод
 # icon: assets/icons/stories/quests/poetryfestival.webp
 # title_ru: Сердце глубины
 # title_en: Heart of the Deep

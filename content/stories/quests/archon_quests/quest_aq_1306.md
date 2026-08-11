@@ -1,10 +1,11 @@
 # id: quest_aq_1306
 # story_group: archon_quests
+# display_category: Задание Архонтов · Близнецы
 # icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Сто свежих роз приносит утро: Финал
 # title_en: The Morn a Thousand Roses Brings: Denouement
 # title_zh: 千朵玫瑰带来的黎明·尾声
-# region: Сумеру
+# region: Тейват
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 1306

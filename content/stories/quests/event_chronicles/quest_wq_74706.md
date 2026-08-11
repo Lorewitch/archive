@@ -1,6 +1,7 @@
 # id: quest_wq_74706
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Звезда в аквариуме?
 # title_en: A Superstar... In the Aquarium?
 # title_zh: 水族箱里的…明星？

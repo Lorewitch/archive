@@ -1,6 +1,7 @@
 # id: quest_wq_75505
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Aphid Treasure Trace
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сокровище тли
 # title_en: Aphid Treasure
 # title_zh: 蜜虫之宝

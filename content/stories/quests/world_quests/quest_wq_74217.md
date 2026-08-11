@@ -1,10 +1,11 @@
 # id: quest_wq_74217
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Мечты, что сильнее пространства и времени
 # title_en: Daydreams Beyond Space and Time
 # title_zh: 超越时空之空想
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.6
 # release_versions: 4.6
 # source_id: 74217

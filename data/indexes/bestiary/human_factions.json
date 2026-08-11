@@ -1,0 +1,2040 @@
+[
+  {
+    "id": "eremite_axe_vanguard",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_axe_vanguard.webp",
+    "title": {
+      "ru": "Топорник Пустынников",
+      "en": "Eremite Axe Vanguard",
+      "zh": "镀金旅团·阵前斧手"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Топорник Пустынников",
+      "Eremite Axe Vanguard",
+      "镀金旅团·阵前斧手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "топорник пустынников eremite axe vanguard 镀金旅团·阵前斧手 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_crossbow",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_crossbow.webp",
+    "title": {
+      "ru": "Арбалетчик Пустынников",
+      "en": "Eremite Crossbow",
+      "zh": "镀金旅团·机弩兵"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Арбалетчик Пустынников",
+      "Eremite Crossbow",
+      "镀金旅团·机弩兵"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "арбалетчик пустынников eremite crossbow 镀金旅团·机弩兵 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_daythunder",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_daythunder.webp",
+    "title": {
+      "ru": "Пустынник: Полуденный гром",
+      "en": "Eremite Daythunder",
+      "zh": "镀金旅团·白日鸣雷"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Пустынник: Полуденный гром",
+      "Eremite Daythunder",
+      "镀金旅团·白日鸣雷"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "пустынник: полуденный гром eremite daythunder 镀金旅团·白日鸣雷 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_desert_clearwater",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_desert_clearwater.webp",
+    "title": {
+      "ru": "Пустынник: Родник в песках",
+      "en": "Eremite Desert Clearwater",
+      "zh": "镀金旅团・沙中净水"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Пустынник: Родник в песках",
+      "Eremite Desert Clearwater",
+      "镀金旅团・沙中净水"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "пустынник: родник в песках eremite desert clearwater 镀金旅团・沙中净水 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_floral_ring_dancer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_floral_ring_dancer.webp",
+    "title": {
+      "ru": "Пустынник: Танцовщица лиственного круга",
+      "en": "Eremite Floral Ring-Dancer",
+      "zh": "镀金旅团·叶轮舞者"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Пустынник: Танцовщица лиственного круга",
+      "Eremite Floral Ring-Dancer",
+      "镀金旅团·叶轮舞者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "пустынник: танцовщица лиственного круга eremite floral ring-dancer 镀金旅团·叶轮舞者 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_galehunter",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_galehunter.webp",
+    "title": {
+      "ru": "Пустынник: Охотница ветров",
+      "en": "Eremite Galehunter",
+      "zh": "镀金旅团·灵风猎手"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Пустынник: Охотница ветров",
+      "Eremite Galehunter",
+      "镀金旅团·灵风猎手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "пустынник: охотница ветров eremite galehunter 镀金旅团·灵风猎手 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_linebreaker",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_linebreaker.webp",
+    "title": {
+      "ru": "Штурмовик Пустынников",
+      "en": "Eremite Linebreaker",
+      "zh": "镀金旅团·破阵者"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Штурмовик Пустынников",
+      "Eremite Linebreaker",
+      "镀金旅团·破阵者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "штурмовик пустынников eremite linebreaker 镀金旅团·破阵者 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_ravenbeak_halberdier",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_ravenbeak_halberdier.webp",
+    "title": {
+      "ru": "Алебардщик Пустынников",
+      "en": "Eremite Ravenbeak Halberdier",
+      "zh": "镀金旅团·鸦喙戟手"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Алебардщик Пустынников",
+      "Eremite Ravenbeak Halberdier",
+      "镀金旅团·鸦喙戟手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "алебардщик пустынников eremite ravenbeak halberdier 镀金旅团·鸦喙戟手 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_scorching_loremaster",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_scorching_loremaster.webp",
+    "title": {
+      "ru": "Пустынник: Пылающий повествователь",
+      "en": "Eremite Scorching Loremaster",
+      "zh": "镀金旅团·炽沙叙事人"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Пустынник: Пылающий повествователь",
+      "Eremite Scorching Loremaster",
+      "镀金旅团·炽沙叙事人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "пустынник: пылающий повествователь eremite scorching loremaster 镀金旅团·炽沙叙事人 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_stone_enchanter",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_stone_enchanter.webp",
+    "title": {
+      "ru": "Пустынник: Зачарователь камней",
+      "en": "Eremite Stone Enchanter",
+      "zh": "镀金旅团·魔岩役使"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Пустынник: Зачарователь камней",
+      "Eremite Stone Enchanter",
+      "镀金旅团·魔岩役使"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "пустынник: зачарователь камней eremite stone enchanter 镀金旅团·魔岩役使 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_sunfrost",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_sunfrost.webp",
+    "title": {
+      "ru": "Пустынник: Пылающий лёд",
+      "en": "Eremite Sunfrost",
+      "zh": "镀金旅团・炽阳凝冰"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Пустынник: Пылающий лёд",
+      "Eremite Sunfrost",
+      "镀金旅团・炽阳凝冰"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "пустынник: пылающий лёд eremite sunfrost 镀金旅团・炽阳凝冰 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "eremite_sword_dancer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/eremite_sword_dancer.webp",
+    "title": {
+      "ru": "Мечник Пустынников",
+      "en": "Eremite Sword-Dancer",
+      "zh": "镀金旅团·刀舞者"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "tags": [
+      "Мечник Пустынников",
+      "Eremite Sword-Dancer",
+      "镀金旅团·刀舞者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 3000000,
+    "search_text": "мечник пустынников eremite sword-dancer 镀金旅团·刀舞者 human_factions common_enemy сумеру 3.0 выцветший красный шёлк / окаймлённый красный шёлк / златотканый красный шёлк reds 褪色红绸 / 镶边红绸 / 织金红绸"
+  },
+  {
+    "id": "ferocious_warrior_grappler",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ferocious_warrior_grappler.webp",
+    "title": {
+      "ru": "Свирепый воин: Ловец",
+      "en": "Ferocious Warrior: Grappler",
+      "zh": "横蛮勇士·抓扑人"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Свирепый воин: Ловец",
+      "Ferocious Warrior: Grappler",
+      "横蛮勇士·抓扑人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5005000,
+    "search_text": "свирепый воин: ловец ferocious warrior: grappler 横蛮勇士·抓扑人 human_factions common_enemy натлан 5.5 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "ferocious_warrior_human_ram",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ferocious_warrior_human_ram.webp",
+    "title": {
+      "ru": "Свирепый воин: Таран",
+      "en": "Ferocious Warrior: Human Ram",
+      "zh": "横蛮勇士·冲撞手"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Свирепый воин: Таран",
+      "Ferocious Warrior: Human Ram",
+      "横蛮勇士·冲撞手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5005000,
+    "search_text": "свирепый воин: таран ferocious warrior: human ram 横蛮勇士·冲撞手 human_factions common_enemy натлан 5.5 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "ferocious_warrior_wrestler",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/ferocious_warrior_wrestler.webp",
+    "title": {
+      "ru": "Свирепый воин: Борец",
+      "en": "Ferocious Warrior: Wrestler",
+      "zh": "横蛮勇士·摔跤客"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Свирепый воин: Борец",
+      "Ferocious Warrior: Wrestler",
+      "横蛮勇士·摔跤客"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5005000,
+    "search_text": "свирепый воин: борец ferocious warrior: wrestler 横蛮勇士·摔跤客 human_factions common_enemy натлан 5.5 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "flowing_blade_grease_saw",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/flowing_blade_grease_saw.webp",
+    "title": {
+      "ru": "Клинок течений: Режущий",
+      "en": "Flowing Blade Grease-Saw",
+      "zh": "流刃勇士 · 锯脂者"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Клинок течений: Режущий",
+      "Flowing Blade Grease-Saw",
+      "流刃勇士 · 锯脂者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "клинок течений: режущий flowing blade grease-saw 流刃勇士 · 锯脂者 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "flowing_blade_harpoon_thrower",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/flowing_blade_harpoon_thrower.webp",
+    "title": {
+      "ru": "Клинок течений: Метатель гарпуна",
+      "en": "Flowing Blade Harpoon-Thrower",
+      "zh": "流刃勇士 · 掷叉猎手"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Клинок течений: Метатель гарпуна",
+      "Flowing Blade Harpoon-Thrower",
+      "流刃勇士 · 掷叉猎手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "клинок течений: метатель гарпуна flowing blade harpoon-thrower 流刃勇士 · 掷叉猎手 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "flowing_blade_skirmisher",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/flowing_blade_skirmisher.webp",
+    "title": {
+      "ru": "Клинок течений: Налётчица",
+      "en": "Flowing Blade Skirmisher",
+      "zh": "流刃勇士 · 游击人"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Клинок течений: Налётчица",
+      "Flowing Blade Skirmisher",
+      "流刃勇士 · 游击人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "клинок течений: налётчица flowing blade skirmisher 流刃勇士 · 游击人 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "forged_sand_interrogator",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/forged_sand_interrogator.webp",
+    "title": {
+      "ru": "Кованый песок: Допросчица",
+      "en": "Forged Sand Interrogator",
+      "zh": "铸砂勇士 · 叩问人"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кованый песок: Допросчица",
+      "Forged Sand Interrogator",
+      "铸砂勇士 · 叩问人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "кованый песок: допросчица forged sand interrogator 铸砂勇士 · 叩问人 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "forged_sand_javelineer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/forged_sand_javelineer.webp",
+    "title": {
+      "ru": "Кованый песок: Копьеносец",
+      "en": "Forged Sand Javelineer",
+      "zh": "铸砂勇士 · 投矛手"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кованый песок: Копьеносец",
+      "Forged Sand Javelineer",
+      "铸砂勇士 · 投矛手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "кованый песок: копьеносец forged sand javelineer 铸砂勇士 · 投矛手 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "forged_sand_shieldbreaker",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/forged_sand_shieldbreaker.webp",
+    "title": {
+      "ru": "Кованый песок: Крушитель щитов",
+      "en": "Forged Sand Shieldbreaker",
+      "zh": "铸砂勇士 · 碎盾者"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кованый песок: Крушитель щитов",
+      "Forged Sand Shieldbreaker",
+      "铸砂勇士 · 碎盾者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "кованый песок: крушитель щитов forged sand shieldbreaker 铸砂勇士 · 碎盾者 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "iktomisaurus_warrior_cryocrystal_cannon",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/iktomisaurus_warrior_cryocrystal_cannon.webp",
+    "title": {
+      "ru": "Иктомизавр-воин: Криокристаллическая пушка",
+      "en": "Iktomisaurus Warrior: Cryocrystal Cannon",
+      "zh": "暝视龙武士 · 冰晶炮手"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Иктомизавр-воин: Криокристаллическая пушка",
+      "Iktomisaurus Warrior: Cryocrystal Cannon",
+      "暝视龙武士 · 冰晶炮手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "иктомизавр-воин: криокристаллическая пушка iktomisaurus warrior: cryocrystal cannon 暝视龙武士 · 冰晶炮手 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "iktomisaurus_warrior_icy_tidebearer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/iktomisaurus_warrior_icy_tidebearer.webp",
+    "title": {
+      "ru": "Иктомизавр-воин: Несущий ледяную волну",
+      "en": "Iktomisaurus Warrior: Icy Tidebearer",
+      "zh": "暝视龙武士 · 寒涌持者"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Иктомизавр-воин: Несущий ледяную волну",
+      "Iktomisaurus Warrior: Icy Tidebearer",
+      "暝视龙武士 · 寒涌持者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "иктомизавр-воин: несущий ледяную волну iktomisaurus warrior: icy tidebearer 暝视龙武士 · 寒涌持者 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "kairagi_dancing_thunder",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/kairagi_dancing_thunder.webp",
+    "title": {
+      "ru": "Кайраги: Громовое вознесение",
+      "en": "Kairagi: Dancing Thunder",
+      "zh": "海乱鬼·雷腾"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "tags": [
+      "Кайраги: Громовое вознесение",
+      "Kairagi: Dancing Thunder",
+      "海乱鬼·雷腾"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 2000000,
+    "search_text": "кайраги: громовое вознесение kairagi: dancing thunder 海乱鬼·雷腾 human_factions common_enemy инадзума 2.0 старая гарда / гарда кагэути / прославленная гарда handguards 破旧的刀镡 / 影打刀镡 / 名刀镡"
+  },
+  {
+    "id": "kairagi_fiery_might",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/kairagi_fiery_might.webp",
+    "title": {
+      "ru": "Кайраги: Огненная мощь",
+      "en": "Kairagi: Fiery Might",
+      "zh": "海乱鬼·炎威"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "tags": [
+      "Кайраги: Огненная мощь",
+      "Kairagi: Fiery Might",
+      "海乱鬼·炎威"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 2000000,
+    "search_text": "кайраги: огненная мощь kairagi: fiery might 海乱鬼·炎威 human_factions common_enemy инадзума 2.0 старая гарда / гарда кагэути / прославленная гарда handguards 破旧的刀镡 / 影打刀镡 / 名刀镡"
+  },
+  {
+    "id": "koholasaurus_warrior_reefsplitter",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/koholasaurus_warrior_reefsplitter.webp",
+    "title": {
+      "ru": "Кохолазавр-воин: Дробящая рифы",
+      "en": "Koholasaurus Warrior: Reefsplitter",
+      "zh": "鳍游龙武士 · 裂礁之涛"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кохолазавр-воин: Дробящая рифы",
+      "Koholasaurus Warrior: Reefsplitter",
+      "鳍游龙武士 · 裂礁之涛"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "кохолазавр-воин: дробящая рифы koholasaurus warrior: reefsplitter 鳍游龙武士 · 裂礁之涛 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "koholasaurus_warrior_waveshuttler",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/koholasaurus_warrior_waveshuttler.webp",
+    "title": {
+      "ru": "Кохолазавр-воин: Пронзающая волны",
+      "en": "Koholasaurus Warrior: Waveshuttler",
+      "zh": "鳍游龙武士 · 穿浪之梭"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кохолазавр-воин: Пронзающая волны",
+      "Koholasaurus Warrior: Waveshuttler",
+      "鳍游龙武士 · 穿浪之梭"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "кохолазавр-воин: пронзающая волны koholasaurus warrior: waveshuttler 鳍游龙武士 · 穿浪之梭 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "nobushi_hitsukeban",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/nobushi_hitsukeban.webp",
+    "title": {
+      "ru": "Нобуси: Хицукэбан",
+      "en": "Nobushi: Hitsukeban",
+      "zh": "野伏·火付番"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "tags": [
+      "Нобуси: Хицукэбан",
+      "Nobushi: Hitsukeban",
+      "野伏·火付番"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 2000000,
+    "search_text": "нобуси: хицукэбан nobushi: hitsukeban 野伏·火付番 human_factions common_enemy инадзума 2.0 старая гарда / гарда кагэути / прославленная гарда handguards 破旧的刀镡 / 影打刀镡 / 名刀镡"
+  },
+  {
+    "id": "nobushi_jintouban",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/nobushi_jintouban.webp",
+    "title": {
+      "ru": "Нобуси: Дзинтобан",
+      "en": "Nobushi: Jintouban",
+      "zh": "野伏·阵刀番"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "tags": [
+      "Нобуси: Дзинтобан",
+      "Nobushi: Jintouban",
+      "野伏·阵刀番"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 2000000,
+    "search_text": "нобуси: дзинтобан nobushi: jintouban 野伏·阵刀番 human_factions common_enemy инадзума 2.0 старая гарда / гарда кагэути / прославленная гарда handguards 破旧的刀镡 / 影打刀镡 / 名刀镡"
+  },
+  {
+    "id": "nobushi_kikouban",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/nobushi_kikouban.webp",
+    "title": {
+      "ru": "Нобуси: Кикобан",
+      "en": "Nobushi: Kikouban",
+      "zh": "野伏·机巧番"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "tags": [
+      "Нобуси: Кикобан",
+      "Nobushi: Kikouban",
+      "野伏·机巧番"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 2000000,
+    "search_text": "нобуси: кикобан nobushi: kikouban 野伏·机巧番 human_factions common_enemy инадзума 2.0 старая гарда / гарда кагэути / прославленная гарда handguards 破旧的刀镡 / 影打刀镡 / 名刀镡"
+  },
+  {
+    "id": "qucusaurus_warrior_blazing_sky",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/qucusaurus_warrior_blazing_sky.webp",
+    "title": {
+      "ru": "Кукузавр-воин: Пылающее небо",
+      "en": "Qucusaurus Warrior: Blazing Sky",
+      "zh": "绒翼龙武士 · 长空明焰"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кукузавр-воин: Пылающее небо",
+      "Qucusaurus Warrior: Blazing Sky",
+      "绒翼龙武士 · 长空明焰"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "кукузавр-воин: пылающее небо qucusaurus warrior: blazing sky 绒翼龙武士 · 长空明焰 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "qucusaurus_warrior_heartstar_hammer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/qucusaurus_warrior_heartstar_hammer.webp",
+    "title": {
+      "ru": "Кукузавр-воин: Молот звёзд",
+      "en": "Qucusaurus Warrior: Heartstar Hammer",
+      "zh": "绒翼龙武士 · 膛星之锤"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Кукузавр-воин: Молот звёзд",
+      "Qucusaurus Warrior: Heartstar Hammer",
+      "绒翼龙武士 · 膛星之锤"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "кукузавр-воин: молот звёзд qucusaurus warrior: heartstar hammer 绒翼龙武士 · 膛星之锤 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "spiritspeaker_warrior_contemplator",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_contemplator.webp",
+    "title": {
+      "ru": "Говорящий с духами воин: Размышляющий",
+      "en": "Spiritspeaker Warrior: Contemplator",
+      "zh": "灵觉勇士 · 冥思者"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Говорящий с духами воин: Размышляющий",
+      "Spiritspeaker Warrior: Contemplator",
+      "灵觉勇士 · 冥思者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "говорящий с духами воин: размышляющий spiritspeaker warrior: contemplator 灵觉勇士 · 冥思者 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "spiritspeaker_warrior_determinator",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_determinator.webp",
+    "title": {
+      "ru": "Говорящий с духами воин: Мастер настойчивости",
+      "en": "Spiritspeaker Warrior: Determinator",
+      "zh": "灵觉勇士 · 执意师"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Говорящий с духами воин: Мастер настойчивости",
+      "Spiritspeaker Warrior: Determinator",
+      "灵觉勇士 · 执意师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "говорящий с духами воин: мастер настойчивости spiritspeaker warrior: determinator 灵觉勇士 · 执意师 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "spiritspeaker_warrior_psychokinetic",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/spiritspeaker_warrior_psychokinetic.webp",
+    "title": {
+      "ru": "Говорящий с духами воин: Управляющий разумом",
+      "en": "Spiritspeaker Warrior: Psychokinetic",
+      "zh": "灵觉勇士 · 控念师"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Говорящий с духами воин: Управляющий разумом",
+      "Spiritspeaker Warrior: Psychokinetic",
+      "灵觉勇士 · 控念师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "говорящий с духами воин: управляющий разумом spiritspeaker warrior: psychokinetic 灵觉勇士 · 控念师 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "swiftstep_armed_courier",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/swiftstep_armed_courier.webp",
+    "title": {
+      "ru": "Стремительный воин: Вооружённый курьер",
+      "en": "Swiftstep Armed Courier",
+      "zh": "疾迅勇士 · 重刃讯使"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Стремительный воин: Вооружённый курьер",
+      "Swiftstep Armed Courier",
+      "疾迅勇士 · 重刃讯使"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "стремительный воин: вооружённый курьер swiftstep armed courier 疾迅勇士 · 重刃讯使 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "swiftstep_seeker",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/swiftstep_seeker.webp",
+    "title": {
+      "ru": "Стремительный воин: Ищущая",
+      "en": "Swiftstep Seeker",
+      "zh": "疾迅勇士 · 引索客"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Стремительный воин: Ищущая",
+      "Swiftstep Seeker",
+      "疾迅勇士 · 引索客"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "стремительный воин: ищущая swiftstep seeker 疾迅勇士 · 引索客 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "swiftstep_storm_scout",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/swiftstep_storm_scout.webp",
+    "title": {
+      "ru": "Стремительный воин: Разведчик ветра",
+      "en": "Swiftstep Storm Scout",
+      "zh": "疾迅勇士 · 荡风斥候"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Стремительный воин: Разведчик ветра",
+      "Swiftstep Storm Scout",
+      "疾迅勇士 · 荡风斥候"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "стремительный воин: разведчик ветра swiftstep storm scout 疾迅勇士 · 荡风斥候 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "tatankasaurus_warrior_skybreaker",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tatankasaurus_warrior_skybreaker.webp",
+    "title": {
+      "ru": "Татанказавр-воин: Разрушитель небес",
+      "en": "Tatankasaurus Warrior: Skybreaker",
+      "zh": "突角龙武士·破空轰动"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Татанказавр-воин: Разрушитель небес",
+      "Tatankasaurus Warrior: Skybreaker",
+      "突角龙武士·破空轰动"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5005000,
+    "search_text": "татанказавр-воин: разрушитель небес tatankasaurus warrior: skybreaker 突角龙武士·破空轰动 human_factions common_enemy натлан 5.5 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "tatankasaurus_warrior_spiritlight_chaser",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tatankasaurus_warrior_spiritlight_chaser.webp",
+    "title": {
+      "ru": "Татанказавр-воин: Ловчая света",
+      "en": "Tatankasaurus Warrior: Spiritlight Chaser",
+      "zh": "突角龙武士·追缉灵光"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "tags": [
+      "Татанказавр-воин: Ловчая света",
+      "Tatankasaurus Warrior: Spiritlight Chaser",
+      "突角龙武士·追缉灵光"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5005000,
+    "search_text": "татанказавр-воин: ловчая света tatankasaurus warrior: spiritlight chaser 突角龙武士·追缉灵光 human_factions common_enemy натлан 5.5 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "tepetlisaurus_warrior_rockbreaker_blade",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tepetlisaurus_warrior_rockbreaker_blade.webp",
+    "title": {
+      "ru": "Тепетлизавр-воин: Камнедробитель",
+      "en": "Tepetlisaurus Warrior: Rockbreaker Blade",
+      "zh": "嵴锋龙武士 · 破岩锐刃"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Тепетлизавр-воин: Камнедробитель",
+      "Tepetlisaurus Warrior: Rockbreaker Blade",
+      "嵴锋龙武士 · 破岩锐刃"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "тепетлизавр-воин: камнедробитель tepetlisaurus warrior: rockbreaker blade 嵴锋龙武士 · 破岩锐刃 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "tepetlisaurus_warrior_shard_striker",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/tepetlisaurus_warrior_shard_striker.webp",
+    "title": {
+      "ru": "Тепетлизавр-воин: Крушитель осколков",
+      "en": "Tepetlisaurus Warrior: Shard Striker",
+      "zh": "嵴锋龙武士 · 碎晶打者"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Тепетлизавр-воин: Крушитель осколков",
+      "Tepetlisaurus Warrior: Shard Striker",
+      "嵴锋龙武士 · 碎晶打者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "тепетлизавр-воин: крушитель осколков tepetlisaurus warrior: shard striker 嵴锋龙武士 · 碎晶打者 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "treasure_hoarders_crusher",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_crusher.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Сокрушитель",
+      "en": "Treasure Hoarders - Crusher",
+      "zh": "盗宝团·粉碎者"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Сокрушитель",
+      "Treasure Hoarders - Crusher",
+      "盗宝团·粉碎者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: сокрушитель treasure hoarders - crusher 盗宝团·粉碎者 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_cryo_potioneer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_cryo_potioneer.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Крио химик",
+      "en": "Treasure Hoarders: Cryo Potioneer",
+      "zh": "盗宝团·冰之药剂师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Крио химик",
+      "Treasure Hoarders: Cryo Potioneer",
+      "盗宝团·冰之药剂师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: крио химик treasure hoarders: cryo potioneer 盗宝团·冰之药剂师 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_electro_potioneer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_electro_potioneer.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Электро химик",
+      "en": "Treasure Hoarders: Electro Potioneer",
+      "zh": "盗宝团·雷之药剂师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Электро химик",
+      "Treasure Hoarders: Electro Potioneer",
+      "盗宝团·雷之药剂师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: электро химик treasure hoarders: electro potioneer 盗宝团·雷之药剂师 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_gravedigger",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_gravedigger.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Могильщик",
+      "en": "Treasure Hoarders: Gravedigger",
+      "zh": "盗宝团·掘墓者"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Могильщик",
+      "Treasure Hoarders: Gravedigger",
+      "盗宝团·掘墓者"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: могильщик treasure hoarders: gravedigger 盗宝团·掘墓者 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_handyman",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_handyman.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Разнорабочий",
+      "en": "Treasure Hoarders: Handyman",
+      "zh": "盗宝团·杂工"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Разнорабочий",
+      "Treasure Hoarders: Handyman",
+      "盗宝团·杂工"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: разнорабочий treasure hoarders: handyman 盗宝团·杂工 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_hydro_potioneer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_hydro_potioneer.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Гидро химик",
+      "en": "Treasure Hoarders: Hydro Potioneer",
+      "zh": "盗宝团·水之药剂师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Гидро химик",
+      "Treasure Hoarders: Hydro Potioneer",
+      "盗宝团·水之药剂师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: гидро химик treasure hoarders: hydro potioneer 盗宝团·水之药剂师 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_marksman",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_marksman.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Стрелок",
+      "en": "Treasure Hoarders - Marksman",
+      "zh": "盗宝团·神射手"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Стрелок",
+      "Treasure Hoarders - Marksman",
+      "盗宝团·神射手"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: стрелок treasure hoarders - marksman 盗宝团·神射手 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_pugilist",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_pugilist.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Боксёр",
+      "en": "Treasure Hoarders - Pugilist",
+      "zh": "盗宝团·拳术家"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Боксёр",
+      "Treasure Hoarders - Pugilist",
+      "盗宝团·拳术家"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: боксёр treasure hoarders - pugilist 盗宝团·拳术家 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_pyro_potioneer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_pyro_potioneer.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Пиро химик",
+      "en": "Treasure Hoarders: Pyro Potioneer",
+      "zh": "盗宝团·火之药剂师"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Пиро химик",
+      "Treasure Hoarders: Pyro Potioneer",
+      "盗宝团·火之药剂师"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: пиро химик treasure hoarders: pyro potioneer 盗宝团·火之药剂师 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_scout",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_scout.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Разведчик",
+      "en": "Treasure Hoarders - Scout",
+      "zh": "盗宝团·斥候"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Разведчик",
+      "Treasure Hoarders - Scout",
+      "盗宝团·斥候"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: разведчик treasure hoarders - scout 盗宝团·斥候 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "treasure_hoarders_seaman",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/treasure_hoarders_seaman.webp",
+    "title": {
+      "ru": "Похитители сокровищ: Морячок",
+      "en": "Treasure Hoarders - Seaman",
+      "zh": "盗宝团·海上男儿"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.0",
+    "tags": [
+      "Похитители сокровищ: Морячок",
+      "Treasure Hoarders - Seaman",
+      "盗宝团·海上男儿"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 1000000,
+    "search_text": "похитители сокровищ: морячок treasure hoarders - seaman 盗宝团·海上男儿 human_factions common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.0 печать похитителей сокровищ / печать серебряного ворона / печать золотого ворона insignias 寻宝鸦印 / 藏银鸦印 / 攫金鸦印"
+  },
+  {
+    "id": "winged_warrior_feathershedder",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/winged_warrior_feathershedder.webp",
+    "title": {
+      "ru": "Крылатый воин: Срезающий перья",
+      "en": "Winged Warrior: Feathershedder",
+      "zh": "结羽勇士 · 削羽人"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Крылатый воин: Срезающий перья",
+      "Winged Warrior: Feathershedder",
+      "结羽勇士 · 削羽人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "крылатый воин: срезающий перья winged warrior: feathershedder 结羽勇士 · 削羽人 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "winged_warrior_skymaster",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/winged_warrior_skymaster.webp",
+    "title": {
+      "ru": "Крылатый воин: Владыка небес",
+      "en": "Winged Warrior: Skymaster",
+      "zh": "结羽勇士 · 驭空客"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Крылатый воин: Владыка небес",
+      "Winged Warrior: Skymaster",
+      "结羽勇士 · 驭空客"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "крылатый воин: владыка небес winged warrior: skymaster 结羽勇士 · 驭空客 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "winged_warrior_skysoarer",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/winged_warrior_skysoarer.webp",
+    "title": {
+      "ru": "Крылатый воин: Взмывающий ввысь",
+      "en": "Winged Warrior: Skysoarer",
+      "zh": "结羽勇士 · 腾空士"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Крылатый воин: Взмывающий ввысь",
+      "Winged Warrior: Skysoarer",
+      "结羽勇士 · 腾空士"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "крылатый воин: взмывающий ввысь winged warrior: skysoarer 结羽勇士 · 腾空士 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "yumkasaurus_warrior_flowing_skyfire",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/yumkasaurus_warrior_flowing_skyfire.webp",
+    "title": {
+      "ru": "Юмказавр-воин: Текущий огонь",
+      "en": "Yumkasaurus Warrior: Flowing Skyfire",
+      "zh": "匿叶龙武士 · 流火鸣空"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Юмказавр-воин: Текущий огонь",
+      "Yumkasaurus Warrior: Flowing Skyfire",
+      "匿叶龙武士 · 流火鸣空"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "юмказавр-воин: текущий огонь yumkasaurus warrior: flowing skyfire 匿叶龙武士 · 流火鸣空 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  },
+  {
+    "id": "yumkasaurus_warrior_whirling_leaves",
+    "category": "enemies",
+    "enemy_group": "human_factions",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/yumkasaurus_warrior_whirling_leaves.webp",
+    "title": {
+      "ru": "Юмказавр-воин: Кружащая листва",
+      "en": "Yumkasaurus Warrior: Whirling Leaves",
+      "zh": "匿叶龙武士 · 旋锯飞叶"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "tags": [
+      "Юмказавр-воин: Кружащая листва",
+      "Yumkasaurus Warrior: Whirling Leaves",
+      "匿叶龙武士 · 旋锯飞叶"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "human_factions"
+    ],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "human_factions",
+    "sort_version": 5000000,
+    "search_text": "юмказавр-воин: кружащая листва yumkasaurus warrior: whirling leaves 匿叶龙武士 · 旋锯飞叶 human_factions common_enemy натлан 5.0 деревянный свисток дозорного / металлический свисток воина / золотой свисток коронованного заврианами воина whistles 卫从的木哨 / 战士的铁哨 / 龙冠武士的金哨"
+  }
+]

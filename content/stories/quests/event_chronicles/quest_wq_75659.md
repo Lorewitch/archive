@@ -1,6 +1,7 @@
 # id: quest_wq_75659
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Подтверждение героизма!
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Подтверждение героизма!
 # title_en: A Hero's Approval!
 # title_zh: 来自英雄的认证！

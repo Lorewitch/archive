@@ -1,10 +1,11 @@
 # id: quest_wq_74800
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: В Кур-де-Фонтейне опасность поджидает на каждом шагу
 # title_en: Danger Lurks Everywhere in Fontaine
 # title_zh: 危机四伏的枫丹廷
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74800

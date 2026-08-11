@@ -1,0 +1,908 @@
+[
+  {
+    "id": "01_heretic_of_the_false_moon",
+    "category": "items",
+    "icon": "assets/icons/enemies/01_heretic_of_the_false_moon.webp",
+    "title": {
+      "ru": "Еретик ложной луны",
+      "en": "Heretic of the False Moon",
+      "zh": "赝月的异端者"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "mask_of_the_virtuous_doctor",
+        "title": {
+          "ru": "Маска мудрого лекаря",
+          "en": "Mask of the Virtuous Doctor",
+          "zh": "贤医的假面"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_mask_of_the_virtuous_doctor.webp"
+      },
+      {
+        "key": "elixir_of_the_heretic",
+        "title": {
+          "ru": "Еретический эликсир",
+          "en": "Elixir of the Heretic",
+          "zh": "异端的瓶剂"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_elixir_of_the_heretic.webp"
+      },
+      {
+        "key": "madmans_restraint",
+        "title": {
+          "ru": "Оковы безумца",
+          "en": "Madman's Restraint",
+          "zh": "狂人的约束"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_madmans_restraint.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "Еретик ложной луны",
+      "Дотторе",
+      "Доктор",
+      "Зандик"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "",
+    "sort_version": 6003000,
+    "search_text": "еретик ложной луны heretic of the false moon 赝月的异端者 нод-край 6.3 weekly_bosses enemy_drops дотторе доктор зандик mask_of_the_virtuous_doctor elixir_of_the_heretic madmans_restraint маска мудрого лекаря mask of the virtuous doctor 贤医的假面 еретический эликсир elixir of the heretic 异端的瓶剂 оковы безумца madman's restraint 狂人的约束"
+  },
+  {
+    "id": "02_the_game_before_the_gate",
+    "category": "items",
+    "icon": "assets/icons/enemies/02_the_game_before_the_gate.webp",
+    "title": {
+      "ru": "Игра пред вратами",
+      "en": "The Game Before the Gate",
+      "zh": "门扉前的弈局"
+    },
+    "region": "Мондштадт",
+    "game_version": "5.6",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "ascended_sample_knight",
+        "title": {
+          "ru": "Вознёсшийся образец: Конь",
+          "en": "Ascended Sample: Knight",
+          "zh": "升扬样本·骑士"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_ascended_sample_knight.webp"
+      },
+      {
+        "key": "ascended_sample_queen",
+        "title": {
+          "ru": "Вознёсшийся образец: Ферзь",
+          "en": "Ascended Sample: Queen",
+          "zh": "升扬样本·王族"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_ascended_sample_queen.webp"
+      },
+      {
+        "key": "ascended_sample_rook",
+        "title": {
+          "ru": "Вознёсшийся образец: Ладья",
+          "en": "Ascended Sample: Rook",
+          "zh": "升扬样本·战车"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_ascended_sample_rook.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 5006000,
+    "search_text": "игра пред вратами the game before the gate 门扉前的弈局 мондштадт 5.6 weekly_bosses enemy_drops ascended_sample_knight ascended_sample_queen ascended_sample_rook вознёсшийся образец: конь ascended sample: knight 升扬样本·骑士 вознёсшийся образец: ферзь ascended sample: queen 升扬样本·王族 вознёсшийся образец: ладья ascended sample: rook 升扬样本·战车"
+  },
+  {
+    "id": "03_lord_of_eroded_primal_fire",
+    "category": "items",
+    "icon": "assets/icons/enemies/03_lord_of_eroded_primal_fire.webp",
+    "title": {
+      "ru": "Владыка истлевшего первобытного пламени",
+      "en": "Lord of Eroded Primal Fire",
+      "zh": "蚀灭的源焰之主"
+    },
+    "region": "Натлан",
+    "game_version": "5.3",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "eroded_horn",
+        "title": {
+          "ru": "Истлевший рог",
+          "en": "Eroded Horn",
+          "zh": "蚀灭的灵犀"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_eroded_horn.webp"
+      },
+      {
+        "key": "eroded_scale_feather",
+        "title": {
+          "ru": "Истлевшее чешуйчатое перо",
+          "en": "Eroded Scale-Feather",
+          "zh": "蚀灭的鳞羽"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_eroded_scale_feather.webp"
+      },
+      {
+        "key": "eroded_sunfire",
+        "title": {
+          "ru": "Истлевшее солнечное пламя",
+          "en": "Eroded Sunfire",
+          "zh": "蚀灭的阳焰"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_eroded_sunfire.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "",
+    "sort_version": 5003000,
+    "search_text": "владыка истлевшего первобытного пламени lord of eroded primal fire 蚀灭的源焰之主 натлан 5.3 weekly_bosses enemy_drops eroded_horn eroded_scale_feather eroded_sunfire истлевший рог eroded horn 蚀灭的灵犀 истлевшее чешуйчатое перо eroded scale-feather 蚀灭的鳞羽 истлевшее солнечное пламя eroded sunfire 蚀灭的阳焰"
+  },
+  {
+    "id": "04_the_knave",
+    "category": "items",
+    "icon": "assets/icons/enemies/04_the_knave.webp",
+    "title": {
+      "ru": "Слуга",
+      "en": "The Knave",
+      "zh": "「仆人」"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.6",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "denial_and_judgment",
+        "title": {
+          "ru": "Отрицание и вердикт",
+          "en": "Denial and Judgment",
+          "zh": "否定裁断"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_denial_and_judgment.webp"
+      },
+      {
+        "key": "fading_candle",
+        "title": {
+          "ru": "Угасающая свеча",
+          "en": "Fading Candle",
+          "zh": "残火灯烛"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_fading_candle.webp"
+      },
+      {
+        "key": "silken_feather",
+        "title": {
+          "ru": "Шелковистое перо",
+          "en": "Silken Feather",
+          "zh": "丝织之羽"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_silken_feather.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4006000,
+    "search_text": "слуга the knave 「仆人」 фонтейн 4.6 weekly_bosses enemy_drops denial_and_judgment fading_candle silken_feather отрицание и вердикт denial and judgment 否定裁断 угасающая свеча fading candle 残火灯烛 шелковистое перо silken feather 丝织之羽"
+  },
+  {
+    "id": "05_all_devouring_narwhal",
+    "category": "items",
+    "icon": "assets/icons/enemies/05_all_devouring_narwhal.webp",
+    "title": {
+      "ru": "Всепожирающий нарвал",
+      "en": "All-Devouring Narwhal",
+      "zh": "吞星之鲸"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.2",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "lightless_eye_of_the_maelstrom",
+        "title": {
+          "ru": "Тёмный глаз вихря",
+          "en": "Lightless Eye of the Maelstrom",
+          "zh": "无光涡眼"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_lightless_eye_of_the_maelstrom.webp"
+      },
+      {
+        "key": "lightless_mass",
+        "title": {
+          "ru": "Тёмная масса",
+          "en": "Lightless Mass",
+          "zh": "无光质块"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_lightless_mass.webp"
+      },
+      {
+        "key": "lightless_silk_string",
+        "title": {
+          "ru": "Тёмная шёлковая нить",
+          "en": "Lightless Silk String",
+          "zh": "无光丝线"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_lightless_silk_string.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "",
+    "sort_version": 4002000,
+    "search_text": "всепожирающий нарвал all-devouring narwhal 吞星之鲸 фонтейн 4.2 weekly_bosses enemy_drops lightless_eye_of_the_maelstrom lightless_mass lightless_silk_string тёмный глаз вихря lightless eye of the maelstrom 无光涡眼 тёмная масса lightless mass 无光质块 тёмная шёлковая нить lightless silk string 无光丝线"
+  },
+  {
+    "id": "06_guardian_of_apeps_oasis",
+    "category": "items",
+    "icon": "assets/icons/enemies/06_guardian_of_apeps_oasis.webp",
+    "title": {
+      "ru": "Страж оазиса Апеп",
+      "en": "Guardian of Apep's Oasis",
+      "zh": "阿佩普的绿洲守望者"
+    },
+    "region": "Сумеру",
+    "game_version": "3.6",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "everamber",
+        "title": {
+          "ru": "Вечный янтарь",
+          "en": "Everamber",
+          "zh": "亘古树海之一瞬"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_everamber.webp"
+      },
+      {
+        "key": "primordial_greenbloom",
+        "title": {
+          "ru": "Первозданный цветок оазиса",
+          "en": "Primordial Greenbloom",
+          "zh": "原初绿洲之初绽"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_primordial_greenbloom.webp"
+      },
+      {
+        "key": "worldspan_fern",
+        "title": {
+          "ru": "Объявший небосвод папоротник",
+          "en": "Worldspan Fern",
+          "zh": "生长天地之蕨草"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_worldspan_fern.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3006000,
+    "search_text": "страж оазиса апеп guardian of apep's oasis 阿佩普的绿洲守望者 сумеру 3.6 weekly_bosses enemy_drops everamber primordial_greenbloom worldspan_fern вечный янтарь 亘古树海之一瞬 первозданный цветок оазиса primordial greenbloom 原初绿洲之初绽 объявший небосвод папоротник worldspan fern 生长天地之蕨草"
+  },
+  {
+    "id": "07_shouki_no_kami_the_prodigal",
+    "category": "items",
+    "icon": "assets/icons/enemies/07_shouki_no_kami_the_prodigal.webp",
+    "title": {
+      "ru": "Сёки но Ками",
+      "en": "Shouki no Kami, the Prodigal",
+      "zh": "「正机之神」"
+    },
+    "region": "Сумеру",
+    "game_version": "3.2",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "dakas_bell",
+        "title": {
+          "ru": "Пустой колокольчик",
+          "en": "Daka's Bell",
+          "zh": "空行的虚铃"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_dakas_bell.webp"
+      },
+      {
+        "key": "mirror_of_mushin",
+        "title": {
+          "ru": "Зеркало Мусин",
+          "en": "Mirror of Mushin",
+          "zh": "无心的渊镜"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_mirror_of_mushin.webp"
+      },
+      {
+        "key": "puppet_strings",
+        "title": {
+          "ru": "Нити марионетки",
+          "en": "Puppet Strings",
+          "zh": "傀儡的悬丝"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_puppet_strings.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 3002000,
+    "search_text": "сёки но ками shouki no kami, the prodigal 「正机之神」 сумеру 3.2 weekly_bosses enemy_drops dakas_bell mirror_of_mushin puppet_strings пустой колокольчик daka's bell 空行的虚铃 зеркало мусин mirror of mushin 无心的渊镜 нити марионетки puppet strings 傀儡的悬丝"
+  },
+  {
+    "id": "08_azhdaha",
+    "category": "items",
+    "icon": "assets/icons/enemies/08_azhdaha.webp",
+    "title": {
+      "ru": "Аждаха",
+      "en": "Azhdaha",
+      "zh": "若陀龙王"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.5",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "bloodjade_branch",
+        "title": {
+          "ru": "Ветвь кровавой яшмы",
+          "en": "Bloodjade Branch",
+          "zh": "血玉之枝"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_bloodjade_branch.webp"
+      },
+      {
+        "key": "dragon_lords_crown",
+        "title": {
+          "ru": "Корона лорда драконов",
+          "en": "Dragon Lord's Crown",
+          "zh": "龙王之冕"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_dragon_lords_crown.webp"
+      },
+      {
+        "key": "gilded_scale",
+        "title": {
+          "ru": "Позолоченная чешуя",
+          "en": "Gilded Scale",
+          "zh": "鎏金之鳞"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_gilded_scale.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1005000,
+    "search_text": "аждаха azhdaha 若陀龙王 ли юэ 1.5 weekly_bosses enemy_drops bloodjade_branch dragon_lords_crown gilded_scale ветвь кровавой яшмы bloodjade branch 血玉之枝 корона лорда драконов dragon lord's crown 龙王之冕 позолоченная чешуя gilded scale 鎏金之鳞"
+  },
+  {
+    "id": "09_childe",
+    "category": "items",
+    "icon": "assets/icons/enemies/09_childe.webp",
+    "title": {
+      "ru": "Чайльд",
+      "en": "Childe",
+      "zh": "「公子」"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.1",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "shadow_of_the_warrior",
+        "title": {
+          "ru": "Тень воина",
+          "en": "Shadow of the Warrior",
+          "zh": "武炼之魂·孤影"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_shadow_of_the_warrior.webp"
+      },
+      {
+        "key": "shard_of_a_foul_legacy",
+        "title": {
+          "ru": "Осколок дьявольского меча",
+          "en": "Shard of a Foul Legacy",
+          "zh": "魔王之刃·残片"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_shard_of_a_foul_legacy.webp"
+      },
+      {
+        "key": "tusk_of_monoceros_caeli",
+        "title": {
+          "ru": "Рог небесного кита",
+          "en": "Tusk of Monoceros Caeli",
+          "zh": "吞天之鲸·只角"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_tusk_of_monoceros_caeli.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "",
+    "sort_version": 1001000,
+    "search_text": "чайльд childe 「公子」 ли юэ 1.1 weekly_bosses enemy_drops shadow_of_the_warrior shard_of_a_foul_legacy tusk_of_monoceros_caeli тень воина shadow of the warrior 武炼之魂·孤影 осколок дьявольского меча shard of a foul legacy 魔王之刃·残片 рог небесного кита tusk of monoceros caeli 吞天之鲸·只角"
+  },
+  {
+    "id": "10_magatsu_mitake_narukami_no_mikoto",
+    "category": "items",
+    "icon": "assets/icons/enemies/10_magatsu_mitake_narukami_no_mikoto.webp",
+    "title": {
+      "ru": "Магацу митакэ Наруками но микото",
+      "en": "Magatsu Mitake Narukami no Mikoto",
+      "zh": "祸津御建鸣神命"
+    },
+    "region": "Инадзума",
+    "game_version": "2.5",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "mudra_of_the_malefic_general",
+        "title": {
+          "ru": "Мудра зловещего генерала",
+          "en": "Mudra of the Malefic General",
+          "zh": "凶将之手眼"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_mudra_of_the_malefic_general.webp"
+      },
+      {
+        "key": "tears_of_the_calamitous_god",
+        "title": {
+          "ru": "Слезы очищения божества бедствий",
+          "en": "Tears of the Calamitous God",
+          "zh": "祸神之禊泪"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_tears_of_the_calamitous_god.webp"
+      },
+      {
+        "key": "the_meaning_of_aeons",
+        "title": {
+          "ru": "Смысл эонов",
+          "en": "The Meaning of Aeons",
+          "zh": "万劫之真意"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_the_meaning_of_aeons.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2005000,
+    "search_text": "магацу митакэ наруками но микото magatsu mitake narukami no mikoto 祸津御建鸣神命 инадзума 2.5 weekly_bosses enemy_drops mudra_of_the_malefic_general tears_of_the_calamitous_god the_meaning_of_aeons мудра зловещего генерала mudra of the malefic general 凶将之手眼 слезы очищения божества бедствий tears of the calamitous god 祸神之禊泪 смысл эонов the meaning of aeons 万劫之真意"
+  },
+  {
+    "id": "11_la_signora",
+    "category": "items",
+    "icon": "assets/icons/enemies/11_la_signora.webp",
+    "title": {
+      "ru": "Синьора",
+      "en": "La Signora",
+      "zh": "「女士」"
+    },
+    "region": "Инадзума",
+    "game_version": "2.1",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "ashen_heart",
+        "title": {
+          "ru": "Пепельное сердце",
+          "en": "Ashen Heart",
+          "zh": "灰烬之心"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_ashen_heart.webp"
+      },
+      {
+        "key": "hellfire_butterfly",
+        "title": {
+          "ru": "Бабочка адского пламени",
+          "en": "Hellfire Butterfly",
+          "zh": "狱火之蝶"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_hellfire_butterfly.webp"
+      },
+      {
+        "key": "molten_moment",
+        "title": {
+          "ru": "Расплавленный миг",
+          "en": "Molten Moment",
+          "zh": "熔毁之刻"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_molten_moment.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "",
+    "sort_version": 2001000,
+    "search_text": "синьора la signora 「女士」 инадзума 2.1 weekly_bosses enemy_drops ashen_heart hellfire_butterfly molten_moment пепельное сердце ashen heart 灰烬之心 бабочка адского пламени hellfire butterfly 狱火之蝶 расплавленный миг molten moment 熔毁之刻"
+  },
+  {
+    "id": "12_lupus_boreas_dominator_of_wolves",
+    "category": "items",
+    "icon": "assets/icons/enemies/12_lupus_boreas_dominator_of_wolves.webp",
+    "title": {
+      "ru": "Лупус Бореалис, Волчий лорд",
+      "en": "Lupus Boreas, Dominator of Wolves",
+      "zh": "北风的王狼，奔狼的领主"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "ring_of_boreas",
+        "title": {
+          "ru": "Кольцо Борея",
+          "en": "Ring of Boreas",
+          "zh": "北风之环"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_ring_of_boreas.webp"
+      },
+      {
+        "key": "spirit_locket_of_boreas",
+        "title": {
+          "ru": "Шкатулка с духом Борея",
+          "en": "Spirit Locket of Boreas",
+          "zh": "北风的魂匣"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_spirit_locket_of_boreas.webp"
+      },
+      {
+        "key": "tail_of_boreas",
+        "title": {
+          "ru": "Хвост Борея",
+          "en": "Tail of Boreas",
+          "zh": "北风之尾"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_tail_of_boreas.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "лупус бореалис, волчий лорд lupus boreas, dominator of wolves 北风的王狼，奔狼的领主 мондштадт 1.0 weekly_bosses enemy_drops ring_of_boreas spirit_locket_of_boreas tail_of_boreas кольцо борея ring of boreas 北风之环 шкатулка с духом борея spirit locket of boreas 北风的魂匣 хвост борея tail of boreas 北风之尾"
+  },
+  {
+    "id": "13_stormterror",
+    "category": "items",
+    "icon": "assets/icons/enemies/13_stormterror.webp",
+    "title": {
+      "ru": "Ужас Бури",
+      "en": "Stormterror",
+      "zh": "裂空的魔龙"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.0",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "dvalins_claw",
+        "title": {
+          "ru": "Коготь Двалина",
+          "en": "Dvalin's Claw",
+          "zh": "东风之爪"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_dvalins_claw.webp"
+      },
+      {
+        "key": "dvalins_plume",
+        "title": {
+          "ru": "Перо из хвоста Двалина",
+          "en": "Dvalin's Plume",
+          "zh": "东风之翎"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_dvalins_plume.webp"
+      },
+      {
+        "key": "dvalins_sigh",
+        "title": {
+          "ru": "Вздох Двалина",
+          "en": "Dvalin's Sigh",
+          "zh": "东风的吐息"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_dvalins_sigh.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "",
+    "sort_version": 1000000,
+    "search_text": "ужас бури stormterror 裂空的魔龙 мондштадт 1.0 weekly_bosses enemy_drops dvalins_claw dvalins_plume dvalins_sigh коготь двалина dvalin's claw 东风之爪 перо из хвоста двалина dvalin's plume 东风之翎 вздох двалина dvalin's sigh 东风的吐息"
+  },
+  {
+    "id": "exalted_master_of_the_heretical_path",
+    "category": "items",
+    "icon": "assets/icons/enemies/exalted_master_of_the_heretical_path.webp",
+    "title": {
+      "ru": "Вознёсшийся мастер пути ереси",
+      "en": "Exalted Master of the Heretical Path",
+      "zh": "左道的胜义尊"
+    },
+    "region": "Сумеру",
+    "game_version": "6.6",
+    "item_group": "weekly_bosses",
+    "entry_type": "enemy_drops",
+    "item_type": "",
+    "item_type_title": {},
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [
+      {
+        "key": "counterfeit_resin",
+        "title": {
+          "ru": "Поддельная смола",
+          "en": "Counterfeit Resin",
+          "zh": "赝作的树脂"
+        },
+        "icon": "assets/icons/items/weekly_bosses/01_counterfeit_resin.webp"
+      },
+      {
+        "key": "twisted_withered_branch",
+        "title": {
+          "ru": "Искажённая сухая ветка",
+          "en": "Twisted Withered Branch",
+          "zh": "扭曲的枯枝"
+        },
+        "icon": "assets/icons/items/weekly_bosses/02_twisted_withered_branch.webp"
+      },
+      {
+        "key": "profaned_sprout",
+        "title": {
+          "ru": "Осквернённый росток",
+          "en": "Profaned Sprout",
+          "zh": "亵渎的新芽"
+        },
+        "icon": "assets/icons/items/weekly_bosses/03_profaned_sprout.webp"
+      }
+    ],
+    "material_count": 3,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [
+      "Еретик ложной луны",
+      "Дотторе",
+      "Доктор",
+      "Зандик"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "",
+    "sort_version": 6006000,
+    "search_text": "вознёсшийся мастер пути ереси exalted master of the heretical path 左道的胜义尊 сумеру 6.6 weekly_bosses enemy_drops еретик ложной луны дотторе доктор зандик counterfeit_resin twisted_withered_branch profaned_sprout поддельная смола counterfeit resin 赝作的树脂 искажённая сухая ветка twisted withered branch 扭曲的枯枝 осквернённый росток profaned sprout 亵渎的新芽"
+  }
+]

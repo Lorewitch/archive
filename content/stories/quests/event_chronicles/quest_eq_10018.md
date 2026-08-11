@@ -1,5 +1,6 @@
 # id: quest_eq_10018
 # story_group: event_chronicles
+# display_category: Ивент · Праздник морских фонарей
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Откуда появились фонари
 # title_en: The Origin of the Lanterns

@@ -1,10 +1,11 @@
 # id: quest_wq_70821
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: После бури...
 # title_en: After the Storm
 # title_zh: 风后宝矿
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70821

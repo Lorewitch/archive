@@ -1,6 +1,7 @@
 # id: quest_wq_71823
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: На страже деревни
 # title_en: Guardians of the Countryside
 # title_zh: 守乡人

@@ -1,6 +1,7 @@
 # id: quest_wq_76141
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Окно в мир
 # title_en: A Window Into the World
 # title_zh: 眺望世界之窗

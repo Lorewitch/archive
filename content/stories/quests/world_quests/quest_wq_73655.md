@@ -1,10 +1,11 @@
 # id: quest_wq_73655
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ягоды для Камлы
 # title_en: Kamla's Berries
 # title_zh: 卡姆拉的树莓需求
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73655

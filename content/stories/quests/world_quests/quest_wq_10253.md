@@ -1,10 +1,11 @@
 # id: quest_wq_10253
 # story_group: world_quests
+# display_category: Уроки Ведьм · Николь
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: О различных врагах
 # title_en: Witch's Homework: Of Various Foes
 # title_zh: 魔女的课业·诸敌之题
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10253

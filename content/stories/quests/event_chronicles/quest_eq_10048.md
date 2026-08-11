@@ -1,5 +1,6 @@
 # id: quest_eq_10048
 # story_group: event_chronicles
+# display_category: Ивент · Снежное путешествие Пылких Сердец I
 # icon: assets/icons/stories/quests/snowrace.webp
 # title_ru: Появление блистательных воинов
 # title_en: The Shining Warriors Take the Stage

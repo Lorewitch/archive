@@ -1,5 +1,6 @@
 # id: quest_lq_2067
 # story_group: legend_quests
+# display_category: Задание Легенд · Мавуика
 # icon: assets/icons/stories/quests/mavuika.webp
 # title_ru: Словно палящее солнце
 # title_en: As the Blazing Sun

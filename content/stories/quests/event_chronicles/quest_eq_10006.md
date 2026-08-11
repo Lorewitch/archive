@@ -1,5 +1,6 @@
 # id: quest_eq_10006
 # story_group: event_chronicles
+# display_category: Ивент · Заблудшие звёзды
 # icon: assets/icons/stories/quests/aster.webp
 # title_ru: Таинственная звезда
 # title_en: Unknown Star

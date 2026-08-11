@@ -1,5 +1,6 @@
 # id: quest_lq_2056
 # story_group: legend_quests
+# display_category: Задание племени · Народ Родников
 # icon: assets/icons/stories/quests/natlan_mosasaurus.webp
 # title_ru: Легенда о таинственном острове
 # title_en: The Legend of the Mysterious Island

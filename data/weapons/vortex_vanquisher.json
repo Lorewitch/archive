@@ -35,5 +35,6 @@
     "byVolume": {}
   },
   "weapon_type": "polearm",
-  "type": "polearm"
+  "type": "polearm",
+  "entry_kind": "weapon"
 }

@@ -1,5 +1,6 @@
 # id: quest_aq_1601
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Элегия пыли и света фонаря
 # title_en: Elegy of Dust and Lamplight

@@ -1,10 +1,11 @@
 # id: quest_wq_72715
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Мысли Канры
 # title_en: Kanra's Thoughts
 # title_zh: 甘乐的相思之意
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72715

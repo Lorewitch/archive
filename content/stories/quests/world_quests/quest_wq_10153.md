@@ -1,5 +1,6 @@
 # id: quest_wq_10153
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Покой спасителя
 # title_en: Savior's Wake

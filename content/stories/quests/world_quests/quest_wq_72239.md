@@ -1,10 +1,11 @@
 # id: quest_wq_72239
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Поедатель лотоса
 # title_en: Lotus Eater
 # title_zh: 食莲者
-# region: Тейват
+# region: Инадзума
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 72239

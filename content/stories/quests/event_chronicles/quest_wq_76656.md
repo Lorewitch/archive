@@ -1,6 +1,7 @@
 # id: quest_wq_76656
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Clink Clank Clash
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Новые идеи
 # title_en: New Idea
 # title_zh: 新的想法

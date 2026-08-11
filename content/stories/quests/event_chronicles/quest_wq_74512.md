@@ -1,6 +1,7 @@
 # id: quest_wq_74512
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Rolling Crossfire
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Эксперимент во имя будущего
 # title_en: For the Future's Sake, Experiment!
 # title_zh: 奔赴未来的实验

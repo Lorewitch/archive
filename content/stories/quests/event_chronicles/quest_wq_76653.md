@@ -1,6 +1,7 @@
 # id: quest_wq_76653
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Clink Clank Clash
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Утерянное творчество
 # title_en: Misplaced Creativity
 # title_zh: 走失的创意

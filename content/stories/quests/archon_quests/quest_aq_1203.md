@@ -1,5 +1,6 @@
 # id: quest_aq_1203
 # story_group: archon_quests
+# display_category: Задание Архонтов · Инадзума
 # icon: assets/icons/stories/quests/inazuma.webp
 # title_ru: Забвение, исчезновение теней
 # title_en: Stillness, the Sublimation of Shadow

@@ -1,5 +1,6 @@
 # id: quest_aq_1401
 # story_group: archon_quests
+# display_category: Задание Архонтов · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Прелюдия белых рос и чёрных волн
 # title_en: Prelude of Blancheur and Noirceur

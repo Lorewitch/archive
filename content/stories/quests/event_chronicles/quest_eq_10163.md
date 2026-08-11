@@ -1,5 +1,6 @@
 # id: quest_eq_10163
 # story_group: event_chronicles
+# display_category: Ивент · Мушкеты и розы
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Одинокий остров в тумане
 # title_en: The Lone Isle Glimpsed Through Fog

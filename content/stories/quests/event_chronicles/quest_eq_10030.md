@@ -1,5 +1,6 @@
 # id: quest_eq_10030
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Остров? Приключение! Часть IV
 # icon: assets/icons/stories/quests/goldenappleisles.webp
 # title_ru: Последняя тайна! День ответов
 # title_en: The Final Riddle: A Secret Uncovered

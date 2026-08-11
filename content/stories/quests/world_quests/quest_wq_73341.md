@@ -1,6 +1,7 @@
 # id: quest_wq_73341
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сердце амриты
 # title_en: Heart of Amrita
 # title_zh: 甘露之心

@@ -1,10 +1,11 @@
 # id: quest_wq_10134
 # story_group: world_quests
+# display_category: Уроки Ведьм · Алиса
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Решение
 # title_en: Witch's Homework: Solution
 # title_zh: 魔女的课业·题解
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.2
 # release_versions: 6.2
 # source_id: 10134

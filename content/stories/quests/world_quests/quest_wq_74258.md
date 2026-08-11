@@ -1,6 +1,7 @@
 # id: quest_wq_74258
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Повторное приглашение на чай: Нёвиллет
 # title_en: Tea Party Re-Invitation: Neuvillette
 # title_zh: 茶会的再邀·那维莱特

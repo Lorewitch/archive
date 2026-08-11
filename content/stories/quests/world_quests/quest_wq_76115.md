@@ -1,6 +1,7 @@
 # id: quest_wq_76115
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Когда пыль осела
 # title_en: The Dust Settles
 # title_zh: 尘埃落定

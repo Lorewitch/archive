@@ -1,6 +1,7 @@
 # id: quest_wq_70510
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Of Drink A-Dreaming
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Глоток пьянящей мечты: Послесловие
 # title_en: Of Drink A-Dreaming: Afterword
 # title_zh: 曲生酌微梦·后记

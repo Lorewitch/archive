@@ -1,5 +1,6 @@
 # id: quest_aq_1404
 # story_group: archon_quests
+# display_category: Задание Архонтов · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Приближение катастрофы
 # title_en: Cataclysm's Quickening

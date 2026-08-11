@@ -1,0 +1,2906 @@
+[
+  {
+    "id": "adhigama_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/adhigama_wood.webp",
+    "title": {
+      "ru": "Древесина адхигамы",
+      "en": "Adhigama Wood",
+      "zh": "证悟木"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "wood",
+    "sort_version": 3000000,
+    "search_text": "древесина адхигамы adhigama wood 证悟木 сумеру 3.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "alder_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/alder_wood.webp",
+    "title": {
+      "ru": "Древесина ольхи",
+      "en": "Alder Wood",
+      "zh": "桤木"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "wood",
+    "sort_version": 6000000,
+    "search_text": "древесина ольхи alder wood 桤木 нод-край 6.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "aralia_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/aralia_wood.webp",
+    "title": {
+      "ru": "Аралия",
+      "en": "Aralia Wood",
+      "zh": "孔雀木"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "wood",
+    "sort_version": 2000000,
+    "search_text": "аралия aralia wood 孔雀木 инадзума 2.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "ash_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/ash_wood.webp",
+    "title": {
+      "ru": "Ясень",
+      "en": "Ash Wood",
+      "zh": "白梣木"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "wood",
+    "sort_version": 4000000,
+    "search_text": "ясень ash wood 白梣木 фонтейн 4.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "ashen_aratiku_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/ashen_aratiku_wood.webp",
+    "title": {
+      "ru": "Древесина пепельного аратику",
+      "en": "Ashen Aratiku Wood",
+      "zh": "灰灰楼林木"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "wood",
+    "sort_version": 5000000,
+    "search_text": "древесина пепельного аратику ashen aratiku wood 灰灰楼林木 натлан 5.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "athel_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/athel_wood.webp",
+    "title": {
+      "ru": "Тамариск",
+      "en": "Athel Wood",
+      "zh": "柽木"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "wood",
+    "sort_version": 3001000,
+    "search_text": "тамариск athel wood 柽木 сумеру 3.1 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "bamboo_segment",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/bamboo_segment.webp",
+    "title": {
+      "ru": "Бамбук",
+      "en": "Bamboo Segment",
+      "zh": "竹节"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "wood",
+    "sort_version": 1005000,
+    "search_text": "бамбук bamboo segment 竹节 ли юэ 1.5 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "birch_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/birch_wood.webp",
+    "title": {
+      "ru": "Берёза",
+      "en": "Birch Wood",
+      "zh": "桦木"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "wood",
+    "sort_version": 1005000,
+    "search_text": "берёза birch wood 桦木 мондштадт 1.5 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "blue_dye",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/blue_dye.webp",
+    "title": {
+      "ru": "Синяя краска",
+      "en": "Blue Dye",
+      "zh": "蓝色染料"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "misc",
+    "item_type_title": {
+      "ru": "Прочее",
+      "en": "Miscellaneous",
+      "zh": "其他"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "misc",
+    "sort_version": 1005000,
+    "search_text": "синяя краска blue dye 蓝色染料 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.5 serenitea_pot item misc прочее miscellaneous 其他"
+  },
+  {
+    "id": "brightwood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/brightwood.webp",
+    "title": {
+      "ru": "Сияющая древесина",
+      "en": "Brightwood",
+      "zh": "辉木"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "wood",
+    "sort_version": 3000000,
+    "search_text": "сияющая древесина brightwood 辉木 сумеру 3.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "brilliant_chrysanthemum_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/brilliant_chrysanthemum_seed.webp",
+    "title": {
+      "ru": "Семена сверкающей хризантемы",
+      "en": "Brilliant Chrysanthemum Seed",
+      "zh": "「灼灼彩菊」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5000000,
+    "search_text": "семена сверкающей хризантемы brilliant chrysanthemum seed 「灼灼彩菊」的种子 натлан 5.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "cacahuatl_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/cacahuatl_seed.webp",
+    "title": {
+      "ru": "Семена какауатля",
+      "en": "Cacahuatl Seed",
+      "zh": "「苦种」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5000000,
+    "search_text": "семена какауатля cacahuatl seed 「苦种」的种子 натлан 5.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "calla_lily_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/calla_lily_seed.webp",
+    "title": {
+      "ru": "Семена лилии калла",
+      "en": "Calla Lily Seed",
+      "zh": "「嘟嘟莲」的种子"
+    },
+    "region": "Мондштадт",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена лилии калла calla lily seed 「嘟嘟莲」的种子 мондштадт 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "carrot_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/carrot_seed.webp",
+    "title": {
+      "ru": "Семена моркови",
+      "en": "Carrot Seed",
+      "zh": "「胡萝卜」的种子"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена моркови carrot seed 「胡萝卜」的种子 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "cecilia_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/cecilia_seed.webp",
+    "title": {
+      "ru": "Семена сесилии",
+      "en": "Cecilia Seed",
+      "zh": "「塞西莉亚花」的种子"
+    },
+    "region": "Мондштадт",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена сесилии cecilia seed 「塞西莉亚花」的种子 мондштадт 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "cuihua_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/cuihua_wood.webp",
+    "title": {
+      "ru": "Цуйхуа",
+      "en": "Cuihua Wood",
+      "zh": "萃华木"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "wood",
+    "sort_version": 1005000,
+    "search_text": "цуйхуа cuihua wood 萃华木 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.5 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "cypress_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/cypress_wood.webp",
+    "title": {
+      "ru": "Кипарис",
+      "en": "Cypress Wood",
+      "zh": "香柏木"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "wood",
+    "sort_version": 4000000,
+    "search_text": "кипарис cypress wood 香柏木 фонтейн 4.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "fabric",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/fabric.webp",
+    "title": {
+      "ru": "Ткань",
+      "en": "Fabric",
+      "zh": "布匹"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "misc",
+    "item_type_title": {
+      "ru": "Прочее",
+      "en": "Miscellaneous",
+      "zh": "其他"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "misc",
+    "sort_version": 1005000,
+    "search_text": "ткань fabric 布匹 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.5 serenitea_pot item misc прочее miscellaneous 其他"
+  },
+  {
+    "id": "fir_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/fir_wood.webp",
+    "title": {
+      "ru": "Пихта",
+      "en": "Fir Wood",
+      "zh": "杉木"
+    },
+    "region": "Мондштадт",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "wood",
+    "sort_version": 1005000,
+    "search_text": "пихта fir wood 杉木 мондштадт 1.5 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "flammabomb_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/flammabomb_wood.webp",
+    "title": {
+      "ru": "Древесина взрывопламенного дерева",
+      "en": "Flammabomb Wood",
+      "zh": "燃爆木"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "wood",
+    "sort_version": 5000000,
+    "search_text": "древесина взрывопламенного дерева flammabomb wood 燃爆木 натлан 5.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "fragrant_cedar_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/fragrant_cedar_wood.webp",
+    "title": {
+      "ru": "Ароматный кедр",
+      "en": "Fragrant Cedar Wood",
+      "zh": "垂香木"
+    },
+    "region": "Мондштадт, Ли Юэ",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ"
+    ],
+    "filter_type": "wood",
+    "sort_version": 1005000,
+    "search_text": "ароматный кедр fragrant cedar wood 垂香木 мондштадт, ли юэ 1.5 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "glaze_lily_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/glaze_lily_seed.webp",
+    "title": {
+      "ru": "Семена глазурной лилии",
+      "en": "Glaze Lily Seed",
+      "zh": "「琉璃百合」的种子"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена глазурной лилии glaze lily seed 「琉璃百合」的种子 ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "glowing_hornshroom_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/glowing_hornshroom_seed.webp",
+    "title": {
+      "ru": "Семена мерцающего рогатого гриба",
+      "en": "Glowing Hornshroom Seed",
+      "zh": "「微光角菌」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.2",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5002000,
+    "search_text": "семена мерцающего рогатого гриба glowing hornshroom seed 「微光角菌」的种子 натлан 5.2 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "grainfruit_kernel",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/grainfruit_kernel.webp",
+    "title": {
+      "ru": "Семена злакофрукта",
+      "en": "Grainfruit Kernel",
+      "zh": "「颗粒果」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5000000,
+    "search_text": "семена злакофрукта grainfruit kernel 「颗粒果」的种子 натлан 5.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "harra_fruit_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/harra_fruit_seed.webp",
+    "title": {
+      "ru": "Семена фрукта харра",
+      "en": "Harra Fruit Seed",
+      "zh": "「香辛果」的种子"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "seed",
+    "sort_version": 3000000,
+    "search_text": "семена фрукта харра harra fruit seed 「香辛果」的种子 сумеру 3.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "hazelnut_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/hazelnut_wood.webp",
+    "title": {
+      "ru": "Древесина орешника",
+      "en": "Hazelnut Wood",
+      "zh": "榛木"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "wood",
+    "sort_version": 6000000,
+    "search_text": "древесина орешника hazelnut wood 榛木 нод-край 6.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "horsetail_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/horsetail_seed.webp",
+    "title": {
+      "ru": "Семена конского хвоста",
+      "en": "Horsetail Seed",
+      "zh": "「马尾」的种子"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена конского хвоста horsetail seed 「马尾」的种子 ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "jueyun_chili_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/jueyun_chili_seed.webp",
+    "title": {
+      "ru": "Семена заоблачного перчика",
+      "en": "Jueyun Chili Seed",
+      "zh": "「绝云椒椒」的种子"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена заоблачного перчика jueyun chili seed 「绝云椒椒」的种子 ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "karmaphala_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/karmaphala_wood.webp",
+    "title": {
+      "ru": "Древесина кармафалы",
+      "en": "Karmaphala Wood",
+      "zh": "业果木"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "wood",
+    "sort_version": 3000000,
+    "search_text": "древесина кармафалы karmaphala wood 业果木 сумеру 3.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "linden_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/linden_wood.webp",
+    "title": {
+      "ru": "Липа",
+      "en": "Linden Wood",
+      "zh": "椴木"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "wood",
+    "sort_version": 4000000,
+    "search_text": "липа linden wood 椴木 фонтейн 4.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "lotus_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/lotus_seed.webp",
+    "title": {
+      "ru": "Семена лотоса",
+      "en": "Lotus Seed",
+      "zh": "「莲蓬」的种子"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена лотоса lotus seed 「莲蓬」的种子 ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "lumidouce_bell_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/lumidouce_bell_seed.webp",
+    "title": {
+      "ru": "Семена лампового колокольчика",
+      "en": "Lumidouce Bell Seed",
+      "zh": "「柔灯铃」的种子"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "seed",
+    "sort_version": 4000000,
+    "search_text": "семена лампового колокольчика lumidouce bell seed 「柔灯铃」的种子 фонтейн 4.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "mallow_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/mallow_wood.webp",
+    "title": {
+      "ru": "Древесина мальвы",
+      "en": "Mallow Wood",
+      "zh": "悬铃木"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "wood",
+    "sort_version": 4000000,
+    "search_text": "древесина мальвы mallow wood 悬铃木 фонтейн 4.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "maple_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/maple_wood.webp",
+    "title": {
+      "ru": "Клён",
+      "en": "Maple Wood",
+      "zh": "枫木"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "wood",
+    "sort_version": 2000000,
+    "search_text": "клён maple wood 枫木 инадзума 2.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "marcotte_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/marcotte_seed.webp",
+    "title": {
+      "ru": "Семена маркота",
+      "en": "Marcotte Seed",
+      "zh": "「茉洁草」的种子"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "seed",
+    "sort_version": 4000000,
+    "search_text": "семена маркота marcotte seed 「茉洁草」的种子 фонтейн 4.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "mint_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/mint_seed.webp",
+    "title": {
+      "ru": "Семена мяты",
+      "en": "Mint Seed",
+      "zh": "「薄荷」的种子"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена мяты mint seed 「薄荷」的种子 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "mountain_date_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/mountain_date_wood.webp",
+    "title": {
+      "ru": "Финиковая пальма",
+      "en": "Mountain Date Wood",
+      "zh": "刺葵木"
+    },
+    "region": "Сумеру",
+    "game_version": "3.1",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "wood",
+    "sort_version": 3001000,
+    "search_text": "финиковая пальма mountain date wood 刺葵木 сумеру 3.1 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "mushroom_spore",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/mushroom_spore.webp",
+    "title": {
+      "ru": "Споры гриба",
+      "en": "Mushroom Spore",
+      "zh": "「蘑菇」的孢子"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "споры гриба mushroom spore 「蘑菇」的孢子 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "naku_weed_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/naku_weed_seed.webp",
+    "title": {
+      "ru": "Семена наку",
+      "en": "Naku Weed Seed",
+      "zh": "「鸣草」的种子"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена наку naku weed seed 「鸣草」的种子 инадзума 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "otogi_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/otogi_wood.webp",
+    "title": {
+      "ru": "Отоги",
+      "en": "Otogi Wood",
+      "zh": "御伽木"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "wood",
+    "sort_version": 2000000,
+    "search_text": "отоги otogi wood 御伽木 инадзума 2.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "peach_palm_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/peach_palm_wood.webp",
+    "title": {
+      "ru": "Древесина персиковой пальмы",
+      "en": "Peach Palm Wood",
+      "zh": "桃椰子木"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "wood",
+    "sort_version": 5000000,
+    "search_text": "древесина персиковой пальмы peach palm wood 桃椰子木 натлан 5.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "pedunculate_oak_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/pedunculate_oak_wood.webp",
+    "title": {
+      "ru": "Древесина черешчатого дуба",
+      "en": "Pedunculate Oak Wood",
+      "zh": "夏栎木"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "wood",
+    "sort_version": 6000000,
+    "search_text": "древесина черешчатого дуба pedunculate oak wood 夏栎木 нод-край 6.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "pine_amber_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/pine_amber_seed.webp",
+    "title": {
+      "ru": "Семена соснового янтаря",
+      "en": "Pine Amber Seed",
+      "zh": "「松珀香」的种子"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "seed",
+    "sort_version": 6003000,
+    "search_text": "семена соснового янтаря pine amber seed 「松珀香」的种子 нод-край 6.3 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "pine_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/pine_wood.webp",
+    "title": {
+      "ru": "Сосна",
+      "en": "Pine Wood",
+      "zh": "松木"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума"
+    ],
+    "filter_type": "wood",
+    "sort_version": 1005000,
+    "search_text": "сосна pine wood 松木 мондштадт, ли юэ, инадзума 1.5 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "pluie_lotus_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/pluie_lotus_seed.webp",
+    "title": {
+      "ru": "Семена дожделотоса",
+      "en": "Pluie Lotus Seed",
+      "zh": "「久雨莲」的种子"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "seed",
+    "sort_version": 4000000,
+    "search_text": "семена дожделотоса pluie lotus seed 「久雨莲」的种子 фонтейн 4.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "qingxin_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/qingxin_seed.webp",
+    "title": {
+      "ru": "Семена цинсинь",
+      "en": "Qingxin Seed",
+      "zh": "「清心」的种子"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена цинсинь qingxin seed 「清心」的种子 ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "quenepa_berry_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/quenepa_berry_seed.webp",
+    "title": {
+      "ru": "Семена ягоды квенепа",
+      "en": "Quenepa Berry Seed",
+      "zh": "「青蜜莓」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5000000,
+    "search_text": "семена ягоды квенепа quenepa berry seed 「青蜜莓」的种子 натлан 5.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "radish_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/radish_seed.webp",
+    "title": {
+      "ru": "Семена редиса",
+      "en": "Radish Seed",
+      "zh": "「白萝卜」的种子"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена редиса radish seed 「白萝卜」的种子 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "rainbow_rose_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/rainbow_rose_seed.webp",
+    "title": {
+      "ru": "Семена радужной розы",
+      "en": "Rainbow Rose Seed",
+      "zh": "「虹彩蔷薇」的种子"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "seed",
+    "sort_version": 4000000,
+    "search_text": "семена радужной розы rainbow rose seed 「虹彩蔷薇」的种子 фонтейн 4.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "red_dye",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/red_dye.webp",
+    "title": {
+      "ru": "Красная краска",
+      "en": "Red Dye",
+      "zh": "红色染料"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "misc",
+    "item_type_title": {
+      "ru": "Прочее",
+      "en": "Miscellaneous",
+      "zh": "其他"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "misc",
+    "sort_version": 1005000,
+    "search_text": "красная краска red dye 红色染料 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.5 serenitea_pot item misc прочее miscellaneous 其他"
+  },
+  {
+    "id": "sandbearer_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sandbearer_wood.webp",
+    "title": {
+      "ru": "Песчаное дерево",
+      "en": "Sandbearer Wood",
+      "zh": "却砂木"
+    },
+    "region": "Ли Юэ",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "wood",
+    "sort_version": 1005000,
+    "search_text": "песчаное дерево sandbearer wood 却砂木 ли юэ 1.5 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "saurian_claw_succulent_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/saurian_claw_succulent_seed.webp",
+    "title": {
+      "ru": "Семена лапы завриана",
+      "en": "Saurian Claw Succulent Seed",
+      "zh": "「肉龙掌」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5000000,
+    "search_text": "семена лапы завриана saurian claw succulent seed 「肉龙掌」的种子 натлан 5.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "sea_ganoderma_cutting",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sea_ganoderma_cutting.webp",
+    "title": {
+      "ru": "Образец морского гриба",
+      "en": "Sea Ganoderma Cutting",
+      "zh": "「海灵芝」的样本"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "образец морского гриба sea ganoderma cutting 「海灵芝」的样本 инадзума 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "seagrass_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/seagrass_seed.webp",
+    "title": {
+      "ru": "Семена морской водоросли",
+      "en": "Seagrass Seed",
+      "zh": "「海草」的种子"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена морской водоросли seagrass seed 「海草」的种子 инадзума 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "silk_flower_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/silk_flower_seed.webp",
+    "title": {
+      "ru": "Семена шелковицы",
+      "en": "Silk Flower Seed",
+      "zh": "「霓裳花」的种子"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена шелковицы silk flower seed 「霓裳花」的种子 ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "silver_fir_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/silver_fir_wood.webp",
+    "title": {
+      "ru": "Древесина серебряной пихты",
+      "en": "Silver Fir Wood",
+      "zh": "银冷杉木"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "wood",
+    "sort_version": 6000000,
+    "search_text": "древесина серебряной пихты silver fir wood 银冷杉木 нод-край 6.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "skysplit_gembloom_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/skysplit_gembloom_seed.webp",
+    "title": {
+      "ru": "Семена заоблачного камнелиста",
+      "en": "Skysplit Gembloom Seed",
+      "zh": "「云岩裂叶」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5005000,
+    "search_text": "семена заоблачного камнелиста skysplit gembloom seed 「云岩裂叶」的种子 натлан 5.5 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "small_lamp_grass_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/small_lamp_grass_seed.webp",
+    "title": {
+      "ru": "Семена травы-светяшки",
+      "en": "Small Lamp Grass Seed",
+      "zh": "「小灯草」的种子"
+    },
+    "region": "Мондштадт",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена травы-светяшки small lamp grass seed 「小灯草」的种子 мондштадт 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "snapdragon_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/snapdragon_seed.webp",
+    "title": {
+      "ru": "Семена львиного зева",
+      "en": "Snapdragon Seed",
+      "zh": "「金鱼草」的种子"
+    },
+    "region": "Мондштадт, Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена львиного зева snapdragon seed 「金鱼草」的种子 мондштадт, ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "sprayfeather_gill_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sprayfeather_gill_seed.webp",
+    "title": {
+      "ru": "Семена морского пера",
+      "en": "Sprayfeather Gill Seed",
+      "zh": "「浪沫羽鳃」的种子"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "seed",
+    "sort_version": 5000000,
+    "search_text": "семена морского пера sprayfeather gill seed 「浪沫羽鳃」的种子 натлан 5.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "sumeru_rose_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sumeru_rose_seed.webp",
+    "title": {
+      "ru": "Семена сумерской розы",
+      "en": "Sumeru Rose Seed",
+      "zh": "「须弥蔷薇」的种子"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "seed",
+    "sort_version": 3000000,
+    "search_text": "семена сумерской розы sumeru rose seed 「须弥蔷薇」的种子 сумеру 3.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "sweet_flower_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/sweet_flower_seed.webp",
+    "title": {
+      "ru": "Семена цветка-сахарка",
+      "en": "Sweet Flower Seed",
+      "zh": "「甜甜花」的种子"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена цветка-сахарка sweet flower seed 「甜甜花」的种子 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "torch_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/torch_wood.webp",
+    "title": {
+      "ru": "Факельная древесина",
+      "en": "Torch Wood",
+      "zh": "炬木"
+    },
+    "region": "Фонтейн",
+    "game_version": "4.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Фонтейн"
+    ],
+    "filter_type": "wood",
+    "sort_version": 4000000,
+    "search_text": "факельная древесина torch wood 炬木 фонтейн 4.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "valberry_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/valberry_seed.webp",
+    "title": {
+      "ru": "Семена валяшки",
+      "en": "Valberry Seed",
+      "zh": "「落落莓」的种子"
+    },
+    "region": "Мондштадт",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена валяшки valberry seed 「落落莓」的种子 мондштадт 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "violetgrass_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/violetgrass_seed.webp",
+    "title": {
+      "ru": "Семена стеклянных колокольчиков",
+      "en": "Violetgrass Seed",
+      "zh": "「琉璃袋」的种子"
+    },
+    "region": "Ли Юэ",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Ли Юэ"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена стеклянных колокольчиков violetgrass seed 「琉璃袋」的种子 ли юэ 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "white_chestnut_oak_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/white_chestnut_oak_wood.webp",
+    "title": {
+      "ru": "Древесина белокаштанного дуба",
+      "en": "White Chestnut Oak Wood",
+      "zh": "白栗栎木"
+    },
+    "region": "Натлан",
+    "game_version": "5.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Натлан"
+    ],
+    "filter_type": "wood",
+    "sort_version": 5000000,
+    "search_text": "древесина белокаштанного дуба white chestnut oak wood 白栗栎木 натлан 5.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "windwheel_aster_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/windwheel_aster_seed.webp",
+    "title": {
+      "ru": "Семена ветряной астры",
+      "en": "Windwheel Aster Seed",
+      "zh": "「风车菊」的种子"
+    },
+    "region": "Мондштадт",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт"
+    ],
+    "filter_type": "seed",
+    "sort_version": 2000000,
+    "search_text": "семена ветряной астры windwheel aster seed 「风车菊」的种子 мондштадт 2.0 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "winter_icelea_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/winter_icelea_seed.webp",
+    "title": {
+      "ru": "Семена шпороцветника",
+      "en": "Winter Icelea Seed",
+      "zh": "「冬凌草」的种子"
+    },
+    "region": "Нод-Край",
+    "game_version": "6.3",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Нод-Край"
+    ],
+    "filter_type": "seed",
+    "sort_version": 6003000,
+    "search_text": "семена шпороцветника winter icelea seed 「冬凌草」的种子 нод-край 6.3 serenitea_pot item seed семена 种子"
+  },
+  {
+    "id": "yellow_dye",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/yellow_dye.webp",
+    "title": {
+      "ru": "Жёлтая краска",
+      "en": "Yellow Dye",
+      "zh": "黄色染料"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "1.5",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "misc",
+    "item_type_title": {
+      "ru": "Прочее",
+      "en": "Miscellaneous",
+      "zh": "其他"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "misc",
+    "sort_version": 1005000,
+    "search_text": "жёлтая краска yellow dye 黄色染料 мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край 1.5 serenitea_pot item misc прочее miscellaneous 其他"
+  },
+  {
+    "id": "yumemiru_wood",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/yumemiru_wood.webp",
+    "title": {
+      "ru": "Юмэмиру",
+      "en": "Yumemiru Wood",
+      "zh": "梦见木"
+    },
+    "region": "Инадзума",
+    "game_version": "2.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "wood",
+    "item_type_title": {
+      "ru": "Древесина",
+      "en": "Wood",
+      "zh": "木材"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Инадзума"
+    ],
+    "filter_type": "wood",
+    "sort_version": 2000000,
+    "search_text": "юмэмиру yumemiru wood 梦见木 инадзума 2.0 serenitea_pot item wood древесина 木材"
+  },
+  {
+    "id": "zaytun_peach_seed",
+    "category": "items",
+    "icon": "assets/icons/items/teyvat_resources/zaytun_peach_seed.webp",
+    "title": {
+      "ru": "Семена персика зайтун",
+      "en": "Zaytun Peach Seed",
+      "zh": "「墩墩桃」的种子"
+    },
+    "region": "Сумеру",
+    "game_version": "3.0",
+    "item_group": "serenitea_pot",
+    "entry_type": "item",
+    "item_type": "seed",
+    "item_type_title": {
+      "ru": "Семена",
+      "en": "Seed",
+      "zh": "种子"
+    },
+    "material_type": "",
+    "material_type_title": {},
+    "materials": [],
+    "material_count": 0,
+    "dropped_by": [],
+    "dropped_by_enemies": [],
+    "dropped_by_count": 0,
+    "tags": [],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "enemy_type_keys": [],
+    "filter_regions": [
+      "Сумеру"
+    ],
+    "filter_type": "seed",
+    "sort_version": 3000000,
+    "search_text": "семена персика зайтун zaytun peach seed 「墩墩桃」的种子 сумеру 3.0 serenitea_pot item seed семена 种子"
+  }
+]

@@ -1,10 +1,11 @@
 # id: quest_wq_72163
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Память Сэйрая
 # title_en: Reminiscence of Seirai
 # title_zh: 清籁旧忆
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72163

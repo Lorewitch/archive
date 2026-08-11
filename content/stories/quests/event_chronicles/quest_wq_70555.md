@@ -1,6 +1,7 @@
 # id: quest_wq_70555
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Homeward, He Who Caught the Wind
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Особый рецепт, ставший классикой
 # title_en: A Special Blend, A Timeless Masterpiece
 # title_zh: 特调佳作，列为经典

@@ -1,5 +1,6 @@
 # id: quest_aq_1102
 # story_group: archon_quests
+# display_category: Задание Архонтов · Ли Юэ
 # icon: assets/icons/stories/quests/liyue.webp
 # title_ru: Прощайте, древний лорд.
 # title_en: Farewell, Archaic Lord

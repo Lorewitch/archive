@@ -1,10 +1,11 @@
 # id: quest_wq_71814
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Нефритовая рыбалка
 # title_en: Fishing For Jade
 # title_zh: 海上拾玉
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 71814

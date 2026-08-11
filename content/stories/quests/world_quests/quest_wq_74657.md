@@ -1,10 +1,11 @@
 # id: quest_wq_74657
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Соль для Галатеи
 # title_en: Galathee's Salt Solicitation
 # title_zh: 伽拉蒂雅的盐需求
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74657

@@ -1,5 +1,6 @@
 # id: quest_aq_1302
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Сто свежих роз приносит утро
 # title_en: The Morn a Thousand Roses Brings

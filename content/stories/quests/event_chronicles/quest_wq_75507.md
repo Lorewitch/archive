@@ -1,6 +1,7 @@
 # id: quest_wq_75507
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · On the Trail of Behemoths }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Куда направятся члены тайной организации?
 # title_en: Whither Shall a Member of a "Secret Organization" Go?
 # title_zh: 「秘密组织」的成员将要去向何方

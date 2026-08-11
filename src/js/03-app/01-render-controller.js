@@ -1,27 +1,5 @@
 // Основной контроллер рендера, ленивые загрузки и запуск приложения.
 
-function requestIdleTask(callback, timeout = 1600) {
-  if ("requestIdleCallback" in window) {
-    window.requestIdleCallback(callback, { timeout });
-  } else {
-    window.setTimeout(callback, 180);
-  }
-}
-
-function scheduleBackgroundSectionPrefetch() {
-  if (backgroundPrefetchStarted) return;
-  backgroundPrefetchStarted = true;
-
-  requestIdleTask(() => {
-    SECTIONS
-      .map(section => section.id)
-      .filter(sectionId => sectionId !== state.section && BACKGROUND_PREFETCH_SECTIONS.has(sectionId))
-      .forEach((sectionId, index) => {
-        window.setTimeout(() => loadSectionData(sectionId).catch(() => {}), index * 90);
-      });
-  });
-}
-
 function prefetchDetail(sectionId, entryId) {
   if (!entryId) return;
   const key = `${sectionId}:${entryId}`;
@@ -87,10 +65,16 @@ async function render() {
 
   const config = getSectionConfig();
 
-  if (!LOADED_SECTIONS.has(config.id)) {
+  if (!state.entryId && config.groups && (!state.subsection || (hasChildGroups(config, state.subsection) && !isQuestStoriesCatalog(config)))) {
+    renderGroupSelector(config, state.subsection || "");
+    markRouteRendered(routeKey, routeChanged);
+    return;
+  }
+
+  if (!state.entryId) {
     renderLoading(`Загружаю раздел «${config.title}»…`);
     try {
-      await loadSectionData(config.id);
+      await loadCatalogData(config, state.subsection);
     } catch (error) {
       if (sequence !== renderSequence) return;
       renderError(error.message || "Не удалось загрузить данные раздела.");
@@ -98,12 +82,6 @@ async function render() {
       return;
     }
     if (sequence !== renderSequence) return;
-  }
-
-  if (!state.entryId && config.groups && (!state.subsection || (hasChildGroups(config, state.subsection) && !isQuestStoriesCatalog(config)))) {
-    renderGroupSelector(config, state.subsection || "");
-    markRouteRendered(routeKey, routeChanged);
-    return;
   }
 
   if (state.section === "books" && state.entryId) {
@@ -165,7 +143,6 @@ async function render() {
 async function init() {
   renderLoading();
   await render();
-  scheduleBackgroundSectionPrefetch();
 }
 
 nav.addEventListener("click", handleNavClick);

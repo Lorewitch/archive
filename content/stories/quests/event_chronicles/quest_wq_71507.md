@@ -1,6 +1,7 @@
 # id: quest_wq_71507
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Muddy Bizarre Adventure }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Доклад о работе самоциркуляции шипа: краткое описание
 # title_en: Spike Self-Circulation Report: Abstract
 # title_zh: 光钉自循环运作报告·摘要

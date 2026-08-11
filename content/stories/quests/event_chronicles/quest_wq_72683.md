@@ -1,6 +1,7 @@
 # id: quest_wq_72683
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Мир за рамками холста
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Мир за рамками холста
 # title_en: Outside the Canvas, Inside the Lens
 # title_zh: 画外旅照

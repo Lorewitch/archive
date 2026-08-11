@@ -1,6 +1,7 @@
 # id: quest_wq_73282
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сложивший крылья сокол
 # title_en: The Fallen Falcon
 # title_zh: 折翼的猎鹰

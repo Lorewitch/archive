@@ -1,10 +1,11 @@
 # id: quest_wq_70141
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: В горах
 # title_en: In the Mountains
 # title_zh: 山中之物
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2
 # source_id: 70141

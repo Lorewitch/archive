@@ -1,6 +1,7 @@
 # id: quest_wq_73522
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Parade of Providence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Участник прежних состязаний
 # title_en: The Contestant
 # title_zh: 「当初那位参赛者」

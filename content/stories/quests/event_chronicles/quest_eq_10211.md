@@ -1,5 +1,6 @@
 # id: quest_eq_10211
 # story_group: event_chronicles
+# display_category: Ивент · Свитки поиска духов Иктоми II
 # icon: assets/icons/stories/quests/ceremony.webp
 # title_ru: Видение пепельного запустения
 # title_en: Vision of Ashen Desolation

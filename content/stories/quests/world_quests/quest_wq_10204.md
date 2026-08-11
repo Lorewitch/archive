@@ -1,5 +1,6 @@
 # id: quest_wq_10204
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/littledrillhead.webp
 # title_ru: По следам избранника драконов
 # title_en: In the Footsteps of the Chosen of Dragons

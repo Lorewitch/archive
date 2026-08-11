@@ -1,10 +1,11 @@
 # id: quest_wq_72812
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Методы сочинения историй
 # title_en: Storytelling Method
 # title_zh: 故事构思法
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72812

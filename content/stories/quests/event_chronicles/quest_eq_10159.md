@@ -1,5 +1,6 @@
 # id: quest_eq_10159
 # story_group: event_chronicles
+# display_category: Ивент · Фантастические приключения Телькси III
 # icon: assets/icons/stories/quests/rainbowprince.webp
 # title_ru: Чудесная диадема
 # title_en: Miraculous Crown

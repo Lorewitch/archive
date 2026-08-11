@@ -1,5 +1,6 @@
 # id: quest_wq_10120
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Её враги бушуют, словно волны...
 # title_en: Her Foes Rage Like Great Waters...

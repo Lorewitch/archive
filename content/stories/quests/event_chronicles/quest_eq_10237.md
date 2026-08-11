@@ -1,5 +1,6 @@
 # id: quest_eq_10237
 # story_group: event_chronicles
+# display_category: Ивент · Где волна набегает на риф III
 # icon: assets/icons/stories/quests/tradeshow.webp
 # title_ru: Игрушки для детей
 # title_en: Toys for the Children

@@ -1,10 +1,11 @@
 # id: quest_wq_73657
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Обломки белого железа для Дварканат
 # title_en: Dwarkanath's White Iron Chunks
 # title_zh: 妲卡玛忒的白铁块需求
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73657

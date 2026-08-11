@@ -1,10 +1,11 @@
 # id: quest_wq_70814
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Что будут делать искатели приключений?
 # title_en: ...What Do Adventurers Do Again?
 # title_zh: 冒险家…该干嘛？
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70814

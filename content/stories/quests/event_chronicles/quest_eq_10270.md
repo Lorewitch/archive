@@ -1,5 +1,6 @@
 # id: quest_eq_10270
 # story_group: event_chronicles
+# display_category: Ивент · Ода серебряной луне, освещённая фонарями
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Среди людей
 # title_en: The Realm of People

@@ -1,6 +1,7 @@
 # id: quest_wq_76042
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Обломки пиратского корабля с призраками
 # title_en: The Haunted Pirate Shipwreck
 # title_zh: 闹鬼的海盗船残骸

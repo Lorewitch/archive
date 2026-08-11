@@ -1,6 +1,7 @@
 # id: quest_wq_79060
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertide Scales and Tales
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: К маяку или вдаль
 # title_en: Towards the Lighthouse, or Far Away
 # title_zh: 向着灯塔，或是远方

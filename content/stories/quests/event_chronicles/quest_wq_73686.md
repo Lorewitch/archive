@@ -1,6 +1,7 @@
 # id: quest_wq_73686
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Warrior's Spirit
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Неожиданный бой
 # title_en: Unexpected Battle
 # title_zh: 意外争斗

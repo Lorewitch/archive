@@ -1,6 +1,7 @@
 # id: quest_wq_79054
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Secret Summer Paradise
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Память о звёздной ночи
 # title_en: A Starry Night, as Remembered
 # title_zh: 如留旧时的星影

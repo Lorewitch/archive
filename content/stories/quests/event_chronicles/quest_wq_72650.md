@@ -1,6 +1,7 @@
 # id: quest_wq_72650
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Призрачный поток. Фантомный клинок
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Призрачный поток. Фантомный клинок
 # title_en: Phantom Flow: Phantasmal Blade
 # title_zh: 幻影心流幻想剑

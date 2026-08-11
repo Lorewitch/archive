@@ -1,6 +1,7 @@
 # id: quest_wq_20603
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Время никого не ждёт
 # title_en: Time Waits For No Man
 # title_zh: 时不再来

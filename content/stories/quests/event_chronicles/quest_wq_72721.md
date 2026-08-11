@@ -1,6 +1,7 @@
 # id: quest_wq_72721
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Hues of the Violet Garden
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бой с Таромару
 # title_en: Versus Taroumaru
 # title_zh: 与太郎丸之战

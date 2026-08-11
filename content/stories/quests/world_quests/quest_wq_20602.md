@@ -1,6 +1,7 @@
 # id: quest_wq_20602
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Не упусти!
 # title_en: Not to be Missed
 # title_zh: 机不可失

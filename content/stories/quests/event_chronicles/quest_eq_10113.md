@@ -1,5 +1,6 @@
 # id: quest_eq_10113
 # story_group: event_chronicles
+# display_category: Ивент · Дуэль! К вершинам карточного мастерства! - Раунд 1
 # icon: assets/icons/stories/quests/journey.webp
 # title_ru: Дуэль начинается! Первые подозрения
 # title_en: Commence! A Suspect Genesis

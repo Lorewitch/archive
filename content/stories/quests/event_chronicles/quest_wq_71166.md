@@ -1,6 +1,7 @@
 # id: quest_wq_71166
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Lanternlit Ode to the Silver Moon (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Счастливые встречи
 # title_en: Good Fortune Shared
 # title_zh: 吉事共赏

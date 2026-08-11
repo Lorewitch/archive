@@ -1,5 +1,6 @@
 # id: quest_aq_1305
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Пульс Акаши и пламя кальпы
 # title_en: Akasha Pulses, the Kalpa Flame Rises

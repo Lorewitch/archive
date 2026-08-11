@@ -1,6 +1,7 @@
 # id: quest_wq_70000
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Invitation of Windblume
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Отчёт о Празднике ветряных цветов
 # title_en: Windblume Research Report
 # title_zh: 风花节研究报告

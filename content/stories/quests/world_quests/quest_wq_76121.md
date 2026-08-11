@@ -1,6 +1,7 @@
 # id: quest_wq_76121
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Луна на ночном небосводе: Три Луны
 # title_en: The Moon Adorning the Night: The Three Moons
 # title_zh: 夜空中的月亮·三月

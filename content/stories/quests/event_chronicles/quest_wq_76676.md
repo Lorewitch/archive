@@ -1,6 +1,7 @@
 # id: quest_wq_76676
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Dance Dance Dynamic Disco
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ещё один танец!
 # title_en: We'll Dance Together Again!
 # title_zh: 下回再舞！

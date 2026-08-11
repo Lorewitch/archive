@@ -1,5 +1,6 @@
 # id: quest_lq_2029
 # story_group: legend_quests
+# display_category: Задание Легенд · Е Лань
 # icon: assets/icons/stories/quests/yelan.webp
 # title_ru: Расчётливый гамбит
 # title_en: Calculated Gambit

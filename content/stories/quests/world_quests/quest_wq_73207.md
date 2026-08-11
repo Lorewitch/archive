@@ -1,6 +1,7 @@
 # id: quest_wq_73207
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Подаренная роза: Баллада ушедших дней
 # title_en: A Gifted Rose: Ballad of Days Gone By
 # title_zh: 献给某人的蔷薇·来自往日的歌谣

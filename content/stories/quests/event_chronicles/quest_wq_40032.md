@@ -1,6 +1,7 @@
 # id: quest_wq_40032
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Bantan Sango Case Files: The Warrior Dog
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Дело Бантан Санго: Скрытая тропа
 # title_en: Bantan Sango Case File: Stealthy Trail
 # title_zh: 万端珊瑚事件簿·隐秘踪迹

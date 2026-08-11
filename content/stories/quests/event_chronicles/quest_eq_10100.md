@@ -1,5 +1,6 @@
 # id: quest_eq_10100
 # story_group: event_chronicles
+# display_category: Ивент · Эпичное побоище плесенников
 # icon: assets/icons/stories/quests/fungusfighter.webp
 # title_ru: Странное новое соревнование?
 # title_en: The Most Fantastic Tournament You've Never Heard Of?

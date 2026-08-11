@@ -1,5 +1,6 @@
 # id: quest_eq_10118
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Парк развлечений? Мираж! Часть II
 # icon: assets/icons/stories/quests/penumbraadventure.webp
 # title_ru: Переполох в саду призрачных зеркал!
 # title_en: Mirage Paradise in Crisis!

@@ -1,5 +1,6 @@
 # id: quest_wq_10130
 # story_group: world_quests
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/deshret.webp
 # title_ru: Панихида Билцис
 # title_en: The Dirge of Bilqis

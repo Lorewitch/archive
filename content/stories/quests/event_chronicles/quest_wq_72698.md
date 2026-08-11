@@ -1,6 +1,7 @@
 # id: quest_wq_72698
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Hues of the Violet Garden
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бой с Окубо Сандзаэмоном
 # title_en: Versus Ookubo Sanzaemon
 # title_zh: 与大久保三左卫门之战

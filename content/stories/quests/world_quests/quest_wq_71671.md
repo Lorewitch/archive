@@ -1,6 +1,7 @@
 # id: quest_wq_71671
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Оборонительная стратегия
 # title_en: A Defensive Strategy
 # title_zh: 据守的规划

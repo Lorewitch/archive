@@ -1,6 +1,7 @@
 # id: quest_wq_71149
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Lanternlit Ode to the Silver Moon (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Свет фонарей в лунном сиянии
 # title_en: Bright Moon, Lantern Glow
 # title_zh: 月引明霄

@@ -1,6 +1,7 @@
 # id: quest_eq_40053
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sacred Sakura Cleansing Ritual
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Странный случай в деревне Конда
 # title_en: A Strange Story in Konda
 # title_zh: 绀田事话

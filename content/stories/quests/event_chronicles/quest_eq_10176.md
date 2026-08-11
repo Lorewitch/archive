@@ -1,5 +1,6 @@
 # id: quest_eq_10176
 # story_group: event_chronicles
+# display_category: Ивент · Возвращение ловца ветра III
 # icon: assets/icons/stories/quests/bubbledrama.webp
 # title_ru: Вариации песни о драконьей свободе
 # title_en: Variations on the Song of the Dragon and Freedom

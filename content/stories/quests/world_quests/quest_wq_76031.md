@@ -1,6 +1,7 @@
 # id: quest_wq_76031
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Пусть лунный свет соединит нас
 # title_en: May the Moonlight Connect Us
 # title_zh: 月光联系你我

@@ -1,10 +1,11 @@
 # id: quest_wq_70810
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Равноценный обмен
 # title_en: Equivalent Exchange
 # title_zh: 等量交换
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70810

@@ -1,10 +1,11 @@
 # id: quest_wq_72813
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Удобрений... продавец?
 # title_en: Fertilizer... Salesperson?
 # title_zh: 肥料…推销员？
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 72813

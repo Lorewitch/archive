@@ -1,6 +1,7 @@
 # id: quest_wq_79056
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Приключения в подземелье
 # title_en: Domain Adventures
 # title_zh: 秘境冒险的征途

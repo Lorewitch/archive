@@ -1,10 +1,11 @@
 # id: quest_aq_1207
 # story_group: archon_quests
+# display_category: Задание Архонтов · Ли Юэ
 # icon: assets/icons/stories/quests/roguelikediary.webp
 # title_ru: Опасная тропа
 # title_en: Perilous Trail
 # title_zh: 危途疑踪
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 1207

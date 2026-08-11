@@ -1,5 +1,6 @@
 # id: quest_wq_10132
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/firmament.webp
 # title_ru: Суд
 # title_en: Judgment

@@ -1,5 +1,6 @@
 # id: quest_eq_10056
 # story_group: event_chronicles
+# display_category: Ивент · Краски мимолётности: Волны гладят жемчуг
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Лодки в лепестках ловят луну
 # title_en: Petal-Lit Ships Fish For the Moon

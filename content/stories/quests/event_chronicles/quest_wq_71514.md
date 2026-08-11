@@ -1,6 +1,7 @@
 # id: quest_wq_71514
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · The Exquisite Night Chimes
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сияющие искры
 # title_en: Radiant Sparks
 # title_zh: 光焰蹈跃

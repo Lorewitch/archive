@@ -1,6 +1,7 @@
 # id: quest_wq_71817
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Сумасшедшая кухня Янь Сяо
 # title_en: Yanxiao's Crazy Kitchen
 # title_zh: 言笑的喧闹厨房

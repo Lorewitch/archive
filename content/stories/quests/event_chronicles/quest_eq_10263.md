@@ -1,5 +1,6 @@
 # id: quest_eq_10263
 # story_group: event_chronicles
+# display_category: Ивент · Дзынь-Клац битва: Финал
 # icon: assets/icons/stories/quests/nodkraitour.webp
 # title_ru: Бум-бум-бум! Великая битва!
 # title_en: Boom Boom Boooom! A Grand Battle!

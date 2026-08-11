@@ -1,6 +1,7 @@
 # id: quest_wq_41340
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Праздничные недуги
 # title_en: A Very Festive Problem
 # title_zh: 佳节里的小问题

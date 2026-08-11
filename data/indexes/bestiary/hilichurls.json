@@ -1,0 +1,1152 @@
+[
+  {
+    "id": "anemo_hilichurl_rogue",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/anemo_hilichurl_rogue.webp",
+    "title": {
+      "ru": "Анемо хиличурл-изгой",
+      "en": "Anemo Hilichurl Rogue",
+      "zh": "丘丘风行游侠"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "",
+    "tags": [
+      "Анемо хиличурл-изгой",
+      "Anemo Hilichurl Rogue",
+      "丘丘风行游侠"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "анемо хиличурл-изгой anemo hilichurl rogue 丘丘风行游侠 hilichurls common_enemy сумеру, фонтейн нераспустившийся цветок / заветный цветок / распустившийся цветок странника flowers 来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花"
+  },
+  {
+    "id": "anemo_samachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/anemo_samachurl.webp",
+    "title": {
+      "ru": "Анемо шамачурл",
+      "en": "Anemo Samachurl",
+      "zh": "风丘丘萨满"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Анемо шамачурл",
+      "Anemo Samachurl",
+      "风丘丘萨满"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "анемо шамачурл anemo samachurl 风丘丘萨满 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 свиток божественной магии / свиток печати / свиток запретного проклятья scrolls 导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+  },
+  {
+    "id": "blazing_axe_mitachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+    "title": {
+      "ru": "Митачурл с огненным топором",
+      "en": "Blazing Axe Mitachurl",
+      "zh": "火斧丘丘暴徒"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Митачурл с огненным топором",
+      "Blazing Axe Mitachurl",
+      "火斧丘丘暴徒"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "митачурл с огненным топором blazing axe mitachurl 火斧丘丘暴徒 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  {
+    "id": "crackling_axe_mitachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+    "title": {
+      "ru": "Митачурл с электрическим топором",
+      "en": "Crackling Axe Mitachurl",
+      "zh": "雷斧丘丘暴徒"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Митачурл с электрическим топором",
+      "Crackling Axe Mitachurl",
+      "雷斧丘丘暴徒"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "митачурл с электрическим топором crackling axe mitachurl 雷斧丘丘暴徒 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  {
+    "id": "cryo_hilichurl_grenadier",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+    "title": {
+      "ru": "Крио хиличурл-гренадёр",
+      "en": "Cryo Hilichurl Grenadier",
+      "zh": "冰弹丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Крио хиличурл-гренадёр",
+      "Cryo Hilichurl Grenadier",
+      "冰弹丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "крио хиличурл-гренадёр cryo hilichurl grenadier 冰弹丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "cryo_hilichurl_shooter",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cryo_hilichurl.webp",
+    "title": {
+      "ru": "Крио хиличурл-стрелок",
+      "en": "Cryo Hilichurl Shooter",
+      "zh": "冰箭丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Крио хиличурл-стрелок",
+      "Cryo Hilichurl Shooter",
+      "冰箭丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "крио хиличурл-стрелок cryo hilichurl shooter 冰箭丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край прочный наконечник стрелы / острый наконечник стрелы / старый наконечник стрелы arrowheads 牢固的箭簇 / 锐利的箭簇 / 历战的箭簇 маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "cryo_samachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/cryo_samachurl.webp",
+    "title": {
+      "ru": "Крио шамачурл",
+      "en": "Cryo Samachurl",
+      "zh": "冰丘丘萨满"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Крио шамачурл",
+      "Cryo Samachurl",
+      "冰丘丘萨满"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "крио шамачурл cryo samachurl 冰丘丘萨满 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 свиток божественной магии / свиток печати / свиток запретного проклятья scrolls 导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+  },
+  {
+    "id": "dendro_samachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/dendro_samachurl.webp",
+    "title": {
+      "ru": "Дендро шамачурл",
+      "en": "Dendro Samachurl",
+      "zh": "草丘丘萨满"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Дендро шамачурл",
+      "Dendro Samachurl",
+      "草丘丘萨满"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "дендро шамачурл dendro samachurl 草丘丘萨满 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 свиток божественной магии / свиток печати / свиток запретного проклятья scrolls 导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+  },
+  {
+    "id": "electro_hilichurl_grenadier",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+    "title": {
+      "ru": "Электро хиличурл-гренадёр",
+      "en": "Electro Hilichurl Grenadier",
+      "zh": "雷弹丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Электро хиличурл-гренадёр",
+      "Electro Hilichurl Grenadier",
+      "雷弹丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "электро хиличурл-гренадёр electro hilichurl grenadier 雷弹丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "electro_hilichurl_shooter",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/electro_hilichurl.webp",
+    "title": {
+      "ru": "Электро хиличурл-стрелок",
+      "en": "Electro Hilichurl Shooter",
+      "zh": "雷箭丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Электро хиличурл-стрелок",
+      "Electro Hilichurl Shooter",
+      "雷箭丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "электро хиличурл-стрелок electro hilichurl shooter 雷箭丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край прочный наконечник стрелы / острый наконечник стрелы / старый наконечник стрелы arrowheads 牢固的箭簇 / 锐利的箭簇 / 历战的箭簇 маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "electro_samachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/electro_samachurl.webp",
+    "title": {
+      "ru": "Электро шамачурл",
+      "en": "Electro Samachurl",
+      "zh": "雷丘丘萨满"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Электро шамачурл",
+      "Electro Samachurl",
+      "雷丘丘萨满"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "электро шамачурл electro samachurl 雷丘丘萨满 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 свиток божественной магии / свиток печати / свиток запретного проклятья scrolls 导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+  },
+  {
+    "id": "frostarm_lawachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/frostarm_lawachurl.webp",
+    "title": {
+      "ru": "Лавачурл с инеевым панцирем",
+      "en": "Frostarm Lawachurl",
+      "zh": "丘丘霜铠王"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Лавачурл с инеевым панцирем",
+      "Frostarm Lawachurl",
+      "丘丘霜铠王"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "лавачурл с инеевым панцирем frostarm lawachurl 丘丘霜铠王 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  {
+    "id": "geo_samachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/geo_samachurl.webp",
+    "title": {
+      "ru": "Гео шамачурл",
+      "en": "Geo Samachurl",
+      "zh": "岩丘丘萨满"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Гео шамачурл",
+      "Geo Samachurl",
+      "岩丘丘萨满"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "гео шамачурл geo samachurl 岩丘丘萨满 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 свиток божественной магии / свиток печати / свиток запретного проклятья scrolls 导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+  },
+  {
+    "id": "hilichurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл",
+      "en": "Hilichurl",
+      "zh": "丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл",
+      "Hilichurl",
+      "丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл hilichurl 丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "hilichurl_berserker",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл-берсерк",
+      "en": "Hilichurl Berserker",
+      "zh": "冲锋丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл-берсерк",
+      "Hilichurl Berserker",
+      "冲锋丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл-берсерк hilichurl berserker 冲锋丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "hilichurl_fighter",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл-боец",
+      "en": "Hilichurl Fighter",
+      "zh": "打手丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл-боец",
+      "Hilichurl Fighter",
+      "打手丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл-боец hilichurl fighter 打手丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "hilichurl_grenadier",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл-гренадёр",
+      "en": "Hilichurl Grenadier",
+      "zh": "爆弹丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл-гренадёр",
+      "Hilichurl Grenadier",
+      "爆弹丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл-гренадёр hilichurl grenadier 爆弹丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "hilichurl_shooter",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл-стрелок",
+      "en": "Hilichurl Shooter",
+      "zh": "射手丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл-стрелок",
+      "Hilichurl Shooter",
+      "射手丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл-стрелок hilichurl shooter 射手丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край прочный наконечник стрелы / острый наконечник стрелы / старый наконечник стрелы arrowheads 牢固的箭簇 / 锐利的箭簇 / 历战的箭簇 маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "hydro_hilichurl_rogue",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hydro_hilichurl_rogue.webp",
+    "title": {
+      "ru": "Гидро хиличурл-изгой",
+      "en": "Hydro Hilichurl Rogue",
+      "zh": "丘丘水行游侠"
+    },
+    "region": "Сумеру, Фонтейн",
+    "game_version": "",
+    "tags": [
+      "Гидро хиличурл-изгой",
+      "Hydro Hilichurl Rogue",
+      "丘丘水行游侠"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Сумеру",
+      "Фонтейн"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "гидро хиличурл-изгой hydro hilichurl rogue 丘丘水行游侠 hilichurls common_enemy сумеру, фонтейн нераспустившийся цветок / заветный цветок / распустившийся цветок странника flowers 来自何处的待放之花 / 何人所珍藏之花 / 漫游者的盛放之花"
+  },
+  {
+    "id": "hydro_samachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hydro_samachurl.webp",
+    "title": {
+      "ru": "Гидро шамачурл",
+      "en": "Hydro Samachurl",
+      "zh": "水丘丘萨满"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Гидро шамачурл",
+      "Hydro Samachurl",
+      "水丘丘萨满"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "гидро шамачурл hydro samachurl 水丘丘萨满 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 свиток божественной магии / свиток печати / свиток запретного проклятья scrolls 导能绘卷 / 封魔绘卷 / 禁咒绘卷"
+  },
+  {
+    "id": "ice_shield_hilichurl_guard",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл с ледяным щитом",
+      "en": "Ice Shield Hilichurl Guard",
+      "zh": "冰盾丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл с ледяным щитом",
+      "Ice Shield Hilichurl Guard",
+      "冰盾丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл с ледяным щитом ice shield hilichurl guard 冰盾丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "ice_shieldwall_mitachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+    "title": {
+      "ru": "Митачурл с ледяным щитом",
+      "en": "Ice Shieldwall Mitachurl",
+      "zh": "冰盾丘丘暴徒"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Митачурл с ледяным щитом",
+      "Ice Shieldwall Mitachurl",
+      "冰盾丘丘暴徒"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "митачурл с ледяным щитом ice shieldwall mitachurl 冰盾丘丘暴徒 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  {
+    "id": "pyro_hilichurl_shooter",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/pyro_hilichurl.webp",
+    "title": {
+      "ru": "Пиро хиличурл-стрелок",
+      "en": "Pyro Hilichurl Shooter",
+      "zh": "火箭丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Пиро хиличурл-стрелок",
+      "Pyro Hilichurl Shooter",
+      "火箭丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "пиро хиличурл-стрелок pyro hilichurl shooter 火箭丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край прочный наконечник стрелы / острый наконечник стрелы / старый наконечник стрелы arrowheads 牢固的箭簇 / 锐利的箭簇 / 历战的箭簇 маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "rock_shield_hilichurl_guard",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл с каменным щитом",
+      "en": "Rock Shield Hilichurl Guard",
+      "zh": "岩盾丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл с каменным щитом",
+      "Rock Shield Hilichurl Guard",
+      "岩盾丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл с каменным щитом rock shield hilichurl guard 岩盾丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "rock_shieldwall_mitachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+    "title": {
+      "ru": "Митачурл с каменным щитом",
+      "en": "Rock Shieldwall Mitachurl",
+      "zh": "岩盾丘丘暴徒"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Митачурл с каменным щитом",
+      "Rock Shieldwall Mitachurl",
+      "岩盾丘丘暴徒"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "митачурл с каменным щитом rock shieldwall mitachurl 岩盾丘丘暴徒 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  {
+    "id": "stonehide_lawachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/stonehide_lawachurl.webp",
+    "title": {
+      "ru": "Лавачурл с каменным панцирем",
+      "en": "Stonehide Lawachurl",
+      "zh": "丘丘岩盔王"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Лавачурл с каменным панцирем",
+      "Stonehide Lawachurl",
+      "丘丘岩盔王"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "лавачурл с каменным панцирем stonehide lawachurl 丘丘岩盔王 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  {
+    "id": "thunderhelm_lawachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/thunderhelm_lawachurl.webp",
+    "title": {
+      "ru": "Лавачурл с громовым шлемом",
+      "en": "Thunderhelm Lawachurl",
+      "zh": "丘丘雷兜王"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Лавачурл с громовым шлемом",
+      "Thunderhelm Lawachurl",
+      "丘丘雷兜王"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "лавачурл с громовым шлемом thunderhelm lawachurl 丘丘雷兜王 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  },
+  {
+    "id": "wooden_shield_hilichurl_guard",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/hilichurl.webp",
+    "title": {
+      "ru": "Хиличурл с деревянным щитом",
+      "en": "Wooden Shield Hilichurl Guard",
+      "zh": "木盾丘丘人"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Хиличурл с деревянным щитом",
+      "Wooden Shield Hilichurl Guard",
+      "木盾丘丘人"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 1,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "хиличурл с деревянным щитом wooden shield hilichurl guard 木盾丘丘人 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具"
+  },
+  {
+    "id": "wooden_shieldwall_mitachurl",
+    "category": "enemies",
+    "enemy_group": "hilichurls",
+    "enemy_type": "common_enemy",
+    "icon": "assets/icons/enemies/common_enemies/mitachurl.webp",
+    "title": {
+      "ru": "Митачурл с деревянным щитом",
+      "en": "Wooden Shieldwall Mitachurl",
+      "zh": "木盾丘丘暴徒"
+    },
+    "region": "Мондштадт, Ли Юэ, Инадзума, Сумеру, Фонтейн, Натлан, Нод-Край",
+    "game_version": "",
+    "tags": [
+      "Митачурл с деревянным щитом",
+      "Wooden Shieldwall Mitachurl",
+      "木盾丘丘暴徒"
+    ],
+    "languages": [
+      "ru",
+      "en",
+      "zh"
+    ],
+    "drop_count": 2,
+    "enemy_type_keys": [
+      "hilichurls"
+    ],
+    "filter_regions": [
+      "Мондштадт",
+      "Ли Юэ",
+      "Инадзума",
+      "Сумеру",
+      "Фонтейн",
+      "Натлан",
+      "Нод-Край"
+    ],
+    "filter_type": "hilichurls",
+    "sort_version": -1,
+    "search_text": "митачурл с деревянным щитом wooden shieldwall mitachurl 木盾丘丘暴徒 hilichurls common_enemy мондштадт, ли юэ, инадзума, сумеру, фонтейн, натлан, нод-край маски хиличурлов hilichurl masks 丘丘人的面具 тяжёлый рог / чёрный бронзовый рог / чёрный кристаллический рог horns 沉重号角 / 黑铜号角 / 黑晶号角"
+  }
+]

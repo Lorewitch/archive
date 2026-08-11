@@ -1,5 +1,6 @@
 # id: quest_lq_2053
 # story_group: legend_quests
+# display_category: Задание племени · Потомки Крон
 # icon: assets/icons/stories/quests/natlan_hookwalker.webp
 # title_ru: Церемония героя
 # title_en: A Hero's Rite

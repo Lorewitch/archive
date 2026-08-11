@@ -1,5 +1,6 @@
 # id: quest_eq_10268
 # story_group: event_chronicles
+# display_category: Ивент · Ода серебряной луне, освещённая фонарями
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: В Заоблачном пределе
 # title_en: The Realm of Clouds

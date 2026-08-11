@@ -1,6 +1,7 @@
 # id: quest_wq_70527
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Гости с запада: Аромат свободы
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Гости с запада: Аромат свободы
 # title_en: A Visitor From Westward Realms: The Flavor of Freedom
 # title_zh: 西域来客・自由之味

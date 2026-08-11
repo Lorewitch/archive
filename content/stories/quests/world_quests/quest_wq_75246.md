@@ -1,6 +1,7 @@
 # id: quest_wq_75246
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Встречи в отпуске
 # title_en: Encounters Always Happen on a Holiday
 # title_zh: 邂逅总在悠闲时

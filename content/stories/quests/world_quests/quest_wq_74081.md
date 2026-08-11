@@ -1,10 +1,11 @@
 # id: quest_wq_74081
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Коварный свет из глубин
 # title_en: Treacherous Light of the Depths
 # title_zh: 海渊封缠的乖离光
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74081

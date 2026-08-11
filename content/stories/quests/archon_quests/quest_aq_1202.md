@@ -1,5 +1,6 @@
 # id: quest_aq_1202
 # story_group: archon_quests
+# display_category: Задание Архонтов · Инадзума
 # icon: assets/icons/stories/quests/inazuma.webp
 # title_ru: Неизменный бог и вечная утопия
 # title_en: The Immovable God and the Eternal Euthymia

@@ -1,6 +1,7 @@
 # id: quest_wq_70514
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Evermotion Mechanical Painting
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Вечно движущаяся картина
 # title_en: Evermotion Mechanical Painting
 # title_zh: 恒动械画

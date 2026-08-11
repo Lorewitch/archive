@@ -1,6 +1,7 @@
 # id: quest_wq_74704
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sunny Summer Fontinalia (Event) <!-- if Story Quest:
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Друзья... в аквариуме?
 # title_en: Friends... In the Aquarium?
 # title_zh: 水族箱里的…朋友？

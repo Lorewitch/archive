@@ -1,6 +1,7 @@
 # id: quest_wq_70699
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Soulblazers' Snowbound Journey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сообщение от младшего
 # title_en: A Message From the Junior
 # title_zh: 来自后辈的分享

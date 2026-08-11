@@ -1,10 +1,11 @@
 # id: quest_wq_71099
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: На сцене и за кулисами
 # title_en: On the Stage, Behind the Stage
 # title_zh: 台上台下
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.7
 # release_versions: 2.7
 # source_id: 71099

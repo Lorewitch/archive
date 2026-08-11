@@ -1,10 +1,11 @@
 # id: quest_wq_70712
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ботаника Клорис
 # title_en: Chloris's Flora Studies
 # title_zh: 克罗丽丝的植物研究
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 70712

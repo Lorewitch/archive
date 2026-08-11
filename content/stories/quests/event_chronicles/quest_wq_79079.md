@@ -1,6 +1,7 @@
 # id: quest_wq_79079
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertide Scales and Tales
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Финал текста
 # title_en: Text's Coda
 # title_zh: 正文的尾声

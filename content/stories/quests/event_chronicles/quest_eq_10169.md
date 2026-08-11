@@ -1,5 +1,6 @@
 # id: quest_eq_10169
 # story_group: event_chronicles
+# display_category: Ивент · Розы и мушкеты. Послесловие
 # icon: assets/icons/stories/quests/filmfest.webp
 # title_ru: Триумф «Двух мушкетёров»
 # title_en: The Two Musketeers' Triumph

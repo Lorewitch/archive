@@ -1,5 +1,6 @@
 # id: quest_aq_1206
 # story_group: archon_quests
+# display_category: Задание Архонтов · Близнецы
 # icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Реквием гулких глубин
 # title_en: Requiem of the Echoing Depths

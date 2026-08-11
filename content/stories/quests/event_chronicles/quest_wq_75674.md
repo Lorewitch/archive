@@ -1,6 +1,7 @@
 # id: quest_wq_75674
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Dance Dance Easy-Breezy Disco
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Танцы, музыка, каникулы!
 # title_en: Disco in Motion, Holiday Emotion!
 # title_zh: 跃跃律动，假日再临！

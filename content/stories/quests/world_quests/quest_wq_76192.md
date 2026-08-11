@@ -1,6 +1,7 @@
 # id: quest_wq_76192
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование животных: Инеевый финвал
 # title_en: Animal Research: Frostfin Whales
 # title_zh: 动物调查·霜鳍鲸

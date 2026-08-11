@@ -1,10 +1,11 @@
 # id: quest_wq_71109
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Скрытая долина, тайный герой
 # title_en: Shrouded Vale, Hidden Hero
 # title_zh: 秘谷侠隐
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71109

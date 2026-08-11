@@ -1,5 +1,6 @@
 # id: quest_eq_10112
 # story_group: event_chronicles
+# display_category: Ивент · «Акицу Кимодамэси» III
 # icon: assets/icons/stories/quests/brickbreaker.webp
 # title_ru: Течение жизни
 # title_en: The Currents of Life

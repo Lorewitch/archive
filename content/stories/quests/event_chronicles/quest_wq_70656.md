@@ -1,6 +1,7 @@
 # id: quest_wq_70656
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Invitation of Windblume
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Увлекательная страна чудес
 # title_en: Peculiar Wonderland
 # title_zh: 奇趣秘园

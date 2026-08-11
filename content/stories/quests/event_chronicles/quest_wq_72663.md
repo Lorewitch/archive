@@ -1,6 +1,7 @@
 # id: quest_wq_72663
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lunar Realm
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: За луной
 # title_en: Over the Moon
 # title_zh: 月盈之刻

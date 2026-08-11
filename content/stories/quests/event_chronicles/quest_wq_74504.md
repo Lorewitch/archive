@@ -1,6 +1,7 @@
 # id: quest_wq_74504
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Mega Meka Melee
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Моделирование: Зачистка дикой местности
 # title_en: Simulation: Sweeping the Wilds
 # title_zh: 模拟！荒野扫荡

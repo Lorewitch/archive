@@ -1,5 +1,6 @@
 # id: quest_wq_10135
 # story_group: event_chronicles
+# display_category: Ивент · Secret Summer Paradise
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Три дня фантазий Дайи
 # title_en: Daiya's Three-Day Reverie

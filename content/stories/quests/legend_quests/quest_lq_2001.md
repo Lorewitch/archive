@@ -1,5 +1,6 @@
 # id: quest_lq_2001
 # story_group: legend_quests
+# display_category: Задание Легенд · Кэйа
 # icon: assets/icons/stories/quests/kaeya.webp
 # title_ru: Пиратский клад
 # title_en: Secret Pirate Treasure

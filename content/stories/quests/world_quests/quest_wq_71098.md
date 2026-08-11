@@ -1,6 +1,7 @@
 # id: quest_wq_71098
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ода Гарсии
 # title_en: Garcia's Paean
 # title_zh: 加尔恰的赞歌

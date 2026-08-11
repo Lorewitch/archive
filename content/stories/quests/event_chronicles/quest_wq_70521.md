@@ -1,6 +1,7 @@
 # id: quest_wq_70521
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Of Ballads and Brews
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Благотворительная ярмарка! Огромный успех!
 # title_en: Charity Event! A Great Success!
 # title_zh: 义卖活动！完满收场！

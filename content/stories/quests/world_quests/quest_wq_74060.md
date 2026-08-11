@@ -1,10 +1,11 @@
 # id: quest_wq_74060
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сила и смекалка
 # title_en: Both Brains and Brawn
 # title_zh: 智勇双拳
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.1
 # release_versions: 4.1
 # source_id: 74060

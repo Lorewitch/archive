@@ -1,6 +1,7 @@
 # id: quest_wq_75247
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Встреча с друзьями после долгих поисков
 # title_en: All Good Reunions Follow a Search
 # title_zh: 欢聚总在寻觅后

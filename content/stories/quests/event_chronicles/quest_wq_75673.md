@@ -1,6 +1,7 @@
 # id: quest_wq_75673
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Kaleidoscopic Color Chase
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Калейдоскоп красок
 # title_en: A Splash of Color on the Plate!
 # title_zh: 斑斓色彩在盘中！

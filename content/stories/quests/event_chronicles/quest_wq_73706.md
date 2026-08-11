@@ -1,6 +1,7 @@
 # id: quest_wq_73706
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Ruins Exploration: Fieldwise Center
+# icon: assets/icons/stories/quests/ruins_exploration_fieldwise_center.webp
 # title_ru: Группа по управлению кризисными ситуациями к работе готова!
 # title_en: Crisis Management Unit, Fully Operational!
 # title_zh: 抗险机构，全量就绪！

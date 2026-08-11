@@ -1,6 +1,7 @@
 # id: quest_wq_71672
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Lanternlit Ode to the Silver Moon (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Лунная тропа Адепта
 # title_en: The Moonlit Adeptus's Trail
 # title_zh: 月映仙踪

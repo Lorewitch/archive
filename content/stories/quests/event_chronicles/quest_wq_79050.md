@@ -1,6 +1,7 @@
 # id: quest_wq_79050
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Secret Summer Paradise
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Игра света и тени
 # title_en: Capturing Light and Shadow
 # title_zh: 捕获我的光影与线条

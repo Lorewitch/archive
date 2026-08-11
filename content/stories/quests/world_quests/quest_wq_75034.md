@@ -1,6 +1,7 @@
 # id: quest_wq_75034
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Дело об алхимическом верстаке
 # title_en: The Case of the Crafting Bench
 # title_zh: 合成台疑案

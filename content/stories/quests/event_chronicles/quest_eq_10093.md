@@ -1,5 +1,6 @@
 # id: quest_eq_10093
 # story_group: event_chronicles
+# display_category: Ивент · Летнее морское путешествие VI
 # icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Рифма и мелодия летнего сна
 # title_en: Like Rhyme and Song, the Summer Reverie

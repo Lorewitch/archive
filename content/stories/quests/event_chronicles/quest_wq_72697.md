@@ -1,6 +1,7 @@
 # id: quest_wq_72697
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Core of the Apparatus }}
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хороши у нас игрушки: Массовое производство
 # title_en: A-Toymaking We Shall Go: Mass Production
 # title_zh: 进军玩具市场·大量生产

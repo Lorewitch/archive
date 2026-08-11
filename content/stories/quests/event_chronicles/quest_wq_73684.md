@@ -1,6 +1,7 @@
 # id: quest_wq_73684
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Дикая гонка
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Дикая гонка
 # title_en: Across the Wilderness
 # title_zh: 跨野寻踪

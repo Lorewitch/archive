@@ -1,6 +1,7 @@
 # id: quest_wq_75064
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Танец в лунном свете
 # title_en: Dancin' in the Moonlight
 # title_zh: 月光中共舞

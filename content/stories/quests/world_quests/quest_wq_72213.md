@@ -1,6 +1,7 @@
 # id: quest_wq_72213
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Кошка Нэко: Хлопоты с людьми и камнями
 # title_en: Neko Is a Cat: Stone Human's Troubles
 # title_zh: 寝子是只猫·石头人类的麻烦

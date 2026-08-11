@@ -1,10 +1,11 @@
 # id: quest_wq_1105
 # story_group: world_quests
+# display_category: Задание мира · Мондштадт
 # icon: assets/icons/stories/quests/traveler.webp
 # title_ru: Дайнслейф
 # title_en: Dainsleif
 # title_zh: 戴因斯雷布
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 1105

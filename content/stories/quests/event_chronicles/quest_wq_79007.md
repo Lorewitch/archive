@@ -1,6 +1,7 @@
 # id: quest_wq_79007
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Великая бабах-война
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Великая бабах-война
 # title_en: Big Badaboom Battle
 # title_zh: 砰砰大作战

@@ -1,10 +1,11 @@
 # id: quest_wq_71111
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Заоблачный и Перчик
 # title_en: Chili Con Cloudy
 # title_zh: 云云椒椒
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71111

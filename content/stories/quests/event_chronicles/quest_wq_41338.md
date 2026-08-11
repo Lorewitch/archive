@@ -1,6 +1,7 @@
 # id: quest_wq_41338
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Первое праздничное приключение
 # title_en: A Festive First Adventure
 # title_zh: 轻松的冒险初体验

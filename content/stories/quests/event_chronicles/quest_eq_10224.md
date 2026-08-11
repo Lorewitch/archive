@@ -1,5 +1,6 @@
 # id: quest_eq_10224
 # story_group: event_chronicles
+# display_category: Ивент · Чудесные истории фестиваля Микавы: После ночи
 # icon: assets/icons/stories/quests/mikawaflower.webp
 # title_ru: Будто поцелуй росы
 # title_en: As Though Kissed by Dew

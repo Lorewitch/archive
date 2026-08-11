@@ -1,5 +1,6 @@
 # id: quest_aq_1607
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Если однажды зимней ночью путешественник
 # title_en: A Traveler on a Winter's Night

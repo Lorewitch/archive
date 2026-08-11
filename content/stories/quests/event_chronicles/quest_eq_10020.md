@@ -1,5 +1,6 @@
 # id: quest_eq_10020
 # story_group: event_chronicles
+# display_category: Ивент · Праздник морских фонарей
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Свет фонарей над морем
 # title_en: Light Upon the Sea

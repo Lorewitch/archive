@@ -1,6 +1,7 @@
 # id: quest_wq_76058
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Приоритеты прежде всего: Послесловие
 # title_en: Priorities First: Afterword
 # title_zh: 要事优先·后日谈

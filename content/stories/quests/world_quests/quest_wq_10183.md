@@ -1,5 +1,6 @@
 # id: quest_wq_10183
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Сон о Петрикоре
 # title_en: Petrichorror Dream

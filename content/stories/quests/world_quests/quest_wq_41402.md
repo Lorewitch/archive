@@ -1,10 +1,11 @@
 # id: quest_wq_41402
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Идеальный снимок
 # title_en: Perfect Shot
 # title_zh: 完美留影
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.3
 # release_versions: 1.3
 # source_id: 41402

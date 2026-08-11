@@ -1,10 +1,11 @@
 # id: quest_wq_70078
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ветры у подножия Башни безмолвия
 # title_en: Winds Beneath the Tower of Silence
 # title_zh: 寂静之塔下的风向
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 70078

@@ -1,10 +1,11 @@
 # id: quest_wq_71805
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Письмо ценою в десять тысяч золотых
 # title_en: Words Worth Their Weight in Mora
 # title_zh: 书抵万金
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71805

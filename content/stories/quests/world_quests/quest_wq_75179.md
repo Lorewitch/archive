@@ -1,6 +1,7 @@
 # id: quest_wq_75179
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Атака... фиолетовых тепетлизавров?
 # title_en: The Attack of the... Purple Tepetlisaurus?
 # title_zh: 紫色嵴锋龙，来袭？

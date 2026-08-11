@@ -1,10 +1,11 @@
 # id: quest_wq_71714
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сладости для И Чжу
 # title_en: Yi Zhu's Snack
 # title_zh: 一柱的甜食需求
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71714

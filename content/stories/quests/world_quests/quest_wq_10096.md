@@ -1,5 +1,6 @@
 # id: quest_wq_10096
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Журнал кинематографиста
 # title_en: Film Notes

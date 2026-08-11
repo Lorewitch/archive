@@ -1,10 +1,11 @@
 # id: quest_wq_73661
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сахар для Джахана
 # title_en: Jahan's Sugar
 # title_zh: 贾汉的调味料需求
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73661

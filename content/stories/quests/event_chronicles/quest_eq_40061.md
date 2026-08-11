@@ -1,6 +1,7 @@
 # id: quest_eq_40061
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Three Realms Gateway Offering
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Наказ предков
 # title_en: That Which Our Ancestors Entrusted
 # title_zh: 御先祖大人的委托

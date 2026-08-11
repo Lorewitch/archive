@@ -1,5 +1,6 @@
 # id: quest_aq_1605
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Ноктюрн крайнего севера
 # title_en: A Nocturne of the Far North

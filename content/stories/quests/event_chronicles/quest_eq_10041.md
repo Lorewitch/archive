@@ -1,5 +1,6 @@
 # id: quest_eq_10041
 # story_group: event_chronicles
+# display_category: Ивент · Воины лабиринта
 # icon: assets/icons/stories/quests/onmyomaze.webp
 # title_ru: Путь Тайсё
 # title_en: Path of the Taishou

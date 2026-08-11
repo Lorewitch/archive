@@ -1,6 +1,7 @@
 # id: quest_wq_79066
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertide Scales and Tales
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Лес и принцесса
 # title_en: The Forest and the Princess
 # title_zh: 森林与公主

@@ -1,5 +1,6 @@
 # id: quest_eq_10175
 # story_group: event_chronicles
+# display_category: Ивент · Возвращение ловца ветра II
 # icon: assets/icons/stories/quests/bubbledrama.webp
 # title_ru: Ради встречи без слёз
 # title_en: For a Reunion Without Tears

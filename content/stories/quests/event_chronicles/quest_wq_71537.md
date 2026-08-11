@@ -1,6 +1,7 @@
 # id: quest_wq_71537
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Springtime Charms
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Персональный подарочный конверт №5
 # title_en: Custom Gift Envelope No. 5
 # title_zh: 如意祝柬·之五

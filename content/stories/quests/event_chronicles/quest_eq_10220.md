@@ -1,5 +1,6 @@
 # id: quest_eq_10220
 # story_group: event_chronicles
+# display_category: Ивент · Талисманы весны: Третья строфа
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Искусство Цимэнь и Усмиритель бед успокаивают духов и восстанавливают жизнь
 # title_en: Qimen Arts and the Rite of Homa, the Spirits are Calmed and Life Restored

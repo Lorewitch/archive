@@ -1,6 +1,7 @@
 # id: quest_wq_71528
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Arataki Blazing Armor Beetle Battle Boot Camp
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Бесконечный бой жуков!
 # title_en: Provisionally Perpetual Beetle Battle!
 # title_zh: 暂无止境的斗虫之路！

@@ -1,6 +1,7 @@
 # id: quest_wq_70693
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Soulblazers' Snowbound Journey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Случайная встреча и удивительное взаимопонимание
 # title_en: Serendipitous Encounters and a Curious Consensus
 # title_zh: 巧合碰面与奇趣共识

@@ -1,6 +1,7 @@
 # id: quest_wq_73507
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Fungus Mechanicus
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Старые друзья и новая игра
 # title_en: Old Friends, New Game
 # title_zh: 老朋友和新游戏

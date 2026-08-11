@@ -1,5 +1,6 @@
 # id: quest_wq_10260
 # story_group: world_quests
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Оттенки пустоты
 # title_en: Colors of Emptiness

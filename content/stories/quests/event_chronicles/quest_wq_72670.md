@@ -1,6 +1,7 @@
 # id: quest_wq_72670
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Я, исследователь
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Я, исследователь
 # title_en: I, Researcher
 # title_zh: 我，游学者

@@ -1,5 +1,6 @@
 # id: quest_wq_10231
 # story_group: world_quests
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Финальные всполохи пламени
 # title_en: A Finale Emberforged

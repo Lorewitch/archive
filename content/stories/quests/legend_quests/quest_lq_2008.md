@@ -1,5 +1,6 @@
 # id: quest_lq_2008
 # story_group: legend_quests
+# display_category: Задание Легенд · Син Цю
 # icon: assets/icons/stories/quests/xingqiu.webp
 # title_ru: Мечник, который любит читать
 # title_en: Bookworm Swordsman

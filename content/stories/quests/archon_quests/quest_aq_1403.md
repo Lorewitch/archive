@@ -1,5 +1,6 @@
 # id: quest_aq_1403
 # story_group: archon_quests
+# display_category: Задание Архонтов · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: К сиянию звёзд в глубине
 # title_en: To the Stars Shining in the Depths

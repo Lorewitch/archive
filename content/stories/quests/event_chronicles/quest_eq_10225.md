@@ -1,5 +1,6 @@
 # id: quest_eq_10225
 # story_group: event_chronicles
+# display_category: Ивент · Турнир цветущей славы
 # icon: assets/icons/stories/quests/natlandrill.webp
 # title_ru: Ради завриана-спутника
 # title_en: For Our Saurian Companion

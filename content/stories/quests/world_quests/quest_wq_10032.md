@@ -1,10 +1,11 @@
 # id: quest_wq_10032
 # story_group: world_quests
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Охотники за грозами Сэйрая
 # title_en: Seirai Stormchasers
 # title_zh: 清籁逐雷记
-# region: Тейват
+# region: Инадзума
 # game_version: 2.1
 # release_versions: 2.1
 # source_id: 10032

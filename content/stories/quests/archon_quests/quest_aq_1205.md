@@ -1,10 +1,11 @@
 # id: quest_aq_1205
 # story_group: archon_quests
+# display_category: Задание Архонтов · Ли Юэ
 # icon: assets/icons/stories/quests/qunyuge.webp
 # title_ru: Ветер дует - журавли возвращаются
 # title_en: The Crane Returns on the Wind
 # title_zh: 风起鹤归
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.4
 # release_versions: 2.4
 # source_id: 1205

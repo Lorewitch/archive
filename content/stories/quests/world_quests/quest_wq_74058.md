@@ -1,10 +1,11 @@
 # id: quest_wq_74058
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Приключения чудесного камня
 # title_en: Strange Stone Chronicle
 # title_zh: 奇石历险记
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74058

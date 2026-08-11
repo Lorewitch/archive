@@ -1,10 +1,11 @@
 # id: quest_wq_72802
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Дом, что лежит за океаном
 # title_en: Home Lies Over the Ocean
 # title_zh: 海的那头是故乡
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72802

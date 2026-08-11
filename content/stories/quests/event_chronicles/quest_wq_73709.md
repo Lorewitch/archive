@@ -1,6 +1,7 @@
 # id: quest_wq_73709
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sightseeing With Friends
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Обзор достопримечательностей и поиск интересностей
 # title_en: Behold the Grandeur, Seize the Splendor
 # title_zh: 胜地共览，亮点觅捕

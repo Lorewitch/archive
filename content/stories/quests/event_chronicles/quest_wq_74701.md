@@ -1,6 +1,7 @@
 # id: quest_wq_74701
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sunny Summer Fontinalia (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Опасность? Не приближаться!
 # title_en: Danger? Keep Away!
 # title_zh: 危险？请勿靠近！

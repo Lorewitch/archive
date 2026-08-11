@@ -1,6 +1,7 @@
 # id: quest_wq_72684
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · The Almighty Arataki Great and Glorious Drumalong Festival
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Грандиозный барабанный фестиваль великолепного Аратаки
 # title_en: The Almighty Arataki Great and Glorious Drumalong Festival
 # title_zh: 荒泷极上盛世豪鼓大祭典

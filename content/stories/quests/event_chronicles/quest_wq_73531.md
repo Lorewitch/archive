@@ -1,6 +1,7 @@
 # id: quest_wq_73531
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Fayz Trials/2024-03-22
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Доложите о результатах эксперимента
 # title_en: Report the Experimental Data
 # title_zh: 汇报实验数据

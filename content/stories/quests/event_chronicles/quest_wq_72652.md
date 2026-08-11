@@ -1,6 +1,7 @@
 # id: quest_wq_72652
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Thunder Sojourn
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Подготовка к плаванию
 # title_en: Voyage Prep
 # title_zh: 远航的准备

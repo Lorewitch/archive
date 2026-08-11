@@ -1,5 +1,6 @@
 # id: quest_eq_10261
 # story_group: event_chronicles
+# display_category: Ивент · Дзынь-Клац битва: Бедствие
 # icon: assets/icons/stories/quests/nodkraitour.webp
 # title_ru: Динь-дон-дон! Беда!
 # title_en: Dun Dun Dunnn! A Major Crisis!

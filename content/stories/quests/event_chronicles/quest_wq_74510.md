@@ -1,6 +1,7 @@
 # id: quest_wq_74510
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lil' Fungi's Fun-Tastic Fiesta
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Скорое прощание
 # title_en: A Not-So-Distant Farewell
 # title_zh: 不遥远的分别

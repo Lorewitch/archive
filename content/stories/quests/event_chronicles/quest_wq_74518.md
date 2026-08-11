@@ -1,6 +1,7 @@
 # id: quest_wq_74518
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Operation Downpour Simulation
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Гибкое тактическое мышление
 # title_en: Thinking Outside Every Box...
 # title_zh: 灵活调度的思考…

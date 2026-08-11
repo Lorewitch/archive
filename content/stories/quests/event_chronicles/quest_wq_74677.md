@@ -1,6 +1,7 @@
 # id: quest_wq_74677
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Dance of Resolute Will
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Искусство изящного танца с мечом?
 # title_en: The Art of the Elegant Blade Dance?
 # title_zh: 优雅剑舞的艺术？

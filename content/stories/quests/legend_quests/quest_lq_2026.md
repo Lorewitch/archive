@@ -1,5 +1,6 @@
 # id: quest_lq_2026
 # story_group: legend_quests
+# display_category: Задание Легенд · Итто
 # icon: assets/icons/stories/quests/itto.webp
 # title_ru: Золотой души óни
 # title_en: Rise Up, Golden Soul

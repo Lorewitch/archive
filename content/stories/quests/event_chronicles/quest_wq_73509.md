@@ -1,6 +1,7 @@
 # id: quest_wq_73509
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Brewing Developments
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Взрывное кипение!
 # title_en: Boiling Over!
 # title_zh: 爆震沸腾！

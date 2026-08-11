@@ -1,6 +1,7 @@
 # id: quest_wq_71039
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Отблески храбрости: Воспоминания о свете
 # title_en: Valor's Afterglow: The Faint Light Remembered
 # title_zh: 勇气的余晖·谨记微芒

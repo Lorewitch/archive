@@ -1,5 +1,6 @@
 # id: quest_eq_10137
 # story_group: event_chronicles
+# display_category: Ивент · Праздник ветряных цветов II
 # icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Загадка средь людей
 # title_en: A Riddle Amidst the Crowds

@@ -636,6 +636,7 @@ def build_book(path: Path) -> dict[str, Any]:
         "rarity": int_from_meta(meta, "rarity", None),
         "volume_count": int_from_meta(meta, "volume_count", len(volumes) or 1),
         "game_version": game_version_from_meta(meta),
+        "display_category": meta.get("display_category", "").strip(),
         "tags": tags_from_meta(meta),
         "languages": languages_from_text(volumes=volumes),
         "volumes": volumes,
@@ -762,6 +763,15 @@ def normalized_story_group(meta: dict[str, str], path: Path | None = None) -> st
         value = STORY_GROUP_ALIASES.get(value, value)
         return value if value in STORY_GROUPS else "world_stories"
     return story_group_from_path(path) if path else "world_stories"
+
+
+def normalized_display_category(meta: dict[str, str]) -> str:
+    value = meta.get("display_category", "").strip()
+    value = re.sub(r"\s*<!--.*$", "", value)
+    value = re.sub(r"\s*}}\s*$", "", value)
+    value = re.sub(r"/20\d{2}-\d{2}-\d{2}\s*$", "", value)
+    value = re.sub(r"\s*\(Event\)\s*$", "", value)
+    return value.strip()
 
 
 def normalize_story_element_token(value: str) -> str:
@@ -1031,9 +1041,11 @@ def build_generic(path: Path, category: str) -> dict[str, Any]:
     if category == "weapons":
         entry["weapon_type"] = normalized_weapon_type(meta)
         entry["type"] = entry["weapon_type"]
+        entry["entry_kind"] = "skin" if meta.get("entry_kind", "").strip().lower() == "skin" else "weapon"
     if category == "stories":
         entry["story_group"] = normalized_story_group(meta, path)
         entry["category_type"] = entry["story_group"]
+        entry["display_category"] = normalized_display_category(meta)
         story_elements = normalized_story_elements(meta)
         if not story_elements and entry["story_group"] == "character_stories" and entry_id in {"traveler", "aether", "lumine"}:
             story_elements = list(STORY_ELEMENT_ORDER)
@@ -1230,6 +1242,7 @@ def index_weapon(item: dict[str, Any]) -> dict[str, Any]:
         "title": item.get("title", {}),
         "weapon_type": item.get("weapon_type", ""),
         "type": item.get("weapon_type", ""),
+        "entry_kind": item.get("entry_kind", "weapon"),
         "rarity": item.get("rarity"),
         "game_version": item.get("game_version", ""),
         "tags": item.get("tags", []),
@@ -1239,6 +1252,7 @@ def index_weapon(item: dict[str, Any]) -> dict[str, Any]:
             item.get("title", {}),
             item.get("weapon_type", ""),
             item.get("type", ""),
+            item.get("entry_kind", "weapon"),
             item.get("rarity", ""),
             item.get("game_version", ""),
             item.get("tags", []),
@@ -1268,7 +1282,6 @@ def index_enemy(enemy: dict[str, Any]) -> dict[str, Any]:
             enemy.get("region", ""),
             enemy.get("game_version", ""),
             enemy.get("tags", []),
-            enemy.get("description", {}),
             [drop.get("title", {}) for drop in enemy.get("drops", [])],
         ),
     }
@@ -1324,12 +1337,10 @@ def index_item(item: dict[str, Any]) -> dict[str, Any]:
             item.get("item_type", ""),
             item.get("item_type_title", {}),
             item.get("tags", []),
-            item.get("description", {}),
             item.get("dropped_by", []),
             [enemy.get("title", {}) for enemy in item.get("dropped_by_enemies", [])],
             [material.get("key", "") for material in item.get("materials", [])],
             [material.get("title", {}) for material in item.get("materials", [])],
-            [material.get("text", {}) for material in item.get("materials", [])],
         ),
     }
 
@@ -1347,6 +1358,7 @@ def story_catalog_search_values(item: dict[str, Any], story_group: str) -> tuple
         item.get("chapter_num", {}),
         item.get("quest_series", []),
         item.get("quest_collections", []),
+        item.get("display_category", ""),
     )
 
 
@@ -1362,6 +1374,7 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "game_version": item.get("game_version", ""),
         "story_group": story_group,
         "category_type": story_group,
+        "display_category": item.get("display_category", ""),
         "element": item.get("element", ""),
         "elements": item.get("elements", []),
         "character_filters": character_filters,
@@ -1374,21 +1387,6 @@ def index_story(item: dict[str, Any]) -> dict[str, Any]:
         "quest_collections": item.get("quest_collections", []),
         **index_runtime_fields(item, story_group),
         "search_text": make_search_text(*story_catalog_search_values(item, story_group), character_filters),
-    }
-
-
-def story_search_entry(item: dict[str, Any]) -> dict[str, Any]:
-    story_group = item.get("story_group", "world_stories")
-    quest_group = story_group in {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
-    return {
-        "id": item["id"],
-        "search_text": make_search_text(
-            *story_catalog_search_values(item, story_group),
-            ([part.get("title", {}) for part in item.get("parts", [])] if quest_group else item.get("description", {})),
-            item.get("previous_quests", []),
-            item.get("next_quests", []),
-            item.get("related_quests", []),
-        ),
     }
 
 
@@ -1411,6 +1409,25 @@ def build_collection(
     index = [indexer(entry) for entry in entries]
     write_json(DATA_DIR / f"{name}_index.json", index, compact=(name == "stories"))
     return entries
+
+
+def write_group_indexes(name: str, entries: list[dict[str, Any]], indexer, group_field: str) -> None:
+    index_dir = DATA_DIR / "indexes" / name
+    index_dir.mkdir(parents=True, exist_ok=True)
+    clean_json_dir(index_dir)
+
+    grouped: dict[str, list[dict[str, Any]]] = {}
+    for entry in entries:
+        key = str(entry.get(group_field) or "").strip()
+        if key:
+            grouped.setdefault(key, []).append(indexer(entry))
+
+    if name == "stories":
+        quest_groups = {"archon_quests", "legend_quests", "world_quests", "event_chronicles"}
+        grouped["quest_stories"] = [indexer(entry) for entry in entries if entry.get(group_field) in quest_groups]
+
+    for key, rows in grouped.items():
+        write_json(index_dir / f"{key}.json", rows, compact=(name == "stories"))
 
 
 def write_collection_data(name: str, entries: list[dict[str, Any]], indexer) -> None:
@@ -1505,7 +1522,7 @@ def build() -> None:
     artifacts = build_collection("artifacts", build_artifact, index_artifact)
     weapons = build_collection("weapons", lambda path: build_generic(path, "weapons"), index_weapon)
     stories = build_collection("stories", lambda path: build_generic(path, "stories"), index_story)
-    write_json(DATA_DIR / "stories_search.json", [story_search_entry(entry) for entry in stories], compact=True)
+    (DATA_DIR / "stories_search.json").unlink(missing_ok=True)
     enemy_source_dir = CONTENT_DIR / "enemies" / "common_enemies"
     enemies = [build_enemy(md_file) for md_file in markdown_files(enemy_source_dir)]
 
@@ -1514,6 +1531,9 @@ def build() -> None:
     # Hidden enemy reference is intentionally limited to common_enemies.
     # Output stays in data/enemies/<enemy_id>.json for simple client-side lookup.
     write_collection_data("enemies", enemies, index_enemy)
+    write_group_indexes("items", items, index_item, "item_group")
+    write_group_indexes("stories", stories, index_story, "story_group")
+    write_group_indexes("bestiary", enemies, index_enemy, "enemy_group")
 
     summary = {
         "books": len(books),

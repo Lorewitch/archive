@@ -1,5 +1,6 @@
 # id: quest_aq_1204
 # story_group: archon_quests
+# display_category: Задание Архонтов · Инадзума
 # icon: assets/icons/stories/quests/inazuma.webp
 # title_ru: Всевидящий бог, бренный мир
 # title_en: Omnipresence Over Mortals

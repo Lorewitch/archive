@@ -1,6 +1,7 @@
 # id: quest_wq_13028
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Вдруг где-то есть и другой дом
 # title_en: Another Home There May Yet Be
 # title_zh: 若还有另一个家

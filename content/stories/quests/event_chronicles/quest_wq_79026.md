@@ -1,6 +1,7 @@
 # id: quest_wq_79026
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertime Odyssey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Драматическая фантасмагория: Сказание о принцессе с мечом
 # title_en: Drama Phantasmagoria: Tale of the Sword-Wielding Princess!
 # title_zh: 极夜幻想剧·王女执剑记！

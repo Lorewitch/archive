@@ -1,10 +1,11 @@
 # id: quest_wq_73802
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Приключения требуют мужества!
 # title_en: Adventure Takes Courage!
 # title_zh: 冒险就要大步向前
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73802

@@ -31,11 +31,16 @@ function itemMatchesFilter(item, config, selected, activeTypeSet = null) {
       const selectedWeaponTypes = WEAPON_TYPE_FILTERS
         .map(option => option.value)
         .filter(value => activeTypeSet.has(value));
+      const selectedKinds = WEAPON_KIND_FILTERS
+        .map(option => option.value)
+        .filter(value => activeTypeSet.has(value));
       const rarity = `rarity:${String(item?.rarity || "").trim()}`;
       const weaponType = `weapon:${String(item?.weapon_type || item?.type || "").trim()}`;
+      const kind = `kind:${String(item?.entry_kind || "weapon").trim()}`;
       const rarityOk = !selectedRarities.length || activeTypeSet.has(rarity);
       const weaponOk = !selectedWeaponTypes.length || activeTypeSet.has(weaponType);
-      return rarityOk && weaponOk;
+      const kindOk = !selectedKinds.length || activeTypeSet.has(kind);
+      return rarityOk && weaponOk && kindOk;
     }
     if (isCommonEnemyCatalog(config)) {
       return Array.from(itemCommonEnemyTypes(item)).some(type => activeTypeSet.has(type));
@@ -98,9 +103,7 @@ function searchableText(item) {
 }
 
 function searchableTextForCatalog(item, config) {
-  if (config.id === "stories" && STORY_SEARCH_TEXTS.has(item.id)) {
-    return STORY_SEARCH_TEXTS.get(item.id) || searchableText(item);
-  }
+  void config;
   return searchableText(item);
 }
 
@@ -465,7 +468,6 @@ function renderCatalogFilterReset(config = currentCatalogConfig()) {
 function renderCatalog(config) {
   activeDetail = null;
   const filterState = state.filters[config.id];
-  ensureStorySearchIndexForQuery(config, filterState.query);
   const options = optionsFor(config);
   const allowedFilters = new Set(["all", ...options.map(([value]) => value)]);
   if (!allowedFilters.has(filterState.filter)) {

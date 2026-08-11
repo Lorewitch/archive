@@ -1,10 +1,11 @@
 # id: quest_wq_10121
 # story_group: world_quests
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Хварна добра и зла
 # title_en: Khvarena of Good and Evil
 # title_zh: 善恶的赫瓦雷纳
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 10121

@@ -1,10 +1,11 @@
 # id: quest_wq_70061
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Лесной кабан замирает над цветком
 # title_en: Forest Boar Pauses for the Bloom
 # title_zh: 山有林猪粗嗅花
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.5
 # release_versions: 6.5
 # source_id: 70061

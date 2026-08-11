@@ -1,5 +1,6 @@
 # id: quest_wq_10217
 # story_group: world_quests
+# display_category: Задание мира · Натлан
 # icon: assets/icons/stories/quests/natlan.webp
 # title_ru: Обещание Избранника
 # title_en: The Chosen One's Promise

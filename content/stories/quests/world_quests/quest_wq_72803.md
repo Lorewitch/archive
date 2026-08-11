@@ -1,10 +1,11 @@
 # id: quest_wq_72803
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: О, Архонт! Правильно ли я поступил?
 # title_en: O Archon, Have I Done Right?
 # title_zh: 神明啊，我做得对吗？
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72803

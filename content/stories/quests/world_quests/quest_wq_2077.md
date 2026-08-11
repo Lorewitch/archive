@@ -1,10 +1,11 @@
 # id: quest_wq_2077
 # story_group: world_quests
+# display_category: Уроки Ведьм · Барбелот
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Тест на проницательность
 # title_en: Witch's Homework: Of Untested Insight
 # title_zh: 魔女的课业·干慧之题
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.2
 # release_versions: 1.2,6.2
 # source_id: 2077

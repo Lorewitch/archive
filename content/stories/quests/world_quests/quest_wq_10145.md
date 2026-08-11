@@ -1,5 +1,6 @@
 # id: quest_wq_10145
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Хроники Исследовательского института Фонтейна
 # title_en: Fontaine Research Institute Chronicles

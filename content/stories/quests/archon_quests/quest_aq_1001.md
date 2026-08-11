@@ -1,5 +1,6 @@
 # id: quest_aq_1001
 # story_group: archon_quests
+# display_category: Задание Архонтов · Мондштадт
 # icon: assets/icons/stories/quests/mengde.webp
 # title_ru: Чужеземец, поймавший ветер
 # title_en: The Outlander Who Caught the Wind

@@ -1,5 +1,6 @@
 # id: quest_wq_10155
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: След за кормой
 # title_en: Rowboat's Wake

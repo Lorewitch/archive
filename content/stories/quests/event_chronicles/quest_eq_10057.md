@@ -1,5 +1,6 @@
 # id: quest_eq_10057
 # story_group: event_chronicles
+# display_category: Ивент · Краски мимолётности: Сияют чистые мечты
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Яркие фонари скрывают тени
 # title_en: The Bright-Windowed Lanterns Hide Their Shadows

@@ -1,6 +1,7 @@
 # id: quest_wq_76672
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Страж под луной
 # title_en: The Moonlit Watcher
 # title_zh: 月下的守望者

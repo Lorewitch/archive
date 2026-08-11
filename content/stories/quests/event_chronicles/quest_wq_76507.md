@@ -1,6 +1,7 @@
 # id: quest_wq_76507
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lightgleaner's Journey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Тёплое обещание
 # title_en: A Warm Promise
 # title_zh: 定格温暖的约定

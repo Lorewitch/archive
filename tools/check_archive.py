@@ -18,7 +18,7 @@ LANGS = {"ru", "en", "zh"}
 
 KNOWN_REGIONS = {
     "Мондштадт", "Ли Юэ", "Инадзума", "Сумеру", "Фонтейн", "Натлан",
-    "Нод-Край", "Снежная", "Тейват", "Энканомия", "Разлом",
+    "Нод-Край", "Луна", "Снежная", "Тейват", "Энканомия", "Разлом",
     "Подземные шахты Разлома", "Море древности", "Селестия", "Каэнри'ах",
     "Каэнри’ах", "Иной мир",
 }
@@ -252,35 +252,46 @@ def check_index_and_details(indexes: dict[str, list[dict[str, Any]]]) -> dict[st
     return details
 
 
-def check_story_search_index(indexes: dict[str, list[dict[str, Any]]]) -> None:
+def check_lazy_category_indexes(indexes: dict[str, list[dict[str, Any]]]) -> None:
     path = DATA_DIR / "stories_search.json"
-    story_ids = {str(item.get("id") or "") for item in indexes.get("stories", []) if item.get("id")}
+    if path.exists():
+        fail("data/stories_search.json: общий индекс текстов историй не должен создаваться")
 
-    if not story_ids:
-        return
-    if not path.exists():
-        fail("data/stories_search.json: отсутствует ленивый полнотекстовый индекс историй")
-        return
+    specs = (
+        ("items", "items", "item_group"),
+        ("bestiary", "enemies", "enemy_group"),
+        ("stories", "stories", "story_group"),
+    )
+    for folder, section, group_field in specs:
+        source = indexes.get(section, [])
+        groups = {str(item.get(group_field) or "").strip() for item in source}
+        for group in sorted(value for value in groups if value):
+            group_path = DATA_DIR / "indexes" / folder / f"{group}.json"
+            if not group_path.exists():
+                fail(f"{rel(group_path)}: отсутствует ленивый индекс категории")
+                continue
+            rows = read_json(group_path)
+            if not isinstance(rows, list):
+                fail(f"{rel(group_path)}: индекс категории должен быть списком")
+                continue
+            expected_ids = {str(item.get("id") or "") for item in source if item.get(group_field) == group}
+            actual_ids = {str(item.get("id") or "") for item in rows if isinstance(item, dict)}
+            if actual_ids != expected_ids:
+                fail(f"{rel(group_path)}: состав категории не совпадает с полным индексом")
 
-    data = read_json(path)
-    if not isinstance(data, list):
-        fail("data/stories_search.json: индекс должен быть списком")
-        return
-
-    search_ids = {str(item.get("id") or "") for item in data if isinstance(item, dict) and item.get("id")}
-    missing = sorted(story_ids - search_ids)
-    extra = sorted(search_ids - story_ids)
-    if missing:
-        fail(f"data/stories_search.json: нет записей для {', '.join(missing[:10])}")
-    if extra:
-        fail(f"data/stories_search.json: лишние записи {', '.join(extra[:10])}")
-
-    for item in data:
-        if not isinstance(item, dict):
-            fail("data/stories_search.json: каждая запись должна быть объектом")
-            continue
-        if not str(item.get("search_text") or "").strip():
-            fail(f"data/stories_search.json#{item.get('id')}: пустой search_text")
+    quest_path = DATA_DIR / "indexes" / "stories" / "quest_stories.json"
+    quest_rows = read_json(quest_path) if quest_path.exists() else None
+    if not isinstance(quest_rows, list):
+        fail(f"{rel(quest_path)}: отсутствует объединённый ленивый индекс заданий")
+    else:
+        expected_ids = {
+            str(item.get("id") or "")
+            for item in indexes.get("stories", [])
+            if item.get("story_group") in QUEST_STORY_GROUPS
+        }
+        actual_ids = {str(item.get("id") or "") for item in quest_rows if isinstance(item, dict)}
+        if actual_ids != expected_ids:
+            fail(f"{rel(quest_path)}: состав объединённого каталога заданий неверен")
 
 
 def check_books(books: dict[str, dict[str, Any]]) -> None:
@@ -355,6 +366,9 @@ def check_weapons(weapons: dict[str, dict[str, Any]]) -> None:
         weapon_type = str(weapon.get("weapon_type") or weapon.get("type") or "").strip()
         if weapon_type not in KNOWN_WEAPON_TYPES:
             fail(f"{owner}: неизвестный тип оружия {weapon_type or 'пусто'}")
+        entry_kind = str(weapon.get("entry_kind") or "weapon").strip()
+        if entry_kind not in {"weapon", "skin"}:
+            fail(f"{owner}: неизвестный вид оружейной записи {entry_kind or 'пусто'}")
         rarity = weapon.get("rarity")
         if rarity is not None and str(rarity) not in {"1", "2", "3", "4", "5"}:
             fail(f"{owner}: неизвестная редкость оружия {rarity}")
@@ -552,6 +566,11 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
 
     for item_id, quest in quests.items():
         owner = f"data/stories/{item_id}.json"
+        display_category = str(quest.get("display_category") or "").strip()
+        if not display_category:
+            fail(f"{owner}: отсутствует уточнённая классификация задания")
+        if re.search(r"[{}<>]|<!--|/20\d{2}-\d{2}-\d{2}", display_category):
+            fail(f"{owner}: в классификации задания осталась служебная разметка")
         version = str(quest.get("game_version") or "").strip()
         if not re.fullmatch(r"\d+\.\d+(?:\.\d+)?", version):
             fail(f"{owner}: missing verified release version")
@@ -591,6 +610,10 @@ def check_quest_corpus(stories: dict[str, dict[str, Any]]) -> None:
                 fail(f"{owner}: unknown quest collections {', '.join(unknown_collections)}")
             if "witch_homework" in quest_collections and quest.get("story_group") != "world_quests":
                 fail(f"{owner}: Witch's Homework must remain a world-quest collection")
+
+        if item_id in {"quest_aq_1609", "quest_aq_1611"}:
+            if quest.get("region") != "Сумеру" or display_category != "Задание Архонтов · Сумеру":
+                fail(f"{owner}: Song of the Welkin Moon IX/X must be classified as Sumeru")
 
         for field in ("previous_quests", "next_quests", "related_quests", "quest_chain"):
             values = quest.get(field)
@@ -1218,14 +1241,22 @@ def check_interface_regressions() -> None:
             fail("assets/js/archive.js: backdrop мобильного меню должен гасить touchmove, иначе фон может прокручиваться")
         if 'let STORIES = []' not in text or 'id: "stories"' not in text or 'STORY_CHILD_GROUPS' not in text:
             fail("assets/js/archive.js: раздел Истории и вложенные подкатегории должны быть подключены в клиенте")
-        if 'BACKGROUND_PREFETCH_SECTIONS = new Set(["artifacts", "weapons"])' not in text:
-            fail("assets/js/archive.js: тяжёлые индексы items/stories не должны загружаться фоновым prefetch на первом экране")
-        if 'function loadStorySearchIndex()' not in text or 'data/stories_search.json' not in text or 'ensureStorySearchIndexForQuery' not in text:
-            fail("assets/js/archive.js: полный поиск по историям должен грузиться лениво, а не вместе с каталогом")
+        if "BACKGROUND_PREFETCH_SECTIONS" in text or "scheduleBackgroundSectionPrefetch" in text:
+            fail("assets/js/archive.js: каталоги не должны загружаться фоновым prefetch на первом экране")
+        if "loadStorySearchIndex" in text or "data/stories_search.json" in text or "ensureStorySearchIndexForQuery" in text:
+            fail("assets/js/archive.js: общий полнотекстовый индекс историй не должен загружаться")
+        if "function loadCatalogData(" not in text or "data/indexes/${encodeURIComponent(config.id)}" not in text:
+            fail("assets/js/archive.js: сгруппированные каталоги должны загружаться отдельными индексами категорий")
         if 'quest_stories' not in text or 'archon_quests' not in text or 'legend_quests' not in text or 'world_quests' not in text:
             fail("assets/js/archive.js: истории заданий должны иметь подкатегории заданий Архонтов, Легенд и мира")
         if "STORY_QUEST_TYPE_FILTERS" not in text or "isQuestStoriesCatalog" not in text or "storyQuestMatchesTypeFilters" not in text:
             fail("assets/js/archive.js: все задания должны открываться единым каталогом с фильтрами по типу")
+        if "WEAPON_KIND_FILTERS" not in text or 'value: "kind:skin"' not in text or 'value: "kind:weapon"' not in text:
+            fail("assets/js/archive.js: в оружии должны быть фильтры Оружие и Скины")
+        if '["Луна", "Луна"]' not in text:
+            fail("assets/js/archive.js: в региональных фильтрах должна быть Луна")
+        if '["quest_stories", "Квесты и задания"' not in text:
+            fail("assets/js/archive.js: категория заданий должна называться Квесты и задания")
         if 'collection:witch_homework' not in text or 'label: "Уроки ведьм"' not in text:
             fail("assets/js/archive.js: Уроки ведьм должны быть отдельной подборкой заданий мира")
         if '${UI_ICON_BASE}/witchcraft.webp' not in text or 'scope: "quest-stories"' not in text:
@@ -1255,7 +1286,7 @@ def main() -> int:
     else:
         indexes = load_indexes()
         details = check_index_and_details(indexes)
-        check_story_search_index(indexes)
+        check_lazy_category_indexes(indexes)
         check_quest_corpus(details.get("stories", {}))
         check_books(details.get("books", {}))
         check_artifacts(details.get("artifacts", {}))

@@ -1,5 +1,6 @@
 # id: quest_eq_10109
 # story_group: event_chronicles
+# display_category: Ивент · Ночная гармония струн II
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Единственная гармония для незаменимой души
 # title_en: A Single Harmony for an Irreplaceable Soul

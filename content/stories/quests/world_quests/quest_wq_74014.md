@@ -1,6 +1,7 @@
 # id: quest_wq_74014
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: В поисках прошлого: Юг
 # title_en: In Search of Lost Time: South
 # title_zh: 往事追迹·南

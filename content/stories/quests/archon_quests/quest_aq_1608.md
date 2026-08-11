@@ -1,5 +1,6 @@
 # id: quest_aq_1608
 # story_group: archon_quests
+# display_category: Задание Архонтов · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Истинная луна
 # title_en: True Moon

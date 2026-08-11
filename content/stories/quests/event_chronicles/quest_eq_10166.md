@@ -1,5 +1,6 @@
 # id: quest_eq_10166
 # story_group: event_chronicles
+# display_category: Ивент · Яркие птицы в весеннем небе II
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: Притягательность заоблачных высот и раскрывшееся великолепие
 # title_en: A Cloud-Sea Appeal, a Brilliance Revealed

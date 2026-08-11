@@ -1,5 +1,6 @@
 # id: quest_aq_1201
 # story_group: archon_quests
+# display_category: Задание Архонтов · Инадзума
 # icon: assets/icons/stories/quests/inazuma.webp
 # title_ru: Осенний ветер, багряные листья
 # title_en: Autumn Winds, Scarlet Leaves

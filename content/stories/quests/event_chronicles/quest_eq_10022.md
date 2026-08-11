@@ -1,5 +1,6 @@
 # id: quest_eq_10022
 # story_group: event_chronicles
+# display_category: Ивент · Праздник ветряных цветов
 # icon: assets/icons/stories/quests/fleurfair.webp
 # title_ru: Письмо облакам и туману
 # title_en: Missive of Cloud and Fog

@@ -1,6 +1,7 @@
 # id: quest_wq_20601
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Хорошая возможность?
 # title_en: A Fine Opportunity?
 # title_zh: 天赐良机？

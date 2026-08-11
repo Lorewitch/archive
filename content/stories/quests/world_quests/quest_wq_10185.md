@@ -1,5 +1,6 @@
 # id: quest_wq_10185
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Реквием
 # title_en: Requiem

@@ -1,5 +1,6 @@
 # id: quest_wq_10094
 # story_group: world_quests
+# display_category: Задание мира · Тейват
 # icon: assets/icons/stories/quests/firmament.webp
 # title_ru: Рай
 # title_en: Paradise

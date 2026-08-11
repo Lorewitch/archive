@@ -1,10 +1,11 @@
 # id: quest_wq_74665
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Мек-хаос
 # title_en: Meka Mess
 # title_zh: 发条机关引起的混乱
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74665

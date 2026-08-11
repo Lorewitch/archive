@@ -1,10 +1,11 @@
 # id: quest_wq_74164
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Охота за сокровищами, исполняющими желания
 # title_en: Wish-Fulfilling Treasure Hunt
 # title_zh: 得偿所愿的寻宝之旅
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.2
 # release_versions: 4.2
 # source_id: 74164

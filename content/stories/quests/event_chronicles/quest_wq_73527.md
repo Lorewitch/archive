@@ -1,6 +1,7 @@
 # id: quest_wq_73527
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Secret Summer Paradise
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Крокодилы? Водяные пушки? Это сражение!
 # title_en: Crocs? Water Cannons? It's War!
 # title_zh: 鳄鱼？水炮？大作战！

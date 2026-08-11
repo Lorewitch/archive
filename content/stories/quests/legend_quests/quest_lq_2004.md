@@ -1,5 +1,6 @@
 # id: quest_lq_2004
 # story_group: legend_quests
+# display_category: Задание Легенд · Лиза
 # icon: assets/icons/stories/quests/lisa.webp
 # title_ru: Рутинная работа
 # title_en: Troublesome Work

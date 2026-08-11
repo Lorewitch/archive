@@ -1,6 +1,7 @@
 # id: quest_wq_76180
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Пристанище белой голубки
 # title_en: Where the White Dove Rests
 # title_zh: 白鸽的栖处

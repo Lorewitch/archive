@@ -1,5 +1,6 @@
 # id: quest_aq_1101
 # story_group: archon_quests
+# display_category: Задание Архонтов · Ли Юэ
 # icon: assets/icons/stories/quests/liyue.webp
 # title_ru: Загадочная земля тысячи камней
 # title_en: Of the Land Amidst Monoliths

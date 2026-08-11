@@ -1,6 +1,7 @@
 # id: quest_wq_73506
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Длинный и беззаботный отпуск библиотекаря
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Длинный и беззаботный отпуск библиотекаря
 # title_en: A Librarian's Long and Carefree Vacation
 # title_zh: 图书管理员的悠长假期

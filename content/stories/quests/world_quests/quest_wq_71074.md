@@ -1,10 +1,11 @@
 # id: quest_wq_71074
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Речи ищущего камни
 # title_en: Says He Who Seeks Stone
 # title_zh: 藏石者言
-# region: Тейват
+# region: Ли Юэ
 # game_version: 2.6
 # release_versions: 2.6
 # source_id: 71074

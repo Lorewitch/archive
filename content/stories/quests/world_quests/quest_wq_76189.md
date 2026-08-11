@@ -1,6 +1,7 @@
 # id: quest_wq_76189
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Исследование животных: Барсук-стиляга
 # title_en: Animal Research: Chic Badgers
 # title_zh: 动物调查·帔髦獾

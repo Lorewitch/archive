@@ -1,6 +1,7 @@
 # id: quest_wq_70003
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Invitation of Windblume
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Труднодоступные места
 # title_en: Those Hard-to-Reach Places
 # title_zh: 高处清理

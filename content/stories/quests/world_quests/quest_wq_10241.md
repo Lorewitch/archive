@@ -1,5 +1,6 @@
 # id: quest_wq_10241
 # story_group: world_quests
+# display_category: Задание мира · Нод-Край
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Полька под луной
 # title_en: Polkka Beneath the Moon's Oracle

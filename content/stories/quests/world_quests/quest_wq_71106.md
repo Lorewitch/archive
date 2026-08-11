@@ -1,10 +1,11 @@
 # id: quest_wq_71106
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Трёхкратные ожидания
 # title_en: Threefold Expectations
 # title_zh: 攸望三叠
-# region: Тейват
+# region: Ли Юэ
 # game_version: 4.4
 # release_versions: 4.4
 # source_id: 71106

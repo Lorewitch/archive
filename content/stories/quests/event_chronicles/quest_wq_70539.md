@@ -1,6 +1,7 @@
 # id: quest_wq_70539
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Feline Fortress Furrdyssey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Замок котиков» в опасности!
 # title_en: Furball Fortress's Frightful Fix!
 # title_zh: 「猫茸茸城堡」的大大危机！

@@ -1,5 +1,6 @@
 # id: quest_eq_10117
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Парк развлечений? Мираж! Часть I
 # icon: assets/icons/stories/quests/penumbraadventure.webp
 # title_ru: Приглашение издалека!
 # title_en: An Invitation From Afar!

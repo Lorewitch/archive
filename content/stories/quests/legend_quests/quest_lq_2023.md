@@ -1,5 +1,6 @@
 # id: quest_lq_2023
 # story_group: legend_quests
+# display_category: Задание Легенд · Райдэн
 # icon: assets/icons/stories/quests/shougun.webp
 # title_ru: Размышления о бренности
 # title_en: Reflections of Mortality

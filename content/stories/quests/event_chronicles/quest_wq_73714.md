@@ -1,6 +1,7 @@
 # id: quest_wq_73714
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sightseeing With Friends
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Открывая мир вместе: Живописные виды
 # title_en: Sightseeing With Friends: Scenic Highlights
 # title_zh: 灵蕈旅记：综景一览

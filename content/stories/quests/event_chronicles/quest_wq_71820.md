@@ -1,6 +1,7 @@
 # id: quest_wq_71820
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: И снова «Ваншу»
 # title_en: Wangshu Once Again
 # title_zh: 再访望舒

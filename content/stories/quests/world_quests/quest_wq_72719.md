@@ -1,10 +1,11 @@
 # id: quest_wq_72719
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Заказ руды от Ята Коки
 # title_en: Yata Kouki's Order of Ore
 # title_zh: 矢田幸喜的白铁块需求
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72719

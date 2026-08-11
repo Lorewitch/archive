@@ -1,6 +1,7 @@
 # id: quest_wq_74501
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Mega Meka Melee
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Игрушечная война: Накал
 # title_en: The Toy War: Heating Up
 # title_zh: 白热化！玩具战争

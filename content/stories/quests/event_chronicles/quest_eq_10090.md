@@ -1,5 +1,6 @@
 # id: quest_eq_10090
 # story_group: event_chronicles
+# display_category: Ивент · Летнее морское путешествие III
 # icon: assets/icons/stories/quests/summertimev2.webp
 # title_ru: Пламенная песнь
 # title_en: Blazin' Trails

@@ -1,10 +1,11 @@
 # id: quest_wq_74034
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Некое уведомление
 # title_en: A Certain Notice
 # title_zh: 一份通知
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74034

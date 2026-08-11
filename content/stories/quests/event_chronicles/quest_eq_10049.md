@@ -1,5 +1,6 @@
 # id: quest_eq_10049
 # story_group: event_chronicles
+# display_category: Ивент · Снежное путешествие Пылких Сердец II
 # icon: assets/icons/stories/quests/snowrace.webp
 # title_ru: Сейчас не время для слёз
 # title_en: Now's No Time for Tears

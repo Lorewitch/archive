@@ -1,6 +1,7 @@
 # id: quest_wq_75671
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Зяблики всё равно самые милые
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Зяблики всё равно самые милые
 # title_en: Finches Are Still the Cutest
 # title_zh: 团雀还会最可爱

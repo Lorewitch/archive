@@ -1,5 +1,6 @@
 # id: quest_wq_10146
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Великое приключение в Нарциссенкрейце
 # title_en: The Narzissenkreuz Adventure

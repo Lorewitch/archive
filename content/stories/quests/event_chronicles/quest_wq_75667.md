@@ -1,6 +1,7 @@
 # id: quest_wq_75667
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Sunspray Summer Resort (Event)
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путешествуя вместе
 # title_en: Travels Are Fuller With Friends
 # title_zh: 遥遥同旅

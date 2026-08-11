@@ -1,6 +1,7 @@
 # id: quest_wq_74531
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Shutterflash Memory Hunt
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Прекрасная работа! Что дальше?
 # title_en: Well Done! What's the Next Big Plan?
 # title_zh: 圆满收工！下一个大计划？

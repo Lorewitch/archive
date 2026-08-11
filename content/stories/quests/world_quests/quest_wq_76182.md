@@ -1,6 +1,7 @@
 # id: quest_wq_76182
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Встреча в саду
 # title_en: A Garden Gathering
 # title_zh: 花园小聚

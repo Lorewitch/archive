@@ -1,6 +1,7 @@
 # id: quest_wq_79041
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Secret Summer Paradise
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Круговорот тысячи чудес
 # title_en: Returning Curios
 # title_zh: 千奇澴回

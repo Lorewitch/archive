@@ -1,6 +1,7 @@
 # id: quest_wq_72727
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Хякунин икки: Арена Наруками
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хякунин икки: Арена Наруками
 # title_en: Hyakunin Ikki: Narukami Arena
 # title_zh: 「百人一揆·鸣神擂台」

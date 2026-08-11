@@ -1,10 +1,11 @@
 # id: quest_wq_10239
 # story_group: world_quests
+# display_category: Уроки Ведьм · Николь
 # icon: assets/icons/stories/quests/hexenzirkel.webp
 # title_ru: Уроки ведьм: Роль наставника?..
 # title_en: Witch's Homework: The Role of a Guide...?
 # title_zh: 魔女的课业·导引之职…？
-# region: Тейват
+# region: Мондштадт
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 10239

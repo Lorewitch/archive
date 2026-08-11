@@ -1,5 +1,6 @@
 # id: quest_eq_10010
 # story_group: event_chronicles
+# display_category: Ивент · Принц мела и дракон
 # icon: assets/icons/stories/quests/dragonspine.webp
 # title_ru: Осквернённое желание
 # title_en: Festering Desire

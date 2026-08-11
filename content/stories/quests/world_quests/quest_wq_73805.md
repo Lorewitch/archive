@@ -1,6 +1,7 @@
 # id: quest_wq_73805
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Всеядные гурманы: Наведение порядка
 # title_en: The Gourmet Supremos: Cleanup
 # title_zh: 全能美食队·收束

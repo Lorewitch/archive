@@ -1,6 +1,7 @@
 # id: quest_wq_70029
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Shadow of the Ancients
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Автономный источник механической энергии. Заключение
 # title_en: Autonomous Mechanical Energy Source: Conclusion
 # title_zh: 自律机关能源研究·结论

@@ -1,5 +1,6 @@
 # id: quest_eq_10192
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Драконы? Сказка!: Страница I
 # icon: assets/icons/stories/quests/fairytales.webp
 # title_ru: История начинается в лесу, где нет дождя
 # title_en: The Story Begins in a Forest Without Rain

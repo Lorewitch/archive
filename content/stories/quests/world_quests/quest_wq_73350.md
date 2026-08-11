@@ -1,6 +1,7 @@
 # id: quest_wq_73350
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Воспоминания одного фонтейнца
 # title_en: Recollections of a Fontainian
 # title_zh: 一个枫丹人的回忆

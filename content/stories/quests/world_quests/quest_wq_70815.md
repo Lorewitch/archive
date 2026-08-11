@@ -1,10 +1,11 @@
 # id: quest_wq_70815
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Воля камня
 # title_en: Will of Stone
 # title_zh: 重岩之意
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70815

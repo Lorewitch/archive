@@ -1,10 +1,11 @@
 # id: quest_wq_10025
 # story_group: world_quests
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Очищение Священной сакуры
 # title_en: Sacred Sakura Cleansing Ritual
 # title_zh: 神樱大祓
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 10025

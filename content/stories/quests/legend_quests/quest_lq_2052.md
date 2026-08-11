@@ -1,5 +1,6 @@
 # id: quest_lq_2052
 # story_group: legend_quests
+# display_category: Задание племени · Потомки Крон
 # icon: assets/icons/stories/quests/natlan_hookwalker.webp
 # title_ru: Таинственный гость из Уитцтлана
 # title_en: A Mysterious Visitor From Huitztlan

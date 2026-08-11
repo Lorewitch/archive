@@ -1,10 +1,11 @@
 # id: quest_wq_73099
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Статичные пейзажи II
 # title_en: Static Views, Part 2
 # title_zh: 静态风景·后篇
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73099

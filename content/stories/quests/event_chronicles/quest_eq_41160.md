@@ -1,6 +1,7 @@
 # id: quest_eq_41160
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Свежий заказ
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Свежий заказ
 # title_en: Wanmin Fresh
 # title_zh: 万民鲜食

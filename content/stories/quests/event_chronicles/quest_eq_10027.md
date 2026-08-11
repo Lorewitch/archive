@@ -1,5 +1,6 @@
 # id: quest_eq_10027
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Остров? Приключение! Часть I
 # icon: assets/icons/stories/quests/goldenappleisles.webp
 # title_ru: Таинственные острова: Путешествие в неизвестное
 # title_en: Mysterious Islands: Journey to the Unknown

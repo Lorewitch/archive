@@ -1,10 +1,11 @@
 # id: quest_wq_73800
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Всеядные гурманы: В рамках долга
 # title_en: Gourmet Supremos: Within Our Duties
 # title_zh: 全能美食队·职责之内
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73800

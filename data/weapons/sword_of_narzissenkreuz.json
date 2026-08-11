@@ -34,5 +34,6 @@
     "byVolume": {}
   },
   "weapon_type": "sword",
-  "type": "sword"
+  "type": "sword",
+  "entry_kind": "weapon"
 }

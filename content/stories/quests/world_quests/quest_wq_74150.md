@@ -1,6 +1,7 @@
 # id: quest_wq_74150
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Леруа: Расстрельный отряд
 # title_en: Leroy: Firing Squad
 # title_zh: 勒鲁瓦·行刑队

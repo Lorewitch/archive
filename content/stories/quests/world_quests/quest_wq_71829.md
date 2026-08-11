@@ -1,6 +1,7 @@
 # id: quest_wq_71829
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Блюдо за пределами человеческих познаний
 # title_en: A Dish Beyond Mortal Ken
 # title_zh: 此菜不应人间有

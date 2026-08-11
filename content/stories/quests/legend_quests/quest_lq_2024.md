@@ -1,5 +1,6 @@
 # id: quest_lq_2024
 # story_group: legend_quests
+# display_category: Задание Легенд · Кокоми
 # icon: assets/icons/stories/quests/kokomi.webp
 # title_ru: Мечты воинов подобны весенней траве
 # title_en: Warriors' Dreams Like Spring Grass Renewing

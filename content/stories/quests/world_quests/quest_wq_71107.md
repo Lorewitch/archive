@@ -1,6 +1,7 @@
 # id: quest_wq_71107
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Прогулка по Залу Ваншань, которую стоит запомнить
 # title_en: A Wangshan Walk to Remember
 # title_zh: 哐哐锵锵王山行

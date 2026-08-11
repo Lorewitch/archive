@@ -1,6 +1,7 @@
 # id: quest_wq_72278
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Festival Deeds
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: История для тебя
 # title_en: A Story for You
 # title_zh: 「送给你的故事」

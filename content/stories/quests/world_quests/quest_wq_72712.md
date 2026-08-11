@@ -1,10 +1,11 @@
 # id: quest_wq_72712
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сандэн запрашивает ресурсы
 # title_en: Sanden's Resource Request
 # title_zh: 三田的面具绘材需求
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 72712

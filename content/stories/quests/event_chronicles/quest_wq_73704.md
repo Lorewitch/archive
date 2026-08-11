@@ -1,6 +1,7 @@
 # id: quest_wq_73704
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Specially-Shaped Saurian Search
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Хроники поисков: За детской мечтой!
 # title_en: Search Chronicle: For Childhood Dreams!
 # title_zh: 参寻战记·为了儿时梦想！

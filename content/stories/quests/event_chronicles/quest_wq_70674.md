@@ -1,6 +1,7 @@
 # id: quest_wq_70674
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Божественное мастерство: Коллекционирование
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Божественное мастерство: Коллекционирование
 # title_en: Divine Ingenuity: Collector's Chapter
 # title_zh: 神工天巧·宝录之章

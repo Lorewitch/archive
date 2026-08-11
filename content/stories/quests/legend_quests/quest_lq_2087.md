@@ -1,5 +1,6 @@
 # id: quest_lq_2087
 # story_group: legend_quests
+# display_category: Задание Легенд · Варка
 # icon: assets/icons/stories/quests/varka.webp
 # title_ru: Для того, кто в экспедиции
 # title_en: To Those Who Embark on the Expedition

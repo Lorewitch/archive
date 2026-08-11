@@ -1,5 +1,6 @@
 # id: quest_eq_10219
 # story_group: event_chronicles
+# display_category: Ивент · Талисманы весны: Вторая строфа
 # icon: assets/icons/stories/quests/sealamp.webp
 # title_ru: В ритуальном бюро «Ваншэн» нет хозяйки, а терраса Юйцзин созывает войска
 # title_en: The Funeral Parlor Has No Master, Yujing Terrace Calls the Troops

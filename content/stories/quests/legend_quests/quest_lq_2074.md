@@ -1,5 +1,6 @@
 # id: quest_lq_2074
 # story_group: legend_quests
+# display_category: Задание Легенд · Эскофье
 # icon: assets/icons/stories/quests/escoffier.webp
 # title_ru: Сокровище из сокровищ
 # title_en: Treasured Above All

@@ -1,5 +1,6 @@
 # id: quest_lq_2051
 # story_group: legend_quests
+# display_category: Задание Легенд · Эмилия
 # icon: assets/icons/stories/quests/emilie.webp
 # title_ru: Цветочный долг, кровавый долг
 # title_en: Floral Debt, Blood Due

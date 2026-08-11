@@ -1,6 +1,7 @@
 # id: quest_wq_76681
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Происхождение последовательности
 # title_en: Origin of the Sequence
 # title_zh: 序列之始

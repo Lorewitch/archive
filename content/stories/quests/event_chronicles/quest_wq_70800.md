@@ -1,6 +1,7 @@
 # id: quest_wq_70800
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Invitation of Windblume
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Блюдо со вкусом ветра
 # title_en: Flavor of the Month
 # title_zh: 「风」味美食

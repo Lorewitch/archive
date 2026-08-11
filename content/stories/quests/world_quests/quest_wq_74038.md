@@ -1,10 +1,11 @@
 # id: quest_wq_74038
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Фонтейн
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Эхо древнего мира
 # title_en: Echoes of the Ancient World
 # title_zh: 旧世遗音
-# region: Тейват
+# region: Фонтейн
 # game_version: 4.0
 # release_versions: 4.0
 # source_id: 74038

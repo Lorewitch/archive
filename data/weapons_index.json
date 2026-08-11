@@ -10,6 +10,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.5",
     "tags": [
@@ -25,7 +26,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6005000,
-    "search_text": "золотая клятва льда dawn's salutation returned 与君致意的黎明 bow 5 6.5 лук линнея аркадия"
+    "search_text": "золотая клятва льда dawn's salutation returned 与君致意的黎明 bow weapon 5 6.5 лук линнея аркадия"
   },
   {
     "id": "alley_hunter",
@@ -38,6 +39,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.4",
     "tags": [
@@ -52,7 +54,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1004000,
-    "search_text": "охотник во тьме alley hunter 暗巷猎手 bow 4 1.4 оружие лук"
+    "search_text": "охотник во тьме alley hunter 暗巷猎手 bow weapon 4 1.4 оружие лук"
   },
   {
     "id": "amos_bow",
@@ -65,6 +67,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -80,7 +83,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "лук амоса amos' bow 阿莫斯之弓 bow 5 1.0 оружие лук гань юй"
+    "search_text": "лук амоса amos' bow 阿莫斯之弓 bow weapon 5 1.0 оружие лук гань юй"
   },
   {
     "id": "aqua_simulacra",
@@ -93,6 +96,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.7",
     "tags": [
@@ -108,7 +112,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2007000,
-    "search_text": "аква симулякрум aqua simulacra 若水 bow 5 2.7 оружие лук е лань"
+    "search_text": "аква симулякрум aqua simulacra 若水 bow weapon 5 2.7 оружие лук е лань"
   },
   {
     "id": "astral_vultures_crimson_plumage",
@@ -121,6 +125,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.2",
     "tags": [
@@ -136,7 +141,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5002000,
-    "search_text": "алое перо звёздного грифа astral vulture's crimson plumage 星鹫赤羽 bow 5 5.2 оружие лук часка"
+    "search_text": "алое перо звёздного грифа astral vulture's crimson plumage 星鹫赤羽 bow weapon 5 5.2 оружие лук часка"
   },
   {
     "id": "blackcliff_warbow",
@@ -149,6 +154,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -163,7 +169,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "черногорский боевой лук blackcliff warbow 黑岩战弓 bow 4 1.0 оружие лук"
+    "search_text": "черногорский боевой лук blackcliff warbow 黑岩战弓 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "chain_breaker",
@@ -176,6 +182,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.0",
     "tags": [
@@ -190,7 +197,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5000000,
-    "search_text": "разбивающий цепи chain breaker 碎链 bow 4 5.0 оружие лук"
+    "search_text": "разбивающий цепи chain breaker 碎链 bow weapon 4 5.0 оружие лук"
   },
   {
     "id": "cloudforged",
@@ -203,6 +210,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.7",
     "tags": [
@@ -218,7 +226,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4007000,
-    "search_text": "выкованный из облаков cloudforged 筑云 bow 4 4.7 оружие лук сетос"
+    "search_text": "выкованный из облаков cloudforged 筑云 bow weapon 4 4.7 оружие лук сетос"
   },
   {
     "id": "compound_bow",
@@ -231,6 +239,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -245,7 +254,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "составной лук compound bow 钢轮弓 bow 4 1.0 оружие лук"
+    "search_text": "составной лук compound bow 钢轮弓 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "elegy_for_the_end",
@@ -258,6 +267,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.4",
     "tags": [
@@ -273,7 +283,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1004000,
-    "search_text": "элегия погибели elegy for the end 终末嗟叹之诗 bow 5 1.4 оружие лук венти"
+    "search_text": "элегия погибели elegy for the end 终末嗟叹之诗 bow weapon 5 1.4 оружие лук венти"
   },
   {
     "id": "end_of_the_line",
@@ -286,6 +296,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.0",
     "tags": [
@@ -300,7 +311,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3000000,
-    "search_text": "иссушитель end of the line 竭泽 bow 4 3.0 оружие лук"
+    "search_text": "иссушитель end of the line 竭泽 bow weapon 4 3.0 оружие лук"
   },
   {
     "id": "fading_twilight",
@@ -313,6 +324,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.7",
     "tags": [
@@ -327,7 +339,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2007000,
-    "search_text": "гаснущие сумерки fading twilight 落霞 bow 4 2.7 оружие лук"
+    "search_text": "гаснущие сумерки fading twilight 落霞 bow weapon 4 2.7 оружие лук"
   },
   {
     "id": "favonius_warbow",
@@ -340,6 +352,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -354,7 +367,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "боевой лук фавония favonius warbow 西风猎弓 bow 4 1.0 оружие лук"
+    "search_text": "боевой лук фавония favonius warbow 西风猎弓 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "flower_wreathed_feathers",
@@ -367,6 +380,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.2",
     "tags": [
@@ -381,7 +395,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5002000,
-    "search_text": "украшенные цветами перья flower-wreathed feathers 缀花之翎 bow 4 5.2 оружие лук"
+    "search_text": "украшенные цветами перья flower-wreathed feathers 缀花之翎 bow weapon 4 5.2 оружие лук"
   },
   {
     "id": "hamayumi",
@@ -394,6 +408,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.0",
     "tags": [
@@ -408,7 +423,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2000000,
-    "search_text": "хамаюми hamayumi 破魔之弓 bow 4 2.0 оружие лук"
+    "search_text": "хамаюми hamayumi 破魔之弓 bow weapon 4 2.0 оружие лук"
   },
   {
     "id": "hunters_bow",
@@ -421,6 +436,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 1,
     "game_version": "1.0",
     "tags": [
@@ -435,7 +451,7 @@
     "filter_regions": [],
     "filter_type": "1",
     "sort_version": 1000000,
-    "search_text": "лук охотника hunter's bow 猎弓 bow 1 1.0 оружие лук"
+    "search_text": "лук охотника hunter's bow 猎弓 bow weapon 1 1.0 оружие лук"
   },
   {
     "id": "hunters_path",
@@ -448,6 +464,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.0",
     "tags": [
@@ -463,7 +480,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3000000,
-    "search_text": "охотничья тропа hunter's path 猎人之径 bow 5 3.0 оружие лук тигнари"
+    "search_text": "охотничья тропа hunter's path 猎人之径 bow weapon 5 3.0 оружие лук тигнари"
   },
   {
     "id": "ibis_piercer",
@@ -476,6 +493,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.7",
     "tags": [
@@ -490,7 +508,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3007000,
-    "search_text": "клюв ибиса ibis piercer 鹮穿之喙 bow 4 3.7 оружие лук"
+    "search_text": "клюв ибиса ibis piercer 鹮穿之喙 bow weapon 4 3.7 оружие лук"
   },
   {
     "id": "kings_squire",
@@ -503,6 +521,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.0",
     "tags": [
@@ -517,7 +536,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3000000,
-    "search_text": "приближённый короля king's squire 王下近侍 bow 4 3.0 оружие лук"
+    "search_text": "приближённый короля king's squire 王下近侍 bow weapon 4 3.0 оружие лук"
   },
   {
     "id": "messenger",
@@ -530,6 +549,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -544,7 +564,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "посыльный messenger 信使 bow 3 1.0 оружие лук"
+    "search_text": "посыльный messenger 信使 bow weapon 3 1.0 оружие лук"
   },
   {
     "id": "mitternachts_waltz",
@@ -557,6 +577,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.6",
     "tags": [
@@ -572,7 +593,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1006000,
-    "search_text": "вальс нирваны ночи mitternachts waltz 幽夜华尔兹 bow 4 1.6 оружие лук фишль"
+    "search_text": "вальс нирваны ночи mitternachts waltz 幽夜华尔兹 bow weapon 4 1.6 оружие лук фишль"
   },
   {
     "id": "mouuns_moon",
@@ -585,6 +606,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.2",
     "tags": [
@@ -599,7 +621,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2002000,
-    "search_text": "луна моун mouun's moon 曚云之月 bow 4 2.2 оружие лук"
+    "search_text": "луна моун mouun's moon 曚云之月 bow weapon 4 2.2 оружие лук"
   },
   {
     "id": "polar_star",
@@ -612,6 +634,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.2",
     "tags": [
@@ -627,7 +650,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2002000,
-    "search_text": "полярная звезда polar star 冬极白星 bow 5 2.2 оружие лук тарталья"
+    "search_text": "полярная звезда polar star 冬极白星 bow weapon 5 2.2 оружие лук тарталья"
   },
   {
     "id": "predator",
@@ -640,6 +663,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.1",
     "tags": [
@@ -655,7 +679,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2001000,
-    "search_text": "хищник predator 掠食者 bow 4 2.1 оружие лук элой"
+    "search_text": "хищник predator 掠食者 bow weapon 4 2.1 оружие лук элой"
   },
   {
     "id": "prototype_crescent",
@@ -668,6 +692,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -682,7 +707,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "прототип: полумесяц prototype crescent 试作澹月 bow 4 1.0 оружие лук"
+    "search_text": "прототип: полумесяц prototype crescent 试作澹月 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "rainbow_serpents_rain_bow",
@@ -695,6 +720,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.2",
     "tags": [
@@ -709,7 +735,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6002000,
-    "search_text": "струны дождя радужного змея rainbow serpent's rain bow 虹蛇的雨弦 bow 4 6.2 оружие лук"
+    "search_text": "струны дождя радужного змея rainbow serpent's rain bow 虹蛇的雨弦 bow weapon 4 6.2 оружие лук"
   },
   {
     "id": "range_gauge",
@@ -722,6 +748,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.1",
     "tags": [
@@ -736,7 +763,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4001000,
-    "search_text": "дальномер range gauge 测距规 bow 4 4.1 оружие лук"
+    "search_text": "дальномер range gauge 测距规 bow weapon 4 4.1 оружие лук"
   },
   {
     "id": "raven_bow",
@@ -749,6 +776,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -763,7 +791,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "лук ворона raven bow 鸦羽弓 bow 3 1.0 оружие лук"
+    "search_text": "лук ворона raven bow 鸦羽弓 bow weapon 3 1.0 оружие лук"
   },
   {
     "id": "recurve_bow",
@@ -776,6 +804,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -790,7 +819,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "изогнутый лук recurve bow 反曲弓 bow 3 1.0 оружие лук"
+    "search_text": "изогнутый лук recurve bow 反曲弓 bow weapon 3 1.0 оружие лук"
   },
   {
     "id": "royal_bow",
@@ -803,6 +832,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -817,7 +847,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "королевский лук royal bow 宗室长弓 bow 4 1.0 оружие лук"
+    "search_text": "королевский лук royal bow 宗室长弓 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "rust",
@@ -830,6 +860,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -844,7 +875,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "ржавый лук rust 弓藏 bow 4 1.0 оружие лук"
+    "search_text": "ржавый лук rust 弓藏 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "sacrificial_bow",
@@ -857,6 +888,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -871,7 +903,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "церемониальный лук sacrificial bow 祭礼弓 bow 4 1.0 оружие лук"
+    "search_text": "церемониальный лук sacrificial bow 祭礼弓 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "scion_of_the_blazing_sun",
@@ -884,6 +916,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -898,7 +931,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "наследник слепящего солнца scion of the blazing sun 烈阳之嗣 bow 4 4.0 оружие лук"
+    "search_text": "наследник слепящего солнца scion of the blazing sun 烈阳之嗣 bow weapon 4 4.0 оружие лук"
   },
   {
     "id": "seasoned_hunters_bow",
@@ -911,6 +944,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 2,
     "game_version": "1.0",
     "tags": [
@@ -925,7 +959,7 @@
     "filter_regions": [],
     "filter_type": "2",
     "sort_version": 1000000,
-    "search_text": "лук опытного охотника seasoned hunter's bow 历练的猎弓 bow 2 1.0 оружие лук"
+    "search_text": "лук опытного охотника seasoned hunter's bow 历练的猎弓 bow weapon 2 1.0 оружие лук"
   },
   {
     "id": "sequence_of_solitude",
@@ -938,6 +972,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.6",
     "tags": [
@@ -952,7 +987,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5006000,
-    "search_text": "каденция одиночества sequence of solitude 冷寂迸音 bow 4 5.6 оружие лук"
+    "search_text": "каденция одиночества sequence of solitude 冷寂迸音 bow weapon 4 5.6 оружие лук"
   },
   {
     "id": "sharpshooters_oath",
@@ -965,6 +1000,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -979,7 +1015,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "клятва стрелка sharpshooter's oath 神射手之誓 bow 3 1.0 оружие лук"
+    "search_text": "клятва стрелка sharpshooter's oath 神射手之誓 bow weapon 3 1.0 оружие лук"
   },
   {
     "id": "silvershower_heartstrings",
@@ -992,6 +1028,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.7",
     "tags": [
@@ -1007,7 +1044,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4007000,
-    "search_text": "сердечные струны дождя silvershower heartstrings 白雨心弦 bow 5 4.7 оружие лук сиджвин"
+    "search_text": "сердечные струны дождя silvershower heartstrings 白雨心弦 bow weapon 5 4.7 оружие лук сиджвин"
   },
   {
     "id": "skyward_harp",
@@ -1020,6 +1057,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -1034,7 +1072,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "небесное крыло skyward harp 天空之翼 bow 5 1.0 оружие лук"
+    "search_text": "небесное крыло skyward harp 天空之翼 bow weapon 5 1.0 оружие лук"
   },
   {
     "id": "slingshot",
@@ -1047,6 +1085,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -1061,7 +1100,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "рогатка slingshot 弹弓 bow 3 1.0 оружие лук"
+    "search_text": "рогатка slingshot 弹弓 bow weapon 3 1.0 оружие лук"
   },
   {
     "id": "snare_hook",
@@ -1074,6 +1113,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.0",
     "tags": [
@@ -1088,7 +1128,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6000000,
-    "search_text": "крюк силка snare hook 罗网勾针 bow 4 6.0 оружие лук"
+    "search_text": "крюк силка snare hook 罗网勾针 bow weapon 4 6.0 оружие лук"
   },
   {
     "id": "song_of_stillness",
@@ -1101,6 +1141,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -1115,7 +1156,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "мелодия покоя song of stillness 静谧之曲 bow 4 4.0 оружие лук"
+    "search_text": "мелодия покоя song of stillness 静谧之曲 bow weapon 4 4.0 оружие лук"
   },
   {
     "id": "the_daybreak_chronicles",
@@ -1128,6 +1169,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.2",
     "tags": [
@@ -1143,7 +1185,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6002000,
-    "search_text": "хроники рассвета the daybreak chronicles 黎明破晓之史 bow 5 6.2 оружие лук венти"
+    "search_text": "хроники рассвета the daybreak chronicles 黎明破晓之史 bow weapon 5 6.2 оружие лук венти"
   },
   {
     "id": "the_first_great_magic",
@@ -1156,6 +1198,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.0",
     "tags": [
@@ -1171,7 +1214,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4000000,
-    "search_text": "первый великий фокус the first great magic 最初的大魔术 bow 5 4.0 оружие лук лини"
+    "search_text": "первый великий фокус the first great magic 最初的大魔术 bow weapon 5 4.0 оружие лук лини"
   },
   {
     "id": "the_stringless",
@@ -1184,6 +1227,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -1198,7 +1242,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "бесструнный the stringless 绝弦 bow 4 1.0 оружие лук"
+    "search_text": "бесструнный the stringless 绝弦 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "the_viridescent_hunt",
@@ -1211,6 +1255,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -1225,7 +1270,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "зелёный лук the viridescent hunt 苍翠猎弓 bow 4 1.0 оружие лук"
+    "search_text": "зелёный лук the viridescent hunt 苍翠猎弓 bow weapon 4 1.0 оружие лук"
   },
   {
     "id": "thundering_pulse",
@@ -1238,6 +1283,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.0",
     "tags": [
@@ -1253,7 +1299,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2000000,
-    "search_text": "громовой пульс thundering pulse 飞雷之弦振 bow 5 2.0 оружие лук ёимия"
+    "search_text": "громовой пульс thundering pulse 飞雷之弦振 bow weapon 5 2.0 оружие лук ёимия"
   },
   {
     "id": "windblume_ode",
@@ -1266,6 +1312,7 @@
     },
     "weapon_type": "bow",
     "type": "bow",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.4",
     "tags": [
@@ -1280,7 +1327,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1004000,
-    "search_text": "ода анемонии windblume ode 风花之颂 bow 4 1.4 оружие лук"
+    "search_text": "ода анемонии windblume ode 风花之颂 bow weapon 4 1.4 оружие лук"
   },
   {
     "id": "a_thousand_floating_dreams",
@@ -1293,6 +1340,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.2",
     "tags": [
@@ -1308,7 +1356,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3002000,
-    "search_text": "сновидения тысячи ночей a thousand floating dreams 千夜浮梦 catalyst 5 3.2 оружие катализатор нахида"
+    "search_text": "сновидения тысячи ночей a thousand floating dreams 千夜浮梦 catalyst weapon 5 3.2 оружие катализатор нахида"
   },
   {
     "id": "angelos_heptades",
@@ -1321,6 +1369,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.6",
     "tags": [
@@ -1334,7 +1383,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6006000,
-    "search_text": "гептада ангела angelos' heptades 尘光七谕 catalyst 5 6.6 николь"
+    "search_text": "гептада ангела angelos' heptades 尘光七谕 catalyst weapon 5 6.6 николь"
   },
   {
     "id": "apprentices_notes",
@@ -1347,6 +1396,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 1,
     "game_version": "1.0",
     "tags": [
@@ -1361,7 +1411,7 @@
     "filter_regions": [],
     "filter_type": "1",
     "sort_version": 1000000,
-    "search_text": "записи ученика apprentice's notes 学徒笔记 catalyst 1 1.0 оружие катализатор"
+    "search_text": "записи ученика apprentice's notes 学徒笔记 catalyst weapon 1 1.0 оружие катализатор"
   },
   {
     "id": "ash_graven_drinking_horn",
@@ -1374,6 +1424,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.0",
     "tags": [
@@ -1388,7 +1439,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5000000,
-    "search_text": "пепельный рог ash-graven drinking horn 苍纹角杯 catalyst 4 5.0 оружие катализатор"
+    "search_text": "пепельный рог ash-graven drinking horn 苍纹角杯 catalyst weapon 4 5.0 оружие катализатор"
   },
   {
     "id": "ballad_of_the_boundless_blue",
@@ -1401,6 +1452,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.1",
     "tags": [
@@ -1415,7 +1467,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4001000,
-    "search_text": "песнь необъятной лазури ballad of the boundless blue 无垠蔚蓝之歌 catalyst 4 4.1 оружие катализатор"
+    "search_text": "песнь необъятной лазури ballad of the boundless blue 无垠蔚蓝之歌 catalyst weapon 4 4.1 оружие катализатор"
   },
   {
     "id": "blackcliff_agate",
@@ -1428,6 +1480,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -1442,7 +1495,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "черногорский агат blackcliff agate 黑岩绯玉 catalyst 4 1.0 оружие катализатор"
+    "search_text": "черногорский агат blackcliff agate 黑岩绯玉 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "blackmarrow_lantern",
@@ -1455,6 +1508,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.0",
     "tags": [
@@ -1469,7 +1523,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6000000,
-    "search_text": "фонарь чёрной сердцевины blackmarrow lantern 乌髓孑灯 catalyst 4 6.0 оружие катализатор"
+    "search_text": "фонарь чёрной сердцевины blackmarrow lantern 乌髓孑灯 catalyst weapon 4 6.0 оружие катализатор"
   },
   {
     "id": "cashflow_supervision",
@@ -1482,6 +1536,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.1",
     "tags": [
@@ -1497,7 +1552,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4001000,
-    "search_text": "казначейский надзор cashflow supervision 金流监督 catalyst 5 4.1 оружие катализатор ризли"
+    "search_text": "казначейский надзор cashflow supervision 金流监督 catalyst weapon 5 4.1 оружие катализатор ризли"
   },
   {
     "id": "cranes_echoing_call",
@@ -1510,6 +1565,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.4",
     "tags": [
@@ -1525,7 +1581,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4004000,
-    "search_text": "звонкий клич журавля crane's echoing call 鹤鸣余音 catalyst 5 4.4 оружие катализатор сянь юнь"
+    "search_text": "звонкий клич журавля crane's echoing call 鹤鸣余音 catalyst weapon 5 4.4 оружие катализатор сянь юнь"
   },
   {
     "id": "dawning_frost",
@@ -1538,6 +1594,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.1",
     "tags": [
@@ -1552,7 +1609,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6001000,
-    "search_text": "рассветный иней dawning frost 霜辰 catalyst 4 6.1 оружие катализатор"
+    "search_text": "рассветный иней dawning frost 霜辰 catalyst weapon 4 6.1 оружие катализатор"
   },
   {
     "id": "dodoco_tales",
@@ -1565,6 +1622,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.6",
     "tags": [
@@ -1580,7 +1638,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1006000,
-    "search_text": "истории додоко dodoco tales 嘟嘟可故事集 catalyst 4 1.6 оружие катализатор кли"
+    "search_text": "истории додоко dodoco tales 嘟嘟可故事集 catalyst weapon 4 1.6 оружие катализатор кли"
   },
   {
     "id": "emerald_orb",
@@ -1593,6 +1651,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -1607,7 +1666,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "изумрудный шар emerald orb 翡玉法球 catalyst 3 1.0 оружие катализатор"
+    "search_text": "изумрудный шар emerald orb 翡玉法球 catalyst weapon 3 1.0 оружие катализатор"
   },
   {
     "id": "etherlight_spindlelute",
@@ -1620,6 +1679,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.0",
     "tags": [
@@ -1634,7 +1694,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6000000,
-    "search_text": "лютня ткача света etherlight spindlelute 天光的纺琴 catalyst 4 6.0 оружие катализатор"
+    "search_text": "лютня ткача света etherlight spindlelute 天光的纺琴 catalyst weapon 4 6.0 оружие катализатор"
   },
   {
     "id": "everlasting_moonglow",
@@ -1647,6 +1707,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.1",
     "tags": [
@@ -1662,7 +1723,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2001000,
-    "search_text": "вечное лунное сияние everlasting moonglow 不灭月华 catalyst 5 2.1 оружие катализатор кокоми"
+    "search_text": "вечное лунное сияние everlasting moonglow 不灭月华 catalyst weapon 5 2.1 оружие катализатор кокоми"
   },
   {
     "id": "eye_of_perception",
@@ -1675,6 +1736,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -1689,7 +1751,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "око сознания eye of perception 昭心 catalyst 4 1.0 оружие катализатор"
+    "search_text": "око сознания eye of perception 昭心 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "favonius_codex",
@@ -1702,6 +1764,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -1716,7 +1779,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "кодекс фавония favonius codex 西风秘典 catalyst 4 1.0 оружие катализатор"
+    "search_text": "кодекс фавония favonius codex 西风秘典 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "flowing_purity",
@@ -1729,6 +1792,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -1743,7 +1807,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "сверкание чистых вод flowing purity 纯水流华 catalyst 4 4.0 оружие катализатор"
+    "search_text": "сверкание чистых вод flowing purity 纯水流华 catalyst weapon 4 4.0 оружие катализатор"
   },
   {
     "id": "frostbearer",
@@ -1756,6 +1820,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.2",
     "tags": [
@@ -1770,7 +1835,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1002000,
-    "search_text": "плод вечной мерзлоты frostbearer 忍冬之果 catalyst 4 1.2 оружие катализатор"
+    "search_text": "плод вечной мерзлоты frostbearer 忍冬之果 catalyst weapon 4 1.2 оружие катализатор"
   },
   {
     "id": "fruit_of_fulfillment",
@@ -1783,6 +1848,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.0",
     "tags": [
@@ -1797,7 +1863,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3000000,
-    "search_text": "плод восполнения fruit of fulfillment 盈满之实 catalyst 4 3.0 оружие катализатор"
+    "search_text": "плод восполнения fruit of fulfillment 盈满之实 catalyst weapon 4 3.0 оружие катализатор"
   },
   {
     "id": "hakushin_ring",
@@ -1810,6 +1876,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.0",
     "tags": [
@@ -1824,7 +1891,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2000000,
-    "search_text": "кольцо хакусин hakushin ring 白辰之环 catalyst 4 2.0 оружие катализатор"
+    "search_text": "кольцо хакусин hakushin ring 白辰之环 catalyst weapon 4 2.0 оружие катализатор"
   },
   {
     "id": "jadefalls_splendor",
@@ -1837,6 +1904,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.6",
     "tags": [
@@ -1852,7 +1920,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3006000,
-    "search_text": "великолепие лазурного свода jadefall's splendor 碧落之珑 catalyst 5 3.6 оружие катализатор бай чжу"
+    "search_text": "великолепие лазурного свода jadefall's splendor 碧落之珑 catalyst weapon 5 3.6 оружие катализатор бай чжу"
   },
   {
     "id": "kaguras_verity",
@@ -1865,6 +1933,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.5",
     "tags": [
@@ -1880,7 +1949,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2005000,
-    "search_text": "истина кагура kagura's verity 神乐之真意 catalyst 5 2.5 оружие катализатор яэ мико"
+    "search_text": "истина кагура kagura's verity 神乐之真意 catalyst weapon 5 2.5 оружие катализатор яэ мико"
   },
   {
     "id": "lost_prayer_to_the_sacred_winds",
@@ -1893,6 +1962,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -1908,7 +1978,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "молитва святым ветрам lost prayer to the sacred winds 四风原典 catalyst 5 1.0 оружие катализатор кли"
+    "search_text": "молитва святым ветрам lost prayer to the sacred winds 四风原典 catalyst weapon 5 1.0 оружие катализатор кли"
   },
   {
     "id": "magic_guide",
@@ -1921,6 +1991,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -1935,7 +2006,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "руководство по магии magic guide 魔导绪论 catalyst 3 1.0 оружие катализатор"
+    "search_text": "руководство по магии magic guide 魔导绪论 catalyst weapon 3 1.0 оружие катализатор"
   },
   {
     "id": "mappa_mare",
@@ -1948,6 +2019,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -1962,7 +2034,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "морской атлас mappa mare 万国诸海图谱 catalyst 4 1.0 оружие катализатор"
+    "search_text": "морской атлас mappa mare 万国诸海图谱 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "memory_of_dust",
@@ -1975,6 +2047,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.1",
     "tags": [
@@ -1990,7 +2063,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1001000,
-    "search_text": "память о пыли memory of dust 尘世之锁 catalyst 5 1.1 оружие катализатор нин гуан"
+    "search_text": "память о пыли memory of dust 尘世之锁 catalyst weapon 5 1.1 оружие катализатор нин гуан"
   },
   {
     "id": "nightweavers_looking_glass",
@@ -2003,6 +2076,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.0",
     "tags": [
@@ -2018,7 +2092,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6000000,
-    "search_text": "зеркало прядильщицы ночи nightweaver's looking glass 纺夜天镜 catalyst 5 6.0 оружие катализатор лаума"
+    "search_text": "зеркало прядильщицы ночи nightweaver's looking glass 纺夜天镜 catalyst weapon 5 6.0 оружие катализатор лаума"
   },
   {
     "id": "nocturnes_curtain_call",
@@ -2031,6 +2105,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.3",
     "tags": [
@@ -2046,7 +2121,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6003000,
-    "search_text": "вызов ноктюрна nocturne's curtain call 帷间夜曲 catalyst 5 6.3 оружие катализатор колумбина"
+    "search_text": "вызов ноктюрна nocturne's curtain call 帷间夜曲 catalyst weapon 5 6.3 оружие катализатор колумбина"
   },
   {
     "id": "oathsworn_eye",
@@ -2059,6 +2134,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.5",
     "tags": [
@@ -2073,7 +2149,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2005000,
-    "search_text": "око клятвы oathsworn eye 证誓之明瞳 catalyst 4 2.5 оружие катализатор"
+    "search_text": "око клятвы oathsworn eye 证誓之明瞳 catalyst weapon 4 2.5 оружие катализатор"
   },
   {
     "id": "otherworldly_story",
@@ -2086,6 +2162,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -2100,7 +2177,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "потусторонняя история otherworldly story 异世界行记 catalyst 3 1.0 оружие катализатор"
+    "search_text": "потусторонняя история otherworldly story 异世界行记 catalyst weapon 3 1.0 оружие катализатор"
   },
   {
     "id": "pocket_grimoire",
@@ -2113,6 +2190,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 2,
     "game_version": "1.0",
     "tags": [
@@ -2127,7 +2205,7 @@
     "filter_regions": [],
     "filter_type": "2",
     "sort_version": 1000000,
-    "search_text": "карманный гримуар pocket grimoire 口袋魔导书 catalyst 2 1.0 оружие катализатор"
+    "search_text": "карманный гримуар pocket grimoire 口袋魔导书 catalyst weapon 2 1.0 оружие катализатор"
   },
   {
     "id": "prototype_amber",
@@ -2140,6 +2218,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -2154,7 +2233,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "прототип: янтарь prototype amber 试作金珀 catalyst 4 1.0 оружие катализатор"
+    "search_text": "прототип: янтарь prototype amber 试作金珀 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "reliquary_of_truth",
@@ -2167,6 +2246,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.1",
     "tags": [
@@ -2182,7 +2262,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6001000,
-    "search_text": "шкатулка истин reliquary of truth 真语秘匣 catalyst 5 6.1 оружие катализатор нефер"
+    "search_text": "шкатулка истин reliquary of truth 真语秘匣 catalyst weapon 5 6.1 оружие катализатор нефер"
   },
   {
     "id": "ring_of_yaxche",
@@ -2195,6 +2275,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.0",
     "tags": [
@@ -2209,7 +2290,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5000000,
-    "search_text": "кольцо яшче ring of yaxche 木棉之环 catalyst 4 5.0 оружие катализатор"
+    "search_text": "кольцо яшче ring of yaxche 木棉之环 catalyst weapon 4 5.0 оружие катализатор"
   },
   {
     "id": "royal_grimoire",
@@ -2222,6 +2303,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -2236,7 +2318,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "королевский гримуар royal grimoire 宗室秘法录 catalyst 4 1.0 оружие катализатор"
+    "search_text": "королевский гримуар royal grimoire 宗室秘法录 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "sacrificial_fragments",
@@ -2249,6 +2331,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -2263,7 +2346,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "церемониальные мемуары sacrificial fragments 祭礼残章 catalyst 4 1.0 оружие катализатор"
+    "search_text": "церемониальные мемуары sacrificial fragments 祭礼残章 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "sacrificial_jade",
@@ -2276,6 +2359,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -2290,7 +2374,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "жертвенный нефрит sacrificial jade 遗祀玉珑 catalyst 4 4.0 оружие катализатор"
+    "search_text": "жертвенный нефрит sacrificial jade 遗祀玉珑 catalyst weapon 4 4.0 оружие катализатор"
   },
   {
     "id": "skyward_atlas",
@@ -2303,6 +2387,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -2317,7 +2402,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "небесный атлас skyward atlas 天空之卷 catalyst 5 1.0 оружие катализатор"
+    "search_text": "небесный атлас skyward atlas 天空之卷 catalyst weapon 5 1.0 оружие катализатор"
   },
   {
     "id": "solar_pearl",
@@ -2330,6 +2415,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -2344,7 +2430,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "солнечная жемчужина solar pearl 匣里日月 catalyst 4 1.0 оружие катализатор"
+    "search_text": "солнечная жемчужина solar pearl 匣里日月 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "starcallers_watch",
@@ -2357,6 +2443,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.3",
     "tags": [
@@ -2372,7 +2459,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5003000,
-    "search_text": "бдение взывающего к звёздам starcaller's watch 祭星者之望 catalyst 5 5.3 оружие катализатор ситлали"
+    "search_text": "бдение взывающего к звёздам starcaller's watch 祭星者之望 catalyst weapon 5 5.3 оружие катализатор ситлали"
   },
   {
     "id": "sunny_morning_sleep_in",
@@ -2385,6 +2472,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.4",
     "tags": [
@@ -2400,7 +2488,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5004000,
-    "search_text": "сон солнечным утром sunny morning sleep-in 寝正月初晴 catalyst 5 5.4 оружие катализатор мидзуки"
+    "search_text": "сон солнечным утром sunny morning sleep-in 寝正月初晴 catalyst weapon 5 5.4 оружие катализатор мидзуки"
   },
   {
     "id": "surfs_up",
@@ -2413,6 +2501,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.0",
     "tags": [
@@ -2428,7 +2517,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5000000,
-    "search_text": "лови волну surf's up 冲浪时光 catalyst 5 5.0 оружие катализатор муалани"
+    "search_text": "лови волну surf's up 冲浪时光 catalyst weapon 5 5.0 оружие катализатор муалани"
   },
   {
     "id": "the_widsith",
@@ -2441,6 +2530,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -2455,7 +2545,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "песнь странника the widsith 流浪乐章 catalyst 4 1.0 оружие катализатор"
+    "search_text": "песнь странника the widsith 流浪乐章 catalyst weapon 4 1.0 оружие катализатор"
   },
   {
     "id": "thrilling_tales_of_dragon_slayers",
@@ -2468,6 +2558,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -2482,7 +2573,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "эпос о драконоборцах thrilling tales of dragon slayers 讨龙英杰谭 catalyst 3 1.0 оружие катализатор"
+    "search_text": "эпос о драконоборцах thrilling tales of dragon slayers 讨龙英杰谭 catalyst weapon 3 1.0 оружие катализатор"
   },
   {
     "id": "tome_of_the_eternal_flow",
@@ -2495,6 +2586,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.1",
     "tags": [
@@ -2510,7 +2602,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4001000,
-    "search_text": "обряд вечного течения tome of the eternal flow 万世流涌大典 catalyst 5 4.1 оружие катализатор нёвиллет"
+    "search_text": "обряд вечного течения tome of the eternal flow 万世流涌大典 catalyst weapon 5 4.1 оружие катализатор нёвиллет"
   },
   {
     "id": "tulaytullahs_remembrance",
@@ -2523,6 +2615,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.3",
     "tags": [
@@ -2538,7 +2631,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3003000,
-    "search_text": "воспоминания тулайтуллы tulaytullah's remembrance 图莱杜拉的回忆 catalyst 5 3.3 оружие катализатор странник"
+    "search_text": "воспоминания тулайтуллы tulaytullah's remembrance 图莱杜拉的回忆 catalyst weapon 5 3.3 оружие катализатор странник"
   },
   {
     "id": "twin_nephrite",
@@ -2551,6 +2644,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -2565,7 +2659,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "парный нефрит twin nephrite 甲级宝珏 catalyst 3 1.0 оружие катализатор"
+    "search_text": "парный нефрит twin nephrite 甲级宝珏 catalyst weapon 3 1.0 оружие катализатор"
   },
   {
     "id": "vivid_notions",
@@ -2578,6 +2672,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.5",
     "tags": [
@@ -2593,7 +2688,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5005000,
-    "search_text": "переливающиеся чаяния vivid notions 溢彩心念 catalyst 5 5.5 оружие катализатор вареса"
+    "search_text": "переливающиеся чаяния vivid notions 溢彩心念 catalyst weapon 5 5.5 оружие катализатор вареса"
   },
   {
     "id": "wandering_evenstar",
@@ -2606,6 +2701,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.1",
     "tags": [
@@ -2620,7 +2716,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3001000,
-    "search_text": "скитающаяся звезда wandering evenstar 流浪的晚星 catalyst 4 3.1 оружие катализатор"
+    "search_text": "скитающаяся звезда wandering evenstar 流浪的晚星 catalyst weapon 4 3.1 оружие катализатор"
   },
   {
     "id": "waveriding_whirl",
@@ -2633,6 +2729,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.2",
     "tags": [
@@ -2647,7 +2744,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5002000,
-    "search_text": "вихрь на волнах waveriding whirl 乘浪的回旋 catalyst 4 5.2 оружие катализатор"
+    "search_text": "вихрь на волнах waveriding whirl 乘浪的回旋 catalyst weapon 4 5.2 оружие катализатор"
   },
   {
     "id": "wine_and_song",
@@ -2660,6 +2757,7 @@
     },
     "weapon_type": "catalyst",
     "type": "catalyst",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.4",
     "tags": [
@@ -2674,7 +2772,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1004000,
-    "search_text": "вино и песни wine and song 暗巷的酒与诗 catalyst 4 1.4 оружие катализатор"
+    "search_text": "вино и песни wine and song 暗巷的酒与诗 catalyst weapon 4 1.4 оружие катализатор"
   },
   {
     "id": "a_teaspoon_of_transcendence",
@@ -2687,6 +2785,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.7",
     "tags": [
@@ -2700,7 +2799,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6007000,
-    "search_text": "чайная ложка трансцендентности a teaspoon of transcendence 超越之匙 claymore 5 6.7 оружие"
+    "search_text": "чайная ложка трансцендентности a teaspoon of transcendence 超越之匙 claymore weapon 5 6.7 оружие"
   },
   {
     "id": "a_thousand_blazing_suns",
@@ -2713,6 +2812,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.3",
     "tags": [
@@ -2728,7 +2828,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5003000,
-    "search_text": "тысяча ослепительных солнц a thousand blazing suns 焚曜千阳 claymore 5 5.3 оружие двуручное мавуика"
+    "search_text": "тысяча ослепительных солнц a thousand blazing suns 焚曜千阳 claymore weapon 5 5.3 оружие двуручное мавуика"
   },
   {
     "id": "akuoumaru",
@@ -2741,6 +2841,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.2",
     "tags": [
@@ -2755,7 +2856,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2002000,
-    "search_text": "акуомару akuoumaru 恶王丸 claymore 4 2.2 оружие двуручное"
+    "search_text": "акуомару akuoumaru 恶王丸 claymore weapon 4 2.2 оружие двуручное"
   },
   {
     "id": "beacon_of_the_reed_sea",
@@ -2768,6 +2869,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.5",
     "tags": [
@@ -2783,7 +2885,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3005000,
-    "search_text": "маяк тростникового моря beacon of the reed sea 苇海信标 claymore 5 3.5 оружие двуручное дэхья"
+    "search_text": "маяк тростникового моря beacon of the reed sea 苇海信标 claymore weapon 5 3.5 оружие двуручное дэхья"
   },
   {
     "id": "blackcliff_slasher",
@@ -2796,6 +2898,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -2810,7 +2913,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "черногорская бритва blackcliff slasher 黑岩斩刀 claymore 4 1.0 оружие двуручное"
+    "search_text": "черногорская бритва blackcliff slasher 黑岩斩刀 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "bloodtainted_greatsword",
@@ -2823,6 +2926,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -2837,7 +2941,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "меч драконьей крови bloodtainted greatsword 沐浴龙血的剑 claymore 3 1.0 оружие двуручное"
+    "search_text": "меч драконьей крови bloodtainted greatsword 沐浴龙血的剑 claymore weapon 3 1.0 оружие двуручное"
   },
   {
     "id": "debate_club",
@@ -2850,6 +2954,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -2864,7 +2969,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "дубина переговоров debate club 以理服人 claymore 3 1.0 оружие двуручное"
+    "search_text": "дубина переговоров debate club 以理服人 claymore weapon 3 1.0 оружие двуручное"
   },
   {
     "id": "earth_shaker",
@@ -2877,6 +2982,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.0",
     "tags": [
@@ -2891,7 +2997,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5000000,
-    "search_text": "сотрясающий землю earth shaker 撼地者 claymore 4 5.0 оружие двуручное"
+    "search_text": "сотрясающий землю earth shaker 撼地者 claymore weapon 4 5.0 оружие двуручное"
   },
   {
     "id": "fang_of_the_mountain_king",
@@ -2904,6 +3010,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.0",
     "tags": [
@@ -2919,7 +3026,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5000000,
-    "search_text": "клык горного короля fang of the mountain king 山王长牙 claymore 5 5.0 оружие двуручное кинич"
+    "search_text": "клык горного короля fang of the mountain king 山王长牙 claymore weapon 5 5.0 оружие двуручное кинич"
   },
   {
     "id": "favonius_greatsword",
@@ -2932,6 +3039,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -2946,7 +3054,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "двуручный меч фавония favonius greatsword 西风大剑 claymore 4 1.0 оружие двуручное"
+    "search_text": "двуручный меч фавония favonius greatsword 西风大剑 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "ferrous_shadow",
@@ -2959,6 +3067,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -2973,7 +3082,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "металлическая тень ferrous shadow 铁影阔剑 claymore 3 1.0 оружие двуручное"
+    "search_text": "металлическая тень ferrous shadow 铁影阔剑 claymore weapon 3 1.0 оружие двуручное"
   },
   {
     "id": "flame_forged_insight",
@@ -2986,6 +3095,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.8",
     "tags": [
@@ -3000,7 +3110,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5008000,
-    "search_text": "выкованное пламенем озарение flame-forged insight 拾慧铸熔 claymore 4 5.8 оружие двуручное"
+    "search_text": "выкованное пламенем озарение flame-forged insight 拾慧铸熔 claymore weapon 4 5.8 оружие двуручное"
   },
   {
     "id": "forest_regalia",
@@ -3013,6 +3123,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.0",
     "tags": [
@@ -3027,7 +3138,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3000000,
-    "search_text": "регалия леса forest regalia 森林王器 claymore 4 3.0 оружие двуручное"
+    "search_text": "регалия леса forest regalia 森林王器 claymore weapon 4 3.0 оружие двуручное"
   },
   {
     "id": "fruitful_hook",
@@ -3040,6 +3151,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.1",
     "tags": [
@@ -3054,7 +3166,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5001000,
-    "search_text": "плодотворный крюк fruitful hook 硕果钩 claymore 4 5.1 оружие двуручное"
+    "search_text": "плодотворный крюк fruitful hook 硕果钩 claymore weapon 4 5.1 оружие двуручное"
   },
   {
     "id": "gest_of_the_mighty_wolf",
@@ -3067,6 +3179,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.4",
     "tags": [
@@ -3082,7 +3195,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6004000,
-    "search_text": "подвиг могучего волка gest of the mighty wolf 狼的武功歌 claymore 5 6.4 оружие двуручное варка"
+    "search_text": "подвиг могучего волка gest of the mighty wolf 狼的武功歌 claymore weapon 5 6.4 оружие двуручное варка"
   },
   {
     "id": "katsuragikiri_nagamasa",
@@ -3095,6 +3208,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.0",
     "tags": [
@@ -3109,7 +3223,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2000000,
-    "search_text": "кацурагикири нагамаса katsuragikiri nagamasa 桂木斩长正 claymore 4 2.0 оружие двуручное"
+    "search_text": "кацурагикири нагамаса katsuragikiri nagamasa 桂木斩长正 claymore weapon 4 2.0 оружие двуручное"
   },
   {
     "id": "lithic_blade",
@@ -3122,6 +3236,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.3",
     "tags": [
@@ -3136,7 +3251,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1003000,
-    "search_text": "каменный меч lithic blade 千岩古剑 claymore 4 1.3 оружие двуручное"
+    "search_text": "каменный меч lithic blade 千岩古剑 claymore weapon 4 1.3 оружие двуручное"
   },
   {
     "id": "luxurious_sea_lord",
@@ -3149,6 +3264,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.1",
     "tags": [
@@ -3163,7 +3279,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2001000,
-    "search_text": "благодатный владыка вод luxurious sea-lord 衔珠海皇 claymore 4 2.1 оружие двуручное"
+    "search_text": "благодатный владыка вод luxurious sea-lord 衔珠海皇 claymore weapon 4 2.1 оружие двуручное"
   },
   {
     "id": "mailed_flower",
@@ -3176,6 +3292,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.5",
     "tags": [
@@ -3190,7 +3307,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3005000,
-    "search_text": "цветок в латах mailed flower 饰铁之花 claymore 4 3.5 оружие двуручное"
+    "search_text": "цветок в латах mailed flower 饰铁之花 claymore weapon 4 3.5 оружие двуручное"
   },
   {
     "id": "makhaira_aquamarine",
@@ -3203,6 +3320,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.1",
     "tags": [
@@ -3217,7 +3335,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3001000,
-    "search_text": "аквамарин махайры makhaira aquamarine 玛海菈的水色 claymore 4 3.1 оружие двуручное"
+    "search_text": "аквамарин махайры makhaira aquamarine 玛海菈的水色 claymore weapon 4 3.1 оружие двуручное"
   },
   {
     "id": "master_key",
@@ -3230,6 +3348,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.0",
     "tags": [
@@ -3244,7 +3363,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6000000,
-    "search_text": "мастер-ключ master key 万能钥匙 claymore 4 6.0 оружие двуручное"
+    "search_text": "мастер-ключ master key 万能钥匙 claymore weapon 4 6.0 оружие двуручное"
   },
   {
     "id": "old_mercs_pal",
@@ -3257,6 +3376,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 2,
     "game_version": "1.0",
     "tags": [
@@ -3271,7 +3391,7 @@
     "filter_regions": [],
     "filter_type": "2",
     "sort_version": 1000000,
-    "search_text": "лучший друг наёмника old merc's pal 佣兵重剑 claymore 2 1.0 оружие двуручное"
+    "search_text": "лучший друг наёмника old merc's pal 佣兵重剑 claymore weapon 2 1.0 оружие двуручное"
   },
   {
     "id": "portable_power_saw",
@@ -3284,6 +3404,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.1",
     "tags": [
@@ -3298,7 +3419,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4001000,
-    "search_text": "переносная мотопила portable power saw 便携动力锯 claymore 4 4.1 оружие двуручное"
+    "search_text": "переносная мотопила portable power saw 便携动力锯 claymore weapon 4 4.1 оружие двуручное"
   },
   {
     "id": "prototype_archaic",
@@ -3311,6 +3432,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3325,7 +3447,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "прототип: архаичный prototype archaic 试作古华 claymore 4 1.0 оружие двуручное"
+    "search_text": "прототип: архаичный prototype archaic 试作古华 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "rainslasher",
@@ -3338,6 +3460,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3352,7 +3475,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "дождерез rainslasher 雨裁 claymore 4 1.0 оружие двуручное"
+    "search_text": "дождерез rainslasher 雨裁 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "redhorn_stonethresher",
@@ -3365,6 +3488,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.3",
     "tags": [
@@ -3380,7 +3504,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2003000,
-    "search_text": "краснорогий камнеруб redhorn stonethresher 赤角石溃杵 claymore 5 2.3 оружие двуручное аратаки итто"
+    "search_text": "краснорогий камнеруб redhorn stonethresher 赤角石溃杵 claymore weapon 5 2.3 оружие двуручное аратаки итто"
   },
   {
     "id": "royal_greatsword",
@@ -3393,6 +3517,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3407,7 +3532,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "королевский двуручный меч royal greatsword 宗室大剑 claymore 4 1.0 оружие двуручное"
+    "search_text": "королевский двуручный меч royal greatsword 宗室大剑 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "sacrificial_greatsword",
@@ -3420,6 +3545,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3434,7 +3560,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "церемониальный двуручный меч sacrificial greatsword 祭礼大剑 claymore 4 1.0 оружие двуручное"
+    "search_text": "церемониальный двуручный меч sacrificial greatsword 祭礼大剑 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "serpent_spine",
@@ -3447,6 +3573,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3461,7 +3588,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "меч драконьей кости serpent spine 螭骨剑 claymore 4 1.0 оружие двуручное"
+    "search_text": "меч драконьей кости serpent spine 螭骨剑 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "skyrider_greatsword",
@@ -3474,6 +3601,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -3488,7 +3616,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "большой меч небесного всадника skyrider greatsword 飞天大御剑 claymore 3 1.0 оружие двуручное"
+    "search_text": "большой меч небесного всадника skyrider greatsword 飞天大御剑 claymore weapon 3 1.0 оружие двуручное"
   },
   {
     "id": "skyward_pride",
@@ -3501,6 +3629,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -3515,7 +3644,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "небесное величие skyward pride 天空之傲 claymore 5 1.0 оружие двуручное"
+    "search_text": "небесное величие skyward pride 天空之傲 claymore weapon 5 1.0 оружие двуручное"
   },
   {
     "id": "snow_tombed_starsilver",
@@ -3528,6 +3657,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.2",
     "tags": [
@@ -3542,7 +3672,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1002000,
-    "search_text": "заснеженное звёздное серебро snow-tombed starsilver 雪葬的星银 claymore 4 1.2 оружие двуручное"
+    "search_text": "заснеженное звёздное серебро snow-tombed starsilver 雪葬的星银 claymore weapon 4 1.2 оружие двуручное"
   },
   {
     "id": "song_of_broken_pines",
@@ -3555,6 +3685,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.5",
     "tags": [
@@ -3570,7 +3701,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1005000,
-    "search_text": "песнь разбитых сосен song of broken pines 松籁响起之时 claymore 5 1.5 оружие двуручное эола"
+    "search_text": "песнь разбитых сосен song of broken pines 松籁响起之时 claymore weapon 5 1.5 оружие двуручное эола"
   },
   {
     "id": "talking_stick",
@@ -3583,6 +3714,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -3597,7 +3729,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "говорящая палица talking stick 聊聊棒 claymore 4 4.0 оружие двуручное"
+    "search_text": "говорящая палица talking stick 聊聊棒 claymore weapon 4 4.0 оружие двуручное"
   },
   {
     "id": "the_bell",
@@ -3610,6 +3742,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3624,7 +3757,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "меч-колокол the bell 钟剑 claymore 4 1.0 оружие двуручное"
+    "search_text": "меч-колокол the bell 钟剑 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "the_unforged",
@@ -3637,6 +3770,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.1",
     "tags": [
@@ -3651,7 +3785,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1001000,
-    "search_text": "некованый the unforged 无工之剑 claymore 5 1.1 оружие двуручное"
+    "search_text": "некованый the unforged 无工之剑 claymore weapon 5 1.1 оружие двуручное"
   },
   {
     "id": "tidal_shadow",
@@ -3664,6 +3798,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -3678,7 +3813,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "тень волны tidal shadow 浪影阔剑 claymore 4 4.0 оружие двуручное"
+    "search_text": "тень волны tidal shadow 浪影阔剑 claymore weapon 4 4.0 оружие двуручное"
   },
   {
     "id": "ultimate_overlords_mega_magic_sword",
@@ -3691,6 +3826,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.3",
     "tags": [
@@ -3705,7 +3841,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4003000,
-    "search_text": "«магический супермеч высшего владыки» ultimate overlord's mega magic sword 究极霸王超级魔剑 claymore 4 4.3 оружие двуручное"
+    "search_text": "«магический супермеч высшего владыки» ultimate overlord's mega magic sword 究极霸王超级魔剑 claymore weapon 4 4.3 оружие двуручное"
   },
   {
     "id": "verdict",
@@ -3718,6 +3854,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.3",
     "tags": [
@@ -3733,7 +3870,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4003000,
-    "search_text": "вердикт verdict 裁断 claymore 5 4.3 оружие двуручное навия"
+    "search_text": "вердикт verdict 裁断 claymore weapon 5 4.3 оружие двуручное навия"
   },
   {
     "id": "waster_greatsword",
@@ -3746,6 +3883,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 1,
     "game_version": "1.0",
     "tags": [
@@ -3760,7 +3898,7 @@
     "filter_regions": [],
     "filter_type": "1",
     "sort_version": 1000000,
-    "search_text": "двуручный меч богатыря waster greatsword 训练大剑 claymore 1 1.0 оружие двуручное"
+    "search_text": "двуручный меч богатыря waster greatsword 训练大剑 claymore weapon 1 1.0 оружие двуручное"
   },
   {
     "id": "white_iron_greatsword",
@@ -3773,6 +3911,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -3787,7 +3926,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "меч из белого железа white iron greatsword 白铁大剑 claymore 3 1.0 оружие двуручное"
+    "search_text": "меч из белого железа white iron greatsword 白铁大剑 claymore weapon 3 1.0 оружие двуручное"
   },
   {
     "id": "whiteblind",
@@ -3800,6 +3939,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3814,7 +3954,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "белая тень whiteblind 白影剑 claymore 4 1.0 оружие двуручное"
+    "search_text": "белая тень whiteblind 白影剑 claymore weapon 4 1.0 оружие двуручное"
   },
   {
     "id": "wolfs_gravestone",
@@ -3827,6 +3967,7 @@
     },
     "weapon_type": "claymore",
     "type": "claymore",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -3842,7 +3983,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "волчья погибель wolf's gravestone 狼的末路 claymore 5 1.0 оружие двуручное дилюк"
+    "search_text": "волчья погибель wolf's gravestone 狼的末路 claymore weapon 5 1.0 оружие двуручное дилюк"
   },
   {
     "id": "ballad_of_the_fjords",
@@ -3855,6 +3996,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -3869,7 +4011,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "баллада фьордов ballad of the fjords 峡湾长歌 polearm 4 4.0 оружие древковое"
+    "search_text": "баллада фьордов ballad of the fjords 峡湾长歌 polearm weapon 4 4.0 оружие древковое"
   },
   {
     "id": "beginners_protector",
@@ -3882,6 +4024,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 1,
     "game_version": "1.0",
     "tags": [
@@ -3896,7 +4039,7 @@
     "filter_regions": [],
     "filter_type": "1",
     "sort_version": 1000000,
-    "search_text": "копьё новичка beginner's protector 新手长枪 polearm 1 1.0 оружие древковое"
+    "search_text": "копьё новичка beginner's protector 新手长枪 polearm weapon 1 1.0 оружие древковое"
   },
   {
     "id": "black_tassel",
@@ -3909,6 +4052,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -3923,7 +4067,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "чёрная кисть black tassel 黑缨枪 polearm 3 1.0 оружие древковое"
+    "search_text": "чёрная кисть black tassel 黑缨枪 polearm weapon 3 1.0 оружие древковое"
   },
   {
     "id": "blackcliff_pole",
@@ -3936,6 +4080,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -3950,7 +4095,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "черногорская пика blackcliff pole 黑岩刺枪 polearm 4 1.0 оружие древковое"
+    "search_text": "черногорская пика blackcliff pole 黑岩刺枪 polearm weapon 4 1.0 оружие древковое"
   },
   {
     "id": "bloodsoaked_ruins",
@@ -3963,6 +4108,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.0",
     "tags": [
@@ -3980,7 +4126,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6000000,
-    "search_text": "окровавленные руины bloodsoaked ruins 血染荒城 polearm 5 6.0 оружие древковое флинс кирилл кирилл чудомирович"
+    "search_text": "окровавленные руины bloodsoaked ruins 血染荒城 polearm weapon 5 6.0 оружие древковое флинс кирилл кирилл чудомирович"
   },
   {
     "id": "calamity_queller",
@@ -3993,6 +4139,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.4",
     "tags": [
@@ -4008,7 +4155,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2004000,
-    "search_text": "усмиритель бед calamity queller 息灾 polearm 5 2.4 оружие древковое шэнь хэ"
+    "search_text": "усмиритель бед calamity queller 息灾 polearm weapon 5 2.4 оружие древковое шэнь хэ"
   },
   {
     "id": "crescent_pike",
@@ -4021,6 +4168,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -4035,7 +4183,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "пика полумесяца crescent pike 流月针 polearm 4 1.0 оружие древковое"
+    "search_text": "пика полумесяца crescent pike 流月针 polearm weapon 4 1.0 оружие древковое"
   },
   {
     "id": "crimson_moons_semblance",
@@ -4048,6 +4196,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.6",
     "tags": [
@@ -4063,7 +4212,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4006000,
-    "search_text": "очертания алой луны crimson moon’s semblance 赤月之形 polearm 5 4.6 оружие древковое арлекино"
+    "search_text": "очертания алой луны crimson moon’s semblance 赤月之形 polearm weapon 5 4.6 оружие древковое арлекино"
   },
   {
     "id": "deathmatch",
@@ -4076,6 +4225,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -4090,7 +4240,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "смертельный бой deathmatch 决斗之枪 polearm 4 1.0 оружие древковое"
+    "search_text": "смертельный бой deathmatch 决斗之枪 polearm weapon 4 1.0 оружие древковое"
   },
   {
     "id": "dialogues_of_the_desert_sages",
@@ -4103,6 +4253,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.5",
     "tags": [
@@ -4117,7 +4268,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4005000,
-    "search_text": "диалог пустынных мудрецов dialogues of the desert sages 沙中伟贤的对答 polearm 4 4.5 оружие древковое"
+    "search_text": "диалог пустынных мудрецов dialogues of the desert sages 沙中伟贤的对答 polearm weapon 4 4.5 оружие древковое"
   },
   {
     "id": "disaster_and_remorse",
@@ -4130,6 +4281,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.6",
     "tags": [
@@ -4144,7 +4296,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6006000,
-    "search_text": "бедствие и раскаяние disaster and remorse 灾悔 polearm 5 6.6 лоэн имунлаукр"
+    "search_text": "бедствие и раскаяние disaster and remorse 灾悔 polearm weapon 5 6.6 лоэн имунлаукр"
   },
   {
     "id": "dragons_bane",
@@ -4157,6 +4309,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -4171,7 +4324,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "гроза драконов dragon's bane 匣里灭辰 polearm 4 1.0 оружие древковое"
+    "search_text": "гроза драконов dragon's bane 匣里灭辰 polearm weapon 4 1.0 оружие древковое"
   },
   {
     "id": "dragonspine_spear",
@@ -4184,6 +4337,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.2",
     "tags": [
@@ -4198,7 +4352,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1002000,
-    "search_text": "копьё драконьего хребта dragonspine spear 龙脊长枪 polearm 4 1.2 оружие древковое"
+    "search_text": "копьё драконьего хребта dragonspine spear 龙脊长枪 polearm weapon 4 1.2 оружие древковое"
   },
   {
     "id": "engulfing_lightning",
@@ -4211,6 +4365,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.1",
     "tags": [
@@ -4226,7 +4381,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2001000,
-    "search_text": "сияющая жатва engulfing lightning 薙草之稻光 polearm 5 2.1 оружие древковое райдэн сёгун"
+    "search_text": "сияющая жатва engulfing lightning 薙草之稻光 polearm weapon 5 2.1 оружие древковое райдэн сёгун"
   },
   {
     "id": "favonius_lance",
@@ -4239,6 +4394,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -4253,7 +4409,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "копьё фавония favonius lance 西风长枪 polearm 4 1.0 оружие древковое"
+    "search_text": "копьё фавония favonius lance 西风长枪 polearm weapon 4 1.0 оружие древковое"
   },
   {
     "id": "footprint_of_the_rainbow",
@@ -4266,6 +4422,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.0",
     "tags": [
@@ -4280,7 +4437,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5000000,
-    "search_text": "след радуги footprint of the rainbow 虹的行迹 polearm 4 5.0 оружие древковое"
+    "search_text": "след радуги footprint of the rainbow 虹的行迹 polearm weapon 4 5.0 оружие древковое"
   },
   {
     "id": "fractured_halo",
@@ -4293,6 +4450,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.8",
     "tags": [
@@ -4308,7 +4466,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5008000,
-    "search_text": "расколотый ореол fractured halo 支离轮光 polearm 5 5.8 оружие древковое инеффа"
+    "search_text": "расколотый ореол fractured halo 支离轮光 polearm weapon 5 5.8 оружие древковое инеффа"
   },
   {
     "id": "halberd",
@@ -4321,6 +4479,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -4335,7 +4494,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "алебарда миллелита halberd 钺矛 polearm 3 1.0 оружие древковое"
+    "search_text": "алебарда миллелита halberd 钺矛 polearm weapon 3 1.0 оружие древковое"
   },
   {
     "id": "iron_point",
@@ -4348,6 +4507,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 2,
     "game_version": "1.0",
     "tags": [
@@ -4362,7 +4522,7 @@
     "filter_regions": [],
     "filter_type": "2",
     "sort_version": 1000000,
-    "search_text": "железный наконечник iron point 铁尖枪 polearm 2 1.0 оружие древковое"
+    "search_text": "железный наконечник iron point 铁尖枪 polearm weapon 2 1.0 оружие древковое"
   },
   {
     "id": "kitain_cross_spear",
@@ -4375,6 +4535,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.0",
     "tags": [
@@ -4389,7 +4550,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2000000,
-    "search_text": "крест-копьё китаин kitain cross spear polearm 4 2.0 оружие древковое"
+    "search_text": "крест-копьё китаин kitain cross spear polearm weapon 4 2.0 оружие древковое"
   },
   {
     "id": "lithic_spear",
@@ -4402,6 +4563,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.3",
     "tags": [
@@ -4416,7 +4578,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1003000,
-    "search_text": "каменное копьё lithic spear 千岩长枪 polearm 4 1.3 оружие древковое"
+    "search_text": "каменное копьё lithic spear 千岩长枪 polearm weapon 4 1.3 оружие древковое"
   },
   {
     "id": "lumidouce_elegy",
@@ -4429,6 +4591,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.8",
     "tags": [
@@ -4444,7 +4607,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4008000,
-    "search_text": "элегия люмидус lumidouce elegy 柔灯挽歌 polearm 5 4.8 оружие древковое эмилия"
+    "search_text": "элегия люмидус lumidouce elegy 柔灯挽歌 polearm weapon 5 4.8 оружие древковое эмилия"
   },
   {
     "id": "missive_windspear",
@@ -4457,6 +4620,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.1",
     "tags": [
@@ -4471,7 +4635,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3001000,
-    "search_text": "копьё послания ветров missive windspear 风信之锋 polearm 4 3.1 оружие древковое"
+    "search_text": "копьё послания ветров missive windspear 风信之锋 polearm weapon 4 3.1 оружие древковое"
   },
   {
     "id": "moonpiercer",
@@ -4484,6 +4648,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.0",
     "tags": [
@@ -4498,7 +4663,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3000000,
-    "search_text": "пронзающий луну moonpiercer 贯月矢 polearm 4 3.0 оружие древковое"
+    "search_text": "пронзающий луну moonpiercer 贯月矢 polearm weapon 4 3.0 оружие древковое"
   },
   {
     "id": "mountain_bracing_bolt",
@@ -4511,6 +4676,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.1",
     "tags": [
@@ -4525,7 +4691,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5001000,
-    "search_text": "крепящий горы шип mountain-bracing bolt 镇山之钉 polearm 4 5.1 оружие древковое"
+    "search_text": "крепящий горы шип mountain-bracing bolt 镇山之钉 polearm weapon 4 5.1 оружие древковое"
   },
   {
     "id": "primordial_jade_winged_spear",
@@ -4538,6 +4704,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -4553,7 +4720,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "нефритовый коршун primordial jade winged-spear 和璞鸢 polearm 5 1.0 оружие древковое сяо"
+    "search_text": "нефритовый коршун primordial jade winged-spear 和璞鸢 polearm weapon 5 1.0 оружие древковое сяо"
   },
   {
     "id": "prospectors_drill",
@@ -4566,6 +4733,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.1",
     "tags": [
@@ -4580,7 +4748,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4001000,
-    "search_text": "бур рудоискателя prospector's drill 勘探钻机 polearm 4 4.1 оружие древковое"
+    "search_text": "бур рудоискателя prospector's drill 勘探钻机 polearm weapon 4 4.1 оружие древковое"
   },
   {
     "id": "prospectors_shovel",
@@ -4593,6 +4761,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.0",
     "tags": [
@@ -4607,7 +4776,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6000000,
-    "search_text": "лопата старателя prospector's shovel 掘金之锹 polearm 4 6.0 оружие древковое"
+    "search_text": "лопата старателя prospector's shovel 掘金之锹 polearm weapon 4 6.0 оружие древковое"
   },
   {
     "id": "prototype_starglitter",
@@ -4620,6 +4789,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -4634,7 +4804,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "прототип: звёздный блеск prototype starglitter 试作星镰 polearm 4 1.0 оружие древковое"
+    "search_text": "прототип: звёздный блеск prototype starglitter 试作星镰 polearm weapon 4 1.0 оружие древковое"
   },
   {
     "id": "rightful_reward",
@@ -4647,6 +4817,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -4661,7 +4832,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "справедливая награда rightful reward 公义的酬报 polearm 4 4.0 оружие древковое"
+    "search_text": "справедливая награда rightful reward 公义的酬报 polearm weapon 4 4.0 оружие древковое"
   },
   {
     "id": "royal_spear",
@@ -4674,6 +4845,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -4688,7 +4860,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "королевское копьё royal spear 宗室猎枪 polearm 4 1.0 оружие древковое"
+    "search_text": "королевское копьё royal spear 宗室猎枪 polearm weapon 4 1.0 оружие древковое"
   },
   {
     "id": "sacrificers_staff",
@@ -4701,6 +4873,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.1",
     "tags": [
@@ -4715,7 +4888,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6001000,
-    "search_text": "посох жертвующей sacrificer's staff 圣祭者的辉杖 polearm 4 6.1 оружие древковое"
+    "search_text": "посох жертвующей sacrificer's staff 圣祭者的辉杖 polearm weapon 4 6.1 оружие древковое"
   },
   {
     "id": "skyward_spine",
@@ -4728,6 +4901,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [
@@ -4742,7 +4916,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "небесная ось skyward spine 天空之脊 polearm 5 1.0 оружие древковое"
+    "search_text": "небесная ось skyward spine 天空之脊 polearm weapon 5 1.0 оружие древковое"
   },
   {
     "id": "staff_of_homa",
@@ -4755,6 +4929,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.3",
     "tags": [
@@ -4770,7 +4945,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1003000,
-    "search_text": "посох хомы staff of homa 护摩之杖 polearm 5 1.3 оружие древковое ху тао"
+    "search_text": "посох хомы staff of homa 护摩之杖 polearm weapon 5 1.3 оружие древковое ху тао"
   },
   {
     "id": "staff_of_the_scarlet_sands",
@@ -4783,6 +4958,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.1",
     "tags": [
@@ -4798,7 +4974,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3001000,
-    "search_text": "посох алых песков staff of the scarlet sands 赤沙之杖 polearm 5 3.1 оружие древковое сайно"
+    "search_text": "посох алых песков staff of the scarlet sands 赤沙之杖 polearm weapon 5 3.1 оружие древковое сайно"
   },
   {
     "id": "symphonist_of_scents",
@@ -4811,6 +4987,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.6",
     "tags": [
@@ -4826,7 +5003,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5006000,
-    "search_text": "симфонист ароматов symphonist of scents 香韵奏者 polearm 5 5.6 оружие древковое эскофье"
+    "search_text": "симфонист ароматов symphonist of scents 香韵奏者 polearm weapon 5 5.6 оружие древковое эскофье"
   },
   {
     "id": "tamayuratei_no_ohanashi",
@@ -4839,6 +5016,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.4",
     "tags": [
@@ -4853,7 +5031,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5004000,
-    "search_text": "тамаюратэй но оханаси tamayuratei no ohanashi 且住亭御咄 polearm 4 5.4 оружие древковое"
+    "search_text": "тамаюратэй но оханаси tamayuratei no ohanashi 且住亭御咄 polearm weapon 4 5.4 оружие древковое"
   },
   {
     "id": "the_catch",
@@ -4866,6 +5044,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.1",
     "tags": [
@@ -4880,7 +5059,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2001000,
-    "search_text": "«улов» \"the catch\" 「渔获」 polearm 4 2.1 оружие древковое"
+    "search_text": "«улов» \"the catch\" 「渔获」 polearm weapon 4 2.1 оружие древковое"
   },
   {
     "id": "vortex_vanquisher",
@@ -4893,6 +5072,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.1",
     "tags": [
@@ -4908,7 +5088,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1001000,
-    "search_text": "покоритель вихря vortex vanquisher 贯虹之槊 polearm 5 1.1 оружие древковое чжун ли"
+    "search_text": "покоритель вихря vortex vanquisher 贯虹之槊 polearm weapon 5 1.1 оружие древковое чжун ли"
   },
   {
     "id": "wavebreakers_fin",
@@ -4921,6 +5101,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.2",
     "tags": [
@@ -4935,7 +5116,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2002000,
-    "search_text": "режущий волны плавник wavebreaker's fin 断浪长鳍 polearm 4 2.2 оружие древковое"
+    "search_text": "режущий волны плавник wavebreaker's fin 断浪长鳍 polearm weapon 4 2.2 оружие древковое"
   },
   {
     "id": "white_tassel",
@@ -4948,6 +5129,7 @@
     },
     "weapon_type": "polearm",
     "type": "polearm",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -4962,7 +5144,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "белая кисть white tassel 白缨枪 polearm 3 1.0 оружие древковое"
+    "search_text": "белая кисть white tassel 白缨枪 polearm weapon 3 1.0 оружие древковое"
   },
   {
     "id": "absolution",
@@ -4975,6 +5157,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.7",
     "tags": [
@@ -4988,7 +5171,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4007000,
-    "search_text": "отпущение грехов absolution 赦罪 sword 5 4.7 клоринда"
+    "search_text": "отпущение грехов absolution 赦罪 sword weapon 5 4.7 клоринда"
   },
   {
     "id": "amenoma_kageuchi",
@@ -5001,6 +5184,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.0",
     "tags": [
@@ -5015,7 +5199,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2000000,
-    "search_text": "амэнома кагэути amenoma kageuchi 天目影打刀 sword 4 2.0 оружие одноручное"
+    "search_text": "амэнома кагэути amenoma kageuchi 天目影打刀 sword weapon 4 2.0 оружие одноручное"
   },
   {
     "id": "aquila_favonia",
@@ -5028,6 +5212,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [],
@@ -5039,7 +5224,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "меч сокола aquila favonia 风鹰剑 sword 5 1.0"
+    "search_text": "меч сокола aquila favonia 风鹰剑 sword weapon 5 1.0"
   },
   {
     "id": "athame_artis",
@@ -5052,6 +5237,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.2",
     "tags": [
@@ -5065,7 +5251,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6002000,
-    "search_text": "атаме артис athame artis 黑蚀 sword 5 6.2 дурин"
+    "search_text": "атаме артис athame artis 黑蚀 sword weapon 5 6.2 дурин"
   },
   {
     "id": "azurelight",
@@ -5078,6 +5264,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.7",
     "tags": [
@@ -5093,7 +5280,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5007000,
-    "search_text": "лазурное сияние azurelight 苍耀 sword 5 5.7 скирк ангел койтар"
+    "search_text": "лазурное сияние azurelight 苍耀 sword weapon 5 5.7 скирк ангел койтар"
   },
   {
     "id": "blackcliff_longsword",
@@ -5106,6 +5293,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -5120,7 +5308,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "черногорский длинный меч blackcliff longsword 黑岩长剑 sword 4 1.0 оружие одноручное"
+    "search_text": "черногорский длинный меч blackcliff longsword 黑岩长剑 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "calamity_of_eshu",
@@ -5133,6 +5321,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.2",
     "tags": [
@@ -5147,7 +5336,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5002000,
-    "search_text": "бедствие эшу calamity of eshu 厄水之祸 sword 4 5.2 оружие одноручное"
+    "search_text": "бедствие эшу calamity of eshu 厄水之祸 sword weapon 4 5.2 оружие одноручное"
   },
   {
     "id": "cinnabar_spindle",
@@ -5160,6 +5349,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.3",
     "tags": [
@@ -5175,7 +5365,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2003000,
-    "search_text": "киноварное веретено cinnabar spindle 辰砂之纺锤 sword 4 2.3 оружие одноручное альбедо"
+    "search_text": "киноварное веретено cinnabar spindle 辰砂之纺锤 sword weapon 4 2.3 оружие одноручное альбедо"
   },
   {
     "id": "cool_steel",
@@ -5188,6 +5378,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -5202,7 +5393,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "холодное лезвие cool steel 冷刃 sword 3 1.0 оружие одноручное"
+    "search_text": "холодное лезвие cool steel 冷刃 sword weapon 3 1.0 оружие одноручное"
   },
   {
     "id": "dark_iron_sword",
@@ -5215,6 +5406,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -5229,7 +5421,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "тёмный железный меч dark iron sword 暗铁剑 sword 3 1.0 оружие одноручное"
+    "search_text": "тёмный железный меч dark iron sword 暗铁剑 sword weapon 3 1.0 оружие одноручное"
   },
   {
     "id": "dull_blade",
@@ -5242,6 +5434,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 1,
     "game_version": "1.0",
     "tags": [
@@ -5256,7 +5449,7 @@
     "filter_regions": [],
     "filter_type": "1",
     "sort_version": 1000000,
-    "search_text": "тупой меч dull blade 无锋剑 sword 1 1.0 оружие одноручное"
+    "search_text": "тупой меч dull blade 无锋剑 sword weapon 1 1.0 оружие одноручное"
   },
   {
     "id": "favonius_sword",
@@ -5269,6 +5462,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -5283,7 +5477,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "меч фавония favonius sword 西风剑 sword 4 1.0 оружие одноручное"
+    "search_text": "меч фавония favonius sword 西风剑 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "festering_desire",
@@ -5296,6 +5490,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.2",
     "tags": [
@@ -5310,7 +5505,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1002000,
-    "search_text": "осквернённое желание festering desire 腐殖之剑 sword 4 1.2 оружие одноручное"
+    "search_text": "осквернённое желание festering desire 腐殖之剑 sword weapon 4 1.2 оружие одноручное"
   },
   {
     "id": "fillet_blade",
@@ -5323,6 +5518,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -5337,7 +5533,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "филейный нож fillet blade 吃虎鱼刀 sword 3 1.0 оружие одноручное"
+    "search_text": "филейный нож fillet blade 吃虎鱼刀 sword weapon 3 1.0 оружие одноручное"
   },
   {
     "id": "finale_of_the_deep",
@@ -5350,6 +5546,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -5364,7 +5561,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "грандиозный финал глубин finale of the deep 海渊终曲 sword 4 4.0 оружие одноручное"
+    "search_text": "грандиозный финал глубин finale of the deep 海渊终曲 sword weapon 4 4.0 оружие одноручное"
   },
   {
     "id": "fleuve_cendre_ferryman",
@@ -5377,6 +5574,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -5391,7 +5589,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "перевозчик флёв сандр fleuve cendre ferryman 灰河渡手 sword 4 4.0 оружие одноручное"
+    "search_text": "перевозчик флёв сандр fleuve cendre ferryman 灰河渡手 sword weapon 4 4.0 оружие одноручное"
   },
   {
     "id": "flute_of_ezpitzal",
@@ -5404,6 +5602,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.0",
     "tags": [
@@ -5418,7 +5617,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5000000,
-    "search_text": "флейта эспицаль flute of ezpitzal 息燧之笛 sword 4 5.0 оружие одноручное"
+    "search_text": "флейта эспицаль flute of ezpitzal 息燧之笛 sword weapon 4 5.0 оружие одноручное"
   },
   {
     "id": "freedom_sworn",
@@ -5431,6 +5630,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.6",
     "tags": [
@@ -5444,7 +5644,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1006000,
-    "search_text": "клятва свободы freedom-sworn 苍古自由之誓 sword 5 1.6 кадзуха"
+    "search_text": "клятва свободы freedom-sworn 苍古自由之誓 sword weapon 5 1.6 кадзуха"
   },
   {
     "id": "haran_geppaku_futsu",
@@ -5457,6 +5657,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.6",
     "tags": [
@@ -5470,7 +5671,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2006000,
-    "search_text": "харан гэппаку фуцу haran geppaku futsu 波乱月白经津 sword 5 2.6 аято"
+    "search_text": "харан гэппаку фуцу haran geppaku futsu 波乱月白经津 sword weapon 5 2.6 аято"
   },
   {
     "id": "harbinger_of_dawn",
@@ -5483,6 +5684,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -5497,7 +5699,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "предвестник зари harbinger of dawn 黎明神剑 sword 3 1.0 оружие одноручное"
+    "search_text": "предвестник зари harbinger of dawn 黎明神剑 sword weapon 3 1.0 оружие одноручное"
   },
   {
     "id": "iron_sting",
@@ -5510,6 +5712,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -5524,7 +5727,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "стальное жало iron sting 铁蜂刺 sword 4 1.0 оружие одноручное"
+    "search_text": "стальное жало iron sting 铁蜂刺 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "kagotsurube_isshin",
@@ -5537,6 +5740,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "2.8",
     "tags": [
@@ -5551,7 +5755,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 2008000,
-    "search_text": "кагоцурубэ иссин kagotsurube isshin 笼钓瓶一心 sword 4 2.8 оружие одноручное"
+    "search_text": "кагоцурубэ иссин kagotsurube isshin 笼钓瓶一心 sword weapon 4 2.8 оружие одноручное"
   },
   {
     "id": "key_of_khaj_nisut",
@@ -5564,6 +5768,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.1",
     "tags": [
@@ -5577,7 +5782,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3001000,
-    "search_text": "ключ хадж-нисут key of khaj-nisut 圣显之钥 sword 5 3.1 нилу"
+    "search_text": "ключ хадж-нисут key of khaj-nisut 圣显之钥 sword weapon 5 3.1 нилу"
   },
   {
     "id": "light_of_foliar_incision",
@@ -5590,6 +5795,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "3.4",
     "tags": [
@@ -5604,7 +5810,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 3004000,
-    "search_text": "свет лиственного разреза light of foliar incision 裁叶萃光 sword 5 3.4 аль-хайтам хайтам"
+    "search_text": "свет лиственного разреза light of foliar incision 裁叶萃光 sword weapon 5 3.4 аль-хайтам хайтам"
   },
   {
     "id": "lightbearing_moonshard",
@@ -5617,6 +5823,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "6.3",
     "tags": [
@@ -5631,7 +5838,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 6003000,
-    "search_text": "светоносный осколок луны lightbearing moonshard 朏魄含光 sword 5 6.3 белая лошадь цзы бай"
+    "search_text": "светоносный осколок луны lightbearing moonshard 朏魄含光 sword weapon 5 6.3 белая лошадь цзы бай"
   },
   {
     "id": "lions_roar",
@@ -5644,6 +5851,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -5658,7 +5866,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "драконий рык lion's roar 匣里龙吟 sword 4 1.0 оружие одноручное"
+    "search_text": "драконий рык lion's roar 匣里龙吟 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "mistsplitter_reforged",
@@ -5671,6 +5879,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "2.0",
     "tags": [
@@ -5684,7 +5893,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 2000000,
-    "search_text": "рассекающий туман mistsplitter reforged 雾切之回光 sword 5 2.0 аяка"
+    "search_text": "рассекающий туман mistsplitter reforged 雾切之回光 sword weapon 5 2.0 аяка"
   },
   {
     "id": "moonweavers_dawn",
@@ -5697,6 +5906,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.0",
     "tags": [
@@ -5711,7 +5921,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6000000,
-    "search_text": "рассвет прядильщицы луны moonweaver's dawn 织月者的曙色 sword 4 6.0 оружие одноручное"
+    "search_text": "рассвет прядильщицы луны moonweaver's dawn 织月者的曙色 sword weapon 4 6.0 оружие одноручное"
   },
   {
     "id": "peak_patrol_song",
@@ -5724,6 +5934,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "5.1",
     "tags": [
@@ -5737,7 +5948,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 5001000,
-    "search_text": "песнь патруля пиков peak patrol song 岩峰巡歌 sword 5 5.1 шилонен"
+    "search_text": "песнь патруля пиков peak patrol song 岩峰巡歌 sword weapon 5 5.1 шилонен"
   },
   {
     "id": "primordial_jade_cutter",
@@ -5750,6 +5961,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.3",
     "tags": [],
@@ -5761,7 +5973,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1003000,
-    "search_text": "драгоценный омут primordial jade cutter 磐岩结绿 sword 5 1.3"
+    "search_text": "драгоценный омут primordial jade cutter 磐岩结绿 sword weapon 5 1.3"
   },
   {
     "id": "prototype_rancour",
@@ -5774,6 +5986,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -5788,7 +6001,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "прототип: злоба prototype rancour 试作斩岩 sword 4 1.0 оружие одноручное"
+    "search_text": "прототип: злоба prototype rancour 试作斩岩 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "royal_longsword",
@@ -5801,6 +6014,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -5815,7 +6029,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "меч аристократов royal longsword 宗室长剑 sword 4 1.0 оружие одноручное"
+    "search_text": "меч аристократов royal longsword 宗室长剑 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "sacrificial_sword",
@@ -5828,6 +6042,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -5842,7 +6057,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "церемониальный меч sacrificial sword 祭礼剑 sword 4 1.0 оружие одноручное"
+    "search_text": "церемониальный меч sacrificial sword 祭礼剑 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "sapwood_blade",
@@ -5855,6 +6070,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.0",
     "tags": [
@@ -5869,7 +6085,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3000000,
-    "search_text": "деревянный клинок sapwood blade 原木刀 sword 4 3.0 оружие одноручное"
+    "search_text": "деревянный клинок sapwood blade 原木刀 sword weapon 4 3.0 оружие одноручное"
   },
   {
     "id": "serenitys_call",
@@ -5882,6 +6098,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "6.0",
     "tags": [
@@ -5896,7 +6113,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 6000000,
-    "search_text": "зов безмятежности serenity's call 谧音吹哨 sword 4 6.0 оружие одноручное"
+    "search_text": "зов безмятежности serenity's call 谧音吹哨 sword weapon 4 6.0 оружие одноручное"
   },
   {
     "id": "silver_sword",
@@ -5909,6 +6126,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 2,
     "game_version": "1.0",
     "tags": [
@@ -5923,7 +6141,7 @@
     "filter_regions": [],
     "filter_type": "2",
     "sort_version": 1000000,
-    "search_text": "серебряный меч silver sword 银剑 sword 2 1.0 оружие одноручное"
+    "search_text": "серебряный меч silver sword 银剑 sword weapon 2 1.0 оружие одноручное"
   },
   {
     "id": "skyrider_sword",
@@ -5936,6 +6154,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -5950,7 +6169,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "меч небесного всадника skyrider sword 飞天御剑 sword 3 1.0 оружие одноручное"
+    "search_text": "меч небесного всадника skyrider sword 飞天御剑 sword weapon 3 1.0 оружие одноручное"
   },
   {
     "id": "skyward_blade",
@@ -5963,6 +6182,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.0",
     "tags": [],
@@ -5974,7 +6194,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1000000,
-    "search_text": "небесный меч skyward blade 天空之刃 sword 5 1.0"
+    "search_text": "небесный меч skyward blade 天空之刃 sword weapon 5 1.0"
   },
   {
     "id": "splendor_of_tranquil_waters",
@@ -5987,6 +6207,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.2",
     "tags": [
@@ -6000,7 +6221,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4002000,
-    "search_text": "блеск тихих вод splendor of tranquil waters 静水流涌之辉 sword 5 4.2 фурина"
+    "search_text": "блеск тихих вод splendor of tranquil waters 静水流涌之辉 sword weapon 5 4.2 фурина"
   },
   {
     "id": "sturdy_bone",
@@ -6013,6 +6234,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "5.1",
     "tags": [
@@ -6027,7 +6249,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 5001000,
-    "search_text": "крепкая кость sturdy bone 弥坚骨 sword 4 5.1 оружие одноручное"
+    "search_text": "крепкая кость sturdy bone 弥坚骨 sword weapon 4 5.1 оружие одноручное"
   },
   {
     "id": "summit_shaper",
@@ -6040,6 +6262,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "1.2",
     "tags": [],
@@ -6051,7 +6274,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 1002000,
-    "search_text": "кромсатель пиков summit shaper 斫峰之刃 sword 5 1.2"
+    "search_text": "кромсатель пиков summit shaper 斫峰之刃 sword weapon 5 1.2"
   },
   {
     "id": "sword_of_descension",
@@ -6064,6 +6287,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -6079,7 +6303,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "меч нисхождения sword of descension 降临之剑 sword 4 1.0 оружие одноручное путешественник"
+    "search_text": "меч нисхождения sword of descension 降临之剑 sword weapon 4 1.0 оружие одноручное путешественник"
   },
   {
     "id": "sword_of_narzissenkreuz",
@@ -6092,6 +6316,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.2",
     "tags": [
@@ -6106,7 +6331,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4002000,
-    "search_text": "меч нарциссенкрейца sword of narzissenkreuz 水仙十字之剑 sword 4 4.2 оружие одноручное"
+    "search_text": "меч нарциссенкрейца sword of narzissenkreuz 水仙十字之剑 sword weapon 4 4.2 оружие одноручное"
   },
   {
     "id": "the_alley_flash",
@@ -6119,6 +6344,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.4",
     "tags": [
@@ -6133,7 +6359,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1004000,
-    "search_text": "вспышка во тьме the alley flash 暗巷闪光 sword 4 1.4 оружие одноручное"
+    "search_text": "вспышка во тьме the alley flash 暗巷闪光 sword weapon 4 1.4 оружие одноручное"
   },
   {
     "id": "the_black_sword",
@@ -6146,6 +6372,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -6160,7 +6387,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "чёрный меч the black sword 黑剑 sword 4 1.0 оружие одноручное"
+    "search_text": "чёрный меч the black sword 黑剑 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "the_dockhands_assistant",
@@ -6173,6 +6400,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.1",
     "tags": [
@@ -6187,7 +6415,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4001000,
-    "search_text": "верфь the dockhand's assistant 船坞长剑 sword 4 4.1 оружие одноручное"
+    "search_text": "верфь the dockhand's assistant 船坞长剑 sword weapon 4 4.1 оружие одноручное"
   },
   {
     "id": "the_flute",
@@ -6200,6 +6428,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "1.0",
     "tags": [
@@ -6214,7 +6443,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 1000000,
-    "search_text": "меч-флейта the flute 笛剑 sword 4 1.0 оружие одноручное"
+    "search_text": "меч-флейта the flute 笛剑 sword weapon 4 1.0 оружие одноручное"
   },
   {
     "id": "toukabou_shigure",
@@ -6227,6 +6456,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.3",
     "tags": [
@@ -6241,7 +6471,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3003000,
-    "search_text": "токабо сигурэ toukabou shigure 东花坊时雨 sword 4 3.3 оружие одноручное"
+    "search_text": "токабо сигурэ toukabou shigure 东花坊时雨 sword weapon 4 3.3 оружие одноручное"
   },
   {
     "id": "travelers_handy_sword",
@@ -6254,6 +6484,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 3,
     "game_version": "1.0",
     "tags": [
@@ -6268,7 +6499,7 @@
     "filter_regions": [],
     "filter_type": "3",
     "sort_version": 1000000,
-    "search_text": "меч путешественника traveler's handy sword 旅行剑 sword 3 1.0 оружие одноручное"
+    "search_text": "меч путешественника traveler's handy sword 旅行剑 sword weapon 3 1.0 оружие одноручное"
   },
   {
     "id": "uraku_misugiri",
@@ -6281,6 +6512,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 5,
     "game_version": "4.5",
     "tags": [
@@ -6294,7 +6526,7 @@
     "filter_regions": [],
     "filter_type": "5",
     "sort_version": 4005000,
-    "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword 5 4.5 тиори"
+    "search_text": "ураку мисугири uraku misugiri 有乐御簾切 sword weapon 5 4.5 тиори"
   },
   {
     "id": "wolf_fang",
@@ -6307,6 +6539,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "4.0",
     "tags": [
@@ -6321,7 +6554,7 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 4000000,
-    "search_text": "волчий клык wolf-fang 狼牙 sword 4 4.0 оружие одноручное"
+    "search_text": "волчий клык wolf-fang 狼牙 sword weapon 4 4.0 оружие одноручное"
   },
   {
     "id": "xiphos_moonlight",
@@ -6334,6 +6567,7 @@
     },
     "weapon_type": "sword",
     "type": "sword",
+    "entry_kind": "weapon",
     "rarity": 4,
     "game_version": "3.1",
     "tags": [
@@ -6348,6 +6582,6 @@
     "filter_regions": [],
     "filter_type": "4",
     "sort_version": 3001000,
-    "search_text": "лунное сияние ксифоса xiphos' moonlight 西福斯的月光 sword 4 3.1 оружие одноручное"
+    "search_text": "лунное сияние ксифоса xiphos' moonlight 西福斯的月光 sword weapon 4 3.1 оружие одноручное"
   }
 ]

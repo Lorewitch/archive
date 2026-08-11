@@ -1,6 +1,7 @@
 # id: quest_wq_73024
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Встреча в лесу
 # title_en: Woodland Encounter
 # title_zh: 林中奇遇

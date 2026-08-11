@@ -1,6 +1,7 @@
 # id: quest_eq_10005
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Праздник морских фонарей. День 5
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Праздник морских фонарей. День 5
 # title_en: Lantern Rite: Day 5
 # title_zh: 海灯节 第五天

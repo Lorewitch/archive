@@ -1,6 +1,7 @@
 # id: quest_wq_73528
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Secret Summer Paradise
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Правда же зяблики самые милые?
 # title_en: Aren't Finches the Cutest?
 # title_zh: 团雀是否最可爱！

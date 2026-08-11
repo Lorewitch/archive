@@ -1,5 +1,6 @@
 # id: quest_lq_2071
 # story_group: legend_quests
+# display_category: Задание племени · Удел Благодатных Земель
 # icon: assets/icons/stories/quests/natlan_bisonsaurus.webp
 # title_ru: Отдых в саду
 # title_en: Orchard Repose

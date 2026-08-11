@@ -1,6 +1,7 @@
 # id: quest_wq_72279
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Festival Deeds
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Как мы спасли стенд для фото тануки
 # title_en: About That Time We Saved the Tanuki Photo Board
 # title_zh: 关于拯救狸猫合影板这件事

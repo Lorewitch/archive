@@ -1,10 +1,11 @@
 # id: quest_wq_70825
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Мондштадт
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Последствия катастрофы
 # title_en: In the Aftermath
 # title_zh: 善后工作
-# region: Тейват
+# region: Мондштадт
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 70825

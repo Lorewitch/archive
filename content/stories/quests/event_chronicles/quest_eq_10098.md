@@ -1,5 +1,6 @@
 # id: quest_eq_10098
 # story_group: event_chronicles
+# display_category: Ивент · О балладах и кубках
 # icon: assets/icons/stories/quests/vintage.webp
 # title_ru: Узы песни
 # title_en: Bonds of Melody

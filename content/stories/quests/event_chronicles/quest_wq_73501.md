@@ -1,6 +1,7 @@
 # id: quest_wq_73501
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Graven Innocence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Популярная игрушка
 # title_en: Selling Like Hot Carvings
 # title_zh: 热销的木刻

@@ -1,6 +1,7 @@
 # id: quest_wq_73651
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Tablet Analytics
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Чудачка на скале и опасное исследование
 # title_en: The Cliffside Weirdo and a Risky Study?
 # title_zh: 崖边怪人与危险的研究？

@@ -1,5 +1,6 @@
 # id: quest_lq_2054
 # story_group: legend_quests
+# display_category: Задание племени · Потомки Крон
 # icon: assets/icons/stories/quests/natlan_hookwalker.webp
 # title_ru: Сделка с Киничем
 # title_en: Kinich's Deal

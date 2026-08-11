@@ -1,10 +1,11 @@
 # id: quest_wq_22016
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Инадзума
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Всеядные гурманы: о важности правильного питания
 # title_en: The Gourmet Supremos: The Importance of Eating Well
 # title_zh: 全能美食队·吃饱的重要性
-# region: Тейват
+# region: Инадзума
 # game_version: 2.0
 # release_versions: 2.0
 # source_id: 22016

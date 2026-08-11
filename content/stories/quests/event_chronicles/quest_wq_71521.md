@@ -1,6 +1,7 @@
 # id: quest_wq_71521
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Waterborne Poetry
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Поиск творческих перспектив
 # title_en: Mending Painting Prospects
 # title_zh: 寻景觅画

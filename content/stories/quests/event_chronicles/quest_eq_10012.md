@@ -1,5 +1,6 @@
 # id: quest_eq_10012
 # story_group: event_chronicles
+# display_category: Ивент · Принц мела и дракон
 # icon: assets/icons/stories/quests/dragonspine.webp
 # title_ru: Налётчики в снежной пелене
 # title_en: Raiders Amidst Snow Mist

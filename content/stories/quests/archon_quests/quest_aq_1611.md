@@ -1,10 +1,11 @@
 # id: quest_aq_1611
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/nodkrai.webp
 # title_ru: Миллионы путей, изменение и угасание
 # title_en: Of Myriad Paths, Flux, and Dissolution
 # title_zh: 道成千壑，因果异灭
-# region: Нод-Край
+# region: Сумеру
 # game_version: 6.6
 # release_versions: 6.6
 # source_id: 1611

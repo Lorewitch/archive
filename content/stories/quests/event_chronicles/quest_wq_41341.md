@@ -1,6 +1,7 @@
 # id: quest_wq_41341
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Lantern Rite Tales
+# icon: assets/icons/stories/quests/lantern_rite.webp
 # title_ru: Маленький фонарик, маленькое желание
 # title_en: Little Lantern, Little Wish
 # title_zh: 小霄灯与小愿望

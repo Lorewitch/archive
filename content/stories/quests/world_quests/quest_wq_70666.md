@@ -1,6 +1,7 @@
 # id: quest_wq_70666
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Испытание возвышения I
 # title_en: Ascension Challenge I
 # title_zh: 牌手等级突破·一

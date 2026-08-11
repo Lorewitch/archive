@@ -1,10 +1,11 @@
 # id: quest_wq_71005
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Девять мировых колонн
 # title_en: Nine Pillars of Peace
 # title_zh: 靖世九柱
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.0
 # release_versions: 1.0
 # source_id: 71005

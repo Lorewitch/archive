@@ -1,6 +1,7 @@
 # id: quest_eq_40016
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Задание архипелага 1
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Задание архипелага 1
 # title_en: Archipelago Quest 1
 # title_zh: 群岛任务一

@@ -1,6 +1,7 @@
 # id: quest_wq_71512
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · The Exquisite Night Chimes
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Незримые подвиги
 # title_en: Behind the Scenes
 # title_zh: 灯后勤绩

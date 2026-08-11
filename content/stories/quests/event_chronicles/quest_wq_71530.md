@@ -1,6 +1,7 @@
 # id: quest_wq_71530
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Vibrant Harriers Aloft in Spring Breeze
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Просто танцуй Ушоу!
 # title_en: Just Wushou Dance!
 # title_zh: 碰碰舞兽戏！

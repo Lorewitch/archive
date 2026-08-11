@@ -1,5 +1,6 @@
 # id: quest_lq_2036
 # story_group: legend_quests
+# display_category: Задание Легенд · Дэхья
 # icon: assets/icons/stories/quests/dehya.webp
 # title_ru: Львиная кровь
 # title_en: Lionsblood

@@ -1,6 +1,7 @@
 # id: quest_wq_73206
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Подаренная роза: Могут ли зацвести камни?
 # title_en: A Gifted Rose: Can Stones Bloom
 # title_zh: 献给某人的蔷薇·石头能不能开花

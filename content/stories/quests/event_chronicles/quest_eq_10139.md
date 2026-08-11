@@ -1,5 +1,6 @@
 # id: quest_eq_10139
 # story_group: event_chronicles
+# display_category: Ивент · Торжество разума
 # icon: assets/icons/stories/quests/akafes.webp
 # title_ru: И тут, и там
 # title_en: Comings and Goings

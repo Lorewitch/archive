@@ -1,6 +1,7 @@
 # id: quest_wq_76667
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Раздача еды
 # title_en: Food Matters
 # title_zh: 餐食大事

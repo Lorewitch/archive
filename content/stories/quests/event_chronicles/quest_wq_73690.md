@@ -1,6 +1,7 @@
 # id: quest_wq_73690
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Parade of Providence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Проектирование пути
 # title_en: Project Connectivity
 # title_zh: 通路计划

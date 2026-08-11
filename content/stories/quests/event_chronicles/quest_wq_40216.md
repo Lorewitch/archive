@@ -1,6 +1,7 @@
 # id: quest_wq_40216
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Clink Clank Clash
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Запасной план
 # title_en: Backup Plans
 # title_zh: 备用方案

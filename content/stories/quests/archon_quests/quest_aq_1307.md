@@ -1,5 +1,6 @@
 # id: quest_aq_1307
 # story_group: archon_quests
+# display_category: Задание Архонтов · Сумеру
 # icon: assets/icons/stories/quests/sumeru.webp
 # title_ru: Инверсия бытия
 # title_en: Inversion of Genesis

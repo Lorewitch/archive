@@ -1,6 +1,7 @@
 # id: quest_wq_79002
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Midsummer Island Adventure
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Кого слушается дикий ветер?
 # title_en: Who Wields the Wild Wind?
 # title_zh: 狂风，听谁号令

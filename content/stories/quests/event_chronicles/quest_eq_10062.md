@@ -1,5 +1,6 @@
 # id: quest_eq_10062
 # story_group: event_chronicles
+# display_category: Ивент · Снежное путешествие Пылких Сердец III
 # icon: assets/icons/stories/quests/snowrace.webp
 # title_ru: Вперёд! Вперёд! Фиетена!
 # title_en: Go, Fietena, Go!

@@ -1,5 +1,6 @@
 # id: quest_aq_1402
 # story_group: archon_quests
+# display_category: Задание Архонтов · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Словно лёгкий дождь без причины
 # title_en: As Light Rain Falls Without Reason

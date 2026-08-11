@@ -1,5 +1,6 @@
 # id: quest_eq_10029
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Остров? Приключение! Часть III
 # icon: assets/icons/stories/quests/goldenappleisles.webp
 # title_ru: Демон морей! Человек в ожидании
 # title_en: Dodo-King of the Sea: Lying in Wait

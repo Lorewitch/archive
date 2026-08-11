@@ -1,5 +1,6 @@
 # id: quest_wq_10131
 # story_group: world_quests
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/deshret.webp
 # title_ru: Утраченный апокалипсис
 # title_en: Apocalypse Lost

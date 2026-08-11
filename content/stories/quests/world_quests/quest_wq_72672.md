@@ -1,6 +1,7 @@
 # id: quest_wq_72672
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сеть всевездесущности
 # title_en: Omni-Ubiquity Net
 # title_zh: 四方八方之网

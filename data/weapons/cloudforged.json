@@ -35,5 +35,6 @@
     "byVolume": {}
   },
   "weapon_type": "bow",
-  "type": "bow"
+  "type": "bow",
+  "entry_kind": "weapon"
 }

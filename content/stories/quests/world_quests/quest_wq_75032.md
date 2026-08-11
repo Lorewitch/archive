@@ -1,6 +1,7 @@
 # id: quest_wq_75032
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Завриан возвращается в гнездо
 # title_en: A Saurian Returns to the Nest
 # title_zh: 龙的归巢

@@ -1,6 +1,7 @@
 # id: quest_wq_70522
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Of Ballads and Brews
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Магазин напитков в порту
 # title_en: Beverage Shop on the Pier
 # title_zh: 码头的饮品小店

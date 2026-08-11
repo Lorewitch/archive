@@ -1,5 +1,6 @@
 # id: quest_eq_10262
 # story_group: event_chronicles
+# display_category: Ивент · Дзынь-Клац битва: Беспорядок
 # icon: assets/icons/stories/quests/nodkraitour.webp
 # title_ru: Бум-бум-бум! Большой заговор!
 # title_en: Boong Boong Bwoooom! A Grand Plot!

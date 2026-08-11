@@ -7,22 +7,17 @@ let ITEMS = [];
 let STORIES = [];
 let ENEMIES = [];
 const DETAILS = new Map();
-const LOADED_SECTIONS = new Set();
-const SECTION_LOADS = new Map();
+const CATALOG_CACHE = new Map();
+const CATALOG_LOADS = new Map();
 const SEARCH_TEXT_CACHE = new WeakMap();
-const STORY_SEARCH_TEXTS = new Map();
-let storySearchLoad = null;
 const COMMON_ENEMY_TYPES_CACHE = new WeakMap();
 const expandedEnemyDescriptionKeys = new Set();
 const catalogScrollPositions = new Map();
 let renderSequence = 0;
 let renderedRouteKey = "";
 let activeDetail = null;
-let backgroundPrefetchStarted = false;
 let lastPrefetchedEntryKey = "";
 let menuScrollY = 0;
-
-const BACKGROUND_PREFETCH_SECTIONS = new Set(["artifacts", "weapons"]);
 
 function currentAssetVersion() {
   const script = document.currentScript || document.querySelector('script[src*="archive.js"]');
@@ -82,35 +77,6 @@ async function fetchOptionalJson(path) {
   }
 }
 
-async function loadStorySearchIndex() {
-  if (STORY_SEARCH_TEXTS.size) return STORY_SEARCH_TEXTS;
-  if (storySearchLoad) return storySearchLoad;
-
-  storySearchLoad = fetchOptionalJson("data/stories_search.json")
-    .then(source => {
-      const rows = normalizeList(source, "stories");
-      rows.forEach(row => {
-        const id = String(row?.id || "").trim();
-        if (!id) return;
-        STORY_SEARCH_TEXTS.set(id, String(row.search_text || "").toLocaleLowerCase("ru-RU"));
-      });
-      return STORY_SEARCH_TEXTS;
-    })
-    .finally(() => { storySearchLoad = null; });
-
-  return storySearchLoad;
-}
-
-function ensureStorySearchIndexForQuery(config, query) {
-  if (config.id !== "stories" || !String(query || "").trim() || STORY_SEARCH_TEXTS.size || storySearchLoad) return;
-
-  loadStorySearchIndex().then(() => {
-    if (state.section === "stories" && currentFilterState().query.trim()) {
-      updateCatalogTable(getSectionConfig("stories"));
-    }
-  }).catch(() => {});
-}
-
 function normalizeList(data, fallbackKey) {
   if (Array.isArray(data)) return data;
   if (Array.isArray(data?.[fallbackKey])) return data[fallbackKey];
@@ -131,26 +97,34 @@ function assignSectionData(sectionId, data) {
   }));
 }
 
-async function loadSectionData(sectionId) {
-  if (LOADED_SECTIONS.has(sectionId)) return;
-  if (SECTION_LOADS.has(sectionId)) return SECTION_LOADS.get(sectionId);
+function catalogCacheKey(config, subsection = state.subsection) {
+  return `${config.id}:${subsection || "all"}`;
+}
 
-  const path = sectionId === "bestiary" ? "data/enemies_index.json" : `data/${sectionId}_index.json`;
-  const loader = sectionId === "books" ? fetchJson : fetchOptionalJson;
-  const indexLoad = loader(path);
-  const promise = indexLoad
+function catalogIndexPath(config, subsection = state.subsection) {
+  if (config.groups && subsection) {
+    return `data/indexes/${encodeURIComponent(config.id)}/${encodeURIComponent(subsection)}.json`;
+  }
+  return config.id === "bestiary" ? "data/enemies_index.json" : `data/${config.id}_index.json`;
+}
+
+async function loadCatalogData(config, subsection = state.subsection) {
+  const key = catalogCacheKey(config, subsection);
+  if (CATALOG_CACHE.has(key)) {
+    assignSectionData(config.id, CATALOG_CACHE.get(key));
+    return;
+  }
+  if (CATALOG_LOADS.has(key)) return CATALOG_LOADS.get(key);
+
+  const promise = fetchOptionalJson(catalogIndexPath(config, subsection))
     .then(data => {
-      assignSectionData(sectionId, data);
-      LOADED_SECTIONS.add(sectionId);
+      const list = normalizeList(data, config.id);
+      CATALOG_CACHE.set(key, list);
+      assignSectionData(config.id, list);
     })
-    .catch(error => {
-      if (sectionId === "books") throw error;
-      assignSectionData(sectionId, []);
-      LOADED_SECTIONS.add(sectionId);
-    })
-    .finally(() => SECTION_LOADS.delete(sectionId));
+    .finally(() => CATALOG_LOADS.delete(key));
 
-  SECTION_LOADS.set(sectionId, promise);
+  CATALOG_LOADS.set(key, promise);
   return promise;
 }
 
@@ -167,7 +141,8 @@ async function getGenericDetail(sectionId, id) {
   if (DETAILS.has(cacheKey)) return DETAILS.get(cacheKey);
   const collection = getSectionConfig(sectionId).data();
   const fromIndex = collection.find(item => item.id === id) || null;
-  const detailPath = fromIndex?.detail_path || `data/${sectionId}/${encodeURIComponent(id)}.json`;
+  const detailDirectory = sectionId === "bestiary" ? "enemies" : sectionId;
+  const detailPath = fromIndex?.detail_path || `data/${detailDirectory}/${encodeURIComponent(id)}.json`;
   const detail = await fetchOptionalJson(detailPath);
   const result = detail?.id ? detail : fromIndex;
   DETAILS.set(cacheKey, result);

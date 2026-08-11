@@ -1,5 +1,6 @@
 # id: quest_lq_2022
 # story_group: legend_quests
+# display_category: Задание Легенд · Аяка
 # icon: assets/icons/stories/quests/ayaka.webp
 # title_ru: Перешёптывания журавля и белого кролика
 # title_en: The Whispers of the Crane and the White Rabbit

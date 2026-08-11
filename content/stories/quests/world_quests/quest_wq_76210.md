@@ -1,6 +1,7 @@
 # id: quest_wq_76210
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Затаившийся дракон, парящий феникс
 # title_en: Submerged Dragon, Soaring Phoenix
 # title_zh: 潜龙飞凤

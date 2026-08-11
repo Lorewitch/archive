@@ -1,10 +1,11 @@
 # id: quest_wq_73503
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Сокровище мудрости: Новый план
 # title_en: Treasure of Wisdom: A New Plan
 # title_zh: 智中之宝·新计划
-# region: Тейват
+# region: Сумеру
 # game_version: 3.0
 # release_versions: 3.0
 # source_id: 73503

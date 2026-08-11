@@ -1,6 +1,7 @@
 # id: quest_wq_71650
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Задания Департамента по делам граждан
 # title_en: Ministry Missions
 # title_zh: 「总务司」的事务

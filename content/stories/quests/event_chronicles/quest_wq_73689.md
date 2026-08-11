@@ -1,6 +1,7 @@
 # id: quest_wq_73689
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Повторный резонанс кристаллов
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Повторный резонанс кристаллов
 # title_en: Vibro-Crystal Reharmonization
 # title_zh: 振晶，映射二度

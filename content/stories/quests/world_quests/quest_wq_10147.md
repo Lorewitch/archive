@@ -1,5 +1,6 @@
 # id: quest_wq_10147
 # story_group: world_quests
+# display_category: Задание мира · Фонтейн
 # icon: assets/icons/stories/quests/fontaine.webp
 # title_ru: Дикая фея Эриния
 # title_en: The Wild Fairy of Erinnyes

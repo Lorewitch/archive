@@ -1,6 +1,7 @@
 # id: quest_wq_75029
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Вперёд! Только вперёд!
 # title_en: Charge Forward! Go, Go, Go!
 # title_zh: 向前冲！冲！冲！

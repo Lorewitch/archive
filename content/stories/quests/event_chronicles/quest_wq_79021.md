@@ -1,6 +1,7 @@
 # id: quest_wq_79021
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Summertime Odyssey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Морские сокровища
 # title_en: Treasure Voyage
 # title_zh: 寻物航行

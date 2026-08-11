@@ -1,10 +1,11 @@
 # id: quest_wq_10126
 # story_group: world_quests
+# display_category: Задание мира · Сумеру
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Бледное пламя
 # title_en: Pale Fire
 # title_zh: 微暗之火
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 10126

@@ -1,6 +1,7 @@
 # id: quest_wq_73046
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Найдите и спасите аранара
 # title_en: Look for and rescue the Aranara
 # title_zh: 寻找并解救兰那罗

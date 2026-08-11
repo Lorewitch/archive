@@ -1,6 +1,7 @@
 # id: quest_wq_41126
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Unreconciled Stars
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Проблема с письмами
 # title_en: Trouble With Letters
 # title_zh: 家书难递

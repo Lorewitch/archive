@@ -1,5 +1,6 @@
 # id: quest_wq_10031
 # story_group: world_quests
+# display_category: Задание мира · Инадзума
 # icon: assets/icons/stories/quests/common.webp
 # title_ru: Лунная бездна
 # title_en: The Moon-Bathed Deep

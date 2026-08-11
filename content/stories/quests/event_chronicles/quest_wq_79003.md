@@ -1,6 +1,7 @@
 # id: quest_wq_79003
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Midsummer Island Adventure
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Из внешних земель
 # title_en: From Outer Lands
 # title_zh: 自外而来

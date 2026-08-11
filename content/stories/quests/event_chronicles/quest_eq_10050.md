@@ -1,5 +1,6 @@
 # id: quest_eq_10050
 # story_group: event_chronicles
+# display_category: Ивент · Three Realms Gateway Offering
 # icon: assets/icons/stories/quests/michiaematsuri.webp
 # title_ru: Ловцы тумана глубин
 # title_en: Aphotic Diffusal

@@ -1,6 +1,7 @@
 # id: quest_wq_70530
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Windblume's Breath
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Ветреные снимки
 # title_en: Breezy Snapshots
 # title_zh: 风物留影

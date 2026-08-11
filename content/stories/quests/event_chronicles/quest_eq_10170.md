@@ -1,5 +1,6 @@
 # id: quest_eq_10170
 # story_group: event_chronicles
+# display_category: Ивент · Алхимия и управление I
 # icon: assets/icons/stories/quests/alchemysim.webp
 # title_ru: Чудесные зелья
 # title_en: Potions Most Potent

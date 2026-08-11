@@ -1,6 +1,7 @@
 # id: quest_wq_73520
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · A Parade of Providence
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: «Событие двадцатилетней давности»
 # title_en: "That Incident From Twenty Years Ago"
 # title_zh: 「二十年前的事」

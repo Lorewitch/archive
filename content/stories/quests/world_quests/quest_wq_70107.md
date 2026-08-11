@@ -1,6 +1,7 @@
 # id: quest_wq_70107
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Здесь очень холодно!
 # title_en: Low-Temperature Warning
 # title_zh: 低温预警

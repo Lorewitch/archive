@@ -1,6 +1,7 @@
 # id: quest_wq_70652
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Путь искателя сокровищ. Часть I
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Путь искателя сокровищ. Часть I
 # title_en: The Path of the Treasure-Seeker, Part I
 # title_zh: 寻宝的方法之一

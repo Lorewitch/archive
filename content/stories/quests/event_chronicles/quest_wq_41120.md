@@ -1,6 +1,7 @@
 # id: quest_wq_41120
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Unreconciled Stars
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Падение с небес
 # title_en: That Which Fell From the Sky
 # title_zh: 天降的某物

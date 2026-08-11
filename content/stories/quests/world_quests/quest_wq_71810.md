@@ -1,10 +1,11 @@
 # id: quest_wq_71810
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Бесконечное исследование
 # title_en: Endless Research
 # title_zh: 永无止境的研究
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71810

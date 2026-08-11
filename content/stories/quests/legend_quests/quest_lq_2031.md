@@ -1,5 +1,6 @@
 # id: quest_lq_2031
 # story_group: legend_quests
+# display_category: Задание Легенд · Кадзуха
 # icon: assets/icons/stories/quests/kazuha.webp
 # title_ru: Странная безлюдная дорога
 # title_en: A Strange and Friendless Road

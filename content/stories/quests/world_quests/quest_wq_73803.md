@@ -1,10 +1,11 @@
 # id: quest_wq_73803
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Сумеру
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Ода Гарсии: Подарок совместимости
 # title_en: Garcia's Paean: A Gift of Compatibility
 # title_zh: 加尔恰的赞歌·适配性赠礼
-# region: Тейват
+# region: Сумеру
 # game_version: 3.6
 # release_versions: 3.6
 # source_id: 73803

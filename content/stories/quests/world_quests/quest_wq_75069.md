@@ -1,6 +1,7 @@
 # id: quest_wq_75069
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание мира · Тейват
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Искажённое расширение
 # title_en: Twisted Extension
 # title_zh: 扭曲的延伸

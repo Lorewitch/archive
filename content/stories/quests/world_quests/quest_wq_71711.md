@@ -1,10 +1,11 @@
 # id: quest_wq_71711
 # story_group: world_quests
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Задание репутации · Ли Юэ
+# icon: assets/icons/stories/quests/world.webp
 # title_ru: Мондштадтские деликатесы для Гери
 # title_en: Geri's Gastro-Nostalgia
 # title_zh: 杰里的蒙德城美食回忆
-# region: Тейват
+# region: Ли Юэ
 # game_version: 1.1
 # release_versions: 1.1
 # source_id: 71711

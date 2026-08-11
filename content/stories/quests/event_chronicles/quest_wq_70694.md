@@ -1,6 +1,7 @@
 # id: quest_wq_70694
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Soulblazers' Snowbound Journey
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Сила, смелость и испытания
 # title_en: Strength, Courage, and Trials
 # title_zh: 体魄胆识与试炼

@@ -1,5 +1,6 @@
 # id: quest_lq_2021
 # story_group: legend_quests
+# display_category: Задание репутации · Инадзума
 # icon: assets/icons/stories/quests/yoimiya.webp
 # title_ru: Мечтательное безвременье
 # title_en: Dreamlike Timelessness

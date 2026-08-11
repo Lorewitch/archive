@@ -1,5 +1,6 @@
 # id: quest_eq_10195
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Драконы? Сказка!: Приложение
 # icon: assets/icons/stories/quests/fairytales.webp
 # title_ru: Послесловие
 # title_en: Afterword

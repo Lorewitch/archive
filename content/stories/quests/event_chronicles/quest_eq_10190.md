@@ -1,5 +1,6 @@
 # id: quest_eq_10190
 # story_group: event_chronicles
+# display_category: Ивент · Грандиозное рок-турне «Многоцветье самой жизни в стиле Аратаки» I
 # icon: assets/icons/stories/quests/greatfestivalv2.webp
 # title_ru: Необыкновенный тур «Многоцветье»
 # title_en: This Ain't Your Daddy's Iridescence Tour...

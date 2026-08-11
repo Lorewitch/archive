@@ -1,5 +1,6 @@
 # id: quest_eq_10194
 # story_group: event_chronicles
+# display_category: Ивент · Лето! Драконы? Сказка!: Страница III
 # icon: assets/icons/stories/quests/fairytales.webp
 # title_ru: До конца мира
 # title_en: Until the End of the World

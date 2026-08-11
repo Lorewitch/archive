@@ -1,6 +1,7 @@
 # id: quest_wq_72731
 # story_group: event_chronicles
-# icon: assets/icons/ui/quest_icon.webp
+# display_category: Ивент · Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl
+# icon: assets/icons/stories/quests/quest.webp
 # title_ru: Битвы жуков вечны!
 # title_en: The Beetle Battles Will Never End!
 # title_zh: 永无止境的斗虫较量！
